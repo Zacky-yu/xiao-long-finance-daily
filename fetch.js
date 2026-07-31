@@ -61,7 +61,7 @@ async function fetchAll() {
     // Try news cache
     let newsData = null;
     try {
-      const newsResp = await fetch('./news-cache.json');
+      const newsResp = await fetch('./news-cache.json?v=' + Date.now());
       if (newsResp.ok) newsData = await newsResp.json();
     } catch(e) { /* ignore */ }
 
@@ -518,7 +518,7 @@ async function renderMarketTrend() {
 
   let data = null;
   try {
-    const resp = await fetch('./market-trend.json');
+    const resp = await fetch('./market-trend.json?v=' + Date.now());
     if (resp.ok) data = await resp.json();
   } catch(e) { /* ignore */ }
 
@@ -582,7 +582,7 @@ async function renderBloggers() {
 
   let data = null;
   try {
-    const resp = await fetch('./fund-bloggers.json');
+    const resp = await fetch('./fund-bloggers.json?v=' + Date.now());
     if (resp.ok) data = await resp.json();
   } catch(e) { /* ignore */ }
 

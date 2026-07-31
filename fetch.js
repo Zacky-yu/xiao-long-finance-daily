@@ -616,6 +616,14 @@ async function renderBloggers() {
     '看空': 'bearish',
   };
 
+  const stanceMap = {
+    '看多': 'st-bull',
+    '偏多': 'st-bull',
+    '看空': 'st-bear',
+    '偏空': 'st-bear',
+    '中性': 'st-neu',
+  };
+
   let html = '<div class="blogger-grid">';
   for (const b of data.bloggers) {
     const tagCls = tagMap[b.followerTag] || 'tag-steady';
@@ -634,7 +642,7 @@ async function renderBloggers() {
     html += '<span class="bc-sentiment ' + sentCls + '">' + sentLabel + '</span>';
     html += '</div>';
 
-    // Operations
+    // Operations — 全部展示
     html += '<div class="bc-ops">';
     if (b.operations && b.operations.length > 0) {
       for (const op of b.operations) {
@@ -648,6 +656,21 @@ async function renderBloggers() {
       }
     }
     html += '</div>';
+
+    // 各板块见解
+    if (b.views && b.views.length > 0) {
+      html += '<div class="bc-views">';
+      html += '<div class="bc-views-label">板块见解</div>';
+      for (const v of b.views) {
+        const stCls = stanceMap[v.stance] || 'st-neu';
+        html += '<div class="bc-view-item">';
+        html += '<span class="bc-view-sector">' + escHtml(v.sector) + '</span>';
+        html += '<span class="bc-view-stance ' + stCls + '">' + escHtml(v.stance) + '</span>';
+        html += '<span class="bc-view-text">' + escHtml(v.view) + '</span>';
+        html += '</div>';
+      }
+      html += '</div>';
+    }
 
     if (b.summary) {
       html += '<div class="bc-summary">💡 ' + escHtml(b.summary) + '</div>';

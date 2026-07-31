@@ -135,6 +135,20 @@ async function updateBloggers() {
     const summary = await ask('  今日总结一句话: ');
     if (summary.trim()) blogger.summary = summary.trim();
 
+    // 各板块见解
+    blogger.views = [];
+    while (true) {
+      const sector = await ask('  板块见解-板块名 (回车结束): ');
+      if (!sector.trim()) break;
+      const stance = await ask('    立场 (看多/看空/中性): ');
+      const view = await ask('    观点: ');
+      blogger.views.push({
+        sector: sector.trim(),
+        stance: stance.trim() || '中性',
+        view: view.trim(),
+      });
+    }
+
     const sentiment = await ask('  情绪 (偏多/中性/偏空): ');
     if (sentiment.trim()) blogger.sentiment = sentiment.trim();
   }

@@ -1072,6 +1072,49 @@ header .refresh-btn:disabled { opacity: 0.5; cursor: wait; }
   color: var(--text-muted);
   font-style: italic;
 }
+
+/* Blogger sector views */
+.blogger-card .bc-views {
+  margin-top: var(--space-3);
+  padding-top: var(--space-2);
+  border-top: 1px solid var(--border-light);
+}
+.blogger-card .bc-views-label {
+  font-size: 0.68em;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: var(--space-2);
+}
+.blogger-card .bc-view-item {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-2);
+  padding: var(--space-1) 0;
+  font-size: 0.75em;
+  line-height: 1.55;
+}
+.blogger-card .bc-view-sector {
+  flex-shrink: 0;
+  font-weight: 600;
+  min-width: 58px;
+  color: var(--text-secondary);
+}
+.blogger-card .bc-view-stance {
+  flex-shrink: 0;
+  font-size: 0.62em;
+  padding: 1px 7px;
+  border-radius: var(--radius-full);
+  font-weight: 600;
+  margin-top: 2px;
+}
+.blogger-card .bc-view-stance.st-bull { background: var(--down-bg); color: var(--down); }
+.blogger-card .bc-view-stance.st-bear { background: var(--up-bg); color: var(--up); }
+.blogger-card .bc-view-stance.st-neu { background: var(--gold-bg); color: var(--gold-light); }
+.blogger-card .bc-view-text {
+  color: var(--text-muted);
+  flex: 1;
+}
 .blogger-card .bc-update {
   margin-top: var(--space-2);
   font-size: 0.65em;
@@ -1217,6 +1260,12 @@ header .refresh-btn:disabled { opacity: 0.5; cursor: wait; }
       <div class="analysis-box" id="newsAnalysis" style="border-left-color:var(--accent);"></div>
     </div>
 
+    <!-- 👥 基金博主今日操作 -->
+    <div class="section">
+      <div class="section-title" style="color:var(--purple);">👥 基金博主今日操作</div>
+      <div id="bloggerOps"></div>
+    </div>
+
     <!-- 📈 A股大盘 -->
     <div class="section">
       <div class="section-title">📈 A股大盘</div>
@@ -1267,12 +1316,6 @@ header .refresh-btn:disabled { opacity: 0.5; cursor: wait; }
     <div class="section">
       <div class="section-title" style="color:var(--teal);">📊 市场动向</div>
       <div id="marketTrend"></div>
-    </div>
-
-    <!-- 👥 基金博主今日操作 -->
-    <div class="section">
-      <div class="section-title" style="color:var(--purple);">👥 基金博主今日操作</div>
-      <div id="bloggerOps"></div>
     </div>
 
     <!-- ✨ 板块策略 -->

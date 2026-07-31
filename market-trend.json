@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-31",
+  "trends": [
+    {
+      "category": "大盘指数",
+      "market": "A股",
+      "trend": "震荡",
+      "description": "沪指围绕3300点窄幅波动，多空分歧明显。量能维持中等水平，市场等待方向选择。",
+      "factors": [
+        {
+          "text": "北向资金小幅净流入",
+          "impact": "positive"
+        },
+        {
+          "text": "中报业绩分化加剧",
+          "impact": "neutral"
+        },
+        {
+          "text": "外围市场波动传导",
+          "impact": "negative"
+        }
+      ]
+    },
+    {
+      "category": "半导体",
+      "market": "A股",
+      "trend": "回调",
+      "description": "AI算力概念股高位回落，存储芯片受涨价预期支撑相对抗跌。短期获利盘抛压明显。",
+      "factors": [
+        {
+          "text": "英伟达财报超预期但指引保守",
+          "impact": "negative"
+        },
+        {
+          "text": "DDR5涨价周期延续",
+          "impact": "positive"
+        },
+        {
+          "text": "国产替代政策催化",
+          "impact": "positive"
+        }
+      ]
+    },
+    {
+      "category": "黄金",
+      "market": "国际",
+      "trend": "企稳",
+      "description": "国际金价在2450美元附近获得支撑，地缘风险溢价提供底部支撑。等待美联储政策信号。",
+      "factors": [
+        {
+          "text": "美元指数偏弱运行",
+          "impact": "positive"
+        },
+        {
+          "text": "美联储降息预期延后",
+          "impact": "negative"
+        },
+        {
+          "text": "央行购金需求持续",
+          "impact": "positive"
+        }
+      ]
+    },
+    {
+      "category": "新能源",
+      "market": "A股",
+      "trend": "下行",
+      "description": "光伏产能过剩问题持续压制板块情绪，锂电池产业链价格战未见拐点。",
+      "factors": [
+        {
+          "text": "硅料价格继续探底",
+          "impact": "negative"
+        },
+        {
+          "text": "储能需求超预期增长",
+          "impact": "positive"
+        },
+        {
+          "text": "欧美关税政策不明朗",
+          "impact": "negative"
+        }
+      ]
+    },
+    {
+      "category": "消费",
+      "market": "A股",
+      "trend": "震荡",
+      "description": "白酒板块分化加剧，高端酒相对稳健。必选消费防御属性受关注。",
+      "factors": [
+        {
+          "text": "暑期旅游消费回暖",
+          "impact": "positive"
+        },
+        {
+          "text": "居民收入预期偏弱",
+          "impact": "negative"
+        },
+        {
+          "text": "促消费政策陆续出台",
+          "impact": "positive"
+        }
+      ]
+    }
+  ]
+}

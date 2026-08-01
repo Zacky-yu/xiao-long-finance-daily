@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/1 14:44:10",
+ "generated_at": "2026/8/1 15:07:18",
  "recent_days": 7,
  "industries": [
   {
@@ -58,12 +58,28 @@ window.INDUSTRY_DATA = {
      "zh": "据报道，OpenAI 发现证据表明其更多特工肆意妄为"
     },
     {
+     "title": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains",
+     "link": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
+     "pubDate": "Fri, 31 Jul 2026 22:03:39 +0000",
+     "summary": "DeepSeek published DeepSeek-V4-Flash-0731 on Hugging Face and moved the official V4-Flash API into public beta on July 31, 2026. The model card is explicit that this is the official release superseding the preview, and that the architecture and size are unchanged. The gains come from re-post-trainin",
+     "source": "MarkTechPost",
+     "zh": "DeepSeek 升级 DeepSeek-V4-Flash-0731，在代理和编码方面取得重大进展"
+    },
+    {
      "title": "India is starting to pay for apps, not just download them",
      "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
      "pubDate": "Fri, 31 Jul 2026 21:07:45 +0000",
      "summary": "India's app market generated a record $345 million in Q2.",
      "source": "TechCrunch AI",
      "zh": "印度开始为应用程序付费，而不仅仅是下载它们"
+    },
+    {
+     "title": "LingBot-Map Tutorial: GPU-Aware Inference and Point Cloud Export",
+     "link": "https://www.marktechpost.com/2026/07/31/lingbot-map-tutorial-gpu-aware-inference-and-point-cloud-export/",
+     "pubDate": "Fri, 31 Jul 2026 20:27:13 +0000",
+     "summary": "Discover how to implement a streaming 3D reconstruction pipeline using LingBot-Map. From GPU-aware configuration and preprocessing to GCTStream model inference and point cloud generation, this guide walks you through the steps to convert image or video sequences into consistent 3D scenes with export",
+     "source": "MarkTechPost",
+     "zh": "LingBot-Map 教程：GPU 感知推理和点云导出"
     },
     {
      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
@@ -162,6 +178,14 @@ window.INDUSTRY_DATA = {
      "zh": "AI能接管实验室了？中国科大最新研究给出真实物理世界的压力测试"
     },
     {
+     "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
+     "link": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
+     "pubDate": "Fri, 31 Jul 2026 10:32:53 +0000",
+     "summary": "JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather than live model calls. The plugin captures runtime values through JDI, asks an LLM agent for a narrow c",
+     "source": "MarkTechPost",
+     "zh": "JetBrains 开源 KotlinLLM：在运行时生成 Kotlin 源代码并通过 JDI 热重载的智能宏"
+    },
+    {
      "title": "横扫五大手游电竞赛事，稳坐电竞“神U”后，骁龙下一站：用AI颠覆游戏世界",
      "link": "https://zhidx.com/p/581138.html",
      "pubDate": "Fri, 31 Jul 2026 17:30:34 +0800",
@@ -176,6 +200,14 @@ window.INDUSTRY_DATA = {
      "summary": "开源项目GitHub狂揽8000+Star",
      "source": "量子位",
      "zh": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI"
+    },
+    {
+     "title": "Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents",
+     "link": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/",
+     "pubDate": "Fri, 31 Jul 2026 09:08:13 +0000",
+     "summary": "Nous Research has released Hermes Agent support for Buzz, Block's open source, self-hostable Nostr workspace where humans and AI agents share the same channels. Three integration paths cover Desktop runtime, relay bridge, and a native gateway platform that preserves Hermes memory, skills, approvals,",
+     "source": "MarkTechPost",
+     "zh": "Nous Research 为 Hermes Agent 和 Buzz、Block 的人类和代理开源 Nostr 工作区提供了三种集成路径"
     },
     {
      "title": "5050亿参数！余承东开源盘古新模型，“世界第一”还有些距离",
@@ -210,44 +242,12 @@ window.INDUSTRY_DATA = {
      "zh": "2K画质，三成价格！钱包友好型国产视频模型来了"
     },
     {
-     "title": "李飞飞SimFoundry很酷，但Real2Sim有更多办法",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651047571&idx=1&sn=6495a253edb8987a4b26ec66390e8960",
-     "pubDate": "Fri, 31 Jul 2026 12:43:00 +0800",
-     "summary": "直接从真实空间去构建世界。",
-     "source": "机器之心",
-     "zh": "李飞飞SimFoundry很酷，但Real2Sim有更多办法"
-    },
-    {
-     "title": "「0 人公司」能赚钱吗？他们让GPT自己经营，24小时亏损447美元",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651047571&idx=2&sn=9ae40b52aec4acbe4566b3262b6d6a83",
-     "pubDate": "Fri, 31 Jul 2026 12:43:00 +0800",
-     "summary": "AI 距离「自主创业」还有多远？",
-     "source": "机器之心",
-     "zh": "「0 人公司」能赚钱吗？他们让GPT自己经营，24小时亏损447美元"
-    },
-    {
-     "title": "ECCV 2026 | 北大团队提出 AgentHOI：不用一张HOI标注图，大模型也能看懂「谁在对什么做什么」",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651047571&idx=3&sn=021130aee02036ff3b28128319ac9048",
-     "pubDate": "Fri, 31 Jul 2026 12:43:00 +0800",
-     "summary": "聚焦于开放世界中的人 — 物交互检测任务",
-     "source": "机器之心",
-     "zh": "ECCV 2026 | 北大团队提出 AgentHOI：不用一张HOI标注图，大模型也能看懂「谁在对什么做什么」"
-    },
-    {
-     "title": "库克最后一次苹果财报会！业绩全线飘红，为何盘后大跌8%？",
-     "link": "https://zhidx.com/p/581132.html",
-     "pubDate": "Fri, 31 Jul 2026 12:22:34 +0800",
-     "summary": "智东西 作者 | 程茜 编辑 | 李水青 智东西7月31日报道，今早，苹果发布2026财年第三季度财报，营收、净利润双双创下历史同期新高。 苹果营收达到 1094亿美元（约合人民币7390亿元） ，同比增长 16% ，高于分析师预计的15.5%增长幅度，净利润 298亿美元（约合人民币2013亿元） ，同比增长 27.12% ，摊薄后每股收益2.02美元（约合人民币13.65元）。 其毛利率达到 50.1% ，其中约2个百分点的增长来自关税回扣的影响。苹果该季度的研发费用为 117.29亿美元（约合人民币792亿元） ，同比增长32.3%。 ▲ 2018 财年至 2026 财年第三季度苹果营收",
-     "source": "智东西",
-     "zh": "库克最后一次苹果财报会！业绩全线飘红，为何盘后大跌8%？"
-    },
-    {
-     "title": "Disrupting a Criminal Scam Operation",
-     "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-     "pubDate": "Fri, 31 Jul 2026 00:00:00 GMT",
-     "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-     "source": "OpenAI",
-     "zh": "破坏刑事诈骗行动"
+     "title": "PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That Fuses Turn-Taking, Speech Recognition, Function Calling, And Response",
+     "link": "https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/",
+     "pubDate": "Fri, 31 Jul 2026 05:06:43 +0000",
+     "summary": "PolyAI has introduced Dialog-RSN-1, a dialog model that perceives caller audio directly instead of reading an ASR transcript. It fuses turn-taking, speech recognition, function calling, and response generation into a single audio-native model, keeps TTS separate so the output voice stays controllabl",
+     "source": "MarkTechPost",
+     "zh": "PolyAI 发布 Dialog-RSN-1：融合轮流、语音识别、函数调用和响应的音频原生对话模型"
     }
    ]
   },
@@ -642,6 +642,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Roundup: July 2026 deliveries by major automakers in China",
+     "link": "https://cnevpost.com/2026/08/01/jul-2026-deliveries-automakers-china/",
+     "pubDate": "Sat, 01 Aug 2026 06:46:09 +0000",
+     "summary": "Nio, Xpeng and Li Auto all posted sequential declines, while Leapmotor and Zeekr reached new highs. For details, please visit CnEVPost .",
+     "source": "CnEVPost",
+     "zh": "综述：2026 年 7 月中国主要汽车制造商的交付量"
+    },
+    {
      "title": "Huawei HIMA delivers 45,046 vehicles in July, down for second straight month",
      "link": "https://cnevpost.com/2026/08/01/huawei-hima-delivers-45046-vehicles-jul-2026/",
      "pubDate": "Sat, 01 Aug 2026 06:11:00 +0000",
@@ -680,14 +688,6 @@ window.INDUSTRY_DATA = {
      "summary": "Zeekr's July deliveries rose 111% year-on-year and increased 1.9% from June. For details, please visit CnEVPost .",
      "source": "CnEVPost",
      "zh": "Zeekr 7 月交付量达 35,837 辆，连续第四个月创下纪录"
-    },
-    {
-     "title": "Leapmotor tops 100,000 monthly deliveries for first time",
-     "link": "https://cnevpost.com/2026/08/01/leapmotor-tops-100000-monthly-deliveries/",
-     "pubDate": "Sat, 01 Aug 2026 03:17:51 +0000",
-     "summary": "Leapmotor's July global deliveries reached 101,267 units, up 102% year-on-year and 8.45% from June. For details, please visit CnEVPost .",
-     "source": "CnEVPost",
-     "zh": "零跑汽车月交付量首次突破10万辆"
     },
     {
      "title": "Lectric eBikes hits $1 billion in sales, surpasses 750,000 e-bikes",
@@ -1746,12 +1746,68 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "我国首次依托水上通信渠道推送北极航道海冰预报",
-     "link": "https://www.ithome.com/0/984/501.htm",
-     "pubDate": "Sat, 01 Aug 2026 06:41:20 GMT",
-     "summary": "IT之家 8 月 1 日消息，据央视新闻报道，交通运输部北海航海保障中心今日正式对外播发北极航道海冰预报信息。 这是我国首次依托水上通信渠道推送北极航道海冰预报 ，标志着我国北极海上信息服务实现从实况播报到动态预报的跨越式发展。此举进一步健全北极航行信息保障体系，为极地航运高质量发展提供有力支撑。 图源：Pexels 2024 年 7 月 1 日，交通运输部北海航海保障中心首次开通北极航线海上安全信息播发业务，该业务由天津海岸电台通过中高频单边带无线电话播发，内容包括北极航线重点海域的海冰实况监测和气象预报信息。 该业务开通两年来，经过“雪龙 2”号等极地船舶实船测试验证，在白令海峡、挪威海等",
+     "title": "雄商高铁河北段进入运行试验阶段，设计时速 350 公里",
+     "link": "https://www.ithome.com/0/984/511.htm",
+     "pubDate": "Sat, 01 Aug 2026 07:02:27 GMT",
+     "summary": "IT之家 8 月 1 日消息，据央视新闻报道，8 月 1 日 7 时，随着 G55371 次列车从雄安站开出， 雄商高铁河北段正式进入运行试验阶段 ，为线路开通运营做最后冲刺。 运行试验是通过模拟线路正式运营状态，对高铁运输组织、设备状态等进行全面“实战”检测。国铁北京局将开展运行图参数测试、故障模拟、应急救援演练、按图行车等多项试验，为线路正式开通运营提供技术依据。 IT之家注：雄商高铁北起京雄城际铁路雄安站，终至商合杭高铁商丘站，正线全长 552 公里， 设计时速 350 公里 。 作为我国“ 八纵八横 ”高铁网京港高铁的重要组成部分，雄商高铁向南串联商丘至合肥高铁、合肥至安庆至九江高铁，",
      "source": "IT之家",
-     "zh": "我国首次依托水上通信渠道推送北极航道海冰预报"
+     "zh": "雄商高铁河北段进入运行试验阶段，设计时速 350 公里"
+    },
+    {
+     "title": "用数字回顾蒂姆 · 库克掌舵苹果的十五年历程",
+     "link": "https://www.ithome.com/0/984/510.htm",
+     "pubDate": "Sat, 01 Aug 2026 07:02:26 GMT",
+     "summary": "IT之家 8 月 1 日消息，苹果现任首席执行官蒂姆 · 库克（Tim Cook）昨天参加他任内最后一次财报电话会议，约翰 · 特努斯将在 9 月 1 日接任他的工作。 ▲ 蒂姆 · 库克 随着库克的 CEO 任期即将结束，外媒 MacRumors 用一串数字回顾了他 15 年领导下的苹果： 营收： 库克于 2011 年 8 月 24 日接任史蒂夫 · 乔布斯，成为苹果 CEO。在昨天的电话会议中，美银分析师 Wamsi Mohan 分享了自己的观察： 库克接任 CEO 时，苹果 2011 财年全年营收为 1080 亿美元 （IT之家注：现汇率约合 7306.09 亿元人民币） 2026 财年",
+     "source": "IT之家",
+     "zh": "用数字回顾蒂姆 · 库克掌舵苹果的十五年历程"
+    },
+    {
+     "title": "联合国秘书长古特雷斯：厄尔尼诺现象持续增强，给本已着火的地球火上浇油",
+     "link": "https://www.ithome.com/0/984/509.htm",
+     "pubDate": "Sat, 01 Aug 2026 07:02:23 GMT",
+     "summary": "IT之家 8 月 1 日消息，据 Phys.org 报道，当地时间 7 月 31 日，联合国秘书长安东尼奥 · 古特雷斯发出警告，厄尔尼诺现象正在持续增强，强度甚至 可能打破历史纪录 。在全球变暖已经造成严重破坏的情况下，厄尔尼诺将 进一步加剧气候危机 ，把世界推向从未经历过的局面，令本已经着火的地球再火上浇油。“两个月前，我曾警告，厄尔尼诺已经来到门口。现在，厄尔尼诺不仅登堂入室，还在继续调高温度。” 厄尔尼诺会使赤道中东部太平洋海面升温，并改变全球风向、气压和降雨分布，最终推高全球平均气温。人为造成的气候变化还会放大厄尔尼诺的破坏力。海洋和大气温度越高，极端天气能够获得的能量和水汽就越多，",
+     "source": "IT之家",
+     "zh": "联合国秘书长古特雷斯：厄尔尼诺现象持续增强，给本已着火的地球火上浇油"
+    },
+    {
+     "title": "开源电子书工具 Calibre 9.12 版发布：新增 GIF 图片转换为 JPEG / WebP 格式",
+     "link": "https://www.ithome.com/0/984/508.htm",
+     "pubDate": "Sat, 01 Aug 2026 07:02:05 GMT",
+     "summary": "IT之家 8 月 1 日消息，科技媒体 9to5Linux 昨日（7 月 31 日）发布博文，报道称开源电子书工具 Calibre 已更新至 9.12 版本，和上个版本相隔约 1 个月时间。 新版重点加入图片格式转换、目录编辑、设备固件适配、内容服务器扩展和多项缺陷修复。 功能方面，IT之家援引博文介绍，新版为“编辑书籍”（Edit Book）新增图片转换选项，可将 GIF 图片转换为 JPEG 或 WebP。此外在“目录编辑器”（ToC Editor）新增排序按钮。 服务器端方面，“内容服务器”（Content Server）现在支持插件为服务器后端添加新端点；同时，Calibre 改进了 ",
+     "source": "IT之家",
+     "zh": "开源电子书工具 Calibre 9.12 版发布：新增 GIF 图片转换为 JPEG / WebP 格式"
+    },
+    {
+     "title": "极狐汽车 7 月交付 23517 台同比增长 150.45%，阿尔法 T7 八月见",
+     "link": "https://www.ithome.com/0/984/507.htm",
+     "pubDate": "Sat, 01 Aug 2026 07:01:40 GMT",
+     "summary": "IT之家 8 月 1 日消息，极狐汽车公布 2026 年 7 月销量数据。7 月，极狐汽车交付 23517 台，同比增长 150.45%。今年 1-7 月，极狐汽车累计交付 104098 台，同比增长 80.25%。 官方海报显示，极狐阿尔法 T7 将于“8 月见真章”。这款新车此前已经公布 橙色、凝夜紫、幻影绿 配色官图，将搭载华为乾崑智驾系统以及宁德时代电池。 该车曾在 6 月现身工信部申报目录，新车有 华为乾崑、宁德时代、麦格纳 三重加持。外观方面，该车搭载极狐首款 1700mm 一体式贯通大灯，支持远近光智能切换、全天候自适应调光、转向辅助精准指引等功能，车尾则配备星环贯穿一体成型尾灯",
+     "source": "IT之家",
+     "zh": "极狐汽车 7 月交付 23517 台同比增长 150.45%，阿尔法 T7 八月见"
+    },
+    {
+     "title": "爱奇艺宣布 10 部 AIGC 电影进入成片制作阶段，奥斯卡最佳摄影得主鲍德熹负责指导",
+     "link": "https://www.ithome.com/0/984/505.htm",
+     "pubDate": "Sat, 01 Aug 2026 06:57:43 GMT",
+     "summary": "IT之家 8 月 1 日消息，爱奇艺 7 月 31 日宣布，“鲍德熹 · 爱奇艺电影剧场”正式公布最终晋级名单，10 部题材各异的 AIGC 华语商业电影项目从路演中脱颖而出， 正式进入开发阶段 。 所有晋级项目的主创团队，均将获得中国香港摄影师、导演鲍德熹全流程指导和成片质量把控、纳逗 Pro 专业级影视制作平台全链路支持、爱奇艺平台投资宣发支持等， 以更好地完成 60 分钟以上电影成片创作 。 本次晋级项目类型覆盖科幻、冒险、动作、悬疑、女性成长、情感、动画、奇幻、惊悚、喜剧等多元题材。 科幻项目《雪孩子 2085》灵感源自经典国产动画《雪孩子》，以“机器人孵蛋”守护地球最后希望的温暖治愈",
+     "source": "IT之家",
+     "zh": "爱奇艺宣布 10 部 AIGC 电影进入成片制作阶段，奥斯卡最佳摄影得主鲍德熹负责指导"
+    },
+    {
+     "title": "号卡新规后，运营商线下门店的失血和回血在同时发生",
+     "link": "https://www.huxiu.com/article/4879946.html?f=rss",
+     "pubDate": "Sat, 01 Aug 2026 14:55:18 +0800",
+     "summary": "本文来自微信公众号： 通信炼金所 ，作者：飞马腾空 理论再完美，不如到一线走一圈。本文基于温州十家运营商合作门店的实地走访，试图呈现一个被行业报告忽略的事实：当运营商总部在谈\"渠道数字化转型\"的时候，基层门店正在经历什么。 引言：总部文件与门店现实之间的断层 前面写论通信运营商主动营销的失血困局——机制建模、跨行业周期与分层处方，有同行私信说\"分析到位，但总部的领导看不到一线的真实情况\"。这话扎心。于是我去温州跑了一圈走访了十余家运营商合作门店（均以夫妻店为主）。 跑完最大的感受是：总部文件里写的\"渠道转型\"，和门店老板理解的\"活下去\"，中间隔着一道巨大的认知鸿沟。这道鸿沟不是沟通不畅造成的，",
+     "source": "虎嗅",
+     "zh": "号卡新规后，运营商线下门店的失血和回血在同时发生"
+    },
+    {
+     "title": "1350亿，世界杯差点被“卖”了",
+     "link": "https://www.huxiu.com/article/4879945.html?f=rss",
+     "pubDate": "Sat, 01 Aug 2026 14:45:02 +0800",
+     "summary": "本文来自微信公众号： 投中网 ，作者：蒲凡 只活了4天的计划。 足球之所以被称为“世界第一运动”，不仅仅在于它规则简单易懂，场面又大开大合，是和平时代里每个人都看得懂的战争沙盘，更重要的是足球是整个体育产业里“市场化”程度最高的门类。 球迷、球队、俱乐部、联赛主办方、转播商、运动品牌们共同组成了巨大的产业链。尤其是刚刚结束的世界杯，更是毫无争议的体育产业天花板：根据国际足联公布的官方数据，2018年到2022年两个世界杯周期中，包含俄罗斯世界杯与卡塔尔世界杯正赛、各大洲预算赛等多项赛事相加，总共创造了140亿美元的收入；而今年的美加墨世界杯更是大幅度的刷新了单一世界杯周期的收入记录，收入超过1",
+     "source": "虎嗅",
+     "zh": "1350亿，世界杯差点被“卖”了"
     },
     {
      "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
@@ -1770,12 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "拉里·埃里森 (Larry Ellison) 在债务推动下，通过与特朗普结盟、支持 Stargate 项目以及与 OpenAI 合作，将甲骨文打造成人工智能巨头 (纽约时报)"
     },
     {
-     "title": "Marvelous 与腾讯解除资本业务合作，《牧场物语》移动端新作被砍",
-     "link": "https://www.ithome.com/0/984/498.htm",
-     "pubDate": "Sat, 01 Aug 2026 06:29:37 GMT",
-     "summary": "IT之家 8 月 1 日消息，Marvelous 昨日宣布，将解除与腾讯全资子公司“意像架构投资”（IT之家注：Image Frame Investment）的资本业务合作关系。 据悉，本次解除合作的原因是腾讯集团重新审视投资组合、调整资本配置方针。 意像架构投资与 Marvelous 自 2020 年的合作已于昨日正式结束 ，前者目前希望出售其持有的 Marvelous 股份。 此次资本调整后， 腾讯集团将不再是 Marvelous 的主要股东 。意像架构投资目前持有 Marvelous 公司 6400 股股份，表决权比例为 20.01%。 意像架构投资计划接受由 Marvelous 回购库",
-     "source": "IT之家",
-     "zh": "Marvelous 与腾讯解除资本业务合作，《牧场物语》移动端新作被砍"
+     "title": "FCC禁令之后，具身智能企业还能站上CES2027么？｜ 出海参考",
+     "link": "https://www.tmtpost.com/8087586.html",
+     "pubDate": "Sat, 01 Aug 2026 14:31:24 +0800",
+     "summary": "FCC禁令真正改变的，或许不是中国具身机器人的研发速度，而是具身企业全球化的难度。",
+     "source": "钛媒体",
+     "zh": "FCC禁令之后，具身智能企业还能站上CES2027么？｜ 出海参考"
     },
     {
      "title": "Toronto-based Terminal, whose API connects insurance products and commercial fleet software with telematics data, raised a $20M Series A led by Battery Ventures (Alex Riehl/BetaKit)",
@@ -1802,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "总部位于特拉维夫的 Bloom Security 开发用于监控 AI 代理、扩展等的端点安全工具，凭借 2000 万美元的种子脱颖而出（Chris Metinko/Axios）"
     },
     {
-     "title": "量产后延续 15 年：兰博基尼称不会放弃翻盖式启动汽车按钮",
-     "link": "https://www.ithome.com/0/984/497.htm",
-     "pubDate": "Sat, 01 Aug 2026 06:18:28 GMT",
-     "summary": "IT之家 8 月 1 日消息，汽车媒体 CarBuzz 昨日（7 月 31 日）发布博文，报道称兰博基尼设计总监米加 · 博尔克特（Mitja Borkert）表示， 其品牌不会放弃翻盖式启动按钮。 在 2026 年古德伍德速度节（7 月 9~12 日）上，兰博基尼展示了 Urus SE Performante 在内的 3 款车型，博尔克特表示这些新车均保留翻盖式启动按钮。 图源：兰博基尼 IT之家查询公开资料，兰博基尼标志性的“战斗机导弹发射钮”式翻盖式启动按键，最早可追溯到 2007 年发布的限量版超级跑车兰博基尼 Reventón 上， 随后在 2011 年量产旗舰兰博基尼 Aventa",
-     "source": "IT之家",
-     "zh": "量产后延续 15 年：兰博基尼称不会放弃翻盖式启动汽车按钮"
-    },
-    {
      "title": "Harmony, which offers AI-powered enterprise software for handling tasks such as employee onboarding and software access, raised a $34M seed led by Lightspeed (Geoff Weiss/Business Insider)",
      "link": "https://www.techmeme.com/260801/p5#a260801p5",
      "pubDate": "Sat, 01 Aug 2026 02:15:01 -0400",
@@ -1834,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "世界首富扛不住，特斯拉辟谣甩卖中国业务"
     },
     {
-     "title": "森养 x 施耐德 AF 60-180mm F2.8 全画幅镜头 L 卡口版本月末发布，定价暂未揭晓",
-     "link": "https://www.ithome.com/0/984/496.htm",
-     "pubDate": "Sat, 01 Aug 2026 06:10:22 GMT",
-     "summary": "IT之家 8 月 1 日消息，森养与施耐德联合研发的 AF 60-180mm F2.8 全画幅相机镜头 L 卡口版本将在本月 27 日发布。作为参考，目前发售的索尼 E 口版国行定价为 5899 元，L 口版本定价预计将与之保持一致或略高。 IT之家了解到， 该镜头采用 14 组 17 片光学结构 ，拥有 1 枚 HR 高折射率镜片、7 枚 ED 超低色散镜片、2 枚 ASP 非球面镜片；配备 9 片光圈叶片，滤镜尺寸 77mm。 同时， 该镜头最近对焦距离 0.35m ，最大放大倍率 0.26 倍；搭载浮动对焦系统，配有 AF / MF 切换开关和变焦锁定开关；支持 IP5X 级防尘，配有防",
-     "source": "IT之家",
-     "zh": "森养 x 施耐德 AF 60-180mm F2.8 全画幅镜头 L 卡口版本月末发布，定价暂未揭晓"
-    },
-    {
      "title": "Foundational Industries, which aims to build AI-run factories for physical products, starting with custom data center rack enclosures, raised a $25M seed (Lily Mae Lazarus/Fortune)",
      "link": "https://www.techmeme.com/260801/p4#a260801p4",
      "pubDate": "Sat, 01 Aug 2026 02:10:00 -0400",
@@ -1852,18 +1892,10 @@ window.INDUSTRY_DATA = {
     {
      "title": "AI大厂，打起了“Token奶茶大战”",
      "link": "https://www.huxiu.com/article/4879937.html?f=rss",
-     "pubDate": "Sat, 01 Aug 2026 14:07:38 +0800",
-     "summary": "本文来自微信公众号： 字母AI ，作者：小金牙 过去两个月，AI公司突然开始集体“发券”。 北京时间7月31日，OpenAI宣布将GPT-5.6 Luna的API价格下调80%，Terra降价20%，Codex和ChatGPT Work中调用这两款模型消耗的额度也随之减少。 一时间，Token有了优惠券的既视感。它既可以是新品试喝券，也可以是系统故障后的补偿券。既能被装进会员套餐，也能做成“中杯、大杯、超大杯”，额度用完以后再续一杯。 这很像刚刚外卖界的“奶茶大战”：平台争相发券，看起来是在让用户占便宜，实际上争的是用户的消费习惯。 过去，AI公司的竞争主要发生在参数、榜单和模型发布会上。但随",
+     "pubDate": "Sat, 01 Aug 2026 14:07:00 +0800",
+     "summary": "本文来自微信公众号： 字母AI ，作者：小金牙，编辑：王靖，题图来自：AI生成 过去两个月，AI公司突然开始集体“发券”。 北京时间7月31日，OpenAI宣布将GPT-5.6 Luna的API价格下调80%，Terra降价20%，Codex和ChatGPT Work中调用这两款模型消耗的额度也随之减少。 一时间，Token有了优惠券的既视感。它既可以是新品试喝券，也可以是系统故障后的补偿券。既能被装进会员套餐，也能做成“中杯、大杯、超大杯”，额度用完以后再续一杯。 这很像刚刚外卖界的“奶茶大战”：平台争相发券，看起来是在让用户占便宜，实际上争的是用户的消费习惯。 过去，AI公司的竞争主要发生",
      "source": "虎嗅",
      "zh": "AI大厂，打起了“Token奶茶大战”"
-    },
-    {
-     "title": "今天起，电动汽车充电桩 CCC 认证开始强制实施",
-     "link": "https://www.ithome.com/0/984/495.htm",
-     "pubDate": "Sat, 01 Aug 2026 06:07:06 GMT",
-     "summary": "IT之家 8 月 1 日消息，据市场监管总局“市说新语”公众号，为强化产品质量风险源头治理，维护广大人民群众生命健康和财产安全，8 月 1 日（今天）起，市场监管总局（国家认监委）对 电动汽车供电设备强制性产品认证（CCC 认证）管理 开始强制实施，通过开展 防触电、短路保护、耐火耐燃 等关键安全指标测试和企业现场质量保证能力、产品一致性检查，切实筑牢产品质量安全底线。 随着我国新能源汽车的不断普及和发展，电动汽车供电设备（俗称充电桩）已经成为服务百姓出行需求的重要基础设施。IT之家从公告获悉，8 月 1 日起， 未获得 CCC 认证的电动汽车供电设备，不得出厂、销售、进口或者在其他经营活动中",
-     "source": "IT之家",
-     "zh": "今天起，电动汽车充电桩 CCC 认证开始强制实施"
     },
     {
      "title": "ProphetX, a CFTC-designated sports prediction market that is also building a B2B business to sell its exchange infrastructure to other companies, raised $35M (Ryan Lawler/Axios)",
@@ -1874,34 +1906,10 @@ window.INDUSTRY_DATA = {
      "zh": "ProphetX 是 CFTC 指定的体育预测市场，也在建立 B2B 业务，将其交换基础设施出售给其他公司，筹集了 3500 万美元（Ryan Lawler/Axios）"
     },
     {
-     "title": "可维修模块化手机 Fairphone 6+ 曝光：12GB 内存、3 种颜色",
-     "link": "https://www.ithome.com/0/984/494.htm",
-     "pubDate": "Sat, 01 Aug 2026 06:02:29 GMT",
-     "summary": "IT之家 8 月 1 日消息，科技媒体 nieuwemobiel 昨日（7 月 31 日）发布博文，报道称 Fairphone 6+ 将接棒 2025 年发布的 Fairphone 6 可维修模块化手机，内存从 8GB 升级到 12GB。 IT之家曾于 2025 年报道， Fairphone 6 可维修模块化手机搭载骁龙 7s Gen 3 芯片 、配备更大的 4415mAh 容量电池，以及引入新型配件接口。 而根据最新曝光的信息， 继任者 Fairphone 6+ 在存储方面继续使用 256GB，不过内存从此前机型的 8GB 升级到 12GB，涨幅 50%。 配备 8GB 运行内存的 Fair",
-     "source": "IT之家",
-     "zh": "可维修模块化手机 Fairphone 6+ 曝光：12GB 内存、3 种颜色"
-    },
-    {
-     "title": "学合肥，该学什么",
-     "link": "https://www.huxiu.com/article/4879936.html?f=rss",
-     "pubDate": "Sat, 01 Aug 2026 13:49:11 +0800",
-     "summary": "本文来自微信公众号： 经济观察报 ，作者：社论，原文标题：《经观社论｜学合肥，该学什么》 合肥的产业投资模式也曾经历了熔安动力、合肥赛维以及鑫昊等离子等一批并不成功的案例。正是在这个过程中，合肥逐渐摸索出了政府应该在培育产业中扮演什么角色。 7月27日，长鑫科技登陆科创板，盘中市值一度超过3.6万亿元。自2016年起就坚定支持长鑫科技的合肥国资也在其中获益颇丰。按照合肥国资系约37%的持股比例计算，账面价值超过1万亿元，已接近合肥一年的GDP规模。 长鑫科技让“合肥模式”又多了一个成功案例。从京东方、长鑫科技到蔚来，合肥多次在企业最需要资金、市场资本又心存疑虑的时候下重注，承担了漫长产业周期中",
-     "source": "虎嗅",
-     "zh": "学合肥，该学什么"
-    },
-    {
-     "title": "罕见病家庭的百万试验",
-     "link": "https://www.huxiu.com/article/4879935.html?f=rss",
-     "pubDate": "Sat, 01 Aug 2026 13:48:49 +0800",
-     "summary": "本文来自微信公众号： 经济观察报 ，作者：刘晓诺张铃陈雨杨 面对无药可医、日渐严重的疾病，罕见病家长们自行筹资数百万元，希望通过发起IIT、推动新疗法的研究与应用，以求短时间内为孩子争取一次接受个性化基因治疗的机会。随着小美事件的曝光，受访家长们的项目都暂时停滞。 “家长您好，基因治疗需要谨慎。我们暂时不考虑继续推进，临床大夫一切以孩子安全为先，希望理解。” 7月26日下午，方俊收到了合作医生发来的信息。他的孩子患有一种罕见退行性疾病，据他了解，全球范围内尚无针对该疾病的有效药物，方俊是目前唯一在推动基因治疗研究的人。 如今，方俊的探索被叫停了。他追问医生：“是受上海6岁女童事件的影响吗？” ",
-     "source": "虎嗅",
-     "zh": "罕见病家庭的百万试验"
-    },
-    {
      "title": "Ten Ways NAS Is Getting Enshitified",
      "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
      "pubDate": "Sat, 01 Aug 2026 05:38:16 +0000",
-     "summary": "Article URL: https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/ Comments URL: https://news.ycombinator.com/item?id=49131367 Points: 14 # Comments: 2",
+     "summary": "Article URL: https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/ Comments URL: https://news.ycombinator.com/item?id=49131367 Points: 19 # Comments: 7",
      "source": "Hacker News",
      "zh": "NAS 变得更加智能化的十种方式"
     },
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "What Liberal Arts Education Is for (2024)",
      "link": "https://innig.net/teaching/liberal-arts-manifesto",
      "pubDate": "Sat, 01 Aug 2026 04:28:13 +0000",
-     "summary": "Article URL: https://innig.net/teaching/liberal-arts-manifesto Comments URL: https://news.ycombinator.com/item?id=49131034 Points: 27 # Comments: 19",
+     "summary": "Article URL: https://innig.net/teaching/liberal-arts-manifesto Comments URL: https://news.ycombinator.com/item?id=49131034 Points: 30 # Comments: 24",
      "source": "Hacker News",
      "zh": "博雅教育的目的是什么（2024）"
     },
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "The development pipeline is a production system",
      "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
      "pubDate": "Sat, 01 Aug 2026 03:16:09 +0000",
-     "summary": "Article URL: https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system Comments URL: https://news.ycombinator.com/item?id=49130726 Points: 54 # Comments: 19",
+     "summary": "Article URL: https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system Comments URL: https://news.ycombinator.com/item?id=49130726 Points: 59 # Comments: 21",
      "source": "Hacker News",
      "zh": "开发管道是一个生产系统"
     },
@@ -1973,17 +1981,9 @@ window.INDUSTRY_DATA = {
      "title": "Flint: A Visualization Language for the AI Era",
      "link": "https://microsoft.github.io/flint-chart/",
      "pubDate": "Sat, 01 Aug 2026 02:45:09 +0000",
-     "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 72 # Comments: 19",
+     "summary": "Article URL: https://microsoft.github.io/flint-chart/ Comments URL: https://news.ycombinator.com/item?id=49130604 Points: 80 # Comments: 24",
      "source": "Hacker News",
      "zh": "Flint：AI时代的可视化语言"
-    },
-    {
-     "title": "谁在成为人形机器人的Tier 1？",
-     "link": "https://www.tmtpost.com/8087356.html",
-     "pubDate": "Sat, 01 Aug 2026 10:18:38 +0800",
-     "summary": "机器人还没有证明自己能够成为下一个汽车产业，汽车与消费电子产业的供应商却已经提前坐到了桌前。",
-     "source": "钛媒体",
-     "zh": "谁在成为人形机器人的Tier 1？"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Motorola Watch Ultra renders leak",
+     "link": "https://www.gsmarena.com/motorola_watch_ultra_renders_leak-news-73970.php",
+     "pubDate": "Sat, 01 Aug 2026 08:47:01 +0200",
+     "summary": "It seems like Motorola is now getting ready to enter the Ultra smartwatch fray, competing directly with the likes of Apple and Samsung. Today some renders showing what's purported to be the upcoming Motorola Watch Ultra have leaked. As you can see, it has a circular screen, a large rotating crown at",
+     "source": "GSMArena",
+     "zh": "摩托罗拉 Watch Ultra 渲染图泄露"
+    },
     {
      "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
      "link": "https://sspai.com/post/112701",
@@ -2170,14 +2178,6 @@ window.INDUSTRY_DATA = {
      "zh": "谷歌回滚了添加到谷歌地球中的不必要的人工智能生成工具"
     },
     {
-     "title": "Apple won't be able to meet demand in Q3",
-     "link": "https://www.gsmarena.com/huge_demand_for_apple_devices_will_outpace_supply_in_q3_-news-73960.php",
-     "pubDate": "Fri, 31 Jul 2026 21:01:02 +0200",
-     "summary": "During his last call with investors before stepping down, Apple CEO Tim Cook laid out that the upcoming September quarter (Q3) will have huge customer demand that the supply chain won't be able to meet. Cook stressed that it isn't a case of RAM constraints or lack of parts, but that, put simply, cus",
-     "source": "GSMArena",
-     "zh": "苹果第三季度将无法满足需求"
-    },
-    {
      "title": "Gmail’s new warning could save you from major embarrassment",
      "link": "https://www.androidauthority.com/gmail-bcc-warning-3693467/",
      "pubDate": "Fri, 31 Jul 2026 18:54:22 +0000",
@@ -2242,52 +2242,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "金徽酒：补缴税款及滞纳金合计8381.81万元 不涉及行政处罚",
-     "link": "http://finance.eastmoney.com/news/1354,202608013829022716.html",
-     "pubDate": "Sat, 01 Aug 2026 14:35:50 +0800",
-     "summary": "金徽酒 7月31日晚间公告，公司于近日收到国家税务总局徽县税务局伏镇税务分局出具的《税务事项通知书》。根据通知书，公司及子公司需补缴消费税、增值税、企业所得税等各项税费6985.09万元，需缴纳滞纳金1396.72万元，合计8381.81万元。本次补缴税款事项不涉及行政处罚。截至公告披露日，公司已将上述税款及滞纳金缴纳完毕。上述补缴税款和滞纳金将计入公司2026年度当期损益，预计减少公司2026年度合并报表的净利润7499.82万元，最终以2026年度经审计的财务报表为准。本次补缴税款事项不会影响公司的正常经营。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "金徽酒：补缴税款及滞纳金合计8381.81万元 不涉及行政处罚"
+     "title": "Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’",
+     "link": "https://www.cnbc.com/2026/08/01/europe-extreme-heat-climate-change-55c.html",
+     "pubDate": "Sat, 01 Aug 2026 06:58:41 GMT",
+     "summary": "A summer of weather extremes and severe infrastructure stress has prompted companies and policymakers across Europe to respond.",
+     "source": "CNBC",
+     "zh": "应对 131°F 的高温：欧洲竞相保护其基础设施免受“悄然发生的灾难”"
     },
     {
-     "title": "官方开始“随份子”？长三角多地发放结婚消费券",
-     "link": "http://finance.eastmoney.com/news/1350,202608013829021778.html",
-     "pubDate": "Sat, 01 Aug 2026 14:35:19 +0800",
-     "summary": "距离七夕还有不到一个月，婚庆市场又热闹了起来。在长三角部分地区，新人们除了能收到来自亲朋好友的祝福，还可能领到一份“官方随的份子”——结婚消费券。 浙江江山第二批结婚消费券定于8月19日当天启动发放，凡在七夕起一个月内登记的新人，每对可申领价值1000元的消费券。就在两个多月前的“520”，首批消费券同样引发了一波申领热潮。 长三角多地已先后试水。日前，浙江义乌市民政部门宣布再次延长结婚消费券活动时间，2026年10月底前，在当地登记结婚的新人均可申领价值1000元、由财政补贴的消费券。当地的结婚消费券发放活动2025年10月中旬启动，这已经是第二次延期。每对办理结婚登记的夫妻可领取10张“满",
-     "source": "东方财富股票",
-     "zh": "官方开始“随份子”？长三角多地发放结婚消费券"
+     "title": "Iran&apos;s overlapping power centers make ending the war more complicated",
+     "link": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html",
+     "pubDate": "Sat, 01 Aug 2026 06:52:42 GMT",
+     "summary": "Iran’s power structure complicates efforts to enforce any ceasefire with the U.S., from the Supreme Leader to the Revolutionary Guards.",
+     "source": "CNBC",
+     "zh": "伊朗权力中心重叠使得结束战争变得更加复杂"
     },
     {
-     "title": "更多车企7月销量公布：零跑月销首次突破10万辆 鸿蒙智行交付4.5万台",
-     "link": "http://finance.eastmoney.com/news/11158,202608013829022654.html",
-     "pubDate": "Sat, 01 Aug 2026 14:30:18 +0800",
-     "summary": "8月第一天，多家车企公布2026年7月份交付量。 据鸿蒙智行官微：7月鸿蒙智行交付45046台，1-7月累计交付28.6万台，同比增长13.7%。截至目前，鸿蒙智行全系累计交付突破148万台，持续刷新中国新势力品牌交付速度纪录。 此外，全新一代问界M9，交付开启7周累计交付突破20000台，M9全系累计交付突破300000台；问界M6，上市97天累计交付突破40000台；智界V9，单月交付突破10000台；尚界Z7系列，累计交付已突破20000台。 据 零跑汽车 官微，零跑7月全球交付101267台，同比增长102%，月销首次突破10万台。 2026年7月，极氪交付35837辆，同比增长111",
-     "source": "东方财富股票",
-     "zh": "更多车企7月销量公布：零跑月销首次突破10万辆 鸿蒙智行交付4.5万台"
+     "title": "7月成交近1.4万套，北京核心区二手房八成买家选择“老破小”",
+     "link": "http://www.eeo.com.cn/2026/0801/982536.shtml",
+     "pubDate": "Sat, 01 Aug 2026 14:52:14 +0800",
+     "summary": "延续上半年二手房市场表现，7月北京二手房成交量同比再度上涨。8月1日，北京商报记者根据北京市住建委数据统计，7月全市二手房网签13875套，同比增长8.53%，创近五年同期次新高。在成交量中，“老破小”房源成为本轮成交的重要支撑。北京商报记者走访东城、西城、丰台等多个区域的中介门店了解到，本轮市场回暖阶段，总价500万元以下房源备受购房者青睐，成交占比接近八成。其中，核心城区“老破小”依托低总价、配套成熟、需...",
+     "source": "经济观察网",
+     "zh": "7月成交近1.4万套，北京核心区二手房八成买家选择“老破小”"
     },
     {
-     "title": "德国南部林火失控",
-     "link": "http://global.eastmoney.com/news/11798,202608013829022587.html",
-     "pubDate": "Sat, 01 Aug 2026 14:29:35 +0800",
-     "summary": "德国南部巴伐利亚州弗罗伊登贝格附近地区发生林火，截至7月31日，火势仍处于失控状态。当局已部署约330名应急人员投入灭火行动。据德国方面消息，当地居民已收到火灾和浓烟警告。当局建议民众避开危险区域，关闭门窗、 空调 和通风系统，及时收听广播以获取最新消息。近期，欧洲多地遭遇今夏新一轮热浪，高温天气叠加降水不足，加剧旱情和野火风险。联合国欧洲经济委员会7月30日发布新闻公报说，欧洲今年已有超过43.4万公顷土地被野火烧毁。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "德国南部林火失控"
-    },
-    {
-     "title": "科威特军方：防空部队目前正在拦截伊朗来袭导弹",
-     "link": "http://global.eastmoney.com/news/11798,202608013829022487.html",
-     "pubDate": "Sat, 01 Aug 2026 14:28:38 +0800",
-     "summary": "科威特军方表示，防空部队目前正在拦截伊朗来袭导弹。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "科威特军方：防空部队目前正在拦截伊朗来袭导弹"
-    },
-    {
-     "title": "我国将建立黄岩岛保护区日常巡护制度",
-     "link": "http://finance.eastmoney.com/news/1350,202608013829022334.html",
-     "pubDate": "Sat, 01 Aug 2026 14:27:58 +0800",
-     "summary": "自然资源部、国家林业和草原局、中国海警局、海南省人民政府今日联合印发《黄岩岛国家级自然保护区管理办法》。根据管理办法，我国将在黄岩岛国家级自然保护区建立日常巡护制度，依法及时查处各类违法行为。自然资源部国际合作司（海洋权益司）负责人、国家林业和草原局自然保护地管理司负责人表示，黄岩岛国家级自然保护区由自然资源部南海局承担管理机构职责，负责保护区日常保护管理、资源调查监测、生态保护修复等工作。鉴于保护区地理位置特殊、生态系统结构复杂多样，海警机构应当会同管理机构建立日常巡护制度，合理配备巡护人员和巡护装备，依法及时查处各类损害保护区自然资源和生态环境的违法行为。对相关违法行为，将依照生态环境法典",
-     "source": "东方财富股票",
-     "zh": "我国将建立黄岩岛保护区日常巡护制度"
+     "title": "B端见顶、C端开荒，云厂商抢占地盘",
+     "link": "http://www.eeo.com.cn/2026/0801/982529.shtml",
+     "pubDate": "Sat, 01 Aug 2026 14:47:35 +0800",
+     "summary": "云厂商们在B端存量市场开启争夺战，持续加码新兴的C端市场。据经济观察报了解，有头部云厂商内部启动了对标字节火山引擎的“灭火行动”，行业竞争加剧。",
+     "source": "经济观察网",
+     "zh": "B端见顶、C端开荒，云厂商抢占地盘"
     },
     {
      "title": "中国车企的泰国“大考”：47%市占率高点之后，合规门槛全面抬升",
@@ -2320,22 +2304,6 @@ window.INDUSTRY_DATA = {
      "summary": "上证报中国证券网讯（记者 丁鹏）7月31日，航天科工火箭技术有限公司（简称“航天科工火箭”）发布公告称，因公司股权结构调整，公司名称正式变更为快舟航天空间科技有限公司（简称“快舟航天”）。据公告，本次变更仅限于公司名称调整，公司统一社会信用代码、注册资本、法定代表人及主营业务均保持不变。公司与各合作单位、客户伙伴的原有业务关系、合作承诺及权利义务不受名称变更影响，相关业务将持续正常开展。快舟航天表示，...",
      "source": "经济观察网",
      "zh": "航天科工火箭更名为快舟航天"
-    },
-    {
-     "title": "潘展东任贵港市代市长 林海波辞去市长职务",
-     "link": "http://www.eeo.com.cn/2026/0801/982464.shtml",
-     "pubDate": "Sat, 01 Aug 2026 13:39:11 +0800",
-     "summary": "中国经济网贵港8月1日综合报道 2026年7月31日，广西贵港市第六届人民代表大会常务委员会第四十三次会议决定：接受林海波因工作调动辞去贵港市人民政府市长职务的请求。 会议决定任命：潘展东为贵港市人民政府副市长；程绍华为贵港市人民政府副市长。会议决定：潘展东为贵港市人民政府代理市长。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/E42CDAAC03AC8F45061C659835022CD8.pn...",
-     "source": "经济观察网",
-     "zh": "潘展东任贵港市代市长 林海波辞去市长职务"
-    },
-    {
-     "title": "神行者8下线，奇瑞捷豹路虎“合资3.0”开拔",
-     "link": "http://www.eeo.com.cn/2026/0801/982457.shtml",
-     "pubDate": "Sat, 01 Aug 2026 13:22:27 +0800",
-     "summary": "神行者品牌已规划5年内推出6款车型，产品节奏密集。而当前国内新车开发周期已从传统的30个月压缩到18个月甚至更短，在压缩周期内守住质量底线是所有新品牌面临的共同课题。",
-     "source": "经济观察网",
-     "zh": "神行者8下线，奇瑞捷豹路虎“合资3.0”开拔"
     },
     {
      "title": "首个单月超10万的新势力出现了",
@@ -2376,6 +2344,14 @@ window.INDUSTRY_DATA = {
      "summary": "External threats should make western societies less polarised in future",
      "source": "Financial Times",
      "zh": "战争红利"
+    },
+    {
+     "title": "Humbling times for markets",
+     "link": "https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1",
+     "pubDate": "Sat, 01 Aug 2026 04:00:24 GMT",
+     "summary": "Investors finally show signs of growing weary of the painfully obvious nonsense",
+     "source": "Financial Times",
+     "zh": "市场的谦卑时期"
     },
     {
      "title": "二季度利润率跌至近五年低点，宝马官宣启动人员精简",
@@ -2480,6 +2456,30 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Leidos 将支付 0.43 美元的股息"
+    },
+    {
+     "title": "July ends on a hopeful note for stocks after momentum trade sees biggest wipeout since 2000",
+     "link": "https://www.marketwatch.com/story/july-ends-on-a-hopeful-note-for-stocks-after-momentum-trade-sees-biggest-wipeout-since-2000-4b90b6b2?mod=mw_rss_topstories",
+     "pubDate": "Fri, 31 Jul 2026 22:21:00 GMT",
+     "summary": "Investors are seeing more signs that the bottom is near, if not already in.",
+     "source": "MarketWatch",
+     "zh": "动量交易出现 2000 年以来最大的损失后，7 月股市充满希望"
+    },
+    {
+     "title": "Situational Awareness vs. Long-Term Capital Management: A side-by-side comparison",
+     "link": "https://www.marketwatch.com/story/situational-awareness-vs-long-term-capital-management-a-side-by-side-comparison-e3e047b7?mod=mw_rss_topstories",
+     "pubDate": "Fri, 31 Jul 2026 22:09:00 GMT",
+     "summary": "There are more similarities between the two hedge-fund blowups than one might expect.",
+     "source": "MarketWatch",
+     "zh": "态势感知与长期资本管理：并列比较"
+    },
+    {
+     "title": "The S&P 500 is making a change by adding this little-known industrial stock",
+     "link": "https://www.marketwatch.com/story/the-s-p-500-is-making-a-change-by-adding-this-little-known-industrial-stock-da648bd1?mod=mw_rss_topstories",
+     "pubDate": "Fri, 31 Jul 2026 21:53:00 GMT",
+     "summary": "Ferguson Enterprises’ stock was rallying more than 8% after news the Newport News, Va., company will be joining the S&P 500 index, edging out better-known names for inclusion.",
+     "source": "MarketWatch",
+     "zh": "标准普尔 500 指数正在做出改变，加入了这只鲜为人知的工业股票"
     }
    ]
   },

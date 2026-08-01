@@ -1,11 +1,43 @@
 {
-  "generatedAt": "2026-08-01T09:32:23.526Z",
+  "generatedAt": "2026-08-01T11:16:16.798Z",
   "count": 40,
   "items": [
     {
+      "title": "Is the government lying to us about inflation?",
+      "link": "https://www.marketwatch.com/story/is-the-government-lying-to-us-about-inflation-a399e467?mod=mw_rss_topstories",
+      "pubDate": "Sat, 01 Aug 2026 11:00:00 GMT",
+      "content": "The concern is understandable, since the consumer-price index affects everything from Social Security’s annual cost-of-living adjustment to the interest rate earned by investors in Treasury Inflation-Protected Securities.",
+      "source": "FED",
+      "category": "美联储"
+    },
+    {
+      "title": "OPEC+ may keep lifting its oil output quotas as the Iran war broadens. Why that won’t help lower prices.",
+      "link": "https://www.marketwatch.com/story/opec-may-keep-lifting-its-oil-output-quotas-as-the-iran-war-broadens-why-that-wont-help-lower-prices-c80f53d3?mod=mw_rss_topstories",
+      "pubDate": "Sat, 01 Aug 2026 11:00:00 GMT",
+      "content": "The Organization of the Petroleum Exporting Countries and its allies may decide Sunday to lift their oil production quotas for a sixth straight month — but finding ways to export those extra barrels will be the real problem.",
+      "source": "US",
+      "category": "美股市场"
+    },
+    {
+      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "pubDate": "Sat, 01 Aug 2026 11:00:00 GMT",
+      "content": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
+      "source": "US",
+      "category": "全球综合"
+    },
+    {
+      "title": "The equal-weighted S&P 500 just smoked the Nasdaq-100 in July — outperforming amid the violent chip-stock unwind",
+      "link": "https://www.marketwatch.com/story/the-equal-weighted-s-p-500-just-smoked-the-nasdaq-100-in-july-outperforming-amid-the-violent-chip-stock-unwind-bceb1437?mod=mw_rss_topstories",
+      "pubDate": "Sat, 01 Aug 2026 11:00:00 GMT",
+      "content": "Tech stocks struggled in July. Will the volatility around the AI trade continue in August?",
+      "source": "US",
+      "category": "美股市场"
+    },
+    {
       "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
       "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
-      "pubDate": "Sat, 01 Aug 2026 00:45:00 GMT",
+      "pubDate": "Sat, 01 Aug 2026 10:16:00 GMT",
       "content": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
       "source": "US",
       "category": "全球综合"
@@ -47,38 +79,6 @@
       "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
       "pubDate": "Fri, 31 Jul 2026 21:28:00 GMT",
       "content": "HSAs can offset healthcare costs in your old age. But most people can’t afford to wait.",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.",
-      "link": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories",
-      "pubDate": "Fri, 31 Jul 2026 21:10:00 GMT",
-      "content": "After a whipsaw end to the month, the stock market’s decline was highlighted by the worst month for chip stocks in 24 years.",
-      "source": "US",
-      "category": "美股市场"
-    },
-    {
-      "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
-      "link": "https://www.marketwatch.com/story/did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-played-a-role-ad4644cd?mod=mw_rss_topstories",
-      "pubDate": "Fri, 31 Jul 2026 20:23:00 GMT",
-      "content": "Alibaba has an agreement for Moonshot to use its Nvidia H200s, according to Bloomberg — but the Chinese tech giant pushed back against the report.",
-      "source": "US",
-      "category": "半导体"
-    },
-    {
-      "title": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
-      "link": "https://www.marketwatch.com/story/is-spending-thousands-of-dollars-on-an-ai-certification-worth-it-heres-how-to-decide-f73e49c6?mod=mw_rss_topstories",
-      "pubDate": "Fri, 31 Jul 2026 20:20:00 GMT",
-      "content": "Job hunters are pursuing AI certifications, badges and other credentials in hopes of standing out — and maybe getting paid more",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
-      "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
-      "pubDate": "Fri, 31 Jul 2026 19:16:00 GMT",
-      "content": "“I realize that probate can be lengthy, public and expensive.”",
       "source": "US",
       "category": "全球综合"
     },

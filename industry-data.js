@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/2 05:56:51",
+ "generated_at": "2026/8/2 06:57:55",
  "recent_days": 7,
  "industries": [
   {
@@ -24,22 +24,6 @@ window.INDUSTRY_DATA = {
      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
      "source": "TechCrunch AI",
      "zh": "YouTuber Hank Green 表示他对人工智能的使用“不健康”"
-    },
-    {
-     "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
-     "link": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
-     "pubDate": "Sat, 01 Aug 2026 19:01:42 +0000",
-     "summary": "AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per token, using Gated MLA and FarSkip-Collective. AMD published weights from every training stage, plus da",
-     "source": "MarkTechPost",
-     "zh": "AMD 发布 Instella-MoE-16B-A3B：完全开放的专家混合法学硕士，具有在 Instinct GPU 上训练的 2.8B 主动参数"
-    },
-    {
-     "title": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking",
-     "link": "https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/",
-     "pubDate": "Sat, 01 Aug 2026 18:31:15 +0000",
-     "summary": "Discover how to optimize transformer workloads using the NVIDIA Transformer Engine. This tutorial guides you through configuring fused GPU kernels, implementing FP8 delayed scaling, and benchmarking model performance. Learn to build and train efficient GPT-style causal language models in PyTorch wit",
-     "source": "MarkTechPost",
-     "zh": "使用 NVIDIA Transformer 引擎、融合内核、BF16、FP8 和 GPU 基准测试加速 Transformer 训练"
     },
     {
      "title": "Sam Altman is still making the case for parenting via ChatGPT",
@@ -88,22 +72,6 @@ window.INDUSTRY_DATA = {
      "summary": "狂刷3小时！",
      "source": "量子位",
      "zh": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了"
-    },
-    {
-     "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
-     "link": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
-     "pubDate": "Sat, 01 Aug 2026 09:52:49 +0000",
-     "summary": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugging Edge Functions, fixing RLS policies — inside containerized stacks, then scores them with determi",
-     "source": "MarkTechPost",
-     "zh": "Supabase 发布 Evals：一个开源基准测试，可在真实 Supabase 任务上对 Claude Code、Codex 和 OpenCode 进行评分"
-    },
-    {
-     "title": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio",
-     "link": "https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/",
-     "pubDate": "Sat, 01 Aug 2026 08:28:07 +0000",
-     "summary": "MiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it as a general-purpose multimodal generation model that reads text, images, video, and audio as one unified context and returns video with native stere",
-     "source": "MarkTechPost",
-     "zh": "MiniMax 发布 MiniMax H3：全模态视频模型，可生成带有原生立体声音频的 15 秒 2K 剪辑"
     },
     {
      "title": "OpenAI全球用户破10亿！全新模型Astra曝光，疑似GPT-6",
@@ -194,28 +162,12 @@ window.INDUSTRY_DATA = {
      "zh": "据报道，OpenAI 发现证据表明其更多特工肆意妄为"
     },
     {
-     "title": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains",
-     "link": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
-     "pubDate": "Fri, 31 Jul 2026 22:03:39 +0000",
-     "summary": "DeepSeek published DeepSeek-V4-Flash-0731 on Hugging Face and moved the official V4-Flash API into public beta on July 31, 2026. The model card is explicit that this is the official release superseding the preview, and that the architecture and size are unchanged. The gains come from re-post-trainin",
-     "source": "MarkTechPost",
-     "zh": "DeepSeek 升级 DeepSeek-V4-Flash-0731，在代理和编码方面取得重大进展"
-    },
-    {
      "title": "India is starting to pay for apps, not just download them",
      "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
      "pubDate": "Fri, 31 Jul 2026 21:07:45 +0000",
      "summary": "India's app market generated a record $345 million in Q2.",
      "source": "TechCrunch AI",
      "zh": "印度开始为应用程序付费，而不仅仅是下载它们"
-    },
-    {
-     "title": "LingBot-Map Tutorial: GPU-Aware Inference and Point Cloud Export",
-     "link": "https://www.marktechpost.com/2026/07/31/lingbot-map-tutorial-gpu-aware-inference-and-point-cloud-export/",
-     "pubDate": "Fri, 31 Jul 2026 20:27:13 +0000",
-     "summary": "Discover how to implement a streaming 3D reconstruction pipeline using LingBot-Map. From GPU-aware configuration and preprocessing to GCTStream model inference and point cloud generation, this guide walks you through the steps to convert image or video sequences into consistent 3D scenes with export",
-     "source": "MarkTechPost",
-     "zh": "LingBot-Map 教程：GPU 感知推理和点云导出"
     },
     {
      "title": "Advancing responsible AI across Europe",
@@ -248,6 +200,54 @@ window.INDUSTRY_DATA = {
      "summary": "Check out these five books on building, fine-tuning, and deploying large language models.",
      "source": "KDnuggets",
      "zh": "5 本书将加深您对大型语言模型的理解"
+    },
+    {
+     "title": "腾讯科研智能体攻破50年未解数学难题，姚顺雨喊话正在招人",
+     "link": "https://zhidx.com/p/581537.html",
+     "pubDate": "Fri, 31 Jul 2026 19:25:09 +0800",
+     "summary": "智东西 作者 | 茄子 编辑 | 程茜 智东西7月31日消息，昨日，腾讯首席AI科学家姚顺雨转发腾讯混元的一篇论文并喊话：“Hy AI4S is hiring :)”，公开招募AI for Science方向人才。 7月29日由腾讯混元科研智能体Hyra参与破解数学难题的论文发布在arXiv上。依托Hyra强大的推演与探索能力，腾讯研究团队取得关键进展，破解了加法组合学领域一道持续50余年的公开难题。 姚顺雨的评论区里，有位网友称，Hyra/Hy3的论文“太疯狂了”，用显式构造解决一个数十年未解的和集问题，完全没想到这会出现在一条招聘帖里。 还有人畅想：“下一位菲尔兹奖得主会是AI吗？” 值得",
+     "source": "智东西",
+     "zh": "腾讯科研智能体攻破50年未解数学难题，姚顺雨喊话正在招人"
+    },
+    {
+     "title": "暴增389%！DeepSeek卷到白菜价，这家公司却靠卖Token赚翻了",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652715746&idx=1&sn=ce64e2d88f65320638f681cc7621961b",
+     "pubDate": "Fri, 31 Jul 2026 19:07:00 +0800",
+     "summary": "十年磨一剑，迅策终于迎来了自己的兑现时刻。",
+     "source": "新智元",
+     "zh": "暴增389%！DeepSeek卷到白菜价，这家公司却靠卖Token赚翻了"
+    },
+    {
+     "title": "狂奔4天半的神秘AI，奥特曼宣判「永久停用」",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652715746&idx=2&sn=89d2f3fedff4ad52561e219ca47b10d1",
+     "pubDate": "Fri, 31 Jul 2026 19:07:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "狂奔4天半的神秘AI，奥特曼宣判「永久停用」"
+    },
+    {
+     "title": "AI能接管实验室了？中国科大最新研究给出真实物理世界的压力测试",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652715746&idx=3&sn=f98050bf23bd70e6e0c6c315369c18a6",
+     "pubDate": "Fri, 31 Jul 2026 19:07:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "AI能接管实验室了？中国科大最新研究给出真实物理世界的压力测试"
+    },
+    {
+     "title": "横扫五大手游电竞赛事，稳坐电竞“神U”后，骁龙下一站：用AI颠覆游戏世界",
+     "link": "https://zhidx.com/p/581138.html",
+     "pubDate": "Fri, 31 Jul 2026 17:30:34 +0800",
+     "summary": "智东西 作者 | 云鹏 编辑 | 漠影 当前，AI正给整个内容创作产业带来一次范式革新。 一方面，AI模型快速发展，AI对多模态信息理解能力强化、世界模型加速进化；同时，AI理解世界、创作图、文、视频、音频能力飞速跃迁。 AI在大众文化娱乐内容消费中扮演的角色愈发重要，而 游戏作为内容领域代表性行业，与AI先天有强融合潜力， 也在AI变革浪潮中迎来巨变。 AI擅长的代码编写、图文视频生成、强逻辑能力都是游戏创作的“刚需”；AI在游戏图像生成领域的优化可以大幅降低游戏对硬件性能的系统性要求。 AI角色互动、AI语音陪玩、AI游戏指导，甚至是让大模型根据自己所思所想创作新的游玩和交互体验，都已逐渐",
+     "source": "智东西",
+     "zh": "横扫五大手游电竞赛事，稳坐电竞“神U”后，骁龙下一站：用AI颠覆游戏世界"
+    },
+    {
+     "title": "5050亿参数！余承东开源盘古新模型，“世界第一”还有些距离",
+     "link": "https://zhidx.com/p/581400.html",
+     "pubDate": "Fri, 31 Jul 2026 15:45:46 +0800",
+     "summary": "智东西 作者 | 程茜 编辑 | 李水青 智东西7月31日消息，今日，华为开源基于昇腾NPU训练的盘古MoE模型openPangu-2.0-Pro。 该模型是openPangu-2.0系列的最新开源模型，总参数规模 5050亿 ，激活参数规模 180亿 ，支持 512K 上下文长度，训练数据总量约 34T tokens 。另一轻量化模型openPangu-2.0-Flash已于6月12日开源，参数92亿，其中6亿为激活参数。 今年6月12月，在华为开发者大会现场，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东发布openPangu-2.0-Flash、预告openPangu-2.0",
+     "source": "智东西",
+     "zh": "5050亿参数！余承东开源盘古新模型，“世界第一”还有些距离"
     }
    ]
   },
@@ -1290,12 +1290,20 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
-     "title": "Space Force awards K2 Space $22.9 million for orbital laser communications demonstration",
+     "title": "Boeing’s Starliner set for potential 2026 cargo run to ISS",
+     "link": "https://www.nasaspaceflight.com/2026/08/boeing-starliner-2026-iss/",
+     "pubDate": "Sat, 01 Aug 2026 22:26:30 +0000",
+     "summary": "Boeing CEO Kelly Ortberg has noted redesign work on the company’s CST-100 Starliner spacecraft is… The post Boeing’s Starliner set for potential 2026 cargo run to ISS appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "波音公司的 Starliner 计划于 2026 年向国际空间站运送货物"
+    },
+    {
+     "title": "Space Force awards K2 Space $22.9 million for laser communications demonstration",
      "link": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
      "pubDate": "Sat, 01 Aug 2026 20:28:39 +0000",
-     "summary": "Two K2 satellites will host optical terminals intended to connect military systems in orbit The post Space Force awards K2 Space $22.9 million for orbital laser communications demonstration appeared first on SpaceNews .",
+     "summary": "Two K2 satellites will host optical terminals intended to connect military systems in orbit The post Space Force awards K2 Space $22.9 million for laser communications demonstration appeared first on SpaceNews .",
      "source": "SpaceNews",
-     "zh": "天军授予 K2 Space 2290 万美元用于轨道激光通信演示"
+     "zh": "天军授予 K2 Space 2290 万美元用于激光通信演示"
     },
     {
      "title": "Move over He-Man, Mattel's Major Matt Mason space toys could still be blasting off for Hollywood",
@@ -1520,14 +1528,6 @@ window.INDUSTRY_DATA = {
      "summary": "SpaceX’s Starship Flight 13 demonstrated that the Ship can complete its mission and return intact,… The post Ship 40’s flawless flight promotes next mission catch potential appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "Ship 40 的完美飞行提升了下一次任务的捕获潜力"
-    },
-    {
-     "title": "Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week",
-     "link": "https://www.nasaspaceflight.com/2026/07/launch-preview-072726/",
-     "pubDate": "Mon, 27 Jul 2026 20:31:02 +0000",
-     "summary": "Five orbital launches are scheduled worldwide for this week. In China, a Chang Zheng 6A… The post Launch Preview: Falcon 9 and Chang Zheng rockets set to launch this week appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "发射预览：猎鹰 9 号和长征火箭将于本周发射"
     }
    ]
   },
@@ -1746,6 +1746,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "全球首个全光子时间晶体（PTC）制备技术诞生，有望催生超高速计算机、自适应通信以及全新激光器",
+     "link": "https://www.ithome.com/0/984/640.htm",
+     "pubDate": "Sat, 01 Aug 2026 22:57:30 GMT",
+     "summary": "IT之家 8 月 2 日消息，法国巴黎综合理工学院、法兰西公学院和亥姆霍兹德累斯顿-罗森多夫研究中心的科学家们最近取得新突破，在全球范围内首次制备出全光子时间晶体（PTC），能够跟随时间快速且反复地改变其光学特性。 IT之家了解到，这项成果已于上个月（7 月 29 日）发表于《自然》期刊。该研究利用了 HZDR 和 TELBE 超辐射太赫兹源，将系统驱动至太赫兹（THz）光与物质相互作用状态。 为超高速计算机 、 自适应通信系统和全新一代太赫兹激光器铺平道路 。 本次研究中的光子晶体是一种具有周期性光学结构的纳米结构材料，可控制光子的传播方式。科学家们通过调整不同材料的折射率和结构形状，如同半",
+     "source": "IT之家",
+     "zh": "全球首个全光子时间晶体（PTC）制备技术诞生，有望催生超高速计算机、自适应通信以及全新激光器"
+    },
+    {
+     "title": "Statcounter：Linux 在北美桌面市场份额首次突破 10%",
+     "link": "https://www.ithome.com/0/984/639.htm",
+     "pubDate": "Sat, 01 Aug 2026 22:51:51 GMT",
+     "summary": "IT之家 8 月 2 日消息，根据 Statcounter 最新发布的 2026 年 7 月统计数据，Linux 在北美桌面操作系统市场达成了一个重要里程碑，其份额已达到 10.65%。 这是 Linux 首次在 Statcounter 北美桌面操作系统统计中突破两位数，占比正式超过 10%。 作为对比，Statcounter 的数据显示，2026 年 6 月 Linux 在北美桌面市场的份额仅为 5.52%，也就是说，仅一个月时间，占比几乎翻了一番。当然，Windows 依然是北美占据主导地位的桌面操作系统，而苹果的 OS X 和 macOS 仍保持着相当可观的市场份额。 不过，这一显著增长",
+     "source": "IT之家",
+     "zh": "Statcounter：Linux 在北美桌面市场份额首次突破 10%"
+    },
+    {
+     "title": "当“安慰人”成为最赚钱的生意，你的“痛苦税”就停不下来了",
+     "link": "https://www.huxiu.com/article/4880009.html?f=rss",
+     "pubDate": "Sun, 02 Aug 2026 06:38:39 +0800",
+     "summary": "本文来自微信公众号： 听风译码 ，作者：安申 2026年4月，中国社会消费品零售总额同比增速0.2%。 据国家统计局数据，这是2022年12月以来的最低值。 同一时期，汽车零售额同比-15.3%，家用电器-15.1%，建材-13.8%，家具-10.4%。 四个大宗消费品类同时两位数下滑，历史上极为罕见。 环比下降0.48%，年内首次月度负增长。 限额以上单位消费品零售额同比下降4.4%，其中商品零售下降4.9%。 规模以上零售企业的收缩幅度，远超整体数据所显示的水平。 但另一组数据完全相反。 据艾媒咨询发布的《2025—2029年中国情绪经济消费趋势洞察报告》，2025年中国情绪经济市场规模达",
+     "source": "虎嗅",
+     "zh": "当“安慰人”成为最赚钱的生意，你的“痛苦税”就停不下来了"
+    },
+    {
+     "title": "From MIT: AI financial advice is surprisingly good",
+     "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+     "pubDate": "Sat, 01 Aug 2026 22:25:12 +0000",
+     "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 10 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "麻省理工学院：人工智能财务建议出奇的好"
+    },
+    {
      "title": "Inside the London hacker house taking a stand against founder burnout",
      "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
      "pubDate": "Sat, 01 Aug 2026 21:14:48 +0000",
@@ -1754,10 +1786,18 @@ window.INDUSTRY_DATA = {
      "zh": "伦敦黑客之家内部反对创始人倦怠"
     },
     {
+     "title": "Seedance 2.5",
+     "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+     "pubDate": "Sat, 01 Aug 2026 20:45:12 +0000",
+     "summary": "Article URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5 Comments URL: https://news.ycombinator.com/item?id=49138302 Points: 45 # Comments: 12",
+     "source": "Hacker News",
+     "zh": "种子舞2.5"
+    },
+    {
      "title": "Diátaxis",
      "link": "https://diataxis.fr/",
      "pubDate": "Sat, 01 Aug 2026 20:33:27 +0000",
-     "summary": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 45 # Comments: 7",
+     "summary": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 85 # Comments: 10",
      "source": "Hacker News",
      "zh": "双向性"
     },
@@ -1765,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "The Silicon Valley Founder Meat Grinder",
      "link": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
      "pubDate": "Sat, 01 Aug 2026 20:20:58 +0000",
-     "summary": "Article URL: https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/ Comments URL: https://news.ycombinator.com/item?id=49138045 Points: 85 # Comments: 38",
+     "summary": "Article URL: https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/ Comments URL: https://news.ycombinator.com/item?id=49138045 Points: 168 # Comments: 101",
      "source": "Hacker News",
      "zh": "硅谷绞肉机创始人"
     },
@@ -1781,17 +1821,9 @@ window.INDUSTRY_DATA = {
      "title": "But can your calculator run Linux?",
      "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
      "pubDate": "Sat, 01 Aug 2026 19:44:48 +0000",
-     "summary": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html Comments URL: https://news.ycombinator.com/item?id=49137713 Points: 28 # Comments: 1",
+     "summary": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html Comments URL: https://news.ycombinator.com/item?id=49137713 Points: 41 # Comments: 4",
      "source": "Hacker News",
      "zh": "但是你的计算器可以运行 Linux 吗？"
-    },
-    {
-     "title": "Google has abandoned Google News?",
-     "link": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-     "pubDate": "Sat, 01 Aug 2026 19:39:43 +0000",
-     "summary": "Article URL: https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now Comments URL: https://news.ycombinator.com/item?id=49137681 Points: 210 # Comments: 142",
-     "source": "Hacker News",
-     "zh": "谷歌已经放弃谷歌新闻了？"
     },
     {
      "title": "Bitcoin hardware wallet Coldcard shipped a faulty firmware build, and hackers are now draining wallets; Galaxy Research estimates $70M+ stolen (Shaurya Malwa/CoinDesk)",
@@ -1802,18 +1834,10 @@ window.INDUSTRY_DATA = {
      "zh": "比特币硬件钱包 Coldcard 发布了一个有缺陷的固件版本，黑客现在正在耗尽钱包； Galaxy Research 估计 7000 万美元以上被盗（Shaurya Malwa/CoinDesk）"
     },
     {
-     "title": "Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
-     "link": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
-     "pubDate": "Sat, 01 Aug 2026 18:59:35 +0000",
-     "summary": "Article URL: https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf Comments URL: https://news.ycombinator.com/item?id=49137320 Points: 11 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Starlink Ku 波段下行链路的信号结构 (2023) [pdf]"
-    },
-    {
      "title": "CISA Alert: Water Sector PLC Targeting",
      "link": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
      "pubDate": "Sat, 01 Aug 2026 18:50:17 +0000",
-     "summary": "Article URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/ Comments URL: https://news.ycombinator.com/item?id=49137228 Points: 24 # Comments: 9",
+     "summary": "Article URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/ Comments URL: https://news.ycombinator.com/item?id=49137228 Points: 36 # Comments: 20",
      "source": "Hacker News",
      "zh": "CISA 警报：水务行业 PLC 目标"
     },
@@ -1930,22 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "评论：是的，我们仍在争论诺兰的《奥德赛》"
     },
     {
-     "title": "中国最高薪本科专业易主：计算机类整体下滑，“微电子科学与工程”首夺第一",
-     "link": "https://www.ithome.com/0/984/633.htm",
-     "pubDate": "Sat, 01 Aug 2026 15:09:35 GMT",
-     "summary": "IT之家 8 月 1 日消息，麦可思研究院上周发布了《2026 年中国本科生就业报告》（就业蓝皮书），今年本科毕业生毕业半年后平均月收入最高的专业，已由 微电子科学与工程 取代。 微电子科学与工程专业以 7814 元位居第一，电子科学与技术、自动化分列第二、第三， 原来第一的 信息安全则降至第四。 报告还称， 曾长期占据高薪专业前列的计算机类专业，月收入位次正在下滑 ；与此同时，电子信息、自动化、机械等“硬科技”相关专业的月收入排名持续上升。 报告提到，本科生毕业半年后的月收入水平，是反映专业就业质量的重要参考指标之一。历年就业蓝皮书数据显示， 信息安全长期占据本科高薪专业榜首位置 。自 20",
-     "source": "IT之家",
-     "zh": "中国最高薪本科专业易主：计算机类整体下滑，“微电子科学与工程”首夺第一"
-    },
-    {
-     "title": "宏碁主管：预计第三季度整体 PC 价格仍有约 5% 的上涨空间，第四季度有望趋于平稳",
-     "link": "https://www.ithome.com/0/984/632.htm",
-     "pubDate": "Sat, 01 Aug 2026 14:58:29 GMT",
-     "summary": "IT之家 8 月 1 日消息，据台媒科技新报消息，宏碁（Acer）台湾地区主管表示，目前 PC 供应链中最短缺的依然是内存与 SSD。虽然 CPU 的供货情况较之前有所改善，但主流高端产品依然存在缺口。 预计在第三季度，整体 PC 价格仍有约 5% 的上涨空间 ；而到了第四季度，价格则有望逐步趋于平稳。 在价格方面，这位主管表示， 今年以来 PC 售价已经大幅攀升 。今年第三季度的价格仍有可能再上涨约 5%。目前市场价格已经维持在高位水平，后续价格可能只会缓慢上涨或出现小幅波动，不太容易再出现大幅度上调。 IT之家注意到，由于零部件价格居高不下，各 PC 品牌也在不断通过调整产品规格来降低成本",
-     "source": "IT之家",
-     "zh": "宏碁主管：预计第三季度整体 PC 价格仍有约 5% 的上涨空间，第四季度有望趋于平稳"
-    },
-    {
      "title": "近五成美国人赞同学校期间完全禁止使用手机",
      "link": "https://www.solidot.org/story?sid=84983",
      "pubDate": "Sat, 01 Aug 2026 22:52:18 +0800",
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reddit may still be considering ending its licensing deal with Google.",
      "source": "Ars Technica",
      "zh": "随着 Reddit 股价下跌，首席执行官质疑谷歌人工智能概览的价值"
-    },
-    {
-     "title": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
-     "link": "https://www.wired.com/gallery/best-office-chairs/",
-     "pubDate": "Sat, 01 Aug 2026 11:59:00 +0000",
-     "summary": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
-     "source": "WIRED",
-     "zh": "2026 年 15 款最佳办公椅——我们测试了 70 张来挑选它们"
     }
    ]
   },
@@ -2242,36 +2242,44 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "大跌67%！“AI股神”：再也不加杠杆！基金资产急剧缩水，发生了什么？",
-     "link": "http://global.eastmoney.com/news/11798,202608013829069628.html",
-     "pubDate": "Sun, 02 Aug 2026 05:38:00 +0800",
-     "summary": "“AI股神”跌落神坛。 在最新公开的信件中，号称“AI股神”的对冲基金Situational Awareness（态势感知）创始人Leopold Aschenbrenner表示，为7月基金资产暴跌67%一事承担全部责任，并承诺未来不会再加杠杆。 这家专注于AI领域的对冲基金，因高杠杆重仓押注AI板块本周一度面临强平风险，最终无奈将其大部分股票投资组合折价出售。而在暴跌前夕，该基金的表现格外亮眼，截至2026年6月底，年内回报率超400%。 “AI股神”道歉 Aschenbrenner在致投资者信中表示，对基金资产在7月暴跌67%的事件“承担全部责任”，并承诺将汲取“代价惨重的教训”。 他表示，",
-     "source": "东方财富股票",
-     "zh": "大跌67%！“AI股神”：再也不加杠杆！基金资产急剧缩水，发生了什么？"
+     "title": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying &apos;flawed installation&apos; to blame",
+     "link": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
+     "pubDate": "Sat, 01 Aug 2026 22:48:05 GMT",
+     "summary": "President Donald Trump had touted the Reflecting Pool update, one of many renovations in D.C. he ordered ahead of America's 250th birthday celebrations.",
+     "source": "CNBC",
+     "zh": "在皮罗撤销倒影池故意破坏案后，特朗普猛烈抨击她，称其归咎于“有缺陷的安装”"
     },
     {
-     "title": "3 High-Yield Energy Stocks to Buy With $1,000 Right Now and Hold Through 2030",
-     "link": "https://finance.yahoo.com/energy/articles/3-high-yield-energy-stocks-213500144.html",
-     "pubDate": "2026-08-01T21:35:00Z",
+     "title": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-could-buy-220500371.html",
+     "pubDate": "2026-08-01T22:05:00Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "现在就以 1,000 美元买入 3 只高收益能源股，并持有至 2030 年"
+     "zh": "沃伦·巴菲特的伯克希尔哈撒韦公司拥有 3,970 亿美元的现金储备，可以收购几乎所有标准普尔 500 指数公司，但仍在等待更好的价格"
     },
     {
-     "title": "XLV vs. IBBQ: Is Broad Healthcare Exposure or Biotech Growth the Better ETF Buy?",
-     "link": "https://finance.yahoo.com/healthcare/articles/xlv-vs-ibbq-broad-healthcare-213101526.html",
-     "pubDate": "2026-08-01T21:31:01Z",
+     "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+     "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+     "pubDate": "Sat, 01 Aug 2026 22:00:00 GMT",
+     "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
+     "source": "MarketWatch",
+     "zh": "我的女朋友 62 岁。她可以领取已故丈夫的全部社会保障福利吗？还是必须等待？"
+    },
+    {
+     "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
+     "pubDate": "2026-08-01T21:58:20Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "XLV 与 IBBQ：广泛的医疗保健投资或生物科技增长是更好的 ETF 购买吗？"
+     "zh": "道琼斯期货：市场反弹，现在关注； SpaceX、AMD、Sandisk、礼来公司盈利迫在眉睫"
     },
     {
-     "title": "新一轮热浪袭击克罗地亚 多地发生野火",
-     "link": "http://finance.eastmoney.com/news/1351,202608023829078219.html",
-     "pubDate": "Sun, 02 Aug 2026 05:19:18 +0800",
-     "summary": "克罗地亚近日遭受新一轮热浪袭击，红色高温预警1日覆盖亚得里亚海沿岸和首都萨格勒布等地，普拉等地当天发生多起野火。 克国家水文气象局网站上的信息显示，亚得里亚海沿岸和萨格勒布等多地处于红色高温预警状态，另有一些地区处于次一级的橙色高温预警中。根据气象预测，高温天气要持续到下周。 据悉，该国普拉和拉宾地区当天发生多起野火火灾。 克罗地亚6月下旬遭遇今夏首波热浪，沿海城市斯 普利特 气温创 历史新高 。高温天气不仅使野火频发，也令一些河流水位降至历史低值。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "新一轮热浪袭击克罗地亚 多地发生野火"
+     "title": "Middle East turmoil leaves gas prices exposed",
+     "link": "https://finance.yahoo.com/energy/articles/middle-east-turmoil-leaves-gas-214700293.html",
+     "pubDate": "2026-08-01T21:47:00Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "中东动荡导致天然气价格暴露"
     },
     {
      "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
@@ -2290,44 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "“我们一直都很文明”：我姐姐拒绝取代我成为遗嘱执行人。我可以在她去世之前辞职吗？"
     },
     {
-     "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
-     "link": "http://finance.eastmoney.com/news/1351,202608023829077991.html",
-     "pubDate": "Sun, 02 Aug 2026 04:59:10 +0800",
-     "summary": "当地时间1日，伊朗外交部长阿拉格齐分别与巴基斯坦陆军参谋长穆尼尔以及土耳其外交部长费丹通电话。通话中，各方讨论了地区最新局势，并就美国侵略性与破坏稳定行为所造成的后果，以及地区紧张局势加剧和安全风险升级交换了意见。 阿拉格齐在通话中警告美军不要采取任何冒险行动，并强调伊朗已做好充分准备，维护国家主权、安全和领土完整，并将对任何侵犯行为作出坚决回应。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为"
-    },
-    {
      "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
      "link": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
      "pubDate": "Sat, 01 Aug 2026 20:55:55 GMT",
      "summary": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.",
      "source": "CNBC",
      "zh": "由于伊朗威胁要切断航线，阿曼附近的油轮遭到攻击"
-    },
-    {
-     "title": "布伦特原油暗盘突破91美元 日内涨超3.8%",
-     "link": "http://finance.eastmoney.com/news/1351,202608023829078062.html",
-     "pubDate": "Sun, 02 Aug 2026 04:46:39 +0800",
-     "summary": "布伦特原油暗盘突破91美元，日内涨超3.8%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "布伦特原油暗盘突破91美元 日内涨超3.8%"
-    },
-    {
-     "title": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击",
-     "link": "http://finance.eastmoney.com/news/1351,202608023829077858.html",
-     "pubDate": "Sun, 02 Aug 2026 04:39:43 +0800",
-     "summary": "当地时间8月1日，俄罗斯国家反恐委员会表示， 莫斯科市中心一家餐厅发生的事故系自制爆炸装置爆炸所致。 通报称，一名女子企图携带自制爆炸装置闯入餐厅，被餐厅保安阻拦，随后爆炸装置启动，该女子和保安当场死亡。此外，事故还造成一名顾客死亡。截至目前， 事故已造成3人死亡、21人受伤。 俄罗斯莫斯科市中心一家 餐饮 店8月1日发生爆炸。据悉，发生爆炸的餐厅位于俄罗斯著名地标建筑库德林广场大楼。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击"
-    },
-    {
-     "title": "美国国家飓风中心表示：预计热带风暴吉纳维芙将逐渐减弱",
-     "link": "http://finance.eastmoney.com/news/1351,202608023829078132.html",
-     "pubDate": "Sun, 02 Aug 2026 04:38:27 +0800",
-     "summary": "美国国家飓风中心表示，预计热带风暴吉纳维芙将逐渐减弱。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国国家飓风中心表示：预计热带风暴吉纳维芙将逐渐减弱"
     },
     {
      "title": "SA Asks: Will SpaceX buy a major US wireless carrier?",
@@ -2402,20 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "医疗保险 D 部分保费的上涨可能会促使更多人加入医疗保险优势计划"
     },
     {
-     "title": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
-     "link": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
-     "pubDate": "Sat, 01 Aug 2026 17:32:00 GMT",
-     "summary": "Watch out for these 4 major financial pitfalls.",
-     "source": "MarketWatch",
-     "zh": "美国人的寿命超出了我们退休制度的承受能力——而我们中的许多人都没有做好准备"
-    },
-    {
-     "title": "美政府建议中东地区美国公民做好撤离准备",
-     "link": "http://finance.eastmoney.com/news/1351,202608023829071966.html",
-     "pubDate": "Sun, 02 Aug 2026 00:04:33 +0800",
-     "summary": "当地时间8月1日，美国国务院向身处中东地区的美国公民发出广泛安全警告，建议他们“考虑离开当地，或做好在局势升级时迅速撤离的准备”。 据此前消息，美国官员透露，华盛顿正考虑最快于本周末对伊朗发动新一轮军事打击。与此同时，伊朗方面也称，将进一步打击那些允许美军驻扎军事基地的国家。 美国国务院再次提醒，身处中东地区的人员应保持谨慎并提高警惕，同时做好应对航班取消、临时关闭领空以及其他旅行中断的准备。 公告还强调，计划前往中东地区的美国公民应认真重新考虑自己的出行计划。 （文章来源：央视新闻）",
-     "source": "东方财富资讯",
-     "zh": "美政府建议中东地区美国公民做好撤离准备"
+     "title": "Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock",
+     "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-cybersecurity-push-could-160912618.html",
+     "pubDate": "2026-08-01T16:09:12Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "微软的人工智能网络安全推动可能成为微软股票的主要增长动力"
     },
     {
      "title": "EU ministers to discuss Spain’s migrant crisis after Sánchez hits out over criticism",
@@ -2442,30 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "因凡蒂诺的转变引发了人们对他在国际足联未来的怀疑"
     },
     {
-     "title": "Google Piles On Off-Balance-Sheet Risk to Fuel Its AI Chip Push",
-     "link": "https://finance.yahoo.com/technology/ai/articles/google-piles-off-balance-sheet-153002569.html",
-     "pubDate": "2026-08-01T15:30:02Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "谷歌增加表外风险以推动其人工智能芯片的发展"
-    },
-    {
-     "title": "GE Aerospace, AI Play Lead Five Stocks Near Buy Points",
-     "link": "https://www.investors.com/news/ge-aerospace-ai-play-netapp-lead-5-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-01T15:22:10Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "GE Aerospace 和 AI Play 领涨五只接近买入点的股票"
-    },
-    {
-     "title": "Hoping for Lower Prices at the Gas Pump? After Exxon Doubles Profits, CEO Darren Woods Says ‘I Wouldn’t Hold My Breath.’",
-     "link": "https://finance.yahoo.com/energy/articles/hoping-lower-prices-gas-pump-151502283.html",
-     "pubDate": "2026-08-01T15:15:02Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "希望加油站价格更低？埃克森美孚利润翻倍后，首席执行官达伦·伍兹表示“我不会屏住呼吸。”"
-    },
-    {
      "title": "Berkshire Hathaway shares hit eight-month high",
      "link": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
      "pubDate": "Sat, 01 Aug 2026 14:41:54 GMT",
@@ -2474,12 +2418,68 @@ window.INDUSTRY_DATA = {
      "zh": "伯克希尔哈撒韦公司股价创八个月新高"
     },
     {
-     "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
-     "link": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
-     "pubDate": "Sat, 01 Aug 2026 13:44:04 GMT",
-     "summary": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
+     "title": "华北电力大学王永利：“十五五”我国核电仍将保持连续、稳定的建设节奏",
+     "link": "http://www.eeo.com.cn/2026/0801/982890.shtml",
+     "pubDate": "Sat, 01 Aug 2026 21:26:10 +0800",
+     "summary": "上证报中国证券网讯（记者 白丽斐）7月31日召开的国务院常务会议决定核准辽宁庄河一期工程等四个核电项目。华北电力大学能源互联网研究中心副主任王永利对上证报记者表示，年内已有核电机组进入主体工程建设，此次核准是2026年首次在国家层面新增建设名额。“十五五”开局后我国核电仍将保持连续、稳定的建设节奏，为2030年前后配置稳定电源资产。据了解，此次获批的新项目分别是浙江金七门核电二期工程（3、4号机组），广东太平岭...",
+     "source": "经济观察网",
+     "zh": "华北电力大学王永利：“十五五”我国核电仍将保持连续、稳定的建设节奏"
+    },
+    {
+     "title": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
+     "link": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
+     "pubDate": "Sat, 01 Aug 2026 12:30:01 GMT",
+     "summary": "As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big.",
      "source": "CNBC",
-     "zh": "只看赔率是不够的。交易者如何在预测市场上获得优势"
+     "zh": "随着美国人直接使用 GLP-1 处方，沃尔玛、好市多、亚马逊将成为减肥大赢家"
+    },
+    {
+     "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+     "link": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+     "pubDate": "Sat, 01 Aug 2026 12:00:01 GMT",
+     "summary": "As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.",
+     "source": "CNBC",
+     "zh": "为了保持增长，即将上任的百思买首席执行官表示，他首先要缩小规模"
+    },
+    {
+     "title": "OpenAI&apos;s Hugging Face hack confirmed months of AI cyber warnings: &apos;Pandora&apos;s box is open&apos;",
+     "link": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+     "pubDate": "Sat, 01 Aug 2026 12:00:01 GMT",
+     "summary": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.",
+     "source": "CNBC",
+     "zh": "OpenAI 的 Hugging Face 黑客事件证实了数月来的人工智能网络警告：“潘多拉魔盒已打开”"
+    },
+    {
+     "title": "单日7.2万亿韩元，外资周五净买入创纪录！华尔街：韩股资金面逆风已经消退",
+     "link": "https://wallstreetcn.com/articles/3778479",
+     "pubDate": "Sat, 01 Aug 2026 19:50:07 +0800",
+     "summary": "韩国股市资金面正出现实质性转机。外资单日净买入规模刷新历史纪录，国内机构的抛售压力也大幅消退，叠加监管层收紧杠杆ETF准入，多重因素共同指向KOSPI市场波动率的边际改善。 7月31日，外资单日净买入KOSPI股票约7.2万亿韩元，创有史以来最高单日净买入纪录。 据追风交易台消息，据花旗研究分析师Jin-Wook Kim发布的报告，这一数字标志着此前持续数月的外资大规模净流出趋势出现根本性逆转。 花旗研究目前将KOSPI目标点位维持在10000点，并认为来自资本流动层面的逆风正在进一步消退。 在市场影响层面，外资月度净卖出规模在7月已大幅收窄至9.8万亿韩元，而6月与5月分别高达净卖出48.4",
+     "source": "华尔街见闻",
+     "zh": "单日7.2万亿韩元，外资周五净买入创纪录！华尔街：韩股资金面逆风已经消退"
+    },
+    {
+     "title": "卡塔尔LNG船霍尔木兹海峡遭袭失控，中东局势骤然升温",
+     "link": "https://wallstreetcn.com/articles/3778496",
+     "pubDate": "Sat, 01 Aug 2026 19:48:35 +0800",
+     "summary": "一艘满载卡塔尔液化天然气的运输船在通过霍尔木兹海峡时遭投射物击中，中东紧张局势骤然升级，全球能源市场面临新的压力。 据报道， 遭袭船只被证实为Gaslog Shanghai号LNG运输船。 英国海事贸易行动办公室（UKMTO）表示， 该船在阿曼东北方约11海里处遭不明投射物击中，发动机舱受损，船只目前失去控制，暂无人员伤亡或环境污染报告。 《华尔街日报》援引未具名美国官员消息称，特朗普已下令军方准备对伊朗发动新一轮打击，最早可能于本周末展开。 美东时间29日，据央视新闻，美国总统特朗普接受采访时表示，在伊朗向美军发动导弹袭击后，美国将进行报复。特朗普称，美国将“狠狠打击”伊朗，伊朗将遭到“痛击",
+     "source": "华尔街见闻",
+     "zh": "卡塔尔LNG船霍尔木兹海峡遭袭失控，中东局势骤然升温"
+    },
+    {
+     "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+     "link": "https://wallstreetcn.com/articles/3778497",
+     "pubDate": "Sat, 01 Aug 2026 19:46:16 +0800",
+     "summary": "OpenAI正准备推出一个名为\"Astra\"的全新模型家族，其核心能力在于驱动多个AI智能体长期协同运作以解决高难度问题。这一进展标志着该公司在通用人工智能路线上迈出实质性一步，同时也将成为特朗普政府新版AI监管框架落地的首批试验案例。 科技媒体The Information援引三位知情人士透露，OpenAI首席执行官Sam Altman本周亲赴华盛顿特区，向政策制定者和监管机构演示了Astra模型。OpenAI重点展示了该模型让多个智能体协同工作、长时间处理复杂任务的能力，应用场景涵盖项目管理乃至高阶数学难题求解。 与此同时，OpenAI发布了一份报告 （报告下载地址点这里） ，详述其最先进",
+     "source": "华尔街见闻",
+     "zh": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示"
+    },
+    {
+     "title": "国家医保局召开全国深化医保基金管理突出问题专项整治工作中期推进会",
+     "link": "http://www.eeo.com.cn/2026/0801/982876.shtml",
+     "pubDate": "Sat, 01 Aug 2026 19:13:05 +0800",
+     "summary": "据国家医保局会8月1日消息，7月31日，国家医保局会同最高人民法院、最高人民检察院、公安部、财政部、国家卫生健康委、税务总局、市场监管总局、国家中医药局、国家药监局，10部门联合召开全国深化医保基金管理突出问题专项整治工作中期推进会。",
+     "source": "经济观察网",
+     "zh": "国家医保局召开全国深化医保基金管理突出问题专项整治工作中期推进会"
     }
    ]
   },

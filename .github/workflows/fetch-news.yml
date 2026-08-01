@@ -21,14 +21,17 @@ jobs:
         with:
           node-version: '20'
 
-      - name: 抓取新闻
+      - name: 抓取实时新闻 (MarketWatch)
         run: node news-fetch.js
+
+      - name: 抓取行业资讯 (12赛道108源 + 翻译)
+        run: node industry-news-fetch.js
 
       - name: 提交更新
         run: |
           git config user.name "finance-daily-bot"
           git config user.email "finance-daily-bot@users.noreply.github.com"
-          git add news-cache.json
+          git add news-cache.json industry-news.json industry-data.js translate-cache.json
           git diff --cached --quiet && echo "无变化，跳过提交" || {
             git commit -m "🤖 自动更新新闻缓存 $(date -u +'%Y-%m-%d %H:%M') UTC"
             git push

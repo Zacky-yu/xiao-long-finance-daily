@@ -65,6 +65,13 @@ async function fetchAll() {
       if (newsResp.ok) newsData = await newsResp.json();
     } catch(e) { /* ignore */ }
 
+    // Try industry news cache (12赛道 108源 + 翻译)
+    let industryData = null;
+    try {
+      const indResp = await fetch('./industry-news.json?v=' + Date.now());
+      if (indResp.ok) industryData = await indResp.json();
+    } catch(e) { /* ignore */ }
+
     // Parse indices
     const indices = indicesRaw.split('\n').filter(Boolean).map(line => {
       const p = parseTencentLine(line, { name: 1, code: 2, price: 3, change: 31, changePct: 32, high: 33, low: 34, open: 5, volume: 6, turnover: 7 });
@@ -140,7 +147,7 @@ async function fetchAll() {
       }
     }
 
-    const data = { indices, stocks, etfs, goldEtfs, news, fedEvents, spotGold, spotSilver };
+    const data = { indices, stocks, etfs, goldEtfs, news, fedEvents, spotGold, spotSilver, industryData };
     lastData = data;
     render(data);
 
@@ -173,6 +180,7 @@ function render(data) {
   renderGoldSilver(data);
   renderNews(data.news);
   renderNewsAnalysis(data);
+  renderIndustryNews(data.industryData);
   renderForeignPreview(data);
   renderTomorrowFocus(data);
   renderMarketTrend();
@@ -783,6 +791,70 @@ function renderFedTracking(data) {
   html += '</div>';
   el.innerHTML = html;
 }
+
+// ─── 行业资讯 (12赛道 · 中英对照) ───
+let industryActiveKey = null;
+
+function renderIndustryNews(industryData) {
+  const tabs = document.getElementById('industryTabs');
+  const list = document.getElementById('industryList');
+  if (!tabs || !list) return;
+
+  if (!industryData || !industryData.industries || industryData.industries.length === 0) {
+    tabs.innerHTML = '';
+    list.innerHTML = '<div class="news-item"><span style="color:var(--text-muted);">行业资讯暂无数据，GitHub Actions 首次运行后生成</span></div>';
+    return;
+  }
+
+  const inds = industryData.industries;
+  if (!industryActiveKey || !inds.find(i => i.key === industryActiveKey)) {
+    industryActiveKey = inds[0].key;
+  }
+
+  // 赛道标签
+  let tabHtml = '';
+  for (const ind of inds) {
+    const on = ind.key === industryActiveKey;
+    const total = ind.items ? ind.items.length : 0;
+    tabHtml += '<button onclick="window.setIndustryTab(\'' + ind.key + '\')" style="' +
+      'padding:5px 14px;border-radius:999px;cursor:pointer;font-size:0.78em;font-weight:600;transition:all .15s;' +
+      'border:1px solid ' + (on ? ind.accent : 'var(--border-light)') + ';' +
+      'background:' + (on ? 'rgba(46,196,182,0.18)' : 'var(--surface)') + ';' +
+      'color:' + (on ? ind.accent : 'var(--text-muted)') + ';">' +
+      escHtml(ind.name) + ' <span style="opacity:.7;font-weight:400;">' + total + '</span></button>';
+  }
+  tabs.innerHTML = tabHtml;
+
+  // 当前赛道新闻
+  const ind = inds.find(i => i.key === industryActiveKey);
+  const items = (ind && ind.items) || [];
+  if (!items.length) {
+    list.innerHTML = '<div class="news-item"><span style="color:var(--text-muted);">该赛道暂无条目。</span></div>';
+    return;
+  }
+
+  const accent = ind.accent || '#2EC4B6';
+  let html = '<div style="font-size:0.75em;color:var(--text-dim);margin-bottom:8px;">' +
+    '更新 ' + (industryData.generated_at || '—') + ' · 中文标题为自动翻译，点击跳转原文</div>';
+  for (const it of items) {
+    const hasZh = it.zh && it.zh.trim() && it.zh !== it.title;
+    const primary = escHtml(hasZh ? it.zh : it.title);
+    const secondary = hasZh ? escHtml(it.title) : escHtml(it.summary || '');
+    html += '<div class="news-item" style="padding:12px 16px;">';
+    html += '<div class="news-title"><a href="' + escHtml(it.link) + '" target="_blank" rel="noopener">' + primary + '</a></div>';
+    if (hasZh && secondary) html += '<div class="news-desc" style="color:var(--text-dim);font-size:0.74em;margin-top:3px;">' + secondary + '</div>';
+    html += '<div class="news-meta" style="margin-top:6px;">';
+    html += '<span class="card-tag tag-semi" style="background:rgba(46,196,182,0.12);color:' + accent + '">' + escHtml(it.source) + '</span>';
+    html += '<span>' + formatDate(it.pubDate) + '</span>';
+    html += '</div></div>';
+  }
+  list.innerHTML = html;
+}
+
+window.setIndustryTab = function (key) {
+  industryActiveKey = key;
+  renderIndustryNews(lastData ? lastData.industryData : null);
+};
 
 // ─── Helpers ───
 function formatDate(str) {

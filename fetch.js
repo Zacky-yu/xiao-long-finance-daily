@@ -178,7 +178,6 @@ function render(data) {
   renderETFs(data.etfs);
   renderStocks(data.stocks);
   renderGoldSilver(data);
-  renderNews(data.news);
   renderNewsAnalysis(data);
   renderIndustryNews(data.industryData);
   renderForeignPreview(data);
@@ -428,28 +427,6 @@ function renderGoldSilver(data) {
   }
 
   grid.innerHTML = html;
-}
-
-// ─── News ───
-function renderNews(news) {
-  const list = document.getElementById('newsList');
-  if (!list) return;
-  let html = '';
-  if (!news || news.length === 0) {
-    html = '<div class="news-item"><span style="color:var(--text-muted);">暂无新闻数据，GitHub Actions 未运行或缓存尚未生成</span></div>';
-  } else {
-    for (const item of news.slice(0, 10)) {
-      const tagColor = item.source === 'US' ? 'tag-market' : 'tag-hot';
-      html += '<div class="news-item"><div class="news-title"><a href="' + escHtml(item.link) + '" target="_blank">' + escHtml(item.title) + '</a></div>';
-      html += '<div class="news-meta"><span class="card-tag ' + tagColor + '">' + (item.source || '全球') + '</span>';
-      html += '<span>' + formatDate(item.pubDate) + '</span>';
-      if (item.category) html += '<span style="color:var(--text-dim);">' + item.category + '</span>';
-      html += '</div>';
-      if (item.content) html += '<div class="news-desc">' + escHtml(item.content.substring(0, 200)) + '</div>';
-      html += '</div>';
-    }
-  }
-  list.innerHTML = html;
 }
 
 // ─── News Analysis ───

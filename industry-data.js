@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/2 04:53:21",
+ "generated_at": "2026/8/2 05:56:51",
  "recent_days": 7,
  "industries": [
   {
@@ -354,6 +354,14 @@ window.INDUSTRY_DATA = {
      "zh": "商业太空竞赛：为下一代通信网络提供动力"
     },
     {
+     "title": "When Phones Threatened PCs",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-phones-threatened-pcs-2026-07/",
+     "pubDate": "Fri, 31 Jul 2026 13:14:48 +0000",
+     "summary": "At the 2000 ISS Taiwan the talk was about how the cell phone would impact the PC with the phone expected to become more datacentric and the PCs more portable, […] The post When Phones Threatened PCs appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "当手机威胁个人电脑时"
+    },
+    {
      "title": "The Difference Between CoWoS-S and CoWoS-R",
      "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/371759-the-difference-between-cowos-s-and-cowos-r/",
      "pubDate": "Fri, 31 Jul 2026 13:00:45 +0000",
@@ -384,6 +392,46 @@ window.INDUSTRY_DATA = {
      "summary": "DAC's big buzz; CHIPS Act $; China's immersion DUV; UMC expands; SIA's state of the industry; DRAM shortages; earnings; PCB design credential program; IBM's quantum advantage; AI security alliance; foreign robotics ban. The post Chip Industry Week In Review appeared first on Semiconductor Engineerin",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "Amazon has Q2 sales of $200bn",
+     "link": "https://www.electronicsweekly.com/news/business/amazon-has-q2-sales-of-200bn-2026-07/",
+     "pubDate": "Fri, 31 Jul 2026 06:17:25 +0000",
+     "summary": "Amazon reported Q2 sales up 20% y-o-y to $200.6bn. Operating profit was up 43% y-o-y to $27.5bn. Net profit was $62.6bn up from $18.2bn in Q2 2025. AWS sales were […] The post Amazon has Q2 sales of $200bn appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "亚马逊第二季度销售额达2000亿美元"
+    },
+    {
+     "title": "First genuinely driverless robotaxi gets regulatory approval",
+     "link": "https://www.electronicsweekly.com/news/business/first-genuine-driverless-2026-07/",
+     "pubDate": "Fri, 31 Jul 2026 05:10:56 +0000",
+     "summary": "The first company to get regulatory approval for a genuinely driverless robotaxi is Amazon’s Zoox (pictured). Zoox has been licensed to deploy 2,500 vehicles annually for two years The US […] The post First genuinely driverless robotaxi gets regulatory approval appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "第一个真正无人驾驶的机器人出租车获得监管部门批准"
+    },
+    {
+     "title": "Cook’s curtain call",
+     "link": "https://www.electronicsweekly.com/news/business/cooks-curtain-call-2026-07/",
+     "pubDate": "Fri, 31 Jul 2026 05:09:06 +0000",
+     "summary": "At his final results call Tim Cook turned in some pretty good numbers in a tough consumer electronics market. Apple had fiscal Q3 (calendar Q2) revenues up 16.4% y-o-y at […] The post Cook’s curtain call appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "库克谢幕"
+    },
+    {
+     "title": "Element14 poses home and healthcare design challenge",
+     "link": "https://www.electronicsweekly.com/news/business/element14-poses-home-and-healthcare-design-challenge-2026-07/",
+     "pubDate": "Fri, 31 Jul 2026 05:07:44 +0000",
+     "summary": "Element14 has launched a home and healthcare design challenge inviting engineers, makers and technology enthusiasts to design and build a prototype smart home or healthcare system designed to support a […] The post Element14 poses home and healthcare design challenge appeared first on Electronics We",
+     "source": "Electronics Weekly",
+     "zh": "Element14 带来家居和医疗保健设计挑战"
+    },
+    {
+     "title": "Infineon shipping isolator ICs for high-volume applications",
+     "link": "https://www.electronicsweekly.com/news/business/infineon-shipping-isolator-ics-for-high-volume-applications-2026-07/",
+     "pubDate": "Fri, 31 Jul 2026 05:05:56 +0000",
+     "summary": "Infineon is shipping the ISSI20BxxF Solid State Isolator (SSI) family, bringing solid-state isolation technology into high-volume applications traditionally served by photovoltaic isolators, photovoltaic relays and electromechanical relays. Housed in aPG-DSO-8 […] The post Infineon shipping isolator",
+     "source": "Electronics Weekly",
+     "zh": "英飞凌为大批量应用提供隔离器 IC"
     },
     {
      "title": "From Photonics Precision to Repeatable Evidence",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "For compute-intensive applications, clusters of nodes that act as a single computer offer a way to scale performance and provide a workaround for organizations that lack access to leading-edge AI chips. The post Compute Clusters Break Out Of National Labs To Scale AI appeared first on Semiconductor ",
      "source": "Semiconductor Engineering",
      "zh": "计算集群突破国家实验室以扩展人工智能"
-    },
-    {
-     "title": "Hybrid Memory Combines NAND Flash And DRAM For Faster Data Transfer (U. of Seoul)",
-     "link": "https://semiengineering.com/nad-memory-combines-nand-flash-and-dram-for-faster-data-transfer-u-of-seoul/",
-     "pubDate": "Wed, 29 Jul 2026 23:00:06 +0000",
-     "summary": "Researchers from University of Seoul published a technical paper titled “NAD Memory: A Hybrid Memory Device Combined with NAND Flash Memory and DRAM.” The paper proposes “a hybrid memory architecture, termed NAD, which tightly integrates DRAM and NAND flash to enable direct and parallel data transfe",
-     "source": "Semiconductor Engineering",
-     "zh": "混合内存结合了 NAND 闪存和 DRAM 以实现更快的数据传输（首尔大学）"
-    },
-    {
-     "title": "2D P-Type Semiconductors with Oxide N-Channel Transistors For Complementary BEOL CMOS (Stanford, Hanyang)",
-     "link": "https://semiengineering.com/2d-p-type-semiconductors-with-oxide-n-channel-transistors-for-complementary-beol-cmos-stanford-hanyang/",
-     "pubDate": "Wed, 29 Jul 2026 22:45:54 +0000",
-     "summary": "Researchers from Stanford University and Hanyang University published a technical paper titled “Bridging the p-type gap in oxide electronics with 2D semiconductors.” “The review assesses manufacturing-aligned pathways to high-performance 2D p-channel transistors, covering transfer-free low-temperatu",
-     "source": "Semiconductor Engineering",
-     "zh": "用于互补 BEOL CMOS 的具有氧化物 N 沟道晶体管的 2D P 型半导体（斯坦福、汉阳）"
-    },
-    {
-     "title": "Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyota, Imperial College London)",
-     "link": "https://semiengineering.com/deployable-3d-structures-from-wafer-fabricated-precursors-u-of-houston-toyota-imperial-college-london/",
-     "pubDate": "Wed, 29 Jul 2026 22:32:14 +0000",
-     "summary": "Researchers from University of Houston, Toyota, and Imperial College London published a technical paper titled “Deployable 3D Architectures from Wafer-Fabricated Precursors.” The paper shows that “standard wafer fabrication can produce free-standing, mechanically stable, doubly-curved 3D structures ",
-     "source": "Semiconductor Engineering",
-     "zh": "来自晶圆制造前驱体的可展开 3D 结构（休斯顿大学、丰田大学、伦敦帝国理工学院）"
-    },
-    {
-     "title": "Benchmarking Open-Source LLMs on Verilog RTL Generation Across 50 Tasks (NMIMS, IIT Roorkee, BITS Pilani)",
-     "link": "https://semiengineering.com/benchmarking-open-source-llms-on-verilog-rtl-generation-across-50-tasks-nmims-iit-roorkee-bits-pilani/",
-     "pubDate": "Wed, 29 Jul 2026 22:12:20 +0000",
-     "summary": "Researchers from NMIMS Hyderabad, IIT Roorkee, and BITS Pilani published a technical paper titled “Benchmarking LLMs for Verilog Design Flows.” Abstract Excerpt: The paper presents “aa reproducible benchmarking platform that evaluates open-source LLMs on Verilog RTL generation across 50 curated task",
-     "source": "Semiconductor Engineering",
-     "zh": "跨 50 个任务对 Verilog RTL 生成的开源法学硕士进行基准测试（NMIMS、IIT Roorkee、BITS Pilani）"
-    },
-    {
-     "title": "Greece-based METLEN signs long-term commercial gallium supply agreement",
-     "link": "https://www.semiconductor-today.com/news_items/2026/jul/metlen-290726.shtml",
-     "pubDate": "Wed, 29 Jul 2026 20:13:56 +0100",
-     "summary": "Multi-national industrial and energy company METLEN Energy & Metals S.A. of Athens, Greece — which operates the only vertically integrated bauxite, alumina and primary aluminium production unit in the European Union (EU) with privately owned port facilities — has announced a long-term commercial agr",
-     "source": "Semiconductor Today",
-     "zh": "希腊 METLEN 签署长期商业镓供应协议"
-    },
-    {
-     "title": "Exotic Quasiparticles Promise Next-Gen Interconnects",
-     "link": "https://spectrum.ieee.org/topological-material-nanowire-interconnect",
-     "pubDate": "Mon, 27 Jul 2026 11:00:01 +0000",
-     "summary": "Interconnects , the wires that string transistors together into circuits on microchips, have long been built from copper due to its high conductivity. However, as electronics continue to shrink, copper becomes a dramatically worse conductor. Now scientists find that a new class of materials containi",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "奇异的准粒子有望实现下一代互连"
     }
    ]
   },
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
+     "link": "https://oilprice.com/Energy/Energy-General/Surinames-26-Billion-Oil-Bet-Is-Finally-Paying-Off.html",
+     "pubDate": "Sat, 01 Aug 2026 16:00:00 -0500",
+     "summary": "Middle East turmoil, centered on the U.S. war with Iran, is playing havoc with world energy markets. An ongoing dispute over access to the Strait of Hormuz, through which a fifth of world oil and natural gas supply is shipped, is causing prices to surge. This is a boon for South America's oil indust",
+     "source": "OilPrice",
+     "zh": "苏里南 260 亿美元的石油赌注终于得到回报"
+    },
+    {
      "title": "Zambia’s Government Delivers On Its Promise To Ramp Up Electricity Generation Capacity, With Solar Playing A Key Role",
      "link": "https://cleantechnica.com/2026/08/01/zambias-government-delivers-on-its-promise-to-ramp-up-electricity-generation-capacity-with-solar-playing-a-key-role/",
      "pubDate": "Sat, 01 Aug 2026 20:08:28 +0000",
@@ -928,14 +936,6 @@ window.INDUSTRY_DATA = {
      "summary": "While the dust is settling and facts emerge, it is clear that the latest attack on Saudi Aramco's Abqaiq oil-processing complex is rapidly becoming one of the most consequential energy developments of 2026. The event should not be assessed on the basis that it has immediately removed millions of bar",
      "source": "OilPrice",
      "zh": "Abqaiq 是对石油市场可能误读的警告"
-    },
-    {
-     "title": "Why Trump’s Trade Threat Puts Spain’s Energy Security on the Line",
-     "link": "https://oilprice.com/Energy/Energy-General/Why-Trumps-Trade-Threat-Puts-Spains-Energy-Security-on-the-Line.html",
-     "pubDate": "Fri, 31 Jul 2026 14:00:00 -0500",
-     "summary": "Donald Trump’s July 8 order to halt trade with Spain has yet to become an energy embargo, but Madrid can no longer dismiss it as political theatre. It was the second such threat since March 2026, this time delivered directly to Treasury Secretary Scott Bessent after Spain refused to commit 5% of GDP",
-     "source": "OilPrice",
-     "zh": "为什么特朗普的贸易威胁使西班牙的能源安全处于危险之中"
     },
     {
      "title": "Renewable generation is growing faster than ever",
@@ -1157,7 +1157,7 @@ window.INDUSTRY_DATA = {
      "title": "Novo setback casts doubt on a new way to treat heart disease",
      "link": "https://www.biopharmadive.com/news/novo-nordik-ziltivekimab-zeus-study-results-corvidia/826695/",
      "pubDate": "Fri, 31 Jul 2026 12:11:00 -0400",
-     "summary": "Ziltivekimab's failure in a key trial spurred share sell-offs for Novo and other biotechs, as it suggested trouble for different cardiovascular drugs that also target inflammation.",
+     "summary": "Ziltivekimab's failure in a key trial hurt spurred share sell-offs for Novo and other biotechs, as it suggested trouble for different cardiovascular drugs that also target inflammation.",
      "source": "BioPharma Dive",
      "zh": "Novo 的挫折让人们对治疗心脏病的新方法产生了怀疑"
     },
@@ -1746,12 +1746,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
-     "link": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-     "pubDate": "Sat, 01 Aug 2026 20:07:39 +0000",
-     "summary": "Article URL: https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose Comments URL: https://news.ycombinator.com/item?id=49137904 Points: 11 # Comments: 4",
+     "title": "Inside the London hacker house taking a stand against founder burnout",
+     "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+     "pubDate": "Sat, 01 Aug 2026 21:14:48 +0000",
+     "summary": "How one founder house is betting work-life balance can beat burnout .",
+     "source": "TechCrunch",
+     "zh": "伦敦黑客之家内部反对创始人倦怠"
+    },
+    {
+     "title": "Diátaxis",
+     "link": "https://diataxis.fr/",
+     "pubDate": "Sat, 01 Aug 2026 20:33:27 +0000",
+     "summary": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 45 # Comments: 7",
      "source": "Hacker News",
-     "zh": "炊具故意变得更糟：现在谁拥有 Pyrex 和 All-Clad"
+     "zh": "双向性"
+    },
+    {
+     "title": "The Silicon Valley Founder Meat Grinder",
+     "link": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+     "pubDate": "Sat, 01 Aug 2026 20:20:58 +0000",
+     "summary": "Article URL: https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/ Comments URL: https://news.ycombinator.com/item?id=49138045 Points: 85 # Comments: 38",
+     "source": "Hacker News",
+     "zh": "硅谷绞肉机创始人"
     },
     {
      "title": "US judge refuses xAI&apos;s request to stop a Minnesota law banning \"nudify\" apps, noting the request came only three days before the law was to take effect (NBC News)",
@@ -1765,33 +1781,17 @@ window.INDUSTRY_DATA = {
      "title": "But can your calculator run Linux?",
      "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
      "pubDate": "Sat, 01 Aug 2026 19:44:48 +0000",
-     "summary": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html Comments URL: https://news.ycombinator.com/item?id=49137713 Points: 14 # Comments: 0",
+     "summary": "Article URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html Comments URL: https://news.ycombinator.com/item?id=49137713 Points: 28 # Comments: 1",
      "source": "Hacker News",
      "zh": "但是你的计算器可以运行 Linux 吗？"
     },
     {
-     "title": "Google News is just Forrest Gump's shrimp boat now",
+     "title": "Google has abandoned Google News?",
      "link": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
      "pubDate": "Sat, 01 Aug 2026 19:39:43 +0000",
-     "summary": "Article URL: https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now Comments URL: https://news.ycombinator.com/item?id=49137681 Points: 136 # Comments: 80",
+     "summary": "Article URL: https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now Comments URL: https://news.ycombinator.com/item?id=49137681 Points: 210 # Comments: 142",
      "source": "Hacker News",
-     "zh": "Google 新闻现在只是阿甘正传的虾船"
-    },
-    {
-     "title": "Get ready to flee, Americans in ten countries warned",
-     "link": "https://www.dailymail.com/news/article-16021741/flee-Americans-nine-countries-US-embassies-Iran-war.html",
-     "pubDate": "Sat, 01 Aug 2026 19:18:46 +0000",
-     "summary": "Article URL: https://www.dailymail.com/news/article-16021741/flee-Americans-nine-countries-US-embassies-Iran-war.html Comments URL: https://news.ycombinator.com/item?id=49137503 Points: 11 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "十个国家的美国人警告说，做好逃离的准备"
-    },
-    {
-     "title": "Show HN: Cockpit for you Claude Code agents in Rust",
-     "link": "https://episko.dev/",
-     "pubDate": "Sat, 01 Aug 2026 19:09:15 +0000",
-     "summary": "Hi everyone! Hope you had a great day so far, and maybe its about to get just a little bit better (thanks Winter ;) So I had way to many terminal windows flying about when using Claude, and kept losing track of which terminal / session / project im in right now. So I built a solution for that, prese",
-     "source": "Hacker News",
-     "zh": "显示 HN：Cockpit 为您提供 Rust 中的 Claude 代码代理"
+     "zh": "谷歌已经放弃谷歌新闻了？"
     },
     {
      "title": "Bitcoin hardware wallet Coldcard shipped a faulty firmware build, and hackers are now draining wallets; Galaxy Research estimates $70M+ stolen (Shaurya Malwa/CoinDesk)",
@@ -1805,9 +1805,17 @@ window.INDUSTRY_DATA = {
      "title": "Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
      "link": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
      "pubDate": "Sat, 01 Aug 2026 18:59:35 +0000",
-     "summary": "Article URL: https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf Comments URL: https://news.ycombinator.com/item?id=49137320 Points: 8 # Comments: 1",
+     "summary": "Article URL: https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf Comments URL: https://news.ycombinator.com/item?id=49137320 Points: 11 # Comments: 1",
      "source": "Hacker News",
      "zh": "Starlink Ku 波段下行链路的信号结构 (2023) [pdf]"
+    },
+    {
+     "title": "CISA Alert: Water Sector PLC Targeting",
+     "link": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
+     "pubDate": "Sat, 01 Aug 2026 18:50:17 +0000",
+     "summary": "Article URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/ Comments URL: https://news.ycombinator.com/item?id=49137228 Points: 24 # Comments: 9",
+     "source": "Hacker News",
+     "zh": "CISA 警报：水务行业 PLC 目标"
     },
     {
      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
@@ -1818,12 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "您是否仍然应该购买下一部智能手机——或者改为订阅它？"
     },
     {
-     "title": "Trump Media&apos;s new paid data API debuts, for \"a direct, licensed, real-time feed of the platform&apos;s most market-moving Truths\"; Dem. senators asked SEC to probe (CJ Haddad/CNBC)",
+     "title": "Trump Media&apos;s new paid data API launches, for \"a direct, licensed, real-time feed of the platform&apos;s most market-moving Truths\"; Dem. senators asked SEC to probe (CJ Haddad/CNBC)",
      "link": "https://www.techmeme.com/260801/p14#a260801p14",
      "pubDate": "Sat, 01 Aug 2026 14:40:02 -0400",
-     "summary": "CJ Haddad / CNBC : Trump Media's new paid data API debuts, for &ldquo;a direct, licensed, real-time feed of the platform's most market-moving Truths&rdquo;; Dem. senators asked SEC to probe &nbsp; &mdash;&nbsp; Trump Media and Technology Group's new paid data service launched on Aug. 1, providing fa",
+     "summary": "CJ Haddad / CNBC : Trump Media's new paid data API launches, for &ldquo;a direct, licensed, real-time feed of the platform's most market-moving Truths&rdquo;; Dem. senators asked SEC to probe &nbsp; &mdash;&nbsp; Trump Media and Technology Group's new paid data service launched on Aug. 1, providing ",
      "source": "Techmeme",
-     "zh": "特朗普媒体的新付费数据 API 首次亮相，“直接、许可、实时提供该平台最具市场影响力的真相”；民主党。参议员要求 SEC 进行调查（CJ Haddad/CNBC）"
+     "zh": "特朗普媒体推出新的付费数据 API，“直接、获得许可、实时提供该平台最具市场影响力的真相”；民主党。参议员要求 SEC 进行调查（CJ Haddad/CNBC）"
     },
     {
      "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
      "source": "WIRED",
      "zh": "2026 年 15 款最佳办公椅——我们测试了 70 张来挑选它们"
-    },
-    {
-     "title": "Best Organic Mattresses (2026): Certified Nontoxic, Natural Sleep",
-     "link": "https://www.wired.com/story/best-organic-mattress/",
-     "pubDate": "Sat, 01 Aug 2026 11:34:00 +0000",
-     "summary": "These natural, organic mattresses are eco-friendly alternatives to conventional models and just as comfortable.",
-     "source": "WIRED",
-     "zh": "最佳有机床垫（2026 年）：无毒认证，自然睡眠"
     }
    ]
   },
@@ -1993,6 +1993,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple Upgrade might’ve provided our first hint for what could change with Apple Card",
+     "link": "https://9to5mac.com/2026/08/01/apple-upgrade-will-it-replace-apple-card-monhtly-installments/",
+     "pubDate": "Sat, 01 Aug 2026 21:52:35 +0000",
+     "summary": "This week, Apple launched Apple Upgrade , its new leasing program for most Apple products. It replaces the iPhone Upgrade Program entirely, and for the most part, it’s an incredible deal. The deal is so good that largely, there isn’t a great reason to use Apple Card Monthly Installments (ACMI) anymo",
+     "source": "9to5Mac",
+     "zh": "Apple 升级可能为我们提供了有关 Apple Card 可能发生变化的第一个提示"
+    },
+    {
+     "title": "iQOO Z11's India launch teased by the company CEO",
+     "link": "https://www.gsmarena.com/iqoo_z11_india_launch_teased-news-73973.php",
+     "pubDate": "Sat, 01 Aug 2026 23:51:02 +0200",
+     "summary": "iQOO launched the Z11 Lite last month, and a few days ago, a media report claimed that the brand was planning to launch the Z11 in India. That report has turned out to be correct, as iQOO India's CEO Nipun Marya has teased the launch of the Z11. In a post on X, Marya said, \"DO NOT READ THE FIRST LET",
+     "source": "GSMArena",
+     "zh": "iQOO Z11 在印度的发布会被公司首席执行官调侃"
+    },
     {
      "title": "Apple @ Work: Apple says MacBook Neo is pulling schools away from Windows and Chromebooks",
      "link": "https://9to5mac.com/2026/08/01/apple-says-macbook-neo-is-pulling-schools-away-from-windows-and-chromebooks/",
@@ -2130,14 +2146,6 @@ window.INDUSTRY_DATA = {
      "zh": "CMF Clip Pro 蓝牙耳机将于下周上市"
     },
     {
-     "title": "Apple weekend deals: AirPods Pro 3, Apple Studio Display $540 off, M5 MacBook Air $240 off, AirTag 2, more",
-     "link": "https://9to5mac.com/2026/08/01/apple-weekend-deals-airpods-air-m5/",
-     "pubDate": "Sat, 01 Aug 2026 12:05:03 +0000",
-     "summary": "Your weekend edition of 9to5Toys Lunch Break is here with ongoing deals on AirPods Pro 3, AirPods Max 2 at $100 off, AirTag 2 , and a bunch more. This weekend we are highlighting some banger deals on the official Apple refurb store, from up to $540 off Apple Studio displays , to the lowest prices ar",
-     "source": "9to5Mac",
-     "zh": "Apple 周末优惠：AirPods Pro 3、Apple Studio Display 立减 540 美元、M5 MacBook Air 立减 240 美元、AirTag 2 等"
-    },
-    {
      "title": "Third-party app stores are about to take over Google Play. Here’s how to prepare",
      "link": "https://www.androidauthority.com/third-party-app-stores-coming-google-play-how-prepare-3689912/",
      "pubDate": "Sat, 01 Aug 2026 12:00:39 +0000",
@@ -2194,14 +2202,6 @@ window.INDUSTRY_DATA = {
      "zh": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账"
     },
     {
-     "title": "Samsung Galaxy S26 FE's camera specs surface",
-     "link": "https://www.gsmarena.com/samsung_galaxy_s26_fe_camera_specs_surface-news-73959.php",
-     "pubDate": "Sat, 01 Aug 2026 06:06:02 +0200",
-     "summary": "A Samsung executive recently confirmed the existence of the Galaxy S26 FE, with a company representative hinting the phone will launch this year. While we await more details about the Galaxy S26 FE's launch from Samsung, its camera specs have surfaced online, revealing the camera system won't be ent",
-     "source": "GSMArena",
-     "zh": "三星 Galaxy S26 FE 相机规格浮出水面"
-    },
-    {
      "title": "Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled",
      "link": "https://9to5google.com/2026/07/31/gemini-ai-studio-app/",
      "pubDate": "Fri, 31 Jul 2026 23:39:24 +0000",
@@ -2242,20 +2242,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "大跌67%！“AI股神”：再也不加杠杆！基金资产急剧缩水，发生了什么？",
+     "link": "http://global.eastmoney.com/news/11798,202608013829069628.html",
+     "pubDate": "Sun, 02 Aug 2026 05:38:00 +0800",
+     "summary": "“AI股神”跌落神坛。 在最新公开的信件中，号称“AI股神”的对冲基金Situational Awareness（态势感知）创始人Leopold Aschenbrenner表示，为7月基金资产暴跌67%一事承担全部责任，并承诺未来不会再加杠杆。 这家专注于AI领域的对冲基金，因高杠杆重仓押注AI板块本周一度面临强平风险，最终无奈将其大部分股票投资组合折价出售。而在暴跌前夕，该基金的表现格外亮眼，截至2026年6月底，年内回报率超400%。 “AI股神”道歉 Aschenbrenner在致投资者信中表示，对基金资产在7月暴跌67%的事件“承担全部责任”，并承诺将汲取“代价惨重的教训”。 他表示，",
+     "source": "东方财富股票",
+     "zh": "大跌67%！“AI股神”：再也不加杠杆！基金资产急剧缩水，发生了什么？"
+    },
+    {
+     "title": "3 High-Yield Energy Stocks to Buy With $1,000 Right Now and Hold Through 2030",
+     "link": "https://finance.yahoo.com/energy/articles/3-high-yield-energy-stocks-213500144.html",
+     "pubDate": "2026-08-01T21:35:00Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "现在就以 1,000 美元买入 3 只高收益能源股，并持有至 2030 年"
+    },
+    {
+     "title": "XLV vs. IBBQ: Is Broad Healthcare Exposure or Biotech Growth the Better ETF Buy?",
+     "link": "https://finance.yahoo.com/healthcare/articles/xlv-vs-ibbq-broad-healthcare-213101526.html",
+     "pubDate": "2026-08-01T21:31:01Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "XLV 与 IBBQ：广泛的医疗保健投资或生物科技增长是更好的 ETF 购买吗？"
+    },
+    {
+     "title": "新一轮热浪袭击克罗地亚 多地发生野火",
+     "link": "http://finance.eastmoney.com/news/1351,202608023829078219.html",
+     "pubDate": "Sun, 02 Aug 2026 05:19:18 +0800",
+     "summary": "克罗地亚近日遭受新一轮热浪袭击，红色高温预警1日覆盖亚得里亚海沿岸和首都萨格勒布等地，普拉等地当天发生多起野火。 克国家水文气象局网站上的信息显示，亚得里亚海沿岸和萨格勒布等多地处于红色高温预警状态，另有一些地区处于次一级的橙色高温预警中。根据气象预测，高温天气要持续到下周。 据悉，该国普拉和拉宾地区当天发生多起野火火灾。 克罗地亚6月下旬遭遇今夏首波热浪，沿海城市斯 普利特 气温创 历史新高 。高温天气不仅使野火频发，也令一些河流水位降至历史低值。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "新一轮热浪袭击克罗地亚 多地发生野火"
+    },
+    {
+     "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+     "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+     "pubDate": "Sat, 01 Aug 2026 21:15:00 GMT",
+     "summary": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
+     "source": "MarketWatch",
+     "zh": "如果说社会保障的资金危机是房间里的大象，那么这就是每个人都忽视的老鼠。你已被警告过。"
+    },
+    {
+     "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+     "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+     "pubDate": "Sat, 01 Aug 2026 21:00:00 GMT",
+     "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
+     "source": "MarketWatch",
+     "zh": "“我们一直都很文明”：我姐姐拒绝取代我成为遗嘱执行人。我可以在她去世之前辞职吗？"
+    },
+    {
+     "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
+     "link": "http://finance.eastmoney.com/news/1351,202608023829077991.html",
+     "pubDate": "Sun, 02 Aug 2026 04:59:10 +0800",
+     "summary": "当地时间1日，伊朗外交部长阿拉格齐分别与巴基斯坦陆军参谋长穆尼尔以及土耳其外交部长费丹通电话。通话中，各方讨论了地区最新局势，并就美国侵略性与破坏稳定行为所造成的后果，以及地区紧张局势加剧和安全风险升级交换了意见。 阿拉格齐在通话中警告美军不要采取任何冒险行动，并强调伊朗已做好充分准备，维护国家主权、安全和领土完整，并将对任何侵犯行为作出坚决回应。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为"
+    },
+    {
      "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
      "link": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
-     "pubDate": "Sat, 01 Aug 2026 20:50:01 GMT",
+     "pubDate": "Sat, 01 Aug 2026 20:55:55 GMT",
      "summary": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.",
      "source": "CNBC",
      "zh": "由于伊朗威胁要切断航线，阿曼附近的油轮遭到攻击"
     },
     {
-     "title": "Morgan Stanley's Amazon earnings verdict has a blind spot",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanleys-amazon-earnings-verdict-204610573.html",
-     "pubDate": "2026-08-01T20:46:10Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "摩根士丹利对亚马逊盈利的判断存在盲点"
+     "title": "布伦特原油暗盘突破91美元 日内涨超3.8%",
+     "link": "http://finance.eastmoney.com/news/1351,202608023829078062.html",
+     "pubDate": "Sun, 02 Aug 2026 04:46:39 +0800",
+     "summary": "布伦特原油暗盘突破91美元，日内涨超3.8%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "布伦特原油暗盘突破91美元 日内涨超3.8%"
     },
     {
      "title": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击",
@@ -2266,52 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击"
     },
     {
-     "title": "Prediction: Eli Lilly Will Be Worth $2 Trillion by 2031",
-     "link": "https://finance.yahoo.com/healthcare/articles/prediction-eli-lilly-worth-2-203700691.html",
-     "pubDate": "2026-08-01T20:37:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "预测：到 2031 年，礼来公司的市值将达到 2 万亿美元"
-    },
-    {
-     "title": "秘鲁一架小型飞机坠毁 机上十余人遇难",
-     "link": "http://finance.eastmoney.com/news/1351,202608023829077576.html",
-     "pubDate": "Sun, 02 Aug 2026 04:13:05 +0800",
-     "summary": "当地时间8月1日， 一架载有十余人的小型观光飞机在秘鲁伊卡大区纳斯卡 省 坠毁。 据悉，这架飞机从皮斯科 机场 起飞，执行纳斯卡线条观光飞行任务，在起飞数分钟后与控制塔失去联系。 初步报告显示，机上人员全部遇难 ，但官方尚未发布正式声明。目前，秘鲁有关部门已展开调查，遇难者身份及事故原因仍在进一步确认中。 （文章来源：央视新闻）",
+     "title": "美国国家飓风中心表示：预计热带风暴吉纳维芙将逐渐减弱",
+     "link": "http://finance.eastmoney.com/news/1351,202608023829078132.html",
+     "pubDate": "Sun, 02 Aug 2026 04:38:27 +0800",
+     "summary": "美国国家飓风中心表示，预计热带风暴吉纳维芙将逐渐减弱。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "秘鲁一架小型飞机坠毁 机上十余人遇难"
-    },
-    {
-     "title": "伊朗外交部：决心继续走抵抗与坚守之路",
-     "link": "http://finance.eastmoney.com/news/1351,202608023829077464.html",
-     "pubDate": "Sun, 02 Aug 2026 04:05:58 +0800",
-     "summary": "伊朗外交部当地时间8月1日发表声明称，伊朗决心继续走抵抗与坚守之路，直至彻底消除敌人的恶行。 声明表示，当前，美国继续违反6月18日美伊谅解备忘录的相关条款，持续对伊朗 港口 和商船实施海上封锁，并不断对伊朗各地发动野蛮袭击，加大经济施压和非法威胁，持续对伊朗实施侵略。作为回应，伊朗武装部队的防御性打击仍在全力持续进行。 声明还称，美国及其部分地区盟友以7月8日三艘船只的所谓“事故”为借口，对伊朗发动攻击并持续至今，是其编造谎言、为违背双方协议和侵犯伊朗在霍尔木兹海峡的主权寻找借口的集中体现。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "伊朗外交部：决心继续走抵抗与坚守之路"
-    },
-    {
-     "title": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称 美国不得采取任何“冒险行动”",
-     "link": "http://finance.eastmoney.com/news/1351,202608023829077667.html",
-     "pubDate": "Sun, 02 Aug 2026 03:57:38 +0800",
-     "summary": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称，美国不得采取任何“冒险行动”。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称 美国不得采取任何“冒险行动”"
-    },
-    {
-     "title": "美国纽约州罗切斯特发生枪击事件 1人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202608023829077344.html",
-     "pubDate": "Sun, 02 Aug 2026 03:57:38 +0800",
-     "summary": "当地时间8月1日凌晨，美国纽约州罗切斯特发生一起枪击事件，造成1名女子死亡、3人受伤。警方表示目前仍在调查案件线索，寻找嫌疑人。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "美国纽约州罗切斯特发生枪击事件 1人死亡"
-    },
-    {
-     "title": "伊朗前外长、现议员马努切赫尔·穆塔基：任何涉及伊朗的谈判，都必须获得最高领袖穆杰塔巴批准才能开展",
-     "link": "http://finance.eastmoney.com/news/1351,202608023829077773.html",
-     "pubDate": "Sun, 02 Aug 2026 03:57:34 +0800",
-     "summary": "伊朗前外长、现议员马努切赫尔·穆塔基：任何涉及伊朗的谈判，都必须获得最高领袖穆杰塔巴批准才能开展。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗前外长、现议员马努切赫尔·穆塔基：任何涉及伊朗的谈判，都必须获得最高领袖穆杰塔巴批准才能开展"
+     "zh": "美国国家飓风中心表示：预计热带风暴吉纳维芙将逐渐减弱"
     },
     {
      "title": "SA Asks: Will SpaceX buy a major US wireless carrier?",
@@ -2394,22 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "美国人的寿命超出了我们退休制度的承受能力——而我们中的许多人都没有做好准备"
     },
     {
-     "title": "My financial adviser says I don’t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
-     "link": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
-     "pubDate": "Sat, 01 Aug 2026 17:15:00 GMT",
-     "summary": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”",
-     "source": "MarketWatch",
-     "zh": "我的财务顾问说我不需要为我 230 万美元的投资组合制定节税的提款计划。这是疯狂吗？"
-    },
-    {
-     "title": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
-     "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
-     "pubDate": "Sat, 01 Aug 2026 17:09:00 GMT",
-     "summary": "HSAs can offset healthcare costs in your old age. But most people can’t afford to wait.",
-     "source": "MarketWatch",
-     "zh": "如果您健康或富有，健康储蓄账户可以成为一个很好的退休工具"
-    },
-    {
      "title": "美政府建议中东地区美国公民做好撤离准备",
      "link": "http://finance.eastmoney.com/news/1351,202608023829071966.html",
      "pubDate": "Sun, 02 Aug 2026 00:04:33 +0800",
@@ -2426,12 +2426,28 @@ window.INDUSTRY_DATA = {
      "zh": "桑切斯猛烈抨击批评后，欧盟部长们将讨论西班牙的移民危机"
     },
     {
+     "title": "Visa Stock Looks Attractive After Layoffs, Strong Earnings",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-looks-attractive-layoffs-153510757.html",
+     "pubDate": "2026-08-01T15:35:10Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "裁员后，Visa 股票看起来很有吸引力，盈利强劲"
+    },
+    {
      "title": "Infantino’s U-turn fuels doubts about his future at Fifa",
      "link": "https://www.ft.com/content/c0d97297-98ed-452f-bdfd-1f16d53d4eb3?syn-25a6b1a6=1",
      "pubDate": "Sat, 01 Aug 2026 15:32:29 GMT",
      "summary": "The president of football’s governing body was expected to stand for re-election unopposed, but now criticism is mounting",
      "source": "Financial Times",
      "zh": "因凡蒂诺的转变引发了人们对他在国际足联未来的怀疑"
+    },
+    {
+     "title": "Google Piles On Off-Balance-Sheet Risk to Fuel Its AI Chip Push",
+     "link": "https://finance.yahoo.com/technology/ai/articles/google-piles-off-balance-sheet-153002569.html",
+     "pubDate": "2026-08-01T15:30:02Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "谷歌增加表外风险以推动其人工智能芯片的发展"
     },
     {
      "title": "GE Aerospace, AI Play Lead Five Stocks Near Buy Points",
@@ -2442,6 +2458,14 @@ window.INDUSTRY_DATA = {
      "zh": "GE Aerospace 和 AI Play 领涨五只接近买入点的股票"
     },
     {
+     "title": "Hoping for Lower Prices at the Gas Pump? After Exxon Doubles Profits, CEO Darren Woods Says ‘I Wouldn’t Hold My Breath.’",
+     "link": "https://finance.yahoo.com/energy/articles/hoping-lower-prices-gas-pump-151502283.html",
+     "pubDate": "2026-08-01T15:15:02Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "希望加油站价格更低？埃克森美孚利润翻倍后，首席执行官达伦·伍兹表示“我不会屏住呼吸。”"
+    },
+    {
      "title": "Berkshire Hathaway shares hit eight-month high",
      "link": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
      "pubDate": "Sat, 01 Aug 2026 14:41:54 GMT",
@@ -2450,36 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "伯克希尔哈撒韦公司股价创八个月新高"
     },
     {
-     "title": "1 in 5 new car buyers are stuck in a $1,000-a-month nightmare — and it’s ruining their long-term wealth",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/1-5-car-buyers-stuck-142500536.html",
-     "pubDate": "2026-08-01T14:25:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "五分之一的新车购买者陷入了每月 1,000 美元的噩梦 - 这正在毁掉他们的长期财富"
-    },
-    {
      "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
      "link": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
      "pubDate": "Sat, 01 Aug 2026 13:44:04 GMT",
      "summary": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
      "source": "CNBC",
      "zh": "只看赔率是不够的。交易者如何在预测市场上获得优势"
-    },
-    {
-     "title": "华北电力大学王永利：“十五五”我国核电仍将保持连续、稳定的建设节奏",
-     "link": "http://www.eeo.com.cn/2026/0801/982890.shtml",
-     "pubDate": "Sat, 01 Aug 2026 21:26:10 +0800",
-     "summary": "上证报中国证券网讯（记者 白丽斐）7月31日召开的国务院常务会议决定核准辽宁庄河一期工程等四个核电项目。华北电力大学能源互联网研究中心副主任王永利对上证报记者表示，年内已有核电机组进入主体工程建设，此次核准是2026年首次在国家层面新增建设名额。“十五五”开局后我国核电仍将保持连续、稳定的建设节奏，为2030年前后配置稳定电源资产。据了解，此次获批的新项目分别是浙江金七门核电二期工程（3、4号机组），广东太平岭...",
-     "source": "经济观察网",
-     "zh": "华北电力大学王永利：“十五五”我国核电仍将保持连续、稳定的建设节奏"
-    },
-    {
-     "title": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
-     "link": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
-     "pubDate": "Sat, 01 Aug 2026 12:30:01 GMT",
-     "summary": "As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big.",
-     "source": "CNBC",
-     "zh": "随着美国人直接使用 GLP-1 处方，沃尔玛、好市多、亚马逊将成为减肥大赢家"
     }
    ]
   },

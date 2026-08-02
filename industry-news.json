@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/3 03:44:02",
+ "generated_at": "2026/8/3 04:55:57",
  "recent_days": 7,
  "industries": [
   {
@@ -9,20 +9,12 @@
    "total": 16,
    "items": [
     {
-     "title": "NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework",
-     "link": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/",
-     "pubDate": "Sun, 02 Aug 2026 06:21:26 +0000",
-     "summary": "Agentic RL research is constant algorithm modification, and in mainstream frameworks every change threads through trainer, distributed backend, and rollout glue. NVIDIA's Molt targets that cost with about 8.6K lines of RL code, composing Ray, vLLM, and NeMo AutoModel around one asynchronous loop. Th",
-     "source": "MarkTechPost",
-     "zh": "NVIDIA AI 发布 Molt：PyTorch 原生代理强化学习框架"
-    },
-    {
-     "title": "End-to-End Forecasting with TimesFM 2.5: Backtesting, Covariates, Anomaly Detection, and Scalable Colab Deployment",
-     "link": "https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/",
-     "pubDate": "Sun, 02 Aug 2026 05:44:14 +0000",
-     "summary": "In this tutorial, we build an advanced end-to-end time-series forecasting workflow with TimesFM 2.5. We begin by configuring the runtime, installing the required dependencies, detecting available hardware, and generating a realistic multi-store retail dataset with trend, seasonality, pricing, promot",
-     "source": "MarkTechPost",
-     "zh": "使用 TimesFM 2.5 进行端到端预测：回测、协变量、异常检测和可扩展 Colab 部署"
+     "title": "Sam Altman and AI’s decel debate",
+     "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+     "pubDate": "Sun, 02 Aug 2026 20:54:22 +0000",
+     "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+     "source": "TechCrunch AI",
+     "zh": "Sam Altman 和 AI 的减速争论"
     },
     {
      "title": "只用一张卡，做出了声称是100M参数以内最好的小模型？",
@@ -97,22 +89,6 @@
      "zh": "YouTuber Hank Green 表示他对人工智能的使用“不健康”"
     },
     {
-     "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
-     "link": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
-     "pubDate": "Sat, 01 Aug 2026 19:01:42 +0000",
-     "summary": "AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per token, using Gated MLA and FarSkip-Collective. AMD published weights from every training stage, plus da",
-     "source": "MarkTechPost",
-     "zh": "AMD 发布 Instella-MoE-16B-A3B：完全开放的专家混合法学硕士，具有在 Instinct GPU 上训练的 2.8B 主动参数"
-    },
-    {
-     "title": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking",
-     "link": "https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/",
-     "pubDate": "Sat, 01 Aug 2026 18:31:15 +0000",
-     "summary": "Discover how to optimize transformer workloads using the NVIDIA Transformer Engine. This tutorial guides you through configuring fused GPU kernels, implementing FP8 delayed scaling, and benchmarking model performance. Learn to build and train efficient GPT-style causal language models in PyTorch wit",
-     "source": "MarkTechPost",
-     "zh": "使用 NVIDIA Transformer 引擎、融合内核、BF16、FP8 和 GPU 基准测试加速 Transformer 训练"
-    },
-    {
      "title": "Sam Altman is still making the case for parenting via ChatGPT",
      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
      "pubDate": "Sat, 01 Aug 2026 17:07:34 +0000",
@@ -135,22 +111,6 @@
      "summary": "A Beginner's Guide to Working with Claude Design • 5 Best AI Tools for Data Analysis You Should Try in 2026 • 5 Books That Will Deepen Your Understanding of Large Language Models • Is KimiClaw a Useful Tool?",
      "source": "KDnuggets",
      "zh": "KDnuggets 每周综述：构建和部署您的第一个自主代理 • 7 种仍然重要的机器学习算法"
-    },
-    {
-     "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
-     "link": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
-     "pubDate": "Sat, 01 Aug 2026 09:52:49 +0000",
-     "summary": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugging Edge Functions, fixing RLS policies — inside containerized stacks, then scores them with determi",
-     "source": "MarkTechPost",
-     "zh": "Supabase 发布 Evals：一个开源基准测试，可在真实 Supabase 任务上对 Claude Code、Codex 和 OpenCode 进行评分"
-    },
-    {
-     "title": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio",
-     "link": "https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/",
-     "pubDate": "Sat, 01 Aug 2026 08:28:07 +0000",
-     "summary": "MiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it as a general-purpose multimodal generation model that reads text, images, video, and audio as one unified context and returns video with native stere",
-     "source": "MarkTechPost",
-     "zh": "MiniMax 发布 MiniMax H3：全模态视频模型，可生成带有原生立体声音频的 15 秒 2K 剪辑"
     },
     {
      "title": "OpenAI全球用户破10亿！全新模型Astra曝光，疑似GPT-6",
@@ -217,14 +177,6 @@
      "zh": "据报道，OpenAI 发现证据表明其更多特工肆意妄为"
     },
     {
-     "title": "India is starting to pay for apps, not just download them",
-     "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-     "pubDate": "Fri, 31 Jul 2026 21:07:45 +0000",
-     "summary": "India's app market generated a record $345 million in Q2.",
-     "source": "TechCrunch AI",
-     "zh": "印度开始为应用程序付费，而不仅仅是下载它们"
-    },
-    {
      "title": "Advancing responsible AI across Europe",
      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
@@ -247,6 +199,54 @@
      "summary": "Building a voice-controlled AI agents isn't hard, this article breaks the pipeline into its real components: streaming speech recognition, turn detection, streaming generation, interruption handling, and tool calling under voice constraints and shows what each one is responsible for.",
      "source": "KDnuggets",
      "zh": "构建语音控制的人工智能代理"
+    },
+    {
+     "title": "5 Books That Will Deepen Your Understanding of Large Language Models",
+     "link": "https://www.kdnuggets.com/5-books-that-will-deepen-your-understanding-of-large-language-models",
+     "pubDate": "Fri, 31 Jul 2026 12:00:44 +0000",
+     "summary": "Check out these five books on building, fine-tuning, and deploying large language models.",
+     "source": "KDnuggets",
+     "zh": "5 本书将加深您对大型语言模型的理解"
+    },
+    {
+     "title": "腾讯科研智能体攻破50年未解数学难题，姚顺雨喊话正在招人",
+     "link": "https://zhidx.com/p/581537.html",
+     "pubDate": "Fri, 31 Jul 2026 19:25:09 +0800",
+     "summary": "智东西 作者 | 茄子 编辑 | 程茜 智东西7月31日消息，昨日，腾讯首席AI科学家姚顺雨转发腾讯混元的一篇论文并喊话：“Hy AI4S is hiring :)”，公开招募AI for Science方向人才。 7月29日由腾讯混元科研智能体Hyra参与破解数学难题的论文发布在arXiv上。依托Hyra强大的推演与探索能力，腾讯研究团队取得关键进展，破解了加法组合学领域一道持续50余年的公开难题。 姚顺雨的评论区里，有位网友称，Hyra/Hy3的论文“太疯狂了”，用显式构造解决一个数十年未解的和集问题，完全没想到这会出现在一条招聘帖里。 还有人畅想：“下一位菲尔兹奖得主会是AI吗？” 值得",
+     "source": "智东西",
+     "zh": "腾讯科研智能体攻破50年未解数学难题，姚顺雨喊话正在招人"
+    },
+    {
+     "title": "阿里语音模型再进化！专有名词一键拿捏，口头禅实时润色",
+     "link": "https://zhidx.com/p/581487.html",
+     "pubDate": "Fri, 31 Jul 2026 17:39:23 +0800",
+     "summary": "智东西 作者 | 程茜 编辑 | 李水青 智东西7月31日消息，今日，阿里千问大模型团队发布语音识别大模型 Qwen-Audio-3.0-ASR-Flash 。该模型的优化主要体现在 上下文一致性、行业词识别和热词定制化 三个维度。 根据官方披露，Qwen-Audio-3.0-ASR-Flash在医疗场景的专业词“听中率”达到 95.36% ，工业、IT编程、畜牧业准确率同样超 90% ；并且其热词“听中率”在所有测试集都达到 90%以上 ，多数场景突破 99% 。 此外，研究人员还升级了模型的 语音润色能力、多语言识别能力 ，其能直接帮用户去掉口头禅，输出结构化文本。 例如下面的文本，Qwe",
+     "source": "智东西",
+     "zh": "阿里语音模型再进化！专有名词一键拿捏，口头禅实时润色"
+    },
+    {
+     "title": "横扫五大手游电竞赛事，稳坐电竞“神U”后，骁龙下一站：用AI颠覆游戏世界",
+     "link": "https://zhidx.com/p/581138.html",
+     "pubDate": "Fri, 31 Jul 2026 17:30:34 +0800",
+     "summary": "智东西 作者 | 云鹏 编辑 | 漠影 当前，AI正给整个内容创作产业带来一次范式革新。 一方面，AI模型快速发展，AI对多模态信息理解能力强化、世界模型加速进化；同时，AI理解世界、创作图、文、视频、音频能力飞速跃迁。 AI在大众文化娱乐内容消费中扮演的角色愈发重要，而 游戏作为内容领域代表性行业，与AI先天有强融合潜力， 也在AI变革浪潮中迎来巨变。 AI擅长的代码编写、图文视频生成、强逻辑能力都是游戏创作的“刚需”；AI在游戏图像生成领域的优化可以大幅降低游戏对硬件性能的系统性要求。 AI角色互动、AI语音陪玩、AI游戏指导，甚至是让大模型根据自己所思所想创作新的游玩和交互体验，都已逐渐",
+     "source": "智东西",
+     "zh": "横扫五大手游电竞赛事，稳坐电竞“神U”后，骁龙下一站：用AI颠覆游戏世界"
+    },
+    {
+     "title": "5050亿参数！余承东开源盘古新模型，“世界第一”还有些距离",
+     "link": "https://zhidx.com/p/581400.html",
+     "pubDate": "Fri, 31 Jul 2026 15:45:46 +0800",
+     "summary": "智东西 作者 | 程茜 编辑 | 李水青 智东西7月31日消息，今日，华为开源基于昇腾NPU训练的盘古MoE模型openPangu-2.0-Pro。 该模型是openPangu-2.0系列的最新开源模型，总参数规模 5050亿 ，激活参数规模 180亿 ，支持 512K 上下文长度，训练数据总量约 34T tokens 。另一轻量化模型openPangu-2.0-Flash已于6月12日开源，参数92亿，其中6亿为激活参数。 今年6月12月，在华为开发者大会现场，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东发布openPangu-2.0-Flash、预告openPangu-2.0",
+     "source": "智东西",
+     "zh": "5050亿参数！余承东开源盘古新模型，“世界第一”还有些距离"
+    },
+    {
+     "title": "倒反天罡？DeepSeek-V4-Flash正式版上线，干翻自家先发的Pro版",
+     "link": "https://zhidx.com/p/581459.html",
+     "pubDate": "Fri, 31 Jul 2026 15:41:18 +0800",
+     "summary": "智东西 作者 | 王涵 编辑 | 冰倩 智东西7月31日报道，刚刚， DeepSeek-V4-Flash正式版API上线公测 ，DeepSeek-V4-Pro正式版也将会在 8月初 上线。此次更新，距离DeepSeek V4预览版上线已过去3个月。 DeepSeek-V4-Flash正式版采用MoE架构，总参数规模达到 284B（激活13B） ，并支持最长 100万token上下文 ，支持非思考与思考模式切换。其模型结构、尺寸均与DeepSeek-V4-Flash-preview保持一致，仅重新进行了后训练。 DeepSeek V4预览版已完成针对 Claude Code 、OpenClaw、",
+     "source": "智东西",
+     "zh": "倒反天罡？DeepSeek-V4-Flash正式版上线，干翻自家先发的Pro版"
     }
    ]
   },
@@ -1089,6 +1089,14 @@
    "total": 7,
    "items": [
     {
+     "title": "AstraZeneca, Bristol Myers are in talks about merger — report",
+     "link": "https://endpoints.news/astrazeneca-bristol-myers-are-in-talks-about-merger-report/",
+     "pubDate": "Sun, 02 Aug 2026 20:27:37 +0000",
+     "summary": "AstraZeneca is in talks with Bristol Myers Squibb about a merger that would be one of the industry’s largest ever, according to a report Sunday by the Financial Times. A deal would combine the UK ...",
+     "source": "Endpoints News",
+     "zh": "阿斯利康 (AstraZeneca) 与百时美施贵宝 (Bristol Myers) 正在就合并进行谈判——报告"
+    },
+    {
      "title": "STAT+: Michigan Supreme Court ruling allows probe into Lilly insulin pricing",
      "link": "https://www.statnews.com/pharmalot/2026/08/02/michigan-supreme-court-ruling-allows-probe-into-lilly-insulin-pricing/?utm_campaign=rss",
      "pubDate": "Sun, 02 Aug 2026 18:14:14 +0000",
@@ -1191,14 +1199,6 @@
      "summary": "Sanofi wants to broaden the company&rsquo;s productive partnership with Regeneron, its CEOs said.&nbsp;Elsewhere, Bristol Myers delayed two anticipated study readouts and a Shionogi-backed startup went public.",
      "source": "BioPharma Dive",
      "zh": "赛诺菲与再生元“重建信任”； Apnimed 加入一系列“大规模”生物技术 IPO 行列"
-    },
-    {
-     "title": "Ratio collects $70M for its radiopharmaceutical trials; Vogenx plans $67M IPO",
-     "link": "https://endpoints.news/ratio-collects-70m-for-its-radiopharmaceutical-trials-vogenx-plans-67m-ipo/",
-     "pubDate": "Fri, 31 Jul 2026 14:59:38 +0000",
-     "summary": "Ratio Therapeutics raises $70M for radiopharma trials: The Boston biotech said the Series C funding came from existing investors Duquesne Family Office and Bristol Myers Squibb, as well as new ones ...",
-     "source": "Endpoints News",
-     "zh": "Ratio 为其放射性药物试验筹集了 7000 万美元； Vogenx 计划 6700 万美元 IPO"
     },
     {
      "title": "STAT+: Up and down the ladder: The latest comings and goings",
@@ -1745,6 +1745,22 @@
    "total": 18,
    "items": [
     {
+     "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+     "link": "https://frogs.vaguespac.es/",
+     "pubDate": "Sun, 02 Aug 2026 19:42:08 +0000",
+     "summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 22 # Comments: 11",
+     "source": "Hacker News",
+     "zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”"
+    },
+    {
+     "title": "EU rules on AI models become enforceable. What's going to change?",
+     "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+     "pubDate": "Sun, 02 Aug 2026 19:40:19 +0000",
+     "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change Comments URL: https://news.ycombinator.com/item?id=49147606 Points: 30 # Comments: 24",
+     "source": "Hacker News",
+     "zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？"
+    },
+    {
      "title": "Researchers used AI-assisted code to undetectably tamper with data from computerized scans of physical DNA evidence produced by widely used crime-lab machines (Mariah Timms/Wall Street Journal)",
      "link": "https://www.techmeme.com/260802/p9#a260802p9",
      "pubDate": "Sun, 02 Aug 2026 15:40:01 -0400",
@@ -1753,12 +1769,28 @@
      "zh": "研究人员使用人工智能辅助代码，对广泛使用的犯罪实验室机器生成的物理 DNA 证据进行计算机扫描所得的数据进行不可察觉的篡改（Mariah Timms/华尔街日报）"
     },
     {
-     "title": "SwiftUI After 7 Years: A Story of Mediocrity",
-     "link": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-     "pubDate": "Sun, 02 Aug 2026 18:59:05 +0000",
-     "summary": "Article URL: https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/ Comments URL: https://news.ycombinator.com/item?id=49147263 Points: 20 # Comments: 5",
+     "title": "German carmakers flood jobs market with managers after wielding axe",
+     "link": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
+     "pubDate": "Sun, 02 Aug 2026 19:24:18 +0000",
+     "summary": "Article URL: https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597 Comments URL: https://news.ycombinator.com/item?id=49147478 Points: 25 # Comments: 13",
      "source": "Hacker News",
-     "zh": "SwiftUI 7 年后：平庸的故事"
+     "zh": "德国汽车制造商在挥舞斧头后向就业市场涌入管理人员"
+    },
+    {
+     "title": "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
+     "link": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
+     "pubDate": "Sun, 02 Aug 2026 19:20:50 +0000",
+     "summary": "Article URL: https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/ Comments URL: https://news.ycombinator.com/item?id=49147450 Points: 35 # Comments: 13",
+     "source": "Hacker News",
+     "zh": "欧洲电动汽车销量猛增 50%，市场份额达到 26%"
+    },
+    {
+     "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+     "link": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+     "pubDate": "Sun, 02 Aug 2026 19:19:24 +0000",
+     "summary": "Article URL: https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2 Comments URL: https://news.ycombinator.com/item?id=49147435 Points: 51 # Comments: 10",
+     "source": "Hacker News",
+     "zh": "“粉碎这位女士”：eBay 骚扰活动如何导致 5600 万美元赔偿"
     },
     {
      "title": "休达偷渡潮：欧洲真的遭到“入侵”了吗？",
@@ -1767,14 +1799,6 @@
      "summary": "本文来自微信公众号： 魏城看天下 ，作者：英格兰湖区 西方右派终于等到了一个可以痛击左派政策的“完美风暴”。 7月31日，如平地惊雷般，各种角度拍摄的视频在全球各种语言的社交媒体上“炸响”。我最初是在微信的各种群里看到这类视频的。视频中，数以万计的阿拉伯模样的年轻人或游泳、或奔跑，涌入一个小镇，微信里的中文标题更加耸人听闻—— “西班牙失守了！” “欧洲遭到非洲非法移民入侵！” “6万摩洛哥非法移民涌入居民只有8万人的西班牙小镇！” …… 右派迅速出击 我还没来得及查看权威媒体的新闻报道，就看到了西方右派的愤怒谴责，不过，他们谴责的不是偷渡客，而是西班牙左派政府。 因为目前在西班牙执政的是一个",
      "source": "虎嗅",
      "zh": "休达偷渡潮：欧洲真的遭到“入侵”了吗？"
-    },
-    {
-     "title": "Microsoft raises Xbox prices by up to 43%",
-     "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-     "pubDate": "Sun, 02 Aug 2026 18:52:22 +0000",
-     "summary": "Article URL: https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros Comments URL: https://news.ycombinator.com/item?id=49147209 Points: 44 # Comments: 25",
-     "source": "Hacker News",
-     "zh": "微软将 Xbox 价格提高最多 43%"
     },
     {
      "title": "汽车回血，AI烧钱，特斯拉迎来最贵的一次转身",
@@ -1788,7 +1812,7 @@
      "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
      "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
      "pubDate": "Sun, 02 Aug 2026 17:45:51 +0000",
-     "summary": "Article URL: https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/ Comments URL: https://news.ycombinator.com/item?id=49146605 Points: 17 # Comments: 11",
+     "summary": "Article URL: https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/ Comments URL: https://news.ycombinator.com/item?id=49146605 Points: 25 # Comments: 16",
      "source": "Hacker News",
      "zh": "收集 SSH 凭证：来自我的蜜罐网络的见解"
     },
@@ -1801,36 +1825,12 @@
      "zh": "专家表示，美国法律对流氓人工智能代理和模型没有做好准备，因为最近的 OpenAI 和 Anthropic 事件引发了对法律责任和影响的质疑（Lily Hay Newman/Wired）"
     },
     {
-     "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-     "link": "https://github.com/graham33/nixos-dgx-spark",
-     "pubDate": "Sun, 02 Aug 2026 17:05:54 +0000",
-     "summary": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems. This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10. See my 5 minute lightnin",
-     "source": "Hacker News",
-     "zh": "显示 HN：NixOS-DGX-Spark – DGX Spark 上的 Nix 和 NixOS"
-    },
-    {
      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
      "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
      "pubDate": "Sun, 02 Aug 2026 17:05:07 +0000",
      "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
      "source": "TechCrunch",
      "zh": "据报道马来西亚将关闭 Balaji Srinivasan 的网络学校"
-    },
-    {
-     "title": "Pushes to arch AUR are suspendended right now.",
-     "link": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
-     "pubDate": "Sun, 02 Aug 2026 17:03:02 +0000",
-     "summary": "Article URL: https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/ Comments URL: https://news.ycombinator.com/item?id=49146238 Points: 56 # Comments: 38",
-     "source": "Hacker News",
-     "zh": "拱形 AUR 的推送现已暂停。"
-    },
-    {
-     "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-     "link": "https://github.com/wie-project/kakehashi",
-     "pubDate": "Sun, 02 Aug 2026 16:26:40 +0000",
-     "summary": "Article URL: https://github.com/wie-project/kakehashi Comments URL: https://news.ycombinator.com/item?id=49145937 Points: 87 # Comments: 26",
-     "source": "Hacker News",
-     "zh": "Show HN：Kakehashi – 在 Linux ARM 上运行 macOS 二进制文件的实验用户空间"
     },
     {
      "title": "餐厨厨余垃圾市场，项目闭环的5个关键",
@@ -2241,36 +2241,92 @@
    "total": 13,
    "items": [
     {
-     "title": "摩洛哥内政部表示，约4万人试图进入西班牙飞地休达，另有约1135人试图进入梅利利亚",
-     "link": "http://finance.eastmoney.com/news/1351,202608033829198242.html",
-     "pubDate": "Mon, 03 Aug 2026 03:34:53 +0800",
-     "summary": "摩洛哥内政部表示，约4万人试图进入西班牙飞地休达，另有约1135人试图进入梅利利亚。 （文章来源：新浪财经快讯）",
+     "title": "希腊两架直升机救火时相撞致2死1伤",
+     "link": "http://finance.eastmoney.com/news/1351,202608033829200536.html",
+     "pubDate": "Mon, 03 Aug 2026 04:48:15 +0800",
+     "summary": "希腊政府2日证实，两架参与扑救阿提卡西部地区野火的消防直升机当天下午在执行灭火任务时相撞，造成两人死亡、一人受伤。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "摩洛哥内政部表示，约4万人试图进入西班牙飞地休达，另有约1135人试图进入梅利利亚"
+     "zh": "希腊两架直升机救火时相撞致2死1伤"
     },
     {
-     "title": "摩洛哥内政部声明称，社交媒体虚假信息与人贩子是休达移民潮激增的幕后推手",
-     "link": "http://finance.eastmoney.com/news/1351,202608033829198111.html",
-     "pubDate": "Mon, 03 Aug 2026 03:33:29 +0800",
-     "summary": "摩洛哥内政部声明称，社交媒体虚假信息与人贩子是休达移民潮激增的幕后推手。 （文章来源：新浪财经快讯）",
+     "title": "伊朗与伊拉克外长举行电话会谈",
+     "link": "http://finance.eastmoney.com/news/1351,202608033829200497.html",
+     "pubDate": "Mon, 03 Aug 2026 04:47:55 +0800",
+     "summary": "伊朗外交部长阿拉格齐与伊拉克外交部长通电话，双方讨论地区最新局势、深化双边及区域合作的路径，以及两国之间重点共同关切议题。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "摩洛哥内政部声明称，社交媒体虚假信息与人贩子是休达移民潮激增的幕后推手"
+     "zh": "伊朗与伊拉克外长举行电话会谈"
     },
     {
-     "title": "悉尼早盘交易中，美元兑大多数G10货币走低",
-     "link": "http://finance.eastmoney.com/news/1351,202608033829198045.html",
-     "pubDate": "Mon, 03 Aug 2026 03:33:28 +0800",
-     "summary": "悉尼早盘交易中，美元兑大多数G10货币走低。 （文章来源：新浪财经快讯）",
+     "title": "公募前七月业绩大洗牌 年内翻倍基金仅剩两只",
+     "link": "http://fund.eastmoney.com/news/11794,202608033829196262.html",
+     "pubDate": "Mon, 03 Aug 2026 04:37:15 +0800",
+     "summary": "伴随7月收官，公募基金行业2026年前7个月的权益基金业绩全貌揭晓。A股市场的极致结构性行情迎来阶段性调整，此前引爆市场的AI、 半导体 成长赛道基金出现显著净值回撤，翻倍基金数量大幅缩水，仅易方达基金旗下两只产品守住翻倍收益。 Wind数据显示，截至7月31日，年内收益率超过100%的主动权益基金仅剩2只，而上半年这一数字曾高达199只。具体来看，前7个月业绩排名前20席位被科技、AI主题基金包揽，但绝大多数基金产品在近一个月出现明显净值回撤，资金在高位选择兑现，红利、医药、中小盘品种则迎来逆势修复窗口。 翻倍基数量仅剩2只 今年上半年，AI赛道走出凌厉单边上涨行情，主动权益基金业绩水涨船高",
      "source": "东方财富股票",
-     "zh": "悉尼早盘交易中，美元兑大多数G10货币走低"
+     "zh": "公募前七月业绩大洗牌 年内翻倍基金仅剩两只"
     },
     {
-     "title": "阿斯利康与百时美施贵宝洽谈合并事宜",
-     "link": "http://finance.eastmoney.com/news/1351,202608033829197955.html",
-     "pubDate": "Mon, 03 Aug 2026 03:28:49 +0800",
-     "summary": "知情人士称， 阿斯利康 与 百时美施贵宝 已展开谈判，商讨两家药企合并为单一实体的交易。谈判在近数月进行，交易仍存在破裂风险，报道未披露潜在交易的架构细节。 阿斯利康 是 伦敦证券交易所 大型上市企业之一，截至上周五市值1960亿英镑（折合2640亿美元）。 百时美施贵宝 市值1330亿美元，若达成交易，将助力 阿斯利康 进一步扎根美国市场。 （文章来源：新浪财经快讯）",
+     "title": "Novo Nordisk shares in hot water after disappointing trial",
+     "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-shares-hot-water-203300653.html",
+     "pubDate": "2026-08-02T20:33:00Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "诺和诺德在令人失望的试验后陷入困境"
+    },
+    {
+     "title": "摩洛哥内政部：致力于开展国际协作，打击非法移民并维护边境安全",
+     "link": "http://finance.eastmoney.com/news/1351,202608033829200116.html",
+     "pubDate": "Mon, 03 Aug 2026 04:32:14 +0800",
+     "summary": "摩洛哥内政部：致力于开展国际协作，打击非法移民并维护边境安全。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "阿斯利康与百时美施贵宝洽谈合并事宜"
+     "zh": "摩洛哥内政部：致力于开展国际协作，打击非法移民并维护边境安全"
+    },
+    {
+     "title": "美国参议员公布临时拨款法案，力求避免今秋政府停摆",
+     "link": "http://finance.eastmoney.com/news/1351,202608033829200081.html",
+     "pubDate": "Mon, 03 Aug 2026 04:32:13 +0800",
+     "summary": "美国参议院谈判代表达成跨党派协议，旨在避免今年秋季全美政府停摆。参议院拨款委员会主席苏珊·柯林斯与副主席帕蒂·默里于周日公布法案文本。该法案将维持大部分政府机构现有资金规模，拨款期限延续至12月。参议院多数党领袖约翰·休恩计划在参议院8月休会前，于本周推动该法案进行表决。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国参议员公布临时拨款法案，力求避免今秋政府停摆"
+    },
+    {
+     "title": "俄乌周日继续互相轰炸基础设施",
+     "link": "http://finance.eastmoney.com/news/1351,202608033829200253.html",
+     "pubDate": "Mon, 03 Aug 2026 04:28:28 +0800",
+     "summary": "俄罗斯军方称，乌克兰 无人机 通宵空袭位于萨拉托夫(Saratov)的俄罗斯石油公司炼油厂，引起大火。同时，俄军也袭击了乌克兰 港口 城市尼古拉耶夫(Mykolaiv)的基础设施和两艘载有军用货物的船只，以及黑海一艘船只。萨拉托夫在莫斯科东南约730公里，距离基辅超过1000公里。乌军除了炸毁炼油厂之外，也攻击附近的空军基地，该处是俄罗斯空军的重要作战枢纽，停泊了图95远程战略轰炸机，常用于对乌克兰发射巡航导弹。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "俄乌周日继续互相轰炸基础设施"
+    },
+    {
+     "title": "Google pulls AI feature after users create fake satellite images",
+     "link": "https://seekingalpha.com/news/4623153-google-pulls-ai-feature-after-users-create-fake-satellite-images?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 02 Aug 2026 16:12:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "用户创建虚假卫星图像后，谷歌取消了人工智能功能"
+    },
+    {
+     "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+     "link": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
+     "pubDate": "Sun, 02 Aug 2026 20:12:41 GMT",
+     "summary": "U.K. pharmaceutical giant AstraZeneca is considering a deal to merge with its U.S. rival Bristol Myers Squibb.",
+     "source": "CNBC",
+     "zh": "据英国《金融时报》报道，阿斯利康正在与百时美施贵宝就 4000 亿美元的大型交易进行谈判"
+    },
+    {
+     "title": "Prysmian is said to near $2.5 billion deal for Atkore",
+     "link": "https://seekingalpha.com/news/4623152-prysmian-is-said-to-near-2_5-billion-deal-for-atkore?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 02 Aug 2026 15:58:42 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "据称普睿司曼将以近 25 亿美元的价格收购 Atkore"
+    },
+    {
+     "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
+     "link": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1",
+     "pubDate": "Sun, 02 Aug 2026 19:48:59 GMT",
+     "summary": "Deal would create the world’s fourth-largest drugmaker by market value",
+     "source": "Financial Times",
+     "zh": "阿斯利康与百时美施贵宝就 4000 亿美元的合作进行谈判"
     },
     {
      "title": "AstraZeneca, Bristol Myers held merger talks, Financial Times reports",
@@ -2281,36 +2337,12 @@
      "zh": "据英国《金融时报》报道，阿斯利康与百时美施贵宝举行合并谈判"
     },
     {
-     "title": "以军空袭加沙致18人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202608033829197824.html",
-     "pubDate": "Mon, 03 Aug 2026 03:19:47 +0800",
-     "summary": "巴勒斯坦加沙地带民防部门发言人马哈茂德·巴萨勒2日在一份视频声明中表示，以军 无人机 当天袭击加沙地带多地，造成至少18人死亡，其中包括2名妇女和4名儿童。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "以军空袭加沙致18人死亡"
-    },
-    {
-     "title": "以色列总理发言人表示，以色列已就哈马斯拟议解除武装计划向美国表达关切",
-     "link": "http://finance.eastmoney.com/news/1351,202608033829197722.html",
-     "pubDate": "Mon, 03 Aug 2026 03:17:00 +0800",
-     "summary": "以色列总理发言人表示，以色列已就哈马斯拟议解除武装计划向美国表达关切。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "以色列总理发言人表示，以色列已就哈马斯拟议解除武装计划向美国表达关切"
-    },
-    {
      "title": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn&apos;t serve in House, needs &apos;serious psychological help&apos;",
      "link": "https://www.cnbc.com/2026/08/02/bernie-moreno-max-miller-house-psychological-help-emily-moreno.html",
      "pubDate": "Sun, 02 Aug 2026 19:13:47 GMT",
      "summary": "Miller has denied the allegations made against him by his ex-wife Emily Moreno, daughter of Ohio Sen. Bernie Moreno.",
      "source": "CNBC",
      "zh": "共和党参议员莫雷诺表示前女婿马克斯·米勒不应该在众议院任职，需要“认真的心理帮助”"
-    },
-    {
-     "title": "Why Morgan Stanley won’t call Rivian a buy despite upgrade",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-won-t-191300518.html",
-     "pubDate": "2026-08-02T19:13:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "尽管评级上调，为何摩根士丹利仍不认为 Rivian 值得买入"
     },
     {
      "title": "Financial sector tops the S&P 500 in July, led by PayPal's 30% rally",
@@ -2329,28 +2361,12 @@
      "zh": "SA问：中国长鑫存储对内存芯片制造商的威胁有多大？"
     },
     {
-     "title": "AstraZeneca holds talks with Bristol Myers Squibb on $400bn megadeal",
-     "link": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1",
-     "pubDate": "Sun, 02 Aug 2026 18:30:03 GMT",
-     "summary": "Tie-up would create one of the world’s biggest drugmakers",
-     "source": "Financial Times",
-     "zh": "阿斯利康与百时美施贵宝就 4000 亿美元的大型交易进行谈判"
-    },
-    {
      "title": "Top global market stories from this week as earnings drive sentiment",
      "link": "https://seekingalpha.com/news/4623148-top-global-market-dtories-from-this-week-as-earnings-drive-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 02 Aug 2026 14:27:51 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "本周全球市场热点新闻，盈利推动市场情绪"
-    },
-    {
-     "title": "Markets face choppier ride as Fed uncertainty, AI credit risks lift volatility",
-     "link": "https://seekingalpha.com/news/4623147-markets-face-choppier-ride-as-fed-uncertainty-ai-credit-risks-lift-volatility?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 02 Aug 2026 14:03:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "由于美联储的不确定性、人工智能信贷风险加剧了波动性，市场面临更加波动的局面"
     },
     {
      "title": "Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse",
@@ -2377,14 +2393,6 @@
      "zh": "国家外汇管理局：稳步扩大外汇领域制度型开放"
     },
     {
-     "title": "Tesla drags consumer discretionary sector in July; Ross Stores leads",
-     "link": "https://seekingalpha.com/news/4623048-tesla-drags-consumer-discretionary-sector-in-july-ross-stores-leads?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 02 Aug 2026 13:05:31 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "特斯拉7月份拖累非必需消费品板块；罗斯商店领先"
-    },
-    {
      "title": "We’re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?",
      "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
      "pubDate": "Sun, 02 Aug 2026 17:00:00 GMT",
@@ -2407,6 +2415,14 @@
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "沃伦·巴菲特不断指出同一只 ETF 是有原因的"
+    },
+    {
+     "title": "America’s biggest companies report ‘rock solid’ profits as consumers face higher costs",
+     "link": "https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26?syn-25a6b1a6=1",
+     "pubDate": "Sun, 02 Aug 2026 16:00:06 GMT",
+     "summary": "S&P 500 groups on track for strongest earnings in five years",
+     "source": "Financial Times",
+     "zh": "由于消费者面临更高的成本，美国最大的公司报告利润“坚如磐石”"
     },
     {
      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
@@ -2463,22 +2479,6 @@
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "美国退休人员每 3 美元的单项支出就花费近 1 美元——以下是您每年的花费"
-    },
-    {
-     "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
-     "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
-     "pubDate": "Sun, 02 Aug 2026 14:00:00 GMT",
-     "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
-     "source": "MarketWatch",
-     "zh": "我前夫的妹妹去世了——那么为什么富达要我提供她的死亡证明呢？"
-    },
-    {
-     "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
-     "link": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
-     "pubDate": "Sun, 02 Aug 2026 14:00:00 GMT",
-     "summary": "Amazon is the latest Big Tech company to report abnormally large earnings growth, thanks to paper gains on Anthropic investments.",
-     "source": "MarketWatch",
-     "zh": "随着亚马逊的崛起，标准普尔 500 指数的利润增长变得更加疯狂"
     }
    ]
   },

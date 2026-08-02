@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/3 04:55:57",
+ "generated_at": "2026/8/3 05:57:54",
  "recent_days": 7,
  "industries": [
   {
@@ -9,12 +9,44 @@
    "total": 16,
    "items": [
     {
+     "title": "A Tutorial on GeoAI: Designing Footprint Extraction from NAIP Imagery Using U-Net, Grounding DINO, SAM, and Mask R-CNN",
+     "link": "https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn/",
+     "pubDate": "Sun, 02 Aug 2026 21:19:48 +0000",
+     "summary": "In this tutorial, we design a complete GeoAI workflow for extracting building footprints from high-resolution NAIP aerial imagery. We begin by configuring the geospatial deep learning environment, downloading raster imagery and vector labels, and inspecting their spatial properties before generating",
+     "source": "MarkTechPost",
+     "zh": "GeoAI 教程：使用 U-Net、Grounding DINO、SAM 和 Mask R-CNN 从 NAIP 图像中设计足迹提取"
+    },
+    {
      "title": "Sam Altman and AI’s decel debate",
      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
      "pubDate": "Sun, 02 Aug 2026 20:54:22 +0000",
      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
      "source": "TechCrunch AI",
      "zh": "Sam Altman 和 AI 的减速争论"
+    },
+    {
+     "title": "Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active Open Weights Multimodal MoE Model",
+     "link": "https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/",
+     "pubDate": "Sun, 02 Aug 2026 20:35:50 +0000",
+     "summary": "Inkling-Small matches Inkling at a quarter the size, and its NVFP4 checkpoint runs on one NVIDIA B300 GPU The post Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active Open Weights Multimodal MoE Model appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Thinking Machines Lab 发布 Inkling-Small：总计 276B、12B 主动开放权重多模态 MoE 模型"
+    },
+    {
+     "title": "NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework",
+     "link": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/",
+     "pubDate": "Sun, 02 Aug 2026 06:21:26 +0000",
+     "summary": "Agentic RL research is constant algorithm modification, and in mainstream frameworks every change threads through trainer, distributed backend, and rollout glue. NVIDIA's Molt targets that cost with about 8.6K lines of RL code, composing Ray, vLLM, and NeMo AutoModel around one asynchronous loop. Th",
+     "source": "MarkTechPost",
+     "zh": "NVIDIA AI 发布 Molt：PyTorch 原生代理强化学习框架"
+    },
+    {
+     "title": "End-to-End Forecasting with TimesFM 2.5: Backtesting, Covariates, Anomaly Detection, and Scalable Colab Deployment",
+     "link": "https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/",
+     "pubDate": "Sun, 02 Aug 2026 05:44:14 +0000",
+     "summary": "In this tutorial, we build an advanced end-to-end time-series forecasting workflow with TimesFM 2.5. We begin by configuring the runtime, installing the required dependencies, detecting available hardware, and generating a realistic multi-store retail dataset with trend, seasonality, pricing, promot",
+     "source": "MarkTechPost",
+     "zh": "使用 TimesFM 2.5 进行端到端预测：回测、协变量、异常检测和可扩展 Colab 部署"
     },
     {
      "title": "只用一张卡，做出了声称是100M参数以内最好的小模型？",
@@ -87,6 +119,22 @@
      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
      "source": "TechCrunch AI",
      "zh": "YouTuber Hank Green 表示他对人工智能的使用“不健康”"
+    },
+    {
+     "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
+     "link": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
+     "pubDate": "Sat, 01 Aug 2026 19:01:42 +0000",
+     "summary": "AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per token, using Gated MLA and FarSkip-Collective. AMD published weights from every training stage, plus da",
+     "source": "MarkTechPost",
+     "zh": "AMD 发布 Instella-MoE-16B-A3B：完全开放的专家混合法学硕士，具有在 Instinct GPU 上训练的 2.8B 主动参数"
+    },
+    {
+     "title": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking",
+     "link": "https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/",
+     "pubDate": "Sat, 01 Aug 2026 18:31:15 +0000",
+     "summary": "Discover how to optimize transformer workloads using the NVIDIA Transformer Engine. This tutorial guides you through configuring fused GPU kernels, implementing FP8 delayed scaling, and benchmarking model performance. Learn to build and train efficient GPT-style causal language models in PyTorch wit",
+     "source": "MarkTechPost",
+     "zh": "使用 NVIDIA Transformer 引擎、融合内核、BF16、FP8 和 GPU 基准测试加速 Transformer 训练"
     },
     {
      "title": "Sam Altman is still making the case for parenting via ChatGPT",
@@ -199,54 +247,6 @@
      "summary": "Building a voice-controlled AI agents isn't hard, this article breaks the pipeline into its real components: streaming speech recognition, turn detection, streaming generation, interruption handling, and tool calling under voice constraints and shows what each one is responsible for.",
      "source": "KDnuggets",
      "zh": "构建语音控制的人工智能代理"
-    },
-    {
-     "title": "5 Books That Will Deepen Your Understanding of Large Language Models",
-     "link": "https://www.kdnuggets.com/5-books-that-will-deepen-your-understanding-of-large-language-models",
-     "pubDate": "Fri, 31 Jul 2026 12:00:44 +0000",
-     "summary": "Check out these five books on building, fine-tuning, and deploying large language models.",
-     "source": "KDnuggets",
-     "zh": "5 本书将加深您对大型语言模型的理解"
-    },
-    {
-     "title": "腾讯科研智能体攻破50年未解数学难题，姚顺雨喊话正在招人",
-     "link": "https://zhidx.com/p/581537.html",
-     "pubDate": "Fri, 31 Jul 2026 19:25:09 +0800",
-     "summary": "智东西 作者 | 茄子 编辑 | 程茜 智东西7月31日消息，昨日，腾讯首席AI科学家姚顺雨转发腾讯混元的一篇论文并喊话：“Hy AI4S is hiring :)”，公开招募AI for Science方向人才。 7月29日由腾讯混元科研智能体Hyra参与破解数学难题的论文发布在arXiv上。依托Hyra强大的推演与探索能力，腾讯研究团队取得关键进展，破解了加法组合学领域一道持续50余年的公开难题。 姚顺雨的评论区里，有位网友称，Hyra/Hy3的论文“太疯狂了”，用显式构造解决一个数十年未解的和集问题，完全没想到这会出现在一条招聘帖里。 还有人畅想：“下一位菲尔兹奖得主会是AI吗？” 值得",
-     "source": "智东西",
-     "zh": "腾讯科研智能体攻破50年未解数学难题，姚顺雨喊话正在招人"
-    },
-    {
-     "title": "阿里语音模型再进化！专有名词一键拿捏，口头禅实时润色",
-     "link": "https://zhidx.com/p/581487.html",
-     "pubDate": "Fri, 31 Jul 2026 17:39:23 +0800",
-     "summary": "智东西 作者 | 程茜 编辑 | 李水青 智东西7月31日消息，今日，阿里千问大模型团队发布语音识别大模型 Qwen-Audio-3.0-ASR-Flash 。该模型的优化主要体现在 上下文一致性、行业词识别和热词定制化 三个维度。 根据官方披露，Qwen-Audio-3.0-ASR-Flash在医疗场景的专业词“听中率”达到 95.36% ，工业、IT编程、畜牧业准确率同样超 90% ；并且其热词“听中率”在所有测试集都达到 90%以上 ，多数场景突破 99% 。 此外，研究人员还升级了模型的 语音润色能力、多语言识别能力 ，其能直接帮用户去掉口头禅，输出结构化文本。 例如下面的文本，Qwe",
-     "source": "智东西",
-     "zh": "阿里语音模型再进化！专有名词一键拿捏，口头禅实时润色"
-    },
-    {
-     "title": "横扫五大手游电竞赛事，稳坐电竞“神U”后，骁龙下一站：用AI颠覆游戏世界",
-     "link": "https://zhidx.com/p/581138.html",
-     "pubDate": "Fri, 31 Jul 2026 17:30:34 +0800",
-     "summary": "智东西 作者 | 云鹏 编辑 | 漠影 当前，AI正给整个内容创作产业带来一次范式革新。 一方面，AI模型快速发展，AI对多模态信息理解能力强化、世界模型加速进化；同时，AI理解世界、创作图、文、视频、音频能力飞速跃迁。 AI在大众文化娱乐内容消费中扮演的角色愈发重要，而 游戏作为内容领域代表性行业，与AI先天有强融合潜力， 也在AI变革浪潮中迎来巨变。 AI擅长的代码编写、图文视频生成、强逻辑能力都是游戏创作的“刚需”；AI在游戏图像生成领域的优化可以大幅降低游戏对硬件性能的系统性要求。 AI角色互动、AI语音陪玩、AI游戏指导，甚至是让大模型根据自己所思所想创作新的游玩和交互体验，都已逐渐",
-     "source": "智东西",
-     "zh": "横扫五大手游电竞赛事，稳坐电竞“神U”后，骁龙下一站：用AI颠覆游戏世界"
-    },
-    {
-     "title": "5050亿参数！余承东开源盘古新模型，“世界第一”还有些距离",
-     "link": "https://zhidx.com/p/581400.html",
-     "pubDate": "Fri, 31 Jul 2026 15:45:46 +0800",
-     "summary": "智东西 作者 | 程茜 编辑 | 李水青 智东西7月31日消息，今日，华为开源基于昇腾NPU训练的盘古MoE模型openPangu-2.0-Pro。 该模型是openPangu-2.0系列的最新开源模型，总参数规模 5050亿 ，激活参数规模 180亿 ，支持 512K 上下文长度，训练数据总量约 34T tokens 。另一轻量化模型openPangu-2.0-Flash已于6月12日开源，参数92亿，其中6亿为激活参数。 今年6月12月，在华为开发者大会现场，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东发布openPangu-2.0-Flash、预告openPangu-2.0",
-     "source": "智东西",
-     "zh": "5050亿参数！余承东开源盘古新模型，“世界第一”还有些距离"
-    },
-    {
-     "title": "倒反天罡？DeepSeek-V4-Flash正式版上线，干翻自家先发的Pro版",
-     "link": "https://zhidx.com/p/581459.html",
-     "pubDate": "Fri, 31 Jul 2026 15:41:18 +0800",
-     "summary": "智东西 作者 | 王涵 编辑 | 冰倩 智东西7月31日报道，刚刚， DeepSeek-V4-Flash正式版API上线公测 ，DeepSeek-V4-Pro正式版也将会在 8月初 上线。此次更新，距离DeepSeek V4预览版上线已过去3个月。 DeepSeek-V4-Flash正式版采用MoE架构，总参数规模达到 284B（激活13B） ，并支持最长 100万token上下文 ，支持非思考与思考模式切换。其模型结构、尺寸均与DeepSeek-V4-Flash-preview保持一致，仅重新进行了后训练。 DeepSeek V4预览版已完成针对 Claude Code 、OpenClaw、",
-     "source": "智东西",
-     "zh": "倒反天罡？DeepSeek-V4-Flash正式版上线，干翻自家先发的Pro版"
     }
    ]
   },
@@ -1172,7 +1172,7 @@
      "title": "Novo setback casts doubt on a new way to treat heart disease",
      "link": "https://www.biopharmadive.com/news/novo-nordik-ziltivekimab-zeus-study-results-corvidia/826695/",
      "pubDate": "Fri, 31 Jul 2026 12:11:00 -0400",
-     "summary": "Ziltivekimab's failure in a key trial hurt spurred share sell-offs for Novo and other biotechs, as it suggested trouble for different cardiovascular drugs that also target inflammation.",
+     "summary": "Ziltivekimab's failure in a key trial spurred share sell-offs for Novo and other biotechs, as it suggested trouble for different cardiovascular drugs that also target inflammation.",
      "source": "BioPharma Dive",
      "zh": "Novo 的挫折让人们对治疗心脏病的新方法产生了怀疑"
     },
@@ -1537,6 +1537,14 @@
    "total": 5,
    "items": [
     {
+     "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+     "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+     "pubDate": "Sun, 02 Aug 2026 17:14:29 -0400",
+     "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
+     "source": "BleepingComputer",
+     "zh": "COLDCARD 钱包 RNG 缺陷可能与 8800 万美元的比特币失窃有关"
+    },
+    {
      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
      "pubDate": "Sun, 02 Aug 2026 10:17:16 -0400",
@@ -1623,14 +1631,6 @@
      "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]",
      "source": "BleepingComputer",
      "zh": "在线广告公司 Adform 的脚本被泄露以窃取加密货币"
-    },
-    {
-     "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
-     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
-     "pubDate": "Fri, 31 Jul 2026 14:52:44 -0400",
-     "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
-     "source": "BleepingComputer",
-     "zh": "OpenAI 表示其新的 GPT 5.6 模型变得更具成本效益"
     },
     {
      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
@@ -1745,20 +1745,68 @@
    "total": 18,
    "items": [
     {
-     "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-     "link": "https://frogs.vaguespac.es/",
-     "pubDate": "Sun, 02 Aug 2026 19:42:08 +0000",
-     "summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 22 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”"
+     "title": "The global memory shortage hits the MacBook Air",
+     "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+     "pubDate": "Sun, 02 Aug 2026 21:33:59 +0000",
+     "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+     "source": "TechCrunch",
+     "zh": "全球内存短缺对 MacBook Air 造成冲击"
     },
     {
-     "title": "EU rules on AI models become enforceable. What's going to change?",
-     "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-     "pubDate": "Sun, 02 Aug 2026 19:40:19 +0000",
-     "summary": "Article URL: https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change Comments URL: https://news.ycombinator.com/item?id=49147606 Points: 30 # Comments: 24",
+     "title": "LLMs are moving from generating artifacts to creating hyper-custom worlds on demand, but still lack the ability to natively perceive and audit what they create (Andrej Karpathy/@karpathy)",
+     "link": "https://www.techmeme.com/260802/p10#a260802p10",
+     "pubDate": "Sun, 02 Aug 2026 17:25:01 -0400",
+     "summary": "Andrej Karpathy / @karpathy : LLMs are moving from generating artifacts to creating hyper-custom worlds on demand, but still lack the ability to natively perceive and audit what they create &nbsp; &mdash;&nbsp; We're starting to leave the territory where you'd test an LLM by e.g. &ldquo;create an sv",
+     "source": "Techmeme",
+     "zh": "法学硕士正在从生成工件转向按需创建超定制世界，但仍然缺乏本地感知和审核他们所创建内容的能力（Andrej Karpathy/@karpathy）"
+    },
+    {
+     "title": "AI Mania: From Tulips to Tokens",
+     "link": "https://seanhelvey.com/tools-and-their-tools/",
+     "pubDate": "Sun, 02 Aug 2026 20:48:28 +0000",
+     "summary": "Article URL: https://seanhelvey.com/tools-and-their-tools/ Comments URL: https://news.ycombinator.com/item?id=49148159 Points: 34 # Comments: 24",
      "source": "Hacker News",
-     "zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？"
+     "zh": "人工智能狂热：从郁金香到代币"
+    },
+    {
+     "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+     "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+     "pubDate": "Sun, 02 Aug 2026 20:44:24 +0000",
+     "summary": "Article URL: https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/ Comments URL: https://news.ycombinator.com/item?id=49148128 Points: 30 # Comments: 13",
+     "source": "Hacker News",
+     "zh": "欧盟年龄验证项目强制要求硬件绑定证明"
+    },
+    {
+     "title": "Show HN: Make your Framework 12 sound like a creaky door",
+     "link": "https://github.com/ArcaEge/creakwork12",
+     "pubDate": "Sun, 02 Aug 2026 20:33:01 +0000",
+     "summary": "I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor ( https://github.com/samhenrigold/LidAngleSensor ) but for the Framework 12 on Linux, so you can make your hinge sound rusty",
+     "source": "Hacker News",
+     "zh": "Show HN：让您的 Framework 12 听起来像一扇吱吱作响的门"
+    },
+    {
+     "title": "Sharing an X11 Server Across Hosts with FamilyWild",
+     "link": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
+     "pubDate": "Sun, 02 Aug 2026 20:26:47 +0000",
+     "summary": "Article URL: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/ Comments URL: https://news.ycombinator.com/item?id=49147978 Points: 11 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "使用 FamilyWild 在主机之间共享 X11 服务器"
+    },
+    {
+     "title": "Let the machines in",
+     "link": "https://blog.semenzin.com/let-the-machines-in/",
+     "pubDate": "Sun, 02 Aug 2026 20:17:16 +0000",
+     "summary": "Article URL: https://blog.semenzin.com/let-the-machines-in/ Comments URL: https://news.ycombinator.com/item?id=49147890 Points: 15 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "让机器进来"
+    },
+    {
+     "title": "Adding Go's Defer to the TypeScript Compiler",
+     "link": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
+     "pubDate": "Sun, 02 Aug 2026 20:12:39 +0000",
+     "summary": "Article URL: https://healeycodes.com/adding-defer-to-the-typescript-compiler Comments URL: https://news.ycombinator.com/item?id=49147853 Points: 8 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "将 Go 的 Defer 添加到 TypeScript 编译器"
     },
     {
      "title": "Researchers used AI-assisted code to undetectably tamper with data from computerized scans of physical DNA evidence produced by widely used crime-lab machines (Mariah Timms/Wall Street Journal)",
@@ -1767,30 +1815,6 @@
      "summary": "Mariah Timms / Wall Street Journal : Researchers used AI-assisted code to undetectably tamper with data from computerized scans of physical DNA evidence produced by widely used crime-lab machines &nbsp; &mdash;&nbsp; Researchers found that widely used lab machines produced digital DNA files that are",
      "source": "Techmeme",
      "zh": "研究人员使用人工智能辅助代码，对广泛使用的犯罪实验室机器生成的物理 DNA 证据进行计算机扫描所得的数据进行不可察觉的篡改（Mariah Timms/华尔街日报）"
-    },
-    {
-     "title": "German carmakers flood jobs market with managers after wielding axe",
-     "link": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
-     "pubDate": "Sun, 02 Aug 2026 19:24:18 +0000",
-     "summary": "Article URL: https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597 Comments URL: https://news.ycombinator.com/item?id=49147478 Points: 25 # Comments: 13",
-     "source": "Hacker News",
-     "zh": "德国汽车制造商在挥舞斧头后向就业市场涌入管理人员"
-    },
-    {
-     "title": "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
-     "link": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
-     "pubDate": "Sun, 02 Aug 2026 19:20:50 +0000",
-     "summary": "Article URL: https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/ Comments URL: https://news.ycombinator.com/item?id=49147450 Points: 35 # Comments: 13",
-     "source": "Hacker News",
-     "zh": "欧洲电动汽车销量猛增 50%，市场份额达到 26%"
-    },
-    {
-     "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-     "link": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-     "pubDate": "Sun, 02 Aug 2026 19:19:24 +0000",
-     "summary": "Article URL: https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2 Comments URL: https://news.ycombinator.com/item?id=49147435 Points: 51 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "“粉碎这位女士”：eBay 骚扰活动如何导致 5600 万美元赔偿"
     },
     {
      "title": "休达偷渡潮：欧洲真的遭到“入侵”了吗？",
@@ -1807,14 +1831,6 @@
      "summary": "本文来自微信公众号： 高恒说 ，作者：高恒说 特斯拉开始把造车产线让给机器人。 2026年第二季度，特斯拉拆除了弗里蒙特工厂原有的Model S/X生产线，开始安装首代Optimus人形机器人产线。7月30日，第1000万辆特斯拉又在同一座工厂下线。从汽车产量突破1000万辆，到汽车产线为机器人腾出空间，特斯拉正在完成一次极具象征意义的换轨。 这次换轨发生在一个微妙的时间点。二季度，特斯拉汽车交付量同比增长25%，营收同比增长26%，营业利润却下降57%，自由现金流转为负10.92亿美元。财报发布后的首个交易日，特斯拉股价下跌14.52%，市值蒸发约2000亿美元。 过去，特斯拉依靠扩大汽车产",
      "source": "虎嗅",
      "zh": "汽车回血，AI烧钱，特斯拉迎来最贵的一次转身"
-    },
-    {
-     "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-     "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-     "pubDate": "Sun, 02 Aug 2026 17:45:51 +0000",
-     "summary": "Article URL: https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/ Comments URL: https://news.ycombinator.com/item?id=49146605 Points: 25 # Comments: 16",
-     "source": "Hacker News",
-     "zh": "收集 SSH 凭证：来自我的蜜罐网络的见解"
     },
     {
      "title": "Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions (Lily Hay Newman/Wired)",
@@ -1967,22 +1983,6 @@
      "summary": "下一轮AI竞争，不只发生在模型里。",
      "source": "钛媒体",
      "zh": "贝索斯用AI寻找下一块硅"
-    },
-    {
-     "title": "商业航天运力的“罗生门”",
-     "link": "https://www.tmtpost.com/8088371.html",
-     "pubDate": "Sun, 02 Aug 2026 19:24:42 +0800",
-     "summary": "被省略的条件，决定了火箭真正的运力。",
-     "source": "钛媒体",
-     "zh": "商业航天运力的“罗生门”"
-    },
-    {
-     "title": "这个年入18亿的男装品牌，“战术”开辟了男装新赛道",
-     "link": "https://www.tmtpost.com/8088175.html",
-     "pubDate": "Sun, 02 Aug 2026 19:24:36 +0800",
-     "summary": "当海澜之家和优衣库们仍在把男装卖给家里的女主人，龙牙让市场看到男性自己挑起衣服来能有多“野”。",
-     "source": "钛媒体",
-     "zh": "这个年入18亿的男装品牌，“战术”开辟了男装新赛道"
     }
    ]
   },
@@ -2241,68 +2241,140 @@
    "total": 13,
    "items": [
     {
-     "title": "希腊两架直升机救火时相撞致2死1伤",
-     "link": "http://finance.eastmoney.com/news/1351,202608033829200536.html",
-     "pubDate": "Mon, 03 Aug 2026 04:48:15 +0800",
-     "summary": "希腊政府2日证实，两架参与扑救阿提卡西部地区野火的消防直升机当天下午在执行灭火任务时相撞，造成两人死亡、一人受伤。 （文章来源：财联社）",
+     "title": "特朗普暂缓对伊朗发动袭击，欧盟天然气价格开盘下跌5.9%",
+     "link": "http://finance.eastmoney.com/news/1351,202608033829203515.html",
+     "pubDate": "Mon, 03 Aug 2026 05:54:22 +0800",
+     "summary": "特朗普暂缓对伊朗发动袭击，欧盟 天然气 价格开盘下跌5.9%。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "希腊两架直升机救火时相撞致2死1伤"
+     "zh": "特朗普暂缓对伊朗发动袭击，欧盟天然气价格开盘下跌5.9%"
     },
     {
-     "title": "伊朗与伊拉克外长举行电话会谈",
-     "link": "http://finance.eastmoney.com/news/1351,202608033829200497.html",
-     "pubDate": "Mon, 03 Aug 2026 04:47:55 +0800",
-     "summary": "伊朗外交部长阿拉格齐与伊拉克外交部长通电话，双方讨论地区最新局势、深化双边及区域合作的路径，以及两国之间重点共同关切议题。 （文章来源：新浪财经快讯）",
+     "title": "特朗普谈及日本： 日本一直对我们很不错，当然，珍珠港事件除外",
+     "link": "http://finance.eastmoney.com/news/1351,202608033829203484.html",
+     "pubDate": "Mon, 03 Aug 2026 05:49:42 +0800",
+     "summary": "特朗普谈及日本： 日本一直对我们很不错，当然，珍珠港事件除外。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "伊朗与伊拉克外长举行电话会谈"
+     "zh": "特朗普谈及日本： 日本一直对我们很不错，当然，珍珠港事件除外"
     },
     {
-     "title": "公募前七月业绩大洗牌 年内翻倍基金仅剩两只",
-     "link": "http://fund.eastmoney.com/news/11794,202608033829196262.html",
-     "pubDate": "Mon, 03 Aug 2026 04:37:15 +0800",
-     "summary": "伴随7月收官，公募基金行业2026年前7个月的权益基金业绩全貌揭晓。A股市场的极致结构性行情迎来阶段性调整，此前引爆市场的AI、 半导体 成长赛道基金出现显著净值回撤，翻倍基金数量大幅缩水，仅易方达基金旗下两只产品守住翻倍收益。 Wind数据显示，截至7月31日，年内收益率超过100%的主动权益基金仅剩2只，而上半年这一数字曾高达199只。具体来看，前7个月业绩排名前20席位被科技、AI主题基金包揽，但绝大多数基金产品在近一个月出现明显净值回撤，资金在高位选择兑现，红利、医药、中小盘品种则迎来逆势修复窗口。 翻倍基数量仅剩2只 今年上半年，AI赛道走出凌厉单边上涨行情，主动权益基金业绩水涨船高",
+     "title": "特朗普谈及伊朗：表示相比发动袭击，我们更倾向达成协议",
+     "link": "http://finance.eastmoney.com/news/1351,202608033829203344.html",
+     "pubDate": "Mon, 03 Aug 2026 05:49:42 +0800",
+     "summary": "特朗普谈及伊朗：我询问沙特王储“你更希望我们采取何种行动？”对方表示“相比发动袭击，我们更倾向达成协议。” （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "公募前七月业绩大洗牌 年内翻倍基金仅剩两只"
+     "zh": "特朗普谈及伊朗：表示相比发动袭击，我们更倾向达成协议"
     },
     {
-     "title": "Novo Nordisk shares in hot water after disappointing trial",
-     "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-shares-hot-water-203300653.html",
-     "pubDate": "2026-08-02T20:33:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "诺和诺德在令人失望的试验后陷入困境"
-    },
-    {
-     "title": "摩洛哥内政部：致力于开展国际协作，打击非法移民并维护边境安全",
-     "link": "http://finance.eastmoney.com/news/1351,202608033829200116.html",
-     "pubDate": "Mon, 03 Aug 2026 04:32:14 +0800",
-     "summary": "摩洛哥内政部：致力于开展国际协作，打击非法移民并维护边境安全。 （文章来源：新浪财经快讯）",
+     "title": "记者：有报道称你正安排美军撤出科威特和巴林  特朗普：我对此不予置评",
+     "link": "http://finance.eastmoney.com/news/1351,202608033829203214.html",
+     "pubDate": "Mon, 03 Aug 2026 05:48:58 +0800",
+     "summary": "记者：有报道称你正安排美军撤出科威特和巴林。 特朗普：我对此不予置评。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "摩洛哥内政部：致力于开展国际协作，打击非法移民并维护边境安全"
+     "zh": "记者：有报道称你正安排美军撤出科威特和巴林  特朗普：我对此不予置评"
     },
     {
-     "title": "美国参议员公布临时拨款法案，力求避免今秋政府停摆",
-     "link": "http://finance.eastmoney.com/news/1351,202608033829200081.html",
-     "pubDate": "Mon, 03 Aug 2026 04:32:13 +0800",
-     "summary": "美国参议院谈判代表达成跨党派协议，旨在避免今年秋季全美政府停摆。参议院拨款委员会主席苏珊·柯林斯与副主席帕蒂·默里于周日公布法案文本。该法案将维持大部分政府机构现有资金规模，拨款期限延续至12月。参议院多数党领袖约翰·休恩计划在参议院8月休会前，于本周推动该法案进行表决。 （文章来源：新浪财经快讯）",
+     "title": "特朗普：已为加拿大的野火决定惩罚措施，但暂不透露",
+     "link": "http://finance.eastmoney.com/news/1351,202608033829203129.html",
+     "pubDate": "Mon, 03 Aug 2026 05:48:57 +0800",
+     "summary": "特朗普：已为加拿大的野火决定惩罚措施，但暂不透露。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "美国参议员公布临时拨款法案，力求避免今秋政府停摆"
+     "zh": "特朗普：已为加拿大的野火决定惩罚措施，但暂不透露"
     },
     {
-     "title": "俄乌周日继续互相轰炸基础设施",
-     "link": "http://finance.eastmoney.com/news/1351,202608033829200253.html",
-     "pubDate": "Mon, 03 Aug 2026 04:28:28 +0800",
-     "summary": "俄罗斯军方称，乌克兰 无人机 通宵空袭位于萨拉托夫(Saratov)的俄罗斯石油公司炼油厂，引起大火。同时，俄军也袭击了乌克兰 港口 城市尼古拉耶夫(Mykolaiv)的基础设施和两艘载有军用货物的船只，以及黑海一艘船只。萨拉托夫在莫斯科东南约730公里，距离基辅超过1000公里。乌军除了炸毁炼油厂之外，也攻击附近的空军基地，该处是俄罗斯空军的重要作战枢纽，停泊了图95远程战略轰炸机，常用于对乌克兰发射巡航导弹。 （文章来源：金十数据快讯）",
+     "title": "特朗普称OpenAI与Anthropic模型入侵事件牵涉多方",
+     "link": "http://finance.eastmoney.com/news/1351,202608033829203036.html",
+     "pubDate": "Mon, 03 Aug 2026 05:48:56 +0800",
+     "summary": "特朗普称OpenAI与Anthropic模型入侵事件牵涉多方。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "俄乌周日继续互相轰炸基础设施"
+     "zh": "特朗普称OpenAI与Anthropic模型入侵事件牵涉多方"
     },
     {
-     "title": "Google pulls AI feature after users create fake satellite images",
-     "link": "https://seekingalpha.com/news/4623153-google-pulls-ai-feature-after-users-create-fake-satellite-images?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 02 Aug 2026 16:12:54 -0400",
+     "title": "特朗普：霍尔木兹海峡已有协议 与伊朗的谈判美东时间明天下午开始",
+     "link": "http://finance.eastmoney.com/news/1345,202608033829201840.html",
+     "pubDate": "Mon, 03 Aug 2026 05:43:46 +0800",
+     "summary": "美国总统特朗普表示，霍尔木兹海峡已有协议，无核化也将达成协议。正在以谈判的形式与伊朗对话，美东时间明天下午开始。 延伸阅读 以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击 △特朗普社交媒体发文截图 总台记者 当地时间2日获悉，多名以色列官员称，在美国取消针对伊朗的既定袭击计划前，以方被排除在决策信息之外长达数小时，对美方取消行动的决定毫不知情。 “通过特朗普社媒发文得知美方叫停打击行动” 一名以色列高级官员说，“有几个小时，我们处于完全的信息真空与不确定之中，特朗普总统让我们陷入了迷雾。高级军官们甚至是通过特朗普的个人社交媒体帖文，才获悉最新的事态进展”。 △以色列总理内塔尼亚胡（资料图） 据",
+     "source": "东方财富资讯",
+     "zh": "特朗普：霍尔木兹海峡已有协议 与伊朗的谈判美东时间明天下午开始"
+    },
+    {
+     "title": "Snap Q2 preview—revenue likely higher as ad recovery remains in focus",
+     "link": "https://seekingalpha.com/news/4622957-snap-q2-preview---revenue-likely-higher-as-ad-recovery-remains-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 02 Aug 2026 17:35:57 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "用户创建虚假卫星图像后，谷歌取消了人工智能功能"
+     "zh": "第二季度预览——广告复苏仍是焦点，收入可能会更高"
+    },
+    {
+     "title": "Advanced Energy Q2 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4622827-advanced-energy-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 02 Aug 2026 17:35:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Advanced Energy 2026 年第二季度收益预览"
+    },
+    {
+     "title": "New Jersey Resources Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4622830-new-jersey-resources-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 02 Aug 2026 17:35:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "新泽西资源 2026 年第三季度收益预览"
+    },
+    {
+     "title": "Ameresco Q2 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4622833-ameresco-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 02 Aug 2026 17:35:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ameresco 2026 年第二季度收益预览"
+    },
+    {
+     "title": "Cabot Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4622836-cabot-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 02 Aug 2026 17:35:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "卡博特 2026 年第三季度收益预览"
+    },
+    {
+     "title": "V2X Q2 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4622838-v2x-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 02 Aug 2026 17:35:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "V2X 2026 年第二季度收益预览"
+    },
+    {
+     "title": "Japan to vow coordination with US on weak yen in historic battle",
+     "link": "https://finance.yahoo.com/markets/currencies/articles/japan-vow-coordination-us-weak-210127634.html",
+     "pubDate": "2026-08-02T21:28:28Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "日本誓言在历史性战斗中就日元贬值问题与美国进行协调"
+    },
+    {
+     "title": "央行：综合运用并适时调整货币政策工具 发挥好两项支持资本市场货币政策工具作用",
+     "link": "http://finance.eastmoney.com/news/1350,202608033829200855.html",
+     "pubDate": "Mon, 03 Aug 2026 04:59:30 +0800",
+     "summary": "中国人民 银行 8月2日消息，中国人民 银行 1日召开的2026年下半年工作会议提出， 综合 运用并适时调整货币政策工具，保持流动性充裕，引导金融机构增强信贷投放均衡性，使社会融资规模、货币供应量增长同经济增 长和 价格总水平预期目标相匹配；发挥好两项支持资本市场货币政策工具的作用。 会议明确，中国人民 银行 系统要认真学习领会习近平总书记在中央政治局会议上关于当前经济形势和做好下半年经济工作的重要讲话精神，切实把思想和行动统一到党中央关于经济形势的分析判断和决策部署上来，坚持稳中求进工作总基调，完整准确全面贯彻新发展理念，实施好适度宽松的货币政策，充分发挥各项存量政策效能，及时谋划出台务实管",
+     "source": "东方财富资讯",
+     "zh": "央行：综合运用并适时调整货币政策工具 发挥好两项支持资本市场货币政策工具作用"
+    },
+    {
+     "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
+     "link": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1",
+     "pubDate": "Sun, 02 Aug 2026 20:52:21 GMT",
+     "summary": "Deal would create the world’s fourth-largest drugmaker by market value",
+     "source": "Financial Times",
+     "zh": "阿斯利康与百时美施贵宝就 4000 亿美元的合作进行谈判"
+    },
+    {
+     "title": "8月3日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/11158,202608033829200344.html",
+     "pubDate": "Mon, 03 Aug 2026 04:18:15 +0800",
+     "summary": "8月3日(星期一，今日报刊头条主要内容精华如下： 中国证券报 央行：综合运用并适时调整货币政策工具 发挥好两项支持资本市场货币政策工具作用 中国人民 银行 8月2日消息，中国人民 银行 1日召开的2026年下半年工作会议提出， 综合 运用并适时调整货币政策工具，保持流动性充裕，引导金融机构增强信贷投放均衡性，使社会融资规模、货币供应量增长同经济增 长和 价格总水平预期目标相匹配；发挥好两项支持资本市场货币政策工具的作用。 市场监管总局：进一步完善经营者集中委托审查制度 8月1日，《市场监管总局关于进一步完善经营者集中委托审查制度的公告》正式实施。在已经委托北京、上海、广东、重庆、陕西5个省级市",
+     "source": "东方财富资讯",
+     "zh": "8月3日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     },
     {
      "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
@@ -2313,28 +2385,12 @@
      "zh": "据英国《金融时报》报道，阿斯利康正在与百时美施贵宝就 4000 亿美元的大型交易进行谈判"
     },
     {
-     "title": "Prysmian is said to near $2.5 billion deal for Atkore",
-     "link": "https://seekingalpha.com/news/4623152-prysmian-is-said-to-near-2_5-billion-deal-for-atkore?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 02 Aug 2026 15:58:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "据称普睿司曼将以近 25 亿美元的价格收购 Atkore"
-    },
-    {
-     "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
-     "link": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1",
-     "pubDate": "Sun, 02 Aug 2026 19:48:59 GMT",
-     "summary": "Deal would create the world’s fourth-largest drugmaker by market value",
-     "source": "Financial Times",
-     "zh": "阿斯利康与百时美施贵宝就 4000 亿美元的合作进行谈判"
-    },
-    {
-     "title": "AstraZeneca, Bristol Myers held merger talks, Financial Times reports",
-     "link": "https://seekingalpha.com/news/4623151-astrazeneca-bristol-myers-held-merger-talks-financial-times-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 02 Aug 2026 15:23:49 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "据英国《金融时报》报道，阿斯利康与百时美施贵宝举行合并谈判"
+     "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
+     "link": "http://finance.eastmoney.com/news/1351,202608033829199512.html",
+     "pubDate": "Mon, 03 Aug 2026 04:05:46 +0800",
+     "summary": "△特朗普社交媒体发文截图 总台记者 当地时间2日获悉，多名以色列官员称，在美国取消针对伊朗的既定袭击计划前，以方被排除在决策信息之外长达数小时，对美方取消行动的决定毫不知情。 “通过特朗普社媒发文得知美方叫停打击行动” 一名以色列高级官员说，“有几个小时，我们处于完全的信息真空与不确定之中，特朗普总统让我们陷入了迷雾。高级军官们甚至是通过特朗普的个人社交媒体帖文，才获悉最新的事态进展”。 △以色列总理内塔尼亚胡（资料图） 据悉， 包括以色列总理内塔尼亚胡、国防部长卡茨在内多人均是通过特朗普在“真实社交”上发表的帖文，才得知美方叫停了此次打击行动 ，随后以军方和外交官员设法与美方官员取得联系，最",
+     "source": "东方财富资讯",
+     "zh": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击"
     },
     {
      "title": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn&apos;t serve in House, needs &apos;serious psychological help&apos;",
@@ -2345,36 +2401,28 @@
      "zh": "共和党参议员莫雷诺表示前女婿马克斯·米勒不应该在众议院任职，需要“认真的心理帮助”"
     },
     {
-     "title": "Financial sector tops the S&P 500 in July, led by PayPal's 30% rally",
-     "link": "https://seekingalpha.com/news/4622714-financial-sector-tops-the-sp-500-in-july-led-by-paypals-30-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 02 Aug 2026 15:05:30 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "7 月份，金融板块在 PayPal 上涨 30% 的带动下位居标准普尔 500 指数榜首"
-    },
-    {
-     "title": "SA Asks: How big of a threat is China's CXMT to memory chipmakers?",
-     "link": "https://seekingalpha.com/news/4623119-sa-asks-how-big-of-a-threat-is-chinas-cxmt-to-memory-chipmakers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 02 Aug 2026 15:00:12 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA问：中国长鑫存储对内存芯片制造商的威胁有多大？"
-    },
-    {
-     "title": "Top global market stories from this week as earnings drive sentiment",
-     "link": "https://seekingalpha.com/news/4623148-top-global-market-dtories-from-this-week-as-earnings-drive-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 02 Aug 2026 14:27:51 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "本周全球市场热点新闻，盈利推动市场情绪"
-    },
-    {
-     "title": "Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse",
-     "link": "https://www.ft.com/content/4ce36d22-571d-4532-8a8f-078e8fba34ff?syn-25a6b1a6=1",
-     "pubDate": "Sun, 02 Aug 2026 17:32:45 GMT",
-     "summary": "MPS chief executive weighs approach to Banco BPM’s largest shareholder, Crédit Agricole",
+     "title": "Iran says deal with Oman to manage shipping through Hormuz is close",
+     "link": "https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5?syn-25a6b1a6=1",
+     "pubDate": "Sun, 02 Aug 2026 19:00:24 GMT",
+     "summary": "Negotiations on agreement seen as critical to preventing the US-Iran war from escalating said to be in ‘final stages’",
      "source": "Financial Times",
-     "zh": "“平等合并”谈判破裂后，Monte dei Paschi 探索收购 Banco BPM"
+     "zh": "伊朗表示与阿曼就管理通过霍尔木兹海峡的航运达成协议"
+    },
+    {
+     "title": "头部车企销量K型分化 “牌桌淘汰赛”窗口逼近",
+     "link": "http://finance.eastmoney.com/news/1354,202608033829195679.html",
+     "pubDate": "Mon, 03 Aug 2026 02:31:14 +0800",
+     "summary": "传统车企和造车新势力近日陆续交出下半年首月成绩单（销量或交付量）。7月虽为传统 汽车 销售淡季，但仍有头部新势力冲破天花板，腰部则在3万辆阵营“混战”，也有一些车企产销下滑，共同勾勒出行业加速分化的竞争格局。 比亚迪 以41.9万辆断层领跑、零跑首破10万辆月销登顶新势力、理想成新势力中唯一同比环比均下滑的品牌……这不仅仅是一张月度销量排位表，更是一张谁在上升、谁在挣扎的分割图。 按照乘联分会推算，7月狭义 乘用车 零售市场规模预计达到152万辆，环比下降5.1%，同比下降16.8%。其中， 新能源 乘用车 零售销量预计在98万辆左右，环比微降，渗透率进一步提升至64.5%左右，机遇与挑战并存",
+     "source": "东方财富资讯",
+     "zh": "头部车企销量K型分化 “牌桌淘汰赛”窗口逼近"
+    },
+    {
+     "title": "与债券通、互换通形成互补 大幅提升国债吸引力 港交所五年期国债期货今起开闸交易",
+     "link": "http://hk.eastmoney.com/news/11792,202608033829195383.html",
+     "pubDate": "Mon, 03 Aug 2026 02:30:49 +0800",
+     "summary": "证券时报记者从 香港交易所 （以下简称“港交所”）获悉，港交所旗下香港 期货 交易所（以下简称“香港期交所”）的五年期国债 期货 合约计划已获批准，相关合约今起交易。 据介绍，上述产品作为离岸市场唯一的国债 期货 合约产品，旨在满足境外投资者日益增长的利率风险管理及交易需求。推出五年期国债期货是推动香港成为离岸人民币枢纽及风险管理中心的重要一步。 当前，中国债券市场规模巨大且增速迅猛。同时，债券市场持续加大对外开放力度，境外投资者持有越来越多的国债，对风险管理的需求愈发旺盛。港交所固定收益及货币产品发展部高级副总裁周兆平告诉记者：“满足这一需求是港交所推出国债期货的一个基本出发点。国债期货是非",
+     "source": "东方财富资讯",
+     "zh": "与债券通、互换通形成互补 大幅提升国债吸引力 港交所五年期国债期货今起开闸交易"
     },
     {
      "title": "楼市延续修复态势 重点城市成交保持活跃",
@@ -2409,6 +2457,14 @@
      "zh": "特朗普转向伊朗问题，道琼斯期货到期； SpaceX、AMD、Sandisk、礼来公司盈利迫在眉睫"
     },
     {
+     "title": "Cathie Wood sells $5.5 million of surging tech stock",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-5-5-163300469.html",
+     "pubDate": "2026-08-02T16:33:00Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Cathie Wood 出售价值 550 万美元的飙升科技股"
+    },
+    {
      "title": "Warren Buffett keeps pointing at the same ETF for a reason",
      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-keeps-pointing-same-160300409.html",
      "pubDate": "2026-08-02T16:03:00Z",
@@ -2423,62 +2479,6 @@
      "summary": "S&P 500 groups on track for strongest earnings in five years",
      "source": "Financial Times",
      "zh": "由于消费者面临更高的成本，美国最大的公司报告利润“坚如磐石”"
-    },
-    {
-     "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-     "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-     "pubDate": "Sun, 02 Aug 2026 16:00:00 GMT",
-     "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
-     "source": "MarketWatch",
-     "zh": "我的女朋友 62 岁。她可以领取已故丈夫的全部社会保障福利吗？还是必须等待？"
-    },
-    {
-     "title": "&apos;Spider-Man: Brand New Day&apos; chases &apos;Avengers: Endgame&apos; opening record with $355 million domestic debut",
-     "link": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
-     "pubDate": "Sun, 02 Aug 2026 15:54:05 GMT",
-     "summary": "Sony and Marvel's \"Spider-Man: Brand New Day\" snared $355 million in estimated domestic box office on its opening weekend, the second-highest debut of all time.",
-     "source": "CNBC",
-     "zh": "《蜘蛛侠：崭新的一天》以 3.55 亿美元的国内首映票房追赶《复仇者联盟：终局之战》的首映票房纪录"
-    },
-    {
-     "title": "Shoppers made 158 million chargeback disputes in 2025 as 'friendly fraud' surged 29% — and businesses pay the price",
-     "link": "https://finance.yahoo.com/small-business/articles/shoppers-made-158-million-chargeback-153000950.html",
-     "pubDate": "2026-08-02T15:30:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "2025 年，“友好欺诈”激增 29%，购物者提出了 1.58 亿起退款纠纷，企业付出了代价"
-    },
-    {
-     "title": "Morocco counts its dead and missing after mass swim to Ceuta",
-     "link": "https://www.ft.com/content/a01171e8-f8a1-4e2c-b3f7-f79f9cd11651?syn-25a6b1a6=1",
-     "pubDate": "Sun, 02 Aug 2026 15:21:57 GMT",
-     "summary": "Families search for children not seen since 60,000 people crossed into Spanish enclave, as death toll rises to 72",
-     "source": "Financial Times",
-     "zh": "摩洛哥在大规模游泳休达后统计死亡和失踪人数"
-    },
-    {
-     "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
-     "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
-     "pubDate": "Sun, 02 Aug 2026 15:19:00 GMT",
-     "summary": "Turn off your brain and enjoy new seasons of Apple’s ‘Ted Lasso,’ Amazon’s ‘Reacher,’ Netflix’s ‘Outer Banks’ and much more",
-     "source": "MarketWatch",
-     "zh": "以下是 2026 年 8 月值得在 Netflix、Hulu、HBO Max 等平台上观看的内容"
-    },
-    {
-     "title": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
-     "link": "https://www.investors.com/news/tesla-rival-byd-sales-overseas-demand-flash-charging/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-02T14:59:50Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "特斯拉竞争对手比亚迪因海外需求和闪充而提高销量"
-    },
-    {
-     "title": "US retirees blow nearly $1 of every $3 on a single expense — here's what it costs you each year",
-     "link": "https://finance.yahoo.com/real-estate/articles/us-retirees-blow-nearly-1-143500205.html",
-     "pubDate": "2026-08-02T14:35:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "美国退休人员每 3 美元的单项支出就花费近 1 美元——以下是您每年的花费"
     }
    ]
   },

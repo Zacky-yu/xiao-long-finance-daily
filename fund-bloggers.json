@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "bloggers": [
     {
       "name": "龙行天下虎",
@@ -8,16 +8,16 @@
       "followerTag": "百万实盘",
       "sentiment": "偏多",
       "operations": [
-        { "fund": "半导体ETF联接", "action": "加仓", "amount": "2000元", "reason": "美股AI龙头业绩验证，产业链情绪共振，回调就是机会" },
+        { "fund": "半导体ETF联接", "action": "加仓", "amount": "2000元", "reason": "美股创新高+AI业绩验证，产业链情绪共振，回调就是机会" },
         { "fund": "黄金ETF联接", "action": "持有", "amount": "", "reason": "高位震荡，趋势没破不动" },
         { "fund": "科创50", "action": "定投", "amount": "1000元", "reason": "科技主线不动摇，周定投照常" },
-        { "fund": "银行ETF", "action": "持有", "amount": "", "reason": "昨天加了，今天歇口气，趋势还在" }
+        { "fund": "银行ETF", "action": "持有", "amount": "", "reason": "今天歇口气，趋势还在就拿着" }
       ],
       "views": [
         { "sector": "半导体", "stance": "看多", "view": "AI算力需求+存储涨价周期共振，龙头业绩超预期，回调都是上车点" },
-        { "sector": "黄金", "stance": "看多", "view": "央行购金+降息预期托底，短线波动不改中期趋势" },
-        { "sector": "科技成长", "stance": "看多", "view": "微软、Palantir财报带动全球AI情绪，A股科技跟风上涨" },
-        { "sector": "医药", "stance": "中性", "view": "海外并购传闻刺激情绪，但持续性待观察，不追高" }
+        { "sector": "黄金", "stance": "看多", "view": "美联储减少前瞻指引，不确定性托底金价，短线波动不改中期趋势" },
+        { "sector": "科技成长", "stance": "看多", "view": "S&P 500重返新高，全球AI情绪火热，A股科技跟风上涨" },
+        { "sector": "银行", "stance": "中性", "view": "防守有余进攻不足，作为底仓配置，不追高" }
       ],
       "summary": "半导体继续加，黄金拿着，AI情绪火热跟上"
     },
@@ -30,7 +30,7 @@
       "operations": [
         { "fund": "沪深300ETF联接", "action": "定投", "amount": "1000元", "reason": "周定投继续，估值低位不动摇" },
         { "fund": "红利低波", "action": "持有", "amount": "", "reason": "底仓够了，等高股息回调再补" },
-        { "fund": "银行ETF", "action": "持有", "amount": "", "reason": "昨天已加仓，今天不追，趋势还在就拿着" },
+        { "fund": "银行ETF", "action": "持有", "amount": "", "reason": "估值低+分红稳，拿着吃息" },
         { "fund": "中证白酒", "action": "持有", "amount": "", "reason": "动销偏弱，等旺季验证，不加仓" }
       ],
       "views": [
@@ -51,15 +51,15 @@
         { "fund": "科创50ETF联接", "action": "加仓", "amount": "1500元", "reason": "AI龙头业绩验证，科技情绪火热，顺势而为" },
         { "fund": "半导体设备ETF", "action": "加仓", "amount": "1000元", "reason": "国产替代逻辑强化，设备先行" },
         { "fund": "军工ETF", "action": "持有", "amount": "", "reason": "等轮动，不急" },
-        { "fund": "医药ETF", "action": "加仓", "amount": "500元", "reason": "并购预期升温，左侧试盘，小仓位参与" }
+        { "fund": "医药ETF", "action": "持有", "amount": "", "reason": "并购预期升温，但短期涨多了，先观望" }
       ],
       "views": [
         { "sector": "科技成长", "stance": "看多", "view": "政策加码硬科技+全球AI业绩验证，科创50逢跌分批买" },
         { "sector": "半导体", "stance": "看多", "view": "存储涨价+国产替代双主线，设备端最受益" },
         { "sector": "军工", "stance": "中性", "view": "前期涨幅不小，等回踩或事件催化再考虑加" },
-        { "sector": "医药", "stance": "看多", "view": "海外并购潮起，底部区域有资金关注，左侧布局" }
+        { "sector": "医药", "stance": "中性", "view": "海外并购潮起，底部区域有资金关注，短期涨多不追" }
       ],
-      "summary": "科技主攻，半导体设备加码，医药左侧试盘，军工等机会"
+      "summary": "科技主攻，半导体设备加码，医药观望，军工等机会"
     }
   ]
 }

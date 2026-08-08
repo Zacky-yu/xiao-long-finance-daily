@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "bloggers": [
     {
       "name": "龙行天下虎",
@@ -8,18 +8,18 @@
       "followerTag": "百万实盘",
       "sentiment": "偏多",
       "operations": [
-        { "fund": "半导体ETF联接", "action": "加仓", "amount": "2000元", "reason": "AI产业链热度不减，龙头业绩验证后回调就是机会" },
-        { "fund": "黄金ETF联接", "action": "持有", "amount": "", "reason": "美联储新主席减少前瞻指引，政策模糊期金价有支撑，不动" },
-        { "fund": "科创50", "action": "定投", "amount": "1000元", "reason": "科技主线不动摇，周定投照常" },
-        { "fund": "银行ETF", "action": "持有", "amount": "", "reason": "高股息防守底仓，不动" }
+        { "fund": "半导体ETF联接", "action": "持有", "amount": "", "reason": "周末无交易，周五美股Nvidia周暴涨，复盘等周一" },
+        { "fund": "黄金ETF联接", "action": "持有", "amount": "", "reason": "美元走弱+美联储不确定性升温，趋势未变不动" },
+        { "fund": "科创50", "action": "持有", "amount": "", "reason": "周末无操作，AI情绪火热，周一定投照常" },
+        { "fund": "银行ETF", "action": "持有", "amount": "", "reason": "底仓配置，周末复盘为主" }
       ],
       "views": [
-        { "sector": "半导体", "stance": "看多", "view": "AI算力需求+存储涨价周期共振，龙头业绩超预期，回调都是上车点" },
-        { "sector": "黄金", "stance": "看多", "view": "美联储减少前瞻指引，政策不确定性托底金价，短线波动不改中期趋势" },
-        { "sector": "科技成长", "stance": "看多", "view": "S&P 500连创新高，全球AI情绪火热，但进入季节性弱势期注意节奏" },
-        { "sector": "银行", "stance": "中性", "view": "防守有余进攻不足，作为底仓配置，不追高" }
+        { "sector": "半导体", "stance": "看多", "view": "Nvidia创一年多最大周涨幅，AI算力需求持续验证，产业链情绪高涨" },
+        { "sector": "黄金", "stance": "看多", "view": "美元走弱+特朗普再施压美联储，不确定性托底金价，中线逻辑不改" },
+        { "sector": "科技成长", "stance": "看多", "view": "Palantir、Nvidia连创新高，全球AI业绩密集验证，A股科技跟风预期强" },
+        { "sector": "银行", "stance": "中性", "view": "防守底仓，估值低分红稳，进攻性一般但睡得着觉" }
       ],
-      "summary": "半导体回调继续加，黄金拿着不动，AI主线不动摇但注意季节性风险"
+      "summary": "周末复盘，半导体和黄金趋势都没破，AI情绪火热，周一再看机会"
     },
     {
       "name": "大叔百万养基",
@@ -28,8 +28,8 @@
       "followerTag": "稳健型",
       "sentiment": "中性",
       "operations": [
-        { "fund": "沪深300ETF联接", "action": "定投", "amount": "1000元", "reason": "周定投继续，估值低位不动摇" },
-        { "fund": "红利低波", "action": "持有", "amount": "", "reason": "底仓够了，季节性弱势期防守为主" },
+        { "fund": "沪深300ETF联接", "action": "持有", "amount": "", "reason": "周末无交易，周一定投继续" },
+        { "fund": "红利低波", "action": "持有", "amount": "", "reason": "底仓够了，等高股息回调再补" },
         { "fund": "银行ETF", "action": "持有", "amount": "", "reason": "估值低+分红稳，拿着吃息" },
         { "fund": "中证白酒", "action": "持有", "amount": "", "reason": "动销偏弱，等中秋旺季验证，不加仓" }
       ],
@@ -37,9 +37,9 @@
         { "sector": "宽基指数", "stance": "看多", "view": "沪深300估值处历史低位，定投性价比高，越跌越买" },
         { "sector": "银行金融", "stance": "看多", "view": "估值低+分红稳定，顺周期资金回流，作为防守进攻兼备的配置" },
         { "sector": "白酒消费", "stance": "中性", "view": "动销数据仍偏弱，等中秋旺季验证，不加仓" },
-        { "sector": "医药", "stance": "中性", "view": "海外并购消息刺激，但我的风格不追高，观望为主" }
+        { "sector": "黄金", "stance": "中性", "view": "逻辑看好但短期涨多，稳健派不追高，等有回调再配置" }
       ],
-      "summary": "定投继续，红利银行持有，白酒医药观望，稳字当头"
+      "summary": "周末无操作，定投暂停一天，红利银行持有，白酒黄金观望，稳字当头"
     },
     {
       "name": "天天理财日记",
@@ -48,18 +48,18 @@
       "followerTag": "成长型",
       "sentiment": "偏多",
       "operations": [
-        { "fund": "科创50ETF联接", "action": "加仓", "amount": "1500元", "reason": "AI龙头业绩验证，科技情绪火热，但季节性弱势期控制节奏" },
-        { "fund": "半导体设备ETF", "action": "加仓", "amount": "1000元", "reason": "国产替代逻辑强化，设备先行" },
+        { "fund": "科创50ETF联接", "action": "持有", "amount": "", "reason": "周末无交易，AI龙头业绩验证，趋势未变" },
+        { "fund": "半导体设备ETF", "action": "持有", "amount": "", "reason": "国产替代+全球景气共振，复盘等周一" },
         { "fund": "军工ETF", "action": "持有", "amount": "", "reason": "等轮动，不急" },
-        { "fund": "医药ETF", "action": "持有", "amount": "", "reason": "并购预期升温，但短期涨多了，先观望" }
+        { "fund": "医药ETF", "action": "持有", "amount": "", "reason": "底部区域有资金关注，短期涨多不追" }
       ],
       "views": [
-        { "sector": "科技成长", "stance": "看多", "view": "政策加码硬科技+全球AI业绩验证，科创50逢跌分批买" },
-        { "sector": "半导体", "stance": "看多", "view": "存储涨价+国产替代双主线，设备端最受益" },
+        { "sector": "科技成长", "stance": "看多", "view": "政策加码硬科技+全球AI业绩验证，Palantir最佳周表现印证需求爆发" },
+        { "sector": "半导体", "stance": "看多", "view": "Nvidia周暴涨+存储涨价，设备端最受益，逢跌分批买" },
         { "sector": "军工", "stance": "中性", "view": "前期涨幅不小，等回踩或事件催化再考虑加" },
         { "sector": "医药", "stance": "中性", "view": "海外并购潮起，底部区域有资金关注，短期涨多不追" }
       ],
-      "summary": "科技主攻，半导体设备加码，医药观望，军工等机会，注意季节性风险"
+      "summary": "周末复盘，科技半导体趋势强劲，医药观望，军工等机会"
     }
   ]
 }

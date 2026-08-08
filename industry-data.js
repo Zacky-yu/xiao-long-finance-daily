@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/9 07:29:06",
+ "generated_at": "2026/8/9 07:57:56",
  "recent_days": 7,
  "industries": [
   {
@@ -18,14 +18,6 @@ window.INDUSTRY_DATA = {
      "zh": "计划中的亚马逊数据中心可能成为美国最大的气候污染源"
     },
     {
-     "title": "Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run",
-     "link": "https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/",
-     "pubDate": "Sat, 08 Aug 2026 20:54:49 +0000",
-     "summary": "Long agent runs accumulate state that no transcript records — edited files, a live dev server, installed packages, a warm prompt cache. When an agent misreads a traceback at step 10 and rewrites a correct file, patching forward burns tokens and restarting re-pays every call. Researchers at Northeast",
-     "source": "MarkTechPost",
-     "zh": "认识一下 Shepherd：一个开源 Python 底层，允许元代理分叉、重放和恢复任何代理运行"
-    },
-    {
      "title": "OpenAI acquires presentation startup NextSlide",
      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
      "pubDate": "Sat, 08 Aug 2026 19:41:13 +0000",
@@ -34,28 +26,12 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI 收购演示初创公司 NextSlide"
     },
     {
-     "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
-     "link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
-     "pubDate": "Sat, 08 Aug 2026 17:04:39 +0000",
-     "summary": "Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second o",
-     "source": "MarkTechPost",
-     "zh": "Pokee AI 发布 Pokee-Isaac 28B：专为在客户边界内运行而构建的 10M 代币上下文代理模型"
-    },
-    {
      "title": "重磅！苹果国行AI突然发布，首次官宣牵手阿里，Mac用上千问了",
      "link": "https://zhidx.com/p/583346.html",
      "pubDate": "Sat, 08 Aug 2026 23:00:25 +0800",
      "summary": "智东西 编译 | 毕伟豪 编辑 | 云鹏 智东西8月8日消息，今日，苹果官方悄悄更新了Mac使用手册，新增《在Mac上配合Apple智能使用千问》这一章节，这是苹果首次官方确认关于国行Apple智能合作的具体信息，意味着苹果国行Apple智能正式进入落地环节。 此前， 智东西从阿里巴巴方面获悉， 阿里千问将作为AI能力集成至 Apple智能 ，为iOS、iPadOS、macOS和visionOS的中国用户带来智能体验。用户无需在应用间切换，即可在苹果设备上直接体验千问的文本与图像理解、内容生成等能力。 而此次Mac使用手册的更新，是苹果官方首次确认这一消息，并对具体合作细节进行了公开展示。 一",
      "source": "智东西",
      "zh": "重磅！苹果国行AI突然发布，首次官宣牵手阿里，Mac用上千问了"
-    },
-    {
-     "title": "Designing Scalable Interactive Visualizations with Reflex XY: Composition, Million-Point Rendering, Streaming, Custom Marks, and Export",
-     "link": "https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/",
-     "pubDate": "Sat, 08 Aug 2026 09:42:18 +0000",
-     "summary": "Dive into the advanced visualization capabilities of the Reflex XY Python library. This tutorial guides you through building high-performance, interactive charts—from handling million-point datasets and real-time streaming to creating custom mark plugins and exporting publication-ready visuals. The ",
-     "source": "MarkTechPost",
-     "zh": "使用 Reflex XY 设计可扩展的交互式可视化：合成、百万点渲染、流式传输、自定义标记和导出"
     },
     {
      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
@@ -80,14 +56,6 @@ window.INDUSTRY_DATA = {
      "summary": "「我，Jeff Dean，打钱」",
      "source": "量子位",
      "zh": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱"
-    },
-    {
-     "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size",
-     "link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
-     "pubDate": "Sat, 08 Aug 2026 04:36:26 +0000",
-     "summary": "Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single yes/no question instead of a fixed harm taxonomy. Operators supply the policy as a plain-language query at inference time and get back a calibrated saf",
-     "source": "MarkTechPost",
-     "zh": "Mistral AI 发布 Shieldstral 1.0 3B：开放权重策略自适应多模态安全分类器，匹配 7 倍大小的模型"
     },
     {
      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
@@ -146,28 +114,12 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度"
     },
     {
-     "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
-     "link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
-     "pubDate": "Fri, 07 Aug 2026 21:52:48 +0000",
-     "summary": "Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets — Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, H",
-     "source": "MarkTechPost",
-     "zh": "腾讯云开源TencentDB Agent Memory v2.0：面向AI Coding Agent的团队级内存中心"
-    },
-    {
      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
      "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000",
      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
      "source": "TechCrunch AI",
      "zh": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具"
-    },
-    {
-     "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
-     "link": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
-     "pubDate": "Fri, 07 Aug 2026 21:13:38 +0000",
-     "summary": "In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python 3.12 environment, installing the required packages, and performing offline PDF text extraction without relying on a GPU or external API key. We then ",
-     "source": "MarkTechPost",
-     "zh": "使用 NVIDIA NeMo Retriever、托管 NIM、LanceDB、重新排名和接地生成构建多模式 RAG 管道"
     },
     {
      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
@@ -248,6 +200,54 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 2026年，AI视频生成工具，究竟能把一个创作者的能力推到哪一步？ 智东西8月7日报道，近日，美图旗下AI短剧创作工具RoboNeo迎来了全新升级，在人像肤质以及视频生成可控性方面做了重点优化。 就在刚刚，RoboNeo还接入了Seedance 2.5模型，在PC端限时5折优惠。 先来看一个小片段： 这是我在RoboNeo中生成的一段视频。从人物素材、镜头设计到最终成片，我没有使用传统剪辑软件，而是在RoboNeo的画布中，通过手动调试与AI结合的方式完成了整个制作流程。 这只是一次镜头实验，事实上，近期完成升级的Rob",
      "source": "智东西",
      "zh": "我，用美图Agent，一句话拍出AI短剧"
+    },
+    {
+     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+     "link": "https://openai.com/index/hsp-gruppe",
+     "pubDate": "Fri, 07 Aug 2026 09:00:00 GMT",
+     "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+     "source": "OpenAI",
+     "zh": "HSP GRUPPE 如何构建人工智能税务咨询能力"
+    },
+    {
+     "title": "GPT-5.6免费了？Luna免费文字聊天，还加入思考模式",
+     "link": "https://zhidx.com/p/583057.html",
+     "pubDate": "Fri, 07 Aug 2026 15:12:35 +0800",
+     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西8月7日消息，今天凌晨，OpenAI宣布，ChatGPT免费用户和Go用户的默认模型将调整为 GPT-5.6 Luna ，用户可 无限量使用 该模型进行文字聊天，但文件上传、图片生成和其他工具仍有限额。此外，OpenAI还将新增 “Thinking”按钮 ，可以让模型投入更多时间进行分析。 ▲OpenAI宣布用户可用GPT-5.6 Luna进行无限次文字聊天（图源：X） 对于Plus和Pro用户，OpenAI 更新了聊天场景中的GPT-5.6 Sol ，使其回答更加聚焦，并提高事实准确性。用户还可以通过新增的滑块，调节ChatGPT回答问题时的",
+     "source": "智东西",
+     "zh": "GPT-5.6免费了？Luna免费文字聊天，还加入思考模式"
+    },
+    {
+     "title": "实时视频版「Nano Banana」来了！160亿参数重磅开源",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=1&sn=b814cb5b87c9cb3677ac63eb1016e090",
+     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "实时视频版「Nano Banana」来了！160亿参数重磅开源"
+    },
+    {
+     "title": "AI推翻80年数学猜想，菲尔兹奖得主一夜没睡：以为要出局",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=2&sn=066eaef430c7d9307d33ebf126ba348c",
+     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "AI推翻80年数学猜想，菲尔兹奖得主一夜没睡：以为要出局"
+    },
+    {
+     "title": "600倍加速，720p视频实时生成！单卡也能带的动14B模型",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=3&sn=ed0d03f1c359c897e017abdeee7c1bcb",
+     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "600倍加速，720p视频实时生成！单卡也能带的动14B模型"
+    },
+    {
+     "title": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048906&idx=1&sn=f6af0867a0c72211fb12bdf0f7ff43a5",
+     "pubDate": "Fri, 07 Aug 2026 09:02:00 +0800",
+     "summary": "把强化学习后训练做成产品，这是Pyromind给Agent时代的解答",
+     "source": "机器之心",
+     "zh": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方"
     }
    ]
   },
@@ -1762,44 +1762,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "研究：人们无法有效区分 AI 生成与人类原创短篇小说",
-     "link": "https://www.ithome.com/0/987/465.htm",
-     "pubDate": "Sat, 08 Aug 2026 23:24:13 GMT",
-     "summary": "IT之家 8 月 9 日消息，从《奥德赛》到阿加莎 · 克里斯蒂的犯罪小说，人类创作了大量精彩故事，填满了一代又一代人的书架。但一项研究表明，如今人工智能或许已经开始成为人类作家的竞争对手。 发表在《判断与决策》（Judgment and Decision Making）期刊上的一项研究显示，研究人员邀请 1,682 名成年人阅读 6 篇短篇小说，其中 3 篇由人类创作，另外 3 篇由 ChatGPT 创作。每篇 AI 小说都围绕与其中一篇人类作品相似的主题展开。 研究人员会告诉参与者，他们阅读的故事究竟由人类还是 AI 创作，但这一信息并不总是准确的。随后，研究人员要求参与者评价故事的吸引力",
+     "title": "谷歌 Pixel 11 Pro 真机曝光，将于 8 月 13 日发布",
+     "link": "https://www.ithome.com/0/987/476.htm",
+     "pubDate": "Sat, 08 Aug 2026 23:52:36 GMT",
+     "summary": "IT之家 8 月 9 日消息，X 账号 @PixelNewsHub 曝光了一台装在包装盒中的谷歌 Pixel 11 Pro 演示机，采用沙丘色外观，此外还有一张哑光黑色演示机的上手照片。据称，这些照片来自运营商，这批设备在谷歌 Made by Google 活动举行前已经抵达。 IT之家注意到，黑色版本的照片显示，长焦镜头区域出现了一个圆形开孔，与上月曝光的渲染图一致，Pixel 11 Pro 将采用圆形长焦镜头开孔，取代 Pixel 10 Pro 上使用的方形潜望式长焦镜头模组。 谷歌预计将在 2026 年 8 月 13 日举行的 Made by Google 活动上正式发布 Pixel 1",
      "source": "IT之家",
-     "zh": "研究：人们无法有效区分 AI 生成与人类原创短篇小说"
+     "zh": "谷歌 Pixel 11 Pro 真机曝光，将于 8 月 13 日发布"
     },
     {
-     "title": "115 网盘 API 开放平台即日起暂停服务",
-     "link": "https://www.ithome.com/0/987/464.htm",
-     "pubDate": "Sat, 08 Aug 2026 23:23:17 GMT",
-     "summary": "IT之家 8 月 9 日消息，115 网盘发布公告，宣布 115 网盘 API 开放平台即日起暂停服务，恢复时间及后续安排，需以后续官方公告为准。 IT之家获悉，115 网盘开放平台主要允许开发者和第三方应用通过标准接口接入其云存储服务。其采用 OAuth2.0 授权协议，用户可通过申请 API 密钥，获取文件上传、下载、分享、目录管理等核心功能。",
+     "title": "8499 元华硕 ROG 旗下 RGB 条纹子像素 OLED 显示器“ PG32UCWM”发售：4K 240Hz / FHD 480Hz 双模",
+     "link": "https://www.ithome.com/0/987/475.htm",
+     "pubDate": "Sat, 08 Aug 2026 23:51:09 GMT",
+     "summary": "IT之家 8 月 9 日消息，华硕 ROG 旗下采用 RGB 条纹子像素排列的 4K UHD OLED 游戏显示器新品“PG32UCWM（ROG 超神 32 RGB）”现已在京东发售，定价为 8999 元， 首发价 8499 元 。 京东 华硕“PG32UCWM”显示器 8499 元 直达链接 该产品支持 UHD 240Hz / FHD 480Hz 双模切换，结合了 Tandem OLED 技术和 RGB 条纹子像素排列，带来了更为锐利的文字边缘与更为精准的色彩还原；其峰值亮度 1000nits，得到 VESA DisplayHDR True Black 400 认证；色域 99% DCI-P",
      "source": "IT之家",
-     "zh": "115 网盘 API 开放平台即日起暂停服务"
+     "zh": "8499 元华硕 ROG 旗下 RGB 条纹子像素 OLED 显示器“ PG32UCWM”发售：4K 240Hz / FHD 480Hz 双模"
     },
     {
-     "title": "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众",
-     "link": "https://www.ithome.com/0/987/463.htm",
-     "pubDate": "Sat, 08 Aug 2026 23:19:05 GMT",
-     "summary": "IT之家 8 月 9 日消息，据央视新闻今日报道，据美国方面 7 日消息，美国内华达州最大能源供应商内华达能源公司已经正式起诉正在该州建造数据中心的一家开发商，指控其试图将电费成本转嫁给消费者。 据称，内华达能源公司为 内华达州 90% 的用户供电 ，而在建的两家数据中心建成后将消耗的电力，几乎占内华达能源公司 总发电量的三分之一 。内华达能源公司要求数据中心开发商必须启动价值 10 亿美元 （IT之家注：现汇率约合 67.6 亿元人民币） 的电网升级工程。 IT之家从报道中获悉，该公司警告称，如果数据中心开发商不承担更多的基建开支，公司或将上调电价， 负担将转嫁到内华达州的普通家庭和企业身上",
+     "title": "67 岁农民大伯误信 AI 推荐除草剂，150 亩芝麻苗一夜枯萎",
+     "link": "https://www.ithome.com/0/987/474.htm",
+     "pubDate": "Sat, 08 Aug 2026 23:48:34 GMT",
+     "summary": "IT之家 8 月 9 日消息，据荔枝新闻报道，安徽滁州 67 岁农户吴大伯在一年多前接触 AI 软件后，逐渐从将信将疑变为完全依赖，什么事情都询问 AI。 2026 年 7 月 10 日，他向 AI 询问芝麻田除草除虫方案，AI 生成了“百亩芝麻飞防除草 + 除虫全套方案”，推荐了两种除草剂（高效氟吡甲禾灵和氟磺胺草醚）及两种除虫剂（噻虫嗪水分散粒剂和甲维盐）。 吴大伯按方案用无人机全田喷洒，次日 150 亩芝麻苗全部枯萎，草和苗一同死亡，预计损失约 15 万元 。 对此，农技人员证实，AI 推荐的“氟磺胺草醚”是专用于大豆田的阔叶除草剂，严禁用于芝麻田，更不能全田喷洒，该药剂只能在大豆田定向",
      "source": "IT之家",
-     "zh": "美国内华达州最大能源公司起诉数据中心开发商：将电费成本转嫁民众"
+     "zh": "67 岁农民大伯误信 AI 推荐除草剂，150 亩芝麻苗一夜枯萎"
     },
     {
-     "title": "Ubisoft Connect 喜加一：经典游戏《幽灵行动：未来战士》免费领",
-     "link": "https://www.ithome.com/0/987/462.htm",
-     "pubDate": "Sat, 08 Aug 2026 23:18:06 GMT",
-     "summary": "IT之家 8 月 9 日消息，育碧为庆祝《幽灵行动》（Ghost Recon）系列迎来 25 周年，即日起推出系列纪念活动，不仅开启全系列折扣促销，最低可享 95 折优惠，同时限时免费赠送 PC 版 《幽灵行动：未来战士》（Tom Clancy's Ghost Recon：Future Soldier）。 IT之家获悉，本次免费赠送的是 2012 年推出的 PC 版本，但该版本不支持，玩家只需在活动期间至 8 月 13 日下午 4 点前登录 Ubisoft Connect，即可免费领取并绑定至个人账号，游戏地址（ 点此访问 ）。 公开信息显示， 《幽灵行动：未来战士》最 初于 2012 年 5",
+     "title": "SpaceX 猎鹰 9 号火箭撞击月球，韩国探测器拍到撞击区域影像",
+     "link": "https://www.ithome.com/0/987/473.htm",
+     "pubDate": "Sat, 08 Aug 2026 23:47:32 GMT",
+     "summary": "IT之家 8 月 9 日消息，2026 年 8 月 5 日，一枚 SpaceX 猎鹰 9 号（Falcon 9）火箭的上面级撞击了月球。尽管许多天文学家都在关注这一事件，但真正拍到撞击过程或撞击地点的图像并不多。不过，韩国的一颗月球探测器近日公布了相关图像，展示了火箭撞击月球后留下的痕迹。 据IT之家了解，这枚猎鹰 9 号火箭于 2025 年 1 月 15 日发射，任务是将 Firefly Aerospace（萤火虫航天）的 Blue Ghost 1 月球着陆器送往月球。不过，由于太阳风和引力等因素影响，火箭上面级未能离开月球附近轨道，而是一直绕着月球运行。最终，这个长度约 18 米的火箭上面",
      "source": "IT之家",
-     "zh": "Ubisoft Connect 喜加一：经典游戏《幽灵行动：未来战士》免费领"
+     "zh": "SpaceX 猎鹰 9 号火箭撞击月球，韩国探测器拍到撞击区域影像"
     },
     {
-     "title": "Epic 喜加一：原价 3 元模拟经营游戏《happiness market》免费领",
-     "link": "https://www.ithome.com/0/987/461.htm",
-     "pubDate": "Sat, 08 Aug 2026 23:09:27 GMT",
-     "summary": "IT之家 8 月 9 日消息，由独立开发者 luolei 制作的 2D 商店经营模拟游戏《happiness market》目前已在 Epic Games Store 开启限时免费领取“喜加一”活动， 本作在国区定价为 3 元 ，活动将持续至北京时间 8 月 15 日凌晨 0 点结束。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/happiness-market-0572e2 ）。 据介绍，在《happiness market》中，玩家需要从零开始建设自己的商店，购买商品并",
+     "title": "IT早报 0809：研究称今年内存价格涨回 2007 年水平；享界 G9 炮弹坑测试多角度实拍流出；雷军重申小米澎程 3 年半前立项；苹果支持文档显示 Mac 可接入千问...",
+     "link": "https://www.ithome.com/0/987/472.htm",
+     "pubDate": "Sat, 08 Aug 2026 23:42:27 GMT",
+     "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 9 日星期日，今天的重要科技资讯有： 1、约 20 年降价进程数月内被逆转：研究称 2026 年内存每 GB 价格回到 2007 年水平 加拿大魁北克大学（TELUQ）计算机科学教授，软件性能专家丹尼尔 · 勒米尔（Daniel Lemire）于 8 月 5 日在 X 平台发布推文，研究指出受 HBM 需求激增影响，内存单位价格已回到约 2007 年水平，约 20 年降价进程在数月内被逆转。>> 查看详情 2、鸿蒙智行享界 G9 汽车炮弹坑测试视频被质疑 AI 生成，现场多角度实拍视频流出 鸿蒙智行享界汽车在 8 月 5 日发布享界 G9",
      "source": "IT之家",
-     "zh": "Epic 喜加一：原价 3 元模拟经营游戏《happiness market》免费领"
+     "zh": "IT早报 0809：研究称今年内存价格涨回 2007 年水平；享界 G9 炮弹坑测试多角度实拍流出；雷军重申小米澎程 3 年半前立项；苹果支持文档显示 Mac 可接入千问..."
+    },
+    {
+     "title": "Epic 喜加一：原价 25 元动作冒险游戏《Spider Fox》免费领",
+     "link": "https://www.ithome.com/0/987/471.htm",
+     "pubDate": "Sat, 08 Aug 2026 23:42:21 GMT",
+     "summary": "IT之家 8 月 9 日消息，独立游戏开发商兼发行商 Planet 47 Games 宣布，旗下 3D 动作冒险游戏《Spider Fox》即日起在 Epic Games Store 开启限时免费“喜加一”领取活动， 游戏在国区定价为 25 元 ，玩家可在北京时间 8 月 13 日 23 点前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/spider-fox-efd273 ）。 《Spider Fox》的角色设计风格十分独特，甚至可以说有些诡异。游戏剧情讲述疯狂科",
+     "source": "IT之家",
+     "zh": "Epic 喜加一：原价 25 元动作冒险游戏《Spider Fox》免费领"
+    },
+    {
+     "title": "Cambricon Turns a Profit Surge into an Inventory Test",
+     "link": "https://www.tmtpost.com/8096505.html",
+     "pubDate": "Sun, 09 Aug 2026 07:37:03 +0800",
+     "summary": "First-half revenue nearly doubled to about 6 billion yuan and net profit more than doubled, yet a sharp rise in unfinished inventory means the second half will be judged by how quickly those materials become finished chips and recognized sales.",
+     "source": "钛媒体",
+     "zh": "寒武纪将利润激增变成库存考验"
     },
     {
      "title": "四方激辩：是泡沫狂欢，还是时代革命？",
@@ -1818,14 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "中国车企为什么不去菲律宾建厂"
     },
     {
-     "title": "模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄",
-     "link": "https://www.ithome.com/0/987/460.htm",
-     "pubDate": "Sat, 08 Aug 2026 23:07:19 GMT",
-     "summary": "IT之家 8 月 9 日消息，模块化、可维修电脑制造商 Framework 表示，由于一家商业智能服务提供商遭到网络攻击，黑客窃取了 Framework 客户的姓名、电子邮件地址、电话号码和实体地址。Framework 已通知所有受影响的客户。 当地时间周四，多名 Framework 用户在社交媒体上表示，他们收到了公司发来的数据泄露通知邮件。 Framework 发言人 Eric Schumacher 告诉 TechCrunch，此次数据泄露影响了“所有客户”，但拒绝透露具体受影响人数。Framework 的产品相对小众，但有估算认为，该公司迄今已经售出数十万台设备。 TechCrunch ",
-     "source": "IT之家",
-     "zh": "模块化电脑厂商 Framework 通知全部用户信息泄露：姓名、住址、电话、邮箱外泄"
-    },
-    {
      "title": "一人公司的狂欢里，赚钱的从来不是创始人",
      "link": "https://www.huxiu.com/article/4881718.html?f=rss",
      "pubDate": "Sun, 09 Aug 2026 06:51:26 +0800",
@@ -1834,10 +1842,18 @@ window.INDUSTRY_DATA = {
      "zh": "一人公司的狂欢里，赚钱的从来不是创始人"
     },
     {
+     "title": "My server is a phone now",
+     "link": "https://seg6.space/posts/phone-server/",
+     "pubDate": "Sat, 08 Aug 2026 22:49:23 +0000",
+     "summary": "Article URL: https://seg6.space/posts/phone-server/ Comments URL: https://news.ycombinator.com/item?id=49226636 Points: 12 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "我的服务器现在是电话"
+    },
+    {
      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
      "link": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
      "pubDate": "Sat, 08 Aug 2026 21:07:10 +0000",
-     "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/ Comments URL: https://news.ycombinator.com/item?id=49225918 Points: 55 # Comments: 25",
+     "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/ Comments URL: https://news.ycombinator.com/item?id=49225918 Points: 65 # Comments: 30",
      "source": "Hacker News",
      "zh": "第二次海狸袭击后，马里兰州关闭了更多坎宁安瀑布州立公园"
     },
@@ -1845,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
      "link": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
      "pubDate": "Sat, 08 Aug 2026 20:37:24 +0000",
-     "summary": "Article URL: https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf Comments URL: https://news.ycombinator.com/item?id=49225676 Points: 13 # Comments: 4",
+     "summary": "Article URL: https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf Comments URL: https://news.ycombinator.com/item?id=49225676 Points: 14 # Comments: 4",
      "source": "Hacker News",
      "zh": "数学在自然科学中的不合理有效性 [pdf]"
     },
@@ -1853,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
      "link": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
      "pubDate": "Sat, 08 Aug 2026 19:38:08 +0000",
-     "summary": "Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute Comments URL: https://news.ycombinator.com/item?id=49225139 Points: 60 # Comments: 14",
+     "summary": "Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute Comments URL: https://news.ycombinator.com/item?id=49225139 Points: 69 # Comments: 15",
      "source": "Hacker News",
      "zh": "8 月 12 日日全食的开源交互式地图"
     },
@@ -1861,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
      "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
      "pubDate": "Sat, 08 Aug 2026 18:09:31 +0000",
-     "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 451 # Comments: 211",
+     "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 471 # Comments: 223",
      "source": "Hacker News",
      "zh": "丹麦要求学生进行书面作业答辩以打击人工智能作弊"
     },
@@ -1880,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 41 # Comments: 11",
      "source": "Hacker News",
      "zh": "TinySol，一款 DOS 小型纸牌游戏"
-    },
-    {
-     "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
-     "link": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
-     "pubDate": "Sat, 08 Aug 2026 17:27:52 +0000",
-     "summary": "Article URL: https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country Comments URL: https://news.ycombinator.com/item?id=49223845 Points: 179 # Comments: 86",
-     "source": "Hacker News",
-     "zh": "亚马逊正在制造该国最大的污染源"
     },
     {
      "title": "DeepMind 的 WeatherNext 模型在飓风预测上取得突破",
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.",
      "source": "WIRED",
      "zh": "有史以来拍摄的最清晰的太阳图像揭示了一个隐藏的现象"
-    },
-    {
-     "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
-     "link": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
-     "pubDate": "Sat, 08 Aug 2026 12:00:00 +0000",
-     "summary": "The Korea Aerospace Research Institute shared images that show the gash on the surface. It’s pretty small.",
-     "source": "WIRED",
-     "zh": "这是 SpaceX 火箭在月球上留下的陨石坑的第一张图像"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Did Caviar just spill the beans on the iPhone Ultra and the iPhone 18 Pro design, specs and release date?",
+     "link": "https://www.gsmarena.com/did_caviar_just_spill_the_beans_on_the_iphone_ultra_and_the_iphone_18_pro_design_specs_and_release_d-news-74082.php",
+     "pubDate": "Sun, 09 Aug 2026 01:31:02 +0200",
+     "summary": "It’s not uncommon for Caviar to kick off pre-orders on customized unannounced hardware. That has happened in the past. However, this time the way things are laid out seems a bit bold even for the Russian company. It already has its custom designs listed for both the iPhone 18 Pro/Pro Max and the muc",
+     "source": "GSMArena",
+     "zh": "Caviar 刚刚透露了 iPhone Ultra 和 iPhone 18 Pro 的设计、规格和发布日期吗？"
+    },
     {
      "title": "iOS 27: The easiest beta to forget about",
      "link": "https://9to5mac.com/2026/08/08/ios-27-the-easiest-beta-to-forget-about/",
@@ -2234,14 +2242,6 @@ window.INDUSTRY_DATA = {
      "zh": "刚刚拿到 Galaxy Z Fold 8？这是您需要做的前 5 件事"
     },
     {
-     "title": "Samsung India increases the prices of entry-level Galaxy A, F and M-series models",
-     "link": "https://www.gsmarena.com/samsung_india_increases_the_prices_of_entrylevel_galaxy_a_f_and_mseries_models-news-74066.php",
-     "pubDate": "Sat, 08 Aug 2026 10:34:02 +0200",
-     "summary": "Analysts were warning about this – entry-level smartphones are the most sensitive to increases in component costs. And we’re now seeing the effects of the RAM and storage shortages as Samsung India has quietly increased the prices of its entry-level models. This affects the low-end (06, 07 and 17) m",
-     "source": "GSMArena",
-     "zh": "三星印度提高入门级 Galaxy A、F 和 M 系列机型的价格"
-    },
-    {
      "title": "就内容创作而言，说话还是替代不了打字",
      "link": "https://sspai.com/post/112901",
      "pubDate": "Sat, 08 Aug 2026 13:11:00 +0800",
@@ -2258,28 +2258,20 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "宇树科技，明日申购",
-     "link": "http://finance.eastmoney.com/news/1354,202608093835881663.html",
-     "pubDate": "Sun, 09 Aug 2026 07:17:00 +0800",
-     "summary": "重要新闻提示 宇树科技 ：8月10日将开启网上、网下申购 阳光电源 ：公司目前在美销售的光伏 逆变器 、储能系统不受FCC政策影响 今年上半年人形 机器人 领域新设企业11.6万户 财经新闻 1. 市场监管总局8月8日公布数据显示，2026年上半年 新产业 新赛道相关企业持续增动能，部分前沿领域呈现爆发式增长，生成式 人工智能 领域新设企业5.5万户，同比增长28.0%；人形 机器人 领域新设企业11.6万户，同比增长9.5%。服务业相关经营主体亮点突出，高技术服务业加速壮大，信息传输和软件技术服务业新设企业32.2万户，同比增长3.3%。制造业企业转型加快，截至6月底，高技术制造业企业总量达",
-     "source": "东方财富股票",
-     "zh": "宇树科技，明日申购"
+     "title": "打赏十万元，只想弄明白一个问题——“爱播”对我是否真心",
+     "link": "http://www.eeo.com.cn/2026/0809/991165.shtml",
+     "pubDate": "Sun, 09 Aug 2026 07:39:11 +0800",
+     "summary": "叶肆越始终记得帮她的爱播（粉丝对自己特别喜欢的主播称为“爱播”——记者注）“十月”打6连胜那天，十月的新团刚开播，直播间有1600人，十月一上台，数字掉到了800。 为了让十月在新团站得住脚，叶肆越借着上厕所的名义偷溜到公司楼下，那天太阳很大，她用手挡着手机屏幕的反光，连连敲击着手机屏幕，不到半小时，她在直播间里打赏了5000元，那也是十月第一次收到“嘉年华”（直播平台上单价最高的虚拟礼物之一， 单个...",
+     "source": "经济观察网",
+     "zh": "打赏十万元，只想弄明白一个问题——“爱播”对我是否真心"
     },
     {
-     "title": "美副总统称美伊冲突仍处于“博弈中段”",
-     "link": "http://finance.eastmoney.com/news/1351,202608093835881366.html",
-     "pubDate": "Sun, 09 Aug 2026 07:16:53 +0800",
-     "summary": "当地时间8月8日，美国副总统万斯在采访中谈及伊朗局势时表示，美国同伊朗正在对话，美伊冲突仍处于“博弈中段”。 万斯说，过去几天与伊朗的谈判已经取得了一些进展。他称，美国预计海湾地区的石油和 天然气 供应量将维持在冲突前的水平，并称“伊朗方面也告诉我们，他们将会这样做”。 万斯说，美方当前最关注的是“尽可能增加通过霍尔木兹海峡运出的石油和 天然气 数量”，美方正在观察伊朗是否愿意作出必要的长期改变，从而与美国建立更好的关系。如果伊朗不愿意，美方会继续施压。 万斯还说，美方试图建立一套航行机制，确保过往船只能够安全通行。其中包括扫雷工作，同时“也需要伊朗方面做出承诺，保证不向商船开火”。（央视新闻",
-     "source": "东方财富股票",
-     "zh": "美副总统称美伊冲突仍处于“博弈中段”"
-    },
-    {
-     "title": "俄称打击乌无人机仓库 乌称袭击俄方炼油厂",
-     "link": "http://finance.eastmoney.com/news/1351,202608093835881264.html",
-     "pubDate": "Sun, 09 Aug 2026 07:16:51 +0800",
-     "summary": "当地时间8日，俄罗斯国防部通报称，过去24小时，俄军在哈尔科夫地区控制了1个定居点，打击了乌军使用的交通、能源和 物流 基础设施，俄军还打击了乌克兰 港口 的军用仓库和为乌军运送军用物资的海上船只。俄军防空部队则拦截了多枚火箭弹、导弹和超过800架 无人机 。 同一天，乌克兰武装部队总参谋部通报称，乌军当天凌晨打击了2座俄方炼油厂。它们分别位于俄罗斯克拉斯诺达尔边疆区和萨马拉州。另外，乌军还打击了黑海一座俄方自升式钻井平台上的一个技术监视哨所。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "俄称打击乌无人机仓库 乌称袭击俄方炼油厂"
+     "title": "$400,000 in Employer Stock Inside Your 401(k)? This Tax Rule Could Save You $65,000 Before You Retire",
+     "link": "https://finance.yahoo.com/markets/options/articles/400-000-employer-stock-inside-233905732.html",
+     "pubDate": "2026-08-08T23:39:05Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "您的 401(k) 计划中包含 400,000 美元的雇主股票？这项税收规则可以在您退休前节省 65,000 美元"
     },
     {
      "title": "Verizon mobile service down for thousands of customers in the U.S., Downdetector shows",
@@ -2296,38 +2288,6 @@ window.INDUSTRY_DATA = {
      "summary": "更多报道请扫二维码 问：日前，交通运输部介绍“十五五”时期交通建设规划时表示，要打造一个贯通我国沿边沿海的“黄金大外环”。什么是“黄...",
      "source": "经济观察网",
      "zh": "“黄金大外环”怎么建"
-    },
-    {
-     "title": "Three Griffon Executives Sold Into an Earnings Pop. Here's What to Know",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/three-griffon-executives-sold-earnings-231030854.html",
-     "pubDate": "2026-08-08T23:10:30Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "格里芬公司的三名高管因盈利增长而被抛售。以下是您需要了解的内容"
-    },
-    {
-     "title": "新疆阿克苏地区库车市发生3.2级地震，震源深度16千米",
-     "link": "http://finance.eastmoney.com/news/11790,202608093835881183.html",
-     "pubDate": "Sun, 09 Aug 2026 07:07:33 +0800",
-     "summary": "中国地震台网正式测定：8月9日1时12分在新疆阿克苏地区库车市（北纬41.18度，东经83.72度）发生3.2级地震，震源深度16千米。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "新疆阿克苏地区库车市发生3.2级地震，震源深度16千米"
-    },
-    {
-     "title": "暴雨强对流双预警！江浙沪皖等地周末出行注意了",
-     "link": "http://finance.eastmoney.com/news/11790,202608093835881022.html",
-     "pubDate": "Sun, 09 Aug 2026 07:01:17 +0800",
-     "summary": "中央气象台今晨6时继续发布暴雨橙色预警和强对流蓝色预警：浙江东部沿海部分地区有特大暴雨（250~440毫米），江浙沪皖等地有大暴雨。 暴雨橙色预警 预计，8月9日8时至10日8时，浙江、上海、江苏南部、安徽南部、福建北部、台湾岛以及海南西部、云南中南部和东北部等地有大到暴雨，其中，江苏东南部、安徽东南部、上海大部、浙江大部等地有大暴雨，浙江东部沿海部分地区有特大暴雨（250~440毫米）。上述部分地区伴有短时强降水（最大小时降雨量40~70毫米，局地可超过80毫米），局地有雷暴大风等强对流天气。 强对流天气蓝色预警 预计8月9日8时至10日8时，内蒙古东北部和中部偏南地区、华北西北部、黄淮东部",
-     "source": "东方财富股票",
-     "zh": "暴雨强对流双预警！江浙沪皖等地周末出行注意了"
-    },
-    {
-     "title": "黎巴嫩方面称以军部队重返黎南部一处“试点区域”",
-     "link": "http://finance.eastmoney.com/news/1351,202608093835880939.html",
-     "pubDate": "Sun, 09 Aug 2026 07:00:10 +0800",
-     "summary": "黎巴嫩方面8日称，一支以色列军队于当天凌晨重新进入了此前作为其撤军“试点区域”之一的西扎乌塔尔镇，并在镇广场附近建起了一座新的土墙。当地居民表示，这是以军方面违反此前美、黎、以三方签订的框架协议的又一例证。 7月14日，为落实黎以双方在美国斡旋下达成的框架协议，黎以双方确定在黎南部设置“试点区域”。根据协议，以军将从“试点区域”撤出，黎军队从以军部队手中接管相关地区。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "黎巴嫩方面称以军部队重返黎南部一处“试点区域”"
     },
     {
      "title": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
@@ -2496,6 +2456,46 @@ window.INDUSTRY_DATA = {
      "summary": "南方财经记者陈梦璇 向海图强，广东耕海牧渔明确新的着力点。 8月7日，全省现代化海洋牧场全产业链建设视频会在广州召开，部署推进现代化海洋牧场全产业链建设工作，为广东省海洋牧场升级划定了清晰的落地路径：让国企挑大梁，全链建体系。 到2030年，全省国资国企参与项目投资总额将超1000亿元，通过推动项目储备转化为有效投资并促进项目落地，培育现代化海洋牧场万亿级产业集群。 广东海洋牧场...",
      "source": "经济观察网",
      "zh": "广东海洋牧场“国资领航”   重仓千亿布局深远海"
+    },
+    {
+     "title": "台风“白海豚”逼近，多地部署防御工作，部分列车停运，多家景区调整运营，多个演唱会紧急取消",
+     "link": "http://www.eeo.com.cn/2026/0808/991123.shtml",
+     "pubDate": "Sat, 08 Aug 2026 22:26:05 +0800",
+     "summary": "中新经纬8月8日电 今年第13号台风“白海豚”携风裹雨直扑东海沿岸。多地发文部署台风“白海豚”防御工作，铁路部门停运部分列车，上海轮渡全线停航，多家景区调整运营，多个演唱会紧急取消。 农业农村部部署台风“白海豚”防范应对工作 据农业农村部网站消息，农业农村部日前就做好台风“白海豚”防范应对工作作出部署，要求各地强化责任落实、监测预警、防范应对、灾后恢复和指导服务，努力减轻灾害影响，保障人民...",
+     "source": "经济观察网",
+     "zh": "台风“白海豚”逼近，多地部署防御工作，部分列车停运，多家景区调整运营，多个演唱会紧急取消"
+    },
+    {
+     "title": "飞天茅台自营门店价格再度上调，终端售价已涨至1760元/瓶",
+     "link": "http://www.eeo.com.cn/2026/0808/991115.shtml",
+     "pubDate": "Sat, 08 Aug 2026 21:52:10 +0800",
+     "summary": "【飞天茅台自营门店价格再度上调，终端售价已涨至1760元/瓶】 今日有消息称，飞天茅台自营店售价已涨至1753元/瓶，7月底该产品在自营门店刚刚上调至1719元/瓶。有经销商向记者表示，当前飞天茅台终端售价已涨至1760元/瓶。这已经是茅台自营门店今年第二次独立提价。7月底，记者从茅台自营门店处获悉，公司自营体系飞天茅台酒零售价调整为1719元/瓶。（每日经济新闻）",
+     "source": "经济观察网",
+     "zh": "飞天茅台自营门店价格再度上调，终端售价已涨至1760元/瓶"
+    },
+    {
+     "title": "债券投顾“紧箍咒”来了：25%持仓红线，9条高压线碰不得",
+     "link": "http://www.eeo.com.cn/2026/0808/991114.shtml",
+     "pubDate": "Sat, 08 Aug 2026 21:52:05 +0800",
+     "summary": "21世纪经济报道 记者 崔文静 8月7日，中证协发布《证券公司债券投资顾问业务管理规则》，这是中证协首次针对债券投顾业务制定的专门性自律规则。新规设置6个月过渡期，将于2027年2月5日正式实施。 新规直面行业痛点，构建起覆盖人员、业务、风控、内控的全链条自律体系。 新规扭转行业“唯收益论”的考核导向，明确禁止将客户超额收益直接作为债券投顾人员的业绩考核指标；同时列明九类执业禁止行为，严禁代客操...",
+     "source": "经济观察网",
+     "zh": "债券投顾“紧箍咒”来了：25%持仓红线，9条高压线碰不得"
+    },
+    {
+     "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett&apos;s massive cash hoard",
+     "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+     "pubDate": "Sat, 08 Aug 2026 13:28:00 GMT",
+     "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
+     "source": "CNBC",
+     "zh": "伯克希尔上季度盈利增长，首席执行官格雷格·阿贝尔开始动用巴菲特的巨额现金储备"
+    },
+    {
+     "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+     "link": "https://wallstreetcn.com/articles/3778993",
+     "pubDate": "Sat, 08 Aug 2026 21:12:23 +0800",
+     "summary": "伯克希尔哈撒韦公司二季度运营业绩稳健增长，净利润翻倍，投资收益是主要推手。此外，当季净买入股票约198亿美元，其中包括斥资约100亿美元买入Alphabet普通股，以及约45亿美元用于回购伯克希尔自身股份。 8月8日，伯克希尔公布的最新数据显示，受益于股票投资组合未实现收益大幅回升， 二季度GAAP口径净利润同比几乎翻倍，达256.67亿美元 ，较上年同期的123.70亿美元增长约107%。上半年净利润为357.73亿美元， 同比增长约111% 。 与此同时， 公司二季度回购约45亿美元自家股票，为股东带来了自2021年以来规模最大的季度股东回报， 远高于一季度的2.35亿美元。上半年累计回购",
+     "source": "华尔街见闻",
+     "zh": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/9 02:52:20",
+ "generated_at": "2026/8/9 03:30:16",
  "recent_days": 7,
  "industries": [
   {
@@ -10,12 +10,28 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
+     "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
+     "link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
+     "pubDate": "Sat, 08 Aug 2026 17:04:39 +0000",
+     "summary": "Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second o",
+     "source": "MarkTechPost",
+     "zh": "Pokee AI 发布 Pokee-Isaac 28B：专为在客户边界内运行而构建的 10M 代币上下文代理模型"
+    },
+    {
      "title": "重磅！苹果国行AI突然发布，首次官宣牵手阿里，Mac用上千问了",
      "link": "https://zhidx.com/p/583346.html",
      "pubDate": "Sat, 08 Aug 2026 23:00:25 +0800",
      "summary": "智东西 编译 | 毕伟豪 编辑 | 云鹏 智东西8月8日消息，今日，苹果官方悄悄更新了Mac使用手册，新增《在Mac上配合Apple智能使用千问》这一章节，这是苹果首次官方确认关于国行Apple智能合作的具体信息，意味着苹果国行Apple智能正式进入落地环节。 此前， 智东西从阿里巴巴方面获悉， 阿里千问将作为AI能力集成至 Apple智能 ，为iOS、iPadOS、macOS和visionOS的中国用户带来智能体验。用户无需在应用间切换，即可在苹果设备上直接体验千问的文本与图像理解、内容生成等能力。 而此次Mac使用手册的更新，是苹果官方首次确认这一消息，并对具体合作细节进行了公开展示。 一",
      "source": "智东西",
      "zh": "重磅！苹果国行AI突然发布，首次官宣牵手阿里，Mac用上千问了"
+    },
+    {
+     "title": "Designing Scalable Interactive Visualizations with Reflex XY: Composition, Million-Point Rendering, Streaming, Custom Marks, and Export",
+     "link": "https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/",
+     "pubDate": "Sat, 08 Aug 2026 09:42:18 +0000",
+     "summary": "Dive into the advanced visualization capabilities of the Reflex XY Python library. This tutorial guides you through building high-performance, interactive charts—from handling million-point datasets and real-time streaming to creating custom mark plugins and exporting publication-ready visuals. The ",
+     "source": "MarkTechPost",
+     "zh": "使用 Reflex XY 设计可扩展的交互式可视化：合成、百万点渲染、流式传输、自定义标记和导出"
     },
     {
      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
@@ -40,6 +56,14 @@ window.INDUSTRY_DATA = {
      "summary": "「我，Jeff Dean，打钱」",
      "source": "量子位",
      "zh": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱"
+    },
+    {
+     "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size",
+     "link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
+     "pubDate": "Sat, 08 Aug 2026 04:36:26 +0000",
+     "summary": "Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single yes/no question instead of a fixed harm taxonomy. Operators supply the policy as a plain-language query at inference time and get back a calibrated saf",
+     "source": "MarkTechPost",
+     "zh": "Mistral AI 发布 Shieldstral 1.0 3B：开放权重策略自适应多模态安全分类器，匹配 7 倍大小的模型"
     },
     {
      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
@@ -98,12 +122,36 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度"
     },
     {
+     "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
+     "link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
+     "pubDate": "Fri, 07 Aug 2026 21:52:48 +0000",
+     "summary": "Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets — Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, H",
+     "source": "MarkTechPost",
+     "zh": "腾讯云开源TencentDB Agent Memory v2.0：面向AI Coding Agent的团队级内存中心"
+    },
+    {
      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
      "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000",
      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
      "source": "TechCrunch AI",
      "zh": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具"
+    },
+    {
+     "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
+     "link": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
+     "pubDate": "Fri, 07 Aug 2026 21:13:38 +0000",
+     "summary": "In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python 3.12 environment, installing the required packages, and performing offline PDF text extraction without relying on a GPU or external API key. We then ",
+     "source": "MarkTechPost",
+     "zh": "使用 NVIDIA NeMo Retriever、托管 NIM、LanceDB、重新排名和接地生成构建多模式 RAG 管道"
+    },
+    {
+     "title": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class",
+     "link": "https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/",
+     "pubDate": "Fri, 07 Aug 2026 20:42:02 +0000",
+     "summary": "NVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-agnostic Python framework for building AI agents. Agent development today is split across prompt templates, tool schemas, callback code, and workflow graphs. NOOA collapses all of it into one Python class. Methods are the act",
+     "source": "MarkTechPost",
+     "zh": "NVIDIA AI 发布 NOOA：一个面向对象的 Python 框架，可将 AI 代理转变为单个 Python 类"
     },
     {
      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
@@ -200,54 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 2026年，AI视频生成工具，究竟能把一个创作者的能力推到哪一步？ 智东西8月7日报道，近日，美图旗下AI短剧创作工具RoboNeo迎来了全新升级，在人像肤质以及视频生成可控性方面做了重点优化。 就在刚刚，RoboNeo还接入了Seedance 2.5模型，在PC端限时5折优惠。 先来看一个小片段： 这是我在RoboNeo中生成的一段视频。从人物素材、镜头设计到最终成片，我没有使用传统剪辑软件，而是在RoboNeo的画布中，通过手动调试与AI结合的方式完成了整个制作流程。 这只是一次镜头实验，事实上，近期完成升级的Rob",
      "source": "智东西",
      "zh": "我，用美图Agent，一句话拍出AI短剧"
-    },
-    {
-     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-     "link": "https://openai.com/index/hsp-gruppe",
-     "pubDate": "Fri, 07 Aug 2026 09:00:00 GMT",
-     "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-     "source": "OpenAI",
-     "zh": "HSP GRUPPE 如何构建人工智能税务咨询能力"
-    },
-    {
-     "title": "GPT-5.6免费了？Luna免费文字聊天，还加入思考模式",
-     "link": "https://zhidx.com/p/583057.html",
-     "pubDate": "Fri, 07 Aug 2026 15:12:35 +0800",
-     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西8月7日消息，今天凌晨，OpenAI宣布，ChatGPT免费用户和Go用户的默认模型将调整为 GPT-5.6 Luna ，用户可 无限量使用 该模型进行文字聊天，但文件上传、图片生成和其他工具仍有限额。此外，OpenAI还将新增 “Thinking”按钮 ，可以让模型投入更多时间进行分析。 ▲OpenAI宣布用户可用GPT-5.6 Luna进行无限次文字聊天（图源：X） 对于Plus和Pro用户，OpenAI 更新了聊天场景中的GPT-5.6 Sol ，使其回答更加聚焦，并提高事实准确性。用户还可以通过新增的滑块，调节ChatGPT回答问题时的",
-     "source": "智东西",
-     "zh": "GPT-5.6免费了？Luna免费文字聊天，还加入思考模式"
-    },
-    {
-     "title": "实时视频版「Nano Banana」来了！160亿参数重磅开源",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=1&sn=b814cb5b87c9cb3677ac63eb1016e090",
-     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "实时视频版「Nano Banana」来了！160亿参数重磅开源"
-    },
-    {
-     "title": "AI推翻80年数学猜想，菲尔兹奖得主一夜没睡：以为要出局",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=2&sn=066eaef430c7d9307d33ebf126ba348c",
-     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "AI推翻80年数学猜想，菲尔兹奖得主一夜没睡：以为要出局"
-    },
-    {
-     "title": "600倍加速，720p视频实时生成！单卡也能带的动14B模型",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=3&sn=ed0d03f1c359c897e017abdeee7c1bcb",
-     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "600倍加速，720p视频实时生成！单卡也能带的动14B模型"
-    },
-    {
-     "title": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048906&idx=1&sn=f6af0867a0c72211fb12bdf0f7ff43a5",
-     "pubDate": "Fri, 07 Aug 2026 09:02:00 +0800",
-     "summary": "把强化学习后训练做成产品，这是Pyromind给Agent时代的解答",
-     "source": "机器之心",
-     "zh": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方"
     }
    ]
   },
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
+     "link": "https://oilprice.com/Energy/Energy-General/Airlines-Scramble-for-Jet-Fuel-as-Hormuz-Disruption-Drags-On.html",
+     "pubDate": "Sat, 08 Aug 2026 14:00:00 -0500",
+     "summary": "The months-long closure of the Strait of Hormuz has led to severe fuel shortages around the globe, as companies battle to continue operations. Airlines have been hit hard as they struggle to obtain enough jet fuel to maintain their regular flight schedules. The U.S.-Israeli war on Iran led to the cl",
+     "source": "OilPrice",
+     "zh": "随着霍尔木兹海峡中断的持续，航空公司争相购买航空燃油"
+    },
+    {
      "title": "Berkeley Lab's New Fusion Materials Breakthrough, Explained",
      "link": "https://oilprice.com/Energy/Energy-General/Berkeley-Labs-New-Fusion-Materials-Breakthrough-Explained.html",
      "pubDate": "Sat, 08 Aug 2026 12:00:00 -0500",
@@ -952,14 +960,6 @@ window.INDUSTRY_DATA = {
      "summary": "A far-reaching new tariff on solar imports promises to both raise the cost of installing the clean energy source and strengthen efforts to reshore solar manufacturing. The White House announced the new tariffs Thursday on imported polysilicon and related products, including silicon-based solar panel",
      "source": "Canary Media",
      "zh": "特朗普推出了新的大规模太阳能关税。这就是它的意思。"
-    },
-    {
-     "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
-     "link": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
-     "pubDate": "Fri, 07 Aug 2026 16:00:00 -0500",
-     "summary": "Global energy grids are under unprecedented stress as energy flows become more complex with the addition of intermittent energy sources and the artificial intelligence boom drives demand to new heights. Managing variable inflows and outflows of electricity while also keeping up with data center hype",
-     "source": "OilPrice",
-     "zh": "中国押注量子技术来修复其电网"
     },
     {
      "title": "With speed to power in mind, data centers are eyeing fuel cells – This Week in Cleantech",
@@ -1306,6 +1306,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly",
+     "pubDate": "Sat, 08 Aug 2026 19:19:16 +0000",
+     "summary": "SpaceX launched another batch of its Starlink internet satellites to orbit today (Aug. 8) from California's scenic central coast.",
+     "source": "Space.com",
+     "zh": "SpaceX 从加利福尼亚州发射 24 颗 Starlink 卫星进入轨道（视频）"
+    },
+    {
      "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
      "link": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/",
      "pubDate": "Sat, 08 Aug 2026 17:45:40 +0000",
@@ -1338,14 +1346,6 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX 西海岸发射潮继续进行“星链”任务"
     },
     {
-     "title": "On this day in space! Aug. 8, 1977: Soviet Union's Salyut 5 reconnaissance space station burns up in Earth's atmosphere",
-     "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026",
-     "pubDate": "Sat, 08 Aug 2026 14:00:00 +0000",
-     "summary": "Salyut 5 was a Soviet space station and part of the highly-secretive Almaz military space station program.",
-     "source": "Space.com",
-     "zh": "在太空的这一天！ 1977 年 8 月 8 日：苏联礼炮 5 号侦察空间站在地球大气层中燃烧"
-    },
-    {
      "title": "Don't miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9",
      "link": "https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026",
      "pubDate": "Sat, 08 Aug 2026 14:00:00 +0000",
@@ -1354,20 +1354,20 @@ window.INDUSTRY_DATA = {
      "zh": "8 月 9 日黎明前，不要错过靠近火星红光的新月"
     },
     {
+     "title": "On this day in space! Aug. 8, 1977: Soviet Union's Salyut 5 reconnaissance space station burns up in Earth's atmosphere",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026",
+     "pubDate": "Sat, 08 Aug 2026 14:00:00 +0000",
+     "summary": "Salyut 5 was a Soviet space station and part of the highly-secretive Almaz military space station program.",
+     "source": "Space.com",
+     "zh": "在太空的这一天！ 1977 年 8 月 8 日：苏联礼炮 5 号侦察空间站在地球大气层中燃烧"
+    },
+    {
      "title": "Yes, North America gets a solar eclipse on Aug. 12. Here's where and when to see it",
      "link": "https://www.space.com/stargazing/solar-eclipses/yes-north-america-gets-a-solar-eclipse-on-aug-12-heres-where-and-when-to-see-it",
      "pubDate": "Sat, 08 Aug 2026 12:00:00 +0000",
      "summary": "The Aug. 12 eclipse won't rival 2024's Great American Eclipse, but millions across the U.S. and Canada will still see the moon take a bite out of the sun.",
      "source": "Space.com",
      "zh": "是的，北美将在 8 月 12 日看到日食。以下是观看日食的地点和时间"
-    },
-    {
-     "title": "Sky-Watcher SolarQuest mount head review",
-     "link": "https://www.space.com/stargazing/skywatching-kit/sky-watcher-solarquest-mount-head-review",
-     "pubDate": "Sat, 08 Aug 2026 09:00:00 +0000",
-     "summary": "A brilliantly simple grab-and-go solar mount that finds and follows the sun for you, Sky-Watcher’s SolarQuest is perfect for small-scope solar astronomy and solar eclipses.",
-     "source": "Space.com",
-     "zh": "Sky-Watcher SolarQuest 安装头评测"
     },
     {
      "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
@@ -1765,7 +1765,7 @@ window.INDUSTRY_DATA = {
      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
      "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
      "pubDate": "Sat, 08 Aug 2026 18:09:31 +0000",
-     "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 38 # Comments: 12",
+     "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 133 # Comments: 55",
      "source": "Hacker News",
      "zh": "丹麦要求学生进行书面作业答辩以打击人工智能作弊"
     },
@@ -1781,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "TinySol, a tiny solitaire game for DOS",
      "link": "https://classicbits.net/coding-and-software/my-software/monosol/",
      "pubDate": "Sat, 08 Aug 2026 17:42:40 +0000",
-     "summary": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 7 # Comments: 3",
      "source": "Hacker News",
      "zh": "TinySol，一款 DOS 小型纸牌游戏"
     },
@@ -1789,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
      "link": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
      "pubDate": "Sat, 08 Aug 2026 17:27:52 +0000",
-     "summary": "Article URL: https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country Comments URL: https://news.ycombinator.com/item?id=49223845 Points: 23 # Comments: 4",
+     "summary": "Article URL: https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country Comments URL: https://news.ycombinator.com/item?id=49223845 Points: 49 # Comments: 13",
      "source": "Hacker News",
      "zh": "亚马逊正在制造该国最大的污染源"
     },
@@ -1805,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "LinkedIn Feed Blocker",
      "link": "https://github.com/andrewpollack/linkedin-feed-blocker",
      "pubDate": "Sat, 08 Aug 2026 16:49:07 +0000",
-     "summary": "Article URL: https://github.com/andrewpollack/linkedin-feed-blocker Comments URL: https://news.ycombinator.com/item?id=49223475 Points: 52 # Comments: 39",
+     "summary": "Article URL: https://github.com/andrewpollack/linkedin-feed-blocker Comments URL: https://news.ycombinator.com/item?id=49223475 Points: 81 # Comments: 47",
      "source": "Hacker News",
      "zh": "LinkedIn 提要拦截器"
     },
@@ -1829,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP",
      "link": "https://toonk.io/index.html",
      "pubDate": "Sat, 08 Aug 2026 16:07:00 +0000",
-     "summary": "Article URL: https://toonk.io/index.html Comments URL: https://news.ycombinator.com/item?id=49223105 Points: 7 # Comments: 1",
+     "summary": "Article URL: https://toonk.io/index.html Comments URL: https://news.ycombinator.com/item?id=49223105 Points: 11 # Comments: 6",
      "source": "Hacker News",
      "zh": "使用 AF_XDP 在 Go 中使用 Wireblast 构建 100 Gbps 数据包生成器"
     },
@@ -1837,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Fastmail offers EU data region",
      "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
      "pubDate": "Sat, 08 Aug 2026 16:04:51 +0000",
-     "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/ Comments URL: https://news.ycombinator.com/item?id=49223082 Points: 112 # Comments: 53",
+     "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/ Comments URL: https://news.ycombinator.com/item?id=49223082 Points: 149 # Comments: 74",
      "source": "Hacker News",
      "zh": "Fastmail 提供欧盟数据区域"
     },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "What new Google Messages features are rolling out [August 2026]",
+     "link": "https://9to5google.com/2026/08/08/new-google-messages-features/",
+     "pubDate": "Sat, 08 Aug 2026 19:15:00 +0000",
+     "summary": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long time to actually launch new functionality in stable. From various reports, Google announcements , and devices we’ve checked, this is the current state of Messages.",
+     "source": "9to5Google",
+     "zh": "Google Messages 即将推出哪些新功能 [2026 年 8 月]"
+    },
     {
      "title": "Deals: the Galaxy Z Fold8, Z Fold8 Ultra and Z Flip8 are now available",
      "link": "https://www.gsmarena.com/deals_the_galaxy_z_fold8_z_fold8_ultra_and_z_flip8_are_now_available-news-74059.php",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "WhatsApp is bringing its dedicated parental controls section to the iPhone, making the feature easier for parents to find and set up. Here are the details.",
      "source": "9to5Mac",
      "zh": "WhatsApp 让家长管理的帐户在 iPhone 上更容易设置"
-    },
-    {
-     "title": "Pixelated 111: Primetime prep for Made By Google",
-     "link": "https://9to5google.com/2026/08/07/pixelated-111-primetime-prep-for-made-by-google/",
-     "pubDate": "Fri, 07 Aug 2026 21:37:17 +0000",
-     "summary": "Welcome to Pixelated episode 111. This week, Damien, Abner, and Will preview what to expect at next week’s official unveiling of the Pixel 11 series, including final rumors, leaks, expectations, and some very wrong guesses on who the host might be. Enjoy the episode? You can listen to our brand new ",
-     "source": "9to5Google",
-     "zh": "Pixelated 111：为 Made By Google 黄金时段做准备"
     }
    ]
   },
@@ -2257,6 +2257,46 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Dow Jones Futures: What To Do As Market Revs Up; Buffett's Berkshire Beats With Cisco, Lumentum Due",
+     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+     "pubDate": "2026-08-08T19:03:50Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "道琼斯期货：随着市场上涨该怎么办；巴菲特的伯克希尔击败思科，Lumentum到期"
+    },
+    {
+     "title": "Materion Q2 Earnings Call Highlights",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/materion-q2-earnings-call-highlights-190349490.html",
+     "pubDate": "2026-08-08T19:03:49Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Materion 第二季度财报电话会议亮点"
+    },
+    {
+     "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
+     "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+     "pubDate": "Sat, 08 Aug 2026 19:00:00 GMT",
+     "summary": "“I plan to retire at the end of my 70th year and transition to Medicare.”",
+     "source": "MarketWatch",
+     "zh": "“我正处于收入高峰期”：我已经工作到 70 岁以上了。这会有助于增加我的社会保障吗？"
+    },
+    {
+     "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
+     "link": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
+     "pubDate": "Sat, 08 Aug 2026 19:00:00 GMT",
+     "summary": "Timing is everything when balancing retirement distributions and moving across state lines.",
+     "source": "MarketWatch",
+     "zh": "当我们在佛罗里达州和新英格兰买房时，如何才能用 230 万美元的积蓄最大限度地减少退休时的税收？"
+    },
+    {
+     "title": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
+     "link": "https://finance.yahoo.com/technology/ai/articles/tenable-tenb-widens-ai-security-185944892.html",
+     "pubDate": "2026-08-08T18:59:44Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Tenable (TENB) 在利润出现拐点之际扩大其人工智能安全网络"
+    },
     {
      "title": "Apple brings Alibaba's Qwen AI model to Mac users in China",
      "link": "https://seekingalpha.com/news/4629651-apple-lets-mac-link-alibabas-ai-model-china?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2280,6 +2320,14 @@ window.INDUSTRY_DATA = {
      "summary": "当地时间8日，乌克兰总统泽连斯基结束对塞尔维亚为期两天的正式访问。这是乌克兰国家元首时隔8年再次访问塞尔维亚。期间，两国元首举行会晤，双方同意深化经贸合作，并扩大基础设施和人道主义援助领域合作。 双方当天在贝尔格莱德共同举行新闻发布会。塞尔维亚总统武契奇在会上表示，塞方支持根据《联合国宪章》和有关联合国决议维护乌克兰的领土完整，并将加大力度扩大双边贸易。 武契奇说，去年塞乌贸易额约为4.5亿美元，今年前6个月已达到约3.21亿美元。双方将进一步加强农业、能源等领域合作。他还表示，希望双方携手开拓第三方市场，尤其是非洲和亚洲市场。 泽连斯基在发布会上感谢塞尔维亚在医疗和能源领域提供人道主义援助，",
      "source": "东方财富股票",
      "zh": "武契奇会晤泽连斯基 双方同意深化经贸合作"
+    },
+    {
+     "title": "LegalZoom (LZ) Integrates Microsoft Copilot Amid Growth Shifts",
+     "link": "https://finance.yahoo.com/small-business/articles/legalzoom-lz-integrates-microsoft-copilot-183004346.html",
+     "pubDate": "2026-08-08T18:30:04Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "LegalZoom (LZ) 在增长转变中集成 Microsoft Copilot"
     },
     {
      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
@@ -2306,28 +2354,12 @@ window.INDUSTRY_DATA = {
      "zh": "“我和我的妻子都退休了”：我们是否会动用 230 万美元的基金以 2.9% 的利率偿还 30 万美元的抵押贷款？"
     },
     {
-     "title": "BJ's Wholesale CEO Sells $7.3 Million Stock After Option Exercise",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/bjs-wholesale-ceo-sells-7-181702751.html",
-     "pubDate": "2026-08-08T18:17:02Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "BJ's Wholesale 首席执行官在行使期权后出售价值 730 万美元的股票"
-    },
-    {
      "title": "沙特、土耳其和巴基斯坦签署共同防务协议 强调不针对特定国家",
      "link": "http://finance.eastmoney.com/news/1351,202608093835873067.html",
      "pubDate": "Sun, 09 Aug 2026 02:11:25 +0800",
      "summary": "在中东地区局势动荡加剧的背景下，地区防务局势迎来新的变化。7日，沙特阿拉伯、土耳其与巴基斯坦三国领导人在沙特正式签署了《麦加共同防务协议》；该协议规定，对三国中任何一国的武装攻击将被视为对三国全体的攻击。这一协议的签署，对地区局势有怎样的影响？ 总台记者王政： 针对这一协定，三方官方均强调其‘防御性’与‘开放性’。土耳其及沙特方面明确表示，该协定不针对任何特定国家，也不涉及核武器合作。值得注意的是，作为北约重要成员国，土耳其多次强调该协定与其国际义务并不冲突。不论是深化中东多边合作，还是呼吁融入欧洲防务，其核心逻辑都是强化互补性的安全机制，而非建立对抗性的军事阵营。 专家：中东国家对美提供安全",
      "source": "东方财富股票",
      "zh": "沙特、土耳其和巴基斯坦签署共同防务协议 强调不针对特定国家"
-    },
-    {
-     "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
-     "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
-     "pubDate": "Sat, 08 Aug 2026 17:58:00 GMT",
-     "summary": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
-     "source": "MarketWatch",
-     "zh": "目标日期基金是否足够激进，足以为美国人提供终生的退休储蓄？"
     },
     {
      "title": "Lumen (LUMN) Extends AWS Push While Its CEO Doubles Down",
@@ -2370,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "亨特·拜登表示乔·拜登的癌症已进一步扩散并且“非常痛苦”"
     },
     {
-     "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
-     "link": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
-     "pubDate": "Sat, 08 Aug 2026 17:23:00 GMT",
-     "summary": "Buying a house late in life means you might not reach the break-even point that would make it better financially than renting.",
-     "source": "MarketWatch",
-     "zh": "如果我在70岁时用100万美元现金买一套房子，到90岁时我会花光钱吗？"
-    },
-    {
      "title": "Canada offers concessions in a bid to avoid Trump’s 50% tariffs: NYT",
      "link": "https://seekingalpha.com/news/4629650-canada-offers-concessions-avoid-trump-tariffs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 08 Aug 2026 13:22:55 -0400",
@@ -2416,30 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "本周 12 支标准普尔 500 指数公用事业股中有 8 支超出每股收益预期：盈利记分卡"
-    },
-    {
-     "title": "Xanadu Accelerates Chip Production as Investors Await Next Catalyst in Race to Scalable Quantum Computing – Quarterly Update Report",
-     "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-accelerates-chip-production-investors-164143794.html",
-     "pubDate": "2026-08-08T16:41:43Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Xanadu 加速芯片生产，投资者等待可扩展量子计算竞赛的下一个催化剂 - 季度更新报告"
-    },
-    {
-     "title": "Why Aurora Cannabis Looks Cheaper Than Its International Growth Suggests – Quarterly Update Report",
-     "link": "https://finance.yahoo.com/healthcare/articles/why-aurora-cannabis-looks-cheaper-163923801.html",
-     "pubDate": "2026-08-08T16:39:23Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "为什么奥罗拉（Aurora）大麻看起来比其国际增长所显示的便宜 - 季度更新报告"
-    },
-    {
-     "title": "Performance raises are back for 2027, but increases will be modest",
-     "link": "https://finance.yahoo.com/economy/article/performance-raises-are-back-for-2027-but-increases-will-be-modest-163535548.html",
-     "pubDate": "2026-08-08T16:35:35Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "2027 年绩效提升将回归，但增幅将不大"
     },
     {
      "title": "Tehran says US must ‘rectify its behaviour’ before Iran reopens strait",

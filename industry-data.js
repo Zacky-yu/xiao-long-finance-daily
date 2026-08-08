@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/8 14:53:33",
+ "generated_at": "2026/8/8 15:50:29",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size",
+     "link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
+     "pubDate": "Sat, 08 Aug 2026 04:36:26 +0000",
+     "summary": "Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single yes/no question instead of a fixed harm taxonomy. Operators supply the policy as a plain-language query at inference time and get back a calibrated saf",
+     "source": "MarkTechPost",
+     "zh": "Mistral AI 发布 Shieldstral 1.0 3B：开放权重策略自适应多模态安全分类器，匹配 7 倍大小的模型"
+    },
     {
      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
      "link": "https://www.qbitai.com/2026/08/468462.html",
@@ -42,12 +50,36 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度"
     },
     {
+     "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
+     "link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
+     "pubDate": "Fri, 07 Aug 2026 21:52:48 +0000",
+     "summary": "Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets — Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, H",
+     "source": "MarkTechPost",
+     "zh": "腾讯云开源TencentDB Agent Memory v2.0：面向AI Coding Agent的团队级内存中心"
+    },
+    {
      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
      "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000",
      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
      "source": "TechCrunch AI",
      "zh": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具"
+    },
+    {
+     "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
+     "link": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
+     "pubDate": "Fri, 07 Aug 2026 21:13:38 +0000",
+     "summary": "In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python 3.12 environment, installing the required packages, and performing offline PDF text extraction without relying on a GPU or external API key. We then ",
+     "source": "MarkTechPost",
+     "zh": "使用 NVIDIA NeMo Retriever、托管 NIM、LanceDB、重新排名和接地生成构建多模式 RAG 管道"
+    },
+    {
+     "title": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class",
+     "link": "https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/",
+     "pubDate": "Fri, 07 Aug 2026 20:42:02 +0000",
+     "summary": "NVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-agnostic Python framework for building AI agents. Agent development today is split across prompt templates, tool schemas, callback code, and workflow graphs. NOOA collapses all of it into one Python class. Methods are the act",
+     "source": "MarkTechPost",
+     "zh": "NVIDIA AI 发布 NOOA：一个面向对象的 Python 框架，可将 AI 代理转变为单个 Python 类"
     },
     {
      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
@@ -186,6 +218,14 @@ window.INDUSTRY_DATA = {
      "zh": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境"
     },
     {
+     "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot",
+     "link": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/",
+     "pubDate": "Fri, 07 Aug 2026 05:42:45 +0000",
+     "summary": "Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a repository before writing anything — detecting the language, test framework, existing conventions, and the real build and test commands — then plans, writes",
+     "source": "MarkTechPost",
+     "zh": "Microsoft 开源代码测试生成器：多语言单元测试代理的任务完成率达到 92.1%，而 Stock Copilot 的任务完成率为 78.9%"
+    },
+    {
      "title": "一枚5克AI戒指，让我实现了隔空玩手机自由",
      "link": "https://zhidx.com/p/582591.html",
      "pubDate": "Fri, 07 Aug 2026 12:30:14 +0800",
@@ -208,46 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "新智元",
      "zh": "AI推翻80年数学猜想，菲尔兹奖得主一夜没睡：以为要出局"
-    },
-    {
-     "title": "600倍加速，720p视频实时生成！单卡也能带的动14B模型",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=3&sn=ed0d03f1c359c897e017abdeee7c1bcb",
-     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "600倍加速，720p视频实时生成！单卡也能带的动14B模型"
-    },
-    {
-     "title": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048906&idx=1&sn=f6af0867a0c72211fb12bdf0f7ff43a5",
-     "pubDate": "Fri, 07 Aug 2026 09:02:00 +0800",
-     "summary": "把强化学习后训练做成产品，这是Pyromind给Agent时代的解答",
-     "source": "机器之心",
-     "zh": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方"
-    },
-    {
-     "title": "刚刚，ChatGPT 5.6免费版来了！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048906&idx=2&sn=d0e7f21c94fc91c70f6b367f2af46232",
-     "pubDate": "Fri, 07 Aug 2026 09:02:00 +0800",
-     "summary": "也给 Sol 升了个级……",
-     "source": "机器之心",
-     "zh": "刚刚，ChatGPT 5.6免费版来了！"
-    },
-    {
-     "title": "Handroid：当一台机器人既可以是灵巧手，也可以是人形机器人",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048906&idx=3&sn=521a026ba05d59de5a1fe7d22cc77441",
-     "pubDate": "Fri, 07 Aug 2026 09:02:00 +0800",
-     "summary": "一台高 0.33 米、重 2.05 千克、拥有 27 个自由度的可重构桌面级机器人。",
-     "source": "机器之心",
-     "zh": "Handroid：当一台机器人既可以是灵巧手，也可以是人形机器人"
-    },
-    {
-     "title": "Beyond Bots: Rethinking AI Support with a Hybrid AI Architecture",
-     "link": "https://www.kdnuggets.com/beyond-bots-rethinking-ai-support-with-a-hybrid-ai-architecture",
-     "pubDate": "Thu, 06 Aug 2026 16:00:53 +0000",
-     "summary": "Learn how blending RAG and fine-tuning creates more effective AI support experiences.",
-     "source": "KDnuggets",
-     "zh": "超越机器人：重新思考混合人工智能架构的人工智能支持"
     }
    ]
   },
@@ -378,14 +378,6 @@ window.INDUSTRY_DATA = {
      "zh": "英特尔和台积电采取不同的途径实现高数值孔径 EUV"
     },
     {
-     "title": "Nokia acquires NXP’s fab in Chandler, Arizona, for conversion to InP optical comms",
-     "link": "https://www.semiconductor-today.com/news_items/2026/aug/nokia-nxp-070826.shtml",
-     "pubDate": "Fri, 7 Aug 2026 15:44:22 +0100",
-     "summary": "Finland-based telecom equipment maker Nokia Corp says that, as part of its long-term plans for optical component manufacturing capacity expansion, it has entered into a definitive agreement to acquire the Chandler Semiconductor Fabrication campus in Arizona of NXP Semiconductors N.V. of Eindhoven, T",
-     "source": "Semiconductor Today",
-     "zh": "诺基亚收购恩智浦位于亚利桑那州钱德勒的工厂，用于转型为 InP 光通信"
-    },
-    {
      "title": "Neuraspace raises €15.6 million for AI-based space domain awareness",
      "link": "https://www.electronicsweekly.com/news/business/finance/neuraspace-raises-e15-6m-for-ai-based-space-domain-awareness-2026-08/",
      "pubDate": "Fri, 07 Aug 2026 14:32:52 +0000",
@@ -442,28 +434,12 @@ window.INDUSTRY_DATA = {
      "zh": "内部设备连接：下一代车辆的新设计规则"
     },
     {
-     "title": "NUBURU receives Italian Golden Power clearance to acquire 70% of Tekne",
-     "link": "https://www.semiconductor-today.com/news_items/2026/aug/nuburu-070826.shtml",
-     "pubDate": "Fri, 7 Aug 2026 09:30:29 +0100",
-     "summary": "NUBURU Inc of Centennial, CO, USA (a dual-use defense & security integrated platform company) says that the Italian Government has authorized the proposed acquisition by NUBURU Defense LLC of a 70% controlling interest in Tekne S.p.A. under Italy’s Golden Power framework...",
-     "source": "Semiconductor Today",
-     "zh": "NUBURU 获得意大利 Golden Power 批准收购 Tekne 70% 的股份"
-    },
-    {
      "title": "STMicroelectronics Bets on Hardware-Based Post-Quantum Cryptography with ST54M",
      "link": "https://www.eetimes.com/stmicroelectronics-bets-on-hardware-based-post-quantum-cryptography-with-st54m/",
      "pubDate": "Fri, 07 Aug 2026 08:00:00 +0000",
      "summary": "ST’s ST54M bakes post-quantum crypto into phone hardware before hackers harvest today’s secrets. The post STMicroelectronics Bets on Hardware-Based Post-Quantum Cryptography with ST54M appeared first on EE Times .",
      "source": "EE Times",
      "zh": "意法半导体通过 ST54M 押注于基于硬件的后量子加密技术"
-    },
-    {
-     "title": "Former Coherent CEO Chuck Mattera joins Uviquity as strategic advisor",
-     "link": "https://www.semiconductor-today.com/news_items/2026/aug/uviquity-070826.shtml",
-     "pubDate": "Fri, 7 Aug 2026 08:49:41 +0100",
-     "summary": "Uviquity of Raleigh, NC, USA – a venture-backed start-up founded in 2022 that is pioneering integrated photonics, developing photonic integrated circuits (PICs) on a proprietary aluminium nitride (AlN) platform for quantum and ultraviolet applications – says that Dr Vincent D. (Chuck) Mattera Jr, fo",
-     "source": "Semiconductor Today",
-     "zh": "相干公司前首席执行官 Chuck Mattera 加入 Uviquity 担任战略顾问"
     },
     {
      "title": "Chip Industry Week in Review",
@@ -490,12 +466,36 @@ window.INDUSTRY_DATA = {
      "zh": "白皮书：现代人工智能数据中心的半导体基础"
     },
     {
-     "title": "Wolfspeed and LITEON partner on 800VDC power solutions for hyperscale AI data centers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/aug/wolfspeed-liteon-060826.shtml",
-     "pubDate": "Thu, 6 Aug 2026 15:59:20 +0100",
-     "summary": "Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — and AI power solutions provider LITEON Technology Corp of Hsinchu, Taiwan have announced a strategic partnership and the qualification of Wolfspeed’s silicon carbide technology for deploy",
-     "source": "Semiconductor Today",
-     "zh": "Wolfspeed 和 LITEON 合作开发超大规模人工智能数据中心的 800VDC 电源解决方案"
+     "title": "Mach42 Delivers a Different Take on AI in the Design Flow at DAC 2026",
+     "link": "https://semiwiki.com/eda/mach42/371812-mach42-delivers-a-different-take-on-ai-in-the-design-flow-at-dac-2026/",
+     "pubDate": "Thu, 06 Aug 2026 13:00:42 +0000",
+     "summary": "I believe DAC 2026 will be remembered as the turning point for AI assisted design. There has been discussion about AI infusion in EDA for a while now. Most of it was about how AI can be added to traditional tools to make existing methodologies better. This year, that changed. There were several new ",
+     "source": "SemiWiki",
+     "zh": "Mach42 在 DAC 2026 的设计流程中提供了对人工智能的不同看法"
+    },
+    {
+     "title": "Separating The Chaff From The Wheat: Focusing On Only The RDC Violations You Care About",
+     "link": "https://semiengineering.com/separating-the-chaff-from-the-wheat-focusing-on-only-the-rdc-violations-you-care-about/",
+     "pubDate": "Thu, 06 Aug 2026 07:07:57 +0000",
+     "summary": "Combine structural analysis with timing awareness and context-based classification to distinguish real design risks from safe implementation choices. The post Separating The Chaff From The Wheat: Focusing On Only The RDC Violations You Care About appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "去芜存菁：只关注您关心的 RDC 违规行为"
+    },
+    {
+     "title": "Shared IDE For PCIe Bifurcation: Scaling Security Without Scaling Complexity & Resources",
+     "link": "https://semiengineering.com/shared-ide-for-pcie-bifurcation-scaling-security-without-scaling-complexity-resources/",
+     "pubDate": "Thu, 06 Aug 2026 07:06:17 +0000",
+     "summary": "Allowing multiple controllers and links to utilize a common security infrastructure while maintaining independent protection mechanisms. The post Shared IDE For PCIe Bifurcation: Scaling Security Without Scaling Complexity & Resources appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "PCIe 分叉的共享 IDE：在不扩展复杂性和资源的情况下扩展安全性"
+    },
+    {
+     "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
+     "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
+     "pubDate": "Mon, 03 Aug 2026 11:38:22 +0000",
+     "summary": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the i",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "使用仿真应用程序识别电子故障的根本原因"
     }
    ]
   },
@@ -1762,28 +1762,76 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "吉利星瑞 TCR 新车申报：可选装尾翼，2.0T 发动机最大功率 213kW",
-     "link": "https://www.ithome.com/0/987/324.htm",
-     "pubDate": "Sat, 08 Aug 2026 06:51:56 GMT",
-     "summary": "IT之家 8 月 8 日消息，工信部发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示， 吉利星瑞 TCR 完成申报。 IT之家注意到，本次申报的吉利星瑞 TCR 为燃油轿车，车身尺寸为长 4825 mm、宽 1910 mm、高 1460 mm，轴距为 2800 mm，整备质量 1550 kg，额定载客 5 人，最高车速可达 220 km/h。 动力方面，该车搭载型号为 BHE20-PFZ 的 2.0T 发动机，排量为 1999 ml，发动机功率为 213 kW，最大净功率为 205 kW，满足国六排放标准。 轮胎提供两种规格可选，分别为 255/35R19 和 245/35R19",
+     "title": "雷军重申：小米澎程系列汽车在 3 年半前立项，2 年前开始路测",
+     "link": "https://www.ithome.com/0/987/336.htm",
+     "pubDate": "Sat, 08 Aug 2026 07:48:59 GMT",
+     "summary": "IT之家 8 月 8 日消息，小米创办人、董事长兼 CEO 雷军今日发文重申， 小米澎程系列汽车在 3 年半前立项，2 年前开始路测 。另外， 系列新车会在 9 月份正式上市 。 据IT之家此前报道，在 7 月 30 日晚的小米澎程技术发布会上， 小米 SKYNOMAD 澎程系列新车终于迎来首秀 。在本场发布会中，澎程系列两款全新车型 —— 大七座旗舰增程 SUV N90 Max 与大五座四驱增程 SUV N70 Max 同步亮相，并公布了预售价格。 另外，根据小米官方此前预热， 2024 年 10 月 12 日，小米澎程第一台测试车就已经正式上路 。截至 6 月 30 日，累计道路测试 62",
      "source": "IT之家",
-     "zh": "吉利星瑞 TCR 新车申报：可选装尾翼，2.0T 发动机最大功率 213kW"
+     "zh": "雷军重申：小米澎程系列汽车在 3 年半前立项，2 年前开始路测"
     },
     {
-     "title": "Anthropic 优化 Claude Fable 5 模型生物安全机制，减少 85% 误拦截",
-     "link": "https://www.ithome.com/0/987/323.htm",
-     "pubDate": "Sat, 08 Aug 2026 06:50:40 GMT",
-     "summary": "IT之家 8 月 8 日消息，美国人工智能初创企业 Anthropic 昨日发布博文称，公司正在更新 Claude Fable 5 模型的生物安全防护机制，大幅减少误拦截现象发生。如今 Fable 5 用户提出生物学相关问题后，系统的降级情况将更少发生。 据 Anthropic 官方测试数据， 本次更新使生物学相关问答的降级现象减少了 85% ，Fable 5 现在可以处理更广泛的生物学任务。 Anthropic 表示，某些恶意用户会使用 Fable 5 模型进行生物武器研究等高风险活动。因此公司为了防范这种现象发生，专门为 Claude 设置了安全分类器（safety classifiers",
+     "title": "31.5 英寸 4K 显示器 KTC H32U6 上市：国补价 1199 元",
+     "link": "https://www.ithome.com/0/987/335.htm",
+     "pubDate": "Sat, 08 Aug 2026 07:45:57 GMT",
+     "summary": "IT之家 8 月 8 日消息，KTC 新推出了一款 31.5 英寸的 4K 显示器，型号为 H32U6 ，京东售价 1332 元，叠加国补后 1199 元，券后 1176.3 元。 京东 KTC 31.5 英寸 4K 显示器高清 广色域微边框 办公设计 低蓝光台式电脑大屏幕 PS4 升降旋转显示屏 H32U6 券后 1176.3 元 领 25 元券 这款显示器采用 31.5 英寸 VA 面板，拥有 3840×2160 分辨率、60Hz 刷新率、99% sRGB 色域、 93% DCI-P3 色域，出厂校色，采用 DC 调光技术，内置低蓝光模式。 外观方面，这款显示器采用太空白格调机身，配备人体",
      "source": "IT之家",
-     "zh": "Anthropic 优化 Claude Fable 5 模型生物安全机制，减少 85% 误拦截"
+     "zh": "31.5 英寸 4K 显示器 KTC H32U6 上市：国补价 1199 元"
     },
     {
-     "title": "迄今最清晰特写：太阳可见表面最高分辨率观测结果发布",
-     "link": "https://www.ithome.com/0/987/322.htm",
-     "pubDate": "Sat, 08 Aug 2026 06:50:20 GMT",
-     "summary": "IT之家 8 月 8 日消息，8 月 5 日发表在《自然》的论文中， 天文学家公布了迄今太阳可见表面最高分辨率的观测结果。 IT之家查询公开资料，太阳的可见表面又称光球，是太阳对可见光变得不透明的表层。这一层产生的光子通过其上方透明的太阳大气层逃离太阳，成为太阳辐射，即阳光。 作为太阳大气的“底色”，光球布满了直径约 1000 公里的对流元胞“米粒组织”，米粒的暗隙之间，则点缀着大量承载磁场的细小亮点，这些奇特的结构被认为是能量注入外层日冕的通道，也是理解日冕加热、太阳风起源等关键难题的入口。 该研究由美国国家太阳天文台（NSO）的 David Kuridze、Friedrich Woeger",
+     "title": "OpenAI 下一代 AI 模型 Astra 数学成果遭抄袭指控",
+     "link": "https://www.ithome.com/0/987/334.htm",
+     "pubDate": "Sat, 08 Aug 2026 07:40:31 GMT",
+     "summary": "IT之家 8 月 8 日消息，科技媒体 scientificamerican 于 8 月 6 日发布博文， 报道称多名数学家指控 OpenAI 存在学术不端行为，称其 AI 模型 Astra 的数学成果未对已有研究成果给予应有的署名致谢。 OpenAI 于 7 月 31 日发布 249 页 PDF 文件， 详细介绍了其下一代重大模型 Astra（内部版本）在高维球填充、量子博弈论、群论和极值组合学等多个领域取得了重大进展 。 若按 Sol API 的费率计算，寻找这些问题解决方案所需消耗的总词元 (tokens) 成本约为 2,000 美元 （IT之家注：现汇率约合 13,519 元人民币） ",
      "source": "IT之家",
-     "zh": "迄今最清晰特写：太阳可见表面最高分辨率观测结果发布"
+     "zh": "OpenAI 下一代 AI 模型 Astra 数学成果遭抄袭指控"
+    },
+    {
+     "title": "华为在印度推出 MatePad SE 11、MatePad 11.5 平板，麒麟 710A/T82B 芯片",
+     "link": "https://www.ithome.com/0/987/332.htm",
+     "pubDate": "Sat, 08 Aug 2026 07:34:15 GMT",
+     "summary": "IT之家 8 月 8 日消息，华为现已在印度市场推出 MatePad SE 11 和 MatePad 11.5 平板，两款产品均主攻入门级市场。 IT之家附两款新品详情如下： MatePad SE 11： 这款平板配备 11 英寸 TFT LCD 屏幕，分辨率为 1920*1200，最高亮度可达 400nits。 该产品搭载麒麟 710A 芯片 ，拥有 8GB 内存和 128GB 存储空间，内置 7700mAh 电池，支持 22.5W 有线快速充电。 同时，该产品拥有 800 万像素后置镜头、500 万像素前置镜头。采用一体化金属机身，厚度为 6.9mm，重量为 475g，拥有四扬声器系统，支",
+     "source": "IT之家",
+     "zh": "华为在印度推出 MatePad SE 11、MatePad 11.5 平板，麒麟 710A/T82B 芯片"
+    },
+    {
+     "title": "“过气”网红奶茶，在海外闷声发财",
+     "link": "https://www.huxiu.com/article/4881668.html?f=rss",
+     "pubDate": "Sat, 08 Aug 2026 15:33:07 +0800",
+     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：米娜，作者：张文静 贡茶的走红，招来了大量抄袭者，很多人误以为全国各地的贡茶店都来自同一家企业。 “奶茶祖师爷”贡茶被卖了。 8月5日，全球私募投资机构贝恩资本（Bain Capital）宣布，已达成协议，将从TA Associates及公司其他股东手中收购茶饮品牌贡茶国际（以下简称“贡茶”）。 该交易预计于2026年第四季度完成。贝恩资本未披露交易价格，不过市场有消息称，交易金额约为43亿元人民币。 贡茶于2006年诞生于中国台湾地区，2010年左右进入中国大陆市场，凭借“奶盖茶”风靡全国，在学校周边、街头、商场，贡茶招牌的奶茶店随处可见。但随着",
+     "source": "虎嗅",
+     "zh": "“过气”网红奶茶，在海外闷声发财"
+    },
+    {
+     "title": "小米米家无线洗地机 5 Pro 泡沫版开售：26000Pa 吸力 + 广域泡沫覆盖",
+     "link": "https://www.ithome.com/0/987/331.htm",
+     "pubDate": "Sat, 08 Aug 2026 07:27:19 GMT",
+     "summary": "IT之家 8 月 8 日消息，小米官方今日宣布旗下米家无线洗地机 5 Pro 泡沫版正式开售，首发价 2199 元，叠加国补后 1798.51 元，再叠加以旧换新可以做到 1756 元。 京东 小米米家洗地机 5Pro 泡沫版 2199 元 点此访问 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。 数码补贴： 点此领券 手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。 家电补贴： 点此领券 多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。 欢迎下载最会买 App - 好货好",
+     "source": "IT之家",
+     "zh": "小米米家无线洗地机 5 Pro 泡沫版开售：26000Pa 吸力 + 广域泡沫覆盖"
+    },
+    {
+     "title": "约 213.5 亿公里远程刷机成功，“旅行者 2 号”探测器 3 台仪器延寿至少 1 年",
+     "link": "https://www.ithome.com/0/987/330.htm",
+     "pubDate": "Sat, 08 Aug 2026 07:25:38 GMT",
+     "summary": "IT之家 8 月 8 日消息，美国宇航局喷气推进实验室于 8 月 4 日发布博文，报道称已成功实施名为“大爆炸”（Big Bang）的行动， 让这艘已有 49 年（1977 年 8 月 20 日发射）历史的探测器上仅剩的三台科学仪器再运行至少一年。 动力方面，“旅行者 2 号”主要依赖放射性同位素热电发电机，将衰变钚产生的热量转化为电能。由于钚的供应不断减少，该探测器每年都会损失约 4 瓦的功率， 目前输出功率约为 1977 年的 57% 左右。 “旅行者 2 号”共配备了 10 台仪器，自 2024 年以来，电力供应日益紧张，为了节省电量、延长运行时间，仅保留了三轴磁通门磁强计（MAG）、等",
+     "source": "IT之家",
+     "zh": "约 213.5 亿公里远程刷机成功，“旅行者 2 号”探测器 3 台仪器延寿至少 1 年"
+    },
+    {
+     "title": "Hardware backdoors in some x86 CPUs",
+     "link": "https://github.com/xoreaxeaxeax/rosenbridge",
+     "pubDate": "Sat, 08 Aug 2026 07:04:51 +0000",
+     "summary": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge Comments URL: https://news.ycombinator.com/item?id=49219508 Points: 8 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "某些 x86 CPU 中的硬件后门"
+    },
+    {
+     "title": "存储产业这次会打破“死亡循环”吗",
+     "link": "https://www.huxiu.com/article/4881663.html?f=rss",
+     "pubDate": "Sat, 08 Aug 2026 14:51:21 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：郑晨烨 连英伟达都开始为拿不到够用的存储器而降低产品规格，其他买家面对至少持续到2028年的供需缺口，能做的似乎就只剩下“提前签约锁定供应”了。 随着7月30日三星电子发布第二季度财报，国际三大存储芯片厂商三星电子、SK海力士、美光科技第二季度/最新财季财报就此出齐，三家公司各自刷新了成立以来的最高业绩纪录。 但创纪录的业绩并没有带来创纪录的股价。最近一个多月，这三家公司的股价都经历了大幅回撤。市场观点认为，投资者的抛售逻辑是担忧这一轮行业繁荣会重蹈过去几十年间反复出现的“涨价—扩产—过剩—暴跌”的“死亡循环”。 从公开信息来看，尽管三巨头的资本开支确",
+     "source": "虎嗅",
+     "zh": "存储产业这次会打破“死亡循环”吗"
     },
     {
      "title": "为什么公司的评价标准，最后会改变所有人的工作方式？",
@@ -1800,30 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 叶檀财经 ，作者：叶檀财经团队 高估自己是人性常态。不少人觉得自己天赋异禀，智力超群，道德优越——真是这样吗？ 1999年，美国心理学家邓宁和克鲁格曾在康奈尔大学做过一个实验，让一群大学生进行逻辑测试，并对得分进行评估。 结果，得分最低的四分之一学生，自认为答对了14题，实际答对了10题，而得分最高的四分之一，普遍低估了自己的能力。 这一实验让人们意识到，能力不足的人普遍有虚幻的自我优越感，容易高估自己的水平。 这一现象被称为“邓宁-克鲁格效应”。 在道德领域，同样存在“邓宁-克鲁格效应”。邓宁发现，相比于更客观的智力，难以度量的道德更容易让人产生错觉。绝大多数人会高估自",
      "source": "虎嗅",
      "zh": "罕见一幕，影响巨大"
-    },
-    {
-     "title": "iQOO Neo11 至尊版外观曝光：乘风 / 驰光白配色、横向双摄模组，新机“下周一见”",
-     "link": "https://www.ithome.com/0/987/320.htm",
-     "pubDate": "Sat, 08 Aug 2026 06:39:42 GMT",
-     "summary": "IT之家 8 月 8 日消息，博主 @体验more 今日曝光了 iQOO Neo11 至尊版的外观， 新机采用横向双摄模组设计 ，将提供乘风和驰光白配色。 据IT之家昨日报道，iQOO Neo 产品经理 @iQOO慧慧子 预告 iQOO Neo11 至尊版“ 下周一见 ”，届时有望公布更多消息。 据其透露，这款新机将搭载国产顶级 2K 屏、Neo 史上最大电池，外观上从设计到工艺再到配色都进行了认真打磨，更护眼、更耐用、网络更稳定。 相关阅读： 《 iQOO Neo11 至尊版官宣“下周一见”：国产顶级 2K 屏 + 超大电池 》",
-     "source": "IT之家",
-     "zh": "iQOO Neo11 至尊版外观曝光：乘风 / 驰光白配色、横向双摄模组，新机“下周一见”"
-    },
-    {
-     "title": "三星 Galaxy A18 手机跑分曝光：4GB 内存、联发科 Helio G99 芯片",
-     "link": "https://www.ithome.com/0/987/319.htm",
-     "pubDate": "Sat, 08 Aug 2026 06:39:27 GMT",
-     "summary": "IT之家 8 月 8 日消息，科技媒体 sammyfans 昨日（8 月 7 日）发布博文，指出三星 Galaxy A18 手机的 GeekBench 跑分曝光， 从规格来看是 2015 年的内存配置、2022 年的芯片配置以及 2026 年的系统。 在内存方面，根据页面信息 Galaxy A18 手机将会配备 4GB 内存，作为对比，Galaxy A17 手机提供 6GB/8GB 两种选项，而且全球首款搭载 4GB 内存的手机是 2015 年 1 月发布的华硕 ZenFone 2 （ZE551ML）。 在芯片方面，三星 Galaxy A18 手机搭载联发科于 2022 年发布的 Helio ",
-     "source": "IT之家",
-     "zh": "三星 Galaxy A18 手机跑分曝光：4GB 内存、联发科 Helio G99 芯片"
-    },
-    {
-     "title": "消息称 HMD Touch AI 手机将登陆全球市场，售价暂不明确",
-     "link": "https://www.ithome.com/0/987/318.htm",
-     "pubDate": "Sat, 08 Aug 2026 06:35:47 GMT",
-     "summary": "IT之家 8 月 8 日消息，HMD 上个月在中国大陆市场推出 Touch AI 小触屏手机，该产品宣称使用“复刻 Lumia 设计”，支持 4G 全网通，搭载豆包 AI 大模型和纯净系统防沉迷功能，还可以用支付宝， 标价 469 元 。 据 X 平台消息人士 @smashx_60 前天透露， 这款手机很快就会登陆马来西亚 、 菲律宾 、 印度尼西亚和泰国等全球市场 ，售价暂不明确。 据该爆料人所述， 这款手机的全球版将随机附赠 8GB microSD 存储卡 、 透明保护壳 ， 以及屏幕贴膜 。该全球版机型相比印度版（IT之家注：HMD Touch 4G）多了二维码扫描、Alipay、儿童学",
-     "source": "IT之家",
-     "zh": "消息称 HMD Touch AI 手机将登陆全球市场，售价暂不明确"
     },
     {
      "title": "A profile of Tatyana Kim, founder of Russia&apos;s largest online retailer Wildberries, which has lost an estimated third of its warehouse space to Ukrainian attacks (New York Times)",
@@ -1858,28 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "深圳，4个月批量诞生千亿IPO"
     },
     {
-     "title": "实探“快乐猴”大兴首店开业：一只炸鸡19.9元，美团加速布局硬折扣超市",
-     "link": "https://www.huxiu.com/article/4881655.html?f=rss",
-     "pubDate": "Sat, 08 Aug 2026 13:48:27 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，编辑：王营，作者：袁佳薇 赵鹏 8月7日，美团自营社区超市“快乐猴”在北京、天津同步新开3家门店。一年时间内，“快乐猴”门店数量已超过40家，门店规模扩张迅速。 △图源：时代周报记者摄 时代周报记者实地探访“快乐猴”大兴首店（北京大兴兴盛园商业楼店），这家社区超市位于综合商业楼一层，整体规模并不大，并非传统大型商超格局。进店后，一眼可见白墙上悬挂的“会员实付满88元抽电动车等豪礼，中奖率100%”黄底宣传条幅，“88元”“电动车”“100%中奖”字样用醒目的红色着重标注。店内扩音器循环播放低价促销信息，放大的折扣数字印在价签上，视觉冲击力很强。 货架上有160",
-     "source": "虎嗅",
-     "zh": "实探“快乐猴”大兴首店开业：一只炸鸡19.9元，美团加速布局硬折扣超市"
-    },
-    {
      "title": "Analysis: South Korea and Taiwan each surpassed Japan in total exports for the first time in H1 2026, as AI demand drove explosive growth in chip exports (Nikkei Asia)",
      "link": "https://www.techmeme.com/260808/p2#a260808p2",
      "pubDate": "Sat, 08 Aug 2026 01:45:02 -0400",
      "summary": "Nikkei Asia : Analysis: South Korea and Taiwan each surpassed Japan in total exports for the first time in H1 2026, as AI demand drove explosive growth in chip exports &nbsp; &mdash;&nbsp; TOKYO &mdash; South Korea and Taiwan each surpassed Japan in total exports for the first time during the first ",
      "source": "Techmeme",
      "zh": "分析：2026年上半年韩国和台湾出口总额首次超越日本，人工智能需求带动芯片出口爆发式增长（日经亚洲）"
-    },
-    {
-     "title": "AI自作主张，未经授权行为频发，专访中国信通院何波：治理核心在于落地现有制度",
-     "link": "https://www.huxiu.com/article/4881653.html?f=rss",
-     "pubDate": "Sat, 08 Aug 2026 13:43:07 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，编辑：王营，作者：袁佳薇 赵鹏，原文标题：《AI自作主张，未经授权行为频发！专访中国信通院何波：治理核心在于落地现有制度》 从“互联网+”到“人工智能+”，技术的每一次跃进都对治理提出了更高要求。技术前进一小步，治理难度或许增加一大步。人工智能技术快速发展，安全风险也加速累积。 环球网援引报道称，英国人工智能安全研究所8月4日披露，在对美国人工智能公司Anthropic和OpenAI模型进行安全测试时，发现AI智能体做出多项未经授权的行为。其中，最严重的一起事件涉及编写恶意代码，并创建虚假网络身份，试图诱导人类批准相关代码。 在测试中，AI智能体“试图直接联系",
-     "source": "虎嗅",
-     "zh": "AI自作主张，未经授权行为频发，专访中国信通院何波：治理核心在于落地现有制度"
     },
     {
      "title": "X announces the Original Content Rewards Program and will discontinue Revenue Sharing on Sep. 7, saying existing Revenue Sharing members can apply for access (@xcreators)",
@@ -1893,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Mythos social engineering AISI INC-2026-07-28-01",
      "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
      "pubDate": "Sat, 08 Aug 2026 03:41:56 +0000",
-     "summary": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3 Comments URL: https://news.ycombinator.com/item?id=49218707 Points: 44 # Comments: 16",
+     "summary": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3 Comments URL: https://news.ycombinator.com/item?id=49218707 Points: 50 # Comments: 17",
      "source": "Hacker News",
      "zh": "神话社会工程 AISI INC-2026-07-28-01"
     },
@@ -1946,12 +1954,12 @@ window.INDUSTRY_DATA = {
      "zh": "寒武纪：上半年暴赚23亿，下半年看交付"
     },
     {
-     "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+     "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
      "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
      "pubDate": "Sat, 08 Aug 2026 01:49:11 +0000",
-     "summary": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year Comments URL: https://news.ycombinator.com/item?id=49218179 Points: 175 # Comments: 28",
+     "summary": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year Comments URL: https://news.ycombinator.com/item?id=49218179 Points: 207 # Comments: 35",
      "source": "Hacker News",
-     "zh": "NASA 将让其已有 48 年历史的航行者 2 号探测器再运行一年"
+     "zh": "NASA 找到了让航行者 2 号探测器再运行一年的方法"
     },
     {
      "title": "Sources: Nvidia agrees to invest $2B in Lancium, the power infrastructure developer of the Stargate campus in Texas, plus $1B more if it hits certain thresholds (The Information)",
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "The Nixpkgs core team has disbanded",
      "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
      "pubDate": "Sat, 08 Aug 2026 01:12:45 +0000",
-     "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 255 # Comments: 114",
+     "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 271 # Comments: 125",
      "source": "Hacker News",
      "zh": "Nixpkgs核心团队已解散"
     },
@@ -1981,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
      "link": "https://genesisopenmodels.anl.gov/",
      "pubDate": "Fri, 07 Aug 2026 22:24:27 +0000",
-     "summary": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 192 # Comments: 64",
+     "summary": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 209 # Comments: 68",
      "source": "Hacker News",
      "zh": "美国能源部启动 Genesis 开放模型计划"
     },
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
      "source": "Ars Technica",
      "zh": "欧洲的免费卫星服务让追踪野火变得更加容易"
-    },
-    {
-     "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-     "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-     "pubDate": "Fri, 07 Aug 2026 21:20:00 +0000",
-     "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
-     "source": "TechCrunch",
-     "zh": "Wacom 的 MovinkPad 11 是数字艺术家的一款有趣且中等价格的入门产品"
     }
    ]
   },
@@ -2258,52 +2258,12 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "乌称基辅等地遭袭 已有多人死伤",
-     "link": "http://finance.eastmoney.com/news/1351,202608083835827623.html",
-     "pubDate": "Sat, 08 Aug 2026 14:40:14 +0800",
-     "summary": "乌克兰基辅市军政管理局8日通报称，当天凌晨基辅市遭俄军袭击，截至当地时间5时45分，袭击已造成4人受伤，基辅市两个地区发生火灾，相关部门正在开展救援工作。此外，乌克兰基辅州军政管理局通报称，当天基辅州遭俄军 无人机 袭击，截至目前已造成3人死亡，另有3人受伤。目前俄罗斯方面对此暂无回应。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "乌称基辅等地遭袭 已有多人死伤"
-    },
-    {
-     "title": "算力狂飙叠加用电高峰：AI产业要算好能耗账、民生账",
-     "link": "http://finance.eastmoney.com/news/1354,202608083835827428.html",
-     "pubDate": "Sat, 08 Aug 2026 14:39:00 +0800",
-     "summary": "近期，全国多地持续高温高湿，电网负荷节节攀升。8月7日，北京电网最大负荷连续三日突破 历史新高 。长三角、大湾区等地区的电网也处于高负荷状态。为破解算力与民生争能的矛盾，2026年夏季用电高峰期，各大运营商创新算力调度模式： 中国电信 联动上海、新疆、安徽、湖北等多地算力节点，开展跨区域算电协同调度，将本地时延不敏感的任务迁移至 电力 富余地区，短时压降用电负荷近10万千瓦，缓解城市供电压力； 中国移动 广州 数据中心 及湛江 数据中心 、 中国联通 韶关 数据中心 接入电网 虚拟电厂 体系，在居民用电高峰主动压降非核心算力任务，在 新能源 富余时段扩容算力，让刚性算力变成可调度、可调节的柔性",
-     "source": "东方财富股票",
-     "zh": "算力狂飙叠加用电高峰：AI产业要算好能耗账、民生账"
-    },
-    {
-     "title": "千亿级私募巨头清仓英伟达",
-     "link": "http://finance.eastmoney.com/news/1354,202608083835827188.html",
-     "pubDate": "Sat, 08 Aug 2026 14:29:00 +0800",
-     "summary": "千亿级私募景林资产，一季度大手笔减持多只AI相关标的。 近日，景林资产在美国证券交易委员会（SEC）公布了2026年二季度末的美股持仓情况。数据显示，截至二季度末，景林资产在美股市场持有21家公司的股票，总市值为21.9亿美元。从调仓动作来看，景林资产一季度大手笔减仓了 英特尔 、 谷歌-A 等标的，并果断清仓了 英伟达 、 亚马逊 等标的。 据渠道人士透露，在二季度末，景林资产系统性降低了前期依靠价格上涨推动业绩暴增的一批公司，同时适当买回了上半年跌幅比较大的一些有护城河和估值安全边际的公司，尤其是一些中国之前被忽略的拥有充足竞争壁垒的细分 行业龙头 企业。景林资产目前配置重点分布在三个方向",
-     "source": "东方财富股票",
-     "zh": "千亿级私募巨头清仓英伟达"
-    },
-    {
-     "title": "际华集团被罚700万，责任人共被罚1620万，涉虚增收入等",
-     "link": "http://finance.eastmoney.com/news/1354,202608083835827712.html",
-     "pubDate": "Sat, 08 Aug 2026 14:27:17 +0800",
-     "summary": "蓝鲸新闻8月8日讯，近日，中国证监会发布行政处罚决定书，剑指际华集团股份有限公司及相关责任人。 决定书显示，际华集团存在以下情形：际华集团跨期确认土地出售收入导致虚减利润；际华集团通过开展融资性贸易虚增营业收入、营业成本；际华集团通过开展代理业务虚增营业收入、营业成本。 综上，际华集团2018年至2021年年度报告分别虚增营业收入5,098,495,638.15元、2,997,624,845.12元、550,776,959.10元、1,013,129,465.60元，占各期对外披露营业收入的22.48%、14.17%、3.68%、6.54%，虚增营业成本5,078,563,183.57元、2,",
-     "source": "东方财富股票",
-     "zh": "际华集团被罚700万，责任人共被罚1620万，涉虚增收入等"
-    },
-    {
-     "title": "信达资产福建省分公司被罚30万，涉债权资产包处置不洁净",
-     "link": "http://finance.eastmoney.com/news/1354,202608083835827814.html",
-     "pubDate": "Sat, 08 Aug 2026 14:27:16 +0800",
-     "summary": "蓝鲸新闻8月8日讯，近日，福建金融监管局发布行政处罚决定书，剑指 中国信达 资产管理 股份有限公司福建省分公司。 罚单显示， 中国信达 资产管理 股份有限公司福建省分公司的主要违法违规行为是：债权资产包处置不洁净。 针对上述违法行为，福建金融监管局对 中国信达 资产管理 股份有限公司福建省分公司处以30万元罚款。 （文章来源：蓝鲸财经）",
-     "source": "东方财富股票",
-     "zh": "信达资产福建省分公司被罚30万，涉债权资产包处置不洁净"
-    },
-    {
-     "title": "交行江苏省分行被罚70万，涉运营管理不到位等",
-     "link": "http://finance.eastmoney.com/news/1354,202608083835827090.html",
-     "pubDate": "Sat, 08 Aug 2026 14:27:15 +0800",
-     "summary": "蓝鲸新闻8月8日讯，近日，江苏金融监管局发布行政处罚决定书，剑指 交通银行 股份有限公司江苏省分行及相关责任人员。 罚单显示， 交通银行 股份有限公司江苏省分行的主要违法违规行为是：运营管理不到位、员工行为管理不到位。 针对上述违法行为，江苏金融监管局对 交通银行 股份有限公司江苏省分行罚款70万元；对沈宇久、孙川警告并罚款共计12万元；对朱庆宇禁止从事 银行 业工作5年。 （文章来源：蓝鲸财经）",
-     "source": "东方财富股票",
-     "zh": "交行江苏省分行被罚70万，涉运营管理不到位等"
+     "title": "北京普惠健康保升级特药清单",
+     "link": "http://www.eeo.com.cn/2026/0808/990742.shtml",
+     "pubDate": "Sat, 08 Aug 2026 15:32:54 +0800",
+     "summary": "这不是“北京普惠健康保”第一次拓展特药责任。在2025年11月上线2026年度“北京普惠健康保”产品时，特药清单就从121种增加到了159种。除北京外，青岛琴岛e保、江西赣惠保、上海沪惠保也增加了特药种类。但在保障责任上，部分惠民保产品也出现了调整。例如，上海沪惠保新增9种特药，但同时设置了单药年度20万元的赔付限额。",
+     "source": "经济观察网",
+     "zh": "北京普惠健康保升级特药清单"
     },
     {
      "title": "群防群治·百日攻坚 | 全部安全转移！堡坎开裂超10厘米，他们连夜敲门……",
@@ -2352,14 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "新华财经墨尔本8月8日电（记者 熊文苑 徐海静）澳大利亚矿业巨头必和必拓在西澳大利亚州黑德兰港的工人8日开始为期两天的罢工行动，包括24小时船舶装载禁令和随后24小时停工。 澳大利亚广播公司援引行业机构估算称，此次行动可能令必和必拓减少约1亿澳元（约7030万美元）收入，并令西澳大利亚州政府减少逾700万澳元（约490万美元）矿产特许权使用费。 根据工会公布的安排，工会方面8日实施持续24小时的船舶...",
      "source": "经济观察网",
      "zh": "【环球财经】必和必拓黑德兰港工人发起两天罢工行动"
-    },
-    {
-     "title": "集采的新尺度",
-     "link": "http://www.eeo.com.cn/2026/0808/990503.shtml",
-     "pubDate": "Sat, 08 Aug 2026 13:05:02 +0800",
-     "summary": "有6家跨国药企的8款原研药中选，打破了第十批、第十一批集采没有跨国药企原研药中选的局面。",
-     "source": "经济观察网",
-     "zh": "集采的新尺度"
     },
     {
      "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
@@ -2496,6 +2448,54 @@ window.INDUSTRY_DATA = {
      "summary": "美股市场： 美股三大指数08月07日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨151.83点，收于54036.93点，涨幅为0.28%； 标准普尔 500种股票指数上涨47.68点，收于7757.64点，涨幅为0.62%，创收盘新高； 纳斯达克 综合 指数上涨342.27点，收于26690.62点，涨幅为1.3%。 本周，道指累计上涨2.96%，纳指 累计 上涨5.19%，标普500指数 累计 上涨3.58%。 美股光通信板块大涨，Coherent涨超13%， 应用光电涨超9 %， Credo涨超8%，Lumentum涨超6%，康宁涨超5%，迈威尔科技涨超3%。 美股太空概念股",
      "source": "东方财富资讯",
      "zh": "全球市场：纳指涨超1% 标普创新高 光通信、太空板块大涨 SpaceX涨超15%"
+    },
+    {
+     "title": "Spain reinstates border controls on Italy as tensions rise over migrants",
+     "link": "https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1",
+     "pubDate": "Fri, 07 Aug 2026 22:06:08 GMT",
+     "summary": "Move widens rift between Pedro Sánchez’s government and rightwing Italian premier Giorgia Meloni",
+     "source": "Financial Times",
+     "zh": "由于移民问题紧张局势加剧，西班牙恢复对意大利的边境管制"
+    },
+    {
+     "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
+     "link": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
+     "pubDate": "Fri, 07 Aug 2026 22:05:00 GMT",
+     "summary": "Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an effort to stack the central bank’s board with more allies.",
+     "source": "MarketWatch",
+     "zh": "特朗普正试图再次解雇丽莎·库克。他仍然希望美联储与他的盟友建立联系。"
+    },
+    {
+     "title": "The smart way to invest in gold right now as the dollar slips",
+     "link": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
+     "pubDate": "Fri, 07 Aug 2026 21:58:00 GMT",
+     "summary": "Also in Weekend Reads: Kevin O’Leary’s investing strategy, a 9% dividend paired with lower stock-market risk and advice from the Moneyist.",
+     "source": "MarketWatch",
+     "zh": "随着美元贬值，现在投资黄金的明智之举"
+    },
+    {
+     "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’",
+     "link": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
+     "pubDate": "Fri, 07 Aug 2026 20:54:00 GMT",
+     "summary": "Booming demand for Palantir’s AI solutions is restoring confidence in the company.",
+     "source": "MarketWatch",
+     "zh": "Palantir 股价创下 2024 年以来最佳单周表现——表明它不再是“人工智能失败者”"
+    },
+    {
+     "title": "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year",
+     "link": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
+     "pubDate": "Fri, 07 Aug 2026 20:41:00 GMT",
+     "summary": "The chip maker recorded its largest-ever weekly increase in market capitalization.",
+     "source": "MarketWatch",
+     "zh": "英伟达股价创下一年多来最大单周涨幅的两个原因"
+    },
+    {
+     "title": "SpaceX’s stock just had one of its best days ever — with the first lockup expiration now behind it",
+     "link": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
+     "pubDate": "Fri, 07 Aug 2026 20:38:00 GMT",
+     "summary": "Stocks often come under pressure once insiders are able to unload shares — but in the case of SpaceX, that risk may have been already priced in.",
+     "source": "MarketWatch",
+     "zh": "SpaceX 的股票刚刚经历了有史以来最好的日子之一——第一次禁售期现已过去"
     }
    ]
   },
@@ -2505,6 +2505,22 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Sunlight creates quantum entanglement once thought to require lasers",
+     "link": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
+     "pubDate": "Fri, 07 Aug 2026 23:49:26 EDT",
+     "summary": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produced entangled photons with about 94% similarity to an ideal state. The result could pave the way for",
+     "source": "ScienceDaily",
+     "zh": "阳光产生量子纠缠，一度被认为需要激光"
+    },
+    {
+     "title": "Teen cannabis use linked to slower memory and thinking growth",
+     "link": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm",
+     "pubDate": "Fri, 07 Aug 2026 21:25:25 EDT",
+     "summary": "Teens who start using cannabis may experience slower growth in memory, attention, language, and processing speed. Their abilities often developed normally at first, then began leveling off while nonusers continued improving. THC appeared to be the most likely driver, especially for worsening memory.",
+     "source": "ScienceDaily",
+     "zh": "青少年吸食大麻会导致记忆力和思维能力增长减慢"
+    },
     {
      "title": "How snails engineer their slime",
      "link": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
@@ -2602,14 +2618,6 @@ window.INDUSTRY_DATA = {
      "zh": "新型可回收纱线与氨纶一样有弹性，有助于解决时尚界的塑料垃圾问题"
     },
     {
-     "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
-     "link": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm",
-     "pubDate": "Fri, 07 Aug 2026 06:24:52 EDT",
-     "summary": "Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surge is already weakening, raising the possibility that the deep-Earth upheaval is part of a mysterious",
-     "source": "ScienceDaily",
-     "zh": "地球的熔融核心突然改变了方向——科学家们不知道为什么"
-    },
-    {
      "title": "NASA grants Voyager 2 probe another year of power with risky 'Big Bang' maneuver. Now, will it work for Voyager 1?",
      "link": "https://www.livescience.com/space/space-exploration/nasa-grants-voyager-2-probe-another-year-of-power-with-risky-big-bang-maneuver-now-will-it-work-for-voyager-1",
      "pubDate": "Fri, 07 Aug 2026 10:00:00 +0000",
@@ -2632,14 +2640,6 @@ window.INDUSTRY_DATA = {
      "summary": "The study could help scientists understand how superconductivity and other more complex phenomena emerge in quantum materials.",
      "source": "MIT News",
      "zh": "物理学家观察材料的电子组装和重新组装成共存相"
-    },
-    {
-     "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
-     "link": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
-     "pubDate": "Fri, 07 Aug 2026 03:31:52 EDT",
-     "summary": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by about 16 minutes. Researchers also observed signs of improved stress regulation and ",
-     "source": "ScienceDaily",
-     "zh": "可穿戴式超声波贴片无需药物或手术即可促进快速眼动睡眠"
     },
     {
      "title": "Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body",

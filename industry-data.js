@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/9 05:58:21",
+ "generated_at": "2026/8/9 06:37:47",
  "recent_days": 7,
  "industries": [
   {
@@ -18,6 +18,14 @@ window.INDUSTRY_DATA = {
      "zh": "计划中的亚马逊数据中心可能成为美国最大的气候污染源"
     },
     {
+     "title": "Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run",
+     "link": "https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/",
+     "pubDate": "Sat, 08 Aug 2026 20:54:49 +0000",
+     "summary": "Long agent runs accumulate state that no transcript records — edited files, a live dev server, installed packages, a warm prompt cache. When an agent misreads a traceback at step 10 and rewrites a correct file, patching forward burns tokens and restarting re-pays every call. Researchers at Northeast",
+     "source": "MarkTechPost",
+     "zh": "认识一下 Shepherd：一个开源 Python 底层，允许元代理分叉、重放和恢复任何代理运行"
+    },
+    {
      "title": "OpenAI acquires presentation startup NextSlide",
      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
      "pubDate": "Sat, 08 Aug 2026 19:41:13 +0000",
@@ -26,12 +34,28 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI 收购演示初创公司 NextSlide"
     },
     {
+     "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
+     "link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
+     "pubDate": "Sat, 08 Aug 2026 17:04:39 +0000",
+     "summary": "Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second o",
+     "source": "MarkTechPost",
+     "zh": "Pokee AI 发布 Pokee-Isaac 28B：专为在客户边界内运行而构建的 10M 代币上下文代理模型"
+    },
+    {
      "title": "重磅！苹果国行AI突然发布，首次官宣牵手阿里，Mac用上千问了",
      "link": "https://zhidx.com/p/583346.html",
      "pubDate": "Sat, 08 Aug 2026 23:00:25 +0800",
      "summary": "智东西 编译 | 毕伟豪 编辑 | 云鹏 智东西8月8日消息，今日，苹果官方悄悄更新了Mac使用手册，新增《在Mac上配合Apple智能使用千问》这一章节，这是苹果首次官方确认关于国行Apple智能合作的具体信息，意味着苹果国行Apple智能正式进入落地环节。 此前， 智东西从阿里巴巴方面获悉， 阿里千问将作为AI能力集成至 Apple智能 ，为iOS、iPadOS、macOS和visionOS的中国用户带来智能体验。用户无需在应用间切换，即可在苹果设备上直接体验千问的文本与图像理解、内容生成等能力。 而此次Mac使用手册的更新，是苹果官方首次确认这一消息，并对具体合作细节进行了公开展示。 一",
      "source": "智东西",
      "zh": "重磅！苹果国行AI突然发布，首次官宣牵手阿里，Mac用上千问了"
+    },
+    {
+     "title": "Designing Scalable Interactive Visualizations with Reflex XY: Composition, Million-Point Rendering, Streaming, Custom Marks, and Export",
+     "link": "https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/",
+     "pubDate": "Sat, 08 Aug 2026 09:42:18 +0000",
+     "summary": "Dive into the advanced visualization capabilities of the Reflex XY Python library. This tutorial guides you through building high-performance, interactive charts—from handling million-point datasets and real-time streaming to creating custom mark plugins and exporting publication-ready visuals. The ",
+     "source": "MarkTechPost",
+     "zh": "使用 Reflex XY 设计可扩展的交互式可视化：合成、百万点渲染、流式传输、自定义标记和导出"
     },
     {
      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
@@ -56,6 +80,14 @@ window.INDUSTRY_DATA = {
      "summary": "「我，Jeff Dean，打钱」",
      "source": "量子位",
      "zh": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱"
+    },
+    {
+     "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size",
+     "link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
+     "pubDate": "Sat, 08 Aug 2026 04:36:26 +0000",
+     "summary": "Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single yes/no question instead of a fixed harm taxonomy. Operators supply the policy as a plain-language query at inference time and get back a calibrated saf",
+     "source": "MarkTechPost",
+     "zh": "Mistral AI 发布 Shieldstral 1.0 3B：开放权重策略自适应多模态安全分类器，匹配 7 倍大小的模型"
     },
     {
      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
@@ -114,12 +146,28 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度"
     },
     {
+     "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
+     "link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
+     "pubDate": "Fri, 07 Aug 2026 21:52:48 +0000",
+     "summary": "Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets — Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, H",
+     "source": "MarkTechPost",
+     "zh": "腾讯云开源TencentDB Agent Memory v2.0：面向AI Coding Agent的团队级内存中心"
+    },
+    {
      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
      "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000",
      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
      "source": "TechCrunch AI",
      "zh": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具"
+    },
+    {
+     "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
+     "link": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
+     "pubDate": "Fri, 07 Aug 2026 21:13:38 +0000",
+     "summary": "In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python 3.12 environment, installing the required packages, and performing offline PDF text extraction without relying on a GPU or external API key. We then ",
+     "source": "MarkTechPost",
+     "zh": "使用 NVIDIA NeMo Retriever、托管 NIM、LanceDB、重新排名和接地生成构建多模式 RAG 管道"
     },
     {
      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
@@ -200,54 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 2026年，AI视频生成工具，究竟能把一个创作者的能力推到哪一步？ 智东西8月7日报道，近日，美图旗下AI短剧创作工具RoboNeo迎来了全新升级，在人像肤质以及视频生成可控性方面做了重点优化。 就在刚刚，RoboNeo还接入了Seedance 2.5模型，在PC端限时5折优惠。 先来看一个小片段： 这是我在RoboNeo中生成的一段视频。从人物素材、镜头设计到最终成片，我没有使用传统剪辑软件，而是在RoboNeo的画布中，通过手动调试与AI结合的方式完成了整个制作流程。 这只是一次镜头实验，事实上，近期完成升级的Rob",
      "source": "智东西",
      "zh": "我，用美图Agent，一句话拍出AI短剧"
-    },
-    {
-     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-     "link": "https://openai.com/index/hsp-gruppe",
-     "pubDate": "Fri, 07 Aug 2026 09:00:00 GMT",
-     "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-     "source": "OpenAI",
-     "zh": "HSP GRUPPE 如何构建人工智能税务咨询能力"
-    },
-    {
-     "title": "GPT-5.6免费了？Luna免费文字聊天，还加入思考模式",
-     "link": "https://zhidx.com/p/583057.html",
-     "pubDate": "Fri, 07 Aug 2026 15:12:35 +0800",
-     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西8月7日消息，今天凌晨，OpenAI宣布，ChatGPT免费用户和Go用户的默认模型将调整为 GPT-5.6 Luna ，用户可 无限量使用 该模型进行文字聊天，但文件上传、图片生成和其他工具仍有限额。此外，OpenAI还将新增 “Thinking”按钮 ，可以让模型投入更多时间进行分析。 ▲OpenAI宣布用户可用GPT-5.6 Luna进行无限次文字聊天（图源：X） 对于Plus和Pro用户，OpenAI 更新了聊天场景中的GPT-5.6 Sol ，使其回答更加聚焦，并提高事实准确性。用户还可以通过新增的滑块，调节ChatGPT回答问题时的",
-     "source": "智东西",
-     "zh": "GPT-5.6免费了？Luna免费文字聊天，还加入思考模式"
-    },
-    {
-     "title": "实时视频版「Nano Banana」来了！160亿参数重磅开源",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=1&sn=b814cb5b87c9cb3677ac63eb1016e090",
-     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "实时视频版「Nano Banana」来了！160亿参数重磅开源"
-    },
-    {
-     "title": "AI推翻80年数学猜想，菲尔兹奖得主一夜没睡：以为要出局",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=2&sn=066eaef430c7d9307d33ebf126ba348c",
-     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "AI推翻80年数学猜想，菲尔兹奖得主一夜没睡：以为要出局"
-    },
-    {
-     "title": "600倍加速，720p视频实时生成！单卡也能带的动14B模型",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=3&sn=ed0d03f1c359c897e017abdeee7c1bcb",
-     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "600倍加速，720p视频实时生成！单卡也能带的动14B模型"
-    },
-    {
-     "title": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048906&idx=1&sn=f6af0867a0c72211fb12bdf0f7ff43a5",
-     "pubDate": "Fri, 07 Aug 2026 09:02:00 +0800",
-     "summary": "把强化学习后训练做成产品，这是Pyromind给Agent时代的解答",
-     "source": "机器之心",
-     "zh": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方"
     }
    ]
   },
@@ -378,14 +378,6 @@ window.INDUSTRY_DATA = {
      "zh": "英特尔和台积电采取不同的途径实现高数值孔径 EUV"
     },
     {
-     "title": "Nokia acquires NXP’s fab in Chandler, Arizona, for conversion to InP optical comms",
-     "link": "https://www.semiconductor-today.com/news_items/2026/aug/nokia-nxp-070826.shtml",
-     "pubDate": "Fri, 7 Aug 2026 15:44:22 +0100",
-     "summary": "Finland-based telecom equipment maker Nokia Corp says that, as part of its long-term plans for optical component manufacturing capacity expansion, it has entered into a definitive agreement to acquire the Chandler Semiconductor Fabrication campus in Arizona of NXP Semiconductors N.V. of Eindhoven, T",
-     "source": "Semiconductor Today",
-     "zh": "诺基亚收购恩智浦位于亚利桑那州钱德勒的工厂，用于转型为 InP 光通信"
-    },
-    {
      "title": "Neuraspace raises €15.6 million for AI-based space domain awareness",
      "link": "https://www.electronicsweekly.com/news/business/finance/neuraspace-raises-e15-6m-for-ai-based-space-domain-awareness-2026-08/",
      "pubDate": "Fri, 07 Aug 2026 14:32:52 +0000",
@@ -442,28 +434,12 @@ window.INDUSTRY_DATA = {
      "zh": "内部设备连接：下一代车辆的新设计规则"
     },
     {
-     "title": "NUBURU receives Italian Golden Power clearance to acquire 70% of Tekne",
-     "link": "https://www.semiconductor-today.com/news_items/2026/aug/nuburu-070826.shtml",
-     "pubDate": "Fri, 7 Aug 2026 09:30:29 +0100",
-     "summary": "NUBURU Inc of Centennial, CO, USA (a dual-use defense & security integrated platform company) says that the Italian Government has authorized the proposed acquisition by NUBURU Defense LLC of a 70% controlling interest in Tekne S.p.A. under Italy’s Golden Power framework...",
-     "source": "Semiconductor Today",
-     "zh": "NUBURU 获得意大利 Golden Power 批准收购 Tekne 70% 的股份"
-    },
-    {
      "title": "STMicroelectronics Bets on Hardware-Based Post-Quantum Cryptography with ST54M",
      "link": "https://www.eetimes.com/stmicroelectronics-bets-on-hardware-based-post-quantum-cryptography-with-st54m/",
      "pubDate": "Fri, 07 Aug 2026 08:00:00 +0000",
      "summary": "ST’s ST54M bakes post-quantum crypto into phone hardware before hackers harvest today’s secrets. The post STMicroelectronics Bets on Hardware-Based Post-Quantum Cryptography with ST54M appeared first on EE Times .",
      "source": "EE Times",
      "zh": "意法半导体通过 ST54M 押注于基于硬件的后量子加密技术"
-    },
-    {
-     "title": "Former Coherent CEO Chuck Mattera joins Uviquity as strategic advisor",
-     "link": "https://www.semiconductor-today.com/news_items/2026/aug/uviquity-070826.shtml",
-     "pubDate": "Fri, 7 Aug 2026 08:49:41 +0100",
-     "summary": "Uviquity of Raleigh, NC, USA – a venture-backed start-up founded in 2022 that is pioneering integrated photonics, developing photonic integrated circuits (PICs) on a proprietary aluminium nitride (AlN) platform for quantum and ultraviolet applications – says that Dr Vincent D. (Chuck) Mattera Jr, fo",
-     "source": "Semiconductor Today",
-     "zh": "相干公司前首席执行官 Chuck Mattera 加入 Uviquity 担任战略顾问"
     },
     {
      "title": "Chip Industry Week in Review",
@@ -490,12 +466,36 @@ window.INDUSTRY_DATA = {
      "zh": "白皮书：现代人工智能数据中心的半导体基础"
     },
     {
-     "title": "Wolfspeed and LITEON partner on 800VDC power solutions for hyperscale AI data centers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/aug/wolfspeed-liteon-060826.shtml",
-     "pubDate": "Thu, 6 Aug 2026 15:59:20 +0100",
-     "summary": "Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — and AI power solutions provider LITEON Technology Corp of Hsinchu, Taiwan have announced a strategic partnership and the qualification of Wolfspeed’s silicon carbide technology for deploy",
-     "source": "Semiconductor Today",
-     "zh": "Wolfspeed 和 LITEON 合作开发超大规模人工智能数据中心的 800VDC 电源解决方案"
+     "title": "Mach42 Delivers a Different Take on AI in the Design Flow at DAC 2026",
+     "link": "https://semiwiki.com/eda/mach42/371812-mach42-delivers-a-different-take-on-ai-in-the-design-flow-at-dac-2026/",
+     "pubDate": "Thu, 06 Aug 2026 13:00:42 +0000",
+     "summary": "I believe DAC 2026 will be remembered as the turning point for AI assisted design. There has been discussion about AI infusion in EDA for a while now. Most of it was about how AI can be added to traditional tools to make existing methodologies better. This year, that changed. There were several new ",
+     "source": "SemiWiki",
+     "zh": "Mach42 在 DAC 2026 的设计流程中提供了对人工智能的不同看法"
+    },
+    {
+     "title": "Separating The Chaff From The Wheat: Focusing On Only The RDC Violations You Care About",
+     "link": "https://semiengineering.com/separating-the-chaff-from-the-wheat-focusing-on-only-the-rdc-violations-you-care-about/",
+     "pubDate": "Thu, 06 Aug 2026 07:07:57 +0000",
+     "summary": "Combine structural analysis with timing awareness and context-based classification to distinguish real design risks from safe implementation choices. The post Separating The Chaff From The Wheat: Focusing On Only The RDC Violations You Care About appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "去芜存菁：只关注您关心的 RDC 违规行为"
+    },
+    {
+     "title": "Shared IDE For PCIe Bifurcation: Scaling Security Without Scaling Complexity & Resources",
+     "link": "https://semiengineering.com/shared-ide-for-pcie-bifurcation-scaling-security-without-scaling-complexity-resources/",
+     "pubDate": "Thu, 06 Aug 2026 07:06:17 +0000",
+     "summary": "Allowing multiple controllers and links to utilize a common security infrastructure while maintaining independent protection mechanisms. The post Shared IDE For PCIe Bifurcation: Scaling Security Without Scaling Complexity & Resources appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "PCIe 分叉的共享 IDE：在不扩展复杂性和资源的情况下扩展安全性"
+    },
+    {
+     "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
+     "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
+     "pubDate": "Mon, 03 Aug 2026 11:38:22 +0000",
+     "summary": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the i",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "使用仿真应用程序识别电子故障的根本原因"
     }
    ]
   },
@@ -1354,20 +1354,20 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX 西海岸发射潮继续进行“星链”任务"
     },
     {
-     "title": "Don't miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9",
-     "link": "https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026",
-     "pubDate": "Sat, 08 Aug 2026 14:00:00 +0000",
-     "summary": "Early risers will catch a spectacular sight in the predawn hours of Aug. 9, as the slender crescent moon shines close to the red light of Mars among the stars of the constellation Taurus.",
-     "source": "Space.com",
-     "zh": "8 月 9 日黎明前，不要错过靠近火星红光的新月"
-    },
-    {
      "title": "On this day in space! Aug. 8, 1977: Soviet Union's Salyut 5 reconnaissance space station burns up in Earth's atmosphere",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026",
      "pubDate": "Sat, 08 Aug 2026 14:00:00 +0000",
      "summary": "Salyut 5 was a Soviet space station and part of the highly-secretive Almaz military space station program.",
      "source": "Space.com",
      "zh": "在太空的这一天！ 1977 年 8 月 8 日：苏联礼炮 5 号侦察空间站在地球大气层中燃烧"
+    },
+    {
+     "title": "Don't miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9",
+     "link": "https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026",
+     "pubDate": "Sat, 08 Aug 2026 14:00:00 +0000",
+     "summary": "Early risers will catch a spectacular sight in the predawn hours of Aug. 9, as the slender crescent moon shines close to the red light of Mars among the stars of the constellation Taurus.",
+     "source": "Space.com",
+     "zh": "8 月 9 日黎明前，不要错过靠近火星红光的新月"
     },
     {
      "title": "Yes, North America gets a solar eclipse on Aug. 12. Here's where and when to see it",
@@ -1762,18 +1762,34 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Wikipedia's founder on his life's work: \"A propaganda tool\"",
+     "link": "https://nordictimes.com/world/wikipedias-founder-on-his-lifes-work-a-propaganda-tool/",
+     "pubDate": "Sat, 08 Aug 2026 21:34:58 +0000",
+     "summary": "Article URL: https://nordictimes.com/world/wikipedias-founder-on-his-lifes-work-a-propaganda-tool/ Comments URL: https://news.ycombinator.com/item?id=49226113 Points: 5 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "维基百科创始人谈其一生的工作：“宣传工具”"
+    },
+    {
      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
      "link": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
      "pubDate": "Sat, 08 Aug 2026 21:07:10 +0000",
-     "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/ Comments URL: https://news.ycombinator.com/item?id=49225918 Points: 11 # Comments: 4",
+     "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/ Comments URL: https://news.ycombinator.com/item?id=49225918 Points: 34 # Comments: 12",
      "source": "Hacker News",
      "zh": "第二次海狸袭击后，马里兰州关闭了更多坎宁安瀑布州立公园"
+    },
+    {
+     "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
+     "link": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
+     "pubDate": "Sat, 08 Aug 2026 20:37:24 +0000",
+     "summary": "Article URL: https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf Comments URL: https://news.ycombinator.com/item?id=49225676 Points: 10 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "数学在自然科学中的不合理有效性 [pdf]"
     },
     {
      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
      "link": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
      "pubDate": "Sat, 08 Aug 2026 19:38:08 +0000",
-     "summary": "Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute Comments URL: https://news.ycombinator.com/item?id=49225139 Points: 29 # Comments: 5",
+     "summary": "Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute Comments URL: https://news.ycombinator.com/item?id=49225139 Points: 45 # Comments: 8",
      "source": "Hacker News",
      "zh": "8 月 12 日日全食的开源交互式地图"
     },
@@ -1781,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
      "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
      "pubDate": "Sat, 08 Aug 2026 18:09:31 +0000",
-     "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 359 # Comments: 174",
+     "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 408 # Comments: 192",
      "source": "Hacker News",
      "zh": "丹麦要求学生进行书面作业答辩以打击人工智能作弊"
     },
@@ -1797,17 +1813,9 @@ window.INDUSTRY_DATA = {
      "title": "TinySol, a tiny solitaire game for DOS",
      "link": "https://classicbits.net/coding-and-software/my-software/monosol/",
      "pubDate": "Sat, 08 Aug 2026 17:42:40 +0000",
-     "summary": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 27 # Comments: 5",
+     "summary": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 36 # Comments: 7",
      "source": "Hacker News",
      "zh": "TinySol，一款 DOS 小型纸牌游戏"
-    },
-    {
-     "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
-     "link": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
-     "pubDate": "Sat, 08 Aug 2026 17:27:52 +0000",
-     "summary": "Article URL: https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country Comments URL: https://news.ycombinator.com/item?id=49223845 Points: 139 # Comments: 56",
-     "source": "Hacker News",
-     "zh": "亚马逊正在制造该国最大的污染源"
     },
     {
      "title": "DeepMind 的 WeatherNext 模型在飓风预测上取得突破",
@@ -1816,14 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "2025 年 10 月，加勒比海上空酝酿着一场风暴。气象模型对其路径有不同的预测。它会保持弱势最终登陆海地，还是会增强并袭击买加？由 Google DeepMind 和 Google Research 联合开发的模型 WeatherNext 选择了后者。在风暴登陆前五天，该模型以 80% 的置信度预测它将以五级飓风的强度袭击牙买加。飓风梅丽莎（Melissa）给牙买加带来了灾难性的洪水和山体滑坡。但 AI 模型帮助预报员更早向沿途社区发出预警，使他们有时间做好充足准备。研究人员在《自然》上发表论文，称 WeatherNext AI 模型能以前所未有的精度预测飓风。它能比现有模型提前一天发出预警",
      "source": "Solidot",
      "zh": "DeepMind 的 WeatherNext 模型在飓风预测上取得突破"
-    },
-    {
-     "title": "LinkedIn Feed Blocker",
-     "link": "https://github.com/andrewpollack/linkedin-feed-blocker",
-     "pubDate": "Sat, 08 Aug 2026 16:49:07 +0000",
-     "summary": "Article URL: https://github.com/andrewpollack/linkedin-feed-blocker Comments URL: https://news.ycombinator.com/item?id=49223475 Points: 137 # Comments: 79",
-     "source": "Hacker News",
-     "zh": "LinkedIn 提要拦截器"
     },
     {
      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
@@ -2258,60 +2258,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "销量快速增长，租赁成新选择—— 体验式消费带热运动相机（高质量发展微视角）",
-     "link": "http://finance.eastmoney.com/news/1348,202608093835874941.html",
-     "pubDate": "Sun, 09 Aug 2026 05:45:00 +0800",
-     "summary": "21.4% 上半年，重点平台运动相机销售额增长21.4%。 轻拨摇杆观察云台，翻转镜头开启自拍，双击屏幕尝试智能跟随功能……周末，河南郑州正弘城大疆门店内，款式多样的口袋相机与运动相机吸引了许多顾客前来体验。 “店里有4个系列、共计8款便携影像设备，价格从千元出头到4000多元，可满足不同预算顾客的需求。”门店负责人乔虎说。 32岁的张静阁从事 教育 工作，是一名运动相机爱好者。“2023年就入手了一台，既录制教学片段，也记录生活日常。”她说，这次来选购双摄像头版的新机型，一番体验下来，发现不仅变焦能力更强了，还可以外接补光灯，“以后去看演唱会也能用上，哪怕距离远，画面也是清晰的。” “年轻人",
+     "title": "加拿大一省进入紧急状态应对野火灾情",
+     "link": "http://finance.eastmoney.com/news/1351,202608093835879828.html",
+     "pubDate": "Sun, 09 Aug 2026 06:28:59 +0800",
+     "summary": "加拿大不列颠哥伦比亚省政府8日宣布全省进入紧急状态，以应对该省多地快速蔓延的野火灾情。 不列颠哥伦比亚省省长戴维·伊比在温哥华举行的新闻发布会上说：“目前状况非常危险，火势蔓延迅速且随时发生变化。”他表示，政府当前核心工作是保障生命安全和开展救援，救援人员正通过空中通道撤离受困民众。 不列颠哥伦比亚省应急管理厅说，进入紧急状态将使政府有更大的行政灵活性去应对火灾，包括征用住宿设施、实施局部交通管制等。 据了解，该省萨默兰地区火势尤为严峻，数千居民紧急撤离，部分房屋和财产烧毁。 加拿大总理马克·卡尼当天在社交媒体上表示，联邦政府已做好随时向不列颠哥伦比亚省提供全面救援支持的准备。 （文章来源：央",
      "source": "东方财富股票",
-     "zh": "销量快速增长，租赁成新选择—— 体验式消费带热运动相机（高质量发展微视角）"
+     "zh": "加拿大一省进入紧急状态应对野火灾情"
     },
     {
-     "title": "南非6所公立职业技术院校学生赴华参加新能源汽车技术研修，收获满满—— “触摸到全球汽车产业未来发展脉搏”（2026中非人文交流年）",
-     "link": "http://finance.eastmoney.com/news/11790,202608093835874826.html",
-     "pubDate": "Sun, 09 Aug 2026 05:44:59 +0800",
-     "summary": "“在中国的学习时光，让我更深入地理解了文化交流的意义”“中国之行收获满满，我们愿当南中职业 教育 合作的使者”……日前，在中国驻南非大使馆举行的座谈会上，36名南非学员分享了他们在中国参加培训的经历和感受。这些学员来自南非6所公立职业技术院校，在南非高等 教育 与培训部全额资助下，在北京工业职业技术学院进行了为期18周的 新能源 汽车 技术研修，于今年1月完成学业。 沉浸式实操培训打开新视野 “从内燃机的轰鸣到电动机的蜂鸣，是技术的跃迁。在中国，我触摸到全球 汽车 产业未来发展脉搏。”学员伊图梅伦·马西纳谈起中国之行，依然难掩兴奋。 “当得知有机会到中国学习 新能源 汽车 技术时，我非常激动。",
-     "source": "东方财富股票",
-     "zh": "南非6所公立职业技术院校学生赴华参加新能源汽车技术研修，收获满满—— “触摸到全球汽车产业未来发展脉搏”（2026中非人文交流年）"
-    },
-    {
-     "title": "How Qorvo's $22 Billion Merger Changes What Its Insider Filings Mean",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/qorvos-22-billion-merger-changes-214207196.html",
-     "pubDate": "2026-08-08T21:42:07Z",
+     "title": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal.",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-warned-dot-com-222000397.html",
+     "pubDate": "2026-08-08T22:20:00Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "Qorvo 220 亿美元的合并如何改变其内部文件的含义"
+     "zh": "沃伦·巴菲特对互联网泡沫发出警告。现在，股市也发出了同样的警告信号。"
     },
     {
-     "title": "上市公司业绩预告折射经济韧性",
-     "link": "http://finance.eastmoney.com/news/1354,202608093835874645.html",
-     "pubDate": "Sun, 09 Aug 2026 05:41:38 +0800",
-     "summary": "近期，A股上市公司上半年业绩预告密集披露，为观察中国经济提供了重要窗口。业绩预告显示，预披露上市公司总体经营稳健，在培育新质生产力、积蓄发展新动能方面取得积极成效，彰显了中国经济的韧性与活力。 人工智能 赛道景气度高 截至目前，深市已有超900家上市公司披露了上半年业绩预告，逾55%的企业业绩增长或改善，逾三成企业持续盈利且净利润增速超50%。 在 人工智能 产业需求驱动下，沪深两市主营业务为算力、存储的上市公司上半年普遍预喜，行业高景气度充分释放，增长动能强劲。 在沪市， 佰维存储 上半年预计实现营收150亿元至160亿元，同比大幅增长283.40%至308.96%，在 人工智能 算力爆发与",
+     "title": "DeepSeek涨价是割韭菜？便宜，不是国产大模型的唯一优势丨财经时评",
+     "link": "http://finance.eastmoney.com/news/1354,202608093835879970.html",
+     "pubDate": "Sun, 09 Aug 2026 06:16:04 +0800",
+     "summary": "“计划近期整体上调DeepSeek API（第三方接口）服务定价，预计涨幅较大。” 字数越少，事情越大。 近日，这则简短公告引发关注，以“价格屠夫”出名的DeepSeek（深度求索）宣布涨价。有些用户认为DeepSeek用低价引流后开始“割韭菜”，网友口中梁文锋的外号从“梁圣”改成了“梁子”。 事实上，此次涨价是DeepSeek针对开发者和企业端市场，而普通用户日常使用依然免费。 DeepSeek涨价通知。 过去两年，DeepSeek把API价格降到极低，“国产模型=高性价比”的标签深入人心。久而久之，许多人把便宜等同于实力。 事实并非如此。便宜，从来不是国产大模型唯一的优势。价格战，也不是唯",
      "source": "东方财富股票",
-     "zh": "上市公司业绩预告折射经济韧性"
+     "zh": "DeepSeek涨价是割韭菜？便宜，不是国产大模型的唯一优势丨财经时评"
     },
     {
-     "title": "上半年全国共查办不正当竞争案件11465件—— 整治“内卷式”竞争打出组合拳",
-     "link": "http://finance.eastmoney.com/news/1354,202608093835874475.html",
-     "pubDate": "Sun, 09 Aug 2026 05:41:38 +0800",
-     "summary": "市场监管总局近期通报上半年整治“内卷式”竞争的举措与成效。上半年，全国共查办不正当竞争案件11465件，其中网络虚假宣传、网络商业诋毁案件共2005件，释放出坚持监管规范与促进发展并重，推动形成良性竞争市场秩序的强烈信号。 近年来，以牺牲质量、压榨从业者为代价的价格竞争、“内卷式”竞争，已成为扰乱市场秩序、损害群众利益的突出问题。 低价“内卷”本质是一种低水平、粗放式的竞争方式。“很多企业和平台不靠产品、服务取胜，而是单纯靠拼低价换市场。”中国社会科学院大学互联网法治研究中心主任刘晓春表示，这种竞争模式，会导致经营者压缩生产和经营成本，容易带来品质下降、质量缩水，甚至出现劣质商品流入市场等问题",
+     "title": "以媒：美军中央司令部司令访以讨论“多战线局势”",
+     "link": "http://finance.eastmoney.com/news/1351,202608093835879415.html",
+     "pubDate": "Sun, 09 Aug 2026 06:15:48 +0800",
+     "summary": "以色列公共广播公司8日报道说，美军中央司令部司令布拉德·库珀当天抵达以色列进行短期访问，并同以色列国防军高层讨论“多战线局势”。 报道说，库珀在访问期间同以军总参谋长扎米尔及其他高级指挥官见面，评估“多战线局势”，并讨论加沙地带局势。美军目前继续在包括以色列在内的中东多地保持高度戒备，仍有数十架美军空中加油机、战斗机、防空系统以及数千名美军士兵驻扎在以色列。 报道称，库珀是在完成对巴林和阿联酋的访问后抵达以色列。伊朗总统佩泽希齐扬和美国副总统万斯此前先后发表声明，谈及双方达成新停火协议的可能性。此外，美国近期一直敦促以色列推进美方提出的、关于加沙停火与战后安排的“20点计划”。 （文章来源：新",
      "source": "东方财富股票",
-     "zh": "上半年全国共查办不正当竞争案件11465件—— 整治“内卷式”竞争打出组合拳"
+     "zh": "以媒：美军中央司令部司令访以讨论“多战线局势”"
     },
     {
-     "title": "全国首单基于“保险+期货”模式的生猪收入险落地山东莱西—— 生猪养殖户有了兜底保障",
-     "link": "http://finance.eastmoney.com/news/1354,202608093835874529.html",
-     "pubDate": "Sun, 09 Aug 2026 05:41:36 +0800",
-     "summary": "□ 生猪养殖 周期长、投入大、风险高，个体农户在应对市场起伏时往往力不从心，传统养殖模式难以有效平抑周期带来的冲击。 □ 这次基于大商所补贴生猪“保险+ 期货 ”收入险，首次实现了对生猪价格和产量的双重保障。 8月的山东莱西天气炎热，猪舍里风扇呼呼转着。马连庄镇养殖户徐瑞杰蹲在猪栏边，拍掉手上的 饲料 渣，语气比几个月前轻松了不少：“托了这份新保险的福，心里总算有底了。” 作为山东畜牧业大县，莱西年出栏生猪约60万头， 生猪养殖 是不少村镇的支柱产业。今年上半年，生猪价格持续低迷，徐瑞杰养了十几年猪，头一回感到“卖也不是、不卖也不是”的两难。一头猪养到出栏，各项成本加起来1400元左右，而市场",
+     "title": "美军中央司令部司令访以 讨论“多战线局势”",
+     "link": "http://global.eastmoney.com/news/11798,202608093835880039.html",
+     "pubDate": "Sun, 09 Aug 2026 06:15:19 +0800",
+     "summary": "据以色列方面8月8日消息，美军中央司令部司令布拉德·库珀当天抵达以色列进行短期访问，并同以色列国防军高层讨论“多战线局势”。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "全国首单基于“保险+期货”模式的生猪收入险落地山东莱西—— 生猪养殖户有了兜底保障"
+     "zh": "美军中央司令部司令访以 讨论“多战线局势”"
     },
     {
-     "title": "青岛即墨破解制造业“成长的烦恼”",
-     "link": "http://finance.eastmoney.com/news/1348,202608093835874757.html",
-     "pubDate": "Sun, 09 Aug 2026 05:41:35 +0800",
-     "summary": "走进青岛市即墨区的工业腹地，传统印象中“高耗能、高排放、高固废”的制造场景正在被颠覆。作为山东半岛重要的制造业基地，有着 汽车 、纺织、船舶等传统优势产业的即墨区，却长期面临资源能源消耗大、污染治理难、管理效率低等“成长的烦恼”。如何在保持工业竞争力的同时，破解绿色发展瓶颈？即墨区的求解思路是：以“降碳、循环、增效”为三维坐标，用问题倒逼改革，探索一条制造业集聚区向绿而生的突围之路。 再造生产流程 绿色工厂的成形，不是一个环节的修修补补，而是一场贯穿生产全流程的系统再造。在即墨，这场再造正从“对标差距”开始——区级层面建立梯度培育库，组织专家上门诊断，帮助企业从用地集约化、原料无害化、生产洁净",
+     "title": "土外长称沙土巴三国共同防务协议有望扩员",
+     "link": "http://finance.eastmoney.com/news/1351,202608093835879085.html",
+     "pubDate": "Sun, 09 Aug 2026 06:15:17 +0800",
+     "summary": "土耳其外长费丹8日表示，新近达成的沙特阿拉伯、土耳其和巴基斯坦三国共同防务协议旨在增强区域自主权，应当继续发展壮大，有更多国家表达加入意愿。 费丹在参加土耳其阿纳多卢通讯社直播访谈时表示，签署《麦加共同防务协议》是为该地区带来持久稳定的重要一步。该协议不应局限于现有三个国家，而应该继续发展壮大。他透露，有更多国家表达了加入该协议的意愿，并表示“埃及很可能在下一阶段加入”。 针对该协议中的共同防御条款，费丹称，其在技术上与北约集体防御条款相同。但他同时表示：“这些总体承诺在实践中如何落实，取决于相关委员会的讨论和决定。” 据他介绍，三国将共同设立一个由各国外交部长、国防部 长和 总参谋长组成的政",
      "source": "东方财富股票",
-     "zh": "青岛即墨破解制造业“成长的烦恼”"
+     "zh": "土外长称沙土巴三国共同防务协议有望扩员"
     },
     {
      "title": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
@@ -2496,6 +2488,14 @@ window.INDUSTRY_DATA = {
      "summary": "中新经纬8月8日电 今年第13号台风“白海豚”携风裹雨直扑东海沿岸。多地发文部署台风“白海豚”防御工作，铁路部门停运部分列车，上海轮渡全线停航，多家景区调整运营，多个演唱会紧急取消。 农业农村部部署台风“白海豚”防范应对工作 据农业农村部网站消息，农业农村部日前就做好台风“白海豚”防范应对工作作出部署，要求各地强化责任落实、监测预警、防范应对、灾后恢复和指导服务，努力减轻灾害影响，保障人民...",
      "source": "经济观察网",
      "zh": "台风“白海豚”逼近，多地部署防御工作，部分列车停运，多家景区调整运营，多个演唱会紧急取消"
+    },
+    {
+     "title": "飞天茅台自营门店价格再度上调，终端售价已涨至1760元/瓶",
+     "link": "http://www.eeo.com.cn/2026/0808/991115.shtml",
+     "pubDate": "Sat, 08 Aug 2026 21:52:10 +0800",
+     "summary": "【飞天茅台自营门店价格再度上调，终端售价已涨至1760元/瓶】 今日有消息称，飞天茅台自营店售价已涨至1753元/瓶，7月底该产品在自营门店刚刚上调至1719元/瓶。有经销商向记者表示，当前飞天茅台终端售价已涨至1760元/瓶。这已经是茅台自营门店今年第二次独立提价。7月底，记者从茅台自营门店处获悉，公司自营体系飞天茅台酒零售价调整为1719元/瓶。（每日经济新闻）",
+     "source": "经济观察网",
+     "zh": "飞天茅台自营门店价格再度上调，终端售价已涨至1760元/瓶"
     }
    ]
   },

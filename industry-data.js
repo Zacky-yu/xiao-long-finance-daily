@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/9 05:30:24",
+ "generated_at": "2026/8/9 05:58:21",
  "recent_days": 7,
  "industries": [
   {
@@ -1354,20 +1354,20 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX 西海岸发射潮继续进行“星链”任务"
     },
     {
-     "title": "On this day in space! Aug. 8, 1977: Soviet Union's Salyut 5 reconnaissance space station burns up in Earth's atmosphere",
-     "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026",
-     "pubDate": "Sat, 08 Aug 2026 14:00:00 +0000",
-     "summary": "Salyut 5 was a Soviet space station and part of the highly-secretive Almaz military space station program.",
-     "source": "Space.com",
-     "zh": "在太空的这一天！ 1977 年 8 月 8 日：苏联礼炮 5 号侦察空间站在地球大气层中燃烧"
-    },
-    {
      "title": "Don't miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9",
      "link": "https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026",
      "pubDate": "Sat, 08 Aug 2026 14:00:00 +0000",
      "summary": "Early risers will catch a spectacular sight in the predawn hours of Aug. 9, as the slender crescent moon shines close to the red light of Mars among the stars of the constellation Taurus.",
      "source": "Space.com",
      "zh": "8 月 9 日黎明前，不要错过靠近火星红光的新月"
+    },
+    {
+     "title": "On this day in space! Aug. 8, 1977: Soviet Union's Salyut 5 reconnaissance space station burns up in Earth's atmosphere",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026",
+     "pubDate": "Sat, 08 Aug 2026 14:00:00 +0000",
+     "summary": "Salyut 5 was a Soviet space station and part of the highly-secretive Almaz military space station program.",
+     "source": "Space.com",
+     "zh": "在太空的这一天！ 1977 年 8 月 8 日：苏联礼炮 5 号侦察空间站在地球大气层中燃烧"
     },
     {
      "title": "Yes, North America gets a solar eclipse on Aug. 12. Here's where and when to see it",
@@ -1765,7 +1765,7 @@ window.INDUSTRY_DATA = {
      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
      "link": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
      "pubDate": "Sat, 08 Aug 2026 21:07:10 +0000",
-     "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/ Comments URL: https://news.ycombinator.com/item?id=49225918 Points: 6 # Comments: 2",
+     "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/ Comments URL: https://news.ycombinator.com/item?id=49225918 Points: 11 # Comments: 4",
      "source": "Hacker News",
      "zh": "第二次海狸袭击后，马里兰州关闭了更多坎宁安瀑布州立公园"
     },
@@ -1773,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
      "link": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
      "pubDate": "Sat, 08 Aug 2026 19:38:08 +0000",
-     "summary": "Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute Comments URL: https://news.ycombinator.com/item?id=49225139 Points: 29 # Comments: 4",
+     "summary": "Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute Comments URL: https://news.ycombinator.com/item?id=49225139 Points: 29 # Comments: 5",
      "source": "Hacker News",
      "zh": "8 月 12 日日全食的开源交互式地图"
     },
@@ -1781,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
      "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
      "pubDate": "Sat, 08 Aug 2026 18:09:31 +0000",
-     "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 339 # Comments: 164",
+     "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 359 # Comments: 174",
      "source": "Hacker News",
      "zh": "丹麦要求学生进行书面作业答辩以打击人工智能作弊"
     },
@@ -1797,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "TinySol, a tiny solitaire game for DOS",
      "link": "https://classicbits.net/coding-and-software/my-software/monosol/",
      "pubDate": "Sat, 08 Aug 2026 17:42:40 +0000",
-     "summary": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 25 # Comments: 5",
+     "summary": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 27 # Comments: 5",
      "source": "Hacker News",
      "zh": "TinySol，一款 DOS 小型纸牌游戏"
     },
@@ -1805,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
      "link": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
      "pubDate": "Sat, 08 Aug 2026 17:27:52 +0000",
-     "summary": "Article URL: https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country Comments URL: https://news.ycombinator.com/item?id=49223845 Points: 133 # Comments: 52",
+     "summary": "Article URL: https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country Comments URL: https://news.ycombinator.com/item?id=49223845 Points: 139 # Comments: 56",
      "source": "Hacker News",
      "zh": "亚马逊正在制造该国最大的污染源"
     },
@@ -1821,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "LinkedIn Feed Blocker",
      "link": "https://github.com/andrewpollack/linkedin-feed-blocker",
      "pubDate": "Sat, 08 Aug 2026 16:49:07 +0000",
-     "summary": "Article URL: https://github.com/andrewpollack/linkedin-feed-blocker Comments URL: https://news.ycombinator.com/item?id=49223475 Points: 134 # Comments: 78",
+     "summary": "Article URL: https://github.com/andrewpollack/linkedin-feed-blocker Comments URL: https://news.ycombinator.com/item?id=49223475 Points: 137 # Comments: 79",
      "source": "Hacker News",
      "zh": "LinkedIn 提要拦截器"
     },
@@ -2258,28 +2258,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "What a $2.2 Million Portfolio Actually Pays After Taxes in Florida vs. New York",
-     "link": "https://finance.yahoo.com/markets/currencies/articles/2-2-million-portfolio-actually-211114864.html",
-     "pubDate": "2026-08-08T21:11:14Z",
+     "title": "销量快速增长，租赁成新选择—— 体验式消费带热运动相机（高质量发展微视角）",
+     "link": "http://finance.eastmoney.com/news/1348,202608093835874941.html",
+     "pubDate": "Sun, 09 Aug 2026 05:45:00 +0800",
+     "summary": "21.4% 上半年，重点平台运动相机销售额增长21.4%。 轻拨摇杆观察云台，翻转镜头开启自拍，双击屏幕尝试智能跟随功能……周末，河南郑州正弘城大疆门店内，款式多样的口袋相机与运动相机吸引了许多顾客前来体验。 “店里有4个系列、共计8款便携影像设备，价格从千元出头到4000多元，可满足不同预算顾客的需求。”门店负责人乔虎说。 32岁的张静阁从事 教育 工作，是一名运动相机爱好者。“2023年就入手了一台，既录制教学片段，也记录生活日常。”她说，这次来选购双摄像头版的新机型，一番体验下来，发现不仅变焦能力更强了，还可以外接补光灯，“以后去看演唱会也能用上，哪怕距离远，画面也是清晰的。” “年轻人",
+     "source": "东方财富股票",
+     "zh": "销量快速增长，租赁成新选择—— 体验式消费带热运动相机（高质量发展微视角）"
+    },
+    {
+     "title": "南非6所公立职业技术院校学生赴华参加新能源汽车技术研修，收获满满—— “触摸到全球汽车产业未来发展脉搏”（2026中非人文交流年）",
+     "link": "http://finance.eastmoney.com/news/11790,202608093835874826.html",
+     "pubDate": "Sun, 09 Aug 2026 05:44:59 +0800",
+     "summary": "“在中国的学习时光，让我更深入地理解了文化交流的意义”“中国之行收获满满，我们愿当南中职业 教育 合作的使者”……日前，在中国驻南非大使馆举行的座谈会上，36名南非学员分享了他们在中国参加培训的经历和感受。这些学员来自南非6所公立职业技术院校，在南非高等 教育 与培训部全额资助下，在北京工业职业技术学院进行了为期18周的 新能源 汽车 技术研修，于今年1月完成学业。 沉浸式实操培训打开新视野 “从内燃机的轰鸣到电动机的蜂鸣，是技术的跃迁。在中国，我触摸到全球 汽车 产业未来发展脉搏。”学员伊图梅伦·马西纳谈起中国之行，依然难掩兴奋。 “当得知有机会到中国学习 新能源 汽车 技术时，我非常激动。",
+     "source": "东方财富股票",
+     "zh": "南非6所公立职业技术院校学生赴华参加新能源汽车技术研修，收获满满—— “触摸到全球汽车产业未来发展脉搏”（2026中非人文交流年）"
+    },
+    {
+     "title": "How Qorvo's $22 Billion Merger Changes What Its Insider Filings Mean",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/qorvos-22-billion-merger-changes-214207196.html",
+     "pubDate": "2026-08-08T21:42:07Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "佛罗里达州与纽约州 220 万美元的投资组合税后实际支付额"
+     "zh": "Qorvo 220 亿美元的合并如何改变其内部文件的含义"
     },
     {
-     "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-     "link": "http://finance.eastmoney.com/news/1351,202608093835874125.html",
-     "pubDate": "Sun, 09 Aug 2026 05:10:58 +0800",
-     "summary": "本周，美股三大指数均录得上涨，标普500指数累计上涨3.58%，道指涨2.96%，纳指涨5.19%。标普500指数和道指本周均创下 历史新高 。 由科技股带动的强劲反弹推动美国股市升至历史高位，但下周公布的新通胀数据将成为市场的重要考验。 最新非农就业报告显示，美国7月就业岗位意外减少，降低了市场对美联储近期加息的担忧，推动股市上涨。 就业报告的变化，使下周公布的7月消费者价格指数（CPI）和生产者价格指数（PPI）数据受到更高关注。 伦敦证券交易所 集团（LSEG）数据显示，目前美国货币市场预计美联储9月加息概率约为44%。如果通胀数据表现疲弱，该概率可能进一步下降。 “市场存在通胀焦虑，”",
+     "title": "上市公司业绩预告折射经济韧性",
+     "link": "http://finance.eastmoney.com/news/1354,202608093835874645.html",
+     "pubDate": "Sun, 09 Aug 2026 05:41:38 +0800",
+     "summary": "近期，A股上市公司上半年业绩预告密集披露，为观察中国经济提供了重要窗口。业绩预告显示，预披露上市公司总体经营稳健，在培育新质生产力、积蓄发展新动能方面取得积极成效，彰显了中国经济的韧性与活力。 人工智能 赛道景气度高 截至目前，深市已有超900家上市公司披露了上半年业绩预告，逾55%的企业业绩增长或改善，逾三成企业持续盈利且净利润增速超50%。 在 人工智能 产业需求驱动下，沪深两市主营业务为算力、存储的上市公司上半年普遍预喜，行业高景气度充分释放，增长动能强劲。 在沪市， 佰维存储 上半年预计实现营收150亿元至160亿元，同比大幅增长283.40%至308.96%，在 人工智能 算力爆发与",
      "source": "东方财富股票",
-     "zh": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向"
+     "zh": "上市公司业绩预告折射经济韧性"
     },
     {
-     "title": "美消防部门证实：犹他州消防直升机坠毁致两人遇难",
-     "link": "http://finance.eastmoney.com/news/1351,202608093835874011.html",
-     "pubDate": "Sun, 09 Aug 2026 04:50:31 +0800",
-     "summary": "美国国家跨部门消防中心8日证实，此前一天在犹他州坠毁的消防直升机上的两名乘员已经遇难。 据该中心通报，这架与美国林业局签订合同的直升机在扑灭野火过程中发生事故，造成飞行员和另一名机组人员遇难。美国联邦航空局此前证实失事直升机型号为西科斯基S-64。 根据通报，全美目前有97处大型野火正在燃烧，超过3万名消防员奋战在各火灾现场。 受持续高温与干旱影响，美国西部多个州近期野火频发。 （文章来源：央视新闻）",
+     "title": "上半年全国共查办不正当竞争案件11465件—— 整治“内卷式”竞争打出组合拳",
+     "link": "http://finance.eastmoney.com/news/1354,202608093835874475.html",
+     "pubDate": "Sun, 09 Aug 2026 05:41:38 +0800",
+     "summary": "市场监管总局近期通报上半年整治“内卷式”竞争的举措与成效。上半年，全国共查办不正当竞争案件11465件，其中网络虚假宣传、网络商业诋毁案件共2005件，释放出坚持监管规范与促进发展并重，推动形成良性竞争市场秩序的强烈信号。 近年来，以牺牲质量、压榨从业者为代价的价格竞争、“内卷式”竞争，已成为扰乱市场秩序、损害群众利益的突出问题。 低价“内卷”本质是一种低水平、粗放式的竞争方式。“很多企业和平台不靠产品、服务取胜，而是单纯靠拼低价换市场。”中国社会科学院大学互联网法治研究中心主任刘晓春表示，这种竞争模式，会导致经营者压缩生产和经营成本，容易带来品质下降、质量缩水，甚至出现劣质商品流入市场等问题",
      "source": "东方财富股票",
-     "zh": "美消防部门证实：犹他州消防直升机坠毁致两人遇难"
+     "zh": "上半年全国共查办不正当竞争案件11465件—— 整治“内卷式”竞争打出组合拳"
+    },
+    {
+     "title": "全国首单基于“保险+期货”模式的生猪收入险落地山东莱西—— 生猪养殖户有了兜底保障",
+     "link": "http://finance.eastmoney.com/news/1354,202608093835874529.html",
+     "pubDate": "Sun, 09 Aug 2026 05:41:36 +0800",
+     "summary": "□ 生猪养殖 周期长、投入大、风险高，个体农户在应对市场起伏时往往力不从心，传统养殖模式难以有效平抑周期带来的冲击。 □ 这次基于大商所补贴生猪“保险+ 期货 ”收入险，首次实现了对生猪价格和产量的双重保障。 8月的山东莱西天气炎热，猪舍里风扇呼呼转着。马连庄镇养殖户徐瑞杰蹲在猪栏边，拍掉手上的 饲料 渣，语气比几个月前轻松了不少：“托了这份新保险的福，心里总算有底了。” 作为山东畜牧业大县，莱西年出栏生猪约60万头， 生猪养殖 是不少村镇的支柱产业。今年上半年，生猪价格持续低迷，徐瑞杰养了十几年猪，头一回感到“卖也不是、不卖也不是”的两难。一头猪养到出栏，各项成本加起来1400元左右，而市场",
+     "source": "东方财富股票",
+     "zh": "全国首单基于“保险+期货”模式的生猪收入险落地山东莱西—— 生猪养殖户有了兜底保障"
+    },
+    {
+     "title": "青岛即墨破解制造业“成长的烦恼”",
+     "link": "http://finance.eastmoney.com/news/1348,202608093835874757.html",
+     "pubDate": "Sun, 09 Aug 2026 05:41:35 +0800",
+     "summary": "走进青岛市即墨区的工业腹地，传统印象中“高耗能、高排放、高固废”的制造场景正在被颠覆。作为山东半岛重要的制造业基地，有着 汽车 、纺织、船舶等传统优势产业的即墨区，却长期面临资源能源消耗大、污染治理难、管理效率低等“成长的烦恼”。如何在保持工业竞争力的同时，破解绿色发展瓶颈？即墨区的求解思路是：以“降碳、循环、增效”为三维坐标，用问题倒逼改革，探索一条制造业集聚区向绿而生的突围之路。 再造生产流程 绿色工厂的成形，不是一个环节的修修补补，而是一场贯穿生产全流程的系统再造。在即墨，这场再造正从“对标差距”开始——区级层面建立梯度培育库，组织专家上门诊断，帮助企业从用地集约化、原料无害化、生产洁净",
+     "source": "东方财富股票",
+     "zh": "青岛即墨破解制造业“成长的烦恼”"
     },
     {
      "title": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
@@ -2288,22 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "Broadcom (AVGO) 将人工智能芯片热潮与软件安全推动相结合"
-    },
-    {
-     "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
-     "link": "http://finance.eastmoney.com/news/1354,202608093835873244.html",
-     "pubDate": "Sun, 09 Aug 2026 04:30:44 +0800",
-     "summary": "伯克希尔哈撒韦公司二季度大幅减少了庞大的现金储备，回购公司股票，并且时隔三年多首次买入的股票数量超过了卖出量。 当地时间周六上午，这家由传奇投资者沃伦·巴菲特打造的 综合 企业集团公布了二季度财报。 财报显示，伯克希尔Q2净利润升至256.7亿美元，合每股A级股（Class A）收益17,868美元；去年同期净利润为123.7亿美元，合每股A级股收益8,601美元。 剔除部分投资收益影响后，伯克希尔Q2营业利润同比增长16.3%，达到129.8亿美元，高于去年同期的111.6亿美元。 其中，由制造、服务和零售业务组成的业务组合利润增长24%，达到44.7亿美元。该业务组合涵盖 工业金属 零部件",
-     "source": "东方财富股票",
-     "zh": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票"
-    },
-    {
-     "title": "美军称已迫使53艘商船改变航线",
-     "link": "http://finance.eastmoney.com/news/1351,202608093835873942.html",
-     "pubDate": "Sun, 09 Aug 2026 04:10:40 +0800",
-     "summary": "当地时间8月8日，美国中央司令部表示，美国海军人员在“林肯”号航母上对F/A-18“超级大黄蜂”战机进行维护，以确保航母打击群的装备保持战备状态，继续严格执行对伊朗的海上封锁。截至当天，美军已使53艘商船改道，使2艘船只丧失航行能力，并登临检查了2艘船只。此外，美军还允许30多艘运载人道主义援助物资的船只通过封锁区。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "美军称已迫使53艘商船改变航线"
     },
     {
      "title": "SentinelOne (S) Deepens AWS Ties As Growth Accelerates",
@@ -2344,22 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA 问：谷歌人工智能领导层的变化是否应该引起投资者的关注？"
-    },
-    {
-     "title": "万斯称美伊冲突仍处于“博弈中段”",
-     "link": "http://finance.eastmoney.com/news/1351,202608093835873810.html",
-     "pubDate": "Sun, 09 Aug 2026 03:50:59 +0800",
-     "summary": "美国副总统万斯8日表示，美国同伊朗正在对话，美伊冲突仍处于“博弈中段”。 万斯当天在接受美国福克斯新闻频道采访时说，美伊冲突还没有结束，“但显然已不在开局阶段，而是进入了中局阶段”。他称，美国正在 综合 运用外交、经济和军事等一系列手段，以确保最终取得最好结果。 万斯说，美方当前最关注的是“尽可能增加通过霍尔木兹海峡运出的石油和 天然气 数量”，美方正在观察伊朗是否愿意作出必要的长期改变，从而与美国建立更好的关系。如果伊朗不愿意，美方会继续施压。 万斯还说，美方试图建立一套航行机制，确保过往船只能够安全通行。其中包括扫雷工作，同时“也需要伊朗方面做出承诺，保证不向商船开火”。 据伊朗法尔斯通讯",
-     "source": "东方财富股票",
-     "zh": "万斯称美伊冲突仍处于“博弈中段”"
-    },
-    {
-     "title": "乌外交部：乌无意向保加利亚方向发射任何装备",
-     "link": "http://finance.eastmoney.com/news/1351,202608093835873723.html",
-     "pubDate": "Sun, 09 Aug 2026 03:30:03 +0800",
-     "summary": "乌克兰外交部发言人季希8日表示，乌克兰方面正与保加利亚保持密切联系，以查明当天一架 无人机 在保加利亚坠落的具体情况。他强调， 乌军没有蓄意向保加利亚方向发射任何装备 。季希说，乌方正在核实事件的全部情况和相关技术事实，并愿与保加利亚方面开展合作，以查明事件细节。 8月8日早上，一架不明来源的 无人机 在保加利亚东北部与罗马尼亚边境附近坠落并发生爆炸，坠机地点靠近一条纵贯巴尔干半岛，通往多个国家的 天然气 输气管道。事发后，保加利亚外交部表示，坠落的 无人机 可能是乌克兰武装部队广泛使用的“玛雅”诱饵无人机。保加利亚外交部称，目前没有理由认为这一事件是蓄意的。保加利亚外交部长已就此事约见乌克兰",
-     "source": "东方财富股票",
-     "zh": "乌外交部：乌无意向保加利亚方向发射任何装备"
     },
     {
      "title": "SA Asks: What's the outlook for Big Pharma M&A?",

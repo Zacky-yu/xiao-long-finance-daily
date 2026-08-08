@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/8 23:58:58",
+ "generated_at": "2026/8/9 00:45:08",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,14 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 编译 | 毕伟豪 编辑 | 云鹏 智东西8月8日消息，今日，苹果官方悄悄更新了Mac使用手册，新增《在Mac上配合Apple智能使用千问》这一章节，这是苹果首次官方确认关于国行Apple智能合作的具体信息，意味着苹果国行Apple智能正式进入落地环节。 此前， 智东西从阿里巴巴方面获悉， 阿里千问将作为AI能力集成至 Apple智能 ，为iOS、iPadOS、macOS和visionOS的中国用户带来智能体验。用户无需在应用间切换，即可在苹果设备上直接体验千问的文本与图像理解、内容生成等能力。 而此次Mac使用手册的更新，是苹果官方首次确认这一消息，并对具体合作细节进行了公开展示。 一",
      "source": "智东西",
      "zh": "重磅！苹果国行AI突然发布，首次官宣牵手阿里，Mac用上千问了"
+    },
+    {
+     "title": "Designing Scalable Interactive Visualizations with Reflex XY: Composition, Million-Point Rendering, Streaming, Custom Marks, and Export",
+     "link": "https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/",
+     "pubDate": "Sat, 08 Aug 2026 09:42:18 +0000",
+     "summary": "Dive into the advanced visualization capabilities of the Reflex XY Python library. This tutorial guides you through building high-performance, interactive charts—from handling million-point datasets and real-time streaming to creating custom mark plugins and exporting publication-ready visuals. The ",
+     "source": "MarkTechPost",
+     "zh": "使用 Reflex XY 设计可扩展的交互式可视化：合成、百万点渲染、流式传输、自定义标记和导出"
     },
     {
      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
@@ -40,6 +48,14 @@ window.INDUSTRY_DATA = {
      "summary": "「我，Jeff Dean，打钱」",
      "source": "量子位",
      "zh": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱"
+    },
+    {
+     "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size",
+     "link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
+     "pubDate": "Sat, 08 Aug 2026 04:36:26 +0000",
+     "summary": "Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single yes/no question instead of a fixed harm taxonomy. Operators supply the policy as a plain-language query at inference time and get back a calibrated saf",
+     "source": "MarkTechPost",
+     "zh": "Mistral AI 发布 Shieldstral 1.0 3B：开放权重策略自适应多模态安全分类器，匹配 7 倍大小的模型"
     },
     {
      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
@@ -98,12 +114,36 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度"
     },
     {
+     "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
+     "link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
+     "pubDate": "Fri, 07 Aug 2026 21:52:48 +0000",
+     "summary": "Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets — Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, H",
+     "source": "MarkTechPost",
+     "zh": "腾讯云开源TencentDB Agent Memory v2.0：面向AI Coding Agent的团队级内存中心"
+    },
+    {
      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
      "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000",
      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
      "source": "TechCrunch AI",
      "zh": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具"
+    },
+    {
+     "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
+     "link": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
+     "pubDate": "Fri, 07 Aug 2026 21:13:38 +0000",
+     "summary": "In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python 3.12 environment, installing the required packages, and performing offline PDF text extraction without relying on a GPU or external API key. We then ",
+     "source": "MarkTechPost",
+     "zh": "使用 NVIDIA NeMo Retriever、托管 NIM、LanceDB、重新排名和接地生成构建多模式 RAG 管道"
+    },
+    {
+     "title": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class",
+     "link": "https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/",
+     "pubDate": "Fri, 07 Aug 2026 20:42:02 +0000",
+     "summary": "NVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-agnostic Python framework for building AI agents. Agent development today is split across prompt templates, tool schemas, callback code, and workflow graphs. NOOA collapses all of it into one Python class. Methods are the act",
+     "source": "MarkTechPost",
+     "zh": "NVIDIA AI 发布 NOOA：一个面向对象的 Python 框架，可将 AI 代理转变为单个 Python 类"
     },
     {
      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
@@ -208,46 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
      "source": "OpenAI",
      "zh": "HSP GRUPPE 如何构建人工智能税务咨询能力"
-    },
-    {
-     "title": "GPT-5.6免费了？Luna免费文字聊天，还加入思考模式",
-     "link": "https://zhidx.com/p/583057.html",
-     "pubDate": "Fri, 07 Aug 2026 15:12:35 +0800",
-     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西8月7日消息，今天凌晨，OpenAI宣布，ChatGPT免费用户和Go用户的默认模型将调整为 GPT-5.6 Luna ，用户可 无限量使用 该模型进行文字聊天，但文件上传、图片生成和其他工具仍有限额。此外，OpenAI还将新增 “Thinking”按钮 ，可以让模型投入更多时间进行分析。 ▲OpenAI宣布用户可用GPT-5.6 Luna进行无限次文字聊天（图源：X） 对于Plus和Pro用户，OpenAI 更新了聊天场景中的GPT-5.6 Sol ，使其回答更加聚焦，并提高事实准确性。用户还可以通过新增的滑块，调节ChatGPT回答问题时的",
-     "source": "智东西",
-     "zh": "GPT-5.6免费了？Luna免费文字聊天，还加入思考模式"
-    },
-    {
-     "title": "实时视频版「Nano Banana」来了！160亿参数重磅开源",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=1&sn=b814cb5b87c9cb3677ac63eb1016e090",
-     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "实时视频版「Nano Banana」来了！160亿参数重磅开源"
-    },
-    {
-     "title": "AI推翻80年数学猜想，菲尔兹奖得主一夜没睡：以为要出局",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=2&sn=066eaef430c7d9307d33ebf126ba348c",
-     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "AI推翻80年数学猜想，菲尔兹奖得主一夜没睡：以为要出局"
-    },
-    {
-     "title": "600倍加速，720p视频实时生成！单卡也能带的动14B模型",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=3&sn=ed0d03f1c359c897e017abdeee7c1bcb",
-     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "600倍加速，720p视频实时生成！单卡也能带的动14B模型"
-    },
-    {
-     "title": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048906&idx=1&sn=f6af0867a0c72211fb12bdf0f7ff43a5",
-     "pubDate": "Fri, 07 Aug 2026 09:02:00 +0800",
-     "summary": "把强化学习后训练做成产品，这是Pyromind给Agent时代的解答",
-     "source": "机器之心",
-     "zh": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方"
     }
    ]
   },
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Iran Says Hormuz Stays Closed Until U.S. Meets Six Sweeping Demands",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Hormuz-Stays-Closed-Until-US-Meets-Six-Sweeping-Demands.html",
+     "pubDate": "Sat, 08 Aug 2026 11:36:03 -0500",
+     "summary": "Iran has effectively rejected expectations of an imminent reopening of the Strait of Hormuz, laying out sweeping conditions that would require the United States to fundamentally change its policy toward Tehran. In a statement issued by Mohammad Baqer Zolghadr, secretary of Iran's Supreme National Se",
+     "source": "OilPrice",
+     "zh": "伊朗表示，在美国满足六项全面要求之前，霍尔木兹海峡将保持关闭"
+    },
+    {
      "title": "BYD Expands PH EV Lineup with Double Model Launch, Celebrates Sealion 6 Milestone",
      "link": "https://cleantechnica.com/2026/08/08/byd-expands-ph-ev-lineup-with-double-model-launch-celebrates-sealion-6-milestone/",
      "pubDate": "Sat, 08 Aug 2026 15:04:01 +0000",
@@ -960,14 +968,6 @@ window.INDUSTRY_DATA = {
      "summary": "On this episode of the This Week in Cleantech podcast, Heather Clancy from Trellis discusses why some data center companies see fuel cells as an attractive option for onsite power.",
      "source": "Renewable Energy World",
      "zh": "考虑到供电速度，数据中心正在关注燃料电池——本周的清洁技术"
-    },
-    {
-     "title": "Russia’s Labor Shortage Worsens as Central Asian Workers Stay Away",
-     "link": "https://oilprice.com/Energy/Energy-General/Russias-Labor-Shortage-Worsens-as-Central-Asian-Workers-Stay-Away.html",
-     "pubDate": "Fri, 07 Aug 2026 14:00:00 -0500",
-     "summary": "The bad economic news keeps coming for the Russian economy. An analysis of Russian government data by the business daily Vedomosti shows that the influx of Central Asian labor migrants to Russia fell by roughly 15 percent during the first half of 2026, deepening an already critical labor shortage in",
-     "source": "OilPrice",
-     "zh": "中亚工人远离俄罗斯，劳动力短缺加剧"
     },
     {
      "title": "India plans PLI scheme for more than 10GW polysilicon capacity",
@@ -1306,6 +1306,22 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
+     "link": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids",
+     "pubDate": "Sat, 08 Aug 2026 16:00:00 +0000",
+     "summary": "With many fan-favorite Autobots and Decepticons bumped off in the opening act, this was not the big-screen romp '80s kids were expecting.",
+     "source": "Space.com",
+     "zh": "《变形金刚：大电影》40 岁了：一部让一代孩子受到创伤的卡通衍生剧"
+    },
+    {
+     "title": "This Week In Space podcast: Episode 222 — How to Invade Earth in 22 Easy Steps",
+     "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-222-how-to-invade-earth-in-22-easy-steps",
+     "pubDate": "Sat, 08 Aug 2026 15:58:11 +0000",
+     "summary": "On Episode 222 of This Week In Space, Rod Pyle and Tariq Malik are joined by space writer Rich Edwards to discuss the best ways to repel space invaders.",
+     "source": "Space.com",
+     "zh": "本周太空播客：第 222 集 — 如何通过 22 个简单步骤入侵地球"
+    },
+    {
      "title": "Live Coverage: SpaceX West Coast launch surge continues with Starlink mission",
      "link": "https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission/",
      "pubDate": "Sat, 08 Aug 2026 14:08:54 +0000",
@@ -1368,22 +1384,6 @@ window.INDUSTRY_DATA = {
      "summary": "Erich Hernandez-Baquero will take over military space acquisition; Roger Mason will lead the National Reconnaissance Office The post Senate installs new chiefs for U.S. military space acquisition, spy satellites appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "参议院任命美国军事太空采购、间谍卫星新负责人"
-    },
-    {
-     "title": "SpaceX serious about building factories on the moon: 'It’s going to happen,' Elon Musk says",
-     "link": "https://www.space.com/astronomy/moon/spacex-serious-about-building-factories-on-the-moon-its-going-to-happen-elon-musk-says",
-     "pubDate": "Fri, 07 Aug 2026 21:00:00 +0000",
-     "summary": "SpaceX plans to build factories on the moon, using robots to do much of the heavy lifting, Elon Musk said on Tuesday (Aug. 4) during SpaceX's first-ever quarterly earnings call.",
-     "source": "Space.com",
-     "zh": "埃隆·马斯克表示，SpaceX 认真考虑在月球上建工厂：“这将会发生”"
-    },
-    {
-     "title": "'Not looking good right now': Starship likely to be lost at sea 2 weeks after epic 13th test flight, Elon Musk says",
-     "link": "https://www.space.com/space-exploration/launches-spacecraft/not-looking-good-right-now-starship-likely-to-be-lost-at-sea-2-weeks-after-epic-13th-test-flight-elon-musk-says",
-     "pubDate": "Fri, 07 Aug 2026 20:44:20 +0000",
-     "summary": "SpaceX is still towing Starship's upper stage toward shore two weeks after its latest test flight, but the unprecedented effort is unlikely to succeed, according to Elon Musk.",
-     "source": "Space.com",
-     "zh": "“现在看起来不太好”：埃隆·马斯克表示，在第 13 次史诗般的试飞两周后，星际飞船可能会在海上失踪"
     },
     {
      "title": "2026 IGARSS Hyperwall Schedule",
@@ -1764,10 +1764,34 @@ window.INDUSTRY_DATA = {
     {
      "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
      "link": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
-     "pubDate": "Sat, 08 Aug 2026 15:56:57 +0000",
+     "pubDate": "Sat, 08 Aug 2026 16:42:14 +0000",
      "summary": "The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.",
      "source": "WIRED",
      "zh": "有史以来拍摄的最清晰的太阳图像揭示了一个隐藏的现象"
+    },
+    {
+     "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+     "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+     "pubDate": "Sat, 08 Aug 2026 16:34:22 +0000",
+     "summary": "X is winding down its existing Revenue Sharing program.",
+     "source": "TechCrunch",
+     "zh": "X 用原创内容奖励取代了“不一致”的收入分享计划"
+    },
+    {
+     "title": "没有AI聊天的童年，将成为富人孩子的特权？",
+     "link": "https://www.huxiu.com/article/4881717.html?f=rss",
+     "pubDate": "Sun, 09 Aug 2026 00:07:01 +0800",
+     "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 阿加莎·克里斯蒂（Agatha Christie），推理小说女王，在一生卖出二十亿册书之后，晚年在自传里留下了一句话，后来被经济学家反复引用。她说，我从未想过自己有一天能富裕到买得起一辆车，也没想过会穷到连仆人都雇不起。 在她出生的1890年，汽车是顶级富豪才养得起的新鲜玩意儿。而人力，女仆、厨娘、保姆，便宜到连中产家庭都能配备齐全。等她八十岁写自传的时候，世界反了过来。福特流水线让汽车开进工薪家庭，而最低工资、教育普及和女权运动，把人力价格推到了奢侈的地步。 经济学里有个词专门说这个现象，专门说这个现象，叫鲍莫尔成本病：制造业效率可",
+     "source": "虎嗅",
+     "zh": "没有AI聊天的童年，将成为富人孩子的特权？"
+    },
+    {
+     "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+     "link": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+     "pubDate": "Sat, 08 Aug 2026 16:00:00 +0000",
+     "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
+     "source": "TechCrunch",
+     "zh": "Kindle Scribe Colorsoft 很有趣，但它不是必备品"
     },
     {
      "title": "Amazon is backing a 7.65 GW gas plant for an off-grid TX AI data center, potentially the largest single US emissions source, at odds with its 2040 net-zero goal (Hiroko Tabuchi/New York Times)",
@@ -1802,22 +1826,6 @@ window.INDUSTRY_DATA = {
      "zh": "vivo 神秘新机现身 Geekbench，天玑 7500 芯片"
     },
     {
-     "title": "NASA正在竭尽全力给旅行者号“续命”",
-     "link": "https://www.huxiu.com/article/4881715.html?f=rss",
-     "pubDate": "Sat, 08 Aug 2026 22:48:47 +0800",
-     "summary": "本文来自微信公众号： NASA爱好者 ，作者：Vger 此刻，NASA的“旅行者1号”（Voyager 1）探测器正以每小时超过约56,000公里的速度，在星际空间中疾驰而过，距离地球已超过240亿公里。而位于洛杉矶以北的NASA喷气推进实验室（JPL），正在竭尽全力，让这台“功勋探测器”能再多“活”一段时间。 自2012年以来，NASA的“旅行者1号”飞船一直在星际空间中疾驰，正如这幅由该航天局委托创作的概念图所描绘的那样。 本周二，JPL的旅行者任务工程师们宣布，他们已经在“旅行者1号”的姊妹探测器，“旅行者2号”身上，成功执行了一项至关重要的节能“黑科技”方案。他们将这项操作命名为“大爆",
-     "source": "虎嗅",
-     "zh": "NASA正在竭尽全力给旅行者号“续命”"
-    },
-    {
-     "title": "当知识不再稀缺，人该回到哪里？：准大学生的暑假，请留白!",
-     "link": "https://www.huxiu.com/article/4881713.html?f=rss",
-     "pubDate": "Sat, 08 Aug 2026 22:36:29 +0800",
-     "summary": "本文来自微信公众号： 生态学时空 ，作者：复旦赵斌，原文标题：《当知识不再稀缺，人该回到哪里？——准大学生的暑假，请留白!》 每年暑期，都会有家长会忧心忡忡地来问我：孩子马上读大学了，暑假要不要先补补高数，比如学学编程啥的，把大学先修课都排满？他们怕孩子一进校就跟不上了。 我想，这种怕，恐怕从根上就怕错了方向。 一个准大学生此时最该拥有的，其实是\"留白\"。我不是反对鼓励孩子去读书、做实验、写点什么——这些当然可以，只要出自兴趣。我想说，最要紧的是别把这段时间填满，别让\"有目的的学习\"占据每一个清晨与黄昏。留白，是这个年纪最奢侈、也最难得的一件事。它是一切自主探索的前提；没有那段空着的时光，一个",
-     "source": "虎嗅",
-     "zh": "当知识不再稀缺，人该回到哪里？：准大学生的暑假，请留白!"
-    },
-    {
      "title": "西伯利亚甲烷排放量每年增加 1200 万吨",
      "link": "https://www.solidot.org/story?sid=85040",
      "pubDate": "Sat, 08 Aug 2026 22:36:28 +0800",
@@ -1850,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "一次搭载 32 个实验室：SpaceX“星落”飞船将推动太空制药商业化"
     },
     {
-     "title": "屋顶上的韩国人，爆仓绞肉机血洗散户",
-     "link": "https://www.huxiu.com/article/4881711.html?f=rss",
-     "pubDate": "Sat, 08 Aug 2026 22:10:22 +0800",
-     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 01：屋顶上的韩国人 在1992年的美国洛杉矶暴动期间，面对涌入韩国城的骚乱暴徒，许多韩国人选择持枪反抗。 他们以自家店铺屋顶为据点，展开了军事化的武装自卫。 最终，不仅保护住了自己的财产，也让“屋顶上的韩国人”（Roof Koreans）一战成名，乃至成了后来流行多年的硬核网络迷因。 时过境迁，到了如今的AI时代，同样也出现了一批“屋顶上的韩国人”。 这些韩国人站在屋顶上，没有武器，没有反抗，因为他们没有守护住自己的财产，唯一拥有的是楼顶的大风。 在韩国股市多轮剧烈震荡后，爆仓的韩国股民越来越多。 当初许多人在巨大的“错失恐惧”下选择赌上",
-     "source": "虎嗅",
-     "zh": "屋顶上的韩国人，爆仓绞肉机血洗散户"
-    },
-    {
      "title": "Steam 喜加一：原价 92 元的外太空生存冒险游戏《呼吸边缘》免费领",
      "link": "https://www.ithome.com/0/987/444.htm",
      "pubDate": "Sat, 08 Aug 2026 14:09:00 GMT",
@@ -1869,17 +1869,9 @@ window.INDUSTRY_DATA = {
      "title": "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
      "link": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
      "pubDate": "Sat, 08 Aug 2026 14:07:06 +0000",
-     "summary": "Article URL: https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/ Comments URL: https://news.ycombinator.com/item?id=49221947 Points: 21 # Comments: 3",
+     "summary": "Article URL: https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/ Comments URL: https://news.ycombinator.com/item?id=49221947 Points: 28 # Comments: 6",
      "source": "Hacker News",
      "zh": "敏感信息不断出现在“无人回复”的电子邮件中。这个家伙看到了一切"
-    },
-    {
-     "title": "Don't use your phone while you poop",
-     "link": "https://nate.spot/no-phone-while-poop/",
-     "pubDate": "Sat, 08 Aug 2026 14:05:56 +0000",
-     "summary": "Article URL: https://nate.spot/no-phone-while-poop/ Comments URL: https://news.ycombinator.com/item?id=49221939 Points: 120 # Comments: 123",
-     "source": "Hacker News",
-     "zh": "大便时不要使用手机"
     },
     {
      "title": "买错机票 7 分钟退票被扣 2022 元，长龙航空回应已和解细节不便透露",
@@ -1901,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Gentoo bugzilla closed due AI bot scraper overload",
      "link": "https://social.treehouse.systems/@mgorny/117058483039362779",
      "pubDate": "Sat, 08 Aug 2026 13:55:42 +0000",
-     "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 58 # Comments: 19",
+     "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 80 # Comments: 32",
      "source": "Hacker News",
      "zh": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭"
     },
@@ -1922,18 +1914,18 @@ window.INDUSTRY_DATA = {
      "zh": "韩国人工智能驱动的芯片产业繁荣正在重塑该国社会，改变人们对公平、职业、甚至文化和约会的期望（彭博社）"
     },
     {
-     "title": "2026吴声年度演讲：下一代消费者，身体感、创造欲、信息祛魅",
-     "link": "https://www.huxiu.com/article/4881702.html?f=rss",
-     "pubDate": "Sat, 08 Aug 2026 21:32:44 +0800",
-     "summary": "本文来自微信公众号： 吴声造物 ，演讲嘉宾：吴声（场景实验室创始人、场景方法论），原文标题：《2026香港吴声年度演讲：下一代消费者，身体感、创造欲、信息祛魅》，头图来自：演讲嘉宾供图 2026年8月8日，第十届立秋演讲“新物种爆炸·吴声商业方法发布2026”在香港会议展览中心举行，主题为“我将宇宙随身携带”。 以下为吴声造物特别呈现的“吴声2026年度演讲”全文： 一、开篇：我将宇宙随身携带 第十年，从北京到香港 新物种爆炸第十年，我们来了香港。 中国香港，这座永远在融合中维持平衡的城市，本身就是一个活着的新物种。一场演讲能够被一座建筑、一个时间、一个动作所记住，也许正是场景的力量。 记得几",
-     "source": "虎嗅",
-     "zh": "2026吴声年度演讲：下一代消费者，身体感、创造欲、信息祛魅"
+     "title": "Triton: DirectX 11 Driver for QEMU",
+     "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+     "pubDate": "Sat, 08 Aug 2026 13:33:06 +0000",
+     "summary": "Article URL: https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/ Comments URL: https://news.ycombinator.com/item?id=49221711 Points: 22 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Triton：适用于 QEMU 的 DirectX 11 驱动程序"
     },
     {
      "title": "Voyager 1 FDS Computer Emulator",
      "link": "https://zaneham.github.io/voyager-fds-emulator/",
      "pubDate": "Sat, 08 Aug 2026 13:28:38 +0000",
-     "summary": "Article URL: https://zaneham.github.io/voyager-fds-emulator/ Comments URL: https://news.ycombinator.com/item?id=49221679 Points: 27 # Comments: 6",
+     "summary": "Article URL: https://zaneham.github.io/voyager-fds-emulator/ Comments URL: https://news.ycombinator.com/item?id=49221679 Points: 33 # Comments: 8",
      "source": "Hacker News",
      "zh": "Voyager 1 FDS 计算机模拟器"
     },
@@ -1941,31 +1933,15 @@ window.INDUSTRY_DATA = {
      "title": "A domain can now say it is for sale, in DNS",
      "link": "https://specification.website/spec/foundations/for-sale-dns/",
      "pubDate": "Sat, 08 Aug 2026 13:26:51 +0000",
-     "summary": "Article URL: https://specification.website/spec/foundations/for-sale-dns/ Comments URL: https://news.ycombinator.com/item?id=49221668 Points: 100 # Comments: 49",
+     "summary": "Article URL: https://specification.website/spec/foundations/for-sale-dns/ Comments URL: https://news.ycombinator.com/item?id=49221668 Points: 136 # Comments: 60",
      "source": "Hacker News",
      "zh": "域名现在可以在 DNS 中说它正在出售"
-    },
-    {
-     "title": "印度最赚钱的生意，被AI连根拔起？",
-     "link": "https://www.huxiu.com/article/4881707.html?f=rss",
-     "pubDate": "Sat, 08 Aug 2026 21:26:20 +0800",
-     "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 3月31日，班加罗尔。 32岁的软件工程师巴努钱德拉・雷迪，在公寓里上吊自杀。 没过多久，他在IBM工作的妻子比比・沙兹娅・西拉杰，从17楼一跃而下。 一对高知夫妻，以最惨烈的方式，告别了这个世界。 警方的调查结果显示，雷迪此前在美国工作，年薪约800万卢比，折合人民币近57万。而在印度，年薪超过100万卢比就已经稳居高收入群体。 他曾经是人人羡慕的人生赢家。 直到AI砸了他的饭碗。 因为AI导致的岗位调整，雷迪丢了美国的工作。此后近一年，他在班加罗尔疯狂投简历、面试，却再也没能找到一份稳定的高薪职位。 年薪800万的人生赢家，不到一年就归零。",
-     "source": "虎嗅",
-     "zh": "印度最赚钱的生意，被AI连根拔起？"
-    },
-    {
-     "title": "美国AI巨头有没有梦到过伊朗导弹？",
-     "link": "https://www.huxiu.com/article/4881706.html?f=rss",
-     "pubDate": "Sat, 08 Aug 2026 21:15:23 +0800",
-     "summary": "本文来自微信公众号： 新潮沉思录 ，作者：潮思 虽然在西方的宣传机器中，伊朗常常被描述为一个野蛮不开化的国家，但无论是从政治体制还是教育普及度来看，伊朗都比很多西方国家更像是一个现代国家。同时伊朗在金融上其实也同样现代化，比如说最近对亚马逊在巴林的数据中心的打击，就显然深得现代金融的精髓，这是一个典型的做空人工智能市场的操作。 尽管天天研究宗教理论的老教士确实不懂金融，但伊朗的革命卫队系统可能是中东最懂经济和金融的一批人。他们面对美国的制裁，建立了一整套的地下金融网络，其中大量使用加密货币或是股票之类的方式来规避制裁。说他们不懂金融，美国执行制裁的那些人只怕是不会同意的。 而革命卫队显然也很清",
-     "source": "虎嗅",
-     "zh": "美国AI巨头有没有梦到过伊朗导弹？"
     },
     {
      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
      "link": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
      "pubDate": "Sat, 08 Aug 2026 12:31:11 +0000",
-     "summary": "Article URL: https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/ Comments URL: https://news.ycombinator.com/item?id=49221220 Points: 34 # Comments: 27",
+     "summary": "Article URL: https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/ Comments URL: https://news.ycombinator.com/item?id=49221220 Points: 52 # Comments: 38",
      "source": "Hacker News",
      "zh": "Gateway 2000 在 90 年代的搞笑糟糕广告（第二部分）"
     },
@@ -2000,6 +1976,30 @@ window.INDUSTRY_DATA = {
      "summary": "微软正在跟随 Google 的脚步，即将停止支持 Manifest V2 扩展如广告屏蔽扩展 uBlock Origin。微软称其扩展商店 Edge Add-On Store 只有 58 个高使用量扩展仍然是基于 Manifest V2，只有 3 个没有提供 Manifest V3 扩展。微软表示从本月开始逐步默认关闭所有剩余的 Manifest V2 扩展，用户会收到通知。微软计划到今年年底消费者用户扩展迁移到 Manifest V3，2027 年初关闭企业用户的 Manifest V2 扩展。使用 uBlock Origin 的用户可以改用精简版本 uBlock Origin Lite，或",
      "source": "Solidot",
      "zh": "Microsoft Edge 即将屏蔽流行扩展 uBlock Origin"
+    },
+    {
+     "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+     "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+     "pubDate": "Sat, 08 Aug 2026 11:05:50 +0000",
+     "summary": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+     "source": "Ars Technica",
+     "zh": "DeepMind 在飓风方面的突破让气象科学家感到惊讶"
+    },
+    {
+     "title": "Best Gaming Laptops (2026): Razer, Asus, Dell, and More",
+     "link": "https://www.wired.com/story/best-gaming-laptops/",
+     "pubDate": "Sat, 08 Aug 2026 11:01:00 +0000",
+     "summary": "You don’t want any old gaming laptop. Here’s my take on which to get, based on hundreds of hours of testing.",
+     "source": "WIRED",
+     "zh": "最佳游戏笔记本电脑（2026 年）：Razer、华硕、戴尔等"
+    },
+    {
+     "title": "Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited",
+     "link": "https://www.wired.com/review/xteink-x4-pro-e-reader/",
+     "pubDate": "Sat, 08 Aug 2026 10:36:00 +0000",
+     "summary": "Xteink’s new X4 Pro e-reader is its best yet, but the lack of an ebook store can be limiting.",
+     "source": "WIRED",
+     "zh": "Xteink X4 Pro 袖珍电子阅读器评测（2026）：有趣但有限"
     }
    ]
   },
@@ -2009,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Wired vs. wireless CarPlay: How are they different & which is better to use?",
+     "link": "https://www.engadget.com/2230261/carplay-wired-vs-wireless-differences-which-better/",
+     "pubDate": "Sat, 08 Aug 2026 16:30:00 +0000",
+     "summary": "There are advantages and disadvantages to both connection types. Here's how they compare and when you might choose one over the other.",
+     "source": "Engadget",
+     "zh": "有线与无线 CarPlay：它们有何不同以及哪个更好用？"
+    },
+    {
+     "title": "OnePlus is saying goodbye in Europe by offering you a free 50W wireless charger",
+     "link": "https://www.gsmarena.com/oneplus_is_saying_goodbye_in_europe_by_offering_you_a_free_50w_wireless_charger-news-74077.php",
+     "pubDate": "Sat, 08 Aug 2026 18:07:02 +0200",
+     "summary": "OnePlus is leaving Europe and North America, as the company has recently confirmed. As a parting gift, it's offering a free AIRVOOC 50W magnetic wireless charger in the UK, Germany, Spain, and France if you do two things: subscribe to the Oppo newsletter on Oppo's German website, and link your OnePl",
+     "source": "GSMArena",
+     "zh": "OnePlus 告别欧洲，免费提供 50W 无线充电器"
+    },
     {
      "title": "Claude Vs ChatGPT: How These AI Assistants Differ",
      "link": "https://www.engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ/",
@@ -2122,14 +2138,6 @@ window.INDUSTRY_DATA = {
      "zh": "我用价值 6 美元的一包 NFC 标签赋予了我的三星手机超能力——具体方法如下"
     },
     {
-     "title": "Big Walk, retro electronic repairs and other new indie games worth checking out",
-     "link": "https://www.engadget.com/2232571/big-walk-retro-electronic-repairs-and-other-new-indie-games-worth-checking-out/",
-     "pubDate": "Sat, 08 Aug 2026 11:30:00 +0000",
-     "summary": "We're looking forward to Big Walk, ReStory: Chill Electronics Repairs, Pigeon: A Love Story and several others this week.",
-     "source": "Engadget",
-     "zh": "Big Walk、复古电子维修和其他值得一试的新独立游戏"
-    },
-    {
      "title": "8 free Android productivity apps I can’t live without in 2026",
      "link": "https://www.androidauthority.com/best-free-android-productivity-apps-2026-3693553/",
      "pubDate": "Sat, 08 Aug 2026 11:00:35 +0000",
@@ -2226,14 +2234,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple 在 Made for iPhone 兼容性列表中添加了近 45 款听力设备"
     },
     {
-     "title": "Google's new Pixel Watch video teaser makes fun of its competitors' looks",
-     "link": "https://www.gsmarena.com/googles_new_pixel_watch_video_teaser_makes_fun_of_its_competitors_looks-news-74078.php",
-     "pubDate": "Sat, 08 Aug 2026 04:02:02 +0200",
-     "summary": "In just a few days, on August 12, Google will unveil the Pixel 11 family and the Pixel Watch 5. Ahead of that, the company has today published a new video teaser for the watch on its YouTube channel. It's short and to the point, as you can see. And the point? Well, the point is to poke fun at the Sa",
-     "source": "GSMArena",
-     "zh": "谷歌新推出的 Pixel Watch 视频预告片取笑竞争对手的外观"
-    },
-    {
      "title": "Pixelated 111: Primetime prep for Made By Google",
      "link": "https://9to5google.com/2026/08/07/pixelated-111-primetime-prep-for-made-by-google/",
      "pubDate": "Fri, 07 Aug 2026 21:37:17 +0000",
@@ -2257,6 +2257,110 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "My adult kids are big earners. Should I do a Roth conversion now so they aren’t taxed as much on their inheritance?",
+     "link": "https://www.marketwatch.com/story/my-adult-kids-are-big-earners-should-i-do-a-roth-conversion-now-so-they-arent-taxed-as-much-on-their-inheritance-c136adae?mod=mw_rss_topstories",
+     "pubDate": "Sat, 08 Aug 2026 16:34:00 GMT",
+     "summary": "Inherited IRAs can create a tax liability for heirs, but this should not be your first concern.",
+     "source": "MarketWatch",
+     "zh": "我的成年孩子都是高收入者。我现在应该进行罗斯转换，这样他们就不用为自己的遗产缴纳那么多税吗？"
+    },
+    {
+     "title": "一直升机在巴西里约坠毁 造成至少4人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202608093835872841.html",
+     "pubDate": "Sun, 09 Aug 2026 00:31:28 +0800",
+     "summary": "当地时间8月8日，一架直升机在巴西里约热内卢市南部一片林地中坠毁，造成至少4人死亡。 里约热内卢消防局接警后赶赴现场，空中行动小组已找到失事直升机残骸。目前官方尚未确认机上具体人数。救援队正在该地区搜寻其他遇难者。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "一直升机在巴西里约坠毁 造成至少4人死亡"
+    },
+    {
+     "title": "Tehran says US must ‘rectify its behaviour’ before Iran reopens strait",
+     "link": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1",
+     "pubDate": "Sat, 08 Aug 2026 16:20:14 GMT",
+     "summary": "Senior security official wants Washington to pay compensation for war damage",
+     "source": "Financial Times",
+     "zh": "德黑兰称美国必须在伊朗重新开放海峡之前“纠正其行为”"
+    },
+    {
+     "title": "A Live Nation Insider's Latest Transaction With Shares Up 22%: Here's What to Know",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/live-nation-insiders-latest-transaction-161619519.html",
+     "pubDate": "2026-08-08T16:16:19Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Nation Insider 最新交易，股价上涨 22%：以下是您需要了解的内容"
+    },
+    {
+     "title": "Earnings Scorecard: All 12 S&P 500 Energy stocks beat EPS estimates this week",
+     "link": "https://seekingalpha.com/news/4629188-earnings-scorecard-all-12-sp-500-energy-stocks-beat-eps-estimates-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 08 Aug 2026 12:15:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "盈利记分卡：本周所有 12 只标准普尔 500 能源股均超出每股收益预期"
+    },
+    {
+     "title": "老挝国会主席赛宋蓬病逝",
+     "link": "http://finance.eastmoney.com/news/1351,202608093835872524.html",
+     "pubDate": "Sun, 09 Aug 2026 00:11:54 +0800",
+     "summary": "据老挝人民革命党中央机关报《人民报》报道，老挝国会主席赛宋蓬·丰威汉于8月8日病逝。 报道说，因患严重血管炎，赛宋蓬于当地时间8日11时18分逝世，享年70岁。为表彰赛宋蓬功勋并表达对赛宋蓬的沉痛哀悼，老挝决定自8月9日至13日举行为期五天的全国悼念活动。 老挝《人民报》说，赛宋蓬为老挝党的革命事业、国家发展和老挝各族人民的福祉贡献了毕生智慧和力量，他的逝世是老挝党、国家和人民的重大损失。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "老挝国会主席赛宋蓬病逝"
+    },
+    {
+     "title": "清仓英伟达、Meta！千亿私募巨头美股持仓曝光",
+     "link": "http://finance.eastmoney.com/news/1354,202608093835872790.html",
+     "pubDate": "Sun, 09 Aug 2026 00:04:25 +0800",
+     "summary": "【导读】景林香港公司清仓Meta、 英伟达 、 亚马逊 等 私募巨头景林资产的海外子公司景林 资产管理 香港有限公司（以下简称景林香港公司），8月7日晚间向美国证券交易委员会（SEC）提交了截至2026年二季度末的持仓报告（13F）。 根据13F文件，截至2026年6月30日，景林香港公司二季度末在美股市场合计持仓总市值为21.86亿美元，较一季度末的38.78亿美元大幅下降43.64%。 从调仓动向来看，二季度景林香港公司新买进了4只证券，加仓了1只证券，同时清仓了8只证券，减持了11只证券。其中，景林香港公司清仓了Meta、 英伟达 、 亚马逊 等股票，大幅减持谷歌母公司Alphabet、",
+     "source": "东方财富股票",
+     "zh": "清仓英伟达、Meta！千亿私募巨头美股持仓曝光"
+    },
+    {
+     "title": "今夜，重大利好信号！“巴菲特”，开始动手了",
+     "link": "http://finance.eastmoney.com/news/1354,202608093835872671.html",
+     "pubDate": "Sun, 09 Aug 2026 00:03:56 +0800",
+     "summary": "【导读】在新的首席执行官领导下，伯克希尔开始动用其现金储备。 大家好啊，关注一下巴菲特旗下伯克希尔的最新财报，最重要的信号是，此前的天量现金储备，开始买股票了！ 8月8日晚间，伯克希尔公布的最新的财务数据显示，二季度净利润同比增长超过一倍，主要受投资收益以及工业和零售业务强劲表现推动。 其中伯克希尔二季度净利润达到256.7亿美元，去年同期为123.7亿美元。 按A类股计算，每股收益达到17868美元，去年同期为8601美元。 更重要的是，伯克希尔一改过去持续减持股票的趋势。截至6月底，伯克希尔的现金储备从三个月前创纪录的3974亿美元下降至3655亿美元。64岁的首席执行官阿贝尔正在开始动用",
+     "source": "东方财富股票",
+     "zh": "今夜，重大利好信号！“巴菲特”，开始动手了"
+    },
+    {
+     "title": "Iran says Hormuz deal close amid attack on UAE tanker",
+     "link": "https://seekingalpha.com/news/4629649-iran-says-hormuz-deal-close-attack-uae-tanker?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 08 Aug 2026 12:00:49 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "伊朗称霍尔木兹协议因阿联酋油轮遇袭而完成"
+    },
+    {
+     "title": "Real estate stocks edge down as investor attention turns to cyclicals",
+     "link": "https://seekingalpha.com/news/4629523-real-estate-stocks-edge-down-as-investor-attention-turn-to-cyclicals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 08 Aug 2026 12:00:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "随着投资者注意力转向周期性股票，房地产股小幅下跌"
+    },
+    {
+     "title": "My brother asked me to sign as his executor, but wouldn’t let me read the document. Should I have refused?",
+     "link": "https://www.marketwatch.com/story/my-brother-asked-me-to-sign-as-his-executor-but-wouldnt-let-me-read-the-document-should-i-have-refused-1b53d9bc?mod=mw_rss_topstories",
+     "pubDate": "Sat, 08 Aug 2026 16:00:00 GMT",
+     "summary": "“I imagine scenarios like this happen more often than people realize.”",
+     "source": "MarketWatch",
+     "zh": "我哥哥要求我作为他的遗嘱执行人签字，但不让我阅读该文件。我应该拒绝吗？"
+    },
+    {
+     "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+     "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+     "pubDate": "Sat, 08 Aug 2026 16:00:00 GMT",
+     "summary": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
+     "source": "MarketWatch",
+     "zh": "“这是一段情感上的困难时期”：我的兄弟患有癌症，我的父亲已经 94 岁了。我该如何承担这个责任？"
+    },
+    {
+     "title": "克罗地亚两列火车相撞致20人受伤",
+     "link": "http://finance.eastmoney.com/news/1351,202608083835872242.html",
+     "pubDate": "Sat, 08 Aug 2026 23:51:37 +0800",
+     "summary": "克罗地亚一列客运列车和一列货运列车8日在首都萨格勒布以东约60公里的什克利尼亚里附近相撞，造成20名乘客受伤。 据克罗地亚国家电视台报道，事故发生在当地时间上午10时许，两列火车在圣伊万·扎布诺站和格拉代茨站之间的什克利尼亚里附近相撞，客运列车上有26名乘客。 现场画面显示，客运列车有车厢严重变形，警方在周围拉起了警戒线。事故原因仍在调查中。 克卫生部当天晚些时候宣布，受伤乘客中有6人重伤，14人轻伤。伤者已被送医治疗。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "克罗地亚两列火车相撞致20人受伤"
+    },
     {
      "title": "16 out of 16 technology stocks deliver EPS wins this week: Earnings Scorecard",
      "link": "https://seekingalpha.com/news/4629254-16-out-of-16-technology-stocks-deliver-eps-wins-this-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2282,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "立昂微拟逾3亿元全资控股浙江金瑞泓，上半年同比扭亏，存货高企“减值阴云”未散"
     },
     {
-     "title": "中国经济底子越扎实，人民币越有公信力",
-     "link": "http://finance.eastmoney.com/news/1350,202608083835872189.html",
-     "pubDate": "Sat, 08 Aug 2026 23:38:00 +0800",
-     "summary": "美元一家独大地位还要维持多久？我们该走出一条怎么样的人民币发展道路？中国经济该如何更好地协同发展？近日，在英国伦敦格林威治大学召开的世界政治经济学学会（WAPE）第19届论坛期间，中国社会科学院学部委员、上海财经大学马克思主义研究院院长程恩富就这些问题，接受了国际金融报记者的采访。 美元一家独大时代快要结束 《国际金融报》：教授您好，最近有条新闻是，日元跌至40年低点，美国、日本罕见联手救市。舆论用了罕见二字，请问您如何看待？您如何看待美元体系在新形势下的地位和作用？ 程恩富：美国这次专门出手稳住日元，这件事很直观地告诉我们：美元现在依旧很强，但一家独大的时代已经快要结束了。 首先我们要客观承",
-     "source": "东方财富股票",
-     "zh": "中国经济底子越扎实，人民币越有公信力"
-    },
-    {
      "title": "Greg Abel finally puts Buffett’s cash pile to work",
      "link": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1",
      "pubDate": "Sat, 08 Aug 2026 15:36:35 GMT",
@@ -2298,52 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "格雷格·阿贝尔终于让巴菲特的现金储备发挥作用"
     },
     {
-     "title": "阿曼：霍尔木兹海峡通航安排谈判在积极氛围中推进",
-     "link": "http://finance.eastmoney.com/news/1351,202608083835871495.html",
-     "pubDate": "Sat, 08 Aug 2026 23:31:48 +0800",
-     "summary": "当地时间8日，阿曼外交部发表声明称，目前有关霍尔木兹海峡通航安排的谈判正在积极、建设性的氛围中推进，并已取得兼顾各方利益的进展。声明强调，应避免采取任何可能影响相关谈判以及已经取得进展的行动。 声明同时对近期船只在通过霍尔木兹海峡期间多次遭到袭击表示谴责。阿方表示，相关行为违反国际法，侵犯沿岸国领海主权，并对海上航行安全以及地区安全与稳定构成威胁。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "阿曼：霍尔木兹海峡通航安排谈判在积极氛围中推进"
-    },
-    {
-     "title": "受台风“白海豚”影响 上海两大机场近六成航班调减取消",
-     "link": "http://finance.eastmoney.com/news/1351,202608083835871320.html",
-     "pubDate": "Sat, 08 Aug 2026 23:30:09 +0800",
-     "summary": "受今年第13号台风“白海豚”影响，明天（9日）上海浦东 机场 和虹桥 机场 通行能力将出现下降，近六成进出港航班调减取消。两场计划取消进出港航班1384架次，其中，浦东 机场 取消871架次、虹桥机场取消航班513架次。请旅客及时向所乘航司了解查询航班最新动态，合理安排出行。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "受台风“白海豚”影响 上海两大机场近六成航班调减取消"
-    },
-    {
      "title": "Inside the startup drone maker powering Ukraine&apos;s deep-strike campaign",
      "link": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
      "pubDate": "Sat, 08 Aug 2026 15:29:19 GMT",
      "summary": "Fire Point CEO Iryna Terekh says Ukraine has \"learned the hard way\" that military leverage is integral to to bringing diplomacy within reach.",
      "source": "CNBC",
      "zh": "为乌克兰深度打击活动提供动力的初创无人机制造商内部"
-    },
-    {
-     "title": "平陆运河电子航道图上线运行",
-     "link": "http://finance.eastmoney.com/news/1348,202608083835871842.html",
-     "pubDate": "Sat, 08 Aug 2026 23:27:07 +0800",
-     "summary": "近日，平陆运河 电子 航道图已在广西数字水运一体化平台、广西水运江河海一体化调度平台上线运行，标志着平陆运河顺利实现航道数字化导航，为平陆运河全段通航数字化、管理智能化奠定了坚实基础，也为全国内河 电子 航道建设应用提供了“运河样本”。（央视新闻） （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "平陆运河电子航道图上线运行"
-    },
-    {
-     "title": "广东海洋牧场“国资领航”   重仓千亿布局深远海",
-     "link": "http://www.eeo.com.cn/2026/0808/991132.shtml",
-     "pubDate": "Sat, 08 Aug 2026 23:26:16 +0800",
-     "summary": "南方财经记者陈梦璇 向海图强，广东耕海牧渔明确新的着力点。 8月7日，全省现代化海洋牧场全产业链建设视频会在广州召开，部署推进现代化海洋牧场全产业链建设工作，为广东省海洋牧场升级划定了清晰的落地路径：让国企挑大梁，全链建体系。 到2030年，全省国资国企参与项目投资总额将超1000亿元，通过推动项目储备转化为有效投资并促进项目落地，培育现代化海洋牧场万亿级产业集群。 广东海洋牧场...",
-     "source": "经济观察网",
-     "zh": "广东海洋牧场“国资领航”   重仓千亿布局深远海"
-    },
-    {
-     "title": "美参议院通过临时拨款法案 暂缓政府“停摆”风险",
-     "link": "http://finance.eastmoney.com/news/1351,202608083835870634.html",
-     "pubDate": "Sat, 08 Aug 2026 23:20:03 +0800",
-     "summary": "美国国会参议院8日通过一项联邦政府临时拨款法案，以避免联邦政府在现行预算到期后“停摆”。 美国参议院以90票赞成、6票反对的结果通过这一拨款法案，以让大部分联邦政府机构在当前资金支持水平下运转至12月11日。 联邦政府当前拨款预算在9月30日到期。不少分析人士表示，新法案能让联邦政府在预算到期后继续运转，避免政府在11月中期选举期间“停摆”。 由于美国众议院在7月21日通过的临时拨款法案与参议院8日通过的临时拨款法案存在少许差异，众议院和参议院仍需就此完成调整后才能将这一拨款法案交由总统签署生效。 美国众议院和参议院有夏季休会期，预计国会两院在9月复会后就此进行协调。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "美参议院通过临时拨款法案 暂缓政府“停摆”风险"
     },
     {
      "title": "UAE says one of its ships was targeted as U.S.-Iran tensions over Strait of Hormuz remain high",
@@ -2394,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "谷歌 AI 声称 Flock 相机内藏有价值 650 美元的黄金和 23 磅铜——这是被 meme 欺骗的"
     },
     {
-     "title": "Nvidia eyeing up to $3B investment in Blackstone-backed power firm: The Information",
-     "link": "https://seekingalpha.com/news/4629648-nvidia-to-fund-3b-in-blackstone-backed-power-firm?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 08 Aug 2026 10:52:43 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia 计划向 Blackstone 支持的电力公司投资 30 亿美元：The Information"
-    },
-    {
      "title": "Berkshire Hathaway Beats Earnings Views, Ends 14 Quarters Of Selling Equities",
      "link": "https://www.investors.com/news/berkshire-hathaway-earnings-buybacks-cash-hoard-warren-buffett/?src=A00220&yptr=yahoo",
      "pubDate": "2026-08-08T14:52:35Z",
@@ -2418,38 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "“我和我的妻子都退休了”：我们是否会动用 230 万美元的基金以 2.9% 的利率偿还 30 万美元的抵押贷款？"
     },
     {
-     "title": "Paying for pricey daycare? Here’s how to keep saving for retirement at the same time.",
-     "link": "https://www.marketwatch.com/story/how-parents-can-keep-saving-for-retirement-during-the-expensive-childcare-years-e06b3abe?mod=mw_rss_topstories",
-     "pubDate": "Sat, 08 Aug 2026 14:46:00 GMT",
-     "summary": "Young families are striving to do better but struggling with costs of living, including expensive childcare.",
-     "source": "MarketWatch",
-     "zh": "支付昂贵的日托费用？以下是如何同时为退休储蓄的方法。"
-    },
-    {
-     "title": "Consumer Staples Earnings Scorecard: Profit holds up despite mixed revenue",
-     "link": "https://seekingalpha.com/news/4629212-consumer-staples-earnings-scorecard-profit-holds-up-despite-mixed-revenue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 08 Aug 2026 10:45:49 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "必需消费品盈利记分卡：尽管收入参差不齐，但利润保持稳定"
-    },
-    {
-     "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-     "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
-     "pubDate": "Sat, 08 Aug 2026 14:30:00 GMT",
-     "summary": "A reader writes: “I will likely be in a position to decline my benefits.”",
-     "source": "MarketWatch",
-     "zh": "富裕的美国人是否应该放弃社会保障福利作为一种慈善姿态？"
-    },
-    {
-     "title": "台风“白海豚”逼近，多地部署防御工作，部分列车停运，多家景区调整运营，多个演唱会紧急取消",
-     "link": "http://www.eeo.com.cn/2026/0808/991123.shtml",
-     "pubDate": "Sat, 08 Aug 2026 22:26:05 +0800",
-     "summary": "中新经纬8月8日电 今年第13号台风“白海豚”携风裹雨直扑东海沿岸。多地发文部署台风“白海豚”防御工作，铁路部门停运部分列车，上海轮渡全线停航，多家景区调整运营，多个演唱会紧急取消。 农业农村部部署台风“白海豚”防范应对工作 据农业农村部网站消息，农业农村部日前就做好台风“白海豚”防范应对工作作出部署，要求各地强化责任落实、监测预警、防范应对、灾后恢复和指导服务，努力减轻灾害影响，保障人民...",
-     "source": "经济观察网",
-     "zh": "台风“白海豚”逼近，多地部署防御工作，部分列车停运，多家景区调整运营，多个演唱会紧急取消"
-    },
-    {
      "title": "Stock Market Week Ahead: Bullish Signals Amid 'Dirty' Volume",
      "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-bullish-signals-amid-dirty-volume/?src=A00220&yptr=yahoo",
      "pubDate": "2026-08-08T14:20:55Z",
@@ -2458,44 +2474,28 @@ window.INDUSTRY_DATA = {
      "zh": "未来一周股市：成交量“脏”中的看涨信号"
     },
     {
-     "title": "Earnings scorecard: 9 out of 10 Communication Services companies deliver EPS wins this week",
-     "link": "https://seekingalpha.com/news/4629482-earnings-scorecard-9-out-of-10-communication-services-companies-deliver-eps-wins-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 08 Aug 2026 10:15:15 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "盈利记分卡：10 家通信服务公司中有 9 家本周实现每股盈利"
-    },
-    {
-     "title": "Changing how Medicare pays for hospice care could save the U.S. $7.6 billion a year — but at what cost to patients?",
-     "link": "https://www.marketwatch.com/story/changing-how-medicare-pays-for-hospice-care-could-save-7-6-billion-a-year-but-at-what-cost-to-patients-270eb608?mod=mw_rss_topstories",
-     "pubDate": "Sat, 08 Aug 2026 14:04:00 GMT",
-     "summary": "The hospice industry argues that the current payment system allows for providers to create individual care plans that meet patients’ specific needs.",
-     "source": "MarketWatch",
-     "zh": "改变 Medicare 支付临终关怀费用的方式每年可以为美国节省 76 亿美元，但患者要付出什么代价呢？"
-    },
-    {
-     "title": "飞天茅台自营门店价格再度上调，终端售价已涨至1760元/瓶",
-     "link": "http://www.eeo.com.cn/2026/0808/991115.shtml",
-     "pubDate": "Sat, 08 Aug 2026 21:52:10 +0800",
-     "summary": "【飞天茅台自营门店价格再度上调，终端售价已涨至1760元/瓶】 今日有消息称，飞天茅台自营店售价已涨至1753元/瓶，7月底该产品在自营门店刚刚上调至1719元/瓶。有经销商向记者表示，当前飞天茅台终端售价已涨至1760元/瓶。这已经是茅台自营门店今年第二次独立提价。7月底，记者从茅台自营门店处获悉，公司自营体系飞天茅台酒零售价调整为1719元/瓶。（每日经济新闻）",
-     "source": "经济观察网",
-     "zh": "飞天茅台自营门店价格再度上调，终端售价已涨至1760元/瓶"
-    },
-    {
-     "title": "债券投顾“紧箍咒”来了：25%持仓红线，9条高压线碰不得",
-     "link": "http://www.eeo.com.cn/2026/0808/991114.shtml",
-     "pubDate": "Sat, 08 Aug 2026 21:52:05 +0800",
-     "summary": "21世纪经济报道 记者 崔文静 8月7日，中证协发布《证券公司债券投资顾问业务管理规则》，这是中证协首次针对债券投顾业务制定的专门性自律规则。新规设置6个月过渡期，将于2027年2月5日正式实施。 新规直面行业痛点，构建起覆盖人员、业务、风控、内控的全链条自律体系。 新规扭转行业“唯收益论”的考核导向，明确禁止将客户超额收益直接作为债券投顾人员的业绩考核指标；同时列明九类执业禁止行为，严禁代客操...",
-     "source": "经济观察网",
-     "zh": "债券投顾“紧箍咒”来了：25%持仓红线，9条高压线碰不得"
-    },
-    {
      "title": "Jim Cramer Favors Fortinet (FTNT) Alongside CrowdStrike (CRWD) and Palo Alto (PANW)",
      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-favors-fortinet-ftnt-135021351.html",
      "pubDate": "2026-08-08T13:50:21Z",
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "Jim Cramer 青睐 Fortinet (FTNT)、CrowdStrike (CRWD) 和 Palo Alto (PANW)"
+    },
+    {
+     "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett&apos;s massive cash hoard",
+     "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+     "pubDate": "Sat, 08 Aug 2026 13:28:00 GMT",
+     "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
+     "source": "CNBC",
+     "zh": "伯克希尔上季度盈利增长，首席执行官格雷格·阿贝尔开始动用巴菲特的巨额现金储备"
+    },
+    {
+     "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+     "link": "https://wallstreetcn.com/articles/3778993",
+     "pubDate": "Sat, 08 Aug 2026 21:12:23 +0800",
+     "summary": "伯克希尔哈撒韦公司二季度运营业绩稳健增长，净利润翻倍，投资收益是主要推手。此外，当季净买入股票约198亿美元，其中包括斥资约100亿美元买入Alphabet普通股，以及约45亿美元用于回购伯克希尔自身股份。 8月8日，伯克希尔公布的最新数据显示，受益于股票投资组合未实现收益大幅回升， 二季度GAAP口径净利润同比几乎翻倍，达256.67亿美元 ，较上年同期的123.70亿美元增长约107%。上半年净利润为357.73亿美元， 同比增长约111% 。 与此同时， 公司二季度回购约45亿美元自家股票，为股东带来了自2021年以来规模最大的季度股东回报， 远高于一季度的2.35亿美元。上半年累计回购",
+     "source": "华尔街见闻",
+     "zh": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻"
     }
    ]
   },

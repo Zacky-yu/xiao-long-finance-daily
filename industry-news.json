@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/10 03:33:44",
+ "generated_at": "2026/8/10 04:32:44",
  "recent_days": 7,
  "industries": [
   {
@@ -657,6 +657,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Survey Sunday: this is how Chinese EVs will make it to America",
+     "link": "https://electrek.co/2026/08/09/survey-sunday-this-is-how-chinese-evs-will-make-it-to-america/",
+     "pubDate": "Sun, 09 Aug 2026 19:48:32 +0000",
+     "summary": "For the last few weeks, we’ve been running a sidebar survey how (or if) Electrek readers think the first Chinese electric cars will make it onto US roads. After receiving more than 3,000 responses, here’s what you told us.",
+     "source": "Electrek",
+     "zh": "周日调查：这就是中国电动汽车进入美国的方式"
+    },
+    {
      "title": "Pony.ai to put 100,000 autonomous electric trucks on the road by 2030 [video]",
      "link": "https://electrek.co/2026/08/09/pony-ai-to-put-100000-autonomous-electric-trucks-on-the-road-by-2030-video/",
      "pubDate": "Sun, 09 Aug 2026 18:33:34 +0000",
@@ -735,14 +743,6 @@
      "summary": "International equipment manufacturer Vermeer has unveiled a full-scale prototype of its Interlune excavator, a machine designed to ingest 100 metric tons of rocks and dirt per hour, extracting valuable helium as it makes its way across the surface … of the Moon. UPDATE 08AUG26 : Interlune and Vermee",
      "source": "Electrek",
      "zh": "新型威猛 (Vermeer) 月球挖掘机让重型装备太空竞赛升温 [更新]"
-    },
-    {
-     "title": "GM is making EV charging a LOT easier",
-     "link": "https://electrek.co/2026/08/08/gm-is-making-ev-charging-a-lot-easier/",
-     "pubDate": "Sat, 08 Aug 2026 13:00:00 +0000",
-     "summary": "In mid-June GM hosted their 2026 Empower event, where they made several major announcements. But there are two in particular that will be big benefits to the day-to-day electric vehicle driver, especially when it comes to charging GM brand EVs.",
-     "source": "Electrek",
-     "zh": "通用汽车正在使电动汽车充电变得更加容易"
     },
     {
      "title": "What Rivian And Lucid's Latest Earnings Say About The EV Startup Race",
@@ -1761,10 +1761,42 @@
    "total": 18,
    "items": [
     {
+     "title": "Poland now 6th-largest EU economy, ahead of Switzerland and Belgium",
+     "link": "https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium",
+     "pubDate": "Sun, 09 Aug 2026 20:13:38 +0000",
+     "summary": "Article URL: https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium Comments URL: https://news.ycombinator.com/item?id=49235323 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "波兰目前是欧盟第六大经济体，领先于瑞士和比利时"
+    },
+    {
+     "title": "A look at Chinese state-owned investment bank CICC, which sponsored multibillion-dollar listings of China&apos;s tech champions, including CXMT and Zhongji Innolight (Financial Times)",
+     "link": "https://www.techmeme.com/260809/p8#a260809p8",
+     "pubDate": "Sun, 09 Aug 2026 15:40:00 -0400",
+     "summary": "Financial Times : A look at Chinese state-owned investment bank CICC, which sponsored multibillion-dollar listings of China's tech champions, including CXMT and Zhongji Innolight &nbsp; &mdash;&nbsp; CICC has become a dominant financier in Beijing's drive to compete with US in tech race&nbsp; &mdash",
+     "source": "Techmeme",
+     "zh": "看看中国国有投资银行中金公司，该银行赞助了包括长鑫存储和中际旭创在内的中国科技龙头企业的数十亿美元上市（金融时报）"
+    },
+    {
+     "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
+     "link": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+     "pubDate": "Sun, 09 Aug 2026 19:20:40 +0000",
+     "summary": "Article URL: https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499 Comments URL: https://news.ycombinator.com/item?id=49234724 Points: 19 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "勒索软件团伙绕过首席执行官，直奔 40 多岁的 IT 经理"
+    },
+    {
+     "title": "How I use LLMs to learn complex topics",
+     "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+     "pubDate": "Sun, 09 Aug 2026 19:16:49 +0000",
+     "summary": "Article URL: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/ Comments URL: https://news.ycombinator.com/item?id=49234675 Points: 93 # Comments: 42",
+     "source": "Hacker News",
+     "zh": "我如何利用法学硕士学习复杂的主题"
+    },
+    {
      "title": "A zero-dependency, ultra-lightweight database time machine for SQLite",
      "link": "https://github.com/nsrht/time-travel-sqlite-debugger",
      "pubDate": "Sun, 09 Aug 2026 18:59:53 +0000",
-     "summary": "Article URL: https://github.com/nsrht/time-travel-sqlite-debugger Comments URL: https://news.ycombinator.com/item?id=49234506 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://github.com/nsrht/time-travel-sqlite-debugger Comments URL: https://news.ycombinator.com/item?id=49234506 Points: 14 # Comments: 2",
      "source": "Hacker News",
      "zh": "SQLite 的零依赖、超轻量级数据库时间机器"
     },
@@ -1772,7 +1804,7 @@
      "title": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
      "link": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
      "pubDate": "Sun, 09 Aug 2026 18:51:57 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html Comments URL: https://news.ycombinator.com/item?id=49234393 Points: 10 # Comments: 4",
+     "summary": "Article URL: https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html Comments URL: https://news.ycombinator.com/item?id=49234393 Points: 36 # Comments: 18",
      "source": "Hacker News",
      "zh": "插电式太阳能电池板开始在美国后院兴起"
     },
@@ -1780,33 +1812,9 @@
      "title": "Saying No",
      "link": "https://rozumem.xyz/posts/19",
      "pubDate": "Sun, 09 Aug 2026 18:51:06 +0000",
-     "summary": "Article URL: https://rozumem.xyz/posts/19 Comments URL: https://news.ycombinator.com/item?id=49234379 Points: 15 # Comments: 5",
+     "summary": "Article URL: https://rozumem.xyz/posts/19 Comments URL: https://news.ycombinator.com/item?id=49234379 Points: 60 # Comments: 47",
      "source": "Hacker News",
      "zh": "说不"
-    },
-    {
-     "title": "If experience is the goal, then you always win",
-     "link": "https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you",
-     "pubDate": "Sun, 09 Aug 2026 18:42:09 +0000",
-     "summary": "Article URL: https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you Comments URL: https://news.ycombinator.com/item?id=49234279 Points: 7 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "如果经验是目标，那么你总是赢"
-    },
-    {
-     "title": "OpenChamber: An Agentic Development Environment",
-     "link": "https://openchamber.dev/",
-     "pubDate": "Sun, 09 Aug 2026 17:27:16 +0000",
-     "summary": "Article URL: https://openchamber.dev/ Comments URL: https://news.ycombinator.com/item?id=49233448 Points: 37 # Comments: 19",
-     "source": "Hacker News",
-     "zh": "OpenChamber：代理开发环境"
-    },
-    {
-     "title": "Ask HN: What are you working on? (August 2026)",
-     "link": "https://news.ycombinator.com/item?id=49233423",
-     "pubDate": "Sun, 09 Aug 2026 17:23:22 +0000",
-     "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49233423 Points: 60 # Comments: 212",
-     "source": "Hacker News",
-     "zh": "问 HN：你在做什么？ （2026 年 8 月）"
     },
     {
      "title": "As PC makers start using CXMT RAM chips, Apple is testing them too, but it needs a custom version for its devices, and US rules block Apple from sharing designs (Wall Street Journal)",
@@ -1991,14 +1999,6 @@
      "summary": "Japan’s strongest media export makes a solid case for your attention span. Here’s what to watch.",
      "source": "WIRED",
      "zh": "如果您认为自己讨厌动漫，最好看的 12 部动漫"
-    },
-    {
-     "title": "8 Best Workout Headphones & Earbuds: Beats, Bose, Apple (2026)",
-     "link": "https://www.wired.com/story/the-best-workout-headphones-and-earbuds/",
-     "pubDate": "Sun, 09 Aug 2026 09:37:00 +0000",
-     "summary": "Not every great pair of headphones belongs in the gym. These do, thanks to their secure fit, durable design, and impeccable sound.",
-     "source": "WIRED",
-     "zh": "8 款最佳健身耳机和耳塞：Beats、Bose、Apple (2026)"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Here's what Asus' and Lenovo's upcoming Googlebooks might look like",
+     "link": "https://www.gsmarena.com/heres_what_asus_and_lenovos_upcoming_googlebooks_might_look_like-news-74080.php",
+     "pubDate": "Sun, 09 Aug 2026 22:12:02 +0200",
+     "summary": "Asus has new laptops coming out in time for IFA next month, and we get to see one of them in quite a few alleged renders that appear to have likely been upscaled using AI and kind of messed up in the process. Frankly, at first glance, it kind of sounds like we shouldn't care. However, this might jus",
+     "source": "GSMArena",
+     "zh": "这是华硕和联想即将推出的 Googlebook 的样子"
+    },
     {
      "title": "How to use Claude's voice mode",
      "link": "https://www.engadget.com/2231293/how-to-use-claude-voice-mode/",
@@ -2217,14 +2225,6 @@
      "zh": "三星 Galaxy A18 出现在 Geekbench 上并公布了主要规格"
     },
     {
-     "title": "Weekly poll results: smart glasses are a solution looking for a problem",
-     "link": "https://www.gsmarena.com/weekly_poll_results_smart_glasses_are_a_solution_looking_for_a_problem-news-74029.php",
-     "pubDate": "Sun, 09 Aug 2026 04:11:02 +0200",
-     "summary": "Tech giants are spending tons of R&D money on building new smart glasses that fill various categories. However, based on the results from last week’s poll, all of them are solutions looking for a problem. The outcome couldn’t be more clear – the vast majority of voters are not using smart glasses. T",
-     "source": "GSMArena",
-     "zh": "每周民意调查结果：智能眼镜是寻找问题的解决方案"
-    },
-    {
      "title": "What new Google Messages features are rolling out [August 2026]",
      "link": "https://9to5google.com/2026/08/08/new-google-messages-features/",
      "pubDate": "Sat, 08 Aug 2026 19:15:00 +0000",
@@ -2257,20 +2257,84 @@
    "total": 13,
    "items": [
     {
+     "title": "伊朗方面宣布任命穆赫辛·雷扎伊为伊朗最高国家安全委员会秘书",
+     "link": "http://finance.eastmoney.com/news/1351,202608103836020811.html",
+     "pubDate": "Mon, 10 Aug 2026 04:11:20 +0800",
+     "summary": "伊朗方面宣布任命穆赫辛·雷扎伊为伊朗最高国家安全委员会秘书。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "伊朗方面宣布任命穆赫辛·雷扎伊为伊朗最高国家安全委员会秘书"
+    },
+    {
+     "title": "美国门诊医学影像服务提供商RadNet第二季度调整后每股收益为29美分 预估为19美分",
+     "link": "http://finance.eastmoney.com/news/1354,202608103836020792.html",
+     "pubDate": "Mon, 10 Aug 2026 04:07:33 +0800",
+     "summary": "美国门诊医学影像服务提供商RadNet第二季度调整后每股收益为29美分，预估为19美分；第二季度收入6.227亿美元，预估为6.10亿美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国门诊医学影像服务提供商RadNet第二季度调整后每股收益为29美分 预估为19美分"
+    },
+    {
+     "title": "委内瑞拉政治对话陷“三方博弈”，未来转型将走向何方？",
+     "link": "http://global.eastmoney.com/news/11798,202608103836020985.html",
+     "pubDate": "Mon, 10 Aug 2026 04:06:04 +0800",
+     "summary": "委内瑞拉经历长期政治对立、经济危机和外交孤立后，政治进程近来出现新的松动迹象。8月6日，代总统罗德里格斯与反对派代表在委首都加拉加斯举行面对面闭门会谈，双方同意围绕政治安排、选举制度、地震灾后救助等问题持续磋商，并将于8月12日启动下一阶段对话安排。 美国特朗普政府深度介入谈判进程，据悉，有关谈判框架由美国国务院设计操弄。美方专门指定迪诺拉·菲格拉担任委内瑞拉反对派谈判代表，而原本最具号召力的政治人物玛丽亚·科里纳·马查多则被排除在谈判之外。 为何现在谈？ 此次对话得以实现，源于委内瑞拉国内长期政治僵局已走到一个新的临界点。过去十余年，政府派与反对派围绕总统选举合法性、政治权力归属和国家机构控",
+     "source": "东方财富股票",
+     "zh": "委内瑞拉政治对话陷“三方博弈”，未来转型将走向何方？"
+    },
+    {
+     "title": "泽连斯基罕见访塞会晤武契奇，双方同意深化经贸合作",
+     "link": "http://finance.eastmoney.com/news/1351,202608103836021042.html",
+     "pubDate": "Mon, 10 Aug 2026 04:06:02 +0800",
+     "summary": "据新华社报道，当地时间8日，乌克兰总统泽连斯基结束对塞尔维亚为期两天的正式访问。这是乌克兰国家元首时隔8年再次访问塞尔维亚。期间，两国元首举行会晤，双方同意深化经贸合作，并扩大基础设施和人道主义援助领域合作。 双方当天在贝尔格莱德共同举行新闻发布会。塞尔维亚总统武契奇在会上表示，塞方支持根据《联合国宪章》和有关联合国决议维护乌克兰的领土完整，并将加大力度扩大双边贸易。 武契奇说，去年塞乌贸易额约为4.5亿美元，今年前6个月已达到约3.21亿美元。双方将进一步加强农业、能源等领域合作。他还表示，希望双方携手开拓第三方市场，尤其是非洲和亚洲市场。 泽连斯基在发布会上感谢塞尔维亚在医疗和能源领域提供",
+     "source": "东方财富股票",
+     "zh": "泽连斯基罕见访塞会晤武契奇，双方同意深化经贸合作"
+    },
+    {
+     "title": "也门军方发言人表示 胡塞武装已恢复对莫哈港的导弹和无人机袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202608103836020684.html",
+     "pubDate": "Mon, 10 Aug 2026 03:41:12 +0800",
+     "summary": "也门军方发言人表示，胡塞武装已恢复对莫哈港的导弹和 无人机 袭击。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "也门军方发言人表示 胡塞武装已恢复对莫哈港的导弹和无人机袭击"
+    },
+    {
+     "title": "外资机构看好亚洲市场结构性增长机遇",
+     "link": "http://finance.eastmoney.com/news/1351,202608103836015995.html",
+     "pubDate": "Mon, 10 Aug 2026 03:40:52 +0800",
+     "summary": "■投基论道 外资机构看好亚洲市场结构性增长机遇 ◎记者王彭 近期，全球股市震荡加剧，市场不确定性明显抬升。面对复杂的宏观环境，多家外资机构发布后市研判。外资机构认为，在劳动力市场韧性与AI资本扩张支撑下，股票资产仍将受益。未来市场的主导力量有望逐步从科技巨头向优质蓝筹及价值板块扩散，亚洲市场的结构性增长机遇仍值得看好。 摩根士丹利 投资管理在近日发布的三季度投资展望中表示，对全球投资者而言，2026年的核心投资命题已不再是担忧美国经济增长大幅放缓，而是如何适应名义增长与利率共同维持高位的“新常态”。 该机构认为，未来一段时间美国通胀水平或仍将高于政策目标，但在劳动力市场韧性、生产率提升与资本投",
+     "source": "东方财富股票",
+     "zh": "外资机构看好亚洲市场结构性增长机遇"
+    },
+    {
+     "title": "Berkshire breaks 14-quarter selling streak with $23.5B of stock buys — $10B went to 1 company at a private price",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-breaks-14-quarter-selling-194000465.html",
+     "pubDate": "2026-08-09T19:40:00Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "伯克希尔哈撒韦公司以 23.5B 美元的股票购买量打破了 14 个季度的连续抛售势头——10B 美元以非公开价格购买了 1 家公司"
+    },
+    {
+     "title": "Senate moves closer to vote on sweeping U.S. crypto regulation",
+     "link": "https://seekingalpha.com/news/4629677-senate-moves-closer-to-vote-on-sweeping-u-s-crypto-regulation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 09 Aug 2026 15:37:20 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "参议院即将就全面的美国加密货币监管进行投票"
+    },
+    {
+     "title": "Comcast (CMCSA) Pushes Private Wireless Into The Office Market",
+     "link": "https://finance.yahoo.com/technology/articles/comcast-cmcsa-pushes-private-wireless-193207686.html",
+     "pubDate": "2026-08-09T19:32:07Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "康卡斯特 (CMCSA) 将专用无线推向办公市场"
+    },
+    {
      "title": "‘Spider-Man: Brand New Day’ stays atop box office as ‘Odyssey’ passes Nolan milestone",
      "link": "https://seekingalpha.com/news/4629676-spider-man-brand-new-day-stays-atop-box-office-as-odyssey-passes-nolan-milestone?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 09 Aug 2026 15:12:48 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "《奥德赛》超越诺兰里程碑，《蜘蛛侠：全新一天》继续保持票房冠军"
-    },
-    {
-     "title": "“流动性+业绩”双重催化 布局海外科技股 QDII基金规模提升",
-     "link": "http://fund.eastmoney.com/news/11794,202608103836015287.html",
-     "pubDate": "Mon, 10 Aug 2026 03:11:07 +0800",
-     "summary": "“流动性+业绩”双重催化 布局海外科技股 QDII基金规模提升 ◎记者陈颖清 北京时间8月7日晚间，美国发布的7月非农就业数据低于市场预期，强化了市场对于美联储货币政策转向的预期，海外科技资产再度受到关注。与此同时，随着美国科技巨头二季度财报陆续披露，市场对于AI产业发展的关注点正从算力投入逐步转向盈利兑现。业内人士表示：从短期来看，美联储政策预期变化或影响科技股估值表现；从中长期来看，AI商业化进展及科技企业盈利能力仍将成为决定相关资产走势的重要因素。在此背景下，国内资金借道QDII基金布局海外科技资产的热度后续或有提升。 流动性预期变化影响科技股短期走势 美国劳工统计局公布的数据显示：7月",
-     "source": "东方财富股票",
-     "zh": "“流动性+业绩”双重催化 布局海外科技股 QDII基金规模提升"
     },
     {
      "title": "ServiceNow (NOW) Unveils Autonomous Security to Accelerate Growth",
@@ -2289,30 +2353,6 @@
      "zh": "跑赢标准普尔 500 指数的股票数量创 4 年来最高。为什么这个数字应该上升。"
     },
     {
-     "title": "白宫新闻秘书莱维特：特朗普期待周二前往俄亥俄州参加爱国者运动会",
-     "link": "http://finance.eastmoney.com/news/1351,202608103836020234.html",
-     "pubDate": "Mon, 10 Aug 2026 03:02:37 +0800",
-     "summary": "白宫新闻秘书莱维特：特朗普期待周二前往俄亥俄州参加爱国者运动会。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "白宫新闻秘书莱维特：特朗普期待周二前往俄亥俄州参加爱国者运动会"
-    },
-    {
-     "title": "特朗普：激进民主党人想要开放边境 还反对选民身份证件要求",
-     "link": "http://finance.eastmoney.com/news/1351,202608103836020361.html",
-     "pubDate": "Mon, 10 Aug 2026 03:02:36 +0800",
-     "summary": "特朗普：激进民主党人想要开放边境，还反对选民身份证件要求。美国民众早已看透他们的真面目。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：激进民主党人想要开放边境 还反对选民身份证件要求"
-    },
-    {
-     "title": "意大利海工集团（Italian Sea Group）启动竞标程序以寻找新投资者 不可撤销报价的竞标程序将由司法专员监督",
-     "link": "http://finance.eastmoney.com/news/1354,202608103836019487.html",
-     "pubDate": "Mon, 10 Aug 2026 02:51:55 +0800",
-     "summary": "意大利海工集团（Italian Sea Group）启动竞标程序以寻找新投资者，不可撤销报价的竞标程序将由司法专员监督。资产出售方案包括拟处置的船厂、品牌及股权。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "意大利海工集团（Italian Sea Group）启动竞标程序以寻找新投资者 不可撤销报价的竞标程序将由司法专员监督"
-    },
-    {
      "title": "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins?",
      "link": "https://finance.yahoo.com/markets/stocks/articles/vulcan-materials-vmc-vs-mlm-184919581.html",
      "pubDate": "2026-08-09T18:49:19Z",
@@ -2329,44 +2369,12 @@
      "zh": "高盛的帕斯夸里洛认为，尽管劳动节后存在风险，牛市仍将持续"
     },
     {
-     "title": "美国国家气象局已向纽约市发布高温预警 将持续至周一",
-     "link": "http://finance.eastmoney.com/news/1351,202608103836019590.html",
-     "pubDate": "Mon, 10 Aug 2026 02:39:46 +0800",
-     "summary": "美国国家气象局已向纽约市发布高温预警，将持续至周一。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国国家气象局已向纽约市发布高温预警 将持续至周一"
-    },
-    {
      "title": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
      "link": "https://www.cnbc.com/2026/08/09/max-miller-ohio-house-race-gop-replacement-deadline.html",
      "pubDate": "Sun, 09 Aug 2026 18:38:23 GMT",
      "summary": "Rep. Max Miller is set to remain the Republican nominee in Ohio’s 7th District after the window for the GOP to replace him on the November ballot closed.",
      "source": "CNBC",
      "zh": "共和党投票截止日期过后，马克斯·米勒继续参加俄亥俄州众议院竞选"
-    },
-    {
-     "title": "P&G’s (PG) $3.8B Wellness Deal Collides With a Costly Outlook",
-     "link": "https://finance.yahoo.com/healthcare/articles/p-g-pg-3-8b-183514791.html",
-     "pubDate": "2026-08-09T18:35:14Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "宝洁 (PG) 的 $3.8B 健康交易与昂贵的前景相冲突"
-    },
-    {
-     "title": "医药基金大幅“回血” 公募持仓降至冰点后迎市场反弹",
-     "link": "http://finance.eastmoney.com/news/1354,202608103836014094.html",
-     "pubDate": "Mon, 10 Aug 2026 02:28:45 +0800",
-     "summary": "当科技赛道进入高位震荡阶段，前期持续深度调整的医药板块迎来一波力度可观的估值修复行情。自6月9日探底之后，医药主题ETF、多只主动权益医药基金净值大幅回弹，部分产品反弹幅度突破30%。 本轮行情既是行业基本面持续向好驱动的价值回归，也受益于公募基金极度低配带来的抛压释放。但面对板块快速上行，公募机构内部出现明显分歧，这究竟是阶段性修复行情，还是新一轮趋势性机会，成为当前市场热议的焦点。 创新药 板块触底反弹 Wind数据显示，自6月9日市场创下阶段性低位至今，中证 创新药 产业指数累计涨幅达到28.04%，其中CXO（医药外包）方向表现突出，成为引领整个板块上行的核心力量。8月7日， CRO ",
-     "source": "东方财富股票",
-     "zh": "医药基金大幅“回血” 公募持仓降至冰点后迎市场反弹"
-    },
-    {
-     "title": "IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profits?",
-     "link": "https://finance.yahoo.com/technology/ai/articles/iren-iren-vs-corz-apld-182431338.html",
-     "pubDate": "2026-08-09T18:24:31Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "IREN (IREN) vs. CORZ 和 APLD：其人工智能云建设能否将合同需求转化为利润？"
     },
     {
      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
@@ -2431,14 +2439,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "马鲁蒂铃木预计印度汽车市场到 2031 年汽车保有量将达到 630 万辆"
-    },
-    {
-     "title": "China inflation cools more than expected as domestic demand stays weak",
-     "link": "https://seekingalpha.com/news/4629668-china-inflation-cools-more-than-expected-as-domestic-demand-stays-weak?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 09 Aug 2026 12:31:34 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "由于内需依然疲弱，中国通胀降温幅度超出预期"
     },
     {
      "title": "大六座SUV搅局者：星海V6将乾崑智驾门槛拉低至10万元级",

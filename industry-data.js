@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/9 11:58:35",
+ "generated_at": "2026/8/9 13:13:12",
  "recent_days": 7,
  "industries": [
   {
@@ -10,12 +10,36 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
+     "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+     "link": "https://www.qbitai.com/2026/08/468766.html",
+     "pubDate": "Sun, 09 Aug 2026 03:25:00 +0000",
+     "summary": "据说GPT-5.6很适合拿来做游戏",
+     "source": "量子位",
+     "zh": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了"
+    },
+    {
+     "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+     "link": "https://www.qbitai.com/2026/08/468715.html",
+     "pubDate": "Sun, 09 Aug 2026 03:17:18 +0000",
+     "summary": "谷歌缓兵之计把人留下",
+     "source": "量子位",
+     "zh": "爆料：哈萨比斯原本要和Jeff Dean一起走！"
+    },
+    {
      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
      "pubDate": "Sat, 08 Aug 2026 21:24:02 +0000",
      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
      "source": "TechCrunch AI",
      "zh": "计划中的亚马逊数据中心可能成为美国最大的气候污染源"
+    },
+    {
+     "title": "Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run",
+     "link": "https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/",
+     "pubDate": "Sat, 08 Aug 2026 20:54:49 +0000",
+     "summary": "Long agent runs accumulate state that no transcript records — edited files, a live dev server, installed packages, a warm prompt cache. When an agent misreads a traceback at step 10 and rewrites a correct file, patching forward burns tokens and restarting re-pays every call. Researchers at Northeast",
+     "source": "MarkTechPost",
+     "zh": "认识一下 Shepherd：一个开源 Python 底层，允许元代理分叉、重播和恢复任何代理运行"
     },
     {
      "title": "OpenAI acquires presentation startup NextSlide",
@@ -26,12 +50,28 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI 收购演示初创公司 NextSlide"
     },
     {
+     "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
+     "link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
+     "pubDate": "Sat, 08 Aug 2026 17:04:39 +0000",
+     "summary": "Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scores 93.3% on RULER at 10M tokens, where every baseline in its comparison panel returns 0.0 beyond 2M, and leads BFCL v4 at 70.94 while placing second o",
+     "source": "MarkTechPost",
+     "zh": "Pokee AI 发布 Pokee-Isaac 28B：专为在客户边界内运行而构建的 10M 代币上下文代理模型"
+    },
+    {
      "title": "重磅！苹果国行AI突然发布，首次官宣牵手阿里，Mac用上千问了",
      "link": "https://zhidx.com/p/583346.html",
      "pubDate": "Sat, 08 Aug 2026 23:00:25 +0800",
      "summary": "智东西 编译 | 毕伟豪 编辑 | 云鹏 智东西8月8日消息，今日，苹果官方悄悄更新了Mac使用手册，新增《在Mac上配合Apple智能使用千问》这一章节，这是苹果首次官方确认关于国行Apple智能合作的具体信息，意味着苹果国行Apple智能正式进入落地环节。 此前， 智东西从阿里巴巴方面获悉， 阿里千问将作为AI能力集成至 Apple智能 ，为iOS、iPadOS、macOS和visionOS的中国用户带来智能体验。用户无需在应用间切换，即可在苹果设备上直接体验千问的文本与图像理解、内容生成等能力。 而此次Mac使用手册的更新，是苹果官方首次确认这一消息，并对具体合作细节进行了公开展示。 一",
      "source": "智东西",
      "zh": "重磅！苹果国行AI突然发布，首次官宣牵手阿里，Mac用上千问了"
+    },
+    {
+     "title": "Designing Scalable Interactive Visualizations with Reflex XY: Composition, Million-Point Rendering, Streaming, Custom Marks, and Export",
+     "link": "https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/",
+     "pubDate": "Sat, 08 Aug 2026 09:42:18 +0000",
+     "summary": "Dive into the advanced visualization capabilities of the Reflex XY Python library. This tutorial guides you through building high-performance, interactive charts—from handling million-point datasets and real-time streaming to creating custom mark plugins and exporting publication-ready visuals. The ",
+     "source": "MarkTechPost",
+     "zh": "使用 Reflex XY 设计可扩展的交互式可视化：合成、百万点渲染、流式传输、自定义标记和导出"
     },
     {
      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
@@ -56,6 +96,14 @@ window.INDUSTRY_DATA = {
      "summary": "「我，Jeff Dean，打钱」",
      "source": "量子位",
      "zh": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱"
+    },
+    {
+     "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size",
+     "link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
+     "pubDate": "Sat, 08 Aug 2026 04:36:26 +0000",
+     "summary": "Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single yes/no question instead of a fixed harm taxonomy. Operators supply the policy as a plain-language query at inference time and get back a calibrated saf",
+     "source": "MarkTechPost",
+     "zh": "Mistral AI 发布 Shieldstral 1.0 3B：开放权重策略自适应多模态安全分类器，匹配 7 倍大小的模型"
     },
     {
      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
@@ -90,22 +138,6 @@ window.INDUSTRY_DATA = {
      "zh": "让生成式模型「画」出空间智能，而非强迫LLM输出「坐标」! 浙大提出Agentic空间认知评估框架"
     },
     {
-     "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
-     "link": "https://www.qbitai.com/2026/08/468398.html",
-     "pubDate": "Sat, 08 Aug 2026 02:45:02 +0000",
-     "summary": "再花15亿美元买现成AI编程团队",
-     "source": "量子位",
-     "zh": "谷歌急了：AI核心员工全给我搬回硅谷坐班！"
-    },
-    {
-     "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
-     "link": "https://www.qbitai.com/2026/08/468338.html",
-     "pubDate": "Sat, 08 Aug 2026 02:35:38 +0000",
-     "summary": "啊，这真是个AI“失控”的夏天",
-     "source": "量子位",
-     "zh": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案"
-    },
-    {
      "title": "OpenAI says it slowed Astra model development over security concerns",
      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
      "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000",
@@ -114,12 +146,28 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度"
     },
     {
+     "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
+     "link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
+     "pubDate": "Fri, 07 Aug 2026 21:52:48 +0000",
+     "summary": "Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, reusable assets — Chat Memory, Skill, LLM-Wiki and Code-Graph. It is MIT-licensed, self-hosted via Docker, and integrates with Claude Code, OpenClaw, H",
+     "source": "MarkTechPost",
+     "zh": "腾讯云开源TencentDB Agent Memory v2.0：面向AI Coding Agent的团队级内存中心"
+    },
+    {
      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
      "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000",
      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
      "source": "TechCrunch AI",
      "zh": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具"
+    },
+    {
+     "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
+     "link": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
+     "pubDate": "Fri, 07 Aug 2026 21:13:38 +0000",
+     "summary": "In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python 3.12 environment, installing the required packages, and performing offline PDF text extraction without relying on a GPU or external API key. We then ",
+     "source": "MarkTechPost",
+     "zh": "使用 NVIDIA NeMo Retriever、托管 NIM、LanceDB、重新排名和接地生成构建多模式 RAG 管道"
     },
     {
      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
@@ -200,54 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 2026年，AI视频生成工具，究竟能把一个创作者的能力推到哪一步？ 智东西8月7日报道，近日，美图旗下AI短剧创作工具RoboNeo迎来了全新升级，在人像肤质以及视频生成可控性方面做了重点优化。 就在刚刚，RoboNeo还接入了Seedance 2.5模型，在PC端限时5折优惠。 先来看一个小片段： 这是我在RoboNeo中生成的一段视频。从人物素材、镜头设计到最终成片，我没有使用传统剪辑软件，而是在RoboNeo的画布中，通过手动调试与AI结合的方式完成了整个制作流程。 这只是一次镜头实验，事实上，近期完成升级的Rob",
      "source": "智东西",
      "zh": "我，用美图Agent，一句话拍出AI短剧"
-    },
-    {
-     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-     "link": "https://openai.com/index/hsp-gruppe",
-     "pubDate": "Fri, 07 Aug 2026 09:00:00 GMT",
-     "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-     "source": "OpenAI",
-     "zh": "HSP GRUPPE 如何构建税务咨询人工智能功能"
-    },
-    {
-     "title": "GPT-5.6免费了？Luna免费文字聊天，还加入思考模式",
-     "link": "https://zhidx.com/p/583057.html",
-     "pubDate": "Fri, 07 Aug 2026 15:12:35 +0800",
-     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西8月7日消息，今天凌晨，OpenAI宣布，ChatGPT免费用户和Go用户的默认模型将调整为 GPT-5.6 Luna ，用户可 无限量使用 该模型进行文字聊天，但文件上传、图片生成和其他工具仍有限额。此外，OpenAI还将新增 “Thinking”按钮 ，可以让模型投入更多时间进行分析。 ▲OpenAI宣布用户可用GPT-5.6 Luna进行无限次文字聊天（图源：X） 对于Plus和Pro用户，OpenAI 更新了聊天场景中的GPT-5.6 Sol ，使其回答更加聚焦，并提高事实准确性。用户还可以通过新增的滑块，调节ChatGPT回答问题时的",
-     "source": "智东西",
-     "zh": "GPT-5.6免费了？Luna免费文字聊天，还加入思考模式"
-    },
-    {
-     "title": "实时视频版「Nano Banana」来了！160亿参数重磅开源",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=1&sn=b814cb5b87c9cb3677ac63eb1016e090",
-     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "实时视频版「Nano Banana」来了！160亿参数重磅开源"
-    },
-    {
-     "title": "AI推翻80年数学猜想，菲尔兹奖得主一夜没睡：以为要出局",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=2&sn=066eaef430c7d9307d33ebf126ba348c",
-     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "AI推翻80年数学猜想，菲尔兹奖得主一夜没睡：以为要出局"
-    },
-    {
-     "title": "600倍加速，720p视频实时生成！单卡也能带的动14B模型",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716810&idx=3&sn=ed0d03f1c359c897e017abdeee7c1bcb",
-     "pubDate": "Fri, 07 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "600倍加速，720p视频实时生成！单卡也能带的动14B模型"
-    },
-    {
-     "title": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651048906&idx=1&sn=f6af0867a0c72211fb12bdf0f7ff43a5",
-     "pubDate": "Fri, 07 Aug 2026 09:02:00 +0800",
-     "summary": "把强化学习后训练做成产品，这是Pyromind给Agent时代的解答",
-     "source": "机器之心",
-     "zh": "办公Agent大战正酣，真正的胜负手却藏在看不见的地方"
     }
    ]
   },
@@ -1762,6 +1762,118 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Cape Town-based Moment, a provider of digital payments and billing tools for businesses across Africa, raised a $22M Series A, taking its total funding to $55M (FinTech Global)",
+     "link": "https://www.techmeme.com/260809/p2#a260809p2",
+     "pubDate": "Sun, 09 Aug 2026 01:10:01 -0400",
+     "summary": "FinTech Global : Cape Town-based Moment, a provider of digital payments and billing tools for businesses across Africa, raised a $22M Series A, taking its total funding to $55M &nbsp; &mdash;&nbsp; Moment, a pan-African FinTech, has closed a $22m Series A funding round led by AlphaCode Venture Partn",
+     "source": "Techmeme",
+     "zh": "总部位于开普敦的 Moment 是一家为非洲企业提供数字支付和计费工具的提供商，筹集了 2200 万美元的 A 轮融资，使其总资金达到 5500 万美元（FinTech Global）"
+    },
+    {
+     "title": "2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等",
+     "link": "https://www.ithome.com/0/987/537.htm",
+     "pubDate": "Sun, 09 Aug 2026 05:06:32 GMT",
+     "summary": "IT之家 8 月 9 日消息，据央视新闻报道，今天（8 月 9 日），2026 国际基础科学大会在北京开幕，主题为“聚焦基础科学，引领人类未来”。此次大会共有千余名中外科学家、科研工作者、青年学子参会。 在为期两周的会议期间， 将举办 500 余场学术会议 ，涉及基础科学各个分支与交叉方向，同时覆盖 生成式大模型推理、计算机视觉、人机交互、量子信息 等前沿热点。多位国际顶尖科学家将领衔主讲基础科学报告、前沿科学奖报告，分享各领域最新突破性成果，推动多学科协同创新。 据了解， 今年是大会在京举办的第四年 ，由北京市政府、科学技术部、中国科协和世界华人数学家联盟主办。当前，我国对基础研究支持力度空",
+     "source": "IT之家",
+     "zh": "2026 国际基础科学大会在京开幕，500 余场学术会议覆盖大模型、人机交互等"
+    },
+    {
+     "title": "星舰第 13 次试飞上面级溅落后保持完整，但马斯克称回收情况不乐观",
+     "link": "https://www.ithome.com/0/987/536.htm",
+     "pubDate": "Sun, 09 Aug 2026 04:55:59 GMT",
+     "summary": "IT之家 8 月 9 日消息，看来，星舰为期两周的海上之旅可能不会迎来一个圆满结局。 SpaceX 这款巨型火箭于 7 月 24 日进行了第 13 次试飞，从公司位于得克萨斯州南部的 Starbase 基地升空。此次试飞整体表现相当不错，尤其是星舰高达 171 英尺（约 52 米）的上面级飞船“Ship”。它按照计划在澳大利亚西部外海的印度洋海域溅落。 更令人意外的是，Ship 首次在溅落后成功保持完整。即使翻倒并撞击海面，仍然没有解体。目前其依旧保持完整状态，SpaceX 正在将其拖向澳大利亚西部的海岸，以便进行更详细的检查。不过，SpaceX 创始人兼首席执行官埃隆 · 马斯克在 8 月 ",
+     "source": "IT之家",
+     "zh": "星舰第 13 次试飞上面级溅落后保持完整，但马斯克称回收情况不乐观"
+    },
+    {
+     "title": "Data Insight: Russia&apos;s largest online retailer Wildberries, which owes Russian banks $10B+ in loans, has lost as much as $5B in inventory to Ukrainian attacks (Wall Street Journal)",
+     "link": "https://www.techmeme.com/260809/p1#a260809p1",
+     "pubDate": "Sun, 09 Aug 2026 00:45:00 -0400",
+     "summary": "Wall Street Journal : Data Insight: Russia's largest online retailer Wildberries, which owes Russian banks $10B+ in loans, has lost as much as $5B in inventory to Ukrainian attacks &nbsp; &mdash;&nbsp; Plans for a megamerger were blessed by Putin, tying company's fortunes to those of the Russian sta",
+     "source": "Techmeme",
+     "zh": "数据洞察：俄罗斯最大的在线零售商 Wildberry 欠俄罗斯银行 100 亿美元以上贷款，因乌克兰袭击而损失了高达 50 亿美元的库存（华尔街日报）"
+    },
+    {
+     "title": "\"The original URL for this prediction will no longer be available in 11 years.\" (2011)",
+     "link": "https://longbets.org/601/",
+     "pubDate": "Sun, 09 Aug 2026 04:30:26 +0000",
+     "summary": "Article URL: https://longbets.org/601/ Comments URL: https://news.ycombinator.com/item?id=49228458 Points: 10 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "“这个预测的原始 URL 将在 11 年后不再可用。” (2011)"
+    },
+    {
+     "title": "首个全国产 10 万卡 AI 超集群投用：每秒峰值算力相当全人类持续计算 200 年",
+     "link": "https://www.ithome.com/0/987/535.htm",
+     "pubDate": "Sun, 09 Aug 2026 04:23:34 GMT",
+     "summary": "IT之家 8 月 9 日消息，据央视新闻今日报道，记者从国家发展改革委了解到，今年以来，我国算力底座进一步夯实，首个全国产 10 万卡人工智能超集群日前正式投用。标志着我国算力基础设施建设迈入 10 万卡级部署新阶段。 报道提到，全国多个算力节点迎来新一轮算力扩容。在国家超算互联网郑州核心节点，首个全国产 10 万卡人工智能超集群投入运行。工作人员告诉记者，这里的特别之处在于，科学计算加智能计算的融合算力，为未来可能出现的新型计算需求做了前瞻布局。 国家高性能计算机工程技术研究中心高端计算总工程师卜景德介绍 ， 这个新的计算集群， 每秒钟的峰值计算能力，相当于全人类持续计算 200 年 ，现在",
+     "source": "IT之家",
+     "zh": "首个全国产 10 万卡 AI 超集群投用：每秒峰值算力相当全人类持续计算 200 年"
+    },
+    {
+     "title": "OpenAI 用1年时间证明，你并不用为AI 换浏览器",
+     "link": "https://www.huxiu.com/article/4881757.html?f=rss",
+     "pubDate": "Sun, 09 Aug 2026 12:21:14 +0800",
+     "summary": "本文来自微信公众号： 极客公园 ，作者：张勇毅，编辑：靖宇，原文标题：《OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器》 浏览器是功能，不是目的地。 2025年10月21日，OpenAI发布自己的AI原生浏览器Atlas的那个晚上，全球科技媒体的标题里挤满了同一个词：「Chrome杀手」。 OpenAI自研AI Agent浏览器ChatGPT Atlas于2025年10月发布｜图片来源：OpenAI官号 那是手握八亿周活的OpenAI第一次入口级出手，不少人相信，统治了互联网三十年的浏览器，终于等来了换代时刻。 甚至OpenAI要发布浏览器的消息，还在硅谷引发了一阵不大不小的产品",
+     "source": "虎嗅",
+     "zh": "OpenAI 用1年时间证明，你并不用为AI 换浏览器"
+    },
+    {
+     "title": "医保支付健康管理：算大账并不亏",
+     "link": "https://www.huxiu.com/article/4881756.html?f=rss",
+     "pubDate": "Sun, 09 Aug 2026 12:20:36 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：梁嘉琳 从长远的大账来看，医保为预防性服务买单，并非单纯增加了一项支出，而是将原本用于治病的资金前置为防病投入，将健康关口从医院前移至日常生活。这不仅是医保制度从“保治病”走向“保健康”的应有之义，更能让老百姓在“无病先防”中获得实实在在的幸福感与安全感。 近日出台的《上海市卫生健康发展“十五五”规划》明确提出，“将部分预防性服务、健康管理服务纳入医保支付范围”，这一表述引发广泛关注。 长期以来，医保基金以“疾病治疗”为支付触发条件——只有患者生病了、去定点医疗机构治疗了，医保才开始支付。与此同时，公共卫生服务归卫生健康部门管理，主要依赖财政资金投入；",
+     "source": "虎嗅",
+     "zh": "医保支付健康管理：算大账并不亏"
+    },
+    {
+     "title": "马斯克：SpaceX 将在月球建造工厂，一定会实现",
+     "link": "https://www.ithome.com/0/987/534.htm",
+     "pubDate": "Sun, 09 Aug 2026 04:16:43 GMT",
+     "summary": "IT之家 8 月 9 日消息，一如既往，SpaceX 的目标依然十分宏大。 SpaceX 计划未来在月球上建设工厂，并利用机器人承担大量繁重工作。埃隆 · 马斯克在周二（8 月 4 日）举行的 SpaceX 首次季度财报电话会上表示了这一计划。 马斯克说：“我们会向月球运送大量物资。我们会在月球上建造工厂，而机器人将对此提供很大帮助。” 这并不是 SpaceX 首次提出这一愿景。马斯克今年 2 月在一篇宣布 SpaceX 收购 xAI 的博文中就首次阐述了这一计划。xAI 是这位亿万富翁企业家于 2023 年创立的公司。不过，本周马斯克再次强调了这一目标，也向投资者表明，地外制造已经成为 Sp",
+     "source": "IT之家",
+     "zh": "马斯克：SpaceX 将在月球建造工厂，一定会实现"
+    },
+    {
+     "title": "天玑 9500 新变体曝光，iQOO Neo 11 至尊版首发搭载",
+     "link": "https://www.ithome.com/0/987/532.htm",
+     "pubDate": "Sun, 09 Aug 2026 04:13:52 GMT",
+     "summary": "IT之家 8 月 9 日消息，一款型号为 V2573A 新机于 8 月 8 日现身跑分平台 Geekbench，博主 @体验more 预测该机为 iQOO Neo 11 至尊版。 该机搭载天玑 9500 的新变体： CPU：1*4.21GHz C1-Ultra+3*3.50GHz C1-Premium+4*2.70GHz C1-Pro， GPU：Mali G1-Ultra MC11 该博主透露，相比天玑 9500 处理器，新品 GPU 少了一个核心，由 12 核心变为 11 核心，差距不大， iQOO Neo 11 至尊版首发搭载 。 据IT之家此前报道，iQOO Neo 产品经理 @iQOO",
+     "source": "IT之家",
+     "zh": "天玑 9500 新变体曝光，iQOO Neo 11 至尊版首发搭载"
+    },
+    {
+     "title": "我花3千块买了一台“学习机”，它让我戒掉了睡前刷手机的习惯",
+     "link": "https://www.huxiu.com/article/4881754.html?f=rss",
+     "pubDate": "Sun, 09 Aug 2026 12:10:38 +0800",
+     "summary": "本文来自微信公众号： 少数派 ，作者：路中南，原文标题：《我花 3 千块买了一台「学习机」，它让我戒掉了睡前刷手机的习惯》 在如今智能手机市场高度同质化、各家都在公模和微创新里打转的时代，一台形态奇特的设备总是能轻易抓住数码爱好者的眼球。前段时间，我在浏览iKKO官网时，被一台名为MindOne Pro的手机吸引了。它接近正方形的机身比例非常特别，就像是直接把某台小折叠屏手机的外屏拆下来，单独做成了一台直板机。 我一直和朋友开玩笑说，如果市面上有厂商愿意把折叠屏的外屏拿来做个直板小手机，一定会是个不错的数字健康机。抱着这种猎奇的心态，我入手了一台国内版的MindOne Pro。然而，在经过一段",
+     "source": "虎嗅",
+     "zh": "我花3千块买了一台“学习机”，它让我戒掉了睡前刷手机的习惯"
+    },
+    {
+     "title": "只有方桃子在\"睁眼说瞎话\"吗？",
+     "link": "https://www.huxiu.com/article/4881744.html?f=rss",
+     "pubDate": "Sun, 09 Aug 2026 12:06:20 +0800",
+     "summary": "本文来自微信公众号： 介心 ，作者：介心介个心 全文约3900字·预计阅读4分钟 2026年7月31日，一个叫\"方桃子\"的虚拟角色干了一件很人类的事情：接了一条美瞳广告。她在视频里以第一人称说：\"我的美瞳戴了一天都很舒服。\"\"做了高光定轴，眨眼不偏移。\"语气自然，表情到位，和一个真人美妆博主没有任何区别。 只有一个问题。方桃子没有眼睛。不是比喻，是物理事实。她是一串代码，一个由算法生成的角色，出自全网播放量2.6亿的AI短剧《被裁掉的女孩》。她出道一个月粉丝突破四十万，广告报价60秒25.8万，超过大部分百万粉丝的真人网红。但她的脸上没有角膜，没有结膜，没有任何可以被一片硅水凝胶覆盖的器官。 ",
+     "source": "虎嗅",
+     "zh": "只有方桃子在\"睁眼说瞎话\"吗？"
+    },
+    {
+     "title": "Illinois Just Told Every Operating System to Start Reporting Your Kid's Age",
+     "link": "https://itsfoss.com/news/illinois-age-verification-bill/",
+     "pubDate": "Sun, 09 Aug 2026 04:03:59 +0000",
+     "summary": "Article URL: https://itsfoss.com/news/illinois-age-verification-bill/ Comments URL: https://news.ycombinator.com/item?id=49228350 Points: 13 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "伊利诺伊州刚刚告诉每个操作系统开始报告您孩子的年龄"
+    },
+    {
+     "title": "一个人真正清醒的开始，是看懂了职场的隐性阶层",
+     "link": "https://www.huxiu.com/article/4881752.html?f=rss",
+     "pubDate": "Sun, 09 Aug 2026 11:59:06 +0800",
+     "summary": "本文来自微信公众号： 听风译码 ，作者：安申 某互联网大厂的年会上，CEO站在台上，意气风发地宣布：\"从今天起，我们取消职级称谓，所有人互称同学。 我们是一支扁平化的团队，没有等级，只有分工\"。 台下掌声雷动。 散会后，一位刚入职三个月的年轻人兴冲冲地跑去食堂，在领导那一桌旁边坐下。 三秒钟后，旁边的人不动声色地换了位置，留下他一个人端着餐盘，像个误闯了贵宾区的游客。 他后来跟朋友说起这件事，苦笑着说：\"我以为去掉title就平等了，结果连吃饭的位置都有讲究\"。 那一刻他突然明白：去掉title容易，去掉人心里的title，难如登天。 大厂都在说不强调职级，但员工的阶级感，却比任何时候都分明。",
+     "source": "虎嗅",
+     "zh": "一个人真正清醒的开始，是看懂了职场的隐性阶层"
+    },
+    {
      "title": "《第一性思考》Vol.07｜所有人都在赚AI的钱，可钱从哪来？",
      "link": "https://www.huxiu.com/article/4881743.html?f=rss",
      "pubDate": "Sun, 09 Aug 2026 11:50:38 +0800",
@@ -1802,20 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "4元一杯的星巴克，还是没能偷家库迪瑞幸"
     },
     {
-     "title": "技嘉推出小雕 360 系列一体式水冷散热器：双腔水泵、冷头配全彩 LCD 显示屏",
-     "link": "https://www.ithome.com/0/987/530.htm",
-     "pubDate": "Sun, 09 Aug 2026 03:32:01 GMT",
-     "summary": "IT之家 8 月 9 日消息，技嘉宣布推出小雕 360 系列一体式水冷散热器，系列产品配备双腔水泵、全彩 LCD 显示屏，内置 87 颗 LED 灯珠并支持双区灯光独立调控，提供黑白双色可选，国行将于近期发售。 小雕 360 系列冷头配备带侧边可视设计的圆形全彩 LCD 显示屏，可实时监测 11 项电脑硬件运行数据，同步显示 CPU、显卡、内存等硬件状态，最多同时展示 4 组监控参数。除硬件监测功能外，用户还能上传自定义图片、GIF 动图。 系列散热器风扇部分内置 87 颗 LED 灯珠，支持双区灯光独立调节：通过技嘉智能管家（GCC）软件，风扇本体与风扇边框灯光可分开设置。 系列散热器配备双",
-     "source": "IT之家",
-     "zh": "技嘉推出小雕 360 系列一体式水冷散热器：双腔水泵、冷头配全彩 LCD 显示屏"
-    },
-    {
-     "title": "BBA逼近亏损边缘",
-     "link": "https://www.huxiu.com/article/4881739.html?f=rss",
-     "pubDate": "Sun, 09 Aug 2026 11:25:00 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：武凯，题图来自：AI生成 豪华车曾经是汽车行业利润最丰厚的生意之一。奔驰、宝马和奥迪这三家一线豪华品牌享有丰厚的品牌声誉，在全球市场可以同时获得规模和溢价，卖出一辆车能够带来的利润远高于普通汽车品牌。最新一轮半年报显示，这三家企业的主营汽车业务也濒临亏损边缘。 今年上半年，奔驰、宝马、奥迪全球汽车销量和营收规模同步下滑，三家营收创下2022年来新低，汽车销量也创下2023年来新低。利润方面，奔驰、宝马更是达到2021年来低点，奥迪也处于过去六年的低谷。中国市场表现乏力成了三家公司业绩同步下滑的关键原因。 在三家公司中，奔驰上半年营收规模最高，达到636.",
-     "source": "虎嗅",
-     "zh": "BBA逼近亏损边缘"
+     "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+     "link": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+     "pubDate": "Sun, 09 Aug 2026 03:26:00 +0000",
+     "summary": "Article URL: https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week Comments URL: https://news.ycombinator.com/item?id=49228166 Points: 57 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "撤回：本周 App Store 的拒绝是一次正确的拒绝"
     },
     {
      "title": "宇树上市的财富盛宴：171名员工造富，美团、红杉或成最大赢家",
@@ -1826,44 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "宇树上市的财富盛宴：171名员工造富，美团、红杉或成最大赢家"
     },
     {
-     "title": "产品的极简思维",
-     "link": "https://www.huxiu.com/article/4881748.html?f=rss",
-     "pubDate": "Sun, 09 Aug 2026 11:18:00 +0800",
-     "summary": "本文来自微信公众号： Li季峰 ，作者：Li季峰 引言 微信从2011年上线至今，已经过去了十多年。 这么多年过去，微信似乎变了很多，但又好像一直没有变。 打开微信，最核心的界面依旧非常简单。 下面四个选项： *微信 *通讯录 *发现 *我 我们第一时间，就可以找到自己的好友聊天。 作为一款拥有庞大用户规模的社交产品，如今我们在线下认识一个人，想添加联系方式，第一个想到的往往还是微信。 那么，微信为什么不在启动界面像很多APP一样加入广告？ 以微信的用户体量来看，哪怕只是几秒钟的曝光，都可能创造可观的商业价值。 有人会说，腾讯财大气粗，不需要这点广告收入。 真的是这样吗？ 我相信，没有公司会主",
-     "source": "虎嗅",
-     "zh": "产品的极简思维"
-    },
-    {
-     "title": "魅力进化论 | 魅力不是性格，是资源溢出：这五样，你装不出来",
-     "link": "https://www.huxiu.com/article/4881745.html?f=rss",
-     "pubDate": "Sun, 09 Aug 2026 11:16:29 +0800",
-     "summary": "本文来自微信公众号： TheHongjun ，作者：弘俊，原文标题：《魅力进化论 | 魅力不是性格，是资源溢出：这五样，你装不出来》 THE HONGJUN·ESSAY 魅力进化论|魅力不是性格，是资源溢出：这五样，你装不出来 魅力不是性格，是资源溢出。松弛、稳定、边界、余力、静止——这五样一件比一件难装。这篇拆开大脑判定“谁值得靠近”的两个标准，再给你五根按顺序拧的螺丝。 你有没有过这种时刻：明明付出最多，却最不被珍惜；明明拼命证明自己，却越用力越廉价。 你追一个女生，是不是这样的：手机一响，你第一个回；她发朋友圈，你第一个评论；她说想喝某家的奶茶，第二天奶茶就出现在她楼下。后来她跟别人在一",
-     "source": "虎嗅",
-     "zh": "魅力进化论 | 魅力不是性格，是资源溢出：这五样，你装不出来"
-    },
-    {
      "title": "特斯拉开放Model S/X设计资料：不是开源，是给'三柱合一'帝国铺第一块砖\"",
      "link": "https://www.tmtpost.com/8096108.html",
      "pubDate": "Sun, 09 Aug 2026 11:12:17 +0800",
      "summary": "2026年7月，马斯克宣布开放停产仅两个月的Model S/X全部设计资料。但这不只是一次技术分享——这是一场从造车公司到物理AI基础设施帝国的战略转身仪式。",
      "source": "钛媒体",
      "zh": "特斯拉开放Model S/X设计资料：不是开源，是给'三柱合一'帝国铺第一块砖\""
-    },
-    {
-     "title": "平台钻级≠官方星级，央视曝光酒店评级标识消费陷阱",
-     "link": "https://www.ithome.com/0/987/512.htm",
-     "pubDate": "Sun, 09 Aug 2026 03:04:45 GMT",
-     "summary": "IT之家 8 月 9 日消息，据央视新闻今日报道，出差、旅游时，不少人都会通过线上平台预订酒店，平台的评级、评分是大家判断酒店档次的重要参考。但有消费者反映， 一些主流在线旅游平台对于酒店星级、钻级的展示边界十分模糊 ，筛选页面将两类标识混排，且图标样式相近，很容易产生混淆。 报道称，不少游客花高价订房，入住后才发现所谓“高档酒店”只是平台评定的钻级酒店，而非文旅认证挂牌的星级酒店，硬件、服务都有很大差距，进而消费纠纷频发。 记者分别打开几家在线旅游平台选择酒店时，在“星级价格”一栏通常会出现 “五星 / 豪华、四星 / 高档、三星 / 舒适……” 等选项，勾选相应选项后，弹出的酒店名称后面会",
-     "source": "IT之家",
-     "zh": "平台钻级≠官方星级，央视曝光酒店评级标识消费陷阱"
-    },
-    {
-     "title": "SAP 跪求客户搬家",
-     "link": "https://www.huxiu.com/article/4881742.html?f=rss",
-     "pubDate": "Sun, 09 Aug 2026 11:03:44 +0800",
-     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 2027年12月31日。全球超过一万家公司的CFO，在日历上圈着这个日期。 过了这天，自己跑了快二十年的财务系统，再也没人修了；税务规则变了，系统不知道；被攻击了，没人管。审计师不会放过你，保险商也不会。 有意思的是，大多数人还是不打算搬。这背后，是理性。 这套系统叫ECC。全球大概35,000家公司在用它。跑财务，管采购，排供应链，发工资。沃尔玛、苹果、大众都在用。全世界最大的100家公司里，99家是SAP的客户。 有一说一，这就是统治力。SAP 2015年就发布了新系统S/4HANA，到今天快11年了。 截至2024年底，全球只有39%的客户搬",
-     "source": "虎嗅",
-     "zh": "SAP 跪求客户搬家"
     },
     {
      "title": "苹果给阿里提了一个醒",
@@ -1874,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果给阿里提了一个醒"
     },
     {
-     "title": "消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才",
-     "link": "https://www.ithome.com/0/987/511.htm",
-     "pubDate": "Sun, 09 Aug 2026 02:58:44 GMT",
-     "summary": "IT之家 8 月 9 日消息，据 Chosun 报道，三星电子将为其位于得克萨斯州的先进晶圆代工（半导体代工制造）工厂启动首批实习生招聘工作，该工厂定于今年年底开始运营。 据业内人士消息，三星电子近日启动了美国泰勒晶圆厂明年夏季实习生的招聘工作。三星电子每年都会在全球主要业务基地开展实习项目，而明年的实习计划首次将泰勒晶圆厂纳入其中。 此次实习项目为期 11 周，参与者将与现有工程师一起参与实际项目，工作内容涵盖产品、工艺和技术等领域。 与此同时，三星还在招聘 Samsung Emerging Engineer Development（SEED）项目成员。这是一项面向工程专业应届毕业生的初级人",
-     "source": "IT之家",
-     "zh": "消息称三星美国泰勒晶圆厂启动实习生招聘，为年底投产储备人才"
-    },
-    {
      "title": "推特推出全新“原创内容奖励计划”",
      "link": "https://www.williamlong.info/archives/7557.html",
      "pubDate": "Sun, 09 Aug 2026 10:50:29 +0800",
@@ -1890,26 +1954,10 @@ window.INDUSTRY_DATA = {
      "zh": "推特推出全新“原创内容奖励计划”"
     },
     {
-     "title": "微软 Teams 会议软件 Live Chat 实时聊天功能将于 10 月 5 日停用",
-     "link": "https://www.ithome.com/0/987/504.htm",
-     "pubDate": "Sun, 09 Aug 2026 02:40:53 GMT",
-     "summary": "IT之家 8 月 9 日消息，微软宣布旗下 Teams 会议软件中的 Live Chat 实时聊天功能，此举是为了“将资源投入到更新的客户互动和沟通体验中”。 根据微软官方文档，Teams Live Chat 将于 10 月 5 日正式停止服务，届时客户发送的消息将无法继续进入 Teams。微软已正式停止新用户配置该功能，并要求现有用户在服务关闭前从网站中移除聊天组件。服务终止后，仍未删除的聊天入口将被隐藏。 IT之家获悉，Teams Live Chat 是 Microsoft 365 Business Basic、Business Standard 和 Business Premium 版本",
-     "source": "IT之家",
-     "zh": "微软 Teams 会议软件 Live Chat 实时聊天功能将于 10 月 5 日停用"
-    },
-    {
-     "title": "微软 Win11 天气应用内存占用达苹果 macOS 天气应用 5 倍，且内置广告",
-     "link": "https://www.ithome.com/0/987/503.htm",
-     "pubDate": "Sun, 09 Aug 2026 02:37:08 GMT",
-     "summary": "IT之家 8 月 9 日消息，据 Windows Latest 报道，Windows 11 自带的天气应用，本质上就是套着天气预报外壳的 MSN 广告软件。它占用的内存大约是 macOS 原生天气应用的 5 倍，却还要在用户已经付费购买的操作系统中展示广告。 报道称，在没有点击或滚动浏览应用的情况下，Windows 11 自带的天气应用的内存占用竟然超过了 1.2GB。 更让人意外的是，天气应用里还有广告。 报道认为，Windows 11 并不是免费的操作系统，在 Microsoft Store 中搜索这款应用后才发现，Windows 默认的天气应用实际上就是“MSN 天气”，这也就解释了广告",
-     "source": "IT之家",
-     "zh": "微软 Win11 天气应用内存占用达苹果 macOS 天气应用 5 倍，且内置广告"
-    },
-    {
      "title": "ChatGPT starts blocking direct requests to copy an author's style",
      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
      "pubDate": "Sun, 09 Aug 2026 02:01:38 +0000",
-     "summary": "Article URL: https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/ Comments URL: https://news.ycombinator.com/item?id=49227718 Points: 16 # Comments: 2",
+     "summary": "Article URL: https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/ Comments URL: https://news.ycombinator.com/item?id=49227718 Points: 30 # Comments: 15",
      "source": "Hacker News",
      "zh": "ChatGPT 开始阻止复制作者风格的直接请求"
     },
@@ -1917,17 +1965,17 @@ window.INDUSTRY_DATA = {
      "title": "The phone book that led us to Assad's spy chief in hiding",
      "link": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
      "pubDate": "Sun, 09 Aug 2026 01:55:53 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/c4gyrzn8p94o Comments URL: https://news.ycombinator.com/item?id=49227686 Points: 27 # Comments: 5",
+     "summary": "Article URL: https://www.bbc.com/news/articles/c4gyrzn8p94o Comments URL: https://news.ycombinator.com/item?id=49227686 Points: 39 # Comments: 19",
      "source": "Hacker News",
      "zh": "电话簿让我们找到了隐藏的阿萨德间谍头子"
     },
     {
-     "title": "TheoremDB · A public workspace for machine mathematics",
-     "link": "https://theoremdb.org/",
-     "pubDate": "Sun, 09 Aug 2026 01:23:36 +0000",
-     "summary": "Article URL: https://theoremdb.org/ Comments URL: https://news.ycombinator.com/item?id=49227505 Points: 7 # Comments: 0",
+     "title": "Incentives Are for Losers",
+     "link": "https://www.experimental-history.com/p/incentives-are-for-losers",
+     "pubDate": "Sun, 09 Aug 2026 01:49:48 +0000",
+     "summary": "Article URL: https://www.experimental-history.com/p/incentives-are-for-losers Comments URL: https://news.ycombinator.com/item?id=49227652 Points: 22 # Comments: 3",
      "source": "Hacker News",
-     "zh": "TheoremDB · 机器数学的公共工作区"
+     "zh": "激励措施是针对失败者的"
     },
     {
      "title": "Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it&apos;s good enough at catching harmful actions (Simon Willison/Simon Willison&apos;s Weblog)",
@@ -1946,60 +1994,12 @@ window.INDUSTRY_DATA = {
      "zh": "看看“螺旋主义”，这是一场准精神运动，在阿谀奉承的 GPT-4o 更新和扩展的 ChatGPT 内存之后，于 2025 年从人类与人工智能的对话中发展起来（Hayden Field/The Verge）"
     },
     {
-     "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-     "link": "https://os8088.com/",
-     "pubDate": "Sat, 08 Aug 2026 23:37:27 +0000",
-     "summary": "Article URL: https://os8088.com/ Comments URL: https://news.ycombinator.com/item?id=49226923 Points: 79 # Comments: 28",
-     "source": "Hacker News",
-     "zh": "Os8088：适用于 IBM XT、286、386 的强大的类 Mac 操作系统"
-    },
-    {
-     "title": "Dithered QR Codes",
-     "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-     "pubDate": "Sat, 08 Aug 2026 23:05:24 +0000",
-     "summary": "Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/ Comments URL: https://news.ycombinator.com/item?id=49226742 Points: 61 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "抖动的 QR 码"
-    },
-    {
-     "title": "My server is a phone now",
-     "link": "https://seg6.space/posts/phone-server/",
-     "pubDate": "Sat, 08 Aug 2026 22:49:23 +0000",
-     "summary": "Article URL: https://seg6.space/posts/phone-server/ Comments URL: https://news.ycombinator.com/item?id=49226636 Points: 161 # Comments: 65",
-     "source": "Hacker News",
-     "zh": "我的服务器现在是电话"
-    },
-    {
      "title": "A profile of Russia&apos;s A7, a payment network that helps Russia bypass Western sanctions, handling ~20% of payments in Russian foreign trade, or $100B+ annually (Alexander Osipovich/Wall Street Journal)",
      "link": "https://www.techmeme.com/260808/p8#a260808p8",
      "pubDate": "Sat, 08 Aug 2026 13:45:01 -0400",
      "summary": "Alexander Osipovich / Wall Street Journal : A profile of Russia's A7, a payment network that helps Russia bypass Western sanctions, handling ~20% of payments in Russian foreign trade, or $100B+ annually &nbsp; &mdash;&nbsp; A7 says it handles nearly 20% of payments in Russian foreign trade, or more ",
      "source": "Techmeme",
      "zh": "俄罗斯 A7 简介，这是一个帮助俄罗斯绕过西方制裁的支付网络，处理俄罗斯对外贸易中约 20% 的付款，即每年 100B+ 美元（Alexander Osipovich/华尔街日报）"
-    },
-    {
-     "title": "DeepMind 的 WeatherNext 模型在飓风预测上取得突破",
-     "link": "https://www.solidot.org/story?sid=85042",
-     "pubDate": "Sun, 09 Aug 2026 01:05:07 +0800",
-     "summary": "2025 年 10 月，加勒比海上空酝酿着一场风暴。气象模型对其路径有不同的预测。它会保持弱势最终登陆海地，还是会增强并袭击买加？由 Google DeepMind 和 Google Research 联合开发的模型 WeatherNext 选择了后者。在风暴登陆前五天，该模型以 80% 的置信度预测它将以五级飓风的强度袭击牙买加。飓风梅丽莎（Melissa）给牙买加带来了灾难性的洪水和山体滑坡。但 AI 模型帮助预报员更早向沿途社区发出预警，使他们有时间做好充足准备。研究人员在《自然》上发表论文，称 WeatherNext AI 模型能以前所未有的精度预测飓风。它能比现有模型提前一天发出预警",
-     "source": "Solidot",
-     "zh": "DeepMind 的 WeatherNext 模型在飓风预测上取得突破"
-    },
-    {
-     "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-     "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-     "pubDate": "Sat, 08 Aug 2026 16:34:22 +0000",
-     "summary": "X is winding down its existing Revenue Sharing program.",
-     "source": "TechCrunch",
-     "zh": "X 用原创内容奖励取代了“不一致”的收入分享计划"
-    },
-    {
-     "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-     "link": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-     "pubDate": "Sat, 08 Aug 2026 16:00:00 +0000",
-     "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
-     "source": "TechCrunch",
-     "zh": "Kindle Scribe Colorsoft 很有趣，但它不是必备品"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung Galaxy A18 appears on Geekbench with key specs",
+     "link": "https://www.gsmarena.com/samsung_galaxy_a18_4g_key_specs_geekbench-news-74083.php",
+     "pubDate": "Sun, 09 Aug 2026 07:01:02 +0200",
+     "summary": "Samsung is rumored to unveil the Galaxy A18 in the coming weeks. While there's no word from the Korean brand about the Galaxy A18 yet, the smartphone has appeared on Geekbench, which reveals its key specs. The Geekbench database reveals that the Samsung Galaxy A18, bearing model code SM-A185G, is po",
+     "source": "GSMArena",
+     "zh": "三星 Galaxy A18 出现在 Geekbench 上并公布了主要规格"
+    },
     {
      "title": "Weekly poll results: smart glasses are a solution looking for a problem",
      "link": "https://www.gsmarena.com/weekly_poll_results_smart_glasses_are_a_solution_looking_for_a_problem-news-74029.php",
@@ -2194,14 +2202,6 @@ window.INDUSTRY_DATA = {
      "zh": "这就是苹果跳过 M6 Pro 和 M6 Max 芯片以加速 M7 发布的原因"
     },
     {
-     "title": "Motorola Moto Pad 70 announced: 12.1\" 90Hz display, 5G connectivity, and 10,200 mAh battery",
-     "link": "https://www.gsmarena.com/motorola_moto_pad_70_features_price_sale_date-news-74081.php",
-     "pubDate": "Sat, 08 Aug 2026 15:07:02 +0200",
-     "summary": "Motorola unveiled the Moto Pad 70 Pro in June, which was followed by the Moto Pad 70 Groove last week. Today, the Lenovo-owned company introduced the Moto Pad 70 as the third member of the Moto Pad 70 series. Motorola says the Moto Pad 70 is a \"premium tablet designed to empower users with the perfe",
-     "source": "GSMArena",
-     "zh": "摩托罗拉 Moto Pad 70 发布：12.1 英寸 90Hz 显示屏、5G 连接和 10,200 mAh 电池"
-    },
-    {
      "title": "Sony 100-400mm F5.6-8 OSS sample gallery: what the budget telephoto delivers in the real world",
      "link": "https://www.dpreview.com/samples/sony-100-400mm-f5-6-8-oss-sample-gallery-what-the-budget-telephoto-delivers-in-the-real-world/",
      "pubDate": "Sat, 08 Aug 2026 13:00:00 +0000",
@@ -2258,6 +2258,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "美银Hartnett：“战术”看跌，但“战略”看涨，因为政策制定者不会允许市场崩盘",
+     "link": "https://wallstreetcn.com/articles/3779003",
+     "pubDate": "Sun, 09 Aug 2026 13:01:55 +0800",
+     "summary": "美银证券首席投资策略师Michael Hartnett在最新一期Flow Show报告中提出了一个看似矛盾却逻辑自洽的市场判断： 短期内保持谨慎，建议撤离风险资产；但从长期战略视角看，他维持\"做多股票、做空债券\"的配置，核心逻辑是美国政策制定者已将股市视为\"大而不能倒\"的系统性资产。 在最新动态上，美银牛熊指标已从9.4升至9.7，创2021年初迷因股泡沫以来最高水平，反映出市场情绪极度乐观。 与此同时，Hartnett警告，信贷市场正在发出越来越明显的看跌信号，AI超大规模数据中心运营商的信用利差和CDS持续走阔，而科技股资金流向也在六周来首次出现净流出。 对投资者而言，这一\"战术看跌、战略",
+     "source": "华尔街见闻",
+     "zh": "美银Hartnett：“战术”看跌，但“战略”看涨，因为政策制定者不会允许市场崩盘"
+    },
+    {
+     "title": "Investors return to European stocks as strong earnings lift Iran war gloom",
+     "link": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
+     "pubDate": "Sun, 09 Aug 2026 04:00:09 GMT",
+     "summary": "Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in profits in the second quarter",
+     "source": "Financial Times",
+     "zh": "强劲盈利提振伊朗战争阴霾，投资者重返欧洲股市"
+    },
+    {
+     "title": "How a made-up agency found its way into Nigeria’s budget",
+     "link": "https://www.ft.com/content/4b71db50-0edb-42f3-bd74-faeb7c739e53?syn-25a6b1a6=1",
+     "pubDate": "Sun, 09 Aug 2026 04:00:09 GMT",
+     "summary": "Alleged head of fictional investment council was allocated government funding and met top officials",
+     "source": "Financial Times",
+     "zh": "一个虚构的机构如何进入尼日利亚的预算"
+    },
+    {
+     "title": "The Bayeux Tapestry loan is a model for the Parthenon Marbles",
+     "link": "https://www.ft.com/content/d45a8e1b-1d45-4a3d-a3d2-5a3ce15b0e9d",
+     "pubDate": "Sun, 09 Aug 2026 04:00:09 GMT",
+     "summary": "Burnham has a chance to create a legislative carve-out that speeds the process of returning the artefacts to Greece",
+     "source": "Financial Times",
+     "zh": "出借的贝叶挂毯是帕台农神庙大理石大理石的模型"
+    },
+    {
+     "title": "France faces budget showdown as presidential election looms",
+     "link": "https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1",
+     "pubDate": "Sun, 09 Aug 2026 04:00:09 GMT",
+     "summary": "Minister David Amiel urges opposition to help cut deficit and not leave mess for next leader",
+     "source": "Financial Times",
+     "zh": "总统选举临近，法国面临预算摊牌"
+    },
+    {
      "title": "AI推理前瞻——从基础设施建设到商业化变现",
      "link": "https://wallstreetcn.com/articles/3778997",
      "pubDate": "Sun, 09 Aug 2026 11:48:46 +0800",
@@ -2266,60 +2306,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI推理前瞻——从基础设施建设到商业化变现"
     },
     {
-     "title": "中科慧思董事长张正涛：灵巧手站在爆发的临界点",
-     "link": "http://www.eeo.com.cn/2026/0809/991423.shtml",
-     "pubDate": "Sun, 09 Aug 2026 11:12:59 +0800",
-     "summary": "当机器人会走、会看、会交流，如何更好地实现抓取、按压、旋拧、插接成为行业关注的新焦点。进入2026年，灵巧手这个细分赛道迎来爆发。",
-     "source": "经济观察网",
-     "zh": "中科慧思董事长张正涛：灵巧手站在爆发的临界点"
-    },
-    {
      "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
      "link": "https://wallstreetcn.com/articles/3778998",
      "pubDate": "Sun, 09 Aug 2026 10:52:24 +0800",
      "summary": "SK海力士正规划一项史上最大规模的股东回报计划，市场对这家全球最大高带宽内存供应商的资本回报预期显著升温。 据韩国《韩国经济》稍早前报道， 该公司拟推出总额约100万亿韩元（约710亿美元）的股东回报方案，其中自股回购约40万亿韩元，回购规模约占总股本2%出头，基本相当于美股发行规模。 若该方案最终落地，规模将远超公司去年约14.3万亿韩元的现金股息与自股注销合计规模，扩张幅度显著。 回购规模对冲ADR稀释效应 本次自股回购约40万亿韩元，占公司总股本略超2%，与其为在美国发行存托凭证（ADR）而增发新股的规模（占总股本约2.5%）基本相当。 市场普遍将此次回购视为对股权稀释的实质性对冲。 作",
      "source": "华尔街见闻",
      "zh": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模"
-    },
-    {
-     "title": "深圳天使母基金许允琪：落实容错机制需完善制度细则打通实操堵点",
-     "link": "http://www.eeo.com.cn/2026/0809/991390.shtml",
-     "pubDate": "Sun, 09 Aug 2026 10:52:06 +0800",
-     "summary": "南方财经见习记者苏磊 记者王达毓 8月5日下午，21世纪“国企及政府投资基金高质量发展”闭门会暨大湾区文投联盟新增成员授牌仪式在广州南方财经大厦举行，首场圆桌研讨聚焦国资创投领域的容错机制与项目退出两大核心难题。 在圆桌讨论环节，深圳天使母基金副总经理许允琪分享了深圳地区国资创投容错机制落地实践。 许允琪介绍，深圳天使母基金成立于2018年，成立以来始终聚焦天使阶段早期股权投资。累计...",
-     "source": "经济观察网",
-     "zh": "深圳天使母基金许允琪：落实容错机制需完善制度细则打通实操堵点"
-    },
-    {
-     "title": "国家统计局：7月PPI同比上涨3.5%",
-     "link": "http://www.eeo.com.cn/2026/0809/991343.shtml",
-     "pubDate": "Sun, 09 Aug 2026 10:26:14 +0800",
-     "summary": "中新经纬8月9日电 据国家统计局网站消息，2026年7月份，全国工业生产者出厂价格同比上涨3.5%，环比下降0.7%。工业生产者购进价格同比上涨5.5%，环比下降1.0%。1—7月平均，工业生产者出厂价格比上年同期上涨1.8%，工业生产者购进价格上涨2.8%。 来源：国家统计局网站 工业生产者价格...",
-     "source": "经济观察网",
-     "zh": "国家统计局：7月PPI同比上涨3.5%"
-    },
-    {
-     "title": "7月份居民消费价格同比上涨0.5%",
-     "link": "http://www.eeo.com.cn/2026/0809/991341.shtml",
-     "pubDate": "Sun, 09 Aug 2026 10:26:06 +0800",
-     "summary": "据国家统计局8月9日消息，2026年7月份，全国居民消费价格同比上涨0.5%。其中，城市上涨0.5%，农村上涨0.4%；食品价格下降1.5%，非食品价格上涨0.9%；消费品价格上涨0.2%，服务价格上涨0.7%。1­­—7月平均，全国居民消费价格比上年同期上涨0.9%。7月份，全国居民消费价格环比下降0.1%。其中，城市下降0.1%，农村下降0.2%；食品价格持平，非食品价格下降0.1%；消费品价格下降0.6%，服务价格上涨0.4%。",
-     "source": "经济观察网",
-     "zh": "7月份居民消费价格同比上涨0.5%"
-    },
-    {
-     "title": "国家统计局：7月份CPI保持温和上涨 PPI同比涨幅有所回落",
-     "link": "http://www.eeo.com.cn/2026/0809/991342.shtml",
-     "pubDate": "Sun, 09 Aug 2026 10:26:05 +0800",
-     "summary": "据国家统计局8月9日消息，国家统计局城市司首席统计师董莉娟解读2026年7月份CPI和PPI数据。7月份，受国际输入性因素影响，居民消费价格指数（CPI）环比下降0.1%，同比上涨0.5%，扣除食品和能源价格的核心CPI环比上涨0.3%，同比上涨0.9%，CPI总体保持温和上涨。国内部分行业需求增加，但受输入性和季节性等因素影响，工业生产者出厂价格指数（PPI）环比下降0.7%，同比上涨3.5%，涨幅比上月回落0.6个百分点。",
-     "source": "经济观察网",
-     "zh": "国家统计局：7月份CPI保持温和上涨 PPI同比涨幅有所回落"
-    },
-    {
-     "title": "国家统计局：7月黄金饰品价格上涨24.6%",
-     "link": "http://www.eeo.com.cn/2026/0809/991327.shtml",
-     "pubDate": "Sun, 09 Aug 2026 10:13:14 +0800",
-     "summary": "中新经纬8月9日电 据国家统计局网站消息，2026年7月份，全国居民消费价格同比上涨0.5%。其中，城市上涨0.5%，农村上涨0.4%；食品价格下降1.5%，非食品价格上涨0.9%；消费品价格上涨0.2%，服务价格上涨0.7%。1­­—7月平均，全国居民消费价格比上年同期上涨0.9%。 7月份，全国居民消费价格环比下降0.1%。其中，城市下降0.1%，农村下降0.2%；食品价格持平，非食品价格下降0.1%；消费品价格下降0.6%，服务价格上涨0.4%。</p...",
-     "source": "经济观察网",
-     "zh": "国家统计局：7月黄金饰品价格上涨24.6%"
     },
     {
      "title": "下周重磅日程：美CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
@@ -2338,14 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”"
     },
     {
-     "title": "Deadly protests in Kashmir test Pakistan’s military rulers",
-     "link": "https://www.ft.com/content/2be78a9f-1431-4519-b5c4-c4dd5026dd3c?syn-25a6b1a6=1",
-     "pubDate": "Sun, 09 Aug 2026 01:50:21 GMT",
-     "summary": "Dozens killed in worst violence in region in decades",
-     "source": "Financial Times",
-     "zh": "克什米尔的致命抗议考验着巴基斯坦的军事统治者"
-    },
-    {
      "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
      "link": "https://wallstreetcn.com/articles/3778996",
      "pubDate": "Sun, 09 Aug 2026 09:31:31 +0800",
@@ -2360,14 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "CICC has become a dominant financier in Beijing’s drive to compete with US in tech race",
      "source": "Financial Times",
      "zh": "中国人工智能上市热潮背后的银行"
-    },
-    {
-     "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
-     "link": "https://wallstreetcn.com/articles/3778995",
-     "pubDate": "Sun, 09 Aug 2026 09:15:28 +0800",
-     "summary": "Greg Abel执掌伯克希尔·哈撒韦以来，首次展现出与前任截然不同的资本配置风格——这家坐拥逾3600亿美元现金的巨型企业，正在加速出手。 二季度， 伯克希尔净买入约200亿美元股票 ， 终结了前任CEO沃伦·巴菲特持续逾三年的净卖出态势。 与此同时， 公司斥资约45亿美元回购自身股票， 并以68亿美元收购房屋建筑商Taylor Morrison Home， 现金储备较上季度下降约4%至3647亿美元，为四年来首次环比下降 。公司当季净利润同比翻逾一倍，至257亿美元。 上述举措发生在美国股市处于历史高位的背景下，与巴菲特时代的谨慎姿态形成鲜明对比，令市场重新审视伯克希尔的投资信号意义。Ab",
-     "source": "华尔街见闻",
-     "zh": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票"
     },
     {
      "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
@@ -2490,12 +2466,36 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX、Palantir 盈利和就业数据推动市场，本周热门股票"
     },
     {
-     "title": "Tehran says US must ‘rectify its behaviour’ before Iran reopens strait",
-     "link": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1",
-     "pubDate": "Sat, 08 Aug 2026 16:20:14 GMT",
-     "summary": "Senior security official wants Washington to pay compensation for war damage",
+     "title": "Greg Abel finally puts Buffett’s cash pile to work",
+     "link": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1",
+     "pubDate": "Sat, 08 Aug 2026 15:36:35 GMT",
+     "summary": "Berkshire Hathaway chief ends more than three-year selling streak as he ploughs a net $20bn into stocks",
      "source": "Financial Times",
-     "zh": "德黑兰称美国必须在伊朗重新开放海峡之前“纠正其行为”"
+     "zh": "格雷格·阿贝尔终于让巴菲特的现金储备发挥作用"
+    },
+    {
+     "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett&apos;s massive cash hoard",
+     "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+     "pubDate": "Sat, 08 Aug 2026 13:28:00 GMT",
+     "summary": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
+     "source": "CNBC",
+     "zh": "伯克希尔上季度盈利增长，首席执行官格雷格·阿贝尔开始动用巴菲特的巨额现金储备"
+    },
+    {
+     "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms &apos;don&apos;t even know it&apos;",
+     "link": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+     "pubDate": "Sat, 08 Aug 2026 12:00:01 GMT",
+     "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
+     "source": "CNBC",
+     "zh": "Hugging Face 黑客事件标志着危险的人工智能网络时代的开始，许多公司“甚至不知道”"
+    },
+    {
+     "title": "Cyclospora fears lead consumers to lose their appetite for salads",
+     "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+     "pubDate": "Sat, 08 Aug 2026 12:00:01 GMT",
+     "summary": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
+     "source": "CNBC",
+     "zh": "对环孢菌的恐惧导致消费者对沙拉失去胃口"
     }
    ]
   },

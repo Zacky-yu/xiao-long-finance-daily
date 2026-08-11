@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/12 06:42:11",
+ "generated_at": "2026/8/12 07:40:21",
  "recent_days": 7,
  "industries": [
   {
@@ -274,7 +274,7 @@
     },
     {
      "title": "China drinks twice as much beer as USA",
-     "link": "https://www.electronicsweekly.com/news/business/china-drinks-twice-as-much-beer-as-usa-2026-08/",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/china-drinks-twice-as-much-beer-as-usa-2026-08/",
      "pubDate": "Tue, 11 Aug 2026 20:28:31 +0000",
      "summary": "China is the world’s leading producer of beer, according to the latest BarthHaas Report. In 2025, the country’s output stood at 354 million hectolitres of beer. A hectolitre is equivalent […] The post China drinks twice as much beer as USA appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
@@ -849,6 +849,22 @@
    "total": 9,
    "items": [
     {
+     "title": "Alaska’s $55B LNG Mega-Project In Talks With More Buyers Ahead Of FID",
+     "link": "https://oilprice.com/Energy/Natural-Gas/Alaskas-55B-LNG-Mega-Project-In-Talks-With-More-Buyers-Ahead-Of-FID.html",
+     "pubDate": "Tue, 11 Aug 2026 18:00:00 -0500",
+     "summary": "Two years ago, Alaska LNG was struggling to secure the private financing needed to move forward, with high Arctic construction costs, logistical complexities and massive upfront property tax burdens making lenders and potential Asian buyers hesitant to commit. But since then, the outlook for the $55",
+     "source": "OilPrice",
+     "zh": "阿拉斯加 550 亿美元的液化天然气大型项目在最终投资决定前与更多买家进行谈判"
+    },
+    {
+     "title": "Schneider Electric Canada Strengthens Commercial Leadership to Help Customers Navigate the New Energy Landscape",
+     "link": "https://cleantechnica.com/2026/08/11/schneider-electric-canada-strengthens-commercial-leadership-to-help-customers-navigate-the-new-energy-landscape/",
+     "pubDate": "Tue, 11 Aug 2026 22:38:49 +0000",
+     "summary": "Expanded leadership roles for Shaun MacGarvie and Sophie Chadefaud reinforce Schneider Electric’s commitment to helping customers accelerate efficiency, resilience, and sustainability outcomes. MILTON, Ontario — Schneider Electric Canada is strengthening its commercial leadership to help customers n",
+     "source": "CleanTechnica",
+     "zh": "施耐德电气加拿大公司加强商业领导力，帮助客户驾驭新能源格局"
+    },
+    {
      "title": "Sodium-Ion Batteries Gain Ground as Lithium Alternative",
      "link": "https://oilprice.com/Energy/Energy-General/Sodium-Ion-Batteries-Gain-Ground-as-Lithium-Alternative.html",
      "pubDate": "Tue, 11 Aug 2026 17:00:00 -0500",
@@ -903,14 +919,6 @@
      "summary": "One year after the signing of a provisional peace deal in Washington, DC, American, Armenian, and Azerbaijani officials continue to exude optimism about the potential for stability and prosperity in the South Caucasus. But movement toward implementing the joint declaration has been halting. On Augus",
      "source": "OilPrice",
      "zh": "华盛顿突破一年后亚美尼亚-阿塞拜疆和平计划陷入停滞"
-    },
-    {
-     "title": "China's Coal-to-Gas Industry Set to Triple by 2030, Rystad Says",
-     "link": "https://oilprice.com/Energy/Energy-General/Chinas-Coal-to-Gas-Industry-Set-to-Triple-by-2030-Rystad-Says.html",
-     "pubDate": "Tue, 11 Aug 2026 13:00:00 -0500",
-     "summary": "As nations race to cut import exposure to geopolitical tensions, China is building the world’s only large-scale coal-to-gas (CTG) industry as a strategic buffer against supply shocks. No other country has developed synthetic gas from coal at any meaningful scale. China’s 15th Five-Year Plan, coverin",
-     "source": "OilPrice",
-     "zh": "Rystad 表示，到 2030 年，中国的煤制天然气行业将增长两倍"
     },
     {
      "title": "AI Data Centers Are A Regional US Grid Issue, Not A Global Power Crisis",
@@ -1049,14 +1057,6 @@
      "zh": "哥本哈根基础设施合作伙伴完成了墨西哥 750MWh 太阳能+储能项目"
     },
     {
-     "title": "2027 BYD Seal 06 Comes with Lidar",
-     "link": "https://cleantechnica.com/2026/08/11/2027-byd-seal-06-comes-to-lidar/",
-     "pubDate": "Tue, 11 Aug 2026 11:12:30 +0000",
-     "summary": "A BYD video of its new 2027 Seal 06 shows that the car comes with lidar integrated into the roof/windshield of the vehicle. The car, which comes as both a pure electric model and a plug-in hybrid, has BYD’s God’s Eye B ADAS. That’s an upgrade from the 2026 BYD ... [continued] The post 2027 BYD Seal ",
-     "source": "CleanTechnica",
-     "zh": "2027 比亚迪 Seal 06 配备激光雷达"
-    },
-    {
      "title": "Market intelligence, innovation, and trust: The manufacturer’s new playbook for staying ahead in Europe’s storage market",
      "link": "https://www.pv-magazine.com/2026/08/11/market-intelligence-innovation-and-trust-the-manufacturers-new-playbook-for-staying-ahead-in-europes-storage-market/",
      "pubDate": "Tue, 11 Aug 2026 11:01:59 +0000",
@@ -1182,7 +1182,7 @@
      "pubDate": "Tue, 11 Aug 2026 12:12:00 -0400",
      "summary": "Ying Huang is now running K2 Therapeutics, which has licensed multiple prospects from China-based biotechs and is searching for more &ldquo;high-potential&rdquo; medicines.",
      "source": "BioPharma Dive",
-     "zh": "前传奇首席执行官掌舵生物技术初创公司，在全球范围内寻找药物"
+     "zh": "前传奇首席执行官掌舵生物技术初创公司，在全球范围内寻找药品"
     },
     {
      "title": "Two health insurers give an AI reality check",
@@ -1761,6 +1761,102 @@
    "total": 18,
    "items": [
     {
+     "title": "微软 Xbox Elite Series 3 原型手柄谍照泄露，内置微型屏幕",
+     "link": "https://www.ithome.com/0/988/559.htm",
+     "pubDate": "Tue, 11 Aug 2026 23:37:25 GMT",
+     "summary": "IT之家 8 月 12 日消息，Reddit 上一名用户近日晒出了一组看起来非常真实的微软 Xbox 原型手柄照片，而它几乎可以确定就是传闻中的 Xbox Elite Series 3。更令人意外的是，这名用户声称自己是在 OfferUp 上花 200 美元 （IT之家注：现汇率约合 1,351 元人民币） 买到这款手柄的。 今年 5 月，巴西监管机构泄露的图片显示，Xbox Elite Series 3 将在手柄底部边缘加入两个全新的滚轮，还将增加一种新的无线连接模式，可以直接连接 Xbox Cloud Gaming 服务器，同时加入一个新的“配对按钮”，用于在云游戏服务器和游戏主机之间切换",
+     "source": "IT之家",
+     "zh": "微软 Xbox Elite Series 3 原型手柄谍照泄露，内置微型屏幕"
+    },
+    {
+     "title": "三星 Galaxy Tab S12+/S12 Ultra 平板曝光：天玑 9500 芯片",
+     "link": "https://www.ithome.com/0/988/558.htm",
+     "pubDate": "Tue, 11 Aug 2026 23:29:55 GMT",
+     "summary": "IT之家 8 月 12 日消息，科技媒体 SamMobile 昨日（8 月 11 日）发布博文，报道称在蓝牙技术联盟（Bluetooth SIG）官网上， 发现三星 Galaxy Tab S12+ 和 Galaxy Tab S12 Ultra 两款平板踪迹。 连接方面，认证页面显示三星 Galaxy Tab S12+ 和 Galaxy Tab S12 Ultra 两款平板均会推出 Wi-Fi 网络版和蜂窝网络版本。 芯片方面，此前消息称三星两款平板均采用联发科天玑 9500 芯片。外观方面，整体沿用 Galaxy Tab S11 系列设计，预估不会有太大变化。 屏幕方面，三星 Galaxy T",
+     "source": "IT之家",
+     "zh": "三星 Galaxy Tab S12+/S12 Ultra 平板曝光：天玑 9500 芯片"
+    },
+    {
+     "title": "超 653 公里 / 小时，JCB Hydromax 创下氢动力车陆地速度新纪录",
+     "link": "https://www.ithome.com/0/988/557.htm",
+     "pubDate": "Tue, 11 Aug 2026 23:25:59 GMT",
+     "summary": "IT之家 8 月 12 日消息，在以 368.347 英里 / 小时（592.797 公里 / 小时）的速度创造纪录数天后，JCB Hydromax 又在美国邦纳维尔盐滩创造了一项新的国际汽联（FIA）世界陆地速度纪录。 今天凌晨，这款氢动力车型首次出场便跑出了 400.623 英里 / 小时（644.740 公里 / 小时）的平均速度。随后，赛车掉头驶向相反方向，最终跑出了惊人的 412.135 英里 / 小时（663.267 公里 / 小时）平均速度。 两次成绩取平均后，JCB Hydromax 最终以 406.320 英里 / 小时（653.909 公里 / 小时）的平均速度创造了新的世",
+     "source": "IT之家",
+     "zh": "超 653 公里 / 小时，JCB Hydromax 创下氢动力车陆地速度新纪录"
+    },
+    {
+     "title": "电商为何存在并壮大？从钟睒睒之论谈起",
+     "link": "https://www.huxiu.com/article/4882411.html?f=rss",
+     "pubDate": "Wed, 12 Aug 2026 07:24:43 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔，题图来自：视觉中国 英雄绝不可自剪羽翼 钟睒睒是我非常尊重的企业家。在2024年春那场对他的网暴中，我写了《 为什么尊重实干者在今天特别重要 》，举了农夫山泉在江西赣州投资脐橙果园和工厂的例子。他看后向我们共同的朋友反馈说，&ldquo;写得很好&rdquo;。 2024年11月，钟总通过媒体喊话张一鸣，猛批拼多多。我马上写了《 当拼多多和字节跳动成为一种基础设施，它们会通往哪里？》 ，指出拼多多和字节跳动需要高度重视来自社会的批评。 今年8月8日，钟总在央视《对话》栏目中又一次批评电商平台，一石再激千重浪。 比起去年1月钟总把电商平台比作&ld",
+     "source": "虎嗅",
+     "zh": "电商为何存在并壮大？从钟睒睒之论谈起"
+    },
+    {
+     "title": "士绅化的得与失：中国40年城市化反思录",
+     "link": "https://www.huxiu.com/article/4882412.html?f=rss",
+     "pubDate": "Wed, 12 Aug 2026 07:23:51 +0800",
+     "summary": "本文来自微信公众号： 三土城市笔记 ，作者：周锦虹 这是“周锦虹城市观察系列”的第二篇，作者深入探讨了中国40多年城市化过程中的一个伴生现象——“士绅化”。文章兼具学术性和可读性，但因全篇长达15000余字，所以小编将其分拆分为上下两篇，今日刊发上篇。 在这一篇中，作者详细梳理了中西方城市士绅化的起因、经过，有助于我们更深刻地理解城市化的本质，以及这一历程对于不同人群造成的积极或负面影响。 今年6月，耗时将近10年的芝加哥奥巴马总统图书馆开幕。一个前总统募集了8.5亿美元建图书馆，还连带建了社区中心与公园，明明是件大好事，当地居民却打官司打到联邦最高法院，死活不让建。 为什么？因为他们怕的不是",
+     "source": "虎嗅",
+     "zh": "士绅化的得与失：中国40年城市化反思录"
+    },
+    {
+     "title": "【钛晨报】上海：到2030年，产业规模力争达到4万亿元；报道称SK海力士重启中国NAND闪存生产基地2号工厂建设，将产能扩大约50%；英特尔公布普通股公开发行定价，规模扩大至200亿美元",
+     "link": "https://www.tmtpost.com/8099470.html",
+     "pubDate": "Wed, 12 Aug 2026 07:20:00 +0800",
+     "summary": "朋友圈文案、评论点评也能AI代写了？腾讯客服：小范围内测中；腾讯WorkBuddy宣布支持“多端同步”；淘宝闪购在上海、杭州内测到家餐饮项目；波音777宽体客机改装货机生产线落地青岛，计划9月投产；三星SDI将完全接管与通用汽车在美合资企业，同意联合开发电动汽车电池；涉及电风扇、玩具等产品，市场监管总局撤销764张CCC认证证书；2026年具身智能产业图谱征集工作启动；科创板再添硬科技巨头，国仪量子上市，国产高端量子装备迎来新拐点；阿维塔陈卓：不能沦为“硬件整合商”，IPO相关工作稳步推进；ETF总规模逼近5万亿元；OpenAI回购70亿美元员工股份；2026年度电影票房突破245亿元；乘联分",
+     "source": "钛媒体",
+     "zh": "【钛晨报】上海：到2030年，产业规模力争达到4万亿元；报道称SK海力士重启中国NAND闪存生产基地2号工厂建设，将产能扩大约50%；英特尔公布普通股公开发行定价，规模扩大至200亿美元"
+    },
+    {
+     "title": "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献",
+     "link": "https://www.ithome.com/0/988/556.htm",
+     "pubDate": "Tue, 11 Aug 2026 23:19:12 GMT",
+     "summary": "IT之家 8 月 12 日消息，OpenAI 高级主管布拉德 · 莱特卡普（Brad Lightcap）今天（8 月 12 日）在 X 平台发布推文，宣布将离职创业。 IT之家查询公开资料， 莱特卡普此前和 OpenAI 现任首席执行官萨姆 · 奥尔特曼（Sam Altman）在风险投资公司 Y Combinator 共事 ，于 2018 年加入 OpenAI 公司。莱特卡普于今年 4 月发生人事调动，从 OpenAI 首席运营官职位调任至专注于领导特殊项目。 随后奥尔特曼在该推文下方评论，表示感谢莱特卡普对 OpenAI 公司的贡献： 布拉德 · 莱特卡普（Brad Lightcap），图源",
+     "source": "IT之家",
+     "zh": "OpenAI 高管莱特卡普宣布离职创业，奥尔特曼感谢其贡献"
+    },
+    {
+     "title": "从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs",
+     "link": "https://www.ithome.com/0/988/555.htm",
+     "pubDate": "Tue, 11 Aug 2026 23:14:27 GMT",
+     "summary": "IT之家 8 月 12 日消息，林俊旸（yáng）今日宣布，他在上海创办了一家新公司 Pragmatik Labs（语用科技），简称 p7k。新公司的研究方向为 横跨数字世界和物理世界的下一代智能体 （Agent）。 公开资料显示，出生于 1993 年的林俊旸，曾是阿里最年轻的 P10 级技术专家，与智谱 AI 创始人唐杰、月之暗面（Kimi）创始人杨植麟、腾讯首席 AI 科学家姚顺雨并称为“基模四杰”。今年 3 月，林俊旸宣布从阿里巴巴离职。 林俊旸还透露，高榕创投和红杉中国共同领投本轮融资，腾讯和上海未来产业基金提供支持。 据 The Information 今年 6 月报道， Pragm",
+     "source": "IT之家",
+     "zh": "从阿里离职五个月后，林俊旸官宣创办 AI 公司语用科技 Pragmatik Labs"
+    },
+    {
+     "title": "Sonos Ace Ultra 高端耳机曝光：预计 9 月发布，融入 AI 能力",
+     "link": "https://www.ithome.com/0/988/554.htm",
+     "pubDate": "Tue, 11 Aug 2026 23:12:41 GMT",
+     "summary": "IT之家 8 月 12 日消息，两年前，Sonos 从无线音箱领域跨入头戴式耳机市场。如今，这家公司似乎正准备推出一款定位更高端、融入更多 AI 能力的新产品。 据彭博社记者 Chris Welch 报道，Sonos 正在开发 Sonos Ace Ultra，这将是 2024 年推出的 Sonos Ace 耳机的高端升级版。 当地时间周一曝光的一份美国联邦通信委员会（FCC）文件中出现了这款产品的名称，并显示 Ace Ultra 最多可能提供 5 种配色。相比之下，初代 Sonos Ace 仅提供黑色和白色两种配色。 IT之家注意到，Sonos 已计划在 9 月举行新品发布活动，而此次 FCC",
+     "source": "IT之家",
+     "zh": "Sonos Ace Ultra 高端耳机曝光：预计 9 月发布，融入 AI 能力"
+    },
+    {
+     "title": "失速35.6%，比亚迪国内大跌，吉利重启销冠之争",
+     "link": "https://www.huxiu.com/article/4882410.html?f=rss",
+     "pubDate": "Wed, 12 Aug 2026 07:09:26 +0800",
+     "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：张南，作者：推动新汽车向前进 浪拥抱着浪，光簇拥着光 2026年7月，中国新能源汽车零售渗透率达65.1%，乘用车出口增速接近翻倍。 但这两项数据背后，国内乘用车市场还发生了一个更值得关注的变化：比亚迪与吉利之间的累计销量差距，已缩至约3万辆。 根据乘联分会各月国内零售数据测算，今年1-7月，比亚迪累计零售约121.4万辆，同比下降约35.6%；吉利累计零售约118.2万辆，同比下降约17.3%。 同期，国内狭义乘用车1-7月累计零售1017.3万辆，同比下降20.3%。这意味着，吉利的降幅比大盘小约3个百分点，比亚迪则比大盘多跌约15.3个百分点。",
+     "source": "虎嗅",
+     "zh": "失速35.6%，比亚迪国内大跌，吉利重启销冠之争"
+    },
+    {
+     "title": "独家丨那个最早押中宇树的红杉投资人，正在关心什么",
+     "link": "https://www.huxiu.com/article/4882391.html?f=rss",
+     "pubDate": "Wed, 12 Aug 2026 06:59:38 +0800",
+     "summary": "出品 | 虎嗅科技组 作者 | 梁卡尔 编辑 | 苗正卿 头图 | 红杉中国提供 近日，&ldquo;人形机器人第一股&rdquo;宇树科技开始询价、启动申购。这家创下73天&ldquo;过会&rdquo;（ IPO审核 ）纪录的明星公司，根据发行估值计算，多家早期入股机构账面回报或将达到数百倍。 在宇树&ldquo;一股难求&rdquo;之际，宇树背后的投资机构们开始被重点关注，尤其是那些早早押注宇树的资本。 虎嗅了解到，红杉中国成为第一家在宇树科技持股达到10%的机构股东，并在此后多轮融资中持续追加投资。宇树科技招股书显示，经多轮融资稀释，上市前，红杉中国合计持股超过7%，是第二大机构投资",
+     "source": "虎嗅",
+     "zh": "独家丨那个最早押中宇树的红杉投资人，正在关心什么"
+    },
+    {
+     "title": "OpenAI launches a ChatGPT desktop app for Linux in preview, supporting ChatGPT Work, Codex, and more; Computer Use outside the in-app browser is not available (Frederic Lardinois/The New Stack)",
+     "link": "https://www.techmeme.com/260811/p41#a260811p41",
+     "pubDate": "Tue, 11 Aug 2026 18:55:01 -0400",
+     "summary": "Frederic Lardinois / The New Stack : OpenAI launches a ChatGPT desktop app for Linux in preview, supporting ChatGPT Work, Codex, and more; Computer Use outside the in-app browser is not available &nbsp; &mdash;&nbsp; On Tuesday, OpenAI launched its ChatGPT desktop for Linux.&nbsp; &mdash;&nbsp; Now ",
+     "source": "Techmeme",
+     "zh": "OpenAI 推出了适用于 Linux 的 ChatGPT 桌面应用程序预览版，支持 ChatGPT Work、Codex 等；无法在应用程序内浏览器之外使用计算机（Frederic Lardinois/The New Stack）"
+    },
+    {
      "title": "The CFTC uses its \"emergency authority\" to order Kalshi to continue operating in New York after the state filed a lawsuit in July seeking to shutter Kalshi (Nikhilesh De/CoinDesk)",
      "link": "https://www.techmeme.com/260811/p40#a260811p40",
      "pubDate": "Tue, 11 Aug 2026 18:40:01 -0400",
@@ -1769,18 +1865,10 @@
      "zh": "在纽约州于 7 月份提起诉讼寻求关闭 Kalshi 后，CFTC 使用其“紧急权力”命令 Kalshi 继续在纽约运营 (Nikhilesh De/CoinDesk)"
     },
     {
-     "title": "效力超 25 年，消息称苹果 Apple Pay 负责人贝利 10 月退休",
-     "link": "https://www.ithome.com/0/988/546.htm",
-     "pubDate": "Tue, 11 Aug 2026 22:38:43 GMT",
-     "summary": "IT之家 8 月 12 日消息，彭博社昨日（8 月 11 日）报道称， 负责 Apple Pay（苹果支付）和 Apple Wallet（苹果钱包）的苹果副总裁詹妮弗 · 贝利（Jennifer Bailey）将于 10 月退休。 IT之家援引博文介绍，贝利效力苹果公司超过 25 年，于 2000 年代初期加入苹果公司，2003 年起负责 Apple Online Store 团队，2014 年出任 Apple Pay 副总裁，并参与该支付平台同年上线。 在彭博社披露的一份内部备忘录中，苹果服务业务负责人埃迪 · 库（Eddy Cue）宣布这项人事变动。Cue 在备忘录中称，贝利决定于 10 ",
-     "source": "IT之家",
-     "zh": "效力超 25 年，消息称苹果 Apple Pay 负责人贝利 10 月退休"
-    },
-    {
      "title": "WorldClaw Agentic 3D open-world generation at scale",
      "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
      "pubDate": "Tue, 11 Aug 2026 21:56:18 +0000",
-     "summary": "Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/ Comments URL: https://news.ycombinator.com/item?id=49265051 Points: 11 # Comments: 2",
+     "summary": "Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/ Comments URL: https://news.ycombinator.com/item?id=49265051 Points: 55 # Comments: 19",
      "source": "Hacker News",
      "zh": "WorldClaw Agentic 3D 大规模开放世界生成"
     },
@@ -1791,6 +1879,14 @@
      "summary": "Yueqi Yang / The Information : Source: Kalshi's annualized revenue topped $4B in July, up from $2B+ two months earlier, and its operating expenses totaled $300M in June &nbsp; &mdash;&nbsp; World Cup wagers helped double Kalshi's revenue to a more than $4 billion annualized rate in July, from a pace",
      "source": "Techmeme",
      "zh": "资料来源：Kalshi 7 月年化收入突破 4B 美元，高于两个月前的 2B+，6 月运营费用总计 3 亿美元（Yueqi Yang/The Information）"
+    },
+    {
+     "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+     "link": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+     "pubDate": "Tue, 11 Aug 2026 21:54:25 +0000",
+     "summary": "Article URL: https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026 Comments URL: https://news.ycombinator.com/item?id=49265031 Points: 22 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "pg_clickhouse v0.10：子查询下推和 1000 倍更快的 TPC-H 查询"
     },
     {
      "title": "Accel raised $3.5B in funds for early-stage investments, including a $1.35B global expansion fund for larger early-stage rounds and rapid follow-on investments (Natasha Mascarenhas/Bloomberg)",
@@ -1812,7 +1908,7 @@
      "title": "Suzanne: AI tool for designing and manufacturing physical products",
      "link": "https://www.suzanne3d.com/",
      "pubDate": "Tue, 11 Aug 2026 21:28:26 +0000",
-     "summary": "Article URL: https://www.suzanne3d.com/ Comments URL: https://news.ycombinator.com/item?id=49264755 Points: 8 # Comments: 6",
+     "summary": "Article URL: https://www.suzanne3d.com/ Comments URL: https://news.ycombinator.com/item?id=49264755 Points: 21 # Comments: 12",
      "source": "Hacker News",
      "zh": "Suzanne：用于设计和制造实体产品的人工智能工具"
     },
@@ -1828,7 +1924,7 @@
      "title": "Emergent Introspective Awareness in Large Language Models",
      "link": "https://arxiv.org/abs/2601.01828",
      "pubDate": "Tue, 11 Aug 2026 21:14:10 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2601.01828 Comments URL: https://news.ycombinator.com/item?id=49264583 Points: 9 # Comments: 2",
+     "summary": "Article URL: https://arxiv.org/abs/2601.01828 Comments URL: https://news.ycombinator.com/item?id=49264583 Points: 13 # Comments: 3",
      "source": "Hacker News",
      "zh": "大型语言模型中涌现的内省意识"
     },
@@ -1849,36 +1945,12 @@
      "zh": "Chrome 采用了迄今为止最好的防止帐户被盗的保护措施"
     },
     {
-     "title": "The 19th-Century Family Fortunes Funding Degrowth",
-     "link": "https://www.effort.news/p4ne",
-     "pubDate": "Tue, 11 Aug 2026 20:56:00 +0000",
-     "summary": "Article URL: https://www.effort.news/p4ne Comments URL: https://news.ycombinator.com/item?id=49264352 Points: 12 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "19世纪家族财富的资金去增长"
-    },
-    {
      "title": "Sources: former OpenAI Chief Product Officer Kevin Weil is aiming to raise $150M for a new AI science startup, seeking a valuation of at least $750M (Business Insider)",
      "link": "https://www.techmeme.com/260811/p36#a260811p36",
      "pubDate": "Tue, 11 Aug 2026 16:55:02 -0400",
      "summary": "Business Insider : Sources: former OpenAI Chief Product Officer Kevin Weil is aiming to raise $150M for a new AI science startup, seeking a valuation of at least $750M &nbsp; &mdash;&nbsp; Kevin Weil, the former chief product officer of OpenAI, has sought a valuation of at least $750 million for a n",
      "source": "Techmeme",
      "zh": "消息来源：前 OpenAI 首席产品官 Kevin Weil 计划为一家新的 AI 科学初创公司筹集 1.5 亿美元，寻求至少 7.5 亿美元的估值（Business Insider）"
-    },
-    {
-     "title": "CoreWeave reports Q2 revenue up 112% YoY to $2.58B, vs. $2.56B est., and a $104B revenue backlog, with 1.5 GW of contracted power; CRWV jumps 9%+ after hours (Jordan Novet/CNBC)",
-     "link": "https://www.techmeme.com/260811/p35#a260811p35",
-     "pubDate": "Tue, 11 Aug 2026 16:40:00 -0400",
-     "summary": "Jordan Novet / CNBC : CoreWeave reports Q2 revenue up 112% YoY to $2.58B, vs. $2.56B est., and a $104B revenue backlog, with 1.5 GW of contracted power; CRWV jumps 9%+ after hours &nbsp; &mdash;&nbsp; CoreWeave shares jumped 13% in extended trading on Tuesday after the AI infrastructure provider rep",
-     "source": "Techmeme",
-     "zh": "CoreWeave 报告称，第二季度收入同比增长 112% 至 $2.58B，而预期为 $2.56B，积压收入为 $104B，合同电量为 1.5 GW； CRWV 盘后上涨 9% 以上（Jordan Novet/CNBC）"
-    },
-    {
-     "title": "Lumentum 2026 财年年报归母亏损 69.35 亿美元，同比由盈转亏",
-     "link": "https://www.ithome.com/0/988/545.htm",
-     "pubDate": "Tue, 11 Aug 2026 20:33:38 GMT",
-     "summary": "IT之家 8 月 12 日消息，Lumentum今日发布 2026 财年（2025 年 7 月 1 日～2026 年 6 月 27 日）年报及第四财季（2026 年 3 月 29 日～2026 年 6 月 27 日）报告： 2026 财年年报 营业总收入 ：30.14 亿美元 （IT之家注：现汇率约合 203.61 亿元人民币） ，同比增长 83.2% 毛利润 ：12.56 亿美元 （现汇率约合 84.84 亿元人民币） ，同比增长 173.08% 毛利率 ：41.7% 归母净利润 ：-69.35 亿美元 （现汇率约合 -468.49 亿元人民币） ，同比由盈转亏 基本每股收益 ：-92.96",
-     "source": "IT之家",
-     "zh": "Lumentum 2026 财年年报归母亏损 69.35 亿美元，同比由盈转亏"
     },
     {
      "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
@@ -1897,26 +1969,10 @@
      "zh": "吃生菜安全吗？"
     },
     {
-     "title": "The brain may be about to have its Ozempic moment",
-     "link": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-     "pubDate": "Tue, 11 Aug 2026 20:01:27 +0000",
-     "summary": "Article URL: https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment Comments URL: https://news.ycombinator.com/item?id=49263658 Points: 84 # Comments: 128",
-     "source": "Hacker News",
-     "zh": "大脑可能即将迎来臭氧时刻"
-    },
-    {
-     "title": "伯克希尔哈撒韦 2026 财年半年报归母净利润 357.73 亿美元，同比增长 110.76%",
-     "link": "https://www.ithome.com/0/988/543.htm",
-     "pubDate": "Tue, 11 Aug 2026 19:55:59 GMT",
-     "summary": "IT之家 8 月 12 日消息，伯克希尔哈撒韦今日发布 2026 财年（2026年 1月 3日～2027年 1月 2日）半年报（2026年 1月 3日～2026年 7月 4日）及第二财季（2026年 4月 5日～2026年 7月 4日）报告： 2026 财年半年报 归母净利润 ：357.73 亿美元 （IT之家注：现汇率约合 2416.60 亿元人民币） ，同比增长 110.76% 基本每股收益 ：2.49 万美元 （现汇率约合 16.81 万元人民币） ，同比增长 110.91% 稀释每股收益 ：16.59 美元 （现汇率约合 112.07 元人民币） ，同比增长 110.8% 2026 财",
-     "source": "IT之家",
-     "zh": "伯克希尔哈撒韦 2026 财年半年报归母净利润 357.73 亿美元，同比增长 110.76%"
-    },
-    {
      "title": "Compression is prediction",
      "link": "https://ngrok.com/blog/compression-is-prediction",
      "pubDate": "Tue, 11 Aug 2026 19:49:44 +0000",
-     "summary": "Article URL: https://ngrok.com/blog/compression-is-prediction Comments URL: https://news.ycombinator.com/item?id=49263497 Points: 158 # Comments: 66",
+     "summary": "Article URL: https://ngrok.com/blog/compression-is-prediction Comments URL: https://news.ycombinator.com/item?id=49263497 Points: 191 # Comments: 82",
      "source": "Hacker News",
      "zh": "压缩就是预测"
     },
@@ -1937,68 +1993,12 @@
      "zh": "FBI 表示网络犯罪分子正在侵入受害者的在线帐户以窃取他们的私密照片"
     },
     {
-     "title": "How and When to View the Perseid Meteor Shower (August 2026)",
-     "link": "https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/",
-     "pubDate": "Tue, 11 Aug 2026 19:15:40 +0000",
-     "summary": "The Perseids will peak between August 12 and 13. Here’s what time—and where—you can get the best view, and why 2026 will be an exceptional year.",
-     "source": "WIRED",
-     "zh": "如何以及何时观看英仙座流星雨（2026 年 8 月）"
-    },
-    {
-     "title": "From coder to orchestrator: How agents shift the role of a developer",
-     "link": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
-     "pubDate": "Tue, 11 Aug 2026 18:38:17 +0000",
-     "summary": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog .",
-     "source": "GitHub Blog",
-     "zh": "从编码员到协调员：代理如何转变开发人员的角色"
-    },
-    {
-     "title": "Used EV buying guide: The $30,000 edition",
-     "link": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
-     "pubDate": "Tue, 11 Aug 2026 18:31:53 +0000",
-     "summary": "Depending on the model, you might have hundreds to choose from—or just one.",
-     "source": "Ars Technica",
-     "zh": "二手电动汽车购买指南：30,000 美元版"
-    },
-    {
-     "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
-     "link": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
-     "pubDate": "Tue, 11 Aug 2026 18:00:14 +0000",
-     "summary": "FDA report reveals where Taylor Farms sent its lettuce—and it raises questions.",
-     "source": "Ars Technica",
-     "zh": "泰勒农场 (Taco Bells) 召回的生菜中，只有不到 2.5% 被运往 Taco Bells"
-    },
-    {
-     "title": "当华尔街成为英伟达的销售渠道",
-     "link": "https://www.huxiu.com/article/4882407.html?f=rss",
-     "pubDate": "Wed, 12 Aug 2026 00:11:19 +0800",
-     "summary": "本文来自微信公众号： AI资本观 ，作者：沈砺 导读 8月10日，英伟达拉来六家全球金融机构，计划长期调动超过5000亿美元第三方资本，为客户建设AI算力基础设施。这意味着，芯片公司开始替客户解决“买得起”的问题。 本文要追问的是，当华尔街进入GPU销售链条，一张订单还能证明多少真实需求，融资能力又会怎样改写下一轮芯片竞争。 英伟达刚刚宣布了一个5000亿美元计划。 8月10日，它宣布分别与Apollo（阿波罗全球管理）、BlackRock（贝莱德）、Blackstone（黑石集团）、Brookfield（布鲁克菲尔德资产管理）、Goldman Sachs（高盛）和KKR（全球另类资产管理机构",
-     "source": "虎嗅",
-     "zh": "当华尔街成为英伟达的销售渠道"
-    },
-    {
-     "title": "SEA：爆拉背后，电商终于要起跳了？",
-     "link": "https://www.huxiu.com/article/4882405.html?f=rss",
-     "pubDate": "Wed, 12 Aug 2026 00:03:51 +0800",
-     "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君 东南亚小腾讯Sea，8月11日晚发榜了26年第2季财报，整体表现当季表现不错，三大板块的增长全面强劲，强于预期。利润上，最重要的电商板块利润率也继续走高。但美中不足是，公司依然处于高投入期，整体利润增速仅10%出头，还是有些增收不增利，具体来看： 1、整体表现——营收强于利润：本季Sea总营收近78亿，同比高增48%，比上季继续提速，且显著高于彭博预期的35%，且是三大板块全面好于预期，没有短板。 但是利润上，整体adj.EBITDA近9.2亿，反稍稍低于彭博预期，同比增速也不到11%。相比和强劲营收增长，落差显著。 2、电商利润确认触底：本次最",
-     "source": "虎嗅",
-     "zh": "SEA：爆拉背后，电商终于要起跳了？"
-    },
-    {
-     "title": "亚洲首个！我国柔直海上风电项目发电量破百亿千瓦时",
-     "link": "https://www.ithome.com/0/988/542.htm",
-     "pubDate": "Tue, 11 Aug 2026 15:44:50 GMT",
-     "summary": "IT之家 8 月 11 日消息，据央视新闻今日报道，亚洲首个采用柔性直流输电技术送出的海上风电项目 —— 三峡新能源江苏如东 800 兆瓦海上风电项目累计发电量突破 100 亿千瓦时 ，为我国大容量、远距离海上风电柔性直流输电技术的规模化应用提供了实践验证。 据介绍，项目位于江苏如东黄沙洋海域，总装机容量 800 兆瓦，配套建设亚洲首座海上柔性直流换流站，于 2021 年全容量并网投产。 IT之家注：柔性直流输电可形象比喻为海上风电外送的“智能输电主动脉”，既能承载大功率电能进行远距离传输，又可主动平抑风电间歇性出力波动，保障电能稳定接入电网。 截至目前，项目已安全稳定运行超 1600 天，设",
-     "source": "IT之家",
-     "zh": "亚洲首个！我国柔直海上风电项目发电量破百亿千瓦时"
-    },
-    {
-     "title": "849 元科睿 27 英寸 2K 240Hz 显示器 X7Q 发售，峰值亮度 400nits",
-     "link": "https://www.ithome.com/0/988/541.htm",
-     "pubDate": "Tue, 11 Aug 2026 15:42:32 GMT",
-     "summary": "IT之家 8 月 11 日消息，KOORUI 科睿 X7Q 电竞显示器已在京东开售，首发价 849 元。 京东 KOORUI 科睿 27 英寸 2K 240Hz 显示器 FastIPS 电竞高刷 1ms HDR400 硬件低蓝光 10Bit 笔记本外接电脑游戏屏幕 X7Q 849 元 直达链接 这款显示器定位电竞高刷产品，采用 Fast IPS 面板，拥有 2560*1440 分辨率、240Hz 刷新率，支持 GTG 1ms 瞬时响应，内置自研 DIC² 动态模糊消除技术，采用同步插黑帧算法，可有效消除运动模糊和拖影，提升高速移动画面清晰度。 此外，这款显示器经过专业色彩调校，覆盖 92% D",
-     "source": "IT之家",
-     "zh": "849 元科睿 27 英寸 2K 240Hz 显示器 X7Q 发售，峰值亮度 400nits"
+     "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+     "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+     "pubDate": "Tue, 11 Aug 2026 19:35:52 +0000",
+     "summary": "Article URL: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/ Comments URL: https://news.ycombinator.com/item?id=49263340 Points: 153 # Comments: 79",
+     "source": "Hacker News",
+     "zh": "Nvidia Nemotron 3.5 Lightning 和 NeMo Switchyard"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung reportedly begins One UI 9.5 development for the Galaxy S26 series while users await stable One UI 9's release",
+     "link": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_5_development_reportedly_begins-news-74109.php",
+     "pubDate": "Wed, 12 Aug 2026 00:51:02 +0200",
+     "summary": "Samsung released the first One UI 9 beta for the Galaxy S26 series in May, and the company recently confirmed that the fifth One UI 9 beta for the lineup will be rolled out this week. While Galaxy S26 series users await the rollout of One UI 9 Beta 5, and of course the stable update, Samsung has rep",
+     "source": "GSMArena",
+     "zh": "据报道，三星开始为 Galaxy S26 系列开发 One UI 9.5，用户等待稳定版 One UI 9 的发布"
+    },
     {
      "title": "Toem 2 turns photography into a whimsical adventure game",
      "link": "https://www.dpreview.com/news/toem-2-turns-photography-into-a-whimsical-adventure-game/",
@@ -2239,14 +2247,6 @@
      "summary": "Alongside Best Buy’s updated 2026 Back to School sale , today’s 9to5Toys Lunch Break is headlined by Nothing Phone (3) up to $200 off at Amazon alongside these Nothing ANC wireless buds with the Smart Dial for just $39 , and a chance to score some Pixel Buds as low as $70 too. We also have Samsung’s",
      "source": "9to5Google",
      "zh": "优惠：Nothing Phone 优惠 200 美元，Pixel Buds 优惠仅 70 美元，Galaxy Book 6 优惠高达 650 美元，Pixelsnap Charger 优惠 50%，更多"
-    },
-    {
-     "title": "Google Pixel 11 Pro XL appears on Geekbench as hands-on images of the Pro leak",
-     "link": "https://www.gsmarena.com/google_pixel_11_pro_xl_appears_on_geekbench_as_handson_images_of_the_pro_leak-news-74108.php",
-     "pubDate": "Tue, 11 Aug 2026 17:09:03 +0200",
-     "summary": "Google will unveil the Pixel 11 series at its Made by Google event tomorrow. Just ahead of the launch, the Pixel 11 Pro XL has appeared on Geekbench, while the Pixel 11 Pro has surfaced in leaked hands-on images. The Geekbench listing has revealed details on Google's Tensor G6 chipset. It has a 7-co",
-     "source": "GSMArena",
-     "zh": "谷歌 Pixel 11 Pro XL 出现在 Geekbench 上，作为 Pro 泄露的上手图片"
     }
    ]
   },
@@ -2257,36 +2257,228 @@
    "total": 13,
    "items": [
     {
+     "title": "Amex Ventures invests in autonomous finance startup Fazeshift",
+     "link": "https://www.finextra.com/newsarticle/48230/amex-ventures-invests-in-autonomous-finance-startup-fazeshift?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 12 Aug 2026 00:01:00 GMT",
+     "summary": "American Express's corporate venture arm has invested in Fazeshift, an AI-native platform deploying autonomous agents to execute end-to-end accounts receivable workflows.",
+     "source": "Finextra",
+     "zh": "Amex Ventures 投资自主金融初创公司 Fazeshift"
+    },
+    {
+     "title": "Nasdaq to buy ATS LeveL Markets",
+     "link": "https://www.finextra.com/newsarticle/48231/nasdaq-to-buy-ats-level-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 12 Aug 2026 00:01:00 GMT",
+     "summary": "Exchange operator Nasdaq has reached a deal to buy Alternative Trading System (ATS) LeveL Markets. Terms were not disclosed.",
+     "source": "Finextra",
+     "zh": "纳斯达克将收购 ATS Level Markets"
+    },
+    {
+     "title": "中船特气：融资净偿还7943.91万元，融资余额24.61亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608123838331369.html",
+     "pubDate": "Wed, 12 Aug 2026 07:33:44 +0800",
+     "summary": "交易所最新数据显示， 中船特气 于2026年8月11日获融资买入6.78亿元，融资偿还7.58亿元， 当日融资净偿还7943.91万元。 目前，该股融资余额24.61亿，占流通市值比例为5.46%。 该股当日融券卖出1.35万股，融券偿还1.45万股， 融券净偿还959股。 目前，该股融券余量4.97万股，融券余额1546.75万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内",
+     "source": "东方财富股票",
+     "zh": "中船特气：融资净偿还7943.91万元，融资余额24.61亿元"
+    },
+    {
+     "title": "英科再生：融资净买入494.89万元，融资余额5226.81万元",
+     "link": "http://stock.eastmoney.com/news/1697,202608123838331225.html",
+     "pubDate": "Wed, 12 Aug 2026 07:33:44 +0800",
+     "summary": "交易所最新数据显示， 英科再生 于2026年8月11日获融资买入1104.27万元，融资偿还609.39万元， 当日融资净买入494.89万元。 目前，该股融资余额5226.81万，占流通市值比例为0.71%。 该股当日无融券交易。目前，该股融券余量1.02万股，融券余额40.24万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用",
+     "source": "东方财富股票",
+     "zh": "英科再生：融资净买入494.89万元，融资余额5226.81万元"
+    },
+    {
+     "title": "清源股份：融资净买入130.39万元，融资余额1.3亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608123838331171.html",
+     "pubDate": "Wed, 12 Aug 2026 07:33:44 +0800",
+     "summary": "交易所最新数据显示， 清源股份 于2026年8月11日获融资买入223.62万元，融资偿还93.23万元， 当日融资净买入130.39万元。 目前，该股融资余额1.30亿，占流通市值比例为4.98%。 该股当日融券卖出300股，融券偿还0股， 融券净卖出300股。 目前，该股融券余量2.05万股，融券余额19.74万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏",
+     "source": "东方财富股票",
+     "zh": "清源股份：融资净买入130.39万元，融资余额1.3亿元"
+    },
+    {
+     "title": "长白山：融资净买入58.27万元，融资余额2.31亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608123838330994.html",
+     "pubDate": "Wed, 12 Aug 2026 07:33:36 +0800",
+     "summary": "交易所最新数据显示， 长白山 于2026年8月11日获融资买入2944.68万元，融资偿还2886.41万元， 当日融资净买入58.27万元。 目前，该股融资余额2.31亿，占流通市值比例为2.08%。 该股当日融券卖出5400股，融券偿还700股， 融券净卖出4700股。 目前，该股融券余量4.29万股，融券余额174.43万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容",
+     "source": "东方财富股票",
+     "zh": "长白山：融资净买入58.27万元，融资余额2.31亿元"
+    },
+    {
+     "title": "招商南油：融资净偿还1130.61万元，融资余额9.4亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608123838331040.html",
+     "pubDate": "Wed, 12 Aug 2026 07:33:36 +0800",
+     "summary": "交易所最新数据显示， 招商南油 于2026年8月11日获融资买入8048.78万元，融资偿还9179.39万元， 当日融资净偿还1130.61万元。 目前，该股融资余额9.40亿，占流通市值比例为5.57%。 该股当日融券卖出3.92万股，融券偿还4.79万股， 融券净偿还8700股。 目前，该股融券余量37.64万股，融券余额135.88万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料",
+     "source": "东方财富股票",
+     "zh": "招商南油：融资净偿还1130.61万元，融资余额9.4亿元"
+    },
+    {
+     "title": "山煤国际：融资净偿还626.32万元，融资余额5.6亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608123838330841.html",
+     "pubDate": "Wed, 12 Aug 2026 07:33:35 +0800",
+     "summary": "交易所最新数据显示， 山煤国际 于2026年8月11日获融资买入1891.36万元，融资偿还2517.68万元， 当日融资净偿还626.32万元。 目前，该股融资余额5.60亿，占流通市值比例为2.15%。 该股当日融券卖出3200股，融券偿还18.15万股， 融券净偿还17.83万股。 目前，该股融券余量35.13万股，融券余额460.55万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资",
+     "source": "东方财富股票",
+     "zh": "山煤国际：融资净偿还626.32万元，融资余额5.6亿元"
+    },
+    {
+     "title": "Lumentum电话会：CEO称“超大功率激光器需求正远超产能”，“NPO机会完全是增量”",
+     "link": "https://wallstreetcn.com/articles/3779226",
+     "pubDate": "Wed, 12 Aug 2026 07:31:35 +0800",
+     "summary": "Lumentum季报营收破十亿美元，AI光学需求爆发推动利润率提前达标。 华尔街见闻提及 ，美东时间11日周二美股盘后，光通信芯片制造商Lumentum公布第四财季业绩，净营收同比增长逾一倍至10.1亿美元，较分析师预期高约2%；非GAAP口径下调整后每股收益同比大增267%至3.23美元，较分析师预期高近9%。 值得注意的是，非GAAP毛利率达50.4%，而原计划是在20亿美元的季度营收规模时才能达到这一门槛。强劲的业绩直接体现在了未来指引上。 业绩电话会上，CFO Wajid Ali预估，2027财年第一季度（下一季度），Lumentum的净营收将在12.25亿美元至12.75亿美元之间。",
+     "source": "华尔街见闻",
+     "zh": "Lumentum电话会：CEO称“超大功率激光器需求正远超产能”，“NPO机会完全是增量”"
+    },
+    {
+     "title": "CoreWeave’s stock soars as earnings show major AI momentum",
+     "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
+     "pubDate": "Tue, 11 Aug 2026 23:29:00 GMT",
+     "summary": "The AI cloud provider topped revenue and earnings expectations, with its CEO cheering “an important inflection point.”",
+     "source": "MarketWatch",
+     "zh": "CoreWeave 股价飙升，盈利显示人工智能势头强劲"
+    },
+    {
+     "title": "Seer reaffirms $16M-$18M 2026 revenue guidance while highlighting patents, AI-driven proteomics and buybacks",
+     "link": "https://seekingalpha.com/news/4631170-seer-reaffirms-16m-18m-2026-revenue-guidance-while-highlighting-patents-ai-driven-proteomics?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 11 Aug 2026 19:28:02 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Seer 重申 2026 年收入指引为 1600 万至 1800 万美元，同时强调专利、人工智能驱动的蛋白质组学和回购"
+    },
+    {
+     "title": "Intrusion targets profitability in 2027 as VigilAigent adds approximately $3.5M of annual recurring revenue",
+     "link": "https://seekingalpha.com/news/4631168-intrusion-targets-profitability-in-2027-as-vigilaigent-adds-approximately-3_5m-of-annual?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 11 Aug 2026 19:18:03 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Intrusion 的目标是在 2027 年实现盈利，VigilAigent 的年度经常性收入增加约 350 万美元"
+    },
+    {
+     "title": "B&G Foods reaffirms fiscal 2026 outlook with $1.735B-$1.775B net sales and $0.575-$0.675 adjusted EPS amid CEO transition",
+     "link": "https://seekingalpha.com/news/4631167-b-and-g-foods-reaffirms-fiscal-2026-outlook-with-1_735b-1_775b-net-sales-and-0_575-0_675?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 11 Aug 2026 19:17:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "B&G Foods 重申 2026 财年展望，在首席执行官换届期间净销售额为 $1.735B-$1.775B，调整后每股收益为 $0.575-$0.675"
+    },
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年8月12日",
+     "link": "https://wallstreetcn.com/articles/3779224",
+     "pubDate": "Wed, 12 Aug 2026 07:13:34 +0800",
+     "summary": "华见早安之声 市场概述 霍尔木兹海峡局势反复，投资者在美国关键通胀数据公布前保持谨慎观望。 与此同时， AI产业链融资泡沫担忧打压科技巨头股价，美股震荡收跌 。标普500跌0.3%，纳指跌0.6%。小盘股指则逆市收涨0.32%。 大型科技股多数下跌，万得美国科技七巨头指数跌1.13%。 谷歌跌近4% ，录得近六个月来最大单日跌幅，领跌道指。芯片股多数上涨，费城半导体指数涨0.87%。 另类资产管理机构和BDC板块全线上涨。 KKR大涨6.92%，阿波罗涨6.23%，黑石涨3.89%。 纳斯达克中国金龙指数跌2.94% ，腾讯音乐跌近12%，哔哩哔哩跌超5%。 受疲软的美国房地产数据影响， 10",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年8月12日"
+    },
+    {
+     "title": "伊朗天然气日产能9月有望回升近1亿立方米",
+     "link": "http://www.eeo.com.cn/2026/0812/994825.shtml",
+     "pubDate": "Wed, 12 Aug 2026 07:13:15 +0800",
+     "summary": "新华财经北京8月12日电 伊朗石油部长穆赫辛·帕克内贾德11日说，伊朗正在修复因战事受损的天然气生产设施，按计划9月底前其日产能可回升9500万立方米。这个数量接近伊朗因战事而损失的天然气日产量的一半。 隶属于伊朗石油部的沙纳通讯社援引帕克内贾德的话报道，伊朗将在9月底前恢复因南部阿萨卢耶天然气处理设施遇袭而损失的约9500万立方米天然气日产能。据路透社报道，自美国和以色列2月底对伊朗发起军事行动以来，伊...",
+     "source": "经济观察网",
+     "zh": "伊朗天然气日产能9月有望回升近1亿立方米"
+    },
+    {
+     "title": "客户提前锁定产能 高端MLCC景气度或延续至2028年",
+     "link": "http://www.eeo.com.cn/2026/0812/994824.shtml",
+     "pubDate": "Wed, 12 Aug 2026 07:13:15 +0800",
+     "summary": "◎记者 李兴彩8月11日，A股MLCC（片式多层陶瓷电容器）概念再度强势上涨。上海证券报记者了解到，鉴于龙头公司扩产谨慎且产能释放缓慢，高端MLCC产品供不应求的态势或持续至2028年；今年下半年，高端高容MLCC价格将继续上涨，并有望推高被动元器件市场整体景气度。国巨最新表态：客户提前锁定产能近日，被动元器件龙头企业国巨表示，从产能利用率、客户新项目到长期协议需求，MLCC市场热度持续升温，客户需求确实非常强劲。为规避...",
+     "source": "经济观察网",
+     "zh": "客户提前锁定产能 高端MLCC景气度或延续至2028年"
+    },
+    {
+     "title": "中经评论：北京楼市新政将提升市场活跃度",
+     "link": "http://www.eeo.com.cn/2026/0812/994826.shtml",
+     "pubDate": "Wed, 12 Aug 2026 07:13:13 +0800",
+     "summary": "近日，北京市住房和城乡建设委员会等三部门印发《关于进一步优化调整本市房地产政策的通知》（以下简称《通知》），从优化住房限购政策、完善房屋赠与政策、加大住房公积金支持力度3个方面出台政策，有望更好满足居民多样化住房消费需求，稳定北京房地产市场。 此次购房政策调整力度较大。优化住房限购政策方面，《通知》明确非京籍家庭购买五环内商品住房的社保或个税缴纳年限由“2年”进一步调减为“1年”。调整后，非...",
+     "source": "经济观察网",
+     "zh": "中经评论：北京楼市新政将提升市场活跃度"
+    },
+    {
+     "title": "【房地产周评】北京楼市新政将提升市场活跃度",
+     "link": "http://www.eeo.com.cn/2026/0812/994830.shtml",
+     "pubDate": "Wed, 12 Aug 2026 07:13:10 +0800",
+     "summary": "近日，北京市住房和城乡建设委员会等三部门印发《关于进一步优化调整本市房地产政策的通知》（以下简称《通知》），从优化住房限购政策、完善房屋...",
+     "source": "经济观察网",
+     "zh": "【房地产周评】北京楼市新政将提升市场活跃度"
+    },
+    {
+     "title": "【环球财经】伦敦金属交易所基本金属11日涨跌互现",
+     "link": "http://www.eeo.com.cn/2026/0812/994828.shtml",
+     "pubDate": "Wed, 12 Aug 2026 07:13:10 +0800",
+     "summary": "新华财经伦敦8月11日电（记者张亚东）伦敦金属交易所基本金属价格11日收盘时涨跌互现。 3个月期铜收于每吨14153.00美元，比前一交易日的收盘价每吨上涨33.00美元，涨幅为0.23%。 3个月期铝收于每吨3362.50美元，比前一交易日的收盘价每吨上涨27.50美元，涨幅为0.82%。 3个月期镍收于每吨16820.00美元，比前一交易日的收盘价每吨下跌125.00美元，跌幅为0.74%。 3个月期铅收于每吨1903.00美元，比...",
+     "source": "经济观察网",
+     "zh": "【环球财经】伦敦金属交易所基本金属11日涨跌互现"
+    },
+    {
+     "title": "截至今年6月，我国可再生能源制氢产能规模超140万吨",
+     "link": "http://www.eeo.com.cn/2026/0812/994829.shtml",
+     "pubDate": "Wed, 12 Aug 2026 07:13:09 +0800",
+     "summary": "国家能源局昨天（8月11日）发布的《中国氢能发展报告（2026）》显示，截至今年6月，我国以电解水制氢为主要路线的建成和在建可再生能源制氢年产能规模已超140万吨，氢能产业取得积极进展。当前，我国氢能基础设施稳步建设。截至6月，全国累计建成加氢站约620座，建成投运纯氢管道长度超350公里。（央视新闻）",
+     "source": "经济观察网",
+     "zh": "截至今年6月，我国可再生能源制氢产能规模超140万吨"
+    },
+    {
+     "title": "Mobia Medical forecasts $54M-$56M 2026 revenue, citing 69%-75% growth target",
+     "link": "https://seekingalpha.com/news/4631165-mobia-medical-forecasts-54m-56m-2026-revenue-citing-69-percentminus-75-percent-growth-target?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 11 Aug 2026 19:10:12 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mobia Medical 预测 2026 年收入为 5400 万美元至 5600 万美元，增长目标为 69%-75%"
+    },
+    {
+     "title": "AI基建需求热持续，超微电脑上季销售接近翻倍，本季和新财年指引大超预期｜财报见闻",
+     "link": "https://wallstreetcn.com/articles/3779228",
+     "pubDate": "Wed, 12 Aug 2026 07:02:55 +0800",
+     "summary": "超微电脑（Super Micro Computer）的最新财报显示，这家服务器制造商从数据中心竞相部署生成式AI基础设施的浪潮中获益匪浅。虽然上财季该司收入略低于华尔街预期，但盈利能力显著改善，且新财季指引远超市场预期，体现AI优化服务器的强劲需求将推动公司实现又一年业绩高增。 美东时间11日周二，超微电脑公布，截至2026年6月30日的公司第四财季，净销售额为111.2亿美元，较分析师预期低约1.2%，但同比接近翻倍；非GAAP口径下调整后每股收益（EPS）同比增长315%至1.70美元，较市场预期高将近7%。 更关键的是，超微电脑毛利率明显修复，第四财季毛利率同比一年前的9.5%几乎翻倍，",
+     "source": "华尔街见闻",
+     "zh": "AI基建需求热持续，超微电脑上季销售接近翻倍，本季和新财年指引大超预期｜财报见闻"
+    },
+    {
+     "title": "Polls begin to close in primary elections across the country",
+     "link": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+     "pubDate": "Tue, 11 Aug 2026 23:00:01 GMT",
+     "summary": "Progressive Democrats hope to keep their winning streak rolling in Minnesota and Wisconsin.",
+     "source": "CNBC",
+     "zh": "全国初选投票开始结束"
+    },
+    {
+     "title": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
+     "link": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+     "pubDate": "Tue, 11 Aug 2026 22:51:06 GMT",
+     "summary": "CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.",
+     "source": "CNBC",
+     "zh": "AI 基础设施需求加速，收入翻倍，CoreWeave 股价上涨 14%"
+    },
+    {
+     "title": "PennantPark outlines plan to grow JV by another couple hundred million over the next 12 to 18 months",
+     "link": "https://seekingalpha.com/news/4631164-pennantpark-outlines-plan-to-grow-jv-by-another-couple-hundred-million-over-the-next-12-to-18?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 11 Aug 2026 18:48:38 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "PennantPark 概述了在未来 12 至 18 个月内将合资企业再增加数亿美元的计划"
+    },
+    {
+     "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
+     "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
+     "pubDate": "Tue, 11 Aug 2026 22:42:10 GMT",
+     "summary": "The deal follows years of global automotive supply chain issues for GM and other companies.",
+     "source": "CNBC",
+     "zh": "通用汽车达成高达 45 亿美元的零部件交易，旨在避免供应链问题"
+    },
+    {
+     "title": "CoreWeave电话会：新签合同利润率高出5%至10%，全年业绩指引上调",
+     "link": "https://wallstreetcn.com/articles/3779223",
+     "pubDate": "Wed, 12 Aug 2026 06:39:51 +0800",
+     "summary": "在AI算力需求持续升温之际，CoreWeave不仅交出营收翻倍的季度成绩单，还在电话会上释放了更重要的信号—— 算力供给仍然紧张，价格、利润率和老一代GPU的商业价值都在上升。 美国当地时间周二，CoreWeave公布 2026年第二季度财报 并召开业绩电话会。公司第二季度营收达到26亿美元，同比增长112%超预期；营收积压升至1040亿美元，同比增长46%，且在第三季度初又新增超过250亿美元的净新增客户承诺。 财报公布后，CoreWeave美股盘后股价一度上涨16%。公司营收创下季度新高，AI算力需求继续推动业绩增长，但市场同时关注其巨额资本开支、亏损以及基础设施建设和供应链挑战。 相比财",
+     "source": "华尔街见闻",
+     "zh": "CoreWeave电话会：新签合同利润率高出5%至10%，全年业绩指引上调"
+    },
+    {
      "title": "英特尔200亿美元增发获美国商务部支持，但美政府不参与认购",
      "link": "https://wallstreetcn.com/articles/3779218",
      "pubDate": "Wed, 12 Aug 2026 06:34:44 +0800",
      "summary": "英特尔宣布200亿美元股票增发 ，背后有美国政府的默许与支持，既为公司AI扩张提供弹药，也验证了Tan主导的战略转型正获市场认可。 据semafor援引知情人士透露， 英特尔首席执行官Lip-Bu Tan在上周宣布这一计划前，专程致电公司最大股东——美国商务部长Howard Lutnick寻求背书。Lutnick对此表示认可，但政府最终决定不参与认购。 此次增发规模已从最初的150亿美元扩大至200亿美元，成为史上第二大股票再融资，仅次于谷歌近期的增发规模。 商务部一年前入股以来的账面回报已达375%。此次增发将摊薄美国政府持有的9.9%股权，但同时也是一个信号——英特尔有能力依靠私人资本维持",
      "source": "华尔街见闻",
      "zh": "英特尔200亿美元增发获美国商务部支持，但美政府不参与认购"
-    },
-    {
-     "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
-     "link": "http://finance.eastmoney.com/news/1351,202608123838313087.html",
-     "pubDate": "Wed, 12 Aug 2026 06:31:24 +0800",
-     "summary": "伊朗石油部长穆赫辛·帕克内贾德11日表示，伊朗正在修复因战事受损的 天然气 生产设施，按计划9月底前其日产能可回升9500万立方米。帕克内贾德称，伊朗4座遇袭受损的 天然气 处理设施重建工程正在迅速推进，重建承包商已经开工，预计将比计划日程提前完工，完全恢复战前产能。此前有消息称，自美以对伊朗发起军事行动以来，伊朗 天然气 日产量减少约2.3亿立方米。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "伊朗石油部长：伊天然气日产能有望大幅回升"
-    },
-    {
-     "title": "美国得州数据中心暂停后，电力需求预测被下调",
-     "link": "http://finance.eastmoney.com/news/1351,202608123838312966.html",
-     "pubDate": "Wed, 12 Aug 2026 06:31:24 +0800",
-     "summary": "在美国得克萨斯州对新 数据中心 项目下达暂停令后，该州的 电力 需求增速预计将大幅放缓。根据周二发布的政府数据，得州 电力 需求明年将增长5.6%。这一增速低于7月报告预测的14%年负荷增速，而后者本将是十年来最大的增幅。此次修正源于得州8月3日决定对所有申请接入州电网的 数据中心 项目展开审计，此举实际上暂停了这一蓬勃发展的行业。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国得州数据中心暂停后，电力需求预测被下调"
-    },
-    {
-     "title": "崔东树：前7个月 5米以上新能源新车达到49款；比亚迪闪充技术获权威认证 | 汽车早参",
-     "link": "http://finance.eastmoney.com/news/1354,202608123838313115.html",
-     "pubDate": "Wed, 12 Aug 2026 06:30:43 +0800",
-     "summary": "| 2026年8月12日星期三 | NO.1 中汽协：上半年对“ 一带一路 ”沿线国家出口 新能源 汽车 同比增长59.4% 8月11日，据中国 汽车 工业协会整理的海关总署数据显示，2026年1至6月，中国出口到“ 一带一路 ”沿线国家的 汽车 商品累计金额达到836.7亿美元，同比增长30.8%，占汽车商品出口总额的57.5%。其中，整车出口338.1万辆，同比增长48.1%； 新能源 汽车出口113.5万辆，同比增长59.4%。 点评： 上半年我国对“ 一带一路 ”沿线国家的汽车出口保持高速增长，依托区域经贸红利，海外多元化布局有效分散单一市场风险，持续拓宽中国车企出海空间。 NO.2 ",
-     "source": "东方财富股票",
-     "zh": "崔东树：前7个月 5米以上新能源新车达到49款；比亚迪闪充技术获权威认证 | 汽车早参"
     },
     {
      "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
@@ -2297,204 +2489,12 @@
      "zh": "“我意外地赚到了一些钱”：将 20,000 美元投入 CD 是明智之举吗？"
     },
     {
-     "title": "【环球财经】伦敦股市11日下跌",
-     "link": "http://hk.eastmoney.com/news/11792,202608123838312857.html",
-     "pubDate": "Wed, 12 Aug 2026 06:29:53 +0800",
-     "summary": "新华财经伦敦8月11日电（记者张亚东）英国伦敦股市《金融时报》100种股票平均价格指数11日报收于10844.19点，较前一交易日下跌18.31点，跌幅为0.17%。欧洲三大股指当天涨跌不一。 当天伦敦股市成分股中位于涨幅前五位的个股分别为：金融投资企业 圣詹姆斯广场 股价上涨3.20%， 餐饮 服务公司金巴斯集团股价上涨2.83%，奋进矿业公司股价上涨2.68%，体育博彩公司恩坦股价上涨2.36%，金融衍生品交易服务IG集团股价上涨2.21%。 当天伦敦股市成分股中位于跌幅前五位的个股分别为：斯派莎克工程公司股价下跌5.56%，M&G公司股价下跌3.31%，标准人寿保险股价下跌3.27%，英",
-     "source": "东方财富股票",
-     "zh": "【环球财经】伦敦股市11日下跌"
-    },
-    {
      "title": "TTEC revises 2026 Engage outlook to (-8%) revenue decline and 10.1% adjusted EBITDA margin midpoint while initiating strategic alternatives review for Digital",
      "link": "https://seekingalpha.com/news/4631163-ttec-revises-2026-engage-outlook-to-minus-8-percent-revenue-decline-and-10_1-percent-adjusted?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 11 Aug 2026 18:27:58 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "TTEC 将 2026 年 Engage 前景修正为收入下降 (-8%) 和调整后 EBITDA 利润率中点 10.1%，同时启动数字化战略替代方案审查"
-    },
-    {
-     "title": "周三你需要知道的隔夜全球要闻",
-     "link": "http://finance.eastmoney.com/news/1351,202608123838312785.html",
-     "pubDate": "Wed, 12 Aug 2026 06:22:51 +0800",
-     "summary": "明星股盘后财报 1、AI云服务巨头CoreWeave盘后大涨超16%。CoreWeave第二财季营收增长逾一倍至25.8亿美元，市场预期25.6亿美元；第二财季净亏损6.26亿美元，市场预期亏损7.571亿美元；公司截至2026年6月30日时的合同在手订单总额约为1040亿美元。 2、光 通信 龙头Lumentum第四季度调整后每股收益为3.23美元，预估为2.97美元；第四季度净收入为10.1亿美元，去年同期4.807亿美元，预期为9.9亿美元。Lumentum预计第一季度净收入为12.3亿-12.8亿美元，市场预估为11.5亿美元；预计第一季度调整后每股收益为4.05美元-4.35美元，市",
-     "source": "东方财富股票",
-     "zh": "周三你需要知道的隔夜全球要闻"
-    },
-    {
-     "title": "Lumentum sees sales more than double as AI demand swells",
-     "link": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories",
-     "pubDate": "Tue, 11 Aug 2026 22:22:00 GMT",
-     "summary": "Though Lumentum posted blowout earnings and an upbeat forecast, its stock was largely flat after hours.",
-     "source": "MarketWatch",
-     "zh": "随着人工智能需求的增长，Lumentum 的销售额增长了一倍多"
-    },
-    {
-     "title": "Fermi rises on deal to add 2.6 GW power capacity at Texas AI campus",
-     "link": "https://seekingalpha.com/news/4631162-fermi-rises-on-deal-to-add-2_6-gw-power-capacity-at-texas-ai-campus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 11 Aug 2026 18:21:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Fermi 因德克萨斯 AI 园区新增 2.6 GW 发电容量的交易而上涨"
-    },
-    {
-     "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.712吨",
-     "link": "http://finance.eastmoney.com/news/1351,202608123838312681.html",
-     "pubDate": "Wed, 12 Aug 2026 06:21:00 +0800",
-     "summary": "全球最大 黄金 ETF--SPDR Gold Trust持仓较上日增加1.712吨，当前持仓量为1022.672吨。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.712吨"
-    },
-    {
-     "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-     "link": "https://wallstreetcn.com/articles/3779161",
-     "pubDate": "Wed, 12 Aug 2026 06:20:53 +0800",
-     "summary": "美股周二承压回落，大型科技股领跌，与此同时油价因霍尔木兹海峡局势反复而走高，市场在关键通胀数据公布前夕普遍保持观望。 美债则罕见地逆油价上涨方向走强，受疲弱的成屋销售数据推动，10年期美债收益率下行2个基点至4.69%。 霍尔木兹海峡局势持续成为盘面主线。伊朗最高国家安全委员会新任秘书当日重申，在美方改变立场并接受伊方条件之前，海峡将继续关闭。 巴基斯坦国防部长早间称美伊\"接近某种安排\"一度令油价回落，但伊方强硬表态随即令涨势重燃， 美国WTI原油 最终收涨约1.5%至每桶83.40美元， 布伦特原油 涨约1.3%至88.90美元。 标普500指数 下跌0.3%， 纳斯达克100指数 同步下跌",
-     "source": "华尔街见闻",
-     "zh": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落"
-    },
-    {
-     "title": "CoreWeave stock pops 13% as revenue doubles on accelerating AI infrastructure demand",
-     "link": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
-     "pubDate": "Tue, 11 Aug 2026 22:20:14 GMT",
-     "summary": "CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.",
-     "source": "CNBC",
-     "zh": "AI 基础设施需求加速，收入翻倍，CoreWeave 股价上涨 13%"
-    },
-    {
-     "title": "Arq outlines $120M-$125M 2026 revenue and targets up to 50% adjusted EBITDA increase as PAC for PFAS advances",
-     "link": "https://seekingalpha.com/news/4631161-arq-outlines-120m-125m-2026-revenue-and-targets-up-to-50-percent-adjusted-ebitda-increase-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 11 Aug 2026 18:07:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Arq 概述了 2026 年收入 1.2 亿至 1.25 亿美元，并计划随着 PFAS PAC 的推进，调整后的 EBITDA 增长高达 50%"
-    },
-    {
-     "title": "U.S. crude stockpiles rose 9.1M barrels last week, API says",
-     "link": "https://seekingalpha.com/news/4631156-u-s-crude-stockpiles-rose-9_1m-barrels-last-week-api-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 11 Aug 2026 18:05:22 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "API称美国原油库存上周增加910万桶"
-    },
-    {
-     "title": "8月12日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/1344,202608113838259124.html",
-     "pubDate": "Wed, 12 Aug 2026 06:03:13 +0800",
-     "summary": "8月12日(星期三)，今日报刊头条主要内容精华如下： 中国证券报 下半年A股投资图谱浮现： 科技为矛 改善为盾 两大核心主线成机构共识 进入下半年，A股市场在震荡磨底中加快寻找新的运行主线。随着前期拥挤交易逐步松动，机构对仓位节奏、行业配置和风险控制的关注度进一步升温。日前，中国证券报记者多方调研获悉，多家一线机构已形成明确共识：机构资金可依托基本面研究适度左侧布局，普通投资者在右侧信号出现时可进一步提高风险偏好；在配置方向上，应由单一赛道抱团转向科技成长、基本面改善与高股息资产的均衡组合。AI产业趋势延续、政策支持持续加码以及资本市场双向开放提速，将为下半年结构性行情提供支撑，但海外货币政策",
-     "source": "东方财富资讯",
-     "zh": "8月12日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "Here are the major earnings before the open Wednesday",
-     "link": "https://seekingalpha.com/news/4630680-here-are-the-major-earnings-before-the-open-wednesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 11 Aug 2026 18:00:22 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "以下是周三开盘前的主要财报"
-    },
-    {
-     "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-     "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-     "pubDate": "Tue, 11 Aug 2026 22:00:00 GMT",
-     "summary": "“Some readers — and couples — would be grateful to retire on half that amount.”",
-     "source": "MarketWatch",
-     "zh": "100万美元足够一个家庭退休吗？答案不断变化。"
-    },
-    {
-     "title": "Eloxx Pharmaceuticals GAAP EPS of -$0.66",
-     "link": "https://seekingalpha.com/news/4631160-eloxx-pharmaceuticals-gaap-eps-of-0_66?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 11 Aug 2026 17:57:25 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Eloxx Pharmaceuticals GAAP 每股收益 - 0.66 美元"
-    },
-    {
-     "title": "Super Micro’s earnings report brings more good news, and the stock is climbing",
-     "link": "https://www.marketwatch.com/story/super-micros-earnings-report-brings-more-good-news-and-the-stock-is-climbing-30e5ca89?mod=mw_rss_topstories",
-     "pubDate": "Tue, 11 Aug 2026 21:49:00 GMT",
-     "summary": "The company impressed Wall Street several weeks ago by teasing an improved profitability trajectory. Super Micro’s latest forecast has exceeded expectations as well.",
-     "source": "MarketWatch",
-     "zh": "超微财报带来更多好消息，股价节节攀升"
-    },
-    {
-     "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-     "link": "https://wallstreetcn.com/articles/3779219",
-     "pubDate": "Wed, 12 Aug 2026 05:25:06 +0800",
-     "summary": "光通信概念股Lumentum公布的上一财季业绩和本季指引整体增长比华尔街预期的还迅猛，体现了AI光通信需求的强劲推动势头。 美东时间11日周二美股盘后，Lumentum公布，截至2026年6月27日的公司第四财季，净营收同比增长逾一倍至10.1亿美元，较分析师预期高约2%；非GAAP口径下调整后每股收益（EPS）同比大增267%至3.23美元，较分析师预期高近9%。 利润率表现同样亮眼。第四财季非GAAP口径毛利率达到50.4%，同比提升1260个基点；非GAAP经营利润率36.6%，同比提升2160个基点；调整后EBITDA为4.064亿美元，对应EBITDA利润率约40%。非GAAP净利润",
-     "source": "华尔街见闻",
-     "zh": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻"
-    },
-    {
-     "title": "CoreWeave’s stock soars as earnings show major AI momentum",
-     "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
-     "pubDate": "Tue, 11 Aug 2026 21:17:00 GMT",
-     "summary": "The AI cloud provider topped revenue and earnings expectations, with its CEO cheering “an important inflection point.”",
-     "source": "MarketWatch",
-     "zh": "CoreWeave 股价飙升，盈利显示人工智能势头强劲"
-    },
-    {
-     "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
-     "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
-     "pubDate": "Tue, 11 Aug 2026 21:15:01 GMT",
-     "summary": "The deal follows years of global automotive supply chain issues for GM and other companies.",
-     "source": "CNBC",
-     "zh": "通用汽车达成高达 45 亿美元的零部件交易，旨在避免供应链问题"
-    },
-    {
-     "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
-     "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
-     "pubDate": "Tue, 11 Aug 2026 21:15:00 GMT",
-     "summary": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
-     "source": "MarketWatch",
-     "zh": "我在 Airbnb 的公用洗衣机里发现了一张 100 美元的钞票。我应该怎么办？"
-    },
-    {
-     "title": "Panama Canal fees hit record high as El Niño and Iran war choke shipping",
-     "link": "https://www.ft.com/content/38083cb5-3892-40a1-b90f-102109f96b17?syn-25a6b1a6=1",
-     "pubDate": "Tue, 11 Aug 2026 21:07:28 GMT",
-     "summary": "Falling water levels caused by weather phenomenon could limit transit slots through crucial maritime passageway",
-     "source": "Financial Times",
-     "zh": "厄尔尼诺现象和伊朗战争阻碍了航运，巴拿马运河费用创历史新高"
-    },
-    {
-     "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
-     "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
-     "pubDate": "Tue, 11 Aug 2026 21:01:13 GMT",
-     "summary": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
-     "source": "CNBC",
-     "zh": "黄仁勋5000亿美元AI融资计划为何面临来自中国的巨大风险"
-    },
-    {
-     "title": "US fires on ship it says violated Iran blockade",
-     "link": "https://www.ft.com/content/ac651a05-9285-4020-85e2-47fcd8936320?syn-25a6b1a6=1",
-     "pubDate": "Tue, 11 Aug 2026 20:51:47 GMT",
-     "summary": "Central Command says Panama-flagged vessel ‘ignored repeated warnings’ from American forces",
-     "source": "Financial Times",
-     "zh": "美国向一艘称违反伊朗封锁的船只开火"
-    },
-    {
-     "title": "CME将于10月5日推出GPU算力期货，追踪H100与B200租赁成本",
-     "link": "https://wallstreetcn.com/articles/3779217",
-     "pubDate": "Wed, 12 Aug 2026 04:32:29 +0800",
-     "summary": "随着人工智能基础设施投资持续扩大，GPU算力正从AI产业链中的基础设施成本，逐渐成为一种可以被定价、交易和对冲的金融资产。 CME集团与GPU市场数据公司Silicon Data周二宣布，计划于 10月5日推出两份算力期货合约 ，目前仍有待监管审批。 两份合约分别为 Silicon Data H100 Rental Index Futures 和 Silicon Data B200 Rental Index Futures ，将在CME挂牌，并适用纽约商品交易所（NYMEX）的相关规则。 合约将追踪Silicon Data编制的H100和B200 GPU租赁价格指数，以 每小时GPU租赁成本 ",
-     "source": "华尔街见闻",
-     "zh": "CME将于10月5日推出GPU算力期货，追踪H100与B200租赁成本"
-    },
-    {
-     "title": "美参议员桑德斯致信OpenAI、Anthropic和Meta：暂停AI开发，否则国会将介入",
-     "link": "https://wallstreetcn.com/articles/3779220",
-     "pubDate": "Wed, 12 Aug 2026 04:31:48 +0800",
-     "summary": "美国参议员伯尼·桑德斯（Bernie Sanders）向三大人工智能巨头的首席执行官发出公开信，要求暂停AI开发，并警告若企业不采取行动，国会将强制介入。 8月10日周一，美国参议员桑德斯致信OpenAI、Anthropic和Meta的首席执行官，信中援引了这些公司的声明，称如果技术风险过高而无法安全管理，他们将停止或推迟新模型的开发。 他认为，这一风险阈值最近已经达到。 他在信中直接点名三位首席执行官，写道： Altman先生、Amodei先生、扎克伯格先生：为了全人类的利益，请遵守你们自己的承诺，暂停AI开发。现在阻止灾难还来得及。停止建造人类无法控制的机器。 上述公开信的发布，与众议院民",
-     "source": "华尔街见闻",
-     "zh": "美参议员桑德斯致信OpenAI、Anthropic和Meta：暂停AI开发，否则国会将介入"
-    },
-    {
-     "title": "Apple Pay and Wallet chief Bailey to leave",
-     "link": "https://www.finextra.com/newsarticle/48232/apple-pay-and-wallet-chief-bailey-to-leave?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 11 Aug 2026 19:55:00 GMT",
-     "summary": "Apple's head of payment and wallet services, Jennifer Bailey, is leaving after 23 years at the tech giant.",
-     "source": "Finextra",
-     "zh": "Apple Pay 和电子钱包负责人贝利离职"
     }
    ]
   },
@@ -2505,6 +2505,14 @@
    "total": 8,
    "items": [
     {
+     "title": "Genetics triggers male black widows to blackflip into death, study finds",
+     "link": "https://www.livescience.com/animals/spiders-arachnids/genetics-triggers-male-black-widows-to-blackflip-into-death-study-finds",
+     "pubDate": "Tue, 11 Aug 2026 23:01:00 +0000",
+     "summary": "A wild cannibalistic sexual behavior in spiders has a simple genetic explanation, new study finds.",
+     "source": "Live Science",
+     "zh": "研究发现遗传因素导致雄性黑寡妇死亡"
+    },
+    {
      "title": "Astronomers created the largest-ever 2D map of the universe, charting 4 billion objects in the night sky",
      "link": "https://www.livescience.com/space/astronomy/astronomers-created-the-largest-ever-2d-map-of-the-universe-charting-4-billion-objects-in-the-night-sky",
      "pubDate": "Tue, 11 Aug 2026 21:41:54 +0000",
@@ -2513,12 +2521,12 @@
      "zh": "天文学家绘制了有史以来最大的二维宇宙地图，绘制了夜空中 40 亿个物体"
     },
     {
-     "title": "A solar eclipse will be visible to millions of people tomorrow: How to watch in person and online",
+     "title": "A solar eclipse will be visible in North America tomorrow: How to watch in person and online",
      "link": "https://www.livescience.com/space/the-sun/a-solar-eclipse-will-be-visible-to-millions-of-people-tomorrow-how-to-watch-in-person-and-online",
      "pubDate": "Tue, 11 Aug 2026 19:59:09 +0000",
      "summary": "On Aug. 12, a total solar eclipse will swoop across a narrow path of totality, while millions of people in North America and Europe will be treated to a partial eclipse. Here's where and when to watch.",
      "source": "Live Science",
-     "zh": "明天数百万人将看到日食：如何亲自观看和在线观看"
+     "zh": "明天北美将可见日食：如何亲自观看和在线观看"
     },
     {
      "title": "Neanderthals passed on a gene that helps modern humans pack on more muscle — but only a few people have it",
@@ -2567,14 +2575,6 @@
      "summary": "What makes a greener wipe? Researchers have more to say about bamboo's ecological risks, given limited carbon footprint data.",
      "source": "Science News",
      "zh": "竹卫生纸引起了我的兴趣。现实却被证明是混乱的"
-    },
-    {
-     "title": "'Like a jail door slamming': Male sperm whales' mysterious rhythmic clanging is the loudest communication sound of any animal",
-     "link": "https://www.livescience.com/animals/whales/like-a-jail-door-slamming-male-sperm-whales-mysterious-rhythmic-clanging-is-the-loudest-communication-sound-of-any-animal",
-     "pubDate": "Tue, 11 Aug 2026 15:09:23 +0000",
-     "summary": "Researchers have studied a mysterious rhythmic clanging noise produced by male sperm whales.",
-     "source": "Live Science",
-     "zh": "“就像监狱门关上一样”：雄性抹香鲸神秘的有节奏的叮当声是所有动物中最响亮的交流声音"
     },
     {
      "title": "The largest known galaxy is wider than 17 Milky Ways",

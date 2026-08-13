@@ -1,7 +1,63 @@
 {
-  "generatedAt": "2026-08-13T11:46:13.051Z",
+  "generatedAt": "2026-08-13T13:10:21.074Z",
   "count": 40,
   "items": [
+    {
+      "title": "Wholesale prices flatten out in July and inflation eases",
+      "link": "https://www.marketwatch.com/story/wholesale-inflation-flattens-out-in-july-and-price-pressure-ease-c0ea1b91?mod=mw_rss_topstories",
+      "pubDate": "Thu, 13 Aug 2026 12:38:00 GMT",
+      "content": "Wholesale prices were flat in July and inflation pressures in the guts of the economy also eased, adding to recent evidence of a slowdown in the rising cost of living.",
+      "source": "US",
+      "category": "美股市场"
+    },
+    {
+      "title": "Bill Ackman once exited his Netflix stake in a huff. He’s buying the streaming giant again, as well as these five stocks.",
+      "link": "https://www.marketwatch.com/story/bill-ackman-once-exited-netflix-stake-in-a-huff-why-hes-buying-the-streaming-giant-again-as-well-as-these-five-stocks-ae0d9220?mod=mw_rss_topstories",
+      "pubDate": "Thu, 13 Aug 2026 12:36:00 GMT",
+      "content": "Netflix is once again an apple in Bill Ackman’s eye, as the streamer was among six stocks Pershing Square added in the last six months.",
+      "source": "US",
+      "category": "美股市场"
+    },
+    {
+      "title": "The AI boom is not just driving stocks — it’s also moving the foreign-exchange market",
+      "link": "https://www.marketwatch.com/story/the-ai-boom-is-not-just-driving-stocks-its-also-moving-the-foreign-exchange-market-275d2f74?mod=mw_rss_topstories",
+      "pubDate": "Thu, 13 Aug 2026 12:11:00 GMT",
+      "content": "Interest-rate differentials, inflation trends and trade balances are usually thought of as drivers of foreign-exchange movement — but increasingly, the drivers in the currency market are companies looking to expand their offerings in artificial intelligence.",
+      "source": "US",
+      "category": "美股市场"
+    },
+    {
+      "title": "Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.",
+      "link": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
+      "pubDate": "Thu, 13 Aug 2026 12:05:00 GMT",
+      "content": "Social Security’s cost-of-living adjustment could be as much as 3.6% in 2027.",
+      "source": "US",
+      "category": "全球综合"
+    },
+    {
+      "title": "If you can answer this one question, you’ll never worry about money again",
+      "link": "https://www.marketwatch.com/story/if-you-can-answer-this-one-question-youll-never-worry-about-money-again-6cf8d0a8?mod=mw_rss_topstories",
+      "pubDate": "Thu, 13 Aug 2026 12:04:00 GMT",
+      "content": "YNAB founder Jesse Mecham’s new book has a simple system to end the paycheck-to-paycheck struggle.",
+      "source": "US",
+      "category": "全球综合"
+    },
+    {
+      "title": "Nvidia, Intel, Google: Wall Street is partying like it’s 1999",
+      "link": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
+      "pubDate": "Thu, 13 Aug 2026 12:03:00 GMT",
+      "content": "The signs are all around that Wall Street is back in that dangerous atmosphere of giddy euphoria that those with long memories will remember from the infamous dot-com bubble of the late 1990s.",
+      "source": "US",
+      "category": "半导体"
+    },
+    {
+      "title": "We live on a farm and have $2.2 million saved for retirement. We’re ready to retire abroad. Can we afford it?",
+      "link": "https://www.marketwatch.com/story/we-live-on-a-farm-and-have-2-2-million-saved-for-retirement-were-ready-to-retire-abroad-can-we-afford-it-85e56105?mod=mw_rss_topstories",
+      "pubDate": "Thu, 13 Aug 2026 12:02:00 GMT",
+      "content": "”We don’t live lavishly, and sometimes we both think maybe we could upgrade a few things.”",
+      "source": "US",
+      "category": "全球综合"
+    },
     {
       "title": "Lenovo profits soar past expectations on AI computers, servers and services",
       "link": "https://www.marketwatch.com/story/lenovo-profits-soar-past-expectations-on-ai-computers-servers-and-services-162e11e6?mod=mw_rss_topstories",
@@ -9,14 +65,6 @@
       "content": "Lenovo Group on Thursday became the latest company in the build-out of artificial intelligence to report soaring profits that caught investors by surprise.",
       "source": "US",
       "category": "全球综合"
-    },
-    {
-      "title": "Bill Ackman once exited his Netflix stake in a huff. He’s buying the streaming giant again, as well as these five stocks.",
-      "link": "https://www.marketwatch.com/story/bill-ackman-once-exited-netflix-stake-in-a-huff-why-hes-buying-the-streaming-giant-again-as-well-as-these-five-stocks-ae0d9220?mod=mw_rss_topstories",
-      "pubDate": "Thu, 13 Aug 2026 10:54:00 GMT",
-      "content": "Netflix is once again an apple in Bill Ackman’s eye, as the streamer was among six stocks Pershing Square added in the last six months.",
-      "source": "US",
-      "category": "美股市场"
     },
     {
       "title": "Flying first class is getting cheaper — if you don’t mind giving up some perks",
@@ -27,58 +75,10 @@
       "category": "半导体"
     },
     {
-      "title": "Cisco stock falls on margin concerns. Here’s what Wall Street analysts are saying.",
+      "title": "Cisco’s stock falls on margin concerns. Here’s what Wall Street analysts are saying.",
       "link": "https://www.marketwatch.com/story/cisco-stock-falls-on-margin-concerns-heres-what-wall-street-analysts-are-saying-582e39fe?mod=mw_rss_topstories",
       "pubDate": "Thu, 13 Aug 2026 10:28:00 GMT",
       "content": "Analysts say a focus on the artificial-intelligence ‘supercycle’ could pressure gross margins.",
-      "source": "US",
-      "category": "美股市场"
-    },
-    {
-      "title": "‘She’s desperate’: My friend’s mother died. Can she stop Medicaid from taking the family home?",
-      "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
-      "pubDate": "Thu, 13 Aug 2026 10:15:00 GMT",
-      "content": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
-      "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-      "pubDate": "Thu, 13 Aug 2026 10:00:00 GMT",
-      "content": "“I would like to offer a piece of advice for women who are or have been married.”",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "What is driving the rapid shift as South Korea’s bear market turns back into a bull",
-      "link": "https://www.marketwatch.com/story/what-is-driving-the-rapid-shift-as-south-koreas-bear-market-turns-back-into-a-bull-3e602e66?mod=mw_rss_topstories",
-      "pubDate": "Thu, 13 Aug 2026 09:57:00 GMT",
-      "content": "The recovery in Korean equities owes much to technical factors as retail long positions were liquidated, but it’s also backed by fundamentals – namely booming earnings growth",
-      "source": "US",
-      "category": "美股市场"
-    },
-    {
-      "title": "‘My husband and I are at odds’: Should we tap our home equity or sell stocks to build a $100,000 emergency fund?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
-      "pubDate": "Thu, 13 Aug 2026 09:15:00 GMT",
-      "content": "“We have about $1.7 million invested but only around $20,000 in cash.”",
-      "source": "US",
-      "category": "美股市场"
-    },
-    {
-      "title": "The latest rally has energized the stock market but left the credit market concerned",
-      "link": "https://www.marketwatch.com/story/the-latest-rally-has-energized-the-stock-market-but-left-the-credit-market-concerned-70e3d296?mod=mw_rss_topstories",
-      "pubDate": "Thu, 13 Aug 2026 09:01:00 GMT",
-      "content": "Options traders are chipper about equities but wary of debt",
-      "source": "US",
-      "category": "半导体"
-    },
-    {
-      "title": "Actress Tamara Mello of ‘She’s All That’ puts L.A. home on the market for $1.5 million",
-      "link": "https://www.marketwatch.com/story/actresstamara-melloof-shes-all-that-puts-l-a-home-on-the-market-for-1-5-million-0046941f?mod=mw_rss_topstories",
-      "pubDate": "Thu, 13 Aug 2026 08:58:00 GMT",
-      "content": "“She’s All That” star Tamara Mello and her husband, Emmy Award-winning TV editor Paolo Cascardo, are selling their thoughtfully restored L.A. home as they prepare to relocate to Florida.",
       "source": "US",
       "category": "美股市场"
     },

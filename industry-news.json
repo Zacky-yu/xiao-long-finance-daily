@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/15 05:50:10",
+ "generated_at": "2026/8/15 06:23:01",
  "recent_days": 7,
  "industries": [
   {
@@ -265,6 +265,22 @@
      "zh": "采访：Acrab 首席执行官 Ken Phua 谈在新加坡构建代理人工智能芯片"
     },
     {
+     "title": "How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma",
+     "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/how-to-develop-edge-ai-on-a-raspberry-pi-with-litert-and-gemma-2026-08/",
+     "pubDate": "Fri, 14 Aug 2026 15:54:30 +0000",
+     "summary": "This is an interesting one from Google's Developer blog: an example project on Edge AI using a Raspberry Pi along with LiteRT and Gemma. The post How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "如何：使用 LiteRT 和 Gemma 在 Raspberry Pi 上开发边缘 AI"
+    },
+    {
+     "title": "Standards and AI will shape-shift EDA",
+     "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/standards-and-ai-will-shape-shift-eda-2026-08/",
+     "pubDate": "Fri, 14 Aug 2026 15:52:17 +0000",
+     "summary": "As AI and machine learning are getting more and more integrated into the EDA workflows, there are new challenges emerging around areas such as interoperability, data exchange, trust, and reproducibility. […] The post Standards and AI will shape-shift EDA appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "标准和人工智能将改变 EDA"
+    },
+    {
      "title": "An Introduction to Software Prototyping: Unlocking SoC Software Verification with proFPGA CS",
      "link": "https://www.eetimes.com/an-introduction-to-software-prototyping-unlocking-soc-software-verification-with-profpga-cs/",
      "pubDate": "Fri, 14 Aug 2026 15:22:50 +0000",
@@ -281,12 +297,36 @@
      "zh": "台积电的 0.42 纳米突破可能推动晶体管超越硅"
     },
     {
+     "title": "Google joins OpenROAD EDA initiative",
+     "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/google-joins-openroad-eda-initiative-2026-08/",
+     "pubDate": "Fri, 14 Aug 2026 14:01:02 +0000",
+     "summary": "Google is joining the OpenROAD Initiative (ORI) as a principal member, for its open source electronic design automation (EDA). As is customary, Google’s Technical Program Manager, Aaron Cunningham, is joining […] The post Google joins OpenROAD EDA initiative appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Google 加入 OpenROAD EDA 计划"
+    },
+    {
      "title": "Acer COO Jerry Kao resigns; Chairman Jason Chen to fill role",
      "link": "https://www.digitimes.com/news/a20260814PD235/acer-management-jason-chen-ceo-2018.html",
      "pubDate": "Fri, 14 Aug 2026 13:58:23 GMT",
      "summary": "Acer announced a major management change on August 14, saying chief operating officer Jerry Kao has resigned with immediate effect. Chairman and CEO Jason Chen will take on the duties on an interim basis.",
      "source": "DIGITIMES",
      "zh": "宏碁首席运营官高杰瑞 (Jerry Kao) 辞职；董事长 Jason Chen 接任"
+    },
+    {
+     "title": "CHIIPS #37 – CHIIPs with DVCon’s Mark Burton",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-37-chiips-with-dvcons-mark-burton-2026-08/",
+     "pubDate": "Fri, 14 Aug 2026 13:37:48 +0000",
+     "summary": "Don't miss the latest episode of our Electronics Weekly podcast, CHIIPS. It features Mark Burton - DVCon's technical programme chair. The post CHIIPS #37 – CHIIPs with DVCon’s Mark Burton appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "CHIIPS #37 – DVCon 的 Mark Burton 的 CHIIP"
+    },
+    {
+     "title": "President Bush, Qualcomm, the CTIA, Broadcom and the ITC square up",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/president-bush-qualcomm-the-ctia-broadcom-and-the-itc-square-up-2026-08/",
+     "pubDate": "Fri, 14 Aug 2026 13:24:05 +0000",
+     "summary": "19 years ago the tech industry was up to its old trick of roping in the government to fight its battles. ‘The CTIA Wireless Association in the US has backed […] The post President Bush, Qualcomm, the CTIA, Broadcom and the ITC square up appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "布什总统、高通、CTIA、博通和 ITC 联手"
     },
     {
      "title": "Intel at a Memory Crossroads, Again",
@@ -319,6 +359,14 @@
      "summary": "The speed of AI data center deployment is raising the bar for power and cooling suppliers. Chipmakers such as Nvidia and AMD are refreshing platforms annually, with each generation bringing sharp increases in power density and thermal requirements. Suppliers that cannot match that pace in R&D or cap",
      "source": "DIGITIMES",
      "zh": "研究洞察：台达、光宝将资本支出提升至营收的 9% 争夺人工智能数据中心权力"
+    },
+    {
+     "title": "In-orbit services to generate $3 billion within a decade",
+     "link": "https://www.electronicsweekly.com/news/business/in-orbit-services-to-generate-3-billion-within-a-decade-2026-08/",
+     "pubDate": "Fri, 14 Aug 2026 10:42:09 +0000",
+     "summary": "Novaspace, the space consulting and market intelligence firm, has released the latest version of its In-Orbit Services Markets report. The Paris-based analysts calculate that the space sector will generate $3 […] The post In-orbit services to generate $3 billion within a decade appeared first on Ele",
+     "source": "Electronics Weekly",
+     "zh": "在轨服务十年内将创收 30 亿美元"
     },
     {
      "title": "Memory supply crunch pushes long-term contracts beyond the big three",
@@ -447,46 +495,6 @@
      "summary": "The ability to move and manage data efficiently is a defining challenge for data center architects. The post DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "DDR5 9600 RDIMM：提高服务器内存的性能基准"
-    },
-    {
-     "title": "What Self-Verifying Means In Agentic EDA Workflows And Why It Matters",
-     "link": "https://semiengineering.com/what-self-verifying-means-in-agentic-eda-workflows-and-why-it-matters/",
-     "pubDate": "Thu, 13 Aug 2026 07:07:35 +0000",
-     "summary": "Grounding agent decisions in their output is what transforms orchestration into something engineers can build on with confidence. The post What Self-Verifying Means In Agentic EDA Workflows And Why It Matters appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "自我验证在代理 EDA 工作流程中意味着什么及其重要性"
-    },
-    {
-     "title": "Veeco’s Q2 results exceed guidance",
-     "link": "https://www.semiconductor-today.com/news_items/2026/aug/veeco-120826.shtml",
-     "pubDate": "Wed, 12 Aug 2026 11:25:51 +0100",
-     "summary": "For second-quarter 2026, epitaxial deposition and process equipment maker Veeco Instruments Inc of Plainview, NY, USA has reported revenue of $193.5m, up 22% on $158.3m last quarter and 16.5% on $166.1m a year ago, and exceeding the $170–190m guidance...",
-     "source": "Semiconductor Today",
-     "zh": "Veeco 第二季度业绩超出预期"
-    },
-    {
-     "title": "OpenLight and Tower expand PH18DA photonics ecosystem to accelerate photonic IC development",
-     "link": "https://www.semiconductor-today.com/news_items/2026/aug/openlight-tower-120826.shtml",
-     "pubDate": "Wed, 12 Aug 2026 10:13:02 +0100",
-     "summary": "Photonic application-specific integrated circuit (PASIC) chip designer and manufacturer OpenLight of Goleta, Santa Barbara, CA, USA (which launched as an independent company in 2022, introducing the first open silicon photonics platform with heterogeneously integrated III-V lasers, modulators, ampli",
-     "source": "Semiconductor Today",
-     "zh": "OpenLight 和 Tower 拓展 PH18DA 光子生态系统，加速光子 IC 开发"
-    },
-    {
-     "title": "Soctera raises $4m in seed funding round",
-     "link": "https://www.semiconductor-today.com/news_items/2026/aug/soctera-110826.shtml",
-     "pubDate": "Tue, 11 Aug 2026 21:08:55 +0100",
-     "summary": "Soctera of Ithaca, NY USA has closed a $4m in seed funding round backed by Anorak Ventures and Multiball Capital, with additional participation from 9Yards Capital, Mana Ventures, and Red Bear Ventures. The firm will use the funding to develop its thermally optimized III-nitride millimeter-wave powe",
-     "source": "Semiconductor Today",
-     "zh": "Soctera 在种子轮融资中筹集了 400 万美元"
-    },
-    {
-     "title": "CSconnected unveils awardees for final call of £1m Supply Chain Development Programme",
-     "link": "https://www.semiconductor-today.com/news_items/2026/aug/csconnected-110826.shtml",
-     "pubDate": "Tue, 11 Aug 2026 12:39:28 +0100",
-     "summary": "The South Wales-based compound semiconductor cluster CSconnected Ltd has announced the successful applicants to the fourth and final funding call of its £1m Supply Chain Development Programme, delivered in partnership with Cardiff Capital Region (CCR). The program provides grants of up to £100,000 t",
-     "source": "Semiconductor Today",
-     "zh": "CSconnected 揭晓 100 万英镑供应链发展计划最终获奖者名单"
     }
    ]
   },
@@ -841,6 +849,22 @@
    "total": 9,
    "items": [
     {
+     "title": "Move Local Energy Goals Forward: Apply to the Energy Technology Innovation Partnership Project",
+     "link": "https://cleantechnica.com/2026/08/14/move-local-energy-goals-forward-apply-to-the-energy-technology-innovation-partnership-project/",
+     "pubDate": "Fri, 14 Aug 2026 22:02:59 +0000",
+     "summary": "Local Governments, Tribes, Utilities, and Organizations Across the Country Can Pursue Affordable Energy Solutions With Support From National Laboratories and Regional Organizations Coastal, remote, and island communities across the United States can overcome energy reliability hurdles—like aging inf",
+     "source": "CleanTechnica",
+     "zh": "推进当地能源目标：申请能源技术创新合作伙伴项目"
+    },
+    {
+     "title": "Ranked: How Dirty Are the Eight Biggest Names in AI",
+     "link": "https://oilprice.com/Energy/Energy-General/Ranked-How-Dirty-Are-the-Eight-Biggest-Names-in-AI.html",
+     "pubDate": "Fri, 14 Aug 2026 17:00:00 -0500",
+     "summary": "Big Tech companies are quietly moving farther and farther away from their decarbonization goals. Back in 2019, Amazon pledged to become carbon neutral by 2040, thereby setting a goalpost ten years ahead of the Paris climate agreement in a show of dedication to becoming a leader in decarbonization. T",
+     "source": "OilPrice",
+     "zh": "排名：人工智能领域八个大人物有多肮脏"
+    },
+    {
      "title": "Why a Record-Strength El Niño Still Might Not Save Europe's Gas Market",
      "link": "https://oilprice.com/Energy/Energy-General/Why-a-Record-Strength-El-Nio-Still-Might-Not-Save-Europes-Gas-Market.html",
      "pubDate": "Fri, 14 Aug 2026 15:00:00 -0500",
@@ -879,14 +903,6 @@
      "summary": "South Africa’s Constitutional Court has blocked Shell-led exploration along the country’s Wild Coast, adding another legal setback to an offshore sector already struggling to keep pace with neighboring Namibia. The country’s highest court on Friday overturned a 2024 Supreme Court of Appeal ruling th",
      "source": "OilPrice",
      "zh": "南非最高法院阻止壳牌狂野海岸勘探"
-    },
-    {
-     "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
-     "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Attacks-Push-Oil-Toward-100-Despite-US-Crude-Build.html",
-     "pubDate": "Fri, 14 Aug 2026 11:21:21 -0500",
-     "summary": "Brent heads toward a 5% weekly gain as stalled US-Iran talks and Hormuz attacks push oil prices toward $100. Friday, August 14, 2026 Crude oil prices are set to post a 5% weekly gain after this week quashed hopes (for the umpteenth time) of a negotiated US-Iran settlement, with Tehran ratcheting up ",
-     "source": "OilPrice",
-     "zh": "尽管美国原油产量增加，霍尔木兹袭击仍将油价推向 100 美元"
     },
     {
      "title": "Data centers are officially shaping election season",
@@ -1071,14 +1087,6 @@
      "summary": "Ontario needs a lot more electricity. Demand hit 145.6 TWh in 2025, up 4.4% in a year, and IESO’s reference case gets to 250 TWh by 2050. But its own range runs from 207 to 297 TWh. That’s not a rounding error. It’s a completely different buildout depending on which ... [continued] The post Ontario’",
      "source": "CleanTechnica",
      "zh": "安大略省首次电力短缺并非产能短缺"
-    },
-    {
-     "title": "Optimising US BESS markets: Insights from Caerus Commodities",
-     "link": "https://www.energy-storage.news/optimising-us-bess-markets-insights-from-caerus-commodities/",
-     "pubDate": "Fri, 14 Aug 2026 08:39:46 +0000",
-     "summary": "Casey Keller, founding partner at Caerus Commodities, shares critical lessons from optimising battery storage, ahead of the 2026 US Battery Asset Management Summit taking place in California on 15-16 September.",
-     "source": "Energy Storage News",
-     "zh": "优化美国 BESS 市场：Caerus Commodities 的见解"
     }
    ]
   },
@@ -1289,6 +1297,22 @@
    "total": 6,
    "items": [
     {
+     "title": "Wallops gears up for an increase in launches",
+     "link": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
+     "pubDate": "Fri, 14 Aug 2026 22:02:28 +0000",
+     "summary": "With a projected surge in launches from Wallops Island in the coming years, companies and officials say now is the time for infrastructure improvements to benefit companies and their workers. The post Wallops gears up for an increase in launches appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "Wallops 为增加发射做好准备"
+    },
+    {
+     "title": "'Strap yourself in and feel the Gs': NASA announces 'Max Power' aerospace expo",
+     "link": "https://www.space.com/space-exploration/strap-yourself-in-and-feel-the-gs-nasa-announces-max-power-aerospace-expo",
+     "pubDate": "Fri, 14 Aug 2026 22:00:00 +0000",
+     "summary": "NASA announced today (Aug. 14) that it will hold a two-day aerospace expo this November — an event whose name should draw a chuckle from \"Simpsons\" fans.",
+     "source": "Space.com",
+     "zh": "“系好安全带，感受 Gs”：NASA 宣布举办“Max Power”航空航天博览会"
+    },
+    {
      "title": "Is empty space really empty? This magnetic star may finally solve a 90-year-old mystery",
      "link": "https://www.space.com/astronomy/stars/is-empty-space-really-empty-this-magnetic-star-may-finally-solve-a-90-year-old-mystery",
      "pubDate": "Fri, 14 Aug 2026 21:00:00 +0000",
@@ -1377,14 +1401,6 @@
      "zh": "Spire 和 PlanetiQ 赢得 NOAA 射电掩星合同"
     },
     {
-     "title": "Can Venus cast a shadow? Here's how to see it for yourself",
-     "link": "https://www.space.com/stargazing/can-venus-cast-a-shadow-heres-how-to-see-it-for-yourself",
-     "pubDate": "Fri, 14 Aug 2026 16:00:00 +0000",
-     "summary": "As Venus gets close to its greatest brilliancy in the evening sky, it’s a good time to test one of astronomy’s less believable claims.",
-     "source": "Space.com",
-     "zh": "金星能投下阴影吗？以下是亲自查看的方法"
-    },
-    {
      "title": "Total Solar Eclipse in Sunflower Field",
      "link": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
      "pubDate": "Fri, 14 Aug 2026 14:48:55 +0000",
@@ -1439,14 +1455,6 @@
      "summary": "WARSAW, Poland — Bulgaria’s government has approved a draft memorandum of understanding with the local satellite manufacturer EnduroSat to collaborate on the development of a new space and defense innovation […] The post Bulgaria advances project to launch new space, defense innovation hub appeared ",
      "source": "SpaceNews",
      "zh": "保加利亚推进启动新太空、国防创新中心的项目"
-    },
-    {
-     "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
-     "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
-     "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000",
-     "summary": "Paris, France | August 2026 – Novaspace’s latest In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in cumulative service revenues over the next decade, highlighting the early development […] The post In-Orbit Services Market to Generate ",
-     "source": "SpaceNews",
-     "zh": "在轨服务市场未来十年将产生 30 亿美元收入"
     },
     {
      "title": "Rocket Lab Enters Europe’s Crowded Launch Market",
@@ -1753,6 +1761,22 @@
    "total": 18,
    "items": [
     {
+     "title": "Z.ai says GLM-5.3 scores 84.5% on CyberGym, vs. Mythos 5&apos;s 83.8%, and its most sensitive cybersecurity functions will only be available to verified users (Reuters)",
+     "link": "https://www.techmeme.com/260814/p28#a260814p28",
+     "pubDate": "Fri, 14 Aug 2026 18:15:01 -0400",
+     "summary": "Reuters : Z.ai says GLM-5.3 scores 84.5% on CyberGym, vs. Mythos 5's 83.8%, and its most sensitive cybersecurity functions will only be available to verified users &nbsp; &mdash;&nbsp; Chinese AI startup Z.ai said on Friday its open-source GLM-5.3 model had neared Anthropic's restricted Mythos 5 in ",
+     "source": "Techmeme",
+     "zh": "Z.ai 表示，GLM-5.3 在 Cyber​​Gym 上的得分为 84.5%，而 Mythos 5 的得分为 83.8%，其最敏感的网络安全功能将仅对经过验证的用户可用（路透社）"
+    },
+    {
+     "title": "Filing: Nvidia has a nearly $21B stake in SpaceX and a $30B stake in Intel; Nvidia invested as much as $2B in xAI in 2025 and $5B in Intel (Lynn Doan/Bloomberg)",
+     "link": "https://www.techmeme.com/260814/p27#a260814p27",
+     "pubDate": "Fri, 14 Aug 2026 17:50:02 -0400",
+     "summary": "Lynn Doan / Bloomberg : Filing: Nvidia has a nearly $21B stake in SpaceX and a $30B stake in Intel; Nvidia invested as much as $2B in xAI in 2025 and $5B in Intel &nbsp; &mdash;&nbsp; Nvidia Corp. on Friday disclosed a nearly $21 billion stake in Elon Musk's SpaceX and a $30 billion one in Intel Cor",
+     "source": "Techmeme",
+     "zh": "文件：英伟达拥有 SpaceX 近 210 亿美元的股份，以及英特尔 300 亿美元的股份； 2025 年，Nvidia 在 xAI 上投资了 20 亿美元，在英特尔上投资了 50 亿美元（Lynn Doan/彭博社）"
+    },
+    {
      "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
      "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
      "pubDate": "Fri, 14 Aug 2026 21:43:17 +0000",
@@ -1796,7 +1820,7 @@
      "title": "Everything is about to \"go dark\"",
      "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
      "pubDate": "Fri, 14 Aug 2026 20:52:44 +0000",
-     "summary": "Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/ Comments URL: https://news.ycombinator.com/item?id=49304447 Points: 21 # Comments: 2",
+     "summary": "Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/ Comments URL: https://news.ycombinator.com/item?id=49304447 Points: 72 # Comments: 37",
      "source": "Hacker News",
      "zh": "一切即将“黑化”"
     },
@@ -1804,7 +1828,7 @@
      "title": "Study links coffee consumption to metabolic health and sex hormones",
      "link": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
      "pubDate": "Fri, 14 Aug 2026 20:46:04 +0000",
-     "summary": "Article URL: https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones Comments URL: https://news.ycombinator.com/item?id=49304368 Points: 30 # Comments: 16",
+     "summary": "Article URL: https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones Comments URL: https://news.ycombinator.com/item?id=49304368 Points: 43 # Comments: 43",
      "source": "Hacker News",
      "zh": "研究将咖啡消费与代谢健康和性激素联系起来"
     },
@@ -1828,41 +1852,17 @@
      "title": "Every exterior shot in The Taking of Pelham 123",
      "link": "https://iafisher.com/2026/07/pelham-123",
      "pubDate": "Fri, 14 Aug 2026 20:10:49 +0000",
-     "summary": "Article URL: https://iafisher.com/2026/07/pelham-123 Comments URL: https://news.ycombinator.com/item?id=49303957 Points: 12 # Comments: 2",
+     "summary": "Article URL: https://iafisher.com/2026/07/pelham-123 Comments URL: https://news.ycombinator.com/item?id=49303957 Points: 15 # Comments: 3",
      "source": "Hacker News",
      "zh": "《夺取佩勒姆 123》中的每一个外景镜头"
-    },
-    {
-     "title": "Sources: PayPal is in talks to sell itself to a group including Stripe and Advent, which proposed paying $60.50/share in July; PayPal is seeking a higher price (Wall Street Journal)",
-     "link": "https://www.techmeme.com/260814/p22#a260814p22",
-     "pubDate": "Fri, 14 Aug 2026 16:02:13 -0400",
-     "summary": "Wall Street Journal : Sources: PayPal is in talks to sell itself to a group including Stripe and Advent, which proposed paying $60.50/share in July; PayPal is seeking a higher price &nbsp; &mdash;&nbsp; The fintech startup and private-equity firm Advent offered to buy the struggling payments company",
-     "source": "Techmeme",
-     "zh": "消息来源：PayPal 正在洽谈将自己出售给包括 Stripe 和 Advent 在内的集团，后者提议在 7 月份支付每股 60.50 美元； PayPal 正在寻求更高的价格（华尔街日报）"
-    },
-    {
-     "title": "Risk report: Anthropic raises misalignment risk estimate from very low to low and says it doesn&apos;t plan to release a stronger internal model called \"Model 2\" (Madison Mills/Axios)",
-     "link": "https://www.techmeme.com/260814/p21#a260814p21",
-     "pubDate": "Fri, 14 Aug 2026 15:45:01 -0400",
-     "summary": "Madison Mills / Axios : Risk report: Anthropic raises misalignment risk estimate from very low to low and says it doesn't plan to release a stronger internal model called &ldquo;Model 2&rdquo; &nbsp; &mdash;&nbsp; Anthropic does not plan to release an internal model that appears to be more powerful ",
-     "source": "Techmeme",
-     "zh": "风险报告：Anthropic 将错位风险估计从非常低提高到低，并表示不打算发布更强大的内部模型，称为“模型 2”（Madison Mills/Axios）"
     },
     {
      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
      "link": "https://arxiv.org/abs/2608.11158",
      "pubDate": "Fri, 14 Aug 2026 19:41:42 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2608.11158 Comments URL: https://news.ycombinator.com/item?id=49303652 Points: 17 # Comments: 4",
+     "summary": "Article URL: https://arxiv.org/abs/2608.11158 Comments URL: https://news.ycombinator.com/item?id=49303652 Points: 18 # Comments: 5",
      "source": "Hacker News",
      "zh": "格罗腾迪克常数的新下限和上限"
-    },
-    {
-     "title": "CEO who fired 900 people on Zoom just before Christmas wants his job back",
-     "link": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo",
-     "pubDate": "Fri, 14 Aug 2026 19:36:18 +0000",
-     "summary": "Article URL: https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo Comments URL: https://news.ycombinator.com/item?id=49303592 Points: 78 # Comments: 41",
-     "source": "Hacker News",
-     "zh": "圣诞节前在 Zoom 解雇 900 名员工的 CEO 希望重返工作岗位"
     },
     {
      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
@@ -1873,12 +1873,20 @@
      "zh": "Thrive 的约书亚·库什纳 (Joshua Kushner) 斥责硅谷风投公司对人工智能的狂热"
     },
     {
-     "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
-     "link": "https://www.aletheionagi.com",
-     "pubDate": "Fri, 14 Aug 2026 19:28:17 +0000",
-     "summary": "Article URL: https://www.aletheionagi.com Comments URL: https://news.ycombinator.com/item?id=49303499 Points: 3 # Comments: 0",
+     "title": "What You Gain by Building Your Own Game Engine",
+     "link": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+     "pubDate": "Fri, 14 Aug 2026 19:20:20 +0000",
+     "summary": "Article URL: https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html Comments URL: https://news.ycombinator.com/item?id=49303405 Points: 40 # Comments: 33",
      "source": "Hacker News",
-     "zh": "Show HN：AletheionAGI – AI 代理的接地执法"
+     "zh": "通过构建自己的游戏引擎您可以获得什么"
+    },
+    {
+     "title": "Open WireGuard Endpoints",
+     "link": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+     "pubDate": "Fri, 14 Aug 2026 19:05:46 +0000",
+     "summary": "Article URL: https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html Comments URL: https://news.ycombinator.com/item?id=49303237 Points: 18 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "打开 WireGuard 端点"
     },
     {
      "title": "What we know about the alleged Iranian hacks on US water utilities",
@@ -2000,6 +2008,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Android 17 QPR2 greatly expands Dynamic Color theming on Pixel",
+     "link": "https://9to5google.com/2026/08/14/android-17-qpr2-dynamic-color/",
+     "pubDate": "Fri, 14 Aug 2026 22:20:50 +0000",
+     "summary": "With Android 17 QPR2 Beta 3’s surprise Friday drop, Google is introducing expanded Dynamic Color theming options for Pixel devices.",
+     "source": "9to5Google",
+     "zh": "Android 17 QPR2 极大扩展了 Pixel 上的动态颜色主题"
+    },
+    {
+     "title": "Here's our first look at Samsung's upcoming One UI 9.5",
+     "link": "https://www.gsmarena.com/heres_our_first_look_at_samsungs_upcoming_one_ui_95-news-74185.php",
+     "pubDate": "Sat, 15 Aug 2026 00:07:03 +0200",
+     "summary": "While Samsung is still in the process of beta testing One UI 9, with the fifth beta having gone out to the Galaxy S26 series just a couple of days ago, the company is also already working on One UI 9.5. This may be the version that the upcoming Galaxy S27 family will ship with out of the box. An ent",
+     "source": "GSMArena",
+     "zh": "这是我们第一次看到三星即将推出的 One UI 9.5"
+    },
+    {
+     "title": "Android 17 QPR2 Beta 3 for Pixel rolling out",
+     "link": "https://9to5google.com/2026/08/14/android-17-qpr2-beta-3-pixel/",
+     "pubDate": "Fri, 14 Aug 2026 21:52:25 +0000",
+     "summary": "Following the last release at the start of last week, Google is rolling out Android 17 QPR2 Beta 3 for Pixel devices in a rare Friday drop.",
+     "source": "9to5Google",
+     "zh": "适用于 Pixel 的 Android 17 QPR2 Beta 3 推出"
+    },
     {
      "title": "WhatsApp working on customizable emoji reaction sets on iOS",
      "link": "https://9to5mac.com/2026/08/14/whatsapp-working-on-customizable-emoji-reaction-sets-on-ios/",
@@ -2209,36 +2241,12 @@
      "zh": "您汽车的行车记录仪在某些州可能是非法的 - 以下是检查方法"
     },
     {
-     "title": "Pixel Journal update brings cloud-based Private AI Compute, UI tweaks, & more",
-     "link": "https://9to5google.com/2026/08/14/pixel-journal-ai-update/",
-     "pubDate": "Fri, 14 Aug 2026 16:20:05 +0000",
-     "summary": "With the launch of the Pixel 11, Google is rolling out a handful of updates to the Journal app that are already appearing on older devices.",
-     "source": "9to5Google",
-     "zh": "Pixel Journal 更新带来了基于云的私人 AI 计算、UI 调整等"
-    },
-    {
      "title": "Here's a quick look at Google's new Pixel 11 series, Pixel Watch 5, and Fitbit Air",
      "link": "https://www.gsmarena.com/heres_a_quick_look_at_googles_new_pixel_11_series_pixel_watch_5_and_fitbit_air-news-74181.php",
      "pubDate": "Fri, 14 Aug 2026 17:51:02 +0200",
      "summary": "Today, we are going to do a very quick hands-on with the new range of devices from Google for 2026, including but not limited to the new Pixel 11 series of smartphones. There are a lot of devices to go through, so let’s just jump in without much further ado. Let’s start from the bottom with the new ",
      "source": "GSMArena",
      "zh": "快速浏览一下 Google 的新款 Pixel 11 系列、Pixel Watch 5 和 Fitbit Air"
-    },
-    {
-     "title": "France's top court strikes down social media ban for children under 15",
-     "link": "https://www.engadget.com/2237141/frances-top-court-strikes-down-social-media-ban-for-children-under-15/",
-     "pubDate": "Fri, 14 Aug 2026 15:48:38 +0000",
-     "summary": "President Macron has asked the government to rewrite France's proposed social media ban for children.",
-     "source": "Engadget",
-     "zh": "法国最高法院驳回针对 15 岁以下儿童的社交媒体禁令"
-    },
-    {
-     "title": "Google Health 5.06 rolling out to control the Coach in Today tab",
-     "link": "https://9to5google.com/2026/08/14/google-health-5-06-release-notes/",
-     "pubDate": "Fri, 14 Aug 2026 15:46:06 +0000",
-     "summary": "Google Health 5.06 is rolling out on Android and iOS to let you control what Health Coach guidance appears in the Today tab.",
-     "source": "9to5Google",
-     "zh": "Google Health 5.06 推出控制“Today”选项卡中的“Coach”"
     }
    ]
   },
@@ -2249,28 +2257,124 @@
    "total": 13,
    "items": [
     {
-     "title": "ValueAct Capital adds PAYP, boosts AMZN, SPOT and exits DIS in Q2",
-     "link": "https://seekingalpha.com/news/4633560-valueact-capital-adds-payp-boosts-amzn-spot-and-exit-dis-in-q2?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 14 Aug 2026 17:41:54 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ValueAct Capital 在第二季度增加 PAYP、提振 AMZN、SPOT 并退出 DIS"
+     "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
+     "link": "https://wallstreetcn.com/articles/3779490",
+     "pubDate": "Sat, 15 Aug 2026 06:21:27 +0800",
+     "summary": "“股神”巴菲特卸任CEO后的第二个季度，伯克希尔·哈撒韦的投资组合继续发生明显变化。 据美东时间14日周五披露的递交美国证监会（SEC）13F文件，格雷格·阿贝尔正式掌舵后的二季度，伯克希尔大举增持谷歌母公司Alphabet，两类股票合计增持约4810万股、市值合计新增超过170亿美元；其中Alphabet A类股（GOOGL）持仓增加约2450万股，增幅超过45%，一举跃升至伯克希尔第四大重仓股。 同时，伯克希尔继续加仓达美航空（DAL），持仓较一季度增加约1750万股，增幅约44%，意味着这笔在阿贝尔执掌首季建立的航空股仓位连续第二个季度获得增持。房地产板块同样成为伯克希尔二季度重点布局方",
+     "source": "华尔街见闻",
+     "zh": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股"
     },
     {
-     "title": "Gold gains after tame U.S. sales, inflation data lower rate-hike expectations",
-     "link": "https://seekingalpha.com/news/4633551-gold-gains-after-tame-us-sales-inflation-data-lower-rate-hike-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 14 Aug 2026 17:40:27 -0400",
+     "title": "Star Equity outlines $10M cost savings plan in Harte Hanks deal targeting ~$30M adjusted EBITDA",
+     "link": "https://seekingalpha.com/news/4633567-star-equity-outlines-10m-cost-savings-plan-in-harte-hanks-deal-targeting-30m-adjusted-ebitda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 14 Aug 2026 18:17:55 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "美国销售温和、通胀数据降低加息预期后金价上涨"
+     "zh": "Star Equity 概述了 Harte Hanks 交易中 1000 万美元的成本节约计划，目标调整后 EBITDA 约为 3000 万美元"
     },
     {
-     "title": "XP Q2 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4633329-xp-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 14 Aug 2026 17:35:24 -0400",
+     "title": "Tudor Investment adds Oracle, Intuit, exits Applied Materials among Q2 moves",
+     "link": "https://seekingalpha.com/news/4633564-tudor-invesment-adds-oracle-intuit-exits-appllied-materials-among-q2-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 14 Aug 2026 18:17:10 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "XP 2026 年第二季度收益预览"
+     "zh": "都铎投资 (Tudor Investment) 在第二季度的举措中加入了甲骨文 (Oracle)、财捷 (Intuit)、退出应用材料 (Applied Materials)"
+    },
+    {
+     "title": "涉及国家安全！特朗普政府请求最高法院允许白宫宴会厅继续施工",
+     "link": "http://finance.eastmoney.com/news/1351,202608153842156997.html",
+     "pubDate": "Sat, 15 Aug 2026 06:15:33 +0800",
+     "summary": "据央视新闻报道，当地时间周五，特朗普政府向美国最高法院提出紧急申请，请求允许特朗普计划中的白宫宴会厅项目继续施工。就在一周前，美国一家联邦上诉法院裁定，这项耗资4亿美元的建筑项目必须停工。 美国副检察长约翰·索尔在提交给最高法院的文件中表示，这座宴会厅“对国家安全至关重要”，并指出，特朗普“近期已成为越来越多暗杀企图的目标”。 尽管项目在法院遭遇法律阻力，特朗普及其团队仍在加快推进 工程建设 。随着相关诉讼持续进行，白宫方面也越来越强调该项目涉及国家安全。 索尔声称，这座宴会厅将保护总统、总统家人、工作人员以及白宫访客的安全，其中还包括外国政要以及其他国家的总统和总理。 美国司法系统两级法院此",
+     "source": "东方财富股票",
+     "zh": "涉及国家安全！特朗普政府请求最高法院允许白宫宴会厅继续施工"
+    },
+    {
+     "title": "全球市场：美股三大指数小幅收跌 存储、光通信股大涨 闪迪涨超7%",
+     "link": "http://stock.eastmoney.com/news/11784,202608153842149092.html",
+     "pubDate": "Sat, 15 Aug 2026 06:15:14 +0800",
+     "summary": "美股市场： 美股三大指数08月14日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌107.58点，收于53732.41点，跌幅为0.2%，本周 跌0.56% ； 标准普尔 500种股票指数下跌13.23点，收于7785.76点，跌幅为0.17%， 本周涨0.36% ； 纳斯达克 综合 指数下跌73.87点，收于26729.16点，跌幅为0.28%，本周 涨0.14% 。 存储板块走强， 闪迪 涨超7%， 希捷科技 涨超5%， 西部数据 涨超4%， 美光科技 涨超2%。 半导体 设备股走弱， 应用材料 跌超5%， 科磊 跌超2%。 光 通信 股走高， 应用光电 涨超15%， 康宁 涨",
+     "source": "东方财富股票",
+     "zh": "全球市场：美股三大指数小幅收跌 存储、光通信股大涨 闪迪涨超7%"
+    },
+    {
+     "title": "联合干预日元汇率引发追问：美议员要求贝森特交代资金规模与法律依据",
+     "link": "http://finance.eastmoney.com/news/1351,202608153842156880.html",
+     "pubDate": "Sat, 15 Aug 2026 06:14:08 +0800",
+     "summary": "美国民主党籍参议员伊丽莎白·沃伦要求美国财政部长斯科特·贝森特解释政府干预日元汇率的理由。 作为参议院 银行 委员会民主党首席成员（Ranking Member，即该委员会中职位最高的民主党人），沃伦持续对特朗普政府的外汇政策展开审查。 沃伦在周四（8月13日）发布的一封信中写道：“截至目前，本届政府仍未提供有关此次干预的详细理由，也没有正式披露用于购买日元的相关资金规模。” 7月30日，日元汇率自1美元兑164日元附近开始大幅走高。8月3日，日元汇率一度达到1美元兑155.22日元，创5月7日以来的最高水平。 贝森特当时在社交媒体平台发帖称，“美日协调的外汇干预行动有效遏制了日元汇率的无序波",
+     "source": "东方财富股票",
+     "zh": "联合干预日元汇率引发追问：美议员要求贝森特交代资金规模与法律依据"
+    },
+    {
+     "title": "印尼弗洛勒斯岛附近海域附近发生7.7级左右地震",
+     "link": "http://global.eastmoney.com/news/11798,202608153842156737.html",
+     "pubDate": "Sat, 15 Aug 2026 06:11:46 +0800",
+     "summary": "中国地震台网自动测定：08月15日05时58分在印尼弗洛勒斯岛附近海域附近（南纬8.46度，东经121.42度）发生7.7级左右地震，最终结果以正式速报为准。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "印尼弗洛勒斯岛附近海域附近发生7.7级左右地震"
+    },
+    {
+     "title": "美联储9月维持利率不变的概率为67.5%",
+     "link": "http://finance.eastmoney.com/news/1351,202608153842156660.html",
+     "pubDate": "Sat, 15 Aug 2026 06:10:59 +0800",
+     "summary": "据CME“美联储观察”：美联储到9月维持利率不变的概率为67.5%，累计加息25个基点的概率为32.5%。美联储到10月维持利率不变的概率为53.3%，累计加息25个基点的概率为39.8%，累计加息50个基点的概率为6.8%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美联储9月维持利率不变的概率为67.5%"
+    },
+    {
+     "title": "美国本周总钻井数593口",
+     "link": "http://finance.eastmoney.com/news/1351,202608153842156585.html",
+     "pubDate": "Sat, 15 Aug 2026 06:08:10 +0800",
+     "summary": "8月15日，美国本周总钻井数593口。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "美国本周总钻井数593口"
+    },
+    {
+     "title": "Dan Loeb's Third Point adds SpaceX; exits Nvidia; cuts stake in Amazon among Q2 moves",
+     "link": "https://seekingalpha.com/news/4633557-dan-loebs-third-point-adds-spacex-exits-nvidia-cuts-stake-in-amazon-among-q2-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 14 Aug 2026 18:07:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dan Loeb 的 Third Point 添加了 SpaceX；退出英伟达；第二季度削减亚马逊股份"
+    },
+    {
+     "title": "AI/ML Innovations proposes $2M private placement",
+     "link": "https://seekingalpha.com/news/4633566-aiml-innovations-proposes-2m-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 14 Aug 2026 18:06:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AI/ML Innovations 提议 200 万美元私募"
+    },
+    {
+     "title": "Jane Street suffers $15bn hit after meltdown at Situational Awareness",
+     "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1",
+     "pubDate": "Fri, 14 Aug 2026 21:55:53 GMT",
+     "summary": "Secretive Wall Street trading firm wrongfooted by July AI rout",
+     "source": "Financial Times",
+     "zh": "Jane Street 因情境意识崩溃而遭受 150 亿美元损失"
+    },
+    {
+     "title": "Pershing Square's revamped portfolio's biggest bets are on Uber, Brookfield, and Microsoft",
+     "link": "https://seekingalpha.com/news/4633561-pershing-squares-revamped-portfolios-biggest-bets-are-in-uber-brookfield-and-microsoft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 14 Aug 2026 17:54:05 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "潘兴广场（Pershing Square）调整后的投资组合最大的赌注是优步（Uber）、布鲁克菲尔德（Brookfield）和微软"
+    },
+    {
+     "title": "Einhorn's DME adds PayPal, exits Victoria's Secret, Peloton, among Q2 moves",
+     "link": "https://seekingalpha.com/news/4633559-einhorns-dme-adds-paypal-exits-victorias-secret-peloton-among-q2-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 14 Aug 2026 17:52:44 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "艾因霍恩 (Einhorn) 的 DME 第二季度举措包括加入 PayPal，退出维多利亚的秘密 (Victoria's Secret)、Peloton"
+    },
+    {
+     "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+     "link": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+     "pubDate": "Fri, 14 Aug 2026 21:45:19 GMT",
+     "summary": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
+     "source": "CNBC",
+     "zh": "Nvidia 在第二季度末披露了价值 210 亿美元的 SpaceX 股份"
     },
     {
      "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
@@ -2281,52 +2385,12 @@
      "zh": "伯克希尔哈撒韦公司加倍押注美国房地产市场，对该股进行了新的押注"
     },
     {
-     "title": "Soros adds American Electric Power, exits Salesforce, boosts Entergy stake, among Q2 trades",
-     "link": "https://seekingalpha.com/news/4633550-soros-adds-american-electric-power-exits-salesforce-boosts-entergy-stake-among-q2-trades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 14 Aug 2026 17:28:53 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "索罗斯在第二季度交易中增持了美国电力公司、退出了 Salesforce、增持了 Entergy 股份"
-    },
-    {
-     "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
-     "link": "https://wallstreetcn.com/articles/3779490",
-     "pubDate": "Sat, 15 Aug 2026 05:28:03 +0800",
-     "summary": "“股神”巴菲特卸任CEO后的第二个季度，伯克希尔·哈撒韦的投资组合继续发生明显变化。 据美东时间14日周五披露的递交美国证监会（SEC）13F文件，格雷格·阿贝尔正式掌舵后的二季度，伯克希尔大举增持谷歌母公司Alphabet，两类股票合计增持约4810万股、市值合计新增超过170亿美元；其中Alphabet A类股（GOOGL）持仓增加约2450万股，增幅超过45%，一举跃升至伯克希尔第四大重仓股。 同时，伯克希尔继续加仓达美航空（DAL），持仓较一季度增加约1750万股，增幅约44%，意味着这笔在阿贝尔执掌首季建立的航空股仓位连续第二个季度获得增持。房地产板块同样成为伯克希尔二季度重点布局方",
-     "source": "华尔街见闻",
-     "zh": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股"
-    },
-    {
-     "title": "Paulson & Co. adds Alphabet, exits Agnico Eagle Mines, among Q2 moves",
-     "link": "https://seekingalpha.com/news/4633555-paulson-co-adds-alphabet-exits-agnico-eagle-mines-among-q2-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 14 Aug 2026 17:27:54 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Paulson & Co. 第二季度举措包括增加 Alphabet、退出 Agnico Eagle Mines"
-    },
-    {
-     "title": "Bridgewater beefs up Shell, PG&E stakes, reduces Amazon, among other Q2 moves",
-     "link": "https://seekingalpha.com/news/4633554-bridgewater-beefs-up-shell-pge-stakes-reduces-amazon-among-other-q2-moves?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 14 Aug 2026 17:27:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "桥水基金增持壳牌、PG&E 股份，减持亚马逊等第二季度举措"
-    },
-    {
      "title": "AI融资担忧发酵，博通盘中重挫7%，3700亿潜在风险响警钟",
      "link": "https://wallstreetcn.com/articles/3779486",
      "pubDate": "Sat, 15 Aug 2026 05:21:45 +0800",
      "summary": "AI芯片融资模式正在从“利好需求”转向“信用风险”叙事，英伟达劲敌博通遭遇明显抛压。 8月14日周五，博通（AVGO）股价低开低走，午盘刷新日低时，日内跌约7%，收盘跌逾5.9%。媒体指出，投资者正重新审视AI基础设施融资快速扩张所带来的信用风险，博通此前推出的AI XPV融资平台成为市场关注焦点。 此次抛售并非源于博通最新业绩突然恶化，而更多反映市场对其AI增长模式的重新定价。核心担忧在于：博通正在通过与Apollo、黑石等机构合作，将昂贵的AI芯片及计算基础设施与私人信贷结合起来，以融资方式加速客户采购；随着平台规模扩大，芯片残值、客户偿债能力以及博通潜在担保责任，都可能成为新的信用风险来",
      "source": "华尔街见闻",
      "zh": "AI融资担忧发酵，博通盘中重挫7%，3700亿潜在风险响警钟"
-    },
-    {
-     "title": "Jane Street suffers $15bn loss in July market ructions",
-     "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1",
-     "pubDate": "Fri, 14 Aug 2026 21:16:03 GMT",
-     "summary": "Wall Street trading firm has still recorded hefty trading revenues in 2026",
-     "source": "Financial Times",
-     "zh": "Jane Street 在 7 月份市场动荡中损失 150 亿美元"
     },
     {
      "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
@@ -2375,14 +2439,6 @@
      "summary": "软银正在进一步调整其AI投资版图。 递交美国证监会（SEC）的最新13F文件显示，软银集团在截至6月30日的2026年第二季度大幅减持台积电（TSM）美股持仓，减持幅度超过七成，套现约2.7亿美元。与此同时，软银新建仓美国信用卡巨头Capital One，并买入家庭安全App Life360的少量股份，显示其投资组合正在继续向不同AI及科技资产重新配置。 值得注意的是，这并非软银第一次大举调整AI核心资产。2025年初，软银曾明显加码英伟达和台积电：截至2025年3月底，其英伟达持仓市值约30亿美元，同时新买入约3.3亿美元台积电股票。 但到了2025年10月，软银又彻底清仓英伟达，出售约32",
      "source": "华尔街见闻",
      "zh": "软银Q2猛砍逾七成台积电持仓，套现2.7亿美元，AI硬件押注再调整"
-    },
-    {
-     "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-     "link": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
-     "pubDate": "Fri, 14 Aug 2026 19:50:11 GMT",
-     "summary": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law",
-     "source": "CNBC",
-     "zh": "Luigi Mangione 在与联合医疗首席执行官被杀有关的联邦案件中认罪"
     },
     {
      "title": "Regulators and banks step up scrutiny of prediction markets",
@@ -2439,54 +2495,6 @@
      "summary": "Congress changed three charitable-deduction rules this year. The most common way people give money to charities these days is now also probably the most expensive way.",
      "source": "MarketWatch",
      "zh": "国会改变了有关慈善捐赠的规则。如果您在今年早些时候捐款，您现在可以节省更多的钱。"
-    },
-    {
-     "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
-     "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
-     "pubDate": "Fri, 14 Aug 2026 18:30:00 GMT",
-     "summary": "“I’m curious whether there’s a downside.”",
-     "source": "MarketWatch",
-     "zh": "“市场显然很火”：我应该从我的经纪账户中取出 1,000 美元来偿还我的汽车贷款吗？"
-    },
-    {
-     "title": "二季度银行业保险业主要监管指标数据出炉 上半年商业银行累计实现净利润1.2万亿元",
-     "link": "http://www.eeo.com.cn/2026/0815/998757.shtml",
-     "pubDate": "Sat, 15 Aug 2026 02:26:14 +0800",
-     "summary": "8月14日，国家金融监督管理总局发布2026年二季度银行业保险业主要监管指标数据情况。 数据显示，银行业和保险业总资产保持增长。2026年二季度末，我国银行业金融机构本外币资产总额498万亿元，同比增长6.6%。其中，大型商业银行本外币资产总额221.6万亿元，同比增长8.5%，占比44.5%；股份制商业银行本外币资产总额80.4万亿元，同比增长6.2%，占比16.1%。 2026年二季度末，保险公司和保险资产管理公司总资产43.9万亿...",
-     "source": "经济观察网",
-     "zh": "二季度银行业保险业主要监管指标数据出炉 上半年商业银行累计实现净利润1.2万亿元"
-    },
-    {
-     "title": "多地出台新政进一步促进民间投资发展",
-     "link": "http://www.eeo.com.cn/2026/0815/998760.shtml",
-     "pubDate": "Sat, 15 Aug 2026 02:26:13 +0800",
-     "summary": "8月13日，上海市发展和改革委员会于官网发布《上海市贯彻落实〈关于进一步促进民间投资发展的若干措施〉的行动方案》（以下简称《行动方案》），提出“鼓励参与城市基础设施建设运营”“推动加大科技创新投入”等15项具体措施。 今年以来，云南省、河南省、海南省、辽宁省、江苏省、山西省、浙江省、青海省、湖南省等多地均已针对民间投资出台专项政策文件。 西南财经大学中国金融研究院副院长董青马在接受《证券日...",
-     "source": "经济观察网",
-     "zh": "多地出台新政进一步促进民间投资发展"
-    },
-    {
-     "title": "中国人民银行、国家外汇管理局：在全国范围开展跨国公司本外币跨境资金集中运营业务",
-     "link": "http://www.eeo.com.cn/2026/0815/998756.shtml",
-     "pubDate": "Sat, 15 Aug 2026 02:26:13 +0800",
-     "summary": "据中国人民银行网站8月14日消息，为深入贯彻党的二十届四中全会精神，落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》有关要求，2026年8月14日，中国人民银行、国家外汇管理局联合发布《关于跨国公司本外币跨境资金集中运营业务有关事宜的通知》（以下简称《通知》），在全国范围开展跨国公司本外币跨境资金集中运营业务。《通知》自2026年9月14日起施行。 从《通知》主要内容来看：一是在更大范围内支持...",
-     "source": "经济观察网",
-     "zh": "中国人民银行、国家外汇管理局：在全国范围开展跨国公司本外币跨境资金集中运营业务"
-    },
-    {
-     "title": "北京市推动传统老品牌守正创新、提质焕新",
-     "link": "http://www.eeo.com.cn/2026/0815/998758.shtml",
-     "pubDate": "Sat, 15 Aug 2026 02:26:12 +0800",
-     "summary": "近日，北京市商务局等6部门联合印发《北京市促进餐饮和食品领域老字号传承发展若干措施》（以下简称《若干措施》）。《若干措施》从老字号保护、传承、创新、发展和管理服务五大维度推出18条举措，推动传统老品牌守正创新、提质焕新。 据此，北京市商务局相关处室加挂了“老字号发展处”牌子，这也是目前全国商务系统中的首例，标志着北京对老字号的支持进入了制度化、专业化的新阶段。 苏商银行特约研究员付一夫在...",
-     "source": "经济观察网",
-     "zh": "北京市推动传统老品牌守正创新、提质焕新"
-    },
-    {
-     "title": "AI漫剧“出海”需补齐三类能力",
-     "link": "http://www.eeo.com.cn/2026/0815/998759.shtml",
-     "pubDate": "Sat, 15 Aug 2026 02:26:10 +0800",
-     "summary": "■李豪悦 近期，一部改编自起点读书同名小说的国产AI（人工智能）漫剧《我的叔叔堂吉诃德》第二季上线，随后相关内容在海外社交平台引发关注。海外用户围绕该作品的画面质感、现代纽约版堂吉诃德的创意设定，以及AI连续叙事能力展开热烈讨论。这一现象折射出，整个国产AI漫剧行业正在经历深刻变革。 过去两年，AI漫剧的叙事核心始终是降本增效。随着生成式AI工具的普及，漫剧的制作流程被大幅压缩，制作成本也显著...",
-     "source": "经济观察网",
-     "zh": "AI漫剧“出海”需补齐三类能力"
     }
    ]
   },

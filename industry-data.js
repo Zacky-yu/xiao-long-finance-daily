@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/16 01:46:36",
+ "generated_at": "2026/8/16 02:29:17",
  "recent_days": 7,
  "industries": [
   {
@@ -135,7 +135,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400",
      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper ",
      "source": "arXiv cs.AI",
-     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商多代理调度"
+     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商的多代理调度"
     },
     {
      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
@@ -343,7 +343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 14 Aug 2026 15:00:13 +0000",
      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transistors while enabling strong gate control. Silicon transistors are approaching physical limits that make ea",
      "source": "SemiWiki",
-     "zh": "台积电的 0.42 纳米突破可以推动晶体管超越硅"
+     "zh": "台积电的 0.42 纳米突破可能推动晶体管超越硅"
     },
     {
      "title": "Google joins OpenROAD EDA initiative",
@@ -831,7 +831,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 12 Aug 2026 17:15:41 +0000",
      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
      "source": "TechCrunch Transport",
-     "zh": "据报道，Uber Freight 在黑客组织声称数据泄露后正在进行调查"
+     "zh": "据报道 Uber Freight 在黑客组织声称数据泄露后正在进行调查"
     },
     {
      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
@@ -855,7 +855,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 15 Aug 2026 12:00:00 -0500",
      "summary": "Following a year of tighter sanctions and Ukrainian attacks on refineries, ports and tankers, Russia’s crude output has fallen further in the second half of 2026, severely affecting the nation’s crude production outlook. Factoring in these disruptions, Rystad Energy has revised its Russian crude pro",
      "source": "OilPrice",
-     "zh": "俄罗斯石油工业已经没有足够的空间来吸收更多的冲击"
+     "zh": "俄罗斯石油工业已经没有空间来承受更多冲击"
     },
     {
      "title": "Mexico Is Betting on Biofuel to Tackle Its Seaweed Crisis",
@@ -986,12 +986,12 @@ window.INDUSTRY_DATA = {
      "zh": "量子计算正在快速到来。公用事业准备好了吗？"
     },
     {
-     "title": "WSP capitalizes on surging US power work",
+     "title": "WSP capitalizes on surging US power infrastructure construction",
      "link": "https://www.utilitydive.com/news/wsp-power-generation-nuclear-data-centers-construction-us/827577/",
      "pubDate": "Fri, 14 Aug 2026 10:40:05 -0400",
      "summary": "Power now accounts for as much as 40% of the company&rsquo;s revenue, CEO Alexandre L&rsquo;Heureux said during a second-quarter earnings call.",
      "source": "Utility Dive",
-     "zh": "科进充分利用美国电力工作的激增"
+     "zh": "科进充分利用美国电力基础设施建设的蓬勃发展"
     },
     {
      "title": "Recurrent Energy bags US$695 million for 330MW California solar project",
@@ -1018,12 +1018,20 @@ window.INDUSTRY_DATA = {
      "zh": "“数据准确性是最重要的事情之一”：enSights 首席执行官谈 PJM 中的 BESS 经济学"
     },
     {
+     "title": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals",
+     "link": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
+     "pubDate": "Fri, 14 Aug 2026 09:02:30 -0400",
+     "summary": "PowerTransitions aims to buy a 1.2-GW power plant in New York for&nbsp;an &ldquo;energy campus.&rdquo; &nbsp; TransAlta intends to buy two&nbsp;power plants in Colorado totaling about 319 MW.",
+     "source": "Utility Dive",
+     "zh": "FERC 批准 TransAlta 和 PowerTransitions 燃气发电厂交易"
+    },
+    {
      "title": "The Hydrogen Stream: Commissioning begins for 2.2 GW Neom H2 project in Saudi Arabia",
      "link": "https://www.pv-magazine.com/2026/08/14/the-hydrogen-stream-commissioning-begins-for-2-2-gw-neom-h2-project-in-saudi-arabia/",
      "pubDate": "Fri, 14 Aug 2026 12:43:37 +0000",
      "summary": "In other news, the Schleswig-Holstein Ministry of Energy Transition reportedly confirmed the cancellation of the 2.1 GW HyScale 100 electrolyzer project at a German refinery, with a lack of planning certainty cited among the reasons. Power to Hydrogen has begun installing a 500 kW AEM electrolyzer i",
      "source": "pv magazine",
-     "zh": "氢流：沙特阿拉伯 2.2 吉瓦 Neom H2 项目开始调试"
+     "zh": "氢流：沙特阿拉伯 2.2 GW Neom H2 项目开始调试"
     },
     {
      "title": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "On this episode of the This Week in Cleantech podcast, Mark Chediak from Bloomberg breaks down Trump's new 15% tariffs and price floors on imported polysilicon and its derivatives, including wafers, cells and modules.",
      "source": "Renewable Energy World",
      "zh": "特朗普新的太阳能关税能否缓解国内供应问题？ ——本周《清洁技术》"
-    },
-    {
-     "title": "FEOC compliance doesn’t end at signing. Here’s where it actually breaks down",
-     "link": "https://www.pv-tech.org/feoc-compliance-doesnt-end-at-signing-heres-where-it-actually-breaks-down/",
-     "pubDate": "Fri, 14 Aug 2026 09:34:57 +0000",
-     "summary": "Foreign Entity of Concern rules create a multitude of new risks for US solar developers, some less visible than others. Intertek CEA’s Jordan Wilson explores the key steps towards minimising FEOC exposure in PV module purchase agreements.",
-     "source": "PV Tech",
-     "zh": "FEOC 合规性并不会在签署时结束。这是它真正崩溃的地方"
     }
    ]
   },
@@ -1762,18 +1762,42 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+     "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+     "pubDate": "Sat, 15 Aug 2026 18:13:02 +0000",
+     "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 12 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "人工智能并不比数学家聪明。它已经超出了记住他们的范围"
+    },
+    {
+     "title": "Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)",
+     "link": "https://www.techmeme.com/260815/p13#a260815p13",
+     "pubDate": "Sat, 15 Aug 2026 14:00:40 -0400",
+     "summary": "Alix Coutures / The Information : Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired &nbsp; &mdash;&nbsp; Eight days after AI agent startup Warmly in late June agreed to be acquired by HubSpo",
+     "source": "Techmeme",
+     "zh": "资料来源：Mercor 和其他为人工智能实验室收集数据的公司正在推动对关闭或被收购的初创公司购买或许可内部数据集的需求（Alix Coutures/The Information）"
+    },
+    {
      "title": "TreasuryDirect: Prepare for ID.me – Your New Way to Log In",
      "link": "https://www.treasurydirect.gov/savings-bonds/idme-one-month/",
      "pubDate": "Sat, 15 Aug 2026 17:30:02 +0000",
-     "summary": "Article URL: https://www.treasurydirect.gov/savings-bonds/idme-one-month/ Comments URL: https://news.ycombinator.com/item?id=49312465 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://www.treasurydirect.gov/savings-bonds/idme-one-month/ Comments URL: https://news.ycombinator.com/item?id=49312465 Points: 16 # Comments: 13",
      "source": "Hacker News",
      "zh": "TreasuryDirect：准备 ID.me – 您的新登录方式"
+    },
+    {
+     "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+     "link": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
+     "pubDate": "Sat, 15 Aug 2026 17:21:26 +0000",
+     "summary": "Article URL: https://www.bbc.com/news/articles/c4gxy0wqqd9o Comments URL: https://news.ycombinator.com/item?id=49312413 Points: 31 # Comments: 11",
+     "source": "Hacker News",
+     "zh": "夏季热浪过后，从太空看到欧洲烧焦的风景"
     },
     {
      "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
      "link": "https://www.core77.com/posts/144869",
      "pubDate": "Sat, 15 Aug 2026 16:53:47 +0000",
-     "summary": "Article URL: https://www.core77.com/posts/144869 Comments URL: https://news.ycombinator.com/item?id=49312165 Points: 10 # Comments: 0",
+     "summary": "Article URL: https://www.core77.com/posts/144869 Comments URL: https://news.ycombinator.com/item?id=49312165 Points: 31 # Comments: 13",
      "source": "Hacker News",
      "zh": "人们居住在湖中狭长土地上的荷兰社区"
     },
@@ -1797,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
      "link": "https://www.nature.com/articles/d41586-026-02448-x",
      "pubDate": "Sat, 15 Aug 2026 16:38:34 +0000",
-     "summary": "Article URL: https://www.nature.com/articles/d41586-026-02448-x Comments URL: https://news.ycombinator.com/item?id=49312008 Points: 47 # Comments: 4",
+     "summary": "Article URL: https://www.nature.com/articles/d41586-026-02448-x Comments URL: https://news.ycombinator.com/item?id=49312008 Points: 73 # Comments: 21",
      "source": "Hacker News",
      "zh": "一项备受争议的阿尔茨海默氏症手术据说可以逆转症状"
     },
@@ -1813,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
      "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
      "pubDate": "Sat, 15 Aug 2026 15:58:53 +0000",
-     "summary": "Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 60 # Comments: 19",
+     "summary": "Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 126 # Comments: 72",
      "source": "Hacker News",
      "zh": "索马鲁肽可将 5 年预测痴呆风险降低 26%"
     },
@@ -1906,28 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "法国宪法委员会否决青少年社媒禁令"
     },
     {
-     "title": "A Spectre Is Haunting Unicode",
-     "link": "https://www.dampfkraft.com/ghost-characters.html",
-     "pubDate": "Sat, 15 Aug 2026 14:34:04 +0000",
-     "summary": "Article URL: https://www.dampfkraft.com/ghost-characters.html Comments URL: https://news.ycombinator.com/item?id=49310926 Points: 26 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Unicode 中的幽灵"
-    },
-    {
      "title": "Alibaba&apos;s open-weight models have accumulated 3B+ global downloads in the past six months; Hugging Face: Google had 418M downloads while Meta had 227M in 2026 (Saritha Rai/Bloomberg)",
      "link": "https://www.techmeme.com/260815/p10#a260815p10",
      "pubDate": "Sat, 15 Aug 2026 10:30:00 -0400",
      "summary": "Saritha Rai / Bloomberg : Alibaba's open-weight models have accumulated 3B+ global downloads in the past six months; Hugging Face: Google had 418M downloads while Meta had 227M in 2026 &nbsp; &mdash;&nbsp; Alibaba Group Holding's open-weight models have accumulated more than 3 billion global downloa",
      "source": "Techmeme",
-     "zh": "阿里巴巴的开放权重模型在过去六个月累计全球下载量达到3B+； Hugging Face：2026 年 Google 的下载量为 4.18 亿，而 Meta 的下载量为 2.27 亿（Saritha Rai/Bloomberg）"
-    },
-    {
-     "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
-     "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-     "pubDate": "Sat, 15 Aug 2026 14:04:49 +0000",
-     "summary": "Article URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/ Comments URL: https://news.ycombinator.com/item?id=49310682 Points: 100 # Comments: 37",
-     "source": "Hacker News",
-     "zh": "首次在家检测受感染蜱虫可改善莱姆病诊断"
+     "zh": "阿里巴巴的开放权重模型在过去六个月累计全球下载量达到3B+； Hugging Face：2026 年 Google 的下载量为 4.18 亿，而 Meta 的下载量为 2.27 亿（Saritha Rai/彭博社）"
     },
     {
      "title": "Every fusion startup that has raised over $100M",
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
      "source": "Ars Technica",
      "zh": "如此多的太阳能：深入研究今年上线的每家美国发电厂名单"
-    },
-    {
-     "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
-     "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
-     "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000",
-     "summary": "This affordable electric BMX delighted my entire family, even if its range, ride comfort, and actual BMX abilities are limited.",
-     "source": "WIRED",
-     "zh": "Retrospec Joe Rev 2 评测 (2026)：将“欢乐”融入 Joyride"
     }
    ]
   },
@@ -2009,6 +2009,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Anthropic is watermarking text generated by Claude to comply with EU law",
+     "link": "https://www.engadget.com/2237691/anthropic-watermarking-text-generated-by-claude/",
+     "pubDate": "Sat, 15 Aug 2026 18:08:36 +0000",
+     "summary": "Anthropic has explained its text watermarking approach.",
+     "source": "Engadget",
+     "zh": "Anthropic 是 Claude 为遵守欧盟法律而生成的水印文本"
+    },
+    {
+     "title": "The Airseekers Tron is an impressive mulching robot mower with a couple of frustrating flaws",
+     "link": "https://www.androidauthority.com/airseekers-tron-review-3686518/",
+     "pubDate": "Sat, 15 Aug 2026 18:00:12 +0000",
+     "summary": "The Airseekers Tron is a resilient mower that cuts and mulches, but it's a little rough around the edges.",
+     "source": "Android Authority",
+     "zh": "Airseeker Tron 是一款令人印象深刻的覆盖机器人割草机，但有一些令人沮丧的缺陷"
+    },
+    {
+     "title": "What the world's oldest telecommunications company looks like today",
+     "link": "https://www.engadget.com/2236190/worlds-oldest-telecommunications-company-what-looks-like-today/",
+     "pubDate": "Sat, 15 Aug 2026 18:00:00 +0000",
+     "summary": "While there have been many twists and turns in the company's evolution, it remains one of the biggest names in the telecommunications industry.",
+     "source": "Engadget",
+     "zh": "世界上最古老的电信公司如今是什么样子"
+    },
     {
      "title": "Here's how to reset your ASUS router",
      "link": "https://www.engadget.com/2234242/how-to-reset-asus-router/",
@@ -2090,14 +2114,6 @@ window.INDUSTRY_DATA = {
      "zh": "这些是我最喜欢的 2026 年超薄 iPhone 配件 [视频]"
     },
     {
-     "title": "What happens when a hybrid battery dies and what to do about it",
-     "link": "https://www.engadget.com/2234238/what-happens-when-hybrid-battery-dies/",
-     "pubDate": "Sat, 15 Aug 2026 13:30:00 +0000",
-     "summary": "Don't wait to have your car checked out if its traction battery is having problems.",
-     "source": "Engadget",
-     "zh": "混合动力电池耗尽时会发生什么以及该怎么办"
-    },
-    {
      "title": "Pixel 11 ads show a mysterious screen-equipped tracker that’s not Pixel Watch 5 or Fitbit Air [Gallery]",
      "link": "https://9to5google.com/2026/08/15/google-pixel-11-ad-unknown-fitbit-tracker/",
      "pubDate": "Sat, 15 Aug 2026 13:30:00 +0000",
@@ -2112,14 +2128,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google launched its new Pixel 11 series earlier this week – there is a new vanilla, two new Pro and one new foldable model. All that’s missing now is an affordable a-phone. The massive increase in RAM prices has affected the Pixel series. Google now offers 256GB storage as standard on all 11-series ",
      "source": "GSMArena",
      "zh": "优惠：Google Pixel 11 系列预购开始"
-    },
-    {
-     "title": "USB4 Vs USB-C: What's the difference between them?",
-     "link": "https://www.engadget.com/2234235/usb4-vs-usbc-differences-between-explained/",
-     "pubDate": "Sat, 15 Aug 2026 13:00:00 +0000",
-     "summary": "There's a pretty major difference between USB-C and USB4. We'll dive into the details and how to tell them apart.",
-     "source": "Engadget",
-     "zh": "USB4 与 USB-C：它们之间有什么区别？"
     },
     {
      "title": "Google is still asking Fold buyers to compromise as its competitors are better than ever",
@@ -2186,14 +2194,6 @@ window.INDUSTRY_DATA = {
      "zh": "Pixel 11 还是 Pixel 10a？这就是为什么 Pixel 11 确实更值 400 美元"
     },
     {
-     "title": "I tried 2 popular Flighty alternatives for Android, but there’s only one I’d pick",
-     "link": "https://www.androidauthority.com/i-tried-two-flighty-alternatives-android-3696341/",
-     "pubDate": "Sat, 15 Aug 2026 09:00:17 +0000",
-     "summary": "Android finally has some genuinely great Flighty alternatives.",
-     "source": "Android Authority",
-     "zh": "我尝试了 2 种流行的 Android 版 Flighty 替代品，但我只选择一种"
-    },
-    {
      "title": "Google now lets you remove Gemini's visible watermark",
      "link": "https://www.gsmarena.com/google_now_lets_you_remove_geminis_visible_watermark_-news-74188.php",
      "pubDate": "Sat, 15 Aug 2026 10:11:03 +0200",
@@ -2258,6 +2258,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Owning a home is overrated. Renting is now often a much better money move.",
+     "link": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 15 Aug 2026 18:23:00 GMT",
+     "summary": "There are better ways to think about investments than homeownership.",
+     "source": "MarketWatch",
+     "zh": "拥有房屋被高估了。现在租房往往是一种更好的赚钱方式。"
+    },
+    {
+     "title": "五部门发布交通标准化“十五五”规划 布局自动驾驶、轨道互通全链条标准",
+     "link": "http://finance.eastmoney.com/news/1348,202608153842456295.html",
+     "pubDate": "Sun, 16 Aug 2026 02:20:35 +0800",
+     "summary": "一套覆盖路网建设、智慧交通、绿色低碳、国际联通、安全保障全链条的 综合 交通运输 标准化顶层设计正式落地。8月11日， 交通运输 部、市场监管总局、国家铁路局等五部门联合发布《 综合 交通运输 标准化发展“十五五”规划》（以下简称《规划》），明确到2030年我国交通标准化实现从“规模数量型”转向“质量效益型”，通过改革创新扩容优质标准供给、打通标准落地闭环、扩大国际规则联通，以标准化引领交通运输新质生产力培育，为现代化 综合 交通体系筑牢制度底座。 标准化为交通运输发展提供统一规则、质量底线和协同目标，是支撑现代化综合交通运输体系建设的重要基础。交通运输部科技司相关负责人表示，《规划》瞄准加快",
+     "source": "东方财富股票",
+     "zh": "五部门发布交通标准化“十五五”规划 布局自动驾驶、轨道互通全链条标准"
+    },
+    {
+     "title": "受美国海上封锁影响 伊朗实际上已经停止汽油进口",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842459085.html",
+     "pubDate": "Sun, 16 Aug 2026 02:11:45 +0800",
+     "summary": "伊朗议会能源委员会发言人礼萨·塞帕万周六表示，受美国海上封锁影响，伊朗实际上已经停止汽油进口。“我们目前面临海上封锁，汽油进口已经中断。”塞帕万警告，如果推行拟议中的国民身份证燃油配给方案，政府后续或将被迫按照国际市场及波斯湾离岸价进口汽油，进而推高成本，扩大财政赤字。他称，受机动车保有量影响，伊朗正遭遇燃油供应难题。塞帕万表示，伊朗汽油日产量已达峰值1.3亿升，但日消耗量为1.37亿升。他称：“即便达到这一产出水平，我们依旧面临燃油供应缺口。” （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "受美国海上封锁影响 伊朗实际上已经停止汽油进口"
+    },
+    {
+     "title": "也门：马里卜遭胡塞武装炮击 发生第四起爆炸",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842458944.html",
+     "pubDate": "Sun, 16 Aug 2026 02:11:45 +0800",
+     "summary": "也门：马里卜遭胡塞武装炮击，发生第四起爆炸。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "也门：马里卜遭胡塞武装炮击 发生第四起爆炸"
+    },
+    {
+     "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
+     "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
+     "pubDate": "Sat, 15 Aug 2026 18:05:00 GMT",
+     "summary": "For diversification in the stock market, there are actively managed alternatives to index funds.",
+     "source": "MarketWatch",
+     "zh": "一只持有多达 800 只股票的主动基金正在跑赢主要指数。方法如下。"
+    },
+    {
+     "title": "海湾合作委员会秘书长：伊朗的袭击是不可接受的升级行为",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842458885.html",
+     "pubDate": "Sun, 16 Aug 2026 02:02:36 +0800",
+     "summary": "海湾合作委员会秘书长：伊朗的袭击是不可接受的升级行为，严重侵犯了国际航行自由。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "海湾合作委员会秘书长：伊朗的袭击是不可接受的升级行为"
+    },
+    {
+     "title": "产能局部过剩叠加国补退坡 伟明环保上半年净利下降逾三成 财务费用同比激增",
+     "link": "http://finance.eastmoney.com/news/1354,202608153842457074.html",
+     "pubDate": "Sun, 16 Aug 2026 02:00:41 +0800",
+     "summary": "8月14日晚间， 伟明环保 (603568)披露2026年半年报，公司上半年实现营业收入30.69亿元，同比下滑21.39%；归母净利润为9.30亿元，同比下滑34.76%；扣非净利润为8.67亿元，同比下滑36.70%。 从营收结构看，公司三大板块呈分化态势。 环保 项目运营收入18.40亿元，仍是业绩压舱石；装备、EPC及服务收入7.11亿元； 新材料 产品收入4.96亿元。各板块合力仍难阻总收入下滑，显示主营业务增长动能乏力，新增长点尚未成型。 费用端的攀升成为业绩“杀手”。上半年，公司财务费用达1.78亿元，同比增加36.46%，公司解释主要为汇兑损益及利息支出增加所致。在收入下滑两成",
+     "source": "东方财富股票",
+     "zh": "产能局部过剩叠加国补退坡 伟明环保上半年净利下降逾三成 财务费用同比激增"
+    },
+    {
+     "title": "海湾合作委员会秘书长：我们谴责伊朗对阿联酋阿布扎比国家石油公司ADNOC油轮及霍尔木兹海峡船只的屡次袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842458733.html",
+     "pubDate": "Sun, 16 Aug 2026 02:00:36 +0800",
+     "summary": "海湾合作委员会秘书长：我们谴责伊朗对阿联酋阿布扎比国家石油公司ADNOC油轮及霍尔木兹海峡船只的屡次袭击。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "海湾合作委员会秘书长：我们谴责伊朗对阿联酋阿布扎比国家石油公司ADNOC油轮及霍尔木兹海峡船只的屡次袭击"
+    },
+    {
      "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
      "link": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
      "pubDate": "Sat, 15 Aug 2026 17:35:09 GMT",
@@ -2274,28 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "随着 Meta 解散收购交易，中国将取消对 Manus 创始人的旅行禁令：FT"
     },
     {
-     "title": "英伟达首度披露",
-     "link": "http://finance.eastmoney.com/news/1354,202608153842457371.html",
-     "pubDate": "Sun, 16 Aug 2026 01:20:00 +0800",
-     "summary": "据CNBC报道， 英伟达 当地时间14日向美国证券交易委员会提交的监管文件显示，截至今年二季度末，公司持有马斯克旗下 SpaceX 约1.228亿股A类股票，价值约210亿美元，为 SpaceX 第六大投资者。 根据金融数据机构FactSet的数据， SpaceX 第一大股东为马斯克本人，按二季度末股价测算，其持股账面价值约8500亿美元。而 英伟达 的210亿美元持仓是该公司第二大股权持仓，仅次于 英特尔 。受近期SpaceX股价回调影响，该持仓当前市值已缩水。SpaceX股价14日收于140美元，较6月底的170.86美元下跌约18%， 英伟达 持股对应市值降至约172亿美元。 报道称，英",
-     "source": "东方财富股票",
-     "zh": "英伟达首度披露"
-    },
-    {
      "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
      "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
      "pubDate": "Sat, 15 Aug 2026 17:15:00 GMT",
      "summary": "“I don’t expect my marginal tax rate to be materially different in the future.”",
      "source": "MarketWatch",
      "zh": "我今年 63 岁，是一名退休注册会计师，拥有 120 万美元的 401(k) 资金。我需要费心进行罗斯转换吗？"
-    },
-    {
-     "title": "“读心”黑科技从电影走进现实 广州脑机接口技术进入医院，帮助中风偏瘫患者重新站立",
-     "link": "http://finance.eastmoney.com/news/1354,202608163842458442.html",
-     "pubDate": "Sun, 16 Aug 2026 01:12:01 +0800",
-     "summary": "想象一下，你在脑中发出指令， 机器人 便辅助你的身体完成抬手、迈步等动作——这并非科幻电影，而是“ 脑机接口 技术”正在实现的应用。过去听起来如同魔法的“意念控制”身体运动，如今已走进现实，进入 医院 ，帮助中风、偏瘫患者重新站立。7月31日，广州白云区太和人民 医院 脑机接口 医学中心正式揭牌。该院引入力之智能全套国产无创脑机康复方案，成为国内医工融合落地实践的又一缩影。 统筹张琼霞本版文、图信息时报记者王文雨（除署名外） 14年磨一剑，黑科技从高校实验室走向规模化量产 开创之路 什么是“ 脑机接口 ”？在大众熟知的科幻影片中，脑机接口就是在大脑植入芯片，通过意念操控万物。力之智能科技（广州",
-     "source": "东方财富股票",
-     "zh": "“读心”黑科技从电影走进现实 广州脑机接口技术进入医院，帮助中风偏瘫患者重新站立"
     },
     {
      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
@@ -2306,14 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "芭蕾平底鞋如此受欢迎，就连勃肯 (Birkenstock) 和卡骆驰 (Crocs) 等品牌也纷纷从这一趋势中获利"
     },
     {
-     "title": "邦迪枪击案后澳新州将启动枪支回购计划",
-     "link": "http://finance.eastmoney.com/news/1351,202608163842458384.html",
-     "pubDate": "Sun, 16 Aug 2026 01:00:17 +0800",
-     "summary": "据澳大利亚方面当地时间15日消息，澳新南威尔士州政府将启动枪支回购计划。这是去年该州发生悉尼邦迪滩枪击事件后收紧枪支管控的最新举措。 据悉，该计划将于11月2日启动，新州因此将成为澳大利亚首个实施相关枪支回购计划的州。预计约有5万名持枪许可证持有人将受到新规影响，涉及枪支约27.4万支。根据回购计划，不同类型枪支的补偿标准从每支450至1000澳元不等（约合2150至4780元人民币），部分高价值枪支的补偿上限为每支1万澳元（约合4.78万元人民币）。 新州州长克里斯·明斯15日在一份声明中说，邦迪滩枪击事件后，新州出台了更严格的枪支管控法律，下一步是回收并销毁根据新规不得继续持有的枪支。“社",
-     "source": "东方财富股票",
-     "zh": "邦迪枪击案后澳新州将启动枪支回购计划"
-    },
-    {
      "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
      "link": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
      "pubDate": "Sat, 15 Aug 2026 16:52:00 GMT",
@@ -2322,36 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "特朗普账户和祖父母 529 未来会降低大学学费吗？"
     },
     {
-     "title": "印尼中苏拉威西省附近海域发生6.2级地震",
-     "link": "http://finance.eastmoney.com/news/1351,202608163842458110.html",
-     "pubDate": "Sun, 16 Aug 2026 00:40:15 +0800",
-     "summary": "据印尼气象、气候和地球物理局发布的报告，当地时间8月15日23时25分，印尼中苏拉威西省附近海域发生6.2级地震， 震源深度44公里。预计不会有海啸风险。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "印尼中苏拉威西省附近海域发生6.2级地震"
-    },
-    {
-     "title": "深圳一酒吧多名女子穿近似海航空姐制服跳舞，酒吧：系空姐主题；海航发声明",
-     "link": "http://finance.eastmoney.com/news/1354,202608163842458279.html",
-     "pubDate": "Sun, 16 Aug 2026 00:39:08 +0800",
-     "summary": "8月14日晚，海南航空官方发布声明： 近期，我司关注到某酒吧场所内，有人员穿着与海南航空“海天祥云”乘务员制服高度近似的服装进行商业表演及经营活动。 “海天祥云”制服系我司与知名设计师联合打造的第五代品牌制服，我司依法享有该制服的外观设计专利、著作权等 知识产权 。涉事方未经合法授权，擅自使用与我司制服高度近似的服饰开展商业活动，该行为不仅侵犯了我司合法权益，更易对公众造成混淆与误导，严重损害我司品牌形象与声誉。 针对上述侵权行为，我司已采取以下维权措施： 1.第一时间向相关网络平台发起侵权投诉，要求下架违规内容； 2.正式向涉事方寄发律师函，责令其立即停止侵权行为、消除不良影响，并保留通过诉",
-     "source": "东方财富股票",
-     "zh": "深圳一酒吧多名女子穿近似海航空姐制服跳舞，酒吧：系空姐主题；海航发声明"
-    },
-    {
      "title": "Apple gets U.S. warning not to buy memory chips from China: WSJ",
      "link": "https://seekingalpha.com/news/4633586-apple-gets-us-warning-not-to-buy-memory-chips-from-china-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 15 Aug 2026 12:26:50 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "苹果收到美国警告不要从中国购买存储芯片：华尔街日报"
-    },
-    {
-     "title": "中欧北极快航正式常态化运营 畅通“冰上丝绸之路”",
-     "link": "http://finance.eastmoney.com/news/1351,202608163842458024.html",
-     "pubDate": "Sun, 16 Aug 2026 00:25:49 +0800",
-     "summary": "15日19时许，海杰 航运 “迪拜塔”号驶离宁波舟山港，标志着中欧北极集装箱航线（简称中欧北极快航）正式迈入夏季通航季周班运营新阶段，该航线常态化运营为中欧贸易开辟了一条快捷高效、绿色低碳、韧性强劲的北向 物流 大通道。 作为“冰上丝绸之路”核心承 载通 道之一，中欧北极快航所经的北极东北航道是连接东亚与欧洲的新兴国际 航运 线路，有助于提升 航运 效率、促进沿线经贸合作。 “在时效与供应链安全层面，中欧北极快航优势突出。”浙江海港 物流 集团有限公司总经理忻建宁说，相较传统苏伊士运河40天左右的航程，该航线航程缩减近一半，可有效避开地缘扰动带来的船期不稳、成本上涨等问题。 2025年，中国对",
-     "source": "东方财富股票",
-     "zh": "中欧北极快航正式常态化运营 畅通“冰上丝绸之路”"
     },
     {
      "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
@@ -2368,22 +2384,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "房地产股表现不一；数据中心 REITs 盈利，医疗保健 REITs 亏损"
-    },
-    {
-     "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-     "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-     "pubDate": "Sat, 15 Aug 2026 16:00:00 GMT",
-     "summary": "“Some readers — and couples — would be grateful to retire on half that amount.”",
-     "source": "MarketWatch",
-     "zh": "100万美元足够一个家庭退休吗？答案不断变化。"
-    },
-    {
-     "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-     "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
-     "pubDate": "Sat, 15 Aug 2026 16:00:00 GMT",
-     "summary": "“We were advised to return the bonus and take out a home-equity loan.”",
-     "source": "MarketWatch",
-     "zh": "“这是一把双刃剑”：我丈夫获得了 42,000 美元的奖金。它会消除我们的《平价医疗法案》补贴吗？"
     },
     {
      "title": "Bill Gates’ Portfolio Just Added Home Depot (HD) Despite Risks. Time to Buy?",

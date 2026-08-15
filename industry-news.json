@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/16 00:24:10",
+ "generated_at": "2026/8/16 00:50:35",
  "recent_days": 7,
  "industries": [
   {
@@ -126,7 +126,7 @@
      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400",
      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper ",
      "source": "arXiv cs.AI",
-     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商多代理调度"
+     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商的多代理调度"
     },
     {
      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
@@ -313,22 +313,6 @@
      "zh": "Lotes 认为供应紧张，但需求保持不变"
     },
     {
-     "title": "How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/how-to-develop-edge-ai-on-a-raspberry-pi-with-litert-and-gemma-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 15:54:30 +0000",
-     "summary": "This is an interesting one from Google's Developer blog: an example project on Edge AI using a Raspberry Pi along with LiteRT and Gemma. The post How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "如何：使用 LiteRT 和 Gemma 在 Raspberry Pi 上开发边缘 AI"
-    },
-    {
-     "title": "Standards and AI will shape-shift EDA",
-     "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/standards-and-ai-will-shape-shift-eda-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 15:52:17 +0000",
-     "summary": "As AI and machine learning are getting more and more integrated into the EDA workflows, there are new challenges emerging around areas such as interoperability, data exchange, trust, and reproducibility. […] The post Standards and AI will shape-shift EDA appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "标准和人工智能将改变 EDA"
-    },
-    {
      "title": "An Introduction to Software Prototyping: Unlocking SoC Software Verification with proFPGA CS",
      "link": "https://www.eetimes.com/an-introduction-to-software-prototyping-unlocking-soc-software-verification-with-profpga-cs/",
      "pubDate": "Fri, 14 Aug 2026 15:22:50 +0000",
@@ -342,31 +326,7 @@
      "pubDate": "Fri, 14 Aug 2026 15:00:13 +0000",
      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transistors while enabling strong gate control. Silicon transistors are approaching physical limits that make ea",
      "source": "SemiWiki",
-     "zh": "台积电的 0.42 纳米突破可以推动晶体管超越硅"
-    },
-    {
-     "title": "Google joins OpenROAD EDA initiative",
-     "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/google-joins-openroad-eda-initiative-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 14:01:02 +0000",
-     "summary": "Google is joining the OpenROAD Initiative (ORI) as a principal member, for its open source electronic design automation (EDA). As is customary, Google’s Technical Program Manager, Aaron Cunningham, is joining […] The post Google joins OpenROAD EDA initiative appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Google 加入 OpenROAD EDA 计划"
-    },
-    {
-     "title": "CHIIPS #37 – CHIIPs with DVCon’s Mark Burton",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-37-chiips-with-dvcons-mark-burton-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 13:37:48 +0000",
-     "summary": "Don't miss the latest episode of our Electronics Weekly podcast, CHIIPS. It features Mark Burton - DVCon's technical programme chair. The post CHIIPS #37 – CHIIPs with DVCon’s Mark Burton appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "CHIIPS #37 – DVCon 的 Mark Burton 的 CHIIP"
-    },
-    {
-     "title": "President Bush, Qualcomm, the CTIA, Broadcom and the ITC square up",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/president-bush-qualcomm-the-ctia-broadcom-and-the-itc-square-up-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 13:24:05 +0000",
-     "summary": "19 years ago the tech industry was up to its old trick of roping in the government to fight its battles. ‘The CTIA Wireless Association in the US has backed […] The post President Bush, Qualcomm, the CTIA, Broadcom and the ITC square up appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "布什总统、高通、CTIA、博通和 ITC 联手"
+     "zh": "台积电的 0.42 纳米突破可能推动晶体管超越硅"
     },
     {
      "title": "Intel at a Memory Crossroads, Again",
@@ -391,14 +351,6 @@
      "summary": "Semiconductor equipment OEMs look to build-to-print for greater capacity. The post Semiconductor Equipment Shifts To Build-to-Print Manufacturing appeared first on EE Times .",
      "source": "EE Times",
      "zh": "半导体设备转向按图生产制造"
-    },
-    {
-     "title": "In-orbit services to generate $3 billion within a decade",
-     "link": "https://www.electronicsweekly.com/news/business/in-orbit-services-to-generate-3-billion-within-a-decade-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 10:42:09 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the latest version of its In-Orbit Services Markets report. The Paris-based analysts calculate that the space sector will generate $3 […] The post In-orbit services to generate $3 billion within a decade appeared first on Ele",
-     "source": "Electronics Weekly",
-     "zh": "在轨服务十年内将创收 30 亿美元"
     },
     {
      "title": "Chip Industry Week In Review",
@@ -495,6 +447,54 @@
      "summary": "As AI clusters push beyond rack-scale limits, optical interconnects and circuit switching are reshaping how data centers scale. The post Copper’s Grip On AI Scaling Is Starting To Slip appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "铜对人工智能扩展的控制力开始下滑"
+    },
+    {
+     "title": "DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory",
+     "link": "https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory/",
+     "pubDate": "Thu, 13 Aug 2026 07:08:19 +0000",
+     "summary": "The ability to move and manage data efficiently is a defining challenge for data center architects. The post DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "DDR5 9600 RDIMM：提高服务器内存的性能基准"
+    },
+    {
+     "title": "What Self-Verifying Means In Agentic EDA Workflows And Why It Matters",
+     "link": "https://semiengineering.com/what-self-verifying-means-in-agentic-eda-workflows-and-why-it-matters/",
+     "pubDate": "Thu, 13 Aug 2026 07:07:35 +0000",
+     "summary": "Grounding agent decisions in their output is what transforms orchestration into something engineers can build on with confidence. The post What Self-Verifying Means In Agentic EDA Workflows And Why It Matters appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "自我验证在代理 EDA 工作流程中意味着什么及其重要性"
+    },
+    {
+     "title": "Veeco’s Q2 results exceed guidance",
+     "link": "https://www.semiconductor-today.com/news_items/2026/aug/veeco-120826.shtml",
+     "pubDate": "Wed, 12 Aug 2026 11:25:51 +0100",
+     "summary": "For second-quarter 2026, epitaxial deposition and process equipment maker Veeco Instruments Inc of Plainview, NY, USA has reported revenue of $193.5m, up 22% on $158.3m last quarter and 16.5% on $166.1m a year ago, and exceeding the $170–190m guidance...",
+     "source": "Semiconductor Today",
+     "zh": "Veeco 第二季度业绩超出预期"
+    },
+    {
+     "title": "OpenLight and Tower expand PH18DA photonics ecosystem to accelerate photonic IC development",
+     "link": "https://www.semiconductor-today.com/news_items/2026/aug/openlight-tower-120826.shtml",
+     "pubDate": "Wed, 12 Aug 2026 10:13:02 +0100",
+     "summary": "Photonic application-specific integrated circuit (PASIC) chip designer and manufacturer OpenLight of Goleta, Santa Barbara, CA, USA (which launched as an independent company in 2022, introducing the first open silicon photonics platform with heterogeneously integrated III-V lasers, modulators, ampli",
+     "source": "Semiconductor Today",
+     "zh": "OpenLight 和 Tower 拓展 PH18DA 光子生态系统，加速光子 IC 开发"
+    },
+    {
+     "title": "Soctera raises $4m in seed funding round",
+     "link": "https://www.semiconductor-today.com/news_items/2026/aug/soctera-110826.shtml",
+     "pubDate": "Tue, 11 Aug 2026 21:08:55 +0100",
+     "summary": "Soctera of Ithaca, NY USA has closed a $4m in seed funding round backed by Anorak Ventures and Multiball Capital, with additional participation from 9Yards Capital, Mana Ventures, and Red Bear Ventures. The firm will use the funding to develop its thermally optimized III-nitride millimeter-wave powe",
+     "source": "Semiconductor Today",
+     "zh": "Soctera 在种子轮融资中筹集了 400 万美元"
+    },
+    {
+     "title": "CSconnected unveils awardees for final call of £1m Supply Chain Development Programme",
+     "link": "https://www.semiconductor-today.com/news_items/2026/aug/csconnected-110826.shtml",
+     "pubDate": "Tue, 11 Aug 2026 12:39:28 +0100",
+     "summary": "The South Wales-based compound semiconductor cluster CSconnected Ltd has announced the successful applicants to the fourth and final funding call of its £1m Supply Chain Development Programme, delivered in partnership with Cardiff Capital Region (CCR). The program provides grants of up to £100,000 t",
+     "source": "Semiconductor Today",
+     "zh": "CSconnected 揭晓 100 万英镑供应链发展计划最终获奖者名单"
     }
    ]
   },
@@ -830,7 +830,7 @@
      "pubDate": "Wed, 12 Aug 2026 17:15:41 +0000",
      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
      "source": "TechCrunch Transport",
-     "zh": "据报道，Uber Freight 在黑客组织声称数据泄露后正在进行调查"
+     "zh": "据报道 Uber Freight 在黑客组织声称数据泄露后正在进行调查"
     },
     {
      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
@@ -1022,7 +1022,7 @@
      "pubDate": "Fri, 14 Aug 2026 12:43:37 +0000",
      "summary": "In other news, the Schleswig-Holstein Ministry of Energy Transition reportedly confirmed the cancellation of the 2.1 GW HyScale 100 electrolyzer project at a German refinery, with a lack of planning certainty cited among the reasons. Power to Hydrogen has begun installing a 500 kW AEM electrolyzer i",
      "source": "pv magazine",
-     "zh": "氢流：沙特阿拉伯 2.2 吉瓦 Neom H2 项目开始调试"
+     "zh": "氢流：沙特阿拉伯 2.2 GW Neom H2 项目开始调试"
     },
     {
      "title": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
@@ -1761,6 +1761,30 @@
    "total": 18,
    "items": [
     {
+     "title": "当放水不再流向工资袋",
+     "link": "https://www.huxiu.com/article/4883403.html?f=rss",
+     "pubDate": "Sun, 16 Aug 2026 00:41:47 +0800",
+     "summary": "本文来自微信公众号： 三更一勾帘下斜 ，作者：三更一勾帘下斜 当“放水”不再流向工资袋：7月金融数据里的结构性真相 信贷负增、产能利用率新低、居民净还贷——这些看似矛盾的信号，指向同一个被忽视的变量：机器正在替代人，而货币流动性没有流进普通人的工资袋。 一、一组“拧巴”的数据 7月金融数据落地，市场普遍感受到较强的下行压力： 社融口径人民币贷款增量**‑5896亿元**，历史罕见转负； 工业产能利用率73.0%，创下2016年统计以来低位； PPI环比再度转负，CPI维持0.5%的低位区间。 粗看是典型总需求不足的图景，但拆开内部结构，呈现出强烈分化： 高技术制造业PMI录得53.3，持续处于",
+     "source": "虎嗅",
+     "zh": "当放水不再流向工资袋"
+    },
+    {
+     "title": "A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online (Washington Post)",
+     "link": "https://www.techmeme.com/260815/p12#a260815p12",
+     "pubDate": "Sat, 15 Aug 2026 12:40:01 -0400",
+     "summary": "Washington Post : A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online &nbsp; &mdash;&nbsp; When Jane Doe 4, as she is identified in legal filings, arrived at her parents' house in Wyoming to s",
+     "source": "Techmeme",
+     "zh": "一名怀俄明州妇女加入了针对 xAI 的联邦诉讼，指控她的继父使用 Grok 将她的一张童年照片变成了他在网上交易的 7,000 多张 CSAM 图片（《华盛顿邮报》）"
+    },
+    {
+     "title": "SpaceX officially closes its Cursor acquisition",
+     "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+     "pubDate": "Sat, 15 Aug 2026 16:30:00 +0000",
+     "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+     "source": "TechCrunch",
+     "zh": "SpaceX 正式完成 Cursor 收购"
+    },
+    {
      "title": "How to tell if your AI platforms’ accounts have been hacked",
      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
      "pubDate": "Sat, 15 Aug 2026 16:10:00 +0000",
@@ -1804,7 +1828,7 @@
      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
      "link": "https://spectrum.ieee.org/ai-designed-virus",
      "pubDate": "Sat, 15 Aug 2026 15:32:25 +0000",
-     "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 15 # Comments: 4",
+     "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 29 # Comments: 22",
      "source": "Hacker News",
      "zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？"
     },
@@ -1857,18 +1881,26 @@
      "zh": "人择细节克劳德的文本水印：它仅表明克劳德可能参与其中，代码和事实文本稀疏，并且在完全重写后消​​失（人择）"
     },
     {
+     "title": "法国宪法委员会否决青少年社媒禁令",
+     "link": "https://www.solidot.org/story?sid=85101",
+     "pubDate": "Sat, 15 Aug 2026 22:58:39 +0800",
+     "summary": "法国宪法委员会否决了禁止 15 岁以下儿童使用社媒的法案，裁定该法律过度限制了言论自由，且缺乏足够的年龄验证隐私保护措施。总统马克龙(Emmanuel Macron)要求政府修改法案，目标是在 2027 年春季前推出修订版本。宪法委员会认为，一方面有争议的条款过度侵犯言论和通信自由；另一方面未能提供必要法律保障确保尊重私人生活的权利。法国议员于 7 月批准了该法案，让法国成为继澳大利亚之后欧洲首个禁止 16 岁以下未成年人使用社媒的国家。澳大利亚于去年 12 月实施了全球首个青少年社媒禁令，禁止 16 岁以下未成年人访问包括 Facebook、Snapchat、TikTok 和 YouTube",
+     "source": "Solidot",
+     "zh": "法国宪法委员会否决青少年社媒禁令"
+    },
+    {
      "title": "Alibaba&apos;s open-weight models have accumulated 3B+ global downloads in the past six months; Hugging Face: Google had 418M downloads while Meta had 227M in 2026 (Saritha Rai/Bloomberg)",
      "link": "https://www.techmeme.com/260815/p10#a260815p10",
      "pubDate": "Sat, 15 Aug 2026 10:30:00 -0400",
      "summary": "Saritha Rai / Bloomberg : Alibaba's open-weight models have accumulated 3B+ global downloads in the past six months; Hugging Face: Google had 418M downloads while Meta had 227M in 2026 &nbsp; &mdash;&nbsp; Alibaba Group Holding's open-weight models have accumulated more than 3 billion global downloa",
      "source": "Techmeme",
-     "zh": "阿里巴巴的开放权重模型在过去六个月累计全球下载量达到3B+； Hugging Face：2026 年 Google 的下载量为 4.18 亿，而 Meta 的下载量为 2.27 亿（Saritha Rai/Bloomberg）"
+     "zh": "阿里巴巴的开放权重模型在过去六个月累计全球下载量达到3B+； Hugging Face：2026 年 Google 的下载量为 4.18 亿，而 Meta 的下载量为 2.27 亿（Saritha Rai/彭博社）"
     },
     {
      "title": "The AI Situation in Software Development",
      "link": "https://srikanth.ch/posts/the-ai-situation/",
      "pubDate": "Sat, 15 Aug 2026 14:12:27 +0000",
-     "summary": "Article URL: https://srikanth.ch/posts/the-ai-situation/ Comments URL: https://news.ycombinator.com/item?id=49310755 Points: 20 # Comments: 8",
+     "summary": "Article URL: https://srikanth.ch/posts/the-ai-situation/ Comments URL: https://news.ycombinator.com/item?id=49310755 Points: 27 # Comments: 21",
      "source": "Hacker News",
      "zh": "软件开发中的人工智能现状"
     },
@@ -1876,7 +1908,7 @@
      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
      "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
      "pubDate": "Sat, 15 Aug 2026 14:04:49 +0000",
-     "summary": "Article URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/ Comments URL: https://news.ycombinator.com/item?id=49310682 Points: 60 # Comments: 13",
+     "summary": "Article URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/ Comments URL: https://news.ycombinator.com/item?id=49310682 Points: 68 # Comments: 17",
      "source": "Hacker News",
      "zh": "首次在家检测受感染蜱虫可改善莱姆病诊断"
     },
@@ -1892,7 +1924,7 @@
      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
      "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
      "pubDate": "Sat, 15 Aug 2026 13:43:46 +0000",
-     "summary": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 27 # Comments: 11",
+     "summary": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 31 # Comments: 11",
      "source": "Hacker News",
      "zh": "Yadda 3.0.0：人工智能代理时代的 BDD"
     },
@@ -1900,7 +1932,7 @@
      "title": "Could a computer scientist build a brain?",
      "link": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
      "pubDate": "Sat, 15 Aug 2026 13:26:28 +0000",
-     "summary": "Article URL: https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/ Comments URL: https://news.ycombinator.com/item?id=49310362 Points: 13 # Comments: 5",
+     "summary": "Article URL: https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/ Comments URL: https://news.ycombinator.com/item?id=49310362 Points: 15 # Comments: 8",
      "source": "Hacker News",
      "zh": "计算机科学家能建造大脑吗？"
     },
@@ -1967,38 +1999,6 @@
      "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
      "source": "Ars Technica",
      "zh": "如此多的太阳能：深入研究今年上线的每家美国发电厂名单"
-    },
-    {
-     "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
-     "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
-     "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000",
-     "summary": "Noware’s Puff necklace whimsically reimagines flash drives, turning something functional into personalized jewelry.",
-     "source": "WIRED",
-     "zh": "这条漂亮奇怪的项链其实是一个 USB 驱动器"
-    },
-    {
-     "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
-     "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
-     "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000",
-     "summary": "This affordable electric BMX delighted my entire family, even if its range, ride comfort, and actual BMX abilities are limited.",
-     "source": "WIRED",
-     "zh": "Retrospec Joe Rev 2 评测 (2026)：将“欢乐”融入 Joyride"
-    },
-    {
-     "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
-     "link": "https://www.wired.com/story/best-apple-watch-accessories/",
-     "pubDate": "Sat, 15 Aug 2026 10:30:00 +0000",
-     "summary": "These are the Apple Watch accessories I recommend adding to your setup.",
-     "source": "WIRED",
-     "zh": "6 个最佳 Apple Watch 配件，可升级您的手表 (2026)"
-    },
-    {
-     "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
-     "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
-     "pubDate": "Sat, 15 Aug 2026 10:30:00 +0000",
-     "summary": "New fonts, better customization, and a whole new layout all make it worth dusting off your Instapaper account.",
-     "source": "WIRED",
-     "zh": "Instapaper，最初的稍后阅读应用程序，刚刚进行了巨大升级"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "How to request an Xbox refund",
+     "link": "https://www.engadget.com/2234241/xbox-refund-how-to-request/",
+     "pubDate": "Sat, 15 Aug 2026 16:30:00 +0000",
+     "summary": "Xbox offers refunds on some games and apps, but there are stipulations you should understand before requesting one.",
+     "source": "Engadget",
+     "zh": "如何申请 Xbox 退款"
+    },
     {
      "title": "The Fairphone 6+ now has an official launch date",
      "link": "https://www.gsmarena.com/the_fairphone_6_now_has_an_official_launch_date-news-74189.php",
@@ -2119,14 +2127,6 @@
      "summary": "The $60 billion acquisition has been finalized.",
      "source": "Engadget",
      "zh": "SpaceX 正式收购人工智能编码初创公司 Cursor"
-    },
-    {
-     "title": "Expensive earbuds: When and why it's worth paying more",
-     "link": "https://www.engadget.com/2234234/expensive-earbuds-when-why-pay-more/",
-     "pubDate": "Sat, 15 Aug 2026 12:30:00 +0000",
-     "summary": "Earbuds range in price from under $10 to hundreds. What do you get for the money?",
-     "source": "Engadget",
-     "zh": "昂贵的耳塞：什么时候以及为什么值得花更多钱"
     },
     {
      "title": "Apple weekend deals: MacBooks up to $540 off, AirPods up to $100 off, Apple Watch, more",
@@ -2257,6 +2257,30 @@
    "total": 13,
    "items": [
     {
+     "title": "印尼中苏拉威西省附近海域发生6.2级地震",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842458110.html",
+     "pubDate": "Sun, 16 Aug 2026 00:40:15 +0800",
+     "summary": "据印尼气象、气候和地球物理局发布的报告，当地时间8月15日23时25分，印尼中苏拉威西省附近海域发生6.2级地震， 震源深度44公里。预计不会有海啸风险。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "印尼中苏拉威西省附近海域发生6.2级地震"
+    },
+    {
+     "title": "Apple gets U.S. warning not to buy memory chips from China: WSJ",
+     "link": "https://seekingalpha.com/news/4633586-apple-gets-us-warning-not-to-buy-memory-chips-from-china-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 15 Aug 2026 12:26:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "苹果收到美国警告不要从中国购买存储芯片：华尔街日报"
+    },
+    {
+     "title": "中欧北极快航正式常态化运营 畅通“冰上丝绸之路”",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842458024.html",
+     "pubDate": "Sun, 16 Aug 2026 00:25:49 +0800",
+     "summary": "15日19时许，海杰 航运 “迪拜塔”号驶离宁波舟山港，标志着中欧北极集装箱航线（简称中欧北极快航）正式迈入夏季通航季周班运营新阶段，该航线常态化运营为中欧贸易开辟了一条快捷高效、绿色低碳、韧性强劲的北向 物流 大通道。 作为“冰上丝绸之路”核心承 载通 道之一，中欧北极快航所经的北极东北航道是连接东亚与欧洲的新兴国际 航运 线路，有助于提升 航运 效率、促进沿线经贸合作。 “在时效与供应链安全层面，中欧北极快航优势突出。”浙江海港 物流 集团有限公司总经理忻建宁说，相较传统苏伊士运河40天左右的航程，该航线航程缩减近一半，可有效避开地缘扰动带来的船期不稳、成本上涨等问题。 2025年，中国对",
+     "source": "东方财富股票",
+     "zh": "中欧北极快航正式常态化运营 畅通“冰上丝绸之路”"
+    },
+    {
      "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
      "link": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
      "pubDate": "Sat, 15 Aug 2026 16:16:00 GMT",
@@ -2271,6 +2295,14 @@
      "summary": "当地时间15日，津巴布韦警方公布，该国北部卡里巴湖11日下午发生的船只倾覆事故死亡人数上升到68人。 津巴布韦政府说，事故发生时，船上载有119名成人，另有数量不明的儿童。目前，搜救工作仍在进行中。津巴布韦总统姆南加古瓦已宣布这起事故为“国家灾难”。 据津巴布韦方面稍早前消息，事故船只因遭遇强风发生倾覆。 （文章来源：央视新闻）",
      "source": "东方财富股票",
      "zh": "津巴布韦船只倾覆已致68人死亡"
+    },
+    {
+     "title": "清潩河鄢陵县仓头村段溃口实现成功合龙",
+     "link": "http://finance.eastmoney.com/news/11790,202608163842457973.html",
+     "pubDate": "Sun, 16 Aug 2026 00:03:15 +0800",
+     "summary": "【顶端新闻记者马涛宋广军】 8月15日23时56分，清潩河鄢陵县仓头村段溃口实现成功合龙。 受近期连续强降雨影响，清潩河水位持续高位运行，清潩河鄢陵县仓头村段发生溃口险情。险情发生后，当地第一时间启动应急响应，组织各方救援力量紧张有序开展抢险工作。经过各方抢险队伍昼夜连续奋战，溃口完成封堵合龙。下游可能受到影响的群众已由属地政府及时妥善转移安置，无人员伤亡。 据了解，溃口合龙后，抢险队伍将接续开展堤身加高加固、防渗闭气作业，同时做好受淹区域排涝、灾后处置等相关工作。 （文章来源：大河财立方）",
+     "source": "东方财富股票",
+     "zh": "清潩河鄢陵县仓头村段溃口实现成功合龙"
     },
     {
      "title": "Real estate stocks show mixed performance; data center REITs gain, health care REITs lose",
@@ -2313,22 +2345,6 @@
      "zh": "伊朗外交部发言人巴加埃：已与阿曼就霍尔木兹海峡通行路线达成共识 但该协议尚未最终敲定"
     },
     {
-     "title": "英伟达首度披露",
-     "link": "http://finance.eastmoney.com/news/1354,202608153842457371.html",
-     "pubDate": "Sat, 15 Aug 2026 23:45:00 +0800",
-     "summary": "据CNBC报道， 英伟达 当地时间14日向美国证券交易委员会提交的监管文件显示，截至今年二季度末，公司持有马斯克旗下 SpaceX 约1.228亿股A类股票，价值约210亿美元，为 SpaceX 第六大投资者。 根据金融数据机构FactSet的数据， SpaceX 第一大股东为马斯克本人，按二季度末股价测算，其持股账面价值约8500亿美元。而 英伟达 的210亿美元持仓是该公司第二大股权持仓，仅次于 英特尔 。受近期SpaceX股价回调影响，该持仓当前市值已缩水。SpaceX股价14日收于140美元，较6月底的170.86美元下跌约18%， 英伟达 持股对应市值降至约172亿美元。 报道称，英",
-     "source": "东方财富股票",
-     "zh": "英伟达首度披露"
-    },
-    {
-     "title": "也门穆哈港港口主管：近日胡塞武装发射25枚以上导弹袭击也门穆哈港 港口现已暂停所有商业与海运作业",
-     "link": "http://finance.eastmoney.com/news/1351,202608153842457458.html",
-     "pubDate": "Sat, 15 Aug 2026 23:41:19 +0800",
-     "summary": "也门穆哈港 港口 主管：近日胡塞武装发射25枚以上导弹袭击也门穆哈港， 港口 现已暂停所有商业与海运作业。袭击造成7人遇难，经济损失达1600万美元。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "也门穆哈港港口主管：近日胡塞武装发射25枚以上导弹袭击也门穆哈港 港口现已暂停所有商业与海运作业"
-    },
-    {
      "title": "Bill Gates’ Portfolio Just Added Home Depot (HD) Despite Risks. Time to Buy?",
      "link": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-portfolio-just-added-154023511.html",
      "pubDate": "2026-08-15T15:40:23Z",
@@ -2343,14 +2359,6 @@
      "summary": "《牛来》突然爆火。 8月15日，牛来票房暴涨1000倍的话题一度登上微博热搜榜第一名。 证券时报记者注意到，8月15日，成都已有20多家影院对《牛来》排片。当日下午，记者也到电影院观看了该影片。记者在成都天府新区某电影院看到，前来观看这部电影的群体以20岁左右的居多。 “我...",
      "source": "经济观察网",
      "zh": "《牛来》反向“出圈”，记者也去看了，现场观影人这样说......"
-    },
-    {
-     "title": "福元医药上半年增收不增利！净利跌去三成 集采续标产品降价叠加成本激增",
-     "link": "http://finance.eastmoney.com/news/1354,202608153842456969.html",
-     "pubDate": "Sat, 15 Aug 2026 23:35:36 +0800",
-     "summary": "8月14日， 福元医药 (601089) 披露2026年半年度报告。2026年上半年，公司实现营业总收入17.1亿元，同比增长4.66%； 归母净利润1.86亿元，同比下降30.49%； 扣非净利润1.7亿元，同比下降34.03%；经营活动产生的现金流量净额为2.57亿元，同比增长17.80%。 福元医药 主要从事药品及 医疗器械 研发、生产和销售。 福元医药 在财报中坦言，利润下滑主要受三大因素叠加影响：集采续标产品价格下降、新基地转产验证成本增加致使毛利减少及研发投入增加。 半年报显示，报告期内，公司募集资金投资项目——高精尖药品产业化建设项目（一期）聚焦产品转移验证工作，累计完成34个品",
-     "source": "东方财富股票",
-     "zh": "福元医药上半年增收不增利！净利跌去三成 集采续标产品降价叠加成本激增"
     },
     {
      "title": "How value, viral marketing, and better operations helped Chili's turn the tables on fast food",
@@ -2463,14 +2471,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Situation Awareness 在 7 月内爆之前对 Sandisk 和 Micron 进行了大量押注"
-    },
-    {
-     "title": "Notable tech headlines for the week: Super Micro, Intel, Workday in focus",
-     "link": "https://seekingalpha.com/news/4633548-notable-tech-headlines-for-the-week-super-micro-intel-workday-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 15 Aug 2026 10:10:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "本周值得注意的科技头条新闻：聚焦超微、英特尔、Workday"
     },
     {
      "title": "Warren Buffett named these 3 stocks as favorites for a reason",

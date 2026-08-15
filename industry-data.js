@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/16 05:21:23",
+ "generated_at": "2026/8/16 05:46:33",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+     "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+     "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000",
+     "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+     "source": "TechCrunch AI",
+     "zh": "女子声称她的继父使用 Grok 将童年照片变成露骨图像"
+    },
     {
      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
@@ -200,14 +208,6 @@ window.INDUSTRY_DATA = {
      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
      "source": "TechCrunch AI",
      "zh": "Kog 正在更深入地利用 GPU 进行更多推理"
-    },
-    {
-     "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-     "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-     "pubDate": "Fri, 14 Aug 2026 14:05:00 +0000",
-     "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-     "source": "TechCrunch AI",
-     "zh": "如果新的预测被证明是正确的，超大规模企业可能会后悔拥抱天然气"
     },
     {
      "title": "How to Build a Simple AI Web Scraper with Python",
@@ -986,12 +986,12 @@ window.INDUSTRY_DATA = {
      "zh": "量子计算正在快速到来。公用事业准备好了吗？"
     },
     {
-     "title": "WSP capitalizes on surging US power work",
+     "title": "WSP capitalizes on surging US power infrastructure construction",
      "link": "https://www.utilitydive.com/news/wsp-power-generation-nuclear-data-centers-construction-us/827577/",
      "pubDate": "Fri, 14 Aug 2026 10:40:05 -0400",
      "summary": "Power now accounts for as much as 40% of the company&rsquo;s revenue, CEO Alexandre L&rsquo;Heureux said during a second-quarter earnings call.",
      "source": "Utility Dive",
-     "zh": "科进充分利用美国电力工作的激增"
+     "zh": "科进充分利用美国电力基础设施建设的蓬勃发展"
     },
     {
      "title": "Recurrent Energy bags US$695 million for 330MW California solar project",
@@ -1016,6 +1016,14 @@ window.INDUSTRY_DATA = {
      "summary": "Energy-Storage.news Premium speaks with Alon Maskovich, CEO and co-founder of enSights about BESS economics and the company’s new battery economics calculator.",
      "source": "Energy Storage News",
      "zh": "“数据准确性是最重要的事情之一”：enSights 首席执行官谈 PJM 中的 BESS 经济学"
+    },
+    {
+     "title": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals",
+     "link": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
+     "pubDate": "Fri, 14 Aug 2026 09:02:30 -0400",
+     "summary": "PowerTransitions aims to buy a 1.2-GW power plant in New York for&nbsp;an &ldquo;energy campus.&rdquo; &nbsp; TransAlta intends to buy two&nbsp;power plants in Colorado totaling about 319 MW.",
+     "source": "Utility Dive",
+     "zh": "FERC 批准 TransAlta 和 PowerTransitions 燃气发电厂交易"
     },
     {
      "title": "The Hydrogen Stream: Commissioning begins for 2.2 GW Neom H2 project in Saudi Arabia",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "On this episode of the This Week in Cleantech podcast, Mark Chediak from Bloomberg breaks down Trump's new 15% tariffs and price floors on imported polysilicon and its derivatives, including wafers, cells and modules.",
      "source": "Renewable Energy World",
      "zh": "特朗普新的太阳能关税能否缓解国内供应问题？ ——本周《清洁技术》"
-    },
-    {
-     "title": "FEOC compliance doesn’t end at signing. Here’s where it actually breaks down",
-     "link": "https://www.pv-tech.org/feoc-compliance-doesnt-end-at-signing-heres-where-it-actually-breaks-down/",
-     "pubDate": "Fri, 14 Aug 2026 09:34:57 +0000",
-     "summary": "Foreign Entity of Concern rules create a multitude of new risks for US solar developers, some less visible than others. Intertek CEA’s Jordan Wilson explores the key steps towards minimising FEOC exposure in PV module purchase agreements.",
-     "source": "PV Tech",
-     "zh": "FEOC 合规性并不会在签署时结束。这是它真正崩溃的地方"
     }
    ]
   },
@@ -1762,12 +1762,20 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "Cultivating a state of mind where new ideas are born",
+     "title": "A look at Unitree&apos;s G1 and R1, the humanoid robots behind viral influencer accounts worldwide, as Unitree shipped 5,500+ units in 2025 and readies its China IPO (Zeyi Yang/Wired)",
+     "link": "https://www.techmeme.com/260815/p15#a260815p15",
+     "pubDate": "Sat, 15 Aug 2026 17:40:00 -0400",
+     "summary": "Zeyi Yang / Wired : A look at Unitree's G1 and R1, the humanoid robots behind viral influencer accounts worldwide, as Unitree shipped 5,500+ units in 2025 and readies its China IPO &nbsp; &mdash;&nbsp; The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd.&nbsp",
+     "source": "Techmeme",
+     "zh": "看看 Unitree 的 G1 和 R1，这是全球病毒式影响者账户背后的人形机器人，Unitree 在 2025 年出货量超过 5,500 台，并准备在中国进行 IPO（Zeyi Yang/Wired）"
+    },
+    {
+     "title": "Cultivating a state of mind where new ideas are born (2023)",
      "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
      "pubDate": "Sat, 15 Aug 2026 20:54:11 +0000",
-     "summary": "Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 15 # Comments: 3",
      "source": "Hacker News",
-     "zh": "培养新想法诞生的心态"
+     "zh": "培养新想法诞生的心态（2023）"
     },
     {
      "title": "《牛来》出圈：AI 越会生成，“活人感”为何越值钱",
@@ -1778,14 +1786,6 @@ window.INDUSTRY_DATA = {
      "zh": "《牛来》出圈：AI 越会生成，“活人感”为何越值钱"
     },
     {
-     "title": "Meta will train its AI on Newsmax, a far-right media outlet",
-     "link": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
-     "pubDate": "Sat, 15 Aug 2026 20:00:14 +0000",
-     "summary": "Article URL: https://popular.info/p/meta-will-train-its-ai-on-far-right Comments URL: https://news.ycombinator.com/item?id=49313778 Points: 12 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Meta 将在极右媒体 Newsmax 上训练其人工智能"
-    },
-    {
      "title": "Sources: Nvidia in talks to invest up to $3B in SoftBank-backed data center developer SB Energy that aims to IPO soon and is behind a huge OpenAI campus in Ohio (The Information)",
      "link": "https://www.techmeme.com/260815/p14#a260815p14",
      "pubDate": "Sat, 15 Aug 2026 15:40:01 -0400",
@@ -1794,18 +1794,10 @@ window.INDUSTRY_DATA = {
      "zh": "消息来源：Nvidia 正在洽谈向软银支持的数据中心开发商 SB Energy 投资高达 30 亿美元，SB Energy 的目标是尽快 IPO，并且是俄亥俄州一个巨大的 OpenAI 园区的背后（The Information）"
     },
     {
-     "title": "Why tech bosses keep sharing their manifestos about AI",
-     "link": "https://www.bbc.com/news/articles/cz97ljy91zxo",
-     "pubDate": "Sat, 15 Aug 2026 19:30:32 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cz97ljy91zxo Comments URL: https://news.ycombinator.com/item?id=49313519 Points: 12 # Comments: 23",
-     "source": "Hacker News",
-     "zh": "为什么科技巨头们不断分享他们关于人工智能的宣言"
-    },
-    {
      "title": "AI in drug discovery — what it is, where we stand and the path forward",
      "link": "https://www.nature.com/articles/s41573-026-01496-2",
      "pubDate": "Sat, 15 Aug 2026 19:12:53 +0000",
-     "summary": "Article URL: https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 38 # Comments: 22",
+     "summary": "Article URL: https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 45 # Comments: 26",
      "source": "Hacker News",
      "zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路"
     },
@@ -1813,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Tess's Android Wayland Compositor",
      "link": "https://github.com/wmww/tawc",
      "pubDate": "Sat, 15 Aug 2026 18:34:26 +0000",
-     "summary": "Article URL: https://github.com/wmww/tawc Comments URL: https://news.ycombinator.com/item?id=49313068 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://github.com/wmww/tawc Comments URL: https://news.ycombinator.com/item?id=49313068 Points: 9 # Comments: 0",
      "source": "Hacker News",
      "zh": "Tess 的 Android Wayland 合成器"
     },
@@ -1824,6 +1816,22 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer Comments URL: https://news.ycombinator.com/item?id=49313047 Points: 0 # Comments: 0",
      "source": "Hacker News",
      "zh": "Voltair (YC W26) 正在招聘一名试飞工程师"
+    },
+    {
+     "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+     "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+     "pubDate": "Sat, 15 Aug 2026 18:13:02 +0000",
+     "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 297 # Comments: 256",
+     "source": "Hacker News",
+     "zh": "人工智能并不比数学家聪明。它已经超出了记住他们的范围"
+    },
+    {
+     "title": "Thunderbird's Desktop Calendar Visual Redesign",
+     "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+     "pubDate": "Sat, 15 Aug 2026 18:09:42 +0000",
+     "summary": "Article URL: https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/ Comments URL: https://news.ycombinator.com/item?id=49312823 Points: 50 # Comments: 16",
+     "source": "Hacker News",
+     "zh": "Thunderbird 的桌面日历视觉重新设计"
     },
     {
      "title": "Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)",
@@ -1978,14 +1986,6 @@ window.INDUSTRY_DATA = {
      "zh": "字节AI，先慢后快？"
     },
     {
-     "title": "Shanghai&apos;s tech-focused Star 50 index is up 29% in 2026, and its P/E ratio is 150+, above Nasdaq 100&apos;s 35, fueled by Beijing&apos;s tech push and an investor frenzy (William Sandlund/Financial Times)",
-     "link": "https://www.techmeme.com/260815/p9#a260815p9",
-     "pubDate": "Sat, 15 Aug 2026 08:30:01 -0400",
-     "summary": "William Sandlund / Financial Times : Shanghai's tech-focused Star 50 index is up 29% in 2026, and its P/E ratio is 150+, above Nasdaq 100's 35, fueled by Beijing's tech push and an investor frenzy &nbsp; &mdash;&nbsp; Support from Beijing has helped power 29% gain for Star 50 index this year&nbsp; &",
-     "source": "Techmeme",
-     "zh": "在北京科技推动和投资者狂热的推动下，上海以科技为重点的 Star 50 指数到 2026 年将上涨 29%，其市盈率为 150 以上，高于纳斯达克 100 指数的 35（William Sandlund/金融时报）"
-    },
-    {
      "title": "奥德赛、龙餐馆，是电影的解药吗？",
      "link": "https://www.tmtpost.com/8104520.html",
      "pubDate": "Sat, 15 Aug 2026 20:28:17 +0800",
@@ -2009,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Deals: Pixel 11 series goes on pre-order, Galaxy Z8 foldables and S26 models drop prices",
+     "link": "https://www.gsmarena.com/deals_pixel_11_series_goes_on_preorder_galaxy_z8_foldables_and_s26_models_drop_prices-news-74175.php",
+     "pubDate": "Sat, 15 Aug 2026 23:41:02 +0200",
+     "summary": "Google launched its new Pixel 11 series earlier this week – there is a new vanilla, two new Pro and one new foldable model. All that’s missing now is an affordable a-phone. The massive increase in RAM prices has affected the Pixel series. Google now offers 256GB storage as standard on all 11-series ",
+     "source": "GSMArena",
+     "zh": "优惠：Pixel 11系列开启预购，Galaxy Z8可折叠手机和S26机型降价"
+    },
+    {
+     "title": "What is a Bluetooth codec and which one offers the best audio quality?",
+     "link": "https://www.engadget.com/2236801/what-is-bluetooth-codec-which-offers-best-audio-quality/",
+     "pubDate": "Sat, 15 Aug 2026 21:30:00 +0000",
+     "summary": "If you want the best quality out of your Bluetooth audio, it's worth reviewing some settings.",
+     "source": "Engadget",
+     "zh": "什么是蓝牙编解码器？哪一种可提供最佳音频质量？"
+    },
     {
      "title": "Apple Watch battery replacement: How much does it cost and is it worth it?",
      "link": "https://www.engadget.com/2237226/apple-watch-battery-replacement-how-much-cost-worth-it/",
@@ -2072,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "If your internet has been slower than usual lately, your router might need a reset. Here are some things you can try.",
      "source": "Engadget",
      "zh": "以下是重置华硕路由器的方法"
-    },
-    {
-     "title": "How to request an Xbox refund",
-     "link": "https://www.engadget.com/2234241/xbox-refund-how-to-request/",
-     "pubDate": "Sat, 15 Aug 2026 16:30:00 +0000",
-     "summary": "Xbox offers refunds on some games and apps, but there are stipulations you should understand before requesting one.",
-     "source": "Engadget",
-     "zh": "如何申请 Xbox 退款"
     },
     {
      "title": "The Fairphone 6+ now has an official launch date",
@@ -2210,14 +2218,6 @@ window.INDUSTRY_DATA = {
      "zh": "Pixel 11 还是 Pixel 10a？这就是为什么 Pixel 11 确实更值 400 美元"
     },
     {
-     "title": "Google now lets you remove Gemini's visible watermark",
-     "link": "https://www.gsmarena.com/google_now_lets_you_remove_geminis_visible_watermark_-news-74188.php",
-     "pubDate": "Sat, 15 Aug 2026 10:11:03 +0200",
-     "summary": "Google's Nano Banana image generator is pretty good but some people have been put off by the fact that its images have a visible watermark in the bottom right corner, unlike the images generated with ChatGPT's latest model. So now Google is finally letting you choose to remove the watermark. There's",
-     "source": "GSMArena",
-     "zh": "Google 现在允许您删除 Gemini 的可见水印"
-    },
-    {
      "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
      "link": "https://sspai.com/post/111974",
      "pubDate": "Sat, 15 Aug 2026 15:07:54 +0800",
@@ -2258,6 +2258,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "全球客户“反向出差”到中国",
+     "link": "http://finance.eastmoney.com/news/1354,202608153842453753.html",
+     "pubDate": "Sun, 16 Aug 2026 05:30:00 +0800",
+     "summary": "在央视财经《对话》节目中，主持人陈伟鸿与几位中国科技企业的创始人聊起了一个有趣的变化： 过去，中国企业出海往往意味着带着样品和销售团队满世界飞；而现在，一种相反的场景正在频繁出现——海外客户主动来中国“出差”。 数据正在印证这一趋势 ： 5月落幕的杭州第二届国际人形 机器人 展，累计达成合作签约56项、合作意向237项，总金额超213亿元人民币。3178名海外客商涌入会场，不是走马观花，而是带着需求来寻找产品。 同一个月，天津举办的世界智能产业博览会上，近150种 机器人 整机集中亮相，多国采购商穿梭其中，询价、记录、反复比对，看的不只是展品，更是背后的供应链能力。 创新药 领域则提供了更宏观",
+     "source": "东方财富股票",
+     "zh": "全球客户“反向出差”到中国"
+    },
+    {
+     "title": "Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-doordash-inc-212910159.html",
+     "pubDate": "2026-08-15T21:29:10Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Jim Cramer 表示 DoorDash, Inc.（纳斯达克股票代码：DASH）被 Uber 做空，这是一笔糟糕的交易"
+    },
+    {
+     "title": "Jim Cramer Was Happy The Market “Cared” About D-Wave Quantum – But Not How You Think",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-happy-market-cared-212804288.html",
+     "pubDate": "2026-08-15T21:28:04Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Jim Cramer 很高兴市场“关心”D-Wave Quantum – 但不是你想象的那样"
+    },
+    {
      "title": "美国印第安纳州遭遇恶劣天气 至少5人死亡",
      "link": "http://finance.eastmoney.com/news/1351,202608163842459924.html",
      "pubDate": "Sun, 16 Aug 2026 05:10:36 +0800",
@@ -2296,14 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "本周，美股三大指数涨跌不一：道指累跌0.56%，标普500指数累涨0.36%， 纳斯达克 综合 指数累涨0.14%。 目前，美股主要由上市公司强劲的业绩表现支撑，部分得益于 人工智能 基础设施支出的推动。展望下周，投资者再次需要面对一系列熟悉的担忧：央行利率、通胀和地缘政治紧张局势。 鉴于美联储官员没有释放太多新的指引，该行下一步行动的不确定性升温。下周三（北京时间下周四凌晨），美联储将公布联邦公开市场委员会（FOMC）政策会议纪要。 美联储在7月29日的议息会议上连续第五次“按兵不动”，将联邦基金利率目标区间维持在3.5%至3.75%之间不变，但有三位成员投下了反对票——他们倾向于加息25个",
      "source": "东方财富股票",
      "zh": "环球下周看点：美联储会议纪要来袭 阿里百度等中概股发布财报"
-    },
-    {
-     "title": "美联储古尔斯比：通胀降温令人鼓舞 但需更多数据确认回归2%",
-     "link": "http://finance.eastmoney.com/news/1351,202608163842459396.html",
-     "pubDate": "Sun, 16 Aug 2026 04:40:36 +0800",
-     "summary": "芝加哥联储主席奥斯坦·古尔斯比（Austan Goolsbee）最新表示，他对近期通胀降温感到鼓舞，希望未来几个月继续看到类似趋势，以确认通胀正回落至美联储2%的目标水平。 古尔斯比周五（8月14日）在接受采访时表示，今年夏季公布的消费者价格指数（CPI）数据令人感到乐观，表明过去一年出现的一些价格冲击（例如关税和油价上涨）正在逐渐消退。 “如果接下来连续三四个月都能取得类似6月份的表现，我会更有信心认为，我们正走在回归2%的道路上。” 古尔斯比表示，他支持美联储在7月会议上维持利率不变的决定，并称目前自己最主要的担忧是通胀。至于增 长和 就业，他表示，美国经济“基本保持稳定”。 美联储过去数",
-     "source": "东方财富股票",
-     "zh": "美联储古尔斯比：通胀降温令人鼓舞 但需更多数据确认回归2%"
     },
     {
      "title": "Iran rebuffs Trump&apos;s claim over Strait of Hormuz amid report of another ship being struck",
@@ -2432,22 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "延迟 1 小时回复招聘人员会使您的招聘机会减少一半。这就是为什么"
-    },
-    {
-     "title": "Why Medicare Advantage providers are cutting plans — and what to do if your coverage is affected",
-     "link": "https://finance.yahoo.com/healthcare/article/why-medicare-advantage-providers-are-cutting-plans--and-what-to-do-if-your-coverage-is-affected-150759090.html",
-     "pubDate": "2026-08-15T15:07:59Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "为什么 Medicare Advantage 提供商正在削减计划 - 以及如果您的承保范围受到影响该怎么办"
-    },
-    {
-     "title": "Suze Orman says AI could force you out of your job before 65 — and retiring early costs you each year",
-     "link": "https://finance.yahoo.com/technology/ai/articles/suze-orman-says-ai-could-150000538.html",
-     "pubDate": "2026-08-15T15:00:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Suze Orman 表示人工智能可能会迫使你在 65 岁之前失业——而提前退休每年都会让你付出代价"
     },
     {
      "title": "马斯克：你们会看到飞行汽车的",

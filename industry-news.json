@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/16 06:21:36",
+ "generated_at": "2026/8/16 06:48:15",
  "recent_days": 7,
  "industries": [
   {
@@ -257,76 +257,60 @@
    "total": 9,
    "items": [
     {
+     "title": "Samsung, SK Hynix HBM4 hiring war drains South Korea's chip design talent",
+     "link": "https://www.digitimes.com/news/a20260814VL211/samsung-design-sk-hynix-hbm4-talent.html",
+     "pubDate": "Sat, 15 Aug 2026 22:41:24 GMT",
+     "summary": "South Korea's semiconductor talent shortage is intensifying as Samsung Electronics and SK Hynix recruit experienced chip designers for increasingly complex HBM4 products, drawing key engineers away from fabless companies and design houses while tighter restrictions complicate movement between the co",
+     "source": "DIGITIMES",
+     "zh": "三星、SK海力士HBM4招聘战耗尽韩国芯片设计人才"
+    },
+    {
+     "title": "Interview: Orbbec bridges physical AI data gaps with robot-free platform",
+     "link": "https://www.digitimes.com/news/a20260814VL226/data-orbbec-robotics-robot-market.html",
+     "pubDate": "Sat, 15 Aug 2026 22:41:14 GMT",
+     "summary": "As physical AI and robotics draw unprecedented market attention, a key bottleneck is clogging the deployment pipeline: quality, real-world physical data. To move applications from the lab to real-world deployment, companies are getting creative in overcoming this obstacle while balancing affordabili",
+     "source": "DIGITIMES",
+     "zh": "采访：Orbbec 通过无机器人平台弥合物理人工智能数据差距"
+    },
+    {
+     "title": "China's AI supernode build-out turns more chips into more computing power",
+     "link": "https://www.digitimes.com/news/a20260814VL228/chips-capacity-2026-data-performance.html",
+     "pubDate": "Sat, 15 Aug 2026 22:41:04 GMT",
+     "summary": "China is accelerating construction of its national computing network, and a growing share of new capacity is likely to use supernodes. With domestic AI accelerators still trailing leading global chips in single-card performance, Chinese vendors are increasingly relying on larger card counts, high-sp",
+     "source": "DIGITIMES",
+     "zh": "中国人工智能超级节点建设将更多芯片转化为更多算力"
+    },
+    {
+     "title": "Taiwan Mobile launches tender offer for Systex, targeting majority control",
+     "link": "https://www.digitimes.com/news/a20260813PD200/twm-systex-telecom-price-taiwan.html",
+     "pubDate": "Sat, 15 Aug 2026 22:40:54 GMT",
+     "summary": "Taiwan Mobile said on August 12 that its board approved a tender offer for Systex Corporation common shares through its wholly owned subsidiary Taiwan Cellular, with the goal of lifting its stake to more than 50%. The telecom operator already held 11.86% of Systex, and the tender offer seeks an addi",
+     "source": "DIGITIMES",
+     "zh": "台湾大哥大发起对Systex的要约收购，目标是获得多数股权"
+    },
+    {
+     "title": "Nan Pao posts record second-quarter profit and July revenue as sales rise",
+     "link": "https://www.digitimes.com/news/a20260813PD203/revenue-profit-sales-materials-2026.html",
+     "pubDate": "Sat, 15 Aug 2026 22:39:33 GMT",
+     "summary": "Nan Pao Resins Chemical reported record second-quarter net profit attributable to the parent company of NT$877 million, with earnings per share of NT$7.27, as the Taiwan-based materials maker also said July revenue reached an all-time monthly high. The results reflected stronger sales of adhesives a",
+     "source": "DIGITIMES",
+     "zh": "随着销售额上升，南报第二季度利润和七月收入创历史新高"
+    },
+    {
+     "title": "Edgecore pushes all-optical networking for distributed AI data centers",
+     "link": "https://www.digitimes.com/news/a20260813PD216/data-infrastructure-data-center-gpu-taiwan.html",
+     "pubDate": "Sat, 15 Aug 2026 22:39:23 GMT",
+     "summary": "Edgecore Networks said distributed AI infrastructure will become more important as data centers run into limits on power, space, and cooling. Speaking at the 2026 OCP APAC Summit, the company outlined an all-optical networking approach designed to connect GPUs, servers, and storage across multiple s",
+     "source": "DIGITIMES",
+     "zh": "钰登科技推动分布式AI数据中心全光网络"
+    },
+    {
      "title": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
      "link": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors",
      "pubDate": "Sat, 15 Aug 2026 13:00:01 +0000",
      "summary": "Supply chains in many industries are full of tangles, but for semiconductor tech, that’s putting it lightly. Many chip components are location-constrained and can easily be throttled by geopolitical factors. Chipmaking is also tied up with social and environmental concerns, and if any seemingly smal",
      "source": "IEEE Spectrum 半导体",
      "zh": "共同地球项目旨在消除芯片供应链瓶颈"
-    },
-    {
-     "title": "Gelsinger calls HBM 'lousy', SK Hynix says it's not memory's final answer",
-     "link": "https://www.digitimes.com/news/a20260814PD227/hbm-sk-hynix-pat-gelsinger-component-semiconductors.html",
-     "pubDate": "Fri, 14 Aug 2026 22:53:33 GMT",
-     "summary": "High-bandwidth memory (HBM), a core component in AI semiconductors, has drawn fresh scrutiny after former Intel CEO Pat Gelsinger called it \"lousy\" at a recent AI summit in Paris. SK Hynix, the market leader in this type of memory, also said it is not the final answer to AI memory bottlenecks, under",
-     "source": "DIGITIMES",
-     "zh": "基辛格称 HBM“糟糕”，SK 海力士表示这不是记忆的最终答案"
-    },
-    {
-     "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
-     "link": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html",
-     "pubDate": "Fri, 14 Aug 2026 22:53:01 GMT",
-     "summary": "Asia Vital Components expects global AI server demand to strengthen in the second half, with liquid cooling adoption becoming more common &mdash; a shift carrying implications for data center operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin p",
-     "source": "DIGITIMES",
-     "zh": "Asia Vital Components 看到人工智能服务器需求更强劲，液冷采用速度更快"
-    },
-    {
-     "title": "Taiwan Gold Card approvals for finance professionals top 1,000",
-     "link": "https://www.digitimes.com/news/a20260814PD231/taiwan-finance-talent-national-development-council-management.html",
-     "pubDate": "Fri, 14 Aug 2026 22:52:41 GMT",
-     "summary": "Taiwan has approved more than 1,000 Employment Gold Cards for finance professionals as the government broadens its push to attract overseas talent and develop Taiwan into an Asian asset-management center.",
-     "source": "DIGITIMES",
-     "zh": "台湾金融专业人士金卡获批前1,000名"
-    },
-    {
-     "title": "Research Insight: Unitree IPO reveals humanoid robot commercialization still in early innings",
-     "link": "https://www.digitimes.com/news/a20260814PD218/robot-ipo-industrial-2025-manufacturing.html",
-     "pubDate": "Fri, 14 Aug 2026 22:50:18 GMT",
-     "summary": "Chinese humanoid robot maker Unitree Robotics has drawn significant market attention with its IPO. Based on DIGITIMES' review of the company's three-hour IPO roadshow and Q&A session on August 7, chairman Xingxing Wang and the management team provided further details on humanoid robot commercializat",
-     "source": "DIGITIMES",
-     "zh": "研究洞察：Unitree IPO 揭示人形机器人商业化仍处于早期阶段"
-    },
-    {
-     "title": "J&V Energy lifts 1H revenue on storage and green power trading",
-     "link": "https://www.digitimes.com/news/a20260813PD244/revenue-2026-sales-market-profit.html",
-     "pubDate": "Fri, 14 Aug 2026 22:49:45 GMT",
-     "summary": "J&V Energy Technology said its first-half 2026 results were lifted by growing energy storage projects and green power trading, with consolidated revenue reaching NT$3.498 billion (US$108.74 million). The Taiwan-based renewable energy group said gross profit rose 67% year over year to NT$570 million,",
-     "source": "DIGITIMES",
-     "zh": "J&V Energy 提升了 1H 存储和绿色电力交易收入"
-    },
-    {
-     "title": "Lotes sees tight supply, says demand remains intact",
-     "link": "https://www.digitimes.com/news/a20260813PD248/demand-production-business-2026-2027.html",
-     "pubDate": "Fri, 14 Aug 2026 22:48:58 GMT",
-     "summary": "Connector maker Lotes is deepening its server business, with its server quick disconnect (QD) line set to enter mass production in July, and expansion is expected to accelerate at the same time. A new-generation server platform is expected to begin small-volume shipments in the fourth quarter of 202",
-     "source": "DIGITIMES",
-     "zh": "Lotes 认为供应紧张，但需求保持不变"
-    },
-    {
-     "title": "How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/how-to-develop-edge-ai-on-a-raspberry-pi-with-litert-and-gemma-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 15:54:30 +0000",
-     "summary": "This is an interesting one from Google's Developer blog: an example project on Edge AI using a Raspberry Pi along with LiteRT and Gemma. The post How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "如何：使用 LiteRT 和 Gemma 在 Raspberry Pi 上开发边缘 AI"
-    },
-    {
-     "title": "Standards and AI will shape-shift EDA",
-     "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/standards-and-ai-will-shape-shift-eda-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 15:52:17 +0000",
-     "summary": "As AI and machine learning are getting more and more integrated into the EDA workflows, there are new challenges emerging around areas such as interoperability, data exchange, trust, and reproducibility. […] The post Standards and AI will shape-shift EDA appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "标准和人工智能将改变 EDA"
     },
     {
      "title": "An Introduction to Software Prototyping: Unlocking SoC Software Verification with proFPGA CS",
@@ -343,30 +327,6 @@
      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transistors while enabling strong gate control. Silicon transistors are approaching physical limits that make ea",
      "source": "SemiWiki",
      "zh": "台积电的 0.42 纳米突破可能推动晶体管超越硅"
-    },
-    {
-     "title": "Google joins OpenROAD EDA initiative",
-     "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/google-joins-openroad-eda-initiative-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 14:01:02 +0000",
-     "summary": "Google is joining the OpenROAD Initiative (ORI) as a principal member, for its open source electronic design automation (EDA). As is customary, Google’s Technical Program Manager, Aaron Cunningham, is joining […] The post Google joins OpenROAD EDA initiative appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Google 加入 OpenROAD EDA 计划"
-    },
-    {
-     "title": "CHIIPS #37 – CHIIPs with DVCon’s Mark Burton",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-37-chiips-with-dvcons-mark-burton-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 13:37:48 +0000",
-     "summary": "Don't miss the latest episode of our Electronics Weekly podcast, CHIIPS. It features Mark Burton - DVCon's technical programme chair. The post CHIIPS #37 – CHIIPs with DVCon’s Mark Burton appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "CHIIPS #37 – DVCon 的 Mark Burton 的 CHIIP"
-    },
-    {
-     "title": "President Bush, Qualcomm, the CTIA, Broadcom and the ITC square up",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/president-bush-qualcomm-the-ctia-broadcom-and-the-itc-square-up-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 13:24:05 +0000",
-     "summary": "19 years ago the tech industry was up to its old trick of roping in the government to fight its battles. ‘The CTIA Wireless Association in the US has backed […] The post President Bush, Qualcomm, the CTIA, Broadcom and the ITC square up appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "布什总统、高通、CTIA、博通和 ITC 联手"
     },
     {
      "title": "Intel at a Memory Crossroads, Again",
@@ -391,14 +351,6 @@
      "summary": "Semiconductor equipment OEMs look to build-to-print for greater capacity. The post Semiconductor Equipment Shifts To Build-to-Print Manufacturing appeared first on EE Times .",
      "source": "EE Times",
      "zh": "半导体设备转向按图生产制造"
-    },
-    {
-     "title": "In-orbit services to generate $3 billion within a decade",
-     "link": "https://www.electronicsweekly.com/news/business/in-orbit-services-to-generate-3-billion-within-a-decade-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 10:42:09 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the latest version of its In-Orbit Services Markets report. The Paris-based analysts calculate that the space sector will generate $3 […] The post In-orbit services to generate $3 billion within a decade appeared first on Ele",
-     "source": "Electronics Weekly",
-     "zh": "在轨服务十年内将创收 30 亿美元"
     },
     {
      "title": "Chip Industry Week In Review",
@@ -495,6 +447,54 @@
      "summary": "As AI clusters push beyond rack-scale limits, optical interconnects and circuit switching are reshaping how data centers scale. The post Copper’s Grip On AI Scaling Is Starting To Slip appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "铜对人工智能扩展的控制力开始下滑"
+    },
+    {
+     "title": "DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory",
+     "link": "https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory/",
+     "pubDate": "Thu, 13 Aug 2026 07:08:19 +0000",
+     "summary": "The ability to move and manage data efficiently is a defining challenge for data center architects. The post DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "DDR5 9600 RDIMM：提高服务器内存的性能基准"
+    },
+    {
+     "title": "What Self-Verifying Means In Agentic EDA Workflows And Why It Matters",
+     "link": "https://semiengineering.com/what-self-verifying-means-in-agentic-eda-workflows-and-why-it-matters/",
+     "pubDate": "Thu, 13 Aug 2026 07:07:35 +0000",
+     "summary": "Grounding agent decisions in their output is what transforms orchestration into something engineers can build on with confidence. The post What Self-Verifying Means In Agentic EDA Workflows And Why It Matters appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "自我验证在代理 EDA 工作流程中意味着什么及其重要性"
+    },
+    {
+     "title": "Veeco’s Q2 results exceed guidance",
+     "link": "https://www.semiconductor-today.com/news_items/2026/aug/veeco-120826.shtml",
+     "pubDate": "Wed, 12 Aug 2026 11:25:51 +0100",
+     "summary": "For second-quarter 2026, epitaxial deposition and process equipment maker Veeco Instruments Inc of Plainview, NY, USA has reported revenue of $193.5m, up 22% on $158.3m last quarter and 16.5% on $166.1m a year ago, and exceeding the $170–190m guidance...",
+     "source": "Semiconductor Today",
+     "zh": "Veeco 第二季度业绩超出预期"
+    },
+    {
+     "title": "OpenLight and Tower expand PH18DA photonics ecosystem to accelerate photonic IC development",
+     "link": "https://www.semiconductor-today.com/news_items/2026/aug/openlight-tower-120826.shtml",
+     "pubDate": "Wed, 12 Aug 2026 10:13:02 +0100",
+     "summary": "Photonic application-specific integrated circuit (PASIC) chip designer and manufacturer OpenLight of Goleta, Santa Barbara, CA, USA (which launched as an independent company in 2022, introducing the first open silicon photonics platform with heterogeneously integrated III-V lasers, modulators, ampli",
+     "source": "Semiconductor Today",
+     "zh": "OpenLight 和 Tower 拓展 PH18DA 光子生态系统，加速光子 IC 开发"
+    },
+    {
+     "title": "Soctera raises $4m in seed funding round",
+     "link": "https://www.semiconductor-today.com/news_items/2026/aug/soctera-110826.shtml",
+     "pubDate": "Tue, 11 Aug 2026 21:08:55 +0100",
+     "summary": "Soctera of Ithaca, NY USA has closed a $4m in seed funding round backed by Anorak Ventures and Multiball Capital, with additional participation from 9Yards Capital, Mana Ventures, and Red Bear Ventures. The firm will use the funding to develop its thermally optimized III-nitride millimeter-wave powe",
+     "source": "Semiconductor Today",
+     "zh": "Soctera 在种子轮融资中筹集了 400 万美元"
+    },
+    {
+     "title": "CSconnected unveils awardees for final call of £1m Supply Chain Development Programme",
+     "link": "https://www.semiconductor-today.com/news_items/2026/aug/csconnected-110826.shtml",
+     "pubDate": "Tue, 11 Aug 2026 12:39:28 +0100",
+     "summary": "The South Wales-based compound semiconductor cluster CSconnected Ltd has announced the successful applicants to the fourth and final funding call of its £1m Supply Chain Development Programme, delivered in partnership with Cardiff Capital Region (CCR). The program provides grants of up to £100,000 t",
+     "source": "Semiconductor Today",
+     "zh": "CSconnected 揭晓 100 万英镑供应链发展计划最终获奖者名单"
     }
    ]
   },
@@ -1761,10 +1761,50 @@
    "total": 18,
    "items": [
     {
+     "title": "进一步打通手机电脑互联：消息称三星正在为 One UI 9.5 测试 App Mirroring 应用镜像功能",
+     "link": "https://www.ithome.com/0/990/194.htm",
+     "pubDate": "Sat, 15 Aug 2026 22:43:51 GMT",
+     "summary": "IT之家 8 月 16 日消息，消息源 Fahad Ali Javed 发文，透露三星正在为 One UI 9.5 测试一项内置的 App Mirroring 应用镜像功能，可将 Galaxy 手机应用投射到 Galaxy Book 笔记本上。 IT之家参考曝光截图，其中显示用户可通过无线方式直接在笔记本电脑上访问手机中的应用和通知。使用相应功能需要同时开启蓝牙和 Wi-Fi，并确保手机与电脑登录的是同一个三星账号。 事实上，三星目前已经提供多种连接 Galaxy 手机与 PC 的方式，例如微软 Phone Link 手机连接，以及自家的 Samsung Flow 应用。不过，如果 App M",
+     "source": "IT之家",
+     "zh": "进一步打通手机电脑互联：消息称三星正在为 One UI 9.5 测试 App Mirroring 应用镜像功能"
+    },
+    {
+     "title": "安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍",
+     "link": "https://www.ithome.com/0/990/193.htm",
+     "pubDate": "Sat, 15 Aug 2026 22:37:02 GMT",
+     "summary": "IT之家 8 月 16 日消息，安全公司 Surfshark 现已披露旗下 Surfshark Antivirus 反病毒业务数据报告，统计结果显示，Windows 用户遭遇恶意软件攻击的频率约为 macOS 用户的 6 倍。 Surfshark 表示，其针对 2026 年 1 月至 7 月期间累计约 39.1 万次恶意软件检测记录进行了分析。结果显示，虽然 Windows 用户仅占 Surfshark Antivirus 活跃用户总数的 66%，但却贡献了 92% 的恶意软件检测事件；相比之下，macOS 用户占用户总数的 34%，但仅对应 8% 的检测记录。按照单个用户平均遭遇威胁次数计算",
+     "source": "IT之家",
+     "zh": "安全公司 Surfshark：微软 Windows 用户遭遇恶意软件攻击频率约为苹果 macOS 的 6 倍"
+    },
+    {
+     "title": "Triple Product Rule of Partial Derivatives",
+     "link": "https://en.wikipedia.org/wiki/Triple_product_rule",
+     "pubDate": "Sat, 15 Aug 2026 22:15:33 +0000",
+     "summary": "Article URL: https://en.wikipedia.org/wiki/Triple_product_rule Comments URL: https://news.ycombinator.com/item?id=49314790 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "偏导数的三重乘积法则"
+    },
+    {
+     "title": "Engineers will do anything to avoid learning from history",
+     "link": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
+     "pubDate": "Sat, 15 Aug 2026 22:08:22 +0000",
+     "summary": "Article URL: https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/ Comments URL: https://news.ycombinator.com/item?id=49314744 Points: 12 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "工程师会尽一切努力避免从历史中吸取教训"
+    },
+    {
+     "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+     "link": "https://xescu.re/keeta-consensus.pdf",
+     "pubDate": "Sat, 15 Aug 2026 21:49:45 +0000",
+     "summary": "Article URL: https://xescu.re/keeta-consensus.pdf Comments URL: https://news.ycombinator.com/item?id=49314642 Points: 3 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Keeta 共识的建模与验证 [pdf]"
+    },
+    {
      "title": "Bede Liu, a digital signal processing pioneer, has died",
      "link": "https://spectrum.ieee.org/digital-signal-processing",
      "pubDate": "Sat, 15 Aug 2026 21:45:54 +0000",
-     "summary": "Article URL: https://spectrum.ieee.org/digital-signal-processing Comments URL: https://news.ycombinator.com/item?id=49314615 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://spectrum.ieee.org/digital-signal-processing Comments URL: https://news.ycombinator.com/item?id=49314615 Points: 17 # Comments: 1",
      "source": "Hacker News",
      "zh": "数字信号处理先驱Bede Liu去世"
     },
@@ -1772,9 +1812,17 @@
      "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
      "link": "https://en.wikipedia.org/wiki/Wow!_signal",
      "pubDate": "Sat, 15 Aug 2026 21:42:47 +0000",
-     "summary": "Article URL: https://en.wikipedia.org/wiki/Wow!_signal Comments URL: https://news.ycombinator.com/item?id=49314596 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://en.wikipedia.org/wiki/Wow!_signal Comments URL: https://news.ycombinator.com/item?id=49314596 Points: 28 # Comments: 3",
      "source": "Hacker News",
      "zh": "Wow 信号是 1977 年 8 月 15 日检测到的强窄带无线电信号"
+    },
+    {
+     "title": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+     "link": "https://github.com/christensen143/claude-trofeo-hud",
+     "pubDate": "Sat, 15 Aug 2026 21:42:39 +0000",
+     "summary": "Article URL: https://github.com/christensen143/claude-trofeo-hud Comments URL: https://news.ycombinator.com/item?id=49314594 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD"
     },
     {
      "title": "A look at Unitree&apos;s G1 and R1, the humanoid robots behind viral influencer accounts worldwide, as Unitree shipped 5,500+ units in 2025 and readies its China IPO (Zeyi Yang/Wired)",
@@ -1785,36 +1833,12 @@
      "zh": "看看 Unitree 的 G1 和 R1，这是全球病毒式影响者账户背后的人形机器人，Unitree 在 2025 年出货量超过 5,500 台，并准备在中国进行 IPO（Zeyi Yang/Wired）"
     },
     {
-     "title": "No-New-Physics Consciousness",
-     "link": "https://www.overcomingbias.com/p/no-new-physics-consciousness",
-     "pubDate": "Sat, 15 Aug 2026 21:37:52 +0000",
-     "summary": "Article URL: https://www.overcomingbias.com/p/no-new-physics-consciousness Comments URL: https://news.ycombinator.com/item?id=49314567 Points: 4 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "非新物理意识"
-    },
-    {
-     "title": "Abdominal fat predicts heart disease risk better than BMI",
-     "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-     "pubDate": "Sat, 15 Aug 2026 21:14:34 +0000",
-     "summary": "Article URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi Comments URL: https://news.ycombinator.com/item?id=49314403 Points: 11 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "腹部脂肪比体重指数更能预测心脏病风险"
-    },
-    {
-     "title": "Cultivating a state of mind where new ideas are born (2023)",
-     "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
-     "pubDate": "Sat, 15 Aug 2026 20:54:11 +0000",
-     "summary": "Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 31 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "培养新想法诞生的心态（2023）"
-    },
-    {
-     "title": "Humazon",
-     "link": "https://hughhowey.com/humazon/",
-     "pubDate": "Sat, 15 Aug 2026 20:18:37 +0000",
-     "summary": "Article URL: https://hughhowey.com/humazon/ Comments URL: https://news.ycombinator.com/item?id=49313941 Points: 3 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "胡马松"
+     "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+     "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+     "pubDate": "Sat, 15 Aug 2026 21:21:27 +0000",
+     "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+     "source": "Ars Technica",
+     "zh": "VisionQuest 预告片拉开了迪士尼 D23 粉丝活动的序幕"
     },
     {
      "title": "《牛来》出圈：AI 越会生成，“活人感”为何越值钱",
@@ -1929,22 +1953,6 @@
      "zh": "柏能集团警告：AI 热潮加剧供应紧张，显卡短缺或推高 PC 价格"
     },
     {
-     "title": "《辛普森一家》创作者称，类似《GTA》的《辛普森：横冲直撞》游戏有望回归",
-     "link": "https://www.ithome.com/0/990/188.htm",
-     "pubDate": "Sat, 15 Aug 2026 15:14:42 GMT",
-     "summary": "IT之家 8 月 15 日消息，据游戏媒体 Kotaku 今天报道，《辛普森一家》创作者马特 · 格勒宁（Matt Groening）昨天在迪士尼 D23 大会透露， 《辛普森：横冲直撞》游戏将以某种形式回归 。 IT之家从原报道获悉，《辛普森一家》现任节目主管马特 · 塞尔曼随后插话：“也可能不会。” 作为参考，《辛普森：横冲直撞》推出于 2003 年，其玩法类似《侠盗猎车手 3》。然而在这之后，这款游戏便没有了续作，近年来也没有推出过重制版。 实际上，马特 · 塞尔曼曾参与过《辛普森：横冲直撞》的编剧工作。今年 3 月他对此表示：“这款游戏真的很有意思。我参与了《横冲直撞》的编剧工作，当时",
-     "source": "IT之家",
-     "zh": "《辛普森一家》创作者称，类似《GTA》的《辛普森：横冲直撞》游戏有望回归"
-    },
-    {
-     "title": "全球第一：阿里通义千问 AI 模型全球下载量破 30 亿，碾压 Meta 和谷歌",
-     "link": "https://www.ithome.com/0/990/187.htm",
-     "pubDate": "Sat, 15 Aug 2026 15:10:36 GMT",
-     "summary": "IT之家 8 月 15 日消息，据彭博社今日报道，阿里旗下开源 AI 模型千问家族在过去六个月内全球累计下载量突破 30 亿次，超越 Meta、Alphabet 等一众竞争对手，成为全球下载量第一的 AI 模型。 根据开源 AI 社区 Hugging Face 于当地时间 8 月 14 日发布的《开放模型现状》报告，2026 年谷歌模型下载量约 4.18 亿次，Meta 约 2.27 亿次，而阿里千问达到了 20.45 亿次（仅 Hugging Face Hub 上的下载量，不含魔搭社区等平台），远超其他竞品。 阿里表示，千问系列累计已开源超过 460 个模型，并衍生出超 30 万个衍生模型。",
-     "source": "IT之家",
-     "zh": "全球第一：阿里通义千问 AI 模型全球下载量破 30 亿，碾压 Meta 和谷歌"
-    },
-    {
      "title": "Anthropic details Claude&apos;s text watermark: it only shows Claude was likely involved, is sparse in code and factual text, and disappears after a full rewrite (Anthropic)",
      "link": "https://www.techmeme.com/260815/p11#a260815p11",
      "pubDate": "Sat, 15 Aug 2026 11:05:04 -0400",
@@ -1991,14 +1999,6 @@
      "summary": "一个时代在退潮，下一个时代还未到来。",
      "source": "钛媒体",
      "zh": "奥德赛、龙餐馆，是电影的解药吗？"
-    },
-    {
-     "title": "AI正在批量制造“幽灵”",
-     "link": "https://www.tmtpost.com/8104535.html",
-     "pubDate": "Sat, 15 Aug 2026 20:28:16 +0800",
-     "summary": "“你是gg还是mm？”“我是AI。”",
-     "source": "钛媒体",
-     "zh": "AI正在批量制造“幽灵”"
     }
    ]
   },
@@ -2257,6 +2257,94 @@
    "total": 13,
    "items": [
     {
+     "title": "利用11家空壳公司虚开发票6874万元 4人受到处理",
+     "link": "http://stock.eastmoney.com/news/1406,202608163842464042.html",
+     "pubDate": "Sun, 16 Aug 2026 06:41:39 +0800",
+     "summary": "中经记者晏国文卢志坤北京报道 （虚开发票案件判决书。 中国裁判文书网/截图） 近日，山西霍州一起虚开发票案件受到关注。 中国裁判文书网显示，公诉机关指控，自2019年至2024年期间，被告人曹某伙同郑某（另案处理)、田某（另案处理)、韦某（另案处理）等人在无真实交易的情况下，以市场推广服务为名，通过霍州市11家空壳公司先后向成都某甲有限公司、江苏某大丰海制药有限公司、成都某乙有限公司等多家公司开具增值税普通发票985份，票面金额6874.6908万元，获利5万元（已退缴)。 2026年1月16日，法院判决，曹某犯虚开发票罪，判处有期徒刑2年9个月，缓刑3年，并处罚金4万元。（罚金已缴纳）另外，",
+     "source": "东方财富股票",
+     "zh": "利用11家空壳公司虚开发票6874万元 4人受到处理"
+    },
+    {
+     "title": "他想让自己被听懂",
+     "link": "http://www.eeo.com.cn/2026/0816/999842.shtml",
+     "pubDate": "Sun, 16 Aug 2026 06:39:11 +0800",
+     "summary": "波折是邱生...",
+     "source": "经济观察网",
+     "zh": "他想让自己被听懂"
+    },
+    {
+     "title": "当非遗跨越山海：石榴花开处，青春正接力",
+     "link": "http://www.eeo.com.cn/2026/0816/999841.shtml",
+     "pubDate": "Sun, 16 Aug 2026 06:39:11 +0800",
+     "summary": "苗族挑花的省级代表性传承人滕静蓉（右）与维吾尔族花毡、印花布织染技艺传承人帕丽旦·买买提共同创作。受访者供图 在新疆石河子会展中心的湖南展位上，几幅挂画颇为特别。苗族挑花技艺织就的骏马、祥云、宝瓶，搭配着维吾尔族...",
+     "source": "经济观察网",
+     "zh": "当非遗跨越山海：石榴花开处，青春正接力"
+    },
+    {
+     "title": "文质彬彬·每日好词语｜夺胎换骨",
+     "link": "http://www.eeo.com.cn/2026/0816/999840.shtml",
+     "pubDate": "Sun, 16 Aug 2026 06:39:11 +0800",
+     "summary": "整理/谭思静 制图/张玉佳 夺胎换骨 原意为脱去凡胎俗骨而换为圣胎仙骨，后比喻在诗文创作中援用前人作品的意思但能用自己的语言去表达而另立新意的一种技法。强调师法前人而不露痕迹并能有...",
+     "source": "经济观察网",
+     "zh": "文质彬彬·每日好词语｜夺胎换骨"
+    },
+    {
+     "title": "Royal Gold’s (RGLD) Profits Doubled, So Why Add A Buyback Now?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-profits-doubled-223104992.html",
+     "pubDate": "2026-08-15T22:31:04Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "皇家黄金 (RGLD) 的利润翻了一番，为什么现在要增加回购？"
+    },
+    {
+     "title": "摩洛哥加强边境管控 拦截294名企图非法越境人员",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842463880.html",
+     "pubDate": "Sun, 16 Aug 2026 06:30:26 +0800",
+     "summary": "当地时间15日，摩洛哥安全部门数据显示，截至当天14时45分，摩安全部队在靠近西班牙北非飞地休达的边境地区拦截294名企图非法越境人员，其中248人来自撒哈拉以南非洲国家，46人为摩洛哥人。 据悉，摩洛哥安全部门目前仍在边境城市夫尼代格以及通往边境的其他路线开展行动，部署 无人机 开展空中监视，出动机动干预力量和水炮车，并加强检查站及主要道路沿线的安全监控。 7月底，一则关于西班牙边境政策的错误信息在社交媒体传播，导致约8万人以冒险泅渡等方式从摩洛哥偷渡到休达，引发西班牙近年来最严重的边境移民危机，至少96人死于偷渡途中。 鉴于日前互联网上出现鼓动人们15日再次集体偷渡的帖文，摩洛哥和西班牙高",
+     "source": "东方财富股票",
+     "zh": "摩洛哥加强边境管控 拦截294名企图非法越境人员"
+    },
+    {
+     "title": "早读｜20天直达欧洲！中欧北极快航实现常态化运营",
+     "link": "http://finance.eastmoney.com/news/1354,202608163842463986.html",
+     "pubDate": "Sun, 16 Aug 2026 06:30:07 +0800",
+     "summary": "早上好！上观新闻『早读』来啦！今天是2026年8月16日星期日，农历七月初四。 § 昨日今晨 北极快航 ｜8月15日19时许，海杰 航运 “迪拜塔”号缓缓驶离宁波舟山港穿山港区集装箱码头，标志着中欧北极集装箱航线（简称“中欧北极快航”）正式迈入夏季通航季周班运营新阶段，为中欧贸易开辟一条快捷高效、绿色低碳、韧性强劲的北向 物流 大通道。 全国首例｜ 记者8月15日从最高人民法院获悉，在生态环境法典施行当日，全国首例适用生态环境法典审理的噪声污染责任纠纷案在浙江省衢州市衢江区人民法院开庭并当庭宣判。 绝杀夺冠 ｜8月15日，2026年泛 太平洋 游泳锦标赛女子50米蛙泳项目中，中国泳军迎来历史性",
+     "source": "东方财富股票",
+     "zh": "早读｜20天直达欧洲！中欧北极快航实现常态化运营"
+    },
+    {
+     "title": "“AI神童”爆仓引发连锁反应 美量化巨头被曝单月亏损150亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842463797.html",
+     "pubDate": "Sun, 16 Aug 2026 06:26:17 +0800",
+     "summary": "财联社8月16日讯（编辑赵昊） 最新消息显示，美国的高频交易做市商简街（Jane Street）今年7月录得约150亿美元亏损。知情人士透露，这家量化巨头向贷款方披露了这一数字。 对于简街而言，这是一场罕见的挫折。近年来，简街已成为全球市场举足轻重的参与者之一。在本次亏损发生之前，简街的季度业绩一直在刷新公司自己的纪录。 财联社先前提到，简街曾在今年第一季度实现创纪录的161亿美元净交易收入，超越了华尔街的顶级投资 银行 以及像城堡证券和Hudson River Trading这样的竞争对手。 知情人士称，即便计入7月的这笔亏损，在截至本周五的过去一年里，简街的净交易收入仍超过400亿美元。 ",
+     "source": "东方财富股票",
+     "zh": "“AI神童”爆仓引发连锁反应 美量化巨头被曝单月亏损150亿美元"
+    },
+    {
+     "title": "MercadoLibre (MELI) Bets Big On Growth. Is The Payoff Worth The Wait?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-meli-bets-big-growth-221741258.html",
+     "pubDate": "2026-08-15T22:17:41Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "MercadoLibre (MELI) 押注于增长。回报值得等待吗？"
+    },
+    {
+     "title": "河南清潩河鄢陵县仓头村段溃口实现成功合龙",
+     "link": "http://finance.eastmoney.com/news/11790,202608163842463411.html",
+     "pubDate": "Sun, 16 Aug 2026 06:13:31 +0800",
+     "summary": "8月15日23时56分，河南清潩河鄢陵县仓头村段溃口实现成功合龙。 受持续降雨及上游来水影响， 8月13日上午10时许，清潩河鄢陵县仓头村段一处农田排涝闸被冲毁，溃口宽度10余米。溃口处泄水对下游西华县逍遥镇部分村庄造成一定影响，另有部分农田被淹没。险情发生后，河南省先后组织专家和救援力量300余人、投入机械40台全力抢险。（央视新闻） （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "河南清潩河鄢陵县仓头村段溃口实现成功合龙"
+    },
+    {
+     "title": "日本千叶县暴雨已致9人死亡 超千栋房屋被淹",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842463352.html",
+     "pubDate": "Sun, 16 Aug 2026 06:10:14 +0800",
+     "summary": "据日本千叶县政府和警方16日公布的消息，截至目前，千叶县13日开始的暴雨已导致9人死亡，受淹房屋超过1000栋。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "日本千叶县暴雨已致9人死亡 超千栋房屋被淹"
+    },
+    {
      "title": "Host Hotels (HST) Just Raised Its Outlook. Can Luxury Travel Keep Delivering?",
      "link": "https://finance.yahoo.com/markets/stocks/articles/host-hotels-hst-just-raised-215502105.html",
      "pubDate": "2026-08-15T21:55:02Z",
@@ -2271,22 +2359,6 @@
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "吉姆·克莱默 (Jim Cramer) 揭露霍尼韦尔航空航天公司 (纳斯达克股票代码：HONA) 的问题所在"
-    },
-    {
-     "title": "Jim Cramer Said Domino’s Was Better Than Papa John’s International, Inc. (NASDAQ:PZZA) – But Is He Right?",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-domino-better-213509638.html",
-     "pubDate": "2026-08-15T21:35:09Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "吉姆·克莱默 (Jim Cramer) 表示达美乐比棒约翰国际公司 (纳斯达克股票代码：PZZA) 更好 – 但他是对的吗？"
-    },
-    {
-     "title": "Diageo (DEO) Vs Constellation (STZ): Hedge Funds Appear To Mirror Jim Cramer’s Sentiment",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/diageo-deo-vs-constellation-stz-213214804.html",
-     "pubDate": "2026-08-15T21:32:14Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "帝亚吉欧 (DEO) 与星座 (STZ)：对冲基金似乎反映了吉姆·克莱默 (Jim Cramer) 的情绪"
     },
     {
      "title": "Iran rebuffs Trump&apos;s claim over Strait of Hormuz amid report of another ship being struck",
@@ -2423,78 +2495,6 @@
      "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
      "source": "CNBC",
      "zh": "据报道，Anthropic 第二季度收入跃升至 115 亿美元以上"
-    },
-    {
-     "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
-     "link": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
-     "pubDate": "Sat, 15 Aug 2026 14:19:35 GMT",
-     "summary": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.",
-     "source": "CNBC",
-     "zh": "战略石油储备已接近枯竭水平，引发人们对洞穴和作业受损的担忧"
-    },
-    {
-     "title": "Warren Buffett named these 3 stocks as favorites for a reason",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-named-3-stocks-140400163.html",
-     "pubDate": "2026-08-15T14:04:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "沃伦·巴菲特将这三只股票列为最爱是有原因的"
-    },
-    {
-     "title": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
-     "link": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
-     "pubDate": "Sat, 15 Aug 2026 12:30:01 GMT",
-     "summary": "Investors have flocked to short-term investments like ultra-short bond funds in anticipation of a stock market correction and with long-term bonds broken.",
-     "source": "CNBC",
-     "zh": "赚不到现金，长期债券破裂，这些是2026年市场的安全交易"
-    },
-    {
-     "title": "清凉度假还能收获健康“锦囊” 重庆市级健康集市IP首次落地高山避暑度假区",
-     "link": "http://www.eeo.com.cn/2026/0815/999785.shtml",
-     "pubDate": "Sat, 15 Aug 2026 20:26:12 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 唐雨）8月14日傍晚，万盛旅游度假区游客服务中心停车场人头攒动。由重庆市爱卫办、市卫生健康委、万盛经济技术开发区管委会联合主办的“清凉避暑·健康同行”市级健康集市专场活动在此举行。这是重庆首次将健康集市特色IP落地避暑度假区，专为在黑山谷景区避暑的“一老一小”群体及当地居民提供一站式避暑健康服务。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/3...",
-     "source": "经济观察网",
-     "zh": "清凉度假还能收获健康“锦囊” 重庆市级健康集市IP首次落地高山避暑度假区"
-    },
-    {
-     "title": "借维权之名敲诈投顾机构，37人落网！上海亚商投资顾问有限公司报案牵出系列团伙",
-     "link": "http://www.eeo.com.cn/2026/0815/999784.shtml",
-     "pubDate": "Sat, 15 Aug 2026 20:26:04 +0800",
-     "summary": "近年来，证券市场上出现借维权之名教唆证券咨询公司客户办理退费，并代理客户投诉、威胁证券咨询公司的非法团伙，严重扰乱金融市场秩序，侵害证券咨询公司合法利益。近日，武汉警方的一记重拳，让这类打着\"维权\"旗号行敲诈之实的团伙现出原形。 7月29日，武汉市公安局青山区分局（武汉化学工业区分局）组织100余名警力集中收网，一举打掉4个非法实施网络敲诈勒索的犯罪团伙，刑事拘留37人。截至8月10日，青山警方通过工作...",
-     "source": "经济观察网",
-     "zh": "借维权之名敲诈投顾机构，37人落网！上海亚商投资顾问有限公司报案牵出系列团伙"
-    },
-    {
-     "title": "电影《牛来》反向爆火！综合票房突破100万元！",
-     "link": "http://www.eeo.com.cn/2026/0815/999782.shtml",
-     "pubDate": "Sat, 15 Aug 2026 20:13:04 +0800",
-     "summary": "据券商中国报道，8月15日，关于2026年暑期档动画电影《牛来》的多个话题冲上热搜，引发热议。该影片以奇特的画风吸引了众多网友关注。 随着网络热度上升，该影片的票房及排片场次突然暴增，据灯塔专业版数据，影片《牛来》今日上映第11天，综合票房（含预售）突破100万元。而在此之前，该影片上映9天累计票房仅有7169元，创下2026年度院线动画电影票房最低纪录。 有网友表示，该电影建模粗糙，画面全程崩坏，被吐槽...",
-     "source": "经济观察网",
-     "zh": "电影《牛来》反向爆火！综合票房突破100万元！"
-    },
-    {
-     "title": "Ukraine left exposed as Patriot launchers run empty",
-     "link": "https://www.ft.com/content/6448b0af-f2ed-4067-b814-73f41b56fa78?syn-25a6b1a6=1",
-     "pubDate": "Sat, 15 Aug 2026 12:00:05 GMT",
-     "summary": "Kyiv’s military momentum at risk as dwindling interceptor stocks leave it vulnerable to Russia’s winter campaign",
-     "source": "Financial Times",
-     "zh": "爱国者发射器空空如也，乌克兰暴露无遗"
-    },
-    {
-     "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
-     "link": "https://wallstreetcn.com/articles/3779514",
-     "pubDate": "Sat, 15 Aug 2026 19:58:24 +0800",
-     "summary": "当前AI泡沫环境下的最优投资策略，是同时做多\"傲慢\"（AI科技龙头）与\"偏见\"（被市场冷落的失意资产），以此捕捉名义GDP泡沫最后冲顶阶段的双向收益。 据追风交易台消息，美银证券首席策略师Michael Hartnett在最新研报中表示，美银牛熊指标从9.7小幅回落至9.3，仍处于极端看多区间，继续维持\"卖出\"信号。与此同时，过去一周资金呈现结构性分化：科技股遭遇七周来最大单周流出，黄金获今年1月以来最大单周流入，大宗商品年内回报高达58.9%，而比特币年内跌幅接近28%。 美银指出，当前大类资产配置的核心逻辑维持规避债券、规避美元、全仓AI的框架并因政策制定者将股市视为\"大而不倒\"而进一步强",
-     "source": "华尔街见闻",
-     "zh": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”"
-    },
-    {
-     "title": "群防群治·百日攻坚｜重庆开展风险隐患“一键报险”操作及风险核查业务培训",
-     "link": "http://www.eeo.com.cn/2026/0815/999772.shtml",
-     "pubDate": "Sat, 15 Aug 2026 19:26:22 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 梁浩楠）为深入推进群防群治百日攻坚行动，8月14日，重庆开展风险隐患“一键报险”操作及风险核查业务培训。市应急管理局统筹相关行业部门，面向乡镇网格员、村社监测员、基层志愿者等解读识别技能、奖励标准、上报流程。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/80C74765FB5471DD499A0D053DE906FE.png\" alt=\"培训现场。受访单位供图\" data-title=\"培训现场。...",
-     "source": "经济观察网",
-     "zh": "群防群治·百日攻坚｜重庆开展风险隐患“一键报险”操作及风险核查业务培训"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/16 04:22:15",
+ "generated_at": "2026/8/16 04:49:15",
  "recent_days": 7,
  "industries": [
   {
@@ -23,14 +23,6 @@
      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
      "source": "TechCrunch AI",
      "zh": "SpaceX 正式完成 Cursor 收购"
-    },
-    {
-     "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
-     "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
-     "pubDate": "Sat, 15 Aug 2026 11:28:29 +0000",
-     "summary": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ",
-     "source": "MarkTechPost",
-     "zh": "微调工具调用 LLM：使用 XYZ-Aquila-SFT 和 Qwen3 的完整指南"
     },
     {
      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
@@ -142,7 +134,7 @@
      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400",
      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper ",
      "source": "arXiv cs.AI",
-     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商的多代理调度"
+     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商多代理调度"
     },
     {
      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
@@ -247,6 +239,14 @@
      "summary": "智东西 编译 | 茄子 编辑 | 程茜 智东西8月14日消息，今天，外媒彭博社援引知情人士报道，按照当前经营表现推算，OpenAI年化营收已超过400亿美元（约合人民币2708亿元），较2025年末的200多亿美元近乎翻倍。同日，OpenAI宣布任命谷歌旗下网络安全公司Wiz原总裁兼首席运营官达利·拉吉奇（Dali Rajic）为首席营收官，负责管理OpenAI全球营收体系。 ▲OpenAI官宣新任首席营收官达利·拉吉奇（图源：OpenAI） OpenAI首席营收官一职设立不到一年便迎来换帅。2025年12月，时任Salesforce旗下企业协同办公工具Slack CEO的丹妮丝·德雷瑟（De",
      "source": "智东西",
      "zh": "OpenAI被曝ARR破2000亿，官宣新任首席营收官"
+    },
+    {
+     "title": "刚刚，GLM-5.3来了！拿下多个开源SOTA，我用它“魔改”DeepSeek Harness",
+     "link": "https://zhidx.com/p/584913.html",
+     "pubDate": "Fri, 14 Aug 2026 14:30:57 +0800",
+     "summary": "智东西 作者 | 陈骏达 编辑 | 心缘 智东西8月14日报道，就在刚刚，智谱发布了其 最新一代旗舰模型GLM-5.3 ，并宣布模型将 在两周内开源 。这是一个拥有7430亿个参数的模型，和此前的GLM模型一样主打编程。 在多项主流基准测试中，GLM-5.3位居所有已开源或即将开源模型中的第一；其在编程与智能体任务上的能力， 已逼近Claude Fable 5、GPT-5.6 Sol等海外顶尖模型 。 与国内模型相比，GLM-5.3与Kimi K3 在编程和智能体领域互有胜负 ，并在绝大部分基准测试中领先DeepSeek-V4-Pro-0813。而在 网络安全能力方面，GLM-5.3则展现出一",
+     "source": "智东西",
+     "zh": "刚刚，GLM-5.3来了！拿下多个开源SOTA，我用它“魔改”DeepSeek Harness"
     }
    ]
   },
@@ -342,7 +342,7 @@
      "pubDate": "Fri, 14 Aug 2026 15:00:13 +0000",
      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transistors while enabling strong gate control. Silicon transistors are approaching physical limits that make ea",
      "source": "SemiWiki",
-     "zh": "台积电的 0.42 纳米突破可能推动晶体管超越硅"
+     "zh": "台积电的 0.42 纳米突破可以推动晶体管超越硅"
     },
     {
      "title": "Google joins OpenROAD EDA initiative",
@@ -830,7 +830,7 @@
      "pubDate": "Wed, 12 Aug 2026 17:15:41 +0000",
      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
      "source": "TechCrunch Transport",
-     "zh": "据报道 Uber Freight 在黑客组织声称数据泄露后正在进行调查"
+     "zh": "据报道，Uber Freight 在黑客组织声称数据泄露后正在进行调查"
     },
     {
      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
@@ -862,7 +862,7 @@
      "pubDate": "Sat, 15 Aug 2026 12:00:00 -0500",
      "summary": "Following a year of tighter sanctions and Ukrainian attacks on refineries, ports and tankers, Russia’s crude output has fallen further in the second half of 2026, severely affecting the nation’s crude production outlook. Factoring in these disruptions, Rystad Energy has revised its Russian crude pro",
      "source": "OilPrice",
-     "zh": "俄罗斯石油工业已经没有空间来承受更多冲击"
+     "zh": "俄罗斯石油工业已经没有足够的空间来吸收更多的冲击"
     },
     {
      "title": "Mexico Is Betting on Biofuel to Tackle Its Seaweed Crisis",
@@ -985,12 +985,12 @@
      "zh": "量子计算正在快速到来。公用事业准备好了吗？"
     },
     {
-     "title": "WSP capitalizes on surging US power infrastructure construction",
+     "title": "WSP capitalizes on surging US power work",
      "link": "https://www.utilitydive.com/news/wsp-power-generation-nuclear-data-centers-construction-us/827577/",
      "pubDate": "Fri, 14 Aug 2026 10:40:05 -0400",
      "summary": "Power now accounts for as much as 40% of the company&rsquo;s revenue, CEO Alexandre L&rsquo;Heureux said during a second-quarter earnings call.",
      "source": "Utility Dive",
-     "zh": "科进充分利用美国电力基础设施建设的蓬勃发展"
+     "zh": "科进充分利用美国电力工作的激增"
     },
     {
      "title": "Recurrent Energy bags US$695 million for 330MW California solar project",
@@ -1017,20 +1017,12 @@
      "zh": "“数据准确性是最重要的事情之一”：enSights 首席执行官谈 PJM 中的 BESS 经济学"
     },
     {
-     "title": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals",
-     "link": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
-     "pubDate": "Fri, 14 Aug 2026 09:02:30 -0400",
-     "summary": "PowerTransitions aims to buy a 1.2-GW power plant in New York for&nbsp;an &ldquo;energy campus.&rdquo; &nbsp; TransAlta intends to buy two&nbsp;power plants in Colorado totaling about 319 MW.",
-     "source": "Utility Dive",
-     "zh": "FERC 批准 TransAlta 和 PowerTransitions 燃气发电厂交易"
-    },
-    {
      "title": "The Hydrogen Stream: Commissioning begins for 2.2 GW Neom H2 project in Saudi Arabia",
      "link": "https://www.pv-magazine.com/2026/08/14/the-hydrogen-stream-commissioning-begins-for-2-2-gw-neom-h2-project-in-saudi-arabia/",
      "pubDate": "Fri, 14 Aug 2026 12:43:37 +0000",
      "summary": "In other news, the Schleswig-Holstein Ministry of Energy Transition reportedly confirmed the cancellation of the 2.1 GW HyScale 100 electrolyzer project at a German refinery, with a lack of planning certainty cited among the reasons. Power to Hydrogen has begun installing a 500 kW AEM electrolyzer i",
      "source": "pv magazine",
-     "zh": "氢流：沙特阿拉伯 2.2 GW Neom H2 项目开始调试"
+     "zh": "氢流：沙特阿拉伯 2.2 吉瓦 Neom H2 项目开始调试"
     },
     {
      "title": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
@@ -1087,6 +1079,14 @@
      "summary": "On this episode of the This Week in Cleantech podcast, Mark Chediak from Bloomberg breaks down Trump's new 15% tariffs and price floors on imported polysilicon and its derivatives, including wafers, cells and modules.",
      "source": "Renewable Energy World",
      "zh": "特朗普新的太阳能关税能否缓解国内供应问题？ ——本周《清洁技术》"
+    },
+    {
+     "title": "FEOC compliance doesn’t end at signing. Here’s where it actually breaks down",
+     "link": "https://www.pv-tech.org/feoc-compliance-doesnt-end-at-signing-heres-where-it-actually-breaks-down/",
+     "pubDate": "Fri, 14 Aug 2026 09:34:57 +0000",
+     "summary": "Foreign Entity of Concern rules create a multitude of new risks for US solar developers, some less visible than others. Intertek CEA’s Jordan Wilson explores the key steps towards minimising FEOC exposure in PV module purchase agreements.",
+     "source": "PV Tech",
+     "zh": "FEOC 合规性并不会在签署时结束。这是它真正崩溃的地方"
     }
    ]
   },
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "《牛来》出圈：AI 越会生成，“活人感”为何越值钱",
+     "link": "https://www.huxiu.com/article/4883406.html?f=rss",
+     "pubDate": "Sun, 16 Aug 2026 04:18:28 +0800",
+     "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 这两天，《牛来》被抖音推成了一个很奇怪的样本。 人们起初围观它，恰恰因为它看起来不够好：建模粗，动作硬，镜头里有不少一眼能看出的局促。随后，吐槽变成二创，二创变成一种“我也看过这部片”的网络暗号。再往后，评论区开始出现另一种说法：它当然不好看，但看得出有人真的把它做完了。 粗糙的手工赢了虚伪的AI，人类又靠真诚扳回一城。 围绕制作成本、票房和主创经历的网传数字，仍然要等片方、平台和票房数据进一步核实。可即使先把这些精确数字放到一边，《牛来》的传播已经把一个更值得讨论的问题推到台前：为什么一部粗糙的作品，会被读成“有活人感”；许多画面更细腻",
+     "source": "虎嗅",
+     "zh": "《牛来》出圈：AI 越会生成，“活人感”为何越值钱"
+    },
+    {
      "title": "Sources: Nvidia in talks to invest up to $3B in SoftBank-backed data center developer SB Energy that aims to IPO soon and is behind a huge OpenAI campus in Ohio (The Information)",
      "link": "https://www.techmeme.com/260815/p14#a260815p14",
      "pubDate": "Sat, 15 Aug 2026 15:40:01 -0400",
@@ -1769,20 +1777,20 @@
      "zh": "消息来源：Nvidia 正在洽谈向软银支持的数据中心开发商 SB Energy 投资高达 30 亿美元，SB Energy 的目标是尽快 IPO，并且是俄亥俄州一个巨大的 OpenAI 园区的背后（The Information）"
     },
     {
-     "title": "So How Is AI Drug Discovery Doing, Really?",
-     "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-     "pubDate": "Sat, 15 Aug 2026 19:12:53 +0000",
-     "summary": "Article URL: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 25 # Comments: 13",
+     "title": "Why tech bosses keep sharing their manifestos about AI",
+     "link": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+     "pubDate": "Sat, 15 Aug 2026 19:30:32 +0000",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cz97ljy91zxo Comments URL: https://news.ycombinator.com/item?id=49313519 Points: 6 # Comments: 5",
      "source": "Hacker News",
-     "zh": "那么人工智能药物发现到底表现如何？"
+     "zh": "为什么科技巨头们不断分享他们关于人工智能的宣言"
     },
     {
-     "title": "First human trials of designer protein therapies stun US neuroscientists",
-     "link": "https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08",
-     "pubDate": "Sat, 15 Aug 2026 18:37:09 +0000",
-     "summary": "Article URL: https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08 Comments URL: https://news.ycombinator.com/item?id=49313097 Points: 11 # Comments: 20",
+     "title": "AI in drug discovery — what it is, where we stand and the path forward",
+     "link": "https://www.nature.com/articles/s41573-026-01496-2",
+     "pubDate": "Sat, 15 Aug 2026 19:12:53 +0000",
+     "summary": "Article URL: https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 33 # Comments: 21",
      "source": "Hacker News",
-     "zh": "设计蛋白疗法的首次人体试验震惊了美国神经科学家"
+     "zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路"
     },
     {
      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
@@ -1796,7 +1804,7 @@
      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
      "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
      "pubDate": "Sat, 15 Aug 2026 18:13:02 +0000",
-     "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 210 # Comments: 172",
+     "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 238 # Comments: 205",
      "source": "Hacker News",
      "zh": "人工智能并不比数学家聪明。它已经超出了记住他们的范围"
     },
@@ -1804,7 +1812,7 @@
      "title": "Thunderbird's Desktop Calendar Visual Redesign",
      "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
      "pubDate": "Sat, 15 Aug 2026 18:09:42 +0000",
-     "summary": "Article URL: https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/ Comments URL: https://news.ycombinator.com/item?id=49312823 Points: 23 # Comments: 6",
+     "summary": "Article URL: https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/ Comments URL: https://news.ycombinator.com/item?id=49312823 Points: 29 # Comments: 12",
      "source": "Hacker News",
      "zh": "Thunderbird 的桌面日历视觉重新设计"
     },
@@ -1820,7 +1828,7 @@
      "title": "BriskDB",
      "link": "https://github.com/schapman1974/briskdb",
      "pubDate": "Sat, 15 Aug 2026 17:56:57 +0000",
-     "summary": "Article URL: https://github.com/schapman1974/briskdb Comments URL: https://news.ycombinator.com/item?id=49312707 Points: 9 # Comments: 2",
+     "summary": "Article URL: https://github.com/schapman1974/briskdb Comments URL: https://news.ycombinator.com/item?id=49312707 Points: 15 # Comments: 4",
      "source": "Hacker News",
      "zh": "活跃数据库"
     },
@@ -1950,7 +1958,7 @@
      "pubDate": "Sat, 15 Aug 2026 10:30:00 -0400",
      "summary": "Saritha Rai / Bloomberg : Alibaba's open-weight models have accumulated 3B+ global downloads in the past six months; Hugging Face: Google had 418M downloads while Meta had 227M in 2026 &nbsp; &mdash;&nbsp; Alibaba Group Holding's open-weight models have accumulated more than 3 billion global downloa",
      "source": "Techmeme",
-     "zh": "阿里巴巴的开放权重模型在过去六个月累计全球下载量达到3B+； Hugging Face：2026 年 Google 的下载量为 4.18 亿，而 Meta 的下载量为 2.27 亿（Saritha Rai/彭博社）"
+     "zh": "阿里巴巴的开放权重模型在过去六个月累计全球下载量达到3B+； Hugging Face：2026 年 Google 的下载量为 4.18 亿，而 Meta 的下载量为 2.27 亿（Saritha Rai/Bloomberg）"
     },
     {
      "title": "Every fusion startup that has raised over $100M",
@@ -1991,14 +1999,6 @@
      "summary": "“你是gg还是mm？”“我是AI。”",
      "source": "钛媒体",
      "zh": "AI正在批量制造“幽灵”"
-    },
-    {
-     "title": "兴锋作浪，大模型和机器人抢着“联姻”",
-     "link": "https://www.tmtpost.com/8104508.html",
-     "pubDate": "Sat, 15 Aug 2026 20:04:24 +0800",
-     "summary": "DeepSeek在宇树IPO上的1.41亿元战配，所代表的信号正引发一系列连锁反应。",
-     "source": "钛媒体",
-     "zh": "兴锋作浪，大模型和机器人抢着“联姻”"
     }
    ]
   },
@@ -2257,6 +2257,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Iran rebuffs Trump&apos;s claim over Strait of Hormuz amid report of another ship being struck",
+     "link": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
+     "pubDate": "Sat, 15 Aug 2026 20:38:29 GMT",
+     "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
+     "source": "CNBC",
+     "zh": "伊朗拒绝特朗普对霍尔木兹海峡的主权主张，因有报道称另一艘船被击中"
+    },
+    {
+     "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+     "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
+     "pubDate": "Sat, 15 Aug 2026 20:30:00 GMT",
+     "summary": "“We were advised to return the bonus and take out a home-equity loan.”",
+     "source": "MarketWatch",
+     "zh": "“这是一把双刃剑”：我丈夫获得了 42,000 美元的奖金。它会消除我们的《平价医疗法案》补贴吗？"
+    },
+    {
      "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
      "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
      "pubDate": "Sat, 15 Aug 2026 20:00:00 GMT",
@@ -2353,14 +2369,6 @@
      "zh": "一只持有多达 800 只股票的主动基金正在跑赢主要指数。方法如下。"
     },
     {
-     "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
-     "link": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
-     "pubDate": "Sat, 15 Aug 2026 17:35:09 GMT",
-     "summary": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
-     "source": "CNBC",
-     "zh": "大麻改革正在成为两党的中期选举问题"
-    },
-    {
      "title": "China to lift travel ban on Manus founders as Meta unwinds buyout deal: FT",
      "link": "https://seekingalpha.com/news/4633587-manus-founders-return-china-meta-unwinds-buyout-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 15 Aug 2026 13:23:09 -0400",
@@ -2375,14 +2383,6 @@
      "summary": "Ballerina shoes are back in style thanks in part to nostalgia. Gen Z shoppers are even pairing them with running shorts.",
      "source": "MarketWatch",
      "zh": "芭蕾平底鞋如此受欢迎，就连勃肯 (Birkenstock) 和卡骆驰 (Crocs) 等品牌也纷纷从这一趋势中获利"
-    },
-    {
-     "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
-     "link": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
-     "pubDate": "Sat, 15 Aug 2026 16:52:00 GMT",
-     "summary": "Caps on student borrowing could also play into how America pays for college.",
-     "source": "MarketWatch",
-     "zh": "特朗普账户和祖父母 529 未来会降低大学学费吗？"
     },
     {
      "title": "Apple gets U.S. warning not to buy memory chips from China: WSJ",
@@ -2489,12 +2489,12 @@
      "zh": "沃伦·巴菲特将这三只股票列为最爱是有原因的"
     },
     {
-     "title": "清凉度假还能收获健康“锦囊” 重庆市级健康集市IP首次落地高山避暑度假区",
-     "link": "http://www.eeo.com.cn/2026/0815/999785.shtml",
-     "pubDate": "Sat, 15 Aug 2026 20:26:12 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 唐雨）8月14日傍晚，万盛旅游度假区游客服务中心停车场人头攒动。由重庆市爱卫办、市卫生健康委、万盛经济技术开发区管委会联合主办的“清凉避暑·健康同行”市级健康集市专场活动在此举行。这是重庆首次将健康集市特色IP落地避暑度假区，专为在黑山谷景区避暑的“一老一小”群体及当地居民提供一站式避暑健康服务。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/3...",
-     "source": "经济观察网",
-     "zh": "清凉度假还能收获健康“锦囊” 重庆市级健康集市IP首次落地高山避暑度假区"
+     "title": "Berkshire adds $17 billion to Alphabet stake",
+     "link": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
+     "pubDate": "Sat, 15 Aug 2026 12:50:41 GMT",
+     "summary": "Google parent Alphabet is now the third largest holding in Berkshire Hathaway's equity portfolio.",
+     "source": "CNBC",
+     "zh": "伯克希尔哈撒韦公司增持 170 亿美元 Alphabet 股份"
     }
    ]
   },

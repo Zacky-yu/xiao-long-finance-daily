@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/16 04:49:15",
+ "generated_at": "2026/8/16 05:21:23",
  "recent_days": 7,
  "industries": [
   {
@@ -24,6 +24,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
      "source": "TechCrunch AI",
      "zh": "SpaceX 正式完成 Cursor 收购"
+    },
+    {
+     "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
+     "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
+     "pubDate": "Sat, 15 Aug 2026 11:28:29 +0000",
+     "summary": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ",
+     "source": "MarkTechPost",
+     "zh": "微调工具调用 LLM：使用 XYZ-Aquila-SFT 和 Qwen3 的完整指南"
     },
     {
      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
@@ -135,7 +143,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400",
      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper ",
      "source": "arXiv cs.AI",
-     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商多代理调度"
+     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商的多代理调度"
     },
     {
      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 编译 | 茄子 编辑 | 程茜 智东西8月14日消息，今天，外媒彭博社援引知情人士报道，按照当前经营表现推算，OpenAI年化营收已超过400亿美元（约合人民币2708亿元），较2025年末的200多亿美元近乎翻倍。同日，OpenAI宣布任命谷歌旗下网络安全公司Wiz原总裁兼首席运营官达利·拉吉奇（Dali Rajic）为首席营收官，负责管理OpenAI全球营收体系。 ▲OpenAI官宣新任首席营收官达利·拉吉奇（图源：OpenAI） OpenAI首席营收官一职设立不到一年便迎来换帅。2025年12月，时任Salesforce旗下企业协同办公工具Slack CEO的丹妮丝·德雷瑟（De",
      "source": "智东西",
      "zh": "OpenAI被曝ARR破2000亿，官宣新任首席营收官"
-    },
-    {
-     "title": "刚刚，GLM-5.3来了！拿下多个开源SOTA，我用它“魔改”DeepSeek Harness",
-     "link": "https://zhidx.com/p/584913.html",
-     "pubDate": "Fri, 14 Aug 2026 14:30:57 +0800",
-     "summary": "智东西 作者 | 陈骏达 编辑 | 心缘 智东西8月14日报道，就在刚刚，智谱发布了其 最新一代旗舰模型GLM-5.3 ，并宣布模型将 在两周内开源 。这是一个拥有7430亿个参数的模型，和此前的GLM模型一样主打编程。 在多项主流基准测试中，GLM-5.3位居所有已开源或即将开源模型中的第一；其在编程与智能体任务上的能力， 已逼近Claude Fable 5、GPT-5.6 Sol等海外顶尖模型 。 与国内模型相比，GLM-5.3与Kimi K3 在编程和智能体领域互有胜负 ，并在绝大部分基准测试中领先DeepSeek-V4-Pro-0813。而在 网络安全能力方面，GLM-5.3则展现出一",
-     "source": "智东西",
-     "zh": "刚刚，GLM-5.3来了！拿下多个开源SOTA，我用它“魔改”DeepSeek Harness"
     }
    ]
   },
@@ -343,7 +343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 14 Aug 2026 15:00:13 +0000",
      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transistors while enabling strong gate control. Silicon transistors are approaching physical limits that make ea",
      "source": "SemiWiki",
-     "zh": "台积电的 0.42 纳米突破可以推动晶体管超越硅"
+     "zh": "台积电的 0.42 纳米突破可能推动晶体管超越硅"
     },
     {
      "title": "Google joins OpenROAD EDA initiative",
@@ -831,7 +831,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 12 Aug 2026 17:15:41 +0000",
      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
      "source": "TechCrunch Transport",
-     "zh": "据报道，Uber Freight 在黑客组织声称数据泄露后正在进行调查"
+     "zh": "据报道 Uber Freight 在黑客组织声称数据泄露后正在进行调查"
     },
     {
      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Just 7% of America’s Nuclear Fuel Comes From Home",
+     "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Just-7-of-Americas-Nuclear-Fuel-Comes-From-Home.html",
+     "pubDate": "Sat, 15 Aug 2026 16:00:00 -0500",
+     "summary": "The Trump administration is pushing for a homegrown nuclear power renaissance. The United States is still the largest producer of nuclear energy in the world, but that won’t last long without drastic changes in energy policy and investment at the state and federal level. The United States’ nuclear e",
+     "source": "OilPrice",
+     "zh": "美国仅 7% 的核燃料来自国内"
+    },
+    {
      "title": "The Battle Over North Sea Oil Is Heating Up Under Britain’s New PM",
      "link": "https://oilprice.com/Energy/Energy-General/The-Battle-Over-North-Sea-Oil-Is-Heating-Up-Under-Britains-New-PM.html",
      "pubDate": "Sat, 15 Aug 2026 14:00:00 -0500",
@@ -863,7 +871,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 15 Aug 2026 12:00:00 -0500",
      "summary": "Following a year of tighter sanctions and Ukrainian attacks on refineries, ports and tankers, Russia’s crude output has fallen further in the second half of 2026, severely affecting the nation’s crude production outlook. Factoring in these disruptions, Rystad Energy has revised its Russian crude pro",
      "source": "OilPrice",
-     "zh": "俄罗斯石油工业已经没有足够的空间来吸收更多的冲击"
+     "zh": "俄罗斯石油工业已经没有空间来承受更多冲击"
     },
     {
      "title": "Mexico Is Betting on Biofuel to Tackle Its Seaweed Crisis",
@@ -946,14 +954,6 @@ window.INDUSTRY_DATA = {
      "zh": "排名：人工智能领域八个大人物有多肮脏"
     },
     {
-     "title": "Why a Record-Strength El Niño Still Might Not Save Europe's Gas Market",
-     "link": "https://oilprice.com/Energy/Energy-General/Why-a-Record-Strength-El-Nio-Still-Might-Not-Save-Europes-Gas-Market.html",
-     "pubDate": "Fri, 14 Aug 2026 15:00:00 -0500",
-     "summary": "Only an exceptionally strong El Niño will meaningfully ease Europe's LNG needs this winter, and forecasters currently rate that outcome as a long shot. Rystad Energy's analysis indicates that European winter temperatures would need to be at least 2 degrees Celsius above the historical average before",
-     "source": "OilPrice",
-     "zh": "为什么创纪录强度的厄尔尼诺现象仍然可能无法拯救欧洲天然气市场"
-    },
-    {
      "title": "Data centers are officially shaping election season",
      "link": "https://www.canarymedia.com/articles/data-centers/data-centers-2026-elections",
      "pubDate": "Fri, 14 Aug 2026 12:20:00 -0400",
@@ -1023,7 +1023,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 14 Aug 2026 12:43:37 +0000",
      "summary": "In other news, the Schleswig-Holstein Ministry of Energy Transition reportedly confirmed the cancellation of the 2.1 GW HyScale 100 electrolyzer project at a German refinery, with a lack of planning certainty cited among the reasons. Power to Hydrogen has begun installing a 500 kW AEM electrolyzer i",
      "source": "pv magazine",
-     "zh": "氢流：沙特阿拉伯 2.2 吉瓦 Neom H2 项目开始调试"
+     "zh": "氢流：沙特阿拉伯 2.2 GW Neom H2 项目开始调试"
     },
     {
      "title": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
@@ -1762,12 +1762,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Cultivating a state of mind where new ideas are born",
+     "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
+     "pubDate": "Sat, 15 Aug 2026 20:54:11 +0000",
+     "summary": "Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "培养新想法诞生的心态"
+    },
+    {
      "title": "《牛来》出圈：AI 越会生成，“活人感”为何越值钱",
      "link": "https://www.huxiu.com/article/4883406.html?f=rss",
      "pubDate": "Sun, 16 Aug 2026 04:18:28 +0800",
      "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 这两天，《牛来》被抖音推成了一个很奇怪的样本。 人们起初围观它，恰恰因为它看起来不够好：建模粗，动作硬，镜头里有不少一眼能看出的局促。随后，吐槽变成二创，二创变成一种“我也看过这部片”的网络暗号。再往后，评论区开始出现另一种说法：它当然不好看，但看得出有人真的把它做完了。 粗糙的手工赢了虚伪的AI，人类又靠真诚扳回一城。 围绕制作成本、票房和主创经历的网传数字，仍然要等片方、平台和票房数据进一步核实。可即使先把这些精确数字放到一边，《牛来》的传播已经把一个更值得讨论的问题推到台前：为什么一部粗糙的作品，会被读成“有活人感”；许多画面更细腻",
      "source": "虎嗅",
      "zh": "《牛来》出圈：AI 越会生成，“活人感”为何越值钱"
+    },
+    {
+     "title": "Meta will train its AI on Newsmax, a far-right media outlet",
+     "link": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+     "pubDate": "Sat, 15 Aug 2026 20:00:14 +0000",
+     "summary": "Article URL: https://popular.info/p/meta-will-train-its-ai-on-far-right Comments URL: https://news.ycombinator.com/item?id=49313778 Points: 12 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Meta 将在极右媒体 Newsmax 上训练其人工智能"
     },
     {
      "title": "Sources: Nvidia in talks to invest up to $3B in SoftBank-backed data center developer SB Energy that aims to IPO soon and is behind a huge OpenAI campus in Ohio (The Information)",
@@ -1781,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Why tech bosses keep sharing their manifestos about AI",
      "link": "https://www.bbc.com/news/articles/cz97ljy91zxo",
      "pubDate": "Sat, 15 Aug 2026 19:30:32 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cz97ljy91zxo Comments URL: https://news.ycombinator.com/item?id=49313519 Points: 6 # Comments: 5",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cz97ljy91zxo Comments URL: https://news.ycombinator.com/item?id=49313519 Points: 12 # Comments: 23",
      "source": "Hacker News",
      "zh": "为什么科技巨头们不断分享他们关于人工智能的宣言"
     },
@@ -1789,9 +1805,17 @@ window.INDUSTRY_DATA = {
      "title": "AI in drug discovery — what it is, where we stand and the path forward",
      "link": "https://www.nature.com/articles/s41573-026-01496-2",
      "pubDate": "Sat, 15 Aug 2026 19:12:53 +0000",
-     "summary": "Article URL: https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 33 # Comments: 21",
+     "summary": "Article URL: https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 38 # Comments: 22",
      "source": "Hacker News",
      "zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路"
+    },
+    {
+     "title": "Tess's Android Wayland Compositor",
+     "link": "https://github.com/wmww/tawc",
+     "pubDate": "Sat, 15 Aug 2026 18:34:26 +0000",
+     "summary": "Article URL: https://github.com/wmww/tawc Comments URL: https://news.ycombinator.com/item?id=49313068 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Tess 的 Android Wayland 合成器"
     },
     {
      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
@@ -1802,36 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "Voltair (YC W26) 正在招聘一名试飞工程师"
     },
     {
-     "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-     "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-     "pubDate": "Sat, 15 Aug 2026 18:13:02 +0000",
-     "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 238 # Comments: 205",
-     "source": "Hacker News",
-     "zh": "人工智能并不比数学家聪明。它已经超出了记住他们的范围"
-    },
-    {
-     "title": "Thunderbird's Desktop Calendar Visual Redesign",
-     "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
-     "pubDate": "Sat, 15 Aug 2026 18:09:42 +0000",
-     "summary": "Article URL: https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/ Comments URL: https://news.ycombinator.com/item?id=49312823 Points: 29 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "Thunderbird 的桌面日历视觉重新设计"
-    },
-    {
      "title": "Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)",
      "link": "https://www.techmeme.com/260815/p13#a260815p13",
      "pubDate": "Sat, 15 Aug 2026 14:00:40 -0400",
      "summary": "Alix Coutures / The Information : Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired &nbsp; &mdash;&nbsp; Eight days after AI agent startup Warmly in late June agreed to be acquired by HubSpo",
      "source": "Techmeme",
      "zh": "资料来源：Mercor 和其他为人工智能实验室收集数据的公司正在推动对关闭或被收购的初创公司购买或许可内部数据集的需求（Alix Coutures/The Information）"
-    },
-    {
-     "title": "BriskDB",
-     "link": "https://github.com/schapman1974/briskdb",
-     "pubDate": "Sat, 15 Aug 2026 17:56:57 +0000",
-     "summary": "Article URL: https://github.com/schapman1974/briskdb Comments URL: https://news.ycombinator.com/item?id=49312707 Points: 15 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "活跃数据库"
     },
     {
      "title": "当放水不再流向工资袋",
@@ -1959,7 +1959,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 15 Aug 2026 10:30:00 -0400",
      "summary": "Saritha Rai / Bloomberg : Alibaba's open-weight models have accumulated 3B+ global downloads in the past six months; Hugging Face: Google had 418M downloads while Meta had 227M in 2026 &nbsp; &mdash;&nbsp; Alibaba Group Holding's open-weight models have accumulated more than 3 billion global downloa",
      "source": "Techmeme",
-     "zh": "阿里巴巴的开放权重模型在过去六个月累计全球下载量达到3B+； Hugging Face：2026 年 Google 的下载量为 4.18 亿，而 Meta 的下载量为 2.27 亿（Saritha Rai/Bloomberg）"
+     "zh": "阿里巴巴的开放权重模型在过去六个月累计全球下载量达到3B+； Hugging Face：2026 年 Google 的下载量为 4.18 亿，而 Meta 的下载量为 2.27 亿（Saritha Rai/彭博社）"
     },
     {
      "title": "Every fusion startup that has raised over $100M",
@@ -2258,6 +2258,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "美国印第安纳州遭遇恶劣天气 至少5人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842459924.html",
+     "pubDate": "Sun, 16 Aug 2026 05:10:36 +0800",
+     "summary": "央视记者 当地时间8月15日获悉，美国印第安纳州当局表示，本周席卷全州的强风暴和洪水已导致至少5人死亡。 过去一周，该州连降暴雨，导致多条河流的水位创下 历史新高 ，迫使居民纷纷向高处转移。目前已有十多个县宣布进入地方灾害状态，最新的灾情主要集中在从汉密尔顿县延伸至印第安纳波利斯北部郊区的河道沿线。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "美国印第安纳州遭遇恶劣天气 至少5人死亡"
+    },
+    {
+     "title": "高毅、景林美股调仓曝光！一个加仓存储龙头 一个清仓英伟达",
+     "link": "http://finance.eastmoney.com/news/1354,202608153842455945.html",
+     "pubDate": "Sun, 16 Aug 2026 05:00:00 +0800",
+     "summary": "知名私募最新美股持仓浮出水面。 近日，高毅资产旗下海外基金2026年二季度美股持仓通过美国证券交易委员会（SEC）官网披露。数据显示，截至二季度末，高毅资产海外基金共持有19只美股标的，持股总市值约9.79亿美元，按当前汇率折合人民币约66亿元。 从二季度调仓路径来看，高毅资产明显加大了对AI产业链尤其是存储板块的布局，大举增持 美光科技 、 闪迪 等存储龙头。其中， 美光科技 和 闪迪 持仓增长2倍，分别跻身高毅海外基金第六、第七大重仓股。 与此同时，另一家千亿私募景林资产的海外基金则呈现截然不同的调仓路径。二季度，景林大幅收缩美股仓位，持仓总市值较一季度末下降超过四成，并清仓Meta、 英",
+     "source": "东方财富股票",
+     "zh": "高毅、景林美股调仓曝光！一个加仓存储龙头 一个清仓英伟达"
+    },
+    {
+     "title": "特朗普释放可能参与2028年大选的信号",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842460125.html",
+     "pubDate": "Sun, 16 Aug 2026 04:56:35 +0800",
+     "summary": "美国总统特朗普在真相社交平台发布一张疑似AI生成的图片，图中他头戴印有“特朗普2028”字样的帽子。图片配文写道：“我们必将取胜。”该帖再次公开释放信号，特朗普有意角逐2028年总统的又一届任期。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普释放可能参与2028年大选的信号"
+    },
+    {
+     "title": "伊朗能源优化组织负责人：伊朗正在审议三套汽油供应管理方案",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842460046.html",
+     "pubDate": "Sun, 16 Aug 2026 04:56:35 +0800",
+     "summary": "伊朗能源优化组织负责人：伊朗正在审议三套汽油供应管理方案，其中一项提案计划向每位公民每月分配 30 升汽油配额，配额允许流转、交易。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "伊朗能源优化组织负责人：伊朗正在审议三套汽油供应管理方案"
+    },
+    {
+     "title": "环球下周看点：美联储会议纪要来袭 阿里百度等中概股发布财报",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842459862.html",
+     "pubDate": "Sun, 16 Aug 2026 04:48:27 +0800",
+     "summary": "本周，美股三大指数涨跌不一：道指累跌0.56%，标普500指数累涨0.36%， 纳斯达克 综合 指数累涨0.14%。 目前，美股主要由上市公司强劲的业绩表现支撑，部分得益于 人工智能 基础设施支出的推动。展望下周，投资者再次需要面对一系列熟悉的担忧：央行利率、通胀和地缘政治紧张局势。 鉴于美联储官员没有释放太多新的指引，该行下一步行动的不确定性升温。下周三（北京时间下周四凌晨），美联储将公布联邦公开市场委员会（FOMC）政策会议纪要。 美联储在7月29日的议息会议上连续第五次“按兵不动”，将联邦基金利率目标区间维持在3.5%至3.75%之间不变，但有三位成员投下了反对票——他们倾向于加息25个",
+     "source": "东方财富股票",
+     "zh": "环球下周看点：美联储会议纪要来袭 阿里百度等中概股发布财报"
+    },
+    {
+     "title": "美联储古尔斯比：通胀降温令人鼓舞 但需更多数据确认回归2%",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842459396.html",
+     "pubDate": "Sun, 16 Aug 2026 04:40:36 +0800",
+     "summary": "芝加哥联储主席奥斯坦·古尔斯比（Austan Goolsbee）最新表示，他对近期通胀降温感到鼓舞，希望未来几个月继续看到类似趋势，以确认通胀正回落至美联储2%的目标水平。 古尔斯比周五（8月14日）在接受采访时表示，今年夏季公布的消费者价格指数（CPI）数据令人感到乐观，表明过去一年出现的一些价格冲击（例如关税和油价上涨）正在逐渐消退。 “如果接下来连续三四个月都能取得类似6月份的表现，我会更有信心认为，我们正走在回归2%的道路上。” 古尔斯比表示，他支持美联储在7月会议上维持利率不变的决定，并称目前自己最主要的担忧是通胀。至于增 长和 就业，他表示，美国经济“基本保持稳定”。 美联储过去数",
+     "source": "东方财富股票",
+     "zh": "美联储古尔斯比：通胀降温令人鼓舞 但需更多数据确认回归2%"
+    },
+    {
      "title": "Iran rebuffs Trump&apos;s claim over Strait of Hormuz amid report of another ship being struck",
      "link": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
      "pubDate": "Sat, 15 Aug 2026 20:38:29 GMT",
@@ -2282,60 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "我今年 63 岁，是一名退休注册会计师，拥有 120 万美元的 401(k) 资金。我需要费心进行罗斯转换吗？"
     },
     {
-     "title": "京铭资本投资星环聚能 助力可控核聚变技术工程化落地",
-     "link": "http://finance.eastmoney.com/news/1354,202608153842450570.html",
-     "pubDate": "Sun, 16 Aug 2026 04:00:00 +0800",
-     "summary": "近日，星环聚能完成5亿元人民币A+轮融资。本轮投资方包括京铭资本、达晨财智、金浦投资、上海申能诚毅、阳光融汇资本、兴证资本、松青资本、洪泰基金、三元资本、盈港资本等机构，A轮投资方飞图 创投 等继续跟投。至此，公司累计融资总额已超过20亿元人民币。 本轮融资于2026年1月A轮（10亿元，上海国资领投）之后快速完成。资金将继续支撑公司核心工程事项——上海嘉定实验基地建设、NTST（负三角球形托卡马克）进场安装与运行、CTRFR-1（星环一号）方案持续迭代以及聚变堆级高温超导磁体定型生产与AI等离子体控制等关键技术的工程转化。星环聚能目前同步推进三代装置的“运行—建设—研发”体系：SUNIST-",
-     "source": "东方财富股票",
-     "zh": "京铭资本投资星环聚能 助力可控核聚变技术工程化落地"
-    },
-    {
-     "title": "首艘国产大邮轮开启大湾区首航 近4600名游客激活文旅消费动能",
-     "link": "http://finance.eastmoney.com/news/1348,202608153842453989.html",
-     "pubDate": "Sun, 16 Aug 2026 03:40:58 +0800",
-     "summary": "8月13日，爱达邮轮（Adora Cruises）旗下首艘国产大型邮轮爱达·魔都号搭载近4600名宾客从深圳 招商蛇口 国际邮轮母港启航，开启5天4晚到访越南顺化（真美）的海上之旅。 记者了解到，这是爱达·魔都号首次在大湾区运营国际邮轮航线，标志着爱达邮轮正式拉开中国海岸巡游大湾区序幕，迎来“大国重器进湾区”的重要里程碑。 据介绍，为提升邮轮游客体验，本次首航联动深圳滨海特色IP“南山八景”，创新打造“邮轮+岸上观光+文旅消费”模式，推荐行程浓缩南山千年文脉、蛇口改革底蕴、前海时代风貌与滨海生态风光，并为游客开放太子湾商圈优惠权益，进一步激活大湾区文旅消费新动能。与此同时，母港开通专用通道，为",
-     "source": "东方财富股票",
-     "zh": "首艘国产大邮轮开启大湾区首航 近4600名游客激活文旅消费动能"
-    },
-    {
-     "title": "全球二手书订单激增 供应商猜测“神秘扫货买家”为AI公司",
-     "link": "http://finance.eastmoney.com/news/1348,202608153842455173.html",
-     "pubDate": "Sun, 16 Aug 2026 03:20:13 +0800",
-     "summary": "据媒体报道， 英国、爱尔兰、美国、澳大利亚等多国二手书书店，近期均接连收到神秘买家“不同寻常”的大宗订单，买家来自美国、加拿大、欧洲大陆以及英国等地。 外界猜测，这些买家背后或为AI公司，购置这些二手书籍意在获取AI训练数据。 英国一家二手书店Barter Books联合店主表示，这种订单大约从三个月前开始出现。 异常之处在于，一般而言，一个订单中的书籍会围绕某个主题，比如体育、 汽车 等；但这些订单“完全没有规律”，“是一种很奇怪的书籍组合”。 例如最近的一笔订单中，买家要求购买约翰·勒卡雷（John le Carré）的《使命之歌》爱沙尼亚语译本、某一特定版本 出版 的安妮·勃朗特（Ann",
-     "source": "东方财富股票",
-     "zh": "全球二手书订单激增 供应商猜测“神秘扫货买家”为AI公司"
-    },
-    {
-     "title": "英伟达正洽谈向SB Energy投资30亿美元 作为OpenAI数据中心交易的一部分",
-     "link": "http://stock.eastmoney.com/news/1611,202608163842459519.html",
-     "pubDate": "Sun, 16 Aug 2026 03:20:08 +0800",
-     "summary": "英伟达 正洽谈向SB Energy投资30亿美元，作为OpenAI 数据中心 交易的一部分。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "英伟达正洽谈向SB Energy投资30亿美元 作为OpenAI数据中心交易的一部分"
-    },
-    {
-     "title": "英伟达洽谈向SB Energy投资30亿美元，系OpenAI数据中心交易组成部分",
-     "link": "http://stock.eastmoney.com/news/1611,202608163842459452.html",
-     "pubDate": "Sun, 16 Aug 2026 03:20:08 +0800",
-     "summary": "据知情人士透露， 英伟达 正洽谈向SB Energy最高投资30亿美元。SB Energy由软银集团支持，负责为OpenAI开发俄亥俄州大型 数据中心 项目。这笔投资谈判，是 英伟达 与OpenAI、SB Energy谈判的一部分； 英伟达 拟为规划中的俄亥俄 数据中心 园区提供约1000亿美元信贷支持。这类交易越来越多，英伟达凭借自身雄厚财力扶持AI相关企业与项目，以此推动各家企业采购、使用英伟达硬件。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "英伟达洽谈向SB Energy投资30亿美元，系OpenAI数据中心交易组成部分"
-    },
-    {
      "title": "Key deals this week: Workday, Diversified Energy, Aurora Cannabis, and more",
      "link": "https://seekingalpha.com/news/4633577-key-deals-this-week-workday-diversified-energy-aurora-cannabis-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 15 Aug 2026 15:15:56 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "本周主要交易：Workday、Diversified Energy、Aurora Cannabis 等"
-    },
-    {
-     "title": "卡塔尔外交部发言人：外交斡旋仍在推进之际 有关伊朗飞行员的误导性言论令我方感到意外",
-     "link": "http://finance.eastmoney.com/news/1351,202608163842459663.html",
-     "pubDate": "Sun, 16 Aug 2026 03:11:43 +0800",
-     "summary": "卡塔尔外交部发言人：外交斡旋仍在推进之际，有关伊朗飞行员的误导性言论令我方感到意外。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "卡塔尔外交部发言人：外交斡旋仍在推进之际 有关伊朗飞行员的误导性言论令我方感到意外"
     },
     {
      "title": "Think interest rates are high now? These charts offer a different perspective.",

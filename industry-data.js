@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/16 01:20:21",
+ "generated_at": "2026/8/16 01:46:36",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
      "source": "TechCrunch AI",
      "zh": "SpaceX 正式完成 Cursor 收购"
+    },
+    {
+     "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
+     "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
+     "pubDate": "Sat, 15 Aug 2026 11:28:29 +0000",
+     "summary": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ",
+     "source": "MarkTechPost",
+     "zh": "微调工具调用 LLM：使用 XYZ-Aquila-SFT 和 Qwen3 的完整指南"
     },
     {
      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
@@ -127,7 +135,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400",
      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper ",
      "source": "arXiv cs.AI",
-     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商的多代理调度"
+     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商多代理调度"
     },
     {
      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 编译 | 茄子 编辑 | 程茜 智东西8月14日消息，今天，外媒彭博社援引知情人士报道，按照当前经营表现推算，OpenAI年化营收已超过400亿美元（约合人民币2708亿元），较2025年末的200多亿美元近乎翻倍。同日，OpenAI宣布任命谷歌旗下网络安全公司Wiz原总裁兼首席运营官达利·拉吉奇（Dali Rajic）为首席营收官，负责管理OpenAI全球营收体系。 ▲OpenAI官宣新任首席营收官达利·拉吉奇（图源：OpenAI） OpenAI首席营收官一职设立不到一年便迎来换帅。2025年12月，时任Salesforce旗下企业协同办公工具Slack CEO的丹妮丝·德雷瑟（De",
      "source": "智东西",
      "zh": "OpenAI被曝ARR破2000亿，官宣新任首席营收官"
-    },
-    {
-     "title": "刚刚，GLM-5.3来了！拿下多个开源SOTA，我用它“魔改”DeepSeek Harness",
-     "link": "https://zhidx.com/p/584913.html",
-     "pubDate": "Fri, 14 Aug 2026 14:30:57 +0800",
-     "summary": "智东西 作者 | 陈骏达 编辑 | 心缘 智东西8月14日报道，就在刚刚，智谱发布了其 最新一代旗舰模型GLM-5.3 ，并宣布模型将 在两周内开源 。这是一个拥有7430亿个参数的模型，和此前的GLM模型一样主打编程。 在多项主流基准测试中，GLM-5.3位居所有已开源或即将开源模型中的第一；其在编程与智能体任务上的能力， 已逼近Claude Fable 5、GPT-5.6 Sol等海外顶尖模型 。 与国内模型相比，GLM-5.3与Kimi K3 在编程和智能体领域互有胜负 ，并在绝大部分基准测试中领先DeepSeek-V4-Pro-0813。而在 网络安全能力方面，GLM-5.3则展现出一",
-     "source": "智东西",
-     "zh": "刚刚，GLM-5.3来了！拿下多个开源SOTA，我用它“魔改”DeepSeek Harness"
     }
    ]
   },
@@ -343,7 +343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 14 Aug 2026 15:00:13 +0000",
      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transistors while enabling strong gate control. Silicon transistors are approaching physical limits that make ea",
      "source": "SemiWiki",
-     "zh": "台积电的 0.42 纳米突破可能推动晶体管超越硅"
+     "zh": "台积电的 0.42 纳米突破可以推动晶体管超越硅"
     },
     {
      "title": "Google joins OpenROAD EDA initiative",
@@ -831,7 +831,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 12 Aug 2026 17:15:41 +0000",
      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
      "source": "TechCrunch Transport",
-     "zh": "据报道 Uber Freight 在黑客组织声称数据泄露后正在进行调查"
+     "zh": "据报道，Uber Freight 在黑客组织声称数据泄露后正在进行调查"
     },
     {
      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
@@ -855,7 +855,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 15 Aug 2026 12:00:00 -0500",
      "summary": "Following a year of tighter sanctions and Ukrainian attacks on refineries, ports and tankers, Russia’s crude output has fallen further in the second half of 2026, severely affecting the nation’s crude production outlook. Factoring in these disruptions, Rystad Energy has revised its Russian crude pro",
      "source": "OilPrice",
-     "zh": "俄罗斯石油工业已经没有空间来承受更多冲击"
+     "zh": "俄罗斯石油工业已经没有足够的空间来吸收更多的冲击"
     },
     {
      "title": "Mexico Is Betting on Biofuel to Tackle Its Seaweed Crisis",
@@ -1023,7 +1023,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 14 Aug 2026 12:43:37 +0000",
      "summary": "In other news, the Schleswig-Holstein Ministry of Energy Transition reportedly confirmed the cancellation of the 2.1 GW HyScale 100 electrolyzer project at a German refinery, with a lack of planning certainty cited among the reasons. Power to Hydrogen has begun installing a 500 kW AEM electrolyzer i",
      "source": "pv magazine",
-     "zh": "氢流：沙特阿拉伯 2.2 GW Neom H2 项目开始调试"
+     "zh": "氢流：沙特阿拉伯 2.2 吉瓦 Neom H2 项目开始调试"
     },
     {
      "title": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
@@ -1762,6 +1762,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "TreasuryDirect: Prepare for ID.me – Your New Way to Log In",
+     "link": "https://www.treasurydirect.gov/savings-bonds/idme-one-month/",
+     "pubDate": "Sat, 15 Aug 2026 17:30:02 +0000",
+     "summary": "Article URL: https://www.treasurydirect.gov/savings-bonds/idme-one-month/ Comments URL: https://news.ycombinator.com/item?id=49312465 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "TreasuryDirect：准备 ID.me – 您的新登录方式"
+    },
+    {
+     "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
+     "link": "https://www.core77.com/posts/144869",
+     "pubDate": "Sat, 15 Aug 2026 16:53:47 +0000",
+     "summary": "Article URL: https://www.core77.com/posts/144869 Comments URL: https://news.ycombinator.com/item?id=49312165 Points: 10 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "人们居住在湖中狭长土地上的荷兰社区"
+    },
+    {
      "title": "当放水不再流向工资袋",
      "link": "https://www.huxiu.com/article/4883403.html?f=rss",
      "pubDate": "Sun, 16 Aug 2026 00:41:47 +0800",
@@ -1781,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
      "link": "https://www.nature.com/articles/d41586-026-02448-x",
      "pubDate": "Sat, 15 Aug 2026 16:38:34 +0000",
-     "summary": "Article URL: https://www.nature.com/articles/d41586-026-02448-x Comments URL: https://news.ycombinator.com/item?id=49312008 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://www.nature.com/articles/d41586-026-02448-x Comments URL: https://news.ycombinator.com/item?id=49312008 Points: 47 # Comments: 4",
      "source": "Hacker News",
      "zh": "一项备受争议的阿尔茨海默氏症手术据说可以逆转症状"
     },
@@ -1794,18 +1810,10 @@ window.INDUSTRY_DATA = {
      "zh": "如何判断您的人工智能平台的帐户是否被黑客入侵"
     },
     {
-     "title": "The price of a Costco hot dog has gone up",
-     "link": "https://sina.bio/posts/costco-hotdog.html",
-     "pubDate": "Sat, 15 Aug 2026 16:01:57 +0000",
-     "summary": "Article URL: https://sina.bio/posts/costco-hotdog.html Comments URL: https://news.ycombinator.com/item?id=49311685 Points: 47 # Comments: 26",
-     "source": "Hacker News",
-     "zh": "Costco 热狗价格上涨"
-    },
-    {
      "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
      "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
      "pubDate": "Sat, 15 Aug 2026 15:58:53 +0000",
-     "summary": "Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 12 # Comments: 6",
+     "summary": "Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 60 # Comments: 19",
      "source": "Hacker News",
      "zh": "索马鲁肽可将 5 年预测痴呆风险降低 26%"
     },
@@ -1840,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 8 月 15 日消息，据 Wccftech 今日报道，Reddit 用户“stlk0”通过自制开源工具，将其搭载英特尔酷睿 i9 处理器的 2019 款 MacBook Pro 在 Windows Boot Camp 下的空闲 GPU 功耗从 14W 降至 3W，降幅近 80%。同时，其搭载的 AMD Radeon Pro 5300M 显卡温度也从 66℃ 降至 51℃。 据介绍，这位用户由于日常工作需要，长期通过 Boot Camp 在 MacBook 上运行 Windows 系统，而不是使用 macOS，但此模式下设备不仅耗电更快，发热也更为严重。 在尝试限制 CPU 功耗、关闭",
      "source": "IT之家",
      "zh": "2019 款英特尔 MacBook Pro 运行 Windows 严重发热？苹果用户为其适配 48Hz 刷新率，让显卡功耗降低近八成同时大幅降温"
-    },
-    {
-     "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-     "link": "https://spectrum.ieee.org/ai-designed-virus",
-     "pubDate": "Sat, 15 Aug 2026 15:32:25 +0000",
-     "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 47 # Comments: 64",
-     "source": "Hacker News",
-     "zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？"
     },
     {
      "title": "身陷剽窃丑闻的前剑桥大学教授死亡",
@@ -1909,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "A Spectre Is Haunting Unicode",
      "link": "https://www.dampfkraft.com/ghost-characters.html",
      "pubDate": "Sat, 15 Aug 2026 14:34:04 +0000",
-     "summary": "Article URL: https://www.dampfkraft.com/ghost-characters.html Comments URL: https://news.ycombinator.com/item?id=49310926 Points: 15 # Comments: 1",
+     "summary": "Article URL: https://www.dampfkraft.com/ghost-characters.html Comments URL: https://news.ycombinator.com/item?id=49310926 Points: 26 # Comments: 4",
      "source": "Hacker News",
      "zh": "Unicode 中的幽灵"
     },
@@ -1919,13 +1919,13 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 15 Aug 2026 10:30:00 -0400",
      "summary": "Saritha Rai / Bloomberg : Alibaba's open-weight models have accumulated 3B+ global downloads in the past six months; Hugging Face: Google had 418M downloads while Meta had 227M in 2026 &nbsp; &mdash;&nbsp; Alibaba Group Holding's open-weight models have accumulated more than 3 billion global downloa",
      "source": "Techmeme",
-     "zh": "阿里巴巴的开放权重模型在过去六个月累计全球下载量达到3B+； Hugging Face：2026 年 Google 的下载量为 4.18 亿，而 Meta 的下载量为 2.27 亿（Saritha Rai/彭博社）"
+     "zh": "阿里巴巴的开放权重模型在过去六个月累计全球下载量达到3B+； Hugging Face：2026 年 Google 的下载量为 4.18 亿，而 Meta 的下载量为 2.27 亿（Saritha Rai/Bloomberg）"
     },
     {
      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
      "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
      "pubDate": "Sat, 15 Aug 2026 14:04:49 +0000",
-     "summary": "Article URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/ Comments URL: https://news.ycombinator.com/item?id=49310682 Points: 82 # Comments: 29",
+     "summary": "Article URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/ Comments URL: https://news.ycombinator.com/item?id=49310682 Points: 100 # Comments: 37",
      "source": "Hacker News",
      "zh": "首次在家检测受感染蜱虫可改善莱姆病诊断"
     },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Here's how to reset your ASUS router",
+     "link": "https://www.engadget.com/2234242/how-to-reset-asus-router/",
+     "pubDate": "Sat, 15 Aug 2026 17:30:00 +0000",
+     "summary": "If your internet has been slower than usual lately, your router might need a reset. Here are some things you can try.",
+     "source": "Engadget",
+     "zh": "以下是重置华硕路由器的方法"
+    },
     {
      "title": "How to request an Xbox refund",
      "link": "https://www.engadget.com/2234241/xbox-refund-how-to-request/",
@@ -2120,14 +2128,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Pixel 11 Pro Fold has better cameras than its predecessor, but its system isn't even on par with a phone that's $1000 cheaper",
      "source": "DPReview",
      "zh": "谷歌仍在要求 Fold 买家做出妥协，因为其竞争对手比以往任何时候都更好"
-    },
-    {
-     "title": "SpaceX has officially acquired AI coding startup Cursor",
-     "link": "https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/",
-     "pubDate": "Sat, 15 Aug 2026 12:51:33 +0000",
-     "summary": "The $60 billion acquisition has been finalized.",
-     "source": "Engadget",
-     "zh": "SpaceX 正式收购人工智能编码初创公司 Cursor"
     },
     {
      "title": "Apple weekend deals: MacBooks up to $540 off, AirPods up to $100 off, Apple Watch, more",
@@ -2258,12 +2258,44 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
+     "link": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
+     "pubDate": "Sat, 15 Aug 2026 17:35:09 GMT",
+     "summary": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
+     "source": "CNBC",
+     "zh": "大麻改革正在成为两党的中期选举问题"
+    },
+    {
+     "title": "China to lift travel ban on Manus founders as Meta unwinds buyout deal: FT",
+     "link": "https://seekingalpha.com/news/4633587-manus-founders-return-china-meta-unwinds-buyout-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 15 Aug 2026 13:23:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "随着 Meta 解散收购交易，中国将取消对 Manus 创始人的旅行禁令：FT"
+    },
+    {
+     "title": "英伟达首度披露",
+     "link": "http://finance.eastmoney.com/news/1354,202608153842457371.html",
+     "pubDate": "Sun, 16 Aug 2026 01:20:00 +0800",
+     "summary": "据CNBC报道， 英伟达 当地时间14日向美国证券交易委员会提交的监管文件显示，截至今年二季度末，公司持有马斯克旗下 SpaceX 约1.228亿股A类股票，价值约210亿美元，为 SpaceX 第六大投资者。 根据金融数据机构FactSet的数据， SpaceX 第一大股东为马斯克本人，按二季度末股价测算，其持股账面价值约8500亿美元。而 英伟达 的210亿美元持仓是该公司第二大股权持仓，仅次于 英特尔 。受近期SpaceX股价回调影响，该持仓当前市值已缩水。SpaceX股价14日收于140美元，较6月底的170.86美元下跌约18%， 英伟达 持股对应市值降至约172亿美元。 报道称，英",
+     "source": "东方财富股票",
+     "zh": "英伟达首度披露"
+    },
+    {
      "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
      "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
      "pubDate": "Sat, 15 Aug 2026 17:15:00 GMT",
      "summary": "“I don’t expect my marginal tax rate to be materially different in the future.”",
      "source": "MarketWatch",
      "zh": "我今年 63 岁，是一名退休注册会计师，拥有 120 万美元的 401(k) 资金。我需要费心进行罗斯转换吗？"
+    },
+    {
+     "title": "“读心”黑科技从电影走进现实 广州脑机接口技术进入医院，帮助中风偏瘫患者重新站立",
+     "link": "http://finance.eastmoney.com/news/1354,202608163842458442.html",
+     "pubDate": "Sun, 16 Aug 2026 01:12:01 +0800",
+     "summary": "想象一下，你在脑中发出指令， 机器人 便辅助你的身体完成抬手、迈步等动作——这并非科幻电影，而是“ 脑机接口 技术”正在实现的应用。过去听起来如同魔法的“意念控制”身体运动，如今已走进现实，进入 医院 ，帮助中风、偏瘫患者重新站立。7月31日，广州白云区太和人民 医院 脑机接口 医学中心正式揭牌。该院引入力之智能全套国产无创脑机康复方案，成为国内医工融合落地实践的又一缩影。 统筹张琼霞本版文、图信息时报记者王文雨（除署名外） 14年磨一剑，黑科技从高校实验室走向规模化量产 开创之路 什么是“ 脑机接口 ”？在大众熟知的科幻影片中，脑机接口就是在大脑植入芯片，通过意念操控万物。力之智能科技（广州",
+     "source": "东方财富股票",
+     "zh": "“读心”黑科技从电影走进现实 广州脑机接口技术进入医院，帮助中风偏瘫患者重新站立"
     },
     {
      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
@@ -2328,22 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "Older adults could be scrambling for new health coverage next year, especially in rural markets that have fewer insurance choices.",
      "source": "MarketWatch",
      "zh": "健康保险公司正在放弃医疗保险优势计划。以下是有多少老年人可能受到影响。"
-    },
-    {
-     "title": "津巴布韦船只倾覆已致68人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202608163842457755.html",
-     "pubDate": "Sun, 16 Aug 2026 00:07:18 +0800",
-     "summary": "当地时间15日，津巴布韦警方公布，该国北部卡里巴湖11日下午发生的船只倾覆事故死亡人数上升到68人。 津巴布韦政府说，事故发生时，船上载有119名成人，另有数量不明的儿童。目前，搜救工作仍在进行中。津巴布韦总统姆南加古瓦已宣布这起事故为“国家灾难”。 据津巴布韦方面稍早前消息，事故船只因遭遇强风发生倾覆。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "津巴布韦船只倾覆已致68人死亡"
-    },
-    {
-     "title": "清潩河鄢陵县仓头村段溃口实现成功合龙",
-     "link": "http://finance.eastmoney.com/news/11790,202608163842457973.html",
-     "pubDate": "Sun, 16 Aug 2026 00:03:15 +0800",
-     "summary": "【顶端新闻记者马涛宋广军】 8月15日23时56分，清潩河鄢陵县仓头村段溃口实现成功合龙。 受近期连续强降雨影响，清潩河水位持续高位运行，清潩河鄢陵县仓头村段发生溃口险情。险情发生后，当地第一时间启动应急响应，组织各方救援力量紧张有序开展抢险工作。经过各方抢险队伍昼夜连续奋战，溃口完成封堵合龙。下游可能受到影响的群众已由属地政府及时妥善转移安置，无人员伤亡。 据了解，溃口合龙后，抢险队伍将接续开展堤身加高加固、防渗闭气作业，同时做好受淹区域排涝、灾后处置等相关工作。 （文章来源：大河财立方）",
-     "source": "东方财富股票",
-     "zh": "清潩河鄢陵县仓头村段溃口实现成功合龙"
     },
     {
      "title": "Real estate stocks show mixed performance; data center REITs gain, health care REITs lose",
@@ -2466,28 +2482,12 @@ window.INDUSTRY_DATA = {
      "zh": "战略石油储备已接近枯竭水平，引发人们对洞穴和作业受损的担忧"
     },
     {
-     "title": "Situational Awareness made massive bets on Sandisk, Micron before July implosion",
-     "link": "https://seekingalpha.com/news/4633584-situational-awareness-massive-bets-sandisk-micron?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 15 Aug 2026 10:15:02 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Situation Awareness 在 7 月内爆之前对 Sandisk 和 Micron 进行了大量押注"
-    },
-    {
      "title": "Warren Buffett named these 3 stocks as favorites for a reason",
      "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-named-3-stocks-140400163.html",
      "pubDate": "2026-08-15T14:04:00Z",
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "沃伦·巴菲特将这三只股票列为最爱是有原因的"
-    },
-    {
-     "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
-     "link": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
-     "pubDate": "Sat, 15 Aug 2026 13:00:01 GMT",
-     "summary": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
-     "source": "CNBC",
-     "zh": "大麻改革正在成为两党的中期选举问题"
     },
     {
      "title": "清凉度假还能收获健康“锦囊” 重庆市级健康集市IP首次落地高山避暑度假区",

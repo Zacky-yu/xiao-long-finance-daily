@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/16 05:46:33",
+ "generated_at": "2026/8/16 06:21:36",
  "recent_days": 7,
  "industries": [
   {
@@ -31,14 +31,6 @@
      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
      "source": "TechCrunch AI",
      "zh": "SpaceX 正式完成 Cursor 收购"
-    },
-    {
-     "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
-     "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
-     "pubDate": "Sat, 15 Aug 2026 11:28:29 +0000",
-     "summary": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ",
-     "source": "MarkTechPost",
-     "zh": "微调工具调用 LLM：使用 XYZ-Aquila-SFT 和 Qwen3 的完整指南"
     },
     {
      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
@@ -247,6 +239,14 @@
      "summary": "智东西 编译 | 茄子 编辑 | 程茜 智东西8月14日消息，今天，外媒彭博社援引知情人士报道，按照当前经营表现推算，OpenAI年化营收已超过400亿美元（约合人民币2708亿元），较2025年末的200多亿美元近乎翻倍。同日，OpenAI宣布任命谷歌旗下网络安全公司Wiz原总裁兼首席运营官达利·拉吉奇（Dali Rajic）为首席营收官，负责管理OpenAI全球营收体系。 ▲OpenAI官宣新任首席营收官达利·拉吉奇（图源：OpenAI） OpenAI首席营收官一职设立不到一年便迎来换帅。2025年12月，时任Salesforce旗下企业协同办公工具Slack CEO的丹妮丝·德雷瑟（De",
      "source": "智东西",
      "zh": "OpenAI被曝ARR破2000亿，官宣新任首席营收官"
+    },
+    {
+     "title": "刚刚，GLM-5.3来了！拿下多个开源SOTA，我用它“魔改”DeepSeek Harness",
+     "link": "https://zhidx.com/p/584913.html",
+     "pubDate": "Fri, 14 Aug 2026 14:30:57 +0800",
+     "summary": "智东西 作者 | 陈骏达 编辑 | 心缘 智东西8月14日报道，就在刚刚，智谱发布了其 最新一代旗舰模型GLM-5.3 ，并宣布模型将 在两周内开源 。这是一个拥有7430亿个参数的模型，和此前的GLM模型一样主打编程。 在多项主流基准测试中，GLM-5.3位居所有已开源或即将开源模型中的第一；其在编程与智能体任务上的能力， 已逼近Claude Fable 5、GPT-5.6 Sol等海外顶尖模型 。 与国内模型相比，GLM-5.3与Kimi K3 在编程和智能体领域互有胜负 ，并在绝大部分基准测试中领先DeepSeek-V4-Pro-0813。而在 网络安全能力方面，GLM-5.3则展现出一",
+     "source": "智东西",
+     "zh": "刚刚，GLM-5.3来了！拿下多个开源SOTA，我用它“魔改”DeepSeek Harness"
     }
    ]
   },
@@ -566,7 +566,7 @@
      "pubDate": "Fri, 14 Aug 2026 12:30:40 +0000",
      "summary": "Agility’s SPAC deal shows there is no one route to a robotics public listing, with SPAC mergers, reverse mergers, and traditional IPOs offering different advantages. The post Robots on Wall Street: Non-traditional paths to public markets for robotics companies appeared first on The Robot Report .",
      "source": "The Robot Report",
-     "zh": "华尔街的机器人：机器人公司进入公开市场的非传统路径"
+     "zh": "华尔街的机器人：机器人公司进入公开市场的非传统途径"
     },
     {
      "title": "LG to unveil new Nvidia-powered humanoid robot in early 2027",
@@ -649,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Weekend Quick Charge: all about autonomy with Waymo and GM",
+     "link": "https://electrek.co/2026/08/15/weekend-quick-charge-all-about-autonomy-with-waymo-and-gm/",
+     "pubDate": "Sat, 15 Aug 2026 21:51:52 +0000",
+     "summary": "On today’s self-steering episode of Quick Charge , we take a look at Waymo’s westward expansion into 18 new California counties – a move the company believes will power it to more than one MILLION paid rides by the end of the year.",
+     "source": "Electrek",
+     "zh": "周末快速充电：关于 Waymo 和 GM 的自主权"
+    },
+    {
      "title": "Tesla adds 2.4 kW vehicle-to-load to Model Y Premium with $80 adapter",
      "link": "https://electrek.co/2026/08/15/tesla-model-y-premium-vehicle-to-load-2-4-kw-adapter/",
      "pubDate": "Sat, 15 Aug 2026 19:19:37 +0000",
@@ -703,14 +711,6 @@
      "summary": "The Voyah Passion S has limited-time prices of 223,900 yuan ($33,000) to 273,900 yuan, undercutting the Xiaomi YU7. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Voyah Passion S 起售价约 33,000 美元，与小米 YU7 抗衡"
-    },
-    {
-     "title": "PACCAR brand DAF to add Level 4 Einride autonomy to its electric trucks",
-     "link": "https://electrek.co/2026/08/15/paccar-brand-daf-to-add-level-4-einride-autonomy-to-its-electric-trucks/",
-     "pubDate": "Sat, 15 Aug 2026 12:40:29 +0000",
-     "summary": "Autonomous logistics firm Einride is partnering with heavy truck brand DAF to accelerate the deployment of autonomous electric freight assets across the company’s premium truck platforms.",
-     "source": "Electrek",
-     "zh": "PACCAR 品牌 DAF 将为其电动卡车添加 4 级 Einride 自动驾驶功能"
     },
     {
      "title": "Self-driving trucks are officially testing on California highways",
@@ -830,7 +830,7 @@
      "pubDate": "Wed, 12 Aug 2026 17:15:41 +0000",
      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
      "source": "TechCrunch Transport",
-     "zh": "据报道 Uber Freight 在黑客组织声称数据泄露后正在进行调查"
+     "zh": "据报道，Uber Freight 在黑客组织声称数据泄露后正在进行调查"
     },
     {
      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
@@ -985,12 +985,12 @@
      "zh": "量子计算正在快速到来。公用事业准备好了吗？"
     },
     {
-     "title": "WSP capitalizes on surging US power infrastructure construction",
+     "title": "WSP capitalizes on surging US power work",
      "link": "https://www.utilitydive.com/news/wsp-power-generation-nuclear-data-centers-construction-us/827577/",
      "pubDate": "Fri, 14 Aug 2026 10:40:05 -0400",
      "summary": "Power now accounts for as much as 40% of the company&rsquo;s revenue, CEO Alexandre L&rsquo;Heureux said during a second-quarter earnings call.",
      "source": "Utility Dive",
-     "zh": "科进充分利用美国电力基础设施建设的蓬勃发展"
+     "zh": "科进充分利用美国电力工作的激增"
     },
     {
      "title": "Recurrent Energy bags US$695 million for 330MW California solar project",
@@ -1015,14 +1015,6 @@
      "summary": "Energy-Storage.news Premium speaks with Alon Maskovich, CEO and co-founder of enSights about BESS economics and the company’s new battery economics calculator.",
      "source": "Energy Storage News",
      "zh": "“数据准确性是最重要的事情之一”：enSights 首席执行官谈 PJM 中的 BESS 经济学"
-    },
-    {
-     "title": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals",
-     "link": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
-     "pubDate": "Fri, 14 Aug 2026 09:02:30 -0400",
-     "summary": "PowerTransitions aims to buy a 1.2-GW power plant in New York for&nbsp;an &ldquo;energy campus.&rdquo; &nbsp; TransAlta intends to buy two&nbsp;power plants in Colorado totaling about 319 MW.",
-     "source": "Utility Dive",
-     "zh": "FERC 批准 TransAlta 和 PowerTransitions 燃气发电厂交易"
     },
     {
      "title": "The Hydrogen Stream: Commissioning begins for 2.2 GW Neom H2 project in Saudi Arabia",
@@ -1070,7 +1062,7 @@
      "pubDate": "Fri, 14 Aug 2026 10:54:19 +0000",
      "summary": "In other news, Tongwei advanced its planned acquisition of polysilicon maker Lihao Clean Energy to the final negotiation stage, while Trina Solar outlined plans for THBC mass production in H2 2026 and GW-scale perovskite tandem capacity by 2029. The post Chinese PV Industry Brief: Longi plans 100 MW",
      "source": "pv magazine",
-     "zh": "中国光伏行业简报：隆基计划100兆瓦钙钛矿-硅串联太阳能电池中试线"
+     "zh": "中国光伏行业简报：隆基计划100兆瓦钙钛矿硅串联太阳能电池中试线"
     },
     {
      "title": "What makes women join, stay and progress in Solar+?",
@@ -1087,6 +1079,14 @@
      "summary": "On this episode of the This Week in Cleantech podcast, Mark Chediak from Bloomberg breaks down Trump's new 15% tariffs and price floors on imported polysilicon and its derivatives, including wafers, cells and modules.",
      "source": "Renewable Energy World",
      "zh": "特朗普新的太阳能关税能否缓解国内供应问题？ ——本周《清洁技术》"
+    },
+    {
+     "title": "FEOC compliance doesn’t end at signing. Here’s where it actually breaks down",
+     "link": "https://www.pv-tech.org/feoc-compliance-doesnt-end-at-signing-heres-where-it-actually-breaks-down/",
+     "pubDate": "Fri, 14 Aug 2026 09:34:57 +0000",
+     "summary": "Foreign Entity of Concern rules create a multitude of new risks for US solar developers, some less visible than others. Intertek CEA’s Jordan Wilson explores the key steps towards minimising FEOC exposure in PV module purchase agreements.",
+     "source": "PV Tech",
+     "zh": "FEOC 合规性并不会在签署时结束。这是它真正崩溃的地方"
     }
    ]
   },
@@ -1398,7 +1398,7 @@
      "pubDate": "Fri, 14 Aug 2026 19:45:12 +0000",
      "summary": "For years, the commercial space industry has focused on making spacecraft more affordable and accessible. Today, a new wave of customers want to build their own hardware to gain full ownership of the systems that define their mission. The post The New Middle Ground in Spacecraft Development appeared",
      "source": "Payload",
-     "zh": "航天器开发的新中间立场"
+     "zh": "航天器开发的新中间地带"
     },
     {
      "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
@@ -1462,7 +1462,7 @@
      "pubDate": "Fri, 14 Aug 2026 12:40:00 +0000",
      "summary": "NASA’s Human Research Program is asking researchers what they want to know as the agency transitions to long-term stays at a Moon Base. The post NASA Opens Call on Moon Base Health Research appeared first on Payload .",
      "source": "Payload",
-     "zh": "美国宇航局开始征集月球基地健康研究"
+     "zh": "美国宇航局公开征集月球基地健康研究"
     },
     {
      "title": "Blue Origin outlines plans for second Cape Canaveral launch pad",
@@ -1761,6 +1761,22 @@
    "total": 18,
    "items": [
     {
+     "title": "Bede Liu, a digital signal processing pioneer, has died",
+     "link": "https://spectrum.ieee.org/digital-signal-processing",
+     "pubDate": "Sat, 15 Aug 2026 21:45:54 +0000",
+     "summary": "Article URL: https://spectrum.ieee.org/digital-signal-processing Comments URL: https://news.ycombinator.com/item?id=49314615 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "数字信号处理先驱Bede Liu去世"
+    },
+    {
+     "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+     "link": "https://en.wikipedia.org/wiki/Wow!_signal",
+     "pubDate": "Sat, 15 Aug 2026 21:42:47 +0000",
+     "summary": "Article URL: https://en.wikipedia.org/wiki/Wow!_signal Comments URL: https://news.ycombinator.com/item?id=49314596 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Wow 信号是 1977 年 8 月 15 日检测到的强窄带无线电信号"
+    },
+    {
      "title": "A look at Unitree&apos;s G1 and R1, the humanoid robots behind viral influencer accounts worldwide, as Unitree shipped 5,500+ units in 2025 and readies its China IPO (Zeyi Yang/Wired)",
      "link": "https://www.techmeme.com/260815/p15#a260815p15",
      "pubDate": "Sat, 15 Aug 2026 17:40:00 -0400",
@@ -1769,12 +1785,36 @@
      "zh": "看看 Unitree 的 G1 和 R1，这是全球病毒式影响者账户背后的人形机器人，Unitree 在 2025 年出货量超过 5,500 台，并准备在中国进行 IPO（Zeyi Yang/Wired）"
     },
     {
+     "title": "No-New-Physics Consciousness",
+     "link": "https://www.overcomingbias.com/p/no-new-physics-consciousness",
+     "pubDate": "Sat, 15 Aug 2026 21:37:52 +0000",
+     "summary": "Article URL: https://www.overcomingbias.com/p/no-new-physics-consciousness Comments URL: https://news.ycombinator.com/item?id=49314567 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "非新物理意识"
+    },
+    {
+     "title": "Abdominal fat predicts heart disease risk better than BMI",
+     "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+     "pubDate": "Sat, 15 Aug 2026 21:14:34 +0000",
+     "summary": "Article URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi Comments URL: https://news.ycombinator.com/item?id=49314403 Points: 11 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "腹部脂肪比体重指数更能预测心脏病风险"
+    },
+    {
      "title": "Cultivating a state of mind where new ideas are born (2023)",
      "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
      "pubDate": "Sat, 15 Aug 2026 20:54:11 +0000",
-     "summary": "Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 15 # Comments: 3",
+     "summary": "Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 31 # Comments: 6",
      "source": "Hacker News",
      "zh": "培养新想法诞生的心态（2023）"
+    },
+    {
+     "title": "Humazon",
+     "link": "https://hughhowey.com/humazon/",
+     "pubDate": "Sat, 15 Aug 2026 20:18:37 +0000",
+     "summary": "Article URL: https://hughhowey.com/humazon/ Comments URL: https://news.ycombinator.com/item?id=49313941 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "胡马松"
     },
     {
      "title": "《牛来》出圈：AI 越会生成，“活人感”为何越值钱",
@@ -1791,46 +1831,6 @@
      "summary": "The Information : Sources: Nvidia in talks to invest up to $3B in SoftBank-backed data center developer SB Energy that aims to IPO soon and is behind a huge OpenAI campus in Ohio &nbsp; &mdash;&nbsp; Nvidia is in talks to invest as much as $3 billion in SB Energy, the Softbank Group-backed developer",
      "source": "Techmeme",
      "zh": "消息来源：Nvidia 正在洽谈向软银支持的数据中心开发商 SB Energy 投资高达 30 亿美元，SB Energy 的目标是尽快 IPO，并且是俄亥俄州一个巨大的 OpenAI 园区的背后（The Information）"
-    },
-    {
-     "title": "AI in drug discovery — what it is, where we stand and the path forward",
-     "link": "https://www.nature.com/articles/s41573-026-01496-2",
-     "pubDate": "Sat, 15 Aug 2026 19:12:53 +0000",
-     "summary": "Article URL: https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 45 # Comments: 26",
-     "source": "Hacker News",
-     "zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路"
-    },
-    {
-     "title": "Tess's Android Wayland Compositor",
-     "link": "https://github.com/wmww/tawc",
-     "pubDate": "Sat, 15 Aug 2026 18:34:26 +0000",
-     "summary": "Article URL: https://github.com/wmww/tawc Comments URL: https://news.ycombinator.com/item?id=49313068 Points: 9 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Tess 的 Android Wayland 合成器"
-    },
-    {
-     "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-     "link": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
-     "pubDate": "Sat, 15 Aug 2026 18:33:25 +0000",
-     "summary": "Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer Comments URL: https://news.ycombinator.com/item?id=49313047 Points: 0 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Voltair (YC W26) 正在招聘一名试飞工程师"
-    },
-    {
-     "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-     "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-     "pubDate": "Sat, 15 Aug 2026 18:13:02 +0000",
-     "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 297 # Comments: 256",
-     "source": "Hacker News",
-     "zh": "人工智能并不比数学家聪明。它已经超出了记住他们的范围"
-    },
-    {
-     "title": "Thunderbird's Desktop Calendar Visual Redesign",
-     "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
-     "pubDate": "Sat, 15 Aug 2026 18:09:42 +0000",
-     "summary": "Article URL: https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/ Comments URL: https://news.ycombinator.com/item?id=49312823 Points: 50 # Comments: 16",
-     "source": "Hacker News",
-     "zh": "Thunderbird 的桌面日历视觉重新设计"
     },
     {
      "title": "Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)",
@@ -2030,7 +2030,7 @@
      "pubDate": "Sat, 15 Aug 2026 20:00:00 +0000",
      "summary": "Replacing the battery on your Apple Watch can extend its life, but you'll have to determine whether it's worthwhile for your model.",
      "source": "Engadget",
-     "zh": "Apple Watch 电池更换：需要多少钱？值得吗？"
+     "zh": "Apple Watch 电池更换：需要多少钱并且值得吗？"
     },
     {
      "title": "Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac",
@@ -2257,68 +2257,36 @@
    "total": 13,
    "items": [
     {
-     "title": "全球客户“反向出差”到中国",
-     "link": "http://finance.eastmoney.com/news/1354,202608153842453753.html",
-     "pubDate": "Sun, 16 Aug 2026 05:30:00 +0800",
-     "summary": "在央视财经《对话》节目中，主持人陈伟鸿与几位中国科技企业的创始人聊起了一个有趣的变化： 过去，中国企业出海往往意味着带着样品和销售团队满世界飞；而现在，一种相反的场景正在频繁出现——海外客户主动来中国“出差”。 数据正在印证这一趋势 ： 5月落幕的杭州第二届国际人形 机器人 展，累计达成合作签约56项、合作意向237项，总金额超213亿元人民币。3178名海外客商涌入会场，不是走马观花，而是带着需求来寻找产品。 同一个月，天津举办的世界智能产业博览会上，近150种 机器人 整机集中亮相，多国采购商穿梭其中，询价、记录、反复比对，看的不只是展品，更是背后的供应链能力。 创新药 领域则提供了更宏观",
-     "source": "东方财富股票",
-     "zh": "全球客户“反向出差”到中国"
-    },
-    {
-     "title": "Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-doordash-inc-212910159.html",
-     "pubDate": "2026-08-15T21:29:10Z",
+     "title": "Host Hotels (HST) Just Raised Its Outlook. Can Luxury Travel Keep Delivering?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/host-hotels-hst-just-raised-215502105.html",
+     "pubDate": "2026-08-15T21:55:02Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "Jim Cramer 表示 DoorDash, Inc.（纳斯达克股票代码：DASH）被 Uber 做空，这是一笔糟糕的交易"
+     "zh": "Host Hotels (HST) 刚刚上调了展望。豪华旅行能否持续交付？"
     },
     {
-     "title": "Jim Cramer Was Happy The Market “Cared” About D-Wave Quantum – But Not How You Think",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-happy-market-cared-212804288.html",
-     "pubDate": "2026-08-15T21:28:04Z",
+     "title": "Jim Cramer Revealed What Went Wrong With Honeywell Aerospace Inc. (NASDAQ:HONA)",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-went-wrong-213604620.html",
+     "pubDate": "2026-08-15T21:36:04Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "Jim Cramer 很高兴市场“关心”D-Wave Quantum – 但不是你想象的那样"
+     "zh": "吉姆·克莱默 (Jim Cramer) 揭露霍尼韦尔航空航天公司 (纳斯达克股票代码：HONA) 的问题所在"
     },
     {
-     "title": "美国印第安纳州遭遇恶劣天气 至少5人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202608163842459924.html",
-     "pubDate": "Sun, 16 Aug 2026 05:10:36 +0800",
-     "summary": "央视记者 当地时间8月15日获悉，美国印第安纳州当局表示，本周席卷全州的强风暴和洪水已导致至少5人死亡。 过去一周，该州连降暴雨，导致多条河流的水位创下 历史新高 ，迫使居民纷纷向高处转移。目前已有十多个县宣布进入地方灾害状态，最新的灾情主要集中在从汉密尔顿县延伸至印第安纳波利斯北部郊区的河道沿线。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "美国印第安纳州遭遇恶劣天气 至少5人死亡"
+     "title": "Jim Cramer Said Domino’s Was Better Than Papa John’s International, Inc. (NASDAQ:PZZA) – But Is He Right?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-domino-better-213509638.html",
+     "pubDate": "2026-08-15T21:35:09Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "吉姆·克莱默 (Jim Cramer) 表示达美乐比棒约翰国际公司 (纳斯达克股票代码：PZZA) 更好 – 但他是对的吗？"
     },
     {
-     "title": "高毅、景林美股调仓曝光！一个加仓存储龙头 一个清仓英伟达",
-     "link": "http://finance.eastmoney.com/news/1354,202608153842455945.html",
-     "pubDate": "Sun, 16 Aug 2026 05:00:00 +0800",
-     "summary": "知名私募最新美股持仓浮出水面。 近日，高毅资产旗下海外基金2026年二季度美股持仓通过美国证券交易委员会（SEC）官网披露。数据显示，截至二季度末，高毅资产海外基金共持有19只美股标的，持股总市值约9.79亿美元，按当前汇率折合人民币约66亿元。 从二季度调仓路径来看，高毅资产明显加大了对AI产业链尤其是存储板块的布局，大举增持 美光科技 、 闪迪 等存储龙头。其中， 美光科技 和 闪迪 持仓增长2倍，分别跻身高毅海外基金第六、第七大重仓股。 与此同时，另一家千亿私募景林资产的海外基金则呈现截然不同的调仓路径。二季度，景林大幅收缩美股仓位，持仓总市值较一季度末下降超过四成，并清仓Meta、 英",
-     "source": "东方财富股票",
-     "zh": "高毅、景林美股调仓曝光！一个加仓存储龙头 一个清仓英伟达"
-    },
-    {
-     "title": "特朗普释放可能参与2028年大选的信号",
-     "link": "http://finance.eastmoney.com/news/1351,202608163842460125.html",
-     "pubDate": "Sun, 16 Aug 2026 04:56:35 +0800",
-     "summary": "美国总统特朗普在真相社交平台发布一张疑似AI生成的图片，图中他头戴印有“特朗普2028”字样的帽子。图片配文写道：“我们必将取胜。”该帖再次公开释放信号，特朗普有意角逐2028年总统的又一届任期。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普释放可能参与2028年大选的信号"
-    },
-    {
-     "title": "伊朗能源优化组织负责人：伊朗正在审议三套汽油供应管理方案",
-     "link": "http://finance.eastmoney.com/news/1351,202608163842460046.html",
-     "pubDate": "Sun, 16 Aug 2026 04:56:35 +0800",
-     "summary": "伊朗能源优化组织负责人：伊朗正在审议三套汽油供应管理方案，其中一项提案计划向每位公民每月分配 30 升汽油配额，配额允许流转、交易。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗能源优化组织负责人：伊朗正在审议三套汽油供应管理方案"
-    },
-    {
-     "title": "环球下周看点：美联储会议纪要来袭 阿里百度等中概股发布财报",
-     "link": "http://finance.eastmoney.com/news/1351,202608163842459862.html",
-     "pubDate": "Sun, 16 Aug 2026 04:48:27 +0800",
-     "summary": "本周，美股三大指数涨跌不一：道指累跌0.56%，标普500指数累涨0.36%， 纳斯达克 综合 指数累涨0.14%。 目前，美股主要由上市公司强劲的业绩表现支撑，部分得益于 人工智能 基础设施支出的推动。展望下周，投资者再次需要面对一系列熟悉的担忧：央行利率、通胀和地缘政治紧张局势。 鉴于美联储官员没有释放太多新的指引，该行下一步行动的不确定性升温。下周三（北京时间下周四凌晨），美联储将公布联邦公开市场委员会（FOMC）政策会议纪要。 美联储在7月29日的议息会议上连续第五次“按兵不动”，将联邦基金利率目标区间维持在3.5%至3.75%之间不变，但有三位成员投下了反对票——他们倾向于加息25个",
-     "source": "东方财富股票",
-     "zh": "环球下周看点：美联储会议纪要来袭 阿里百度等中概股发布财报"
+     "title": "Diageo (DEO) Vs Constellation (STZ): Hedge Funds Appear To Mirror Jim Cramer’s Sentiment",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/diageo-deo-vs-constellation-stz-213214804.html",
+     "pubDate": "2026-08-15T21:32:14Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "帝亚吉欧 (DEO) 与星座 (STZ)：对冲基金似乎反映了吉姆·克莱默 (Jim Cramer) 的情绪"
     },
     {
      "title": "Iran rebuffs Trump&apos;s claim over Strait of Hormuz amid report of another ship being struck",
@@ -2417,14 +2385,6 @@
      "zh": "房地产股表现不一；数据中心 REITs 盈利，医疗保健 REITs 亏损"
     },
     {
-     "title": "Bill Gates’ Portfolio Just Added Home Depot (HD) Despite Risks. Time to Buy?",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-portfolio-just-added-154023511.html",
-     "pubDate": "2026-08-15T15:40:23Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "比尔盖茨的投资组合刚刚增加了家得宝（HD），尽管存在风险。是时候购买了吗？"
-    },
-    {
      "title": "《牛来》反向“出圈”，记者也去看了，现场观影人这样说......",
      "link": "http://www.eeo.com.cn/2026/0815/999799.shtml",
      "pubDate": "Sat, 15 Aug 2026 23:39:11 +0800",
@@ -2439,14 +2399,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "价值、病毒式营销和更好的运营如何帮助 Chili's 扭转快餐业的颓势"
-    },
-    {
-     "title": "A 1-hour delay replying to a recruiter cuts your hiring chances by half. Here's why",
-     "link": "https://finance.yahoo.com/small-business/articles/1-hour-delay-replying-recruiter-153000153.html",
-     "pubDate": "2026-08-15T15:30:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "延迟 1 小时回复招聘人员会使您的招聘机会减少一半。这就是为什么"
     },
     {
      "title": "马斯克：你们会看到飞行汽车的",
@@ -2489,12 +2441,60 @@
      "zh": "沃伦·巴菲特将这三只股票列为最爱是有原因的"
     },
     {
-     "title": "Berkshire adds $17 billion to Alphabet stake",
-     "link": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
-     "pubDate": "Sat, 15 Aug 2026 12:50:41 GMT",
-     "summary": "Google parent Alphabet is now the third largest holding in Berkshire Hathaway's equity portfolio.",
+     "title": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
+     "link": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
+     "pubDate": "Sat, 15 Aug 2026 12:30:01 GMT",
+     "summary": "Investors have flocked to short-term investments like ultra-short bond funds in anticipation of a stock market correction and with long-term bonds broken.",
      "source": "CNBC",
-     "zh": "伯克希尔哈撒韦公司增持 170 亿美元 Alphabet 股份"
+     "zh": "赚不到现金，长期债券破裂，这些是2026年市场的安全交易"
+    },
+    {
+     "title": "清凉度假还能收获健康“锦囊” 重庆市级健康集市IP首次落地高山避暑度假区",
+     "link": "http://www.eeo.com.cn/2026/0815/999785.shtml",
+     "pubDate": "Sat, 15 Aug 2026 20:26:12 +0800",
+     "summary": "第1眼TV-华龙网讯（记者 唐雨）8月14日傍晚，万盛旅游度假区游客服务中心停车场人头攒动。由重庆市爱卫办、市卫生健康委、万盛经济技术开发区管委会联合主办的“清凉避暑·健康同行”市级健康集市专场活动在此举行。这是重庆首次将健康集市特色IP落地避暑度假区，专为在黑山谷景区避暑的“一老一小”群体及当地居民提供一站式避暑健康服务。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/3...",
+     "source": "经济观察网",
+     "zh": "清凉度假还能收获健康“锦囊” 重庆市级健康集市IP首次落地高山避暑度假区"
+    },
+    {
+     "title": "借维权之名敲诈投顾机构，37人落网！上海亚商投资顾问有限公司报案牵出系列团伙",
+     "link": "http://www.eeo.com.cn/2026/0815/999784.shtml",
+     "pubDate": "Sat, 15 Aug 2026 20:26:04 +0800",
+     "summary": "近年来，证券市场上出现借维权之名教唆证券咨询公司客户办理退费，并代理客户投诉、威胁证券咨询公司的非法团伙，严重扰乱金融市场秩序，侵害证券咨询公司合法利益。近日，武汉警方的一记重拳，让这类打着\"维权\"旗号行敲诈之实的团伙现出原形。 7月29日，武汉市公安局青山区分局（武汉化学工业区分局）组织100余名警力集中收网，一举打掉4个非法实施网络敲诈勒索的犯罪团伙，刑事拘留37人。截至8月10日，青山警方通过工作...",
+     "source": "经济观察网",
+     "zh": "借维权之名敲诈投顾机构，37人落网！上海亚商投资顾问有限公司报案牵出系列团伙"
+    },
+    {
+     "title": "电影《牛来》反向爆火！综合票房突破100万元！",
+     "link": "http://www.eeo.com.cn/2026/0815/999782.shtml",
+     "pubDate": "Sat, 15 Aug 2026 20:13:04 +0800",
+     "summary": "据券商中国报道，8月15日，关于2026年暑期档动画电影《牛来》的多个话题冲上热搜，引发热议。该影片以奇特的画风吸引了众多网友关注。 随着网络热度上升，该影片的票房及排片场次突然暴增，据灯塔专业版数据，影片《牛来》今日上映第11天，综合票房（含预售）突破100万元。而在此之前，该影片上映9天累计票房仅有7169元，创下2026年度院线动画电影票房最低纪录。 有网友表示，该电影建模粗糙，画面全程崩坏，被吐槽...",
+     "source": "经济观察网",
+     "zh": "电影《牛来》反向爆火！综合票房突破100万元！"
+    },
+    {
+     "title": "Ukraine left exposed as Patriot launchers run empty",
+     "link": "https://www.ft.com/content/6448b0af-f2ed-4067-b814-73f41b56fa78?syn-25a6b1a6=1",
+     "pubDate": "Sat, 15 Aug 2026 12:00:05 GMT",
+     "summary": "Kyiv’s military momentum at risk as dwindling interceptor stocks leave it vulnerable to Russia’s winter campaign",
+     "source": "Financial Times",
+     "zh": "爱国者发射器空空如也，乌克兰暴露无遗"
+    },
+    {
+     "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
+     "link": "https://wallstreetcn.com/articles/3779514",
+     "pubDate": "Sat, 15 Aug 2026 19:58:24 +0800",
+     "summary": "当前AI泡沫环境下的最优投资策略，是同时做多\"傲慢\"（AI科技龙头）与\"偏见\"（被市场冷落的失意资产），以此捕捉名义GDP泡沫最后冲顶阶段的双向收益。 据追风交易台消息，美银证券首席策略师Michael Hartnett在最新研报中表示，美银牛熊指标从9.7小幅回落至9.3，仍处于极端看多区间，继续维持\"卖出\"信号。与此同时，过去一周资金呈现结构性分化：科技股遭遇七周来最大单周流出，黄金获今年1月以来最大单周流入，大宗商品年内回报高达58.9%，而比特币年内跌幅接近28%。 美银指出，当前大类资产配置的核心逻辑维持规避债券、规避美元、全仓AI的框架并因政策制定者将股市视为\"大而不倒\"而进一步强",
+     "source": "华尔街见闻",
+     "zh": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”"
+    },
+    {
+     "title": "群防群治·百日攻坚｜重庆开展风险隐患“一键报险”操作及风险核查业务培训",
+     "link": "http://www.eeo.com.cn/2026/0815/999772.shtml",
+     "pubDate": "Sat, 15 Aug 2026 19:26:22 +0800",
+     "summary": "第1眼TV-华龙网讯（记者 梁浩楠）为深入推进群防群治百日攻坚行动，8月14日，重庆开展风险隐患“一键报险”操作及风险核查业务培训。市应急管理局统筹相关行业部门，面向乡镇网格员、村社监测员、基层志愿者等解读识别技能、奖励标准、上报流程。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/80C74765FB5471DD499A0D053DE906FE.png\" alt=\"培训现场。受访单位供图\" data-title=\"培训现场。...",
+     "source": "经济观察网",
+     "zh": "群防群治·百日攻坚｜重庆开展风险隐患“一键报险”操作及风险核查业务培训"
     }
    ]
   },
@@ -2638,7 +2638,7 @@
      "pubDate": "Fri, 14 Aug 2026 12:00:00 +0000",
      "summary": "A new analysis of skeletons recovered from an ancient mass burial has revealed a surprising number of groin injuries.",
      "source": "Live Science",
-     "zh": "“矛头仍在骨盆内”：奥地利发现的乱葬坑可能埋藏着未知古罗马战争的伤亡人员"
+     "zh": "“矛头仍在骨盆内”：奥地利发现的乱葬坑可能埋藏着未知古罗马战争的伤亡者"
     },
     {
      "title": "A stress hormone may help the brain repair itself",

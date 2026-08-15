@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/15 17:52:38",
+ "generated_at": "2026/8/15 18:22:25",
  "recent_days": 7,
  "industries": [
   {
@@ -1098,6 +1098,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Trump’s MMR order; LSD drug clears Phase 3 test; and more",
+     "link": "https://endpoints.news/trumps-mmr-order-lsd-drug-clears-phase-3-test-and-more/",
+     "pubDate": "Sat, 15 Aug 2026 10:00:56 +0000",
+     "summary": "Welcome back to another edition of Endpoints Weekly! We’re in the dog days of summer, but we still have some big stories to recap for you this weekend. Let’s break it down. Despite keeping Robert ...",
+     "source": "Endpoints News",
+     "zh": "特朗普的 MMR 命令； LSD药物通过了3期测试；还有更多"
+    },
+    {
      "title": "Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators",
      "link": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss",
      "pubDate": "Fri, 14 Aug 2026 21:00:08 +0000",
@@ -1208,14 +1216,6 @@ window.INDUSTRY_DATA = {
      "summary": "Scatter-free absorption spectroscopy quantifies RNA and ligands in cloudy LNPs within 15 seconds, accurately and repeatably. The post SFA Spectroscopy Chases Away Cloudy Samples appeared first on GEN - Genetic Engineering and Biotechnology News .",
      "source": "GEN",
      "zh": "SFA 光谱消除浑浊样品"
-    },
-    {
-     "title": "ICER says AstraZeneca’s new blood pressure med isn’t cost-effective",
-     "link": "https://endpoints.news/icer-says-astrazenecas-new-blood-pressure-med-isnt-cost-effective/",
-     "pubDate": "Fri, 14 Aug 2026 15:15:46 +0000",
-     "summary": "The drug price watchdog ICER issued a report Thursday concluding that the benefits of AstraZeneca’s new blood pressure pill Baxfendy don’t justify its $10,950-per-year price tag. Baxfendy is forecast to be a major growth driver ...",
-     "source": "Endpoints News",
-     "zh": "ICER 表示阿斯利康的新降压药不具有成本效益"
     },
     {
      "title": "Back-to-School at USP",
@@ -1762,6 +1762,78 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "中国团队在全球最大“人造太阳”壁处理领域实现技术链条贯通，覆盖 GDC 与硼化两大系统",
+     "link": "https://www.ithome.com/0/990/138.htm",
+     "pubDate": "Sat, 15 Aug 2026 10:20:44 GMT",
+     "summary": "IT之家 8 月 15 日消息，中核集团今日宣布，核工业西南物理研究院团队在国际热核聚变实验堆（ITER）装置壁处理技术领域接连取得重要进展：顺利通过辉光放电清洗系统（GDC）永久电极项目补充设计最终评审（Delta FDR），同时牵头并联合中核二三成功中标并在法国签署硼化系统与 X 射线晶体光谱仪（XRCS）供气系统设计制造合同。 这两项任务直接与 ITER 在 2023 年做出的将第一壁从金属铍更换为金属钨的战略性设计变更相关。全钨第一壁面积约 600 平方米，钨虽耐高温，但其释放的杂质会严重污染等离子体，尤其在放电启动阶段，微量杂质即可导致能量辐射失控。 中方团队负责的 GDC 系统如同",
+     "source": "IT之家",
+     "zh": "中国团队在全球最大“人造太阳”壁处理领域实现技术链条贯通，覆盖 GDC 与硼化两大系统"
+    },
+    {
+     "title": "2K 成立新体育游戏工作室，由多位 EA Sports 老将领衔",
+     "link": "https://www.ithome.com/0/990/135.htm",
+     "pubDate": "Sat, 15 Aug 2026 10:18:07 GMT",
+     "summary": "IT之家 8 月 15 日消息，2K 现已宣布成立全新体育游戏工作室 Small Axe Studio，该工作室将打造 3A 级体育作品， 由多名 EA Sports 资深开发者领衔 。 IT之家了解到，Small Axe Studio 工作室总部位于加拿大温哥华， 由 2K 此前的实验室 Sports Lab 脱胎而来 。执行负责人 Aaron McHardy 已加盟该工作室，他曾担任 EA Sports FIFA 团队的执行制作人，任职时间超过 15 年。 同时，该工作室还拥有多名 EA Sports 老将，包括运营负责人 Tom Pan、工程负责人 Mike Thompson 以及技术美",
+     "source": "IT之家",
+     "zh": "2K 成立新体育游戏工作室，由多位 EA Sports 老将领衔"
+    },
+    {
+     "title": "8月，华尔街的“牛市”又回来了，“赌性”也回来了",
+     "link": "https://www.huxiu.com/article/4883366.html?f=rss",
+     "pubDate": "Sat, 15 Aug 2026 18:07:57 +0800",
+     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：张雅琦 美股8月强势反弹，标普500指数刷新历史高点，投资者重返科技与杠杆赛道。 强劲的企业盈利与通胀降温共同提供燃料，但油价飙升、长债收益率高企与跨资产信号相互矛盾，令这场\"黄金时代\"交易愈发脆弱。 7月芯片股遭到猛烈抛售后，市场的恐惧情绪来得快，去得也快。标普500指数本月迄今已累涨约4%，本周触及历史高点7800点上方；此前短暂陷入技术性调整的纳斯达克100指数，目前距6月峰值也仅差2.5%。 本周，花旗和摩根大通双双上调标普500指数2026年年终目标，为近期的看涨情绪画下注脚。 资金持续涌入。据追踪逾50万亿美元机构资金的道富银行托管数据，过",
+     "source": "虎嗅",
+     "zh": "8月，华尔街的“牛市”又回来了，“赌性”也回来了"
+    },
+    {
+     "title": "本周市场的“核心逻辑”：美联储9月不加息了？",
+     "link": "https://www.huxiu.com/article/4883365.html?f=rss",
+     "pubDate": "Sat, 15 Aug 2026 18:04:43 +0800",
+     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：鲍奕龙 美国通胀数据意外降温，叠加就业与消费走软，本周市场对美联储9月加息的押注急剧退潮，但债券市场长端的异常信号、油价飙升以及鹰派官员的坚持，正在向这一\"暂停叙事\"发出挑战。 9月加息概率从7月下旬的75%骤降至约25%，带动全球股市连续第三周上涨，美股主要指数维持历史高位附近。 AI基础设施相关财报持续强劲，为科技股提供了额外支撑，令权益市场暂时得以忽视油价冲击与债市长端的警告音。 然而，伊朗/霍尔木兹海峡危机推动布伦特原油周内涨幅接近6%，逼近90美元/桶；美国30年期国债标售收益率触及25年来最高水平。 股市在欢呼\"美联储转向\"，债市长端却在为",
+     "source": "虎嗅",
+     "zh": "本周市场的“核心逻辑”：美联储9月不加息了？"
+    },
+    {
+     "title": "群联谈存储短缺：NAND 新增产能最快需 4 年，供应紧张或持续多年",
+     "link": "https://www.ithome.com/0/990/129.htm",
+     "pubDate": "Sat, 15 Aug 2026 10:01:09 GMT",
+     "summary": "IT之家 8 月 15 日消息，群联电子 (股) 公司董事长兼总经理潘健成在财报会上表示，NAND 闪存新扩建的产能从投资到真正量产所需时间远比市场预期更长，供需吃紧局面可能延续多年。 他指出，市场普遍认为存储芯片价格上涨后，原厂即可快速增加资本支出扩充产能，但实际情况并非如此。他近期与 NAND 原厂高层交流时曾询问从投资到量产需要多久，原先估计约两年，但对方给出的答案是“四年”。即便目前 NAND 价格上涨，群联也不会大量出售手中库存，否则未来若无法重新取得足够货源，可能影响长周期客户专案供货。 AI 已成为群联重要增长来源。2026 年第二季度，群联合并营收达 678.88 亿元新台币 ",
+     "source": "IT之家",
+     "zh": "群联谈存储短缺：NAND 新增产能最快需 4 年，供应紧张或持续多年"
+    },
+    {
+     "title": "Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts",
+     "link": "https://www.wired.com/review/auk-mini-2-indoor-smart-garden/",
+     "pubDate": "Sat, 15 Aug 2026 10:01:00 +0000",
+     "summary": "Auk’s Mini 2 improves on the original model with better lights, a sleeker design, and fun new colors.",
+     "source": "WIRED",
+     "zh": "Auk Mini 2 室内智能花园评测：在重要的地方更好"
+    },
+    {
+     "title": "Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever",
+     "link": "https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/",
+     "pubDate": "Sat, 15 Aug 2026 10:00:00 +0000",
+     "summary": "A new Apple documentary explores the life of Aziz “Zyzz” Shavershian, who rocketed to internet fame in an age before influencers, then died at age 22 in 2011.",
+     "source": "WIRED",
+     "zh": "Zyzz 是最初的 Looksmaxxer。他的崛起和英年早逝让人感觉比以往任何时候都更加相关"
+    },
+    {
+     "title": "从浅草寺到时代广场，影石海外开店逻辑是什么？",
+     "link": "https://www.tmtpost.com/8104118.html",
+     "pubDate": "Sat, 15 Aug 2026 18:00:00 +0800",
+     "summary": "如何建立全球品牌认知？",
+     "source": "钛媒体",
+     "zh": "从浅草寺到时代广场，影石海外开店逻辑是什么？"
+    },
+    {
+     "title": "纽博格林赛道百年纪念将至，保时捷将推限量 100 台特别版 911 GT3",
+     "link": "https://www.ithome.com/0/990/123.htm",
+     "pubDate": "Sat, 15 Aug 2026 09:55:07 GMT",
+     "summary": "IT之家 8 月 15 日消息，据汽车媒体 autoevolution 今天报道，德国纽博格林赛道将于明年迎来诞生一百年纪念，保时捷决定推出特别版 911 GT3 纪念这一时刻。 据介绍，这款车型被命名为“911 GT3 100 Jahre Nürburgring”，意为纽博格林百年纪念版。该车可选白色、银金属两种配色，后者可搭配绿色装饰，进一步凸显纽博格林元素。 IT之家从原报道获悉，该车的翼子板印有纽博格林专属标志， 车主可以在预订时选择 0-999 专属编号 ，并将其印在发动机舱盖、车门和后车窗上，彰显独一无二。 这台 911 GT3 还将配备专属锻造铝合金轮毂，前轮尺寸为 20 英寸，",
+     "source": "IT之家",
+     "zh": "纽博格林赛道百年纪念将至，保时捷将推限量 100 台特别版 911 GT3"
+    },
+    {
      "title": "528亿，腾讯终于开始“烧钱”了",
      "link": "https://www.tmtpost.com/8103940.html",
      "pubDate": "Sat, 15 Aug 2026 17:41:00 +0800",
@@ -1818,22 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "史上最大IPO要来了"
     },
     {
-     "title": "智能体成“逃课神器”？部分美国学生用 AI 代替自己完成整门网络课程",
-     "link": "https://www.ithome.com/0/990/115.htm",
-     "pubDate": "Sat, 15 Aug 2026 09:05:10 GMT",
-     "summary": "IT之家 8 月 15 日消息，据《纽约时报》8 月 10 日报道，随着智能体模型越来越普及，部分美国学生已经不满足于让聊天机器人帮忙查答案，而是直接 把整门网络课程交给 AI 智能体 。AI 可以在后台替学生 完成课程任务 ，学生本人则把时间拿去刷手机、玩游戏。 AI 作弊从代写作业发展到几乎“代上课”的程度，暴露出 网络教育相较实体课堂更难防范作弊的问题 。线下课程可以通过考试、口头展示等方式确认学生是否真正掌握知识，网课却很难采用同样的手段。 网课的大部分活动都在屏幕上完成，学生因此可以让 AI 智能体登录 Canvas、Blackboard 等学习平台，替自己 做测验、观看课程视频、写",
-     "source": "IT之家",
-     "zh": "智能体成“逃课神器”？部分美国学生用 AI 代替自己完成整门网络课程"
-    },
-    {
-     "title": "比尔 · 盖茨小女儿创业品牌 Phia 被指欺诈，业内律师称类似行为面临最高 20 年监禁",
-     "link": "https://www.ithome.com/0/990/114.htm",
-     "pubDate": "Sat, 15 Aug 2026 09:02:25 GMT",
-     "summary": "IT之家 8 月 15 日消息，彭博社本周二（8 月 11 日）发布博文，指控比尔 · 盖茨小女儿菲比 · 阿黛尔 · 盖茨创办的零售品牌 Phia 存在“Cookie Stuffing”（Cookie 填充）欺诈行为，业内律师认为这种行为最高可能面临 20 年监禁。 Phia 主打全网比价、自动推送优惠，提供 App 和浏览器扩展，依靠平台内的联盟链接赚取佣金返利，初期获得诸多名人支持。彭博社实测后表示，该平台存在 Cookie 填充违规操作。 IT之家注：所谓“Cookie Stuffing”，指的是应用程序、网站在用户没有点击任何联盟推荐链接的情况下，偷偷将用于追踪的 Cookie 写入",
-     "source": "IT之家",
-     "zh": "比尔 · 盖茨小女儿创业品牌 Phia 被指欺诈，业内律师称类似行为面临最高 20 年监禁"
-    },
-    {
      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
      "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
      "pubDate": "Sat, 15 Aug 2026 09:00:00 +0000",
@@ -1850,28 +1906,12 @@ window.INDUSTRY_DATA = {
      "zh": "没头脑和不高兴的原型，出自三千年前的史诗"
     },
     {
-     "title": "岚图追光 S 正式上市：华为乾崑智驾四激光方案加持，限时 22.39 万-27.39 万元",
-     "link": "https://www.ithome.com/0/990/113.htm",
-     "pubDate": "Sat, 15 Aug 2026 08:56:46 GMT",
-     "summary": "IT之家 8 月 15 日消息，在今天下午举行的发布会上，“全球首款科技 FUV”岚图追光 S 正式上市，新车全系标配华为乾崑智驾四激光雷达方案，22.99 万元起售，限时免费赠送主副驾双零重力座椅、电动遮阳帘、移动多功能氛围灯。 四激光后驱 Max 版：22.99 万元，限时权益价 22.39 万元 四激光后驱 Ultra 版：25.59 万元，限时权益价 24.99 万元 四激光四驱 Ultra+ 版：27.99 万元，限时权益价 27.39 万元 据IT之家了解，岚图追光 S 长宽高分别为 5050 毫米、1998 毫米和 1656 毫米，轴距 3000 毫米，提供 7 款不同配色、10",
-     "source": "IT之家",
-     "zh": "岚图追光 S 正式上市：华为乾崑智驾四激光方案加持，限时 22.39 万-27.39 万元"
-    },
-    {
      "title": "宇树的610亿发行市值，多少属于机器人，多少属于人形故事",
      "link": "https://www.huxiu.com/article/4883356.html?f=rss",
      "pubDate": "Sat, 15 Aug 2026 16:48:56 +0800",
      "summary": "出品｜虎嗅科技组 作者｜陈伊凡 编辑｜苗正卿 头图｜视觉中国 宇树科技距离敲钟只剩最后一步。 8&nbsp;月&nbsp;13&nbsp;日晚，这家公司披露了科创板&nbsp;IPO&nbsp;发行结果：978.46&nbsp;万户投资者参与网上申购，最终只产生&nbsp;19414&nbsp;个中签号，中签率&nbsp;0.0181%，创科创板历史新低；中签的人几乎没有放弃的，弃购率低至万分之九，创&nbsp;2023&nbsp;年全面注册制以来的最低纪录。 热闹属于打新的人，这几年具身智能、前沿科技的估值，就像是这场以大模型起始的资本疯狂的缩影，只要无法证伪，故事就能一直讲，估值就能一直涨",
      "source": "虎嗅",
      "zh": "宇树的610亿发行市值，多少属于机器人，多少属于人形故事"
-    },
-    {
-     "title": "春风动力 450MT 罗马尼亚冠军版即将预售，售价 30580 元",
-     "link": "https://www.ithome.com/0/990/112.htm",
-     "pubDate": "Sat, 15 Aug 2026 08:45:14 GMT",
-     "summary": "IT之家 8 月 15 日消息，春风动力今日宣布 450MT 罗马尼亚冠军版将于 8 月下旬在官方 App 及小程序上开启线上限时预售，售价 30580 元。下单用户可获赠价值 598 元的 450MT 越野上下原厂护杠。 该车型的推出源于 2026 年红牛罗马尼亚硬耐力赛。7 月 28 日至 8 月 1 日，第 23 届红牛罗马尼亚硬耐力拉力赛在罗马尼亚锡比乌举行。IT之家注意到，这项为期五天的赛事包含一天城市障碍计时赛与四天山地越野，总里程逾 600 公里，完赛率常年低于五成。 最终，春风动力车手包揽 Adventure Ultimate（终极组）、Adventure Core（核心组）和",
-     "source": "IT之家",
-     "zh": "春风动力 450MT 罗马尼亚冠军版即将预售，售价 30580 元"
     },
     {
      "title": "线上品牌批量涌入商场，服饰大洗牌来了",
@@ -1890,20 +1930,12 @@ window.INDUSTRY_DATA = {
      "zh": "在中国快被忘记的潘多拉，全球还在增长"
     },
     {
-     "title": "“老登”AI，精髓是作秀",
-     "link": "https://www.huxiu.com/article/4883352.html?f=rss",
-     "pubDate": "Sat, 15 Aug 2026 15:42:01 +0800",
-     "summary": "本文来自微信公众号： 字母榜 ，作者：思博 对联想交上的最新一季财报，资本市场显然非常满意。 营收269.4亿美元，同比增长43%；AI相关收入增长60%至93亿美元；调整后净利润增长176%至10.75亿美元。ISG（基础设施方案业务集团）收入达到85亿美元，同比增长98%，经营利润7.77亿美元。 财报发布当天，联想股价盘中一度上涨22%，最终收涨20.18%，报34.9港元，盘中创下历史新高。杨元庆宣布，联想“正在成为全球AI基础设施领导者”，原本计划两年实现的千亿美元营收目标，也可能提前到今年完成。 市场终于相信了联想讲了多年的未来。 过去几年，联想努力描绘的是一个由AI设备、基础设施",
-     "source": "虎嗅",
-     "zh": "“老登”AI，精髓是作秀"
-    },
-    {
-     "title": "海外销量增长20%，李健还在焦虑荣耀高端化",
-     "link": "https://www.huxiu.com/article/4883344.html?f=rss",
-     "pubDate": "Sat, 15 Aug 2026 15:40:26 +0800",
-     "summary": "出品 | 虎嗅科技组 作者 | 梁卡尔 编辑 | 苗正卿 头图 | 虎嗅拍摄 8月12日晚，广州发布会刚结束，荣耀便宣布，万元级新形态产品Robot Phone在电商全平台&ldquo;1分钟现货售罄&rdquo;。 然而，荣耀没有公布首批备货量、实际支付订单和销量，各电商平台显示的正式首销日期仍是8月18日。因此，这个&ldquo;1分钟&rdquo;最多证明Robot Phone获得了第一波注意力，还不足以证明市场已经接受&ldquo;机器人手机&rdquo;这个新事物。 荣耀对它的期待远超一款新品。 在发布后的媒体问答中，荣耀CEO李健将Robot Phone的发布定义为荣耀高端化的开始",
-     "source": "虎嗅",
-     "zh": "海外销量增长20%，李健还在焦虑荣耀高端化"
+     "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+     "link": "https://uecker.codeberg.page/2026-07-14.html",
+     "pubDate": "Sat, 15 Aug 2026 07:59:42 +0000",
+     "summary": "Article URL: https://uecker.codeberg.page/2026-07-14.html Comments URL: https://news.ycombinator.com/item?id=49308685 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "使用带有宽指针且无 Trampolines II 的 GCC 嵌套函数"
     },
     {
      "title": "医保局的转身：当13亿人的数据开始给银行当凭证",
@@ -1928,14 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "广告暴涨22%，毛利率为何反降。",
      "source": "钛媒体",
      "zh": "双面腾讯：视频号前台收钱，AI后台烧钱"
-    },
-    {
-     "title": "Pixel 11来了，AI真的能接管你的手机吗？",
-     "link": "https://www.tmtpost.com/8104139.html",
-     "pubDate": "Sat, 15 Aug 2026 14:38:00 +0800",
-     "summary": "谷歌旗舰模型暂时失速，Flash却开始进入手机日常。",
-     "source": "钛媒体",
-     "zh": "Pixel 11来了，AI真的能接管你的手机吗？"
     },
     {
      "title": "Effective altruism, hit by the SBF turmoil, is drawing record funding as Anthropic and OpenAI IPOs are set to mint new millionaires wedded to \"effective giving\" (Financial Times)",
@@ -1970,36 +1994,12 @@ window.INDUSTRY_DATA = {
      "zh": "消息来源：随着 Manus 解除对 Meta 的 20 亿美元收购，中国计划很快取消对 Manus 创始人的旅行禁令；首席执行官肖红计划返回新加坡（吴紫晶/金融时报）"
     },
     {
-     "title": "Sources: Uber and Rapido discussed merging their India ride-hailing operations in May; talks collapsed after disagreements over the proposed deal&apos;s structure (The Economic Times)",
-     "link": "https://www.techmeme.com/260815/p3#a260815p3",
-     "pubDate": "Sat, 15 Aug 2026 01:45:00 -0400",
-     "summary": "The Economic Times : Sources: Uber and Rapido discussed merging their India ride-hailing operations in May; talks collapsed after disagreements over the proposed deal's structure &nbsp; &mdash;&nbsp; Uber and Rapido discussed merging their India ride-hailing operations in May, sources told us.&nbsp;",
-     "source": "Techmeme",
-     "zh": "资料来源：Uber 和 Rapido 在 5 月份讨论了合并其印度打车业务；由于对拟议交易结构存在分歧，谈判破裂（经济时报）"
-    },
-    {
-     "title": "Google Workspace Promo Codes: 14% Off for August 2026",
-     "link": "https://www.wired.com/story/google-workspace-promo-code/",
-     "pubDate": "Sat, 15 Aug 2026 05:00:00 +0000",
-     "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-     "source": "WIRED",
-     "zh": "Google Workspace 促销代码：2026 年 8 月可享受 14% 折扣"
-    },
-    {
-     "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-     "link": "https://chenxiachan.github.io/thoughtdag/",
-     "pubDate": "Sat, 15 Aug 2026 04:42:07 +0000",
-     "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 28 # Comments: 4",
+     "title": "Ask HN: How do you keep up with HN these days?",
+     "link": "https://news.ycombinator.com/item?id=49308059",
+     "pubDate": "Sat, 15 Aug 2026 05:59:12 +0000",
+     "summary": "In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder. How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more. Comments URL: https://news.ycombinator.com/item?id=49308059 Points: 35 # Comm",
      "source": "Hacker News",
-     "zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图"
-    },
-    {
-     "title": "The other Sean Byrne doesn't exist",
-     "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-     "pubDate": "Sat, 15 Aug 2026 04:18:44 +0000",
-     "summary": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 140 # Comments: 69",
-     "source": "Hacker News",
-     "zh": "另一个肖恩·伯恩并不存在"
+     "zh": "问 HN：这些天你如何跟上 HN 的脚步？"
     }
    ]
   },
@@ -2009,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Stripe is reportedly in talks to buy PayPal",
+     "link": "https://www.engadget.com/2237637/stripe-reportedly-to-buy-paypal/",
+     "pubDate": "Sat, 15 Aug 2026 10:13:09 +0000",
+     "summary": "Stripe and private equity firm Advent previously offered a deal PayPal didn't take, the Wall Street Journal says. Now, they're negotiating a new price.",
+     "source": "Engadget",
+     "zh": "据报道 Stripe 正在洽谈收购 PayPal"
+    },
+    {
+     "title": "The Home Speaker is the wrong $99 Google Home gadget to buy in 2026",
+     "link": "https://www.androidauthority.com/google-home-speaker-nest-display-comparison-3696291/",
+     "pubDate": "Sat, 15 Aug 2026 10:00:53 +0000",
+     "summary": "I still wouldn't trade my original Nest Hub for the new Home Speaker.",
+     "source": "Android Authority",
+     "zh": "Home Sound 是 2026 年不值得购买的 99 美元 Google Home 小工具"
+    },
     {
      "title": "Pixel 11 or Pixel 10a? Here’s why the Pixel 11 really is worth $400 more",
      "link": "https://www.androidauthority.com/pixel-11-vs-pixel-10a-3696152/",
@@ -2232,22 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google has a week to make it easier to find third-party app stores.",
      "source": "Engadget",
      "zh": "谷歌必须让安装替代应用商店变得更容易，判断订单"
-    },
-    {
-     "title": "Google now lets you remove the watermark from Gemini’s creations",
-     "link": "https://www.androidauthority.com/gemini-watermark-removal-setting-3698980/",
-     "pubDate": "Fri, 14 Aug 2026 18:18:57 +0000",
-     "summary": "Google gives users control over visible Gemini watermarks.",
-     "source": "Android Authority",
-     "zh": "Google 现在允许您删除 Gemini 作品中的水印"
-    },
-    {
-     "title": "The ocean revealed: see the finalists for Ocean Photographer of the Year 2026",
-     "link": "https://www.dpreview.com/articles/ocean-photographer-of-the-year-finalists-2026/",
-     "pubDate": "Fri, 14 Aug 2026 18:13:37 +0000",
-     "summary": "The Hidden Worlds category makes its debut this year, spotlighting the ocean's smallest inhabitants.",
-     "source": "DPReview",
-     "zh": "揭秘海洋：查看 2026 年度海洋摄影师决赛入围者"
     }
    ]
   },
@@ -2506,6 +2506,14 @@ window.INDUSTRY_DATA = {
    "total": 8,
    "items": [
     {
+     "title": "'A fine line between reducing stigma and trivialising conditions': Social media, self-diagnosis and the glamorization of ADHD",
+     "link": "https://www.livescience.com/health/a-fine-line-between-reducing-stigma-and-trivialising-conditions-social-media-self-diagnosis-and-the-glamorization-of-adhd",
+     "pubDate": "Sat, 15 Aug 2026 10:00:00 +0000",
+     "summary": "Social media, self-diagnosis and the glamorization of ADHD",
+     "source": "Live Science",
+     "zh": "“减少耻辱和轻视情况之间的微妙界限”：社交媒体、自我诊断和多动症的美化"
+    },
+    {
      "title": "Why do cats yowl?",
      "link": "https://www.livescience.com/animals/cats/why-do-cats-yowl",
      "pubDate": "Sat, 15 Aug 2026 09:00:00 +0000",
@@ -2648,14 +2656,6 @@ window.INDUSTRY_DATA = {
      "summary": "The new technique could help scientists learn how the entire brain works to generate decisions and emotions.",
      "source": "MIT News",
      "zh": "高速显微镜揭示大脑的电活动"
-    },
-    {
-     "title": "Memory may not work how we thought, study of mice in artificial hibernation finds",
-     "link": "https://www.livescience.com/health/neuroscience/memory-may-not-work-how-we-thought-study-of-mice-in-artificial-hibernation-finds",
-     "pubDate": "Thu, 13 Aug 2026 20:40:00 +0000",
-     "summary": "A new study induced artificial hibernation in lab mice and may have revealed something fundamental about the nature of memory.",
-     "source": "Live Science",
-     "zh": "对人工冬眠小鼠的研究发现，记忆可能并不像我们想象的那样运作"
     },
     {
      "title": "The glue that binds a proton may be key to its identity",

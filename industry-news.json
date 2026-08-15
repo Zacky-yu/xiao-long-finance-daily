@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/16 02:58:33",
+ "generated_at": "2026/8/16 03:27:24",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+     "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+     "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000",
+     "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+     "source": "TechCrunch AI",
+     "zh": "Anthropic 分享了有关克劳德新水印如何运作的更多细节"
+    },
     {
      "title": "SpaceX officially closes its Cursor acquisition",
      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
@@ -134,7 +142,7 @@
      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400",
      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper ",
      "source": "arXiv cs.AI",
-     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商多代理调度"
+     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商的多代理调度"
     },
     {
      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
@@ -207,14 +215,6 @@
      "summary": "Turn any webpage into a lightweight LLM-powered QA engine by cleaning HTML, converting content to Markdown, and returning focused answers while reducing token usage.",
      "source": "KDnuggets",
      "zh": "如何使用 Python 构建简单的 AI 网络爬虫"
-    },
-    {
-     "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-     "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-     "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000",
-     "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyon",
-     "source": "TechCrunch AI",
-     "zh": "Meta 的“开放”人工智能，以及 2.5 亿美元的交易出了大问题"
     },
     {
      "title": "万亿估值AI独角兽诞生！华人联合创办",
@@ -342,7 +342,7 @@
      "pubDate": "Fri, 14 Aug 2026 15:00:13 +0000",
      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transistors while enabling strong gate control. Silicon transistors are approaching physical limits that make ea",
      "source": "SemiWiki",
-     "zh": "台积电的 0.42 纳米突破可以推动晶体管超越硅"
+     "zh": "台积电的 0.42 纳米突破可能推动晶体管超越硅"
     },
     {
      "title": "Google joins OpenROAD EDA initiative",
@@ -649,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Tesla adds 2.4 kW vehicle-to-load to Model Y Premium with $80 adapter",
+     "link": "https://electrek.co/2026/08/15/tesla-model-y-premium-vehicle-to-load-2-4-kw-adapter/",
+     "pubDate": "Sat, 15 Aug 2026 19:19:37 +0000",
+     "summary": "Tesla has switched on vehicle-to-load for the Model Y Premium in the US and Puerto Rico, letting owners pull 2.4 kW out of the car’s battery at 120 volts and 20 amps. You need an $80 accessory to do it, and not every Model Y Premium can. Tesla says the adapter can be added during configuration or bo",
+     "source": "Electrek",
+     "zh": "Tesla 通过 80 美元的适配器为 Model Y Premium 添加了 2.4 kW 的车辆负载功率"
+    },
+    {
      "title": "Corrupt DoT head took oil money for reality TV show during oil price spike (update)",
      "link": "https://electrek.co/2026/08/15/corrupt-dot-head-takes-oil-money-to-film-reality-tv-show-during-oil-price-spike/",
      "pubDate": "Sat, 15 Aug 2026 17:00:00 +0000",
@@ -703,14 +711,6 @@
      "summary": "Autonomous logistics firm Einride is partnering with heavy truck brand DAF to accelerate the deployment of autonomous electric freight assets across the company’s premium truck platforms.",
      "source": "Electrek",
      "zh": "PACCAR 品牌 DAF 将为其电动卡车添加 4 级 Einride 自动驾驶功能"
-    },
-    {
-     "title": "As EV sales, oil costs and wildfires spike, UK gov’t considers.. fewer EVs? (update)",
-     "link": "https://electrek.co/2026/08/14/ev-sales-oil-costs-and-temperatures-are-spiking-so-uk-govt-pushes-more-gas/",
-     "pubDate": "Sat, 15 Aug 2026 00:09:00 +0000",
-     "summary": "The UK government is considering relaxing its landmark electric vehicle rules, even in the face of inflated oil prices, a recordbreaking year for temperatures and wildfires, and EV sales that are already rising fast enough to meet the government’s current target. Update 8/14: The government official",
-     "source": "Electrek",
-     "zh": "随着电动汽车销量、石油成本和野火的飙升，英国政府是否考虑……减少电动汽车？ （更新）"
     },
     {
      "title": "Self-driving trucks are officially testing on California highways",
@@ -830,7 +830,7 @@
      "pubDate": "Wed, 12 Aug 2026 17:15:41 +0000",
      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
      "source": "TechCrunch Transport",
-     "zh": "据报道，Uber Freight 在黑客组织声称数据泄露后正在进行调查"
+     "zh": "据报道 Uber Freight 在黑客组织声称数据泄露后正在进行调查"
     },
     {
      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
@@ -849,12 +849,20 @@
    "total": 9,
    "items": [
     {
+     "title": "The Battle Over North Sea Oil Is Heating Up Under Britain’s New PM",
+     "link": "https://oilprice.com/Energy/Energy-General/The-Battle-Over-North-Sea-Oil-Is-Heating-Up-Under-Britains-New-PM.html",
+     "pubDate": "Sat, 15 Aug 2026 14:00:00 -0500",
+     "summary": "With a new Prime Minister in office, it is uncertain whether the United Kingdom will continue accelerating its green transition or backtrack on climate pledges to support fossil fuel development. Many have speculated that the new Labour Party PM Andy Burnham will back North Sea oil and gas projects.",
+     "source": "OilPrice",
+     "zh": "英国新首相领导下，北海石油争夺战愈演愈烈"
+    },
+    {
      "title": "Russia's Oil Industry Is Running Out of Room to Absorb More Shocks",
      "link": "https://oilprice.com/Energy/Crude-Oil/Russias-Oil-Industry-Is-Running-Out-of-Room-to-Absorb-More-Shocks.html",
      "pubDate": "Sat, 15 Aug 2026 12:00:00 -0500",
      "summary": "Following a year of tighter sanctions and Ukrainian attacks on refineries, ports and tankers, Russia’s crude output has fallen further in the second half of 2026, severely affecting the nation’s crude production outlook. Factoring in these disruptions, Rystad Energy has revised its Russian crude pro",
      "source": "OilPrice",
-     "zh": "俄罗斯石油工业已经没有足够的空间来吸收更多的冲击"
+     "zh": "俄罗斯石油工业已经没有空间来承受更多冲击"
     },
     {
      "title": "Mexico Is Betting on Biofuel to Tackle Its Seaweed Crisis",
@@ -945,14 +953,6 @@
      "zh": "为什么创纪录强度的厄尔尼诺现象仍然可能无法拯救欧洲天然气市场"
     },
     {
-     "title": "Oracle’s $165 Billion Data Center Plan Hits a Gas Pipeline Delay",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oracles-165-Billion-Data-Center-Plan-Hits-a-Gas-Pipeline-Delay.html",
-     "pubDate": "Fri, 14 Aug 2026 14:39:00 -0500",
-     "summary": "Oracle’s proposed $165 billion data center project in New Mexico has run into a decidedly low-tech problem: the natural gas pipeline meant to help power it won’t be ready on time. Energy Transfer subsidiary Transwestern Pipeline pushed the expected in-service date for its Green Chile Project from Au",
-     "source": "OilPrice",
-     "zh": "Oracle 1650 亿美元的数据中心计划遭遇天然气管道延误"
-    },
-    {
      "title": "Data centers are officially shaping election season",
      "link": "https://www.canarymedia.com/articles/data-centers/data-centers-2026-elections",
      "pubDate": "Fri, 14 Aug 2026 12:20:00 -0400",
@@ -985,12 +985,12 @@
      "zh": "量子计算正在快速到来。公用事业准备好了吗？"
     },
     {
-     "title": "WSP capitalizes on surging US power work",
+     "title": "WSP capitalizes on surging US power infrastructure construction",
      "link": "https://www.utilitydive.com/news/wsp-power-generation-nuclear-data-centers-construction-us/827577/",
      "pubDate": "Fri, 14 Aug 2026 10:40:05 -0400",
      "summary": "Power now accounts for as much as 40% of the company&rsquo;s revenue, CEO Alexandre L&rsquo;Heureux said during a second-quarter earnings call.",
      "source": "Utility Dive",
-     "zh": "科进充分利用美国电力工作的激增"
+     "zh": "科进充分利用美国电力基础设施建设的蓬勃发展"
     },
     {
      "title": "Recurrent Energy bags US$695 million for 330MW California solar project",
@@ -1017,12 +1017,20 @@
      "zh": "“数据准确性是最重要的事情之一”：enSights 首席执行官谈 PJM 中的 BESS 经济学"
     },
     {
+     "title": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals",
+     "link": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
+     "pubDate": "Fri, 14 Aug 2026 09:02:30 -0400",
+     "summary": "PowerTransitions aims to buy a 1.2-GW power plant in New York for&nbsp;an &ldquo;energy campus.&rdquo; &nbsp; TransAlta intends to buy two&nbsp;power plants in Colorado totaling about 319 MW.",
+     "source": "Utility Dive",
+     "zh": "FERC 批准 TransAlta 和 PowerTransitions 燃气发电厂交易"
+    },
+    {
      "title": "The Hydrogen Stream: Commissioning begins for 2.2 GW Neom H2 project in Saudi Arabia",
      "link": "https://www.pv-magazine.com/2026/08/14/the-hydrogen-stream-commissioning-begins-for-2-2-gw-neom-h2-project-in-saudi-arabia/",
      "pubDate": "Fri, 14 Aug 2026 12:43:37 +0000",
      "summary": "In other news, the Schleswig-Holstein Ministry of Energy Transition reportedly confirmed the cancellation of the 2.1 GW HyScale 100 electrolyzer project at a German refinery, with a lack of planning certainty cited among the reasons. Power to Hydrogen has begun installing a 500 kW AEM electrolyzer i",
      "source": "pv magazine",
-     "zh": "氢流：沙特阿拉伯 2.2 吉瓦 Neom H2 项目开始调试"
+     "zh": "氢流：沙特阿拉伯 2.2 GW Neom H2 项目开始调试"
     },
     {
      "title": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
@@ -1079,14 +1087,6 @@
      "summary": "On this episode of the This Week in Cleantech podcast, Mark Chediak from Bloomberg breaks down Trump's new 15% tariffs and price floors on imported polysilicon and its derivatives, including wafers, cells and modules.",
      "source": "Renewable Energy World",
      "zh": "特朗普新的太阳能关税能否缓解国内供应问题？ ——本周《清洁技术》"
-    },
-    {
-     "title": "FEOC compliance doesn’t end at signing. Here’s where it actually breaks down",
-     "link": "https://www.pv-tech.org/feoc-compliance-doesnt-end-at-signing-heres-where-it-actually-breaks-down/",
-     "pubDate": "Fri, 14 Aug 2026 09:34:57 +0000",
-     "summary": "Foreign Entity of Concern rules create a multitude of new risks for US solar developers, some less visible than others. Intertek CEA’s Jordan Wilson explores the key steps towards minimising FEOC exposure in PV module purchase agreements.",
-     "source": "PV Tech",
-     "zh": "FEOC 合规性并不会在签署时结束。这是它真正崩溃的地方"
     }
    ]
   },
@@ -1772,9 +1772,17 @@
      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
      "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
      "pubDate": "Sat, 15 Aug 2026 18:13:02 +0000",
-     "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 74 # Comments: 55",
+     "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 130 # Comments: 89",
      "source": "Hacker News",
      "zh": "人工智能并不比数学家聪明。它已经超出了记住他们的范围"
+    },
+    {
+     "title": "Thunderbird's Desktop Calendar Visual Redesign",
+     "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+     "pubDate": "Sat, 15 Aug 2026 18:09:42 +0000",
+     "summary": "Article URL: https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/ Comments URL: https://news.ycombinator.com/item?id=49312823 Points: 10 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Thunderbird 的桌面日历视觉重新设计"
     },
     {
      "title": "Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)",
@@ -1785,10 +1793,18 @@
      "zh": "资料来源：Mercor 和其他为人工智能实验室收集数据的公司正在推动对关闭或被收购的初创公司购买或许可内部数据集的需求（Alix Coutures/The Information）"
     },
     {
+     "title": "BriskDB",
+     "link": "https://github.com/schapman1974/briskdb",
+     "pubDate": "Sat, 15 Aug 2026 17:56:57 +0000",
+     "summary": "Article URL: https://github.com/schapman1974/briskdb Comments URL: https://news.ycombinator.com/item?id=49312707 Points: 3 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "活跃数据库"
+    },
+    {
      "title": "TreasuryDirect: Prepare for ID.me – Your New Way to Log In",
      "link": "https://www.treasurydirect.gov/savings-bonds/idme-one-month/",
      "pubDate": "Sat, 15 Aug 2026 17:30:02 +0000",
-     "summary": "Article URL: https://www.treasurydirect.gov/savings-bonds/idme-one-month/ Comments URL: https://news.ycombinator.com/item?id=49312465 Points: 21 # Comments: 19",
+     "summary": "Article URL: https://www.treasurydirect.gov/savings-bonds/idme-one-month/ Comments URL: https://news.ycombinator.com/item?id=49312465 Points: 32 # Comments: 26",
      "source": "Hacker News",
      "zh": "TreasuryDirect：准备 ID.me – 您的新登录方式"
     },
@@ -1796,17 +1812,9 @@
      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
      "link": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
      "pubDate": "Sat, 15 Aug 2026 17:21:26 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/c4gxy0wqqd9o Comments URL: https://news.ycombinator.com/item?id=49312413 Points: 45 # Comments: 19",
+     "summary": "Article URL: https://www.bbc.com/news/articles/c4gxy0wqqd9o Comments URL: https://news.ycombinator.com/item?id=49312413 Points: 66 # Comments: 24",
      "source": "Hacker News",
      "zh": "夏季热浪过后，从太空看到欧洲烧焦的风景"
-    },
-    {
-     "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
-     "link": "https://www.core77.com/posts/144869",
-     "pubDate": "Sat, 15 Aug 2026 16:53:47 +0000",
-     "summary": "Article URL: https://www.core77.com/posts/144869 Comments URL: https://news.ycombinator.com/item?id=49312165 Points: 41 # Comments: 20",
-     "source": "Hacker News",
-     "zh": "人们居住在湖中狭长土地上的荷兰社区"
     },
     {
      "title": "当放水不再流向工资袋",
@@ -1823,14 +1831,6 @@
      "summary": "Washington Post : A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online &nbsp; &mdash;&nbsp; When Jane Doe 4, as she is identified in legal filings, arrived at her parents' house in Wyoming to s",
      "source": "Techmeme",
      "zh": "一名怀俄明州妇女加入了针对 xAI 的联邦诉讼，指控她的继父使用 Grok 将她的一张童年照片变成了他在网上交易的 7,000 多张 CSAM 图片（《华盛顿邮报》）"
-    },
-    {
-     "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
-     "link": "https://www.nature.com/articles/d41586-026-02448-x",
-     "pubDate": "Sat, 15 Aug 2026 16:38:34 +0000",
-     "summary": "Article URL: https://www.nature.com/articles/d41586-026-02448-x Comments URL: https://news.ycombinator.com/item?id=49312008 Points: 88 # Comments: 33",
-     "source": "Hacker News",
-     "zh": "一项备受争议的阿尔茨海默氏症手术据说可以逆转症状"
     },
     {
      "title": "How to tell if your AI platforms’ accounts have been hacked",
@@ -1934,7 +1934,7 @@
      "pubDate": "Sat, 15 Aug 2026 10:30:00 -0400",
      "summary": "Saritha Rai / Bloomberg : Alibaba's open-weight models have accumulated 3B+ global downloads in the past six months; Hugging Face: Google had 418M downloads while Meta had 227M in 2026 &nbsp; &mdash;&nbsp; Alibaba Group Holding's open-weight models have accumulated more than 3 billion global downloa",
      "source": "Techmeme",
-     "zh": "阿里巴巴的开放权重模型在过去六个月累计全球下载量达到3B+； Hugging Face：2026 年 Google 的下载量为 4.18 亿，而 Meta 的下载量为 2.27 亿（Saritha Rai/Bloomberg）"
+     "zh": "阿里巴巴的开放权重模型在过去六个月累计全球下载量达到3B+； Hugging Face：2026 年 Google 的下载量为 4.18 亿，而 Meta 的下载量为 2.27 亿（Saritha Rai/彭博社）"
     },
     {
      "title": "Every fusion startup that has raised over $100M",
@@ -2257,6 +2257,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Key deals this week: Workday, Diversified Energy, Aurora Cannabis, and more",
+     "link": "https://seekingalpha.com/news/4633577-key-deals-this-week-workday-diversified-energy-aurora-cannabis-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 15 Aug 2026 15:15:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "本周主要交易：Workday、Diversified Energy、Aurora Cannabis 等"
+    },
+    {
+     "title": "Think interest rates are high now? These charts offer a different perspective.",
+     "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 15 Aug 2026 19:01:00 GMT",
+     "summary": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
+     "source": "MarketWatch",
+     "zh": "觉得现在利率高吗？这些图表提供了不同的视角。"
+    },
+    {
      "title": "卡塔尔否认拘留伊朗飞行员",
      "link": "http://finance.eastmoney.com/news/1351,202608163842459213.html",
      "pubDate": "Sun, 16 Aug 2026 02:42:04 +0800",
@@ -2377,14 +2393,6 @@
      "zh": "苹果收到美国警告不要从中国购买存储芯片：华尔街日报"
     },
     {
-     "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
-     "link": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
-     "pubDate": "Sat, 15 Aug 2026 16:16:00 GMT",
-     "summary": "Older adults could be scrambling for new health coverage next year, especially in rural markets that have fewer insurance choices.",
-     "source": "MarketWatch",
-     "zh": "健康保险公司正在放弃医疗保险优势计划。以下是有多少老年人可能受到影响。"
-    },
-    {
      "title": "Real estate stocks show mixed performance; data center REITs gain, health care REITs lose",
      "link": "https://seekingalpha.com/news/4633485-real-estate-stocks-show-mixed-performance-data-center-reits-gain-health-care-reits-lose?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 15 Aug 2026 12:00:03 -0400",
@@ -2423,14 +2431,6 @@
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "延迟 1 小时回复招聘人员会使您的招聘机会减少一半。这就是为什么"
-    },
-    {
-     "title": "Anthropic’s IPO valuation tied to 2028 revenue forecast of $190B - $200B: Reuters",
-     "link": "https://seekingalpha.com/news/4633585-anthropics-ipo-valuation-tied-2028-revenue-forecast?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 15 Aug 2026 11:18:39 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anthropic 的 IPO 估值与 2028 年 190B - $200B 的收入预测挂钩：路透社"
     },
     {
      "title": "Why Medicare Advantage providers are cutting plans — and what to do if your coverage is affected",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/15 17:30:02",
+ "generated_at": "2026/8/15 17:52:38",
  "recent_days": 7,
  "industries": [
   {
@@ -58,6 +58,30 @@ window.INDUSTRY_DATA = {
      "zh": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！"
     },
     {
+     "title": "CEO还是「教主」？Anthropic正遭受「信仰」反噬",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050521&idx=1&sn=442c1c98b60f7864118caa79a7e6c74e",
+     "pubDate": "Sat, 15 Aug 2026 12:02:00 +0800",
+     "summary": "CEO 像个宗教大祭司，员工备受煎熬",
+     "source": "机器之心",
+     "zh": "CEO还是「教主」？Anthropic正遭受「信仰」反噬"
+    },
+    {
+     "title": "Stack Overflow快死了！新提问竟比内测时还少",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050521&idx=2&sn=f6c334e02d3c80c1cd3f04b9be02e377",
+     "pubDate": "Sat, 15 Aug 2026 12:02:00 +0800",
+     "summary": "一个时代的终结",
+     "source": "机器之心",
+     "zh": "Stack Overflow快死了！新提问竟比内测时还少"
+    },
+    {
+     "title": "浙大团队开源AI科研智能体Polaris：让AI与你一起做研究",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050521&idx=3&sn=612140875963be7e77d7e1e0754cebce",
+     "pubDate": "Sat, 15 Aug 2026 12:02:00 +0800",
+     "summary": "AI 自己读文献、想 idea、跑实验、写论文、做评审。浙大团队开源端到端科研智能体 Polaris。",
+     "source": "机器之心",
+     "zh": "浙大团队开源AI科研智能体Polaris：让AI与你一起做研究"
+    },
+    {
      "title": "Position: Reasoning is a Learnable Rule-Based Process",
      "link": "https://arxiv.org/abs/2608.12325",
      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400",
@@ -95,7 +119,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 15 Aug 2026 00:00:00 -0400",
      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper ",
      "source": "arXiv cs.AI",
-     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商的多代理调度"
+     "zh": "移动边缘计算中流处理的 LLM 辅助合同网络协商多代理调度"
     },
     {
      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
@@ -104,6 +128,22 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2608.12372v1 Announce Type: new Abstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-aligned AI systems that r",
      "source": "arXiv cs.AI",
      "zh": "立场：我们需要实用的人工智能对齐方法来反映人类推理"
+    },
+    {
+     "title": "Anthropic自曝「私藏核武器」，Model 2比Mythos 5更强！",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652718121&idx=1&sn=8773455e087813a6898d3ae00400db47",
+     "pubDate": "Sat, 15 Aug 2026 07:22:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "Anthropic自曝「私藏核武器」，Model 2比Mythos 5更强！"
+    },
+    {
+     "title": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652718121&idx=2&sn=566e5ce1a30840fa891e3a5364bc0537",
+     "pubDate": "Sat, 15 Aug 2026 07:22:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字"
     },
     {
      "title": "Google will now allow users to remove visible watermark from its AI generations",
@@ -208,46 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 陈骏达 编辑 | 心缘 智东西8月14日报道，就在刚刚，智谱发布了其 最新一代旗舰模型GLM-5.3 ，并宣布模型将 在两周内开源 。这是一个拥有7430亿个参数的模型，和此前的GLM模型一样主打编程。 在多项主流基准测试中，GLM-5.3位居所有已开源或即将开源模型中的第一；其在编程与智能体任务上的能力， 已逼近Claude Fable 5、GPT-5.6 Sol等海外顶尖模型 。 与国内模型相比，GLM-5.3与Kimi K3 在编程和智能体领域互有胜负 ，并在绝大部分基准测试中领先DeepSeek-V4-Pro-0813。而在 网络安全能力方面，GLM-5.3则展现出一",
      "source": "智东西",
      "zh": "刚刚，GLM-5.3来了！拿下多个开源SOTA，我用它“魔改”DeepSeek Harness"
-    },
-    {
-     "title": "曝苹果已与阿里合作训练大模型",
-     "link": "https://zhidx.com/p/585097.html",
-     "pubDate": "Fri, 14 Aug 2026 14:30:40 +0800",
-     "summary": "智东西 作者 | 王涵 编辑 | 心缘 智东西8月14日消息，据路透社援引三位知情人士爆料，苹果已和阿里巴巴展开合作，联合训练一款 专门面向中国市场的大语言模型 。 就在8月8日，苹果悄然更新Mac使用手册，新增《在Mac上配合Apple智能使用千问》相关章节，这也是苹果 首次对外官方披露 国行Apple智能的合作细节，不过该章节后续已被删除。（ 重磅！苹果国行AI突然发布，首次官宣牵手阿里，Mac用上千问了 ） 在此之前，智东西从阿里巴巴方面了解到，通义千问的AI能力将接入Apple智能，为国内iOS、iPadOS、macOS以及visionOS用户提供AI服务。用户无需跳转其他应用，便可 ",
-     "source": "智东西",
-     "zh": "曝苹果已与阿里合作训练大模型"
-    },
-    {
-     "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
-     "link": "https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/",
-     "pubDate": "Fri, 14 Aug 2026 05:45:47 +0000",
-     "summary": "Cactus Compute released Needle 2, an open 45M-parameter model for tool calling, device use, and structured extraction. The full model is a single 14MB binary that runs a session in about 28MB of RAM. It leads both Seal-Tools splits while targeting hardware with no GPU and no NPU. The post Meet Needl",
-     "source": "MarkTechPost",
-     "zh": "Meet Needle 2：开放的 45M 参数工具调用模型，以 14MB 二进制文件形式提供，并在 28MB RAM 中运行完整会话"
-    },
-    {
-     "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus",
-     "link": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
-     "pubDate": "Fri, 14 Aug 2026 03:09:45 +0000",
-     "summary": "This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-t",
-     "source": "MarkTechPost",
-     "zh": "创建以推理为重点的法学硕士：流式传输、管理和微调 SupraLabs 推理语料库的实用指南"
-    },
-    {
-     "title": "全球第一，碾压谷歌！中国版Thinking Machines诞生，语音赛道变天了",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652718041&idx=1&sn=acd13e744a368ee8a16b5152ffd25c7d",
-     "pubDate": "Fri, 14 Aug 2026 10:09:00 +0800",
-     "summary": "语音与交互赛道，中国队站上世界之巅",
-     "source": "新智元",
-     "zh": "全球第一，碾压谷歌！中国版Thinking Machines诞生，语音赛道变天了"
-    },
-    {
-     "title": "苦等两年！ChatGPT杀入Linux，Codex上手能改你的代码",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652718041&idx=2&sn=615157f3bc36a4189b8014b7520f91e8",
-     "pubDate": "Fri, 14 Aug 2026 10:09:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "苦等两年！ChatGPT杀入Linux，Codex上手能改你的代码"
     }
    ]
   },
@@ -335,7 +335,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 14 Aug 2026 15:00:13 +0000",
      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transistors while enabling strong gate control. Silicon transistors are approaching physical limits that make ea",
      "source": "SemiWiki",
-     "zh": "台积电的 0.42 纳米突破可能推动晶体管超越硅"
+     "zh": "台积电的 0.42 纳米突破可以推动晶体管超越硅"
     },
     {
      "title": "Google joins OpenROAD EDA initiative",
@@ -615,7 +615,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 13 Aug 2026 12:30:25 +0000",
      "summary": "The RoboBusiness panel will include insights on humanoid robots from Agility, Apptronik, Persona AI, and PSYONIC experts. The post Experts to discuss the state of humanoid robots at RoboBusiness appeared first on The Robot Report .",
      "source": "The Robot Report",
-     "zh": "专家们将在 RoboBusiness 讨论人形机器人的现状"
+     "zh": "专家们在 RoboBusiness 讨论人形机器人的现状"
     },
     {
      "title": "Robotics roadmaps from around the world",
@@ -831,7 +831,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 12 Aug 2026 17:15:41 +0000",
      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
      "source": "TechCrunch Transport",
-     "zh": "据报道 Uber Freight 在黑客组织声称数据泄露后正在进行调查"
+     "zh": "据报道，Uber Freight 在黑客组织声称数据泄露后正在进行调查"
     },
     {
      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
@@ -1023,7 +1023,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 14 Aug 2026 12:43:37 +0000",
      "summary": "In other news, the Schleswig-Holstein Ministry of Energy Transition reportedly confirmed the cancellation of the 2.1 GW HyScale 100 electrolyzer project at a German refinery, with a lack of planning certainty cited among the reasons. Power to Hydrogen has begun installing a 500 kW AEM electrolyzer i",
      "source": "pv magazine",
-     "zh": "氢流：沙特阿拉伯 2.2 GW Neom H2 项目开始调试"
+     "zh": "氢流：沙特阿拉伯 2.2 吉瓦 Neom H2 项目开始调试"
     },
     {
      "title": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
@@ -1370,20 +1370,20 @@ window.INDUSTRY_DATA = {
      "zh": "NASA 竞赛邀请学生帮助想象月球技术带来的未来"
     },
     {
-     "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
-     "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
-     "pubDate": "Fri, 14 Aug 2026 20:00:00 +0000",
-     "summary": "“Whoever controls space will control the Earth.”",
-     "source": "Space.com",
-     "zh": "6 款太空棋盘游戏，演绎《为了全人类》和《星城》的政治戏剧"
-    },
-    {
      "title": "Cards Against Humanity wants to erect a monument to 'honor' Elon Musk",
      "link": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk",
      "pubDate": "Fri, 14 Aug 2026 20:00:00 +0000",
      "summary": "Cards Against Humanity isn't done with its scorched-Earth campaign against SpaceX and Elon Musk, and is planning to erect an \"Elon Musk is a Sad Little B----- with No Friends\" monument near SpaceX's Starbase site.",
      "source": "Space.com",
      "zh": "反人类卡​​牌组织希望竖立一座纪念碑以“纪念”埃隆·马斯克"
+    },
+    {
+     "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
+     "link": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
+     "pubDate": "Fri, 14 Aug 2026 20:00:00 +0000",
+     "summary": "“Whoever controls space will control the Earth.”",
+     "source": "Space.com",
+     "zh": "6 款太空棋盘游戏，演绎《为了全人类》和《星城》的政治戏剧"
     },
     {
      "title": "The New Middle Ground in Spacecraft Development",
@@ -1762,10 +1762,58 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "528亿，腾讯终于开始“烧钱”了",
+     "link": "https://www.tmtpost.com/8103940.html",
+     "pubDate": "Sat, 15 Aug 2026 17:41:00 +0800",
+     "summary": "放弃了“既要又要”",
+     "source": "钛媒体",
+     "zh": "528亿，腾讯终于开始“烧钱”了"
+    },
+    {
+     "title": "5 Best Apple Watch Bands: Nike, Nomad, and Hermés (2026)",
+     "link": "https://www.wired.com/story/best-apple-watch-bands/",
+     "pubDate": "Sat, 15 Aug 2026 09:33:00 +0000",
+     "summary": "We’ve been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I’ve rounded up the best for every occasion.",
+     "source": "WIRED",
+     "zh": "5 款最佳 Apple Watch 表带：Nike、Nomad 和 Hermés (2026)"
+    },
+    {
+     "title": "惠普推出全新 OmniBook 5 笔记本：16 寸 OLED 屏幕，至高酷睿 Ultra 9 386H 处理器",
+     "link": "https://www.ithome.com/0/990/120.htm",
+     "pubDate": "Sat, 15 Aug 2026 09:32:30 GMT",
+     "summary": "IT之家 8 月 15 日消息，惠普现已在海外市场推出全新 16 英寸笔记本 OmniBook 5，新品配备英特尔 Panther Lake 平台，最高可选 32GB 内存。 据介绍，这款笔记本提供酷睿 Ultra 7 355 和酷睿 Ultra 9 386H 两种处理器选择，低配版只能选择 16GB 内存，高配版则是与 32GB 内存匹配。 同时，这款笔记本配备 68Wh 电池，可选 512GB 或 1TB PCIe Gen 5 固态硬盘。官方提供两种瑞昱网卡，支持 Wi-Fi 6/Wi-Fi 7。最低配版本配备 1920*1200 的 OLED 面板，最高亮度 300nits，刷新率 60",
+     "source": "IT之家",
+     "zh": "惠普推出全新 OmniBook 5 笔记本：16 寸 OLED 屏幕，至高酷睿 Ultra 9 386H 处理器"
+    },
+    {
+     "title": "调查发现美国年轻人普遍不信任 AI，以及主张“拥抱 AI”的科技巨头",
+     "link": "https://www.ithome.com/0/990/119.htm",
+     "pubDate": "Sat, 15 Aug 2026 09:30:41 GMT",
+     "summary": "IT之家 8 月 15 日消息，据外媒 TechRadar 今天（15 日）报道，CNBC 与 Generation Labs 对 1088 名 18 至 34 岁美国人进行的一项新调查显示，美国年轻人 对 AI 的戒心正在加深 ，而且这种不信任也延伸到了 积极推动 AI 发展的企业高管和行业倡导者 。绝大多数受访者称，自己并不信任马斯克、奥尔特曼和扎克伯格等大举投资 AI 的企业领导者。 45% 的受访者认为 AI 会对自己的职业发展产生负面影响，认为 AI 能给自己带来帮助的只有 10%。 调查还询问了年轻人对未来的其他担忧，经济和就业压力位居前列。AI 带来的威胁也明显存在，并随着应用不",
+     "source": "IT之家",
+     "zh": "调查发现美国年轻人普遍不信任 AI，以及主张“拥抱 AI”的科技巨头"
+    },
+    {
+     "title": "BCG: enterprise users spent a total of $300M on quantum computing in 2025, outranking the combined spending of research labs and governments for the first time (Isabelle Bousquette/Wall Street Journal)",
+     "link": "https://www.techmeme.com/260815/p8#a260815p8",
+     "pubDate": "Sat, 15 Aug 2026 05:30:03 -0400",
+     "summary": "Isabelle Bousquette / Wall Street Journal : BCG: enterprise users spent a total of $300M on quantum computing in 2025, outranking the combined spending of research labs and governments for the first time &nbsp; &mdash;&nbsp; Many companies are pouring millions into quantum computing programs to gain",
+     "source": "Techmeme",
+     "zh": "BCG：2025 年企业用户在量子计算上的支出总计为 3 亿美元，首次超过研究实验室和政府的支出总和（Isabelle Bousquette/华尔街日报）"
+    },
+    {
+     "title": "Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater",
+     "link": "https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/",
+     "pubDate": "Sat, 15 Aug 2026 09:30:00 +0000",
+     "summary": "The island could capture billions of gallons of water a year if it implemented systems to catch it as it falls from the sky.",
+     "source": "WIRED",
+     "zh": "波多黎各实行配水制。它可以通过收集雨水来避免它"
+    },
+    {
      "title": "史上最大IPO要来了",
      "link": "https://www.huxiu.com/article/4883363.html?f=rss",
-     "pubDate": "Sat, 15 Aug 2026 17:08:52 +0800",
-     "summary": "本文来自微信公众号： 投资界 ，作者：吴琼 超越SpaceX。 报道/投资界PEdaily 马斯克要被超越了。 据英国《金融时报》报道，全球头部人工智能企业Anthropic最快将于今年10月正式上市，投资者给出的上市估值已达到2万亿美元。 2万亿美元，这比马斯克SpaceX上市前1.77万亿美元估值更高，将刷新史上最大IPO纪录。 身后是一对亲兄妹——2021年，达里奥·阿莫迪（Dario Amodei）和丹妮拉·阿莫迪（Daniela Amodei）离开OpenAI，创办Anthropic，自此成为OpenAI始终绕不过的劲敌。五年之后，Anthropic的估值已经超过了老东家。 恰如那句",
+     "pubDate": "Sat, 15 Aug 2026 17:08:53 +0800",
+     "summary": "本文来自微信公众号： 投资界 ，作者：吴琼，题图来自：视觉中国 马斯克要被超越了。 据英国《金融时报》报道，全球头部人工智能企业Anthropic最快将于今年10月正式上市，投资者给出的上市估值已达到2万亿美元。 2万亿美元，这比马斯克SpaceX上市前1.77万亿美元估值更高，将刷新史上最大IPO纪录。 身后是一对亲兄妹&mdash;&mdash;2021年，达里奥&middot;阿莫迪 （Dario Amodei） 和丹妮拉&middot;阿莫迪 （Daniela Amodei） 离开OpenAI，创办Anthropic，自此成为OpenAI始终绕不过的劲敌。五年之后，Anthropic的",
      "source": "虎嗅",
      "zh": "史上最大IPO要来了"
     },
@@ -1834,36 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "线上品牌批量涌入商场，服饰大洗牌来了"
     },
     {
-     "title": "KDE Plasma 6.8 将支持远程桌面双向复制粘贴",
-     "link": "https://www.ithome.com/0/990/111.htm",
-     "pubDate": "Sat, 15 Aug 2026 08:37:38 GMT",
-     "summary": "IT之家 8 月 15 日消息，KDE Plasma 开发者今天发布新一期《This Week in Plasma》博文，透露 Plasma 6.8 桌面环境的新变化。 据介绍，Plasma 6.8 本次将解决以往远程桌面会话无法双向共享剪贴板的问题。IT之家附该问题此前的引发原因如下： 目前只有 PortalSession 会将本地剪贴板转发给客户端，PlasmaScreencastV1Session 的 setClipboardData () 实际上没有执行任何操作，而且没有监听本地剪贴板变化。 PortalSession 还存在未使用的 ignoreNextSystemClipboard",
-     "source": "IT之家",
-     "zh": "KDE Plasma 6.8 将支持远程桌面双向复制粘贴"
-    },
-    {
      "title": "在中国快被忘记的潘多拉，全球还在增长",
      "link": "https://www.huxiu.com/article/4883355.html?f=rss",
      "pubDate": "Sat, 15 Aug 2026 16:27:30 +0800",
      "summary": "本文来自微信公众号： 品牌星球Brandstar ，作者：🌍 对不少中国消费者而言，潘多拉像是一个停留在上一轮消费热潮里的名字。提起它，最先想到的仍是串珠手链、生日礼物，以及曾经开在商场一层的粉色店铺。 2025年，潘多拉计划在中国关闭最多100家概念店。公司管理层最近透露，中国门店已经从约200家缩减至约100家，业务才重新回到盈亏平衡。 但在中国消费者的视线之外，潘多拉并没有消失。 2025年，潘多拉全球收入达到创纪录的325亿丹麦克朗。2026年第二季度，公司实现3%的有机增长，并将全年有机增长预期从此前的-1%至2%，上调至0%至3%。 潘多拉为什么在中国市场的存在感越来越弱，却仍在",
      "source": "虎嗅",
      "zh": "在中国快被忘记的潘多拉，全球还在增长"
-    },
-    {
-     "title": "北京 2026 E-Town 机器人消费节启动：促消费资金提至 1800 万元，首次打造机器人消费街",
-     "link": "https://www.ithome.com/0/990/110.htm",
-     "pubDate": "Sat, 15 Aug 2026 08:25:59 GMT",
-     "summary": "IT之家 8 月 15 日消息，北京经济技术开发区（简称北京经开区，也称北京亦庄）今日宣布启动“2026 E-Town 机器人消费节”。 本届消费节以“买卖机器人，到北京亦庄”为主题，在 2025 年基础上全面升级，旨在打通从技术到市场的“最后一公里”。 据北京亦庄官方介绍，2025 年 8 月，全球首届 E-Town 机器人消费节在亦庄举办，整体销售额突破 3.3 亿元，售出机器人及相关产品超 19 万台。消费券直接撬动销售额超 7000 万元，京东全站机器人及 AI 品类日均销售额环比增长 101.9%。全球首个具身智能机器人 4S 店在 16 天内产生多笔百万级订单，100 万元以上订单",
-     "source": "IT之家",
-     "zh": "北京 2026 E-Town 机器人消费节启动：促消费资金提至 1800 万元，首次打造机器人消费街"
-    },
-    {
-     "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
-     "link": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
-     "pubDate": "Sat, 15 Aug 2026 08:11:20 +0000",
-     "summary": "Article URL: https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims Comments URL: https://news.ycombinator.com/item?id=49308748 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "剑桥大学抄袭事件中心教授贾森·阿尔戴被发现死亡"
     },
     {
      "title": "“老登”AI，精髓是作秀",
@@ -1914,12 +1938,12 @@ window.INDUSTRY_DATA = {
      "zh": "Pixel 11来了，AI真的能接管你的手机吗？"
     },
     {
-     "title": "Effective Altruism, hit by the SBF turmoil, is drawing record funding as Anthropic and OpenAI IPOs are set to mint new millionaires wedded to \"effective giving\" (Financial Times)",
+     "title": "Effective altruism, hit by the SBF turmoil, is drawing record funding as Anthropic and OpenAI IPOs are set to mint new millionaires wedded to \"effective giving\" (Financial Times)",
      "link": "https://www.techmeme.com/260815/p7#a260815p7",
      "pubDate": "Sat, 15 Aug 2026 02:30:04 -0400",
-     "summary": "Financial Times : Effective Altruism, hit by the SBF turmoil, is drawing record funding as Anthropic and OpenAI IPOs are set to mint new millionaires wedded to &ldquo;effective giving&rdquo; &nbsp; &mdash;&nbsp; Expected IPOs for Anthropic and OpenAI are set to mint a new generation of philanthropis",
+     "summary": "Financial Times : Effective altruism, hit by the SBF turmoil, is drawing record funding as Anthropic and OpenAI IPOs are set to mint new millionaires wedded to &ldquo;effective giving&rdquo; &nbsp; &mdash;&nbsp; Expected IPOs for Anthropic and OpenAI are set to mint a new generation of philanthropis",
      "source": "Techmeme",
-     "zh": "受到 SBF 动荡打击的有效利他主义正在吸引创纪录的资金，因为 Anthropic 和 OpenAI 的 IPO 将创造新的百万富翁，致力于“有效捐赠”（金融时报）"
+     "zh": "受 SBF 动荡打击的有效利他主义正在吸引创纪录的资金，因为 Anthropic 和 OpenAI 的 IPO 将创造新的致力于“有效捐赠”的百万富翁（金融时报）"
     },
     {
      "title": "Point2 Technology, which develops RF-based data center interconnection tech, raised a $136M Series B from LB Investment, Arm, Maverick Silicon, and others (Giacomo Lee/SDxCentral)",
@@ -1938,20 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "总部位于旧金山的 Vals 开发评估和基准来测试现实世界任务中的人工智能模型，以 4 亿美元的估值筹集了由 a16z 领投的 4000 万美元 A 轮融资（Abhinaya Prabhu/科技融资新闻）"
     },
     {
-     "title": "纯债基金深度掘金：济安金信2026Q2市场洞察与精选策略",
-     "link": "https://www.tmtpost.com/8104583.html",
-     "pubDate": "Sat, 15 Aug 2026 14:08:04 +0800",
-     "summary": "根据我国2015年修正的《证券投资基金法》的规定，我国的公募基金全部是契约型基金。遵守各种法律法规的规定和基金契约的约束是基金运作的两个刚性约束，济安评级将基金分为货币型、纯债型、一级债、二级债、股票型、混合型、封闭式、指数型、QDII、基金中基金（FOF）和REITs基金十一种类型。",
-     "source": "钛媒体",
-     "zh": "纯债基金深度掘金：济安金信2026Q2市场洞察与精选策略"
-    },
-    {
      "title": "Sources: China plans to soon lift a travel ban on Manus founders as the company unwinds its $2B acquisition by Meta; CEO Xiao Hong plans to return to Singapore (Zijing Wu/Financial Times)",
      "link": "https://www.techmeme.com/260815/p4#a260815p4",
      "pubDate": "Sat, 15 Aug 2026 02:00:01 -0400",
      "summary": "Zijing Wu / Financial Times : Sources: China plans to soon lift a travel ban on Manus founders as the company unwinds its $2B acquisition by Meta; CEO Xiao Hong plans to return to Singapore &nbsp; &mdash;&nbsp; Chief executive Xiao Hong plans to return to Singapore as AI company nears resolution of ",
      "source": "Techmeme",
-     "zh": "消息来源：随着 Manus 解除 Meta 20 亿美元的收购，中国计划很快取消对 Manus 创始人的旅行禁令；首席执行官肖红计划返回新加坡（吴紫晶/金融时报）"
+     "zh": "消息来源：随着 Manus 解除对 Meta 的 20 亿美元收购，中国计划很快取消对 Manus 创始人的旅行禁令；首席执行官肖红计划返回新加坡（吴紫晶/金融时报）"
     },
     {
      "title": "Sources: Uber and Rapido discussed merging their India ride-hailing operations in May; talks collapsed after disagreements over the proposed deal&apos;s structure (The Economic Times)",
@@ -1960,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Economic Times : Sources: Uber and Rapido discussed merging their India ride-hailing operations in May; talks collapsed after disagreements over the proposed deal's structure &nbsp; &mdash;&nbsp; Uber and Rapido discussed merging their India ride-hailing operations in May, sources told us.&nbsp;",
      "source": "Techmeme",
      "zh": "资料来源：Uber 和 Rapido 在 5 月份讨论了合并其印度打车业务；由于对拟议交易结构存在分歧，谈判破裂（经济时报）"
-    },
-    {
-     "title": "Dynatrace agrees to acquire Arize, which specializes in AI observability and the AI development lifecycle, for $915M, including ~$815M in cash (Larry Dignan/Constellation Research)",
-     "link": "https://www.techmeme.com/260815/p2#a260815p2",
-     "pubDate": "Sat, 15 Aug 2026 01:25:00 -0400",
-     "summary": "Larry Dignan / Constellation Research : Dynatrace agrees to acquire Arize, which specializes in AI observability and the AI development lifecycle, for $915M, including ~$815M in cash &nbsp; &mdash;&nbsp; Dynatrace acquired Arize, which specializes in AI observability and the AI development lifecycle",
-     "source": "Techmeme",
-     "zh": "Dynatrace 同意以 9.15 亿美元收购 Arize，Arize 专注于 AI 可观测性和 AI 开发生命周期，其中包括约 8.15 亿美元现金（Larry Dignan/Constellation Research）"
     },
     {
      "title": "Google Workspace Promo Codes: 14% Off for August 2026",
@@ -1981,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
      "link": "https://chenxiachan.github.io/thoughtdag/",
      "pubDate": "Sat, 15 Aug 2026 04:42:07 +0000",
-     "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 26 # Comments: 3",
+     "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 28 # Comments: 4",
      "source": "Hacker News",
      "zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图"
     },
@@ -1989,17 +1997,9 @@ window.INDUSTRY_DATA = {
      "title": "The other Sean Byrne doesn't exist",
      "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
      "pubDate": "Sat, 15 Aug 2026 04:18:44 +0000",
-     "summary": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 139 # Comments: 61",
+     "summary": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 140 # Comments: 69",
      "source": "Hacker News",
      "zh": "另一个肖恩·伯恩并不存在"
-    },
-    {
-     "title": "Show HN: Deltix – AI Driven Testing",
-     "link": "https://app.deltix.ai",
-     "pubDate": "Sat, 15 Aug 2026 02:42:14 +0000",
-     "summary": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 30 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "显示 HN：Deltix – AI 驱动测试"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Pixel 11 or Pixel 10a? Here’s why the Pixel 11 really is worth $400 more",
+     "link": "https://www.androidauthority.com/pixel-11-vs-pixel-10a-3696152/",
+     "pubDate": "Sat, 15 Aug 2026 09:30:56 +0000",
+     "summary": "The Pixel 11 really is worth splurging for.",
+     "source": "Android Authority",
+     "zh": "Pixel 11 还是 Pixel 10a？这就是为什么 Pixel 11 确实更值 400 美元"
+    },
     {
      "title": "I tried 2 popular Flighty alternatives for Android, but there’s only one I’d pick",
      "link": "https://www.androidauthority.com/i-tried-two-flighty-alternatives-android-3696341/",
@@ -2151,7 +2159,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 14 Aug 2026 20:57:07 +0000",
      "summary": "Apple has expanded its Certified Refurbished Store this week with a handful of new MacBook Air and MacBook Pro configurations. It also includes unique iPhone 16 Plus models, Apple Watch, and more.",
      "source": "9to5Mac",
-     "zh": "Apple 增加了新的 MacBook Air 配置、iPhone 16 Plus 型号以及更多翻新商店"
+     "zh": "苹果增加了新的 MacBook Air 配置、iPhone 16 Plus 型号以及更多翻新商店"
     },
     {
      "title": "ChatGPT can now keep tabs on what you’re up to in case you need reminding later",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Hidden Worlds category makes its debut this year, spotlighting the ocean's smallest inhabitants.",
      "source": "DPReview",
      "zh": "揭秘海洋：查看 2026 年度海洋摄影师决赛入围者"
-    },
-    {
-     "title": "Google Health now lets you remove AI guidance from the Today tab",
-     "link": "https://www.androidauthority.com/google-health-no-coach-insights-3698969/",
-     "pubDate": "Fri, 14 Aug 2026 17:42:19 +0000",
-     "summary": "A new toggle lets you clean up Google Health's home screen.",
-     "source": "Android Authority",
-     "zh": "Google Health 现在允许您从“今日”选项卡中删除人工智能指导"
     }
    ]
   },
@@ -2257,6 +2257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
+     "link": "https://wallstreetcn.com/articles/3779512",
+     "pubDate": "Sat, 15 Aug 2026 17:31:10 +0800",
+     "summary": "8 月 14 日，博通股价收于 393.08 美元，单日下跌 5.92%，市值蒸发约 1180 亿美元，盘中一度跌至 388.5 美元。 触发下跌的，是美银分析师汤姆·库尔库鲁托的一份信用报告。报告测算，博通为 AI 芯片客户搭建的融资平台，若按计划扩张至 20 吉瓦规模，到 2029 年年中，其承担的担保敞口可能达到 3700 亿美元。 在投资者眼中，3700 亿美元与债务联系在一起，构成一个需要立即重新定价的信号。但这一数字，并不是博通需要偿还的债务。 市场的真正风险并非次贷式崩塌——AI芯片残值仍在上涨，但融资成本攀升正悄然侵蚀整条产业链利润率。这是一次估值压缩，而非周期终结。 一个数字",
+     "source": "华尔街见闻",
+     "zh": "博通一夜跌6%：AI的下一道坎，是融资成本"
+    },
     {
      "title": "原煤炭工业合肥设计研究院党委书记曹荣平被查",
      "link": "http://www.eeo.com.cn/2026/0815/999629.shtml",
@@ -2274,14 +2282,6 @@ window.INDUSTRY_DATA = {
      "zh": "《牛来》爆火，票房一天暴涨超2800%，主创仅2人，没投资纯手搓耗时5年"
     },
     {
-     "title": "黄仁勋出手安抚AI算力市场：英伟达可能会“为单个投资项目提供最高25%的残值支持机制”",
-     "link": "http://finance.eastmoney.com/news/1345,202608153842427026.html",
-     "pubDate": "Sat, 15 Aug 2026 17:20:22 +0800",
-     "summary": "本周， 英伟达 CEO黄仁勋携手六位华尔街资管巨头，计划把AI算力打造为独立资产。Meta CEO扎克伯格在社交平台发声，将开放最新AI模型权重。 黄仁勋：AI算力正变成一种资产 黄仁勋携手六位华尔街资管巨头，一起为“ 将AI算力打造为独立资产类别 ”背书，分析认为这是黄仁勋在践行自己提出的词元经济学，这也标志着AI热潮正在从技术竞赛延伸至资本竞赛。 美国 英伟达 公司首席执行官黄仁勋表示，过去， 英伟达 制造芯片并对外销售，这些芯片是供客户购买和使用的技术产品。但如今， 英伟达的AI工厂平台实际上已经成为一种可投资的资产 。 但最新计划也引发了投资者对“循环融资”和债务风险的担忧，面对质疑，",
-     "source": "东方财富股票",
-     "zh": "黄仁勋出手安抚AI算力市场：英伟达可能会“为单个投资项目提供最高25%的残值支持机制”"
-    },
-    {
      "title": "【环球财经】加拿大媒体：加美关税谈判陷入僵局",
      "link": "http://www.eeo.com.cn/2026/0815/999602.shtml",
      "pubDate": "Sat, 15 Aug 2026 17:13:10 +0800",
@@ -2296,38 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "8月14日，广东一消费者发帖反映，在寿司郎（广州番禺天河城店）就餐时，邻座的小孩将双脚伸至该消费者餐桌的直饮水龙头出水口‌，此事引发争议。同日，相关话题登上微博热搜。 广州市番禺区市场监管局回应记者，针对反映的番禺天河城寿司郎门店内，2026年8月14日中午消费者就餐时有孩童将双脚放置在店内饮水龙头区域的相关情况，该局于当日下午第一时间督促涉事门店核实相关情况。经门店核查确认，该情况确系消费者就餐过...",
      "source": "经济观察网",
      "zh": "广州一寿司郎门店有小孩脚伸邻桌直饮水龙头 市监局回应"
-    },
-    {
-     "title": "2026年8月票房破30亿",
-     "link": "http://finance.eastmoney.com/news/1348,202608153842426417.html",
-     "pubDate": "Sat, 15 Aug 2026 17:10:02 +0800",
-     "summary": "据灯塔专业版，截至8月15日，2026年8月总票房（含预售）突破30亿，《蜘蛛侠：崭新之日》《欢迎来龙餐馆》《八仙！》《奥德赛》《功夫女足》暂列8月票房榜前五。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "2026年8月票房破30亿"
-    },
-    {
-     "title": "航空货运需求大增油价承压 跨境物流与低碳燃料迎变局",
-     "link": "http://finance.eastmoney.com/news/1348,202608153842426262.html",
-     "pubDate": "Sat, 15 Aug 2026 17:08:36 +0800",
-     "summary": "2026年8月初，全球航空 物流 产业集中释放多重重磅信号。国际航空货运大盘需求显著跑赢运力供给，亚太航线货源完成结构性切换，跨境 物流 巨头推出平价高端时效产品冲击行业原有竞争格局，全球首款可适配现有 机场 设施的电合成可持续航油实现商业载客飞行。供需失衡、赛道内卷、高油价侵蚀利润、绿色 燃料技术 实现商业化突破四大主线同步显现，短期行业盈利承压、中长期产业转型路径清晰，亚太作为全球航空货运核心市场，正迎来前所未有的结构性重塑窗口。 2026年8月初，全球航空 物流 产业集中释放多重重磅信号。国际航空货运大盘需求显著跑赢运力供给，亚太航线货源完成结构性切换， 跨境物流 巨头推出平价高端时效产",
-     "source": "东方财富股票",
-     "zh": "航空货运需求大增油价承压 跨境物流与低碳燃料迎变局"
-    },
-    {
-     "title": "茅台上半年营收907亿:i茅台贡献超4成，巨额现金或推动下一步回购",
-     "link": "http://finance.eastmoney.com/news/1354,202608153842426010.html",
-     "pubDate": "Sat, 15 Aug 2026 17:08:30 +0800",
-     "summary": "蓝鲸新闻8月15日讯 8月14日晚， 贵州茅台 （600519.SH）披露半年报，1-6月， 贵州茅台 实现营业收入907.03亿元，同比增长1.47%；归母净利润445.17亿元，同比下降 1.95%。这是茅台连续第二个报告期出现归母净利润同比回落。 在行业深度调整的背景下，茅台正在经历一场剧烈的变革，i茅台平台半年收入达402亿元，同比暴增274%，成为支撑营收的引擎。与此同时，系列酒主动“刮骨疗毒”，营收下滑6%；负责系列酒销售的酱香酒营销子公司净利润27.11亿元，同比下降近三成，一场以短期阵痛换取长期健康的战略调整正在展开。 i茅台半年狂揽402亿 2026年伊始， 贵州茅台 正式启",
-     "source": "东方财富股票",
-     "zh": "茅台上半年营收907亿:i茅台贡献超4成，巨额现金或推动下一步回购"
-    },
-    {
-     "title": "2.5亿用于补流还债，智洋创新9亿定增背后的困境：业绩与现金流错配，负债率走高",
-     "link": "http://finance.eastmoney.com/news/1354,202608153842426816.html",
-     "pubDate": "Sat, 15 Aug 2026 17:06:45 +0800",
-     "summary": "8月14日， 智洋创新 (688191) 公告称，公司拟向特定对象发行A股股票， 募集资金总额不超过9.04亿元， 扣除发行费用后拟用于多垂域具身智能及 人工智能 体研发项目、智能感知终端及其分析管理平台研发项目、全域 人工智能 感知终端产业化升级改造及配套能源设施建设项目及补充流动资金和偿还有息负债。 根据公告，多垂域具身智能及 人工智能 体研发项目总投资3.64亿元，使用募集资金投入金额为3.64亿元，主要包括场地投入、软硬件购置费和项目开发费等。智能感知终端及其分析管理平台研发项目总投资1.70亿元，使用募集资金投入金额为1.70亿元，主要包括场地装修改造费、软硬件购置费和项目开发费等。",
-     "source": "东方财富股票",
-     "zh": "2.5亿用于补流还债，智洋创新9亿定增背后的困境：业绩与现金流错配，负债率走高"
     },
     {
      "title": "天天315｜饮料“早产”闹乌龙  别让消费者为品牌失职买单",
@@ -2458,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "Solana 公司预计将在 2026 年第三季度获得首笔与验证者相关的奖励，因为 50 万 SOL 股份承诺将支持东京集群"
     },
     {
-     "title": "果然继续增长态势，平安银行抢下银行中报“头筹”",
-     "link": "https://wallstreetcn.com/articles/3779507",
-     "pubDate": "Sat, 15 Aug 2026 10:18:35 +0800",
-     "summary": "银行业的经营走势回升，在2026年中报是大概率事件。 根据平安银行发布的2026年中报，该行实现营业收入706.17亿元，同比增长1.8%，实现净利润256.96亿元，同比增长3.3%。实现盈利收入双双增长。 另外，对公司业绩影响颇大的净息差达到1.80%，与去年同期持平，环比较去年全年上升2个基点。非利息净收入亦实现同比上升，种种数据显示出该行2026年业绩企稳上升的态势相对稳固。 存贷业务整体企稳向上 中报显示，平安银行上半年末合计发放贷款和垫款本金总额34522.74亿元， 较上年末增长1.8% ；企业贷款余额较上年末增长3.7%，其中一般企业贷款余额较上年末增长5.2%，科技金融、制造",
-     "source": "华尔街见闻",
-     "zh": "果然继续增长态势，平安银行抢下银行中报“头筹”"
-    },
-    {
      "title": "Sidus outlines early 2027 Fortis VPX commercial availability, backed by $158.5M Q2 capital raises",
      "link": "https://seekingalpha.com/news/4633574-sidus-outlines-early-2027-fortis-vpx-commercial-availability-backed-by-158_5m-q2-capital?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 14 Aug 2026 21:27:36 -0400",
@@ -2496,6 +2456,46 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "石油周度强劲上涨，但中东和平没有取得进展"
+    },
+    {
+     "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+     "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+     "pubDate": "Fri, 14 Aug 2026 23:41:50 GMT",
+     "summary": "The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.",
+     "source": "CNBC",
+     "zh": "特朗普家族支持的加密货币公司 World Liberty 获得有条件银行执照批准"
+    },
+    {
+     "title": "印尼发生7.7级地震 已触发海啸预警",
+     "link": "http://finance.eastmoney.com/news/1351,202608153842160440.html",
+     "pubDate": "Sat, 15 Aug 2026 06:54:03 +0800",
+     "summary": "据印度尼西亚气象、气候和地球物理局消息，印尼15日清晨发生7.7级地震。 中国地震台网正式测定：8月15日5时58分，在印尼弗洛勒斯岛附近海域(南纬8.40度，东经121.40度)发生7.7级地震，震源深度20公里。 另据欧洲-地中海地震中心15日消息，预计地震将引发海啸。 印尼东努沙登加拉省部分地区在7.7级地震后报告出现严重损毁。目前，当地有关部门仍处于高度戒备状态。 印尼气象、气候与地球物理局报告显示，强震发生后，震中附近又连续出现多次5级以上地震。其中当地时间5时06分、5时13分和5时28分分别发生6.2级地震。目前震中附近仍在发生强烈震动。此外，此次地震引发的海啸已经在多个地点被监",
+     "source": "东方财富资讯",
+     "zh": "印尼发生7.7级地震 已触发海啸预警"
+    },
+    {
+     "title": "全球市场：美股三大指数小幅收跌 存储、光通信股大涨 闪迪涨超7%",
+     "link": "http://stock.eastmoney.com/news/11784,202608153842149092.html",
+     "pubDate": "Sat, 15 Aug 2026 06:15:14 +0800",
+     "summary": "美股市场： 美股三大指数08月14日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌107.58点，收于53732.41点，跌幅为0.2%，本周 跌0.56% ； 标准普尔 500种股票指数下跌13.23点，收于7785.76点，跌幅为0.17%， 本周涨0.36% ； 纳斯达克 综合 指数下跌73.87点，收于26729.16点，跌幅为0.28%，本周 涨0.14% 。 存储板块走强， 闪迪 涨超7%， 希捷科技 涨超5%， 西部数据 涨超4%， 美光科技 涨超2%。 半导体 设备股走弱， 应用材料 跌超5%， 科磊 跌超2%。 光 通信 股走高， 应用光电 涨超15%， 康宁 涨",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数小幅收跌 存储、光通信股大涨 闪迪涨超7%"
+    },
+    {
+     "title": "Jane Street suffers $15bn hit after meltdown at Situational Awareness",
+     "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1",
+     "pubDate": "Fri, 14 Aug 2026 21:55:53 GMT",
+     "summary": "Secretive Wall Street trading firm wrongfooted by July AI rout",
+     "source": "Financial Times",
+     "zh": "Jane Street 因情境意识崩溃而遭受 150 亿美元损失"
+    },
+    {
+     "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+     "link": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+     "pubDate": "Fri, 14 Aug 2026 21:45:19 GMT",
+     "summary": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
+     "source": "CNBC",
+     "zh": "Nvidia 在第二季度末披露了价值 210 亿美元的 SpaceX 股份"
     }
    ]
   },

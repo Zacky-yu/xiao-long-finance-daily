@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/15 18:49:29",
+ "generated_at": "2026/8/15 19:20:43",
  "recent_days": 7,
  "industries": [
   {
@@ -1762,6 +1762,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "索尼 PS5 Pro 增强版 PSSR 技术揭秘：让 AI 少干活，画质反而更好",
+     "link": "https://www.ithome.com/0/990/159.htm",
+     "pubDate": "Sat, 15 Aug 2026 11:19:30 GMT",
+     "summary": "IT之家 8 月 15 日消息，索尼 SIE 首席软件工程师丹尼尔 · 克雷格在 SIGGRAPH 2026 会议上详细介绍了 PlayStation 5 Pro 上增强版 PSSR（IT之家注：PlayStation 光谱超分辨率）技术的重新设计思路。 新版 PSSR 的核心变化在于让 AI 承担更少的工作量，而非扩大神经网络规模，以此实现画质提升与资源占用降低。 据介绍，初代 PSSR 将几乎整个重建流程交由色彩预测网络（CPN）处理，由模型直接预测输出颜色。后来，索尼与 AMD 的工程师发现，这种方式导致了从 HDR 处理到时序重建再到高倍率超分辨率的一系列问题。 在 PSSR 增强版中",
+     "source": "IT之家",
+     "zh": "索尼 PS5 Pro 增强版 PSSR 技术揭秘：让 AI 少干活，画质反而更好"
+    },
+    {
+     "title": "全球两大支付巨头合并？消息称 Stripe 正洽谈收购 PayPal",
+     "link": "https://www.ithome.com/0/990/158.htm",
+     "pubDate": "Sat, 15 Aug 2026 11:03:17 GMT",
+     "summary": "IT之家 8 月 15 日消息，据《华尔街日报》昨日报道，Stripe 和私募股权公司安宏资本（Advent International）正在与 PayPal 洽谈收购事宜。 据报道，Stripe 和安宏资本曾在今年 7 月，以每股 60.5 美元 （IT之家注：现汇率约合 408.7 元人民币） 的价格向 PayPal 提出收购要约，使 PayPal 的估值达到 530 亿美元 （现汇率约合 3,580.49 亿元人民币） ，但 PayPal 方面对该报价并不满意。 在接收到要约之前，PayPal 的股价曾一度跌至历史低位，市值也只有大约 400 亿美元 （现汇率约合 2,702.26 亿元",
+     "source": "IT之家",
+     "zh": "全球两大支付巨头合并？消息称 Stripe 正洽谈收购 PayPal"
+    },
+    {
+     "title": "This Beautifully Weird Necklace Is Secretly a USB Drive",
+     "link": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/",
+     "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000",
+     "summary": "Noware’s Puff necklace whimsically reimagines flash drives, turning something functional into personalized jewelry.",
+     "source": "WIRED",
+     "zh": "这条漂亮奇怪的项链其实是一个 USB 驱动器"
+    },
+    {
+     "title": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
+     "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
+     "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000",
+     "summary": "This affordable electric BMX delighted my entire family, even if its range, ride comfort, and actual BMX abilities are limited.",
+     "source": "WIRED",
+     "zh": "Retrospec Joe Rev 2 评测 (2026)：将“欢乐”融入 Joyride"
+    },
+    {
+     "title": "付出和回报",
+     "link": "https://www.huxiu.com/article/4883370.html?f=rss",
+     "pubDate": "Sat, 15 Aug 2026 18:58:47 +0800",
+     "summary": "本文来自微信公众号： 梁孝永康 ，作者：梁孝永康 朋友问我：怎样让小孩学会感恩？ 我说：不用学，他自己会的。 他说：但我每次和他说，他都是很反感，他不懂家长的付出。 我说：我帮了你一个忙，以后见面经常提醒你这个事，你会不会反感？也不用我经常提醒你，只要我提醒一两次，可能你就觉得不舒服了。这不是说你做人不行，我也是这样，如果别人帮了我，他总是提醒我，我也不舒服。其实大家心里都有数，不用说的。你说了，会起反作用。不要觉得是你自己的小孩，可以随便说，小孩只是不像朋友一样，可以随时离开你。但不舒服的心情是一样的。 他说：但是小孩不懂事，你不说，他就不知道。 我说；你为什么觉得他不知道，三岁小孩都知道谁",
+     "source": "虎嗅",
+     "zh": "付出和回报"
+    },
+    {
+     "title": "《牛来》票房一天超过80万，别把它当成笑话",
+     "link": "https://www.huxiu.com/article/4883369.html?f=rss",
+     "pubDate": "Sat, 15 Aug 2026 18:45:45 +0800",
+     "summary": "本文来自微信公众号： 新潮沉思录 ，作者：潮思 今天突然火起来的上映动画电影《牛来》有多抽象，想必大家都已经刷到了。这电影制作成本可能不到一万，根本没有宣发。因为制作过于粗糙和魔性，以至于在网络上形成抽象模因传播后，反而会让人觉得烂得“清新脱俗”，很多人表示“没见过这么烂的片所以高低要去尝尝咸淡，刷个绝版成就”。结果这么一刷，一天将本片票房刷到了超过80万。 因为我这边目前没有排片，所以无缘进影院“品鉴”，不过在小红书的各种屏摄贴子中也算领略了不少《牛来》的抽象风采。不少贴子都提到，影院内的观众们总是控制不住笑，虽然可能不知道为什么要笑，但有一个人笑其他人就控制不住，大家跟着一起笑了起来，让影",
+     "source": "虎嗅",
+     "zh": "《牛来》票房一天超过80万，别把它当成笑话"
+    },
+    {
      "title": "OpenAI 奥尔特曼：大学读四年可能有点久，两年就够了",
      "link": "https://www.ithome.com/0/990/156.htm",
      "pubDate": "Sat, 15 Aug 2026 10:45:26 GMT",
@@ -1786,20 +1834,20 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达 CEO 黄仁勋出手安抚 AI 算力市场：部分 AI 投资项目可获最高 25% 残值支持"
     },
     {
-     "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
-     "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
-     "pubDate": "Sat, 15 Aug 2026 10:30:00 +0000",
-     "summary": "New fonts, better customization, and a whole new layout all make it worth dusting off your Instapaper account.",
-     "source": "WIRED",
-     "zh": "Instapaper，最初的稍后阅读应用程序，刚刚进行了巨大升级"
-    },
-    {
      "title": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
      "link": "https://www.wired.com/story/best-apple-watch-accessories/",
      "pubDate": "Sat, 15 Aug 2026 10:30:00 +0000",
      "summary": "These are the Apple Watch accessories I recommend adding to your setup.",
      "source": "WIRED",
      "zh": "6 个最佳 Apple Watch 配件，可升级您的手表 (2026)"
+    },
+    {
+     "title": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
+     "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
+     "pubDate": "Sat, 15 Aug 2026 10:30:00 +0000",
+     "summary": "New fonts, better customization, and a whole new layout all make it worth dusting off your Instapaper account.",
+     "source": "WIRED",
+     "zh": "Instapaper，最初的稍后阅读应用程序，刚刚进行了巨大升级"
     },
     {
      "title": "业界首个：KaihongOS 桌面版（x86）正式适配并预装原生 VS Code，开箱即用",
@@ -1816,22 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "药店最终能依靠的，不是美团承诺多久不下场，而是自",
      "source": "钛媒体",
      "zh": "美团不开药店，却想成为25万家药店的“总店”？"
-    },
-    {
-     "title": "中国团队在全球最大“人造太阳”壁处理领域实现技术链条贯通，覆盖 GDC 与硼化两大系统",
-     "link": "https://www.ithome.com/0/990/138.htm",
-     "pubDate": "Sat, 15 Aug 2026 10:20:44 GMT",
-     "summary": "IT之家 8 月 15 日消息，中核集团今日宣布，核工业西南物理研究院团队在国际热核聚变实验堆（ITER）装置壁处理技术领域接连取得重要进展：顺利通过辉光放电清洗系统（GDC）永久电极项目补充设计最终评审（Delta FDR），同时牵头并联合中核二三成功中标并在法国签署硼化系统与 X 射线晶体光谱仪（XRCS）供气系统设计制造合同。 这两项任务直接与 ITER 在 2023 年做出的将第一壁从金属铍更换为金属钨的战略性设计变更相关。全钨第一壁面积约 600 平方米，钨虽耐高温，但其释放的杂质会严重污染等离子体，尤其在放电启动阶段，微量杂质即可导致能量辐射失控。 中方团队负责的 GDC 系统如同",
-     "source": "IT之家",
-     "zh": "中国团队在全球最大“人造太阳”壁处理领域实现技术链条贯通，覆盖 GDC 与硼化两大系统"
-    },
-    {
-     "title": "2K 成立新体育游戏工作室，由多位 EA Sports 老将领衔",
-     "link": "https://www.ithome.com/0/990/135.htm",
-     "pubDate": "Sat, 15 Aug 2026 10:18:07 GMT",
-     "summary": "IT之家 8 月 15 日消息，2K 现已宣布成立全新体育游戏工作室 Small Axe Studio，该工作室将打造 3A 级体育作品， 由多名 EA Sports 资深开发者领衔 。 IT之家了解到，Small Axe Studio 工作室总部位于加拿大温哥华， 由 2K 此前的实验室 Sports Lab 脱胎而来 。执行负责人 Aaron McHardy 已加盟该工作室，他曾担任 EA Sports FIFA 团队的执行制作人，任职时间超过 15 年。 同时，该工作室还拥有多名 EA Sports 老将，包括运营负责人 Tom Pan、工程负责人 Mike Thompson 以及技术美",
-     "source": "IT之家",
-     "zh": "2K 成立新体育游戏工作室，由多位 EA Sports 老将领衔"
     },
     {
      "title": "8月，华尔街的“牛市”又回来了，“赌性”也回来了",
@@ -1882,36 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "528亿，腾讯终于开始“烧钱”了"
     },
     {
-     "title": "5 Best Apple Watch Bands: Nike, Nomad, and Hermés (2026)",
-     "link": "https://www.wired.com/story/best-apple-watch-bands/",
-     "pubDate": "Sat, 15 Aug 2026 09:33:00 +0000",
-     "summary": "We’ve been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I’ve rounded up the best for every occasion.",
-     "source": "WIRED",
-     "zh": "5 款最佳 Apple Watch 表带：Nike、Nomad 和 Hermés (2026)"
-    },
-    {
      "title": "BCG: enterprise users spent a total of $300M on quantum computing in 2025, outranking the combined spending of research labs and governments for the first time (Isabelle Bousquette/Wall Street Journal)",
      "link": "https://www.techmeme.com/260815/p8#a260815p8",
      "pubDate": "Sat, 15 Aug 2026 05:30:03 -0400",
      "summary": "Isabelle Bousquette / Wall Street Journal : BCG: enterprise users spent a total of $300M on quantum computing in 2025, outranking the combined spending of research labs and governments for the first time &nbsp; &mdash;&nbsp; Many companies are pouring millions into quantum computing programs to gain",
      "source": "Techmeme",
      "zh": "BCG：2025 年企业用户在量子计算上的支出总计为 3 亿美元，首次超过研究实验室和政府的支出总和（Isabelle Bousquette/华尔街日报）"
-    },
-    {
-     "title": "Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater",
-     "link": "https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/",
-     "pubDate": "Sat, 15 Aug 2026 09:30:00 +0000",
-     "summary": "The island could capture billions of gallons of water a year if it implemented systems to catch it as it falls from the sky.",
-     "source": "WIRED",
-     "zh": "波多黎各实行配水制。它可以通过收集雨水来避免它"
-    },
-    {
-     "title": "Debian has begun voting on the future of AI/LLM contributions",
-     "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-     "pubDate": "Sat, 15 Aug 2026 09:20:07 +0000",
-     "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 10 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Debian 已开始对 AI/LLM 贡献的未来进行投票"
     },
     {
      "title": "史上最大IPO要来了",
@@ -1930,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "没头脑和不高兴的原型，出自三千年前的史诗"
     },
     {
-     "title": "宇树的610亿发行市值，多少属于机器人，多少属于人形故事",
-     "link": "https://www.huxiu.com/article/4883356.html?f=rss",
-     "pubDate": "Sat, 15 Aug 2026 16:48:56 +0800",
-     "summary": "出品｜虎嗅科技组 作者｜陈伊凡 编辑｜苗正卿 头图｜视觉中国 宇树科技距离敲钟只剩最后一步。 8&nbsp;月&nbsp;13&nbsp;日晚，这家公司披露了科创板&nbsp;IPO&nbsp;发行结果：978.46&nbsp;万户投资者参与网上申购，最终只产生&nbsp;19414&nbsp;个中签号，中签率&nbsp;0.0181%，创科创板历史新低；中签的人几乎没有放弃的，弃购率低至万分之九，创&nbsp;2023&nbsp;年全面注册制以来的最低纪录。 热闹属于打新的人，这几年具身智能、前沿科技的估值，就像是这场以大模型起始的资本疯狂的缩影，只要无法证伪，故事就能一直讲，估值就能一直涨",
-     "source": "虎嗅",
-     "zh": "宇树的610亿发行市值，多少属于机器人，多少属于人形故事"
-    },
-    {
      "title": "线上品牌批量涌入商场，服饰大洗牌来了",
      "link": "https://www.tmtpost.com/8104022.html",
      "pubDate": "Sat, 15 Aug 2026 16:40:00 +0800",
@@ -1946,18 +1946,10 @@ window.INDUSTRY_DATA = {
      "zh": "线上品牌批量涌入商场，服饰大洗牌来了"
     },
     {
-     "title": "在中国快被忘记的潘多拉，全球还在增长",
-     "link": "https://www.huxiu.com/article/4883355.html?f=rss",
-     "pubDate": "Sat, 15 Aug 2026 16:27:30 +0800",
-     "summary": "本文来自微信公众号： 品牌星球Brandstar ，作者：🌍 对不少中国消费者而言，潘多拉像是一个停留在上一轮消费热潮里的名字。提起它，最先想到的仍是串珠手链、生日礼物，以及曾经开在商场一层的粉色店铺。 2025年，潘多拉计划在中国关闭最多100家概念店。公司管理层最近透露，中国门店已经从约200家缩减至约100家，业务才重新回到盈亏平衡。 但在中国消费者的视线之外，潘多拉并没有消失。 2025年，潘多拉全球收入达到创纪录的325亿丹麦克朗。2026年第二季度，公司实现3%的有机增长，并将全年有机增长预期从此前的-1%至2%，上调至0%至3%。 潘多拉为什么在中国市场的存在感越来越弱，却仍在",
-     "source": "虎嗅",
-     "zh": "在中国快被忘记的潘多拉，全球还在增长"
-    },
-    {
      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
      "link": "https://uecker.codeberg.page/2026-07-14.html",
      "pubDate": "Sat, 15 Aug 2026 07:59:42 +0000",
-     "summary": "Article URL: https://uecker.codeberg.page/2026-07-14.html Comments URL: https://news.ycombinator.com/item?id=49308685 Points: 11 # Comments: 0",
+     "summary": "Article URL: https://uecker.codeberg.page/2026-07-14.html Comments URL: https://news.ycombinator.com/item?id=49308685 Points: 22 # Comments: 1",
      "source": "Hacker News",
      "zh": "使用带有宽指针且无 Trampolines II 的 GCC 嵌套函数"
     },
@@ -2000,6 +1992,14 @@ window.INDUSTRY_DATA = {
      "summary": "Abhinaya Prabhu / Tech Funding News : SF-based Vals, which develops evaluations and benchmarks to test AI models on real-world tasks, raised a $40M Series A led by a16z at a $400M valuation &nbsp; &mdash;&nbsp; - Vals AI raised $40 million in a Series A round at a $400 million valuation.&nbsp; &mdas",
      "source": "Techmeme",
      "zh": "总部位于旧金山的 Vals 开发评估和基准来测试现实世界任务中的人工智能模型，以 4 亿美元的估值筹集了由 a16z 领投的 4000 万美元 A 轮融资（Abhinaya Prabhu/科技融资新闻）"
+    },
+    {
+     "title": "Sources: China plans to soon lift a travel ban on Manus founders as the company unwinds its $2B acquisition by Meta; CEO Xiao Hong plans to return to Singapore (Zijing Wu/Financial Times)",
+     "link": "https://www.techmeme.com/260815/p4#a260815p4",
+     "pubDate": "Sat, 15 Aug 2026 02:00:01 -0400",
+     "summary": "Zijing Wu / Financial Times : Sources: China plans to soon lift a travel ban on Manus founders as the company unwinds its $2B acquisition by Meta; CEO Xiao Hong plans to return to Singapore &nbsp; &mdash;&nbsp; Chief executive Xiao Hong plans to return to Singapore as AI company nears resolution of ",
+     "source": "Techmeme",
+     "zh": "消息来源：随着 Manus 解除对 Meta 的 20 亿美元收购，中国计划很快取消对 Manus 创始人的旅行禁令；首席执行官肖红计划返回新加坡（吴紫晶/金融时报）"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Is the Pixel 11’s Tensor G6 actually a good upgrade from the G5? I crunched the numbers",
+     "link": "https://www.androidauthority.com/tensor-g6-deep-dive-3695968/",
+     "pubDate": "Sat, 15 Aug 2026 11:00:22 +0000",
+     "summary": "Tensor G6 isn't chasing benchmark glory. Here's what Google's new chip is really prioritizing.",
+     "source": "Android Authority",
+     "zh": "Pixel 11 的 Tensor G6 实际上是 G5 的良好升级吗？我计算了数字"
+    },
     {
      "title": "iQOO Neo11 Ultra full specs sheet leaks, launch is imminent",
      "link": "https://www.gsmarena.com/iqoo_neo11_ultra_full_specs_sheet_leaks_launch_is_imminent-news-74190.php",
@@ -2194,14 +2202,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果增加了新的 MacBook Air 配置、iPhone 16 Plus 型号以及更多翻新商店"
     },
     {
-     "title": "ChatGPT can now keep tabs on what you’re up to in case you need reminding later",
-     "link": "https://www.androidauthority.com/chatgpt-computer-history-3699005/",
-     "pubDate": "Fri, 14 Aug 2026 20:54:00 +0000",
-     "summary": "ChatGPT's new feature sounds an awful lot like Windows Recall.",
-     "source": "Android Authority",
-     "zh": "ChatGPT 现在可以密切关注您在做什么，以防您稍后需要提醒"
-    },
-    {
      "title": "Kia's EV3 will start under $31,000 in the US",
      "link": "https://www.engadget.com/2237429/kia-ev3-will-start-under-31-000-in-the-us/",
      "pubDate": "Fri, 14 Aug 2026 20:39:20 +0000",
@@ -2258,52 +2258,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "特朗普尚未明确支持内塔尼亚胡连任",
-     "link": "http://finance.eastmoney.com/news/1351,202608153842435049.html",
-     "pubDate": "Sat, 15 Aug 2026 18:40:40 +0800",
-     "summary": "今年10月以色列将举行议会选举，多家以色列媒体近期发布的民调显示，以色列总理内塔尼亚胡的支持率低迷。据美国阿克西奥斯新闻网站8月14日报道，截至目前，美国总统特朗普尚未在以色列大选中对内塔尼亚胡表示明确支持。报道还称，内塔尼亚胡的几位竞争对手都表示，担心特朗普会支持这位现任总理。消息人士透露，他们通过中间人向特朗普及其助手传递信息，敦促特朗普保持中立。一位熟悉情况的前美国官员表示，内塔尼亚胡在民调中表现不佳，这打消了特朗普介入此事的念头。 （文章来源：CCTV国际时讯）",
+     "title": "金价反弹黄金市场交易又火了 分析师：下半年金价波动可能会加大",
+     "link": "http://finance.eastmoney.com/news/1351,202608153842438423.html",
+     "pubDate": "Sat, 15 Aug 2026 19:13:39 +0800",
+     "summary": "最近，金价连日上涨，截至8月14日，国际 黄金 现货价上涨8.36%，国内金价每克上涨超80元，各地 黄金 市场交易火热。那么，未来 黄金 走势如何？ 菜百股份 高级黄金投资分析师李洋判断，如果中长期持有，我们看 好未来 走势，但是从短期、下半年来看，黄金价格波动可能还会加大。国家高级黄金投资分析师宋蒋圳介绍，这轮反弹有“修补”成分，但也有扎实的基本面支撑。目前，金价已经在900元每克上方，面临多空激辩和技术性震荡，不建议普通人在此位置投入过重仓位。 （文章来源：央视财经）",
      "source": "东方财富股票",
-     "zh": "特朗普尚未明确支持内塔尼亚胡连任"
+     "zh": "金价反弹黄金市场交易又火了 分析师：下半年金价波动可能会加大"
     },
     {
-     "title": "被指画面粗糙却反向走红，电影《牛来》单日票房涨千倍！出品公司曾主营装修",
-     "link": "http://finance.eastmoney.com/news/1348,202608153842434740.html",
-     "pubDate": "Sat, 15 Aug 2026 18:31:43 +0800",
-     "summary": "红星资本局8月15日消息一部暑期档电影《牛来》因画面粗糙、票房低反向走红。有网友调侃：“如果电影抽象到这种程度，高低要去看看。”果然，该电影今天的单日票房暴涨。 ▲图据灯塔专业版 灯塔专业版显示，《牛来》于8月5日上映，全长86分钟，演职人员仅有信雨萌和孙丽芳两人，一人多职。以信雨萌为例，其既是导演、制片人，也是（配音）演员。 从8月5日到8月14日，该电影的单日票房在188元到3934元之间；8月15日，截至发稿，该电影的票房已达到32.30万元，相较此前最低的单日票房暴涨上千倍。 截至发稿，《牛来》的 综合 票房达到64.3万元（含预售）。从城市票房来看，上海是其票房最高的城市，8月15日",
+     "title": "上纬新材上半年营收同比增长2.42% 加码消费级具身智能机器人研发",
+     "link": "http://finance.eastmoney.com/news/1354,202608153842438127.html",
+     "pubDate": "Sat, 15 Aug 2026 19:11:13 +0800",
+     "summary": "新华财经上海8月15日电 上纬新材 料科技股份有限公司（以下简称“ 上纬新材 ”）14日披露2026年半年度报告。报告显示，今年上半年，公司实现营业收入8.03亿元，同比增长2.42%；主营业务毛利率为14.27%，同比提升0.13个百分点；经营活动产生的现金流量净额为2.08亿元，同比增长41.20%。 公司上半年归属于上市公司股东的净利润亏损1.67亿元。公司称，主要受新业务大额研发投入影响。报告期内， 上纬新材 研发投入达到1.8亿元，其中消费级具身智能 机器人 业务研发投入约1.6亿元；研发费用占营业收入比例为22.46%，同比增加19.72个百分点。 研发投入加码，两款个人 机器人 ",
      "source": "东方财富股票",
-     "zh": "被指画面粗糙却反向走红，电影《牛来》单日票房涨千倍！出品公司曾主营装修"
+     "zh": "上纬新材上半年营收同比增长2.42% 加码消费级具身智能机器人研发"
     },
     {
-     "title": "河南三地出现溃口险情 北汝河堤岸溃口完成封堵 另两处仍在抢险",
-     "link": "http://finance.eastmoney.com/news/1350,202608153842433755.html",
-     "pubDate": "Sat, 15 Aug 2026 18:28:30 +0800",
-     "summary": "受今年第13号台风“白海豚”残余涡旋影响，10日开始，河南出现大范围持续性强降雨，多条河流高位运行。 河南平顶山、许昌、周口三地相继出现溃口险情，其中，12日晚，平顶山市郏县长桥镇渔西村北汝河堤岸发生溃口，溃口宽度40余米。14日晚，该溃口已完成封堵。 13日，清潩河许昌鄢陵段发生溃口险情，溃口的长度有十多米。13日23时许，周口市川汇区新北环桥下贾鲁河东岸堤坝出现溃口，由于水流流速快，溃口不断扩大至110多米。目前，这两处溃口的封堵工作仍在进行中。 总台央视记者15日18时许从现场了解到，贾鲁河川汇区段溃口封堵进入最后攻坚，溃口还余10米，现场水流加大，预计决口封堵将在今晚完成。 （文章来源",
+     "title": "茅台渠道改革半年考：i茅台营收暴涨274%，批发收入缩水超21%，厂商关系全面重塑",
+     "link": "http://finance.eastmoney.com/news/1354,202608153842438525.html",
+     "pubDate": "Sat, 15 Aug 2026 19:10:30 +0800",
+     "summary": "经历半年多渠道改革，茅台交出了阶段性成绩单。 8月14日晚， 贵州茅台 披露2026年半年报，上半年实现营业总收入922.78亿元，同比增长1.3%；归母净利润445.17亿元，同比下降1.95%。 值得关注的是i茅台的变化。上半年，i茅台实现酒类不含税收入402.64亿元，同比增长274%，贡献 贵州茅台 近一半营收。相比一季度215.53亿元的收入，i茅台还在继续放量。 今年1月， 贵州茅台 董事长陈华在全国经销商会长联谊会上谈及市场化改革时表示，过去销售领域存在非市场化问题，导致供需不适配，普通消费者难以公平、便捷、保真购酒。 随后，在5月11日的业绩说明会上，茅台总经理王莉也将这场改革",
      "source": "东方财富股票",
-     "zh": "河南三地出现溃口险情 北汝河堤岸溃口完成封堵 另两处仍在抢险"
+     "zh": "茅台渠道改革半年考：i茅台营收暴涨274%，批发收入缩水超21%，厂商关系全面重塑"
     },
     {
-     "title": "养老金增持股名单出炉！下周2股解禁比例超50%（附股）",
-     "link": "http://finance.eastmoney.com/news/1354,202608153842433983.html",
-     "pubDate": "Sat, 15 Aug 2026 18:28:00 +0800",
-     "summary": "养老金 现身18股 据证券时报·数据宝统计， 养老金 账户最新出现在18只个股前十大流通股东名单中，合计持股量1.45亿股，期末持股市值合计50.03亿元。其中，新进3只，增持6只。 从持股量来看，二季度末 养老金 账户对 卫星化学 的持股量最多，达2304.56万股；其次是 百润股份 ，持股量为1866.95万股。从期末持股市值看，养老金账户期末持股市值在亿元以上的有13只股，分别是 杰瑞股份 、 卫星化学 、 华曙高科 等。 持股比例方面，养老金账户持股比例最多的是 海容冷链 ，持股量为1792.78万股，占流通股比例4.69%。养老金持股比例居前的还有 百润股份 、 悍高集团 等，持股比",
+     "title": "水利部和中国气象局联合发布黄色山洪灾害气象预警",
+     "link": "http://finance.eastmoney.com/news/11790,202608153842437868.html",
+     "pubDate": "Sat, 15 Aug 2026 19:09:37 +0800",
+     "summary": "水利部和中国气象局8月15日18时联合发布黄色山洪灾害气象预警：预计8月15日20时至16日20时，四川北部、云南西北部、西藏东北部和东南部、甘肃南部、青海南部、新疆东南部等地部分地区可能发生山洪灾害（蓝色预警），其中，四川北部、云南西北部、西藏东北部和东南部、甘肃南部、新疆东南部局地发生山洪灾害可能性较大（黄色预警）。其他地区也可能因局地短历时强降水引发山洪灾害，请各地注意做好实时监测、防汛预警和转移避险等防范工作。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "养老金增持股名单出炉！下周2股解禁比例超50%（附股）"
+     "zh": "水利部和中国气象局联合发布黄色山洪灾害气象预警"
     },
     {
-     "title": "北京发布雷电黄色预警 延庆怀柔等区局地短时雨强较大",
-     "link": "http://finance.eastmoney.com/news/11790,202608153842433618.html",
-     "pubDate": "Sat, 15 Aug 2026 18:25:10 +0800",
-     "summary": "北京气象台8月15日16时20分发布雷电黄色预警信号：预计，8月16日凌晨至下午，北京市自西向东将有分散性雷阵雨。其中，延庆、怀柔、昌平、房山、顺义等区的局地短时雨强较大，并伴有6级左右阵风，请注意防范。 （文章来源：财联社）",
+     "title": "印尼苏门答腊岛附近发生6.4级左右地震",
+     "link": "http://finance.eastmoney.com/news/1351,202608153842437719.html",
+     "pubDate": "Sat, 15 Aug 2026 19:07:51 +0800",
+     "summary": "中国地震台网自动测定：08月15日18时54分在印尼苏门答腊岛附近（北纬3.01度，东经98.91度）发生6.4级左右地震，最终结果以正式速报为准。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "北京发布雷电黄色预警 延庆怀柔等区局地短时雨强较大"
+     "zh": "印尼苏门答腊岛附近发生6.4级左右地震"
     },
     {
-     "title": "中欧北极快航从宁波舟山港开启周班常态化运营",
-     "link": "http://finance.eastmoney.com/news/1348,202608153842434556.html",
-     "pubDate": "Sat, 15 Aug 2026 18:22:55 +0800",
-     "summary": "上证报中国证券网讯（记者陈梦娜）8月15日上午，海杰 航运 “迪拜塔”号在宁波舟山港穿山港区集装箱码头开始装箱作业，意味着宁波舟山港中欧北极集装箱航线（以下简称“中欧北极快航”）继去年成功首航后，今年正式迈入夏季通航季周班运营新阶段，为中欧贸易开辟一条快捷高效、绿色低碳、韧性强劲的北向 物流 大通道。 2025年9月22日，宁波舟山港-弗利克斯托港“中欧北极快航”完成首次试航。船舶全程穿越北极东北航道，单程航行20天抵达英国 港口 ，完整验证了航道通行、 新能源 危货运输、海外 港口 对接全流程可行性。在此基础上，通过近一年时间的运营标准、船队配置、口岸配套持续完善，中欧北极快航季节性周班产品",
+     "title": "参投“龙餐馆”之外，北京文化的半年报里还藏着几张牌？",
+     "link": "http://finance.eastmoney.com/news/1354,202608153842438312.html",
+     "pubDate": "Sat, 15 Aug 2026 19:05:15 +0800",
+     "summary": "8月14日， 北京文化 （000802.SZ）披露了2026年半年度报告。这份财报受到关注，多少和公司参投的电影《欢迎来龙餐馆》有关。 《欢迎来龙餐馆》由文牧野执导、沈腾主演，8月11日公映，点映阶段就打破了近三年的评分纪录，上映表现不俗。市场很快把这份热度折算成了股价，8月10日到12日， 北京文化 的股价连续三个交易日一字涨停，累计涨幅约33%，公司市值重新站上40亿元。 不过 北京文化 在异动公告里已经说明，自己只是这部电影多家联合出品方之一，参投比例较低，预计不会对2026年度业绩产生重大影响。 半年报覆盖的是1月到6月的经营情况，和8月这轮涨停潮没有直接关系。但它提供了一个更冷静的观",
      "source": "东方财富股票",
-     "zh": "中欧北极快航从宁波舟山港开启周班常态化运营"
+     "zh": "参投“龙餐馆”之外，北京文化的半年报里还藏着几张牌？"
+    },
+    {
+     "title": "Remember MySpace? The social media pioneer eyes a comeback for the ages",
+     "link": "https://seekingalpha.com/news/4631515-remember-myspace-the-social-media-pioneer-eyes-a-comeback-for-the-ages?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 15 Aug 2026 07:00:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "还记得我的空间吗？这位社交媒体先驱希望卷土重来"
+    },
+    {
+     "title": "Iran rebuffs Trump&apos;s claim over Strait of Hormuz amid report of another ship being struck",
+     "link": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
+     "pubDate": "Sat, 15 Aug 2026 11:00:36 GMT",
+     "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
+     "source": "CNBC",
+     "zh": "伊朗拒绝特朗普对霍尔木兹海峡的主权主张，因有报道称另一艘船被击中"
+    },
+    {
+     "title": "The ‘Hindenburg Omen’ keeps flashing. Should investors worry about a stock-market crash?",
+     "link": "https://www.marketwatch.com/story/the-hindenburg-omen-keeps-flashing-should-investors-worry-about-a-stock-market-crash-a4baf770?mod=mw_rss_topstories",
+     "pubDate": "Sat, 15 Aug 2026 11:00:00 GMT",
+     "summary": "Among the more popular indicators monitored by Wall Street’s technical strategists, the “Hindenburg Omen” definitely has the coolest name — and is among the more controversial.",
+     "source": "MarketWatch",
+     "zh": "‘兴登堡预兆’不断闪烁。投资者应该担心股市崩盘吗？"
+    },
+    {
+     "title": "2026年8月电影票房已超30亿元",
+     "link": "http://www.eeo.com.cn/2026/0815/999745.shtml",
+     "pubDate": "Sat, 15 Aug 2026 18:52:08 +0800",
+     "summary": "据猫眼专业版数据，截至8月15日17时，2026年8月电影总票房已破30亿元，《蜘蛛侠：崭新之日》《欢迎来龙餐馆》《八仙！》分列8月票房榜前三位。",
+     "source": "经济观察网",
+     "zh": "2026年8月电影票房已超30亿元"
     },
     {
      "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
@@ -2354,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "天天315｜饮料“早产”闹乌龙  别让消费者为品牌失职买单"
     },
     {
-     "title": "投资人质疑产品业绩分化，但斌发文回应四大焦点",
-     "link": "http://www.eeo.com.cn/2026/0815/999512.shtml",
-     "pubDate": "Sat, 15 Aug 2026 16:13:10 +0800",
-     "summary": "8月10日，有持有人在雪球平台公开质疑但斌旗下国内私募产品操作，认为其言行不一。 持有人的核心质疑和不满有四点。 第一，产品净值反差。其表示，长江东方港湾2号7月的回撤超35%，8月首周仅反弹7%，怀疑该基金在底部“割肉”部分AI筹码。 第二，业绩观感割裂。该投资人对宣传中称但斌旗下产品在三年期百亿私募中排名靠前的说法表示不满，因为2021年4月至今，部分只能投国内市场的基金仍在亏损，而这部分...",
-     "source": "经济观察网",
-     "zh": "投资人质疑产品业绩分化，但斌发文回应四大焦点"
-    },
-    {
      "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
      "link": "https://wallstreetcn.com/articles/3779510",
      "pubDate": "Sat, 15 Aug 2026 16:08:00 +0800",
@@ -2378,12 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式"
     },
     {
-     "title": "Russia&apos;s economy has defied the skeptics. Cracks are getting harder to hide",
-     "link": "https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html",
-     "pubDate": "Sat, 15 Aug 2026 05:00:01 GMT",
-     "summary": "Russia's wartime economy is under growing strain as its budget deficit widens and analysts warn pressure could intensify next year.",
+     "title": "Beijing is said to move to clarify tax rules stoking confusion among China&apos;s ultra-wealthy",
+     "link": "https://www.cnbc.com/2026/08/15/china-rich-tycoons-tax-overseas-investment-trust-insurance-capital-flows.html",
+     "pubDate": "Sat, 15 Aug 2026 06:11:11 GMT",
+     "summary": "Beijing is said to be moving to clarify ambiguities in new tax rules on offshore trusts after the policy sowed confusion among wealthy Chinese and advisors.",
      "source": "CNBC",
-     "zh": "俄罗斯经济没有辜负怀疑者的质疑。裂缝越来越难隐藏"
+     "zh": "据称，北京将采取行动澄清税收规则，引发中国超级富豪的困惑"
     },
     {
      "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
@@ -2472,30 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Solana 公司预计将在 2026 年第三季度获得首笔与验证者相关的奖励，因为 50 万 SOL 股份承诺将支持东京集群"
-    },
-    {
-     "title": "Sidus outlines early 2027 Fortis VPX commercial availability, backed by $158.5M Q2 capital raises",
-     "link": "https://seekingalpha.com/news/4633574-sidus-outlines-early-2027-fortis-vpx-commercial-availability-backed-by-158_5m-q2-capital?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 14 Aug 2026 21:27:36 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sidus 概述了 2027 年初 Fortis VPX 的商业可用性，并得到第二季度 1.585 亿美元融资的支持"
-    },
-    {
-     "title": "CSPi outlines 6-year 7-figure managed services deal as AZT PROTECT targets multiple 6-figure OEM wins over next 6 months",
-     "link": "https://seekingalpha.com/news/4633573-cspi-outlines-6-year-7-figure-managed-services-deal-as-azt-protect-targets-multiple-6-figure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 14 Aug 2026 19:47:50 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CSPi 概述了为期 6 年、价值 7 位数的托管服务交易，AZT PROTECT 的目标是在未来 6 个月内赢得多个 6 位数的 OEM 订单"
-    },
-    {
-     "title": "TOMI reaffirms at least $12M full-year 2026 revenue guidance as Carbonium Core merger targets $10M minimum financing",
-     "link": "https://seekingalpha.com/news/4633572-tomi-reaffirms-at-least-12m-full-year-2026-revenue-guidance-as-carbonium-core-merger-targets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 14 Aug 2026 19:47:48 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TOMI 重申 2026 年全年收入指引至少为 1200 万美元，Carbonium Core 合并目标为最低融资 1000 万美元"
     }
    ]
   },
@@ -2505,6 +2505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+     "link": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
+     "pubDate": "Sat, 15 Aug 2026 06:55:39 EDT",
+     "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery help",
+     "source": "ScienceDaily",
+     "zh": "科学家解开了大脑“开关”的谜团，该开关可以以相反的方式引发减肥"
+    },
     {
      "title": "'A fine line between reducing stigma and trivialising conditions': Social media, self-diagnosis and the glamorization of ADHD",
      "link": "https://www.livescience.com/health/a-fine-line-between-reducing-stigma-and-trivialising-conditions-social-media-self-diagnosis-and-the-glamorization-of-adhd",
@@ -2608,14 +2616,6 @@ window.INDUSTRY_DATA = {
      "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing micr",
      "source": "ScienceDaily",
      "zh": "世界上第一个超导量子热机可以帮助解锁大规模量子计算机"
-    },
-    {
-     "title": "Taking the stairs could protect your heart and help you live longer",
-     "link": "https://www.sciencedaily.com/releases/2026/08/260814011029.htm",
-     "pubDate": "Fri, 14 Aug 2026 08:35:37 EDT",
-     "summary": "Simply choosing the stairs could have surprisingly big benefits for your heart and longevity. A large analysis involving more than 480,000 people found that regular stair climbers were 39% less likely to die from cardiovascular disease and 24% less likely to die from any cause than people who rarely",
-     "source": "ScienceDaily",
-     "zh": "走楼梯可以保护你的心脏并帮助你延长寿命"
     },
     {
      "title": "'The lance head was still inside the pelvis': Mass grave found in Austria may hold casualties of unknown ancient Roman battle",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/17 02:28:54",
+ "generated_at": "2026/8/17 02:57:48",
  "recent_days": 7,
  "industries": [
   {
@@ -351,7 +351,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 14 Aug 2026 15:00:13 +0000",
      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transistors while enabling strong gate control. Silicon transistors are approaching physical limits that make ea",
      "source": "SemiWiki",
-     "zh": "台积电的 0.42 纳米突破可能推动晶体管超越硅"
+     "zh": "台积电的 0.42 纳米突破可以推动晶体管超越硅"
     },
     {
      "title": "Google joins OpenROAD EDA initiative",
@@ -687,7 +687,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 16 Aug 2026 14:33:05 +0000",
      "summary": "The Freelander 8 opened for pre-sales in China on August 14, with a starting price of 339,900 yuan ($50,080). For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "奇瑞捷豹路虎神行者8上市48小时内预订量突破1万辆"
+     "zh": "奇瑞捷豹路虎神行者8上市48小时预订量突破1万辆"
     },
     {
      "title": "350-ton Longking ZL230E is the biggest, baddest battery mining rig you can buy",
@@ -839,7 +839,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 12 Aug 2026 17:15:41 +0000",
      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
      "source": "TechCrunch Transport",
-     "zh": "据报道 Uber Freight 在黑客组织声称数据泄露后正在进行调查"
+     "zh": "据报道，Uber Freight 在黑客组织声称数据泄露后正在进行调查"
     }
    ]
   },
@@ -935,7 +935,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 15 Aug 2026 12:00:00 -0500",
      "summary": "Following a year of tighter sanctions and Ukrainian attacks on refineries, ports and tankers, Russia’s crude output has fallen further in the second half of 2026, severely affecting the nation’s crude production outlook. Factoring in these disruptions, Rystad Energy has revised its Russian crude pro",
      "source": "OilPrice",
-     "zh": "俄罗斯石油工业已经没有空间来承受更多冲击"
+     "zh": "俄罗斯石油工业已经没有足够的空间来吸收更多的冲击"
     },
     {
      "title": "Community-Led Climate Resilience With The Solution Project Help People To Thrive",
@@ -1047,7 +1047,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 14 Aug 2026 11:11:36 +0000",
      "summary": "T1 Energy reported US$250.1 million in Q2 2026 sales as construction of its 2.1GW G2_Austin solar cell factory progressed.",
      "source": "PV Tech",
-     "zh": "T1 Energy 公布第二季度销售额为 2.5 亿美元"
+     "zh": "T1 Energy 报告第二季度销售额达 2.5 亿美元"
     },
     {
      "title": "KIT develops hybrid solar system with radiative cooling",
@@ -1375,7 +1375,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 15 Aug 2026 23:51:27 +0000",
      "summary": "The batch of eight Globalstar satellites will help refresh the company’s low Earth orbit constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 9:12 p.m. EDT (0112 UTC).",
      "source": "Spaceflight Now",
-     "zh": "SpaceX 为美国太空军 Globalstar 连续发射猎鹰 9 号火箭，创下纪录"
+     "zh": "SpaceX 为美国太空部队 Globalstar 连续发射破纪录的猎鹰 9 号火箭"
     },
     {
      "title": "Lunar orbiter among upcoming NASA CLPS task orders",
@@ -1623,7 +1623,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 14 Aug 2026 14:00:00 GMT",
      "summary": "Why do so many boards underestimate technology risk until it becomes a crisis?",
      "source": "Dark Reading",
-     "zh": "董事会需要了解哪些有关技术风险的信息"
+     "zh": "董事会需要了解哪些关于技术风险的信息"
     },
     {
      "title": "Cyera's Oasis Security Buy Is All About AI Agent Control",
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "I've built a free, open-source local and remote memory system for agentw and CL",
+     "link": "https://www.lorekit.io/blog/give-your-agent-a-memory",
+     "pubDate": "Sun, 16 Aug 2026 18:03:09 +0000",
+     "summary": "Article URL: https://www.lorekit.io/blog/give-your-agent-a-memory Comments URL: https://news.ycombinator.com/item?id=49322206 Points: 5 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "我为 agentw 和 CL 构建了一个免费、开源的本地和远程内存系统"
+    },
+    {
      "title": "牛来魔幻经济学：563万票房的烂片，带飞了1640万美金的Meme币",
      "link": "https://www.huxiu.com/article/4883520.html?f=rss",
      "pubDate": "Mon, 17 Aug 2026 01:33:22 +0800",
@@ -1778,18 +1786,10 @@ window.INDUSTRY_DATA = {
      "zh": "患者、家庭、医生和护士越来越多地转向人工智能工具，例如 Face2Gene，以帮助识别罕见和难以诊断的疾病（Alex Janin/华尔街日报）"
     },
     {
-     "title": "Ordinary WiFi can now identify you with near-perfect accuracy",
-     "link": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm",
-     "pubDate": "Sun, 16 Aug 2026 17:10:04 +0000",
-     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/08/260811052857.htm Comments URL: https://news.ycombinator.com/item?id=49321783 Points: 19 # Comments: 30",
-     "source": "Hacker News",
-     "zh": "普通 WiFi 现在可以近乎完美的准确度识别您"
-    },
-    {
      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
      "link": "https://rvembedded.com/blog_post/12/",
      "pubDate": "Sun, 16 Aug 2026 17:01:07 +0000",
-     "summary": "Article URL: https://rvembedded.com/blog_post/12/ Comments URL: https://news.ycombinator.com/item?id=49321717 Points: 33 # Comments: 15",
+     "summary": "Article URL: https://rvembedded.com/blog_post/12/ Comments URL: https://news.ycombinator.com/item?id=49321717 Points: 76 # Comments: 23",
      "source": "Hacker News",
      "zh": "第三世界嵌入式工程师回应“他们应该更了解 RISC-V”"
     },
@@ -1805,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "NIH is ending a key grant for budding clinical researchers",
      "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
      "pubDate": "Sun, 16 Aug 2026 16:14:55 +0000",
-     "summary": "Article URL: https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers Comments URL: https://news.ycombinator.com/item?id=49321353 Points: 43 # Comments: 10",
+     "summary": "Article URL: https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers Comments URL: https://news.ycombinator.com/item?id=49321353 Points: 61 # Comments: 18",
      "source": "Hacker News",
      "zh": "美国国立卫生研究院 (NIH) 即将结束对崭露头角的临床研究人员的一项重要资助"
     },
@@ -1869,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "The weekend is 100 years old",
      "link": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
      "pubDate": "Sun, 16 Aug 2026 15:30:15 +0000",
-     "summary": "Article URL: https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it Comments URL: https://news.ycombinator.com/item?id=49320984 Points: 85 # Comments: 48",
+     "summary": "Article URL: https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it Comments URL: https://news.ycombinator.com/item?id=49320984 Points: 100 # Comments: 59",
      "source": "Hacker News",
      "zh": "周末已有100年历史了"
     },
@@ -1901,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
      "link": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
      "pubDate": "Sun, 16 Aug 2026 15:16:06 +0000",
-     "summary": "Article URL: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core Comments URL: https://news.ycombinator.com/item?id=49320856 Points: 82 # Comments: 49",
+     "summary": "Article URL: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core Comments URL: https://news.ycombinator.com/item?id=49320856 Points: 94 # Comments: 55",
      "source": "Hacker News",
      "zh": "圣露西核反应堆1号机组手动关闭，3根控制棒落入堆芯"
     },
@@ -1909,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "GPS and the Lost Art of Getting Lost",
      "link": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
      "pubDate": "Sun, 16 Aug 2026 14:53:14 +0000",
-     "summary": "Article URL: https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost Comments URL: https://news.ycombinator.com/item?id=49320673 Points: 35 # Comments: 22",
+     "summary": "Article URL: https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost Comments URL: https://news.ycombinator.com/item?id=49320673 Points: 44 # Comments: 29",
      "source": "Hacker News",
      "zh": "GPS 和失落的迷路艺术"
     },
@@ -2010,6 +2010,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Here's why retro games look better on old CRT TVs",
+     "link": "https://www.engadget.com/2236809/why-retro-games-look-better-old-crt-tv/",
+     "pubDate": "Sun, 16 Aug 2026 18:30:00 +0000",
+     "summary": "A Super Nintendo or PlayStation looked better on retro TVs than today's ultra-sharp displays, but why is there such a difference?",
+     "source": "Engadget",
+     "zh": "这就是为什么复古游戏在旧 CRT 电视上看起来更好的原因"
+    },
+    {
      "title": "You might want to skip Newegg's GPU trade-in program",
      "link": "https://www.engadget.com/2236808/might-want-to-skip-newegg-gpu-trade-in-program-reasons/",
      "pubDate": "Sun, 16 Aug 2026 18:00:00 +0000",
@@ -2064,14 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "It could be wise to wait, or settle for a cheaper model.",
      "source": "Engadget",
      "zh": "涨价后MacBook Pro M5还值得买吗？"
-    },
-    {
-     "title": "Nintendo GameCube discs were small for a reason",
-     "link": "https://www.engadget.com/2234243/nintendo-gamecube-small-discs-reason/",
-     "pubDate": "Sun, 16 Aug 2026 13:30:00 +0000",
-     "summary": "The format remains unique in console history.",
-     "source": "Engadget",
-     "zh": "任天堂 GameCube 光盘很小是有原因的"
     },
     {
      "title": "Pixel 11 Pro’s ‘HiLight’ is another half-baked feature burdened by bad first impressions",
@@ -2258,6 +2258,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "美国中央司令部指挥官布拉德·库珀：林肯号目前是（士兵）心理健康相关问题最少的一艘",
+     "link": "http://finance.eastmoney.com/news/1351,202608173842582567.html",
+     "pubDate": "Mon, 17 Aug 2026 02:36:44 +0800",
+     "summary": "美国中央司令部指挥官布拉德·库珀：在美国海军11艘现役航母中，亚伯拉罕·林肯号目前是（士兵）心理健康相关问题最少的一艘。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国中央司令部指挥官布拉德·库珀：林肯号目前是（士兵）心理健康相关问题最少的一艘"
+    },
+    {
+     "title": "Société Générale sees more room for KOSPI recovery despite rebuilding leverage",
+     "link": "https://seekingalpha.com/news/4633610-societe-generale-sees-more-room-for-kospi-recovery-despite-rebuilding-leverage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 16 Aug 2026 14:29:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "尽管重建杠杆，法国兴业银行仍认为 KOSPI 复苏空间更大"
+    },
+    {
+     "title": "库什纳在开罗会晤哈马斯领导层，强调解除武装为先决条件",
+     "link": "http://finance.eastmoney.com/news/1351,202608173842582467.html",
+     "pubDate": "Mon, 17 Aug 2026 02:29:47 +0800",
+     "summary": "据巴勒斯坦消息人士透露，特朗普特使库什纳与哈马斯领导层在开罗进行了逾两小时的会晤。库什纳向哈马斯明确传达，解除武装是融入未来政治进程的关键前提；同时，美方坚决反对驱逐加沙居民，并建议哈马斯不要寄望于以色列选举结果。哈马斯方面则向库什纳详细通报了以色列违反停火协议的情况，并强调反对任何未获以色列事先同意的新举措。当前谈判的核心死结仍在于行动顺序：哈马斯要求以色列先撤军，而以色列坚持哈马斯必须先全面缴械。库什纳此行旨在推动落实加沙和平计划，试图弥合各方分歧。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "库什纳在开罗会晤哈马斯领导层，强调解除武装为先决条件"
+    },
+    {
+     "title": "AI语料短缺瓶颈凸显 数据基建新机遇有望释放",
+     "link": "http://finance.eastmoney.com/news/1348,202608173842580633.html",
+     "pubDate": "Mon, 17 Aug 2026 02:25:18 +0800",
+     "summary": "AI发展的又一个关键瓶颈浮出水面——高质量、高可信度的数据，正成为AI竞争的胜负手。这也为 出版 、新闻等传统内容服务商向 AI语料 供应商转型创造了机遇，相关企业的商业价值有望迎来重估。 科技公司加码内容资源布局 近日，A股 AI语料 板块走强， 读客文化 、 中信出版 、 利欧股份 、 中国出版 、 海天瑞声 等股价显著上涨。 有消息称， 苹果 正与多家 出版 商洽谈新的合作协议，希望使用它们的内容来提供最新的新闻和信息，这是 苹果 升级AI驱动版Siri语音助手计划的重要一部分。 苹果 还计划采用灵活付费模式，当合作 出版 商的内容被Siri用户使用时，再支付相应的版权费用。 据悉，苹果",
+     "source": "东方财富股票",
+     "zh": "AI语料短缺瓶颈凸显 数据基建新机遇有望释放"
+    },
+    {
+     "title": "据半岛电视台：巴勒斯坦消息人士表示，库什纳建议哈马斯领导层不要指望以色列大选的结果",
+     "link": "http://finance.eastmoney.com/news/1351,202608173842582677.html",
+     "pubDate": "Mon, 17 Aug 2026 02:21:59 +0800",
+     "summary": "据半岛电视台：巴勒斯坦消息人士表示，库什纳建议哈马斯领导层不要指望以色列大选的结果。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "据半岛电视台：巴勒斯坦消息人士表示，库什纳建议哈马斯领导层不要指望以色列大选的结果"
+    },
+    {
      "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
      "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
      "pubDate": "Sun, 16 Aug 2026 18:15:00 GMT",
@@ -2266,52 +2306,20 @@ window.INDUSTRY_DATA = {
      "zh": "我现在可以领取我丈夫社会保障金的 50%，并在 70 岁时转到更高的福利金吗？"
     },
     {
-     "title": "AI语料短缺瓶颈凸显 数据基建新机遇有望释放",
-     "link": "http://finance.eastmoney.com/news/1348,202608173842580633.html",
-     "pubDate": "Mon, 17 Aug 2026 02:13:55 +0800",
-     "summary": "AI发展的又一个关键瓶颈浮出水面——高质量、高可信度的数据，正成为AI竞争的胜负手。这也为 出版 、新闻等传统内容服务商向 AI语料 供应商转型创造了机遇，相关企业的商业价值有望迎来重估。 科技公司加码内容资源布局 近日，A股 AI语料 板块走强， 读客文化 、 中信出版 、 利欧股份 、 中国出版 、 海天瑞声 等股价显著上涨。 有消息称， 苹果 正与多家 出版 商洽谈新的合作协议，希望使用它们的内容来提供最新的新闻和信息，这是 苹果 升级AI驱动版Siri语音助手计划的重要一部分。 苹果 还计划采用灵活付费模式，当合作 出版 商的内容被Siri用户使用时，再支付相应的版权费用。 据悉，苹果",
+     "title": "A股科技修复行情延续机构：结构性轮动或成主旋律",
+     "link": "http://stock.eastmoney.com/news/11791,202608173842581412.html",
+     "pubDate": "Mon, 17 Aug 2026 02:14:22 +0800",
+     "summary": "■机构展望 A股科技修复行情延续机构：结构性轮动或成主旋律 8月以来，A股科技主线轮动修复，人形 机器人 、 脑机接口 、CPO、光纤光缆等多个细分赛道均有所表现。对于科技主线的后市演绎，券商策略展望报告认为，AI产业链基本面具备确定性，科技板块的修复趋势并未终结。但板块上涨仍受制于资金面压力及AI产业叙事能否出现重大变革，后续科技行情或将由普涨转向结构性机会。 科技修复行情尚未结束 对于近期科技主线的回暖，机构普遍认为，AI产业链基本面具备确定性，经历前期深度调整后，科技板块的修复趋势并未终结。 中信建投 证券表示，7月底全球科技股去杠杆基本结束，市场重新由资金面主导转向基本面定价。历史经验",
      "source": "东方财富股票",
-     "zh": "AI语料短缺瓶颈凸显 数据基建新机遇有望释放"
+     "zh": "A股科技修复行情延续机构：结构性轮动或成主旋律"
     },
     {
-     "title": "期待AI应用落地的兑现时刻",
-     "link": "http://finance.eastmoney.com/news/1354,202608173842580364.html",
-     "pubDate": "Mon, 17 Aug 2026 02:13:43 +0800",
-     "summary": "■长城基金“科技+”投资视点 期待 AI应用 落地的兑现时刻 ◎长城基金国际业务部副总经理、基金经理曲少杰 当前，AI产业叙事仍在延续，资金沿产业链上中下游滚动切换， AI应用 板块迎来一波修复行情。我们认为， AI应用 正迎来关键转折点，中长期投资价值逐步清晰。 短期来看，三重因素共同催化了本轮行情。 业绩层面，北美主要云厂商二季度财报超出预期，很大程度上对冲了此前市场对AI“烧钱难兑现”的担忧。而且，客户结构正在从头部大模型公司向普通企业客户扩散，办公场景的AI需求增加，付费用户数快速扩大，表明AI向应用端的传导和渗透正在提速。 技术层面，近期国产大模型纷纷升级，DeepSeek V4 F",
+     "title": "杠杆出清行情或近尾声 全球科技股再迎资金流入",
+     "link": "http://global.eastmoney.com/news/11798,202608173842581219.html",
+     "pubDate": "Mon, 17 Aug 2026 02:14:01 +0800",
+     "summary": "杠杆出清行情或近尾声 全球科技股再迎资金流入 ◎记者王彭 今年7月，全球AI赛道迎来一轮杠杆出清行情，AI主题大抛售席卷美股、韩股等核心市场。本轮出清行情最具标志性的事件，便是曾享誉市场的“AI股神”利奥波德·阿申布伦纳创立的高杠杆AI对冲基金轰然爆仓。 经过一轮暴力去杠杆、仓位清算与保证金补仓潮，当前全球市场杠杆出清已接近尾声，海外机构预判市场资金流向即将逆转，新一轮系统性加仓窗口有望开启。同时，业内人士也提醒，杠杆放大波动、收割市场的风险并未消失，后续仍须警惕杠杆交易卷土重来引发的行情震荡。 全球“去杠杆”或接近尾声 今年7月，全球科技股遭遇重挫，费城 半导体 指数和韩国 综合 指数双双跌",
      "source": "东方财富股票",
-     "zh": "期待AI应用落地的兑现时刻"
-    },
-    {
-     "title": "海内外业务共振 电力设备产业景气度提升",
-     "link": "http://finance.eastmoney.com/news/1348,202608173842580739.html",
-     "pubDate": "Mon, 17 Aug 2026 02:13:31 +0800",
-     "summary": "海内外业务共振 电力 设备产业景气度提升 ◎记者王文嫣 上半年，我国 电力 设备产业迎来国内 特高压 提速与海外电网升级“双轮驱动”景气周期。根据相关公司已披露的半年报和上半年业绩预告， 电力 设备企业出海呈现“量价齐升”格局，一次设备企业业绩弹性尤为突出，海外高毛利正成为产业盈利提升的核心引擎。与此同时，国内电网投资大幅加码也给 电力设备 企业带来大单和业绩支撑。 海外业务高毛利打开盈利天花板 一次设备出海量价齐升 电力设备 企业出海的看点不仅在于收入端的增速，也在于其较高的毛利率水平。这一特征在一次设备领域尤为突出，直接打开企业的盈利天花板。 神马电力 是海外业务高毛利的典型代表。公司半年",
-     "source": "东方财富股票",
-     "zh": "海内外业务共振 电力设备产业景气度提升"
-    },
-    {
-     "title": "旺季临近叠加供给收缩 钨价有望企稳回升",
-     "link": "http://finance.eastmoney.com/news/1348,202608173842580571.html",
-     "pubDate": "Mon, 17 Aug 2026 02:13:22 +0800",
-     "summary": "旺季临近叠加供给收缩 钨 价有望企稳回升 ◎记者王凯丰 在经历了上半年“过山车”式的剧烈波动后， 钨 价在三季度进入横盘整理阶段。“中 钨 在线”数据显示，近期黑钨精矿（65%）报价维持在41.5万元/标吨左右，仲钨酸铵（APT）价格在61万元/吨窄幅波动，较年内高点已大幅回落，但仍处于历史相对高位。 “目前在行业内，大家普遍觉得价格应该企稳了。”一家上市钨企相关人士向上海证券报记者表示。多家机构研报认为，钨供给持续面临多重紧约束。随着AI PCB 、六氟化钨等新兴需求持续向上，叠加9月至10月传统消费旺季的临近，钨价有望企稳回升。 钨价横盘上下游博弈加剧 8月至今，国内钨市场延续了7月以来的",
-     "source": "东方财富股票",
-     "zh": "旺季临近叠加供给收缩 钨价有望企稳回升"
-    },
-    {
-     "title": "基金经理探讨AI“软硬件再平衡”",
-     "link": "http://finance.eastmoney.com/news/1348,202608173842580293.html",
-     "pubDate": "Mon, 17 Aug 2026 02:13:10 +0800",
-     "summary": "当前，市场风格开启了新一轮的“温和再平衡”。基金经理对存储、算力、硬件等前期热门方向的看法存在一定分歧，而 AI应用 的热度逐步提升。对于应用端走强，基金经理倾向于将其理解为AI主线内部的资金再平衡，而不是资金流出AI。此外，材料、电源、液冷等细分赛道也得到越来越多专业投资人的重视。 共识与分歧 尽管8月以来科技股有所反弹，但基金经理的“科技信仰”依然面临严峻考验。 “当前，医药、有色、科技等板块轮番演绎，部分前期超跌的板块反弹弹性更大。科技板块前期调整幅度较大，内部反弹已出现明显分化。本轮反弹大方向有望延续，但不会一蹴而就。”南方 数字经济 混合基金经理王博表示。 AI的基本面是否发生变化？",
-     "source": "东方财富股票",
-     "zh": "基金经理探讨AI“软硬件再平衡”"
-    },
-    {
-     "title": "AI集群规模进一步扩张 光通信产业链企业在手订单饱满",
-     "link": "http://finance.eastmoney.com/news/1354,202608173842580078.html",
-     "pubDate": "Mon, 17 Aug 2026 02:12:57 +0800",
-     "summary": "AI集群规模进一步扩张 光 通信 产业链企业在手订单饱满 近日，海内外多家光 通信 产业链公司透露在手订单充裕，且订单能见度不断拉长，部分企业订单已排产至2027年，甚至2028年。从国内光模块、光器件厂商到海外光 通信 龙头，光通信行业迎来产能紧俏、客户持续锁定产能的阶段。从驱动因素来看，下游云厂商持续上调资本开支指引，加码 人工智能 数据中心 与算力集群建设，成为拉动高速光通信需求的核心动因。 炬光科技 在日前举办的业绩说明会上透露，公司NPO/CPO相关微光学产品及 高通 道V型槽产品上半年新增多家客户，部分完成批量验证，在手订单持续增加，并与一家重要客户签订技术许可协议且已开始执行。 ",
-     "source": "东方财富股票",
-     "zh": "AI集群规模进一步扩张 光通信产业链企业在手订单饱满"
+     "zh": "杠杆出清行情或近尾声 全球科技股再迎资金流入"
     },
     {
      "title": "States rethink AI data-center incentives as power costs, public backlash grow",
@@ -2432,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "随着北美需求的下降，Under Armour 的扭亏为盈遭遇困境"
-    },
-    {
-     "title": "Calm markets mask risk of sudden S&P 500 swings",
-     "link": "https://seekingalpha.com/news/4633605-calm-markets-mask-risk-of-sudden-s-and-p-500-swings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 16 Aug 2026 12:01:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "平静的市场掩盖了标准普尔 500 指数突然波动的风险"
     },
     {
      "title": "Bending Spoons Beats on Earnings in Its Public Market Debut Quarter. Investors Focus on the Fine Print Instead",

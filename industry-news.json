@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/17 05:45:23",
+ "generated_at": "2026/8/17 06:21:00",
  "recent_days": 7,
  "industries": [
   {
@@ -137,6 +137,14 @@
      "zh": "SpaceX 正式完成 Cursor 收购"
     },
     {
+     "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
+     "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
+     "pubDate": "Sat, 15 Aug 2026 11:28:29 +0000",
+     "summary": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ",
+     "source": "MarkTechPost",
+     "zh": "微调工具调用 LLM：使用 XYZ-Aquila-SFT 和 Qwen3 的完整指南"
+    },
+    {
      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
      "link": "https://www.qbitai.com/2026/08/473876.html",
      "pubDate": "Sat, 15 Aug 2026 06:42:23 +0000",
@@ -239,14 +247,6 @@
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜心缘 智东西8月14日报道，刚刚，在百度AI Day开放日上，百度文库网盘联合 官宣通用智能体GenFlow的中文名——库库AI ，并推出了该智能体的全新独立入口，与百度系列办公产品完成了深度融合。 库库AI（原GenFlow）自2025年4月上线以来，经过不断迭代，已然在文库、网盘等产品中全端通用，可一站式完成 Office三件套 等复杂办公任务，以及 AI视频、AI海报等跨模态文件生成 。 官方数据显示，截至目前， 库库AI的AI办公业务月活已突破2500万 ，百度文库此前还在国家工信安全中心Office Agent测评中",
      "source": "智东西",
      "zh": "刚刚！百度甩出AI办公大招，库库AI双端上线，月活超2500万"
-    },
-    {
-     "title": "OpenAI被曝ARR破2000亿，官宣新任首席营收官",
-     "link": "https://zhidx.com/p/585093.html",
-     "pubDate": "Fri, 14 Aug 2026 18:30:12 +0800",
-     "summary": "智东西 编译 | 茄子 编辑 | 程茜 智东西8月14日消息，今天，外媒彭博社援引知情人士报道，按照当前经营表现推算，OpenAI年化营收已超过400亿美元（约合人民币2708亿元），较2025年末的200多亿美元近乎翻倍。同日，OpenAI宣布任命谷歌旗下网络安全公司Wiz原总裁兼首席运营官达利·拉吉奇（Dali Rajic）为首席营收官，负责管理OpenAI全球营收体系。 ▲OpenAI官宣新任首席营收官达利·拉吉奇（图源：OpenAI） OpenAI首席营收官一职设立不到一年便迎来换帅。2025年12月，时任Salesforce旗下企业协同办公工具Slack CEO的丹妮丝·德雷瑟（De",
-     "source": "智东西",
-     "zh": "OpenAI被曝ARR破2000亿，官宣新任首席营收官"
     }
    ]
   },
@@ -892,7 +892,7 @@
      "title": "Op-Ed: Hiroshi Okuda–The Man Who Saved Toyota by Forcing It to Change",
      "link": "https://cleantechnica.com/2026/08/16/op-ed-hiroshi-okuda-the-man-who-saved-toyota-by-forcing-it-to-change/",
      "pubDate": "Sun, 16 Aug 2026 09:56:43 +0000",
-     "summary": "THE automotive world lost a visionary on August 8. Hiroshi Okuda, the former chairman of Toyota Motor Corporation, who passed at 93, was the first outsider to break the Toyoda family’s grip on the company. But his true epitaph is this: he was the ruthless pragmatist who dragged a reluctant, ... [con",
+     "summary": "(Note: This article has been updated with photos of the Prius and the RAV-4 EV -The author) THE automotive world lost a visionary on August 8. Hiroshi Okuda, the former chairman of Toyota Motor Corporation, who passed at 93, was the first outsider to break the Toyoda family’s grip on ... [continued]",
      "source": "CleanTechnica",
      "zh": "专栏：奥田浩——通过迫使丰田改变来拯救丰田的人"
     },
@@ -1761,10 +1761,26 @@
    "total": 18,
    "items": [
     {
+     "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+     "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+     "pubDate": "Sun, 16 Aug 2026 21:53:43 +0000",
+     "summary": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing Comments URL: https://news.ycombinator.com/item?id=49324087 Points: 7 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲"
+    },
+    {
+     "title": "Claude Seems Down",
+     "link": "https://news.ycombinator.com/item?id=49324078",
+     "pubDate": "Sun, 16 Aug 2026 21:52:59 +0000",
+     "summary": "Throwing \"Authentication service was unavailable.\", no updates on their status page, but there are on downdetector Comments URL: https://news.ycombinator.com/item?id=49324078 Points: 17 # Comments: 8",
+     "source": "Hacker News",
+     "zh": "克劳德似乎情绪低落"
+    },
+    {
      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
      "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
      "pubDate": "Sun, 16 Aug 2026 21:07:10 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 21 # Comments: 2",
      "source": "Hacker News",
      "zh": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额"
     },
@@ -1780,7 +1796,7 @@
      "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
      "link": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
      "pubDate": "Sun, 16 Aug 2026 21:00:25 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/ Comments URL: https://news.ycombinator.com/item?id=49323620 Points: 8 # Comments: 2",
+     "summary": "Article URL: https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/ Comments URL: https://news.ycombinator.com/item?id=49323620 Points: 20 # Comments: 13",
      "source": "Hacker News",
      "zh": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测"
     },
@@ -1796,7 +1812,7 @@
      "title": "The Case Against Formal Verification, 50 Years Later",
      "link": "https://ivan-gavran.github.io/0-social-processes-paper",
      "pubDate": "Sun, 16 Aug 2026 20:38:58 +0000",
-     "summary": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper Comments URL: https://news.ycombinator.com/item?id=49323459 Points: 29 # Comments: 20",
+     "summary": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper Comments URL: https://news.ycombinator.com/item?id=49323459 Points: 46 # Comments: 33",
      "source": "Hacker News",
      "zh": "50 年后反对形式验证的案例"
     },
@@ -1804,7 +1820,7 @@
      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
      "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
      "pubDate": "Sun, 16 Aug 2026 20:31:16 +0000",
-     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 36 # Comments: 24",
+     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 61 # Comments: 45",
      "source": "Hacker News",
      "zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易"
     },
@@ -1815,22 +1831,6 @@
      "summary": "Bloomberg : Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May &nbsp; &mdash;&nbsp; Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies switch between artificial intell",
      "source": "Techmeme",
      "zh": "消息来源：Stripe 已敲定以超过 70 亿美元收购人工智能模型市场 OpenRouter 的交易； OpenRouter 5 月份估值为 $1.3B (彭博社)"
-    },
-    {
-     "title": "Models Are Getting Dumber on Purpose",
-     "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-     "pubDate": "Sun, 16 Aug 2026 19:04:26 +0000",
-     "summary": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 167 # Comments: 106",
-     "source": "Hacker News",
-     "zh": "模型故意变得更笨"
-    },
-    {
-     "title": "Protobuf has LSP support. You're welcome",
-     "link": "https://buf.build/blog/protobuf-lsp",
-     "pubDate": "Sun, 16 Aug 2026 18:48:27 +0000",
-     "summary": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 64 # Comments: 34",
-     "source": "Hacker News",
-     "zh": "Protobuf 有 LSP 支持。不客气"
     },
     {
      "title": "牛来魔幻经济学：563万票房的烂片，带飞了1640万美金的Meme币",
@@ -2257,6 +2257,94 @@
    "total": 13,
    "items": [
     {
+     "title": "北京君正：全球发售项下H股最高发售价为每股102.80港元",
+     "link": "http://finance.eastmoney.com/news/1351,202608173842591433.html",
+     "pubDate": "Mon, 17 Aug 2026 06:14:04 +0800",
+     "summary": "北京君正：全球发售项下H股最高发售价为每股102.80港元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "北京君正：全球发售项下H股最高发售价为每股102.80港元"
+    },
+    {
+     "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
+     "link": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+     "pubDate": "Sun, 16 Aug 2026 22:14:00 GMT",
+     "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
+     "source": "MarketWatch",
+     "zh": "随着投资者思考美联储下一步行动，美国股指期货几乎没有变化"
+    },
+    {
+     "title": "纳斯达克期货与原油同步小幅走高",
+     "link": "http://finance.eastmoney.com/news/1351,202608173842591055.html",
+     "pubDate": "Mon, 17 Aug 2026 06:08:44 +0800",
+     "summary": "纳斯达克 期货 与原油合约小幅上涨，投资者正等待华盛顿方面公布针对伊朗实施“经济封锁”计划的细节。美债 期货 走势平稳， 黄金 小幅下挫。美元兑日元汇率处于159关口，日本GDP数据即将公布。韩国股市休市。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "纳斯达克期货与原油同步小幅走高"
+    },
+    {
+     "title": "油价持稳，市场聚焦黎巴嫩局势与霍尔木兹海峡风险",
+     "link": "http://finance.eastmoney.com/news/1351,202608173842590940.html",
+     "pubDate": "Mon, 17 Aug 2026 06:08:30 +0800",
+     "summary": "受黎巴嫩新一轮冲突爆发、霍尔木兹海峡船只遇袭事件影响，结束美伊战争的协议前景不明，国际油价保持震荡持稳。布伦特原油小幅波动，低于89美元/桶；WTI原油约83美元/桶，上周两类原油均录得6%涨幅。美国对伊朗的战争现已进入第六个月，原油年内累计涨幅超40%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "油价持稳，市场聚焦黎巴嫩局势与霍尔木兹海峡风险"
+    },
+    {
+     "title": "宇树上市开启万亿赛道大考",
+     "link": "http://finance.eastmoney.com/news/1354,202608173842591320.html",
+     "pubDate": "Mon, 17 Aug 2026 06:07:02 +0800",
+     "summary": "近日，被称为A股“人形 机器人 第一股”的 宇树科技 “打新”结果出炉，0.018%的中签率创下科创板历史新低，成为科创板史上最难中签的新股。 这一现象级事件，不仅折射出资本市场对具身智能赛道的狂热，更标志着中国人形 机器人 产业正式迈入以盈利验成色的新阶段。但在万亿元级想象空间的背后，人形 机器人 行业仍面临诸多现实挑战。宇树的上市，既是行业发展里程碑，更是产业大考的开始。 宇树的长板显而易见。 硬件基础强悍。宇树 机器人 核心部组件自研自产率超90%，在电机、 减速器 、控制器等关键环节构建了坚实的技术壁垒，有效控制了产品成本并保障了交付稳定性。 商业思路明晰。 宇树科技 “用空间换时间”",
+     "source": "东方财富股票",
+     "zh": "宇树上市开启万亿赛道大考"
+    },
+    {
+     "title": "加大信贷投放、加速产品与服务创新—— 金融精准助力外贸稳增长",
+     "link": "http://finance.eastmoney.com/news/1350,202608173842591294.html",
+     "pubDate": "Mon, 17 Aug 2026 06:07:02 +0800",
+     "summary": "今年上半年，我国外贸保持良好运行态势。海关总署数据显示，上半年我国货物贸易进出口25.47万亿元，同比增长16.9%。亮眼的外贸成绩单背后，离不开精准有力的金融赋能。 当前，全球经济格局加速重构、地缘政治博弈加剧，外贸企业“出海”经营面临回款不确定、资金周转紧等挑战。为更好支持外贸高质量发展，各 银行 通过强化政策引导，加大信贷投放、加速产品与服务创新等举措，为外贸企业提供更加精准的金融支持。 在新疆乌苏市，一笔乌兹别克斯坦的采购单让新疆钵施然智能农机股份有限公司负责人一度犯难。“2025年，公司中标330台智能农机的采购大单，但交易涉及多方主体、协调难度大，加上外方付款能力不足、回款周期偏长",
+     "source": "东方财富股票",
+     "zh": "加大信贷投放、加速产品与服务创新—— 金融精准助力外贸稳增长"
+    },
+    {
+     "title": "由事后赔付向风险减量、养老服务等领域延伸—— 保险业拓展服务边界强保障",
+     "link": "http://finance.eastmoney.com/news/1354,202608173842591148.html",
+     "pubDate": "Mon, 17 Aug 2026 06:07:01 +0800",
+     "summary": "□ 随着人口老龄化进程加快、极端天气频发以及居民风险保障需求不断升级，保险业正不断拓展服务边界，由传统的事后赔付向风险减量、健康管理、养老服务等领域延伸，在经济社会发展中的作用进一步增强。 □ 保险机构发挥长期资金管理和风险管理优势，与医疗、康复、护理等资源协同发展，将成为未来 养老金 融的重要方向。 今年以来，我国保险市场延续平稳运行态势。数据显示，2026年上半年，原保险保费收入3.86万亿元，同比增长3.3%；赔款与给付支出1.40万亿元，同比增长3.8%。保费收入和赔付支出保持同步增长，反映出保险保障功能持续增强，也折射出保险业服务实体经济和保障民生能力不断提升。 日前，中国保险行业协",
+     "source": "东方财富股票",
+     "zh": "由事后赔付向风险减量、养老服务等领域延伸—— 保险业拓展服务边界强保障"
+    },
+    {
+     "title": "8月17日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/1344,202608173842573593.html",
+     "pubDate": "Mon, 17 Aug 2026 06:03:09 +0800",
+     "summary": "8月17日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 投资结构持续优化 新质生产力加速成长 高频数据传递经济平稳运行积极信号 7月国民经济运行情况即将发布，作为研判三季度及下半年经济走势的重要观测窗口，市场对7月经济表现高度关注。从多项高频数据与先行指标来看，线下消费、基建、先进制造等领域释放积极信号，经济总体保持平稳运行，但稳增长压力依然存在，宏观政策仍需加力提效，着力扩内需稳增长。 元立光电、鑫巨宏本周IPO上会 北交所光产业链“小巨人” 集群加速成型 北京证券交易所光产业链版图有望再添新军。北交所上市委会议公告显示，东莞市元立 光电股份 有限公司将于8月20日上会，无锡鑫巨宏",
+     "source": "东方财富资讯",
+     "zh": "8月17日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
+     "title": "Here are the major earnings before the open Monday",
+     "link": "https://seekingalpha.com/news/4633602-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 16 Aug 2026 18:00:38 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "以下是周一开盘前的主要财报"
+    },
+    {
+     "title": "Trump orders reduction in U.S.-South Korea military exercises",
+     "link": "https://seekingalpha.com/news/4633617-trump-orders-reduction-in-u-s-south-korea-military-exercises?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 16 Aug 2026 17:58:26 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "特朗普下令减少美韩军事演习"
+    },
+    {
+     "title": "Stripe is said to agree to buy OpenRouter for more than $7B",
+     "link": "https://seekingalpha.com/news/4633616-stripe-is-said-to-agree-to-buy-openrouter-for-more-than-7b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 16 Aug 2026 17:51:31 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "据说 Stripe 同意以超过 $7B 的价格收购 OpenRouter"
+    },
+    {
      "title": "Yalla Q2 Earnings Preview",
      "link": "https://seekingalpha.com/news/4633328-yalla-q2-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 16 Aug 2026 17:35:00 -0400",
@@ -2271,54 +2359,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Flexsteel 2026 年第四季度收益预览"
-    },
-    {
-     "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
-     "link": "http://finance.eastmoney.com/news/1351,202608173842588939.html",
-     "pubDate": "Mon, 17 Aug 2026 05:33:31 +0800",
-     "summary": "财联社8月17日电，美国总统特朗普在其社交媒体平台“真实社交”上发文，对沙特阿拉伯、土耳其和巴基斯坦近期签署共同防务协议表示欢迎。特朗普表示，这一协议表明中东地区正在加强团结，各国将能够以“更加切实有效的方式”保卫自身。他同时向沙特、土耳其和巴基斯坦三国领导人表示祝贺，并称这一协议是“大胆而重要的第一步”。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "特朗普：欢迎沙土巴三国签署共同防务协议"
-    },
-    {
-     "title": "周一（8月17日）重点关注财经事件和经济数据",
-     "link": "http://finance.eastmoney.com/news/1351,202608173842588855.html",
-     "pubDate": "Mon, 17 Aug 2026 05:30:36 +0800",
-     "summary": "① 15:00 国家统计局将公布7月工业增加值、固定资产投资、社零等经济数据以及70个大中城市商品住宅销售价格指数月度报告。 ② 20:30 加拿大7月CPI ③ 20:30 美国8月纽约联储制造业指数 ④ 22:00 美国8月NAHB房产市场指数 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "周一（8月17日）重点关注财经事件和经济数据"
-    },
-    {
-     "title": "融资大涨 IPO提速 商业航天企业竞逐行业第一股",
-     "link": "http://finance.eastmoney.com/news/1348,202608173842588771.html",
-     "pubDate": "Mon, 17 Aug 2026 05:27:44 +0800",
-     "summary": "&nbsp; 2026年上半年，中国 商业航天 市场热度维持在高位，融资逐步向头部企业集中。更多企业将IPO提上日程，“ 商业航天 第一股”的争夺进入新阶段。 对IPO进程较快的几家商业火箭企业而言，全力突破可回收复用技术，还是平衡商业和研发，是一个重要选择。在国家队已实现技术先行突破，行业普遍预期2026年民营火箭企业有望完成火箭回收的背景下，技术优势能否成为“ 商业航天 第一股”的决胜手，备受市场关注。 融资同比增长273% 2026年上半年，中国商业航天一级市场的融资体量出现明显跃升。 据投中嘉川CVSource数据，上半年商业航天领域已披露融资总额达127.9亿元、共79笔，较去年同期",
-     "source": "东方财富股票",
-     "zh": "融资大涨 IPO提速 商业航天企业竞逐行业第一股"
-    },
-    {
-     "title": "元立光电、鑫巨宏本周IPO上会 北交所光产业链“小巨人” 集群加速成型",
-     "link": "http://finance.eastmoney.com/news/1349,202608173842588613.html",
-     "pubDate": "Mon, 17 Aug 2026 05:25:44 +0800",
-     "summary": "北京证券交易所光产业链版图有望再添新军。北交所上市委会议公告显示，东莞市元立 光电股份 有限公司将于8月20日上会，无锡鑫巨宏智能科技股份有限公司则将于8月21日上会。两家国家级 专精特新 “小巨人”企业同期闯关，加上已挂牌上市的 蘅东光 、提交注册的宇特光电以及申报受理的云岭光电，折射出北交所对光产业链“小而精”企业的集聚效应正持续强化。 两家“小巨人”待上会 招股书显示，元立光电成立于2010年，自成立以来深耕光学领域，专注于导光板及Mini- LED 光学产品的研发、生产与销售，在全球车载显示、平板及笔记本电脑应用领域拥有较高市场占有率，已与 京东 方、国显科技、 翰博高新 、 联创光电",
-     "source": "东方财富股票",
-     "zh": "元立光电、鑫巨宏本周IPO上会 北交所光产业链“小巨人” 集群加速成型"
-    },
-    {
-     "title": "特朗普：我询问了韩国总统，他们是否愿意加入我们，共同推动解除伊朗的核武装，他的回答是不",
-     "link": "http://finance.eastmoney.com/news/1351,202608173842588415.html",
-     "pubDate": "Mon, 17 Aug 2026 05:24:35 +0800",
-     "summary": "特朗普：我询问了韩国总统，他们是否愿意加入我们，共同推动解除伊朗的核武装，他的回答是不。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：我询问了韩国总统，他们是否愿意加入我们，共同推动解除伊朗的核武装，他的回答是不"
-    },
-    {
-     "title": "碳定价机制持续完善 碳市场改革提速赋能产业转型",
-     "link": "http://finance.eastmoney.com/news/1348,202608173842588550.html",
-     "pubDate": "Mon, 17 Aug 2026 05:24:13 +0800",
-     "summary": "随着《上海市2026年度碳排放配额分配方案》印发、深圳开展2025年度碳排放配额首场有偿竞价发放工作，叠加生态环境部明确全国碳市场将扩容至石化、化工行业，我国碳市场制度建设进入加速落地阶段。从地方层面提高纳管门槛、探索有偿分配模式，到全国范围扩大行业覆盖、夯实核算监管基础，碳定价信号持续释放，正从成本端、资产价值及行业投资方向三个维度，对高耗能上市公司产生深远影响。业内人士认为，“十五五”时期碳约束由软变硬，将加速高耗能行业内部分化，碳 资产管理 能力逐步成为上市公司重要经营要素。 有偿机制夯实碳定价基础 上海、深圳两大碳排放权交易试点地区近期密集出台规则，通过提高准入门槛、开展配额有偿竞价发",
-     "source": "东方财富股票",
-     "zh": "碳定价机制持续完善 碳市场改革提速赋能产业转型"
     },
     {
      "title": "NVIDIA’s $3 Billion Bet on the Power Behind AI",
@@ -2367,30 +2407,6 @@
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "小马智行 (PONY) 与优步 (UBER) 联手下更大赌注"
-    },
-    {
-     "title": "U.S. air-conditioner shipments jump in June as H1 growth remains modest",
-     "link": "https://seekingalpha.com/news/4633613-u-s-air-conditioner-shipments-jump-in-june-as-h1-growth-remains-modest?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 16 Aug 2026 15:05:11 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "上半年增长依然温和，美国 6 月空调出货量猛增"
-    },
-    {
-     "title": "Rocket Lab-built satellites for MDA Space begin operations in orbit",
-     "link": "https://seekingalpha.com/news/4633612-rocket-lab-built-satellites-for-mda-space-begin-operations-in-orbit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 16 Aug 2026 14:52:37 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "火箭实验室为 MDA Space 建造的卫星开始在轨运行"
-    },
-    {
-     "title": "Société Générale sees more room for KOSPI recovery despite rebuilding leverage",
-     "link": "https://seekingalpha.com/news/4633610-societe-generale-sees-more-room-for-kospi-recovery-despite-rebuilding-leverage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 16 Aug 2026 14:29:54 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "尽管重建杠杆，法国兴业银行仍认为 KOSPI 复苏空间更大"
     },
     {
      "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
@@ -2457,14 +2473,6 @@
      "zh": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即"
     },
     {
-     "title": "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
-     "link": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
-     "pubDate": "Sun, 16 Aug 2026 12:00:00 GMT",
-     "summary": "It’s not just about eating well. It’s about cooking at home and sharing those meals with friends and family.",
-     "source": "MarketWatch",
-     "zh": "地中海饮食是最好的。这就是美国人为此苦苦挣扎的原因。"
-    },
-    {
      "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
      "link": "https://wallstreetcn.com/articles/3779545",
      "pubDate": "Sun, 16 Aug 2026 19:40:41 +0800",
@@ -2487,14 +2495,6 @@
      "summary": "各国央行正面临一个棘手的悖论：为防止市场崩溃而设计的救助工具，正在制造新的风险。8月15日，据《华尔街日报》报道，英格兰银行首席经济学家Huw Pill等政策制定者已开始公开表达担忧——反危机机制不仅推高了杠杆，还可能在悄然干扰货币政策的传导。 Pill将这一困境形容为“打地鼠”：“讽刺的是，脆弱性恰恰是由那些为降低脆弱性而引入的机制所制造的。” 目前，这一循环已进入新一轮的杠杆积累阶段，而各方尚未找到有效的破局之道。 角色转变：从“最后贷款人”到“最后做市商” 央行的传统职能是“最后贷款人”——在银行挤兑时提供流动性支持。但2008年金融危机和2020年新冠疫情期间，美联储、英格兰银行等主要",
      "source": "华尔街见闻",
      "zh": "出路在哪里？多国央行陷入“救火-加杠杆-再救火”的循环困境"
-    },
-    {
-     "title": "十大机构论市：超跌反弹一定会二次探底吗？能否走出V型反转？",
-     "link": "http://finance.eastmoney.com/news/1345,202608163842522686.html",
-     "pubDate": "Sun, 16 Aug 2026 19:00:05 +0800",
-     "summary": "本周沪指下跌0.33%，深证成指上涨0.30%，创业板指上涨1.77%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 广发策略：超跌反弹一定会“二次探底”吗？能否走出“V型反转”？ 市场能否流畅的走出“V型反转”，主要取决于2个因素：第一，估值/ ERP/股债收益差等赔率指标，是否意味着权益市场已足够便宜、具备足够的吸引力。20年、22年、25年的案例中，ERP都到达或接近+2X标准差，意味着短期风险释放已较为充分，此时市场有自发长钱、抄底资金流入。第二，基本面或流动性层面是否发生了比较重磅的正面催化，无论是宏观流动性、还是股市流动性。基本面包括经济及政策层面重大变化（",
-     "source": "东方财富资讯",
-     "zh": "十大机构论市：超跌反弹一定会二次探底吗？能否走出V型反转？"
     }
    ]
   },

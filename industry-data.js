@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/17 01:19:08",
+ "generated_at": "2026/8/17 01:45:48",
  "recent_days": 7,
  "industries": [
   {
@@ -122,6 +122,14 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX 正式完成 Cursor 收购"
     },
     {
+     "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
+     "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
+     "pubDate": "Sat, 15 Aug 2026 11:28:29 +0000",
+     "summary": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ",
+     "source": "MarkTechPost",
+     "zh": "微调工具调用 LLM：使用 XYZ-Aquila-SFT 和 Qwen3 的完整指南"
+    },
+    {
      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
      "link": "https://www.qbitai.com/2026/08/473876.html",
      "pubDate": "Sat, 15 Aug 2026 06:42:23 +0000",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜心缘 智东西8月14日报道，刚刚，在百度AI Day开放日上，百度文库网盘联合 官宣通用智能体GenFlow的中文名——库库AI ，并推出了该智能体的全新独立入口，与百度系列办公产品完成了深度融合。 库库AI（原GenFlow）自2025年4月上线以来，经过不断迭代，已然在文库、网盘等产品中全端通用，可一站式完成 Office三件套 等复杂办公任务，以及 AI视频、AI海报等跨模态文件生成 。 官方数据显示，截至目前， 库库AI的AI办公业务月活已突破2500万 ，百度文库此前还在国家工信安全中心Office Agent测评中",
      "source": "智东西",
      "zh": "刚刚！百度甩出AI办公大招，库库AI双端上线，月活超2500万"
-    },
-    {
-     "title": "OpenAI被曝ARR破2000亿，官宣新任首席营收官",
-     "link": "https://zhidx.com/p/585093.html",
-     "pubDate": "Fri, 14 Aug 2026 18:30:12 +0800",
-     "summary": "智东西 编译 | 茄子 编辑 | 程茜 智东西8月14日消息，今天，外媒彭博社援引知情人士报道，按照当前经营表现推算，OpenAI年化营收已超过400亿美元（约合人民币2708亿元），较2025年末的200多亿美元近乎翻倍。同日，OpenAI宣布任命谷歌旗下网络安全公司Wiz原总裁兼首席运营官达利·拉吉奇（Dali Rajic）为首席营收官，负责管理OpenAI全球营收体系。 ▲OpenAI官宣新任首席营收官达利·拉吉奇（图源：OpenAI） OpenAI首席营收官一职设立不到一年便迎来换帅。2025年12月，时任Salesforce旗下企业协同办公工具Slack CEO的丹妮丝·德雷瑟（De",
-     "source": "智东西",
-     "zh": "OpenAI被曝ARR破2000亿，官宣新任首席营收官"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "JLR’s new Freelander 8 takes off with 10,000 orders in first 48 hours",
+     "link": "https://electrek.co/2026/08/16/jlrs-new-freelander-8-takes-off-with-10000-orders-in-first-48-hours/",
+     "pubDate": "Sun, 16 Aug 2026 17:43:56 +0000",
+     "summary": "The new, retro-inspired Freelander 8 is Jaguar Land Rover’s latest global entry into the West’s red-hot luxury SUV market, and the off-roader is off to a strong start with over 10,000 orders flooding in in just 48 hours.",
+     "source": "Electrek",
+     "zh": "捷豹路虎全新神行者8上市48小时订单量破万"
+    },
+    {
      "title": "E-quipment highlight: LiuGong 924FE electric excavator is coming to America",
      "link": "https://electrek.co/2026/08/16/e-quipment-highlight-liugong-924fe-electric-excavator-is-coming-to-america/",
      "pubDate": "Sun, 16 Aug 2026 16:11:08 +0000",
@@ -720,14 +728,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla has switched on vehicle-to-load for the Model Y Premium in the US and Puerto Rico, letting owners pull 2.4 kW out of the car’s battery at 120 volts and 20 amps. You need an $80 accessory to do it, and not every Model Y Premium can. Tesla says the adapter can be added during configuration or bo",
      "source": "Electrek",
      "zh": "Tesla 通过 80 美元的适配器为 Model Y Premium 添加了 2.4 kW 的车辆负载功率"
-    },
-    {
-     "title": "Corrupt DoT head took oil money for reality TV show during oil price spike (update)",
-     "link": "https://electrek.co/2026/08/15/corrupt-dot-head-takes-oil-money-to-film-reality-tv-show-during-oil-price-spike/",
-     "pubDate": "Sat, 15 Aug 2026 17:00:00 +0000",
-     "summary": "Sean Duffy, whose transportation expertise comes from being a contestant on the reality TV show Road Rules , is going back to his roots and filming a reality TV show while on the job. But, as is fitting for the corrupt cabal he’s a member of, he’s made sure to let companies he’s supposed to regulate",
-     "source": "Electrek",
-     "zh": "腐败的交通部负责人在油价飙升期间拿走了电视真人秀的石油钱（更新）"
     },
     {
      "title": "This Chinese Electric SUV Just Recreated Mercedes’ Most Controversial Ad",
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
+     "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+     "pubDate": "Sun, 16 Aug 2026 13:29:52 -0400",
+     "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
+     "source": "BleepingComputer",
+     "zh": "大规模 DDoS 攻击破坏了 Threema 安全消息服务"
+    },
+    {
      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
      "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
      "pubDate": "Sun, 16 Aug 2026 11:07:44 -0400",
@@ -1608,14 +1616,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
      "source": "BleepingComputer",
      "zh": "黑客利用 macOS 屏幕共享漏洞部署门罗币挖矿程序"
-    },
-    {
-     "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-     "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-     "pubDate": "Fri, 14 Aug 2026 10:00:10 -0400",
-     "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
-     "source": "BleepingComputer",
-     "zh": "现代攻击链：人工智能时代重新思考 Google Workspace 安全性"
     },
     {
      "title": "What Boards Need to Know About Tech Risk",
@@ -1762,20 +1762,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "牛来魔幻经济学：563万票房的烂片，带飞了1640万美金的Meme币",
+     "link": "https://www.huxiu.com/article/4883520.html?f=rss",
+     "pubDate": "Mon, 17 Aug 2026 01:33:22 +0800",
+     "summary": "本文来自微信公众号： 新象财经 ，编辑：何望海，作者：何望海 当内容沦为流量赠品，我们到底在为什么狂欢？ 全文字数:约4545字 阅读时长:12分钟 如果要评选2026年暑期档最离谱的商业现象，动画电影《牛来》绝对是最有代表性的样本。 截至8月16日21点，据猫眼专业版实时数据，这部因制作水准引发全网热议的动画电影，综合票房已达563万元。 而就在同一天，BNB Chain上一枚蹭电影热度自发发行的同名Meme币，在当日盘中一度触及1640万美元市值，24小时涨幅最高达223%——导演带着家人耗时五年手搓的电影总票房，尚不及这枚无官方授权的代币单日市值波动的零头。 更具戏剧性的剧情同步上演：据",
+     "source": "虎嗅",
+     "zh": "牛来魔幻经济学：563万票房的烂片，带飞了1640万美金的Meme币"
+    },
+    {
+     "title": "Patients, families, doctors, and nurses are increasingly turning to AI tools, such as Face2Gene, to help identify rare and hard-to-diagnose diseases (Alex Janin/Wall Street Journal)",
+     "link": "https://www.techmeme.com/260816/p8#a260816p8",
+     "pubDate": "Sun, 16 Aug 2026 13:30:00 -0400",
+     "summary": "Alex Janin / Wall Street Journal : Patients, families, doctors, and nurses are increasingly turning to AI tools, such as Face2Gene, to help identify rare and hard-to-diagnose diseases &nbsp; &mdash;&nbsp; Patients, doctors and nurses are turning to the technology for help identifying rare and undiag",
+     "source": "Techmeme",
+     "zh": "患者、家庭、医生和护士越来越多地转向人工智能工具，例如 Face2Gene，以帮助识别罕见和难以诊断的疾病（Alex Janin/华尔街日报）"
+    },
+    {
      "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
      "link": "https://www.huxiu.com/article/4883517.html?f=rss",
      "pubDate": "Mon, 17 Aug 2026 00:26:33 +0800",
      "summary": "本文来自微信公众号： AI资本观 ，作者：林见，编辑：邵神，制图：表｜IrisVale 导读： 今天（8月17日）零点，DeepSeek V4全系列新的峰谷价格正式生效。 过去一年多，中国模型不断压低前沿智能的价格，也把自己送进了全球开发者的工作流：在OpenRouter样本中，中国模型的Token份额已经超过美国；在Vercel，开放权重模型处理29%的Token，却只对应不到4%的支出。涨价因此不只是一张价格表的变化，更是一场定价权实验。 中国正在把智能变成可规模采购的工业品，下一道更难的问题是：做了更多工作之后，能否把客户、利润和公司价值也留下来？ 制图/表｜Iris Vale 每个月，",
      "source": "虎嗅",
      "zh": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品"
-    },
-    {
-     "title": "NIH is ending a key grant for budding clinical researchers",
-     "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-     "pubDate": "Sun, 16 Aug 2026 16:14:55 +0000",
-     "summary": "Article URL: https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers Comments URL: https://news.ycombinator.com/item?id=49321353 Points: 9 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "美国国立卫生研究院 (NIH) 即将结束对崭露头角的临床研究人员的一项重要资助"
     },
     {
      "title": "“烂到有趣”的《牛来》：电影好不好看已经不再重要",
@@ -1834,14 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "创客把 2.9MB 歌曲压缩至 21KB，用 8 个二维码打印到纸上保存"
     },
     {
-     "title": "The weekend is 100 years old",
-     "link": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
-     "pubDate": "Sun, 16 Aug 2026 15:30:15 +0000",
-     "summary": "Article URL: https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it Comments URL: https://news.ycombinator.com/item?id=49320984 Points: 65 # Comments: 24",
-     "source": "Hacker News",
-     "zh": "周末已有100年历史了"
-    },
-    {
      "title": "奇瑞捷豹路虎神行者 8 预售订单突破 1 万台，售价 33.99 万元起",
      "link": "https://www.ithome.com/0/990/399.htm",
      "pubDate": "Sun, 16 Aug 2026 15:25:13 GMT",
@@ -1864,30 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "Washington Post : How concerns about AI became an important midterms issue, with candidates adding AI and data center policies to their websites in ~40% of races across the US &nbsp; &mdash;&nbsp; Across the United States, political candidates are grappling with an issue that has never before featur",
      "source": "Techmeme",
      "zh": "对人工智能的担忧如何成为一个重要的中期问题，在美国约 40% 的竞选中，候选人将人工智能和数据中心政策添加到他们的网站上（华盛顿邮报）"
-    },
-    {
-     "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-     "link": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-     "pubDate": "Sun, 16 Aug 2026 15:16:06 +0000",
-     "summary": "Article URL: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core Comments URL: https://news.ycombinator.com/item?id=49320856 Points: 58 # Comments: 29",
-     "source": "Hacker News",
-     "zh": "圣露西核反应堆1号机组手动关闭，3根控制棒落入堆芯"
-    },
-    {
-     "title": "GPS and the Lost Art of Getting Lost",
-     "link": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-     "pubDate": "Sun, 16 Aug 2026 14:53:14 +0000",
-     "summary": "Article URL: https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost Comments URL: https://news.ycombinator.com/item?id=49320673 Points: 25 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "GPS 和失落的迷路艺术"
-    },
-    {
-     "title": "The AI Credit Resale Economy",
-     "link": "https://vectoral.com/blog/who-are-the-token-brokers",
-     "pubDate": "Sun, 16 Aug 2026 14:44:55 +0000",
-     "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 101 # Comments: 37",
-     "source": "Hacker News",
-     "zh": "人工智能信用转售经济"
     },
     {
      "title": "ST中路控制权暗战：控股股东持股仅剩6.79%，举牌资本隐现“银河系”身影",
@@ -1920,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "拿了Oracle剧本的联想，还有很多问题要回答。",
      "source": "钛媒体",
      "zh": "服务器订单大超预期后，联想会走上Oracle的老路吗？"
-    },
-    {
-     "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
-     "link": "https://tasklet.ai/careers/head-of-design-engineering",
-     "pubDate": "Sun, 16 Aug 2026 13:30:27 +0000",
-     "summary": "Article URL: https://tasklet.ai/careers/head-of-design-engineering Comments URL: https://news.ycombinator.com/item?id=49319892 Points: 0 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Tasklet (YC P26) 正在招聘设计工程主管"
     },
     {
      "title": "美国历史上的奴隶制可预测今天的黑人白人死亡率差异",
@@ -2000,6 +1968,38 @@ window.INDUSTRY_DATA = {
      "summary": "The installation utility EasyDMG makes it so you never drag and drop an icon again.",
      "source": "WIRED",
      "zh": "终于有人修复了在 Mac 上安装应用程序的问题"
+    },
+    {
+     "title": "TerraMow V1000 Review: Show Your Lawn Some Love",
+     "link": "https://www.wired.com/review/terramow-v1000/",
+     "pubDate": "Sun, 16 Aug 2026 10:30:00 +0000",
+     "summary": "With automatic mapping, Spot Mode functionality, and smart AI cameras, the TerraMow V1000 is the complete package.",
+     "source": "WIRED",
+     "zh": "TerraMow V1000 评论：向您的草坪展示一些爱"
+    },
+    {
+     "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+     "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+     "pubDate": "Sun, 16 Aug 2026 10:00:59 +0000",
+     "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+     "source": "Ars Technica",
+     "zh": "野火烟雾现在对产前的威胁比人类造成的空气污染更大"
+    },
+    {
+     "title": "Inside the Experimental Traps Scientists Set for Ghostly Neutrinos",
+     "link": "https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/",
+     "pubDate": "Sun, 16 Aug 2026 10:00:00 +0000",
+     "summary": "Observatories have been built in mines, deep under the Antarctic ice sheet, and elsewhere in an effort to detect the fleeting particles.",
+     "source": "WIRED",
+     "zh": "科学家们为幽灵中微子设置的实验陷阱的内部"
+    },
+    {
+     "title": "Malaysia&apos;s 6% Q2 GDP growth was powered by 7.5% manufacturing growth, driven by chipmaking, and 6.6% construction growth, supported by data center development (Owen Walker/Financial Times)",
+     "link": "https://www.techmeme.com/260816/p5#a260816p5",
+     "pubDate": "Sun, 16 Aug 2026 05:45:01 -0400",
+     "summary": "Owen Walker / Financial Times : Malaysia's 6% Q2 GDP growth was powered by 7.5% manufacturing growth, driven by chipmaking, and 6.6% construction growth, supported by data center development &nbsp; &mdash;&nbsp; Southeast Asian country emerges as key AI hub in boost for its economy&nbsp; &mdash;&nbs",
+     "source": "Techmeme",
+     "zh": "马来西亚第二季度 GDP 增长 6%，主要得益于芯片制造推动下的制造业增长 7.5%，以及数据中心发展的支持下建筑业增长 6.6%（Owen Walker/金融时报）"
     }
    ]
   },
@@ -2009,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "It’s time for iOS to have its own Material You",
+     "link": "https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/",
+     "pubDate": "Sun, 16 Aug 2026 17:33:48 +0000",
+     "summary": "Over the years, Apple has only added more and more customization to iOS. First, we got all of the lock screen personalization back with iOS 16 . That was followed up with icon color tinting in iOS 18, clear icons in iOS 26, and a full-on Liquid Glass slider in iOS 27. The iPhone has become more and ",
+     "source": "9to5Mac",
+     "zh": "iOS 是时候拥有自己的 Material You 了"
+    },
+    {
+     "title": "Android Auto vs Apple CarPlay: What features set them apart",
+     "link": "https://www.engadget.com/2234248/android-auto-vs-apple-carplay-features-comparison/",
+     "pubDate": "Sun, 16 Aug 2026 17:30:00 +0000",
+     "summary": "The differences between the iPhone and Android show up when you connect them to your car, as well.",
+     "source": "Engadget",
+     "zh": "Android Auto 与 Apple CarPlay：哪些功能使它们与众不同"
+    },
     {
      "title": "How to lease an iPhone instead of buying one",
      "link": "https://www.engadget.com/2234247/how-to-lease-iphone-instead-of-buying/",
@@ -2072,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "A recent podcast interview covers street photographer Richard Bram's background, his philosophy on chance and intention and the specific moment he believes transforms a captured scene into something that resonates.",
      "source": "DPReview",
      "zh": "照片什么时候从现实变成虚构？一位传奇街头摄影师的参与"
-    },
-    {
-     "title": "Dolby Vision is on Netflix but you'll need these things first",
-     "link": "https://www.engadget.com/2236802/dolby-vision-on-netflix-things-needed-first/",
-     "pubDate": "Sun, 16 Aug 2026 12:30:00 +0000",
-     "summary": "It's only available with the top-tier Premium subscription plan, for one.",
-     "source": "Engadget",
-     "zh": "杜比视界已在 Netflix 上推出，但您首先需要这些东西"
     },
     {
      "title": "Face Unlock on Pixel 11 series works better in low light",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Pixel 11 Pro Fold has better cameras than its predecessor, but its system isn't even on par with a phone that's $1000 cheaper",
      "source": "DPReview",
      "zh": "谷歌仍在要求 Fold 买家做出妥协，因为其竞争对手比以往任何时候都更好"
-    },
-    {
-     "title": "Apple weekend deals: MacBooks up to $540 off, AirPods up to $100 off, Apple Watch, more",
-     "link": "https://9to5mac.com/2026/08/15/apple-weekend-deals-macbooks-airpods/",
-     "pubDate": "Sat, 15 Aug 2026 12:20:15 +0000",
-     "summary": "Update: AirTag 2 has now dropped back down to some of the lowest prices to date: AirTag 2 $25 (Reg. $29) AirTag 2 4-pack $89 (Reg. $99) Your 9to5Toys Lunch Break weekend edition is here, and so are the deals. We are starting off with a series of solid headliners, including AirPods Pro 3 at 25% and A",
-     "source": "9to5Mac",
-     "zh": "Apple 周末优惠：MacBook 最高折扣 540 美元、AirPods 最高折扣 100 美元、Apple Watch 等"
     }
    ]
   },
@@ -2257,6 +2257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+     "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+     "pubDate": "Sun, 16 Aug 2026 17:30:00 GMT",
+     "summary": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
+     "source": "MarketWatch",
+     "zh": "我朋友的母亲去世了。她能阻止医疗补助将家人带回家吗？"
+    },
     {
      "title": "Quebec, Newfoundland near expanded hydroelectric power agreement",
      "link": "https://seekingalpha.com/news/4633607-quebec-newfoundland-near-expanded-hydroelectric-power-agreement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2280,38 +2288,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Charlie Ergen 的 CONX 将斥资 2 亿美元收购 MobileX 的控制权"
-    },
-    {
-     "title": "前7个月全国铁路发送旅客28亿人次 创历史同期新高",
-     "link": "http://www.eeo.com.cn/2026/0817/1000764.shtml",
-     "pubDate": "Mon, 17 Aug 2026 00:52:22 +0800",
-     "summary": "8月15日，中国国家铁路集团有限公司（以下简称“国铁集团”）发布的数据显示，今年以来，铁路部门积极适应旅客多样化的出行需求，精心组织旅客运输，持续丰富客运产品供给，不断优化站车服务品质，保障了旅客平安便捷温馨出行，今年前7个月，全国铁路发送旅客28亿人次、同比增长4.1%，再创历史同期新高。 “铁路客流数据持续走高，印证了全社会人口流动活跃度大幅提升。”苏商银行特约研究员付一夫在接受《证券日报》记者...",
-     "source": "经济观察网",
-     "zh": "前7个月全国铁路发送旅客28亿人次 创历史同期新高"
-    },
-    {
-     "title": "二季度商业银行净息差环比微升 自2022年以来，商业银行净息差首次实现单季度环比增长",
-     "link": "http://www.eeo.com.cn/2026/0817/1000763.shtml",
-     "pubDate": "Mon, 17 Aug 2026 00:52:11 +0800",
-     "summary": "8月14日，国家金融监督管理总局官网披露2026年二季度银行业保险业主要监管指标数据情况。整体来看，我国银行业总资产保持增长，截至2026年二季度末，我国银行业金融机构本外币资产总额498万亿元，同比增长6.6%。 在净息差方面，今年二季度商业银行净息差为1.41%，较今年一季度增长0.01个百分点。值得一提的是，这是自2022年以来，商业银行净息差首次实现单季度环比增长。 具体来看，二季度，大型商业银行、城市商业...",
-     "source": "经济观察网",
-     "zh": "二季度商业银行净息差环比微升 自2022年以来，商业银行净息差首次实现单季度环比增长"
-    },
-    {
-     "title": "金融业深度运用AI智能体要闯过四关",
-     "link": "http://www.eeo.com.cn/2026/0817/1000762.shtml",
-     "pubDate": "Mon, 17 Aug 2026 00:52:09 +0800",
-     "summary": "■田鹏 近日，上海市经济和信息化委员会印发的《上海市软件和信息服务业发展“十五五”规划》提出，构建AI（人工智能）金融创新产品矩阵，聚焦金融产业核心业务场景，研发金融行业大模型，发展智能投顾智能体、AI合规风控系统等创新产品，形成“决策—交易—风控—管理”一体化能力链。 金融行业推广AI智能体具备得天独厚的条件，一方面，行业多数业务流程标准化程度较高，长期积淀海量规范的结构化数据；另一方面...",
-     "source": "经济观察网",
-     "zh": "金融业深度运用AI智能体要闯过四关"
-    },
-    {
-     "title": "黄金投资切忌盲目追高",
-     "link": "http://www.eeo.com.cn/2026/0817/1000761.shtml",
-     "pubDate": "Mon, 17 Aug 2026 00:52:08 +0800",
-     "summary": "■孟珂 国际黄金价格在8月份以来出现反弹，最高触及4400美元/盎司。截至8月16日，国际现货黄金价格为4375.29美元/盎司，较7月底收盘价上涨8.27%。 在国际黄金价格反弹的背景下，黄金ETF作为便捷的黄金投资工具，成为资金追逐的对象。截至8月16日，国内14只黄金主题ETF规模合计2715亿元，近一周增长721亿元，其中华安黄金ETF近一周流入50.13亿元，基金规模重返千亿元级别。国内品牌金饰价格同步走高，不少品牌足金饰...",
-     "source": "经济观察网",
-     "zh": "黄金投资切忌盲目追高"
     },
     {
      "title": "J.P. Morgan ended Polymarket banking relationship over regulatory concerns",
@@ -2418,6 +2394,14 @@ window.INDUSTRY_DATA = {
      "zh": "地中海饮食是最好的。这就是美国人为此苦苦挣扎的原因。"
     },
     {
+     "title": "Top Wall Street analysts like these 3 dividend stocks for steady income",
+     "link": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+     "pubDate": "Sun, 16 Aug 2026 11:58:15 GMT",
+     "summary": "Investors looking for steady income can add dividend-paying energy stocks to their portfolios.",
+     "source": "CNBC",
+     "zh": "华尔街顶级分析师喜欢这三只股息股票以获得稳定收入"
+    },
+    {
      "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
      "link": "https://wallstreetcn.com/articles/3779545",
      "pubDate": "Sun, 16 Aug 2026 19:40:41 +0800",
@@ -2442,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "出路在哪里？多国央行陷入“救火-加杠杆-再救火”的循环困境"
     },
     {
-     "title": "十大机构论市：超跌反弹一定会二次探底吗？能否走出V型反转？",
-     "link": "http://finance.eastmoney.com/news/1345,202608163842522686.html",
-     "pubDate": "Sun, 16 Aug 2026 19:00:05 +0800",
-     "summary": "本周沪指下跌0.33%，深证成指上涨0.30%，创业板指上涨1.77%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 广发策略：超跌反弹一定会“二次探底”吗？能否走出“V型反转”？ 市场能否流畅的走出“V型反转”，主要取决于2个因素：第一，估值/ ERP/股债收益差等赔率指标，是否意味着权益市场已足够便宜、具备足够的吸引力。20年、22年、25年的案例中，ERP都到达或接近+2X标准差，意味着短期风险释放已较为充分，此时市场有自发长钱、抄底资金流入。第二，基本面或流动性层面是否发生了比较重磅的正面催化，无论是宏观流动性、还是股市流动性。基本面包括经济及政策层面重大变化（",
-     "source": "东方财富资讯",
-     "zh": "十大机构论市：超跌反弹一定会二次探底吗？能否走出V型反转？"
-    },
-    {
      "title": "How economics is changing",
      "link": "https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60?syn-25a6b1a6=1",
      "pubDate": "Sun, 16 Aug 2026 11:00:02 GMT",
@@ -2464,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "Earnings reports from the two major retailers will show how shoppers are holding up in an era of persistent inflation.",
      "source": "MarketWatch",
      "zh": "沃尔玛和塔吉特即将公布美国消费者的健康状况"
-    },
-    {
-     "title": "2026年暑期档票房破100亿元",
-     "link": "http://www.eeo.com.cn/2026/0816/1000700.shtml",
-     "pubDate": "Sun, 16 Aug 2026 18:26:25 +0800",
-     "summary": "北京商报讯（记者 卢扬 实习记者 张继文）8月16日，据灯塔专业版实时数据，2026年暑期档（6月1日-8月31日）档期总票房（含预售）突破100亿元。电影《功夫女足》《八仙！》《蜘蛛侠：崭新之日》《欢迎来龙餐馆》《给阿嬷的情书》暂列档期票房前5名。",
-     "source": "经济观察网",
-     "zh": "2026年暑期档票房破100亿元"
     },
     {
      "title": "英伟达拟向软银旗下SB Energy投资30亿美元，押注OpenAI俄亥俄数据中心项目",
@@ -2496,6 +2464,38 @@ window.INDUSTRY_DATA = {
      "summary": "European markets fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs offered to dispel some of the myths.",
      "source": "CNBC",
      "zh": "秘密表现出色：消除有关股市不受欢迎的“神话”"
+    },
+    {
+     "title": "华尔街“选股神话”持续褪色：过去十年仅13%跑赢指数",
+     "link": "https://wallstreetcn.com/articles/3779538",
+     "pubDate": "Sun, 16 Aug 2026 17:41:24 +0800",
+     "summary": "数据再次证明，主动选股的光环正在消退。过去十年，美国主动管理大盘股基金中，只有一成多跑赢了指数——这是华尔街最新数据给出的答案。 8月15日，据晨星（Morningstar）最新数据，截至今年6月30日的过去十年，仅 13% 的美国主动管理大盘股基金在扣除费用后跑赢基准被动基金。即便是过去一年这一短期窗口，跑赢比例也只有 27% ，不足三成。 与此同时，低成本被动ETF今年净流入有望首次突破1万亿美元，主动基金的市场份额持续萎缩。 资金持续出逃，主动基金陷入“失血”困境 主动管理基金的费用曾是资产管理行业数十年的核心利润来源。但自2015年以来，资金已连年净流出。 道富环球投资管理SPDR美洲",
+     "source": "华尔街见闻",
+     "zh": "华尔街“选股神话”持续褪色：过去十年仅13%跑赢指数"
+    },
+    {
+     "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，管离职潮持续，上市计划悄然推迟",
+     "link": "https://wallstreetcn.com/articles/3779533",
+     "pubDate": "Sun, 16 Aug 2026 16:10:45 +0800",
+     "summary": "一家估值8520亿美元、冲刺万亿IPO的公司，正在被自己的内部混乱拖累。 今年以来，OpenAI已经历近五次组织重组。高管接连出走，安全团队被解散，员工普遍感到疲惫。与此同时，原本预期今年完成的IPO，已悄然推迟至明年。 8月15日，据英国《金融时报》最新报道，多名知情人士表示，反复的人事洗牌让部分员工对这家全球最具价值的私人科技公司感到\"沮丧\"。 高管接连出走，离职潮未止 本周，首席营收官Denise Dresser宣布离职。她于去年12月刚刚上任，负责拓展企业客户业务，任期不足一年。 这已是近期一系列高管离职中的最新一例。据此前披露，前首席财务官兼首席运营官Brad Lightcap、伦理",
+     "source": "华尔街见闻",
+     "zh": "OpenAI内部动荡加剧：重组不断，员工疲惫，管离职潮持续，上市计划悄然推迟"
+    },
+    {
+     "title": "Most US voters say they are worse off under Trump — FT poll",
+     "link": "https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1",
+     "pubDate": "Sun, 16 Aug 2026 04:01:09 GMT",
+     "summary": "Democrats lead Republicans on economy just months ahead of midterm elections",
+     "source": "Financial Times",
+     "zh": "英国《金融时报》民意调查显示，大多数美国选民表示，在特朗普的领导下，他们的境况变得更糟"
+    },
+    {
+     "title": "‘Capitalism’s not working’: why Democrats are turning to socialism",
+     "link": "https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1",
+     "pubDate": "Sun, 16 Aug 2026 04:00:11 GMT",
+     "summary": "Democratic socialist candidates are winning primary battles as voters turn to progressive policies",
+     "source": "Financial Times",
+     "zh": "“资本主义行不通”：为什么民主党人转向社会主义"
     }
    ]
   },

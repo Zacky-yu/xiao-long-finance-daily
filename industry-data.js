@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/17 00:24:36",
+ "generated_at": "2026/8/17 00:52:06",
  "recent_days": 7,
  "industries": [
   {
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Firefly promote next block of Alpha amid Eclipse progress",
+     "link": "https://www.nasaspaceflight.com/2026/08/firefly-block-alpha-eclipse-progress/",
+     "pubDate": "Sun, 16 Aug 2026 16:31:26 +0000",
+     "summary": "Firefly Aerospace is advancing on two fronts this month, pushing development of its next-generation medium-lift… The post Firefly promote next block of Alpha amid Eclipse progress appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Firefly 在 Eclipse 进展中推动下一个 Alpha 区块"
+    },
+    {
      "title": "NASA funds spherical 'Aerobots' that could explore the caves of Saturn's moon Titan",
      "link": "https://www.space.com/technology/nasa-funds-spherical-aerobots-that-could-explore-the-caves-of-saturns-moon-titan",
      "pubDate": "Sun, 16 Aug 2026 15:00:00 +0000",
@@ -1528,14 +1536,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mike Fincke trained on the Boeing CST-100 Starliner side of the Commercial Crew Program from January 2019 until his reassignment to the SpaceX Crew-11 mission. His fourth and final mission to the International Space Station launched on Aug. 1, 2025.",
      "source": "Spaceflight Now",
      "zh": "迈克·芬克 (Mike Fincke) 从 NASA 退休，他是一位拥有 30 年经验、曾驾驶过四艘航天器的宇航员"
-    },
-    {
-     "title": "Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission",
-     "link": "https://www.nasaspaceflight.com/2026/08/china-roundup-20260813/",
-     "pubDate": "Wed, 12 Aug 2026 19:33:41 +0000",
-     "summary": "China’s Wenchang Space Launch Site reached its milestone 50th launch at the end of July,… The post Amid failure, Wenchang celebrates milestone as China launches AI satellites and prepares for lunar south pole mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "在失败中，文昌庆祝中国发射人工智能卫星并准备月球南极任务的里程碑"
     }
    ]
   },
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
+     "link": "https://www.huxiu.com/article/4883517.html?f=rss",
+     "pubDate": "Mon, 17 Aug 2026 00:26:33 +0800",
+     "summary": "本文来自微信公众号： AI资本观 ，作者：林见，编辑：邵神，制图：表｜IrisVale 导读： 今天（8月17日）零点，DeepSeek V4全系列新的峰谷价格正式生效。 过去一年多，中国模型不断压低前沿智能的价格，也把自己送进了全球开发者的工作流：在OpenRouter样本中，中国模型的Token份额已经超过美国；在Vercel，开放权重模型处理29%的Token，却只对应不到4%的支出。涨价因此不只是一张价格表的变化，更是一场定价权实验。 中国正在把智能变成可规模采购的工业品，下一道更难的问题是：做了更多工作之后，能否把客户、利润和公司价值也留下来？ 制图/表｜Iris Vale 每个月，",
+     "source": "虎嗅",
+     "zh": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品"
+    },
+    {
      "title": "“烂到有趣”的《牛来》：电影好不好看已经不再重要",
      "link": "https://www.huxiu.com/article/4883516.html?f=rss",
      "pubDate": "Mon, 17 Aug 2026 00:11:42 +0800",
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "The weekend is 100 years old",
      "link": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
      "pubDate": "Sun, 16 Aug 2026 15:30:15 +0000",
-     "summary": "Article URL: https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it Comments URL: https://news.ycombinator.com/item?id=49320984 Points: 19 # Comments: 1",
+     "summary": "Article URL: https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it Comments URL: https://news.ycombinator.com/item?id=49320984 Points: 44 # Comments: 10",
      "source": "Hacker News",
      "zh": "周末已有100年历史了"
     },
@@ -1853,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
      "link": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
      "pubDate": "Sun, 16 Aug 2026 15:16:06 +0000",
-     "summary": "Article URL: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core Comments URL: https://news.ycombinator.com/item?id=49320856 Points: 19 # Comments: 3",
+     "summary": "Article URL: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core Comments URL: https://news.ycombinator.com/item?id=49320856 Points: 44 # Comments: 16",
      "source": "Hacker News",
      "zh": "圣露西核反应堆1号机组手动关闭，3根控制棒落入堆芯"
     },
@@ -1861,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "GPS and the Lost Art of Getting Lost",
      "link": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
      "pubDate": "Sun, 16 Aug 2026 14:53:14 +0000",
-     "summary": "Article URL: https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost Comments URL: https://news.ycombinator.com/item?id=49320673 Points: 6 # Comments: 5",
+     "summary": "Article URL: https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost Comments URL: https://news.ycombinator.com/item?id=49320673 Points: 13 # Comments: 8",
      "source": "Hacker News",
      "zh": "GPS 和失落的迷路艺术"
     },
@@ -1869,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "The AI Credit Resale Economy",
      "link": "https://vectoral.com/blog/who-are-the-token-brokers",
      "pubDate": "Sun, 16 Aug 2026 14:44:55 +0000",
-     "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 66 # Comments: 19",
+     "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 84 # Comments: 24",
      "source": "Hacker News",
      "zh": "人工智能信用转售经济"
     },
@@ -1925,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: A public AI whose memory is shared across all users",
      "link": "https://wildstatic.com/",
      "pubDate": "Sun, 16 Aug 2026 13:21:45 +0000",
-     "summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 22 # Comments: 12",
+     "summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 27 # Comments: 21",
      "source": "Hacker News",
      "zh": "Show HN：所有用户共享内存的公共人工智能"
     },
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "The installation utility EasyDMG makes it so you never drag and drop an icon again.",
      "source": "WIRED",
      "zh": "终于有人修复了在 Mac 上安装应用程序的问题"
-    },
-    {
-     "title": "TerraMow V1000 Review: Show Your Lawn Some Love",
-     "link": "https://www.wired.com/review/terramow-v1000/",
-     "pubDate": "Sun, 16 Aug 2026 10:30:00 +0000",
-     "summary": "With automatic mapping, Spot Mode functionality, and smart AI cameras, the TerraMow V1000 is the complete package.",
-     "source": "WIRED",
-     "zh": "TerraMow V1000 评论：向您的草坪展示一些爱"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "How to lease an iPhone instead of buying one",
+     "link": "https://www.engadget.com/2234247/how-to-lease-iphone-instead-of-buying/",
+     "pubDate": "Sun, 16 Aug 2026 16:30:00 +0000",
+     "summary": "The new Apple Upgrade program makes the monthly cost of an iPhone even cheaper than before.",
+     "source": "Engadget",
+     "zh": "如何租赁 iPhone 而不是购买 iPhone"
+    },
     {
      "title": "Weekly poll: which Google Pixel 11 model would you buy?",
      "link": "https://www.gsmarena.com/weekly_poll_which_google_pixel_11_model_would_you_buy-news-74157.php",
@@ -2170,14 +2178,6 @@ window.INDUSTRY_DATA = {
      "zh": "iQOO 16有望配备更高刷新率屏幕、新设计"
     },
     {
-     "title": "How Samsung's Galaxy Watch 8 measures your antioxidant levels",
-     "link": "https://www.engadget.com/2236219/how-samsung-galaxy-watch-series8-measures-antioxidant-levels/",
-     "pubDate": "Sat, 15 Aug 2026 22:30:00 +0000",
-     "summary": "Samsung's newest party trick could actually help you improve your diet, and therefore your overall health.",
-     "source": "Engadget",
-     "zh": "三星 Galaxy Watch 8 如何测量您的抗氧化水平"
-    },
-    {
      "title": "Deals: Pixel 11 series goes on pre-order, Galaxy Z8 foldables and S26 models drop prices",
      "link": "https://www.gsmarena.com/deals_pixel_11_series_goes_on_preorder_galaxy_z8_foldables_and_s26_models_drop_prices-news-74175.php",
      "pubDate": "Sat, 15 Aug 2026 23:41:02 +0200",
@@ -2258,60 +2258,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "J.P. Morgan ended Polymarket banking relationship over regulatory concerns",
+     "link": "https://seekingalpha.com/news/4633606-j-p-morgan-ended-polymarket-banking-relationship-over-regulatory-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 16 Aug 2026 12:33:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "摩根大通因监管问题终止 Polymarket 银行业务关系"
+    },
+    {
+     "title": "麦格理将澳大利亚金矿企业Northern Star评级下调至“中性”",
+     "link": "http://hk.eastmoney.com/news/11792,202608173842574624.html",
+     "pubDate": "Mon, 17 Aug 2026 00:31:12 +0800",
+     "summary": "麦格理将澳大利亚金矿企业Northern Star评级下调至“中性”，目标价23澳元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "麦格理将澳大利亚金矿企业Northern Star评级下调至“中性”"
+    },
+    {
+     "title": "贵不贵？买不买？“人形机器人第一股”来袭 五大基金经理最新研判来了",
+     "link": "http://finance.eastmoney.com/news/1354,202608163842565074.html",
+     "pubDate": "Mon, 17 Aug 2026 00:29:38 +0800",
+     "summary": "人形 机器人 赛道，即将迎来属于自己的“里程碑时刻”。 近日， 宇树科技 完成科创板IPO申购发行，距离正式挂牌交易仅一步之遥。这家被市场称为A股“人形 机器人 第一股”的企业，其上市的意义远不止于一家公司的资本化——它标志着一个新兴产业从实验室走向公开市场的关键跨越。过去几年，人形 机器人 行业虽经历了技术热潮与资本追逐，却始终缺少一个公开市场的定价基准。 宇树科技 的上市，恰恰为整个行业立起了一面可参照的镜子。 围绕 宇树科技 上市带来的深远影响、 人形机器人 产业当前的真实发展阶段，以及后续值得关注的投资方向，券商中国记者采访了平安基金基金经理张荫先、永赢基金基金经理张璐、华夏基金基金经",
+     "source": "东方财富股票",
+     "zh": "贵不贵？买不买？“人形机器人第一股”来袭 五大基金经理最新研判来了"
+    },
+    {
+     "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+     "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+     "pubDate": "Sun, 16 Aug 2026 16:22:00 GMT",
+     "summary": "“I don’t expect my marginal tax rate to be materially different in the future.”",
+     "source": "MarketWatch",
+     "zh": "我今年 63 岁，是一名退休注册会计师，拥有 120 万美元的 401(k) 资金。我需要费心进行罗斯转换吗？"
+    },
+    {
+     "title": "跨域协同存堵点 城乡衔接有断点 水网贯通仍存多重挑战水网要“建”更要“通”",
+     "link": "http://finance.eastmoney.com/news/1348,202608173842575332.html",
+     "pubDate": "Mon, 17 Aug 2026 00:12:00 +0800",
+     "summary": "如今，对于北方城市的居民来说，拧开水龙头便有清水流出，早已是习以为常的事情。很少有人会追问杯中澄澈的水，究竟源自哪条河流。但就在十几年前，北方部分老旧小区还在为水压不足、动辄“用水荒”的问题而发愁。改变这一现象的是南水北调工程这条“人间天河”。据水利部和中国南水北调集团有限公司最新数据，截至8月10日，南水北调东中线一期工程通水以来，累计调水量突破900亿立方米，惠及沿线48座大中城市、1.95亿人口。 水润万家的常态背后，北方水资源短缺的基本面并未彻底扭转。即便在今天，部分北方大型城市的人均水资源量仍低于国际公认的极度缺水标准。 在国家部署的“六张网”现代化基础设施建设当中，水网位列首位。水",
+     "source": "东方财富股票",
+     "zh": "跨域协同存堵点 城乡衔接有断点 水网贯通仍存多重挑战水网要“建”更要“通”"
+    },
+    {
+     "title": "社融结构持续优化 金融服务实体经济能力升级",
+     "link": "http://finance.eastmoney.com/news/1350,202608173842575291.html",
+     "pubDate": "Mon, 17 Aug 2026 00:12:00 +0800",
+     "summary": "■谢若琳 中国人民 银行 近日发布的2026年7月份金融统计数据报告显示，7月末，社会融资规模存量为463.27万亿元，同比增长7.4%。总量平稳之外，数据背后的融资结构变化更值得关注。 中国人民 银行 数据显示，前7个月，社会融资规模增量累计为22.25万亿元，其中，对实体经济发放的人民币贷款增加10.17万亿元，同比少增2.14万亿元；对实体经济发放的外币贷款折合人民币增加1694亿元，同比多增2419亿元。同期，企业债券净融资2.52万亿元，政府债券净融资7.76万亿元，非金融企业境内股票融资4061亿元。笔者据此统计，两项贷款合计约10.34万亿元，约占社会融资规模增量的46.5%。三",
+     "source": "东方财富股票",
+     "zh": "社融结构持续优化 金融服务实体经济能力升级"
+    },
+    {
+     "title": "证券类App月活跃人数连续5个月环比增长 7月份月活达1.87亿，创年内新高",
+     "link": "http://finance.eastmoney.com/news/1354,202608173842574574.html",
+     "pubDate": "Mon, 17 Aug 2026 00:12:00 +0800",
+     "summary": "证券类App的用户活跃度正持续攀升。易观千帆最新数据显示，7月份，证券类App月活跃人数（以下简称“月活”）达到1.87亿，同比增长12.11%，环比增长0.69%，已连续5个月实现环比增长，并创下年内新高。 易观千帆证券业咨询专家杨玲对《证券日报》记者表示，在市场交投活跃、行情波动的情况下，投资者正更加主动地借助券商平台智能决策工具参与市场交易，券商App的角色正加速从“交易入口”迈向“智能投资伙伴”。 从券商App月活规模来看，两家头部券商的App月活保持在千万量级。7月份， 华泰证券 App“涨乐财富通”以1293.1万的月活稳坐行业“头把交椅”，月活环比增长0.75%； 国泰海通 的“",
+     "source": "东方财富股票",
+     "zh": "证券类App月活跃人数连续5个月环比增长 7月份月活达1.87亿，创年内新高"
+    },
+    {
+     "title": "前7个月全国铁路发送旅客28亿人次 创历史同期新高",
+     "link": "http://finance.eastmoney.com/news/1348,202608173842575076.html",
+     "pubDate": "Mon, 17 Aug 2026 00:11:00 +0800",
+     "summary": "8月15日，中国国家铁路集团有限公司（以下简称“国铁集团”）发布的数据显示，今年以来，铁路部门积极适应旅客多样化的出行需求，精心组织旅客运输，持续丰富客运产品供给，不断优化站车服务品质，保障了旅客平安便捷温馨出行，今年前7个月，全国铁路发送旅客28亿人次、同比增长4.1%，再创历史同期新高。 “铁路客流数据持续走高，印证了全社会人口流动活跃度大幅提升。”苏商 银行 特约研究员付一夫在接受《证券日报》记者采访时表示，前7个月铁路客运量创下同期 历史新高 ，无疑是供给端与需求端同步发力的结果。从供给端看，全国高铁路网持续延展，一批新线相继投产运营，路网运力不断扩充，为客运量增长提供了坚实支撑。 记",
+     "source": "东方财富股票",
+     "zh": "前7个月全国铁路发送旅客28亿人次 创历史同期新高"
+    },
+    {
      "title": "Under Armour’s Turnaround Hits a Wall as North America Demand Craters",
      "link": "https://finance.yahoo.com/markets/stocks/articles/under-armour-turnaround-hits-wall-160449561.html",
      "pubDate": "2026-08-16T16:04:49Z",
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "随着北美需求的下降，Under Armour 的扭亏为盈遭遇困境"
-    },
-    {
-     "title": "伊朗：尽管遭受战时损毁，伊朗航天工业仍在继续推进发展",
-     "link": "http://finance.eastmoney.com/news/1351,202608173842570294.html",
-     "pubDate": "Mon, 17 Aug 2026 00:03:25 +0800",
-     "summary": "伊朗：尽管遭受战时损毁，伊朗航天工业仍在继续推进发展。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗：尽管遭受战时损毁，伊朗航天工业仍在继续推进发展"
-    },
-    {
-     "title": "伊朗陆军总司令：我们确信林肯号航空母舰至少遭到过一次伊朗弹药打击",
-     "link": "http://finance.eastmoney.com/news/1351,202608173842570159.html",
-     "pubDate": "Mon, 17 Aug 2026 00:03:24 +0800",
-     "summary": "伊朗陆军总司令：我们确信林肯号航空母舰至少遭到过一次伊朗弹药打击，受此影响，该舰舰载战斗机曾有一段时间完全无法起飞。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗陆军总司令：我们确信林肯号航空母舰至少遭到过一次伊朗弹药打击"
-    },
-    {
-     "title": "法国总理勒科尔尼将于周一召开危机会议，以应对上周曝光的针对该国税务总局的网络攻击事件",
-     "link": "http://finance.eastmoney.com/news/1351,202608173842570032.html",
-     "pubDate": "Mon, 17 Aug 2026 00:03:24 +0800",
-     "summary": "法国总理勒科尔尼将于周一召开危机会议，以应对上周曝光的针对该国税务总局的网络攻击事件。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "法国总理勒科尔尼将于周一召开危机会议，以应对上周曝光的针对该国税务总局的网络攻击事件"
-    },
-    {
-     "title": "埃及、约旦、阿联酋等多国联合声明谴责以色列拒绝特朗普关于加沙的计划",
-     "link": "http://finance.eastmoney.com/news/1351,202608173842569984.html",
-     "pubDate": "Mon, 17 Aug 2026 00:02:09 +0800",
-     "summary": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦联合声明谴责以色列拒绝特朗普关于加沙的计划，并表示以色列需为阻碍加沙及巴勒斯坦领土的和平进程承担责任，以色列的拒绝令特朗普加大力度终结加沙战争的行动面临威胁。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "埃及、约旦、阿联酋等多国联合声明谴责以色列拒绝特朗普关于加沙的计划"
-    },
-    {
-     "title": "伊朗议会议长卡利巴夫：伊朗在同美国、以色列的战争中，于军事与政治两条战线均取得“真正胜利”",
-     "link": "http://finance.eastmoney.com/news/1351,202608173842569890.html",
-     "pubDate": "Mon, 17 Aug 2026 00:02:08 +0800",
-     "summary": "伊朗议会议长卡利巴夫：伊朗在同美国、以色列的战争中，于军事与政治两条战线均取得“真正胜利”。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗议会议长卡利巴夫：伊朗在同美国、以色列的战争中，于军事与政治两条战线均取得“真正胜利”"
-    },
-    {
-     "title": "库什纳会见哈马斯领导人，敦促其推进加沙非军事化",
-     "link": "http://finance.eastmoney.com/news/1351,202608173842569778.html",
-     "pubDate": "Mon, 17 Aug 2026 00:02:07 +0800",
-     "summary": "特朗普特使贾里德·库什纳周日在埃及会见了哈马斯领导人，敦促他们履行解除武装的承诺。这是自去年10月签署结束加沙战争的协议以来，库什纳首次与哈马斯领导人会面。此次会晤的目标是将哈马斯关于加沙非军事化的义务“转化为具体、可核查的步骤”。为维持加沙停火，这些措施包括将执政权移交给巴勒斯坦技术官僚政府，并确保哈马斯在加沙未来的治理中不扮演任何角色。和平委员会希望哈马斯开始解除武器和军事基础设施的武装，允许国际稳定部队部署并协助加沙的恢复和重建工作，且不得对参与重建的巴勒斯坦人进行盗窃或恐吓。该委员会还希望，如果哈马斯开始解除武装，以色列也应在加沙进行“相应的撤军”，并加快向加沙地带提供人道主义援助。消",
-     "source": "东方财富股票",
-     "zh": "库什纳会见哈马斯领导人，敦促其推进加沙非军事化"
     },
     {
      "title": "Calm markets mask risk of sudden S&P 500 swings",
@@ -2378,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "人工智能选股热潮未能提振大多数活跃基金"
     },
     {
-     "title": "AI spending is surging, but profit gains remain elusive, Goldman Sachs says",
-     "link": "https://seekingalpha.com/news/4633598-ai-spending-is-surging-but-profit-gains-remain-elusive-goldman-sachs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 16 Aug 2026 09:43:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "高盛表示，人工智能支出正在激增，但利润增长仍然难以捉摸"
-    },
-    {
      "title": "What the results of a Connecticut congressional primary race may mean for Social Security",
      "link": "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html",
      "pubDate": "Sun, 16 Aug 2026 13:30:01 GMT",
@@ -2416,14 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "It’s not just about eating well. It’s about cooking at home and sharing those meals with friends and family.",
      "source": "MarketWatch",
      "zh": "地中海饮食是最好的。这就是美国人为此苦苦挣扎的原因。"
-    },
-    {
-     "title": "Top Wall Street analysts like these 3 dividend stocks for steady income",
-     "link": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
-     "pubDate": "Sun, 16 Aug 2026 11:58:15 GMT",
-     "summary": "Investors looking for steady income can add dividend-paying energy stocks to their portfolios.",
-     "source": "CNBC",
-     "zh": "华尔街顶级分析师喜欢这三只股息股票以获得稳定收入"
     },
     {
      "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/17 04:48:25",
+ "generated_at": "2026/8/17 05:20:13",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+     "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+     "pubDate": "Sun, 16 Aug 2026 20:57:04 +0000",
+     "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+     "source": "TechCrunch AI",
+     "zh": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter"
+    },
     {
      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
@@ -129,6 +137,14 @@
      "zh": "SpaceX 正式完成 Cursor 收购"
     },
     {
+     "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
+     "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
+     "pubDate": "Sat, 15 Aug 2026 11:28:29 +0000",
+     "summary": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ",
+     "source": "MarkTechPost",
+     "zh": "微调工具调用 LLM：使用 XYZ-Aquila-SFT 和 Qwen3 的完整指南"
+    },
+    {
      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
      "link": "https://www.qbitai.com/2026/08/473876.html",
      "pubDate": "Sat, 15 Aug 2026 06:42:23 +0000",
@@ -175,14 +191,6 @@
      "summary": "",
      "source": "新智元",
      "zh": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字"
-    },
-    {
-     "title": "Google will now allow users to remove visible watermark from its AI generations",
-     "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-     "pubDate": "Fri, 14 Aug 2026 16:13:40 +0000",
-     "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-     "source": "TechCrunch AI",
-     "zh": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印"
     },
     {
      "title": "时隔三周，谷歌再更Flash模型，年内打五折",
@@ -239,14 +247,6 @@
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜心缘 智东西8月14日报道，刚刚，在百度AI Day开放日上，百度文库网盘联合 官宣通用智能体GenFlow的中文名——库库AI ，并推出了该智能体的全新独立入口，与百度系列办公产品完成了深度融合。 库库AI（原GenFlow）自2025年4月上线以来，经过不断迭代，已然在文库、网盘等产品中全端通用，可一站式完成 Office三件套 等复杂办公任务，以及 AI视频、AI海报等跨模态文件生成 。 官方数据显示，截至目前， 库库AI的AI办公业务月活已突破2500万 ，百度文库此前还在国家工信安全中心Office Agent测评中",
      "source": "智东西",
      "zh": "刚刚！百度甩出AI办公大招，库库AI双端上线，月活超2500万"
-    },
-    {
-     "title": "OpenAI被曝ARR破2000亿，官宣新任首席营收官",
-     "link": "https://zhidx.com/p/585093.html",
-     "pubDate": "Fri, 14 Aug 2026 18:30:12 +0800",
-     "summary": "智东西 编译 | 茄子 编辑 | 程茜 智东西8月14日消息，今天，外媒彭博社援引知情人士报道，按照当前经营表现推算，OpenAI年化营收已超过400亿美元（约合人民币2708亿元），较2025年末的200多亿美元近乎翻倍。同日，OpenAI宣布任命谷歌旗下网络安全公司Wiz原总裁兼首席运营官达利·拉吉奇（Dali Rajic）为首席营收官，负责管理OpenAI全球营收体系。 ▲OpenAI官宣新任首席营收官达利·拉吉奇（图源：OpenAI） OpenAI首席营收官一职设立不到一年便迎来换帅。2025年12月，时任Salesforce旗下企业协同办公工具Slack CEO的丹妮丝·德雷瑟（De",
-     "source": "智东西",
-     "zh": "OpenAI被曝ARR破2000亿，官宣新任首席营收官"
     }
    ]
   },
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "CEO Interview with Leon Lauritsen of Aras",
+     "link": "https://semiwiki.com/ceo-interviews/372140-ceo-interview-with-leon-lauritsen-of-aras/",
+     "pubDate": "Sun, 16 Aug 2026 21:00:03 +0000",
+     "summary": "Leon Lauritsen is the CEO of Aras, a leading provider of digital thread solutions for product lifecycle management and engineering AI. He joined the company in 2022 through the acquisition of Minerva PLM, where he had been for over 20 years. While at Minerva, Leon led sales and marketing globally an",
+     "source": "SemiWiki",
+     "zh": "Aras 首席执行官 Leon Lauritsen 专访"
+    },
     {
      "title": "CEO Interview with Jerry Chen of Upbeat Technology",
      "link": "https://semiwiki.com/ceo-interviews/371606-ceo-interview-with-jerry-chen-of-upbeat-technology/",
@@ -350,7 +358,7 @@
      "pubDate": "Fri, 14 Aug 2026 15:00:13 +0000",
      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transistors while enabling strong gate control. Silicon transistors are approaching physical limits that make ea",
      "source": "SemiWiki",
-     "zh": "台积电的 0.42 纳米突破可以推动晶体管超越硅"
+     "zh": "台积电的 0.42 纳米突破可能推动晶体管超越硅"
     },
     {
      "title": "Google joins OpenROAD EDA initiative",
@@ -431,14 +439,6 @@
      "summary": "Chip costs are gutting smartphone margins; expect pricier iPhones and fewer cheap phones. The post Smartphone Makers Squeezed by Soaring Chip Costs appeared first on EE Times .",
      "source": "EE Times",
      "zh": "智能手机制造商因芯片成本飙升而受到挤压"
-    },
-    {
-     "title": "Tuple Technologies at DAC 2026",
-     "link": "https://semiwiki.com/semiconductor-services/tuple-technologies/372163-tuple-technologies-at-dac-2026/",
-     "pubDate": "Thu, 13 Aug 2026 17:00:43 +0000",
-     "summary": "At #DAC2026 I met with Vamshi Kothur at Tuple Technologies to see how their cloud infrastructure products help IC design teams get their chip designs to market more quickly without the overhead of big IT and CAD teams. Tuple was founded in 2017 and has grown to about 45 people, headquartered in New ",
-     "source": "SemiWiki",
-     "zh": "Tuple Technologies 参加 DAC 2026"
     },
     {
      "title": "Enabling Robot Operating Systems—Introducing the ADI Trinamic Motor Controller ROS1 Driver",
@@ -678,7 +678,7 @@
      "pubDate": "Sun, 16 Aug 2026 15:53:52 +0000",
      "summary": "Ferrari’s first electric car sold for $40 million at RM Sotheby’s Monterey auction Saturday night. The pre-sale estimate was $1.1 million. That’s more than 36 times the estimate, and roughly 62 times what the Luce costs on Ferrari’s own price list. Every dollar goes to charity.",
      "source": "Electrek",
-     "zh": "首款 Ferrari Luce EV 售价 4000 万美元，是预估价格的 36 倍"
+     "zh": "首辆 Ferrari Luce EV 售价 4000 万美元，是预估价格的 36 倍"
     },
     {
      "title": "Chery-JLR's Freelander 8 tops 10,000 pre-orders in first 48 hours",
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Europe’s Gas Storage Crunch Deepens Ahead of Heating Season",
+     "link": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Storage-Crunch-Deepens-Ahead-of-Heating-Season.html",
+     "pubDate": "Sun, 16 Aug 2026 16:00:00 -0500",
+     "summary": "With less than three full months left until the start of heating season in much of Europe, the issue of gas inventories is becoming increasingly pressing. Current inventory levels are at the lowest in 17 years, and supply available for purchase is tighter than it was back in 2022. Yet Europe needs t",
+     "source": "OilPrice",
+     "zh": "欧洲供暖季来临前天然气储存紧缺加剧"
+    },
+    {
      "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
      "link": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Reap-93-Billion-Windfall-From-the-Iran-War.html",
      "pubDate": "Sun, 16 Aug 2026 14:00:00 -0500",
@@ -927,14 +935,6 @@
      "summary": "The Trump administration is pushing for a homegrown nuclear power renaissance. The United States is still the largest producer of nuclear energy in the world, but that won’t last long without drastic changes in energy policy and investment at the state and federal level. The United States’ nuclear e",
      "source": "OilPrice",
      "zh": "美国仅 7% 的核燃料来自国内"
-    },
-    {
-     "title": "The Battle Over North Sea Oil Is Heating Up Under Britain’s New PM",
-     "link": "https://oilprice.com/Energy/Energy-General/The-Battle-Over-North-Sea-Oil-Is-Heating-Up-Under-Britains-New-PM.html",
-     "pubDate": "Sat, 15 Aug 2026 14:00:00 -0500",
-     "summary": "With a new Prime Minister in office, it is uncertain whether the United Kingdom will continue accelerating its green transition or backtrack on climate pledges to support fossil fuel development. Many have speculated that the new Labour Party PM Andy Burnham will back North Sea oil and gas projects.",
-     "source": "OilPrice",
-     "zh": "英国新首相领导下，北海石油争夺战愈演愈烈"
     },
     {
      "title": "Community-Led Climate Resilience With The Solution Project Help People To Thrive",
@@ -1446,7 +1446,7 @@
      "pubDate": "Fri, 14 Aug 2026 19:45:12 +0000",
      "summary": "For years, the commercial space industry has focused on making spacecraft more affordable and accessible. Today, a new wave of customers want to build their own hardware to gain full ownership of the systems that define their mission. The post The New Middle Ground in Spacecraft Development appeared",
      "source": "Payload",
-     "zh": "航天器开发的新中间地带"
+     "zh": "航天器开发的新中间立场"
     },
     {
      "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
@@ -1761,12 +1761,36 @@
    "total": 18,
    "items": [
     {
+     "title": "从励志神话到猎巫对象：剑桥黑人教授死亡背后的文化战争",
+     "link": "https://www.huxiu.com/article/4883525.html?f=rss",
+     "pubDate": "Mon, 17 Aug 2026 05:06:20 +0800",
+     "summary": "本文来自微信公众号： 魏城看天下 ，作者：英格兰湖区 魏城为FT中文网撰写 他死了。死得突然，死得孤独，死得在一场他无法承受的舆论风暴之后。 他在周五（8月14日）的死亡，成为这几天英国各大媒体的头条，和社交媒体上的热门话题。 英国首相安迪·伯纳姆（Andy Burnham）在电视上说：他的死亡“在许多层面是一个悲剧”。伦敦市长萨迪克·汗（Sadiq Khan）在X（前推特）上写道：“他遭受了令人无法接受的公开围攻和羞辱。” 他叫杰森·阿代（Jason Arday），出生于1985年，曾经是英国剑桥大学800多年历史上最年轻的黑人教授。 阿代的故事，在英国被视为非常励志的故事。阿代小的时候被诊",
+     "source": "虎嗅",
+     "zh": "从励志神话到猎巫对象：剑桥黑人教授死亡背后的文化战争"
+    },
+    {
      "title": "French PM Lecornu will hold a crisis meeting Monday over a June-July cyberattack on France&apos;s tax agency that compromised 678K individual and business accounts (Phil Serafino/Bloomberg)",
      "link": "https://www.techmeme.com/260816/p10#a260816p10",
      "pubDate": "Sun, 16 Aug 2026 16:40:00 -0400",
      "summary": "Phil Serafino / Bloomberg : French PM Lecornu will hold a crisis meeting Monday over a June-July cyberattack on France's tax agency that compromised 678K individual and business accounts &nbsp; &mdash;&nbsp; French Prime Minister Sebastien Lecornu will hold a crisis meeting Monday to respond to the ",
      "source": "Techmeme",
      "zh": "法国总理勒科尔努将于周一就法国税务机构 6 月至 7 月遭受的网络攻击召开危机会议，该攻击导致 67.8 万个个人和企业账户受损（Phil Serafino/彭博社）"
+    },
+    {
+     "title": "The Case Against Formal Verification, 50 Years Later",
+     "link": "https://ivan-gavran.github.io/0-social-processes-paper",
+     "pubDate": "Sun, 16 Aug 2026 20:38:58 +0000",
+     "summary": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper Comments URL: https://news.ycombinator.com/item?id=49323459 Points: 14 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "50 年后反对形式验证的案例"
+    },
+    {
+     "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+     "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+     "pubDate": "Sun, 16 Aug 2026 20:31:16 +0000",
+     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 14 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易"
     },
     {
      "title": "Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May (Bloomberg)",
@@ -1777,10 +1801,18 @@
      "zh": "消息来源：Stripe 已敲定以超过 70 亿美元收购人工智能模型市场 OpenRouter 的交易； OpenRouter 5 月份估值为 $1.3B (彭博社)"
     },
     {
+     "title": "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days",
+     "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
+     "pubDate": "Sun, 16 Aug 2026 20:05:24 +0000",
+     "summary": "Article URL: https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/ Comments URL: https://news.ycombinator.com/item?id=49323157 Points: 45 # Comments: 12",
+     "source": "Hacker News",
+     "zh": "ICE 枪杀了一名记者并将其拘留。他即将满300天"
+    },
+    {
      "title": "The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank",
      "link": "https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/",
      "pubDate": "Sun, 16 Aug 2026 19:41:18 +0000",
-     "summary": "Article URL: https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/ Comments URL: https://news.ycombinator.com/item?id=49322979 Points: 10 # Comments: 5",
+     "summary": "Article URL: https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/ Comments URL: https://news.ycombinator.com/item?id=49322979 Points: 20 # Comments: 15",
      "source": "Hacker News",
      "zh": "特朗普家族的加密货币项目距离成为一家银行又近了一步"
     },
@@ -1788,7 +1820,7 @@
      "title": "Models Are Getting Dumber on Purpose",
      "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
      "pubDate": "Sun, 16 Aug 2026 19:04:26 +0000",
-     "summary": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 113 # Comments: 67",
+     "summary": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 142 # Comments: 90",
      "source": "Hacker News",
      "zh": "模型故意变得更笨"
     },
@@ -1796,25 +1828,9 @@
      "title": "Protobuf has LSP support. You're welcome",
      "link": "https://buf.build/blog/protobuf-lsp",
      "pubDate": "Sun, 16 Aug 2026 18:48:27 +0000",
-     "summary": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 35 # Comments: 9",
+     "summary": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 47 # Comments: 18",
      "source": "Hacker News",
      "zh": "Protobuf 有 LSP 支持。不客气"
-    },
-    {
-     "title": "MathCode, Mathematical Coding Agent",
-     "link": "https://math-ai-org.github.io/mathcode/",
-     "pubDate": "Sun, 16 Aug 2026 18:17:10 +0000",
-     "summary": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 27 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "MathCode，数学编码代理"
-    },
-    {
-     "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-     "link": "https://news.ycombinator.com/item?id=49322107",
-     "pubDate": "Sun, 16 Aug 2026 17:49:46 +0000",
-     "summary": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics ",
-     "source": "Hacker News",
-     "zh": "告诉 HN：当您切换域名服务器时，Cloudflare 会默默地注入其分析"
     },
     {
      "title": "牛来魔幻经济学：563万票房的烂片，带飞了1640万美金的Meme币",
@@ -1831,14 +1847,6 @@
      "summary": "Alex Janin / Wall Street Journal : Patients, families, doctors, and nurses are increasingly turning to AI tools, such as Face2Gene, to help identify rare and hard-to-diagnose diseases &nbsp; &mdash;&nbsp; Patients, doctors and nurses are turning to the technology for help identifying rare and undiag",
      "source": "Techmeme",
      "zh": "患者、家庭、医生和护士越来越多地转向人工智能工具，例如 Face2Gene，以帮助识别罕见和难以诊断的疾病（Alex Janin/华尔街日报）"
-    },
-    {
-     "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-     "link": "https://rvembedded.com/blog_post/12/",
-     "pubDate": "Sun, 16 Aug 2026 17:01:07 +0000",
-     "summary": "Article URL: https://rvembedded.com/blog_post/12/ Comments URL: https://news.ycombinator.com/item?id=49321717 Points: 189 # Comments: 107",
-     "source": "Hacker News",
-     "zh": "第三世界嵌入式工程师回应“他们应该更了解 RISC-V”"
     },
     {
      "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
@@ -1991,14 +1999,6 @@
      "summary": "真正让英伟达紧张的，是有人在系统层面重新定义了算力供给的方式。",
      "source": "钛媒体",
      "zh": "超节点绕行英伟达：国产算力换了一条赛道"
-    },
-    {
-     "title": "A profile of Sony CEO Hiroki Totoki, who aims to transform the company into a business focused on music, movies, video games, and the tech that underpins them (Jason Douglas/Wall Street Journal)",
-     "link": "https://www.techmeme.com/260816/p6#a260816p6",
-     "pubDate": "Sun, 16 Aug 2026 08:45:01 -0400",
-     "summary": "Jason Douglas / Wall Street Journal : A profile of Sony CEO Hiroki Totoki, who aims to transform the company into a business focused on music, movies, video games, and the tech that underpins them &nbsp; &mdash;&nbsp; The company built its empire on electronics.&nbsp; CEO Hiroki Totoki says its futu",
-     "source": "Techmeme",
-     "zh": "索尼首席执行​​官 Hiroki Totoki 的简介，他的目标是将公司转型为一家专注于音乐、电影、视频游戏及其支撑技术的企业（Jason Douglas/华尔街日报）"
     }
    ]
   },
@@ -2118,7 +2118,7 @@
      "pubDate": "Sun, 16 Aug 2026 13:56:02 +0200",
      "summary": "A few days ago, a reference to the Samsung Galaxy Buds On popped up online - buds with an ear-hook design, along with some illustrations showing what they would look like. Now, the same source shows off a potential Sony WH-1000XM6 and Apple AirPods Max 2 rival. Icons for the Galaxy H1 headphones Yes",
      "source": "GSMArena",
-     "zh": "三星可能正在为明年的耳机竞争对手索尼和苹果做好准备"
+     "zh": "三星可能正在为明年的索尼和苹果耳机竞争对手做好准备"
     },
     {
      "title": "5 lost smartphone features that need to make a comeback in 2026",
@@ -2257,44 +2257,12 @@
    "total": 13,
    "items": [
     {
-     "title": "十大券商策略：看好“金秋行情”！科技修复尚未结束，及时部署核心资产",
-     "link": "http://stock.eastmoney.com/news/11791,202608163842565243.html",
-     "pubDate": "Mon, 17 Aug 2026 04:42:13 +0800",
-     "summary": "中信证券 ：回归常态，调整预期 北美AI链经过半个月的修复，涨价链条的赔率明显下降，近期AI叙事上有一些边际变化，但尚不足以带动整个板块重估，还需要耐心等远期新叙事的出现。非美市场出海方面，中欧贸易争端在未来一段时间可能会继续焦灼，压制不少高端制造板块估值，同时临近半年报密集披露期，汇兑损失的影响亦不容小觑。对于纯内需品种，国产算力景气相对优势明显，但考虑到估值对于远期叙事的乐观反映，板块资金情绪或无法独立于北美AI链。 整体而言，不少板块的产业趋势仍然向上，但制约估值扩张的因素在增多，上行节奏可能放缓，市场机会或将更多体现为具备业绩支撑品种的估值修复。后续市场降波的过程也是筹码结构优化、优质",
-     "source": "东方财富股票",
-     "zh": "十大券商策略：看好“金秋行情”！科技修复尚未结束，及时部署核心资产"
-    },
-    {
-     "title": "美国证券交易委员会据悉也在调查马克·沃尔特的交易行为",
-     "link": "http://finance.eastmoney.com/news/1351,202608173842587243.html",
-     "pubDate": "Mon, 17 Aug 2026 04:19:02 +0800",
-     "summary": "美国证券交易委员会据悉也在调查马克·沃尔特的交易行为。马克·沃尔特是洛杉矶道奇队的老板，也刚以创纪录的125亿美元出售了洛杉矶湖人队。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国证券交易委员会据悉也在调查马克·沃尔特的交易行为"
-    },
-    {
-     "title": "土耳其总统埃尔多安谈及与以色列可能爆发的战争：我们谈论的不是战争，而是和平",
-     "link": "http://finance.eastmoney.com/news/1351,202608173842587123.html",
-     "pubDate": "Mon, 17 Aug 2026 04:18:43 +0800",
-     "summary": "土耳其总统埃尔多安谈及与以色列可能爆发的战争：我们谈论的不是战争，而是和平。但如果有人为了战争而非和平向土耳其发起攻击，土耳其将毫不犹豫地投入这场战争，绝不退缩。我把话说得清清楚楚，毫无保留。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "土耳其总统埃尔多安谈及与以色列可能爆发的战争：我们谈论的不是战争，而是和平"
-    },
-    {
-     "title": "小摩CEO警告英国财政大臣：切勿提高银行业税收",
-     "link": "http://finance.eastmoney.com/news/1351,202608173842587039.html",
-     "pubDate": "Mon, 17 Aug 2026 04:13:11 +0800",
-     "summary": "摩根大通 首席执行官杰米·戴蒙周四通过电话与英国财政大臣希利进行了交谈，他警告英国财政大臣，切勿提高 银行 业税收。 摩根大通 首席执行官杰米·戴蒙表示，缺乏竞争力的税收制度可能会削弱伦敦金融中心的地位，目前英国政府正考虑在10月预算案前对 银行 业征收新税。戴蒙称这可能会导致资本和金融就业岗位流出英国。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "小摩CEO警告英国财政大臣：切勿提高银行业税收"
-    },
-    {
-     "title": "近500家公司公布半年报 AI硬件化工能源景气度高",
-     "link": "http://finance.eastmoney.com/news/1354,202608173842583081.html",
-     "pubDate": "Mon, 17 Aug 2026 04:11:30 +0800",
-     "summary": "又到A股上市公司半年报“交卷时刻”。据不完全统计，截至8月16日晚间已有476家上市公司披露半年报，其中2026年上半年净利润为正的公司有420家，占比88.24%；净利润同比增速超100%的公司有114家，同比实现正增长的有323家。 从整体经营规模看，上述公司上半年营业收入合计约3.04万亿元，合计净利润约3801.79亿元。其中，营业收入超过100亿元的公司共39家，超过10亿元的有241家；净利润超过10亿元的有39家，超过1亿元的有200家。 以营业收入排名， 工业富联 以5578.61亿元营收居首，同比增长54.64%； 中国移动 、 宁德时代 、 金龙鱼 、 贵州茅台 等紧随其后",
-     "source": "东方财富股票",
-     "zh": "近500家公司公布半年报 AI硬件化工能源景气度高"
+     "title": "NVIDIA’s $3 Billion Bet on the Power Behind AI",
+     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html",
+     "pubDate": "2026-08-16T20:23:14Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "NVIDIA 斥资 30 亿美元押注人工智能背后的力量"
     },
     {
      "title": "Stellantis’ (STLA) Big Turnaround Bet Hits A North American Snag",
@@ -2303,14 +2271,6 @@
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "Stellantis (STLA) 的大逆转赌注在北美遇到障碍"
-    },
-    {
-     "title": "伊朗议会议长：我们必须达到一种威慑水平，以免陷入战争—和平—战争消耗的恶性循环",
-     "link": "http://finance.eastmoney.com/news/1351,202608173842586932.html",
-     "pubDate": "Mon, 17 Aug 2026 04:04:36 +0800",
-     "summary": "伊朗议会议长：我们必须达到一种威慑水平，以免陷入战争—和平—战争消耗的恶性循环。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗议会议长：我们必须达到一种威慑水平，以免陷入战争—和平—战争消耗的恶性循环"
     },
     {
      "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
@@ -2345,14 +2305,6 @@
      "zh": "小马智行 (PONY) 与优步 (UBER) 联手下更大赌注"
     },
     {
-     "title": "Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax?",
-     "link": "https://finance.yahoo.com/real-estate/articles/drake-told-23-old-streamer-191500099.html",
-     "pubDate": "2026-08-16T19:15:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "德雷克 (Drake) 告诉一位 23 岁的主播，在相亲节目中挑选了她妈妈后，他“很乐意”给她买一套房子。谁缴税？"
-    },
-    {
      "title": "U.S. air-conditioner shipments jump in June as H1 growth remains modest",
      "link": "https://seekingalpha.com/news/4633613-u-s-air-conditioner-shipments-jump-in-june-as-h1-growth-remains-modest?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 16 Aug 2026 15:05:11 -0400",
@@ -2382,7 +2334,7 @@
      "pubDate": "Sun, 16 Aug 2026 18:15:00 GMT",
      "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
      "source": "MarketWatch",
-     "zh": "我现在可以领取我丈夫社会保障金的 50%，并在 70 岁时转到更高的福利金吗？"
+     "zh": "我现在可以领取我丈夫社会保障金的 50%，并在 70 岁时转用更高的福利吗？"
     },
     {
      "title": "States rethink AI data-center incentives as power costs, public backlash grow",
@@ -2495,6 +2447,54 @@
      "summary": "It’s not just about eating well. It’s about cooking at home and sharing those meals with friends and family.",
      "source": "MarketWatch",
      "zh": "地中海饮食是最好的。这就是美国人为此苦苦挣扎的原因。"
+    },
+    {
+     "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+     "link": "https://wallstreetcn.com/articles/3779545",
+     "pubDate": "Sun, 16 Aug 2026 19:40:41 +0800",
+     "summary": "英伟达将GPU打包成金融资产的宏大计划，正面临来自白宫内部的风险预警。 近日，特朗普总统科学与技术顾问委员会成员David Sacks在\"All In Podcast\"节目中表示，英伟达与投资机构合作、将GPU打造为可融资生息资产的计划，其最大威胁并非需求不足，而是算力供给过剩——一旦出现\"暗GPU\"（dark GPU）局面，将对整个AI基础设施投资链条造成系统性冲击。 Sacks的表态，是迄今为止来自特朗普政府圈子内部对这一AI融资热潮最直接的风险提示。 什么是“暗GPU”风险 Sacks用互联网泡沫时代的\"暗光纤\"做类比，解释了他所担忧的场景。 2000年代初，电信公司大规模铺设光纤，结果",
+     "source": "华尔街见闻",
+     "zh": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险"
+    },
+    {
+     "title": "Ukraine presses drone attacks on Moscow and Russian logistics",
+     "link": "https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6=1",
+     "pubDate": "Sun, 16 Aug 2026 11:34:01 GMT",
+     "summary": "Kyiv launches more than 600 drones at enemy capital in one of its largest assaults of the summer",
+     "source": "Financial Times",
+     "zh": "乌克兰对莫斯科和俄罗斯后勤系统发动无人机袭击"
+    },
+    {
+     "title": "出路在哪里？多国央行陷入“救火-加杠杆-再救火”的循环困境",
+     "link": "https://wallstreetcn.com/articles/3779543",
+     "pubDate": "Sun, 16 Aug 2026 19:21:44 +0800",
+     "summary": "各国央行正面临一个棘手的悖论：为防止市场崩溃而设计的救助工具，正在制造新的风险。8月15日，据《华尔街日报》报道，英格兰银行首席经济学家Huw Pill等政策制定者已开始公开表达担忧——反危机机制不仅推高了杠杆，还可能在悄然干扰货币政策的传导。 Pill将这一困境形容为“打地鼠”：“讽刺的是，脆弱性恰恰是由那些为降低脆弱性而引入的机制所制造的。” 目前，这一循环已进入新一轮的杠杆积累阶段，而各方尚未找到有效的破局之道。 角色转变：从“最后贷款人”到“最后做市商” 央行的传统职能是“最后贷款人”——在银行挤兑时提供流动性支持。但2008年金融危机和2020年新冠疫情期间，美联储、英格兰银行等主要",
+     "source": "华尔街见闻",
+     "zh": "出路在哪里？多国央行陷入“救火-加杠杆-再救火”的循环困境"
+    },
+    {
+     "title": "How economics is changing",
+     "link": "https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60?syn-25a6b1a6=1",
+     "pubDate": "Sun, 16 Aug 2026 11:00:02 GMT",
+     "summary": "The subject is becoming more inventive and empirical, but questions about reproducibility and AI abound",
+     "source": "Financial Times",
+     "zh": "经济正在发生怎样的变化"
+    },
+    {
+     "title": "2026年暑期档票房破100亿元",
+     "link": "http://www.eeo.com.cn/2026/0816/1000700.shtml",
+     "pubDate": "Sun, 16 Aug 2026 18:26:25 +0800",
+     "summary": "北京商报讯（记者 卢扬 实习记者 张继文）8月16日，据灯塔专业版实时数据，2026年暑期档（6月1日-8月31日）档期总票房（含预售）突破100亿元。电影《功夫女足》《八仙！》《蜘蛛侠：崭新之日》《欢迎来龙餐馆》《给阿嬷的情书》暂列档期票房前5名。",
+     "source": "经济观察网",
+     "zh": "2026年暑期档票房破100亿元"
+    },
+    {
+     "title": "英伟达拟向软银旗下SB Energy投资30亿美元，押注OpenAI俄亥俄数据中心项目",
+     "link": "https://wallstreetcn.com/articles/3779541",
+     "pubDate": "Sun, 16 Aug 2026 18:13:15 +0800",
+     "summary": "英伟达正将自身财务资源深度嵌入AI基础设施建设链条，这一次的目标是软银旗下的SB Energy。 8月15日，据The Information报道，英伟达正在与SB Energy洽谈，拟投资最高30亿美元。SB Energy是软银集团旗下子公司，正主导为OpenAI开发一个大型俄亥俄数据中心项目。英伟达、SB Energy均未就此置评。 这笔投资是更大谈判框架的组成部分。据知情人士透露，英伟达正与OpenAI及SB Energy就为俄亥俄数据中心园区提供约1000亿美元信用支持进行磋商，而30亿美元股权投资即嵌套其中。 两步走：签约时投一半，IPO时投另一半 据The Information援",
+     "source": "华尔街见闻",
+     "zh": "英伟达拟向软银旗下SB Energy投资30亿美元，押注OpenAI俄亥俄数据中心项目"
     }
    ]
   },

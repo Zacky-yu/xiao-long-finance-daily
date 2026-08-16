@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/17 05:20:13",
+ "generated_at": "2026/8/17 05:45:23",
  "recent_days": 7,
  "industries": [
   {
@@ -138,14 +138,6 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX 正式完成 Cursor 收购"
     },
     {
-     "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
-     "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
-     "pubDate": "Sat, 15 Aug 2026 11:28:29 +0000",
-     "summary": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ",
-     "source": "MarkTechPost",
-     "zh": "微调工具调用 LLM：使用 XYZ-Aquila-SFT 和 Qwen3 的完整指南"
-    },
-    {
      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
      "link": "https://www.qbitai.com/2026/08/473876.html",
      "pubDate": "Sat, 15 Aug 2026 06:42:23 +0000",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜心缘 智东西8月14日报道，刚刚，在百度AI Day开放日上，百度文库网盘联合 官宣通用智能体GenFlow的中文名——库库AI ，并推出了该智能体的全新独立入口，与百度系列办公产品完成了深度融合。 库库AI（原GenFlow）自2025年4月上线以来，经过不断迭代，已然在文库、网盘等产品中全端通用，可一站式完成 Office三件套 等复杂办公任务，以及 AI视频、AI海报等跨模态文件生成 。 官方数据显示，截至目前， 库库AI的AI办公业务月活已突破2500万 ，百度文库此前还在国家工信安全中心Office Agent测评中",
      "source": "智东西",
      "zh": "刚刚！百度甩出AI办公大招，库库AI双端上线，月活超2500万"
+    },
+    {
+     "title": "OpenAI被曝ARR破2000亿，官宣新任首席营收官",
+     "link": "https://zhidx.com/p/585093.html",
+     "pubDate": "Fri, 14 Aug 2026 18:30:12 +0800",
+     "summary": "智东西 编译 | 茄子 编辑 | 程茜 智东西8月14日消息，今天，外媒彭博社援引知情人士报道，按照当前经营表现推算，OpenAI年化营收已超过400亿美元（约合人民币2708亿元），较2025年末的200多亿美元近乎翻倍。同日，OpenAI宣布任命谷歌旗下网络安全公司Wiz原总裁兼首席运营官达利·拉吉奇（Dali Rajic）为首席营收官，负责管理OpenAI全球营收体系。 ▲OpenAI官宣新任首席营收官达利·拉吉奇（图源：OpenAI） OpenAI首席营收官一职设立不到一年便迎来换帅。2025年12月，时任Salesforce旗下企业协同办公工具Slack CEO的丹妮丝·德雷瑟（De",
+     "source": "智东西",
+     "zh": "OpenAI被曝ARR破2000亿，官宣新任首席营收官"
     }
    ]
   },
@@ -359,7 +359,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 14 Aug 2026 15:00:13 +0000",
      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transistors while enabling strong gate control. Silicon transistors are approaching physical limits that make ea",
      "source": "SemiWiki",
-     "zh": "台积电的 0.42 纳米突破可能推动晶体管超越硅"
+     "zh": "台积电的 0.42 纳米突破可以推动晶体管超越硅"
     },
     {
      "title": "Google joins OpenROAD EDA initiative",
@@ -679,7 +679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 16 Aug 2026 15:53:52 +0000",
      "summary": "Ferrari’s first electric car sold for $40 million at RM Sotheby’s Monterey auction Saturday night. The pre-sale estimate was $1.1 million. That’s more than 36 times the estimate, and roughly 62 times what the Luce costs on Ferrari’s own price list. Every dollar goes to charity.",
      "source": "Electrek",
-     "zh": "首辆 Ferrari Luce EV 售价 4000 万美元，是预估价格的 36 倍"
+     "zh": "首款 Ferrari Luce EV 售价 4000 万美元，是预估价格的 36 倍"
     },
     {
      "title": "Chery-JLR's Freelander 8 tops 10,000 pre-orders in first 48 hours",
@@ -1447,7 +1447,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 14 Aug 2026 19:45:12 +0000",
      "summary": "For years, the commercial space industry has focused on making spacecraft more affordable and accessible. Today, a new wave of customers want to build their own hardware to gain full ownership of the systems that define their mission. The post The New Middle Ground in Spacecraft Development appeared",
      "source": "Payload",
-     "zh": "航天器开发的新中间立场"
+     "zh": "航天器开发的新中间地带"
     },
     {
      "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
@@ -1762,12 +1762,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+     "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+     "pubDate": "Sun, 16 Aug 2026 21:07:10 +0000",
+     "summary": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额"
+    },
+    {
      "title": "从励志神话到猎巫对象：剑桥黑人教授死亡背后的文化战争",
      "link": "https://www.huxiu.com/article/4883525.html?f=rss",
      "pubDate": "Mon, 17 Aug 2026 05:06:20 +0800",
      "summary": "本文来自微信公众号： 魏城看天下 ，作者：英格兰湖区 魏城为FT中文网撰写 他死了。死得突然，死得孤独，死得在一场他无法承受的舆论风暴之后。 他在周五（8月14日）的死亡，成为这几天英国各大媒体的头条，和社交媒体上的热门话题。 英国首相安迪·伯纳姆（Andy Burnham）在电视上说：他的死亡“在许多层面是一个悲剧”。伦敦市长萨迪克·汗（Sadiq Khan）在X（前推特）上写道：“他遭受了令人无法接受的公开围攻和羞辱。” 他叫杰森·阿代（Jason Arday），出生于1985年，曾经是英国剑桥大学800多年历史上最年轻的黑人教授。 阿代的故事，在英国被视为非常励志的故事。阿代小的时候被诊",
      "source": "虎嗅",
      "zh": "从励志神话到猎巫对象：剑桥黑人教授死亡背后的文化战争"
+    },
+    {
+     "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+     "link": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
+     "pubDate": "Sun, 16 Aug 2026 21:00:25 +0000",
+     "summary": "Article URL: https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/ Comments URL: https://news.ycombinator.com/item?id=49323620 Points: 8 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测"
     },
     {
      "title": "French PM Lecornu will hold a crisis meeting Monday over a June-July cyberattack on France&apos;s tax agency that compromised 678K individual and business accounts (Phil Serafino/Bloomberg)",
@@ -1781,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "The Case Against Formal Verification, 50 Years Later",
      "link": "https://ivan-gavran.github.io/0-social-processes-paper",
      "pubDate": "Sun, 16 Aug 2026 20:38:58 +0000",
-     "summary": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper Comments URL: https://news.ycombinator.com/item?id=49323459 Points: 14 # Comments: 4",
+     "summary": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper Comments URL: https://news.ycombinator.com/item?id=49323459 Points: 29 # Comments: 20",
      "source": "Hacker News",
      "zh": "50 年后反对形式验证的案例"
     },
@@ -1789,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
      "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
      "pubDate": "Sun, 16 Aug 2026 20:31:16 +0000",
-     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 14 # Comments: 6",
+     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 36 # Comments: 24",
      "source": "Hacker News",
      "zh": "Stripe 完成 70 亿美元收购人工智能公司 OpenRouter 的交易"
     },
@@ -1802,26 +1818,10 @@ window.INDUSTRY_DATA = {
      "zh": "消息来源：Stripe 已敲定以超过 70 亿美元收购人工智能模型市场 OpenRouter 的交易； OpenRouter 5 月份估值为 $1.3B (彭博社)"
     },
     {
-     "title": "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days",
-     "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
-     "pubDate": "Sun, 16 Aug 2026 20:05:24 +0000",
-     "summary": "Article URL: https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/ Comments URL: https://news.ycombinator.com/item?id=49323157 Points: 45 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "ICE 枪杀了一名记者并将其拘留。他即将满300天"
-    },
-    {
-     "title": "The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank",
-     "link": "https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/",
-     "pubDate": "Sun, 16 Aug 2026 19:41:18 +0000",
-     "summary": "Article URL: https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/ Comments URL: https://news.ycombinator.com/item?id=49322979 Points: 20 # Comments: 15",
-     "source": "Hacker News",
-     "zh": "特朗普家族的加密货币项目距离成为一家银行又近了一步"
-    },
-    {
      "title": "Models Are Getting Dumber on Purpose",
      "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
      "pubDate": "Sun, 16 Aug 2026 19:04:26 +0000",
-     "summary": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 142 # Comments: 90",
+     "summary": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 167 # Comments: 106",
      "source": "Hacker News",
      "zh": "模型故意变得更笨"
     },
@@ -1829,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Protobuf has LSP support. You're welcome",
      "link": "https://buf.build/blog/protobuf-lsp",
      "pubDate": "Sun, 16 Aug 2026 18:48:27 +0000",
-     "summary": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 47 # Comments: 18",
+     "summary": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 64 # Comments: 34",
      "source": "Hacker News",
      "zh": "Protobuf 有 LSP 支持。不客气"
     },
@@ -2010,6 +2010,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Turn on these settings to protect your Android phone from theft",
+     "link": "https://www.engadget.com/2236816/turn-on-settings-protect-android-phone-from-theft/",
+     "pubDate": "Sun, 16 Aug 2026 21:30:00 +0000",
+     "summary": "Google has added some smart theft-detection features to Android in recent years.",
+     "source": "Engadget",
+     "zh": "打开这些设置可保护您的 Android 手机免遭盗窃"
+    },
+    {
      "title": "Is buying a OnePlus phone in 2026 still a good idea?",
      "link": "https://www.engadget.com/2236810/is-buying-oneplus-phone-still-good-idea-in-2026/",
      "pubDate": "Sun, 16 Aug 2026 20:30:00 +0000",
@@ -2066,14 +2074,6 @@ window.INDUSTRY_DATA = {
      "zh": "Android Auto 与 Apple CarPlay：哪些功能使它们与众不同"
     },
     {
-     "title": "How to lease an iPhone instead of buying one",
-     "link": "https://www.engadget.com/2234247/how-to-lease-iphone-instead-of-buying/",
-     "pubDate": "Sun, 16 Aug 2026 16:30:00 +0000",
-     "summary": "The new Apple Upgrade program makes the monthly cost of an iPhone even cheaper than before.",
-     "source": "Engadget",
-     "zh": "如何租赁 iPhone 而不是购买 iPhone"
-    },
-    {
      "title": "Weekly poll: which Google Pixel 11 model would you buy?",
      "link": "https://www.gsmarena.com/weekly_poll_which_google_pixel_11_model_would_you_buy-news-74157.php",
      "pubDate": "Sun, 16 Aug 2026 18:03:02 +0200",
@@ -2119,7 +2119,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 16 Aug 2026 13:56:02 +0200",
      "summary": "A few days ago, a reference to the Samsung Galaxy Buds On popped up online - buds with an ear-hook design, along with some illustrations showing what they would look like. Now, the same source shows off a potential Sony WH-1000XM6 and Apple AirPods Max 2 rival. Icons for the Galaxy H1 headphones Yes",
      "source": "GSMArena",
-     "zh": "三星可能正在为明年的索尼和苹果耳机竞争对手做好准备"
+     "zh": "三星可能正在为明年的耳机竞争对手索尼和苹果做好准备"
     },
     {
      "title": "5 lost smartphone features that need to make a comeback in 2026",
@@ -2258,6 +2258,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Yalla Q2 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4633328-yalla-q2-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 16 Aug 2026 17:35:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Yalla 第二季度收益预览"
+    },
+    {
+     "title": "Flexsteel Q4 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4633330-flexsteel-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 16 Aug 2026 17:35:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Flexsteel 2026 年第四季度收益预览"
+    },
+    {
+     "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
+     "link": "http://finance.eastmoney.com/news/1351,202608173842588939.html",
+     "pubDate": "Mon, 17 Aug 2026 05:33:31 +0800",
+     "summary": "财联社8月17日电，美国总统特朗普在其社交媒体平台“真实社交”上发文，对沙特阿拉伯、土耳其和巴基斯坦近期签署共同防务协议表示欢迎。特朗普表示，这一协议表明中东地区正在加强团结，各国将能够以“更加切实有效的方式”保卫自身。他同时向沙特、土耳其和巴基斯坦三国领导人表示祝贺，并称这一协议是“大胆而重要的第一步”。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "特朗普：欢迎沙土巴三国签署共同防务协议"
+    },
+    {
+     "title": "周一（8月17日）重点关注财经事件和经济数据",
+     "link": "http://finance.eastmoney.com/news/1351,202608173842588855.html",
+     "pubDate": "Mon, 17 Aug 2026 05:30:36 +0800",
+     "summary": "① 15:00 国家统计局将公布7月工业增加值、固定资产投资、社零等经济数据以及70个大中城市商品住宅销售价格指数月度报告。 ② 20:30 加拿大7月CPI ③ 20:30 美国8月纽约联储制造业指数 ④ 22:00 美国8月NAHB房产市场指数 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "周一（8月17日）重点关注财经事件和经济数据"
+    },
+    {
+     "title": "融资大涨 IPO提速 商业航天企业竞逐行业第一股",
+     "link": "http://finance.eastmoney.com/news/1348,202608173842588771.html",
+     "pubDate": "Mon, 17 Aug 2026 05:27:44 +0800",
+     "summary": "&nbsp; 2026年上半年，中国 商业航天 市场热度维持在高位，融资逐步向头部企业集中。更多企业将IPO提上日程，“ 商业航天 第一股”的争夺进入新阶段。 对IPO进程较快的几家商业火箭企业而言，全力突破可回收复用技术，还是平衡商业和研发，是一个重要选择。在国家队已实现技术先行突破，行业普遍预期2026年民营火箭企业有望完成火箭回收的背景下，技术优势能否成为“ 商业航天 第一股”的决胜手，备受市场关注。 融资同比增长273% 2026年上半年，中国商业航天一级市场的融资体量出现明显跃升。 据投中嘉川CVSource数据，上半年商业航天领域已披露融资总额达127.9亿元、共79笔，较去年同期",
+     "source": "东方财富股票",
+     "zh": "融资大涨 IPO提速 商业航天企业竞逐行业第一股"
+    },
+    {
+     "title": "元立光电、鑫巨宏本周IPO上会 北交所光产业链“小巨人” 集群加速成型",
+     "link": "http://finance.eastmoney.com/news/1349,202608173842588613.html",
+     "pubDate": "Mon, 17 Aug 2026 05:25:44 +0800",
+     "summary": "北京证券交易所光产业链版图有望再添新军。北交所上市委会议公告显示，东莞市元立 光电股份 有限公司将于8月20日上会，无锡鑫巨宏智能科技股份有限公司则将于8月21日上会。两家国家级 专精特新 “小巨人”企业同期闯关，加上已挂牌上市的 蘅东光 、提交注册的宇特光电以及申报受理的云岭光电，折射出北交所对光产业链“小而精”企业的集聚效应正持续强化。 两家“小巨人”待上会 招股书显示，元立光电成立于2010年，自成立以来深耕光学领域，专注于导光板及Mini- LED 光学产品的研发、生产与销售，在全球车载显示、平板及笔记本电脑应用领域拥有较高市场占有率，已与 京东 方、国显科技、 翰博高新 、 联创光电",
+     "source": "东方财富股票",
+     "zh": "元立光电、鑫巨宏本周IPO上会 北交所光产业链“小巨人” 集群加速成型"
+    },
+    {
+     "title": "特朗普：我询问了韩国总统，他们是否愿意加入我们，共同推动解除伊朗的核武装，他的回答是不",
+     "link": "http://finance.eastmoney.com/news/1351,202608173842588415.html",
+     "pubDate": "Mon, 17 Aug 2026 05:24:35 +0800",
+     "summary": "特朗普：我询问了韩国总统，他们是否愿意加入我们，共同推动解除伊朗的核武装，他的回答是不。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普：我询问了韩国总统，他们是否愿意加入我们，共同推动解除伊朗的核武装，他的回答是不"
+    },
+    {
+     "title": "碳定价机制持续完善 碳市场改革提速赋能产业转型",
+     "link": "http://finance.eastmoney.com/news/1348,202608173842588550.html",
+     "pubDate": "Mon, 17 Aug 2026 05:24:13 +0800",
+     "summary": "随着《上海市2026年度碳排放配额分配方案》印发、深圳开展2025年度碳排放配额首场有偿竞价发放工作，叠加生态环境部明确全国碳市场将扩容至石化、化工行业，我国碳市场制度建设进入加速落地阶段。从地方层面提高纳管门槛、探索有偿分配模式，到全国范围扩大行业覆盖、夯实核算监管基础，碳定价信号持续释放，正从成本端、资产价值及行业投资方向三个维度，对高耗能上市公司产生深远影响。业内人士认为，“十五五”时期碳约束由软变硬，将加速高耗能行业内部分化，碳 资产管理 能力逐步成为上市公司重要经营要素。 有偿机制夯实碳定价基础 上海、深圳两大碳排放权交易试点地区近期密集出台规则，通过提高准入门槛、开展配额有偿竞价发",
+     "source": "东方财富股票",
+     "zh": "碳定价机制持续完善 碳市场改革提速赋能产业转型"
+    },
+    {
      "title": "NVIDIA’s $3 Billion Bet on the Power Behind AI",
      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html",
      "pubDate": "2026-08-16T20:23:14Z",
@@ -2335,15 +2399,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 16 Aug 2026 18:15:00 GMT",
      "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
      "source": "MarketWatch",
-     "zh": "我现在可以领取我丈夫社会保障金的 50%，并在 70 岁时转用更高的福利吗？"
-    },
-    {
-     "title": "States rethink AI data-center incentives as power costs, public backlash grow",
-     "link": "https://seekingalpha.com/news/4633608-states-rethink-ai-data-center-incentives-as-power-costs-public-backlash-grow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 16 Aug 2026 13:59:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "随着电力成本和公众强烈反对，各州重新考虑人工智能数据中心的激励措施"
+     "zh": "我现在可以领取我丈夫社会保障金的 50%，并在 70 岁时转到更高的福利金吗？"
     },
     {
      "title": "California billionaires add millions to bolster fight against wealth tax",
@@ -2352,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tech owner Chris Larsen and venture capitalist John Doerr step up efforts to kill proposed 5% levy on the rich",
      "source": "Financial Times",
      "zh": "加州亿万富翁增加数百万美元以支持反对财富税"
-    },
-    {
-     "title": "Top global stories last week: JD.com, SK Hynix among notable names",
-     "link": "https://seekingalpha.com/news/4633611-top-global-stories-last-week-jdcom-sk-hynix-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 16 Aug 2026 13:46:28 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "上周全球热门故事：京东、SK 海力士等知名企业"
     },
     {
      "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
@@ -2376,38 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "“We were advised to return the bonus and take out a home-equity loan.”",
      "source": "MarketWatch",
      "zh": "“这是一把双刃剑”：我丈夫获得了 42,000 美元的奖金。它会消除我们的《平价医疗法案》补贴吗？"
-    },
-    {
-     "title": "前7个月全国铁路发送旅客28亿人次 创历史同期新高",
-     "link": "http://www.eeo.com.cn/2026/0817/1000764.shtml",
-     "pubDate": "Mon, 17 Aug 2026 00:52:22 +0800",
-     "summary": "8月15日，中国国家铁路集团有限公司（以下简称“国铁集团”）发布的数据显示，今年以来，铁路部门积极适应旅客多样化的出行需求，精心组织旅客运输，持续丰富客运产品供给，不断优化站车服务品质，保障了旅客平安便捷温馨出行，今年前7个月，全国铁路发送旅客28亿人次、同比增长4.1%，再创历史同期新高。 “铁路客流数据持续走高，印证了全社会人口流动活跃度大幅提升。”苏商银行特约研究员付一夫在接受《证券日报》记者...",
-     "source": "经济观察网",
-     "zh": "前7个月全国铁路发送旅客28亿人次 创历史同期新高"
-    },
-    {
-     "title": "二季度商业银行净息差环比微升 自2022年以来，商业银行净息差首次实现单季度环比增长",
-     "link": "http://www.eeo.com.cn/2026/0817/1000763.shtml",
-     "pubDate": "Mon, 17 Aug 2026 00:52:11 +0800",
-     "summary": "8月14日，国家金融监督管理总局官网披露2026年二季度银行业保险业主要监管指标数据情况。整体来看，我国银行业总资产保持增长，截至2026年二季度末，我国银行业金融机构本外币资产总额498万亿元，同比增长6.6%。 在净息差方面，今年二季度商业银行净息差为1.41%，较今年一季度增长0.01个百分点。值得一提的是，这是自2022年以来，商业银行净息差首次实现单季度环比增长。 具体来看，二季度，大型商业银行、城市商业...",
-     "source": "经济观察网",
-     "zh": "二季度商业银行净息差环比微升 自2022年以来，商业银行净息差首次实现单季度环比增长"
-    },
-    {
-     "title": "金融业深度运用AI智能体要闯过四关",
-     "link": "http://www.eeo.com.cn/2026/0817/1000762.shtml",
-     "pubDate": "Mon, 17 Aug 2026 00:52:09 +0800",
-     "summary": "■田鹏 近日，上海市经济和信息化委员会印发的《上海市软件和信息服务业发展“十五五”规划》提出，构建AI（人工智能）金融创新产品矩阵，聚焦金融产业核心业务场景，研发金融行业大模型，发展智能投顾智能体、AI合规风控系统等创新产品，形成“决策—交易—风控—管理”一体化能力链。 金融行业推广AI智能体具备得天独厚的条件，一方面，行业多数业务流程标准化程度较高，长期积淀海量规范的结构化数据；另一方面...",
-     "source": "经济观察网",
-     "zh": "金融业深度运用AI智能体要闯过四关"
-    },
-    {
-     "title": "黄金投资切忌盲目追高",
-     "link": "http://www.eeo.com.cn/2026/0817/1000761.shtml",
-     "pubDate": "Mon, 17 Aug 2026 00:52:08 +0800",
-     "summary": "■孟珂 国际黄金价格在8月份以来出现反弹，最高触及4400美元/盎司。截至8月16日，国际现货黄金价格为4375.29美元/盎司，较7月底收盘价上涨8.27%。 在国际黄金价格反弹的背景下，黄金ETF作为便捷的黄金投资工具，成为资金追逐的对象。截至8月16日，国内14只黄金主题ETF规模合计2715亿元，近一周增长721亿元，其中华安黄金ETF近一周流入50.13亿元，基金规模重返千亿元级别。国内品牌金饰价格同步走高，不少品牌足金饰...",
-     "source": "经济观察网",
-     "zh": "黄金投资切忌盲目追高"
     },
     {
      "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
@@ -2474,28 +2490,12 @@ window.INDUSTRY_DATA = {
      "zh": "出路在哪里？多国央行陷入“救火-加杠杆-再救火”的循环困境"
     },
     {
-     "title": "How economics is changing",
-     "link": "https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60?syn-25a6b1a6=1",
-     "pubDate": "Sun, 16 Aug 2026 11:00:02 GMT",
-     "summary": "The subject is becoming more inventive and empirical, but questions about reproducibility and AI abound",
-     "source": "Financial Times",
-     "zh": "经济正在发生怎样的变化"
-    },
-    {
-     "title": "2026年暑期档票房破100亿元",
-     "link": "http://www.eeo.com.cn/2026/0816/1000700.shtml",
-     "pubDate": "Sun, 16 Aug 2026 18:26:25 +0800",
-     "summary": "北京商报讯（记者 卢扬 实习记者 张继文）8月16日，据灯塔专业版实时数据，2026年暑期档（6月1日-8月31日）档期总票房（含预售）突破100亿元。电影《功夫女足》《八仙！》《蜘蛛侠：崭新之日》《欢迎来龙餐馆》《给阿嬷的情书》暂列档期票房前5名。",
-     "source": "经济观察网",
-     "zh": "2026年暑期档票房破100亿元"
-    },
-    {
-     "title": "英伟达拟向软银旗下SB Energy投资30亿美元，押注OpenAI俄亥俄数据中心项目",
-     "link": "https://wallstreetcn.com/articles/3779541",
-     "pubDate": "Sun, 16 Aug 2026 18:13:15 +0800",
-     "summary": "英伟达正将自身财务资源深度嵌入AI基础设施建设链条，这一次的目标是软银旗下的SB Energy。 8月15日，据The Information报道，英伟达正在与SB Energy洽谈，拟投资最高30亿美元。SB Energy是软银集团旗下子公司，正主导为OpenAI开发一个大型俄亥俄数据中心项目。英伟达、SB Energy均未就此置评。 这笔投资是更大谈判框架的组成部分。据知情人士透露，英伟达正与OpenAI及SB Energy就为俄亥俄数据中心园区提供约1000亿美元信用支持进行磋商，而30亿美元股权投资即嵌套其中。 两步走：签约时投一半，IPO时投另一半 据The Information援",
-     "source": "华尔街见闻",
-     "zh": "英伟达拟向软银旗下SB Energy投资30亿美元，押注OpenAI俄亥俄数据中心项目"
+     "title": "十大机构论市：超跌反弹一定会二次探底吗？能否走出V型反转？",
+     "link": "http://finance.eastmoney.com/news/1345,202608163842522686.html",
+     "pubDate": "Sun, 16 Aug 2026 19:00:05 +0800",
+     "summary": "本周沪指下跌0.33%，深证成指上涨0.30%，创业板指上涨1.77%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 广发策略：超跌反弹一定会“二次探底”吗？能否走出“V型反转”？ 市场能否流畅的走出“V型反转”，主要取决于2个因素：第一，估值/ ERP/股债收益差等赔率指标，是否意味着权益市场已足够便宜、具备足够的吸引力。20年、22年、25年的案例中，ERP都到达或接近+2X标准差，意味着短期风险释放已较为充分，此时市场有自发长钱、抄底资金流入。第二，基本面或流动性层面是否发生了比较重磅的正面催化，无论是宏观流动性、还是股市流动性。基本面包括经济及政策层面重大变化（",
+     "source": "东方财富资讯",
+     "zh": "十大机构论市：超跌反弹一定会二次探底吗？能否走出V型反转？"
     }
    ]
   },

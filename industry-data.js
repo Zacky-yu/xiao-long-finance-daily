@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/16 18:23:05",
+ "generated_at": "2026/8/16 18:49:28",
  "recent_days": 7,
  "industries": [
   {
@@ -88,6 +88,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
      "source": "TechCrunch AI",
      "zh": "SpaceX 正式完成 Cursor 收购"
+    },
+    {
+     "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
+     "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
+     "pubDate": "Sat, 15 Aug 2026 11:28:29 +0000",
+     "summary": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ",
+     "source": "MarkTechPost",
+     "zh": "微调工具调用 LLM：使用 XYZ-Aquila-SFT 和 Qwen3 的完整指南"
     },
     {
      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
@@ -234,20 +242,12 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI被曝ARR破2000亿，官宣新任首席营收官"
     },
     {
-     "title": "刚刚，GLM-5.3来了！拿下多个开源SOTA，我用它“魔改”DeepSeek Harness",
-     "link": "https://zhidx.com/p/584913.html",
-     "pubDate": "Fri, 14 Aug 2026 14:30:57 +0800",
-     "summary": "智东西 作者 | 陈骏达 编辑 | 心缘 智东西8月14日报道，就在刚刚，智谱发布了其 最新一代旗舰模型GLM-5.3 ，并宣布模型将 在两周内开源 。这是一个拥有7430亿个参数的模型，和此前的GLM模型一样主打编程。 在多项主流基准测试中，GLM-5.3位居所有已开源或即将开源模型中的第一；其在编程与智能体任务上的能力， 已逼近Claude Fable 5、GPT-5.6 Sol等海外顶尖模型 。 与国内模型相比，GLM-5.3与Kimi K3 在编程和智能体领域互有胜负 ，并在绝大部分基准测试中领先DeepSeek-V4-Pro-0813。而在 网络安全能力方面，GLM-5.3则展现出一",
-     "source": "智东西",
-     "zh": "刚刚，GLM-5.3来了！拿下多个开源SOTA，我用它“魔改”DeepSeek Harness"
-    },
-    {
-     "title": "曝苹果已与阿里合作训练大模型",
-     "link": "https://zhidx.com/p/585097.html",
-     "pubDate": "Fri, 14 Aug 2026 14:30:40 +0800",
-     "summary": "智东西 作者 | 王涵 编辑 | 心缘 智东西8月14日消息，据路透社援引三位知情人士爆料，苹果已和阿里巴巴展开合作，联合训练一款 专门面向中国市场的大语言模型 。 就在8月8日，苹果悄然更新Mac使用手册，新增《在Mac上配合Apple智能使用千问》相关章节，这也是苹果 首次对外官方披露 国行Apple智能的合作细节，不过该章节后续已被删除。（ 重磅！苹果国行AI突然发布，首次官宣牵手阿里，Mac用上千问了 ） 在此之前，智东西从阿里巴巴方面了解到，通义千问的AI能力将接入Apple智能，为国内iOS、iPadOS、macOS以及visionOS用户提供AI服务。用户无需跳转其他应用，便可 ",
-     "source": "智东西",
-     "zh": "曝苹果已与阿里合作训练大模型"
+     "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
+     "link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
+     "pubDate": "Fri, 14 Aug 2026 08:03:22 +0000",
+     "summary": "Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environments, more environment types, longer training. Terminal-Bench 3.0 moves from 4.6 to 28.3, and DeepSWE v1.1 from 46.2 to 66.9",
+     "source": "MarkTechPost",
+     "zh": "Z.ai 发布 GLM-5.3，无需重新训练基础模型：更擅长复杂编码和长期任务"
     }
    ]
   },
@@ -314,22 +314,6 @@ window.INDUSTRY_DATA = {
      "zh": "共同地球项目旨在消除芯片供应链瓶颈"
     },
     {
-     "title": "How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/how-to-develop-edge-ai-on-a-raspberry-pi-with-litert-and-gemma-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 15:54:30 +0000",
-     "summary": "This is an interesting one from Google's Developer blog: an example project on Edge AI using a Raspberry Pi along with LiteRT and Gemma. The post How To: Develop Edge AI on a Raspberry Pi with LiteRT and Gemma appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "如何：使用 LiteRT 和 Gemma 在 Raspberry Pi 上开发边缘 AI"
-    },
-    {
-     "title": "Standards and AI will shape-shift EDA",
-     "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/standards-and-ai-will-shape-shift-eda-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 15:52:17 +0000",
-     "summary": "As AI and machine learning are getting more and more integrated into the EDA workflows, there are new challenges emerging around areas such as interoperability, data exchange, trust, and reproducibility. […] The post Standards and AI will shape-shift EDA appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "标准和人工智能将改变 EDA"
-    },
-    {
      "title": "An Introduction to Software Prototyping: Unlocking SoC Software Verification with proFPGA CS",
      "link": "https://www.eetimes.com/an-introduction-to-software-prototyping-unlocking-soc-software-verification-with-profpga-cs/",
      "pubDate": "Fri, 14 Aug 2026 15:22:50 +0000",
@@ -344,30 +328,6 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transistors while enabling strong gate control. Silicon transistors are approaching physical limits that make ea",
      "source": "SemiWiki",
      "zh": "台积电的 0.42 纳米突破可以推动晶体管超越硅"
-    },
-    {
-     "title": "Google joins OpenROAD EDA initiative",
-     "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/google-joins-openroad-eda-initiative-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 14:01:02 +0000",
-     "summary": "Google is joining the OpenROAD Initiative (ORI) as a principal member, for its open source electronic design automation (EDA). As is customary, Google’s Technical Program Manager, Aaron Cunningham, is joining […] The post Google joins OpenROAD EDA initiative appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Google 加入 OpenROAD EDA 计划"
-    },
-    {
-     "title": "CHIIPS #37 – CHIIPs with DVCon’s Mark Burton",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/chiips-37-chiips-with-dvcons-mark-burton-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 13:37:48 +0000",
-     "summary": "Don't miss the latest episode of our Electronics Weekly podcast, CHIIPS. It features Mark Burton - DVCon's technical programme chair. The post CHIIPS #37 – CHIIPs with DVCon’s Mark Burton appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "CHIIPS #37 – DVCon 的 Mark Burton 的 CHIIP"
-    },
-    {
-     "title": "President Bush, Qualcomm, the CTIA, Broadcom and the ITC square up",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/president-bush-qualcomm-the-ctia-broadcom-and-the-itc-square-up-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 13:24:05 +0000",
-     "summary": "19 years ago the tech industry was up to its old trick of roping in the government to fight its battles. ‘The CTIA Wireless Association in the US has backed […] The post President Bush, Qualcomm, the CTIA, Broadcom and the ITC square up appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "布什总统、高通、CTIA、博通和 ITC 联手"
     },
     {
      "title": "Intel at a Memory Crossroads, Again",
@@ -392,14 +352,6 @@ window.INDUSTRY_DATA = {
      "summary": "Semiconductor equipment OEMs look to build-to-print for greater capacity. The post Semiconductor Equipment Shifts To Build-to-Print Manufacturing appeared first on EE Times .",
      "source": "EE Times",
      "zh": "半导体设备转向按图生产制造"
-    },
-    {
-     "title": "In-orbit services to generate $3 billion within a decade",
-     "link": "https://www.electronicsweekly.com/news/business/in-orbit-services-to-generate-3-billion-within-a-decade-2026-08/",
-     "pubDate": "Fri, 14 Aug 2026 10:42:09 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the latest version of its In-Orbit Services Markets report. The Paris-based analysts calculate that the space sector will generate $3 […] The post In-orbit services to generate $3 billion within a decade appeared first on Ele",
-     "source": "Electronics Weekly",
-     "zh": "在轨服务十年内将创收 30 亿美元"
     },
     {
      "title": "Chip Industry Week In Review",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "As AI clusters push beyond rack-scale limits, optical interconnects and circuit switching are reshaping how data centers scale. The post Copper’s Grip On AI Scaling Is Starting To Slip appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "铜对人工智能扩展的控制力开始下滑"
+    },
+    {
+     "title": "DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory",
+     "link": "https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory/",
+     "pubDate": "Thu, 13 Aug 2026 07:08:19 +0000",
+     "summary": "The ability to move and manage data efficiently is a defining challenge for data center architects. The post DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "DDR5 9600 RDIMM：提高服务器内存的性能基准"
+    },
+    {
+     "title": "What Self-Verifying Means In Agentic EDA Workflows And Why It Matters",
+     "link": "https://semiengineering.com/what-self-verifying-means-in-agentic-eda-workflows-and-why-it-matters/",
+     "pubDate": "Thu, 13 Aug 2026 07:07:35 +0000",
+     "summary": "Grounding agent decisions in their output is what transforms orchestration into something engineers can build on with confidence. The post What Self-Verifying Means In Agentic EDA Workflows And Why It Matters appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "自我验证在代理 EDA 工作流程中意味着什么及其重要性"
+    },
+    {
+     "title": "Veeco’s Q2 results exceed guidance",
+     "link": "https://www.semiconductor-today.com/news_items/2026/aug/veeco-120826.shtml",
+     "pubDate": "Wed, 12 Aug 2026 11:25:51 +0100",
+     "summary": "For second-quarter 2026, epitaxial deposition and process equipment maker Veeco Instruments Inc of Plainview, NY, USA has reported revenue of $193.5m, up 22% on $158.3m last quarter and 16.5% on $166.1m a year ago, and exceeding the $170–190m guidance...",
+     "source": "Semiconductor Today",
+     "zh": "Veeco 第二季度业绩超出预期"
+    },
+    {
+     "title": "OpenLight and Tower expand PH18DA photonics ecosystem to accelerate photonic IC development",
+     "link": "https://www.semiconductor-today.com/news_items/2026/aug/openlight-tower-120826.shtml",
+     "pubDate": "Wed, 12 Aug 2026 10:13:02 +0100",
+     "summary": "Photonic application-specific integrated circuit (PASIC) chip designer and manufacturer OpenLight of Goleta, Santa Barbara, CA, USA (which launched as an independent company in 2022, introducing the first open silicon photonics platform with heterogeneously integrated III-V lasers, modulators, ampli",
+     "source": "Semiconductor Today",
+     "zh": "OpenLight 和 Tower 拓展 PH18DA 光子生态系统，加速光子 IC 开发"
+    },
+    {
+     "title": "Soctera raises $4m in seed funding round",
+     "link": "https://www.semiconductor-today.com/news_items/2026/aug/soctera-110826.shtml",
+     "pubDate": "Tue, 11 Aug 2026 21:08:55 +0100",
+     "summary": "Soctera of Ithaca, NY USA has closed a $4m in seed funding round backed by Anorak Ventures and Multiball Capital, with additional participation from 9Yards Capital, Mana Ventures, and Red Bear Ventures. The firm will use the funding to develop its thermally optimized III-nitride millimeter-wave powe",
+     "source": "Semiconductor Today",
+     "zh": "Soctera 在种子轮融资中筹集了 400 万美元"
+    },
+    {
+     "title": "CSconnected unveils awardees for final call of £1m Supply Chain Development Programme",
+     "link": "https://www.semiconductor-today.com/news_items/2026/aug/csconnected-110826.shtml",
+     "pubDate": "Tue, 11 Aug 2026 12:39:28 +0100",
+     "summary": "The South Wales-based compound semiconductor cluster CSconnected Ltd has announced the successful applicants to the fourth and final funding call of its £1m Supply Chain Development Programme, delivered in partnership with Cardiff Capital Region (CCR). The program provides grants of up to £100,000 t",
+     "source": "Semiconductor Today",
+     "zh": "CSconnected 揭晓 100 万英镑供应链发展计划最终获奖者名单"
     }
    ]
   },
@@ -986,12 +986,12 @@ window.INDUSTRY_DATA = {
      "zh": "量子计算正在快速到来。公用事业准备好了吗？"
     },
     {
-     "title": "WSP capitalizes on surging US power work",
+     "title": "WSP capitalizes on surging US power infrastructure construction",
      "link": "https://www.utilitydive.com/news/wsp-power-generation-nuclear-data-centers-construction-us/827577/",
      "pubDate": "Fri, 14 Aug 2026 10:40:05 -0400",
      "summary": "Power now accounts for as much as 40% of the company&rsquo;s revenue, CEO Alexandre L&rsquo;Heureux said during a second-quarter earnings call.",
      "source": "Utility Dive",
-     "zh": "科进充分利用美国电力工作的激增"
+     "zh": "科进充分利用美国电力基础设施建设的蓬勃发展"
     },
     {
      "title": "Recurrent Energy bags US$695 million for 330MW California solar project",
@@ -1016,6 +1016,14 @@ window.INDUSTRY_DATA = {
      "summary": "Energy-Storage.news Premium speaks with Alon Maskovich, CEO and co-founder of enSights about BESS economics and the company’s new battery economics calculator.",
      "source": "Energy Storage News",
      "zh": "“数据准确性是最重要的事情之一”：enSights 首席执行官谈 PJM 中的 BESS 经济学"
+    },
+    {
+     "title": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals",
+     "link": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
+     "pubDate": "Fri, 14 Aug 2026 09:02:30 -0400",
+     "summary": "PowerTransitions aims to buy a 1.2-GW power plant in New York for&nbsp;an &ldquo;energy campus.&rdquo; &nbsp; TransAlta intends to buy two&nbsp;power plants in Colorado totaling about 319 MW.",
+     "source": "Utility Dive",
+     "zh": "FERC 批准 TransAlta 和 PowerTransitions 燃气发电厂交易"
     },
     {
      "title": "The Hydrogen Stream: Commissioning begins for 2.2 GW Neom H2 project in Saudi Arabia",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "On this episode of the This Week in Cleantech podcast, Mark Chediak from Bloomberg breaks down Trump's new 15% tariffs and price floors on imported polysilicon and its derivatives, including wafers, cells and modules.",
      "source": "Renewable Energy World",
      "zh": "特朗普新的太阳能关税能否缓解国内供应问题？ ——本周《清洁技术》"
-    },
-    {
-     "title": "FEOC compliance doesn’t end at signing. Here’s where it actually breaks down",
-     "link": "https://www.pv-tech.org/feoc-compliance-doesnt-end-at-signing-heres-where-it-actually-breaks-down/",
-     "pubDate": "Fri, 14 Aug 2026 09:34:57 +0000",
-     "summary": "Foreign Entity of Concern rules create a multitude of new risks for US solar developers, some less visible than others. Intertek CEA’s Jordan Wilson explores the key steps towards minimising FEOC exposure in PV module purchase agreements.",
-     "source": "PV Tech",
-     "zh": "FEOC 合规性并不会在签署时结束。这是它真正崩溃的地方"
     }
    ]
   },
@@ -1762,6 +1762,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "存储还能涨多久？",
+     "link": "https://www.huxiu.com/article/4883478.html?f=rss",
+     "pubDate": "Sun, 16 Aug 2026 18:40:40 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：王碧微 近期，有市场消息反馈部分eMMC的现货渠道价格跌破了原厂合约价，出现倒挂。eMMC是一种广泛用于机顶盒、智能电视、入门级手机等消费电子产品的嵌入式存储芯片。在存储行业正处于高景气的当下，这一品类为何会有倒挂现象产生？这种现象是否还发生在其他存储产品上？这是否意味着存储行业的上行已经接近拐点？ 带着这些疑问，财联社记者近日对话了多位业内人士。 万创投行董事总经理吴沛东告诉财联社记者，目前eMMC价格的倒挂是结构性的，主要出现在用MLC颗粒（一种正在被原厂逐步停产的存储介质，属于利基型存储的核心品类之一）生产的低容量品种上，原因系上游资源涨太多、终端传",
+     "source": "虎嗅",
+     "zh": "存储还能涨多久？"
+    },
+    {
+     "title": "岚图追光 S 隧道大回环挑战暗藏“彩蛋”，华为乾崑智驾 ADS 在隧道顶触发 AEB",
+     "link": "https://www.ithome.com/0/990/365.htm",
+     "pubDate": "Sun, 16 Aug 2026 10:36:38 GMT",
+     "summary": "IT之家 8 月 16 日消息，岚图汽车官方在 8 月 13 日宣布， 追光 S 车型 360° 隧道大回环穿越成功 （在隧道中完成 360 度旋转穿越，轮胎贴着墙面飞驰，最终平稳回到地面）。 值得一提的是，此次挑战还有一个隐藏“彩蛋”。据博主 @爱叨叨的Steven 分享，岚图汽车官方视频画面显示，华为乾崑智驾 ADS 系统在隧道顶触发了 AEB。 华为乾崑 ADS 应该是成为了人类汽车史上第一个在隧道顶触发 AEB 的辅助驾驶系统 。 这也解释了为什么追光 S 在隧道顶部拖曳出刹车痕 ，最高 134km/h 的时速，ADS 识别隧道顶部滚筒路非常规正常路况。 IT之家回看岚图汽车官方挑战宣",
+     "source": "IT之家",
+     "zh": "岚图追光 S 隧道大回环挑战暗藏“彩蛋”，华为乾崑智驾 ADS 在隧道顶触发 AEB"
+    },
+    {
+     "title": "王祖贤首度公开回应 AI 形象授权：我们是用 AI 不是被 AI 用，网易《天下》短片《倩影》再现经典角色",
+     "link": "https://www.ithome.com/0/990/364.htm",
+     "pubDate": "Sun, 16 Aug 2026 10:31:59 GMT",
+     "summary": "IT之家 8 月 16 日消息，网易 8 月 15 日于广州举办《天下》18 周年玩家生态大会。会上，息影 22 年的演员王祖贤首次公开回应了此前引发热议的个人 AI 形象授权合作。 她表示：“我们是用 AI，不是被 AI 用。”在大会圆桌交流中，王祖贤表示自己年轻时也喜欢玩游戏，“很希望借这个因缘，能跟现在的年轻人在游戏世界里相会，也让现在的年轻人更熟悉我”。 她自称“喜新念旧”，认为“新的世界必须要有新的东西，旧世界即将变成新世界的基本根基”。她强调，技术提供了新的表达可能，但“是否尝试、怎样呈现，以及希望借此表达什么，仍然应该来自人的主动决定”。 今年 7 月，网易《天下》宣布与王祖贤达",
+     "source": "IT之家",
+     "zh": "王祖贤首度公开回应 AI 形象授权：我们是用 AI 不是被 AI 用，网易《天下》短片《倩影》再现经典角色"
+    },
+    {
+     "title": "It’s Never Too Early to Start Planning for the Next Two Solar Eclipses",
+     "link": "https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/",
+     "pubDate": "Sun, 16 Aug 2026 10:30:00 +0000",
+     "summary": "In 2027 and 2028, there will be two spectacular, long-duration solar eclipses. Here’s what you need to know about them.",
+     "source": "WIRED",
+     "zh": "开始规划接下来的两次日食永远不会太早"
+    },
+    {
+     "title": "Someone Finally Fixed Installing Apps on a Mac",
+     "link": "https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/",
+     "pubDate": "Sun, 16 Aug 2026 10:30:00 +0000",
+     "summary": "The installation utility EasyDMG makes it so you never drag and drop an icon again.",
+     "source": "WIRED",
+     "zh": "终于有人修复了在 Mac 上安装应用程序的问题"
+    },
+    {
+     "title": "TerraMow V1000 Review: Show Your Lawn Some Love",
+     "link": "https://www.wired.com/review/terramow-v1000/",
+     "pubDate": "Sun, 16 Aug 2026 10:30:00 +0000",
+     "summary": "With automatic mapping, Spot Mode functionality, and smart AI cameras, the TerraMow V1000 is the complete package.",
+     "source": "WIRED",
+     "zh": "TerraMow V1000 评论：向您的草坪展示一些爱"
+    },
+    {
+     "title": "全新奇瑞艾瑞泽 7 本月成都车展首发，外观设计曝光",
+     "link": "https://www.ithome.com/0/990/363.htm",
+     "pubDate": "Sun, 16 Aug 2026 10:26:39 GMT",
+     "summary": "IT之家 8 月 16 日消息，据易车今天报道， 全新奇瑞艾瑞泽 7 将于本月 21 日举办的 2026 成都车展首发 。 IT之家从原报道获悉，艾瑞泽 7 是奇瑞 2014 年推出的一款车型，如今已停售多年。此前曝光的专利图显示，全新艾瑞泽 7 将采用家族式最新设计语言。 外观方面，该车预计将配备造型犀利的大灯组，下面的大开口格栅采用网格状设计，配套五辐轮圈，凸显出动感元素。背面则采用溜背设计，配备贯穿式尾灯组，顶部还有扰流板设计，让速度感倍增。",
+     "source": "IT之家",
+     "zh": "全新奇瑞艾瑞泽 7 本月成都车展首发，外观设计曝光"
+    },
+    {
      "title": "用户曝光华硕电源 RMA 返修后根本没修：直接用导线短接保险丝，导致家中跳闸",
      "link": "https://www.ithome.com/0/990/362.htm",
      "pubDate": "Sun, 16 Aug 2026 10:22:20 GMT",
@@ -1794,14 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "全国首家 AI 家庭机器人旗舰店落地青岛，用户可现场试穿外骨骼机器人"
     },
     {
-     "title": "小米米家质量工程师总结新洗衣机震动大常见原因，含运输螺栓没拆、底角没调平等",
-     "link": "https://www.ithome.com/0/990/336.htm",
-     "pubDate": "Sun, 16 Aug 2026 09:49:36 GMT",
-     "summary": "IT之家 8 月 16 日消息，小米大家电质量官方微博 @米家质量工程师 今日发文，针对“新买的洗衣机甩干时振动很大，是质量问题吗？”这一问题进行了解答。小米集团大家电部总经理单联瑜表示， 新洗衣机震动大，可能是受到很多外部因素影响 。 大多不是。 70% 的洗衣机振动大都是这 3 个原因 ： ① 运输螺栓没拆（最常见） ② 底角没调平 ③ 衣物缠绕偏心 据介绍，滚筒洗衣机出厂配备运输螺栓，穿过机身锁紧内筒，避免运输晃动损坏悬挂弹簧与减震器。 若运输螺栓未拆除，内筒与机身刚性锁死，悬挂减震系统失效 。运行时振动会直接传导至整机，振动、噪音大幅加剧。IT之家附拆除运输螺栓步骤如下： 断电，把洗衣",
-     "source": "IT之家",
-     "zh": "小米米家质量工程师总结新洗衣机震动大常见原因，含运输螺栓没拆、底角没调平等"
-    },
-    {
      "title": "Malaysia&apos;s 6% Q2 GDP growth was powered by 7.5% manufacturing growth, driven by chipmaking, and 6.6% construction growth, supported by data center development (Owen Walker/Financial Times)",
      "link": "https://www.techmeme.com/260816/p5#a260816p5",
      "pubDate": "Sun, 16 Aug 2026 05:45:01 -0400",
@@ -1824,22 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 格隆 ，作者：弗雷迪，原文标题：《五连板！又一“追光者”炒疯了》 周五，蓝盾光电以20cm涨停收盘，录得复牌以来第5个涨停板。而且换手率相当高，盘中一度回落至41.46元后重新封板。 让这家公司股价坐上火箭的，是月初披露的一份收购预案：蓝盾光电拟收购苏州岚创科技控股权。 更令人关注的，是该公司实际控制人为袁永刚，一年前其刚主导东山精密以59.35亿元收购索尔思光电。 此后，东山精密市值由537亿元升至3872亿元，峰值一度突破5000亿元，袁氏家族持股的对应浮盈超过千亿元。 一个发端于苏州钣金作坊的家族，以两笔跨界收购完成对光通信赛道的布局，简直是A股最成功的“追光者”了",
      "source": "虎嗅",
      "zh": "五连板，又一“追光者”炒疯了"
-    },
-    {
-     "title": "海尔周云杰：预计 2035 年我国脑机接口市场规模将突破千亿",
-     "link": "https://www.ithome.com/0/990/335.htm",
-     "pubDate": "Sun, 16 Aug 2026 09:25:01 GMT",
-     "summary": "IT之家 8 月 16 日消息，海尔集团董事局副主席 / 执行副总裁、海医汇理事长谭丽霞今日发文称，海尔盈康一生与天津大学脑机海河实验室达成合作。接下来， 双方将围绕脑机接口的临床转化、产业赋能、人才培养等方面展开长期合作 。 IT之家注意到，海尔集团董事局主席、首席执行官周云杰今日发文称，脑机接口行业正处在从实验室走向产业化的关键爆发期， 预计 2035 年我国脑机接口市场规模将突破千亿 。 周云杰表示，海尔与天津大学脑机海河实验室的合作，就是让实验室里的科技成果真正“长”在产业里， 让脑机接口技术从实验室走向病床、服务民生健康 。 据IT之家此前报道，脑机接口是全球未来产业的重要赛道。今年",
-     "source": "IT之家",
-     "zh": "海尔周云杰：预计 2035 年我国脑机接口市场规模将突破千亿"
-    },
-    {
-     "title": "XP 时代老工具要没了，微软确认 Win11 26H2 将彻底移除 WMIC 工具",
-     "link": "https://www.ithome.com/0/990/334.htm",
-     "pubDate": "Sun, 16 Aug 2026 09:17:14 GMT",
-     "summary": "IT之家 8 月 16 日消息，WMIC 是 Windows 系统从 XP 时代就内置的命令行工具，用户可通过文本命令与 Windows Management Instrumentation（WMI）系统交互，用于执行系统管理和诊断操作。对于普通用户来说，这项功能可以用来查看主板型号、产品密钥。 据科技媒体 neowin 今天报道， 微软已经确认 WMIC 将从 Win11 26H2 版本彻底移除 ，意味着这款拥有二十多年历史的命令行工具将走向生命尽头。 IT之家了解到，微软从 2016 年开始在 Windows Server 系统中弃用 WMIC，随后于 Win11 中默认禁用 WMIC，但",
-     "source": "IT之家",
-     "zh": "XP 时代老工具要没了，微软确认 Win11 26H2 将彻底移除 WMIC 工具"
     },
     {
      "title": "央视军事大片《制胜》揭示“超级个体”真相是什么？",
@@ -1874,18 +1906,10 @@ window.INDUSTRY_DATA = {
      "zh": "网暴不仅是法律问题，更是社会问题"
     },
     {
-     "title": "The Base Model Is Dead。",
-     "link": "https://www.huxiu.com/article/4883466.html?f=rss",
-     "pubDate": "Sun, 16 Aug 2026 16:36:01 +0800",
-     "summary": "本文来自微信公众号： 小盖fun ，作者：小盖 The Base Model Is Dead，这是我刚看完的一期分享，来自美国开源模型创业公司Arcee AI的预训练负责人Varun Singh。标题有点唬人，但这哥们的观点非常扎实。 他认为，过去Base Model的任务，是尽可能吸收人类已有的知识。 GPT-3那个时代，预训练的逻辑很简单，就是抓取大量互联网文本、Wikipedia、书籍，把尽可能多的人类知识压缩进模型参数里。 在GPT-3的训练数据里，来自网页和Wikipedia的数据大概占到了85%。 那个时候大家的默认逻辑就是，模型到底有多强，很大程度上取决于预训练做得好不好。 后训",
-     "source": "虎嗅",
-     "zh": "基础模型已死。"
-    },
-    {
      "title": "What happens when an LLM never sees material beyond fifth grade?",
      "link": "https://littlelearner-ll.github.io/",
      "pubDate": "Sun, 16 Aug 2026 07:37:53 +0000",
-     "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 114 # Comments: 71",
+     "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 122 # Comments: 82",
      "source": "Hacker News",
      "zh": "如果法学硕士从未见过五年级以上的材料，会发生什么？"
     },
@@ -1925,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Falstad Math and Physics Simulations",
      "link": "https://www.falstad.com/mathphysics.html",
      "pubDate": "Sun, 16 Aug 2026 04:19:32 +0000",
-     "summary": "Article URL: https://www.falstad.com/mathphysics.html Comments URL: https://news.ycombinator.com/item?id=49316872 Points: 17 # Comments: 3",
+     "summary": "Article URL: https://www.falstad.com/mathphysics.html Comments URL: https://news.ycombinator.com/item?id=49316872 Points: 21 # Comments: 4",
      "source": "Hacker News",
      "zh": "弗斯塔德数学和物理模拟"
     },
@@ -1957,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Patterns and problems in emerging multi-agent systems",
      "link": "https://www.anthropic.com/research/multiagent-systems",
      "pubDate": "Sun, 16 Aug 2026 02:12:53 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/multiagent-systems Comments URL: https://news.ycombinator.com/item?id=49316271 Points: 90 # Comments: 36",
+     "summary": "Article URL: https://www.anthropic.com/research/multiagent-systems Comments URL: https://news.ycombinator.com/item?id=49316271 Points: 94 # Comments: 41",
      "source": "Hacker News",
      "zh": "新兴多智能体系统的模式和问题"
     },
@@ -1976,30 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "0.019%！高凯技术中签率出炉，打新难度直追宇树科技",
      "source": "钛媒体",
      "zh": "0.019%！高凯技术中签率出炉，打新难度直追宇树科技"
-    },
-    {
-     "title": "Guiding Ships with Moire Patterns",
-     "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
-     "pubDate": "Sun, 16 Aug 2026 01:26:44 +0000",
-     "summary": "Article URL: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/ Comments URL: https://news.ycombinator.com/item?id=49315995 Points: 54 # Comments: 13",
-     "source": "Hacker News",
-     "zh": "用莫尔图案引导船舶"
-    },
-    {
-     "title": "阿里股价回升，阿里云AI对公司长期估值影响究竟有多大？",
-     "link": "https://www.tmtpost.com/8104764.html",
-     "pubDate": "Sun, 16 Aug 2026 08:52:00 +0800",
-     "summary": "Al打开估值空间，盈利待验证。",
-     "source": "钛媒体",
-     "zh": "阿里股价回升，阿里云AI对公司长期估值影响究竟有多大？"
-    },
-    {
-     "title": "420亿估值背后：Neuralink的“SpaceX时刻”还要等多久？",
-     "link": "https://www.tmtpost.com/8104757.html",
-     "pubDate": "Sun, 16 Aug 2026 08:48:00 +0800",
-     "summary": "意念控制轮椅之后:脑机接口离成为“基础设施”还有多远?",
-     "source": "钛媒体",
-     "zh": "420亿估值背后：Neuralink的“SpaceX时刻”还要等多久？"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "How I freed up 20GB of Google Photos storage with 5 simple steps",
+     "link": "https://www.androidauthority.com/tips-free-up-google-photos-storage-3692375/",
+     "pubDate": "Sun, 16 Aug 2026 10:30:54 +0000",
+     "summary": "Google doesn't make it easy to identify duplicates, but there are some tricks to make clearing space quicker.",
+     "source": "Android Authority",
+     "zh": "我如何通过 5 个简单步骤释放 20GB 的 Google 照片存储空间"
+    },
     {
      "title": "8 Google Chrome flags that fix the browser’s most annoying issues",
      "link": "https://www.androidauthority.com/best-google-chrome-flags-2026-3698138/",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "考虑购买 Pixel 11 基础版吗？以下是您可能会错过的 6 个专业相机功能"
     },
     {
-     "title": "Is the Pixel 11’s Tensor G6 actually a good upgrade from the G5? I crunched the numbers",
-     "link": "https://www.androidauthority.com/tensor-g6-deep-dive-3695968/",
-     "pubDate": "Sat, 15 Aug 2026 11:00:22 +0000",
-     "summary": "Tensor G6 isn't chasing benchmark glory. Here's what Google's new chip is really prioritizing.",
-     "source": "Android Authority",
-     "zh": "Pixel 11 的 Tensor G6 实际上是 G5 的良好升级吗？我计算了数字"
-    },
-    {
      "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
      "link": "https://sspai.com/post/111974",
      "pubDate": "Sat, 15 Aug 2026 15:07:54 +0800",
@@ -2258,12 +2258,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "影片《八仙！》票房突破16亿元",
-     "link": "http://finance.eastmoney.com/news/1350,202608163842516596.html",
-     "pubDate": "Sun, 16 Aug 2026 18:14:45 +0800",
-     "summary": "据灯塔专业版实时数据，截至8月16日18时9分，影片《八仙！》票房突破16亿元。 （文章来源：每日经济新闻）",
+     "title": "印尼东努沙登加拉省北部海域发生5.6级地震",
+     "link": "http://finance.eastmoney.com/news/1351,202608163842522347.html",
+     "pubDate": "Sun, 16 Aug 2026 18:31:23 +0800",
+     "summary": "据印尼气象、气候和地球物理局发布的报告，当地时间8月16日17时14分，印尼东努沙登加拉省北部海域发生5.6级地震， 震源深度10公里。预计不会有海啸风险。 （文章来源：界面新闻）",
      "source": "东方财富股票",
-     "zh": "影片《八仙！》票房突破16亿元"
+     "zh": "印尼东努沙登加拉省北部海域发生5.6级地震"
+    },
+    {
+     "title": "东吴策略：主线行情的重启还缺哪些拼图？",
+     "link": "http://finance.eastmoney.com/news/1344,202608163842521447.html",
+     "pubDate": "Sun, 16 Aug 2026 18:30:31 +0800",
+     "summary": "近期A股呈现震荡修复格局，但板块轮动显著提速，“电风扇行情”特征突出，科技、医药、有色、地产等板块快速轮动切换，市场尚未孕育出资金承接力度充足、具备持续性的核心主线。主线行情的重启还差哪些拼图？核心缺失三块：套牢筹码消化、海外流动性压力缓释、AI产业扩容逻辑兑现。 拼图一：筹码问题，时间是最好的解药 指数行至年线附近，上方是前期套牢盘，下方是本轮修复积累的获利盘，多空筹码在这一带密集交织，拉锯在所难免。本周沪指多次触及年线便遭遇阻力，压制可见一斑。 对于这个问题，我们认为时间就是最好的解药。年线附近的反复震荡，本身就是筹码交换与持仓成本重置的过程。而快速轮动亦是资金在缺乏主线共识下的“试错”行",
+     "source": "东方财富股票",
+     "zh": "东吴策略：主线行情的重启还缺哪些拼图？"
+    },
+    {
+     "title": "中石化炼化工程发布中期业绩：股东应占利润11.37亿元 同比减少18%",
+     "link": "http://finance.eastmoney.com/news/1354,202608163842522257.html",
+     "pubDate": "Sun, 16 Aug 2026 18:29:32 +0800",
+     "summary": "中石化炼化工程 (02386)发布截至2026年6月30日止6个月中期业绩，该集团取得收入人民币356.24亿元(单位下同)，同比增加12.7%;本公司权益持有人应占利润11.37亿元，同比减少18%;基本每股盈利0.26元;拟派中期股息每股0.127元。公告称，收入增加主要是工程总承包业务在执行合同增长所致。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "中石化炼化工程发布中期业绩：股东应占利润11.37亿元 同比减少18%"
+    },
+    {
+     "title": "兆威机电：2026年上半年净利润7464.57万元 同比减少34.10%",
+     "link": "http://finance.eastmoney.com/news/1354,202608163842522172.html",
+     "pubDate": "Sun, 16 Aug 2026 18:27:17 +0800",
+     "summary": "8月16日， 兆威机电 公告，2026年上半年营业收入8.16亿元，同比增长3.80%；净利润7464.57万元，上年同期净利润1.13亿元，同比减少34.10%。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "兆威机电：2026年上半年净利润7464.57万元 同比减少34.10%"
+    },
+    {
+     "title": "2026年暑期档票房破100亿元",
+     "link": "http://www.eeo.com.cn/2026/0816/1000700.shtml",
+     "pubDate": "Sun, 16 Aug 2026 18:26:25 +0800",
+     "summary": "北京商报讯（记者 卢扬 实习记者 张继文）8月16日，据灯塔专业版实时数据，2026年暑期档（6月1日-8月31日）档期总票房（含预售）突破100亿元。电影《功夫女足》《八仙！》《蜘蛛侠：崭新之日》《欢迎来龙餐馆》《给阿嬷的情书》暂列档期票房前5名。",
+     "source": "经济观察网",
+     "zh": "2026年暑期档票房破100亿元"
+    },
+    {
+     "title": "至多投30亿美元！英伟达有望入股软银旗下SB Energy",
+     "link": "http://finance.eastmoney.com/news/1354,202608163842522030.html",
+     "pubDate": "Sun, 16 Aug 2026 18:24:29 +0800",
+     "summary": "《科创板日报》8月16日讯（编辑朱凌） 英伟达 正与软银集团旗下 数据中心 开发商SB Energy洽谈，计划投资最高30亿美元。 SB Energy此前主要专注于可再生能源发电项目，近年来开始向 数据中心 领域扩张。2025年底，SB Energy收购Studio 151，进一步补充 数据中心 建设管理、工程和运营能力。 目前，SB Energy正在推动位于俄亥俄州南部的数据中心项目。该项目规划规模达10吉瓦，整体开发成本预计高达5000亿美元。OpenAI将成为该项目的重要使用方，而 英伟达 则有望为数据中心提供大量 AI芯片 。 此外，SB Energy还在得州为 甲骨文 和OpenAI",
+     "source": "东方财富股票",
+     "zh": "至多投30亿美元！英伟达有望入股软银旗下SB Energy"
+    },
+    {
+     "title": "兆威机电：上半财年净利润7464.57万元",
+     "link": "http://finance.eastmoney.com/news/1354,202608163842521985.html",
+     "pubDate": "Sun, 16 Aug 2026 18:22:00 +0800",
+     "summary": "南财智讯8月16日电， 兆威机电 （02692.HK）公告，截至2026年6月30日止六个月（上半财年），公司实现营业收入81644.85万元，同比增长数据未披露；毛利25112.00万元，同比减少0.13%；营业利润8242.49万元；归属于母公司股东的净利润7464.57万元；基本每股收益0.30元。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "兆威机电：上半财年净利润7464.57万元"
     },
     {
      "title": "英伟达拟向软银旗下SB Energy投资30亿美元，押注OpenAI俄亥俄数据中心项目",
@@ -2274,28 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达拟向软银旗下SB Energy投资30亿美元，押注OpenAI俄亥俄数据中心项目"
     },
     {
-     "title": "俄称一日击落近1500架乌无人机",
-     "link": "http://finance.eastmoney.com/news/1351,202608163842516256.html",
-     "pubDate": "Sun, 16 Aug 2026 18:10:46 +0800",
-     "summary": "俄罗斯国防部今天（8月16日）发布24小时战报称，俄军已控制顿涅茨克地区的佩尔绍马里耶夫卡和哈尔科夫地区的库迪耶夫卡两处居民点。俄防空力量击落14枚航空制导炸弹、1枚美制“海马斯”火箭弹、9枚“火烈鸟”远程巡航导弹和1478架固定翼 无人机 。据了解，这是截至目前俄国防部公布的单日击落乌 无人机 数量最高记录。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "俄称一日击落近1500架乌无人机"
-    },
-    {
-     "title": "以色列第二季度GDP按年率计算环比增长15.4%",
-     "link": "http://finance.eastmoney.com/news/1351,202608163842514931.html",
-     "pubDate": "Sun, 16 Aug 2026 18:02:52 +0800",
-     "summary": "8月16日，以色列第二季度GDP按年率计算环比增长15.4%。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "以色列第二季度GDP按年率计算环比增长15.4%"
-    },
-    {
-     "title": "中国银河策略：三因素仍是A股定价的关键",
-     "link": "http://finance.eastmoney.com/news/1344,202608163842514845.html",
-     "pubDate": "Sun, 16 Aug 2026 18:00:23 +0800",
-     "summary": "本周A股行情： （1）本周（8月10日-8月14日），A股市场震荡整理，主要宽基指数表现分化。全A指数上涨0.27%。创业板指、中证1000、深证成指录得上涨，北证50跌超4%。（2）从风格来看，本周小盘风格相对占优；消费和成长风格震荡反弹，周期风格跌幅靠前，金融、稳定风格也录得下跌。（3）从行业来看，一级行业涨跌分化，轮动特征显著。 综合 、 通信 、 医药生物 涨幅靠前， 有色金属 、 美容护理 、 非银金融 跌幅靠前。 本周资金流向： （1）市场交投活跃度小幅回落。本周日均成交额为23532亿元，较上周下降768.55亿元；日均换手率为1.6486%，较上周下降0.07个百分点。（2）截",
-     "source": "东方财富股票",
-     "zh": "中国银河策略：三因素仍是A股定价的关键"
+     "title": "Big Tech’s data centre boom poised to drive up carbon emissions",
+     "link": "https://www.ft.com/content/8158cb5a-4bbd-43fd-b329-15a54e8422c8?syn-25a6b1a6=1",
+     "pubDate": "Sun, 16 Aug 2026 10:00:02 GMT",
+     "summary": "FT analysis finds 60 largest planned facilities could emit equivalent of 27 coal plants or 24mn cars per year",
+     "source": "Financial Times",
+     "zh": "大型科技公司数据中心的繁荣将推高碳排放"
     },
     {
      "title": "Secret outperformer: Dispelling the &apos;myths&apos; about an unloved stock market",
@@ -2312,22 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "数据再次证明，主动选股的光环正在消退。过去十年，美国主动管理大盘股基金中，只有一成多跑赢了指数——这是华尔街最新数据给出的答案。 8月15日，据晨星（Morningstar）最新数据，截至今年6月30日的过去十年，仅 13% 的美国主动管理大盘股基金在扣除费用后跑赢基准被动基金。即便是过去一年这一短期窗口，跑赢比例也只有 27% ，不足三成。 与此同时，低成本被动ETF今年净流入有望首次突破1万亿美元，主动基金的市场份额持续萎缩。 资金持续出逃，主动基金陷入“失血”困境 主动管理基金的费用曾是资产管理行业数十年的核心利润来源。但自2015年以来，资金已连年净流出。 道富环球投资管理SPDR美洲",
      "source": "华尔街见闻",
      "zh": "华尔街“选股神话”持续褪色：过去十年仅13%跑赢指数"
-    },
-    {
-     "title": "美媒：中国成为全球企业“绕不开的技术和创新来源”",
-     "link": "http://finance.eastmoney.com/news/1351,202608163842513831.html",
-     "pubDate": "Sun, 16 Aug 2026 17:36:39 +0800",
-     "summary": "美国消费者新闻与商业频道（CNBC）近日刊文称，中国企业正在成为全球企业“绕不开的技术和创新来源”。分析人士认为，尽管美国持续加码对华科技限制，但从 人工智能 到电动车 电池 ，中国技术仍日益融入一些全球大型企业的业务。分析认为，中国技术崛起正在从低成本制造转向依靠规模优势、深厚的供应链能力以及快速创新能力，全球产业链与创新格局正发生结构性变化。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "美媒：中国成为全球企业“绕不开的技术和创新来源”"
-    },
-    {
-     "title": "车圈现“速成车”争议，知名车企董事长回应",
-     "link": "http://finance.eastmoney.com/news/1354,202608163842516654.html",
-     "pubDate": "Sun, 16 Aug 2026 17:36:00 +0800",
-     "summary": "【导读】车圈现“速成车”争议， 岚图汽车 董事长称核心不在时间长短 中国基金报记者邱德坤 近日，国内 汽车 圈掀起了对“速成车”的争议浪潮。各方争议的焦点在于，一辆新车的平均开发周期，已从60个月压缩至24个月，甚至18个月。 车企正陷入“速成车”的焦虑之中。为了在竞争中抢占先发优势，部分车企不断压缩新车开发周期，但新车质量被打上了问号，出现“劣币驱逐良币”的竞争态势。 岚图汽车 董事长、党委书记卢放给出了不同观点。8月15日，卢放向中国基金报等媒体表示，“速成车”不能完全用开发周期长短来判定，核心是关注其有没有走完所有必要的验证流程。 争议新车开发“快与慢” 近日，部分车企在宣发其新车时，特",
-     "source": "东方财富股票",
-     "zh": "车圈现“速成车”争议，知名车企董事长回应"
     },
     {
      "title": "库什纳访以埃在即 哈马斯领导人赴埃会谈",
@@ -2410,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "东北开始精打细算：经开区密集摘牌，精简土地与编制"
     },
     {
-     "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
-     "link": "http://www.eeo.com.cn/2026/0816/1000341.shtml",
-     "pubDate": "Sun, 16 Aug 2026 14:13:14 +0800",
-     "summary": "新华财经北京8月16日电（王宏彬）伊朗军方15日称，3名伊朗飞行员今年3月执行打击美军驻卡塔尔基地时被卡塔尔军方“生擒”后扣押至今，伊朗要求卡方“放人”。卡塔尔外交部当天晚些时候作出回应，称对上述“误导性言论”感到吃惊，否认扣押伊朗飞行员，称卡方当时尽力搜救，找到一名伊朗飞行员的遗骸并已与伊朗方面沟通协调移交遗骸等事宜。 <img id=\"image0smsvbff8e1sq125ums8emi1vbvvv5\" tit...",
-     "source": "经济观察网",
-     "zh": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认"
-    },
-    {
      "title": "大幅飙涨！万亿巨头利好来袭！机构上调目标价",
      "link": "http://finance.eastmoney.com/news/1354,202608163842489020.html",
      "pubDate": "Sun, 16 Aug 2026 13:44:00 +0800",
@@ -2474,14 +2482,6 @@ window.INDUSTRY_DATA = {
      "zh": "加息突变！美联储重磅来袭！“大幅削减” 影响多大？"
     },
     {
-     "title": "Singapore Inc’s AI ace card in rivalry with Hong Kong",
-     "link": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
-     "pubDate": "Sun, 16 Aug 2026 01:52:17 GMT",
-     "summary": "Close relations with both US and China mean the latest AI models are easily accessible in the city-state",
-     "source": "Financial Times",
-     "zh": "新加坡公司的人工智能王牌与香港竞争"
-    },
-    {
      "title": "Trump asks Americans to accept high pump prices as Iran standoff drags on",
      "link": "https://seekingalpha.com/news/4633590-trump-asks-americans-to-accept-high-pump-prices-as-iran-standoff-drags-on?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 15 Aug 2026 20:25:46 -0400",
@@ -2505,6 +2505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+     "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+     "pubDate": "Sun, 16 Aug 2026 10:00:59 +0000",
+     "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+     "source": "Ars Technica Science",
+     "zh": "野火烟雾现在对产前的威胁比人类造成的空气污染更大"
+    },
     {
      "title": "Astronomers find water in the harsh environment near the Milky Way's black hole — Space photo of the week",
      "link": "https://www.livescience.com/space/black-holes/astronomers-find-water-in-the-harsh-environment-near-the-milky-ways-black-hole-space-photo-of-the-week",
@@ -2736,14 +2744,6 @@ window.INDUSTRY_DATA = {
      "summary": "In a recent study, evolution gets even messier than usual.",
      "source": "Ars Technica Science",
      "zh": "粪便是否促进了复杂动物的进化？"
-    },
-    {
-     "title": "Tracking extreme heat by the hour makes climate change seem even worse",
-     "link": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
-     "pubDate": "Tue, 11 Aug 2026 16:26:38 +0000",
-     "summary": "Hot hours of summer could triple in the coming decades.",
-     "source": "Ars Technica Science",
-     "zh": "按小时追踪极端高温使气候变化看起来更加糟糕"
     }
    ]
   }

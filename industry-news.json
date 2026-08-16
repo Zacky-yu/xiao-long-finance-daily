@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/16 16:58:26",
+ "generated_at": "2026/8/16 17:34:47",
  "recent_days": 7,
  "industries": [
   {
@@ -25,6 +25,22 @@
      "zh": "牛来！A社营收暴涨1400%，最新季度入账115亿美元"
     },
     {
+     "title": "OpenAI提速狂飙16倍！GPT-5.6多智能体V2上线，741轮怪物对话1秒打开",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652718320&idx=1&sn=4eaec3336d6f719c313a098630755389",
+     "pubDate": "Sun, 16 Aug 2026 09:07:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "OpenAI提速狂飙16倍！GPT-5.6多智能体V2上线，741轮怪物对话1秒打开"
+    },
+    {
+     "title": "三个Claude互相封号、投毒、栽赃！Anthropic：一个AI安全，一群AI未必",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652718320&idx=2&sn=51ecae07013dd44ac3b5e834485b8031",
+     "pubDate": "Sun, 16 Aug 2026 09:07:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "三个Claude互相封号、投毒、栽赃！Anthropic：一个AI安全，一群AI未必"
+    },
+    {
      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
      "pubDate": "Sat, 15 Aug 2026 21:29:19 +0000",
@@ -47,14 +63,6 @@
      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
      "source": "TechCrunch AI",
      "zh": "SpaceX 正式完成 Cursor 收购"
-    },
-    {
-     "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
-     "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
-     "pubDate": "Sat, 15 Aug 2026 11:28:29 +0000",
-     "summary": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ",
-     "source": "MarkTechPost",
-     "zh": "微调工具调用 LLM：使用 XYZ-Aquila-SFT 和 Qwen3 的完整指南"
     },
     {
      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
@@ -201,14 +209,6 @@
      "zh": "OpenAI被曝ARR破2000亿，官宣新任首席营收官"
     },
     {
-     "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
-     "link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
-     "pubDate": "Fri, 14 Aug 2026 08:03:22 +0000",
-     "summary": "Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environments, more environment types, longer training. Terminal-Bench 3.0 moves from 4.6 to 28.3, and DeepSWE v1.1 from 46.2 to 66.9",
-     "source": "MarkTechPost",
-     "zh": "Z.ai 发布 GLM-5.3，无需重新训练基础模型：更擅长复杂编码和长期任务"
-    },
-    {
      "title": "刚刚，GLM-5.3来了！拿下多个开源SOTA，我用它“魔改”DeepSeek Harness",
      "link": "https://zhidx.com/p/584913.html",
      "pubDate": "Fri, 14 Aug 2026 14:30:57 +0800",
@@ -225,28 +225,28 @@
      "zh": "曝苹果已与阿里合作训练大模型"
     },
     {
-     "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
-     "link": "https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/",
-     "pubDate": "Fri, 14 Aug 2026 05:45:47 +0000",
-     "summary": "Cactus Compute released Needle 2, an open 45M-parameter model for tool calling, device use, and structured extraction. The full model is a single 14MB binary that runs a session in about 28MB of RAM. It leads both Seal-Tools splits while targeting hardware with no GPU and no NPU. The post Meet Needl",
-     "source": "MarkTechPost",
-     "zh": "Meet Needle 2：开放的 45M 参数工具调用模型，以 14MB 二进制文件形式提供，并在 28MB RAM 中运行完整会话"
-    },
-    {
-     "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus",
-     "link": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
-     "pubDate": "Fri, 14 Aug 2026 03:09:45 +0000",
-     "summary": "This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from Hugging Face, we apply quality filters and curate data for Supervised Fine-Tuning (SFT). Using SmolLM2-135M-Instruct and LoRA, we demonstrate an end-t",
-     "source": "MarkTechPost",
-     "zh": "创建以推理为重点的法学硕士：流式传输、管理和微调 SupraLabs 推理语料库的实用指南"
-    },
-    {
      "title": "全球第一，碾压谷歌！中国版Thinking Machines诞生，语音赛道变天了",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652718041&idx=1&sn=acd13e744a368ee8a16b5152ffd25c7d",
      "pubDate": "Fri, 14 Aug 2026 10:09:00 +0800",
      "summary": "语音与交互赛道，中国队站上世界之巅",
      "source": "新智元",
      "zh": "全球第一，碾压谷歌！中国版Thinking Machines诞生，语音赛道变天了"
+    },
+    {
+     "title": "苦等两年！ChatGPT杀入Linux，Codex上手能改你的代码",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652718041&idx=2&sn=615157f3bc36a4189b8014b7520f91e8",
+     "pubDate": "Fri, 14 Aug 2026 10:09:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "苦等两年！ChatGPT杀入Linux，Codex上手能改你的代码"
+    },
+    {
+     "title": "Agent走向长线协作的关键一战：AML首期揭榜，谁将引领下一代记忆范式革命",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050318&idx=1&sn=07ab7baa68c9e6f7fd617751830c9ddf",
+     "pubDate": "Fri, 14 Aug 2026 09:41:00 +0800",
+     "summary": "大模型的记忆能力自此有了刻度。",
+     "source": "机器之心",
+     "zh": "Agent走向长线协作的关键一战：AML首期揭榜，谁将引领下一代记忆范式革命"
     }
    ]
   },
@@ -342,7 +342,7 @@
      "pubDate": "Fri, 14 Aug 2026 15:00:13 +0000",
      "summary": "Researchers at National Yang Ming Chiao Tung University and TSMC Corporate Research engineered a 0.42-nanometer aluminum-oxide interface that protects electron transport in monolayer MoS₂ transistors while enabling strong gate control. Silicon transistors are approaching physical limits that make ea",
      "source": "SemiWiki",
-     "zh": "台积电的 0.42 纳米突破可以推动晶体管超越硅"
+     "zh": "台积电的 0.42 纳米突破可能推动晶体管超越硅"
     },
     {
      "title": "Google joins OpenROAD EDA initiative",
@@ -830,7 +830,7 @@
      "pubDate": "Wed, 12 Aug 2026 17:15:41 +0000",
      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
      "source": "TechCrunch Transport",
-     "zh": "据报道，Uber Freight 在黑客组织声称数据泄露后正在进行调查"
+     "zh": "据报道 Uber Freight 在黑客组织声称数据泄露后正在进行调查"
     },
     {
      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
@@ -902,7 +902,7 @@
      "pubDate": "Sat, 15 Aug 2026 12:00:00 -0500",
      "summary": "Following a year of tighter sanctions and Ukrainian attacks on refineries, ports and tankers, Russia’s crude output has fallen further in the second half of 2026, severely affecting the nation’s crude production outlook. Factoring in these disruptions, Rystad Energy has revised its Russian crude pro",
      "source": "OilPrice",
-     "zh": "俄罗斯石油工业已经没有足够的空间来吸收更多的冲击"
+     "zh": "俄罗斯石油工业已经没有空间来承受更多冲击"
     },
     {
      "title": "Mexico Is Betting on Biofuel to Tackle Its Seaweed Crisis",
@@ -985,12 +985,12 @@
      "zh": "量子计算正在快速到来。公用事业准备好了吗？"
     },
     {
-     "title": "WSP capitalizes on surging US power work",
+     "title": "WSP capitalizes on surging US power infrastructure construction",
      "link": "https://www.utilitydive.com/news/wsp-power-generation-nuclear-data-centers-construction-us/827577/",
      "pubDate": "Fri, 14 Aug 2026 10:40:05 -0400",
      "summary": "Power now accounts for as much as 40% of the company&rsquo;s revenue, CEO Alexandre L&rsquo;Heureux said during a second-quarter earnings call.",
      "source": "Utility Dive",
-     "zh": "科进充分利用美国电力工作的激增"
+     "zh": "科进充分利用美国电力基础设施建设的蓬勃发展"
     },
     {
      "title": "Recurrent Energy bags US$695 million for 330MW California solar project",
@@ -1017,12 +1017,20 @@
      "zh": "“数据准确性是最重要的事情之一”：enSights 首席执行官谈 PJM 中的 BESS 经济学"
     },
     {
+     "title": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals",
+     "link": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
+     "pubDate": "Fri, 14 Aug 2026 09:02:30 -0400",
+     "summary": "PowerTransitions aims to buy a 1.2-GW power plant in New York for&nbsp;an &ldquo;energy campus.&rdquo; &nbsp; TransAlta intends to buy two&nbsp;power plants in Colorado totaling about 319 MW.",
+     "source": "Utility Dive",
+     "zh": "FERC 批准 TransAlta 和 PowerTransitions 燃气发电厂交易"
+    },
+    {
      "title": "The Hydrogen Stream: Commissioning begins for 2.2 GW Neom H2 project in Saudi Arabia",
      "link": "https://www.pv-magazine.com/2026/08/14/the-hydrogen-stream-commissioning-begins-for-2-2-gw-neom-h2-project-in-saudi-arabia/",
      "pubDate": "Fri, 14 Aug 2026 12:43:37 +0000",
      "summary": "In other news, the Schleswig-Holstein Ministry of Energy Transition reportedly confirmed the cancellation of the 2.1 GW HyScale 100 electrolyzer project at a German refinery, with a lack of planning certainty cited among the reasons. Power to Hydrogen has begun installing a 500 kW AEM electrolyzer i",
      "source": "pv magazine",
-     "zh": "氢流：沙特阿拉伯 2.2 吉瓦 Neom H2 项目开始调试"
+     "zh": "氢流：沙特阿拉伯 2.2 GW Neom H2 项目开始调试"
     },
     {
      "title": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
@@ -1079,14 +1087,6 @@
      "summary": "On this episode of the This Week in Cleantech podcast, Mark Chediak from Bloomberg breaks down Trump's new 15% tariffs and price floors on imported polysilicon and its derivatives, including wafers, cells and modules.",
      "source": "Renewable Energy World",
      "zh": "特朗普新的太阳能关税能否缓解国内供应问题？ ——本周《清洁技术》"
-    },
-    {
-     "title": "FEOC compliance doesn’t end at signing. Here’s where it actually breaks down",
-     "link": "https://www.pv-tech.org/feoc-compliance-doesnt-end-at-signing-heres-where-it-actually-breaks-down/",
-     "pubDate": "Fri, 14 Aug 2026 09:34:57 +0000",
-     "summary": "Foreign Entity of Concern rules create a multitude of new risks for US solar developers, some less visible than others. Intertek CEA’s Jordan Wilson explores the key steps towards minimising FEOC exposure in PV module purchase agreements.",
-     "source": "PV Tech",
-     "zh": "FEOC 合规性并不会在签署时结束。这是它真正崩溃的地方"
     }
    ]
   },
@@ -1297,6 +1297,14 @@
    "total": 6,
    "items": [
     {
+     "title": "Stomp Rockets: The perfect start to model rocketry for kids?",
+     "link": "https://www.space.com/stargazing/skywatching-kit/stomp-rockets-the-perfect-start-to-model-rocketry-for-kids",
+     "pubDate": "Sun, 16 Aug 2026 09:00:00 +0000",
+     "summary": "Stomp Rockets can open up the world of model rocketry to your kids.",
+     "source": "Space.com",
+     "zh": "Stomp Rockets：为孩子们打造火箭模型的完美开始？"
+    },
+    {
      "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
      "pubDate": "Sun, 16 Aug 2026 04:05:00 +0000",
@@ -1318,7 +1326,7 @@
      "pubDate": "Sat, 15 Aug 2026 23:51:27 +0000",
      "summary": "The batch of eight Globalstar satellites will help refresh the company’s low Earth orbit constellation. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 9:12 p.m. EDT (0112 UTC).",
      "source": "Spaceflight Now",
-     "zh": "SpaceX 为美国太空部队 Globalstar 连续发射破纪录的猎鹰 9 号火箭"
+     "zh": "SpaceX 为美国太空军 Globalstar 连续发射猎鹰 9 号火箭，创下纪录"
     },
     {
      "title": "Lunar orbiter among upcoming NASA CLPS task orders",
@@ -1407,14 +1415,6 @@
      "summary": "With a projected surge in launches from Wallops Island in the coming years, companies and officials say now is the time for infrastructure improvements to benefit companies and their workers. The post Wallops gears up for an increase in launches appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Wallops 为增加发射做好准备"
-    },
-    {
-     "title": "'Strap yourself in and feel the Gs': NASA announces 'Max Power' aerospace expo",
-     "link": "https://www.space.com/space-exploration/strap-yourself-in-and-feel-the-gs-nasa-announces-max-power-aerospace-expo",
-     "pubDate": "Fri, 14 Aug 2026 22:00:00 +0000",
-     "summary": "NASA announced today (Aug. 14) that it will hold a two-day aerospace expo this November — an event whose name should draw a chuckle from \"Simpsons\" fans.",
-     "source": "Space.com",
-     "zh": "“系好安全带，感受 Gs”：NASA 宣布举办“Max Power”航空航天博览会"
     },
     {
      "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
@@ -1761,6 +1761,62 @@
    "total": 18,
    "items": [
     {
+     "title": "海尔周云杰：预计 2035 年我国脑机接口市场规模将突破千亿",
+     "link": "https://www.ithome.com/0/990/335.htm",
+     "pubDate": "Sun, 16 Aug 2026 09:25:01 GMT",
+     "summary": "IT之家 8 月 16 日消息，海尔集团董事局副主席 / 执行副总裁、海医汇理事长谭丽霞今日发文称，海尔盈康一生与天津大学脑机海河实验室达成合作。接下来， 双方将围绕脑机接口的临床转化、产业赋能、人才培养等方面展开长期合作 。 IT之家注意到，海尔集团董事局主席、首席执行官周云杰今日发文称，脑机接口行业正处在从实验室走向产业化的关键爆发期， 预计 2035 年我国脑机接口市场规模将突破千亿 。 周云杰表示，海尔与天津大学脑机海河实验室的合作，就是让实验室里的科技成果真正“长”在产业里， 让脑机接口技术从实验室走向病床、服务民生健康 。 据IT之家此前报道，脑机接口是全球未来产业的重要赛道。今年",
+     "source": "IT之家",
+     "zh": "海尔周云杰：预计 2035 年我国脑机接口市场规模将突破千亿"
+    },
+    {
+     "title": "XP 时代老工具要没了，微软确认 Win11 26H2 将彻底移除 WMIC 工具",
+     "link": "https://www.ithome.com/0/990/334.htm",
+     "pubDate": "Sun, 16 Aug 2026 09:17:14 GMT",
+     "summary": "IT之家 8 月 16 日消息，WMIC 是 Windows 系统从 XP 时代就内置的命令行工具，用户可通过文本命令与 Windows Management Instrumentation（WMI）系统交互，用于执行系统管理和诊断操作。对于普通用户来说，这项功能可以用来查看主板型号、产品密钥。 据科技媒体 neowin 今天报道， 微软已经确认 WMIC 将从 Win11 26H2 版本彻底移除 ，意味着这款拥有二十多年历史的命令行工具将走向生命尽头。 IT之家了解到，微软从 2016 年开始在 Windows Server 系统中弃用 WMIC，随后于 Win11 中默认禁用 WMIC，但",
+     "source": "IT之家",
+     "zh": "XP 时代老工具要没了，微软确认 Win11 26H2 将彻底移除 WMIC 工具"
+    },
+    {
+     "title": "2026 暑期档票房突破百亿，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》分列前三",
+     "link": "https://www.ithome.com/0/990/332.htm",
+     "pubDate": "Sun, 16 Aug 2026 09:15:56 GMT",
+     "summary": "IT之家 8 月 16 日消息，据央视财经报道，截至目前， 2026 暑期档电影总票房（含预售）突破 100 亿元 ，其中《功夫女足》《八仙！》《蜘蛛侠：崭新之日》跻身暑期档票房前三。 另外，《去你的岛》《那山那水》《大唐妖探》等多部国产影片在八月集中上映。同时，惊悚冒险电影《逃出绝命街》等进口影片也将在 8 月上映。作为 2026 年暑期档的好莱坞巨制， 《奥德赛》全片采用 IMAX 胶片摄影机拍摄 。 值得一提的是， 今年年度电影总票房（含预售）已突破 257 亿元 ，《飞驰人生 3》《功夫女足》《给阿嬷的情书》《八仙！》《镖人：风起大漠》暂列年度票房前五名。同时，暑期档连续 34 天单日",
+     "source": "IT之家",
+     "zh": "2026 暑期档票房突破百亿，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》分列前三"
+    },
+    {
+     "title": "央视军事大片《制胜》揭示“超级个体”真相是什么？",
+     "link": "https://www.huxiu.com/article/4883471.html?f=rss",
+     "pubDate": "Sun, 16 Aug 2026 17:14:07 +0800",
+     "summary": "本文来自微信公众号： 鲸财有道 ，作者：鲸财有道 士兵与智能化武器的关系藏着AI时代最核心的商业命题。士兵的价值锚点从体能迁向认知，企业的竞争力从规模转向弹性。真正稀缺的是高质量判断，以及围绕它配置的体系。陆军在换羽，企业该想想自己的羽毛，什么时候换、怎么换。 7月底央视在建军99周年之际推出六集融媒体纪录片《制胜》。其中最出圈的镜头，是陆军两栖合成旅的抢滩画面：两栖战车冲上滩头，车门打开，和士兵一起跃出舱门的是一群四足\"机器狼\"——有的背着突击步枪，有的扛着双联单兵火箭炮，冲在整个登陆梯队的最前面执行火力压制。 大多数解读停留在\"中国无人装备有多强\"的层面。但真正值得琢磨的，是画面里的位置关",
+     "source": "虎嗅",
+     "zh": "央视军事大片《制胜》揭示“超级个体”真相是什么？"
+    },
+    {
+     "title": "Token，Token，国内头部大厂齐聚乌兰察布圈地",
+     "link": "https://www.huxiu.com/article/4883469.html?f=rss",
+     "pubDate": "Sun, 16 Aug 2026 17:00:51 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：田国宝，原文标题：《Token！Token！国内头部大厂齐聚乌兰察布圈地》 乌兰察布正成为算力产业的热土，一批算力中心项目集中涌入，处于开工建设的热潮中。2024年底，乌兰察布签约的算力中心项目为36个，而到了2026年6月底达到了89个。 2026年8月13日，内蒙古乌兰察布集宁区圣家营村北2公里，一大片蓝色铁皮围起的土地上，有几只羊还在吃草。围墙西侧，几名电力工人正在组装钢管塔。这里将建设万润（乌兰察布）低碳智能算力基地。 万润算力基地向西约1公里，几排蓝顶白墙的工棚格外醒目，门口停着几十辆车。工作人员称，这里是乌兰察布快手星河数据中心建设项目部。",
+     "source": "虎嗅",
+     "zh": "Token，Token，国内头部大厂齐聚乌兰察布圈地"
+    },
+    {
+     "title": "磷化铟争夺战：海外巨头垄断市场，中国厂商如何突围",
+     "link": "https://www.huxiu.com/article/4883468.html?f=rss",
+     "pubDate": "Sun, 16 Aug 2026 16:58:42 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：郑晨烨 在全球磷化铟的争夺战中，中国的处境颇为特殊：上游铟资源全球领先，精铟产量约占全球七成；但下游衬底成品，国内所有厂商的出货量合计只约占全球一成。 7月8日，美国光芯片巨头Lumentum（朗美通，LITE.NASDAQ）的总裁兼CEO迈克尔·赫尔斯顿在巴黎举行的欧洲AI行业峰会上表示，磷化铟的供需缺口已经超过DRAM（动态随机存取内存）和NAND（闪存）。公司电信客户的订单量从“数百件”级别跳升到了“数亿件”，订单已经排到2028年。 Lumentum是当前AI算力链条中的当红公司之一，为英伟达等客户供应数据中心光互连所需的激光器芯片。迈克尔·赫",
+     "source": "虎嗅",
+     "zh": "磷化铟争夺战：海外巨头垄断市场，中国厂商如何突围"
+    },
+    {
+     "title": "网暴不仅是法律问题，更是社会问题",
+     "link": "https://www.huxiu.com/article/4883467.html?f=rss",
+     "pubDate": "Sun, 16 Aug 2026 16:58:23 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：陈碧 立法从来不是万能的，反网暴还需要司法的持续深耕。与此同时，网暴不仅是法律问题，更是社会问题。网暴之所以屡禁不绝，并非仅仅因为缺乏法律的威慑，其背后还有人性弱点与算法的推波助澜。 《反网络暴力法（征求意见稿）》（以下称反网暴法）8月28日即将结束为期一个月的征求意见，完成立法链条中重要一环。 近年来，互联网上屡发因造谣诽谤、恶意攻击、人肉开盒导致的悲剧，比如寻亲男孩刘学洲和粉发女孩郑灵华，他们因网暴付出了生命的代价。社会呼吁专门反网暴立法的声音日益强烈。2026年5月全国人大常委会发布年度立法工作计划，把治理网络暴力的立法放在预备审议项目之中，交由",
+     "source": "虎嗅",
+     "zh": "网暴不仅是法律问题，更是社会问题"
+    },
+    {
      "title": "全国首座电网友好型大功率重卡充电示范站投运",
      "link": "https://www.ithome.com/0/990/331.htm",
      "pubDate": "Sun, 16 Aug 2026 08:50:55 GMT",
@@ -1793,22 +1849,6 @@
      "zh": "基础模型已死。"
     },
     {
-     "title": "消息称诺基亚计划关闭中国杭州研发中心，裁员 1600 人",
-     "link": "https://www.ithome.com/0/990/306.htm",
-     "pubDate": "Sun, 16 Aug 2026 08:31:04 GMT",
-     "summary": "IT之家 8 月 16 日消息，据外媒 Light Reading 前天报道，诺基亚撤出中国市场的步伐正在加快。5G 时代，这家公司一直未能在中国拿下大型合同，两年前这家芬兰公司曾计划在中国裁员 2000 人。 据知情人士透露，诺基亚计划关闭杭州的一处研发中心，并计划裁员 1600 人。该媒体获得的截图显示，诺基亚管理层已就杭州办公地点关闭一事，向员工发送电子邮件。 目前还有传闻称，诺基亚位于北京、成都、青岛和上海的办公地点也有可能在本次重组计划中被关闭。 诺基亚发言人对此回应称：“我们一直在采取措施，使中国的运营方式与诺基亚全球运营模式保持一致。 诺基亚中国业务过去几年持续下滑 ， 我们正在",
-     "source": "IT之家",
-     "zh": "消息称诺基亚计划关闭中国杭州研发中心，裁员 1600 人"
-    },
-    {
-     "title": "《DOTA2》TI15 上海：中国战队 TR、VG、XG 折戟沉沙，无缘八强",
-     "link": "https://www.ithome.com/0/990/301.htm",
-     "pubDate": "Sun, 16 Aug 2026 08:26:53 GMT",
-     "summary": "IT之家 8 月 16 日消息，随着 Team Resilience 在《DOTA2》国际邀请赛 TI15 最终淘汰轮中以 1:2 不敌 Team Spirit，再加上 Vici Gaming 被 Team Falcons 零封出局，本届赛事三支中国赛区参赛战队 TR、VG、XG 已全部遭到淘汰，无缘八强及后续主赛事阶段。 在最终淘汰轮中，以瑞士轮 2 胜 3 负战绩进入突围赛的 TR 对阵 3 胜 2 负的 Spirit。 首局比赛 TR 放出对手的土猫，前期对线即被打成三路劣势，最终翻盘无望打出 GG。 第二局 TR 选出绝活阵容，中单火猫盘活前期节奏，帮助队伍扳回一局。 决胜局 TR 在",
-     "source": "IT之家",
-     "zh": "《DOTA2》TI15 上海：中国战队 TR、VG、XG 折戟沉沙，无缘八强"
-    },
-    {
      "title": "牛来出圈记：“谁会在乎一杯奶茶的营养”",
      "link": "https://www.huxiu.com/article/4883465.html?f=rss",
      "pubDate": "Sun, 16 Aug 2026 16:23:22 +0800",
@@ -1817,28 +1857,12 @@
      "zh": "牛来出圈记：“谁会在乎一杯奶茶的营养”"
     },
     {
-     "title": "微软听劝：新版 Win11 右键菜单预览，设计更简洁、支持添加自定义选项",
-     "link": "https://www.ithome.com/0/990/296.htm",
-     "pubDate": "Sun, 16 Aug 2026 08:12:40 GMT",
-     "summary": "IT之家 8 月 16 日消息，博主 PhantomOfEarth 今日发布视频，展示了微软正在为 Win11 右键菜单准备的一系列更新。新版右键菜单目前处于 Windows 11 实验分支，尚未公开推送。 作为 Windows K2 计划（IT之家注：微软用于改进 Windows 11 体验的系列更新计划）的一部分，微软正在为 Windows 11 开发新的右键菜单，新菜单默认只显示最常用的操作，例如打开、打开方式、复制路径和复制，而大量用户吐槽的 AI 功能被移除，应用扩展被归入子菜单。 此外，Win11 默认隐藏的“显示更多选项”按钮不再出现，用户届时可通过 Shift+ 右键打开旧版菜",
-     "source": "IT之家",
-     "zh": "微软听劝：新版 Win11 右键菜单预览，设计更简洁、支持添加自定义选项"
-    },
-    {
      "title": "What happens when an LLM never sees material beyond fifth grade?",
      "link": "https://littlelearner-ll.github.io/",
      "pubDate": "Sun, 16 Aug 2026 07:37:53 +0000",
-     "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 66 # Comments: 45",
+     "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 91 # Comments: 59",
      "source": "Hacker News",
      "zh": "如果法学硕士从未见过五年级以上的材料，会发生什么？"
-    },
-    {
-     "title": "兆日科技四年连亏一日“翻身”，须警惕“易主+并购”背后的利益安排",
-     "link": "https://www.huxiu.com/article/4883455.html?f=rss",
-     "pubDate": "Sun, 16 Aug 2026 15:34:31 +0800",
-     "summary": "本文来自微信公众号： 每日经济新闻 ，编辑：张锦河盖源源，作者：每经评论员，原文标题：《兆日科技四年连亏一日“翻身”，须警惕“易主+并购”背后的利益安排 | 每经热评》 8月12日晚，兆日科技公告称，控股股东新疆晁骏与璟和珩签署股份转让协议，拟转让其持有的全部14.18%股份，交易对价5.39亿元，完成后璟和珩将成为新的控股股东，曲嘉麟成为实控人。公司同日发布发行股份及支付现金购买资产预案，拟收购曲嘉麟旗下佰内科技控制权。同时向特定投资者募集配套资金，募集资金拟用于支付本次并购交易中的现金对价、交易税费、中介机构费用、标的公司项目建设、偿还银行借款、补充上市公司及标的公司流动资金等。 8月13",
-     "source": "虎嗅",
-     "zh": "兆日科技四年连亏一日“翻身”，须警惕“易主+并购”背后的利益安排"
     },
     {
      "title": "Fields Medalist Timothy Gowers says most famous mathematics problems solved by LLMs so far have almost all been with counterexamples rather than proofs (Timothy Gowers/Gowers&apos;s Weblog)",
@@ -1873,34 +1897,10 @@
      "zh": "Pathway 正在开发基于其所谓的“Post-Transformer”BDH 架构的人工智能模型，以 5 亿美元的估值筹集了 3000 万美元的种子资金（Antoine Tardif/Unite.AI）"
     },
     {
-     "title": "确定性瓦解时代，进取的现实主义，年轻人正在把自己活成一家公司",
-     "link": "https://www.huxiu.com/article/4883442.html?f=rss",
-     "pubDate": "Sun, 16 Aug 2026 12:23:48 +0800",
-     "summary": "本文来自微信公众号： 老高的小茶馆 ，作者：老高的小茶馆，题图来自：AI生成 加班到九点热冻餐，包上挂着新哭哭马：我们没躺平，在自救！ 这届年轻人一边抠着几块钱的伙食费，一边在潮玩店几百块眼都不眨一下。这不是分裂，是清醒。 上个月去杭州出差，跟当地一个经销商吃饭。他九八年的儿子刚毕业一年，在互联网公司上班。饭桌上聊起日常开销，小孩说他现在基本不点外卖，周末集中做一次饭，分装冻起来，工作日热一热就吃。我当时没太当回事。小孩穿得朴素，背着个双肩包，包上挂了个三丽鸥的小公仔，丑萌丑萌的。以为就是个例。 回来跟公司一个九八年的小伙子聊，他打开冰箱给我看。一排排保鲜盒，贴着手写标签，卤牛肉两百克，杂粮饭",
-     "source": "虎嗅",
-     "zh": "确定性瓦解时代，进取的现实主义，年轻人正在把自己活成一家公司"
-    },
-    {
-     "title": "海绵宝宝才是真正的克苏鲁文学",
-     "link": "https://www.huxiu.com/article/4883213.html?f=rss",
-     "pubDate": "Sun, 16 Aug 2026 12:21:01 +0800",
-     "summary": "出品 | 虎嗅青年文化组 作者 | 阿珂可 编辑 | 渣渣郡 本文首发于虎嗅年轻内容公众号&ldquo;那個NG&rdquo;（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 洛夫克拉夫特已甘拜下风，因为海绵宝宝才是真正的克苏鲁文学。 从中诞生的，早已不只是各路野史和阴谋论。它变成了承载时代焦虑的黑暗童话，或者成为暗喻劳资矛盾的一枚棋子。 要是这么下去，海绵宝宝迟早师承神话中的海怪克拉肯，成为世界最负盛名的深海怪物。 海绵宝宝，又称世界上最不吃压力之物，在这几天成了劳资矛盾的原爆点。 这名位列全球动画Top 5的男主角，在众人唾弃中被垂直打入冷宫。现在，海绵宝宝",
-     "source": "虎嗅",
-     "zh": "海绵宝宝才是真正的克苏鲁文学"
-    },
-    {
-     "title": "如今，1分真快值100万了",
-     "link": "https://www.huxiu.com/article/4882893.html?f=rss",
-     "pubDate": "Sun, 16 Aug 2026 12:21:00 +0800",
-     "summary": "出品 | 虎嗅青年文化组 本文首发于虎嗅年轻内容公众号&ldquo;那個NG&rdquo;（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 一个行业究竟发展到了什么阶段，看招聘信息往往比听从业者讲故事更直观。 毕竟，当资本、公司和玩家开始愿意为一项工作单独设岗、定薪，它就已经从兴趣爱好变成了一门值得专人负责、细心对待的生意。 今天的卡牌行业就是如此，而卡牌修复师就是狂飙突进趋势中最令人新鲜的一个。 @修卡师Showcards的创始人江先生也是从卡迷转变成从业者的，而转换的契机在于一次修卡失败的经历。 模糊的体验、糟糕的评级反馈，让他意识到当卡牌市场越来越成熟，但",
-     "source": "虎嗅",
-     "zh": "如今，1分真快值100万了"
-    },
-    {
      "title": "Falstad Math and Physics Simulations",
      "link": "https://www.falstad.com/mathphysics.html",
      "pubDate": "Sun, 16 Aug 2026 04:19:32 +0000",
-     "summary": "Article URL: https://www.falstad.com/mathphysics.html Comments URL: https://news.ycombinator.com/item?id=49316872 Points: 11 # Comments: 1",
+     "summary": "Article URL: https://www.falstad.com/mathphysics.html Comments URL: https://news.ycombinator.com/item?id=49316872 Points: 12 # Comments: 2",
      "source": "Hacker News",
      "zh": "弗斯塔德数学和物理模拟"
     },
@@ -1908,7 +1908,7 @@
      "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
      "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
      "pubDate": "Sun, 16 Aug 2026 02:36:10 +0000",
-     "summary": "Article URL: https://spectrum.ieee.org/stimulated-geologic-hydrogen Comments URL: https://news.ycombinator.com/item?id=49316395 Points: 16 # Comments: 5",
+     "summary": "Article URL: https://spectrum.ieee.org/stimulated-geologic-hydrogen Comments URL: https://news.ycombinator.com/item?id=49316395 Points: 18 # Comments: 5",
      "source": "Hacker News",
      "zh": "撞击岩石释放受激地质氢"
     },
@@ -1926,13 +1926,13 @@
      "pubDate": "Sat, 15 Aug 2026 22:20:29 -0400",
      "summary": "Grace Shao / Bloomberg : Chinese citizens are more optimistic about AI than Americans because AI is seen as a practical tool in China that disrupts a smaller share of its population &nbsp; &mdash;&nbsp; Different experiences with technology have shaped radically different expectations of what artifi",
      "source": "Techmeme",
-     "zh": "中国公民比美国人对人工智能更加乐观，因为人工智能在中国被视为一种实用工具，只会扰乱一小部分人口（Grace Shao/彭博社）"
+     "zh": "中国公民对人工智能比美国人更加乐观，因为人工智能在中国被视为一种实用工具，只会扰乱一小部分人口（Grace Shao/彭博社）"
     },
     {
      "title": "Patterns and problems in emerging multi-agent systems",
      "link": "https://www.anthropic.com/research/multiagent-systems",
      "pubDate": "Sun, 16 Aug 2026 02:12:53 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/multiagent-systems Comments URL: https://news.ycombinator.com/item?id=49316271 Points: 74 # Comments: 28",
+     "summary": "Article URL: https://www.anthropic.com/research/multiagent-systems Comments URL: https://news.ycombinator.com/item?id=49316271 Points: 82 # Comments: 30",
      "source": "Hacker News",
      "zh": "新兴多智能体系统的模式和问题"
     },
@@ -1948,7 +1948,7 @@
      "title": "Guiding Ships with Moire Patterns",
      "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
      "pubDate": "Sun, 16 Aug 2026 01:26:44 +0000",
-     "summary": "Article URL: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/ Comments URL: https://news.ycombinator.com/item?id=49315995 Points: 43 # Comments: 10",
+     "summary": "Article URL: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/ Comments URL: https://news.ycombinator.com/item?id=49315995 Points: 50 # Comments: 10",
      "source": "Hacker News",
      "zh": "用莫尔图案引导船舶"
     },
@@ -1972,7 +1972,7 @@
      "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
      "link": "https://www.micdrop.gg/",
      "pubDate": "Sun, 16 Aug 2026 00:46:29 +0000",
-     "summary": "Article URL: https://www.micdrop.gg/ Comments URL: https://news.ycombinator.com/item?id=49315742 Points: 53 # Comments: 20",
+     "summary": "Article URL: https://www.micdrop.gg/ Comments URL: https://news.ycombinator.com/item?id=49315742 Points: 55 # Comments: 21",
      "source": "Hacker News",
      "zh": "Show HN: Mic Drop，一款实时多人卡拉 OK 游戏"
     },
@@ -2008,6 +2008,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Have a Pixel 10 Pro? Here are 6 reasons you shouldn’t upgrade to the Pixel 11 Pro",
+     "link": "https://www.androidauthority.com/pixel-10-pro-vs-pixel-11-pro-3696445/",
+     "pubDate": "Sun, 16 Aug 2026 09:30:25 +0000",
+     "summary": "Don't be tempted by the Pixel 11 Pro. Google's 2025 Pixel still has plenty to give.",
+     "source": "Android Authority",
+     "zh": "有 Pixel 10 Pro 吗？以下是您不应该升级到 Pixel 11 Pro 的 6 个原因"
+    },
+    {
+     "title": "Your Samsung phone has a hidden Settings shortcut menu — here’s how to enable it",
+     "link": "https://www.androidauthority.com/samsung-phone-hidden-settings-shortcuts-how-to-use-3696140/",
+     "pubDate": "Sun, 16 Aug 2026 09:00:07 +0000",
+     "summary": "A one-time setup that saves you time every day.",
+     "source": "Android Authority",
+     "zh": "您的三星手机有一个隐藏的“设置”快捷菜单 - 以下是启用它的方法"
+    },
     {
      "title": "Weekly poll results: a surprising number of people are using feature phones",
      "link": "https://www.gsmarena.com/weekly_poll_results_a_surprising_number_of_people_are_using_feature_phones-news-74159.php",
@@ -2209,22 +2225,6 @@
      "zh": "您应该购买 5 款 Android 手机，而不是 Motorola Edge (2026)"
     },
     {
-     "title": "The Home Speaker is the wrong $99 Google Home gadget to buy in 2026",
-     "link": "https://www.androidauthority.com/google-home-speaker-nest-display-comparison-3696291/",
-     "pubDate": "Sat, 15 Aug 2026 10:00:53 +0000",
-     "summary": "I still wouldn't trade my original Nest Hub for the new Home Speaker.",
-     "source": "Android Authority",
-     "zh": "Home Sound 是 2026 年不值得购买的 99 美元 Google Home 小工具"
-    },
-    {
-     "title": "Pixel 11 or Pixel 10a? Here’s why the Pixel 11 really is worth $400 more",
-     "link": "https://www.androidauthority.com/pixel-11-vs-pixel-10a-3696152/",
-     "pubDate": "Sat, 15 Aug 2026 09:30:56 +0000",
-     "summary": "The Pixel 11 really is worth splurging for.",
-     "source": "Android Authority",
-     "zh": "Pixel 11 还是 Pixel 10a？这就是为什么 Pixel 11 确实更值 400 美元"
-    },
-    {
      "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
      "link": "https://sspai.com/post/111974",
      "pubDate": "Sat, 15 Aug 2026 15:07:54 +0800",
@@ -2257,20 +2257,12 @@
    "total": 13,
    "items": [
     {
-     "title": "电影《牛来》实时票房破500万",
-     "link": "http://finance.eastmoney.com/news/1350,202608163842510064.html",
-     "pubDate": "Sun, 16 Aug 2026 16:44:06 +0800",
-     "summary": "据灯塔专业版，影片《牛来》上映第12天，累计票房突破500万。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "电影《牛来》实时票房破500万"
-    },
-    {
-     "title": "兴证策略：当更多景气线索被“看见”",
-     "link": "http://finance.eastmoney.com/news/1344,202608163842509890.html",
-     "pubDate": "Sun, 16 Aug 2026 16:30:15 +0800",
-     "summary": "一、8月以来市场的修复：广度明显提升 随着“去杠杆”对于流动性和情绪的拖累告一段落，8月市场迎来新一轮上行。虽然仍由科技股引领上涨，但相较于此前AI的“一枝独秀”，本轮行情修复的广度明显提升，这是近期市场感受上最大的不同。 本轮上涨并非单个板块的“一枝独秀”。近期上涨的过程中，行业轮动强度仍在年内高位，表明市场正在各个板块间轮动扩散寻找机会。 8月以来受益于市场上涨的个股也明显增多。8月以来的这轮修复中，全A 30均线上个股占比由此前20%的低位持续上升至当前的80%附近。 放眼全球也是如此。近期行情的修复并非局限于少数市场，而是一场全球范围的共振。跟踪全球52个主要国家/地区股市表现，通过“",
-     "source": "东方财富股票",
-     "zh": "兴证策略：当更多景气线索被“看见”"
+     "title": "库什纳访以埃在即 哈马斯领导人赴埃会谈",
+     "link": "http://www.eeo.com.cn/2026/0816/1000583.shtml",
+     "pubDate": "Sun, 16 Aug 2026 16:52:22 +0800",
+     "summary": "新华财经北京8月16日电（王逸君）巴勒斯坦伊斯兰抵抗运动（哈马斯）消息人士15日透露，哈马斯政治局主席哈利勒·哈亚当晚启程前往埃及，定于16日与埃及情报总局局长哈桑·拉沙德举行会晤。 媒体注意到，哈亚赴埃时间节点比较敏感。美国总统特朗普的女婿库什纳将在美国发起的所谓“和平委员会”加沙高级代表尼古拉·姆拉德诺夫陪同下，于下周访问以色列和埃及，试图弥合美国和以色列围绕加沙和平计划产生的分歧。 <p cl...",
+     "source": "经济观察网",
+     "zh": "库什纳访以埃在即 哈马斯领导人赴埃会谈"
     },
     {
      "title": "LG电子巴西新工厂投产",
@@ -2279,38 +2271,6 @@
      "summary": "【LG电子巴西新工厂投产】据韩联社16日报道，LG电子位于巴西巴拉那州的新家电工厂13日（当地时间）正式投产。这是LG电子继1996年设立亚马孙州马瑙斯工厂后，在巴西建立的第二个生产基地，具备年产约60万台冰箱的能力。（中新经纬APP）",
      "source": "经济观察网",
      "zh": "LG电子巴西新工厂投产"
-    },
-    {
-     "title": "高争民爆：控股股东拟变更为地矿集团",
-     "link": "http://finance.eastmoney.com/news/1354,202608163842509734.html",
-     "pubDate": "Sun, 16 Aug 2026 16:22:03 +0800",
-     "summary": "高争民爆 (002827.SZ)公告称，公司控股股东藏建集团拟将其持有的9419.56万股股份(占总股本34%)无偿划转至地矿集团。本次划转完成后，地矿集团将成为公司控股股东，实际控制人仍为西藏自治区国资委。本次收购符合免于发出要约情形，尚需取得深交所合规性确认等程序。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "高争民爆：控股股东拟变更为地矿集团"
-    },
-    {
-     "title": "盛科通信：签订以太网交换芯片重大合同 金额超过去年营收50%以上",
-     "link": "http://finance.eastmoney.com/news/1354,202608163842509665.html",
-     "pubDate": "Sun, 16 Aug 2026 16:20:24 +0800",
-     "summary": "盛科 通信 (688702.SH)公告称，公司与关联方深圳 中电港 技术股份有限公司签订产品销售合同，合同金额超过公司最近一个会计年度经审计营收的50%以上，且超过1亿元，合同标的为以太网交换芯片。本合同属于履行期限超过一年的长期合同，收入将分期确认，不会在2026年当期一次性确认，对公司2026年度经营业绩影响相对有限。若顺利履行，预计将对合同履行期内相关年度业绩形成正向影响。注：财报显示，盛科 通信 2025年营业总收入11.51亿元。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "盛科通信：签订以太网交换芯片重大合同 金额超过去年营收50%以上"
-    },
-    {
-     "title": "中微半导：上半年净利润同比增长98.48%",
-     "link": "http://finance.eastmoney.com/news/1354,202608163842509513.html",
-     "pubDate": "Sun, 16 Aug 2026 16:20:24 +0800",
-     "summary": "中微半导 (688380.SH)发布2026年半年度报告，实现营业收入7.26亿元，同比增长44.01%；归属于上市公司股东的净利润1.72亿元，同比增长98.48%。公司紧抓AI、 机器人 及 汽车 电子 高景气机遇，通过高强度研发投入提升产品集成度与性能，叠加“大客户战略”落地带来的标杆效应，推动市占率稳步提升。注：公司Q2净利润1.2亿，Q1净利润0.51亿，据此计算，Q2净利润环比增长134%。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "中微半导：上半年净利润同比增长98.48%"
-    },
-    {
-     "title": "华联控股：收到加拿大FIRES通知函 阿根廷锂盐湖项目投资可能触发审查",
-     "link": "http://finance.eastmoney.com/news/1354,202608163842509497.html",
-     "pubDate": "Sun, 16 Aug 2026 16:16:21 +0800",
-     "summary": "华联控股 (000036.SZ)公告称，公司收到加拿大外国投资审查及经济安全主管机构(FIRES)出具的《通知函》，认为公司对阿根廷阿里扎罗 锂 盐湖项目的投资可能影响加拿大国家安全，可能启动进一步审查。公司以约1.75亿美元受让ArgentumLithiumS.A.100%股份，获得该项目80%权益。公司暂无法评估此通知函可能产生的影响，本次交易能否最终通过审查存在不确定性。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "华联控股：收到加拿大FIRES通知函 阿根廷锂盐湖项目投资可能触发审查"
     },
     {
      "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，管离职潮持续，上市计划悄然推迟",
@@ -2401,14 +2361,6 @@
      "zh": "大幅飙涨！万亿巨头利好来袭！机构上调目标价"
     },
     {
-     "title": "中华民族共同体的历史演进与中华民族伟大复兴",
-     "link": "http://www.eeo.com.cn/2026/0816/1000288.shtml",
-     "pubDate": "Sun, 16 Aug 2026 13:43:38 +0800",
-     "summary": "中华民族共同体的历史演进与中华民族伟大复兴 潘 岳 自古以来，我国各族人民共同创造了璀璨的中华文明，铸就了伟大的中华民族。中华民族从历史走向未来、从传统走向现代、从多元凝聚为一体，有着独特的形成发展脉络。党的十八大以来，以习近平同志为核心的党中央把马克思主义民族理论同中国民族问题具体实际、同中华优秀传统文化相结合，把铸牢中华民族...",
-     "source": "经济观察网",
-     "zh": "中华民族共同体的历史演进与中华民族伟大复兴"
-    },
-    {
      "title": "Most US voters say they are worse off under Trump — FT poll",
      "link": "https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1",
      "pubDate": "Sun, 16 Aug 2026 04:01:09 GMT",
@@ -2495,6 +2447,54 @@
      "summary": "“We were advised to return the bonus and take out a home-equity loan.”",
      "source": "MarketWatch",
      "zh": "“这是一把双刃剑”：我丈夫获得了 42,000 美元的奖金。它会消除我们的《平价医疗法案》补贴吗？"
+    },
+    {
+     "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+     "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+     "pubDate": "Sat, 15 Aug 2026 20:00:00 GMT",
+     "summary": "“I don’t expect my marginal tax rate to be materially different in the future.”",
+     "source": "MarketWatch",
+     "zh": "我今年 63 岁，是一名退休注册会计师，拥有 120 万美元的 401(k) 资金。我需要费心进行罗斯转换吗？"
+    },
+    {
+     "title": "Key deals this week: Workday, Diversified Energy, Aurora Cannabis, and more",
+     "link": "https://seekingalpha.com/news/4633577-key-deals-this-week-workday-diversified-energy-aurora-cannabis-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 15 Aug 2026 15:15:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "本周主要交易：Workday、Diversified Energy、Aurora Cannabis 等"
+    },
+    {
+     "title": "Think interest rates are high now? These charts offer a different perspective.",
+     "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 15 Aug 2026 19:01:00 GMT",
+     "summary": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
+     "source": "MarketWatch",
+     "zh": "觉得现在利率高吗？这些图表提供了不同的视角。"
+    },
+    {
+     "title": "Jane Street lost $15B in July after Situational Awareness meltdown: report",
+     "link": "https://seekingalpha.com/news/4633589-jane-street-lost-15b-post-situational-awareness-meltdown?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 15 Aug 2026 14:33:26 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "态势感知崩溃后，Jane Street 在 7 月份损失了 $15B：报告"
+    },
+    {
+     "title": "Owning a home is overrated. Renting is now often a much better money move.",
+     "link": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 15 Aug 2026 18:23:00 GMT",
+     "summary": "There are better ways to think about investments than homeownership.",
+     "source": "MarketWatch",
+     "zh": "拥有房屋被高估了。现在租房往往是一种更好的赚钱方式。"
+    },
+    {
+     "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
+     "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
+     "pubDate": "Sat, 15 Aug 2026 18:05:00 GMT",
+     "summary": "For diversification in the stock market, there are actively managed alternatives to index funds.",
+     "source": "MarketWatch",
+     "zh": "一只持有多达 800 只股票的主动基金正在跑赢主要指数。方法如下。"
     }
    ]
   },
@@ -2504,6 +2504,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Which building blocks of life have been found in space, and which haven't?",
+     "link": "https://www.livescience.com/space/which-building-blocks-of-life-have-been-found-in-space-and-which-havent",
+     "pubDate": "Sun, 16 Aug 2026 09:00:00 +0000",
+     "summary": "So far, researchers have found many signs of the building blocks of life in space, but what exactly have they discovered, and what remains to be found?",
+     "source": "Live Science",
+     "zh": "哪些生命的组成部分在太空中被发现，哪些还没有？"
+    },
     {
      "title": "Scientists detect a surprising shift in human blood as CO2 rises",
      "link": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
@@ -2631,14 +2639,6 @@
      "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrating the first cyclic quantum heat engine of its kind. Future versions could operate autonomously inside quantum computers, potentially eliminating huge numbers of costly, noise-producing micr",
      "source": "ScienceDaily",
      "zh": "世界上第一个超导量子热机可以帮助解锁大规模量子计算机"
-    },
-    {
-     "title": "'The lance head was still inside the pelvis': Mass grave found in Austria may hold casualties of unknown ancient Roman battle",
-     "link": "https://www.livescience.com/archaeology/romans/the-lance-head-was-still-inside-the-pelvis-mass-grave-found-in-austria-may-hold-casualties-of-unknown-ancient-roman-battle",
-     "pubDate": "Fri, 14 Aug 2026 12:00:00 +0000",
-     "summary": "A new analysis of skeletons recovered from an ancient mass burial has revealed a surprising number of groin injuries.",
-     "source": "Live Science",
-     "zh": "“矛头仍在骨盆内”：奥地利发现的乱葬坑可能埋藏着未知古罗马战争的伤亡人员"
     },
     {
      "title": "A stress hormone may help the brain repair itself",

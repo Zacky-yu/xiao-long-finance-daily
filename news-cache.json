@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-08-17T12:42:42.507Z",
+  "generatedAt": "2026-08-17T13:38:46.221Z",
   "count": 40,
   "items": [
     {
+      "title": "The stock market is driving the economy in one major way",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-driving-the-economy-in-one-major-way-9ea09725?mod=mw_rss_topstories",
+      "pubDate": "Mon, 17 Aug 2026 13:35:00 GMT",
+      "content": "The wealth effect of higher equity prices has enabled U.S. consumers to continue spending even when changes in disposable income suggested recessions might be possible",
+      "source": "US",
+      "category": "美股市场"
+    },
+    {
       "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads.",
       "link": "https://www.marketwatch.com/story/the-ai-productivity-payoff-is-coming-here-are-20-stocks-primed-to-capture-the-gains-as-adoption-spreads-443842ac?mod=mw_rss_topstories",
-      "pubDate": "Mon, 17 Aug 2026 12:37:00 GMT",
+      "pubDate": "Mon, 17 Aug 2026 13:30:00 GMT",
       "content": "So far investors have been focused on artificial-intelligence infrastructure plays rather than productivity beneficiaries, says Goldman Sachs.",
       "source": "US",
       "category": "黄金白银"
+    },
+    {
+      "title": "Getting diagnosed with dementia isn’t the end. It’s a time to take financial action.",
+      "link": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
+      "pubDate": "Mon, 17 Aug 2026 13:30:00 GMT",
+      "content": "Careful planning in the early stages of memory loss can prevent financial and estate-planning headaches later.",
+      "source": "US",
+      "category": "全球综合"
+    },
+    {
+      "title": "The Mediterranean diet is the best one out there. Here’s why Americans struggle with it.",
+      "link": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
+      "pubDate": "Mon, 17 Aug 2026 12:54:00 GMT",
+      "content": "It’s not just about eating well. It’s about cooking at home and sharing those meals with friends and family.",
+      "source": "US",
+      "category": "全球综合"
     },
     {
       "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
@@ -57,30 +81,6 @@
       "content": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
       "source": "US",
       "category": "美股市场"
-    },
-    {
-      "title": "Neighbors in rural Texas county are not happy about Elon Musk’s plan to erect world’s largest building",
-      "link": "https://www.marketwatch.com/story/neighbors-in-rural-texas-county-are-not-happy-about-elon-musks-plan-to-erect-worlds-largest-building-2183edcb?mod=mw_rss_topstories",
-      "pubDate": "Mon, 17 Aug 2026 09:04:00 GMT",
-      "content": "The latest project of trillionaire Elon Musk is a semiconductor factory the size of 1,000 Costco stores, and local residents are concerned about the impact.",
-      "source": "US",
-      "category": "半导体"
-    },
-    {
-      "title": "Former Starbucks CEO Howard Schultz sells home in Hawaii for $36 million after moving to Florida",
-      "link": "https://www.marketwatch.com/story/former-starbucks-ceohoward-schultz-sells-home-in-hawaii-for-36-million-after-moving-to-florida-fc1de897?mod=mw_rss_topstories",
-      "pubDate": "Mon, 17 Aug 2026 09:01:00 GMT",
-      "content": "Former Starbucks CEO Howard Schultz has sold his longtime Hawaii sanctuary for the staggering price of $36 million—just months after he bought a $44 million residence in Florida.",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
-      "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
-      "link": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
-      "pubDate": "Mon, 17 Aug 2026 03:02:00 GMT",
-      "content": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
-      "source": "FED",
-      "category": "美联储"
     },
     {
       "title": "Jobless claims fall to lowest level since mid-May",

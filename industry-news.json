@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/20 07:22:44",
+ "generated_at": "2026/8/20 07:48:05",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+     "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+     "pubDate": "Wed, 19 Aug 2026 23:32:00 +0000",
+     "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+     "source": "TechCrunch AI",
+     "zh": "Stripe 收购 OpenRouter 并不是因为它的“奇点”"
+    },
     {
      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
@@ -55,14 +63,6 @@
      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
      "source": "TechCrunch AI",
      "zh": "研究人员称 OpenAI 撤销了他们对有限网络程序的访问权限"
-    },
-    {
-     "title": "Meet the startup helping Wall Street put a price on AI compute",
-     "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-     "pubDate": "Wed, 19 Aug 2026 17:26:48 +0000",
-     "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or f",
-     "source": "TechCrunch AI",
-     "zh": "认识一下帮助华尔街为人工智能计算定价的初创公司"
     },
     {
      "title": "ICML 2026｜美图提出BridgeRemoval，让视频消除不再穿帮",
@@ -857,6 +857,22 @@
    "total": 9,
    "items": [
     {
+     "title": "Bouge RV’s Battery-Powered Portable Fridges Make Going Off Grid Easy (CleanTechnica Tested)",
+     "link": "https://cleantechnica.com/2026/08/19/bouge-rvs-battery-powered-portable-fridges-make-going-off-grid-easy-cleantechnica-tested/",
+     "pubDate": "Wed, 19 Aug 2026 23:39:03 +0000",
+     "summary": "Bouge RV has been a staple brand in the affordable solar and portable refrigeration space for years. Over the last few years, they have really ramped up their efforts to flesh out the product line, improving the quality of their products at the same time. Disclaimer: Bouge RV provided the ... [conti",
+     "source": "CleanTechnica",
+     "zh": "Bouge RV 的电池供电便携式冰箱让脱离电网变得容易（经过 CleanTechnica 测试）"
+    },
+    {
+     "title": "16 Agrivoltaic Projects on Local Farms Move Forward in New Jersey",
+     "link": "https://cleantechnica.com/2026/08/19/16-agrivoltaic-projects-on-local-farms-move-forward-in-new-jersey/",
+     "pubDate": "Wed, 19 Aug 2026 23:24:05 +0000",
+     "summary": "16 agrivoltaic projects in the state of New Jersey have just gotten approval to move forward by the New Jersey Board of Public Utilities (NJBPU). Together, the projects aren’t huge, but they do total 52.06 more megawatts of clean, renewable energy, produced on land productively being used for agricu",
+     "source": "CleanTechnica",
+     "zh": "新泽西州当地农场的16个农业光伏项目取得进展"
+    },
+    {
      "title": "Hope Fades, Traders Brace for Extended Oil, LNG Squeeze",
      "link": "https://oilprice.com/Energy/Crude-Oil/Hope-Fades-Traders-Brace-for-Extended-Oil-LNG-Squeeze.html",
      "pubDate": "Wed, 19 Aug 2026 18:00:00 -0500",
@@ -1079,22 +1095,6 @@
      "summary": "Enel Green Power, part of the Italy-based power group Enel, has launched construction on another large-scale BESS in Chile.",
      "source": "Energy Storage News",
      "zh": "Enel开始在智利太阳能光伏电站建设100MW并网BESS"
-    },
-    {
-     "title": "Czechia’s largest BESS goes online",
-     "link": "https://www.pv-magazine.com/2026/08/19/czechias-largest-bess-goes-online/",
-     "pubDate": "Wed, 19 Aug 2026 11:39:16 +0000",
-     "summary": "Suas Group and EIF expect the BESS Lipnice facility to achieve a five- to eight-year payback by combining day-ahead and intraday market trading with algorithmic management. The post Czechia’s largest BESS goes online appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "捷克最大BESS上线"
-    },
-    {
-     "title": "Sage Geosystems brings its first next-gen geothermal plant online",
-     "link": "https://www.canarymedia.com/articles/geothermal/sage-geosystems-next-gen-geothermal-online",
-     "pubDate": "Wed, 19 Aug 2026 07:00:00 -0400",
-     "summary": "Sage Geosystems has hit a big milestone out on a rugged tract near San Antonio: The startup is producing power from its first next-generation geothermal plant. The system is just the third of its kind to come online in the U.S. as the sector races to commercialize the source of on-demand clean elect",
-     "source": "Canary Media",
-     "zh": "Sage Geosystems 上线其首个下一代地热发电厂"
     }
    ]
   },
@@ -1761,10 +1761,50 @@
    "total": 18,
    "items": [
     {
+     "title": "曝英特尔 8 核 Panther Lake 掌机处理器 cTDP 功耗 8~25W",
+     "link": "https://www.ithome.com/0/991/877.htm",
+     "pubDate": "Wed, 19 Aug 2026 23:44:57 GMT",
+     "summary": "IT之家 8 月 20 日消息，科技媒体 VideoCardz 昨日（8 月 19 日）发布博文，报道称英特尔正规划推出入门级 Panther Lake 掌机处理器， 可配置热设计功耗（cTDP）范围为 8~25W。 IT之家此前报道，英特尔计划为 Panther Lake 掌机处理器扩充低功耗产品线，将推出全新入门级芯片，采用 4 个 P-Core 性能核心、0 个 E-Core 能效核心、4 个 LPE 低功耗核心以及 4 个 Xe3 图形核心。 按 TDP 上限比较，这款新芯片的 25W 比 Arc G3 低 5W，比 Arc G3 Extreme 低 10W；3 款配置的最低值均为 8",
+     "source": "IT之家",
+     "zh": "曝英特尔 8 核 Panther Lake 掌机处理器 cTDP 功耗 8~25W"
+    },
+    {
+     "title": "骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片",
+     "link": "https://www.ithome.com/0/991/876.htm",
+     "pubDate": "Wed, 19 Aug 2026 23:39:10 GMT",
+     "summary": "IT之家 8 月 20 日消息，过去几个月以来，一直有传闻称，高通将在一年一度的骁龙峰会上推出两款，而不是一款骁龙 8 Elite Gen 6 SoC。IT之家注意到，如今高通似乎通过 X 发布的最新预告正式证实了这一消息。 “两个改变游戏规则的产品”“机会翻倍”“双 8 Elite”—— 从这些文案来看，高通显然是在暗示将推出两款骁龙 8 Elite 系列芯片。虽然高通目前还没有正式公布它们的具体名称，但按照目前的预热节奏，相信官方很快就会揭晓答案。 目前来看，骁龙 8 Elite Gen 6 和骁龙 8 Elite Gen 6 Pro 将于 9 月 22 日在骁龙峰会上正式亮相。此前，Pr",
+     "source": "IT之家",
+     "zh": "骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片"
+    },
+    {
+     "title": "暴涨的莫德纳：一场等了四年的mRNA正名之战",
+     "link": "https://www.huxiu.com/article/4884420.html?f=rss",
+     "pubDate": "Thu, 20 Aug 2026 07:34:43 +0800",
+     "summary": "本文来自微信公众号： 医曜 ，作者：王喆 本文系基于公开资料撰写，仅作为信息交流之用，不构成任何投资建议 2021年8月，莫德纳（Moderna）股价站上484美元的历史高点，市值逼近2000亿美元，一度超过百年药企默沙东。彼时的资本市场相信，mRNA是人类医药史的新大陆，而莫德纳就是那个拿着地图的人。 地图后来证明是真的，但新大陆上最先挖到的金矿“新冠疫苗”，五年就挖完了。 疫情红利退潮后，莫德纳的收入从2022年的192亿美元断崖式跌至2025年的不足20亿美元，连续四年营收下滑，累计亏损数十亿美元。到2026年初，这家曾经的\"疫苗之王\"账上虽然还躺着69亿美元现金，但资本市场给它的定价，",
+     "source": "虎嗅",
+     "zh": "暴涨的莫德纳：一场等了四年的mRNA正名之战"
+    },
+    {
+     "title": "亚马逊推送更新，封堵用户备份 Kindle Oasis 电子书路径",
+     "link": "https://www.ithome.com/0/991/875.htm",
+     "pubDate": "Wed, 19 Aug 2026 23:30:21 GMT",
+     "summary": "IT之家 8 月 20 日消息，亚马逊 Kindle Oasis 虽然已经是一款老产品，但依然拥有相当稳定的用户群。这款设备的一大优势在于，只要用户愿意花些功夫，过去仍然可以备份自己购买的电子书。然而，随着亚马逊最近向设备推送一次更新，这条路现在似乎已经被堵上了。 据 Good e-Reader 网站报道，亚马逊在过去几天的某个时间点为 Kindle Oasis 系列推送了新软件，并采用了亚马逊目前正在使用的加密系统。这套加密机制如今已经应用于几乎所有 Kindle 设备。新系统让用户很难再备份自己购买的电子书。 虽然从法律和商业角度来看，人们是否真正“拥有”自己购买的数字内容一直存在争议，但",
+     "source": "IT之家",
+     "zh": "亚马逊推送更新，封堵用户备份 Kindle Oasis 电子书路径"
+    },
+    {
+     "title": "古尔曼：苹果带摄像头的 AirPods Pro 3 增强版耳机延至 2027 年发布",
+     "link": "https://www.ithome.com/0/991/874.htm",
+     "pubDate": "Wed, 19 Aug 2026 23:26:42 GMT",
+     "summary": "IT之家 8 月 20 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（8 月 20 日）在 X 平台发布推文，带摄像头的 AirPods 耳机内部代号为 B790，苹果公司计划在 2027 年发布。 古尔曼在博文中认为，苹果公司目前正在研发 B790 和 B798 两款耳机。其中 B790 就是带摄像头的 AirPod Pro 3 增强版，而 B798 是带有摄像头的 AirPods Pro 4 耳机，扩展传感器与 AI 功能。IT之家附上相关截图如下： 发布日期方面，此前消息称苹果公司计划 2026 年发布带摄像头的 AirPod Pro 3 增强版，不过最新消息称苹果公司",
+     "source": "IT之家",
+     "zh": "古尔曼：苹果带摄像头的 AirPods Pro 3 增强版耳机延至 2027 年发布"
+    },
+    {
      "title": "Valve Steam Frame VR 头显官方教学视频泄露：佩戴、登录与配件细节曝光",
      "link": "https://www.ithome.com/0/991/873.htm",
      "pubDate": "Wed, 19 Aug 2026 23:20:14 GMT",
-     "summary": "IT之家 8 月 20 日消息，Valve 今天在一次 ARM 版 Steam 客户端更新中意外发布了 8 段关于 Steam Frame VR 头显的视频。在这些教学视频被删除之前，用户已经发现、保存并在网上分享了它们。Valve 后来主动发布了其中一部分，剩下的视频也任由它们继续在网络上传播。 这些视频并没有透露什么令人震惊的新信息，但对 Steam Frame 的登录流程、头显佩戴方式以及随附配件进行了相当详细的展示。所有视频的风格都非常简洁、友好，还有点搞怪。 其中，登录视频尤其充满戏谑意味。视频展示了一种可选的、略显荒诞的登录方式：用户只需将手机摄像头对准头显的一侧镜片，并进行对焦，",
+     "summary": "IT之家 8 月 20 日消息，Valve 今天在一次 ARM 版 Steam 客户端更新中意外发布了 8 段关于 Steam Frame VR 头显的视频。在这些教学视频被删除之前，用户已经发现、保存并在网上分享了它们。Valve 后来主动发布了其中一部分，剩下的视频也任由它们继续在网络上传播。 这些视频并没有透露什么令人震惊的新信息，但对 Steam Frame 的登录流程、头显佩戴方式以及随附配件进行了相当详细的展示。所有视频的风格都非常简洁、友好，还有点搞怪。 开箱 其中，登录视频尤其充满戏谑意味。视频展示了一种可选的、略显荒诞的登录方式：用户只需将手机摄像头对准头显的一侧镜片，并进行",
      "source": "IT之家",
      "zh": "Valve Steam Frame VR 头显官方教学视频泄露：佩戴、登录与配件细节曝光"
     },
@@ -1785,28 +1825,12 @@
      "zh": "三星宣布将于 8 月 27 日举办 Galaxy 发布会，有望推出 S26 FE"
     },
     {
-     "title": "特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面",
-     "link": "https://www.ithome.com/0/991/871.htm",
-     "pubDate": "Wed, 19 Aug 2026 23:14:18 GMT",
-     "summary": "IT之家 8 月 20 日消息，美国总统唐纳德 · 特朗普表示，数据中心可能需要重新树立公众形象。 特朗普当地时间周三在一场聚焦加密货币的活动结束后对记者表示：“我想说，它可能需要在公共关系方面得到一些帮助。” 特朗普明确表示，无论公众对数据中心的观感如何，他仍然坚定支持 AI 产业，以及 AI 企业为训练未来模型、满足预期市场需求而需要建设的相关设施。 他说：“如果我是州长或市长，我会希望我的社区拥有这样的工厂，而且其中很多设施的设计都非常漂亮。”特朗普还表示，数据中心能够创造“大量就业机会”，同时带来的税收收入“也是巨大的”。 特朗普发表上述言论之际，美国各州州长正面临越来越强烈的反对声音",
-     "source": "IT之家",
-     "zh": "特朗普力挺 AI 数据中心：反对建设的州和社区将被甩在后面"
-    },
-    {
      "title": "王兴很开心，王兴兴不一定",
      "link": "https://www.huxiu.com/article/4884415.html?f=rss",
      "pubDate": "Thu, 20 Aug 2026 07:12:08 +0800",
      "summary": "本文来自微信公众号： 版面之外 ，作者：画画，题图来自：视觉中国 这两天关于宇树IPO的讨论，最热闹的地方都在算钱。 王兴兴身家涨了多少，美团王兴赚了多少，早期投资人浮盈多少，员工又拿到了多少财富。 这些数字确实足够诱人，也很惊人。 但在上市现场，我反而注意到了另一个细节。 王兴兴看起来很平静。 当然，我们不能仅凭一张照片判断一个人的情绪。但这个细节放进当下的宇树IPO里，确实有点意味。 同一场上市，对于王兴和王兴兴来说，可能是两件完全不同的事情。 王兴押中的一笔投资，终于开始兑现。王兴兴亲手做出来的公司，则从IPO开始接受另一套规则的检验。 一、王兴很开心，王兴兴很平静 8月19日，宇树科技",
      "source": "虎嗅",
      "zh": "王兴很开心，王兴兴不一定"
-    },
-    {
-     "title": "三星 Galaxy A58 和 Galaxy Xcover FR 手机踪迹曝光",
-     "link": "https://www.ithome.com/0/991/870.htm",
-     "pubDate": "Wed, 19 Aug 2026 23:10:51 GMT",
-     "summary": "IT之家 8 月 20 日消息，科技媒体 SamMobile 昨日（8 月 19 日）发布博文， 报道称在 GSMA IMEI 数据库中，发现了三星 Galaxy A58 以及 Galaxy Xcover FR 两款手机的踪迹。 上图为 Galaxy A57 手机 三星于 2026 年 3 月 25 日发布 Galaxy A57 手机，而作为继任机型，Galaxy A58 已经现身 GSMA IMEI 数据库，型号为 SM-A5860，通常是产品研发启动较早期的信号，按照三星现有的发行规律，Galaxy A58 可能会在 2027 年第 1 季度发布。 同一数据库还收录了 Galaxy Xco",
-     "source": "IT之家",
-     "zh": "三星 Galaxy A58 和 Galaxy Xcover FR 手机踪迹曝光"
     },
     {
      "title": "Trump urges Congress to pass the Clarity Act at a White House event with execs including the CEOs of Coinbase and Robinhood; the bill has stalled in the Senate (Bloomberg)",
@@ -1817,28 +1841,12 @@
      "zh": "特朗普在白宫举行的一次活动中敦促国会通过《澄清法案》，与会者包括 Coinbase 和 Robinhood 的首席执行官；该法案已在参议院陷入僵局（彭博社）"
     },
     {
-     "title": "Elon Musk Is Expected to Point His Money Machine at Texas",
+     "title": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
      "link": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/",
      "pubDate": "Wed, 19 Aug 2026 23:00:00 +0000",
      "summary": "Sources tell WIRED that Elon Musk is expected to spend up to $200 million in the midterms. It could be a big boost for GOP Senate candidate Ken Paxton, who’s struggled to raise cash.",
      "source": "WIRED",
-     "zh": "埃隆·马斯克预计将把他的赚钱机器指向德克萨斯州"
-    },
-    {
-     "title": "美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势",
-     "link": "https://www.ithome.com/0/991/869.htm",
-     "pubDate": "Wed, 19 Aug 2026 22:58:31 GMT",
-     "summary": "IT之家 8 月 20 日消息，据美国银行（Bank of America）数据，台积电（TSMC）位于美国亚利桑那州的工厂在整个集团营收和利润中的占比持续提升。台积电亚利桑那园区拥有其在美国最先进的芯片生产线，但自项目启动以来，美国更高的建设成本一直引发外界担忧。 目前，台积电亚利桑那园区共规划三个阶段，其中第一阶段已经投入运营，主要采用 4 纳米制程工艺生产半导体。近期有报道称，亚利桑那工厂正在为英伟达生产 AI GPU。由于台积电的高端封装产能目前仍主要集中在台湾地区，这些芯片完成晶圆制造后，还需要被空运至台湾地区进行最后的封装等生产环节。 亚利桑那园区的第二和第三阶段将生产更先进的芯片",
-     "source": "IT之家",
-     "zh": "美银数据：台积电亚利桑那工厂营收持续走高，盈利呈现波动态势"
-    },
-    {
-     "title": "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险",
-     "link": "https://www.ithome.com/0/991/868.htm",
-     "pubDate": "Wed, 19 Aug 2026 22:58:16 GMT",
-     "summary": "IT之家 8 月 20 日消息，OpenAI 公司今天（8 月 20 日）发布博文，宣布面向符合资格的前沿模型 API 客户，扩展“零数据留存”（Zero Data Retention）服务， 自动化系统可识别跨交互风险模式。 IT之家援引博文介绍，OpenAI 公司强调请求处理完成后，不保留提示词或模型回复，员工无法审阅客户内容，企业数据也不会用于训练模型（除非客户明确选择加入）。 OpenAI 指出随着模型承担更长、更复杂的任务，部分严重安全风险可能要在多轮交互后才会显现。现有兼容 ZDR 的安全系统通常逐条评估交互，难以识别跨对话、跨账户或持续试探安全机制的行为模式。 OpenAI 公司",
-     "source": "IT之家",
-     "zh": "OpenAI 扩展零数据留存安全机制，自动化分析跨交互风险"
+     "zh": "埃隆·马斯克预计将把他的赚钱机器指向德克萨斯州政治"
     },
     {
      "title": "Sources: YouTube is offering top creators millions to post videos exclusively on YouTube for a period and will penalize those that post to Netflix concurrently (Lucas Shaw/Bloomberg)",
@@ -1852,7 +1860,7 @@
      "title": "Collaborative Human Agent Protocol (CHAP)",
      "link": "https://github.com/BrightbeamAI/chap",
      "pubDate": "Wed, 19 Aug 2026 22:09:16 +0000",
-     "summary": "Article URL: https://github.com/BrightbeamAI/chap Comments URL: https://news.ycombinator.com/item?id=49367836 Points: 12 # Comments: 2",
+     "summary": "Article URL: https://github.com/BrightbeamAI/chap Comments URL: https://news.ycombinator.com/item?id=49367836 Points: 14 # Comments: 3",
      "source": "Hacker News",
      "zh": "协作人工代理协议 (CHAP)"
     },
@@ -1881,18 +1889,18 @@
      "zh": "特拉维斯·卡兰尼克 (Travis Kalanick) 开启新一轮风投抨击：“1% 是有帮助的”"
     },
     {
-     "title": "Anthropic Refuses to Support Agents.md",
+     "title": "Feature Request: Support AGENTS.md",
      "link": "https://github.com/anthropics/claude-code/issues/6235",
      "pubDate": "Wed, 19 Aug 2026 21:19:50 +0000",
-     "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 69 # Comments: 31",
+     "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235 Comments URL: https://news.ycombinator.com/item?id=49367350 Points: 80 # Comments: 40",
      "source": "Hacker News",
-     "zh": "人类拒绝支持特工.md"
+     "zh": "功能请求：支持 AGENTS.md"
     },
     {
      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
      "link": "https://os8088.com/spotlight/",
      "pubDate": "Wed, 19 Aug 2026 21:11:31 +0000",
-     "summary": "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 22 # Comments: 8",
+     "summary": "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 26 # Comments: 9",
      "source": "Hacker News",
      "zh": "Os8088.com：IBM XT OS 现在有浏览器、带有 Z80 核心的 CP/M 2.2 和 MS Word 1.1a"
     },
@@ -1908,7 +1916,7 @@
      "title": "DFlash 2: Keep Drafting Parallel",
      "link": "https://inco.ai/blog/dflash2/",
      "pubDate": "Wed, 19 Aug 2026 20:28:43 +0000",
-     "summary": "Article URL: https://inco.ai/blog/dflash2/ Comments URL: https://news.ycombinator.com/item?id=49366792 Points: 53 # Comments: 6",
+     "summary": "Article URL: https://inco.ai/blog/dflash2/ Comments URL: https://news.ycombinator.com/item?id=49366792 Points: 56 # Comments: 6",
      "source": "Hacker News",
      "zh": "DFlash 2：保持绘图并行"
     },
@@ -1924,7 +1932,7 @@
      "title": "Pressed Penny Machine Map",
      "link": "https://pennypresses.net/home/map.php",
      "pubDate": "Wed, 19 Aug 2026 20:13:47 +0000",
-     "summary": "Article URL: https://pennypresses.net/home/map.php Comments URL: https://news.ycombinator.com/item?id=49366597 Points: 32 # Comments: 29",
+     "summary": "Article URL: https://pennypresses.net/home/map.php Comments URL: https://news.ycombinator.com/item?id=49366597 Points: 33 # Comments: 30",
      "source": "Hacker News",
      "zh": "压硬币机地图"
     },
@@ -1945,18 +1953,10 @@
      "zh": "空乘人员对谷歌购买大量 Spirit 员工数据感到震惊"
     },
     {
-     "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
-     "link": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
-     "pubDate": "Wed, 19 Aug 2026 20:04:12 +0000",
-     "summary": "The actress' firm Kinship Ventures is an investor in the company.",
-     "source": "TechCrunch",
-     "zh": "据称格温妮丝·帕特洛将举办晚宴以纪念山姆·奥尔特曼"
-    },
-    {
      "title": "Xwayland 26.1.0 rc1",
      "link": "https://lists.x.org/archives/xorg/2026-August/062280.html",
      "pubDate": "Wed, 19 Aug 2026 20:03:03 +0000",
-     "summary": "Article URL: https://lists.x.org/archives/xorg/2026-August/062280.html Comments URL: https://news.ycombinator.com/item?id=49366474 Points: 39 # Comments: 13",
+     "summary": "Article URL: https://lists.x.org/archives/xorg/2026-August/062280.html Comments URL: https://news.ycombinator.com/item?id=49366474 Points: 40 # Comments: 17",
      "source": "Hacker News",
      "zh": "Xwayland 26.1.0 rc1"
     },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Camera-equipped AirPods reportedly won’t launch in 2026, despite demo video leak",
+     "link": "https://9to5mac.com/2026/08/19/camera-equipped-airpods-reportedly-wont-launch-in-2026-despite-demo-video-leak/",
+     "pubDate": "Wed, 19 Aug 2026 23:42:49 +0000",
+     "summary": "Bloomberg reports that despite Apple’s accidental inclusion of a demo video showcasing Visual Intelligence on AirPods, the product “remains on track for 2027.” Here are the details.",
+     "source": "9to5Mac",
+     "zh": "据报道，尽管演示视频泄露，配备摄像头的 AirPods 不会在 2026 年推出"
+    },
     {
      "title": "The Binding of Isaac: Repentance+ Online release goes head-to-head with GTA 6 on November 19",
      "link": "https://www.engadget.com/2240496/the-binding-of-isaac-repentance-online-release-goes-head-to-head-with-gta-6-on-november-19/",
@@ -2161,14 +2169,6 @@
      "zh": "周中 Android 应用优惠和赠品：《Last Day》、《Siralim》、《忍者英雄猫》、《洛夫克拉夫特不为人知的故事》等"
     },
     {
-     "title": "Special 1-day Apple anniversary sale: AirPods Pro 3, MacBook Pro $400 off, iPhone Air/17 Pro, AirTag 2, more",
-     "link": "https://9to5mac.com/2026/08/19/special-1-day-apple-anniversary-sale-airpods/",
-     "pubDate": "Wed, 19 Aug 2026 19:53:24 +0000",
-     "summary": "We are checking in today with a special edition of 9to5Toys Lunch Break – AirPods Pro 3 and AirPods Max 2 at $120 off are some of the best prices ever, but Best Buy has launched a special 1-day-only Apple sale event as part of its giant 60th Anniversary sale . Joining AirTag 2 back at all-time lows,",
-     "source": "9to5Mac",
-     "zh": "Apple 周年庆 1 天特别促销：AirPods Pro 3、MacBook Pro 立减 400 美元、iPhone Air/17 Pro、AirTag 2 等"
-    },
-    {
      "title": "Sony’s 2020 over-ear headphones to return for around $250 in new colors, leaks reveal [U]",
      "link": "https://9to5google.com/2026/08/19/sony-wh-1000xm4-re-release-leak/",
      "pubDate": "Wed, 19 Aug 2026 19:39:34 +0000",
@@ -2265,6 +2265,70 @@
      "zh": "Kraken 在美国推出加密借记卡"
     },
     {
+     "title": "重庆啤酒旺季承压，高档产品二季度由增转降",
+     "link": "https://wallstreetcn.com/articles/3779826",
+     "pubDate": "Thu, 20 Aug 2026 07:46:18 +0800",
+     "summary": "重庆啤酒在传统销售旺季的二季度明显转弱。 8月19日，重庆啤酒发布2026年半年报。上半年，公司实现营业收入85.76亿元，同比下降2.98%；归母净利润7.96亿元，同比下降7.98%；啤酒销量174.92万千升，同比下降约2.9%。 在啤酒行业整体进入存量阶段后，重庆啤酒的销量近两年已经基本进入平台期。 二季度，重庆啤酒销量约86.27万千升，同比下降约6%；营业收入约42.26亿元，同比下降约5.8%。 销量下滑存在一定外部因素。控股股东嘉士伯集团在半年报中提到，二季度中国中部和南部出现的恶劣天气进一步影响消费，其中重庆等优势市场受到明显冲击。 过去几年，在啤酒行业总量增长有限的情况下，",
+     "source": "华尔街见闻",
+     "zh": "重庆啤酒旺季承压，高档产品二季度由增转降"
+    },
+    {
+     "title": "天地科技：融资净偿还521.64万元，融资余额3.56亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608203846862273.html",
+     "pubDate": "Thu, 20 Aug 2026 07:43:22 +0800",
+     "summary": "交易所最新数据显示，天地科技于2026年8月19日获融资买入628.38万元，融资偿还1150.02万元， 当日融资净偿还521.64万元。 目前，该股融资余额3.56亿，占流通市值比例为1.77%。 该股当日融券卖出1.88万股，融券偿还6200股， 融券净卖出1.26万股。 目前，该股融券余量195.18万股，融券余额946.62万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引",
+     "source": "东方财富股票",
+     "zh": "天地科技：融资净偿还521.64万元，融资余额3.56亿元"
+    },
+    {
+     "title": "新华网：融资净偿还130.46万元，融资余额2.9亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608203846860997.html",
+     "pubDate": "Thu, 20 Aug 2026 07:43:18 +0800",
+     "summary": "交易所最新数据显示，新华网于2026年8月19日获融资买入709.84万元，融资偿还840.30万元， 当日融资净偿还130.46万元。 目前，该股融资余额2.90亿，占流通市值比例为2.46%。 该股当日融券卖出1.48万股，融券偿还500股， 融券净卖出1.43万股。 目前，该股融券余量7.56万股，融券余额120.03万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承",
+     "source": "东方财富股票",
+     "zh": "新华网：融资净偿还130.46万元，融资余额2.9亿元"
+    },
+    {
+     "title": "湘电股份：融资净偿还108.48万元，融资余额8.66亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608203846860766.html",
+     "pubDate": "Thu, 20 Aug 2026 07:43:17 +0800",
+     "summary": "交易所最新数据显示，湘电股份于2026年8月19日获融资买入1416.21万元，融资偿还1524.69万元， 当日融资净偿还108.48万元。 目前，该股融资余额8.66亿，占流通市值比例为6.99%。 该股当日融券卖出9.33万股，融券偿还5800股， 融券净卖出8.75万股。 目前，该股融券余量37.3万股，融券余额313.32万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致",
+     "source": "东方财富股票",
+     "zh": "湘电股份：融资净偿还108.48万元，融资余额8.66亿元"
+    },
+    {
+     "title": "Target projects around 5% FY2026 net sales growth as EPS guidance moves to $9.90-$10.90",
+     "link": "https://seekingalpha.com/news/4635195-target-projects-around-5-percent-fy2026-net-sales-growth-as-eps-guidance-moves-to-9_90-10_90?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 19 Aug 2026 19:32:38 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "随着每股收益指引升至 9.90-10.90 美元，目标预计 2026 财年净销售额增长约 5%"
+    },
+    {
+     "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+     "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+     "pubDate": "Wed, 19 Aug 2026 23:30:00 GMT",
+     "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+     "source": "MarketWatch",
+     "zh": "我儿子没有工作，但支付了 500 美元的《平价医疗法案》健康保险。这公平吗？"
+    },
+    {
+     "title": "“数字上海”建设“十五五”规划出炉 将加快建成具有世界影响力的“国际数字之都”",
+     "link": "http://www.eeo.com.cn/2026/0820/1004381.shtml",
+     "pubDate": "Thu, 20 Aug 2026 07:26:06 +0800",
+     "summary": "◎记者 宋薇萍8月19日，上海市人民政府办公厅发布《上海市“数字上海”建设“十五五”规划》（下称《规划》）。其中提到，到2030年，预计上海数字经济核心产业增加值占地区生产总值比重将由2025年的18%增长至20%以上，规模以上数字经济核心产业企业营业收入将由2025年的4.4万亿元增长至5万亿元以上。《规划》明确了“十五五”时期“数字上海”建设的总体目标、主要指标和5大重点任务。到2030年，“数字上海”建设将实现跨越式发展...",
+     "source": "经济观察网",
+     "zh": "“数字上海”建设“十五五”规划出炉 将加快建成具有世界影响力的“国际数字之都”"
+    },
+    {
+     "title": "Trump announces &apos;economic warfare&apos; on Iran, threatens ‘tremendous’ consequences for its backers",
+     "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+     "pubDate": "Wed, 19 Aug 2026 23:25:32 GMT",
+     "summary": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
+     "source": "CNBC",
+     "zh": "特朗普宣布对伊朗发动“经济战”，威胁为其支持者带来“巨大”后果"
+    },
+    {
      "title": "美加贸易谈判取得突破，报道：美国拟将钢铝关税减半至25%、汽车关税降至15%",
      "link": "https://wallstreetcn.com/articles/3779838",
      "pubDate": "Thu, 20 Aug 2026 07:20:57 +0800",
@@ -2281,18 +2345,10 @@
      "zh": "我持有我岳母的授权书。我也是她的遗嘱执行人和受托人。我有最终的权力吗？"
     },
     {
-     "title": "一批公司宣布回购增持 截至6月末股票增持回购贷款已发放超2100亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202608203846731915.html",
-     "pubDate": "Thu, 20 Aug 2026 07:14:50 +0800",
-     "summary": "8月19日晚间，又有一批公司发布回购、增持计划或进展类公告，包括 工业富联 首次回购公司股份， 中交设计 、 华新建材 披露股东增持计划。 工业富联 公告称：公司以集中竞价交易方式首次回购股份241.44万股，对应金额1.49亿元。 恒瑞医药 公告称：拟以10亿元至20亿元回购公司股份，回购价格不超过81.78元/股，用于A股员工持股计划；回购期限为自董事会审议通过回购方案之日起不超过12个月。 增持方面， 华新建材 19日公告称，公司持股5%以上的股东华新集团拟自公告披露之日起12个月内以集中竞价交易方式增持公司A股股份，增持总金额为3.4亿元至6.8亿元。 7月以来，上市公司密集宣布回购计",
-     "source": "东方财富股票",
-     "zh": "一批公司宣布回购增持 截至6月末股票增持回购贷款已发放超2100亿元"
-    },
-    {
      "title": "华尔街见闻早餐FM-Radio | 2026年8月20日",
      "link": "https://wallstreetcn.com/articles/3779833",
      "pubDate": "Thu, 20 Aug 2026 07:14:42 +0800",
-     "summary": "华见早安之声 市场概述 美国财政部“救市” ， 美股反弹 ，三大美股指扭转三连跌；公布mRNA技术治疗癌症重大突破后， Moderna收涨近180% ，其合作方默沙东涨近13%、领涨道指；“科技七巨头”中，仅英伟达收跌、跌约1%，特斯拉反弹超4%；芯片指数逆市跌超2%，博通跌4.6%，但迈威尔科技收涨近10%。 美财政部宣布出手后 ，美债收益率曲线趋平、 中长期美债收益率跳水 ， 30年期美债收益率一度降10个基点 ；美元指数加速下跌至5月末以来低位，日元盘中曾反弹近1%， 离岸人民币三年多来首次涨破6.73 ； 加密货币盘中拉升 ，比特币涨破6.9万美元、较日低涨超8%，以太坊一度涨10%。",
+     "summary": "华见早安之声 市场概述 美国财政部“救市” ， 美股反弹 ，三大美股指扭转三连跌；公布mRNA技术治疗癌症重大突破后， Moderna收涨近180% ，其合作方默沙东涨近13%、领涨道指；“科技七巨头”中，仅英伟达收跌、跌约1%，特斯拉反弹超4%；芯片指数逆市跌超2%，博通跌4.6%，但迈威尔科技收涨近10%。 美财政部宣布出手后 ，美债收益率曲线趋平、 中长期美债收益率跳水 ， 30年期美债收益率一度降10个基点 ；美元指数加速下跌至5月末以来低位，日元盘中曾反弹近1%， 离岸人民币三年多来首次盘中涨破6.73 ； 加密货币盘中拉升 ，比特币涨破6.9万美元、较日低涨超8%，以太坊一度涨10",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年8月20日"
     },
@@ -2301,7 +2357,7 @@
      "link": "http://finance.eastmoney.com/news/1351,202608203846762876.html",
      "pubDate": "Thu, 20 Aug 2026 07:13:11 +0800",
      "summary": "当地时间8月19日，美国总统特朗普在其社交媒体平台“真实社交”发文称，伊朗未能抓住达成协议的机会，因此他宣布对伊朗采取“针对任何国家实施过的最严厉经济行动”，称这将是一场规模空前的“经济战和经济孤立”。 特朗普表示，任何允许其金融机构、企业、 机场 或政府实体向伊朗提供支持的国家，都将面临“巨大的经济后果”。他要求立即停止石油走私、货币互换、现金转移、船舶注册和利用空壳公司等活动，并呼吁美国盟友与美国一道孤立伊朗。特朗普再次表示，“伊朗永远不会拥有核武器”。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "特朗普宣布对伊朗采取“史上最严厉经济行动”"
     },
     {
@@ -2321,38 +2377,6 @@
      "zh": "Accuray 预计 2027 财年年化成本和利润率将增加 1500 万美元，同时保留正式收入和调整后的 EBITDA 指导"
     },
     {
-     "title": "【环球财经】美债收益率回落提振市场人气 纽约股市三大股指19日均上涨",
-     "link": "http://finance.eastmoney.com/news/1351,202608203846762749.html",
-     "pubDate": "Thu, 20 Aug 2026 07:12:15 +0800",
-     "summary": "新华财经纽约8月19日电（刘亚南左婧骁）受美国财政部扩大长期国债回购规模、美国长期国债收益率回落，以及部分大型零售企业业绩好于预期等因素影响，纽约股市三大股指19日高开，早盘震荡后逐步走高，午后涨幅有所收窄并转入震荡，收盘时三大股指均上涨。 此前连续多个交易日承压的美股市场有所企稳，但科技和 半导体 股票仍面临一定压力。 纽约股市三大股指19日上涨。截至当天收盘，道琼斯工业平均指数比前一交易日上涨119.65点，收于53463.05点，涨幅为0.22%； 标准普尔 500种股票指数上涨16.22点，收于7707.98点，涨幅为0.21%； 纳斯达克 综合 指数上涨41.379点，收于26331",
-     "source": "东方财富股票",
-     "zh": "【环球财经】美债收益率回落提振市场人气 纽约股市三大股指19日均上涨"
-    },
-    {
-     "title": "市场消息：尽管出现泄密消息，苹果带摄像头的 AirPods 仍计划于 2027 年推出",
-     "link": "http://finance.eastmoney.com/news/1351,202608203846762011.html",
-     "pubDate": "Thu, 20 Aug 2026 07:10:15 +0800",
-     "summary": "市场消息：尽管出现泄密消息， 苹果 带摄像头的 AirPods 仍计划于 2027 年推出。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "市场消息：尽管出现泄密消息，苹果带摄像头的 AirPods 仍计划于 2027 年推出"
-    },
-    {
-     "title": "TIMP2蛋白能恢复衰老小鼠大脑免疫细胞功能",
-     "link": "http://finance.eastmoney.com/news/11790,202608203846762940.html",
-     "pubDate": "Thu, 20 Aug 2026 07:09:57 +0800",
-     "summary": "美国西奈山伊坎医学院科学家开展的小鼠研究显示，年轻相关蛋白TIMP2在恢复小胶质细胞（大脑的常驻免疫细胞）的健康功能方面具有重要作用，为揭示年轻相关因子如何影响大脑提供了新见解。相关论文已发表于最新一期《自然·通讯》杂志。 小胶质细胞通过清除细胞碎片、支持神经回路、应对损伤等方式，在维护大脑健康中扮演着关键角色。然而，随着年龄增长，小胶质细胞的效率可能下降，进而引发炎症和脑功能受损。此次研究揭示，TIMP2有助于恢复老年小鼠小胶质细胞清除碎片等多项功能。 团队利用多种小鼠模型，系统考察了TIMP2对健康和衰老大脑中小胶质细胞的影响。这些模型包括全身缺乏TIMP2的小鼠，以及从小胶质细胞或神经元",
-     "source": "东方财富股票",
-     "zh": "TIMP2蛋白能恢复衰老小鼠大脑免疫细胞功能"
-    },
-    {
-     "title": "细菌“变身”晶体管组成活性生物电路",
-     "link": "http://finance.eastmoney.com/news/11790,202608203846762273.html",
-     "pubDate": "Thu, 20 Aug 2026 07:09:21 +0800",
-     "summary": "美国麻省理工学院的科学家对细菌进行改造，使其“变身”为晶体管。在此基础上，他们将这些晶体管组合起来，制造出活性电路。团队希望未来开发出能覆盖植物叶子或根部的电路，以通过计算来感知并应对干旱、害虫侵袭等不利情况。相关论文发表于17日 出版 的《自然·化学生物学》杂志。 在设计 合成生物 学电路时，科学家通常会改造细胞，使其表达特定的蛋白和转录因子。这些蛋白和转录因子相互配合，能完成特定任务，例如感应靶分子，进而触发特定的输出。 这类简单电路可执行多种逻辑功能，但必须使用彼此不同的转录因子，以避免电路之间发生“串扰”。然而，可用于此类电路的转录因子数量有限，限制了单个细胞内电路的复杂程度。此外，在",
-     "source": "东方财富股票",
-     "zh": "细菌“变身”晶体管组成活性生物电路"
-    },
-    {
      "title": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate",
      "link": "https://www.marketwatch.com/story/retirees-this-investment-gives-you-a-guaranteed-5-safe-withdrawal-rate-facdfd76?mod=mw_rss_topstories",
      "pubDate": "Wed, 19 Aug 2026 23:01:00 GMT",
@@ -2369,12 +2393,12 @@
      "zh": "报道称，暂定贸易协议将使加拿大钢铁、铝关税减半"
     },
     {
-     "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，美元跌破99，黄金、加密货币大涨",
+     "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
      "link": "https://wallstreetcn.com/articles/3779750",
      "pubDate": "Thu, 20 Aug 2026 06:51:32 +0800",
      "summary": "美国财政部意外宣布将长期国债回购规模至少翻倍，30年期美债收益率单日重挫逾9个基点创10月来最大跌幅，美元指数跌破99关口跌至三个月低点，现货黄金盘中突破4500美元，比特币升破68000美元创3月来最大单日涨幅。 标普500收涨0.21%至7707.98点，纳指涨0.16%至26331.09点，道指涨0.22%至53463.05点，三大指数终结三连跌。Moderna暴涨176.97%创历史新高，默克大涨13%，医疗板块领涨标普；半导体与AI动量股遭血洗，芯片ETF两日累跌7.7%。 周三开盘前，美国财政部意外宣布将10年期以上国债的流动性支持回购操作规模至少翻倍至每笔40亿美元，覆盖9月9日",
      "source": "华尔街见闻",
-     "zh": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，美元跌破99，黄金、加密货币大涨"
+     "zh": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨"
     },
     {
      "title": "Call-buying bonanza around Trump&apos;s Hyperliquid comments includes some eyebrow-raising trades",
@@ -2457,14 +2481,6 @@
      "zh": "以下是周四开盘前的主要财报"
     },
     {
-     "title": "Alchemy Labs Inc. GAAP EPS of -$0.06, revenue of $0.58M",
-     "link": "https://seekingalpha.com/news/4635189-alchemy-labs-inc-gaap-eps-of-0_06-revenue-of-0_58m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 19 Aug 2026 17:59:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alchemy Labs Inc. GAAP 每股收益 - 0.06 美元，收入 58 万美元"
-    },
-    {
      "title": "ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.",
      "link": "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories",
      "pubDate": "Wed, 19 Aug 2026 21:50:00 GMT",
@@ -2479,22 +2495,6 @@
      "summary": "Young Chinese are renting cameras, drones and camping gear instead of buying them. It’s a clever way to save money — but also the latest challenge to Beijing’s effort to get consumers spending.",
      "source": "MarketWatch",
      "zh": "420 美元的相机只需 10 美元：中国的年轻消费者宁愿租也不愿买。北京有问题。"
-    },
-    {
-     "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
-     "link": "https://wallstreetcn.com/articles/3779827",
-     "pubDate": "Thu, 20 Aug 2026 05:39:07 +0800",
-     "summary": "美国财政部出人意料地扩大长期国债回购规模，在债市承压之际释放出干预信号，引发华尔街广泛讨论——这究竟是技术性流动性管理，还是政府主动压制长端收益率的开端？ 周三，财政部宣布将10至30年期国债流动性回购上限翻倍，单次规模提升至至少40亿美元。消息发出，10年期国债收益率下跌6个基点，30年期收益率盘中曾降约10个基点——后者此前刚刚触及19年来最高水平。 多位分析师指出， 此次公告的时机选择本身即传递出强烈信号：官员们对当前局面感到不安。 然而，市场对这一操作的实质效果普遍持谨慎态度。多位分析师强调， 回购并未改变财政赤字与供给压力等基本面。 同时有观点指出， 此举可能令美联储主席沃什将通胀压",
-     "source": "华尔街见闻",
-     "zh": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了"
-    },
-    {
-     "title": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
-     "link": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
-     "pubDate": "Wed, 19 Aug 2026 21:26:00 GMT",
-     "summary": "Google will also get the option to purchase about $12 billion worth of Marvell’s stock.",
-     "source": "MarketWatch",
-     "zh": "Marvell 的股价因谷歌芯片交易的消息而上涨，以及博通的下跌"
     }
    ]
   },

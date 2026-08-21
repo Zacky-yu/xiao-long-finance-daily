@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/22 07:23:52",
+ "generated_at": "2026/8/22 07:49:46",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
+     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
+     "source": "MarkTechPost",
+     "zh": "2026 年最佳 GPU Neocloud：CoreWeave、Nebius、Lambda、Crusoe 和 Groq 按已发布定价和合同功耗排名"
+    },
     {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -23,6 +31,22 @@
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia 与数据中心开发商 Cloverleaf 合作"
+    },
+    {
+     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
+     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
+     "source": "MarkTechPost",
+     "zh": "构建代理文档智能管道：使用 AutoFigure 创建科学图形"
+    },
+    {
+     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
+     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
+     "source": "MarkTechPost",
+     "zh": "Anthropic 将 Claude Mythos 5 引入 Claude Security：企业团队无需直接访问模型即可进行前沿漏洞扫描"
     },
     {
      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -223,30 +247,6 @@
      "summary": "arXiv:2608.19216v1 Announce Type: new Abstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its surrounding pipeline. That assumption often fails for regulated organisations us",
      "source": "arXiv cs.AI",
      "zh": "有界主权和控制税：部署者不拥有模型时人工智能监督的定价"
-    },
-    {
-     "title": "Interaction valence reveals contrasting social networks in dairy cattle",
-     "link": "https://arxiv.org/abs/2608.19222",
-     "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-     "summary": "arXiv:2608.19222v1 Announce Type: new Abstract: Social relationships shape access to resources, exposure to conflict and group stability, yet automated livestock monitoring typically treats behaviour as isolated events. Here, we present a valence-aware social-network framework that transforms video-",
-     "source": "arXiv cs.AI",
-     "zh": "交互效价揭示了奶牛社交网络的对比"
-    },
-    {
-     "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
-     "link": "https://arxiv.org/abs/2608.19299",
-     "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400",
-     "summary": "arXiv:2608.19299v1 Announce Type: new Abstract: Air traffic control (ATC) communication is a safety-critical dialogue that remains largely human-driven even as other parts of air traffic management have been semi-automated. In this article, we experimentally evaluate whether large language models (L",
-     "source": "arXiv cs.AI",
-     "zh": "使用大型语言模型的空中交通管制：快速工程、架构和评估"
-    },
-    {
-     "title": "创作“猫片”、复刻《黑神话：钟馗》，最适合MiniMax H3的Harness来了",
-     "link": "https://zhidx.com/p/587032.html",
-     "pubDate": "Fri, 21 Aug 2026 11:35:32 +0800",
-     "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西8月21日报道，昨天，MiniMax发布了多模态创作Agent工作台MiniMax Design，被无数AI视频创作平台调用的MiniMax H3，终于有了自己的Harness。 MiniMax Design能够根据用户需求完成多模态理解、任务规划、视频生成和配乐剪辑等环节，通过围绕MiniMax H3打造的架构，可以把创作需求转化为适合MiniMax H3执行的素材与指令，充分发挥模型能力。 MiniMax Design并不只会一句话生成视频，它同样具备AI视频创作工具该有的功能，例如多种Skills、多智能体协",
-     "source": "智东西",
-     "zh": "创作“猫片”、复刻《黑神话：钟馗》，最适合MiniMax H3的Harness来了"
     }
    ]
   },
@@ -1745,20 +1745,60 @@
    "total": 18,
    "items": [
     {
+     "title": "我国高比例生物质掺烧发电取得新突破，一台机组生态效益 = 植树 180 万棵",
+     "link": "https://www.ithome.com/0/992/896.htm",
+     "pubDate": "Fri, 21 Aug 2026 23:44:13 GMT",
+     "summary": "IT之家 8 月 22 日消息，据央视新闻报道，记者今天（22 日）从国家能源集团获悉，广东清远电厂 2 号机组成功实现 10% 能量比生物质掺烧 ，这是国内首例百万千瓦二次再热机组实现高比例生物质掺烧发电，填补了国内技术空白，为火电机组清洁低碳转型注入新动能。 据介绍，国家能源集团广东清远电厂，是国内唯一拥有 4 台百万千瓦级二次再热机组并实现一体化运营的大型清洁高效电厂。项目入选国家能源局新型电力系统建设能力试点。此次采用龙源技术开发的先进独立生物质燃烧技术， 实现秸秆、家具边角料等生物质掺烧热量比达 10% 。掺烧过程生物质燃料与燃煤混合燃烧状态稳定，炉膛温度、烟气排放、机组负荷等各项关",
+     "source": "IT之家",
+     "zh": "我国高比例生物质掺烧发电取得新突破，一台机组生态效益 = 植树 180 万棵"
+    },
+    {
+     "title": "微软应用引导 Chrome / Firefox 等浏览器设 Bing 为默认搜索引擎，相关扩展拥有 500 万用户",
+     "link": "https://www.ithome.com/0/992/895.htm",
+     "pubDate": "Fri, 21 Aug 2026 23:43:33 GMT",
+     "summary": "IT之家 8 月 22 日消息，科技媒体 Windows Latest 昨日（8 月 21 日）发布博文，报道称微软推出独立应用程序， 引导用户将 Bing 设置为 Edge、Firefox、Chrome 和 Brave 等浏览器默认搜索引擎。 该应用名为 Microsoft Recommended Search Settings（安装包名称为 MicrosoftSettings.exe ），大小为 22.2 MB，暂未上架 Microsoft Store，托管在微软官方下载服务器上。 用户安装该应用程序之后，会引导用户在当前已安装使用的浏览器中添加扩展程序，并切换 Bing 为浏览器默认搜索",
+     "source": "IT之家",
+     "zh": "微软应用引导 Chrome / Firefox 等浏览器设 Bing 为默认搜索引擎，相关扩展拥有 500 万用户"
+    },
+    {
+     "title": "通过自动化系统封禁司机账户，Uber 优步被荷兰罚款 8.25 亿欧元",
+     "link": "https://www.ithome.com/0/992/894.htm",
+     "pubDate": "Fri, 21 Aug 2026 23:43:24 GMT",
+     "summary": "IT之家 8 月 22 日消息，据路透社报道，一份 8 月 17 日的裁决文件显示，荷兰数据保护局已对优步（Uber）处以 8.25 亿欧元 （IT之家注：现汇率约合 64.92 亿元人民币） 的巨额罚款。处罚原因是优步通过自动化系统封禁司机账号，且未向司机履行充分的告知义务。 这笔罚款将成为欧洲《通用数据保护条例》实施以来开出的历史第二大罚单。仅次于 2023 年爱尔兰因 Meta 非法将欧洲 Facebook 用户数据传输至美国而开出的 12 亿欧元 （现汇率约合 94.43 亿元人民币） 罚单。Meta 目前正在对此提出上诉。 优步也表示将提起上诉 。优步发言人表示：“我们对这一裁定以及",
+     "source": "IT之家",
+     "zh": "通过自动化系统封禁司机账户，Uber 优步被荷兰罚款 8.25 亿欧元"
+    },
+    {
+     "title": "全新一代智己 LS6“陆上 A320”官宣 9 月见，定位“家庭 SUV”",
+     "link": "https://www.ithome.com/0/992/893.htm",
+     "pubDate": "Fri, 21 Aug 2026 23:36:16 GMT",
+     "summary": "IT之家 8 月 22 日消息，2026 成都车展 8 月 21 日开幕，上汽集团宣布全新一代智己 LS6“陆上 A320”将于 9 月亮相，号称“陆上 A320”。 据介绍，该车是航空同源理念打造的家庭 SUV，率先进入航空级安全时代。全系标配 NEO 三电架构、全线控底盘、IM CLAW 智能体、超级头等舱。 IT之家注意到，目前在售的新一代智己 LS6 车型于去年 9 月上市，纯电版上市权益价 19.79 万元起，增程版上市权益价 20.29 万元起。 在售的新一代智己 LS6 定位超级大五座智能 SUV，首搭智己“恒星”超级增程，综合续航达 1500+km，还搭载了灵蜥数字底盘 2.0",
+     "source": "IT之家",
+     "zh": "全新一代智己 LS6“陆上 A320”官宣 9 月见，定位“家庭 SUV”"
+    },
+    {
+     "title": "The Unlikely Place at the Center of China’s AI Boom",
+     "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+     "pubDate": "Fri, 21 Aug 2026 23:25:32 +0000",
+     "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
+     "source": "WIRED",
+     "zh": "中国人工智能繁荣中心的不可思议的地方"
+    },
+    {
+     "title": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热",
+     "link": "https://www.ithome.com/0/992/892.htm",
+     "pubDate": "Fri, 21 Aug 2026 23:24:19 GMT",
+     "summary": "IT之家 8 月 22 日消息，科技媒体 AppleInsider 昨日（8 月 21 日）发布博文，汇总梳理苹果下一代入门款 14 英寸 MacBook Pro 的规格信息，产品代号为 J804。 发布日期方面，苹果公司可能会在 2026 年年底或 2027 年年初发布。不过 有消息称该 MacBook Pro 的产品发布间隔是最短的 ，后续由 M7 机型（代号 K104）接替，并迎来机身重设计。 型号方面，入门款 M6 MacBook Pro 使用 J804，延续了 M5 的 J704 和 M4 的 J604 命名方式。高端 OLED 触控屏 MacBook Pro 则对应 K114 和 ",
+     "source": "IT之家",
+     "zh": "苹果 14 英寸 M6 MacBook Pro 前瞻：12 核 GPU、200GB/s 内存带宽、升级均热板散热"
+    },
+    {
      "title": "中国科学家找到水稻“早熟又高产”基因，成果登《科学》",
      "link": "https://www.ithome.com/0/992/891.htm",
      "pubDate": "Fri, 21 Aug 2026 23:21:44 GMT",
      "summary": "IT之家 8 月 22 日消息，中国水稻研究所水稻生物育种全国重点实验室研究员张健团队成功克隆到一个同时调控水稻熟期和产量的稀有等位基因，揭示了其通过平衡开花与氮素利用效率打破作物“早熟-高产”遗传枷锁的分子机制。相关研究成果 8 月 21 日在线发表于国际学术期刊《科学》。 ▲ 团队改良的水稻品系在大田中的生长表现及基因的工作模式 据介绍，传统育种经验表明，早花会缩短营养生长期，进而降低生物量的积累和产量。 以水稻为例，平均每缩短 1 天生育期，通常会导致产量下降 0.8% 至 1.2%。 而在我国南方省份推进“稻-稻-油”多熟制粮食生产过程中，普遍面临茬口期短、“双抢”（抢收早稻、抢插晚稻",
      "source": "IT之家",
      "zh": "中国科学家找到水稻“早熟又高产”基因，成果登《科学》"
-    },
-    {
-     "title": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品",
-     "link": "https://www.ithome.com/0/992/890.htm",
-     "pubDate": "Fri, 21 Aug 2026 23:11:17 GMT",
-     "summary": "IT之家 8 月 22 日消息，据第一财经新皮层消息，字节豆包团队最快将于下周发布一款对标腾讯 WorkBuddy 的办公类产品。 据介绍， 这款产品相当于将目前豆包 App 内的「工作任务」模式单独拆分出来，成为一个独立应用 。目前，豆包网页端界面已出现独立的「新工作任务」入口，与「新对话」并列。 最近一周，豆包密集更新了“工作任务”模式内的多项功能，包含支持手机远程操作电脑、虚拟桌面操作 Windows、新增侧边工作栏等。 8 月 6 日的年中全员会上，字节 CEO 梁汝波表示，后续资源将「集中培育粗主干业务」，这些主干业务包括「AI、信息平台、交易服务」，其中抖音为现有核心主干， 并计划",
-     "source": "IT之家",
-     "zh": "消息称字节豆包最快下周发布对标腾讯 WorkBuddy 办公类 AI 产品"
     },
     {
      "title": "OpenAI says California should amend SB 53 to expand safeguards, including requiring monitoring of frontier models under training, following AI agent hacks (Chase DiFeliciantonio/Politico)",
@@ -1777,28 +1817,20 @@
      "zh": "特斯拉门把手引发迄今为止最大规模的召回"
     },
     {
+     "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+     "link": "https://ozbrain.com",
+     "pubDate": "Fri, 21 Aug 2026 23:09:06 +0000",
+     "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me. A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current ",
+     "source": "Hacker News",
+     "zh": "显示 HN：OzBrain，代理和团队之间的知识共享大脑"
+    },
+    {
      "title": "三年不结婚退款的AI红娘，凭什么让徐新投1500万？",
      "link": "https://www.huxiu.com/article/4882908.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 07:07:44 +0800",
+     "pubDate": "Sat, 22 Aug 2026 07:07:45 +0800",
      "summary": "出品｜虎嗅黄青春频道 作者｜商业消费主笔&nbsp;黄青春 题图｜团队聚餐 &ldquo;用户三年没结婚全额退款，目标是让中国结婚率提升 10%。&rdquo; 良配科技创始人曾歆勋的这句话，听上去像一句狂言。 与虎嗅对谈当天，他正以 3000 万美元估值推进第二轮融资，腾讯、阿里、美团等多家大厂战投均已接触。这位 94 年的创业者是南方科技大学 2019 届毕业生，先后在微信、TikTok 负责搜索推荐业务，2025 年 5 月辞任 Kimi AI 搜索负责人，放弃千万期权下场 All in AI 婚恋。 &ldquo;入职 Kimi 第一天我就和老板说，迟早会自己创业，离开只是在等合适的时",
      "source": "虎嗅",
      "zh": "三年不结婚退款的AI红娘，凭什么让徐新投1500万？"
-    },
-    {
-     "title": "《DOTA2》TI15 上海主赛事第二日：Falcons 被淘汰，Spirit 掉入败者组",
-     "link": "https://www.ithome.com/0/992/889.htm",
-     "pubDate": "Fri, 21 Aug 2026 23:04:43 GMT",
-     "summary": "IT之家 8 月 22 日消息，8 月 21 日上海，《DOTA2》2026 年国际邀请赛（TI2026 / TI15）主赛事第二日比赛结束。两支队伍告别舞台，两支队伍进入胜者组决赛。 Iron Wing 和 Team Falcons 在败者组首轮被淘汰， 止步本届 TI 八强 ；TEAM VISION 和 Team Yandex 分别在胜者组半决赛中取胜，锁定前三名。Team Spirit 和 Nigma Galaxy 则落入更为艰难的败者组。 8 月 22 日将进行三场败者组的比赛和一场胜者组决赛，三支队伍将从本届 TI 被淘汰，一支队伍将获得 第一张总决赛入场券 。 IT之家附 8 月 ",
-     "source": "IT之家",
-     "zh": "《DOTA2》TI15 上海主赛事第二日：Falcons 被淘汰，Spirit 掉入败者组"
-    },
-    {
-     "title": "消息称苹果收缩 Vision Pro 相关业务，波及 Siri 等团队裁员共约 200 人",
-     "link": "https://www.ithome.com/0/992/888.htm",
-     "pubDate": "Fri, 21 Aug 2026 22:48:46 GMT",
-     "summary": "IT之家 8 月 22 日消息，科技媒体 AppleInsider 昨日（8 月 21 日）发布博文，报道称 苹果 Vision Pro 项目裁员约 60 人后 ， 苹果公司还同步调整 Siri 团队，总裁员人数约为 200 人。 彭博社记者马克 · 古尔曼（Mark Gurman）援引知情人士透露，包括 Apple Vision 沉浸式视频、Apple Vision 游戏和 Siri 在内，苹果此次裁员总数约 200 人。 苹果向彭博社表示，公司会因这项调整新增部分岗位，同时影响少量现有岗位。苹果称，公司感谢相关员工的贡献，并会在转岗过程中提供支持，包括允许员工申请苹果内部其他职位。 报道称",
-     "source": "IT之家",
-     "zh": "消息称苹果收缩 Vision Pro 相关业务，波及 Siri 等团队裁员共约 200 人"
     },
     {
      "title": "Gurman: as part of Vision Pro cuts, Apple is largely shutting down a team focused on gaming and reducing the size of a unit producing immersive video content (Chance Miller/9to5Mac)",
@@ -1820,7 +1852,7 @@
      "title": "Three important steps in my maturation process",
      "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
      "pubDate": "Fri, 21 Aug 2026 22:29:00 +0000",
-     "summary": "Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/ Comments URL: https://news.ycombinator.com/item?id=49394496 Points: 3 # Comments: 1",
+     "summary": "Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/ Comments URL: https://news.ycombinator.com/item?id=49394496 Points: 4 # Comments: 1",
      "source": "Hacker News",
      "zh": "我成熟过程中的三个重要步骤"
     },
@@ -1828,7 +1860,7 @@
      "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
      "link": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
      "pubDate": "Fri, 21 Aug 2026 22:15:46 +0000",
-     "summary": "Article URL: https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e Comments URL: https://news.ycombinator.com/item?id=49394373 Points: 22 # Comments: 4",
+     "summary": "Article URL: https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e Comments URL: https://news.ycombinator.com/item?id=49394373 Points: 27 # Comments: 9",
      "source": "Hacker News",
      "zh": "“幽灵工作”广告变得如此糟糕以至于立法者想要禁止它们"
     },
@@ -1860,7 +1892,7 @@
      "title": "Remotely Unlocking Electric Scooters",
      "link": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
      "pubDate": "Fri, 21 Aug 2026 21:32:07 +0000",
-     "summary": "Article URL: https://henriemategui.com/post/remotely-unlocking-electric-scooters Comments URL: https://news.ycombinator.com/item?id=49394028 Points: 14 # Comments: 2",
+     "summary": "Article URL: https://henriemategui.com/post/remotely-unlocking-electric-scooters Comments URL: https://news.ycombinator.com/item?id=49394028 Points: 15 # Comments: 2",
      "source": "Hacker News",
      "zh": "远程解锁电动滑板车"
     },
@@ -1940,25 +1972,9 @@
      "title": "Tumble Forth – from assembly to OS with C compiler",
      "link": "https://tumbleforth.hardcoded.net/",
      "pubDate": "Fri, 21 Aug 2026 18:59:52 +0000",
-     "summary": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 43 # Comments: 4",
+     "summary": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 45 # Comments: 4",
      "source": "Hacker News",
      "zh": "Tumble Forth – 使用 C 编译器从汇编到操作系统"
-    },
-    {
-     "title": "Scientists release biggest 2D map of the universe",
-     "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-     "pubDate": "Fri, 21 Aug 2026 18:36:34 +0000",
-     "summary": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 119 # Comments: 37",
-     "source": "Hacker News",
-     "zh": "科学家发布最大的二维宇宙地图"
-    },
-    {
-     "title": "《使命召唤：现代战争 4》试玩登陆 Steam，完整游戏 10 月 23 日发行",
-     "link": "https://www.ithome.com/0/992/887.htm",
-     "pubDate": "Fri, 21 Aug 2026 18:11:57 GMT",
-     "summary": "IT之家 8 月 22 日消息，动视旗下《使命召唤 ® ：现代战争 ® 4》试玩现已登陆 Steam 平台，本作由 Infinity Ward、Beenox、Digital Legends、Activision Shanghai 等多家工作室联合开发，动视发行，完整游戏于今天正式发售。 IT之家附游戏商品页（ https://store.steampowered.com/app/4783780/_4/ ?l=schinese&amp;cc=cn ）。 完整游戏方面，Steam 国区提供两个预购版本： 标准版：¥298.00 金库版：¥493.00 预购玩家可抢先体验公开试玩，抢先体验活动时间为",
-     "source": "IT之家",
-     "zh": "《使命召唤：现代战争 4》试玩登陆 Steam，完整游戏 10 月 23 日发行"
     },
     {
      "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
@@ -1967,22 +1983,6 @@
      "summary": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
      "source": "Ars Technica",
      "zh": "中国监管机构要求特斯拉修理近300万辆汽车"
-    },
-    {
-     "title": "微软发布 Win11 Beta / Experimental 预览版：WinUI 重构 AutoPlay 对话框",
-     "link": "https://www.ithome.com/0/992/886.htm",
-     "pubDate": "Fri, 21 Aug 2026 17:10:40 GMT",
-     "summary": "IT之家 8 月 22 日消息，微软昨天（8 月 21 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的最新预览版更新，本次发布包含多个版本更新： Beta 通道 26H2：Build 26220.9223 Experimental 通道 26H2：Build 26340.9233 Experimental 通道 26H1：Build 28120.2760 IT之家附 Windows 11 改进进展如下： 1、Experimental 通道功能修复： 本次更新修复了 Experimental 通道",
-     "source": "IT之家",
-     "zh": "微软发布 Win11 Beta / Experimental 预览版：WinUI 重构 AutoPlay 对话框"
-    },
-    {
-     "title": "2026.34: App Snore",
-     "link": "https://stratechery.com/2026/app-snore/",
-     "pubDate": "Fri, 21 Aug 2026 17:00:00 +0000",
-     "summary": "The best Stratechery content from the week of August 17, 2026, including Apple making compromises in the EU, Truth (Social) and reconciliation, and August fun with the Clippers and Lakers.",
-     "source": "Stratechery",
-     "zh": "2026.34：应用打鼾"
     }
    ]
   },
@@ -2241,20 +2241,100 @@
    "total": 13,
    "items": [
     {
+     "title": "特宝生物：融资净偿还39.85万元，融资余额10.83亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608223849963184.html",
+     "pubDate": "Sat, 22 Aug 2026 07:43:52 +0800",
+     "summary": "交易所最新数据显示，特宝生物于2026年8月21日获融资买入8515.74万元，融资偿还8555.59万元， 当日融资净偿还39.85万元。 目前，该股融资余额10.83亿，占流通市值比例为4.29%。 该股当日融券卖出900股，融券偿还5253股， 融券净偿还4353股。 目前，该股融券余量11.45万股，融券余额708.25万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈",
+     "source": "东方财富股票",
+     "zh": "特宝生物：融资净偿还39.85万元，融资余额10.83亿元"
+    },
+    {
+     "title": "华安证券：融资净偿还3481.65万元，融资余额14.16亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608223849962980.html",
+     "pubDate": "Sat, 22 Aug 2026 07:43:50 +0800",
+     "summary": "交易所最新数据显示，华安证券于2026年8月21日获融资买入7191.97万元，融资偿还1.07亿元， 当日融资净偿还3481.65万元。 目前，该股融资余额14.16亿，占流通市值比例为3.45%。 该股当日融券卖出10.02万股，融券偿还4.70万股， 融券净卖出5.32万股。 目前，该股融券余量37.85万股，融券余额309.23万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而",
+     "source": "东方财富股票",
+     "zh": "华安证券：融资净偿还3481.65万元，融资余额14.16亿元"
+    },
+    {
+     "title": "沃尔德：融资净偿还3644.51万元，融资余额11.15亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608223849962844.html",
+     "pubDate": "Sat, 22 Aug 2026 07:43:50 +0800",
+     "summary": "交易所最新数据显示，沃尔德于2026年8月21日获融资买入2781.94万元，融资偿还6426.46万元， 当日融资净偿还3644.51万元。 目前，该股融资余额11.15亿，占流通市值比例为8.08%。 该股当日无融券交易，融券余额为0。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "沃尔德：融资净偿还3644.51万元，融资余额11.15亿元"
+    },
+    {
+     "title": "新华网：融资净买入189.67万元，融资余额2.92亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608223849962549.html",
+     "pubDate": "Sat, 22 Aug 2026 07:43:49 +0800",
+     "summary": "交易所最新数据显示，新华网于2026年8月21日获融资买入543.37万元，融资偿还353.70万元， 当日融资净买入189.67万元。 目前，该股融资余额2.92亿，占流通市值比例为2.46%。 该股当日融券卖出1700股，融券偿还0股， 融券净卖出1700股。 目前，该股融券余量8.8万股，融券余额140.59万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任",
+     "source": "东方财富股票",
+     "zh": "新华网：融资净买入189.67万元，融资余额2.92亿元"
+    },
+    {
+     "title": "新安股份：融资净偿还1896.85万元，融资余额7.72亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608223849962140.html",
+     "pubDate": "Sat, 22 Aug 2026 07:43:46 +0800",
+     "summary": "交易所最新数据显示，新安股份于2026年8月21日获融资买入2638.54万元，融资偿还4535.39万元， 当日融资净偿还1896.85万元。 目前，该股融资余额7.72亿，占流通市值比例为5.39%。 该股当日融券卖出0股，融券偿还4700股， 融券净偿还4700股。 目前，该股融券余量32.18万股，融券余额341.77万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏",
+     "source": "东方财富股票",
+     "zh": "新安股份：融资净偿还1896.85万元，融资余额7.72亿元"
+    },
+    {
+     "title": "红塔证券：融资净偿还20.5万元，融资余额4.81亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608223849962289.html",
+     "pubDate": "Sat, 22 Aug 2026 07:43:46 +0800",
+     "summary": "交易所最新数据显示，红塔证券于2026年8月21日获融资买入459.56万元，融资偿还480.06万元， 当日融资净偿还20.5万元。 目前，该股融资余额4.81亿，占流通市值比例为1.52%。 该股当日融券卖出6100股，融券偿还6000股， 融券净卖出100股。 目前，该股融券余量51.29万股，融券余额346.72万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任",
+     "source": "东方财富股票",
+     "zh": "红塔证券：融资净偿还20.5万元，融资余额4.81亿元"
+    },
+    {
+     "title": "走出实验室，清华博士团在晋中重新学习“做研究”",
+     "link": "http://www.eeo.com.cn/2026/0822/1007091.shtml",
+     "pubDate": "Sat, 22 Aug 2026 07:39:11 +0800",
+     "summary": "清华大学博士生山西晋中实践支队成员唐烊阳指导医护人员论文选题。唐烊阳供图 游客越来越多，经营收入为什么反而下降？ 近日，来到山西省晋中市榆次老城调研的清华大学博士团，被晋中市招商引资服务中心的一组数据吸引了注...",
+     "source": "经济观察网",
+     "zh": "走出实验室，清华博士团在晋中重新学习“做研究”"
+    },
+    {
+     "title": "文质彬彬·每日好词语｜解衣盘礴",
+     "link": "http://www.eeo.com.cn/2026/0822/1007092.shtml",
+     "pubDate": "Sat, 22 Aug 2026 07:39:10 +0800",
+     "summary": "整理/秦珍子 制图/周子祺（实习生） 解衣盘礴 原指绘画时全神贯注的样子，引申指艺术家进行艺术创作时排除一切外在干扰而进入一种自由任放的精神状态。《庄子·田子方》讲述了一位画师纯任...",
+     "source": "经济观察网",
+     "zh": "文质彬彬·每日好词语｜解衣盘礴"
+    },
+    {
+     "title": "从上海到莎车，援疆医生带去了什么",
+     "link": "http://www.eeo.com.cn/2026/0822/1007090.shtml",
+     "pubDate": "Sat, 22 Aug 2026 07:39:10 +0800",
+     "summary": "一名当地14岁患者，患复杂先天性心脏病，病情复杂、病程迁延，临床救治难度极高。7月下旬，邹海就此病例在开展专项教学查房与学术指导。受访者供图 今年5月下旬，随第十二批上海援莎（疆）医疗队到达新疆维吾尔自治区莎车县的第...",
+     "source": "经济观察网",
+     "zh": "从上海到莎车，援疆医生带去了什么"
+    },
+    {
+     "title": "当好儿童心理健康的“守门人”",
+     "link": "http://www.eeo.com.cn/2026/0822/1007089.shtml",
+     "pubDate": "Sat, 22 Aug 2026 07:39:10 +0800",
+     "summary": "张晓鸣给首儿所的志愿者上培训课。受访者供图 采访张晓鸣时，她刚结束一上午的门诊。采访一结束，她就要赶去录制科普视频。每天接诊30多个患儿，给每个初诊者至少留出20分钟到半个小时问诊；不出...",
+     "source": "经济观察网",
+     "zh": "当好儿童心理健康的“守门人”"
+    },
+    {
      "title": "华尔街见闻早餐FM-Radio | 2026年8月22日",
      "link": "https://wallstreetcn.com/articles/3780043",
      "pubDate": "Sat, 22 Aug 2026 07:20:28 +0800",
-     "summary": "华见早安之声 市场概述 尽管美债收益率再度上涨、但对冲基金加速转向金融、医疗与能源板块，叠加美国财政部长债回购加码的预期与消费韧性支撑，风险情绪暂获缓解，推动股指上行。 道指涨0.98%，标普500指数涨0.43%，纳指涨0.43%。本周，道指跌0.85%，标普500指数跌1.43%，纳指跌2.05%。 芯片股涨跌不一。银行、黄金股普涨，埃尔拉多黄金涨超7%，哈莫尼黄金涨近7%，高盛、摩根士丹利涨超3%。特斯拉涨超5%领涨科技七巨头，SpaceX涨超2%。 中概股指数涨0.4%，富途控股涨超9%，网易涨近7%。 美国财政部干预暂未见实质性效果，10年期美债收益率小幅升2.99个基点，报4.73",
+     "summary": "华见早安之声 市场概述 尽管美债收益率再度上涨、但对冲基金加速转向金融、医疗与能源板块，叠加美国财政部长债回购加码的预期与消费韧性支撑，风险情绪暂获缓解， 推动股指上行。 道指涨0.98%，标普500指数涨0.43%，纳指涨0.43%。 本周，道指跌0.85%，标普500指数跌1.43%，纳指跌2.05%。 芯片股涨跌不一。银行、黄金股普涨， 埃尔拉多黄金涨超7%，哈莫尼黄金涨近7% ，高盛、摩根士丹利涨超3%。 特斯拉涨超5%领涨科技七巨头 ，SpaceX涨超2%。 中概股指数涨0.4%， 富途控股涨超9%，网易涨近7%。 美国财政部干预暂未见实质性效果， 10年期美债收益率小幅升2.99个",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年8月22日"
     },
     {
-     "title": "央行、市场监管总局明确人民币买卖边界",
-     "link": "http://finance.eastmoney.com/news/1350,202608223849822242.html",
-     "pubDate": "Sat, 22 Aug 2026 07:14:18 +0800",
-     "summary": "中国人民 银行 、市场监管总局8月21日发布公告称，除特定情形外，禁止任何单位和个人买卖人民币。两部门称，此举旨在打击非法买卖人民币的活动，维护人民币信誉，保护消费者合法权益，并促进货币文化活动健康发展。公告自2026年9月1日起施行。 根据公告，现行流通人民币不得买卖。业内专家表示，非法买卖正在流通的人民币，混淆“流通货币”与“收藏品”等普通商品的边界，囤积炒作同号、连号或特定版别人民币等行为扰乱了正常的人民币流通秩序，损害了人民币信誉及其作为法定货币的严肃性，必须严格禁止。 经中国人民 银行 公告停止流通的人民币，自停止流通之日起可以买卖。业内专家认为，这主要是考虑到停止流通的人民币已不具",
-     "source": "东方财富股票",
-     "zh": "央行、市场监管总局明确人民币买卖边界"
+     "title": "废渣堆“长”出绿色矿山公园",
+     "link": "http://www.eeo.com.cn/2026/0822/1007079.shtml",
+     "pubDate": "Sat, 22 Aug 2026 07:13:11 +0800",
+     "summary": "右图 位于甘肃省金昌市的金川国家矿山公园一角。经济日报记者 赵 梅摄 下图 金川集团股份有限公司露天老矿坑。经济日报记者 赵 梅摄 ...",
+     "source": "经济观察网",
+     "zh": "废渣堆“长”出绿色矿山公园"
     },
     {
      "title": "美股止跌反弹，道指涨近1%，数字货币再猛涨，黄金升破4600",
@@ -2265,30 +2345,6 @@
      "zh": "美股止跌反弹，道指涨近1%，数字货币再猛涨，黄金升破4600"
     },
     {
-     "title": "从CPO到OCS 光通信上游材料迎来价值重构",
-     "link": "http://finance.eastmoney.com/news/1354,202608223849821381.html",
-     "pubDate": "Sat, 22 Aug 2026 07:09:12 +0800",
-     "summary": "■ 随着CPO交换机规模化落地、OCS全光交换机技术持续推进，传统的光模块组装利润和需求将下滑，上游的磷化铟、硅光SOI晶圆、薄膜铌酸 锂 等材料需求将大增 ■ AIDC对光模块需求持续高增长，光芯片短缺成为模块扩产的掣肘。锁定产能、延伸产业链，光芯片公司纷纷往上游布局，建设磷化铟晶圆厂 ■ 看好光互连的发展机遇，传统材料厂商、初创企业也在快速进入磷化铟衬底、红磷等领域 近日， 英伟达 宣布全球首款200G/lane共封装光学（CPO）Spectrum-X以太网交换机系统已全面量产； SK海力士 日前发布下一代AI光互连CPO技术路线图。业内人士认为，随着CPO交换机规模化落地、OCS全光交换",
-     "source": "东方财富股票",
-     "zh": "从CPO到OCS 光通信上游材料迎来价值重构"
-    },
-    {
-     "title": "阿曼外交大臣与伊朗外长通话，讨论霍尔木兹海峡航运",
-     "link": "http://global.eastmoney.com/news/11798,202608223849899940.html",
-     "pubDate": "Sat, 22 Aug 2026 07:08:36 +0800",
-     "summary": "当地时间8月21日，阿曼外交大臣巴德尔与伊朗外交部长阿拉格齐通电话，双方就地区最新局势以及霍尔木兹海峡 航运 最新情况等交换意见。 双方强调，将继续就相关问题进行磋商，推动达成具体共识，以恢复霍尔木兹海峡自由、顺畅通航，并维护地区安全与稳定。（央视新闻） （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "阿曼外交大臣与伊朗外长通话，讨论霍尔木兹海峡航运"
-    },
-    {
-     "title": "美股收盘：三大指数集体收涨，存储芯片股多数下跌，西部数据跌超2%，美光、闪迪下挫；阿里跌8%，网易涨近7%",
-     "link": "http://finance.eastmoney.com/news/1354,202608223849899868.html",
-     "pubDate": "Sat, 22 Aug 2026 07:06:00 +0800",
-     "summary": "美东时间周五，美国三大股指集体收涨，道指大涨超500点。截至收盘，道指涨0.98%报53277.01点，标普500指数涨0.43%报7674.37点，纳指涨0.43%报26180.45点。 行业和板块方面，大型科技股涨跌互现， 特斯拉 涨超5%，谷歌涨逾1%，脸书涨0.75%， 微软 涨0.43%， 英伟达 跌近1%， 苹果 跌0.63%， 亚马逊 跌0.57%。 存储芯片 股多数下行， 西部数据 跌超2%， 美光科技 跌0.77%， 闪迪 跌0.28%， 希捷科技 跌0.03%， SK海力士 涨0.2%。 中概股涨跌不一， 纳斯达克 中国金龙指数涨0.4%。热门中概股方面， 富途控股 涨超9",
-     "source": "东方财富股票",
-     "zh": "美股收盘：三大指数集体收涨，存储芯片股多数下跌，西部数据跌超2%，美光、闪迪下挫；阿里跌8%，网易涨近7%"
-    },
-    {
      "title": "报道：Anthropic招股书或把美国公众对AI的抵制情绪列为风险因素",
      "link": "https://wallstreetcn.com/articles/3780042",
      "pubDate": "Sat, 22 Aug 2026 07:04:40 +0800",
@@ -2297,28 +2353,12 @@
      "zh": "报道：Anthropic招股书或把美国公众对AI的抵制情绪列为风险因素"
     },
     {
-     "title": "国际油价8月21日微涨",
-     "link": "http://finance.eastmoney.com/news/1351,202608223849899737.html",
-     "pubDate": "Sat, 22 Aug 2026 07:02:36 +0800",
-     "summary": "国际油价8月21日微涨。截至当天收盘，纽约商品交易所10月交货的轻质原油 期货 价格上涨23美分，收于每桶87.06美元，涨幅为0.26%；10月交货的伦敦布伦特原油 期货 价格上涨61美分，收于每桶94.39美元，涨幅为0.65%。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "国际油价8月21日微涨"
-    },
-    {
      "title": "美财长压降美债收益率点燃“货币贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
      "link": "https://wallstreetcn.com/articles/3780041",
      "pubDate": "Sat, 22 Aug 2026 07:02:00 +0800",
      "summary": "美国财政部长贝森特压制长端美债收益率的努力，对市场的直接影响仅维持了不到一天。 然而此举推动美元走软，黄金与比特币双双上涨——这一\"货币贬值交易\"逻辑得到强化，背后驱动力来自不断膨胀的美国财政赤字，以及市场对美国经济政策走向的深层忧虑。 在宣布扩大回购后，贝森特在接受采访时表示 市场\"有点过度反应\" ，并强调财政部拥有\"强大的工具箱\"。 然而长端美债收益率仅短暂回落，随后便重新承压，整周基本持平。与此同时，比特币本周涨超25%，突破78,000美元，黄金则攀升至三个月高点。 这一市场反应揭示了华盛顿更深层的困境：美国政府希望压低融资成本，但通胀仍对美联储构成约束。与此同时，各国政府与企业正愈发",
      "source": "华尔街见闻",
      "zh": "美财长压降美债收益率点燃“货币贬值交易”！黄金创三个月新高，比特币单周暴涨超25%"
-    },
-    {
-     "title": "上海城市更新和住房发展“十五五”规划出台：黄浦江滨水贯通岸线新增52公里",
-     "link": "http://finance.eastmoney.com/news/1350,202608223849899426.html",
-     "pubDate": "Sat, 22 Aug 2026 07:01:02 +0800",
-     "summary": "8月20日，《上海市城市更新和住房发展“十五五”规划》正式公布。这是上海首次将城市更新和住房发展两大领域合并编制的规划。到2030年，计划推动不少于150栋商办楼宇更新提升，更新商业设施面积500万平方米。新增黄浦江滨水贯通岸线长度52公里，其中干流水系4公里、支流水系48公里。 围绕市民关心的住房问题，《规划》明确，要实施房屋品质提升工程，全链条提升住房标准、设计、材料、建造、运维水平，聚焦隔声降噪、防水防反味、抗菌防霉、保温隔热等问题，建设改造安全舒适绿色智慧的“好房子”。加强规划、建设、预售、交付全流程管理，完善预看房、工程质量保险、竣工验收等制度。 改善居住：扩大老旧小区改造覆盖面 《",
-     "source": "东方财富股票",
-     "zh": "上海城市更新和住房发展“十五五”规划出台：黄浦江滨水贯通岸线新增52公里"
     },
     {
      "title": "英伟达拟斥资60亿美元获Poolside AI模型授权，另投10亿美元并吸纳百余名员工",
@@ -2439,46 +2479,6 @@
      "summary": "The automaker plans to soon launch its Cybercab in Austin, Texas, and got the nod to deploy thousands of vehicles in Nevada.",
      "source": "MarketWatch",
      "zh": "随着特斯拉获准在拉斯维加斯推出机器人出租车，该公司股价上涨"
-    },
-    {
-     "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
-     "link": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
-     "pubDate": "Fri, 21 Aug 2026 20:19:21 GMT",
-     "summary": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.",
-     "source": "CNBC",
-     "zh": "雷·达利奥 (Ray Dalio) 表示，Bessent 的举动表明债务危机正在逼近；推荐黄金和比特币"
-    },
-    {
-     "title": "I plan to leave money to grandkids — but they must pass financial-literacy classes to get it. Is that fair?",
-     "link": "https://www.marketwatch.com/story/im-leaving-my-grandkids-money-but-they-must-pass-financial-literacy-classes-to-get-it-is-that-fair-8a630648?mod=mw_rss_topstories",
-     "pubDate": "Fri, 21 Aug 2026 20:11:00 GMT",
-     "summary": "“I do believe very much in delayed gratification.”",
-     "source": "MarketWatch",
-     "zh": "我计划把钱留给孙辈——但他们必须通过金融知识课程才能得到这笔钱。这公平吗？"
-    },
-    {
-     "title": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate",
-     "link": "https://www.marketwatch.com/story/retirees-this-investment-gives-you-a-guaranteed-5-safe-withdrawal-rate-facdfd76?mod=mw_rss_topstories",
-     "pubDate": "Fri, 21 Aug 2026 20:11:00 GMT",
-     "summary": "TIPS yields are at or close to 20-year highs.",
-     "source": "MarketWatch",
-     "zh": "退休人员：这项投资为您提供 5% 的安全提款率保证"
-    },
-    {
-     "title": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
-     "link": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
-     "pubDate": "Fri, 21 Aug 2026 20:11:00 GMT",
-     "summary": "The surprising move this week by Treasury Secretary Scott Bessent to intervene in Treasury markets to lower the cost of government debt undercuts the credibility of Federal Reserve Chairman Kevin Warsh to make interest-rate policy, experts said.",
-     "source": "MarketWatch",
-     "zh": "以下是贝森特新近激进的财政部如何削弱美联储的沃什"
-    },
-    {
-     "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
-     "link": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
-     "pubDate": "Fri, 21 Aug 2026 19:58:36 GMT",
-     "summary": "Citadel has unwound more than 80% of the portfolio risk it acquired from Situational Awareness through over $4 billion in block trades, said Ken Griffin.",
-     "source": "CNBC",
-     "zh": "Ken Griffin 表示 Citadel 消除了 80% 以上与态势感知产品组合相关的风险"
     }
    ]
   },

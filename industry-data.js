@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/22 06:24:50",
+ "generated_at": "2026/8/22 06:51:45",
  "recent_days": 7,
  "industries": [
   {
@@ -10,20 +10,12 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
-     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
-     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
-     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
-     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
-     "source": "MarkTechPost",
-     "zh": "构建代理文档智能管道：使用 AutoFigure 创建科学图形"
-    },
-    {
-     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
-     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
-     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
-     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
-     "source": "MarkTechPost",
-     "zh": "Anthropic 将 Claude Mythos 5 引入 Claude Security：企业团队无需直接访问模型即可进行前沿漏洞扫描"
+     "title": "Nvidia partners with data center developer Cloverleaf",
+     "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+     "pubDate": "Fri, 21 Aug 2026 22:37:38 +0000",
+     "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+     "source": "TechCrunch AI",
+     "zh": "Nvidia 与数据中心开发商 Cloverleaf 合作"
     },
     {
      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -50,20 +42,20 @@ window.INDUSTRY_DATA = {
      "zh": "使用 llama.cpp、DFlash 和 Pi 运行 Muse Glimmer 进行本地 Vibe 编码"
     },
     {
-     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-     "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-     "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
-     "summary": "There's about to be a big fight to secure access to space.",
-     "source": "TechCrunch AI",
-     "zh": "随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元"
-    },
-    {
      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a y",
      "source": "TechCrunch AI",
      "zh": "美国司法部正在调查 a16z。这对风险投资意味着什么？"
+    },
+    {
+     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+     "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+     "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+     "summary": "There's about to be a big fight to secure access to space.",
+     "source": "TechCrunch AI",
+     "zh": "随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元"
     },
     {
      "title": "5 Real-World Use Cases for AI Agents Transforming Industries",
@@ -199,7 +191,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400",
      "summary": "arXiv:2608.19202v1 Announce Type: new Abstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed with a default assumption or spend tokens on a clarifying question, retrieval call",
      "source": "arXiv cs.AI",
-     "zh": "主动推理作为 AI 代理的上下文获取"
+     "zh": "主动推理作为人工智能代理的上下文获取"
     },
     {
      "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
@@ -223,7 +215,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400",
      "summary": "arXiv:2608.19216v1 Announce Type: new Abstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its surrounding pipeline. That assumption often fails for regulated organisations us",
      "source": "arXiv cs.AI",
-     "zh": "有界主权和控制税：当部署者不拥有模型时对人工智能监督进行定价"
+     "zh": "有界主权和控制税：部署者不拥有模型时人工智能监督的定价"
     },
     {
      "title": "Interaction valence reveals contrasting social networks in dairy cattle",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西8月21日报道，昨天，MiniMax发布了多模态创作Agent工作台MiniMax Design，被无数AI视频创作平台调用的MiniMax H3，终于有了自己的Harness。 MiniMax Design能够根据用户需求完成多模态理解、任务规划、视频生成和配乐剪辑等环节，通过围绕MiniMax H3打造的架构，可以把创作需求转化为适合MiniMax H3执行的素材与指令，充分发挥模型能力。 MiniMax Design并不只会一句话生成视频，它同样具备AI视频创作工具该有的功能，例如多种Skills、多智能体协",
      "source": "智东西",
      "zh": "创作“猫片”、复刻《黑神话：钟馗》，最适合MiniMax H3的Harness来了"
+    },
+    {
+     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
+     "source": "机器之心",
+     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
     }
    ]
   },
@@ -655,7 +655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 19:32:03 +0000",
      "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla killing the Solar Roof, Cybercab launch, Genesis GV90, and more. Today’s episode is sponsored by GM . GM EV charging made easy, with Energy Pass and P",
      "source": "Electrek",
-     "zh": "播客：特斯拉取消了太阳能屋顶、Cyber​​cab 推出、Genesis GV90 等"
+     "zh": "播客：特斯拉取消太阳能屋顶、Cyber​​cab 推出、Genesis GV90 等"
     },
     {
      "title": "Hyundai starts taking orders for $17,700 Ioniq V, but you can’t have it",
@@ -983,7 +983,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 13:45:47 +0000",
      "summary": "ES Foundry's Alex Zhu outlines how the US cell maker is betting on PERC while navigating shifting regulations and supply-chain constraints.",
      "source": "PV Tech",
-     "zh": "ES Foundry 在美国光伏制造转向 n 型之际支持 PERC"
+     "zh": "ES Foundry 在美国光伏制造转向 n 型期间支持 PERC"
     },
     {
      "title": "United Solar’s goal to diversify polysilicon supply outside of China",
@@ -991,7 +991,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 13:43:34 +0000",
      "summary": "PV Tech Premium speaks with United Solar about the challenges of building polysilicon capacity outside of China and catering to the US and Indian markets.",
      "source": "PV Tech",
-     "zh": "联合太阳能的目标是在中国以外实现多晶硅供应多元化"
+     "zh": "联合太阳能公司的目标是实现中国以外多晶硅供应的多元化"
     },
     {
      "title": "Austria announces energy storage offensive, shifting solar subsidy focus",
@@ -1047,7 +1047,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 12:21:49 +0000",
      "summary": "China’s polysilicon market showed early signs of stabilization, while wafer prices jumped sharply on stronger downstream demand and increased overseas purchasing. The post Chinese PV Industry Brief: polysilicon market shows tentative recovery as wafer prices surge appeared first on pv magazine Globa",
      "source": "pv magazine",
-     "zh": "中国光伏行业简报：硅片价格飙升，多晶硅市场呈现初步复苏"
+     "zh": "中国光伏行业简报：硅片价格飙升，多晶硅市场出现初步复苏"
     },
     {
      "title": "The Hydrogen Stream: JCB Hydromax sets speed record for hydrogen-powered vehicles of any kind",
@@ -1135,7 +1135,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 16:10:33 +0000",
      "summary": "By using chemical signals to guide cells to adopt distinct regional identities, scientists created lab-grown human organoids that mimic early brain development and could illuminate how specialized brain areas emerge. The post Lab-Grown Neocortex Models Mimic Early Brain Organization appeared first o",
      "source": "GEN",
-     "zh": "实验室培养的新皮质模型模仿早期大脑组织"
+     "zh": "实验室培育的新皮质模型模仿早期大脑组织"
     },
     {
      "title": "From Models to Agents: The Next Phase of AI Adoption in Molecular Discovery",
@@ -1431,7 +1431,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 04:01:00 +0000",
      "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
      "source": "NASA",
-     "zh": "欧洲炎热的夏季"
+     "zh": "欧洲炎热的夏天"
     },
     {
      "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
@@ -1583,7 +1583,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 11:55:15 -0400",
      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
      "source": "BleepingComputer",
-     "zh": "数百个泄露的 AWS 密钥可完全控制企业帐户"
+     "zh": "数百个泄露的 AWS 密钥可完全控制企业账户"
     },
     {
      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
@@ -1746,6 +1746,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "消息称苹果收缩 Vision Pro 相关业务，波及 Siri 等团队裁员共约 200 人",
+     "link": "https://www.ithome.com/0/992/888.htm",
+     "pubDate": "Fri, 21 Aug 2026 22:48:46 GMT",
+     "summary": "IT之家 8 月 22 日消息，科技媒体 AppleInsider 昨日（8 月 21 日）发布博文，报道称 苹果 Vision Pro 项目裁员约 60 人后 ， 苹果公司还同步调整 Siri 团队，总裁员人数约为 200 人。 彭博社记者马克 · 古尔曼（Mark Gurman）援引知情人士透露，包括 Apple Vision 沉浸式视频、Apple Vision 游戏和 Siri 在内，苹果此次裁员总数约 200 人。 苹果向彭博社表示，公司会因这项调整新增部分岗位，同时影响少量现有岗位。苹果称，公司感谢相关员工的贡献，并会在转岗过程中提供支持，包括允许员工申请苹果内部其他职位。 报道称",
+     "source": "IT之家",
+     "zh": "消息称苹果收缩 Vision Pro 相关业务，波及 Siri 等团队裁员共约 200 人"
+    },
+    {
+     "title": "Gurman: as part of Vision Pro cuts, Apple is largely shutting down a team focused on gaming and reducing the size of a unit producing immersive video content (Chance Miller/9to5Mac)",
+     "link": "https://www.techmeme.com/260821/p28#a260821p28",
+     "pubDate": "Fri, 21 Aug 2026 18:45:01 -0400",
+     "summary": "Chance Miller / 9to5Mac : Gurman: as part of Vision Pro cuts, Apple is largely shutting down a team focused on gaming and reducing the size of a unit producing immersive video content &nbsp; &mdash;&nbsp; Apple is cutting jobs across multiple teams, according to a new Bloomberg report.&nbsp; All tol",
+     "source": "Techmeme",
+     "zh": "古尔曼：作为 Vision Pro 削减的一部分，苹果将在很大程度上关闭一个专注于游戏的团队，并缩小制作沉浸式视频内容的部门的规模（Chance Miller/9to5Mac）"
+    },
+    {
+     "title": "Nvidia makes a minority investment in Cloverleaf, which works with utilities and energy providers to secure infrastructure for data center sites (Rashika Singh/Reuters)",
+     "link": "https://www.techmeme.com/260821/p27#a260821p27",
+     "pubDate": "Fri, 21 Aug 2026 18:35:01 -0400",
+     "summary": "Rashika Singh / Reuters : Nvidia makes a minority investment in Cloverleaf, which works with utilities and energy providers to secure infrastructure for data center sites &nbsp; &mdash;&nbsp; Nvidia (NVDA.O) has made a minority investment in privately held Cloverleaf Infrastructure to develop infras",
+     "source": "Techmeme",
+     "zh": "Nvidia 对 Cloverleaf 进行了少数投资，该公司与公用事业和能源提供商合作，确保数据中心站点的基础设施安全（Rashika Singh/路透社）"
+    },
+    {
      "title": "OpenAI cuts GPT-5.6 Sol&apos;s API and credit prices by over 20% for the next three months, to $4/1M input tokens and $20/1M output tokens (Anzar Mehraj/Reuters)",
      "link": "https://www.techmeme.com/260821/p26#a260821p26",
      "pubDate": "Fri, 21 Aug 2026 18:15:03 -0400",
@@ -1754,10 +1778,10 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI 在接下来的三个月内将 GPT-5.6 Sol 的 API 和信用价格削减了 20% 以上，输入代币为 4/100 万美元，输出代币为 20/100 万美元（Anzar Mehraj/Reuters）"
     },
     {
-     "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours",
+     "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
      "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
      "pubDate": "Fri, 21 Aug 2026 22:10:01 +0000",
-     "summary": "Rillet CEO Nicholas Koop shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+     "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
      "source": "TechCrunch",
      "zh": "人工智能会计初创公司 Rillet 如何在 48 小时内筹集 1 亿美元并成为独角兽"
     },
@@ -1773,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Remotely Unlocking Electric Scooters",
      "link": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
      "pubDate": "Fri, 21 Aug 2026 21:32:07 +0000",
-     "summary": "Article URL: https://henriemategui.com/post/remotely-unlocking-electric-scooters Comments URL: https://news.ycombinator.com/item?id=49394028 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://henriemategui.com/post/remotely-unlocking-electric-scooters Comments URL: https://news.ycombinator.com/item?id=49394028 Points: 7 # Comments: 0",
      "source": "Hacker News",
      "zh": "远程解锁电动滑板车"
     },
@@ -1834,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "诉讼称，隐藏的 Zillow 房源造成虚假供应冲击，导致纽约市租金上涨"
     },
     {
-     "title": "DHH launches Omacom Foundation, a non-profit supporting his Omarchy Linux distro, with $8M in funding from Michael Dell, Jack Dorsey, Patrick Collison, others (Omarchy News)",
-     "link": "https://www.techmeme.com/260821/p22#a260821p22",
-     "pubDate": "Fri, 21 Aug 2026 16:10:02 -0400",
-     "summary": "Omarchy News : DHH launches Omacom Foundation, a non-profit supporting his Omarchy Linux distro, with $8M in funding from Michael Dell, Jack Dorsey, Patrick Collison, others &nbsp; &mdash;&nbsp; It's time to dream big.&nbsp; Omarchy Quattro has given people a chance to experience what the malleable ",
-     "source": "Techmeme",
-     "zh": "DHH 成立了 Omacom 基金会，这是一个支持他的 Omarchy Linux 发行版的非营利组织，由 Michael Dell、Jack Dorsey、Patrick Collison 等人提供 800 万美元资金（Omarchy 新闻）"
-    },
-    {
      "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
      "link": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
      "pubDate": "Fri, 21 Aug 2026 19:57:46 +0000",
@@ -1853,17 +1869,9 @@ window.INDUSTRY_DATA = {
      "title": "Quick impressions: A week of using Codex more than Claude",
      "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
      "pubDate": "Fri, 21 Aug 2026 19:51:48 +0000",
-     "summary": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 60 # Comments: 67",
+     "summary": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 63 # Comments: 70",
      "source": "Hacker News",
      "zh": "快速印象：比 Claude 使用 Codex 多的一周"
-    },
-    {
-     "title": "Source: OpenAI&apos;s VP of sales in the Americas, Kaylin Voss, resigned a week after Denise Dresser left, prompting others on the sales team to consider resigning (Laura Bratton/The Information)",
-     "link": "https://www.techmeme.com/260821/p21#a260821p21",
-     "pubDate": "Fri, 21 Aug 2026 15:45:01 -0400",
-     "summary": "Laura Bratton / The Information : Source: OpenAI's VP of sales in the Americas, Kaylin Voss, resigned a week after Denise Dresser left, prompting others on the sales team to consider resigning &nbsp; &mdash;&nbsp; Kaylin Voss, OpenAI's vice president of sales in the Americas, has resigned a week aft",
-     "source": "Techmeme",
-     "zh": "资料来源：OpenAI 美洲销售副总裁 Kaylin Voss 在 Denise Dresser 离开一周后辞职，促使销售团队中的其他人考虑辞职（Laura Bratton/The Information）"
     },
     {
      "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
@@ -1872,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "The private Android-based OS will expand beyond Pixels next year.",
      "source": "Ars Technica",
      "zh": "摩托罗拉 GrapheneOS 手机将于 2027 年推出，价格高于 Pixel"
-    },
-    {
-     "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
-     "link": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
-     "pubDate": "Fri, 21 Aug 2026 19:16:15 +0000",
-     "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-     "source": "TechCrunch",
-     "zh": "最后机会：今天购买 TechCrunch Disrupt 2026 门票可节省高达 300 美元"
     },
     {
      "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
@@ -1893,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Tumble Forth – from assembly to OS with C compiler",
      "link": "https://tumbleforth.hardcoded.net/",
      "pubDate": "Fri, 21 Aug 2026 18:59:52 +0000",
-     "summary": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 32 # Comments: 3",
+     "summary": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 33 # Comments: 3",
      "source": "Hacker News",
      "zh": "Tumble Forth – 使用 C 编译器从汇编到操作系统"
     },
@@ -1901,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
      "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
      "pubDate": "Fri, 21 Aug 2026 18:48:28 +0000",
-     "summary": "Article URL: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders Comments URL: https://news.ycombinator.com/item?id=49392331 Points: 37 # Comments: 31",
+     "summary": "Article URL: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders Comments URL: https://news.ycombinator.com/item?id=49392331 Points: 39 # Comments: 39",
      "source": "Hacker News",
      "zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者"
     },
@@ -1909,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Scientists release biggest 2D map of the universe",
      "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
      "pubDate": "Fri, 21 Aug 2026 18:36:34 +0000",
-     "summary": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 101 # Comments: 30",
+     "summary": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 105 # Comments: 30",
      "source": "Hacker News",
      "zh": "科学家发布最大的二维宇宙地图"
     },
@@ -2015,7 +2015,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 21:53:33 +0000",
      "summary": "Save $60 on the Insignia 32-inch Fire TV and get built-in Fire TV plus an Alexa Voice Remote for just $69.99.",
      "source": "Android Authority",
-     "zh": "Insignia 32 英寸 Fire TV 降至仅 69.99 美元——对于第二块屏幕来说非常划算"
+     "zh": "Insignia 32 英寸 Fire TV 降至 69.99 美元——对于第二块屏幕来说，这个价格非常划算"
     },
     {
      "title": "Amazon drops the Logitech G309 Lightspeed mouse to a record-low $34.99",
@@ -2242,44 +2242,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "中央气象台继续发布暴雨蓝色预警",
-     "link": "http://finance.eastmoney.com/news/1351,202608223849887554.html",
-     "pubDate": "Sat, 22 Aug 2026 06:15:15 +0800",
-     "summary": "中央气象台8月22日06时继续发布暴雨蓝色预警：预计，8月22日08时至23日08时，广西南部和西部、海南岛西部、广东南部沿海和东部、福建南部和东部、台湾岛、浙江东北部和南部、山东半岛以及内蒙古东北部和河套地区、黑龙江西部、吉林西部、青海东部、甘肃南部、四川盆地西南部、云南西部等地部分地区有大到暴雨，其中广西西南部和南部沿海、台湾岛南部等地部分地区有大暴雨，局地特大暴雨(250~270毫米)；上述部分地区伴有短时强降水(最大小时降雨量20~50毫米，局地可超过70毫米)，局地有雷暴大风等强对流天气。 （文章来源：财联社）",
+     "title": "特朗普称对伊转向“经济战”不意味着美军事选项受限；门把手存安全隐患，9家车企召回；长江存储IPO获受理；茅台回应上半年产量下降丨每经早参",
+     "link": "http://finance.eastmoney.com/news/1354,202608223849896110.html",
+     "pubDate": "Sat, 22 Aug 2026 06:38:58 +0800",
+     "summary": "1 李强主持召开国务院常务会议 国务院总理李强8月21日主持召开国务院常务会议 ，听取新一代 通信 网建设情况汇报。会议指出， 要积极顺应新一轮科技革命和产业变革趋 势，牢牢把握新一代 通信 网建设的机遇 ，坚持应用牵引、适度超前，统筹推进基础网络、空间网络、国际网络、融合网络建设，巩固提升我国信息 通信 业竞争优势。（央视网） 2 隔夜市场 美股三大指数集体收涨，道指涨0.98%，纳指涨0.43%，标普500指数涨0.43% 。 纳斯达克 100指数收涨0.33%，结束五连跌。“科技七巨头”涨跌不一， 特斯拉 涨5.14%，谷歌涨1.05%，Meta Platforms涨0.75%， 微软 ",
      "source": "东方财富股票",
-     "zh": "中央气象台继续发布暴雨蓝色预警"
+     "zh": "特朗普称对伊转向“经济战”不意味着美军事选项受限；门把手存安全隐患，9家车企召回；长江存储IPO获受理；茅台回应上半年产量下降丨每经早参"
     },
     {
-     "title": "特朗普称干预债市是贝森特自己拿的主意",
-     "link": "http://finance.eastmoney.com/news/1351,202608223849887848.html",
-     "pubDate": "Sat, 22 Aug 2026 06:13:08 +0800",
-     "summary": "美国总统唐纳德·特朗普说，他没有指示斯科特·贝森特本周干预债券市场，是这位财政部长自行决定采取的行动。“没有，完全没有，” 特朗普周五被问及他是否曾推动贝森特采取行动时对记者说，“他是个很能干的人。他想这么做的。他很会的。”贝森特本周采取措施稳定债市并推动降低触及了多年高位的长期借贷成本。财政部周三出其不意宣布将长债回购规模扩大至少一倍。然而，此举产生的效果转瞬即逝，30年期美债在第二天便回吐了所有涨幅。总统周五称赞了贝森特。“他直觉不错，天生对债券和利率就有着非常好的直觉，他做到了，” 特朗普说。 （文章来源：新浪财经快讯）",
+     "title": "乌克兰首都基辅响起强烈爆炸声",
+     "link": "http://finance.eastmoney.com/news/1351,202608223849896057.html",
+     "pubDate": "Sat, 22 Aug 2026 06:35:26 +0800",
+     "summary": "当地时间22日凌晨1时许，乌克兰首都基辅响起防空警报，随后基辅市响起多次强烈爆炸声。乌空军称俄军向基辅州和基辅市方向发射了多枚弹道导弹和巡飞弹。 俄罗斯方面对此暂无回应。 （文章来源：央视新闻）",
      "source": "东方财富股票",
-     "zh": "特朗普称干预债市是贝森特自己拿的主意"
+     "zh": "乌克兰首都基辅响起强烈爆炸声"
     },
     {
-     "title": "市场消息：巴西贸易部长称与美国的谈判将于下周恢复",
-     "link": "http://finance.eastmoney.com/news/1351,202608223849887765.html",
-     "pubDate": "Sat, 22 Aug 2026 06:13:08 +0800",
-     "summary": "市场消息：巴西贸易部长称与美国的谈判将于下周恢复。 （文章来源：新浪财经快讯）",
+     "title": "富祥股份董事长包建华： 三大板块协同发力 技术同源构筑多元增长壁垒",
+     "link": "http://finance.eastmoney.com/news/1354,202608223849894972.html",
+     "pubDate": "Sat, 22 Aug 2026 06:29:25 +0800",
+     "summary": "凭借二十余年精细化工与生物发酵技术积淀， 富祥股份 依托技术同源、工艺复用的延伸路径，搭建起医药制造、 新能源 锂 电材料、生物制造微生物蛋白三大业务协同发展的产业格局。2026年上半年业绩实现扭亏， 新能源 电解液添加剂业务成为当期业绩增长核心引擎。与此同时，公司具有独立自主 知识产权 的未冉蛋白已获得近三十个国家市场准入，终端产品已进入欧洲SPAR等主流商超，生物制造业务开启商业化落地。 富祥股份 董事长包建华日前在接受中国证券报记者专访时表示，公司多业务布局是基于技术同源、战略同向、资源共享的长期深耕，通过“医药稳住基本盘、 新能源 释放增长动能、生物制造布局长期价值”的梯次发展格局，持",
      "source": "东方财富股票",
-     "zh": "市场消息：巴西贸易部长称与美国的谈判将于下周恢复"
+     "zh": "富祥股份董事长包建华： 三大板块协同发力 技术同源构筑多元增长壁垒"
     },
     {
-     "title": "卢拉与特朗普通话 反对美国对巴商品加征关税",
-     "link": "http://finance.eastmoney.com/news/1351,202608223849887640.html",
-     "pubDate": "Sat, 22 Aug 2026 06:13:08 +0800",
-     "summary": "巴西总统卢拉21日与美国总统特朗普通电话，反对美国政府近期对巴西商品加征关税。据巴西政府发布的声明，在1小时20分钟的通话中，卢拉和特朗普讨论了双边贸易、公共安全合作及国际热点问题。卢拉指出，近期美国对巴西加征关税的相关指控缺乏依据，这些关税措施对巴美两国均构成损害，双方应继续通过对话协商解决分歧。美国贸易代表办公室7月15日宣布自7月22日起对部分巴西产品在原有关税基础上加征25%的关税。7月23日，美国贸易代表办公室又以所谓“强迫劳动”为由，对包括巴西在内的数十个国家和地区征收10%至12.5%的新关税，以替代即将到期的全球进口关税。巴西政府8月13日宣布，已根据经济对等法案启动相关程序，",
+     "title": "瑜欣电子总经理李韵： “机”不可失 “智”取未来",
+     "link": "http://finance.eastmoney.com/news/1354,202608223849894887.html",
+     "pubDate": "Sat, 22 Aug 2026 06:29:21 +0800",
+     "summary": "● 本报记者吴科任 而立之年，李韵升任 瑜欣电子 总经理一职。其履职7年来，公司从新三板登陆创业板，业绩曲线总体向上。于李韵而言，这7年还锤炼了他的管理能力与战略眼光。 “具身智能是未来AI最重要的载体，具备极其广阔的市场空间。从技术延续性讲，公司具备向该市场输出优异产品的能力。但公司更希望找到部分细分领域，依托细分市场需求的独特性，打造差异化产品。”近日，李韵接受中国证券报记者专访时表示，公司从不盲目跟风，希望能以长期经营和打造竞争力为基础，顺利切入通用具身智能赛道。目前，公司已经启动执行器相关产品的预研工作，也联合部分高校对无框电机、高精度编码器、驱动器、散热结构件等关键部件进行研发。 李",
      "source": "东方财富股票",
-     "zh": "卢拉与特朗普通话 反对美国对巴商品加征关税"
+     "zh": "瑜欣电子总经理李韵： “机”不可失 “智”取未来"
     },
     {
-     "title": "美债扩大回购宣布前 资产管理公司增持5年期和10年期期货多头",
-     "link": "http://stock.eastmoney.com/news/1768,202608223849887167.html",
-     "pubDate": "Sat, 22 Aug 2026 06:11:40 +0800",
-     "summary": "据美国商品 期货 交易委员会（CFTC）数据，在美国财政部意外宣布扩大长期美债回购规模之前， 资产管理 公司已增加部分美国国债 期货 的净多头敞口，而投机者则削减了相关敞口。 CFTC截至8月18日当周的数据显示， 资产管理 公司在5年期和10年期美债 期货 上的净多头头寸均有所增加。其中，10年期美债期货净多头增加约3.1万张，5年期增加约4.3万张。 不过， 资产管理 公司在2年期美债期货上的净多头减少约6万张，因此其仓位变化并非所有期限均呈增持趋势。 与资产管理公司的仓位变化相比， 杠杆基金等投机资金在部分长久期美债期货上的净头寸进一步转向空头。 整体来看，财政部宣布扩大回购之前，美债市",
+     "title": "财政金融协同促内需政策迎优化完善 扩大贴息范围 适当提高额度",
+     "link": "http://finance.eastmoney.com/news/1350,202608223849895623.html",
+     "pubDate": "Sat, 22 Aug 2026 06:29:16 +0800",
+     "summary": "8月21日，财政部、中国人民 银行 、金融监管总局对外发布通知，明确进一步做好财政金融协同促内需政策有关工作。通知自8月1日起施行。 通知明确，扩大贴息范围。将符合条件的中小微民营企业的新发放流动资金贷款纳入中小微企业贷款贴息政策支持范围，中央财政按照流动资金贷款本金给予年化1个百分点、期限不超过2年的贴息支持。将信用卡专项分期、消费分期、预借现金分期等新发生信用卡各类分期业务纳入个人消费贷款财政贴息政策支持范围，贴息比例为年化1个百分点。 增加经办机构。将中小微企业贷款贴息政策、服务业经营主体贷款贴息政策经办机构范围扩大至21家全国性 银行 和金融监管评级3A及以上的城市商业 银行 、农村合",
      "source": "东方财富股票",
-     "zh": "美债扩大回购宣布前 资产管理公司增持5年期和10年期期货多头"
+     "zh": "财政金融协同促内需政策迎优化完善 扩大贴息范围 适当提高额度"
+    },
+    {
+     "title": "下半年财政政策将在三方面重点发力",
+     "link": "http://finance.eastmoney.com/news/1350,202608223849895590.html",
+     "pubDate": "Sat, 22 Aug 2026 06:29:15 +0800",
+     "summary": "8月21日，财政部副部长廖岷在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，下半年根据宏观经济运行情况，财政部将及时谋划出台务实管用的增量政策，为实现经济质的有效提升和量的合理增长提供有力支撑。下半年，财政政策将重点在加快资金使用、加力扩大内需、加强财政改革管理等方面继续发力显效。 加大财政逆周期调节力度 对于进一步提升财政宏观调控效能，廖岷表示，“十五五”时期，财政部将按照党中央、国务院的相关部署，加大财政逆周期调节力度，更加注重提升财政宏观调控的有效性精准性，为稳定宏观经济大盘、促进经济结构调整、推动经济社会高质量发展行稳致远奠定坚实基础。 注重把握稳中求进工作总基调。廖岷说",
+     "source": "东方财富股票",
+     "zh": "下半年财政政策将在三方面重点发力"
+    },
+    {
+     "title": "‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports",
+     "link": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
+     "pubDate": "Fri, 21 Aug 2026 22:27:59 GMT",
+     "summary": "President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections",
+     "source": "Financial Times",
+     "zh": "“背叛”：美国牧场主猛烈抨击特朗普削减牛肉进口税的计划"
+    },
+    {
+     "title": "全球市场：美股三大指数收高 道指涨近1% 稀土、加密货币概念股普涨",
+     "link": "http://stock.eastmoney.com/news/11784,202608223849871593.html",
+     "pubDate": "Sat, 22 Aug 2026 06:15:00 +0800",
+     "summary": "美股市场： 美股三大指数08月21日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨517.8点，收于53277.01点，涨幅为0.98%； 标准普尔 500种股票指数上涨33.21点，收于7674.37点，涨幅为0.43%； 纳斯达克 综合 指数上涨113.28点，收于26180.45点，涨幅为0.43%。本周，道指跌0.85%，纳指跌2.05%，标普500指数跌1.43%。 大型科技股多数上涨， 特斯拉 大涨5.14%，Cybercab最快8月在奥斯汀向公众推出，这将是首款没有方向盘和刹车踏板的Robotaxi专用车型，首批量产版已在奥斯汀展开工程测试；谷歌涨1.22%，谷歌与 ",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数收高 道指涨近1% 稀土、加密货币概念股普涨"
     },
     {
      "title": "美债扩大回购宣布前，资产管理公司增持5年期和10年期期货多头",
@@ -2296,14 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "波音工程师工会拒绝合同提议，为可能的罢工奠定了基础"
-    },
-    {
-     "title": "瑞典校园遭袭事件已致1死3伤",
-     "link": "http://global.eastmoney.com/news/11798,202608223849887951.html",
-     "pubDate": "Sat, 22 Aug 2026 06:07:50 +0800",
-     "summary": "当地时间8月21日，瑞典警方在新闻发布会上表示，当天法格什塔市一所学校发生的袭击事件已导致1人死亡，3人受伤，其中两人伤势严重。此外，一名18岁嫌疑人已被逮捕，此人曾就读于这一学校。 据瑞典法格什塔市政府消息，当天下午，一名持剑男子闯入该市一所学校，并造成多人受伤。（央视新闻） （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "瑞典校园遭袭事件已致1死3伤"
     },
     {
      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
@@ -2378,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "很快您就可以在 Costco 购买 Medicare Advantage 计划。你需要知道什么。"
     },
     {
-     "title": "全球市场：美股三大指数收高 道指涨近1% 稀土、加密货币概念股普涨",
-     "link": "http://stock.eastmoney.com/news/11784,202608223849871593.html",
-     "pubDate": "Sat, 22 Aug 2026 05:15:00 +0800",
-     "summary": "美股市场： 美股三大指数08月21日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨517.8点，收于53277.01点，涨幅为0.98%； 标准普尔 500种股票指数上涨33.21点，收于7674.37点，涨幅为0.43%； 纳斯达克 综合 指数上涨113.28点，收于26180.45点，涨幅为0.43%。本周，道指跌0.85%，纳指跌2.05%，标普500指数跌1.43%。 大型科技股多数上涨， 特斯拉 大涨5.14%，Cybercab最快8月在奥斯汀向公众推出，这将是首款没有方向盘和刹车踏板的Robotaxi专用车型，首批量产版已在奥斯汀展开工程测试；谷歌涨1.22%，谷歌与 ",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数收高 道指涨近1% 稀土、加密货币概念股普涨"
-    },
-    {
      "title": "城堡证券：Situational组合敞口已削减超80%，旗舰基金7月回报创4年最佳",
      "link": "https://wallstreetcn.com/articles/3780034",
      "pubDate": "Sat, 22 Aug 2026 05:08:05 +0800",
@@ -2439,7 +2447,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 20:19:21 GMT",
      "summary": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.",
      "source": "CNBC",
-     "zh": "雷·达利奥 (Ray Dalio) 表示，贝森特的举动表明债务危机正在逼近；推荐黄金和比特币"
+     "zh": "雷·达利奥 (Ray Dalio) 表示，Bessent 的举动表明债务危机正在逼近；推荐黄金和比特币"
     },
     {
      "title": "I plan to leave money to grandkids — but they must pass financial-literacy classes to get it. Is that fair?",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Citadel has unwound more than 80% of the portfolio risk it acquired from Situational Awareness through over $4 billion in block trades, said Ken Griffin.",
      "source": "CNBC",
      "zh": "Ken Griffin 表示 Citadel 消除了 80% 以上与态势感知产品组合相关的风险"
-    },
-    {
-     "title": "‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports",
-     "link": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
-     "pubDate": "Fri, 21 Aug 2026 19:44:48 GMT",
-     "summary": "President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections",
-     "source": "Financial Times",
-     "zh": "“背叛”：美国牧场主猛烈抨击特朗普削减牛肉进口税的计划"
     }
    ]
   },
@@ -2495,7 +2495,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 18:00:00 +0000",
      "summary": "Scientists used fiber-optic cables to turn “thunderquakes” into underground maps that could help reveal hidden hazards beneath cities.",
      "source": "Science News",
-     "zh": "“雷震”不只是让地面震动——他们还绘制了地震图"
+     "zh": "“雷震”的作用不仅仅是震动地面——他们还绘制了它的地图"
     },
     {
      "title": "The importance of indoor airflow patterns in spreading airborne disease",
@@ -2519,7 +2519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 15:01:03 +0000",
      "summary": "Bacteria may build a memory of herbivore attack in the soil and coax new plants to attract wasps to rein in destructive pests.",
      "source": "Science News",
-     "zh": "受到攻击的植物留下了令人惊讶的支援信号"
+     "zh": "受到攻击的植物留下了令人惊讶的后援呼声"
     },
     {
      "title": "‘Huge Breakthrough’ in the Math of Imbalance",

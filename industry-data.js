@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/22 05:24:27",
+ "generated_at": "2026/8/22 05:50:10",
  "recent_days": 7,
  "industries": [
   {
@@ -9,14 +9,6 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
-     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
-     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
-     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
-     "source": "MarkTechPost",
-     "zh": "Anthropic 将 Claude Mythos 5 引入 Claude Security：企业团队无需直接访问模型即可进行前沿漏洞扫描"
-    },
     {
      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
@@ -42,20 +34,20 @@ window.INDUSTRY_DATA = {
      "zh": "使用 llama.cpp、DFlash 和 Pi 运行 Muse Glimmer 进行本地 Vibe 编码"
     },
     {
-     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-     "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-     "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
-     "summary": "There's about to be a big fight to secure access to space.",
-     "source": "TechCrunch AI",
-     "zh": "随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元"
-    },
-    {
      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a y",
      "source": "TechCrunch AI",
      "zh": "美国司法部正在调查 a16z。这对风险投资意味着什么？"
+    },
+    {
+     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+     "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+     "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+     "summary": "There's about to be a big fight to secure access to space.",
+     "source": "TechCrunch AI",
+     "zh": "随着发射选择枯竭，Starcloud 为轨道数据中心筹集了 2.5 亿美元"
     },
     {
      "title": "5 Real-World Use Cases for AI Agents Transforming Industries",
@@ -215,7 +207,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 00:00:00 -0400",
      "summary": "arXiv:2608.19216v1 Announce Type: new Abstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its surrounding pipeline. That assumption often fails for regulated organisations us",
      "source": "arXiv cs.AI",
-     "zh": "有界主权和控制税：当部署者不拥有模型时对人工智能监督进行定价"
+     "zh": "有界主权和控制税：部署者不拥有模型时人工智能监督的定价"
     },
     {
      "title": "Interaction valence reveals contrasting social networks in dairy cattle",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "比会做一个动作更难的，是把一整件事连续做完。",
      "source": "机器之心",
      "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
+    },
+    {
+     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
+     "source": "机器之心",
+     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
     }
    ]
   },
@@ -343,7 +343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 08:20:00 GMT",
      "summary": "Broadcom is in talks with asset managers to raise more than US$60 billion in debt financing, with the potential package reaching as much as US$100 billion, as the chipmaker moves to expand its role in the rapidly growing AI infrastructure market, according to Bloomberg .",
      "source": "DIGITIMES",
-     "zh": "据报道博通计划进行 100B 美元债务融资以扩大人工智能芯片业务"
+     "zh": "据报道，博通计划进行 100B 美元债务融资以扩大人工智能芯片业务"
     },
     {
      "title": "Vecow eyes robotics growth as North America, EMEA account for 65% of business",
@@ -447,7 +447,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 20 Aug 2026 09:48:03 +0100",
      "summary": "Micross Components Inc of Melville, NY, USA (which provides high-reliability microelectronic products and services for aerospace, defense, space, medical, energy, communications and industrial applications) has entered into a definitive agreement to acquire AEMtec GmbH of Berlin, Germany (a portfoli",
      "source": "Semiconductor Today",
-     "zh": "Micross 收购 AEMtec，将业务拓展至欧洲"
+     "zh": "Micross 收购 AEMtec，将触角扩展到欧洲"
     },
     {
      "title": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers",
@@ -487,7 +487,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 20 Aug 2026 07:02:04 +0000",
      "summary": "Reducing manufacturing-related emissions may support lowering the embedded carbon footprint of the chips customers use in their products. The post Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And Innovation appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
-     "zh": "通过可持续发展和创新为客户减少范围 3 价值链排放"
+     "zh": "通过可持续发展和创新减少客户范围 3 价值链排放"
     },
     {
      "title": "Three Strategic Imperatives For Energy-Efficient AI Computing",
@@ -655,7 +655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 19:32:03 +0000",
      "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla killing the Solar Roof, Cybercab launch, Genesis GV90, and more. Today’s episode is sponsored by GM . GM EV charging made easy, with Energy Pass and P",
      "source": "Electrek",
-     "zh": "播客：特斯拉取消了太阳能屋顶、Cyber​​cab 推出、Genesis GV90 等"
+     "zh": "播客：特斯拉取消太阳能屋顶、Cyber​​cab 推出、Genesis GV90 等"
     },
     {
      "title": "Hyundai starts taking orders for $17,700 Ioniq V, but you can’t have it",
@@ -967,7 +967,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 13:45:47 +0000",
      "summary": "ES Foundry's Alex Zhu outlines how the US cell maker is betting on PERC while navigating shifting regulations and supply-chain constraints.",
      "source": "PV Tech",
-     "zh": "ES Foundry 在美国光伏制造转向 n 型之际支持 PERC"
+     "zh": "ES Foundry 在美国光伏制造转向 n 型期间支持 PERC"
     },
     {
      "title": "United Solar’s goal to diversify polysilicon supply outside of China",
@@ -975,7 +975,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 13:43:34 +0000",
      "summary": "PV Tech Premium speaks with United Solar about the challenges of building polysilicon capacity outside of China and catering to the US and Indian markets.",
      "source": "PV Tech",
-     "zh": "联合太阳能的目标是在中国以外实现多晶硅供应多元化"
+     "zh": "联合太阳能公司的目标是实现中国以外多晶硅供应的多元化"
     },
     {
      "title": "Austria announces energy storage offensive, shifting solar subsidy focus",
@@ -1746,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: Devoted Health, which uses AI to help coordinate medical care for those enrolled in Medicare Advantage, is raising new funding at a $25B valuation (Katie Roof/Business Insider)",
+     "link": "https://www.techmeme.com/260821/p25#a260821p25",
+     "pubDate": "Fri, 21 Aug 2026 17:35:00 -0400",
+     "summary": "Katie Roof / Business Insider : Sources: Devoted Health, which uses AI to help coordinate medical care for those enrolled in Medicare Advantage, is raising new funding at a $25B valuation &nbsp; &mdash;&nbsp; Devoted Health is the latest startup to show that combining health and AI commands a premiu",
+     "source": "Techmeme",
+     "zh": "资料来源：Devoted Health 使用人工智能来帮助协调参加 Medicare Advantage 的人的医疗护理，正在以 250 亿美元的估值筹集新资金（Katie Roof/Business Insider）"
+    },
+    {
      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
      "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
      "pubDate": "Fri, 21 Aug 2026 21:00:48 +0000",
@@ -1805,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Quick impressions: A week of using Codex more than Claude",
      "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
      "pubDate": "Fri, 21 Aug 2026 19:51:48 +0000",
-     "summary": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 45 # Comments: 44",
+     "summary": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Points: 49 # Comments: 54",
      "source": "Hacker News",
      "zh": "快速印象：比 Claude 使用 Codex 多的一周"
     },
@@ -1842,14 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "最后机会：今天购买 TechCrunch Disrupt 2026 门票可节省高达 300 美元"
     },
     {
-     "title": "Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI (Mark Gurman/Bloomberg)",
-     "link": "https://www.techmeme.com/260821/p19#a260821p19",
-     "pubDate": "Fri, 21 Aug 2026 15:06:28 -0400",
-     "summary": "Mark Gurman / Bloomberg : Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI &nbsp; &mdash;&nbsp; Apple Inc. is cutting jobs across teams responsible for the Siri digital assistant and the Vis",
-     "source": "Techmeme",
-     "zh": "资料来源：苹果公司正在裁员 200 多个职位，其中包括 Vision Pro 部门的约 100 个职位和 Siri 团队的另外 100 个职位，因为它专注于新设备和人工智能（Mark Gurman/彭博社）"
-    },
-    {
      "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
      "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
      "pubDate": "Fri, 21 Aug 2026 19:04:41 +0000",
@@ -1861,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Tumble Forth – from assembly to OS with C compiler",
      "link": "https://tumbleforth.hardcoded.net/",
      "pubDate": "Fri, 21 Aug 2026 18:59:52 +0000",
-     "summary": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 17 # Comments: 3",
+     "summary": "Article URL: https://tumbleforth.hardcoded.net/ Comments URL: https://news.ycombinator.com/item?id=49392465 Points: 25 # Comments: 3",
      "source": "Hacker News",
      "zh": "Tumble Forth – 使用 C 编译器从汇编到操作系统"
     },
@@ -1869,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
      "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
      "pubDate": "Fri, 21 Aug 2026 18:48:28 +0000",
-     "summary": "Article URL: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders Comments URL: https://news.ycombinator.com/item?id=49392331 Points: 28 # Comments: 20",
+     "summary": "Article URL: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders Comments URL: https://news.ycombinator.com/item?id=49392331 Points: 29 # Comments: 24",
      "source": "Hacker News",
      "zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者"
     },
@@ -1877,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Scientists release biggest 2D map of the universe",
      "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
      "pubDate": "Fri, 21 Aug 2026 18:36:34 +0000",
-     "summary": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 75 # Comments: 26",
+     "summary": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 86 # Comments: 27",
      "source": "Hacker News",
      "zh": "科学家发布最大的二维宇宙地图"
     },
@@ -2242,6 +2242,86 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+     "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+     "pubDate": "Fri, 21 Aug 2026 21:49:29 GMT",
+     "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
+     "source": "CNBC",
+     "zh": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素"
+    },
+    {
+     "title": "Gold extends breakout as dollar slides on U.S. debt fears",
+     "link": "https://seekingalpha.com/news/4636020-gold-extends-breakout-as-dollar-slides-on-us-debt-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 21 Aug 2026 17:45:21 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "美元因美国债务担忧而下滑，黄金延续突破"
+    },
+    {
+     "title": "美国证交会备案文件显示：美国黄金公司或最高发售1.5亿美元证券",
+     "link": "http://finance.eastmoney.com/news/1351,202608223849879540.html",
+     "pubDate": "Sat, 22 Aug 2026 05:36:28 +0800",
+     "summary": "美国证交会备案文件显示， 美国黄金 公司（US GOLD CORP）或最高发售1.5亿美元证券。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国证交会备案文件显示：美国黄金公司或最高发售1.5亿美元证券"
+    },
+    {
+     "title": "布伦特原油失守92美元/桶 日内跌0.05%",
+     "link": "http://finance.eastmoney.com/news/1351,202608223849879438.html",
+     "pubDate": "Sat, 22 Aug 2026 05:36:28 +0800",
+     "summary": "布伦特原油失守92美元/桶，日内跌0.05%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "布伦特原油失守92美元/桶 日内跌0.05%"
+    },
+    {
+     "title": "市场消息：美国商务部长卢特尼克对摆在桌面上的美加贸易协议并不满意",
+     "link": "http://finance.eastmoney.com/news/1351,202608223849879213.html",
+     "pubDate": "Sat, 22 Aug 2026 05:36:28 +0800",
+     "summary": "市场消息：美国商务部长卢特尼克对摆在桌面上的美加贸易协议并不满意。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场消息：美国商务部长卢特尼克对摆在桌面上的美加贸易协议并不满意"
+    },
+    {
+     "title": "市场消息：美国商务部长卢特尼克认为美国可以争取到更好的协议",
+     "link": "http://finance.eastmoney.com/news/1351,202608223849879167.html",
+     "pubDate": "Sat, 22 Aug 2026 05:36:28 +0800",
+     "summary": "市场消息：美国商务部长卢特尼克认为美国可以争取到更好的协议。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场消息：美国商务部长卢特尼克认为美国可以争取到更好的协议"
+    },
+    {
+     "title": "BITARI申请将其普通股在纳斯达克全球市场挂牌上市 股票代码为“BIAI”",
+     "link": "http://stock.eastmoney.com/news/1611,202608223849879621.html",
+     "pubDate": "Sat, 22 Aug 2026 05:36:28 +0800",
+     "summary": "BITARI申请将其普通股在 纳斯达克 全球市场挂牌上市，股票代码为“BIAI”，这一申请已提交美国证券交易委员会。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "BITARI申请将其普通股在纳斯达克全球市场挂牌上市 股票代码为“BIAI”"
+    },
+    {
+     "title": "SIGMA LITHIUM 恢复巴西境内采矿及工业生产业务",
+     "link": "http://stock.eastmoney.com/news/1611,202608223849879379.html",
+     "pubDate": "Sat, 22 Aug 2026 05:36:28 +0800",
+     "summary": "SIGMA LITHIUM 恢复巴西境内采矿及工业生产业务。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "SIGMA LITHIUM 恢复巴西境内采矿及工业生产业务"
+    },
+    {
+     "title": "Hims & Hers Health facing penalties from Visa for credit card disputes - report",
+     "link": "https://seekingalpha.com/news/4636029-hims-and-hers-health-facing-penalties-visa-credit-card-disputes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 21 Aug 2026 17:31:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hims & Hers Health 因信用卡纠纷面临 Visa 处罚 - 报告"
+    },
+    {
+     "title": "Pender Growth Fund reports Q2 results",
+     "link": "https://seekingalpha.com/news/4636032-pender-growth-fund-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 21 Aug 2026 17:29:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pender 增长基金报告第二季度业绩"
+    },
+    {
      "title": "You can now Venmo your kid’s college tuition. But should you?",
      "link": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
      "pubDate": "Fri, 21 Aug 2026 21:20:00 GMT",
@@ -2266,14 +2346,6 @@ window.INDUSTRY_DATA = {
      "zh": "很快您就可以在 Costco 购买 Medicare Advantage 计划。你需要知道什么。"
     },
     {
-     "title": "富时中国A50指数期货夜盘收跌0.11%",
-     "link": "http://finance.eastmoney.com/news/1351,202608223849871694.html",
-     "pubDate": "Sat, 22 Aug 2026 05:16:43 +0800",
-     "summary": "富时中国A50指数 期货 夜盘收跌0.11%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "富时中国A50指数期货夜盘收跌0.11%"
-    },
-    {
      "title": "SolarMax Technology receives Nasdaq notice",
      "link": "https://seekingalpha.com/news/4636028-solarmax-technology-receives-nasdaq-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 21 Aug 2026 17:16:16 -0400",
@@ -2288,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "知临集团 GAAP EPS 为 -1.60 美元"
-    },
-    {
-     "title": "Anthropic hires former Google chip developer as it pursues in-house solution: report",
-     "link": "https://seekingalpha.com/news/4636024-anthropic-hires-former-google-chip-developer-as-it-pursues-in-house-solution-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 21 Aug 2026 17:09:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anthropic 聘请前谷歌芯片开发人员寻求内部解决方案：报告"
     },
     {
      "title": "城堡证券：Situational组合敞口已削减超80%，旗舰基金7月回报创4年最佳",
@@ -2314,30 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "房利美12名高管突遭解雇，美国房贷市场稳定性担忧升温"
     },
     {
-     "title": "惠誉确认波兰评级为A- 展望为负面",
-     "link": "http://finance.eastmoney.com/news/1351,202608223849871221.html",
-     "pubDate": "Sat, 22 Aug 2026 05:05:52 +0800",
-     "summary": "惠誉确认波兰评级为A-，展望为负面。惠誉维持摩尔多瓦评级为B+，前景稳定。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "惠誉确认波兰评级为A- 展望为负面"
-    },
-    {
-     "title": "Spetz reports Q2 results",
-     "link": "https://seekingalpha.com/news/4636026-spetz-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 21 Aug 2026 17:04:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Spitz 报告第二季度业绩"
-    },
-    {
-     "title": "特朗普就加拿大协议的表态称进展顺利",
-     "link": "http://finance.eastmoney.com/news/1351,202608223849871319.html",
-     "pubDate": "Sat, 22 Aug 2026 04:59:57 +0800",
-     "summary": "特朗普就加拿大协议的表态称进展顺利。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "特朗普就加拿大协议的表态称进展顺利"
-    },
-    {
      "title": "报道：博通的债务交易预计将达到700亿美元以上",
      "link": "https://wallstreetcn.com/articles/3780035",
      "pubDate": "Sat, 22 Aug 2026 04:58:47 +0800",
@@ -2346,52 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "报道：博通的债务交易预计将达到700亿美元以上"
     },
     {
-     "title": "特朗普就伊朗问题不是 我们完全掌控着整个地区",
-     "link": "http://finance.eastmoney.com/news/1351,202608223849871421.html",
-     "pubDate": "Sat, 22 Aug 2026 04:58:34 +0800",
-     "summary": "特朗普就伊朗问题表示，我们完全掌控着整个地区。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "特朗普就伊朗问题不是 我们完全掌控着整个地区"
-    },
-    {
-     "title": "Vicore Pharma Holding AB (publ) GAAP EPS of SEK -0.51, revenue of SEK 2.2M",
-     "link": "https://seekingalpha.com/news/4636025-vicore-pharma-holding-ab-publ-gaap-eps-of-sek-051-revenue-of-sek-22m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 21 Aug 2026 16:58:31 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vicore Pharma Holding AB (publ) GAAP 每股收益为 -0.51 瑞典克朗，收入为 220 万瑞典克朗"
-    },
-    {
-     "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-     "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-     "pubDate": "Fri, 21 Aug 2026 20:56:19 GMT",
-     "summary": "Beef prices in the U.S have soared in 2026 due to a reduction in the nation's cattle herd.",
-     "source": "CNBC",
-     "zh": "特朗普允许免关税进口30万吨碎牛肉"
-    },
-    {
-     "title": "特朗普表示：他并未指示贝森特干预债券市场",
-     "link": "http://finance.eastmoney.com/news/1351,202608223849871016.html",
-     "pubDate": "Sat, 22 Aug 2026 04:54:28 +0800",
-     "summary": "特朗普表示，他并未指示贝森特干预债券市场。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "特朗普表示：他并未指示贝森特干预债券市场"
-    },
-    {
      "title": "瑞士央行官员：必要时将重启负利率，AI短期或推高通胀",
      "link": "https://wallstreetcn.com/articles/3780033",
      "pubDate": "Sat, 22 Aug 2026 04:51:17 +0800",
      "summary": "瑞士央行政策委员会成员表示，若有必要，瑞士央行将再度将利率降至零以下，以维持通胀在目标区间内。与此同时，她警告人工智能在短期内可能对价格构成上行压力。 8月21日，瑞士央行政策委员会成员Petra Tschudin在接受瑞士报纸Finanz und Wirtschaft采访时明确表示： 如果为了在中期内将通胀维持在0%至2%之间，而有必要将利率降至零以下，我们就会这样做。 她承认负利率的运行机制与正利率存在差异，但强调\"这并不会限制我们\"。这是瑞士央行迄今最为直接地就重返负利率作出的公开表态。 瑞士央行去年已将基准利率降至零，并维持至今。当前，瑞士通胀持续低迷，即便伊朗战争引发全球能源价格飙升",
      "source": "华尔街见闻",
      "zh": "瑞士央行官员：必要时将重启负利率，AI短期或推高通胀"
-    },
-    {
-     "title": "美股成交额前20：特斯拉大涨超5% Robinhood飙升近14%",
-     "link": "http://stock.eastmoney.com/news/1768,202608223849870910.html",
-     "pubDate": "Sat, 22 Aug 2026 04:49:03 +0800",
-     "summary": "周五美股成交额第1名 英伟达 跌0.98%至214.72美元，以211.67亿美元成交额高居榜首。汇丰研究最新将 英伟达 目标价从325美元上调至360美元，维持\"买入\"评级。消息面上， 英伟达 正全力研发至少达1万亿参数的开源模型Nemotron 4，旨在降低对OpenAI等头部客户及云巨头的依赖。 第2名 特斯拉 大涨5.14%至362.86美元，成交额211.13亿美元。消息面上， 特斯拉 Cybercab最快8月在奥斯汀向公众推出，这将是该公司首款没有方向盘和刹车踏板的Robotaxi专用车型。近几周来， 特斯拉 已为Cybercab的上线做了密集筹备，首批量产版Cybercab已在奥",
-     "source": "东方财富股票",
-     "zh": "美股成交额前20：特斯拉大涨超5% Robinhood飙升近14%"
     },
     {
      "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
@@ -2431,7 +2431,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 20:11:00 GMT",
      "summary": "“I do believe very much in delayed gratification.”",
      "source": "MarketWatch",
-     "zh": "我计划把钱留给孙辈——但他们必须通过金融知识课程才能得到这笔钱。这公平吗？"
+     "zh": "我打算把钱留给孙辈——但他们必须通过金融知识课程才能得到这笔钱。这公平吗？"
     },
     {
      "title": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate",
@@ -2495,7 +2495,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 18:00:00 +0000",
      "summary": "Scientists used fiber-optic cables to turn “thunderquakes” into underground maps that could help reveal hidden hazards beneath cities.",
      "source": "Science News",
-     "zh": "“雷震”不只是让地面震动——他们还绘制了地震图"
+     "zh": "“雷震”的作用不仅仅是震动地面——他们还绘制了它的地图"
     },
     {
      "title": "The importance of indoor airflow patterns in spreading airborne disease",
@@ -2647,7 +2647,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 20 Aug 2026 15:25:43 +0000",
      "summary": "The James Webb Space Telescope has identified the most promising candidate yet for a black hole star, lurking 660 million years after the Big Bang. The hypothetical entity, which shines 100 billion times brighter than a typical star, could shed light on the origins of the mysterious \"little red dots",
      "source": "Live Science",
-     "zh": "黑洞星？早期宇宙中太阳系大小的“点”是我们迄今为止发现的全新宇宙物体的最佳证据"
+     "zh": "黑洞星？来自早期宇宙的太阳系大小的“点”是我们迄今为止关于全新类型的宇宙物体的最好证据"
     },
     {
      "title": "Spikes, claws and stingers have no single best shape",

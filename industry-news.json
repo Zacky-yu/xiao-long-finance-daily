@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/23 05:23:48",
+ "generated_at": "2026/8/23 05:49:21",
  "recent_days": 7,
  "industries": [
   {
@@ -65,14 +65,6 @@
      "zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token"
     },
     {
-     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
-     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
-     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
-     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
-     "source": "MarkTechPost",
-     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
-    },
-    {
      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
      "link": "https://www.qbitai.com/2026/08/477090.html",
      "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
@@ -113,14 +105,6 @@
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
-     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
-     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
-     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
-     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
-     "source": "MarkTechPost",
-     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
-    },
-    {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -135,22 +119,6 @@
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia partners with data center developer Cloverleaf"
-    },
-    {
-     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
-     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
-     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
-     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
-     "source": "MarkTechPost",
-     "zh": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure"
-    },
-    {
-     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
-     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
-     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
-     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
-     "source": "MarkTechPost",
-     "zh": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access"
     },
     {
      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -247,6 +215,38 @@
      "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
      "source": "新智元",
      "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
+    },
+    {
+     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
+     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
+     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
+     "source": "新智元",
+     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
+    },
+    {
+     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
+     "source": "机器之心",
+     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
+    },
+    {
+     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
+     "source": "机器之心",
+     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
+    },
+    {
+     "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "端到端研究论文生成系统。",
+     "source": "机器之心",
+     "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
     }
    ]
   },
@@ -1060,7 +1060,7 @@
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
+     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
      "source": "Utility Dive",
      "zh": "PJM eyes option to jumpstart surplus interconnection pathway"
     },
@@ -1081,12 +1081,12 @@
      "zh": "Daqo New Energy narrows Q2 losses, resumes sales below cost"
     },
     {
-     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
-     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
-     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
-     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
-     "source": "Energy Storage News",
-     "zh": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal"
+     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
+     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
+     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
+     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
+     "source": "Utility Dive",
+     "zh": "ERCOT aims to complete Texas governor’s data center audit by December"
     }
    ]
   },
@@ -1756,7 +1756,7 @@
      "title": "Knowing When to Stop: The Art of Making a Loop Converge",
      "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
      "pubDate": "Sat, 22 Aug 2026 20:21:14 +0000",
-     "summary": "Article URL: https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/ Comments URL: https://news.ycombinator.com/item?id=49403484 Points: 13 # Comments: 3",
+     "summary": "Article URL: https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/ Comments URL: https://news.ycombinator.com/item?id=49403484 Points: 15 # Comments: 4",
      "source": "Hacker News",
      "zh": "Knowing When to Stop: The Art of Making a Loop Converge"
     },
@@ -1772,7 +1772,7 @@
      "title": "Fast and Hard Code",
      "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
      "pubDate": "Sat, 22 Aug 2026 19:56:38 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 6 # Comments: 2",
+     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 14 # Comments: 4",
      "source": "Hacker News",
      "zh": "Fast and Hard Code"
     },
@@ -1780,7 +1780,7 @@
      "title": "English ↔ Claudish Translator",
      "link": "https://programasweights.com/claudish",
      "pubDate": "Sat, 22 Aug 2026 19:19:15 +0000",
-     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 11 # Comments: 9",
+     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 17 # Comments: 13",
      "source": "Hacker News",
      "zh": "English ↔ Claudish Translator"
     },
@@ -1788,7 +1788,7 @@
      "title": "NetBSD and My Life (2005)",
      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
      "pubDate": "Sat, 22 Aug 2026 19:07:46 +0000",
-     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 52 # Comments: 10",
+     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 63 # Comments: 14",
      "source": "Hacker News",
      "zh": "NetBSD and My Life (2005)"
     },
@@ -1796,7 +1796,7 @@
      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
      "pubDate": "Sat, 22 Aug 2026 19:04:41 +0000",
-     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 96 # Comments: 29",
+     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 111 # Comments: 34",
      "source": "Hacker News",
      "zh": "hdiutil is deprecated in macOS 27 Golden Gate"
     },
@@ -1817,12 +1817,12 @@
      "zh": "Apparel retailers like Zalando, Zara, and ASOS are betting on AI virtual fitting rooms to create a better online shopping experience and cut costly returns (Sonja Wind/Bloomberg)"
     },
     {
-     "title": "Show HN: Make your logo extra bright on HDR screens",
-     "link": "https://www.soverybright.com/",
-     "pubDate": "Sat, 22 Aug 2026 18:43:03 +0000",
-     "summary": "Certain logos started standing out to me on LinkedIn as brighter/whiter than everything else around them. I dug in and found out this is accomplished by adding a gain-map to an existing JPEG, visible only on HDR screens like a newer MacBook Pro. LinkedIn is the only social network I've found that is",
+     "title": "Why your local LLM feels dumber than it is",
+     "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+     "pubDate": "Sat, 22 Aug 2026 18:14:16 +0000",
+     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 60 # Comments: 17",
      "source": "Hacker News",
-     "zh": "Show HN: Make your logo extra bright on HDR screens"
+     "zh": "Why your local LLM feels dumber than it is"
     },
     {
      "title": "灵活就业学者栽在了“剪金句”的小编手里",
@@ -1993,6 +1993,22 @@
    "total": 7,
    "items": [
     {
+     "title": "Deals: the Pixel 11 series is now on sale, the Galaxy Z8 foldables come with gift cards",
+     "link": "https://www.gsmarena.com/deals_the_pixel_11_series_is_now_on_sale_the_galaxy_z8_foldables_come_with_gift_cards-news-74286.php",
+     "pubDate": "Sat, 22 Aug 2026 23:33:02 +0200",
+     "summary": "The Google Pixel 11 series went on sale this Thursday, but Amazon is still maintaining the pre-order deals – for now. This means that the phones come with an Amazon Gift Card and trade-in bonuses (the values depend on each model). Actually, this week the trade-in bonuses are higher than they were la",
+     "source": "GSMArena",
+     "zh": "Deals: the Pixel 11 series is now on sale, the Galaxy Z8 foldables come with gift cards"
+    },
+    {
+     "title": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?",
+     "link": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/",
+     "pubDate": "Sat, 22 Aug 2026 21:30:00 +0000",
+     "summary": "We break down the different autonomous driving levels, and why Level 5 is so hard to achieve.",
+     "source": "Engadget",
+     "zh": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?"
+    },
+    {
      "title": "Google’s new Pixel 11 offers an incredible camera feature that Apple should copy",
      "link": "https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/",
      "pubDate": "Sat, 22 Aug 2026 20:43:49 +0000",
@@ -2063,14 +2079,6 @@
      "summary": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be rolling out its first touchscreen MacBook as soon as October. This’ll come alongside the next MacBook Pro redesign, potentially dubbed MacBook Ultra .",
      "source": "9to5Mac",
      "zh": "We’re just two months away from the first touchscreen MacBook: Here’s what to expect"
-    },
-    {
-     "title": "Uber hit with a nearly $1 billion fine for automatically deactivating drivers in Europe",
-     "link": "https://www.engadget.com/2242192/uber-hit-with-1-billion-fine-for-automatically-deactivating-drivers-in-europe/",
-     "pubDate": "Sat, 22 Aug 2026 17:52:18 +0000",
-     "summary": "A Dutch data regulatory authority said that Uber has to pay 824.9 million euros for violating the GDPR.",
-     "source": "Engadget",
-     "zh": "Uber hit with a nearly $1 billion fine for automatically deactivating drivers in Europe"
     },
     {
      "title": "Pixel Camera 11 debuts refreshed quick access controls and a handy Launch mode",
@@ -2193,14 +2201,6 @@
      "zh": "iQOO is allegedly working on a small and powerful tablet"
     },
     {
-     "title": "vivo V70 Lite 4G arrives with 8,100mAh battery and IP69 rating",
-     "link": "https://www.gsmarena.com/vivo_v70_lite_4g_arrives_with_8100mah_battery_and_ip69_rating-news-74288.php",
-     "pubDate": "Sat, 22 Aug 2026 06:02:02 +0200",
-     "summary": "The vivo V70 Lite was announced back in June, and its 4G counterpart has not been listed across several markets in Eurasia. As the name implies, this device features a 4G chipset – specifically Unisoc’s T7300. It is paired with 8GB of LPDDR4X RAM and 128/256GB of UFS 2.2 storage. The phone also brin",
-     "source": "GSMArena",
-     "zh": "vivo V70 Lite 4G arrives with 8,100mAh battery and IP69 rating"
-    },
-    {
      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
      "link": "https://sspai.com/post/113675",
      "pubDate": "Sat, 22 Aug 2026 11:00:00 +0800",
@@ -2241,12 +2241,28 @@
    "total": 13,
    "items": [
     {
+     "title": "上海写字楼市场结构性分化加剧 超甲级办公楼未来五年复合增长率看涨6％",
+     "link": "http://finance.eastmoney.com/news/1348,202608233850222628.html",
+     "pubDate": "Sun, 23 Aug 2026 05:20:00 +0800",
+     "summary": "上海甲级写字楼“3+5”评价体系。图源： 仲量联行 2026年上半年，上海写字楼市场呈现显著结构性回暖，市场供需持续修复、活跃度稳步提升，行业层级分化加剧，超甲级办公楼成为市场复苏的核心支撑。 多家研究机构近期发布的行业数据共同印证，今年上半年上海 商业地产 复苏态势明确，写字楼净吸纳量同比大涨83%，大宗不动产成交总额同比攀升47%，市场底部企稳特征持续强化。而在行业整体温和修复的大背景下， 仲量联行 市场白皮书数据显示，依托“3+5”评价体系界定的超甲级办公楼逆势突围，年内近七成项目租金实现企稳或上涨。 仲量联行 中国区首席执行官张静向《华夏时报》记者表示，城市能级的系统性跃升，正深刻重塑",
+     "source": "东方财富股票",
+     "zh": "上海写字楼市场结构性分化加剧 超甲级办公楼未来五年复合增长率看涨6％"
+    },
+    {
      "title": "市场资讯：本次停电事故未对英国整体电力供应造成影响",
      "link": "http://finance.eastmoney.com/news/1351,202608233850227874.html",
      "pubDate": "Sun, 23 Aug 2026 05:01:02 +0800",
      "summary": "市场资讯：本次停电事故未对英国整体 电力 供应造成影响。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
      "zh": "市场资讯：本次停电事故未对英国整体电力供应造成影响"
+    },
+    {
+     "title": "122轮 溢价48.9％！湖北民企爆冷摘得武汉光谷宅地 专家：长江存储等提供产业动能",
+     "link": "http://finance.eastmoney.com/news/1348,202608233850222752.html",
+     "pubDate": "Sun, 23 Aug 2026 05:00:46 +0800",
+     "summary": "在8月21日武汉土地市场的激烈角逐中，光谷核心区一宗优质宅地引发百轮竞价，最终被一家跨界而来的民企以近五成的高溢价率强势斩获。业内人士向《华夏时报》记者分析称，资金正加速向产业强区、核心板块的优质小体量地块集中。 而在核心区高溢价成交的火热背后，同批次外围地块底价成交、二手房价格持续承压的“冰冷”现实同样不容忽视。专家向《华夏时报》记者分析指出，这一地块的高溢价不等于市场全面回暖，属于典型结构性行情，产业强区率先修复，非核心板块仍以去库存为主。 民企高溢价爆冷拿地 8月21日，武汉出让三宗土地，成交总价8.43亿元。其中，最受市场关注的是光谷核心P（2026）063号地块。这宗宅地经过122轮",
+     "source": "东方财富股票",
+     "zh": "122轮 溢价48.9％！湖北民企爆冷摘得武汉光谷宅地 专家：长江存储等提供产业动能"
     },
     {
      "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
@@ -2321,14 +2337,6 @@
      "zh": "Nvidia customers reportedly warned about AI-related price hikes"
     },
     {
-     "title": "拉脱维亚遭遇严重风暴灾害 超18万用户停电",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850227511.html",
-     "pubDate": "Sun, 23 Aug 2026 04:19:43 +0800",
-     "summary": "当地时间22日晚间，拉脱维亚遭遇强风暴，大量树木或树枝被折断，配电网络遭到严重破坏，全国超过18万用户停电。 此次强气旋从南部进入拉脱维亚，同时带来暴雨和破坏性大风。拉脱维亚通讯社将其称为2005年1月以来破坏性最强风暴。当天拉脱维亚中部一些地方的降水量已经达到当地月降水量的大约一半。 拉脱维亚环境、地质和气象中心22日对中部和西部地区持续发出强降雨红色预警，与此同时，强阵风的橙色预警几乎覆盖全国。 拉脱维亚铁路运营部门说，由于天气原因，22日晚多趟列车运行出现延误。 拉脱维亚 电力 公司的数据显示，截至当天22时，该公司18.5万用户的 电力 供应中断。 电力 损坏主要由倒伏树木造成，救援人",
-     "source": "东方财富股票",
-     "zh": "拉脱维亚遭遇严重风暴灾害 超18万用户停电"
-    },
-    {
      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
      "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
      "pubDate": "Sat, 22 Aug 2026 20:18:15 GMT",
@@ -2343,14 +2351,6 @@
      "summary": "“The cost is absolutely ridiculous.”",
      "source": "MarketWatch",
      "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
-    },
-    {
-     "title": "沃什将以美联储主席身份首次发表杰克逊霍尔讲话",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850228174.html",
-     "pubDate": "Sun, 23 Aug 2026 04:06:45 +0800",
-     "summary": "美联储主席凯文·沃什将于下周五在怀俄明州杰克逊霍尔年度经济会议发表讲话，投资者期待他阐明美国央行该如何应对顽固通胀，但目前尚不确定他是否会给出明确表态。这位主席的沟通策略开局坎坷。7月政策会议结束后，沃什几乎没有透露对经济的看法，也未给出利率前瞻指引。投资者解读其表态，认为他在推动通胀回落至目标水平方面决心不足，随后长期债券收益率攀升至二十年来高位。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "沃什将以美联储主席身份首次发表杰克逊霍尔讲话"
     },
     {
      "title": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis",

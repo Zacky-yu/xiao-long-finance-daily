@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 06:24:22",
+ "generated_at": "2026/8/23 06:51:04",
  "recent_days": 7,
  "industries": [
   {
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "China Tightens Restrictions On Electric Door Handles, Forcing Tesla To Recall 3 Million Vehicles",
+     "link": "https://cleantechnica.com/2026/08/22/china-tightens-restrictions-on-electric-door-handles-forcing-tesla-to-recall-3-million-vehicles/",
+     "pubDate": "Sat, 22 Aug 2026 22:40:43 +0000",
+     "summary": "Tesla didn’t start the electric door handle craze. Hotrodders in the late 1940s and early 1950s substituted electric buttons for mechanical door handles in their effort to “de-chrome” their cars. But Tesla, under Elon Musk’s direction, took the idea and ran with it when it introduced the Model S. Su",
+     "source": "CleanTechnica",
+     "zh": "China Tightens Restrictions On Electric Door Handles, Forcing Tesla To Recall 3 Million Vehicles"
+    },
+    {
      "title": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
      "link": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.html",
      "pubDate": "Sat, 22 Aug 2026 16:00:00 -0500",
@@ -912,14 +920,6 @@ window.INDUSTRY_DATA = {
      "summary": "This is my 194th article for CleanTechnica. I think you might say that I am a CleanTechnica (e.g. clean energy) evangelist. I also have taken my electric cars to car shows and driven them in 4th of July parades for 10 years. I also promote EVs and green lifestyles whenever ... [continued] The post C",
      "source": "CleanTechnica",
      "zh": "CleanTechnica Evangelist Report Card"
-    },
-    {
-     "title": "Heart Aerospace Just Flew The Aviation Transition Investors Should Be Putting Billions Into",
-     "link": "https://cleantechnica.com/2026/08/22/heart-aerospace-x1-electric-aviation-transition/",
-     "pubDate": "Sat, 22 Aug 2026 06:32:08 +0000",
-     "summary": "Heart Aerospace’s X1 demonstrator flew for 27 minutes on August 12 from Plattsburgh International Airport, powered entirely by batteries. The aircraft has a 106-foot wingspan, weighed more than 25,000 pounds at takeoff and drew more than a megawatt at peak. Heart calls it the largest battery-electri",
-     "source": "CleanTechnica",
-     "zh": "Heart Aerospace Just Flew The Aviation Transition Investors Should Be Putting Billions Into"
     },
     {
      "title": "AC-Coupled vs. DC-Coupled",
@@ -1762,34 +1762,26 @@ window.INDUSTRY_DATA = {
      "zh": "London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)"
     },
     {
-     "title": "Fast and Hard Code",
-     "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-     "pubDate": "Sat, 22 Aug 2026 19:56:38 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 17 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "Fast and Hard Code"
-    },
-    {
      "title": "English ↔ Claudish Translator",
      "link": "https://programasweights.com/claudish",
      "pubDate": "Sat, 22 Aug 2026 19:19:15 +0000",
-     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 24 # Comments: 18",
+     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 30 # Comments: 21",
      "source": "Hacker News",
      "zh": "English ↔ Claudish Translator"
     },
     {
-     "title": "NetBSD and My Life (2005)",
+     "title": "NetBSD and my life (2005)",
      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
      "pubDate": "Sat, 22 Aug 2026 19:07:46 +0000",
-     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 68 # Comments: 15",
+     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 71 # Comments: 19",
      "source": "Hacker News",
-     "zh": "NetBSD and My Life (2005)"
+     "zh": "NetBSD and my life (2005)"
     },
     {
      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
      "pubDate": "Sat, 22 Aug 2026 19:04:41 +0000",
-     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 133 # Comments: 43",
+     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 143 # Comments: 49",
      "source": "Hacker News",
      "zh": "hdiutil is deprecated in macOS 27 Golden Gate"
     },
@@ -1813,15 +1805,23 @@ window.INDUSTRY_DATA = {
      "title": "Why your local LLM feels dumber than it is",
      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
      "pubDate": "Sat, 22 Aug 2026 18:14:16 +0000",
-     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 89 # Comments: 27",
+     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 112 # Comments: 33",
      "source": "Hacker News",
      "zh": "Why your local LLM feels dumber than it is"
+    },
+    {
+     "title": "Thinking in Python by Bruce Eckel",
+     "link": "https://thinkinginpython.com/",
+     "pubDate": "Sat, 22 Aug 2026 18:10:49 +0000",
+     "summary": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 16 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Thinking in Python by Bruce Eckel"
     },
     {
      "title": "Scrap",
      "link": "https://twitter.com/moxie/status/2091218652133732491",
      "pubDate": "Sat, 22 Aug 2026 18:08:56 +0000",
-     "summary": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 187 # Comments: 78",
+     "summary": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 203 # Comments: 83",
      "source": "Hacker News",
      "zh": "Scrap"
     },
@@ -2234,52 +2234,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "国铁订单托举主业海外市场收入增两成 中国中车半年净利79亿元再刷纪录",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850231413.html",
-     "pubDate": "Sun, 23 Aug 2026 06:11:23 +0800",
-     "summary": "中国中车 （601766.SH）创下自成立以来最好的半年业绩报。 中国中车 上半年营业收入为1316.82亿元，同比增长9.96%；归属于上市公司股东的净利润79.91亿元，同比增长10.28%。 据《中国经营报》记者统计， 中国中车 盈利规模继续刷新合并之后纪录，此前上半年净利润突破70亿元仅有2025年，为72.46亿元；2018—2024年，上半年归母净利润多数处于30亿—48亿元区间。 2026年上半年 中国中车 合计新签订单1419亿元，其中海外新签订单299亿元。国铁集团动车组、机车招标订单进入集中交付周期，海外市场营收实现较快增长，成为拉动本期业绩的两大核心变量。同时，经营性现金",
+     "title": "加拿大宣布9月8日起对美国商品征收报复性关税",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850235516.html",
+     "pubDate": "Sun, 23 Aug 2026 06:32:49 +0800",
+     "summary": "当地时间8月22日，加拿大总理卡尼发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。 卡尼表示，反制关税将涵盖乳制品、 钢铁 、家电、纸浆与 造纸 以及 电子 产品等多个领域。 在谈及谈判为何在最后时刻中断时，卡尼说，虽然本周早些时候双方曾接近达成互利共赢的协议，但美方在最后一刻提出了不经济、不公平且极大损害加拿大利益的新条款，试图限制加拿大与其他国家达成新的贸易协议的能力以及加拿大对其语言、文化和主权的保护，而且所提出的 汽车 产业条款极不公平。 卡尼说，美方对“美国-墨西",
      "source": "东方财富股票",
-     "zh": "国铁订单托举主业海外市场收入增两成 中国中车半年净利79亿元再刷纪录"
+     "zh": "加拿大宣布9月8日起对美国商品征收报复性关税"
     },
     {
-     "title": "前7月国家铁路货运23.5亿吨增0.7% 7月铁路运量现结构性分化",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850231383.html",
-     "pubDate": "Sun, 23 Aug 2026 06:11:21 +0800",
-     "summary": "2026年前7个月，国家铁路累计发送货物23.5亿吨，同比增长0.7%；日均装车18.7万车，同比增长2.1%。中国国家铁路集团有限公司（以下简称“国铁集团”）8月19日发布数据显示上述信息。 全国铁路方面，国家铁路局发布信息显示，前7个月，全国铁路累计完成货物发送量30.52亿吨，同比增长1.4%；从分品类运输情况看，全国铁路累计发送 煤炭 16.10亿吨、集装箱6.38亿吨、粮食3351万吨，同比分别增长2.4%、7.2%、3.4%。 虽然全国铁路与国家铁路货运量均显示增长，但全国铁路7月货运总发送量快速下降，7月共发送4.30亿吨，同比下降4.7%，这是继6月微降0.4%后，年内第二次下",
+     "title": "俄称对基辅等地实施打击 乌称打击俄炼油厂",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850235210.html",
+     "pubDate": "Sun, 23 Aug 2026 06:29:51 +0800",
+     "summary": "俄罗斯国防部22日通报称，俄军当天使用远程高精度武器和 无人机 对乌克兰基辅地区实施集群打击，摧毁40余辆配有远程 无人机 发射装置的卡车。此外，俄军还对切尔诺莫尔斯克港和南方港实施了打击，目标包括乌军使用的军用物资仓库、燃料储罐、货船，以及 港口 基础设施。 同一天，乌克兰武装部队总参谋部通报称，乌军当天对俄罗斯克拉斯诺达尔边疆区叶伊斯克港的燃料、润滑油储罐实施打击。乌克兰总统泽连斯基通报战况称，乌军过去一天对俄罗斯境内多处目标实施远程打击，涵盖距前线约1000公里的新古比雪夫斯克炼油厂，以及萨马拉地区一处 物流 枢纽。 （文章来源：央视新闻）",
      "source": "东方财富股票",
-     "zh": "前7月国家铁路货运23.5亿吨增0.7% 7月铁路运量现结构性分化"
+     "zh": "俄称对基辅等地实施打击 乌称打击俄炼油厂"
     },
     {
-     "title": "票价仅覆盖成本55% 上海地铁两套调价方案出炉",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850231590.html",
-     "pubDate": "Sun, 23 Aug 2026 06:11:17 +0800",
-     "summary": "实施超过二十年的上海轨道交通票价机制，即将迎来重构。8月19日，上海市发改委发布公告，宣布优化轨道交通票价机制听证方案，两套调价方案正式对外公开，同时拟建立与人工、电价、CPI等指标挂钩的票价动态调整机制，并配套推出计次票、满额折扣等惠民举措，试图在轨道交通公益属性、企业可持续运营与市民出行承受能力之间寻找平衡点。 线网规模快速扩张 上海市现行轨道交通票价机制自2005年9月实施至今，已经运行二十余年。基准票价执行0—6公里3元，6公里以后每10公里增加1元的计价规则。二十余年间，上海轨交网络规模发生质变，对比2006年与2025年数据可以看出，运营里程由141公里增长至818公里，增幅480",
+     "title": "市场资讯：德国默茨政府将敦促内阁推动更快的促增长改革",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850235346.html",
+     "pubDate": "Sun, 23 Aug 2026 06:29:14 +0800",
+     "summary": "市场资讯：德国默茨政府将敦促内阁推动更快的促增长改革。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "票价仅覆盖成本55% 上海地铁两套调价方案出炉"
+     "zh": "市场资讯：德国默茨政府将敦促内阁推动更快的促增长改革"
     },
     {
-     "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850232521.html",
-     "pubDate": "Sun, 23 Aug 2026 06:09:19 +0800",
-     "summary": "当地时间22日，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗告诉世界各国，不要与美国一起对伊朗发动经济战。任何参与对伊朗实施经济限制的国家，都被伊朗视为敌人。 雷扎伊表示，特朗普政府发动的这场经济战也是一场宣传战。虽然伊朗已经遭受美国长期制裁，但伊朗已经学会了如何绕过制裁。他表示，海上封锁议题并非一朝一夕就能解决，伊朗已经遭受美国数月的海上封锁，但仍然成功售出了石油。 此外，他还表示，美国在霍尔木兹海峡南部航道的任何行动都将成为伊朗的打击目标，且伊方将打击美国与该地区任何反伊朗势力举行的会晤。 针对伊朗与阿曼关于霍尔木兹海峡的谈判，雷扎伊指出，双方重要磋商之一是正在就航道和贸易过境问题进行协调，",
+     "title": "以色列称无意与土耳其升级冲突 绝不接受土在叙驻军",
+     "link": "http://global.eastmoney.com/news/11798,202608233850234819.html",
+     "pubDate": "Sun, 23 Aug 2026 06:20:49 +0800",
+     "summary": "当地时间22日，以色列外交部长萨尔在接受采访时表示，尽管因叙利亚问题导致以土两国关系高度紧张，但以色列“无意与土耳其升级冲突”。 萨尔称，以色列“始终优先考虑”外交解决方案，并重申以色列并不打算激化与土耳其的对抗。他表示：“我们致力于维持现状。” 萨尔同时明确表示，以色列绝不接受土耳其在叙利亚建立基地。（央视新闻） （文章来源：每日经济新闻）",
      "source": "东方财富股票",
-     "zh": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人"
+     "zh": "以色列称无意与土耳其升级冲突 绝不接受土在叙驻军"
     },
     {
-     "title": "护航现代化大都市建设 上海明确2030年建成国际一流韧性安全城市",
-     "link": "http://finance.eastmoney.com/news/1350,202608233850230342.html",
-     "pubDate": "Sun, 23 Aug 2026 06:07:24 +0800",
-     "summary": "超大城市的现代化建设，离不开安全底座的托举。近日，上海市政府正式印发《上海市韧性安全城市建设“十五五”规划》（以下简称“《规划》”），明确到2030年，上海市将全面建成国内领先、国际一流的韧性安全城市，推动公共安全治理模式向事前预防转型，用高水平安全保障城市高质量发展。 《规划》设置了13项主要指标，其中5项约束性指标备受关注：极端风雨天气预警准确率从2025年的83%提升至2030年的90%以上，预警提前量从41分钟提升至50分钟以上；极端高低温过程预报准确率从75%提升至88%以上，预报提前量从3.5天提升至5天以上；海域2.0级以上地震监测能力从海岸线50公里内扩展至100公里内；应急避",
+     "title": "上周有近200艘船只通行霍尔木兹海峡",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850235458.html",
+     "pubDate": "Sun, 23 Aug 2026 06:20:11 +0800",
+     "summary": "英国海上贸易行动办公室的数据：上周有近200艘船只通行霍尔木兹海峡，高于前一周的150艘，而两周前通行量仅约40艘。海事情报机构Kpler的数据显示，过去两周，该海峡超过80%的液货运输船舶，要么选择美国支持、获得联合国国际海事组织许可的阿曼绕行航线，要么关闭船舶自动识别系统隐匿航行。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "护航现代化大都市建设 上海明确2030年建成国际一流韧性安全城市"
+     "zh": "上周有近200艘船只通行霍尔木兹海峡"
     },
     {
-     "title": "印度官员称：一艘散货船在印度东海岸沉没 印度海岸警卫队已救出14名船员",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850230295.html",
-     "pubDate": "Sun, 23 Aug 2026 06:02:59 +0800",
-     "summary": "印度官员称，一艘散货船在印度东海岸沉没，印度海岸警卫队已救出14名船员，目前正在搜寻另外四名失踪船员。 （文章来源：新浪财经快讯）",
+     "title": "部分美国人工智能公司下调大模型使用价格",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850234734.html",
+     "pubDate": "Sun, 23 Aug 2026 06:17:08 +0800",
+     "summary": "近日， 人工智能 大模型价格竞争日益激烈，多家美国 人工智能 公司下调大模型使用价格。 美国开放 人工智能 研究中心OpenAI21日表示，当天起将把面向开发者端的前沿人工智能大模型——GPT-5.6 Sol模型基准价格下调逾20%，调整后的优惠价格三个月有效。 上月底，OpenAI还下调了旗下其他模型的价格。其中，中端模型的价格下调20%，低成本模型的价格下调80%。此外，字母表公司旗下的谷歌日前发布了Gemini 3.7 Flash，并同步下调定价，价格约为上一版本的一半。 有美媒分析认为，人工智能大模型价格竞争日益激烈，来自中国的部分人工智能公司的大模型的开源和定价策略给美国的公司带来了",
      "source": "东方财富股票",
-     "zh": "印度官员称：一艘散货船在印度东海岸沉没 印度海岸警卫队已救出14名船员"
+     "zh": "部分美国人工智能公司下调大模型使用价格"
     },
     {
      "title": "SA Asks: What are the most promising oncology companies right now?",

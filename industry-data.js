@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 07:23:22",
+ "generated_at": "2026/8/23 07:48:28",
  "recent_days": 7,
  "industries": [
   {
@@ -42,12 +42,44 @@ window.INDUSTRY_DATA = {
      "zh": "Frontier AI labs still won’t say how they’d contain a rogue model"
     },
     {
-     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
-     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
-     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
-     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
-     "source": "MarkTechPost",
-     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
+     "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+     "link": "https://www.qbitai.com/2026/08/477253.html",
+     "pubDate": "Sat, 22 Aug 2026 14:46:43 +0000",
+     "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+     "source": "量子位",
+     "zh": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径"
+    },
+    {
+     "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+     "link": "https://www.qbitai.com/2026/08/477246.html",
+     "pubDate": "Sat, 22 Aug 2026 14:19:39 +0000",
+     "summary": "直击WRC",
+     "source": "量子位",
+     "zh": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒"
+    },
+    {
+     "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+     "link": "https://www.qbitai.com/2026/08/477155.html",
+     "pubDate": "Sat, 22 Aug 2026 14:11:20 +0000",
+     "summary": "一脑驱动多形落地",
+     "source": "量子位",
+     "zh": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗"
+    },
+    {
+     "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+     "link": "https://www.qbitai.com/2026/08/477094.html",
+     "pubDate": "Sat, 22 Aug 2026 13:56:00 +0000",
+     "summary": "采集，从一条腕带开始",
+     "source": "量子位",
+     "zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token"
+    },
+    {
+     "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
+     "link": "https://www.qbitai.com/2026/08/477090.html",
+     "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
+     "summary": "将真实场景重建为持续更新、可计算的4D数字世界。",
+     "source": "量子位",
+     "zh": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台"
     },
     {
      "title": "AI4S八年积累迎来新节点，北京再落一子，抢跑科研范式变革下半场",
@@ -82,14 +114,6 @@ window.INDUSTRY_DATA = {
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
-     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
-     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
-     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
-     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
-     "source": "MarkTechPost",
-     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
-    },
-    {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -104,22 +128,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia partners with data center developer Cloverleaf"
-    },
-    {
-     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
-     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
-     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
-     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
-     "source": "MarkTechPost",
-     "zh": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure"
-    },
-    {
-     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
-     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
-     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
-     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
-     "source": "MarkTechPost",
-     "zh": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access"
     },
     {
      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "端到端研究论文生成系统。",
      "source": "机器之心",
      "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
-    },
-    {
-     "title": "Measuring benchmark optimization in speech recognition",
-     "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-     "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "Measuring benchmark optimization in speech recognition"
     }
    ]
   },
@@ -1746,28 +1746,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "特斯拉正有意放缓 Model Y 加入 Robotaxi 车队，押注 Cybercab",
+     "link": "https://www.ithome.com/0/993/128.htm",
+     "pubDate": "Sat, 22 Aug 2026 23:45:02 GMT",
+     "summary": "IT之家 8 月 23 日消息，特斯拉本月早些时候邀请摩根大通分析师参观了旗下的一座工厂，这家华尔街投行随后在最新发布的投资者报告中披露了此次考察的发现。其中一项值得关注的信息是，特斯拉承认正在放缓将 Model Y 纳入 Robotaxi 车队的速度，但公司对此有充分理由。 摩根大通分析师近日参观了特斯拉弗里蒙特工厂，并与该公司的投资者关系团队进行了交流。通过此次考察，分析师对特斯拉的 Robotaxi 战略有了更清晰的认识。 根据摩根大通的报告，特斯拉目前正有意控制 Model Y 加入 Robotaxi 车队的速度。 该行分析师表示：“特斯拉表示，公司正在有意放缓向 Robotaxi 车",
+     "source": "IT之家",
+     "zh": "特斯拉正有意放缓 Model Y 加入 Robotaxi 车队，押注 Cybercab"
+    },
+    {
+     "title": "谨防中招：网传 113GB《GTA 6》泄露版本实为病毒文件",
+     "link": "https://www.ithome.com/0/993/127.htm",
+     "pubDate": "Sat, 22 Aug 2026 23:44:37 GMT",
+     "summary": "IT之家 8 月 23 日消息，过去一周对于 Rockstar Games 来说颇为艰难。一名名为 Cyberleek 的爆料者在网上分享了多段据称来自《GTA 6》的游戏实机视频和图片。报道称，Rockstar 正在向传播相关内容的账号发送 DMCA 删除通知，但大量泄露素材已经在社交媒体和其他网站上传播开来。 如今，似乎有人开始利用这场泄露事件散布假的《GTA 6》游戏版本。目前，一个号称容量达到 113GB 的《GTA 6》游戏文件正在多个 BT 下载网站上传播。考虑到近期不断出现的泄露内容，一些玩家可能会因此相信该文件的真实性，并尝试下载。 不过，玩家最好不要下载这个所谓的《GTA 6",
+     "source": "IT之家",
+     "zh": "谨防中招：网传 113GB《GTA 6》泄露版本实为病毒文件"
+    },
+    {
+     "title": "上海 TI15 总决赛今日开赛：Spirit、Yandex、VISION 争夺 DOTA2 最高荣耀，Sumail 宣布退役",
+     "link": "https://www.ithome.com/0/993/126.htm",
+     "pubDate": "Sat, 22 Aug 2026 23:36:19 GMT",
+     "summary": "IT之家 8 月 23 日消息，8 月 23 日是《DOTA2》 2026 年国际邀请赛（TI2026 / TI15）的决赛日，三支战队将为了 DOTA2 最高荣耀，在中国上海展开最后的争夺。 Team Liquid、Nigma Galaxy 和 BoomBoys 在 8 月 22 日的比赛中被淘汰，无缘冠军之神盾的争夺；Team Spirit、Team Yandex 和 TEAM VISION 进入决赛日，竞争 TI15 最后的总冠军。 8 月 22 日比赛结果： Team Spirit 2-0 Team Liquid BoomBoys 2-1 Nigma Galaxy TEAM VISIO",
+     "source": "IT之家",
+     "zh": "上海 TI15 总决赛今日开赛：Spirit、Yandex、VISION 争夺 DOTA2 最高荣耀，Sumail 宣布退役"
+    },
+    {
+     "title": "特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi",
+     "link": "https://www.ithome.com/0/993/125.htm",
+     "pubDate": "Sat, 22 Aug 2026 23:26:07 GMT",
+     "summary": "IT之家 8 月 23 日消息，特斯拉的 Robotaxi 业务在内华达州刚刚迎来一次大规模扩张。 内华达州运输管理局（Nevada Transportation Authority）于当地时间周四批准了特斯拉的完整“自动驾驶汽车网络公司”运营许可证，为该公司未来 12 个月内在克拉克县部署最多 5000 辆无人驾驶汽车扫清了监管障碍。 这一决定是在一场长达 4 小时的例行会议上作出的。特斯拉投资者 Sawyer Merritt 全程观看了会议直播，并在 X 平台上报道了这一消息。他指出，这次批准取代了此前的临时许可。根据临时许可，特斯拉只能在拉斯维加斯大道的一小段区域内运营最多 10 辆 R",
+     "source": "IT之家",
+     "zh": "特斯拉获内华达州批准，可部署最多 5000 辆 Robotaxi"
+    },
+    {
+     "title": "航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业",
+     "link": "https://www.ithome.com/0/993/124.htm",
+     "pubDate": "Sat, 22 Aug 2026 23:25:03 GMT",
+     "summary": "IT之家 8 月 23 日消息，据央视军事报道，在 2026 世界机器人大会上， 航天自研半人马重载智能机器人“小橙”首次公开亮相 。 据介绍，这款机器人把轮足底盘、人形双臂灵巧手合二为一，主要面向应急抢险及危险场景作业，还能搭载激光雷达与多组传感器， 时速近 20 公里 。 IT之家注意到，航天自研半人马重载智能机器人“小橙”还能够上楼，并支持跨楼层自主导航技术，可以在楼道里面自己循序往前走，执行危险场景寻找幸存者的任务。 值得一提的是， 这款机器人未来甚至有望奔赴太空开展作业 。",
+     "source": "IT之家",
+     "zh": "航天自研半人马机器人首次公开亮相，未来甚至有望奔赴太空开展作业"
+    },
+    {
      "title": "凯迪拉克全新 XT5 PHEV 首秀成都车展：Momenta R7 世界模型，预计 9 月初上市",
      "link": "https://www.ithome.com/0/993/123.htm",
      "pubDate": "Sat, 22 Aug 2026 23:16:09 GMT",
      "summary": "IT之家 8 月 23 日消息，凯迪拉克全新 XT5 PHEV 首秀 2026 成都车展，预计将于 9 月初正式上市。 IT之家注意到，新车将成为首款量产搭载 Momenta R7 世界模型的豪华混动 SUV，车身长宽高为 4888/1957/1685（1688）mm，轴距达到 2863mm。 全新 XT5 PHEV 采用搭载奥特能 5C 三元锂电池的双电机全路况插混系统，配备 1.5T 发动机（最大功率 115kW）及前后双电机（最大功率分别为 160kW 和 110kW）；采用全路况电动蜂鸟底盘。电池容量 35.5kWh， CLTC 纯电续航 215km ，综合油耗 6.05L/100km",
      "source": "IT之家",
      "zh": "凯迪拉克全新 XT5 PHEV 首秀成都车展：Momenta R7 世界模型，预计 9 月初上市"
-    },
-    {
-     "title": "马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上",
-     "link": "https://www.ithome.com/0/993/122.htm",
-     "pubDate": "Sat, 22 Aug 2026 23:13:14 GMT",
-     "summary": "IT之家 8 月 23 日消息，埃隆 · 马斯克近日给出了他对 SpaceX 星舰项目未来发展速度的一个大胆预测。在美国总统特朗普签署备忘录，推动美国每年实现 1000 次航天发射和再入任务的第二天，马斯克在 X 平台上表示，SpaceX 的目标是到 2030 年实现每天 30 次以上的星舰发射，折合每年超过 1 万次。 IT之家注意到，这一讨论始于推进系统初创公司 Mach 33 联合创始人亚伦 · 伯内特的一篇帖子。伯内特援引白宫科技顾问迈克尔 · 克拉齐奥斯的话称，新签署的美国《国家太空运输政策》提出的目标是实现“每年 1000 次发射和再入”。 伯内特指出，即使是美国联邦航空管理局（F",
-     "source": "IT之家",
-     "zh": "马斯克：2030 年 SpaceX 星舰目标每天发射 30 次以上"
-    },
-    {
-     "title": "华为余承东视频意外泄露神秘新机，网友推测是 Mate XT2 非凡大师新款三折叠手机",
-     "link": "https://www.ithome.com/0/993/121.htm",
-     "pubDate": "Sat, 22 Aug 2026 23:11:56 GMT",
-     "summary": "IT之家 8 月 23 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东昨日发布了与沈腾、杨幂闲聊，并一同介绍鸿蒙智行享界 G9 的视频。 IT之家注意到，在视频结尾，杨幂提出与新车进行合影。而此时， 余承东掏出了一款采用了全新造型设计的神秘新机 。 由于余承东的这款新机佩戴了保护壳，因此无法准确看清具体细节，但有网友凭借机身厚度猜测是 华为 Mate XT2 非凡大师新款三折叠手机 。 博主 @数码闲聊站 此前发文透露，称华为 9 月会有两场发布会：上旬发布新款三折叠，下旬发年度旗舰 Mate 90 系列。该博主还透露， Mate XT 2 三折叠手机和 Mate X8",
-     "source": "IT之家",
-     "zh": "华为余承东视频意外泄露神秘新机，网友推测是 Mate XT2 非凡大师新款三折叠手机"
     },
     {
      "title": "月薪3500，想拿大结果",
@@ -1778,18 +1802,10 @@ window.INDUSTRY_DATA = {
      "zh": "月薪3500，想拿大结果"
     },
     {
-     "title": "鸿蒙智行享界 G9 汽车 24 小时大定突破 5000 台，Ultra 与 Ultra+ 版本超过 95％",
-     "link": "https://www.ithome.com/0/993/120.htm",
-     "pubDate": "Sat, 22 Aug 2026 22:52:14 GMT",
-     "summary": "IT之家 8 月 23 日消息，据华为智选车产品总监（享界系列）彭磊分享，鸿蒙智行享界 G9 汽车 24 小时大定， Ultra 与 Ultra+ 版本超过 95％ 。 有网友锐评称，此次新车宣发属于“躺平式”，全押宝 L3， 但老百姓对 L3 的感知远没有鸿蒙智行想的那么强 。网友认为应该把新车的强项优势通过视频一个个展现出来，而不是就说几个名称。 对此，彭磊回复称：“确实享界 G9 新技术非常多，发布会有限的时间没法全部展开， 后续我们会把好的体验与技术拆解后详细跟大家讲讲 。” 据介绍，享界 G9 是鸿蒙智行首款科技豪华硬派 SUV，首发搭载鸿蒙智行智能全地形系统、800V 全主动可断开",
-     "source": "IT之家",
-     "zh": "鸿蒙智行享界 G9 汽车 24 小时大定突破 5000 台，Ultra 与 Ultra+ 版本超过 95％"
-    },
-    {
      "title": "NanoGPT Speedrun Frontier",
      "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
      "pubDate": "Sat, 22 Aug 2026 22:14:27 +0000",
-     "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 6 # Comments: 0",
      "source": "Hacker News",
      "zh": "NanoGPT Speedrun Frontier"
     },
@@ -1821,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "English ↔ Claudish Translator",
      "link": "https://programasweights.com/claudish",
      "pubDate": "Sat, 22 Aug 2026 19:19:15 +0000",
-     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 36 # Comments: 22",
+     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 39 # Comments: 22",
      "source": "Hacker News",
      "zh": "English ↔ Claudish Translator"
     },
@@ -1829,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "NetBSD and my life (2005)",
      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
      "pubDate": "Sat, 22 Aug 2026 19:07:46 +0000",
-     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 80 # Comments: 20",
+     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 82 # Comments: 21",
      "source": "Hacker News",
      "zh": "NetBSD and my life (2005)"
     },
@@ -1837,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
      "pubDate": "Sat, 22 Aug 2026 19:04:41 +0000",
-     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 147 # Comments: 54",
+     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 149 # Comments: 56",
      "source": "Hacker News",
      "zh": "hdiutil is deprecated in macOS 27 Golden Gate"
     },
@@ -1869,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Why your local LLM feels dumber than it is",
      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
      "pubDate": "Sat, 22 Aug 2026 18:14:16 +0000",
-     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 127 # Comments: 36",
+     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 139 # Comments: 37",
      "source": "Hacker News",
      "zh": "Why your local LLM feels dumber than it is"
     },
@@ -1896,22 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg : A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses &nbsp; &mdash;&nbsp; A spate of compelling releases at budget prices have made China the frontrunner in the race for global adoption.",
      "source": "Techmeme",
      "zh": "A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses (Bloomberg)"
-    },
-    {
-     "title": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡",
-     "link": "https://www.ithome.com/0/993/119.htm",
-     "pubDate": "Sat, 22 Aug 2026 16:15:27 GMT",
-     "summary": "IT之家 8 月 23 日消息，当地时间 8 月 21 日，印度马哈拉施特拉邦钱德拉普尔地区发生一起悲剧事件。 据当地警方通报，一名青年男子因购买手机的问题与父母发生争执，然后前往当地的 Khavdya Dongar 山，并站在悬崖边试图轻生，以此威胁父母。 家人、村民、警方和消防人员持续劝阻约 3 小时未果，最终男子还是坠崖，父亲在试图施救时一同坠下，母亲随后也从悬崖跳下，三人均不幸身亡。 警方确认，死者包括 Kunal Chandwade、其父亲 Murlidhar 和母亲 Sangita。IT之家注意到，不同媒体对 Kunal 年龄的报道存在差异，PTI 及部分当地媒体称为 19 岁，而",
-     "source": "IT之家",
-     "zh": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡"
-    },
-    {
-     "title": "今天处暑：离离暑云散，袅袅凉风起",
-     "link": "https://www.ithome.com/0/993/118.htm",
-     "pubDate": "Sat, 22 Aug 2026 16:00:13 GMT",
-     "summary": "IT之家 8 月 23 日消息今天是二十四节气中的处暑，随着九月即将到来，大家是否开始感受到丝丝凉风了呢？所谓处暑，即为“出暑”，是炎热离开的意思。这是农历二十四节气之中的第 14 个节气，交节时间点在公历 8 月 23 日前后，太阳到达黄经 150°。 ① 今日 22 时 54 分，处暑至。处暑意味着炎炎夏日即将结束，三伏已近尾声，天气逐渐转凉。 ②此时节昼夜温差大，北方降温明显，南方仍需小心“秋老虎”。③“露蝉声渐咽，秋日景初微。”北方已有清秋之韵，是迎秋赏景好时节。④天气由热转凉，应调整起居，充足睡眠，适应“秋乏”。秋天要来了，你准备好了吗？ 天文专家称，处暑当天，太阳直射点已经由“夏至",
-     "source": "IT之家",
-     "zh": "今天处暑：离离暑云散，袅袅凉风起"
     },
     {
      "title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
@@ -2242,52 +2242,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "40万亿债务压顶！美债风暴席卷全球 人民币资产能否成为避风港？读懂这背后三大逻辑！",
+     "link": "http://finance.eastmoney.com/news/1346,202608233850237516.html",
+     "pubDate": "Sun, 23 Aug 2026 07:36:44 +0800",
+     "summary": "尽管美国财政部本周三突然宣布加大长期国债的回购规模，试图以“借短还长”的方式压低长期国债收益率，但效果仅持续了一天，美国30年期国债收益率再度上行至5.249%，逼近前期新高。 美国国债曾被国际资本视为安全级别最高的投资品，各国主权基金争相配置，30年期国债收益率在2020年3月曾到过0.7%。美国长期国债收益率走高被视为对该国财政状况的预警，而 黄金 与美国长债收益率同步走高，更显示美元遭遇了信任危机侵蚀。 美债拉响警报，美国长期国债收益率居高不下，意味着更昂贵的资金成本。站在全球的角度看，地缘冲突、逆全球化等趋势外加更昂贵的资金成本，意味着全球进入高成本生产时代，在此压力之下，哪个经济体拥",
+     "source": "东方财富股票",
+     "zh": "40万亿债务压顶！美债风暴席卷全球 人民币资产能否成为避风港？读懂这背后三大逻辑！"
+    },
+    {
+     "title": "百家机构扎堆调研股曝光 2股市盈率低至个位数",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850237361.html",
+     "pubDate": "Sun, 23 Aug 2026 07:33:03 +0800",
+     "summary": "近一周（8月15日至21日）共有180多只个股获得机构调研， 华测检测 获调研机构数量居首。 华测检测 获得167家机构调研，包含20家基金公司、38家证券公司、59家私募、4家保险公司等。 2026年上半年公司实现营收34.29亿元，同比增长15.86%；实现归母净利润5.64亿元，同比增长20.63%；经营活动现金流净额4.38亿元，同比大幅增长150.34%；净利率达16.44%，同比提升0.65个百分点，盈利质量持续优化。 华测检测 在调研活动中表示，2026年为公司“鲲跃之年”。上半年，公司坚守战略定力，紧扣“搏风击水、拓界逐光”年度发展主题，扎实落地“123战略”。一方面持续深化技",
+     "source": "东方财富股票",
+     "zh": "百家机构扎堆调研股曝光 2股市盈率低至个位数"
+    },
+    {
+     "title": "人民日报评“甲醛白菜”：性质恶劣 荒唐至极",
+     "link": "http://finance.eastmoney.com/news/1345,202608233850237451.html",
+     "pubDate": "Sun, 23 Aug 2026 07:32:21 +0800",
+     "summary": "22日，有自媒体博主发布视频，曝光河北张家口康保县部分大白菜装车前蘸取甲醛溶液保鲜。视频引发公众对 食品安全 的担忧。当地相关部门迅速介入调查。当天下午，康保县发布通报，确认视频反映情况属实，已对相关人员、车辆采取强制措施，同时紧急追溯涉事白菜流向。 为了卖相好看、减少运输损耗，收购商铤而走险使用甲醛“保鲜”，性质恶劣，荒唐至极。 食品安全 法和 农产品 质量安全法等法律明确规定， 农产品 在包装、保鲜、贮存、运输中使用保鲜剂、防腐剂等应当符合 食品安全 国家标准。甲醛作为1类致癌物，被严禁添加使用。收购商只算计眼前经济效益，全然无视消费者生命健康，触碰法律红线，突破道德底线，还损坏了当地 农",
+     "source": "东方财富股票",
+     "zh": "人民日报评“甲醛白菜”：性质恶劣 荒唐至极"
+    },
+    {
+     "title": "北京未来三天有分散雷雨 最高温可达32至33℃",
+     "link": "http://finance.eastmoney.com/news/11790,202608233850237193.html",
+     "pubDate": "Sun, 23 Aug 2026 07:28:35 +0800",
+     "summary": "未来三天（8月23日至25日），北京有分散性雷阵雨出没，需注意防雷、避雨，同时气温较高，体感闷热，请做好防暑降温措施。 昨天，北京大部出现雷雨天气，监测显示，22日05时至20时，全市平均降水量7.7毫米，最大雨量为昌平区百合的127.5毫米，南郊观象台最高气温为30.7℃。 今天进入处暑节气，但北京气温仍然较高，并有雷雨出没。北京市气象台今晨6时发布天气预报，预计，今天白天多云转阴，有分散性雷阵雨，北转南风二三级，最高气温32℃；夜间阴有雷阵雨转多云，南转北风一二级，最低气温24℃。 明后天，北京雷雨频扰，气温起伏不大。预计，明天白天多云，山区有分散性雷阵雨，最高气温33℃；夜间多云转晴，山",
+     "source": "东方财富股票",
+     "zh": "北京未来三天有分散雷雨 最高温可达32至33℃"
+    },
+    {
+     "title": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
+     "link": "https://finance.yahoo.com/energy/articles/ge-vernovas-backlog-bigger-countries-232500776.html",
+     "pubDate": "2026-08-22T23:25:00Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion."
+    },
+    {
+     "title": "匈牙利保克什核电站3号机组恢复发电",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850237096.html",
+     "pubDate": "Sun, 23 Aug 2026 07:19:05 +0800",
+     "summary": "匈牙利总理毛焦尔·彼得22日宣布，得益于紧急工程施工作业及多瑙河水位回升，该国唯一的核电站——保克什核电站3号机组已于当天恢复发电。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "匈牙利保克什核电站3号机组恢复发电"
+    },
+    {
      "title": "【早报】外资加速涌入中国高技术产业；美对部分加拿大商品加征50%关税",
      "link": "http://finance.eastmoney.com/news/1350,202608233850236981.html",
      "pubDate": "Sun, 23 Aug 2026 07:14:48 +0800",
      "summary": "宏观新闻 1、中国商务部最新数据显示，今年1至7月，中国高技术产业吸引外资继续保持较快增长，占全国实际使用外资的比重较去年明显提升，引资结构进一步优化。今年1至7月，全国实际使用外资金额4383.3亿元人民币，新设立外商投资企业超3.7万家，同比增长4.4%。 2、7月以来，A股市场呈现震荡调整态势。在市场分歧加大、投资者情绪趋于谨慎的背景下，大规模增量资金正通过股票型ETF（交易型开放式指数基金）入场布局。截至8月21日，7月以来，股票型ETF资金净流入已达3676.05亿元。 行业新闻 1、22日从 工商银行 、 农业银行 、 中国银行 、 建设银行 、 交通银行 、 邮储银行 等六大 银",
      "source": "东方财富股票",
      "zh": "【早报】外资加速涌入中国高技术产业；美对部分加拿大商品加征50%关税"
-    },
-    {
-     "title": "香港特区政府在皇岗口岸举行压力测试",
-     "link": "http://finance.eastmoney.com/news/1350,202608233850236811.html",
-     "pubDate": "Sun, 23 Aug 2026 07:05:35 +0800",
-     "summary": "8月22日，香港特区政府在皇岗口岸港方口岸区举行大规模人流车流压力测试，首次与深圳相关单位合作开展联合演练。 演练首次对旅客通关“合作查验”自助通道进行实际测试。全面检验自助通道及相关系统的运行适配与人流管理能力。 测试还设置“人潮集中放量”环节，模拟假日高峰时段大批入境旅客同时涌入公共运输交汇处的情景，严格考验现场人流管理、防回堵机制及交通配套协调能力。与此同时，演练在“联合一站式”车道楼层进行近千次车流压力测试。（央视新闻） （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "香港特区政府在皇岗口岸举行压力测试"
-    },
-    {
-     "title": "加拿大宣布对美等额反制关税将于9月8日生效",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850236755.html",
-     "pubDate": "Sun, 23 Aug 2026 07:03:14 +0800",
-     "summary": "新华社渥太华8月22日电（记者林威）加拿大总理卡尼22日发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。 卡尼表示，反制关税将涵盖乳制品、 钢铁 、家电、纸浆与 造纸 以及 电子 产品等多个领域。 在谈及谈判为何在最后时刻中断时，卡尼说，虽然本周早些时候双方曾接近达成互利共赢的协议，但美方在最后一刻提出了不经济、不公平且极大损害加拿大利益的新条款，试图限制加拿大与其他国家达成新的贸易协议的能力以及加拿大对其语言、文化和主权的保护，而且所提出的 汽车 产业条款极不公平。 卡尼",
-     "source": "东方财富股票",
-     "zh": "加拿大宣布对美等额反制关税将于9月8日生效"
-    },
-    {
-     "title": "中央气象台发布第18号、19号、20号台风最新路径预报",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850236490.html",
-     "pubDate": "Sun, 23 Aug 2026 07:01:16 +0800",
-     "summary": "据中央气象台周日6时预报，今年第19号台风“紫檀”（热带风暴级）的中心今天（23日）早晨5点钟位于广西北海市西偏南方向大约165公里的北部湾海面上，就是北纬20.7度、东经107.8度，中心附近最大风力有8级（18米/秒），中心最低气压为992百帕，七级风圈半径100-150公里。 预计，“紫檀”将先在北部湾海面回旋少动，23日傍晚起，将以每小时5-10公里的速度向东北转偏北方向移动，强度逐渐加强，最强可达强热带风暴级（10-11级，25-30米/秒），并逐渐向广西沿海至广东雷州半岛西侧一带沿海靠近。另外，今年第20号台风“简拉维”（热带风暴级）的中心今天（23日）早晨5点钟位于台湾省台北市东",
-     "source": "东方财富股票",
-     "zh": "中央气象台发布第18号、19号、20号台风最新路径预报"
-    },
-    {
-     "title": "霍尔果斯压气首站累计输气突破6000亿立方米",
-     "link": "http://finance.eastmoney.com/news/1348,202608233850236215.html",
-     "pubDate": "Sun, 23 Aug 2026 06:56:15 +0800",
-     "summary": "8月22日，记者从国家管网集团获悉，西气东输二线三线首站——霍尔果斯压气首站累计输送 天然气 突破6000亿立方米，为国内 天然气 市场稳定供应、能源结构低碳转型提供了保障。 霍尔果斯压气首站位于“ 一带一路 ”重要枢纽节点，负责将中亚跨国 天然气 和伊犁煤制气输送至我国中东部地区，年输气能力达600亿立方米，单站装机容量居亚洲首位。自2009年投产以来，累计安全平稳运行超6000天，单日最高输气量可达1.63亿立方米。（央视新闻） （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "霍尔果斯压气首站累计输气突破6000亿立方米"
-    },
-    {
-     "title": "环球下周看点：贝森特、黄仁勋、沃什轮番登场",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850233318.html",
-     "pubDate": "Sun, 23 Aug 2026 06:56:07 +0800",
-     "summary": "对于海外市场而言，下周亮相的事件和经济数据数量并不多，但每一个都颇具看点。 首先亮相的是美国财长贝森特，继本周“救美债”吸引市场目光后， 他将于当地时间周一盘中（北京时间周二凌晨）举行新闻发布会，披露美国对伊朗“经济战”的细节 。市场尚不理解美国如何在军事打击都未能奏效的情况下，通过加码存续近半个世纪的经济制裁逼迫伊朗妥协。 伊朗最高国家安全委员会秘书雷扎伊周六公开表示， 任何参与对伊朗实施经济限制的国家，都被伊朗视为敌人 。同时，美国在霍尔木兹海峡南部航道的任何行动都将成为伊朗的打击目标，且伊方将打击美国与该地区任何反伊朗势力举行的会晤。 受中东局势僵持影响，国际油价本周持续上行，创出7月底",
-     "source": "东方财富股票",
-     "zh": "环球下周看点：贝森特、黄仁勋、沃什轮番登场"
     },
     {
      "title": "SA Asks: What are the most promising oncology companies right now?",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "资料图 南方财经 21世纪经济报道记者 郑青亭 北京报道 美国国债市场近期持续承压之际，桥水基金创始人瑞·达利欧（Ray Dalio）再次发出警告：美国政府财政状况正在进入一个关键“转折点”（inflection point），如果不能及时改变当前的债务增长路径，美国债务危机可能在未来几年内加速显现。 8月21日，达利欧在个人网站发表题为《国家如何走向破产：当下变局背后的内在逻辑》（How Countries Go Br...",
      "source": "经济观察网",
      "zh": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”"
-    },
-    {
-     "title": "瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶",
-     "link": "https://wallstreetcn.com/articles/3780065",
-     "pubDate": "Sat, 22 Aug 2026 20:55:29 +0800",
-     "summary": "美伊紧张局势仍在持续，但市场关注点正逐步从军事风险转向经济制裁，以及其对全球原油供应格局的影响。 据新华社，美国财政部长贝森特20日表示，特朗普政府将加大对伊朗经济施压，并威胁对伊朗实施“前所未有的经济孤立”措施。他称，特朗普政府重创伊朗经济的计划可能使美国无需再对伊朗发动大规模军事行动。随着制裁力度可能升级，其对伊朗原油出口的影响正成为市场关注的新变量。 与此同时，霍尔木兹海峡的可见油轮流量仍明显低于冲突前水平，但“暗流”运输正在部分填补缺口。瑞银调研数据显示， 过去一周霍尔木兹海峡整体石油流量仍略高于600万桶/日，其中暗光运输规模升至约500万至600万桶/日，显示实际原油过境量受到的冲",
-     "source": "华尔街见闻",
-     "zh": "瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶"
     }
    ]
   },

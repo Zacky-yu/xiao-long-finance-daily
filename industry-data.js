@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/22 14:39:43",
+ "generated_at": "2026/8/22 15:31:44",
  "recent_days": 7,
  "industries": [
   {
@@ -1746,28 +1746,76 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "雷军手握红色神秘新机：预估为小米阔折叠手机，首发搭载玄戒 O3",
-     "link": "https://www.ithome.com/0/992/998.htm",
-     "pubDate": "Sat, 22 Aug 2026 06:38:58 GMT",
-     "summary": "IT之家 8 月 22 日消息，抖音账号 @奔跑的新能源砖家 | 特来电昨日发布图片，分享了一张小米创办人，董事长兼 CEO 雷军的合照，其手中握持的手机预估是小米尚未发布的阔折叠手机。 从曝光的合照来看，雷军手中握持一个红色配色的折叠手机。 IT之家此前报道， 小米澎湃 OS 4 Beta 官方亮点文章海报中赫然出现一款阔折叠手机 ，该机正面采用了大 R 角设计，摄像头位于手机右上角，有望为小米首款阔折叠 MIX Fold 5。 @数码闲聊站 今天（8 月 22 日）发布微博，称“独家信息，透明版设计回归✓”，预估关联小米折叠手机。 延伸阅读 所谓“阔折叠”，是指采用更宽屏幕比例的折叠屏手机",
+     "title": "宁德时代面向中小集成商上线官方商城小程序，未来计划开展直播销售",
+     "link": "https://www.ithome.com/0/993/014.htm",
+     "pubDate": "Sat, 22 Aug 2026 07:25:48 GMT",
+     "summary": "IT之家 8 月 22 日消息，“宁德时代商城”小程序现已正式上线，该商城号称是“专为中小集成商打造的官方储能产品直销平台”，目前企业注册客户已突破 1800 家。 IT之家获悉，目前宁德时代商城已上架三类储能产品。电芯方面，在售 280Ah（1P）、314Ah 两款主流磷酸铁锂储能电芯，587Ah 电芯、储能电箱（280Ah 及 314Ah-长款）和储能集装箱（EnerD 及 EnerD+）已同步上架展示，正式开售时间待定，电芯最低 3 箱起订。 据悉，平台常备现货库存，付款后在 3-5 天发货。小批量采购同样可享大客户级别的 5 年质保服务，同时享有首单立减 2% 的优惠。目前，飞毛腿、快",
      "source": "IT之家",
-     "zh": "雷军手握红色神秘新机：预估为小米阔折叠手机，首发搭载玄戒 O3"
+     "zh": "宁德时代面向中小集成商上线官方商城小程序，未来计划开展直播销售"
     },
     {
-     "title": "vivo V70 Lite 4G 手机规格曝光：展锐 T7300 处理器、配 8GB RAM",
-     "link": "https://www.ithome.com/0/992/997.htm",
-     "pubDate": "Sat, 22 Aug 2026 06:37:49 GMT",
-     "summary": "IT之家 8 月 22 日消息，外媒 GSMArena 现已曝光 vivo 旗下 V70 Lite 4G 手机，该机采用展锐 T7300 处理器，将于近期上市。 该机提供蓝白双色可选，获得 IP69 认证，正面配备一块 6.83 英寸 1260x2800 分辨率 120Hz AMOLED 面板，匹配 32Mp 自拍摄像头；手机背面采用 50Mp 主摄和 2Mp 景深摄像头。 该机搭载紫光展锐 T7300 芯片，配备 8GB LPDDR4X RAM 以及 128GB / 256GB UFS 2.2 存储空间，搭载 8100mAh 电池，支持 44W 有线充电，运行基于 Android 16 的 ",
+     "title": "GPD 解释 Win Max 3 掌机为何卖 1750 美元：我们没有大品牌的议价能力，这个价已经是最大诚意",
+     "link": "https://www.ithome.com/0/993/013.htm",
+     "pubDate": "Sat, 22 Aug 2026 07:24:26 GMT",
+     "summary": "IT之家 8 月 22 日消息，GPD Win Max 3 掌机最初亮相于今年 6 月，搭载 AMD Strix Halo 平台，拥有 165Hz AMOLED 屏幕和可光环电池。如今该公司已公布 Win Max 3 的众筹上线日期，同时也揭晓了该机的定价。 据悉，Win Max 3 上市时将提供三个配置。入门版搭载锐龙 AI Max+ 388 处理器、32GB 内存和 1TB 硬盘，定价 1,750 美元 （IT之家注：现汇率约合 11,791 元人民币） ；升级至 64GB 内存、2TB 硬盘后则是 2,246 美元 （现汇率约合 15,133 元人民币） 。 顶配版则搭载完整规格的 AM",
      "source": "IT之家",
-     "zh": "vivo V70 Lite 4G 手机规格曝光：展锐 T7300 处理器、配 8GB RAM"
+     "zh": "GPD 解释 Win Max 3 掌机为何卖 1750 美元：我们没有大品牌的议价能力，这个价已经是最大诚意"
     },
     {
-     "title": "广汽昊铂埃安官方二手车上线，车源限定 4 年、10 万公里以内",
-     "link": "https://www.ithome.com/0/992/991.htm",
-     "pubDate": "Sat, 22 Aug 2026 06:31:27 GMT",
-     "summary": "IT之家 8 月 22 日消息，广汽昊铂埃安宣布上线官方二手车品牌“悦享二手车”，覆盖二手车检测、交易、金融和售后。 昊铂埃安称，其用户规模已达 200 万，早期车主正进入换车周期。 悦享二手车将车源限定为车龄 4 年以内、行驶里程不超 10 万公里的非事故、非水泡车辆 ；每车通过涵盖外观、内饰、底盘及三电系统的 128 项检测，并对外观、底盘、内饰等进行 22 项原厂翻新修复。 IT之家获悉，购车用户可延续原有质保及权益，享三电系统终身质保、1 年或 3 万公里官方延保和全国联保。目前，昊铂埃安悦享二手车认证店正于全国陆续落地。",
+     "title": "华为新款移动电源通过 3C 认证：20000mAh 级容量，支持双向 100W 快充",
+     "link": "https://www.ithome.com/0/993/012.htm",
+     "pubDate": "Sat, 22 Aug 2026 07:17:42 GMT",
+     "summary": "IT之家 8 月 22 日消息，昨日有一款型号为 P0024 的华为移动电源产品通过国家 CCC 质量认证，预计为华为全能充智能移动电源 20000 新品，额定能量 72.52Wh。 从参数规格来看，这款新品支持双向 100W 充电功率。输入方面，双口支持 1V 6A、20V 5A 档位；输出方面，双口支持 5V 4.5A、9V 3A、12V 3A、10V 4A、15V 3A、11V 6A 以及 20V 5A 档位，总输出功率最高可达 106W。 IT之家注意到，该产品的参数规格与华为此前发布的 100W 12000mAh 全能充移动电源（型号 P0023）基本一致。后者额定能量为 43.66",
      "source": "IT之家",
-     "zh": "广汽昊铂埃安官方二手车上线，车源限定 4 年、10 万公里以内"
+     "zh": "华为新款移动电源通过 3C 认证：20000mAh 级容量，支持双向 100W 快充"
+    },
+    {
+     "title": "青岛警方查获一起“兼职”诈骗案，群里 54 人 53 个是骗子",
+     "link": "https://www.ithome.com/0/993/011.htm",
+     "pubDate": "Sat, 22 Aug 2026 07:17:25 GMT",
+     "summary": "IT之家 8 月 22 日消息，据“法制日报”报道，近期青岛警方查获一起“兼职”诈骗案，不法分子建立“演员群”营造赚钱假象，以此吸引受害者。 IT之家参考报道获悉，受害者陆先生在某学习群结识了一位名叫“丽丽”的网友，对方主动为他推荐了一款公众号点赞兼职，并承诺完成任务后可领取红包奖励。陆先生抱着试试看的心态按要求操作后，果然收到了 8 元红包。 随后，两人互加微信好友。“丽丽”又向陆先生推荐了一款兼职 App，又将其拉入 App 内部的“专属任务群”，群聊内一共有 54 人，但实际上除了陆先生外，其他 53 个人都是托。 为彻底博取信任，诈骗团伙上演了全套“正规运营”戏码：工作人员每日准时群内",
+     "source": "IT之家",
+     "zh": "青岛警方查获一起“兼职”诈骗案，群里 54 人 53 个是骗子"
+    },
+    {
+     "title": "困在流量“系统”里",
+     "link": "https://www.huxiu.com/article/4885130.html?f=rss",
+     "pubDate": "Sat, 22 Aug 2026 15:16:50 +0800",
+     "summary": "本文来自微信公众号： 听潮TI ，编辑：张晓，作者：听潮TI团队 跳出流量围城，需要流量平权，更需要改变“流量为王”的思维。 8月初，某知名企业创始人再次炮轰电商平台，言辞锋利，将电商平台定性为“板上钉钉的特殊中间商”，还呼吁“必须限制平台的权力”。 最近与好几个做生意的老板聊，电商VS实体的话题都老掉牙了，线上线下无非就是渠道不同，反而面临的烦恼是相同的：越来越难找到目标客户在什么地方，获客成本节节飙升。 归根结底，最难的还是“流量”。 与早些年不同，今天的商业世界里，流量早已从“红利”，变成越来越多企业需要承担的经营成本。当几乎所有的生意都需要通过流量入口来寻找、留住消费者，流量本身也在变",
+     "source": "虎嗅",
+     "zh": "困在流量“系统”里"
+    },
+    {
+     "title": "苹果 iPhone 18 Pro / Max 手机壳曝光：更窄边框、深灰 / 深樱桃红颜色",
+     "link": "https://www.ithome.com/0/993/009.htm",
+     "pubDate": "Sat, 22 Aug 2026 07:13:56 GMT",
+     "summary": "IT之家 8 月 22 日消息，消息源 @saaaanjjjuuu 昨日（8 月 21 日）在 X 平台发布推文， 分享了一组适用于苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 的手机壳渲染图。 消息源称基于最新曝光的手机壳渲染图，机身正面采用更窄的边框，其中 iPhone 18 Pro 似乎采用了深灰色，而 iPhone 18 Pro Max 则采用了深樱桃红 / 红色。IT之家附上相关截图如下： 关于 iPhone 18 Pro Max，此前泄露的一份诊断日志显示，该设备可能搭载支持可变光圈的索尼 IMX905 主摄像头传感器。如果消息属实，这将是首款搭载可变光",
+     "source": "IT之家",
+     "zh": "苹果 iPhone 18 Pro / Max 手机壳曝光：更窄边框、深灰 / 深樱桃红颜色"
+    },
+    {
+     "title": "一纸28亿对赌，压垮老牌巨头",
+     "link": "https://www.huxiu.com/article/4885129.html?f=rss",
+     "pubDate": "Sat, 22 Aug 2026 15:08:49 +0800",
+     "summary": "本文来自微信公众号： 投中网 ，作者：陶辉东 一个时代的落幕。 上市34年的康佳，已经走到了退市的悬崖边上。压死康佳的最后一根稻草，很可能会是五年前的一纸对赌协议。 8月15日，康佳又公告披露了一起股权回购诉讼。喜粤新媒二号股权投资基金要求康佳集团履行股权回购义务，支付1.21亿元——这是易平方对赌失败后，第五家把康佳告上法庭的投资方。在此之前，海南辉龙投资索赔2亿元，盐城康慧、盐城东方和江苏黄海金控组成的联合体索赔4.24亿元，湖南玖玥和湖南玖诚各索赔671万元。五起诉讼合计，涉案金额已攀升至7.58亿元。 至此，康佳的债务危机已呈现出失控之势。由于2025年末的归母净资产为负且连续三年扣非",
+     "source": "虎嗅",
+     "zh": "一纸28亿对赌，压垮老牌巨头"
+    },
+    {
+     "title": "央视曝光不法分子设置高校“李鬼”新生群，假扮在校生 / 冒充辅导员骗取钱财",
+     "link": "https://www.ithome.com/0/993/007.htm",
+     "pubDate": "Sat, 22 Aug 2026 07:05:20 GMT",
+     "summary": "IT之家 8 月 22 日消息，进入八月下旬，各地高校陆续开展迎新工作。据央视新闻报道，近期有部分不法分子打着“官方新生群”“班级通知群”旗号，创建虚假微信群、QQ 群，在其中冒充“辅导员”发通知、“学长学姐”答疑解惑，以此骗取钱财。 据报道，不法分子通常先在 QQ、微信等平台搜索“某某大学 2026 新生”等关键词，找到真正的官方新生群后，以新生身份申请入群。混入群后，他们会在群里发布“新官方群已建立，请大家扫码转移”“辅导员要求统一加入新群”等消息，附上自己建的群的二维码或链接。不少新生对校园规则尚不熟悉，看到“官方”“辅导员”等字眼，就稀里糊涂扫码进了假群。 据悉， “李鬼”群的骗局中最",
+     "source": "IT之家",
+     "zh": "央视曝光不法分子设置高校“李鬼”新生群，假扮在校生 / 冒充辅导员骗取钱财"
+    },
+    {
+     "title": "怎样活得像一个数学家",
+     "link": "https://www.huxiu.com/article/4885128.html?f=rss",
+     "pubDate": "Sat, 22 Aug 2026 15:03:40 +0800",
+     "summary": "本文来自微信公众号： 字母PRO ，作者：贺任飞 刚开始写稿子那几年，我有个不大体面的习惯：喜欢把桌子弄乱。 桌上如果只有一台电脑和一只水杯，我总觉得自己像个会计。于是开工以前，得先摊开三四本书，把几张写了一半的稿纸压在键盘旁边，再留下一只喝空的咖啡杯。坐进这堆东西里，写作便不像一份工作，更像一种命运。 这个办法没有使文章变好。桌子倒一天比一天像作家的桌子，后来还招来了蟑螂。 那是我很晚才明白的一个道理：一个人不知道怎样成为某种人时，最先学会的往往是某种刻板印象。 这种办法很常见。医生的字最好潦草一点，厨师的腰围不宜太小，诗人最好经济状况欠佳，程序员要是穿得太讲究，也容易让人怀疑技术水平。我们",
+     "source": "虎嗅",
+     "zh": "怎样活得像一个数学家"
     },
     {
      "title": "With each successive era of AI, from early scaling, to reasoning, to agentic, open models have taken half as long to catch up to the first closed model (SemiAnalysis)",
@@ -1778,20 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "随着人工智能的每一个时代的到来，从早期的扩展，到推理，再到代理，开放模型花了一半的时间才能赶上第一个封闭模型（半分析）"
     },
     {
-     "title": "小米最高画质：小米首款 RGB-Mini LED 电视开启盲订",
-     "link": "https://www.ithome.com/0/992/988.htm",
-     "pubDate": "Sat, 22 Aug 2026 06:16:12 GMT",
-     "summary": "IT之家 8 月 22 日消息，小米电视 S Pro RGB-Mini LED 2027 至尊版于今天（8 月 22 日）开启盲订， 这是小米第一款采用 RGB-Mini LED 背光的电视。 用户在 2026 年 8 月 22 日的 10:00 到 9 月 1 日 23:59 期间，前往小米之家支付 100 元，可以预约小米电视 S Pro RGB-Mini LED 2027 至尊版，并赠送价值 1399 元小米电视音响 3.1 一台和价值 148 元小米影视 VIP 会员季卡一张，合计 1547 元大礼。 IT之家附上相关截图如下: 普通 Mini LED 是“白光 + 滤光片”，使用单色",
-     "source": "IT之家",
-     "zh": "小米最高画质：小米首款 RGB-Mini LED 电视开启盲订"
-    },
-    {
-     "title": "小米大家电总经理单联瑜调研“洗鞋机”：最希望它具备什么能力",
-     "link": "https://www.ithome.com/0/992/987.htm",
-     "pubDate": "Sat, 22 Aug 2026 06:11:52 GMT",
-     "summary": "IT之家 8 月 22 日消息，小米集团大家电部总经理单联瑜今日发文，称最近在研究一个呼声很高的产品：洗鞋机，并发起投票“ 如果有一台洗鞋机，你最希望它具备什么能力？ ”。 他写道：“想先听听大家真实的需求。现在大家平时都是怎么洗鞋的？自己刷、送去洗鞋店，还是直接扔洗衣机？如果真的做一台专门洗鞋的机器，你最希望它解决什么问题？” IT之家注意到，目前市面上的全自动洗鞋机 是在 波轮洗衣机 的概念上加以演化升级而来，其主要结构是在内桶的波轮上增加了洗鞋毛刷，在机器运转时通过毛刷与鞋的摩擦来达到洗鞋效果。而 喷淋式洗鞋机可以利用高压水流立体喷淋洗鞋，使水流渗透纤维内部，有效去除更深层次的污垢。 d",
-     "source": "IT之家",
-     "zh": "小米大家电总经理单联瑜调研“洗鞋机”：最希望它具备什么能力"
+     "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+     "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+     "pubDate": "Sat, 22 Aug 2026 06:16:57 +0000",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cvgvyy4x2mvo Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 24 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "随着贸易谈判破裂，加拿大将“以美元对美元”征收关税"
     },
     {
      "title": "Rundoo, a provider of AI-powered business operations software for independent supply stores, raised a $30M Series B led by Battery Ventures (Mike Wheatley/SiliconANGLE)",
@@ -1800,14 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mike Wheatley / SiliconANGLE : Rundoo, a provider of AI-powered business operations software for independent supply stores, raised a $30M Series B led by Battery Ventures &nbsp; &mdash;&nbsp; Rundoo Inc., the creator of an artificial intelligence-native system-of-record for independent supply stores",
      "source": "Techmeme",
      "zh": "Rundoo 是一家为独立供应商店提供人工智能驱动的业务运营软件的提供商，筹集了由 Battery Ventures（Mike Wheatley/SiliconANGLE）领投的 3000 万美元 B 轮融资"
-    },
-    {
-     "title": "乘联分会崔东树：2026 年 1~7 月我国汽车出口 1108 亿美元，同比增 55%",
-     "link": "https://www.ithome.com/0/992/986.htm",
-     "pubDate": "Sat, 22 Aug 2026 05:58:03 GMT",
-     "summary": "IT之家 8 月 22 日消息，乘联分会秘书长崔东树今天（8 月 22 日）发布博文，表示基于海关总署数据，2026 年 1~7 月中国商品贸易出口额为 25,237 亿美元 （IT之家注：现汇率约合 17 万亿元人民币） ，同比增长 18%。 崔东树指出 2026 年 7 月我国汽车出口 190 亿美元 （现汇率约合 1,280.19 亿元人民币） ，同比增长 60%； 2026 年 1~7 月汽车出口达到 1,108 亿美元 （现汇率约合 7,465.54 亿元人民币） ，同比增长 55%。 图源：乘联分会秘书长崔东树 汽车出口近几年从出口方面表现极其优秀，从 2021 年的 345 亿美",
-     "source": "IT之家",
-     "zh": "乘联分会崔东树：2026 年 1~7 月我国汽车出口 1108 亿美元，同比增 55%"
     },
     {
      "title": "OpenAI President Greg Brockman&apos;s role has expanded significantly, giving him control over its product and scaling teams following a wave of executive departures (Hayden Field/The Verge)",
@@ -1834,14 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "在纽约和伦敦放弃 IPO 尝试后，Shein 在香港上市时正苦苦挣扎，其估值仅为 100B 美元峰值的一小部分（Sui-Lee Wee/纽约时报）"
     },
     {
-     "title": "GPT 5.6 Sol 20% price reduction",
-     "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-     "pubDate": "Sat, 22 Aug 2026 04:33:06 +0000",
-     "summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 26 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "GPT 5.6 Sol 降价 20%"
-    },
-    {
      "title": "半年净利暴增700倍，江波龙红利期会持续多久？",
      "link": "https://www.huxiu.com/article/4885110.html?f=rss",
      "pubDate": "Sat, 22 Aug 2026 12:12:13 +0800",
@@ -1856,30 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 时代周报 ，编辑：卢泳志，作者：刘子琪，原文标题：《又见定存利率倒挂，上海一银行存3年跟1年一个样！河南有银行存5年不如存3年》 在银行存款，存一年等于存三年？ 据上海松江富明村镇银行公众号，根据LPR定价利率和资金市场利率变化，结合存款产品结构，自8月21日起，该行调整人民币存款利率。 调整后，该行在售的一年期、两年期、三年期整存整取的产品年利率同为1.65%，且起档金额均为50元。 △图源：上海松江富明村镇银行公众号 这意味着，无论消费者选择哪一档存期，对应所获的利息均一致。上海松江富明村镇银行工作人员向时代周报记者表示，现在整存整取一年期、二年期会获取积分，累积后可",
      "source": "虎嗅",
      "zh": "又见定存利率倒挂，上海一银行存3年跟1年一个样，河南有银行存5年不如存3年"
-    },
-    {
-     "title": "越会用AI 的人，学习能力退化得越快",
-     "link": "https://www.huxiu.com/article/4885107.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 12:09:04 +0800",
-     "summary": "本文来自微信公众号： 极客公园 ，作者：张勇毅，编辑：靖宇，原文标题：《越会用 AI 的人，学习能力退化得越快》 这应该是过去三年被讨论最多的一个迷思之一，从ChatGPT走红那天就有。吵了三年多，两边都拿不出像样的证据： 担心的人只有体感，不担心的人只有立场。 8月18日，《经济学人》给这场争论补上了迄今最硬的一份证据。 报道的主角是2.7万名中国中学生。用上AI之后，他们的作业分数平均涨了18%，写一份作业的时间从64分钟缩到45分钟。到这里全是好消息，直到月考卷子发下来：闭卷考试里，这批学生的成绩比不用AI的同学低了20%。 作业分曾是最可靠的「晴雨表」：作业越好，考试越好。而在用AI的",
-     "source": "虎嗅",
-     "zh": "越会用AI 的人，学习能力退化得越快"
-    },
-    {
-     "title": "100万像素的摄像头，为什么是苹果AI 最重要的零件？",
-     "link": "https://www.huxiu.com/article/4885106.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 12:08:39 +0800",
-     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，原文标题：《100 万像素的摄像头，为什么是苹果 AI 最重要的零件？｜硬哲学》 前几天，MacRumors直接从macOS Tahoe 26.7 RC里挖出了苹果制作好的宣传视频：戴着AirPods拿起一本书，Visual Intelligence看见书名，再让Siri把它保存下来。 视频里的产品代号是B790。按照Mark Gurman的说法，它原本就在苹果2026年的产品路线图上，后续量产版本B798，则要等到2027年。 而最新挖出的系统代码，也第一次让我们看清了这副耳机究竟怎么「看」。其中最有意思的，是一个看起来有些寒酸的参数： ",
-     "source": "虎嗅",
-     "zh": "100万像素的摄像头，为什么是苹果AI 最重要的零件？"
-    },
-    {
-     "title": "日本新增5项对华出口管制，中国产业界这次不怕了",
-     "link": "https://www.huxiu.com/article/4885105.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 12:06:57 +0800",
-     "summary": "本文来自微信公众号： 科工力量 ，作者：科工力量 如果说以前日本是在“守国门”，禁止产品出口；那么现在，日本正在持续“封大脑”，严控制造能力的输出。 8月16日，日本一项低调却影响很大的技术管理制度继续扩容。这一次，进入管制名单的不是大家说的高端机床以及相关技术，而是阻焊剂、GaN基板、永磁体、钙钛矿电池、闪烁体等5类看似基础的技术。 图自日本经济省官方网站 日本官方认为这些技术一旦转移，管理的难度就会升高，存在被转用于军事领域的风险，因此需要在技术出口之前就进行干预。 值得一提的是，这套制度其实并不是今年才出现。早在2024年，日本就开始建立“技术管理强化的官民对话机制”，那些被日本官方重点",
-     "source": "虎嗅",
-     "zh": "日本新增5项对华出口管制，中国产业界这次不怕了"
     },
     {
      "title": "从数参数到算算力：唐杰谈 Scaling Law 的新标尺",
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "There's no reason for software to be slow anymore",
      "link": "https://danluu.com/perf-opt/",
      "pubDate": "Sat, 22 Aug 2026 01:06:17 +0000",
-     "summary": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 288 # Comments: 206",
+     "summary": "Article URL: https://danluu.com/perf-opt/ Comments URL: https://news.ycombinator.com/item?id=49395628 Points: 330 # Comments: 236",
      "source": "Hacker News",
      "zh": "软件没有理由再慢了"
     },
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
      "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
      "pubDate": "Sat, 22 Aug 2026 01:02:09 +0000",
-     "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 84 # Comments: 29",
+     "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985 Comments URL: https://news.ycombinator.com/item?id=49395605 Points: 99 # Comments: 32",
      "source": "Hacker News",
      "zh": "我们与摩托罗拉合作的最初重点是常规非折叠设备"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "HN: The Good Parts (2016)",
      "link": "https://danluu.com/hn-comments/",
      "pubDate": "Fri, 21 Aug 2026 23:53:03 +0000",
-     "summary": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 38 # Comments: 8",
+     "summary": "Article URL: https://danluu.com/hn-comments/ Comments URL: https://news.ycombinator.com/item?id=49395171 Points: 40 # Comments: 8",
      "source": "Hacker News",
      "zh": "HN：好的部分 (2016)"
     }
@@ -2242,28 +2242,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "2026南国书香节即将启幕，泰国馆、APEC主题馆亮点纷呈",
-     "link": "http://www.eeo.com.cn/2026/0822/1007564.shtml",
-     "pubDate": "Sat, 22 Aug 2026 14:26:15 +0800",
-     "summary": "南方财经 21世纪经济报道记者 郑全怡 广州报道 8月20日，2026南国书香节新闻发布会在广州举行。本届南国书香节将于8月27日至31日在中国进出口商品交易会展馆（广交会展馆）B区举办，年度主题为“书香岭南，学以致远”。 本届南国书香节设立多国别、多区域国际展馆，汇聚30多个国家和地区参展资源，邀请近20位海外作家、驻穗使节出席。2026年也是APEC“中国年”，在场馆布局方面，本届书香节将构建分层分类、特色凸...",
-     "source": "经济观察网",
-     "zh": "2026南国书香节即将启幕，泰国馆、APEC主题馆亮点纷呈"
+     "title": "1361亿元！ 2026绿色算力（人工智能）大会百亿级项目集中签约",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850166324.html",
+     "pubDate": "Sat, 22 Aug 2026 15:19:54 +0800",
+     "summary": "呼和浩特市签约8个项目、乌兰察布市签约5个项目，8月22日，在以“共筑算电协同之路共商词元经济新局共创人工 智能未来 ”为主题的2026绿色算力（ 人工智能 ）大会上，共13个项目“牵手”成功，总投资额1361亿元。火山引擎、中金数据、 协鑫能科 等一批产业链头部企业齐聚“中国云谷”呼和浩特，围绕装备制造、算力中心、词元工厂等领域集中签约，标志着全国一体化算力网络内蒙古枢纽节点建设迈出关键一步，成为未来内蒙古打造全球词元供给基地的发展基石。 协鑫能科 将落地算电协同一体化项目，中金数据、上海 市北高新 等企业围绕零碳算力中心建设投资上百亿元， 寒武纪 将建设芯片实验室……多个算力中心将集聚于此",
+     "source": "东方财富股票",
+     "zh": "1361亿元！ 2026绿色算力（人工智能）大会百亿级项目集中签约"
     },
     {
-     "title": "涉及近100万辆！美国通用汽车皮卡和SUV因发动机故障被调查",
-     "link": "http://www.eeo.com.cn/2026/0822/1007563.shtml",
-     "pubDate": "Sat, 22 Aug 2026 14:26:05 +0800",
-     "summary": "中新经纬8月22日电 据路透社报道，美国国家公路交通安全管理局周五表示，已对近100万辆通用汽车皮卡与运动型多用途汽车(SUV)进行升级和扩大调查范围，问题为发动机故障，该类故障曾在2025年触发过一次召回。 该机构称，现已启动工程分析调查，这一调查层级比正式审查更为严格，以确定公司的解决方案是否有效。工程分析是法定前置流程，完成该环节后，监管机构才有权要求企业扩大召回范围或实施追加维修。 报道称，...",
-     "source": "经济观察网",
-     "zh": "涉及近100万辆！美国通用汽车皮卡和SUV因发动机故障被调查"
+     "title": "澳大利亚首都加入枪支回购计划",
+     "link": "http://finance.eastmoney.com/news/1351,202608223850166241.html",
+     "pubDate": "Sat, 22 Aug 2026 15:18:31 +0800",
+     "summary": "澳大利亚总理阿尔巴尼斯22日宣布，首都堪培拉所属的澳大利亚首都直辖区将加入枪支回购计划，以进一步落实去年悉尼邦迪滩枪击事件后政府收紧枪支管控的相关举措。 阿尔巴尼斯在声明中说，感谢首都直辖区同意加入回购计划，配合政府落实“将枪支清除出街头，更好保护澳大利亚人”的目标，避免再次发生类似邦迪滩恐袭的悲剧。在澳首都直辖区，超过7000名持枪许可持有人将受到新规影响，涉及枪支约2.3万支。回购计划的启动日期暂未公布。 悉尼邦迪滩去年12月发生枪击事件，造成包括一名作案嫌疑人在内的16人死亡。这是1996年塔斯马尼亚州亚瑟港枪击事件造成35人死亡以来，澳大利亚发生的最严重的大规模枪击事件。亚瑟港枪击事件",
+     "source": "东方财富股票",
+     "zh": "澳大利亚首都加入枪支回购计划"
     },
     {
-     "title": "群防群治·百日攻坚｜精准排查+科普宣传 重庆电力工人守护居民用电平安",
-     "link": "http://www.eeo.com.cn/2026/0822/1007547.shtml",
-     "pubDate": "Sat, 22 Aug 2026 14:13:13 +0800",
-     "summary": "第1眼TV‑华龙网讯（记者 吴礼霜）连日来，重庆市群防群治除险固安百日攻坚行动深入推进。针对老旧社区电动车保有量大、居民集中充电需求高、老年居民较多等特点，8月22日，国网重庆市区供电公司九龙供电中心联动民主村社区，开展用电安全专项排查整治行动，通过设备巡检、隐患排查、科普宣传等举措，全力织密社区用电安全防护网。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/6FB3D59077...",
-     "source": "经济观察网",
-     "zh": "群防群治·百日攻坚｜精准排查+科普宣传 重庆电力工人守护居民用电平安"
+     "title": "锂电负极面临成本挑战 硅基负极将成未来竞争的“胜负手”",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850166131.html",
+     "pubDate": "Sat, 22 Aug 2026 15:18:26 +0800",
+     "summary": "新华财经北京8月22日电（记者董道勇）近日， 锂 电负极材料龙头 璞泰来 、 尚太科技 、 杉杉股份 等公布2026年半年度报告及业绩预告显示，受益于下游储能 电池 爆发式增长、动力 电池 需求稳步扩容， 锂 离子 电池 负极材料行业需求持续增长。 不过，受制于全球原油价格及 航运 价格上涨等因素，针状焦、石油焦等原材料成本持续上行，负极材料行业盈利面临挑战，传统石墨负极材料渐成“红海”，未来硅基负极将成为企业竞争的“胜负手”。 负极行业面临成本涨价挑战 据高工 锂 电（GGII）统计，今年上半年国内负极材料出货量191万吨，同比增长48%，增速较去年同期进一步提升。根据鑫椤咨询数据，受益于储",
+     "source": "东方财富股票",
+     "zh": "锂电负极面临成本挑战 硅基负极将成未来竞争的“胜负手”"
+    },
+    {
+     "title": "顺鑫农业上半年白酒业务营收28亿元，同比下降22.33%，阿布达比投资局退出前十大流通股东",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850165520.html",
+     "pubDate": "Sat, 22 Aug 2026 15:12:40 +0800",
+     "summary": "8月21日晚间， 顺鑫农业 发布2026年半年度报告。数据显示，公司今年上半年实现营收38.04亿元，同比下降17.17%；净利润4035万元，同比大幅下滑76.66%。其中 白酒 产业实现营业收入28亿元，同比下降22.33%。 公司半年报也透露了机构持仓的变化，2026年上半年公募基金整体小幅减持，而2024年下半年进入前十大流通股东的中东资本——阿布达比投资局，在一季度大幅减持后，此次直接从前十大流通股东名单中消失。 二季度营收微增，亏损幅度收窄 公司2026年半年报数据显示，今年上半年实现营收38.04亿元，同比下滑17.17%；净利润4035万元，同比大幅下滑76.66%。 值得注意",
+     "source": "东方财富股票",
+     "zh": "顺鑫农业上半年白酒业务营收28亿元，同比下降22.33%，阿布达比投资局退出前十大流通股东"
+    },
+    {
+     "title": "世界海拔最高光热电站熔盐储罐通过充水试验",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850165041.html",
+     "pubDate": "Sat, 22 Aug 2026 15:12:06 +0800",
+     "summary": "据 中国电建 消息，近日，由 中国电建 承建的西藏开投安多光热项目熔盐储罐充水试验一次性圆满成功，标志着项目储热系统核心设备安装质量全面核验合格，这座世界海拔最高、西藏首个塔式光热工程向全容量并网发电目标又迈出了关键一步。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "世界海拔最高光热电站熔盐储罐通过充水试验"
+    },
+    {
+     "title": "特斯拉官宣！9月3日在奥斯汀举行Cybercab发布会",
+     "link": "https://wallstreetcn.com/articles/3780060",
+     "pubDate": "Sat, 22 Aug 2026 15:10:59 +0800",
+     "summary": "特斯拉正加速将专用无人驾驶车型Cybercab推向市场，这或将改变其Robotaxi的运营模式。 8月22日， 特斯拉在X平台宣布，将于当地时间9月3日在德克萨斯州奥斯汀举行Cybercab发布活动。 这款专为全无人驾驶设计的车型没有方向盘和刹车踏板，是特斯拉首款Robotaxi专用车型，有望加入奥斯汀车队，逐步改变目前以Model Y为主的运营模式。 据The Information此前报道，特斯拉计划分两步推进：先在公共道路上向员工提供Cybercab乘车服务，数天后再正式向公众开放。 上路前准备基本就绪 正式发布前，特斯拉已完成多项准备。自6月起，Cybercab已在包括奥斯汀在内的美国",
+     "source": "华尔街见闻",
+     "zh": "特斯拉官宣！9月3日在奥斯汀举行Cybercab发布会"
+    },
+    {
+     "title": "这家公司获300余家机构密集调研",
+     "link": "http://finance.eastmoney.com/news/1354,202608223850165816.html",
+     "pubDate": "Sat, 22 Aug 2026 15:07:23 +0800",
+     "summary": "Choice数据统计，截至周五，近两周已有216家上市公司获机构投资者调研。其中， 炬光科技 获300余家机构调研，九号公司、 鹏鼎控股 获200余家机构调研。 数据来源：Choice数据 机构调研个股排名 近两周，机构调研热情高涨，共26家公司接待调研机构家数超百家；其中，3家公司接待机构数超200家。获机构调研最多的是 炬光科技 ，调研机构家数320家，参与调研的机构包括51家券商、64家基金、54家资管和61家私募；九号公司获267家机构调研， 鹏鼎控股 获218家机构调研。此外， 精智达 、 华测检测 、 盛美上海 、 国际复材 、 盛弘股份 、 飞龙股份 、 紫光国微 等获100家以",
+     "source": "东方财富股票",
+     "zh": "这家公司获300余家机构密集调研"
     },
     {
      "title": "宁德时代盯上储能“小单”",
@@ -2272,30 +2304,6 @@ window.INDUSTRY_DATA = {
      "summary": "在大储市场已经领先的宁德时代，加速推进做中小集成商的生意。 8月21日，“宁德时代商城”微信小程序上线。平台面向储能集成商销售原厂产品，目前在售280Ah（1P）和314Ah两款磷酸铁锂储能电芯，最低3箱起订。 华尔街见闻了解到，目前该平台注册企业超过1800家，平台已经出现实际采购，小批量订单被纳入5年质保和官方售后，后续还准备销售电箱和储能集装箱。宁德时代正在扩大商城的产品和服务范围。 从半年报看，宁德时代并不缺大订单和生产任务。2026年上半年，公司电池系统产能利用率达到94.86%，储能电池系统收入532.61亿元，同比增长87.54%。同期，宁德时代还与海博思创签下为期3年、总规模6",
      "source": "华尔街见闻",
      "zh": "宁德时代盯上储能“小单”"
-    },
-    {
-     "title": "“十五五”时期，美丽重庆建设如何推进？来看规划→",
-     "link": "http://www.eeo.com.cn/2026/0822/1007522.shtml",
-     "pubDate": "Sat, 22 Aug 2026 13:52:12 +0800",
-     "summary": "第1眼TV-华龙网讯（首席记者 陈雨）日前，《重庆市“十五五”美丽重庆建设规划（2026—2030年）》发布，明确将全面落实精准科学依法治污方针，协同推进降碳、减污、扩绿、增长，以“九治”为牵引推进污染防治攻坚和生态系统优化，深化改革创新和数智赋能双轮驱动，推动经济社会发展全面绿色转型，提供更多优质生态产品以满足人民日益增长的美好生活需要，为奋力谱写中国式现代化重庆篇章提供有力支撑。 <img src=\"https://jg...",
-     "source": "经济观察网",
-     "zh": "“十五五”时期，美丽重庆建设如何推进？来看规划→"
-    },
-    {
-     "title": "欢迎来龙餐馆票房破14亿",
-     "link": "http://www.eeo.com.cn/2026/0822/1007521.shtml",
-     "pubDate": "Sat, 22 Aug 2026 13:52:05 +0800",
-     "summary": "【欢迎来龙餐馆票房破14亿】据猫眼专业版数据，电影《欢迎来龙餐馆》上映12天，总票房破14亿。（中新经纬APP）",
-     "source": "经济观察网",
-     "zh": "欢迎来龙餐馆票房破14亿"
-    },
-    {
-     "title": "《八仙！》票房破17亿",
-     "link": "http://www.eeo.com.cn/2026/0822/1007520.shtml",
-     "pubDate": "Sat, 22 Aug 2026 13:52:04 +0800",
-     "summary": "【《八仙！》票房破17亿】据猫眼专业版数据，电影《八仙！》上映36天，总票房破17亿。（中新经纬APP）",
-     "source": "经济观察网",
-     "zh": "《八仙！》票房破17亿"
     },
     {
      "title": "东财发布半年报：非货基金规模首破万亿，中期不分红",
@@ -2312,14 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.",
      "source": "CNBC",
      "zh": "六位投资者揭示了最大的市场风险——以及他们同意的一项策略"
-    },
-    {
-     "title": "Canada vows to match US tariffs as trade talks collapse",
-     "link": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
-     "pubDate": "Sat, 22 Aug 2026 04:51:58 GMT",
-     "summary": "Mark Carney rejects ‘unfair’ deal as top Washington envoy criticises ‘missed opportunity’",
-     "source": "Financial Times",
-     "zh": "随着贸易谈判破裂，加拿大誓言对美国征收关税"
     },
     {
      "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
@@ -2354,20 +2354,20 @@ window.INDUSTRY_DATA = {
      "zh": "特朗普的挑战：40万亿美元的债务、6.7%的抵押贷款和5美元的柴油"
     },
     {
-     "title": "Europe’s fatal beauty",
-     "link": "https://www.ft.com/content/ff65daca-59bb-48f2-a6d1-e177a6409459?syn-25a6b1a6=1",
-     "pubDate": "Sat, 22 Aug 2026 04:00:38 GMT",
-     "summary": "A less seductive continent would not attract so many enemies",
-     "source": "Financial Times",
-     "zh": "欧洲致命的美丽"
-    },
-    {
      "title": "Bossing the bond market around never works",
      "link": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1",
      "pubDate": "Sat, 22 Aug 2026 04:00:38 GMT",
      "summary": "Despite Scott Bessent’s efforts, investors worry something is up",
      "source": "Financial Times",
      "zh": "左右债券市场行不通"
+    },
+    {
+     "title": "Europe’s fatal beauty",
+     "link": "https://www.ft.com/content/ff65daca-59bb-48f2-a6d1-e177a6409459?syn-25a6b1a6=1",
+     "pubDate": "Sat, 22 Aug 2026 04:00:38 GMT",
+     "summary": "A less seductive continent would not attract so many enemies",
+     "source": "Financial Times",
+     "zh": "欧洲致命的美丽"
     },
     {
      "title": "Who counts in Trump’s America?",
@@ -2378,28 +2378,20 @@ window.INDUSTRY_DATA = {
      "zh": "在特朗普治下的美国，谁最重要？"
     },
     {
-     "title": "Germany becomes Europe’s largest regulated cannabis market",
-     "link": "https://www.ft.com/content/6541cb37-1bc7-4f52-a8ef-f503d13be4ce",
-     "pubDate": "Sat, 22 Aug 2026 04:00:09 GMT",
-     "summary": "Critics are calling for legislation to be tightened two years after the drug was partially liberalised",
-     "source": "Financial Times",
-     "zh": "德国成为欧洲最大的受监管大麻市场"
-    },
-    {
-     "title": "集中资源押注AI，苹果裁撤Siri与Vision Pro逾200个岗位",
-     "link": "https://wallstreetcn.com/articles/3780044",
-     "pubDate": "Sat, 22 Aug 2026 11:03:33 +0800",
-     "summary": "苹果公司正在对内部团队进行一轮结构性重组，裁减Siri、Vision Pro及相关AI软件团队逾200个职位，此举标志着这家科技巨头正加速告别此前的部分战略重心。 8月21日据彭博报道， 本次裁员涉及约100个Vision Pro相关职位及另外约100个Siri与软件工程团队岗位。 苹果方面确认了上述变动，表示正在\"调整业务方向，以为用户提供最佳体验\"，并补充称此次调整将在撤销部分现有职位的同时创建新岗位。 这一重组直接冲击了苹果在混合现实与语音助手两条产品线上的人员配置，折射出该公司当前在AI领域追赶竞争对手的迫切压力。 对于苹果投资者而言，此次调整意味着Vision Pro短期内难获实质性",
-     "source": "华尔街见闻",
-     "zh": "集中资源押注AI，苹果裁撤Siri与Vision Pro逾200个岗位"
-    },
-    {
      "title": "Iranian oil supply to Chinese buyers squeezed by U.S. blockade",
      "link": "https://seekingalpha.com/news/4636035-iranian-oil-supply-to-chinese-buyers-squeezed-by-us-blockade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 21 Aug 2026 19:56:42 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "伊朗对中国买家的石油供应因美国封锁而受到挤压"
+    },
+    {
+     "title": "全球市场：美股三大指数收高 道指涨近1% 稀土、加密货币概念股普涨",
+     "link": "http://stock.eastmoney.com/news/11784,202608223849871593.html",
+     "pubDate": "Sat, 22 Aug 2026 06:15:00 +0800",
+     "summary": "美股市场： 美股三大指数08月21日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨517.8点，收于53277.01点，涨幅为0.98%； 标准普尔 500种股票指数上涨33.21点，收于7674.37点，涨幅为0.43%； 纳斯达克 综合 指数上涨113.28点，收于26180.45点，涨幅为0.43%。本周，道指跌0.85%，纳指跌2.05%，标普500指数跌1.43%。 大型科技股多数上涨， 特斯拉 大涨5.14%，Cybercab最快8月在奥斯汀向公众推出，这将是首款没有方向盘和刹车踏板的Robotaxi专用车型，首批量产版已在奥斯汀展开工程测试；谷歌涨1.22%，谷歌与 ",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数收高 道指涨近1% 稀土、加密货币概念股普涨"
     },
     {
      "title": "Boeing engineers union rejects contract offer, setting stage for possible strike",
@@ -2480,6 +2472,14 @@ window.INDUSTRY_DATA = {
      "summary": "The automaker plans to soon launch its Cybercab in Austin, Texas, and got the nod to deploy thousands of vehicles in Nevada.",
      "source": "MarketWatch",
      "zh": "随着特斯拉获准在拉斯维加斯推出机器人出租车，该公司股价上涨"
+    },
+    {
+     "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
+     "link": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
+     "pubDate": "Fri, 21 Aug 2026 20:19:21 GMT",
+     "summary": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.",
+     "source": "CNBC",
+     "zh": "雷·达利奥 (Ray Dalio) 表示，贝森特的举动表明债务危机正在逼近；推荐黄金和比特币"
     }
    ]
   },

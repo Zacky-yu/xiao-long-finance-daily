@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/23 01:20:30",
+ "generated_at": "2026/8/23 01:46:56",
  "recent_days": 7,
  "industries": [
   {
@@ -270,7 +270,7 @@
      "pubDate": "Sat, 22 Aug 2026 01:08:56 GMT",
      "summary": "For all the extraordinary progress made by artificial intelligence, the physical world remains stubbornly difficult to automate.",
      "source": "DIGITIMES",
-     "zh": "台北自动化2026：如果人工智能发展得如此之快，为什么工厂车间仍然很难实现自动化？"
+     "zh": "台北自动化 2026：如果人工智能发展得如此之快，为什么工厂车间仍然很难实现自动化？"
     },
     {
      "title": "Supermicro's internal probe clears senior management in export-control case",
@@ -278,7 +278,7 @@
      "pubDate": "Sat, 22 Aug 2026 01:08:33 GMT",
      "summary": "Super Micro Computer (NASDAQ: SMCI) said Thursday that an internal investigation run by its independent directors found no evidence that any current senior manager knew of an alleged scheme to divert export-controlled products &mdash; the conduct at the center of a March federal indictment of two Su",
      "source": "DIGITIMES",
-     "zh": "美超微的内部调查证实了高级管理层在出口管制案件中的清白"
+     "zh": "美超微的内部调查证实高级管理层在出口管制案件中无罪"
     },
     {
      "title": "America's launch boom runs into a capacity problem as White House targets 1,000 annual space launches",
@@ -446,7 +446,7 @@
      "pubDate": "Thu, 20 Aug 2026 09:48:03 +0100",
      "summary": "Micross Components Inc of Melville, NY, USA (which provides high-reliability microelectronic products and services for aerospace, defense, space, medical, energy, communications and industrial applications) has entered into a definitive agreement to acquire AEMtec GmbH of Berlin, Germany (a portfoli",
      "source": "Semiconductor Today",
-     "zh": "Micross 收购 AEMtec，将触角扩展到欧洲"
+     "zh": "Micross 收购 AEMtec，将业务拓展至欧洲"
     },
     {
      "title": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers",
@@ -678,7 +678,7 @@
      "pubDate": "Fri, 21 Aug 2026 19:32:03 +0000",
      "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla killing the Solar Roof, Cybercab launch, Genesis GV90, and more. Today’s episode is sponsored by GM . GM EV charging made easy, with Energy Pass and P",
      "source": "Electrek",
-     "zh": "播客：特斯拉取消太阳能屋顶、Cyber​​cab 推出、Genesis GV90 等"
+     "zh": "播客：特斯拉取消了太阳能屋顶、Cyber​​cab 推出、Genesis GV90 等"
     },
     {
      "title": "Hyundai starts taking orders for $17,700 Ioniq V, but you can’t have it",
@@ -1006,7 +1006,7 @@
      "pubDate": "Fri, 21 Aug 2026 13:45:47 +0000",
      "summary": "ES Foundry's Alex Zhu outlines how the US cell maker is betting on PERC while navigating shifting regulations and supply-chain constraints.",
      "source": "PV Tech",
-     "zh": "ES Foundry 在美国光伏制造转向 n 型期间支持 PERC"
+     "zh": "ES Foundry 在美国光伏制造转向 n 型之际支持 PERC"
     },
     {
      "title": "United Solar’s goal to diversify polysilicon supply outside of China",
@@ -1014,7 +1014,7 @@
      "pubDate": "Fri, 21 Aug 2026 13:43:34 +0000",
      "summary": "PV Tech Premium speaks with United Solar about the challenges of building polysilicon capacity outside of China and catering to the US and Indian markets.",
      "source": "PV Tech",
-     "zh": "联合太阳能公司的目标是实现中国以外多晶硅供应的多元化"
+     "zh": "联合太阳能的目标是在中国以外实现多晶硅供应多元化"
     },
     {
      "title": "Austria announces energy storage offensive, shifting solar subsidy focus",
@@ -1060,7 +1060,7 @@
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
+     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
      "source": "Utility Dive",
      "zh": "PJM 着眼于启动剩余互连途径"
     },
@@ -1081,12 +1081,12 @@
      "zh": "大全新能源第二季度亏损收窄，恢复低于成本的销售"
     },
     {
-     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
-     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
-     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
-     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
-     "source": "Energy Storage News",
-     "zh": "新泽西州公用事业委员会发布150MW BTM储能提案"
+     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
+     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
+     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
+     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
+     "source": "Utility Dive",
+     "zh": "ERCOT 的目标是在 12 月之前完成德克萨斯州州长的数据中心审计"
     }
    ]
   },
@@ -1745,6 +1745,22 @@
    "total": 18,
    "items": [
     {
+     "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+     "link": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
+     "pubDate": "Sat, 22 Aug 2026 17:09:27 +0000",
+     "summary": "Article URL: https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl Comments URL: https://news.ycombinator.com/item?id=49401621 Points: 17 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "比利时汽车推销员在DNA测试证明王室血统后成为王子"
+    },
+    {
+     "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+     "link": "https://twitter.com/argofowl/status/2091150597374537729",
+     "pubDate": "Sat, 22 Aug 2026 16:58:49 +0000",
+     "summary": "Article URL: https://twitter.com/argofowl/status/2091150597374537729 Comments URL: https://news.ycombinator.com/item?id=49401549 Points: 19 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Anthropic 似乎正在减少 Claude 代码中的 A/B 测试工作量"
+    },
+    {
      "title": "Carrier Pidge hit 75K users and Roost 650K downloads, as slow messaging apps delivering texts at pigeon speeds attract users tired of constant notifications (Emmett Lindner/New York Times)",
      "link": "https://www.techmeme.com/260822/p9#a260822p9",
      "pubDate": "Sat, 22 Aug 2026 12:40:01 -0400",
@@ -1764,7 +1780,7 @@
      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
      "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
      "pubDate": "Sat, 22 Aug 2026 16:23:09 +0000",
-     "summary": "Article URL: https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html Comments URL: https://news.ycombinator.com/item?id=49401229 Points: 12 # Comments: 6",
+     "summary": "Article URL: https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html Comments URL: https://news.ycombinator.com/item?id=49401229 Points: 28 # Comments: 33",
      "source": "Hacker News",
      "zh": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素"
     },
@@ -1780,7 +1796,7 @@
      "title": "Learning about \"The Unix Time-Sharing System\"",
      "link": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
      "pubDate": "Sat, 22 Aug 2026 16:11:16 +0000",
-     "summary": "Article URL: https://playtechnique.io/long/the-unix-time-sharing-system.html Comments URL: https://news.ycombinator.com/item?id=49401122 Points: 3 # Comments: 1",
+     "summary": "Article URL: https://playtechnique.io/long/the-unix-time-sharing-system.html Comments URL: https://news.ycombinator.com/item?id=49401122 Points: 6 # Comments: 2",
      "source": "Hacker News",
      "zh": "了解“Unix分时系统”"
     },
@@ -1807,14 +1823,6 @@
      "summary": "IT之家 8 月 22 日消息，漫威影业总裁凯文 · 费奇在上周举行的迪士尼 D23 活动期间表示，漫威对新版《X 战警》的规划并不局限于一部三部曲。 在 D23 期间，漫威正式公布了《X 战警》重启系列电影的核心阵容，包括萨迪 · 辛克饰演琴 · 葛蕾、基特 · 康纳饰演镭射眼、克里斯托弗 · 阿波特饰演 X 教授、萨玛拉 · 维文饰演白皇后、玛雅 · 博伊德饰演暴风女。 凯文 · 费奇表示，团队特意组建了非常年轻的演员阵容，目的是为未来数十年的故事讲述奠定基础。漫威希望未来继续围绕这些角色推出更多故事。 “我们有着近 90 年的漫画，还有很多故事素材尚未被影视化。我们公布了一组非常年轻的新",
      "source": "IT之家",
      "zh": "凯文 · 费奇谈新版《X 战警》：演员们都很年轻，可以再拍 100 部电影，2028 年加入漫威电影宇宙"
-    },
-    {
-     "title": "Wildfires across Europe detonate forgotten World War bombs",
-     "link": "https://www.independent.co.uk/news/world/europe/europe-wildfires-world-war-bombs-b3037458.html",
-     "pubDate": "Sat, 22 Aug 2026 15:46:32 +0000",
-     "summary": "Article URL: https://www.independent.co.uk/news/world/europe/europe-wildfires-world-war-bombs-b3037458.html Comments URL: https://news.ycombinator.com/item?id=49400900 Points: 6 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "欧洲各地野火引爆被遗忘的二战炸弹"
     },
     {
      "title": "Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份",
@@ -1860,7 +1868,7 @@
      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
      "link": "https://quantumi.sh/public/labs.html",
      "pubDate": "Sat, 22 Aug 2026 14:54:07 +0000",
-     "summary": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 85 # Comments: 24",
+     "summary": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 99 # Comments: 36",
      "source": "Hacker News",
      "zh": "十一实验室、十二实验室、十三实验室"
     },
@@ -1876,7 +1884,7 @@
      "title": "A Friendly Introduction to Racket",
      "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
      "pubDate": "Sat, 22 Aug 2026 14:08:19 +0000",
-     "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 47 # Comments: 10",
+     "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 53 # Comments: 12",
      "source": "Hacker News",
      "zh": "球拍的友好介绍"
     },
@@ -1903,14 +1911,6 @@
      "summary": "特斯拉和另外 8 家汽车制造商 21 日宣布，将在中国召回总计约 430 万辆汽车，创下中国汽车召回规模纪录。此次召回的整改措施包括软件更新、加贴警示标签，以及改进门把手周围的标识等。大多数车企还将通过 OTA 远程升级软件。根据国家市场监督管理总局发布的公告，特斯拉将从 9 月 25 日起召回 298 万辆进口及中国制造的 Model 3、Model Y、Model S 和 Model X 汽车。特斯拉的召回规模最大，这也反映出该公司采用此类门把手设计的车型销量巨大。除特斯拉外，此次召回行动涉及车企包括中国一汽、北汽蓝谷、东风汽车、奇瑞、吉利、小鹏、零跑和小米。小米将召回约 39 万辆汽车，",
      "source": "Solidot",
      "zh": "因门把手安全隐患特斯拉在华召回近 300 万辆车"
-    },
-    {
-     "title": "The New MCP Roadmap",
-     "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-     "pubDate": "Sat, 22 Aug 2026 13:31:34 +0000",
-     "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 105 # Comments: 81",
-     "source": "Hacker News",
-     "zh": "新 MCP 路线图"
     },
     {
      "title": "使用胁迫密码删除手机数据的美国公民被控妨碍联邦执法的重罪",
@@ -1993,6 +1993,30 @@
    "total": 7,
    "items": [
     {
+     "title": "Pixel Camera 11 debuts refreshed quick access controls and a handy Launch mode",
+     "link": "https://www.androidauthority.com/pixel-camera-11-new-quick-access-dials-launch-mode-3701763/",
+     "pubDate": "Sat, 22 Aug 2026 17:35:11 +0000",
+     "summary": "The upgrade is easy to miss.",
+     "source": "Android Authority",
+     "zh": "Pixel Camera 11 首次推出更新的快速访问控件和方便的启动模式"
+    },
+    {
+     "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
+     "link": "https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/",
+     "pubDate": "Sat, 22 Aug 2026 17:32:09 +0000",
+     "summary": "When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarkably consistent window.",
+     "source": "9to5Mac",
+     "zh": "iPhone 18 Pro 活动日期：苹果过去六年宣布活动的时间"
+    },
+    {
+     "title": "Android Auto YouTube Limitations: Is It Worth Using In The Car?",
+     "link": "https://www.engadget.com/2240123/android-auto-youtube-limitations-is-it-worth-using-in-the-car/",
+     "pubDate": "Sat, 22 Aug 2026 17:30:00 +0000",
+     "summary": "Android Auto YouTube Limitations: Is It Worth Using In The Car?",
+     "source": "Engadget",
+     "zh": "Android Auto YouTube 限制：值得在车上使用吗？"
+    },
+    {
      "title": "Amazon devices are the latest casualties of the memory shortage price hikes",
      "link": "https://www.engadget.com/2242185/amazon-devices-kindle-echo-eero-price-hikes/",
      "pubDate": "Sat, 22 Aug 2026 16:50:20 +0000",
@@ -2057,14 +2081,6 @@
      "zh": "Apple @ Work：大多数 IT 领导者希望人工智能帮助管理他们的 Mac，但很少有人做好准备"
     },
     {
-     "title": "How to AirPlay from iPhone or MacBook to your TV",
-     "link": "https://www.engadget.com/2240112/how-to-airplay-from-iphone-macbook-to-tv/",
-     "pubDate": "Sat, 22 Aug 2026 13:00:00 +0000",
-     "summary": "If you want to display media from your phone on a TV screen, you'll need to follow these steps to use AirPlay or screen mirroring.",
-     "source": "Engadget",
-     "zh": "如何从 iPhone 或 MacBook 隔空播放到电视"
-    },
-    {
      "title": "Please don’t buy Google’s wildly overpriced Pixel 11 Clear Case",
      "link": "https://9to5google.com/2026/08/22/please-dont-buy-googles-wildly-overpriced-pixel-11-clear-case/",
      "pubDate": "Sat, 22 Aug 2026 13:00:00 +0000",
@@ -2078,7 +2094,7 @@
      "pubDate": "Sat, 22 Aug 2026 12:17:11 +0000",
      "summary": "Alongside the final AirPods Max 2 at $120 off and the return of all-time low pricing on AirTag 2. Those discounts join a big-time $500 price drop on M5 Pro MacBook Pro, the lowest prices around on MacBook Neo and M5 MacBook Air courtesy of the official Apple Certified Refurbished Store , Apple Watch",
      "source": "9to5Mac",
-     "zh": "周末 Apple 优惠：MacBook Pro、AirPods Pro 3、AirPods Max 2 立减 500 美元，AirTag 2 等立减 120 美元"
+     "zh": "周末 Apple 特惠：MacBook Pro、AirPods Pro 3、AirPods Max 2 立减 500 美元，AirTag 2 等立减 120 美元"
     },
     {
      "title": "Here's the Sony Xperia 10 VIII that's expected to launch next week",
@@ -2134,15 +2150,7 @@
      "pubDate": "Sat, 22 Aug 2026 11:03:02 +0200",
      "summary": "The Google Pixel 11 series, which went up for pre-order last week, is now officially available for purchase on Amazon UK. Alongside the Pixel phones, Samsung’s latest Galaxy foldables and the Galaxy S26 series have received price cuts. While the Google Pixel 11 lineup hasn’t received any price cut, ",
      "source": "GSMArena",
-     "zh": "优惠：Pixel 11 系列开始销售，最新款 Galaxy 手机享受折扣"
-    },
-    {
-     "title": "I’m quitting Kindle, and Amazon’s new DRM update proves why you should too",
-     "link": "https://www.androidauthority.com/amazon-kindle-drm-update-quitting-3701426/",
-     "pubDate": "Sat, 22 Aug 2026 09:00:22 +0000",
-     "summary": "I’m finally ready to leave the Kindle world behind.",
-     "source": "Android Authority",
-     "zh": "我要放弃 Kindle，亚马逊的新 DRM 更新证明了为什么你也应该放弃"
+     "zh": "优惠：Pixel 11 系列开始销售，最新 Galaxy 手机享受折扣"
     },
     {
      "title": "iQOO is allegedly working on a small and powerful tablet",
@@ -2209,14 +2217,6 @@
      "zh": "Epic 指责苹果回避巴西 App Store 反垄断协议"
     },
     {
-     "title": "Apple Watch Series 12 and Ultra 4 to get one big upgrade at perfect time",
-     "link": "https://9to5mac.com/2026/08/21/apple-watch-series-12-and-ultra-4-to-get-one-big-upgrade-at-perfect-time/",
-     "pubDate": "Fri, 21 Aug 2026 20:53:21 +0000",
-     "summary": "Apple Watch Series 12 and Ultra 4 are launching next month , and rumors indicate they’ll pack a big upgrade—a new, more powerful chip—that will arrive at just the right time.",
-     "source": "9to5Mac",
-     "zh": "Apple Watch Series 12 和 Ultra 4 适时获得重大升级"
-    },
-    {
      "title": "Pixelated 113: Made You (Camera) Look",
      "link": "https://9to5google.com/2026/08/21/pixelated-113-made-you-camera-look/",
      "pubDate": "Fri, 21 Aug 2026 20:30:00 +0000",
@@ -2240,6 +2240,22 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+     "link": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+     "pubDate": "Sat, 22 Aug 2026 17:33:53 GMT",
+     "summary": "President Donald Trump disclosed just over 1,000 financial transitions in the month of June in what appears to be broad reshuffling of his portfolio.",
+     "source": "CNBC",
+     "zh": "特朗普在六月重组了他的投资组合，出售了 Meta 等公司并收购了伯克希尔哈撒韦公司"
+    },
+    {
+     "title": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
+     "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
+     "pubDate": "2026-08-22T17:05:09Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "未来一周股市：英伟达财报将迎来动荡的市场，杰克逊·霍尔 (Jackson Hole)"
+    },
     {
      "title": "Canada retaliatory tariffs on U.S. goods to take effect on Sept. 8",
      "link": "https://seekingalpha.com/news/4636042-canada-retaliatory-tariffs-on-u-s-goods-to-take-effect-on-sept-8?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2270,7 +2286,7 @@
      "pubDate": "Sat, 22 Aug 2026 16:00:00 GMT",
      "summary": "“My CPA hasn’t gotten back to me.”",
      "source": "MarketWatch",
-     "zh": "“我的时间不多了”：我卖掉了价值 30 万美元的出租房产，损失了 7.5 万美元。我应该再买一件来避税吗？"
+     "zh": "“我的时间不多了”：我卖掉了价值 30 万美元的出租房产，损失了 7.5 万美元。我应该再买一个来避税吗？"
     },
     {
      "title": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive",
@@ -2278,7 +2294,7 @@
      "pubDate": "2026-08-22T16:00:00Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "Mohamed El-Erian表示，30年期国债收益率为5.27%，标志着结构性转变，这将使美国变得更加昂贵"
+     "zh": "Mohamed El-Erian表示，30年期国债收益率为5.27%标志着结构性转变，这将使美国变得更加昂贵"
     },
     {
      "title": "一日8%涨幅归零！比特币跳水，加密货币近25万人爆仓",
@@ -2294,7 +2310,7 @@
      "pubDate": "2026-08-22T15:25:48Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "道琼斯期货：随着英伟达的崛起，市场反弹修复了一些损失；特朗普对加拿大征收新关税"
+     "zh": "道琼斯期货：随着英伟达的崛起，市场反弹修复了一些损害；特朗普对加拿大征收新关税"
     },
     {
      "title": "General Motors inks tentative labor deals with Canada’s Unifor union",
@@ -2329,20 +2345,12 @@
      "zh": "内幕交易：AMD、美光和可口可乐等知名企业"
     },
     {
-     "title": "AI jobs advertise $177,000 salaries — more than double non-AI roles — yet women land just 26% of hires",
-     "link": "https://finance.yahoo.com/technology/ai/articles/ai-jobs-advertise-177-000-143000655.html",
-     "pubDate": "2026-08-22T14:30:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "人工智能职位的薪资为 177,000 美元，是非人工智能职位的两倍多，但女性仅占员工总数的 26%"
-    },
-    {
      "title": "Notable tech headlines for the week: Nvidia, Micron, Broadcom in focus",
      "link": "https://seekingalpha.com/news/4636009-notable-tech-headlines-for-the-week-nvidia-micron-broadcom-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 22 Aug 2026 10:10:36 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "本周值得注意的科技头条新闻：Nvidia、Micron、Broadcom 成为焦点"
+     "zh": "本周值得注意的科技头条新闻：聚焦 Nvidia、Micron、Broadcom"
     },
     {
      "title": "Notable analyst calls this week: Apple, Merck and Analog Devices among top picks",
@@ -2457,20 +2465,12 @@
      "zh": "Meta 是最新一家进入她法庭的科技巨头。认识伊冯·冈萨雷斯·罗杰斯法官"
     },
     {
-     "title": "Warren Buffett Watch: It&apos;s Buffett, not Abel, who appears to be calling the shots on stocks",
-     "link": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
-     "pubDate": "Sat, 22 Aug 2026 12:06:37 GMT",
-     "summary": "New Berkshire Hathaway CEO Greg Abel appears to be letting Warren Buffett and portfolio manager Ted Weschler make all the decisions on the company's equities.",
-     "source": "CNBC",
-     "zh": "沃伦·巴菲特观察：似乎是巴菲特而不是阿贝尔在股市上发号施令"
-    },
-    {
      "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
      "link": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
      "pubDate": "Sat, 22 Aug 2026 12:00:01 GMT",
      "summary": "From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.",
      "source": "CNBC",
-     "zh": "可口可乐秘密创新实验室的内部：这家饮料巨头希望如何实现脏汽水和清凉饮料的自动化"
+     "zh": "可口可乐秘密创新实验室内部：这家饮料巨头希望如何实现脏汽水和清凉饮料的自动化"
     },
     {
      "title": "Lula turns to Trump as unlikely ally in Brazil’s clash with Marco Rubio",
@@ -2542,7 +2542,7 @@
      "pubDate": "Sat, 22 Aug 2026 12:00:00 +0000",
      "summary": "In this excerpt from \"Trinity: An Illustrated History of the World’s First Atomic Test,\" author Emily Seyl looks at the buildup to the 1945 test that changed history. She explores the huge effort to design experiments that would ultimately establish whether the gargantuan explosion in the middle of ",
      "source": "Live Science",
-     "zh": "“最大的未知数是武器会释放多少能量”：科学家如何为三位一体核试验做准备"
+     "zh": "“最大的未知是武器会释放多少能量”：科学家如何为三位一体核试验做准备"
     },
     {
      "title": "Mysteries of the commonplace",
@@ -2574,7 +2574,7 @@
      "pubDate": "Fri, 21 Aug 2026 18:00:00 +0000",
      "summary": "Scientists used fiber-optic cables to turn “thunderquakes” into underground maps that could help reveal hidden hazards beneath cities.",
      "source": "Science News",
-     "zh": "“雷震”的作用不仅仅是震动地面——他们还绘制了它的地图"
+     "zh": "“雷震”不只是让地面震动——他们还绘制了地震图"
     },
     {
      "title": "The importance of indoor airflow patterns in spreading airborne disease",

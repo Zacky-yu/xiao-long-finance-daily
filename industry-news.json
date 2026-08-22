@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/23 04:51:43",
+ "generated_at": "2026/8/23 05:23:48",
  "recent_days": 7,
  "industries": [
   {
@@ -65,6 +65,14 @@
      "zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token"
     },
     {
+     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
+     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
+     "source": "MarkTechPost",
+     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
+    },
+    {
      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
      "link": "https://www.qbitai.com/2026/08/477090.html",
      "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
@@ -105,6 +113,14 @@
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
+     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
+     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
+     "source": "MarkTechPost",
+     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
+    },
+    {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -119,6 +135,22 @@
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia partners with data center developer Cloverleaf"
+    },
+    {
+     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
+     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
+     "source": "MarkTechPost",
+     "zh": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure"
+    },
+    {
+     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
+     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
+     "source": "MarkTechPost",
+     "zh": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access"
     },
     {
      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -215,38 +247,6 @@
      "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
      "source": "新智元",
      "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
-    },
-    {
-     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
-     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
-     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
-     "source": "新智元",
-     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
-    },
-    {
-     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
-     "source": "机器之心",
-     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
-    },
-    {
-     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
-     "source": "机器之心",
-     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
-    },
-    {
-     "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "端到端研究论文生成系统。",
-     "source": "机器之心",
-     "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
     }
    ]
   },
@@ -849,6 +849,22 @@
    "total": 9,
    "items": [
     {
+     "title": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
+     "link": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.html",
+     "pubDate": "Sat, 22 Aug 2026 16:00:00 -0500",
+     "summary": "Order a heavy-duty gas turbine from GE Vernova today and it won’t arrive until 2031. That’s the company’s actual production schedule, confirmed on its July 22 earnings call, and it’s the fact sitting underneath every AI data center power plan announced in the last two years. It comes up far less oft",
+     "source": "OilPrice",
+     "zh": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint"
+    },
+    {
+     "title": "For Lagging Automakers: Stop Pouring Money Into The Wrong Powertrains",
+     "link": "https://cleantechnica.com/2026/08/22/for-lagging-automakers-stop-pouring-money-into-the-wrong-powertrains/",
+     "pubDate": "Sat, 22 Aug 2026 20:49:36 +0000",
+     "summary": "If you’re a company like Honda, Toyota, GM, Ford, Nissan, or any other volume manufacturer that’s still playing catchup on electrification, the next few years will decide whether you remain a real product company or slowly turn into a dealer network for stronger players. Capital is finite. Engineeri",
+     "source": "CleanTechnica",
+     "zh": "For Lagging Automakers: Stop Pouring Money Into The Wrong Powertrains"
+    },
+    {
      "title": "Starlink Is Now The Largest ISP In Zimbabwe By Subscriber Count!",
      "link": "https://cleantechnica.com/2026/08/22/starlink-is-now-the-largest-isp-in-zimbabwe-by-subscriber-count/",
      "pubDate": "Sat, 22 Aug 2026 20:35:06 +0000",
@@ -921,14 +937,6 @@
      "zh": "AC-Coupled vs. DC-Coupled"
     },
     {
-     "title": "Who Was Right About Tesla Robotaxi Deployment in 2025?",
-     "link": "https://cleantechnica.com/2026/08/21/who-was-right-about-tesla-robotaxi-deployment-in-2025/",
-     "pubDate": "Sat, 22 Aug 2026 03:55:58 +0000",
-     "summary": "Tesla has had more good news regarding its robotaxi rollout this past week. Nevada has decided that the company can deploy up to 5,000 robotaxis in the state, up from just 10 on the Las Vegas Strip. That’s a huge potential increase in vehicles. However, “Tesla representatives at the meeting ... [con",
-     "source": "CleanTechnica",
-     "zh": "Who Was Right About Tesla Robotaxi Deployment in 2025?"
-    },
-    {
      "title": "China's New Five-Year Plan Preps the Nation for Peak Oil",
      "link": "https://oilprice.com/Energy/Crude-Oil/Chinas-New-Five-Year-Plan-Preps-the-Nation-for-Peak-Oil.html",
      "pubDate": "Fri, 21 Aug 2026 17:00:00 -0500",
@@ -943,14 +951,6 @@
      "summary": "Countries around the globe are racing to become the world’s first geologic hydrogen hotspot. A few years ago, the United States Department of Energy released a bombshell report that estimated that there are trillions of metric tons of natural hydrogen deposits sitting in underground pockets around t",
      "source": "OilPrice",
      "zh": "The Race to Unlock the World’s Hidden Hydrogen Reserves"
-    },
-    {
-     "title": "Low Rivers, High Stakes: Europe's Nuclear Cooling Crisis",
-     "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Low-Rivers-High-Stakes-Europes-Nuclear-Cooling-Crisis.html",
-     "pubDate": "Fri, 21 Aug 2026 15:00:00 -0500",
-     "summary": "The extreme heat experienced across Europe in recent weeks has caused widespread disruption to nuclear power plants. Governments across the region have been forced to take extraordinary measures to keep nuclear facilities operating, but some are failing to meet their goals, with river levels at reco",
-     "source": "OilPrice",
-     "zh": "Low Rivers, High Stakes: Europe's Nuclear Cooling Crisis"
     },
     {
      "title": "Trump turns $500M grant for clean steel into funding for coal furnace",
@@ -1756,7 +1756,7 @@
      "title": "Knowing When to Stop: The Art of Making a Loop Converge",
      "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
      "pubDate": "Sat, 22 Aug 2026 20:21:14 +0000",
-     "summary": "Article URL: https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/ Comments URL: https://news.ycombinator.com/item?id=49403484 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/ Comments URL: https://news.ycombinator.com/item?id=49403484 Points: 13 # Comments: 3",
      "source": "Hacker News",
      "zh": "Knowing When to Stop: The Art of Making a Loop Converge"
     },
@@ -1772,7 +1772,7 @@
      "title": "Fast and Hard Code",
      "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
      "pubDate": "Sat, 22 Aug 2026 19:56:38 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 6 # Comments: 2",
      "source": "Hacker News",
      "zh": "Fast and Hard Code"
     },
@@ -1780,7 +1780,7 @@
      "title": "English ↔ Claudish Translator",
      "link": "https://programasweights.com/claudish",
      "pubDate": "Sat, 22 Aug 2026 19:19:15 +0000",
-     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 7 # Comments: 7",
+     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 11 # Comments: 9",
      "source": "Hacker News",
      "zh": "English ↔ Claudish Translator"
     },
@@ -1788,7 +1788,7 @@
      "title": "NetBSD and My Life (2005)",
      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
      "pubDate": "Sat, 22 Aug 2026 19:07:46 +0000",
-     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 42 # Comments: 7",
+     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 52 # Comments: 10",
      "source": "Hacker News",
      "zh": "NetBSD and My Life (2005)"
     },
@@ -1796,7 +1796,7 @@
      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
      "pubDate": "Sat, 22 Aug 2026 19:04:41 +0000",
-     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 74 # Comments: 22",
+     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 96 # Comments: 29",
      "source": "Hacker News",
      "zh": "hdiutil is deprecated in macOS 27 Golden Gate"
     },
@@ -2241,12 +2241,28 @@
    "total": 13,
    "items": [
     {
+     "title": "市场资讯：本次停电事故未对英国整体电力供应造成影响",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850227874.html",
+     "pubDate": "Sun, 23 Aug 2026 05:01:02 +0800",
+     "summary": "市场资讯：本次停电事故未对英国整体 电力 供应造成影响。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场资讯：本次停电事故未对英国整体电力供应造成影响"
+    },
+    {
      "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
      "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
      "pubDate": "Sat, 22 Aug 2026 20:45:00 GMT",
      "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
      "source": "MarketWatch",
      "zh": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?"
+    },
+    {
+     "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850227468.html",
+     "pubDate": "Sun, 23 Aug 2026 04:36:57 +0800",
+     "summary": "当地时间22日，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗告诉世界各国，不要与美国一起对伊朗发动经济战。任何参与对伊朗实施经济限制的国家，都被伊朗视为敌人。 雷扎伊表示，特朗普政府发动的这场经济战也是一场宣传战。虽然伊朗已经遭受美国长期制裁，但伊朗已经学会了如何绕过制裁。他表示，海上封锁议题并非一朝一夕就能解决，伊朗已经遭受美国数月的海上封锁，但仍然成功售出了石油。 此外，他还表示，美国在霍尔木兹海峡南部航道的任何行动都将成为伊朗的打击目标，且伊方将打击美国与该地区任何反伊朗势力举行的会晤。 针对伊朗与阿曼关于霍尔木兹海峡的谈判，雷扎伊指出，双方重要磋商之一是正在就航道和贸易过境问题进行协调，",
+     "source": "东方财富股票",
+     "zh": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人"
     },
     {
      "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
@@ -2281,12 +2297,36 @@
      "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
     },
     {
+     "title": "也门官方称：曼德海峡发现一枚胡塞武装布设的水雷",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850228016.html",
+     "pubDate": "Sun, 23 Aug 2026 04:26:47 +0800",
+     "summary": "也门官方称，曼德海峡发现一枚胡塞武装布设的水雷。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "也门官方称：曼德海峡发现一枚胡塞武装布设的水雷"
+    },
+    {
+     "title": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长阿西姆·穆尼尔于周六通电话 就地区局势与安全议题展开磋商",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850227934.html",
+     "pubDate": "Sun, 23 Aug 2026 04:26:47 +0800",
+     "summary": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长阿西姆·穆尼尔于周六通电话，就地区局势与安全议题展开磋商。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长阿西姆·穆尼尔于周六通电话 就地区局势与安全议题展开磋商"
+    },
+    {
      "title": "Nvidia customers reportedly warned about AI-related price hikes",
      "link": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
      "pubDate": "Sat, 22 Aug 2026 20:26:44 GMT",
      "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
      "source": "CNBC",
      "zh": "Nvidia customers reportedly warned about AI-related price hikes"
+    },
+    {
+     "title": "拉脱维亚遭遇严重风暴灾害 超18万用户停电",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850227511.html",
+     "pubDate": "Sun, 23 Aug 2026 04:19:43 +0800",
+     "summary": "当地时间22日晚间，拉脱维亚遭遇强风暴，大量树木或树枝被折断，配电网络遭到严重破坏，全国超过18万用户停电。 此次强气旋从南部进入拉脱维亚，同时带来暴雨和破坏性大风。拉脱维亚通讯社将其称为2005年1月以来破坏性最强风暴。当天拉脱维亚中部一些地方的降水量已经达到当地月降水量的大约一半。 拉脱维亚环境、地质和气象中心22日对中部和西部地区持续发出强降雨红色预警，与此同时，强阵风的橙色预警几乎覆盖全国。 拉脱维亚铁路运营部门说，由于天气原因，22日晚多趟列车运行出现延误。 拉脱维亚 电力 公司的数据显示，截至当天22时，该公司18.5万用户的 电力 供应中断。 电力 损坏主要由倒伏树木造成，救援人",
+     "source": "东方财富股票",
+     "zh": "拉脱维亚遭遇严重风暴灾害 超18万用户停电"
     },
     {
      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
@@ -2303,6 +2343,14 @@
      "summary": "“The cost is absolutely ridiculous.”",
      "source": "MarketWatch",
      "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+    },
+    {
+     "title": "沃什将以美联储主席身份首次发表杰克逊霍尔讲话",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850228174.html",
+     "pubDate": "Sun, 23 Aug 2026 04:06:45 +0800",
+     "summary": "美联储主席凯文·沃什将于下周五在怀俄明州杰克逊霍尔年度经济会议发表讲话，投资者期待他阐明美国央行该如何应对顽固通胀，但目前尚不确定他是否会给出明确表态。这位主席的沟通策略开局坎坷。7月政策会议结束后，沃什几乎没有透露对经济的看法，也未给出利率前瞻指引。投资者解读其表态，认为他在推动通胀回落至目标水平方面决心不足，随后长期债券收益率攀升至二十年来高位。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "沃什将以美联储主席身份首次发表杰克逊霍尔讲话"
     },
     {
      "title": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis",
@@ -2431,54 +2479,6 @@
      "summary": "资料图 南方财经 21世纪经济报道记者 郑青亭 北京报道 美国国债市场近期持续承压之际，桥水基金创始人瑞·达利欧（Ray Dalio）再次发出警告：美国政府财政状况正在进入一个关键“转折点”（inflection point），如果不能及时改变当前的债务增长路径，美国债务危机可能在未来几年内加速显现。 8月21日，达利欧在个人网站发表题为《国家如何走向破产：当下变局背后的内在逻辑》（How Countries Go Br...",
      "source": "经济观察网",
      "zh": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”"
-    },
-    {
-     "title": "瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶",
-     "link": "https://wallstreetcn.com/articles/3780065",
-     "pubDate": "Sat, 22 Aug 2026 20:55:29 +0800",
-     "summary": "美伊紧张局势仍在持续，但市场关注点正逐步从军事风险转向经济制裁，以及其对全球原油供应格局的影响。 据新华社，美国财政部长贝森特20日表示，特朗普政府将加大对伊朗经济施压，并威胁对伊朗实施“前所未有的经济孤立”措施。他称，特朗普政府重创伊朗经济的计划可能使美国无需再对伊朗发动大规模军事行动。随着制裁力度可能升级，其对伊朗原油出口的影响正成为市场关注的新变量。 与此同时，霍尔木兹海峡的可见油轮流量仍明显低于冲突前水平，但“暗流”运输正在部分填补缺口。瑞银调研数据显示， 过去一周霍尔木兹海峡整体石油流量仍略高于600万桶/日，其中暗光运输规模升至约500万至600万桶/日，显示实际原油过境量受到的冲",
-     "source": "华尔街见闻",
-     "zh": "瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶"
-    },
-    {
-     "title": "从濒临出局到市值暴涨440亿美元：Moderna的癌症疫苗十年豪赌",
-     "link": "https://wallstreetcn.com/articles/3780064",
-     "pubDate": "Sat, 22 Aug 2026 20:49:53 +0800",
-     "summary": "Moderna正押注癌症疫苗，试图为公司打开第二增长曲线。 8月19日，Moderna公布了与默克共同开发的个性化mRNA黑色素瘤疫苗关键临床结果。 数据显示，与单独使用Keytruda相比，这一疗法可将高风险黑色素瘤患者复发或死亡风险降低44%。消息公布后，Moderna股价大涨，公司市值一度增加约440亿美元。 两天后，《华尔街日报》8月21日的一篇深度报道还原了结果公布当天的现场：Moderna总部4500名员工临时聚集到公司餐厅，等待管理层宣布这个酝酿了十余年的结果。CEO Stéphane Bancel甚至拿着卡片发言；有人拥抱、落泪，现场还开了香槟。 对Moderna而言，这不仅是",
-     "source": "华尔街见闻",
-     "zh": "从濒临出局到市值暴涨440亿美元：Moderna的癌症疫苗十年豪赌"
-    },
-    {
-     "title": "海外收入减少11%，泡泡玛特王宁：2026是调整年",
-     "link": "http://www.eeo.com.cn/2026/0822/1007956.shtml",
-     "pubDate": "Sat, 22 Aug 2026 20:32:03 +0800",
-     "summary": "2026年销售额增长并不是泡泡玛特最主要的目标，相较于短期业绩，王宁更关注公司治理和经营的健康程度。司德称，海外开店已经由扩大网络覆盖进入“质量远大于数量”的阶段。",
-     "source": "经济观察网",
-     "zh": "海外收入减少11%，泡泡玛特王宁：2026是调整年"
-    },
-    {
-     "title": "座位是给人坐的，而不是用来放零食的",
-     "link": "http://www.eeo.com.cn/2026/0822/1007955.shtml",
-     "pubDate": "Sat, 22 Aug 2026 20:29:05 +0800",
-     "summary": "在这个案件中，两名女孩在资源最紧张、人群最密集的硬座车厢里，不选择向上购买高等级席别，反而选择通过“横向买断数量”的方式来圈地放行李和零食。这种行为本质上是用最低的成本去获得最大的收益。 如果“横向买断”在基础车厢里是完全合法的，铁路还要商务座和一等座干什么；是不是只要有钱，一个人就可以买下一整排二等座横躺着放零食，而让其他买不到票的普通人被迫去车厢连接处站立？这不只是管理上的倒退，更是对客运价格分级逻辑的自我否定。",
-     "source": "经济观察网",
-     "zh": "座位是给人坐的，而不是用来放零食的"
-    },
-    {
-     "title": "BAT的云生意：猛砸钱，缓回收",
-     "link": "http://www.eeo.com.cn/2026/0822/1007953.shtml",
-     "pubDate": "Sat, 22 Aug 2026 20:13:45 +0800",
-     "summary": "需求猛涨，供给仍紧，算力从自用成本变成可出售的商品，云厂商们试图在财报中讲出新故事。",
-     "source": "经济观察网",
-     "zh": "BAT的云生意：猛砸钱，缓回收"
-    },
-    {
-     "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
-     "link": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
-     "pubDate": "Sat, 22 Aug 2026 12:00:01 GMT",
-     "summary": "From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.",
-     "source": "CNBC",
-     "zh": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers"
     }
    ]
   },

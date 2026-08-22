@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/23 03:48:41",
+ "generated_at": "2026/8/23 04:24:50",
  "recent_days": 7,
  "industries": [
   {
@@ -65,14 +65,6 @@
      "zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token"
     },
     {
-     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
-     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
-     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
-     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
-     "source": "MarkTechPost",
-     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
-    },
-    {
      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
      "link": "https://www.qbitai.com/2026/08/477090.html",
      "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
@@ -113,14 +105,6 @@
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
-     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
-     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
-     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
-     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
-     "source": "MarkTechPost",
-     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
-    },
-    {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -135,22 +119,6 @@
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia partners with data center developer Cloverleaf"
-    },
-    {
-     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
-     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
-     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
-     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
-     "source": "MarkTechPost",
-     "zh": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure"
-    },
-    {
-     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
-     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
-     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
-     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
-     "source": "MarkTechPost",
-     "zh": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access"
     },
     {
      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -247,6 +215,38 @@
      "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
      "source": "新智元",
      "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
+    },
+    {
+     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
+     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
+     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
+     "source": "新智元",
+     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
+    },
+    {
+     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
+     "source": "机器之心",
+     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
+    },
+    {
+     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
+     "source": "机器之心",
+     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
+    },
+    {
+     "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182",
+     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
+     "summary": "端到端研究论文生成系统。",
+     "source": "机器之心",
+     "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
     }
    ]
   },
@@ -1745,10 +1745,18 @@
    "total": 18,
    "items": [
     {
+     "title": "London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)",
+     "link": "https://www.techmeme.com/260822/p12#a260822p12",
+     "pubDate": "Sat, 22 Aug 2026 16:00:13 -0400",
+     "summary": "Anna Heim / TechCrunch : London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings &nbsp; &mdash;&nbsp; Inherent, a London AI lab founded by Google DeepMind alumni, says its AI agent just outperfor",
+     "source": "Techmeme",
+     "zh": "London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)"
+    },
+    {
      "title": "NetBSD and My Life (2005)",
      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
      "pubDate": "Sat, 22 Aug 2026 19:07:46 +0000",
-     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 9 # Comments: 0",
+     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 31 # Comments: 1",
      "source": "Hacker News",
      "zh": "NetBSD and My Life (2005)"
     },
@@ -1756,7 +1764,7 @@
      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
      "pubDate": "Sat, 22 Aug 2026 19:04:41 +0000",
-     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 41 # Comments: 3",
+     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 68 # Comments: 15",
      "source": "Hacker News",
      "zh": "hdiutil is deprecated in macOS 27 Golden Gate"
     },
@@ -1777,10 +1785,26 @@
      "zh": "Apparel retailers like Zalando, Zara, and ASOS are betting on AI virtual fitting rooms to create a better online shopping experience and cut costly returns (Sonja Wind/Bloomberg)"
     },
     {
+     "title": "Show HN: Make your logo extra bright on HDR screens",
+     "link": "https://www.soverybright.com/",
+     "pubDate": "Sat, 22 Aug 2026 18:43:03 +0000",
+     "summary": "Certain logos started standing out to me on LinkedIn as brighter/whiter than everything else around them. I dug in and found out this is accomplished by adding a gain-map to an existing JPEG, visible only on HDR screens like a newer MacBook Pro. LinkedIn is the only social network I've found that is",
+     "source": "Hacker News",
+     "zh": "Show HN: Make your logo extra bright on HDR screens"
+    },
+    {
+     "title": "Why your local LLM feels dumber than it is",
+     "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+     "pubDate": "Sat, 22 Aug 2026 18:14:16 +0000",
+     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 9 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Why your local LLM feels dumber than it is"
+    },
+    {
      "title": "Scrap",
      "link": "https://twitter.com/moxie/status/2091218652133732491",
      "pubDate": "Sat, 22 Aug 2026 18:08:56 +0000",
-     "summary": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 59 # Comments: 11",
+     "summary": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 90 # Comments: 17",
      "source": "Hacker News",
      "zh": "Scrap"
     },
@@ -1796,17 +1820,9 @@
      "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
      "link": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
      "pubDate": "Sat, 22 Aug 2026 17:09:27 +0000",
-     "summary": "Article URL: https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl Comments URL: https://news.ycombinator.com/item?id=49401621 Points: 65 # Comments: 41",
+     "summary": "Article URL: https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl Comments URL: https://news.ycombinator.com/item?id=49401621 Points: 72 # Comments: 45",
      "source": "Hacker News",
      "zh": "Belgian car salesman becomes prince after DNA test proves royal parentage"
-    },
-    {
-     "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-     "link": "https://twitter.com/argofowl/status/2091150597374537729",
-     "pubDate": "Sat, 22 Aug 2026 16:58:49 +0000",
-     "summary": "Article URL: https://twitter.com/argofowl/status/2091150597374537729 Comments URL: https://news.ycombinator.com/item?id=49401549 Points: 77 # Comments: 82",
-     "source": "Hacker News",
-     "zh": "Anthropic appears to be A/B testing reduced effort levels in Claude Code"
     },
     {
      "title": "Carrier Pidge hit 75K users and Roost 650K downloads, as slow messaging apps delivering texts at pigeon speeds attract users tired of constant notifications (Emmett Lindner/New York Times)",
@@ -1897,14 +1913,6 @@
      "zh": "亚洲最大海上原油处理平台惠州 19-6 完成封顶"
     },
     {
-     "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-     "link": "https://quantumi.sh/public/labs.html",
-     "pubDate": "Sat, 22 Aug 2026 14:54:07 +0000",
-     "summary": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 201 # Comments: 69",
-     "source": "Hacker News",
-     "zh": "ElevenLabs, TwelveLabs, ThirteenLabs"
-    },
-    {
      "title": "Ox Alpha, a \"stealth model\" from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter (Rohail Saleem/Wccftech)",
      "link": "https://www.techmeme.com/260822/p7#a260822p7",
      "pubDate": "Sat, 22 Aug 2026 10:35:02 -0400",
@@ -1919,14 +1927,6 @@
      "summary": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
      "source": "TechCrunch",
      "zh": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade"
-    },
-    {
-     "title": "Cheap energy, abundant land, and proximity to Beijing have made Ulanqab, Inner Mongolia, a data center hub, with ~100 data centers built or under construction (Zeyi Yang/Wired)",
-     "link": "https://www.techmeme.com/260822/p6#a260822p6",
-     "pubDate": "Sat, 22 Aug 2026 09:50:01 -0400",
-     "summary": "Zeyi Yang / Wired : Cheap energy, abundant land, and proximity to Beijing have made Ulanqab, Inner Mongolia, a data center hub, with ~100 data centers built or under construction &nbsp; &mdash;&nbsp; Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a cr",
-     "source": "Techmeme",
-     "zh": "Cheap energy, abundant land, and proximity to Beijing have made Ulanqab, Inner Mongolia, a data center hub, with ~100 data centers built or under construction (Zeyi Yang/Wired)"
     },
     {
      "title": "因门把手安全隐患特斯拉在华召回近 300 万辆车",
@@ -1992,6 +1992,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The oldest iPhone model you can trade-in with Apple is older than you'd think",
+     "link": "https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/",
+     "pubDate": "Sat, 22 Aug 2026 20:00:00 +0000",
+     "summary": "Even old Apple devices you haven't touched in years could still get you some credit towards a new phone.",
+     "source": "Engadget",
+     "zh": "The oldest iPhone model you can trade-in with Apple is older than you'd think"
+    },
+    {
+     "title": "Indie App Spotlight: ‘CloudGear’ brings all cloud gaming platforms into one tvOS app",
+     "link": "https://9to5mac.com/2026/08/22/indie-app-spotlight-cloudgear-brings-all-cloud-gaming-platforms-into-one-tvos-app/",
+     "pubDate": "Sat, 22 Aug 2026 19:30:00 +0000",
+     "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . On the Apple TV, gaming is a little bit of an afterthought for developers. Compared to iPhone, iPad, and",
+     "source": "9to5Mac",
+     "zh": "Indie App Spotlight: ‘CloudGear’ brings all cloud gaming platforms into one tvOS app"
+    },
     {
      "title": "OpenAI calls for California to strengthen its AI safety laws",
      "link": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
@@ -2063,14 +2079,6 @@
      "summary": "Android Auto YouTube Limitations: Is It Worth Using In The Car?",
      "source": "Engadget",
      "zh": "Android Auto YouTube Limitations: Is It Worth Using In The Car?"
-    },
-    {
-     "title": "Amazon devices are the latest casualties of the memory shortage price hikes",
-     "link": "https://www.engadget.com/2242185/amazon-devices-kindle-echo-eero-price-hikes/",
-     "pubDate": "Sat, 22 Aug 2026 16:50:20 +0000",
-     "summary": "Everything from the Echo to the Kindle is going up.",
-     "source": "Engadget",
-     "zh": "Amazon devices are the latest casualties of the memory shortage price hikes"
     },
     {
      "title": "What is the ‘Android Pulse’ app that just appeared in Google Play Store updates?",
@@ -2209,14 +2217,6 @@
      "zh": "Pixel 11 Pro Fold still doesn’t survive bend test, but at least it didn’t ‘explode’ this time [Video]"
     },
     {
-     "title": "Emmy-winning ‘Stillwater’ returns to Apple TV with five new episodes",
-     "link": "https://9to5mac.com/2026/08/21/emmy-winning-stillwater-returns-to-apple-tv-with-five-new-episodes/",
-     "pubDate": "Fri, 21 Aug 2026 21:53:41 +0000",
-     "summary": "Apple TV subscribers can now watch the entire new season of Stillwater , the platform’s award-winning mindfulness-focused animated series. Watch the trailer below.",
-     "source": "9to5Mac",
-     "zh": "Emmy-winning ‘Stillwater’ returns to Apple TV with five new episodes"
-    },
-    {
      "title": "Pixelated 113: Made You (Camera) Look",
      "link": "https://9to5google.com/2026/08/21/pixelated-113-made-you-camera-look/",
      "pubDate": "Fri, 21 Aug 2026 20:30:00 +0000",
@@ -2240,6 +2240,54 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+     "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+     "pubDate": "Sat, 22 Aug 2026 20:18:15 GMT",
+     "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+     "source": "CNBC",
+     "zh": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8"
+    },
+    {
+     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+     "pubDate": "Sat, 22 Aug 2026 20:15:00 GMT",
+     "summary": "“The cost is absolutely ridiculous.”",
+     "source": "MarketWatch",
+     "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+    },
+    {
+     "title": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis",
+     "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html",
+     "pubDate": "2026-08-22T19:56:02Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis"
+    },
+    {
+     "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
+     "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
+     "pubDate": "Sat, 22 Aug 2026 19:51:00 GMT",
+     "summary": "Canada Prime Minister Mark Carney on Saturday announced his country would impose “dollar-for-dollar” tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.",
+     "source": "MarketWatch",
+     "zh": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
+    },
+    {
+     "title": "SA Asks: How could Trump's new executive order impact vaccine makers?",
+     "link": "https://seekingalpha.com/news/4636043-sa-asks-how-could-trumps-new-executive-order-impact-vaccine-makers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 22 Aug 2026 15:49:45 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: How could Trump's new executive order impact vaccine makers?"
+    },
+    {
+     "title": "Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-stock-ai-growth-194107701.html",
+     "pubDate": "2026-08-22T19:41:07Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?"
+    },
     {
      "title": "Key deals this week: Stripe, KKR, Virtu and more",
      "link": "https://seekingalpha.com/news/4635957-key-deals-this-week-stripe-kkr-virtu-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2281,14 +2329,6 @@
      "zh": "广西水文中心发布洪水红色预警 预计明江水位将全线超警"
     },
     {
-     "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
-     "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 18:55:00 GMT",
-     "summary": "Canada Prime Minister Mark Carney on Saturday announced his country would impose “dollar-for-dollar” tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.",
-     "source": "MarketWatch",
-     "zh": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
-    },
-    {
      "title": "英伟达通知客户AI相关产品涨价超15%",
      "link": "http://stock.eastmoney.com/news/1611,202608233850224244.html",
      "pubDate": "Sun, 23 Aug 2026 02:47:34 +0800",
@@ -2321,20 +2361,12 @@
      "zh": "英伟达已通知客户 AI相关产品涨价幅度超过15%"
     },
     {
-     "title": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?",
-     "link": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-22T18:15:48Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?"
-    },
-    {
-     "title": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
-     "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-22T17:49:56Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole"
+     "title": "Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says",
+     "link": "https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2",
+     "pubDate": "Sat, 22 Aug 2026 18:17:56 GMT",
+     "summary": "Washington’s ambassador to Ankara says attack on air base could have been ‘aggressive . . . pre-election concept’ ahead of October polls",
+     "source": "Financial Times",
+     "zh": "Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says"
     },
     {
      "title": "Mark Carney says Canada is now ‘at war’ with US over trade",
@@ -2353,14 +2385,6 @@
      "zh": "Canada retaliatory tariffs on U.S. goods to take effect on Sept. 8"
     },
     {
-     "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-     "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-     "pubDate": "Sat, 22 Aug 2026 17:01:18 GMT",
-     "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
-     "source": "CNBC",
-     "zh": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8"
-    },
-    {
      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
      "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
      "pubDate": "Sat, 22 Aug 2026 17:00:00 GMT",
@@ -2375,14 +2399,6 @@
      "summary": "“My CPA hasn’t gotten back to me.”",
      "source": "MarketWatch",
      "zh": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
-    },
-    {
-     "title": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive",
-     "link": "https://finance.yahoo.com/economy/policy/articles/mohamed-el-erian-says-30-160000225.html",
-     "pubDate": "2026-08-22T16:00:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive"
     },
     {
      "title": "一日8%涨幅归零！比特币跳水，加密货币近25万人爆仓",
@@ -2425,28 +2441,12 @@
      "zh": "Notable tech headlines for the week: Nvidia, Micron, Broadcom in focus"
     },
     {
-     "title": "Notable analyst calls this week: Apple, Merck and Analog Devices among top picks",
-     "link": "https://seekingalpha.com/news/4635879-notable-analyst-calls-this-week-apple-merck-and-analog-devices-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 10:05:15 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Notable analyst calls this week: Apple, Merck and Analog Devices among top picks"
-    },
-    {
      "title": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It&apos;s &apos;like a circus or a magic act&apos;",
      "link": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
      "pubDate": "Sat, 22 Aug 2026 14:00:01 GMT",
      "summary": "\"Pizza Pod started with a pretty ridiculous idea: What if I could turn a tiny Smart car into a mobile pizzeria?\" says founder Bradley Alvelo.",
      "source": "CNBC",
      "zh": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It&apos;s &apos;like a circus or a magic act&apos;"
-    },
-    {
-     "title": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 13:45:00 GMT",
-     "summary": "“She looked into COBRA, but the cost is absolutely ridiculous.”",
-     "source": "MarketWatch",
-     "zh": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
     },
     {
      "title": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”",

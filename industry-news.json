@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/23 00:51:02",
+ "generated_at": "2026/8/23 01:20:30",
  "recent_days": 7,
  "industries": [
   {
@@ -57,6 +57,14 @@
      "zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token"
     },
     {
+     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
+     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
+     "source": "MarkTechPost",
+     "zh": "解码人工智能的开源课程映射了运行代理循环的三种方式以及每种方式背后的提供商经济学"
+    },
+    {
      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
      "link": "https://www.qbitai.com/2026/08/477090.html",
      "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
@@ -97,6 +105,14 @@
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
+     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
+     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
+     "source": "MarkTechPost",
+     "zh": "2026 年最佳 GPU Neocloud：CoreWeave、Nebius、Lambda、Crusoe 和 Groq 按已发布定价和合同功耗排名"
+    },
+    {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -111,6 +127,22 @@
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia 与数据中心开发商 Cloverleaf 合作"
+    },
+    {
+     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
+     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
+     "source": "MarkTechPost",
+     "zh": "构建代理文档智能管道：使用 AutoFigure 创建科学图形"
+    },
+    {
+     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
+     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
+     "source": "MarkTechPost",
+     "zh": "Anthropic 将 Claude Mythos 5 引入 Claude Security：企业团队无需直接访问模型即可进行前沿漏洞扫描"
     },
     {
      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -215,38 +247,6 @@
      "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
      "source": "新智元",
      "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
-    },
-    {
-     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
-     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
-     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
-     "source": "新智元",
-     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
-    },
-    {
-     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
-     "source": "机器之心",
-     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
-    },
-    {
-     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
-     "source": "机器之心",
-     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
-    },
-    {
-     "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "端到端研究论文生成系统。",
-     "source": "机器之心",
-     "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
     }
    ]
   },
@@ -270,7 +270,7 @@
      "pubDate": "Sat, 22 Aug 2026 01:08:56 GMT",
      "summary": "For all the extraordinary progress made by artificial intelligence, the physical world remains stubbornly difficult to automate.",
      "source": "DIGITIMES",
-     "zh": "台北自动化 2026：如果人工智能发展得如此之快，为什么工厂车间仍然很难实现自动化？"
+     "zh": "台北自动化2026：如果人工智能发展得如此之快，为什么工厂车间仍然很难实现自动化？"
     },
     {
      "title": "Supermicro's internal probe clears senior management in export-control case",
@@ -278,7 +278,7 @@
      "pubDate": "Sat, 22 Aug 2026 01:08:33 GMT",
      "summary": "Super Micro Computer (NASDAQ: SMCI) said Thursday that an internal investigation run by its independent directors found no evidence that any current senior manager knew of an alleged scheme to divert export-controlled products &mdash; the conduct at the center of a March federal indictment of two Su",
      "source": "DIGITIMES",
-     "zh": "美超微的内部调查证实高级管理层在出口管制案件中无罪"
+     "zh": "美超微的内部调查证实了高级管理层在出口管制案件中的清白"
     },
     {
      "title": "America's launch boom runs into a capacity problem as White House targets 1,000 annual space launches",
@@ -486,7 +486,7 @@
      "pubDate": "Thu, 20 Aug 2026 07:02:04 +0000",
      "summary": "Reducing manufacturing-related emissions may support lowering the embedded carbon footprint of the chips customers use in their products. The post Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And Innovation appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
-     "zh": "通过可持续发展和创新为客户减少范围 3 价值链排放"
+     "zh": "通过可持续发展和创新减少客户范围 3 价值链排放"
     },
     {
      "title": "Three Strategic Imperatives For Energy-Efficient AI Computing",
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Every Chokepoint That Isn't Hormuz",
+     "link": "https://oilprice.com/Energy/Energy-General/Every-Chokepoint-That-Isnt-Hormuz.html",
+     "pubDate": "Sat, 22 Aug 2026 12:00:00 -0500",
+     "summary": "For six months the entire conversation about oil logistics has been about one strait, and you can hardly blame anyone for that. Hormuz has been effectively closed since late February, when the war between Iran and the U.S. and Israel started, and the EIA reckons only 4.9 million barrels a day of cru",
+     "source": "OilPrice",
+     "zh": "霍尔木兹以外的每一个咽喉要道"
+    },
+    {
      "title": "Ed Darmanin’s Big Lap — Part 2: Sydney to Broome",
      "link": "https://cleantechnica.com/2026/08/22/ed-darmanins-big-lap-part-2-sydney-to-broome/",
      "pubDate": "Sat, 22 Aug 2026 15:22:15 +0000",
@@ -951,14 +959,6 @@
      "summary": "Iraq wants to more than double its oil production within six years. First, it needs OPEC to let it. Baghdad is targeting output of between 8 million and 10 million barrels per day, up from roughly 4 million bpd before the Iran war, Prime Minister Ali al-Zaidi said Friday. Iraq dispatched its oil and",
      "source": "OilPrice",
      "zh": "伊拉克希望石油产量翻一番，需要欧佩克阻止"
-    },
-    {
-     "title": "China Challenges Russia’s Arms Dominance in Central Asia",
-     "link": "https://oilprice.com/Energy/Energy-General/China-Challenges-Russias-Arms-Dominance-in-Central-Asia.html",
-     "pubDate": "Fri, 21 Aug 2026 13:00:00 -0500",
-     "summary": "China is challenging Russia’s stranglehold on Central Asia’s arms market. Uzbekistan appears to have taken delivery of four PRC-made ChengduJ-10CE multi-role combat aircraft, according to multiple reports, one of which includes a photo of one of the fighters supposedly acquired by the Uzbek Air Forc",
-     "source": "OilPrice",
-     "zh": "中国挑战俄罗斯在中亚的武器主导地位"
     },
     {
      "title": "Data center backlash is cross-partisan — This Week in Cleantech",
@@ -1070,7 +1070,7 @@
      "pubDate": "Fri, 21 Aug 2026 12:21:49 +0000",
      "summary": "China’s polysilicon market showed early signs of stabilization, while wafer prices jumped sharply on stronger downstream demand and increased overseas purchasing. The post Chinese PV Industry Brief: polysilicon market shows tentative recovery as wafer prices surge appeared first on pv magazine Globa",
      "source": "pv magazine",
-     "zh": "中国光伏行业简报：硅片价格飙升，多晶硅市场出现初步复苏"
+     "zh": "中国光伏行业简报：硅片价格飙升，多晶硅市场呈现初步复苏"
     },
     {
      "title": "Daqo New Energy narrows Q2 losses, resumes sales below cost",
@@ -1142,7 +1142,7 @@
      "pubDate": "Fri, 21 Aug 2026 16:10:33 +0000",
      "summary": "By using chemical signals to guide cells to adopt distinct regional identities, scientists created lab-grown human organoids that mimic early brain development and could illuminate how specialized brain areas emerge. The post Lab-Grown Neocortex Models Mimic Early Brain Organization appeared first o",
      "source": "GEN",
-     "zh": "实验室培育的新皮质模型模仿早期大脑组织"
+     "zh": "实验室培养的新皮质模型模仿早期大脑组织"
     },
     {
      "title": "From Models to Agents: The Next Phase of AI Adoption in Molecular Discovery",
@@ -1334,7 +1334,7 @@
      "pubDate": "Sat, 22 Aug 2026 12:00:00 +0000",
      "summary": "On this day in space! Aug. 22, 1963: U.S. Air Force Captain Joe Walker flew an X-15 rocket plane higher than any pilot had ever flown before.",
      "source": "Space.com",
-     "zh": "On this day in space! Aug. 22, 1963: X-15 sets world altitude record"
+     "zh": "在太空的这一天！ 1963 年 8 月 22 日：X-15 创造世界高度记录"
     },
     {
      "title": "Partial lunar eclipse August 2026: Where will it be visible from?",
@@ -1438,7 +1438,7 @@
      "pubDate": "Fri, 21 Aug 2026 04:01:00 +0000",
      "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
      "source": "NASA",
-     "zh": "欧洲炎热的夏天"
+     "zh": "欧洲炎热的夏季"
     },
     {
      "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
@@ -1614,7 +1614,7 @@
      "pubDate": "Fri, 21 Aug 2026 11:55:15 -0400",
      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
      "source": "BleepingComputer",
-     "zh": "Hundreds of leaked AWS keys give full control over corporate accounts"
+     "zh": "数百个泄露的 AWS 密钥可完全控制企业帐户"
     },
     {
      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
@@ -1761,12 +1761,28 @@
      "zh": "看看不断缩小的中美人工智能差距，一系列引人注目的低成本发布使中国人工智能模型对企业越来越有吸引力（彭博社）"
     },
     {
+     "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+     "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+     "pubDate": "Sat, 22 Aug 2026 16:23:09 +0000",
+     "summary": "Article URL: https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html Comments URL: https://news.ycombinator.com/item?id=49401229 Points: 12 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素"
+    },
+    {
      "title": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡",
      "link": "https://www.ithome.com/0/993/119.htm",
      "pubDate": "Sat, 22 Aug 2026 16:15:27 GMT",
      "summary": "IT之家 8 月 23 日消息，当地时间 8 月 21 日，印度马哈拉施特拉邦钱德拉普尔地区发生一起悲剧事件。 据当地警方通报，一名青年男子因购买手机的问题与父母发生争执，然后前往当地的 Khavdya Dongar 山，并站在悬崖边试图轻生，以此威胁父母。 家人、村民、警方和消防人员持续劝阻约 3 小时未果，最终男子还是坠崖，父亲在试图施救时一同坠下，母亲随后也从悬崖跳下，三人均不幸身亡。 警方确认，死者包括 Kunal Chandwade、其父亲 Murlidhar 和母亲 Sangita。IT之家注意到，不同媒体对 Kunal 年龄的报道存在差异，PTI 及部分当地媒体称为 19 岁，而",
      "source": "IT之家",
      "zh": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡"
+    },
+    {
+     "title": "Learning about \"The Unix Time-Sharing System\"",
+     "link": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
+     "pubDate": "Sat, 22 Aug 2026 16:11:16 +0000",
+     "summary": "Article URL: https://playtechnique.io/long/the-unix-time-sharing-system.html Comments URL: https://news.ycombinator.com/item?id=49401122 Points: 3 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "了解“Unix分时系统”"
     },
     {
      "title": "今天处暑：离离暑云散，袅袅凉风起",
@@ -1791,6 +1807,14 @@
      "summary": "IT之家 8 月 22 日消息，漫威影业总裁凯文 · 费奇在上周举行的迪士尼 D23 活动期间表示，漫威对新版《X 战警》的规划并不局限于一部三部曲。 在 D23 期间，漫威正式公布了《X 战警》重启系列电影的核心阵容，包括萨迪 · 辛克饰演琴 · 葛蕾、基特 · 康纳饰演镭射眼、克里斯托弗 · 阿波特饰演 X 教授、萨玛拉 · 维文饰演白皇后、玛雅 · 博伊德饰演暴风女。 凯文 · 费奇表示，团队特意组建了非常年轻的演员阵容，目的是为未来数十年的故事讲述奠定基础。漫威希望未来继续围绕这些角色推出更多故事。 “我们有着近 90 年的漫画，还有很多故事素材尚未被影视化。我们公布了一组非常年轻的新",
      "source": "IT之家",
      "zh": "凯文 · 费奇谈新版《X 战警》：演员们都很年轻，可以再拍 100 部电影，2028 年加入漫威电影宇宙"
+    },
+    {
+     "title": "Wildfires across Europe detonate forgotten World War bombs",
+     "link": "https://www.independent.co.uk/news/world/europe/europe-wildfires-world-war-bombs-b3037458.html",
+     "pubDate": "Sat, 22 Aug 2026 15:46:32 +0000",
+     "summary": "Article URL: https://www.independent.co.uk/news/world/europe/europe-wildfires-world-war-bombs-b3037458.html Comments URL: https://news.ycombinator.com/item?id=49400900 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "欧洲各地野火引爆被遗忘的二战炸弹"
     },
     {
      "title": "Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份",
@@ -1836,7 +1860,7 @@
      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
      "link": "https://quantumi.sh/public/labs.html",
      "pubDate": "Sat, 22 Aug 2026 14:54:07 +0000",
-     "summary": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 67 # Comments: 16",
+     "summary": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 85 # Comments: 24",
      "source": "Hacker News",
      "zh": "十一实验室、十二实验室、十三实验室"
     },
@@ -1852,7 +1876,7 @@
      "title": "A Friendly Introduction to Racket",
      "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
      "pubDate": "Sat, 22 Aug 2026 14:08:19 +0000",
-     "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 40 # Comments: 8",
+     "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 47 # Comments: 10",
      "source": "Hacker News",
      "zh": "球拍的友好介绍"
     },
@@ -1884,17 +1908,9 @@
      "title": "The New MCP Roadmap",
      "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
      "pubDate": "Sat, 22 Aug 2026 13:31:34 +0000",
-     "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 91 # Comments: 67",
+     "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 105 # Comments: 81",
      "source": "Hacker News",
      "zh": "新 MCP 路线图"
-    },
-    {
-     "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-     "link": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-     "pubDate": "Sat, 22 Aug 2026 13:24:06 +0000",
-     "summary": "Article URL: https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/ Comments URL: https://news.ycombinator.com/item?id=49399524 Points: 135 # Comments: 52",
-     "source": "Hacker News",
-     "zh": "贾斯汀·比伯对《对不起》的康德式批判"
     },
     {
      "title": "使用胁迫密码删除手机数据的美国公民被控妨碍联邦执法的重罪",
@@ -1911,14 +1927,6 @@
      "summary": "For uninterrupted service as you country-hop, the Saily Ultra eSIM works well and comes with plentiful perks. It’s pricey though.",
      "source": "WIRED",
      "zh": "Saily Ultra eSIM Prem Plan 回顾：充满福利"
-    },
-    {
-     "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-     "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-     "pubDate": "Sat, 22 Aug 2026 12:07:06 +0000",
-     "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy Comments URL: https://news.ycombinator.com/item?id=49398904 Points: 147 # Comments: 100",
-     "source": "Hacker News",
-     "zh": "钩住、抓住、收获和隐藏：Meta 在第一周制定的所谓策略"
     },
     {
      "title": "Putting mice into hibernation causes a major loss of synapses",
@@ -1975,14 +1983,6 @@
      "summary": "Financial Times : Inside the World Robot Conference in Beijing, drawing over 300 exhibitors; Unitree founder Wang Xingxing said the industry's &ldquo;ChatGPT moment&rdquo; has yet to come &nbsp; &mdash;&nbsp; Beijing policymakers have made robotics a &lsquo;strategic priority&rsquo;&nbsp; &mdash;&nb",
      "source": "Techmeme",
      "zh": "北京世界机器人大会内，吸引超过300家参展商； Unitree创始人王星星表示，行业的“ChatGPT时刻”尚未到来（金融时报）"
-    },
-    {
-     "title": "Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments",
-     "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
-     "pubDate": "Sat, 22 Aug 2026 10:30:00 +0000",
-     "summary": "Plus: Apple sends out an “unprecedented” number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
-     "source": "WIRED",
-     "zh": "您过期的 Visa 卡可能会被“僵尸化”以进行非接触式支付"
     }
    ]
   },
@@ -1992,6 +1992,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Amazon devices are the latest casualties of the memory shortage price hikes",
+     "link": "https://www.engadget.com/2242185/amazon-devices-kindle-echo-eero-price-hikes/",
+     "pubDate": "Sat, 22 Aug 2026 16:50:20 +0000",
+     "summary": "Everything from the Echo to the Kindle is going up.",
+     "source": "Engadget",
+     "zh": "亚马逊设备是内存短缺涨价的最新受害者"
+    },
     {
      "title": "You might want to skip using a Bluetooth headset for a better gaming experience",
      "link": "https://www.engadget.com/2240120/bluetooth-headset-skip-for-better-gaming-experience/",
@@ -2065,20 +2073,12 @@
      "zh": "请不要购买谷歌价格过高的 Pixel 11 透明保护壳"
     },
     {
-     "title": "This handy Google Pixel feature can help solve annoying Android Bluetooth problems",
-     "link": "https://www.engadget.com/2240108/google-pixel-android-bluetooth-diagnostics-feature/",
-     "pubDate": "Sat, 22 Aug 2026 12:30:00 +0000",
-     "summary": "If you're having trouble with Bluetooth connections on your Pixel phone, this tool is a great place to start your troubleshooting.",
-     "source": "Engadget",
-     "zh": "这个方便的 Google Pixel 功能可以帮助解决烦人的 Android 蓝牙问题"
-    },
-    {
      "title": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more",
      "link": "https://9to5mac.com/2026/08/22/weekend-apple-deals-macbook-pro-airpods-pro-3/",
      "pubDate": "Sat, 22 Aug 2026 12:17:11 +0000",
      "summary": "Alongside the final AirPods Max 2 at $120 off and the return of all-time low pricing on AirTag 2. Those discounts join a big-time $500 price drop on M5 Pro MacBook Pro, the lowest prices around on MacBook Neo and M5 MacBook Air courtesy of the official Apple Certified Refurbished Store , Apple Watch",
      "source": "9to5Mac",
-     "zh": "周末 Apple 特惠：MacBook Pro、AirPods Pro 3、AirPods Max 2 立减 500 美元，AirTag 2 等立减 120 美元"
+     "zh": "周末 Apple 优惠：MacBook Pro、AirPods Pro 3、AirPods Max 2 立减 500 美元，AirTag 2 等立减 120 美元"
     },
     {
      "title": "Here's the Sony Xperia 10 VIII that's expected to launch next week",
@@ -2241,52 +2241,28 @@
    "total": 13,
    "items": [
     {
+     "title": "Canada retaliatory tariffs on U.S. goods to take effect on Sept. 8",
+     "link": "https://seekingalpha.com/news/4636042-canada-retaliatory-tariffs-on-u-s-goods-to-take-effect-on-sept-8?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 22 Aug 2026 13:02:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "加拿大对美国商品征收报复性关税将于9月8日生效"
+    },
+    {
      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
      "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-     "pubDate": "Sat, 22 Aug 2026 16:38:52 GMT",
+     "pubDate": "Sat, 22 Aug 2026 17:01:18 GMT",
      "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
      "source": "CNBC",
      "zh": "随着美加贸易谈判破裂，卡尼表示报复性关税将于 9 月 8 日开始"
     },
     {
-     "title": "大庆华科上半年净利润同比“腰斩” 扣非净利为负 流动负债大幅增长",
-     "link": "http://finance.eastmoney.com/news/1354,202608223850220312.html",
-     "pubDate": "Sun, 23 Aug 2026 00:30:49 +0800",
-     "summary": "8月21日， 大庆华科 (000985)公布2026年半年报，公司营业收入为9.81亿元，同比上升2.2%；归母净利润为380万元，同比下降58.1%；扣非归母净利润亏损38万元，同比下降104.7%；经营现金流净额为7356万元，同比下降16.0%；EPS(全面摊薄)为0.0293元。 其中第二季度，公司营业收入为5.4亿元，同比上升18.0%；归母净利润亏损186万元，同比下降195.8%；扣非归母净利润亏损549万元，同比下降493.8%；EPS为-0.0143元。 截至二季度末，公司总资产7.08亿元，较上年度末增长7.1%；归母净资产为6.1亿元，较上年度末增长0.8%。 公司在20",
-     "source": "东方财富股票",
-     "zh": "大庆华科上半年净利润同比“腰斩” 扣非净利为负 流动负债大幅增长"
-    },
-    {
-     "title": "机器人“奥运会”！题更难 “人”更强！",
-     "link": "http://finance.eastmoney.com/news/1348,202608233850221750.html",
-     "pubDate": "Sun, 23 Aug 2026 00:17:00 +0800",
-     "summary": "8月22日晚，第二届世界人形 机器人 运动会在国家速滑馆“冰丝带”开幕，来自六大洲16个国家的666支队伍、2056台 机器人 参赛，将在五天时间里围绕51个赛项展开角逐。 百米9.39秒背后 机器人 “身体素质”如何进化？ 开幕式安排了100米预赛小组赛，天卓队的天工Ultra 机器人 以9.39秒的成绩获得预赛第一；原地跳高展示中，天工Ultra 机器人 的成绩为2.8843米，上届冠军成绩为95.641厘米，两项展示成绩均超过相应的人类世界纪录。 赛后，北京 人形机器人 创新中心创新人形部负责人、天工Ultra技术负责人郭宜劼接受上海证券报记者采访时表示，获得预赛第一令人欣慰，但这只是预",
-     "source": "东方财富股票",
-     "zh": "机器人“奥运会”！题更难 “人”更强！"
-    },
-    {
-     "title": "DeepSeek调整计费规则",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850221617.html",
-     "pubDate": "Sun, 23 Aug 2026 00:11:23 +0800",
-     "summary": "据DeepSeek官网消息，DeepSeek于北京时间2026年8月23日（周日）00:00起，对峰谷计费规则做出调整，周末（周六、周日）全天不再区分峰谷时段，统一按照低谷时段价格收取调用费用。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "DeepSeek调整计费规则"
-    },
-    {
-     "title": "叙利亚谴责以色列袭击“严重侵犯叙主权”",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850221519.html",
-     "pubDate": "Sun, 23 Aug 2026 00:10:52 +0800",
-     "summary": "叙利亚过渡政府外交部22日发表声明，强烈谴责以色列 无人机 当天在叙利亚大马士革农村省拜特金地区袭击一辆民用车辆，此次袭击造成多名平民受伤。 声明说，此次袭击严重侵犯叙利亚国家主权与领土完整，公然违反国际法。以色列持续侵犯叙利亚领土，将加剧地区紧张局势、破坏地区稳定，威胁平民生命安全。叙利亚呼吁国际社会及联合国安理会履行职责，制止以色列对叙利亚主权的持续侵犯。 以色列国防军当天早些时候发表声明称，以军当天在叙利亚南部向一名正处于发动袭击“最后准备阶段”的人员开火。以军称，该人员活动对以军士兵构成“直接威胁”。 近期，以色列已多次袭击叙利亚。以色列国防部长卡茨22日发表声明说，以色列国防军18日",
-     "source": "东方财富股票",
-     "zh": "叙利亚谴责以色列袭击“严重侵犯叙主权”"
-    },
-    {
-     "title": "加拿大总理卡尼：关键矿产可作为对美谈判筹码",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850221128.html",
-     "pubDate": "Sun, 23 Aug 2026 00:03:15 +0800",
-     "summary": "加拿大总理卡尼：关键矿产可作为对美谈判筹码。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "加拿大总理卡尼：关键矿产可作为对美谈判筹码"
+     "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
+     "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
+     "pubDate": "Sat, 22 Aug 2026 17:00:00 GMT",
+     "summary": "“There is a lot of legal and financial power in my hands.”",
+     "source": "MarketWatch",
+     "zh": "我持有我岳母的授权书。我也是她的遗嘱执行人和受托人。难道我对她的事情权力太大了？"
     },
     {
      "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
@@ -2294,7 +2270,7 @@
      "pubDate": "Sat, 22 Aug 2026 16:00:00 GMT",
      "summary": "“My CPA hasn’t gotten back to me.”",
      "source": "MarketWatch",
-     "zh": "“我的时间不多了”：我卖掉了价值 30 万美元的出租房产，损失了 7.5 万美元。我应该再买一个来避税吗？"
+     "zh": "“我的时间不多了”：我卖掉了价值 30 万美元的出租房产，损失了 7.5 万美元。我应该再买一件来避税吗？"
     },
     {
      "title": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive",
@@ -2302,15 +2278,7 @@
      "pubDate": "2026-08-22T16:00:00Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "Mohamed El-Erian表示，30年期国债收益率为5.27%标志着结构性转变，这将使美国变得更加昂贵"
-    },
-    {
-     "title": "普京称俄军加大对乌企业打击",
-     "link": "http://finance.eastmoney.com/news/1351,202608223850215668.html",
-     "pubDate": "Sat, 22 Aug 2026 23:54:45 +0800",
-     "summary": "当地时间22日，俄罗斯总统普京表示，乌克兰武装部队在过去40天里持续使用导弹和 无人机 对俄罗斯发动攻击，企图借此击败俄罗斯，但这“不过是一场冒险”。他称，乌军的打击并未造成任何实质性转折。 普京还称，作为对乌军打击俄罗斯境内民用设施的回应，俄军加大了对乌克兰企业的打击，且俄方的报复性打击 “更具破坏性”。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "普京称俄军加大对乌企业打击"
+     "zh": "Mohamed El-Erian表示，30年期国债收益率为5.27%，标志着结构性转变，这将使美国变得更加昂贵"
     },
     {
      "title": "一日8%涨幅归零！比特币跳水，加密货币近25万人爆仓",
@@ -2374,7 +2342,7 @@
      "pubDate": "Sat, 22 Aug 2026 10:10:36 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "本周值得注意的科技头条新闻：聚焦 Nvidia、Micron、Broadcom"
+     "zh": "本周值得注意的科技头条新闻：Nvidia、Micron、Broadcom 成为焦点"
     },
     {
      "title": "Notable analyst calls this week: Apple, Merck and Analog Devices among top picks",
@@ -2407,14 +2375,6 @@
      "summary": "“She looked into COBRA, but the cost is absolutely ridiculous.”",
      "source": "MarketWatch",
      "zh": "“她很绝望”：我的朋友被解雇了，并且失去了健康保险。她怎样才能找到负担得起的保险？"
-    },
-    {
-     "title": "Earnings Scoreboard: All 12 key S&P 500 reporting firms top EPS estimates; 11 deliver Y/Y growth",
-     "link": "https://seekingalpha.com/news/4635742-earnings-scoreboard-all-12-key-sp-500-reporting-firms-top-eps-estimates-11-deliver-yy-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 09:35:27 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "盈利记分牌：标普 500 指数中所有 12 家主要报告公司的每股收益均高于预期； 11 实现同比增长"
     },
     {
      "title": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”",
@@ -2479,6 +2439,46 @@
      "summary": "在这个案件中，两名女孩在资源最紧张、人群最密集的硬座车厢里，不选择向上购买高等级席别，反而选择通过“横向买断数量”的方式来圈地放行李和零食。这种行为本质上是用最低的成本去获得最大的收益。 如果“横向买断”在基础车厢里是完全合法的，铁路还要商务座和一等座干什么；是不是只要有钱，一个人就可以买下一整排二等座横躺着放零食，而让其他买不到票的普通人被迫去车厢连接处站立？这不只是管理上的倒退，更是对客运价格分级逻辑的自我否定。",
      "source": "经济观察网",
      "zh": "座位是给人坐的，而不是用来放零食的"
+    },
+    {
+     "title": "BAT的云生意：猛砸钱，缓回收",
+     "link": "http://www.eeo.com.cn/2026/0822/1007953.shtml",
+     "pubDate": "Sat, 22 Aug 2026 20:13:45 +0800",
+     "summary": "需求猛涨，供给仍紧，算力从自用成本变成可出售的商品，云厂商们试图在财报中讲出新故事。",
+     "source": "经济观察网",
+     "zh": "BAT的云生意：猛砸钱，缓回收"
+    },
+    {
+     "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
+     "link": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
+     "pubDate": "Sat, 22 Aug 2026 12:12:03 GMT",
+     "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
+     "source": "CNBC",
+     "zh": "Meta 是最新一家进入她法庭的科技巨头。认识伊冯·冈萨雷斯·罗杰斯法官"
+    },
+    {
+     "title": "Warren Buffett Watch: It&apos;s Buffett, not Abel, who appears to be calling the shots on stocks",
+     "link": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
+     "pubDate": "Sat, 22 Aug 2026 12:06:37 GMT",
+     "summary": "New Berkshire Hathaway CEO Greg Abel appears to be letting Warren Buffett and portfolio manager Ted Weschler make all the decisions on the company's equities.",
+     "source": "CNBC",
+     "zh": "沃伦·巴菲特观察：似乎是巴菲特而不是阿贝尔在股市上发号施令"
+    },
+    {
+     "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
+     "link": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
+     "pubDate": "Sat, 22 Aug 2026 12:00:01 GMT",
+     "summary": "From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.",
+     "source": "CNBC",
+     "zh": "可口可乐秘密创新实验室的内部：这家饮料巨头希望如何实现脏汽水和清凉饮料的自动化"
+    },
+    {
+     "title": "Lula turns to Trump as unlikely ally in Brazil’s clash with Marco Rubio",
+     "link": "https://www.ft.com/content/da43f854-8083-4ec1-86da-76b47c84e64a?syn-25a6b1a6=1",
+     "pubDate": "Sat, 22 Aug 2026 11:00:09 GMT",
+     "summary": "Brazil’s president and US secretary of state exchange barbs ahead of the South American country’s election",
+     "source": "Financial Times",
+     "zh": "卢拉在巴西与卢比奥的冲突中将特朗普视为不太可能的盟友"
     }
    ]
   },
@@ -2598,7 +2598,7 @@
      "pubDate": "Fri, 21 Aug 2026 15:01:03 +0000",
      "summary": "Bacteria may build a memory of herbivore attack in the soil and coax new plants to attract wasps to rein in destructive pests.",
      "source": "Science News",
-     "zh": "受到攻击的植物留下了令人惊讶的后援呼声"
+     "zh": "受到攻击的植物留下了令人惊讶的支援信号"
     },
     {
      "title": "‘Huge Breakthrough’ in the Math of Imbalance",

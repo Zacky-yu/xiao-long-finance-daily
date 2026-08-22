@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/22 23:47:15",
+ "generated_at": "2026/8/23 00:24:12",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+     "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+     "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000",
+     "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+     "source": "TechCrunch AI",
+     "zh": "Frontier AI 实验室仍然不愿透露他们如何遏制流氓模型"
+    },
     {
      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
      "link": "https://www.qbitai.com/2026/08/477253.html",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
      "source": "新智元",
      "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
-    },
-    {
-     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
-     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
-     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
-     "source": "新智元",
-     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
     }
    ]
   },
@@ -447,7 +447,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 20 Aug 2026 09:48:03 +0100",
      "summary": "Micross Components Inc of Melville, NY, USA (which provides high-reliability microelectronic products and services for aerospace, defense, space, medical, energy, communications and industrial applications) has entered into a definitive agreement to acquire AEMtec GmbH of Berlin, Germany (a portfoli",
      "source": "Semiconductor Today",
-     "zh": "Micross 收购 AEMtec，将触角扩展到欧洲"
+     "zh": "Micross 收购 AEMtec，将业务拓展至欧洲"
     },
     {
      "title": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers",
@@ -487,7 +487,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 20 Aug 2026 07:02:04 +0000",
      "summary": "Reducing manufacturing-related emissions may support lowering the embedded carbon footprint of the chips customers use in their products. The post Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And Innovation appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
-     "zh": "通过可持续发展和创新为客户减少范围 3 价值链排放"
+     "zh": "通过可持续发展和创新减少客户范围 3 价值链排放"
     },
     {
      "title": "Three Strategic Imperatives For Energy-Efficient AI Computing",
@@ -505,6 +505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "Robots don’t run themselves: The workforce powering physical AI",
+     "link": "https://www.therobotreport.com/robots-dont-run-themselves-the-workforce-powering-physical-ai/",
+     "pubDate": "Sat, 22 Aug 2026 14:30:21 +0000",
+     "summary": "The addition of physical AI to the workforce requires more key performance indicators than throughput, according to the president of HireArt. The post Robots don’t run themselves: The workforce powering physical AI appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "机器人不会自行运行：劳动力为物理人工智能提供动力"
+    },
     {
      "title": "Travere Therapeutics Turns a Rare Disease Approval into Two Quarters of Accelerating Sales",
      "link": "https://roboticsandautomationnews.com/2026/08/22/travere-therapeutics-turns-a-rare-disease-approval-into-two-quarters-of-accelerating-sales/104412/",
@@ -602,14 +610,6 @@ window.INDUSTRY_DATA = {
      "zh": "亚马逊计划到 2026 年底将 Prime Air 扩展到近 500 个城市"
     },
     {
-     "title": "ATDev gives update on its journey building autonomous wheelchairs",
-     "link": "https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/",
-     "pubDate": "Thu, 20 Aug 2026 17:39:25 +0000",
-     "summary": "ATDev is developing a modern power wheelchair with a coordinated robotic arm that can take on reaching and lifting tasks for the user. The post ATDev gives update on its journey building autonomous wheelchairs appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "ATDev 介绍其制造自动轮椅的最新进展"
-    },
-    {
      "title": "Robotics roadmaps from around the world spotlight of the month: Japan",
      "link": "https://robohub.org/robotics-roadmaps-from-around-the-world-spotlight-of-the-month-japan/",
      "pubDate": "Wed, 19 Aug 2026 07:39:34 +0000",
@@ -679,7 +679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 19:32:03 +0000",
      "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla killing the Solar Roof, Cybercab launch, Genesis GV90, and more. Today’s episode is sponsored by GM . GM EV charging made easy, with Energy Pass and P",
      "source": "Electrek",
-     "zh": "播客：特斯拉取消太阳能屋顶、Cyber​​cab 推出、Genesis GV90 等"
+     "zh": "播客：特斯拉取消了太阳能屋顶、Cyber​​cab 推出、Genesis GV90 等"
     },
     {
      "title": "Hyundai starts taking orders for $17,700 Ioniq V, but you can’t have it",
@@ -1007,7 +1007,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 13:45:47 +0000",
      "summary": "ES Foundry's Alex Zhu outlines how the US cell maker is betting on PERC while navigating shifting regulations and supply-chain constraints.",
      "source": "PV Tech",
-     "zh": "ES Foundry 在美国光伏制造转向 n 型期间支持 PERC"
+     "zh": "ES Foundry 在美国光伏制造转向 n 型之际支持 PERC"
     },
     {
      "title": "United Solar’s goal to diversify polysilicon supply outside of China",
@@ -1015,7 +1015,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 13:43:34 +0000",
      "summary": "PV Tech Premium speaks with United Solar about the challenges of building polysilicon capacity outside of China and catering to the US and Indian markets.",
      "source": "PV Tech",
-     "zh": "联合太阳能公司的目标是实现中国以外多晶硅供应的多元化"
+     "zh": "联合太阳能的目标是在中国以外实现多晶硅供应多元化"
     },
     {
      "title": "Austria announces energy storage offensive, shifting solar subsidy focus",
@@ -1071,7 +1071,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 12:21:49 +0000",
      "summary": "China’s polysilicon market showed early signs of stabilization, while wafer prices jumped sharply on stronger downstream demand and increased overseas purchasing. The post Chinese PV Industry Brief: polysilicon market shows tentative recovery as wafer prices surge appeared first on pv magazine Globa",
      "source": "pv magazine",
-     "zh": "中国光伏行业简报：硅片价格飙升，多晶硅市场出现初步复苏"
+     "zh": "中国光伏行业简报：硅片价格飙升，多晶硅市场呈现初步复苏"
     },
     {
      "title": "Daqo New Energy narrows Q2 losses, resumes sales below cost",
@@ -1143,7 +1143,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 16:10:33 +0000",
      "summary": "By using chemical signals to guide cells to adopt distinct regional identities, scientists created lab-grown human organoids that mimic early brain development and could illuminate how specialized brain areas emerge. The post Lab-Grown Neocortex Models Mimic Early Brain Organization appeared first o",
      "source": "GEN",
-     "zh": "实验室培育的新皮质模型模仿早期大脑组织"
+     "zh": "实验室培养的新皮质模型模仿早期大脑组织"
     },
     {
      "title": "From Models to Agents: The Next Phase of AI Adoption in Molecular Discovery",
@@ -1279,7 +1279,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 20 Aug 2026 11:13:00 -0400",
      "summary": "The clearance of Genglycos for a rare glycogen storage disease gives Ultragenyx a sellable voucher and momentum ahead of an eagerly anticipated study readout.",
      "source": "BioPharma Dive",
-     "zh": "Ultragenyx 在经历挫折后首次获得基因治疗批准"
+     "zh": "Ultragenyx 在经历挫折后首次获得基因疗法批准"
     },
     {
      "title": "Trump nominates policy aide Overton to lead FDA",
@@ -1297,6 +1297,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "How will NASA's astronaut training hub change with commercial space stations?",
+     "link": "https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations",
+     "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000",
+     "summary": "A tour of Johnson Space Center in Houston shows how NASA and private industry are already working together on the future of human spaceflight.",
+     "source": "Space.com",
+     "zh": "NASA 的宇航员训练中心将如何与商业空间站发生变化？"
+    },
     {
      "title": "'We Want to Believe' book explores the reality of UFOs: 'It's always going to be more likely that someone is wrong about what they saw' (interview)",
      "link": "https://www.space.com/entertainment/we-want-to-believe-book-explores-the-reality-of-ufos-its-always-going-to-be-more-likely-that-someone-is-wrong-about-what-they-saw-interview",
@@ -1344,14 +1352,6 @@ window.INDUSTRY_DATA = {
      "summary": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written b",
      "source": "NASA",
      "zh": "APOD：2026 年 8 月 22 日 – 大部分为英仙座流星雨"
-    },
-    {
-     "title": "What happens when a galaxy's supermassive black hole turns off? These dying radio galaxies could show us",
-     "link": "https://www.space.com/astronomy/black-holes/what-happens-when-a-galaxys-supermassive-black-hole-turns-off-these-dying-radio-galaxies-could-show-us",
-     "pubDate": "Fri, 21 Aug 2026 21:00:00 +0000",
-     "summary": "Astronomers have discovered a hitherto unseen population of galaxies with fading radio lobes, revealing what happens to these vast outflows when their black hole engines stall.",
-     "source": "Space.com",
-     "zh": "当星系的超大质量黑洞关闭时会发生什么？这些垂死的射电星系可以向我们展示"
     },
     {
      "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
@@ -1439,7 +1439,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 04:01:00 +0000",
      "summary": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
      "source": "NASA",
-     "zh": "欧洲炎热的夏天"
+     "zh": "欧洲炎热的夏季"
     },
     {
      "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
@@ -1615,7 +1615,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 11:55:15 -0400",
      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
      "source": "BleepingComputer",
-     "zh": "数百个泄露的 AWS 密钥可完全控制企业账户"
+     "zh": "数百个泄露的 AWS 密钥可完全控制企业帐户"
     },
     {
      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
@@ -1746,6 +1746,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡",
+     "link": "https://www.ithome.com/0/993/119.htm",
+     "pubDate": "Sat, 22 Aug 2026 16:15:27 GMT",
+     "summary": "IT之家 8 月 23 日消息，当地时间 8 月 21 日，印度马哈拉施特拉邦钱德拉普尔地区发生一起悲剧事件。 据当地警方通报，一名青年男子因购买手机的问题与父母发生争执，然后前往当地的 Khavdya Dongar 山，并站在悬崖边试图轻生，以此威胁父母。 家人、村民、警方和消防人员持续劝阻约 3 小时未果，最终男子还是坠崖，父亲在试图施救时一同坠下，母亲随后也从悬崖跳下，三人均不幸身亡。 警方确认，死者包括 Kunal Chandwade、其父亲 Murlidhar 和母亲 Sangita。IT之家注意到，不同媒体对 Kunal 年龄的报道存在差异，PTI 及部分当地媒体称为 19 岁，而",
+     "source": "IT之家",
+     "zh": "印度少年为买新款苹果 iPhone 威胁父母跳崖，最终三人接连坠崖身亡"
+    },
+    {
+     "title": "今天处暑：离离暑云散，袅袅凉风起",
+     "link": "https://www.ithome.com/0/993/118.htm",
+     "pubDate": "Sat, 22 Aug 2026 16:00:13 GMT",
+     "summary": "IT之家 8 月 23 日消息今天是二十四节气中的处暑，随着九月即将到来，大家是否开始感受到丝丝凉风了呢？所谓处暑，即为“出暑”，是炎热离开的意思。这是农历二十四节气之中的第 14 个节气，交节时间点在公历 8 月 23 日前后，太阳到达黄经 150°。 ① 今日 22 时 54 分，处暑至。处暑意味着炎炎夏日即将结束，三伏已近尾声，天气逐渐转凉。 ②此时节昼夜温差大，北方降温明显，南方仍需小心“秋老虎”。③“露蝉声渐咽，秋日景初微。”北方已有清秋之韵，是迎秋赏景好时节。④天气由热转凉，应调整起居，充足睡眠，适应“秋乏”。秋天要来了，你准备好了吗？ 天文专家称，处暑当天，太阳直射点已经由“夏至",
+     "source": "IT之家",
+     "zh": "今天处暑：离离暑云散，袅袅凉风起"
+    },
+    {
+     "title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
+     "link": "https://www.solidot.org/story?sid=85165",
+     "pubDate": "Sat, 22 Aug 2026 23:59:22 +0800",
+     "summary": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比骑行更大，但仍然远小于短暂的冲刺跑。冲刺跑还改变了逾 200 种代谢物，迅速提升了参与血管生长、组织重塑和激素信号传导的蛋白质水平。部分蛋白质是通过一种名为胞外域脱落（ectodomain shedding）的快速细胞信号传导过程进入血液的——蛋白质并非新产生并释放，而是细胞表面已有的蛋白质片段被切",
+     "source": "Solidot",
+     "zh": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同"
+    },
+    {
+     "title": "凯文 · 费奇谈新版《X 战警》：演员们都很年轻，可以再拍 100 部电影，2028 年加入漫威电影宇宙",
+     "link": "https://www.ithome.com/0/993/117.htm",
+     "pubDate": "Sat, 22 Aug 2026 15:49:38 GMT",
+     "summary": "IT之家 8 月 22 日消息，漫威影业总裁凯文 · 费奇在上周举行的迪士尼 D23 活动期间表示，漫威对新版《X 战警》的规划并不局限于一部三部曲。 在 D23 期间，漫威正式公布了《X 战警》重启系列电影的核心阵容，包括萨迪 · 辛克饰演琴 · 葛蕾、基特 · 康纳饰演镭射眼、克里斯托弗 · 阿波特饰演 X 教授、萨玛拉 · 维文饰演白皇后、玛雅 · 博伊德饰演暴风女。 凯文 · 费奇表示，团队特意组建了非常年轻的演员阵容，目的是为未来数十年的故事讲述奠定基础。漫威希望未来继续围绕这些角色推出更多故事。 “我们有着近 90 年的漫画，还有很多故事素材尚未被影视化。我们公布了一组非常年轻的新",
+     "source": "IT之家",
+     "zh": "凯文 · 费奇谈新版《X 战警》：演员们都很年轻，可以再拍 100 部电影，2028 年加入漫威电影宇宙"
+    },
+    {
+     "title": "Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份",
+     "link": "https://www.solidot.org/story?sid=85164",
+     "pubDate": "Sat, 22 Aug 2026 23:30:51 +0800",
+     "summary": "2022 年 9 月一名黑客泄漏了当时尚未宣布的 GTA6 的图片和视频，此事促使开发商 Rockstar Games 加强了安全措施。然而到了 2026 年 8 月游戏还有 3 个月即将发售时，自称 Cyber​​Leek 的个人或组织发布了 GTA6 的一系列新视频，视频显示泄密者手中可能有一个可运行的版本，也就是游戏本体被盗了。彭博社援引知情人士的消息称，Rockstar 尚未确定泄密者身份，也不知道游戏本体是如何泄漏出去的。该公司目前正全力查明泄露源头并追踪泄密者。为了识别泄密者，Rockstar 母公司 Take-Two 的律师正向法院申请传票，要求微软和 Discord 提供信息帮",
+     "source": "Solidot",
+     "zh": "Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份"
+    },
+    {
      "title": "国家广播电视总局：截至 6 月末，全国有线电视实际用户 2.05 亿户、广电 5G 用户近 4400 万户",
      "link": "https://www.ithome.com/0/993/116.htm",
      "pubDate": "Sat, 22 Aug 2026 15:28:22 GMT",
@@ -1778,28 +1818,12 @@ window.INDUSTRY_DATA = {
      "zh": "亚洲最大海上原油处理平台惠州 19-6 完成封顶"
     },
     {
-     "title": "微软 Windows IKE 严重漏洞确认已遭恶意利用：攻击者无需认证即可远程执行代码",
-     "link": "https://www.ithome.com/0/993/113.htm",
-     "pubDate": "Sat, 22 Aug 2026 15:15:37 GMT",
-     "summary": "IT之家 8 月 22 日消息，美国网络安全和基础设施安全局（CISA）于 8 月 18 日将 Windows Internet Key Exchange（IKE）服务扩展组件中的一个严重远程代码执行漏洞纳入其已知被利用漏洞目录（KEV），并确认该漏洞已被积极利用。 该漏洞编号为 CVE-2026-33824，攻击者无需身份验证即可通过网络发送特制数据包，在未安装安全更新的 Windows 设备上执行代码。 好消息是，微软在 4 月 14 日发布的安全更新中已经修复这一漏洞。当时微软共修复了 165 个新披露的漏洞，CVE-2026-33824 是其中 8 个被评为“严重”等级的漏洞之一。 该",
-     "source": "IT之家",
-     "zh": "微软 Windows IKE 严重漏洞确认已遭恶意利用：攻击者无需认证即可远程执行代码"
-    },
-    {
-     "title": "10 美元买全套 id 游戏？1996 年《雷神之锤》光盘加密 39 天即被破解，id Software 积压 15 万张库存卖不掉",
-     "link": "https://www.ithome.com/0/993/112.htm",
-     "pubDate": "Sat, 22 Aug 2026 15:01:38 GMT",
-     "summary": "IT之家 8 月 22 日消息，1996 年，id Software 曾尝试通过一张售价 9.95 美元 （IT之家注：现汇率约合 67 元人民币） 的《雷神之锤》（Quake）共享光盘，让玩家直接通过电话购买解锁码的形式购买游戏。 不过，这套看似完善的数字版权保护方案仅维持了 39 天就被黑客组织 GNOMON 破解，导致 id Software 停止销售相关光盘，包括约 15 万张库存盘。 当地时间 8 月 17 日，谷歌软件工程师 Fabien Sanglard 在其博客上回顾了这段历史。 据介绍，id Software 在 1996 年推出《雷神之锤》时，互联网尚未普及，所以游戏厂商通",
-     "source": "IT之家",
-     "zh": "10 美元买全套 id 游戏？1996 年《雷神之锤》光盘加密 39 天即被破解，id Software 积压 15 万张库存卖不掉"
-    },
-    {
-     "title": "1299 元：华硕 ROG 雷切 2 PRO 无线手柄上架，三模设计、全彩显示屏",
-     "link": "https://www.ithome.com/0/993/111.htm",
-     "pubDate": "Sat, 22 Aug 2026 15:00:04 GMT",
-     "summary": "IT之家 8 月 22 日消息，华硕 ROG 雷切 2 PRO 无线手柄现已在电商平台上架，新品定位高端，正面配备一块全彩显示屏，采用热插拔 TMR 摇杆、微动按键， 定价 1299 元 。 IT之家注意到，这款手柄正面配备全彩面板，支持调整配置文件、RGB 灯效、按键映射等，还能够播放动画。支持 8K 回报率，可带来更低的延迟。 规格方面，这款手柄采用 TMR 传感器驱动的摇杆，支持热插拔，可更换高矮两种摇杆帽。背面和顶部带有额外肩键、背部按键，后者支持拆卸。该手柄的扳机还支持双模调节，适应不同游戏，方向键、ABXY 按键等均采用微动开关，可提供更低延迟的响应。 1 此外，这款手柄支持底座充",
-     "source": "IT之家",
-     "zh": "1299 元：华硕 ROG 雷切 2 PRO 无线手柄上架，三模设计、全彩显示屏"
+     "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+     "link": "https://quantumi.sh/public/labs.html",
+     "pubDate": "Sat, 22 Aug 2026 14:54:07 +0000",
+     "summary": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 25 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "十一实验室、十二实验室、十三实验室"
     },
     {
      "title": "Ox Alpha, a \"stealth model\" from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter (Rohail Saleem/Wccftech)",
@@ -1810,18 +1834,10 @@ window.INDUSTRY_DATA = {
      "zh": "Ox Alpha 是一个来自未知 AI 实验室的“隐形模型”，具有 1M 代币多模式环境和每天 100T 代币的容量，在 OpenRouter 上发布后迅速走红（Rohail Saleem/Wccftech）"
     },
     {
-     "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-     "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-     "pubDate": "Sat, 22 Aug 2026 14:13:05 +0000",
-     "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs Comments URL: https://news.ycombinator.com/item?id=49399941 Points: 27 # Comments: 26",
-     "source": "Hacker News",
-     "zh": "挖掘我技能的坟墓：好莱坞创意人员训练人工智能来完成他们的工作"
-    },
-    {
      "title": "A Friendly Introduction to Racket",
      "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
      "pubDate": "Sat, 22 Aug 2026 14:08:19 +0000",
-     "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 23 # Comments: 2",
+     "summary": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 32 # Comments: 3",
      "source": "Hacker News",
      "zh": "球拍的友好介绍"
     },
@@ -1842,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "廉价的能源、丰富的土地以及毗邻北京的优势使内蒙古乌兰察布成为一个数据中心枢纽，已建成或在建的数据中心约有 100 个（Zeyi Yang/Wired）"
     },
     {
-     "title": "超过427万辆汽车被召回：比起恐惧，更应看到进步的光芒",
-     "link": "https://www.huxiu.com/article/4885193.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 21:35:48 +0800",
-     "summary": "本文来自微信公众号： 电厂 ，作者：商迪安，原文标题：《电厂 | 超过427万辆汽车被召回：比起恐惧 更应看到进步的光芒》 8月21日，中国汽车行业史上最大规模的备案召回浮出水面。特斯拉、零跑、小鹏、吉利、小米、奇瑞、北汽蓝谷麦格纳、东风、中国一汽共9家汽车制造商向国家市场监督管理总局备案召回计划，涉及车辆超过427万辆。 乍看之下召回的车辆规模惊人，把“召回”和“427万辆”放在一起，尤其能挑动情绪。有人嘲讽“你看，我说新能源汽车不能买吧，问题多”，也有人疑惑“我的车在被召回范围，还能开吗？是不是有安全隐患”。甚至还有人认为“我的车被召回了，就更不值钱了”。 其实，细究之下就能发现，9家汽车",
-     "source": "虎嗅",
-     "zh": "超过427万辆汽车被召回：比起恐惧，更应看到进步的光芒"
-    },
-    {
      "title": "因门把手安全隐患特斯拉在华召回近 300 万辆车",
      "link": "https://www.solidot.org/story?sid=85163",
      "pubDate": "Sat, 22 Aug 2026 21:32:18 +0800",
@@ -1861,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "The New MCP Roadmap",
      "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
      "pubDate": "Sat, 22 Aug 2026 13:31:34 +0000",
-     "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 60 # Comments: 47",
+     "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 80 # Comments: 54",
      "source": "Hacker News",
      "zh": "新 MCP 路线图"
     },
@@ -1869,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
      "link": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
      "pubDate": "Sat, 22 Aug 2026 13:24:06 +0000",
-     "summary": "Article URL: https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/ Comments URL: https://news.ycombinator.com/item?id=49399524 Points: 94 # Comments: 34",
+     "summary": "Article URL: https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/ Comments URL: https://news.ycombinator.com/item?id=49399524 Points: 114 # Comments: 44",
      "source": "Hacker News",
      "zh": "贾斯汀·比伯对《对不起》的康德式批判"
     },
@@ -1882,22 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "使用胁迫密码删除手机数据的美国公民被控妨碍联邦执法的重罪"
     },
     {
-     "title": "快手“基金化”，满仓可灵",
-     "link": "https://www.huxiu.com/article/4885190.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 21:11:34 +0800",
-     "summary": "本文来自微信公众号： 智械岛 ，作者：沈怀铮 一家千亿级公司把自己的命运交给AI独角兽的上市窗口，这在互联网历史上，并不多见。 8月19日，快手发布2026年第二季度财报。 数据显示，快手当季实现营收355亿元，同比仅增长1.4%，创下上市以来单季收入增速新低。经调整净利润为39亿元，同比大幅下滑30.3%。毛利率从去年同期的55.7%滑落至51.6%，盈利能力收窄。 财报发布次日，快手股价暴跌11%，报收33.64港元，逼近上市以来的最低价位。截至8月20日收盘，快手股价年初至今的累计跌幅已超过40%，公司总市值跌至不足1500亿港元。 在整体低迷的财务数据中，可灵AI成为这份财报唯一的亮点",
-     "source": "虎嗅",
-     "zh": "快手“基金化”，满仓可灵"
-    },
-    {
-     "title": "68岁的我着急给94岁的老妈买鱼，突然人就自由落体了",
-     "link": "https://www.huxiu.com/article/4885191.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 21:10:51 +0800",
-     "summary": "本文来自微信公众号： 果壳病人 ，作者：归航，编辑：原野、黎小球 作为一个68岁高龄的“果壳病人”粉丝，我几乎每天都要登上公众号看一看新发的文章，可无论如何也不会想到自己也会产生投稿的冲动。 因为一场意外，我住进了医院，经历了人生中第一次手术（生孩子是顺产）。我把这次经历写出来，是想给我们这个年龄层的人一个提醒：老了就要放慢生活节奏，首先慢慢吃，再者慢慢走，不论做什么都要记住“悠着点、慢半拍”！ 突然脚下一绊，人就自由落体了 那是一个星期天，吃过早饭后我对94岁的老妈说：“我去买条鱼，中午给你做清蒸鱼吃哦！”然后我就高高兴兴地提着买菜的包下楼了。 一路上哼着老年大学才学的新歌《声声慢》，想到这",
-     "source": "虎嗅",
-     "zh": "68岁的我着急给94岁的老妈买鱼，突然人就自由落体了"
-    },
-    {
      "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
      "link": "https://www.wired.com/review/saily-ultra-esim/",
      "pubDate": "Sat, 22 Aug 2026 13:00:00 +0000",
@@ -1906,36 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "Saily Ultra eSIM Prem Plan 回顾：充满福利"
     },
     {
-     "title": "45卷日本侵华密档首次公开，到底藏了什么？",
-     "link": "https://www.huxiu.com/article/4884013.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 21:00:00 +0800",
-     "summary": "45卷日本侵华密档首次公开，揭露了日本当年不仅想经济掠夺，更是打算移民换种、文化同化，把东北变成新日本。百万户移民、神社遍地、教材被日化，连溥仪都被要求祭拜日本神社。",
-     "source": "虎嗅",
-     "zh": "45卷日本侵华密档首次公开，到底藏了什么？"
-    },
-    {
-     "title": "美债没救成，却坑了美元，黄金暴涨，贝森特“偷鸡不成蚀把米”",
-     "link": "https://www.huxiu.com/article/4885186.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 20:43:04 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：杨宸 鲍奕龙，原文标题：《美债没救成，却坑了美元，黄金暴涨！贝森特“偷鸡不成蚀把米”》 美国财政部长贝森特压制长端美债收益率的努力，对市场的直接影响仅维持了不到一天。 然而此举推动美元走软，黄金与比特币双双上涨——这一\"货币贬值交易\"逻辑得到强化，背后驱动力来自不断膨胀的美国财政赤字，以及市场对美国经济政策走向的深层忧虑。 在宣布扩大回购后，贝森特在接受采访时表示市场\"有点过度反应\"，并强调财政部拥有\"强大的工具箱\"。然而长端美债收益率仅短暂回落，随后便重新承压，整周基本持平。 与此同时，比特币本周涨超25%，突破78,000美元。 黄金则再度大涨，突",
-     "source": "虎嗅",
-     "zh": "美债没救成，却坑了美元，黄金暴涨，贝森特“偷鸡不成蚀把米”"
-    },
-    {
      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
      "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
      "pubDate": "Sat, 22 Aug 2026 12:07:06 +0000",
-     "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy Comments URL: https://news.ycombinator.com/item?id=49398904 Points: 125 # Comments: 64",
+     "summary": "Article URL: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy Comments URL: https://news.ycombinator.com/item?id=49398904 Points: 136 # Comments: 79",
      "source": "Hacker News",
      "zh": "钩住、抓住、收获和隐藏：Meta 在第一周制定的所谓策略"
-    },
-    {
-     "title": "张丹丹失言背后，真问题是谁来缴社保",
-     "link": "https://www.huxiu.com/article/4885170.html?f=rss",
-     "pubDate": "Sat, 22 Aug 2026 20:04:14 +0800",
-     "summary": "本文来自微信公众号： 赛格大道 ，作者：张明扬 北大国发院教授张丹丹，今天可能创下了中国学者单日被怼次数的历史最高纪录。 今天一早，在各种微信群里，张丹丹和她的那句名言“灵活（就业）本身就是一种福利”，几乎成为了唯一的话题，虽然批判她的居多，但也有为她辩护的。 辩护者的一大理由是，张丹丹的这句话是有上下文和语境的，这样被单独拿出来说，既不准确也不公平。 这个辩护理由当然成立，大部分批评张丹丹的人恐怕并没有看完整个采访，但是，既然“拆条”已经成为中国互联网文化的常态，短视频（片段）也成为了国内网友接受信息的主要途径，再去纠结这个似乎也没太大意义。 如果看了采访全文，以及对张丹丹平日的学术观点有一",
-     "source": "虎嗅",
-     "zh": "张丹丹失言背后，真问题是谁来缴社保"
     },
     {
      "title": "Putting mice into hibernation causes a major loss of synapses",
@@ -1984,6 +1952,38 @@ window.INDUSTRY_DATA = {
      "summary": "These toppers will transform your mattress into exactly what you need, whether that’s a super-plush pillow top, memory foam, or targeted back support.",
      "source": "WIRED",
      "zh": "我尝试过的最好的床垫面层（2026）：支撑型、毛绒型、记忆海绵型"
+    },
+    {
+     "title": "Inside the World Robot Conference in Beijing, drawing over 300 exhibitors; Unitree founder Wang Xingxing said the industry&apos;s \"ChatGPT moment\" has yet to come (Financial Times)",
+     "link": "https://www.techmeme.com/260822/p5#a260822p5",
+     "pubDate": "Sat, 22 Aug 2026 06:30:01 -0400",
+     "summary": "Financial Times : Inside the World Robot Conference in Beijing, drawing over 300 exhibitors; Unitree founder Wang Xingxing said the industry's &ldquo;ChatGPT moment&rdquo; has yet to come &nbsp; &mdash;&nbsp; Beijing policymakers have made robotics a &lsquo;strategic priority&rsquo;&nbsp; &mdash;&nb",
+     "source": "Techmeme",
+     "zh": "北京世界机器人大会内，吸引超过300家参展商； Unitree创始人王星星表示，行业的“ChatGPT时刻”尚未到来（金融时报）"
+    },
+    {
+     "title": "Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments",
+     "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
+     "pubDate": "Sat, 22 Aug 2026 10:30:00 +0000",
+     "summary": "Plus: Apple sends out an “unprecedented” number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
+     "source": "WIRED",
+     "zh": "您过期的 Visa 卡可能会被“僵尸化”以进行非接触式支付"
+    },
+    {
+     "title": "王坚的“遗产”，为阿里留出后路",
+     "link": "https://www.tmtpost.com/8112848.html",
+     "pubDate": "Sat, 22 Aug 2026 18:27:40 +0800",
+     "summary": "阿里的资金不会再过多投向即时零售和电商，而是投向基础设施建设，投向大模型能力提升，静待后者的商业化爆发。从本季度开始，AI已经是阿里唯一的路。",
+     "source": "钛媒体",
+     "zh": "王坚的“遗产”，为阿里留出后路"
+    },
+    {
+     "title": "订单跑在收入前，透过万国数据看数据中心的真相",
+     "link": "https://www.tmtpost.com/8112373.html",
+     "pubDate": "Sat, 22 Aug 2026 18:26:20 +0800",
+     "summary": "AI订单涨疯了，利润还在路上。",
+     "source": "钛媒体",
+     "zh": "订单跑在收入前，透过万国数据看数据中心的真相"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "What is the ‘Android Pulse’ app that just appeared in Google Play Store updates?",
+     "link": "https://9to5google.com/2026/08/22/android-pulse-app-google-play/",
+     "pubDate": "Sat, 22 Aug 2026 15:50:56 +0000",
+     "summary": "On Saturday morning, you might have noticed an app called “Android Pulse” appearing in the list of available Google Play updates.",
+     "source": "9to5Google",
+     "zh": "刚刚出现在 Google Play 商店更新中的“Android Pulse”应用程序是什么？"
+    },
     {
      "title": "Before you buy a used GameCube, check for this common issue",
      "link": "https://www.engadget.com/2240118/before-you-buy-used-gamecube-check-region-locked/",
@@ -2127,7 +2135,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 22 Aug 2026 11:03:02 +0200",
      "summary": "The Google Pixel 11 series, which went up for pre-order last week, is now officially available for purchase on Amazon UK. Alongside the Pixel phones, Samsung’s latest Galaxy foldables and the Galaxy S26 series have received price cuts. While the Google Pixel 11 lineup hasn’t received any price cut, ",
      "source": "GSMArena",
-     "zh": "优惠：Pixel 11 系列开始销售，最新款 Galaxy 手机享受折扣"
+     "zh": "优惠：Pixel 11 系列开始销售，最新 Galaxy 手机享受折扣"
     },
     {
      "title": "I’m quitting Kindle, and Amazon’s new DRM update proves why you should too",
@@ -2224,14 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "Besides expanded availability across apps, the double pinch gesture on the Pixel Watch 5 benefits from being able to “Customize actions” across music and alarms.",
      "source": "9to5Google",
      "zh": "Pixel Watch 5 可让您自定义双指捏合以关闭闹钟、跳过音乐等"
-    },
-    {
-     "title": "This pocket-sized camera zooms to 2000mm and tracks wildlife on its own",
-     "link": "https://www.dpreview.com/articles/this-pocket-sized-camera-zooms-to-2000mm-and-tracks-wildlife-on-its-own/",
-     "pubDate": "Fri, 21 Aug 2026 19:31:45 +0000",
-     "summary": "The RocXZoom pairs a 50x hybrid zoom with an AI tracking system that recognizes more than 300 bird species. It's boasts the kind of reach that used to demand a telephoto lens and a tripod, all in a body that fits in a jacket pocket.",
-     "source": "DPReview",
-     "zh": "这款口袋大小的相机可变焦至 2000 毫米并自行追踪野生动物"
     }
    ]
   },
@@ -2242,12 +2242,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "叙利亚谴责以色列袭击“严重侵犯叙主权”",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850221519.html",
+     "pubDate": "Sun, 23 Aug 2026 00:10:52 +0800",
+     "summary": "叙利亚过渡政府外交部22日发表声明，强烈谴责以色列 无人机 当天在叙利亚大马士革农村省拜特金地区袭击一辆民用车辆，此次袭击造成多名平民受伤。 声明说，此次袭击严重侵犯叙利亚国家主权与领土完整，公然违反国际法。以色列持续侵犯叙利亚领土，将加剧地区紧张局势、破坏地区稳定，威胁平民生命安全。叙利亚呼吁国际社会及联合国安理会履行职责，制止以色列对叙利亚主权的持续侵犯。 以色列国防军当天早些时候发表声明称，以军当天在叙利亚南部向一名正处于发动袭击“最后准备阶段”的人员开火。以军称，该人员活动对以军士兵构成“直接威胁”。 近期，以色列已多次袭击叙利亚。以色列国防部长卡茨22日发表声明说，以色列国防军18日",
+     "source": "东方财富股票",
+     "zh": "叙利亚谴责以色列袭击“严重侵犯叙主权”"
+    },
+    {
+     "title": "加拿大总理卡尼：关键矿产可作为对美谈判筹码",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850221128.html",
+     "pubDate": "Sun, 23 Aug 2026 00:03:15 +0800",
+     "summary": "加拿大总理卡尼：关键矿产可作为对美谈判筹码。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "加拿大总理卡尼：关键矿产可作为对美谈判筹码"
+    },
+    {
+     "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+     "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
+     "pubDate": "Sat, 22 Aug 2026 16:00:00 GMT",
+     "summary": "“My CPA hasn’t gotten back to me.”",
+     "source": "MarketWatch",
+     "zh": "“我的时间不多了”：我卖掉了价值 30 万美元的出租房产，损失了 7.5 万美元。我应该再买一个来避税吗？"
+    },
+    {
+     "title": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive",
+     "link": "https://finance.yahoo.com/economy/policy/articles/mohamed-el-erian-says-30-160000225.html",
+     "pubDate": "2026-08-22T16:00:00Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Mohamed El-Erian表示，30年期国债收益率为5.27%标志着结构性转变，这将使美国变得更加昂贵"
+    },
+    {
+     "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+     "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+     "pubDate": "Sat, 22 Aug 2026 15:59:29 GMT",
+     "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+     "source": "CNBC",
+     "zh": "随着美加贸易谈判破裂，卡尼表示报复性关税将于 9 月 8 日开始"
+    },
+    {
+     "title": "普京称俄军加大对乌企业打击",
+     "link": "http://finance.eastmoney.com/news/1351,202608223850215668.html",
+     "pubDate": "Sat, 22 Aug 2026 23:54:45 +0800",
+     "summary": "当地时间22日，俄罗斯总统普京表示，乌克兰武装部队在过去40天里持续使用导弹和 无人机 对俄罗斯发动攻击，企图借此击败俄罗斯，但这“不过是一场冒险”。他称，乌军的打击并未造成任何实质性转折。 普京还称，作为对乌军打击俄罗斯境内民用设施的回应，俄军加大了对乌克兰企业的打击，且俄方的报复性打击 “更具破坏性”。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "普京称俄军加大对乌企业打击"
+    },
+    {
+     "title": "加拿大总理卡尼：美加双方在媒体监管规则、法语相关议题上存在分歧",
+     "link": "http://finance.eastmoney.com/news/1351,202608223850217067.html",
+     "pubDate": "Sat, 22 Aug 2026 23:54:20 +0800",
+     "summary": "加拿大总理卡尼：美加双方在媒体监管规则、法语相关议题上存在分歧。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "加拿大总理卡尼：美加双方在媒体监管规则、法语相关议题上存在分歧"
+    },
+    {
+     "title": "加拿大总理卡尼：我们并不情愿实施反制关税 但已别无选择",
+     "link": "http://finance.eastmoney.com/news/1351,202608223850216883.html",
+     "pubDate": "Sat, 22 Aug 2026 23:54:20 +0800",
+     "summary": "加拿大总理卡尼：我们并不情愿实施反制关税，但已别无选择。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "加拿大总理卡尼：我们并不情愿实施反制关税 但已别无选择"
+    },
+    {
+     "title": "加拿大总理卡尼：我们如今对美方的诉求有了全新认知",
+     "link": "http://finance.eastmoney.com/news/1351,202608223850216770.html",
+     "pubDate": "Sat, 22 Aug 2026 23:54:20 +0800",
+     "summary": "加拿大总理卡尼：我们如今对美方的诉求有了全新认知。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "加拿大总理卡尼：我们如今对美方的诉求有了全新认知"
+    },
+    {
+     "title": "一日8%涨幅归零！比特币跳水，加密货币近25万人爆仓",
+     "link": "http://www.eeo.com.cn/2026/0822/1007989.shtml",
+     "pubDate": "Sat, 22 Aug 2026 23:26:15 +0800",
+     "summary": "8月22日，加密货币市场震荡加剧，连续5日走强的比特币盘中出现直线跳水。截至22:28，跌幅0.04%，今早约8%的涨幅归零。 近24小时，全球加密货币市场近25万人被爆仓，爆仓总金额12.5亿美元。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/D9A3E3D35BAE...",
+     "source": "经济观察网",
+     "zh": "一日8%涨幅归零！比特币跳水，加密货币近25万人爆仓"
+    },
+    {
      "title": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
      "pubDate": "2026-08-22T15:25:48Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "道琼斯期货：随着英伟达的崛起，市场反弹修复了一些损失；特朗普对加拿大征收新关税"
+     "zh": "道琼斯期货：随着英伟达的崛起，市场反弹修复了一些损害；特朗普对加拿大征收新关税"
     },
     {
      "title": "General Motors inks tentative labor deals with Canada’s Unifor union",
@@ -2256,6 +2336,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "通用汽车与加拿大 Unifor 工会签署临时劳工协议"
+    },
+    {
+     "title": "偷税漏税被罚后，初代网红温婉 “复活”：制售Prada等高仿大牌服装，近百个号带货超百万元",
+     "link": "http://www.eeo.com.cn/2026/0822/1007987.shtml",
+     "pubDate": "Sat, 22 Aug 2026 23:13:16 +0800",
+     "summary": "蓝鲸新闻8月22日讯（记者 陆鹏鹏）“我买了Miu Miu的原版给大家开的，没有一个网红能做到如此牛的版本，除了没有LOGO外一模一样。” 在一条带货视频中，初代网红温婉举着一条连衣裙，对着镜头说出了上述这段话。下方购物车链接显示，这款商品已售出500余件。 蓝鲸新闻记者调查发现，因偷税漏税被处罚、因售卖“飞丝羽绒服”遭消费者打假之后，温婉并未隐退，而是通过一批矩阵账号，大量销售高仿奢侈品服装，相关服...",
+     "source": "经济观察网",
+     "zh": "偷税漏税被罚后，初代网红温婉 “复活”：制售Prada等高仿大牌服装，近百个号带货超百万元"
     },
     {
      "title": "When he dies, Warren Buffett wants 90% of wife’s inheritance put into 1 investment. Here’s what it is, and how to get it",
@@ -2274,28 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "内幕交易：AMD、美光和可口可乐等知名企业"
     },
     {
-     "title": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
-     "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-     "pubDate": "Sat, 22 Aug 2026 14:53:32 GMT",
-     "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
-     "source": "CNBC",
-     "zh": "美加贸易谈判破裂，迎来新一轮关税浪潮"
-    },
-    {
      "title": "AI jobs advertise $177,000 salaries — more than double non-AI roles — yet women land just 26% of hires",
      "link": "https://finance.yahoo.com/technology/ai/articles/ai-jobs-advertise-177-000-143000655.html",
      "pubDate": "2026-08-22T14:30:00Z",
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "人工智能职位的薪资为 177,000 美元，是非人工智能职位的两倍多，但女性仅占员工总数的 26%"
-    },
-    {
-     "title": "Tariff refunds are hitting retailers' wallets. Here's what they're doing with the money.",
-     "link": "https://finance.yahoo.com/markets/article/tariff-refunds-are-hitting-retailers-wallets-heres-what-theyre-doing-with-the-money-142951738.html",
-     "pubDate": "2026-08-22T14:29:51Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "关税退款正在打击零售商的钱包。这就是他们用这笔钱做的事情。"
     },
     {
      "title": "Notable tech headlines for the week: Nvidia, Micron, Broadcom in focus",
@@ -2346,6 +2418,14 @@ window.INDUSTRY_DATA = {
      "zh": "盈利记分牌：标普 500 指数中所有 12 家主要报告公司的每股收益均高于预期； 11 实现同比增长"
     },
     {
+     "title": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”",
+     "link": "http://www.eeo.com.cn/2026/0822/1007969.shtml",
+     "pubDate": "Sat, 22 Aug 2026 21:26:11 +0800",
+     "summary": "资料图 南方财经 21世纪经济报道记者 郑青亭 北京报道 美国国债市场近期持续承压之际，桥水基金创始人瑞·达利欧（Ray Dalio）再次发出警告：美国政府财政状况正在进入一个关键“转折点”（inflection point），如果不能及时改变当前的债务增长路径，美国债务危机可能在未来几年内加速显现。 8月21日，达利欧在个人网站发表题为《国家如何走向破产：当下变局背后的内在逻辑》（How Countries Go Br...",
+     "source": "经济观察网",
+     "zh": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”"
+    },
+    {
      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
      "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
      "pubDate": "Sat, 22 Aug 2026 13:01:00 GMT",
@@ -2378,6 +2458,14 @@ window.INDUSTRY_DATA = {
      "zh": "从濒临出局到市值暴涨440亿美元：Moderna的癌症疫苗十年豪赌"
     },
     {
+     "title": "海外收入减少11%，泡泡玛特王宁：2026是调整年",
+     "link": "http://www.eeo.com.cn/2026/0822/1007956.shtml",
+     "pubDate": "Sat, 22 Aug 2026 20:32:03 +0800",
+     "summary": "2026年销售额增长并不是泡泡玛特最主要的目标，相较于短期业绩，王宁更关注公司治理和经营的健康程度。司德称，海外开店已经由扩大网络覆盖进入“质量远大于数量”的阶段。",
+     "source": "经济观察网",
+     "zh": "海外收入减少11%，泡泡玛特王宁：2026是调整年"
+    },
+    {
      "title": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
      "link": "https://www.marketwatch.com/story/move-over-credit-cards-social-media-stars-are-tapping-magic-wands-to-buy-things-62e475d4?mod=mw_rss_topstories",
      "pubDate": "Sat, 22 Aug 2026 12:30:00 GMT",
@@ -2386,100 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "信用卡让开吧：社交媒体明星正在利用魔杖来买东西"
     },
     {
-     "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-     "link": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-     "pubDate": "Sat, 22 Aug 2026 12:12:03 GMT",
-     "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
-     "source": "CNBC",
-     "zh": "Meta 是最新一家进入她法庭的科技巨头。认识伊冯·冈萨雷斯·罗杰斯法官"
-    },
-    {
-     "title": "Warren Buffett Watch: It&apos;s Buffett, not Abel, who appears to be calling the shots on stocks",
-     "link": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
-     "pubDate": "Sat, 22 Aug 2026 12:06:37 GMT",
-     "summary": "New Berkshire Hathaway CEO Greg Abel appears to be letting Warren Buffett and portfolio manager Ted Weschler make all the decisions on the company's equities.",
-     "source": "CNBC",
-     "zh": "沃伦·巴菲特观察：似乎是巴菲特而不是阿贝尔在股市上发号施令"
-    },
-    {
-     "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
-     "link": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
-     "pubDate": "Sat, 22 Aug 2026 12:00:01 GMT",
-     "summary": "From McDonald's to Wendy's, longtime Coke customers have been expanding their beverage offerings to boost their profit margins.",
-     "source": "CNBC",
-     "zh": "可口可乐秘密创新实验室的内部：这家饮料巨头希望如何实现脏汽水和清凉饮料的自动化"
-    },
-    {
-     "title": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
-     "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 12:00:00 GMT",
-     "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
-     "source": "MarketWatch",
-     "zh": "“我们是忠诚的基督徒”：我们的儿子和儿媳在一场政治争论后将我们从他们的生活中剔除。我们应该更改 300 万美元的遗嘱吗？"
-    },
-    {
-     "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
-     "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 12:00:00 GMT",
-     "summary": "“Grandma feels that she was pressured by my mother into taking out a $50,000 HELOC.”",
-     "source": "MarketWatch",
-     "zh": "“气氛相当紧张”：我 99 岁的祖母想把我母亲从她的遗嘱中剔除。我应该干预吗？"
-    },
-    {
-     "title": "Lula turns to Trump as unlikely ally in Brazil’s clash with Marco Rubio",
-     "link": "https://www.ft.com/content/da43f854-8083-4ec1-86da-76b47c84e64a?syn-25a6b1a6=1",
-     "pubDate": "Sat, 22 Aug 2026 11:00:09 GMT",
-     "summary": "Brazil’s president and US secretary of state exchange barbs ahead of the South American country’s election",
-     "source": "Financial Times",
-     "zh": "卢拉在巴西与卢比奥的冲突中将特朗普视为不太可能的盟友"
-    },
-    {
-     "title": "贝森特\"工具箱\"难敌油价与消费疲软双重夹击，高盛：“市场弥漫着滞胀的味道”",
-     "link": "https://wallstreetcn.com/articles/3780062",
-     "pubDate": "Sat, 22 Aug 2026 18:50:50 +0800",
-     "summary": "贝森特这周忙着给债市“灭火”，但市场似乎并不买账。 美国财政部长贝森特连续释放政策信号，试图通过国债回购、财政整合等手段压低长端美债收益率，但10年期、30年期美债收益率短暂下行后迅速反弹。与此同时，油价单周飙升逾7%，黄金上涨约3.5%，美元走弱，沃尔玛等消费数据也释放降温信号。 债市不肯降、油价却在涨，消费又开始走弱——多项资产同时异动，市场正在重新交易“滞胀”逻辑。 高盛单一Delta交易台负责人Rich Privorotsky直言，当前跨资产市场已经“弥漫着滞胀的味道”。 在他看来，贝森特手中的政策“工具箱”虽然庞大，但要同时应对长端利率、财政赤字、能源价格和消费疲软，难度正在上升。 ",
-     "source": "华尔街见闻",
-     "zh": "贝森特\"工具箱\"难敌油价与消费疲软双重夹击，高盛：“市场弥漫着滞胀的味道”"
-    },
-    {
-     "title": "Ahead of tough new U.S. sanctions, Iran criticizes &apos;extraterritorial sovereignty&apos;",
-     "link": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
-     "pubDate": "Sat, 22 Aug 2026 10:34:23 GMT",
-     "summary": "U.S. Treasury Secretary Scott Bessent told CNBC on Thursday that the proposed economic measures will likely negate the need for major U.S. military operations.",
-     "source": "CNBC",
-     "zh": "在美国实施新的严厉制裁之前，伊朗批评“治外法权”"
-    },
-    {
-     "title": "硅谷调研后，高盛的总结：Agent进入执行时代，AI竞争转向工作流，世界模型崛起",
-     "link": "https://wallstreetcn.com/articles/3780055",
-     "pubDate": "Sat, 22 Aug 2026 17:54:17 +0800",
-     "summary": "AI正在进入从“会回答”走向“能执行”的新阶段。 据追风交易台，高盛最新报告显示， AI商业化正从“按席位订阅”转向按消费量、交易量和结果收费；与此同时，Agent正从辅助工具走向工作流执行者，产业价值也在从模型本身向专有数据、业务上下文和领域专业能力迁移。 这意味着，AI产业竞争正在从“谁的模型更强”转向“谁能真正掌握工作流”。模型能力依然重要，但能否进入企业生产环境、理解业务上下文并稳定完成任务，将成为更关键的竞争壁垒。 这一判断来自高盛近期对硅谷AI产业链的实地考察。8月18日至19日，高盛连续第三年走访AI初创企业、头部风投机构及斯坦福大学、加州大学伯克利分校和旧金山分校的研究人员。高",
-     "source": "华尔街见闻",
-     "zh": "硅谷调研后，高盛的总结：Agent进入执行时代，AI竞争转向工作流，世界模型崛起"
-    },
-    {
-     "title": "美加谈判破裂！美国对部分加拿大商品加征50%关税，加拿大酝酿反制",
-     "link": "https://wallstreetcn.com/articles/3780061",
-     "pubDate": "Sat, 22 Aug 2026 17:46:14 +0800",
-     "summary": "美国与加拿大贸易摩擦骤然升级，经过谈判双方仍未能达成协议。美国随即对某些加拿大商品加征50%关税，加拿大则宣布准备采取对等反制措施。 据央视新闻8月21日报道，美国贸易代表格里尔表示，加拿大已拒绝敲定贸易协议。格里尔称，美国已向加拿大提供了“更为优惠的市场准入条件”，若达成协议，本可“大幅降低关税”。但他指责加方拒绝接受，导致谈判破裂。 美高级官员表示，依据《斯穆特-霍利关税法》第338条款，对某些加拿大进口商品加征的50%关税将于美国东部时间8月22日凌晨0时01分生效。 与此同时，加拿大宣布暂停加美贸易谈判并实施对等反制。据新华社，加拿大总理卡尼表示，美方在最后一刻提出的修改条款“不公平且",
-     "source": "华尔街见闻",
-     "zh": "美加谈判破裂！美国对部分加拿大商品加征50%关税，加拿大酝酿反制"
-    },
-    {
-     "title": "特斯拉官宣！9月3日在奥斯汀举行Cybercab发布会",
-     "link": "https://wallstreetcn.com/articles/3780060",
-     "pubDate": "Sat, 22 Aug 2026 15:10:59 +0800",
-     "summary": "特斯拉正加速将专用无人驾驶车型Cybercab推向市场，这或将改变其Robotaxi的运营模式。 8月22日， 特斯拉在X平台宣布，将于当地时间9月3日在德克萨斯州奥斯汀举行Cybercab发布活动。 这款专为全无人驾驶设计的车型没有方向盘和刹车踏板，是特斯拉首款Robotaxi专用车型，有望加入奥斯汀车队，逐步改变目前以Model Y为主的运营模式。 据The Information此前报道，特斯拉计划分两步推进：先在公共道路上向员工提供Cybercab乘车服务，数天后再正式向公众开放。 上路前准备基本就绪 正式发布前，特斯拉已完成多项准备。自6月起，Cybercab已在包括奥斯汀在内的美国",
-     "source": "华尔街见闻",
-     "zh": "特斯拉官宣！9月3日在奥斯汀举行Cybercab发布会"
-    },
-    {
-     "title": "Trump’s challenge: $40tn debt, 6.7% mortgages and $5 diesel",
-     "link": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1",
-     "pubDate": "Sat, 22 Aug 2026 04:00:38 GMT",
-     "summary": "The president’s agenda is under strain as the Iran war pushes up prices and America’s finances worsen",
-     "source": "Financial Times",
-     "zh": "特朗普的挑战：40兆美元的债务、6.7%的抵押贷款和5美元的柴油"
+     "title": "座位是给人坐的，而不是用来放零食的",
+     "link": "http://www.eeo.com.cn/2026/0822/1007955.shtml",
+     "pubDate": "Sat, 22 Aug 2026 20:29:05 +0800",
+     "summary": "在这个案件中，两名女孩在资源最紧张、人群最密集的硬座车厢里，不选择向上购买高等级席别，反而选择通过“横向买断数量”的方式来圈地放行李和零食。这种行为本质上是用最低的成本去获得最大的收益。 如果“横向买断”在基础车厢里是完全合法的，铁路还要商务座和一等座干什么；是不是只要有钱，一个人就可以买下一整排二等座横躺着放零食，而让其他买不到票的普通人被迫去车厢连接处站立？这不只是管理上的倒退，更是对客运价格分级逻辑的自我否定。",
+     "source": "经济观察网",
+     "zh": "座位是给人坐的，而不是用来放零食的"
     }
    ]
   },
@@ -2543,7 +2543,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 22 Aug 2026 12:00:00 +0000",
      "summary": "In this excerpt from \"Trinity: An Illustrated History of the World’s First Atomic Test,\" author Emily Seyl looks at the buildup to the 1945 test that changed history. She explores the huge effort to design experiments that would ultimately establish whether the gargantuan explosion in the middle of ",
      "source": "Live Science",
-     "zh": "“最大的未知数是武器会释放多少能量”：科学家如何为三位一体核试验做准备"
+     "zh": "“最大的未知是武器会释放多少能量”：科学家如何为三位一体核试验做准备"
     },
     {
      "title": "Mysteries of the commonplace",
@@ -2575,7 +2575,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 18:00:00 +0000",
      "summary": "Scientists used fiber-optic cables to turn “thunderquakes” into underground maps that could help reveal hidden hazards beneath cities.",
      "source": "Science News",
-     "zh": "“雷震”的作用不仅仅是震动地面——他们还绘制了它的地图"
+     "zh": "“雷震”不只是让地面震动——他们还绘制了地震图"
     },
     {
      "title": "The importance of indoor airflow patterns in spreading airborne disease",
@@ -2599,7 +2599,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 21 Aug 2026 15:01:03 +0000",
      "summary": "Bacteria may build a memory of herbivore attack in the soil and coax new plants to attract wasps to rein in destructive pests.",
      "source": "Science News",
-     "zh": "受到攻击的植物留下了令人惊讶的后援呼声"
+     "zh": "受到攻击的植物留下了令人惊讶的支援信号"
     },
     {
      "title": "‘Huge Breakthrough’ in the Math of Imbalance",

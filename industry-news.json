@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/23 05:49:21",
+ "generated_at": "2026/8/23 06:24:22",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+     "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+     "pubDate": "Sat, 22 Aug 2026 21:46:56 +0000",
+     "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+     "source": "TechCrunch AI",
+     "zh": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors"
+    },
     {
      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
@@ -119,14 +127,6 @@
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia partners with data center developer Cloverleaf"
-    },
-    {
-     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-     "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-     "pubDate": "Fri, 21 Aug 2026 19:43:39 +0000",
-     "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-     "source": "TechCrunch AI",
-     "zh": "Nvidia just showed that the harness, not the AI model, is now the real hero"
     },
     {
      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
@@ -409,14 +409,6 @@
      "zh": "Questa One Updated at DAC 2026"
     },
     {
-     "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/epc-200826.shtml",
-     "pubDate": "Thu, 20 Aug 2026 17:51:06 +0100",
-     "summary": "Efficient Power Conversion Corp (EPC) of El Segundo, CA, USA — which makes enhancement-mode gallium nitride on silicon (eGaN) power field-effect transistors (FETs) and integrated circuits for power management applications — has announced mass production of the EPC2370, an ultra-low on-resistance 18V",
-     "source": "Semiconductor Today",
-     "zh": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures"
-    },
-    {
      "title": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure",
      "link": "https://www.eetimes.com/synopsys-updates-cxl-ip-portfolio-for-ai-era-infrastructure/",
      "pubDate": "Thu, 20 Aug 2026 14:07:45 +0000",
@@ -425,36 +417,12 @@
      "zh": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure"
     },
     {
-     "title": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/yole-200826.shtml",
-     "pubDate": "Thu, 20 Aug 2026 14:12:54 +0100",
-     "summary": "Power gallium nitride (GaN) has spent the past several years proving itself in consumer fast chargers, but that phase is ending, according to Yole Group’s annual report ‘Power GaN 2026’. GaN is now entering a broader, multi-market adoption cycle where AI data centers, electric vehicles, industrial s",
-     "source": "Semiconductor Today",
-     "zh": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems"
-    },
-    {
      "title": "The Fab Is Not the Finish Line",
      "link": "https://semiwiki.com/semiconductor-manufacturers/372312-the-fab-is-not-the-finish-line/",
      "pubDate": "Thu, 20 Aug 2026 13:00:58 +0000",
      "summary": "AI may close the design. The fab may finish the silicon. Production still has to realize the system. Semiconductor engineering is becoming extraordinarily capable. EDA platforms are expanding from individual design tasks toward increasingly complete system analysis. Multiphysics simulation is connec",
      "source": "SemiWiki",
      "zh": "The Fab Is Not the Finish Line"
-    },
-    {
-     "title": "Micross acquiring AEMtec, expanding reach into Europe",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/micross-200826.shtml",
-     "pubDate": "Thu, 20 Aug 2026 09:48:03 +0100",
-     "summary": "Micross Components Inc of Melville, NY, USA (which provides high-reliability microelectronic products and services for aerospace, defense, space, medical, energy, communications and industrial applications) has entered into a definitive agreement to acquire AEMtec GmbH of Berlin, Germany (a portfoli",
-     "source": "Semiconductor Today",
-     "zh": "Micross acquiring AEMtec, expanding reach into Europe"
-    },
-    {
-     "title": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/teksic-200826.shtml",
-     "pubDate": "Thu, 20 Aug 2026 09:41:16 +0100",
-     "summary": "Silicon carbide wafer manufacturing technology firm TekSiC AB of Linköping, Sweden has announced progress in its development of semi-insulating silicon carbide (SI-SiC), which Europe currently lacks the domestic capability to manufacture commercially. The material underpins some of the most demandin",
-     "source": "Semiconductor Today",
-     "zh": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers"
     },
     {
      "title": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing",
@@ -495,6 +463,30 @@
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
+    },
+    {
+     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
+     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
+     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
+     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
+    },
+    {
+     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
+     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
+     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
+     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
+    },
+    {
+     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
+     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
+     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
+     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -1060,7 +1052,7 @@
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
+     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
      "source": "Utility Dive",
      "zh": "PJM eyes option to jumpstart surplus interconnection pathway"
     },
@@ -1081,12 +1073,12 @@
      "zh": "Daqo New Energy narrows Q2 losses, resumes sales below cost"
     },
     {
-     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
-     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
-     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
-     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
-     "source": "Utility Dive",
-     "zh": "ERCOT aims to complete Texas governor’s data center audit by December"
+     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
+     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
+     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
+     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
+     "source": "Energy Storage News",
+     "zh": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal"
     }
    ]
   },
@@ -1745,20 +1737,20 @@
    "total": 18,
    "items": [
     {
+     "title": "AI agents&apos; growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents (Katherine Bindley/Wall Street Journal)",
+     "link": "https://www.techmeme.com/260822/p13#a260822p13",
+     "pubDate": "Sat, 22 Aug 2026 18:00:02 -0400",
+     "summary": "Katherine Bindley / Wall Street Journal : AI agents' growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents &nbsp; &mdash;&nbsp; The growing capabilities of AI give new meaning to working yourself to the b",
+     "source": "Techmeme",
+     "zh": "AI agents&apos; growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents (Katherine Bindley/Wall Street Journal)"
+    },
+    {
      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
      "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
      "pubDate": "Sat, 22 Aug 2026 20:24:20 +0000",
      "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
      "source": "TechCrunch",
      "zh": "Will the DOJ’s investigation into a16z spook other VCs?"
-    },
-    {
-     "title": "Knowing When to Stop: The Art of Making a Loop Converge",
-     "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
-     "pubDate": "Sat, 22 Aug 2026 20:21:14 +0000",
-     "summary": "Article URL: https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/ Comments URL: https://news.ycombinator.com/item?id=49403484 Points: 15 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Knowing When to Stop: The Art of Making a Loop Converge"
     },
     {
      "title": "London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings (Anna Heim/TechCrunch)",
@@ -1772,7 +1764,7 @@
      "title": "Fast and Hard Code",
      "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
      "pubDate": "Sat, 22 Aug 2026 19:56:38 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 14 # Comments: 4",
+     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 17 # Comments: 9",
      "source": "Hacker News",
      "zh": "Fast and Hard Code"
     },
@@ -1780,7 +1772,7 @@
      "title": "English ↔ Claudish Translator",
      "link": "https://programasweights.com/claudish",
      "pubDate": "Sat, 22 Aug 2026 19:19:15 +0000",
-     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 17 # Comments: 13",
+     "summary": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 24 # Comments: 18",
      "source": "Hacker News",
      "zh": "English ↔ Claudish Translator"
     },
@@ -1788,7 +1780,7 @@
      "title": "NetBSD and My Life (2005)",
      "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
      "pubDate": "Sat, 22 Aug 2026 19:07:46 +0000",
-     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 63 # Comments: 14",
+     "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 68 # Comments: 15",
      "source": "Hacker News",
      "zh": "NetBSD and My Life (2005)"
     },
@@ -1796,7 +1788,7 @@
      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
      "pubDate": "Sat, 22 Aug 2026 19:04:41 +0000",
-     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 111 # Comments: 34",
+     "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 133 # Comments: 43",
      "source": "Hacker News",
      "zh": "hdiutil is deprecated in macOS 27 Golden Gate"
     },
@@ -1820,9 +1812,17 @@
      "title": "Why your local LLM feels dumber than it is",
      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
      "pubDate": "Sat, 22 Aug 2026 18:14:16 +0000",
-     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 60 # Comments: 17",
+     "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 89 # Comments: 27",
      "source": "Hacker News",
      "zh": "Why your local LLM feels dumber than it is"
+    },
+    {
+     "title": "Scrap",
+     "link": "https://twitter.com/moxie/status/2091218652133732491",
+     "pubDate": "Sat, 22 Aug 2026 18:08:56 +0000",
+     "summary": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 187 # Comments: 78",
+     "source": "Hacker News",
+     "zh": "Scrap"
     },
     {
      "title": "灵活就业学者栽在了“剪金句”的小编手里",
@@ -1921,22 +1921,6 @@
      "zh": "亚洲最大海上原油处理平台惠州 19-6 完成封顶"
     },
     {
-     "title": "Ox Alpha, a \"stealth model\" from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter (Rohail Saleem/Wccftech)",
-     "link": "https://www.techmeme.com/260822/p7#a260822p7",
-     "pubDate": "Sat, 22 Aug 2026 10:35:02 -0400",
-     "summary": "Rohail Saleem / Wccftech : Ox Alpha, a &ldquo;stealth model&rdquo; from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter &nbsp; &mdash;&nbsp; When an unknown AI lab drops an anonymous model - Ox Alpha - for free, while de",
-     "source": "Techmeme",
-     "zh": "Ox Alpha, a \"stealth model\" from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter (Rohail Saleem/Wccftech)"
-    },
-    {
-     "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
-     "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
-     "pubDate": "Sat, 22 Aug 2026 14:00:00 +0000",
-     "summary": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
-     "source": "TechCrunch",
-     "zh": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade"
-    },
-    {
      "title": "因门把手安全隐患特斯拉在华召回近 300 万辆车",
      "link": "https://www.solidot.org/story?sid=85163",
      "pubDate": "Sat, 22 Aug 2026 21:32:18 +0800",
@@ -1983,6 +1967,14 @@
      "summary": "Your desk setup needs a monitor arm, and I’ve been testing every one I can get my hands on to find the best.",
      "source": "WIRED",
      "zh": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)"
+    },
+    {
+     "title": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux",
+     "link": "https://www.solidot.org/story?sid=85161",
+     "pubDate": "Sat, 22 Aug 2026 19:00:50 +0800",
+     "summary": "彭博社报道，中国政府下令部分机构提前停止使用 Windows 10 中国政府版，改用国产 Linux 发行版。为维护数字主权，中国已不再信任美国公司的软件。微软回应彭博社的询问时表示它没有发现影响该 Windows 系统的安全事件。Windows 10 中国政府版由微软和中国电子科技集团的合资企业神州网信开发。神州网信原计划到 2027 年 2 月停止支持该版本，但其生命结束时间被提前到今年下半年。中国政府机构采用的国产 Linux 发行版可能包括了麒麟操作系统（Kylin OS)和统信 UOS。统信 UOS 桌面版源自 Deepin 和 Debian Linux。",
+     "source": "Solidot",
+     "zh": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux"
     }
    ]
   },
@@ -2241,28 +2233,60 @@
    "total": 13,
    "items": [
     {
-     "title": "上海写字楼市场结构性分化加剧 超甲级办公楼未来五年复合增长率看涨6％",
-     "link": "http://finance.eastmoney.com/news/1348,202608233850222628.html",
-     "pubDate": "Sun, 23 Aug 2026 05:20:00 +0800",
-     "summary": "上海甲级写字楼“3+5”评价体系。图源： 仲量联行 2026年上半年，上海写字楼市场呈现显著结构性回暖，市场供需持续修复、活跃度稳步提升，行业层级分化加剧，超甲级办公楼成为市场复苏的核心支撑。 多家研究机构近期发布的行业数据共同印证，今年上半年上海 商业地产 复苏态势明确，写字楼净吸纳量同比大涨83%，大宗不动产成交总额同比攀升47%，市场底部企稳特征持续强化。而在行业整体温和修复的大背景下， 仲量联行 市场白皮书数据显示，依托“3+5”评价体系界定的超甲级办公楼逆势突围，年内近七成项目租金实现企稳或上涨。 仲量联行 中国区首席执行官张静向《华夏时报》记者表示，城市能级的系统性跃升，正深刻重塑",
+     "title": "国铁订单托举主业海外市场收入增两成 中国中车半年净利79亿元再刷纪录",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850231413.html",
+     "pubDate": "Sun, 23 Aug 2026 06:11:23 +0800",
+     "summary": "中国中车 （601766.SH）创下自成立以来最好的半年业绩报。 中国中车 上半年营业收入为1316.82亿元，同比增长9.96%；归属于上市公司股东的净利润79.91亿元，同比增长10.28%。 据《中国经营报》记者统计， 中国中车 盈利规模继续刷新合并之后纪录，此前上半年净利润突破70亿元仅有2025年，为72.46亿元；2018—2024年，上半年归母净利润多数处于30亿—48亿元区间。 2026年上半年 中国中车 合计新签订单1419亿元，其中海外新签订单299亿元。国铁集团动车组、机车招标订单进入集中交付周期，海外市场营收实现较快增长，成为拉动本期业绩的两大核心变量。同时，经营性现金",
      "source": "东方财富股票",
-     "zh": "上海写字楼市场结构性分化加剧 超甲级办公楼未来五年复合增长率看涨6％"
+     "zh": "国铁订单托举主业海外市场收入增两成 中国中车半年净利79亿元再刷纪录"
     },
     {
-     "title": "市场资讯：本次停电事故未对英国整体电力供应造成影响",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850227874.html",
-     "pubDate": "Sun, 23 Aug 2026 05:01:02 +0800",
-     "summary": "市场资讯：本次停电事故未对英国整体 电力 供应造成影响。 （文章来源：新浪财经快讯）",
+     "title": "前7月国家铁路货运23.5亿吨增0.7% 7月铁路运量现结构性分化",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850231383.html",
+     "pubDate": "Sun, 23 Aug 2026 06:11:21 +0800",
+     "summary": "2026年前7个月，国家铁路累计发送货物23.5亿吨，同比增长0.7%；日均装车18.7万车，同比增长2.1%。中国国家铁路集团有限公司（以下简称“国铁集团”）8月19日发布数据显示上述信息。 全国铁路方面，国家铁路局发布信息显示，前7个月，全国铁路累计完成货物发送量30.52亿吨，同比增长1.4%；从分品类运输情况看，全国铁路累计发送 煤炭 16.10亿吨、集装箱6.38亿吨、粮食3351万吨，同比分别增长2.4%、7.2%、3.4%。 虽然全国铁路与国家铁路货运量均显示增长，但全国铁路7月货运总发送量快速下降，7月共发送4.30亿吨，同比下降4.7%，这是继6月微降0.4%后，年内第二次下",
      "source": "东方财富股票",
-     "zh": "市场资讯：本次停电事故未对英国整体电力供应造成影响"
+     "zh": "前7月国家铁路货运23.5亿吨增0.7% 7月铁路运量现结构性分化"
     },
     {
-     "title": "122轮 溢价48.9％！湖北民企爆冷摘得武汉光谷宅地 专家：长江存储等提供产业动能",
-     "link": "http://finance.eastmoney.com/news/1348,202608233850222752.html",
-     "pubDate": "Sun, 23 Aug 2026 05:00:46 +0800",
-     "summary": "在8月21日武汉土地市场的激烈角逐中，光谷核心区一宗优质宅地引发百轮竞价，最终被一家跨界而来的民企以近五成的高溢价率强势斩获。业内人士向《华夏时报》记者分析称，资金正加速向产业强区、核心板块的优质小体量地块集中。 而在核心区高溢价成交的火热背后，同批次外围地块底价成交、二手房价格持续承压的“冰冷”现实同样不容忽视。专家向《华夏时报》记者分析指出，这一地块的高溢价不等于市场全面回暖，属于典型结构性行情，产业强区率先修复，非核心板块仍以去库存为主。 民企高溢价爆冷拿地 8月21日，武汉出让三宗土地，成交总价8.43亿元。其中，最受市场关注的是光谷核心P（2026）063号地块。这宗宅地经过122轮",
+     "title": "票价仅覆盖成本55% 上海地铁两套调价方案出炉",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850231590.html",
+     "pubDate": "Sun, 23 Aug 2026 06:11:17 +0800",
+     "summary": "实施超过二十年的上海轨道交通票价机制，即将迎来重构。8月19日，上海市发改委发布公告，宣布优化轨道交通票价机制听证方案，两套调价方案正式对外公开，同时拟建立与人工、电价、CPI等指标挂钩的票价动态调整机制，并配套推出计次票、满额折扣等惠民举措，试图在轨道交通公益属性、企业可持续运营与市民出行承受能力之间寻找平衡点。 线网规模快速扩张 上海市现行轨道交通票价机制自2005年9月实施至今，已经运行二十余年。基准票价执行0—6公里3元，6公里以后每10公里增加1元的计价规则。二十余年间，上海轨交网络规模发生质变，对比2006年与2025年数据可以看出，运营里程由141公里增长至818公里，增幅480",
      "source": "东方财富股票",
-     "zh": "122轮 溢价48.9％！湖北民企爆冷摘得武汉光谷宅地 专家：长江存储等提供产业动能"
+     "zh": "票价仅覆盖成本55% 上海地铁两套调价方案出炉"
+    },
+    {
+     "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850232521.html",
+     "pubDate": "Sun, 23 Aug 2026 06:09:19 +0800",
+     "summary": "当地时间22日，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗告诉世界各国，不要与美国一起对伊朗发动经济战。任何参与对伊朗实施经济限制的国家，都被伊朗视为敌人。 雷扎伊表示，特朗普政府发动的这场经济战也是一场宣传战。虽然伊朗已经遭受美国长期制裁，但伊朗已经学会了如何绕过制裁。他表示，海上封锁议题并非一朝一夕就能解决，伊朗已经遭受美国数月的海上封锁，但仍然成功售出了石油。 此外，他还表示，美国在霍尔木兹海峡南部航道的任何行动都将成为伊朗的打击目标，且伊方将打击美国与该地区任何反伊朗势力举行的会晤。 针对伊朗与阿曼关于霍尔木兹海峡的谈判，雷扎伊指出，双方重要磋商之一是正在就航道和贸易过境问题进行协调，",
+     "source": "东方财富股票",
+     "zh": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人"
+    },
+    {
+     "title": "护航现代化大都市建设 上海明确2030年建成国际一流韧性安全城市",
+     "link": "http://finance.eastmoney.com/news/1350,202608233850230342.html",
+     "pubDate": "Sun, 23 Aug 2026 06:07:24 +0800",
+     "summary": "超大城市的现代化建设，离不开安全底座的托举。近日，上海市政府正式印发《上海市韧性安全城市建设“十五五”规划》（以下简称“《规划》”），明确到2030年，上海市将全面建成国内领先、国际一流的韧性安全城市，推动公共安全治理模式向事前预防转型，用高水平安全保障城市高质量发展。 《规划》设置了13项主要指标，其中5项约束性指标备受关注：极端风雨天气预警准确率从2025年的83%提升至2030年的90%以上，预警提前量从41分钟提升至50分钟以上；极端高低温过程预报准确率从75%提升至88%以上，预报提前量从3.5天提升至5天以上；海域2.0级以上地震监测能力从海岸线50公里内扩展至100公里内；应急避",
+     "source": "东方财富股票",
+     "zh": "护航现代化大都市建设 上海明确2030年建成国际一流韧性安全城市"
+    },
+    {
+     "title": "印度官员称：一艘散货船在印度东海岸沉没 印度海岸警卫队已救出14名船员",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850230295.html",
+     "pubDate": "Sun, 23 Aug 2026 06:02:59 +0800",
+     "summary": "印度官员称，一艘散货船在印度东海岸沉没，印度海岸警卫队已救出14名船员，目前正在搜寻另外四名失踪船员。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "印度官员称：一艘散货船在印度东海岸沉没 印度海岸警卫队已救出14名船员"
+    },
+    {
+     "title": "SA Asks: What are the most promising oncology companies right now?",
+     "link": "https://seekingalpha.com/news/4636045-sa-asks-what-are-the-most-promising-oncology-companies-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 22 Aug 2026 17:57:57 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What are the most promising oncology companies right now?"
     },
     {
      "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
@@ -2271,14 +2295,6 @@
      "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
      "source": "MarketWatch",
      "zh": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?"
-    },
-    {
-     "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850227468.html",
-     "pubDate": "Sun, 23 Aug 2026 04:36:57 +0800",
-     "summary": "当地时间22日，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗告诉世界各国，不要与美国一起对伊朗发动经济战。任何参与对伊朗实施经济限制的国家，都被伊朗视为敌人。 雷扎伊表示，特朗普政府发动的这场经济战也是一场宣传战。虽然伊朗已经遭受美国长期制裁，但伊朗已经学会了如何绕过制裁。他表示，海上封锁议题并非一朝一夕就能解决，伊朗已经遭受美国数月的海上封锁，但仍然成功售出了石油。 此外，他还表示，美国在霍尔木兹海峡南部航道的任何行动都将成为伊朗的打击目标，且伊方将打击美国与该地区任何反伊朗势力举行的会晤。 针对伊朗与阿曼关于霍尔木兹海峡的谈判，雷扎伊指出，双方重要磋商之一是正在就航道和贸易过境问题进行协调，",
-     "source": "东方财富股票",
-     "zh": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人"
     },
     {
      "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
@@ -2311,22 +2327,6 @@
      "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
      "source": "MarketWatch",
      "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
-    },
-    {
-     "title": "也门官方称：曼德海峡发现一枚胡塞武装布设的水雷",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850228016.html",
-     "pubDate": "Sun, 23 Aug 2026 04:26:47 +0800",
-     "summary": "也门官方称，曼德海峡发现一枚胡塞武装布设的水雷。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "也门官方称：曼德海峡发现一枚胡塞武装布设的水雷"
-    },
-    {
-     "title": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长阿西姆·穆尼尔于周六通电话 就地区局势与安全议题展开磋商",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850227934.html",
-     "pubDate": "Sun, 23 Aug 2026 04:26:47 +0800",
-     "summary": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长阿西姆·穆尼尔于周六通电话，就地区局势与安全议题展开磋商。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长阿西姆·穆尼尔于周六通电话 就地区局势与安全议题展开磋商"
     },
     {
      "title": "Nvidia customers reportedly warned about AI-related price hikes",
@@ -2393,14 +2393,6 @@
      "zh": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway"
     },
     {
-     "title": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
-     "link": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html",
-     "pubDate": "2026-08-22T18:56:59Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports"
-    },
-    {
      "title": "Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says",
      "link": "https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2",
      "pubDate": "Sat, 22 Aug 2026 18:17:56 GMT",
@@ -2465,20 +2457,20 @@
      "zh": "偷税漏税被罚后，初代网红温婉 “复活”：制售Prada等高仿大牌服装，近百个号带货超百万元"
     },
     {
-     "title": "Insider trades: AMD, Micron and Coca-Cola among notable names",
-     "link": "https://seekingalpha.com/news/4636007-insider-trades-amd-micron-and-coca-cola-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 11:03:40 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Insider trades: AMD, Micron and Coca-Cola among notable names"
-    },
-    {
      "title": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”",
      "link": "http://www.eeo.com.cn/2026/0822/1007969.shtml",
      "pubDate": "Sat, 22 Aug 2026 21:26:11 +0800",
      "summary": "资料图 南方财经 21世纪经济报道记者 郑青亭 北京报道 美国国债市场近期持续承压之际，桥水基金创始人瑞·达利欧（Ray Dalio）再次发出警告：美国政府财政状况正在进入一个关键“转折点”（inflection point），如果不能及时改变当前的债务增长路径，美国债务危机可能在未来几年内加速显现。 8月21日，达利欧在个人网站发表题为《国家如何走向破产：当下变局背后的内在逻辑》（How Countries Go Br...",
      "source": "经济观察网",
      "zh": "美国“债务心脏病”何时发作？达利欧：风险窗口或在“三年左右”"
+    },
+    {
+     "title": "瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶",
+     "link": "https://wallstreetcn.com/articles/3780065",
+     "pubDate": "Sat, 22 Aug 2026 20:55:29 +0800",
+     "summary": "美伊紧张局势仍在持续，但市场关注点正逐步从军事风险转向经济制裁，以及其对全球原油供应格局的影响。 据新华社，美国财政部长贝森特20日表示，特朗普政府将加大对伊朗经济施压，并威胁对伊朗实施“前所未有的经济孤立”措施。他称，特朗普政府重创伊朗经济的计划可能使美国无需再对伊朗发动大规模军事行动。随着制裁力度可能升级，其对伊朗原油出口的影响正成为市场关注的新变量。 与此同时，霍尔木兹海峡的可见油轮流量仍明显低于冲突前水平，但“暗流”运输正在部分填补缺口。瑞银调研数据显示， 过去一周霍尔木兹海峡整体石油流量仍略高于600万桶/日，其中暗光运输规模升至约500万至600万桶/日，显示实际原油过境量受到的冲",
+     "source": "华尔街见闻",
+     "zh": "瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶"
     }
    ]
   },

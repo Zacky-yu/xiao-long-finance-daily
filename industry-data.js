@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 03:31:15",
+ "generated_at": "2026/8/24 03:50:53",
  "recent_days": 7,
  "industries": [
   {
@@ -16,14 +16,6 @@ window.INDUSTRY_DATA = {
      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
      "source": "TechCrunch AI",
      "zh": "Linkdaze’s smart calendar is built to run a household, not just track a schedule"
-    },
-    {
-     "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
-     "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
-     "pubDate": "Sun, 23 Aug 2026 17:51:56 +0000",
-     "summary": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work appeared first on MarkTechPost .",
-     "source": "MarkTechPost",
-     "zh": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work"
     },
     {
      "title": "800亿港元！阿里宣布为AI再融资，传已超额认购",
@@ -74,14 +66,6 @@ window.INDUSTRY_DATA = {
      "zh": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长"
     },
     {
-     "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
-     "link": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
-     "pubDate": "Sun, 23 Aug 2026 10:44:59 +0000",
-     "summary": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU appeared first on MarkTechPost .",
-     "source": "MarkTechPost",
-     "zh": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU"
-    },
-    {
      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
      "link": "https://www.qbitai.com/2026/08/478191.html",
      "pubDate": "Sun, 23 Aug 2026 09:56:12 +0000",
@@ -106,14 +90,6 @@ window.INDUSTRY_DATA = {
      "zh": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起"
     },
     {
-     "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
-     "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
-     "pubDate": "Sun, 23 Aug 2026 07:51:22 +0000",
-     "summary": "Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows. The post B",
-     "source": "MarkTechPost",
-     "zh": "Building an End-to-End Document Intelligence Pipeline with deepDoctection"
-    },
-    {
      "title": "影视飓风Tim看呆！鸡排哥2小时做出八大菜系，AI首次长出「大厨大脑」",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719752&idx=1&sn=44657ada08096ab4c58495a046f7fd9a",
      "pubDate": "Sun, 23 Aug 2026 15:38:00 +0800",
@@ -128,22 +104,6 @@ window.INDUSTRY_DATA = {
      "summary": "三大奇点：软件奇点、经济奇点、科斯奇点。",
      "source": "新智元",
      "zh": "Anthropic：AI没有导致失业率的增加"
-    },
-    {
-     "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
-     "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
-     "pubDate": "Sun, 23 Aug 2026 07:37:14 +0000",
-     "summary": "Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks. The post Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks appeared first on MarkTechPost .",
-     "source": "MarkTechPost",
-     "zh": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks"
-    },
-    {
-     "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
-     "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
-     "pubDate": "Sat, 22 Aug 2026 23:49:38 +0000",
-     "summary": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based ",
-     "source": "MarkTechPost",
-     "zh": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety"
     },
     {
      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -168,14 +128,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
      "source": "TechCrunch AI",
      "zh": "OpenAI says California should strengthen its AI safety bill"
-    },
-    {
-     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
-     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
-     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
-     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
-     "source": "MarkTechPost",
-     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
     },
     {
      "title": "AI4S八年积累迎来新节点，北京再落一子，抢跑科研范式变革下半场",
@@ -248,6 +200,54 @@ window.INDUSTRY_DATA = {
      "summary": "See how AI agents are autonomously handling support, coding, supply chains, healthcare, and fraud detection today.",
      "source": "KDnuggets",
      "zh": "5 Real-World Use Cases for AI Agents Transforming Industries"
+    },
+    {
+     "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+     "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+     "pubDate": "Fri, 21 Aug 2026 11:59:48 +0000",
+     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+     "source": "DeepMind",
+     "zh": "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+    },
+    {
+     "title": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验",
+     "link": "https://zhidx.com/p/586881.html",
+     "pubDate": "Fri, 21 Aug 2026 19:19:04 +0800",
+     "summary": "当AI接管代码和影像后，社媒上一度流行“一句话跑出游戏”的各种DEMO演示。 可直到今天，完全用AI打造的现象级游戏， 几乎无处寻觅 。为什么？在Coding Agent和视频模型高速发展的今天，AI原生游戏的困难到底在哪里？ 与此同时，一个4个月前，才 全面 转入AI游戏赛道的团队，上线了当下定位于“AI精品游戏”的平台Elseland。 平台上已经上线了大量来自创作者和工作室的游戏。其中，更具代表性的，则是Elseland团队基于自研游戏开发工具，打造的数十款“原创游戏”。CEO刘耕提到，他们已经能把数百关体量精品游戏的生产时间，从一年降到一星期左右。成本的百倍下降，是支撑 快速创新与验证",
+     "source": "智东西",
+     "zh": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验"
+    },
+    {
+     "title": "How mobility gives language models a deeper understanding of place",
+     "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+     "pubDate": "Fri, 21 Aug 2026 10:54:00 +0000",
+     "summary": "Algorithms & Theory",
+     "source": "Google Research",
+     "zh": "How mobility gives language models a deeper understanding of place"
+    },
+    {
+     "title": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆",
+     "link": "https://zhidx.com/p/587166.html",
+     "pubDate": "Fri, 21 Aug 2026 18:17:43 +0800",
+     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西8月21日报道，刚刚，雷鸟iO AI眼镜发布。这款产品 重34克 ，日常续航可达两天。眼镜搭载 DeepSeek和千问大模型 ，其“AI全天智记”功能支持 连续记录18小时 。 设计方面，雷鸟iO采用皇冠框型设计，前框使用镁铝合金，镜腿采用双层钛合金结构，提供 “极夜”和“沙丘”两款配色 。 显示方面，雷鸟iO采用单绿色显示，搭载自研 蓝湖光波导和萤火光引擎Nano 。蓝湖光波导显示区域透过率为93%，非显示区域透过率超过98%，萤火光引擎Nano体积仅0.085cc，可实现等效33英寸显示及1800尼特入眼亮度。 AI方面，雷鸟iO围绕 知识",
+     "source": "智东西",
+     "zh": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆"
+    },
+    {
+     "title": "DeepSeek多模态模型终于来了！一张图最高只要0.001元",
+     "link": "https://zhidx.com/p/587260.html",
+     "pubDate": "Fri, 21 Aug 2026 18:03:28 +0800",
+     "summary": "智东西 作者 | 陈骏达 编辑 | 李水青 智东西8月21日报道，就在刚刚，DeepSeek宣布全新的多模态视觉理解模型DeepSeek-V4-Flash-Vision-Exp（实验性质模型）上线DeepSeek API 平台。 DeepSeek同步公布了这一模型的详细基准测试结果。根据模型名字推测，DeepSeek-V4-Flash-Vision-Exp是在DeepSeek-V4-Flash基础上打造的，基准测试中其 纯文本能力（Agent、推理、世界知识等）与DeepSeek-V4-Flash正式版持平 。 在需要视觉理解的Agent Benchmark上，DeepSeek-V4-Flas",
+     "source": "智东西",
+     "zh": "DeepSeek多模态模型终于来了！一张图最高只要0.001元"
+    },
+    {
+     "title": "全SOTA！不止纯文本，阿里多模态站上全球第一梯队",
+     "link": "https://zhidx.com/p/587115.html",
+     "pubDate": "Fri, 21 Aug 2026 17:05:57 +0800",
+     "summary": "智东西 作者 | 李水青 编辑 | 漠影 智东西8月21日报道，过去一个月，阿里巴巴模型发布全面提速， 大语言、图像、语音、视频、音乐五大类 模型密集完成重要版本迭代，性能均跻身国际第一梯队。 有业内人士评价， 多模态 是 下一代智能的范式 。阿里在多模态上的布局节奏，远比市场感知的要快。 模型密集迭代的另一面，是模型能力开始 与云基础设施的增长形成更紧密的联动。 2027财年第一季度（对应2026年4月1日-6月30日），阿里云外部商业化收入增速提升至 45% ，创下22个季度新高。AI云及算力服务收入 484.37亿元 ，经调整EBITA达到 56.28亿元 ，同比暴增 133% 。AI相",
+     "source": "智东西",
+     "zh": "全SOTA！不止纯文本，阿里多模态站上全球第一梯队"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+     "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+     "pubDate": "Sun, 23 Aug 2026 19:30:00 +0000",
+     "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+     "source": "TechCrunch Transport",
+     "zh": "Uber faces fine of nearly $1B over automated driver suspensions"
+    },
+    {
      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
      "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
      "pubDate": "Sun, 23 Aug 2026 16:03:00 +0000",
@@ -832,14 +840,6 @@ window.INDUSTRY_DATA = {
      "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
      "source": "TechCrunch Transport",
      "zh": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada"
-    },
-    {
-     "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-     "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-     "pubDate": "Wed, 19 Aug 2026 22:25:01 +0000",
-     "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
-     "source": "TechCrunch Transport",
-     "zh": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities"
     }
    ]
   },
@@ -2242,6 +2242,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+     "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 19:30:00 GMT",
+     "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+     "source": "MarketWatch",
+     "zh": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?"
+    },
+    {
+     "title": "俄国防部：击落269架乌克兰无人机",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850445246.html",
+     "pubDate": "Mon, 24 Aug 2026 03:24:09 +0800",
+     "summary": "俄罗斯国防部23日晚发布通报说，莫斯科时间当天8时至20时，俄防空部队在阿尔汉格尔斯克州、别尔哥罗德州、布良斯克州以及莫斯科地区等俄多地拦截并击落269架乌克兰 无人机 。 此前一天，俄罗斯总统普京在一段视频采访中表示，乌克兰武装部队在过去40天里持续使用导弹和 无人机 对俄民用和 物流 设施发动攻击，这是乌方及其背后西方支持者的“又一场冒险”，目标是让俄方遭遇战略性失败。普京说，俄军不仅继续在各个方向发动进攻，而且还加强攻势，有信心完成特别军事行动目标。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "俄国防部：击落269架乌克兰无人机"
+    },
+    {
      "title": "市场潜力大出海空间广 生物医药价值重估在路上",
      "link": "http://finance.eastmoney.com/news/1354,202608243850442972.html",
      "pubDate": "Mon, 24 Aug 2026 03:21:14 +0800",
@@ -2320,14 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Hedge funds and mutual funds split on the AI trade - Goldman"
-    },
-    {
-     "title": "美内华达州山火迅速蔓延 近1.4万户居民被要求撤离",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850444792.html",
-     "pubDate": "Mon, 24 Aug 2026 02:21:45 +0800",
-     "summary": "当地时间8月23日获悉，美国内华达州北部里诺市郊的“霍克”山火当日清晨从内华达山脉山麓向里诺市中心方向迅速蔓延，过火面积已超过1.05万英亩，近1.4万户居民收到强制撤离令。 里诺当地消防部门表示，强劲阵风、低湿度和干燥植被正在助长火势。目前约有400名人员参与灭火，地方、州和联邦机构均已投入地面和空中力量。里诺市长希拉里·希夫敦促收到撤离通知的居民立即离开，并称已有建筑被烧毁。 截至23日，沃肖县近1万户家庭和企业停电，美国395号公路部分路段因火灾关闭。内华达州州长乔·隆巴多已宣布沃肖县进入紧急状态。 本月早些时候，里诺以北地区已有三场受高温、干燥和大风天气推动的山火，曾迫使超过1.3万名",
-     "source": "东方财富股票",
-     "zh": "美内华达州山火迅速蔓延 近1.4万户居民被要求撤离"
     },
     {
      "title": "Warsh seeks to soothe investors’ nerves as signs of economic strain mount",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them"
-    },
-    {
-     "title": "机器人缺数据，奥比中光当上了“卖铲人”",
-     "link": "https://wallstreetcn.com/articles/3780096",
-     "pubDate": "Sun, 23 Aug 2026 21:25:09 +0800",
-     "summary": "8月19日举行的2026世界机器人大会上，奥比中光首次集中展示无本体数据采集硬件矩阵，包括第一视角设备EGO、手持操作设备UMI、腕部近场设备WristCam以及同步中枢Hub。 对于一家过去主要给机器人卖 “眼睛”的公司而言，奥比中光正在把生意往机器人学会干活之前再推一步：卖数据采集的“铲子”。 这门生意背后是具身智能越来越明显的数据瓶颈。大模型可以从互联网获取文本和图像，但机器人要完成抓取、装配、整理等物理任务，需要动作轨迹、空间位置以及真实交互产生的多模态数据。 奥比中光切入的正是数采过程中所用的硬件设备。 此次奥比中光推出的 EGO负责第一视角，UMI记录手持操作，WristCam补充",
-     "source": "华尔街见闻",
-     "zh": "机器人缺数据，奥比中光当上了“卖铲人”"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 06:23:36",
+ "generated_at": "2026/8/24 06:51:07",
  "recent_days": 7,
  "industries": [
   {
@@ -418,44 +418,12 @@ window.INDUSTRY_DATA = {
      "zh": "White House looking for 1000 rocket launches a year"
     },
     {
-     "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/epc-200826.shtml",
-     "pubDate": "Thu, 20 Aug 2026 17:51:06 +0100",
-     "summary": "Efficient Power Conversion Corp (EPC) of El Segundo, CA, USA — which makes enhancement-mode gallium nitride on silicon (eGaN) power field-effect transistors (FETs) and integrated circuits for power management applications — has announced mass production of the EPC2370, an ultra-low on-resistance 18V",
-     "source": "Semiconductor Today",
-     "zh": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures"
-    },
-    {
      "title": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure",
      "link": "https://www.eetimes.com/synopsys-updates-cxl-ip-portfolio-for-ai-era-infrastructure/",
      "pubDate": "Thu, 20 Aug 2026 14:07:45 +0000",
      "summary": "Synopsys’s CXL 4.0 IP aims to help designers build faster, more flexible and secure disaggregated computing architectures as AI systems demand more memory capacity and bandwidth. The post Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure"
-    },
-    {
-     "title": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/yole-200826.shtml",
-     "pubDate": "Thu, 20 Aug 2026 14:12:54 +0100",
-     "summary": "Power gallium nitride (GaN) has spent the past several years proving itself in consumer fast chargers, but that phase is ending, according to Yole Group’s annual report ‘Power GaN 2026’. GaN is now entering a broader, multi-market adoption cycle where AI data centers, electric vehicles, industrial s",
-     "source": "Semiconductor Today",
-     "zh": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems"
-    },
-    {
-     "title": "Micross acquiring AEMtec, expanding reach into Europe",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/micross-200826.shtml",
-     "pubDate": "Thu, 20 Aug 2026 09:48:03 +0100",
-     "summary": "Micross Components Inc of Melville, NY, USA (which provides high-reliability microelectronic products and services for aerospace, defense, space, medical, energy, communications and industrial applications) has entered into a definitive agreement to acquire AEMtec GmbH of Berlin, Germany (a portfoli",
-     "source": "Semiconductor Today",
-     "zh": "Micross acquiring AEMtec, expanding reach into Europe"
-    },
-    {
-     "title": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/teksic-200826.shtml",
-     "pubDate": "Thu, 20 Aug 2026 09:41:16 +0100",
-     "summary": "Silicon carbide wafer manufacturing technology firm TekSiC AB of Linköping, Sweden has announced progress in its development of semi-insulating silicon carbide (SI-SiC), which Europe currently lacks the domestic capability to manufacture commercially. The material underpins some of the most demandin",
-     "source": "Semiconductor Today",
-     "zh": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers"
     },
     {
      "title": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing",
@@ -496,6 +464,30 @@ window.INDUSTRY_DATA = {
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
+    },
+    {
+     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
+     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
+     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
+     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
+    },
+    {
+     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
+     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
+     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
+     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
+    },
+    {
+     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
+     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
+     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
+     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -1746,6 +1738,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色",
+     "link": "https://www.ithome.com/0/993/320.htm",
+     "pubDate": "Sun, 23 Aug 2026 22:40:45 GMT",
+     "summary": "IT之家 8 月 24 日消息，据彭博社的马克 · 古尔曼（Mark Gurman）报道，苹果正在准备推出搭载升级芯片和新配色选项的新款 iMac 机型。 古尔曼在其最新的 Power On 通讯中写道，新款机型很可能是搭载 M6 芯片的 24 英寸升级款机型，将取代于 2024 年 10 月推出的现有 M4 机型。 据说新配色也在计划之中，不过古尔曼没有透露具体是什么颜色。IT之家注意到，目前的 iMac 有七种颜色，包括绿色、黄色、橙色、粉色、紫色、蓝色和银色。 除此之外，新款机型预计不会有重大的设计变化。据报道，苹果正在开发配备 OLED 显示屏的 24 英寸 iMac，但这要等几年后才",
+     "source": "IT之家",
+     "zh": "古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色"
+    },
+    {
      "title": "Greg Abbott says data center companies \"dug their own grave\" by moving into communities without first gaining support, signaling growing Republican backlash (Axios)",
      "link": "https://www.techmeme.com/260823/p10#a260823p10",
      "pubDate": "Sun, 23 Aug 2026 17:10:01 -0400",
@@ -1858,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "前 R 星技术总监谈《GTA 6》画面泄露：实则“没什么大不了”"
     },
     {
-     "title": "获英伟达投资，美国初创 Starcloud 研发 GPU 卫星欲建太空数据中心",
-     "link": "https://www.ithome.com/0/993/313.htm",
-     "pubDate": "Sun, 23 Aug 2026 15:09:37 GMT",
-     "summary": "IT之家 8 月 23 日消息，据外媒 Interesting Engineering 今天报道，美国初创公司 Starcloud 已完成 2.5 亿美元 （IT之家注：现汇率约合 16.86 亿元人民币） A 轮扩展融资，估值达到 23 亿美元 （现汇率约合 155.09 亿元人民币） 。这笔新资金将用于研发配备高性能 GPU 的卫星，为 AI 提供算力。 据报道，本轮融资由 Manhattan West 领投， 新投资者涵盖英伟达 、 思科等 ，现有投资方包括 Benchmark 和 EQT。 Starcloud 计划将数据中心从地球搬到太空。 这家公司去年 11 月将搭载英伟达 H100",
-     "source": "IT之家",
-     "zh": "获英伟达投资，美国初创 Starcloud 研发 GPU 卫星欲建太空数据中心"
-    },
-    {
      "title": "卡巴斯基发现第一种针对汽车的 Android 恶意程序",
      "link": "https://www.solidot.org/story?sid=85168",
      "pubDate": "Sun, 23 Aug 2026 23:02:01 +0800",
@@ -1882,6 +1874,22 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID (Mark Gurman/Bloomberg)"
     },
     {
+     "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+     "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+     "pubDate": "Sun, 23 Aug 2026 14:38:25 +0000",
+     "summary": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49409200 Points: 21 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Slovakia finds Russian backdoor in traffic speed cameras"
+    },
+    {
+     "title": "Authoritarianism of Code",
+     "link": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+     "pubDate": "Sun, 23 Aug 2026 14:36:38 +0000",
+     "summary": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/ Comments URL: https://news.ycombinator.com/item?id=49409184 Points: 5 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Authoritarianism of Code"
+    },
+    {
      "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
      "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
      "pubDate": "Sun, 23 Aug 2026 14:30:16 +0000",
@@ -1890,12 +1898,44 @@ window.INDUSTRY_DATA = {
      "zh": "Due to need for 'absolute success,' China delays critical Moon launch to 2027"
     },
     {
+     "title": "What Is a Harness?",
+     "link": "https://earendil.com/posts/what-is-a-harness/",
+     "pubDate": "Sun, 23 Aug 2026 14:24:21 +0000",
+     "summary": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15",
+     "source": "Hacker News",
+     "zh": "What Is a Harness?"
+    },
+    {
      "title": "柳树和杨树释放出的化合物会恶化城市空气质量",
      "link": "https://www.solidot.org/story?sid=85167",
      "pubDate": "Sun, 23 Aug 2026 22:07:42 +0800",
      "summary": "数百万棵垂柳和白杨树将北京装缀成一个绿色的大都市。然而根据《Science Advances》上发表的一项研究，柳树和杨树释放出的化合物是城市空气污染的重要来源。广州暨南大学的研究人员最初想要了解人类活动对臭氧污染的影响，结果意外发现城市植被是臭氧的重要来源。植物会释放出挥发性有机化合物，作为植物光合作用的副产品，被广泛种植的柳树和杨树会释放出大量的异戊二烯。研究团队发现，北京 35% 的树木会释放异戊二烯。研究人员在北京各地采集空气样本，测量挥发性有机化合物浓度，在城市各监测站收集臭氧数据。研究发现，在 2021 年 5 月至 7 月期间，植物排放的化合物约占北京总排放量的 10%，其余来自",
      "source": "Solidot",
      "zh": "柳树和杨树释放出的化合物会恶化城市空气质量"
+    },
+    {
+     "title": "Death to px, long live ch",
+     "link": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+     "pubDate": "Sun, 23 Aug 2026 13:56:27 +0000",
+     "summary": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 20 # Comments: 10",
+     "source": "Hacker News",
+     "zh": "Death to px, long live ch"
+    },
+    {
+     "title": "My favorite nonfiction books about cults, scams, and schemes",
+     "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+     "pubDate": "Sun, 23 Aug 2026 13:51:10 +0000",
+     "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 # Comments: 13",
+     "source": "Hacker News",
+     "zh": "My favorite nonfiction books about cults, scams, and schemes"
+    },
+    {
+     "title": "Malware infects Android-based automotive head unit firmware",
+     "link": "https://securelist.com/android-head-unit-malware/121106/",
+     "pubDate": "Sun, 23 Aug 2026 13:05:38 +0000",
+     "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40",
+     "source": "Hacker News",
+     "zh": "Malware infects Android-based automotive head unit firmware"
     },
     {
      "title": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
@@ -1936,54 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
      "source": "WIRED",
      "zh": "What’s the Best Kindle of 2026? (So Far)"
-    },
-    {
-     "title": "Volcanoes that made history",
-     "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-     "pubDate": "Sun, 23 Aug 2026 11:02:54 +0000",
-     "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
-     "source": "Ars Technica",
-     "zh": "Volcanoes that made history"
-    },
-    {
-     "title": "Transistors Changed Everything. Here’s How They Work",
-     "link": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
-     "pubDate": "Sun, 23 Aug 2026 11:00:00 +0000",
-     "summary": "How a tiny little electronic switch sparked the computer revolution.",
-     "source": "WIRED",
-     "zh": "Transistors Changed Everything. Here’s How They Work"
-    },
-    {
-     "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
-     "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
-     "pubDate": "Sun, 23 Aug 2026 10:37:00 +0000",
-     "summary": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
-     "source": "WIRED",
-     "zh": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)"
-    },
-    {
-     "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
-     "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
-     "pubDate": "Sun, 23 Aug 2026 09:30:00 +0000",
-     "summary": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
-     "source": "WIRED",
-     "zh": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App"
-    },
-    {
-     "title": "Is Expensive Bottled Water Actually Better for You?",
-     "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
-     "pubDate": "Sun, 23 Aug 2026 09:00:00 +0000",
-     "summary": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
-     "source": "WIRED",
-     "zh": "Is Expensive Bottled Water Actually Better for You?"
-    },
-    {
-     "title": "银行理财五星管理人评级报告 （2026年7月）",
-     "link": "https://www.tmtpost.com/8113345.html",
-     "pubDate": "Sun, 23 Aug 2026 16:14:53 +0800",
-     "summary": "在固定收益类中，宁银理财有限责任公司、中邮理财有限责任公司和平安理财有限责任公司脱颖而出，成为五星理财子公司。它们的各星级产品数量展示了市场的竞争力与多样性。",
-     "source": "钛媒体",
-     "zh": "银行理财五星管理人评级报告 （2026年7月）"
     }
    ]
   },
@@ -2244,74 +2236,98 @@ window.INDUSTRY_DATA = {
     {
      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
      "link": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
-     "pubDate": "Sun, 23 Aug 2026 22:18:24 GMT",
+     "pubDate": "Sun, 23 Aug 2026 22:39:41 GMT",
      "summary": "Bessent told CNBC that the sanctions will be the \"toughest\" in history.",
      "source": "CNBC",
      "zh": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat"
     },
     {
-     "title": "Dow Jones Futures Fall With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
+     "title": "Dow Jones Futures Fall With Tariffs In Focus; Nvidia, Warsh Ahead",
      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-23T22:11:38Z",
+     "pubDate": "2026-08-23T22:36:44Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "Dow Jones Futures Fall With Market At Key Point; Nvidia, Tariffs, Warsh In Focus"
+     "zh": "Dow Jones Futures Fall With Tariffs In Focus; Nvidia, Warsh Ahead"
     },
     {
-     "title": "美伊冲突 最新消息",
-     "link": "http://global.eastmoney.com/news/11798,202608243850455493.html",
-     "pubDate": "Mon, 24 Aug 2026 06:10:00 +0800",
-     "summary": "伊朗称针对美国各种敌对行动均已制定应对方案 新华社德黑兰8月23日电（记者陈霄沙达提）据伊朗塔斯尼姆通讯社23日报道，伊朗伊斯兰革命卫队发言人穆赫比当天表示，伊朗针对美国各种敌对行动均已制定应对方案，包括应对经济施压。 美军称对伊朗海上封锁以来已拦截75艘商船 央视新闻消息，据美国中央司令部当地时间8月23日的消息，美国“约翰·芬恩”号导弹驱逐舰正在阿拉伯海航行，并执行美国对伊朗的海上封锁任务。截至8月23日，美军已要求70艘商船改变航向，使3艘商船失去行动能力，并登临检查2艘商船。 伊朗官员：若美打经济战霍尔木兹海峡和波斯湾将再无石油出口 当地时间23日，伊朗最高国家安全委员会秘书雷扎伊表示",
+     "title": "贝森特撰文：对伊朗的经济战将势如“诺曼底登陆”",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850458496.html",
+     "pubDate": "Mon, 24 Aug 2026 06:32:32 +0800",
+     "summary": "美财政部长贝森特证实，将于24日正式对外公布对伊“前所未有的经济孤立”措施的具体行动内容。贝森特在英国金融时报发文称，我们正进入决战阶段。黎明时分，一场针对伊朗的经济上的“诺曼底登陆日”即将到来——这是有史以来针对敌对势力发起的最大规模的金融攻势。贝森特还威胁称，任何为这个摇摇欲坠的政权提供金融支持的国家，都应该预料到会遭受同样的孤立。贝森特表示，美国的目标将是切断支撑伊朗政权的每一条经济命脉，直到德黑兰孤立无援。按照此前贝森特释放的信号，美方将动用全部执法工具，对继续和伊朗开展相关业务往来的国家、企业实施次级制裁，重点瞄准三类经贸活动：购买伊朗石油、向伊朗转账汇款和海上船-船转运伊朗原油。值",
      "source": "东方财富股票",
-     "zh": "美伊冲突 最新消息"
+     "zh": "贝森特撰文：对伊朗的经济战将势如“诺曼底登陆”"
+    },
+    {
+     "title": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?",
+     "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-vs-thermo-fisher-223203633.html",
+     "pubDate": "2026-08-23T22:32:03Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?"
+    },
+    {
+     "title": "早读｜收购环节蘸甲醛？从严从快追查问题白菜流向",
+     "link": "http://finance.eastmoney.com/news/1350,202608243850458015.html",
+     "pubDate": "Mon, 24 Aug 2026 06:28:03 +0800",
+     "summary": "早上好！上观新闻『早读』来啦！今天是2026年8月24日星期一，农历七月十二。 § 昨日今晨 甲醛白菜｜ 国家市场监督管理总局23日晚发布消息，针对舆论关注的河北省张家口市康保县“白菜收购环节蘸取甲醛溶液”问题，国务院食安办、农业农村部、市场监管总局高度重视，第一时间指导属地调查核实，依法从严从快处置，对涉事白菜流向进行追查，严防问题产品流入市场。同时举一反三，组织各地立即开展白菜等易腐蔬菜专项抽检和市场排查，一旦发现违法违规行为，将严惩重处、决不姑息。 嫦娥七号 ｜ 央视新闻消息，记者23日从中国载人 航天工程 办公室了解到，本着稳妥可靠、万无一失的原则，经 综合 研判，嫦娥七号任务不满足发",
+     "source": "东方财富股票",
+     "zh": "早读｜收购环节蘸甲醛？从严从快追查问题白菜流向"
+    },
+    {
+     "title": "阿里巴巴：按配售价112.70港元每股配售7.1亿股新股份 预计配售所得款项总额为800亿港元",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850457079.html",
+     "pubDate": "Mon, 24 Aug 2026 06:22:06 +0800",
+     "summary": "阿里巴巴 在港交所公告，董事会欣然宣布，于2026年8月23日，公司与联席整体协调人（为其自身并代表共同簿记管理人）订立配售协议，据此，公司同意委任联席整体协调人及共同簿记管理人处理有关配售事宜，而联席整体协调人已同意担任公司代理，以促使不少于六名承配人（为美国境外之非美国人士的专业、机构或其他投资者），按配售价112.70港元每股配售股份认购710,000,000股新股份。预计配售将于2026年8月26日完成，唯须符合惯常完成条件。假设配售股份总数已全部配售予承配人，预计配售所得款项总额将为800亿港元，而配售所得款项净额（扣除配售佣金及预计开支后）约为797亿港元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "阿里巴巴：按配售价112.70港元每股配售7.1亿股新股份 预计配售所得款项总额为800亿港元"
+    },
+    {
+     "title": "Stock futures slip as U.S. and Canada appear headed for trade war",
+     "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 22:22:00 GMT",
+     "summary": "U.S. stock-index futures dipped on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trade partners.",
+     "source": "MarketWatch",
+     "zh": "Stock futures slip as U.S. and Canada appear headed for trade war"
+    },
+    {
+     "title": "Danaher vs. Intuitive Surgical: Is Recovery or Innovation the Better Long-Term Bet?",
+     "link": "https://finance.yahoo.com/healthcare/articles/danaher-vs-intuitive-surgical-recovery-222135336.html",
+     "pubDate": "2026-08-23T22:21:35Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Danaher vs. Intuitive Surgical: Is Recovery or Innovation the Better Long-Term Bet?"
+    },
+    {
+     "title": "美军称在中东地区海域开展舰艇补给作业",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850456872.html",
+     "pubDate": "Mon, 24 Aug 2026 06:20:51 +0800",
+     "summary": "当地时间8月23日，美国中央司令部称，美国海军一架MH-60S“海鹰”直升机在中东地区海域为“拳师”号两栖攻击舰执行垂直补给任务，物资由“北极”号快速战斗支援舰提供。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "美军称在中东地区海域开展舰艇补给作业"
+    },
+    {
+     "title": "人形机器人“手”“脑”并进 赛场“淬炼”推动应用落地",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850456557.html",
+     "pubDate": "Mon, 24 Aug 2026 06:18:04 +0800",
+     "summary": "8月22日至26日，第二届世界人形 机器人 运动会在京举办。赛场上，人形 机器人 接连刷新跳高、短跑等多项对标人类的运动纪录，不仅能与人类运动员对打乒乓球、网球，还能用灵巧手完成积木搭建、镊子夹豆等精细作业。一场场竞技不仅是技术的直观展演，也是对 机器人 走向产业应用的公开检验。 记者采访了解到， 机器人 算法提升、大小脑协同，正大幅提升其运动能力，而灵巧手、触觉 传感器 的技术进步，让 机器人 提升了任务执行能力。赛场之外，行业正探索把竞赛淬炼出的技术能力迁移至更多真实场景。 大小脑协同运动能力升级 在8月22日晚举行的运动会开幕式上，北京 人形机器人 创新中心有限公司（简称“北京人形”）的",
+     "source": "东方财富股票",
+     "zh": "人形机器人“手”“脑”并进 赛场“淬炼”推动应用落地"
+    },
+    {
+     "title": "Thermo Fisher vs. Intuitive Surgical: Which Premium Healthcare Stock Deserves its Valuation?",
+     "link": "https://finance.yahoo.com/healthcare/articles/thermo-fisher-vs-intuitive-surgical-221530352.html",
+     "pubDate": "2026-08-23T22:15:30Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Thermo Fisher vs. Intuitive Surgical: Which Premium Healthcare Stock Deserves its Valuation?"
     },
     {
      "title": "8月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
      "link": "http://finance.eastmoney.com/news/1344,202608233850406014.html",
      "pubDate": "Mon, 24 Aug 2026 06:03:16 +0800",
-     "summary": "8月24日(星期一)，今日报刊头条主要内容精华如下： 上海证券报 机构展望 | 美债扰动不改A股中期运行逻辑 券商建议锚定盈利修复主线 过去一周，美债长端利率快速上行，成为压制市场风险偏好的核心变量。其中，成长风格受到的影响尤为显著。券商策略展望报告认为，短期来看，市场或仍受海外波动、筹码结构扰动而出现震荡反复，但外部冲击并未改变A股中期运行的核心逻辑，后续随着国内政策效果逐步显现、企业盈利持续修复，反弹行情有望延续。 三大运营商半年报透视：算力与Token经营成转型主引擎 近日， 中国移动 、 中国电信 、 中国联通 的半年报引发广泛讨论。增值税税率上调、流量红利消退、传统业务见顶等多重压力",
-     "source": "东方财富股票",
+     "summary": "8月24日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 报告显示 全国一体化算力网加速成形 8月22日，2026绿色算力（ 人工智能 ）大会在内蒙古自治区呼和浩特市举行。在大会开幕式上，中国信息 通信 研究院副院长敖立发布《绿色算力发展研究报告（2026年）》。报告认为，当前，我国算力规模快速增长，算力设备向高能效方向升级，算力载体绿色化转型进展积极，算电协同从理念走向实践，算力网、词元经济、算力出海等新模式新业态成为新增长极，全国一体化算力网加速成形。 “沪八条”新政落地 上海优化楼市信贷政策 畅通置换链条 8月20日，上海市住房城乡建设管理委、市房屋管理局、市财政局、人民 银行 ",
+     "source": "东方财富资讯",
      "zh": "8月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "周一亚太早盘 WTI原油期货价格跌0.68%",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850452768.html",
-     "pubDate": "Mon, 24 Aug 2026 06:01:45 +0800",
-     "summary": "周一亚太早盘，WTI原油 期货 价格跌0.68%，报86.467美元/桶。现货 黄金 价格涨0.31%，报4618.86美元/盎司。",
-     "source": "东方财富股票",
-     "zh": "周一亚太早盘 WTI原油期货价格跌0.68%"
-    },
-    {
-     "title": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?",
-     "link": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-23T22:01:08Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?"
-    },
-    {
-     "title": "东方财富财经早餐 8月24日周一",
-     "link": "http://finance.eastmoney.com/news/1344,202608233850402334.html",
-     "pubDate": "Mon, 24 Aug 2026 06:00:45 +0800",
-     "summary": "每日精选 通信 网建设 ： 据央视新闻，国务院总理李强8月21日主持召开国务院常务会议，听取新一代 通信 网建设情况汇报。会议指出， 要积极顺应新一轮科技革命和产业变革趋势，牢牢把握新一代 通信 网建设的机遇 ，坚持应用牵引、适度超前，统筹推进基础网络、空间网络、国际网络、融合网络建设，巩固提升我国信息通信业竞争优势。 阿里拟配售800亿港元新股： 媒体记者获悉， 阿里巴巴 宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是 阿里巴巴 2019年港股上市以来首次启动新股配售。 本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设 ，进一步巩固阿里在AI领",
-     "source": "东方财富股票",
-     "zh": "东方财富财经早餐 8月24日周一"
-    },
-    {
-     "title": "为缓和紧张局势 叙过渡政府外长会见以色列摩萨德局长",
-     "link": "http://global.eastmoney.com/news/11798,202608243850454621.html",
-     "pubDate": "Mon, 24 Aug 2026 06:00:30 +0800",
-     "summary": "据以色列第12频道23日报道，知情人士透露，叙利亚过渡政府外长希巴尼当天与以色列情报和特勤局（摩萨德）局长戈夫曼举行会面。报道称此次会面“效果良好”，旨在平息两国之间的紧张局势。 此前，以军18日曾对位于叙利亚西北部伊德利卜省的阿布祖胡尔空军基地实施空袭，叙利亚过渡政府外交部对此强烈谴责，称这是“毫无正当理由的侵略行径”。（央视新闻） （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "为缓和紧张局势 叙过渡政府外长会见以色列摩萨德局长"
-    },
-    {
-     "title": "美联储9月维持利率不变的概率为59.0%",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850453694.html",
-     "pubDate": "Mon, 24 Aug 2026 06:00:15 +0800",
-     "summary": "据CME“美联储观察”：美联储到9月维持利率不变的概率为59.0%，累计加息25个基点的概率为41.0%。美联储到10月维持利率不变的概率为46.6%，累计加息25个基点的概率为44.8%，累计加息50个基点的概率为8.6% （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "美联储9月维持利率不变的概率为59.0%"
     },
     {
      "title": "Here are the major earnings before the open Monday",
@@ -2352,14 +2368,6 @@ window.INDUSTRY_DATA = {
      "summary": "Countries that calculate appeasement of the regime to be a safer choice should reconsider",
      "source": "Financial Times",
      "zh": "An economic D-Day is coming for Iran"
-    },
-    {
-     "title": "Gilead’s Revenue Is Accelerating, But are its Acquisitions Worth the Cost?",
-     "link": "https://finance.yahoo.com/healthcare/articles/gilead-revenue-accelerating-acquisitions-worth-195747159.html",
-     "pubDate": "2026-08-23T19:57:47Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Gilead’s Revenue Is Accelerating, But are its Acquisitions Worth the Cost?"
     },
     {
      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
@@ -2442,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?"
     },
     {
-     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 16:45:00 GMT",
-     "summary": "“The cost is absolutely ridiculous.”",
-     "source": "MarketWatch",
-     "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
-    },
-    {
      "title": "“沪八条”重在畅通一二手房联动",
      "link": "http://www.eeo.com.cn/2026/0824/1009018.shtml",
      "pubDate": "Mon, 24 Aug 2026 00:26:13 +0800",
@@ -2472,14 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "■韩昱 美国联邦政府债务（以下简称“美债”）规模一路“狂飙”。美国财政部日前公布的数据显示，美债总额首次突破40万亿美元，再创历史新高。笔者认为，这一数字揭示了三重风险。 首先是美国债务失控风险，美债规模正呈现“滚雪球”式增长。 美债起源可追溯至美国独立战争时期，其先后经历了早期发展、快速扩张和加速膨胀等阶段。美债规模达到1万亿美元用时超过200年，从1万亿美元到突破10万亿美元仅用了27...",
      "source": "经济观察网",
      "zh": "美债“狂飙”背后的三重风险"
-    },
-    {
-     "title": "多措并举激发民间投资活力",
-     "link": "http://www.eeo.com.cn/2026/0824/1009015.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:08 +0800",
-     "summary": "■刘萌 8月20日，国家发展改革委主任郑栅洁主持召开座谈会，与来自电气设备、制药装备、消费服务、智能终端、纺织服装及冶金化工领域的企业负责人深入交流。这是今年以来国家发展改革委召开的第七场民营企业座谈会。 民营企业扎根市场最前沿，对需求冷暖、投资难点感知最为敏锐。把来自市场一线的真实声音纳入政策考量，能够让宏观调控举措更加贴合市场实际，提升政策落地实效。 此前多场民营企业座谈会，分...",
-     "source": "经济观察网",
-     "zh": "多措并举激发民间投资活力"
     }
    ]
   },

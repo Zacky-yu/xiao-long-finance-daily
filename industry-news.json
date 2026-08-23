@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/24 03:01:47",
+ "generated_at": "2026/8/24 03:31:15",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+     "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+     "pubDate": "Sun, 23 Aug 2026 19:14:08 +0000",
+     "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+     "source": "TechCrunch AI",
+     "zh": "Linkdaze’s smart calendar is built to run a household, not just track a schedule"
+    },
     {
      "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
      "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
@@ -161,14 +169,6 @@
      "zh": "OpenAI says California should strengthen its AI safety bill"
     },
     {
-     "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-     "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-     "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000",
-     "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-     "source": "TechCrunch AI",
-     "zh": "Frontier AI labs still won’t say how they’d contain a rogue model"
-    },
-    {
      "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
      "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
      "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "CEO Interview with Ajit Prabhu of Quest Global",
+     "link": "https://semiwiki.com/ceo-interviews/372266-ceo-interview-with-ajit-prabhu-of-quest-global/",
+     "pubDate": "Sun, 23 Aug 2026 19:00:20 +0000",
+     "summary": "Ajit Prabhu is the Co-Founder and CEO of Quest Global, a global engineering services company driven by a single purpose: to be the most trusted partner for solving the world’s hardest engineering problems. Under his leadership, Quest Global has built long-term, sustainable partnerships and delivers ",
+     "source": "SemiWiki",
+     "zh": "CEO Interview with Ajit Prabhu of Quest Global"
+    },
     {
      "title": "The Twelve-Month Rule Does Not Describe a New Fab",
      "link": "https://semiwiki.com/semiconductor-manufacturers/372509-the-twelve-month-rule-does-not-describe-a-new-fab/",
@@ -407,14 +415,6 @@
      "summary": "Yesterday US President Donald Trump signed a memo aimed at enabling 1,000 US rocket launches and re-entries a year – up from 178 launches in 2025. The memo requires agencies […] The post White House looking for 1000 rocket launches a year appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "White House looking for 1000 rocket launches a year"
-    },
-    {
-     "title": "Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes",
-     "link": "https://semiwiki.com/eda/agentrys/372384-agentrys-shows-you-how-to-build-a-multi-agent-system-in-30-minutes/",
-     "pubDate": "Thu, 20 Aug 2026 21:00:25 +0000",
-     "summary": "Agentrys believes that a purpose-built multi-agent system for chip design shouldn’t be a quarter-long project. Agentic AI systems are becoming quite popular to cut design time and increase quality for complex chip design projects. The challenge is finding the right agentic flow for a particular appl",
-     "source": "SemiWiki",
-     "zh": "Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes"
     },
     {
      "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Super El Niño Threatens Food, Water and Trade Worldwide",
+     "link": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-Threatens-Food-Water-and-Trade-Worldwide.html",
+     "pubDate": "Sun, 23 Aug 2026 14:00:00 -0500",
+     "summary": "The world is set to experience an extremely intense El Niño weather event this year, with warmer-than-normal sea surface temperatures in the tropical Pacific. This could disrupt typical weather patterns and lead to heavy rainfall in some regions and severe drought in others. While it is unclear whet",
+     "source": "OilPrice",
+     "zh": "Super El Niño Threatens Food, Water and Trade Worldwide"
+    },
+    {
      "title": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
      "link": "https://oilprice.com/Energy/Energy-General/Private-Equity-Is-Circling-Utilities-as-AI-Reshapes-the-Grid.html",
      "pubDate": "Sun, 23 Aug 2026 13:00:00 -0500",
@@ -927,14 +935,6 @@
      "summary": "Quarterly reports from the Postal & Telecommunications Regulatory Authority of Zimbabwe (POTRAZ) always bring out some interesting insights. I am always on the lookout for these whenever they get published, especially these days since the launch of Starlink in Zimbabwe. Starlink launched in Zimbabwe",
      "source": "CleanTechnica",
      "zh": "Starlink Is Now The Largest ISP In Zimbabwe By Subscriber Count!"
-    },
-    {
-     "title": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
-     "link": "https://oilprice.com/Energy/Energy-General/Clean-Energy-Spending-Tracking-Toward-Record-180-Billion-in-2026.html",
-     "pubDate": "Sat, 22 Aug 2026 14:00:00 -0500",
-     "summary": "Donald Trump is accidentally overseeing a massive buildout of the country’s renewable energy capacity and infrastructure. Not only are investments in renewable technologies soaring to new highs, the national energy grid is rapidly transforming to accommodate an increasingly solar- and wind-powered e",
-     "source": "OilPrice",
-     "zh": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026"
     },
     {
      "title": "AC-Coupled vs. DC-Coupled",
@@ -1745,6 +1745,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders&apos; interest (Katie Roof/Business Insider)",
+     "link": "https://www.techmeme.com/260823/p9#a260823p9",
+     "pubDate": "Sun, 23 Aug 2026 15:20:01 -0400",
+     "summary": "Katie Roof / Business Insider : Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders' interest &nbsp; &mdash;&nbsp; The AI industry's next blockbuster acquisition may not be another model maker.&nbsp; &",
+     "source": "Techmeme",
+     "zh": "Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders&apos; interest (Katie Roof/Business Insider)"
+    },
+    {
      "title": "《牛来》封神记：烂片名垂影史的三大条件",
      "link": "https://www.huxiu.com/article/4885325.html?f=rss",
      "pubDate": "Mon, 24 Aug 2026 02:30:08 +0800",
@@ -1975,14 +1983,6 @@
      "summary": "How a tiny little electronic switch sparked the computer revolution.",
      "source": "WIRED",
      "zh": "Transistors Changed Everything. Here’s How They Work"
-    },
-    {
-     "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
-     "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
-     "pubDate": "Sun, 23 Aug 2026 10:37:00 +0000",
-     "summary": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
-     "source": "WIRED",
-     "zh": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)"
     }
    ]
   },
@@ -2241,6 +2241,46 @@
    "total": 13,
    "items": [
     {
+     "title": "市场潜力大出海空间广 生物医药价值重估在路上",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850442972.html",
+     "pubDate": "Mon, 24 Aug 2026 03:21:14 +0800",
+     "summary": "“三五年内，沪市生物医药行业的估值还有提升空间。”在近日举行的一场沪市生物医药行业沙龙中，富国基金权益研究部行业研究员杨波说。 近两个月来，医药股迎来一波行情。以全指医药（000991）为例，该指数自6月22日以来累计涨幅达15.64%。 创新药 当前估值是否充分反映未来三五年预期？杨波认为答案是否定的。在杨波看来，国内市场潜力巨大，未来不排除大单品涌现；出海方面，市场也显著低估了BD（商务拓展）带来的确定性现金流。 创新药 价值尚未充分释放 今年上半年，生物医药板块整体估值处于相对低位，市场情绪偏谨慎。 华海药业 副总裁祝永华表示，随着国内药企源头创新能力持续提升、全球商业化体系不断完善、产",
+     "source": "东方财富股票",
+     "zh": "市场潜力大出海空间广 生物医药价值重估在路上"
+    },
+    {
+     "title": "人工智能开源社区Hugging Face据称目前正收到多份并购提议 潜在交易价值达到130亿美元",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850445195.html",
+     "pubDate": "Mon, 24 Aug 2026 03:11:22 +0800",
+     "summary": "人工智能 开源社区Hugging Face据称目前正收到多份并购提议，潜在交易价值达到130亿美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "人工智能开源社区Hugging Face据称目前正收到多份并购提议 潜在交易价值达到130亿美元"
+    },
+    {
+     "title": "几内亚首都一垃圾填埋场垮塌造成至少30人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850445069.html",
+     "pubDate": "Mon, 24 Aug 2026 03:05:14 +0800",
+     "summary": "几内亚政府当地时间23日发布通报说，该国首都科纳克里郊区一处垃圾填埋场当天发生垮塌事故，已造成30人死亡、22人受伤，其中6人重伤。 据悉，事故发生在23日凌晨3时左右。事故发生前，科纳克里地区遭遇强降雨。或受此影响，该垃圾填埋场发生垮塌，掩埋了附近部分区域人员，并造成财产损失。 目前，搜救和清理工作仍在进行。几内亚总理阿马杜·乌里·巴已前往事故现场指导救援工作。 据当地媒体报道，几内亚有关部门原计划于23日关闭该垃圾填埋场，而垮塌事故恰于当天发生。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "几内亚首都一垃圾填埋场垮塌造成至少30人死亡"
+    },
+    {
+     "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+     "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 19:00:00 GMT",
+     "summary": "“I’m curious whether there’s a downside.”",
+     "source": "MarketWatch",
+     "zh": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?"
+    },
+    {
+     "title": "法国电力公司（EDF）表示 圣阿尔班2号机组输出功率从1335兆瓦降至150兆瓦",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850444928.html",
+     "pubDate": "Mon, 24 Aug 2026 02:55:17 +0800",
+     "summary": "法国 电力 公司（EDF）表示，圣阿尔班2号机组输出功率从1335兆瓦降至150兆瓦。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "法国电力公司（EDF）表示 圣阿尔班2号机组输出功率从1335兆瓦降至150兆瓦"
+    },
+    {
      "title": "SA Asks: Will Bessent's recent moves to curb bond yields boost the stock market?",
      "link": "https://seekingalpha.com/news/4636065-sa-asks-will-bessents-recent-moves-to-curb-bond-yields-boost-the-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 23 Aug 2026 14:47:44 -0400",
@@ -2265,6 +2305,14 @@
      "zh": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus"
     },
     {
+     "title": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850444882.html",
+     "pubDate": "Mon, 24 Aug 2026 02:35:02 +0800",
+     "summary": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业"
+    },
+    {
      "title": "Hedge funds and mutual funds split on the AI trade - Goldman",
      "link": "https://seekingalpha.com/news/4636064-hedge-funds-and-mutual-funds-split-on-the-ai-trade-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 23 Aug 2026 14:31:24 -0400",
@@ -2273,52 +2321,12 @@
      "zh": "Hedge funds and mutual funds split on the AI trade - Goldman"
     },
     {
-     "title": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850444882.html",
-     "pubDate": "Mon, 24 Aug 2026 02:25:02 +0800",
-     "summary": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业"
-    },
-    {
      "title": "美内华达州山火迅速蔓延 近1.4万户居民被要求撤离",
      "link": "http://finance.eastmoney.com/news/1351,202608243850444792.html",
      "pubDate": "Mon, 24 Aug 2026 02:21:45 +0800",
      "summary": "当地时间8月23日获悉，美国内华达州北部里诺市郊的“霍克”山火当日清晨从内华达山脉山麓向里诺市中心方向迅速蔓延，过火面积已超过1.05万英亩，近1.4万户居民收到强制撤离令。 里诺当地消防部门表示，强劲阵风、低湿度和干燥植被正在助长火势。目前约有400名人员参与灭火，地方、州和联邦机构均已投入地面和空中力量。里诺市长希拉里·希夫敦促收到撤离通知的居民立即离开，并称已有建筑被烧毁。 截至23日，沃肖县近1万户家庭和企业停电，美国395号公路部分路段因火灾关闭。内华达州州长乔·隆巴多已宣布沃肖县进入紧急状态。 本月早些时候，里诺以北地区已有三场受高温、干燥和大风天气推动的山火，曾迫使超过1.3万名",
      "source": "东方财富股票",
      "zh": "美内华达州山火迅速蔓延 近1.4万户居民被要求撤离"
-    },
-    {
-     "title": "新一代通信网建设提速 空天地海全域发力",
-     "link": "http://finance.eastmoney.com/news/1350,202608243850443531.html",
-     "pubDate": "Mon, 24 Aug 2026 02:13:16 +0800",
-     "summary": "8月21日召开的国务院常务会议指出，要积极顺应新一轮科技革命和产业变革趋势，牢牢把握新一代 通信 网建设的机遇，坚持应用牵引、适度超前，统筹推进基础网络、空间网络、国际网络、融合网络建设，巩固提升我国信息 通信 业竞争优势。要强化创新驱动、智能引领，普及推广新一代智能终端，积极培育 智慧城市 、智能制造等高价值场景，不断壮大产业生态。要加强关键网络基础设施和 数据安全 保护，提升应急保障 通信 能力，确保网络和信息安全。要健全政府引导、企业为主、社会参与的建设机制，做好用地、用电、频谱等要素保障，激发各类主体积极性。 新一代通信网包括哪些内容？ 中国移动 研究院未来研究院副院长金婧认为，采用新",
-     "source": "东方财富股票",
-     "zh": "新一代通信网建设提速 空天地海全域发力"
-    },
-    {
-     "title": "伊朗总统称应摆脱非战非和状态",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850441856.html",
-     "pubDate": "Mon, 24 Aug 2026 02:03:51 +0800",
-     "summary": "据伊朗官方通讯社伊通社8月23日报道，伊朗总统佩泽希齐扬当地时间8月22日晚在德黑兰出席一场活动时表示，伊朗最高国家安全委员会成员均认为，此前与美国达成的谅解备忘录是基于尊严、智慧及国家利益所能达成的最佳方案。这份备忘录中“找不到任何一项条款表明伊朗投降或作出退让”，相关承诺均由对方承担。但伊朗也应以理性方式，使国家摆脱眼下这种“既非战争、也非和平”的状态，在战争或“非战非和”的状态下，伊朗难以吸引投资。他还提及已故最高领袖阿里·哈梅内伊也曾明确表示必须摆脱“非战非和”状态。佩泽希齐扬还表示，伊朗最高领袖穆杰塔巴·哈梅内伊制定国家政策，政府将按照相关政策继续推进有关工作。 （文章来源：CCTV",
-     "source": "东方财富股票",
-     "zh": "伊朗总统称应摆脱非战非和状态"
-    },
-    {
-     "title": "35度“秒变”零下6度 冰雪消费“南展西扩东进”稳步演进",
-     "link": "http://finance.eastmoney.com/news/1348,202608243850443261.html",
-     "pubDate": "Mon, 24 Aug 2026 02:01:35 +0800",
-     "summary": "盛夏，走进位于无锡市滨湖区的无锡热雪奇迹滑雪场，场馆内温度低至零下6摄氏度。穿着炫酷的雪服、装备齐全的滑雪爱好者，从138米长的雪道顶端呼啸而下。一旁的娱雪区，“天空”飘着雪花，游客穿梭在雪屋、冰雕、冰滑梯之间。 地处华东的无锡，全年自然降雪不多，室内雪场为冰雪爱好者们提供了随时随地接触冰雪的机会。无锡热雪奇迹负责人金利辉告诉证券时报记者，今年暑期该滑雪场整体客流明显增长，尤其是8月份以来，游客滑雪和娱雪需求明显提升，客流已超过去年同期。 暑期冰雪消费火热 无锡热雪奇迹于2019年开业，是华东地区较早的室内滑雪场。换上厚厚的棉外套、鞋套，穿过一道门帘，便进入一片“冰雪世界”。帘外是35摄氏度的",
-     "source": "东方财富股票",
-     "zh": "35度“秒变”零下6度 冰雪消费“南展西扩东进”稳步演进"
-    },
-    {
-     "title": "券商“三投联动”直面现实拷问：投行强在当下 投资如何赢在未来？",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850442737.html",
-     "pubDate": "Mon, 24 Aug 2026 02:01:32 +0800",
-     "summary": "近期， 长鑫科技 、宇树科技等硬科技企业首发（IPO）的造富效应，让券商“三投联动”模式成为行业热词。 “三投联动”的理念雏形诞生于2010年前后券商直投业务兴起阶段。彼时 创投 界认为，券商股权投资可联动母公司投行、研究所形成协同优势，为普通市场化私募股权投资及风险投资（PE/VC）所不及。历经十余年发展，“投早投小”“三投联动”如今才被券商提升到战略高度，实际落地仍遭遇多重现实考验。 多个行业案例显示，除头部机构外，部分券商参与早期投资的项目走到IPO环节，保荐承销业务却交由其他机构承接，无法做到“从鱼头吃到鱼尾”。这套备受期待的协同模式，在券商体系内的实际运行效果，引发行业广泛关注。 投",
-     "source": "东方财富股票",
-     "zh": "券商“三投联动”直面现实拷问：投行强在当下 投资如何赢在未来？"
     },
     {
      "title": "Warsh seeks to soothe investors’ nerves as signs of economic strain mount",
@@ -2463,14 +2471,6 @@
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them"
-    },
-    {
-     "title": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
-     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html",
-     "pubDate": "2026-08-23T15:25:23Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development"
     },
     {
      "title": "机器人缺数据，奥比中光当上了“卖铲人”",

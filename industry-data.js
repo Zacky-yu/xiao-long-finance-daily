@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 19:22:36",
+ "generated_at": "2026/8/23 19:48:53",
  "recent_days": 7,
  "industries": [
   {
@@ -1061,7 +1061,7 @@ window.INDUSTRY_DATA = {
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
+     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
      "source": "Utility Dive",
      "zh": "PJM eyes option to jumpstart surplus interconnection pathway"
     },
@@ -1082,12 +1082,12 @@ window.INDUSTRY_DATA = {
      "zh": "Daqo New Energy narrows Q2 losses, resumes sales below cost"
     },
     {
-     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
-     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
-     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
-     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
-     "source": "Energy Storage News",
-     "zh": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal"
+     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
+     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
+     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
+     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
+     "source": "Utility Dive",
+     "zh": "ERCOT aims to complete Texas governor’s data center audit by December"
     }
    ]
   },
@@ -1746,6 +1746,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "2 分 30 秒完赛，荣耀机器人“闪电”打破 1500 米人类世界纪录",
+     "link": "https://www.ithome.com/0/993/262.htm",
+     "pubDate": "Sun, 23 Aug 2026 11:44:22 GMT",
+     "summary": "IT之家 8 月 23 日消息，今天（23 日）晚间，荣耀手机官微宣布，在第二届世界人形机器人运动会 1500 米大型组项目决赛中，荣耀机器人“闪电” 以 2 分 30 秒的成绩完赛 ，打破 1500 米人类世界纪录。 值得一提的是，在本届运动会 400 米大型组田径项目中，荣耀机器人闪电以 40.6 秒的惊人成绩 冲线，打破该项人类世界纪录。 综合IT之家此前报道，在今年 4 月 19 日举行的 2026 北京亦庄半程马拉松暨人形机器人半程马拉松中，荣耀自研的齐天大圣队人形机器人闪电以 50 分 26 秒的净时成绩夺冠。该成绩超越了乌干达名将基普利莫于 2026 年 3 月创造的 57 分 ",
+     "source": "IT之家",
+     "zh": "2 分 30 秒完赛，荣耀机器人“闪电”打破 1500 米人类世界纪录"
+    },
+    {
+     "title": "开学网课走起：百度网盘超级会员 + 百度文库年卡 199 元半价预售",
+     "link": "https://www.ithome.com/0/993/261.htm",
+     "pubDate": "Sun, 23 Aug 2026 11:37:20 GMT",
+     "summary": "百度网盘 SVIP 会员年卡官方定价 298 元，百度文库 VIP 会员年卡官方定价 129 元，合计 427 元。 今日开学狂促预售 联合年卡仅需 199 元 ，立打 4.66 折： 天猫 百度文库 + 百度网盘 联合年卡 全款预售 8 月 25 日到账 199 元 直达链接 今日注：现购买权益时长 + 已有权益时长， 不能超过 5 年 ，否则会充值失败。 购买前需在百度网盘开启手机号登录再下单。 百度网盘 SVIP 特权： . 天猫 百度文库 + 百度网盘 联合年卡 全款预售 8 月 25 日到账 199 元 直达链接",
+     "source": "IT之家",
+     "zh": "开学网课走起：百度网盘超级会员 + 百度文库年卡 199 元半价预售"
+    },
+    {
+     "title": "“又贵又难吃”的歹毒漂亮饭，年轻人为什么抢着买单？",
+     "link": "https://www.huxiu.com/article/4885295.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 19:30:59 +0800",
+     "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：王秀清 谷子餐厅扎堆开店，但和传统餐饮完全不是一套逻辑。 一家主题餐厅从开业到闭店，竟然只用了43天？ 这是GOODSLOVE在成都、广州两地为《甄嬛传》主题餐厅设定的营业时长。6月19日开业，7月31日收官，掐头去尾刚好覆盖暑期档最热的一个多月。 一家餐厅只卖43天，听起来不太常规，但在IP主题餐厅的赛道上，这算是一种计划内的周期。据行业观察，仅2026年7月，全国新开的二次元主题快闪餐饮店就有近20家，生命周期都以“天”来计算。 这些店还有另一个名字：谷子餐厅。“谷子”是英文Goods的音译，在二次元圈层里特指IP周边商品——徽章、立",
+     "source": "虎嗅",
+     "zh": "“又贵又难吃”的歹毒漂亮饭，年轻人为什么抢着买单？"
+    },
+    {
+     "title": "挪威呼吁校园内禁止使用 AI 眼镜",
+     "link": "https://www.ithome.com/0/993/260.htm",
+     "pubDate": "Sun, 23 Aug 2026 11:28:01 GMT",
+     "summary": "IT之家 8 月 23 日消息，据 CCTV 国际时讯援引挪威广播公司报道，挪威负责中小学教育及幼教事务的大臣卡丽 · 内萨 · 诺尔敦当地时间 8 月 22 日呼吁，挪威各地方政府和学校应通过学校规章制度， 禁止在校园内使用 AI 眼镜 。 据悉，挪威政府目前限制在学校场景下使用 AI，要求小学 1 至 7 年级学生 原则上不应使用生成式 AI ；初中阶段则“应 逐步、谨慎地引入生成式 AI ”。 延伸阅读 据IT之家了解，早在 2026 年 6 月，挪威政府就已宣布，从 8 月下旬新学期开始，在小学（1-7 年级，6-13 岁）全面禁止使用生成式 AI 工具，并计划通过立法要求学校提供更多",
+     "source": "IT之家",
+     "zh": "挪威呼吁校园内禁止使用 AI 眼镜"
+    },
+    {
      "title": "诺亦腾机器人发布 HiPHI，开源 617.5 小时高精度人体运动数据",
      "link": "https://www.ithome.com/0/993/258.htm",
      "pubDate": "Sun, 23 Aug 2026 11:18:50 GMT",
@@ -1778,12 +1810,12 @@ window.INDUSTRY_DATA = {
      "zh": "What’s the Best Kindle of 2026? (So Far)"
     },
     {
-     "title": "“消失”的万亿债务",
+     "title": "“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险",
      "link": "https://www.huxiu.com/article/4885285.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 19:00:20 +0800",
-     "summary": "本文来自微信公众号： 硅谷101 ，作者：硅谷101，原文标题：《&ldquo;消失&rdquo;的万亿债务：深扒数据中心&ldquo;影子借贷&rdquo;、GPU金融化与次贷风险》，题图来自：视觉中国 1.65万亿美元，用100美元纸币首尾相连，可以绕地球赤道约64圈。这个数字，是如今美国五大数据中心的发债总额。而如今，这些负债，似乎离奇地&ldquo;消失&rdquo;了。 它们藏到哪里去了呢？国际清算银行给这种做法起了个名字：Shadow Borrowing （影子借贷） 。如今，被称为hyperscaler的大型云巨头们，正在用这样的手法，藏起天价债务数字，目的是让自己有一张更干净的",
+     "pubDate": "Sun, 23 Aug 2026 19:00:21 +0800",
+     "summary": "本文来自微信公众号： 硅谷101 ，作者：硅谷101，题图来自：视觉中国 1.65万亿美元，用100美元纸币首尾相连，可以绕地球赤道约64圈。这个数字，是如今美国五大数据中心的发债总额。而如今，这些负债，似乎离奇地&ldquo;消失&rdquo;了。 它们藏到哪里去了呢？国际清算银行给这种做法起了个名字：Shadow Borrowing （影子借贷） 。如今，被称为hyperscaler的大型云巨头们，正在用这样的手法，藏起天价债务数字，目的是让自己有一张更干净的资产负债表。 这篇文章我们就来聊聊， AI数据中心背后的债务账。 我们仔细翻阅了大型数据中心的各类申报文件，找出了至少五种不同的藏债",
      "source": "虎嗅",
-     "zh": "“消失”的万亿债务"
+     "zh": "“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险"
     },
     {
      "title": "Transistors Changed Everything. Here’s How They Work",
@@ -1826,12 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "Xbox 技术总监：我们支持保护知识产权，正与 Take-Two 和 R 星密切合作"
     },
     {
-     "title": "广汽埃安 N60 曜夜型格运动套装上市：价值 6666 元，限时免费送",
-     "link": "https://www.ithome.com/0/993/255.htm",
-     "pubDate": "Sun, 23 Aug 2026 10:47:21 GMT",
-     "summary": "IT之家 8 月 23 日消息，广汽埃安 N60 曜夜型格运动套装现已上市，价值 6666 元，8 月购车限时免费送。 据介绍，曜夜型格运动套装包含曜夜前唇、驭风后扰流、边锋侧裙、掠风尾翼；全套黑化风格，优化车身姿态。 据IT之家此前报道， 广汽埃安 N60 纯电紧凑型 SUV 于 4 月 28 日上市 ，依据 CLTC 续航里程的不同分为 410km、510km 和 610km 三个版本，官方指导价分别为 10.98 万元、11.98 万元、12.98 万元。 目前该车有 5000 元的限时焕新补贴和 999 元抵 2000 元限时膨胀金， 限时焕新价 10.38 万元起 。 新车长宽高分别",
-     "source": "IT之家",
-     "zh": "广汽埃安 N60 曜夜型格运动套装上市：价值 6666 元，限时免费送"
+     "title": "'AI refuser' quit her dream job, and hopes others follow",
+     "link": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+     "pubDate": "Sun, 23 Aug 2026 10:54:35 +0000",
+     "summary": "Article URL: https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html Comments URL: https://news.ycombinator.com/item?id=49407785 Points: 10 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "'AI refuser' quit her dream job, and hopes others follow"
     },
     {
      "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
@@ -1842,42 +1874,10 @@ window.INDUSTRY_DATA = {
      "zh": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)"
     },
     {
-     "title": "世界上最便宜的福利",
-     "link": "https://www.huxiu.com/article/4885289.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 18:27:12 +0800",
-     "summary": "本文来自微信公众号： 字母PRO ，作者：贺任飞 最近关于无座车票的公共讨论很热，这让我想起了自己以前买无座票乘车的经历。 买无座票坐车，眼睛通常会变得比较尖。你会悄悄留意谁开始收水杯，谁把泡面盒扔了，谁从行李架上取包……附近几个站着的人都会悄悄留意，暗暗竞争。判断对了，能坐几站；判断错了，也没什么，继续站着。 我当时从没想过自由不自由。买无座票的原因很简单：有座的卖完了，而我得上那趟车。要是有得选，我其实很愿意被一把椅子束缚。我还真这么干过。有一次又只买到无座票，我花十几块钱买了个塑料小板凳，拎上火车。那趟旅程因此轻松了不少。不过后来我再没这么干过，可能是因为有座票好买了，也可能是因为他们说",
-     "source": "虎嗅",
-     "zh": "世界上最便宜的福利"
-    },
-    {
-     "title": "致敬怀旧存储介质：麦克赛尔重新推出 UD-60U 磁带",
-     "link": "https://www.ithome.com/0/993/253.htm",
-     "pubDate": "Sun, 23 Aug 2026 10:26:46 GMT",
-     "summary": "IT之家 8 月 23 日消息，麦克赛尔（Maxell）现已联合日本唱片零售商 Disk Union 重新推出 UD-60U 磁带，致敬 20 世纪怀旧存储介质。 据介绍，麦克赛尔最初于 20 世纪 70 年代，面向大众市场推出 UD 系列磁带。该系列产品主打高输出、低噪声，采用 PX γ-氧化铁，可实现更高输出、更低噪声，以及更出色的频率响应。 资料显示，部分大型唱片公司曾选择 UD 用于商业预录制磁带。麦克赛尔 UD 系列也因此与 TDK SD 以及索尼 HF 等产品一起，在磁带音乐史占据一席之地。 而 UD-60U 则是一款 I 类磁带，旨在吸引那些仍在使用复古音乐存储介质的消费者。 该",
-     "source": "IT之家",
-     "zh": "致敬怀旧存储介质：麦克赛尔重新推出 UD-60U 磁带"
-    },
-    {
-     "title": "科隆游戏展总监：《GTA 6》就像是行业的北极星",
-     "link": "https://www.ithome.com/0/993/252.htm",
-     "pubDate": "Sun, 23 Aug 2026 10:26:31 GMT",
-     "summary": "IT之家 8 月 23 日消息，当地时间 22 日，科隆游戏展品牌总监斯特凡 · 海克豪斯在接受 GamesRadar+ 采访时指出：“《侠盗猎车手》这样的游戏，以及过去几年推出的其他大型作品，对行业都极其重要。它们 就像游戏行业的北极星 。” 不过，《GTA 6》不会参加今年的科隆游戏展。科隆游戏展总监蒂姆 · 恩德雷斯坦言，如果《GTA 6》也能出现在展会上当然更好：“我们当然一直希望所有事情都发生在科隆游戏展上。” 相比单独一款游戏，恩德雷斯和海克豪斯更看重现场将集中展示的数百款作品。 海克豪斯解释道，像科隆游戏展这样的活动，玩家能够体验的并不只有一款游戏，而是上千款，至少也有数百款。这",
-     "source": "IT之家",
-     "zh": "科隆游戏展总监：《GTA 6》就像是行业的北极星"
-    },
-    {
-     "title": "Canada now 'at war' with United States over trade, Prime Minister says",
-     "link": "https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/",
-     "pubDate": "Sun, 23 Aug 2026 09:58:22 +0000",
-     "summary": "Article URL: https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/ Comments URL: https://news.ycombinator.com/item?id=49407477 Points: 11 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "Canada now 'at war' with United States over trade, Prime Minister says"
-    },
-    {
      "title": "The Sloppification of Peptides",
      "link": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
      "pubDate": "Sun, 23 Aug 2026 09:32:54 +0000",
-     "summary": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 24 # Comments: 0",
+     "summary": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 35 # Comments: 7",
      "source": "Hacker News",
      "zh": "The Sloppification of Peptides"
     },
@@ -1890,12 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App"
     },
     {
-     "title": "Doomscrolling at work wastes time, but the real cost is what happens after",
-     "link": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/",
-     "pubDate": "Sun, 23 Aug 2026 09:26:55 +0000",
-     "summary": "Article URL: https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/ Comments URL: https://news.ycombinator.com/item?id=49407305 Points: 14 # Comments: 7",
+     "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+     "link": "https://skylens.yantraai.app/",
+     "pubDate": "Sun, 23 Aug 2026 09:27:40 +0000",
+     "summary": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 5 # Comments: 0",
      "source": "Hacker News",
-     "zh": "Doomscrolling at work wastes time, but the real cost is what happens after"
+     "zh": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive"
     },
     {
      "title": "Is Expensive Bottled Water Actually Better for You?",
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
      "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
      "pubDate": "Sun, 23 Aug 2026 06:41:51 +0000",
-     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 118 # Comments: 90",
+     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 126 # Comments: 92",
      "source": "Hacker News",
      "zh": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed"
     },
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "JIT Compiling Code in 5μs",
      "link": "https://malisper.me/jit-compiling-code-in-5-us/",
      "pubDate": "Sun, 23 Aug 2026 06:04:51 +0000",
-     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 76 # Comments: 38",
+     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 79 # Comments: 44",
      "source": "Hacker News",
      "zh": "JIT Compiling Code in 5μs"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "The End of an Athlon",
      "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
      "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
-     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 108 # Comments: 30",
+     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 116 # Comments: 34",
      "source": "Hacker News",
      "zh": "The End of an Athlon"
     }
@@ -2242,76 +2242,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "捷达电动化战略落地：首款纯电车型捷达M6开启盲订",
-     "link": "http://www.eeo.com.cn/2026/0823/1008944.shtml",
-     "pubDate": "Sun, 23 Aug 2026 19:13:20 +0800",
-     "summary": "据介绍，捷达M6定位为“超舒适AI纯电大家轿”，面向注重品质与实用性的家庭用户。与市面上其他竞品相比，捷达M6的比较优势在于“德系精工+中国科技”。",
-     "source": "经济观察网",
-     "zh": "捷达电动化战略落地：首款纯电车型捷达M6开启盲订"
+     "title": "The six stocks both hedge funds and mutual funds love - Goldman",
+     "link": "https://seekingalpha.com/news/4636052-the-six-stocks-both-hedge-funds-and-mutual-funds-love-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 23 Aug 2026 07:39:11 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "The six stocks both hedge funds and mutual funds love - Goldman"
     },
     {
-     "title": "韩杰案：一个孩子离世，一个医生入狱，韩杰是谁？",
-     "link": "http://www.eeo.com.cn/2026/0823/1008943.shtml",
-     "pubDate": "Sun, 23 Aug 2026 19:13:09 +0800",
-     "summary": "2025年11月17日，抚州市临川区人民法院一审判决韩杰犯医疗事故罪，判处有期徒刑一年；2026年5月28日，抚州市中级人民法院二审维持原判。这一“江西抚州韩杰医生医疗事故罪案”引发广泛关注。 围绕这一事件背后涉及的法律责任认定、儿科医生执业困境以及医疗风险保障等问题，三位嘉宾进行深度探讨。 他们分别是：南方财经全媒体集团岭南大医生首席产品官、医疗行业资深研究员宋鹏；南方财经全媒体集团粤港澳金融工作...",
-     "source": "经济观察网",
-     "zh": "韩杰案：一个孩子离世，一个医生入狱，韩杰是谁？"
+     "title": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓",
+     "link": "https://wallstreetcn.com/articles/3780093",
+     "pubDate": "Sun, 23 Aug 2026 19:38:38 +0800",
+     "summary": "这个周末，加密货币集体大跳水。截至发稿，艾达币、XRP、XLM大跌超12%，以太坊跌超5%，比特币跌2.40%。据CoinGlass数据统计，最近24小时，全球共有17.92万人爆仓，爆仓金额接近9亿美元。其中，超八成为多单爆仓。 市场分析人士认为，比特币等加密货币此轮大幅跳水，主要受两重因素叠加影响：其一是前期获利盘集中回吐，形成短期抛压；其二是国际地缘政治局势依旧紧张，避险需求令风险资产承压。 据央视新闻报道，当地时间22日，伊朗最高国家安全委员会秘书雷扎伊表示，任何参与对伊朗实施经济限制的国家，都被伊朗视为敌人。 加密货币集体跳水，17.92万人爆仓 8月22日至23日，加密货币市场集体",
+     "source": "华尔街见闻",
+     "zh": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓"
     },
     {
-     "title": "韩杰案：没有尸检报告，能否认定医疗事故罪？",
-     "link": "http://www.eeo.com.cn/2026/0823/1008942.shtml",
-     "pubDate": "Sun, 23 Aug 2026 19:13:08 +0800",
-     "summary": "宋鹏 你从法律上来说，怎么看这个事儿？就是我还是没搞清楚他为什么要入刑。 程时春 据我所知，法院的所有判决，以及检察院、公安局办案所依据的，都是那一份（尸检）鉴定。 首先在民事案件中，通常做法是原告（也就是患者家属）拿出一份初步鉴定报告来起诉。至于为什么会有第二份报告，实际上是因为被告方或者法院不同意第一份鉴定报告，要求法院指定鉴定机构，所以第二份鉴定报告应该就是法院指定的...",
-     "source": "经济观察网",
-     "zh": "韩杰案：没有尸检报告，能否认定医疗事故罪？"
+     "title": "Small UK power plant shut down after cyberattack linked to Iran: Telegraph",
+     "link": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
+     "pubDate": "Sun, 23 Aug 2026 11:35:52 GMT",
+     "summary": "The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the sector with advice.",
+     "source": "CNBC",
+     "zh": "Small UK power plant shut down after cyberattack linked to Iran: Telegraph"
     },
     {
-     "title": "韩杰案：医疗纠纷，医生买单？",
-     "link": "http://www.eeo.com.cn/2026/0823/1008941.shtml",
-     "pubDate": "Sun, 23 Aug 2026 19:13:05 +0800",
-     "summary": "宋鹏 好，其实今天我们看起来是三个人在这里聊这件事，实际上还有一个人在场外，他这个场外是确实比较外，他交给我两张纸，他说他对于这件事情是希望能做到什么呢？就是说分层处置，调解优先，就是准确地来区分一般医疗风险、医疗过错、医疗损害与医疗犯罪。不应该轻易将本可通过民事赔偿、行政处理和专业调解解决的纠纷上升为刑事案件，这个很明显就是来自一个医生的诉求。 程律师 实际上，全国医疗事故罪的...",
-     "source": "经济观察网",
-     "zh": "韩杰案：医疗纠纷，医生买单？"
-    },
-    {
-     "title": "全新深蓝G318上市，提供华为乾崑、天枢领航两套智驾系统",
-     "link": "http://www.eeo.com.cn/2026/0823/1008940.shtml",
-     "pubDate": "Sun, 23 Aug 2026 19:13:00 +0800",
-     "summary": "全新深蓝G318主要面向家庭用户打造，其认为“SUV的终极形态之一是方盒子”，但方盒子不是单一的越野工具，实际上大多数用户90%的时间都是在城市中代步，只有10%户外越野的需求。",
-     "source": "经济观察网",
-     "zh": "全新深蓝G318上市，提供华为乾崑、天枢领航两套智驾系统"
-    },
-    {
-     "title": "【调研快报】天赐材料接待Bloomberg Intelligence Research等90家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202608233850340969.html",
-     "pubDate": "Sun, 23 Aug 2026 19:10:28 +0800",
-     "summary": "天赐材料 8月22日公告称， 8月21日 接待Bloomberg Intelligence Research 等90家机构 调研。 接待人员包括董事长 徐金富,财务总监 顾斌,董事会秘书 韩恒,高级投关经理 杨凌杰。 公司就以下问题进行了回复： 本次交流会议分为两个部分,第一部分是公司对2026年半年度业绩做简要介绍;第二部分为问答环节。 一、2026年半年度经营情况介绍 根据公司2026年半年度报告,2026上半年度公司实现营业收入147.09亿元,同比增长109.28%,实现归属于上市公司股东的净利润28.6亿元,同比增长9... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，",
-     "source": "东方财富股票",
-     "zh": "【调研快报】天赐材料接待Bloomberg Intelligence Research等90家机构调研"
-    },
-    {
-     "title": "伊朗部长：伊朗在法尔斯省南部的油田发现了超过7.5万亿立方英尺的天然气",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850341050.html",
-     "pubDate": "Sun, 23 Aug 2026 19:10:00 +0800",
-     "summary": "据伊朗方面消息，伊朗部长表示，伊朗在法尔斯省南部的油田发现了超过7.5万亿立方英尺的 天然气 。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "伊朗部长：伊朗在法尔斯省南部的油田发现了超过7.5万亿立方英尺的天然气"
-    },
-    {
-     "title": "慧谷新材：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期）",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850338778.html",
-     "pubDate": "Sun, 23 Aug 2026 19:03:10 +0800",
-     "summary": "慧谷新材 (301683)公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "慧谷新材：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期）"
-    },
-    {
-     "title": "自然资源部与中国气象局8月23日18时联合发布橙色地质灾害气象风险预警",
-     "link": "http://finance.eastmoney.com/news/11790,202608233850339430.html",
-     "pubDate": "Sun, 23 Aug 2026 19:02:50 +0800",
-     "summary": "自然资源部与中国气象局8月23日18时联合发布橙色地质灾害气象风险预警：预计，8月23日20时至24日20时，辽宁东部、吉林南部、浙江东南部、福建东部、广西南部、云南西部等地部分地区发生地质灾害的气象风险较高（黄色预警），其中，浙江东南部局地发生地质灾害的气象风险高（橙色预警）。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "自然资源部与中国气象局8月23日18时联合发布橙色地质灾害气象风险预警"
+     "title": "Government can bring robotics to life",
+     "link": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
+     "pubDate": "Sun, 23 Aug 2026 11:15:07 GMT",
+     "summary": "Without policy, there are few incentives to automate business functions where labour costs are low",
+     "source": "Financial Times",
+     "zh": "Government can bring robotics to life"
     },
     {
      "title": "Trump’s South Korea snub raises questions in the Asia-Pacific",
@@ -2330,36 +2290,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
     },
     {
-     "title": "魏牌V8X/V9X亮相成都车展 ，以全栈自研与极端实测锚定高端市场",
-     "link": "http://www.eeo.com.cn/2026/0823/1008929.shtml",
-     "pubDate": "Sun, 23 Aug 2026 18:57:29 +0800",
-     "summary": "在当前新能源行业营销战、参数战白热化的背景下，魏牌强调回归品质底线，依托长城汽车36年制造积淀，以全栈自研和实测验证构建差异化竞争力。",
-     "source": "经济观察网",
-     "zh": "魏牌V8X/V9X亮相成都车展 ，以全栈自研与极端实测锚定高端市场"
-    },
-    {
      "title": "英伟达财报“万众瞩目”：Rubin周期、循环融资与远期市场份额",
      "link": "https://wallstreetcn.com/articles/3780083",
      "pubDate": "Sun, 23 Aug 2026 18:56:46 +0800",
      "summary": "英伟达下周将公布截至7月的季度财报。按照过往几个季度的节奏，市场对“业绩超预期、指引上调”已经并不陌生，真正决定股价弹性的是三个更长期的问题： Rubin能否顺利接棒Blackwell、AI需求是否仍显著大于供给，以及英伟达为锁定未来需求需要承担多大的融资和资产负债表责任。 从券商预期看，基本面仍然强劲。追风交易台消息，本周Jefferies发布前瞻报告，预计英伟达7月季度收入将达到950亿美元，高于市场一致预期的约919亿美元；10月季度收入指引有望达到1080亿美元，也高于市场预期的约1037亿美元。 摩根士丹利的报告则相对保守，预计7月季度收入约912亿美元、10月季度约1023亿美元，",
      "source": "华尔街见闻",
      "zh": "英伟达财报“万众瞩目”：Rubin周期、循环融资与远期市场份额"
-    },
-    {
-     "title": "2026年暑期档总票房破115亿元",
-     "link": "http://finance.eastmoney.com/news/1348,202608233850333768.html",
-     "pubDate": "Sun, 23 Aug 2026 18:49:57 +0800",
-     "summary": "8月23日，据网络平台数据，截至目前，2026年暑期档电影票房（含预售）突破115亿元。2026年度电影总票房（含预售）突破271亿元。 （文章来源：央视财经）",
-     "source": "东方财富股票",
-     "zh": "2026年暑期档总票房破115亿元"
-    },
-    {
-     "title": "超20家A股上市公司本周披露并购重组最新公告 中南文化拟收购江阴热电及苏龙热电股权并复牌",
-     "link": "http://finance.eastmoney.com/news/1349,202608233850324543.html",
-     "pubDate": "Sun, 23 Aug 2026 18:30:39 +0800",
-     "summary": "据不完全统计，截至发稿，本周（8月17日-8月23日）包括 中南文化 、 泽宇智能 、 阿莱德 、 信濠光电 、 博杰股份 、 中英科技 、 宁沪高速 、 厦门钨业 、 键邦股份 、 敏芯股份 、 金杯汽车 、 国药现代 、 国电电力 、 兴业银锡 、 新里程 、 罗普斯金 、 瑞丰高材 、 骏成科技 、 四环生物 、 众生药业 、 石化油服 在内的21家A股上市公司披露并购重组进展最新公告。其中， 中南文化 公告，拟收购江阴热电及苏龙热电股权，股票将于8月24日复牌。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "超20家A股上市公司本周披露并购重组最新公告 中南文化拟收购江阴热电及苏龙热电股权并复牌"
     },
     {
      "title": "十大机构论市：本轮政策底已逐步显现 继续关注三方面配置机会",
@@ -2434,14 +2370,6 @@ window.INDUSTRY_DATA = {
      "zh": "周末要闻汇总：国常会再做部署 适度超前统筹推进新一代通信网建设"
     },
     {
-     "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
-     "link": "https://wallstreetcn.com/articles/3780052",
-     "pubDate": "Sun, 23 Aug 2026 13:18:34 +0800",
-     "summary": "本周，美国市场罕见出现“股、债、汇”同步承压：美股、美债和美元同时走弱，与此同时日元也未能幸免。市场对美国财政部试图通过债券回购和供给管理稳定长端利率的政策效果开始产生质疑。 8月21日，野村证券宏观策略师松泽中认为， 贝森特试图通过扩大国债回购压低长端收益率的“贝森特看跌期权”正在失效。政策干预不仅未能持续稳定债市，反而进一步加大了美元的下行压力。 本周三，美国财政部宣布将10年至30年期美债回购规模“至少翻倍”，距上次公布回购计划仅两周。然而，政策对市场的支撑仅维持不到一天：长端美债收益率短暂回落后迅速反弹，整周基本持平。 更值得警惕的是，美国的政策路径可能成为日本的前车之鉴。松泽中警告，",
-     "source": "华尔街见闻",
-     "zh": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险"
-    },
-    {
      "title": "Are America’s vast Gulf bases worth rebuilding?",
      "link": "https://www.ft.com/content/6f664a31-ca24-4a16-a6e9-5978fdf2512c?syn-25a6b1a6=1",
      "pubDate": "Sun, 23 Aug 2026 04:00:15 GMT",
@@ -2480,6 +2408,78 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA Asks: What are the most promising oncology companies right now?"
+    },
+    {
+     "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
+     "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 22 Aug 2026 20:45:00 GMT",
+     "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
+     "source": "MarketWatch",
+     "zh": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?"
+    },
+    {
+     "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
+     "link": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+     "pubDate": "Sat, 22 Aug 2026 20:34:13 GMT",
+     "summary": "Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.",
+     "source": "CNBC",
+     "zh": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit"
+    },
+    {
+     "title": "SA Asks: What does the growing national debt mean for bond yields?",
+     "link": "https://seekingalpha.com/news/4636044-sa-asks-what-does-the-growing-national-debt-mean-for-bond-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 22 Aug 2026 16:31:32 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: What does the growing national debt mean for bond yields?"
+    },
+    {
+     "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
+     "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
+     "pubDate": "Sat, 22 Aug 2026 20:31:00 GMT",
+     "summary": "Canadian Prime Minister Mark Carney on Saturday announced his country would impose “dollar-for-dollar” tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.",
+     "source": "MarketWatch",
+     "zh": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
+    },
+    {
+     "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+     "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+     "pubDate": "Sat, 22 Aug 2026 20:30:00 GMT",
+     "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
+     "source": "MarketWatch",
+     "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
+    },
+    {
+     "title": "SA Asks: How could Trump's new executive order impact vaccine makers?",
+     "link": "https://seekingalpha.com/news/4636043-sa-asks-how-could-trumps-new-executive-order-impact-vaccine-makers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 22 Aug 2026 15:49:45 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: How could Trump's new executive order impact vaccine makers?"
+    },
+    {
+     "title": "Key deals this week: Stripe, KKR, Virtu and more",
+     "link": "https://seekingalpha.com/news/4635957-key-deals-this-week-stripe-kkr-virtu-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 22 Aug 2026 15:15:10 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: Stripe, KKR, Virtu and more"
+    },
+    {
+     "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+     "link": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+     "pubDate": "Sat, 22 Aug 2026 18:57:46 GMT",
+     "summary": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
+     "source": "CNBC",
+     "zh": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway"
+    },
+    {
+     "title": "Iconic fast-food fried chicken chain closes over 300 restaurants",
+     "link": "https://finance.yahoo.com/small-business/articles/iconic-fast-food-fried-chicken-184700958.html",
+     "pubDate": "2026-08-22T18:47:00Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Iconic fast-food fried chicken chain closes over 300 restaurants"
     }
    ]
   },

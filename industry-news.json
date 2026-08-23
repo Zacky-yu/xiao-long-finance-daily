@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/23 13:31:44",
+ "generated_at": "2026/8/23 14:00:11",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+     "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+     "pubDate": "Sat, 22 Aug 2026 23:49:38 +0000",
+     "summary": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based ",
+     "source": "MarkTechPost",
+     "zh": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety"
+    },
     {
      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
@@ -73,6 +81,14 @@
      "zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token"
     },
     {
+     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
+     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
+     "source": "MarkTechPost",
+     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
+    },
+    {
      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
      "link": "https://www.qbitai.com/2026/08/477090.html",
      "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
@@ -113,6 +129,14 @@
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
+     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
+     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
+     "source": "MarkTechPost",
+     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
+    },
+    {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -127,6 +151,22 @@
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia partners with data center developer Cloverleaf"
+    },
+    {
+     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
+     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
+     "source": "MarkTechPost",
+     "zh": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure"
+    },
+    {
+     "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+     "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+     "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
+     "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, traces data flows across ",
+     "source": "MarkTechPost",
+     "zh": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access"
     },
     {
      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
@@ -207,46 +247,6 @@
      "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西8月21日报道，8月20日，2026世界机器人大会平行活动“仿生赋能·智创未来——仿生具身智能机器人技术突破与产业生态共建”举办。本次活动在长春市委、市政府支持下举办，由国际仿生工程学会、长春市贸促会、长春市工信局、吉林省仿生机器人制造业创新中心主办，长春国际商会、月泉仿生、吉林省仿生机器人创新中心承办，海内外院士专家、产业链企业及创投机构代表300余人参会。 会上，月泉仿生和吉林省仿生机器人创新中心联合带来了多项科创成果集中首发。英国曼彻斯特大学终身教授、月泉仿生创始人、吉林省仿生机器人创新中心执行委员会主任任雷教授现场宣讲仿生拉压体机器人理",
      "source": "智东西",
      "zh": "月泉仿生发布仿生拉压体灵巧手，满足多场景精细操控"
-    },
-    {
-     "title": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=1&sn=d5a0a68f04d7e09d9cabe5c4950db88e",
-     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
-     "summary": "只需一次 3-12 秒的演示，不训练、不微调，几秒钟学会。",
-     "source": "新智元",
-     "zh": "机器人GPT-3时刻震动硅谷！0行代码，看一遍秒会，黄仁勋李飞飞参投"
-    },
-    {
-     "title": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719368&idx=2&sn=eee0307d61dc88166077528cc54255be",
-     "pubDate": "Fri, 21 Aug 2026 16:09:00 +0800",
-     "summary": "一个人的失业期，撞碎了芯片行业的护城河",
-     "source": "新智元",
-     "zh": "失业小哥7000行代码，复刻了AMD重金收购的AI芯片！"
-    },
-    {
-     "title": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=1&sn=d1eb5c88e5a7ebfb2d81c68804684eed",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "比会做一个动作更难的，是把一整件事连续做完。",
-     "source": "机器之心",
-     "zh": "WRC交卷⎜机器人长程任务总断片？墨奇用Agentic-Native重构具身大脑"
-    },
-    {
-     "title": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=2&sn=7492c796da65176af0bf9bcce332eae7",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "玻尔科学空间精选多学科AI科学家，服务你的科研。",
-     "source": "机器之心",
-     "zh": "把时间还给科学创造，玻尔·科学空间在桌面接管了科研「体力活」"
-    },
-    {
-     "title": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651051506&idx=3&sn=aa2e1f4dd425cf0a52631efb49e2f182",
-     "pubDate": "Fri, 21 Aug 2026 11:19:00 +0800",
-     "summary": "端到端研究论文生成系统。",
-     "source": "机器之心",
-     "zh": "端到端论文生成系统：假结论检出率92%，自动跑实验、画图、直出论文初稿"
     }
    ]
   },
@@ -1745,6 +1745,38 @@
    "total": 18,
    "items": [
     {
+     "title": "藏在宇树、长鑫和寒武纪里的市值叙事秘密",
+     "link": "https://www.huxiu.com/article/4885249.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 13:52:35 +0800",
+     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：钟云华，作者：何伊凡，原文标题：《藏在宇树、长鑫和寒武纪里的市值叙事秘密｜观察家》 市场从不惩罚故事，只惩罚没能变成数字的故事 2026年8月19日，宇树科技上市。首日开盘暴涨629%，收盘涨460%，市值3418亿元，网上中签率0.018%创科创板历史新低。十四个月前的2025年6月，它最后一轮一级市场融资投后估值还不过为127亿元。 2026年7月27日，上年归母净利润18.75亿元的长鑫科技上市，首日收盘市值3.28万亿元——这意味着市场愿意为每一元年利润支付约1750元（扣非口径约309元）。上市后股价快速拉升，7月31日盘中一度站上4万亿",
+     "source": "虎嗅",
+     "zh": "藏在宇树、长鑫和寒武纪里的市值叙事秘密"
+    },
+    {
+     "title": "华为 Pura X Max 系列手机 HarmonyOS 7.0.0.102SP8 升级不限量开放，新增 3D 空间壁纸等功能",
+     "link": "https://www.ithome.com/0/993/180.htm",
+     "pubDate": "Sun, 23 Aug 2026 05:51:11 GMT",
+     "summary": "IT之家 8 月 23 日消息，华为官方昨晚宣布， HUAWEI Pura X Max 系列横向阔折叠手机的鸿蒙 HarmonyOS 7.0.0.100 SP10 → 7.0.0.102 SP8 版本 升级不限量开放 （升级方式：设置 > 搜索“软件更新”> 检查更新）。 IT之家附版本更新日志： 亮点推荐 1. 新增 3D 空间壁纸功能，通过照片中的元素与 3D 时钟巧妙结合，打造 3D 透视空间感锁屏壁纸，为您提供丰富的壁纸视觉效果和玩法 (设置> 桌面和个性化 > 壁纸 > 3D 空间壁纸) 2. 新增亲密圈功能，支持通过联系人、华为账号添加家人与挚友，即可与对方共享健康数据，实时查看对",
+     "source": "IT之家",
+     "zh": "华为 Pura X Max 系列手机 HarmonyOS 7.0.0.102SP8 升级不限量开放，新增 3D 空间壁纸等功能"
+    },
+    {
+     "title": "上汽荣威家越 07 成都车展首次向公众开放，15 万级家庭 SUV",
+     "link": "https://www.ithome.com/0/993/179.htm",
+     "pubDate": "Sun, 23 Aug 2026 05:49:47 GMT",
+     "summary": "IT之家 8 月 23 日消息，2026 成都车展于 8 月 21 日开幕，上汽荣威家越 07 首次向公众开放，定位“15 万级家庭 SUV”，号称“25 万级配置，15 万级享有”。 据此前官方介绍，荣威家越 07 采用昂扬美学设计，提供龙晶紫、玛瑙灰、宝石蓝、珍溪黑、钻石白、翡翠绿等宝石车色，可选绵云青空、坚果可可内饰色，车内还配有 AI 灵光氛围灯。此次新车主打 AI 极速制冰冷暖两用冰箱，可实现最快十分钟制冰。 IT之家注意到，新车尺寸为 4900×1910×1753mm、 轴距 2908mm ，拥有 88.8% 高得房率、3237mm 有效车长和 1339mm 同级最大垂向空间。车内",
+     "source": "IT之家",
+     "zh": "上汽荣威家越 07 成都车展首次向公众开放，15 万级家庭 SUV"
+    },
+    {
+     "title": "The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course (Financial Times)",
+     "link": "https://www.techmeme.com/260823/p3#a260823p3",
+     "pubDate": "Sun, 23 Aug 2026 01:30:01 -0400",
+     "summary": "Financial Times : The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course &nbsp; &mdash;&nbsp; Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during marke",
+     "source": "Techmeme",
+     "zh": "The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course (Financial Times)"
+    },
+    {
      "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 预售价格再降，叠加权益后最低 32.99 万元起",
      "link": "https://www.ithome.com/0/993/177.htm",
      "pubDate": "Sun, 23 Aug 2026 05:20:30 GMT",
@@ -1753,12 +1785,12 @@
      "zh": "奇瑞捷豹路虎 FREELANDER 神行者 8 预售价格再降，叠加权益后最低 32.99 万元起"
     },
     {
-     "title": "80%的具身订单都是假的，但无从查证",
+     "title": "80%的具身订单可能是假的，缺订单正让赛道疯狂",
      "link": "https://www.huxiu.com/article/4885231.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 13:20:26 +0800",
      "summary": "出品｜虎嗅科技组 作者｜宋思杭 编辑｜苗正卿 头图｜WRC现场拍摄 &ldquo;世界模型这个概念太抽象了，现在谁说世界模型，大概率是为了圈钱。&rdquo; &ldquo;现在市面上90%做世界模型的团队，他们连自己都不相信&lsquo;世界模型&rsquo;。&rdquo; 有多位长期看具身智能的投资人这样对虎嗅说道。2026年的世界机器人大会（ 以下简称&ldquo;WRC&rdquo; ）如约而至，今年场内场外几乎都在聊世界模型。 所以，世界模型究竟是什么？ 至少从2025年开始，在国内具身智能的语境里，我们听到的&ldquo;世界模型&rdquo;，大部分时候指的是具身智能的&ldq",
      "source": "虎嗅",
-     "zh": "80%的具身订单都是假的，但无从查证"
+     "zh": "80%的具身订单可能是假的，缺订单正让赛道疯狂"
     },
     {
      "title": "Sources: Flipkart Minutes, the quick commerce service of Walmart&apos;s Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 (Jagmeet Singh/TechCrunch)",
@@ -1783,14 +1815,6 @@
      "summary": "IT之家 8 月 23 日消息，从 8 月 23 日开始，部分 PlayStation 用户计划关闭主机，在 9 月 1 日之前拒绝游玩任何游戏，也不在 PlayStation 平台上进行消费，以抗议索尼决定在 2028 年停止生产实体游戏光盘。 如今，一些用户开始收到索尼发送的电子邮件，其中详细说明了 PlayStation 关于数字游戏购买的服务条款，提醒用户此前已经同意 PlayStation 的服务条款。 邮件中的一部分内容再次强调，数字版 PlayStation 软件是授权给玩家使用，而不是出售给玩家的。如果玩家的账号被封禁或关闭，相关授权可能会被撤销。 目前尚不清楚这封邮件是在针对",
      "source": "IT之家",
      "zh": "索尼发邮件重申：PlayStation 数字游戏仅为授权许可，并非出售给玩家"
-    },
-    {
-     "title": "藏在宇树、长鑫和寒武纪里的市值叙事秘密",
-     "link": "https://www.huxiu.com/article/4885249.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 12:49:35 +0800",
-     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：钟云华，作者：何伊凡，原文标题：《藏在宇树、长鑫和寒武纪里的市值叙事秘密｜观察家》 市场从不惩罚故事，只惩罚没能变成数字的故事 2026年8月19日，宇树科技上市。首日开盘暴涨629%，收盘涨460%，市值3418亿元，网上中签率0.018%创科创板历史新低。十四个月前的2025年6月，它最后一轮一级市场融资投后估值还不过为127亿元。 2026年7月27日，上年归母净利润18.75亿元的长鑫科技上市，首日收盘市值3.28万亿元——这意味着市场愿意为每一元年利润支付约1750元（扣非口径约309元）。上市后股价快速拉升，7月31日盘中一度站上4万亿",
-     "source": "虎嗅",
-     "zh": "藏在宇树、长鑫和寒武纪里的市值叙事秘密"
     },
     {
      "title": "戚薇授权AI短剧，观众为什么坐不住了？",
@@ -1836,7 +1860,7 @@
      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
      "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
      "pubDate": "Sun, 23 Aug 2026 04:28:18 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 10 # Comments: 2",
+     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 13 # Comments: 2",
      "source": "Hacker News",
      "zh": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has"
     },
@@ -1857,26 +1881,10 @@
      "zh": "中国创新药出海第一站，为何选澳洲？"
     },
     {
-     "title": "朱雀归巢：实现我国首次火箭陆地回收后，蓝箭航天朱雀三号一子级装车返程",
-     "link": "https://www.ithome.com/0/993/171.htm",
-     "pubDate": "Sun, 23 Aug 2026 04:03:48 GMT",
-     "summary": "IT之家 8 月 23 日消息，今年 8 月 19 日，朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，火箭一子级按预定程序成功着陆于甘肃省民勤县朱雀三号着陆场坪， 飞行任务取得圆满成功 。 这是我国在重复使用火箭关键技术上取得的又一重大突破，朱雀三号成为我国首款成功入轨并实现陆地回收的运载火箭。本次任务是继 7 月 10 日长征十号乙运载火箭一子级海上网系成功回收后，我国首次成功实施重复使用运载火箭一子级着陆腿方式陆地可控回收，标志着我国重复使用火箭技术取得重大突破。 IT之家注意到，蓝箭航天今日宣布，朱雀三号重复使用遥二运载火箭本周圆满完成入轨及一子级陆地回收。对于重复使用运载火箭而",
-     "source": "IT之家",
-     "zh": "朱雀归巢：实现我国首次火箭陆地回收后，蓝箭航天朱雀三号一子级装车返程"
-    },
-    {
-     "title": "第 48 届世界技能大赛 9 月 22 日上海开幕，新增无人机系统等 7 个项目",
-     "link": "https://www.ithome.com/0/993/170.htm",
-     "pubDate": "Sun, 23 Aug 2026 04:00:59 GMT",
-     "summary": "IT之家 8 月 23 日消息，据央视新闻今日报道，第 48 届世界技能大赛将于 9 月 22 日至 27 日 在上海举行，目前，中国代表团已正式成立。当前，人工智能技术加速赋能千行百业，对劳动者技能提出全新要求。本届世赛新增 7 个相关项目，以赛事引领技能人才培养方向，拓宽技能人才职业边界。 本届世赛紧贴产业发展需求， 新增无人机系统、数字交互媒体设计、轨道车辆技术、智慧安防技术、软件测试、口腔修复工艺技术、零售 7 个比赛项目 ，世界技能大赛不再只比拼传统手艺，赛项持续向数字、智能赛道迭代，考察选手驾驭新技术、善用 AI 工具解决真实岗位难题的能力。而这些世赛标准正加速向教学标准、培训标准",
-     "source": "IT之家",
-     "zh": "第 48 届世界技能大赛 9 月 22 日上海开幕，新增无人机系统等 7 个项目"
-    },
-    {
      "title": "The Golden Rule for Becoming a Better Writer",
      "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
      "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
-     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 16 # Comments: 2",
+     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 27 # Comments: 7",
      "source": "Hacker News",
      "zh": "The Golden Rule for Becoming a Better Writer"
     },
@@ -1916,7 +1924,7 @@
      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
      "link": "https://martypc.net/",
      "pubDate": "Sun, 23 Aug 2026 03:13:16 +0000",
-     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 43 # Comments: 2",
+     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 60 # Comments: 5",
      "source": "Hacker News",
      "zh": "MartyPC is a cross-platform emulator of early PCs written in Rust"
     },
@@ -1956,7 +1964,7 @@
      "title": "I Dream of Quieter Computing",
      "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
      "pubDate": "Sun, 23 Aug 2026 02:33:22 +0000",
-     "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 26 # Comments: 6",
+     "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 34 # Comments: 7",
      "source": "Hacker News",
      "zh": "I Dream of Quieter Computing"
     },
@@ -1964,7 +1972,7 @@
      "title": "The Art and Beauty of Blade Runner",
      "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
      "pubDate": "Sun, 23 Aug 2026 00:56:03 +0000",
-     "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 33 # Comments: 6",
+     "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 43 # Comments: 7",
      "source": "Hacker News",
      "zh": "The Art and Beauty of Blade Runner"
     },
@@ -1975,14 +1983,6 @@
      "summary": "Reuters : Sources and documents detail how Tether's plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply &nbsp; &mdash;&nbsp; Uruguay seemed like the perfect place for cryptocurrency giant Tether to launch a bitcoin mining operation.",
      "source": "Techmeme",
      "zh": "Sources and documents detail how Tether&apos;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply (Reuters)"
-    },
-    {
-     "title": "NanoGPT Speedrun Frontier",
-     "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-     "pubDate": "Sat, 22 Aug 2026 22:14:27 +0000",
-     "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 78 # Comments: 20",
-     "source": "Hacker News",
-     "zh": "NanoGPT Speedrun Frontier"
     }
    ]
   },
@@ -1992,6 +1992,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Weekly poll: would you buy the Honor Robot Phone and why?",
+     "link": "https://www.gsmarena.com/weekly_poll_would_you_buy_the_honor_robot_phone_and_why-news-74243.php",
+     "pubDate": "Sun, 23 Aug 2026 07:31:01 +0200",
+     "summary": "After months of teasers and red carpet events, the Honor Robot Phone is finally official and it is now available in stores – only in China, but you didn’t want one anyway, right? Wait, did you? The robot-like arm that acts as the gimbal on this device (and gives it its name) feels like the end-stage",
+     "source": "GSMArena",
+     "zh": "Weekly poll: would you buy the Honor Robot Phone and why?"
+    },
     {
      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
      "link": "https://sspai.com/post/113002",
@@ -2201,14 +2209,6 @@
      "zh": "5 Android safety features you probably aren’t using — and how to turn them on"
     },
     {
-     "title": "Deals: Pixel 11 lineup goes on sale, latest Galaxy phones get discounts",
-     "link": "https://www.gsmarena.com/deals_pixel_11_lineup_goes_on_sale_latest_galaxy_phones_get_discounts-news-74293.php",
-     "pubDate": "Sat, 22 Aug 2026 11:03:02 +0200",
-     "summary": "The Google Pixel 11 series, which went up for pre-order last week, is now officially available for purchase on Amazon UK. Alongside the Pixel phones, Samsung’s latest Galaxy foldables and the Galaxy S26 series have received price cuts. While the Google Pixel 11 lineup hasn’t received any price cut, ",
-     "source": "GSMArena",
-     "zh": "Deals: Pixel 11 lineup goes on sale, latest Galaxy phones get discounts"
-    },
-    {
      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
      "link": "https://sspai.com/post/113675",
      "pubDate": "Sat, 22 Aug 2026 11:00:00 +0800",
@@ -2241,36 +2241,68 @@
    "total": 13,
    "items": [
     {
+     "title": "阿里拟配售800亿港元新股，全部投入AI建设",
+     "link": "http://www.eeo.com.cn/2026/0823/1008538.shtml",
+     "pubDate": "Sun, 23 Aug 2026 13:52:04 +0800",
+     "summary": "中新经纬8月23日电 中新经纬8月23日获悉，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售。 本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。(中新经纬APP) 编辑：李晓萱 责编：魏薇",
+     "source": "经济观察网",
+     "zh": "阿里拟配售800亿港元新股，全部投入AI建设"
+    },
+    {
+     "title": "阿里拟新募资800亿港元加码AI",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850264153.html",
+     "pubDate": "Sun, 23 Aug 2026 13:49:18 +0800",
+     "summary": "《科创板日报》记者获悉， 阿里巴巴 宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是 阿里巴巴 2019年港股上市以来首次启动新股配售。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。 （文章来源：科创日报）",
+     "source": "东方财富股票",
+     "zh": "阿里拟新募资800亿港元加码AI"
+    },
+    {
+     "title": "人事变动丨张晋豪任中国联通青海省分公司党委书记、总经理",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850264258.html",
+     "pubDate": "Sun, 23 Aug 2026 13:43:00 +0800",
+     "summary": "记者获悉，近日，张晋豪出任 中国联通 青海省分公司党委书记、总经理。此前，张晋豪任 中国联通 湖南省分公司党委副书记、副总经理、工会主席。 （文章来源：人民邮电报）",
+     "source": "东方财富股票",
+     "zh": "人事变动丨张晋豪任中国联通青海省分公司党委书记、总经理"
+    },
+    {
+     "title": "阿里巴巴拟配售800亿港元新股 募资全部投向AI",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850263939.html",
+     "pubDate": "Sun, 23 Aug 2026 13:42:49 +0800",
+     "summary": "8月23日， 阿里巴巴 (09988.HK)宣布，拟在香港配售新股。该公司表示，此次配售总额为800亿港元（约合102亿美元）。 阿里巴巴 表示，这笔交易将成为香港上市公司有史以来规模最大的一级后续发行，也是有记录以来规模最大的Regulation S股票发行（针对在美国境外进行的证券发行和销售），同时也是继Alphabet和 英特尔 之后，今年全球规模第三大的一级后续股票发行。该公司表示，计划将此次配售所得净额的100%用于投资其全栈 人工智能 能力，包括扩大和升级 人工智能 基础设施。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "阿里巴巴拟配售800亿港元新股 募资全部投向AI"
+    },
+    {
+     "title": "阳光乳业：上半年净利润4637.41万元，同比下降22.48%",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850263748.html",
+     "pubDate": "Sun, 23 Aug 2026 13:42:33 +0800",
+     "summary": "8月23日，北京商报记者获悉，近日 阳光乳业 披露的2026年半年度报告显示，报告期内实现营业总收入约2.17亿元，同比下降8.13%；实现归母净利润约4637.41万元，同比下降22.48%。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "阳光乳业：上半年净利润4637.41万元，同比下降22.48%"
+    },
+    {
+     "title": "天润乳业：上半年净利润5425.00万元，同比扭亏为盈",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850263440.html",
+     "pubDate": "Sun, 23 Aug 2026 13:42:33 +0800",
+     "summary": "8月23日，北京商报记者获悉，近日 天润乳业 披露的2026年半年度报告显示，报告期内实现营业总收入约为14.50亿元，同比增长3.93%；归母净利润约为5425.00万元，同比扭亏为盈。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "天润乳业：上半年净利润5425.00万元，同比扭亏为盈"
+    },
+    {
+     "title": "骑士乳业：上半年营收6.20亿元，同比下降7.10%",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850263830.html",
+     "pubDate": "Sun, 23 Aug 2026 13:42:33 +0800",
+     "summary": "8月23日，北京商报记者获悉，近日 骑士乳业 披露的2026年半年度报告显示，报告期内实现营业收入约为6.20亿元，同比下降7.10%；实现归母净利润约为3927.55万元，同比增长139.91%。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "骑士乳业：上半年营收6.20亿元，同比下降7.10%"
+    },
+    {
      "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
      "link": "https://wallstreetcn.com/articles/3780052",
      "pubDate": "Sun, 23 Aug 2026 13:18:34 +0800",
      "summary": "本周，美国市场罕见出现“股、债、汇”同步承压：美股、美债和美元同时走弱，与此同时日元也未能幸免。市场对美国财政部试图通过债券回购和供给管理稳定长端利率的政策效果开始产生质疑。 8月21日，野村证券宏观策略师松泽中认为， 贝森特试图通过扩大国债回购压低长端收益率的“贝森特看跌期权”正在失效。政策干预不仅未能持续稳定债市，反而进一步加大了美元的下行压力。 本周三，美国财政部宣布将10年至30年期美债回购规模“至少翻倍”，距上次公布回购计划仅两周。然而，政策对市场的支撑仅维持不到一天：长端美债收益率短暂回落后迅速反弹，整周基本持平。 更值得警惕的是，美国的政策路径可能成为日本的前车之鉴。松泽中警告，",
      "source": "华尔街见闻",
      "zh": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险"
-    },
-    {
-     "title": "战略投资迭代落地，奉贤新添一家光芯IDM企业",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850262328.html",
-     "pubDate": "Sun, 23 Aug 2026 13:17:38 +0800",
-     "summary": "近日，上海市奉贤区 半导体 产业布局传出好消息。据8月19日晚公告，本土上市企业 柘中股份 （002346.SZ）完成对柘中杰创 半导体 （上海）有限公司的控股收购，通过股权受让结合现金增资方式，合计出资3.54亿元取得标的公司53.19%股权。交易完成后，杰创 半导体 纳入 柘中股份 合并报表范围，奉贤由此落地一家具有激光芯片全流程自研自产能力的IDM企业。 本次资本交易，标志着 柘中股份 投资模式实现迭代升级。据了解，这家主营 电力 电气设备的传统制造企业，投资布局从传统财务投资转向实体产业深度运营，正式切入光芯片IDM领域，向硬科技赛道的产业延伸。 公开资料显示，柘中股份作为国内成套开关",
-     "source": "东方财富股票",
-     "zh": "战略投资迭代落地，奉贤新添一家光芯IDM企业"
-    },
-    {
-     "title": "贵州首列“保税物流+铁路快通”回程中老班列顺利抵达",
-     "link": "http://finance.eastmoney.com/news/1348,202608233850262270.html",
-     "pubDate": "Sun, 23 Aug 2026 13:14:36 +0800",
-     "summary": "8月23日，贵州首列采用“保税 物流 +铁路快通”新模式的回程中老班列顺利抵达贵阳国际陆港。该班列共装载40个标准集装箱、1100吨进口 钾肥 ，从老挝万象南出发，仅用时5天便直达贵阳。此次班列的顺利抵达，标志着贵州回程中老班列正式迈入“铁路快通”时代，贵州与东南亚之间的国际 物流 通道建设取得重大突破。 “保税 物流 +铁路快通”是一种高效便捷的国际物流通关模式。在该模式下，班列在入境口岸无需停留，可直接运输至筑城海关办理清关手续。对地处内陆的贵州而言，这一模式的落地实施，不仅充分发挥了贵阳 综合 保税区货物保税和口岸功能优势，有效提升通关效率、降低 跨境物流 成本，更打通了内陆地区 跨境物",
-     "source": "东方财富股票",
-     "zh": "贵州首列“保税物流+铁路快通”回程中老班列顺利抵达"
-    },
-    {
-     "title": "阿里拟配售800亿港元新股，全部投入AI建设",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850262040.html",
-     "pubDate": "Sun, 23 Aug 2026 13:13:57 +0800",
-     "summary": "中新经纬8月23日获悉， 阿里巴巴 宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是 阿里巴巴 2019年港股上市以来首次启动新股配售。 本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。 （文章来源：中新经纬）",
-     "source": "东方财富股票",
-     "zh": "阿里拟配售800亿港元新股，全部投入AI建设"
     },
     {
      "title": "【环球财经】美债收益率走高 欧洲债市承压加剧",
@@ -2287,30 +2319,6 @@
      "summary": "据《人民日报》消息，中消协最新投诉数据显示，人工通道层层卡顿、AI承诺不算数、机器回答错误误导消费，诸多乱象让无数消费者求助无门，体验感大打折扣。",
      "source": "经济观察网",
      "zh": "天天315｜AI客服成消费“拦路虎”  科技不能沦为甩客工具"
-    },
-    {
-     "title": "南向资金最新调仓来了，重点盯上这只股",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850261830.html",
-     "pubDate": "Sun, 23 Aug 2026 13:09:54 +0800",
-     "summary": "本周，13股获得南向资金持股量环比增长超15%。 南向资金净买入 阿里巴巴 -W超30亿港元 本周（8月17日至21日）港股市场主要股指集体上涨，恒生指数累计涨3.55%，恒生科技指数涨1.24%， 恒生中国企业 指数涨3.52%。据证券时报·数据宝统计，本周南向资金合计成交净卖出115.84亿港元。 从本周上榜成交活跃股名单来看，本周共有20只个股上榜， 中芯国际 本周港股通合计买卖总额最高，达到306.58亿港元， 智谱 紧随其后，为297.3亿港元，其他还有 阿里巴巴 -W、 腾讯控股 本周港股通买卖总额超过200亿港元。 中芯国际 日前发布截至2026年6月30日三个月未经审核业绩公告",
-     "source": "东方财富股票",
-     "zh": "南向资金最新调仓来了，重点盯上这只股"
-    },
-    {
-     "title": "银河策略：扰动与验证交织 聚焦业绩兑现度高的龙头标的",
-     "link": "http://finance.eastmoney.com/news/1370,202608233850261713.html",
-     "pubDate": "Sun, 23 Aug 2026 13:09:41 +0800",
-     "summary": "核心观点 本周A股行情： （1）本周（8月17日-8月21日），A股市场震荡整理，主要宽基指数总体回调。全A指数下跌1.45%。科创50跌幅靠前，下跌3.73%，创业板指、中证1000也跌超2%。（2）从风格来看，本周大盘风格相对占优；成长风格跌幅靠前，金融和周期风格上涨。（3）从行业来看，一级行业多数回调。 石油石化 、 有色金属 、 银行 涨幅靠前， 传媒 、 计算机 、 综合 跌幅靠前。 本周资金流向： （1）市场交投活跃度先升后降。本周日均成交额为22677亿元，较上周下降855.11亿元；日均换手率为1.5659%，较上周下降0.08个百分点。（2）截至周四，两融余额为26663.4",
-     "source": "东方财富股票",
-     "zh": "银河策略：扰动与验证交织 聚焦业绩兑现度高的龙头标的"
-    },
-    {
-     "title": "特朗普，最新调仓曝光！一个月，交易1051笔",
-     "link": "http://global.eastmoney.com/news/11798,202608233850262141.html",
-     "pubDate": "Sun, 23 Aug 2026 13:09:39 +0800",
-     "summary": "特朗普的调仓动作曝光！ 据多家外媒消息，最新披露的数据显示，美国总统特朗普在6月份进行了超过1000笔证券交易，其中包括大手笔买入伯克希尔、 维萨 （Visa）、 万事达 （Mastercard），卖出Meta股票及先锋股息增值指数基金ETF等。 美国白宫方面此前曾表示，特朗普的投资由独立机构管理，因此不存在利益冲突。特朗普的儿子、特朗普集团执行副总裁埃里克·特朗普也曾表示，这些资产已置于保密 信托 中管理。 一个月交易1051笔 据彭博社、CNBC等多家媒体报道，根据当地时间8月22日公布的一份财务披露文件，美国总统特朗普在6月份进行了1051笔证券交易，其中包括大量买入伯克希尔、Visa、",
-     "source": "东方财富股票",
-     "zh": "特朗普，最新调仓曝光！一个月，交易1051笔"
     },
     {
      "title": "记者手记｜省运会落幕：致敬高光，亦致敬平凡",
@@ -2375,14 +2383,6 @@
      "summary": "超限...",
      "source": "经济观察网",
      "zh": "超限车辆违规跟车上道 重庆交通执法：严查！"
-    },
-    {
-     "title": "国家卫健委发布会：白血病不再是不治之症",
-     "link": "http://www.eeo.com.cn/2026/0823/1008288.shtml",
-     "pubDate": "Sun, 23 Aug 2026 11:13:06 +0800",
-     "summary": "8月21日，国家卫生健康委召开新闻发布会，介绍时令节气与健康（立秋、处暑）有关情况。发布会上，北京大学人民医院主任医师张晓辉介绍，白血病既往被世界上公认为“不治之症”，但是随着技术的进步和方案的进步，白血病已经达到了可治可控，甚至大部分患者走向治愈。我们从原来的技术跟跑、并跑到现在领跑全世界，中国在造血干细胞移植领域处在世界的前沿，使我国大多数患者能够在技术条件完备的体系下，得到治愈。因此，我们能...",
-     "source": "经济观察网",
-     "zh": "国家卫健委发布会：白血病不再是不治之症"
     },
     {
      "title": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",

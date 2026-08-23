@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 07:23:03",
+ "generated_at": "2026/8/24 07:48:50",
  "recent_days": 7,
  "industries": [
   {
@@ -9,14 +9,6 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
-     "link": "https://www.qbitai.com/2026/08/478358.html",
-     "pubDate": "Sun, 23 Aug 2026 23:19:06 +0000",
-     "summary": "Tim和胡彦斌亲自颁奖",
-     "source": "量子位",
-     "zh": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝"
-    },
     {
      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
@@ -112,6 +104,14 @@ window.INDUSTRY_DATA = {
      "summary": "内存成本飙升逼涨硬件",
      "source": "量子位",
      "zh": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元"
+    },
+    {
+     "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
+     "link": "https://www.qbitai.com/2026/08/478093.html",
+     "pubDate": "Sun, 23 Aug 2026 09:45:27 +0000",
+     "summary": "AstraTennis时刻背后的硬核技术",
+     "source": "量子位",
+     "zh": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起"
     },
     {
      "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
@@ -1690,6 +1690,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "九十年代意味着什么？",
+     "link": "https://www.huxiu.com/article/4885332.html?f=rss",
+     "pubDate": "Mon, 24 Aug 2026 07:38:31 +0800",
+     "summary": "本文来自微信公众号： 元淦恭说 ，作者：元淦恭 前些日子，人们的思绪总被拉回记忆中的九十年代。 真实的九十年代，并不只是一个充满玫瑰色幻象的美好时代。其实，那是一个希望和痛苦并存的年代。 民营企业和外资经济蓬勃发展的同时，国企改革带来了数以千万计的工人下岗。 城市走上了加速增长的快车道，但城乡差距却空前扩大，农民面对着沉重的税费压力，“农业真苦，农民真穷，农村真危险”是对当时乡村的真实写照。在八十年代改革中，农村是受益最为显著和直接的区域，而在九十年代却成了相对滞后的部门。 在开启新的经济奇迹的同时，社会层面的不稳定因素也在增加，治安是相当大的问题，暴力犯罪频发，许多大案要案和重特大事故令举国",
+     "source": "虎嗅",
+     "zh": "九十年代意味着什么？"
+    },
+    {
+     "title": "那些已经习惯的行为方式可能也是你内耗的来源",
+     "link": "https://www.huxiu.com/article/4885331.html?f=rss",
+     "pubDate": "Mon, 24 Aug 2026 07:36:31 +0800",
+     "summary": "本文来自微信公众号： 景红空间 ，作者：景红空间 01 最近重新开始做普拉提。 因为有一段时间没练，很多动作明显生疏了。有些动作老师示范的时候，看起来非常简单，我照着做，自己觉得已经做到位了，老师却总在旁边提醒我：“不要这样发力，你又用回原来的方式了。” 一开始我其实有些不理解。动作明明完成了，姿势看起来也差不多，为什么还不对？ 后来慢慢在调整中体会到老师讲的，普拉提真正难的地方，并不是把一个动作“做出来”，而是要控制自己的身体，让该发力的地方真正发力，让不该代偿的地方停下来。 人的身体很聪明，也很偷懒。一个动作做久了，会自动形成最熟悉、最省力的一条路径。某个部位力量不够，身体就会调用另外一个",
+     "source": "虎嗅",
+     "zh": "那些已经习惯的行为方式可能也是你内耗的来源"
+    },
+    {
+     "title": "Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors (Julia Fioretti/Bloomberg)",
+     "link": "https://www.techmeme.com/260823/p12#a260823p12",
+     "pubDate": "Sun, 23 Aug 2026 19:30:37 -0400",
+     "summary": "Julia Fioretti / Bloomberg : Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors &nbsp; &mdash;&nbsp; Shein Global Holdings Ltd. is seeking to raise as much as $13.9 billion ($1.8 billion) in",
+     "source": "Techmeme",
+     "zh": "Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors (Julia Fioretti/Bloomberg)"
+    },
+    {
+     "title": "消息称 AI 初创公司 Hugging Face 探索出售，估值达 130 亿美元",
+     "link": "https://www.ithome.com/0/993/329.htm",
+     "pubDate": "Sun, 23 Aug 2026 23:28:42 GMT",
+     "summary": "IT之家 8 月 24 日消息，据 Business Insider 当地时间周日援引知情人士消息报道，人工智能初创公司 Hugging Face 一直在探索出售事宜，该交易对公司的估值可能达到 130 亿美元 （IT之家注：现汇率约合 876.6 亿元人民币） 或更高。 这家总部位于纽约的公司托管开源大语言模型和数据集，据报道一直在与一家银行合作，以评估竞购者的兴趣。 2023 年，Hugging Face 在一轮由科技巨头 Salesforce、Alphabet 旗下谷歌以及英伟达领投的融资中估值达 45 亿美元 （现汇率约合 303.44 亿元人民币） 。 上个月，Hugging Fac",
+     "source": "IT之家",
+     "zh": "消息称 AI 初创公司 Hugging Face 探索出售，估值达 130 亿美元"
+    },
+    {
+     "title": "比亚迪张卓透露海洋网 MPV 预计年底上市",
+     "link": "https://www.ithome.com/0/993/328.htm",
+     "pubDate": "Sun, 23 Aug 2026 23:27:04 GMT",
+     "summary": "IT之家 8 月 24 日消息，8 月 23 日，比亚迪海洋网总经理张卓在接受博主“向北不断电”的专访时透露，海洋网 MPV 年底可能要上市了，并表示 MPV 也是市场 独一无二 的存在。 IT之家注意到，在今年 4 月的 2026 北京国际车展上，比亚迪海洋网发布了一款 Ocean-V 概念车，宣称是“能越野的 MPV、能露营的家、可移动的家庭影院、能带娃的大玩具”。Ocean-V 概念车全舱 0 物理按键，可一键进入“海洋观影模式”，方向盘收缩，仪表台翻转出一个大幕布。户外露营模式下，Ocean-V 概念车的座椅可以实现两排相对，座椅全部放倒就是大床。目前，尚不清楚海洋网年底 MPV 是否",
+     "source": "IT之家",
+     "zh": "比亚迪张卓透露海洋网 MPV 预计年底上市"
+    },
+    {
+     "title": "郭锐详解智界 RX 轿跑 SUV 驾控性能，称硬件层面全面对标百万级性能豪车",
+     "link": "https://www.ithome.com/0/993/327.htm",
+     "pubDate": "Sun, 23 Aug 2026 23:27:02 GMT",
+     "summary": "IT之家 8 月 24 日消息，鸿蒙智行智界汽车董事长兼首席执行官郭锐昨晚发文，详细介绍了智界 RX 轿跑 SUV 的驾控性能，称在底盘机械素质方面， 团队是以百万级性能豪车的全套底盘硬件规格与调校标准在打磨该车 ，实现极致操控质感与日常驾乘舒适的双向统一。 据郭锐介绍，智界 RX 搭载创新 343 紧凑车身架构，搭配电磁热控压铸技术， 整车扭转刚度达到 50000+N·m/deg 。超高刚性车身可从根源抑制极限工况下的车身形变，让悬架动作无损耗、响应更纯粹、跟随性更强，充分释放整套底盘的操控潜力。同时通过全车材料科学配重布局， 实现近 50:50 黄金前后轴荷比 ，可规避推头、甩尾现象，让整",
+     "source": "IT之家",
+     "zh": "郭锐详解智界 RX 轿跑 SUV 驾控性能，称硬件层面全面对标百万级性能豪车"
+    },
+    {
+     "title": "【钛晨报】促进网信企业高质量发展，中央网信委‌最新部署；特斯拉客服回应近300万辆召回具体做法；阿里宣布800亿港元新股配售，即获超额认购",
+     "link": "https://www.tmtpost.com/8113453.html",
+     "pubDate": "Mon, 24 Aug 2026 07:20:00 +0800",
+     "summary": "上纬新材“启元机器人”正式开启预订，预计首发发货最早9月；DeepSeek API计费调整，周末统一按低谷时段价格计费；事涉儿童在线隐私保护，TikTok支付4亿美元和解；张雪机车宣布2027全年赛事赞助开放招商；SpaceX将组建内部天然气交易团队；Anthropic聘请谷歌定制芯片项目创始人，为进军自研半导体做准备；优衣库衣物回收服务扩展至全国门店；沃尔玛计划年内在全美门店和山姆会员店推出非接触支付服务；240小时过境免签政策适用国家增至57国；多家银行发布公告，单人在同家银行贴息上限提升到5000元；国常会：统筹推进基础网络、空间网络、国际网络、融合网络建设；市场监管总局：具身智能机器人",
+     "source": "钛媒体",
+     "zh": "【钛晨报】促进网信企业高质量发展，中央网信委‌最新部署；特斯拉客服回应近300万辆召回具体做法；阿里宣布800亿港元新股配售，即获超额认购"
+    },
+    {
      "title": "因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼",
      "link": "https://www.ithome.com/0/993/326.htm",
      "pubDate": "Sun, 23 Aug 2026 23:19:39 GMT",
@@ -1728,30 +1784,6 @@ window.INDUSTRY_DATA = {
      "summary": "Truman Dickerson / Business Insider : Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade &ldquo;a lot of liberty for safety&rdquo; &nbsp; &mdash;&nbsp; OpenAI CEO Sam Altman says he worries that AI will one day be controlled by a ",
      "source": "Techmeme",
      "zh": "Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade \"a lot of liberty for safety\" (Truman Dickerson/Business Insider)"
-    },
-    {
-     "title": "分析师称 Epic 游戏商城改版也难撼动 Steam，Epic 晒数据予以反驳",
-     "link": "https://www.ithome.com/0/993/322.htm",
-     "pubDate": "Sun, 23 Aug 2026 23:00:31 GMT",
-     "summary": "IT之家 8 月 24 日消息，Epic Games 长期以来一直试图将 Epic 游戏商城打造成 Steam 的替代品，这也是其自 2018 年以来提供著名的每周免费游戏的原因。最近，Epic 承诺对游戏商城进行大规模改版，以吸引更多游戏发行商和玩家，带来新功能、更精致的用户界面、更好的游戏发现机制，甚至支持 Linux。在最近接受 PC Gamer 采访时，Newzoo 分析师 Emmanuel Rosier 认为，对于 Epic 来说，想通过重新设计来夺回足够的市场份额，可能为时已晚。 这位分析师称，玩家只是为了免费游戏才去 Epic，当他们想购买真正愿意花钱的游戏时，又会转身回到 St",
-     "source": "IT之家",
-     "zh": "分析师称 Epic 游戏商城改版也难撼动 Steam，Epic 晒数据予以反驳"
-    },
-    {
-     "title": "微软 Win11 文件资源管理器将新增“仍要预览”按钮，兼顾安全与下载文件预览体验",
-     "link": "https://www.ithome.com/0/993/321.htm",
-     "pubDate": "Sun, 23 Aug 2026 22:52:26 GMT",
-     "summary": "IT之家 8 月 24 日消息，Windows 11 的文件资源管理器正在恢复一项此前因安全问题被禁用的功能，新增了一个“仍要预览”（Preview anyway）按钮。该功能将在未来几周内开始推送。 据IT之家了解，2025 年 10 月初，用户发现文件资源管理器不再为从互联网下载的文件在预览窗格中显示预览，当时一些人以为这是异常行为或是一个 Bug。 微软后来确认，出于安全原因，其有意阻止了文件资源管理器的预览功能，这使得用户无法快速浏览 PDF 和其他文档。 对于不了解情况的用户，文件资源管理器有两个窗格。一个是“详细信息”窗格，显示所选文件的信息，例如文件大小、创建日期等。它还可以在不",
-     "source": "IT之家",
-     "zh": "微软 Win11 文件资源管理器将新增“仍要预览”按钮，兼顾安全与下载文件预览体验"
-    },
-    {
-     "title": "古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色",
-     "link": "https://www.ithome.com/0/993/320.htm",
-     "pubDate": "Sun, 23 Aug 2026 22:40:45 GMT",
-     "summary": "IT之家 8 月 24 日消息，据彭博社的马克 · 古尔曼（Mark Gurman）报道，苹果正在准备推出搭载升级芯片和新配色选项的新款 iMac 机型。 古尔曼在其最新的 Power On 通讯中写道，新款机型很可能是搭载 M6 芯片的 24 英寸升级款机型，将取代于 2024 年 10 月推出的现有 M4 机型。 据说新配色也在计划之中，不过古尔曼没有透露具体是什么颜色。IT之家注意到，目前的 iMac 有七种颜色，包括绿色、黄色、橙色、粉色、紫色、蓝色和银色。 除此之外，新款机型预计不会有重大的设计变化。据报道，苹果正在开发配备 OLED 显示屏的 24 英寸 iMac，但这要等几年后才",
-     "source": "IT之家",
-     "zh": "古尔曼：苹果新款 iMac 今年推出，搭载 M6 芯片并增加新配色"
     },
     {
      "title": "Greg Abbott says data center companies \"dug their own grave\" by moving into communities without first gaining support, signaling growing Republican backlash (Axios)",
@@ -1802,14 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "弄清中国的消费数据|| 大视野"
     },
     {
-     "title": "只为省2000块运费？一斤两毛的康保白菜，毁在一桶甲醛上",
-     "link": "https://www.huxiu.com/article/4885320.html?f=rss",
-     "pubDate": "Mon, 24 Aug 2026 00:00:32 +0800",
-     "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 原本平静的高原小县城，被一条网络视频推上风口浪尖。 画面里，有人用不明液体浸泡白菜，准备装车发往外地。视频迅速扩散，“康保白菜蘸甲醛”几个字冲上热搜。一时间，质疑、谩骂涌向这座坝上小城。 8月22日，博主“渔猎齐哥”曝光河北张家口康保县部分商贩在白菜装车前违规蘸取甲醛溶液以延长保鲜期，其中确认有一车涉事白菜的目的地为江苏宿迁。 这段网络流出的暗访视频，将蔬菜流通中一条隐秘的“保鲜黑链”推至公众视野。为压低长途损耗率，部分收购商违规使用甲醛溶液浸泡白菜，这本应出现在工业领域的消毒剂，如今却渗透进农产品的运输环节。 视频引爆舆情当日，官方通报：情况",
-     "source": "虎嗅",
-     "zh": "只为省2000块运费？一斤两毛的康保白菜，毁在一桶甲醛上"
-    },
-    {
      "title": "Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday&apos;s close (Reuters)",
      "link": "https://www.techmeme.com/260823/p7#a260823p7",
      "pubDate": "Sun, 23 Aug 2026 11:50:02 -0400",
@@ -1832,14 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "俄罗斯安全公司卡巴斯基的研究人员报告他们发现第一种针对汽车的 Android 恶意程序。恶意程序通过基于 Android 的兜风出行汽车主机（head unit）固件的内置更新程序传播，被认为与 MoYu Group 黑客组织有关，该组织与 BADBOX 僵尸网络有关联。卡巴斯基称它已经通知了兜风出行，对方表示已修复相关安全问题。这一汽车恶意程序传播案例类似廉价电视盒，攻击者旨在创建住宅代理僵尸网络，因此使用了相同的网络基础设施。",
      "source": "Solidot",
      "zh": "卡巴斯基发现第一种针对汽车的 Android 恶意程序"
-    },
-    {
-     "title": "Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID (Mark Gurman/Bloomberg)",
-     "link": "https://www.techmeme.com/260823/p6#a260823p6",
-     "pubDate": "Sun, 23 Aug 2026 10:45:22 -0400",
-     "summary": "Mark Gurman / Bloomberg : Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID &nbsp; &mdash;&nbsp; Also: Get ready for iPhone price hikes.&nbsp; &mdash;&nbsp; Apple is about to bring some of it",
-     "source": "Techmeme",
-     "zh": "Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID (Mark Gurman/Bloomberg)"
     },
     {
      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
@@ -1912,22 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table.",
      "source": "WIRED",
      "zh": "Asus ROG Swift RGB Stripe OLED Review: Clarity King"
-    },
-    {
-     "title": "豆包将推WorkBuddy类产品，飞书十年积累正在组件化",
-     "link": "https://www.tmtpost.com/8113359.html",
-     "pubDate": "Sun, 23 Aug 2026 20:31:00 +0800",
-     "summary": "豆包团队最快将于下周推出一款对标腾讯WorkBuddy的办公类产品",
-     "source": "钛媒体",
-     "zh": "豆包将推WorkBuddy类产品，飞书十年积累正在组件化"
-    },
-    {
-     "title": "波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了",
-     "link": "https://www.solidot.org/story?sid=85166",
-     "pubDate": "Sun, 23 Aug 2026 19:04:24 +0800",
-     "summary": "Nicole Suszek 最后一次收到哥哥 Sylwester 的电话语音留言是在 2022 年，在留言中 Sylwester 急迫的请求她给他寄去比特币，否则以后就永远见不到面了。Sylwester 从此杳无音信，家人认为他已经遇害。Sylwester 是东欧和中欧最大加密货币交易所 Zondacrypto 的创始人，他在 2014 年创办了 Zondacrypto 的前身 BitBay。接替 Sylwester 担任 Zondacrypto CEO 的波兰律师 Przemyslaw Kral 在今年四月也失踪了，这一事件让 Sylwester 案再次浮出水面。波兰总理 Donald Tu",
-     "source": "Solidot",
-     "zh": "波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了"
     }
    ]
   },
@@ -2202,12 +2202,116 @@ window.INDUSTRY_DATA = {
      "zh": "UK fintech funding hits lowest level in a decade"
     },
     {
+     "title": "三江源5平方米的生物多样性答卷",
+     "link": "http://www.eeo.com.cn/2026/0824/1009085.shtml",
+     "pubDate": "Mon, 24 Aug 2026 07:39:14 +0800",
+     "summary": "中国青年报客户端讯（中青报·中青网记者 蔡华丽 浙江中医药大学 韦昕昕）奔赴三江源，人们很容易将目光投向雪山与江河，却常常忽略脚下草甸蕴藏的蓬勃生命力。在“青年溯三江”活动中，大学生记者俯身观察，在不足5平方米的方寸之间，发现十余种高原野生植物。 高寒环境、强烈紫外线、悬殊的昼夜温差，构成三江源严酷的生存条件。在这里，每一株花草都进化出独特生存智慧：有的依靠膨大苞片庇护花蕊，有的以半寄生模式适...",
+     "source": "经济观察网",
+     "zh": "三江源5平方米的生物多样性答卷"
+    },
+    {
+     "title": "拆解“大结果文学”：被反复包装的捷径幻想",
+     "link": "http://www.eeo.com.cn/2026/0824/1009084.shtml",
+     "pubDate": "Mon, 24 Aug 2026 07:39:11 +0800",
+     "summary": "制图：王钟的（图片由AI辅助生成） “土纯风小帅/小美到A10长择，教你怎么拿到大结果……”近期，互联网上兴起一股“大结果文学”热潮。一部分人批量生产着结构相似、内容雷同的文案，另一部分人...",
+     "source": "经济观察网",
+     "zh": "拆解“大结果文学”：被反复包装的捷径幻想"
+    },
+    {
+     "title": "招金矿业：上半年归母净利润15.78亿元 同比增长9.61%",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850468479.html",
+     "pubDate": "Mon, 24 Aug 2026 07:38:57 +0800",
+     "summary": "招金矿业 8月23日在港交所公告，2026年上半年营收90.22亿元，同比增长29.38%；净利润为21.05亿元，同比增长18.50%；母公司股东应占溢利15.78亿元，同比增长9.61%；基本每股盈利0.42元。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "招金矿业：上半年归母净利润15.78亿元 同比增长9.61%"
+    },
+    {
+     "title": "行业巨头纷纷试水 智能体商业化进程提速",
+     "link": "http://finance.eastmoney.com/news/1348,202608243850437611.html",
+     "pubDate": "Mon, 24 Aug 2026 07:38:06 +0800",
+     "summary": "随着字节跳动、支付宝等行业巨头纷纷试水，智能体商业正加快从概念验证走向规模化落地。业内人士预计，智能体商业有望迎来爆发，智能体将成为用户与商家间的“新载体”，打开商业新生态。不过，智能体商业的成熟，仍需从用户培养、商家运营和合规建设等方面共同推进。 近日，豆包 酒店 订单 综合 渠道服务费政策正式落地执行，对于通过豆包入口跳转抖音来客成交的 酒店 订单，豆包将收取约12%的 综合 渠道服务费。此前，这类订单被归入抖音自然流量渠道， 综合 费率为8%。上述举动被业界视为智能体商业化的标志性一步：智能体走向重要的消费入口，并作为独立成交渠道被定价。 当前，行业巨头纷纷加快试水智能体商业化。今年6月",
+     "source": "东方财富股票",
+     "zh": "行业巨头纷纷试水 智能体商业化进程提速"
+    },
+    {
+     "title": "“投资+保险”！中国人寿深耕科技金融，护航创新全链条",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850467915.html",
+     "pubDate": "Mon, 24 Aug 2026 07:37:47 +0800",
+     "summary": "“九大战略性新兴产业、六大未来产业，代表了中国经济新旧动能转换的核心方向，也是孕育未来核心资产的沃土。” 中国人寿 保险股份有限公司（下称“ 中国人寿 ”）有关负责人说，代表中国未来的领域，就是长期资金的投资方向。 S基金、PE基金、并购基金……近几年来， 中国人寿 不断创新实践，将“耐心资本”投向硬科技领域。仅今年以来，该公司已公告三项股权投资，投向 半导体 、 人工智能 、集成电路和生物医药等领域，累计出资额超118亿元。这是 中国人寿 作答“科技金融”的投资面，与之同向护航科技的还有保险保障面。 不仅仅科技金融， 中国人寿 也正通过系统布局与创新实践，将“五篇大文章”深度融入经营之中。该",
+     "source": "东方财富股票",
+     "zh": "“投资+保险”！中国人寿深耕科技金融，护航创新全链条"
+    },
+    {
+     "title": "港股宽基指数含“科”量提升 南向资金加码布局",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850438328.html",
+     "pubDate": "Mon, 24 Aug 2026 07:37:07 +0800",
+     "summary": "8月21日盘后，二季度恒生指数系列检讨结果正式出炉。同时，恒生科技指数正经历自2020年推出以来力度最大的一次编制方法修订，“含科量”有望显著提升。 8月以来，尽管市场有所震荡调整，南向资金整体仍保持净买入态势。今年以来，南向资金累计净买入规模已超3700亿港元。多家机构认为，当前港股估值修复行情仍有待基本面数据验证，上市公司中报成色、需求复苏节奏及增量资金入场意愿，将是决定市场能否由反弹过渡至反转的关键变量。 几大指数编制陆续迎来调整 8月21日，2026年第二季度恒生指数系列检讨结果在收市后正式公布。根据恒生指数公司此前发布的公告，此次检讨涵盖恒生指数、 恒生中国企业 指数、恒生科技指数等",
+     "source": "东方财富股票",
+     "zh": "港股宽基指数含“科”量提升 南向资金加码布局"
+    },
+    {
+     "title": "算力全链条绿色化成效初显 词元经济等成新增长极",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850438435.html",
+     "pubDate": "Mon, 24 Aug 2026 07:36:38 +0800",
+     "summary": "记者从日前召开的2026绿色算力（ 人工智能 ）大会上获悉，当前我国算力规模快速增长，算力设备向高能效方向升级，算力载体绿色化转型进展积极，算电协同从理念走向实践，算力网、词元经济、算力出海等新模式新业态成为新增长极。 随着算电协同持续深化和国产大模型全面爆发，算力产业迎来新格局。中国信息 通信 研究院副院长敖立在大会上发布的《绿色算力发展研究报告（2026年）》显示，我国算力设备加速向高能效方向迭代升级。截至2026年6月底，我国智能算力规模达2185EFLOPS。 算力从“建得快”转向“用得好”，从“拼规模”转向“拼能效”成为产业界的共识。 在内蒙古和林格尔新区，华电全国首批算电协同示范项",
+     "source": "东方财富股票",
+     "zh": "算力全链条绿色化成效初显 词元经济等成新增长极"
+    },
+    {
+     "title": "新华财经早报：8月24日",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850467858.html",
+     "pubDate": "Mon, 24 Aug 2026 07:36:18 +0800",
+     "summary": "·国务院食安办等多部门指导地方严查甲醛白菜 · 阿里巴巴 宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元，全部投入AI建设 ·伊朗官员：若美打经济战霍尔木兹海峡和波斯湾将再无石油出口 ·国家市场监督管理总局23日晚发布消息，针对舆论关注的河北省张家口市康保县“白菜收购环节蘸取甲醛溶液”问题， 国务院食安办、农业农村部、市场监管总局高度重视，第一时间指导属地调查核实，依法从严从快处置，对涉事白菜流向进行追查，严防问题产品流入市场。 （新华社） · 经人力资源社会保障部批准，第48届世界技能大赛中国代表团近日正式成立。 记者8月23日了解到，中国代表团共220人，其中包括71名参赛",
+     "source": "东方财富股票",
+     "zh": "新华财经早报：8月24日"
+    },
+    {
+     "title": "Abbott vs. Intuitive Surgical: Which MedTech Stock Offers Better Long-Term Upside?",
+     "link": "https://finance.yahoo.com/healthcare/articles/abbott-vs-intuitive-surgical-medtech-232811319.html",
+     "pubDate": "2026-08-23T23:28:11Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Abbott vs. Intuitive Surgical: Which MedTech Stock Offers Better Long-Term Upside?"
+    },
+    {
+     "title": "Gilead’s HIV Business is Surging, but is the Company Too Dependent on One Franchise?",
+     "link": "https://finance.yahoo.com/healthcare/articles/gilead-hiv-business-surging-company-231505800.html",
+     "pubDate": "2026-08-23T23:15:05Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Gilead’s HIV Business is Surging, but is the Company Too Dependent on One Franchise?"
+    },
+    {
+     "title": "印度进口俄罗斯原油创新高",
+     "link": "http://www.eeo.com.cn/2026/0824/1009069.shtml",
+     "pubDate": "Mon, 24 Aug 2026 07:13:15 +0800",
+     "summary": "新华财经北京8月24日电 受霍尔木兹海峡航运持续受阻影响，印度近期大幅增加进口俄罗斯原油，6月和7月进口量创下新高。 据英国《金融时报》23日援引船舶追踪机构克普勒公司首席分析师苏米特·里托利亚的话报道，印度6月和7月日均进口俄罗斯原油逾260万桶，较2月低点的约100万桶大幅增加，占该国日均原油进口总量的一半以上。 <img id=\"image0smt6djwze1mfwhw01vwuvdyg6y78d\" title=\"516434863076274177.jpg\" src=\"ht...",
+     "source": "经济观察网",
+     "zh": "印度进口俄罗斯原油创新高"
+    },
+    {
+     "title": "Pfizer’s Turnaround is Gaining Traction, but Can New Products Offset its Patent Cliff?",
+     "link": "https://finance.yahoo.com/healthcare/articles/pfizer-turnaround-gaining-traction-products-231313770.html",
+     "pubDate": "2026-08-23T23:13:13Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Pfizer’s Turnaround is Gaining Traction, but Can New Products Offset its Patent Cliff?"
+    },
+    {
      "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
      "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
      "pubDate": "Sun, 23 Aug 2026 23:03:00 GMT",
      "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trade partners.",
      "source": "MarketWatch",
      "zh": "Stock futures flat as U.S. and Canada appear headed for trade war"
+    },
+    {
+     "title": "Is Johnson & Johnson’s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over?",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-5-5-billion-230104916.html",
+     "pubDate": "2026-08-23T23:01:04Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Is Johnson & Johnson’s $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over?"
     },
     {
      "title": "华尔街见闻早餐FM-Radio | 2026年8月24日",
@@ -2218,52 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "华尔街见闻早餐FM-Radio | 2026年8月24日"
     },
     {
-     "title": "Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead",
-     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-23T22:55:04Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Dow Jones Futures: Tariffs In Focus; Nvidia, Warsh Ahead"
-    },
-    {
-     "title": "Medtronic vs. Thermo Fisher: Which Healthcare Turnaround Offers More Upside?",
-     "link": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-thermo-fisher-healthcare-225340177.html",
-     "pubDate": "2026-08-23T22:53:40Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Medtronic vs. Thermo Fisher: Which Healthcare Turnaround Offers More Upside?"
-    },
-    {
-     "title": "Abbott vs. Thermo Fisher: Which is the Better Investment, Diversification or Recovery?",
-     "link": "https://finance.yahoo.com/healthcare/articles/abbott-vs-thermo-fisher-better-224317862.html",
-     "pubDate": "2026-08-23T22:43:17Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Abbott vs. Thermo Fisher: Which is the Better Investment, Diversification or Recovery?"
-    },
-    {
      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
      "link": "https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html",
      "pubDate": "Sun, 23 Aug 2026 22:39:41 GMT",
      "summary": "Bessent told CNBC that the sanctions will be the \"toughest\" in history.",
      "source": "CNBC",
      "zh": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat"
-    },
-    {
-     "title": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?",
-     "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-vs-thermo-fisher-223203633.html",
-     "pubDate": "2026-08-23T22:32:03Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?"
-    },
-    {
-     "title": "8月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/1344,202608233850406014.html",
-     "pubDate": "Mon, 24 Aug 2026 06:03:16 +0800",
-     "summary": "8月24日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 报告显示 全国一体化算力网加速成形 8月22日，2026绿色算力（ 人工智能 ）大会在内蒙古自治区呼和浩特市举行。在大会开幕式上，中国信息 通信 研究院副院长敖立发布《绿色算力发展研究报告（2026年）》。报告认为，当前，我国算力规模快速增长，算力设备向高能效方向升级，算力载体绿色化转型进展积极，算电协同从理念走向实践，算力网、词元经济、算力出海等新模式新业态成为新增长极，全国一体化算力网加速成形。 “沪八条”新政落地 上海优化楼市信贷政策 畅通置换链条 8月20日，上海市住房城乡建设管理委、市房屋管理局、市财政局、人民 银行 ",
-     "source": "东方财富资讯",
-     "zh": "8月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     },
     {
      "title": "Here are the major earnings before the open Monday",
@@ -2360,70 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
      "source": "MarketWatch",
      "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
-    },
-    {
-     "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
-     "link": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
-     "pubDate": "Sun, 23 Aug 2026 17:58:06 GMT",
-     "summary": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
-     "source": "CNBC",
-     "zh": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom"
-    },
-    {
-     "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
-     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 17:30:00 GMT",
-     "summary": "“The last adviser we worked with lost a significant portion of our portfolio.”",
-     "source": "MarketWatch",
-     "zh": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
-    },
-    {
-     "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
-     "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 17:00:00 GMT",
-     "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
-     "source": "MarketWatch",
-     "zh": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?"
-    },
-    {
-     "title": "“沪八条”重在畅通一二手房联动",
-     "link": "http://www.eeo.com.cn/2026/0824/1009018.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:13 +0800",
-     "summary": "■王丽新 时隔半年，上海再出楼市新政。8月20日，上海市住房城乡建设管理委、市房屋管理局、市财政局等六部门联合印发《关于优化本市房地产政策措施的通知》（简称“沪八条”），推出涵盖住房公积金、信贷、购房补贴、房票安置、收购二手住房等五大维度的八项举措。 今年以来，上海房地产市场交易持续活跃、整体回暖，展现出较强韧性。从上海楼市实际成交结构看，总价300万元以下的刚需盘与千万元级以上的高端项目...",
-     "source": "经济观察网",
-     "zh": "“沪八条”重在畅通一二手房联动"
-    },
-    {
-     "title": "让住房公积金更好服务安居需求",
-     "link": "http://www.eeo.com.cn/2026/0824/1009017.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:13 +0800",
-     "summary": "■张芗逸 日前，《国务院关于修改〈住房公积金管理条例〉的决定》正式公布，自2026年9月20日起施行。这是《住房公积金管理条例》（以下简称《条例》）自1999年出台以来的第三次修订。此次修订拓宽了住房公积金提取范围，同时扩大制度覆盖面，将个体工商户、非全日制从业人员以及其他灵活就业人员纳入自愿缴存范围。 在笔者看来，这不仅是住房公积金制度本身的完善，更体现了发展理念的转变。随着房地产市场发展阶段...",
-     "source": "经济观察网",
-     "zh": "让住房公积金更好服务安居需求"
-    },
-    {
-     "title": "美债“狂飙”背后的三重风险",
-     "link": "http://www.eeo.com.cn/2026/0824/1009016.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:08 +0800",
-     "summary": "■韩昱 美国联邦政府债务（以下简称“美债”）规模一路“狂飙”。美国财政部日前公布的数据显示，美债总额首次突破40万亿美元，再创历史新高。笔者认为，这一数字揭示了三重风险。 首先是美国债务失控风险，美债规模正呈现“滚雪球”式增长。 美债起源可追溯至美国独立战争时期，其先后经历了早期发展、快速扩张和加速膨胀等阶段。美债规模达到1万亿美元用时超过200年，从1万亿美元到突破10万亿美元仅用了27...",
-     "source": "经济观察网",
-     "zh": "美债“狂飙”背后的三重风险"
-    },
-    {
-     "title": "多措并举激发民间投资活力",
-     "link": "http://www.eeo.com.cn/2026/0824/1009015.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:08 +0800",
-     "summary": "■刘萌 8月20日，国家发展改革委主任郑栅洁主持召开座谈会，与来自电气设备、制药装备、消费服务、智能终端、纺织服装及冶金化工领域的企业负责人深入交流。这是今年以来国家发展改革委召开的第七场民营企业座谈会。 民营企业扎根市场最前沿，对需求冷暖、投资难点感知最为敏锐。把来自市场一线的真实声音纳入政策考量，能够让宏观调控举措更加贴合市场实际，提升政策落地实效。 此前多场民营企业座谈会，分...",
-     "source": "经济观察网",
-     "zh": "多措并举激发民间投资活力"
-    },
-    {
-     "title": "补齐制度短板、强化硬约束 保险业迎资产负债管理新规",
-     "link": "http://www.eeo.com.cn/2026/0824/1009014.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:07 +0800",
-     "summary": "时隔七年，保险业迎来资产负债管理新规。 为有效防范系统性风险，完善审慎监管制度体系，提升保险业资产负债管理水平，8月21日，国家金融监督管理总局（以下简称“金融监管总局”）发布《保险公司资产负债管理办法》（以下简称《办法》）以及《关于实施〈保险公司资产负债管理办法〉有关事项的通知》（以下简称《实施通知》）。 国家金融监管总局表示，《办法》的实施，有助于引导保险公司树立稳健审慎的经营理念，...",
-     "source": "经济观察网",
-     "zh": "补齐制度短板、强化硬约束 保险业迎资产负债管理新规"
     }
    ]
   },

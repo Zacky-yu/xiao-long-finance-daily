@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 02:31:30",
+ "generated_at": "2026/8/24 03:01:47",
  "recent_days": 7,
  "industries": [
   {
@@ -338,12 +338,52 @@ window.INDUSTRY_DATA = {
      "zh": "How TSMC Is Wiring the AI Era With Light"
     },
     {
+     "title": "Android XR advances as Jetpack XR SDK core libraries reach beta",
+     "link": "https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 14:39:56 +0000",
+     "summary": "Google is announcing that its Jetpack SceneCore, ARCore for Jetpack XR, and XR Runtime libraries are officially in beta status. And Jetpack Compose is to follow soon, it says. Basically, […] The post Android XR advances as Jetpack XR SDK core libraries reach beta appeared first on Electronics Weekly",
+     "source": "Electronics Weekly",
+     "zh": "Android XR advances as Jetpack XR SDK core libraries reach beta"
+    },
+    {
+     "title": "Exotic Materials Adding Cost To Semis",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/exotic-materials-adding-cost-to-semis-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 13:30:13 +0000",
+     "summary": "19 years ago the chip industry was facing a similar problem to today – the need for, and rising cost of, exotic materials. ‘Semiconductor firms are facing critical pricing choices […] The post Exotic Materials Adding Cost To Semis appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Exotic Materials Adding Cost To Semis"
+    },
+    {
      "title": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/372371-intel-eyes-a-memory-comeback-as-ai-rewrites-chip-economics/",
      "pubDate": "Fri, 21 Aug 2026 13:00:41 +0000",
      "summary": "Intel is considering a return to memory technology decades after abandoning mainstream DRAM and, more recently, selling its NAND business. Chief executive Lip-Bu Tan has argued that memory should no longer be viewed simply as a low-margin commodity. Artificial intelligence is turning bandwidth, late",
      "source": "SemiWiki",
      "zh": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics"
+    },
+    {
+     "title": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform",
+     "link": "https://www.electronicsweekly.com/news/saildrone-lockheed-martin-demonstrate-live-fire-from-usv-platform-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 10:30:33 +0000",
+     "summary": "Lockheed Martin is highlighting a successful collaboration with Saildrone, a specialist in maritime autonomous systems. USV Basically, an unmanned surface vehicle (USV) was equipped with lethal defence technology, the live-fire […] The post Saildrone, Lockheed Martin demonstrate live-fire from USV p",
+     "source": "Electronics Weekly",
+     "zh": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform"
+    },
+    {
+     "title": "JEDEC to host Automotive Electronics Forum",
+     "link": "https://www.electronicsweekly.com/news/business/jedec-to-host-automotive-electronics-forum-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 09:17:49 +0000",
+     "summary": "The JEDEC Solid State Technology Association has announced that it is hosting an Automotive Electronics Forum. The event will take place on 17 September 2026 in Santa Clara, California. The […] The post JEDEC to host Automotive Electronics Forum appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "JEDEC to host Automotive Electronics Forum"
+    },
+    {
+     "title": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-feynman-gpu-vishay-sensor-optoelectronic-devices-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 09:05:07 +0000",
+     "summary": "There's the next frontier of advanced optoelectronics, Samsung Foundry putting back its 1.4nm process to 2029, and Vishay sampling a short distance VCSEL-based proximity sensor... The post Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices"
     },
     {
      "title": "The Human Brain Versus AI: Similar Results, Very Different Machines",
@@ -360,6 +400,14 @@ window.INDUSTRY_DATA = {
      "summary": "New Micron lab; chip/AI price jump; multi-die monitoring; cryo links for quantum chips; interconnect RC bottleneck; 18A win; CPO roadmap; 2 new CEOs; humanoid readiness gap; Hot Interconnects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "White House looking for 1000 rocket launches a year",
+     "link": "https://www.electronicsweekly.com/news/business/white-house-looking-for-1000-rocket-launches-a-year-2026-08/",
+     "pubDate": "Fri, 21 Aug 2026 05:17:57 +0000",
+     "summary": "Yesterday US President Donald Trump signed a memo aimed at enabling 1,000 US rocket launches and re-entries a year – up from 178 launches in 2025. The memo requires agencies […] The post White House looking for 1000 rocket launches a year appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "White House looking for 1000 rocket launches a year"
     },
     {
      "title": "Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes",
@@ -448,46 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
-    },
-    {
-     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
-     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
-     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
-     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
-    },
-    {
-     "title": "HexSeed raises over £600,000 in early-stage funding",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/hexseed-190826.shtml",
-     "pubDate": "Wed, 19 Aug 2026 21:03:33 +0100",
-     "summary": "HexSeed Technology Ltd of Banchory, near Aberdeen, Scotland, UK has raised more than £600,000 in an early-stage funding round led by Carbon13, with participation from Net Zero Technology Centre and Vento Ventures. The cumulative investment unlocks a Partnership Grant from overnment agency Innovate U",
-     "source": "Semiconductor Today",
-     "zh": "HexSeed raises over £600,000 in early-stage funding"
-    },
-    {
-     "title": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/clas-sic-190826.shtml",
-     "pubDate": "Wed, 19 Aug 2026 20:50:08 +0100",
-     "summary": "Clas-SiC Wafer Fab Ltd of Lochgelly, Fife, Scotland — which was founded in 2017 and is the UK’s only commercial wafer fabrication facility dedicated to silicon carbide (SiC) — is one of the first recipients of Scottish Enterprise’s new Capital Grant, which has been designed to help drive levels of b",
-     "source": "Semiconductor Today",
-     "zh": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment"
-    },
-    {
-     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
-     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
-     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
-     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
-    },
-    {
-     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
-     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
-     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
-     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -1290,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "LandSpace’s Zhuque-3 topples following milestone landing",
+     "link": "https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/",
+     "pubDate": "Sun, 23 Aug 2026 18:57:05 +0000",
+     "summary": "LandSpace achieved a major milestone for Chinese commercial rocketry this week when the first stage… The post LandSpace’s Zhuque-3 topples following milestone landing appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "LandSpace’s Zhuque-3 topples following milestone landing"
+    },
+    {
      "title": "New 'Star Trek' documentary featuring William Shatner hits theaters this fall, celebrating 60 years of Trek",
      "link": "https://www.space.com/entertainment/space-movies-shows/new-star-trek-documentary-featuring-william-shatner-hits-theaters-this-fall-celebrating-60-years-of-trek",
      "pubDate": "Sun, 23 Aug 2026 16:00:00 +0000",
@@ -1520,14 +1536,6 @@ window.INDUSTRY_DATA = {
      "summary": "The August 19 landing of its ZhuQue-3 rocket marked the first landing of a Chinese-made rocket using landing legs as well.",
      "source": "Spaceflight Now",
      "zh": "LandSpace becomes first commercial Chinese company to land an orbital-class booster"
-    },
-    {
-     "title": "Zhuque-3 Completes Second Flight with Successful First-Stage Landing",
-     "link": "https://www.nasaspaceflight.com/2026/08/zhuque-3-second-flight-successful-landing/",
-     "pubDate": "Wed, 19 Aug 2026 03:23:54 +0000",
-     "summary": "Zhuque-3’s second flight marked a major milestone for LandSpace as the methalox rocket lifted off… The post Zhuque-3 Completes Second Flight with Successful First-Stage Landing appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Zhuque-3 Completes Second Flight with Successful First-Stage Landing"
     }
    ]
   },
@@ -1737,6 +1745,14 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "《牛来》封神记：烂片名垂影史的三大条件",
+     "link": "https://www.huxiu.com/article/4885325.html?f=rss",
+     "pubDate": "Mon, 24 Aug 2026 02:30:08 +0800",
+     "summary": "本文来自微信公众号： 硅谷VC布莱恩 ，作者：硅谷VC&nbsp;布莱恩 八月中旬，电影院里有一批观众疯了。 影院经理很高兴。现在这年头，只要肯买票，精神状态属于次要指标。 他们买票前不看评分，先研究座位图。有人一格一格点，硬把空座拼成一声赞叹。正常人选座讲视野，这批人选座讲书法。 这部电影叫《牛来》。 电影开场，小牛刚一露面，全场鼓掌。那架势，不知道的还以为它刚从戛纳领完奖，顺路来影城谢票。 最虔诚的还是股民。他们买票给A股上香。庙远，影院有空调，票根还能留着，等跌停的时候拿出来复盘。 牛市来没来不好说。牛反正先来了。 先说票房。截至8月21日，票房高达3000万元。九天前，它的累计票房只有",
+     "source": "虎嗅",
+     "zh": "《牛来》封神记：烂片名垂影史的三大条件"
+    },
     {
      "title": "Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 (George Hammond/Financial Times)",
      "link": "https://www.techmeme.com/260823/p8#a260823p8",
@@ -1968,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
      "source": "WIRED",
      "zh": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)"
-    },
-    {
-     "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
-     "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
-     "pubDate": "Sun, 23 Aug 2026 09:30:00 +0000",
-     "summary": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
-     "source": "WIRED",
-     "zh": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App"
     }
    ]
   },
@@ -1985,6 +1993,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Humanoid robots have beaten Usain Bolt's 100-meter dash record",
+     "link": "https://www.engadget.com/2242295/humanoid-robots-have-beaten-usain-bolts-100-meter-dash-record/",
+     "pubDate": "Sun, 23 Aug 2026 18:40:04 +0000",
+     "summary": "And they looked absolutely ridiculous doing it.",
+     "source": "Engadget",
+     "zh": "Humanoid robots have beaten Usain Bolt's 100-meter dash record"
+    },
+    {
+     "title": "Why are there so many fast charging standards, and what's the difference between them?",
+     "link": "https://www.engadget.com/2241124/fast-charging-differenent-standards-explained/",
+     "pubDate": "Sun, 23 Aug 2026 18:30:00 +0000",
+     "summary": "A guide to the confusing world of USB-C fast charging.",
+     "source": "Engadget",
+     "zh": "Why are there so many fast charging standards, and what's the difference between them?"
+    },
     {
      "title": "Does Analogue 3D really make retro games 4K? Here's what you should know",
      "link": "https://www.engadget.com/2240184/is-analogue-3d-actually-4k/",
@@ -2026,14 +2050,6 @@ window.INDUSTRY_DATA = {
      "zh": "Is a liquid-cooled PC worth it?"
     },
     {
-     "title": "These modern smartwatches are in their last year of updates",
-     "link": "https://www.engadget.com/2240149/smartwatches-last-year-of-updates/",
-     "pubDate": "Sun, 23 Aug 2026 15:30:00 +0000",
-     "summary": "A whole bunch of smart watches are getting phased out this year. Is your watch on the list?",
-     "source": "Engadget",
-     "zh": "These modern smartwatches are in their last year of updates"
-    },
-    {
      "title": "Report: Apple launching updated iMac with M6 chip and new colors later this year",
      "link": "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/",
      "pubDate": "Sun, 23 Aug 2026 15:20:34 +0000",
@@ -2056,14 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "According to Bloomberg’s Mark Gurman , Apple is preparing significant changes at its retail stores in preparation for upcoming Home product launches. At the very least, Apple should debut a refreshed HomePod mini and Apple TV 4K this fall, though the changes would suggest a third, more significant p",
      "source": "9to5Mac",
      "zh": "Apple Stores preparing ‘significant’ changes for new Home product launches: report"
-    },
-    {
-     "title": "Wi-Fi 6 vs Wi-Fi 7: What's the difference wnd which is better for home internet?",
-     "link": "https://www.engadget.com/2240148/wi-fi-6-vs-wi-fi-7-whats-the-difference-and-which-is-better-for-home-internet/",
-     "pubDate": "Sun, 23 Aug 2026 14:30:00 +0000",
-     "summary": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet?",
-     "source": "Engadget",
-     "zh": "Wi-Fi 6 vs Wi-Fi 7: What's the difference wnd which is better for home internet?"
     },
     {
      "title": "Huawei Pura X View previewed, more iPhone 18 Pro leaks, Week 34 in review",
@@ -2234,12 +2242,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "SA Asks: Will Bessent's recent moves to curb bond yields boost the stock market?",
+     "link": "https://seekingalpha.com/news/4636065-sa-asks-will-bessents-recent-moves-to-curb-bond-yields-boost-the-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 23 Aug 2026 14:47:44 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: Will Bessent's recent moves to curb bond yields boost the stock market?"
+    },
+    {
+     "title": "'Spider-Man: Brand New Day' continues to dominate box office",
+     "link": "https://seekingalpha.com/news/4636062-spider-man-brand-new-day-continues-to-dominate-box-office?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 23 Aug 2026 14:43:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "'Spider-Man: Brand New Day' continues to dominate box office"
+    },
+    {
+     "title": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
+     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+     "pubDate": "2026-08-23T18:36:56Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus"
+    },
+    {
+     "title": "Hedge funds and mutual funds split on the AI trade - Goldman",
+     "link": "https://seekingalpha.com/news/4636064-hedge-funds-and-mutual-funds-split-on-the-ai-trade-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 23 Aug 2026 14:31:24 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hedge funds and mutual funds split on the AI trade - Goldman"
+    },
+    {
+     "title": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850444882.html",
+     "pubDate": "Mon, 24 Aug 2026 02:25:02 +0800",
+     "summary": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业"
+    },
+    {
+     "title": "美内华达州山火迅速蔓延 近1.4万户居民被要求撤离",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850444792.html",
+     "pubDate": "Mon, 24 Aug 2026 02:21:45 +0800",
+     "summary": "当地时间8月23日获悉，美国内华达州北部里诺市郊的“霍克”山火当日清晨从内华达山脉山麓向里诺市中心方向迅速蔓延，过火面积已超过1.05万英亩，近1.4万户居民收到强制撤离令。 里诺当地消防部门表示，强劲阵风、低湿度和干燥植被正在助长火势。目前约有400名人员参与灭火，地方、州和联邦机构均已投入地面和空中力量。里诺市长希拉里·希夫敦促收到撤离通知的居民立即离开，并称已有建筑被烧毁。 截至23日，沃肖县近1万户家庭和企业停电，美国395号公路部分路段因火灾关闭。内华达州州长乔·隆巴多已宣布沃肖县进入紧急状态。 本月早些时候，里诺以北地区已有三场受高温、干燥和大风天气推动的山火，曾迫使超过1.3万名",
+     "source": "东方财富股票",
+     "zh": "美内华达州山火迅速蔓延 近1.4万户居民被要求撤离"
+    },
+    {
+     "title": "新一代通信网建设提速 空天地海全域发力",
+     "link": "http://finance.eastmoney.com/news/1350,202608243850443531.html",
+     "pubDate": "Mon, 24 Aug 2026 02:13:16 +0800",
+     "summary": "8月21日召开的国务院常务会议指出，要积极顺应新一轮科技革命和产业变革趋势，牢牢把握新一代 通信 网建设的机遇，坚持应用牵引、适度超前，统筹推进基础网络、空间网络、国际网络、融合网络建设，巩固提升我国信息 通信 业竞争优势。要强化创新驱动、智能引领，普及推广新一代智能终端，积极培育 智慧城市 、智能制造等高价值场景，不断壮大产业生态。要加强关键网络基础设施和 数据安全 保护，提升应急保障 通信 能力，确保网络和信息安全。要健全政府引导、企业为主、社会参与的建设机制，做好用地、用电、频谱等要素保障，激发各类主体积极性。 新一代通信网包括哪些内容？ 中国移动 研究院未来研究院副院长金婧认为，采用新",
+     "source": "东方财富股票",
+     "zh": "新一代通信网建设提速 空天地海全域发力"
+    },
+    {
+     "title": "伊朗总统称应摆脱非战非和状态",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850441856.html",
+     "pubDate": "Mon, 24 Aug 2026 02:03:51 +0800",
+     "summary": "据伊朗官方通讯社伊通社8月23日报道，伊朗总统佩泽希齐扬当地时间8月22日晚在德黑兰出席一场活动时表示，伊朗最高国家安全委员会成员均认为，此前与美国达成的谅解备忘录是基于尊严、智慧及国家利益所能达成的最佳方案。这份备忘录中“找不到任何一项条款表明伊朗投降或作出退让”，相关承诺均由对方承担。但伊朗也应以理性方式，使国家摆脱眼下这种“既非战争、也非和平”的状态，在战争或“非战非和”的状态下，伊朗难以吸引投资。他还提及已故最高领袖阿里·哈梅内伊也曾明确表示必须摆脱“非战非和”状态。佩泽希齐扬还表示，伊朗最高领袖穆杰塔巴·哈梅内伊制定国家政策，政府将按照相关政策继续推进有关工作。 （文章来源：CCTV",
+     "source": "东方财富股票",
+     "zh": "伊朗总统称应摆脱非战非和状态"
+    },
+    {
+     "title": "35度“秒变”零下6度 冰雪消费“南展西扩东进”稳步演进",
+     "link": "http://finance.eastmoney.com/news/1348,202608243850443261.html",
+     "pubDate": "Mon, 24 Aug 2026 02:01:35 +0800",
+     "summary": "盛夏，走进位于无锡市滨湖区的无锡热雪奇迹滑雪场，场馆内温度低至零下6摄氏度。穿着炫酷的雪服、装备齐全的滑雪爱好者，从138米长的雪道顶端呼啸而下。一旁的娱雪区，“天空”飘着雪花，游客穿梭在雪屋、冰雕、冰滑梯之间。 地处华东的无锡，全年自然降雪不多，室内雪场为冰雪爱好者们提供了随时随地接触冰雪的机会。无锡热雪奇迹负责人金利辉告诉证券时报记者，今年暑期该滑雪场整体客流明显增长，尤其是8月份以来，游客滑雪和娱雪需求明显提升，客流已超过去年同期。 暑期冰雪消费火热 无锡热雪奇迹于2019年开业，是华东地区较早的室内滑雪场。换上厚厚的棉外套、鞋套，穿过一道门帘，便进入一片“冰雪世界”。帘外是35摄氏度的",
+     "source": "东方财富股票",
+     "zh": "35度“秒变”零下6度 冰雪消费“南展西扩东进”稳步演进"
+    },
+    {
+     "title": "券商“三投联动”直面现实拷问：投行强在当下 投资如何赢在未来？",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850442737.html",
+     "pubDate": "Mon, 24 Aug 2026 02:01:32 +0800",
+     "summary": "近期， 长鑫科技 、宇树科技等硬科技企业首发（IPO）的造富效应，让券商“三投联动”模式成为行业热词。 “三投联动”的理念雏形诞生于2010年前后券商直投业务兴起阶段。彼时 创投 界认为，券商股权投资可联动母公司投行、研究所形成协同优势，为普通市场化私募股权投资及风险投资（PE/VC）所不及。历经十余年发展，“投早投小”“三投联动”如今才被券商提升到战略高度，实际落地仍遭遇多重现实考验。 多个行业案例显示，除头部机构外，部分券商参与早期投资的项目走到IPO环节，保荐承销业务却交由其他机构承接，无法做到“从鱼头吃到鱼尾”。这套备受期待的协同模式，在券商体系内的实际运行效果，引发行业广泛关注。 投",
+     "source": "东方财富股票",
+     "zh": "券商“三投联动”直面现实拷问：投行强在当下 投资如何赢在未来？"
+    },
+    {
      "title": "Warsh seeks to soothe investors’ nerves as signs of economic strain mount",
      "link": "https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9?syn-25a6b1a6=1",
      "pubDate": "Sun, 23 Aug 2026 18:00:00 GMT",
      "summary": "Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium",
      "source": "Financial Times",
      "zh": "Warsh seeks to soothe investors’ nerves as signs of economic strain mount"
+    },
+    {
+     "title": "Yahoo, the internet’s ‘OG’, wants to win over Gen Z",
+     "link": "https://www.ft.com/content/50c666af-1979-4411-9d62-34e18cc0ecc9?syn-25a6b1a6=1",
+     "pubDate": "Sun, 23 Aug 2026 18:00:00 GMT",
+     "summary": "Group’s chief says vintage web name can help draw younger users",
+     "source": "Financial Times",
+     "zh": "Yahoo, the internet’s ‘OG’, wants to win over Gen Z"
     },
     {
      "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
@@ -2264,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Michael Burry dumps Alibaba for JD.com, says BABA would need to fall 50%"
-    },
-    {
-     "title": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus",
-     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-23T17:30:17Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus"
     },
     {
      "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
@@ -2370,14 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Top global stories this week: Alibaba, Unitree Robotics among notable names"
     },
     {
-     "title": "Walmart launching clothing brand Scenario in bid to appeal to younger shoppers",
-     "link": "https://seekingalpha.com/news/4636059-walmart-launching-clothing-brand-scenario-bid-appeal-younger-shoppers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 23 Aug 2026 11:51:52 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Walmart launching clothing brand Scenario in bid to appeal to younger shoppers"
-    },
-    {
      "title": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them",
      "link": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html",
      "pubDate": "2026-08-23T15:30:00Z",
@@ -2394,84 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development"
     },
     {
-     "title": "Nvidia to compete with US, Chinese AI models under $6B Poolside deal",
-     "link": "https://seekingalpha.com/news/4636058-nvidia-compete-us-chinese-ai-models-under-6b-poolside-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 23 Aug 2026 11:05:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia to compete with US, Chinese AI models under $6B Poolside deal"
-    },
-    {
-     "title": "SA Asks: How concerned should Meta investors be about child safety lawsuits?",
-     "link": "https://seekingalpha.com/news/4636047-sa-asks-how-concerned-should-meta-investors-be-about-child-safety-lawsuits?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 23 Aug 2026 11:00:35 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: How concerned should Meta investors be about child safety lawsuits?"
-    },
-    {
      "title": "机器人缺数据，奥比中光当上了“卖铲人”",
      "link": "https://wallstreetcn.com/articles/3780096",
      "pubDate": "Sun, 23 Aug 2026 21:25:09 +0800",
      "summary": "8月19日举行的2026世界机器人大会上，奥比中光首次集中展示无本体数据采集硬件矩阵，包括第一视角设备EGO、手持操作设备UMI、腕部近场设备WristCam以及同步中枢Hub。 对于一家过去主要给机器人卖 “眼睛”的公司而言，奥比中光正在把生意往机器人学会干活之前再推一步：卖数据采集的“铲子”。 这门生意背后是具身智能越来越明显的数据瓶颈。大模型可以从互联网获取文本和图像，但机器人要完成抓取、装配、整理等物理任务，需要动作轨迹、空间位置以及真实交互产生的多模态数据。 奥比中光切入的正是数采过程中所用的硬件设备。 此次奥比中光推出的 EGO负责第一视角，UMI记录手持操作，WristCam补充",
      "source": "华尔街见闻",
      "zh": "机器人缺数据，奥比中光当上了“卖铲人”"
-    },
-    {
-     "title": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
-     "link": "https://wallstreetcn.com/articles/3779970",
-     "pubDate": "Sun, 23 Aug 2026 21:16:39 +0800",
-     "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会 是下周最大宏观锚点。美联储主席 沃什 8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。 美联储“最爱通胀指标”7月PCE 与二季度GDP修正值8月26日公布。与此同时， 美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划 ，地缘风险溢价与财政路径双线夹击能源与避险资产。 企业财报层面，AI龙头英伟达 将于8月27日凌晨放榜，其业绩指引被视为AI资本开支周期的“终极",
-     "source": "华尔街见闻",
-     "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
-    },
-    {
-     "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
-     "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 13:00:00 GMT",
-     "summary": "Nvidia is due to report earnings on Wednesday, and “a very broad universe of companies” is tied to the themes that the chip giant represents.",
-     "source": "MarketWatch",
-     "zh": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test"
-    },
-    {
-     "title": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”",
-     "link": "https://wallstreetcn.com/articles/3780090",
-     "pubDate": "Sun, 23 Aug 2026 20:57:19 +0800",
-     "summary": "英伟达正在两条鲜少被市场充分定价的战线上悄然构筑护城河。 据汇丰银行8月20日发布的最新研报，汇丰分析师Frank Lee认为，在持续\"业绩超预期\"之外，推动英伟达股价重新定价的新催化剂，将来自两条此前被市场忽视的叙事线。 其一，大力押注开源小语言模型（SLM），有望将潜在客户群从少数超大规模云厂商扩展至数百万开发者和主权国家；其二，通过一系列多年期采购协议提前锁定供应链产能，在竞争对手愈发难以获得关键制造资源的背景下，这一优势将愈加凸显。 两条新叙事线的市场意义在于，它们共同指向同一个核心命题：英伟达的增长引擎，正在从依赖少数超大规模客户的单一结构，向更宽广、更具韧性的客户生态演进。 这一转",
-     "source": "华尔街见闻",
-     "zh": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”"
-    },
-    {
-     "title": "8月23日晚间上市公司利好消息一览(附名单)",
-     "link": "http://finance.eastmoney.com/news/1353,202608233850367418.html",
-     "pubDate": "Sun, 23 Aug 2026 20:32:26 +0800",
-     "summary": "沪深两市多家上市公司8月23日晚间发布重要公告，以下为利好的消息汇总： 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，建设期一年",
-     "source": "东方财富资讯",
-     "zh": "8月23日晚间上市公司利好消息一览(附名单)"
-    },
-    {
-     "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
-     "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
-     "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
-     "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
-     "source": "CNBC",
-     "zh": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill"
-    },
-    {
-     "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-     "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-     "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
-     "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
-     "source": "CNBC",
-     "zh": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI"
-    },
-    {
-     "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
-     "link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 12:00:00 GMT",
-     "summary": "You can’t just sweep $40 trillion in U.S. national debt under a rug and forget about it — or so the bond market appears to be telling Treasury Secretary Scott Bessent.",
-     "source": "MarketWatch",
-     "zh": "The Treasury’s bond-market intervention isn’t working. So what comes next?"
     }
    ]
   },

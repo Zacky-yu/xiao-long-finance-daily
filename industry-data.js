@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 04:52:06",
+ "generated_at": "2026/8/24 05:23:49",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Reducing EUV Exposure Dose Through Underlayer Engineering",
+     "link": "https://semiwiki.com/lithography/372293-reducing-euv-exposure-dose-through-underlayer-engineering/",
+     "pubDate": "Sun, 23 Aug 2026 21:00:24 +0000",
+     "summary": "Extreme-ultraviolet lithography is essential for manufacturing advanced semiconductor devices, but its continued scaling presents a difficult materials problem. Photoresists must simultaneously provide high resolution, low exposure dose, limited line-edge or linewidth roughness, and extremely low de",
+     "source": "SemiWiki",
+     "zh": "Reducing EUV Exposure Dose Through Underlayer Engineering"
+    },
+    {
      "title": "CEO Interview with Ajit Prabhu of Quest Global",
      "link": "https://semiwiki.com/ceo-interviews/372266-ceo-interview-with-ajit-prabhu-of-quest-global/",
      "pubDate": "Sun, 23 Aug 2026 19:00:20 +0000",
@@ -362,14 +370,6 @@ window.INDUSTRY_DATA = {
      "zh": "Exotic Materials Adding Cost To Semis"
     },
     {
-     "title": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics",
-     "link": "https://semiwiki.com/semiconductor-manufacturers/intel/372371-intel-eyes-a-memory-comeback-as-ai-rewrites-chip-economics/",
-     "pubDate": "Fri, 21 Aug 2026 13:00:41 +0000",
-     "summary": "Intel is considering a return to memory technology decades after abandoning mainstream DRAM and, more recently, selling its NAND business. Chief executive Lip-Bu Tan has argued that memory should no longer be viewed simply as a low-margin commodity. Artificial intelligence is turning bandwidth, late",
-     "source": "SemiWiki",
-     "zh": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics"
-    },
-    {
      "title": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform",
      "link": "https://www.electronicsweekly.com/news/saildrone-lockheed-martin-demonstrate-live-fire-from-usv-platform-2026-08/",
      "pubDate": "Fri, 21 Aug 2026 10:30:33 +0000",
@@ -418,12 +418,44 @@ window.INDUSTRY_DATA = {
      "zh": "White House looking for 1000 rocket launches a year"
     },
     {
+     "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/epc-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 17:51:06 +0100",
+     "summary": "Efficient Power Conversion Corp (EPC) of El Segundo, CA, USA — which makes enhancement-mode gallium nitride on silicon (eGaN) power field-effect transistors (FETs) and integrated circuits for power management applications — has announced mass production of the EPC2370, an ultra-low on-resistance 18V",
+     "source": "Semiconductor Today",
+     "zh": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures"
+    },
+    {
      "title": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure",
      "link": "https://www.eetimes.com/synopsys-updates-cxl-ip-portfolio-for-ai-era-infrastructure/",
      "pubDate": "Thu, 20 Aug 2026 14:07:45 +0000",
      "summary": "Synopsys’s CXL 4.0 IP aims to help designers build faster, more flexible and secure disaggregated computing architectures as AI systems demand more memory capacity and bandwidth. The post Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure"
+    },
+    {
+     "title": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/yole-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 14:12:54 +0100",
+     "summary": "Power gallium nitride (GaN) has spent the past several years proving itself in consumer fast chargers, but that phase is ending, according to Yole Group’s annual report ‘Power GaN 2026’. GaN is now entering a broader, multi-market adoption cycle where AI data centers, electric vehicles, industrial s",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems"
+    },
+    {
+     "title": "Micross acquiring AEMtec, expanding reach into Europe",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/micross-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 09:48:03 +0100",
+     "summary": "Micross Components Inc of Melville, NY, USA (which provides high-reliability microelectronic products and services for aerospace, defense, space, medical, energy, communications and industrial applications) has entered into a definitive agreement to acquire AEMtec GmbH of Berlin, Germany (a portfoli",
+     "source": "Semiconductor Today",
+     "zh": "Micross acquiring AEMtec, expanding reach into Europe"
+    },
+    {
+     "title": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/teksic-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 09:41:16 +0100",
+     "summary": "Silicon carbide wafer manufacturing technology firm TekSiC AB of Linköping, Sweden has announced progress in its development of semi-insulating silicon carbide (SI-SiC), which Europe currently lacks the domestic capability to manufacture commercially. The material underpins some of the most demandin",
+     "source": "Semiconductor Today",
+     "zh": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers"
     },
     {
      "title": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing",
@@ -464,30 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
-    },
-    {
-     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
-     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
-     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
-     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
-    },
-    {
-     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
-     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
-     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
-     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
-    },
-    {
-     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
-     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
-     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
-     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -842,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-and-Petrobras-Bet-Big-on-High-Risk-High-Reward-Drilling-Off-Mexico.html",
+     "pubDate": "Sun, 23 Aug 2026 16:00:00 -0500",
+     "summary": "Mexico’s state oil firm Pemex and Brazil’s national oil company Petrobras are joining efforts and expertise to drill prospects in Mexican waters in the Gulf of Mexico, hoping to unlock huge oil resources from source rock formations that are miles deeper and eight times older than the currently produ",
+     "source": "OilPrice",
+     "zh": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico"
+    },
+    {
      "title": "In The American Southwest, The Water Crisis Threatens Existential Harm To Millions",
      "link": "https://cleantechnica.com/2026/08/23/in-the-american-southwest-the-water-crisis-threatens-existential-harm-to-millions/",
      "pubDate": "Sun, 23 Aug 2026 20:12:27 +0000",
@@ -912,14 +928,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla didn’t start the electric door handle craze. Hotrodders in the late 1940s and early 1950s substituted electric buttons for mechanical door handles in their effort to “de-chrome” their cars. But Tesla, under Elon Musk’s direction, took the idea and ran with it when it introduced the Model S. Su",
      "source": "CleanTechnica",
      "zh": "China Tightens Restrictions On Electric Door Handles, Forcing Tesla To Recall 3 Million Vehicles"
-    },
-    {
-     "title": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
-     "link": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.html",
-     "pubDate": "Sat, 22 Aug 2026 16:00:00 -0500",
-     "summary": "Order a heavy-duty gas turbine from GE Vernova today and it won’t arrive until 2031. That’s the company’s actual production schedule, confirmed on its July 22 earnings call, and it’s the fact sitting underneath every AI data center power plan announced in the last two years. It comes up far less oft",
-     "source": "OilPrice",
-     "zh": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint"
     },
     {
      "title": "For Lagging Automakers: Stop Pouring Money Into The Wrong Powertrains",
@@ -1738,12 +1746,20 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders&apos; interest (Katie Roof/Business Insider)",
+     "title": "Greg Abbott says data center companies \"dug their own grave\" by moving into communities without first gaining support, signaling growing Republican backlash (Axios)",
+     "link": "https://www.techmeme.com/260823/p10#a260823p10",
+     "pubDate": "Sun, 23 Aug 2026 17:10:01 -0400",
+     "summary": "Axios : Greg Abbott says data center companies &ldquo;dug their own grave&rdquo; by moving into communities without first gaining support, signaling growing Republican backlash &nbsp; &mdash;&nbsp; Texas Gov. Greg Abbott delivered one of the starkest warnings yet from a Republican to the AI industry",
+     "source": "Techmeme",
+     "zh": "Greg Abbott says data center companies \"dug their own grave\" by moving into communities without first gaining support, signaling growing Republican backlash (Axios)"
+    },
+    {
+     "title": "Sources: Hugging Face is exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to evaluate bidders&apos; interest (Katie Roof/Business Insider)",
      "link": "https://www.techmeme.com/260823/p9#a260823p9",
      "pubDate": "Sun, 23 Aug 2026 15:20:01 -0400",
-     "summary": "Katie Roof / Business Insider : Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders' interest &nbsp; &mdash;&nbsp; The AI industry's next blockbuster acquisition may not be another model maker.&nbsp; &",
+     "summary": "Katie Roof / Business Insider : Sources: Hugging Face is exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to evaluate bidders' interest &nbsp; &mdash;&nbsp; The AI industry's next blockbuster acquisition may not be another model maker.&nbsp; &mda",
      "source": "Techmeme",
-     "zh": "Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders&apos; interest (Katie Roof/Business Insider)"
+     "zh": "Sources: Hugging Face is exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to evaluate bidders&apos; interest (Katie Roof/Business Insider)"
     },
     {
      "title": "《牛来》封神记：烂片名垂影史的三大条件",
@@ -1968,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
      "source": "WIRED",
      "zh": "What’s the Best Kindle of 2026? (So Far)"
-    },
-    {
-     "title": "Volcanoes that made history",
-     "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-     "pubDate": "Sun, 23 Aug 2026 11:02:54 +0000",
-     "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
-     "source": "Ars Technica",
-     "zh": "Volcanoes that made history"
     }
    ]
   },
@@ -2234,52 +2242,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "赞比亚大选何以出现罕见大胜？",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850446757.html",
-     "pubDate": "Mon, 24 Aug 2026 04:33:02 +0800",
-     "summary": "非洲南部国家赞比亚于13日举行了总统、国民议会及地方选举。该国是非洲第二大产 铜 国，当前，全球AI和电动 汽车 产业飞速发展导致 铜 的需求与日俱增，因此本次大选吸引了不少关注。赞比亚选举委员会18日宣布，现任总统哈凯恩德·希奇莱马在2026年总统选举中获胜，赢得连任。按照宪法规定，总统候选人获得超过50%的选票即胜出。希奇莱马获得约60%的有效选票，主要竞争对手蒙杜比莱获得选票约38%。 值得注意的是，赞比亚此次大选出现了该国历史上极其罕见的巨大票差，前两名的差距甚至超过了20%。自1991年赞比亚开启多党化道路以来，除了1991和1996年，其他历次总统选举中第一和第二名的得票差都不足1",
+     "title": "欧盟高级代表表示 敦促以色列政府撤回招标 停止其E1计划",
+     "link": "http://global.eastmoney.com/news/11798,202608243850448462.html",
+     "pubDate": "Mon, 24 Aug 2026 05:10:33 +0800",
+     "summary": "欧盟高级代表表示，敦促以色列政府撤回招标，停止其E1计划。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "赞比亚大选何以出现罕见大胜？"
+     "zh": "欧盟高级代表表示 敦促以色列政府撤回招标 停止其E1计划"
     },
     {
-     "title": "刚果民主共和国表示 确诊埃博拉病例数已升至5514例 其中死亡2642例",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850446686.html",
-     "pubDate": "Mon, 24 Aug 2026 04:26:30 +0800",
-     "summary": "刚果民主共和国表示，确诊埃博拉病例数已升至5514例，其中死亡2642例。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "刚果民主共和国表示 确诊埃博拉病例数已升至5514例 其中死亡2642例"
+     "title": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus",
+     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+     "pubDate": "2026-08-23T21:07:44Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Dow Jones Futures Due With Market At Key Point; Nvidia, Tariffs, Warsh In Focus"
     },
     {
-     "title": "资金借道宽基ETF布局科技成长 科创50ETF单周吸金逾43亿元",
-     "link": "http://fund.eastmoney.com/news/11794,202608243850444020.html",
-     "pubDate": "Mon, 24 Aug 2026 04:24:00 +0800",
-     "summary": "上周，宽基ETF资金流向延续分化。在纳入统计范围内的10类宽基指数中，科创50、创业板指和上证50相关ETF获得资金净流入，其余7类指数相关ETF出现不同程度净流出。 值得注意的是，成长风格宽基ETF成为上周资金净流入的主要方向。其中，科创50相关ETF净流入43.48亿元，居各类宽基指数首位；创业板指相关ETF净流入9.71亿元。与此同时，大盘风格的中证A500相关ETF净流出32.64亿元，净流出规模居首。 机构认为，近期科技板块调整主要体现为估值和情绪的回落，但这并不意味着产业趋势发生根本变化。政策支持、AI产业景气以及硬件链量价逻辑仍构成中长期支撑，情绪与筹码进一步出清后，科技成长方向",
+     "title": "加拿大驻美大使：加美贸易谈判破裂原因涉及多项议题",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850448511.html",
+     "pubDate": "Mon, 24 Aug 2026 05:05:10 +0800",
+     "summary": "记者当地时间8月23日获悉，加拿大驻美国大使马克·怀斯曼表示，加美贸易谈判22日晚间破裂，原因涉及多项议题，其中潜在协议的书面文本与加拿大方面认为双方此前已达成的共识存在出入。怀斯曼23日在接受采访时称，并非某一个单独问题导致谈判失败。谈判破裂随后触发新一轮关税措施，并可能导致加美贸易争端进一步升级。 （文章来源：每日经济新闻）",
      "source": "东方财富股票",
-     "zh": "资金借道宽基ETF布局科技成长 科创50ETF单周吸金逾43亿元"
+     "zh": "加拿大驻美大使：加美贸易谈判破裂原因涉及多项议题"
     },
     {
-     "title": "面对“近乎窒息”的“经济绞杀” 伊朗寻找一丝喘息空间",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850446181.html",
-     "pubDate": "Mon, 24 Aug 2026 04:07:03 +0800",
-     "summary": "美国要对伊朗再出“大招”。美国财政部长贝森特20日威胁称，特朗普政府将对伊朗实施“史上最严厉制裁”，形成对伊“史上规模最大、协调一致的经济孤立”。 伊朗外交部发言人巴加埃22日说，美国宣称对伊朗实施新的经济制裁，这远不止针对单个国家持续进行的非法“经济战”，在国际法层面毫无依据。伊朗伊斯兰议会议长卡利巴夫表示，必须制定计划应对制裁。伊朗最高国家安全委员会秘书雷扎伊则警告周边国家不要参与美国对伊朗发动的“经济战”，否则将被伊朗视为敌人。 美国对伊政策为何从军事打击转向“经济绞杀”？伊朗有足够经济韧性从容应对吗？地区国家又将如何抉择？ 美国转向经济制裁 白宫尚未公布所谓对伊朗“史上最严制裁”的具体",
+     "title": "伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850448646.html",
+     "pubDate": "Mon, 24 Aug 2026 05:04:59 +0800",
+     "summary": "当地时间23日，伊朗最高国家安全委员会秘书雷扎伊表示，如果美国对伊朗继续发动经济战，则没有石油会通过霍尔木兹海峡乃至波斯湾地区。伊朗将把任何国家参与或支持美国对伊朗人民发动的经济战视为战争行为。当地时间8月19日，美国总统特朗普在其社交媒体平台“真实社交”发文称，伊朗未能抓住达成协议的机会，因此他宣布对伊朗采取“针对任何国家实施过的最严厉经济行动”，称这将是一场规模空前的“经济战和经济孤立”。 （文章来源：每日经济新闻）",
      "source": "东方财富股票",
-     "zh": "面对“近乎窒息”的“经济绞杀” 伊朗寻找一丝喘息空间"
+     "zh": "伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口"
     },
     {
-     "title": "公募基金上半年经营数据陆续出炉 费率改革影响显现 头部稳固中部加速洗牌",
-     "link": "http://fund.eastmoney.com/news/11794,202608243850442598.html",
-     "pubDate": "Mon, 24 Aug 2026 04:04:13 +0800",
-     "summary": "随着上市公司2026年半年报陆续披露，部分基金公司的经营业绩相继揭晓。 据Wind数据统计，已披露经营数据的21家基金公司（包括有公募牌照的券商资管机构）中，20家实现盈利。 整体来看，在公募行业费率改革深入推进、权益市场结构性行情延续等背景下，头部公司凭借多元产品线和规模优势保持利润领先，彼此间的差距极为有限，竞争仍然激烈。 中型公司方面，部分机构凭借股东资源或特色策略实现弯道超车，排名剧烈洗牌。中小公募则业绩分化显著，部分机构存在亏损情况。 4家基金公司净利润超10亿元 从已披露数据看，上半年净利润突破10亿元的基金公司共有4家，分别是南方基金、华夏基金、富国基金和兴证全球基金。 具体来看",
+     "title": "美国内华达州里诺市4万多居民因野火紧急撤离",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850448265.html",
+     "pubDate": "Mon, 24 Aug 2026 05:04:34 +0800",
+     "summary": "一场大型野火23日快速逼近地处美国内华达州、与加利福尼亚州邻近的里诺市。当地消防部门证实凶猛火势已造成6人受伤，迫使约4.2万名当地居民紧急撤离，另有4.5万人处于撤离警告区。 消防官员在23日的记者会上表示，这场人为因素引发的野火在约24小时内过火面积已扩大至约53平方公里，火势目前处于失控状态。约有800名消防应急人员奋战在火场周边，包括3名消防应急人员在内的6人受伤。 内华达州州长乔·隆巴尔多宣布里诺市所在的沃肖县进入紧急状态，并下令动员内华达州国民警卫队。当地目前有约1万用户处于断电状态，多条主要公路被迫关闭。 当地官员发表声明称，里诺-斯特德 机场 已关闭，暂停“一般航空交通”，但里",
      "source": "东方财富股票",
-     "zh": "公募基金上半年经营数据陆续出炉 费率改革影响显现 头部稳固中部加速洗牌"
+     "zh": "美国内华达州里诺市4万多居民因野火紧急撤离"
     },
     {
-     "title": "伊朗：美国对伊制裁已有47年 将继续“在美国眼皮底下”同其他国家合作",
-     "link": "http://global.eastmoney.com/news/11798,202608243850446227.html",
-     "pubDate": "Mon, 24 Aug 2026 04:00:05 +0800",
-     "summary": "据新华社援引伊朗塔斯尼姆通讯社23日报道，伊朗伊斯兰革命卫队发言人穆赫比当天表示，伊朗针对美国各种敌对行动均已制定应对方案，包括应对经济施压。 穆赫比在伊朗北部城市卡拉季举行的新闻发布会上说，美国日前宣布对伊朗发动“最严厉的经济战”，这一表态实际上表明美方在军事领域未能实现目标。他说，美国对伊朗实施经济制裁已有47年，当前有关“经济战”的表态意在对伊朗民众施加心理影响。 穆赫比表示，伊方已制定方案以应对“经济战”造成的不利影响，并将继续“在美国眼皮底下”同其他国家开展经济往来、绕过美国限制。他称，伊朗在经济领域“没有担忧”，有关措施的效果将在不久后显现。 由于与伊朗的谈判停滞，美国总统特朗普1",
+     "title": "A股盘前速览：美股上个交易日存储芯片股多数下跌；阿里拟配售800亿港元新股全部投入AI建设；本周2只“高中签率”新股申购",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850448397.html",
+     "pubDate": "Mon, 24 Aug 2026 05:03:11 +0800",
+     "summary": "上周五美股三大指数集体收涨 美东时间8月21日，美国三大股指集体收涨。截至收盘，道指涨0.98%报53277.01点，标普500指数涨0.43%报7674.37点，纳指涨0.43%报26180.45点。 大型科技股涨跌互现， 特斯拉 涨超5%，谷歌涨逾1%，脸书涨0.75%， 微软 涨0.43%， 英伟达 跌近1%， 苹果 跌0.63%， 亚马逊 跌0.57%。 存储芯片 股多数下行， 西部数据 跌超2%， 美光科技 跌0.77%， 闪迪 跌0.28%， 希捷科技 跌0.03%， SK海力士 涨0.2%。 贵金属 股普涨， 埃尔拉多黄金 涨超7%， 哈莫尼黄金 涨近7%，盎格鲁 黄金 涨近6%",
      "source": "东方财富股票",
-     "zh": "伊朗：美国对伊制裁已有47年 将继续“在美国眼皮底下”同其他国家合作"
+     "zh": "A股盘前速览：美股上个交易日存储芯片股多数下跌；阿里拟配售800亿港元新股全部投入AI建设；本周2只“高中签率”新股申购"
+    },
+    {
+     "title": "特朗普据悉将于9月12日、13日到访爱尔兰",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850446952.html",
+     "pubDate": "Mon, 24 Aug 2026 04:44:08 +0800",
+     "summary": "特朗普据悉将于9月12日、13日到访爱尔兰。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "特朗普据悉将于9月12日、13日到访爱尔兰"
     },
     {
      "title": "Gilead’s Revenue Is Accelerating, But are its Acquisitions Worth the Cost?",
@@ -2304,14 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?"
-    },
-    {
-     "title": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
-     "link": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html",
-     "pubDate": "2026-08-23T19:43:03Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?"
     },
     {
      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
@@ -2376,6 +2384,14 @@ window.INDUSTRY_DATA = {
      "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
      "source": "MarketWatch",
      "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
+    },
+    {
+     "title": "Why every French politician is now a Gaullist",
+     "link": "https://www.ft.com/content/252df40a-48c0-47b8-850d-698a3d7a6dfd",
+     "pubDate": "Sun, 23 Aug 2026 17:58:17 GMT",
+     "summary": "The revival of de Gaulle’s legendary role in the second world war coincides with an increasing number of claims to his legacy",
+     "source": "Financial Times",
+     "zh": "Why every French politician is now a Gaullist"
     },
     {
      "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
@@ -2464,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "时隔七年，保险业迎来资产负债管理新规。 为有效防范系统性风险，完善审慎监管制度体系，提升保险业资产负债管理水平，8月21日，国家金融监督管理总局（以下简称“金融监管总局”）发布《保险公司资产负债管理办法》（以下简称《办法》）以及《关于实施〈保险公司资产负债管理办法〉有关事项的通知》（以下简称《实施通知》）。 国家金融监管总局表示，《办法》的实施，有助于引导保险公司树立稳健审慎的经营理念，...",
      "source": "经济观察网",
      "zh": "补齐制度短板、强化硬约束 保险业迎资产负债管理新规"
-    },
-    {
-     "title": "国家发展改革委“两天三会” 释放稳投资政策加力信号",
-     "link": "http://www.eeo.com.cn/2026/0824/1009013.shtml",
-     "pubDate": "Mon, 24 Aug 2026 00:26:04 +0800",
-     "summary": "■杜雨萌 近期，国家发展改革委在两天内接连召开三场重要会议，从“六张网”重大项目协调调度机制会，到民营企业座谈会，再到“两重”建设工作推进会，每一场会议均聚焦投资领域。 在笔者看来，这一系列部署并非零散安排，而是紧扣下半年经济工作要求，将基础设施的承载力、民间资本的活跃度与重大项目的牵引力放在同一张施工图里统筹推进，为下一阶段投资工作划出清晰路径：统筹“六张网”，重在形成合力、提升整...",
-     "source": "经济观察网",
-     "zh": "国家发展改革委“两天三会” 释放稳投资政策加力信号"
     }
    ]
   },

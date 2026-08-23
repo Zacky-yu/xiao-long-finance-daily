@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/23 17:02:40",
+ "generated_at": "2026/8/23 17:39:20",
  "recent_days": 7,
  "industries": [
   {
@@ -1745,6 +1745,78 @@
    "total": 18,
    "items": [
     {
+     "title": "小米新款超旗舰充电宝曝光：97.36Wh、多口输出 250W MAX，自带伸缩线",
+     "link": "https://www.ithome.com/0/993/239.htm",
+     "pubDate": "Sun, 23 Aug 2026 09:34:09 GMT",
+     "summary": "IT之家 8 月 23 日消息，一款型号为 P25 的小米移动电源前天通过 3C 认证，博主 @体验more 称该产品为超旗舰充电宝品类。 IT之家从该条微博获悉， 这款充电宝采用自带伸缩线设计 ， 支持 140W 高速自充 ， 多口输出功率可达 250W MAX 。额定能量为 97.36Wh，大约是 27000mAh，C1 口自带伸缩线。 输入方面，该充电宝的 C1、C2 口均是单口 140W，支持 PD 3.1 协议。 输出方面，该充电宝的 C1 口支持 140W PD 3.1、120W PPS 快充；C2 口为 140W PD3.1，120W PPS；A 口则是 120W、120W PP",
+     "source": "IT之家",
+     "zh": "小米新款超旗舰充电宝曝光：97.36Wh、多口输出 250W MAX，自带伸缩线"
+    },
+    {
+     "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
+     "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
+     "pubDate": "Sun, 23 Aug 2026 09:30:00 +0000",
+     "summary": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
+     "source": "WIRED",
+     "zh": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App"
+    },
+    {
+     "title": "消息称追觅汽车高管已密集开启外部求职，项目员工出现批量离职与被裁",
+     "link": "https://www.ithome.com/0/993/238.htm",
+     "pubDate": "Sun, 23 Aug 2026 09:19:21 GMT",
+     "summary": "IT之家 8 月 23 日消息，据第一财经消息，追觅汽车高管已密集开启外部求职，项目员工出现批量离职与被裁，办公区域大量工位闲置。 该媒体在 8 月下旬一个工作日进行了实地探访，在 9 楼的办公区域中，至少有三分之二以上的工位处于闲置状态，桌上没有任何办公用品和办公迹象。内部员工李达（化名）表示，高峰期公司人数达到七八百人，9 楼大约有四分之三的工位有同事在办公。 李达透露，星空计划（追觅造车品牌） 现在正在按照 8 月份的裁员名单进行裁员 ，而这样的裁员动作两个多月前就开始了，“陆陆续续一直有，每一波基本都是 25% 左右”。 按照该员工的说法，此轮裁员完后， 星空计划预计将只剩下部分高管 ",
+     "source": "IT之家",
+     "zh": "消息称追觅汽车高管已密集开启外部求职，项目员工出现批量离职与被裁"
+    },
+    {
+     "title": "美国造车新势力 Rivian CEO 斯卡林格：我们将直接影响大众下一代电车",
+     "link": "https://www.ithome.com/0/993/236.htm",
+     "pubDate": "Sun, 23 Aug 2026 09:16:43 GMT",
+     "summary": "IT之家 8 月 23 日消息，美国造车新势力 Rivian 创始人兼 CEO RJ· 斯卡林格日前接受英媒《Auto Express》采访，披露了 Rivian 与大众汽车集团总额 45 亿英镑 （IT之家注：现汇率约合 413.34 亿元人民币） 合资项目的更多细节。双方开发的技术将直接影响大众汽车集团下一代电动汽车。 Rivian 与大众汽车集团于 2024 年宣布合作，并共同成立 RV Tech。合资公司将 Rivian 在软件和电子硬件领域的技术优势，与大众汽车集团庞大的全球业务规模结合起来，为未来电动汽车开发新的核心技术。 双方正以 Rivian 现有技术为基础，共同开发更加灵活、",
+     "source": "IT之家",
+     "zh": "美国造车新势力 Rivian CEO 斯卡林格：我们将直接影响大众下一代电车"
+    },
+    {
+     "title": "OpenAI Codex 明天重置额度，并修复近期出现的用量消耗快问题",
+     "link": "https://www.ithome.com/0/993/235.htm",
+     "pubDate": "Sun, 23 Aug 2026 09:11:30 GMT",
+     "summary": "IT之家 8 月 23 日消息，OpenAI Codex &amp; ChatGPT 团队负责人蒂博 · 索蒂奥（Thibault Sottiaux）今天在 X 平台发文，回应近期网友提出的用量消耗过快问题，并将在明天为所有 Codex 订阅用户重置额度。 据蒂博所述，他们目前发现了三个影响用量计算的问题： a：在长时间会话中使用图片并进行多次上下文压缩（compaction）时，存在效率问题； b：计算机历史记录（Computer History）的 P95 及上分位数使用量较高； c：原本用于生成对话标题的某项功能，消耗使用量比预期稍多。 OpenAI 现已组建专项团队排查上述问题，并计划",
+     "source": "IT之家",
+     "zh": "OpenAI Codex 明天重置额度，并修复近期出现的用量消耗快问题"
+    },
+    {
+     "title": "年轻人的网络社交，正在偷偷“鸽化”",
+     "link": "https://www.huxiu.com/article/4885275.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 17:10:53 +0800",
+     "summary": "本文来自微信公众号： 极客公园 ，作者：宇航猿，编辑：靖宇，原文标题：《年轻人的网络社交，正在偷偷「鸽化」》 把「等待」，变成期待。 「从前的日色变得慢，车，马，邮件都慢。」 作家木心的小诗「车马慢」，到现在还是不少年轻人的微信签名。对于长在移动互联网中的年轻原住民来说，前互联网是时代的「慢」，不是不便，而是一种「怀古」的浪漫。 这也怪不了他们，微信等即时通信工具上，消息不仅是实时发送的，你甚至能在屏幕上看到「对方正在输入」的字样——一切都太快了。 当这种过快的互联网速度正在透支人们的精力时，反抗就出现了。 试想这样一个场景： 你发了一条消息。屏幕上没有「对方正在输入」，取而代之的是一只鸽子，",
+     "source": "虎嗅",
+     "zh": "年轻人的网络社交，正在偷偷“鸽化”"
+    },
+    {
+     "title": "从小用AI 的一代，连青春期也要外包吗？",
+     "link": "https://www.huxiu.com/article/4885274.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 17:09:02 +0800",
+     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《从小用 AI 的一代，连青春期也要外包吗？》 作为家长，你会让自己的孩子接触AI吗？ 如果已经在接触了，你的孩子用它来干什么？ 写作文、查资料？还是说你不太确定，有点担心？ 8月18日，OpenAI上线了一个专门面向青少年的ChatGPT版本。注册时填写年龄在13到17岁之间的用户，会被自动放进这个版本。 2025年，研究者Blake、Carter与Velloso对青少年使用Character.AI的行为进行了系统追踪。他们发现，在该平台最活跃的用户群体中，年龄在13至17岁之间的占据约半数。这些青少年使用聊天机器人的目的，",
+     "source": "虎嗅",
+     "zh": "从小用AI 的一代，连青春期也要外包吗？"
+    },
+    {
+     "title": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹",
+     "link": "https://www.ithome.com/0/993/234.htm",
+     "pubDate": "Sun, 23 Aug 2026 09:02:48 GMT",
+     "summary": "IT之家 8 月 23 日消息，据外媒 TechCrunch 报道，当地时间 20 日，皮尤研究中心发布的一项研究显示，自 2022 年 11 月 ChatGPT 问世后发布的网页中，超过三分之一可能带有 AI 生成痕迹。这一结果与其他研究相互印证，表明 近年来新增的大量网页已经由 AI 直接生成，或经过了 AI 的“魔改” 。 就在这一研究发布前不久，互联网基础设施服务商 Cloudflare 指出，机器人产生的网络流量已经 超过人工访问流量 ，比此前预测的还要来得更早。 皮尤研究中心此次研究关注的重点在于“互联网上哪些内容正在被访问”。研究结果显示，大量网页可能正在形成一种 由机器人阅读机",
+     "source": "IT之家",
+     "zh": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹"
+    },
+    {
+     "title": "Is Expensive Bottled Water Actually Better for You?",
+     "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
+     "pubDate": "Sun, 23 Aug 2026 09:00:00 +0000",
+     "summary": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
+     "source": "WIRED",
+     "zh": "Is Expensive Bottled Water Actually Better for You?"
+    },
+    {
      "title": "消息称华为 Mate 90 系列手机风驰版继续迭代，友商也会跟进",
      "link": "https://www.ithome.com/0/993/233.htm",
      "pubDate": "Sun, 23 Aug 2026 08:50:16 GMT",
@@ -1753,36 +1825,12 @@
      "zh": "消息称华为 Mate 90 系列手机风驰版继续迭代，友商也会跟进"
     },
     {
-     "title": "北汽株洲工厂技改完成：产能提升 33%，极狐贝塔 T1、S3 交付提速",
-     "link": "https://www.ithome.com/0/993/232.htm",
-     "pubDate": "Sun, 23 Aug 2026 08:34:33 GMT",
-     "summary": "IT之家 8 月 23 日消息，极狐官方昨日宣布，北汽株洲工厂技改完成， 产能提升 33% ，极狐贝塔 T1、贝塔 S3 开启加速交付模式，全力排产，加快发运。 据介绍，2009 年，北汽株洲工厂落户株洲国家高新区，是北汽集团第一个自主品牌外埠乘用车基地。17 年来， 这里累计下线的车辆已经超过了 170 万辆 。 IT之家获悉，本次核心技术改造升级扩展了 3 条全新产线，增加了 40 个工位，工位总数达到了 150 个；并增加了机械手的数量和优化了多处工序。 升级之前，该工厂每天生产交付 600 辆整车，现在提升到了 800 辆， 交付能力提升了 1/3 ；每个月的交付量增加了 6000 台",
-     "source": "IT之家",
-     "zh": "北汽株洲工厂技改完成：产能提升 33%，极狐贝塔 T1、S3 交付提速"
-    },
-    {
-     "title": "传音推出 Infinix Xpad 30 Pro 平板，联发科 Helio G200 芯片、11 寸 2.5K 屏幕",
-     "link": "https://www.ithome.com/0/993/230.htm",
-     "pubDate": "Sun, 23 Aug 2026 08:31:04 GMT",
-     "summary": "IT之家 8 月 23 日消息，传音现已在海外市场推出 Infinix Xpad 30 Pro 平板，新品搭载 11 英寸 2.5K 屏幕，定位中低端，定价约为 227 美元 （IT之家注：现汇率约合 1,531 元人民币） 。 据介绍， 这款平板搭载联发科 Helio G200 Ultimate 芯片 ， 配备 11 英寸屏幕 ，分辨率为 1600*2560，支持 90Hz 刷新率，最高亮度可达 550nits。 同时，这款平板拥有立体声扬声器和 DTS 音效支持，满足日常影音播放需求。拥有 8200mAh 电池，支持 18W 充电，最高配置为 8GB 内存 +256GB 存储， 支持 4G",
-     "source": "IT之家",
-     "zh": "传音推出 Infinix Xpad 30 Pro 平板，联发科 Helio G200 芯片、11 寸 2.5K 屏幕"
-    },
-    {
-     "title": "总台中国之声解读车辆应急机械拉手安全隐患：与内饰颜色接近、不易识别",
-     "link": "https://www.ithome.com/0/993/229.htm",
-     "pubDate": "Sun, 23 Aug 2026 08:25:20 GMT",
-     "summary": "IT之家 8 月 23 日消息，据中央广播电视总台中国之声今天（23 日）报道，日前，国家市场监督管理总局集中发布汽车召回公告，特斯拉、小米、小鹏、零跑等 9 家车企同步启动召回，覆盖数百万辆新能源汽车。本次召回的核心原因高度统一： 车内应急机械拉手与内饰颜色接近、辨识度不足 ，极端碰撞断电场景下可能 影响驾乘人员逃生与外部救援 。 报道指出，在普遍采用电动开门的新能源车型上，车内应急机械拉手是完全脱离电控系统的纯机械结构，也是极端险情下的最后一道逃生防线。 汽车产业专家李洋介绍，与传统燃油车直接外露的机械门把手不同，新能源车的应急拉手安装位置 并无统一标准 ：有的藏在车门储物槽内，有的内嵌于",
-     "source": "IT之家",
-     "zh": "总台中国之声解读车辆应急机械拉手安全隐患：与内饰颜色接近、不易识别"
-    },
-    {
-     "title": "38.15s 跑完 400 米再次刷新人类纪录：北京人形天工 Ultra 夺得本届人形机器人运动会首金",
-     "link": "https://www.ithome.com/0/993/228.htm",
-     "pubDate": "Sun, 23 Aug 2026 08:16:01 GMT",
-     "summary": "IT之家 8 月 23 日消息，在第二届世界人形机器人运动会“冰丝带”比赛现场，400 米大型组决赛开赛。经过角逐，天工队以 38.15 秒 的成绩夺得本届世界人形机器人运动会 首金 。 据IT之家此前报道，北京人形天工 Ultra 昨晚打破人类 400 米记录（43.03 秒）， 以 39.70s 的成绩夺得预赛第一 。 在昨日举行的田径 100 米大型组预赛中，天工 Ultra 以 9.39 秒的成绩率先冲线，打破了博尔特保持的 9.58 秒人类百米世界纪录。而在去年首届运动会上，百米最好成绩仅为 21.50 秒。 据介绍，天工 Ultra 身高 180cm、体重 52kg；能在斜坡、楼梯",
-     "source": "IT之家",
-     "zh": "38.15s 跑完 400 米再次刷新人类纪录：北京人形天工 Ultra 夺得本届人形机器人运动会首金"
+     "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
+     "link": "https://erikengdahl.se/autism/isnt/",
+     "pubDate": "Sun, 23 Aug 2026 08:48:34 +0000",
+     "summary": "Article URL: https://erikengdahl.se/autism/isnt/ Comments URL: https://news.ycombinator.com/item?id=49407143 Points: 22 # Comments: 12",
+     "source": "Hacker News",
+     "zh": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical"
     },
     {
      "title": "银行理财五星管理人评级报告 （2026年7月）",
@@ -1836,17 +1884,9 @@
      "title": "《重器》：为什么律师制度如此重要？",
      "link": "https://www.huxiu.com/article/4885269.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 16:08:34 +0800",
-     "summary": "本文来自微信公众号： 风声OPINION ，作者：罗翔，原文标题：《风声丨《重器》：为什么律师制度如此重要？》 凤凰网原创法律只是对人最低的道德要求，因此如果道德生活所鼓励或容忍的，则不宜认定为犯罪；但如果仅仅是道德标准所谴责的，就一律认定为犯罪，那么即便圣人也可能是罪犯。 中国政法大学教授 最近有一部法律剧正在热播，名字叫做《重器》，看了一些片段后，不禁百感交集。该剧以1979年至1997年中国法治建设探索历程为背景，通过11个真实案件改编的单元故事，呈现了从“流氓罪”存废到“疑罪从无”确立的法治演进脉络。 这些虽然都是过去的历史，但历史一直在对活着的人说话。它提醒我们，不要将古代法家的专权",
+     "summary": "本文来自微信公众号： 风声OPINION ，作者：罗翔，题图来自：视觉中国 最近有一部法律剧正在热播，名字叫做《重器》，看了一些片段后，不禁百感交集。该剧以1979年至1997年中国法治建设探索历程为背景，通过11个真实案件改编的单元故事，呈现了 从&ldquo;流氓罪&rdquo;存废到&ldquo;疑罪从无&rdquo;确立的法治演进脉络。 这些虽然都是过去的历史，但历史一直在对活着的人说话。它提醒我们， 不要将古代法家的专权与现代法治的限权混为一谈 。现代的法治不限于静态的法制 （法律制度） ，也不限于动态的依法治理，而是更为综合性的法律统治。相比于具体的法律知识，无论是官员还是民众，最",
      "source": "虎嗅",
      "zh": "《重器》：为什么律师制度如此重要？"
-    },
-    {
-     "title": "吉利汽车测试固态电池：500Wh/kg 电芯能量密度，目标续航破千公里",
-     "link": "https://www.ithome.com/0/993/227.htm",
-     "pubDate": "Sun, 23 Aug 2026 08:06:54 GMT",
-     "summary": "IT之家 8 月 23 日消息，据外媒 insideevs 当地时间 20 日报道，吉利正在为 固态电池技术的实际应用 做准备，计划从 2027 年开始在旗下多个品牌中开展固态电池试点部署，作为子公司的沃尔沃也有望成为其中之一。 吉利公布的固态电池参数十分突出： 电芯能量密度可达 500Wh/kg ，约为现有“金砖电池”的两倍。续航方面，吉利目标是让搭载该电池的车型达到 柴油车级别的续航水平 ，单次充电行驶超过 1000 公里，设计使用寿命更可 超过 100 万公里 。 固态电池相比传统电池还具有多项优势，例如 减轻整车重量、减少易挥发化学物质 ，从而降低事故中的安全风险和热失控可能性，同时提",
-     "source": "IT之家",
-     "zh": "吉利汽车测试固态电池：500Wh/kg 电芯能量密度，目标续航破千公里"
     },
     {
      "title": "A profile of Judge Yvonne Gonzalez Rogers, who is presiding over US state AGs&apos; social media addiction lawsuit against Meta and oversaw the Musk v. Altman trial (Jeffrey Kopp/CNBC)",
@@ -1881,26 +1921,10 @@
      "zh": "出货已超4万台，工厂准备好为“人形”买单了吗？"
     },
     {
-     "title": "人民币对美元升破6.72，创近三年半新高，“越结越高”效应下此轮升值停不下来？",
-     "link": "https://www.huxiu.com/article/4885267.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 15:56:59 +0800",
-     "summary": "本文来自微信公众号： 每日经济新闻 ，作者：每经记者，原文标题：《人民币对美元升破6.72，创近三年半新高！“越结越高”效应下此轮升值停不下来？》 8月21日，人民币对美元继续升值。在岸市场上，盘中一度达6.7192，人民币对美元汇率创下近三年半新高。离岸市场上，人民币对美元盘中一度达6.7179。 2026年以来，在岸人民币对美元升幅已近3.85%。当前国内维持低利率条件，中美利差约300BP。在中美利差压力之下，人民币对美元币值近一年多时间一路抬升，该走势背后，新的驱动因素在发挥着更重要的作用。 人民币对美元屡屡升值，经济学者白明接受《每日经济新闻》记者（以下简称每经记者）采访时指出，在外",
-     "source": "虎嗅",
-     "zh": "人民币对美元升破6.72，创近三年半新高，“越结越高”效应下此轮升值停不下来？"
-    },
-    {
-     "title": "我们正面临后现代治理问题",
-     "link": "https://www.huxiu.com/article/4885263.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 15:45:08 +0800",
-     "summary": "本文来自微信公众号： 诗翰 ，作者：卢诗翰的赞赏小号 仔细说一下前因后果吧，很多报道聚焦于细节，往往忽视了问题的整体性和社会性。 故事的起因，我认为要从2022年说起。 TFBOY大家都熟，时代峻峰就是TFBOY的母公司。 时代峻峰的所在地是长江国际大厦，也就是这次所在地。 作为TFBOY母公司，时代峰峻还运营孵化着大量后继偶像团队，这些团队被称为二代，三代。 第一代是TFBOY， 第二代是时代少年团，就是马嘉祺那几个， 第三代是TOP登陆少年， 第四代叫TF家族四代，没有名字是因为没正式出道， 第五代同理，目前也在训练阶段，只是公布了照片和名单，平均年龄11到14岁，都是练习生。 同时，作为",
-     "source": "虎嗅",
-     "zh": "我们正面临后现代治理问题"
-    },
-    {
      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
      "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
      "pubDate": "Sun, 23 Aug 2026 06:41:51 +0000",
-     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 83 # Comments: 66",
+     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 91 # Comments: 75",
      "source": "Hacker News",
      "zh": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed"
     },
@@ -1908,7 +1932,7 @@
      "title": "JIT Compiling Code in 5μs",
      "link": "https://malisper.me/jit-compiling-code-in-5-us/",
      "pubDate": "Sun, 23 Aug 2026 06:04:51 +0000",
-     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 50 # Comments: 9",
+     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 53 # Comments: 13",
      "source": "Hacker News",
      "zh": "JIT Compiling Code in 5μs"
     },
@@ -1916,7 +1940,7 @@
      "title": "The End of an Athlon",
      "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
      "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
-     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 69 # Comments: 16",
+     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 73 # Comments: 19",
      "source": "Hacker News",
      "zh": "The End of an Athlon"
     },
@@ -1924,7 +1948,7 @@
      "title": "Fast and Hard Code",
      "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
      "pubDate": "Sun, 23 Aug 2026 05:39:06 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 17 # Comments: 1",
      "source": "Hacker News",
      "zh": "Fast and Hard Code"
     },
@@ -1956,33 +1980,9 @@
      "title": "To become a better writer, read as much as you can",
      "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
      "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
-     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 122 # Comments: 66",
+     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 132 # Comments: 79",
      "source": "Hacker News",
      "zh": "To become a better writer, read as much as you can"
-    },
-    {
-     "title": "Sources: Nvidia plans to use its $6B deal with Poolside to build an open-weight AI model to compete with Chinese models like DeepSeek and Kimi (Robbie Whelan/Wall Street Journal)",
-     "link": "https://www.techmeme.com/260822/p16#a260822p16",
-     "pubDate": "Sat, 22 Aug 2026 23:30:01 -0400",
-     "summary": "Robbie Whelan / Wall Street Journal : Sources: Nvidia plans to use its $6B deal with Poolside to build an open-weight AI model to compete with Chinese models like DeepSeek and Kimi &nbsp; &mdash;&nbsp; A sweeping agreement with startup Poolside aims to build an open AI ecosystem in the U.S. to compe",
-     "source": "Techmeme",
-     "zh": "Sources: Nvidia plans to use its $6B deal with Poolside to build an open-weight AI model to compete with Chinese models like DeepSeek and Kimi (Robbie Whelan/Wall Street Journal)"
-    },
-    {
-     "title": "Sources: Iran-linked hackers shut down a small UK power plant for four days, coinciding with a wave of Iran-affiliated attacks on US water utilities (Telegraph)",
-     "link": "https://www.techmeme.com/260822/p15#a260822p15",
-     "pubDate": "Sat, 22 Aug 2026 23:20:02 -0400",
-     "summary": "Telegraph : Sources: Iran-linked hackers shut down a small UK power plant for four days, coinciding with a wave of Iran-affiliated attacks on US water utilities &nbsp; &mdash;&nbsp; Unprecedented cyber attack believed to be most successful of its kind&nbsp; &mdash;&nbsp; Tony Diver , Political Edito",
-     "source": "Techmeme",
-     "zh": "Sources: Iran-linked hackers shut down a small UK power plant for four days, coinciding with a wave of Iran-affiliated attacks on US water utilities (Telegraph)"
-    },
-    {
-     "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-     "link": "https://martypc.net/",
-     "pubDate": "Sun, 23 Aug 2026 03:13:16 +0000",
-     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 109 # Comments: 33",
-     "source": "Hacker News",
-     "zh": "MartyPC is a cross-platform emulator of early PCs written in Rust"
     }
    ]
   },
@@ -1992,6 +1992,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google’s foldable strategy is broken, and the Pixel 11 Pro Fold proves it",
+     "link": "https://www.androidauthority.com/google-foldable-strategy-broken-pixel-11-pro-fold-proves-3698972/",
+     "pubDate": "Sun, 23 Aug 2026 09:30:08 +0000",
+     "summary": "This Fold left me cold.",
+     "source": "Android Authority",
+     "zh": "Google’s foldable strategy is broken, and the Pixel 11 Pro Fold proves it"
+    },
+    {
+     "title": "Deals: Pixel 11 series available, Galaxy Z Fold8 Ultra price drop, Oppo Reno16 series on sale",
+     "link": "https://www.gsmarena.com/deals_pixel_11_series_available_galaxy_z_fold8_ultra_price_drop_oppo_reno16_series_on_sale-news-74287.php",
+     "pubDate": "Sun, 23 Aug 2026 11:01:02 +0200",
+     "summary": "We noticed that the Samsung Galaxy Z Fold8 Ultra is now down to €1,810 for the base 12/256GB model – it was €2,120 last week and it has an MSRP of €2,200 (here it is on Samsung.com). This also makes it cheaper than the Galaxy Z Fold8, which is €1,945 for the base 12/256GB model, pretty much the same",
+     "source": "GSMArena",
+     "zh": "Deals: Pixel 11 series available, Galaxy Z Fold8 Ultra price drop, Oppo Reno16 series on sale"
+    },
     {
      "title": "6 Android phones with microSD card slots you can still buy in 2026",
      "link": "https://www.androidauthority.com/android-phones-with-microsd-card-slots-still-buy-2026-3695885/",
@@ -2177,14 +2193,6 @@
      "zh": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more"
     },
     {
-     "title": "Here's the Sony Xperia 10 VIII that's expected to launch next week",
-     "link": "https://www.gsmarena.com/sony_xperia_10_viii_design-news-74294.php",
-     "pubDate": "Sat, 22 Aug 2026 14:05:02 +0200",
-     "summary": "Sony recently announced a launch event for August 25, starting at 11 AM Japan time. Sony said it's for a new Xperia product but didn't reveal its name. This Xperia product is expected to be the Xperia 10 VIII, which was recently spotted on Geekbench and has now appeared in an official-looking image ",
-     "source": "GSMArena",
-     "zh": "Here's the Sony Xperia 10 VIII that's expected to launch next week"
-    },
-    {
      "title": "Google is starting to show ads on Pixel phones — here’s how to turn them off",
      "link": "https://www.androidauthority.com/ads-on-pixel-phones-how-turn-off-3699375/",
      "pubDate": "Sat, 22 Aug 2026 12:00:15 +0000",
@@ -2207,14 +2215,6 @@
      "summary": "Why use multiple apps when one can do it all?",
      "source": "Android Authority",
      "zh": "I found a free, open-source Android app that replaced 8 other apps I used to rely on"
-    },
-    {
-     "title": "Whatever you do, don’t buy a Pixel 11 right now if you already have a Pixel 10",
-     "link": "https://www.androidauthority.com/pixel-10-vs-pixel-11-3697199/",
-     "pubDate": "Sat, 22 Aug 2026 10:00:25 +0000",
-     "summary": "The Pixel 11 series looks great, but the Pixel 10 hasn't aged much in just a year.",
-     "source": "Android Authority",
-     "zh": "Whatever you do, don’t buy a Pixel 11 right now if you already have a Pixel 10"
     },
     {
      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
@@ -2241,20 +2241,52 @@
    "total": 13,
    "items": [
     {
+     "title": "印度对俄罗斯石油的依赖达到历史新高！日进口量飙至260万桶",
+     "link": "http://finance.eastmoney.com/news/1345,202608233850309259.html",
+     "pubDate": "Sun, 23 Aug 2026 17:29:51 +0800",
+     "summary": "由于海湾冲突导致供应紧张，印度对俄罗斯石油的采购量达到历史最高水平，使印度更难摆脱对俄罗斯的石油依赖。 据贸易咨询公司Kpler首席分析师Sumit Ritolia表示，6月和7月期间，印度每天进口超过260万桶俄罗斯石油，占印度原油进口总量的一半以上，较2月份每日100万桶的低点成倍上涨。 去年，印度因美国总统特朗普的指责而在对俄罗斯石油的进口上稍加克制。然而，随着美伊之间和平协议始终未能达成，霍尔木兹海峡的石油出口问题正促使印度重新转向俄罗斯寻求石油供应。 为缓解海湾危机带来的影响，特朗普已批准豁免规定，允许其购买俄罗斯石油。 依赖进口 目前印度超过90%的原油和 天然气 需求依赖进口，海",
+     "source": "东方财富股票",
+     "zh": "印度对俄罗斯石油的依赖达到历史新高！日进口量飙至260万桶"
+    },
+    {
+     "title": "国内首部干细胞外泌体临床研究管理团体标准在新疆发布",
+     "link": "http://finance.eastmoney.com/news/1350,202608233850306163.html",
+     "pubDate": "Sun, 23 Aug 2026 17:28:41 +0800",
+     "summary": "《人脐带间充质干细胞来源外泌体临床研究管理规范》团体标准8月22日在乌鲁木齐发布。这是国内干细胞行业首个覆盖人脐带间充质干细胞来源外泌体临床研究全流程的团体标准，自今年8月15日起实施。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "国内首部干细胞外泌体临床研究管理团体标准在新疆发布"
+    },
+    {
+     "title": "福建启动防汛四级应急响应 维持防台风四级应急响应",
+     "link": "http://finance.eastmoney.com/news/1350,202608233850305036.html",
+     "pubDate": "Sun, 23 Aug 2026 17:23:39 +0800",
+     "summary": "记者从福建省防汛抗旱指挥部了解到，今年第20号台风“简拉维”今天14时中心距离台湾台北市东北方向约85公里，中心附近最大风力8级。预计，“简拉维”将以每小时5-10公里的速度向西偏南方向移动，强度逐渐减弱，将于24日在台湾海峡减弱消散。 受季风槽和台风“简拉维”共同影响，预计23日至25日福建省将有一轮明显强降雨过程，累计雨量100-250毫米，局部400毫米，最大小时雨量可能超80毫米。 福建省防指于8月23日15时启动防汛四级应急响应并维持防台风四级应急响应。 各地各有关部门需密切关注强降雨影响，及时启动或调整响应，扎实做好应对工作。各部门要加密监测、滚动发布预警，防范强降水可能引发的山洪",
+     "source": "东方财富股票",
+     "zh": "福建启动防汛四级应急响应 维持防台风四级应急响应"
+    },
+    {
+     "title": "外交部部长助理蔡伟会见联合国常务副秘书长阿明娜",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850296931.html",
+     "pubDate": "Sun, 23 Aug 2026 17:05:43 +0800",
+     "summary": "据外交部官网，2026年8月22日，外交部部长助理蔡伟会见联合国常务副秘书长阿明娜。阿明娜此次来华系主持“ 人工智能 与人类发展”对话会。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "外交部部长助理蔡伟会见联合国常务副秘书长阿明娜"
+    },
+    {
+     "title": "印度古吉拉特邦假酒事件死亡人数升至13人",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850296866.html",
+     "pubDate": "Sun, 23 Aug 2026 16:58:05 +0800",
+     "summary": "印度官方23日发布通报称，该国古吉拉特邦近日发生的假酒中毒事件中死亡人数再次上升，累计已造成13人死亡。 据印度方面21日消息，印度西部古吉拉特邦包纳加尔地区，陆续有多地居民在饮用假酒后死亡，死者血液样本检测结果显示含有甲醇。警方随后展开调查，将21人列为嫌疑人。 古吉拉特邦实行禁酒政策，酒类生产、销售和消费受到严格限制，类似假酒致死事件在当地时有发生。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "印度古吉拉特邦假酒事件死亡人数升至13人"
+    },
+    {
      "title": "五洲医疗：上半年净利润1536.34万元 同比增长46.11%",
      "link": "http://finance.eastmoney.com/news/1349,202608233850296715.html",
      "pubDate": "Sun, 23 Aug 2026 16:51:32 +0800",
      "summary": "五洲医疗 (301234)8月23日披露半年报，2026年上半年，公司实现营业收入2.03亿元，同比下降6.40%；归属于上市公司股东的净利润1536.34万元，同比增长46.11%；基本每股收益0.2259元。注射器、医用穿刺针等核心产品毛利率提升是净利润同比实现较大幅度增长的主要原因。 （文章来源：人民财讯）",
      "source": "东方财富股票",
      "zh": "五洲医疗：上半年净利润1536.34万元 同比增长46.11%"
-    },
-    {
-     "title": "中泰策略：回调如期启动 科技进入右侧配置窗口",
-     "link": "http://finance.eastmoney.com/news/1370,202608233850296678.html",
-     "pubDate": "Sun, 23 Aug 2026 16:41:25 +0800",
-     "summary": "报告摘要 一、市场急跌后企稳，美伊博弈的反复超出预期 8月中下旬回调如期启动，市场冲高回落后已缩量企稳，9月重新转强的中期判断维持不变。 我们前期持续提示8月中下旬市场与科技将进入回踩，幅度可控，形态接近强势震荡。本周调整集中于单日完成，成交额急跌后明显收敛；8月以来主要宽基指数仍普遍录得正收益，本轮回吐主要消化8月上旬的快速拉升，趋势并未走坏。 但需要提示： 第一，科创50是唯一跌破7月20日波段低点的宽基指数，修复所需幅度明显大于其他指数。第二，港股同期逆势走强，恒生指数与恒生科技均收涨；同样面对美债波动而未跟随调整， 说明压制A股科技的主要力量来自内部筹码，海外利率的解释力有限。 8月1",
-     "source": "东方财富股票",
-     "zh": "中泰策略：回调如期启动 科技进入右侧配置窗口"
     },
     {
      "title": "免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？",
@@ -2271,38 +2303,6 @@
      "summary": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
      "source": "Financial Times",
      "zh": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment"
-    },
-    {
-     "title": "中信证券：科技股近期的调整不能简单归因于美国长债利率高企",
-     "link": "http://stock.eastmoney.com/news/11791,202608233850296358.html",
-     "pubDate": "Sun, 23 Aug 2026 16:32:21 +0800",
-     "summary": "中信证券 研报认为，科技股近期的调整不能简单归因于美国长债利率高企，调整的背后是AI相关股票的远期定价问题，有三个关键叙事变量：1)商业化的速率和空间是否跟得上市场预期；2)算力优势是不是带来份额和定价权优势；3)当期的算力差距是否会明显拉开远期的AI模型差距。这其中当前共识性担忧是商业化的速率和空间，最大的潜在变量是“防蒸馏”是否在未来会重新拉大模型差距。至于宏观因素，美国财政部宣布回购长债的影响十分有限，不过短期内美元走弱和加息预期的走弱都有利于全球市场K型分化的收敛。然而，造成美国长端利率持续上行的因素并没有发生根本性变化，未来一段时间可能还会出现持续扰动。在这些外部扰动影响下，A股短期",
-     "source": "东方财富股票",
-     "zh": "中信证券：科技股近期的调整不能简单归因于美国长债利率高企"
-    },
-    {
-     "title": "智光电气：终止发行股份及支付现金购买资产并募集配套资金事项",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850296244.html",
-     "pubDate": "Sun, 23 Aug 2026 16:31:50 +0800",
-     "summary": "智光电气 (002169.SZ)公告称，公司召开董事会审议通过议案，同意终止发行股份及支付现金购买广州智光储能科技有限公司27.18%股权并募集配套资金暨关联交易事项。终止原因为当前市场环境较筹划初期发生较大变化，经审慎考虑并与交易对方协商决定终止。公司承诺自终止公告之日起1个月内不再筹划重大资产重组。本次交易终止不影响公司对标的公司的控制权，目前生产经营正常。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "智光电气：终止发行股份及支付现金购买资产并募集配套资金事项"
-    },
-    {
-     "title": "俄罗斯国防部：俄罗斯军队在顿涅茨克和哈尔科夫地区对乌克兰军队的临时部署点发射了FAB-500和FAB-1500炸弹",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850296492.html",
-     "pubDate": "Sun, 23 Aug 2026 16:31:26 +0800",
-     "summary": "俄罗斯国防部：俄罗斯军队在顿涅茨克和哈尔科夫地区对乌克兰军队的临时部署点发射了FAB-500和FAB-1500炸弹。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "俄罗斯国防部：俄罗斯军队在顿涅茨克和哈尔科夫地区对乌克兰军队的临时部署点发射了FAB-500和FAB-1500炸弹"
-    },
-    {
-     "title": "中信证券：科技股近期的调整是AI相关股票的远期定价问题",
-     "link": "http://finance.eastmoney.com/news/1370,202608233850296169.html",
-     "pubDate": "Sun, 23 Aug 2026 16:28:04 +0800",
-     "summary": "科技股近期的调整不能简单归因于美国长债利率高企，调整的背后是AI相关股票的远期定价问题，有三个关键叙事变量：1）商业化的速率和空间是否跟得上市场预期；2）算力优势是不是带来份额和定价权优势；3）当期的算力差距是否会明显拉开远期的AI模型差距。这其中当前共识性担忧是商业化的速率和空间，最大的潜在变量是“防蒸馏”是否在未来会重新拉大模型差距。至于宏观因素，美国财政部宣布回购长债的影响十分有限，不过短期内美元走弱和加息预期的走弱都有利于全球市场K型分化的收敛。然而，造成美国长端利率持续上行的因素并没有发生根本性变化，未来一段时间可能还会出现持续扰动。在这些外部扰动影响下，A股短期内的资金结构决定了市",
-     "source": "东方财富股票",
-     "zh": "中信证券：科技股近期的调整是AI相关股票的远期定价问题"
     },
     {
      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
@@ -2489,6 +2489,14 @@
    "total": 8,
    "items": [
     {
+     "title": "Do other animals call each other by name?",
+     "link": "https://www.livescience.com/animals/do-other-animals-call-each-other-by-name",
+     "pubDate": "Sun, 23 Aug 2026 09:00:00 +0000",
+     "summary": "Research in dolphins, elephants, parrots and primates suggests animals may call each other by name, but scientists are divided on how to define the behavior.",
+     "source": "Live Science",
+     "zh": "Do other animals call each other by name?"
+    },
+    {
      "title": "Black holes keep tearing these stars apart, but they survive",
      "link": "https://www.sciencedaily.com/releases/2026/08/260822015119.htm",
      "pubDate": "Sun, 23 Aug 2026 00:08:52 EDT",
@@ -2631,14 +2639,6 @@
      "summary": "A sound wave–based therapy commonly used to dislodge kidney stones is gaining traction as a treatment for erectile dysfunction.",
      "source": "Science News",
      "zh": "Shock wave therapy for erectile dysfunction is on the rise"
-    },
-    {
-     "title": "Meet the scientists 3D printing corneas to restore people's vision, potentially filling a worldwide shortage of transplantable tissue",
-     "link": "https://www.livescience.com/health/surgery/meet-the-scientists-3d-printing-corneas-to-restore-peoples-vision-potentially-filling-a-worldwide-shortage-of-transplantable-tissue",
-     "pubDate": "Fri, 21 Aug 2026 09:00:00 +0000",
-     "summary": "New 3D-printed corneal implants could help make up for the shortage of donor corneas available for transplant procedures, say Precise Bio co-founders Aryeh Batt and Dr. Anthony Atala .",
-     "source": "Live Science",
-     "zh": "Meet the scientists 3D printing corneas to restore people's vision, potentially filling a worldwide shortage of transplantable tissue"
     },
     {
      "title": "Paving the way for greener ammonia production",

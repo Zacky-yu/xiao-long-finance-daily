@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 04:24:54",
+ "generated_at": "2026/8/24 04:52:06",
  "recent_days": 7,
  "industries": [
   {
@@ -418,44 +418,12 @@ window.INDUSTRY_DATA = {
      "zh": "White House looking for 1000 rocket launches a year"
     },
     {
-     "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/epc-200826.shtml",
-     "pubDate": "Thu, 20 Aug 2026 17:51:06 +0100",
-     "summary": "Efficient Power Conversion Corp (EPC) of El Segundo, CA, USA — which makes enhancement-mode gallium nitride on silicon (eGaN) power field-effect transistors (FETs) and integrated circuits for power management applications — has announced mass production of the EPC2370, an ultra-low on-resistance 18V",
-     "source": "Semiconductor Today",
-     "zh": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures"
-    },
-    {
      "title": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure",
      "link": "https://www.eetimes.com/synopsys-updates-cxl-ip-portfolio-for-ai-era-infrastructure/",
      "pubDate": "Thu, 20 Aug 2026 14:07:45 +0000",
      "summary": "Synopsys’s CXL 4.0 IP aims to help designers build faster, more flexible and secure disaggregated computing architectures as AI systems demand more memory capacity and bandwidth. The post Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure"
-    },
-    {
-     "title": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/yole-200826.shtml",
-     "pubDate": "Thu, 20 Aug 2026 14:12:54 +0100",
-     "summary": "Power gallium nitride (GaN) has spent the past several years proving itself in consumer fast chargers, but that phase is ending, according to Yole Group’s annual report ‘Power GaN 2026’. GaN is now entering a broader, multi-market adoption cycle where AI data centers, electric vehicles, industrial s",
-     "source": "Semiconductor Today",
-     "zh": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems"
-    },
-    {
-     "title": "Micross acquiring AEMtec, expanding reach into Europe",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/micross-200826.shtml",
-     "pubDate": "Thu, 20 Aug 2026 09:48:03 +0100",
-     "summary": "Micross Components Inc of Melville, NY, USA (which provides high-reliability microelectronic products and services for aerospace, defense, space, medical, energy, communications and industrial applications) has entered into a definitive agreement to acquire AEMtec GmbH of Berlin, Germany (a portfoli",
-     "source": "Semiconductor Today",
-     "zh": "Micross acquiring AEMtec, expanding reach into Europe"
-    },
-    {
-     "title": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers",
-     "link": "https://semiconductor-today.com/news_items/2026/aug/teksic-200826.shtml",
-     "pubDate": "Thu, 20 Aug 2026 09:41:16 +0100",
-     "summary": "Silicon carbide wafer manufacturing technology firm TekSiC AB of Linköping, Sweden has announced progress in its development of semi-insulating silicon carbide (SI-SiC), which Europe currently lacks the domestic capability to manufacture commercially. The material underpins some of the most demandin",
-     "source": "Semiconductor Today",
-     "zh": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers"
     },
     {
      "title": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing",
@@ -496,6 +464,30 @@ window.INDUSTRY_DATA = {
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
+    },
+    {
+     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
+     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
+     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
+     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
+    },
+    {
+     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
+     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
+     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
+     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
+    },
+    {
+     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
+     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
+     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
+     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -1994,6 +1986,30 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Stop photographing the landmark. Start photographing the trip",
+     "link": "https://www.dpreview.com/photography/stop-photographing-the-landmark-start-photographing-the-trip/",
+     "pubDate": "Sun, 23 Aug 2026 20:46:53 +0000",
+     "summary": "Years from now, you won't care about your version of the shot everyone else has. You'll care about the one only you could take.",
+     "source": "DPReview",
+     "zh": "Stop photographing the landmark. Start photographing the trip"
+    },
+    {
+     "title": "How is Android Auto different from Android Automotive?",
+     "link": "https://www.engadget.com/2240251/android-auto-vs-automotive-how-different/",
+     "pubDate": "Sun, 23 Aug 2026 20:30:00 +0000",
+     "summary": "While these two names sound like they'd refer to the same product, there are major differences between them.",
+     "source": "Engadget",
+     "zh": "How is Android Auto different from Android Automotive?"
+    },
+    {
+     "title": "Hands-on: Mophie’s new battery banks offer pocketable power, built-in cables at low price",
+     "link": "https://9to5mac.com/2026/08/23/mophie-new-pocketable-battery-banks-for-iphone/",
+     "pubDate": "Sun, 23 Aug 2026 20:27:08 +0000",
+     "summary": "Recently, Mophie debuted four new power banks for the iPhone. They slide nicely into your pocket, come in two finishes, offer built-in cables, and pack 5000mAh or 10000mAh of capacity. They’re by no means the smallest battery banks on the market, though they hit a price point that makes them worthwh",
+     "source": "9to5Mac",
+     "zh": "Hands-on: Mophie’s new battery banks offer pocketable power, built-in cables at low price"
+    },
+    {
      "title": "How to stop Siri from interrupting while you're using CarPlay",
      "link": "https://www.engadget.com/2240187/apple-carplay-stop-siri-from-interrupting/",
      "pubDate": "Sun, 23 Aug 2026 20:00:00 +0000",
@@ -2032,14 +2048,6 @@ window.INDUSTRY_DATA = {
      "summary": "The class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.",
      "source": "Engadget",
      "zh": "Twitch and Amazon hit with lawsuit for training AI with streamers' content"
-    },
-    {
-     "title": "Is it safe to use a USB-C laptop charger on your phone?",
-     "link": "https://www.engadget.com/2240179/using-usb-c-laptop-charger-for-phone-safety-tips/",
-     "pubDate": "Sun, 23 Aug 2026 17:30:00 +0000",
-     "summary": "If you've ever wondered whether you can just charge your phone with the cable for your laptop, read on and find out how to tell.",
-     "source": "Engadget",
-     "zh": "Is it safe to use a USB-C laptop charger on your phone?"
     },
     {
      "title": "Google’s inevitable ‘Pixel Watch Ultra’ should copy the Fitbit Air",
@@ -2202,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "vivo T5 5G teased with a 3D curved display ahead of launch"
     },
     {
-     "title": "We’re just two months away from the first touchscreen MacBook: Here’s what to expect",
-     "link": "https://9to5mac.com/2026/08/22/touchscreen-macbook-ultra-coming-soon-heres-whats-coming/",
-     "pubDate": "Sat, 22 Aug 2026 17:58:00 +0000",
-     "summary": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be rolling out its first touchscreen MacBook as soon as October. This’ll come alongside the next MacBook Pro redesign, potentially dubbed MacBook Ultra .",
-     "source": "9to5Mac",
-     "zh": "We’re just two months away from the first touchscreen MacBook: Here’s what to expect"
-    },
-    {
      "title": "What is the ‘Android Pulse’ app that just appeared in Google Play Store updates?",
      "link": "https://9to5google.com/2026/08/22/android-pulse-app-google-play/",
      "pubDate": "Sat, 22 Aug 2026 15:50:56 +0000",
@@ -2224,14 +2224,6 @@ window.INDUSTRY_DATA = {
      "summary": "Buying a new smartphone usually means buying a new case alongside it, unless you’re one of those risk-fueled daredevils who opt to go caseless. And while there’s no shortage of third-party case options piling up at your local Best Buy or in Amazon warehouses, sometimes, going the first-party route j",
      "source": "9to5Google",
      "zh": "Please don’t buy Google’s wildly overpriced Pixel 11 Clear Case"
-    },
-    {
-     "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
-     "link": "https://sspai.com/post/113675",
-     "pubDate": "Sat, 22 Aug 2026 11:00:00 +0800",
-     "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ... 查看全文",
-     "source": "少数派",
-     "zh": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展"
     }
    ]
   },
@@ -2241,6 +2233,54 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "赞比亚大选何以出现罕见大胜？",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850446757.html",
+     "pubDate": "Mon, 24 Aug 2026 04:33:02 +0800",
+     "summary": "非洲南部国家赞比亚于13日举行了总统、国民议会及地方选举。该国是非洲第二大产 铜 国，当前，全球AI和电动 汽车 产业飞速发展导致 铜 的需求与日俱增，因此本次大选吸引了不少关注。赞比亚选举委员会18日宣布，现任总统哈凯恩德·希奇莱马在2026年总统选举中获胜，赢得连任。按照宪法规定，总统候选人获得超过50%的选票即胜出。希奇莱马获得约60%的有效选票，主要竞争对手蒙杜比莱获得选票约38%。 值得注意的是，赞比亚此次大选出现了该国历史上极其罕见的巨大票差，前两名的差距甚至超过了20%。自1991年赞比亚开启多党化道路以来，除了1991和1996年，其他历次总统选举中第一和第二名的得票差都不足1",
+     "source": "东方财富股票",
+     "zh": "赞比亚大选何以出现罕见大胜？"
+    },
+    {
+     "title": "刚果民主共和国表示 确诊埃博拉病例数已升至5514例 其中死亡2642例",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850446686.html",
+     "pubDate": "Mon, 24 Aug 2026 04:26:30 +0800",
+     "summary": "刚果民主共和国表示，确诊埃博拉病例数已升至5514例，其中死亡2642例。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "刚果民主共和国表示 确诊埃博拉病例数已升至5514例 其中死亡2642例"
+    },
+    {
+     "title": "资金借道宽基ETF布局科技成长 科创50ETF单周吸金逾43亿元",
+     "link": "http://fund.eastmoney.com/news/11794,202608243850444020.html",
+     "pubDate": "Mon, 24 Aug 2026 04:24:00 +0800",
+     "summary": "上周，宽基ETF资金流向延续分化。在纳入统计范围内的10类宽基指数中，科创50、创业板指和上证50相关ETF获得资金净流入，其余7类指数相关ETF出现不同程度净流出。 值得注意的是，成长风格宽基ETF成为上周资金净流入的主要方向。其中，科创50相关ETF净流入43.48亿元，居各类宽基指数首位；创业板指相关ETF净流入9.71亿元。与此同时，大盘风格的中证A500相关ETF净流出32.64亿元，净流出规模居首。 机构认为，近期科技板块调整主要体现为估值和情绪的回落，但这并不意味着产业趋势发生根本变化。政策支持、AI产业景气以及硬件链量价逻辑仍构成中长期支撑，情绪与筹码进一步出清后，科技成长方向",
+     "source": "东方财富股票",
+     "zh": "资金借道宽基ETF布局科技成长 科创50ETF单周吸金逾43亿元"
+    },
+    {
+     "title": "面对“近乎窒息”的“经济绞杀” 伊朗寻找一丝喘息空间",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850446181.html",
+     "pubDate": "Mon, 24 Aug 2026 04:07:03 +0800",
+     "summary": "美国要对伊朗再出“大招”。美国财政部长贝森特20日威胁称，特朗普政府将对伊朗实施“史上最严厉制裁”，形成对伊“史上规模最大、协调一致的经济孤立”。 伊朗外交部发言人巴加埃22日说，美国宣称对伊朗实施新的经济制裁，这远不止针对单个国家持续进行的非法“经济战”，在国际法层面毫无依据。伊朗伊斯兰议会议长卡利巴夫表示，必须制定计划应对制裁。伊朗最高国家安全委员会秘书雷扎伊则警告周边国家不要参与美国对伊朗发动的“经济战”，否则将被伊朗视为敌人。 美国对伊政策为何从军事打击转向“经济绞杀”？伊朗有足够经济韧性从容应对吗？地区国家又将如何抉择？ 美国转向经济制裁 白宫尚未公布所谓对伊朗“史上最严制裁”的具体",
+     "source": "东方财富股票",
+     "zh": "面对“近乎窒息”的“经济绞杀” 伊朗寻找一丝喘息空间"
+    },
+    {
+     "title": "公募基金上半年经营数据陆续出炉 费率改革影响显现 头部稳固中部加速洗牌",
+     "link": "http://fund.eastmoney.com/news/11794,202608243850442598.html",
+     "pubDate": "Mon, 24 Aug 2026 04:04:13 +0800",
+     "summary": "随着上市公司2026年半年报陆续披露，部分基金公司的经营业绩相继揭晓。 据Wind数据统计，已披露经营数据的21家基金公司（包括有公募牌照的券商资管机构）中，20家实现盈利。 整体来看，在公募行业费率改革深入推进、权益市场结构性行情延续等背景下，头部公司凭借多元产品线和规模优势保持利润领先，彼此间的差距极为有限，竞争仍然激烈。 中型公司方面，部分机构凭借股东资源或特色策略实现弯道超车，排名剧烈洗牌。中小公募则业绩分化显著，部分机构存在亏损情况。 4家基金公司净利润超10亿元 从已披露数据看，上半年净利润突破10亿元的基金公司共有4家，分别是南方基金、华夏基金、富国基金和兴证全球基金。 具体来看",
+     "source": "东方财富股票",
+     "zh": "公募基金上半年经营数据陆续出炉 费率改革影响显现 头部稳固中部加速洗牌"
+    },
+    {
+     "title": "伊朗：美国对伊制裁已有47年 将继续“在美国眼皮底下”同其他国家合作",
+     "link": "http://global.eastmoney.com/news/11798,202608243850446227.html",
+     "pubDate": "Mon, 24 Aug 2026 04:00:05 +0800",
+     "summary": "据新华社援引伊朗塔斯尼姆通讯社23日报道，伊朗伊斯兰革命卫队发言人穆赫比当天表示，伊朗针对美国各种敌对行动均已制定应对方案，包括应对经济施压。 穆赫比在伊朗北部城市卡拉季举行的新闻发布会上说，美国日前宣布对伊朗发动“最严厉的经济战”，这一表态实际上表明美方在军事领域未能实现目标。他说，美国对伊朗实施经济制裁已有47年，当前有关“经济战”的表态意在对伊朗民众施加心理影响。 穆赫比表示，伊方已制定方案以应对“经济战”造成的不利影响，并将继续“在美国眼皮底下”同其他国家开展经济往来、绕过美国限制。他称，伊朗在经济领域“没有担忧”，有关措施的效果将在不久后显现。 由于与伊朗的谈判停滞，美国总统特朗普1",
+     "source": "东方财富股票",
+     "zh": "伊朗：美国对伊制裁已有47年 将继续“在美国眼皮底下”同其他国家合作"
+    },
     {
      "title": "Gilead’s Revenue Is Accelerating, But are its Acquisitions Worth the Cost?",
      "link": "https://finance.yahoo.com/healthcare/articles/gilead-revenue-accelerating-acquisitions-worth-195747159.html",
@@ -2282,52 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?"
     },
     {
-     "title": "俄国防部：击落269架乌克兰无人机",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850445246.html",
-     "pubDate": "Mon, 24 Aug 2026 03:24:09 +0800",
-     "summary": "俄罗斯国防部23日晚发布通报说，莫斯科时间当天8时至20时，俄防空部队在阿尔汉格尔斯克州、别尔哥罗德州、布良斯克州以及莫斯科地区等俄多地拦截并击落269架乌克兰 无人机 。 此前一天，俄罗斯总统普京在一段视频采访中表示，乌克兰武装部队在过去40天里持续使用导弹和 无人机 对俄民用和 物流 设施发动攻击，这是乌方及其背后西方支持者的“又一场冒险”，目标是让俄方遭遇战略性失败。普京说，俄军不仅继续在各个方向发动进攻，而且还加强攻势，有信心完成特别军事行动目标。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "俄国防部：击落269架乌克兰无人机"
-    },
-    {
-     "title": "市场潜力大出海空间广 生物医药价值重估在路上",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850442972.html",
-     "pubDate": "Mon, 24 Aug 2026 03:21:14 +0800",
-     "summary": "“三五年内，沪市生物医药行业的估值还有提升空间。”在近日举行的一场沪市生物医药行业沙龙中，富国基金权益研究部行业研究员杨波说。 近两个月来，医药股迎来一波行情。以全指医药（000991）为例，该指数自6月22日以来累计涨幅达15.64%。 创新药 当前估值是否充分反映未来三五年预期？杨波认为答案是否定的。在杨波看来，国内市场潜力巨大，未来不排除大单品涌现；出海方面，市场也显著低估了BD（商务拓展）带来的确定性现金流。 创新药 价值尚未充分释放 今年上半年，生物医药板块整体估值处于相对低位，市场情绪偏谨慎。 华海药业 副总裁祝永华表示，随着国内药企源头创新能力持续提升、全球商业化体系不断完善、产",
-     "source": "东方财富股票",
-     "zh": "市场潜力大出海空间广 生物医药价值重估在路上"
-    },
-    {
-     "title": "人工智能开源社区Hugging Face据称目前正收到多份并购提议 潜在交易价值达到130亿美元",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850445195.html",
-     "pubDate": "Mon, 24 Aug 2026 03:11:22 +0800",
-     "summary": "人工智能 开源社区Hugging Face据称目前正收到多份并购提议，潜在交易价值达到130亿美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "人工智能开源社区Hugging Face据称目前正收到多份并购提议 潜在交易价值达到130亿美元"
-    },
-    {
-     "title": "几内亚首都一垃圾填埋场垮塌造成至少30人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850445069.html",
-     "pubDate": "Mon, 24 Aug 2026 03:05:14 +0800",
-     "summary": "几内亚政府当地时间23日发布通报说，该国首都科纳克里郊区一处垃圾填埋场当天发生垮塌事故，已造成30人死亡、22人受伤，其中6人重伤。 据悉，事故发生在23日凌晨3时左右。事故发生前，科纳克里地区遭遇强降雨。或受此影响，该垃圾填埋场发生垮塌，掩埋了附近部分区域人员，并造成财产损失。 目前，搜救和清理工作仍在进行。几内亚总理阿马杜·乌里·巴已前往事故现场指导救援工作。 据当地媒体报道，几内亚有关部门原计划于23日关闭该垃圾填埋场，而垮塌事故恰于当天发生。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "几内亚首都一垃圾填埋场垮塌造成至少30人死亡"
-    },
-    {
      "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
      "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
      "pubDate": "Sun, 23 Aug 2026 19:00:00 GMT",
      "summary": "“I’m curious whether there’s a downside.”",
      "source": "MarketWatch",
      "zh": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?"
-    },
-    {
-     "title": "法国电力公司（EDF）表示 圣阿尔班2号机组输出功率从1335兆瓦降至150兆瓦",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850444928.html",
-     "pubDate": "Mon, 24 Aug 2026 02:55:17 +0800",
-     "summary": "法国 电力 公司（EDF）表示，圣阿尔班2号机组输出功率从1335兆瓦降至150兆瓦。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "法国电力公司（EDF）表示 圣阿尔班2号机组输出功率从1335兆瓦降至150兆瓦"
     },
     {
      "title": "SA Asks: Will Bessent's recent moves to curb bond yields boost the stock market?",
@@ -2344,14 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "'Spider-Man: Brand New Day' continues to dominate box office"
-    },
-    {
-     "title": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850444882.html",
-     "pubDate": "Mon, 24 Aug 2026 02:35:02 +0800",
-     "summary": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "日本据悉拟以1.25亿美元公私合作基金支持核聚变与回收初创企业"
     },
     {
      "title": "Hedge funds and mutual funds split on the AI trade - Goldman",

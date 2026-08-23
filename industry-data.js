@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 22:25:39",
+ "generated_at": "2026/8/23 22:52:41",
  "recent_days": 7,
  "industries": [
   {
@@ -34,14 +34,6 @@ window.INDUSTRY_DATA = {
      "zh": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长"
     },
     {
-     "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
-     "link": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
-     "pubDate": "Sun, 23 Aug 2026 10:44:59 +0000",
-     "summary": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU appeared first on MarkTechPost .",
-     "source": "MarkTechPost",
-     "zh": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU"
-    },
-    {
      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
      "link": "https://www.qbitai.com/2026/08/478191.html",
      "pubDate": "Sun, 23 Aug 2026 09:56:12 +0000",
@@ -66,14 +58,6 @@ window.INDUSTRY_DATA = {
      "zh": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起"
     },
     {
-     "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
-     "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
-     "pubDate": "Sun, 23 Aug 2026 07:51:22 +0000",
-     "summary": "Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG workflows. The post B",
-     "source": "MarkTechPost",
-     "zh": "Building an End-to-End Document Intelligence Pipeline with deepDoctection"
-    },
-    {
      "title": "影视飓风Tim看呆！鸡排哥2小时做出八大菜系，AI首次长出「大厨大脑」",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652719752&idx=1&sn=44657ada08096ab4c58495a046f7fd9a",
      "pubDate": "Sun, 23 Aug 2026 15:38:00 +0800",
@@ -88,22 +72,6 @@ window.INDUSTRY_DATA = {
      "summary": "三大奇点：软件奇点、经济奇点、科斯奇点。",
      "source": "新智元",
      "zh": "Anthropic：AI没有导致失业率的增加"
-    },
-    {
-     "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
-     "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
-     "pubDate": "Sun, 23 Aug 2026 07:37:14 +0000",
-     "summary": "Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks. The post Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks appeared first on MarkTechPost .",
-     "source": "MarkTechPost",
-     "zh": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks"
-    },
-    {
-     "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
-     "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
-     "pubDate": "Sat, 22 Aug 2026 23:49:38 +0000",
-     "summary": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output masking, and policy-based ",
-     "source": "MarkTechPost",
-     "zh": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety"
     },
     {
      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -136,14 +104,6 @@ window.INDUSTRY_DATA = {
      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
      "source": "TechCrunch AI",
      "zh": "Frontier AI labs still won’t say how they’d contain a rogue model"
-    },
-    {
-     "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
-     "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
-     "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
-     "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That result reframes the ",
-     "source": "MarkTechPost",
-     "zh": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
     },
     {
      "title": "AI4S八年积累迎来新节点，北京再落一子，抢跑科研范式变革下半场",
@@ -194,14 +154,6 @@ window.INDUSTRY_DATA = {
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
-     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
-     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
-     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
-     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
-     "source": "MarkTechPost",
-     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
-    },
-    {
      "title": "Anthropic’s Opus 4.6 is a smut-machine",
      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
@@ -248,6 +200,54 @@ window.INDUSTRY_DATA = {
      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
      "source": "DeepMind",
      "zh": "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+    },
+    {
+     "title": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验",
+     "link": "https://zhidx.com/p/586881.html",
+     "pubDate": "Fri, 21 Aug 2026 19:19:04 +0800",
+     "summary": "当AI接管代码和影像后，社媒上一度流行“一句话跑出游戏”的各种DEMO演示。 可直到今天，完全用AI打造的现象级游戏， 几乎无处寻觅 。为什么？在Coding Agent和视频模型高速发展的今天，AI原生游戏的困难到底在哪里？ 与此同时，一个4个月前，才 全面 转入AI游戏赛道的团队，上线了当下定位于“AI精品游戏”的平台Elseland。 平台上已经上线了大量来自创作者和工作室的游戏。其中，更具代表性的，则是Elseland团队基于自研游戏开发工具，打造的数十款“原创游戏”。CEO刘耕提到，他们已经能把数百关体量精品游戏的生产时间，从一年降到一星期左右。成本的百倍下降，是支撑 快速创新与验证",
+     "source": "智东西",
+     "zh": "AI真的可以“工业化”产出精品游戏了么？一个AI原生游戏团队的创新实验"
+    },
+    {
+     "title": "How mobility gives language models a deeper understanding of place",
+     "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+     "pubDate": "Fri, 21 Aug 2026 10:54:00 +0000",
+     "summary": "Algorithms & Theory",
+     "source": "Google Research",
+     "zh": "How mobility gives language models a deeper understanding of place"
+    },
+    {
+     "title": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆",
+     "link": "https://zhidx.com/p/587166.html",
+     "pubDate": "Fri, 21 Aug 2026 18:17:43 +0800",
+     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西8月21日报道，刚刚，雷鸟iO AI眼镜发布。这款产品 重34克 ，日常续航可达两天。眼镜搭载 DeepSeek和千问大模型 ，其“AI全天智记”功能支持 连续记录18小时 。 设计方面，雷鸟iO采用皇冠框型设计，前框使用镁铝合金，镜腿采用双层钛合金结构，提供 “极夜”和“沙丘”两款配色 。 显示方面，雷鸟iO采用单绿色显示，搭载自研 蓝湖光波导和萤火光引擎Nano 。蓝湖光波导显示区域透过率为93%，非显示区域透过率超过98%，萤火光引擎Nano体积仅0.085cc，可实现等效33英寸显示及1800尼特入眼亮度。 AI方面，雷鸟iO围绕 知识",
+     "source": "智东西",
+     "zh": "国补后1996元起！雷鸟新款AI眼镜仅34克，支持两天续航、全天候记忆"
+    },
+    {
+     "title": "DeepSeek多模态模型终于来了！一张图最高只要0.001元",
+     "link": "https://zhidx.com/p/587260.html",
+     "pubDate": "Fri, 21 Aug 2026 18:03:28 +0800",
+     "summary": "智东西 作者 | 陈骏达 编辑 | 李水青 智东西8月21日报道，就在刚刚，DeepSeek宣布全新的多模态视觉理解模型DeepSeek-V4-Flash-Vision-Exp（实验性质模型）上线DeepSeek API 平台。 DeepSeek同步公布了这一模型的详细基准测试结果。根据模型名字推测，DeepSeek-V4-Flash-Vision-Exp是在DeepSeek-V4-Flash基础上打造的，基准测试中其 纯文本能力（Agent、推理、世界知识等）与DeepSeek-V4-Flash正式版持平 。 在需要视觉理解的Agent Benchmark上，DeepSeek-V4-Flas",
+     "source": "智东西",
+     "zh": "DeepSeek多模态模型终于来了！一张图最高只要0.001元"
+    },
+    {
+     "title": "全SOTA！不止纯文本，阿里多模态站上全球第一梯队",
+     "link": "https://zhidx.com/p/587115.html",
+     "pubDate": "Fri, 21 Aug 2026 17:05:57 +0800",
+     "summary": "智东西 作者 | 李水青 编辑 | 漠影 智东西8月21日报道，过去一个月，阿里巴巴模型发布全面提速， 大语言、图像、语音、视频、音乐五大类 模型密集完成重要版本迭代，性能均跻身国际第一梯队。 有业内人士评价， 多模态 是 下一代智能的范式 。阿里在多模态上的布局节奏，远比市场感知的要快。 模型密集迭代的另一面，是模型能力开始 与云基础设施的增长形成更紧密的联动。 2027财年第一季度（对应2026年4月1日-6月30日），阿里云外部商业化收入增速提升至 45% ，创下22个季度新高。AI云及算力服务收入 484.37亿元 ，经调整EBITA达到 56.28亿元 ，同比暴增 133% 。AI相",
+     "source": "智东西",
+     "zh": "全SOTA！不止纯文本，阿里多模态站上全球第一梯队"
+    },
+    {
+     "title": "月泉仿生发布仿生拉压体灵巧手，满足多场景精细操控",
+     "link": "https://zhidx.com/p/587233.html",
+     "pubDate": "Fri, 21 Aug 2026 16:32:19 +0800",
+     "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西8月21日报道，8月20日，2026世界机器人大会平行活动“仿生赋能·智创未来——仿生具身智能机器人技术突破与产业生态共建”举办。本次活动在长春市委、市政府支持下举办，由国际仿生工程学会、长春市贸促会、长春市工信局、吉林省仿生机器人制造业创新中心主办，长春国际商会、月泉仿生、吉林省仿生机器人创新中心承办，海内外院士专家、产业链企业及创投机构代表300余人参会。 会上，月泉仿生和吉林省仿生机器人创新中心联合带来了多项科创成果集中首发。英国曼彻斯特大学终身教授、月泉仿生创始人、吉林省仿生机器人创新中心执行委员会主任任雷教授现场宣讲仿生拉压体机器人理",
+     "source": "智东西",
+     "zh": "月泉仿生发布仿生拉压体灵巧手，满足多场景精细操控"
     }
    ]
   },
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+     "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+     "pubDate": "Sun, 23 Aug 2026 10:23:46 -0400",
+     "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
+     "source": "BleepingComputer",
+     "zh": "ToxicPanda Android malware uses VPN permissions to block Google Play"
+    },
+    {
      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
      "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
      "pubDate": "Sat, 22 Aug 2026 20:02:41 +0530",
@@ -1674,14 +1682,6 @@ window.INDUSTRY_DATA = {
      "zh": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets"
     },
     {
-     "title": "Is Online Privacy Possible? How Digital Identities Can Help",
-     "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-     "pubDate": "Fri, 21 Aug 2026 10:00:10 -0400",
-     "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
-     "source": "BleepingComputer",
-     "zh": "Is Online Privacy Possible? How Digital Identities Can Help"
-    },
-    {
      "title": "Calling on Cyber Pros to Help Defend City Hall",
      "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
      "pubDate": "Fri, 21 Aug 2026 14:00:00 GMT",
@@ -1746,6 +1746,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID (Mark Gurman/Bloomberg)",
+     "link": "https://www.techmeme.com/260823/p6#a260823p6",
+     "pubDate": "Sun, 23 Aug 2026 10:45:22 -0400",
+     "summary": "Mark Gurman / Bloomberg : Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID &nbsp; &mdash;&nbsp; Also: Get ready for iPhone price hikes.&nbsp; &mdash;&nbsp; Apple is about to bring some of it",
+     "source": "Techmeme",
+     "zh": "Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID (Mark Gurman/Bloomberg)"
+    },
+    {
+     "title": "2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军",
+     "link": "https://www.ithome.com/0/993/310.htm",
+     "pubDate": "Sun, 23 Aug 2026 14:38:51 GMT",
+     "summary": "IT之家 8 月 23 日消息，据央视新闻报道，第二届世界人形机器人运动会昨天（8 月 22 日）在国家速滑馆开幕。今天（8 月 23 日），1500 米决赛鸣枪开跑，共 34 支队伍参赛。 “天卓队”以 2 分 21 秒 63 夺冠，大幅超过人类男子 1500 米 3 分 26 秒 00 的世界纪录。“飞雷神”以 2 分 30 秒 00 冲线摘银，“风火闪电队”仅慢 0.222 秒，以 2 分 30 秒 22 拿下铜牌。 作为对比，去年首届机器人运动会，宇树 H1 机器人 1500 米的夺冠成绩为 6 分 34 秒 40。 据悉，天卓队使用的人形机器人为天工 Ultra，由北京人形机器人创新",
+     "source": "IT之家",
+     "zh": "2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军"
+    },
+    {
+     "title": "加州伯克利数学教授撰文批评学生基础差，却被抓包“用 AI 写的”",
+     "link": "https://www.ithome.com/0/993/309.htm",
+     "pubDate": "Sun, 23 Aug 2026 14:33:38 GMT",
+     "summary": "IT之家 8 月 23 日消息，据英国《卫报》20 日报道，加州大学伯克利分校数学教授兹韦兹德利娜 · 斯坦科娃日前在《旧金山标准报》撰文批评部分学生存在“严重”的数学基础缺失，却又承认文章本身曾借助 AI 编辑，由此引发争议。 《旧金山标准报》上周刊登了斯坦科娃一篇约 2000 词的评论文章。她指出，自己教授的一些数学课学生水平 落后“五到八年” ，连分数和基础代数等初中阶段知识都没有掌握。 斯坦科娃将问题归咎于加州大学不参考标准化考试成绩的招生政策，认为 SAT 这类长期沿用的衡量标准取消后，一些尚未做好准备应对课程难度的学生也被录取。 上周末，加州大学伯克利分校学生报《加州人日报》的记者",
+     "source": "IT之家",
+     "zh": "加州伯克利数学教授撰文批评学生基础差，却被抓包“用 AI 写的”"
+    },
+    {
+     "title": "国补后立减 5000 元：华为 Mate X6 折叠屏手机京东 8999 元再降价",
+     "link": "https://www.ithome.com/0/993/308.htm",
+     "pubDate": "Sun, 23 Aug 2026 14:32:02 GMT",
+     "summary": "华为 Mate X6 折叠屏手机 2024 年 12 月开售，12+512G 上市价 13999 元。 今日京东直降至 9999 元，叠加国补 500~1000 元，实付仅需 8999 元起 +12 期免息： 京东 HUAWEI Mate X6 12GB+512GB 8999~9499 元 直达链接 设计方面，Mate X6 传承 Mate X 系列的经典寰宇家族化设计语言，采用“寰宇星轨”设计，外圈金属侧立面以立体钻切工艺打磨出切面。 ▲ 图源IT之家实拍：华为 Mate X6 「寰宇红」（下同） 提供两种机身材质，拥有星云灰、星云白、寰宇红、深海蓝、曜石黑五款配色。 屏幕方面，该机外屏尺寸",
+     "source": "IT之家",
+     "zh": "国补后立减 5000 元：华为 Mate X6 折叠屏手机京东 8999 元再降价"
+    },
+    {
+     "title": "宫崎英高确认《黄昏血族》游戏将包含匹配机制，保护新手免受高手虐菜",
+     "link": "https://www.ithome.com/0/993/307.htm",
+     "pubDate": "Sun, 23 Aug 2026 14:27:56 GMT",
+     "summary": "IT之家 8 月 23 日消息，FromSoftware 社长、《黄昏血族》（The Duskbloods）游戏总监接受 IGN 采访时确认，本作将采用基于玩家技术水平的匹配机制（SBMM），避免新手玩家遇到高手虐菜。 宫崎英高表示：“我们确实计划让匹配系统采用排名机制，高水平的玩家将会和其他高手匹配，新玩家则会与其他新手一起玩，可以避免实力悬殊的情况发生。” 他指出，即使玩家无法在对局中坚持到最后，也可以通过游戏来解锁故事内容和角色自定义内容。这意味着玩家即使在战斗中表现不佳，也能够通过探索游戏的其他内容获得回报。 不过宫崎英高特别强调， 上述机制可能不会在游戏上线初期就全部推出 ， 而是可",
+     "source": "IT之家",
+     "zh": "宫崎英高确认《黄昏血族》游戏将包含匹配机制，保护新手免受高手虐菜"
+    },
+    {
      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
      "link": "https://www.ithome.com/0/993/305.htm",
      "pubDate": "Sun, 23 Aug 2026 14:13:31 GMT",
@@ -1762,6 +1802,14 @@ window.INDUSTRY_DATA = {
      "zh": "这辈子没碰到的心机，全™在商标上了"
     },
     {
+     "title": "柳树和杨树释放出的化合物会恶化城市空气质量",
+     "link": "https://www.solidot.org/story?sid=85167",
+     "pubDate": "Sun, 23 Aug 2026 22:07:42 +0800",
+     "summary": "数百万棵垂柳和白杨树将北京装缀成一个绿色的大都市。然而根据《Science Advances》上发表的一项研究，柳树和杨树释放出的化合物是城市空气污染的重要来源。广州暨南大学的研究人员最初想要了解人类活动对臭氧污染的影响，结果意外发现城市植被是臭氧的重要来源。植物会释放出挥发性有机化合物，作为植物光合作用的副产品，被广泛种植的柳树和杨树会释放出大量的异戊二烯。研究团队发现，北京 35% 的树木会释放异戊二烯。研究人员在北京各地采集空气样本，测量挥发性有机化合物浓度，在城市各监测站收集臭氧数据。研究发现，在 2021 年 5 月至 7 月期间，植物排放的化合物约占北京总排放量的 10%，其余来自",
+     "source": "Solidot",
+     "zh": "柳树和杨树释放出的化合物会恶化城市空气质量"
+    },
+    {
      "title": "三星 Galaxy S27 Ultra 手机后盖工程图流出，可能存在两个版本",
      "link": "https://www.ithome.com/0/993/303.htm",
      "pubDate": "Sun, 23 Aug 2026 14:07:20 GMT",
@@ -1770,44 +1818,20 @@ window.INDUSTRY_DATA = {
      "zh": "三星 Galaxy S27 Ultra 手机后盖工程图流出，可能存在两个版本"
     },
     {
-     "title": "DOTA2 TI 史上首支三冠队伍：Team Spirit 获得 2026 年国际邀请赛冠军",
-     "link": "https://www.ithome.com/0/993/302.htm",
-     "pubDate": "Sun, 23 Aug 2026 13:58:38 GMT",
-     "summary": "IT之家 8 月 23 日消息，TI2026 主赛事总决赛，Team Spirit 在第五局中取胜，总比分 3-2 战胜 TEAM VISION，获得 2026 年国际邀请赛冠军！ 这是 Team Spirit 第三次获得国际邀请赛冠军， 他们也成为唯一一支三次举起冠军之神盾的队伍 。 IT之家注：他们在 TI10（2021 年）、TI12（2023 年）夺冠后，今日在 TI15（2026 年）总决赛中夺得第三座冠军神盾。Yatoro 与 Collapse 也成为目前唯二的 TI 三冠选手。",
-     "source": "IT之家",
-     "zh": "DOTA2 TI 史上首支三冠队伍：Team Spirit 获得 2026 年国际邀请赛冠军"
-    },
-    {
-     "title": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度",
-     "link": "https://www.ithome.com/0/993/301.htm",
-     "pubDate": "Sun, 23 Aug 2026 13:53:40 GMT",
-     "summary": "IT之家 8 月 23 日消息，OpenAI 本周推出了 ChatGPT 青少年版，专门面向年轻用户，并通过年龄识别机制限制部分功能。 对此，外媒 Engadget 采访了多名儿童安全专家，他们对 ChatGPT 青少年版的评价并不一致。但所有人都认为，在向家长和年轻人推荐之前，这套系统还需要 接受大量独立测试 ，OpenAI 必须更加透明地说明安全机制究竟如何运作。 为家庭提供娱乐和科技产品建议的 Common Sense Media 公司 AI 与数字评估负责人罗比 · 托尼认为：“OpenAI 这次做出了一些非常重要的承诺， 但必须拿出证据， 证明这些安全承诺和功能真的有效。” 儿童网络",
-     "source": "IT之家",
-     "zh": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度"
+     "title": "Death to px, long live ch",
+     "link": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+     "pubDate": "Sun, 23 Aug 2026 13:56:27 +0000",
+     "summary": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 17 # Comments: 7",
+     "source": "Hacker News",
+     "zh": "Death to px, long live ch"
     },
     {
      "title": "My favorite nonfiction books about cults, scams, and schemes",
      "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
      "pubDate": "Sun, 23 Aug 2026 13:51:10 +0000",
-     "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 26 # Comments: 2",
      "source": "Hacker News",
      "zh": "My favorite nonfiction books about cults, scams, and schemes"
-    },
-    {
-     "title": "三星 Galaxy Store 应用商店付款功能将停止支持安卓 4.x 系统",
-     "link": "https://www.ithome.com/0/993/299.htm",
-     "pubDate": "Sun, 23 Aug 2026 13:44:57 GMT",
-     "summary": "IT之家 8 月 23 日消息，据科技媒体 SammyGuru 今天报道，三星近日宣布，Galaxy Store 应用商店的付款系统将从 8 月 25 日起， 不再支持安卓 4.x 或更旧版本的操作系统 。 IT之家从原报道了解到，8 月 25 日之后，使用安卓 4.x 或更旧系统的用户将无法通过 Samsung Checkout 付款系统，购买应用商店付费内容，也无法进行应用内购买。 三星建议用户在 8 月 25 日前将设备升级至 Android 5 或更高版本操作系统 ，以便继续使用自家应用商店的付款系统。 对于大多数 Galaxy 用户来说，这项变化应该不会有太大影响，毕竟 Androi",
-     "source": "IT之家",
-     "zh": "三星 Galaxy Store 应用商店付款功能将停止支持安卓 4.x 系统"
-    },
-    {
-     "title": "杜撰某互联网企业“上市失败”，自媒体博主拼凑信息博眼球被行政拘留",
-     "link": "https://www.ithome.com/0/993/298.htm",
-     "pubDate": "Sun, 23 Aug 2026 13:44:03 GMT",
-     "summary": "IT之家 8 月 23 日消息，据法治天地今日报道，今年 7 月 8 日，某互联网企业向上海黄浦警方报案，称某自媒体账号发布内容为“知名企业上市失败”的不实贴文，对公司声誉造成负面影响。 黄浦公安分局网安部门接报后迅速开展调查，锁定了该账号运营者莫某。经查，莫某在某证券投资平台运营一个投资类账号，他在网上看到相关公司诉讼纠纷的信息后，在并未核实真伪的情况下，抱着博眼球、吸引流量的心态，杜撰了“企业上市失败”的虚假内容并发布在平台上。 IT之家从报道获悉，由于莫某的账号名称带有“某某投资”等字样，看起来颇具“官方感”，贴文发布后迅速被多名网络大 V 和自媒体博主截图引用转发。许多不明真相的网友信",
-     "source": "IT之家",
-     "zh": "杜撰某互联网企业“上市失败”，自媒体博主拼凑信息博眼球被行政拘留"
     },
     {
      "title": "终于要对日本下狠手了",
@@ -1829,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Malware infects Android-based automotive head unit firmware",
      "link": "https://securelist.com/android-head-unit-malware/121106/",
      "pubDate": "Sun, 23 Aug 2026 13:05:38 +0000",
-     "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 66 # Comments: 18",
+     "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 77 # Comments: 29",
      "source": "Hacker News",
      "zh": "Malware infects Android-based automotive head unit firmware"
     },
@@ -1872,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：王秀清 谷子餐厅扎堆开店，但和传统餐饮完全不是一套逻辑。 一家主题餐厅从开业到闭店，竟然只用了43天？ 这是GOODSLOVE在成都、广州两地为《甄嬛传》主题餐厅设定的营业时长。6月19日开业，7月31日收官，掐头去尾刚好覆盖暑期档最热的一个多月。 一家餐厅只卖43天，听起来不太常规，但在IP主题餐厅的赛道上，这算是一种计划内的周期。据行业观察，仅2026年7月，全国新开的二次元主题快闪餐饮店就有近20家，生命周期都以“天”来计算。 这些店还有另一个名字：谷子餐厅。“谷子”是英文Goods的音译，在二次元圈层里特指IP周边商品——徽章、立",
      "source": "虎嗅",
      "zh": "“又贵又难吃”的歹毒漂亮饭，年轻人为什么抢着买单？"
-    },
-    {
-     "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
-     "link": "https://twitter.com/AndrewYNg/status/2090840747738374568",
-     "pubDate": "Sun, 23 Aug 2026 11:28:08 +0000",
-     "summary": "Article URL: https://twitter.com/AndrewYNg/status/2090840747738374568 Comments URL: https://news.ycombinator.com/item?id=49407944 Points: 8 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\""
     },
     {
      "title": "波兰加密货币交易所 CEO 在 2022 年失踪，4 年后他的继任者也失踪了",
@@ -1925,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
      "link": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
      "pubDate": "Sun, 23 Aug 2026 10:14:48 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 74 # Comments: 42",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 81 # Comments: 50",
      "source": "Hacker News",
      "zh": "Sydney Marathon medal mistakenly depicts Munich stadium"
     },
@@ -1933,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Iranian hackers shut down UK power plant for 4 days",
      "link": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
      "pubDate": "Sun, 23 Aug 2026 10:03:01 +0000",
-     "summary": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 40 # Comments: 16",
+     "summary": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 50 # Comments: 27",
      "source": "Hacker News",
      "zh": "Iranian hackers shut down UK power plant for 4 days"
     },
@@ -1941,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
      "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
      "pubDate": "Sun, 23 Aug 2026 10:02:51 +0000",
-     "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 118 # Comments: 60",
+     "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 144 # Comments: 72",
      "source": "Hacker News",
      "zh": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes"
     },
@@ -1968,22 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "在固定收益类中，宁银理财有限责任公司、中邮理财有限责任公司和平安理财有限责任公司脱颖而出，成为五星理财子公司。它们的各星级产品数量展示了市场的竞争力与多样性。",
      "source": "钛媒体",
      "zh": "银行理财五星管理人评级报告 （2026年7月）"
-    },
-    {
-     "title": "在试错中求索：一套本土行业分类的突围之路",
-     "link": "https://www.tmtpost.com/8113337.html",
-     "pubDate": "Sun, 23 Aug 2026 16:14:41 +0800",
-     "summary": "面对本土市场提出的全新命题，没有现成标准答案，不奉行拿来主义，也不幻想一步建成完美制度。",
-     "source": "钛媒体",
-     "zh": "在试错中求索：一套本土行业分类的突围之路"
-    },
-    {
-     "title": "价值判断：跌停板的投资机会和风险提示（8月21日）｜上市公司观察",
-     "link": "https://www.tmtpost.com/8113335.html",
-     "pubDate": "Sun, 23 Aug 2026 16:14:29 +0800",
-     "summary": "板块层面，贵金属、能源金属、算力硬件链领涨；医药生物全线重挫，农林牧渔、农产品加工跌幅靠前。高位人气股集中补跌，一鸣食品、红四方、京粮控股等前期爆炒股封死跌停，题材炒作情绪退潮特征明显。",
-     "source": "钛媒体",
-     "zh": "价值判断：跌停板的投资机会和风险提示（8月21日）｜上市公司观察"
     }
    ]
   },
@@ -1993,6 +1993,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Here’s what people who have used the iPhone Ultra like most",
+     "link": "https://9to5mac.com/2026/08/23/heres-what-people-who-have-used-the-iphone-ultra-like-most/",
+     "pubDate": "Sun, 23 Aug 2026 14:41:50 +0000",
+     "summary": "We’re just a few weeks away from the rumored launch of the foldable iPhone Ultra. As we’ve written before , excitement for the device is mounting. A new report from Bloomberg today outlines what people inside Apple who have used the iPhone Ultra love about it.",
+     "source": "9to5Mac",
+     "zh": "Here’s what people who have used the iPhone Ultra like most"
+    },
+    {
+     "title": "Apple Stores preparing ‘significant’ changes for new Home product launches: report",
+     "link": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/",
+     "pubDate": "Sun, 23 Aug 2026 14:33:51 +0000",
+     "summary": "According to Bloomberg’s Mark Gurman , Apple is preparing significant changes at its retail stores in preparation for upcoming Home product launches. At the very least, Apple should debut a refreshed HomePod mini and Apple TV 4K this fall, though the changes would suggest a third, more significant p",
+     "source": "9to5Mac",
+     "zh": "Apple Stores preparing ‘significant’ changes for new Home product launches: report"
+    },
+    {
+     "title": "Wi-Fi 6 vs Wi-Fi 7: What's the difference wnd which is better for home internet?",
+     "link": "https://www.engadget.com/2240148/wi-fi-6-vs-wi-fi-7-whats-the-difference-and-which-is-better-for-home-internet/",
+     "pubDate": "Sun, 23 Aug 2026 14:30:00 +0000",
+     "summary": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet?",
+     "source": "Engadget",
+     "zh": "Wi-Fi 6 vs Wi-Fi 7: What's the difference wnd which is better for home internet?"
+    },
     {
      "title": "The reasons Siri may not work on CarPlay",
      "link": "https://www.engadget.com/2240145/siri-with-carplay-reasons-not-work-fixes/",
@@ -2146,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "How to limit Instagram from using your data for AI and ads"
     },
     {
-     "title": "The oldest iPhone model you can trade-in with Apple is older than you'd think",
-     "link": "https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/",
-     "pubDate": "Sat, 22 Aug 2026 20:00:00 +0000",
-     "summary": "Even old Apple devices you haven't touched in years could still get you some credit towards a new phone.",
-     "source": "Engadget",
-     "zh": "The oldest iPhone model you can trade-in with Apple is older than you'd think"
-    },
-    {
      "title": "Indie App Spotlight: ‘CloudGear’ brings all cloud gaming platforms into one tvOS app",
      "link": "https://9to5mac.com/2026/08/22/indie-app-spotlight-cloudgear-brings-all-cloud-gaming-platforms-into-one-tvos-app/",
      "pubDate": "Sat, 22 Aug 2026 19:30:00 +0000",
@@ -2194,22 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "What is the ‘Android Pulse’ app that just appeared in Google Play Store updates?"
     },
     {
-     "title": "Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it",
-     "link": "https://9to5mac.com/2026/08/22/apple-work-most-it-leaders-want-ai-to-manage-their-macs-but-few-are-ready-for-it/",
-     "pubDate": "Sat, 22 Aug 2026 13:30:00 +0000",
-     "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organ",
-     "source": "9to5Mac",
-     "zh": "Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it"
-    },
-    {
-     "title": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]",
-     "link": "https://9to5mac.com/2026/08/22/which-do-you-plan-to-buy-iphone-18-pro-or-foldable-iphone-ultra-poll/",
-     "pubDate": "Sat, 22 Aug 2026 13:00:00 +0000",
-     "summary": "Apple’s fall iPhone event is expected to look different this year. Rather than unveiling four closely related models, rumors point to a flagship-only September lineup consisting of three premium models: iPhone 18 Pro, iPhone 18 Pro Max, and Apple’s first foldable, widely expected to be called iPhone",
-     "source": "9to5Mac",
-     "zh": "Which do you plan to buy: iPhone 18 Pro or foldable iPhone Ultra? [Poll]"
-    },
-    {
      "title": "Please don’t buy Google’s wildly overpriced Pixel 11 Clear Case",
      "link": "https://9to5google.com/2026/08/22/please-dont-buy-googles-wildly-overpriced-pixel-11-clear-case/",
      "pubDate": "Sat, 22 Aug 2026 13:00:00 +0000",
@@ -2241,6 +2241,62 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "突尼斯海岸警卫队称已找到8具沉船事故遇难者遗体",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850403491.html",
+     "pubDate": "Sun, 23 Aug 2026 22:40:24 +0800",
+     "summary": "当地时间8月23日，突尼斯海岸警卫队宣布已找到8具沉船事故的遇难者遗体，搜寻其他失踪人员的工作仍在继续。 22日，突尼斯人权观察组织负责人穆斯塔法·阿卜杜勒·卡比尔表示，一艘载有非法移民的船只在试图前往意大利途中于突尼斯海岸附近沉没，船上至少有13名突尼斯人失踪。另据突尼斯非洲通讯社22日晚间消息，沉船事故发生时，该艘船只载有15名非法移民。 突尼斯位于非洲大陆北端，与意大利等欧洲国家隔地中海相望。近年来，经由突尼斯偷渡到意大利的事件频繁发生。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "突尼斯海岸警卫队称已找到8具沉船事故遇难者遗体"
+    },
+    {
+     "title": "广西南宁市郁江防洪四级应急响应提升为三级应急响应",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850403393.html",
+     "pubDate": "Sun, 23 Aug 2026 22:31:33 +0800",
+     "summary": "8月23日，记者从广西南宁市应急管理委员会了解到，8月23日20时，邕江南宁水文站水位已达71.41米，预计8月24日上午郁江南宁城区河段将出现超警戒水位（73.0米）的洪水。 按照《南宁市郁江防洪应急预案》规定，经南宁市应急管理委员会领导批准，决定于8月23日20时将南宁市郁江防洪四级应急响应提升为三级应急响应。请各县（市、区）、开发区和相关成员单位按照预案的有关规定和职责分工，做好江河洪水防御工作，确保人民群众生命财产安全。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "广西南宁市郁江防洪四级应急响应提升为三级应急响应"
+    },
+    {
+     "title": "中原传媒营收净利双降 现金流恶化 研发投入接近“腰斩”！四大主业罕见全线下滑",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850403288.html",
+     "pubDate": "Sun, 23 Aug 2026 22:28:01 +0800",
+     "summary": "“行业普遍承压、学生自然减少、政策收紧加剧、技术变革冲击”，在 中原传媒 2026年半年报中，管理层用这样一组词汇概括了公司面临的经营环境。 8月23日， 中原传媒 （000719)交出了一份并不乐观的成绩单：2026年上半年，公司实现营业收入42.16亿元，同比下降7.83%；归母净利润为5.06亿元，同比下降4.92%；扣非归母净利润为5.05亿元，同比下降4.44%；经营现金流净额为8.74亿元，同比下降27.52%。 中原传媒 主要从事 出版 物的编辑、生产和市场销售，业务涵盖内容生产、产品销售、 出版 物 印刷 及 印刷 物资供应、数字 教育 及服务、文化产品贸易等领域。 中原 传媒",
+     "source": "东方财富股票",
+     "zh": "中原传媒营收净利双降 现金流恶化 研发投入接近“腰斩”！四大主业罕见全线下滑"
+    },
+    {
+     "title": "二季度净利环比增1396% 韶能股份上半年业绩报喜 拟发债15亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850402649.html",
+     "pubDate": "Sun, 23 Aug 2026 22:26:50 +0800",
+     "summary": "8月23日， 韶能股份 （000601.SZ，股价6.2元，市值65.97亿元）披露2026年半年度报告。报告期内，公司实现营业收入25.16亿元，同比增长7.75%；归母净利润为1.68亿元，同比增长75.64%；扣非后净利润1.48亿元，同比大增174.75%。 公司此前于6月30日发布半年度业绩预告，预计上半年归母净利润为1.55亿元~1.95亿元，本次业绩最终落在预计区间中部偏下。 上半年来水量同比增长，水电业务营收增长 韶能股份 主营业务涵盖清洁可再生能源（ 新能源 ）、生态植物纤维制品、精密（智能）制造三大板块。 2026年上半年，公司 电力 业务实现营业收入11.59亿元，同比增",
+     "source": "东方财富股票",
+     "zh": "二季度净利环比增1396% 韶能股份上半年业绩报喜 拟发债15亿元"
+    },
+    {
+     "title": "佳缘科技，因财务造假将被ST",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850403089.html",
+     "pubDate": "Sun, 23 Aug 2026 22:23:46 +0800",
+     "summary": "8月23日， 佳缘科技 （301117）公告称，公司收到中国证监会《行政处罚事先告知书》。经查，公司2019年至2022年存在信息披露违法违规行为，涉及提前确认收入、无商业实质交易虚增收入，导致相关年度营收、利润总额存在虚增虚减，《招股说明书》及2021、2022年年报存在虚假记载。 证监会拟对公司责令改正、警告并处600万元罚款，对公司董事长王进、副总经理朱伟华、财务总监柳絮、公司实控人之一尹明君分别警告并处300万元、200万元、200万元、150万元罚款。公司判断该事项触及其他风险警示情形，未触及重大违法强制退市情形，最终处罚结果以正式决定为准。 经查明， 佳缘科技 自2019年起与某客",
+     "source": "东方财富股票",
+     "zh": "佳缘科技，因财务造假将被ST"
+    },
+    {
+     "title": "湾财周报 | 人物 许家印被判处无期徒刑；宇树上市后王兴兴首发声；北交所总经理变更",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850402411.html",
+     "pubDate": "Sun, 23 Aug 2026 22:22:53 +0800",
+     "summary": "一周人物（2026年8月17日-23日） 头条 许家印被判处无期徒刑 恒大集团、恒大地产等案一审宣判 2026年8月20日上午，广东省深圳市中级人民法院对被告单位恒大集团有限公司（以下简称恒大集团）、被告单位恒大地产集团有限公司（以下简称恒大地产）、被告人许家印案进行一审公开宣判。对恒大集团数罪并罚，判处罚金人民币88.2亿元；对恒大地产判处罚金人民币70亿元；对许家印数罪并罚，判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产；对违法所得继续追缴，不足部分责令退赔。 关注 李书福交棒！ 30年“老将”安聪慧，接任 吉利汽车 董事会主席 吉利汽车 控股有限公司（0175.HK，以下简称“ 吉",
+     "source": "东方财富股票",
+     "zh": "湾财周报 | 人物 许家印被判处无期徒刑；宇树上市后王兴兴首发声；北交所总经理变更"
+    },
+    {
+     "title": "连开新店型，外资零售重温北京市场",
+     "link": "http://www.eeo.com.cn/2026/0823/1008971.shtml",
+     "pubDate": "Sun, 23 Aug 2026 22:13:28 +0800",
+     "summary": "在北京市场沉寂多年的外资零售正在重新加码。8月22日，老牌日本零售企业伊藤洋华堂旗下的华堂超市（以下简称“华堂”）在北京望京V-HUB开出新店，面积约1500平方米。从过去“超市+百货”的综合店模式，转向打造“日式社区食品超市”。 华堂并非个例。沃尔玛正在...",
+     "source": "经济观察网",
+     "zh": "连开新店型，外资零售重温北京市场"
+    },
     {
      "title": "钱大妈二度递表港交所，上半年溢利降至6805.1万元",
      "link": "http://www.eeo.com.cn/2026/0823/1008966.shtml",
@@ -2306,14 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
     },
     {
-     "title": "泰康30年司庆人事变阵：陈东升专注战略 刘挺军出任CEO",
-     "link": "http://www.eeo.com.cn/2026/0823/1008953.shtml",
-     "pubDate": "Sun, 23 Aug 2026 21:10:10 +0800",
-     "summary": "2026年8月22日，泰康保险集团股份有限公司（下称“泰康保险集团”）迎来成立30周年。在公司庆典当天，一则人事变动消息引起了市场关注——该公司创始人陈东升将不再兼任集团首席执行官、继续担任集团董事长，现任总裁兼首席运营官刘挺军出任首席执行官一职。",
-     "source": "经济观察网",
-     "zh": "泰康30年司庆人事变阵：陈东升专注战略 刘挺军出任CEO"
-    },
-    {
      "title": "Raytheon Navy air-to-air long-range missile undergoes testing",
      "link": "https://seekingalpha.com/news/4636056-raytheon-navy-air-to-air-long-range-missile-undergoes-testing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 23 Aug 2026 09:08:39 -0400",
@@ -2352,6 +2400,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Alibaba seeks more than $10B in share sale to expand AI"
+    },
+    {
+     "title": "8月23日晚间上市公司利好消息一览(附名单)",
+     "link": "http://finance.eastmoney.com/news/1353,202608233850367418.html",
+     "pubDate": "Sun, 23 Aug 2026 20:32:26 +0800",
+     "summary": "沪深两市多家上市公司8月23日晚间发布重要公告，以下为利好的消息汇总： 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，建设期一年",
+     "source": "东方财富资讯",
+     "zh": "8月23日晚间上市公司利好消息一览(附名单)"
     },
     {
      "title": "Trump June stock disclosure: more than 1,000 trades, big in the VIG",
@@ -2410,76 +2466,20 @@ window.INDUSTRY_DATA = {
      "zh": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement."
     },
     {
+     "title": "8月23日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202608233850358355.html",
+     "pubDate": "Sun, 23 Aug 2026 19:32:16 +0800",
+     "summary": "沪深两市多家上市公司8月23日晚间发布公司公告，以下为重要公告汇总。 【品大事】 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，",
+     "source": "东方财富资讯",
+     "zh": "8月23日晚间沪深上市公司重大事项公告最新快递"
+    },
+    {
      "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
      "link": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
      "pubDate": "Sun, 23 Aug 2026 11:29:05 GMT",
      "summary": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence.",
      "source": "CNBC",
      "zh": "Top Wall Street analysts believe in the growth potential of these 3 stocks"
-    },
-    {
-     "title": "Government can bring robotics to life",
-     "link": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
-     "pubDate": "Sun, 23 Aug 2026 11:15:07 GMT",
-     "summary": "Without policy, there are few incentives to automate business functions where labour costs are low",
-     "source": "Financial Times",
-     "zh": "Government can bring robotics to life"
-    },
-    {
-     "title": "Trump’s South Korea snub raises questions in the Asia-Pacific",
-     "link": "https://www.ft.com/content/22530c4a-65b7-49f7-890d-1c8900f63853?syn-25a6b1a6=1",
-     "pubDate": "Sun, 23 Aug 2026 11:00:07 GMT",
-     "summary": "Scaling back military exercises has undermined faith in America’s reliability",
-     "source": "Financial Times",
-     "zh": "Trump’s South Korea snub raises questions in the Asia-Pacific"
-    },
-    {
-     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 11:00:00 GMT",
-     "summary": "“The cost is absolutely ridiculous.”",
-     "source": "MarketWatch",
-     "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
-    },
-    {
-     "title": "英伟达财报“万众瞩目”：Rubin周期、循环融资与远期市场份额",
-     "link": "https://wallstreetcn.com/articles/3780083",
-     "pubDate": "Sun, 23 Aug 2026 18:56:46 +0800",
-     "summary": "英伟达下周将公布截至7月的季度财报。按照过往几个季度的节奏，市场对“业绩超预期、指引上调”已经并不陌生，真正决定股价弹性的是三个更长期的问题： Rubin能否顺利接棒Blackwell、AI需求是否仍显著大于供给，以及英伟达为锁定未来需求需要承担多大的融资和资产负债表责任。 从券商预期看，基本面仍然强劲。追风交易台消息，本周Jefferies发布前瞻报告，预计英伟达7月季度收入将达到950亿美元，高于市场一致预期的约919亿美元；10月季度收入指引有望达到1080亿美元，也高于市场预期的约1037亿美元。 摩根士丹利的报告则相对保守，预计7月季度收入约912亿美元、10月季度约1023亿美元，",
-     "source": "华尔街见闻",
-     "zh": "英伟达财报“万众瞩目”：Rubin周期、循环融资与远期市场份额"
-    },
-    {
-     "title": "免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？",
-     "link": "https://wallstreetcn.com/articles/3780081",
-     "pubDate": "Sun, 23 Aug 2026 16:40:11 +0800",
-     "summary": "一个没有署名的模型，正在让整个AI开发者社区陷入猜谜游戏。 一款名为Ox Alpha的匿名AI模型悄然出现在OpenRouter平台，免费开放、性能强劲，迅速在开发者圈引发热议。国内网友因“Ox”即“牛”，给它起了个接地气的外号—— “牛来”大模型。 免费+强大，开发者蜂拥而至 美东时间8月20日深夜（北京时间8月21日凌晨），Ox Alpha以“stealth model”（隐身模型）身份低调上架OpenRouter，提供方为匿名第三方。 配置相当豪华： 100万token上下文窗口、支持文本+图像+视频多模态输入、工具调用全支持、推理强制开启。价格更离谱——完全免费。 据彭博报道，Ox A",
-     "source": "华尔街见闻",
-     "zh": "免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？"
-    },
-    {
-     "title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment",
-     "link": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
-     "pubDate": "Sun, 23 Aug 2026 08:33:27 GMT",
-     "summary": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
-     "source": "Financial Times",
-     "zh": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment"
-    },
-    {
-     "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-     "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
-     "pubDate": "Sun, 23 Aug 2026 08:23:24 GMT",
-     "summary": "AI lab’s Fable 5 has met with sluggish demand from corporate clients",
-     "source": "Financial Times",
-     "zh": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive"
-    },
-    {
-     "title": "SemiAnalysis：闪存制造正“由钨转钼”",
-     "link": "https://wallstreetcn.com/articles/3780077",
-     "pubDate": "Sun, 23 Aug 2026 14:40:54 +0800",
-     "summary": "8月23日，半导体行业研究机构SemiAnalysis在X平台发布系列推文，阐述3D NAND闪存制造从钨（Tungsten，W）向钼（Molybdenum，Mo）转型的技术逻辑。 3D NAND大约十年前就停止了横向缩小，转而靠垂直堆叠层数来提升存储密度。但当层数突破约300层后，连接每个存储单元的钨字线（word lines）遭遇了物理瓶颈： 电阻过高、基于氟的化学工艺导致漏电，以及在超深孔中无法完成有效填充。 SemiAnalysis在推文表示： “钼不是一种优化，是300层以上NAND的必选项。” 与钨相比，钼具备三项关键优势：更低的电阻（带来更快的读写速度）、无需氟基化学工艺，以及在",
-     "source": "华尔街见闻",
-     "zh": "SemiAnalysis：闪存制造正“由钨转钼”"
     }
    ]
   },

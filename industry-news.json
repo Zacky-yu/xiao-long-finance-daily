@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/23 18:26:13",
+ "generated_at": "2026/8/23 18:52:51",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
+     "link": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
+     "pubDate": "Sun, 23 Aug 2026 10:44:59 +0000",
+     "summary": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU"
+    },
     {
      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
      "link": "https://www.qbitai.com/2026/08/478191.html",
@@ -207,14 +215,6 @@
      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
      "source": "TechCrunch AI",
      "zh": "Nvidia partners with data center developer Cloverleaf"
-    },
-    {
-     "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
-     "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
-     "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
-     "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document intelligence pipelines",
-     "source": "MarkTechPost",
-     "zh": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure"
     },
     {
      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
@@ -1060,7 +1060,7 @@
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
+     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
      "source": "Utility Dive",
      "zh": "PJM eyes option to jumpstart surplus interconnection pathway"
     },
@@ -1081,12 +1081,12 @@
      "zh": "Daqo New Energy narrows Q2 losses, resumes sales below cost"
     },
     {
-     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
-     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
-     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
-     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
-     "source": "Utility Dive",
-     "zh": "ERCOT aims to complete Texas governor’s data center audit by December"
+     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
+     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
+     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
+     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
+     "source": "Energy Storage News",
+     "zh": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal"
     }
    ]
   },
@@ -1577,6 +1577,14 @@
      "zh": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight"
     },
     {
+     "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
+     "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
+     "pubDate": "Fri, 21 Aug 2026 20:24:42 GMT",
+     "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes",
+     "source": "Dark Reading",
+     "zh": "How an Emerging Industrial Protocol Family Could Put OT at Risk"
+    },
+    {
      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
      "pubDate": "Sat, 22 Aug 2026 00:23:00 +0530",
@@ -1689,6 +1697,14 @@
      "zh": "OpenAI Adds Controls That Should've Been There Already"
     },
     {
+     "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
+     "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
+     "pubDate": "Fri, 21 Aug 2026 13:10:33 GMT",
+     "summary": "The coming threat of super-powerful computers capable of cracking today’s algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
+     "source": "Dark Reading",
+     "zh": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near"
+    },
+    {
      "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
      "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
      "pubDate": "Fri, 21 Aug 2026 12:26:07 +0000",
@@ -1719,22 +1735,6 @@
      "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
      "source": "Dark Reading",
      "zh": "New CUSTODY Framework Constrains AI Agents Inside the Network"
-    },
-    {
-     "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
-     "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
-     "pubDate": "Thu, 20 Aug 2026 19:11:15 GMT",
-     "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest \"hack back\" strategy.",
-     "source": "Dark Reading",
-     "zh": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack"
-    },
-    {
-     "title": "N-able Bug Exposes Password Vault Master Keys",
-     "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
-     "pubDate": "Thu, 20 Aug 2026 17:39:24 GMT",
-     "summary": "The popular \"Passportal\" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
-     "source": "Dark Reading",
-     "zh": "N-able Bug Exposes Password Vault Master Keys"
     }
    ]
   },
@@ -1745,12 +1745,60 @@
    "total": 18,
    "items": [
     {
+     "title": "广汽埃安 N60 曜夜型格运动套装上市：价值 6666 元，限时免费送",
+     "link": "https://www.ithome.com/0/993/255.htm",
+     "pubDate": "Sun, 23 Aug 2026 10:47:21 GMT",
+     "summary": "IT之家 8 月 23 日消息，广汽埃安 N60 曜夜型格运动套装现已上市，价值 6666 元，8 月购车限时免费送。 据介绍，曜夜型格运动套装包含曜夜前唇、驭风后扰流、边锋侧裙、掠风尾翼；全套黑化风格，优化车身姿态。 据IT之家此前报道， 广汽埃安 N60 纯电紧凑型 SUV 于 4 月 28 日上市 ，依据 CLTC 续航里程的不同分为 410km、510km 和 610km 三个版本，官方指导价分别为 10.98 万元、11.98 万元、12.98 万元。 目前该车有 5000 元的限时焕新补贴和 999 元抵 2000 元限时膨胀金， 限时焕新价 10.38 万元起 。 新车长宽高分别",
+     "source": "IT之家",
+     "zh": "广汽埃安 N60 曜夜型格运动套装上市：价值 6666 元，限时免费送"
+    },
+    {
+     "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
+     "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
+     "pubDate": "Sun, 23 Aug 2026 10:37:00 +0000",
+     "summary": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
+     "source": "WIRED",
+     "zh": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)"
+    },
+    {
+     "title": "世界上最便宜的福利",
+     "link": "https://www.huxiu.com/article/4885289.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 18:27:12 +0800",
+     "summary": "本文来自微信公众号： 字母PRO ，作者：贺任飞 最近关于无座车票的公共讨论很热，这让我想起了自己以前买无座票乘车的经历。 买无座票坐车，眼睛通常会变得比较尖。你会悄悄留意谁开始收水杯，谁把泡面盒扔了，谁从行李架上取包……附近几个站着的人都会悄悄留意，暗暗竞争。判断对了，能坐几站；判断错了，也没什么，继续站着。 我当时从没想过自由不自由。买无座票的原因很简单：有座的卖完了，而我得上那趟车。要是有得选，我其实很愿意被一把椅子束缚。我还真这么干过。有一次又只买到无座票，我花十几块钱买了个塑料小板凳，拎上火车。那趟旅程因此轻松了不少。不过后来我再没这么干过，可能是因为有座票好买了，也可能是因为他们说",
+     "source": "虎嗅",
+     "zh": "世界上最便宜的福利"
+    },
+    {
+     "title": "致敬怀旧存储介质：麦克赛尔重新推出 UD-60U 磁带",
+     "link": "https://www.ithome.com/0/993/253.htm",
+     "pubDate": "Sun, 23 Aug 2026 10:26:46 GMT",
+     "summary": "IT之家 8 月 23 日消息，麦克赛尔（Maxell）现已联合日本唱片零售商 Disk Union 重新推出 UD-60U 磁带，致敬 20 世纪怀旧存储介质。 据介绍，麦克赛尔最初于 20 世纪 70 年代，面向大众市场推出 UD 系列磁带。该系列产品主打高输出、低噪声，采用 PX γ-氧化铁，可实现更高输出、更低噪声，以及更出色的频率响应。 资料显示，部分大型唱片公司曾选择 UD 用于商业预录制磁带。麦克赛尔 UD 系列也因此与 TDK SD 以及索尼 HF 等产品一起，在磁带音乐史占据一席之地。 而 UD-60U 则是一款 I 类磁带，旨在吸引那些仍在使用复古音乐存储介质的消费者。 该",
+     "source": "IT之家",
+     "zh": "致敬怀旧存储介质：麦克赛尔重新推出 UD-60U 磁带"
+    },
+    {
+     "title": "科隆游戏展总监：《GTA 6》就像是行业的北极星",
+     "link": "https://www.ithome.com/0/993/252.htm",
+     "pubDate": "Sun, 23 Aug 2026 10:26:31 GMT",
+     "summary": "IT之家 8 月 23 日消息，当地时间 22 日，科隆游戏展品牌总监斯特凡 · 海克豪斯在接受 GamesRadar+ 采访时指出：“《侠盗猎车手》这样的游戏，以及过去几年推出的其他大型作品，对行业都极其重要。它们 就像游戏行业的北极星 。” 不过，《GTA 6》不会参加今年的科隆游戏展。科隆游戏展总监蒂姆 · 恩德雷斯坦言，如果《GTA 6》也能出现在展会上当然更好：“我们当然一直希望所有事情都发生在科隆游戏展上。” 相比单独一款游戏，恩德雷斯和海克豪斯更看重现场将集中展示的数百款作品。 海克豪斯解释道，像科隆游戏展这样的活动，玩家能够体验的并不只有一款游戏，而是上千款，至少也有数百款。这",
+     "source": "IT之家",
+     "zh": "科隆游戏展总监：《GTA 6》就像是行业的北极星"
+    },
+    {
      "title": "顺丰升级“城市迷你仓 2.0”：可远程完成物品存取、寄递，并在广州启动移动仓试点",
      "link": "https://www.ithome.com/0/993/251.htm",
      "pubDate": "Sun, 23 Aug 2026 10:22:14 GMT",
      "summary": "IT之家 8 月 23 日消息，今年 4 月， 顺丰在广州推出“城市迷你仓”服务 ，主要面向个人和企业提供自助仓储选择。仓型覆盖 0.7 立方米到 45 立方米，最小单位支持 15 天起租，支持全天 24 小时自助存取，同时可无缝对接客户的出入库及配送需求。 顺丰官方本周宣布，城市迷你仓服务迭代升级，2.0 版本正式落地。此前传统迷你仓仅提供存储功能，物品入库、取回、寄递均需用户自行处理。升级后的顺丰城市迷你仓 2.0 让用户可以 远程完成物品存取、寄递操作 。 据介绍，用户可直接在小程序里下单，选择顺丰快递产品，顺丰小哥可根据用户需求上门揽收、代办入库存放，如果物品需要取用或外寄时，同样可线",
      "source": "IT之家",
      "zh": "顺丰升级“城市迷你仓 2.0”：可远程完成物品存取、寄递，并在广州启动移动仓试点"
+    },
+    {
+     "title": "“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险",
+     "link": "https://www.huxiu.com/article/4885285.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 18:18:20 +0800",
+     "summary": "本文来自微信公众号： 硅谷101 ，作者：硅谷101 1.65万亿美元，用100美元纸币首尾相连，可以绕地球赤道约64圈。这个数字，是如今美国五大数据中心的发债总额。而如今，这些负债，似乎离奇地“消失”了。 它们藏到哪里去了呢？国际清算银行给这种做法起了个名字：Shadow Borrowing（影子借贷）。如今，被称为hyperscaler的大型云巨头们，正在用这样的手法，藏起天价债务数字，目的是让自己有一张更干净的资产负债表。 这篇文章我们就来聊聊，AI数据中心背后的债务账。 我们仔细翻阅了大型数据中心的各类申报文件，找出了至少五种不同的藏债手法。巨头们究竟是怎么让这些债务“消失”的？谁是这",
+     "source": "虎嗅",
+     "zh": "“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险"
     },
     {
      "title": "没落的批发市场，“曾经百万的转让费，再也回不去了”",
@@ -1793,28 +1841,12 @@
      "zh": "张丹丹在学术上是扶不起的，不要再强行挽尊了"
     },
     {
-     "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
-     "link": "https://www.ithome.com/0/993/242.htm",
-     "pubDate": "Sun, 23 Aug 2026 09:49:59 GMT",
-     "summary": "IT之家 8 月 23 日消息，据外媒 Neowin 当地时间 21 日报道，微软计划在英国利兹斯凯尔顿农庄建设一座超大规模 AI 数据中心园区。其规模包括 3 栋建筑，总建筑面积达到 4.65 万平方米。这项计划遭到当地居民反对，社区发起了要求阻止项目获得最终规划批准的请愿，目前已 收集到 4 万个签名 。 项目所在地原为一座发电站。Harworth Group 于 2014 年仅以 300 万英镑 （IT之家注：现汇率约合 2,755.6 万元人民币） 买下约 65.6 公顷土地，之后 以 1.066 亿英镑 （现汇率约合 9.79 亿元人民币） 出售给微软 。利兹规划委员会目前只是有条件",
-     "source": "IT之家",
-     "zh": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对"
-    },
-    {
-     "title": "招 300 人超 8000 人报名：格力技工学校报名已结束，董明珠亲自当校长",
-     "link": "https://www.ithome.com/0/993/240.htm",
-     "pubDate": "Sun, 23 Aug 2026 09:45:58 GMT",
-     "summary": "IT之家 8 月 23 日消息，8 月 21 日，珠海市格力技工学校正式关闭 2026 年招生报名通道。据蓝鲸新闻从学校方面了解到，截至到最终报名， 初步统计报名人数超 8000 人。 学校工作人员表示报名结束后，还会安排线下或线上的面试环节。后续待面试环节结束，会公布录取情况。 据IT之家此前报道，经珠海市人力资源和社会保障局批准， 由格力电器创办的珠海市格力技工学校正式获得招生资格 。学校坐落于广东省珠海市香洲区香山路 3200 号，占地面积约 19.1 万平方米，建筑面积约 12.4 万平方米。 官方称“ 入校即入企，毕业即适岗 ”，该校由格力电器董事长董明珠亲自担任学校校长，首批开设九",
-     "source": "IT之家",
-     "zh": "招 300 人超 8000 人报名：格力技工学校报名已结束，董明珠亲自当校长"
-    },
-    {
-     "title": "小米新款超旗舰充电宝曝光：97.36Wh、多口输出 250W MAX，自带伸缩线",
-     "link": "https://www.ithome.com/0/993/239.htm",
-     "pubDate": "Sun, 23 Aug 2026 09:34:09 GMT",
-     "summary": "IT之家 8 月 23 日消息，一款型号为 P25 的小米移动电源前天通过 3C 认证，博主 @体验more 称该产品为超旗舰充电宝品类。 IT之家从该条微博获悉， 这款充电宝采用自带伸缩线设计 ， 支持 140W 高速自充 ， 多口输出功率可达 250W MAX 。额定能量为 97.36Wh，大约是 27000mAh，C1 口自带伸缩线。 输入方面，该充电宝的 C1、C2 口均是单口 140W，支持 PD 3.1 协议。 输出方面，该充电宝的 C1 口支持 140W PD 3.1、120W PPS 快充；C2 口为 140W PD3.1，120W PPS；A 口则是 120W、120W PP",
-     "source": "IT之家",
-     "zh": "小米新款超旗舰充电宝曝光：97.36Wh、多口输出 250W MAX，自带伸缩线"
+     "title": "The Sloppification of Peptides",
+     "link": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+     "pubDate": "Sun, 23 Aug 2026 09:32:54 +0000",
+     "summary": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 10 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The Sloppification of Peptides"
     },
     {
      "title": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
@@ -1825,6 +1857,14 @@
      "zh": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App"
     },
     {
+     "title": "Doomscrolling at work wastes time, but the real cost is what happens after",
+     "link": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/",
+     "pubDate": "Sun, 23 Aug 2026 09:26:55 +0000",
+     "summary": "Article URL: https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/ Comments URL: https://news.ycombinator.com/item?id=49407305 Points: 10 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Doomscrolling at work wastes time, but the real cost is what happens after"
+    },
+    {
      "title": "年轻人的网络社交，正在偷偷“鸽化”",
      "link": "https://www.huxiu.com/article/4885275.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 17:10:53 +0800",
@@ -1833,28 +1873,12 @@
      "zh": "年轻人的网络社交，正在偷偷“鸽化”"
     },
     {
-     "title": "从小用AI 的一代，连青春期也要外包吗？",
-     "link": "https://www.huxiu.com/article/4885274.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 17:09:02 +0800",
-     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《从小用 AI 的一代，连青春期也要外包吗？》 作为家长，你会让自己的孩子接触AI吗？ 如果已经在接触了，你的孩子用它来干什么？ 写作文、查资料？还是说你不太确定，有点担心？ 8月18日，OpenAI上线了一个专门面向青少年的ChatGPT版本。注册时填写年龄在13到17岁之间的用户，会被自动放进这个版本。 2025年，研究者Blake、Carter与Velloso对青少年使用Character.AI的行为进行了系统追踪。他们发现，在该平台最活跃的用户群体中，年龄在13至17岁之间的占据约半数。这些青少年使用聊天机器人的目的，",
-     "source": "虎嗅",
-     "zh": "从小用AI 的一代，连青春期也要外包吗？"
-    },
-    {
      "title": "Is Expensive Bottled Water Actually Better for You?",
      "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
      "pubDate": "Sun, 23 Aug 2026 09:00:00 +0000",
      "summary": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
      "source": "WIRED",
      "zh": "Is Expensive Bottled Water Actually Better for You?"
-    },
-    {
-     "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
-     "link": "https://erikengdahl.se/autism/isnt/",
-     "pubDate": "Sun, 23 Aug 2026 08:48:34 +0000",
-     "summary": "Article URL: https://erikengdahl.se/autism/isnt/ Comments URL: https://news.ycombinator.com/item?id=49407143 Points: 50 # Comments: 47",
-     "source": "Hacker News",
-     "zh": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical"
     },
     {
      "title": "银行理财五星管理人评级报告 （2026年7月）",
@@ -1897,14 +1921,6 @@
      "zh": "伯南克加盟Anthropic：一个救火队长，守得住AI的门吗？"
     },
     {
-     "title": "两女孩买三座放零食，该骂的其实是藏在人背后的那个东西",
-     "link": "https://www.huxiu.com/article/4885260.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 16:10:45 +0800",
-     "summary": "本文来自微信公众号： 介心 ，作者：介心介个心 全文约3100字·预计阅读4分钟 8月18日，K1156次列车，上海开往成都西。两个女孩买三张硬座票，中间那个座位放着零食。一个持站票的女乘客想坐，被拒，列车员核验车票后说：\"座位是她们的，跟我说没用。\"当时全网吵翻了天，两个女孩被挂上热搜，照片没打码，被几亿人评头论足。 结果三天后，真相来了，而且是两层。 第一层，是孩子母亲的回应。她说，三张票里有一张半价儿童票，按规定，儿童不能单独购票，必须和成人票捆绑购买。两个孩子从上海到南充，全程27小时，没抢到卧铺。她担心两个女孩夜里睡着后，旁边坐的是陌生男性，不安全，所以故意留下那个空位，让孩子晚上能",
-     "source": "虎嗅",
-     "zh": "两女孩买三座放零食，该骂的其实是藏在人背后的那个东西"
-    },
-    {
      "title": "A profile of Judge Yvonne Gonzalez Rogers, who is presiding over US state AGs&apos; social media addiction lawsuit against Meta and oversaw the Musk v. Altman trial (Jeffrey Kopp/CNBC)",
      "link": "https://www.techmeme.com/260823/p4#a260823p4",
      "pubDate": "Sun, 23 Aug 2026 04:05:29 -0400",
@@ -1924,7 +1940,7 @@
      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
      "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
      "pubDate": "Sun, 23 Aug 2026 06:41:51 +0000",
-     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 100 # Comments: 84",
+     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 107 # Comments: 86",
      "source": "Hacker News",
      "zh": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed"
     },
@@ -1932,7 +1948,7 @@
      "title": "JIT Compiling Code in 5μs",
      "link": "https://malisper.me/jit-compiling-code-in-5-us/",
      "pubDate": "Sun, 23 Aug 2026 06:04:51 +0000",
-     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 62 # Comments: 22",
+     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 71 # Comments: 32",
      "source": "Hacker News",
      "zh": "JIT Compiling Code in 5μs"
     },
@@ -1940,7 +1956,7 @@
      "title": "The End of an Athlon",
      "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
      "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
-     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 87 # Comments: 23",
+     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 99 # Comments: 25",
      "source": "Hacker News",
      "zh": "The End of an Athlon"
     },
@@ -1948,7 +1964,7 @@
      "title": "Fast and Hard Code",
      "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
      "pubDate": "Sun, 23 Aug 2026 05:39:06 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 25 # Comments: 4",
+     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 34 # Comments: 6",
      "source": "Hacker News",
      "zh": "Fast and Hard Code"
     },
@@ -1967,22 +1983,6 @@
      "summary": "Jagmeet Singh / TechCrunch : Sources: Flipkart Minutes, the quick commerce service of Walmart's Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 &nbsp; &mdash;&nbsp; Indian startups spent years getting consumers accustomed to having groceries and everyday goo",
      "source": "Techmeme",
      "zh": "Sources: Flipkart Minutes, the quick commerce service of Walmart&apos;s Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 (Jagmeet Singh/TechCrunch)"
-    },
-    {
-     "title": "Semiconductor cram schools are flourishing in Seoul as applications to Samsung and SK Hynix surge, fuelled by record earnings and eye-catching worker bonuses (Financial Times)",
-     "link": "https://www.techmeme.com/260823/p1#a260823p1",
-     "pubDate": "Sun, 23 Aug 2026 01:15:01 -0400",
-     "summary": "Financial Times : Semiconductor cram schools are flourishing in Seoul as applications to Samsung and SK Hynix surge, fuelled by record earnings and eye-catching worker bonuses &nbsp; &mdash;&nbsp; Private tutors teach semiconductor basics and help polish CVs for hopefuls looking to join lucrative se",
-     "source": "Techmeme",
-     "zh": "Semiconductor cram schools are flourishing in Seoul as applications to Samsung and SK Hynix surge, fuelled by record earnings and eye-catching worker bonuses (Financial Times)"
-    },
-    {
-     "title": "To become a better writer, read as much as you can",
-     "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-     "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
-     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 148 # Comments: 98",
-     "source": "Hacker News",
-     "zh": "To become a better writer, read as much as you can"
     }
    ]
   },
@@ -1992,6 +1992,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Pixel 11 specs might disappoint, but Google got one crucial detail right",
+     "link": "https://www.androidauthority.com/pixel-11-pixelsnap-great-why-3699383/",
+     "pubDate": "Sun, 23 Aug 2026 10:30:06 +0000",
+     "summary": "Pixelsnap (thankfully) hasn't gone anywhere.",
+     "source": "Android Authority",
+     "zh": "Pixel 11 specs might disappoint, but Google got one crucial detail right"
+    },
     {
      "title": "After over a decade with Android, these are the 6 apps I’ve used the longest",
      "link": "https://www.androidauthority.com/android-apps-ive-used-longest-3696721/",
@@ -2209,14 +2217,6 @@
      "zh": "Google is starting to show ads on Pixel phones — here’s how to turn them off"
     },
     {
-     "title": "The Pixel 11 Pro is setting a dangerous precedent for Android upgrades",
-     "link": "https://www.androidauthority.com/pixel-11-pro-setting-dangerous-precedent-android-upgrades-3699468/",
-     "pubDate": "Sat, 22 Aug 2026 11:00:02 +0000",
-     "summary": "Old Pixels are going to pay the price.",
-     "source": "Android Authority",
-     "zh": "The Pixel 11 Pro is setting a dangerous precedent for Android upgrades"
-    },
-    {
      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
      "link": "https://sspai.com/post/113675",
      "pubDate": "Sat, 22 Aug 2026 11:00:00 +0800",
@@ -2247,14 +2247,6 @@
      "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/6AC61AEAB5D40A4DA31478C23AF9E173.jpg\" alt=\"饲养员对大熊猫馆进行清扫保洁。第1眼TV-华龙网记者 李舒 摄\" data-title=\"饲养员对大熊猫馆进行清扫保洁。第1眼TV-华龙网记者 李舒 摄\" data-target=\"2091421297478406145\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/ORIGINAL/MEDIA/PICTU",
      "source": "经济观察网",
      "zh": "重庆动物园小熊猫“添丁”14只 每天两个时段可看幼崽"
-    },
-    {
-     "title": "十大机构论市：本轮政策底已逐步显现 继续关注三方面配置机会",
-     "link": "http://finance.eastmoney.com/news/1345,202608233850315812.html",
-     "pubDate": "Sun, 23 Aug 2026 17:35:30 +0800",
-     "summary": "本周沪指下跌0.56%，深证成指下跌1.81%，创业板指下跌2.23%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 开源策略：A股风险偏好受到扰动 再平衡仍是主旋律 继续重点推荐小微盘 本周创业板、科创50单日调整均超过6%，价格层面的风险已经快速释放，但筹码调整仍需时间。后续市场更可能进入反复震荡、逐步完成筹码交换的阶段，短期反弹仍可以积极参与，但在交易集中度明显下降以前，反弹的空间和持续性不宜给出过高预期。拥挤消化过程中，再平衡仍然是当前最重要的市场结构，继续重点推荐中证2000和万得 微盘股 。行业层面，继续关注有色、 基础化工 、 新能源 、农业、医药，以及造",
-     "source": "东方财富资讯",
-     "zh": "十大机构论市：本轮政策底已逐步显现 继续关注三方面配置机会"
     },
     {
      "title": "理奇智能：第一届董事会第十九次会议决议公告",
@@ -2351,14 +2343,6 @@
      "summary": "阿里巴巴宣布港股上市以来首次配售新股，募资800亿港元，全部用于AI基础设施。 8月23日，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售 。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。 AI正在成为驱动阿里加速增长的核心引擎，8月20日阿里发布的最新财报显示，阿里巴巴AI相关产品年化收入（ARR）已突破495亿元人民币（73亿美元），预计下季度达到100亿美元。阿里云2030年外部商业化收入预计达1000亿美元，利润率有望突破20%。近期，全球投",
      "source": "华尔街见闻",
      "zh": "七年来首次配售新股！阿里800亿港元配股获超额认购，将全部投入AI建设"
-    },
-    {
-     "title": "周末要闻汇总：国常会再做部署 适度超前统筹推进新一代通信网建设",
-     "link": "http://finance.eastmoney.com/news/1345,202608233850265497.html",
-     "pubDate": "Sun, 23 Aug 2026 13:27:39 +0800",
-     "summary": "本周末影响市场的重要资讯有： 国务院常务会议要求，适度超前统筹推进新一代 通信 网建设；人民日报评“甲醛白菜”：性质恶劣，荒唐至极；信用卡分期贴息提额扩围，六大行集体落地，一年最高省5000元；美债救市升级，特朗普放狠话：必要时动用军队；加拿大宣布“全额对等报复”美国新关税；长存控股IPO获受理，公司拟融资330亿元； 英伟达 搭载 人工智能 芯片的服务器价格将上涨超15%；1361亿项目集中签约，万亿算力赛道迎来重磅驱动；世界人形 机器人 运动会开幕，100米9秒39打破人类纪录；我国牵头 固态电池 首项国际标准正式立项；阿里拟配售800亿港元新股，全部投入AI建设；DeepSeek调整峰谷",
-     "source": "东方财富资讯",
-     "zh": "周末要闻汇总：国常会再做部署 适度超前统筹推进新一代通信网建设"
     },
     {
      "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
@@ -2479,6 +2463,22 @@
      "summary": "“The cost is absolutely ridiculous.”",
      "source": "MarketWatch",
      "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+    },
+    {
+     "title": "SA Asks: How could Trump's new executive order impact vaccine makers?",
+     "link": "https://seekingalpha.com/news/4636043-sa-asks-how-could-trumps-new-executive-order-impact-vaccine-makers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 22 Aug 2026 15:49:45 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: How could Trump's new executive order impact vaccine makers?"
+    },
+    {
+     "title": "Key deals this week: Stripe, KKR, Virtu and more",
+     "link": "https://seekingalpha.com/news/4635957-key-deals-this-week-stripe-kkr-virtu-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 22 Aug 2026 15:15:10 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: Stripe, KKR, Virtu and more"
     }
    ]
   },

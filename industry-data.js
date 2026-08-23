@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 16:32:42",
+ "generated_at": "2026/8/23 17:02:40",
  "recent_days": 7,
  "industries": [
   {
@@ -1061,7 +1061,7 @@ window.INDUSTRY_DATA = {
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
+     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
      "source": "Utility Dive",
      "zh": "PJM eyes option to jumpstart surplus interconnection pathway"
     },
@@ -1082,12 +1082,12 @@ window.INDUSTRY_DATA = {
      "zh": "Daqo New Energy narrows Q2 losses, resumes sales below cost"
     },
     {
-     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
-     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
-     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
-     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
-     "source": "Utility Dive",
-     "zh": "ERCOT aims to complete Texas governor’s data center audit by December"
+     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
+     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
+     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
+     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
+     "source": "Energy Storage News",
+     "zh": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal"
     }
    ]
   },
@@ -1746,6 +1746,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "消息称华为 Mate 90 系列手机风驰版继续迭代，友商也会跟进",
+     "link": "https://www.ithome.com/0/993/233.htm",
+     "pubDate": "Sun, 23 Aug 2026 08:50:16 GMT",
+     "summary": "IT之家 8 月 23 日消息，据博主 @智慧皮卡丘 消息，华为 Mate 90 系列手机风驰版继续迭代（预计为华为 Mate 90 Pro Max 风驰版），而且友商也会跟。 博主在评论区进一步表示，友商跟进的方式为“ 旗舰机上主动散热 ”。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 据IT之家此前报道， 华为 Mate 80 Pro Max 风驰版发布于 3 月 23 日 ，搭载麒麟 9030 Pro 芯片，售价 8499 元起。 这款手机配备风驰散热模组， 业界首创隐藏式无感出风设计 ；业界首创仿生羽翼涡扇（长短翼型扇叶 + 高功率密度电机），同等噪声下风量提升",
+     "source": "IT之家",
+     "zh": "消息称华为 Mate 90 系列手机风驰版继续迭代，友商也会跟进"
+    },
+    {
+     "title": "北汽株洲工厂技改完成：产能提升 33%，极狐贝塔 T1、S3 交付提速",
+     "link": "https://www.ithome.com/0/993/232.htm",
+     "pubDate": "Sun, 23 Aug 2026 08:34:33 GMT",
+     "summary": "IT之家 8 月 23 日消息，极狐官方昨日宣布，北汽株洲工厂技改完成， 产能提升 33% ，极狐贝塔 T1、贝塔 S3 开启加速交付模式，全力排产，加快发运。 据介绍，2009 年，北汽株洲工厂落户株洲国家高新区，是北汽集团第一个自主品牌外埠乘用车基地。17 年来， 这里累计下线的车辆已经超过了 170 万辆 。 IT之家获悉，本次核心技术改造升级扩展了 3 条全新产线，增加了 40 个工位，工位总数达到了 150 个；并增加了机械手的数量和优化了多处工序。 升级之前，该工厂每天生产交付 600 辆整车，现在提升到了 800 辆， 交付能力提升了 1/3 ；每个月的交付量增加了 6000 台",
+     "source": "IT之家",
+     "zh": "北汽株洲工厂技改完成：产能提升 33%，极狐贝塔 T1、S3 交付提速"
+    },
+    {
+     "title": "传音推出 Infinix Xpad 30 Pro 平板，联发科 Helio G200 芯片、11 寸 2.5K 屏幕",
+     "link": "https://www.ithome.com/0/993/230.htm",
+     "pubDate": "Sun, 23 Aug 2026 08:31:04 GMT",
+     "summary": "IT之家 8 月 23 日消息，传音现已在海外市场推出 Infinix Xpad 30 Pro 平板，新品搭载 11 英寸 2.5K 屏幕，定位中低端，定价约为 227 美元 （IT之家注：现汇率约合 1,531 元人民币） 。 据介绍， 这款平板搭载联发科 Helio G200 Ultimate 芯片 ， 配备 11 英寸屏幕 ，分辨率为 1600*2560，支持 90Hz 刷新率，最高亮度可达 550nits。 同时，这款平板拥有立体声扬声器和 DTS 音效支持，满足日常影音播放需求。拥有 8200mAh 电池，支持 18W 充电，最高配置为 8GB 内存 +256GB 存储， 支持 4G",
+     "source": "IT之家",
+     "zh": "传音推出 Infinix Xpad 30 Pro 平板，联发科 Helio G200 芯片、11 寸 2.5K 屏幕"
+    },
+    {
      "title": "总台中国之声解读车辆应急机械拉手安全隐患：与内饰颜色接近、不易识别",
      "link": "https://www.ithome.com/0/993/229.htm",
      "pubDate": "Sun, 23 Aug 2026 08:25:20 GMT",
@@ -1760,6 +1784,38 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 8 月 23 日消息，在第二届世界人形机器人运动会“冰丝带”比赛现场，400 米大型组决赛开赛。经过角逐，天工队以 38.15 秒 的成绩夺得本届世界人形机器人运动会 首金 。 据IT之家此前报道，北京人形天工 Ultra 昨晚打破人类 400 米记录（43.03 秒）， 以 39.70s 的成绩夺得预赛第一 。 在昨日举行的田径 100 米大型组预赛中，天工 Ultra 以 9.39 秒的成绩率先冲线，打破了博尔特保持的 9.58 秒人类百米世界纪录。而在去年首届运动会上，百米最好成绩仅为 21.50 秒。 据介绍，天工 Ultra 身高 180cm、体重 52kg；能在斜坡、楼梯",
      "source": "IT之家",
      "zh": "38.15s 跑完 400 米再次刷新人类纪录：北京人形天工 Ultra 夺得本届人形机器人运动会首金"
+    },
+    {
+     "title": "银行理财五星管理人评级报告 （2026年7月）",
+     "link": "https://www.tmtpost.com/8113345.html",
+     "pubDate": "Sun, 23 Aug 2026 16:14:53 +0800",
+     "summary": "在固定收益类中，宁银理财有限责任公司、中邮理财有限责任公司和平安理财有限责任公司脱颖而出，成为五星理财子公司。它们的各星级产品数量展示了市场的竞争力与多样性。",
+     "source": "钛媒体",
+     "zh": "银行理财五星管理人评级报告 （2026年7月）"
+    },
+    {
+     "title": "在试错中求索：一套本土行业分类的突围之路",
+     "link": "https://www.tmtpost.com/8113337.html",
+     "pubDate": "Sun, 23 Aug 2026 16:14:41 +0800",
+     "summary": "面对本土市场提出的全新命题，没有现成标准答案，不奉行拿来主义，也不幻想一步建成完美制度。",
+     "source": "钛媒体",
+     "zh": "在试错中求索：一套本土行业分类的突围之路"
+    },
+    {
+     "title": "价值判断：跌停板的投资机会和风险提示（8月21日）｜上市公司观察",
+     "link": "https://www.tmtpost.com/8113335.html",
+     "pubDate": "Sun, 23 Aug 2026 16:14:29 +0800",
+     "summary": "板块层面，贵金属、能源金属、算力硬件链领涨；医药生物全线重挫，农林牧渔、农产品加工跌幅靠前。高位人气股集中补跌，一鸣食品、红四方、京粮控股等前期爆炒股封死跌停，题材炒作情绪退潮特征明显。",
+     "source": "钛媒体",
+     "zh": "价值判断：跌停板的投资机会和风险提示（8月21日）｜上市公司观察"
+    },
+    {
+     "title": "价值判断：涨停板的投资机会和风险提示（8月21日）｜上市公司观察",
+     "link": "https://www.tmtpost.com/8113330.html",
+     "pubDate": "Sun, 23 Aug 2026 16:14:18 +0800",
+     "summary": "盘面上贵金属板块全线领涨，湖南白银、白银有色、盛达资源涨停，现货黄金站上4500美元；算力硬件、光通信、锂矿局部活跃，瑞斯康达、星网锐捷、通鼎互联、融捷股份涨停。昨日爆发的医药板块今日大幅退潮，仅汉森制药3板及键凯科技、中关村、近岸蛋白、康希诺等2板晋级，创新药、CRO重挫；农业板块集体调整。市场连板高度由4板降至3板，资金由医药切向贵金属与科技硬件，缩量格局下板块\"一日游\"特征凸显，追涨容错率急剧下降。",
+     "source": "钛媒体",
+     "zh": "价值判断：涨停板的投资机会和风险提示（8月21日）｜上市公司观察"
     },
     {
      "title": "伯南克加盟Anthropic：一个救火队长，守得住AI的门吗？",
@@ -1794,14 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "吉利汽车测试固态电池：500Wh/kg 电芯能量密度，目标续航破千公里"
     },
     {
-     "title": "英伟达砸 60 亿美元投资 Poolside，意图打造中国开源 AI 竞争对手",
-     "link": "https://www.ithome.com/0/993/226.htm",
-     "pubDate": "Sun, 23 Aug 2026 08:05:55 GMT",
-     "summary": "IT之家 8 月 23 日消息，据《华尔街日报》今天报道，英伟达同意向人工智能初创企业 Poolside 支付 60 亿美元 （IT之家注：现汇率约合 404.58 亿元人民币） ，换取该公司的 AI 模型软件授权，同时将向该公司 109 名员工提供工作机会， 旨在开发一款能够与 DeepSeek 和 Kimi K3 竞争的人工智能模型 。 匿名知情人士透露，英伟达还将向 Poolside 追加投资 10 亿美元 （现汇率约合 67.43 亿元人民币） ，对应 Poolside 的 120 亿美元 （现汇率约合 809.17 亿元人民币） 估值。此次授权为非独家授权，Poolside 将保持独",
-     "source": "IT之家",
-     "zh": "英伟达砸 60 亿美元投资 Poolside，意图打造中国开源 AI 竞争对手"
-    },
-    {
      "title": "A profile of Judge Yvonne Gonzalez Rogers, who is presiding over US state AGs&apos; social media addiction lawsuit against Meta and oversaw the Musk v. Altman trial (Jeffrey Kopp/CNBC)",
      "link": "https://www.techmeme.com/260823/p4#a260823p4",
      "pubDate": "Sun, 23 Aug 2026 04:05:29 -0400",
@@ -1826,14 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "机器人越来越便宜，高端会成新战场？"
     },
     {
-     "title": "中国卫通推出“卫星移动数据业务”，合约机套餐售价 27999 元起",
-     "link": "https://www.ithome.com/0/993/224.htm",
-     "pubDate": "Sun, 23 Aug 2026 07:59:38 GMT",
-     "summary": "IT之家 8 月 23 日消息，中国卫通 8 月 21 日宣布，推出“卫星移动数据业务”，首批适配三款官方认证终端。 中国卫通表示，即日起，面向消费级市场推出的“卫星移动数据业务”正式全面上线开售，推出三款移动数据业务适配的合约机产品，并由终端制造厂家统一面向市场销售。 据介绍，用户连接适配的卫星上网机 Wi-Fi 进入线上平台，完成“注册登录 —— 激活权益卡 —— 上网使用”三步，即可启用卫星高速上网。 IT之家获悉，用户首批可通过选购以下三款移动数据业务适配的合约机享受高效稳定的卫星互联网接入服务： 便携式卫星上网合约机套餐 官方套餐售价： 27,999 元 核心配置： &nbsp;1 ",
-     "source": "IT之家",
-     "zh": "中国卫通推出“卫星移动数据业务”，合约机套餐售价 27999 元起"
-    },
-    {
      "title": "出货已超4万台，工厂准备好为“人形”买单了吗？",
      "link": "https://www.huxiu.com/article/4885268.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 15:58:35 +0800",
@@ -1850,14 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "人民币对美元升破6.72，创近三年半新高，“越结越高”效应下此轮升值停不下来？"
     },
     {
-     "title": "联想推出 LOQ 15IPH11 游戏本：酷睿 Ultra 7 356H 处理器、RTX5050/5060 显卡",
-     "link": "https://www.ithome.com/0/993/223.htm",
-     "pubDate": "Sun, 23 Aug 2026 07:45:42 GMT",
-     "summary": "IT之家 8 月 23 日消息，联想现已在海外市场推出 LOQ 15IPH11 游戏本，新品搭载英特尔 Panther Lake 平台，最高可选 32GB 内存和 15 英寸 180Hz 屏幕。 据介绍，这款笔记本搭载英特尔酷睿 Ultra 7 356H 处理器，最高支持选配 32GB 内存，显卡可在英伟达 RTX 5050 8GB / RTX 5060 8GB 间选择，TDP 均为 115W。 同时，这款笔记本配备 60Wh 电池，支持 245W 快充， 屏幕规格最高为 15 英寸 1600p 180Hz ，最高亮度为 400nits。 此外，该笔记本拥有 USB-A（5Gbps）、雷电 4",
-     "source": "IT之家",
-     "zh": "联想推出 LOQ 15IPH11 游戏本：酷睿 Ultra 7 356H 处理器、RTX5050/5060 显卡"
-    },
-    {
      "title": "我们正面临后现代治理问题",
      "link": "https://www.huxiu.com/article/4885263.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 15:45:08 +0800",
@@ -1869,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
      "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
      "pubDate": "Sun, 23 Aug 2026 06:41:51 +0000",
-     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 67 # Comments: 43",
+     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 83 # Comments: 66",
      "source": "Hacker News",
      "zh": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed"
     },
@@ -1877,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "JIT Compiling Code in 5μs",
      "link": "https://malisper.me/jit-compiling-code-in-5-us/",
      "pubDate": "Sun, 23 Aug 2026 06:04:51 +0000",
-     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 41 # Comments: 4",
+     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 50 # Comments: 9",
      "source": "Hacker News",
      "zh": "JIT Compiling Code in 5μs"
     },
@@ -1885,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "The End of an Athlon",
      "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
      "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
-     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 59 # Comments: 11",
+     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 69 # Comments: 16",
      "source": "Hacker News",
      "zh": "The End of an Athlon"
     },
@@ -1893,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Fast and Hard Code",
      "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
      "pubDate": "Sun, 23 Aug 2026 05:39:06 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 8 # Comments: 0",
      "source": "Hacker News",
      "zh": "Fast and Hard Code"
     },
@@ -1922,26 +1954,10 @@ window.INDUSTRY_DATA = {
      "zh": "Semiconductor cram schools are flourishing in Seoul as applications to Samsung and SK Hynix surge, fuelled by record earnings and eye-catching worker bonuses (Financial Times)"
     },
     {
-     "title": "享界G9的野心：把硬派SUV卖给更多豪华车用户",
-     "link": "https://www.tmtpost.com/8112877.html",
-     "pubDate": "Sun, 23 Aug 2026 12:39:30 +0800",
-     "summary": "当豪华SUV开始走向户外，享界G9希望用科技、舒适与探索能力，打开旗舰SUV新的生活方式。",
-     "source": "钛媒体",
-     "zh": "享界G9的野心：把硬派SUV卖给更多豪华车用户"
-    },
-    {
-     "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
-     "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-     "pubDate": "Sun, 23 Aug 2026 04:28:18 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 37 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has"
-    },
-    {
      "title": "To become a better writer, read as much as you can",
      "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
      "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
-     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 101 # Comments: 57",
+     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 122 # Comments: 66",
      "source": "Hacker News",
      "zh": "To become a better writer, read as much as you can"
     },
@@ -1954,22 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Nvidia plans to use its $6B deal with Poolside to build an open-weight AI model to compete with Chinese models like DeepSeek and Kimi (Robbie Whelan/Wall Street Journal)"
     },
     {
-     "title": "阿里又到了换剑时刻",
-     "link": "https://www.tmtpost.com/8113147.html",
-     "pubDate": "Sun, 23 Aug 2026 11:28:31 +0800",
-     "summary": "一个门派真正困难的时刻，从来不是旧武功突然失效，而是旧武功依然能赢，却已经不足以决定下一场战争。",
-     "source": "钛媒体",
-     "zh": "阿里又到了换剑时刻"
-    },
-    {
-     "title": "427万辆召回，没有一款油车：第一性原理失守的车门把手",
-     "link": "https://www.tmtpost.com/8113238.html",
-     "pubDate": "Sun, 23 Aug 2026 11:28:30 +0800",
-     "summary": "这次召回事件最刺痛的不是\"门把手设计问题\"，而是这么多顶级企业的顶级工程师，在 IATF16949、DFMEA、APQP、第三方认证这些流程的护送下，依然做出了\"极端情况下打不开车门\"的设计。",
-     "source": "钛媒体",
-     "zh": "427万辆召回，没有一款油车：第一性原理失守的车门把手"
-    },
-    {
      "title": "Sources: Iran-linked hackers shut down a small UK power plant for four days, coinciding with a wave of Iran-affiliated attacks on US water utilities (Telegraph)",
      "link": "https://www.techmeme.com/260822/p15#a260822p15",
      "pubDate": "Sat, 22 Aug 2026 23:20:02 -0400",
@@ -1978,12 +1978,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Iran-linked hackers shut down a small UK power plant for four days, coinciding with a wave of Iran-affiliated attacks on US water utilities (Telegraph)"
     },
     {
-     "title": "世界模型站上风口，机器人距离“真正干活”还有多远？",
-     "link": "https://www.tmtpost.com/8113119.html",
-     "pubDate": "Sun, 23 Aug 2026 11:11:25 +0800",
-     "summary": "模型需要真实场景产生数据，但真实场景又需要足够成熟的模型和能够算得过来的成本，才愿意大规模部署机器人。",
-     "source": "钛媒体",
-     "zh": "世界模型站上风口，机器人距离“真正干活”还有多远？"
+     "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+     "link": "https://martypc.net/",
+     "pubDate": "Sun, 23 Aug 2026 03:13:16 +0000",
+     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 109 # Comments: 33",
+     "source": "Hacker News",
+     "zh": "MartyPC is a cross-platform emulator of early PCs written in Rust"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "6 Android phones with microSD card slots you can still buy in 2026",
+     "link": "https://www.androidauthority.com/android-phones-with-microsd-card-slots-still-buy-2026-3695885/",
+     "pubDate": "Sun, 23 Aug 2026 09:00:06 +0000",
+     "summary": "Say \"no\" to overpriced storage.",
+     "source": "Android Authority",
+     "zh": "6 Android phones with microSD card slots you can still buy in 2026"
+    },
     {
      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
      "link": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
@@ -2210,14 +2218,6 @@ window.INDUSTRY_DATA = {
      "zh": "Whatever you do, don’t buy a Pixel 11 right now if you already have a Pixel 10"
     },
     {
-     "title": "5 Android safety features you probably aren’t using — and how to turn them on",
-     "link": "https://www.androidauthority.com/best-android-safety-features-2026-3699788/",
-     "pubDate": "Sat, 22 Aug 2026 09:30:08 +0000",
-     "summary": "Some of the best ones need to be manually set up.",
-     "source": "Android Authority",
-     "zh": "5 Android safety features you probably aren’t using — and how to turn them on"
-    },
-    {
      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
      "link": "https://sspai.com/post/113675",
      "pubDate": "Sat, 22 Aug 2026 11:00:00 +0800",
@@ -2241,6 +2241,78 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "五洲医疗：上半年净利润1536.34万元 同比增长46.11%",
+     "link": "http://finance.eastmoney.com/news/1349,202608233850296715.html",
+     "pubDate": "Sun, 23 Aug 2026 16:51:32 +0800",
+     "summary": "五洲医疗 (301234)8月23日披露半年报，2026年上半年，公司实现营业收入2.03亿元，同比下降6.40%；归属于上市公司股东的净利润1536.34万元，同比增长46.11%；基本每股收益0.2259元。注射器、医用穿刺针等核心产品毛利率提升是净利润同比实现较大幅度增长的主要原因。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "五洲医疗：上半年净利润1536.34万元 同比增长46.11%"
+    },
+    {
+     "title": "中泰策略：回调如期启动 科技进入右侧配置窗口",
+     "link": "http://finance.eastmoney.com/news/1370,202608233850296678.html",
+     "pubDate": "Sun, 23 Aug 2026 16:41:25 +0800",
+     "summary": "报告摘要 一、市场急跌后企稳，美伊博弈的反复超出预期 8月中下旬回调如期启动，市场冲高回落后已缩量企稳，9月重新转强的中期判断维持不变。 我们前期持续提示8月中下旬市场与科技将进入回踩，幅度可控，形态接近强势震荡。本周调整集中于单日完成，成交额急跌后明显收敛；8月以来主要宽基指数仍普遍录得正收益，本轮回吐主要消化8月上旬的快速拉升，趋势并未走坏。 但需要提示： 第一，科创50是唯一跌破7月20日波段低点的宽基指数，修复所需幅度明显大于其他指数。第二，港股同期逆势走强，恒生指数与恒生科技均收涨；同样面对美债波动而未跟随调整， 说明压制A股科技的主要力量来自内部筹码，海外利率的解释力有限。 8月1",
+     "source": "东方财富股票",
+     "zh": "中泰策略：回调如期启动 科技进入右侧配置窗口"
+    },
+    {
+     "title": "免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？",
+     "link": "https://wallstreetcn.com/articles/3780081",
+     "pubDate": "Sun, 23 Aug 2026 16:40:11 +0800",
+     "summary": "一个没有署名的模型，正在让整个AI开发者社区陷入猜谜游戏。 一款名为Ox Alpha的匿名AI模型悄然出现在OpenRouter平台，免费开放、性能强劲，迅速在开发者圈引发热议。国内网友因“Ox”即“牛”，给它起了个接地气的外号—— “牛来”大模型。 免费+强大，开发者蜂拥而至 美东时间8月20日深夜（北京时间8月21日凌晨），Ox Alpha以“stealth model”（隐身模型）身份低调上架OpenRouter，提供方为匿名第三方。 配置相当豪华： 100万token上下文窗口、支持文本+图像+视频多模态输入、工具调用全支持、推理强制开启。价格更离谱——完全免费。 据彭博报道，Ox A",
+     "source": "华尔街见闻",
+     "zh": "免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？"
+    },
+    {
+     "title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment",
+     "link": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
+     "pubDate": "Sun, 23 Aug 2026 08:33:27 GMT",
+     "summary": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
+     "source": "Financial Times",
+     "zh": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment"
+    },
+    {
+     "title": "中信证券：科技股近期的调整不能简单归因于美国长债利率高企",
+     "link": "http://stock.eastmoney.com/news/11791,202608233850296358.html",
+     "pubDate": "Sun, 23 Aug 2026 16:32:21 +0800",
+     "summary": "中信证券 研报认为，科技股近期的调整不能简单归因于美国长债利率高企，调整的背后是AI相关股票的远期定价问题，有三个关键叙事变量：1)商业化的速率和空间是否跟得上市场预期；2)算力优势是不是带来份额和定价权优势；3)当期的算力差距是否会明显拉开远期的AI模型差距。这其中当前共识性担忧是商业化的速率和空间，最大的潜在变量是“防蒸馏”是否在未来会重新拉大模型差距。至于宏观因素，美国财政部宣布回购长债的影响十分有限，不过短期内美元走弱和加息预期的走弱都有利于全球市场K型分化的收敛。然而，造成美国长端利率持续上行的因素并没有发生根本性变化，未来一段时间可能还会出现持续扰动。在这些外部扰动影响下，A股短期",
+     "source": "东方财富股票",
+     "zh": "中信证券：科技股近期的调整不能简单归因于美国长债利率高企"
+    },
+    {
+     "title": "智光电气：终止发行股份及支付现金购买资产并募集配套资金事项",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850296244.html",
+     "pubDate": "Sun, 23 Aug 2026 16:31:50 +0800",
+     "summary": "智光电气 (002169.SZ)公告称，公司召开董事会审议通过议案，同意终止发行股份及支付现金购买广州智光储能科技有限公司27.18%股权并募集配套资金暨关联交易事项。终止原因为当前市场环境较筹划初期发生较大变化，经审慎考虑并与交易对方协商决定终止。公司承诺自终止公告之日起1个月内不再筹划重大资产重组。本次交易终止不影响公司对标的公司的控制权，目前生产经营正常。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "智光电气：终止发行股份及支付现金购买资产并募集配套资金事项"
+    },
+    {
+     "title": "俄罗斯国防部：俄罗斯军队在顿涅茨克和哈尔科夫地区对乌克兰军队的临时部署点发射了FAB-500和FAB-1500炸弹",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850296492.html",
+     "pubDate": "Sun, 23 Aug 2026 16:31:26 +0800",
+     "summary": "俄罗斯国防部：俄罗斯军队在顿涅茨克和哈尔科夫地区对乌克兰军队的临时部署点发射了FAB-500和FAB-1500炸弹。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "俄罗斯国防部：俄罗斯军队在顿涅茨克和哈尔科夫地区对乌克兰军队的临时部署点发射了FAB-500和FAB-1500炸弹"
+    },
+    {
+     "title": "中信证券：科技股近期的调整是AI相关股票的远期定价问题",
+     "link": "http://finance.eastmoney.com/news/1370,202608233850296169.html",
+     "pubDate": "Sun, 23 Aug 2026 16:28:04 +0800",
+     "summary": "科技股近期的调整不能简单归因于美国长债利率高企，调整的背后是AI相关股票的远期定价问题，有三个关键叙事变量：1）商业化的速率和空间是否跟得上市场预期；2）算力优势是不是带来份额和定价权优势；3）当期的算力差距是否会明显拉开远期的AI模型差距。这其中当前共识性担忧是商业化的速率和空间，最大的潜在变量是“防蒸馏”是否在未来会重新拉大模型差距。至于宏观因素，美国财政部宣布回购长债的影响十分有限，不过短期内美元走弱和加息预期的走弱都有利于全球市场K型分化的收敛。然而，造成美国长端利率持续上行的因素并没有发生根本性变化，未来一段时间可能还会出现持续扰动。在这些外部扰动影响下，A股短期内的资金结构决定了市",
+     "source": "东方财富股票",
+     "zh": "中信证券：科技股近期的调整是AI相关股票的远期定价问题"
+    },
+    {
+     "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+     "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1",
+     "pubDate": "Sun, 23 Aug 2026 08:23:24 GMT",
+     "summary": "AI lab’s Fable 5 has met with sluggish demand from corporate clients",
+     "source": "Financial Times",
+     "zh": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive"
+    },
     {
      "title": "​国内金价直逼千元，深圳水贝买卖两旺！每经记者实探：有人一单买走一斤多，白银也卖疯了",
      "link": "http://www.eeo.com.cn/2026/0823/1008739.shtml",
@@ -2362,28 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "Europe can do better than US-style air conditioning"
     },
     {
-     "title": "Investors try to catch ‘falling knife’ with bets on risky funds during chip rout",
-     "link": "https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2?syn-25a6b1a6=1",
-     "pubDate": "Sun, 23 Aug 2026 04:00:08 GMT",
-     "summary": "Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during market sell-off",
-     "source": "Financial Times",
-     "zh": "Investors try to catch ‘falling knife’ with bets on risky funds during chip rout"
-    },
-    {
      "title": "7月再现！高盛：存储“股价业绩差”最具吸引力，金融和硬资产成为新热点",
      "link": "https://wallstreetcn.com/articles/3780070",
      "pubDate": "Sun, 23 Aug 2026 11:24:18 +0800",
      "summary": "高盛警告，AI动能裂痕已现，投资者需高度警惕股价与每股盈利之间不断扩大的估值缺口。与此同时，资金开始向此前被忽视的领域流动，欧日银行股、黄金矿商和铜矿股等硬资产标的正逐步成为新的市场热点。 本周的走势被高盛交易员Natasha Tiwana定性为典型的\"去杠杆化行情\"，其烈度令此前相信7月抛售已成历史的市场措手不及。 高盛高贝塔动量组合（GSPRHIMO）本周下跌12%，其AI对冲组合五日跌幅达10%。 高盛指出，本轮动量策略的崩解与7月的底层逻辑高度一致。尽管AI板块的杠杆水平已从极端高位有所回落，但市场的惯性资金仍在驱动无差别且快速的“逢低买入”行为。 高盛认为，当前的仓位出清叠加依然强劲",
      "source": "华尔街见闻",
      "zh": "7月再现！高盛：存储“股价业绩差”最具吸引力，金融和硬资产成为新热点"
-    },
-    {
-     "title": "李辉就任宏利基金总经理，公募老将开拓新局面",
-     "link": "https://wallstreetcn.com/articles/3780078",
-     "pubDate": "Sun, 23 Aug 2026 10:24:06 +0800",
-     "summary": "2026 年 8 月 21 日，宏利基金正式发布公告，任命李辉为新任总经理（法定代表人）及财务负责人，原总经理丁闻聪因工作调动离任。李辉是宏利基金完成独资转型后的第三任总经理，亦是经验丰富的业内总经理，由此带来业界对宏利基金下一步发展的期待。 宏利基金现高管更替 根据宏利基金8月22日发布的公告，公司近期变更了总经理（法定代表人）、财务负责人的相关信息。 前兴业基金总经理李辉接掌两个岗位，原任宏利基金总经理的DING WEN CONG（丁闻聪）已因工作安排离任，两者交接棒时间为8月21日。 另外，因宏利基金原督察长于 2026 年 6 月 10 日离任，由公司总经理代为履行督察长职务，本次高级",
-     "source": "华尔街见闻",
-     "zh": "李辉就任宏利基金总经理，公募老将开拓新局面"
     },
     {
      "title": "Venezuela hits roadblock in exporting more oil, as ports can't keep up with demand - report",
@@ -2424,62 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.",
      "source": "CNBC",
      "zh": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit"
-    },
-    {
-     "title": "SA Asks: What does the growing national debt mean for bond yields?",
-     "link": "https://seekingalpha.com/news/4636044-sa-asks-what-does-the-growing-national-debt-mean-for-bond-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 16:31:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What does the growing national debt mean for bond yields?"
-    },
-    {
-     "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
-     "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 20:31:00 GMT",
-     "summary": "Canadian Prime Minister Mark Carney on Saturday announced his country would impose “dollar-for-dollar” tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.",
-     "source": "MarketWatch",
-     "zh": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
-    },
-    {
-     "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
-     "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 20:30:00 GMT",
-     "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
-     "source": "MarketWatch",
-     "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
-    },
-    {
-     "title": "Nvidia customers reportedly warned about AI-related price hikes",
-     "link": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-     "pubDate": "Sat, 22 Aug 2026 20:26:44 GMT",
-     "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
-     "source": "CNBC",
-     "zh": "Nvidia customers reportedly warned about AI-related price hikes"
-    },
-    {
-     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 20:15:00 GMT",
-     "summary": "“The cost is absolutely ridiculous.”",
-     "source": "MarketWatch",
-     "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
-    },
-    {
-     "title": "SA Asks: How could Trump's new executive order impact vaccine makers?",
-     "link": "https://seekingalpha.com/news/4636043-sa-asks-how-could-trumps-new-executive-order-impact-vaccine-makers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 15:49:45 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: How could Trump's new executive order impact vaccine makers?"
-    },
-    {
-     "title": "Key deals this week: Stripe, KKR, Virtu and more",
-     "link": "https://seekingalpha.com/news/4635957-key-deals-this-week-stripe-kkr-virtu-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 15:15:10 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Key deals this week: Stripe, KKR, Virtu and more"
     }
    ]
   },

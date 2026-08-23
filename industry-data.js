@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 23:24:45",
+ "generated_at": "2026/8/23 23:50:10",
  "recent_days": 7,
  "industries": [
   {
@@ -1586,6 +1586,14 @@ window.INDUSTRY_DATA = {
      "zh": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight"
     },
     {
+     "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
+     "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
+     "pubDate": "Fri, 21 Aug 2026 20:24:42 GMT",
+     "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes",
+     "source": "Dark Reading",
+     "zh": "How an Emerging Industrial Protocol Family Could Put OT at Risk"
+    },
+    {
      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
      "pubDate": "Sat, 22 Aug 2026 00:23:00 +0530",
@@ -1600,6 +1608,14 @@ window.INDUSTRY_DATA = {
      "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
      "source": "BleepingComputer",
      "zh": "New SynkLoader malware pushed in Microsoft Teams phishing campaign"
+    },
+    {
+     "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
+     "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
+     "pubDate": "Fri, 21 Aug 2026 17:36:53 GMT",
+     "summary": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
+     "source": "Dark Reading",
+     "zh": "OWASP Flags Top AI Skill Risks in New Security Blueprint"
     },
     {
      "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
@@ -1666,6 +1682,30 @@ window.INDUSTRY_DATA = {
      "zh": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets"
     },
     {
+     "title": "Calling on Cyber Pros to Help Defend City Hall",
+     "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
+     "pubDate": "Fri, 21 Aug 2026 14:00:00 GMT",
+     "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
+     "source": "Dark Reading",
+     "zh": "Calling on Cyber Pros to Help Defend City Hall"
+    },
+    {
+     "title": "OpenAI Adds Controls That Should've Been There Already",
+     "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
+     "pubDate": "Fri, 21 Aug 2026 13:30:00 GMT",
+     "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+     "source": "Dark Reading",
+     "zh": "OpenAI Adds Controls That Should've Been There Already"
+    },
+    {
+     "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
+     "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
+     "pubDate": "Fri, 21 Aug 2026 13:10:33 GMT",
+     "summary": "The coming threat of super-powerful computers capable of cracking today’s algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
+     "source": "Dark Reading",
+     "zh": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near"
+    },
+    {
      "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
      "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
      "pubDate": "Fri, 21 Aug 2026 12:26:07 +0000",
@@ -1688,6 +1728,14 @@ window.INDUSTRY_DATA = {
      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardle",
      "source": "The Hacker News",
      "zh": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0"
+    },
+    {
+     "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
+     "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
+     "pubDate": "Thu, 20 Aug 2026 20:42:18 GMT",
+     "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
+     "source": "Dark Reading",
+     "zh": "New CUSTODY Framework Constrains AI Agents Inside the Network"
     }
    ]
   },
@@ -1697,6 +1745,38 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "16万家企业“迁回”之后，地方政府拿什么抢项目？",
+     "link": "https://www.huxiu.com/article/4885318.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 23:45:05 +0800",
+     "summary": "本文来自微信公众号： 防冷涂的腊 ，作者：防冷涂的腊 一组看似反常的数据，先于政策文件揭开了地方招商的变化。 国家税务总局近期披露，各省市已废止或修改违规招商引资涉税文件、协议条款833件；近16万户为了享受不规范奖补而异地注册的企业，已经迁回实际经营地。迁回后，这些企业2026年上半年缴纳税收同比增长16%。 “迁回”容易让人联想到机器拆装、厂房腾挪。这里面相当一部分企业并没有搬动生产线，改变的是注册地址、开票地或纳税地。过去，一家企业在A地生产经营，可以在B地注册、开票和纳税；B地再用地方留成、经济贡献奖等方式返还部分收益。全国没有因此多生产一台设备，地方之间争到的是税源的归属。 8月21",
+     "source": "虎嗅",
+     "zh": "16万家企业“迁回”之后，地方政府拿什么抢项目？"
+    },
+    {
+     "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+     "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+     "pubDate": "Sun, 23 Aug 2026 15:30:00 +0000",
+     "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+     "source": "TechCrunch",
+     "zh": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash"
+    },
+    {
+     "title": "古尔曼：苹果今秋计划大幅调整零售店布局，或为带屏 HomePod 铺路",
+     "link": "https://www.ithome.com/0/993/317.htm",
+     "pubDate": "Sun, 23 Aug 2026 15:24:10 GMT",
+     "summary": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼今天（23 日）晚间更新《Power On》时事通讯称，苹果零售店布局即将迎来调整，为一系列新的家庭设备做准备。 古尔曼披露，苹果今年秋季将准备重新调整零售店， 为新的家庭设备腾出空间 。负责门店布局的团队已经开始规划新的展示区域。较新的苹果零售店四周设有 Avenues 陈列区，用来展示 HomePod、Apple TV、AirPods、Beats 以及第三方配件。 今年秋季，苹果准备大幅重新布置这些区域，并增加新的配件展示位。他进一步分析称，已知新品包括升级版 Apple TV 机顶盒和新款 HomePod mini，但调整范围之大",
+     "source": "IT之家",
+     "zh": "古尔曼：苹果今秋计划大幅调整零售店布局，或为带屏 HomePod 铺路"
+    },
+    {
+     "title": "揭秘苹果摄像头版 AirPods 为何泄露：可能是测试新功能时合并错误",
+     "link": "https://www.ithome.com/0/993/316.htm",
+     "pubDate": "Sun, 23 Aug 2026 15:22:40 GMT",
+     "summary": "IT之家 8 月 23 日消息，苹果在 8 月 17 日发布 macOS Tahoe 26.7 RC 时，意外泄露了摄像头版 AirPods 的演示视频。除了耳机惨遭曝光以外，这个系统还包含了 Home Hub 家庭中枢等大量未公布产品信息。 据彭博社报道，本次泄露并不是内鬼曝光或黑客入侵，仅仅只是一次人为失误。 众所周知，苹果内部的测试版操作系统与开发者直接获取的测试版有所不同。当苹果员工开发或测试 macOS / iOS 未来功能时，需要通过 Feature Flags（IT之家注：特性切换）开关来调整一切。当然系统在发布给公众时，未公开的 Feature Flags 设置会设置为关闭状态",
+     "source": "IT之家",
+     "zh": "揭秘苹果摄像头版 AirPods 为何泄露：可能是测试新功能时合并错误"
+    },
     {
      "title": "联影医疗、天津大学发布全球首个磁共振脑机接口全栈式解决方案 uMR 神观",
      "link": "https://www.ithome.com/0/993/315.htm",
@@ -1738,28 +1818,12 @@ window.INDUSTRY_DATA = {
      "zh": "DeepSeek、智谱与Kimi，竞争前沿生存空间"
     },
     {
-     "title": "消息称苹果外部已有人体验过折叠屏 iPhone：屏幕铰链评价积极，但缺少长焦镜头",
-     "link": "https://www.ithome.com/0/993/311.htm",
-     "pubDate": "Sun, 23 Aug 2026 14:55:30 GMT",
-     "summary": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中透露，他已经与多位体验过苹果折叠屏 iPhone 手机的外部人士交流。 这款手机预计将于下个月和大众见面 ，外界普遍认为其名为 iPhone Ultra。 古尔曼表示，这些体验过 iPhone Ultra 的人都认为该机存在不少亮点。据他所述，这款手机折叠后比较厚，但依然可以放进口袋。 他们对屏幕铰链的评价较为积极 ， 认为其耐用性不错 。 用户打开这款折叠屏 iPhone 后，将看到一块尺寸巨大的内屏。机内的应用布局类似 iPad，初上手体验者都对此表示赞许。 影像方面， 这款手机没有长焦镜头 ，但",
-     "source": "IT之家",
-     "zh": "消息称苹果外部已有人体验过折叠屏 iPhone：屏幕铰链评价积极，但缺少长焦镜头"
-    },
-    {
      "title": "Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID (Mark Gurman/Bloomberg)",
      "link": "https://www.techmeme.com/260823/p6#a260823p6",
      "pubDate": "Sun, 23 Aug 2026 10:45:22 -0400",
      "summary": "Mark Gurman / Bloomberg : Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID &nbsp; &mdash;&nbsp; Also: Get ready for iPhone price hikes.&nbsp; &mdash;&nbsp; Apple is about to bring some of it",
      "source": "Techmeme",
      "zh": "Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID (Mark Gurman/Bloomberg)"
-    },
-    {
-     "title": "2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军",
-     "link": "https://www.ithome.com/0/993/310.htm",
-     "pubDate": "Sun, 23 Aug 2026 14:38:51 GMT",
-     "summary": "IT之家 8 月 23 日消息，据央视新闻报道，第二届世界人形机器人运动会昨天（8 月 22 日）在国家速滑馆开幕。今天（8 月 23 日），1500 米决赛鸣枪开跑，共 34 支队伍参赛。 “天卓队”以 2 分 21 秒 63 夺冠，大幅超过人类男子 1500 米 3 分 26 秒 00 的世界纪录。“飞雷神”以 2 分 30 秒 00 冲线摘银，“风火闪电队”仅慢 0.222 秒，以 2 分 30 秒 22 拿下铜牌。 作为对比，去年首届机器人运动会，宇树 H1 机器人 1500 米的夺冠成绩为 6 分 34 秒 40。 据悉，天卓队使用的人形机器人为天工 Ultra，由北京人形机器人创新",
-     "source": "IT之家",
-     "zh": "2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军"
     },
     {
      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
@@ -1789,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "What Is a Harness?",
      "link": "https://earendil.com/posts/what-is-a-harness/",
      "pubDate": "Sun, 23 Aug 2026 14:24:21 +0000",
-     "summary": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 21 # Comments: 7",
+     "summary": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15",
      "source": "Hacker News",
      "zh": "What Is a Harness?"
     },
@@ -1821,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "My favorite nonfiction books about cults, scams, and schemes",
      "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
      "pubDate": "Sun, 23 Aug 2026 13:51:10 +0000",
-     "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 38 # Comments: 11",
+     "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 # Comments: 13",
      "source": "Hacker News",
      "zh": "My favorite nonfiction books about cults, scams, and schemes"
     },
@@ -1845,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Malware infects Android-based automotive head unit firmware",
      "link": "https://securelist.com/android-head-unit-malware/121106/",
      "pubDate": "Sun, 23 Aug 2026 13:05:38 +0000",
-     "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 85 # Comments: 37",
+     "summary": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40",
      "source": "Hacker News",
      "zh": "Malware infects Android-based automotive head unit firmware"
     },
@@ -1864,14 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "豆包团队最快将于下周推出一款对标腾讯WorkBuddy的办公类产品",
      "source": "钛媒体",
      "zh": "豆包将推WorkBuddy类产品，飞书十年积累正在组件化"
-    },
-    {
-     "title": "从家门口到登机口要花多少时间？25所机场便利度分析",
-     "link": "https://www.huxiu.com/article/4885298.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 20:11:01 +0800",
-     "summary": "本文来自微信公众号： 核真录 ，制图：甄润铮万辉辉，编辑：王新蔡翌希，作者：核真录2026，原文标题：《数据｜从家门口到登机口要花多少时间？25所机场便利度分析》 一段航空旅程，并不是从飞机起飞的那一刻才开始。对于旅客而言，从城市出发前往机场、进入航站楼、通过安检，再到抵达登机口，每一步都构成了实际的出行成本，也影响着他们对一座机场的第一印象。 核真录以2025年中国大陆旅客吞吐量排名前25位的民用运输机场为样本，统计旅客前往机场时公共交通、打车和自驾的时间与费用，梳理各机场轨道交通接入情况；同时，将视线延伸至航站楼内部，测量旅客通过安检后前往登机口的步行距离。 01：同样从市中心火车站出发，",
-     "source": "虎嗅",
-     "zh": "从家门口到登机口要花多少时间？25所机场便利度分析"
     },
     {
      "title": "The careers of Z.ai&apos;s Tang Jie and Moonshot AI&apos;s Yang Zhilin, once teacher and pupil at Tsinghua University, show that China&apos;s AI leap is no sudden development (Raffaele Huang/Wall Street Journal)",
@@ -1928,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
      "source": "WIRED",
      "zh": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App"
-    },
-    {
-     "title": "Is Expensive Bottled Water Actually Better for You?",
-     "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
-     "pubDate": "Sun, 23 Aug 2026 09:00:00 +0000",
-     "summary": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
-     "source": "WIRED",
-     "zh": "Is Expensive Bottled Water Actually Better for You?"
     }
    ]
   },
@@ -1945,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "These modern smartwatches are in their last year of updates",
+     "link": "https://www.engadget.com/2240149/smartwatches-last-year-of-updates/",
+     "pubDate": "Sun, 23 Aug 2026 15:30:00 +0000",
+     "summary": "A whole bunch of smart watches are getting phased out this year. Is your watch on the list?",
+     "source": "Engadget",
+     "zh": "These modern smartwatches are in their last year of updates"
+    },
     {
      "title": "Report: Apple launching updated iMac with M6 chip and new colors later this year",
      "link": "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/",
@@ -2122,14 +2178,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google’s new Pixel 11 offers an incredible camera feature that Apple should copy"
     },
     {
-     "title": "How to limit Instagram from using your data for AI and ads",
-     "link": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
-     "pubDate": "Sat, 22 Aug 2026 20:30:00 +0000",
-     "summary": "You can keep Instagram from using your activity outside the app to influence the ads you get.",
-     "source": "Engadget",
-     "zh": "How to limit Instagram from using your data for AI and ads"
-    },
-    {
      "title": "Indie App Spotlight: ‘CloudGear’ brings all cloud gaming platforms into one tvOS app",
      "link": "https://9to5mac.com/2026/08/22/indie-app-spotlight-cloudgear-brings-all-cloud-gaming-platforms-into-one-tvos-app/",
      "pubDate": "Sat, 22 Aug 2026 19:30:00 +0000",
@@ -2194,6 +2242,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "全国鸡肉价格连涨两周 我国鸡肉产品出口大增",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850414143.html",
+     "pubDate": "Sun, 23 Aug 2026 23:37:34 +0800",
+     "summary": "白羽肉鸡是鸡胸、鸡腿等分割品的常见原料，也是快餐的主要食材，目前我国白羽肉鸡消费占整个鸡肉市场的60%左右。近期，全国白羽肉鸡鸡苗量价齐涨，种禽企业效益整体向好。王木洪在山东潍坊诸城市经营着一家年出栏20多万只肉鸡的养殖场，他告诉记者，7月30日出栏的一批4万只肉鸡，每只鸡可以盈利1.5元。王木洪介绍，今年以来，肉鸡出栏价格基本保持在每斤3.5元左右，高于成本0.2元-0.3元，养殖整体处于盈利期，他于8月上旬新购入4万羽鸡苗，出栏可以赶上中秋、国庆的消费旺季。近期鸡肉价格偏强运行，也提升了养殖端的盈利水平，8月份第三周全国鸡肉价格为每公斤22.45元，环比上涨0.1%，同比上涨0.2%，已经",
+     "source": "东方财富股票",
+     "zh": "全国鸡肉价格连涨两周 我国鸡肉产品出口大增"
+    },
+    {
+     "title": "“紫檀”造成广西10条河流15个站超警 紧急转移安置8087人",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850412128.html",
+     "pubDate": "Sun, 23 Aug 2026 23:31:22 +0800",
+     "summary": "受今年第19号台风“紫檀”影响，广西多地出现暴雨到大暴雨、局地特大暴雨，多条河流超警戒水位，防城港市、崇左市等部分乡镇遭遇洪水险情。8月23日，广西召开防汛防台视频会商调度会，据统计，截至8月23日18时，防城港、崇左、南宁等6个市的17个县（市、区）的64个乡镇（街道）出现大暴雨，局地特大暴雨，10个市的30个县（市、区）的92个乡镇（街道）出现暴雨。明江及支流公安河、派连河，左江及上游平而河等10条河流15个站超警，台风已造成受灾人口6.1万人，因灾转移5.4万人，紧急转移安置8087人，各项防汛救灾工作正有序扎实开展。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "“紫檀”造成广西10条河流15个站超警 紧急转移安置8087人"
+    },
+    {
+     "title": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them",
+     "link": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html",
+     "pubDate": "2026-08-23T15:30:00Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them"
+    },
+    {
+     "title": "水泥主业下滑 炒股赚翻了！上峰材料上半年净利暴增452% 扣非利润却下滑近五成",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850413361.html",
+     "pubDate": "Sun, 23 Aug 2026 23:29:39 +0800",
+     "summary": "上峰材料 (000672)8月23日披露2026年半年报，公司上半年实现营业收入18.39亿元，同比下降19.09%；归母净利润13.64亿元，同比暴增452.54%；扣非归母净利润1.51亿元，同比下降46.54%；基本每股收益1.44元/股，同比增长453.85%。公司拟向全体股东每10股派发现金红利1.57元（含税），合计派发现金红利约1.50亿元（含税）。 上峰材料 主要专注于从事 水泥 熟料、 水泥 、混凝土等建材产品的生产制造和销售并向骨料、 环保 、 新能源 、 物流 等相关产业延伸。近年来，公司正在向 半导体 封装基板等新质材料业务转型升级。公司 确立“建材基石、股权投资、新质",
+     "source": "东方财富股票",
+     "zh": "水泥主业下滑 炒股赚翻了！上峰材料上半年净利暴增452% 扣非利润却下滑近五成"
+    },
+    {
+     "title": "A股业绩利好 密集发布",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850413218.html",
+     "pubDate": "Sun, 23 Aug 2026 23:29:00 +0800",
+     "summary": "8月23日晚，A股公司密集发布2026年半年度业绩报告，其中多家公司业绩大增。 天然气 、化工、 有色金属 等行业公司半年报表现亮眼，部分公司净利实现数十倍增长，部分龙头公司还同步披露扩产或分红方案。 首华燃气 2026年上半年营业收入17.47亿元，同比增长30.52%；归母净利润1.87亿元，同比增长2131.55%。 首华燃气 主营业务为 天然气 业务，主要从事 天然气 的勘探、开发、生产、代输增压和销售。上半年，公司业绩变动原因主要系天然气产销量均保持高速增长，石楼西区块产建工作推进以及外购气量提升。 万凯新材 2026年上半年营业收入96.52亿元，同比增长17.52%；归母净利润5",
+     "source": "东方财富股票",
+     "zh": "A股业绩利好 密集发布"
+    },
+    {
+     "title": "美联储卡什卡利：国债市场仍在“正常运转”",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850411554.html",
+     "pubDate": "Sun, 23 Aug 2026 23:26:59 +0800",
+     "summary": "明尼阿波利斯联邦储备 银行 行长卡什卡利淡化市场对美国国债收益率上行的担忧，表示市场运行状况良好。卡什卡利称，当前国债收益率相较于近期历史水平处于高位，但上世纪90年代收益率曾显著更高。卡什卡利对通胀无法在短期内回落至目标水平表达担忧，但并未明确表态会在9月会议上主张加息。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储卡什卡利：国债市场仍在“正常运转”"
+    },
+    {
+     "title": "瑞士东部一建筑火灾致4人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850411443.html",
+     "pubDate": "Sun, 23 Aug 2026 23:26:59 +0800",
+     "summary": "瑞士警方23日表示，搜救人员在瑞士东部格劳宾登州图西斯火灾现场发现4名火灾失踪者遗体。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "瑞士东部一建筑火灾致4人死亡"
+    },
+    {
+     "title": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
+     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html",
+     "pubDate": "2026-08-23T15:25:23Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development"
+    },
+    {
      "title": "Nvidia to compete with US, Chinese AI models under $6B Poolside deal",
      "link": "https://seekingalpha.com/news/4636058-nvidia-compete-us-chinese-ai-models-under-6b-poolside-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 23 Aug 2026 11:05:59 -0400",
@@ -2224,14 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs In Focus"
-    },
-    {
-     "title": "Luxury auto CEOs say there's a K-shaped economy even at the very top of the market",
-     "link": "https://finance.yahoo.com/markets/article/luxury-auto-ceos-say-theres-a-k-shaped-economy-even-at-the-very-top-of-the-market-145500874.html",
-     "pubDate": "2026-08-23T14:55:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Luxury auto CEOs say there's a K-shaped economy even at the very top of the market"
     },
     {
      "title": "连开新店型，外资零售重温北京市场",
@@ -2280,14 +2384,6 @@ window.INDUSTRY_DATA = {
      "summary": "证券日报网讯 8月23日，长裕集团发布公告称，公司于2026年8月22日召开第二届董事会第八次会议，审议通过《关于公司2026年半年度报告及其摘要的议案》《关于〈2026年半年度募集资金存放、管理与实际使用情况的专项报告〉的议案》。 （编辑 王雪儿）",
      "source": "经济观察网",
      "zh": "长裕集团：第二届董事会第八次会议决议公告"
-    },
-    {
-     "title": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds",
-     "link": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
-     "pubDate": "2026-08-23T13:30:00Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds"
     },
     {
      "title": "Iran says it has discovered huge natural gas field",
@@ -2384,54 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "“The last adviser we worked with lost a significant portion of our portfolio.”",
      "source": "MarketWatch",
      "zh": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
-    },
-    {
-     "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
-     "link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 12:00:00 GMT",
-     "summary": "You can’t just sweep $40 trillion in U.S. national debt under a rug and forget about it — or so the bond market appears to be telling Treasury Secretary Scott Bessent.",
-     "source": "MarketWatch",
-     "zh": "The Treasury’s bond-market intervention isn’t working. So what comes next?"
-    },
-    {
-     "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
-     "link": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 12:00:00 GMT",
-     "summary": "Tweaking my finances, work and life as I go from the “go-go” years to the “slow-go” years.",
-     "source": "MarketWatch",
-     "zh": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement."
-    },
-    {
-     "title": "8月23日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202608233850358355.html",
-     "pubDate": "Sun, 23 Aug 2026 19:32:16 +0800",
-     "summary": "沪深两市多家上市公司8月23日晚间发布公司公告，以下为重要公告汇总。 【品大事】 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，",
-     "source": "东方财富资讯",
-     "zh": "8月23日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
-     "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
-     "link": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
-     "pubDate": "Sun, 23 Aug 2026 11:29:05 GMT",
-     "summary": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence.",
-     "source": "CNBC",
-     "zh": "Top Wall Street analysts believe in the growth potential of these 3 stocks"
-    },
-    {
-     "title": "Government can bring robotics to life",
-     "link": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
-     "pubDate": "Sun, 23 Aug 2026 11:15:07 GMT",
-     "summary": "Without policy, there are few incentives to automate business functions where labour costs are low",
-     "source": "Financial Times",
-     "zh": "Government can bring robotics to life"
-    },
-    {
-     "title": "Trump’s South Korea snub raises questions in the Asia-Pacific",
-     "link": "https://www.ft.com/content/22530c4a-65b7-49f7-890d-1c8900f63853?syn-25a6b1a6=1",
-     "pubDate": "Sun, 23 Aug 2026 11:00:07 GMT",
-     "summary": "Scaling back military exercises has undermined faith in America’s reliability",
-     "source": "Financial Times",
-     "zh": "Trump’s South Korea snub raises questions in the Asia-Pacific"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 18:52:51",
+ "generated_at": "2026/8/23 19:22:36",
  "recent_days": 7,
  "industries": [
   {
@@ -1746,6 +1746,86 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "诺亦腾机器人发布 HiPHI，开源 617.5 小时高精度人体运动数据",
+     "link": "https://www.ithome.com/0/993/258.htm",
+     "pubDate": "Sun, 23 Aug 2026 11:18:50 GMT",
+     "summary": "IT之家 8 月 23 日消息，诺亦腾机器人在 2026 世界机器人大会期间发布 HiPHI，这是一套面向人形机器人学习、数字人，以及计算机图形学领域研究人员和工程师的高精度光学动作捕捉数据集。 据报道， 该数据集总长 617.5 小时 ，内含 371.8 小时的全身人体运动数据，以及 245.7 小时的人 — 物交互数据，含左右镜像。数据源来自 132 名动捕演员，以 90 Hz 频率、亚毫米级光学动捕精度完成采集，并依据 FrameNet 对人类动作语义的组织框架，以动作单元进行结构化整理。 IT之家注意到， 该数据集目前已在 Hugging Face 平台公开上线 ，提供文档、论文等，基",
+     "source": "IT之家",
+     "zh": "诺亦腾机器人发布 HiPHI，开源 617.5 小时高精度人体运动数据"
+    },
+    {
+     "title": "Tims中国：成不了星巴克，也学不会瑞幸",
+     "link": "https://www.huxiu.com/article/4885293.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 19:08:23 +0800",
+     "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 不容乐观！ 连续两季度业绩下滑 Tims中国的情况越来越不妙。 一季度已经够惨，二季度还在往下探。连品牌新任CEO张国华都直言“令人失望”。 先看一季度，Tims天好中国营收2.57亿元，同比下降14.6%，净亏损为1.09亿元，同比扩大113.98%；系统销售额为3.23亿元，同比下降14.2%。 拆开来看，问题主要还是出在门店生意上。自营门店收入2.07亿元，同比下降18.7%；同店销售额同比下降12.4%，平均客单价同比下降7.5%，以及订单量同比下降11.2%。 到了二季度，这种压力进一步显现。Tims天好中国营收2.73亿元，同比下",
+     "source": "虎嗅",
+     "zh": "Tims中国：成不了星巴克，也学不会瑞幸"
+    },
+    {
+     "title": "迈威尔Marvell：“贴钱”结盟谷歌，能“撬动”博通墙角吗？",
+     "link": "https://www.huxiu.com/article/4885292.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 19:06:59 +0800",
+     "summary": "本文来自微信公众号： 海豚研究 ，作者：海豚君，原文标题：《迈威尔 Marvell：“贴钱”结盟谷歌，能“撬动”博通墙角吗？》 迈威尔科技Marvell宣布首次向谷歌发行认股权证直接拉动Marvell10%+的股价涨幅，而与此同时博通的股价出现了明显的下挫，反映了市场对迈威尔抢夺谷歌TPU订单的可能性。 这里，海豚君和大家一起来梳理下两者的协议方案及影响： 一、Marvell与谷歌的协议方案 首先来看，Marvell本次与谷歌签的具体方案：商业协议签署在2026年7月29日，权证发行日是2026年8月18日，行权价定在206.58美元/股（8/18的收盘价为216美元，折价4%左右）。 本次授",
+     "source": "虎嗅",
+     "zh": "迈威尔Marvell：“贴钱”结盟谷歌，能“撬动”博通墙角吗？"
+    },
+    {
+     "title": "What’s the Best Kindle of 2026? (So Far)",
+     "link": "https://www.wired.com/gallery/best-kindle/",
+     "pubDate": "Sun, 23 Aug 2026 11:03:00 +0000",
+     "summary": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
+     "source": "WIRED",
+     "zh": "What’s the Best Kindle of 2026? (So Far)"
+    },
+    {
+     "title": "“消失”的万亿债务",
+     "link": "https://www.huxiu.com/article/4885285.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 19:00:20 +0800",
+     "summary": "本文来自微信公众号： 硅谷101 ，作者：硅谷101，原文标题：《&ldquo;消失&rdquo;的万亿债务：深扒数据中心&ldquo;影子借贷&rdquo;、GPU金融化与次贷风险》，题图来自：视觉中国 1.65万亿美元，用100美元纸币首尾相连，可以绕地球赤道约64圈。这个数字，是如今美国五大数据中心的发债总额。而如今，这些负债，似乎离奇地&ldquo;消失&rdquo;了。 它们藏到哪里去了呢？国际清算银行给这种做法起了个名字：Shadow Borrowing （影子借贷） 。如今，被称为hyperscaler的大型云巨头们，正在用这样的手法，藏起天价债务数字，目的是让自己有一张更干净的",
+     "source": "虎嗅",
+     "zh": "“消失”的万亿债务"
+    },
+    {
+     "title": "Transistors Changed Everything. Here’s How They Work",
+     "link": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
+     "pubDate": "Sun, 23 Aug 2026 11:00:00 +0000",
+     "summary": "How a tiny little electronic switch sparked the computer revolution.",
+     "source": "WIRED",
+     "zh": "Transistors Changed Everything. Here’s How They Work"
+    },
+    {
+     "title": "你骂你的，它火它的：一部“粉丝定制剧”的生存逻辑",
+     "link": "https://www.huxiu.com/article/4885286.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 19:00:00 +0800",
+     "summary": "本文来自微信公众号： 骨朵网络影视 ，作者：GuDuo骨朵编辑部 开播前全网预约量突破140万的《我们的少年时代2》，你看了吗？ 开播初期，在抖音剧集角色粉丝投票榜上，八位剧中主角一度集体冲到榜单前面，粉圈内戏称“八人屠榜”。 但抛开粉丝投出的榜单，这部剧在抖音路人盘的风评可谓是“零口碑，纯解压”。“抽象喜剧”、“尴尬中二”、“认人比看剧难”等标签成为网友的主流评价。 不少网友认为此剧为了平衡所有主角的群像设定，剧情推进乏力，人物塑造过于单薄，甚至还被网友称作“剧版牛来”。可见粉丝的热情撑起了开局，却没能把路人拉进来。 九年前，同样是养成系团体上星剧的《我们的少年时代》能够实现大众向的跨圈层传",
+     "source": "虎嗅",
+     "zh": "你骂你的，它火它的：一部“粉丝定制剧”的生存逻辑"
+    },
+    {
+     "title": "因预约人数远超预期，《莱莎的炼金工房》衍生 AI 聊天游戏延期上线",
+     "link": "https://www.ithome.com/0/993/257.htm",
+     "pubDate": "Sun, 23 Aug 2026 10:56:46 GMT",
+     "summary": "IT之家 8 月 23 日消息，据日媒 4Gamers 报道，由光荣特库摩游戏授权、SpiralAI 开发的 AI 聊天游戏《RyzaChat:AI 与莱莎共同创造只属于你的盛夏梦幻故事》将延期上线。 据报道，本作原定 8 月 18 日上线， 但由于预约人数远超预期 ，官方决定加强服务器环境，以便玩家能够在稳定的环境中体验游戏。 官方强调，开发团队为了按照原计划上线，直到原定开服前最后一刻还在调整。 但评估当前服务器环境后 ， 决定调整上线日期 。开发人员当前的目标是确保下周开服，具体日期日后公布。 据IT之家了解，本作的剧情世界观将以《莱莎的炼金工房 ～常暗女王与秘密藏身处～》为基础。游戏玩",
+     "source": "IT之家",
+     "zh": "因预约人数远超预期，《莱莎的炼金工房》衍生 AI 聊天游戏延期上线"
+    },
+    {
+     "title": "阿里开始卖股票了",
+     "link": "https://www.huxiu.com/article/4885290.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 18:56:44 +0800",
+     "summary": "本文来自微信公众号： 涌流商业 ，作者：李伟 两年前，阿里巴巴面对的一个问题是，手里的钱应该怎么回馈给股东们。 2024财年，阿里产生了216亿美元自由现金流。那一年，它花掉125亿美元来回购自家股票。 那年，蔡崇信和吴泳铭在股东信里专门解释了这笔账。管理层配置现金，在返还股东和继续投入业务之间做了选择；全年回购使流通股净减少5.1%。同时，管理层也留下了一句活话，未来仍会把钱投入核心业务增长和AI。 接下来一个财年，阿里又用了119亿美元回购股票，再次净减少5.1%的流通股。两个财年合计回购了244亿美元。 到了今天（2026年8月23日），公司的动作彻底调转了方向。连续两个财年大笔买回自家",
+     "source": "虎嗅",
+     "zh": "阿里开始卖股票了"
+    },
+    {
+     "title": "Xbox 技术总监：我们支持保护知识产权，正与 Take-Two 和 R 星密切合作",
+     "link": "https://www.ithome.com/0/993/256.htm",
+     "pubDate": "Sun, 23 Aug 2026 10:54:49 GMT",
+     "summary": "IT之家 8 月 23 日消息，《侠盗猎车手 6》开发商 Rockstar 和发行商 Take-Two Interactive 最近都遇上了麻烦：本周早些时候开始，大批游戏实机内容突遭泄露，不仅曝光完整的莱昂尼达地图，还出现了疑似已经接近最终版本的实机画面。 网名 Cyberleek 的泄密者又放出更多内容，暗示自己手中可能有可以直接游玩的游戏版本。对于已经进入发售前最后几个月的 R 星和 Take-Two 来说，无疑是最不愿看到的局面。 据IT之家了解，Cyberleek 还威胁 Take-Two，如果公司不放弃目前只推出数字版的计划，改为发行《GTA 6》实体光盘，就会继续公开更多泄露内容",
+     "source": "IT之家",
+     "zh": "Xbox 技术总监：我们支持保护知识产权，正与 Take-Two 和 R 星密切合作"
+    },
+    {
      "title": "广汽埃安 N60 曜夜型格运动套装上市：价值 6666 元，限时免费送",
      "link": "https://www.ithome.com/0/993/255.htm",
      "pubDate": "Sun, 23 Aug 2026 10:47:21 GMT",
@@ -1786,66 +1866,18 @@ window.INDUSTRY_DATA = {
      "zh": "科隆游戏展总监：《GTA 6》就像是行业的北极星"
     },
     {
-     "title": "顺丰升级“城市迷你仓 2.0”：可远程完成物品存取、寄递，并在广州启动移动仓试点",
-     "link": "https://www.ithome.com/0/993/251.htm",
-     "pubDate": "Sun, 23 Aug 2026 10:22:14 GMT",
-     "summary": "IT之家 8 月 23 日消息，今年 4 月， 顺丰在广州推出“城市迷你仓”服务 ，主要面向个人和企业提供自助仓储选择。仓型覆盖 0.7 立方米到 45 立方米，最小单位支持 15 天起租，支持全天 24 小时自助存取，同时可无缝对接客户的出入库及配送需求。 顺丰官方本周宣布，城市迷你仓服务迭代升级，2.0 版本正式落地。此前传统迷你仓仅提供存储功能，物品入库、取回、寄递均需用户自行处理。升级后的顺丰城市迷你仓 2.0 让用户可以 远程完成物品存取、寄递操作 。 据介绍，用户可直接在小程序里下单，选择顺丰快递产品，顺丰小哥可根据用户需求上门揽收、代办入库存放，如果物品需要取用或外寄时，同样可线",
-     "source": "IT之家",
-     "zh": "顺丰升级“城市迷你仓 2.0”：可远程完成物品存取、寄递，并在广州启动移动仓试点"
-    },
-    {
-     "title": "“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险",
-     "link": "https://www.huxiu.com/article/4885285.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 18:18:20 +0800",
-     "summary": "本文来自微信公众号： 硅谷101 ，作者：硅谷101 1.65万亿美元，用100美元纸币首尾相连，可以绕地球赤道约64圈。这个数字，是如今美国五大数据中心的发债总额。而如今，这些负债，似乎离奇地“消失”了。 它们藏到哪里去了呢？国际清算银行给这种做法起了个名字：Shadow Borrowing（影子借贷）。如今，被称为hyperscaler的大型云巨头们，正在用这样的手法，藏起天价债务数字，目的是让自己有一张更干净的资产负债表。 这篇文章我们就来聊聊，AI数据中心背后的债务账。 我们仔细翻阅了大型数据中心的各类申报文件，找出了至少五种不同的藏债手法。巨头们究竟是怎么让这些债务“消失”的？谁是这",
-     "source": "虎嗅",
-     "zh": "“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险"
-    },
-    {
-     "title": "没落的批发市场，“曾经百万的转让费，再也回不去了”",
-     "link": "https://www.huxiu.com/article/4885284.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 18:06:57 +0800",
-     "summary": "本文来自微信公众号： 新经销 ，作者：周群 近段时间，我集中走访了全国多座核心批发市场。从长沙高桥，到郑州百荣，再到合肥、临沂等地的大型批发市场，不同区域的市场呈现出的冷暖程度并不完全相同。 但走下来，一个感受越来越强烈，批发市场曾经的繁华，正在退去。 “一年比一年差。这个市场高峰期，一个位置较好的铺面，除了押金和逐年上涨的租金，仅仅转让合同，就能额外收取约200万元。现在转让费不要，都没人愿意接盘。”某知名批发市场的经销商告诉我。 另一位经销商告诉我，“生意最好的时候，客户需要先开户，批发一个单品低于五箱，甚至不愿意卖。现在要主动出去找客户，账期、价格、售后一样少不了。” “现在我们这个市场",
-     "source": "虎嗅",
-     "zh": "没落的批发市场，“曾经百万的转让费，再也回不去了”"
-    },
-    {
-     "title": "全球首款电容式全身电子皮肤发布，为仿生机器人提供类人全身触觉感知与智能交互能力",
-     "link": "https://www.ithome.com/0/993/250.htm",
-     "pubDate": "Sun, 23 Aug 2026 10:01:35 GMT",
-     "summary": "IT之家 8 月 23 日消息，在 2026 世界机器人大会期间，汉威科技与卓益得联合发布全球首款电容式全身电子皮肤，为仿生机器人提供类人全身触觉感知与智能交互能力。 官方表示，目前机器人触觉感知方案主要集中在灵巧手的指尖、指腹、手掌等部位， 尚缺乏覆盖全身肢体的触觉感知方案 。 IT之家获悉，这款全身电子皮肤以电容式柔性敏感织物为基底，通过双层织物结构将大面积压力阵列传感器与服装集成，具有抗干扰、高精度等特点， 实现了 0.1N 级灵敏度与毫秒级响应 。 这款电子皮肤选用银色科技感面料配哑光拼接，采用流线型立体剪裁；服装式设计便于穿脱维护，还可以让仿生机器人走、跑、招手等肢体动作自然灵动。 ",
-     "source": "IT之家",
-     "zh": "全球首款电容式全身电子皮肤发布，为仿生机器人提供类人全身触觉感知与智能交互能力"
-    },
-    {
-     "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
-     "link": "https://www.ithome.com/0/993/248.htm",
-     "pubDate": "Sun, 23 Aug 2026 10:01:14 GMT",
-     "summary": "IT之家 8 月 23 日消息，据新华网报道，橡鹿机器人今日在 2026 世界机器人大会全球首发三款新品：多模态烹饪 AI 基座 CookingMuse 厨启、3K 视觉 AI 炒菜机器人和具身烹饪机器人“现炒方舟”。 IT之家从原报道获悉，3K 是一款融合了 AI 视觉与烹饪智脑的智能 AI 炒菜机器人， 它拥有三颗 4000 万像素全局快门工业相机 ，以 30 FPS 的帧率捕捉锅内画面，再交由百万级菜品数据训练的 AI 大模型实时判断食材状态，让 AI 能够“看到”锅里的变化，并依此自主决策。 同时，这款机器人能够将出品管控从“事后”提前到“事中”，提升餐饮品牌的后厨运营效率。解决过去炒",
-     "source": "IT之家",
-     "zh": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品"
-    },
-    {
-     "title": "日租60元，被索赔10万，全季起诉小旅馆，老板苦言：大公司就不能先发个律师函吗？",
-     "link": "https://www.huxiu.com/article/4885282.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 17:53:17 +0800",
-     "summary": "本文来自微信公众号： 新浪财经 ，作者：徐苑蕾，原文标题：《日租60元，被索赔10万！全季起诉小旅馆，老板苦言：大公司就不能先发个律师函吗？》 近日，河北正定一家名为“金季酒店”的旅馆，因店名与酒店巨头华住集团旗下的全季酒店仅一字之差，被全季酒店关联公司汉庭星空（上海）酒店管理有限公司（以下简称“汉庭星空”）以侵害商标权及不正当竞争为由告上法庭，索赔10万元。 案件原定8月24日开庭，不过据媒体最新报道，8月21日双方经法院调解初步达成和解。金季酒店老板娘赵女士告诉《BUG》栏目，调解中双方都有让步，整个过程尚算顺利，具体赔偿金额不便透露，仅表示“比原本的10万元减少超过一半”。 谈及下一步计",
-     "source": "虎嗅",
-     "zh": "日租60元，被索赔10万，全季起诉小旅馆，老板苦言：大公司就不能先发个律师函吗？"
-    },
-    {
-     "title": "张丹丹在学术上是扶不起的，不要再强行挽尊了",
-     "link": "https://www.huxiu.com/article/4885277.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 17:50:49 +0800",
-     "summary": "本文来自微信公众号： 太阳照常升起 ，作者：慕峰，题图来自：视觉中国 不明白为什么今天出现不少替张丹丹强行挽尊的文章。一是讲张丹丹口中的&ldquo;福利&rdquo;是经济学上的welfare，不是老百姓理解的&ldquo;好处&rdquo;，一句话，&ldquo;你们比我们更没文化&rdquo;。二是讲，张丹丹做的很多研究都是站在底层考虑的，尤其是对外卖员研究很深入，提出很多对他们有利的政策建议。 第一，灵活在什么时候能够成为&ldquo;福利&rdquo;呢？ 作者讲的北大教授及其专家朋友肯定看不上，毕竟张丹丹自己主页的主要论文都是发表在英文期刊的，那作者就引用一下海外学者们关于灵活用工",
-     "source": "虎嗅",
-     "zh": "张丹丹在学术上是扶不起的，不要再强行挽尊了"
+     "title": "Canada now 'at war' with United States over trade, Prime Minister says",
+     "link": "https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/",
+     "pubDate": "Sun, 23 Aug 2026 09:58:22 +0000",
+     "summary": "Article URL: https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/ Comments URL: https://news.ycombinator.com/item?id=49407477 Points: 11 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Canada now 'at war' with United States over trade, Prime Minister says"
     },
     {
      "title": "The Sloppification of Peptides",
      "link": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
      "pubDate": "Sun, 23 Aug 2026 09:32:54 +0000",
-     "summary": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 10 # Comments: 0",
+     "summary": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 24 # Comments: 0",
      "source": "Hacker News",
      "zh": "The Sloppification of Peptides"
     },
@@ -1861,17 +1893,9 @@ window.INDUSTRY_DATA = {
      "title": "Doomscrolling at work wastes time, but the real cost is what happens after",
      "link": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/",
      "pubDate": "Sun, 23 Aug 2026 09:26:55 +0000",
-     "summary": "Article URL: https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/ Comments URL: https://news.ycombinator.com/item?id=49407305 Points: 10 # Comments: 2",
+     "summary": "Article URL: https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/ Comments URL: https://news.ycombinator.com/item?id=49407305 Points: 14 # Comments: 7",
      "source": "Hacker News",
      "zh": "Doomscrolling at work wastes time, but the real cost is what happens after"
-    },
-    {
-     "title": "年轻人的网络社交，正在偷偷“鸽化”",
-     "link": "https://www.huxiu.com/article/4885275.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 17:10:53 +0800",
-     "summary": "本文来自微信公众号： 极客公园 ，作者：宇航猿，编辑：靖宇，原文标题：《年轻人的网络社交，正在偷偷「鸽化」》 把「等待」，变成期待。 「从前的日色变得慢，车，马，邮件都慢。」 作家木心的小诗「车马慢」，到现在还是不少年轻人的微信签名。对于长在移动互联网中的年轻原住民来说，前互联网是时代的「慢」，不是不便，而是一种「怀古」的浪漫。 这也怪不了他们，微信等即时通信工具上，消息不仅是实时发送的，你甚至能在屏幕上看到「对方正在输入」的字样——一切都太快了。 当这种过快的互联网速度正在透支人们的精力时，反抗就出现了。 试想这样一个场景： 你发了一条消息。屏幕上没有「对方正在输入」，取而代之的是一只鸽子，",
-     "source": "虎嗅",
-     "zh": "年轻人的网络社交，正在偷偷“鸽化”"
     },
     {
      "title": "Is Expensive Bottled Water Actually Better for You?",
@@ -1941,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
      "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
      "pubDate": "Sun, 23 Aug 2026 06:41:51 +0000",
-     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 107 # Comments: 86",
+     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 118 # Comments: 90",
      "source": "Hacker News",
      "zh": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed"
     },
@@ -1949,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "JIT Compiling Code in 5μs",
      "link": "https://malisper.me/jit-compiling-code-in-5-us/",
      "pubDate": "Sun, 23 Aug 2026 06:04:51 +0000",
-     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 71 # Comments: 32",
+     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 76 # Comments: 38",
      "source": "Hacker News",
      "zh": "JIT Compiling Code in 5μs"
     },
@@ -1957,33 +1981,9 @@ window.INDUSTRY_DATA = {
      "title": "The End of an Athlon",
      "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
      "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
-     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 99 # Comments: 25",
+     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 108 # Comments: 30",
      "source": "Hacker News",
      "zh": "The End of an Athlon"
-    },
-    {
-     "title": "Fast and Hard Code",
-     "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-     "pubDate": "Sun, 23 Aug 2026 05:39:06 +0000",
-     "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 34 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Fast and Hard Code"
-    },
-    {
-     "title": "The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course (Financial Times)",
-     "link": "https://www.techmeme.com/260823/p3#a260823p3",
-     "pubDate": "Sun, 23 Aug 2026 01:30:01 -0400",
-     "summary": "Financial Times : The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course &nbsp; &mdash;&nbsp; Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during marke",
-     "source": "Techmeme",
-     "zh": "The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course (Financial Times)"
-    },
-    {
-     "title": "Sources: Flipkart Minutes, the quick commerce service of Walmart&apos;s Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 (Jagmeet Singh/TechCrunch)",
-     "link": "https://www.techmeme.com/260823/p2#a260823p2",
-     "pubDate": "Sun, 23 Aug 2026 01:20:02 -0400",
-     "summary": "Jagmeet Singh / TechCrunch : Sources: Flipkart Minutes, the quick commerce service of Walmart's Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 &nbsp; &mdash;&nbsp; Indian startups spent years getting consumers accustomed to having groceries and everyday goo",
-     "source": "Techmeme",
-     "zh": "Sources: Flipkart Minutes, the quick commerce service of Walmart&apos;s Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 (Jagmeet Singh/TechCrunch)"
     }
    ]
   },
@@ -2242,28 +2242,132 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "重庆动物园小熊猫“添丁”14只 每天两个时段可看幼崽",
-     "link": "http://www.eeo.com.cn/2026/0823/1008876.shtml",
-     "pubDate": "Sun, 23 Aug 2026 18:13:14 +0800",
-     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/6AC61AEAB5D40A4DA31478C23AF9E173.jpg\" alt=\"饲养员对大熊猫馆进行清扫保洁。第1眼TV-华龙网记者 李舒 摄\" data-title=\"饲养员对大熊猫馆进行清扫保洁。第1眼TV-华龙网记者 李舒 摄\" data-target=\"2091421297478406145\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/ORIGINAL/MEDIA/PICTU",
+     "title": "捷达电动化战略落地：首款纯电车型捷达M6开启盲订",
+     "link": "http://www.eeo.com.cn/2026/0823/1008944.shtml",
+     "pubDate": "Sun, 23 Aug 2026 19:13:20 +0800",
+     "summary": "据介绍，捷达M6定位为“超舒适AI纯电大家轿”，面向注重品质与实用性的家庭用户。与市面上其他竞品相比，捷达M6的比较优势在于“德系精工+中国科技”。",
      "source": "经济观察网",
-     "zh": "重庆动物园小熊猫“添丁”14只 每天两个时段可看幼崽"
+     "zh": "捷达电动化战略落地：首款纯电车型捷达M6开启盲订"
     },
     {
-     "title": "理奇智能：第一届董事会第十九次会议决议公告",
-     "link": "http://www.eeo.com.cn/2026/0823/1008843.shtml",
-     "pubDate": "Sun, 23 Aug 2026 17:26:22 +0800",
-     "summary": "证券日报网讯 8月23日，理奇智能发布公告称，公司第一届董事会第十九次会议审议通过《关于〈2026年半年度报告〉全文及其摘要的议案》《关于〈2026年半年度募集资金存放、管理与使用情况的专项报告〉的议案》《关于2026年半年度利润分配预案的议案》等多项议案。 （编辑 王雪儿）",
+     "title": "韩杰案：一个孩子离世，一个医生入狱，韩杰是谁？",
+     "link": "http://www.eeo.com.cn/2026/0823/1008943.shtml",
+     "pubDate": "Sun, 23 Aug 2026 19:13:09 +0800",
+     "summary": "2025年11月17日，抚州市临川区人民法院一审判决韩杰犯医疗事故罪，判处有期徒刑一年；2026年5月28日，抚州市中级人民法院二审维持原判。这一“江西抚州韩杰医生医疗事故罪案”引发广泛关注。 围绕这一事件背后涉及的法律责任认定、儿科医生执业困境以及医疗风险保障等问题，三位嘉宾进行深度探讨。 他们分别是：南方财经全媒体集团岭南大医生首席产品官、医疗行业资深研究员宋鹏；南方财经全媒体集团粤港澳金融工作...",
      "source": "经济观察网",
-     "zh": "理奇智能：第一届董事会第十九次会议决议公告"
+     "zh": "韩杰案：一个孩子离世，一个医生入狱，韩杰是谁？"
     },
     {
-     "title": "南华生物：第十二届董事会第十一次会议决议公告",
-     "link": "http://www.eeo.com.cn/2026/0823/1008842.shtml",
-     "pubDate": "Sun, 23 Aug 2026 17:26:16 +0800",
-     "summary": "证券日报网讯 8月23日，南华生物发布公告称，公司第十二届董事会第十一次会议审议通过《关于公司〈2026年半年度报告〉及其摘要的议案》《关于修订〈投资者关系管理制度〉的议案》《关于修订〈董事、高级管理人员所持本公司股份及其变动管理制度〉的议案》等多项议案。 （编辑 王雪儿）",
+     "title": "韩杰案：没有尸检报告，能否认定医疗事故罪？",
+     "link": "http://www.eeo.com.cn/2026/0823/1008942.shtml",
+     "pubDate": "Sun, 23 Aug 2026 19:13:08 +0800",
+     "summary": "宋鹏 你从法律上来说，怎么看这个事儿？就是我还是没搞清楚他为什么要入刑。 程时春 据我所知，法院的所有判决，以及检察院、公安局办案所依据的，都是那一份（尸检）鉴定。 首先在民事案件中，通常做法是原告（也就是患者家属）拿出一份初步鉴定报告来起诉。至于为什么会有第二份报告，实际上是因为被告方或者法院不同意第一份鉴定报告，要求法院指定鉴定机构，所以第二份鉴定报告应该就是法院指定的...",
      "source": "经济观察网",
-     "zh": "南华生物：第十二届董事会第十一次会议决议公告"
+     "zh": "韩杰案：没有尸检报告，能否认定医疗事故罪？"
+    },
+    {
+     "title": "韩杰案：医疗纠纷，医生买单？",
+     "link": "http://www.eeo.com.cn/2026/0823/1008941.shtml",
+     "pubDate": "Sun, 23 Aug 2026 19:13:05 +0800",
+     "summary": "宋鹏 好，其实今天我们看起来是三个人在这里聊这件事，实际上还有一个人在场外，他这个场外是确实比较外，他交给我两张纸，他说他对于这件事情是希望能做到什么呢？就是说分层处置，调解优先，就是准确地来区分一般医疗风险、医疗过错、医疗损害与医疗犯罪。不应该轻易将本可通过民事赔偿、行政处理和专业调解解决的纠纷上升为刑事案件，这个很明显就是来自一个医生的诉求。 程律师 实际上，全国医疗事故罪的...",
+     "source": "经济观察网",
+     "zh": "韩杰案：医疗纠纷，医生买单？"
+    },
+    {
+     "title": "全新深蓝G318上市，提供华为乾崑、天枢领航两套智驾系统",
+     "link": "http://www.eeo.com.cn/2026/0823/1008940.shtml",
+     "pubDate": "Sun, 23 Aug 2026 19:13:00 +0800",
+     "summary": "全新深蓝G318主要面向家庭用户打造，其认为“SUV的终极形态之一是方盒子”，但方盒子不是单一的越野工具，实际上大多数用户90%的时间都是在城市中代步，只有10%户外越野的需求。",
+     "source": "经济观察网",
+     "zh": "全新深蓝G318上市，提供华为乾崑、天枢领航两套智驾系统"
+    },
+    {
+     "title": "【调研快报】天赐材料接待Bloomberg Intelligence Research等90家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202608233850340969.html",
+     "pubDate": "Sun, 23 Aug 2026 19:10:28 +0800",
+     "summary": "天赐材料 8月22日公告称， 8月21日 接待Bloomberg Intelligence Research 等90家机构 调研。 接待人员包括董事长 徐金富,财务总监 顾斌,董事会秘书 韩恒,高级投关经理 杨凌杰。 公司就以下问题进行了回复： 本次交流会议分为两个部分,第一部分是公司对2026年半年度业绩做简要介绍;第二部分为问答环节。 一、2026年半年度经营情况介绍 根据公司2026年半年度报告,2026上半年度公司实现营业收入147.09亿元,同比增长109.28%,实现归属于上市公司股东的净利润28.6亿元,同比增长9... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，",
+     "source": "东方财富股票",
+     "zh": "【调研快报】天赐材料接待Bloomberg Intelligence Research等90家机构调研"
+    },
+    {
+     "title": "伊朗部长：伊朗在法尔斯省南部的油田发现了超过7.5万亿立方英尺的天然气",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850341050.html",
+     "pubDate": "Sun, 23 Aug 2026 19:10:00 +0800",
+     "summary": "据伊朗方面消息，伊朗部长表示，伊朗在法尔斯省南部的油田发现了超过7.5万亿立方英尺的 天然气 。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "伊朗部长：伊朗在法尔斯省南部的油田发现了超过7.5万亿立方英尺的天然气"
+    },
+    {
+     "title": "慧谷新材：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期）",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850338778.html",
+     "pubDate": "Sun, 23 Aug 2026 19:03:10 +0800",
+     "summary": "慧谷新材 (301683)公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "慧谷新材：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期）"
+    },
+    {
+     "title": "自然资源部与中国气象局8月23日18时联合发布橙色地质灾害气象风险预警",
+     "link": "http://finance.eastmoney.com/news/11790,202608233850339430.html",
+     "pubDate": "Sun, 23 Aug 2026 19:02:50 +0800",
+     "summary": "自然资源部与中国气象局8月23日18时联合发布橙色地质灾害气象风险预警：预计，8月23日20时至24日20时，辽宁东部、吉林南部、浙江东南部、福建东部、广西南部、云南西部等地部分地区发生地质灾害的气象风险较高（黄色预警），其中，浙江东南部局地发生地质灾害的气象风险高（橙色预警）。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "自然资源部与中国气象局8月23日18时联合发布橙色地质灾害气象风险预警"
+    },
+    {
+     "title": "Trump’s South Korea snub raises questions in the Asia-Pacific",
+     "link": "https://www.ft.com/content/22530c4a-65b7-49f7-890d-1c8900f63853?syn-25a6b1a6=1",
+     "pubDate": "Sun, 23 Aug 2026 11:00:07 GMT",
+     "summary": "Scaling back military exercises has undermined faith in America’s reliability",
+     "source": "Financial Times",
+     "zh": "Trump’s South Korea snub raises questions in the Asia-Pacific"
+    },
+    {
+     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 11:00:00 GMT",
+     "summary": "“The cost is absolutely ridiculous.”",
+     "source": "MarketWatch",
+     "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+    },
+    {
+     "title": "魏牌V8X/V9X亮相成都车展 ，以全栈自研与极端实测锚定高端市场",
+     "link": "http://www.eeo.com.cn/2026/0823/1008929.shtml",
+     "pubDate": "Sun, 23 Aug 2026 18:57:29 +0800",
+     "summary": "在当前新能源行业营销战、参数战白热化的背景下，魏牌强调回归品质底线，依托长城汽车36年制造积淀，以全栈自研和实测验证构建差异化竞争力。",
+     "source": "经济观察网",
+     "zh": "魏牌V8X/V9X亮相成都车展 ，以全栈自研与极端实测锚定高端市场"
+    },
+    {
+     "title": "英伟达财报“万众瞩目”：Rubin周期、循环融资与远期市场份额",
+     "link": "https://wallstreetcn.com/articles/3780083",
+     "pubDate": "Sun, 23 Aug 2026 18:56:46 +0800",
+     "summary": "英伟达下周将公布截至7月的季度财报。按照过往几个季度的节奏，市场对“业绩超预期、指引上调”已经并不陌生，真正决定股价弹性的是三个更长期的问题： Rubin能否顺利接棒Blackwell、AI需求是否仍显著大于供给，以及英伟达为锁定未来需求需要承担多大的融资和资产负债表责任。 从券商预期看，基本面仍然强劲。追风交易台消息，本周Jefferies发布前瞻报告，预计英伟达7月季度收入将达到950亿美元，高于市场一致预期的约919亿美元；10月季度收入指引有望达到1080亿美元，也高于市场预期的约1037亿美元。 摩根士丹利的报告则相对保守，预计7月季度收入约912亿美元、10月季度约1023亿美元，",
+     "source": "华尔街见闻",
+     "zh": "英伟达财报“万众瞩目”：Rubin周期、循环融资与远期市场份额"
+    },
+    {
+     "title": "2026年暑期档总票房破115亿元",
+     "link": "http://finance.eastmoney.com/news/1348,202608233850333768.html",
+     "pubDate": "Sun, 23 Aug 2026 18:49:57 +0800",
+     "summary": "8月23日，据网络平台数据，截至目前，2026年暑期档电影票房（含预售）突破115亿元。2026年度电影总票房（含预售）突破271亿元。 （文章来源：央视财经）",
+     "source": "东方财富股票",
+     "zh": "2026年暑期档总票房破115亿元"
+    },
+    {
+     "title": "超20家A股上市公司本周披露并购重组最新公告 中南文化拟收购江阴热电及苏龙热电股权并复牌",
+     "link": "http://finance.eastmoney.com/news/1349,202608233850324543.html",
+     "pubDate": "Sun, 23 Aug 2026 18:30:39 +0800",
+     "summary": "据不完全统计，截至发稿，本周（8月17日-8月23日）包括 中南文化 、 泽宇智能 、 阿莱德 、 信濠光电 、 博杰股份 、 中英科技 、 宁沪高速 、 厦门钨业 、 键邦股份 、 敏芯股份 、 金杯汽车 、 国药现代 、 国电电力 、 兴业银锡 、 新里程 、 罗普斯金 、 瑞丰高材 、 骏成科技 、 四环生物 、 众生药业 、 石化油服 在内的21家A股上市公司披露并购重组进展最新公告。其中， 中南文化 公告，拟收购江阴热电及苏龙热电股权，股票将于8月24日复牌。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "超20家A股上市公司本周披露并购重组最新公告 中南文化拟收购江阴热电及苏龙热电股权并复牌"
+    },
+    {
+     "title": "十大机构论市：本轮政策底已逐步显现 继续关注三方面配置机会",
+     "link": "http://finance.eastmoney.com/news/1345,202608233850315812.html",
+     "pubDate": "Sun, 23 Aug 2026 17:35:30 +0800",
+     "summary": "本周沪指下跌0.56%，深证成指下跌1.81%，创业板指下跌2.23%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 开源策略：A股风险偏好受到扰动 再平衡仍是主旋律 继续重点推荐小微盘 本周创业板、科创50单日调整均超过6%，价格层面的风险已经快速释放，但筹码调整仍需时间。后续市场更可能进入反复震荡、逐步完成筹码交换的阶段，短期反弹仍可以积极参与，但在交易集中度明显下降以前，反弹的空间和持续性不宜给出过高预期。拥挤消化过程中，再平衡仍然是当前最重要的市场结构，继续重点推荐中证2000和万得 微盘股 。行业层面，继续关注有色、 基础化工 、 新能源 、农业、医药，以及造",
+     "source": "东方财富资讯",
+     "zh": "十大机构论市：本轮政策底已逐步显现 继续关注三方面配置机会"
     },
     {
      "title": "免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？",
@@ -2288,30 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI lab’s Fable 5 has met with sluggish demand from corporate clients",
      "source": "Financial Times",
      "zh": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive"
-    },
-    {
-     "title": "​国内金价直逼千元，深圳水贝买卖两旺！每经记者实探：有人一单买走一斤多，白银也卖疯了",
-     "link": "http://www.eeo.com.cn/2026/0823/1008739.shtml",
-     "pubDate": "Sun, 23 Aug 2026 16:13:23 +0800",
-     "summary": "每经记者｜赵景致每经编辑｜廖丹 在经历数月震荡后，金价近期明显上涨。 上海黄金交易所显示，8月21日上海金午盘价已经涨至984.86元/克，再次接近千元。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/0AFE5BE6E1A267A849218DCEA1CA18BE.jpg\" data-imgwidth=\"1307\" data-imgheight=\"814\" data-imgscale=\"1....",
-     "source": "经济观察网",
-     "zh": "​国内金价直逼千元，深圳水贝买卖两旺！每经记者实探：有人一单买走一斤多，白银也卖疯了"
-    },
-    {
-     "title": "贵州回程中老班列实现“铁路快通”模式",
-     "link": "http://www.eeo.com.cn/2026/0823/1008738.shtml",
-     "pubDate": "Sun, 23 Aug 2026 16:13:14 +0800",
-     "summary": "新华财经贵阳8月23日电（记者肖艳）23日上午，贵州首列采用“保税物流+铁路快通”新模式的回程中老班列顺利抵达贵阳国际陆港，该班列共装载40个标准集装箱、1100吨进口钾肥，从老挝万象南站出发，用时5天直达贵阳，贵州回程中老班列正式实现“铁路快通”模式。 <img id=\"image1smt5h2zyd1i4nrkv1ssojqj15q9y95\" title=\"516338924046823425.jpg\" src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpeg...",
-     "source": "经济观察网",
-     "zh": "贵州回程中老班列实现“铁路快通”模式"
-    },
-    {
-     "title": "【财经分析】加美贸易谈判为何谈崩了",
-     "link": "http://www.eeo.com.cn/2026/0823/1008737.shtml",
-     "pubDate": "Sun, 23 Aug 2026 16:13:12 +0800",
-     "summary": "新华财经渥太华8月23日电（记者林威）加拿大总理卡尼21日深夜发表声明，宣布即刻暂停与美国的贸易谈判，召回加拿大谈判代表团，并于22日发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划将于9月8日正式生效执行。 加美贸易谈判为何在最后一刻谈崩？加拿大政府如何对美进行反制？双方近期还可能重开谈判吗？ <p...",
-     "source": "经济观察网",
-     "zh": "【财经分析】加美贸易谈判为何谈崩了"
     },
     {
      "title": "SemiAnalysis：闪存制造正“由钨转钼”",
@@ -2346,6 +2426,14 @@ window.INDUSTRY_DATA = {
      "zh": "七年来首次配售新股！阿里800亿港元配股获超额认购，将全部投入AI建设"
     },
     {
+     "title": "周末要闻汇总：国常会再做部署 适度超前统筹推进新一代通信网建设",
+     "link": "http://finance.eastmoney.com/news/1345,202608233850265497.html",
+     "pubDate": "Sun, 23 Aug 2026 13:27:39 +0800",
+     "summary": "本周末影响市场的重要资讯有： 国务院常务会议要求，适度超前统筹推进新一代 通信 网建设；人民日报评“甲醛白菜”：性质恶劣，荒唐至极；信用卡分期贴息提额扩围，六大行集体落地，一年最高省5000元；美债救市升级，特朗普放狠话：必要时动用军队；加拿大宣布“全额对等报复”美国新关税；长存控股IPO获受理，公司拟融资330亿元； 英伟达 搭载 人工智能 芯片的服务器价格将上涨超15%；1361亿项目集中签约，万亿算力赛道迎来重磅驱动；世界人形 机器人 运动会开幕，100米9秒39打破人类纪录；我国牵头 固态电池 首项国际标准正式立项；阿里拟配售800亿港元新股，全部投入AI建设；DeepSeek调整峰谷",
+     "source": "东方财富资讯",
+     "zh": "周末要闻汇总：国常会再做部署 适度超前统筹推进新一代通信网建设"
+    },
+    {
      "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
      "link": "https://wallstreetcn.com/articles/3780052",
      "pubDate": "Sun, 23 Aug 2026 13:18:34 +0800",
@@ -2362,28 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "Are America’s vast Gulf bases worth rebuilding?"
     },
     {
-     "title": "Why is the far right so obsessed with knights?",
-     "link": "https://www.ft.com/content/ef65c99c-b58c-430c-b6be-8036f042cc1e",
-     "pubDate": "Sun, 23 Aug 2026 04:00:15 GMT",
-     "summary": "Medieval military monks have become a regular sight at political rallies and marches",
-     "source": "Financial Times",
-     "zh": "Why is the far right so obsessed with knights?"
-    },
-    {
      "title": "Europe can do better than US-style air conditioning",
      "link": "https://www.ft.com/content/fe9be519-ceae-4279-83b1-220f9505d6a9",
      "pubDate": "Sun, 23 Aug 2026 04:00:08 GMT",
      "summary": "The instinct is to bolt a dripping box to every building but there is a smarter, cooler way",
      "source": "Financial Times",
      "zh": "Europe can do better than US-style air conditioning"
-    },
-    {
-     "title": "7月再现！高盛：存储“股价业绩差”最具吸引力，金融和硬资产成为新热点",
-     "link": "https://wallstreetcn.com/articles/3780070",
-     "pubDate": "Sun, 23 Aug 2026 11:24:18 +0800",
-     "summary": "高盛警告，AI动能裂痕已现，投资者需高度警惕股价与每股盈利之间不断扩大的估值缺口。与此同时，资金开始向此前被忽视的领域流动，欧日银行股、黄金矿商和铜矿股等硬资产标的正逐步成为新的市场热点。 本周的走势被高盛交易员Natasha Tiwana定性为典型的\"去杠杆化行情\"，其烈度令此前相信7月抛售已成历史的市场措手不及。 高盛高贝塔动量组合（GSPRHIMO）本周下跌12%，其AI对冲组合五日跌幅达10%。 高盛指出，本轮动量策略的崩解与7月的底层逻辑高度一致。尽管AI板块的杠杆水平已从极端高位有所回落，但市场的惯性资金仍在驱动无差别且快速的“逢低买入”行为。 高盛认为，当前的仓位出清叠加依然强劲",
-     "source": "华尔街见闻",
-     "zh": "7月再现！高盛：存储“股价业绩差”最具吸引力，金融和硬资产成为新热点"
     },
     {
      "title": "Venezuela hits roadblock in exporting more oil, as ports can't keep up with demand - report",
@@ -2408,78 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA Asks: What are the most promising oncology companies right now?"
-    },
-    {
-     "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
-     "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 20:45:00 GMT",
-     "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities.”",
-     "source": "MarketWatch",
-     "zh": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?"
-    },
-    {
-     "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
-     "link": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
-     "pubDate": "Sat, 22 Aug 2026 20:34:13 GMT",
-     "summary": "Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.",
-     "source": "CNBC",
-     "zh": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit"
-    },
-    {
-     "title": "SA Asks: What does the growing national debt mean for bond yields?",
-     "link": "https://seekingalpha.com/news/4636044-sa-asks-what-does-the-growing-national-debt-mean-for-bond-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 16:31:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: What does the growing national debt mean for bond yields?"
-    },
-    {
-     "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
-     "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 20:31:00 GMT",
-     "summary": "Canadian Prime Minister Mark Carney on Saturday announced his country would impose “dollar-for-dollar” tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.",
-     "source": "MarketWatch",
-     "zh": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
-    },
-    {
-     "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
-     "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 20:30:00 GMT",
-     "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
-     "source": "MarketWatch",
-     "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
-    },
-    {
-     "title": "Nvidia customers reportedly warned about AI-related price hikes",
-     "link": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-     "pubDate": "Sat, 22 Aug 2026 20:26:44 GMT",
-     "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
-     "source": "CNBC",
-     "zh": "Nvidia customers reportedly warned about AI-related price hikes"
-    },
-    {
-     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 20:15:00 GMT",
-     "summary": "“The cost is absolutely ridiculous.”",
-     "source": "MarketWatch",
-     "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
-    },
-    {
-     "title": "SA Asks: How could Trump's new executive order impact vaccine makers?",
-     "link": "https://seekingalpha.com/news/4636043-sa-asks-how-could-trumps-new-executive-order-impact-vaccine-makers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 15:49:45 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: How could Trump's new executive order impact vaccine makers?"
-    },
-    {
-     "title": "Key deals this week: Stripe, KKR, Virtu and more",
-     "link": "https://seekingalpha.com/news/4635957-key-deals-this-week-stripe-kkr-virtu-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 22 Aug 2026 15:15:10 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Key deals this week: Stripe, KKR, Virtu and more"
     }
    ]
   },
@@ -2489,6 +2489,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Why is AI going on a hacking spree?",
+     "link": "https://www.livescience.com/technology/artificial-intelligence/why-is-ai-going-on-a-hacking-spree",
+     "pubDate": "Sun, 23 Aug 2026 11:00:00 +0000",
+     "summary": "AI models are finding software flaws, carrying out cyberattacks during security tests and reaching systems they weren't supposed to access. But does that mean AI is \"going rogue\"?",
+     "source": "Live Science",
+     "zh": "Why is AI going on a hacking spree?"
+    },
     {
      "title": "'Starry Night' telescope photo captures some of the oldest stars in the universe — Space photo of the week",
      "link": "https://www.livescience.com/space/astronomy/starry-night-telescope-photo-captures-some-of-the-oldest-stars-in-the-universe-space-photo-of-the-week",
@@ -2600,14 +2608,6 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers explore how a key factor can mitigate or promote tuberculosis transmission.",
      "source": "MIT News",
      "zh": "The importance of indoor airflow patterns in spreading airborne disease"
-    },
-    {
-     "title": "Scientists finally know why astronauts struggle to poop in space — and reveal a hidden risk of long-haul spaceflight",
-     "link": "https://www.livescience.com/space/space-exploration/scientists-finally-know-why-astronauts-struggle-to-poop-in-space-and-reveal-a-hidden-risk-of-long-haul-spaceflight",
-     "pubDate": "Fri, 21 Aug 2026 15:19:47 +0000",
-     "summary": "A new NASA-backed study has pinpointed why astronauts often experience constipation in space and how that might affect their health on long-haul missions to Mars and beyond.",
-     "source": "Live Science",
-     "zh": "Scientists finally know why astronauts struggle to poop in space — and reveal a hidden risk of long-haul spaceflight"
     },
     {
      "title": "Plants under attack leave behind a surprising call for backup",

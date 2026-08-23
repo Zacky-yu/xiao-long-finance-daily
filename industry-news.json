@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/24 01:22:45",
+ "generated_at": "2026/8/24 01:48:40",
  "recent_days": 7,
  "industries": [
   {
@@ -417,12 +417,44 @@
      "zh": "Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes"
     },
     {
+     "title": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/epc-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 17:51:06 +0100",
+     "summary": "Efficient Power Conversion Corp (EPC) of El Segundo, CA, USA — which makes enhancement-mode gallium nitride on silicon (eGaN) power field-effect transistors (FETs) and integrated circuits for power management applications — has announced mass production of the EPC2370, an ultra-low on-resistance 18V",
+     "source": "Semiconductor Today",
+     "zh": "EPC announces mass production of EPC2370 18V GaN FET for next-gen AI power architectures"
+    },
+    {
      "title": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure",
      "link": "https://www.eetimes.com/synopsys-updates-cxl-ip-portfolio-for-ai-era-infrastructure/",
      "pubDate": "Thu, 20 Aug 2026 14:07:45 +0000",
      "summary": "Synopsys’s CXL 4.0 IP aims to help designers build faster, more flexible and secure disaggregated computing architectures as AI systems demand more memory capacity and bandwidth. The post Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Synopsys Updates CXL IP Portfolio for AI-Era Infrastructure"
+    },
+    {
+     "title": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/yole-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 14:12:54 +0100",
+     "summary": "Power gallium nitride (GaN) has spent the past several years proving itself in consumer fast chargers, but that phase is ending, according to Yole Group’s annual report ‘Power GaN 2026’. GaN is now entering a broader, multi-market adoption cycle where AI data centers, electric vehicles, industrial s",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN device market growing at 35% CAGR to $3.5bn in 2031, driven by data centers, EVs and industrial systems"
+    },
+    {
+     "title": "Micross acquiring AEMtec, expanding reach into Europe",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/micross-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 09:48:03 +0100",
+     "summary": "Micross Components Inc of Melville, NY, USA (which provides high-reliability microelectronic products and services for aerospace, defense, space, medical, energy, communications and industrial applications) has entered into a definitive agreement to acquire AEMtec GmbH of Berlin, Germany (a portfoli",
+     "source": "Semiconductor Today",
+     "zh": "Micross acquiring AEMtec, expanding reach into Europe"
+    },
+    {
+     "title": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/teksic-200826.shtml",
+     "pubDate": "Thu, 20 Aug 2026 09:41:16 +0100",
+     "summary": "Silicon carbide wafer manufacturing technology firm TekSiC AB of Linköping, Sweden has announced progress in its development of semi-insulating silicon carbide (SI-SiC), which Europe currently lacks the domestic capability to manufacture commercially. The material underpins some of the most demandin",
+     "source": "Semiconductor Today",
+     "zh": "GaN epilayers grown on TekSiC’s semi-insulating silicon carbide wafers"
     },
     {
      "title": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing",
@@ -463,30 +495,6 @@
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
-    },
-    {
-     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
-     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
-     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
-     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
-    },
-    {
-     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
-     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
-     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
-     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
-    },
-    {
-     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
-     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
-     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
-     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -1737,6 +1745,22 @@
    "total": 18,
    "items": [
     {
+     "title": "Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 (George Hammond/Financial Times)",
+     "link": "https://www.techmeme.com/260823/p8#a260823p8",
+     "pubDate": "Sun, 23 Aug 2026 13:45:27 -0400",
+     "summary": "George Hammond / Financial Times : Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 &nbsp; &mdash;&nbsp; AI lab's Fable 5 has met with sluggish demand from corporate clients&nbsp; &mdash;&nbsp; ",
+     "source": "Techmeme",
+     "zh": "Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 (George Hammond/Financial Times)"
+    },
+    {
+     "title": "GraphWorkflow 提速62.5% 后，Agent 蜂群真正要解决什么？",
+     "link": "https://www.huxiu.com/article/4885324.html?f=rss",
+     "pubDate": "Mon, 24 Aug 2026 01:18:39 +0800",
+     "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《GraphWorkflow 提速 62.5% 后，Agent 蜂群真正要解决什么？》 8月19日，Swarms团队发布了一篇关于GraphWorkflow的论文。把预先定义好的多Agent任务图编译一次，再反复执行，以减少运行时的编排开销。 论文拿它和LangGraph 1.0.4比较，在10、50、200个节点的静态图上，报告了最高62.5%的加速，稳态几何平均约为7倍。 又有一个Agent框架跑得更快了。 但把论文的方法和限制一起读完，会发现更值得看的东西不在那个数字里。它测的是单机、同步、静态DAG的编排开销，节点甚至可",
+     "source": "虎嗅",
+     "zh": "GraphWorkflow 提速62.5% 后，Agent 蜂群真正要解决什么？"
+    },
+    {
      "title": "弄清中国的消费数据|| 大视野",
      "link": "https://www.huxiu.com/article/4885321.html?f=rss",
      "pubDate": "Mon, 24 Aug 2026 00:09:00 +0800",
@@ -1959,22 +1983,6 @@
      "summary": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
      "source": "WIRED",
      "zh": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App"
-    },
-    {
-     "title": "Is Expensive Bottled Water Actually Better for You?",
-     "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
-     "pubDate": "Sun, 23 Aug 2026 09:00:00 +0000",
-     "summary": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
-     "source": "WIRED",
-     "zh": "Is Expensive Bottled Water Actually Better for You?"
-    },
-    {
-     "title": "银行理财五星管理人评级报告 （2026年7月）",
-     "link": "https://www.tmtpost.com/8113345.html",
-     "pubDate": "Sun, 23 Aug 2026 16:14:53 +0800",
-     "summary": "在固定收益类中，宁银理财有限责任公司、中邮理财有限责任公司和平安理财有限责任公司脱颖而出，成为五星理财子公司。它们的各星级产品数量展示了市场的竞争力与多样性。",
-     "source": "钛媒体",
-     "zh": "银行理财五星管理人评级报告 （2026年7月）"
     }
    ]
   },
@@ -1984,6 +1992,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+     "link": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
+     "pubDate": "Sun, 23 Aug 2026 17:39:26 +0000",
+     "summary": "The class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.",
+     "source": "Engadget",
+     "zh": "Twitch and Amazon hit with lawsuit for training AI with streamers' content"
+    },
+    {
+     "title": "Is it safe to use a USB-C laptop charger on your phone?",
+     "link": "https://www.engadget.com/2240179/using-usb-c-laptop-charger-for-phone-safety-tips/",
+     "pubDate": "Sun, 23 Aug 2026 17:30:00 +0000",
+     "summary": "If you've ever wondered whether you can just charge your phone with the cable for your laptop, read on and find out how to tell.",
+     "source": "Engadget",
+     "zh": "Is it safe to use a USB-C laptop charger on your phone?"
+    },
     {
      "title": "Google’s inevitable ‘Pixel Watch Ultra’ should copy the Fitbit Air",
      "link": "https://9to5google.com/2026/08/23/google-pixel-watch-ultra-ideas/",
@@ -2055,22 +2079,6 @@
      "summary": "Here’s a recap of this past week’s top stories. Huawei previewed its Pura X View featuring a 6.39-inch OLED and a wide 16:9.5 aspect ratio. This is a proper wide boy, with Huawei advertising its expanded horizontal real estate for more immersive reading, gaming and other content consumption. Huawei ",
      "source": "GSMArena",
      "zh": "Huawei Pura X View previewed, more iPhone 18 Pro leaks, Week 34 in review"
-    },
-    {
-     "title": "This affordable fix may be all you need to improve earbud sound quality",
-     "link": "https://www.engadget.com/2240144/earbuds-sound-quality-improve-with-affordable-fix/",
-     "pubDate": "Sun, 23 Aug 2026 13:00:00 +0000",
-     "summary": "You might not need to invest in a newer pair of earbuds to improve the sound quality. Here's how to upgrade your current pair for a better listening experience.",
-     "source": "Engadget",
-     "zh": "This affordable fix may be all you need to improve earbud sound quality"
-    },
-    {
-     "title": "What to try when an Android app keeps crashing",
-     "link": "https://www.engadget.com/2240143/what-to-try-andoird-app-keeps-crashing/",
-     "pubDate": "Sun, 23 Aug 2026 12:30:00 +0000",
-     "summary": "Don't keep restarting your phone. Try these other steps instead.",
-     "source": "Engadget",
-     "zh": "What to try when an Android app keeps crashing"
     },
     {
      "title": "How I fixed the most annoying thing about Claude in less than five minutes",
@@ -2233,6 +2241,70 @@
    "total": 13,
    "items": [
     {
+     "title": "几内亚首都垃圾场坍塌事故死亡人数升至22人",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850437390.html",
+     "pubDate": "Mon, 24 Aug 2026 01:36:09 +0800",
+     "summary": "当地时间23日凌晨，几内亚首都科纳克里一处垃圾填埋场发生坍塌，大量垃圾冲向附近居民区，多处房屋受影响，已造成至少22人死亡。目前搜救工作仍在持续，伤亡人数可能进一步增加。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "几内亚首都垃圾场坍塌事故死亡人数升至22人"
+    },
+    {
+     "title": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus",
+     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+     "pubDate": "2026-08-23T17:30:17Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus"
+    },
+    {
+     "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
+     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 17:30:00 GMT",
+     "summary": "“The last adviser we worked with lost a significant portion of our portfolio.”",
+     "source": "MarketWatch",
+     "zh": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
+    },
+    {
+     "title": "财政金融协同促内需举措“再升级”",
+     "link": "http://finance.eastmoney.com/news/1350,202608243850437955.html",
+     "pubDate": "Mon, 24 Aug 2026 01:29:43 +0800",
+     "summary": "财政金融协同促内需一揽子政策乘数效应初步显效。财政部最新数据显示，政策出台7个月以来，已有居民约1.13亿人次、企业约622万家获得了政策支持。4项促投资政策、2项促消费政策累计支持相关领域新发放信贷超20万亿元，较上年同期增长超8800亿元、增幅为4.5%。 扩大贴息范围、增加经办机构、提高额度上限……8月以来，政策支持力度仍在加大。财政部副部长廖岷日前在国新办新闻发布会上透露，下半年还将推出新政策、新举措，与央行等金融管理部门协同，推动财政金融联动常态化和长效化。 “今年更加积极财政政策的重头戏之一，就是创新设立了财政金融协同促内需的6项政策工具。中央财政专门安排了1000亿元资金，通过财",
+     "source": "东方财富股票",
+     "zh": "财政金融协同促内需举措“再升级”"
+    },
+    {
+     "title": "行业巨头纷纷试水 智能体商业化进程提速",
+     "link": "http://finance.eastmoney.com/news/1348,202608243850437611.html",
+     "pubDate": "Mon, 24 Aug 2026 01:29:36 +0800",
+     "summary": "随着字节跳动、支付宝等行业巨头纷纷试水，智能体商业正加快从概念验证走向规模化落地。业内人士预计，智能体商业有望迎来爆发，智能体将成为用户与商家间的“新载体”，打开商业新生态。不过，智能体商业的成熟，仍需从用户培养、商家运营和合规建设等方面共同推进。 近日，豆包 酒店 订单 综合 渠道服务费政策正式落地执行，对于通过豆包入口跳转抖音来客成交的 酒店 订单，豆包将收取约12%的 综合 渠道服务费。此前，这类订单被归入抖音自然流量渠道， 综合 费率为8%。上述举动被业界视为智能体商业化的标志性一步：智能体走向重要的消费入口，并作为独立成交渠道被定价。 当前，行业巨头纷纷加快试水智能体商业化。今年6月",
+     "source": "东方财富股票",
+     "zh": "行业巨头纷纷试水 智能体商业化进程提速"
+    },
+    {
+     "title": "AI“点亮”半年报 智能消费持续扩容",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850437576.html",
+     "pubDate": "Mon, 24 Aug 2026 01:29:34 +0800",
+     "summary": "2026年半年报披露季，一组数据勾勒出我国消费市场的新变化：智能助行外骨骼、 AI眼镜 、 AI手机 等产品，正以超出预期的速度进入普通消费者的购物车，也在上市公司财报中成为最亮眼的增长极。 行业数据同样印证了这一趋势。国家统计局数据显示，1至7月，规模以上可穿戴智能设备零售额增长超过1倍，AI导览、虚拟试衣间等一批沉浸式、互动式的消费场景加快落地，不断激发新的消费潜力。 业内人士认为，从公司财报到行业数据，智能消费已从“概念导入”走向“业绩兑现”，成为扩内需重要的增量方向之一。 消费电子 行业受益AI明显 2026年以来， 消费电子 市场呈现结构分化的特征，AI智能手机、可穿戴设备等新兴终端",
+     "source": "东方财富股票",
+     "zh": "AI“点亮”半年报 智能消费持续扩容"
+    },
+    {
+     "title": "上市银行半年报密集披露 业绩回暖折射银行业经营韧性",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850437268.html",
+     "pubDate": "Mon, 24 Aug 2026 01:29:32 +0800",
+     "summary": "在 平安银行 率先披露A股上市 银行 2026年首份半年报后， 南京银行 、 江苏银行 、 宁波银行 等多家上市 银行 日前相继发布半年度报告， 浦发银行 、 重庆银行 、 渝农商行 等亦已披露业绩快报。从已披露的数据来看，多家 银行 营业收入与归母净利润实现正增长，信贷投放持续向制造业、绿色金融、普惠小微等实体经济重点领域倾斜，负债端成本精细化管理成效逐步显现。同时，全行业净息差迎来近四年首次环比回升，银行业经营回暖的信号正在变得清晰。 多家银行营收净利双增 从已披露半年报的几家银行来看，业绩回暖的态势较为明显。 平安银行 上半年实现营业收入706.17亿元，同比增长1.8%；归母净利润25",
+     "source": "东方财富股票",
+     "zh": "上市银行半年报密集披露 业绩回暖折射银行业经营韧性"
+    },
+    {
+     "title": "“千集万店”焕新 释放下沉市场潜力",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850437182.html",
+     "pubDate": "Mon, 24 Aug 2026 01:29:32 +0800",
+     "summary": "天蒙蒙亮，四川省德阳市中江县朝阳东路上，新建的东门农贸市场已经热闹起来。市场内， 钢结构 大棚遮风避雨，摊位干净整洁，放心肉、农家菜、粮油干货等应有尽有。 这个由旧厂房改造而来的新型农贸市场，不仅解决了周边居民的买菜难题，更成了一个标准化、规范化的社区商业空间。“以前都是露天摊位，地上脏得下不去脚。现在跟逛 超市 一样，方便又舒服。”家住附近的罗女士说。 广袤县域，连接城乡；万千集市，承载民生。近日，商务部等9部门联合印发意见，指导各地因地制宜活跃县域消费，明确提出深化“千集万店”改造提升，支持乡镇商贸中心、集（农）贸市场、乡镇特色大集等建设升级，标准化、规范化建设改造新型便利店、村级寄递 物",
+     "source": "东方财富股票",
+     "zh": "“千集万店”焕新 释放下沉市场潜力"
+    },
+    {
      "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
      "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
      "pubDate": "Sun, 23 Aug 2026 17:00:00 GMT",
@@ -2247,14 +2319,6 @@
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy"
-    },
-    {
-     "title": "Dow Jones Futures Due; Nvidia Earnings, Canada Tariffs, Warsh In Focus",
-     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-23T16:56:06Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Dow Jones Futures Due; Nvidia Earnings, Canada Tariffs, Warsh In Focus"
     },
     {
      "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
@@ -2393,6 +2457,14 @@
      "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
     },
     {
+     "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
+     "link": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
+     "pubDate": "Sun, 23 Aug 2026 13:00:01 GMT",
+     "summary": "Money is flooding into equal-weight stock market ETFs this year. Investing experts say it's not a fad.",
+     "source": "CNBC",
+     "zh": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion"
+    },
+    {
      "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
      "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
      "pubDate": "Sun, 23 Aug 2026 13:00:00 GMT",
@@ -2407,70 +2479,6 @@
      "summary": "英伟达正在两条鲜少被市场充分定价的战线上悄然构筑护城河。 据汇丰银行8月20日发布的最新研报，汇丰分析师Frank Lee认为，在持续\"业绩超预期\"之外，推动英伟达股价重新定价的新催化剂，将来自两条此前被市场忽视的叙事线。 其一，大力押注开源小语言模型（SLM），有望将潜在客户群从少数超大规模云厂商扩展至数百万开发者和主权国家；其二，通过一系列多年期采购协议提前锁定供应链产能，在竞争对手愈发难以获得关键制造资源的背景下，这一优势将愈加凸显。 两条新叙事线的市场意义在于，它们共同指向同一个核心命题：英伟达的增长引擎，正在从依赖少数超大规模客户的单一结构，向更宽广、更具韧性的客户生态演进。 这一转",
      "source": "华尔街见闻",
      "zh": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”"
-    },
-    {
-     "title": "8月23日晚间上市公司利好消息一览(附名单)",
-     "link": "http://finance.eastmoney.com/news/1353,202608233850367418.html",
-     "pubDate": "Sun, 23 Aug 2026 20:32:26 +0800",
-     "summary": "沪深两市多家上市公司8月23日晚间发布重要公告，以下为利好的消息汇总： 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，建设期一年",
-     "source": "东方财富资讯",
-     "zh": "8月23日晚间上市公司利好消息一览(附名单)"
-    },
-    {
-     "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-     "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-     "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
-     "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
-     "source": "CNBC",
-     "zh": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI"
-    },
-    {
-     "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
-     "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
-     "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
-     "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
-     "source": "CNBC",
-     "zh": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill"
-    },
-    {
-     "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
-     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 12:00:00 GMT",
-     "summary": "“The last adviser we worked with lost a significant portion of our portfolio.”",
-     "source": "MarketWatch",
-     "zh": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
-    },
-    {
-     "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
-     "link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 12:00:00 GMT",
-     "summary": "You can’t just sweep $40 trillion in U.S. national debt under a rug and forget about it — or so the bond market appears to be telling Treasury Secretary Scott Bessent.",
-     "source": "MarketWatch",
-     "zh": "The Treasury’s bond-market intervention isn’t working. So what comes next?"
-    },
-    {
-     "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
-     "link": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
-     "pubDate": "Sun, 23 Aug 2026 12:00:00 GMT",
-     "summary": "Tweaking my finances, work and life as I go from the “go-go” years to the “slow-go” years.",
-     "source": "MarketWatch",
-     "zh": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement."
-    },
-    {
-     "title": "8月23日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202608233850358355.html",
-     "pubDate": "Sun, 23 Aug 2026 19:32:16 +0800",
-     "summary": "沪深两市多家上市公司8月23日晚间发布公司公告，以下为重要公告汇总。 【品大事】 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，",
-     "source": "东方财富资讯",
-     "zh": "8月23日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
-     "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
-     "link": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
-     "pubDate": "Sun, 23 Aug 2026 11:29:05 GMT",
-     "summary": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence.",
-     "source": "CNBC",
-     "zh": "Top Wall Street analysts believe in the growth potential of these 3 stocks"
     }
    ]
   },

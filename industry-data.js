@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 01:48:40",
+ "generated_at": "2026/8/24 02:31:30",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
+     "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
+     "pubDate": "Sun, 23 Aug 2026 17:51:56 +0000",
+     "summary": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work"
+    },
     {
      "title": "800亿港元！阿里宣布为AI再融资，传已超额认购",
      "link": "https://zhidx.com/p/587414.html",
@@ -218,14 +226,6 @@ window.INDUSTRY_DATA = {
      "zh": "ECCV 2026｜光照改了，人却变了？美图影像研究院提出一致特征传输重打光新方案CFT"
     },
     {
-     "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
-     "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
-     "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
-     "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each provider's live rate car",
-     "source": "MarkTechPost",
-     "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
-    },
-    {
      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
      "link": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
      "pubDate": "Fri, 21 Aug 2026 17:02:24 +0000",
@@ -338,52 +338,12 @@ window.INDUSTRY_DATA = {
      "zh": "How TSMC Is Wiring the AI Era With Light"
     },
     {
-     "title": "Android XR advances as Jetpack XR SDK core libraries reach beta",
-     "link": "https://www.electronicsweekly.com/news/products/software-products/android-xr-advances-as-jetpack-xr-sdk-core-libraries-reach-beta-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 14:39:56 +0000",
-     "summary": "Google is announcing that its Jetpack SceneCore, ARCore for Jetpack XR, and XR Runtime libraries are officially in beta status. And Jetpack Compose is to follow soon, it says. Basically, […] The post Android XR advances as Jetpack XR SDK core libraries reach beta appeared first on Electronics Weekly",
-     "source": "Electronics Weekly",
-     "zh": "Android XR advances as Jetpack XR SDK core libraries reach beta"
-    },
-    {
-     "title": "Exotic Materials Adding Cost To Semis",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/exotic-materials-adding-cost-to-semis-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 13:30:13 +0000",
-     "summary": "19 years ago the chip industry was facing a similar problem to today – the need for, and rising cost of, exotic materials. ‘Semiconductor firms are facing critical pricing choices […] The post Exotic Materials Adding Cost To Semis appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Exotic Materials Adding Cost To Semis"
-    },
-    {
      "title": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/372371-intel-eyes-a-memory-comeback-as-ai-rewrites-chip-economics/",
      "pubDate": "Fri, 21 Aug 2026 13:00:41 +0000",
      "summary": "Intel is considering a return to memory technology decades after abandoning mainstream DRAM and, more recently, selling its NAND business. Chief executive Lip-Bu Tan has argued that memory should no longer be viewed simply as a low-margin commodity. Artificial intelligence is turning bandwidth, late",
      "source": "SemiWiki",
      "zh": "Intel Eyes a Memory Comeback as AI Rewrites Chip Economics"
-    },
-    {
-     "title": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform",
-     "link": "https://www.electronicsweekly.com/news/saildrone-lockheed-martin-demonstrate-live-fire-from-usv-platform-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 10:30:33 +0000",
-     "summary": "Lockheed Martin is highlighting a successful collaboration with Saildrone, a specialist in maritime autonomous systems. USV Basically, an unmanned surface vehicle (USV) was equipped with lethal defence technology, the live-fire […] The post Saildrone, Lockheed Martin demonstrate live-fire from USV p",
-     "source": "Electronics Weekly",
-     "zh": "Saildrone, Lockheed Martin demonstrate live-fire from USV platform"
-    },
-    {
-     "title": "JEDEC to host Automotive Electronics Forum",
-     "link": "https://www.electronicsweekly.com/news/business/jedec-to-host-automotive-electronics-forum-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 09:17:49 +0000",
-     "summary": "The JEDEC Solid State Technology Association has announced that it is hosting an Automotive Electronics Forum. The event will take place on 17 September 2026 in Santa Clara, California. The […] The post JEDEC to host Automotive Electronics Forum appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "JEDEC to host Automotive Electronics Forum"
-    },
-    {
-     "title": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-feynman-gpu-vishay-sensor-optoelectronic-devices-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 09:05:07 +0000",
-     "summary": "There's the next frontier of advanced optoelectronics, Samsung Foundry putting back its 1.4nm process to 2029, and Vishay sampling a short distance VCSEL-based proximity sensor... The post Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Feynman GPU, Vishay sensor, Optoelectronic devices"
     },
     {
      "title": "The Human Brain Versus AI: Similar Results, Very Different Machines",
@@ -400,14 +360,6 @@ window.INDUSTRY_DATA = {
      "summary": "New Micron lab; chip/AI price jump; multi-die monitoring; cryo links for quantum chips; interconnect RC bottleneck; 18A win; CPO roadmap; 2 new CEOs; humanoid readiness gap; Hot Interconnects. The post Chip Industry Week In Review appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "White House looking for 1000 rocket launches a year",
-     "link": "https://www.electronicsweekly.com/news/business/white-house-looking-for-1000-rocket-launches-a-year-2026-08/",
-     "pubDate": "Fri, 21 Aug 2026 05:17:57 +0000",
-     "summary": "Yesterday US President Donald Trump signed a memo aimed at enabling 1,000 US rocket launches and re-entries a year – up from 178 launches in 2025. The memo requires agencies […] The post White House looking for 1000 rocket launches a year appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "White House looking for 1000 rocket launches a year"
     },
     {
      "title": "Agentrys Shows You How to Build a Multi-Agent System in 30 Minutes",
@@ -496,6 +448,46 @@ window.INDUSTRY_DATA = {
      "summary": "Reducing energy consumption is key to both lowering inference cost and enabling emerging physical AI applications. The post Three Strategic Imperatives For Energy-Efficient AI Computing appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Three Strategic Imperatives For Energy-Efficient AI Computing"
+    },
+    {
+     "title": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort",
+     "link": "https://www.eetimes.com/andes-condor-closure-came-amid-broader-cost-cutting-effort/",
+     "pubDate": "Wed, 19 Aug 2026 22:00:00 +0000",
+     "summary": "Andes Technology’s decision to close Condor was part of a broader 10-20% operational cost-cutting exercise, with Condor probably considered too expensive a bet. The post Andes Condor Closure Came Amid Broader Cost-Cutting Effort appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Andes Condor Closure Came Amid Broader Cost-Cutting Effort"
+    },
+    {
+     "title": "HexSeed raises over £600,000 in early-stage funding",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/hexseed-190826.shtml",
+     "pubDate": "Wed, 19 Aug 2026 21:03:33 +0100",
+     "summary": "HexSeed Technology Ltd of Banchory, near Aberdeen, Scotland, UK has raised more than £600,000 in an early-stage funding round led by Carbon13, with participation from Net Zero Technology Centre and Vento Ventures. The cumulative investment unlocks a Partnership Grant from overnment agency Innovate U",
+     "source": "Semiconductor Today",
+     "zh": "HexSeed raises over £600,000 in early-stage funding"
+    },
+    {
+     "title": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment",
+     "link": "https://semiconductor-today.com/news_items/2026/aug/clas-sic-190826.shtml",
+     "pubDate": "Wed, 19 Aug 2026 20:50:08 +0100",
+     "summary": "Clas-SiC Wafer Fab Ltd of Lochgelly, Fife, Scotland — which was founded in 2017 and is the UK’s only commercial wafer fabrication facility dedicated to silicon carbide (SiC) — is one of the first recipients of Scottish Enterprise’s new Capital Grant, which has been designed to help drive levels of b",
+     "source": "Semiconductor Today",
+     "zh": "Clas-SiC gains £1.9m Scottish Enterprise Capital Grant as part of £12m investment"
+    },
+    {
+     "title": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain",
+     "link": "https://www.eetimes.com/ibm-makes-quantum-cryogenics-modular-but-scaling-problems-remain/",
+     "pubDate": "Wed, 19 Aug 2026 13:55:51 +0000",
+     "summary": "IBM’s new cryogenic architecture tackles one obstacle to fault-tolerant quantum computing, while exposing wiring, control, interconnect, and reliability challenges. The post IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "IBM Makes Quantum Cryogenics Modular, but Scaling Problems Remain"
+    },
+    {
+     "title": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide",
+     "link": "https://www.eetimes.com/running-local-llms-on-the-arduino-uno-q-board-a-practical-guide/",
+     "pubDate": "Wed, 19 Aug 2026 13:00:00 +0000",
+     "summary": "Learn how to run local LLMs on Arduino UNO Q — from model selection and quantization to memory constraints and real-world edge AI use cases. The post Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Running Local LLMs on the Arduino® UNO™ Q Board: a Practical Guide"
     }
    ]
   },
@@ -850,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
+     "link": "https://oilprice.com/Energy/Energy-General/Private-Equity-Is-Circling-Utilities-as-AI-Reshapes-the-Grid.html",
+     "pubDate": "Sun, 23 Aug 2026 13:00:00 -0500",
+     "summary": "While it seems that Democrats and Republicans can’t agree on much of anything these days, there’s at least one common enemy that’s bringing both sides of the aisle together: data centers. Representatives on both sides of the aisle are increasingly pushing back against hyperscalers who are developing",
+     "source": "OilPrice",
+     "zh": "Private Equity Is Circling Utilities as AI Reshapes the Grid"
+    },
+    {
      "title": "Underwater Volcanoes Are Geothermal Energy’s Next Frontier",
      "link": "https://oilprice.com/Energy/Energy-General/Underwater-Volcanoes-Are-Geothermal-Energys-Next-Frontier.html",
      "pubDate": "Sun, 23 Aug 2026 10:00:00 -0500",
@@ -928,14 +928,6 @@ window.INDUSTRY_DATA = {
      "summary": "Donald Trump is accidentally overseeing a massive buildout of the country’s renewable energy capacity and infrastructure. Not only are investments in renewable technologies soaring to new highs, the national energy grid is rapidly transforming to accommodate an increasingly solar- and wind-powered e",
      "source": "OilPrice",
      "zh": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026"
-    },
-    {
-     "title": "Every Chokepoint That Isn't Hormuz",
-     "link": "https://oilprice.com/Energy/Energy-General/Every-Chokepoint-That-Isnt-Hormuz.html",
-     "pubDate": "Sat, 22 Aug 2026 12:00:00 -0500",
-     "summary": "For six months the entire conversation about oil logistics has been about one strait, and you can hardly blame anyone for that. Hormuz has been effectively closed since late February, when the war between Iran and the U.S. and Israel started, and the EIA reckons only 4.9 million barrels a day of cru",
-     "source": "OilPrice",
-     "zh": "Every Chokepoint That Isn't Hormuz"
     },
     {
      "title": "AC-Coupled vs. DC-Coupled",
@@ -1098,6 +1090,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "StockWatch: Merck/Moderna Cancer Vaccine Gives a Shot in the Arm to Sequencing Companies, Too",
+     "link": "https://www.genengnews.com/topics/cancer/stockwatch-merck-moderna-cancer-vaccine-gives-a-shot-in-the-arm-to-sequencing-companies-too/",
+     "pubDate": "Sun, 23 Aug 2026 17:54:35 +0000",
+     "summary": "Because intismeran autogene is a personalized cancer therapy made for each patient based on the individual genetic mutations of their tumors, the Merck-Moderna stock surge extended to sequencing giants such as Illumina, Pacific Biosciences of California, and to a degree Oxford Nanopore Technologies.",
+     "source": "GEN",
+     "zh": "StockWatch: Merck/Moderna Cancer Vaccine Gives a Shot in the Arm to Sequencing Companies, Too"
+    },
+    {
      "title": "Third death in China’s expedited trials; Merck and Moderna’s cancer vaccine win; and more",
      "link": "https://endpoints.news/third-death-in-chinas-expedited-trials-merck-and-modernas-cancer-vaccine-win-and-more/",
      "pubDate": "Sat, 22 Aug 2026 10:00:07 +0000",
@@ -1248,14 +1248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Urologic oncologists who treat prostate cancer are split over the benefits of focal therapy compared to traditional surgery or radiation.",
      "source": "STAT News",
      "zh": "Focal therapy for localized prostate cancer has divided physicians. Will new data change minds?"
-    },
-    {
-     "title": "AI Identifies Pre-existing Antimicrobial Antibody Profile That May Predict Immune Response to Vaccination",
-     "link": "https://www.genengnews.com/topics/infectious-diseases/ai-identifies-pre-existing-antimicrobial-antibody-profile-that-may-predict-immune-response-to-vaccination/",
-     "pubDate": "Thu, 20 Aug 2026 18:53:21 +0000",
-     "summary": "Researchers analyzing antibody profiles in thousands of individuals have discovered that pre-existing antibodies to common microbes can predict the strength of new vaccine responses. The post AI Identifies Pre-existing Antimicrobial Antibody Profile That May Predict Immune Response to Vaccination ap",
-     "source": "GEN",
-     "zh": "AI Identifies Pre-existing Antimicrobial Antibody Profile That May Predict Immune Response to Vaccination"
     },
     {
      "title": "Regeneron to challenge Ipsen as FDA clears bone disease drug",
@@ -1994,6 +1986,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Does Analogue 3D really make retro games 4K? Here's what you should know",
+     "link": "https://www.engadget.com/2240184/is-analogue-3d-actually-4k/",
+     "pubDate": "Sun, 23 Aug 2026 18:00:00 +0000",
+     "summary": "The Analogue 3D does a great job at upscaling old N64 games, with a few caveats.",
+     "source": "Engadget",
+     "zh": "Does Analogue 3D really make retro games 4K? Here's what you should know"
+    },
+    {
      "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
      "link": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
      "pubDate": "Sun, 23 Aug 2026 17:39:26 +0000",
@@ -2064,14 +2064,6 @@ window.INDUSTRY_DATA = {
      "summary": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet?",
      "source": "Engadget",
      "zh": "Wi-Fi 6 vs Wi-Fi 7: What's the difference wnd which is better for home internet?"
-    },
-    {
-     "title": "The reasons Siri may not work on CarPlay",
-     "link": "https://www.engadget.com/2240145/siri-with-carplay-reasons-not-work-fixes/",
-     "pubDate": "Sun, 23 Aug 2026 13:30:00 +0000",
-     "summary": "If you're struggling to get Siri to work with your car's CarPlay system, there are some things you can check.",
-     "source": "Engadget",
-     "zh": "The reasons Siri may not work on CarPlay"
     },
     {
      "title": "Huawei Pura X View previewed, more iPhone 18 Pro leaks, Week 34 in review",
@@ -2242,12 +2234,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "几内亚首都垃圾场坍塌事故死亡人数升至22人",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850437390.html",
-     "pubDate": "Mon, 24 Aug 2026 01:36:09 +0800",
-     "summary": "当地时间23日凌晨，几内亚首都科纳克里一处垃圾填埋场发生坍塌，大量垃圾冲向附近居民区，多处房屋受影响，已造成至少22人死亡。目前搜救工作仍在持续，伤亡人数可能进一步增加。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "几内亚首都垃圾场坍塌事故死亡人数升至22人"
+     "title": "Warsh seeks to soothe investors’ nerves as signs of economic strain mount",
+     "link": "https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9?syn-25a6b1a6=1",
+     "pubDate": "Sun, 23 Aug 2026 18:00:00 GMT",
+     "summary": "Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium",
+     "source": "Financial Times",
+     "zh": "Warsh seeks to soothe investors’ nerves as signs of economic strain mount"
+    },
+    {
+     "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+     "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 18:00:00 GMT",
+     "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
+     "source": "MarketWatch",
+     "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
+    },
+    {
+     "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+     "link": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
+     "pubDate": "Sun, 23 Aug 2026 17:58:06 GMT",
+     "summary": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
+     "source": "CNBC",
+     "zh": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom"
+    },
+    {
+     "title": "Michael Burry dumps Alibaba for JD.com, says BABA would need to fall 50%",
+     "link": "https://seekingalpha.com/news/4636063-michael-burry-dumps-alibaba-for-jd-com-says-baba-would-need-to-fall-50-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 23 Aug 2026 13:56:32 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Michael Burry dumps Alibaba for JD.com, says BABA would need to fall 50%"
     },
     {
      "title": "Dow Jones Futures Due With Nvidia Earnings, Tariffs, Warsh In Focus",
@@ -2264,46 +2280,6 @@ window.INDUSTRY_DATA = {
      "summary": "“The last adviser we worked with lost a significant portion of our portfolio.”",
      "source": "MarketWatch",
      "zh": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
-    },
-    {
-     "title": "财政金融协同促内需举措“再升级”",
-     "link": "http://finance.eastmoney.com/news/1350,202608243850437955.html",
-     "pubDate": "Mon, 24 Aug 2026 01:29:43 +0800",
-     "summary": "财政金融协同促内需一揽子政策乘数效应初步显效。财政部最新数据显示，政策出台7个月以来，已有居民约1.13亿人次、企业约622万家获得了政策支持。4项促投资政策、2项促消费政策累计支持相关领域新发放信贷超20万亿元，较上年同期增长超8800亿元、增幅为4.5%。 扩大贴息范围、增加经办机构、提高额度上限……8月以来，政策支持力度仍在加大。财政部副部长廖岷日前在国新办新闻发布会上透露，下半年还将推出新政策、新举措，与央行等金融管理部门协同，推动财政金融联动常态化和长效化。 “今年更加积极财政政策的重头戏之一，就是创新设立了财政金融协同促内需的6项政策工具。中央财政专门安排了1000亿元资金，通过财",
-     "source": "东方财富股票",
-     "zh": "财政金融协同促内需举措“再升级”"
-    },
-    {
-     "title": "行业巨头纷纷试水 智能体商业化进程提速",
-     "link": "http://finance.eastmoney.com/news/1348,202608243850437611.html",
-     "pubDate": "Mon, 24 Aug 2026 01:29:36 +0800",
-     "summary": "随着字节跳动、支付宝等行业巨头纷纷试水，智能体商业正加快从概念验证走向规模化落地。业内人士预计，智能体商业有望迎来爆发，智能体将成为用户与商家间的“新载体”，打开商业新生态。不过，智能体商业的成熟，仍需从用户培养、商家运营和合规建设等方面共同推进。 近日，豆包 酒店 订单 综合 渠道服务费政策正式落地执行，对于通过豆包入口跳转抖音来客成交的 酒店 订单，豆包将收取约12%的 综合 渠道服务费。此前，这类订单被归入抖音自然流量渠道， 综合 费率为8%。上述举动被业界视为智能体商业化的标志性一步：智能体走向重要的消费入口，并作为独立成交渠道被定价。 当前，行业巨头纷纷加快试水智能体商业化。今年6月",
-     "source": "东方财富股票",
-     "zh": "行业巨头纷纷试水 智能体商业化进程提速"
-    },
-    {
-     "title": "AI“点亮”半年报 智能消费持续扩容",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850437576.html",
-     "pubDate": "Mon, 24 Aug 2026 01:29:34 +0800",
-     "summary": "2026年半年报披露季，一组数据勾勒出我国消费市场的新变化：智能助行外骨骼、 AI眼镜 、 AI手机 等产品，正以超出预期的速度进入普通消费者的购物车，也在上市公司财报中成为最亮眼的增长极。 行业数据同样印证了这一趋势。国家统计局数据显示，1至7月，规模以上可穿戴智能设备零售额增长超过1倍，AI导览、虚拟试衣间等一批沉浸式、互动式的消费场景加快落地，不断激发新的消费潜力。 业内人士认为，从公司财报到行业数据，智能消费已从“概念导入”走向“业绩兑现”，成为扩内需重要的增量方向之一。 消费电子 行业受益AI明显 2026年以来， 消费电子 市场呈现结构分化的特征，AI智能手机、可穿戴设备等新兴终端",
-     "source": "东方财富股票",
-     "zh": "AI“点亮”半年报 智能消费持续扩容"
-    },
-    {
-     "title": "上市银行半年报密集披露 业绩回暖折射银行业经营韧性",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850437268.html",
-     "pubDate": "Mon, 24 Aug 2026 01:29:32 +0800",
-     "summary": "在 平安银行 率先披露A股上市 银行 2026年首份半年报后， 南京银行 、 江苏银行 、 宁波银行 等多家上市 银行 日前相继发布半年度报告， 浦发银行 、 重庆银行 、 渝农商行 等亦已披露业绩快报。从已披露的数据来看，多家 银行 营业收入与归母净利润实现正增长，信贷投放持续向制造业、绿色金融、普惠小微等实体经济重点领域倾斜，负债端成本精细化管理成效逐步显现。同时，全行业净息差迎来近四年首次环比回升，银行业经营回暖的信号正在变得清晰。 多家银行营收净利双增 从已披露半年报的几家银行来看，业绩回暖的态势较为明显。 平安银行 上半年实现营业收入706.17亿元，同比增长1.8%；归母净利润25",
-     "source": "东方财富股票",
-     "zh": "上市银行半年报密集披露 业绩回暖折射银行业经营韧性"
-    },
-    {
-     "title": "“千集万店”焕新 释放下沉市场潜力",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850437182.html",
-     "pubDate": "Mon, 24 Aug 2026 01:29:32 +0800",
-     "summary": "天蒙蒙亮，四川省德阳市中江县朝阳东路上，新建的东门农贸市场已经热闹起来。市场内， 钢结构 大棚遮风避雨，摊位干净整洁，放心肉、农家菜、粮油干货等应有尽有。 这个由旧厂房改造而来的新型农贸市场，不仅解决了周边居民的买菜难题，更成了一个标准化、规范化的社区商业空间。“以前都是露天摊位，地上脏得下不去脚。现在跟逛 超市 一样，方便又舒服。”家住附近的罗女士说。 广袤县域，连接城乡；万千集市，承载民生。近日，商务部等9部门联合印发意见，指导各地因地制宜活跃县域消费，明确提出深化“千集万店”改造提升，支持乡镇商贸中心、集（农）贸市场、乡镇特色大集等建设升级，标准化、规范化建设改造新型便利店、村级寄递 物",
-     "source": "东方财富股票",
-     "zh": "“千集万店”焕新 释放下沉市场潜力"
     },
     {
      "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
@@ -2434,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "SA Asks: How concerned should Meta investors be about child safety lawsuits?"
     },
     {
-     "title": "Iran says it has discovered huge natural gas field",
-     "link": "https://seekingalpha.com/news/4636057-iran-says-has-discovered-huge-natural-gas-field?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 23 Aug 2026 09:26:58 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Iran says it has discovered huge natural gas field"
-    },
-    {
      "title": "机器人缺数据，奥比中光当上了“卖铲人”",
      "link": "https://wallstreetcn.com/articles/3780096",
      "pubDate": "Sun, 23 Aug 2026 21:25:09 +0800",
@@ -2458,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
     },
     {
-     "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
-     "link": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
-     "pubDate": "Sun, 23 Aug 2026 13:00:01 GMT",
-     "summary": "Money is flooding into equal-weight stock market ETFs this year. Investing experts say it's not a fad.",
-     "source": "CNBC",
-     "zh": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion"
-    },
-    {
      "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
      "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
      "pubDate": "Sun, 23 Aug 2026 13:00:00 GMT",
@@ -2480,6 +2440,38 @@ window.INDUSTRY_DATA = {
      "summary": "英伟达正在两条鲜少被市场充分定价的战线上悄然构筑护城河。 据汇丰银行8月20日发布的最新研报，汇丰分析师Frank Lee认为，在持续\"业绩超预期\"之外，推动英伟达股价重新定价的新催化剂，将来自两条此前被市场忽视的叙事线。 其一，大力押注开源小语言模型（SLM），有望将潜在客户群从少数超大规模云厂商扩展至数百万开发者和主权国家；其二，通过一系列多年期采购协议提前锁定供应链产能，在竞争对手愈发难以获得关键制造资源的背景下，这一优势将愈加凸显。 两条新叙事线的市场意义在于，它们共同指向同一个核心命题：英伟达的增长引擎，正在从依赖少数超大规模客户的单一结构，向更宽广、更具韧性的客户生态演进。 这一转",
      "source": "华尔街见闻",
      "zh": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”"
+    },
+    {
+     "title": "8月23日晚间上市公司利好消息一览(附名单)",
+     "link": "http://finance.eastmoney.com/news/1353,202608233850367418.html",
+     "pubDate": "Sun, 23 Aug 2026 20:32:26 +0800",
+     "summary": "沪深两市多家上市公司8月23日晚间发布重要公告，以下为利好的消息汇总： 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，建设期一年",
+     "source": "东方财富资讯",
+     "zh": "8月23日晚间上市公司利好消息一览(附名单)"
+    },
+    {
+     "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+     "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+     "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
+     "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
+     "source": "CNBC",
+     "zh": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill"
+    },
+    {
+     "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+     "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+     "pubDate": "Sun, 23 Aug 2026 12:00:01 GMT",
+     "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
+     "source": "CNBC",
+     "zh": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI"
+    },
+    {
+     "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
+     "link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 12:00:00 GMT",
+     "summary": "You can’t just sweep $40 trillion in U.S. national debt under a rug and forget about it — or so the bond market appears to be telling Treasury Secretary Scott Bessent.",
+     "source": "MarketWatch",
+     "zh": "The Treasury’s bond-market intervention isn’t working. So what comes next?"
     }
    ]
   },

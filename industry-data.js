@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/24 00:27:55",
+ "generated_at": "2026/8/24 00:54:56",
  "recent_days": 7,
  "industries": [
   {
@@ -1994,6 +1994,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Is a liquid-cooled PC worth it?",
+     "link": "https://www.engadget.com/2240150/is-liquid-cooled-pc-worth-it/",
+     "pubDate": "Sun, 23 Aug 2026 16:30:00 +0000",
+     "summary": "Air cooling is reliable, while liquid cooling is visually slick. Which one you should use depends on how heavy you game on your system.",
+     "source": "Engadget",
+     "zh": "Is a liquid-cooled PC worth it?"
+    },
+    {
      "title": "These modern smartwatches are in their last year of updates",
      "link": "https://www.engadget.com/2240149/smartwatches-last-year-of-updates/",
      "pubDate": "Sun, 23 Aug 2026 15:30:00 +0000",
@@ -2162,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "Deals: the Pixel 11 series is now on sale, the Galaxy Z8 foldables come with gift cards"
     },
     {
-     "title": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?",
-     "link": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/",
-     "pubDate": "Sat, 22 Aug 2026 21:30:00 +0000",
-     "summary": "We break down the different autonomous driving levels, and why Level 5 is so hard to achieve.",
-     "source": "Engadget",
-     "zh": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?"
-    },
-    {
      "title": "Google’s new Pixel 11 offers an incredible camera feature that Apple should copy",
      "link": "https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/",
      "pubDate": "Sat, 22 Aug 2026 20:43:49 +0000",
@@ -2242,6 +2242,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+     "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 16:45:00 GMT",
+     "summary": "“The cost is absolutely ridiculous.”",
+     "source": "MarketWatch",
+     "zh": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+    },
+    {
+     "title": "Fed's Kashkari not worried about rising US Treasury yields",
+     "link": "https://seekingalpha.com/news/4636061-feds-kashkari-not-worried-about-rising-us-treasury-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 23 Aug 2026 12:41:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fed's Kashkari not worried about rising US Treasury yields"
+    },
+    {
+     "title": "“沪八条”重在畅通一二手房联动",
+     "link": "http://www.eeo.com.cn/2026/0824/1009018.shtml",
+     "pubDate": "Mon, 24 Aug 2026 00:26:13 +0800",
+     "summary": "■王丽新 时隔半年，上海再出楼市新政。8月20日，上海市住房城乡建设管理委、市房屋管理局、市财政局等六部门联合印发《关于优化本市房地产政策措施的通知》（简称“沪八条”），推出涵盖住房公积金、信贷、购房补贴、房票安置、收购二手住房等五大维度的八项举措。 今年以来，上海房地产市场交易持续活跃、整体回暖，展现出较强韧性。从上海楼市实际成交结构看，总价300万元以下的刚需盘与千万元级以上的高端项目...",
+     "source": "经济观察网",
+     "zh": "“沪八条”重在畅通一二手房联动"
+    },
+    {
+     "title": "让住房公积金更好服务安居需求",
+     "link": "http://www.eeo.com.cn/2026/0824/1009017.shtml",
+     "pubDate": "Mon, 24 Aug 2026 00:26:13 +0800",
+     "summary": "■张芗逸 日前，《国务院关于修改〈住房公积金管理条例〉的决定》正式公布，自2026年9月20日起施行。这是《住房公积金管理条例》（以下简称《条例》）自1999年出台以来的第三次修订。此次修订拓宽了住房公积金提取范围，同时扩大制度覆盖面，将个体工商户、非全日制从业人员以及其他灵活就业人员纳入自愿缴存范围。 在笔者看来，这不仅是住房公积金制度本身的完善，更体现了发展理念的转变。随着房地产市场发展阶段...",
+     "source": "经济观察网",
+     "zh": "让住房公积金更好服务安居需求"
+    },
+    {
+     "title": "美债“狂飙”背后的三重风险",
+     "link": "http://www.eeo.com.cn/2026/0824/1009016.shtml",
+     "pubDate": "Mon, 24 Aug 2026 00:26:08 +0800",
+     "summary": "■韩昱 美国联邦政府债务（以下简称“美债”）规模一路“狂飙”。美国财政部日前公布的数据显示，美债总额首次突破40万亿美元，再创历史新高。笔者认为，这一数字揭示了三重风险。 首先是美国债务失控风险，美债规模正呈现“滚雪球”式增长。 美债起源可追溯至美国独立战争时期，其先后经历了早期发展、快速扩张和加速膨胀等阶段。美债规模达到1万亿美元用时超过200年，从1万亿美元到突破10万亿美元仅用了27...",
+     "source": "经济观察网",
+     "zh": "美债“狂飙”背后的三重风险"
+    },
+    {
+     "title": "多措并举激发民间投资活力",
+     "link": "http://www.eeo.com.cn/2026/0824/1009015.shtml",
+     "pubDate": "Mon, 24 Aug 2026 00:26:08 +0800",
+     "summary": "■刘萌 8月20日，国家发展改革委主任郑栅洁主持召开座谈会，与来自电气设备、制药装备、消费服务、智能终端、纺织服装及冶金化工领域的企业负责人深入交流。这是今年以来国家发展改革委召开的第七场民营企业座谈会。 民营企业扎根市场最前沿，对需求冷暖、投资难点感知最为敏锐。把来自市场一线的真实声音纳入政策考量，能够让宏观调控举措更加贴合市场实际，提升政策落地实效。 此前多场民营企业座谈会，分...",
+     "source": "经济观察网",
+     "zh": "多措并举激发民间投资活力"
+    },
+    {
+     "title": "补齐制度短板、强化硬约束 保险业迎资产负债管理新规",
+     "link": "http://www.eeo.com.cn/2026/0824/1009014.shtml",
+     "pubDate": "Mon, 24 Aug 2026 00:26:07 +0800",
+     "summary": "时隔七年，保险业迎来资产负债管理新规。 为有效防范系统性风险，完善审慎监管制度体系，提升保险业资产负债管理水平，8月21日，国家金融监督管理总局（以下简称“金融监管总局”）发布《保险公司资产负债管理办法》（以下简称《办法》）以及《关于实施〈保险公司资产负债管理办法〉有关事项的通知》（以下简称《实施通知》）。 国家金融监管总局表示，《办法》的实施，有助于引导保险公司树立稳健审慎的经营理念，...",
+     "source": "经济观察网",
+     "zh": "补齐制度短板、强化硬约束 保险业迎资产负债管理新规"
+    },
+    {
+     "title": "国家发展改革委“两天三会” 释放稳投资政策加力信号",
+     "link": "http://www.eeo.com.cn/2026/0824/1009013.shtml",
+     "pubDate": "Mon, 24 Aug 2026 00:26:04 +0800",
+     "summary": "■杜雨萌 近期，国家发展改革委在两天内接连召开三场重要会议，从“六张网”重大项目协调调度机制会，到民营企业座谈会，再到“两重”建设工作推进会，每一场会议均聚焦投资领域。 在笔者看来，这一系列部署并非零散安排，而是紧扣下半年经济工作要求，将基础设施的承载力、民间资本的活跃度与重大项目的牵引力放在同一张施工图里统筹推进，为下一阶段投资工作划出清晰路径：统筹“六张网”，重在形成合力、提升整...",
+     "source": "经济观察网",
+     "zh": "国家发展改革委“两天三会” 释放稳投资政策加力信号"
+    },
+    {
      "title": "Top global stories this week: Alibaba, Unitree Robotics among notable names",
      "link": "https://seekingalpha.com/news/4636060-top-global-stories-this-week-alibaba-unitree-robotics-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 23 Aug 2026 12:11:09 -0400",
@@ -2250,68 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "Top global stories this week: Alibaba, Unitree Robotics among notable names"
     },
     {
-     "title": "几内亚首都一垃圾填埋场坍塌造成多人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202608243850423832.html",
-     "pubDate": "Mon, 24 Aug 2026 00:05:15 +0800",
-     "summary": "科纳克里消息：据外媒23日报道，几内亚首都科纳克里一垃圾填埋场当天发生坍塌，造成至少十余人死亡。 （文章来源： 新华网 ）",
-     "source": "东方财富股票",
-     "zh": "几内亚首都一垃圾填埋场坍塌造成多人死亡"
-    },
-    {
-     "title": "阿里巴巴拟在港配售800亿港元新股 募资全额投向人工智能领域",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850426920.html",
-     "pubDate": "Mon, 24 Aug 2026 00:05:11 +0800",
-     "summary": "8月23日， 阿里巴巴 （09988.HK）宣布拟在香港配售新股，本次配售总规模为800亿港元（约合102亿美元）。据 阿里巴巴 披露，此次交易将成为香港上市公司有史以来规模最大的一级后续发行，也是有记录以来规模最大的Regulation S股票发行（针对在美国境外进行的证券发行和销售），同时也是继Alphabet和 英特尔 之后，今年全球规模第三大的一级后续股票发行。该公司表示，计划将此次配售所得净额的100%用于投资其全栈 人工智能 能力，包括扩大和升级 人工智能 基础设施。（央广财经） （文章来源：央广财经）",
-     "source": "东方财富股票",
-     "zh": "阿里巴巴拟在港配售800亿港元新股 募资全额投向人工智能领域"
-    },
-    {
-     "title": "万凯新材上半年归母净利润5.62亿元 同比大增910.09%",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850426719.html",
-     "pubDate": "Mon, 24 Aug 2026 00:05:11 +0800",
-     "summary": "8月23日， 万凯新材 （301216.SZ）披露半年度业绩报告。报告显示，公司上半年实现营业收入96.52亿元，同比增长17.52%；归属于上市公司股东的净利润为5.62亿元，同比增幅达910.09%；基本每股收益0.98元/股。（央广财经） （文章来源：央广财经）",
-     "source": "东方财富股票",
-     "zh": "万凯新材上半年归母净利润5.62亿元 同比大增910.09%"
-    },
-    {
-     "title": "泽宇智能拟斥4.9亿元现金收购智联新能51%股权",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850425934.html",
-     "pubDate": "Mon, 24 Aug 2026 00:05:11 +0800",
-     "summary": "8月23日， 泽宇智能 （301179.SZ）发布公告称，公司拟通过现金支付方式收购智联新能 电力 科技有限公司51%股权，本次交易对价为4.9亿元。本次交易对方作出业绩承诺：标的公司2026年—2028年净利润分别不低于8500万元、9000万元、9500万元，三年累计不低于2.7亿元。据公告披露，本次交易既不构成关联交易，也不构成重大资产重组，交易完成后智联新能将成为 泽宇智能 的控股子公司。（央广财经） （文章来源：央广财经）",
-     "source": "东方财富股票",
-     "zh": "泽宇智能拟斥4.9亿元现金收购智联新能51%股权"
-    },
-    {
-     "title": "上峰材料2026年上半年归母净利润同比增长452.54%",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850426510.html",
-     "pubDate": "Mon, 24 Aug 2026 00:04:58 +0800",
-     "summary": "8月23日， 上峰材料 （000672.SZ）发布公告称，公司2026年半年度报告显示，期内实现营业收入18.39亿元，同比下降19.09%；归属于上市公司股东的净利润13.64亿元，同比增长452.54%。（央广财经） （文章来源：央广财经）",
-     "source": "东方财富股票",
-     "zh": "上峰材料2026年上半年归母净利润同比增长452.54%"
-    },
-    {
-     "title": "中粮资本2026年上半年净利润同比增长8.2%",
-     "link": "http://finance.eastmoney.com/news/1354,202608243850426211.html",
-     "pubDate": "Mon, 24 Aug 2026 00:04:58 +0800",
-     "summary": "8月23日， 中粮资本 （002423.SZ）发布2026年半年度报告摘要。数据显示，2026年上半年公司实现营业总收入51.90亿元，同比增长6.05%；归属于上市公司股东的净利润9.17亿元，同比增长8.20%；基本每股收益0.3981元，同比增长8.21%。（央广财经） （文章来源：央广财经）",
-     "source": "东方财富股票",
-     "zh": "中粮资本2026年上半年净利润同比增长8.2%"
-    },
-    {
      "title": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs, Warsh In Focus",
      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
      "pubDate": "2026-08-23T15:56:36Z",
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs, Warsh In Focus"
-    },
-    {
-     "title": "组图｜重庆铜梁龙0:1不敌大连英博",
-     "link": "http://www.eeo.com.cn/2026/0823/1009001.shtml",
-     "pubDate": "Sun, 23 Aug 2026 23:52:13 +0800",
-     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/282B7B5C135FCD9E56008C4EBACFEBCF.jpg\" alt=\"赛前重庆铜梁龙球员一起加油。第1眼TV-华龙网记者 李一鸣 摄\" data-title=\"赛前重庆铜梁龙球员一起加油。第1眼TV-华龙网记者 李一鸣 摄\" data-target=\"2091530800651513858\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/ORIGINAL/MEDIA/PICTU",
-     "source": "经济观察网",
-     "zh": "组图｜重庆铜梁龙0:1不敌大连英博"
     },
     {
      "title": "Walmart launching clothing brand Scenario in bid to appeal to younger shoppers",
@@ -2362,46 +2370,6 @@ window.INDUSTRY_DATA = {
      "zh": "Rocket Mortgage pushes home equity loans to wipe out credit card debt — here's how that could backfire on homeowners"
     },
     {
-     "title": "连开新店型，外资零售重温北京市场",
-     "link": "http://www.eeo.com.cn/2026/0823/1008971.shtml",
-     "pubDate": "Sun, 23 Aug 2026 22:13:28 +0800",
-     "summary": "在北京市场沉寂多年的外资零售正在重新加码。8月22日，老牌日本零售企业伊藤洋华堂旗下的华堂超市（以下简称“华堂”）在北京望京V-HUB开出新店，面积约1500平方米。从过去“超市+百货”的综合店模式，转向打造“日式社区食品超市”。 华堂并非个例。沃尔玛正在...",
-     "source": "经济观察网",
-     "zh": "连开新店型，外资零售重温北京市场"
-    },
-    {
-     "title": "钱大妈二度递表港交所，上半年溢利降至6805.1万元",
-     "link": "http://www.eeo.com.cn/2026/0823/1008966.shtml",
-     "pubDate": "Sun, 23 Aug 2026 21:53:04 +0800",
-     "summary": "本文来源：时代财经 8月21日，社区连锁生鲜品牌钱大妈国际控股有限公司(下称“钱大妈”)向港交所递交IPO更新申报材料。今年前6个月，钱大妈实现收入50.95亿元，毛利5.84亿元，同比均基本持平；期内溢利6805.1万元，较去年同期的1.76亿元降超60%。钱大妈称，纯利减少主要由于可换股可赎回优先股公允价值亏损，反映公司估值的波动。 申报材料显示，截至2026年上半年，钱大妈录得可换股可赎回优先股公允价值亏损198.5...",
-     "source": "经济观察网",
-     "zh": "钱大妈二度递表港交所，上半年溢利降至6805.1万元"
-    },
-    {
-     "title": "天海电子：第三届董事会第十四次会议决议公告",
-     "link": "http://www.eeo.com.cn/2026/0823/1008965.shtml",
-     "pubDate": "Sun, 23 Aug 2026 21:52:28 +0800",
-     "summary": "证券日报网讯 8月23日，天海电子发布公告称，公司第三届董事会第十四次会议审议通过《关于天海汽车电子集团股份有限公司2026年半年度报告及其摘要的议案》《关于天海汽车电子集团股份有限公司2026年半年度募集资金存放与使用情况的专项报告的议案》《关于天海汽车电子集团股份有限公司使用闲置募集资金进行现金管理的议案》等多项议案。 （编辑 王雪儿）",
-     "source": "经济观察网",
-     "zh": "天海电子：第三届董事会第十四次会议决议公告"
-    },
-    {
-     "title": "理奇智能：公司将于2026年9月9日召开2026年第二次临时股东会",
-     "link": "http://www.eeo.com.cn/2026/0823/1008963.shtml",
-     "pubDate": "Sun, 23 Aug 2026 21:52:17 +0800",
-     "summary": "证券日报网讯 8月23日，理奇智能发布公告称，公司将于2026年9月9日召开2026年第二次临时股东会。 （编辑 王雪儿）",
-     "source": "经济观察网",
-     "zh": "理奇智能：公司将于2026年9月9日召开2026年第二次临时股东会"
-    },
-    {
-     "title": "慧谷新材：公司将于2026年9月8日召开2026年第一次临时股东会",
-     "link": "http://www.eeo.com.cn/2026/0823/1008962.shtml",
-     "pubDate": "Sun, 23 Aug 2026 21:52:15 +0800",
-     "summary": "证券日报网讯 8月23日，慧谷新材发布公告称，公司将于2026年9月8日召开2026年第一次临时股东会。 （编辑 王雪儿）",
-     "source": "经济观察网",
-     "zh": "慧谷新材：公司将于2026年9月8日召开2026年第一次临时股东会"
-    },
-    {
      "title": "Iran says it has discovered huge natural gas field",
      "link": "https://seekingalpha.com/news/4636057-iran-says-has-discovered-huge-natural-gas-field?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 23 Aug 2026 09:26:58 -0400",
@@ -2424,14 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会 是下周最大宏观锚点。美联储主席 沃什 8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。 美联储“最爱通胀指标”7月PCE 与二季度GDP修正值8月26日公布。与此同时， 美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划 ，地缘风险溢价与财政路径双线夹击能源与避险资产。 企业财报层面，AI龙头英伟达 将于8月27日凌晨放榜，其业绩指引被视为AI资本开支周期的“终极",
      "source": "华尔街见闻",
      "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
-    },
-    {
-     "title": "Raytheon Navy air-to-air long-range missile undergoes testing",
-     "link": "https://seekingalpha.com/news/4636056-raytheon-navy-air-to-air-long-range-missile-undergoes-testing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 23 Aug 2026 09:08:39 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Raytheon Navy air-to-air long-range missile undergoes testing"
     },
     {
      "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
@@ -2480,6 +2440,46 @@ window.INDUSTRY_DATA = {
      "summary": "“The last adviser we worked with lost a significant portion of our portfolio.”",
      "source": "MarketWatch",
      "zh": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
+    },
+    {
+     "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
+     "link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 12:00:00 GMT",
+     "summary": "You can’t just sweep $40 trillion in U.S. national debt under a rug and forget about it — or so the bond market appears to be telling Treasury Secretary Scott Bessent.",
+     "source": "MarketWatch",
+     "zh": "The Treasury’s bond-market intervention isn’t working. So what comes next?"
+    },
+    {
+     "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
+     "link": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
+     "pubDate": "Sun, 23 Aug 2026 12:00:00 GMT",
+     "summary": "Tweaking my finances, work and life as I go from the “go-go” years to the “slow-go” years.",
+     "source": "MarketWatch",
+     "zh": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement."
+    },
+    {
+     "title": "8月23日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202608233850358355.html",
+     "pubDate": "Sun, 23 Aug 2026 19:32:16 +0800",
+     "summary": "沪深两市多家上市公司8月23日晚间发布公司公告，以下为重要公告汇总。 【品大事】 慧谷新材 ：拟使用超募资金投资建设珠海慧谷功能性材料建设项目（一期） 慧谷新材 (301683)8月23日公告，拟由公司全资子公司珠海 慧谷新材 料科技有限公司作为项目实施主体，并由其使用超募资金投资建设珠海慧谷功能性材料建设项目（一期），该项目预计投资总额为4.5亿元，拟使用超募资金2.25亿元。 中钨高新 ：金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目 中钨高新 (000657)8月23日公告，控股子公司金洲公司将实施多层板用精密微型刀具产能1.55亿支/年建设项目，预计总投资1.89亿元，",
+     "source": "东方财富资讯",
+     "zh": "8月23日晚间沪深上市公司重大事项公告最新快递"
+    },
+    {
+     "title": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
+     "link": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
+     "pubDate": "Sun, 23 Aug 2026 11:29:05 GMT",
+     "summary": "Analysts are bullish on the prospects of several stocks due to their long-term growth potential and exposure to lucrative areas, such as artificial intelligence.",
+     "source": "CNBC",
+     "zh": "Top Wall Street analysts believe in the growth potential of these 3 stocks"
+    },
+    {
+     "title": "Government can bring robotics to life",
+     "link": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
+     "pubDate": "Sun, 23 Aug 2026 11:15:07 GMT",
+     "summary": "Without policy, there are few incentives to automate business functions where labour costs are low",
+     "source": "Financial Times",
+     "zh": "Government can bring robotics to life"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/23 14:00:11",
+ "generated_at": "2026/8/23 14:53:49",
  "recent_days": 7,
  "industries": [
   {
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "A Hydrogen Generator Charged An Electric Ship. Why Was Hydrogen There?",
+     "link": "https://cleantechnica.com/2026/08/23/hydrogen-ship-charging-tilbury-battery-test/",
+     "pubDate": "Sun, 23 Aug 2026 06:35:44 +0000",
+     "summary": "At the Port of Tilbury on the Thames, GeoPura recently put one of its hydrogen power units on a floating platform and used it to charge a commercial electric vessel. The system delivered 300 kW through five Ballard fuel cells. It was visually irresistible: a barge, hydrogen equipment, a working ... ",
+     "source": "CleanTechnica",
+     "zh": "A Hydrogen Generator Charged An Electric Ship. Why Was Hydrogen There?"
+    },
+    {
      "title": "Red States Are Killin’ It With Their Solar Factories",
      "link": "https://cleantechnica.com/2026/08/22/solar-factory-microgrids-ev-charging-startup-translucent-energy/",
      "pubDate": "Sat, 22 Aug 2026 23:47:54 +0000",
@@ -919,14 +927,6 @@
      "summary": "For six months the entire conversation about oil logistics has been about one strait, and you can hardly blame anyone for that. Hormuz has been effectively closed since late February, when the war between Iran and the U.S. and Israel started, and the EIA reckons only 4.9 million barrels a day of cru",
      "source": "OilPrice",
      "zh": "Every Chokepoint That Isn't Hormuz"
-    },
-    {
-     "title": "Ed Darmanin’s Big Lap — Part 2: Sydney to Broome",
-     "link": "https://cleantechnica.com/2026/08/22/ed-darmanins-big-lap-part-2-sydney-to-broome/",
-     "pubDate": "Sat, 22 Aug 2026 15:22:15 +0000",
-     "summary": "By Ed Darmanin as told to David Waterworth for CleanTechnica Here we go, in Ed’s words with comments from me in square brackets. When I rode out of Sydney on 24 June, the plan was simple enough: 18,000 kilometres, anti-clockwise, one electric motorcycle, no support vehicle. What I didn’t plan ... [c",
-     "source": "CleanTechnica",
-     "zh": "Ed Darmanin’s Big Lap — Part 2: Sydney to Broome"
     },
     {
      "title": "IEA: Southeast Asia Needs Grid Investment to Nearly Quadruple by 2050",
@@ -1060,7 +1060,7 @@
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
+     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
      "source": "Utility Dive",
      "zh": "PJM eyes option to jumpstart surplus interconnection pathway"
     },
@@ -1081,12 +1081,12 @@
      "zh": "Daqo New Energy narrows Q2 losses, resumes sales below cost"
     },
     {
-     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
-     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
-     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
-     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
-     "source": "Energy Storage News",
-     "zh": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal"
+     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
+     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
+     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
+     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
+     "source": "Utility Dive",
+     "zh": "ERCOT aims to complete Texas governor’s data center audit by December"
     }
    ]
   },
@@ -1745,6 +1745,54 @@
    "total": 18,
    "items": [
     {
+     "title": "索尼宣布《绝地潜兵 2》游戏全平台玩家数超 2290 万人",
+     "link": "https://www.ithome.com/0/993/186.htm",
+     "pubDate": "Sun, 23 Aug 2026 06:40:40 GMT",
+     "summary": "IT之家 8 月 23 日消息，据索尼互娱官方数据， 《绝地潜兵 2》游戏已在 PS5、Xbox Series X|S 和 PC 平台累计吸引 2290 万名玩家 （截至 2026 年 8 月 9 日）。 索尼宣布， 《绝地潜兵 2》现在已经加入 PS Plus 订阅游戏库 ，Extra 和 Premium 会员可以立刻玩到这款第三人称射击游戏，还能够体验到《最后生还者第一部》《战神：诸神黄昏》和《对马岛之魂》等大作。 据IT之家了解，《绝地潜兵 2》是箭头社（Arrowhead）开发、索尼互娱发行的一款游戏，玩家可在游戏中选择战略配备，包括呼叫集束炸弹、岗哨机枪、护盾生成器或包含使用有限的特",
+     "source": "IT之家",
+     "zh": "索尼宣布《绝地潜兵 2》游戏全平台玩家数超 2290 万人"
+    },
+    {
+     "title": "OpenAI 投资的美国 AI 公司转用中国开源模型，基于 Kimi K3 打造专属法律 AI 模型",
+     "link": "https://www.ithome.com/0/993/185.htm",
+     "pubDate": "Sun, 23 Aug 2026 06:39:35 GMT",
+     "summary": "IT之家 8 月 23 日消息，据南华早报报道，一家获得 OpenAI 投资的美国人工智能初创公司，基于中国 AI 实验室月之暗面（Moonshot AI）的 Kimi K3 构建了自己的首个内部模型。这凸显出，随着 AI 模型开发成本不断飙升，越来越多西方科技公司开始转向采用中国的开放权重模型。 总部位于旧金山的法律科技公司 Harvey 当地时间周四宣布，其新模型 Harvey Tenet 是在开放权重模型 Kimi K3 的基础上进行后训练得到的。Harvey 的知名投资方还包括红杉资本和 Andreessen Horowitz。 该公司表示，这套系统在复杂法律工作中实现了“业界领先”的",
+     "source": "IT之家",
+     "zh": "OpenAI 投资的美国 AI 公司转用中国开源模型，基于 Kimi K3 打造专属法律 AI 模型"
+    },
+    {
+     "title": "阿里拟配售 800 亿港元新股，全部投入 AI 建设",
+     "link": "https://www.ithome.com/0/993/184.htm",
+     "pubDate": "Sun, 23 Aug 2026 06:24:53 GMT",
+     "summary": "IT之家 8 月 23 日消息，据中新经纬，阿里巴巴宣布拟向美国境外的非美国人士配售新股， 配售总金额为 800 亿港元 （IT之家注：现汇率约合 688.11 亿元人民币） 。这也是阿里巴巴 2019 年港股上市以来首次启动新股配售。 本次配售所得款项净额 将 100% 用于投资全栈 AI 能力 ，加强 AI 基础设施建设，进一步巩固阿里在 AI 领域的全球领先地位。 据IT之家此前报道，阿里巴巴 2027 财年第一财季（2026 年 4 月 1 日～2026 年 6 月 30 日）报告数据显示， 营业总收入 2689.53 亿元，同比增长 9% ；归母净利润 105.37 亿元，同比下降 ",
+     "source": "IT之家",
+     "zh": "阿里拟配售 800 亿港元新股，全部投入 AI 建设"
+    },
+    {
+     "title": "东风日产：车主 App 因服务器机房电力故障导致部分功能无法使用，正在抢修",
+     "link": "https://www.ithome.com/0/993/183.htm",
+     "pubDate": "Sun, 23 Aug 2026 06:19:15 GMT",
+     "summary": "IT之家 8 月 23 日消息，东风日产今日发文公告称，因服务器机房电力故障，导致车主 App 登录、远程控制等线上功能出现无法使用的情况，正在全力抢修，力争尽快恢复服务。 IT之家附原文如下： 尊敬的东风日产车主: 因服务器机房电力故障，导致车主 App 登录、远程控制等线上功能出现无法使用的情况，我们正在全力抢修，力争尽快恢复服务。由此给您带来的不便，我们深表歉意！ 本次突发情况不影响车辆正常驾驶，建议车主随身携带物理钥匙，保障正常出行。如有紧急情况，请第一时间拨打专营店电话，服务人员将协助处理。 功能恢复后我们将第一时间告知，感谢您的理解与耐心等待。 东风汽车有限公司东风日产乘用车公司 ",
+     "source": "IT之家",
+     "zh": "东风日产：车主 App 因服务器机房电力故障导致部分功能无法使用，正在抢修"
+    },
+    {
+     "title": "蔚来李斌称中国汽车行业进入“决赛最残酷阶段”，接下来三五年最后的玩家差不多尘埃落定",
+     "link": "https://www.ithome.com/0/993/182.htm",
+     "pubDate": "Sun, 23 Aug 2026 06:11:02 GMT",
+     "summary": "IT之家 8 月 23 日消息，在 2026 中国首席经济学家复旦管院科创论坛上，蔚来创始人、董事长、CEO 李斌针对新能源汽车产业发展，表达了自己的看法。 李斌称，今年对于新能源汽车是非常重要的一年，整体竞争非常激烈， 行业进入“决赛最残酷阶段” ，一家车企到底能不能跟上？会不会被甩下？最近两年会是非常重要的一个时期。 而接下来三五年，最后的玩家差不多尘埃落定 。 另外，他认为纯电渗透率处于加速爬升阶段，今年中国车市所有动力形式，只有纯电在增长，插混、增程包括纯燃油都在下跌， 纯电技术包括充换电基础设施数量都到了一个拐点 。 李斌还表示，行业从品牌混沌期进入品牌澄清期。过去几年，消费者购买智",
+     "source": "IT之家",
+     "zh": "蔚来李斌称中国汽车行业进入“决赛最残酷阶段”，接下来三五年最后的玩家差不多尘埃落定"
+    },
+    {
+     "title": "小米玄戒芯片技术沟通会明天见，时隔 459 天再迎全新成员",
+     "link": "https://www.ithome.com/0/993/181.htm",
+     "pubDate": "Sun, 23 Aug 2026 06:07:57 GMT",
+     "summary": "IT之家 8 月 23 日消息，小米手机今日官宣，小米玄戒芯片技术沟通会明天见： 2025 年 5 月 22 日，玄戒第一款旗舰处理器面世 时隔 459 天，芯片家族迎来全新成员 明天 14 点，小米玄戒芯片负责人朱丹，带来最新进展，将以图文直播的形式与大家见面，不见不散！ IT之家注意到，8 月 18 日，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰在财报电话会上透露，去年小米成功推出的玄戒 O1 芯片， 在三款终端上的累计出货量已超过百万，实现了旗舰芯片规模化验证 ， 全新一代小米玄戒芯片也即将发布 。",
+     "source": "IT之家",
+     "zh": "小米玄戒芯片技术沟通会明天见，时隔 459 天再迎全新成员"
+    },
+    {
      "title": "藏在宇树、长鑫和寒武纪里的市值叙事秘密",
      "link": "https://www.huxiu.com/article/4885249.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 13:52:35 +0800",
@@ -1753,20 +1801,12 @@
      "zh": "藏在宇树、长鑫和寒武纪里的市值叙事秘密"
     },
     {
-     "title": "华为 Pura X Max 系列手机 HarmonyOS 7.0.0.102SP8 升级不限量开放，新增 3D 空间壁纸等功能",
-     "link": "https://www.ithome.com/0/993/180.htm",
-     "pubDate": "Sun, 23 Aug 2026 05:51:11 GMT",
-     "summary": "IT之家 8 月 23 日消息，华为官方昨晚宣布， HUAWEI Pura X Max 系列横向阔折叠手机的鸿蒙 HarmonyOS 7.0.0.100 SP10 → 7.0.0.102 SP8 版本 升级不限量开放 （升级方式：设置 > 搜索“软件更新”> 检查更新）。 IT之家附版本更新日志： 亮点推荐 1. 新增 3D 空间壁纸功能，通过照片中的元素与 3D 时钟巧妙结合，打造 3D 透视空间感锁屏壁纸，为您提供丰富的壁纸视觉效果和玩法 (设置> 桌面和个性化 > 壁纸 > 3D 空间壁纸) 2. 新增亲密圈功能，支持通过联系人、华为账号添加家人与挚友，即可与对方共享健康数据，实时查看对",
-     "source": "IT之家",
-     "zh": "华为 Pura X Max 系列手机 HarmonyOS 7.0.0.102SP8 升级不限量开放，新增 3D 空间壁纸等功能"
-    },
-    {
-     "title": "上汽荣威家越 07 成都车展首次向公众开放，15 万级家庭 SUV",
-     "link": "https://www.ithome.com/0/993/179.htm",
-     "pubDate": "Sun, 23 Aug 2026 05:49:47 GMT",
-     "summary": "IT之家 8 月 23 日消息，2026 成都车展于 8 月 21 日开幕，上汽荣威家越 07 首次向公众开放，定位“15 万级家庭 SUV”，号称“25 万级配置，15 万级享有”。 据此前官方介绍，荣威家越 07 采用昂扬美学设计，提供龙晶紫、玛瑙灰、宝石蓝、珍溪黑、钻石白、翡翠绿等宝石车色，可选绵云青空、坚果可可内饰色，车内还配有 AI 灵光氛围灯。此次新车主打 AI 极速制冰冷暖两用冰箱，可实现最快十分钟制冰。 IT之家注意到，新车尺寸为 4900×1910×1753mm、 轴距 2908mm ，拥有 88.8% 高得房率、3237mm 有效车长和 1339mm 同级最大垂向空间。车内",
-     "source": "IT之家",
-     "zh": "上汽荣威家越 07 成都车展首次向公众开放，15 万级家庭 SUV"
+     "title": "The End of an Athlon",
+     "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+     "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
+     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 9 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "The End of an Athlon"
     },
     {
      "title": "The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course (Financial Times)",
@@ -1775,14 +1815,6 @@
      "summary": "Financial Times : The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course &nbsp; &mdash;&nbsp; Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during marke",
      "source": "Techmeme",
      "zh": "The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course (Financial Times)"
-    },
-    {
-     "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 预售价格再降，叠加权益后最低 32.99 万元起",
-     "link": "https://www.ithome.com/0/993/177.htm",
-     "pubDate": "Sun, 23 Aug 2026 05:20:30 GMT",
-     "summary": "IT之家 8 月 23 日消息， 奇瑞捷豹路虎 FREELANDER 神行者 8 已于 8 月 14 日晚间开启预售 。新车全系标配华为乾崑智驾 ADS 5；全球首批搭载高通骁龙最新一代 8397 车规级芯片；全系标配 800V 高压平台，预售价 33.99 万-44.99 万元。 IT之家注意到，在 2026 成都车展上，神行者 8 也迎来亮相，并在发布会上公布了最新权益及预售价格，新车叠加权益后最低 32.99 万元起。 权益 订金膨胀：订金 1,000 元可抵扣 6,000 元购车款； 增换补贴：奇瑞捷豹路虎车主享 15,000 元补贴，其他品牌车主享 10,000 元补贴； 金融方案：",
-     "source": "IT之家",
-     "zh": "奇瑞捷豹路虎 FREELANDER 神行者 8 预售价格再降，叠加权益后最低 32.99 万元起"
     },
     {
      "title": "80%的具身订单可能是假的，缺订单正让赛道疯狂",
@@ -1809,14 +1841,6 @@
      "zh": "Semiconductor cram schools are flourishing in Seoul as applications to Samsung and SK Hynix surge, fuelled by record earnings and eye-catching worker bonuses (Financial Times)"
     },
     {
-     "title": "索尼发邮件重申：PlayStation 数字游戏仅为授权许可，并非出售给玩家",
-     "link": "https://www.ithome.com/0/993/176.htm",
-     "pubDate": "Sun, 23 Aug 2026 05:04:18 GMT",
-     "summary": "IT之家 8 月 23 日消息，从 8 月 23 日开始，部分 PlayStation 用户计划关闭主机，在 9 月 1 日之前拒绝游玩任何游戏，也不在 PlayStation 平台上进行消费，以抗议索尼决定在 2028 年停止生产实体游戏光盘。 如今，一些用户开始收到索尼发送的电子邮件，其中详细说明了 PlayStation 关于数字游戏购买的服务条款，提醒用户此前已经同意 PlayStation 的服务条款。 邮件中的一部分内容再次强调，数字版 PlayStation 软件是授权给玩家使用，而不是出售给玩家的。如果玩家的账号被封禁或关闭，相关授权可能会被撤销。 目前尚不清楚这封邮件是在针对",
-     "source": "IT之家",
-     "zh": "索尼发邮件重申：PlayStation 数字游戏仅为授权许可，并非出售给玩家"
-    },
-    {
      "title": "戚薇授权AI短剧，观众为什么坐不住了？",
      "link": "https://www.huxiu.com/article/4885240.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 12:41:37 +0800",
@@ -1841,14 +1865,6 @@
      "zh": "从打球机器人，看Physical AI 的路线之争"
     },
     {
-     "title": "华为 MatePad Edge 鸿蒙 HarmonyOS 7.0 花粉 Beta 版电脑模式无线投屏功能上线",
-     "link": "https://www.ithome.com/0/993/175.htm",
-     "pubDate": "Sun, 23 Aug 2026 04:36:44 GMT",
-     "summary": "IT之家 8 月 23 日消息，据华为官方分享，MatePad Edge 在升级鸿蒙 HarmonyOS 7.0 花粉 Beta 版后， 电脑模式无线投屏功能上线 ，支持无线连接大屏。 IT之家附功能使用前置条件如下： 1.使用该功能前您需要确认 HUAWEI MatePad Edge 已升级至 HarmonyOS 7.0.0.102SP5 及以上版本。您可以通过以下路径升级（设置 > 搜索“软件更新（右上角∷）”> 升级尝鲜）。 2.HUAWEI MatePad Edge 与被投屏设备需登录同一华为账号。 ▲ IT之家图赏：华为 MatePad Edge 实拍 新功能支持通过无线连接将 HU",
-     "source": "IT之家",
-     "zh": "华为 MatePad Edge 鸿蒙 HarmonyOS 7.0 花粉 Beta 版电脑模式无线投屏功能上线"
-    },
-    {
      "title": "拿游戏录像训练机器人，这家公司两个月估值从23亿涨到60亿美元",
      "link": "https://www.huxiu.com/article/4885247.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 12:36:41 +0800",
@@ -1860,17 +1876,9 @@
      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
      "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
      "pubDate": "Sun, 23 Aug 2026 04:28:18 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 13 # Comments: 2",
+     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 18 # Comments: 4",
      "source": "Hacker News",
      "zh": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has"
-    },
-    {
-     "title": "启境 GX7 智能「阔」五座 SUV 西湖烟紫色官图发布，新车首搭华为鸿蒙座舱 6、预埋 L3 级高阶架构",
-     "link": "https://www.ithome.com/0/993/173.htm",
-     "pubDate": "Sun, 23 Aug 2026 04:25:38 GMT",
-     "summary": "IT之家 8 月 23 日消息，启境汽车官方昨日放出了启境 GX7 智能「阔」五座 SUV 的西湖烟紫车色的官图，全方位展示了新车的外观设计。 据介绍， 启境 GX7 预埋 L3 级高阶架构 ，并采用 L3 级全链路八大冗余架构设计，首搭鸿蒙座舱 HarmonySpace 6。新车依旧由启境和华为乾崑联合设计，采用 60% 轴长比启境家族化设计，是一款拥有跑车姿态的大 SUV。新车还采用俯冲低趴下压车头 + 宽幅外扩的前后轮拱设计。 根据规划，启境 GX7 将于今年下半年上市，预计主销价格在 20-35 万元。据IT之家此前报道，在 8 月 21 日的 2026 成都车展上， 启境 GX7 实",
-     "source": "IT之家",
-     "zh": "启境 GX7 智能「阔」五座 SUV 西湖烟紫色官图发布，新车首搭华为鸿蒙座舱 6、预埋 L3 级高阶架构"
     },
     {
      "title": "中国创新药出海第一站，为何选澳洲？",
@@ -1884,7 +1892,7 @@
      "title": "The Golden Rule for Becoming a Better Writer",
      "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
      "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
-     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 27 # Comments: 7",
+     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 48 # Comments: 23",
      "source": "Hacker News",
      "zh": "The Golden Rule for Becoming a Better Writer"
     },
@@ -1924,7 +1932,7 @@
      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
      "link": "https://martypc.net/",
      "pubDate": "Sun, 23 Aug 2026 03:13:16 +0000",
-     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 60 # Comments: 5",
+     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 73 # Comments: 14",
      "source": "Hacker News",
      "zh": "MartyPC is a cross-platform emulator of early PCs written in Rust"
     },
@@ -1964,25 +1972,17 @@
      "title": "I Dream of Quieter Computing",
      "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
      "pubDate": "Sun, 23 Aug 2026 02:33:22 +0000",
-     "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 34 # Comments: 7",
+     "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 46 # Comments: 14",
      "source": "Hacker News",
      "zh": "I Dream of Quieter Computing"
     },
     {
-     "title": "The Art and Beauty of Blade Runner",
+     "title": "The Art and Beauty of Blade Runner (2015)",
      "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
      "pubDate": "Sun, 23 Aug 2026 00:56:03 +0000",
-     "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 43 # Comments: 7",
+     "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 52 # Comments: 13",
      "source": "Hacker News",
-     "zh": "The Art and Beauty of Blade Runner"
-    },
-    {
-     "title": "Sources and documents detail how Tether&apos;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply (Reuters)",
-     "link": "https://www.techmeme.com/260822/p14#a260822p14",
-     "pubDate": "Sat, 22 Aug 2026 20:00:14 -0400",
-     "summary": "Reuters : Sources and documents detail how Tether's plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply &nbsp; &mdash;&nbsp; Uruguay seemed like the perfect place for cryptocurrency giant Tether to launch a bitcoin mining operation.",
-     "source": "Techmeme",
-     "zh": "Sources and documents detail how Tether&apos;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply (Reuters)"
+     "zh": "The Art and Beauty of Blade Runner (2015)"
     }
    ]
   },
@@ -2241,60 +2241,84 @@
    "total": 13,
    "items": [
     {
+     "title": "受台风“紫檀”影响 今日至25日部分列车停运",
+     "link": "http://finance.eastmoney.com/news/1350,202608233850267859.html",
+     "pubDate": "Sun, 23 Aug 2026 14:45:42 +0800",
+     "summary": "受第19号台风“紫檀”和西南季风共同影响，海南岛、广西南部、广东、福建、浙江等地部分地区有大到暴雨，局地大暴雨到特大暴雨。为确保旅客列车运行安全，铁路部门动态调整旅客列车开行方案。 来自国铁广州局的消息，受台风影响，根据调度计划，23日20时至24日8时，甬广高铁部分列车停运；24日8时至25日2时，海南高铁西环段部分列车停运，同时，部分列车可能出现晚点情况。 受台风路径变化影响，广西沿海铁路昨天停运的邕北、钦防、防东铁路的部分列车已经恢复运行。国铁南昌局目前在甬广高铁以及峰福、昌福、杭深、福平、兴泉、漳泉等铁路部分区段启动防洪Ⅳ级应急响应。 铁路部门表示，将持续根据台风影响范围和降雨情况，动",
+     "source": "东方财富股票",
+     "zh": "受台风“紫檀”影响 今日至25日部分列车停运"
+    },
+    {
+     "title": "SemiAnalysis：闪存制造正“由钨转钼”",
+     "link": "https://wallstreetcn.com/articles/3780077",
+     "pubDate": "Sun, 23 Aug 2026 14:40:54 +0800",
+     "summary": "8月23日，半导体行业研究机构SemiAnalysis在X平台发布系列推文，阐述3D NAND闪存制造从钨（Tungsten，W）向钼（Molybdenum，Mo）转型的技术逻辑。 3D NAND大约十年前就停止了横向缩小，转而靠垂直堆叠层数来提升存储密度。但当层数突破约300层后，连接每个存储单元的钨字线（word lines）遭遇了物理瓶颈： 电阻过高、基于氟的化学工艺导致漏电，以及在超深孔中无法完成有效填充。 SemiAnalysis在推文表示： “钼不是一种优化，是300层以上NAND的必选项。” 与钨相比，钼具备三项关键优势：更低的电阻（带来更快的读写速度）、无需氟基化学工艺，以及在",
+     "source": "华尔街见闻",
+     "zh": "SemiAnalysis：闪存制造正“由钨转钼”"
+    },
+    {
+     "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+     "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+     "pubDate": "Sun, 23 Aug 2026 06:39:00 GMT",
+     "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+     "source": "CNBC",
+     "zh": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8"
+    },
+    {
+     "title": "加拿大三省长力挺反制美国关税",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850267432.html",
+     "pubDate": "Sun, 23 Aug 2026 14:35:43 +0800",
+     "summary": "当地时间8月22日，加拿大总理卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。对此，加拿大安大略省、大不列颠哥伦比亚省以及魁北克省省长均发言力挺。安大略省省长道格·福特呼吁加拿大各省团结一致，组成“加拿大队”，动用一切手段回击美国。大不列颠哥伦比亚省省长戴维·伊比表示，当前美国政府不可信，加拿大必须挺身而出直面霸凌者。 美国总统特朗普7月20日签署多个公告，依据《斯穆特-霍利关税法》第338条款对从加拿大进口的红酒、曲棍球棒和 水泥 等数百项特定商品加征50%关税。新关税措施原本定于美东时间8月19日开始生效，特朗普8月18日",
+     "source": "东方财富股票",
+     "zh": "加拿大三省长力挺反制美国关税"
+    },
+    {
+     "title": "乌克兰利沃夫市一药店发生爆炸 2人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850267392.html",
+     "pubDate": "Sun, 23 Aug 2026 14:35:11 +0800",
+     "summary": "当地时间8月23日，乌克兰利沃夫市一处药店发生爆炸，初步确认有2人死亡。目前，执法人员正在现场开展工作。爆炸原因尚不清楚。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "乌克兰利沃夫市一药店发生爆炸 2人死亡"
+    },
+    {
+     "title": "深演智能获纳恒生综合指数 距上市不足四月即有望跻身港股通",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850267510.html",
+     "pubDate": "Sun, 23 Aug 2026 14:29:42 +0800",
+     "summary": "上证报中国证券网讯（记者罗茂林）8月21日，恒生指数公司公布季度检讨结果，北京 深演智能 科技股份有限公司获纳入恒生 综合 指数成份股，调整将于9月7日起生效。这意味着，这家今年5月27日登陆港交所的“企业决策 AI智能体 第一股”，有望同步进入沪港通及深港通交易机制。 公开资料显示， 深演智能 成立于2009年，聚焦企业决策AI赛道，上市首日股价大涨266%。公司凭借“大模型+算法模型”双层架构，打造企业决策 AI智能体 系统DeepAgent，以Agentic Software和Agentic Service两大业务替代传统企业软件，在中国营销与销售决策 AI应用 市场位居首位。 当前全球",
+     "source": "东方财富股票",
+     "zh": "深演智能获纳恒生综合指数 距上市不足四月即有望跻身港股通"
+    },
+    {
+     "title": "《欢迎来龙餐馆》，已破15亿元，进入年度前五！",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850267786.html",
+     "pubDate": "Sun, 23 Aug 2026 14:29:00 +0800",
+     "summary": "截至8月23日11时27分，上映13天的电影《欢迎来龙餐馆》（以下简称《龙餐馆》）总票房已突破15亿元。昨日晚间，该片累计票房已超越《蜘蛛侠：崭新之日》，进入年度电影总票房榜前五。 《龙餐馆》由导演文牧野执导，主演阵容包括沈腾、蒋奇明、李治廷等知名演员。自8月11日上映以来，该片口碑和票房一路走高，电影本身和演员也多次登上社交媒体热搜榜。 在豆瓣平台，《龙餐馆》以8.4分的高分开局，随着观影人次的增多，评分不降反升，目前豆瓣评分高达8.6分。 在票房表现方面，截至目前，该片为2026年战争片内地票房冠军，2026年七夕档票房冠军，以及内地影史七夕节剧情片总场次冠军。 截至目前，在《龙餐馆》的加",
+     "source": "东方财富股票",
+     "zh": "《欢迎来龙餐馆》，已破15亿元，进入年度前五！"
+    },
+    {
+     "title": "阿里巴巴拟再融资800亿港元加码AI建设",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850267626.html",
+     "pubDate": "Sun, 23 Aug 2026 14:29:00 +0800",
+     "summary": "8月23日消息， 阿里巴巴 宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是 阿里巴巴 自2019年港股上市以来首次启动新股配售。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。 （文章来源：上海证券报）",
+     "source": "东方财富股票",
+     "zh": "阿里巴巴拟再融资800亿港元加码AI建设"
+    },
+    {
+     "title": "特朗普投资账户6月交易上千笔，金融股成重仓方向",
+     "link": "https://wallstreetcn.com/articles/3780076",
+     "pubDate": "Sun, 23 Aug 2026 14:10:15 +0800",
+     "summary": "特朗普6月投资账户完成逾千笔股票交易，金融板块成为最大买入方向，白宫坚称总统本人对交易决策毫不知情。 据《华尔街日报》8月22日报道，根据最新政府披露文件，美国总统特朗普的投资账户在今年6月完成了逾1000笔股票交易，买入笔数超过550笔，卖出笔数超过450笔。他的证券买入总额超过4900万美元，而卖出总额至少为2850万美元。 这份文件于当地时间周六公开发布。白宫随即表示，总统本人在上述交易中不扮演任何角色，所有操作均由独立管理人通过计算机模型自动执行，以复制主流股票指数的表现。 6月18日：单日大额买卖同步发生 披露文件显示，6月18日是当月交易最为集中的一天。 当天，特朗普账户分别买入逾",
+     "source": "华尔街见闻",
+     "zh": "特朗普投资账户6月交易上千笔，金融股成重仓方向"
+    },
+    {
      "title": "阿里拟配售800亿港元新股，全部投入AI建设",
      "link": "http://www.eeo.com.cn/2026/0823/1008538.shtml",
      "pubDate": "Sun, 23 Aug 2026 13:52:04 +0800",
      "summary": "中新经纬8月23日电 中新经纬8月23日获悉，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售。 本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。(中新经纬APP) 编辑：李晓萱 责编：魏薇",
      "source": "经济观察网",
      "zh": "阿里拟配售800亿港元新股，全部投入AI建设"
-    },
-    {
-     "title": "阿里拟新募资800亿港元加码AI",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850264153.html",
-     "pubDate": "Sun, 23 Aug 2026 13:49:18 +0800",
-     "summary": "《科创板日报》记者获悉， 阿里巴巴 宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是 阿里巴巴 2019年港股上市以来首次启动新股配售。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。 （文章来源：科创日报）",
-     "source": "东方财富股票",
-     "zh": "阿里拟新募资800亿港元加码AI"
-    },
-    {
-     "title": "人事变动丨张晋豪任中国联通青海省分公司党委书记、总经理",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850264258.html",
-     "pubDate": "Sun, 23 Aug 2026 13:43:00 +0800",
-     "summary": "记者获悉，近日，张晋豪出任 中国联通 青海省分公司党委书记、总经理。此前，张晋豪任 中国联通 湖南省分公司党委副书记、副总经理、工会主席。 （文章来源：人民邮电报）",
-     "source": "东方财富股票",
-     "zh": "人事变动丨张晋豪任中国联通青海省分公司党委书记、总经理"
-    },
-    {
-     "title": "阿里巴巴拟配售800亿港元新股 募资全部投向AI",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850263939.html",
-     "pubDate": "Sun, 23 Aug 2026 13:42:49 +0800",
-     "summary": "8月23日， 阿里巴巴 (09988.HK)宣布，拟在香港配售新股。该公司表示，此次配售总额为800亿港元（约合102亿美元）。 阿里巴巴 表示，这笔交易将成为香港上市公司有史以来规模最大的一级后续发行，也是有记录以来规模最大的Regulation S股票发行（针对在美国境外进行的证券发行和销售），同时也是继Alphabet和 英特尔 之后，今年全球规模第三大的一级后续股票发行。该公司表示，计划将此次配售所得净额的100%用于投资其全栈 人工智能 能力，包括扩大和升级 人工智能 基础设施。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "阿里巴巴拟配售800亿港元新股 募资全部投向AI"
-    },
-    {
-     "title": "阳光乳业：上半年净利润4637.41万元，同比下降22.48%",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850263748.html",
-     "pubDate": "Sun, 23 Aug 2026 13:42:33 +0800",
-     "summary": "8月23日，北京商报记者获悉，近日 阳光乳业 披露的2026年半年度报告显示，报告期内实现营业总收入约2.17亿元，同比下降8.13%；实现归母净利润约4637.41万元，同比下降22.48%。 （文章来源：北京商报）",
-     "source": "东方财富股票",
-     "zh": "阳光乳业：上半年净利润4637.41万元，同比下降22.48%"
-    },
-    {
-     "title": "天润乳业：上半年净利润5425.00万元，同比扭亏为盈",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850263440.html",
-     "pubDate": "Sun, 23 Aug 2026 13:42:33 +0800",
-     "summary": "8月23日，北京商报记者获悉，近日 天润乳业 披露的2026年半年度报告显示，报告期内实现营业总收入约为14.50亿元，同比增长3.93%；归母净利润约为5425.00万元，同比扭亏为盈。 （文章来源：北京商报）",
-     "source": "东方财富股票",
-     "zh": "天润乳业：上半年净利润5425.00万元，同比扭亏为盈"
-    },
-    {
-     "title": "骑士乳业：上半年营收6.20亿元，同比下降7.10%",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850263830.html",
-     "pubDate": "Sun, 23 Aug 2026 13:42:33 +0800",
-     "summary": "8月23日，北京商报记者获悉，近日 骑士乳业 披露的2026年半年度报告显示，报告期内实现营业收入约为6.20亿元，同比下降7.10%；实现归母净利润约为3927.55万元，同比增长139.91%。 （文章来源：北京商报）",
-     "source": "东方财富股票",
-     "zh": "骑士乳业：上半年营收6.20亿元，同比下降7.10%"
     },
     {
      "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
@@ -2388,7 +2412,7 @@
      "title": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
      "link": "https://wallstreetcn.com/articles/3779970",
      "pubDate": "Sun, 23 Aug 2026 10:14:19 +0800",
-     "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会 是下周最大宏观锚点。美联储主席 沃什 8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。 美联储“最爱通胀指标”7月PCE 与二季度GDP修正值8月26日公布。与此同时， 美财长贝森特8月24日召开伊朗制裁发布会并预告新财政整顿计划 ，地缘风险溢价与财政路径双线夹击能源与避险资产。 企业财报层面，AI龙头英伟达 将于8月27日凌晨放榜，其业绩指引被视为AI资本开支周期的“终极验证”，",
+     "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会 是下周最大宏观锚点。美联储主席 沃什 8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。 美联储“最爱通胀指标”7月PCE 与二季度GDP修正值8月26日公布。与此同时， 美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划 ，地缘风险溢价与财政路径双线夹击能源与避险资产。 企业财报层面，AI龙头英伟达 将于8月27日凌晨放榜，其业绩指引被视为AI资本开支周期的“终极",
      "source": "华尔街见闻",
      "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
     },
@@ -2409,12 +2433,12 @@
      "zh": "Venezuela hits roadblock in exporting more oil, as ports can't keep up with demand - report"
     },
     {
-     "title": "因存储芯片成本飙升，英伟达高端服务器被曝明年将涨价15%",
-     "link": "https://wallstreetcn.com/articles/3780066",
-     "pubDate": "Sun, 23 Aug 2026 08:49:31 +0800",
-     "summary": "英伟达的部分最大客户已被告知，由于存储芯片成本飙升， 搭载英伟达人工智能芯片的服务器价格在大部分情况下将涨价超过15%。 8月22日，据彭博援引知情人士报道称， 此次涨价将从明年初出货的系统开始生效，影响范围包括搭载旗舰级Vera Rubin和Grace Blackwell芯片的系统。 给微软、谷歌和甲骨文等大厂代工服务器的工厂，已经发出了涨价通知。具体涨幅将取决于英伟达芯片的代际和存储配置。 价格上涨不仅将推高AI数据中心的建设成本，也为英伟达将于8月26日公布的第二财季业绩增添了新的市场关注焦点。 内存短缺是核心推手 此轮涨价的根本驱动力在于DRAM内存供应的结构性紧张。 英伟达的AI加速",
-     "source": "华尔街见闻",
-     "zh": "因存储芯片成本飙升，英伟达高端服务器被曝明年将涨价15%"
+     "title": "91-year-old supermarket chain closes stores, lays off employees",
+     "link": "https://finance.yahoo.com/economy/articles/91-old-supermarket-chain-closes-231700441.html",
+     "pubDate": "2026-08-22T23:17:00Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "91-year-old supermarket chain closes stores, lays off employees"
     },
     {
      "title": "SA Asks: What are the most promising oncology companies right now?",
@@ -2455,30 +2479,6 @@
      "summary": "Canadian Prime Minister Mark Carney on Saturday announced his country would impose “dollar-for-dollar” tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.",
      "source": "MarketWatch",
      "zh": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
-    },
-    {
-     "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
-     "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-     "pubDate": "Sat, 22 Aug 2026 20:30:00 GMT",
-     "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
-     "source": "MarketWatch",
-     "zh": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
-    },
-    {
-     "title": "Nvidia customers reportedly warned about AI-related price hikes",
-     "link": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-     "pubDate": "Sat, 22 Aug 2026 20:26:44 GMT",
-     "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
-     "source": "CNBC",
-     "zh": "Nvidia customers reportedly warned about AI-related price hikes"
-    },
-    {
-     "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-     "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-     "pubDate": "Sat, 22 Aug 2026 20:18:15 GMT",
-     "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
-     "source": "CNBC",
-     "zh": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8"
     }
    ]
   },

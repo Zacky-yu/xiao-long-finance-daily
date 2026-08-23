@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 23:50:10",
+ "generated_at": "2026/8/24 00:27:55",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "800亿港元！阿里宣布为AI再融资，传已超额认购",
+     "link": "https://zhidx.com/p/587414.html",
+     "pubDate": "Sun, 23 Aug 2026 23:32:35 +0800",
+     "summary": "智东西 作者 | 李水青 编辑 | 漠影 智东西8月23日报道，刚刚，阿里巴巴宣布拟通过香港市场配售新股，募集资金总额约 800亿港元 （约合102亿美元，约合人民币686亿元）。 阿里称，计划将本次配售的 100% 净募集资金用于投资“ 全栈AI能力 ”。结合阿里此前披露的全栈AI战略，这主要覆盖 AI芯片、基础设施 以及 AI模型的开发和部署 等领域。 这将成为 香港上市公司史上规模最大的一级市场后续股票发行 。按照路透社统计，放到全球范围看，这笔交易也将成为2026年以来 第三大 一级市场后续股票发行，仅次于谷歌母公司Alphabet和英特尔的交易。 外媒The Information援",
+     "source": "智东西",
+     "zh": "800亿港元！阿里宣布为AI再融资，传已超额认购"
+    },
+    {
+     "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+     "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+     "pubDate": "Sun, 23 Aug 2026 15:30:00 +0000",
+     "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+     "source": "TechCrunch AI",
+     "zh": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash"
+    },
     {
      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
@@ -210,14 +226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power"
     },
     {
-     "title": "Anthropic’s Opus 4.6 is a smut-machine",
-     "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-     "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
-     "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-     "source": "TechCrunch AI",
-     "zh": "Anthropic’s Opus 4.6 is a smut-machine"
-    },
-    {
      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
      "link": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
      "pubDate": "Fri, 21 Aug 2026 17:02:24 +0000",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "See how AI agents are autonomously handling support, coding, supply chains, healthcare, and fraud detection today.",
      "source": "KDnuggets",
      "zh": "5 Real-World Use Cases for AI Agents Transforming Industries"
-    },
-    {
-     "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-     "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-     "pubDate": "Fri, 21 Aug 2026 11:59:48 +0000",
-     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-     "source": "DeepMind",
-     "zh": "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+     "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+     "pubDate": "Sun, 23 Aug 2026 16:03:00 +0000",
+     "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+     "source": "TechCrunch Transport",
+     "zh": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions"
+    },
+    {
      "title": "'Most Companies Are Struggling': Executive Shares An Uncomfortable Truth About Solid-State EV Batteries",
      "link": "https://insideevs.com/news/805750/lges-solid-state-battery-evs-uncomfortable-truth/",
      "pubDate": "Sat, 22 Aug 2026 14:00:00 +0000",
@@ -832,14 +840,6 @@ window.INDUSTRY_DATA = {
      "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
      "source": "TechCrunch Transport",
      "zh": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities"
-    },
-    {
-     "title": "Rivian spinout Also raises another $150M",
-     "link": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
-     "pubDate": "Wed, 19 Aug 2026 15:39:47 +0000",
-     "summary": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.",
-     "source": "TechCrunch Transport",
-     "zh": "Rivian spinout Also raises another $150M"
     }
    ]
   },
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "New 'Star Trek' documentary featuring William Shatner hits theaters this fall, celebrating 60 years of Trek",
+     "link": "https://www.space.com/entertainment/space-movies-shows/new-star-trek-documentary-featuring-william-shatner-hits-theaters-this-fall-celebrating-60-years-of-trek",
+     "pubDate": "Sun, 23 Aug 2026 16:00:00 +0000",
+     "summary": "\"This film is a love letter to 'Star Trek'\"",
+     "source": "Space.com",
+     "zh": "New 'Star Trek' documentary featuring William Shatner hits theaters this fall, celebrating 60 years of Trek"
+    },
+    {
      "title": "How a huge fleet of 17 spacecraft discovered something surprising about solar eruptions",
      "link": "https://www.space.com/astronomy/sun/how-a-huge-fleet-of-17-spacecraft-discovered-something-surprising-about-solar-eruptions",
      "pubDate": "Sun, 23 Aug 2026 14:00:00 +0000",
@@ -1344,14 +1352,6 @@ window.INDUSTRY_DATA = {
      "summary": "Acclaimed literary critic and Senior Editor at The Atlantic Adam Kirsch explores humanity's insatiable drive to wonder at unidentified phenomena in the skies.",
      "source": "Space.com",
      "zh": "'We Want to Believe' book explores the reality of UFOs: 'It's always going to be more likely that someone is wrong about what they saw' (interview)"
-    },
-    {
-     "title": "This Week In Space podcast: Episode 224 — The Science of Artemis",
-     "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-224-the-science-of-artemis",
-     "pubDate": "Sat, 22 Aug 2026 13:24:12 +0000",
-     "summary": "On Episode 224 of This Week In Space, Rod Pyle and guest co-host Rick Jenet are joined by Dr. David Kring to discuss the where, whys, and hows of the Artemis Program's lunar exploration plans.",
-     "source": "Space.com",
-     "zh": "This Week In Space podcast: Episode 224 — The Science of Artemis"
     },
     {
      "title": "APOD: 2026 August 22 – Mostly Perseids",
@@ -1746,20 +1746,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "16万家企业“迁回”之后，地方政府拿什么抢项目？",
-     "link": "https://www.huxiu.com/article/4885318.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 23:45:05 +0800",
-     "summary": "本文来自微信公众号： 防冷涂的腊 ，作者：防冷涂的腊 一组看似反常的数据，先于政策文件揭开了地方招商的变化。 国家税务总局近期披露，各省市已废止或修改违规招商引资涉税文件、协议条款833件；近16万户为了享受不规范奖补而异地注册的企业，已经迁回实际经营地。迁回后，这些企业2026年上半年缴纳税收同比增长16%。 “迁回”容易让人联想到机器拆装、厂房腾挪。这里面相当一部分企业并没有搬动生产线，改变的是注册地址、开票地或纳税地。过去，一家企业在A地生产经营，可以在B地注册、开票和纳税；B地再用地方留成、经济贡献奖等方式返还部分收益。全国没有因此多生产一台设备，地方之间争到的是税源的归属。 8月21",
+     "title": "弄清中国的消费数据|| 大视野",
+     "link": "https://www.huxiu.com/article/4885321.html?f=rss",
+     "pubDate": "Mon, 24 Aug 2026 00:09:00 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：秦朔，原文标题：《弄清中国的消费数据 || 大视野》 这是一篇探讨中国消费数据的研究型文章。 消费很重要，越来越重要，方方面面也越来越重视。 但提振消费不容易。供强需弱，外（需）强内（需）弱，是当下的口头禅。 2025年，我国社会消费品零售总额突破50万亿元大关。根据国务院批复同意的《扩大消费“十五五”规划》，到2030年，社会消费品零售总额达到60万亿元左右。据此测算，未来五年年均复合增速约为3.7%，而今年作为“十五五”开局之年，1～7月的增速仅为1.2%。（注：下文中，社会消费品零售有时简称“社零”） 中国消费到底处于什么情况？每个人都有体感。如",
      "source": "虎嗅",
-     "zh": "16万家企业“迁回”之后，地方政府拿什么抢项目？"
+     "zh": "弄清中国的消费数据|| 大视野"
     },
     {
-     "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-     "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-     "pubDate": "Sun, 23 Aug 2026 15:30:00 +0000",
-     "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-     "source": "TechCrunch",
-     "zh": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash"
+     "title": "只为省2000块运费？一斤两毛的康保白菜，毁在一桶甲醛上",
+     "link": "https://www.huxiu.com/article/4885320.html?f=rss",
+     "pubDate": "Mon, 24 Aug 2026 00:00:32 +0800",
+     "summary": "本文来自微信公众号： 凤凰网财经 ，作者：风暴眼 原本平静的高原小县城，被一条网络视频推上风口浪尖。 画面里，有人用不明液体浸泡白菜，准备装车发往外地。视频迅速扩散，“康保白菜蘸甲醛”几个字冲上热搜。一时间，质疑、谩骂涌向这座坝上小城。 8月22日，博主“渔猎齐哥”曝光河北张家口康保县部分商贩在白菜装车前违规蘸取甲醛溶液以延长保鲜期，其中确认有一车涉事白菜的目的地为江苏宿迁。 这段网络流出的暗访视频，将蔬菜流通中一条隐秘的“保鲜黑链”推至公众视野。为压低长途损耗率，部分收购商违规使用甲醛溶液浸泡白菜，这本应出现在工业领域的消毒剂，如今却渗透进农产品的运输环节。 视频引爆舆情当日，官方通报：情况",
+     "source": "虎嗅",
+     "zh": "只为省2000块运费？一斤两毛的康保白菜，毁在一桶甲醛上"
+    },
+    {
+     "title": "玩家抵制 PlayStation 行动升级：一周 → 无限期，直至索尼为取消实体光盘认错",
+     "link": "https://www.ithome.com/0/993/318.htm",
+     "pubDate": "Sun, 23 Aug 2026 15:57:18 GMT",
+     "summary": "IT之家 8 月 23 日消息，上个月，长期倡导实体游戏保存和使用权的网络团体 Does It Play? 提议发起为期一周的 PlayStation 抵制行动，抗议索尼计划从 2028 年起取消游戏光盘。 提议很快发展成实际行动，不少玩家纷纷响应，将在 8 月停用 PlayStation 主机，以此表达不满。 据悉，这起 PlayStation“抵制行动”将于 24 日开始。活动前夕，Does It Play? 修改了原先的计划： 从先前的一周改为一直持续到“索尼意识到自己的错误”为止 。 北京时间 23 日（今天）Does It Play? 在 X 发文称：“PlayStation 抵制行",
+     "source": "IT之家",
+     "zh": "玩家抵制 PlayStation 行动升级：一周 → 无限期，直至索尼为取消实体光盘认错"
+    },
+    {
+     "title": "Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday&apos;s close (Reuters)",
+     "link": "https://www.techmeme.com/260823/p7#a260823p7",
+     "pubDate": "Sun, 23 Aug 2026 11:50:02 -0400",
+     "summary": "Reuters : Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday's close &nbsp; &mdash;&nbsp; China's Alibaba (9988.HK) on Sunday launched a HK$80-billion ($10.2 billion) share placement to fund artificia",
+     "source": "Techmeme",
+     "zh": "Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday&apos;s close (Reuters)"
     },
     {
      "title": "古尔曼：苹果今秋计划大幅调整零售店布局，或为带屏 HomePod 铺路",
@@ -1802,20 +1818,12 @@ window.INDUSTRY_DATA = {
      "zh": "获英伟达投资，美国初创 Starcloud 研发 GPU 卫星欲建太空数据中心"
     },
     {
-     "title": "古尔曼：iPhone 18 系列计划涨价，苹果将自行消化一部分成本",
-     "link": "https://www.ithome.com/0/993/312.htm",
-     "pubDate": "Sun, 23 Aug 2026 15:00:38 GMT",
-     "summary": "IT之家 8 月 23 日消息，彭博社记者马克 · 古尔曼今天（23 日）晚间更新《Power On》时事通讯称，苹果即将用首款折叠屏 iPhone 重新找回久违的产品新鲜感。同时，公司正在考虑上调下个月发布的新款 iPhone 18 系列售价。 古尔曼表示，继三星和谷歌之后，苹果 也准备上调 iPhone 价格 。两个月前，苹果已经几乎全面提高了 iPhone 以外主要产品的售价，受影响的 Mac 和 iPad 平均涨幅约 23%。MacBook Air 贵了 200 美元 （IT之家注：现汇率约合 1,349 元人民币） ，Mac Studio 上涨 500 美元 （现汇率约合 3,372",
-     "source": "IT之家",
-     "zh": "古尔曼：iPhone 18 系列计划涨价，苹果将自行消化一部分成本"
-    },
-    {
-     "title": "DeepSeek、智谱与Kimi，竞争前沿生存空间",
-     "link": "https://www.huxiu.com/article/4885316.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 22:56:41 +0800",
-     "summary": "本文来自微信公众号： 未尽研究 ，作者：未尽研究 中国模型正在从跟随式竞争，进入真正的前沿竞争。而前沿竞争的分水岭，不再只是模型能力，而是持续制造前沿能力的能力。 与全栈投入算力、模型与应用的科技巨头相比，DeepSeek、智谱与月之暗面（Kimi）所面临的资源约束更强。它们必须在更强的资源约束下，持续制造更前沿的智能。 如果参数、算力和资本可以不断扩展，却无法转化为收入；如果模型可以走向全球，却无法形成数据与商业闭环，那么“扩展”最终仍然只是一次昂贵的冲刺，而不像是一场可以持续的竞赛。 扩展的代价 中国开源模型已经进入新一轮参数规模的扩展阶段。从第二季度起，国内AI模型开始进入万亿参数规模，",
-     "source": "虎嗅",
-     "zh": "DeepSeek、智谱与Kimi，竞争前沿生存空间"
+     "title": "卡巴斯基发现第一种针对汽车的 Android 恶意程序",
+     "link": "https://www.solidot.org/story?sid=85168",
+     "pubDate": "Sun, 23 Aug 2026 23:02:01 +0800",
+     "summary": "俄罗斯安全公司卡巴斯基的研究人员报告他们发现第一种针对汽车的 Android 恶意程序。恶意程序通过基于 Android 的兜风出行汽车主机（head unit）固件的内置更新程序传播，被认为与 MoYu Group 黑客组织有关，该组织与 BADBOX 僵尸网络有关联。卡巴斯基称它已经通知了兜风出行，对方表示已修复相关安全问题。这一汽车恶意程序传播案例类似廉价电视盒，攻击者旨在创建住宅代理僵尸网络，因此使用了相同的网络基础设施。",
+     "source": "Solidot",
+     "zh": "卡巴斯基发现第一种针对汽车的 Android 恶意程序"
     },
     {
      "title": "Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID (Mark Gurman/Bloomberg)",
@@ -1858,14 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "What Is a Harness?"
     },
     {
-     "title": "这辈子没碰到的心机，全™在商标上了",
-     "link": "https://www.huxiu.com/article/4885313.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 22:12:41 +0800",
-     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 01：心机现形记 全世界最有心眼子的地方在哪里？ 是各个国家的政治机构？是资金飞进飞出的华尔街？还是大小写字楼里的利益纷争？ 错，都不是，要论心机，没人比得过国内一众产品包装上的“心机商标”。 多到官网动态更新 近日，国家知识产权局商标局网站公布了一批“依职权宣告无效的带有欺骗性的商标”，该批次共有1782件相关商标被宣告无效。 别以为里面都是些什么杂牌，当中耳熟能详的品牌还真不少：什么今麦郎、美的、盒马、千禾、白象都位列其中。 区别于直接售卖假冒伪劣产品，“心机商标”的精髓在于那些“拍案叫绝”的文字游戏。 且看它们如何一步步拿捏了消费者的",
-     "source": "虎嗅",
-     "zh": "这辈子没碰到的心机，全™在商标上了"
-    },
-    {
      "title": "柳树和杨树释放出的化合物会恶化城市空气质量",
      "link": "https://www.solidot.org/story?sid=85167",
      "pubDate": "Sun, 23 Aug 2026 22:07:42 +0800",
@@ -1888,22 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 # Comments: 13",
      "source": "Hacker News",
      "zh": "My favorite nonfiction books about cults, scams, and schemes"
-    },
-    {
-     "title": "终于要对日本下狠手了",
-     "link": "https://www.huxiu.com/article/4885303.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 21:09:12 +0800",
-     "summary": "本文来自微信公众号： 智先生 ，作者：Isidore 一名国际法官，同时遭到美俄两大国反制，挺罕见的。 8月18日，美国终于对国际刑事法院院长赤根智子下狠手了。 制裁手段干脆利落：冻结在美全部资产，禁止入境，并且彻底切断与美国金融体系的任何往来。 怎么切断？直接将她塞进“特别指定国民清单”（SDN）。 进入了SDN清单，不论是跨国大行、地方信用社，还是街边电子结算机构，只要业务网络使用美元结算，就不敢为清单上的人提供任何转账服务，否则会面临美国司法部的天价罚单。 3年以前，赤根智子还是西方媒体盛赞的“无畏对抗莫斯科的法治女神”，如今是被华盛顿断了生路的“非法组织头目”。 有人疑惑，这个国际刑事",
-     "source": "虎嗅",
-     "zh": "终于要对日本下狠手了"
-    },
-    {
-     "title": "飞书连降2级背后，是字节看透了中国ToB的真相",
-     "link": "https://www.huxiu.com/article/4885302.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 21:08:20 +0800",
-     "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明，原文标题：《飞书连降 2 级背后，是字节看透了中国ToB的真相》 飞书正式被拆分，产品团队被整合进豆包，飞书负责人谢欣的级别从CEO-1变成了CEO-3，向自己曾经的-2下属汇报，这也意味着：飞书直接被降了2级，地位从战略组织降为了附属组织。 有人说，飞书被整合到豆包，是因为软件不再重要，AI才是未来。飞书不过是字节AI战略的牺牲品。 但我不这么看。 飞书本身也在做AI，它优秀的用户体验、忠实的客户群体，对于飞书AI都是非常宝贵的资源，也是大多数企业AI产品不具备的优势。所以我认为，飞书的AI大概率也能做起来，和字节“All in AI”的战",
-     "source": "虎嗅",
-     "zh": "飞书连降2级背后，是字节看透了中国ToB的真相"
     },
     {
      "title": "Malware infects Android-based automotive head unit firmware",
@@ -1984,6 +1968,22 @@ window.INDUSTRY_DATA = {
      "summary": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
      "source": "WIRED",
      "zh": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App"
+    },
+    {
+     "title": "Is Expensive Bottled Water Actually Better for You?",
+     "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
+     "pubDate": "Sun, 23 Aug 2026 09:00:00 +0000",
+     "summary": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
+     "source": "WIRED",
+     "zh": "Is Expensive Bottled Water Actually Better for You?"
+    },
+    {
+     "title": "银行理财五星管理人评级报告 （2026年7月）",
+     "link": "https://www.tmtpost.com/8113345.html",
+     "pubDate": "Sun, 23 Aug 2026 16:14:53 +0800",
+     "summary": "在固定收益类中，宁银理财有限责任公司、中邮理财有限责任公司和平安理财有限责任公司脱颖而出，成为五星理财子公司。它们的各星级产品数量展示了市场的竞争力与多样性。",
+     "source": "钛媒体",
+     "zh": "银行理财五星管理人评级报告 （2026年7月）"
     }
    ]
   },
@@ -2242,20 +2242,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "全国鸡肉价格连涨两周 我国鸡肉产品出口大增",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850414143.html",
-     "pubDate": "Sun, 23 Aug 2026 23:37:34 +0800",
-     "summary": "白羽肉鸡是鸡胸、鸡腿等分割品的常见原料，也是快餐的主要食材，目前我国白羽肉鸡消费占整个鸡肉市场的60%左右。近期，全国白羽肉鸡鸡苗量价齐涨，种禽企业效益整体向好。王木洪在山东潍坊诸城市经营着一家年出栏20多万只肉鸡的养殖场，他告诉记者，7月30日出栏的一批4万只肉鸡，每只鸡可以盈利1.5元。王木洪介绍，今年以来，肉鸡出栏价格基本保持在每斤3.5元左右，高于成本0.2元-0.3元，养殖整体处于盈利期，他于8月上旬新购入4万羽鸡苗，出栏可以赶上中秋、国庆的消费旺季。近期鸡肉价格偏强运行，也提升了养殖端的盈利水平，8月份第三周全国鸡肉价格为每公斤22.45元，环比上涨0.1%，同比上涨0.2%，已经",
-     "source": "东方财富股票",
-     "zh": "全国鸡肉价格连涨两周 我国鸡肉产品出口大增"
+     "title": "Top global stories this week: Alibaba, Unitree Robotics among notable names",
+     "link": "https://seekingalpha.com/news/4636060-top-global-stories-this-week-alibaba-unitree-robotics-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 23 Aug 2026 12:11:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Top global stories this week: Alibaba, Unitree Robotics among notable names"
     },
     {
-     "title": "“紫檀”造成广西10条河流15个站超警 紧急转移安置8087人",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850412128.html",
-     "pubDate": "Sun, 23 Aug 2026 23:31:22 +0800",
-     "summary": "受今年第19号台风“紫檀”影响，广西多地出现暴雨到大暴雨、局地特大暴雨，多条河流超警戒水位，防城港市、崇左市等部分乡镇遭遇洪水险情。8月23日，广西召开防汛防台视频会商调度会，据统计，截至8月23日18时，防城港、崇左、南宁等6个市的17个县（市、区）的64个乡镇（街道）出现大暴雨，局地特大暴雨，10个市的30个县（市、区）的92个乡镇（街道）出现暴雨。明江及支流公安河、派连河，左江及上游平而河等10条河流15个站超警，台风已造成受灾人口6.1万人，因灾转移5.4万人，紧急转移安置8087人，各项防汛救灾工作正有序扎实开展。 （文章来源：财联社）",
+     "title": "几内亚首都一垃圾填埋场坍塌造成多人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202608243850423832.html",
+     "pubDate": "Mon, 24 Aug 2026 00:05:15 +0800",
+     "summary": "科纳克里消息：据外媒23日报道，几内亚首都科纳克里一垃圾填埋场当天发生坍塌，造成至少十余人死亡。 （文章来源： 新华网 ）",
      "source": "东方财富股票",
-     "zh": "“紫檀”造成广西10条河流15个站超警 紧急转移安置8087人"
+     "zh": "几内亚首都一垃圾填埋场坍塌造成多人死亡"
+    },
+    {
+     "title": "阿里巴巴拟在港配售800亿港元新股 募资全额投向人工智能领域",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850426920.html",
+     "pubDate": "Mon, 24 Aug 2026 00:05:11 +0800",
+     "summary": "8月23日， 阿里巴巴 （09988.HK）宣布拟在香港配售新股，本次配售总规模为800亿港元（约合102亿美元）。据 阿里巴巴 披露，此次交易将成为香港上市公司有史以来规模最大的一级后续发行，也是有记录以来规模最大的Regulation S股票发行（针对在美国境外进行的证券发行和销售），同时也是继Alphabet和 英特尔 之后，今年全球规模第三大的一级后续股票发行。该公司表示，计划将此次配售所得净额的100%用于投资其全栈 人工智能 能力，包括扩大和升级 人工智能 基础设施。（央广财经） （文章来源：央广财经）",
+     "source": "东方财富股票",
+     "zh": "阿里巴巴拟在港配售800亿港元新股 募资全额投向人工智能领域"
+    },
+    {
+     "title": "万凯新材上半年归母净利润5.62亿元 同比大增910.09%",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850426719.html",
+     "pubDate": "Mon, 24 Aug 2026 00:05:11 +0800",
+     "summary": "8月23日， 万凯新材 （301216.SZ）披露半年度业绩报告。报告显示，公司上半年实现营业收入96.52亿元，同比增长17.52%；归属于上市公司股东的净利润为5.62亿元，同比增幅达910.09%；基本每股收益0.98元/股。（央广财经） （文章来源：央广财经）",
+     "source": "东方财富股票",
+     "zh": "万凯新材上半年归母净利润5.62亿元 同比大增910.09%"
+    },
+    {
+     "title": "泽宇智能拟斥4.9亿元现金收购智联新能51%股权",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850425934.html",
+     "pubDate": "Mon, 24 Aug 2026 00:05:11 +0800",
+     "summary": "8月23日， 泽宇智能 （301179.SZ）发布公告称，公司拟通过现金支付方式收购智联新能 电力 科技有限公司51%股权，本次交易对价为4.9亿元。本次交易对方作出业绩承诺：标的公司2026年—2028年净利润分别不低于8500万元、9000万元、9500万元，三年累计不低于2.7亿元。据公告披露，本次交易既不构成关联交易，也不构成重大资产重组，交易完成后智联新能将成为 泽宇智能 的控股子公司。（央广财经） （文章来源：央广财经）",
+     "source": "东方财富股票",
+     "zh": "泽宇智能拟斥4.9亿元现金收购智联新能51%股权"
+    },
+    {
+     "title": "上峰材料2026年上半年归母净利润同比增长452.54%",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850426510.html",
+     "pubDate": "Mon, 24 Aug 2026 00:04:58 +0800",
+     "summary": "8月23日， 上峰材料 （000672.SZ）发布公告称，公司2026年半年度报告显示，期内实现营业收入18.39亿元，同比下降19.09%；归属于上市公司股东的净利润13.64亿元，同比增长452.54%。（央广财经） （文章来源：央广财经）",
+     "source": "东方财富股票",
+     "zh": "上峰材料2026年上半年归母净利润同比增长452.54%"
+    },
+    {
+     "title": "中粮资本2026年上半年净利润同比增长8.2%",
+     "link": "http://finance.eastmoney.com/news/1354,202608243850426211.html",
+     "pubDate": "Mon, 24 Aug 2026 00:04:58 +0800",
+     "summary": "8月23日， 中粮资本 （002423.SZ）发布2026年半年度报告摘要。数据显示，2026年上半年公司实现营业总收入51.90亿元，同比增长6.05%；归属于上市公司股东的净利润9.17亿元，同比增长8.20%；基本每股收益0.3981元，同比增长8.21%。（央广财经） （文章来源：央广财经）",
+     "source": "东方财富股票",
+     "zh": "中粮资本2026年上半年净利润同比增长8.2%"
+    },
+    {
+     "title": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs, Warsh In Focus",
+     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+     "pubDate": "2026-08-23T15:56:36Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs, Warsh In Focus"
+    },
+    {
+     "title": "组图｜重庆铜梁龙0:1不敌大连英博",
+     "link": "http://www.eeo.com.cn/2026/0823/1009001.shtml",
+     "pubDate": "Sun, 23 Aug 2026 23:52:13 +0800",
+     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/282B7B5C135FCD9E56008C4EBACFEBCF.jpg\" alt=\"赛前重庆铜梁龙球员一起加油。第1眼TV-华龙网记者 李一鸣 摄\" data-title=\"赛前重庆铜梁龙球员一起加油。第1眼TV-华龙网记者 李一鸣 摄\" data-target=\"2091530800651513858\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/ORIGINAL/MEDIA/PICTU",
+     "source": "经济观察网",
+     "zh": "组图｜重庆铜梁龙0:1不敌大连英博"
+    },
+    {
+     "title": "Walmart launching clothing brand Scenario in bid to appeal to younger shoppers",
+     "link": "https://seekingalpha.com/news/4636059-walmart-launching-clothing-brand-scenario-bid-appeal-younger-shoppers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 23 Aug 2026 11:51:52 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Walmart launching clothing brand Scenario in bid to appeal to younger shoppers"
     },
     {
      "title": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them",
@@ -2264,38 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them"
-    },
-    {
-     "title": "水泥主业下滑 炒股赚翻了！上峰材料上半年净利暴增452% 扣非利润却下滑近五成",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850413361.html",
-     "pubDate": "Sun, 23 Aug 2026 23:29:39 +0800",
-     "summary": "上峰材料 (000672)8月23日披露2026年半年报，公司上半年实现营业收入18.39亿元，同比下降19.09%；归母净利润13.64亿元，同比暴增452.54%；扣非归母净利润1.51亿元，同比下降46.54%；基本每股收益1.44元/股，同比增长453.85%。公司拟向全体股东每10股派发现金红利1.57元（含税），合计派发现金红利约1.50亿元（含税）。 上峰材料 主要专注于从事 水泥 熟料、 水泥 、混凝土等建材产品的生产制造和销售并向骨料、 环保 、 新能源 、 物流 等相关产业延伸。近年来，公司正在向 半导体 封装基板等新质材料业务转型升级。公司 确立“建材基石、股权投资、新质",
-     "source": "东方财富股票",
-     "zh": "水泥主业下滑 炒股赚翻了！上峰材料上半年净利暴增452% 扣非利润却下滑近五成"
-    },
-    {
-     "title": "A股业绩利好 密集发布",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850413218.html",
-     "pubDate": "Sun, 23 Aug 2026 23:29:00 +0800",
-     "summary": "8月23日晚，A股公司密集发布2026年半年度业绩报告，其中多家公司业绩大增。 天然气 、化工、 有色金属 等行业公司半年报表现亮眼，部分公司净利实现数十倍增长，部分龙头公司还同步披露扩产或分红方案。 首华燃气 2026年上半年营业收入17.47亿元，同比增长30.52%；归母净利润1.87亿元，同比增长2131.55%。 首华燃气 主营业务为 天然气 业务，主要从事 天然气 的勘探、开发、生产、代输增压和销售。上半年，公司业绩变动原因主要系天然气产销量均保持高速增长，石楼西区块产建工作推进以及外购气量提升。 万凯新材 2026年上半年营业收入96.52亿元，同比增长17.52%；归母净利润5",
-     "source": "东方财富股票",
-     "zh": "A股业绩利好 密集发布"
-    },
-    {
-     "title": "美联储卡什卡利：国债市场仍在“正常运转”",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850411554.html",
-     "pubDate": "Sun, 23 Aug 2026 23:26:59 +0800",
-     "summary": "明尼阿波利斯联邦储备 银行 行长卡什卡利淡化市场对美国国债收益率上行的担忧，表示市场运行状况良好。卡什卡利称，当前国债收益率相较于近期历史水平处于高位，但上世纪90年代收益率曾显著更高。卡什卡利对通胀无法在短期内回落至目标水平表达担忧，但并未明确表态会在9月会议上主张加息。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美联储卡什卡利：国债市场仍在“正常运转”"
-    },
-    {
-     "title": "瑞士东部一建筑火灾致4人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850411443.html",
-     "pubDate": "Sun, 23 Aug 2026 23:26:59 +0800",
-     "summary": "瑞士警方23日表示，搜救人员在瑞士东部格劳宾登州图西斯火灾现场发现4名火灾失踪者遗体。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "瑞士东部一建筑火灾致4人死亡"
     },
     {
      "title": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
@@ -2328,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Yahoo Finance",
      "zh": "Rocket Mortgage pushes home equity loans to wipe out credit card debt — here's how that could backfire on homeowners"
-    },
-    {
-     "title": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs In Focus",
-     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-     "pubDate": "2026-08-23T14:55:02Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs In Focus"
     },
     {
      "title": "连开新店型，外资零售重温北京市场",
@@ -2378,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "慧谷新材：公司将于2026年9月8日召开2026年第一次临时股东会"
     },
     {
-     "title": "长裕集团：第二届董事会第八次会议决议公告",
-     "link": "http://www.eeo.com.cn/2026/0823/1008961.shtml",
-     "pubDate": "Sun, 23 Aug 2026 21:52:13 +0800",
-     "summary": "证券日报网讯 8月23日，长裕集团发布公告称，公司于2026年8月22日召开第二届董事会第八次会议，审议通过《关于公司2026年半年度报告及其摘要的议案》《关于〈2026年半年度募集资金存放、管理与实际使用情况的专项报告〉的议案》。 （编辑 王雪儿）",
-     "source": "经济观察网",
-     "zh": "长裕集团：第二届董事会第八次会议决议公告"
-    },
-    {
      "title": "Iran says it has discovered huge natural gas field",
      "link": "https://seekingalpha.com/news/4636057-iran-says-has-discovered-huge-natural-gas-field?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 23 Aug 2026 09:26:58 -0400",
@@ -2418,14 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "Raytheon Navy air-to-air long-range missile undergoes testing"
     },
     {
-     "title": "Notable healthcare headlines for the week: Moderna, Merck, and Twist Bioscience in focus",
-     "link": "https://seekingalpha.com/news/4636014-notable-healthcare-headlines-for-the-week-moderna-merck-and-twist-bioscience-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 23 Aug 2026 09:05:17 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Notable healthcare headlines for the week: Moderna, Merck, and Twist Bioscience in focus"
-    },
-    {
      "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
      "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
      "pubDate": "Sun, 23 Aug 2026 13:00:00 GMT",
@@ -2440,14 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "英伟达正在两条鲜少被市场充分定价的战线上悄然构筑护城河。 据汇丰银行8月20日发布的最新研报，汇丰分析师Frank Lee认为，在持续\"业绩超预期\"之外，推动英伟达股价重新定价的新催化剂，将来自两条此前被市场忽视的叙事线。 其一，大力押注开源小语言模型（SLM），有望将潜在客户群从少数超大规模云厂商扩展至数百万开发者和主权国家；其二，通过一系列多年期采购协议提前锁定供应链产能，在竞争对手愈发难以获得关键制造资源的背景下，这一优势将愈加凸显。 两条新叙事线的市场意义在于，它们共同指向同一个核心命题：英伟达的增长引擎，正在从依赖少数超大规模客户的单一结构，向更宽广、更具韧性的客户生态演进。 这一转",
      "source": "华尔街见闻",
      "zh": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”"
-    },
-    {
-     "title": "Alibaba seeks more than $10B in share sale to expand AI",
-     "link": "https://seekingalpha.com/news/4636055-alibaba-seeks-more-than-10b-share-sale-expand-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 23 Aug 2026 08:50:07 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alibaba seeks more than $10B in share sale to expand AI"
     },
     {
      "title": "8月23日晚间上市公司利好消息一览(附名单)",

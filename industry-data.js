@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/23 14:53:49",
+ "generated_at": "2026/8/23 15:35:49",
  "recent_days": 7,
  "industries": [
   {
@@ -1061,7 +1061,7 @@ window.INDUSTRY_DATA = {
      "title": "PJM eyes option to jumpstart surplus interconnection pathway",
      "link": "https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/",
      "pubDate": "Fri, 21 Aug 2026 08:34:58 -0400",
-     "summary": "PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP are studying about 15 GW and 14 GW, respectively&nbsp;&mdash; mostly battery storage. PJM's current rules hinder hybrid projects, observers say.",
+     "summary": "In need of capacity, the PJM&rsquo;s surplus interconnection process has produced limited results while MISO and SPP were studying roughly 15 GW and 14 GW each in the first half this year.",
      "source": "Utility Dive",
      "zh": "PJM eyes option to jumpstart surplus interconnection pathway"
     },
@@ -1082,12 +1082,12 @@ window.INDUSTRY_DATA = {
      "zh": "Daqo New Energy narrows Q2 losses, resumes sales below cost"
     },
     {
-     "title": "ERCOT aims to complete Texas governor’s data center audit by December",
-     "link": "https://www.utilitydive.com/news/ercot-texas-puc-data-center-audit/828472/",
-     "pubDate": "Fri, 21 Aug 2026 07:12:58 -0400",
-     "summary": "The pause on new data center interconnections could impact the Electric Reliability Council of Texas&rsquo; upcoming long-term load forecast and reliability assessment, officials said Thursday.",
-     "source": "Utility Dive",
-     "zh": "ERCOT aims to complete Texas governor’s data center audit by December"
+     "title": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal",
+     "link": "https://www.energy-storage.news/new-jersey-board-of-public-utilities-releases-150mw-btm-energy-storage-proposal/",
+     "pubDate": "Fri, 21 Aug 2026 09:58:35 +0000",
+     "summary": "The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Programme (GSESP) consisting of approximately 150MW of energy storage capacity in the US state.",
+     "source": "Energy Storage News",
+     "zh": "New Jersey Board of Public Utilities releases 150MW BTM energy storage proposal"
     }
    ]
   },
@@ -1746,58 +1746,82 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "索尼宣布《绝地潜兵 2》游戏全平台玩家数超 2290 万人",
-     "link": "https://www.ithome.com/0/993/186.htm",
-     "pubDate": "Sun, 23 Aug 2026 06:40:40 GMT",
-     "summary": "IT之家 8 月 23 日消息，据索尼互娱官方数据， 《绝地潜兵 2》游戏已在 PS5、Xbox Series X|S 和 PC 平台累计吸引 2290 万名玩家 （截至 2026 年 8 月 9 日）。 索尼宣布， 《绝地潜兵 2》现在已经加入 PS Plus 订阅游戏库 ，Extra 和 Premium 会员可以立刻玩到这款第三人称射击游戏，还能够体验到《最后生还者第一部》《战神：诸神黄昏》和《对马岛之魂》等大作。 据IT之家了解，《绝地潜兵 2》是箭头社（Arrowhead）开发、索尼互娱发行的一款游戏，玩家可在游戏中选择战略配备，包括呼叫集束炸弹、岗哨机枪、护盾生成器或包含使用有限的特",
+     "title": "莲花 ELETRE / EMEYA 900 GOLD 车型 8 月 31 日上市，预售价 92.8 万 / 91.8 万元起",
+     "link": "https://www.ithome.com/0/993/219.htm",
+     "pubDate": "Sun, 23 Aug 2026 07:30:25 GMT",
+     "summary": "IT之家 8 月 23 日消息，莲花跑车昨日宣布， 黄金双 900 将于 8 月 31 日上市 。 据IT之家此前报道，8 月 12 日，莲花汽车 ELETRE 900 GOLD 和 EMEYA 900 GOLD 两款车型开启预售 ， 前者预售价为 92.8 万元起，后者预售价为 91.8 万元起 。 两款新车均搭载高性能核心操控装备包，包含内外饰碳纤维拓展包、10 活塞碳陶瓷制动、锻造碳纤维插片轮圈以及 900 GOLD 专属碳纤维徽标与纹理。官方称相应装备包助力 EMEYA 以原厂状态在 F1 雪邦赛道实现了 2 分 20 秒 317 的圈速成绩， 刷新了该赛道量产电动车圈速纪录 。 两款",
      "source": "IT之家",
-     "zh": "索尼宣布《绝地潜兵 2》游戏全平台玩家数超 2290 万人"
+     "zh": "莲花 ELETRE / EMEYA 900 GOLD 车型 8 月 31 日上市，预售价 92.8 万 / 91.8 万元起"
     },
     {
-     "title": "OpenAI 投资的美国 AI 公司转用中国开源模型，基于 Kimi K3 打造专属法律 AI 模型",
-     "link": "https://www.ithome.com/0/993/185.htm",
-     "pubDate": "Sun, 23 Aug 2026 06:39:35 GMT",
-     "summary": "IT之家 8 月 23 日消息，据南华早报报道，一家获得 OpenAI 投资的美国人工智能初创公司，基于中国 AI 实验室月之暗面（Moonshot AI）的 Kimi K3 构建了自己的首个内部模型。这凸显出，随着 AI 模型开发成本不断飙升，越来越多西方科技公司开始转向采用中国的开放权重模型。 总部位于旧金山的法律科技公司 Harvey 当地时间周四宣布，其新模型 Harvey Tenet 是在开放权重模型 Kimi K3 的基础上进行后训练得到的。Harvey 的知名投资方还包括红杉资本和 Andreessen Horowitz。 该公司表示，这套系统在复杂法律工作中实现了“业界领先”的",
+     "title": "iQOO Z11S 手机首销优惠价延长至 8 月 31 日：品牌首款万级大电池、天玑 7500 满血版，1799 元起",
+     "link": "https://www.ithome.com/0/993/213.htm",
+     "pubDate": "Sun, 23 Aug 2026 07:28:32 GMT",
+     "summary": "IT之家 8 月 23 日消息，iQOO 官方宣布， iQOO Z11S 的首销优惠价延长至 8 月 31 日（此前活动截止日期为 8 月 24 日）。该机是 iQOO 首款万级大电池机型，搭载 10000mAh 蓝海电池，配备联发科天玑 7500 满血版芯片， 首销优惠价 1799 元起、叠加国补到手价 1529.15 元起 。 京东 iQOO Z11S 首销优惠价 1799 元起 直达链接 8GB+128GB：零售价 1999 元，首销优惠价 1799 元，国补到手价 1529.15 元 8GB+256GB：零售价 2199 元，首销优惠价 1999 元，国补到手价 1699.15 元 1",
      "source": "IT之家",
-     "zh": "OpenAI 投资的美国 AI 公司转用中国开源模型，基于 Kimi K3 打造专属法律 AI 模型"
+     "zh": "iQOO Z11S 手机首销优惠价延长至 8 月 31 日：品牌首款万级大电池、天玑 7500 满血版，1799 元起"
     },
     {
-     "title": "阿里拟配售 800 亿港元新股，全部投入 AI 建设",
-     "link": "https://www.ithome.com/0/993/184.htm",
-     "pubDate": "Sun, 23 Aug 2026 06:24:53 GMT",
-     "summary": "IT之家 8 月 23 日消息，据中新经纬，阿里巴巴宣布拟向美国境外的非美国人士配售新股， 配售总金额为 800 亿港元 （IT之家注：现汇率约合 688.11 亿元人民币） 。这也是阿里巴巴 2019 年港股上市以来首次启动新股配售。 本次配售所得款项净额 将 100% 用于投资全栈 AI 能力 ，加强 AI 基础设施建设，进一步巩固阿里在 AI 领域的全球领先地位。 据IT之家此前报道，阿里巴巴 2027 财年第一财季（2026 年 4 月 1 日～2026 年 6 月 30 日）报告数据显示， 营业总收入 2689.53 亿元，同比增长 9% ；归母净利润 105.37 亿元，同比下降 ",
-     "source": "IT之家",
-     "zh": "阿里拟配售 800 亿港元新股，全部投入 AI 建设"
+     "title": "黄仁勋女儿，从厨师到年薪800万",
+     "link": "https://www.huxiu.com/article/4885261.html?f=rss",
+     "pubDate": "Sun, 23 Aug 2026 15:17:19 +0800",
+     "summary": "本文来自微信公众号： 投资界 ，作者：王露 黄仁勋女儿罕见现身北京。 2026世界机器人大会开幕当天，黄敏珊（Madison Huang）来到北京亦庄，一路走访越疆、光轮智能、优必选等机器人公司。 这位90后“英伟达千金”，如今担任英伟达物理AI平台产品与技术营销高级总监，年薪120万美元，约合人民币800多万元。鲜为人知的是，她最早学的是烹饪，做过厨师，也曾供职于LVMH。兜兜转转，最终以实习生身份进入父亲创办的英伟达。 此次她来到北京，恰逢中国机器人产业最热闹的时刻。宇树科技刚刚敲钟，中国机器人IPO队伍正在赶来。机器人下半场，已经开局。 黄仁勋女儿 来北京看机器人 全球机器人的目光再次落",
+     "source": "虎嗅",
+     "zh": "黄仁勋女儿，从厨师到年薪800万"
     },
     {
-     "title": "东风日产：车主 App 因服务器机房电力故障导致部分功能无法使用，正在抢修",
-     "link": "https://www.ithome.com/0/993/183.htm",
-     "pubDate": "Sun, 23 Aug 2026 06:19:15 GMT",
-     "summary": "IT之家 8 月 23 日消息，东风日产今日发文公告称，因服务器机房电力故障，导致车主 App 登录、远程控制等线上功能出现无法使用的情况，正在全力抢修，力争尽快恢复服务。 IT之家附原文如下： 尊敬的东风日产车主: 因服务器机房电力故障，导致车主 App 登录、远程控制等线上功能出现无法使用的情况，我们正在全力抢修，力争尽快恢复服务。由此给您带来的不便，我们深表歉意！ 本次突发情况不影响车辆正常驾驶，建议车主随身携带物理钥匙，保障正常出行。如有紧急情况，请第一时间拨打专营店电话，服务人员将协助处理。 功能恢复后我们将第一时间告知，感谢您的理解与耐心等待。 东风汽车有限公司东风日产乘用车公司 ",
+     "title": "亚马逊 Kindle 电纸书、Fire TV 电视棒等硬件产品涨价，涨幅最高 60%",
+     "link": "https://www.ithome.com/0/993/194.htm",
+     "pubDate": "Sun, 23 Aug 2026 07:15:39 GMT",
+     "summary": "IT之家 8 月 23 日消息，据科技媒体 The Verge 今天报道，亚马逊以内存和存储元器件成本大幅上涨为由，上调多款 Kindle 电纸书、Fire 电视棒、Echo 智能音箱和 Eero 全屋网络方案的售价。 亚马逊的平价硬件产品受影响最大。其中 Echo Dot 智能音箱售价从 49.99 美元 （现汇率约合 337.1 元人民币） 上涨至 79.99 美元 （现汇率约合 539.4 元人民币） 。 Fire TV Stick 4K Max 的价格也上涨超 40%，从 59.99 美元 （现汇率约合 404.5 元人民币） 涨至 84.99 美元 （现汇率约合 573.1 元人民币",
      "source": "IT之家",
-     "zh": "东风日产：车主 App 因服务器机房电力故障导致部分功能无法使用，正在抢修"
+     "zh": "亚马逊 Kindle 电纸书、Fire TV 电视棒等硬件产品涨价，涨幅最高 60%"
     },
     {
-     "title": "蔚来李斌称中国汽车行业进入“决赛最残酷阶段”，接下来三五年最后的玩家差不多尘埃落定",
-     "link": "https://www.ithome.com/0/993/182.htm",
-     "pubDate": "Sun, 23 Aug 2026 06:11:02 GMT",
-     "summary": "IT之家 8 月 23 日消息，在 2026 中国首席经济学家复旦管院科创论坛上，蔚来创始人、董事长、CEO 李斌针对新能源汽车产业发展，表达了自己的看法。 李斌称，今年对于新能源汽车是非常重要的一年，整体竞争非常激烈， 行业进入“决赛最残酷阶段” ，一家车企到底能不能跟上？会不会被甩下？最近两年会是非常重要的一个时期。 而接下来三五年，最后的玩家差不多尘埃落定 。 另外，他认为纯电渗透率处于加速爬升阶段，今年中国车市所有动力形式，只有纯电在增长，插混、增程包括纯燃油都在下跌， 纯电技术包括充换电基础设施数量都到了一个拐点 。 李斌还表示，行业从品牌混沌期进入品牌澄清期。过去几年，消费者购买智",
+     "title": "亿万投资人马克 · 库班：医生应该教患者如何用 AI 来辅助治疗",
+     "link": "https://www.ithome.com/0/993/193.htm",
+     "pubDate": "Sun, 23 Aug 2026 07:11:05 GMT",
+     "summary": "IT之家 8 月 23 日消息，据《商业内幕》20 日报道，亿万富翁企业家马克 · 库班近期反驳了 AI 会取代医生的说法，并提出医生应该 主动帮助患者在治疗过程中使用 AI 。 库班认为，患者病情突然变化时，医生需要实时观察、沟通、共情并作出判断，这些能力并非 AI 可以复制。 不仅如此，他同时指出，放射科医生绝不可能被取代，不过预计未来 每一名放射科医生都会使用 AI 。 库班表示，AI 确实会接手医生目前承担的许多工作，但并不是因为机器可以独立行医，而是临床医生被医疗集团制造的 大量“狗屁行政杂务” 占用了太多时间。对此，他给出的解决办法很直接：“用 AI 取代中间商。” 库班还提出了医",
      "source": "IT之家",
-     "zh": "蔚来李斌称中国汽车行业进入“决赛最残酷阶段”，接下来三五年最后的玩家差不多尘埃落定"
+     "zh": "亿万投资人马克 · 库班：医生应该教患者如何用 AI 来辅助治疗"
     },
     {
-     "title": "小米玄戒芯片技术沟通会明天见，时隔 459 天再迎全新成员",
-     "link": "https://www.ithome.com/0/993/181.htm",
-     "pubDate": "Sun, 23 Aug 2026 06:07:57 GMT",
-     "summary": "IT之家 8 月 23 日消息，小米手机今日官宣，小米玄戒芯片技术沟通会明天见： 2025 年 5 月 22 日，玄戒第一款旗舰处理器面世 时隔 459 天，芯片家族迎来全新成员 明天 14 点，小米玄戒芯片负责人朱丹，带来最新进展，将以图文直播的形式与大家见面，不见不散！ IT之家注意到，8 月 18 日，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰在财报电话会上透露，去年小米成功推出的玄戒 O1 芯片， 在三款终端上的累计出货量已超过百万，实现了旗舰芯片规模化验证 ， 全新一代小米玄戒芯片也即将发布 。",
+     "title": "黄仁勋两次亲笔签名，英伟达 RTX Pro 6000 Blackwell 显卡拍出 5.7 万美元",
+     "link": "https://www.ithome.com/0/993/192.htm",
+     "pubDate": "Sun, 23 Aug 2026 07:10:58 GMT",
+     "summary": "IT之家 8 月 23 日消息，一块由英伟达 CEO 黄仁勋两次亲笔签名的工作站 GPU，近日在拍卖会上以 57,450 美元 （IT之家注：现汇率约合 38.7 万元人民币） 成交，最终价格接近拍卖前估价的 10 倍。 这块“RTX Pro 6000 Blackwell Workstation Edition”显卡是在 RR Auction 举办的“史蒂夫 · 乔布斯与计算机革命：苹果 50 周年纪念拍卖会第二部分”中售出的，竞拍于当地时间周四结束。 RTX Pro 6000 Blackwell 工作站版本身就是一款价格不菲的产品，售价通常在 1.2 万至 1.6 万美元 （现汇率约合 80",
      "source": "IT之家",
-     "zh": "小米玄戒芯片技术沟通会明天见，时隔 459 天再迎全新成员"
+     "zh": "黄仁勋两次亲笔签名，英伟达 RTX Pro 6000 Blackwell 显卡拍出 5.7 万美元"
+    },
+    {
+     "title": "山灵 CD50 桌面 CD 播放一体机开售：CS43198 DAC、双 SGM8262 运放，1498 元",
+     "link": "https://www.ithome.com/0/993/191.htm",
+     "pubDate": "Sun, 23 Aug 2026 07:10:32 GMT",
+     "summary": "IT之家 8 月 23 日消息，山灵 CD50 桌面 CD 播放一体机今日正式上市， 售价 1498 元 。 该产品尺寸 188×205×53mm，使用铝合金机身 + 玻璃面板，提供黑银双色可选。产品正面配备 2.2 英寸彩色显示屏（120×420 分辨率），支持多种复古 UI 主题切换。同时支持实体按键 + 遥控器双重操控方式。 该产品采用传统抽屉式碟仓，配备三洋 HD850 高性能机芯与 CD 专用伺服方案，读取稳定且减少碟片磨损。其搭载 Cirrus Logic CS43198 DAC，匹配双 SGM8262-2 放大芯片，辅以红宝石电容调声，形成“解码 + 放大 + 调音”的完整链路。",
+     "source": "IT之家",
+     "zh": "山灵 CD50 桌面 CD 播放一体机开售：CS43198 DAC、双 SGM8262 运放，1498 元"
+    },
+    {
+     "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+     "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+     "pubDate": "Sun, 23 Aug 2026 06:41:51 +0000",
+     "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 35 # Comments: 10",
+     "source": "Hacker News",
+     "zh": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed"
+    },
+    {
+     "title": "JIT Compiling Code in 5μs",
+     "link": "https://malisper.me/jit-compiling-code-in-5-us/",
+     "pubDate": "Sun, 23 Aug 2026 06:04:51 +0000",
+     "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 18 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "JIT Compiling Code in 5μs"
     },
     {
      "title": "藏在宇树、长鑫和寒武纪里的市值叙事秘密",
      "link": "https://www.huxiu.com/article/4885249.html?f=rss",
      "pubDate": "Sun, 23 Aug 2026 13:52:35 +0800",
-     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：钟云华，作者：何伊凡，原文标题：《藏在宇树、长鑫和寒武纪里的市值叙事秘密｜观察家》 市场从不惩罚故事，只惩罚没能变成数字的故事 2026年8月19日，宇树科技上市。首日开盘暴涨629%，收盘涨460%，市值3418亿元，网上中签率0.018%创科创板历史新低。十四个月前的2025年6月，它最后一轮一级市场融资投后估值还不过为127亿元。 2026年7月27日，上年归母净利润18.75亿元的长鑫科技上市，首日收盘市值3.28万亿元——这意味着市场愿意为每一元年利润支付约1750元（扣非口径约309元）。上市后股价快速拉升，7月31日盘中一度站上4万亿",
+     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：钟云华，作者：何伊凡，题图来自：AI生成 2026年8月19日，宇树科技上市。首日开盘暴涨629%，收盘涨460%，市值3418亿元，网上中签率0.018%创科创板历史新低。十四个月前的2025年6月，它最后一轮一级市场融资投后估值还不过为127亿元。 2026年7月27日，上年归母净利润18.75亿元的长鑫科技上市，首日收盘市值3.28万亿元&mdash;&mdash;这意味着市场愿意为每一元年利润支付约1750元 （扣非口径约309元） 。上市后股价快速拉升，7月31日盘中一度站上4万亿元，成为A股历史上首家总市值突破4万亿元的公司；8月13日",
      "source": "虎嗅",
      "zh": "藏在宇树、长鑫和寒武纪里的市值叙事秘密"
     },
@@ -1805,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "The End of an Athlon",
      "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
      "pubDate": "Sun, 23 Aug 2026 05:51:01 +0000",
-     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 9 # Comments: 0",
+     "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 36 # Comments: 4",
      "source": "Hacker News",
      "zh": "The End of an Athlon"
     },
@@ -1877,23 +1901,15 @@ window.INDUSTRY_DATA = {
      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
      "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
      "pubDate": "Sun, 23 Aug 2026 04:28:18 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 18 # Comments: 4",
+     "summary": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 28 # Comments: 4",
      "source": "Hacker News",
      "zh": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has"
-    },
-    {
-     "title": "中国创新药出海第一站，为何选澳洲？",
-     "link": "https://www.huxiu.com/article/4885244.html?f=rss",
-     "pubDate": "Sun, 23 Aug 2026 12:19:24 +0800",
-     "summary": "本文来自微信公众号： 大橘财经 ，作者：王力 中国创新药出海的第一站，不是全球最大的医药市场美国，而是人口约2800万的澳大利亚？ 截至2026年8月，已有超70家中国创新药企业在澳大利亚开展临床试验。复星医药、开拓药业、康诺亚、英矽智能、衡泰生物、阿诺医药等均已将全球研发和临床布局延伸至澳洲。 据药融圈2026年8月不完全统计，从澳洲早期临床进一步走向全球授权的BD交易（Business Development，商务拓展交易），含里程碑在内的潜在总交易额已超过340亿美元。 从百济神州2014年首次在澳洲启动临床，到如今超过70家企业相继进入，这条路径已经覆盖ADC、双抗/三抗、siRNA、",
-     "source": "虎嗅",
-     "zh": "中国创新药出海第一站，为何选澳洲？"
     },
     {
      "title": "The Golden Rule for Becoming a Better Writer",
      "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
      "pubDate": "Sun, 23 Aug 2026 03:32:25 +0000",
-     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 48 # Comments: 23",
+     "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 73 # Comments: 42",
      "source": "Hacker News",
      "zh": "The Golden Rule for Becoming a Better Writer"
     },
@@ -1933,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
      "link": "https://martypc.net/",
      "pubDate": "Sun, 23 Aug 2026 03:13:16 +0000",
-     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 73 # Comments: 14",
+     "summary": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 83 # Comments: 21",
      "source": "Hacker News",
      "zh": "MartyPC is a cross-platform emulator of early PCs written in Rust"
     },
@@ -1968,22 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "一个人就是一支AI 交易团队。",
      "source": "钛媒体",
      "zh": "26岁离开10亿私募，一个交易天才与他的AI Trading创业｜独家对话"
-    },
-    {
-     "title": "I Dream of Quieter Computing",
-     "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-     "pubDate": "Sun, 23 Aug 2026 02:33:22 +0000",
-     "summary": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 46 # Comments: 14",
-     "source": "Hacker News",
-     "zh": "I Dream of Quieter Computing"
-    },
-    {
-     "title": "The Art and Beauty of Blade Runner (2015)",
-     "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-     "pubDate": "Sun, 23 Aug 2026 00:56:03 +0000",
-     "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 52 # Comments: 13",
-     "source": "Hacker News",
-     "zh": "The Art and Beauty of Blade Runner (2015)"
     }
    ]
   },
@@ -2242,12 +2242,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "受台风“紫檀”影响 今日至25日部分列车停运",
-     "link": "http://finance.eastmoney.com/news/1350,202608233850267859.html",
-     "pubDate": "Sun, 23 Aug 2026 14:45:42 +0800",
-     "summary": "受第19号台风“紫檀”和西南季风共同影响，海南岛、广西南部、广东、福建、浙江等地部分地区有大到暴雨，局地大暴雨到特大暴雨。为确保旅客列车运行安全，铁路部门动态调整旅客列车开行方案。 来自国铁广州局的消息，受台风影响，根据调度计划，23日20时至24日8时，甬广高铁部分列车停运；24日8时至25日2时，海南高铁西环段部分列车停运，同时，部分列车可能出现晚点情况。 受台风路径变化影响，广西沿海铁路昨天停运的邕北、钦防、防东铁路的部分列车已经恢复运行。国铁南昌局目前在甬广高铁以及峰福、昌福、杭深、福平、兴泉、漳泉等铁路部分区段启动防洪Ⅳ级应急响应。 铁路部门表示，将持续根据台风影响范围和降雨情况，动",
+     "title": "别争“灵活算不算福利”了，先给超2亿打工人把保障补齐",
+     "link": "http://www.eeo.com.cn/2026/0823/1008663.shtml",
+     "pubDate": "Sun, 23 Aug 2026 15:26:12 +0800",
+     "summary": "本文来源：时代周报 作者：特约记者 李巍巍 近日，北大国发院教授张丹丹的一段访谈引发舆论漩涡。访谈围绕两亿多灵活就业者的社保问题展开，抛出“灵活本身就是...",
+     "source": "经济观察网",
+     "zh": "别争“灵活算不算福利”了，先给超2亿打工人把保障补齐"
+    },
+    {
+     "title": "i茅台增加贵州茅台酒产品上午投放时段",
+     "link": "http://finance.eastmoney.com/news/1349,202608233850268442.html",
+     "pubDate": "Sun, 23 Aug 2026 15:18:28 +0800",
+     "summary": "8月23日， 贵州茅台 旗下i茅台官微消息，为更好适配消费需求，对i茅台APP内 贵州茅台 酒产品的每日投放时段作出优化调整：自8月24日09:00起，在原有20:00、20:09晚间投放时段基础上，开设09:00、09:09上午投放时段，产品购买规则不变。 （文章来源：人民财讯）",
      "source": "东方财富股票",
-     "zh": "受台风“紫檀”影响 今日至25日部分列车停运"
+     "zh": "i茅台增加贵州茅台酒产品上午投放时段"
+    },
+    {
+     "title": "8月24日起 i茅台增加贵州茅台酒产品上午投放时段 含53°500ml飞天",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850268639.html",
+     "pubDate": "Sun, 23 Aug 2026 15:18:12 +0800",
+     "summary": "据 贵州茅台 23日消息，i茅台APP内 贵州茅台 酒产品的每日投放时段作出优化调整：自8月24日09:00起，在原有20:00、20:09晚间投放时段基础上，开设09:00、09:09上午投放时段，产品购买规则不变。调整后每日投放时间与产品明细如下： 8月14日晚， 贵州茅台 发布2026年半年度报告，上半年实现营业收入907.03亿元，同比增长1.47%；归属于上市公司股东的净利润445.17亿元，同比下降1.95%；扣非后净利润444.64亿元，同比下降2.04%。 （文章来源：中新经纬）",
+     "source": "东方财富股票",
+     "zh": "8月24日起 i茅台增加贵州茅台酒产品上午投放时段 含53°500ml飞天"
+    },
+    {
+     "title": "阿里巴巴宣布：800亿港元，拟配售新股",
+     "link": "http://finance.eastmoney.com/news/1354,202608233850268515.html",
+     "pubDate": "Sun, 23 Aug 2026 15:17:00 +0800",
+     "summary": "8月23日，券商中国记者获悉， 阿里巴巴 宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。 据了解，这也是 阿里巴巴 2019年港股上市以来首次启动新股配售。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设。据知情人士称，此轮配售已获超额认购。 8月20日， 阿里巴巴 发布2027财年第一季度财报显示，截至2026年6月30日的季度，阿里巴巴集团收入为2689.53亿元人民币，同比增长9%，其中AI相关产品年化收入（ARR）超495亿元人民币；经营利润方面，报告期内为151.61亿元人民币，同比下降57%。 阿里巴巴集团首席执行官吴泳铭表示，本季度，全栈",
+     "source": "东方财富股票",
+     "zh": "阿里巴巴宣布：800亿港元，拟配售新股"
+    },
+    {
+     "title": "“国内金融业第一位CEO”卸任！万亿级保险机构，重要人事变动",
+     "link": "http://www.eeo.com.cn/2026/0823/1008646.shtml",
+     "pubDate": "Sun, 23 Aug 2026 15:13:04 +0800",
+     "summary": "8月22日，泰康保险集团宣布治理结构调整：创始人、董事长陈东升不再兼任首席执行官（CEO），聘任公司总裁刘挺军出任公司首席执行官。此决定已于8月20日获泰康保险集团第四届七次董事会审议通过。 调整后，陈东升将回归并专注公司战略、团队、风险、文化以及重大事项决策，继续发挥核心领导作用。刘挺军将聚焦于公司整体经营与内部协同效率提升，并将持续贯彻推进泰康“新寿险”战略，扩大落地成果。 此次调整不同寻...",
+     "source": "经济观察网",
+     "zh": "“国内金融业第一位CEO”卸任！万亿级保险机构，重要人事变动"
+    },
+    {
+     "title": "聚焦空防 泽连斯基说马克龙愿意帮忙",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850268323.html",
+     "pubDate": "Sun, 23 Aug 2026 15:09:46 +0800",
+     "summary": "乌克兰总统泽连斯基22日说，他当天与法国总统马克龙通电话约2个小时，后者表示愿意协助乌方与拥有“爱国者”防空系统拦截弹库存的盟友沟通。双方同意加快对乌交付法制装备和导弹，法方还将向乌方提供相关导弹的生产许可。 “爱国者”防空系统是乌方当前唯一可用于拦截俄罗斯发射的高速弹道导弹的武器。自乌克兰危机2022年2月全面升级以来，泽连斯基已多次寻求盟友提供更多该系统拦截弹。 据美国有线电视新闻网日前报道，乌方负责“爱国者”系统运行的首席工程师德米特罗表示，因为拦截弹短缺，他已数周没见过“爱国者”系统运作。美国总统特朗普7月初出席北约峰会期间曾表示将授权乌克兰生产“爱国者”拦截弹，但后来改口否认。美国媒",
+     "source": "东方财富股票",
+     "zh": "聚焦空防 泽连斯基说马克龙愿意帮忙"
+    },
+    {
+     "title": "陈茂波：国家AI发展对香港经济和金融市场发挥显著助力",
+     "link": "http://finance.eastmoney.com/news/1351,202608233850268237.html",
+     "pubDate": "Sun, 23 Aug 2026 15:08:04 +0800",
+     "summary": "香港特区政府财政司司长陈茂波今日（8月23日）在网志中介绍，国家在AI方面的迅速发展，对香港的经济和金融市场发挥了显著的助力。今年上半年香港经济增长较原预期理想，原因之一是受惠于全球对先进 电子 及 人工智能 相关产品的强劲需求，香港出口连续多季录得高双位数增长。香港与AI相关的新股集资在去年12月到今年5月期间近1000亿港元，占同期新股集资额约55%。恒指公司在最新季度检视后，也将多家AI相关公司纳入多个指数中，以适当反映AI在经济中日益重要的比重。 （文章来源：大湾区之声）",
+     "source": "东方财富股票",
+     "zh": "陈茂波：国家AI发展对香港经济和金融市场发挥显著助力"
+    },
+    {
+     "title": "青海西宁：智能制造赋能光伏产业",
+     "link": "http://finance.eastmoney.com/news/1350,202608233850268197.html",
+     "pubDate": "Sun, 23 Aug 2026 15:05:38 +0800",
+     "summary": "近日，记者走进位于青海西宁的国家电投集团黄河公司科创中心（光伏技术分公司），洁净生产车间里自动化产线高速运转，光伏 电池 组件有序产出。这条2019年投产的XBC 电池 中试线，依托自主创新技术，实现光伏智能制造迭代升级。 近年来，青海西宁依托得天独厚的清洁能源禀赋，持续做强光伏 电池 核心产业，构建起全链条、智能化的光伏制造产业集群。依托科创平台，当地不断研发高效光伏电池新产品，以智能制造赋能光伏产业高端化、绿色化升级。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "青海西宁：智能制造赋能光伏产业"
     },
     {
      "title": "SemiAnalysis：闪存制造正“由钨转钼”",
@@ -2266,46 +2322,6 @@ window.INDUSTRY_DATA = {
      "zh": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8"
     },
     {
-     "title": "加拿大三省长力挺反制美国关税",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850267432.html",
-     "pubDate": "Sun, 23 Aug 2026 14:35:43 +0800",
-     "summary": "当地时间8月22日，加拿大总理卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。对此，加拿大安大略省、大不列颠哥伦比亚省以及魁北克省省长均发言力挺。安大略省省长道格·福特呼吁加拿大各省团结一致，组成“加拿大队”，动用一切手段回击美国。大不列颠哥伦比亚省省长戴维·伊比表示，当前美国政府不可信，加拿大必须挺身而出直面霸凌者。 美国总统特朗普7月20日签署多个公告，依据《斯穆特-霍利关税法》第338条款对从加拿大进口的红酒、曲棍球棒和 水泥 等数百项特定商品加征50%关税。新关税措施原本定于美东时间8月19日开始生效，特朗普8月18日",
-     "source": "东方财富股票",
-     "zh": "加拿大三省长力挺反制美国关税"
-    },
-    {
-     "title": "乌克兰利沃夫市一药店发生爆炸 2人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202608233850267392.html",
-     "pubDate": "Sun, 23 Aug 2026 14:35:11 +0800",
-     "summary": "当地时间8月23日，乌克兰利沃夫市一处药店发生爆炸，初步确认有2人死亡。目前，执法人员正在现场开展工作。爆炸原因尚不清楚。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "乌克兰利沃夫市一药店发生爆炸 2人死亡"
-    },
-    {
-     "title": "深演智能获纳恒生综合指数 距上市不足四月即有望跻身港股通",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850267510.html",
-     "pubDate": "Sun, 23 Aug 2026 14:29:42 +0800",
-     "summary": "上证报中国证券网讯（记者罗茂林）8月21日，恒生指数公司公布季度检讨结果，北京 深演智能 科技股份有限公司获纳入恒生 综合 指数成份股，调整将于9月7日起生效。这意味着，这家今年5月27日登陆港交所的“企业决策 AI智能体 第一股”，有望同步进入沪港通及深港通交易机制。 公开资料显示， 深演智能 成立于2009年，聚焦企业决策AI赛道，上市首日股价大涨266%。公司凭借“大模型+算法模型”双层架构，打造企业决策 AI智能体 系统DeepAgent，以Agentic Software和Agentic Service两大业务替代传统企业软件，在中国营销与销售决策 AI应用 市场位居首位。 当前全球",
-     "source": "东方财富股票",
-     "zh": "深演智能获纳恒生综合指数 距上市不足四月即有望跻身港股通"
-    },
-    {
-     "title": "《欢迎来龙餐馆》，已破15亿元，进入年度前五！",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850267786.html",
-     "pubDate": "Sun, 23 Aug 2026 14:29:00 +0800",
-     "summary": "截至8月23日11时27分，上映13天的电影《欢迎来龙餐馆》（以下简称《龙餐馆》）总票房已突破15亿元。昨日晚间，该片累计票房已超越《蜘蛛侠：崭新之日》，进入年度电影总票房榜前五。 《龙餐馆》由导演文牧野执导，主演阵容包括沈腾、蒋奇明、李治廷等知名演员。自8月11日上映以来，该片口碑和票房一路走高，电影本身和演员也多次登上社交媒体热搜榜。 在豆瓣平台，《龙餐馆》以8.4分的高分开局，随着观影人次的增多，评分不降反升，目前豆瓣评分高达8.6分。 在票房表现方面，截至目前，该片为2026年战争片内地票房冠军，2026年七夕档票房冠军，以及内地影史七夕节剧情片总场次冠军。 截至目前，在《龙餐馆》的加",
-     "source": "东方财富股票",
-     "zh": "《欢迎来龙餐馆》，已破15亿元，进入年度前五！"
-    },
-    {
-     "title": "阿里巴巴拟再融资800亿港元加码AI建设",
-     "link": "http://finance.eastmoney.com/news/1354,202608233850267626.html",
-     "pubDate": "Sun, 23 Aug 2026 14:29:00 +0800",
-     "summary": "8月23日消息， 阿里巴巴 宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是 阿里巴巴 自2019年港股上市以来首次启动新股配售。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。 （文章来源：上海证券报）",
-     "source": "东方财富股票",
-     "zh": "阿里巴巴拟再融资800亿港元加码AI建设"
-    },
-    {
      "title": "特朗普投资账户6月交易上千笔，金融股成重仓方向",
      "link": "https://wallstreetcn.com/articles/3780076",
      "pubDate": "Sun, 23 Aug 2026 14:10:15 +0800",
@@ -2320,6 +2336,14 @@ window.INDUSTRY_DATA = {
      "summary": "中新经纬8月23日电 中新经纬8月23日获悉，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售。 本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。(中新经纬APP) 编辑：李晓萱 责编：魏薇",
      "source": "经济观察网",
      "zh": "阿里拟配售800亿港元新股，全部投入AI建设"
+    },
+    {
+     "title": "七年来首次！阿里拟配售800亿港元新股，全部投入AI建设",
+     "link": "https://wallstreetcn.com/articles/3780075",
+     "pubDate": "Sun, 23 Aug 2026 13:34:46 +0800",
+     "summary": "阿里巴巴宣布港股上市以来首次配售新股，募资800亿港元，全部用于AI基础设施。 8月23日，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售 。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。 AI正在成为驱动阿里加速增长的核心引擎，8月20日阿里发布的最新财报显示，阿里巴巴AI相关产品年化收入（ARR）已突破495亿元人民币（73亿美元），预计下季度达到100亿美元。阿里云2030年外部商业化收入预计达1000亿美元，利润率有望突破20%。近期，全球投",
+     "source": "华尔街见闻",
+     "zh": "七年来首次！阿里拟配售800亿港元新股，全部投入AI建设"
     },
     {
      "title": "贝森特没能稳住市场，日本有重蹈“1997年亚洲金融危机”的风险",
@@ -2386,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Investors try to catch ‘falling knife’ with bets on risky funds during chip rout"
     },
     {
-     "title": "“抄义乌”是为“超义乌”：汕头想要拿回产业话语权",
-     "link": "http://www.eeo.com.cn/2026/0823/1008344.shtml",
-     "pubDate": "Sun, 23 Aug 2026 11:52:11 +0800",
-     "summary": "南方财经记者 于长洹 实习生 朱子钰 产能占全国近半，话语权却长期旁落——汕头内衣产业正迎来历史性转折。 作为全球规模最大、产业链最完整的贴身服饰生产基地，汕头年产内衣、家居服超50亿件，却长期困于“有工厂无市场”的结构性矛盾，大量优质产品经义乌中转外销，利润被层层分走。 现在，局面正在改变。8月18日，汕头市潮阳区谷饶镇，汕头国际纺织城内，“广货行天下·潮品通全球”汕头贴身服饰专场...",
-     "source": "经济观察网",
-     "zh": "“抄义乌”是为“超义乌”：汕头想要拿回产业话语权"
-    },
-    {
      "title": "7月再现！高盛：存储“股价业绩差”最具吸引力，金融和硬资产成为新热点",
      "link": "https://wallstreetcn.com/articles/3780070",
      "pubDate": "Sun, 23 Aug 2026 11:24:18 +0800",
@@ -2402,28 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "7月再现！高盛：存储“股价业绩差”最具吸引力，金融和硬资产成为新热点"
     },
     {
-     "title": "超限车辆违规跟车上道 重庆交通执法：严查！",
-     "link": "http://www.eeo.com.cn/2026/0823/1008290.shtml",
-     "pubDate": "Sun, 23 Aug 2026 11:13:12 +0800",
-     "summary": "超限...",
-     "source": "经济观察网",
-     "zh": "超限车辆违规跟车上道 重庆交通执法：严查！"
-    },
-    {
-     "title": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
-     "link": "https://wallstreetcn.com/articles/3779970",
-     "pubDate": "Sun, 23 Aug 2026 10:14:19 +0800",
-     "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会 是下周最大宏观锚点。美联储主席 沃什 8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。 美联储“最爱通胀指标”7月PCE 与二季度GDP修正值8月26日公布。与此同时， 美财长贝森特8月24日召开对伊朗经济制裁的发布会并预告新财政整顿计划 ，地缘风险溢价与财政路径双线夹击能源与避险资产。 企业财报层面，AI龙头英伟达 将于8月27日凌晨放榜，其业绩指引被视为AI资本开支周期的“终极",
+     "title": "李辉就任宏利基金总经理，公募老将开拓新局面",
+     "link": "https://wallstreetcn.com/articles/3780078",
+     "pubDate": "Sun, 23 Aug 2026 10:24:06 +0800",
+     "summary": "2026 年 8 月 21 日，宏利基金正式发布公告，任命李辉为新任总经理（法定代表人）及财务负责人，原总经理丁闻聪因工作调动离任。李辉是宏利基金完成独资转型后的第三任总经理，亦是经验丰富的业内总经理，由此带来业界对宏利基金下一步发展的期待。 宏利基金现高管更替 根据宏利基金8月22日发布的公告，公司近期变更了总经理（法定代表人）、财务负责人的相关信息。 前兴业基金总经理李辉接掌两个岗位，原任宏利基金总经理的DING WEN CONG（丁闻聪）已因工作安排离任，两者交接棒时间为8月21日。 另外，因宏利基金原督察长于 2026 年 6 月 10 日离任，由公司总经理代为履行督察长职务，本次高级",
      "source": "华尔街见闻",
-     "zh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了"
-    },
-    {
-     "title": "“我们遭到了袭击！”加拿大强力反制：对美等额关税9月8日生效，午夜紧急召回谈判团队",
-     "link": "https://wallstreetcn.com/articles/3780061",
-     "pubDate": "Sun, 23 Aug 2026 09:58:55 +0800",
-     "summary": "加美贸易谈判宣告破裂，双方关税对抗迅速升级为近年来最严峻的贸易冲突。 据央视新闻8月23日消息，加拿大总理卡尼发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。 卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税， 加拿大的等额报复性关税计划于9月8日正式生效执行 ，涵盖乳制品、钢铁、家电、纸浆与造纸及电子产品等多个领域。 此前，美国依据《斯穆特-霍利关税法》第338条款，对约200亿美元加拿大商品加征50%关税，已于美东时间8月22日凌晨生效。卡尼在全国电视讲话中以强硬措辞回应，称加拿大\"遭到了袭击\"，并强调加拿大正减少对美依赖、\"正变得越来越强大\"。 谈判破裂令市场猝不及",
-     "source": "华尔街见闻",
-     "zh": "“我们遭到了袭击！”加拿大强力反制：对美等额关税9月8日生效，午夜紧急召回谈判团队"
+     "zh": "李辉就任宏利基金总经理，公募老将开拓新局面"
     },
     {
      "title": "Venezuela hits roadblock in exporting more oil, as ports can't keep up with demand - report",

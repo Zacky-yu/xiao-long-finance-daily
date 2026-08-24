@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/8/25 06:30:57",
+ "generated_at": "2026/8/25 06:58:12",
  "recent_days": 7,
  "industries": [
   {
@@ -850,6 +850,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Tesla ditches solar roof — and embraces regular solar panels",
+     "link": "https://www.canarymedia.com/articles/solar/tesla-pulls-plug-on-solar-roof-as-it-chases-wild-new-solar-dreams",
+     "pubDate": "Mon, 24 Aug 2026 18:30:00 -0400",
+     "summary": "A thousand solar roofs per week. That was the pace Elon Musk predicted Tesla would install its electricity-generating roof tiles in 2020, more than three years after he unveiled the product to great fanfare on the set of the TV show Desperate Housewives. That estimate fell flat. Tesla managed to ins",
+     "source": "Canary Media",
+     "zh": "Tesla ditches solar roof — and embraces regular solar panels"
+    },
+    {
+     "title": "Can BMW Regain Business in China with Electric SUV & Sedan?",
+     "link": "https://cleantechnica.com/2026/08/24/can-bmw-regain-business-in-china-with-electric-suv-sedan/",
+     "pubDate": "Mon, 24 Aug 2026 22:26:01 +0000",
+     "summary": "It’s been no secret — legacy automaker sales are getting absolutely drained in China. The shift to electric cars is more of a tsunami than a wave, and buyers are much more interested in and convinced by electric vehicles from Chinese producers than from legacy automakers. Since China was an ... [con",
+     "source": "CleanTechnica",
+     "zh": "Can BMW Regain Business in China with Electric SUV & Sedan?"
+    },
+    {
      "title": "U.S. Leaves Europe Behind in Critical Minerals Race",
      "link": "https://oilprice.com/Energy/Energy-General/US-Leaves-Europe-Behind-in-Critical-Minerals-Race.html",
      "pubDate": "Mon, 24 Aug 2026 17:00:00 -0500",
@@ -1072,22 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "India added a record 3 GW of open-access solar capacity in the second quarter of 2026, taking cumulative installations to 36 GW. First-half additions reached nearly 6 GW, up 42% year on year, driven by strong C&I demand and regulatory deadlines. The post India adds 3 GW of open-access solar in Q2 ap",
      "source": "pv magazine",
      "zh": "India adds 3 GW of open-access solar in Q2"
-    },
-    {
-     "title": "The price of ‘all-of-the-above’ | Factor This Brief",
-     "link": "https://www.renewableenergyworld.com/energy-business/the-price-of-all-of-the-above-factor-this-brief/",
-     "pubDate": "Mon, 24 Aug 2026 10:00:00 +0000",
-     "summary": "Canada touts the \"largest clean energy investment in North American history,\" Sunrun and Voltus team up to provide household demand response for data centers, Dimension Energy secures $857 million of capital to accelerate the growth of its distributed solar platform, and LG Energy Solution spins up ",
-     "source": "Renewable Energy World",
-     "zh": "The price of ‘all-of-the-above’ | Factor This Brief"
-    },
-    {
-     "title": "What makes a customer portal work for employees? These 4 essentials.",
-     "link": "https://www.utilitydive.com/spons/what-makes-a-customer-portal-work-for-employees-these-4-essentials/828226/",
-     "pubDate": "Mon, 24 Aug 2026 05:00:00 -0400",
-     "summary": "Utility portals are framed as customer experience tools, but they also improve how frontline work is done.",
-     "source": "Utility Dive",
-     "zh": "What makes a customer portal work for employees? These 4 essentials."
     }
    ]
   },
@@ -1746,18 +1746,74 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "苹果听取用户反馈，放弃 iCloud+“隐藏邮件地址”域名变更计划",
-     "link": "https://www.ithome.com/0/993/764.htm",
-     "pubDate": "Mon, 24 Aug 2026 22:27:52 GMT",
-     "summary": "IT之家 8 月 25 日消息，苹果宣布，将放弃变更 iCloud+“隐藏邮件地址”（Hide My Email）域名，相关网站将继续使用 icloud.com 域名。 IT之家注意到，苹果这一决定距离最初公布调整方案仅约两个月。在今年 6 月时，苹果曾宣布将为“通过 Apple 登录”（Sign in with Apple）和“隐藏邮件地址”启用统一的新邮箱域名 private.icloud.com 。 作为参考，目前“通过 Apple 登录”使用 privaterelay.appleid.com ，而“隐藏邮件地址”则与普通 iCloud 邮箱一样使用 icloud.com 。 不过苹果相",
+     "title": "索尼 PS5 全新广告重提游戏独占，消息称第一方大作不会登陆 PC",
+     "link": "https://www.ithome.com/0/993/774.htm",
+     "pubDate": "Mon, 24 Aug 2026 22:55:23 GMT",
+     "summary": "IT之家 8 月 25 日消息，索尼最新发布的一则 PlayStation 5 广告，再次启用了自本世代主机推出以来已经很少出现的“独占”宣传措辞。此前有报道称，索尼已经决定停止将旗下大型单人游戏移植到 PC。 索尼全新的“Only on PS5”广告目前已开始在社交媒体平台投放，其中展示了多款旗下近期及即将推出的重要游戏。值得注意的是，视频中多次出现“PlayStation 5 独占”的表述。 广告中展示的游戏包括《漫威金刚狼》《Saros》《GT 赛车 7》《战神：劳菲》《宇宙机器人》以及《羊蹄山之魂》。 值得注意的是，上述游戏此前均未推出 PC 版本，目前也没有公布任何即将登陆 PC 的",
      "source": "IT之家",
-     "zh": "苹果听取用户反馈，放弃 iCloud+“隐藏邮件地址”域名变更计划"
+     "zh": "索尼 PS5 全新广告重提游戏独占，消息称第一方大作不会登陆 PC"
+    },
+    {
+     "title": "Docs: Meta plans to launch its version of OpenClaw, codenamed Hatch, in late August or early September and its latest AI model, Watermelon, in October (Jyoti Mann/The Information)",
+     "link": "https://www.techmeme.com/260824/p37#a260824p37",
+     "pubDate": "Mon, 24 Aug 2026 18:53:07 -0400",
+     "summary": "Jyoti Mann / The Information : Docs: Meta plans to launch its version of OpenClaw, codenamed Hatch, in late August or early September and its latest AI model, Watermelon, in October &nbsp; &mdash;&nbsp; Meta Platforms plans to launch its consumer version of the OpenClaw AI agent, dubbed Hatch intern",
+     "source": "Techmeme",
+     "zh": "Docs: Meta plans to launch its version of OpenClaw, codenamed Hatch, in late August or early September and its latest AI model, Watermelon, in October (Jyoti Mann/The Information)"
+    },
+    {
+     "title": "苹果 iOS 27 版 Safari 浏览器前瞻：AI 自动整理标签页、定制创建扩展等",
+     "link": "https://www.ithome.com/0/993/773.htm",
+     "pubDate": "Mon, 24 Aug 2026 22:51:00 GMT",
+     "summary": "IT之家 8 月 25 日消息，科技媒体 MacRumors 昨日（8 月 24 日）发布博文，汇总梳理了 iOS 27 版苹果 Safari 浏览器的诸多新功能 / 新特性， 包括利用 Apple Intelligence（苹果智能）自动整理标签页、按需求创建自定义扩展、监测网站变化等。 一、整合 Apple Intelligence 技能 iOS 27 版 Safari 浏览器引入多项 Apple Intelligence 功能，覆盖标签页管理、扩展创建、网站监测和密码更新等场景。 1.1、自动整理标签页 Safari 可借助 Apple Intelligence 分析已打开的标签页，并按",
+     "source": "IT之家",
+     "zh": "苹果 iOS 27 版 Safari 浏览器前瞻：AI 自动整理标签页、定制创建扩展等"
+    },
+    {
+     "title": "谷歌为 Pixel 11 系列手机测试 Gemini 驱动的“设备帮助”工具，可对话式排查手机故障",
+     "link": "https://www.ithome.com/0/993/772.htm",
+     "pubDate": "Mon, 24 Aug 2026 22:49:18 GMT",
+     "summary": "IT之家 8 月 25 日消息，谷歌目前正在为 Pixel 11 系列测试一项由 Gemini 驱动的“设备帮助”（Device help）功能。用户可以直接与 Gemini 对话，咨询手机使用过程中遇到的各种问题，并获得故障排查和操作指导。 “设备帮助”位于 Gemini 的“加号”菜单中，在列表底部，“个人智能”（Personal Intelligence）选项的上方。 不过，目前这项功能似乎仍处于小范围测试阶段，尚未向所有用户大规模推送。当然，即使谷歌正式开始大规模推送新功能，往往也需要很长时间才能覆盖所有用户，因此此次测试也可能意味着正式推广已经开始。 据了解，该功能目前已经出现在 G",
+     "source": "IT之家",
+     "zh": "谷歌为 Pixel 11 系列手机测试 Gemini 驱动的“设备帮助”工具，可对话式排查手机故障"
+    },
+    {
+     "title": "GrapheneOS 官宣将于明年支持联想旗下摩托罗拉手机，优先适配传统直板旗舰机型",
+     "link": "https://www.ithome.com/0/993/771.htm",
+     "pubDate": "Mon, 24 Aug 2026 22:48:28 GMT",
+     "summary": "IT之家 8 月 25 日消息，GrapheneOS 基金会宣布旗下“注重隐私的开源移动操作系统”GrapheneOS 将于明年支持联想旗下摩托罗拉智能手机，开发团队初期将优先支持摩托罗拉传统直板旗舰机型，随后再扩展至折叠屏设备。 与普通安卓系统相比，GrapheneOS 更强调硬件级安全机制。系统会移除内置追踪功能，并将 Google Play 服务限制在隔离的应用沙箱中，同时加入系统级隐私保护功能，让用户能够更加自主地控制个人数据。 GrapheneOS 基金会表示， 运行 GrapheneOS 的摩托罗拉设备将获得 7 年完整系统更新 。相比之下，2026 款 Motorola Razr",
+     "source": "IT之家",
+     "zh": "GrapheneOS 官宣将于明年支持联想旗下摩托罗拉手机，优先适配传统直板旗舰机型"
+    },
+    {
+     "title": "宏碁暗影骑士 · 龙 8 Pro 游戏本首销：9955HX3D + RTX5070 Ti，22999 元",
+     "link": "https://www.ithome.com/0/993/770.htm",
+     "pubDate": "Mon, 24 Aug 2026 22:42:38 GMT",
+     "summary": "IT之家 8 月 25 日消息，宏碁 (Acer) 旗下上架暗影骑士 · 龙 8 Pro 游戏笔记本电脑将于今天 10 点开启首销，当前上架配置提供 32GB DDR5 SO-DIMM 内存和 1TB SSD 存储，标价 22999 元（可在此基础上享受国家补贴）。 京东 宏碁暗影骑士 · 龙 8 Pro 游戏本 22999 元 直达链接 暗影骑士 · 龙 8 Pro 也就是全球市场的 Nitro 16 (AN16-A91)，搭载 AMD 锐龙 9 9955HX3D 处理器和 NVIDIA GeForce RTX 5070 Ti 笔记本电脑 GPU。 宏碁暗影骑士 · 龙 8 Pro 属于 1",
+     "source": "IT之家",
+     "zh": "宏碁暗影骑士 · 龙 8 Pro 游戏本首销：9955HX3D + RTX5070 Ti，22999 元"
+    },
+    {
+     "title": "Epic 反对苹果申请封存诉讼材料：外部购买佣金核心数据应当公开",
+     "link": "https://www.ithome.com/0/993/769.htm",
+     "pubDate": "Mon, 24 Aug 2026 22:41:58 GMT",
+     "summary": "IT之家 8 月 25 日消息，Epic 表示，苹果提出了过于宽泛的封存请求，试图对其认为与确定公司可向开发者收取“关联外购”费用至关重要的信息进行保密。 Epic 称苹果试图“向公众隐瞒信息” 几天前，苹果提交了其提案，概述了其认为应被允许就通过外部链接在 App Store 之外完成的购买收取多少佣金。 苹果的提案要求： 标准应用收取 15%，此类应用需缴纳 30% 的应用内购买（“IAP”）佣金； 视频合作伙伴计划（“VPP”）、新闻合作伙伴计划（“NPP”）、小程序合作伙伴计划（“MPP”）以及订阅续费收取 10%； 小型企业计划应用收取 5%。 IT之家注意到，除提案本身外，苹果还提",
+     "source": "IT之家",
+     "zh": "Epic 反对苹果申请封存诉讼材料：外部购买佣金核心数据应当公开"
+    },
+    {
+     "title": "Apple reverses its plan to move iCloud+ Hide My Email addresses to private.icloud.com after user backlash; the feature will continue using the icloud.com domain (Juli Clover/MacRumors)",
+     "link": "https://www.techmeme.com/260824/p36#a260824p36",
+     "pubDate": "Mon, 24 Aug 2026 18:35:00 -0400",
+     "summary": "Juli Clover / MacRumors : Apple reverses its plan to move iCloud+ Hide My Email addresses to private.icloud.com after user backlash; the feature will continue using the icloud.com domain &nbsp; &mdash;&nbsp; Apple today said it is reversing its decision and will not change the email domain used for ",
+     "source": "Techmeme",
+     "zh": "Apple reverses its plan to move iCloud+ Hide My Email addresses to private.icloud.com after user backlash; the feature will continue using the icloud.com domain (Juli Clover/MacRumors)"
     },
     {
      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
      "link": "https://developer.apple.com/news/?id=1ptvdtcm",
      "pubDate": "Mon, 24 Aug 2026 22:13:40 +0000",
-     "summary": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 16 # Comments: 3",
+     "summary": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 64 # Comments: 15",
      "source": "Hacker News",
      "zh": "iCloud+ Hide My Email addresses will remain on icloud.com"
     },
@@ -1768,6 +1824,30 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 高校历史现况研究 ，作者：高历研 开学季一到，社交平台上的“大学校区吐槽大赛”又准时开赛了。 高赞抱怨翻来覆去都是那几样： 校区建在县城郊外，出了校门就是农田，连杯连锁奶茶都喝不上，周末进城得晃一小时公交；校园小得离谱，从南门走到北门十分钟到头，规模还不如自己的高中，半点儿大学的氛围感都没有；宿舍更糟，六人间上下铺，没有独立卫浴，夏天没空调冬天没暖廊（拓展阅读：东北的大学安空调了，现在轮到南方的学校装暖气了），住得还不如高中舒坦。再加上校园开放后社会人员能随便进，连录取通知书都一年比一年朴素，没了拆礼盒的仪式感。 字里行间，都是同一种委屈：我考了这么高的分数，怎么就配了这",
      "source": "虎嗅",
      "zh": "吐槽校区在县城里的大学生，到底想要一所怎样的“大学”？"
+    },
+    {
+     "title": "Moon",
+     "link": "https://ciechanow.ski/moon/",
+     "pubDate": "Mon, 24 Aug 2026 22:06:02 +0000",
+     "summary": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 9 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Moon"
+    },
+    {
+     "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+     "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+     "pubDate": "Mon, 24 Aug 2026 21:45:53 +0000",
+     "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+     "source": "Ars Technica",
+     "zh": "AI is hitting entry-level jobs hardest, Stanford study finds"
+    },
+    {
+     "title": "Data centers become \"killer application\" for new power transformer tech",
+     "link": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+     "pubDate": "Mon, 24 Aug 2026 21:32:16 +0000",
+     "summary": "Solid-state transformers could also benefit EV charging and someday households.",
+     "source": "Ars Technica",
+     "zh": "Data centers become \"killer application\" for new power transformer tech"
     },
     {
      "title": "Sources: smart ring maker Oura and some of its backers seek to raise up to $3B in a US IPO that could take place as soon as September and value it at over $16B (Bloomberg)",
@@ -1794,10 +1874,18 @@ window.INDUSTRY_DATA = {
      "zh": "Bitdefender VPN Review: Fast and Affordable Privacy"
     },
     {
+     "title": "RFK Jr. may upend how vaccine recommendations are categorized",
+     "link": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+     "pubDate": "Mon, 24 Aug 2026 21:04:48 +0000",
+     "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+     "source": "Ars Technica",
+     "zh": "RFK Jr. may upend how vaccine recommendations are categorized"
+    },
+    {
      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
      "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
      "pubDate": "Mon, 24 Aug 2026 21:03:06 +0000",
-     "summary": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 59 # Comments: 42",
+     "summary": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 80 # Comments: 58",
      "source": "Hacker News",
      "zh": "One corner of China’s internet is insisting that the Tang Dynasty never existed"
     },
@@ -1805,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
      "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
      "pubDate": "Mon, 24 Aug 2026 21:01:38 +0000",
-     "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 24 # Comments: 2",
+     "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 31 # Comments: 2",
      "source": "Hacker News",
      "zh": "Vintage Artificial Intelligence: Before It Got Awkward"
     },
@@ -1858,6 +1946,14 @@ window.INDUSTRY_DATA = {
      "zh": "The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe"
     },
     {
+     "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+     "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+     "pubDate": "Mon, 24 Aug 2026 20:17:41 +0000",
+     "summary": "Monitor vendors are playing with fire.",
+     "source": "Ars Technica",
+     "zh": "Ads and tracking infiltrated TVs. Now they're coming for monitors."
+    },
+    {
      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
      "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
      "pubDate": "Mon, 24 Aug 2026 20:16:34 +0000",
@@ -1888,102 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 今年，《Nature》发表过一项颇有反讽意味的研究。研究者分析了4130万篇自然科学论文，发现使用AI工具的科学家，平均发表论文更多，引用更多，也更早成为项目负责人。按个人生产率看，AI几乎是一个无可挑剔的助手。 但另一半结果不太让人轻松：随着AI被采用，集体研究覆盖的主题范围缩小了4.63%，科学家之间的互动减少了22%。 一个人的手更快了，整个科学共同体看的方向却可能更少了。 这件事让我重新想起一个很基本的问题。我们正进入人类历史上获取答案最便宜的时期。以前，学习的难处是一本书拿不到、一篇论文找不着、一个领域的专家见不到。现在，一个模",
      "source": "虎嗅",
      "zh": "AI for Science最难学会的，是换一个问题"
-    },
-    {
-     "title": "GM vehicles under federal scrutiny after hundreds of reports",
-     "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
-     "pubDate": "Mon, 24 Aug 2026 19:42:50 +0000",
-     "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
-     "source": "Ars Technica",
-     "zh": "GM vehicles under federal scrutiny after hundreds of reports"
-    },
-    {
-     "title": "Mercury Research: AMD&apos;s share of x86 client CPU shipments tops 30% for the first time, hitting 30.3% in Q2, up from 21.1% two years earlier, vs. Intel&apos;s 69.7% (Michael Kan/PCMag)",
-     "link": "https://www.techmeme.com/260824/p31#a260824p31",
-     "pubDate": "Mon, 24 Aug 2026 15:25:01 -0400",
-     "summary": "Michael Kan / PCMag : Mercury Research: AMD's share of x86 client CPU shipments tops 30% for the first time, hitting 30.3% in Q2, up from 21.1% two years earlier, vs. Intel's 69.7% &nbsp; &mdash;&nbsp; For the first time, AMD's share of the x86 client CPU market, covering both mobile and desktop, ha",
-     "source": "Techmeme",
-     "zh": "Mercury Research: AMD&apos;s share of x86 client CPU shipments tops 30% for the first time, hitting 30.3% in Q2, up from 21.1% two years earlier, vs. Intel&apos;s 69.7% (Michael Kan/PCMag)"
-    },
-    {
-     "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-     "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-     "pubDate": "Mon, 24 Aug 2026 19:19:21 +0000",
-     "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
-     "source": "Ars Technica",
-     "zh": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed"
-    },
-    {
-     "title": "Oceans hit highest temperature on record",
-     "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-     "pubDate": "Mon, 24 Aug 2026 19:19:08 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 292 # Comments: 161",
-     "source": "Hacker News",
-     "zh": "Oceans hit highest temperature on record"
-    },
-    {
-     "title": "LLMs could control their host machines by exploiting inference engines",
-     "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-     "pubDate": "Mon, 24 Aug 2026 19:03:06 +0000",
-     "summary": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 65 # Comments: 34",
-     "source": "Hacker News",
-     "zh": "LLMs could control their host machines by exploiting inference engines"
-    },
-    {
-     "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-     "link": "https://textlog.cc/post/2059",
-     "pubDate": "Mon, 24 Aug 2026 18:45:43 +0000",
-     "summary": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 33 # Comments: 18",
-     "source": "Hacker News",
-     "zh": "Removed all counters, replies, following/ers, timestamps, from textlog"
-    },
-    {
-     "title": "The UK backs Ofcom to take \"tough action\" under the OSA against social media sites failing to remove dangerous driving videos, after a crash killed seven people (Raphael Boyd/The Guardian)",
-     "link": "https://www.techmeme.com/260824/p30#a260824p30",
-     "pubDate": "Mon, 24 Aug 2026 14:20:07 -0400",
-     "summary": "Raphael Boyd / The Guardian : The UK backs Ofcom to take &ldquo;tough action&rdquo; under the OSA against social media sites failing to remove dangerous driving videos, after a crash killed seven people &nbsp; &mdash;&nbsp; Downing Street condemns &lsquo;utterly disgraceful&rsquo; clips and says sit",
-     "source": "Techmeme",
-     "zh": "The UK backs Ofcom to take \"tough action\" under the OSA against social media sites failing to remove dangerous driving videos, after a crash killed seven people (Raphael Boyd/The Guardian)"
-    },
-    {
-     "title": "苹果 watchOS 27.0 开发者预览版 Beta 7 发布",
-     "link": "https://www.ithome.com/0/993/763.htm",
-     "pubDate": "Mon, 24 Aug 2026 17:53:16 GMT",
-     "summary": "【 点此直达升级教程 】 IT之家 8 月 25 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24R5358a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史",
-     "source": "IT之家",
-     "zh": "苹果 watchOS 27.0 开发者预览版 Beta 7 发布"
-    },
-    {
-     "title": "苹果 macOS 27.0 开发者预览版 Beta 7 发布",
-     "link": "https://www.ithome.com/0/993/761.htm",
-     "pubDate": "Mon, 24 Aug 2026 17:53:15 GMT",
-     "summary": "IT之家 8 月 25 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.0 开发者预览版 Beta 7 更新（内部版本号：26A5421a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史固件下载大全： 《 苹果 iOS / iP",
-     "source": "IT之家",
-     "zh": "苹果 macOS 27.0 开发者预览版 Beta 7 发布"
-    },
-    {
-     "title": "苹果 visionOS 27.0 开发者预览版 Beta 7 发布",
-     "link": "https://www.ithome.com/0/993/762.htm",
-     "pubDate": "Mon, 24 Aug 2026 17:53:15 GMT",
-     "summary": "IT之家 8 月 25 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24M5359a），本次更新距离上次发布 Beta / RC 间隔 7 天。 目前尚无关于软件更新内容的任何消息。watchOS、tvOS 和 visionOS 每次发布新测试版通常只会增加少量功能，更新主要集中在修复漏洞和提升性能方面。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 附 visionOS 27 发布历史： 2026-08-18：visionOS 27.0 ",
-     "source": "IT之家",
-     "zh": "苹果 visionOS 27.0 开发者预览版 Beta 7 发布"
-    },
-    {
-     "title": "苹果 iOS / iPadOS 27.0 开发者预览版 Beta 7 发布",
-     "link": "https://www.ithome.com/0/993/760.htm",
-     "pubDate": "Mon, 24 Aug 2026 17:53:14 GMT",
-     "summary": "【 点此直达升级教程 】 IT之家 8 月 25 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.0 开发者预览版 Beta 7 更新（内部版本号：24A5424a），本次更新距离上次发布 Beta / RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果",
-     "source": "IT之家",
-     "zh": "苹果 iOS / iPadOS 27.0 开发者预览版 Beta 7 发布"
-    },
-    {
-     "title": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
-     "link": "https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/",
-     "pubDate": "Mon, 24 Aug 2026 17:46:18 +0000",
-     "summary": "I love this multi-device headset, and right now it’s cheaper than what I paid for it in March.",
-     "source": "WIRED",
-     "zh": "My Daily Driver Gaming Headset Is Super Cheap Right Now"
     }
    ]
   },
@@ -1993,6 +1993,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more",
+     "link": "https://9to5mac.com/2026/08/24/new-public-betas-now-available-for-ios-27-ipados-27-macos-27-golden-gate-more/",
+     "pubDate": "Mon, 24 Aug 2026 22:45:50 +0000",
+     "summary": "Following the release of the seventh developer betas for iOS 27, iPadOS 27, macOS 27 Golden Gate, and Apple’s other upcoming software updates, the company is now rolling out the corresponding public betas. Here are the details.",
+     "source": "9to5Mac",
+     "zh": "New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more"
+    },
+    {
+     "title": "Gemini can now troubleshoot your Pixel 11 device",
+     "link": "https://www.gsmarena.com/gemini_can_now_troubleshoot_your_pixel_11_device-news-74313.php",
+     "pubDate": "Tue, 25 Aug 2026 00:31:02 +0200",
+     "summary": "Google is now testing a \"Device help\" tool for the Pixel 11 series that is powered by Gemini. It will let you have a conversation with Gemini about things you need to troubleshoot about your phone. You can find \"Device help\" in the \"plus\" menu in Gemini. It's at the bottom of the list just above Per",
+     "source": "GSMArena",
+     "zh": "Gemini can now troubleshoot your Pixel 11 device"
+    },
     {
      "title": "ChatGPT now lets users create custom iMessage and WhatsApp stickers",
      "link": "https://9to5mac.com/2026/08/24/chatgpt-now-lets-users-create-custom-imessage-and-whatsapp-stickers/",
@@ -2114,14 +2130,6 @@ window.INDUSTRY_DATA = {
      "zh": "Exynos 2700 beats the Snapdragon 8 Elite Gen 6 Pro in internal testing, insiders say"
     },
     {
-     "title": "iOS 27 adds three new iPhone features I’ve been really loving",
-     "link": "https://9to5mac.com/2026/08/24/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
-     "pubDate": "Mon, 24 Aug 2026 19:23:04 +0000",
-     "summary": "iOS 27 is packed with new features across Messages , Notes , Apple Wallet , CarPlay , and more. Here are three of my favorite new iOS 27 features so far.",
-     "source": "9to5Mac",
-     "zh": "iOS 27 adds three new iPhone features I’ve been really loving"
-    },
-    {
      "title": "The Galaxy S27 Ultra may debut with self-healing glass",
      "link": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-self-healing-glass-3702407/",
      "pubDate": "Mon, 24 Aug 2026 19:18:37 +0000",
@@ -2224,14 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "Waze’s live alerts that track police sightings, speed cameras, and more are coming to the Rivian R1 and R2.",
      "source": "9to5Google",
      "zh": "Waze alerts are coming to navigation in Rivian’s electric vehicles"
-    },
-    {
-     "title": "Xiaomi 18 Fold is officially coming in September with the monstrous Xring O3 chipset",
-     "link": "https://www.gsmarena.com/xiaomi_18_fold_is_officially_coming_in_september_with_the_monstrous_xring_o3_chipset-news-74306.php",
-     "pubDate": "Mon, 24 Aug 2026 17:11:02 +0200",
-     "summary": "The next foldable smartphone from Xiaomi is not going to be called Xiaomi Mix Fold 5, but Xiaomi 18 Fold. The company has officially confirmed this. The device is going to be unveiled in September. It will be the first to use Xiaomi's new Xring O3 chipset, the successor to the Xring O1 from last yea",
-     "source": "GSMArena",
-     "zh": "Xiaomi 18 Fold is officially coming in September with the monstrous Xring O3 chipset"
     }
    ]
   },
@@ -2242,20 +2242,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "联合国提议协助化肥经霍尔木兹海峡过境运输",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851700488.html",
-     "pubDate": "Tue, 25 Aug 2026 06:17:30 +0800",
-     "summary": "联合国提议协助化肥经霍尔木兹海峡过境运输。 （文章来源：新浪财经快讯）",
+     "title": "【环球财经】特朗普说美对加汽车和钢铁进口关税将提高至50%",
+     "link": "http://finance.eastmoney.com/news/1351,202608253851705331.html",
+     "pubDate": "Tue, 25 Aug 2026 06:47:02 +0800",
+     "summary": "新华财经纽约8月24日电（记者刘亚南徐静）美国总统特朗普24日在社交媒体上发文说，将从2027年1月1日起，把对加拿大 汽车 、 汽车零部件 和 钢铁 等产品的进口关税提高至50%。 特朗普指责加拿大多年来在贸易中“占美国便宜”，并称当前状况不可持续。 目前，白宫尚未就特朗普所称的关税措施发布正式公告。 特朗普7月20日签署多个公告，依据《斯穆特-霍利关税法》第338条款对从加拿大进口的红酒、曲棍球棒和 水泥 等数百项特定商品加征50%关税。相关措施于本月22日生效，但未涉及加拿大 汽车 、 汽车零部件 和 钢铁 等产品。 美加贸易谈判日前未能达成协议。加拿大总理卡尼8月22日宣布，加拿大将从",
      "source": "东方财富股票",
-     "zh": "联合国提议协助化肥经霍尔木兹海峡过境运输"
+     "zh": "【环球财经】特朗普说美对加汽车和钢铁进口关税将提高至50%"
     },
     {
-     "title": "美国宣布正式撤销叙利亚“支恐国家”认定",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851700369.html",
-     "pubDate": "Tue, 25 Aug 2026 06:17:29 +0800",
-     "summary": "美国国务卿鲁比奥24日发表声明说，他当天批准正式撤销美国对叙利亚为“支持恐怖主义国家”的认定。叙利亚过渡政府对美方这一决定表示欢迎。 鲁比奥称，叙利亚过渡政府在反恐方面采取了重大举措，美方上述决定“消除了私营部门在叙利亚投资的最后主要障碍”，并将“促进叙利亚的经济复苏及其重新融入全球经济”。 鲁比奥在声明中同时宣布，将“叙利亚沙姆解放武装”从美国认定的恐怖组织名单中移除。 叙利亚过渡政府外交部同一天发表声明，对美国将叙利亚从“支恐国家”名单中移除的决定表示欢迎。声明说，这一决定有助于叙经济复苏，为重建工作创造有利条件，巩固叙利亚及地区的安全与稳定。 叙利亚过渡政府财政部长穆罕默德·尤斯里·巴尔",
+     "title": "跨国医疗器械巨头接连“折戟”集采，质量红线划出监管新坐标",
+     "link": "http://finance.eastmoney.com/news/1348,202608253851705174.html",
+     "pubDate": "Tue, 25 Aug 2026 06:44:14 +0800",
+     "summary": "2026年8月，中国 医疗器械 监管领域迎来一轮罕见的集中处置。从德国血管介入企业欧心医疗，到日本骨科龙头豪雅外科，再到丹麦伤口护理巨头康乐保，一个月内三家跨国 医疗器械 企业相继因质量管理体系缺陷被国家药监局叫停。其中部分企业还被国家组织高值医用耗材联合采购办公室取消集采中选资格并列入“违规名单”，18个月内不得参与国家耗材集采申报。 值得注意的是，风暴并未止步于跨国企业。同期，四川阿尔泰 医疗器械 有限公司、成都德信安 创新医疗 技术有限公司等本土企业同样因质量管理体系严重缺陷被清退出集采。短短数周内，横跨药物涂层球囊、人工合成骨、泡沫敷料等多个品类、覆盖第四批至第六批国家集采的多家企业被",
      "source": "东方财富股票",
-     "zh": "美国宣布正式撤销叙利亚“支恐国家”认定"
+     "zh": "跨国医疗器械巨头接连“折戟”集采，质量红线划出监管新坐标"
+    },
+    {
+     "title": "日本计划2027财年国债利息支出达到创纪录的16.6万亿日元（合1043 亿美元）",
+     "link": "http://finance.eastmoney.com/news/1351,202608253851704810.html",
+     "pubDate": "Tue, 25 Aug 2026 06:43:33 +0800",
+     "summary": "日本计划2027财年国债利息支出达到创纪录的16.6万亿日元（合1043 亿美元）。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "日本计划2027财年国债利息支出达到创纪录的16.6万亿日元（合1043 亿美元）"
+    },
+    {
+     "title": "加拿大将于周二公布针对美国的报复性关税",
+     "link": "http://finance.eastmoney.com/news/1351,202608253851704688.html",
+     "pubDate": "Tue, 25 Aug 2026 06:41:05 +0800",
+     "summary": "加拿大将于周二公布针对美国的报复性关税。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "加拿大将于周二公布针对美国的报复性关税"
+    },
+    {
+     "title": "股市直播|建设机械：拟重大资产重组，今日复牌；多家A股上市公司披露2026年上半年业绩",
+     "link": "http://finance.eastmoney.com/news/1354,202608253851704960.html",
+     "pubDate": "Tue, 25 Aug 2026 06:40:17 +0800",
+     "summary": "重要新闻提示 多家A股上市公司披露2026年上半年业绩 建设机械 ：拟购买蒲洁能化100%股权，构成关联交易及重大资产重组，今日复牌 8月24日，小米发布玄戒O3、玄戒O100、玄戒D100三款自研芯片 今日提示 上海证券交易所和中证指数有限公司今日发布上证科创板 电池 主题指数 国新办今日举行新闻发布会，介绍第二十六届中国国际投资贸易洽谈会有关情况 财经新闻 1. 国务院国资委8月24日消息，8月20日，国务院国资委召开中央企业6G未来产业推进会。会议强调，中央企业要主动衔接国家、地方、行业规划，加快实现产业发展目标。要积极推进6G技术与实体经济融合，全面构筑应用生态先发优势，加快实现6G商",
+     "source": "东方财富股票",
+     "zh": "股市直播|建设机械：拟重大资产重组，今日复牌；多家A股上市公司披露2026年上半年业绩"
+    },
+    {
+     "title": "工程招投标报价评审新规9月1日起施行",
+     "link": "http://finance.eastmoney.com/news/1348,202608253851705217.html",
+     "pubDate": "Tue, 25 Aug 2026 06:40:00 +0800",
+     "summary": "四川省住房和城乡建设厅、四川省发展和改革委员会近日联合印发《四川省房屋建筑和市政工程工程量清单招标投标报价评审办法》(以下简称《办法》)，该办法自2026年9月1日起正式施行。 据悉，《办法》适用于四川省行政区域内实行工程量清单招标的全部使用国有资金投资或者以国有资金投资为主的房屋建筑和市政工程项目投标报价的评审。在评审组织方面，省住建厅表示，评标委员会成员中应有具有一级造价工程师执业资格或具有高级职称(造价专业)的造价专业人员；标底或最高投标限价在1000万元以上的招标项目，招标人组建的评标委员会中上述人员原则上不少于3人。当评标委员会的评审意见发生分歧时，以超过半数成员的意见作为判定依据。",
+     "source": "东方财富股票",
+     "zh": "工程招投标报价评审新规9月1日起施行"
+    },
+    {
+     "title": "全球科技企业竞逐存储芯片赛道",
+     "link": "http://www.eeo.com.cn/2026/0825/1009782.shtml",
+     "pubDate": "Tue, 25 Aug 2026 06:39:11 +0800",
+     "summary": "人工智能（AI）爆发式增长正在深刻重塑全球存储芯片产业格局，2025年以来，动态随机存储器（DRAM）和闪存（NAND）的价格持续飙升，...",
+     "source": "经济观察网",
+     "zh": "全球科技企业竞逐存储芯片赛道"
     },
     {
      "title": "Indiana governor calls for investigation of NIPSCO over slow storm response",
@@ -2266,14 +2306,6 @@ window.INDUSTRY_DATA = {
      "zh": "Indiana governor calls for investigation of NIPSCO over slow storm response"
     },
     {
-     "title": "美股成交额前20：存储芯片板块集体重挫 闪迪跌超6% 美光科技大跌近6%",
-     "link": "http://stock.eastmoney.com/news/1768,202608253851700758.html",
-     "pubDate": "Tue, 25 Aug 2026 06:16:44 +0800",
-     "summary": "周一美股成交额第1名 英伟达 跌2.91%至208.48美元，以282.15亿美元成交额高居榜首。消息面上，搭载 英伟达 AI芯片 的服务器价格将上涨超15%，主要因内存芯片成本飙升，涨价适用于明年年初出货的Vera Rubin和Grace Blackwell系统。公司同时被曝正商谈以超300亿美元估值投资AI搜索初创公司Perplexity。 第2名 美光科技 大跌5.83%至910.43美元，成交额271.33亿美元。 存储芯片 板块周一集体重挫，直接诱因来自三星 电子 上周公布的股东回报方案——规模虽创纪录，但三季报分红规模低于预期、未宣布股票回购计划、股东回报率维持在50%不变，令市场",
-     "source": "东方财富股票",
-     "zh": "美股成交额前20：存储芯片板块集体重挫 闪迪跌超6% 美光科技大跌近6%"
-    },
-    {
      "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can&apos;t clear it",
      "link": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
      "pubDate": "Mon, 24 Aug 2026 22:15:46 GMT",
@@ -2282,28 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can&apos;t clear it"
     },
     {
-     "title": "日本考虑废除股票交易单位制度（按整手买卖）",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851700113.html",
-     "pubDate": "Tue, 25 Aug 2026 06:15:32 +0800",
-     "summary": "日本考虑废除股票交易单位制度（按整手买卖）。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "日本考虑废除股票交易单位制度（按整手买卖）"
-    },
-    {
-     "title": "特朗普：我确实希望压低牛肉价格",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851699918.html",
-     "pubDate": "Tue, 25 Aug 2026 06:14:35 +0800",
-     "summary": "特朗普：我确实希望压低牛肉价格。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：我确实希望压低牛肉价格"
-    },
-    {
-     "title": "特朗普：我们急需铝，我们主要从加拿大进口",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851699869.html",
-     "pubDate": "Tue, 25 Aug 2026 06:14:34 +0800",
-     "summary": "特朗普：我们急需 铝 ，我们主要从加拿大进口。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：我们急需铝，我们主要从加拿大进口"
+     "title": "全球市场：美股三大指数涨跌不一 存储、光通信板块下挫 国际金价延续涨势",
+     "link": "http://stock.eastmoney.com/news/11784,202608253851688934.html",
+     "pubDate": "Tue, 25 Aug 2026 06:15:09 +0800",
+     "summary": "美股市场： 美股三大指数08月24日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日上涨140.15点，收于53417.16点，涨幅为0.26%； 标准普尔 500种股票指数下跌21.51点，收于7652.86点，跌幅为0.28%； 纳斯达克 综合 指数下跌200.26点，收于25980.19点，跌幅为0.76%。 存储、光 通信 板块下挫， 闪迪 跌6.45%， 希捷科技 跌6.51%， 美光科技 跌5.83%， 西部数据 跌5.24%， SK海力士 跌4.92%；Applied Optoelectronics跌13.77%，Lumentum跌4.22%。 \"科技七巨头\"涨跌不一，英伟",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数涨跌不一 存储、光通信板块下挫 国际金价延续涨势"
     },
     {
      "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
@@ -2320,6 +2336,14 @@ window.INDUSTRY_DATA = {
      "summary": "印度本轮外汇筹措行动在规模与速度上均刷新纪录，成为该国史上最大规模的外汇动员计划。 周一印度财政部发表声明称，印度储备银行（RBI） 今年6月推出的外汇互换工具截至8月21日已吸引730亿美元资金流入，远超该国2013年类似计划的募资规模。 该计划已提前完成目标，RBI随即提前关闭申请窗口。财政部表示，此次成果反映出海外侨民对将储蓄存入印度银行体系的高度信心。 本次计划的提前收官对印度外汇储备构成直接支撑，也向市场传递出积极信号，表明印度在吸引海外资金方面具备较强的市场号召力。 规模与速度双创纪录 据RBI披露，截至8月21日，本次外汇互换工具所吸引的730亿美元资金中，近654亿美元以非居民",
      "source": "华尔街见闻",
      "zh": "印度史上最成功的\"侨民存钱计划\"，不到3个月筹到730亿美元"
+    },
+    {
+     "title": "8月25日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/11158,202608253851687223.html",
+     "pubDate": "Tue, 25 Aug 2026 06:03:30 +0800",
+     "summary": "8月25日(星期二)，今日报刊头条主要内容精华如下： 中国证券报 东方证券合并重组关键性进展 8月24日， 东方证券 召开2026年第二次临时股东会及2026年第一次A/H股类别股东会。同日晚间，公司发布股东会决议公告， 东方证券 合并重组交易方案等系列议案经股东大会审议，均获高票通过。 东方证券 本次股东大会备受市场关注，参会股东投票热情高涨。其中， 东方证券 2026年第二次临时股东会参会率达到66.43%，A股类别股东会参会率达到67.68%，H股类别股东会参会率达到55.53%。 国管公积金新政来了 职工符合申请住房公积金个人住房贷款（以下简称公积金贷款）缴存条件的，最高贷款额度分别为",
+     "source": "东方财富资讯",
+     "zh": "8月25日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     },
     {
      "title": "贝森特欲动TGA万亿买债，油价债息双降，AI硬件续崩英伟达七连跌，黄金美元比特币齐涨",
@@ -2370,12 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "Trump says US to increase tariffs on Canadian cars to 50%"
     },
     {
-     "title": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
-     "link": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
-     "pubDate": "Mon, 24 Aug 2026 21:38:59 GMT",
-     "summary": "The unsigned order lifted an injunction covering 23 states and Washington, D.C.; the court’s three liberal justices dissented.",
+     "title": "Mark Walter&apos;s TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
+     "link": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
+     "pubDate": "Mon, 24 Aug 2026 21:37:38 GMT",
+     "summary": "Federal authorities are investigating how two insurers that are part of Mark Walter's business empire classified more than $20 billion in loans to his companies.",
      "source": "CNBC",
-     "zh": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election"
+     "zh": "Mark Walter&apos;s TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers"
     },
     {
      "title": "Strattec Security Q4 2026 Earnings Preview",
@@ -2456,30 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia’s controversial financial plays could actually keep the company on top, according to this analysis.",
      "source": "MarketWatch",
      "zh": "It’s time to bet big on Nvidia’s stock, says this analyst who thinks the market has it all wrong"
-    },
-    {
-     "title": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs",
-     "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
-     "pubDate": "Mon, 24 Aug 2026 20:22:00 GMT",
-     "summary": "While certain U.S. sectors are facing headwinds from the new tariffs on Canadian goods, analysts have said the broad economic effects of the new 50% U.S. levies could be modest for the U.S. overall.",
-     "source": "MarketWatch",
-     "zh": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs"
-    },
-    {
-     "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
-     "link": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-     "pubDate": "Mon, 24 Aug 2026 19:08:56 GMT",
-     "summary": "President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027.",
-     "source": "CNBC",
-     "zh": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates"
-    },
-    {
-     "title": "Pay.com.au brings Aussie rewards platform to the US",
-     "link": "https://www.finextra.com/newsarticle/48293/paycomau-brings-aussie-rewards-platform-to-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Mon, 24 Aug 2026 18:51:00 GMT",
-     "summary": "Australian payments and rewards platform pay.com.au has raised US$28 million in Series E funding to launch in the US.",
-     "source": "Finextra",
-     "zh": "Pay.com.au brings Aussie rewards platform to the US"
     }
    ]
   },
@@ -2530,6 +2530,14 @@ window.INDUSTRY_DATA = {
      "zh": "Generating scenarios for extreme events, without extreme data"
     },
     {
+     "title": "Buyer beware: Those mummified remains might carry toxic spores",
+     "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
+     "pubDate": "Mon, 24 Aug 2026 16:59:07 +0000",
+     "summary": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"",
+     "source": "Ars Technica Science",
+     "zh": "Buyer beware: Those mummified remains might carry toxic spores"
+    },
+    {
      "title": "Severe COVID-19 may wake up dormant viruses and lead to lasting physical disability, study finds",
      "link": "https://www.livescience.com/health/viruses-infections-disease/severe-covid-19-may-wake-up-dormant-viruses-and-lead-to-lasting-physical-disability-study-finds",
      "pubDate": "Mon, 24 Aug 2026 15:21:06 +0000",
@@ -2544,6 +2552,14 @@ window.INDUSTRY_DATA = {
      "summary": "Scientists often use thermal treatment to combat fatal fungal infection in frogs, but it may come at a cost.",
      "source": "Science News",
      "zh": "Heat therapy for sick frogs lowers sperm levels"
+    },
+    {
+     "title": "Trump tried to curb clean energy. It’s booming anyway.",
+     "link": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
+     "pubDate": "Mon, 24 Aug 2026 14:43:56 +0000",
+     "summary": "Capacity will rise by a record 45GW this year, according to S&P Global Energy.",
+     "source": "Ars Technica Science",
+     "zh": "Trump tried to curb clean energy. It’s booming anyway."
     },
     {
      "title": "A New Framework for How the Brain Compresses Our Noisy World",
@@ -2712,22 +2728,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bacteria may build a memory of herbivore attack in the soil and coax new plants to attract wasps to rein in destructive pests.",
      "source": "Science News",
      "zh": "Plants under attack leave behind a surprising call for backup"
-    },
-    {
-     "title": "‘Huge Breakthrough’ in the Math of Imbalance",
-     "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
-     "pubDate": "Fri, 21 Aug 2026 14:53:32 +0000",
-     "summary": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
-     "source": "Quanta Magazine",
-     "zh": "‘Huge Breakthrough’ in the Math of Imbalance"
-    },
-    {
-     "title": "Paving the way for greener ammonia production",
-     "link": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
-     "pubDate": "Thu, 20 Aug 2026 14:45:00 -0400",
-     "summary": "New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertilizer and other products.",
-     "source": "MIT News",
-     "zh": "Paving the way for greener ammonia production"
     }
    ]
   }

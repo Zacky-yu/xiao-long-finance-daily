@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/25 07:25:31",
+ "generated_at": "2026/8/25 07:49:47",
  "recent_days": 7,
  "industries": [
   {
@@ -607,14 +607,6 @@
      "summary": "Roby Lynn explains how R2 Labs bridges PLCs, robots, and AI to unify fragmented manufacturing systems. The post How software-defined manufacturing fits into real factory operations appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "How software-defined manufacturing fits into real factory operations"
-    },
-    {
-     "title": "Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch",
-     "link": "https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/",
-     "pubDate": "Fri, 21 Aug 2026 19:57:24 +0000",
-     "summary": "The Women in Robotics Lunch at RoboBusiness is an opportunity to form new connections and deepen relationships. The post Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch appeared first on The Robot Report .",
-     "source": "Robotics Business Review",
-     "zh": "Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch"
     },
     {
      "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
@@ -1753,12 +1745,76 @@
    "total": 18,
    "items": [
     {
-     "title": "Steam 喜加一：原价 49 元 RPG 游戏《Dokimon Quest》免费领",
-     "link": "https://www.ithome.com/0/993/784.htm",
-     "pubDate": "Mon, 24 Aug 2026 23:21:48 GMT",
-     "summary": "IT之家 8 月 25 日消息，由 Yanako RPGs 开发的像素风怪物驯化 RPG《Dokimon Quest》目前正在 Steam 平台开启限时免费“喜加一”活动， 本作在国区定价为 49 元，玩家可在北京时间 8 月 27 日前登录 Steam 账号领取 ，IT之家附游戏商品页（ https://store.steampowered.com/app/2019300/Dokimon_Quest/ ）。 《Dokimon Quest》是一款明显致敬《宝可梦》系列的回合制角色扮演游戏。游戏采用复古像素画面和点阵风格，故事舞台设定在名为“Xelos”的广阔地区。玩家将踏上一段寻找失踪童年玩伴",
+     "title": "大厂AI 竞赛，从技术周期走进资本周期",
+     "link": "https://www.huxiu.com/article/4885556.html?f=rss",
+     "pubDate": "Tue, 25 Aug 2026 07:42:36 +0800",
+     "summary": "本文来自微信公众号： 动察Beating ，作者：动察Beating，原文标题：《大厂 AI 竞赛，从技术周期走进资本周期》 8月23日，阿里巴巴在香港市场启动新股配售，拟以每股112.7港元发行7.1亿股，募资800亿港元，约合102亿美元。若交易完成，这将成为香港上市公司史上规模最大的后续发行，也是2026年全球第三大同类融资，仅次于Alphabet和Intel。 订单很快超过原定规模，主权基金入场，发行金额随需求上调。所得资金将全部投入AI，覆盖芯片、基础设施、模型开发与部署。 三天前公布的二季度财报已经解释了这笔融资。AI云与计算服务收入同比增长45%，达到484.4亿元，资本开支同期",
+     "source": "虎嗅",
+     "zh": "大厂AI 竞赛，从技术周期走进资本周期"
+    },
+    {
+     "title": "联想承认 BIOS 更新导致 Legion Go 掌机变砖，受影响设备可免费维修",
+     "link": "https://www.ithome.com/0/993/791.htm",
+     "pubDate": "Mon, 24 Aug 2026 23:42:25 GMT",
+     "summary": "IT之家 8 月 25 日消息，大约一个月前，多名联想 Legion Go 用户开始反映，在安装 BIOS 版本 N3CN42WW 后，他们的掌机变得无法使用。随着相关报告不断增加，联想最终悄悄从官方网站撤下了这个 BIOS 更新。不过，当时联想并未解释问题究竟是什么原因导致的，也没有说明受影响用户应该如何处理。 更让一些用户感到不满的是，据报道，一些设备变砖的用户甚至被要求支付维修费用，尽管问题是在安装联想官方 BIOS 更新后出现的。如今，联想终于发布了最新说明，并明确了应该如何处理受影响的设备。 联想一名员工在联想官方论坛发帖表示，公司已经在欧洲 L2.5 实验室成功复现了这一问题。实验",
      "source": "IT之家",
-     "zh": "Steam 喜加一：原价 49 元 RPG 游戏《Dokimon Quest》免费领"
+     "zh": "联想承认 BIOS 更新导致 Legion Go 掌机变砖，受影响设备可免费维修"
+    },
+    {
+     "title": "映恩生物：一场精心设计的轻资产实验",
+     "link": "https://www.huxiu.com/article/4885676.html?f=rss",
+     "pubDate": "Tue, 25 Aug 2026 07:39:19 +0800",
+     "summary": "本文来自微信公众号： 医曜 ，作者：颜松 本文系基于公开资料撰写，仅作为信息交流之用，不构成任何投资建议 2026年7月3日，映恩生物科创板IPO状态变成“已问询”，这意味着它回A股的计划正式进入实质审核阶段。这次它想募41亿，其中85%砸向研发，68%集中投给DB-1311和DB-1310的全球III期或注册性临床。 有意思的地方来了。 映恩这家公司，一边轻得出奇，既不建厂，也不养海外销售团队，国内商业化打包给三生制药，自己只留策略、医学事务和合作伙伴管理，不碰具体销售执行。另一边又重得吓人，光两条核心管线的全球III期，就要吃掉募资的68%。 看着矛盾，却是映恩生物这家“另类Biophar",
+     "source": "虎嗅",
+     "zh": "映恩生物：一场精心设计的轻资产实验"
+    },
+    {
+     "title": "苹果 20 周年纪念版 iPhone 新渲染图曝光：后置双摄、前置单挖孔设计",
+     "link": "https://www.ithome.com/0/993/790.htm",
+     "pubDate": "Mon, 24 Aug 2026 23:36:00 GMT",
+     "summary": "IT之家 8 月 25 日消息，消息源 Yogesh Brar 发文，展示了苹果 20 周年版 iPhone 新渲染图。 相应图片显示，20 周年版 iPhone 正面采用四曲面屏设计，匹配单打孔摄像头，手机背面也采用了曲面设计。此外，图片还显示该机采用后置水平双摄设计，整体风格有点类似网传的 iPhone Air 2。 IT之家注意到，此前消息显示苹果 20 周年版 iPhone 无边四曲面使用 2D 直屏 + 玻璃盖板工艺，利用玻璃的光学折射和形态设计，营造出视觉无边的效果，再结合液态玻璃 UI，可呈现软硬件相得益彰的效果。 延伸阅读",
+     "source": "IT之家",
+     "zh": "苹果 20 周年纪念版 iPhone 新渲染图曝光：后置双摄、前置单挖孔设计"
+    },
+    {
+     "title": "三星 2026 上半年研发投入超 27 万亿韩元，全球专利总量逼近 30 万件",
+     "link": "https://www.ithome.com/0/993/789.htm",
+     "pubDate": "Mon, 24 Aug 2026 23:35:16 GMT",
+     "summary": "IT之家 8 月 25 日消息，三星是全球研发投入最为激进的企业之一。今年上半年，这家韩国企业的研发支出已经超过 27.36 万亿韩元 （IT之家注：现汇率约合 1,326.96 亿元人民币） ，同时其全球专利总量也即将突破 30 万件。 据 JoongAng Economy News 报道，三星电子目前在全球拥有 296,468 项专利，距离 30 万件这一重要里程碑仅一步之遥。 今年上半年，三星新申请的专利数量也创下历史新高，在韩国、美国以及其他地区共申请了 11,054 项新专利，其中韩国申请 5,572 项，美国申请 5,482 项。 从三星目前有效的专利数量来看，美国占据最大份额，其",
+     "source": "IT之家",
+     "zh": "三星 2026 上半年研发投入超 27 万亿韩元，全球专利总量逼近 30 万件"
+    },
+    {
+     "title": "第四季刷新 Apple TV 首播纪录后，曝《足球教练》第五季明年 1 月开拍",
+     "link": "https://www.ithome.com/0/993/788.htm",
+     "pubDate": "Mon, 24 Aug 2026 23:33:35 GMT",
+     "summary": "IT之家 8 月 25 日消息，消息源 @sigjudge 昨日（8 月 24 日）在 X 平台发布推文， 爆料称苹果公司正为《足球教练》（Ted Lasso）第 5 季制作做准备，拍摄暂定于 2027 年 1 月启动。 IT之家此前报道，苹果公司援引尼尔森（Nielsen）调查公司数据，称在 2026 年 8 月 4 日和 5 日两天时间里，《足球教练》在美国首播斩获 2.966 亿分钟观看时长，刷新 Apple TV 平台电视剧首播纪录。 单日数据同样突出，在 8 月 5 日，第 4 季首播集获得超过 2 亿分钟观看时长，成为当天美国播放量最高的电视剧。 据 Sigmund Judge 发",
+     "source": "IT之家",
+     "zh": "第四季刷新 Apple TV 首播纪录后，曝《足球教练》第五季明年 1 月开拍"
+    },
+    {
+     "title": "佳明旗下 Fenix 9/Pro 智能手表曝光：可选半反半透屏太阳能充电版本",
+     "link": "https://www.ithome.com/0/993/787.htm",
+     "pubDate": "Mon, 24 Aug 2026 23:29:23 GMT",
+     "summary": "IT之家 8 月 25 日消息，外媒 gamerasnap 现已曝光了佳明旗下 Fenix 9/Pro 智能手表，其中 Pro 版本中部分机型将配备支持太阳能充电，预计将于明天发布。 系列手表仍延续 Fenix 系列经典家族式设计，引入钛合金一体式机身设计，机身右侧还加入了蚀刻的“Fenix”字样，同时保留了 5 个实体按键。 ▲ Pro 版本 AMOLED 机型 ▲ Pro 版本半反半透屏太阳能充电机型 其中，Pro 版本将提供 AMOLED 机型（43 毫米和 47 毫米）和半反半透屏太阳能充电机型（47 毫米）可选。而标准版机型目前仅知悉提供 47mm AMOLED 版本。 ▲ 标准版机",
+     "source": "IT之家",
+     "zh": "佳明旗下 Fenix 9/Pro 智能手表曝光：可选半反半透屏太阳能充电版本"
+    },
+    {
+     "title": "马斯克证实：SpaceX 将在星舰稳定运营后逐步退役猎鹰 9 火箭",
+     "link": "https://www.ithome.com/0/993/786.htm",
+     "pubDate": "Mon, 24 Aug 2026 23:29:09 GMT",
+     "summary": "IT之家 8 月 25 日消息，传闻如今得到了证实。SpaceX 计划在其巨型下一代火箭“星舰”（Starship）开始定期执行运营任务后，逐步退役目前公司的主力火箭“猎鹰 9”（Falcon 9）。 SpaceX 于 2010 年首次发射猎鹰 9，此后这款火箭很快在航天史上留下了浓墨重彩的一笔。迄今为止，猎鹰 9 已经发射近 700 次，并成为人类历史上首款能够让轨道级火箭一级助推器着陆并重复使用的火箭。自 1957 年开始服役的俄罗斯联盟号火箭，是目前执行任务次数唯一超过猎鹰 9 的运载火箭，不过猎鹰 9 有望在明年超过它。 然而，SpaceX 创始人兼 CEO 埃隆 · 马斯克 8 月 ",
+     "source": "IT之家",
+     "zh": "马斯克证实：SpaceX 将在星舰稳定运营后逐步退役猎鹰 9 火箭"
+    },
+    {
+     "title": "Tesla Adds a Chinese Large Model to Its China Cars for the First Time",
+     "link": "https://www.tmtpost.com/8115448.html",
+     "pubDate": "Tue, 25 Aug 2026 07:24:03 +0800",
+     "summary": "The company has begun rolling out ByteDance’s Doubao model inside its China vehicle software, a rare departure from its preference for in-house systems. The move addresses cabin experience and local requirements while core driving technology remains under Tesla’s own control.",
+     "source": "钛媒体",
+     "zh": "Tesla Adds a Chinese Large Model to Its China Cars for the First Time"
     },
     {
      "title": "世道变坏，就是从是非不分开始的",
@@ -1777,44 +1833,12 @@
      "zh": "东方甄选净赚5.44亿，但增长还没回来"
     },
     {
-     "title": "macOS 27 已标记弃用磁盘镜像工具 hdiutil，苹果推荐改用 diskutil",
-     "link": "https://www.ithome.com/0/993/783.htm",
-     "pubDate": "Mon, 24 Aug 2026 23:19:49 GMT",
-     "summary": "IT之家 8 月 25 日消息，科技媒体 AppleInsider 昨日（8 月 24 日）发布博文，报道称在 macOS 27 Golden Gate 更新中， 苹果公司已将终端命令 hdiutil 标记为弃用，预估会在未来版本中移除。 IT之家注：hdiutil 是苹果 macOS 终端中的磁盘镜像工具，自早期 Mac OS X 时代起就用于处理磁盘镜像，可执行挂载、创建、调整和弹出镜像文件等操作。它长期用于系统维护、备份和磁盘修复，也常用它解决系统拒绝弹出“正在使用中的磁盘镜像”等问题。 开发者 Jeff Johnson 最先发现，苹果已在 macOS Golden Gate 中为 hd",
-     "source": "IT之家",
-     "zh": "macOS 27 已标记弃用磁盘镜像工具 hdiutil，苹果推荐改用 diskutil"
-    },
-    {
-     "title": "消息称三星联合康宁研发自修复玻璃，Galaxy S27 Ultra 手机有望搭载",
-     "link": "https://www.ithome.com/0/993/782.htm",
-     "pubDate": "Mon, 24 Aug 2026 23:17:42 GMT",
-     "summary": "IT之家 8 月 25 日消息，三星 Galaxy S27 Ultra 可能会拥有一项颇为有趣的新特性，而且如果传闻属实，这项功能或许能给用户带来实实在在的好处。有消息称，三星即将推出的 Ultra 旗舰手机将采用一种具备自修复能力的玻璃，可以自行修复轻微划痕。 IT之家注意到，上周末，行业观察人士 Schrödinger 在 X 上表示，康宁与三星正在联合研发一种“全新的自修复表面涂层”，计划用于下一代 Gorilla Armor 玻璃。 这种涂层的耐刮擦能力肯定不如传统钢化玻璃，但如果它能够自行填补细小划痕，那么这种取舍或许是值得的。 Schrödinger 没有透露更多细节。目前我们不知",
-     "source": "IT之家",
-     "zh": "消息称三星联合康宁研发自修复玻璃，Galaxy S27 Ultra 手机有望搭载"
-    },
-    {
-     "title": "研究团队调查发现超七成英语生物医学论文已使用 AI 辅助写作，呼吁业界建立完善监管机制",
-     "link": "https://www.ithome.com/0/993/781.htm",
-     "pubDate": "Mon, 24 Aug 2026 23:14:40 GMT",
-     "summary": "IT之家 8 月 25 日消息，据外媒 phys 报道，近期 Lena Holzwarth 带头的研究团队分析了来自 PubMed Central 平台的 119 万余篇英文生物医学论文，发现生成式 AI 正迅速融入学术论文写作。 研究人员通过分析论文中的“AI 高频用词”（例“delves”“exacerbating”和“invaluable”等）并建立数学模型估算论文中的 AI 使用比例， 其中 2025 年约 77% 的英语生物医学论文出现了 AI 辅助写作或编辑的明显特征 ，相比 2023 年的 19% 和 2024 年的 52% 大幅提升。 研究还发现，AI 辅助写作在论文不同部分的",
-     "source": "IT之家",
-     "zh": "研究团队调查发现超七成英语生物医学论文已使用 AI 辅助写作，呼吁业界建立完善监管机制"
-    },
-    {
-     "title": "通用汽车与加拿大 Unifor 工会达成临时协议，涉及 4600 余名员工",
-     "link": "https://www.ithome.com/0/993/780.htm",
-     "pubDate": "Mon, 24 Aug 2026 23:10:45 GMT",
-     "summary": "IT之家 8 月 25 日消息，尽管加拿大和美国目前深陷贸易战，但通用汽车已经与加拿大 Unifor 工会达成了一项临时协议。这项协议于周末公布，距离双方于 8 月 10 日开始谈判还不到两周时间。 协议的具体内容将于下周末向工会成员公布，不过，这项临时协议已经获得 Unifor 通用汽车总谈判委员会的一致支持。 Unifor 全国主席 Lana Payne 表示，这份合同将在“我们历史上一些最具挑战性的时期”，为员工带来“显著的收入和福利增长”。 Unifor 目前代表通用汽车在加拿大的 4600 多名员工，其中包括安大略省英格索尔 CAMI 工厂的 1050 名员工。该工厂于 1989 年",
-     "source": "IT之家",
-     "zh": "通用汽车与加拿大 Unifor 工会达成临时协议，涉及 4600 余名员工"
-    },
-    {
-     "title": "部分用户反馈 Spotify 音乐 App 在 Android Auto 上出现 Bug，提示“应用未响应”",
-     "link": "https://www.ithome.com/0/993/779.htm",
-     "pubDate": "Mon, 24 Aug 2026 23:06:25 GMT",
-     "summary": "IT之家 8 月 25 日消息，据外媒 AndroidAuthority 报道，近期有部分用户发现 Spotify 音乐 App 在 Android Auto 上无法使用。当他们通过 Android Auto 打开 Spotify 时，系统会弹出“Spotify 未响应”的提示，只能选择退出应用。 综合 Reddit 平台，预计相应问题是 Spotify 本身的原因，不过也有部分用户表示可以通过退出 Android Auto Beta 通道、关闭 Spotify 并清除应用缓存后解决。 目前尚不清楚该问题的具体原因，谷歌和 Spotify 也尚未官方回应这一故障，预计相应用户仍需等待一段时间。",
-     "source": "IT之家",
-     "zh": "部分用户反馈 Spotify 音乐 App 在 Android Auto 上出现 Bug，提示“应用未响应”"
+     "title": "【钛晨报】上海\"十五五\"产业规划出炉，新增三大万亿级产业集群；国管公积金新政，首套房最高可贷款340万元；TRAE、扣子并入豆包，字节将推“豆包工作”",
+     "link": "https://www.tmtpost.com/8115315.html",
+     "pubDate": "Tue, 25 Aug 2026 07:20:00 +0800",
+     "summary": "王沪宁会见第三届中美1.5轨对话美方代表；特朗普称加拿大汽车钢铁关税提至50%；全球资金流入黄金ETF，一个月大增380亿元；交易所收紧IPO？求证：要求券商从源头提升申报质量；配售800亿后，蔡崇信、吴泳铭再出手增持1.2亿港元阿里股票；小米公布玄戒O3芯片架构；欧盟六国要求对石油公司征税",
+     "source": "钛媒体",
+     "zh": "【钛晨报】上海\"十五五\"产业规划出炉，新增三大万亿级产业集群；国管公积金新政，首套房最高可贷款340万元；TRAE、扣子并入豆包，字节将推“豆包工作”"
     },
     {
      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
@@ -1823,6 +1847,14 @@
      "summary": "We all knew it was coming. The expected valuation may surprise, though.",
      "source": "TechCrunch",
      "zh": "Oura is reportedly eyeing a September IPO that could value it at more than $16B"
+    },
+    {
+     "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+     "link": "https://github.com/murerkinn/bookshelf",
+     "pubDate": "Mon, 24 Aug 2026 23:00:37 +0000",
+     "summary": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Bookshelf – Self-hosted eBook library that runs on object storage"
     },
     {
      "title": "具身快被估值玩死了",
@@ -1852,7 +1884,7 @@
      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
      "link": "https://developer.apple.com/news/?id=1ptvdtcm",
      "pubDate": "Mon, 24 Aug 2026 22:13:40 +0000",
-     "summary": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 84 # Comments: 17",
+     "summary": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 126 # Comments: 26",
      "source": "Hacker News",
      "zh": "iCloud+ Hide My Email addresses will remain on icloud.com"
     },
@@ -1865,12 +1897,12 @@
      "zh": "吐槽校区在县城里的大学生，到底想要一所怎样的“大学”？"
     },
     {
-     "title": "Moon",
+     "title": "Moon (2024)",
      "link": "https://ciechanow.ski/moon/",
      "pubDate": "Mon, 24 Aug 2026 22:06:02 +0000",
-     "summary": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 33 # Comments: 2",
+     "summary": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 58 # Comments: 7",
      "source": "Hacker News",
-     "zh": "Moon"
+     "zh": "Moon (2024)"
     },
     {
      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
@@ -1924,7 +1956,7 @@
      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
      "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
      "pubDate": "Mon, 24 Aug 2026 21:03:06 +0000",
-     "summary": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 87 # Comments: 63",
+     "summary": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 96 # Comments: 74",
      "source": "Hacker News",
      "zh": "One corner of China’s internet is insisting that the Tang Dynasty never existed"
     },
@@ -1932,7 +1964,7 @@
      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
      "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
      "pubDate": "Mon, 24 Aug 2026 21:01:38 +0000",
-     "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 32 # Comments: 2",
+     "summary": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 40 # Comments: 3",
      "source": "Hacker News",
      "zh": "Vintage Artificial Intelligence: Before It Got Awkward"
     },
@@ -1951,46 +1983,6 @@
      "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "Your alt text passes automated checks. That doesn’t mean it’s any good."
-    },
-    {
-     "title": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It",
-     "link": "https://www.wired.com/story/sous-vide-salmonella-eggs/",
-     "pubDate": "Mon, 24 Aug 2026 20:45:52 +0000",
-     "summary": "With advice from infectious disease experts, I tested a low-effort way to pasteurize eggs at home.",
-     "source": "WIRED",
-     "zh": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It"
-    },
-    {
-     "title": "Zillow and Redfin settle FTC antitrust case",
-     "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
-     "pubDate": "Mon, 24 Aug 2026 20:45:33 +0000",
-     "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
-     "source": "TechCrunch",
-     "zh": "Zillow and Redfin settle FTC antitrust case"
-    },
-    {
-     "title": "At his first Cursor all-hands, Musk said Grok needs to catch up, AI will become impossible for humans to control, Anthropic is leading the AI race, and more (Grace Kay/The Information)",
-     "link": "https://www.techmeme.com/260824/p32#a260824p32",
-     "pubDate": "Mon, 24 Aug 2026 16:30:02 -0400",
-     "summary": "Grace Kay / The Information : At his first Cursor all-hands, Musk said Grok needs to catch up, AI will become impossible for humans to control, Anthropic is leading the AI race, and more &nbsp; &mdash;&nbsp; Earlier this month, on the day SpaceX announced it had completed its $60 billion acquisition",
-     "source": "Techmeme",
-     "zh": "At his first Cursor all-hands, Musk said Grok needs to catch up, AI will become impossible for humans to control, Anthropic is leading the AI race, and more (Grace Kay/The Information)"
-    },
-    {
-     "title": "The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe",
-     "link": "https://www.wired.com/story/food-safety-gear-salmonella/",
-     "pubDate": "Mon, 24 Aug 2026 20:22:35 +0000",
-     "summary": "Salmonella outbreaks are seemingly everywhere right now. A good temperature probe is the last and best line of defense.",
-     "source": "WIRED",
-     "zh": "The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe"
-    },
-    {
-     "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
-     "link": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
-     "pubDate": "Mon, 24 Aug 2026 20:17:41 +0000",
-     "summary": "Monitor vendors are playing with fire.",
-     "source": "Ars Technica",
-     "zh": "Ads and tracking infiltrated TVs. Now they're coming for monitors."
     }
    ]
   },
@@ -2265,60 +2257,92 @@
      "zh": "AI-native financial services startup Neno raises €6.6 million"
     },
     {
+     "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+     "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+     "pubDate": "Mon, 24 Aug 2026 23:45:00 GMT",
+     "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
+     "source": "MarketWatch",
+     "zh": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?"
+    },
+    {
+     "title": "八方股份：融资净买入58.09万元，融资余额9628.07万元",
+     "link": "http://stock.eastmoney.com/news/1697,202608253851784063.html",
+     "pubDate": "Tue, 25 Aug 2026 07:44:11 +0800",
+     "summary": "交易所最新数据显示， 八方股份 于2026年8月24日获融资买入735.51万元，融资偿还677.41万元， 当日融资净买入58.09万元。 目前，该股融资余额9628.07万，占流通市值比例为1.47%。 该股当日无融券交易。目前，该股融券余量1.74万股，融券余额48.77万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担",
+     "source": "东方财富股票",
+     "zh": "八方股份：融资净买入58.09万元，融资余额9628.07万元"
+    },
+    {
+     "title": "杰普特：融资净偿还1.06亿元，融资余额9.9亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608253851781186.html",
+     "pubDate": "Tue, 25 Aug 2026 07:43:44 +0800",
+     "summary": "交易所最新数据显示， 杰普特 于2026年8月24日获融资买入1.40亿元，融资偿还2.46亿元， 当日融资净偿还1.06亿元。 目前，该股融资余额9.90亿，占流通市值比例为2.55%。 该股当日融券卖出2400股，融券偿还1268股， 融券净卖出1132股。 目前，该股融券余量1.95万股，融券余额800.14万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏",
+     "source": "东方财富股票",
+     "zh": "杰普特：融资净偿还1.06亿元，融资余额9.9亿元"
+    },
+    {
+     "title": "密尔克卫：融资净偿还15.02万元，融资余额1.91亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608253851779058.html",
+     "pubDate": "Tue, 25 Aug 2026 07:43:29 +0800",
+     "summary": "交易所最新数据显示， 密尔克卫 于2026年8月24日获融资买入1462.09万元，融资偿还1477.12万元， 当日融资净偿还15.02万元。 目前，该股融资余额1.91亿，占流通市值比例为1.73%。 该股当日融券卖出500股，融券偿还6800股， 融券净偿还6300股。 目前，该股融券余量5.6万股，融券余额356.12万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容",
+     "source": "东方财富股票",
+     "zh": "密尔克卫：融资净偿还15.02万元，融资余额1.91亿元"
+    },
+    {
+     "title": "伯特利：融资净买入4057.45万元，融资余额7.62亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608253851778476.html",
+     "pubDate": "Tue, 25 Aug 2026 07:43:19 +0800",
+     "summary": "交易所最新数据显示， 伯特利 于2026年8月24日获融资买入7055.08万元，融资偿还2997.64万元， 当日融资净买入4057.45万元。 目前，该股融资余额7.62亿，占流通市值比例为3.30%。 该股当日融券卖出2.65万股，融券偿还4100股， 融券净卖出2.24万股。 目前，该股融券余量23.79万股，融券余额612.65万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全",
+     "source": "东方财富股票",
+     "zh": "伯特利：融资净买入4057.45万元，融资余额7.62亿元"
+    },
+    {
+     "title": "永杉锂业：融资净买入1986.91万元，融资余额3.5亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608253851777635.html",
+     "pubDate": "Tue, 25 Aug 2026 07:43:17 +0800",
+     "summary": "交易所最新数据显示，永杉锂业于2026年8月24日获融资买入7928.65万元，融资偿还5941.74万元， 当日融资净买入1986.91万元。 目前，该股融资余额3.50亿，占流通市值比例为4.50%。 该股当日无融券交易。目前，该股融券余量2.79万股，融券余额42.44万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富",
+     "source": "东方财富股票",
+     "zh": "永杉锂业：融资净买入1986.91万元，融资余额3.5亿元"
+    },
+    {
+     "title": "嘉友国际：融资净买入303.53万元，融资余额1.39亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608253851777589.html",
+     "pubDate": "Tue, 25 Aug 2026 07:43:17 +0800",
+     "summary": "交易所最新数据显示， 嘉友国际 于2026年8月24日获融资买入829.44万元，融资偿还525.91万元， 当日融资净买入303.53万元。 目前，该股融资余额1.39亿，占流通市值比例为0.80%。 该股当日融券卖出2.39万股，融券偿还2.23万股， 融券净卖出1600股。 目前，该股融券余量24.59万股，融券余额311.8万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
+     "source": "东方财富股票",
+     "zh": "嘉友国际：融资净买入303.53万元，融资余额1.39亿元"
+    },
+    {
+     "title": "Trump says US to increase tariffs on Canadian cars to 50%",
+     "link": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1",
+     "pubDate": "Mon, 24 Aug 2026 23:30:31 GMT",
+     "summary": "Move marks further escalation of Washington’s trade war with Ottawa",
+     "source": "Financial Times",
+     "zh": "Trump says US to increase tariffs on Canadian cars to 50%"
+    },
+    {
+     "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+     "link": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+     "pubDate": "Mon, 24 Aug 2026 23:27:01 GMT",
+     "summary": "President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027.",
+     "source": "CNBC",
+     "zh": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates"
+    },
+    {
+     "title": "极简审批加速项目落地，广州南沙打造建设工程规划审批改革样板",
+     "link": "http://www.eeo.com.cn/2026/0825/1009788.shtml",
+     "pubDate": "Tue, 25 Aug 2026 07:26:14 +0800",
+     "summary": "南方财经记者陈梦璇 近期，位于广州南沙龙穴街道的MEIJOY（美胶）国际供应链基地项目主体结构全面封顶。依托南沙“多证...",
+     "source": "经济观察网",
+     "zh": "极简审批加速项目落地，广州南沙打造建设工程规划审批改革样板"
+    },
+    {
      "title": "Mark Walter&apos;s TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers",
      "link": "https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html",
      "pubDate": "Mon, 24 Aug 2026 23:16:19 GMT",
      "summary": "Federal authorities are investigating how two insurers that are part of Mark Walter's business empire classified more than $20 billion in loans to his companies.",
      "source": "CNBC",
      "zh": "Mark Walter&apos;s TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers"
-    },
-    {
-     "title": "地缘政治冲击供应链安全 MLCC离型膜国产替代加速",
-     "link": "http://finance.eastmoney.com/news/1354,202608253851672661.html",
-     "pubDate": "Tue, 25 Aug 2026 07:15:00 +0800",
-     "summary": "离型膜是 MLCC （多层陶瓷电容器）的必备耗材，我国的高端离型膜长期依赖进口。面对巨大的国产替代商机，国内产业资本正加速涌入。今年以来，AI服务器等下游产业的快速发展，持续拉动 MLCC 元器件市场扩容，进而引爆上游离型膜需求，一场产业链的扩产竞速，正在全面上演。 证券时报记者从产业链上了解到，国产 MLCC 离型膜厂家正紧抓市场契机，积极推进国产替代。同时，面对需求的结构性分化，厂家迅速调整产品结构，行业呈现出高端化、一体化等发展趋势。 断供风险扰动供应链安全 MLCC广泛应用于 消费电子 、 新能源 汽车 、AI服务器等领域，被誉为 “ 电子 工业大米”。离型膜是MLCC三大核心材料之一",
-     "source": "东方财富股票",
-     "zh": "地缘政治冲击供应链安全 MLCC离型膜国产替代加速"
-    },
-    {
-     "title": "英伟达宣布Groq 3 LPX量产",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851711160.html",
-     "pubDate": "Tue, 25 Aug 2026 07:13:53 +0800",
-     "summary": "英伟达 周一宣布，旗下Groq 3 LPX架构已经实现全面量产，标志着公司史上最大规模收购所获得的技术正式完成商业化落地。去年12月， 英伟达 斥资200亿美元收购 AI芯片 初创企业Groq。Groq芯片交付凸显低延迟推理的重要性。要让智能体实现即时响应、消除用户端长时间等待，低延迟推理必不可少，代码生成场景对此需求尤其突出。 英伟达 称，云服务商可以针对这类高速token服务收取更高溢价。周三，英伟达将发布财报。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "英伟达宣布Groq 3 LPX量产"
-    },
-    {
-     "title": "美推出 “经济 D 日” 制裁伊朗，油价维持跌势",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851710991.html",
-     "pubDate": "Tue, 25 Aug 2026 07:13:53 +0800",
-     "summary": "油价维持跌势，美国加大对伊朗及其贸易伙伴的经济施压，试图迫使霍尔木兹海峡恢复能源运输。西德克萨斯轻质原油（WTI）交投于每桶 85 美元附近，前一交易日跌幅超 2%；布伦特原油收盘约 92 美元。财政部长斯科特贝森特周一推出其称之为 “经济诺曼底登陆日” 的行动，称各国将被要求在明确时限内切断与伊朗的往来，否则将面临美方单边制裁。受这场已进入第六个月的战争持续扰乱中东原油及成品油 航运 影响，今年原油价格累计涨幅超 50%。目前尚不清楚美国的这套计划能否打破德黑兰对关键航道霍尔木兹海峡的管控；同时该计划也存在反噬风险。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美推出 “经济 D 日” 制裁伊朗，油价维持跌势"
-    },
-    {
-     "title": "美债“高烧” 沃什被“烤”",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851680143.html",
-     "pubDate": "Tue, 25 Aug 2026 07:12:19 +0800",
-     "summary": "贝森特的“救市”行动，还是没能让美债市场平静下来。 上周，美国财政部部长贝森特宣布扩大部分长期美债回购规模，消息一度提振市场情绪，长端美债收益率随之回落。 然而，短暂的平静很快被打破，30年期美债收益率重新逼近高位。市场很快意识到，扩大回购虽然可以为市场提供流动性，却很难解决美债真正的焦虑。 眼下的美债市场，究竟在焦虑什么？ 首先是越来越沉重的财政压力。 美国联邦政府债务总额已突破40万亿美元，在不到10年的时间里规模上涨了1倍。当前，美国政府还在不断“借新还旧”为财政“续命”，这形成了一个越来越难以摆脱的负循环：债务规模越滚越大，利息支出水涨船高，财政赤字居高不下，财政部需要发行更多美债来弥",
-     "source": "东方财富股票",
-     "zh": "美债“高烧” 沃什被“烤”"
-    },
-    {
-     "title": "“甲醛白菜”屡禁不止：十余年间被多次曝光，甲醛为何仍未纳入蔬菜常规检测？",
-     "link": "http://finance.eastmoney.com/news/11790,202608253851711237.html",
-     "pubDate": "Tue, 25 Aug 2026 07:12:00 +0800",
-     "summary": "8月24日，河北省康保县市场监督管理局工作人员向澎湃新闻表示，经倒查，涉事“甲醛白菜”流向安徽和江苏两省。澎湃新闻查询发现，类似“甲醛白菜”事件在过去十余年间被反复曝光，但到目前为止，甲醛仍未被纳入常规检测项。 涉事白菜的追查仍未结束 8月22日，社交媒体的一则视频引爆舆论：在河北张家口市康保县屯垦镇，一辆大白菜装载挂车，在装车前蘸取甲醛溶液用于白菜保鲜。视频中，货车司机称，这批白菜将运往江苏宿迁；现场人员表示，蘸取甲醛后能保鲜“2至3天”。 当日下午，康保县人民政府通报：经初步核查，视频反映情况属实，系收购商为蔬菜运输保鲜在装运过程中的违法行为。通报称，公安部门已对相关人员、车辆依法采取强制",
-     "source": "东方财富股票",
-     "zh": "“甲醛白菜”屡禁不止：十余年间被多次曝光，甲醛为何仍未纳入蔬菜常规检测？"
-    },
-    {
-     "title": "现货黄金突破4670美元/盎司，日内涨0.41%",
-     "link": "http://finance.eastmoney.com/news/1351,202608253851710889.html",
-     "pubDate": "Tue, 25 Aug 2026 07:11:42 +0800",
-     "summary": "现货 黄金 突破4670美元/盎司，日内涨0.41%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "现货黄金突破4670美元/盎司，日内涨0.41%"
     },
     {
      "title": "华尔街见闻早餐FM-Radio | 2026年8月25日",
@@ -2433,14 +2457,6 @@
      "zh": "Gold extends rally to three-month high as investors renew safe-haven trade"
     },
     {
-     "title": "Trump says US to increase tariffs on Canadian cars to 50%",
-     "link": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1",
-     "pubDate": "Mon, 24 Aug 2026 21:40:13 GMT",
-     "summary": "Move marks further escalation of Washington’s trade war with Ottawa",
-     "source": "Financial Times",
-     "zh": "Trump says US to increase tariffs on Canadian cars to 50%"
-    },
-    {
      "title": "Strattec Security Q4 2026 Earnings Preview",
      "link": "https://seekingalpha.com/news/4636367-strattec-security-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 24 Aug 2026 17:35:58 -0400",
@@ -2463,30 +2479,6 @@
      "summary": "Elon Musk’s company now plans to launch orbital data centers by the end of next year.",
      "source": "MarketWatch",
      "zh": "SpaceX plans to put Nvidia-powered AI satellites in orbit next year"
-    },
-    {
-     "title": "城堡证券警告：美国财政部回购美债构成\"金融抑制\"，压力或转移至汇率与通胀",
-     "link": "https://wallstreetcn.com/articles/3780184",
-     "pubDate": "Tue, 25 Aug 2026 05:24:58 +0800",
-     "summary": "美国财政部扩大债券回购操作，被华尔街顶级做市商定性为\"金融抑制\"，并警告这一举措可能引发难以预料的连锁效应。 据CNBC周一报道，贝森特还可能动用财政部在美联储的现金余额，即财政部一般账户（TGA），为回购提供资金，进一步扩充操作空间。 城堡证券（Citadel Securities）在一份客户报告中指出，财政部试图通过回购债券压低长期借贷成本，并不能消除推动收益率上行的根本经济力量，只会将压力从债券市场转移至汇率市场，进而削弱美元、推高通胀。 市场已出现早期信号印证这一判断——30年期美债在回购公告后一日内回吐全部涨幅，美元走弱，黄金持续上涨。 \"金融抑制\"：压力转移而非消除 贝森特决定将1",
-     "source": "华尔街见闻",
-     "zh": "城堡证券警告：美国财政部回购美债构成\"金融抑制\"，压力或转移至汇率与通胀"
-    },
-    {
-     "title": "英伟达七连跌创2022年以来最长纪录：股价年内涨幅仅7%垫底，分析师却三个月上调盈利预测13%",
-     "link": "https://wallstreetcn.com/articles/3780185",
-     "pubDate": "Tue, 25 Aug 2026 05:23:51 +0800",
-     "summary": "英伟达股价连续第七个交易日收跌，创下2022年以来的最长连跌纪录。 周一英伟达股价收跌2.91%，今年以来，英伟达累计涨幅仅约7%，在费城半导体指数成分股中垫底，AI芯片支出正被分散至更广泛的半导体公司。 估值端同步走低，英伟达远期市盈率已降至约18倍，创近年新低。在基本面依旧强劲的情况下，市场对AI硬件端的定价趋于审慎。 与股价形成反差的是，华尔街分析师仍在持续上调英伟达的盈利预测，过去三个月利润预期累计上调13%。股价与基本面预期的背离，是本轮回调中最值得关注的信号。 估值回落与盈利质量之辨 英伟达远期市盈率已降至约18倍，创近年新低。市场对AI硬件端的定价趋于审慎，背后是投资者对其盈利质",
-     "source": "华尔街见闻",
-     "zh": "英伟达七连跌创2022年以来最长纪录：股价年内涨幅仅7%垫底，分析师却三个月上调盈利预测13%"
-    },
-    {
-     "title": "Here’s how overvalued the stock market really is",
-     "link": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
-     "pubDate": "Mon, 24 Aug 2026 20:54:00 GMT",
-     "summary": "Valuations today are so stretched that it may not take much more straw to break the camel’s back.",
-     "source": "MarketWatch",
-     "zh": "Here’s how overvalued the stock market really is"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/26 07:30:49",
+ "generated_at": "2026/8/26 07:53:37",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
+     "link": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
+     "pubDate": "Tue, 25 Aug 2026 23:48:08 +0000",
+     "summary": "Model cards report quality under server-class, full-precision conditions. Those numbers rarely predict how the same model behaves on a phone. This week, Liquid AI released Pipette. It is an open-source platform for benchmarking foundation models on edge devices, built in partnership with Artificial ",
+     "source": "MarkTechPost",
+     "zh": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together"
+    },
     {
      "title": "Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps",
      "link": "https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/",
@@ -239,14 +247,6 @@
      "summary": "",
      "source": "新智元",
      "zh": "全球首个！10万小时人类数据全开源，Hugging Face罕见站台"
-    },
-    {
-     "title": "AI开始替人类调用AI！token用量已是人类5.2倍",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652720271&idx=2&sn=1501d6d57f652164dfdaee54b85c353a",
-     "pubDate": "Tue, 25 Aug 2026 12:07:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "AI开始替人类调用AI！token用量已是人类5.2倍"
     }
    ]
   },
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Tesla Cybercab Readies for Launch",
+     "link": "https://cleantechnica.com/2026/08/25/tesla-cybercab-readies-for-launch/",
+     "pubDate": "Tue, 25 Aug 2026 23:28:38 +0000",
+     "summary": "Tesla is planning to genuinely launch its Cybercab in coming weeks, or days. It is going to be launched on September 3 in Austin, Texas. Invitations for the event have started getting sent out to specific fans, investors, influencers, etc. Note that while Cybercabs have been spotted in testing with ",
+     "source": "CleanTechnica",
+     "zh": "Tesla Cybercab Readies for Launch"
+    },
+    {
      "title": "The U.S. Power Play in Iraq That Moscow and Beijing Didn’t See Coming",
      "link": "https://oilprice.com/Energy/Energy-General/The-US-Power-Play-in-Iraq-That-Moscow-and-Beijing-Didnt-See-Coming.html",
      "pubDate": "Tue, 25 Aug 2026 17:00:00 -0500",
@@ -951,14 +959,6 @@
      "summary": "Global hydrogen demand exceeded 100 million tonnes in 2025, and almost all of it was still consumed where hydrogen has been used for decades: refining and industry. That is why kilograms and tonnes are not merely traditional units. They describe the market that exists. An ammonia plant buys a chemic",
      "source": "CleanTechnica",
      "zh": "Hydrogen Is Still A Tonnes Market, No Matter How Many MWh We Assign To It"
-    },
-    {
-     "title": "PacifiCorp to suspend California energy efficiency programs under proposed settlement",
-     "link": "https://www.utilitydive.com/news/pacificorp-suspend-california-energy-efficiency-programs/828721/",
-     "pubDate": "Tue, 25 Aug 2026 11:14:15 -0400",
-     "summary": "The programs have &ldquo;historically not provided cost-effectiveness benefits to ratepayers and, indeed, show a decline in performance in recent years,&rdquo; said the&nbsp;California Public Utilities Commission&rsquo;s&nbsp;Public Advocates Office.",
-     "source": "Utility Dive",
-     "zh": "PacifiCorp to suspend California energy efficiency programs under proposed settlement"
     },
     {
      "title": "Data centers can vanish from the grid in seconds; reliability rules need to catch up",
@@ -1745,36 +1745,76 @@
    "total": 18,
    "items": [
     {
-     "title": "Nothing OS 5.0 发布：基于 Android 17 打造，推送计划公布",
-     "link": "https://www.ithome.com/0/994/307.htm",
-     "pubDate": "Tue, 25 Aug 2026 23:25:54 GMT",
-     "summary": "IT之家 8 月 26 日消息，Nothing OS 5.0 已发布，基于 Android 17 打造，将于北京时间 8 月 26 日 18:00 开启公开测试。 IT之家注意到，首批仅支持 Nothing Phone (3)。未来几个月还会有更多设备加入，Nothing Phone (4a) Pro 将于 9 月初加入，Phone (4a)、Phone (3a) 和 (3a) Pro 将于 9 月下旬加入，Phone (2a) 和 (2a) Plus 将于 10 月中旬加入，Phone (4b) 则会在 12 月中旬加入。Nothing Phone (3a) Lite 和 CMF Phone",
+     "title": "微软回应必应搜索推广工具争议：不会自动安装，更改设置需用户同意",
+     "link": "https://www.ithome.com/0/994/313.htm",
+     "pubDate": "Tue, 25 Aug 2026 23:47:25 GMT",
+     "summary": "IT之家 8 月 26 日消息，针对近期推出的一款会将必应搜索和必应主页设置到电脑上所有浏览器中的新应用引发的争议，微软作出了回应。 微软向 Windows Latest 表示，这款工具“不会通过 Windows 或 Edge 进行分发”，这意味着 Microsoft Recommended Search Settings（微软推荐搜索设置）应用属于可选软件，未经用户同意，不会更改任何默认设置。 不过，目前仍然不清楚微软为何要推出这款必应工具。它的完成度相当高，设计也颇为周到，可以同时修改多个浏览器的默认搜索引擎。 在测试中，这款应用确实能够将 Chrome 和 Brave 的默认搜索引擎分别",
      "source": "IT之家",
-     "zh": "Nothing OS 5.0 发布：基于 Android 17 打造，推送计划公布"
+     "zh": "微软回应必应搜索推广工具争议：不会自动安装，更改设置需用户同意"
     },
     {
-     "title": "OpenAI 首款自研芯片 Jalapeño 性能首秀：DeepSeek R1 每瓦 AI 吞吐量是 GB300 的 1.7 倍",
-     "link": "https://www.ithome.com/0/994/306.htm",
-     "pubDate": "Tue, 25 Aug 2026 23:25:37 GMT",
-     "summary": "IT之家 8 月 26 日消息，OpenAI 昨日（8 月 25 日）发布博文，展示其首款自研 Jalapeño 芯片，并表示无论是单用户 token 处理量，还是每千瓦吞吐量，都超过了目前市面上的顶尖推理处理器。 在官方博文中，OpenAI 使用半导体研究公司 SemiAnalysis 开发的公共基准测试工具 InferenceX，通过 GPT-OSS 120B、DeepSeek R1 670B 和 Kimi K2.5 1T 三款模型测试。 测试显示对比市面上领先的 AI 系统（GB200 和 GB300），每瓦能够完成的 AI 吞吐量是对比系统的 1.5 至 1.9 倍，端到端延迟则约为对",
+     "title": "《流放之路 2》1.0 版本将于 12 月 11 日正式上线，新增全新职业 Duelist",
+     "link": "https://www.ithome.com/0/994/312.htm",
+     "pubDate": "Tue, 25 Aug 2026 23:45:37 GMT",
+     "summary": "IT之家 8 月 26 日消息，Grinding Gear Games 在 2026 年科隆游戏展开幕之夜直播中宣布《流放之路 2（Path of Exile 2）》1.0 正式版将于 12 月 11 日登陆 PC（Steam、Epic Games Store）、PlayStation 5 和 Xbox Series X｜S 平台。 《流放之路 2》于 2024 年 12 月开启抢先体验，并在 Steam 上取得了相当亮眼的首发成绩。经过后续多个版本的更新和调整后，如今本作终于即将正式登场。 官方透露，此次正式版还将加入全新职业 Duelist（决斗者），该职业已经在本次预告片中首次亮相，并将",
      "source": "IT之家",
-     "zh": "OpenAI 首款自研芯片 Jalapeño 性能首秀：DeepSeek R1 每瓦 AI 吞吐量是 GB300 的 1.7 倍"
+     "zh": "《流放之路 2》1.0 版本将于 12 月 11 日正式上线，新增全新职业 Duelist"
     },
     {
-     "title": "外媒追查《GTA6》泄露者 Cyberleek“大葱哥”，发现其视频在公开发布前曾在 Discord 私下流传",
-     "link": "https://www.ithome.com/0/994/305.htm",
-     "pubDate": "Tue, 25 Aug 2026 23:24:47 GMT",
-     "summary": "IT之家 8 月 26 日消息，外媒 Videotech 在追查《GTA6》曝光者 Cyberleek“大葱哥”身份时，发现早在 Cyberleek 公开发布《GTA6》打篮球泄露视频前，就有用户 stayonthegrindd 在 Discord 平台一个非官方《GTA6》服务器频道中放出相应视频片段。 当时不少玩家认为视频可能是伪造的，但 stayonthegrindd 坚持称其来自 2026 年版本，并预告还会有驾驶相关的游戏画面，同时表示自己可以提供游戏地图。 Videotech 随后联系了一些声称曾通过私信与该用户交流的人。一名玩家表示，他曾在相应 Discord 服务器频道中看到一",
+     "title": "IT早报 0826：余承东官宣华为新三折叠手机；高通第六代骁龙 8 旗舰 CPU 主频破 5GHz；6999 元起苹果全新 Mac mini 发布；自动驾驶违法由车企担责首次明确...",
+     "link": "https://www.ithome.com/0/994/311.htm",
+     "pubDate": "Tue, 25 Aug 2026 23:44:53 GMT",
+     "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 26 日星期三，今天的重要科技资讯有： 1. 余承东官宣全新三折叠即将登场，华为鸿蒙 HarmonyOS 7 | Mate XT 2 及全场景新品发布会定档 华为常务董事、产品投资评审委员会主任、终端 BG 董事长 8 月 25 日官宣，全新三折叠即将登场。>> 查看详情 2. 最高主频 5GHz 全球移动端最快，高通下一代骁龙旗舰平台 CPU 技术公开 全新 Oryon CPU 被高通称为“全球最快的移动 CPU”，支撑这个说法的核心，一是突破性的 5GHz 主频，二是全新的缓存架构。高通在博客里明确写道，达到如此极致的最高主频，仅依靠",
      "source": "IT之家",
-     "zh": "外媒追查《GTA6》泄露者 Cyberleek“大葱哥”，发现其视频在公开发布前曾在 Discord 私下流传"
+     "zh": "IT早报 0826：余承东官宣华为新三折叠手机；高通第六代骁龙 8 旗舰 CPU 主频破 5GHz；6999 元起苹果全新 Mac mini 发布；自动驾驶违法由车企担责首次明确..."
     },
     {
-     "title": "斥资 1000 亿美元，SpaceX 拟于路易斯安那建造全球最大火箭发射基地",
-     "link": "https://www.ithome.com/0/994/304.htm",
-     "pubDate": "Tue, 25 Aug 2026 23:22:04 GMT",
-     "summary": "IT之家 8 月 26 日消息，SpaceX 当地时间周二公布了在路易斯安那州建设一座大型太空港的计划，项目投资规模高达 1,000 亿美元 （IT之家注：现汇率约合 6,738.71 亿元人民币） 。该公司计划未来每年从这里发射数千次庞大的“星舰”（Starship）火箭。 据当地经济发展网站介绍，这座太空港预计将于明年底前在路易斯安那州南部沿海的维尔米利恩教区附近动工，最早可能于 2029 年执行首次发射任务。 如果这一计划最终落地，将彻底改变 SpaceX 以及美国火箭产业的格局。路易斯安那州此前从未进行过轨道级火箭发射，而未来这里可能成为全球最繁忙的火箭发射基地。 SpaceX 将把这",
+     "title": "马云不再吃瓜",
+     "link": "https://www.huxiu.com/article/4885984.html?f=rss",
+     "pubDate": "Wed, 26 Aug 2026 07:40:29 +0800",
+     "summary": "本文来自微信公众号： 版面之外 ，作者：画画 戈壁、农田、露天，他和当地治沙、农业工作人员聊天，气氛松弛。看起来，这个已经离开阿里日常经营多年的创始人，离商业世界越来越远。 有人感慨，马云真的退休了。 几周后，风向变了。他连续增持阿里港股，金额超过6亿港元。加上蔡崇信、吴泳铭此前的增持，阿里创始人与管理层近日合计买入已超过8亿港元。 这个时间点，很微妙。 阿里刚刚经历了一份不太好看的财报。 2027财年第一季度，营收2689.53亿元，同比增长9%，但归属于普通股股东的净利润同比下降约75%。资本开支676.8亿元，同比增长75%，AI基础设施投入成为压倒性的主要原因之一。 几天后，阿里又宣布",
+     "source": "虎嗅",
+     "zh": "马云不再吃瓜"
+    },
+    {
+     "title": "历史无法预见AI的未来",
+     "link": "https://www.huxiu.com/article/4885981.html?f=rss",
+     "pubDate": "Wed, 26 Aug 2026 07:40:00 +0800",
+     "summary": "本文来自微信公众号： 青野有枯荣 ，作者：青野Tsingyeh 7月权益市场的大幅调整伴随着“AI泡沫”辩论的激化，至今市场仍围绕“反弹还是反转”博弈不休。这早已不是市场第一次质疑“泡沫”：抛开过去两年的诸多起伏，哪怕从去年11月算起，市场也已围绕宏观冲击、债务与现金流、AI下游应用、硬件涨价持续性等等方面做过辩论和博弈。不难看到：每一次质疑，都以明确的产业进展和市场新高收尾。需要承认，7月的回撤之深让人直觉上感到担忧：纵使承认AI仍然拥有广阔终局，是不是也要关心眼前的坎？“这次不一样”究竟是产业现实还是市场叙事？……我们也看到，不少自上而下的投资者和研究者，参考历史中诸多技术革命的场景，对A",
+     "source": "虎嗅",
+     "zh": "历史无法预见AI的未来"
+    },
+    {
+     "title": "微软盘点 Windows on Arm 进展：英伟达入局，多厂商秋季上线 Arm PC",
+     "link": "https://www.ithome.com/0/994/310.htm",
+     "pubDate": "Tue, 25 Aug 2026 23:37:13 GMT",
+     "summary": "IT之家 8 月 26 日消息，微软发布了一篇新的博客文章，回顾了过去一年 Windows on Arm 平台取得的重大进展。微软表示，很高兴看到英伟达将于今年晚些时候凭借 RTX Spark SoC 加入 Windows on Arm 阵营，与高通骁龙 X 平台一道，进一步巩固 Windows on Arm 平台的发展前景。 微软合作伙伴总监 Klaus Diaconu 表示：“市场正在释放一个明确的信号：越来越多的芯片供应商和 OEM 厂商正在投资 Windows on Arm，因为消费者对这类高性能、高能效 Windows 设备和体验的需求正在不断增长。2026 年秋季，微软 Surfa",
      "source": "IT之家",
-     "zh": "斥资 1000 亿美元，SpaceX 拟于路易斯安那建造全球最大火箭发射基地"
+     "zh": "微软盘点 Windows on Arm 进展：英伟达入局，多厂商秋季上线 Arm PC"
+    },
+    {
+     "title": "英伟达 RTX Spark 新增支持《Apex 英雄》等 5 款游戏，原生支持 EA Javelin 反作弊系统",
+     "link": "https://www.ithome.com/0/994/309.htm",
+     "pubDate": "Tue, 25 Aug 2026 23:36:38 GMT",
+     "summary": "IT之家 8 月 26 日消息，在今天召开的科隆游戏展期间，英伟达宣布在今年秋季上市之前，扩大 RTX Spark 的游戏支持范围， 携手 Electronic Arts、Embark Studios 和 Ubisoft 开发商，共同完善游戏生态。 IT之家援引博文介绍，目前确认支持的新增游戏包括： 《EA SPORTS F1 25》 《Apex 英雄》（Apex Legends） 《纪元 117：罗马和平》（Anno 117：Pax Romana） 《ARC Raiders》 《最终决战》（THE FINALS） 英伟达在博文中还指出，RTX Spark 将会原生支持 EA Javelin ",
+     "source": "IT之家",
+     "zh": "英伟达 RTX Spark 新增支持《Apex 英雄》等 5 款游戏，原生支持 EA Javelin 反作弊系统"
+    },
+    {
+     "title": "Steam 喜加一：原价 74 元《微软模拟飞行 2024》游戏数字原声带免费领",
+     "link": "https://www.ithome.com/0/994/308.htm",
+     "pubDate": "Tue, 25 Aug 2026 23:30:22 GMT",
+     "summary": "IT之家 8 月 26 日消息，随着《微软模拟飞行 2020》系列游戏迎来 6 周年纪念，官方在 Steam 平台为《微软模拟飞行 2024》推出数字原声带（原生音轨）《Microsoft Flight Simulator Suite：Themes Reimagined》。 相应原生音轨在 Steam 国区定价为 74 元，玩家可以在 9 月 2 日前免费“喜加一” ，即使没有购买《微软模拟飞行 2024》游戏本体的玩家，也可以将相应原生音轨单独添加至 Steam 游戏库，IT之家附商品页（ https://store.steampowered.com/app/5004030/Microsof",
+     "source": "IT之家",
+     "zh": "Steam 喜加一：原价 74 元《微软模拟飞行 2024》游戏数字原声带免费领"
+    },
+    {
+     "title": "State AGs&apos; trial: Adam Mosseri denies Instagram stalled by not making its \"Take a Break\" teen safety feature the default until nearly three years after launch (Reuters)",
+     "link": "https://www.techmeme.com/260825/p45#a260825p45",
+     "pubDate": "Tue, 25 Aug 2026 19:30:05 -0400",
+     "summary": "Reuters : State AGs' trial: Adam Mosseri denies Instagram stalled by not making its &ldquo;Take a Break&rdquo; teen safety feature the default until nearly three years after launch &nbsp; &mdash;&nbsp; The top executive at Instagram said few teenagers used a key safety feature to limit their use bef",
+     "source": "Techmeme",
+     "zh": "State AGs&apos; trial: Adam Mosseri denies Instagram stalled by not making its \"Take a Break\" teen safety feature the default until nearly three years after launch (Reuters)"
     },
     {
      "title": "【钛晨报】农产品相关“十五五”规划出炉，点名AI流通、农民主播、海外仓等；马云出手，与管理层合计增持阿里巴巴超8亿港元；章建平新进成为杭电股份第三大股东",
@@ -1785,14 +1825,6 @@
      "zh": "【钛晨报】农产品相关“十五五”规划出炉，点名AI流通、农民主播、海外仓等；马云出手，与管理层合计增持阿里巴巴超8亿港元；章建平新进成为杭电股份第三大股东"
     },
     {
-     "title": "NVIDIA 发布机器人计算机 Jetson Orin Nano 2，带来双倍算力或四成节能",
-     "link": "https://www.ithome.com/0/994/303.htm",
-     "pubDate": "Tue, 25 Aug 2026 23:18:40 GMT",
-     "summary": "IT之家 8 月 26 日消息，NVIDIA（英伟达）当地时间 25 日宣布推出面向入门级边缘人工智能的 Jetson Orin Nano 2 机器人计算机。这一产品预计将在 2027H1 以模组及开发套件的形态上市。 Jetson Orin Nano 2 采用与 Jetson Orin Nano Super 相同的外形规格，却 能提供前代 2 倍的 AI 推理计算能力 ；而如果将性能控制在前代相同水平，该产品则仅需 15W 功耗，是前代的 60%。 其标准模式下 AI 算力达 78 TOPS，集成 8 核 Arm 指令集 CPU 和 8GB 内存，视频处理性能也有显著提升。 NVIDIA 机",
-     "source": "IT之家",
-     "zh": "NVIDIA 发布机器人计算机 Jetson Orin Nano 2，带来双倍算力或四成节能"
-    },
-    {
      "title": "电商直播间，挤满时薪5毛的“金币猎人”",
      "link": "https://www.huxiu.com/article/4885957.html?f=rss",
      "pubDate": "Wed, 26 Aug 2026 07:17:08 +0800",
@@ -1801,28 +1833,20 @@
      "zh": "电商直播间，挤满时薪5毛的“金币猎人”"
     },
     {
-     "title": "X 发律师函要求关停 Nitter，免登录浏览 X 帖文项目被迫下线",
-     "link": "https://www.ithome.com/0/994/302.htm",
-     "pubDate": "Tue, 25 Aug 2026 23:16:40 GMT",
-     "summary": "IT之家 8 月 26 日消息，Nitter 是一个开源项目，允许用户无需登录，甚至无需打开 X 应用，就能阅读 X 上的帖子。如今，X 已向 Nitter 发出停止侵权并终止相关活动的律师函，要求其关闭。该消息通过 Nitter 网站上的一则简短公告对外公布，此前 X 已经尝试通过技术手段让 Nitter 下线。 Nitter 还为包括 XCancel 在内的一些其他网站提供支持，这些网站同样允许用户直接查看 X 上的帖子。 IT之家注意到，这并不是 X 第一次尝试关闭 Nitter。2024 年，X 推出新的 API 限制后，Nitter 最主要的实例 Nitter.net 曾一度下线。N",
-     "source": "IT之家",
-     "zh": "X 发律师函要求关停 Nitter，免登录浏览 X 帖文项目被迫下线"
-    },
-    {
      "title": "中国最大炒菜馆，自己推翻自己",
      "link": "https://www.huxiu.com/article/4885940.html?f=rss",
-     "pubDate": "Wed, 26 Aug 2026 07:15:28 +0800",
+     "pubDate": "Wed, 26 Aug 2026 07:15:29 +0800",
      "summary": "出品｜虎嗅商业消费组 作者｜李佳琪 编辑｜苗正卿 题图｜小菜园&nbsp; 小菜园南京总部的数字大屏前，高恒把时间切到了&ldquo;今日&rdquo;。 屏幕左上角，各项数据切片的时间戳以分钟为单位跳动：14:40、14:41&hellip;&hellip; 虎嗅到访当日，受台风白海豚影响，小菜园全国门店的实收，比上周同日同时间点降了10%。大屏上四个核心指标全部分钟级刷新：今日实收对标上周同期、88VIP开卡数、堂食与外卖占比、新店店均日值。 &ldquo;很多公司讲数字中台&rdquo;，高恒指着屏幕说，&ldquo;但做了数字中台也不代表能做到这个技术水平&rdquo;。 小菜园南京总",
      "source": "虎嗅",
      "zh": "中国最大炒菜馆，自己推翻自己"
     },
     {
-     "title": "历史无法预见AI的未来",
-     "link": "https://www.huxiu.com/article/4885981.html?f=rss",
-     "pubDate": "Wed, 26 Aug 2026 06:43:11 +0800",
-     "summary": "本文来自微信公众号： 青野有枯荣 ，作者：青野Tsingyeh 7月权益市场的大幅调整伴随着“AI泡沫”辩论的激化，至今市场仍围绕“反弹还是反转”博弈不休。这早已不是市场第一次质疑“泡沫”：抛开过去两年的诸多起伏，哪怕从去年11月算起，市场也已围绕宏观冲击、债务与现金流、AI下游应用、硬件涨价持续性等等方面做过辩论和博弈。不难看到：每一次质疑，都以明确的产业进展和市场新高收尾。需要承认，7月的回撤之深让人直觉上感到担忧：纵使承认AI仍然拥有广阔终局，是不是也要关心眼前的坎？“这次不一样”究竟是产业现实还是市场叙事？……我们也看到，不少自上而下的投资者和研究者，参考历史中诸多技术革命的场景，对A",
-     "source": "虎嗅",
-     "zh": "历史无法预见AI的未来"
+     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+     "link": "https://github.com/runetes/maiao",
+     "pubDate": "Tue, 25 Aug 2026 22:40:07 +0000",
+     "summary": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others"
     },
     {
      "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
@@ -1868,7 +1892,7 @@
      "title": "Python's pre-declared constants are kinda weird",
      "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
      "pubDate": "Tue, 25 Aug 2026 21:39:02 +0000",
-     "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 79 # Comments: 23",
+     "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 94 # Comments: 43",
      "source": "Hacker News",
      "zh": "Python's pre-declared constants are kinda weird"
     },
@@ -1916,7 +1940,7 @@
      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
      "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
      "pubDate": "Tue, 25 Aug 2026 20:49:03 +0000",
-     "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 34 # Comments: 20",
+     "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 37 # Comments: 21",
      "source": "Hacker News",
      "zh": "When str.lower() is a security vulnerability in Python – Seth Larson"
     },
@@ -1940,17 +1964,9 @@
      "title": "C2PA Cameras Do Not Survive Contact with Reality",
      "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
      "pubDate": "Tue, 25 Aug 2026 19:38:24 +0000",
-     "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 52 # Comments: 18",
+     "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 60 # Comments: 24",
      "source": "Hacker News",
      "zh": "C2PA Cameras Do Not Survive Contact with Reality"
-    },
-    {
-     "title": "A brief history of federal lift ticket regulation",
-     "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-     "pubDate": "Tue, 25 Aug 2026 19:25:43 +0000",
-     "summary": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 13 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "A brief history of federal lift ticket regulation"
     },
     {
      "title": "Sources: Chris Malone, who joined OpenAI as head of data centers in March 2025, left the company last week amid a broader exodus (Anissa Gardizy/Wall Street Journal)",
@@ -1967,22 +1983,6 @@
      "summary": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
      "source": "TechCrunch",
      "zh": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious"
-    },
-    {
-     "title": "Preserving glow-in-the-dark art and fashion for future generations",
-     "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
-     "pubDate": "Tue, 25 Aug 2026 18:59:12 +0000",
-     "summary": "Understanding unique photochemistry of such materials will help in conservation, storage, and exhibition.",
-     "source": "Ars Technica",
-     "zh": "Preserving glow-in-the-dark art and fashion for future generations"
-    },
-    {
-     "title": "Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel (Anna Heim/TechCrunch)",
-     "link": "https://www.techmeme.com/260825/p39#a260825p39",
-     "pubDate": "Tue, 25 Aug 2026 14:50:01 -0400",
-     "summary": "Anna Heim / TechCrunch : Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel &nbsp; &mdash;&nbsp; Search engines were built and optimized for people, who can't spare the time or attention required to scan entire web",
-     "source": "Techmeme",
-     "zh": "Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel (Anna Heim/TechCrunch)"
     }
    ]
   },
@@ -2257,20 +2257,68 @@
      "zh": "Visa joins MAS-led project to pilot stablecoin settlement"
     },
     {
-     "title": "美媒：鲁比奥称美国暂不会对伊朗发动新打击",
-     "link": "http://finance.eastmoney.com/news/1351,202608263853554985.html",
-     "pubDate": "Wed, 26 Aug 2026 07:22:32 +0800",
-     "summary": "新华财经华盛顿8月25日电（记者黄强徐剑梅）据美国阿克西奥斯新闻网站25日援引美官员和消息人士的话报道，美国国务卿鲁比奥近日告诉多名美盟国外长，美国预计暂时不会对伊朗发动新的打击，当前重点转向包括经济制裁在内的其他施压手段。 据消息人士透露，鲁比奥在与多名外长通话时概述了特朗普政府当前的对伊政策，即暂时避免对伊朗采取军事行动，通过美国海军封锁和新制裁措施加大对伊朗的经济施压，同时尽可能多地将石油通过霍尔木兹海峡运往全球能源市场。 美官员表示，尽管鲁比奥明确指出美国不打算重返大规模作战行动，但他并未排除在伊朗率先发动攻击时进行反击的可能性。预计这一政策至少会持续到中期选举之后，届时新的军事行动可",
+     "title": "mRNA癌症疗法引市场关注 产业迎新增长空间",
+     "link": "http://finance.eastmoney.com/news/1354,202608263853469893.html",
+     "pubDate": "Wed, 26 Aug 2026 07:45:02 +0800",
+     "summary": "近日，美国制药企业 默沙东 公司和生物技术企业莫德纳公司宣布，双方联合研发的一种基于mRNA（信使核糖核酸）技术的个体化新抗原疗法，与一种 免疫治疗 药物联合使用，在针对高危黑色素瘤切除术后预防复发3期临床试验中取得积极结果。消息出来后，全球资本市场沸腾，生物医药板块迎来涨停潮。 业内人士分析，这是全球首个mRNA癌症疗法在3期临床试验达到主要终点，打破了该技术长期局限于传染病预防的边界，也再次印证了mRNA技术在肿瘤治疗领域具备巨大的临床潜力。 mRNA癌症疗法引爆生物医药板块 据了解，双方共同研发的这种基于mRNA技术的个体化新抗原疗法为个体化mRNA癌症 疫苗 intismeran au",
      "source": "东方财富股票",
-     "zh": "美媒：鲁比奥称美国暂不会对伊朗发动新打击"
+     "zh": "mRNA癌症疗法引市场关注 产业迎新增长空间"
     },
     {
-     "title": "国有大行AIC“组团”现身长存控股股东名单",
-     "link": "http://finance.eastmoney.com/news/1354,202608263853462322.html",
-     "pubDate": "Wed, 26 Aug 2026 07:22:00 +0800",
-     "summary": "近日，存储器IDM（垂直整合制造工厂）企业长江存储控股股份有限公司（以下简称“长存控股”）申请科创板IPO获上交所受理。该公司的股东图谱随之浮出水面。 记者梳理公司招股书注意到，一众 银行 系资本现身长存控股股东名单。5家国有大行旗下AIC（金融资产投资公司）或投资平台合计持股5.45亿股； 招商银行 则通过私募基金间接布局。 具体来看， 农业银行 旗下AIC农银金融资产投资有限公司、 建设银行 旗下AIC建信金融资产投资有限公司、 交通银行 旗下AIC交银金融资产投资有限公司、 工商银行 旗下AIC工银金融资产投资有限公司控股的工融金投（北京）新兴产业股权投资基金合伙企业（有限合伙），分别持",
+     "title": "新风光：融资净偿还621.83万元，融资余额7.16亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608263853635283.html",
+     "pubDate": "Wed, 26 Aug 2026 07:45:00 +0800",
+     "summary": "交易所最新数据显示， 新风光 于2026年8月25日获融资买入1106.22万元，融资偿还1728.05万元， 当日融资净偿还621.83万元。 目前，该股融资余额7.16亿，占流通市值比例为6.77%。 该股当日融券卖出200股，融券偿还0股， 融券净卖出200股。 目前，该股融券余量9730股，融券余额52.14万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈",
      "source": "东方财富股票",
-     "zh": "国有大行AIC“组团”现身长存控股股东名单"
+     "zh": "新风光：融资净偿还621.83万元，融资余额7.16亿元"
+    },
+    {
+     "title": "石头科技：融资净偿还3186.82万元，融资余额9.12亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608263853633596.html",
+     "pubDate": "Wed, 26 Aug 2026 07:44:41 +0800",
+     "summary": "交易所最新数据显示， 石头科技 于2026年8月25日获融资买入2.98亿元，融资偿还3.30亿元， 当日融资净偿还3186.82万元。 目前，该股融资余额9.12亿，占流通市值比例为2.60%。 该股当日融券卖出1200股，融券偿还3.20万股， 融券净偿还3.08万股。 目前，该股融券余量6.45万股，融券余额871.41万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容",
+     "source": "东方财富股票",
+     "zh": "石头科技：融资净偿还3186.82万元，融资余额9.12亿元"
+    },
+    {
+     "title": "达梦数据：融资净买入201.29万元，融资余额7.45亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608263853632225.html",
+     "pubDate": "Wed, 26 Aug 2026 07:44:28 +0800",
+     "summary": "交易所最新数据显示， 达梦数据 于2026年8月25日获融资买入2306.78万元，融资偿还2105.48万元， 当日融资净买入201.29万元。 目前，该股融资余额7.45亿，占流通市值比例为4.23%。 该股当日融券卖出0股，融券偿还390股， 融券净偿还390股。 目前，该股融券余量1.74万股，融券余额412.35万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引",
+     "source": "东方财富股票",
+     "zh": "达梦数据：融资净买入201.29万元，融资余额7.45亿元"
+    },
+    {
+     "title": "金种子酒：融资净偿还44万元，融资余额1.77亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608263853632347.html",
+     "pubDate": "Wed, 26 Aug 2026 07:44:28 +0800",
+     "summary": "交易所最新数据显示，金种子酒于2026年8月25日获融资买入402.50万元，融资偿还446.49万元， 当日融资净偿还44万元。 目前，该股融资余额1.77亿，占流通市值比例为3.83%。 该股当日无融券交易。目前，该股融券余量3.05万股，融券余额21.44万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "source": "东方财富股票",
+     "zh": "金种子酒：融资净偿还44万元，融资余额1.77亿元"
+    },
+    {
+     "title": "生物股份：融资净偿还484.54万元，融资余额14.12亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202608263853632088.html",
+     "pubDate": "Wed, 26 Aug 2026 07:44:28 +0800",
+     "summary": "交易所最新数据显示，生物股份于2026年8月25日获融资买入1063.78万元，融资偿还1548.32万元， 当日融资净偿还484.54万元。 目前，该股融资余额14.12亿，占流通市值比例为10.13%。 该股当日融券卖出800股，融券偿还3600股， 融券净偿还2800股。 目前，该股融券余量57.12万股，融券余额723.76万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致",
+     "source": "东方财富股票",
+     "zh": "生物股份：融资净偿还484.54万元，融资余额14.12亿元"
+    },
+    {
+     "title": "Intuit expects FY2027 revenue of $23.279B-$23.512B as it shifts investment toward new customer growth",
+     "link": "https://seekingalpha.com/news/4636830-intuit-expects-fy2027-revenue-of-23_279b-23_512b-as-it-shifts-investment-toward-new-customer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 25 Aug 2026 19:40:33 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Intuit expects FY2027 revenue of $23.279B-$23.512B as it shifts investment toward new customer growth"
+    },
+    {
+     "title": "Electromed outlines $1.05M-$1.15M fiscal 2027 home care revenue per rep target while CEO plans April 2027 retirement",
+     "link": "https://seekingalpha.com/news/4636829-electromed-outlines-1_05m-1_15m-fiscal-2027-home-care-revenue-per-rep-target-while-ceo-plans?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 25 Aug 2026 19:29:57 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Electromed outlines $1.05M-$1.15M fiscal 2027 home care revenue per rep target while CEO plans April 2027 retirement"
     },
     {
      "title": "油价大跌5%，为贝森特提供债券收益率喘息空间，但结构性压力未解",
@@ -2279,38 +2327,6 @@
      "summary": "油价走软推动美债收益率回落，但这并非美国财长贝森特所期望的实质性重新定价。 华尔街见闻提及 ，美东时间25日周二美股临近收盘时，俄罗斯媒体Sputnik援引巴基斯坦军方和伊朗安全部门消息人士称，美国与伊朗已就停火协议条款达成共识，其中包括霍尔木兹海峡自由通航。 消息传出后，国际原油期货跌幅迅速扩大。美国WTI原油期货盘中跌幅扩大至5%以上，布伦特原油期货一度较周一收盘跌去约6%。 与此同时， 10年期美债收益率回落6个基点至4.64%，过去五周内始终在一个固定区间内震荡，难以突破。这使得隔夜收益率回落更像是区间内的技术性调整，与贝森特希望看到的结构性下行相去甚远。 当前市场目光已转向即将举行的",
      "source": "华尔街见闻",
      "zh": "油价大跌5%，为贝森特提供债券收益率喘息空间，但结构性压力未解"
-    },
-    {
-     "title": "新基金经理上任就亏了30%！基金换人 投资者该不该跑？",
-     "link": "http://fund.eastmoney.com/news/11794,202608253853355935.html",
-     "pubDate": "Wed, 26 Aug 2026 07:21:02 +0800",
-     "summary": "基金经理变更后，基金净值迅速下跌，投资者该不该跑？ 近期，部分基金在更换基金经理后表现不佳。截至8月24日，多只基金的新任基金经理自今年接任以来，任职回报均跌超30%。 基金换人后短期亏损，未必全是新任基金经理的责任，但连续出现较大跌幅，也意味着投资者有必要重新审视：当初买入这只基金的理由，现在是否依然成立？ 01 多只基金换帅后任职回报跌超30% 从上述几只基金的表现来看，新任基金经理接手后的成绩均不理想，不仅任职回报明显为负，与上一任基金经理相比也出现了较大反差。 以“XX绿色能源”为例，新任基金经理于今年1月30日接管该基金，截至8月24日的任职回报为-38.36%，同类排名接近末位。相",
-     "source": "东方财富股票",
-     "zh": "新基金经理上任就亏了30%！基金换人 投资者该不该跑？"
-    },
-    {
-     "title": "订单充沛彰显产业韧性 向投资者传递积极信号",
-     "link": "http://finance.eastmoney.com/news/1354,202608263853466436.html",
-     "pubDate": "Wed, 26 Aug 2026 07:20:02 +0800",
-     "summary": "自7月以来，约30家公司陆续公布上半年新增订单及截至6月末的在手订单情况， 药明康德 、 璞泰来 、 金盘科技 等企业在手订单规模超50亿元。企业订单储备充足、市场反应温和向好，既体现上市公司经营状况平稳，也折射出部分实体赛道需求回暖，向投资者传递积极信号，为市场情绪修复提供了扎实支撑。 在手订单是资本市场判断企业增长潜力的核心依据。相较于财报营收数据，订单数据前瞻性更强，能够精准反映企业市场拓展能力、产品竞争力以及下游市场的真实需求活力。此番集中披露订单的企业，主要分布在生物医药、 新能源 、 半导体 、高端装备等核心科技赛道，覆盖实体经济关键领域。这说明，国内新兴产业需求持续回暖，产业升级",
-     "source": "东方财富股票",
-     "zh": "订单充沛彰显产业韧性 向投资者传递积极信号"
-    },
-    {
-     "title": "加拿大实施报复后 美国考虑出台更多针对加拿大的贸易措施",
-     "link": "http://finance.eastmoney.com/news/1351,202608263853554161.html",
-     "pubDate": "Wed, 26 Aug 2026 07:20:01 +0800",
-     "summary": "据报道，加拿大总理马克卡尼针对美国周六新征收的关税推出等额报复措施之后，特朗普政府正讨论对加拿大施加额外贸易惩罚。一名不愿具名、参与内部研判的白宫官员称，美国对这个北部邻国的进一步升级举措，可能包括加征更高关税以及其他贸易行动。该官员表示，美国政府预计会对加拿大最新的举措作出回应。这名官员指出，美加上周末谈判破裂后争端爆发，唐纳德特朗普总统手握多项可用于此次争端的政策工具。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "加拿大实施报复后 美国考虑出台更多针对加拿大的贸易措施"
-    },
-    {
-     "title": "80岁的美国乡村音乐传奇多莉·帕顿去世，特朗普：全美降半旗一周",
-     "link": "http://finance.eastmoney.com/news/1351,202608263853553968.html",
-     "pubDate": "Wed, 26 Aug 2026 07:20:01 +0800",
-     "summary": "当地时间8月25日，美国乡村音乐歌星多莉·帕顿（Dolly Parton）的社交媒体账号证实，帕顿当日在美国田纳西州纳什维尔去世，享年80岁。帕顿生前共创作近3000首歌曲，代表作包括《Jolene》和《I Will Always Love You》等。美国总统特朗普在社交媒体平台“真实社交”发文称，帕顿“独一无二，后无来者。为纪念她，我宣布从今晚6点开始，全美降半旗一周”。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "80岁的美国乡村音乐传奇多莉·帕顿去世，特朗普：全美降半旗一周"
     },
     {
      "title": "德国大众拟大裁员 州长呼吁守护“汽车之乡”",
@@ -2463,22 +2479,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "U.S. crude stockpiles rose 4.2M barrels last week, API says"
-    },
-    {
-     "title": "8月26日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/11158,202608263853528358.html",
-     "pubDate": "Wed, 26 Aug 2026 06:03:58 +0800",
-     "summary": "8月26日(星期三)，今日报刊头条主要内容精华如下： 中国证券报 美伊谈判最新消息 据伊朗塔斯尼姆通讯社25日报道，一名接近伊朗谈判团队的消息人士表示，伊方希望通过巴基斯坦向美方明确转达有关霍尔木兹海峡的立场和谈判条件。 PCB龙头业绩利好！ 8月25日晚， PCB （ 印制电路板 ）概念股 沪电股份 、 红板科技 披露2026年半年度报告。 沪电股份 半年报显示，报告期内，公司实现营业收入136.89亿元，同比增长61.17%；归属于上市公司股东的净利润为29.23亿元，同比增长73.72%。 马云与管理层继续出手增持阿里 连日买入超8亿港元 8月25日，据消息人士透露，随着阿里发起配售融资",
-     "source": "东方财富资讯",
-     "zh": "8月26日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "Here are the major earnings before the open Wednesday",
-     "link": "https://seekingalpha.com/news/4636614-here-are-the-major-earnings-before-the-open-wednesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 25 Aug 2026 18:00:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Here are the major earnings before the open Wednesday"
     }
    ]
   },

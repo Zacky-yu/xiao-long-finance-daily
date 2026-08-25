@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/8/26 06:29:52",
+ "generated_at": "2026/8/26 06:59:37",
  "recent_days": 7,
  "industries": [
   {
@@ -953,14 +953,6 @@
      "zh": "Hydrogen Is Still A Tonnes Market, No Matter How Many MWh We Assign To It"
     },
     {
-     "title": "PacifiCorp to suspend California energy efficiency programs under proposed settlement",
-     "link": "https://www.utilitydive.com/news/pacificorp-suspend-california-energy-efficiency-programs/828721/",
-     "pubDate": "Tue, 25 Aug 2026 11:14:15 -0400",
-     "summary": "The programs have &ldquo;historically not provided cost-effectiveness benefits to ratepayers and, indeed, show a decline in performance in recent years,&rdquo; said the&nbsp;California Public Utilities Commission&rsquo;s&nbsp;Public Advocates Office.",
-     "source": "Utility Dive",
-     "zh": "PacifiCorp to suspend California energy efficiency programs under proposed settlement"
-    },
-    {
      "title": "Data centers can vanish from the grid in seconds; reliability rules need to catch up",
      "link": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
      "pubDate": "Tue, 25 Aug 2026 11:00:00 -0400",
@@ -1087,6 +1079,14 @@
      "summary": "US lithium-sulphur battery company Lyten is aiming to acquire another of Europe’s failed homegrown battery startups, Norway’s Morrow Batteries, which went into bankruptcy earlier this year.",
      "source": "Energy Storage News",
      "zh": "US firm Lyten sets sights on Norway’s Morrow Batteries following Northvolt acquisition"
+    },
+    {
+     "title": "China adds 14.1GW solar PV in July as renewables installations rebound",
+     "link": "https://www.pv-tech.org/china-adds-14gw-solar-pv-july-2026/",
+     "pubDate": "Tue, 25 Aug 2026 10:35:05 +0000",
+     "summary": "Chinese solar PV installations have reached 14.08GW in July 2026, according to the latest data from China’s National Energy Administration (NEA).",
+     "source": "PV Tech",
+     "zh": "China adds 14.1GW solar PV in July as renewables installations rebound"
     }
    ]
   },
@@ -1297,6 +1297,22 @@
    "total": 6,
    "items": [
     {
+     "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "link": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+     "pubDate": "Tue, 25 Aug 2026 22:28:34 +0000",
+     "summary": "NASA’s Deep Space Network facility in California is marking the addition of a brand new 34-meter-wide (114-foot-wide) radio frequency antenna to the agency’s deep space communications and navigation system. The network uses giant dish antennas located at three global facilities to support more than ",
+     "source": "NASA",
+     "zh": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network"
+    },
+    {
+     "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg",
+     "link": "https://spaceflightnow.com/2026/08/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/",
+     "pubDate": "Tue, 25 Aug 2026 22:28:32 +0000",
+     "summary": "The Falcon 9 rocket will fly on a south-easterly trajectory upon launching from Vandenberg Space Force Base. Liftoff is scheduled for 2:34 a.m. PDT (5:34 a.m. EDT / 0934 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg"
+    },
+    {
      "title": "'You just saved the video dish': Two astronauts complete spacewalk to replace ISS antenna",
      "link": "https://www.space.com/space-exploration/international-space-station/you-just-saved-the-video-dish-two-astronauts-complete-spacewalk-to-replace-iss-antenna",
      "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
@@ -1391,14 +1407,6 @@
      "summary": "Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A new gallery released today from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety. Astronomers put galaxies into three ",
      "source": "NASA",
      "zh": "Galactic Gems Glisten in New Gallery From NASA’s Chandra"
-    },
-    {
-     "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
-     "link": "https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/",
-     "pubDate": "Tue, 25 Aug 2026 14:57:26 +0000",
-     "summary": "From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station on Aug. 18, 2026.",
-     "source": "NASA",
-     "zh": "Astronauts Anil Menon and Sophie Adenot on Spacewalk"
     },
     {
      "title": "Sun fires powerful M6.9 solar flare and CME toward Earth — could it boost northern lights chances this week?",
@@ -1527,14 +1535,6 @@
      "summary": "The Starlink 15-20 mission represented the 99th Falcon 9 rocket launch of the year. Liftoff from pad 4 East happened at 12:25 a.m. PDT (3:25 a.m. EDT / 0725 UTC).",
      "source": "Spaceflight Now",
      "zh": "SpaceX launches 100th orbital mission of 2026"
-    },
-    {
-     "title": "Ship 41 Completes Engine Testing Ahead of Flight 14",
-     "link": "https://www.nasaspaceflight.com/2026/08/ship-41-engine-testing-flight-14/",
-     "pubDate": "Fri, 21 Aug 2026 18:45:52 +0000",
-     "summary": "While Ship 40 is preparing to be transported back to Starbase from Christmas Island, Ship… The post Ship 41 Completes Engine Testing Ahead of Flight 14 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Ship 41 Completes Engine Testing Ahead of Flight 14"
     }
    ]
   },
@@ -1745,12 +1745,84 @@
    "total": 18,
    "items": [
     {
+     "title": "OpenAI 发布适用于 ChatGPT Work 和 Codex 的 Admin 插件，管理员可通过对话管理用户和权限",
+     "link": "https://www.ithome.com/0/994/294.htm",
+     "pubDate": "Tue, 25 Aug 2026 22:55:08 GMT",
+     "summary": "IT之家 8 月 26 日消息，OpenAI 推出了一款全新的 ChatGPT Admin 插件，让工作区管理员可以直接通过对话管理用户和权限、分析使用情况，并根据相关数据生成报告。 OpenAI 今日宣布，面向 ChatGPT Work 和 Codex 推出全新的 Admin 管理插件。这项工具允许工作区管理员直接在 ChatGPT 中调整设置、提出问题，并根据工作区的使用情况和活动数据生成报告。 OpenAI 表示，通过 Admin 插件，管理员可以直接在 ChatGPT Work 和 Codex 中完成日常管理工作，包括但不限于以下几个方面。 首先是了解产品的采用和使用情况。管理员可以查",
+     "source": "IT之家",
+     "zh": "OpenAI 发布适用于 ChatGPT Work 和 Codex 的 Admin 插件，管理员可通过对话管理用户和权限"
+    },
+    {
+     "title": "Commodore 联合 CDPR 推出《赛博朋克 2077》主题特别版 Commodore 77 复古电脑，377 美元",
+     "link": "https://www.ithome.com/0/994/293.htm",
+     "pubDate": "Tue, 25 Aug 2026 22:54:16 GMT",
+     "summary": "IT之家 8 月 26 日消息，Commodore 联手 CD PROJEKT RED，为旗下 Commodore 77 复古电脑推出一款《赛博朋克 2077》主题特别版，这是 Commodore 品牌历史上首次推出基于游戏 IP 打造的联名硬件，目前已经开启预订，售价 377 美元 （IT之家注：现汇率约合 2,540 元人民币） ，预计 2027 年初发货。 该产品以 Commodore 64 Ultimate 为基础，采用《赛博朋克 2077》风格半透明烟灰色机身，带有金属铭牌及青绿色氛围灯，机身底座同时还拥有可随音乐变化的 LED 灯效。 此外，Commodore 77 还提供大量《赛",
+     "source": "IT之家",
+     "zh": "Commodore 联合 CDPR 推出《赛博朋克 2077》主题特别版 Commodore 77 复古电脑，377 美元"
+    },
+    {
+     "title": "古尔曼：苹果智能家居显示屏仍有望于今年推出",
+     "link": "https://www.ithome.com/0/994/292.htm",
+     "pubDate": "Tue, 25 Aug 2026 22:48:18 GMT",
+     "summary": "IT之家 8 月 26 日消息，据彭博社记者马克・古尔曼（Mark Gurman）透露，苹果仍按计划将在今年年底前推出首款配备屏幕的智能家居设备。 古尔曼再次表示，这款设备将通过面部识别判断站在屏幕前的是谁，并为不同用户提供个性化内容。这一说法与本周早些时候在 macOS Tahoe 26.7 代码中发现的信息相吻合。相关代码显示，这款智能家居中枢将支持多个用户配置文件，并通过“环境感知”功能确认用户身份。 古尔曼还称，作为苹果重新发力智能家居市场计划的一部分，公司还在准备推出新款 Apple TV，以及升级版 HomePod mini。 关于苹果智能家居中枢的传闻已经流传多年。据悉，这款产品",
+     "source": "IT之家",
+     "zh": "古尔曼：苹果智能家居显示屏仍有望于今年推出"
+    },
+    {
+     "title": "Piston V 迷你主机开启众筹：自带 4 英寸圆形触控屏、AMD 锐龙 AI 9 365 处理器",
+     "link": "https://www.ithome.com/0/994/291.htm",
+     "pubDate": "Tue, 25 Aug 2026 22:47:08 GMT",
+     "summary": "IT之家 8 月 26 日消息，制造商 Piston V 宣布推出一款同名 Piston V 迷你主机，该机现已在 Kickstarter 开启众筹并已众筹成功，该机自带一块圆形触控屏，匹配 16GB RAM 和 500GB M.2 SSD，超级早鸟价为 559 美元 （IT之家注：现汇率约合 3,767 元人民币） 。 Piston V 整体造型俏皮，采用银灰 + 橙色撞色设计，正面配备一块 4 英寸圆形 720x720 分辨率 IPS LCD 触控面板。 该机采用 AMD 锐龙 AI 9 365 处理器，匹配 16GB DDR5-5600 RAM 和 500GB M.2 SSD，I/O 方",
+     "source": "IT之家",
+     "zh": "Piston V 迷你主机开启众筹：自带 4 英寸圆形触控屏、AMD 锐龙 AI 9 365 处理器"
+    },
+    {
+     "title": "三星 Galaxy S27 Ultra 手机渲染图曝光：背面相机模组迎最大变化，保留 S Pen 插槽",
+     "link": "https://www.ithome.com/0/994/290.htm",
+     "pubDate": "Tue, 25 Aug 2026 22:45:48 GMT",
+     "summary": "IT之家 8 月 26 日消息，科技媒体 Android Headline 昨日（8 月 25 日）发布博文， 分享了一组渲染图，展示了三星 Galaxy S27 Ultra 旗舰手机。 外观方面，三星 Galaxy S27 Ultra 大体延续 Galaxy S26 Ultra 的设计，最大变化是摄像头模组。渲染图显示三星将原本沿机身左侧纵向排列的镜头，改为位于机身顶部的“摄像头矩阵”。 该媒体认为，三星 Galaxy S27 Ultra 的全新后摄方案会让人联想到苹果 iPhone 17 Pro 和 iPhone 17 Pro Max，不过类似设计此前已经出现在 Galaxy S26 Ed",
+     "source": "IT之家",
+     "zh": "三星 Galaxy S27 Ultra 手机渲染图曝光：背面相机模组迎最大变化，保留 S Pen 插槽"
+    },
+    {
+     "title": "苹果地图广告正式在美国、加拿大上线，且无法关闭",
+     "link": "https://www.ithome.com/0/994/289.htm",
+     "pubDate": "Tue, 25 Aug 2026 22:44:40 GMT",
+     "summary": "IT之家 8 月 26 日消息，苹果地图中的广告已经正式在美国和加拿大上线，这意味着 iPhone 和 iPad 用户在搜索地点以及查看“推荐地点”时，都可能看到广告内容。 苹果早在今年 3 月就宣布，计划在地图 App 中引入广告，并表示该功能将从夏末开始陆续推出。苹果近日向 9to5Mac 证实，过去几天里，部分用户已经开始看到地图广告，未来几周广告的投放范围还将进一步扩大。 用户在发起搜索时，“推荐地点”区域可能会显示广告。如果用户搜索的关键词被某家公司购买了广告位，那么相关广告也会出现在搜索结果中。广告将被置于搜索结果的顶部，每组搜索结果最多显示一条广告。 目前，苹果地图并没有提供关闭",
+     "source": "IT之家",
+     "zh": "苹果地图广告正式在美国、加拿大上线，且无法关闭"
+    },
+    {
+     "title": "历史无法预见AI的未来",
+     "link": "https://www.huxiu.com/article/4885981.html?f=rss",
+     "pubDate": "Wed, 26 Aug 2026 06:43:11 +0800",
+     "summary": "本文来自微信公众号： 青野有枯荣 ，作者：青野Tsingyeh 7月权益市场的大幅调整伴随着“AI泡沫”辩论的激化，至今市场仍围绕“反弹还是反转”博弈不休。这早已不是市场第一次质疑“泡沫”：抛开过去两年的诸多起伏，哪怕从去年11月算起，市场也已围绕宏观冲击、债务与现金流、AI下游应用、硬件涨价持续性等等方面做过辩论和博弈。不难看到：每一次质疑，都以明确的产业进展和市场新高收尾。需要承认，7月的回撤之深让人直觉上感到担忧：纵使承认AI仍然拥有广阔终局，是不是也要关心眼前的坎？“这次不一样”究竟是产业现实还是市场叙事？……我们也看到，不少自上而下的投资者和研究者，参考历史中诸多技术革命的场景，对A",
+     "source": "虎嗅",
+     "zh": "历史无法预见AI的未来"
+    },
+    {
+     "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+     "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+     "pubDate": "Tue, 25 Aug 2026 22:21:06 +0000",
+     "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
+     "source": "Ars Technica",
+     "zh": "The world's busiest spaceport is about to get a lot quieter, at least for now"
+    },
+    {
      "title": "Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline (Sarah Perez/TechCrunch)",
      "link": "https://www.techmeme.com/260825/p44#a260825p44",
      "pubDate": "Tue, 25 Aug 2026 18:20:01 -0400",
      "summary": "Sarah Perez / TechCrunch : Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline &nbsp; &mdash;&nbsp; Nitter, an open source project that allowed people to read X posts without logging into or e",
      "source": "Techmeme",
      "zh": "Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline (Sarah Perez/TechCrunch)"
+    },
+    {
+     "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+     "link": "https://github.com/swimmingbrain/texbrain",
+     "pubDate": "Tue, 25 Aug 2026 22:08:50 +0000",
+     "summary": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just work,",
+     "source": "Hacker News",
+     "zh": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM"
     },
     {
      "title": "‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance",
@@ -1769,18 +1841,10 @@
      "zh": "Intuit reports Q4 revenue up 14% YoY to $4.35B, vs. $4.27B est., and forecasts FY 2027 revenue growth of 9% to 10%, below ~11% est.; INTU drops 8%+ after hours (Wall Street Journal)"
     },
     {
-     "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
-     "link": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
-     "pubDate": "Tue, 25 Aug 2026 21:43:37 +0000",
-     "summary": "Article URL: https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN Comments URL: https://news.ycombinator.com/item?id=49441101 Points: 3 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool"
-    },
-    {
      "title": "Python's pre-declared constants are kinda weird",
      "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
      "pubDate": "Tue, 25 Aug 2026 21:39:02 +0000",
-     "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 21 # Comments: 1",
+     "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 57 # Comments: 8",
      "source": "Hacker News",
      "zh": "Python's pre-declared constants are kinda weird"
     },
@@ -1825,18 +1889,10 @@
      "zh": "World humanoid robot games show runners breaking records, bursting into flames"
     },
     {
-     "title": "法国光学巨头依视路陆逊梯卡大量增持尼康股份，逼近 20% 法律上限",
-     "link": "https://www.ithome.com/0/994/287.htm",
-     "pubDate": "Tue, 25 Aug 2026 20:51:20 GMT",
-     "summary": "IT之家 8 月 26 日消息，消息源 Nikon Rumors 上周（8 月 23 日）发文称，法国光学巨头依视路陆逊梯卡正在迅速增持尼康股份，当前持股比例已接近 20%。部分人士认为，依视路这种行为是在为收购尼康铺平道路。 IT之家在此援引 Nikon Rumors，依视路陆逊梯卡从 2024 年开始持续增持尼康股份，2024 年 10 月披露持股比例达 5.1%。到 2025 年 10 月，该公司手持的尼康股份已经达到 10.75%-10.8%，成为尼康第一大股东。 随后依视路陆逊梯卡获得日本政府根据《外汇及对外贸易法》作出的批准，可将尼康持股比例进一步提升至最高 20%。 2026 年",
-     "source": "IT之家",
-     "zh": "法国光学巨头依视路陆逊梯卡大量增持尼康股份，逼近 20% 法律上限"
-    },
-    {
      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
      "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
      "pubDate": "Tue, 25 Aug 2026 20:49:03 +0000",
-     "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 25 # Comments: 12",
+     "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 30 # Comments: 17",
      "source": "Hacker News",
      "zh": "When str.lower() is a security vulnerability in Python – Seth Larson"
     },
@@ -1847,46 +1903,6 @@
      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
      "source": "TechCrunch",
      "zh": "X sends cease-and-desist to open source project Nitter over alleged scraping"
-    },
-    {
-     "title": "《最终幻想 7：启示录》游戏第二支预告公布，2027 年春季发售",
-     "link": "https://www.ithome.com/0/994/286.htm",
-     "pubDate": "Tue, 25 Aug 2026 20:35:03 GMT",
-     "summary": "IT之家 8 月 26 日消息，史克威尔艾尼克斯今天在 2026 科隆游戏展放出《最终幻想 7：启示录》的第二支预告片。 本作将于 2027 年春季发售，登陆 PC、Switch 2、PS5 和 Xbox Series X|S 平台 。 IT之家了解到， 《最终幻想 7：启示录》是《最终幻想 7》重制三部曲的终章 。主角克劳德 · 史特莱夫将在游戏中乘坐飞空艇“海温德号”遨游天际，自由探索广袤的开放世界。 本次预告重点展示了克劳德与敌人“星球守护者”的战斗画面。红宝石、绿宝石和最终之剑都将在游戏中以全新造型登场，片中还出现了泰坦大先生的身影。",
-     "source": "IT之家",
-     "zh": "《最终幻想 7：启示录》游戏第二支预告公布，2027 年春季发售"
-    },
-    {
-     "title": "城市模拟游戏《乐高：天际线》亮相 2026 科隆游戏展",
-     "link": "https://www.ithome.com/0/994/285.htm",
-     "pubDate": "Tue, 25 Aug 2026 20:25:41 GMT",
-     "summary": "IT之家 8 月 26 日消息，在今日的 2026 科隆游戏展开幕夜首秀直播中，城市模拟游戏《 乐高：天际线 》正式公布。 作为乐高和《都市：天际线》两大 IP 的联合作品，《乐高：天际线》将登陆 PC、Xbox Series X|S、PS5、Switch 2 平台。 在这款自由度拉满的城市建造游戏里，你的每个抉择都将唤醒一座充满生机的都市。你可以大兴土木，也可以静心雕琢细微之处。没有条条框框，只有无限的空间与唯一的规则：打造只属于你的城市。 IT之家附游戏宣传片截图如下：",
-     "source": "IT之家",
-     "zh": "城市模拟游戏《乐高：天际线》亮相 2026 科隆游戏展"
-    },
-    {
-     "title": "《过山车大亨》系列重启：雅达利公布全新作品，今年冬季开启抢先体验",
-     "link": "https://www.ithome.com/0/994/284.htm",
-     "pubDate": "Tue, 25 Aug 2026 20:23:50 GMT",
-     "summary": "IT之家 8 月 26 日消息，雅达利今天在 2026 科隆游戏展公布《过山车大亨 Wonderworks》，意味着《过山车大亨》这款沉寂多年的模拟经营系列游戏终于迎来重启。 IT之家了解到，《过山车大亨》上一次推出新作还是 2016 年的《过山车大亨世界》，但这款游戏当时口碑不佳，如今雅达利选择再次启用这一经典 IP。 据介绍，《过山车大亨 Wonderworks》由 Springloaded 开发组制作， 画面风格较为卡通化 。玩家将在游戏中建造并经营自己的主题乐园，从管理财务到定制游乐设施，掌控乐园的方方面面。 同时，本作采用非常“真实”的物理引擎，游乐设施会突然发生夸张的故障，让公园游",
-     "source": "IT之家",
-     "zh": "《过山车大亨》系列重启：雅达利公布全新作品，今年冬季开启抢先体验"
-    },
-    {
-     "title": "国产抗日 FPS 游戏《抵抗者》2026 科隆游戏展最新实机演示公布",
-     "link": "https://www.ithome.com/0/994/283.htm",
-     "pubDate": "Tue, 25 Aug 2026 20:15:56 GMT",
-     "summary": "IT之家 8 月 26 日消息，国产抗日 FPS 游戏《 抵抗者 》今日亮相 2026 科隆游戏展，公布了最新实机演示视频。 《抵抗者》由杭州浩汤科技开发、4Divinity 发行，是一款以 20 世纪 40 年代中国抗日战争为背景的第一人称射击游戏。IT之家此前报道，游戏官方此前已经在 7 月 30 日公布了最新实机演示，并在 ChinaJoy 上开放试玩。 这款游戏采用虚幻 5 引擎开发，在 FPS 玩法基础上融入谍战、潜入、解谜等元素。在叙事和玩法设计上，游戏采用类似《使命召唤》的战役关卡模式，全作规划四大章节，分别对应春、夏、秋、冬四个主题。玩家将扮演抗联战士、情报员等不同身份，前往包",
-     "source": "IT之家",
-     "zh": "国产抗日 FPS 游戏《抵抗者》2026 科隆游戏展最新实机演示公布"
-    },
-    {
-     "title": "《巫师 3：狂猎 — 重制版》官宣 9 月 29 日上线：所有玩家免费升级，两部资料片免费送",
-     "link": "https://www.ithome.com/0/994/282.htm",
-     "pubDate": "Tue, 25 Aug 2026 20:05:04 GMT",
-     "summary": "IT之家 8 月 26 日消息，在今日的 2026 科隆游戏展开幕夜首秀直播中，CDPR 官宣《巫师 3：狂猎 — 重制版》游戏将于 9 月 29 日上线， 所有已拥有游戏的玩家均可免费升级 。 《巫师 3：狂猎 — 重制版》将带来一系列改进， 包括画面、玩法等多方面升级 。游戏将于 9 月 29 日上线，且所有已在 GOG、Steam、Epic Games Store、PlayStation 5 和 Xbox Series X|S 平台拥有本作的玩家均可免费升级至重制版。本作目前也已在 Battle.net 和 Nintendo Switch 2 平台开放预购。 IT之家从直播获悉，所有目前",
-     "source": "IT之家",
-     "zh": "《巫师 3：狂猎 — 重制版》官宣 9 月 29 日上线：所有玩家免费升级，两部资料片免费送"
     },
     {
      "title": "Skild AI unveils S1, a robotics foundation model that it says can learn tasks never seen during pretraining, using a single video demo, without fine-tuning (Skild AI)",
@@ -1900,7 +1916,7 @@
      "title": "C2PA Cameras Do Not Survive Contact with Reality",
      "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
      "pubDate": "Tue, 25 Aug 2026 19:38:24 +0000",
-     "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 33 # Comments: 8",
+     "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 48 # Comments: 13",
      "source": "Hacker News",
      "zh": "C2PA Cameras Do Not Survive Contact with Reality"
     },
@@ -1908,7 +1924,7 @@
      "title": "A brief history of federal lift ticket regulation",
      "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
      "pubDate": "Tue, 25 Aug 2026 19:25:43 +0000",
-     "summary": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 8 # Comments: 0",
      "source": "Hacker News",
      "zh": "A brief history of federal lift ticket regulation"
     },
@@ -1967,22 +1983,6 @@
      "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
      "source": "TechCrunch",
      "zh": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana"
-    },
-    {
-     "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
-     "link": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
-     "pubDate": "Tue, 25 Aug 2026 18:22:50 +0000",
-     "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!",
-     "source": "TechCrunch",
-     "zh": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit"
-    },
-    {
-     "title": "The US Just Recorded Its First 2 Measles Deaths This Year",
-     "link": "https://www.wired.com/story/us-recorded-first-measles-deaths-2026/",
-     "pubDate": "Tue, 25 Aug 2026 18:17:07 +0000",
-     "summary": "The fatalities come amid declining vaccination rates and calls from President Donald Trump to split up the MMR vaccine.",
-     "source": "WIRED",
-     "zh": "The US Just Recorded Its First 2 Measles Deaths This Year"
     }
    ]
   },
@@ -1992,6 +1992,38 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Notability can now organize meeting recordings, transcriptions, and notes around your calendar",
+     "link": "https://9to5mac.com/2026/08/25/notability-can-now-organize-meeting-recordings-transcriptions-and-notes-around-your-calendar/",
+     "pubDate": "Tue, 25 Aug 2026 22:49:13 +0000",
+     "summary": "Notability today announced a new desktop workflow that lets Mac users start recording sessions directly from their calendar events, with the resulting notes automatically organized around their schedule. Here are the details.",
+     "source": "9to5Mac",
+     "zh": "Notability can now organize meeting recordings, transcriptions, and notes around your calendar"
+    },
+    {
+     "title": "9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled",
+     "link": "https://9to5mac.com/2026/08/25/daily-august-25-2026/",
+     "pubDate": "Tue, 25 Aug 2026 22:48:14 +0000",
+     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co",
+     "source": "9to5Mac",
+     "zh": "9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled"
+    },
+    {
+     "title": "Here are three sick Gibson guitar controllers made for Stage Tour's Dec. 10 release",
+     "link": "https://www.engadget.com/2244257/three-sick-gibson-guitar-controllers-made-for-stage-tour-december-10-release-date/",
+     "pubDate": "Tue, 25 Aug 2026 22:42:07 +0000",
+     "summary": "CRKD is mining nostalgia for its latest guitar trio.",
+     "source": "Engadget",
+     "zh": "Here are three sick Gibson guitar controllers made for Stage Tour's Dec. 10 release"
+    },
+    {
+     "title": "Lego Skylines is a cozy city builder from the studio that's repairing Cities: Skylines II",
+     "link": "https://www.engadget.com/2244251/lego-skylines-is-a-cozy-city-builder-from-the-studio-that-s-repairing-cities-skylines-ii/",
+     "pubDate": "Tue, 25 Aug 2026 22:30:31 +0000",
+     "summary": "Iceflake Studios is preparing a cozy new city builder centered on the famous bricks.",
+     "source": "Engadget",
+     "zh": "Lego Skylines is a cozy city builder from the studio that's repairing Cities: Skylines II"
+    },
     {
      "title": "Life360 adds new pet care tools to help keep your household in sync",
      "link": "https://www.androidauthority.com/life360-new-pet-care-features-3703038/",
@@ -2012,7 +2044,7 @@
      "title": "Here are all the Apple devices with full Wi-Fi 7 support",
      "link": "https://9to5mac.com/2026/08/25/here-are-all-the-apple-devices-with-full-wi-fi-7-support/",
      "pubDate": "Tue, 25 Aug 2026 21:45:10 +0000",
-     "summary": "Today, Apple updated the Mac mini and Mac Studio , bringing Wi-Fi 7 support to both product lines for the first time. Here’s the full list of Apple devices that support all Wi-Fi 7 features.",
+     "summary": "Today, Apple updated the Mac mini and Mac Studio , bringing Wi-Fi 7 support to both product lines for the first time. Here’s the full list of Apple devices that support all Wi-Fi 7 features .",
      "source": "9to5Mac",
      "zh": "Here are all the Apple devices with full Wi-Fi 7 support"
     },
@@ -2089,22 +2121,6 @@
      "zh": "iOS 27 release date: Here’s when the new iPhone update will launch"
     },
     {
-     "title": "BenQ's first dual-monitor desk lamp will give your screens a glow up",
-     "link": "https://www.engadget.com/2244137/benq-screenbar-max-first-dual-monitor-desk-lamp/",
-     "pubDate": "Tue, 25 Aug 2026 20:30:25 +0000",
-     "summary": "BenQ's first dual-monitor desk lamp is excellent, but it'll cost you.",
-     "source": "Engadget",
-     "zh": "BenQ's first dual-monitor desk lamp will give your screens a glow up"
-    },
-    {
-     "title": "SpaceX to use NVIDIA GPUs for its Starmind project — Here's what they'll face in space",
-     "link": "https://www.engadget.com/2243934/spacex-use-nvidia-gpu-for-starmind-project/",
-     "pubDate": "Tue, 25 Aug 2026 20:30:00 +0000",
-     "summary": "Elon Musk wants to harness solar energy for AI.",
-     "source": "Engadget",
-     "zh": "SpaceX to use NVIDIA GPUs for its Starmind project — Here's what they'll face in space"
-    },
-    {
      "title": "The Sideload 042: A genderless Pixel experience",
      "link": "https://9to5google.com/2026/08/25/the-sideload-042-a-genderless-pixel-experience/",
      "pubDate": "Tue, 25 Aug 2026 20:30:00 +0000",
@@ -2153,14 +2169,6 @@
      "zh": "Samsung's updated Smart Switch is easier to use and copies more data"
     },
     {
-     "title": "Three new Macs are launching this fall, here’s what’s coming",
-     "link": "https://9to5mac.com/2026/08/25/three-new-macs-are-launching-this-fall-heres-whats-coming/",
-     "pubDate": "Tue, 25 Aug 2026 19:54:57 +0000",
-     "summary": "Apple launched two new products today— Mac mini and Mac Studio —but three more Macs are rumored to arrive this fall. Here’s what’s coming.",
-     "source": "9to5Mac",
-     "zh": "Three new Macs are launching this fall, here’s what’s coming"
-    },
-    {
      "title": "Can’t wait for the Galaxy S26 FE? Check out these cases to tide you over",
      "link": "https://www.androidauthority.com/samsung-galaxy-s26-fe-cases-3702917/",
      "pubDate": "Tue, 25 Aug 2026 19:26:24 +0000",
@@ -2171,9 +2179,9 @@
     {
      "title": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]",
      "link": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
-     "pubDate": "Tue, 25 Aug 2026 18:48:18 +0000",
+     "pubDate": "Tue, 25 Aug 2026 18:45:00 +0000",
      "summary": "Pebblebee has launched “LÔC8,” a unique new Android Find Hub / Apple Find My tracker that’s designed to hide within your bike handles, golf clubs, and other places to help you keep tabs on your gear.",
-     "source": "9to5Mac",
+     "source": "9to5Google",
      "zh": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]"
     },
     {
@@ -2223,14 +2231,6 @@
      "summary": "Following a premature retailer listing in Europe earlier this month, the Redmi 17C 5G is now officially unveiled. As the name implies, this is the 5G counterpart to the Redmi 17C 4G and, as such, features a Dimensity 6300 chipset. It is paired with 4GB of LPDDR4X RAM and 64/128GB of UFS 2.2 storage.",
      "source": "GSMArena",
      "zh": "Redmi 17C 5G goes official with Dimensity 6300 SoC and 6,000mAh battery"
-    },
-    {
-     "title": "This $200, 99Wh V-mount battery is travel-ready",
-     "link": "https://www.dpreview.com/articles/this-200-99wh-v-mount-battery-is-travel-ready/",
-     "pubDate": "Tue, 25 Aug 2026 15:00:00 +0000",
-     "summary": "The NEEWER PS099U combines compact V-mount power, fast recharging, flexible wired and wireless outputs, smart monitoring and safety features in a travel-friendly design.",
-     "source": "DPReview",
-     "zh": "This $200, 99Wh V-mount battery is travel-ready"
     }
    ]
   },
@@ -2241,52 +2241,108 @@
    "total": 13,
    "items": [
     {
-     "title": "敢投成立数月的具身智能企业 险资的“稳健”人设变了吗",
-     "link": "http://finance.eastmoney.com/news/1354,202608263853540327.html",
-     "pubDate": "Wed, 26 Aug 2026 06:18:32 +0800",
-     "summary": "“我们没想到，以稳健著称的险资能在这么早的阶段敢于出手。”在上海苏度科技有限公司会议室，当谈及国寿股权投资有限公司（ 中国人寿 集团旗下国寿健投公司全资子公司，以下简称“国寿股权”）的那轮投资时，公司商业副总裁张校珩至今仍觉得有些意外。 2026年1月，国寿股权领投苏度科技Pre-A++轮融资。彼时，这家成立仅数月的具身智能企业，选择了一条行业公认最难的技术路线，商业化前景尚不明朗。按照传统投资逻辑，这一标的属于一张“风险过高”的牌。但国寿股权不仅投了，还在后续轮次持续加码。 张校珩后来理解了这一系列投资布局背后的逻辑：“投资人必须理解技术迭代的长周期规律，不能催促企业用短期订单换长期目标。国",
-     "source": "东方财富股票",
-     "zh": "敢投成立数月的具身智能企业 险资的“稳健”人设变了吗"
+     "title": "美联储明年票委警告：美国债务膨胀或令投资者抛售美债",
+     "link": "https://wallstreetcn.com/articles/3780292",
+     "pubDate": "Wed, 26 Aug 2026 06:52:20 +0800",
+     "summary": "30年期美债收益率升至2008年金融危机前水平，货币政策空间被压缩。 美联储一位官员发出罕见警告：美国政府债务持续扩张，最终可能导致债券买家退场。这一表态在30年期美债收益率攀升至逾十七年高点的背景下，凸显出财政压力对货币政策与市场的深层冲击。 里士满联储主席Thomas Barkin（2027年FOMC票委）将当前债务水平描述为美联储必须应对的持续性\"逆风\"。美国国债规模目前已突破40万亿美元，30年期美债收益率受财政忧虑与通胀风险共同推动，升至2008年全球金融危机前从未见过的高点。 这一警告的影响不止于债市。随着长端收益率攀升，企业债与股票估值均面临重新定价压力，外国央行、养老基金等传统",
+     "source": "华尔街见闻",
+     "zh": "美联储明年票委警告：美国债务膨胀或令投资者抛售美债"
     },
     {
-     "title": "努力实现“十五五”良好开局",
-     "link": "http://finance.eastmoney.com/news/1350,202608263853540972.html",
-     "pubDate": "Wed, 26 Aug 2026 06:18:24 +0800",
-     "summary": "● 新华社记者魏玉坤 受国务院委托，国家发展改革委副主任王昌林25日向全国人大常委会报告今年以来国民经济和社会发展计划执行情况。 王昌林在报告中介绍，上半年国内生产总值（GDP）同比增长4.7%，增量达3.6万亿元，为5年来同期最高水平。从目前掌握的经济社会发展相关数据以及各方面了解的情况看，计划执行情况总体较好。经济增长、就业、物价、外贸进出口等指标符合预期，市场消费、居民收入等指标稳定增长。财政金融、社会保障、生态环境、粮食产量等指标进展顺利。 这份国务院关于今年以来国民经济和社会发展计划执行情况的报告分析指出，我国经济基础稳、优势多、韧性强、潜能大，长期向好的支撑条件和基本趋势没有改变，",
-     "source": "东方财富股票",
-     "zh": "努力实现“十五五”良好开局"
+     "title": "【环球财经】美国8月消费者信心指数继续下滑",
+     "link": "http://www.eeo.com.cn/2026/0826/1011179.shtml",
+     "pubDate": "Wed, 26 Aug 2026 06:52:10 +0800",
+     "summary": "新华财经纽约8月25日电（记者刘亚南）美国研究机构世界大型企业联合会25日发布的初步调查结果显示，美国8月消费者信心指数为89.4，低于7月修订后的90.2，为连续第二个月走低，反...",
+     "source": "经济观察网",
+     "zh": "【环球财经】美国8月消费者信心指数继续下滑"
     },
     {
-     "title": "投资加码带动业绩释放 电力设备储能产业链迎周期回暖",
-     "link": "http://finance.eastmoney.com/news/1354,202608263853540788.html",
-     "pubDate": "Wed, 26 Aug 2026 06:18:22 +0800",
-     "summary": "2026年上半年，新型 电力 系统建设加速推进，两大电网维持高强度的固定资产投入， 特高压 、配网工程加快落地，储能装机需求持续释放。从 电网设备 大额框架订单落地，到储能企业营收利润大幅攀升， 锂 电材料环节利润修复， 电力 设备、储能产业链上市公司半年报透露出周期回暖信号。业内人士指出，板块虽处在需求上行周期，但结构性分化客观存在，后续项目落地节奏将成为检验产业链景气持续性的核心标尺。 电网投资托底设备企业订单与现金流改善 庞大的新型 电力 系统资本开支，持续转化为 电网设备 制造企业的订单与经营成果。上半年，线缆、电力一次设备企业营收稳健上行，订单储备、回款质量同步修复。 两大电网投资为",
-     "source": "东方财富股票",
-     "zh": "投资加码带动业绩释放 电力设备储能产业链迎周期回暖"
+     "title": "私募退出困局难解，结构化股权成“回血”新工具",
+     "link": "https://wallstreetcn.com/articles/3780291",
+     "pubDate": "Wed, 26 Aug 2026 06:51:33 +0800",
+     "summary": "私募股权行业正以一种新型融资工具应对长达数年的流动性危机。 在利率高企、资产出售受阻的背景下， 全球大型基金转向\"结构化股权\"交易，通过与Apollo Global Management、贝恩资本等私募资本巨头达成定制化融资协议，在无需出售资产的前提下向投资者返还现金。 这一趋势正从美欧向亚洲蔓延，并已成为行业应对退出僵局的核心手段之一。 目前，全球收购基金共持有约3.8万亿美元的未售出资产，平均持有期已延长至七年。这一局面令衡量基金回报能力的核心指标——已缴资本分配率（DPI）——去年跌至2000年以来的历史低位。麦肯锡合伙人Rahel Schneider将其称为行业的\"结构性问题\"。 结构",
+     "source": "华尔街见闻",
+     "zh": "私募退出困局难解，结构化股权成“回血”新工具"
     },
     {
-     "title": "业绩增长添底气 券商中期分红预案纷至沓来",
-     "link": "http://finance.eastmoney.com/news/1354,202608263853540662.html",
-     "pubDate": "Wed, 26 Aug 2026 06:18:20 +0800",
-     "summary": "● 本报记者胡雨 随着A股上市券商2026年中报密集披露，2026年中期分红预案也陆续呈现在投资者面前。Wind数据显示，截至8月25日中国证券报记者发稿时，已有15家上市券商披露2026年半年报，其中10家上市券商公布中期分红预案，拟派现金额合计近170亿元（含税，下同），这背后既有来自监管层的积极引导，更离不开上半年A股行情向好带来的业绩高增，为券商一年多次分红提供坚实底气。 尽管行业景气度仍维持在高位，但无论从板块估值还是机构持仓情况来看，当前券商板块仍处于相对低位水平，业内人士认为，券商板块配置价值有望进一步提升，头部券商的超额收益机会值得重视。此外，考虑到证券行业发展政策较为积极，一",
-     "source": "东方财富股票",
-     "zh": "业绩增长添底气 券商中期分红预案纷至沓来"
+     "title": "Anthropic加速IPO筹备：提拔新总法律顾问，前任转任国际特别大使",
+     "link": "https://wallstreetcn.com/articles/3780293",
+     "pubDate": "Wed, 26 Aug 2026 06:50:58 +0800",
+     "summary": "Anthropic正在为今年晚些时候的上市计划积极备战，此次法律团队高层调整是其中关键一步。 据彭博报道， Anthropic已将助理总法律顾问Elena Leichty晋升为总法律顾问。前任总法律顾问、前美国驻澳大利亚大使Jeffrey Bleich则转任新设立的国际特别大使职务，聚焦全球政策与外交事务。 随着Leichty晋升，其原职位由多伦多的助理总法律顾问Rob Hester接任。 Hester于2024年加入Anthropic，此前在亚马逊任职近五年。 此次人事调整发生在Anthropic积极扩充高层政策团队的背景下。本月早些时候，公司刚刚宣布聘请前加州最高法院大法官Mariano-",
+     "source": "华尔街见闻",
+     "zh": "Anthropic加速IPO筹备：提拔新总法律顾问，前任转任国际特别大使"
     },
     {
-     "title": "AI硬件进入业绩验证阶段 应用端将逐步成为重点关注方向",
-     "link": "http://finance.eastmoney.com/news/1348,202608263853541070.html",
-     "pubDate": "Wed, 26 Aug 2026 06:18:19 +0800",
-     "summary": "● 本报记者吴玉华 近几年，AI硬件板块经历了一轮波澜壮阔的行情。市场用两年时间验证了AI算力需求的真实性，进入2026年，市场的核心争议已不再是AI算力需求的真实性，而是资本开支能否持续、最终能否形成足够高的投资回报率。而 AI应用 板块则在不同阶段出现阶段性的行情。 西南证券 研究院副院长、 计算机 及海外行业首席分析师王湘杰日前在接受中国证券报记者专访时表示，当前AI硬件环节已经进入业绩验证阶段，未来应用端将逐步成为市场关注的重要方向。AI硬件的海外链更多体现全球AI资本开支的β，而国产链除享受AI产业β之外，还叠加供应链重构带来的α机会。 近期调整是估值消化而非产业反转 近期，A股市场",
+     "title": "据政府官员等透露，韩国总统李在明将会见三星电子Jay Y. Lee和现代汽车Euisun Chung",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853545064.html",
+     "pubDate": "Wed, 26 Aug 2026 06:50:30 +0800",
+     "summary": "市场消息：据政府官员等透露，韩国总统李在明将会见三星 电子 Jay Y. Lee和现代 汽车 Euisun Chung。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "AI硬件进入业绩验证阶段 应用端将逐步成为重点关注方向"
+     "zh": "据政府官员等透露，韩国总统李在明将会见三星电子Jay Y. Lee和现代汽车Euisun Chung"
     },
     {
-     "title": "上半年数字产业利润总额增长19.3%",
-     "link": "http://finance.eastmoney.com/news/1348,202608263853540846.html",
-     "pubDate": "Wed, 26 Aug 2026 06:18:18 +0800",
-     "summary": "● 本报记者杨洁 工信部8月25日发布数据显示，上半年我国数字产业加快发展，总体呈现向优向好发展态势，业务收入保持较快增长，数字产业实现收入20.71万亿元，同比增长13.6%，增速同比加快4.1个百分点，较一季度加快0.7个百分点。 受国内 人工智能 需求增 长和 出口增势强劲双重拉动，数字产业盈利水平持续改善，上半年实现利润总额1.79万亿元，同比增长19.3%，增速较上年同期加快10.3个百分点。数字产业领域核心技术加快创新突破，新领域新赛道发展动能增强，为稳定经济增长、培育发展新质生产力、赋能千行百业数智转型提供有力支撑。 数字基础设施持续优化升级 数字产业是指提供与数字技术相关产品和",
+     "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+     "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+     "pubDate": "Tue, 25 Aug 2026 22:45:00 GMT",
+     "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
+     "source": "MarketWatch",
+     "zh": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved."
+    },
+    {
+     "title": "巴西财政部声明称，将于周三公布年度融资计划的调整方案",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853544550.html",
+     "pubDate": "Wed, 26 Aug 2026 06:43:31 +0800",
+     "summary": "巴西财政部声明称，将于周三公布年度融资计划的调整方案。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "上半年数字产业利润总额增长19.3%"
+     "zh": "巴西财政部声明称，将于周三公布年度融资计划的调整方案"
+    },
+    {
+     "title": "新版公积金条例彰显“投资于人”理念",
+     "link": "http://www.eeo.com.cn/2026/0826/1011174.shtml",
+     "pubDate": "Wed, 26 Aug 2026 06:39:16 +0800",
+     "summary": "灵活就业群体的实际情况不同，地区发展水平也有差异。扩大住房公积金制度覆盖面要尊重灵活就业人员意愿，不搞强制和“一刀切”，灵活就业人员可自...",
+     "source": "经济观察网",
+     "zh": "新版公积金条例彰显“投资于人”理念"
+    },
+    {
+     "title": "现货黄金突破4670美元/盎司，日内涨0.25%",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853544163.html",
+     "pubDate": "Wed, 26 Aug 2026 06:38:15 +0800",
+     "summary": "现货 黄金 突破4670美元/盎司，日内涨0.25%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "现货黄金突破4670美元/盎司，日内涨0.25%"
+    },
+    {
+     "title": "伊朗与阿曼拟建立霍尔木兹临时航道 俄媒获悉美伊将重启谈判",
+     "link": "http://stock.eastmoney.com/news/1768,202608263853544774.html",
+     "pubDate": "Wed, 26 Aug 2026 06:37:53 +0800",
+     "summary": "综合 外媒报道，伊朗与阿曼据悉正在推进一项管理霍尔木兹海峡船舶通行的临时方案。这是围绕这一关键能源通道持续数周的外交斡旋中出现的最新进展。 据了解，伊朗和阿曼两国外交官周二在德黑兰举行会谈，讨论建立“联合临时航行走廊”以及清除海峡水雷的方案。双方在联合声明中表示，将继续进行技术谈判，以推动建立永久航道以及未来海峡管理机制。 阿曼外交大臣赛义德·巴德尔·本·哈马德·布赛迪（Sayyid Badr bin Hamad Albusaidi）与伊朗外长阿巴斯·阿拉格奇（Abbas Araghchi）举行会谈后表示，双方讨论“具有建设性”。他称，希望很快宣布霍尔木兹海峡临时走廊以及“恢复安全航行的实际安",
+     "source": "东方财富股票",
+     "zh": "伊朗与阿曼拟建立霍尔木兹临时航道 俄媒获悉美伊将重启谈判"
+    },
+    {
+     "title": "密集注资香港子公司 中资券商国际化业务不断深化",
+     "link": "http://finance.eastmoney.com/news/1353,202608263853544434.html",
+     "pubDate": "Wed, 26 Aug 2026 06:37:29 +0800",
+     "summary": "随着2026年半年报陆续披露，中资券商国际业务增长动能进一步显现。部分头部券商境外平台收入、利润及资产规模增长较快，跨境投行、交易及机构服务等业务加速拓展。与此同时，今年以来，多家券商密集向香港子公司增资，头部机构增资规模达数十亿元乃至上百亿元，中小券商也通过增资、新设平台等方式加快出海，行业国际化布局呈现梯次推进态势。 业内人士认为，随着中国企业“走出去”和国际资本“引进来”需求持续增长，中资券商国际业务正由牌照和网点布局的竞争，转向资本实力、全球网络与 综合 服务能力的竞争。香港仍是中资券商连接内地与全球资本市场的核心枢纽，业务版图则逐步向欧美、东南亚和中东等市场延伸。未来，能否整合境内外",
+     "source": "东方财富股票",
+     "zh": "密集注资香港子公司 中资券商国际化业务不断深化"
+    },
+    {
+     "title": "【财经分析】加美贸易战背后的三重博弈",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853544340.html",
+     "pubDate": "Wed, 26 Aug 2026 06:37:07 +0800",
+     "summary": "新华财经北京8月26日电（记者徐超）加拿大和美国的贸易谈判日前在最后一刻宣告破裂，美国对价值200亿美元的加拿大商品征收50%的关税，加拿大宣布9月8日起对美征收等额报复性关税。美国总统特朗普24日宣布将把对加拿大 汽车 、 钢铁 等产品的进口关税提高至50%，加方则表示将很快公布对美具体反制措施。 分析人士认为，未来一段时间，加美在经济承受力、政治基本盘以及谈判主导权等方面的博弈将左右两国贸易关系走向，紧张局势升级或恢复贸易谈判的可能性均存在。 首先是经济博弈，即比拼谁更能承受经济冲击。根据美国商务部数据，包括服务贸易在内，去年美加双边贸易额接近9000亿美元，是全球最大的双边贸易关系之一。",
+     "source": "东方财富股票",
+     "zh": "【财经分析】加美贸易战背后的三重博弈"
+    },
+    {
+     "title": "纳斯达克23小时交易的背后：一场围绕订单与流动性的全球竞赛",
+     "link": "http://finance.eastmoney.com/news/1351,202608263853475662.html",
+     "pubDate": "Wed, 26 Aug 2026 06:26:58 +0800",
+     "summary": "美股交易规则即将迎来里程碑式变革。 纳斯达克 证券交易所日前正式确认，其新的“全球交易时段”计划将于2026年12月6日启动，届时 纳斯达克 将进入每周5天、每天23小时交易的新时代，每日仅休市一小时。 与此同时，纽约证券交易所、 芝加哥商业交易所 、 伦敦证券交易所 等全球主要交易所也纷纷推进延长交易或推出全天候合约。在业内人士看来，交易制度的改变将重塑全球投资者的交易习惯，更重要的是，一场围绕全球交易时段和订单流量的竞争正全面展开。 纳斯达克 确认12月6日启动23小时交易 纳斯达克日前披露的公告显示，今年第二季度初，美国证券交易委员会（SEC）批准了纳斯达克关于“23/5交易”的提案。纳",
+     "source": "东方财富资讯",
+     "zh": "纳斯达克23小时交易的背后：一场围绕订单与流动性的全球竞赛"
     },
     {
      "title": "美民主党议员敦促沃什维持FOMC每年8次会议：担忧削弱政策响应能力",
@@ -2423,62 +2479,6 @@
      "summary": "An ongoing shortage of compute could provide Meta with the opportunity to sell its capacity for a big premium.",
      "source": "MarketWatch",
      "zh": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card"
-    },
-    {
-     "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-     "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-     "pubDate": "Tue, 25 Aug 2026 21:00:00 GMT",
-     "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
-     "source": "MarketWatch",
-     "zh": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved."
-    },
-    {
-     "title": "Callaway Golf’s apology for ad showing woman being shoved to the ground exposes a major industry blind spot",
-     "link": "https://www.marketwatch.com/story/callaway-golfs-apology-for-ad-showing-woman-being-shoved-to-the-ground-exposes-a-major-industry-blind-spot-41101a13?mod=mw_rss_topstories",
-     "pubDate": "Tue, 25 Aug 2026 21:00:00 GMT",
-     "summary": "The viral ad shows a male golfer pushing a female golfer to the ground. Since 2019, women and girls made up nearly 60% of net golfer growth.",
-     "source": "MarketWatch",
-     "zh": "Callaway Golf’s apology for ad showing woman being shoved to the ground exposes a major industry blind spot"
-    },
-    {
-     "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
-     "link": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories",
-     "pubDate": "Tue, 25 Aug 2026 20:59:00 GMT",
-     "summary": "The chip maker is strongly positioned to gain share in the market for data-center CPUs and to see profit from revenue, a Raymond James analyst says.",
-     "source": "MarketWatch",
-     "zh": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs"
-    },
-    {
-     "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
-     "link": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
-     "pubDate": "Tue, 25 Aug 2026 20:56:00 GMT",
-     "summary": "Kodiak AI logged more than 40,000 paid driverless hours through the second quarter and is pushing to offer driverless highway operations by the end of 2026.",
-     "source": "MarketWatch",
-     "zh": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon"
-    },
-    {
-     "title": "SpaceX to build Musk’s vision for a spaceport that until now ‘only existed in science fiction’",
-     "link": "https://www.marketwatch.com/story/spacex-to-build-musks-vision-for-a-spaceport-that-until-now-only-existed-in-science-fiction-f8482712?mod=mw_rss_topstories",
-     "pubDate": "Tue, 25 Aug 2026 20:54:00 GMT",
-     "summary": "SpaceX says it will invest $100 billion to launch thousands of rockets from “Starbase, Louisiana,” with construction set to start in 2027.",
-     "source": "MarketWatch",
-     "zh": "SpaceX to build Musk’s vision for a spaceport that until now ‘only existed in science fiction’"
-    },
-    {
-     "title": "Anthropic拟向投资者披露超30万亿美元市场潜力，IPO估值目标约2万亿美元",
-     "link": "https://wallstreetcn.com/articles/3780285",
-     "pubDate": "Wed, 26 Aug 2026 04:44:13 +0800",
-     "summary": "Anthropic正就IPO筹备向投资者描绘一幅前所未有的市场愿景。 8月25日，据《华尔街日报》援引知情人士透露，这家Claude聊天机器人制造商拟告知投资者，其潜 在市场总规模（TAM）将超过30万亿美元，超越SpaceX此前创下的28.5万亿美元纪录。 Anthropic预计2028年收入将达约1900亿至2000亿美元，IPO估值目标约为2万亿美元，高于SpaceX上市时获得的1.77万亿美元估值。 该公司拟筹资规模最高可达1000亿美元。 预计公司将在未来数周内披露IPO财务文件， 最快或于9月或10月初完成上市。 与此同时，预测市场平台Polymarket数据显示，Anthropi",
-     "source": "华尔街见闻",
-     "zh": "Anthropic拟向投资者披露超30万亿美元市场潜力，IPO估值目标约2万亿美元"
-    },
-    {
-     "title": "SpaceX拟斥资1000亿美元在路易斯安那州建第三处星舰发射基地",
-     "link": "https://wallstreetcn.com/articles/3780287",
-     "pubDate": "Wed, 26 Aug 2026 04:44:06 +0800",
-     "summary": "SpaceX计划在美国路易斯安那州南部海岸斥资1000亿美元建设新发射基地，进一步扩展其星舰火箭的运营能力。 8月25日，据彭博报道，路易斯安那州州长Jeff Landry与SpaceX高管联合宣布这一计划，授权公司在沿海地区Pecan Island约12.5万英亩土地上建设该设施。 新基地将允许星舰向南越过墨西哥湾发射，并进入地球极轨道——这对SpaceX计划部署多达100万颗数据中心卫星的星座项目至关重要。 SpaceX首席执行官埃隆·马斯克此前曾设定雄心勃勃的目标，预计星舰在全面开发完成后将实现每日多次发射。拥有多处发射地点将赋予SpaceX更大灵活性以提升发射频次，尽管星舰今年迄今仅完",
-     "source": "华尔街见闻",
-     "zh": "SpaceX拟斥资1000亿美元在路易斯安那州建第三处星舰发射基地"
     }
    ]
   },
@@ -2503,6 +2503,14 @@
      "summary": "Pennsylvania health officials have reported two recent deaths from measles, marking the United States' first deaths from the highly infectious disease in 2026.",
      "source": "Live Science",
      "zh": "2 people die of measles in Pennsylvania as vaccination rates drop across the nation"
+    },
+    {
+     "title": "Lab supply companies have been selling antibodies using manipulated images",
+     "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+     "pubDate": "Tue, 25 Aug 2026 16:16:57 +0000",
+     "summary": "Image changes that would get a paper retracted are widespread among suppliers.",
+     "source": "Ars Technica Science",
+     "zh": "Lab supply companies have been selling antibodies using manipulated images"
     },
     {
      "title": "A new cancer vaccine may keep melanoma from coming back",
@@ -2719,14 +2727,6 @@
      "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
      "source": "Ars Technica Science",
      "zh": "Putting mice into hibernation causes a major loss of synapses"
-    },
-    {
-     "title": "‘Huge Breakthrough’ in the Math of Imbalance",
-     "link": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
-     "pubDate": "Fri, 21 Aug 2026 14:53:32 +0000",
-     "summary": "For the first time in 30 years, computer scientists have found a better way to allocate objects evenly between two groups. The post ‘Huge Breakthrough’ in the Math of Imbalance first appeared on Quanta Magazine",
-     "source": "Quanta Magazine",
-     "zh": "‘Huge Breakthrough’ in the Math of Imbalance"
     }
    ]
   }

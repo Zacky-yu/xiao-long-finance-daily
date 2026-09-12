@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/9/12 23:47:01",
+ "generated_at": "2026/9/13 02:12:01",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,14 @@ window.INDUSTRY_DATA = {
      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
      "source": "OpenAI",
      "zh": "Perplexity trusts GPT-6 Astra with end-to-end systems"
+    },
+    {
+     "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+     "pubDate": "Sat, 12 Sep 2026 15:52:11 +0000",
+     "summary": "What would it actually look like to \"pace the frontier\"?",
+     "source": "TechCrunch AI",
+     "zh": "Anthropic CEO outlines plan to ‘pace the frontier’"
     },
     {
      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
@@ -178,6 +186,22 @@ window.INDUSTRY_DATA = {
      "zh": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data"
     },
     {
+     "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
+     "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+     "pubDate": "Fri, 11 Sep 2026 22:01:08 +0000",
+     "summary": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns. Starting from a seed that scores 0, 6 creator LLMs construct harnesses across 5 benchmarks and 2,207 tasks, then evolve the",
+     "source": "MarkTechPost",
+     "zh": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize"
+    },
+    {
+     "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
+     "link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+     "pubDate": "Fri, 11 Sep 2026 21:05:55 +0000",
+     "summary": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and compares the result with a run where the plugin is not loaded. It answers 3 questions plugin developers could not previously m",
+     "source": "MarkTechPost",
+     "zh": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills"
+    },
+    {
      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
      "pubDate": "Fri, 11 Sep 2026 20:59:47 +0000",
@@ -210,20 +234,12 @@ window.INDUSTRY_DATA = {
      "zh": "Final, final, final call for TechCrunch Disrupt 2026 Side Events"
     },
     {
-     "title": "Roundtables: AI’s apocalypse crisis",
+     "title": "Roundtables: Could AI really kill us all?",
      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
      "pubDate": "Fri, 11 Sep 2026 20:05:06 +0000",
      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI",
      "source": "MIT Tech Review AI",
-     "zh": "Roundtables: AI’s apocalypse crisis"
-    },
-    {
-     "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-     "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-     "pubDate": "Fri, 11 Sep 2026 19:35:54 +0000",
-     "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-     "source": "TechCrunch AI",
-     "zh": "Kimi-maker Moonshot AI targets $2B in annual revenue"
+     "zh": "Roundtables: Could AI really kill us all?"
     },
     {
      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
      "source": "OpenAI",
      "zh": "Cognition helps Devin test its own work with GPT‑6 Astra"
-    },
-    {
-     "title": "From Spaghetti Code to Clean Python: A Beginner’s Guide",
-     "link": "https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide",
-     "pubDate": "Fri, 11 Sep 2026 14:00:10 +0000",
-     "summary": "Learn how to refactor messy Python code into clean, maintainable functions.",
-     "source": "KDnuggets",
-     "zh": "From Spaghetti Code to Clean Python: A Beginner’s Guide"
-    },
-    {
-     "title": "5 Python Techniques for Efficient Resource Orchestration",
-     "link": "https://www.kdnuggets.com/5-python-techniques-for-efficient-resource-orchestration",
-     "pubDate": "Fri, 11 Sep 2026 12:00:27 +0000",
-     "summary": "This article explains 5 Python techniques for efficient resource orchestration and sticks to what's stable today, 3.11 and later for the core techniques, with one 3.14-specific tool called out explicitly as requiring that version",
-     "source": "KDnuggets",
-     "zh": "5 Python Techniques for Efficient Resource Orchestration"
     }
    ]
   },
@@ -610,6 +610,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Last year, BYD bought the world’s largest car carrier – they just ordered 10 more",
+     "link": "https://electrek.co/2026/09/12/last-year-byd-bought-the-worlds-largest-car-carrier-they-just-ordered-10-more/",
+     "pubDate": "Sat, 12 Sep 2026 17:07:36 +0000",
+     "summary": "Last year, the BYD “Shenzhen” set sail on its first voyage with 9,200 parking spots – or enough space to fill 20 football fields, making BYD’s transport ship easily the world’s largest. Now, as the Chinese car brand sets its sights on Europe and North America, it’s ordering 10 more. more…",
+     "source": "Electrek",
+     "zh": "Last year, BYD bought the world’s largest car carrier – they just ordered 10 more"
+    },
+    {
+     "title": "E-quipment highlight: wreck stuff anywhere with CASE TL100EV [video]",
+     "link": "https://electrek.co/2026/09/12/e-quipment-highlight-wreck-stuff-anywhere-with-case-tl100ev-video/",
+     "pubDate": "Sat, 12 Sep 2026 15:46:32 +0000",
+     "summary": "CASE’s new TL100EV mini track loader is finally reaching real-world customers, and they’re putting it to work in some of the industry’s most demanding applications – from low-emission zones and no-drip job sites and noise-sensitive locations. Even indoors! more…",
+     "source": "Electrek",
+     "zh": "E-quipment highlight: wreck stuff anywhere with CASE TL100EV [video]"
+    },
+    {
      "title": "This 2,000W electric scooter hits 34 mph – and Electrek readers save 5%",
      "link": "https://electrek.co/2026/09/12/this-2000w-electric-scooter-hits-34-mph-and-electrek-readers-save-5/",
      "pubDate": "Sat, 12 Sep 2026 15:00:00 +0000",
@@ -658,12 +674,12 @@ window.INDUSTRY_DATA = {
      "zh": "VW Anhui refreshes ID. UNYX 08 SUV with lower prices just 5 months after launch"
     },
     {
-     "title": "What Ford’s Spat With The Trump DOT Says About China EV Policy",
+     "title": "Unpacking Ford's Spat With The Trump Administration Over China",
      "link": "https://insideevs.com/news/808027/ford-duffy-china-letter-podcast/",
      "pubDate": "Sat, 12 Sep 2026 11:00:00 +0000",
      "summary": "Washington wants to push back against China's car industry. But what exactly does that mean?",
      "source": "InsideEVs",
-     "zh": "What Ford’s Spat With The Trump DOT Says About China EV Policy"
+     "zh": "Unpacking Ford's Spat With The Trump Administration Over China"
     },
     {
      "title": "Amazon puts 50 Mercedes-Benz eActros electric semi trucks to work in Germany",
@@ -674,28 +690,12 @@ window.INDUSTRY_DATA = {
      "zh": "Amazon puts 50 Mercedes-Benz eActros electric semi trucks to work in Germany"
     },
     {
-     "title": "CAT puts century-old train tech to work in new, heavier electric drive dozer",
-     "link": "https://electrek.co/2026/09/11/cat-puts-century-old-train-tech-to-work-in-new-heavier-electric-drive-dozer/",
-     "pubDate": "Fri, 11 Sep 2026 23:52:03 +0000",
-     "summary": "Diesel-electric locomotives have been barreling along America’s wide-open spaces for generations, and the century-old combination of consistent, high-efficiency diesel engines spinning up generators to power high-torque electric motors has proven tough to beat. Now, Caterpillar is putting that centu",
-     "source": "Electrek",
-     "zh": "CAT puts century-old train tech to work in new, heavier electric drive dozer"
-    },
-    {
      "title": "This Chinese Luxury Brand Wants To Take Europe By The End Of The Year",
      "link": "https://insideevs.com/news/808017/li-auto-paris-auto-show/",
      "pubDate": "Fri, 11 Sep 2026 21:08:24 +0000",
      "summary": "In 2023, Li Auto said it wouldn't go global until 2028, but it now plans to launch an EV before the end of this year.",
      "source": "InsideEVs",
      "zh": "This Chinese Luxury Brand Wants To Take Europe By The End Of The Year"
-    },
-    {
-     "title": "BYD’s latest flagship SUV secured more than 12,000 orders within 24 hours",
-     "link": "https://electrek.co/2026/09/11/byds-new-flagship-suv-secured-over-12000-orders-24-hours/",
-     "pubDate": "Fri, 11 Sep 2026 20:33:14 +0000",
-     "summary": "BYD said its latest flagship SUV has become an instant best-seller. Within 24 hours of launching, the new Sealion 08 secured over 12,000 orders. more…",
-     "source": "Electrek",
-     "zh": "BYD’s latest flagship SUV secured more than 12,000 orders within 24 hours"
     },
     {
      "title": "Lawmaker Demand Feds Take Action After 43 Tesla Drivers Filmed Asleep At The Wheel",
@@ -809,6 +809,14 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Iran’s Security Crackdown Runs Into Resistance From Within",
+     "link": "https://oilprice.com/Energy/Energy-General/Irans-Security-Crackdown-Runs-Into-Resistance-From-Within.html",
+     "pubDate": "Sat, 12 Sep 2026 12:00:00 -0500",
+     "summary": "Iran's parliament is trying to turn fears of foreign infiltration into law. But as lawmakers work through the legislation, the debate is exposing an increasingly awkward question for the Islamic Republic: How far should the state go in policing Iranians' contact with the outside world? At the center",
+     "source": "OilPrice",
+     "zh": "Iran’s Security Crackdown Runs Into Resistance From Within"
+    },
     {
      "title": "Integrating Starlink LEO Infrastructure with Zimbabwe’s Terrestrial Fibre Networks",
      "link": "https://cleantechnica.com/2026/09/12/integrating-starlink-leo-infrastructure-with-zimbabwes-terrestrial-fibre-networks/",
@@ -936,14 +944,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Bank of England is expected to hike interest rates as many as four times within the next year, City figures have said, after the economy delivered surprise growth in July. The central bank is expected to be buoyed by this morning’s GDP figures, which saw the UK economy grow by 0.4 per cent in Ju",
      "source": "OilPrice",
      "zh": "UK Interest Rates Could Rise Four Times Over the Next Year"
-    },
-    {
-     "title": "U.S. Oil Rig Count Rises as Oil Tops $100",
-     "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Rig-Count-Rises-as-Oil-Tops-100.html",
-     "pubDate": "Fri, 11 Sep 2026 12:19:17 -0500",
-     "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 591, up 52 from this same time last year. The number of active oil rigs rose by 1, reaching 450 duri",
-     "source": "OilPrice",
-     "zh": "U.S. Oil Rig Count Rises as Oil Tops $100"
     },
     {
      "title": "Court rules that Trump can’t force a Michigan coal plant to keep running",
@@ -1482,6 +1482,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+     "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+     "pubDate": "Sat, 12 Sep 2026 21:24:45 +0530",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. Details of the vuln",
+     "source": "The Hacker News",
+     "zh": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV"
+    },
+    {
      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
      "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
      "pubDate": "Sat, 12 Sep 2026 10:14:32 -0400",
@@ -1642,14 +1650,6 @@ window.INDUSTRY_DATA = {
      "zh": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review"
     },
     {
-     "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-     "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-     "pubDate": "Fri, 11 Sep 2026 19:40:20 +0530",
-     "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands ",
-     "source": "The Hacker News",
-     "zh": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection"
-    },
-    {
      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
      "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
      "pubDate": "Fri, 11 Sep 2026 10:01:11 -0400",
@@ -1690,20 +1690,108 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "暴雪官宣《星际争霸》开放世界射击游戏，目标 2030 年推出",
+     "link": "https://www.ithome.com/1/001/661.htm",
+     "pubDate": "Sat, 12 Sep 2026 18:07:20 GMT",
+     "summary": "IT之家 9 月 13 日消息，在今天召开的 2026 暴雪嘉年华活动中，暴雪娱乐官宣新作《星际争霸》（StarCraft）游戏，类型为开放世界射击游戏，计划于 2030 年推出。 名称方面，暴雪娱乐表示该游戏名称就叫《星际争霸》（StarCraft），新作没有使用副标题、编号或其他附加名称。 在类型方面，《星际争霸》系列过去以即时战略游戏为主要形式， 而新作被明确描述为开放世界射击游戏。 开放世界射击游戏通常指将射击操作置于可自由探索的较大游戏区域中，但本次公告并未公布地图规模、任务结构、移动方式、武器系统、敌人阵营或联机功能。IT之家附上相关截图如下：",
+     "source": "IT之家",
+     "zh": "暴雪官宣《星际争霸》开放世界射击游戏，目标 2030 年推出"
+    },
+    {
+     "title": "暴雪宣布和 Netflix 合作开发《暗黑破坏神》动画剧集",
+     "link": "https://www.ithome.com/1/001/660.htm",
+     "pubDate": "Sat, 12 Sep 2026 17:56:42 GMT",
+     "summary": "IT之家 9 月 13 日消息，在今天召开的 2026 暴雪嘉年华上，暴雪娱乐宣布携手 Netflix， 开发一部以《暗黑破坏神》世界为背景的全新动画剧集。 暴雪总裁 Johanna Faries 公布了这一消息。现阶段公开信息仅确认项目处于开发中，Netflix 将作为合作方参与该动画剧集。IT之家附上相关截图如下： 暴雪在官方简介中表示，这部作品将把故事从游戏扩展至新的屏幕，内容设定仍位于《暗黑破坏神》宇宙。公告没有确认将改编哪一部游戏，也没有公布角色、地区、时代背景或剧情主线。 对《暗黑破坏神》玩家而言，此次公布意味着该系列将新增游戏之外的官方叙事载体。不过，暴雪没有说明动画与既有游戏剧",
+     "source": "IT之家",
+     "zh": "暴雪宣布和 Netflix 合作开发《暗黑破坏神》动画剧集"
+    },
+    {
+     "title": "《早春晴朗》国内群嘲，巴西榜一，中剧出海变了",
+     "link": "https://www.huxiu.com/article/4890725.html?f=rss",
+     "pubDate": "Sun, 13 Sep 2026 01:48:33 +0800",
+     "summary": "本文来自微信公众号： 芒见出海 ，作者：何紫微 本文是芒见出海第186篇原创，巴西系列第76篇。 本文正文长度4600字，完整阅读约需12分钟。 大家最近有没有在短视频上刷到《早春晴朗》这部剧？ 国内网上到处都在骂这部剧职场霸凌、PUA、有毒、悬浮，还有不少博主出来打假2013年的奥美，哪怕行业是在黄金期，但还没到是“掉黄金”的程度，能做到像剧里男主一年年入2000万： 但是，骂归骂，人家一点都不耽误自己的热度，我随手在小红书上搜的云合数据是这样的： 你没看错，市占率断层第一了已经。 这剧在墙内开花，墙外一样香。 小红书上给我推送的是黑人大姐在沉迷看《早春晴朗》，阿拉伯大叔坐国际航班9小时没合",
+     "source": "虎嗅",
+     "zh": "《早春晴朗》国内群嘲，巴西榜一，中剧出海变了"
+    },
+    {
+     "title": "Elon Musk backs Dario Amodei&apos;s arguments about pacing the frontier, saying \"Dario is right\" (Ben Johansen/Politico)",
+     "link": "https://www.techmeme.com/260912/p14#a260912p14",
+     "pubDate": "Sat, 12 Sep 2026 13:20:01 -0400",
+     "summary": "Ben Johansen / Politico : Elon Musk backs Dario Amodei's arguments about pacing the frontier, saying &ldquo;Dario is right&rdquo; &nbsp; &mdash;&nbsp; Anthropic CEO Dario Amodei on Saturday called for the immediate slowdown of artificial intelligence development, warning that recent advances in AI h",
+     "source": "Techmeme",
+     "zh": "Elon Musk backs Dario Amodei&apos;s arguments about pacing the frontier, saying \"Dario is right\" (Ben Johansen/Politico)"
+    },
+    {
+     "title": "Will There Be a 7G?",
+     "link": "https://arxiv.org/abs/2609.01877",
+     "pubDate": "Sat, 12 Sep 2026 17:05:31 +0000",
+     "summary": "Article URL: https://arxiv.org/abs/2609.01877 Comments URL: https://news.ycombinator.com/item?id=49674498 Points: 23 # Comments: 25",
+     "source": "Hacker News",
+     "zh": "Will There Be a 7G?"
+    },
+    {
+     "title": "Hugging Face says its Open Alignment Initiative, led by co-founder Thomas Wolf, seeks \"to be part of the &apos;embedded evaluators&apos; program that Amodei\" committed to (Clem/@clementdelangue)",
+     "link": "https://www.techmeme.com/260912/p13#a260912p13",
+     "pubDate": "Sat, 12 Sep 2026 13:05:01 -0400",
+     "summary": "Clem / @clementdelangue : Hugging Face says its Open Alignment Initiative, led by co-founder Thomas Wolf, seeks &ldquo;to be part of the &lsquo;embedded evaluators&rsquo; program that Amodei&rdquo; committed to &nbsp; &mdash;&nbsp; It's now clear that alignment is critical and won't be solved behind",
+     "source": "Techmeme",
+     "zh": "Hugging Face says its Open Alignment Initiative, led by co-founder Thomas Wolf, seeks \"to be part of the &apos;embedded evaluators&apos; program that Amodei\" committed to (Clem/@clementdelangue)"
+    },
+    {
+     "title": "Sam Altman says he agrees with Amodei that \"committing to having independent evaluators with employee-like access is a great idea\", and OpenAI will do the same (Sam Altman/@sama)",
+     "link": "https://www.techmeme.com/260912/p12#a260912p12",
+     "pubDate": "Sat, 12 Sep 2026 13:00:13 -0400",
+     "summary": "Sam Altman / @sama : Sam Altman says he agrees with Amodei that &ldquo;committing to having independent evaluators with employee-like access is a great idea&rdquo;, and OpenAI will do the same &nbsp; &mdash;&nbsp; I agree with Dario that we need to pace the frontier. This has been a primary topic of",
+     "source": "Techmeme",
+     "zh": "Sam Altman says he agrees with Amodei that \"committing to having independent evaluators with employee-like access is a great idea\", and OpenAI will do the same (Sam Altman/@sama)"
+    },
+    {
+     "title": "How SaaS startup guys get first 100 customers first, make fkn $500k ARR fast?",
+     "link": "https://news.ycombinator.com/item?id=49674396",
+     "pubDate": "Sat, 12 Sep 2026 16:56:54 +0000",
+     "summary": "I am running a small AI company that has been building an offline security audit app, simply a fine-tuned small language model powering an Electron app that can audit GitHub and local code repos for security stuff. I always see these LinkedIn or X guys making $500k ARR or $1m ARR within months; how ",
+     "source": "Hacker News",
+     "zh": "How SaaS startup guys get first 100 customers first, make fkn $500k ARR fast?"
+    },
+    {
+     "title": "Make your first edit to OpenStreetMap",
+     "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+     "pubDate": "Sat, 12 Sep 2026 16:25:08 +0000",
+     "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 60 # Comments: 22",
+     "source": "Hacker News",
+     "zh": "Make your first edit to OpenStreetMap"
+    },
+    {
+     "title": "The US legal system is struggling to keep up with AI, grappling with cases where chatbots provided counsel, generated evidence, or helped plan a mass shooting (Evan Ratliff/Bloomberg)",
+     "link": "https://www.techmeme.com/260912/p11#a260912p11",
+     "pubDate": "Sat, 12 Sep 2026 12:25:01 -0400",
+     "summary": "Evan Ratliff / Bloomberg : The US legal system is struggling to keep up with AI, grappling with cases where chatbots provided counsel, generated evidence, or helped plan a mass shooting &nbsp; &mdash;&nbsp; The first line Phoenix Ikner typed into ChatGPT was a quadratic expression.&nbsp; It was Marc",
+     "source": "Techmeme",
+     "zh": "The US legal system is struggling to keep up with AI, grappling with cases where chatbots provided counsel, generated evidence, or helped plan a mass shooting (Evan Ratliff/Bloomberg)"
+    },
+    {
+     "title": "虚线时刻，来临",
+     "link": "https://www.huxiu.com/article/4890724.html?f=rss",
+     "pubDate": "Sun, 13 Sep 2026 00:09:43 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：知止斋主 一个人感到迷茫，是个人问题。一群人，在不同城市、不同行业，都感到类似的迷茫，就要回到更大的结构中去理解。 结构是什么？是一连串环环相扣的前提：对象是清楚的，原则是清楚的，组织之间的承诺也是清楚的。一个人知道自己在什么位置，往哪个方向走，走到哪里能得到什么。这不是幻想，是过去二十年里真实发生过的事。 那时候，稳定不是抽象概念。它是一个人可以感知到的状态。每一天的工作指向一个可预期的结果，每一次付出指向一个可想象的回报。过程不一定轻松，压力确实存在，但压力是可承受的，因为它通向一个明确的地方。 你不必喜欢每一个环节，但你知道它们为什么存在。 稳定",
+     "source": "虎嗅",
+     "zh": "虚线时刻，来临"
+    },
+    {
+     "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+     "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+     "pubDate": "Sat, 12 Sep 2026 15:49:52 +0000",
+     "summary": "Article URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html Comments URL: https://news.ycombinator.com/item?id=49673580 Points: 33 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Microcode in Intel's 8087 floating-point chip: the scale instruction"
+    },
+    {
      "title": "LG 再次回应“电视待机状态会录音”：不会持续记录或传输用户对话",
      "link": "https://www.ithome.com/1/001/659.htm",
      "pubDate": "Sat, 12 Sep 2026 15:38:55 GMT",
      "summary": "IT之家 9 月 12 日消息，本周早些时候，Gamers Nexus、Level1Techs 和多名独立安全研究人员称，LG 电视会记录并上传用户数据。北京时间 12 日（今天），LG 出面再次反驳这些指控。 LG 通过声明回应称，近期部分媒体报道可能让外界对 LG 智能电视的工作方式产生了误解，旗下电视 不会持续记录或传输用户的对话 ，唤醒词识别也全部在设备本地完成。然而，Gamers Nexus 的测试显示，即使在人们通常认为 AI 助手早就停止监听之后，一台 LG 电视 仍保存了大量环境对话日志 。 LG 还称，自动内容识别（ACR）、语音识别和基于兴趣的广告等功能 均可由用户选择启用",
      "source": "IT之家",
      "zh": "LG 再次回应“电视待机状态会录音”：不会持续记录或传输用户对话"
-    },
-    {
-     "title": "中国大模型创始人在政治上很愚蠢",
-     "link": "https://www.huxiu.com/article/4890721.html?f=rss",
-     "pubDate": "Sat, 12 Sep 2026 23:32:15 +0800",
-     "summary": "本文来自微信公众号： 野生编辑部 ，作者：野生编辑部 #Anthropic#蒸馏攻击#议程陷阱#大模型 周末了，整个大活。 从7个角度聊聊Anthropic指控中国大模型蒸馏，并泄露敏感数据和信息。 一共11000字多个字，稍后面有个指引，可以跳到感兴趣的地方，有时间的可以全文浏览。 事件经过就不细说了，详见我前一篇《Anthropic终于找对攻击中国大模型的路子了》。 先把我的态度摆出来。 第一，蒸馏这件事本身是个技术伦理问题，今天没有答案。蒸馏该由谁来定性，不该由Anthropic一家说了算。 第二，中国这批大模型公司的创始人，技术上很聪明，政治上很蠢。 但骂完得讲句公道话。风险认知是昂贵",
-     "source": "虎嗅",
-     "zh": "中国大模型创始人在政治上很愚蠢"
     },
     {
      "title": "Trump is taking a hands-off approach to AI regulation to preserve the US lead over China, ahead of a summit with Xi Jinping, where AI safety is a top issue (Bloomberg)",
@@ -1738,60 +1826,28 @@ window.INDUSTRY_DATA = {
      "zh": "算力词元贷加速全国推广，支持机房建设、GPU 服务器集群采购"
     },
     {
-     "title": "大众“史上最大”重组的代价：消息称裁员、关厂将烧掉 160 亿欧元",
-     "link": "https://www.ithome.com/1/001/655.htm",
-     "pubDate": "Sat, 12 Sep 2026 15:09:10 GMT",
-     "summary": "IT之家 9 月 12 日消息，当地时间 10 日，据路透社援引知情人士消息称，大众汽车预计，上周敲定的重大重组协议将带来约 160 亿欧元 （IT之家注：现汇率约合 1,246.92 亿元人民币） 成本，主要用于 裁员以及可能关闭部分工厂 。 作为欧洲最大车企，大众汽车正推进公司 历史上规模最大的重组 。面对中国车企竞争、高额关税和产能过剩等压力，大众汽车直言，当前的处境就是一场“关乎生存”的竞争。 根据重组方案，大众汽车将为德国 4 座工厂 寻找新的出路 ，这些工厂将在未来 10 年内陆续面临无车可产的局面。同时，公司计划在此前裁员方案基础上 再减少约 5 万个岗位 。 知情人士告诉路透社",
-     "source": "IT之家",
-     "zh": "大众“史上最大”重组的代价：消息称裁员、关厂将烧掉 160 亿欧元"
+     "title": "Nvidia is the central bank of AI",
+     "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+     "pubDate": "Sat, 12 Sep 2026 15:08:27 +0000",
+     "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 170 # Comments: 145",
+     "source": "Hacker News",
+     "zh": "Nvidia is the central bank of AI"
     },
     {
      "title": "Amodei says pacing does not mean halting training or progress, but giving companies time to align and safeguard models and third-party evaluators time to verify (Bloomberg)",
      "link": "https://www.techmeme.com/260912/p9#a260912p9",
      "pubDate": "Sat, 12 Sep 2026 11:05:05 -0400",
-     "summary": "Bloomberg : Amodei says pacing does not mean halting training or progress, but giving companies time to align and safeguard models and third-party evaluators time to verify &nbsp; &mdash;&nbsp; Anthropic PBC Chief Executive Officer Dario Amodei said that the artificial intelligence industry needs to",
+     "summary": "Bloomberg : Amodei says pacing does not mean halting training or progress, but giving companies time to align and safeguard models and third-party evaluators time to verify &nbsp; &mdash;&nbsp; Leaders of the world's biggest artificial intelligence platforms said it's time to slow the development pa",
      "source": "Techmeme",
      "zh": "Amodei says pacing does not mean halting training or progress, but giving companies time to align and safeguard models and third-party evaluators time to verify (Bloomberg)"
     },
     {
-     "title": "Amodei warns that an OpenAI/Hugging Face-like agent swarm, which \"acted as a fanatically devoted collective\", could take over the internet in 6-12 months (Auzinea Bacon/CNN)",
-     "link": "https://www.techmeme.com/260912/p8#a260912p8",
-     "pubDate": "Sat, 12 Sep 2026 11:01:01 -0400",
-     "summary": "Auzinea Bacon / CNN : Amodei warns that an OpenAI/Hugging Face-like agent swarm, which &ldquo;acted as a fanatically devoted collective&rdquo;, could take over the internet in 6-12 months &nbsp; &mdash;&nbsp; The race to develop artificial intelligence is in dire need of a slowdown, Anthropic's chie",
-     "source": "Techmeme",
-     "zh": "Amodei warns that an OpenAI/Hugging Face-like agent swarm, which \"acted as a fanatically devoted collective\", could take over the internet in 6-12 months (Auzinea Bacon/CNN)"
-    },
-    {
-     "title": "Ask HN: What default model do you use and why?",
-     "link": "https://news.ycombinator.com/item?id=49672966",
-     "pubDate": "Sat, 12 Sep 2026 14:58:44 +0000",
-     "summary": "I use claude for most of what I do, and Fable is largely overkill for me and frequently burns through my Max plan's session credits in minutes (!) when just doing an initial mobile app planning with 4 agents. After I waited out the timeout period 6 hours later, and I picked up again, the cache had t",
+     "title": "I made a build visualizer to understand Bun's compile times",
+     "link": "https://lalitm.com/post/buildprof/",
+     "pubDate": "Sat, 12 Sep 2026 14:45:28 +0000",
+     "summary": "Article URL: https://lalitm.com/post/buildprof/ Comments URL: https://news.ycombinator.com/item?id=49672842 Points: 4 # Comments: 0",
      "source": "Hacker News",
-     "zh": "Ask HN: What default model do you use and why?"
-    },
-    {
-     "title": "打假的铁头，咋就变恶势力犯罪了？",
-     "link": "https://www.huxiu.com/article/4890719.html?f=rss",
-     "pubDate": "Sat, 12 Sep 2026 22:58:32 +0800",
-     "summary": "本文来自微信公众号： 不惑猪的频道 ，作者：博栋先生 2026年9月11号，杭州滨江法院一审宣判： 铁头(本名董光明)，敲诈勒索罪加寻衅滋事罪，数罪并罚，有期徒刑8年，罚金13万。 一个600万粉丝的打假网红，怎么把自己打成了敲诈勒索？ 这就得从那家叫彩虹星球的公司说起。 2023年9月，铁头在彩虹星球的网店下了一单盐田虾，正常下单，没提售后问题，货也收了，话也没说。 但9月24号开始，铁头一条接一条发视频出来，扬言要联合另一个打假人干倒这家公司。 这就不对劲了，打假第一件事儿不是应该先送检先举证吗？ 问到点上了。 彩虹星球创始人王来库说，后面3个月，铁头带人到公司闹了10多次，发了20多条视",
-     "source": "虎嗅",
-     "zh": "打假的铁头，咋就变恶势力犯罪了？"
-    },
-    {
-     "title": "国家发改委：积极支持大型汽车企业集团开展改革，以市场化、法制化方式推进企业间兼并重组",
-     "link": "https://www.ithome.com/1/001/654.htm",
-     "pubDate": "Sat, 12 Sep 2026 14:58:31 GMT",
-     "summary": "IT之家 9 月 12 日消息，工业和信息化部昨日（9 月 11 日）举行新闻发布会，介绍我国智能网联新能源汽车产业发展有关情况。 国家发展改革委产业发展司副司长邵稷出席发布会，他提到，新能源汽车在取得可喜成绩的同时，我们也认识到，当前产业技术路线仍在持续演进，未来还可能出现新的颠覆性技术，在产品质量安全、资源回收利用等方面还有不少提升空间。 为此，国家发展改革委将会同有关部门，把技术创新摆在更加突出的位置，持之以恒推动产业提质升级。 一是加强部门协同，持续支持企业加强技术研发应用。聚焦新型电子电气架构、全固态电池、汽车操作系统、智能驾驶等前沿领域，支持骨干企业联合产业上下游开展协同攻关，加快",
-     "source": "IT之家",
-     "zh": "国家发改委：积极支持大型汽车企业集团开展改革，以市场化、法制化方式推进企业间兼并重组"
-    },
-    {
-     "title": "腾讯可能要给WorkBuddy改名了？",
-     "link": "https://www.huxiu.com/article/4890718.html?f=rss",
-     "pubDate": "Sat, 12 Sep 2026 22:54:41 +0800",
-     "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：怪哥 最近我一直在想一个问题： WorkBuddy会不会改名？ 这个问题其实是从一个很小的细节开始的。 WorkBuddy这款产品我用得比较多，属于铁粉了。产品本身越做越完善，但它在国内推广有一个很现实的问题：这个名字对普通用户并不友好。 WorkBuddy。 会英语的人知道，大概是“工作伙伴”的意思。但真正面向大众市场的时候，你会发现很多人不知道怎么读，也记不住，更别说口口相传。 反过来看它现在的几个直接竞品，名字已经越来越“中国化”。 阿里原来的QwenWork，现在直接叫千问办公。 字节在办公场景里，越来越多能力直接放进豆包，甚至推出豆包工",
-     "source": "虎嗅",
-     "zh": "腾讯可能要给WorkBuddy改名了？"
+     "zh": "I made a build visualizer to understand Bun's compile times"
     },
     {
      "title": "Revolut confirms customer data breach through fake government requests",
@@ -1800,94 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
      "source": "TechCrunch",
      "zh": "Revolut confirms customer data breach through fake government requests"
-    },
-    {
-     "title": "Amodei says Anthropic is \"unilaterally committing\" to giving third-party evaluators permanent, employee-like access to verify its adherence to safety measures (Dario Amodei/@darioamodei)",
-     "link": "https://www.techmeme.com/260912/p7#a260912p7",
-     "pubDate": "Sat, 12 Sep 2026 10:25:02 -0400",
-     "summary": "Dario Amodei / @darioamodei : Amodei says Anthropic is &ldquo;unilaterally committing&rdquo; to giving third-party evaluators permanent, employee-like access to verify its adherence to safety measures &nbsp; &mdash;&nbsp; We Must Pace the Frontier: I've written a new essay on why the AI industry sho",
-     "source": "Techmeme",
-     "zh": "Amodei says Anthropic is \"unilaterally committing\" to giving third-party evaluators permanent, employee-like access to verify its adherence to safety measures (Dario Amodei/@darioamodei)"
-    },
-    {
-     "title": "当一个时刻在线的打工人“瞬间消失”",
-     "link": "https://www.huxiu.com/article/4890716.html?f=rss",
-     "pubDate": "Sat, 12 Sep 2026 22:20:25 +0800",
-     "summary": "本文来自微信公众号： 开水与白面包 ，作者：开水与白面包 刷到一条新闻：北京一小伙骑车开视频会议导致撞车，右手鲜血直流，第一件事却是要手机坐在地上继续开会。对方司机跟他说啥他都不搭理，交警判小伙主责。 心中甚是愤懑。想起程序员高广辉的事来。这篇文章是当时写就，因为种种原因未能发出，又是一个周六，今天贴出来，希望打工人都好好爱护自己。 死亡通知VS工作消息 星期六的清晨，你还在回工作消息吗？ 程序员高广辉就倒在这样一个周末的清晨，当他在医院抢救时，工作群还在不断弹出消息：“高工帮忙处理一下这个订单”。 简直是“阎王要你三更死、工作留你到五更”的残酷现实。 年仅32岁的程序员被宣告死亡八小时后，还",
-     "source": "虎嗅",
-     "zh": "当一个时刻在线的打工人“瞬间消失”"
-    },
-    {
-     "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
-     "link": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
-     "pubDate": "Sat, 12 Sep 2026 14:16:24 +0000",
-     "summary": "Article URL: https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun Comments URL: https://news.ycombinator.com/item?id=49672549 Points: 41 # Comments: 39",
-     "source": "Hacker News",
-     "zh": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\""
-    },
-    {
-     "title": "You Don't Need Matrix Calculus",
-     "link": "https://julesjacobs.com/2024/07/28/you-dont-need-matrix-calculus.html",
-     "pubDate": "Sat, 12 Sep 2026 14:15:08 +0000",
-     "summary": "Article URL: https://julesjacobs.com/2024/07/28/you-dont-need-matrix-calculus.html Comments URL: https://news.ycombinator.com/item?id=49672541 Points: 11 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "You Don't Need Matrix Calculus"
-    },
-    {
-     "title": "Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments (Dario Amodei)",
-     "link": "https://www.techmeme.com/260912/p6#a260912p6",
-     "pubDate": "Sat, 12 Sep 2026 10:15:00 -0400",
-     "summary": "Dario Amodei : Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments &nbsp; &mdash;&nbsp; I have worked on AI for the last twelve years because I believe it could dramatically raise the quality",
-     "source": "Techmeme",
-     "zh": "Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments (Dario Amodei)"
-    },
-    {
-     "title": "We Must Pace the Frontier",
-     "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
-     "pubDate": "Sat, 12 Sep 2026 14:10:49 +0000",
-     "summary": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 106 # Comments: 125",
-     "source": "Hacker News",
-     "zh": "We Must Pace the Frontier"
-    },
-    {
-     "title": "Compiler Can Undo Your Security Checks",
-     "link": "https://davidbombal.com/your-compiler-can-undo-your-security-checks/",
-     "pubDate": "Sat, 12 Sep 2026 14:07:58 +0000",
-     "summary": "Article URL: https://davidbombal.com/your-compiler-can-undo-your-security-checks/ Comments URL: https://news.ycombinator.com/item?id=49672474 Points: 9 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "Compiler Can Undo Your Security Checks"
-    },
-    {
-     "title": "A Mathematical Framework for Transformer Circuits (2021)",
-     "link": "https://transformer-circuits.pub/2021/framework/index.html",
-     "pubDate": "Sat, 12 Sep 2026 13:56:58 +0000",
-     "summary": "Article URL: https://transformer-circuits.pub/2021/framework/index.html Comments URL: https://news.ycombinator.com/item?id=49672365 Points: 29 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "A Mathematical Framework for Transformer Circuits (2021)"
-    },
-    {
-     "title": "韦世豪被罚启示：足球文化治理需要实事求是",
-     "link": "https://www.huxiu.com/article/4890715.html?f=rss",
-     "pubDate": "Sat, 12 Sep 2026 21:52:05 +0800",
-     "summary": "本文来自微信公众号： 新潮沉思录 ，作者：潮思 最近国内足球圈又出了个吵翻天的事。9月6日中超第26轮，成都蓉城客场0比0战平河南队，无缘提前夺冠。这场球的火气赛前就点着了，郑州航海体育场外面，两队球迷隔着大巴对骂、互比手势，有人朝客队方向扔水瓶。进了场也没消停，看台对韦世豪的骂声没断过，主裁判沈寅豪全场掏出10张黄牌，蓉城一家吃了7张。 散场时，看台上骂声和水瓶一起朝退场的球员砸下来。几秒钟后，韦世豪朝着看台比出了一个圆圈。按成都一方球迷的说法，队友胡荷韬先去找赛区工作人员反映，工作人员抬手比了个圆圈，意思是扔东西的行为已经拍下留证，所以成都方球迷认为随后韦世豪也是在学工作人员那个动作，嘴里",
-     "source": "虎嗅",
-     "zh": "韦世豪被罚启示：足球文化治理需要实事求是"
-    },
-    {
-     "title": "As the AI wave creates tech fortunes at breakneck speed, a look at the growing ecosystem helping founders navigate the challenges of becoming extremely wealthy (Tiffany Ap/Bloomberg)",
-     "link": "https://www.techmeme.com/260912/p5#a260912p5",
-     "pubDate": "Sat, 12 Sep 2026 09:40:00 -0400",
-     "summary": "Tiffany Ap / Bloomberg : As the AI wave creates tech fortunes at breakneck speed, a look at the growing ecosystem helping founders navigate the challenges of becoming extremely wealthy &nbsp; &mdash;&nbsp; A growing post-exit ecosystem is helping founders deal with the unexpected difficulties of bec",
-     "source": "Techmeme",
-     "zh": "As the AI wave creates tech fortunes at breakneck speed, a look at the growing ecosystem helping founders navigate the challenges of becoming extremely wealthy (Tiffany Ap/Bloomberg)"
-    },
-    {
-     "title": "“玩不起就别玩，”",
-     "link": "https://www.huxiu.com/article/4890713.html?f=rss",
-     "pubDate": "Sat, 12 Sep 2026 21:20:52 +0800",
-     "summary": "本文来自微信公众号： 智先生 ，作者：Isidore，原文标题：《“玩不起就别玩！”》 “选举结果让我们所有人都深感震惊”，这是德国总理默茨在萨安州议会选举结束后的回应。 也不知道他是为选择党以43.8%选票，获得胜利感到震惊，还是基民盟只拿到18.5%感到难以置信。 要知道上次该州选举，基民盟可是赢下37.1%的选票的。短短几年过去，家底直接被腰斩。 过去德国传统大党总有种迷之自信，觉得极端政党之所以冒头，是因为大部分沉默良民没有出门，只要他们动员大家去投票，自然能把异端的得票率稀释干净。 结果萨安州这趟大选，全州选民跟过节一样涌向投票站，投票率一路飙升到78%，创下两德统一以来的历史天花板",
-     "source": "虎嗅",
-     "zh": "“玩不起就别玩，”"
     },
     {
      "title": "10 Best Standing Desks Worth Buying in 2026",
@@ -1928,6 +1896,38 @@ window.INDUSTRY_DATA = {
      "summary": "数学家们说：AI公司负责宣布“突破”，而数学家负责免费验证、修补，甚至收拾烂摊子。这笔账，他们不想再忍了。",
      "source": "钛媒体",
      "zh": "25 位菲尔兹奖得主联名愤怒，OpenAI 退出赞助：AI 正在激怒整个数学界"
+    },
+    {
+     "title": "中东主权资本押注瑞幸：一杯咖啡里，藏着怎样的零售新逻辑？",
+     "link": "https://www.tmtpost.com/8137851.html",
+     "pubDate": "Sat, 12 Sep 2026 18:53:32 +0800",
+     "summary": "一套被验证得零售操作系统",
+     "source": "钛媒体",
+     "zh": "中东主权资本押注瑞幸：一杯咖啡里，藏着怎样的零售新逻辑？"
+    },
+    {
+     "title": "潮宏基，落子豫园",
+     "link": "https://www.tmtpost.com/8137853.html",
+     "pubDate": "Sat, 12 Sep 2026 18:53:31 +0800",
+     "summary": "黄金的品牌溢价",
+     "source": "钛媒体",
+     "zh": "潮宏基，落子豫园"
+    },
+    {
+     "title": "日薪千元的AI实习生，在焦虑什么？",
+     "link": "https://www.tmtpost.com/8137900.html",
+     "pubDate": "Sat, 12 Sep 2026 18:53:28 +0800",
+     "summary": "AI抢人大战烧到了实习生。",
+     "source": "钛媒体",
+     "zh": "日薪千元的AI实习生，在焦虑什么？"
+    },
+    {
+     "title": "The Best 3-in-1 Apple Charging Stations After Testing 30+ Models",
+     "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
+     "pubDate": "Sat, 12 Sep 2026 10:30:00 +0000",
+     "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.",
+     "source": "WIRED",
+     "zh": "The Best 3-in-1 Apple Charging Stations After Testing 30+ Models"
     }
    ]
   },
@@ -1937,6 +1937,70 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The benefits of leaving your VPN on all the time",
+     "link": "https://www.engadget.com/2252795/leaving-vpn-always-on-benefits/",
+     "pubDate": "Sat, 12 Sep 2026 18:00:00 +0000",
+     "summary": "Using a VPN has plenty of benefits, but should you have yours enabled all the time? Think carefully about what yours is doing to decide.",
+     "source": "Engadget",
+     "zh": "The benefits of leaving your VPN on all the time"
+    },
+    {
+     "title": "How Much Solar Power Do You Actually Need For An RV?",
+     "link": "https://www.engadget.com/2252792/how-much-solar-power-for-rv/",
+     "pubDate": "Sat, 12 Sep 2026 17:30:00 +0000",
+     "summary": "The power of the sun can keep your RV running, but before you get too comfortable with solar panels, you need to calculate how much power they need to generate.",
+     "source": "Engadget",
+     "zh": "How Much Solar Power Do You Actually Need For An RV?"
+    },
+    {
+     "title": "Apple nailed iPhone Duo split screen, even as iPad multitasking feels convoluted",
+     "link": "https://9to5mac.com/2026/09/12/apple-nailed-iphone-duo-split-screen-even-as-ipad-multitasking-feels-convoluted/",
+     "pubDate": "Sat, 12 Sep 2026 16:47:34 +0000",
+     "summary": "Apple this week unveiled its new iPhone lineup , including the first ever foldable iPhone – the iPhone Duo. While the Duo itself is a fantastic device, it does leave me wishing that Apple did better for the iPad. more…",
+     "source": "9to5Mac",
+     "zh": "Apple nailed iPhone Duo split screen, even as iPad multitasking feels convoluted"
+    },
+    {
+     "title": "Anthropic's CEO proposes a three-step plan to curb AI development",
+     "link": "https://www.engadget.com/2256718/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development/",
+     "pubDate": "Sat, 12 Sep 2026 16:37:31 +0000",
+     "summary": "Dario Amodei said that \"we owe it to humanity to try.\"",
+     "source": "Engadget",
+     "zh": "Anthropic's CEO proposes a three-step plan to curb AI development"
+    },
+    {
+     "title": "How to share your iPhone's location for just as long as you need",
+     "link": "https://www.engadget.com/2252782/how-to-share-iphone-location-find-my-for-as-long-needed/",
+     "pubDate": "Sat, 12 Sep 2026 16:30:00 +0000",
+     "summary": "For some time, Find My sharing was limited to an hour, a day, or indefinitely. That's changing in iOS 27, thanks to more flexible timelines.",
+     "source": "Engadget",
+     "zh": "How to share your iPhone's location for just as long as you need"
+    },
+    {
+     "title": "Samsung Galaxy S26 FE's India price leaks",
+     "link": "https://www.gsmarena.com/samsung_galaxy_s26_fe_india_price_leaks-news-74595.php",
+     "pubDate": "Sat, 12 Sep 2026 18:01:02 +0200",
+     "summary": "The Samsung Galaxy S26 FE, unveiled last month, went on sale in select markets on September 4. India wasn't part of the first wave of rollout, as sales are scheduled to begin there on September 18. That may be why Samsung didn't reveal the Galaxy S26 FE's India price. However, if a new leak is to be",
+     "source": "GSMArena",
+     "zh": "Samsung Galaxy S26 FE's India price leaks"
+    },
+    {
+     "title": "Is a free VPN worth using? Here's why it could be risky",
+     "link": "https://www.engadget.com/2252776/is-free-vpn-worth-using-risks-explained/",
+     "pubDate": "Sat, 12 Sep 2026 16:00:00 +0000",
+     "summary": "A free VPN might seem like a great deal, but they're not all created equal. While you can expect some compromises, you shouldn't use any old service.",
+     "source": "Engadget",
+     "zh": "Is a free VPN worth using? Here's why it could be risky"
+    },
+    {
+     "title": "ESR’s iPhone accessory lineup is ready for Apple’s foldable era",
+     "link": "https://9to5mac.com/2026/09/12/esrs-iphone-accessory-lineup-ready-apples-foldable-era/",
+     "pubDate": "Sat, 12 Sep 2026 16:00:00 +0000",
+     "summary": "A new iPhone announcement always means a mad rush for accessories that will arrive when your new device arrives, and this year that includes an entirely new category with the iPhone Duo. ESR is a well-respected name in Apple accessories, and its iPhone 18 lineup covers the new iPhone Duo, the iPhone",
+     "source": "9to5Mac",
+     "zh": "ESR’s iPhone accessory lineup is ready for Apple’s foldable era"
+    },
     {
      "title": "iPhone Duo can add fake bezel to the outside screen for better case compatibility",
      "link": "https://9to5mac.com/2026/09/12/iphone-duo-fake-bezel-case-compatibility/",
@@ -1962,36 +2026,12 @@ window.INDUSTRY_DATA = {
      "zh": "The Google Pixel is fine and all, but still needs a ‘Ryzen moment’ [Video]"
     },
     {
-     "title": "Are you using the right Ethernet port on your router? Here's how to know",
-     "link": "https://www.engadget.com/2252768/using-right-ethernet-port-on-router/",
-     "pubDate": "Sat, 12 Sep 2026 15:00:00 +0000",
-     "summary": "The various Ethernet ports on your router can serve different purposes, depending on the model. Thankfully, it's not hard to discern what they're for.",
-     "source": "Engadget",
-     "zh": "Are you using the right Ethernet port on your router? Here's how to know"
-    },
-    {
      "title": "Responding to your takes on the OM System PEN, iPhone 18 Pro, and more",
      "link": "https://www.dpreview.com/videos/responding-to-your-takes-on-the-om-system-pen-iphone-18-pro-and-more/",
      "pubDate": "Sat, 12 Sep 2026 15:00:00 +0000",
      "summary": "The DPReview crew discusses a very busy week in camera news.",
      "source": "DPReview",
      "zh": "Responding to your takes on the OM System PEN, iPhone 18 Pro, and more"
-    },
-    {
-     "title": "How to properly clean and sanitize your secondhand tech finds",
-     "link": "https://www.engadget.com/2252766/how-to-clean-sanitize-secondhand-electronics-tech/",
-     "pubDate": "Sat, 12 Sep 2026 14:30:00 +0000",
-     "summary": "Cleaning secondhand gadgets is essential, since you never know how dirty something is. Thankfully, it's not hard to polish them up before reuse.",
-     "source": "Engadget",
-     "zh": "How to properly clean and sanitize your secondhand tech finds"
-    },
-    {
-     "title": "How to get started with Meta's new AI agent, Muse",
-     "link": "https://www.engadget.com/2256577/how-to-get-started-with-meta-s-new-ai-agent-muse/",
-     "pubDate": "Sat, 12 Sep 2026 14:00:00 +0000",
-     "summary": "After a few days of testing Meta's AI agent Muse. I can confirm that there is very little learning curve to get started.",
-     "source": "Engadget",
-     "zh": "How to get started with Meta's new AI agent, Muse"
     },
     {
      "title": "Far and wide: how the Sigma 20-60mm F2.8-4 works as a travel lens",
@@ -2008,14 +2048,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organ",
      "source": "9to5Mac",
      "zh": "Apple @ Work: The three prongs of software updates in the AI era"
-    },
-    {
-     "title": "How Google Maps knows when a business is packed",
-     "link": "https://www.engadget.com/2252763/how-google-maps-knows-businesses-packed/",
-     "pubDate": "Sat, 12 Sep 2026 13:30:00 +0000",
-     "summary": "Instead of relying on intuition or sheer luck to find local venues and restaurants capable of hosting you, Google Maps can take away the guesswork.",
-     "source": "Engadget",
-     "zh": "How Google Maps knows when a business is packed"
     },
     {
      "title": "Weekend Apple deals: AirPods 5, Pro 3, Apple Watch Series 12, AirTag 2, Studio Display, MacBook, more",
@@ -2042,28 +2074,12 @@ window.INDUSTRY_DATA = {
      "zh": "Apple iPhone 18 Pro and iPhone 18 Pro Max go on pre-order"
     },
     {
-     "title": "Is a 256GB SSD better than a 1TB hard drive? It depends how you're using it",
-     "link": "https://www.engadget.com/2252762/256-gb-ssd-vs-1-tb-hard-drive-which-better/",
-     "pubDate": "Sat, 12 Sep 2026 13:00:00 +0000",
-     "summary": "Should you choose a smaller SSD for speed or a larger HDD for storage space? The answer depends on what you prioritize.",
-     "source": "Engadget",
-     "zh": "Is a 256GB SSD better than a 1TB hard drive? It depends how you're using it"
-    },
-    {
      "title": "Hands-on: Dbrand’s MNML Pixel 11 Pro cases are simply  good, and that’s the point [Gallery]",
      "link": "https://9to5google.com/2026/09/12/dbrand-mnml-pixel-11-pro-hands-on/",
      "pubDate": "Sat, 12 Sep 2026 12:30:00 +0000",
      "summary": "Dbrand is definitely best-known for its flashy skins and bombastic personality, but the company is now launching a more subtle brand in “MNML,” aiming to offer dead-simple cases that are comfortable and have good quality. These are available for the latest Pixel 11 Pro phones and, in person, they ce",
      "source": "9to5Google",
      "zh": "Hands-on: Dbrand’s MNML Pixel 11 Pro cases are simply  good, and that’s the point [Gallery]"
-    },
-    {
-     "title": "You can now pre-order iPhone 18 Pro and iPhone 18 Pro Max",
-     "link": "https://9to5mac.com/2026/09/12/you-can-now-pre-order-iphone-18-pro-and-iphone-18-pro-max/",
-     "pubDate": "Sat, 12 Sep 2026 12:02:03 +0000",
-     "summary": "The new iPhone 18 Pro and iPhone 18 Pro Max are now available to pre-order . Apple announced the new phones on Wednesday, highlighting a variable aperture camera system, a smaller Dynamic Island, four new color options, and more. Pre-order iPhone 18 Pro from Apple Pre-order iPhone 18 Pro Max from Ap",
-     "source": "9to5Mac",
-     "zh": "You can now pre-order iPhone 18 Pro and iPhone 18 Pro Max"
     },
     {
      "title": "Here’s how I’d fix Google’s AI branding if I were CEO for a day",
@@ -2146,14 +2162,6 @@ window.INDUSTRY_DATA = {
      "zh": "vivo shows all colors of the X500 Pro Max"
     },
     {
-     "title": "Apple researchers unveil SimpleDesign, a new AI model for protein design",
-     "link": "https://9to5mac.com/2026/09/11/apple-researchers-unveil-simpledesign-a-new-ai-model-for-protein-design/",
-     "pubDate": "Sat, 12 Sep 2026 01:56:26 +0000",
-     "summary": "In a new study, Apple researchers detail SimpleDesign, a streamlined AI model that can jointly generate protein sequences and structures. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple researchers unveil SimpleDesign, a new AI model for protein design"
-    },
-    {
      "title": "OnePlus 16 may not launch in India",
      "link": "https://www.gsmarena.com/oneplus_16_may_not_launch_in_india-news-74587.php",
      "pubDate": "Sat, 12 Sep 2026 03:33:02 +0200",
@@ -2168,14 +2176,6 @@ window.INDUSTRY_DATA = {
      "summary": "Twenty-five years ago, I spent several days photographing flags in New York. It might be some of the most important work I've done.",
      "source": "DPReview",
      "zh": "25 years after 9/11: The flag photos that gave me my voice as a photographer"
-    },
-    {
-     "title": "Fairphone's Fairbuds 2 earbuds leak in two colors",
-     "link": "https://www.gsmarena.com/fairphones_fairbuds_2_earbuds_leak_in_two_colors-news-74591.php",
-     "pubDate": "Sat, 12 Sep 2026 01:11:02 +0200",
-     "summary": "Fairphone launched its first pair of true wireless earbuds, aptly called the Fairbuds, in April of 2024. Now the company is almost ready to introduce the second generation - in fact, the Fairbuds 2 are coming in the fourth quarter of this year (between October and December). Today a new leak brings ",
-     "source": "GSMArena",
-     "zh": "Fairphone's Fairbuds 2 earbuds leak in two colors"
     }
    ]
   },
@@ -2186,20 +2186,148 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Rivian Sacrificed Its 2027 Profit Target. Here's Why Investors Should Applaud.",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-sacrificed-2027-profit-target-152500464.html",
-     "pubDate": "2026-09-12T15:25:00Z",
+     "title": "Jim Cramer Doubles Down on This $252B AI Stock: “You Have to Buy” Every Dip",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doubles-down-252b-175653335.html",
+     "pubDate": "2026-09-12T17:56:53Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "Rivian Sacrificed Its 2027 Profit Target. Here's Why Investors Should Applaud."
+     "zh": "Jim Cramer Doubles Down on This $252B AI Stock: “You Have to Buy” Every Dip"
     },
     {
-     "title": "Here's who stands to make money from the Anthropic IPO",
-     "link": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
-     "pubDate": "2026-09-12T15:16:19Z",
+     "title": "2026年达喀尔青奥会圣火抵达塞内加尔",
+     "link": "http://finance.eastmoney.com/news/1351,202609133872770934.html",
+     "pubDate": "Sun, 13 Sep 2026 01:42:30 +0800",
+     "summary": "当地时间12日，2026年达喀尔青年奥林匹克运动会圣火抵达塞内加尔首都达喀尔，塞内加尔总统法耶当天出席了圣火迎接仪式。 按照安排，圣火随后将开启在塞内加尔全国14个大区的传递，并最终于10月31日引燃本届青奥会主会场的火炬。 2026年达喀尔青奥会将于10月31日至11月13日在塞内加尔举行。这是青奥会首次在非洲大陆举办，也是奥林匹克赛事首次在非洲大陆举行，预计约有2700名运动员参赛。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "2026年达喀尔青奥会圣火抵达塞内加尔"
+    },
+    {
+     "title": "埃里森取消出售至多5000万股甲骨文股票的计划后 在加密平台交易的甲骨文股票合约上涨2%",
+     "link": "http://finance.eastmoney.com/news/1354,202609133872770818.html",
+     "pubDate": "Sun, 13 Sep 2026 01:23:47 +0800",
+     "summary": "埃里森取消出售至多5000万股 甲骨文 股票的计划后，在加密平台交易的 甲骨文 股票合约上涨2%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "埃里森取消出售至多5000万股甲骨文股票的计划后 在加密平台交易的甲骨文股票合约上涨2%"
+    },
+    {
+     "title": "伊朗总统佩泽希齐扬表示 如果美国结束封锁 霍尔木兹海峡将重新开放",
+     "link": "http://finance.eastmoney.com/news/1351,202609133872770768.html",
+     "pubDate": "Sun, 13 Sep 2026 01:21:48 +0800",
+     "summary": "伊朗总统佩泽希齐扬表示，如果美国结束封锁，霍尔木兹海峡将重新开放。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "伊朗总统佩泽希齐扬表示 如果美国结束封锁 霍尔木兹海峡将重新开放"
+    },
+    {
+     "title": "伊朗总统佩泽希齐扬表示 伊朗“目前无法做出”与美国进行直接谈判的决定 美国必须停止封锁",
+     "link": "http://finance.eastmoney.com/news/1351,202609133872770654.html",
+     "pubDate": "Sun, 13 Sep 2026 01:20:58 +0800",
+     "summary": "伊朗总统佩泽希齐扬表示，伊朗“目前无法做出”与美国进行直接谈判的决定，美国必须停止封锁。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "伊朗总统佩泽希齐扬表示 伊朗“目前无法做出”与美国进行直接谈判的决定 美国必须停止封锁"
+    },
+    {
+     "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
+     "link": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
+     "pubDate": "Sat, 12 Sep 2026 17:20:00 GMT",
+     "summary": "Leaders of major AI companies say they agree with Anthropic CEO Dario Amodei, who just called for the tech industry to move more slowly with model development.",
+     "source": "MarketWatch",
+     "zh": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet"
+    },
+    {
+     "title": "Novo Nordisk (NVO)’s Pediatric Obesity Opportunity Faces a Bigger Test",
+     "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pediatric-obesity-171917899.html",
+     "pubDate": "2026-09-12T17:19:17Z",
      "summary": "",
      "source": "Yahoo Finance",
-     "zh": "Here's who stands to make money from the Anthropic IPO"
+     "zh": "Novo Nordisk (NVO)’s Pediatric Obesity Opportunity Faces a Bigger Test"
+    },
+    {
+     "title": "伊朗消息人士称 海湾合作委员会国家将听取伊朗-阿曼谈判结果和阿曼会议决定的简报",
+     "link": "http://finance.eastmoney.com/news/1351,202609133872770525.html",
+     "pubDate": "Sun, 13 Sep 2026 01:18:35 +0800",
+     "summary": "伊朗消息人士称，海湾合作委员会国家将听取伊朗-阿曼谈判结果和阿曼会议决定的简报。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "伊朗消息人士称 海湾合作委员会国家将听取伊朗-阿曼谈判结果和阿曼会议决定的简报"
+    },
+    {
+     "title": "伊朗消息人士透露 伊朗和阿曼已就霍尔木兹海峡进出新路线的细节达成一致",
+     "link": "http://finance.eastmoney.com/news/1351,202609133872770097.html",
+     "pubDate": "Sun, 13 Sep 2026 01:16:42 +0800",
+     "summary": "伊朗消息人士透露，伊朗和阿曼已就霍尔木兹海峡进出新路线的细节达成一致。霍尔木兹海峡的重新开放完全取决于美国执行伊朗的条件。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "伊朗消息人士透露 伊朗和阿曼已就霍尔木兹海峡进出新路线的细节达成一致"
+    },
+    {
+     "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+     "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+     "pubDate": "Sat, 12 Sep 2026 17:14:56 GMT",
+     "summary": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company.",
+     "source": "CNBC",
+     "zh": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock"
+    },
+    {
+     "title": "A Tale of Two Dollars: Why Dollar General Outpaced Dollar Tree This Quarter",
+     "link": "https://finance.yahoo.com/markets/stocks/articles/tale-two-dollars-why-dollar-170915358.html",
+     "pubDate": "2026-09-12T17:09:15Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "A Tale of Two Dollars: Why Dollar General Outpaced Dollar Tree This Quarter"
+    },
+    {
+     "title": "BioMarin Shares Jump 5% After Global Patent Settlement With Ascendis",
+     "link": "https://finance.yahoo.com/healthcare/articles/biomarin-shares-jump-5-global-170253036.html",
+     "pubDate": "2026-09-12T17:02:53Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "BioMarin Shares Jump 5% After Global Patent Settlement With Ascendis"
+    },
+    {
+     "title": "Anthropic&apos;s Amodei proposes plan to &apos;slow the pace&apos; of advancing AI capabilities",
+     "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+     "pubDate": "Sat, 12 Sep 2026 17:00:10 GMT",
+     "summary": "Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.",
+     "source": "CNBC",
+     "zh": "Anthropic&apos;s Amodei proposes plan to &apos;slow the pace&apos; of advancing AI capabilities"
+    },
+    {
+     "title": "Teva’s (TEVA) $125 Million BioXcel Bid Offers Upside, but FDA and Auction Risks Remain",
+     "link": "https://finance.yahoo.com/healthcare/articles/teva-teva-125-million-bioxcel-165735518.html",
+     "pubDate": "2026-09-12T16:57:35Z",
+     "summary": "",
+     "source": "Yahoo Finance",
+     "zh": "Teva’s (TEVA) $125 Million BioXcel Bid Offers Upside, but FDA and Auction Risks Remain"
+    },
+    {
+     "title": "India’s central bank tells Tata Sons to take conglomerate public",
+     "link": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
+     "pubDate": "Sat, 12 Sep 2026 16:20:04 GMT",
+     "summary": "RBI rejects group’s appeal against forced listing, setting the stage for what could become India’s biggest IPO",
+     "source": "Financial Times",
+     "zh": "India’s central bank tells Tata Sons to take conglomerate public"
+    },
+    {
+     "title": "有选手赛场在赛场留下明显污渍，HYROX中国：第一时间对涉事区域封闭隔离",
+     "link": "http://www.eeo.com.cn/2026/0913/1034317.shtml",
+     "pubDate": "Sun, 13 Sep 2026 00:13:13 +0800",
+     "summary": "本文来源：时代财经 9月10日至13日，2026年HYROX北京站在北京国家速滑馆举行。9月12日，有网友在社交平台发布HYROX北京站比赛视频，显示有选手疑似在比赛过程中在赛场留下明显污渍。 9月12日晚，HYROX中国针对北京站赛事期间赛场卫生相关问题发布正式说明。情况说明称，事件发生后，赛事组委会第一时间对涉事区域及受影响赛道执行封闭隔离，完成全面消杀作业，相关工作持续至当日赛事全部结束。现场已对相关器械做...",
+     "source": "经济观察网",
+     "zh": "有选手赛场在赛场留下明显污渍，HYROX中国：第一时间对涉事区域封闭隔离"
+    },
+    {
+     "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+     "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+     "pubDate": "Sat, 12 Sep 2026 16:01:00 GMT",
+     "summary": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
+     "source": "MarketWatch",
+     "zh": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?"
+    },
+    {
+     "title": "CBRE, BXP among real estate losers; Host Hotels & Resorts, Fermi in gainers",
+     "link": "https://seekingalpha.com/news/4642197-cbre-bxp-among-real-estate-losers-host-hotels-resorts-fermi-in-gainers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 12 Sep 2026 12:00:14 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CBRE, BXP among real estate losers; Host Hotels & Resorts, Fermi in gainers"
     },
     {
      "title": "折叠屏集体“上桌”：华为秒罄、苹果入局，高端市场战火重燃",
@@ -2226,14 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "iPhone 18 Pro系列预售秒售罄，最高溢价3000元"
     },
     {
-     "title": "Genesco (GCO) Proves Smaller Sales Can Still Mean Bigger Profits",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/genesco-gco-proves-smaller-sales-150521690.html",
-     "pubDate": "2026-09-12T15:05:21Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Genesco (GCO) Proves Smaller Sales Can Still Mean Bigger Profits"
-    },
-    {
      "title": "Insider trades: Nvidia, Tesla, Uber among notable names",
      "link": "https://seekingalpha.com/news/4642241-insider-trades-nvidia-tesla-uber-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 12 Sep 2026 11:03:26 -0400",
@@ -2248,6 +2368,14 @@ window.INDUSTRY_DATA = {
      "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?”",
      "source": "MarketWatch",
      "zh": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?"
+    },
+    {
+     "title": "习近平会见印度总理莫迪",
+     "link": "http://finance.eastmoney.com/news/1351,202609123872768260.html",
+     "pubDate": "Sat, 12 Sep 2026 22:56:26 +0800",
+     "summary": "当地时间9月12日下午，国家主席习近平在印度新德里出席金砖国家领导人第十八次会晤期间会见印度总理莫迪。两国领导人坦诚深入交换意见，就中印要做伙伴达成重要共识。 习近平指出，中方始终从战略高度和长远角度看待和发展中印关系。近两年，我同莫迪总理两次会晤，引领中印关系从“再出发”实现“再提升”。两国机制性交往逐步恢复，合作清单不断拉长，双边贸易额再创新高。这一局面来之不易，值得珍惜。中印两国国情不同，完全可以取长补短、相互支持、彼此成就、共同发展。面对变乱交织的国际形势，中国和印度作为世界上人口最多的两个国家和全球南方重要成员，肩负重要责任。双方要以人类前途为怀、以人民福祉为念，携手推动“大金砖合作",
+     "source": "东方财富资讯",
+     "zh": "习近平会见印度总理莫迪"
     },
     {
      "title": "库里亮相粤BA全明星赛！球迷：敬佩他从低谷重回巅峰的故事",
@@ -2266,36 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic CEO Amodei calls to 'slow the pace' of AI model improvements"
     },
     {
-     "title": "Victoria’s Secret’s (VSXY) Bra Boom Just Rewrote Its Growth Story",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/victoria-secret-vsxy-bra-boom-144101942.html",
-     "pubDate": "2026-09-12T14:41:01Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Victoria’s Secret’s (VSXY) Bra Boom Just Rewrote Its Growth Story"
-    },
-    {
      "title": "2026渝超联赛揭幕战在长寿打响 一张票带火“赛事+文旅”消费链",
      "link": "http://www.eeo.com.cn/2026/0912/1034300.shtml",
      "pubDate": "Sat, 12 Sep 2026 22:26:12 +0800",
      "summary": "第1眼TV-华龙网讯（首席记者 陈美西）时隔半年，渝超联赛再次点燃山城球迷的热情！9月12日19:35，2026重庆城市足球超级联赛揭幕战在长寿体育中心打响，在一万五千余名球迷的见证下，武隆乐源队客场1:0战胜长寿飞华队，拿下新赛季开门红。今年，新赛季渝超联赛全面升级，赛制迎来重大调整，一场属于重庆草根足球的盛宴正式拉开大幕…… <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/11405B4...",
      "source": "经济观察网",
      "zh": "2026渝超联赛揭幕战在长寿打响 一张票带火“赛事+文旅”消费链"
-    },
-    {
-     "title": "Smith & Wesson’s (SWBI) Profit Turnaround Comes With a Catch",
-     "link": "https://finance.yahoo.com/markets/stocks/articles/smith-wesson-swbi-profit-turnaround-142440248.html",
-     "pubDate": "2026-09-12T14:24:40Z",
-     "summary": "",
-     "source": "Yahoo Finance",
-     "zh": "Smith & Wesson’s (SWBI) Profit Turnaround Comes With a Catch"
-    },
-    {
-     "title": "倒计时3天｜2026年国家网络安全宣传周“网络安全意识和素养提升”分论坛即将举办",
-     "link": "http://www.eeo.com.cn/2026/0912/1034298.shtml",
-     "pubDate": "Sat, 12 Sep 2026 22:13:14 +0800",
-     "summary": "9月15日，由中央网信办网络社会工作局作为联络单位，中国互联网发展基金会主办、光明网承办的2026年国...",
-     "source": "经济观察网",
-     "zh": "倒计时3天｜2026年国家网络安全宣传周“网络安全意识和素养提升”分论坛即将举办"
     },
     {
      "title": "Notable tech headlines for the week: Apple, Nvidia, Oracle in focus",
@@ -2320,110 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Notable analyst calls this week: Lockheed Martin, Meta and Intel among top picks"
-    },
-    {
-     "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
-     "link": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
-     "pubDate": "Sat, 12 Sep 2026 14:01:00 GMT",
-     "summary": "“Over the years, my mother and I have supplemented his income.”",
-     "source": "MarketWatch",
-     "zh": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?"
-    },
-    {
-     "title": "Blue Owl, FactSet in losers; Wells Fargo, CleanSpark in gainers: week's financials wrap",
-     "link": "https://seekingalpha.com/news/4642162-blue-owl-factset-in-losers-wells-fargo-cleanspark-in-gainers-weeks-financials-wrap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 12 Sep 2026 10:00:12 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Blue Owl, FactSet in losers; Wells Fargo, CleanSpark in gainers: week's financials wrap"
-    },
-    {
-     "title": "Buffett&apos;s confidence in troubled decade-old acquisition finally pays off",
-     "link": "https://www.cnbc.com/2026/09/12/buffetts-confidence-in-troubled-decade-old-acquisition-finally-pays-off.html",
-     "pubDate": "Sat, 12 Sep 2026 13:20:04 GMT",
-     "summary": "Warren Buffett has said he paid too much for Precision Castparts in 2016. Now its complex metal castings are in high demand.",
-     "source": "CNBC",
-     "zh": "Buffett&apos;s confidence in troubled decade-old acquisition finally pays off"
-    },
-    {
-     "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India&apos;s Modi urges dialogue and peace",
-     "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
-     "pubDate": "Sat, 12 Sep 2026 13:15:04 GMT",
-     "summary": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.",
-     "source": "CNBC",
-     "zh": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India&apos;s Modi urges dialogue and peace"
-    },
-    {
-     "title": "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply",
-     "link": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
-     "pubDate": "Sat, 12 Sep 2026 13:02:15 GMT",
-     "summary": "Oil prices retreated on Friday on hopes of a resumptions in negotiations, but notched sharp weekly gains after soaring above $100 a barrel.",
-     "source": "CNBC",
-     "zh": "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply"
-    },
-    {
-     "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
-     "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
-     "pubDate": "Sat, 12 Sep 2026 13:00:00 GMT",
-     "summary": "“I’m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.”",
-     "source": "MarketWatch",
-     "zh": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?"
-    },
-    {
-     "title": "Trump says united Ireland ‘inevitable’ and ‘a very cool thing’",
-     "link": "https://www.ft.com/content/70bd4f6c-a5f4-4e59-b773-614f0a5efd58?syn-25a6b1a6=1",
-     "pubDate": "Sat, 12 Sep 2026 12:56:24 GMT",
-     "summary": "Off-the-cuff remarks from US president during a visit to Ireland anger pro-UK parties",
-     "source": "Financial Times",
-     "zh": "Trump says united Ireland ‘inevitable’ and ‘a very cool thing’"
-    },
-    {
-     "title": "Oil&apos;s roundtrip back to $100. Why China could determine what happens next",
-     "link": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
-     "pubDate": "Sat, 12 Sep 2026 12:40:05 GMT",
-     "summary": "The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May.",
-     "source": "CNBC",
-     "zh": "Oil&apos;s roundtrip back to $100. Why China could determine what happens next"
-    },
-    {
-     "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-     "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-     "pubDate": "Sat, 12 Sep 2026 12:00:00 GMT",
-     "summary": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
-     "source": "MarketWatch",
-     "zh": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?"
-    },
-    {
-     "title": "石油市场已达“转折点”？",
-     "link": "https://wallstreetcn.com/articles/3781634",
-     "pubDate": "Sat, 12 Sep 2026 19:40:15 +0800",
-     "summary": "全球原油市场正站在一个关键节点上。库存加速去化、中国需求强势回归、中东航运通道持续受阻——多重因素叠加，推动油价突破每桶100美元大关，能源分析机构Energy Aspects将当前市场定性为\"转折点\"，并警告油价正迈向\"上行螺旋\"。 Energy Aspects创始人兼市场情报总监Amrita Sen 9月11日在接受CNBC采访时表示， 原油价格具备进一步上涨的条件，趋势方向向上。 她指出，过去两周全球原油库存单周合计去化高达1.2亿桶，而中国的原油采购量已大幅回升至远超春季的水平——据她此前向彭博透露，中国9月原油进口量预计约为每日1000万桶，较6月的不足700万桶增加约300万桶/日",
-     "source": "华尔街见闻",
-     "zh": "石油市场已达“转折点”？"
-    },
-    {
-     "title": "Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks",
-     "link": "https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1",
-     "pubDate": "Sat, 12 Sep 2026 10:50:57 GMT",
-     "summary": "Move is likely to put further momentum behind fast-rising oil prices",
-     "source": "Financial Times",
-     "zh": "Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks"
-    },
-    {
-     "title": "高盛最新判断：利率上升≠美股下跌，盈利增长才是牛市关键",
-     "link": "https://wallstreetcn.com/articles/3781632",
-     "pubDate": "Sat, 12 Sep 2026 18:50:11 +0800",
-     "summary": "华尔街正被“高息恐慌”笼罩，30年期美债收益率飙升至5.3%的近20年高点，10年期逼近5%。但高盛给出了截然不同的冷酷现实： 利率上升绝不等于美股崩盘，盈利才是驱动股市的真正核心。 据追风交易台消息，高盛9月11日最新研报的核心判断是：高利率是股市的逆风，但不是终结牛市的力量。只要 盈利增长保持强劲、企业资产负债表维持健康，美股牛市就有坚实的基础继续延续。 报告认为，尽管标普500远期市盈率已从年初的22倍降至19倍，但 股市相对于债券的估值依然稳定，股票风险溢价维持在3% 。不要被美联储加息初期的阵痛（历史平均回撤2%）洗盘， 加息后12个月美股平均回报率高达+9% 。高盛经济学家预计美联",
-     "source": "华尔街见闻",
-     "zh": "高盛最新判断：利率上升≠美股下跌，盈利增长才是牛市关键"
-    },
-    {
-     "title": "华境拿出“保交付”Plan B",
-     "link": "https://wallstreetcn.com/articles/3781633",
-     "pubDate": "Sat, 12 Sep 2026 17:53:12 +0800",
-     "summary": "因缺芯致歉后，华境的保交付有了新动作。 9月12日，华境S宣布新增四款“鸿蒙+”版本，较对应原版贵3000元。这是为保证交付给出的最新解决方案，接近华境人士表示，在原本配置暂时缺货的情况下，通过用上储备的成熟技术，增加配置，加快交付速度。 华境开始尝试通过增加产品版本，缓解供应压力。对于这家首款车型上市刚满四个月的品牌来说，当下需要争取的是时间：订单已经拿到，交付不能长期卡在一颗芯片上。 此次新增版本的变化集中在鸿蒙座舱，包括搭载MoLA 2.0混合大模型架构、支持方言交流识别、更新车机UI，以及支持外接拓展屏。四款配置覆盖原有不同续航及驱动版本，价差均为3000元。 这张新配置表同时承担着保",
-     "source": "华尔街见闻",
-     "zh": "华境拿出“保交付”Plan B"
     }
    ]
   },

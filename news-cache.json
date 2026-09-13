@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-09-13T14:58:50.931Z",
+  "generatedAt": "2026-09-13T18:04:27.929Z",
   "count": 40,
   "items": [
+    {
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "pubDate": "Sun, 13 Sep 2026 16:30:00 GMT",
+      "content": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
+      "source": "US",
+      "category": "全球综合"
+    },
+    {
+      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+      "pubDate": "Sun, 13 Sep 2026 15:00:00 GMT",
+      "content": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
+      "source": "FED",
+      "category": "美联储"
+    },
     {
       "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
       "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
@@ -43,14 +59,6 @@
       "category": "美股市场"
     },
     {
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "pubDate": "Sun, 13 Sep 2026 12:40:00 GMT",
-      "content": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
-      "source": "US",
-      "category": "全球综合"
-    },
-    {
       "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
       "link": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
       "pubDate": "Sat, 12 Sep 2026 21:50:00 GMT",
@@ -73,14 +81,6 @@
       "content": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?”",
       "source": "US",
       "category": "全球综合"
-    },
-    {
-      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
-      "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
-      "pubDate": "Fri, 11 Sep 2026 23:54:00 GMT",
-      "content": "Economists note that the Fed historically has not been content to raise rates only once.",
-      "source": "FED",
-      "category": "美联储"
     },
     {
       "title": "Jobless claims fall to lowest level since mid-May",

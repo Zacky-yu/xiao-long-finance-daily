@@ -1,0 +1,329 @@
+{
+ "source": "World Gold Council（依据 IMF IFS 统计）",
+ "unit_note": "持仓单位：吨；净增减同时给出「万盎司」（1 吨 = 3.21507466 万盎司）",
+ "method": "净增减采用「环比可比口径」：仅统计本季与上季均已上报的央行之和，避免迟报造成失真",
+ "as_of": "2026-06-30",
+ "as_of_label": "2026 Q2",
+ "prev_label": "2026 Q1",
+ "coverage": {
+  "latest_reporters": 119,
+  "comparable": 65,
+  "universe": 123
+ },
+ "world": {
+  "total_tns": 32737.73,
+  "total_wan_oz": 105254,
+  "panel_tns": 23774.52,
+  "panel_wan_oz": 76437,
+  "net_tns": 116.93,
+  "net_wan_oz": 375.9,
+  "net_pct": 0.492,
+  "reporters": 65,
+  "total_basis": "各国最新可得值加总",
+  "direction": "buy",
+  "strength": {
+   "level": "buy",
+   "text": "明显增持",
+   "pct": 0.49182906742176025
+  }
+ },
+ "history": [
+  {
+   "label": "2024 Q1",
+   "date": "2024-03-31",
+   "qn": 8097,
+   "net_tns": 74.53,
+   "net_wan_oz": 239.6,
+   "reporters": 106
+  },
+  {
+   "label": "2024 Q2",
+   "date": "2024-06-30",
+   "qn": 8098,
+   "net_tns": 22.41,
+   "net_wan_oz": 72,
+   "reporters": 106
+  },
+  {
+   "label": "2024 Q3",
+   "date": "2024-09-30",
+   "qn": 8099,
+   "net_tns": 82.38,
+   "net_wan_oz": 264.9,
+   "reporters": 105
+  },
+  {
+   "label": "2024 Q4",
+   "date": "2024-12-31",
+   "qn": 8100,
+   "net_tns": 124.14,
+   "net_wan_oz": 399.1,
+   "reporters": 105
+  },
+  {
+   "label": "2025 Q1",
+   "date": "2025-03-31",
+   "qn": 8101,
+   "net_tns": 64.61,
+   "net_wan_oz": 207.7,
+   "reporters": 105
+  },
+  {
+   "label": "2025 Q2",
+   "date": "2025-06-30",
+   "qn": 8102,
+   "net_tns": 58.64,
+   "net_wan_oz": 188.5,
+   "reporters": 102
+  },
+  {
+   "label": "2025 Q3",
+   "date": "2025-09-30",
+   "qn": 8103,
+   "net_tns": 70.08,
+   "net_wan_oz": 225.3,
+   "reporters": 100
+  },
+  {
+   "label": "2025 Q4",
+   "date": "2025-12-31",
+   "qn": 8104,
+   "net_tns": 120.73,
+   "net_wan_oz": 388.2,
+   "reporters": 97
+  },
+  {
+   "label": "2026 Q1",
+   "date": "2026-03-31",
+   "qn": 8105,
+   "net_tns": 2.42,
+   "net_wan_oz": 7.8,
+   "reporters": 88
+  },
+  {
+   "label": "2026 Q2",
+   "date": "2026-06-30",
+   "qn": 8106,
+   "net_tns": 116.93,
+   "net_wan_oz": 375.9,
+   "reporters": 65
+  }
+ ],
+ "buyers": [
+  {
+   "iso3": "POL",
+   "name": "波兰",
+   "en": "Poland",
+   "prev_tns": 581.64,
+   "now_tns": 632.43,
+   "change_tns": 50.79,
+   "change_wan_oz": 163.3,
+   "change_pct": 8.73
+  },
+  {
+   "iso3": "CHN",
+   "name": "中国",
+   "en": "China",
+   "prev_tns": 2313.46,
+   "now_tns": 2346.43,
+   "change_tns": 32.97,
+   "change_wan_oz": 106,
+   "change_pct": 1.43
+  },
+  {
+   "iso3": "UZB",
+   "name": "乌兹别克斯坦",
+   "en": "Uzbekistan",
+   "prev_tns": 415.54,
+   "now_tns": 431.71,
+   "change_tns": 16.17,
+   "change_wan_oz": 52,
+   "change_pct": 3.89
+  },
+  {
+   "iso3": "KAZ",
+   "name": "哈萨克斯坦",
+   "en": "Kazakhstan",
+   "prev_tns": 353.59,
+   "now_tns": 368.38,
+   "change_tns": 14.79,
+   "change_wan_oz": 47.6,
+   "change_pct": 4.18
+  },
+  {
+   "iso3": "SGP",
+   "name": "新加坡",
+   "en": "Singapore",
+   "prev_tns": 193.84,
+   "now_tns": 203.7,
+   "change_tns": 9.86,
+   "change_wan_oz": 31.7,
+   "change_pct": 5.09
+  },
+  {
+   "iso3": "JOR",
+   "name": "约旦",
+   "en": "Jordan",
+   "prev_tns": 72.75,
+   "now_tns": 78.72,
+   "change_tns": 5.97,
+   "change_wan_oz": 19.2,
+   "change_pct": 8.21
+  },
+  {
+   "iso3": "CZE",
+   "name": "捷克",
+   "en": "Czech Republic",
+   "prev_tns": 76.64,
+   "now_tns": 82.43,
+   "change_tns": 5.79,
+   "change_wan_oz": 18.6,
+   "change_pct": 7.55
+  },
+  {
+   "iso3": "CHL",
+   "name": "智利",
+   "en": "Chile",
+   "prev_tns": 8.39,
+   "now_tns": 9.79,
+   "change_tns": 1.4,
+   "change_wan_oz": 4.5,
+   "change_pct": 16.69
+  },
+  {
+   "iso3": "ARE",
+   "name": "阿联酋",
+   "en": "United Arab Emirates",
+   "prev_tns": 73.52,
+   "now_tns": 74.51,
+   "change_tns": 0.99,
+   "change_wan_oz": 3.2,
+   "change_pct": 1.35
+  },
+  {
+   "iso3": "QAT",
+   "name": "卡塔尔",
+   "en": "Qatar",
+   "prev_tns": 115.23,
+   "now_tns": 116.17,
+   "change_tns": 0.94,
+   "change_wan_oz": 3,
+   "change_pct": 0.82
+  }
+ ],
+ "sellers": [
+  {
+   "iso3": "RUS",
+   "name": "俄罗斯",
+   "en": "Russian Federation",
+   "prev_tns": 2304.75,
+   "now_tns": 2282.98,
+   "change_tns": -21.77,
+   "change_wan_oz": -70,
+   "change_pct": -0.94
+  },
+  {
+   "iso3": "TUR",
+   "name": "土耳其",
+   "en": "Turkey",
+   "prev_tns": 534.85,
+   "now_tns": 530.62,
+   "change_tns": -4.23,
+   "change_wan_oz": -13.6,
+   "change_pct": -0.79
+  },
+  {
+   "iso3": "MEX",
+   "name": "墨西哥",
+   "en": "Mexico",
+   "prev_tns": 120.14,
+   "now_tns": 120.04,
+   "change_tns": -0.1,
+   "change_wan_oz": -0.3,
+   "change_pct": -0.08
+  }
+ ],
+ "top_holders": [
+  {
+   "iso3": "USA",
+   "name": "美国",
+   "en": "United States of America",
+   "tns": 8133.46,
+   "as_of": "2026 Q2",
+   "wan_oz": 26149.7
+  },
+  {
+   "iso3": "DEU",
+   "name": "德国",
+   "en": "Germany",
+   "tns": 3350.25,
+   "as_of": "2026 Q1",
+   "wan_oz": 10771.3
+  },
+  {
+   "iso3": "ITA",
+   "name": "意大利",
+   "en": "Italy",
+   "tns": 2451.84,
+   "as_of": "2026 Q2",
+   "wan_oz": 7882.8
+  },
+  {
+   "iso3": "FRA",
+   "name": "法国",
+   "en": "France",
+   "tns": 2436.97,
+   "as_of": "2026 Q1",
+   "wan_oz": 7835
+  },
+  {
+   "iso3": "CHN",
+   "name": "中国",
+   "en": "China",
+   "tns": 2346.43,
+   "as_of": "2026 Q2",
+   "wan_oz": 7543.9
+  },
+  {
+   "iso3": "RUS",
+   "name": "俄罗斯",
+   "en": "Russian Federation",
+   "tns": 2282.98,
+   "as_of": "2026 Q2",
+   "wan_oz": 7340
+  },
+  {
+   "iso3": "CHE",
+   "name": "瑞士",
+   "en": "Switzerland",
+   "tns": 1039.94,
+   "as_of": "2026 Q2",
+   "wan_oz": 3343.5
+  },
+  {
+   "iso3": "IND",
+   "name": "印度",
+   "en": "India",
+   "tns": 880.51,
+   "as_of": "2026 Q2",
+   "wan_oz": 2830.9
+  },
+  {
+   "iso3": "JPN",
+   "name": "日本",
+   "en": "Japan",
+   "tns": 845.97,
+   "as_of": "2026 Q2",
+   "wan_oz": 2719.9
+  },
+  {
+   "iso3": "POL",
+   "name": "波兰",
+   "en": "Poland",
+   "tns": 632.43,
+   "as_of": "2026 Q2",
+   "wan_oz": 2033.3
+  }
+ ],
+ "generated_at": "2026/10/4 21:00:04"
+}

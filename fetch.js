@@ -186,6 +186,7 @@ function render(data) {
   renderBloggers();
   renderRecommendations(data);
   renderFedTracking(data);
+  renderCentralBanks();
 }
 
 // ─── Market Sentiment ───
@@ -427,6 +428,113 @@ function renderGoldSilver(data) {
   }
 
   grid.innerHTML = html;
+}
+
+// ─── 全球央行黄金持仓 (WGC / IMF IFS) ───
+async function renderCentralBanks() {
+  const el = document.getElementById('cbPanel');
+  if (!el) return;
+
+  let d = null;
+  try {
+    const resp = await fetch('./central-banks.json?v=' + Date.now());
+    if (resp.ok) d = await resp.json();
+  } catch (e) { /* ignore */ }
+
+  if (!d || !d.world) {
+    el.innerHTML = '<div style="font-size:0.82em;color:var(--text-dim);padding:12px;">暂无央行黄金数据（等待 Actions 生成 central-banks.json）</div>';
+    return;
+  }
+
+  const w = d.world;
+  const num = (n, dp) => Number(n).toLocaleString('zh-CN', { minimumFractionDigits: dp || 0, maximumFractionDigits: dp || 0 });
+  const plus = (n, dp) => (n >= 0 ? '+' : '') + num(n, dp);
+  const buy = w.direction === 'buy';
+  const dirCls = buy ? 'buy' : 'sell';
+  const meterPct = { 'strong-buy': 100, 'buy': 72, 'mild-buy': 42, 'flat': 12, 'mild-sell': 42, 'sell': 72, 'strong-sell': 100 }[w.strength.level] || 12;
+  const hist = d.history || [];
+  const maxAbs = Math.max(1, ...hist.map(h => Math.abs(h.net_wan_oz)));
+  const cov = d.coverage || {};
+
+  let html = '';
+
+  // ── 顶部统计卡 ──
+  html += '<div class="cb-stats">';
+
+  html += '<div class="cb-stat">';
+  html += '<div class="cb-label">🏦 全球央行黄金储备合计</div>';
+  html += '<div class="cb-value" style="color:var(--gold-light);">' + num(w.total_tns, 0) + ' <span style="font-size:0.55em;color:var(--text-muted);">吨</span></div>';
+  html += '<div class="cb-sub">≈ ' + num(w.total_wan_oz, 0) + ' 万盎司 · 覆盖 ' + (cov.universe || 0) + ' 家央行（各国最新可得）</div>';
+  html += '</div>';
+
+  html += '<div class="cb-stat cb-' + dirCls + '">';
+  html += '<div class="cb-label">📊 本季净增减 · ' + escHtml(d.as_of_label || '') + '</div>';
+  html += '<div class="cb-value ' + dirCls + '">' + plus(w.net_wan_oz, 1) + ' <span style="font-size:0.5em;color:var(--text-muted);">万盎司</span></div>';
+  html += '<div class="cb-sub">' + plus(w.net_tns, 1) + ' 吨 · ' + plus(w.net_pct, 2) + '% · ' + (w.reporters || 0) + ' 家可比口径</div>';
+  html += '</div>';
+
+  html += '<div class="cb-stat cb-' + dirCls + '">';
+  html += '<div class="cb-label">⚖️ 增持 / 减持力度</div>';
+  html += '<div class="cb-value ' + dirCls + '" style="font-size:1.15em;">' + escHtml(w.strength.text) + '</div>';
+  html += '<div class="cb-meter"><div class="cb-meter-fill ' + dirCls + '" style="width:' + meterPct + '%;"></div></div>';
+  html += '<div class="cb-sub" style="margin-top:6px;">环比净持变化 ' + plus(w.net_pct, 2) + '%（' + escHtml((d.prev_label || '') + ' → ' + (d.as_of_label || '')) + '）</div>';
+  html += '</div>';
+
+  html += '</div>';
+
+  // ── 趋势条 ──
+  if (hist.length) {
+    html += '<div class="cb-trend"><div class="cb-trend-title">📈 近 ' + hist.length + ' 季世界央行黄金净增减（万盎司）</div>';
+    for (const h of hist) {
+      const cls = h.net_wan_oz >= 0 ? 'buy' : 'sell';
+      const width = Math.max(2, Math.round(Math.abs(h.net_wan_oz) / maxAbs * 100));
+      html += '<div class="cb-bar-row">';
+      html += '<span class="cb-bar-label">' + escHtml(h.label) + '</span>';
+      html += '<span class="cb-bar-wrap"><span class="cb-bar ' + cls + '" style="width:' + width + '%;"></span></span>';
+      html += '<span class="cb-bar-val ' + cls + '">' + plus(h.net_wan_oz, 0) + '</span>';
+      html += '</div>';
+    }
+    html += '</div>';
+  }
+
+  // ── 增持 / 减持榜 ──
+  const buyers = d.buyers || [], sellers = d.sellers || [];
+  html += '<div class="cb-rank-grid">';
+
+  html += '<div class="cb-rank"><h4><span style="color:var(--down);">🟢 增持榜</span><span style="font-size:0.8em;color:var(--text-dim);font-weight:400;">' + escHtml(d.as_of_label || '') + ' 环比</span></h4>';
+  if (!buyers.length) html += '<div class="cb-empty">本季无增持记录</div>';
+  buyers.forEach((b, i) => {
+    html += '<div class="cb-rank-row"><span class="cb-rk">' + (i + 1) + '</span>';
+    html += '<span class="cb-cty">' + escHtml(b.name) + '<span class="cb-en">' + escHtml(b.en || '') + '</span></span>';
+    html += '<span class="cb-chg buy">+' + num(b.change_wan_oz, 1) + '<span class="cb-tns">+' + num(b.change_tns, 2) + ' 吨</span></span></div>';
+  });
+  html += '</div>';
+
+  html += '<div class="cb-rank"><h4><span style="color:var(--up);">🔴 减持榜</span><span style="font-size:0.8em;color:var(--text-dim);font-weight:400;">' + escHtml(d.as_of_label || '') + ' 环比</span></h4>';
+  if (!sellers.length) html += '<div class="cb-empty">本季无减持记录</div>';
+  sellers.forEach((b, i) => {
+    html += '<div class="cb-rank-row"><span class="cb-rk">' + (i + 1) + '</span>';
+    html += '<span class="cb-cty">' + escHtml(b.name) + '<span class="cb-en">' + escHtml(b.en || '') + '</span></span>';
+    html += '<span class="cb-chg sell">' + num(b.change_wan_oz, 1) + '<span class="cb-tns">' + num(b.change_tns, 2) + ' 吨</span></span></div>';
+  });
+  html += '</div>';
+
+  html += '</div>';
+
+  // ── 前十大持有国 ──
+  const holders = d.top_holders || [];
+  if (holders.length) {
+    html += '<div class="cb-holders"><div class="cb-trend-title" style="margin-bottom:8px;">🏆 全球前十大持有国（万盎司）</div><div class="cb-holder-grid">';
+    holders.forEach((h, i) => {
+      html += '<div class="cb-holder"><span class="cb-hk">' + (i + 1) + '</span><span class="cb-hn">' + escHtml(h.name) + '</span><span class="cb-hv">' + num(h.wan_oz, 0) + '</span></div>';
+    });
+    html += '</div></div>';
+  }
+
+  // ── 数据说明 ──
+  html += '<div class="cb-note">数据来源：' + escHtml(d.source || 'World Gold Council') + ' · 截至 ' + escHtml(d.as_of_label || '') + ' · 净增减口径：本季与上季均已上报央行之和 · 更新于 ' + escHtml(d.generated_at || '') + '</div>';
+
+  el.innerHTML = html;
 }
 
 // ─── News Analysis ───

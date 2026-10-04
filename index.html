@@ -890,6 +890,60 @@ header .refresh-btn:disabled { opacity: 0.5; cursor: wait; }
 }
 .pm-card .pm-details span { display: flex; align-items: center; gap: var(--space-1); }
 
+/* ═══════════════════════════════════════════════
+   🏦 SECTION: 全球央行黄金持仓 — Central Bank Gold
+   ═══════════════════════════════════════════════ */
+
+.cb-stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:var(--space-3); margin-bottom:var(--space-3); }
+.cb-stat { background:var(--surface); border:1px solid var(--border-light); border-radius:var(--radius-lg); padding:var(--space-4); position:relative; overflow:hidden; transition:all var(--ease); }
+.cb-stat::before { content:''; position:absolute; top:0; left:0; width:100%; height:3px; background:linear-gradient(90deg,var(--gold),var(--gold-light)); }
+.cb-stat.cb-buy::before { background:linear-gradient(90deg,var(--down),#6EE7D0); }
+.cb-stat.cb-sell::before { background:linear-gradient(90deg,var(--up),#ff8a8a); }
+.cb-stat:hover { background:var(--surface-hover); transform:translateY(-2px); box-shadow:var(--shadow-md); }
+.cb-stat .cb-label { font-size:0.76em; color:var(--text-muted); }
+.cb-stat .cb-value { font-size:1.4em; font-weight:700; font-family:var(--font-mono); margin:var(--space-2) 0 var(--space-1); letter-spacing:-0.02em; }
+.cb-stat .cb-value.buy { color:var(--down); }
+.cb-stat .cb-value.sell { color:var(--up); }
+.cb-stat .cb-sub { font-size:0.73em; color:var(--text-muted); line-height:1.5; }
+.cb-meter { height:7px; border-radius:var(--radius-full); background:var(--bg-alt); overflow:hidden; margin-top:var(--space-2); }
+.cb-meter-fill { height:100%; border-radius:var(--radius-full); transition:width .6s ease; }
+.cb-meter-fill.buy { background:linear-gradient(90deg,var(--teal),#6EE7D0); }
+.cb-meter-fill.sell { background:linear-gradient(90deg,var(--up),#ff9a9a); }
+
+.cb-trend { background:var(--surface); border:1px solid var(--border-light); border-radius:var(--radius-md); padding:var(--space-4); margin-bottom:var(--space-3); }
+.cb-trend-title { font-size:0.8em; color:var(--text-secondary); font-weight:600; margin-bottom:var(--space-3); }
+.cb-bar-row { display:grid; grid-template-columns:64px 1fr 84px; align-items:center; gap:var(--space-3); padding:3px 0; font-size:0.76em; }
+.cb-bar-label { color:var(--text-muted); font-family:var(--font-mono); }
+.cb-bar-wrap { background:var(--bg-alt); border-radius:var(--radius-full); height:10px; overflow:hidden; }
+.cb-bar { display:block; height:100%; border-radius:var(--radius-full); }
+.cb-bar.buy { background:linear-gradient(90deg,var(--teal),#6EE7D0); }
+.cb-bar.sell { background:linear-gradient(90deg,var(--up),#ff9a9a); }
+.cb-bar-val { text-align:right; font-family:var(--font-mono); font-weight:600; }
+.cb-bar-val.buy { color:var(--down); }
+.cb-bar-val.sell { color:var(--up); }
+
+.cb-rank-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:var(--space-3); margin-bottom:var(--space-3); }
+.cb-rank { background:var(--surface); border:1px solid var(--border-light); border-radius:var(--radius-md); padding:var(--space-3) var(--space-4); }
+.cb-rank h4 { display:flex; align-items:center; justify-content:space-between; gap:var(--space-2); font-size:0.85em; margin-bottom:var(--space-2); }
+.cb-rank-row { display:grid; grid-template-columns:20px 1fr auto; align-items:center; gap:var(--space-2); padding:6px 0; border-bottom:1px solid var(--border-light); }
+.cb-rank-row:last-child { border-bottom:none; }
+.cb-rk { color:var(--text-dim); font-family:var(--font-mono); font-size:0.76em; }
+.cb-cty { font-size:0.82em; font-weight:500; }
+.cb-cty .cb-en { display:block; color:var(--text-dim); font-size:0.84em; font-weight:400; }
+.cb-chg { font-family:var(--font-mono); font-weight:600; font-size:0.86em; text-align:right; }
+.cb-chg.buy { color:var(--down); }
+.cb-chg.sell { color:var(--up); }
+.cb-chg .cb-tns { display:block; font-size:0.78em; color:var(--text-dim); font-weight:400; }
+.cb-empty { font-size:0.78em; color:var(--text-dim); padding:8px 0; }
+
+.cb-holders { background:var(--surface); border:1px solid var(--border-light); border-radius:var(--radius-md); padding:var(--space-4); margin-bottom:var(--space-3); }
+.cb-holder-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:var(--space-2); }
+.cb-holder { display:flex; align-items:center; gap:var(--space-2); background:var(--bg-alt); border-radius:var(--radius-sm); padding:6px 10px; font-size:0.78em; }
+.cb-hk { color:var(--text-dim); font-family:var(--font-mono); font-size:0.85em; }
+.cb-hn { flex:1; color:var(--text-secondary); }
+.cb-hv { font-family:var(--font-mono); font-weight:600; color:var(--gold-light); }
+.cb-note { font-size:0.68em; color:var(--text-dim); line-height:1.6; padding:var(--space-2) 0; }
+
 /* ═══════════ Loading / Footer / Scrollbar ═══════════ */
 .loading-spinner {
   text-align: center;
@@ -1292,6 +1346,12 @@ header .refresh-btn:disabled { opacity: 0.5; cursor: wait; }
     <div class="section">
       <div class="section-title" style="color:var(--gold-light);">🏆 黄金白银 · 国际现货 &amp; 国内ETF</div>
       <div class="grid-4" id="goldGrid"></div>
+    </div>
+
+    <!-- 🏦 全球央行黄金持仓 -->
+    <div class="section">
+      <div class="section-title" style="color:var(--gold-light);">🏦 全球央行黄金持仓 · 净增减追踪 <span style="font-size:0.6em;color:var(--text-dim);font-weight:400;margin-left:6px;">WGC / IMF IFS · 季度更新</span></div>
+      <div id="cbPanel"></div>
     </div>
 
     <!-- 🎯 行业资讯 (12赛道 108源 · 中英对照) -->

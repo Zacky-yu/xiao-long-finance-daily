@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/4 21:38:47",
+ "generated_at": "2026/10/4 21:47:00",
  "recent_days": 7,
  "industries": [
   {
@@ -1762,6 +1762,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "海南商发二期项目已基本建成，再添三号、四号两个发射工位",
+     "link": "https://www.ithome.com/1/009/731.htm",
+     "pubDate": "Sun, 04 Oct 2026 13:42:07 GMT",
+     "summary": "IT之家 10 月 4 日消息，海南商发 10 月 1 日官宣，海南商业航天发射场二期项目以崭新姿态震撼亮相，该项目已基本建成并正式进入全系统合练阶段。 IT之家注意到，海南商业航天发射场是中国首个专业化商业航天发射基地，位于海南省文昌市东郊镇，由 海南国际商业航天发射有限公司 建设运营。该项目于 2022 年 7 月 6 日正式开工。 2024 年 6 月建成国内首个液体通用型发射工位并具备执行发射能力。 同年 11 月 30 日首次发射长征十二号火箭圆满成功。 2025 年 3 月 12 日实现双工位发射能力。 海南商业航天发射场 二期项目是位于海南省文昌市 东郊镇 的商业航天发射场扩建工",
+     "source": "IT之家",
+     "zh": "海南商发二期项目已基本建成，再添三号、四号两个发射工位"
+    },
+    {
+     "title": "AI军事化的两条路线：美国在拆刹车，中国在踩刹车",
+     "link": "https://www.huxiu.com/article/4895378.html?f=rss",
+     "pubDate": "Sun, 04 Oct 2026 21:41:04 +0800",
+     "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 2026年9月30日，美国国防部长赫格塞思宣布组建“自主作战司令部”，一个四星级联合作战司令部，管辖无人机、人工智能以及指挥控制系统。五角大楼正寻求将自主作战领域支出增加两倍，并在预算申请中提议为无人机及反无人机技术投入740亿美元。 这不是一次普通的军事编制调整。它标志着一件事：AI正式从“辅助工具”升级为作战体系内的核心单元。 但真正值得追问的，不是“谁的AI更强”，而是“谁在踩刹车，谁在拆刹车”。 美国：系统性拆除多重安全刹车 拆内刹。2026年2月，赫格塞思向Anthropic设定“最后通牒”：解除Claude在军事网络上的安全限制，接受",
+     "source": "虎嗅",
+     "zh": "AI军事化的两条路线：美国在拆刹车，中国在踩刹车"
+    },
+    {
      "title": "央视曝光车辆“ETC 异常”短信骗局：系不法分子钓鱼陷阱",
      "link": "https://www.ithome.com/1/009/730.htm",
      "pubDate": "Sun, 04 Oct 2026 13:34:53 GMT",
@@ -1818,22 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "大东方号：领先世界50年的技术，如何输光了商业（技术大败局系列01）"
     },
     {
-     "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-     "link": "https://github.com/Niko1221/Strata",
-     "pubDate": "Sun, 04 Oct 2026 12:51:53 +0000",
-     "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 45 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s"
-    },
-    {
-     "title": "国庆假期前三天：汽车以旧换新 4.6 万辆、数码和智能产品购新 170.9 万件",
-     "link": "https://www.ithome.com/1/009/725.htm",
-     "pubDate": "Sun, 04 Oct 2026 12:46:33 GMT",
-     "summary": "IT之家 10 月 4 日消息，据新华社报道，记者 4 日从商务部获悉，国庆假期过半，全国消费市场平稳有序，生活必需品货足价稳。 商务部商务大数据显示，国庆假期前三天（10 月 1 至 3 日），商务部重点监测的 78 个步行街（商圈）客流量、营业额同比分别增长 3.4%、5.3%。消费品以旧换新带动销售额 196.3 亿元，惠及 348.3 万人次。其中， 汽车以旧换新 4.6 万辆 ，带动新车销售额 74.5 亿元；家电以旧换新 151.1 万台，带动销售额 65.0 亿元； 数码和智能产品购新 170.9 万件 ，带动销售额 49.0 亿元。 IT之家注意到，近日，国家发展改革委会同财政",
-     "source": "IT之家",
-     "zh": "国庆假期前三天：汽车以旧换新 4.6 万辆、数码和智能产品购新 170.9 万件"
-    },
-    {
      "title": "排队没变短，高速服务区的充电桩，建不到够用为止",
      "link": "https://www.huxiu.com/article/4895373.html?f=rss",
      "pubDate": "Sun, 04 Oct 2026 20:23:06 +0800",
@@ -1866,22 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "A profile of Meta Chief AI Officer Alexandr Wang, who is the company&apos;s first senior executive from Gen Z and has succeeded in building hype for Muse (Meghan Bobrowsky/Wall Street Journal)"
     },
     {
-     "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
-     "link": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
-     "pubDate": "Sun, 04 Oct 2026 11:58:47 +0000",
-     "summary": "Article URL: https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and Comments URL: https://news.ycombinator.com/item?id=49953116 Points: 35 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "Rejection Sensitivity in Gifted and Twice-Exceptional Children"
-    },
-    {
-     "title": "为何不救沙特？美国拒绝打击胡塞背后，是一场中东战略大撤退",
-     "link": "https://www.huxiu.com/article/4895370.html?f=rss",
-     "pubDate": "Sun, 04 Oct 2026 19:55:24 +0800",
-     "summary": "本文来自微信公众号： 文化纵横 ，编辑：关尔，作者：朱泉钢 【导读】9月以来，胡塞武装发动大规模军事攻势，迅速占据曼德海峡周边多个战略要地，全球能源与航运市场随之剧烈震荡。也门这一轮冲突升级，究竟因何爆发？也门局势未来又可能会走向何方？在最近一期“纵横说”播客节目在，中东研究专家朱泉钢介绍了当前也门内战和胡塞武装-沙特冲突的来龙去脉与最新变化，分析了域外各利益相关方在此次冲突中的选择及其原因。为了帮助我们更深入地理解也门为什么会形成当前这种支离破碎的政治军事格局，朱老师还简要梳理了它的近现代历史，并着重介绍了频频搅动也门局势的胡塞武装的发展历史和组织机制。 本文为文化纵横原创访谈，仅代表作者观",
-     "source": "虎嗅",
-     "zh": "为何不救沙特？美国拒绝打击胡塞背后，是一场中东战略大撤退"
-    },
-    {
      "title": "All hail electrification. But let’s talk about the hard part.",
      "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
      "pubDate": "Sun, 04 Oct 2026 11:05:53 +0000",
@@ -1906,20 +1890,20 @@ window.INDUSTRY_DATA = {
      "zh": "The Best Gifts Under $25 for Everyone on Your List (2026)"
     },
     {
-     "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
-     "link": "https://www.wired.com/review/meta-glasses-gen-3/",
-     "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
-     "summary": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
-     "source": "WIRED",
-     "zh": "Meta Glasses Nova (Gen 3) Review: Not Much New"
-    },
-    {
      "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
      "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
      "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
      "summary": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
      "source": "WIRED",
      "zh": "The Best Online Gift Cards and Digital Gift Ideas (2026)"
+    },
+    {
+     "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
+     "link": "https://www.wired.com/review/meta-glasses-gen-3/",
+     "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
+     "summary": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
+     "source": "WIRED",
+     "zh": "Meta Glasses Nova (Gen 3) Review: Not Much New"
     },
     {
      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
@@ -1936,22 +1920,6 @@ window.INDUSTRY_DATA = {
      "summary": "Keurig is ready to ditch the K-Cup with a compostable and plastic- and aluminum-free coffee pod, but the price is steep.",
      "source": "WIRED",
      "zh": "Keurig Alta First-Look: No More Plastic K-Cups"
-    },
-    {
-     "title": "Show HN: AI search for every photo and every frame of video on macOS",
-     "link": "https://github.com/allenv0/SCM",
-     "pubDate": "Sun, 04 Oct 2026 09:24:52 +0000",
-     "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 20 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "Show HN: AI search for every photo and every frame of video on macOS"
-    },
-    {
-     "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-     "link": "https://gamehistory.org/5k-magazines/",
-     "pubDate": "Sun, 04 Oct 2026 09:07:11 +0000",
-     "summary": "Article URL: https://gamehistory.org/5k-magazines/ Comments URL: https://news.ycombinator.com/item?id=49952029 Points: 52 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "VGHF Digital Archive passes 5000 magazines. Here's what's next"
     },
     {
      "title": "Q&A with OpenAI VP of Hardware Richard Ho on its Jalapeño inference chip co-designed with Broadcom, using internal OpenAI models to design the chip, and more (Dr. Ian Cutress/More Than Moore)",
@@ -1986,20 +1954,52 @@ window.INDUSTRY_DATA = {
      "zh": "人山人海，为何没换来盆满钵满？"
     },
     {
-     "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-     "link": "https://github.com/PowderworksCode/headstart",
-     "pubDate": "Sun, 04 Oct 2026 06:26:57 +0000",
-     "summary": "Article URL: https://github.com/PowderworksCode/headstart Comments URL: https://news.ycombinator.com/item?id=49951218 Points: 33 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Emitting metadata early makes building/checking Rust up to twice as fast"
-    },
-    {
      "title": "As AI automates parts of pure mathematics research, a look at formalization challenges and why human imagination remains key to deciding which questions to ask (Stephen Wolfram/Stephen Wolfram Writings)",
      "link": "https://www.techmeme.com/261004/p8#a261004p8",
      "pubDate": "Sun, 04 Oct 2026 02:00:39 -0400",
      "summary": "Stephen Wolfram / Stephen Wolfram Writings : As AI automates parts of pure mathematics research, a look at formalization challenges and why human imagination remains key to deciding which questions to ask &nbsp; &mdash;&nbsp; Headlines and History&nbsp; &mdash;&nbsp; The headlines keep coming: such ",
      "source": "Techmeme",
      "zh": "As AI automates parts of pure mathematics research, a look at formalization challenges and why human imagination remains key to deciding which questions to ask (Stephen Wolfram/Stephen Wolfram Writings)"
+    },
+    {
+     "title": "Google prepares to defend a £1.2B UK class action lawsuit over claims it levied \"excessive\" charges on Android apps downloaded from Google Play since 2015 (Financial Times)",
+     "link": "https://www.techmeme.com/261004/p7#a261004p7",
+     "pubDate": "Sun, 04 Oct 2026 01:45:00 -0400",
+     "summary": "Financial Times : Google prepares to defend a &pound;1.2B UK class action lawsuit over claims it levied &ldquo;excessive&rdquo; charges on Android apps downloaded from Google Play since 2015 &nbsp; &mdash;&nbsp; British claim over Google Play Store is latest effort to challenge market power of Big T",
+     "source": "Techmeme",
+     "zh": "Google prepares to defend a £1.2B UK class action lawsuit over claims it levied \"excessive\" charges on Android apps downloaded from Google Play since 2015 (Financial Times)"
+    },
+    {
+     "title": "Toshiba plans to double HDD production capacity for AI data centers within FY2027 from its 2025 level, targeting a 30% share by storage capacity, up from ~10% (Keigo Yoshida/Nikkei Asia)",
+     "link": "https://www.techmeme.com/261004/p6#a261004p6",
+     "pubDate": "Sun, 04 Oct 2026 01:40:01 -0400",
+     "summary": "Keigo Yoshida / Nikkei Asia : Toshiba plans to double HDD production capacity for AI data centers within FY2027 from its 2025 level, targeting a 30% share by storage capacity, up from ~10% &nbsp; &mdash;&nbsp; MANILA &mdash; Japanese technology group Toshiba plans to double production capacity for h",
+     "source": "Techmeme",
+     "zh": "Toshiba plans to double HDD production capacity for AI data centers within FY2027 from its 2025 level, targeting a 30% share by storage capacity, up from ~10% (Keigo Yoshida/Nikkei Asia)"
+    },
+    {
+     "title": "Google freezes product flaw submissions to its OSS Vulnerability Reward Program over an influx of invalid AI-driven reports, plans an update by Q1 2027 (Etiido Uko/Tom&apos;s Hardware)",
+     "link": "https://www.techmeme.com/261004/p5#a261004p5",
+     "pubDate": "Sun, 04 Oct 2026 01:20:01 -0400",
+     "summary": "Etiido Uko / Tom's Hardware : Google freezes product flaw submissions to its OSS Vulnerability Reward Program over an influx of invalid AI-driven reports, plans an update by Q1 2027 &nbsp; &mdash;&nbsp; Engineers and open-source maintainers reportedly overwhelmed by thousands of sloppy reports&nbsp;",
+     "source": "Techmeme",
+     "zh": "Google freezes product flaw submissions to its OSS Vulnerability Reward Program over an influx of invalid AI-driven reports, plans an update by Q1 2027 (Etiido Uko/Tom&apos;s Hardware)"
+    },
+    {
+     "title": "无人机已经是优等生，机器人为什么还要载人",
+     "link": "https://www.tmtpost.com/8158866.html",
+     "pubDate": "Sun, 04 Oct 2026 11:50:27 +0800",
+     "summary": "机器人终究没有放过欢乐谷，很多人看到了关羽骑着机器牛马招摇过市，只不过，这速度还没我奶奶遛弯快？",
+     "source": "钛媒体",
+     "zh": "无人机已经是优等生，机器人为什么还要载人"
+    },
+    {
+     "title": "中国等不来Muse",
+     "link": "https://www.tmtpost.com/8158821.html",
+     "pubDate": "Sun, 04 Oct 2026 11:19:38 +0800",
+     "summary": "三个小循环，整合不出一个大循环",
+     "source": "钛媒体",
+     "zh": "中国等不来Muse"
     }
    ]
   },
@@ -2258,6 +2258,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "中基领创：高端精密抛光耗材自主创新技术实现突破",
+     "link": "http://finance.eastmoney.com/news/1360,202610043888568093.html",
+     "pubDate": "Sun, 04 Oct 2026 21:32:04 +0800",
+     "summary": "中基领创（上海）科技有限公司（简称中基领创）科研团队立足高分子源头原始创新，实现高端精密抛光垫技术跨代突破，布局国产高端耗材全新发展路径。 据悉，中基领创科研团队从高分子设计源头开展原始创新，原创芳环磺酸共价接枝本体亲水纤维一体化成型技术，实现高分子硬段永久锚固亲水官能团，达成材料本征永久亲水、零界面缺陷、零微屑脱落，从底层原理解决传统材料固有短板。配套四区温控熔融拉丝、无粘结剂整体热压成型全套自主工艺，完全绕开海外专利体系，实现结构、机理、工艺三重跨代超越，具备对标国际高端软垫抛光垫的产业化能力。 中基领创公司董事长丛程表示：“高端关键材料没有捷径可走，唯有坚持源头自主创新，跳出跟随仿制的老",
+     "source": "东方财富股票",
+     "zh": "中基领创：高端精密抛光耗材自主创新技术实现突破"
+    },
+    {
+     "title": "沙特资本市场管理局主席：可能出台更多IPO监管措施",
+     "link": "http://global.eastmoney.com/news/11798,202610043888567594.html",
+     "pubDate": "Sun, 04 Oct 2026 21:31:23 +0800",
+     "summary": "沙特资本市场管理局（CMA）主席马赞·苏代里（Mazen Al-Sudairi）表示，该机构仍在研究修改外资持股限制，同时表示可能出台更多IPO监管措施。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "沙特资本市场管理局主席：可能出台更多IPO监管措施"
+    },
+    {
+     "title": "伊朗表示愿推动也门胡塞武装与沙特对话",
+     "link": "http://finance.eastmoney.com/news/1351,202610043888567240.html",
+     "pubDate": "Sun, 04 Oct 2026 21:29:12 +0800",
+     "summary": "伊朗外交部发言人巴加埃当地时间4日说， 伊朗愿推动也门胡塞武装与沙特阿拉伯通过对话解决冲突。 据伊朗方面消息，巴加埃在当天举行的新闻发布会上作上述表态。巴加埃表示，解决也门问题的办法不是加剧经济封锁，也不是轰炸。伊朗方面认为，胡塞武装和沙特应以先前达成的和平路线图为基础开展对话，伊朗“愿提供一切帮助，推动这一进程”。 胡塞武装与沙特之间的最新一轮冲突始于7月中旬，双方保持4年多的相对平静局面随之被打破。7月13日，胡塞武装指责沙特空袭其控制的萨那国际 机场 ，并向沙特南部发射导弹进行报复。此后数周，胡塞武装和沙特多次互相袭击。 胡塞武装本月3日称，使用弹道导弹和 无人机 袭击了位于沙特首都利雅",
+     "source": "东方财富股票",
+     "zh": "伊朗表示愿推动也门胡塞武装与沙特对话"
+    },
+    {
+     "title": "诺奖明起揭晓！这些领域被看好",
+     "link": "http://finance.eastmoney.com/news/1360,202610043888567830.html",
+     "pubDate": "Sun, 04 Oct 2026 21:28:00 +0800",
+     "summary": "一年一度的诺贝尔奖季又要来了！ 诺贝尔奖官网消息显示，2026年诺贝尔奖各奖项将在10月5日至12日陆续揭晓。其中最早公布的将是生理学或医学奖，该奖项将于北京时间10月5日（星期一）17时30分公布。随后公布物理学奖、化学奖、经济学奖等奖项。 2026年诺贝尔奖奖金再次上调 值得注意的是，就在上个月，诺贝尔基金会决定，2026年每项诺贝尔奖的奖金都将增加100万瑞典克朗（约合67万元人民币），达到1200万瑞典克朗（约合801万元人民币）。 “今年，我们庆祝诺贝尔奖125周年，借此机会，我们很高兴能够将奖金金额增加100万瑞典克朗。通过提高奖金金额，我们维护了诺贝尔奖的长期意义，并确保奖项的财",
+     "source": "东方财富股票",
+     "zh": "诺奖明起揭晓！这些领域被看好"
+    },
+    {
+     "title": "深圳发布雷雨大风黄色预警信号，深圳航空：目前航班延误有加剧趋势",
+     "link": "http://finance.eastmoney.com/news/11790,202610043888567615.html",
+     "pubDate": "Sun, 04 Oct 2026 21:27:13 +0800",
+     "summary": "深圳市气象台2026年10月4日19时45分将分区雷雨大风黄色预警信号扩展至全市，受雷雨云团影响，预计深圳市中东部地区未来2小时阵风将达8级或以上，并伴有强雷电。随后，深圳航空发布乘机提示：“目前强对流天气已覆盖 深圳机场 及航路，航班运行受到直接影响，航班延误有加剧趋势，我们将密切关注天气变化，全力保障旅客出行。” （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "深圳发布雷雨大风黄色预警信号，深圳航空：目前航班延误有加剧趋势"
+    },
+    {
+     "title": "商务部：国庆假期前四天全国消费市场平稳有序",
+     "link": "http://finance.eastmoney.com/news/1350,202610043888567052.html",
+     "pubDate": "Sun, 04 Oct 2026 21:26:48 +0800",
+     "summary": "记者从商务部了解到，国庆假期过半，全国消费市场平稳有序，生活必需品货足价稳。 商务部商务 大数据 显示，国庆假期前三天，商务部重点监测的78个步行街（商圈）客流量、营业额同比分别增长3.4%、5.3%。消费品以旧换新带动销售额196.3亿元，惠及348.3万人次。其中， 汽车 以旧换新4.6万辆，带动新车销售额74.5亿元；家电以旧换新151.1万台，带动销售额65亿元；数码和智能产品购新170.9万件，带动销售额49亿元。 各地生活必需品市场供应充足，价格总体平稳。商务部商务 大数据 显示，假期前四天，全国200家大型农副产品批发市场库存充足，粮油、猪肉、牛羊肉、水果价格与节前基本持平，蔬菜",
+     "source": "东方财富股票",
+     "zh": "商务部：国庆假期前四天全国消费市场平稳有序"
+    },
+    {
      "title": "余承东：没想到，工作备注比正文还抢镜",
      "link": "http://www.eeo.com.cn/2026/1004/1056092.shtml",
      "pubDate": "Sun, 04 Oct 2026 21:26:20 +0800",
@@ -2448,54 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Recriminations among various governments escalate after attempted hijacking of flight from Dubai to Tel Aviv last week",
      "source": "Financial Times",
      "zh": "Australian authorities probe Flydubai attacker’s links to country"
-    },
-    {
-     "title": "白宫AI峰会“权力图谱”：扎克伯格最受特朗普认可，马斯克刻意疏离，Amodei焦虑藏不住",
-     "link": "https://wallstreetcn.com/articles/3782984",
-     "pubDate": "Sun, 04 Oct 2026 17:00:27 +0800",
-     "summary": "科技巨头再度齐聚白宫，一场AI峰会在政策议程之外，意外成为一堂关于权力与人际关系的公开课。 本周二，马克·扎克伯格、埃隆·马斯克、Anthropic首席执行官Dario Amodei、英伟达CEO Jensen Huang、谷歌CEO Sundar Pichai、OpenAI总裁Greg Brockman等AI领域头部人物齐聚白宫，就AI安全与数据中心建设展开会谈。峰会最终促成一份由各方签署的自愿性承诺协议，特朗普将其定性为具有\"道德约束力\"的协议。峰会结束后的媒体见面环节被广泛传播，网络上随即掀起一轮对各位亿万富翁肢体语言与相互关系的密集解读。 这场权力场域中的微妙互动，折射出AI行业与华盛",
-     "source": "华尔街见闻",
-     "zh": "白宫AI峰会“权力图谱”：扎克伯格最受特朗普认可，马斯克刻意疏离，Amodei焦虑藏不住"
-    },
-    {
-     "title": "品牌方宣布与马拉松途中坐自行车博主终止合作，并致歉",
-     "link": "http://www.eeo.com.cn/2026/1004/1056070.shtml",
-     "pubDate": "Sun, 04 Oct 2026 16:52:15 +0800",
-     "summary": "近日，53万粉丝健身博主“Abeeeer”参加柏林马拉松，被拍到坐自行车作弊，引发关注。10月3日凌晨，涉事博主“Abeeeer”发文致歉，称确实违反了赛事规则，我不做任何辩解。 10月4日，BROOKS中国发布声明，原文如下： 关于近期合作者参赛涉嫌违规事件的说明 我们关注到近期有关我司相关合作者在参加2026年柏林马拉松比赛中涉嫌违反赛事规则的讨论。我们现就此次合作相关事宜作出说明并郑重道歉如下：...",
-     "source": "经济观察网",
-     "zh": "品牌方宣布与马拉松途中坐自行车博主终止合作，并致歉"
-    },
-    {
-     "title": "a16z对话：企业级软件都将被AI Agent重做一遍",
-     "link": "https://wallstreetcn.com/articles/3782982",
-     "pubDate": "Sun, 04 Oct 2026 16:06:02 +0800",
-     "summary": "企业采购正在成为AI原生创业公司攻克传统软件巨头的关键战场。 10月2日知名风投a16z播客访谈节目中，主持人Elena Burger与a16z合伙人Seema Amble，以及企业AI采购智能体初创公司Lio的联合创始人兼CEO Vladimir Keil，就AI应用公司 如何对抗传统软件巨头 、 AI智能体在真实商业环境中的渗透路径 及 财务回报 等市场核心关注点展开了深度对话。 （ 左 ：a16z Fintech团队合伙人Seema Amble； 中 ：a16z Enterprise团队投资人Elena Burger； 右 ：AI采购多智能体Lio公司CEO Vladimir Keil。",
-     "source": "华尔街见闻",
-     "zh": "a16z对话：企业级软件都将被AI Agent重做一遍"
-    },
-    {
-     "title": "“AI沙皇”人选定了！白宫成立“超级智能”工作组，计划120天拿出AI监管方案",
-     "link": "https://wallstreetcn.com/articles/3782979",
-     "pubDate": "Sun, 04 Oct 2026 14:37:54 +0800",
-     "summary": "美国白宫成立\"超级智能\"工作组，确立美国政府在人工智能监管中的角色定位，标志着特朗普政府在AI治理上迈出实质性一步。 10月3日，据《华尔街日报》报道， 美国国家情报总监Jay Clayton将出任\"超级智能\"工作组负责人，即特朗普口中的“AI沙皇”，实际上担任白宫的AI事务总协调人。 报道指出，工作组须在120天内就AI风险与机遇提交报告，并就联邦政府的职责边界提出建议。 Clayton表示，若美国在AI领域落后于其他国家，将加剧已知及潜在风险。 工作组的工作或在报告完成后延续，或移交至相关政府机构执行。 高层配置：副总统、多位部长悉数加入 工作组成员阵容显示出白宫对这一议题的高度重视。 美",
-     "source": "华尔街见闻",
-     "zh": "“AI沙皇”人选定了！白宫成立“超级智能”工作组，计划120天拿出AI监管方案"
-    },
-    {
-     "title": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
-     "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
-     "pubDate": "Sun, 04 Oct 2026 05:00:01 GMT",
-     "summary": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine’s expanding use of robotic systems is reshaping frontline warfare.",
-     "source": "CNBC",
-     "zh": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine"
-    },
-    {
-     "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
-     "link": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
-     "pubDate": "Sun, 04 Oct 2026 04:00:07 GMT",
-     "summary": "DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank’s ‘third-party infrastructure arm’ after $4bn takeover",
-     "source": "Financial Times",
-     "zh": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet"
     }
    ]
   },

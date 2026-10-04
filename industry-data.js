@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/5 05:21:09",
+ "generated_at": "2026/10/5 05:39:27",
  "recent_days": 7,
  "industries": [
   {
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "The Hybrid Isn’t Replacing the Bigger Engine, It’s Replacing the Upgrade Path",
+     "link": "https://cleantechnica.com/2026/10/04/the-hybrid-isnt-replacing-the-bigger-engine-its-replacing-the-upgrade-path/",
+     "pubDate": "Sun, 04 Oct 2026 21:15:03 +0000",
+     "summary": "Here at CleanTechnica, we prefer fully electric cars to hybrids. I’ve driven electric for 16 years, but I like to meet people where they are and many people just aren’t ready to make the change, even though it might work fine if they were willing. I wrote about that 3 ... [continued] The post The Hy",
+     "source": "CleanTechnica",
+     "zh": "The Hybrid Isn’t Replacing the Bigger Engine, It’s Replacing the Upgrade Path"
+    },
+    {
      "title": "Europe’s Diesel Woes Just Got Even Worse",
      "link": "https://oilprice.com/Energy/Crude-Oil/Europes-Diesel-Woes-Just-Got-Even-Worse.html",
      "pubDate": "Sun, 04 Oct 2026 16:00:00 -0500",
@@ -936,14 +944,6 @@ window.INDUSTRY_DATA = {
      "summary": "The green hydrogen hype has all but stalled out – but could white hydrogen take its place as the next big thing in decarbonization? Geologic hydrogen, so-called ‘white’ hydrogen, could potentially bypass the most critical barriers to scaling hydrogen use without significantly expanding the sector’s ",
      "source": "OilPrice",
      "zh": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?"
-    },
-    {
-     "title": "Australian Government Accelerates Renewable Energy Transition",
-     "link": "https://cleantechnica.com/2026/10/03/australian-government-accelerates-renewable-energy-transition/",
-     "pubDate": "Sat, 03 Oct 2026 20:08:26 +0000",
-     "summary": "The Australian Renewable Energy Agency (ARENA) has announced the milestone of 100 community batteries being installed. It has also delivered funding for home conversion from gas to electric. The Cheaper Home Battery scheme has been extended to 100 kWh installations. Here’s our spring update. As Aust",
-     "source": "CleanTechnica",
-     "zh": "Australian Government Accelerates Renewable Energy Transition"
     },
     {
      "title": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz",
@@ -1314,12 +1314,60 @@ window.INDUSTRY_DATA = {
      "zh": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency"
     },
     {
+     "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
+     "link": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
+     "pubDate": "Sun, 04 Oct 2026 19:10:59 +0000",
+     "summary": "“I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’” That’s how Richard Spolzino describes the thing he’s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible. At […]",
+     "source": "NASA",
+     "zh": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino"
+    },
+    {
+     "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
+     "pubDate": "Sun, 04 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written",
+     "source": "NASA",
+     "zh": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey"
+    },
+    {
      "title": "ESA to pursue crew transport and space stations as European launchers come online",
      "link": "https://www.nasaspaceflight.com/2026/10/europe-update/",
      "pubDate": "Sat, 03 Oct 2026 22:11:23 +0000",
      "summary": "The European Space Agency (ESA) recently started investigating options for a European-led space station. The… The post ESA to pursue crew transport and space stations as European launchers come online appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "ESA to pursue crew transport and space stations as European launchers come online"
+    },
+    {
+     "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+     "pubDate": "Sat, 03 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written",
+     "source": "NASA",
+     "zh": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge"
+    },
+    {
+     "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+     "link": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+     "pubDate": "Fri, 02 Oct 2026 19:54:54 +0000",
+     "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an e",
+     "source": "NASA",
+     "zh": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia"
+    },
+    {
+     "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+     "link": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+     "pubDate": "Fri, 02 Oct 2026 19:30:00 +0000",
+     "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supportin",
+     "source": "NASA",
+     "zh": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission"
+    },
+    {
+     "title": "NASA’s DAVINCI Probe Can Stand the Heat",
+     "link": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
+     "pubDate": "Fri, 02 Oct 2026 19:00:36 +0000",
+     "summary": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratche",
+     "source": "NASA",
+     "zh": "NASA’s DAVINCI Probe Can Stand the Heat"
     },
     {
      "title": "DOE Announces $400M for Frontier Science Research",
@@ -1714,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: Anthropic&apos;s stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders (Cory Weinberg/The Information)",
+     "link": "https://www.techmeme.com/261004/p18#a261004p18",
+     "pubDate": "Sun, 04 Oct 2026 17:35:10 -0400",
+     "summary": "Cory Weinberg / The Information : Sources: Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders &nbsp; &mdash;&nbsp; When Anthropic shared financial figures recently with prospective investors in its pl",
+     "source": "Techmeme",
+     "zh": "Sources: Anthropic&apos;s stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders (Cory Weinberg/The Information)"
+    },
+    {
      "title": "Sources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday (Financial Times)",
      "link": "https://www.techmeme.com/261004/p17#a261004p17",
      "pubDate": "Sun, 04 Oct 2026 17:05:12 -0400",
@@ -1725,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
      "link": "https://island-three.gruberbuilds.workers.dev/",
      "pubDate": "Sun, 04 Oct 2026 19:49:12 +0000",
-     "summary": "Article URL: https://island-three.gruberbuilds.workers.dev/ Comments URL: https://news.ycombinator.com/item?id=49957191 Points: 13 # Comments: 10",
+     "summary": "Article URL: https://island-three.gruberbuilds.workers.dev/ Comments URL: https://news.ycombinator.com/item?id=49957191 Points: 19 # Comments: 15",
      "source": "Hacker News",
      "zh": "I asked Claude build a physically accurate O'Neill cylinder you can walk around"
     },
@@ -1733,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Homa: The end of TCP for AI clusters [video]",
      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
      "pubDate": "Sun, 04 Oct 2026 19:42:25 +0000",
-     "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf Related: https://lwn.net/Articles/1003059/ , https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 14 # Comments: 2",
+     "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf Related: https://lwn.net/Articles/1003059/ , https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 20 # Comments: 2",
      "source": "Hacker News",
      "zh": "Homa: The end of TCP for AI clusters [video]"
     },
@@ -1741,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
      "link": "https://github.com/omlahore/RemoveMacAI",
      "pubDate": "Sun, 04 Oct 2026 19:42:25 +0000",
-     "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 114 # Comments: 49",
+     "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 139 # Comments: 62",
      "source": "Hacker News",
      "zh": "Turn off Apple Intelligence on macOS 27 and get its disk space back"
     },
@@ -1749,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Improper redaction reveals Google Data Center water and electricity usage",
      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
      "pubDate": "Sun, 04 Oct 2026 19:37:05 +0000",
-     "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 88 # Comments: 88",
+     "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 100 # Comments: 116",
      "source": "Hacker News",
      "zh": "Improper redaction reveals Google Data Center water and electricity usage"
     },
@@ -1789,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Incentives in Academic Research",
      "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
      "pubDate": "Sun, 04 Oct 2026 17:42:38 +0000",
-     "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/ Comments URL: https://news.ycombinator.com/item?id=49956035 Points: 12 # Comments: 4",
+     "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/ Comments URL: https://news.ycombinator.com/item?id=49956035 Points: 12 # Comments: 6",
      "source": "Hacker News",
      "zh": "Incentives in Academic Research"
     },
@@ -1816,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 AI漫剧行业里，最近有一个很反直觉的现象，制作成本确实降了。 按照最朴素的商业直觉，这应该是一场利润革命。 成本从三万元降到三千元，省下来的两万七，难道不应该留在创作者手里吗？ 现实却恰恰相反。许多全职投入AI漫剧的团队发现：效率提高了，账反而更难算了。内容供给猛增，竞争更激烈，投流竞价更高，原本省下来的制作成本，迅速被塞回流量采购里，甚至还要额外倒贴。 内容越便宜，买到一次观看的成本反而越贵。 于是，一群使用了最新生产工具的人，最后成了更高效的“平台打工者”。 这不是AI漫剧独有的故事。 AI Coding、AI搜索、AI音乐、AI陪伴",
      "source": "虎嗅",
      "zh": "AI 创造了更多价值，谁有资格把它变成收入？"
-    },
-    {
-     "title": "Sources: John Ternus has effectively become Apple&apos;s design chief, working in the studio several times a week; OLED touch-screen MacBook Pro will be much lighter (Mark Gurman/Bloomberg)",
-     "link": "https://www.techmeme.com/261004/p12#a261004p12",
-     "pubDate": "Sun, 04 Oct 2026 11:35:02 -0400",
-     "summary": "Mark Gurman / Bloomberg : Sources: John Ternus has effectively become Apple's design chief, working in the studio several times a week; OLED touch-screen MacBook Pro will be much lighter &nbsp; &mdash;&nbsp; Also: A big update on the touch-screen MacBook Pro.&nbsp; &mdash;&nbsp; Apple's John Ternus ",
-     "source": "Techmeme",
-     "zh": "Sources: John Ternus has effectively become Apple&apos;s design chief, working in the studio several times a week; OLED touch-screen MacBook Pro will be much lighter (Mark Gurman/Bloomberg)"
     },
     {
      "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
@@ -1922,20 +1970,20 @@ window.INDUSTRY_DATA = {
      "zh": "The Best Gifts Under $25 for Everyone on Your List (2026)"
     },
     {
-     "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
-     "link": "https://www.wired.com/review/meta-glasses-gen-3/",
-     "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
-     "summary": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
-     "source": "WIRED",
-     "zh": "Meta Glasses Nova (Gen 3) Review: Not Much New"
-    },
-    {
      "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
      "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
      "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
      "summary": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
      "source": "WIRED",
      "zh": "The Best Online Gift Cards and Digital Gift Ideas (2026)"
+    },
+    {
+     "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
+     "link": "https://www.wired.com/review/meta-glasses-gen-3/",
+     "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
+     "summary": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
+     "source": "WIRED",
+     "zh": "Meta Glasses Nova (Gen 3) Review: Not Much New"
     },
     {
      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
@@ -1961,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Weekly poll: are you interested in the vivo X Fold6?",
+     "link": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_vivo_x_fold6-news-74860.php",
+     "pubDate": "Sun, 04 Oct 2026 23:31:02 +0200",
+     "summary": "The vivo X Fold6 launched on July 1 in China and is now starting its worldwide tour – it’s already available in Europe and is expected to launch in India next week. So, now the question is this – are you planning on buying one? First, we have to look at the price and we immediately run into issues. ",
+     "source": "GSMArena",
+     "zh": "Weekly poll: are you interested in the vivo X Fold6?"
+    },
     {
      "title": "The upcoming touchscreen OLED MacBook Pro is reportedly 'significantly lighter'",
      "link": "https://www.engadget.com/2276786/the-upcoming-touchscreen-oled-macbook-pro-is-reportedly-significantly-lighter/",
@@ -2178,14 +2234,6 @@ window.INDUSTRY_DATA = {
      "zh": "This is when the Honor Magic9 series is landing in Europe"
     },
     {
-     "title": "iQOO 16 is headed to India, but at what price?",
-     "link": "https://www.gsmarena.com/iqoo_16_is_headed_to_india_but_at_what_price-news-74888.php",
-     "pubDate": "Sun, 04 Oct 2026 05:31:02 +0200",
-     "summary": "The iQOO 16 became official in China earlier this week. Now if you've been wondering whether it will be available in India, a tipster over on X today tells us that it's a real possibility, as the phone has allegedly started some testing procedures in the country. So it's pretty likely that it will l",
-     "source": "GSMArena",
-     "zh": "iQOO 16 is headed to India, but at what price?"
-    },
-    {
      "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
      "link": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
      "pubDate": "Sat, 03 Oct 2026 21:26:32 +0000",
@@ -2209,6 +2257,30 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "沙特阿美将11月销往亚洲的阿拉伯轻质原油官方售价定为较阿曼/迪拜原油均价贴水5美元/桶",
+     "link": "http://finance.eastmoney.com/news/1356,202610053888576895.html",
+     "pubDate": "Mon, 05 Oct 2026 05:27:19 +0800",
+     "summary": "沙特阿美将11月销往亚洲的阿拉伯轻质原油官方售价定为较阿曼/迪拜原油均价贴水5美元/桶。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "沙特阿美将11月销往亚洲的阿拉伯轻质原油官方售价定为较阿曼/迪拜原油均价贴水5美元/桶"
+    },
+    {
+     "title": "波黑公布主席团成员选举初步结果",
+     "link": "http://finance.eastmoney.com/news/1351,202610053888576782.html",
+     "pubDate": "Mon, 05 Oct 2026 05:26:35 +0800",
+     "summary": "当地时间10月4日晚，波黑中央选举委员会公布波黑主席团选举初步结果，戴尼斯·贝契罗维奇（Denis Beirovi）、达里亚娜·菲利波维奇（Darijana Filipovi）、热莉卡·茨维亚诺维奇（eljka Cvijanovi）分别在波什尼亚克族、克罗地亚族、塞尔维亚族候选人中领先。 最终结果将在主管选举机构完成选票处理和核实后公布。 波黑宪法规定，波黑主席团由3人组成，分别来自波什尼亚克族、克罗地亚族和塞尔维亚族，3人轮流担任主席团主席行使国家元首职责。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "波黑公布主席团成员选举初步结果"
+    },
+    {
+     "title": "OpenAI’s Altman draws regulatory divide with Anthropic over AI risks: Politico",
+     "link": "https://seekingalpha.com/news/4650047-openai-s-altman-draws-regulatory-divide-with-anthropic-over-ai-risks-politico?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 04 Oct 2026 17:16:51 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "OpenAI’s Altman draws regulatory divide with Anthropic over AI risks: Politico"
+    },
     {
      "title": "Schneider Electric nears deal to buy software group PTC for $20bn",
      "link": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
@@ -2282,14 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom"
     },
     {
-     "title": "消息人士称迪拜航空副驾驶原计划驾机撞向以机场航站楼",
-     "link": "http://finance.eastmoney.com/news/1351,202610053888576254.html",
-     "pubDate": "Mon, 05 Oct 2026 04:13:25 +0800",
-     "summary": "据以色列方面当地时间10月4日消息称，9月30日在迪拜航空客机上袭击机长的阿曼籍副驾驶哈马姆·哈马米在阿联酋受审时供称，他原计划驾驶该架客机“直接撞向”以色列特拉维夫的本-古里安国际 机场 。 消息称，哈马米选择在客机飞至约旦上空时袭击机长，原计划让飞机正常飞行至快要抵达本-古里安 机场 、以军机来不及实施拦截时，驾机撞向 机场 航站楼。受伤机长不惜一切代价打开驾驶舱门，挫败了哈马米的企图。 以色列消息人士称，哈马米在审讯中表示，他在被迪拜航空录用前就已策划袭击。他曾研究哪些航空公司运营飞往特拉维夫的航线，并尝试应聘，最终被迪拜航空聘用。 9月30日，迪拜航空FZ1073航班从阿联酋迪拜飞往特",
-     "source": "东方财富股票",
-     "zh": "消息人士称迪拜航空副驾驶原计划驾机撞向以机场航站楼"
-    },
-    {
      "title": "Dealmaking slowdown threatens early end to M&A boom",
      "link": "https://www.ft.com/content/00fb4438-1f86-4bf2-a165-0c39f3fd506b?syn-25a6b1a6=1",
      "pubDate": "Sun, 04 Oct 2026 20:00:10 GMT",
@@ -2304,14 +2368,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I have $152,000 in my IRA and Roth accounts.”",
      "source": "MarketWatch",
      "zh": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?"
-    },
-    {
-     "title": "日本Rapidus公司将协助17家企业为其客户开展芯片设计工作 合作方包括东芝旗下子公司东芝信息系统等企业",
-     "link": "http://finance.eastmoney.com/news/1360,202610053888576142.html",
-     "pubDate": "Mon, 05 Oct 2026 03:53:42 +0800",
-     "summary": "日本Rapidus公司将协助17家企业为其客户开展芯片设计工作，合作方包括东芝旗下子公司东芝信息系统等企业。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "日本Rapidus公司将协助17家企业为其客户开展芯片设计工作 合作方包括东芝旗下子公司东芝信息系统等企业"
     },
     {
      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
@@ -2360,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.",
      "source": "CNBC",
      "zh": "Supreme Court Justice Alito said he&apos;s &apos;thought about&apos; retirement as Senate control hangs in balance"
-    },
-    {
-     "title": "SA Asks: Is Moderna's stock now a sell after the recent run-up?",
-     "link": "https://seekingalpha.com/news/4650042-sa-asks-is-modernas-stock-now-a-sell-after-the-recent-run-up?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 04 Oct 2026 13:36:11 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: Is Moderna's stock now a sell after the recent run-up?"
     },
     {
      "title": "美股通宵交易，要来了",

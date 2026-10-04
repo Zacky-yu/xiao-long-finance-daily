@@ -187,6 +187,7 @@ function render(data) {
   renderRecommendations(data);
   renderFedTracking(data);
   renderCentralBanks();
+  applyFreshness();
 }
 
 // ─── Market Sentiment ───
@@ -443,8 +444,10 @@ async function renderCentralBanks() {
 
   if (!d || !d.world) {
     el.innerHTML = '<div style="font-size:0.82em;color:var(--text-dim);padding:12px;">暂无央行黄金数据（等待 Actions 生成 central-banks.json）</div>';
+    setFresh('freshCb', '无数据', 'stale');
     return;
   }
+  setFresh('freshCb', (d.as_of_label ? '数据 ' + d.as_of_label + ' · ' : '') + (d.generated_at ? '更新于 ' + d.generated_at : ''), 'live');
 
   const w = d.world;
   const num = (n, dp) => Number(n).toLocaleString('zh-CN', { minimumFractionDigits: dp || 0, maximumFractionDigits: dp || 0 });
@@ -617,8 +620,10 @@ async function renderMarketTrend() {
 
   if (!data || !data.trends || data.trends.length === 0) {
     el.innerHTML = '<div style="font-size:0.82em;color:var(--text-dim);padding:12px;">暂无市场动向数据，请更新 market-trend.json</div>';
+    setFresh('freshTrend', '无数据', 'stale');
     return;
   }
+  freshByDate('freshTrend', data.date, '数据 ');
 
   const trendIcon = {
     '上行': '📈',
@@ -681,8 +686,10 @@ async function renderBloggers() {
 
   if (!data || !data.bloggers || data.bloggers.length === 0) {
     el.innerHTML = '<div style="font-size:0.82em;color:var(--text-dim);padding:12px;">暂无博主操作数据，请更新 fund-bloggers.json</div>';
+    setFresh('freshBloggers', '无数据', 'stale');
     return;
   }
+  freshByDate('freshBloggers', data.date, '数据 ');
 
   const tagMap = {
     '稳健型': 'tag-steady',
@@ -888,8 +895,10 @@ function renderIndustryNews(industryData) {
   if (!industryData || !industryData.industries || industryData.industries.length === 0) {
     tabs.innerHTML = '';
     list.innerHTML = '<div class="news-item"><span style="color:var(--text-muted);">行业资讯暂无数据，GitHub Actions 首次运行后生成</span></div>';
+    setFresh('freshIndustry', '无数据', 'stale');
     return;
   }
+  if (industryData.generated_at) setFresh('freshIndustry', '更新于 ' + industryData.generated_at, 'live');
 
   const inds = industryData.industries;
   if (!industryActiveKey || !inds.find(i => i.key === industryActiveKey)) {
@@ -955,6 +964,39 @@ function escHtml(s) {
   const d = document.createElement('div');
   d.textContent = s;
   return d.innerHTML;
+}
+
+// ─── 栏目数据新鲜度角标 ───
+function setFresh(id, text, kind) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  el.textContent = text || '';
+  el.className = 'sec-fresh' + (kind ? ' ' + kind : '');
+}
+function hmNow() {
+  return new Date().toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit', timeZone: 'Asia/Shanghai' });
+}
+function freshByDate(id, dateStr, prefix) {
+  if (!dateStr) { setFresh(id, '', ''); return; }
+  const t = Date.parse(String(dateStr).replace(/\//g, '-'));
+  let kind = '', extra = '';
+  if (!isNaN(t)) {
+    const days = (Date.now() - t) / 86400000;
+    kind = days < 1.5 ? 'live' : (days < 4 ? 'warn' : 'stale');
+    if (days >= 1.5) extra = ' · 已滞后' + (days >= 2 ? Math.floor(days) + '天' : '');
+  }
+  setFresh(id, (prefix || '数据 ') + dateStr + extra, kind);
+}
+function applyFreshness() {
+  const h = hmNow();
+  setFresh('freshSentiment', '实时 ' + h, 'live');
+  setFresh('freshIndices', '实时 ' + h, 'live');
+  setFresh('freshSemi', '实时 ' + h, 'live');
+  setFresh('freshPm', '实时 ' + h, 'live');
+  setFresh('freshForeign', '新闻缓存 ' + h, '');
+  setFresh('freshFed', 'FOMC 表为静态 · 新闻实时', 'warn');
+  setFresh('freshTomorrow', '每日生成', 'warn');
+  setFresh('freshStrategy', '静态策略，需人工更新', 'stale');
 }
 
 // ─── Auto-refresh ───

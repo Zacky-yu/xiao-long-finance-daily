@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/5 02:03:13",
+ "generated_at": "2026/10/5 02:09:19",
  "recent_days": 7,
  "industries": [
   {
@@ -997,7 +997,7 @@ window.INDUSTRY_DATA = {
      "title": "Cities, states sue EPA over power plant emissions rollback",
      "link": "https://www.utilitydive.com/news/cities-states-sue-epa-over-power-plant-emissions-rollback/832016/",
      "pubDate": "Fri, 02 Oct 2026 10:27:26 -0400",
-     "summary": "Chicago, Denver and New York City join multistate lawsuits challenging the agency&rsquo;s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
+     "summary": "Chicago, Denver and New York City joined multistate lawsuits challenging the agency&rsquo;s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
      "source": "Utility Dive",
      "zh": "Cities, states sue EPA over power plant emissions rollback"
     },
@@ -1018,12 +1018,12 @@ window.INDUSTRY_DATA = {
      "zh": "Navigating the quality challenges of US module procurement"
     },
     {
-     "title": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit",
+     "title": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit",
      "link": "https://www.utilitydive.com/news/ferc-transalta-202c-cost-recovery-centralia/832001/",
      "pubDate": "Fri, 02 Oct 2026 09:28:00 -0400",
-     "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and&nbsp; despite the unit&rsquo;s lack of output, payment is due, the agency said.",
+     "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and despite the unit&rsquo;s lack of output, payment is due, the agency said.",
      "source": "Utility Dive",
-     "zh": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit"
+     "zh": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit"
     },
     {
      "title": "ContourGlobal completes construction at 324MW solar PV complex in Colorado",
@@ -1226,6 +1226,14 @@ window.INDUSTRY_DATA = {
      "zh": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000"
     },
     {
+     "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
+     "link": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
+     "pubDate": "Fri, 02 Oct 2026 10:16:54 -0400",
+     "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
+     "source": "BioPharma Dive",
+     "zh": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs"
+    },
+    {
      "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
      "link": "https://www.statnews.com/2026/10/02/biotech-news-lilly-bypasses-australian-phramacies-with-dtc-model/?utm_campaign=rss",
      "pubDate": "Fri, 02 Oct 2026 13:58:31 +0000",
@@ -1288,14 +1296,6 @@ window.INDUSTRY_DATA = {
      "summary": "The department is offering funding to teams with innovative proposals as it considers ending the traditional phased clinical trial system.",
      "source": "BioPharma Dive",
      "zh": "HHS kicks off new programs to speed clinical trials as Chinese competition looms"
-    },
-    {
-     "title": "Pfizer’s eczema drug clears skin in mid-stage trial",
-     "link": "https://www.biopharmadive.com/news/pfizer-eczema-drug-clears-skin-in-mid-stage-trial/831905/",
-     "pubDate": "Thu, 01 Oct 2026 11:03:19 -0400",
-     "summary": "Detailed results are competitive with Dupixent and Ebglyss, but the drug lacks differentiation amid an increasingly competitive landscape, one analyst argued.",
-     "source": "BioPharma Dive",
-     "zh": "Pfizer’s eczema drug clears skin in mid-stage trial"
     }
    ]
   },
@@ -1770,12 +1770,28 @@ window.INDUSTRY_DATA = {
      "zh": "In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump&apos;s push to replace \"artificial\" intelligence with \"super\" (Chandni Shah/Reuters)"
     },
     {
+     "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+     "link": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
+     "pubDate": "Sun, 04 Oct 2026 17:21:26 +0000",
+     "summary": "Article URL: https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and Comments URL: https://news.ycombinator.com/item?id=49955839 Points: 17 # Comments: 8",
+     "source": "Hacker News",
+     "zh": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit"
+    },
+    {
      "title": "DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank&apos;s \"third-party infrastructure arm\" after SoftBank&apos;s ~$4B takeover closed (Financial Times)",
      "link": "https://www.techmeme.com/261004/p13#a261004p13",
      "pubDate": "Sun, 04 Oct 2026 13:00:42 -0400",
      "summary": "Financial Times : DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank's &ldquo;third-party infrastructure arm&rdquo; after SoftBank's ~$4B takeover closed &nbsp; &mdash;&nbsp; DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank's &l",
      "source": "Techmeme",
      "zh": "DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank&apos;s \"third-party infrastructure arm\" after SoftBank&apos;s ~$4B takeover closed (Financial Times)"
+    },
+    {
+     "title": "Blindsight (Watts Novel)",
+     "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
+     "pubDate": "Sun, 04 Oct 2026 16:25:17 +0000",
+     "summary": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel) Comments URL: https://news.ycombinator.com/item?id=49955297 Points: 26 # Comments: 12",
+     "source": "Hacker News",
+     "zh": "Blindsight (Watts Novel)"
     },
     {
      "title": "弄清中国的投资问题|| 大视野",
@@ -1792,6 +1808,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 AI漫剧行业里，最近有一个很反直觉的现象，制作成本确实降了。 按照最朴素的商业直觉，这应该是一场利润革命。 成本从三万元降到三千元，省下来的两万七，难道不应该留在创作者手里吗？ 现实却恰恰相反。许多全职投入AI漫剧的团队发现：效率提高了，账反而更难算了。内容供给猛增，竞争更激烈，投流竞价更高，原本省下来的制作成本，迅速被塞回流量采购里，甚至还要额外倒贴。 内容越便宜，买到一次观看的成本反而越贵。 于是，一群使用了最新生产工具的人，最后成了更高效的“平台打工者”。 这不是AI漫剧独有的故事。 AI Coding、AI搜索、AI音乐、AI陪伴",
      "source": "虎嗅",
      "zh": "AI 创造了更多价值，谁有资格把它变成收入？"
+    },
+    {
+     "title": "Car is a smartphone on wheels. Here's who's listening",
+     "link": "https://automatictransmission.khoury.northeastern.edu/",
+     "pubDate": "Sun, 04 Oct 2026 15:43:14 +0000",
+     "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/ Comments URL: https://news.ycombinator.com/item?id=49954882 Points: 153 # Comments: 77",
+     "source": "Hacker News",
+     "zh": "Car is a smartphone on wheels. Here's who's listening"
     },
     {
      "title": "Sources: John Ternus has effectively become Apple&apos;s design chief, working in the studio several times a week; OLED touch-screen MacBook Pro will be much lighter (Mark Gurman/Bloomberg)",
@@ -1866,6 +1890,14 @@ window.INDUSTRY_DATA = {
      "zh": "央视曝光车辆“ETC 异常”短信骗局：系不法分子钓鱼陷阱"
     },
     {
+     "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+     "link": "https://github.com/Niko1221/Strata",
+     "pubDate": "Sun, 04 Oct 2026 12:51:53 +0000",
+     "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 339 # Comments: 179",
+     "source": "Hacker News",
+     "zh": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s"
+    },
+    {
      "title": "A profile of Meta Chief AI Officer Alexandr Wang, who is the company&apos;s first senior executive from Gen Z and has succeeded in building hype for Muse (Meghan Bobrowsky/Wall Street Journal)",
      "link": "https://www.techmeme.com/261004/p10#a261004p10",
      "pubDate": "Sun, 04 Oct 2026 08:00:43 -0400",
@@ -1930,6 +1962,22 @@ window.INDUSTRY_DATA = {
      "zh": "Keurig Alta First-Look: No More Plastic K-Cups"
     },
     {
+     "title": "Show HN: AI search for every photo and every frame of video on macOS",
+     "link": "https://github.com/allenv0/SCM",
+     "pubDate": "Sun, 04 Oct 2026 09:24:52 +0000",
+     "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 81 # Comments: 44",
+     "source": "Hacker News",
+     "zh": "Show HN: AI search for every photo and every frame of video on macOS"
+    },
+    {
+     "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+     "link": "https://gamehistory.org/5k-magazines/",
+     "pubDate": "Sun, 04 Oct 2026 09:07:11 +0000",
+     "summary": "Article URL: https://gamehistory.org/5k-magazines/ Comments URL: https://news.ycombinator.com/item?id=49952029 Points: 84 # Comments: 13",
+     "source": "Hacker News",
+     "zh": "VGHF Digital Archive passes 5000 magazines. Here's what's next"
+    },
+    {
      "title": "Q&A with OpenAI VP of Hardware Richard Ho on its Jalapeño inference chip co-designed with Broadcom, using internal OpenAI models to design the chip, and more (Dr. Ian Cutress/More Than Moore)",
      "link": "https://www.techmeme.com/261004/p9#a261004p9",
      "pubDate": "Sun, 04 Oct 2026 05:00:41 -0400",
@@ -1952,54 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
      "source": "TechCrunch",
      "zh": "Federal judge calls Flock ‘indiscriminate mass surveillance’"
-    },
-    {
-     "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-     "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-     "pubDate": "Sat, 03 Oct 2026 15:02:01 +0000",
-     "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-     "source": "TechCrunch",
-     "zh": "Jack Dorsey’s Bitchat disappears from app stores in India after government order"
-    },
-    {
-     "title": "The dawn of the age of the exoskeleton",
-     "link": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
-     "pubDate": "Sat, 03 Oct 2026 11:15:33 +0000",
-     "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
-     "source": "Ars Technica",
-     "zh": "The dawn of the age of the exoskeleton"
-    },
-    {
-     "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-     "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-     "pubDate": "Fri, 02 Oct 2026 23:03:16 +0000",
-     "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-     "source": "Ars Technica",
-     "zh": "Apple changes full-disk access permissions to curb abuse from AI agents"
-    },
-    {
-     "title": "Someone got Doom in an SQL database",
-     "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
-     "pubDate": "Fri, 02 Oct 2026 21:19:05 +0000",
-     "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
-     "source": "Ars Technica",
-     "zh": "Someone got Doom in an SQL database"
-    },
-    {
-     "title": "2026.40: Dots and Question Marks",
-     "link": "https://stratechery.com/2026/dots-and-question-marks/",
-     "pubDate": "Fri, 02 Oct 2026 17:00:00 +0000",
-     "summary": "The best Stratechery content from the week of September 28, 2026, including Meta's focus, what OpenAI is doing, and Mao and NBA Media Day.",
-     "source": "Stratechery",
-     "zh": "2026.40: Dots and Question Marks"
-    },
-    {
-     "title": "AI is changing developer work. Here are three skills to strengthen.",
-     "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-     "pubDate": "Fri, 02 Oct 2026 15:00:00 +0000",
-     "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog .",
-     "source": "GitHub Blog",
-     "zh": "AI is changing developer work. Here are three skills to strengthen."
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "What causes screen tearing and how can you fix it?",
+     "link": "https://www.engadget.com/2274514/screen-tear-causes-how-to-fix/",
+     "pubDate": "Sun, 04 Oct 2026 18:00:00 +0000",
+     "summary": "Screen tearing is a distracting and ugly problem, but you have several ways to combat it to keep your games running smoothly.",
+     "source": "Engadget",
+     "zh": "What causes screen tearing and how can you fix it?"
+    },
     {
      "title": "‘Fitbit Edge’ leaks as Google’s next fitness tracker with ‘Apps’ & ‘Notifications’",
      "link": "https://9to5google.com/2026/10/04/google-fitbit-edge-leak/",
@@ -2088,14 +2096,6 @@ window.INDUSTRY_DATA = {
      "summary": "Gaming routers have fancy designs and a few special features, but they can't fix every problem with your network setup.",
      "source": "Engadget",
      "zh": "Do gaming routers really make a difference?"
-    },
-    {
-     "title": "The pros and cons of enabling Wi-Fi calling",
-     "link": "https://www.engadget.com/2273956/wifi-calling-pros-cons/",
-     "pubDate": "Sun, 04 Oct 2026 14:45:00 +0000",
-     "summary": "Wi-Fi calling can help a lot if you're in an area with a weak cellular connection, but you should know the drawbacks before jumping in.",
-     "source": "Engadget",
-     "zh": "The pros and cons of enabling Wi-Fi calling"
     },
     {
      "title": "Redesigned MacBook Pro with OLED to feature ‘significantly lighter’ design: report",
@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "伊朗石油部长辞职 伊朗国家石油公司CEO任代理部长",
+     "link": "http://finance.eastmoney.com/news/1351,202610053888575696.html",
+     "pubDate": "Mon, 05 Oct 2026 01:55:09 +0800",
+     "summary": "当地时间4日，伊朗总统办公室官员表示，在接受石油部长帕克内贾德的辞呈后，伊朗总统佩泽希齐扬已任命伊朗国家石油公司首席执行官哈米德·博尔德为伊朗石油部代理部长。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊朗石油部长辞职 伊朗国家石油公司CEO任代理部长"
+    },
+    {
      "title": "Supreme Court Justice Alito said he&apos;s &apos;thought about&apos; retirement as Senate control hangs in balance",
      "link": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
      "pubDate": "Sun, 04 Oct 2026 17:53:11 GMT",
@@ -2272,6 +2280,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA Asks: Is Moderna's stock now a sell after the recent run-up?"
+    },
+    {
+     "title": "以总理下令对外国民航客机赴以安保工作进行彻底审查",
+     "link": "http://finance.eastmoney.com/news/1351,202610053888575589.html",
+     "pubDate": "Mon, 05 Oct 2026 01:35:25 +0800",
+     "summary": "当地时间10月4日晚间，以色列总理办公室通过社交账号发布声明称，以总理内塔尼亚胡已指示该国国家安全委员会主席什穆埃尔·本·埃兹拉，要求其任命一名专门审查员，针对外国民用航空赴以飞行的所有安保环节展开全面、彻底的深入审查。 9月30日，迪拜航空FZ1073航班从阿联酋迪拜飞往以色列特拉维夫途中发生安全事件。据阿联酋方面消息，该航班副驾驶涉嫌在驾驶舱内刺伤机长，导致客机突然急降。在其他机组人员和乘客制服袭击者后，客机重新得到控制。事发后，该客机改道并安全降落在沙特阿拉伯塔布克 机场 。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "以总理下令对外国民航客机赴以安保工作进行彻底审查"
     },
     {
      "title": "四川宜宾市高县发生3.8级地震 震源深度5公里",
@@ -2330,28 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "Trump adviser Hassett calls on Powell to leave Fed board after renovation report"
     },
     {
-     "title": "吴宜泽夺得2026斯诺克深圳公开赛冠军 世界排名来到第二位",
-     "link": "http://finance.eastmoney.com/news/11790,202610053888574966.html",
-     "pubDate": "Mon, 05 Oct 2026 00:36:59 +0800",
-     "summary": "10月4日，在2026斯诺克深圳公开赛决赛中，吴宜泽以10-5战胜袁思俊，赢下本场中国德比，成功夺得冠军。 这是吴宜泽个人第三座排名赛冠军，本场比赛也使得吴宜泽世界排名来到第二位。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "吴宜泽夺得2026斯诺克深圳公开赛冠军 世界排名来到第二位"
-    },
-    {
      "title": "SoftBank’s Son warns of AI safety risks despite $65B OpenAI bet",
      "link": "https://seekingalpha.com/news/4650039-softbank-s-son-warns-of-ai-safety-risks-despite-65b-openai-bet?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 04 Oct 2026 12:22:51 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SoftBank’s Son warns of AI safety risks despite $65B OpenAI bet"
-    },
-    {
-     "title": "胡塞武装袭击沙特两处石油设施",
-     "link": "http://finance.eastmoney.com/news/1356,202610053888574811.html",
-     "pubDate": "Mon, 05 Oct 2026 00:14:30 +0800",
-     "summary": "也门胡塞武装发言人叶海亚·萨雷亚10月4日发表视频声明称，过去12小时内，沙特对也门首都萨那以及焦夫省、塔伊兹省、阿姆兰省、荷台达省和萨达省发动50次空袭和导弹袭击——自9月初本轮局势升级以来，沙特对也门发动的空袭和导弹袭击累计达到1460次。萨雷亚称，作为报复，胡塞武装当天使用导弹和 无人机 ，袭击了沙特首都利雅得和胡赖斯地区的沙特阿美石油公司设施，并称袭击“成功命中目标”。萨雷亚称，胡塞武装将继续使用也门自产的导弹和 无人机 袭击沙特军事基地及石油设施，直至沙特停止军事行动并解除对也门的封锁。 （文章来源：CCTV国际时讯）",
-     "source": "东方财富股票",
-     "zh": "胡塞武装袭击沙特两处石油设施"
     },
     {
      "title": "Starknet's STRK coin extends surge as trading volume jumps",

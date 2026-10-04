@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/5 05:17:33",
+ "generated_at": "2026/10/5 05:21:09",
  "recent_days": 7,
  "industries": [
   {
@@ -1226,14 +1226,6 @@ window.INDUSTRY_DATA = {
      "zh": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000"
     },
     {
-     "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
-     "link": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-     "pubDate": "Fri, 02 Oct 2026 10:16:54 -0400",
-     "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
-     "source": "BioPharma Dive",
-     "zh": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs"
-    },
-    {
      "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
      "link": "https://www.statnews.com/2026/10/02/biotech-news-lilly-bypasses-australian-phramacies-with-dtc-model/?utm_campaign=rss",
      "pubDate": "Fri, 02 Oct 2026 13:58:31 +0000",
@@ -1296,6 +1288,14 @@ window.INDUSTRY_DATA = {
      "summary": "The department is offering funding to teams with innovative proposals as it considers ending the traditional phased clinical trial system.",
      "source": "BioPharma Dive",
      "zh": "HHS kicks off new programs to speed clinical trials as Chinese competition looms"
+    },
+    {
+     "title": "Pfizer’s eczema drug clears skin in mid-stage trial",
+     "link": "https://www.biopharmadive.com/news/pfizer-eczema-drug-clears-skin-in-mid-stage-trial/831905/",
+     "pubDate": "Thu, 01 Oct 2026 11:03:19 -0400",
+     "summary": "Detailed results are competitive with Dupixent and Ebglyss, but the drug lacks differentiation amid an increasingly competitive landscape, one analyst argued.",
+     "source": "BioPharma Dive",
+     "zh": "Pfizer’s eczema drug clears skin in mid-stage trial"
     }
    ]
   },
@@ -1314,60 +1314,12 @@ window.INDUSTRY_DATA = {
      "zh": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency"
     },
     {
-     "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
-     "link": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
-     "pubDate": "Sun, 04 Oct 2026 19:10:59 +0000",
-     "summary": "“I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’” That’s how Richard Spolzino describes the thing he’s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible. At […]",
-     "source": "NASA",
-     "zh": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino"
-    },
-    {
-     "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
-     "link": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
-     "pubDate": "Sun, 04 Oct 2026 04:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written",
-     "source": "NASA",
-     "zh": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey"
-    },
-    {
      "title": "ESA to pursue crew transport and space stations as European launchers come online",
      "link": "https://www.nasaspaceflight.com/2026/10/europe-update/",
      "pubDate": "Sat, 03 Oct 2026 22:11:23 +0000",
      "summary": "The European Space Agency (ESA) recently started investigating options for a European-led space station. The… The post ESA to pursue crew transport and space stations as European launchers come online appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "ESA to pursue crew transport and space stations as European launchers come online"
-    },
-    {
-     "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-     "link": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
-     "pubDate": "Sat, 03 Oct 2026 04:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written",
-     "source": "NASA",
-     "zh": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge"
-    },
-    {
-     "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
-     "link": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
-     "pubDate": "Fri, 02 Oct 2026 19:54:54 +0000",
-     "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an e",
-     "source": "NASA",
-     "zh": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia"
-    },
-    {
-     "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
-     "link": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
-     "pubDate": "Fri, 02 Oct 2026 19:30:00 +0000",
-     "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supportin",
-     "source": "NASA",
-     "zh": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission"
-    },
-    {
-     "title": "NASA’s DAVINCI Probe Can Stand the Heat",
-     "link": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
-     "pubDate": "Fri, 02 Oct 2026 19:00:36 +0000",
-     "summary": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratche",
-     "source": "NASA",
-     "zh": "NASA’s DAVINCI Probe Can Stand the Heat"
     },
     {
      "title": "DOE Announces $400M for Frontier Science Research",
@@ -1765,7 +1717,7 @@ window.INDUSTRY_DATA = {
      "title": "Sources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday (Financial Times)",
      "link": "https://www.techmeme.com/261004/p17#a261004p17",
      "pubDate": "Sun, 04 Oct 2026 17:05:12 -0400",
-     "summary": "Financial Times : Sources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday &nbsp; &mdash;&nbsp; Acquisition would be French group's largest and expand its industrial software capability&nbsp; &mda",
+     "summary": "Financial Times : Sources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday &nbsp; &mdash;&nbsp; Acquisition would be French conglomerate's largest and enhance its products focused on manufacturers",
      "source": "Techmeme",
      "zh": "Sources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday (Financial Times)"
     },
@@ -1970,20 +1922,20 @@ window.INDUSTRY_DATA = {
      "zh": "The Best Gifts Under $25 for Everyone on Your List (2026)"
     },
     {
-     "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
-     "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
-     "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
-     "summary": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
-     "source": "WIRED",
-     "zh": "The Best Online Gift Cards and Digital Gift Ideas (2026)"
-    },
-    {
      "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
      "link": "https://www.wired.com/review/meta-glasses-gen-3/",
      "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
      "summary": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
      "source": "WIRED",
      "zh": "Meta Glasses Nova (Gen 3) Review: Not Much New"
+    },
+    {
+     "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
+     "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
+     "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
+     "summary": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
+     "source": "WIRED",
+     "zh": "The Best Online Gift Cards and Digital Gift Ideas (2026)"
     },
     {
      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
@@ -2258,6 +2210,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Schneider Electric nears deal to buy software group PTC for $20bn",
+     "link": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
+     "pubDate": "Sun, 04 Oct 2026 21:11:58 GMT",
+     "summary": "Acquisition would be French conglomerate’s largest and enhance its products focused on manufacturers",
+     "source": "Financial Times",
+     "zh": "Schneider Electric nears deal to buy software group PTC for $20bn"
+    },
+    {
+     "title": "OpenAI首席执行官山姆·阿尔特曼在人工智能风险问题上与Anthropic立场出现分歧",
+     "link": "http://finance.eastmoney.com/news/1360,202610053888576646.html",
+     "pubDate": "Mon, 05 Oct 2026 05:08:30 +0800",
+     "summary": "OpenAI首席执行官山姆· 阿尔特 曼在 人工智能 风险问题上与Anthropic立场出现分歧，山姆· 阿尔特 曼表示，他并不认同存在“极高毁灭性风险”。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "OpenAI首席执行官山姆·阿尔特曼在人工智能风险问题上与Anthropic立场出现分歧"
+    },
+    {
      "title": "White House is said to monitor suspected plague case, quarantines in Russia",
      "link": "https://seekingalpha.com/news/4650046-white-house-is-said-to-monitor-suspected-plague-case-quarantines-in-russia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 04 Oct 2026 17:06:19 -0400",
@@ -2344,22 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "日本Rapidus公司将协助17家企业为其客户开展芯片设计工作，合作方包括东芝旗下子公司东芝信息系统等企业。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "日本Rapidus公司将协助17家企业为其客户开展芯片设计工作 合作方包括东芝旗下子公司东芝信息系统等企业"
-    },
-    {
-     "title": "施耐德电气接近达成一项交易 拟以200亿美元收购工业软件企业PTC 交易最早可能于周一公布",
-     "link": "http://finance.eastmoney.com/news/1354,202610053888576076.html",
-     "pubDate": "Mon, 05 Oct 2026 03:36:56 +0800",
-     "summary": "施耐德电气接近达成一项交易，拟以200亿美元收购工业软件企业PTC，交易最早可能于周一公布。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "施耐德电气接近达成一项交易 拟以200亿美元收购工业软件企业PTC 交易最早可能于周一公布"
-    },
-    {
-     "title": "Schneider Electric nears deal to buy software group PTC for $20bn",
-     "link": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
-     "pubDate": "Sun, 04 Oct 2026 19:33:33 GMT",
-     "summary": "Acquisition would be French group’s largest and expand its industrial software capability",
-     "source": "Financial Times",
-     "zh": "Schneider Electric nears deal to buy software group PTC for $20bn"
     },
     {
      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",

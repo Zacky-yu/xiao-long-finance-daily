@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/5 02:09:19",
+ "generated_at": "2026/10/5 02:15:33",
  "recent_days": 7,
  "industries": [
   {
@@ -997,7 +997,7 @@ window.INDUSTRY_DATA = {
      "title": "Cities, states sue EPA over power plant emissions rollback",
      "link": "https://www.utilitydive.com/news/cities-states-sue-epa-over-power-plant-emissions-rollback/832016/",
      "pubDate": "Fri, 02 Oct 2026 10:27:26 -0400",
-     "summary": "Chicago, Denver and New York City joined multistate lawsuits challenging the agency&rsquo;s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
+     "summary": "Chicago, Denver and New York City join multistate lawsuits challenging the agency&rsquo;s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
      "source": "Utility Dive",
      "zh": "Cities, states sue EPA over power plant emissions rollback"
     },
@@ -1018,12 +1018,12 @@ window.INDUSTRY_DATA = {
      "zh": "Navigating the quality challenges of US module procurement"
     },
     {
-     "title": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit",
+     "title": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit",
      "link": "https://www.utilitydive.com/news/ferc-transalta-202c-cost-recovery-centralia/832001/",
      "pubDate": "Fri, 02 Oct 2026 09:28:00 -0400",
-     "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and despite the unit&rsquo;s lack of output, payment is due, the agency said.",
+     "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and&nbsp; despite the unit&rsquo;s lack of output, payment is due, the agency said.",
      "source": "Utility Dive",
-     "zh": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit"
+     "zh": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit"
     },
     {
      "title": "ContourGlobal completes construction at 324MW solar PV complex in Colorado",
@@ -1226,14 +1226,6 @@ window.INDUSTRY_DATA = {
      "zh": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000"
     },
     {
-     "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
-     "link": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-     "pubDate": "Fri, 02 Oct 2026 10:16:54 -0400",
-     "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
-     "source": "BioPharma Dive",
-     "zh": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs"
-    },
-    {
      "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
      "link": "https://www.statnews.com/2026/10/02/biotech-news-lilly-bypasses-australian-phramacies-with-dtc-model/?utm_campaign=rss",
      "pubDate": "Fri, 02 Oct 2026 13:58:31 +0000",
@@ -1296,6 +1288,14 @@ window.INDUSTRY_DATA = {
      "summary": "The department is offering funding to teams with innovative proposals as it considers ending the traditional phased clinical trial system.",
      "source": "BioPharma Dive",
      "zh": "HHS kicks off new programs to speed clinical trials as Chinese competition looms"
+    },
+    {
+     "title": "Pfizer’s eczema drug clears skin in mid-stage trial",
+     "link": "https://www.biopharmadive.com/news/pfizer-eczema-drug-clears-skin-in-mid-stage-trial/831905/",
+     "pubDate": "Thu, 01 Oct 2026 11:03:19 -0400",
+     "summary": "Detailed results are competitive with Dupixent and Ebglyss, but the drug lacks differentiation amid an increasingly competitive landscape, one analyst argued.",
+     "source": "BioPharma Dive",
+     "zh": "Pfizer’s eczema drug clears skin in mid-stage trial"
     }
    ]
   },
@@ -1770,10 +1770,26 @@ window.INDUSTRY_DATA = {
      "zh": "In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump&apos;s push to replace \"artificial\" intelligence with \"super\" (Chandni Shah/Reuters)"
     },
     {
+     "title": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN",
+     "link": "https://awesomedataviz.com/",
+     "pubDate": "Sun, 04 Oct 2026 17:54:49 +0000",
+     "summary": "Article URL: https://awesomedataviz.com/ Comments URL: https://news.ycombinator.com/item?id=49956183 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN"
+    },
+    {
+     "title": "Building a RAG Pipeline for Semantic Code Search",
+     "link": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+     "pubDate": "Sun, 04 Oct 2026 17:51:48 +0000",
+     "summary": "Article URL: https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/ Comments URL: https://news.ycombinator.com/item?id=49956148 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Building a RAG Pipeline for Semantic Code Search"
+    },
+    {
      "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
      "link": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
      "pubDate": "Sun, 04 Oct 2026 17:21:26 +0000",
-     "summary": "Article URL: https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and Comments URL: https://news.ycombinator.com/item?id=49955839 Points: 17 # Comments: 8",
+     "summary": "Article URL: https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and Comments URL: https://news.ycombinator.com/item?id=49955839 Points: 20 # Comments: 11",
      "source": "Hacker News",
      "zh": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit"
     },
@@ -1789,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Blindsight (Watts Novel)",
      "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
      "pubDate": "Sun, 04 Oct 2026 16:25:17 +0000",
-     "summary": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel) Comments URL: https://news.ycombinator.com/item?id=49955297 Points: 26 # Comments: 12",
+     "summary": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel) Comments URL: https://news.ycombinator.com/item?id=49955297 Points: 34 # Comments: 18",
      "source": "Hacker News",
      "zh": "Blindsight (Watts Novel)"
     },
@@ -1813,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Car is a smartphone on wheels. Here's who's listening",
      "link": "https://automatictransmission.khoury.northeastern.edu/",
      "pubDate": "Sun, 04 Oct 2026 15:43:14 +0000",
-     "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/ Comments URL: https://news.ycombinator.com/item?id=49954882 Points: 153 # Comments: 77",
+     "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/ Comments URL: https://news.ycombinator.com/item?id=49954882 Points: 163 # Comments: 79",
      "source": "Hacker News",
      "zh": "Car is a smartphone on wheels. Here's who's listening"
     },
@@ -1893,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
      "link": "https://github.com/Niko1221/Strata",
      "pubDate": "Sun, 04 Oct 2026 12:51:53 +0000",
-     "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 339 # Comments: 179",
+     "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 351 # Comments: 187",
      "source": "Hacker News",
      "zh": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s"
     },
@@ -1930,20 +1946,20 @@ window.INDUSTRY_DATA = {
      "zh": "The Best Gifts Under $25 for Everyone on Your List (2026)"
     },
     {
-     "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
-     "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
-     "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
-     "summary": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
-     "source": "WIRED",
-     "zh": "The Best Online Gift Cards and Digital Gift Ideas (2026)"
-    },
-    {
      "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
      "link": "https://www.wired.com/review/meta-glasses-gen-3/",
      "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
      "summary": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
      "source": "WIRED",
      "zh": "Meta Glasses Nova (Gen 3) Review: Not Much New"
+    },
+    {
+     "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
+     "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
+     "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
+     "summary": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
+     "source": "WIRED",
+     "zh": "The Best Online Gift Cards and Digital Gift Ideas (2026)"
     },
     {
      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
@@ -1960,22 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "Keurig is ready to ditch the K-Cup with a compostable and plastic- and aluminum-free coffee pod, but the price is steep.",
      "source": "WIRED",
      "zh": "Keurig Alta First-Look: No More Plastic K-Cups"
-    },
-    {
-     "title": "Show HN: AI search for every photo and every frame of video on macOS",
-     "link": "https://github.com/allenv0/SCM",
-     "pubDate": "Sun, 04 Oct 2026 09:24:52 +0000",
-     "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 81 # Comments: 44",
-     "source": "Hacker News",
-     "zh": "Show HN: AI search for every photo and every frame of video on macOS"
-    },
-    {
-     "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-     "link": "https://gamehistory.org/5k-magazines/",
-     "pubDate": "Sun, 04 Oct 2026 09:07:11 +0000",
-     "summary": "Article URL: https://gamehistory.org/5k-magazines/ Comments URL: https://news.ycombinator.com/item?id=49952029 Points: 84 # Comments: 13",
-     "source": "Hacker News",
-     "zh": "VGHF Digital Archive passes 5000 magazines. Here's what's next"
     },
     {
      "title": "Q&A with OpenAI VP of Hardware Richard Ho on its Jalapeño inference chip co-designed with Broadcom, using internal OpenAI models to design the chip, and more (Dr. Ian Cutress/More Than Moore)",
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "A fourth RuneScape game is under development using Unreal Engine",
+     "link": "https://www.engadget.com/2276772/a-fourth-runescape-game-is-under-development-using-unreal-engine/",
+     "pubDate": "Sun, 04 Oct 2026 18:05:53 +0000",
+     "summary": "Jagex says it will reveal more details about the game, tentatively named RS4, next year.",
+     "source": "Engadget",
+     "zh": "A fourth RuneScape game is under development using Unreal Engine"
+    },
     {
      "title": "What causes screen tearing and how can you fix it?",
      "link": "https://www.engadget.com/2274514/screen-tear-causes-how-to-fix/",
@@ -2088,14 +2096,6 @@ window.INDUSTRY_DATA = {
      "summary": "Since Jony Ive’s departure from Apple in 2019, the company hasn’t had much of a true design lead. For a while, former COO Jeff Williams was in charge of design , until his departure last year. Since then, CEO John Ternus has taken a significant interest in both of Apple’s design teams: industrial de",
      "source": "9to5Mac",
      "zh": "John Ternus is taking a more ‘hands-on’ role in Apple’s design teams as CEO: report"
-    },
-    {
-     "title": "Do gaming routers really make a difference?",
-     "link": "https://www.engadget.com/2274051/do-gaming-routers-make-difference/",
-     "pubDate": "Sun, 04 Oct 2026 15:15:00 +0000",
-     "summary": "Gaming routers have fancy designs and a few special features, but they can't fix every problem with your network setup.",
-     "source": "Engadget",
-     "zh": "Do gaming routers really make a difference?"
     },
     {
      "title": "Redesigned MacBook Pro with OLED to feature ‘significantly lighter’ design: report",

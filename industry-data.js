@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/4 22:11:57",
+ "generated_at": "2026/10/4 22:32:13",
  "recent_days": 7,
  "industries": [
   {
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Top Selling Electric Vehicles in the World — 27% EV Share in August!",
+     "link": "https://cleantechnica.com/2026/10/04/top-selling-electric-vehicles-in-the-world-27-ev-share-in-august/",
+     "pubDate": "Sun, 04 Oct 2026 14:17:54 +0000",
+     "summary": "BEVs Up, PHEVs Down Plugin vehicle registrations were up 5% year over year (YoY) globally in August, ending the month at around 1.8 million units. Once again, BEVs (+13% YoY) and PHEVs (-12% YoY) are experiencing opposite dynamics, with pure electrics firm in double-digit growth while plugin hybrids",
+     "source": "CleanTechnica",
+     "zh": "Top Selling Electric Vehicles in the World — 27% EV Share in August!"
+    },
+    {
      "title": "Jeep’s Recon Isn’t Astronaut Diaper Rated. It’s Trail Rated.",
      "link": "https://cleantechnica.com/2026/10/03/jeeps-recon-isnt-astronaut-diaper-rated-its-trail-rated/",
      "pubDate": "Sat, 03 Oct 2026 21:58:12 +0000",
@@ -912,14 +920,6 @@ window.INDUSTRY_DATA = {
      "summary": "In the third quarter of 2026, it was the best of times and the worst of times for EV manufacturers in the US. While the rest of the world seems to be progressing nicely toward a future in which battery-powered cars are the norm, US customers are giving EVs the ... [continued] The post US Q3 EV Sales",
      "source": "CleanTechnica",
      "zh": "US Q3 EV Sales Report: The Good, The Bad, And The Ugly"
-    },
-    {
-     "title": "Europe EV Sales Report: Record Month — BEVs Reach 30% Market Share!",
-     "link": "https://cleantechnica.com/2026/10/03/europe-ev-sales-report-record-month-bevs-reach-30-market-share/",
-     "pubDate": "Sat, 03 Oct 2026 17:39:41 +0000",
-     "summary": "BEVs jumped 51% YoY in an off-season month. BEVs remain in high demand in Europe, even in a holiday month, like August. This month, along with July, is unusual because in Europe, most makers and their models slow down their operations because of the holiday season, with the exceptions being ... [con",
-     "source": "CleanTechnica",
-     "zh": "Europe EV Sales Report: Record Month — BEVs Reach 30% Market Share!"
     },
     {
      "title": "New Research Strengthens the Link Between Warming and Extreme Weather",
@@ -997,7 +997,7 @@ window.INDUSTRY_DATA = {
      "title": "Cities, states sue EPA over power plant emissions rollback",
      "link": "https://www.utilitydive.com/news/cities-states-sue-epa-over-power-plant-emissions-rollback/832016/",
      "pubDate": "Fri, 02 Oct 2026 10:27:26 -0400",
-     "summary": "Chicago, Denver and New York City joined multistate lawsuits challenging the agency&rsquo;s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
+     "summary": "Chicago, Denver and New York City join multistate lawsuits challenging the agency&rsquo;s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
      "source": "Utility Dive",
      "zh": "Cities, states sue EPA over power plant emissions rollback"
     },
@@ -1018,12 +1018,12 @@ window.INDUSTRY_DATA = {
      "zh": "Navigating the quality challenges of US module procurement"
     },
     {
-     "title": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit",
+     "title": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit",
      "link": "https://www.utilitydive.com/news/ferc-transalta-202c-cost-recovery-centralia/832001/",
      "pubDate": "Fri, 02 Oct 2026 09:28:00 -0400",
-     "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and despite the unit&rsquo;s lack of output, payment is due, the agency said.",
+     "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and&nbsp; despite the unit&rsquo;s lack of output, payment is due, the agency said.",
      "source": "Utility Dive",
-     "zh": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit"
+     "zh": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit"
     },
     {
      "title": "ContourGlobal completes construction at 324MW solar PV complex in Colorado",
@@ -1218,14 +1218,6 @@ window.INDUSTRY_DATA = {
      "zh": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000"
     },
     {
-     "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
-     "link": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-     "pubDate": "Fri, 02 Oct 2026 10:16:54 -0400",
-     "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
-     "source": "BioPharma Dive",
-     "zh": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs"
-    },
-    {
      "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
      "link": "https://www.statnews.com/2026/10/02/biotech-news-lilly-bypasses-australian-phramacies-with-dtc-model/?utm_campaign=rss",
      "pubDate": "Fri, 02 Oct 2026 13:58:31 +0000",
@@ -1296,6 +1288,14 @@ window.INDUSTRY_DATA = {
      "summary": "The department is offering funding to teams with innovative proposals as it considers ending the traditional phased clinical trial system.",
      "source": "BioPharma Dive",
      "zh": "HHS kicks off new programs to speed clinical trials as Chinese competition looms"
+    },
+    {
+     "title": "Pfizer’s eczema drug clears skin in mid-stage trial",
+     "link": "https://www.biopharmadive.com/news/pfizer-eczema-drug-clears-skin-in-mid-stage-trial/831905/",
+     "pubDate": "Thu, 01 Oct 2026 11:03:19 -0400",
+     "summary": "Detailed results are competitive with Dupixent and Ebglyss, but the drug lacks differentiation amid an increasingly competitive landscape, one analyst argued.",
+     "source": "BioPharma Dive",
+     "zh": "Pfizer’s eczema drug clears skin in mid-stage trial"
     }
    ]
   },
@@ -1306,12 +1306,60 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
+     "pubDate": "Sun, 04 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written",
+     "source": "NASA",
+     "zh": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey"
+    },
+    {
      "title": "ESA to pursue crew transport and space stations as European launchers come online",
      "link": "https://www.nasaspaceflight.com/2026/10/europe-update/",
      "pubDate": "Sat, 03 Oct 2026 22:11:23 +0000",
      "summary": "The European Space Agency (ESA) recently started investigating options for a European-led space station. The… The post ESA to pursue crew transport and space stations as European launchers come online appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "ESA to pursue crew transport and space stations as European launchers come online"
+    },
+    {
+     "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+     "pubDate": "Sat, 03 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written",
+     "source": "NASA",
+     "zh": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge"
+    },
+    {
+     "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+     "link": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+     "pubDate": "Fri, 02 Oct 2026 19:54:54 +0000",
+     "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in Philadelphia on Sunday, Oct. 4. A self-proclaimed Philadelphia sports fan, Koch is an e",
+     "source": "NASA",
+     "zh": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia"
+    },
+    {
+     "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+     "link": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+     "pubDate": "Fri, 02 Oct 2026 19:30:00 +0000",
+     "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supportin",
+     "source": "NASA",
+     "zh": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission"
+    },
+    {
+     "title": "NASA’s DAVINCI Probe Can Stand the Heat",
+     "link": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
+     "pubDate": "Fri, 02 Oct 2026 19:00:36 +0000",
+     "summary": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratche",
+     "source": "NASA",
+     "zh": "NASA’s DAVINCI Probe Can Stand the Heat"
+    },
+    {
+     "title": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
+     "link": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/",
+     "pubDate": "Fri, 02 Oct 2026 16:36:25 +0000",
+     "summary": "Lee esta nota de prensa en inglés aquí. La NASA busca líderes para uno de los puestos más prestigiosos de la Tierra en el ámbito de los vuelos espaciales tripulados: director de vuelo en el control de misión del Centro Espacial Johnson de la agencia, en Houston. Esta función es fundamental para refo",
+     "source": "NASA",
+     "zh": "La NASA abre solicitudes para próxima promoción de directores de vuelo"
     },
     {
      "title": "DOE Announces $400M for Frontier Science Research",
@@ -1714,28 +1762,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "时隔九年重返内地大银幕，《生化危机：爆发夜》游改真人电影明日上映",
+     "link": "https://www.ithome.com/1/009/732.htm",
+     "pubDate": "Sun, 04 Oct 2026 14:26:26 GMT",
+     "summary": "IT之家 10 月 4 日消息，《生化危机：爆发夜》游改真人电影将于明日在中国内地上映，该电影将以 CINITY、IMAX、中国巨幕、4DX、SCREENX 多制式上映，让影迷感受扑面而来的惊悚感。值得一提的是，这也是《生化危机》系列时隔九年， 重返内地大银幕 。 IT之家附该电影官方简介如下： 嘘，别出声。 黑暗中的生化怪物正在凝视，楼顶上的嗜血异种们虎视眈眈。 城市变为血色废墟，危险即将全面爆发！检查好手中的武器，抱紧需要运送的快递。前方高能，浣熊市的求生副本即将开启，请做好逃离准备。 据介绍， 本片根据热门恐怖游戏《生化危机》改编 ，这也是该 IP 的最新一部院线电影，由《凶器》《野蛮人",
+     "source": "IT之家",
+     "zh": "时隔九年重返内地大银幕，《生化危机：爆发夜》游改真人电影明日上映"
+    },
+    {
+     "title": "Trump announces a new Super Intelligence Force, to be led by DNI Jay Clayton, along with FTC&apos;s Andrew Ferguson, DOD&apos;s Emil Michael, and OPM&apos;s Scott Kupor (Politico)",
+     "link": "https://www.techmeme.com/261004/p11#a261004p11",
+     "pubDate": "Sun, 04 Oct 2026 10:25:01 -0400",
+     "summary": "Politico : Trump announces a new Super Intelligence Force, to be led by DNI Jay Clayton, along with FTC's Andrew Ferguson, DOD's Emil Michael, and OPM's Scott Kupor &nbsp; &mdash;&nbsp; President Donald Trump said Sunday that Director of National Intelligence Jay Clayton will assume the newly create",
+     "source": "Techmeme",
+     "zh": "Trump announces a new Super Intelligence Force, to be led by DNI Jay Clayton, along with FTC&apos;s Andrew Ferguson, DOD&apos;s Emil Michael, and OPM&apos;s Scott Kupor (Politico)"
+    },
+    {
      "title": "关于三角债和经济运行中的账期问题",
      "link": "https://www.huxiu.com/article/4895385.html?f=rss",
      "pubDate": "Sun, 04 Oct 2026 21:53:54 +0800",
      "summary": "本文来自微信公众号： 沧海一土狗 ，作者：沧海一土狗 2026年9月10日，国务院办公厅发布《国务院办公厅关于加强中小企业回款难问题治理有关工作的通知》（国办发〔2026〕24号），该文件对依法治理中小企业回款难问题作出的专项部署。 2026年9月14日下午，国务院新闻办公室举行国务院政策例行吹风会，介绍加强中小企业回款难问题治理有关工作情况。 在这次发布会上，相关部门的领导介绍了有关政策的发布背景： 随着工作的推进，我们也注意到，部分大型企业在对同行“卷价格”的同时，对中小企业“卷账期”，利用其市场竞争优势地位“搞猫腻、玩花样”拉长中小企业账期。这不仅挤占中小企业现金流、影响中小企业正常运转",
      "source": "虎嗅",
      "zh": "关于三角债和经济运行中的账期问题"
-    },
-    {
-     "title": "AI社交出海，中国团队又开始“整活”了",
-     "link": "https://www.tmtpost.com/8158954.html",
-     "pubDate": "Sun, 04 Oct 2026 21:50:10 +0800",
-     "summary": "国庆长假，试试不一样的AI陪伴",
-     "source": "钛媒体",
-     "zh": "AI社交出海，中国团队又开始“整活”了"
-    },
-    {
-     "title": "Anthropic被曝秘密游说梵蒂冈，AI为什么要与宗教搭上关系？",
-     "link": "https://www.tmtpost.com/8158986.html",
-     "pubDate": "Sun, 04 Oct 2026 21:49:07 +0800",
-     "summary": "Anthropic精心谋划的顶层伦理战略布局",
-     "source": "钛媒体",
-     "zh": "Anthropic被曝秘密游说梵蒂冈，AI为什么要与宗教搭上关系？"
     },
     {
      "title": "海南商发二期项目已基本建成，再添三号、四号两个发射工位",
@@ -1794,14 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "竞速游戏《星球大战：银河赛车手》获 IGN 8 分评价，10 月 6 日发售"
     },
     {
-     "title": "拉瑞安工作室：《博德之门 3》Steam 国区即将永久降价：298 元起 → 268 元起",
-     "link": "https://www.ithome.com/1/009/726.htm",
-     "pubDate": "Sun, 04 Oct 2026 12:58:21 GMT",
-     "summary": "IT之家 10 月 4 日消息，拉瑞安工作室宣布，为了感谢中国玩家一直以来的支持，《博德之门 3》将在本次 10 月促销活动结束后降价。游戏基础版从 298 元下调至 268 元。 目前，《博德之门 3》正在 Steam 秋季特卖中进行促销， 7 折后到手价为 208.6 元 ，活动预计将于 10 月 9 日结束。IT之家附游戏商品页（ https://store.steampowered.com/app/1086940/3/ ）。 游戏图赏：",
-     "source": "IT之家",
-     "zh": "拉瑞安工作室：《博德之门 3》Steam 国区即将永久降价：298 元起 → 268 元起"
-    },
-    {
      "title": "大东方号：领先世界50年的技术，如何输光了商业（技术大败局系列01）",
      "link": "https://www.huxiu.com/article/4895374.html?f=rss",
      "pubDate": "Sun, 04 Oct 2026 20:53:40 +0800",
@@ -1813,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
      "link": "https://github.com/Niko1221/Strata",
      "pubDate": "Sun, 04 Oct 2026 12:51:53 +0000",
-     "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 87 # Comments: 31",
+     "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 107 # Comments: 38",
      "source": "Hacker News",
      "zh": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s"
     },
@@ -1845,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
      "link": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
      "pubDate": "Sun, 04 Oct 2026 11:58:47 +0000",
-     "summary": "Article URL: https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and Comments URL: https://news.ycombinator.com/item?id=49953116 Points: 41 # Comments: 14",
+     "summary": "Article URL: https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and Comments URL: https://news.ycombinator.com/item?id=49953116 Points: 48 # Comments: 15",
      "source": "Hacker News",
      "zh": "Rejection Sensitivity in Gifted and Twice-Exceptional Children"
     },
@@ -1874,20 +1914,20 @@ window.INDUSTRY_DATA = {
      "zh": "The Best Gifts Under $25 for Everyone on Your List (2026)"
     },
     {
-     "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
-     "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
-     "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
-     "summary": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
-     "source": "WIRED",
-     "zh": "The Best Online Gift Cards and Digital Gift Ideas (2026)"
-    },
-    {
      "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
      "link": "https://www.wired.com/review/meta-glasses-gen-3/",
      "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
      "summary": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
      "source": "WIRED",
      "zh": "Meta Glasses Nova (Gen 3) Review: Not Much New"
+    },
+    {
+     "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
+     "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
+     "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
+     "summary": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
+     "source": "WIRED",
+     "zh": "The Best Online Gift Cards and Digital Gift Ideas (2026)"
     },
     {
      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
@@ -1909,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: AI search for every photo and every frame of video on macOS",
      "link": "https://github.com/allenv0/SCM",
      "pubDate": "Sun, 04 Oct 2026 09:24:52 +0000",
-     "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 28 # Comments: 14",
+     "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 32 # Comments: 16",
      "source": "Hacker News",
      "zh": "Show HN: AI search for every photo and every frame of video on macOS"
     },
@@ -1917,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
      "link": "https://gamehistory.org/5k-magazines/",
      "pubDate": "Sun, 04 Oct 2026 09:07:11 +0000",
-     "summary": "Article URL: https://gamehistory.org/5k-magazines/ Comments URL: https://news.ycombinator.com/item?id=49952029 Points: 53 # Comments: 5",
+     "summary": "Article URL: https://gamehistory.org/5k-magazines/ Comments URL: https://news.ycombinator.com/item?id=49952029 Points: 54 # Comments: 8",
      "source": "Hacker News",
      "zh": "VGHF Digital Archive passes 5000 magazines. Here's what's next"
     },
@@ -1930,28 +1970,36 @@ window.INDUSTRY_DATA = {
      "zh": "Q&A with OpenAI VP of Hardware Richard Ho on its Jalapeño inference chip co-designed with Broadcom, using internal OpenAI models to design the chip, and more (Dr. Ian Cutress/More Than Moore)"
     },
     {
-     "title": "当AI开始制造AI",
-     "link": "https://www.tmtpost.com/8158979.html",
-     "pubDate": "Sun, 04 Oct 2026 16:38:42 +0800",
-     "summary": "当AI开始参与制造下一代AI，研发成果可能反过来加快研发，递归自我改进成为巨头争夺的新方向。但更快未必更好，谁定义进步，谁守住安全边界？企业害怕落后的理由，也不能替代我们对这场加速是否值得的独立判断。",
-     "source": "钛媒体",
-     "zh": "当AI开始制造AI"
+     "title": "What's the Future for Pure Math Research in the Age of AI?",
+     "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+     "pubDate": "Sun, 04 Oct 2026 07:53:45 +0000",
+     "summary": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=49951641 Points: 9 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "What's the Future for Pure Math Research in the Age of AI?"
     },
     {
-     "title": "RSI再创奇迹！StartLux推出开源决策模型StartLux-Decision，38项基准中31项高于Jev",
-     "link": "https://www.tmtpost.com/8158976.html",
-     "pubDate": "Sun, 04 Oct 2026 16:32:03 +0800",
-     "summary": "在独立的Decision Index 0.2.1评测中，27B版本得分63.88，38项基准中有31项高于Jev 1.13；在上海人工智能实验室（上海AI实验室）发布Intern-Decision时采用的七项评测中，27B平均准确率达到91.82%，同样高于Jev的88.74%。",
-     "source": "钛媒体",
-     "zh": "RSI再创奇迹！StartLux推出开源决策模型StartLux-Decision，38项基准中31项高于Jev"
+     "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+     "link": "https://github.com/PowderworksCode/headstart",
+     "pubDate": "Sun, 04 Oct 2026 06:26:57 +0000",
+     "summary": "Article URL: https://github.com/PowderworksCode/headstart Comments URL: https://news.ycombinator.com/item?id=49951218 Points: 41 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Emitting metadata early makes building/checking Rust up to twice as fast"
     },
     {
-     "title": "人山人海，为何没换来盆满钵满？",
-     "link": "https://www.tmtpost.com/8158922.html",
-     "pubDate": "Sun, 04 Oct 2026 16:22:54 +0800",
-     "summary": "经济压力没有把大家留在家里，它只是让越来越多人在出门之前，先打开了计算器。",
-     "source": "钛媒体",
-     "zh": "人山人海，为何没换来盆满钵满？"
+     "title": "As AI automates parts of pure mathematics research, a look at formalization challenges and why human imagination remains key to deciding which questions to ask (Stephen Wolfram/Stephen Wolfram Writings)",
+     "link": "https://www.techmeme.com/261004/p8#a261004p8",
+     "pubDate": "Sun, 04 Oct 2026 02:00:39 -0400",
+     "summary": "Stephen Wolfram / Stephen Wolfram Writings : As AI automates parts of pure mathematics research, a look at formalization challenges and why human imagination remains key to deciding which questions to ask &nbsp; &mdash;&nbsp; Headlines and History&nbsp; &mdash;&nbsp; The headlines keep coming: such ",
+     "source": "Techmeme",
+     "zh": "As AI automates parts of pure mathematics research, a look at formalization challenges and why human imagination remains key to deciding which questions to ask (Stephen Wolfram/Stephen Wolfram Writings)"
+    },
+    {
+     "title": "Google prepares to defend a £1.2B UK class action lawsuit over claims it levied \"excessive\" charges on Android apps downloaded from Google Play since 2015 (Financial Times)",
+     "link": "https://www.techmeme.com/261004/p7#a261004p7",
+     "pubDate": "Sun, 04 Oct 2026 01:45:00 -0400",
+     "summary": "Financial Times : Google prepares to defend a &pound;1.2B UK class action lawsuit over claims it levied &ldquo;excessive&rdquo; charges on Android apps downloaded from Google Play since 2015 &nbsp; &mdash;&nbsp; British claim over Google Play Store is latest effort to challenge market power of Big T",
+     "source": "Techmeme",
+     "zh": "Google prepares to defend a £1.2B UK class action lawsuit over claims it levied \"excessive\" charges on Android apps downloaded from Google Play since 2015 (Financial Times)"
     }
    ]
   },
@@ -1961,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "How getting rid of some USB gadgets can improve your bad Wi-Fi",
+     "link": "https://www.engadget.com/2273916/removing-some-usb-gadgets-improve-wifi/",
+     "pubDate": "Sun, 04 Oct 2026 14:15:00 +0000",
+     "summary": "A bit of decluttering can go a long way toward improving your Wi-Fi.",
+     "source": "Engadget",
+     "zh": "How getting rid of some USB gadgets can improve your bad Wi-Fi"
+    },
+    {
+     "title": "Redesigned MacBook Pro with OLED to feature ‘significantly lighter’ design: report",
+     "link": "https://9to5mac.com/2026/10/04/apple-macbook-pro-redesign-to-be-much-lighter-report/",
+     "pubDate": "Sun, 04 Oct 2026 14:11:01 +0000",
+     "summary": "Apple’s major MacBook Pro overhaul is just around the corner, and should debut within a month or so. It’ll be the first touchscreen MacBook, as well as the first with Tandem OLED. Beyond that, though, the new MacBooks should be ‘significantly’ lighter than their predecessors, according to the latest",
+     "source": "9to5Mac",
+     "zh": "Redesigned MacBook Pro with OLED to feature ‘significantly lighter’ design: report"
+    },
     {
      "title": "Save Your Photos Month: community images from each 48-hour mini-challenge",
      "link": "https://www.dpreview.com/articles/save-your-photos-month-community-images-from-each-48-hour-mini-challenge/",
@@ -2024,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google's Motion Assist uses moving shapes on your Android's screen to help combat motion sickness. Here's how it works and how to enable it.",
      "source": "Engadget",
      "zh": "How to use Android's Motion Assist feature to help with motion sickness"
-    },
-    {
-     "title": "How much does DDR5 RAM speed matter for gaming?",
-     "link": "https://www.engadget.com/2273791/how-much-ddr5-ram-speed-matters-for-gaming/",
-     "pubDate": "Sun, 04 Oct 2026 12:15:00 +0000",
-     "summary": "Wondering whether DDR5 speed impacts your gaming performance? Dive into how memory bandwidth and latency influence frame rates and overall gameplay.",
-     "source": "Engadget",
-     "zh": "How much does DDR5 RAM speed matter for gaming?"
     },
     {
      "title": "Is your phone not charging? Try this simple fix before paying for a repair",
@@ -2170,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12"
     },
     {
-     "title": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
-     "link": "https://9to5mac.com/2026/10/03/apples-next-ipad-a19-details-release-date/",
-     "pubDate": "Sat, 03 Oct 2026 16:36:23 +0000",
-     "summary": "Apple’s current iPad, the A16 model, has gone untouched for well over a year. It remains the only device in Apple’s core product lineup without support for Apple Intelligence. Rumors had swirled for quite some time about an A18 model coming this year . Now, it’s sounding like Apple has an even bigge",
-     "source": "9to5Mac",
-     "zh": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more"
-    },
-    {
      "title": "The Pixel 5 doesn’t get enough credit for making the best of a bad situation",
      "link": "https://9to5google.com/2026/10/03/google-pixel-5-revisit-bad-situation/",
      "pubDate": "Sat, 03 Oct 2026 13:05:00 +0000",
@@ -2210,12 +2258,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "AI spending to drive another strong S&P 500 earnings season, Goldman Sachs says",
+     "link": "https://seekingalpha.com/news/4650034-ai-spending-to-drive-another-strong-s-and-p-500-earnings-season-goldman-sachs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 04 Oct 2026 10:24:49 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AI spending to drive another strong S&P 500 earnings season, Goldman Sachs says"
+    },
+    {
+     "title": "冲绳民众就驻日美军涉嫌杀人案发出愤怒声音",
+     "link": "http://finance.eastmoney.com/news/1351,202610043888571625.html",
+     "pubDate": "Sun, 04 Oct 2026 22:19:40 +0800",
+     "summary": "围绕驻日美军涉嫌杀人案，日本政府10月4日向美国提出抗议。事发地冲绳民众发出愤怒声音，认为美军基地的存在与日本政府的不作为导致类似犯罪事件不断发生。 日本冲绳县警方4日逮捕了一名驻冲绳美国士兵，此人涉嫌于3日凌晨在冲绳一家 酒店 抢劫并杀害一名当地女性。 日本首相高市早苗就此案在社交媒体平台X上发帖称“极为遗憾”。日本外务大臣茂木敏充和防卫大臣小泉进次郎分别召见美国驻日大使乔治·格拉斯和驻日美军司令斯蒂芬·约斯特提出抗议，并强烈要求美军整顿军纪、彻底防止类似案件再次发生。 据日本方面4日消息，冲绳民众当天就此案表达了愤怒之情。当地居民新川秀清说，驻冲绳美军基地的存在招致各种案件和事故，自美军驻",
+     "source": "东方财富股票",
+     "zh": "冲绳民众就驻日美军涉嫌杀人案发出愤怒声音"
+    },
+    {
+     "title": "联合国人道主义车队在苏丹南部遇袭 1名司机遇难",
+     "link": "http://finance.eastmoney.com/news/1351,202610043888571174.html",
+     "pubDate": "Sun, 04 Oct 2026 22:17:35 +0800",
+     "summary": "当地时间10月4日，联合国世界粮食计划署发布声明称，两辆隶属于该机构的卡车3日在苏丹南部南科尔多凡州遭到袭击，造成1名卡车司机遇难。 声明表示，车辆遇袭时正从南科尔多凡州第二大城市迪灵驶往该州首府卡杜格利，车上满载粮食等人道主义援助物资，且车身有明确的人道主义车辆标识。声明没有提及袭击事件的肇事者，世界粮食计划署呼吁对事件展开迅速、公正的调查，并追究相关人员的责任。 这是近期在苏丹发生的第二起联合国人道主义车队遇袭事件。9月2日，同样隶属于世界粮食计划署的一支运送人道主义援助物资的车队在迪灵市附近遭武装人员袭击，造成1人死亡、2人受伤。 近期，苏丹武装部队与快速支援部队在科尔多凡地区三个州的冲",
+     "source": "东方财富股票",
+     "zh": "联合国人道主义车队在苏丹南部遇袭 1名司机遇难"
+    },
+    {
+     "title": "橡胶、炭黑全线冲高，轮胎新一轮涨价潮能走多远？",
+     "link": "http://finance.eastmoney.com/news/1355,202610043888571237.html",
+     "pubDate": "Sun, 04 Oct 2026 22:16:00 +0800",
+     "summary": "进入10月，国内轮胎行业年内第四轮集中涨价潮正式进入执行期。9月中旬以来密集发布的涨价函自10月1日起陆续落地， 通用股份 （601500）、 中策橡胶 （603049）、 赛轮轮胎 （601058）、 玲珑轮胎 （601966）等头部轮胎企业对全钢胎、半钢胎、工程胎等全品类产品价格上调2%至5%。 这已是今年3月以来轮胎行业发布的第四轮集中涨价函。 通用股份 在调价函中明确将涨价理由指向原材料，“近期，受全球市场影响，我司生产所需主要原材料天然 橡胶 、合成 橡胶 、 炭黑 等价格持续大幅上涨，导致轮胎制造成本急剧攀升。” 轮胎原材料占生产成本70%以上，天然 橡胶 、合成橡胶、 炭黑 合计",
+     "source": "东方财富股票",
+     "zh": "橡胶、炭黑全线冲高，轮胎新一轮涨价潮能走多远？"
+    },
+    {
+     "title": "美股通宵交易，要来了",
+     "link": "http://www.eeo.com.cn/2026/1004/1056102.shtml",
+     "pubDate": "Sun, 04 Oct 2026 22:13:11 +0800",
+     "summary": "从今年12月开始，美股将朝着接近全天候交易迈进。 据中国基金报报道，纳斯达克、纽约证券交易所旗下NYSE Arca、24X National Exchange以及芝加哥期权交易所旗下Cboe EDGX，都制定了增加夜间交易时段的计划：除了正常交易时间以及现有的盘前、盘后交易外，还将新增纽约时间晚上9点至次日凌晨4点的交易时段。 这一扩展计划预计于12月6日实施，目的是满足海外投资者日益增长的交易需求，同时应对加密货币和预测市场带...",
+     "source": "经济观察网",
+     "zh": "美股通宵交易，要来了"
+    },
+    {
      "title": "Tech sector posts quarterly gains as AI momentum continues",
      "link": "https://seekingalpha.com/news/4649561-tech-sector-posts-quarterly-gains-as-ai-momentum-continues?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 04 Oct 2026 10:05:16 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Tech sector posts quarterly gains as AI momentum continues"
+    },
+    {
+     "title": "伊拉克西部“伊斯兰国”遗留炸弹爆炸致2人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202610043888570564.html",
+     "pubDate": "Sun, 04 Oct 2026 22:04:18 +0800",
+     "summary": "伊拉克国防部4日发表声明说，伊安全部队在伊拉克西部沙漠地区开展搜查行动期间，极端组织“伊斯兰国”遗留的简易爆炸装置发生爆炸，造成2名士兵死亡、2名士兵受伤。 声明说，伤者已被送往附近 医院 救治，军方继续在该区域开展行动，搜捕极端组织的残余成员。 9月30日，伊拉克总理扎伊迪宣布美国主导的打击“伊斯兰国”国际联盟部队正式结束在伊拉克的任务。扎伊迪表示，国际联盟部队任务的结束标志着伊拉克进入全面自主维护国家安全与稳定的新阶段。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊拉克西部“伊斯兰国”遗留炸弹爆炸致2人死亡"
     },
     {
      "title": "Corporate America has never been this upbeat about future profits",
@@ -2226,60 +2322,28 @@ window.INDUSTRY_DATA = {
      "zh": "Corporate America has never been this upbeat about future profits"
     },
     {
+     "title": "从十篇“金轩”文章看中国经济：新动能、新空间、新支撑同向发力",
+     "link": "http://finance.eastmoney.com/news/1355,202610043888570346.html",
+     "pubDate": "Sun, 04 Oct 2026 21:58:50 +0800",
+     "summary": "2026年9月下旬以来，在《人民日报》重要版面上，十篇署名为“金轩”的重要文章陆续刊发，聚焦“新机遇新空间新动能”，从北斗、生物制造、智能经济，到 综合 交通运输 、现代 物流 、高水平安全，再到服务业扩能提质、新场景培育开放、民营经济发展壮大、加快建设强大国内市场。 十篇“金轩”系列文章，勾勒出一幅理解中国经济向新向优的“全景图”，是在“十五五”开局之年这一重要时间节点，国家发展改革委发出的一次系统、权威的经济分析与信心传递。 “金轩”是谁？ “金轩”取自“经济宣传”之意，是国家发展改革委的笔名。2024年4月30日，国家发展改革委官网刊发《从全球视野和市场规律出发客观辩证看待产能问题》，首",
+     "source": "东方财富股票",
+     "zh": "从十篇“金轩”文章看中国经济：新动能、新空间、新支撑同向发力"
+    },
+    {
+     "title": "“数据库三巨头”之一，股权再谋转让！",
+     "link": "http://finance.eastmoney.com/news/1354,202610043888570232.html",
+     "pubDate": "Sun, 04 Oct 2026 21:58:43 +0800",
+     "summary": "“数据库三巨头”之一的万方数据，其股东再度谋求转让股权，整体估值约8.85亿元。 中国文化产业投资基金（有限合伙）（下称“文投基金”）拟再度转让所持北京万方数据股份有限公司（下称“万方数据”）18.5%股权。证券时报记者注意到，万方数据2025年度盈利6343.03万元，2026年前8个月却净亏损6572.83万元。 北京产权交易所近日披露，文投基金拟转让万方数据1073万股股份（占总股本的18.5%），挂牌价格16376万元，挂牌期20个工作日，采取网络竞价、自动延期方式。据此测算，万方数据整体估值约8.85亿元。 这并非文投基金首次寻求退出。2024年7月，该笔股权以12755万元挂牌未果",
+     "source": "东方财富股票",
+     "zh": "“数据库三巨头”之一，股权再谋转让！"
+    },
+    {
      "title": "Trending stocks this week as markets weigh jobs data, yields",
      "link": "https://seekingalpha.com/news/4650033-trending-stocks-this-week-as-markets-weigh-jobs-data-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 04 Oct 2026 09:55:48 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Trending stocks this week as markets weigh jobs data, yields"
-    },
-    {
-     "title": "乌克兰方面表示：乌克兰与德国正在讨论通过德国基础设施向乌克兰供应液化天然气 并涉及欧盟公司参与乌克兰天然气储存设施的运营",
-     "link": "http://finance.eastmoney.com/news/1351,202610043888570077.html",
-     "pubDate": "Sun, 04 Oct 2026 21:49:49 +0800",
-     "summary": "乌克兰方面表示，乌克兰与德国正在讨论通过德国基础设施向乌克兰供应液化 天然气 （LNG），并涉及欧盟公司参与乌克兰 天然气 储存设施的运营。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "乌克兰方面表示：乌克兰与德国正在讨论通过德国基础设施向乌克兰供应液化天然气 并涉及欧盟公司参与乌克兰天然气储存设施的运营"
-    },
-    {
-     "title": "乌克兰方面表示，乌克兰与德国正在讨论通过德国基础设施向乌克兰供应液化天然气（LNG），并涉及欧盟公司参与乌克兰天然气储存设施的运营",
-     "link": "http://finance.eastmoney.com/news/1351,202610043888570180.html",
-     "pubDate": "Sun, 04 Oct 2026 21:49:31 +0800",
-     "summary": "乌克兰方面表示，乌克兰与德国正在讨论通过德国基础设施向乌克兰供应液化 天然气 （LNG），并涉及欧盟公司参与乌克兰 天然气 储存设施的运营。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "乌克兰方面表示，乌克兰与德国正在讨论通过德国基础设施向乌克兰供应液化天然气（LNG），并涉及欧盟公司参与乌克兰天然气储存设施的运营"
-    },
-    {
-     "title": "原油市场处十字路口：“欧佩克+”11月配额公布 中东局势扑朔迷离",
-     "link": "http://finance.eastmoney.com/news/1356,202610043888569961.html",
-     "pubDate": "Sun, 04 Oct 2026 21:48:27 +0800",
-     "summary": "财联社10月4日讯（编辑史正丞） 北京时间周日晚间，“欧佩克+”主要成员国如期宣布，对11月的石油产量配额不作任何调整。 （来源：OPEC官网） 公告显示， 由沙特、俄罗斯领头的7个“欧佩克+”国家于周日举行线上会议，决定将9月的产量配额延续至11月 。具体来说，沙特和俄罗斯的产油配额将分别维持在每日1047.8万桶和994.9万桶，其余5国的配额也将维持在合计每日1058.3万桶。 之所以说结果符合预期，主要有两个原因：此前已有消息称“欧佩克+”年内不会再调整配额；同时，中东战事造成的生产及出口障碍，使今年以来的配额上调难以充分转化为实际供应增长。 作为背景， “欧佩克+”在今年3月至8月连",
-     "source": "东方财富股票",
-     "zh": "原油市场处十字路口：“欧佩克+”11月配额公布 中东局势扑朔迷离"
-    },
-    {
-     "title": "伊拉克西部“伊斯兰国”遗留炸弹爆炸致2人死亡",
-     "link": "http://finance.eastmoney.com/news/11790,202610043888569822.html",
-     "pubDate": "Sun, 04 Oct 2026 21:39:10 +0800",
-     "summary": "伊拉克国防部10月4日发表声明说，伊安全部队在伊拉克西部沙漠地区开展搜查行动期间，极端组织“伊斯兰国”遗留的简易爆炸装置发生爆炸，造成2名士兵死亡、2名士兵受伤。 声明说，伤者已被送往附近 医院 救治，军方继续在该区域开展行动，搜捕极端组织的残余成员。 9月30日，伊拉克总理扎伊迪宣布美国主导的打击“伊斯兰国”国际联盟部队正式结束在伊拉克的任务。扎伊迪表示，国际联盟部队任务的结束标志着伊拉克进入全面自主维护国家安全与稳定的新阶段。（央视新闻） （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "伊拉克西部“伊斯兰国”遗留炸弹爆炸致2人死亡"
-    },
-    {
-     "title": "三季度光伏股价图鉴：指数跑输沪深300，个股涨跌幅差距接近百点",
-     "link": "http://finance.eastmoney.com/news/1355,202610043888569083.html",
-     "pubDate": "Sun, 04 Oct 2026 21:38:12 +0800",
-     "summary": "2026年第三季度，从“反内卷”持续推进， 到部分产业链环节价格阶段性回升，再到落后产能退出预期升温，经历持续调整的光伏行业出现了一些积极变化。 但从二级市场表现来看，行业尚未迎来普遍意义上的反转。Wind数据显示，2026年三季度，纳入统计的99只光伏板块个股平均下跌12.89%，其中22只上涨、77只下跌，下跌个股占比达77.78%，板块整体承压。 同期，光伏指数下跌14.87%，沪深300指数下跌12.49%，光伏指数跑输沪深300指数2.38个百分点。 与此同时，个股表现分化明显。三季度， 立新能源 （001258.SZ）累计上涨43.90%，位居首位； 艾罗能源 （688717.SH",
-     "source": "东方财富股票",
-     "zh": "三季度光伏股价图鉴：指数跑输沪深300，个股涨跌幅差距接近百点"
-    },
-    {
-     "title": "中东冲突，传来新消息",
-     "link": "http://finance.eastmoney.com/news/1356,202610043888569127.html",
-     "pubDate": "Sun, 04 Oct 2026 21:35:00 +0800",
-     "summary": "伊朗外长：敌方军事行动将遭到“更具毁灭性”回击 新华社德黑兰10月4日电伊朗外交部长阿拉格齐4日表示，尽管伊朗仍愿通过外交途径寻求“公正且体面”的解决方案，但如果敌人再次诉诸军事行动，伊朗将予以比以往“更具毁灭性”的回击。 阿拉格齐当天在德黑兰会见驻伊外交官，其间强调伊朗在捍卫自身安全与推进外交努力方面的严肃态度与坚定决心。他说，近期赴纽约出席联合国大会期间，伊朗代表团提出了一项旨在化解分歧、结束与美国当前敌对状态的方案。若该方案获美方采纳，霍尔木兹海峡将在7天内重新开放。 阿拉格齐说，美国过去在军事和外交领域均已遭遇失败，针对伊朗实施的新制裁同样注定徒劳无功，希望美国能选择明智理性的道路。他",
-     "source": "东方财富股票",
-     "zh": "中东冲突，传来新消息"
     },
     {
      "title": "余承东：没想到，工作备注比正文还抢镜",
@@ -2328,14 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "OPEC+ holds November oil output targets steady amid supply squeeze"
-    },
-    {
-     "title": "Notable healthcare headlines for the week: Pfizer, Sanofi, and Novartis in focus",
-     "link": "https://seekingalpha.com/news/4650002-notable-healthcare-headlines-for-the-week-pfizer-sanofi-and-novartis-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 04 Oct 2026 09:05:49 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Notable healthcare headlines for the week: Pfizer, Sanofi, and Novartis in focus"
     },
     {
      "title": "GT赛车呼啸而过，他们为这一刻赶来｜耍起",
@@ -2440,14 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "中国青年报客户端名古屋10月4日电（中青报·中青网记者 梁璇 慈鑫/文 李隽辉/摄）当地时间10月4日，日本名古屋瑞穗体育场灯火璀璨，爱知·名古屋亚运会闭幕式在此举行。各代表团选手步入场地，开幕式上象征期许的彩虹心形图案，被16天赛场的热血、拼搏与感动填满。 <img alt=\"\" src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upl...",
      "source": "经济观察网",
      "zh": "爱知·名古屋亚运会闭幕式中国代表团载誉入场"
-    },
-    {
-     "title": "纳入6280亿美元表外承诺后，Meta股票“贵了”35%？",
-     "link": "https://wallstreetcn.com/articles/3782985",
-     "pubDate": "Sun, 04 Oct 2026 18:18:33 +0800",
-     "summary": "Meta约6280亿美元的表外负债长期隐匿于财报脚注，当这一数字被纳入企业价值计算后，整个超大规模科技股的估值框架正面临重构。 投行Needham分析师Laura Martin于10月2日发布研报指出， 若将Meta的表外承诺计入企业价值（EV），其估值倍数将上调35%，股票对股东而言远比传统指标所呈现的更为昂贵 。 Martin随后在CNBC公开表态： \"Meta表内债务和租赁合计约1000亿美元，表外负债高达6000亿美元。若不将这6000亿美元计入EV，你的估值就低了35%。 \"这一判断直接冲击市场对Meta的定价逻辑。 更值得关注的是， 当Needham的方法被一致性地应用于Alpha",
-     "source": "华尔街见闻",
-     "zh": "纳入6280亿美元表外承诺后，Meta股票“贵了”35%？"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/5 13:51:58",
+ "generated_at": "2026/10/5 14:05:38",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "刚刚，Hinton发了首篇RSI论文",
+     "link": "https://www.qbitai.com/2026/10/501705.html",
+     "pubDate": "Mon, 05 Oct 2026 04:42:52 +0000",
+     "summary": "AI已经开始真正进入「造下一代AI」的流水线",
+     "source": "量子位",
+     "zh": "刚刚，Hinton发了首篇RSI论文"
+    },
+    {
+     "title": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T",
+     "link": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
+     "pubDate": "Mon, 05 Oct 2026 04:10:34 +0000",
+     "summary": "Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source. The post The Story of Qwen: Alibaba",
+     "source": "MarkTechPost",
+     "zh": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T"
+    },
     {
      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
      "link": "https://arxiv.org/abs/2610.02260",
@@ -154,14 +170,6 @@ window.INDUSTRY_DATA = {
      "zh": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元"
     },
     {
-     "title": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
-     "link": "https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/",
-     "pubDate": "Sun, 04 Oct 2026 00:19:38 +0000",
-     "summary": "Learn how NVIDIA IsaacTeleop turns XR hand tracking and motion controller input into robot commands using a pure Python retargeting engine and NumPy. The post Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine appeared first on Mar",
-     "source": "MarkTechPost",
-     "zh": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine"
-    },
-    {
      "title": "The Agent Said It Was Done. The Database Disagreed.",
      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
      "pubDate": "Sat, 03 Oct 2026 22:56:48 GMT",
@@ -208,14 +216,6 @@ window.INDUSTRY_DATA = {
      "summary": "岗位JD甩了篇技术报告",
      "source": "量子位",
      "zh": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师"
-    },
-    {
-     "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-     "link": "https://www.qbitai.com/2026/10/501368.html",
-     "pubDate": "Sat, 03 Oct 2026 04:41:24 +0000",
-     "summary": "又咋啦。。。",
-     "source": "量子位",
-     "zh": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开"
     },
     {
      "title": "A model guide for the GPT-6 family",
@@ -1013,7 +1013,7 @@ window.INDUSTRY_DATA = {
      "title": "Cities, states sue EPA over power plant emissions rollback",
      "link": "https://www.utilitydive.com/news/cities-states-sue-epa-over-power-plant-emissions-rollback/832016/",
      "pubDate": "Fri, 02 Oct 2026 10:27:26 -0400",
-     "summary": "Chicago, Denver and New York City join multistate lawsuits challenging the agency&rsquo;s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
+     "summary": "Chicago, Denver and New York City joined multistate lawsuits challenging the agency&rsquo;s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
      "source": "Utility Dive",
      "zh": "Cities, states sue EPA over power plant emissions rollback"
     },
@@ -1034,12 +1034,12 @@ window.INDUSTRY_DATA = {
      "zh": "Navigating the quality challenges of US module procurement"
     },
     {
-     "title": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit",
+     "title": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit",
      "link": "https://www.utilitydive.com/news/ferc-transalta-202c-cost-recovery-centralia/832001/",
      "pubDate": "Fri, 02 Oct 2026 09:28:00 -0400",
-     "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and&nbsp; despite the unit&rsquo;s lack of output, payment is due, the agency said.",
+     "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and despite the unit&rsquo;s lack of output, payment is due, the agency said.",
      "source": "Utility Dive",
-     "zh": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit"
+     "zh": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit"
     },
     {
      "title": "ContourGlobal completes construction at 324MW solar PV complex in Colorado",
@@ -1226,6 +1226,14 @@ window.INDUSTRY_DATA = {
      "zh": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000"
     },
     {
+     "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
+     "link": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
+     "pubDate": "Fri, 02 Oct 2026 10:16:54 -0400",
+     "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
+     "source": "BioPharma Dive",
+     "zh": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs"
+    },
+    {
      "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
      "link": "https://www.statnews.com/2026/10/02/biotech-news-lilly-bypasses-australian-phramacies-with-dtc-model/?utm_campaign=rss",
      "pubDate": "Fri, 02 Oct 2026 13:58:31 +0000",
@@ -1288,14 +1296,6 @@ window.INDUSTRY_DATA = {
      "summary": "The department is offering funding to teams with innovative proposals as it considers ending the traditional phased clinical trial system.",
      "source": "BioPharma Dive",
      "zh": "HHS kicks off new programs to speed clinical trials as Chinese competition looms"
-    },
-    {
-     "title": "Pfizer’s eczema drug clears skin in mid-stage trial",
-     "link": "https://www.biopharmadive.com/news/pfizer-eczema-drug-clears-skin-in-mid-stage-trial/831905/",
-     "pubDate": "Thu, 01 Oct 2026 11:03:19 -0400",
-     "summary": "Detailed results are competitive with Dupixent and Ebglyss, but the drug lacks differentiation amid an increasingly competitive landscape, one analyst argued.",
-     "source": "BioPharma Dive",
-     "zh": "Pfizer’s eczema drug clears skin in mid-stage trial"
     }
    ]
   },
@@ -1762,6 +1762,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "黄酒到底要上主桌，还是进冰箱？",
+     "link": "https://www.huxiu.com/article/4895428.html?f=rss",
+     "pubDate": "Mon, 05 Oct 2026 13:53:14 +0800",
+     "summary": "本文来自微信公众号： 防冷涂的蜡书斋 ，作者：防冷涂的蜡 今年的黄酒，像是突然有了两份完全不同的职业规划。 一份规划很传统，也很体面。高端年份酒、礼盒、宴席、团购，原来卖茅台、五粮液的经销商开始坐到黄酒企业的招商桌前。另一份规划活泼得多：8度、气泡、易拉罐、冰着喝，黄酒开始往直播间、烧烤摊和年轻人的聚会里钻。 古越龙山的“无高低”把价格放在25—50元，两年累计销量突破500万瓶，江浙沪之外销量占比超过60%，35岁以下消费者占到三成以上；会稽山爽酒则从几百万元销售额一路做到亿元级单品。 一边想坐商务宴席的主桌，一边想钻进年轻人的冰箱。 这两件事都被装进“黄酒全国化”这个大筐里，生意模型却完全",
+     "source": "虎嗅",
+     "zh": "黄酒到底要上主桌，还是进冰箱？"
+    },
+    {
+     "title": "首尔卖不动了，第三轮韩流服装再攻中日“打巷战”",
+     "link": "https://www.huxiu.com/article/4895427.html?f=rss",
+     "pubDate": "Mon, 05 Oct 2026 13:52:43 +0800",
+     "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 首尔太小，鸟叔所在的江南区，也消化不了太多衣服了。 2025年，韩国时尚与服装零售额86万亿韩元（约等于4290亿元人民币），增速0.8%，几乎失去了增长。而4年前的2021年第四季度，它还有19.8%的增速。 内卷之下，韩国将目光转向上海和东京。 在上海安福路，一栋100年历史的老洋房里，韩国服装平台和品牌MUSINSA，去年12月开业首月，到店人数突破10万。在东京涩谷，同样是MUSINSA开设的快闪店，涌入8.2万人，周末日均超过4000人排队进场。 韩国服装品牌夹在中日两个邻居中间，一个是14亿人市场，一个是1.2亿人市场，正在打一场没",
+     "source": "虎嗅",
+     "zh": "首尔卖不动了，第三轮韩流服装再攻中日“打巷战”"
+    },
+    {
      "title": "联想推出 23.8 英寸 FHD 100Hz 来酷 M2460 办公显示器，599 元",
      "link": "https://www.ithome.com/1/009/801.htm",
      "pubDate": "Mon, 05 Oct 2026 05:43:20 GMT",
@@ -1842,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "125年不停发钱，诺贝尔奖的钱越花越多：资产涨超200倍，奖金高达815万"
     },
     {
-     "title": "Kagi Ends Orion Browser Development for Linux, Will Open-Source It",
-     "link": "https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/",
-     "pubDate": "Mon, 05 Oct 2026 04:18:39 +0000",
-     "summary": "Article URL: https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/ Comments URL: https://news.ycombinator.com/item?id=49960628 Points: 8 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Kagi Ends Orion Browser Development for Linux, Will Open-Source It"
-    },
-    {
      "title": "AI，为什么总在画美女？",
      "link": "https://www.huxiu.com/article/4895422.html?f=rss",
      "pubDate": "Mon, 05 Oct 2026 12:10:21 +0800",
@@ -1874,28 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "定价逻辑变了，估值方法也变了，安全溢价如何重写关键矿产？"
     },
     {
-     "title": "李想最擅长的事，会不会成为理想的边界？",
-     "link": "https://www.huxiu.com/article/4895421.html?f=rss",
-     "pubDate": "Mon, 05 Oct 2026 12:08:37 +0800",
-     "summary": "本文来自微信公众号： 岳涌大江流 ，作者：岳老狮 在国内新势力创始人中，李想的战略节奏与长期判断力，始终处在行业顶尖梯队。 什么时候布局自研电池、什么时候攻坚车载芯片、什么时候收缩产品线、什么时候重仓智能化，他在几个关键产业节点上的判断，展现出了少有的长期主义。 他曾公开谈及马斯克，坦言并不认同对方的个人生活方式，但高度认可其商业决策的前瞻性。极致理性的长线布局、持续自我迭代的能力，是理想能穿越行业周期、站稳高端市场的核心底气。 但也恰恰因为长期胜率太高、成功范式太固定，不少行业博主和车主都在讨论一个问题：这套成熟的家庭造车经验，会不会慢慢形成认知上的束缚。 团队越来越熟悉“家庭造车”这套成功",
-     "source": "虎嗅",
-     "zh": "李想最擅长的事，会不会成为理想的边界？"
-    },
-    {
      "title": "董宇辉已成往事，俞敏洪和陈行甲渐入佳境",
      "link": "https://www.tmtpost.com/8159123.html",
      "pubDate": "Mon, 05 Oct 2026 12:08:08 +0800",
      "summary": "俞敏洪公开致谢陈行甲，称深深被他感动，不仅加鸡腿还要加鸭腿，二人计划合著《我们从黑土地走过》。俞敏洪，或许找到了那个懂他的人。",
      "source": "钛媒体",
      "zh": "董宇辉已成往事，俞敏洪和陈行甲渐入佳境"
-    },
-    {
-     "title": "苹果突发收紧Mac 权限，全是AI 惹的祸",
-     "link": "https://www.huxiu.com/article/4895420.html?f=rss",
-     "pubDate": "Mon, 05 Oct 2026 12:07:26 +0800",
-     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《苹果突发收紧 Mac 权限，全是 AI 惹的祸》 macOS，开始对Personal Agent「关门」了。 10月2日，苹果发出一则简短的公告，宣布将会在后续版本收紧在macOS上存在多年的「完全磁盘访问」（Full Disk Access,FDA）高级权限： 一些开发者正以可能使用户面临风险的方式使用「完全磁盘访问」，在用户并不完全知情或理解的情况下暴露其系统中的所有内容……今后，我们将引入额外的控制措施，以确保那些确实希望授予应用如此高级别访问权限的用户，只有通过非常明确的用户操作才能完成授权。随着人工智能代",
-     "source": "虎嗅",
-     "zh": "苹果突发收紧Mac 权限，全是AI 惹的祸"
     },
     {
      "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
@@ -1925,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
      "link": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
      "pubDate": "Mon, 05 Oct 2026 02:31:45 +0000",
-     "summary": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857 Comments URL: https://news.ycombinator.com/item?id=49960084 Points: 148 # Comments: 99",
+     "summary": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857 Comments URL: https://news.ycombinator.com/item?id=49960084 Points: 159 # Comments: 114",
      "source": "Hacker News",
      "zh": "Nearly 200 people under observation after Irkutsk lab worker dies from plague"
     },
@@ -1941,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
      "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
      "pubDate": "Mon, 05 Oct 2026 01:54:08 +0000",
-     "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/ Comments URL: https://news.ycombinator.com/item?id=49959869 Points: 158 # Comments: 92",
+     "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/ Comments URL: https://news.ycombinator.com/item?id=49959869 Points: 162 # Comments: 94",
      "source": "Hacker News",
      "zh": "Powerless F1 drivers frustrated by Bahrain F1 software glitch"
     },
@@ -1949,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "A 40ms Go garbage collector pause caused by swap",
      "link": "https://frn.sh/go-gc/",
      "pubDate": "Mon, 05 Oct 2026 01:11:56 +0000",
-     "summary": "Article URL: https://frn.sh/go-gc/ Comments URL: https://news.ycombinator.com/item?id=49959654 Points: 34 # Comments: 8",
+     "summary": "Article URL: https://frn.sh/go-gc/ Comments URL: https://news.ycombinator.com/item?id=49959654 Points: 40 # Comments: 11",
      "source": "Hacker News",
      "zh": "A 40ms Go garbage collector pause caused by swap"
     },
@@ -1989,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
      "link": "https://getartcraft.com/apps",
      "pubDate": "Sun, 04 Oct 2026 23:02:43 +0000",
-     "summary": "Article URL: https://getartcraft.com/apps Comments URL: https://news.ycombinator.com/item?id=49958850 Points: 67 # Comments: 71",
+     "summary": "Article URL: https://getartcraft.com/apps Comments URL: https://news.ycombinator.com/item?id=49958850 Points: 76 # Comments: 75",
      "source": "Hacker News",
      "zh": "ArtCraft Apps – open-source Adobe compatible suite written in Rust"
     },
@@ -2000,6 +1992,14 @@ window.INDUSTRY_DATA = {
      "summary": "Laith Al-Khalaf / Financial Times : Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~&pound;10B valuation Monzo sought &nbsp; &mdash;&nbsp; Eleven-year-old UK fintech searching for growth capital after bruising year ",
      "source": "Techmeme",
      "zh": "Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought (Laith Al-Khalaf/Financial Times)"
+    },
+    {
+     "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+     "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+     "pubDate": "Sun, 04 Oct 2026 22:25:10 +0000",
+     "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 108 # Comments: 30",
+     "source": "Hacker News",
+     "zh": "Self-hosted HTTP tunnels with SSH and Nginx"
     }
    ]
   },
@@ -2010,12 +2010,12 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
-     "title": "This is the Fitbit Edge: Google’s next fitness tracker finally spills its secrets",
+     "title": "Fitbit Edge leaks in full: Google’s new fitness tracker finally spills its secrets",
      "link": "https://www.androidauthority.com/google-fitbit-edge-leak-3718856/",
      "pubDate": "Mon, 05 Oct 2026 04:11:21 +0000",
      "summary": "The perfect middle ground between Fitbit Air and Pixel Watch 5?",
      "source": "Android Authority",
-     "zh": "This is the Fitbit Edge: Google’s next fitness tracker finally spills its secrets"
+     "zh": "Fitbit Edge leaks in full: Google’s new fitness tracker finally spills its secrets"
     },
     {
      "title": "十个案例助你轻松上手 iOS 27 通知自动化",
@@ -2258,6 +2258,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Schneider Electric to buy PTC for $205/share in $23.7B deal",
+     "link": "https://seekingalpha.com/news/4650068-schneider-electric-to-buy-ptc-for-205share-in-237b-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 05 Oct 2026 01:51:41 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Schneider Electric to buy PTC for $205/share in $23.7B deal"
+    },
+    {
+     "title": "央视披露缅北电诈细节：现金多到发霉，在房顶和院子晒钱！被执行死刑的白应苍等人出镜",
+     "link": "http://finance.eastmoney.com/news/11790,202610053888618572.html",
+     "pubDate": "Mon, 05 Oct 2026 13:47:26 +0800",
+     "summary": "由公安部和中央广播电视总台联合摄制的纪录片《缅北电诈覆灭纪实》将于10月5日至7日，在央视 综合 频道18点档首播。纪录片全面展现了在党中央坚强领导下，我国公安机关会同有关部门开展打击缅北涉我犯罪专项工作，彻底铲除缅北“四大家族”等犯罪集团的艰苦历程和显著成就。 “电诈头目常在房顶和院子里晒钱” 据报道，盘踞在缅北的各路武装割据力量和各大财阀家族，将“电诈”视为他们扩充和稳固利益版图的“经济支柱”。 早就进入中国警方视线的鲍岩板，曾是“佤邦”勐波县县长、建设部部长，何春田曾是“佤邦”勐能县县长。在他们的庇护下，“佤邦”支撑了很多“官匪一体”、高度组织化的电诈犯罪集团。 为防止家中存放的巨额现金",
+     "source": "东方财富股票",
+     "zh": "央视披露缅北电诈细节：现金多到发霉，在房顶和院子晒钱！被执行死刑的白应苍等人出镜"
+    },
+    {
+     "title": "行业周期下行拖累业绩，旗滨集团中期净利润跌118.76％，将审慎推进海外产能布局",
+     "link": "http://finance.eastmoney.com/news/1354,202610053888618627.html",
+     "pubDate": "Mon, 05 Oct 2026 13:45:00 +0800",
+     "summary": "2026年上半年，受制于玻璃行业周期性低谷及供需矛盾加剧，浮法与光伏玻璃主业承压，株洲 旗滨集团 股份有限公司（下称“ 旗滨集团 ”）（601636.SH）业绩由盈转亏，归母净利润录得-1.67亿元，同比下滑118.76%，浮法、光伏玻璃两大主业同步承压。 9月28日，《华夏时报》记者就国内浮法产能策略调整、行业供需格局修复、海外产能扩张规划及企业风险防控举措等问题对 旗滨集团 董事兼总裁凌根略进行采访。 凌根略回复称，报告期内（2026年上半年），浮法玻璃业务方面，受地产复苏不及预期影响，行业需求偏弱、价格承压。公司将持续动态评估国内浮法产能安排，结合窑炉寿命、产线（产品）盈利水平，灵活开展",
+     "source": "东方财富股票",
+     "zh": "行业周期下行拖累业绩，旗滨集团中期净利润跌118.76％，将审慎推进海外产能布局"
+    },
+    {
+     "title": "台交所加权股价指数收高2.55%",
+     "link": "http://stock.eastmoney.com/news/11791,202610053888618392.html",
+     "pubDate": "Mon, 05 Oct 2026 13:42:42 +0800",
+     "summary": "台交所加权股价指数收高2.55%，报49,712.04点。",
+     "source": "东方财富股票",
+     "zh": "台交所加权股价指数收高2.55%"
+    },
+    {
+     "title": "泽连斯基称乌将加大打击俄炼油厂 回应莫斯科扩大空袭范围",
+     "link": "http://finance.eastmoney.com/news/1351,202610053888618494.html",
+     "pubDate": "Mon, 05 Oct 2026 13:39:14 +0800",
+     "summary": "乌克兰总统泽连斯基表示， 乌军将加大对俄罗斯炼油厂的打击力度，以回应莫斯科近期扩大对乌空袭目标范围的做法 。不过他强调，乌克兰不会以俄罗斯的方式无差别攻击民用目标。 泽连斯基称，乌克兰情报部门获得的文件显示，俄罗斯总统普京已批准一套新的军事打击方针，在冬季到来前允许攻击更广泛的目标，包括能源和 物流 设施、道路、学校及 医院 。他认为，相关行动旨在增加城市居民生活压力，迫使更多人离开基辅等主要城市。 俄外交部则表示，俄军将继续系统性实施打击，并将相关行动描述为对乌克兰近月袭击俄罗斯境内目标的回应。俄乌双方均否认有意攻击平民。 乌方将炼厂列为能源反击重点 泽连斯基表示，俄罗斯持续攻击乌克兰能源系",
+     "source": "东方财富股票",
+     "zh": "泽连斯基称乌将加大打击俄炼油厂 回应莫斯科扩大空袭范围"
+    },
+    {
      "title": "Oracle rescues Nashville Symphony with $10M investment and partnership",
      "link": "https://seekingalpha.com/news/4650063-oracle-rescues-nashville-symphony-with-10m-investment-and-partnership?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 05 Oct 2026 01:39:01 -0400",
@@ -2272,6 +2312,14 @@ window.INDUSTRY_DATA = {
      "summary": "受南下冷空气影响，浙江台州沿海海面风急浪高，部分海域阵风已达8至9级，海上通航安全风险明显上升。为保障群众水上出行安全，台州沿海除玉环外的10条客渡运航线已全部停航。 停航期间，台州海事局将持续密切跟踪气象风力变化动态，实时更新通航预警信息，常态化开展港区巡查、船舶避风管控工作，督促辖区船舶落实避风锚泊措施，严防海上安全事故发生。 同时，台州海事局提醒，大风影响期间海上风险较高，请广大市民密切关注天气及 航运 动态，合理安排出行，切勿冒险乘船出海。 （文章来源：央视新闻）",
      "source": "东方财富股票",
      "zh": "受冷空气影响 浙江台州沿海10条客渡运航线停航"
+    },
+    {
+     "title": "加息压力缓解提振亚太股市，日股重返7万点，港股光通信走强，台积电新高，纳指、原油先涨后跌",
+     "link": "https://wallstreetcn.com/articles/3782996",
+     "pubDate": "Mon, 05 Oct 2026 13:35:22 +0800",
+     "summary": "美国就业市场降温令美联储加息压力减轻，亚太股市周一普遍走高，日本科技股领涨，油价则在早盘上冲后回落。 美国9月新增就业人数低于预期，薪资增速放缓，货币市场随即下调对美联储10月加息的预期概率至25%以下。这一数据显著改变了市场对利率路径的判断，为风险资产提供了喘息空间。 日经225指数 盘中重返70000点上方，日内涨超2.5%。 MSCI亚太指数 上涨1%至279.06点。 菲律宾股指 高开0.8%。 台股指数 一度上涨2.7%，创下49,770.66点的历史新高。半导体巨头台积电一度大涨3.2%，创下历史新高。 富时中国A50指数 期货盘初涨0.22%，上一个交易日夜盘收涨0.14%。 恒",
+     "source": "华尔街见闻",
+     "zh": "加息压力缓解提振亚太股市，日股重返7万点，港股光通信走强，台积电新高，纳指、原油先涨后跌"
     },
     {
      "title": "Russia hospitalizes almost 200 people after researcher&apos;s death from plague: Reports",
@@ -2290,38 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "雅居乐集团：预计六周内推出境外债务重组支持协议，涉本金总额约51.83亿美元的金融债务"
     },
     {
-     "title": "【环球财经】9月标普全球澳大利亚综合PMI降至51.3点 私营经济扩张速度放缓",
-     "link": "http://finance.eastmoney.com/news/1346,202610053888617321.html",
-     "pubDate": "Mon, 05 Oct 2026 13:31:47 +0800",
-     "summary": "新华财经悉尼10月5日电（记者李晓渝）金融分析公司 标普全球 （S&P Global）公布的最新数据报告显示，2026年9月 标普全球 澳大利亚 综合 PMI（S&P Global Australia Composite PMI）从前一个月的52.7点进一步回落至51.3点，连续第四个月在50点枯荣线以上。 这表明澳大利亚私营经济商业活动连续第四个月增长，但增速下降至三个月来最低水平。 当月，澳大利亚制造业产出下降幅度扩大，新增订单再次下滑；而服务业的商业活动继续增长，拉动私营经济整体新增订单增长。不过，制造业新增出口订单下降，导致私营经济整体新增出口订单减少。同时，私营企业的商业信心降至3个",
-     "source": "东方财富股票",
-     "zh": "【环球财经】9月标普全球澳大利亚综合PMI降至51.3点 私营经济扩张速度放缓"
-    },
-    {
-     "title": "以色列总理下令对入境外国航班进行安全审查",
-     "link": "http://global.eastmoney.com/news/1786,202610053888617931.html",
-     "pubDate": "Mon, 05 Oct 2026 13:31:01 +0800",
-     "summary": "新华财经北京10月5日电（乔颖）阿联酋迪拜航空公司客机安全事件发生后，以色列总理内塔尼亚胡4日指示以国家安全委员会对外国航空公司执飞、飞往以色列的航班进行全面安全审查。 以色列总理办公室在一份声明中说，内塔尼亚胡“已指示国家安全委员会主席什穆埃尔·本·埃兹拉任命一名审查员，对飞往以色列的外国民用航空器进行全面安全彻查”。 9月30日，迪拜航空FZ1073航班从阿联酋迪拜飞往以色列特拉维夫途中，副驾驶在驾驶舱内袭击机长，客机突然急降，幸而最终安全降落在沙特阿拉伯塔布克 机场 。以色列国内呼吁调查此次事件安保疏漏的呼声日益高涨。 据多家以色列媒体4日报道，涉事阿曼籍副驾驶接受审讯时称，他原本计划驾",
-     "source": "东方财富股票",
-     "zh": "以色列总理下令对入境外国航班进行安全审查"
-    },
-    {
-     "title": "【环球财经】土耳其前三季度乘用车销量中电动及混合动力车型占比过半",
-     "link": "http://finance.eastmoney.com/news/1358,202610053888617858.html",
-     "pubDate": "Mon, 05 Oct 2026 13:30:45 +0800",
-     "summary": "新华财经伊斯坦布尔10月5日电（记者许万虎）土耳其 汽车 分销商与出行协会最新数据显示，今年前三季度，电动 汽车 （含增程式车型）与混合动力 汽车 合计占土耳其 乘用车 销量的51.9%。 前三季度，两类车型合计销量为326035辆。其中，混合动力汽车销量为204956辆，同比下降0.8%，市场份额为32.6%；电动汽车销量为121079辆，市场份额为19.3%。电动汽车中，纯电动车型销量为120329辆，同比下降9.5%。同期，土耳其 乘用车 销量为627977辆，同比下降15.45%；轻型 商用车 销量为175488辆，同比下降5.12%。 传统燃油车型销量明显下滑。前三季度，汽油汽车销量",
-     "source": "东方财富股票",
-     "zh": "【环球财经】土耳其前三季度乘用车销量中电动及混合动力车型占比过半"
-    },
-    {
-     "title": "港股千亿市值PCB概念股，大涨超11%",
-     "link": "http://hk.eastmoney.com/news/11792,202610053888617526.html",
-     "pubDate": "Mon, 05 Oct 2026 13:30:40 +0800",
-     "summary": "10月5日， PCB 概念走强， 建滔积层板 盘中一度涨超11%，截至发稿涨10.63%， 景旺电子 涨9.81%， 广合科技 涨7.45%。 产业消息方面， 英伟达 近期披露，其新一代 人工智能 计算系统已在云服务商CoreWeave投入生产应用。此前， 建滔积层板 在中期业绩公告中表示，上半年 人工智能 产业发展带动覆 铜 板及上游材料需求增长，公司产品多次提价，覆 铜 板出货量同比增长14%。 中新经纬综自中国证券报、公开信息 （文章来源：中新经纬）",
-     "source": "东方财富股票",
-     "zh": "港股千亿市值PCB概念股，大涨超11%"
-    },
-    {
      "title": "AkzoNobel to sell SE Asia decorative paints business to Nippon Paint for $1.35B",
      "link": "https://seekingalpha.com/news/4650067-akzonobel-to-sell-se-asia-decorative-paints-business-to-nippon-paint-for-135b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 05 Oct 2026 01:30:25 -0400",
@@ -2330,12 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "AkzoNobel to sell SE Asia decorative paints business to Nippon Paint for $1.35B"
     },
     {
-     "title": "Euro hits 17-month low against dollar",
+     "title": "Euro tumbles to 17-month low against dollar",
      "link": "https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1",
      "pubDate": "Mon, 05 Oct 2026 05:30:15 GMT",
      "summary": "High energy prices and concerns over French indebtedness add to pressure on bloc’s currency",
      "source": "Financial Times",
-     "zh": "Euro hits 17-month low against dollar"
+     "zh": "Euro tumbles to 17-month low against dollar"
     },
     {
      "title": "Australia’s private sector growth cools to 3-month low as inflation pressures ease",
@@ -2376,14 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "10月5日，任嘉伦工作室发声明辟谣任嘉伦入驻红果短剧，称网络上的同名账号均为仿冒。 任嘉伦工作室发文称，任嘉伦先生从未在该平台注册、运营或授权任何第三方运营涉事蓝V认证账号。该平台上出现的所谓“官方”或“认证”账号，系相关主体未经授权擅自使用任嘉伦先生的姓名、肖像及名义进行虚假认证，属于典型的假冒、仿冒行为。上述涉事账号的行为已严重侵犯任嘉伦先生的人格权益。 公开资料显示，任嘉伦，本名...",
      "source": "经济观察网",
      "zh": "任嘉伦工作室，否认入驻红果短剧"
-    },
-    {
-     "title": "Saudi Aramco unexpectedly slashes November Asia oil prices to multi-year low: report",
-     "link": "https://seekingalpha.com/news/4650062-saudi-aramco-unexpectedly-slashes-november-asia-oil-prices-to-multi-year-low-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 05 Oct 2026 00:51:26 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Saudi Aramco unexpectedly slashes November Asia oil prices to multi-year low: report"
     },
     {
      "title": "实探贴息落地后首个假期楼市：120平方米以下房型率先卖光了，有房子121平“遗憾”错过；三四线城市刚需每月房贷少还数百元",
@@ -2440,14 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "【恒生科技指数翻红】5日早盘，香港恒生科技指数翻红，现涨0.44%。该指数开盘后一度下跌0.86%。（中新经纬APP）",
      "source": "经济观察网",
      "zh": "恒生科技指数翻红"
-    },
-    {
-     "title": "加息压力缓解提振亚太股市，日股重返7万点，港股光通信走强，纳指期货续涨，原油先涨后跌",
-     "link": "https://wallstreetcn.com/articles/3782996",
-     "pubDate": "Mon, 05 Oct 2026 11:24:10 +0800",
-     "summary": "美国就业市场降温令美联储加息压力减轻，亚太股市周一普遍走高，日本科技股领涨，油价则在早盘上冲后回落。 美国9月新增就业人数低于预期，薪资增速放缓，货币市场随即下调对美联储10月加息的预期概率至25%以下。这一数据显著改变了市场对利率路径的判断，为风险资产提供了喘息空间。 日经225指数 盘中重返70000点上方，日内涨超2.5%。 MSCI亚太指数 上涨1%至279.06点。 菲律宾股指 高开0.8%。 台股指数 上涨2%至49,465.19点。 富时中国A50指数 期货盘初涨0.22%，上一个交易日夜盘收涨0.14%。 恒生科技指数 低开，一度跌超0.8%，随后转涨。 人工智能和光通信板块领",
-     "source": "华尔街见闻",
-     "zh": "加息压力缓解提振亚太股市，日股重返7万点，港股光通信走强，纳指期货续涨，原油先涨后跌"
     },
     {
      "title": "一半的股票已进入熊市！美股走到“十字路口”，关键看美债波动率",

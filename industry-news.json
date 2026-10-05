@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/6 06:06:48",
+ "generated_at": "2026/10/6 06:10:07",
  "recent_days": 7,
  "industries": [
   {
@@ -305,6 +305,22 @@
      "zh": "ACCESS GRANTED – Unlocking Building Safety and Security Controls with Audio"
     },
     {
+     "title": "Rocket Factory Augsburg appoints new CEO",
+     "link": "https://www.electronicsweekly.com/news/business/rocket-factory-augsburg-appoint-new-ceo-2026-10/",
+     "pubDate": "Mon, 05 Oct 2026 15:10:07 +0000",
+     "summary": "Alexander Dahm has been named as the new CEO of Rocket Factory Augsburg (RFA), the Bavarian space rocket startup hoping to launch from the SaxaVord spaceport in the Shetland Islands. […] The post Rocket Factory Augsburg appoints new CEO appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Rocket Factory Augsburg appoints new CEO"
+    },
+    {
+     "title": "What’s Stopping Workers From Using AI?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/whats-stopping-workers-from-using-ai-2026-10/",
+     "pubDate": "Mon, 05 Oct 2026 13:01:48 +0000",
+     "summary": "While 4 in 10 workers surveyed for PwC’s Global Workforce Hopes and Fears Survey reported using AI tools at work at least weekly, making them an integral part of their […] The post What’s Stopping Workers From Using AI? appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "What’s Stopping Workers From Using AI?"
+    },
+    {
      "title": "Samsung opens Boston quantum design lab to expand US research push",
      "link": "https://www.digitimes.com/news/a20261005PD245/samsung-design-quantum-quantum-computing-2026.html",
      "pubDate": "Mon, 5 Oct 2026 12:45:00 GMT",
@@ -337,6 +353,14 @@
      "zh": "Amazon signs 20-year nuclear power deal with Constellation for AI demand"
     },
     {
+     "title": "Omnivision’s OAX7700 is ultralow-power vision AI processor with NPU",
+     "link": "https://www.electronicsweekly.com/news/products/fpga-news/omnivisions-oax7700-is-ultralow-power-vision-ai-processor-with-npu-2026-10/",
+     "pubDate": "Mon, 05 Oct 2026 10:31:53 +0000",
+     "summary": "Omnivision’s OAX7700 asic is the company’s lowest-power AI companion processor for always-on vehicle security systems. It positions the device as an upgrade to existing exterior camera solutions such as surround-view […] The post Omnivision’s OAX7700 is ultralow-power vision AI processor with NPU ap",
+     "source": "Electronics Weekly",
+     "zh": "Omnivision’s OAX7700 is ultralow-power vision AI processor with NPU"
+    },
+    {
      "title": "Foxconn September revenue tops NT$1 trillion for first time on AI, ICT demand",
      "link": "https://www.digitimes.com/news/a20261005PD249/foxconn-revenue-demand-electronics-growth.html",
      "pubDate": "Mon, 5 Oct 2026 10:24:37 GMT",
@@ -361,12 +385,28 @@
      "zh": "Pegatron AI servers boost September revenue"
     },
     {
+     "title": "Jedec JESD264 sets out foundation for broader silicon photonics adoption",
+     "link": "https://www.electronicsweekly.com/news/jedec-jesd264-sets-out-foundation-for-broader-silicon-photonics-adoption-2026-10/",
+     "pubDate": "Mon, 05 Oct 2026 09:19:23 +0000",
+     "summary": "The standards body Jedec has officially announced the JESD264 standard for silicon photonics (SiPh) technology. Specifically, it targets qualification and reliability requirements. Jedec describes it as the first industry-wide standard […] The post Jedec JESD264 sets out foundation for broader silic",
+     "source": "Electronics Weekly",
+     "zh": "Jedec JESD264 sets out foundation for broader silicon photonics adoption"
+    },
+    {
      "title": "JEDEC publishes first industry-wide silicon photonics reliability standard",
      "link": "https://www.semiconductor-today.com/news_items/2026/oct/jedec-051026.shtml",
      "pubDate": "Mon, 5 Oct 2026 09:04:31 +0100",
      "summary": "JEDEC Solid State Technology Association (which develops standards for the microelectronics industry) has announced the release of ‘JESD264: Silicon Photonics Qualification and Reliability Requirements’, the first industry-wide standard designed to bring consistent qualification and reliability prac",
      "source": "Semiconductor Today",
      "zh": "JEDEC publishes first industry-wide silicon photonics reliability standard"
+    },
+    {
+     "title": "Professor Cyril Hilsum 1925-2026",
+     "link": "https://www.electronicsweekly.com/news/business/professor-cyril-hilsum-1925-2026-2026-10/",
+     "pubDate": "Mon, 05 Oct 2026 07:59:16 +0000",
+     "summary": "Professor Cyril Hilsum, physicist and academic has died at the age of 101. Hilsum had a long career and was responsible for introducing III-V semiconductor, semiconductor lasers, Gunn diodes and […] The post Professor Cyril Hilsum 1925-2026 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Professor Cyril Hilsum 1925-2026"
     },
     {
      "title": "Far-UVC LEDs transmit data at record speed of 1.5Gbps",
@@ -383,6 +423,14 @@
      "summary": "Cardiff Capital Region (CCR) says that its £160m 10-year Investment Zone program is moving into delivery, marking a major step forward in the region’s ambition to become a global hub for advanced manufacturing and digital technologies...",
      "source": "Semiconductor Today",
      "zh": "Cardiff Capital Region’s £160m 10-year Investment Zone program moving into delivery"
+    },
+    {
+     "title": "BT buys TalkTalk",
+     "link": "https://www.electronicsweekly.com/news/business/bt-buys-talk-talk-2026-10/",
+     "pubDate": "Mon, 05 Oct 2026 07:14:07 +0000",
+     "summary": "BT has bought TalkTalk out of administration for £400m, overriding competition issues to protect vulnerable customers who rely on its support services. “Our focus is simple,” says BT to its […] The post BT buys TalkTalk appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "BT buys TalkTalk"
     },
     {
      "title": "The Agentic AI Super Cycle",
@@ -447,22 +495,6 @@
      "summary": "Filtronic plc of Sedgefield and Leeds, UK — which designs and manufactures RF and millimeter-wave (mmWave) transmit & receive components and subsystems for the space, aerospace & defence, and telecoms infrastructure markets — has announced a $68.1m (£51.3m) follow-on order to supply Cerus E-band gal",
      "source": "Semiconductor Today",
      "zh": "Filtronic wins $68.1m follow-on order from SpaceX for Cerus E-band GaN solid-state power amplifiers"
-    },
-    {
-     "title": "Renesas unveils first 650V GaN in dual-side-cooled 8mm x 8mm package for megawatt-scale AI data centers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/renesas-011026.shtml",
-     "pubDate": "Thu, 1 Oct 2026 16:11:19 +0100",
-     "summary": "Renesas Electronics Corp of Tokyo, Japan has launched what it claims is the industry’s first 650V GaN device with dual-side cooling for high-density power conversion in 800V high-voltage DC (HVDC) AI data-center architectures. The new TP65H020G4PLSGBD D-Mode device delivers 20mΩ on-resistance — one ",
-     "source": "Semiconductor Today",
-     "zh": "Renesas unveils first 650V GaN in dual-side-cooled 8mm x 8mm package for megawatt-scale AI data centers"
-    },
-    {
-     "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
-     "link": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
-     "pubDate": "Tue, 29 Sep 2026 10:00:06 +0000",
-     "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle. Key Takeaways Explore four critical technologies enabling silicon design autonomy Understand how autonomous AI accelerates comp",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog"
     }
    ]
   },
@@ -1713,10 +1745,18 @@
    "total": 18,
    "items": [
     {
+     "title": "Find the flattest route between any two points in SF",
+     "link": "https://flattensf.com/",
+     "pubDate": "Mon, 05 Oct 2026 21:40:50 +0000",
+     "summary": "Article URL: https://flattensf.com/ Comments URL: https://news.ycombinator.com/item?id=49971230 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Find the flattest route between any two points in SF"
+    },
+    {
      "title": "Dust: Pretraining Transformers Without Backpropagation",
      "link": "https://qlabs.sh/research/dust",
      "pubDate": "Mon, 05 Oct 2026 21:15:07 +0000",
-     "summary": "Article URL: https://qlabs.sh/research/dust Comments URL: https://news.ycombinator.com/item?id=49970871 Points: 10 # Comments: 0",
+     "summary": "Article URL: https://qlabs.sh/research/dust Comments URL: https://news.ycombinator.com/item?id=49970871 Points: 28 # Comments: 1",
      "source": "Hacker News",
      "zh": "Dust: Pretraining Transformers Without Backpropagation"
     },
@@ -1724,17 +1764,9 @@
      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
      "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
      "pubDate": "Mon, 05 Oct 2026 21:00:21 +0000",
-     "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors Comments URL: https://news.ycombinator.com/item?id=49970667 Points: 89 # Comments: 78",
+     "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors Comments URL: https://news.ycombinator.com/item?id=49970667 Points: 106 # Comments: 93",
      "source": "Hacker News",
      "zh": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates"
-    },
-    {
-     "title": "WSL containers is now generally available",
-     "link": "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/",
-     "pubDate": "Mon, 05 Oct 2026 20:49:51 +0000",
-     "summary": "Article URL: https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/ Comments URL: https://news.ycombinator.com/item?id=49970507 Points: 21 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "WSL containers is now generally available"
     },
     {
      "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
@@ -1772,7 +1804,7 @@
      "title": "A third way of using Linux",
      "link": "https://hisvirusness.com/third-is-the-way",
      "pubDate": "Mon, 05 Oct 2026 20:17:07 +0000",
-     "summary": "Article URL: https://hisvirusness.com/third-is-the-way Comments URL: https://news.ycombinator.com/item?id=49970073 Points: 9 # Comments: 6",
+     "summary": "Article URL: https://hisvirusness.com/third-is-the-way Comments URL: https://news.ycombinator.com/item?id=49970073 Points: 11 # Comments: 10",
      "source": "Hacker News",
      "zh": "A third way of using Linux"
     },
@@ -1780,7 +1812,7 @@
      "title": "Incident with Actions",
      "link": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
      "pubDate": "Mon, 05 Oct 2026 20:09:12 +0000",
-     "summary": "Article URL: https://www.githubstatus.com/incidents/3q1yb5m7ltvb Comments URL: https://news.ycombinator.com/item?id=49969961 Points: 75 # Comments: 50",
+     "summary": "Article URL: https://www.githubstatus.com/incidents/3q1yb5m7ltvb Comments URL: https://news.ycombinator.com/item?id=49969961 Points: 75 # Comments: 52",
      "source": "Hacker News",
      "zh": "Incident with Actions"
     },
@@ -1812,17 +1844,17 @@
      "title": "After bankruptcy, he was banned from sports betting sites. Then he found Kalshi",
      "link": "https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction",
      "pubDate": "Mon, 05 Oct 2026 19:30:21 +0000",
-     "summary": "Article URL: https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction Comments URL: https://news.ycombinator.com/item?id=49969375 Points: 41 # Comments: 21",
+     "summary": "Article URL: https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction Comments URL: https://news.ycombinator.com/item?id=49969375 Points: 45 # Comments: 31",
      "source": "Hacker News",
      "zh": "After bankruptcy, he was banned from sports betting sites. Then he found Kalshi"
     },
     {
-     "title": "Reflection unveils Beam, an open model it says rivals GLM 5.2 on reasoning while using 3x-4× less compute and approaches Qwen3.8-Max on coding and agentic tasks (Semafor)",
+     "title": "NY-based Reflection unveils Beam, an open model it says rivals Qwen3.8-Max on coding and agentic tasks and GLM 5.2 on reasoning, while using 3x-4× less compute (Semafor)",
      "link": "https://www.techmeme.com/261005/p30#a261005p30",
      "pubDate": "Mon, 05 Oct 2026 15:25:01 -0400",
-     "summary": "Semafor : Reflection unveils Beam, an open model it says rivals GLM 5.2 on reasoning while using 3x-4&times; less compute and approaches Qwen3.8-Max on coding and agentic tasks &nbsp; &mdash;&nbsp; Reflection AI, the startup billing itself as America's answer to open-source Chinese AI, is releasing ",
+     "summary": "Semafor : NY-based Reflection unveils Beam, an open model it says rivals Qwen3.8-Max on coding and agentic tasks and GLM 5.2 on reasoning, while using 3x-4&times; less compute &nbsp; &mdash;&nbsp; Reflection AI, the startup billing itself as America's answer to open-source Chinese AI, is releasing i",
      "source": "Techmeme",
-     "zh": "Reflection unveils Beam, an open model it says rivals GLM 5.2 on reasoning while using 3x-4× less compute and approaches Qwen3.8-Max on coding and agentic tasks (Semafor)"
+     "zh": "NY-based Reflection unveils Beam, an open model it says rivals Qwen3.8-Max on coding and agentic tasks and GLM 5.2 on reasoning, while using 3x-4× less compute (Semafor)"
     },
     {
      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
@@ -2209,6 +2241,14 @@
    "total": 13,
    "items": [
     {
+     "title": "Ginkgo Bioworks surges 21%; up 120% over last month",
+     "link": "https://seekingalpha.com/news/4650391-ginkgo-bioworks-surges-21-percent-up-120-percent-over-last-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 05 Oct 2026 18:04:46 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ginkgo Bioworks surges 21%; up 120% over last month"
+    },
+    {
      "title": "42%溢价、五年才与资本成本打平，施耐德电气创纪录230亿买PTC，股价重挫",
      "link": "https://wallstreetcn.com/articles/3783036",
      "pubDate": "Tue, 06 Oct 2026 06:03:05 +0800",
@@ -2289,14 +2329,6 @@
      "zh": "Newfoundland Discovery changes name to Genesis Goldfields"
     },
     {
-     "title": "Pembina Pipeline Corporation 5.2% CUM PFD 25 declares CAD 0.405 dividend",
-     "link": "https://seekingalpha.com/news/4650389-pembina-pipeline-corporation-5_2-percent-cum-pfd-25-declares-cad-0_405-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 05 Oct 2026 17:38:47 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Pembina Pipeline Corporation 5.2% CUM PFD 25 declares CAD 0.405 dividend"
-    },
-    {
      "title": "第77届国际宇航大会在土耳其安塔利亚开幕",
      "link": "http://finance.eastmoney.com/news/1351,202610063888706956.html",
      "pubDate": "Tue, 06 Oct 2026 05:38:12 +0800",
@@ -2351,14 +2383,6 @@
      "summary": "富时A50期指连续夜盘收涨0.42%，报13874点。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "富时A50期指连续夜盘收涨0.42%"
-    },
-    {
-     "title": "全球市场：美股三大指数集体收涨 纳指涨超1%创收盘新高",
-     "link": "http://stock.eastmoney.com/news/11784,202610063888706547.html",
-     "pubDate": "Tue, 06 Oct 2026 05:15:12 +0800",
-     "summary": "美股市场： 美股三大指数10月05日收盘全线上涨， 纳指涨超1%，创收盘新高 。截至收盘，道琼斯工业平均指数比前一交易日上涨90.94点，收于51267.9点，涨幅为0.18%； 标准普尔 500种股票指数上涨51.23点，收于7773.95点，涨幅为0.66%； 纳斯达克 综合 指数上涨286.45点，收于27477.31点，涨幅为1.05%。 大型科技股普遍上涨， 半导体 龙头 台积电 、 英伟达 盘中再创新高。 SpaceX 涨超7%， 台积电 、 英伟达 、 特斯拉 、 博通 涨超2%， 微软 、Meta、 谷歌-C 涨超1%。 医药股涨幅居前， 诺瓦瓦克斯医药 涨超20%，Moder",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数集体收涨 纳指涨超1%创收盘新高"
     },
     {
      "title": "南非发展绿氢推进能源安全与转型",
@@ -2447,6 +2471,14 @@
      "summary": "The leading AI labs facing intensifying scrutiny over their safety and security practices.",
      "source": "CNBC",
      "zh": "AI researcher warns &apos;we are racing to build and grow our own adversary&apos; in NYC hearing"
+    },
+    {
+     "title": "OpenAI遭商标侵权诉讼，\"Astra\"名称引发法律纠纷",
+     "link": "https://wallstreetcn.com/articles/3783030",
+     "pubDate": "Tue, 06 Oct 2026 03:32:18 +0800",
+     "summary": "OpenAI再度面临商标诉讼。一家名为TradeSun的AI软件公司指控OpenAI在其最新大语言模型中擅自使用\"Astra\"商标，要求法院责令OpenAI下架相关产品名称并赔偿利润。 据彭博报道，TradeSun已于周一在加利福尼亚州北区联邦地区法院提起诉讼。该公司自2021年起以Astra为品牌销售软件产品，并于2022年获得联邦商标注册，注册范围涵盖AI软件服务。 TradeSun认为，OpenAI上月发布的GPT-6 Astra正在向消费者传递\"Astra即OpenAI\"的品牌认知，构成典型的\"反向混淆\"侵权。 OpenAI一名发言人通过电子邮件回应称：\"这份诉状毫无任何依据，我们将继",
+     "source": "华尔街见闻",
+     "zh": "OpenAI遭商标侵权诉讼，\"Astra\"名称引发法律纠纷"
     }
    ]
   },

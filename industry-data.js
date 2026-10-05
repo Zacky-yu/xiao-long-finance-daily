@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/5 13:31:55",
+ "generated_at": "2026/10/5 13:35:46",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,54 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Electric Car Makers Need to Appeal to the ‘Other 90%’",
+     "link": "https://www.eetimes.com/electric-car-makers-need-to-appeal-to-the-other-90/",
+     "pubDate": "Mon, 05 Oct 2026 05:30:55 +0000",
+     "summary": "Broader appeal for the electric car is a big challenge. Innovation is still the best solution. The post Electric Car Makers Need to Appeal to the ‘Other 90%’ appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Electric Car Makers Need to Appeal to the ‘Other 90%’"
+    },
+    {
+     "title": "Robotaxis acquiring a business case",
+     "link": "https://www.electronicsweekly.com/news/business/robotaxis-getting-a-business-case-2026-10/",
+     "pubDate": "Mon, 05 Oct 2026 05:13:37 +0000",
+     "summary": "The global robotaxi fleet is expected to reach 331,000 vehicles in 2031, an average annual growth of 78%, says Yole. Powering the expansion are a 70% reduction in vehicle BOM […] The post Robotaxis acquiring a business case appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Robotaxis acquiring a business case"
+    },
+    {
+     "title": "SK Hynix chairman to sell shares worth $700m",
+     "link": "https://www.electronicsweekly.com/news/business/sk-hynix-chairman-to-sell-shares-worth-700m-2026-10/",
+     "pubDate": "Mon, 05 Oct 2026 05:12:45 +0000",
+     "summary": "S K Hynix chairman Chey Tae-Won(pictured) is selling $700 million worth of Hynix stock representing a 2.26% stake in the company. The sale is to finance a divorce settlement in […] The post SK Hynix chairman to sell shares worth $700m appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "SK Hynix chairman to sell shares worth $700m"
+    },
+    {
+     "title": "The best product ever",
+     "link": "https://www.electronicsweekly.com/news/business/the-best-product-ever-2026-10/",
+     "pubDate": "Mon, 05 Oct 2026 05:12:29 +0000",
+     "summary": "Tesla is aiming for an Optimus production line of 1,000 robots a week by the end of this year from its Fremont, California factory. The factory, a converted car factory, […] The post The best product ever appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The best product ever"
+    },
+    {
+     "title": "Qorvo sampling C-band radar ICs for pulsed ESA systems",
+     "link": "https://www.electronicsweekly.com/news/business/qorvo-sampling-c-band-radar-ics-for-pulsed-esa-systems-2026-10/",
+     "pubDate": "Mon, 05 Oct 2026 05:09:26 +0000",
+     "summary": "At C-band, frequency agility across 5.2 to 5.9 GHz has meant assembling discrete filters, switches and RF routing because an integrated switched filter bank has not been available. At high […] The post Qorvo sampling C-band radar ICs for pulsed ESA systems appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Qorvo sampling C-band radar ICs for pulsed ESA systems"
+    },
+    {
+     "title": "Oversized Cable Exits",
+     "link": "https://www.electronicsweekly.com/news/products/connectors/oversized-cable-exits-2026-10/",
+     "pubDate": "Mon, 05 Oct 2026 05:01:40 +0000",
+     "summary": "Yamaichi Electronics is expanding its Y-Cir P T-Series with new Oversize Cable Exits. These allow for the use of larger cable diameters by utilising cable exits from the next larger […] The post Oversized Cable Exits appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Oversized Cable Exits"
+    },
+    {
      "title": "Climate tech investment cools, but green supply chains support long-term demand",
      "link": "https://www.digitimes.com/news/a20261005PD226/investment-demand-policy-net-zero-market.html",
      "pubDate": "Mon, 5 Oct 2026 04:54:40 GMT",
@@ -338,36 +386,12 @@ window.INDUSTRY_DATA = {
      "zh": "Formal Automotive Security Analysis Of CAN XL  (Georgia Tech, QCRI, Purdue)"
     },
     {
-     "title": "Most Read – VersaBeam Mini, Micron booming, TSMC fabs",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-versabeam-mini-micron-booming-tsmc-fabs-2026-10/",
-     "pubDate": "Fri, 02 Oct 2026 16:42:24 +0000",
-     "summary": "The most popular ones on the site include Micron having a $54bn revenue quarter, Anthropic revealing the biggest pre-IPO loss in history and TSMC looking to build six fabs in Texas... The post Most Read – VersaBeam Mini, Micron booming, TSMC fabs appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – VersaBeam Mini, Micron booming, TSMC fabs"
-    },
-    {
      "title": "AutoSens 2026: Regulation Drives Automotive Sensing Architectures",
      "link": "https://www.eetimes.com/autosens-2026-regulations-drive-automotive-sensing-architectures/",
      "pubDate": "Fri, 02 Oct 2026 15:58:50 +0000",
      "summary": "At AutoSens Europe, automotive sensing designs reflected tighter safety standards, advances in AI processing, and growing cybersecurity requirements. The post AutoSens 2026: Regulation Drives Automotive Sensing Architectures appeared first on EE Times .",
      "source": "EE Times",
      "zh": "AutoSens 2026: Regulation Drives Automotive Sensing Architectures"
-    },
-    {
-     "title": "TDK DC-link film capacitors rated for up to +135 °C",
-     "link": "https://www.electronicsweekly.com/news/products/passives/dc-link-film-capacitors-rated-for-up-to-135-c-2026-10/",
-     "pubDate": "Fri, 02 Oct 2026 14:01:58 +0000",
-     "summary": "TDK is introducing its B3272*A/G/T series of DC-link film capacitors that are qualified for continuous operation at case temperatures of up to +135 °C, with no derating required up to […] The post TDK DC-link film capacitors rated for up to +135 °C appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "TDK DC-link film capacitors rated for up to +135 °C"
-    },
-    {
-     "title": "US Chip Dominance Will Disappear",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/us-chip-dominance-will-disappear-2026-10/",
-     "pubDate": "Fri, 02 Oct 2026 13:27:08 +0000",
-     "summary": "The renowned UK semiconductor expert, Dr Ian Mackintosh, argued in his keynote address at the 1978 International Solid State Circuits Conference in San Francisco, that much of America’s dominance in […] The post US Chip Dominance Will Disappear appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "US Chip Dominance Will Disappear"
     },
     {
      "title": "Continuous Health Monitoring Drives Integrated Wearable System Design",
@@ -378,28 +402,12 @@ window.INDUSTRY_DATA = {
      "zh": "Continuous Health Monitoring Drives Integrated Wearable System Design"
     },
     {
-     "title": "SLG46801 ultra-Compact GreenPAK IC offers multi-time programmability",
-     "link": "https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/slg46801-ultra-compact-greenpak-ic-offers-multi-time-programmability-2026-10/",
-     "pubDate": "Fri, 02 Oct 2026 10:10:52 +0000",
-     "summary": "Renesas Electronics is sampling the SLG46801, its smallest GreenPAK configurable mixed-signal device. The 9-ball device combines an ultra-small footprint with multi-time programmability, highlights Renesas. It is aimed at compact products […] The post SLG46801 ultra-Compact GreenPAK IC offers multi-",
-     "source": "Electronics Weekly",
-     "zh": "SLG46801 ultra-Compact GreenPAK IC offers multi-time programmability"
-    },
-    {
      "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
      "link": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
      "pubDate": "Fri, 02 Oct 2026 10:00:03 +0000",
      "summary": "Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical elements for controlling the amplitude, phase, and polarization of light. These structures are of growing interest to researchers and engineers working on sensing, ",
      "source": "IEEE Spectrum 半导体",
      "zh": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control"
-    },
-    {
-     "title": "OpenWorks eyes US market for AI-powered autonomous vision systems",
-     "link": "https://www.electronicsweekly.com/news/business/openworks-eyes-us-market-for-ai-powered-autonomous-vision-systems-2026-10/",
-     "pubDate": "Fri, 02 Oct 2026 09:25:35 +0000",
-     "summary": "Northumberland’s OpenWorks Engineering, a UK defence technology company, has announced its expansion into the US market. Specifically it is opening a US regional headquarters in Ashburn, Virginia. And future plans […] The post OpenWorks eyes US market for AI-powered autonomous vision systems appeare",
-     "source": "Electronics Weekly",
-     "zh": "OpenWorks eyes US market for AI-powered autonomous vision systems"
     },
     {
      "title": "Filtronic wins $68.1m follow-on order from SpaceX for Cerus E-band GaN solid-state power amplifiers",
@@ -456,14 +464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Are you struggling with PCBA defects? Learn how to optimize your PCBA testing strategy by combining In-Circuit Testing (ICT), Functional Testing (FCT with Bed-of-Nails or Flying Probe Testers. The post PCBA Test Strategies: How to Select the Right Methodology and Tester appeared first on EE Times .",
      "source": "EE Times",
      "zh": "PCBA Test Strategies: How to Select the Right Methodology and Tester"
-    },
-    {
-     "title": "Small Electronics Manufacturers Save Big on ERP",
-     "link": "https://www.eetimes.com/small-electronics-manufacturers-save-big-on-erp/",
-     "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
-     "summary": "Instead of traditional ERP, small electronics manufacturers are finding that affordable SME-focused manufacturing software provides needed functionality. The post Small Electronics Manufacturers Save Big on ERP appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Small Electronics Manufacturers Save Big on ERP"
     },
     {
      "title": "Starlab secures payload reservation from Elethron",
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Oil Prices Fall as Hormuz Crude Flows Top Pre-War Levels",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Hormuz-Crude-Flows-Top-Pre-War-Levels.html",
+     "pubDate": "Mon, 05 Oct 2026 00:26:00 -0500",
+     "summary": "Crude oil prices fell in early trading, though Brent remained above $100, after a report from Kpler revealed that flows out of the Strait of Hormuz are now above pre-war levels. The same firm made headlines last week after saying tanker traffic via Hormuz was close to pre-war levels, despite Houthi ",
+     "source": "OilPrice",
+     "zh": "Oil Prices Fall as Hormuz Crude Flows Top Pre-War Levels"
+    },
+    {
      "title": "Peugeot E-208 Rental Car Review",
      "link": "https://cleantechnica.com/2026/10/05/peugeot-e-208-rental-car-review/",
      "pubDate": "Mon, 05 Oct 2026 04:06:26 +0000",
@@ -952,14 +960,6 @@ window.INDUSTRY_DATA = {
      "summary": "Despite pressure from some governments and consumers for a global energy transition, private equity firms continue to invest heavily in some of the world’s largest greenhouse gas emitters. Following the Covid-19 pandemic, several companies, banks, and even energy companies began introducing stronger",
      "source": "OilPrice",
      "zh": "Private Equity Firms Double Down on Fossil Fuels"
-    },
-    {
-     "title": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?",
-     "link": "https://oilprice.com/Energy/Energy-General/Could-White-Hydrogen-Succeed-Where-Green-Hydrogen-Stumbled.html",
-     "pubDate": "Sat, 03 Oct 2026 16:00:00 -0500",
-     "summary": "The green hydrogen hype has all but stalled out – but could white hydrogen take its place as the next big thing in decarbonization? Geologic hydrogen, so-called ‘white’ hydrogen, could potentially bypass the most critical barriers to scaling hydrogen use without significantly expanding the sector’s ",
-     "source": "OilPrice",
-     "zh": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?"
     },
     {
      "title": "Battery storage paired with 37% of new U.S. residential solar systems in 2025",
@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "智谱股价涨超5% GLM-5.3海外走红",
+     "link": "http://finance.eastmoney.com/news/1354,202610053888617023.html",
+     "pubDate": "Mon, 05 Oct 2026 13:22:16 +0800",
+     "summary": "智谱 （02513.HK）港股涨幅扩大至超5%。消息面上， 智谱 旗下GLM系列模型近期接连获得海外认可，近日，AI编程工具Cursor宣布上线GLM-5.3及GLM-5.3-Flash，并表示，GLM-5.3在Max推理设置下，取得其自有编程评测CursorBench 4.0中开放权重模型的最高分。官方榜单显示，该模型得分为42.6%。此外，德国主权AI Aleph Alpha发布的新模型Kolibri，也披露了对GLM的使用。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "智谱股价涨超5% GLM-5.3海外走红"
+    },
+    {
      "title": "日本首相高市早苗：我们将通过与公众、国内外市场参与者密切沟通，增强市场对我们政策的信任",
      "link": "http://finance.eastmoney.com/news/1351,202610053888616779.html",
      "pubDate": "Mon, 05 Oct 2026 13:16:18 +0800",
@@ -2312,14 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "日本首相高市早苗：将以周密且可预期的大规模长期财政支出吸引国内投资。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
      "zh": "日本首相高市早苗：将以周密且可预期的大规模长期财政支出吸引国内投资"
-    },
-    {
-     "title": "一汽丰田，发布声明！",
-     "link": "http://finance.eastmoney.com/news/1354,202610053888615792.html",
-     "pubDate": "Mon, 05 Oct 2026 13:13:20 +0800",
-     "summary": "10月5日，一汽丰田官方 微博 发布声明： 近期，中国第一 汽车 集团有限公司与广州 汽车 工业集团有限公司签署战略合作框架协议，引发行业及消费者广泛关注。 一汽丰田深耕国内市场23年，拥有成熟的产品矩阵、完备的产销售后体系和千万用户保有规模。目前全系车型产销、迭代规划均按计划有序推进，后续将依托集团合作的更大资源优势，持续创新，回馈广大用户信任。 针对部分网络账号散布的“一汽丰田或将彻底退出历史舞台”“丰田大降价”等不实言论，公司保留法律追责权利。 来源：一汽丰田官方 微博 （文章来源：券商中国）",
-     "source": "东方财富股票",
-     "zh": "一汽丰田，发布声明！"
     },
     {
      "title": "Japan’s PMI data signals cooling momentum across manufacturing and services",

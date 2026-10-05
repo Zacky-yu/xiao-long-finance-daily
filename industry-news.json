@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/5 08:06:54",
+ "generated_at": "2026/10/5 08:10:56",
  "recent_days": 7,
  "industries": [
   {
@@ -996,7 +996,7 @@
      "title": "Cities, states sue EPA over power plant emissions rollback",
      "link": "https://www.utilitydive.com/news/cities-states-sue-epa-over-power-plant-emissions-rollback/832016/",
      "pubDate": "Fri, 02 Oct 2026 10:27:26 -0400",
-     "summary": "Chicago, Denver and New York City joined multistate lawsuits challenging the agency&rsquo;s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
+     "summary": "Chicago, Denver and New York City join multistate lawsuits challenging the agency&rsquo;s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
      "source": "Utility Dive",
      "zh": "Cities, states sue EPA over power plant emissions rollback"
     },
@@ -1017,12 +1017,12 @@
      "zh": "Navigating the quality challenges of US module procurement"
     },
     {
-     "title": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit",
+     "title": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit",
      "link": "https://www.utilitydive.com/news/ferc-transalta-202c-cost-recovery-centralia/832001/",
      "pubDate": "Fri, 02 Oct 2026 09:28:00 -0400",
-     "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and despite the unit&rsquo;s lack of output, payment is due, the agency said.",
+     "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and&nbsp; despite the unit&rsquo;s lack of output, payment is due, the agency said.",
      "source": "Utility Dive",
-     "zh": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit"
+     "zh": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit"
     },
     {
      "title": "ContourGlobal completes construction at 324MW solar PV complex in Colorado",
@@ -1225,14 +1225,6 @@
      "zh": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000"
     },
     {
-     "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
-     "link": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-     "pubDate": "Fri, 02 Oct 2026 10:16:54 -0400",
-     "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
-     "source": "BioPharma Dive",
-     "zh": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs"
-    },
-    {
      "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
      "link": "https://www.statnews.com/2026/10/02/biotech-news-lilly-bypasses-australian-phramacies-with-dtc-model/?utm_campaign=rss",
      "pubDate": "Fri, 02 Oct 2026 13:58:31 +0000",
@@ -1295,6 +1287,14 @@
      "summary": "The department is offering funding to teams with innovative proposals as it considers ending the traditional phased clinical trial system.",
      "source": "BioPharma Dive",
      "zh": "HHS kicks off new programs to speed clinical trials as Chinese competition looms"
+    },
+    {
+     "title": "Pfizer’s eczema drug clears skin in mid-stage trial",
+     "link": "https://www.biopharmadive.com/news/pfizer-eczema-drug-clears-skin-in-mid-stage-trial/831905/",
+     "pubDate": "Thu, 01 Oct 2026 11:03:19 -0400",
+     "summary": "Detailed results are competitive with Dupixent and Ebglyss, but the drug lacks differentiation amid an increasingly competitive landscape, one analyst argued.",
+     "source": "BioPharma Dive",
+     "zh": "Pfizer’s eczema drug clears skin in mid-stage trial"
     }
    ]
   },
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "TypeSafe AI 决策模型 Jev 日处理量达 1 万亿 Token，硅谷巨头火速跟进复刻",
+     "link": "https://www.ithome.com/1/009/744.htm",
+     "pubDate": "Mon, 05 Oct 2026 00:06:48 GMT",
+     "summary": "IT之家 10 月 5 日消息，据《华尔街日报》报道，一款仅问世三周的人工智能模型 Jev 已经在硅谷圈子引发热议，人们开始探讨大语言模型之外的替代路线，同时这款模型也已经催生出不少跟风仿制产品。 初创企业 TypeSafe AI 于当地时间 9 月 15 日发布了 Jev。该模型的运行方式不同于聊天机器人，它并不生成文本。相反，它借助机器学习，把输入内容归类到一组预先设定好的输出结果当中：回答“是”或者“否”、输出一个数值评分，或是从既定列表里给出答案。该公司将这套技术思路称作“面向校准决策的强化学习”。 这家初创公司的负责人是迪奥戈 · 阿尔梅达（Diogo Almeida），他曾经任职于",
+     "source": "IT之家",
+     "zh": "TypeSafe AI 决策模型 Jev 日处理量达 1 万亿 Token，硅谷巨头火速跟进复刻"
+    },
+    {
      "title": "我们盘点了半年数据，发现22万部AI短剧，播放量破亿的不到千分之五",
      "link": "https://www.huxiu.com/article/4895398.html?f=rss",
      "pubDate": "Mon, 05 Oct 2026 08:01:56 +0800",
@@ -1817,14 +1825,6 @@
      "zh": "日产高管警告：中国汽车进入美国只是时间问题"
     },
     {
-     "title": "内存涨价倒逼系统瘦身：微软详解 Win11 为何要降低 RAM 占用",
-     "link": "https://www.ithome.com/1/009/738.htm",
-     "pubDate": "Sun, 04 Oct 2026 23:09:37 GMT",
-     "summary": "IT之家 10 月 5 日消息，随着内存成本持续上涨，微软正将“降低 Windows 11 内存占用”列为 2026 年剩余时间的重要工作之一。 微软 Windows 与设备业务负责人帕万 · 达武卢里（Pavan Davuluri）在官方播客《Inside Windows》中表示，内存涨价已经成为整个 PC 行业都在关注的问题，Windows 团队正在从系统底层到应用框架多个层面提升内存利用率。 这一话题源于一名 Surface Pro 用户在《Inside Windows》中的提问。他表示，为了在设备上运行本地 AI 模型，不得不关闭部分端侧 AI 功能，因此希望微软进一步改善 Windo",
-     "source": "IT之家",
-     "zh": "内存涨价倒逼系统瘦身：微软详解 Win11 为何要降低 RAM 占用"
-    },
-    {
      "title": "Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought (Laith Al-Khalaf/Financial Times)",
      "link": "https://www.techmeme.com/261004/p20#a261004p20",
      "pubDate": "Sun, 04 Oct 2026 18:55:01 -0400",
@@ -1833,18 +1833,10 @@
      "zh": "Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought (Laith Al-Khalaf/Financial Times)"
     },
     {
-     "title": "\"No Vendor Lock-In\" Is Code for \"No Product\"",
-     "link": "https://ferran.sh/writing/no-vendor-lock-in-is-code-for-no-product",
-     "pubDate": "Sun, 04 Oct 2026 22:51:42 +0000",
-     "summary": "Article URL: https://ferran.sh/writing/no-vendor-lock-in-is-code-for-no-product Comments URL: https://news.ycombinator.com/item?id=49958761 Points: 11 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "\"No Vendor Lock-In\" Is Code for \"No Product\""
-    },
-    {
      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
      "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
      "pubDate": "Sun, 04 Oct 2026 22:25:10 +0000",
-     "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 21 # Comments: 4",
+     "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 27 # Comments: 5",
      "source": "Hacker News",
      "zh": "Self-hosted HTTP tunnels with SSH and Nginx"
     },
@@ -1873,6 +1865,14 @@
      "zh": "Sources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday (Financial Times)"
     },
     {
+     "title": "In the wake of closure, a digital archive of animated materials appears online",
+     "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+     "pubDate": "Sun, 04 Oct 2026 21:01:28 +0000",
+     "summary": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/ Comments URL: https://news.ycombinator.com/item?id=49957812 Points: 5 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "In the wake of closure, a digital archive of animated materials appears online"
+    },
+    {
      "title": "Homa: The end of TCP for AI clusters [video]",
      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
      "pubDate": "Sun, 04 Oct 2026 19:42:25 +0000",
@@ -1884,7 +1884,7 @@
      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
      "link": "https://github.com/omlahore/RemoveMacAI",
      "pubDate": "Sun, 04 Oct 2026 19:42:25 +0000",
-     "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 288 # Comments: 169",
+     "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 293 # Comments: 176",
      "source": "Hacker News",
      "zh": "Turn off Apple Intelligence on macOS 27 and get its disk space back"
     },
@@ -1892,7 +1892,7 @@
      "title": "Improper redaction reveals Google Data Center water and electricity usage",
      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
      "pubDate": "Sun, 04 Oct 2026 19:37:05 +0000",
-     "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 189 # Comments: 277",
+     "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/item?id=49957068 Points: 199 # Comments: 291",
      "source": "Hacker News",
      "zh": "Improper redaction reveals Google Data Center water and electricity usage"
     },
@@ -2305,6 +2305,22 @@
      "zh": "美债收益率攀升加剧高利率风险！华尔街AI狂欢正处于风口浪尖"
     },
     {
+     "title": "第二十届亚运会闭幕中国体育代表团蝉联双榜榜首",
+     "link": "http://www.eeo.com.cn/2026/1005/1056199.shtml",
+     "pubDate": "Mon, 05 Oct 2026 07:39:13 +0800",
+     "summary": "10月4日，爱知·名古屋亚运会闭幕式，中国代表团选手步入场地。中青报·中青网记者 李隽辉/摄 当地时间10月4日晚，第二十届亚洲运动会闭幕式在灯火璀璨的日本名古屋瑞穗田径场举行。伴随盂兰盆舞欢快鼓点，为期16天的亚洲体育盛...",
+     "source": "经济观察网",
+     "zh": "第二十届亚运会闭幕中国体育代表团蝉联双榜榜首"
+    },
+    {
+     "title": "文质彬彬·每日好词语｜诗无达诂",
+     "link": "http://www.eeo.com.cn/2026/1005/1056198.shtml",
+     "pubDate": "Mon, 05 Oct 2026 07:39:13 +0800",
+     "summary": "整理/秦珍子 制图/李晗 诗无达诂 “诗无达诂”原指《诗经》没有恒定不变的训诂或解释，后用为文学鉴赏与批评术语，泛指由于时代变化与鉴赏者的思想、阅历、修养等个性差异，对同一作品往往...",
+     "source": "经济观察网",
+     "zh": "文质彬彬·每日好词语｜诗无达诂"
+    },
+    {
      "title": "华尔街见闻早餐FM-Radio | 2026年10月5日",
      "link": "https://wallstreetcn.com/articles/3782961",
      "pubDate": "Mon, 05 Oct 2026 07:00:11 +0800",
@@ -2327,6 +2343,22 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "CSL strikes $1.6B deal with Alentis for experimental kidney, liver drug"
+    },
+    {
+     "title": "【财金视野】购房贷款贴息重在精准滴灌",
+     "link": "http://www.eeo.com.cn/2026/1005/1056194.shtml",
+     "pubDate": "Mon, 05 Oct 2026 06:39:15 +0800",
+     "summary": "从10月1日起，房贷也有了“国补”，财政贴息帮助购房者直接降低了月供。这是中央财政首次对商业性个人住房贷款进行贴息。在看到其突破性意义的同时，...",
+     "source": "经济观察网",
+     "zh": "【财金视野】购房贷款贴息重在精准滴灌"
+    },
+    {
+     "title": "【科创之声】7亿用户成为AI产业巨大底盘",
+     "link": "http://www.eeo.com.cn/2026/1005/1056193.shtml",
+     "pubDate": "Mon, 05 Oct 2026 06:39:15 +0800",
+     "summary": "近日发布的《生成式人工智能应用发展报告（2026）》显示，截至2026年上半年，我国生成式人工智能用户规模突破7亿人，普及率超50.0%。 每两个中...",
+     "source": "经济观察网",
+     "zh": "【科创之声】7亿用户成为AI产业巨大底盘"
     },
     {
      "title": "US recalls B-1 bombers from UK air base following alleged terror plot",
@@ -2441,6 +2473,14 @@
      "zh": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?"
     },
     {
+     "title": "美股通宵交易，要来了",
+     "link": "http://www.eeo.com.cn/2026/1004/1056102.shtml",
+     "pubDate": "Sun, 04 Oct 2026 22:13:11 +0800",
+     "summary": "从今年12月开始，美股将朝着接近全天候交易迈进。 据中国基金报报道，纳斯达克、纽约证券交易所旗下NYSE Arca、24X National Exchange以及芝加哥期权交易所旗下Cboe EDGX，都制定了增加夜间交易时段的计划：除了正常交易时间以及现有的盘前、盘后交易外，还将新增纽约时间晚上9点至次日凌晨4点的交易时段。 这一扩展计划预计于12月6日实施，目的是满足海外投资者日益增长的交易需求，同时应对加密货币和预测市场带...",
+     "source": "经济观察网",
+     "zh": "美股通宵交易，要来了"
+    },
+    {
      "title": "Corporate America has never been this upbeat about future profits",
      "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
      "pubDate": "Sun, 04 Oct 2026 14:00:00 GMT",
@@ -2449,52 +2489,12 @@
      "zh": "Corporate America has never been this upbeat about future profits"
     },
     {
-     "title": "A &apos;weird&apos; IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-     "link": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
-     "pubDate": "Sun, 04 Oct 2026 13:22:39 GMT",
-     "summary": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
-     "source": "CNBC",
-     "zh": "A &apos;weird&apos; IPO pull, a tainted reputation and the stalled breakout moment for AI wearables"
-    },
-    {
-     "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
-     "link": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
-     "pubDate": "Sun, 04 Oct 2026 13:00:00 GMT",
-     "summary": "If stocks see another big swoon this year, investors already know why.",
-     "source": "MarketWatch",
-     "zh": "October can be a scary month for stocks. Here’s what investors need to watch this year."
-    },
-    {
-     "title": "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
-     "link": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
-     "pubDate": "Sun, 04 Oct 2026 12:57:45 GMT",
-     "summary": "Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.",
-     "source": "CNBC",
-     "zh": "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried"
-    },
-    {
-     "title": "The US is looking more like Italy",
-     "link": "https://www.ft.com/content/a2711e64-145b-4df6-baf7-56a3da7ed0b0?syn-25a6b1a6=1",
-     "pubDate": "Sun, 04 Oct 2026 12:00:08 GMT",
-     "summary": "America is not so exceptional any more — and the New World is becoming more like the Old",
-     "source": "Financial Times",
-     "zh": "The US is looking more like Italy"
-    },
-    {
-     "title": "Why brands like E.l.f., Wendy&apos;s and Gap are branching out into original music",
-     "link": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
-     "pubDate": "Sun, 04 Oct 2026 12:00:01 GMT",
-     "summary": "E.l.f. Beauty released an album titled \"Mirror Mix\" as the brand plans to increase its marketing spend for the rest of the year.",
-     "source": "CNBC",
-     "zh": "Why brands like E.l.f., Wendy&apos;s and Gap are branching out into original music"
-    },
-    {
-     "title": "一向力挺AI的孙正义突然警告：超级智能可能“极其危险”",
-     "link": "https://wallstreetcn.com/articles/3782987",
-     "pubDate": "Sun, 04 Oct 2026 19:32:45 +0800",
-     "summary": "软银集团创始人孙正义长期以来是人工智能最坚定的鼓吹者之一，但这位日本亿万富翁近日发出罕见警示——随着AI能力急速膨胀，超级智能一旦落入错误之手，可能变得\"极其危险\"。 周日，孙正义在京都\"社会中的科学与技术\"论坛（STS Forum）场边活动上发表讲话时表示， AI能力的指数级跃升使各国建立互信、携手驾驭这一技术变得刻不容缓。 他警告称， 人类已\"没有任何余地\"再让国与国之间相互对抗，因为强大AI模型所构成的威胁远比人类内部冲突更为严峻。 这番表态与孙正义一贯的乐观基调形成鲜明反差，折射出近几个月来AI模型接连出现令人不安的安全漏洞后，业界忧虑情绪的持续升温。对于投资者而言，这一信号意味着AI",
-     "source": "华尔街见闻",
-     "zh": "一向力挺AI的孙正义突然警告：超级智能可能“极其危险”"
+     "title": "余承东：没想到，工作备注比正文还抢镜",
+     "link": "http://www.eeo.com.cn/2026/1004/1056092.shtml",
+     "pubDate": "Sun, 04 Oct 2026 21:26:20 +0800",
+     "summary": "10月3日晚间，余承东的微博账号转发内容时，转发标注处意外显示“余总转发文案”，随后该微博删除重发，但原微博已被网友截图并大量传播。 对此，10月4日余承东在该微博评论区下回应：“没想到，工作备注比正文还抢镜。已改，谢谢大家提醒！祝大家假期愉快，出行平安！” <img src=\"ht...",
+     "source": "经济观察网",
+     "zh": "余承东：没想到，工作备注比正文还抢镜"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/5 11:51:58",
+ "generated_at": "2026/10/5 12:11:58",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,54 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+     "link": "https://arxiv.org/abs/2610.02260",
+     "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.02260v1 Announce Type: new Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as observed measurements and physical laws. However, existing constrained samplers often face a trade-off:",
+     "source": "arXiv cs.AI",
+     "zh": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching"
+    },
+    {
+     "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+     "link": "https://arxiv.org/abs/2610.02267",
+     "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection. System-1 decision models answer such questions in a single forward pass with c",
+     "source": "arXiv cs.AI",
+     "zh": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses"
+    },
+    {
+     "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+     "link": "https://arxiv.org/abs/2610.02281",
+     "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.02281v1 Announce Type: new Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, provide a useful signal about how companies disclose their response to AI? We tes",
+     "source": "arXiv cs.AI",
+     "zh": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?"
+    },
+    {
+     "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+     "link": "https://arxiv.org/abs/2610.02300",
+     "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across prompts. We provide a controlled geometric analysis of this global-unsafety assum",
+     "source": "arXiv cs.AI",
+     "zh": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation"
+    },
+    {
+     "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+     "link": "https://arxiv.org/abs/2610.02330",
+     "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decisions. In long-horizon tool use, final-outcome rewards provide weak credit assign",
+     "source": "arXiv cs.AI",
+     "zh": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents"
+    },
+    {
+     "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
+     "link": "https://arxiv.org/abs/2610.02331",
+     "pubDate": "Mon, 05 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.02331v1 Announce Type: new Abstract: Interactive world models are increasingly capable of generating environments and acting within them, yet deliberately editing an existing executable world remains underexplored. We formulate world editing as intervening on an existing world while prese",
+     "source": "arXiv cs.AI",
+     "zh": "World Editing: Intervening on Executable Worlds at Increasing Depth"
+    },
     {
      "title": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
      "link": "https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/",
@@ -199,54 +247,6 @@
      "summary": "Mobile Systems",
      "source": "Google Research",
      "zh": "Toward provably private learning from federated data"
-    },
-    {
-     "title": "Python Foundations for Engineering: A KDnuggets Cheat Sheet",
-     "link": "https://www.kdnuggets.com/python-foundations-for-engineering-a-cheat-sheet",
-     "pubDate": "Fri, 02 Oct 2026 14:00:17 +0000",
-     "summary": "This is the Python material that does not get left behind. Almost none of it is replaced by a framework later. Learn it, and keep this cheat sheet close by as a handy reference.",
-     "source": "KDnuggets",
-     "zh": "Python Foundations for Engineering: A KDnuggets Cheat Sheet"
-    },
-    {
-     "title": "Forward Deployed Engineer: AI’s Hottest New Career, or Consulting With a Better Title?",
-     "link": "https://www.kdnuggets.com/forward-deployed-engineer-ais-hottest-new-career-or-consulting-with-a-better-title",
-     "pubDate": "Fri, 02 Oct 2026 14:00:04 +0000",
-     "summary": "The forward deployed engineer: is this the hot new AI career, or has the hype cycle rebranded?",
-     "source": "KDnuggets",
-     "zh": "Forward Deployed Engineer: AI’s Hottest New Career, or Consulting With a Better Title?"
-    },
-    {
-     "title": "5 Proven Techniques for Token Compression and Prompt Optimization",
-     "link": "https://www.kdnuggets.com/5-proven-techniques-for-token-compression-and-prompt-optimization",
-     "pubDate": "Fri, 02 Oct 2026 12:00:00 +0000",
-     "summary": "Reduce costs, improve response quality, and build leaner AI applications with these prompt engineering strategies.",
-     "source": "KDnuggets",
-     "zh": "5 Proven Techniques for Token Compression and Prompt Optimization"
-    },
-    {
-     "title": "Don’t be fooled—LLMs don’t reason",
-     "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-     "pubDate": "Fri, 02 Oct 2026 08:00:00 +0000",
-     "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
-     "source": "MIT Tech Review AI",
-     "zh": "Don’t be fooled—LLMs don’t reason"
-    },
-    {
-     "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-     "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-     "pubDate": "Fri, 02 Oct 2026 04:01:31 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "AutoSynthData: Generating Training Data for Enterprise Agents"
-    },
-    {
-     "title": "Chatham scales its capital markets expertise with OpenAI",
-     "link": "https://openai.com/index/chatham-financial",
-     "pubDate": "Fri, 02 Oct 2026 00:00:00 GMT",
-     "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-     "source": "OpenAI",
-     "zh": "Chatham scales its capital markets expertise with OpenAI"
     }
    ]
   },
@@ -257,52 +257,52 @@
    "total": 9,
    "items": [
     {
-     "title": "Quanta suspends HP supply for a week to press for higher NB prices",
-     "link": "https://www.digitimes.com/news/a20261005PD212/quanta-hp-price-odm-2026.html",
-     "pubDate": "Mon, 5 Oct 2026 02:42:17 GMT",
-     "summary": "Quanta, a leading notebook ODM, reportedly cut off supply to Hewlett-Packard (HP) for one week in September 2026, forcing HP to raise prices as Quanta drew on its surging server business to strengthen its hand.",
+     "title": "AI server lines accelerate automation, boosting cobot demand",
+     "link": "https://www.digitimes.com/news/a20261005PD223/ai-server-automation-production-demand-mexico.html",
+     "pubDate": "Mon, 5 Oct 2026 03:58:31 GMT",
+     "summary": "The AI server boom is spreading into the market for collaborative robots (cobots). The share of cobots on AI server production lines is rising as Wiwynn expands their use at its Mexico and Texas plants, while Quanta has also deployed robotic arms from Techman Robot on its server lines.",
      "source": "DIGITIMES",
-     "zh": "Quanta suspends HP supply for a week to press for higher NB prices"
+     "zh": "AI server lines accelerate automation, boosting cobot demand"
     },
     {
-     "title": "ESMT 3Q26 revenue jumps 58%, sets another record",
-     "link": "https://www.digitimes.com/news/a20261005PD215/esmt-revenue-2026-wafer-production.html",
-     "pubDate": "Mon, 5 Oct 2026 02:33:27 GMT",
-     "summary": "Elite Semiconductor Microelectronics Technology (ESMT) reported September consolidated revenue of NT$7.461 billion (approx. US$234 million), up 470.23% from NT$1.308 billion a year earlier but down 5.62% from August. For the first nine months of 2026, revenue reached NT$43.363 billion, up 343.91% ye",
+     "title": "Chipmakers turn balance sheets into AI sales tools: How customer financing is becoming the new industry norm",
+     "link": "https://www.digitimes.com/news/a20261005PD220/financing-anthropic-broadcom-ipo-supplier.html",
+     "pubDate": "Mon, 5 Oct 2026 03:53:46 GMT",
+     "summary": "Recent reports citing Anthropic's IPO filings show that Broadcom has agreed to provide up to US$42 billion in convertible-note financing to help fund the AI company's infrastructure spending, with Anthropic expected to become Broadcom's largest compute customer in 2027.",
      "source": "DIGITIMES",
-     "zh": "ESMT 3Q26 revenue jumps 58%, sets another record"
+     "zh": "Chipmakers turn balance sheets into AI sales tools: How customer financing is becoming the new industry norm"
     },
     {
-     "title": "Exclusive: A*STAR IME's Yu-chieh Chien targets next-gen SiC through 8-inch R&D, reliability gains",
-     "link": "https://www.digitimes.com/news/a20261005PD211/sic-design-talent-singapore-taiwan.html",
-     "pubDate": "Mon, 5 Oct 2026 02:25:30 GMT",
-     "summary": "Singapore is building a semiconductor R&D hub by attracting both multinational investment and overseas research talent. Dr Yu-chieh Chien, a Taiwanese scientist at the Agency for Science, Technology and Research's Institute of Microelectronics (A*STAR IME), is one example.",
+     "title": "US appoints new AI czar, task force; seeks balance between safety, competition",
+     "link": "https://www.digitimes.com/news/a20261005VL207/competition-government-technology.html",
+     "pubDate": "Mon, 5 Oct 2026 03:51:39 GMT",
+     "summary": "The US Trump administration has appointed a new AI czar and task force, which will have 120 days to report on AI's risks and opportunities and recommend the federal government's role in a technology that Trump says many consider more impactful than the Industrial Revolution. Its formation follows a ",
      "source": "DIGITIMES",
-     "zh": "Exclusive: A*STAR IME's Yu-chieh Chien targets next-gen SiC through 8-inch R&D, reliability gains"
+     "zh": "US appoints new AI czar, task force; seeks balance between safety, competition"
     },
     {
-     "title": "KAI targets 6G satellite communications as standardized platforms bridge observation and connectivity ambitions",
-     "link": "https://www.digitimes.com/news/a20261005PD208/6g-satellite-communications-leo-launch-2026.html",
-     "pubDate": "Mon, 5 Oct 2026 02:22:36 GMT",
-     "summary": "Korea Aerospace Industries (KAI) showcased its next-generation medium-sized satellites and compact synthetic aperture radar (SAR) satellites at AEROTEC 2026 in Changwon, highlighting an expanding space strategy that increasingly extends from Earth observation into communications.",
+     "title": "Musk raises Tesla AI5 memory to 96GB after cut",
+     "link": "https://www.digitimes.com/news/a20261005PD222/tesla-ceo-elon-musk-lpddr5-production.html",
+     "pubDate": "Mon, 5 Oct 2026 03:44:27 GMT",
+     "summary": "Tesla CEO Elon Musk first said on X that the capacity of the AI5 chip memory would be cut in half to 72GB, but later clarified that AI5 will use 96GB of LPDDR5 instead. The change comes as Tesla seeks to avoid becoming the only company using what Musk described as a minimum-memory LPDDR5 configurati",
      "source": "DIGITIMES",
-     "zh": "KAI targets 6G satellite communications as standardized platforms bridge observation and connectivity ambitions"
+     "zh": "Musk raises Tesla AI5 memory to 96GB after cut"
     },
     {
-     "title": "TSMC emerges as potential Terafab partner as suppliers see over 80% chance of Musk deal",
-     "link": "https://www.digitimes.com/news/a20261005VL204/tsmc-fab-manufacturing-wafer-intel.html",
-     "pubDate": "Mon, 5 Oct 2026 02:14:39 GMT",
-     "summary": "Days after reports emerged that TSMC was reassessing plans for a wafer fab in Texas, Tim Culpan, a former Bloomberg columnist and founder of independent media outlet Culpium , disclosed that the chipmaker is in discussions with Elon Musk's Terafab over potential cooperation.",
+     "title": "Taiwan's GIS targets optical communications growth with fresh laser-packaging capacity",
+     "link": "https://www.digitimes.com/news/a20261005PD213/gis-communications-capacity-taiwan-growth.html",
+     "pubDate": "Mon, 5 Oct 2026 03:28:26 GMT",
+     "summary": "General Interface Solution (GIS) Holding is gaining traction in optical communications and other new products despite weak consumer electronics demand caused by rising memory prices. Its laser-source packaging and testing business has entered customer qualification and, if progress stays on track, c",
      "source": "DIGITIMES",
-     "zh": "TSMC emerges as potential Terafab partner as suppliers see over 80% chance of Musk deal"
+     "zh": "Taiwan's GIS targets optical communications growth with fresh laser-packaging capacity"
     },
     {
-     "title": "Global EV growth hits the brakes: How automakers are diverging",
-     "link": "https://www.digitimes.com/news/a20261005PD203/sales-automakers-growth-vehicle-expansion.html",
-     "pubDate": "Mon, 5 Oct 2026 02:09:49 GMT",
-     "summary": "Global electric vehicle (EV) sales have moved beyond the hypergrowth stage and entered a period of consolidation, with year-over-year growth slowing to just 2% in the first half of 2026 after gains of roughly 25% in both 2024 and 2025. Overseas expansion, new-model launches and product-mix strategie",
+     "title": "South Korean SMEs expand space supply chain from reusable rockets to satellite shielding",
+     "link": "https://www.digitimes.com/news/a20261005PD214/supply-chain-launch-materials-technology-commercial.html",
+     "pubDate": "Mon, 5 Oct 2026 03:24:05 GMT",
+     "summary": "As South Korea prepares for the fifth launch of its Nuri rocket, small and medium-sized enterprises are taking on increasingly important roles in the country's space supply chain alongside major aerospace companies such as Hanwha Aerospace.",
      "source": "DIGITIMES",
-     "zh": "Global EV growth hits the brakes: How automakers are diverging"
+     "zh": "South Korean SMEs expand space supply chain from reusable rockets to satellite shielding"
     },
     {
      "title": "Ed The Scammer",
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Socket to the sun",
+     "link": "https://www.pv-magazine.com/2026/10/05/socket-to-the-sun-2/",
+     "pubDate": "Mon, 05 Oct 2026 04:00:00 +0000",
+     "summary": "Ten states in the United States have passed laws permitting plug-in solar, with more to follow imminently. Low-income households, renters and temporary workers under pressure from high electricity bills are welcoming plug-in solar as a low-cost, portable and convenient solution. Precise business mod",
+     "source": "pv magazine",
+     "zh": "Socket to the sun"
+    },
+    {
      "title": "EV Sales Surged In The UK This September",
      "link": "https://cleantechnica.com/2026/10/04/ev-sales-surged-in-the-uk-this-september/",
      "pubDate": "Sun, 04 Oct 2026 23:27:20 +0000",
@@ -1039,14 +1047,6 @@
      "summary": "Revolta AG has secured European Regional Development Fund (ERDF) support to develop a plug-and-play sodium-ion battery that households without solar panels can charge from the grid when power prices are low. The post German startup wins grant for grid-charging sodium-ion home battery appeared first ",
      "source": "pv magazine",
      "zh": "German startup wins grant for grid-charging sodium-ion home battery"
-    },
-    {
-     "title": "Spain’s first pre-commercial marine solar demonstrator enters testing",
-     "link": "https://www.pv-magazine.com/2026/10/02/spains-first-pre-commercial-marine-solar-demonstrator-enters-testing/",
-     "pubDate": "Fri, 02 Oct 2026 11:07:45 +0000",
-     "summary": "BlueNewables has installed a 1 MW offshore floating solar demonstrator at the Port of Valencia, Spain, and has begun testing the system. The project comprises two 500 kW PV-bos platforms designed to assess the technology’s performance, operation and maintenance requirements, and integration into por",
-     "source": "pv magazine",
-     "zh": "Spain’s first pre-commercial marine solar demonstrator enters testing"
     },
     {
      "title": "India approves US$19.3 billion Green Energy Corridor Phase III with 50GWh BESS",
@@ -1761,6 +1761,46 @@
    "total": 18,
    "items": [
     {
+     "title": "在低迷的行业里暴富：公狗剧场靠“男色经济”，一年狂卖1个亿",
+     "link": "https://www.tmtpost.com/8150262.html",
+     "pubDate": "Mon, 05 Oct 2026 12:08:47 +0800",
+     "summary": "公狗剧场巡演 600场年入过亿，男色经济正改写演出市场。",
+     "source": "钛媒体",
+     "zh": "在低迷的行业里暴富：公狗剧场靠“男色经济”，一年狂卖1个亿"
+    },
+    {
+     "title": "定价逻辑变了，估值方法也变了，安全溢价如何重写关键矿产？",
+     "link": "https://www.tmtpost.com/8150494.html",
+     "pubDate": "Mon, 05 Oct 2026 12:08:41 +0800",
+     "summary": "价格里多了一部分，传统模型算不出来。它不来自成本，来自安全。",
+     "source": "钛媒体",
+     "zh": "定价逻辑变了，估值方法也变了，安全溢价如何重写关键矿产？"
+    },
+    {
+     "title": "董宇辉已成往事，俞敏洪和陈行甲渐入佳境",
+     "link": "https://www.tmtpost.com/8159123.html",
+     "pubDate": "Mon, 05 Oct 2026 12:08:08 +0800",
+     "summary": "俞敏洪公开致谢陈行甲，称深深被他感动，不仅加鸡腿还要加鸭腿，二人计划合著《我们从黑土地走过》。俞敏洪，或许找到了那个懂他的人。",
+     "source": "钛媒体",
+     "zh": "董宇辉已成往事，俞敏洪和陈行甲渐入佳境"
+    },
+    {
+     "title": "德国电力公司推出游戏玩家专属电价套餐：瞄准高耗电家庭，电力 100% 来自可再生能源",
+     "link": "https://www.ithome.com/1/009/790.htm",
+     "pubDate": "Mon, 05 Oct 2026 04:01:45 GMT",
+     "summary": "IT之家 10 月 5 日消息，德国公用事业与电力零售企业 SWK Energie 推出了一项面向游戏玩家的全新营销策略。据 ComputerBase 报道，这项名为 meinGAMING 的业务围绕游戏玩家展开大量营销宣传，例如将供电的稳定性比作“你最喜爱的游戏服务器”，还邀约 Limcube 这类游戏主播开展网红推广。 但这并不代表该公司往电网当中注入了某种神奇的游戏专属电力，可以让玩家插上电源之后直接获得更高的游戏帧率。实际上它只是一款面向高耗电家庭设计的电价套餐，不管你家里同时运行四台搭载 RTX 5090 的游戏主机，还是每天同时给四台电动汽车充电，都适用这套方案。 该公司在常见问题",
+     "source": "IT之家",
+     "zh": "德国电力公司推出游戏玩家专属电价套餐：瞄准高耗电家庭，电力 100% 来自可再生能源"
+    },
+    {
+     "title": "美国造车新势力 Rivian 第三季度交付 19248 辆，同比增长 46%",
+     "link": "https://www.ithome.com/1/009/788.htm",
+     "pubDate": "Mon, 05 Oct 2026 03:50:49 GMT",
+     "summary": "IT之家 10 月 5 日消息，当地时间 10 月 2 日，美国造车新势力 Rivian 公布了截至 2026 年 9 月 30 日的季度产量与交付量数据。 本季度，该公司位于美国伊利诺伊州诺默尔的生产工厂共生产汽车 19,751 辆，同期完成交付 19,248 辆（同比增长 46%）。 Rivian 曾在今年早些时候上调 2026 全年交付指引，目标区间定在 65,000 至 70,000 辆。若要达成该目标，公司第四季度的交付量需在第三季度的基础上至少环比增长 20.5%，达到 23,193 辆。 据悉，交付量的攀升，主要得益于其入门 SUV Rivian R2 产能的持续爬坡。这款新车型",
+     "source": "IT之家",
+     "zh": "美国造车新势力 Rivian 第三季度交付 19248 辆，同比增长 46%"
+    },
+    {
      "title": "纽约时报：石油大国闹油荒，俄罗斯人抢购中国电动汽车",
      "link": "https://www.ithome.com/1/009/787.htm",
      "pubDate": "Mon, 05 Oct 2026 03:44:32 GMT",
@@ -1809,14 +1849,6 @@
      "zh": "Akasa 发布 5.2L 无风扇 ITX 机箱 Euler MX2，兼容多代 35W 英特尔处理器"
     },
     {
-     "title": "微软发布 Win11 26H2 组策略模板，方便企业管理员调整配置",
-     "link": "https://www.ithome.com/1/009/783.htm",
-     "pubDate": "Mon, 05 Oct 2026 03:16:50 GMT",
-     "summary": "IT之家 10 月 5 日消息，Neowin 今日发现，微软 9 月底发布了一份面向企业管理员的 Windows 11 2026 更新（26H2）配套管理工具，方便 IT 管理员在部署新版本系统前检查现有组策略配置，并管理 26H2 新增及调整的策略。 此次发布的 Administrative Templates（ADMX）版本为 1.0，安装包文件名为“Administrative Templates (.admx) for Windows 11 Sep 2026 Update.msi ”，大小约 14.6MB。 微软表示，该软件包包含 Windows 11 2026 更新（26H2）的完整",
-     "source": "IT之家",
-     "zh": "微软发布 Win11 26H2 组策略模板，方便企业管理员调整配置"
-    },
-    {
      "title": "量贩零食连锁鬼秤风波：奶茶加盟潮落幕，新一轮加盟轮回正在上演",
      "link": "https://www.huxiu.com/article/4895416.html?f=rss",
      "pubDate": "Mon, 05 Oct 2026 11:11:12 +0800",
@@ -1831,14 +1863,6 @@
      "summary": "本文来自微信公众号： Fast Company中文版 ，作者：Pavithra Mohan 随着托育服务价格高昂、名额紧张，越来越多美国企业将托育纳入员工福利：由公司提供补贴，帮助员工在日常托育安排中断时寻找临时照护。有些企业还直接在办公场所内设立托育中心。对家长而言，这能缓解孩子无人照看的压力；对公司而言，则有助于减少员工因照护中断而请假的情况。 围绕这项需求，Bright Horizons建立起了一门规模可观的生意。这家总部位于波士顿郊区的企业，是美国规模最大、知名度最高的托育服务商之一，为全球超过1450家企业提供托育福利服务。其客户包括AT&T、摩根大通等220多家位列美国营收规模前列",
      "source": "虎嗅",
      "zh": "托育成为员工福利，家长为何仍难安心？"
-    },
-    {
-     "title": "瓦尔基里公布 VK 99 V2 机械键盘：AI 创想灯效，长至 12000hr 无线续航",
-     "link": "https://www.ithome.com/1/009/782.htm",
-     "pubDate": "Mon, 05 Oct 2026 03:08:31 GMT",
-     "summary": "IT之家 10 月 5 日消息，瓦尔基里 (Valkyrie, Vk) 今日公布了 VK 99 V2 系列三模机械键盘的完整参数表。其价格情况尚未公开。 VK 99 V2 整体采用 2U0 的 98 配列， 集成天际光廊贯穿式灯柱 与下灯位 RGB 背光，支持人工智能驱动的 AI 创想灯效、音乐律动，内部包含竖向音量旋钮。 其内部采用 Gasket 结构，搭配全键热插拔 PCB、横向开槽 PC 定位板，配套原厂 (CHERRY) 高度键帽；在 USB-C 和 2.4GHz 模式下均支持 8kHz 回报率， 响应时间分别小于 0.1ms 和 0.24ms ；支持 SOCD、MDS、MT 等高级按",
-     "source": "IT之家",
-     "zh": "瓦尔基里公布 VK 99 V2 机械键盘：AI 创想灯效，长至 12000hr 无线续航"
     },
     {
      "title": "游戏平板能抢掌机的生意吗？",
@@ -1876,7 +1900,7 @@
      "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
      "link": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
      "pubDate": "Mon, 05 Oct 2026 02:31:45 +0000",
-     "summary": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857 Comments URL: https://news.ycombinator.com/item?id=49960084 Points: 48 # Comments: 18",
+     "summary": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857 Comments URL: https://news.ycombinator.com/item?id=49960084 Points: 60 # Comments: 24",
      "source": "Hacker News",
      "zh": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague"
     },
@@ -1892,7 +1916,7 @@
      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
      "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
      "pubDate": "Mon, 05 Oct 2026 01:54:08 +0000",
-     "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/ Comments URL: https://news.ycombinator.com/item?id=49959869 Points: 91 # Comments: 41",
+     "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/ Comments URL: https://news.ycombinator.com/item?id=49959869 Points: 102 # Comments: 47",
      "source": "Hacker News",
      "zh": "Powerless F1 drivers frustrated by Bahrain F1 software glitch"
     },
@@ -1900,9 +1924,17 @@
      "title": "A tribute to one of the best games on the Atari 2600",
      "link": "https://plicerin.github.io/riverraid-rom-port/",
      "pubDate": "Mon, 05 Oct 2026 01:54:00 +0000",
-     "summary": "Article URL: https://plicerin.github.io/riverraid-rom-port/ Comments URL: https://news.ycombinator.com/item?id=49959865 Points: 13 # Comments: 4",
+     "summary": "Article URL: https://plicerin.github.io/riverraid-rom-port/ Comments URL: https://news.ycombinator.com/item?id=49959865 Points: 16 # Comments: 5",
      "source": "Hacker News",
      "zh": "A tribute to one of the best games on the Atari 2600"
+    },
+    {
+     "title": "A 40ms Go garbage collector pause caused by swap",
+     "link": "https://frn.sh/go-gc/",
+     "pubDate": "Mon, 05 Oct 2026 01:11:56 +0000",
+     "summary": "Article URL: https://frn.sh/go-gc/ Comments URL: https://news.ycombinator.com/item?id=49959654 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "A 40ms Go garbage collector pause caused by swap"
     },
     {
      "title": "算力资产寿命的多空之争：黄仁勋说能用六年，空头说三年就该报废",
@@ -1937,22 +1969,6 @@
      "zh": "9秒删库，700个AI失控，豪掷513亿买不来安全？"
     },
     {
-     "title": "大厂卷 Jarvis，Samantha却在恋爱影游里冒了头？",
-     "link": "https://www.tmtpost.com/8159072.html",
-     "pubDate": "Mon, 05 Oct 2026 08:50:30 +0800",
-     "summary": "至于 Samantha，说不定哪天下班打开屏幕，她已经在那头等你了。",
-     "source": "钛媒体",
-     "zh": "大厂卷 Jarvis，Samantha却在恋爱影游里冒了头？"
-    },
-    {
-     "title": "Edge AI Daily 早报（10月5日）",
-     "link": "https://www.tmtpost.com/8159215.html",
-     "pubDate": "Mon, 05 Oct 2026 08:15:42 +0800",
-     "summary": "Google冻结开源软件漏洞奖励计划，AI生成的无效报告激增导致验证成本高企，系统性威胁开源安全防线。印度依据Section 69A强制下架去中心化应用Bitchat，审查从内容迈向能力，暴露去中心化应用在中心化分发渠道前的结构性死穴。",
-     "source": "钛媒体",
-     "zh": "Edge AI Daily 早报（10月5日）"
-    },
-    {
      "title": "Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought (Laith Al-Khalaf/Financial Times)",
      "link": "https://www.techmeme.com/261004/p20#a261004p20",
      "pubDate": "Sun, 04 Oct 2026 18:55:01 -0400",
@@ -1964,7 +1980,7 @@
      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
      "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
      "pubDate": "Sun, 04 Oct 2026 22:25:10 +0000",
-     "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 87 # Comments: 22",
+     "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 90 # Comments: 23",
      "source": "Hacker News",
      "zh": "Self-hosted HTTP tunnels with SSH and Nginx"
     },
@@ -1980,25 +1996,9 @@
      "title": "In the wake of closure, a digital archive of animated materials appears online",
      "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
      "pubDate": "Sun, 04 Oct 2026 21:01:28 +0000",
-     "summary": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/ Comments URL: https://news.ycombinator.com/item?id=49957812 Points: 54 # Comments: 4",
+     "summary": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/ Comments URL: https://news.ycombinator.com/item?id=49957812 Points: 58 # Comments: 5",
      "source": "Hacker News",
      "zh": "In the wake of closure, a digital archive of animated materials appears online"
-    },
-    {
-     "title": "Homa: The end of TCP for AI clusters [video]",
-     "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-     "pubDate": "Sun, 04 Oct 2026 19:42:25 +0000",
-     "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf Related: https://lwn.net/Articles/1003059/ , https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 62 # Comments: 25",
-     "source": "Hacker News",
-     "zh": "Homa: The end of TCP for AI clusters [video]"
-    },
-    {
-     "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
-     "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
-     "pubDate": "Sun, 04 Oct 2026 15:34:14 +0000",
-     "summary": "Wunmi Mosaku ( Sinners, Loki ) narrates NatGeo's new documentary Africa: Earth's Wild Home",
-     "source": "Ars Technica",
-     "zh": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "十个案例助你轻松上手 iOS 27 通知自动化",
+     "link": "https://sspai.com/post/114536",
+     "pubDate": "Mon, 05 Oct 2026 10:59:24 +0800",
+     "summary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。 查看全文",
+     "source": "少数派",
+     "zh": "十个案例助你轻松上手 iOS 27 通知自动化"
+    },
     {
      "title": "Beats 360 review",
      "link": "https://www.gsmarena.com/beats_360_review-news-74894.php",
@@ -2239,14 +2247,6 @@
      "summary": "Google’s original Pixel Fold was inherently flawed but also fundamentally way better than I expected and, thanks to recent arrivals, also way ahead of its time. more…",
      "source": "9to5Google",
      "zh": "Google’s original Pixel Fold was the right idea years ahead of its time"
-    },
-    {
-     "title": "The Pixel 5 doesn’t get enough credit for making the best of a bad situation",
-     "link": "https://9to5google.com/2026/10/03/google-pixel-5-revisit-bad-situation/",
-     "pubDate": "Sat, 03 Oct 2026 13:05:00 +0000",
-     "summary": "In 2020, Google Pixel was in a remarkably tough spot. A flailing flagship with one of its central features effectively ruined by a global pandemic combined with massive supply shortages meant that grand plans for the future were on hold. It was always going to be a tough year to release a smartphone",
-     "source": "9to5Google",
-     "zh": "The Pixel 5 doesn’t get enough credit for making the best of a bad situation"
     }
    ]
   },
@@ -2256,6 +2256,30 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Monday's Economic Calendar",
+     "link": "https://seekingalpha.com/news/4650052-mondays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 05 Oct 2026 00:00:22 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Monday's Economic Calendar"
+    },
+    {
+     "title": "注意！今天起至10月7日广州地铁延长部分线路运营时间",
+     "link": "http://www.eeo.com.cn/2026/1005/1056291.shtml",
+     "pubDate": "Mon, 05 Oct 2026 11:52:05 +0800",
+     "summary": "国庆假期已进入后半程。结合历年客流规律，广州地铁预测返程客流将逐步增多，线网客流逐渐回升。为此，广州地铁延长部分线路运营服务时间，保障市民出行。 10月5日至7日，一、二、三（含三北）、五、七、八、十二号线西段以及二十二号线延长运营1小时； 在此基础上，二、七、二十二号线再延长运营1小时；开行大站快车，列车沿途站点“只下不上”，助力深夜抵穗旅客快速疏运。",
+     "source": "经济观察网",
+     "zh": "注意！今天起至10月7日广州地铁延长部分线路运营时间"
+    },
+    {
+     "title": "人形机器人会跳舞却进不了工厂？制造业龙头开放300个场景“养”具身智能",
+     "link": "http://finance.eastmoney.com/news/1354,202610053888609738.html",
+     "pubDate": "Mon, 05 Oct 2026 11:40:00 +0800",
+     "summary": "“很多具身智能的企业，他们在 机器人 本体的运动能力研究上已经非常精深，但这样的运动能力，难道只是用来跳个舞、骑个自行车吗？” 在日前的场景开放与AI共创生态大会现场，传化集团副总裁姚晨蓬在接受澎湃新闻记者采访时谈到，从一家成立40年的制造企业的视角看，更希望看到具身智能走进工业场景，“让它在工业巡检、工业搬运以及巡防等领域真正产生它的产业价值。” 实际上，这也是 机器人 发展趋势的缩影。行业正走过“秀肌肉”的展示期， 机器人 开始以“能干活、算得清账”的姿态进入生产与生活的毛细血管，订单、复购、规模化交付和明确的投资回报成为新的度量衡。 “不缺技术，缺的是允许试错的场景” 陈德奔在5年前开始",
+     "source": "东方财富股票",
+     "zh": "人形机器人会跳舞却进不了工厂？制造业龙头开放300个场景“养”具身智能"
+    },
     {
      "title": "冰火两重天！三季度房地产、创新药相关ETF涨超20%，而买芯片的却已哭晕",
      "link": "http://stock.eastmoney.com/news/1426,202610053888609350.html",
@@ -2295,14 +2319,6 @@
      "summary": "【导读】港股 PCB 概念股集体走强 10月5日上午，港股 PCB 概念股集体走强。截至发稿， 建滔积层板 上涨8.7%，报53.7港元/股。 建滔集团 报61.05港元/股，上涨7.48%。 广合科技 报124.1港元/股，上涨5.08%。 大族数控 报98.65港元/股，上涨4.95%。 胜宏科技 港股报205港元/股，上涨5.07%。 消息面上，当前 PCB 产业链正上演量价行情。上游领域， 建滔积层板 本年度已经发布7轮涨价通知，南亚塑胶自9月起再度上调20%的产品价格。此外，涨价正向下游全面传导，江西宏瑞兴科技此前宣布覆 铜 板出厂价上调10%；玻纤龙头 中国巨石 9月对 电子 布厚",
      "source": "东方财富股票",
      "zh": "港股PCB概念，集体大涨！"
-    },
-    {
-     "title": "德国宣布向乌克兰提供10亿欧元军事援助",
-     "link": "http://finance.eastmoney.com/news/1351,202610053888609250.html",
-     "pubDate": "Mon, 05 Oct 2026 11:34:01 +0800",
-     "summary": "当地时间10月4日，德国总理默茨突访乌克兰首都基辅。在俄乌冲突即将迎来爆发后第五个冬天的关键时刻，默茨重申了德国对乌克兰“坚定不移”的支持。默茨说：“今天，我带来了非常具体的进一步援助措施。我们将推出新一轮军事援助计划。援助规模约为10亿欧元。我们正在为联合生产反 无人机 装备提供资金。过去几周，这一领域已经取得重大技术突破。这些突破也将加快 无人机 的生产进度。这也将迅速、切实增强乌克兰的防空能力。” （央视新闻） （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "德国宣布向乌克兰提供10亿欧元军事援助"
     },
     {
      "title": "国庆档没有“大片”：陈思诚新片领跑、《龙餐馆》上映一个多月仍是前三，市场正在“健康”起来",
@@ -2367,14 +2383,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Suncor to sell stakes in three offshore Canadian oil assets for up to C$1.55B"
-    },
-    {
-     "title": "人在东北澡堂没有AI的一天｜耍起",
-     "link": "http://www.eeo.com.cn/2026/1005/1056260.shtml",
-     "pubDate": "Mon, 05 Oct 2026 10:52:16 +0800",
-     "summary": "在澡堂里泡久了，脑袋就空了，像是回到了进化成人前在大海里甩鞭毛的岁月。",
-     "source": "经济观察网",
-     "zh": "人在东北澡堂没有AI的一天｜耍起"
     },
     {
      "title": "是战是谈？美伊进入“关键一周”，油价依旧维持在100元大关之上",
@@ -2487,14 +2495,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "OpenAI’s Altman draws regulatory divide with Anthropic over AI risks: Politico"
-    },
-    {
-     "title": "White House is said to monitor suspected plague case, quarantines in Russia",
-     "link": "https://seekingalpha.com/news/4650046-white-house-is-said-to-monitor-suspected-plague-case-quarantines-in-russia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 04 Oct 2026 17:06:19 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "White House is said to monitor suspected plague case, quarantines in Russia"
     }
    ]
   },

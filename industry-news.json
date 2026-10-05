@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/5 13:12:03",
+ "generated_at": "2026/10/5 13:31:55",
  "recent_days": 7,
  "industries": [
   {
@@ -1004,7 +1004,7 @@
      "title": "Cities, states sue EPA over power plant emissions rollback",
      "link": "https://www.utilitydive.com/news/cities-states-sue-epa-over-power-plant-emissions-rollback/832016/",
      "pubDate": "Fri, 02 Oct 2026 10:27:26 -0400",
-     "summary": "Chicago, Denver and New York City joined multistate lawsuits challenging the agency&rsquo;s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
+     "summary": "Chicago, Denver and New York City join multistate lawsuits challenging the agency&rsquo;s move to end greenhouse gas emissions standards and failure to enforce requirements on existing gas-fired plants.",
      "source": "Utility Dive",
      "zh": "Cities, states sue EPA over power plant emissions rollback"
     },
@@ -1025,12 +1025,12 @@
      "zh": "Navigating the quality challenges of US module procurement"
     },
     {
-     "title": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit",
+     "title": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit",
      "link": "https://www.utilitydive.com/news/ferc-transalta-202c-cost-recovery-centralia/832001/",
      "pubDate": "Fri, 02 Oct 2026 09:28:00 -0400",
-     "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and despite the unit&rsquo;s lack of output, payment is due, the agency said.",
+     "summary": "Only utilities in the Northwest should pay the nearly $20 million in expenses for a 90-day order covering the Centralia unit, and&nbsp; despite the unit&rsquo;s lack of output, payment is due, the agency said.",
      "source": "Utility Dive",
-     "zh": "FERC rejects TransAlta 202(c) cost-recovery plan for Centralia unit"
+     "zh": "FERC rejects TransAlta 202(c) cost recovery plan for Centralia unit"
     },
     {
      "title": "ContourGlobal completes construction at 324MW solar PV complex in Colorado",
@@ -1225,14 +1225,6 @@
      "zh": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000"
     },
     {
-     "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
-     "link": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-     "pubDate": "Fri, 02 Oct 2026 10:16:54 -0400",
-     "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203.",
-     "source": "BioPharma Dive",
-     "zh": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs"
-    },
-    {
      "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
      "link": "https://www.statnews.com/2026/10/02/biotech-news-lilly-bypasses-australian-phramacies-with-dtc-model/?utm_campaign=rss",
      "pubDate": "Fri, 02 Oct 2026 13:58:31 +0000",
@@ -1295,6 +1287,14 @@
      "summary": "The department is offering funding to teams with innovative proposals as it considers ending the traditional phased clinical trial system.",
      "source": "BioPharma Dive",
      "zh": "HHS kicks off new programs to speed clinical trials as Chinese competition looms"
+    },
+    {
+     "title": "Pfizer’s eczema drug clears skin in mid-stage trial",
+     "link": "https://www.biopharmadive.com/news/pfizer-eczema-drug-clears-skin-in-mid-stage-trial/831905/",
+     "pubDate": "Thu, 01 Oct 2026 11:03:19 -0400",
+     "summary": "Detailed results are competitive with Dupixent and Ebglyss, but the drug lacks differentiation amid an increasingly competitive landscape, one analyst argued.",
+     "source": "BioPharma Dive",
+     "zh": "Pfizer’s eczema drug clears skin in mid-stage trial"
     }
    ]
   },
@@ -1553,6 +1553,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
+     "link": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
+     "pubDate": "Mon, 05 Oct 2026 05:14:48 +0000",
+     "summary": "Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779, emerged just days after two other exploited flaws were patched. The post Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier"
+    },
+    {
      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
      "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
      "pubDate": "Sun, 04 Oct 2026 17:58:01 -0400",
@@ -1737,14 +1745,6 @@
      "zh": "macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor"
     },
     {
-     "title": "Crypto Scammers Hijack Microsoft’s Official X Account",
-     "link": "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/",
-     "pubDate": "Fri, 02 Oct 2026 11:46:10 +0000",
-     "summary": "Hackers used the account, which has 13 million followers, to amplify a Clippy-themed cryptocurrency account. The post Crypto Scammers Hijack Microsoft’s Official X Account appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Crypto Scammers Hijack Microsoft’s Official X Account"
-    },
-    {
      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
      "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
      "pubDate": "Mon, 28 Sep 2026 15:08:57 +0000",
@@ -1760,6 +1760,30 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "哈啰顺风车司机提前收高速费却拖到免费时段才下高速：拒不退款，平台介入",
+     "link": "https://www.ithome.com/1/009/797.htm",
+     "pubDate": "Mon, 05 Oct 2026 05:20:28 GMT",
+     "summary": "IT之家 10 月 5 日消息，湖南一名网友 10 月 4 日发帖称，其 9 月 30 日晚通过哈啰平台预约了一辆从湘潭前往益阳的顺风车，订单车费为 161.7 元，同行共两位乘客。上车后，司机向两人提前收取高速通行费，每人 30 元，合计 60 元。 该网友表示，司机途中以电动汽车需要充电为由驶入服务区停留，随后行驶速度持续放缓，最终拖至 10 月 1 日凌晨 0 时高速免费通行政策生效后才驶出高速收费站，全程实际并未产生高速通行开支。 据介绍，湘潭至益阳全程 120 余公里，导航软件显示正常驾车耗时约 2 小时，但该趟行程实际耗费超过 5 小时，司机于 10 月 1 日凌晨 1 点左右才将",
+     "source": "IT之家",
+     "zh": "哈啰顺风车司机提前收高速费却拖到免费时段才下高速：拒不退款，平台介入"
+    },
+    {
+     "title": "纪录片《缅北电诈覆灭纪实》今晚 18 点开播，公安部和中央广播电视总台联合摄制",
+     "link": "https://www.ithome.com/1/009/796.htm",
+     "pubDate": "Mon, 05 Oct 2026 05:13:57 GMT",
+     "summary": "IT之家 10 月 5 日消息，央视新闻今日宣布，10 月 5 日至 7 日，由公安部和中央广播电视总台联合摄制的纪录片《缅北电诈覆灭纪实》， 每晚 18 点在央视综合频道首播 ，当晚央视新闻频道 21:30 分重播。 IT之家获悉，纪录片以真实案例揭露缅北犯罪生态，共分《利剑出鞘》《犁庭扫穴》《共筑天网》三集，全面展现了彻底铲除缅北“四大家族”等犯罪集团的艰苦历程和显著成就。 第一集《利剑出鞘》：独家曝光缅北电诈完整黑暗生态，直击犯罪团伙的嚣张本性与诈骗窝点的残酷真相。 第二集《犁庭扫穴》：重点聚焦面对犯罪分子盘踞境外、为祸一方的违法犯罪事实，中国司法机关打破地域阻隔、突破执法壁垒，跨国追凶",
+     "source": "IT之家",
+     "zh": "纪录片《缅北电诈覆灭纪实》今晚 18 点开播，公安部和中央广播电视总台联合摄制"
+    },
+    {
+     "title": "假期人格图鉴：年轻人成了“排表人”",
+     "link": "https://www.huxiu.com/article/4895426.html?f=rss",
+     "pubDate": "Mon, 05 Oct 2026 13:12:14 +0800",
+     "summary": "本文来自微信公众号： 惊蛰研究所 ，作者：惊蛰研究所消费组，原文标题：《假期人格图鉴：年轻人成了「排表人」》 9月25号早上7点半出发，9点半高铁启动，12点半到上饶，然后直奔酒店放行李吃午饭。下午准备去市区的博物馆、美术馆转一圈，第二天出发去葛仙村…… 早在距离假期还有一周的时候，在上海生活的小戈就已经提前规划好了假期行程。她反复研究高铁时刻表、景点开放时间和地图路线，把几点出发、在哪里吃饭、同行人有谁、交通方式，甚至注意事项都填进了表格里，做成了一份环环相扣的“项目执行表”。 在社交平台上，越来越多像小戈一样的年轻人，晒出了自己“排表人”式的假期。他们像算账一样计算时间，千方百计地把有限的",
+     "source": "虎嗅",
+     "zh": "假期人格图鉴：年轻人成了“排表人”"
+    },
     {
      "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
      "link": "https://www.ithome.com/1/009/795.htm",
@@ -1817,10 +1841,18 @@
      "zh": "125年不停发钱，诺贝尔奖的钱越花越多：资产涨超200倍，奖金高达815万"
     },
     {
+     "title": "Kagi Ends Orion Browser Development for Linux, Will Open-Source It",
+     "link": "https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/",
+     "pubDate": "Mon, 05 Oct 2026 04:18:39 +0000",
+     "summary": "Article URL: https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/ Comments URL: https://news.ycombinator.com/item?id=49960628 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Kagi Ends Orion Browser Development for Linux, Will Open-Source It"
+    },
+    {
      "title": "AI，为什么总在画美女？",
      "link": "https://www.huxiu.com/article/4895422.html?f=rss",
-     "pubDate": "Mon, 05 Oct 2026 12:10:20 +0800",
-     "summary": "本文来自微信公众号： 极客公园 ，作者：汤一涛，编辑：靖宇 人类的特性，决定了AI的形状。 今年5月初，X上一条五秒钟的视频火了。这是一场韩国职业棒球联赛转播，韩华鹰队对阵斗山熊队。镜头扫到看台上一个穿白上衣和牛仔裤的女人，翘着腿。某一刻，她似乎叹了口气，并移开了视线，看起来对比赛感到不满。 视频配文是「普通韩国女性」。截至本文发布，视频播放量已经为1525万｜视频来源：X@kangminlee 但是很快一群资深球迷看出了不对劲。比分牌上写着，击球手是曹仁成（Cho Inseong），可曹仁成2017年就退役了，现在在斗山当教练。 此外，看台上的加油标语比斗山熊的官方口号多出一个字，像是AI生",
+     "pubDate": "Mon, 05 Oct 2026 12:10:21 +0800",
+     "summary": "本文来自微信公众号： 极客公园 ，作者：汤一涛，编辑：靖宇，题图来自：AI生成 今年 5 月初，X 上一条五秒钟的视频火了。这是一场韩国职业棒球联赛转播，韩华鹰队对阵斗山熊队。镜头扫到看台上一个穿白上衣和牛仔裤的女人，翘着腿。某一刻，她似乎叹了口气，并移开了视线，看起来对比赛感到不满。 视频配文是&ldquo;普通韩国女性&rdquo;。截至本文发布，视频播放量已经为 1525 万｜视频来源：X @kangminlee 但是很快一群资深球迷看出了不对劲。比分牌上写着，击球手是曹仁成 （Cho Inseong） ，可曹仁成 2017 年就退役了，现在在斗山当教练。 此外，看台上的加油标语比斗山熊",
      "source": "虎嗅",
      "zh": "AI，为什么总在画美女？"
     },
@@ -1865,28 +1897,12 @@
      "zh": "苹果突发收紧Mac 权限，全是AI 惹的祸"
     },
     {
-     "title": "德国电力公司推出游戏玩家专属电价套餐：瞄准高耗电家庭，电力 100% 来自可再生能源",
-     "link": "https://www.ithome.com/1/009/790.htm",
-     "pubDate": "Mon, 05 Oct 2026 04:01:45 GMT",
-     "summary": "IT之家 10 月 5 日消息，德国公用事业与电力零售企业 SWK Energie 推出了一项面向游戏玩家的全新营销策略。据 ComputerBase 报道，这项名为 meinGAMING 的业务围绕游戏玩家展开大量营销宣传，例如将供电的稳定性比作“你最喜爱的游戏服务器”，还邀约 Limcube 这类游戏主播开展网红推广。 但这并不代表该公司往电网当中注入了某种神奇的游戏专属电力，可以让玩家插上电源之后直接获得更高的游戏帧率。实际上它只是一款面向高耗电家庭设计的电价套餐，不管你家里同时运行四台搭载 RTX 5090 的游戏主机，还是每天同时给四台电动汽车充电，都适用这套方案。 该公司在常见问题",
-     "source": "IT之家",
-     "zh": "德国电力公司推出游戏玩家专属电价套餐：瞄准高耗电家庭，电力 100% 来自可再生能源"
-    },
-    {
-     "title": "美国造车新势力 Rivian 第三季度交付 19248 辆，同比增长 46%",
-     "link": "https://www.ithome.com/1/009/788.htm",
-     "pubDate": "Mon, 05 Oct 2026 03:50:49 GMT",
-     "summary": "IT之家 10 月 5 日消息，当地时间 10 月 2 日，美国造车新势力 Rivian 公布了截至 2026 年 9 月 30 日的季度产量与交付量数据。 本季度，该公司位于美国伊利诺伊州诺默尔的生产工厂共生产汽车 19,751 辆，同期完成交付 19,248 辆（同比增长 46%）。 Rivian 曾在今年早些时候上调 2026 全年交付指引，目标区间定在 65,000 至 70,000 辆。若要达成该目标，公司第四季度的交付量需在第三季度的基础上至少环比增长 20.5%，达到 23,193 辆。 据悉，交付量的攀升，主要得益于其入门 SUV Rivian R2 产能的持续爬坡。这款新车型",
-     "source": "IT之家",
-     "zh": "美国造车新势力 Rivian 第三季度交付 19248 辆，同比增长 46%"
-    },
-    {
-     "title": "百万网约车司机，在国庆旅游旺季里等待奇迹",
-     "link": "https://www.huxiu.com/article/4895419.html?f=rss",
-     "pubDate": "Mon, 05 Oct 2026 11:31:37 +0800",
-     "summary": "本文来自微信公众号： 温度纪 ，作者：温度纪，编辑：路子甲 国庆出门，旅行攻略中相当重要的一项，就是要研究好怎么在往返景点之间打车。 旅游大旺季，人在暴晒又拥挤的景区出入口打车永远是件难事，手机上显示的路线始终红色拥堵。游客们不断提升加价，从快车一路叫到专车、豪华车，也叫不来一公里外的网约车。 与此同时，同一座城市中的网约车司机，也苦于几个小时都等不来一个优质订单推送。 十一到来之前，不少司机都对节假日有所期待。 过去几年，网约车司机见过补贴大战的狂热，也经历过客少单少的季节化平淡。尤其在这个网约车司机明显饱和的时代，大家都憋着一口气等旺季、等假期、等客流爆发。 汹涌的游客，带来暴涨的出行需求",
-     "source": "虎嗅",
-     "zh": "百万网约车司机，在国庆旅游旺季里等待奇迹"
+     "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+     "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+     "pubDate": "Mon, 05 Oct 2026 04:00:52 +0000",
+     "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+     "source": "Ars Technica",
+     "zh": "New forensic evidence supports Egyptian \"retainer sacrifice\""
     },
     {
      "title": "Sources: several Western open-weight models are set to launch this month, including Reflection AI&apos;s first model, which will rival top Chinese open-weight models (Bradley Olson/Axios)",
@@ -1905,12 +1921,36 @@
      "zh": "A look at Sean Parker&apos;s resurrection of Stability AI following Emad Mostaque&apos;s ousting, and its new focus on AI for music professionals, backed by major labels (Abram Brown/The Information)"
     },
     {
+     "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+     "link": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+     "pubDate": "Mon, 05 Oct 2026 02:31:45 +0000",
+     "summary": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857 Comments URL: https://news.ycombinator.com/item?id=49960084 Points: 139 # Comments: 92",
+     "source": "Hacker News",
+     "zh": "Nearly 200 people under observation after Irkutsk lab worker dies from plague"
+    },
+    {
      "title": "Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators (Dan Primack/Axios)",
      "link": "https://www.techmeme.com/261004/p22#a261004p22",
      "pubDate": "Sun, 04 Oct 2026 22:00:01 -0400",
      "summary": "Dan Primack / Axios : Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators &nbsp; &mdash;&nbsp; Change.org was founded as a venture-backed organization, before a 2021 restructuring that saw inv",
      "source": "Techmeme",
      "zh": "Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators (Dan Primack/Axios)"
+    },
+    {
+     "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+     "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+     "pubDate": "Mon, 05 Oct 2026 01:54:08 +0000",
+     "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/ Comments URL: https://news.ycombinator.com/item?id=49959869 Points: 150 # Comments: 86",
+     "source": "Hacker News",
+     "zh": "Powerless F1 drivers frustrated by Bahrain F1 software glitch"
+    },
+    {
+     "title": "A 40ms Go garbage collector pause caused by swap",
+     "link": "https://frn.sh/go-gc/",
+     "pubDate": "Mon, 05 Oct 2026 01:11:56 +0000",
+     "summary": "Article URL: https://frn.sh/go-gc/ Comments URL: https://news.ycombinator.com/item?id=49959654 Points: 28 # Comments: 7",
+     "source": "Hacker News",
+     "zh": "A 40ms Go garbage collector pause caused by swap"
     },
     {
      "title": "算力资产寿命的多空之争：黄仁勋说能用六年，空头说三年就该报废",
@@ -1953,52 +1993,12 @@
      "zh": "Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought (Laith Al-Khalaf/Financial Times)"
     },
     {
-     "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
-     "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
-     "pubDate": "Sun, 04 Oct 2026 15:34:14 +0000",
-     "summary": "Wunmi Mosaku ( Sinners, Loki ) narrates NatGeo's new documentary Africa: Earth's Wild Home",
-     "source": "Ars Technica",
-     "zh": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife"
-    },
-    {
-     "title": "All hail electrification. But let’s talk about the hard part.",
-     "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
-     "pubDate": "Sun, 04 Oct 2026 11:05:53 +0000",
-     "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
-     "source": "Ars Technica",
-     "zh": "All hail electrification. But let’s talk about the hard part."
-    },
-    {
-     "title": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
-     "link": "https://www.wired.com/gallery/best-office-chairs/",
-     "pubDate": "Sun, 04 Oct 2026 11:03:00 +0000",
-     "summary": "Upgrade your WFH setup and work in style with these comfy, WIRED-tested seats.",
-     "source": "WIRED",
-     "zh": "2026 年 15 款最佳办公椅——我们测试了 70 张来挑选它们"
-    },
-    {
-     "title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
-     "link": "https://www.wired.com/story/best-gifts-under-25-2026/",
-     "pubDate": "Sun, 04 Oct 2026 11:00:00 +0000",
-     "summary": "We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
-     "source": "WIRED",
-     "zh": "The Best Gifts Under $25 for Everyone on Your List (2026)"
-    },
-    {
-     "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
-     "link": "https://www.wired.com/review/meta-glasses-gen-3/",
-     "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
-     "summary": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
-     "source": "WIRED",
-     "zh": "Meta Glasses Nova (Gen 3) Review: Not Much New"
-    },
-    {
-     "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
-     "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
-     "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
-     "summary": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
-     "source": "WIRED",
-     "zh": "The Best Online Gift Cards and Digital Gift Ideas (2026)"
+     "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+     "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+     "pubDate": "Sun, 04 Oct 2026 22:25:10 +0000",
+     "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 102 # Comments: 30",
+     "source": "Hacker News",
+     "zh": "Self-hosted HTTP tunnels with SSH and Nginx"
     }
    ]
   },
@@ -2257,6 +2257,70 @@
    "total": 13,
    "items": [
     {
+     "title": "日本首相高市早苗：我们将通过与公众、国内外市场参与者密切沟通，增强市场对我们政策的信任",
+     "link": "http://finance.eastmoney.com/news/1351,202610053888616779.html",
+     "pubDate": "Mon, 05 Oct 2026 13:16:18 +0800",
+     "summary": "日本首相高市早苗：我们将通过与公众、国内外市场参与者密切沟通，增强市场对我们政策的信任。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "日本首相高市早苗：我们将通过与公众、国内外市场参与者密切沟通，增强市场对我们政策的信任"
+    },
+    {
+     "title": "据国际文传电讯社：俄罗斯国防部表示，黑海发生货船相撞事件",
+     "link": "http://finance.eastmoney.com/news/1351,202610053888616610.html",
+     "pubDate": "Mon, 05 Oct 2026 13:16:18 +0800",
+     "summary": "据国际文传电讯社：俄罗斯国防部表示，黑海发生货船相撞事件。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "据国际文传电讯社：俄罗斯国防部表示，黑海发生货船相撞事件"
+    },
+    {
+     "title": "绿景中国地产境外债重组新进展：与主要债权人订立支持协议，清盘呈请聆讯押后至明年4月",
+     "link": "http://finance.eastmoney.com/news/1354,202610053888616993.html",
+     "pubDate": "Mon, 05 Oct 2026 13:16:00 +0800",
+     "summary": "10月5日， 绿景中国地产 （00095.HK）发布境外债务重组进展公告，9月30日，公司与若干主要债权人订立重组支持协议，就拟议重组的主要条款达成协议；同日，香港高等法院将针对公司的清盘呈请聆讯进一步押后至2027年4月6日。 关于同意征求，公告显示， 绿景中国地产 及其附属公司Gemstones International Limited就2024年发行的六个系列有担保商业票据进行同意征求。各系列的议案已获相关持有人通过，支持比例占相关系列未偿还本金额的95.97%至100%不等。公告称，公司正致力达成余下实施条件。公司认为，这反映市场对其境外债务管理策略具广泛信心，而重组是该策略的下一主",
+     "source": "东方财富股票",
+     "zh": "绿景中国地产境外债重组新进展：与主要债权人订立支持协议，清盘呈请聆讯押后至明年4月"
+    },
+    {
+     "title": "Australia’s private sector growth cools to 3-month low as inflation pressures ease",
+     "link": "https://seekingalpha.com/news/4650065-australias-private-sector-growth-cools-to-3-month-low-as-inflation-pressures-ease?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 05 Oct 2026 01:15:05 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Australia’s private sector growth cools to 3-month low as inflation pressures ease"
+    },
+    {
+     "title": "SpaceXAI to be rebranded as SpaceXSI, Elon Musk says",
+     "link": "https://seekingalpha.com/news/4650066-spacexai-to-be-rebranded-as-spacexsi-elon-musk-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 05 Oct 2026 01:14:44 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SpaceXAI to be rebranded as SpaceXSI, Elon Musk says"
+    },
+    {
+     "title": "日本首相高市早苗：如果经济和市场出现意外波动，我们将分析其影响，并根据需要迅速作出反应",
+     "link": "http://finance.eastmoney.com/news/1351,202610053888616585.html",
+     "pubDate": "Mon, 05 Oct 2026 13:14:18 +0800",
+     "summary": "日本首相高市早苗：如果经济和市场出现意外波动，我们将分析其影响，并根据需要迅速作出反应。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "日本首相高市早苗：如果经济和市场出现意外波动，我们将分析其影响，并根据需要迅速作出反应"
+    },
+    {
+     "title": "日本首相高市早苗：将以周密且可预期的大规模长期财政支出吸引国内投资",
+     "link": "http://finance.eastmoney.com/news/1351,202610053888616454.html",
+     "pubDate": "Mon, 05 Oct 2026 13:14:18 +0800",
+     "summary": "日本首相高市早苗：将以周密且可预期的大规模长期财政支出吸引国内投资。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "日本首相高市早苗：将以周密且可预期的大规模长期财政支出吸引国内投资"
+    },
+    {
+     "title": "一汽丰田，发布声明！",
+     "link": "http://finance.eastmoney.com/news/1354,202610053888615792.html",
+     "pubDate": "Mon, 05 Oct 2026 13:13:20 +0800",
+     "summary": "10月5日，一汽丰田官方 微博 发布声明： 近期，中国第一 汽车 集团有限公司与广州 汽车 工业集团有限公司签署战略合作框架协议，引发行业及消费者广泛关注。 一汽丰田深耕国内市场23年，拥有成熟的产品矩阵、完备的产销售后体系和千万用户保有规模。目前全系车型产销、迭代规划均按计划有序推进，后续将依托集团合作的更大资源优势，持续创新，回馈广大用户信任。 针对部分网络账号散布的“一汽丰田或将彻底退出历史舞台”“丰田大降价”等不实言论，公司保留法律追责权利。 来源：一汽丰田官方 微博 （文章来源：券商中国）",
+     "source": "东方财富股票",
+     "zh": "一汽丰田，发布声明！"
+    },
+    {
      "title": "Japan’s PMI data signals cooling momentum across manufacturing and services",
      "link": "https://seekingalpha.com/news/4650064-japans-pmi-data-signals-cooling-momentum-across-manufacturing-and-services?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 05 Oct 2026 01:01:13 -0400",
@@ -2303,22 +2367,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Euro drops to 17-month low as political and fiscal risks rise"
-    },
-    {
-     "title": "S&P Global Ratings launches risk assessment tool for digital asset vaults",
-     "link": "https://seekingalpha.com/news/4650057-sp-global-ratings-launches-risk-assessment-tool-for-digital-asset-vaults?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 05 Oct 2026 00:19:41 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "S&P Global Ratings launches risk assessment tool for digital asset vaults"
-    },
-    {
-     "title": "e.l.f. Beauty enters fragrance & body care with e.l.f. POP debut",
-     "link": "https://seekingalpha.com/news/4650056-elf-beauty-enters-fragrance-body-care-with-elf-pop-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 05 Oct 2026 00:15:04 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "e.l.f. Beauty enters fragrance & body care with e.l.f. POP debut"
     },
     {
      "title": "实探贴息落地后首个假期楼市：120平方米以下房型率先卖光了，有房子121平“遗憾”错过；三四线城市刚需每月房贷少还数百元",
@@ -2447,54 +2495,6 @@
      "summary": "Trump is ramping up pressure on South Korea over Alaska LNG as Seoul remains cautious over investment projects announced by the U.S. president.",
      "source": "CNBC",
      "zh": "Trump tells South Korea to sign on to Alaska LNG deal or &apos;I&apos;ll just charge them more&apos;"
-    },
-    {
-     "title": "华尔街见闻早餐FM-Radio | 2026年10月5日",
-     "link": "https://wallstreetcn.com/articles/3782961",
-     "pubDate": "Mon, 05 Oct 2026 07:00:11 +0800",
-     "summary": "华见早安之声 要闻精选 G7 决定释放1亿桶紧急油储 ，立即行动、持续四个月， 前20天先大规模投放柴油 。 特朗普 称 不会实施柴油出口禁令 。 中东战火恐升级：周五报道称 沙特 考虑大举反击胡塞武装 ，获美情报支持； 也门胡塞武装 称 周六袭击并击中油企沙特阿美目标 ； 也门政府 周日宣布 启动大规模军事行动 ， 以收复胡塞武装 近期 控制地区 。 特朗普 称与伊战事将“很快结束”， 对伊下一步行动“进展顺利” ， “伊朗的情况不妙” 。 伊朗议长 ： 条件满足前不会重开霍尔木兹海峡 。 伊朗 再回应美方提议 ：现阶段重点是该海峡问题； 愿推动也门胡塞武装与沙特对话 。 伊朗外长 ：若敌方",
-     "source": "华尔街见闻",
-     "zh": "华尔街见闻早餐FM-Radio | 2026年10月5日"
-    },
-    {
-     "title": "US recalls B-1 bombers from UK air base following alleged terror plot",
-     "link": "https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1",
-     "pubDate": "Sun, 04 Oct 2026 22:24:04 GMT",
-     "summary": "UK and American officials have claimed Iran was involved in the incident in which five British men were arrested near RAF Fairford",
-     "source": "Financial Times",
-     "zh": "US recalls B-1 bombers from UK air base following alleged terror plot"
-    },
-    {
-     "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
-     "link": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
-     "pubDate": "Sun, 04 Oct 2026 21:46:15 GMT",
-     "summary": "Tehran's conditions include a halt to U.S. \"acts of aggression,\" an end to the naval blockade and economic warfare, and the release of Iranian assets.",
-     "source": "CNBC",
-     "zh": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East"
-    },
-    {
-     "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-     "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-     "pubDate": "Sun, 04 Oct 2026 20:31:00 GMT",
-     "summary": "“We have an ironclad prenup.”",
-     "source": "MarketWatch",
-     "zh": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?"
-    },
-    {
-     "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
-     "link": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
-     "pubDate": "Sun, 04 Oct 2026 20:28:47 GMT",
-     "summary": "Trump is promoting two federal payment programs already underway while reiterating a $5,000 dividend promise contingent on Republicans retaining Congress.",
-     "source": "CNBC",
-     "zh": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom"
-    },
-    {
-     "title": "Dealmaking slowdown threatens early end to M&A boom",
-     "link": "https://www.ft.com/content/00fb4438-1f86-4bf2-a165-0c39f3fd506b?syn-25a6b1a6=1",
-     "pubDate": "Sun, 04 Oct 2026 20:00:10 GMT",
-     "summary": "Interest rate rises, AI anxiety and midterm elections cool animal spirits after record-breaking start to the year",
-     "source": "Financial Times",
-     "zh": "Dealmaking slowdown threatens early end to M&A boom"
     }
    ]
   },
@@ -2504,14 +2504,6 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
-    {
-     "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
-     "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
-     "pubDate": "Mon, 05 Oct 2026 04:00:52 +0000",
-     "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
-     "source": "Ars Technica Science",
-     "zh": "New forensic evidence supports Egyptian \"retainer sacrifice\""
-    },
     {
      "title": "The “glue” holding your cells together has a surprising second job",
      "link": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
@@ -2743,6 +2735,14 @@
      "summary": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations.",
      "source": "MIT News",
      "zh": "The effects of an “algorithmic monoculture” depend on the details"
+    },
+    {
+     "title": "Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture",
+     "link": "https://www.quantamagazine.org/mathematicians-harness-randomness-to-crack-a-55-year-old-conjecture-20260928/",
+     "pubDate": "Mon, 28 Sep 2026 14:35:21 +0000",
+     "summary": "After a long hiatus, the problem, which was likely inspired by juggling, has finally been resolved by a group of young mathematicians. The post Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture first appeared on Quanta Magazine",
+     "source": "Quanta Magazine",
+     "zh": "Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture"
     }
    ]
   }

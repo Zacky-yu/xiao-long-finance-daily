@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/5 08:10:56",
+ "generated_at": "2026/10/5 08:16:12",
  "recent_days": 7,
  "industries": [
   {
@@ -1769,6 +1769,14 @@
      "zh": "TypeSafe AI 决策模型 Jev 日处理量达 1 万亿 Token，硅谷巨头火速跟进复刻"
     },
     {
+     "title": "OpenAI的安全危机，给所有企业提了个醒：AI越能干，组织越要管得住",
+     "link": "https://www.huxiu.com/article/4895399.html?f=rss",
+     "pubDate": "Mon, 05 Oct 2026 08:06:36 +0800",
+     "summary": "本文来自微信公众号： ANO Lab ，作者：魏浩征 最近，OpenAI有点不太平。 安全负责人David Robinson辞职了。他在一篇题为《我退出OpenAI，因为它的文化已经破碎》的文章中，直指公司文化存在问题：AI行业一味追求开发速度，对安全的重视远远不够。《卫报》对此进行了报道。 与此同时，OpenAI接连披露AI智能体的异常行为，包括突破原有的运行限制、未经充分授权访问外部系统等。另一边，AI研究领域的多位重要人物也在发出警告。一份由杰弗里·辛顿、约书亚·本吉奥等人参与撰写的研究报告，专门讨论了一个令人不安的可能性：如果AI开始自动参与AI研发，并不断改进下一代系统，技术进步可能",
+     "source": "虎嗅",
+     "zh": "OpenAI的安全危机，给所有企业提了个醒：AI越能干，组织越要管得住"
+    },
+    {
      "title": "我们盘点了半年数据，发现22万部AI短剧，播放量破亿的不到千分之五",
      "link": "https://www.huxiu.com/article/4895398.html?f=rss",
      "pubDate": "Mon, 05 Oct 2026 08:01:56 +0800",
@@ -1991,14 +1999,6 @@
      "summary": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
      "source": "WIRED",
      "zh": "The Best Online Gift Cards and Digital Gift Ideas (2026)"
-    },
-    {
-     "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
-     "link": "https://www.wired.com/review/meta-glasses-gen-3/",
-     "pubDate": "Sun, 04 Oct 2026 10:30:00 +0000",
-     "summary": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
-     "source": "WIRED",
-     "zh": "Meta Glasses Nova (Gen 3) Review: Not Much New"
     }
    ]
   },

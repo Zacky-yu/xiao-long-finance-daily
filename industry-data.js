@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/6 17:16:25",
+ "generated_at": "2026/10/6 17:30:01",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Agile Robots CEO: ‘Physical AI is going to be 10x bigger than automotive’",
+     "link": "https://roboticsandautomationnews.com/2026/10/06/agile-robots-ceo-physical-ai-is-going-to-be-10x-bigger-than-automotive/105561/",
+     "pubDate": "Tue, 06 Oct 2026 09:18:42 +0000",
+     "summary": "Agile Robots CEO Zhaopeng Chen says “physical AI is going to be 10x bigger than automotive” as the Munich-based robotics company expands its manufacturing, AI development and humanoid robot operations. Chen made the prediction at the company’s Physical AI Media Day in Munich and Fürstenfeldbruck, Ge",
+     "source": "Robotics & Automation",
+     "zh": "Agile Robots CEO: ‘Physical AI is going to be 10x bigger than automotive’"
+    },
+    {
      "title": "RoboTech event expands focus on real-world robot applications",
      "link": "https://roboticsandautomationnews.com/2026/10/06/robotech-event-expands-focus-on-real-world-robot-applications/105558/",
      "pubDate": "Tue, 06 Oct 2026 08:44:36 +0000",
@@ -552,14 +560,6 @@ window.INDUSTRY_DATA = {
      "summary": "A warehouse automation project can encounter constraints before a robot, conveyor or storage machine is selected. The location of stock, the routes available to handling equipment and the space needed for people all depend on how the building is organised. Treating storage as a separate facilities d",
      "source": "Robotics & Automation",
      "zh": "Warehouse Automation Starts with the Storage Plan"
-    },
-    {
-     "title": "Teradyne invests in Bright Machines to advance AI infrastructure manufacturing",
-     "link": "https://roboticsandautomationnews.com/2026/10/05/teradyne-invests-in-bright-machines-to-advance-ai-infrastructure-manufacturing/105534/",
-     "pubDate": "Mon, 05 Oct 2026 19:46:19 +0000",
-     "summary": "Teradyne, a provider of automated test equipment and advanced robotics systems, and Bright Machines, a next-generation manufacturer bringing AI and data center infrastructure production to the edge, have announced a strategic investment by Teradyne in Bright Machines. The investment accompanies a st",
-     "source": "Robotics & Automation",
-     "zh": "Teradyne invests in Bright Machines to advance AI infrastructure manufacturing"
     },
     {
      "title": "FCC robot restrictions could accelerate shift to local AI",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Zelestra and EDP expand solar-plus-storage PPA partnership with another 462MWh of batteries in Spain",
+     "link": "https://www.energy-storage.news/zelestra-and-edp-expand-solar-plus-storage-ppa-partnership-with-another-462mwh-of-batteries-in-spain/",
+     "pubDate": "Tue, 06 Oct 2026 09:19:57 +0000",
+     "summary": "IPP Zelestra and power firm and utility EDP have agreed two new hybrid PPAs in Spain, adding 181MWdc of solar and 462MWh BESS to their existing co-operation.",
+     "source": "Energy Storage News",
+     "zh": "Zelestra and EDP expand solar-plus-storage PPA partnership with another 462MWh of batteries in Spain"
+    },
+    {
      "title": "Thailand tightens solar panel safety standards",
      "link": "https://www.pv-magazine.com/2026/10/06/thailand-tightens-solar-panel-safety-standards/",
      "pubDate": "Tue, 06 Oct 2026 09:02:26 +0000",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "A round-up of the latest financing news from the US PV industry, with Maxwell Power, CleanChoice Energy and Lydian Energy securing a combined US$1.3 billion.",
      "source": "PV Tech",
      "zh": "US FINANCE ROUND-UP: Maxwell, CleanChoice and Lydian receive investments totalling US$1.3 billion"
-    },
-    {
-     "title": "Waaree Energies commissions 1.1GW PV inverter nameplate capacity",
-     "link": "https://www.pv-tech.org/waaree-energies-commissions-1-1gw-pv-inverter-nameplate-capacity/",
-     "pubDate": "Mon, 05 Oct 2026 11:21:04 +0000",
-     "summary": "Waaree Power Private Limited, a wholly owned subsidiary of Indian PV cell and module manufacturer Waaree Energies, has started commercial operations at a 1.1GW solar inverter manufacturing line.",
-     "source": "PV Tech",
-     "zh": "Waaree Energies commissions 1.1GW PV inverter nameplate capacity"
     }
    ]
   },
@@ -1738,6 +1738,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "The Best Prime Day TV Deals (2026)",
+     "link": "https://www.wired.com/story/best-prime-day-tv-deals-10-06-2026/",
+     "pubDate": "Tue, 06 Oct 2026 09:19:34 +0000",
+     "summary": "Never pay full price for a TV. Upgrade your entertainment setup with these WIRED-tested screens and streaming devices.",
+     "source": "WIRED",
+     "zh": "The Best Prime Day TV Deals (2026)"
+    },
+    {
+     "title": "2026 年国庆档电影票房破 10 亿：《神探之痕迹》《什么意思夫妇》《生化危机：爆发夜》前三",
+     "link": "https://www.ithome.com/1/010/023.htm",
+     "pubDate": "Tue, 06 Oct 2026 09:19:08 GMT",
+     "summary": "IT之家 10 月 6 日消息，据猫眼专业版数据，2026 年国庆档（10 月 1 日 - 10 月 7 日）档期 票房破 10 亿 ，《神探之痕迹》《什么意思夫妇》《生化危机：爆发夜》暂列国庆档票房榜前三位。 IT之家附前十名如下： 《神探之痕迹》 《什么意思夫妇》 《生化危机：爆发夜》 《欢迎来龙餐馆》 《小猪佩奇 · 完美假期》 《八仙！》 《重生 2》 《复仇者联盟 4：终局之战（加码臻享版）》 《奥德赛》 《野兽之心》 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！ 相关阅读： 《 电影〈生化危机：爆发夜〉 上映 2 天，",
+     "source": "IT之家",
+     "zh": "2026 年国庆档电影票房破 10 亿：《神探之痕迹》《什么意思夫妇》《生化危机：爆发夜》前三"
+    },
+    {
+     "title": "专利许可协议是否涵盖逻辑折叠芯片技术，华为证实、高通否认",
+     "link": "https://www.ithome.com/1/010/022.htm",
+     "pubDate": "Tue, 06 Oct 2026 09:18:15 GMT",
+     "summary": "IT之家 10 月 6 日消息， 华为与高通 10 月 5 日宣布达成一项长期、广泛的专利许可协议 ，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。 随后彭博社报道称， 高通公司已获得支撑华为逻辑折叠芯片制造技术的专利许可 。这一消息引发网络热议。 然而高通方面今日（10 月 6 日）对每日经济新闻记者回应称，高通与华为达成了一项多年期、广泛的专利许可协议，涵盖双方在多个技术领域的交叉许可，协议具体条款属于保密内容，但称高通为该协议下的净支付方的相关报道并不准确； 关于该协议与逻辑折叠芯片技术",
+     "source": "IT之家",
+     "zh": "专利许可协议是否涵盖逻辑折叠芯片技术，华为证实、高通否认"
+    },
+    {
+     "title": "Amazon Prime Day Deals Under $50 in October 2026",
+     "link": "https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/",
+     "pubDate": "Tue, 06 Oct 2026 09:17:08 +0000",
+     "summary": "Everything is expensive. Treat yourself to one of these WIRED-approved Prime Day picks under $50.",
+     "source": "WIRED",
+     "zh": "Amazon Prime Day Deals Under $50 in October 2026"
+    },
+    {
+     "title": "残雪再次领跑，2026诺贝尔文学奖还有哪些可能",
+     "link": "https://www.huxiu.com/article/4895539.html?f=rss",
+     "pubDate": "Tue, 06 Oct 2026 17:16:25 +0800",
+     "summary": "本文来自微信公众号： 界面文化 ，作者：王鹏凯，编辑：姜妍，题图来自：视觉中国 2026年诺贝尔文学奖将于北京时间10月8日晚7时正式揭晓。截至10月6日，赔率统计网站Nicer Odds的榜单显示，中国作家残雪再次领跑，成为了最被市场看好获奖的一位，日本作家村上春树紧随其后。 实际上早在2019年，残雪就曾因高居赔率榜首位而在中文世界引起热议，再加上过去几年一直位列诺奖的热门人选，中文世界对于残雪先锋派、卡夫卡式的写作风格，以及关于她是否值得获奖的各种观点，都已经完成了相对大众化的普及，因此对今年这一状况不再显得过于意外。 Nicer Odds官网截图 赔率榜一度是观测诺奖的重要依据之一。2",
+     "source": "虎嗅",
+     "zh": "残雪再次领跑，2026诺贝尔文学奖还有哪些可能"
+    },
+    {
+     "title": "The 13 Amazon Device Deals Actually Worth Snagging This Prime Day",
+     "link": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-06-2026/",
+     "pubDate": "Tue, 06 Oct 2026 09:10:19 +0000",
+     "summary": "Prime Day deals on Amazon devices aren’t as attractive as they were before the August price hike, but these discounts are still worth grabbing.",
+     "source": "WIRED",
+     "zh": "The 13 Amazon Device Deals Actually Worth Snagging This Prime Day"
+    },
+    {
      "title": "谷歌为自家文档、云盘应用引入 Markdown 原生支持，可保留.md 格式协作编辑",
      "link": "https://www.ithome.com/1/010/020.htm",
      "pubDate": "Tue, 06 Oct 2026 09:04:33 GMT",
@@ -1786,36 +1834,12 @@ window.INDUSTRY_DATA = {
      "zh": "高通把 Arm 告上法庭：指控其扣留芯片测试工具、泄露机密，要求免 5 年数十亿美元授权费"
     },
     {
-     "title": "瑞萨推出品牌首款低压氮化镓功率半导体，面向 AI 数据中心、人形机器人等领域",
-     "link": "https://www.ithome.com/1/010/015.htm",
-     "pubDate": "Tue, 06 Oct 2026 08:42:27 GMT",
-     "summary": "IT之家 10 月 6 日消息，瑞萨电子今日宣布推出公司首款低压氮化镓功率半导体产品。本次推出的产品属 100V 增强型（E-mode）GaN 分立功率晶体管系列， 面向 AI 数据中心、人形机器人、工厂自动化和工业电机驱动等应用领域 。 IT之家了解到，瑞萨本次推出的产品有 RTP100E005G1FL、RTP100E2P6G1FL、RTP100E1P8G1FL-DSC 和 RTP100E1P2G1FL-DSC，拥有较为优越的硬开关和软开关优值（FOM）性能，相比同类 GaN 器件， 硬开关 FOM 最高降低 35% ， 软开关 FOM 最高降低 63% 。低压 GaN 器件还保持与硅器件兼",
-     "source": "IT之家",
-     "zh": "瑞萨推出品牌首款低压氮化镓功率半导体，面向 AI 数据中心、人形机器人等领域"
-    },
-    {
-     "title": "16 Best Prime Day Tech and Gadget Deals (October 2026)",
+     "title": "I Found the 16 Best Prime Day Tech and Gadget Deals (October 2026)",
      "link": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
      "pubDate": "Tue, 06 Oct 2026 08:37:23 +0000",
      "summary": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
      "source": "WIRED",
-     "zh": "16 Best Prime Day Tech and Gadget Deals (October 2026)"
-    },
-    {
-     "title": "TRYX 预告透明磁轴键盘 VESTRA VISION，内嵌 5.48\" OLED 屏幕",
-     "link": "https://www.ithome.com/1/010/014.htm",
-     "pubDate": "Tue, 06 Oct 2026 08:37:18 GMT",
-     "summary": "IT之家 10 月 6 日消息，PC DIY 硬件制造商 TRYX（创氪星系）上月宣布将推出外设新品 VESTRA VISION。这款铝制机身的 65% 配列磁轴键盘 主打透明视效 ，还在右侧 集成了一块 5.48\" OLED 屏幕 。 VESTRA VISION 整体结构中包含 3 层 CNC 精加工铝合金，配备透明键帽和轴体，支持 0.1~4.0mm 可调触发点、0.01mm Rapid Trigger 精度、8kHz 回报率。 其采用双 MCU 架构，屏幕单元由单独芯片控制，右侧上部区域还支持触控。",
-     "source": "IT之家",
-     "zh": "TRYX 预告透明磁轴键盘 VESTRA VISION，内嵌 5.48\" OLED 屏幕"
-    },
-    {
-     "title": "DOOM, simulated and rendered inside the Firebird SQL database using WASM",
-     "link": "https://github.com/mariuz/firebird-doom",
-     "pubDate": "Tue, 06 Oct 2026 08:34:28 +0000",
-     "summary": "Article URL: https://github.com/mariuz/firebird-doom Comments URL: https://news.ycombinator.com/item?id=49975809 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "DOOM, simulated and rendered inside the Firebird SQL database using WASM"
+     "zh": "I Found the 16 Best Prime Day Tech and Gadget Deals (October 2026)"
     },
     {
      "title": "South Korean officials are probing whether AI agents were used in recent bank hacks, after President Lee Jae Myung said \"signs\" suggest AI models were involved (New York Times)",
@@ -1882,14 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "巨头涌入香港，抢人又抢楼"
     },
     {
-     "title": "创新药出海：BD金额如何穿透利润表",
-     "link": "https://www.huxiu.com/article/4895521.html?f=rss",
-     "pubDate": "Tue, 06 Oct 2026 14:40:38 +0800",
-     "summary": "本文来自微信公众号： 青萍见 ，作者：shushuhn 一笔千亿交易的五道财务过滤 2026年上半年，中国创新药对外授权交易共81笔，总额约1100亿美元——已达2025年全年总额的八成。国家药监局9月14日披露，1至8月对外授权交易总额突破1200亿美元，同比增长36%。 行业叙事正在从管线故事切换到商业价值兑现。安永指出，中国创新药企正经历三重根本性转变： 安永·三重根本性转变 从讲管线故事→兑现商业价值 从单一市场→全球运营 从融资驱动→经营驱动 但1100亿美元的公告交易额，和这些钱最终能穿透到利润表的实际金额，是两回事。 首付款到账多少？ 里程碑兑现率多高？ 有多少能确认为收入、有多",
-     "source": "虎嗅",
-     "zh": "创新药出海：BD金额如何穿透利润表"
-    },
-    {
      "title": "Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that Sam Altman, Dario Amodei, and others could be held liable (Lee Harris/Financial Times)",
      "link": "https://www.techmeme.com/261006/p3#a261006p3",
      "pubDate": "Tue, 06 Oct 2026 02:30:00 -0400",
@@ -1912,30 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg : Sources: Seagate and Toshiba are bidding for TDK's HDD magnetic head business in a multibillion-dollar deal, as they compete for AI data center storage demand &nbsp; &mdash;&nbsp; Seagate Technology Holdings Plc and Toshiba Corp. are locked in a contest for TDK Corp.'s magnetic-heads bus",
      "source": "Techmeme",
      "zh": "Sources: Seagate and Toshiba are bidding for TDK&apos;s HDD magnetic head business in a multibillion-dollar deal, as they compete for AI data center storage demand (Bloomberg)"
-    },
-    {
-     "title": "Nomad Goods Promo Codes: Get 25% Off in October 2026",
-     "link": "https://www.wired.com/story/nomad-discount-code/",
-     "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000",
-     "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in October 2026.",
-     "source": "WIRED",
-     "zh": "Nomad Goods Promo Codes: Get 25% Off in October 2026"
-    },
-    {
-     "title": "Priceline Promo Codes & Coupons: 10% Off October 2026",
-     "link": "https://www.wired.com/story/priceline-promo-code/",
-     "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000",
-     "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
-     "source": "WIRED",
-     "zh": "Priceline Promo Codes & Coupons: 10% Off October 2026"
-    },
-    {
-     "title": "Sportsman's Warehouse Promo Code: Save in October 2026",
-     "link": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
-     "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000",
-     "summary": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in October 2026.",
-     "source": "WIRED",
-     "zh": "Sportsman's Warehouse Promo Code: Save in October 2026"
     },
     {
      "title": "火箭发动机的“技术鄙视链”",
@@ -1976,6 +1968,14 @@ window.INDUSTRY_DATA = {
      "summary": "Figure 02跳进芬兰熔炉，其在宝马工厂产线留下的故障记录却进入了下一代设计。",
      "source": "钛媒体",
      "zh": "想改造工厂的机器人，先被工厂改造了"
+    },
+    {
+     "title": "10亿美金估值！好莱坞老炮为何集体投奔这家“AI原生影视公司”？",
+     "link": "https://www.tmtpost.com/8159745.html",
+     "pubDate": "Tue, 06 Oct 2026 11:56:41 +0800",
+     "summary": "可能改写行业规则的AI公司来了。",
+     "source": "钛媒体",
+     "zh": "10亿美金估值！好莱坞老炮为何集体投奔这家“AI原生影视公司”？"
     }
    ]
   },
@@ -1985,6 +1985,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Here's when Siri AI may finally become available in the EU",
+     "link": "https://www.gsmarena.com/heres_when_siri_ai_may_finally_become_available_in_the_eu-news-74916.php",
+     "pubDate": "Tue, 06 Oct 2026 11:12:02 +0200",
+     "summary": "One of the main new features of iOS 27 and iPadOS 27 is the new Siri AI, but this still isn't available in the EU, despite the fact that Apple released iOS 27 and iPadOS 27 last month. Now if you've been wondering just how much longer you'll have to wait, we have some bad news. According to the gene",
+     "source": "GSMArena",
+     "zh": "Here's when Siri AI may finally become available in the EU"
+    },
     {
      "title": "Google just replaced Gemini Gems with Skills. Here’s how to use and master them",
      "link": "https://www.androidauthority.com/how-to-use-gemini-skills-google-upgraded-gems-feature-3718807/",
@@ -2080,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "MacRumors reports that in addition to Apple’s expected event on October 13, the company is planning to unveil another batch of new products in the final week of the month. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "Apple reportedly planning second wave of product announcements later this month"
-    },
-    {
-     "title": "Watch the vivo V80 announcement live here",
-     "link": "https://www.gsmarena.com/watch_the_vivo_v80_announcement_live_here-news-74901.php",
-     "pubDate": "Tue, 06 Oct 2026 04:30:01 +0200",
-     "summary": "After announcing the V80 Lite at the start of September, vivo started teasing the V80 with promises of a phone that can capture “cinematic moments”. The date was set for October 6, so it’s finally time to reveal the new model. vivo V80's color options The company has already confirmed some key detai",
-     "source": "GSMArena",
-     "zh": "Watch the vivo V80 announcement live here"
     },
     {
      "title": "Google Docs and Drive now support markdown files natively",
@@ -2234,6 +2234,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "French regulator targets crowdfunding platforms",
+     "link": "https://www.finextra.com/newsarticle/48537/french-regulator-targets-crowdfunding-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 06 Oct 2026 09:51:00 GMT",
+     "summary": "France's financial watchdog, the Autorité des Marchés Financiers (AMF), has called on crowdfunding platforms to strengthen their practices in order to better protect investors.",
+     "source": "Finextra",
+     "zh": "French regulator targets crowdfunding platforms"
+    },
+    {
+     "title": "“AI风险吹哨人”作证：AI巨头“极度无视风险”，AI接管人类文明的可能性约1/3",
+     "link": "https://wallstreetcn.com/articles/3783059",
+     "pubDate": "Tue, 06 Oct 2026 17:23:33 +0800",
+     "summary": "Anthropic前研究员Jacob Coxon周一在纽约市议会听证会上作证称，按照目前的路径，人类失去对AI控制的可能性超过五成，结局可能是人类灭绝。他表示： \"考虑到其中的利害，这些公司极其鲁莽。\" 同场作证的前谷歌DeepMind研究员Alex Turner估计，AI接管人类文明的概率\"大约是三分之一\"。前OpenAI研究员Daniel Kokotajlo则警告，科技公司即便保住了对AI的控制，也可能借此成为\"独裁者或寡头\"。 Anthropic、OpenAI、谷歌和Meta均派政策负责人等高管线上出席，并未派出CEO。据报道，这些公司是在议员威胁发出传票后才同意到场。 Coxon：控制",
+     "source": "华尔街见闻",
+     "zh": "“AI风险吹哨人”作证：AI巨头“极度无视风险”，AI接管人类文明的可能性约1/3"
+    },
+    {
+     "title": "The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.",
+     "link": "https://www.marketwatch.com/story/the-s-p-500-is-facing-rate-chaos-and-narrow-breadth-why-one-goldman-sachs-insider-is-still-bullish-on-stocks-84a20206?mod=mw_rss_topstories",
+     "pubDate": "Tue, 06 Oct 2026 09:20:00 GMT",
+     "summary": "Stocks are not expensive in an historical context, seasonal factors are supportive and Goldman Sachs hedge fund research forecasts a record high for the S&P 500 before year-end.",
+     "source": "MarketWatch",
+     "zh": "The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks."
+    },
+    {
+     "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
+     "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+     "pubDate": "Tue, 06 Oct 2026 09:16:00 GMT",
+     "summary": "“He estimates the mortgage will be $10,000 a month once both homes are sold, or $14,000 if they are not sold in time.”",
+     "source": "MarketWatch",
+     "zh": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?"
+    },
+    {
+     "title": "Elon Musk is a trillionaire again. Here’s how his wealth stacks up against national economies.",
+     "link": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
+     "pubDate": "Tue, 06 Oct 2026 09:16:00 GMT",
+     "summary": "Is Musk wealthier than the national economy of Poland or Ireland? Find out here.",
+     "source": "MarketWatch",
+     "zh": "Elon Musk is a trillionaire again. Here’s how his wealth stacks up against national economies."
+    },
+    {
+     "title": "Cognizant wins SITA mandate for AI-led finance transformation",
+     "link": "https://seekingalpha.com/news/4650436-cognizant-wins-sita-mandate-for-ai-led-finance-transformation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 05:15:04 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cognizant wins SITA mandate for AI-led finance transformation"
+    },
+    {
      "title": "S&P 500 correlation with top stocks falls to lowest in at least 15 years",
      "link": "https://seekingalpha.com/news/4650438-sp-500-correlation-with-top-stocks-falls-to-lowest-in-at-least-15-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 06 Oct 2026 05:11:37 -0400",
@@ -2250,60 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "Former N.Y. Gov. Andrew Cuomo buys a 7-acre Hamptons estate for $9.6 million cash"
     },
     {
-     "title": "假期五天“2026深圳国际车展”预订成交金额近28亿元",
-     "link": "http://finance.eastmoney.com/news/1358,202610063888764854.html",
-     "pubDate": "Tue, 06 Oct 2026 17:04:15 +0800",
-     "summary": "“深圳发布”消息，10月5日，为期五天的2026（第十八届） 深圳国际 汽车 展览会（ 汽车 嘉年华）暨智能网联及未来出行 汽车 博览会（简称“2026 深圳国际 车展”）在深圳会展中心（福田）落幕。车展五天，总客流约42万人次，预订成交车辆14759台，预订成交金额近28亿元。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "假期五天“2026深圳国际车展”预订成交金额近28亿元"
-    },
-    {
      "title": "Euro Area retail sales rise 0.8% Y/Y, below estimates",
      "link": "https://seekingalpha.com/news/4650429-euro-area-retail-sales-rise-08-yy-below-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 06 Oct 2026 05:04:06 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Euro Area retail sales rise 0.8% Y/Y, below estimates"
-    },
-    {
-     "title": "碧桂园服务：10月6日斥资156.98万港元回购30万股",
-     "link": "http://hk.eastmoney.com/news/11223,202610063888765394.html",
-     "pubDate": "Tue, 06 Oct 2026 17:04:00 +0800",
-     "summary": "南财智讯10月6日电， 碧桂园 服务（06098.HK）发布翌日披露报表，10月6日，公司回购股份30万股，每股最高回购价5.27港元，每股最低回购价5.2港元，付出的总代价156.98万港元。本次回购股份拟注销。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "碧桂园服务：10月6日斥资156.98万港元回购30万股"
-    },
-    {
-     "title": "亿胜生物科技：10月6日斥资1.47万港元回购7000股",
-     "link": "http://hk.eastmoney.com/news/11223,202610063888765086.html",
-     "pubDate": "Tue, 06 Oct 2026 17:03:00 +0800",
-     "summary": "南财智讯10月6日电， 亿胜生物科技 （01061.HK）发布翌日披露报表，10月6日，公司回购7000股，每股最高回购价2.11港元，每股最低回购价2.08港元，付出的总代价为1.47万港元。本次回购股份拟持作库存股份。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "亿胜生物科技：10月6日斥资1.47万港元回购7000股"
-    },
-    {
-     "title": "宝尊电商-W：10月5日斥资4.83万美元回购4.43万股",
-     "link": "http://hk.eastmoney.com/news/11223,202610063888765288.html",
-     "pubDate": "Tue, 06 Oct 2026 17:02:00 +0800",
-     "summary": "南财智讯10月6日电， 宝尊电商 -W（09991.HK）发布翌日披露报表，10月5日，公司回购4.43万股，每股最高回购价1.11美元，每股最低回购价1.06美元，付出的价格总额为4.83万美元。该等回购股份拟持作库存股份。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "宝尊电商-W：10月5日斥资4.83万美元回购4.43万股"
-    },
-    {
-     "title": "东京股市继续上涨 日经股指时隔3个月重返7万点",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888764961.html",
-     "pubDate": "Tue, 06 Oct 2026 17:01:46 +0800",
-     "summary": "日本东京股市两大股指6日继续上涨。日经225种股票平均价格指数收盘上涨1.05%，东京证券交易所股票价格指数上涨0.92%。日经股指收于7万点上方，为7月1日以来时隔约3个月首次。 受隔夜纽约股市科技股走强带动，东京股市两大股指6日高开， 人工智能 （AI）和 半导体 板块买盘活跃。其中， 半导体 测试设备企业爱德万测试连续第6个交易日上涨，连续刷新经股票拆分调整后的上市以来最高价，收盘时市值突破30万亿日元。 银行 股同样走强。据路透社6日报道，日本央行正考虑明确表示基础通胀率已达到2%，可能继续以较短间隔加息。在此预期下，市场看好 银行 净息差扩大， 三菱日联金融 集团等 银行 股上涨。此",
-     "source": "东方财富股票",
-     "zh": "东京股市继续上涨 日经股指时隔3个月重返7万点"
-    },
-    {
-     "title": "欧元区8月零售销售月率 0.1% 预期0.2%",
-     "link": "http://global.eastmoney.com/news/1781,202610063888764711.html",
-     "pubDate": "Tue, 06 Oct 2026 17:01:04 +0800",
-     "summary": "欧元区8月零售销售月率 0.1%，预期0.2%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "欧元区8月零售销售月率 0.1% 预期0.2%"
     },
     {
      "title": "谁将胜出？债券风暴席卷欧美日，全球股市却逼近新高",
@@ -2378,52 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "不投资就加税！在特朗普关税威胁后，韩国\"基本确定\"参与阿拉斯加天然气项目"
     },
     {
-     "title": "VirTra secures five-year sole-source IDIQ contract with U.S. Customs and Border Protection",
-     "link": "https://seekingalpha.com/news/4650432-virtra-secures-five-year-sole-source-idiq-contract-with-us-customs-and-border-protection?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 04:24:04 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "VirTra secures five-year sole-source IDIQ contract with U.S. Customs and Border Protection"
-    },
-    {
-     "title": "华为徐直军：开创AI时代计算架构，让百万处理器成为一台计算机",
-     "link": "http://www.eeo.com.cn/2026/1006/1056672.shtml",
-     "pubDate": "Tue, 06 Oct 2026 16:13:16 +0800",
-     "summary": "日前在上海举行的华为全联接（HC）大会期间，华为轮值董事长徐直军与海思首席科学家廖恒博士，就华为新发布的AI时代的Peerium计算架构和灵衢总线（UnifiedBus），与部分媒体记者进行了问答交流，如下为摘要： 徐直军：非常感谢大家来参加媒体沟通会，我有很长一段时间没...",
-     "source": "经济观察网",
-     "zh": "华为徐直军：开创AI时代计算架构，让百万处理器成为一台计算机"
-    },
-    {
-     "title": "广东高速返程车流高峰来临，今明两天“最易堵”",
-     "link": "http://www.eeo.com.cn/2026/1006/1056671.shtml",
-     "pubDate": "Tue, 06 Oct 2026 16:13:07 +0800",
-     "summary": "10月6日，记者从广东省公安厅交通管理局获悉，根据预判分析，6日、7日广东将迎来高速公路返程车流高峰。对此，广东交警发布易堵路段预警及出行提醒。 来源：南方+",
-     "source": "经济观察网",
-     "zh": "广东高速返程车流高峰来临，今明两天“最易堵”"
-    },
-    {
-     "title": "泰山辟谣“躲雨80元一小时”：不存在避雨现象，未发生避雨收费问题",
-     "link": "http://www.eeo.com.cn/2026/1006/1056670.shtml",
-     "pubDate": "Tue, 06 Oct 2026 16:13:06 +0800",
-     "summary": "北京商报讯（记者 吴其芸）10月6日，泰山景区发布辟谣通告称，近日，有个别自媒体账号拼凑网络视频等资料，发布“网友称泰山躲雨80元一小时”等虚假信息。 经核实，国庆假日期间（10月1日—5日）泰山景区以晴到少云为主、未出现有效降水，不存在避雨现象，未发生避雨收费问题。请广大游客不信谣、不传谣，理性甄别网络信息，共同守护清朗舆论环境。 泰山景区方面表示，遇恶劣天气，景区要求商家对游客避雨不得收费...",
-     "source": "经济观察网",
-     "zh": "泰山辟谣“躲雨80元一小时”：不存在避雨现象，未发生避雨收费问题"
-    },
-    {
-     "title": "10月6日港股收盘：恒指涨1% 恒生科技指数涨0.94%",
-     "link": "http://stock.eastmoney.com/news/11770,202610063888758676.html",
-     "pubDate": "Tue, 06 Oct 2026 16:10:16 +0800",
-     "summary": "港股10月6日收盘走高，恒生指数收报24280.56点，涨240.22点，涨幅1.0%；恒生科技指数收报4223.08点，涨39.4点，涨幅0.94%。恒生指数成分股中 极兔速递-W 、 比亚迪电子 、 药明生物 涨幅居前， 安踏体育 、 华虹宏力 、 农夫山泉 跌幅靠前。恒生科技指数成分股中 智谱 、 比亚迪电子 、 舜宇光学科技 涨幅居前， 天数智芯 、 华虹宏力 、 联想集团 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上",
-     "source": "东方财富资讯",
-     "zh": "10月6日港股收盘：恒指涨1% 恒生科技指数涨0.94%"
-    },
-    {
-     "title": "谷歌与星座能源公司将达成十亿美元核电采购协议",
-     "link": "http://www.eeo.com.cn/2026/1006/1056659.shtml",
-     "pubDate": "Tue, 06 Oct 2026 15:26:14 +0800",
-     "summary": "中新经纬10月6日电 据彭博社当地时间5日报道，谷歌母公司Alphabet正接近达成从美国星座能源公司(Constellation Energy Corp.)购买核能的协议。 报道称，知情人士透露，谷歌即将达成一项多年协议，支付给星座能源公司至少10亿美元购买核能，预计该协议最快将在本周公布。美国核电龙头Constellation和谷歌拒绝置评，因此核容量的具体规模和位置无法确定。 亚马逊上周也与Constellation达成了类似协议，公司购买了690...",
-     "source": "经济观察网",
-     "zh": "谷歌与星座能源公司将达成十亿美元核电采购协议"
+     "title": "Britain is on &apos;thin ice,&apos; warns ex-Bank of England chief economist — and it must act to &apos;appease financial markets&apos;",
+     "link": "https://www.cnbc.com/2026/10/06/burnham-healey-budget-tax-bonds-gilts.html",
+     "pubDate": "Tue, 06 Oct 2026 07:53:22 GMT",
+     "summary": "Britain has the highest government borrowing costs in the G7.",
+     "source": "CNBC",
+     "zh": "Britain is on &apos;thin ice,&apos; warns ex-Bank of England chief economist — and it must act to &apos;appease financial markets&apos;"
     },
     {
      "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
@@ -2450,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "How quant funds beat the market by being &apos;early, contrarian and right&apos;"
     },
     {
-     "title": "高通否认“将单方向华为支付费用”：并非净支付方，该协议与“逻辑折叠芯片技术”无关",
-     "link": "http://www.eeo.com.cn/2026/1006/1056650.shtml",
-     "pubDate": "Tue, 06 Oct 2026 14:39:10 +0800",
-     "summary": "每经记者｜王晶每经编辑｜何小桃 魏文艺 记者|王晶 编辑|何小桃 魏文艺 杜波校对|程鹏 10月5日，华为官方宣布，华为与高通宣布达成一项为期多年、范围广泛的专利许可协议，内容包括双方在5G、计算、人工智能和网络等多个领域的专利组合交叉许可，以及高通收购若干华为在计算、AI、网络等技术领域的美国专利。该交易将在获得必要的监管批准后完成。 <...",
-     "source": "经济观察网",
-     "zh": "高通否认“将单方向华为支付费用”：并非净支付方，该协议与“逻辑折叠芯片技术”无关"
-    },
-    {
      "title": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投",
      "link": "https://wallstreetcn.com/articles/3783055",
      "pubDate": "Tue, 06 Oct 2026 14:26:17 +0800",
@@ -2466,12 +2418,60 @@ window.INDUSTRY_DATA = {
      "zh": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投"
     },
     {
-     "title": "全球上半年新车销量，纯燃油车占比首次跌破50%",
-     "link": "http://www.eeo.com.cn/2026/1006/1056640.shtml",
-     "pubDate": "Tue, 06 Oct 2026 14:26:06 +0800",
-     "summary": "10月6日，据中国基金报援引外媒报道，Mobility Global最新数据显示，2026年上半年，纯汽油车型占全球新车销量的49%，这是历史上纯汽油车销量占比首次跌破五成，且较2021年的73%大幅下降了24个百分点。 Mobility Global是一家汽车数据机构，前身为标普全球汽车（S&P Global Mobility），今年从标普全球集团分拆独立。该机构数据显示，今年上半年，纯汽油车销量同比下降10%，至2025万辆。仅一年之内，其市场份额就下滑3个百...",
-     "source": "经济观察网",
-     "zh": "全球上半年新车销量，纯燃油车占比首次跌破50%"
+     "title": "How AI could scupper the dollar",
+     "link": "https://www.ft.com/content/47061507-f20e-4ff6-961d-e1f1b919cb89?syn-25a6b1a6=1",
+     "pubDate": "Tue, 06 Oct 2026 05:30:07 GMT",
+     "summary": "Things are fine until they’re not",
+     "source": "Financial Times",
+     "zh": "How AI could scupper the dollar"
+    },
+    {
+     "title": "Sleep has always been a class issue",
+     "link": "https://www.ft.com/content/0b4511be-37a8-4de1-bf7d-1718c1f01351?syn-25a6b1a6=1",
+     "pubDate": "Tue, 06 Oct 2026 04:00:27 GMT",
+     "summary": "There is still a class divide when it comes to work that tramples over your body clock",
+     "source": "Financial Times",
+     "zh": "Sleep has always been a class issue"
+    },
+    {
+     "title": "Surge in borrowing costs hits corporate America",
+     "link": "https://www.ft.com/content/7c7ccb82-2973-47af-ad9b-b469c6ea0048?syn-25a6b1a6=1",
+     "pubDate": "Tue, 06 Oct 2026 04:00:17 GMT",
+     "summary": "Sharp sell-off in US Treasury market starts to feed through to junk-rated companies",
+     "source": "Financial Times",
+     "zh": "Surge in borrowing costs hits corporate America"
+    },
+    {
+     "title": "The bond market turns on France",
+     "link": "https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1",
+     "pubDate": "Tue, 06 Oct 2026 04:00:17 GMT",
+     "summary": "The country is being hit by a pre-election debt sell-off. Many fear it could shake the Eurozone",
+     "source": "Financial Times",
+     "zh": "The bond market turns on France"
+    },
+    {
+     "title": "Andy Burnham’s Manchester City problem",
+     "link": "https://www.ft.com/content/ffc5d121-9143-4760-86d7-d1a0fc885af4?syn-25a6b1a6=1",
+     "pubDate": "Tue, 06 Oct 2026 04:00:17 GMT",
+     "summary": "The prime minister’s economic vision looks dangerously like a game of two halves",
+     "source": "Financial Times",
+     "zh": "Andy Burnham’s Manchester City problem"
+    },
+    {
+     "title": "Hong Kong quizzes HSBC over Singapore AI hub decision",
+     "link": "https://www.ft.com/content/1a4458ce-6317-4dce-a43e-95e724d7c33f?syn-25a6b1a6=1",
+     "pubDate": "Tue, 06 Oct 2026 01:32:21 GMT",
+     "summary": "Monetary authority strives to bolster Chinese territory’s status as international financial capital",
+     "source": "Financial Times",
+     "zh": "Hong Kong quizzes HSBC over Singapore AI hub decision"
+    },
+    {
+     "title": "ANZ completes cross-border tokenised deposit payment with Swift ledger",
+     "link": "https://www.finextra.com/newsarticle/48534/anz-completes-cross-border-tokenised-deposit-payment-with-swift-ledger?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 06 Oct 2026 00:01:00 GMT",
+     "summary": "Australia's ANZ has carried out a live corporate treasury transactions using tokenised deposits and Swift’s blockchain ledger.",
+     "source": "Finextra",
+     "zh": "ANZ completes cross-border tokenised deposit payment with Swift ledger"
     }
    ]
   },

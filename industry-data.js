@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/6 23:55:15",
+ "generated_at": "2026/10/7 00:10:36",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+     "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+     "pubDate": "Tue, 06 Oct 2026 16:00:00 +0000",
+     "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+     "source": "TechCrunch AI",
+     "zh": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits"
+    },
     {
      "title": "LibreOffice says ‘no AI’ is now a software feature",
      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
@@ -172,8 +180,8 @@ window.INDUSTRY_DATA = {
     {
      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
      "link": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-     "pubDate": "Mon, 05 Oct 2026 21:08:31 +0000",
-     "summary": "Education Innovation",
+     "pubDate": "Mon, 05 Oct 2026 21:08:00 +0000",
+     "summary": "Generative AI",
      "source": "Google Research",
      "zh": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle"
     },
@@ -192,14 +200,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
      "source": "TechCrunch AI",
      "zh": "OpenAI will start watermarking ChatGPT’s text in the EU"
-    },
-    {
-     "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-     "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-     "pubDate": "Mon, 05 Oct 2026 19:33:53 +0000",
-     "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-     "source": "TechCrunch AI",
-     "zh": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost"
     },
     {
      "title": "Connecting AI agents to enterprise knowledge",
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Microchip, Navitas 800V DC-to-6V DC reference design for AI datacentres",
+     "link": "https://www.electronicsweekly.com/news/microchip-navitas-800v-dc-to-6v-dc-reference-design-for-ai-datacentres-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 15:36:31 +0000",
+     "summary": "Microchip Technology and Navitas Semiconductor have partnered to collaborate on an 800V DC-to-6V DC reference design for AI datacentre rack power applications. It combines Microchip’s digital power control and security […] The post Microchip, Navitas 800V DC-to-6V DC reference design for AI datacent",
+     "source": "Electronics Weekly",
+     "zh": "Microchip, Navitas 800V DC-to-6V DC reference design for AI datacentres"
+    },
     {
      "title": "Solving the Five Hard Problems of NFC Antenna Integration at 13.56 MHz",
      "link": "https://www.eetimes.com/solving-the-five-hard-problems-of-nfc-antenna-integration-at-13-56-mhz/",
@@ -376,14 +384,6 @@ window.INDUSTRY_DATA = {
      "summary": "Multi-national industrial and energy company METLEN Energy & Metals S.A. of Athens, Greece — which operates the only vertically integrated bauxite, alumina and primary aluminium production unit in the European Union (EU) — has signed a long-term commercial agreement with a major Japanese chemical co",
      "source": "Semiconductor Today",
      "zh": "Greece’s METLEN signs second long-term commercial gallium supply agreement"
-    },
-    {
-     "title": "Arm vs Qualcomm episode 2",
-     "link": "https://www.electronicsweekly.com/news/business/arm-vs-qualcomm-episode-2-2026-10/",
-     "pubDate": "Tue, 06 Oct 2026 05:16:23 +0000",
-     "summary": "Yesterday a second trial in the Qualcomm vs Arm legal marathon opened in Delaware. It is before a jury and slated to last five days. The original Qualcomm vs Arm […] The post Arm vs Qualcomm episode 2 appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Arm vs Qualcomm episode 2"
     },
     {
      "title": "Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027",
@@ -810,6 +810,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "The Hidden Cost of Saudi Arabia’s Oil Export Recovery",
+     "link": "https://oilprice.com/Energy/Crude-Oil/The-Hidden-Cost-of-Saudi-Arabias-Oil-Export-Recovery.html",
+     "pubDate": "Tue, 06 Oct 2026 11:05:00 -0500",
+     "summary": "Brent holds near $100 as recovering Gulf oil flows collide with record freight costs and mounting tanker risks. Asia’s Product Market Loses Its Chinese Safety Valve - China has been at the forefront of this month’s refined product rally after the country’s Ministry of Commerce stopped issuing licens",
+     "source": "OilPrice",
+     "zh": "The Hidden Cost of Saudi Arabia’s Oil Export Recovery"
+    },
+    {
+     "title": "Gulf Storm Threat Could Put 3 Million Bpd of Refining Capacity at Risk",
+     "link": "https://oilprice.com/Energy/Energy-General/Gulf-Storm-Threat-Could-Put-3-Million-Bpd-of-Refining-Capacity-at-Risk.html",
+     "pubDate": "Tue, 06 Oct 2026 11:00:00 -0500",
+     "summary": "The climatological peak of the Atlantic hurricane season was in mid-September, and so far, the season has been very quiet as El Niño wind shear breaks apart tropical disturbances in the Atlantic Basin. On Monday morning, the National Hurricane Center gave the tropical disturbance a 70% chance of dev",
+     "source": "OilPrice",
+     "zh": "Gulf Storm Threat Could Put 3 Million Bpd of Refining Capacity at Risk"
+    },
+    {
      "title": "CIP refinances MaxSolar’s 1.3GW renewable energy portfolio in Germany",
      "link": "https://www.pv-tech.org/cip-refinances-maxsolars-1-3gw-renewable-energy-portfolio-in-germany/",
      "pubDate": "Tue, 06 Oct 2026 15:48:25 +0000",
@@ -824,6 +840,14 @@ window.INDUSTRY_DATA = {
      "summary": "For the second time in two weeks, the UK’s National Energy System Operator on Tuesday warned that Britain faces a reduced system margin, with a system margin shortfall of about 1.88 gigawatts (GW) later today. NESO has issued an Electricity Margin Notice for the afternoon and evening’s peak period b",
      "source": "OilPrice",
      "zh": "Low Wind Generation Prompts Another Power Margin Warning in UK"
+    },
+    {
+     "title": "A new VPP framework can center the energy transition in Illinois around customers: ComEd VP",
+     "link": "https://www.utilitydive.com/news/illinois-vpp-virtual-power-plant-comed/831735/",
+     "pubDate": "Tue, 06 Oct 2026 11:00:00 -0400",
+     "summary": "Commonwealth Edison will file a virtual power plant framework by the end of 2027 that looks beyond batteries, writes&nbsp;Andrew Plenge, vice president of strategy and energy policy at the Illinois utility.",
+     "source": "Utility Dive",
+     "zh": "A new VPP framework can center the energy transition in Illinois around customers: ComEd VP"
     },
     {
      "title": "Gulf Producers Say Importers Should Share the Cost of Hormuz Workarounds",
@@ -874,6 +898,14 @@ window.INDUSTRY_DATA = {
      "zh": "Quality issues raise PV systems’ LCOE more than 20% – HelioVolta"
     },
     {
+     "title": "Constellation-Google deal will bring $4.3B investment, 890 MW new nuclear to PJM",
+     "link": "https://www.utilitydive.com/news/constellation-google-deal-will-bring-890-mw-of-new-nuclear-to-pjm/832223/",
+     "pubDate": "Tue, 06 Oct 2026 08:55:10 -0400",
+     "summary": "Constellation Energy has signed 20-year power purchase agreements with both Google and Amazon in the last week, supporting almost 1.1 GW of nuclear expansions.",
+     "source": "Utility Dive",
+     "zh": "Constellation-Google deal will bring $4.3B investment, 890 MW new nuclear to PJM"
+    },
+    {
      "title": "Japan proposes four categories for priority commercial solar support",
      "link": "https://www.pv-magazine.com/2026/10/06/japan-proposes-four-categories-for-priority-commercial-solar-support/",
      "pubDate": "Tue, 06 Oct 2026 12:45:00 +0000",
@@ -888,14 +920,6 @@ window.INDUSTRY_DATA = {
      "summary": "German startup Morreon has developed an AI-based platform to streamline engineering, design optimization, tendering, and project scheduling for battery storage and other energy infrastructure projects. The system automates data processing and layout planning while maintaining human oversight, with f",
      "source": "pv magazine",
      "zh": "German startup offers AI platform to accelerate battery storage engineering"
-    },
-    {
-     "title": "India Could Boost Crude and Critical Minerals Supply from Ecuador",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Could-Boost-Crude-and-Critical-Minerals-Supply-from-Ecuador.html",
-     "pubDate": "Tue, 06 Oct 2026 07:30:00 -0500",
-     "summary": "India and Ecuador are discussing increasing sales of Ecuadorean crude oil, copper, and other critical minerals to India, Fernando Buchelli, the Ecuadorean ambassador to India, told Indian news outlet Mint in an interview published on Tuesday. Ecuador plans to invite Indian companies to invest in its",
-     "source": "OilPrice",
-     "zh": "India Could Boost Crude and Critical Minerals Supply from Ecuador"
     },
     {
      "title": "Poland unveils new home storage subsidy",
@@ -920,14 +944,6 @@ window.INDUSTRY_DATA = {
      "summary": "IPP Linea Energy has closed a debt financing and preferred equity commitment for its 250MW/500MWh Mesa View energy storage project in Upton County, Texas, US.",
      "source": "Energy Storage News",
      "zh": "Linea Energy closes financing for 500MWh Texas BESS project"
-    },
-    {
-     "title": "Japan Courts Saudi Arabia and UAE as Asia's Oil Supply Fears Persist",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Courts-Saudi-Arabia-and-UAE-as-Asias-Oil-Supply-Fears-Persist.html",
-     "pubDate": "Tue, 06 Oct 2026 06:30:00 -0500",
-     "summary": "Japan plans to use the Asia Zero Emission Community (AZEC) meeting later this week to agree with other Asian countries on action plans to increase oil reserves in the region, Japanese Industry Minister Ryosei Akazawa, said on Tuesday. Resource-poor Japan, which needs to import almost all of the oil ",
-     "source": "OilPrice",
-     "zh": "Japan Courts Saudi Arabia and UAE as Asia's Oil Supply Fears Persist"
     },
     {
      "title": "Antora Energy announces 5.8GWh ‘multi-day’ thermal energy storage project in Kansas, US",
@@ -1021,7 +1037,7 @@ window.INDUSTRY_DATA = {
      "title": "Virginia hearing examiner tells Dominion to release memo on FPL investigation",
      "link": "https://www.utilitydive.com/news/virginia-hearing-examiner-tells-dominion-to-release-memo-on-fpl-investigati/832149/",
      "pubDate": "Mon, 05 Oct 2026 12:02:18 -0400",
-     "summary": "Dominion said it wasn&rsquo;t relevant to its merger with NextEra Energy, but Clean Virginia, a customer advocacy group, said it spoke to the governance &ldquo;fitness&rdquo; of the potential combined company.",
+     "summary": "Dominion said the memo wasn&rsquo;t relevant to its merger with NextEra Energy, but Clean Virginia, a customer advocacy group, said it speaks to the governance &ldquo;fitness&rdquo; of the potential combined company.",
      "source": "Utility Dive",
      "zh": "Virginia hearing examiner tells Dominion to release memo on FPL investigation"
     },
@@ -1032,22 +1048,6 @@ window.INDUSTRY_DATA = {
      "summary": "The tech giant and energy producer are backing improvements and renovations at the 1,790-MW Calvert Cliffs Clean Energy Center, the state&rsquo;s largest source of clean energy.",
      "source": "Utility Dive",
      "zh": "Amazon, Constellation sign 20-year PPA to expand Maryland nuclear plant"
-    },
-    {
-     "title": "Heat pumps, electric water heaters continue to gain ground: reports",
-     "link": "https://www.utilitydive.com/news/heat-pumps-electric-water-heaters-continue-to-gain-ground-reports/832138/",
-     "pubDate": "Mon, 05 Oct 2026 11:17:39 -0400",
-     "summary": "Mandates and long-term trends toward electrification are supporting demand for these HVAC technologies despite federal headwinds.",
-     "source": "Utility Dive",
-     "zh": "Heat pumps, electric water heaters continue to gain ground: reports"
-    },
-    {
-     "title": "Rising interest rates challenge utility financing plans, US Bank managing director says",
-     "link": "https://www.utilitydive.com/news/rising-interest-rates-utility-financing-us-bank/832131/",
-     "pubDate": "Mon, 05 Oct 2026 10:47:15 -0400",
-     "summary": "For utilities, keeping capital expenditures well-balanced is &ldquo;going to be a little more challenging with [interest] rates going higher as quickly as they have,&rdquo;&nbsp;said Tim Keller, managing director of U.S. Bank&rsquo;s power and utilities group.",
-     "source": "Utility Dive",
-     "zh": "Rising interest rates challenge utility financing plans, US Bank managing director says"
     }
    ]
   },
@@ -1057,6 +1057,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Dual-acting drug from AbbVie, Genmab scores in frontline lymphoma trial",
+     "link": "https://www.biopharmadive.com/news/abbvie-genmab-epkinly-dlbcl-epcore-study-results/832241/",
+     "pubDate": "Tue, 06 Oct 2026 11:42:00 -0400",
+     "summary": "The better-than-expected results could make Epkinly the new &ldquo;undisputed&rdquo;&nbsp;treatment standard in newly diagnosed DLBCL, according to one analyst.",
+     "source": "BioPharma Dive",
+     "zh": "Dual-acting drug from AbbVie, Genmab scores in frontline lymphoma trial"
+    },
     {
      "title": "The Epitranscriptome Heads Toward Clinical Necessity",
      "link": "https://www.genengnews.com/topics/omics/the-epitranscriptome-heads-toward-clinical-necessity/",
@@ -1240,14 +1248,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Nobel laureates &ldquo;laid the foundation&rdquo; for a new field of brain research, the award committee wrote. Elsewhere, Roche and CSL cut licensing deals and the FDA endorsed broader use of a Lilly medicine.",
      "source": "BioPharma Dive",
      "zh": "Optogenetics researchers win a Nobel Prize; Roche bets on Alector brain drug"
-    },
-    {
-     "title": "Vaxcyte skyrockets on ‘near best-case’ pneumococcal vaccine data",
-     "link": "https://www.biopharmadive.com/news/vaxcyte-pneumococcal-vaccine-opus-study-results-prevnar-capvaxive/832095/",
-     "pubDate": "Mon, 05 Oct 2026 09:52:00 -0400",
-     "summary": "The company&rsquo;s next-generation shot surpassed Wall Street&rsquo;s expectations by matching the effectiveness of vaccines from Pfizer and Merck on nearly all bacterial strains in the first of three Phase 3 trials.",
-     "source": "BioPharma Dive",
-     "zh": "Vaxcyte skyrockets on ‘near best-case’ pneumococcal vaccine data"
     }
    ]
   },
@@ -1709,7 +1709,7 @@ window.INDUSTRY_DATA = {
      "title": "The Early History of Smalltalk",
      "link": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
      "pubDate": "Tue, 06 Oct 2026 15:19:57 +0000",
-     "summary": "Article URL: https://worrydream.com/EarlyHistoryOfSmalltalk/ Comments URL: https://news.ycombinator.com/item?id=49979845 Points: 10 # Comments: 0",
+     "summary": "Article URL: https://worrydream.com/EarlyHistoryOfSmalltalk/ Comments URL: https://news.ycombinator.com/item?id=49979845 Points: 23 # Comments: 1",
      "source": "Hacker News",
      "zh": "The Early History of Smalltalk"
     },
@@ -1728,22 +1728,6 @@ window.INDUSTRY_DATA = {
      "summary": "Wajo's Fo agent can hire humans to complete a task.",
      "source": "TechCrunch",
      "zh": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust"
-    },
-    {
-     "title": "战魔田默｜生物医药创新，正在接受全球产业链重新定价",
-     "link": "https://www.huxiu.com/article/4895576.html?f=rss",
-     "pubDate": "Tue, 06 Oct 2026 23:10:14 +0800",
-     "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜生物医药创新，正在接受全球产业链重新定价》 生物医药创新的技术周期仍在向前，资本市场的定价规则却在改变。 疾病负担持续扩大，研发工具不断进步，全球授权交易依然活跃，但融资已经不再普遍宽松。 表面看，这是资本市场冷热变化；更深层的变化在于，资本开始重新判断一项创新距离产业兑现还有多远。 港股医疗IPO的集中破发与排队，只是这一轮重估最容易被看见的窗口。 变化的核心，不是医疗需求突然消失，而是资本不再因为企业拥有创新药、前沿技术或稀缺赛道标签，就提前为所有远期价值支付同样的价格。 全球市场也在发生类似变化。风险投资有所收缩，但",
-     "source": "虎嗅",
-     "zh": "战魔田默｜生物医药创新，正在接受全球产业链重新定价"
-    },
-    {
-     "title": "战魔田默｜三季度两家上市、全部破发，87家排队！医疗创业，IPO不再是唯一出口",
-     "link": "https://www.huxiu.com/article/4895575.html?f=rss",
-     "pubDate": "Tue, 06 Oct 2026 23:08:36 +0800",
-     "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜三季度两家上市、全部破发，87家排队！医疗创业，IPO不再是唯一出口》 港股医疗IPO正在经历一轮明显降温。 据动脉网基于Choice数据整理，截至2026年9月21日，港股医疗IPO排队企业达到87家。 2026年第三季度，港股仅有2家医疗企业完成上市，首日破发率达到100%。 麦科田上市首日跌幅超过42%，同仁堂医养上市首日一度大跌近40%。 这组数据首先说明，港股医疗IPO曾经存在的普遍性溢价正在消退。 但它还不能被直接翻译成医疗行业全面退潮。据港交所9月30日月报，港交所整体市场年内已有118家公司上市，仍有590",
-     "source": "虎嗅",
-     "zh": "战魔田默｜三季度两家上市、全部破发，87家排队！医疗创业，IPO不再是唯一出口"
     },
     {
      "title": "德国交通部长：希望特斯拉 FSD（监督版）辅助驾驶系统能在欧盟获批",
@@ -1770,14 +1754,6 @@ window.INDUSTRY_DATA = {
      "zh": "《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线"
     },
     {
-     "title": "国庆假期旅游人满为患，影院却为何留不住观众？",
-     "link": "https://www.huxiu.com/article/4895574.html?f=rss",
-     "pubDate": "Tue, 06 Oct 2026 22:49:07 +0800",
-     "summary": "本文来自微信公众号： 凤凰网财经 ，作者：公司研究院 这个国庆长假，你是在旅行路上，还是走进了影院？ 图为2026年中秋、国庆拼假日历图源：网络 2026年中秋国庆叠加拼假，催生了超长的“请3休13”的时间窗口，国内文旅消费市场，则出现两极分化。 一边，中国消费者奔赴海外美景，国内众多县域小城被短视频带火，公路、草原与异国海岸处处挤满出行人群；另一边，本该享受假期红利的电影院线却陷入冷清，国庆档票房显著回落，银幕前的人潮远不及路上汹涌。 一热一冷的反差，正折射出国内服务消费正在发生的结构性变迁。 01 超长假期下，出境游与境内“奔县游”双线走强 旺盛的出境旅行意愿，在各大平台节前预订数据就体现",
-     "source": "虎嗅",
-     "zh": "国庆假期旅游人满为患，影院却为何留不住观众？"
-    },
-    {
      "title": "Apple AirPods Max 2 Are $120 Off Right Now",
      "link": "https://www.wired.com/story/apple-airpods-max-2-deal-october-2026/",
      "pubDate": "Tue, 06 Oct 2026 14:46:47 +0000",
@@ -1789,7 +1765,7 @@ window.INDUSTRY_DATA = {
      "title": "Vibecoding isn't as fun as writing code by hand",
      "link": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
      "pubDate": "Tue, 06 Oct 2026 14:45:02 +0000",
-     "summary": "Article URL: https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/ Comments URL: https://news.ycombinator.com/item?id=49979306 Points: 93 # Comments: 103",
+     "summary": "Article URL: https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/ Comments URL: https://news.ycombinator.com/item?id=49979306 Points: 104 # Comments: 127",
      "source": "Hacker News",
      "zh": "Vibecoding isn't as fun as writing code by hand"
     },
@@ -1826,14 +1802,6 @@ window.INDUSTRY_DATA = {
      "zh": "Anduril lands an up to $2.9B US Navy contract to make Virginia-class submarine components, days after Palmer Luckey was named to a DOD future weapons task force (Samantha Subin/CNBC)"
     },
     {
-     "title": "写时事评论还是要懂点科学与逻辑，不然丢人丢到祁连山去了",
-     "link": "https://www.huxiu.com/article/4895573.html?f=rss",
-     "pubDate": "Tue, 06 Oct 2026 22:25:24 +0800",
-     "summary": "本文来自微信公众号： 建设性意见 ，作者：项栋梁 昨天评论了祁连县把游客安置到学生宿舍的新闻，原本觉得“不该欺负学生”这么简单的道理，只要讲出来大家都能明白。 我的原文如下： 学生最好欺负，所以每次都欺负学生 老读者都知道，我一贯的风格都是既指出问题，也给出解决方案，昨天的文章里也给出了可行的解决方案，比如把县委党校的宿舍提供给游客，比如把游客安置到天境大剧院过夜，可以说是为祁连文旅工作操碎了心。 就差把饭喂到嘴里了。 没想到，就这样还有不服气的作者来杠，并且用【恶毒】【媚众】【伪善】这么重的词汇来定性。也就是我脾气好，不跟他一般见识，咱们还是就事论事。 正好我刚刚带完一期表达与写作训练营，学",
-     "source": "虎嗅",
-     "zh": "写时事评论还是要懂点科学与逻辑，不然丢人丢到祁连山去了"
-    },
-    {
      "title": "特斯拉在印度市场交付超一年，仅注册不到 1000 辆汽车",
      "link": "https://www.ithome.com/1/010/111.htm",
      "pubDate": "Tue, 06 Oct 2026 14:20:44 GMT",
@@ -1858,42 +1826,18 @@ window.INDUSTRY_DATA = {
      "zh": "7 Best Prime Day Kindle Deals (2026): Save Up to $150"
     },
     {
-     "title": "美国网红和中国机器人打八角笼，开局就被一脚踹飞了？",
-     "link": "https://www.huxiu.com/article/4895571.html?f=rss",
-     "pubDate": "Tue, 06 Oct 2026 22:10:59 +0800",
-     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 就在大家讨论人形机器人如何进厂打螺丝或者做家务的时候，有一批机器人找到了另一种就业岗位，进八角笼，干架。 而且现在不光是机器人打机器人，它们还要打人。在美国一场机器人格斗比赛中，一台改装过的众擎T800迎战了一位人类挑战者。 只见这老哥全副武装，走上擂台，对着机器人疯狂输出。然后，就这么一脚被踹飞了。 01终结者来了也得先打两天“黑拳” 所以，美国人到底是整了一个什么狠活儿，这么快就开始搞肉体凡胎大战钢铁之躯了？ 这画面很多人看完第一反应是AI，但这是真事儿。这场“人类大战终结者”的比赛其实算不上正经格斗赛事，更贴近于一场娱乐表演活动，主办",
-     "source": "虎嗅",
-     "zh": "美国网红和中国机器人打八角笼，开局就被一脚踹飞了？"
-    },
-    {
-     "title": "金价跳水，老铺打折，黄金死局来了？",
-     "link": "https://www.huxiu.com/article/4895569.html?f=rss",
-     "pubDate": "Tue, 06 Oct 2026 21:58:20 +0800",
-     "summary": "本文来自微信公众号： 东针商略 ，作者：东针商略 国庆假期，黄金市场变化很大。 一边是国际金价从年初高点跌了超过三成，COMEX黄金期货9月单月跌幅达到6.52%；另一边，被称作“黄金界爱马仕”的老铺黄金，居然开始打折了，部分款式9折，VIP还能再叠9.5折，线上渠道实际支付价格换算下来约为8.5折。 要知道，这家公司2025年刚经历三轮涨价，2026年2月又涨了一轮，主要产品涨幅集中在20%到30%。 一个从来不轻易降价的高端品牌，突然放下身段搞促销，这背后到底发生了什么？ 更让人困惑的是，各国央行还在大手笔买金，德银的研究显示官方部门购金速度已经是2021至2022年的两倍以上，可金价就是",
-     "source": "虎嗅",
-     "zh": "金价跳水，老铺打折，黄金死局来了？"
-    },
-    {
      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
      "link": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
      "pubDate": "Tue, 06 Oct 2026 13:55:37 +0000",
-     "summary": "Article URL: https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/ Comments URL: https://news.ycombinator.com/item?id=49978563 Points: 55 # Comments: 10",
+     "summary": "Article URL: https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/ Comments URL: https://news.ycombinator.com/item?id=49978563 Points: 67 # Comments: 11",
      "source": "Hacker News",
      "zh": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol"
-    },
-    {
-     "title": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
-     "link": "https://jotbus.com/",
-     "pubDate": "Tue, 06 Oct 2026 13:45:04 +0000",
-     "summary": "Article URL: https://jotbus.com/ Comments URL: https://news.ycombinator.com/item?id=49978401 Points: 15 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents"
     },
     {
      "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
      "link": "https://www.parseable.com",
      "pubDate": "Tue, 06 Oct 2026 13:30:50 +0000",
-     "summary": "Article URL: https://www.parseable.com Comments URL: https://news.ycombinator.com/item?id=49978171 Points: 25 # Comments: 4",
+     "summary": "Article URL: https://www.parseable.com Comments URL: https://news.ycombinator.com/item?id=49978171 Points: 28 # Comments: 5",
      "source": "Hacker News",
      "zh": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min"
     },
@@ -1909,9 +1853,17 @@ window.INDUSTRY_DATA = {
      "title": "Mistral Large 4: \"Le Chonk\"",
      "link": "https://mistral.ai/news/mistral-large-4/",
      "pubDate": "Tue, 06 Oct 2026 13:25:50 +0000",
-     "summary": "Article URL: https://mistral.ai/news/mistral-large-4/ Comments URL: https://news.ycombinator.com/item?id=49978116 Points: 391 # Comments: 43",
+     "summary": "Article URL: https://mistral.ai/news/mistral-large-4/ Comments URL: https://news.ycombinator.com/item?id=49978116 Points: 422 # Comments: 51",
      "source": "Hacker News",
      "zh": "Mistral Large 4: \"Le Chonk\""
+    },
+    {
+     "title": "Mistral Large 4",
+     "link": "https://docs.mistral.ai/models/mistral-large-4-0",
+     "pubDate": "Tue, 06 Oct 2026 13:15:49 +0000",
+     "summary": "Article URL: https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 764 # Comments: 440",
+     "source": "Hacker News",
+     "zh": "Mistral Large 4"
     },
     {
      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
@@ -1936,6 +1888,54 @@ window.INDUSTRY_DATA = {
      "summary": "Sabrina Ortiz / The Deep View : Mistral releases Mistral Large 4, dubbed &ldquo;le Chonk&rdquo;, a 1T-parameter open-weight model for general agentic capabilities, trained on 4,000 Nvidia Grace Blackwells &nbsp; &mdash;&nbsp; Most flagship models dominating the market are from frontier labs and are ",
      "source": "Techmeme",
      "zh": "Mistral releases Mistral Large 4, dubbed \"le Chonk\", a 1T-parameter open-weight model for general agentic capabilities, trained on 4,000 Nvidia Grace Blackwells (Sabrina Ortiz/The Deep View)"
+    },
+    {
+     "title": "英伟达发布 617.42 Game Ready 显卡驱动：优化《使命召唤：现代战争 4》等新作",
+     "link": "https://www.ithome.com/1/010/098.htm",
+     "pubDate": "Tue, 06 Oct 2026 13:03:37 GMT",
+     "summary": "IT之家 10 月 6 日消息，英伟达 GeForce Game Ready 驱动 617.42 正式发布，本次驱动为多款支持 DLSS 和 RTX 技术的新作提供优化，同时修复了已发现的游戏崩溃问题。 IT之家附官方公告链接（ https://www.nvidia.com/en-us/geforce/news/call-of-duty-modern-warfare-4-star-wars-galactic-racer-game-ready-driver/ ）。 新游戏支持与性能优化 为《使命召唤：现代战争 4》《星球大战：银河赛车手》《龙之信条 2：黑暗觉醒》《微软模拟飞行 2024》《Va",
+     "source": "IT之家",
+     "zh": "英伟达发布 617.42 Game Ready 显卡驱动：优化《使命召唤：现代战争 4》等新作"
+    },
+    {
+     "title": "Uber agrees to acquire Boston-based catering platform ezCater for $2.3B in cash to help Uber Eats reach corporate clients; the deal is set to close in months (Natalie Lung/Bloomberg)",
+     "link": "https://www.techmeme.com/261006/p21#a261006p21",
+     "pubDate": "Tue, 06 Oct 2026 09:00:57 -0400",
+     "summary": "Natalie Lung / Bloomberg : Uber agrees to acquire Boston-based catering platform ezCater for $2.3B in cash to help Uber Eats reach corporate clients; the deal is set to close in months &nbsp; &mdash;&nbsp; Uber Technologies Inc. is buying catering firm ezCater Inc. for $2.3 billion in a cash deal th",
+     "source": "Techmeme",
+     "zh": "Uber agrees to acquire Boston-based catering platform ezCater for $2.3B in cash to help Uber Eats reach corporate clients; the deal is set to close in months (Natalie Lung/Bloomberg)"
+    },
+    {
+     "title": "A First Ride With Lightfoot, a Solar-Powered Scooter",
+     "link": "https://www.wired.com/story/lightfoot-scooter-first-ride/",
+     "pubDate": "Tue, 06 Oct 2026 13:00:00 +0000",
+     "summary": "Otherlab’s Lightfoot looks like a box on wheels, but this head-turning urban scooter is designed to go farther thanks to the power of the sun.",
+     "source": "WIRED",
+     "zh": "A First Ride With Lightfoot, a Solar-Powered Scooter"
+    },
+    {
+     "title": "UK retailer Asos&apos; stock falls 10%+ after users got app notifications saying \"we have fully compromised the Snowflake instance\"; source: Asos is investigating (Financial Times)",
+     "link": "https://www.techmeme.com/261006/p20#a261006p20",
+     "pubDate": "Tue, 06 Oct 2026 08:50:01 -0400",
+     "summary": "Financial Times : UK retailer Asos' stock falls 10%+ after users got app notifications saying &ldquo;we have fully compromised the Snowflake instance&rdquo;; source: Asos is investigating &nbsp; &mdash;&nbsp; Shares in FTSE 250 retailer fall more than 10% following reports from mobile users&nbsp; &m",
+     "source": "Techmeme",
+     "zh": "UK retailer Asos&apos; stock falls 10%+ after users got app notifications saying \"we have fully compromised the Snowflake instance\"; source: Asos is investigating (Financial Times)"
+    },
+    {
+     "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+     "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+     "pubDate": "Tue, 06 Oct 2026 12:21:53 +0000",
+     "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+     "source": "Ars Technica",
+     "zh": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic"
+    },
+    {
+     "title": "Anthropic&apos;s IPO prospectus: Dario Amodei made $18M in 2025, ranking in the middle of top tech executives, and President Daniela Amodei, his sister, made $16.4M (Reuters)",
+     "link": "https://www.techmeme.com/261006/p19#a261006p19",
+     "pubDate": "Tue, 06 Oct 2026 08:05:01 -0400",
+     "summary": "Reuters : Anthropic's IPO prospectus: Dario Amodei made $18M in 2025, ranking in the middle of top tech executives, and President Daniela Amodei, his sister, made $16.4M &nbsp; &mdash;&nbsp; Dario Amodei made $18 million last year as CEO of Claude AI developer Anthropic, the company's IPO filing sho",
+     "source": "Techmeme",
+     "zh": "Anthropic&apos;s IPO prospectus: Dario Amodei made $18M in 2025, ranking in the middle of top tech executives, and President Daniela Amodei, his sister, made $16.4M (Reuters)"
     }
    ]
   },
@@ -1945,6 +1945,46 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung’s older smartwatches are down to their lowest prices ever for Fall Prime Day",
+     "link": "https://9to5google.com/2026/10/06/samsungs-older-smartwatches-are-down-to-their-lowest-prices-ever-for-fall-prime-day/",
+     "pubDate": "Tue, 06 Oct 2026 16:05:52 +0000",
+     "summary": "If you don’t need quite the latest and greatest from Samsung’s smartwatch lineup, the Galaxy Watch 7, Watch 8, and 8 Classic are pretty compelling for Fall Prime Day right now. more…",
+     "source": "9to5Google",
+     "zh": "Samsung’s older smartwatches are down to their lowest prices ever for Fall Prime Day"
+    },
+    {
+     "title": "Googlebooks don’t have the same web app or Linux app support as Chromebooks",
+     "link": "https://9to5google.com/2026/10/06/googlebook-linux-web-app-support-chromebook/",
+     "pubDate": "Tue, 06 Oct 2026 16:05:00 +0000",
+     "summary": "Googlebooks don’t have the same level of web app support as Chromebooks, as only “compliant” apps can be installed, and that’s not the only regression from ChromeOS, as Linux apps don’t work in the same way either. more…",
+     "source": "9to5Google",
+     "zh": "Googlebooks don’t have the same web app or Linux app support as Chromebooks"
+    },
+    {
+     "title": "JMGO N1S Ultimate plummets to $1,299 in an eye-catching 54% Prime Day deal",
+     "link": "https://www.androidauthority.com/jmgo-n1s-ultimate-deal-3719701/",
+     "pubDate": "Tue, 06 Oct 2026 15:53:19 +0000",
+     "summary": "Save $1,500 on the JMGO N1S Ultimate and get a 4K triple-laser projector with Google TV and a built-in gimbal stand.",
+     "source": "Android Authority",
+     "zh": "JMGO N1S Ultimate plummets to $1,299 in an eye-catching 54% Prime Day deal"
+    },
+    {
+     "title": "Deals: Amazon's Prime Day sale is live, here are the best flagship and foldable offers",
+     "link": "https://www.gsmarena.com/deals_amazons_prime_day_sale_is_live_here_are_the_best_flagship_and_foldable_offers-news-74922.php",
+     "pubDate": "Tue, 06 Oct 2026 17:53:02 +0200",
+     "summary": "Amazon has launched Prime Big Deal Days – unlike the previous Prime event, this one will only last two days, so you don’t have much time to consider. Here are the best smartphone offers, organized by category. Table of Contents: Flagships Foldables Mid-range and entry-level Flagships The Samsung Gal",
+     "source": "GSMArena",
+     "zh": "Deals: Amazon's Prime Day sale is live, here are the best flagship and foldable offers"
+    },
+    {
+     "title": "OnePlus is dead, but demand for the OnePlus 16 clearly isn’t",
+     "link": "https://www.androidauthority.com/oneplus-16-reader-poll-buying-interest-3719618/",
+     "pubDate": "Tue, 06 Oct 2026 15:52:29 +0000",
+     "summary": "Most of you want the OnePlus 16 — there’s just one small problem.",
+     "source": "Android Authority",
+     "zh": "OnePlus is dead, but demand for the OnePlus 16 clearly isn’t"
+    },
     {
      "title": "How to supercharge your Windows 11 PC with this built-in automation tool",
      "link": "https://www.engadget.com/2277240/how-to-supercharge-windows-11-pc-built-in-automation-tool-task-scheduler/",
@@ -2042,28 +2082,12 @@ window.INDUSTRY_DATA = {
      "zh": "Pixel Watch 4 & 5’s handy USB-C travel charger is currently on sale, and even cheaper now"
     },
     {
-     "title": "Samsung’s premium Galaxy Watch 8 Classic is down to $389.99 at Amazon",
-     "link": "https://www.androidauthority.com/galaxy-watch-8-classic-prime-deal-3718754/",
-     "pubDate": "Tue, 06 Oct 2026 15:05:52 +0000",
-     "summary": "Save 28% on the Samsung Galaxy Watch 8 Classic, a premium Wear OS smartwatch with a rotating bezel and health tools.",
-     "source": "Android Authority",
-     "zh": "Samsung’s premium Galaxy Watch 8 Classic is down to $389.99 at Amazon"
-    },
-    {
      "title": "Apple TV unveils new series  reuniting stars of record-breaking comedy",
      "link": "https://9to5mac.com/2026/10/06/apple-tv-unveils-new-series-reuniting-stars-of-record-breaking-comedy/",
      "pubDate": "Tue, 06 Oct 2026 15:04:29 +0000",
      "summary": "Apple TV announced a new comedy series coming—The Choir—that reunites Ruth Jones and James Corden, the duo from beloved UK sitcom Gavin & Stacey. more…",
      "source": "9to5Mac",
      "zh": "Apple TV unveils new series  reuniting stars of record-breaking comedy"
-    },
-    {
-     "title": "This 27-inch ASUS ProArt QHD monitor is down to $169 in an early fall Prime Day deal",
-     "link": "https://www.androidauthority.com/asus-proart-pa278qv-27-inch-monitor-deal-3717053/",
-     "pubDate": "Tue, 06 Oct 2026 14:58:59 +0000",
-     "summary": "The highly rated 27-inch ASUS ProArt monitor is now 26% off, with QHD resolution, 100% sRGB, and a 75Hz refresh rate.",
-     "source": "Android Authority",
-     "zh": "This 27-inch ASUS ProArt QHD monitor is down to $169 in an early fall Prime Day deal"
     },
     {
      "title": "Galaxy Watch 9 drops to $319, but not on Amazon during Prime Day",
@@ -2114,22 +2138,6 @@ window.INDUSTRY_DATA = {
      "zh": "Here’s what iPhone Duo’s new two-page PDF experience looks like"
     },
     {
-     "title": "Googlebook’s Android-integrated features won’t work with Samsung phones at launch",
-     "link": "https://9to5google.com/2026/10/06/googlebook-android-sync-features-samsung-delay/",
-     "pubDate": "Tue, 06 Oct 2026 14:15:00 +0000",
-     "summary": "Googlebook is pitched as the laptop for Android users but, at launch, the vast majority of Android users can’t use the platform’s best features. more…",
-     "source": "9to5Google",
-     "zh": "Googlebook’s Android-integrated features won’t work with Samsung phones at launch"
-    },
-    {
-     "title": "Galaxy Z Fold 8 is $1,549 right now, its lowest price ever",
-     "link": "https://9to5google.com/2026/10/06/galaxy-z-fold-8-price-amazon-prime-day/",
-     "pubDate": "Tue, 06 Oct 2026 14:05:00 +0000",
-     "summary": "Mere months after its launch, Samsung’s Galaxy Z Fold 8 is discounted by hundreds for Amazon’s Prime Day to its lowest price yet. more…",
-     "source": "9to5Google",
-     "zh": "Galaxy Z Fold 8 is $1,549 right now, its lowest price ever"
-    },
-    {
      "title": "Leaks reveal new Apple TV 4K and HomePod features coming next week",
      "link": "https://9to5mac.com/2026/10/06/leaks-reveal-new-apple-tv-4k-and-homepod-features-coming-next-week/",
      "pubDate": "Tue, 06 Oct 2026 13:57:43 +0000",
@@ -2176,14 +2184,6 @@ window.INDUSTRY_DATA = {
      "summary": "vivo hosted a grand event today in Gurgaon, India, where it unveiled the V80 and S2 FE and introduced the X Fold6 to the Indian market. We used the vivo V80 for a few days, and here's how it performed. Design The vivo V80 is built around a 6.59\" 1,260p 144Hz AMOLED display, surrounded by 1.25mm beze",
      "source": "GSMArena",
      "zh": "vivo V80 hands-on review"
-    },
-    {
-     "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
-     "link": "https://sspai.com/post/115416",
-     "pubDate": "Tue, 06 Oct 2026 18:00:00 +0800",
-     "summary": "密码管理服务的数据，当然要掌握在自己手里。 查看全文",
-     "source": "少数派",
-     "zh": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践"
     }
    ]
   },
@@ -2193,6 +2193,70 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "From the family table to the car cupholder: KFC's iconic bucket has a small option",
+     "link": "https://seekingalpha.com/news/4650637-from-the-family-table-to-car-cupholder-kfcs-iconic-bucket-has-a-small-option?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 12:02:38 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "From the family table to the car cupholder: KFC's iconic bucket has a small option"
+    },
+    {
+     "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+     "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+     "pubDate": "Tue, 06 Oct 2026 16:00:28 GMT",
+     "summary": "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies.",
+     "source": "CNBC",
+     "zh": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies"
+    },
+    {
+     "title": "美股三大指数集体上涨 纳指、标普500创新高",
+     "link": "http://finance.eastmoney.com/news/1345,202610063888799071.html",
+     "pubDate": "Tue, 06 Oct 2026 23:59:26 +0800",
+     "summary": "美东时间周二，美股三大指数集体上涨，纳指、标普500创新高。截至发稿，道琼斯指数涨0.68%，标普500指数涨0.84%， 纳斯达克 综合 指数涨0.78%。 英伟达 涨超1%，续创 历史新高 。 Constellation Energy涨近14%，消息面上，公司与谷歌达成890兆瓦的核电产能协议。 Option Care涨超30%， 麦克森 与CD&R据报接近达成逾50亿美元收购。 国际油价走低，截至发稿，美油 期货 跌0.75%，报88.76美元/桶；布油 期货 跌超1%，报99.28美元/桶。 全球要闻 商务部就法德要求欧盟强化贸易防御等保护主义工具答记者问 问：据媒体报道，10月5日法",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数集体上涨 纳指、标普500创新高"
+    },
+    {
+     "title": "Midday Need to Know: Uber buys ezCater, Marvell raises outlook & more",
+     "link": "https://seekingalpha.com/news/4650634-midday-need-to-know-uber-buys-ezcater-marvell-raises-outlook-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 11:57:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Midday Need to Know: Uber buys ezCater, Marvell raises outlook & more"
+    },
+    {
+     "title": "These 5 chip stocks are cheaper than the S&P 500 — and offer faster growth",
+     "link": "https://www.marketwatch.com/story/these-5-chip-stocks-are-cheaper-than-the-s-p-500-and-offer-faster-growth-f8ab4386?mod=mw_rss_topstories",
+     "pubDate": "Tue, 06 Oct 2026 15:57:00 GMT",
+     "summary": "Micron and Nvidia are among high-profile semiconductor companies that have been raking in cash and still have inexpensive stocks.",
+     "source": "MarketWatch",
+     "zh": "These 5 chip stocks are cheaper than the S&P 500 — and offer faster growth"
+    },
+    {
+     "title": "Countries should monitor hedge funds' leverage and interconnections, IMF says",
+     "link": "https://seekingalpha.com/news/4650627-countries-should-monitor-hedge-funds-leverage-and-interconnections-imf-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 11:54:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Countries should monitor hedge funds' leverage and interconnections, IMF says"
+    },
+    {
+     "title": "Apogee forecasts FY2027 sales of $1.46B-$1.5B and adjusted EPS of $3-$3.40 while adding Groglass",
+     "link": "https://seekingalpha.com/news/4650636-apogee-forecasts-fy2027-sales-of-1_46b-1_5b-and-adjusted-eps-of-3-3_40-while-adding-groglass?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 11:53:31 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Apogee forecasts FY2027 sales of $1.46B-$1.5B and adjusted EPS of $3-$3.40 while adding Groglass"
+    },
+    {
+     "title": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
+     "link": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
+     "pubDate": "Tue, 06 Oct 2026 15:52:33 GMT",
+     "summary": "British Airways is ripping out coach class seats and building a giant premium economy and business class in a bet on the high-end travel boom.",
+     "source": "CNBC",
+     "zh": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets"
+    },
     {
      "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
      "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
@@ -2218,100 +2282,52 @@ window.INDUSTRY_DATA = {
      "zh": "Oil and fuel supply buffers thinning as Middle East war drags on, Chevron CEO says"
     },
     {
-     "title": "If you think U.S. debt had a rough year, don’t look at France",
-     "link": "https://seekingalpha.com/news/4650630-if-you-think-u-s-debt-had-a-rough-year-don-t-look-at-france?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 11:47:40 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "If you think U.S. debt had a rough year, don’t look at France"
-    },
-    {
-     "title": "High diesel prices may put &apos;another squeeze&apos; on the consumer, economist says",
-     "link": "https://www.cnbc.com/2026/10/06/diesel-prices-inflation.html",
-     "pubDate": "Tue, 06 Oct 2026 15:45:52 GMT",
-     "summary": "The impact of soaring diesel prices is less evident to consumers than that of gasoline.",
-     "source": "CNBC",
-     "zh": "High diesel prices may put &apos;another squeeze&apos; on the consumer, economist says"
-    },
-    {
-     "title": "德国8月工业新订单环比大幅下降",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888823311.html",
-     "pubDate": "Tue, 06 Oct 2026 23:42:28 +0800",
-     "summary": "德国联邦统计局6日公布的数据显示，经季节和工作日调整后，德国8月工业新订单环比大幅下降10.6%。 数据显示，8月德国国内新订单环比下降17.3%，国外新订单下降5.4%，其中来自欧元区和欧元区以外的订单分别下降5.4%和5.5%。 德国联邦统计局表示，当月工业新订单大幅下降的主要原因是飞机、船舶、火车和军用车辆等运输设备制造业订单锐减。相关领域新订单环比下降61.5%。此前受大额订单推动，该领域7月订单环比增长129.4%。 数据还显示，剔除大额订单影响后，8月德国工业新订单环比下降0.1%。其中，机械制造业订单下降4.4%， 汽车 及 汽车零部件 行业订单增长2.8%。 德国联邦经济和能源",
+     "title": "巴基斯坦试射国产增程版“法塔赫-4”陆基巡航导弹",
+     "link": "http://finance.eastmoney.com/news/11790,202610063888825084.html",
+     "pubDate": "Tue, 06 Oct 2026 23:48:50 +0800",
+     "summary": "据巴基斯坦三军新闻局10月6日消息，巴基斯坦当天成功进行了一次国产增程版“法塔赫-4”陆基巡航导弹的试射。巴基斯坦三军新闻局称，该系统配备先进航空 电子 设备和最先进的导航辅助设备，能够以高精度和高杀伤力打击目标。此次试射还验证了为提高精度和增 强生 存能力而集成的各子系统的额外技术参数。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "德国8月工业新订单环比大幅下降"
+     "zh": "巴基斯坦试射国产增程版“法塔赫-4”陆基巡航导弹"
     },
     {
-     "title": "BASF holding internal talks on raising Evonik bid closer to €11B - Bloomberg",
-     "link": "https://seekingalpha.com/news/4650626-basf-holding-internal-talks-on-raising-evonik-bid-closer-to-11b---bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 11:41:26 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BASF holding internal talks on raising Evonik bid closer to €11B - Bloomberg"
-    },
-    {
-     "title": "Communication services stocks with strong growth grades heading into Q4",
-     "link": "https://seekingalpha.com/news/4650628-communication-services-stocks-with-strong-growth-grades-heading-into-q4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 11:40:14 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Communication services stocks with strong growth grades heading into Q4"
-    },
-    {
-     "title": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
-     "link": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
-     "pubDate": "Tue, 06 Oct 2026 15:40:05 GMT",
-     "summary": "British Airways is ripping out coach class seats and building a giant premium economy and business class in a bet on the high-end travel boom.",
-     "source": "CNBC",
-     "zh": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets"
-    },
-    {
-     "title": "欧股主要指数收盘普涨",
-     "link": "http://stock.eastmoney.com/news/1438,202610063888822686.html",
-     "pubDate": "Tue, 06 Oct 2026 23:38:27 +0800",
-     "summary": "欧股主要指数收盘普涨，英国富时100指数涨0.42%，法国CAC40指数涨0.47%，德国DAX30指数涨0.82%，富时意大利MIB指数涨0.87%。 （文章来源：财联社）",
+     "title": "智利政府预估2026年铜均价为每磅6.15美元",
+     "link": "http://finance.eastmoney.com/news/1351,202610063888824968.html",
+     "pubDate": "Tue, 06 Oct 2026 23:46:48 +0800",
+     "summary": "智利政府预估2026年 铜 均价为每磅6.15美元。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "欧股主要指数收盘普涨"
+     "zh": "智利政府预估2026年铜均价为每磅6.15美元"
     },
     {
-     "title": "荷美航运因新增“阿卡迪亚号” 船队规模扩张至12艘",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888823573.html",
-     "pubDate": "Tue, 06 Oct 2026 23:38:20 +0800",
-     "summary": "荷美 航运 因新增“ 阿卡迪亚 号”，船队规模扩张至12艘。 （文章来源：新浪财经快讯）",
+     "title": "欧盟外交官表示 新增制裁对象包括约1,570家俄罗斯企业和个人",
+     "link": "http://finance.eastmoney.com/news/1351,202610063888824215.html",
+     "pubDate": "Tue, 06 Oct 2026 23:46:48 +0800",
+     "summary": "欧盟外交官表示，新增制裁对象包括约1,570家俄罗斯企业和个人，这些实体涉及 军工 综合 体，特别是导弹生产领域。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "荷美航运因新增“阿卡迪亚号” 船队规模扩张至12艘"
+     "zh": "欧盟外交官表示 新增制裁对象包括约1,570家俄罗斯企业和个人"
     },
     {
-     "title": "欧盟就发行计划下的后续资金需求发出需求建议书（RFP）",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888823026.html",
-     "pubDate": "Tue, 06 Oct 2026 23:38:20 +0800",
-     "summary": "欧盟就发行计划下的后续资金需求发出需求建议书（RFP）。 （文章来源：新浪财经快讯）",
+     "title": "欧盟外交官称 制裁影响约1650个新实体和个人 使与俄罗斯相关的制裁对象总数增加50%",
+     "link": "http://finance.eastmoney.com/news/1351,202610063888824034.html",
+     "pubDate": "Tue, 06 Oct 2026 23:46:48 +0800",
+     "summary": "欧盟外交官称，制裁影响约1650个新实体和个人，使与俄罗斯相关的制裁对象总数增加50%。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "欧盟就发行计划下的后续资金需求发出需求建议书（RFP）"
+     "zh": "欧盟外交官称 制裁影响约1650个新实体和个人 使与俄罗斯相关的制裁对象总数增加50%"
     },
     {
-     "title": "印度：一商船在阿曼附近海域遭袭 12名船员受伤",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888822979.html",
-     "pubDate": "Tue, 06 Oct 2026 23:38:20 +0800",
-     "summary": "印度外交部6日发表声明说，一艘悬挂巴拿马国旗的商船当日在阿曼附近海域通过霍尔木兹海峡时遭袭击，造成12名船员受伤，其中11人为印籍船员。 （文章来源：新浪财经快讯）",
+     "title": "智利政府预计2027年铜均价为每磅5.65美元",
+     "link": "http://finance.eastmoney.com/news/1351,202610063888823982.html",
+     "pubDate": "Tue, 06 Oct 2026 23:46:48 +0800",
+     "summary": "智利政府预计2027年 铜 均价为每磅5.65美元。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "印度：一商船在阿曼附近海域遭袭 12名船员受伤"
+     "zh": "智利政府预计2027年铜均价为每磅5.65美元"
     },
     {
-     "title": "嘴仗升级 南非美国外交关系持续趋紧",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888822865.html",
-     "pubDate": "Tue, 06 Oct 2026 23:38:20 +0800",
-     "summary": "对于近期美国驻南非大使再次发表干涉南非内部事务言论，南非国际关系与合作部长罗纳德·拉莫拉指出，美方大使如果不能做好作为外交官的分内之事，就该离职走人。 （文章来源：新浪财经快讯）",
+     "title": "沙特领导的联军称 拦截并摧毁了也门胡塞武装向哈米斯穆沙伊特发射的一枚弹道导弹",
+     "link": "http://finance.eastmoney.com/news/1351,202610063888824829.html",
+     "pubDate": "Tue, 06 Oct 2026 23:46:47 +0800",
+     "summary": "沙特领导的联军称，拦截并摧毁了也门胡塞武装向哈米斯穆沙伊特发射的一枚弹道导弹。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "嘴仗升级 南非美国外交关系持续趋紧"
-    },
-    {
-     "title": "Anthropic CEO earned $18M last year according to IPO filing: report",
-     "link": "https://seekingalpha.com/news/4650584-anthropic-ceo-earned-18m-last-year-according-to-ipo-filing-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 11:30:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anthropic CEO earned $18M last year according to IPO filing: report"
+     "zh": "沙特领导的联军称 拦截并摧毁了也门胡塞武装向哈米斯穆沙伊特发射的一枚弹道导弹"
     },
     {
      "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
@@ -2416,22 +2432,6 @@ window.INDUSTRY_DATA = {
      "summary": "The country is being hit by a pre-election debt sell-off. Many fear it could shake the Eurozone",
      "source": "Financial Times",
      "zh": "The bond market turns on France"
-    },
-    {
-     "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
-     "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-     "pubDate": "Tue, 06 Oct 2026 14:00:00 GMT",
-     "summary": "“He estimates the mortgage will be $10,000 a month once both homes are sold, or $14,000 if they are not sold in time.”",
-     "source": "MarketWatch",
-     "zh": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?"
-    },
-    {
-     "title": "Prediction markets are coming for pop culture",
-     "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
-     "pubDate": "Tue, 06 Oct 2026 13:58:00 GMT",
-     "summary": "What to know before buying event contracts around your favorite reality shows and entertainers.",
-     "source": "MarketWatch",
-     "zh": "Prediction markets are coming for pop culture"
     }
    ]
   },
@@ -2453,7 +2453,7 @@ window.INDUSTRY_DATA = {
      "title": "Amazon Prime Big Deal Days 2026: Best stargazing deals on telescopes and binoculars",
      "link": "https://www.livescience.com/products/optics/amazon-prime-big-deal-days-2026-best-stargazing-deals-on-telescopes-and-binoculars",
      "pubDate": "Tue, 06 Oct 2026 14:50:56 +0000",
-     "summary": "We've found the best deals on telescopes and binoculars in the Amazon Big Deal Days sale, helping you save money on stargazing gear ahead of winter.",
+     "summary": "It's World Space Week, and we've found the best deals on telescopes and binoculars in the Amazon Big Deal Days sale, helping you save money on the best stargazing gear ahead of winter.",
      "source": "Live Science",
      "zh": "Amazon Prime Big Deal Days 2026: Best stargazing deals on telescopes and binoculars"
     },

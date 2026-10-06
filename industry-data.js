@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/7 04:58:14",
+ "generated_at": "2026/10/7 05:07:16",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Programmable Memory Controller Eases Adoption of New DRAM Techniques (ETH Zürich, CISPA, NYU)",
+     "link": "https://semiengineering.com/programmable-memory-controller-eases-adoption-of-new-dram-techniques-eth-zurich-cispa-nyu/",
+     "pubDate": "Tue, 06 Oct 2026 20:58:05 +0000",
+     "summary": "Researchers at ETH Zürich, CISPA, and New York University published a technical paper titled “Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface and Memory Controller.” Abstract Excerpt: “DRAM continues to limit the performance, energy efficiency, and robustness o",
+     "source": "Semiconductor Engineering",
+     "zh": "Programmable Memory Controller Eases Adoption of New DRAM Techniques (ETH Zürich, CISPA, NYU)"
+    },
+    {
      "title": "Skyworks completes combination with Qorvo",
      "link": "https://www.semiconductor-today.com/news_items/2026/oct/skyworks-qorvo-061026.shtml",
      "pubDate": "Tue, 6 Oct 2026 20:44:24 +0100",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers at Huazhong University of Science and Technology, Hong Kong Polytechnic University, University of California, Santa Barbara, and National University of Singapore published a technical paper titled “Low contact resistance and high current density in ballistic p-type transistors based on o",
      "source": "Semiconductor Engineering",
      "zh": "Reducing Contact Resistance Pushes 2D Transistors Toward Advanced CMOS (HUST, PolyU, UCSB, NUS)"
-    },
-    {
-     "title": "Siemens CTO update on Calibre at DAC 2026",
-     "link": "https://semiwiki.com/eda/374292-siemens-cto-update-on-calibre-at-dac-2026/",
-     "pubDate": "Mon, 05 Oct 2026 17:00:22 +0000",
-     "summary": "At DAC 2026 I had the opportunity to speak with Juan Rey, CTO Siemens EDA about the Calibre product used for IC physical verification, circuit verification, 3D IC and DFM optimization. Juan has been involved with Calibre since 2001, served on the Board of Directors of Silicon Integration Initiative ",
-     "source": "SemiWiki",
-     "zh": "Siemens CTO update on Calibre at DAC 2026"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "This electric minivan is bringing an ’80s icon back to life",
+     "link": "https://electrek.co/2026/10/06/electric-minivan-bringing-80s-icon-back-to-life/",
+     "pubDate": "Tue, 06 Oct 2026 21:02:27 +0000",
+     "summary": "The E-Space Concept is an all-electric reboot of Renault’s iconic minivan from the 1980’s. more…",
+     "source": "Electrek",
+     "zh": "This electric minivan is bringing an ’80s icon back to life"
+    },
+    {
      "title": "Mitsubishi's Clone Of The Nissan Leaf Isn't All That Cheap",
      "link": "https://insideevs.com/news/810979/mitsubishi-eclipse-ev-more-expensive/",
      "pubDate": "Tue, 06 Oct 2026 20:46:41 +0000",
@@ -712,14 +720,6 @@ window.INDUSTRY_DATA = {
      "summary": "BMW is expected to reveal the new iX4 this week. Ahead of its debut, images of the new iX4 leaked online, offering an early look. more…",
      "source": "Electrek",
      "zh": "BMW’s new iX4 leaks days ahead of its debut [Images]"
-    },
-    {
-     "title": "Suzuki undercuts BYD with a $13,500 mini EV powered by BYD batteries",
-     "link": "https://electrek.co/2026/10/06/suzuki-undercuts-byd-13500-mini-ev-using-byd-batteries/",
-     "pubDate": "Tue, 06 Oct 2026 14:11:47 +0000",
-     "summary": "The e SKY, Suzuki’s first electric kei car, is expected to undercut BYD’s Racco as Japan’s cheapest mini EV, starting at around $13,500. more…",
-     "source": "Electrek",
-     "zh": "Suzuki undercuts BYD with a $13,500 mini EV powered by BYD batteries"
     },
     {
      "title": "Uber is spending $2.3B to get into catering",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Europe's Power Grid Is Digitalizing Faster Than Regulators Can Keep Up",
+     "link": "https://oilprice.com/Energy/Energy-General/Europes-Power-Grid-Is-Digitalizing-Faster-Than-Regulators-Can-Keep-Up.html",
+     "pubDate": "Tue, 06 Oct 2026 16:00:00 -0500",
+     "summary": "The global energy landscape is undergoing a rapid transformation as the age of electrification takes hold and the runway growth of artificial intelligence introduces new challenges and possibilities for energy production and use, as well as the ways that our power grids operate. As a result, an incr",
+     "source": "OilPrice",
+     "zh": "Europe's Power Grid Is Digitalizing Faster Than Regulators Can Keep Up"
+    },
+    {
      "title": "Halliburton Shuns Falklands Oil Project",
      "link": "https://oilprice.com/Energy/Energy-General/Halliburton-Shuns-Falklands-Oil-Project.html",
      "pubDate": "Tue, 06 Oct 2026 15:00:00 -0500",
@@ -888,14 +896,6 @@ window.INDUSTRY_DATA = {
      "summary": "It was hoped SpaceX’s blockbuster June flotation would add rocket boosters to the global IPO market. But four months on, momentum has come crashing back down to earth. Wall Street IPOs have slowed considerably since Elon Musk’s $75bn (£56.7bn) listing, damaging what was once expected to be a quarter",
      "source": "OilPrice",
      "zh": "IPO Market Stalls Four Months After SpaceX's $75 Billion Debut"
-    },
-    {
-     "title": "Saudi East-West Pipeline Moves 5.8 Million Barrels as Red Sea Route Recovers",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-East-West-Pipeline-Moves-58-Million-Barrels-as-Red-Sea-Route-Recovers.html",
-     "pubDate": "Tue, 06 Oct 2026 11:30:00 -0500",
-     "summary": "Saudi Arabia’s East-West pipeline had moved 5.8 million barrels of crude as of Tuesday morning, Energy Minister Prince Abdulaziz bin Salman said, adding more oil to the kingdom’s Red Sea export route as Gulf producers continue working around the Strait of Hormuz. The pipeline carries crude across Sa",
-     "source": "OilPrice",
-     "zh": "Saudi East-West Pipeline Moves 5.8 Million Barrels as Red Sea Route Recovers"
     },
     {
      "title": "Maryland nets 440 MW/1,760 MWh in first bulk energy storage procurement",
@@ -1538,6 +1538,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+     "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+     "pubDate": "Tue, 06 Oct 2026 17:00:27 -0400",
+     "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
+     "source": "BleepingComputer",
+     "zh": "Ninja Forms plugin flaw exploited to hack WordPress sites"
+    },
+    {
      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
      "pubDate": "Tue, 06 Oct 2026 20:32:58 GMT",
@@ -1658,14 +1666,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks"
     },
     {
-     "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-     "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-     "pubDate": "Tue, 06 Oct 2026 07:31:48 -0400",
-     "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
-     "source": "BleepingComputer",
-     "zh": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits"
-    },
-    {
      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
      "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
      "pubDate": "Tue, 06 Oct 2026 16:56:25 +0530",
@@ -1738,6 +1738,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "小米米家智能晾衣机 3 Max 今日开售：首创柔烘除菌专区，首发国补价 2699 元",
+     "link": "https://www.ithome.com/1/010/126.htm",
+     "pubDate": "Tue, 06 Oct 2026 20:59:09 GMT",
+     "summary": "IT之家 10 月 7 日消息，米家智能晾衣机 3 Max 今日 20:00 正式开售，首发国补价 2698.75 元。 京东 米家【重磅新品】电动晾衣架 3 Max 柔烘除菌超薄隐形阳台智能升降晾衣机 2698.75 元 直达链接 该机是米家首款柔烘除菌晾衣机，首创米家半封闭式柔烘专区。衣物平铺在晾晒网上后，启动干衣或除菌功能时，晾杆组件自动上升贴近风口，形成半封闭柔烘专区，通过热风循环锁温实现更快干衣与除菌。 据介绍，柔烘专区支持标准烘、智能烘、柔护风三种模式。标准烘以均匀热风快速干衣，智能烘通过湿度感应自动调节风温，柔护风以自然风呵护娇贵衣物。三种模式均需通过米家 App 调控。 官方称",
+     "source": "IT之家",
+     "zh": "小米米家智能晾衣机 3 Max 今日开售：首创柔烘除菌专区，首发国补价 2699 元"
+    },
+    {
+     "title": "Building Git infrastructure for agent-scale development",
+     "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+     "pubDate": "Tue, 06 Oct 2026 20:57:56 +0000",
+     "summary": "Writes are accelerating, and this growth can add stress to systems all repos depend on. Here's our approach to building architecture that can scale. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog .",
+     "source": "GitHub Blog",
+     "zh": "Building Git infrastructure for agent-scale development"
+    },
+    {
+     "title": "102 Best Prime Day Deals We’re Shopping This October (2026)",
+     "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
+     "pubDate": "Tue, 06 Oct 2026 20:54:57 +0000",
+     "summary": "Amazon Prime Big Deal Days are here and we’ve tracked down the best discounts on all the gear our team recommends.",
+     "source": "WIRED",
+     "zh": "102 Best Prime Day Deals We’re Shopping This October (2026)"
+    },
+    {
      "title": "Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max) (Artificial Analysis)",
      "link": "https://www.techmeme.com/261006/p38#a261006p38",
      "pubDate": "Tue, 06 Oct 2026 16:50:00 -0400",
@@ -1770,20 +1794,44 @@ window.INDUSTRY_DATA = {
      "zh": "Amazon Prime Day Deals Under $50 in October 2026"
     },
     {
+     "title": "OpenSSH 10.6 Released",
+     "link": "https://www.openssh.org/releasenotes.html#10.6",
+     "pubDate": "Tue, 06 Oct 2026 20:41:39 +0000",
+     "summary": "Article URL: https://www.openssh.org/releasenotes.html#10.6 Comments URL: https://news.ycombinator.com/item?id=49983791 Points: 5 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "OpenSSH 10.6 Released"
+    },
+    {
      "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
      "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
      "pubDate": "Tue, 06 Oct 2026 20:33:47 +0000",
-     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/ Comments URL: https://news.ycombinator.com/item?id=49983703 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/ Comments URL: https://news.ycombinator.com/item?id=49983703 Points: 30 # Comments: 16",
      "source": "Hacker News",
      "zh": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth"
     },
     {
-     "title": "Capitolis, which develops tech for banks and financial institutions, raised $220M, including a $120M Series E at a $1.9B valuation, up from $1.6B in 2022 (Meir Orbach/CTech)",
+     "title": "System-level ad-blocking in Android",
+     "link": "https://kevinboone.me/adblock.html",
+     "pubDate": "Tue, 06 Oct 2026 20:29:10 +0000",
+     "summary": "Article URL: https://kevinboone.me/adblock.html Comments URL: https://news.ycombinator.com/item?id=49983647 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "System-level ad-blocking in Android"
+    },
+    {
+     "title": "Capitolis, which develops tech for banks and financial institutions, raised $220M, including a $120M Series E at a $1.9B valuation, up from $1.6B in March 2022 (Meir Orbach/CTech)",
      "link": "https://www.techmeme.com/261006/p37#a261006p37",
      "pubDate": "Tue, 06 Oct 2026 16:25:01 -0400",
-     "summary": "Meir Orbach / CTech : Capitolis, which develops tech for banks and financial institutions, raised $220M, including a $120M Series E at a $1.9B valuation, up from $1.6B in 2022 &nbsp; &mdash;&nbsp; Citi, Bank of America, Nomura, Tradeweb, J.P. Morgan, UBS and other major financial institutions are ba",
+     "summary": "Meir Orbach / CTech : Capitolis, which develops tech for banks and financial institutions, raised $220M, including a $120M Series E at a $1.9B valuation, up from $1.6B in March 2022 &nbsp; &mdash;&nbsp; Citi, Bank of America, Nomura, Tradeweb, J.P. Morgan, UBS and other major financial institutions ",
      "source": "Techmeme",
-     "zh": "Capitolis, which develops tech for banks and financial institutions, raised $220M, including a $120M Series E at a $1.9B valuation, up from $1.6B in 2022 (Meir Orbach/CTech)"
+     "zh": "Capitolis, which develops tech for banks and financial institutions, raised $220M, including a $120M Series E at a $1.9B valuation, up from $1.6B in March 2022 (Meir Orbach/CTech)"
+    },
+    {
+     "title": "Meta's Muse AI agent is building a dossier on you",
+     "link": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
+     "pubDate": "Tue, 06 Oct 2026 20:24:45 +0000",
+     "summary": "Article URL: https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/ Comments URL: https://news.ycombinator.com/item?id=49983579 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Meta's Muse AI agent is building a dossier on you"
     },
     {
      "title": "Best Amazon Prime Day Vacuum Deals: Dyson, Shark, and Robot Vacuums (2026)",
@@ -1794,18 +1842,18 @@ window.INDUSTRY_DATA = {
      "zh": "Best Amazon Prime Day Vacuum Deals: Dyson, Shark, and Robot Vacuums (2026)"
     },
     {
-     "title": "Anthropic says it found 5.5K+ verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity (Reuters)",
+     "title": "Anthropic says it found 5,500 verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity (Reuters)",
      "link": "https://www.techmeme.com/261006/p36#a261006p36",
      "pubDate": "Tue, 06 Oct 2026 16:00:49 -0400",
-     "summary": "Reuters : Anthropic says it found 5.5K+ verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity &nbsp; &mdash;&nbsp; Anthropic is expanding a program that allows vetted cybersecurity professionals to test its most powerful AI mo",
+     "summary": "Reuters : Anthropic says it found 5,500 verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity &nbsp; &mdash;&nbsp; Anthropic is expanding a program that allows vetted cybersecurity professionals to test its most powerful AI mo",
      "source": "Techmeme",
-     "zh": "Anthropic says it found 5.5K+ verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity (Reuters)"
+     "zh": "Anthropic says it found 5,500 verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity (Reuters)"
     },
     {
      "title": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
      "link": "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/",
      "pubDate": "Tue, 06 Oct 2026 19:55:11 +0000",
-     "summary": "Article URL: https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/ Comments URL: https://news.ycombinator.com/item?id=49983226 Points: 56 # Comments: 15",
+     "summary": "Article URL: https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/ Comments URL: https://news.ycombinator.com/item?id=49983226 Points: 77 # Comments: 23",
      "source": "Hacker News",
      "zh": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage"
     },
@@ -1837,17 +1885,9 @@ window.INDUSTRY_DATA = {
      "title": "A sustainable web career, for when all this blows over",
      "link": "https://dbushell.com/2026/10/07/sustainable-web-career/",
      "pubDate": "Tue, 06 Oct 2026 19:31:24 +0000",
-     "summary": "Article URL: https://dbushell.com/2026/10/07/sustainable-web-career/ Comments URL: https://news.ycombinator.com/item?id=49982921 Points: 10 # Comments: 3",
+     "summary": "Article URL: https://dbushell.com/2026/10/07/sustainable-web-career/ Comments URL: https://news.ycombinator.com/item?id=49982921 Points: 39 # Comments: 42",
      "source": "Hacker News",
      "zh": "A sustainable web career, for when all this blows over"
-    },
-    {
-     "title": "Berthd",
-     "link": "https://berthd.app/",
-     "pubDate": "Tue, 06 Oct 2026 19:14:19 +0000",
-     "summary": "Article URL: https://berthd.app/ Comments URL: https://news.ycombinator.com/item?id=49982735 Points: 32 # Comments: 35",
-     "source": "Hacker News",
-     "zh": "Berthd"
     },
     {
      "title": "Everybody’s Favorite Art TV Is Nearly Half Off for Prime Day (2026)",
@@ -1864,14 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
      "source": "WIRED",
      "zh": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers"
-    },
-    {
-     "title": "Apple AirPods Max 2 Are $120 Off Right Now During Prime Day (2026)",
-     "link": "https://www.wired.com/story/apple-airpods-max-2-deal-october-2026/",
-     "pubDate": "Tue, 06 Oct 2026 18:43:27 +0000",
-     "summary": "They’re the best over-ear headphones for Apple loyalists, and over 20 percent off at multiple retailers right now.",
-     "source": "WIRED",
-     "zh": "Apple AirPods Max 2 Are $120 Off Right Now During Prime Day (2026)"
     },
     {
      "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
@@ -1930,14 +1962,6 @@ window.INDUSTRY_DATA = {
      "zh": "Googlebook \"Better Together\" phone features don't work with Samsung at launch"
     },
     {
-     "title": "EmbeddingGemma 2",
-     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-     "pubDate": "Tue, 06 Oct 2026 16:03:49 +0000",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/ Comments URL: https://news.ycombinator.com/item?id=49980487 Points: 32 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "EmbeddingGemma 2"
-    },
-    {
      "title": "Why is NASA bringing 7,500 contractors back to work as civil servants?",
      "link": "https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/",
      "pubDate": "Tue, 06 Oct 2026 16:00:02 +0000",
@@ -1946,36 +1970,12 @@ window.INDUSTRY_DATA = {
      "zh": "Why is NASA bringing 7,500 contractors back to work as civil servants?"
     },
     {
-     "title": "The Early History of Smalltalk (1993)",
-     "link": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
-     "pubDate": "Tue, 06 Oct 2026 15:19:57 +0000",
-     "summary": "Article URL: https://worrydream.com/EarlyHistoryOfSmalltalk/ Comments URL: https://news.ycombinator.com/item?id=49979845 Points: 84 # Comments: 38",
-     "source": "Hacker News",
-     "zh": "The Early History of Smalltalk (1993)"
-    },
-    {
      "title": "德国交通部长：希望特斯拉 FSD（监督版）辅助驾驶系统能在欧盟获批",
      "link": "https://www.ithome.com/1/010/124.htm",
      "pubDate": "Tue, 06 Oct 2026 15:06:34 GMT",
      "summary": "IT之家 10 月 6 日消息，据外媒 Golem 今天报道，德国联邦交通部长施特芬 · 比尔格表示， 他希望特斯拉 FSD（监督版）辅助驾驶系统能在欧盟范围内获批 ，他认为欧盟能够统一审批类似系统具有积极意义。 比尔格表示，特斯拉 FSD（监督版）的审批工作涉及很多有待解决的技术问题， 同时还要划分好责任认定等 。对他而言，推动创新落地是最重要的目的。 这位交通部长还表示，FSD 监督版有望提升德国道路交通安全。他希望这套系统能够尽快在欧洲投入使用。 IT之家注意到，特斯拉曾在今年 4 月明确表示，FSD（监督版）将于未来几个月内在整个欧盟范围内获批。该系统可让驾驶员大幅减少对车辆的控制操作",
      "source": "IT之家",
      "zh": "德国交通部长：希望特斯拉 FSD（监督版）辅助驾驶系统能在欧盟获批"
-    },
-    {
-     "title": "《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线",
-     "link": "https://www.ithome.com/1/010/123.htm",
-     "pubDate": "Tue, 06 Oct 2026 14:49:57 GMT",
-     "summary": "IT之家 10 月 6 日消息，鹰角网络今日发布《明日方舟：终末地》「丹青渡」版本前瞻视频， 确认本作即将支持搭载英伟达 RTX Spark 处理器的笔记本 。 据介绍，《明日方舟：终末地》将在更新后支持即将上市的英伟达 RTX Spark 笔记本电脑，玩家未来可以使用这些笔记本游玩本作。 IT之家注意到，在 6 月的 2026 台北国际电脑展主题演讲中， 英伟达 CEO 黄仁勋正式宣布推出 RTX Spark PC 处理器 ，首批搭载该处理器的笔记本将在今年秋季推出。 Surface Laptop Ultra ：专为全球创客和创意专业人士打造，搭载 15 英寸 mini-LED PixelS",
-     "source": "IT之家",
-     "zh": "《明日方舟：终末地》游戏将支持英伟达 RTX Spark 笔记本，「丹青渡」版本上线"
-    },
-    {
-     "title": "AMD 股价创历史新高！CEO 苏姿丰称 AI 芯片需求非常旺盛，将持续大幅扩产",
-     "link": "https://www.ithome.com/1/010/114.htm",
-     "pubDate": "Tue, 06 Oct 2026 14:30:54 GMT",
-     "summary": "IT之家 10 月 6 日消息，AMD 盘初涨近 3%，报 649.88 美元 （IT之家注：现汇率约合 4,364 元人民币） ， 创历史新高 ，市值达 1.06 万亿美元 （现汇率约合 7.12 万亿元人民币） 。 开盘后 AMD 股价有所回落，目前涨超 2%，报 646.48 美元 （现汇率约合 4,335 元人民币）。 AMD CEO 苏姿丰今日在受访时表示，2026 年整体运算市场需求极为强劲，AMD 虽已同步扩充产能，但当前需求依然远高于供给。面对供不应求的现况， AMD 正全力拉升供货，预计 2027 年将大幅扩增产能 。 上月，AMD 股价累计上涨约 30%，总市值首次突破 1",
-     "source": "IT之家",
-     "zh": "AMD 股价创历史新高！CEO 苏姿丰称 AI 芯片需求非常旺盛，将持续大幅扩产"
     }
    ]
   },
@@ -1985,6 +1985,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Nikon Z8 hits its lowest price yet: The Prime Big Deal Days camera deals worth a look",
+     "link": "https://www.dpreview.com/news/nikon-z8-hits-its-lowest-price-yet-the-prime-big-deal-days-camera-deals-worth-a/",
+     "pubDate": "Tue, 06 Oct 2026 20:56:43 +0000",
+     "summary": "Nikon's Z8 and Sony's 50mm F1.4 GM are at the lowest prices we've seen. Memory cards and SSDs are discounted too, but still cost far more than they did a year ago.",
+     "source": "DPReview",
+     "zh": "Nikon Z8 hits its lowest price yet: The Prime Big Deal Days camera deals worth a look"
+    },
     {
      "title": "Google’s latest version of Nano Banana ups the visual quality and consistency",
      "link": "https://www.androidauthority.com/google-launches-nano-banana-2-1-3719823/",
@@ -2216,14 +2224,6 @@ window.INDUSTRY_DATA = {
      "summary": "Amazon has launched Prime Big Deal Days – unlike the previous Prime event, this one will only last two days, so you don’t have much time to consider. Here are the best smartphone offers, organized by category. Table of Contents: Flagships Foldables Mid-range and entry-level Flagships The Samsung Gal",
      "source": "GSMArena",
      "zh": "Deals: Amazon's Prime Day sale is live, here are the best flagship and foldable offers"
-    },
-    {
-     "title": "vivo S2 FE arrives with a massive 10,000mAh battery",
-     "link": "https://www.gsmarena.com/vivo_s2_fe_goes_official_with_a_massive_10000mah_battery-news-74923.php",
-     "pubDate": "Tue, 06 Oct 2026 16:49:02 +0200",
-     "summary": "After bringing its S-series back to India with the vivo S2 in August, the company has now expanded the lineup with the new vivo S2 FE. The phone features a massive 10,000mAh battery and a large 6.83 inch display. The vivo S2 FE packs the company’s largest battery at 10,000mAh, while also offering 44",
-     "source": "GSMArena",
-     "zh": "vivo S2 FE arrives with a massive 10,000mAh battery"
     }
    ]
   },
@@ -2233,6 +2233,22 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Isabella Bank and Grand River Commerce receive regulatory approval for merger",
+     "link": "https://seekingalpha.com/news/4650771-isabella-bank-and-grand-river-commerce-receive-regulatory-approval-for-merger?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 17:00:07 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Isabella Bank and Grand River Commerce receive regulatory approval for merger"
+    },
+    {
+     "title": "Black Hills surges on deal to serve planned Google data center in Wyoming",
+     "link": "https://seekingalpha.com/news/4650764-black-hills-surges-on-deal-to-serve-planned-google-data-center-in-wyoming?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 16:56:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Black Hills surges on deal to serve planned Google data center in Wyoming"
+    },
     {
      "title": "Alvotech taps LOTTE Biologics to support growing biosimilar portfolio",
      "link": "https://seekingalpha.com/news/4650768-alvotech-taps-lotte-biologics-to-support-growing-biosimilar-portfolio?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2274,12 +2290,12 @@ window.INDUSTRY_DATA = {
      "zh": "Navitas Semiconductor closes deal for Claros"
     },
     {
-     "title": "Curtiss-Wright CFO steps down",
-     "link": "https://seekingalpha.com/news/4650763-curtiss-wright-cfo-steps-down?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 16:41:55 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Curtiss-Wright CFO steps down"
+     "title": "Anthropic扩大先进AI模型访问权限 允许特定机构开展网络安全测试",
+     "link": "http://finance.eastmoney.com/news/1360,202610073888830275.html",
+     "pubDate": "Wed, 07 Oct 2026 04:45:59 +0800",
+     "summary": "Anthropic正与美国政府合作，扩大其最先进AI模型的使用权限，允许一批经过筛选的机构测试这家初创公司的尖端网络能力。根据周二发布的声明，这家总部位于旧金山的公司将允许经过验证的机构使用其能力最强的模型，包括Claude Opus 5.5、Claude Sonnet 5.5、Claude Mythos 5.1，以及未来推出的新模型。声明称，获得权限的机构可以对旨在保护电网、 银行 和航班运行系统等关键基础设施的安全系统进行“高风险攻击性测试”。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "Anthropic扩大先进AI模型访问权限 允许特定机构开展网络安全测试"
     },
     {
      "title": "Plaid launches credit, fraud and payment risk AI models",
@@ -2298,14 +2314,6 @@ window.INDUSTRY_DATA = {
      "zh": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx."
     },
     {
-     "title": "CL Workshop Group GAAP EPS of -$0.11, revenue of $2.96M",
-     "link": "https://seekingalpha.com/news/4650765-nature-wood-group-gaap-eps-of-0_11-revenue-of-2_96m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 16:35:35 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CL Workshop Group GAAP EPS of -$0.11, revenue of $2.96M"
-    },
-    {
      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
      "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
      "pubDate": "Tue, 06 Oct 2026 20:24:00 GMT",
@@ -2314,12 +2322,36 @@ window.INDUSTRY_DATA = {
      "zh": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies"
     },
     {
+     "title": "捷蓝航空获得美国联邦航空管理局批准 将接管精神航空原有的22个拉瓜迪亚机场起降时刻",
+     "link": "http://finance.eastmoney.com/news/1354,202610073888830138.html",
+     "pubDate": "Wed, 07 Oct 2026 04:23:04 +0800",
+     "summary": "捷蓝航空 获得美国联邦航空管理局批准，将接管精神航空原有的22个拉瓜迪亚 机场 起降时刻。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "捷蓝航空获得美国联邦航空管理局批准 将接管精神航空原有的22个拉瓜迪亚机场起降时刻"
+    },
+    {
+     "title": "美国总统特朗普表示 俄乌冲突正越来越接近结束",
+     "link": "http://finance.eastmoney.com/news/11790,202610073888830073.html",
+     "pubDate": "Wed, 07 Oct 2026 04:21:54 +0800",
+     "summary": "美国总统特朗普表示，俄乌冲突正越来越接近结束。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国总统特朗普表示 俄乌冲突正越来越接近结束"
+    },
+    {
      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
      "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
      "pubDate": "Tue, 06 Oct 2026 20:21:00 GMT",
      "summary": "Marvell’s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
      "source": "MarketWatch",
      "zh": "Marvell just impressed Wall Street with ‘good numbers plus a better story’"
+    },
+    {
+     "title": "超威半导体今日宣布 将于2026年11月3日（周二）美股收盘后 正式公布2026财年第三季度财务业绩",
+     "link": "http://stock.eastmoney.com/news/1440,202610073888829987.html",
+     "pubDate": "Wed, 07 Oct 2026 04:18:51 +0800",
+     "summary": "超威半导体 （ 纳斯达克 代码：AMD）今日宣布，将于2026年11月3日（周二）美股收盘后，正式公布2026财年第三季度财务业绩。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "超威半导体今日宣布 将于2026年11月3日（周二）美股收盘后 正式公布2026财年第三季度财务业绩"
     },
     {
      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
@@ -2338,20 +2370,28 @@ window.INDUSTRY_DATA = {
      "zh": "Trump hedges on paying back government for ads that already aired"
     },
     {
+     "title": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂 以强化日本半导体供应链",
+     "link": "http://finance.eastmoney.com/news/1360,202610073888829587.html",
+     "pubDate": "Wed, 07 Oct 2026 04:08:11 +0800",
+     "summary": "日本 半导体 设备制造商TOWA计划建设芯片制造设备工厂，以强化日本 半导体 供应链。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂 以强化日本半导体供应链"
+    },
+    {
+     "title": "纳斯达克中国金龙指数收涨0.31%",
+     "link": "http://hk.eastmoney.com/news/11792,202610073888829498.html",
+     "pubDate": "Wed, 07 Oct 2026 04:01:50 +0800",
+     "summary": "纳斯达克 中国金龙指数收涨0.31%，热门中概股涨跌不一， 万国数据 涨近6%， 蔚来 、 小鹏集团 、 哔哩哔哩 、 知乎 涨超1%， 阿里巴巴 、 爱奇艺 跌超1%。",
+     "source": "东方财富股票",
+     "zh": "纳斯达克中国金龙指数收涨0.31%"
+    },
+    {
      "title": "Ships’ captains paid $100,000 a month to transit Strait of Hormuz",
      "link": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1",
      "pubDate": "Tue, 06 Oct 2026 20:00:08 GMT",
      "summary": "Salaries and bonuses spiral for seafarers willing to risk perilous trip through waterway in face of Iranian attacks",
      "source": "Financial Times",
      "zh": "Ships’ captains paid $100,000 a month to transit Strait of Hormuz"
-    },
-    {
-     "title": "美股三大指数集体收涨 纳指、标普500指数创收盘新高",
-     "link": "http://finance.eastmoney.com/news/1345,202610063888799071.html",
-     "pubDate": "Wed, 07 Oct 2026 04:00:00 +0800",
-     "summary": "美东时间周二，美股三大指数集体收涨，截至收盘，道指涨0.49%，纳指涨0.45%，标普500指数涨0.58%，纳指、标普500指数创收盘新高。 热门科技股多数上涨， 博通 涨超3%， 亚马逊 涨近2%。 光 通信 、通讯设备、 储能概念 股涨幅居前， 诺基亚 涨超7%， 康宁 涨超6%， 迈威尔科技 涨超5%， 思科 涨超4%。 存储概念、 百货 公司跌幅居前，迪拉德 百货 跌超10%， 希捷科技 跌超9%， 西部数据 、 SK海力士 跌超6%， 闪迪 跌超2%。 纳斯达克 中国金龙指数收涨0.31%，热门中概股涨跌不一， 万国数据 涨近6%， 蔚来 、 小鹏集团 、 哔哩哔哩 、 知乎 涨超",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体收涨 纳指、标普500指数创收盘新高"
     },
     {
      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
@@ -2432,46 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "Crypto exchange OKX has secured strategic investment from Circle, QRT, Ripple and SC Ventures at a $25 billion valuation.",
      "source": "Finextra",
      "zh": "Circle, Ripple and Standard Chartered invest in OKX"
-    },
-    {
-     "title": "EIA大幅上调布油油价预期：2026年均价上调8%，Q4均价上调15%",
-     "link": "https://wallstreetcn.com/articles/3783079",
-     "pubDate": "Wed, 07 Oct 2026 01:23:43 +0800",
-     "summary": "全球石油市场正承受伊朗战争带来的持续冲击。美国能源信息署（EIA）周二大幅上调今明两年油价预期，理由是全球库存加速下滑、柴油市场持续偏紧，霍尔木兹海峡油流受阻的影响远未消退。 据EIA最新发布的短期能源展望报告，全球基准布伦特原油2026年均价预期被上调至约每桶98美元，较此前预测高出8%。 与此同时，布伦特四季度均价预期约为每桶105美元，较EIA此前估计高出15%。 美国零售柴油价格上月已创历史新高，EIA预计10月仍将维持在每加仑6美元以上。油价高企直接推升能源成本，对企业和消费者构成实质压力。 周二截至发稿，布伦特原油期货上涨0.22%，报100.54美元/桶。 EIA预期2027年油",
-     "source": "华尔街见闻",
-     "zh": "EIA大幅上调布油油价预期：2026年均价上调8%，Q4均价上调15%"
-    },
-    {
-     "title": "美联储拟大改银行监管机制，副主席Bowman：重组区域架构并调整资产门槛",
-     "link": "https://wallstreetcn.com/articles/3783081",
-     "pubDate": "Wed, 07 Oct 2026 01:02:15 +0800",
-     "summary": "美联储计划对其银行监管体系实施大规模重组，以强化华盛顿的问责权威，并将着手更新触发更严格监管规则的资产门槛标准。 美联储监管副主席Michelle Bowman周二表示， 此次重组将把现有的12个联储地区行监管职能整合为五个新地理区域 ，每个区域将设立专职\"区域负责人\"，统一负责辖区内全部监管工作。这一调整旨在改变此前权责分散的格局。 Bowman同时宣布， 美联储今年晚些时候将审议更新银行资产门槛，以决定何时对银行适用更严格的监管规则。 上述改革是Bowman自2025年出任美联储首席监管官以来推动的一系列整改措施的组成部分。 在监管架构调整之外，她还宣布将考虑引入每五年自动更新一次的资产门",
-     "source": "华尔街见闻",
-     "zh": "美联储拟大改银行监管机制，副主席Bowman：重组区域架构并调整资产门槛"
-    },
-    {
-     "title": "共和党斥AI危险论，民主党质疑“大厂”影响特朗普AI政策，要求披露监管框架修改过程",
-     "link": "https://wallstreetcn.com/articles/3783082",
-     "pubDate": "Wed, 07 Oct 2026 00:39:48 +0800",
-     "summary": "美东时间10月6日周二公开的信函显示，美国民主党参议员沃伦（Elizabeth Warren）和布卢门撒尔（Richard Blumenthal）本周一致信美国财长贝森特、商务部长卢特尼克等特朗普政府高官，要求说明科技巨头是否通过游说影响了政府的AI监管政策，并披露相关监管框架及测试机制的具体内容。 两名参议员在信中直指，特朗普政府正在“迎合大型科技公司CEO的利益”，而不是应对日益强大的AI系统带来的安全和国家安全风险。他们要求政府“停止将行业利润置于美国民众利益之上”。 共和党参议员莫雷诺（Bernie Moreno）则在本周一致信Anthropic CEO 阿莫代伊（Dario Amod",
-     "source": "华尔街见闻",
-     "zh": "共和党斥AI危险论，民主党质疑“大厂”影响特朗普AI政策，要求披露监管框架修改过程"
-    },
-    {
-     "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-     "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
-     "pubDate": "Tue, 06 Oct 2026 16:19:10 GMT",
-     "summary": "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz choke point.",
-     "source": "CNBC",
-     "zh": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks"
-    },
-    {
-     "title": "谷歌发布EmbeddingGemma 2：7.4亿参数多模态嵌入模型，主打端侧隐私搜索",
-     "link": "https://wallstreetcn.com/articles/3783080",
-     "pubDate": "Wed, 07 Oct 2026 00:05:23 +0800",
-     "summary": "谷歌于周一推出EmbeddingGemma 2，这是其面向设备端部署的多模态嵌入模型新一代产品，可在本地硬件上统一处理文本、图像、音频与视频，主打数据隐私保护与离线推理能力，对移动端AI应用开发者具有直接吸引力。 新模型拥有7.4亿参数，基于Gemma 4架构构建，采用Apache 2.0商业友好型许可证开源发布。 谷歌表示，该模型在MTEB代码评测中较上一代提升9.92分，并在sub-1B规模多模态嵌入模型中取得领先基准成绩，部分指标甚至超越体量两倍以上的专项模型。 EmbeddingGemma 2将直接影响以本地搜索、隐私优先RAG（检索增强生成）流水线为核心场景的应用开发格局。 上一代产",
-     "source": "华尔街见闻",
-     "zh": "谷歌发布EmbeddingGemma 2：7.4亿参数多模态嵌入模型，主打端侧隐私搜索"
     }
    ]
   },
@@ -2481,6 +2481,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Supercomputing researchers document evolution of AI hardware",
+     "link": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+     "pubDate": "Tue, 06 Oct 2026 16:55:00 -0400",
+     "summary": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors.",
+     "source": "MIT News",
+     "zh": "Supercomputing researchers document evolution of AI hardware"
+    },
     {
      "title": "Earth is in the firing line of a strange new type of cosmic object, astronomers say",
      "link": "https://www.livescience.com/space/black-holes/earth-is-in-the-firing-line-of-a-strange-new-type-of-cosmic-object-a-microblazar",
@@ -2712,14 +2720,6 @@ window.INDUSTRY_DATA = {
      "summary": "Able to defeat top-ranked human players and more efficient than other models, the new system could help decision-makers in military maneuvers or business negotiations.",
      "source": "MIT News",
      "zh": "This game-playing AI is the new champ at Stratego"
-    },
-    {
-     "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings",
-     "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-     "pubDate": "Wed, 30 Sep 2026 14:52:12 +0000",
-     "summary": "Unexpected patterns traveling across the human brain may be reorganizing its activity in real time. The post Surprisingly Complex Waves Reveal the Brain’s Inner Workings first appeared on Quanta Magazine",
-     "source": "Quanta Magazine",
-     "zh": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/7 00:10:36",
+ "generated_at": "2026/10/7 00:21:02",
  "recent_days": 7,
  "industries": [
   {
@@ -257,12 +257,12 @@
    "total": 9,
    "items": [
     {
-     "title": "Microchip, Navitas 800V DC-to-6V DC reference design for AI datacentres",
-     "link": "https://www.electronicsweekly.com/news/microchip-navitas-800v-dc-to-6v-dc-reference-design-for-ai-datacentres-2026-10/",
-     "pubDate": "Tue, 06 Oct 2026 15:36:31 +0000",
-     "summary": "Microchip Technology and Navitas Semiconductor have partnered to collaborate on an 800V DC-to-6V DC reference design for AI datacentre rack power applications. It combines Microchip’s digital power control and security […] The post Microchip, Navitas 800V DC-to-6V DC reference design for AI datacent",
-     "source": "Electronics Weekly",
-     "zh": "Microchip, Navitas 800V DC-to-6V DC reference design for AI datacentres"
+     "title": "Renesas adds first 100V E-mode FETs to low-voltage GaN portfolio",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/renesas-061026.shtml",
+     "pubDate": "Tue, 6 Oct 2026 17:12:38 +0100",
+     "summary": "Renesas Electronics Corp of Tokyo, Japan has expanded its gallium nitride (GaN) portfolio into low-voltage applications with its first family of 100V enhancement-mode (E-mode) GaN-based discrete power transistors. The RTP100E005G1FL, RTP100E2P6G1FL, RTP100E1P8G1FL-DSC and RTP100E1P2G1FL-DSC low-volt",
+     "source": "Semiconductor Today",
+     "zh": "Renesas adds first 100V E-mode FETs to low-voltage GaN portfolio"
     },
     {
      "title": "Solving the Five Hard Problems of NFC Antenna Integration at 13.56 MHz",
@@ -385,6 +385,14 @@
      "zh": "Greece’s METLEN signs second long-term commercial gallium supply agreement"
     },
     {
+     "title": "Arm vs Qualcomm episode 2",
+     "link": "https://www.electronicsweekly.com/news/business/arm-vs-qualcomm-episode-2-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 05:16:23 +0000",
+     "summary": "Yesterday a second trial in the Qualcomm vs Arm legal marathon opened in Delaware. It is before a jury and slated to last five days. The original Qualcomm vs Arm […] The post Arm vs Qualcomm episode 2 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Arm vs Qualcomm episode 2"
+    },
+    {
      "title": "Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027",
      "link": "https://www.eetimes.com/kepler-aims-to-launch-energy-saving-replacement-for-hbm-in-2027/",
      "pubDate": "Mon, 05 Oct 2026 20:00:00 +0000",
@@ -439,14 +447,6 @@
      "summary": "Researchers at the Ferdinand-Braun-Institut, Leibniz-Institut für Höchstfrequenztechnik (FBH) of Berlin, Germany, and the Institute of Photonics at University of Strathclyde and the LiFi Research and Development Centre at University of Cambridge in the UK, have transmitted data at up to 1.5Gbps usin",
      "source": "Semiconductor Today",
      "zh": "Far-UVC LEDs transmit data at record speed of 1.5Gbps"
-    },
-    {
-     "title": "Cardiff Capital Region’s £160m 10-year Investment Zone program moving into delivery",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/ccr-051026.shtml",
-     "pubDate": "Mon, 5 Oct 2026 08:42:03 +0100",
-     "summary": "Cardiff Capital Region (CCR) says that its £160m 10-year Investment Zone program is moving into delivery, marking a major step forward in the region’s ambition to become a global hub for advanced manufacturing and digital technologies...",
-     "source": "Semiconductor Today",
-     "zh": "Cardiff Capital Region’s £160m 10-year Investment Zone program moving into delivery"
     },
     {
      "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
@@ -1057,6 +1057,14 @@
    "total": 7,
    "items": [
     {
+     "title": "ArriVent collapses on disappointing lung cancer data",
+     "link": "https://www.biopharmadive.com/news/arrivent-furmonertinib-egfr-lung-cancer-study-results/832220/",
+     "pubDate": "Tue, 06 Oct 2026 12:12:00 -0400",
+     "summary": "More than half of the company&rsquo;s value was wiped out by findings that appear to erase a chance to battle Johnson &amp; Johnson and others for market share.&nbsp;",
+     "source": "BioPharma Dive",
+     "zh": "ArriVent collapses on disappointing lung cancer data"
+    },
+    {
      "title": "Dual-acting drug from AbbVie, Genmab scores in frontline lymphoma trial",
      "link": "https://www.biopharmadive.com/news/abbvie-genmab-epkinly-dlbcl-epcore-study-results/832241/",
      "pubDate": "Tue, 06 Oct 2026 11:42:00 -0400",
@@ -1239,14 +1247,6 @@
      "summary": "The acquisition of Texas-based IntraBio adds to a growing rare disease business for Shionogi by handing the company a marketed treatment for two inherited conditions.",
      "source": "BioPharma Dive",
      "zh": "Shionogi pays $2B to acquire a rare disease startup"
-    },
-    {
-     "title": "Optogenetics researchers win a Nobel Prize; Roche bets on Alector brain drug",
-     "link": "https://www.biopharmadive.com/news/nobel-optogenetics-roche-alector-csl-alentis-jaypirca-bayer/832083/",
-     "pubDate": "Mon, 05 Oct 2026 09:57:00 -0400",
-     "summary": "The Nobel laureates &ldquo;laid the foundation&rdquo; for a new field of brain research, the award committee wrote. Elsewhere, Roche and CSL cut licensing deals and the FDA endorsed broader use of a Lilly medicine.",
-     "source": "BioPharma Dive",
-     "zh": "Optogenetics researchers win a Nobel Prize; Roche bets on Alector brain drug"
     }
    ]
   },
@@ -1697,6 +1697,14 @@
    "total": 18,
    "items": [
     {
+     "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
+     "link": "https://www.wired.com/story/best-prime-day-headphone-deals-10-06-2026/",
+     "pubDate": "Tue, 06 Oct 2026 16:10:02 +0000",
+     "summary": "I’ve tested more than 100 headphones and covered nearly a dozen Prime Days. Here are some actually good headphone deals from the sale.",
+     "source": "WIRED",
+     "zh": "I Found The Best Amazon Prime Day Headphone Deals (2026)"
+    },
+    {
      "title": "Vinci, which makes software used to simulate elements of chip and other hardware design, raised $250M at a $1.5B valuation (Max A. Cherney/Reuters)",
      "link": "https://www.techmeme.com/261006/p24#a261006p24",
      "pubDate": "Tue, 06 Oct 2026 11:25:02 -0400",
@@ -1905,14 +1913,6 @@
      "zh": "Uber agrees to acquire Boston-based catering platform ezCater for $2.3B in cash to help Uber Eats reach corporate clients; the deal is set to close in months (Natalie Lung/Bloomberg)"
     },
     {
-     "title": "A First Ride With Lightfoot, a Solar-Powered Scooter",
-     "link": "https://www.wired.com/story/lightfoot-scooter-first-ride/",
-     "pubDate": "Tue, 06 Oct 2026 13:00:00 +0000",
-     "summary": "Otherlab’s Lightfoot looks like a box on wheels, but this head-turning urban scooter is designed to go farther thanks to the power of the sun.",
-     "source": "WIRED",
-     "zh": "A First Ride With Lightfoot, a Solar-Powered Scooter"
-    },
-    {
      "title": "UK retailer Asos&apos; stock falls 10%+ after users got app notifications saying \"we have fully compromised the Snowflake instance\"; source: Asos is investigating (Financial Times)",
      "link": "https://www.techmeme.com/261006/p20#a261006p20",
      "pubDate": "Tue, 06 Oct 2026 08:50:01 -0400",
@@ -1944,6 +1944,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google Wallet for Android getting vertically stacked card list [U]",
+     "link": "https://9to5google.com/2026/10/06/google-wallet-card-stack-redesign/",
+     "pubDate": "Tue, 06 Oct 2026 16:17:00 +0000",
+     "summary": "Following the homepage redesign and fullscreen passes revamp this year, Google Wallet is trialing a vertically stacked card list. more…",
+     "source": "9to5Google",
+     "zh": "Google Wallet for Android getting vertically stacked card list [U]"
+    },
+    {
+     "title": "How to check if your Android phone is still getting security updates",
+     "link": "https://www.engadget.com/2277410/android-phone-how-to-check-security-updates/",
+     "pubDate": "Tue, 06 Oct 2026 16:15:00 +0000",
+     "summary": "Your Android device will only receive updates for so long, and it might have already left its support period without you realizing.",
+     "source": "Engadget",
+     "zh": "How to check if your Android phone is still getting security updates"
+    },
+    {
+     "title": "The top-spec TCL 60 XE NXTPAPER 5G hits its lowest price ever at $190",
+     "link": "https://www.androidauthority.com/tcl-60-xe-nxtpaper-5g-prime-day-3719712/",
+     "pubDate": "Tue, 06 Oct 2026 16:13:22 +0000",
+     "summary": "Prime Day cuts 33% off the TCL 60 XE NXTPAPER 5G, a budget 5G phone with a 120Hz NXTPAPER display and 256GB storage.",
+     "source": "Android Authority",
+     "zh": "The top-spec TCL 60 XE NXTPAPER 5G hits its lowest price ever at $190"
+    },
     {
      "title": "Samsung’s older smartwatches are down to their lowest prices ever for Fall Prime Day",
      "link": "https://9to5google.com/2026/10/06/samsungs-older-smartwatches-are-down-to-their-lowest-prices-ever-for-fall-prime-day/",
@@ -2065,14 +2089,6 @@
      "zh": "Why don't you see external antennas on mesh Wi-Fi systems?"
     },
     {
-     "title": "Prime Day delivers a discount on the new Motorola Razr Ultra 2026",
-     "link": "https://www.androidauthority.com/motorola-razr-ultra-2026-deal-3718714/",
-     "pubDate": "Tue, 06 Oct 2026 15:08:55 +0000",
-     "summary": "Save $100 on the Motorola Razr Ultra 2026 and get a 7-inch foldable display, Snapdragon 8 Elite, and 512GB storage.",
-     "source": "Android Authority",
-     "zh": "Prime Day delivers a discount on the new Motorola Razr Ultra 2026"
-    },
-    {
      "title": "Pixel Watch 4 & 5’s handy USB-C travel charger is currently on sale, and even cheaper now",
      "link": "https://9to5google.com/2026/10/06/pixel-watch-4-5s-handy-usb-c-travel-charger-is-currently-on-sale/",
      "pubDate": "Tue, 06 Oct 2026 15:08:54 +0000",
@@ -2087,14 +2103,6 @@
      "summary": "Apple TV announced a new comedy series coming—The Choir—that reunites Ruth Jones and James Corden, the duo from beloved UK sitcom Gavin & Stacey. more…",
      "source": "9to5Mac",
      "zh": "Apple TV unveils new series  reuniting stars of record-breaking comedy"
-    },
-    {
-     "title": "Galaxy Watch 9 drops to $319, but not on Amazon during Prime Day",
-     "link": "https://9to5google.com/2026/10/06/galaxy-watch-9-drops-to-319-but-not-on-amazon-during-prime-day/",
-     "pubDate": "Tue, 06 Oct 2026 14:49:55 +0000",
-     "summary": "The Galaxy Watch 9, Samsung’s newest model, is currently $60 off while most shoppers rush to Amazon to snatch up Prime Day deals. This might be a better option. more…",
-     "source": "9to5Google",
-     "zh": "Galaxy Watch 9 drops to $319, but not on Amazon during Prime Day"
     },
     {
      "title": "vivo S2 FE arrives with a massive 10,000mAh battery",
@@ -2119,14 +2127,6 @@
      "summary": "New media empire will be known as Skydance, with CEO David Ellision calling it a 'historic day.'",
      "source": "Engadget",
      "zh": "Controversial $110 billion mega-merger of Paramount and Warner Bros. finally closes"
-    },
-    {
-     "title": "The Emmy Awards are moving to Prime Video in 2027",
-     "link": "https://www.engadget.com/2278708/the-emmy-awards-are-moving-to-prime-video-in-2027/",
-     "pubDate": "Tue, 06 Oct 2026 14:26:50 +0000",
-     "summary": "Amazon is reportedly paying up to $25 million a year for exclusive global rights to the ceremony.",
-     "source": "Engadget",
-     "zh": "The Emmy Awards are moving to Prime Video in 2027"
     },
     {
      "title": "Here’s what iPhone Duo’s new two-page PDF experience looks like",
@@ -2193,6 +2193,46 @@
    "total": 13,
    "items": [
     {
+     "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+     "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
+     "pubDate": "Tue, 06 Oct 2026 16:17:42 GMT",
+     "summary": "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz choke point.",
+     "source": "CNBC",
+     "zh": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks"
+    },
+    {
+     "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
+     "link": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
+     "pubDate": "Tue, 06 Oct 2026 16:15:07 GMT",
+     "summary": "The personal agent boom is lifting the fortunes of AMD and Intel, which have outperformed their megacap tech peers over the past month.",
+     "source": "CNBC",
+     "zh": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales"
+    },
+    {
+     "title": "Lockheed Martin’s F-16 Block 72 for Morocco completes first flight",
+     "link": "https://seekingalpha.com/news/4650639-lockheed-martin-s-fminus-16-block-72-for-morocco-completes-first-flight?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 12:08:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lockheed Martin’s F-16 Block 72 for Morocco completes first flight"
+    },
+    {
+     "title": "Nebius stock surges 9% after reversing Monday's sell-off",
+     "link": "https://seekingalpha.com/news/4650631-nebius-stock-surges-9-after-reversing-mondays-sell-off?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 12:08:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nebius stock surges 9% after reversing Monday's sell-off"
+    },
+    {
+     "title": "Applied Digital Q1 preview: What to expect",
+     "link": "https://seekingalpha.com/news/4650638-applied-digital-q1-preview-what-to-expect?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 12:07:24 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Applied Digital Q1 preview: What to expect"
+    },
+    {
      "title": "From the family table to the car cupholder: KFC's iconic bucket has a small option",
      "link": "https://seekingalpha.com/news/4650637-from-the-family-table-to-car-cupholder-kfcs-iconic-bucket-has-a-small-option?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 06 Oct 2026 12:02:38 -0400",
@@ -2241,14 +2281,6 @@
      "zh": "Countries should monitor hedge funds' leverage and interconnections, IMF says"
     },
     {
-     "title": "Apogee forecasts FY2027 sales of $1.46B-$1.5B and adjusted EPS of $3-$3.40 while adding Groglass",
-     "link": "https://seekingalpha.com/news/4650636-apogee-forecasts-fy2027-sales-of-1_46b-1_5b-and-adjusted-eps-of-3-3_40-while-adding-groglass?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 11:53:31 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apogee forecasts FY2027 sales of $1.46B-$1.5B and adjusted EPS of $3-$3.40 while adding Groglass"
-    },
-    {
      "title": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
      "link": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
      "pubDate": "Tue, 06 Oct 2026 15:52:33 GMT",
@@ -2263,70 +2295,6 @@
      "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
      "source": "CNBC",
      "zh": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year"
-    },
-    {
-     "title": "Eli Lilly-backed TRex Bio targets up to $133M in U.S. IPO",
-     "link": "https://seekingalpha.com/news/4650633-lilly-backed-trex-bio-targets-133m-in-us-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 11:49:49 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Eli Lilly-backed TRex Bio targets up to $133M in U.S. IPO"
-    },
-    {
-     "title": "Oil and fuel supply buffers thinning as Middle East war drags on, Chevron CEO says",
-     "link": "https://seekingalpha.com/news/4650629-oil-and-fuel-supply-buffers-thinning-as-middle-east-war-drags-on-chevron-ceo-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 11:49:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Oil and fuel supply buffers thinning as Middle East war drags on, Chevron CEO says"
-    },
-    {
-     "title": "巴基斯坦试射国产增程版“法塔赫-4”陆基巡航导弹",
-     "link": "http://finance.eastmoney.com/news/11790,202610063888825084.html",
-     "pubDate": "Tue, 06 Oct 2026 23:48:50 +0800",
-     "summary": "据巴基斯坦三军新闻局10月6日消息，巴基斯坦当天成功进行了一次国产增程版“法塔赫-4”陆基巡航导弹的试射。巴基斯坦三军新闻局称，该系统配备先进航空 电子 设备和最先进的导航辅助设备，能够以高精度和高杀伤力打击目标。此次试射还验证了为提高精度和增 强生 存能力而集成的各子系统的额外技术参数。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "巴基斯坦试射国产增程版“法塔赫-4”陆基巡航导弹"
-    },
-    {
-     "title": "智利政府预估2026年铜均价为每磅6.15美元",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888824968.html",
-     "pubDate": "Tue, 06 Oct 2026 23:46:48 +0800",
-     "summary": "智利政府预估2026年 铜 均价为每磅6.15美元。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "智利政府预估2026年铜均价为每磅6.15美元"
-    },
-    {
-     "title": "欧盟外交官表示 新增制裁对象包括约1,570家俄罗斯企业和个人",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888824215.html",
-     "pubDate": "Tue, 06 Oct 2026 23:46:48 +0800",
-     "summary": "欧盟外交官表示，新增制裁对象包括约1,570家俄罗斯企业和个人，这些实体涉及 军工 综合 体，特别是导弹生产领域。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "欧盟外交官表示 新增制裁对象包括约1,570家俄罗斯企业和个人"
-    },
-    {
-     "title": "欧盟外交官称 制裁影响约1650个新实体和个人 使与俄罗斯相关的制裁对象总数增加50%",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888824034.html",
-     "pubDate": "Tue, 06 Oct 2026 23:46:48 +0800",
-     "summary": "欧盟外交官称，制裁影响约1650个新实体和个人，使与俄罗斯相关的制裁对象总数增加50%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "欧盟外交官称 制裁影响约1650个新实体和个人 使与俄罗斯相关的制裁对象总数增加50%"
-    },
-    {
-     "title": "智利政府预计2027年铜均价为每磅5.65美元",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888823982.html",
-     "pubDate": "Tue, 06 Oct 2026 23:46:48 +0800",
-     "summary": "智利政府预计2027年 铜 均价为每磅5.65美元。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "智利政府预计2027年铜均价为每磅5.65美元"
-    },
-    {
-     "title": "沙特领导的联军称 拦截并摧毁了也门胡塞武装向哈米斯穆沙伊特发射的一枚弹道导弹",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888824829.html",
-     "pubDate": "Tue, 06 Oct 2026 23:46:47 +0800",
-     "summary": "沙特领导的联军称，拦截并摧毁了也门胡塞武装向哈米斯穆沙伊特发射的一枚弹道导弹。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "沙特领导的联军称 拦截并摧毁了也门胡塞武装向哈米斯穆沙伊特发射的一枚弹道导弹"
     },
     {
      "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
@@ -2351,14 +2319,6 @@
      "summary": "Wall Street’s blue-chip index touches fresh peak but rally increasingly reliant on handful of tech stocks",
      "source": "Financial Times",
      "zh": "S&P 500 hits record high as AI stocks shrug off bond market slump"
-    },
-    {
-     "title": "Paramount&apos;s hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here&apos;s how we got here",
-     "link": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
-     "pubDate": "Tue, 06 Oct 2026 15:06:53 GMT",
-     "summary": "Paramount has faced competing bids and an antitrust hurdle since its earliest attempts to take over WBD. Here's a timeline of key events.",
-     "source": "CNBC",
-     "zh": "Paramount&apos;s hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here&apos;s how we got here"
     },
     {
      "title": "UK picks banks as lead managers for digital gilt pilot",
@@ -2431,6 +2391,46 @@
      "summary": "The country is being hit by a pre-election debt sell-off. Many fear it could shake the Eurozone",
      "source": "Financial Times",
      "zh": "The bond market turns on France"
+    },
+    {
+     "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+     "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+     "pubDate": "Tue, 06 Oct 2026 14:00:00 GMT",
+     "summary": "“Both properties swill be solely in his name.”",
+     "source": "MarketWatch",
+     "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
+    },
+    {
+     "title": "交通运输部：10月7日，37个高速公路路段易发拥堵",
+     "link": "http://www.eeo.com.cn/2026/1006/1056741.shtml",
+     "pubDate": "Tue, 06 Oct 2026 21:13:09 +0800",
+     "summary": "据交通运输部动态研判，10月7日，全国高速公路有37个路段易发拥堵，主要集中在江苏、河北、安徽、广东、山东等省份。如计划途经这些路段，请合理安排出行时间和路线。 动态研判的易发拥堵路段清单 （10月7日） 假期出行前，可通过 “中国路网”微信微博、“e路畅通”微信小程序、导航地图等多渠道获取路况，提前做好出行路线规划，尽量绕避流量大、易拥堵缓行路段。 途经车流密集路段，请保持安...",
+     "source": "经济观察网",
+     "zh": "交通运输部：10月7日，37个高速公路路段易发拥堵"
+    },
+    {
+     "title": "Revolut eyes Philippines bank licence",
+     "link": "https://www.finextra.com/newsarticle/48540/revolut-eyes-philippines-bank-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 06 Oct 2026 12:38:00 GMT",
+     "summary": "Digital bank Revolut is considering the Philippines as the next market in its global expansion plans",
+     "source": "Finextra",
+     "zh": "Revolut eyes Philippines bank licence"
+    },
+    {
+     "title": "商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问",
+     "link": "http://www.eeo.com.cn/2026/1006/1056734.shtml",
+     "pubDate": "Tue, 06 Oct 2026 20:20:02 +0800",
+     "summary": "经济观察网 10月6日，商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问。 问：据媒体报道，10月5日法国和德国向欧委会提交非正式文件，要求欧盟强化使用贸易防御措施，并推出多项保护主义新工具。请问中方对此有何评论？ 答：中方注意到有关报道。中方始终认为，相互依赖不是风险，利益交融不是威胁，开放合作才是发展的正道。保护主义提升不了竞争力，脱钩断链只会损人不利己。希望法国和德国作...",
+     "source": "经济观察网",
+     "zh": "商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问"
+    },
+    {
+     "title": "黄金周演唱会带火“手机大炮”：一周内四款旗舰密集发布，但这届年轻人租一次万元设备只花200元",
+     "link": "http://www.eeo.com.cn/2026/1006/1056732.shtml",
+     "pubDate": "Tue, 06 Oct 2026 20:13:16 +0800",
+     "summary": "本文来源：时代财经 作者：吴典 林心林 图片来源：时代财经摄 国庆演唱会热潮席卷各地，一场关于影像设备的实战比拼也在看台之上悄然开启。 10月5日，周传雄在北京工人体育场开唱，刘航带着自费购入的华为睿影Z10模块相机（下称“睿影Z10”）进了场，他直言“580的票，带个‘华为大炮’...",
+     "source": "经济观察网",
+     "zh": "黄金周演唱会带火“手机大炮”：一周内四款旗舰密集发布，但这届年轻人租一次万元设备只花200元"
     }
    ]
   },

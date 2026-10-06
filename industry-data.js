@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/6 21:43:53",
+ "generated_at": "2026/10/6 21:52:06",
  "recent_days": 7,
  "industries": [
   {
@@ -9,14 +9,6 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "5 Best Practices for Building Robust Python AI Libraries",
-     "link": "https://www.kdnuggets.com/5-best-practices-for-building-robust-python-ai-libraries",
-     "pubDate": "Tue, 06 Oct 2026 12:00:00 +0000",
-     "summary": "This article covers building robust Python AI libraries specifically, Python AI SDK best practices, and what separates a production-ready AI package from one that only survives in its own demo.",
-     "source": "KDnuggets",
-     "zh": "5 Best Practices for Building Robust Python AI Libraries"
-    },
     {
      "title": "刚刚，诺贝尔物理奖一人独揽！",
      "link": "https://www.qbitai.com/2026/10/501746.html",
@@ -202,28 +194,12 @@ window.INDUSTRY_DATA = {
      "zh": "Our approach to EU text provenance rules"
     },
     {
-     "title": "Meta Muse Explained: What It Is, How It Works, and What It Can Do",
-     "link": "https://www.kdnuggets.com/meta-muse-explained-what-it-is-how-it-works-and-what-it-can-do",
-     "pubDate": "Mon, 05 Oct 2026 14:00:00 +0000",
-     "summary": "Meta has entered the AI agent race in a big way.",
-     "source": "KDnuggets",
-     "zh": "Meta Muse Explained: What It Is, How It Works, and What It Can Do"
-    },
-    {
      "title": "Bringing predictive analytics to the agentic AI era",
      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
      "pubDate": "Mon, 05 Oct 2026 13:29:32 +0000",
      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr",
      "source": "MIT Tech Review AI",
      "zh": "Bringing predictive analytics to the agentic AI era"
-    },
-    {
-     "title": "3 Statsmodels Tricks for Time Series Analysis & Forecasting",
-     "link": "https://www.kdnuggets.com/3-statsmodels-tricks-for-time-series-analysis-forecasting",
-     "pubDate": "Mon, 05 Oct 2026 12:00:37 +0000",
-     "summary": "A fitted statsmodels model computes a more than just the array of numbers most code pulls out of it.",
-     "source": "KDnuggets",
-     "zh": "3 Statsmodels Tricks for Time Series Analysis & Forecasting"
     },
     {
      "title": "刚刚，诺贝尔奖颁给光遗传学！",
@@ -248,6 +224,30 @@ window.INDUSTRY_DATA = {
      "summary": "One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%. The post Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade appeared first on MarkTechPost .",
      "source": "MarkTechPost",
      "zh": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade"
+    },
+    {
+     "title": "People really hate AI, so why can’t they get enough?",
+     "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+     "pubDate": "Mon, 05 Oct 2026 08:00:00 +0000",
+     "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
+     "source": "MIT Tech Review AI",
+     "zh": "People really hate AI, so why can’t they get enough?"
+    },
+    {
+     "title": "00后浙大博士把4D世界模型首次塞进手机！",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731866&idx=1&sn=70bab8e9ae4bd36b760bd84513d70916",
+     "pubDate": "Mon, 05 Oct 2026 14:58:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "00后浙大博士把4D世界模型首次塞进手机！"
+    },
+    {
+     "title": "陶哲轩深夜力挺！抢在OpenAI发布前夜，Caltech物理AI攻克百年难题",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731866&idx=2&sn=449978a468db9560bce04ec1bd90da22",
+     "pubDate": "Mon, 05 Oct 2026 14:58:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "陶哲轩深夜力挺！抢在OpenAI发布前夜，Caltech物理AI攻克百年难题"
     }
    ]
   },
@@ -258,12 +258,36 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "PCTEL’s SeeHawk Touch adds Wi-Fi 6/6E coverage testing",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/pctels-seehawk-touch-adds-wi-fi-6-6e-coverage-testing-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 13:09:12 +0000",
+     "summary": "PCTEL is adding Wi-Fi 6/6E coverage testing to its SeeHawk Touch network testing software. The company highlights it allows Wi-Fi technologies (on 2.4, 5, and 6 GHz channels) to be […] The post PCTEL’s SeeHawk Touch adds Wi-Fi 6/6E coverage testing appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "PCTEL’s SeeHawk Touch adds Wi-Fi 6/6E coverage testing"
+    },
+    {
      "title": "CXL-Connected MRAM Address AI Storage Latency",
      "link": "https://www.eetimes.com/cxl-connected-mram-address-ai-storage-latency/",
      "pubDate": "Tue, 06 Oct 2026 10:24:22 +0000",
      "summary": "Everspin’s demo shows how a 4-GB pool of persistent MRAM can serve as a new tier of storage between DRAM and NAND flash. The post CXL-Connected MRAM Address AI Storage Latency appeared first on EE Times .",
      "source": "EE Times",
      "zh": "CXL-Connected MRAM Address AI Storage Latency"
+    },
+    {
+     "title": "UK Space Landing Pad Programme launches at UCL",
+     "link": "https://www.electronicsweekly.com/news/uk-space-landing-pad-programme-launches-at-ucl-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 09:57:38 +0000",
+     "summary": "The UK government is backing the UK Space Landing Pad Programme, which is a six-month pilot to attract and support international space companies looking to establish a commercial presence in […] The post UK Space Landing Pad Programme launches at UCL appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "UK Space Landing Pad Programme launches at UCL"
+    },
+    {
+     "title": "Get the Gadget Master newsletter!",
+     "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 09:49:29 +0000",
+     "summary": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Get the Gadget Master newsletter!"
     },
     {
      "title": "ADATA posts record 3Q revenue as memory prices rise",
@@ -344,6 +368,30 @@ window.INDUSTRY_DATA = {
      "summary": "Part 2: Towards scalable sCFET standard cell architectures: split-gate devices, a 5T+1 CFET SRAM bit cell, and improved back-end-of-line routability. The post Advancing The CFET-Based Device Roadmap: Novel Integration Modules And Standard Cell Configurations appeared first on Semiconductor Engineeri",
      "source": "Semiconductor Engineering",
      "zh": "Advancing The CFET-Based Device Roadmap: Novel Integration Modules And Standard Cell Configurations"
+    },
+    {
+     "title": "Arm vs Qualcomm episode 2",
+     "link": "https://www.electronicsweekly.com/news/business/arm-vs-qualcomm-episode-2-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 05:16:23 +0000",
+     "summary": "Yesterday a second trial in the Qualcomm vs Arm legal marathon opened in Delaware. It is before a jury and slated to last five days. The original Qualcomm vs Arm […] The post Arm vs Qualcomm episode 2 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Arm vs Qualcomm episode 2"
+    },
+    {
+     "title": "SkyeChip becomes Rapidus design associate",
+     "link": "https://www.electronicsweekly.com/news/business/skyechip-becomes-rapidus-design-associate-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 05:14:20 +0000",
+     "summary": "SkyeChip, the Malaysian IP developer and IC design house, has joined the Rapidus Collaborative Open Rapid Ecosystem as one of 17 inaugural “design solution associates.” SkyeChip, which is listed on […] The post SkyeChip becomes Rapidus design associate appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "SkyeChip becomes Rapidus design associate"
+    },
+    {
+     "title": "MOSAIC-G integrates UK 5G tech",
+     "link": "https://www.electronicsweekly.com/news/business/mosaic-g-integrates-uk-5g-tech-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 05:11:02 +0000",
+     "summary": "Aerix, Antevia Networks, Spry Fox Networks, Noema Signal Labs, Attocore, RANsemi, Liverpool 5G and Bath & North East Somerset Council have launched MOSAIC-5G (Multi-vendor Open System Architecture for Integrated Connectivity). […] The post MOSAIC-G integrates UK 5G tech appeared first on Electronics",
+     "source": "Electronics Weekly",
+     "zh": "MOSAIC-G integrates UK 5G tech"
     },
     {
      "title": "Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027",
@@ -448,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Broader appeal for the electric car is a big challenge. Innovation is still the best solution. The post Electric Car Makers Need to Appeal to the ‘Other 90%’ appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Electric Car Makers Need to Appeal to the ‘Other 90%’"
-    },
-    {
-     "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
-     "link": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
-     "pubDate": "Fri, 02 Oct 2026 10:00:03 +0000",
-     "summary": "Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical elements for controlling the amplitude, phase, and polarization of light. These structures are of growing interest to researchers and engineers working on sensing, ",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control"
     }
    ]
   },
@@ -1698,6 +1738,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "杨利伟：中国空间站将成全球开放实验平台，下半年迎来首批外籍航天员",
+     "link": "https://www.ithome.com/1/010/107.htm",
+     "pubDate": "Tue, 06 Oct 2026 13:48:19 GMT",
+     "summary": "IT之家 10 月 6 日消息，据央视新闻报道，当地时间 5 日，在 77 届国际宇航大会（IAC 2026）上，中国首飞航天员、航天英雄、现任中国载人航天工程副总设计师杨利伟表示， 中国空间站将成为一个面向全球科学家开放的实验平台 。 杨利伟透露，中国空间站后续可在科学研究、航天员培训、提供飞行机会，以及科普教育等方面，开展深化合作。 IT之家从原报道获悉， 中国空间站将在今年下半年 ， 迎来首批外籍航天员 。杨利伟介绍道：“这两名巴基斯坦的预备航天员，在整个训练过程当中，表现非常优异，正在和中国航天员进行配合训练。按照计划，一名巴基斯坦航天员将作为载荷专家，执行短期飞行任务。” 此外，就中",
+     "source": "IT之家",
+     "zh": "杨利伟：中国空间站将成全球开放实验平台，下半年迎来首批外籍航天员"
+    },
+    {
      "title": "红魔 12 Pro+ 手机新品开启预约，10 月 15 日发布",
      "link": "https://www.ithome.com/1/010/105.htm",
      "pubDate": "Tue, 06 Oct 2026 13:34:27 GMT",
@@ -1712,6 +1760,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 6 日消息，当地时间 10 月 6 日，亚马逊 Prime Video 与美国电视艺术与科学学院（Television Academy）联合宣布达成一项为期六年的合作协议，Prime Video 将获得艾美奖（Emmy Awards）的全球独家直播权。 IT之家注：艾美奖始办于 1949 年，与奥斯卡金像奖、格莱美奖、托尼奖并称美国演艺界四大奖（EGOT）。 自 2027 年起，用户可在 Prime Video 上免费观看艾美奖颁奖典礼直播 —— 这也标志着该典礼首次 拥有一个专属的直播平台 。 官方表示，这项历史性协议的达成，标志着电视学院沿用已久由 ABC、CBS、FO",
      "source": "IT之家",
      "zh": "取代四大电视网“轮播模式”，亚马逊 Prime Video 拿下艾美奖全球独家直播权"
+    },
+    {
+     "title": "Mistral Large 4: \"Le Chonk\"",
+     "link": "https://mistral.ai/news/mistral-large-4/",
+     "pubDate": "Tue, 06 Oct 2026 13:25:50 +0000",
+     "summary": "Article URL: https://mistral.ai/news/mistral-large-4/ Comments URL: https://news.ycombinator.com/item?id=49978116 Points: 34 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Mistral Large 4: \"Le Chonk\""
     },
     {
      "title": "任天堂推出两款免费 Switch 游戏《你好，碧姬公主！》《你好，路易吉！》，面向儿童用户",
@@ -1741,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Mistral Large 4",
      "link": "https://docs.mistral.ai/models/mistral-large-4-0",
      "pubDate": "Tue, 06 Oct 2026 13:15:49 +0000",
-     "summary": "Article URL: https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 134 # Comments: 26",
+     "summary": "Article URL: https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 235 # Comments: 77",
      "source": "Hacker News",
      "zh": "Mistral Large 4"
     },
@@ -1802,10 +1858,18 @@ window.INDUSTRY_DATA = {
      "zh": "《战争机器：事变日》游戏开发团队找到提升微软 Xbox Series S 主机性能的新方法：虚拟内存"
     },
     {
+     "title": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",
+     "link": "https://mastodon.social/@bagder/117392573268225646",
+     "pubDate": "Tue, 06 Oct 2026 13:06:00 +0000",
+     "summary": "Article URL: https://mastodon.social/@bagder/117392573268225646 Comments URL: https://news.ycombinator.com/item?id=49977832 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl"
+    },
+    {
      "title": "Mathematics of Geothermal Energy",
      "link": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
      "pubDate": "Tue, 06 Oct 2026 13:05:26 +0000",
-     "summary": "Article URL: https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/ Comments URL: https://news.ycombinator.com/item?id=49977819 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/ Comments URL: https://news.ycombinator.com/item?id=49977819 Points: 8 # Comments: 1",
      "source": "Hacker News",
      "zh": "Mathematics of Geothermal Energy"
     },
@@ -1816,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC13619851/ Comments URL: https://news.ycombinator.com/item?id=49977813 Points: 6 # Comments: 1",
      "source": "Hacker News",
      "zh": "Remote Live vs. Pre-Recorded Exercise Training for Chronic Low Back Pain (RCT)"
-    },
-    {
-     "title": "Any AI chat can join a machine network anonymously – no keys, no signup",
-     "link": "https://github.com/TheRealDalaiLama/glyphdna-mcp",
-     "pubDate": "Tue, 06 Oct 2026 13:04:37 +0000",
-     "summary": "Article URL: https://github.com/TheRealDalaiLama/glyphdna-mcp Comments URL: https://news.ycombinator.com/item?id=49977806 Points: 7 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Any AI chat can join a machine network anonymously – no keys, no signup"
     },
     {
      "title": "一只美洲狮如何帮助建成最大的野生动物陆桥",
@@ -1850,14 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "A First Ride With Lightfoot, a Solar-Powered Scooter"
     },
     {
-     "title": "优派 VX25G26-2K-10 显示器预售：24.5 英寸 2K 280Hz，999 元起",
-     "link": "https://www.ithome.com/1/010/097.htm",
-     "pubDate": "Tue, 06 Oct 2026 12:57:14 GMT",
-     "summary": "IT之家 10 月 6 日消息，优派 VX25G26-2K-10 显示器现已开始预售， 售价 999 元起 ： 黑色款：999 元 白色款（VX25G26-2K-W-10）：1049 元 这款显示器搭载了一块 24.5 英寸 Fast IPS 快速液晶面板，分辨率 2K（2560×1440），刷新率原生 280Hz；灰阶 (GtG) 响应时间 1ms，亮度 350nits，色深 10bit（8bit + FRC），色域覆盖 100% sRGB、92% DCI-P3。 这款显示器配备 2 个 HDMI 2.1（支持 2560×1440@280Hz）、1 个 DP 1.4（支持 2560×1440",
-     "source": "IT之家",
-     "zh": "优派 VX25G26-2K-10 显示器预售：24.5 英寸 2K 280Hz，999 元起"
-    },
-    {
      "title": "UK retailer Asos falls 10%+ after customers received app notifications saying \"we have fully compromised the Snowflake instance\"; source: Asos is investigating (Financial Times)",
      "link": "https://www.techmeme.com/261006/p20#a261006p20",
      "pubDate": "Tue, 06 Oct 2026 08:50:01 -0400",
@@ -1872,14 +1920,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 果壳 ，作者：Steed，窗敲雨，编辑：李小葵 今年的诺贝尔物理学奖，颁给了一个一辈子没做过实验的人。 10月6日，瑞典皇家科学院宣布，将2026年诺贝尔物理学奖单独授予美国威斯康星大学麦迪逊分校82岁的弗朗西斯·哈尔岑（Francis Halzen），表彰他对“冰立方”中微子天文台的决定性贡献，以及发现天体物理起源的高能中微子。 用大白话说，就是他在南极2000多米深的冰盖底下造了一座巨大的“望远镜”，专门捕捉从宇宙深处飞来的神秘粒子。 2026年诺贝尔物理学奖得主弗朗西斯·哈尔岑丨wipac.wisc.edu 可哈尔岑是个纯粹靠纸笔干活的理论物理学家，更绝的是，至少到",
      "source": "虎嗅",
      "zh": "他在南极造了座望远镜，拿了诺奖，自己却一次南极都没去过"
-    },
-    {
-     "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
-     "link": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
-     "pubDate": "Tue, 06 Oct 2026 12:45:49 +0000",
-     "summary": "Article URL: https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/ Comments URL: https://news.ycombinator.com/item?id=49977588 Points: 22 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire"
     },
     {
      "title": "用光操控大脑，科学家正在把科幻变成现实",
@@ -1945,6 +1985,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Should you buy or rent your router from your internet service provider?",
+     "link": "https://www.engadget.com/2277107/buy-vs-rent-router-from-internet-service-provider/",
+     "pubDate": "Tue, 06 Oct 2026 13:45:00 +0000",
+     "summary": "Internet service providers often offer their routers for a monthly fee, and some let you buy the equipment outright.",
+     "source": "Engadget",
+     "zh": "Should you buy or rent your router from your internet service provider?"
+    },
+    {
+     "title": "Hot deal: Samsung Galaxy Z Flip 8 falls below $990 in Prime Day pick",
+     "link": "https://www.androidauthority.com/deal-samsung-galaxy-z-flip-8-3718618/",
+     "pubDate": "Tue, 06 Oct 2026 13:44:53 +0000",
+     "summary": "Amazon cuts $210 off the Galaxy Z Flip 8 for Prime Day, bringing the foldable down to its lowest price since launch.",
+     "source": "Android Authority",
+     "zh": "Hot deal: Samsung Galaxy Z Flip 8 falls below $990 in Prime Day pick"
+    },
+    {
+     "title": "Need more phone or handheld storage? The SanDisk Ultra 1.5TB microSD card is now $60 off",
+     "link": "https://www.androidauthority.com/sandisk-ultra-1-5tb-microsd-card-deal-3718720/",
+     "pubDate": "Tue, 06 Oct 2026 13:40:37 +0000",
+     "summary": "This Prime Day deal cuts 17% off the SanDisk Ultra 1.5TB microSD card, with up to 195MB/s reads and an SD adapter.",
+     "source": "Android Authority",
+     "zh": "Need more phone or handheld storage? The SanDisk Ultra 1.5TB microSD card is now $60 off"
+    },
     {
      "title": "Prime Day pick: Samsung Galaxy S26 FE gets its first $125 price drop",
      "link": "https://www.androidauthority.com/samsung-galaxy-s26-fe-deal-3718763/",
@@ -2018,12 +2082,12 @@ window.INDUSTRY_DATA = {
      "zh": "4 simple benchmarks to test your PC's performance"
     },
     {
-     "title": "Google’s upcoming Fitbit Edge gets fully exposed in massive new spec and pricing leak",
-     "link": "https://www.androidauthority.com/fitbit-edge-specs-colors-price-leak-3719599/",
-     "pubDate": "Tue, 06 Oct 2026 13:13:40 +0000",
-     "summary": "One of the highlights of the Fitbit Edge could be its user-replaceable battery, especially at that price point.",
-     "source": "Android Authority",
-     "zh": "Google’s upcoming Fitbit Edge gets fully exposed in massive new spec and pricing leak"
+     "title": "Spotify expands its Music Quiz trivia feature",
+     "link": "https://www.engadget.com/2278295/spotify-expands-its-music-quiz-trivia-feature/",
+     "pubDate": "Tue, 06 Oct 2026 13:00:00 +0000",
+     "summary": "Test your knowledge on more than 2,000 artists.",
+     "source": "Engadget",
+     "zh": "Spotify expands its Music Quiz trivia feature"
     },
     {
      "title": "Nintendo Switch Sports Resort hands-on: Bigger and better than ever",
@@ -2034,28 +2098,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nintendo Switch Sports Resort hands-on: Bigger and better than ever"
     },
     {
-     "title": "Spotify expands its Music Quiz trivia feature",
-     "link": "https://www.engadget.com/2278295/spotify-expands-its-music-quiz-trivia-feature/",
-     "pubDate": "Tue, 06 Oct 2026 13:00:00 +0000",
-     "summary": "Test your knowledge on more than 2,000 artists.",
-     "source": "Engadget",
-     "zh": "Spotify expands its Music Quiz trivia feature"
-    },
-    {
      "title": "A fun night video test of the iPhone 18 Pro",
      "link": "https://9to5mac.com/2026/10/06/a-fun-night-video-test-of-the-iphone-18-pro/",
      "pubDate": "Tue, 06 Oct 2026 12:49:04 +0000",
      "summary": "After taking a series of portrait photos to test the wider aperture of the iPhone 18 Pro , my original plan had been to hang around until it was dark in order to see whether letting in more light would reduce the duration of Night mode photos. I ended up postponing that test because something more i",
      "source": "9to5Mac",
      "zh": "A fun night video test of the iPhone 18 Pro"
-    },
-    {
-     "title": "Chrome on Googlebooks lacks this key feature seen on Chrome OS, iOS, and almost everywhere else",
-     "link": "https://www.androidauthority.com/googlebooks-chrome-multiple-profiles-3719566/",
-     "pubDate": "Tue, 06 Oct 2026 12:45:45 +0000",
-     "summary": "No support for multiple profiles in Chrome? Ouch.",
-     "source": "Android Authority",
-     "zh": "Chrome on Googlebooks lacks this key feature seen on Chrome OS, iOS, and almost everywhere else"
     },
     {
      "title": "How to fix distorted audio on your PS5",
@@ -2088,14 +2136,6 @@ window.INDUSTRY_DATA = {
      "summary": "Once again, a rumor turned out to be true. We're talking about the one saying that vivo would launch the X Fold6 globally on October 1 and in India on October 6. The global launch has already happened, right on that schedule, and so today you probably won’t be surprised to find out that the X Fold6 ",
      "source": "GSMArena",
      "zh": "vivo X Fold6 launches in India, here's how much it costs"
-    },
-    {
-     "title": "What does the shield icon mean on your Samsung Galaxy?",
-     "link": "https://www.engadget.com/2276490/samsung-galaxy-shield-icon-meaning/",
-     "pubDate": "Tue, 06 Oct 2026 12:15:00 +0000",
-     "summary": "Your Samsung phone has features to help keep the battery healthy, so you'll see an icon when they're kicking in.",
-     "source": "Engadget",
-     "zh": "What does the shield icon mean on your Samsung Galaxy?"
     },
     {
      "title": "Get better water for busy Fall days with Waterdrop Filter’s Fall Prime Day discounts",
@@ -2194,12 +2234,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Lattice Semiconductor in focus as William Blair initiates with Overweight rating",
+     "link": "https://seekingalpha.com/news/4650551-lattice-semiconductor-in-focus-as-william-blair-initiates-with-overweight-rating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 09:40:31 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lattice Semiconductor in focus as William Blair initiates with Overweight rating"
+    },
+    {
      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
      "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
      "pubDate": "Tue, 06 Oct 2026 13:40:00 GMT",
      "summary": "Constellation’s stock is rising sharply following a deal that equates to as much power as would be supplied by a new nuclear reactor.",
      "source": "MarketWatch",
      "zh": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies"
+    },
+    {
+     "title": "Amazon Prime Video to carry Emmy Awards from 2027",
+     "link": "https://seekingalpha.com/news/4650541-amazon-prime-video-to-carry-emmy-awards-from-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 09:38:11 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amazon Prime Video to carry Emmy Awards from 2027"
+    },
+    {
+     "title": "Netlist surges as Micron agrees to pay $600M for five-year license agreement",
+     "link": "https://seekingalpha.com/news/4650546-netlist-surges-as-micron-agrees-to-pay-600m-for-five-year-license-agreement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 09:37:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Netlist surges as Micron agrees to pay $600M for five-year license agreement"
     },
     {
      "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here’s the hidden cost.",
@@ -2234,12 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "Stock market gains day after Nasdaq hits record high"
     },
     {
-     "title": "Russian gold floods Hong Kong as sanctions shift bullion trade to Asia: report",
-     "link": "https://seekingalpha.com/news/4650423-russian-gold-floods-hong-kong-as-sanctions-shift-bullion-trade-to-asia-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 09:32:28 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Russian gold floods Hong Kong as sanctions shift bullion trade to Asia: report"
+     "title": "S&P 500 hits record high as AI stocks shrug off bond market slump",
+     "link": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
+     "pubDate": "Tue, 06 Oct 2026 13:30:05 GMT",
+     "summary": "Wall Street’s blue-chip index at fresh peak but rally increasingly reliant on handful of tech stocks",
+     "source": "Financial Times",
+     "zh": "S&P 500 hits record high as AI stocks shrug off bond market slump"
     },
     {
      "title": "Fed minutes coming tomorrow could give markets important clues about future rate hikes",
@@ -2256,22 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "The U.S. national average price of diesel topped $6 a gallon in September for the first time ever, as fuel supply disruptions pushed up transportation costs in the country.",
      "source": "CNBC",
      "zh": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel cost spike ahead of midterms"
-    },
-    {
-     "title": "Regeneron sees nearly $0.18 per share earnings headwind after Sanofi deal",
-     "link": "https://seekingalpha.com/news/4650547-regeneron-sees-nearly-018-per-share-earnings-headwind?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 09:25:46 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Regeneron sees nearly $0.18 per share earnings headwind after Sanofi deal"
-    },
-    {
-     "title": "Anduril plans $3.7B Maryland shipyard, wins $2.9B Navy submarine contract",
-     "link": "https://seekingalpha.com/news/4650548-anduril-plans-3_7b-maryland-shipyard-wins-2_9b-navy-submarine-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 09:25:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anduril plans $3.7B Maryland shipyard, wins $2.9B Navy submarine contract"
     },
     {
      "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
@@ -2424,14 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "The goal of its framers is political rather than budgetary",
      "source": "Financial Times",
      "zh": "California’s oligarch tax would change America"
-    },
-    {
-     "title": "Former German spy chief arrested for treason",
-     "link": "https://www.ft.com/content/4c565931-6ac7-4b4c-be72-d86e8e3a8aec?syn-25a6b1a6=1",
-     "pubDate": "Tue, 06 Oct 2026 10:34:25 GMT",
-     "summary": "Ex-intelligence head August Hanning suspected of selling state secrets to foreign power",
-     "source": "Financial Times",
-     "zh": "Former German spy chief arrested for treason"
     }
    ]
   },

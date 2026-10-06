@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/6 10:23:27",
+ "generated_at": "2026/10/6 10:26:49",
  "recent_days": 7,
  "industries": [
   {
@@ -2298,30 +2298,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded"
     },
     {
-     "title": "深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%",
-     "link": "http://www.eeo.com.cn/2026/1006/1056573.shtml",
-     "pubDate": "Tue, 06 Oct 2026 09:52:13 +0800",
-     "summary": "当地时间10月5日，美股三大指数集体收涨，纳指涨1.05%，创收盘新高，道指涨0.18%，标普500指数涨0.66%。 大型科技股多数上涨，英伟达涨2.1%，创下历史收盘新高，市值升至5.76万亿美元。特斯拉涨2.2%，微软涨1.48%，Meta涨1.9%，谷歌涨0.86%；亚马逊跌0.05%，苹果跌0.24%。 SpaceX涨7.6%，升至6月中旬以来最高水平，马斯克的身家重新超过1万亿美元。据券商中国报道，10月4日马斯克回应网友提问时表示，SpaceXAI将更...",
-     "source": "经济观察网",
-     "zh": "深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%"
-    },
-    {
-     "title": "【环球财经】伦敦金属交易所基本金属5日全线上涨",
-     "link": "http://www.eeo.com.cn/2026/1006/1056572.shtml",
-     "pubDate": "Tue, 06 Oct 2026 09:52:11 +0800",
-     "summary": "新华财经伦敦10月6日电（记者张亚东）伦敦金属交易所基本金属价格5日收盘时全线上涨。 3个月期铜收于每吨14401.00美元，比前一交易日的收盘价每吨上涨134.50美元，涨幅为0.94%。 3个月期铝收于每吨3121.00美元，比前一交易日的收盘价每吨上涨22.50美元，涨幅为0.73%。 3个月期镍收于每吨15645.00美元，比前一交易日的收盘价每吨上涨115.00美元，涨幅为0.74%。 3个月期铅收于每吨1869.50美元，比...",
-     "source": "经济观察网",
-     "zh": "【环球财经】伦敦金属交易所基本金属5日全线上涨"
-    },
-    {
-     "title": "恒生指数高开1%",
-     "link": "http://www.eeo.com.cn/2026/1006/1056571.shtml",
-     "pubDate": "Tue, 06 Oct 2026 09:52:06 +0800",
-     "summary": "【恒生指数高开1%】港股开盘，恒生指数涨1%，恒生科技指数涨1.02%。(中新经纬APP)",
-     "source": "经济观察网",
-     "zh": "恒生指数高开1%"
-    },
-    {
      "title": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
      "link": "https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html",
      "pubDate": "Tue, 06 Oct 2026 01:47:32 GMT",
@@ -2338,14 +2314,6 @@ window.INDUSTRY_DATA = {
      "zh": "美债期货细则暗藏玄机：30年期收益率逼近6%或引发连锁调仓压力"
     },
     {
-     "title": "【理响中国·领航未来】以青春之力托举高水平科技自立自强的新未来",
-     "link": "http://www.eeo.com.cn/2026/1006/1056567.shtml",
-     "pubDate": "Tue, 06 Oct 2026 09:39:12 +0800",
-     "summary": "出品人：杨谷 总策划：陈建栋 总监制：吴丛丛 策划：蒋正翔 监制：张晞 陈锐海 编辑：周亚娇 李彬<...",
-     "source": "经济观察网",
-     "zh": "【理响中国·领航未来】以青春之力托举高水平科技自立自强的新未来"
-    },
-    {
      "title": "红海局势升温，胡塞武装发动大规模导弹无人机袭击，利雅得机场及阿美炼油厂遭到打击",
      "link": "https://wallstreetcn.com/articles/3783045",
      "pubDate": "Tue, 06 Oct 2026 09:28:31 +0800",
@@ -2360,22 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "阿里巴巴涨2.94%，百度集团、美团涨近2%。零跑汽车、吉利汽车、奇瑞汽车涨超2%。 本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "香港恒生指数开盘涨1％，恒生科技指数涨1.02％，阿里巴巴涨2.9%"
-    },
-    {
-     "title": "提升学生科学素养夯实教育强国建设人才根基",
-     "link": "http://www.eeo.com.cn/2026/1006/1056558.shtml",
-     "pubDate": "Tue, 06 Oct 2026 09:13:10 +0800",
-     "summary": "【建设教育强国·教育笔谈】 作者：李晓强（中国教育科学院副院长） 编者按 经济合作与发展组织（OECD）近日发布2025年国际学生评估项目（以下简称PISA）测评结果。在参与测评的91个国家和地区中，中国内地学生在科学、数学、阅读以及计算问题解决能力方面的表现均位居前列，展现出我国基础教育的过硬质量与育人成效。作为当前最具国际影响力的大规模教育质量监测评价项目之一，PISA为我们从国际比较视角认识...",
-     "source": "经济观察网",
-     "zh": "提升学生科学素养夯实教育强国建设人才根基"
-    },
-    {
-     "title": "【环球财经】土耳其9月通胀率降至30%以下  连续四个月回落",
-     "link": "http://www.eeo.com.cn/2026/1006/1056546.shtml",
-     "pubDate": "Tue, 06 Oct 2026 08:52:10 +0800",
-     "summary": "新华财经伊斯坦布尔10月6日电（记者许万虎）土耳其5日公布的官方数据显示，9月消费者价格指数（CPI）同比上涨29.7%，涨幅连续第四个月回落，为2021年11月以来首次低于30%；环比上涨1.8%，低于市场普遍预期的2%以上...",
-     "source": "经济观察网",
-     "zh": "【环球财经】土耳其9月通胀率降至30%以下  连续四个月回落"
     },
     {
      "title": "Oil price floor likely rising to $70/bbl, ConocoPhillips chairman says",
@@ -2472,6 +2424,54 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "DoE confirms up to $4.2B loan to Vistra to boost nuclear power output"
+    },
+    {
+     "title": "HHS finalizes updated price transparency rules for healthcare costs",
+     "link": "https://seekingalpha.com/news/4650393-hhs-finalizes-updated-price-transparency-rules-healthcare-costs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 05 Oct 2026 18:18:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HHS finalizes updated price transparency rules for healthcare costs"
+    },
+    {
+     "title": "Polar Power rejects acquisition proposal from Solidion",
+     "link": "https://seekingalpha.com/news/4650392-polar-power-rejects-acquisition-proposal-from-solidion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 05 Oct 2026 18:12:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Polar Power rejects acquisition proposal from Solidion"
+    },
+    {
+     "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
+     "link": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
+     "pubDate": "Mon, 05 Oct 2026 21:52:00 GMT",
+     "summary": "Analysts highlight the stock’s cheap valuation and the chip maker’s central role in the AI ecosystem.",
+     "source": "MarketWatch",
+     "zh": "The case for Nvidia’s stock to march even higher after clinching its first record high in months"
+    },
+    {
+     "title": "This new AI model could help America close a technological gap with China",
+     "link": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories",
+     "pubDate": "Mon, 05 Oct 2026 21:43:00 GMT",
+     "summary": "Nvidia-backed Reflection AI announced Beam, a new ultra-efficient open model that boasts capabilities on par with those of Chinese ones",
+     "source": "MarketWatch",
+     "zh": "This new AI model could help America close a technological gap with China"
+    },
+    {
+     "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
+     "link": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
+     "pubDate": "Mon, 05 Oct 2026 21:27:00 GMT",
+     "summary": "Microsoft looks like a winning play in an environment where investors are looking for safer bets on the AI trend, according to Melius Research.",
+     "source": "MarketWatch",
+     "zh": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says"
+    },
+    {
+     "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
+     "link": "https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories",
+     "pubDate": "Mon, 05 Oct 2026 21:25:00 GMT",
+     "summary": "Even if Toshiba doubles its capacity, analysts say it has a ways to go to catch up with Western Digital and Seagate",
+     "source": "MarketWatch",
+     "zh": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/6 18:12:02",
+ "generated_at": "2026/10/6 18:32:03",
  "recent_days": 7,
  "industries": [
   {
@@ -56,6 +56,22 @@ window.INDUSTRY_DATA = {
      "summary": "JEPA-Anything splits a JEPA's single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JEPA baselines on all 10 dynamics tasks and cut Interventional Pong intervention error by 34.8%. The post Beyond Domain-Specific World Models: JEPA-Anyt",
      "source": "MarkTechPost",
      "zh": "Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields"
+    },
+    {
+     "title": "全球第二、全美第一！一家影视黑马力压硅谷巨头，已估值10亿",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652732250&idx=1&sn=f5b835e43a93f29c1ac453953525288d",
+     "pubDate": "Tue, 06 Oct 2026 12:55:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "全球第二、全美第一！一家影视黑马力压硅谷巨头，已估值10亿"
+    },
+    {
+     "title": "数学要「毕业」了！xAI联创宣判：两千年英雄史彻底落幕",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652732250&idx=2&sn=bb0594c9e4baacd436a72ba509afd2e1",
+     "pubDate": "Tue, 06 Oct 2026 12:55:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "数学要「毕业」了！xAI联创宣判：两千年英雄史彻底落幕"
     },
     {
      "title": "一家影视公司为什么能做出全球第二的视频模型？答案藏在「生产系统」里",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "新智元",
      "zh": "00后浙大博士把4D世界模型首次塞进手机！"
-    },
-    {
-     "title": "陶哲轩深夜力挺！抢在OpenAI发布前夜，Caltech物理AI攻克百年难题",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731866&idx=2&sn=449978a468db9560bce04ec1bd90da22",
-     "pubDate": "Mon, 05 Oct 2026 14:58:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "陶哲轩深夜力挺！抢在OpenAI发布前夜，Caltech物理AI攻克百年难题"
-    },
-    {
-     "title": "刚刚，Hinton发了首篇RSI论文",
-     "link": "https://www.qbitai.com/2026/10/501705.html",
-     "pubDate": "Mon, 05 Oct 2026 04:42:52 +0000",
-     "summary": "AI已经开始真正进入「造下一代AI」的流水线",
-     "source": "量子位",
-     "zh": "刚刚，Hinton发了首篇RSI论文"
     }
    ]
   },
@@ -257,6 +257,22 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "CXL-Connected MRAM Address AI Storage Latency",
+     "link": "https://www.eetimes.com/cxl-connected-mram-address-ai-storage-latency/",
+     "pubDate": "Tue, 06 Oct 2026 10:24:22 +0000",
+     "summary": "Everspin’s demo shows how a 4-GB pool of persistent MRAM can serve as a new tier of storage between DRAM and NAND flash. The post CXL-Connected MRAM Address AI Storage Latency appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "CXL-Connected MRAM Address AI Storage Latency"
+    },
+    {
+     "title": "UK Space Landing Pad Programme launches at UCL",
+     "link": "https://www.electronicsweekly.com/news/uk-space-landing-pad-programme-launches-at-ucl-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 09:57:38 +0000",
+     "summary": "The UK government is backing the UK Space Landing Pad Programme, which is a six-month pilot to attract and support international space companies looking to establish a commercial presence in […] The post UK Space Landing Pad Programme launches at UCL appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "UK Space Landing Pad Programme launches at UCL"
+    },
     {
      "title": "ADATA posts record 3Q revenue as memory prices rise",
      "link": "https://www.digitimes.com/news/a20261006PD243/revenue-2026-dram-demand-memory-module.html",
@@ -378,14 +394,6 @@ window.INDUSTRY_DATA = {
      "zh": "Open Cosmos aims for 192 satellites"
     },
     {
-     "title": "Digital isolators provide flexible signal isolation",
-     "link": "https://www.electronicsweekly.com/news/business/digital-isolators-provide-flexible-signal-isolation-2026-10/",
-     "pubDate": "Tue, 06 Oct 2026 05:03:15 +0000",
-     "summary": "Toshiba has brought out four dual-channel digital isolators designed to help reduce power consumption and provide flexible signal isolation, extending its low-power industrial digital isolator line-up. The DCL32xx00 series targets […] The post Digital isolators provide flexible signal isolation appe",
-     "source": "Electronics Weekly",
-     "zh": "Digital isolators provide flexible signal isolation"
-    },
-    {
      "title": "Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027",
      "link": "https://www.eetimes.com/kepler-aims-to-launch-energy-saving-replacement-for-hbm-in-2027/",
      "pubDate": "Mon, 05 Oct 2026 20:00:00 +0000",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Broader appeal for the electric car is a big challenge. Innovation is still the best solution. The post Electric Car Makers Need to Appeal to the ‘Other 90%’ appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Electric Car Makers Need to Appeal to the ‘Other 90%’"
-    },
-    {
-     "title": "AutoSens 2026: Regulation Drives Automotive Sensing Architectures",
-     "link": "https://www.eetimes.com/autosens-2026-regulations-drive-automotive-sensing-architectures/",
-     "pubDate": "Fri, 02 Oct 2026 15:58:50 +0000",
-     "summary": "At AutoSens Europe, automotive sensing designs reflected tighter safety standards, advances in AI processing, and growing cybersecurity requirements. The post AutoSens 2026: Regulation Drives Automotive Sensing Architectures appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "AutoSens 2026: Regulation Drives Automotive Sensing Architectures"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Indian startup claims over 1,500 cycles for sodium-ion cell with Prussian white cathode",
+     "link": "https://www.pv-magazine.com/2026/10/06/indian-startup-claims-over-1500-cycles-for-sodium-ion-cell-with-prussian-white-cathode/",
+     "pubDate": "Tue, 06 Oct 2026 10:20:44 +0000",
+     "summary": "Indian startup Macsen Energy claims its Prussian white-based sodium-ion battery cell has exceeded 1,500 charge-discharge cycles in laboratory testing, retaining 90% of its initial capacity after 1,000 cycles. The company also plans to build a cathode material production facility and battery cell pil",
+     "source": "pv magazine",
+     "zh": "Indian startup claims over 1,500 cycles for sodium-ion cell with Prussian white cathode"
+    },
+    {
      "title": "Zelestra and EDP expand solar-plus-storage PPA partnership with another 462MWh of batteries in Spain",
      "link": "https://www.energy-storage.news/zelestra-and-edp-expand-solar-plus-storage-ppa-partnership-with-another-462mwh-of-batteries-in-spain/",
      "pubDate": "Tue, 06 Oct 2026 09:19:57 +0000",
@@ -928,14 +936,6 @@ window.INDUSTRY_DATA = {
      "summary": "Asian countries have responded more aggressively than others to the energy supply crunch caused by the U.S. and Israeli war on Iran and now they are running out of resources to continue their response, the World Bank warned in a new report. The report actually focuses on the potential of artificial ",
      "source": "OilPrice",
      "zh": "World Bank Warns Asia Is Running Out of Money to Fight Energy Shock"
-    },
-    {
-     "title": "Utility solar generation reaches record highs in Australia",
-     "link": "https://www.pv-magazine.com/2026/10/06/utility-solar-generation-reaches-record-highs-in-nem/",
-     "pubDate": "Tue, 06 Oct 2026 06:04:30 +0000",
-     "summary": "Output from Australia’s large-scale renewable energy assets continues to climb with the nation’s utility PV and wind power plants generating a total of 5.44 TWh of clean energy in September, delivering a 7% increase on the same time last year. The post Utility solar generation reaches record highs i",
-     "source": "pv magazine",
-     "zh": "Utility solar generation reaches record highs in Australia"
     },
     {
      "title": "Sumitomo Corporation invests in Hero Future Energies’ solar-wind-storage hybrid in Karnataka, India",
@@ -1205,7 +1205,7 @@ window.INDUSTRY_DATA = {
      "title": "FDA delays Novo’s hemophilia A drug review over factory issues",
      "link": "https://endpoints.news/fda-delays-novos-hemophilia-a-drug-review-over-factory-issues/",
      "pubDate": "Mon, 05 Oct 2026 16:27:02 +0000",
-     "summary": "US regulators have extended their review of Novo's hemophilia A injection, denecimig, because of issues at an unnamed manufacturing facility. The FDA attributed the delay to “ongoing facility remediation activities” observed during a pre-license inspection ...",
+     "summary": "US regulators have extended their review of Novo's hemophilia A injection denecimig because of issues at an unnamed manufacturing facility. The FDA attributed the delay to “ongoing facility remediation activities” observed during a pre-license inspection ...",
      "source": "Endpoints News",
      "zh": "FDA delays Novo’s hemophilia A drug review over factory issues"
     },
@@ -1738,6 +1738,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "AMD CEO Lisa Su says the company plans to \"substantially increase\" supply in 2027 and needs \"more advanced wafer capacity\", as she meets Foxconn and TSMC (Wen-Yee Lee/Reuters)",
+     "link": "https://www.techmeme.com/261006/p10#a261006p10",
+     "pubDate": "Tue, 06 Oct 2026 06:25:00 -0400",
+     "summary": "Wen-Yee Lee / Reuters : AMD CEO Lisa Su says the company plans to &ldquo;substantially increase&rdquo; supply in 2027 and needs &ldquo;more advanced wafer capacity&rdquo;, as she meets Foxconn and TSMC &nbsp; &mdash;&nbsp; AMD (AMD.O) plans to substantially increase chip supply in 2027 as the US chi",
+     "source": "Techmeme",
+     "zh": "AMD CEO Lisa Su says the company plans to \"substantially increase\" supply in 2027 and needs \"more advanced wafer capacity\", as she meets Foxconn and TSMC (Wen-Yee Lee/Reuters)"
+    },
+    {
+     "title": "三款第一方游戏任选其一：任天堂将在日本推出 Switch 2“主机 + 游戏”自选套装，",
+     "link": "https://www.ithome.com/1/010/032.htm",
+     "pubDate": "Tue, 06 Oct 2026 10:14:25 GMT",
+     "summary": "IT之家 10 月 6 日消息，任天堂今天宣布，公司将于 11 月 12 日在日本发售 Switch 2 游戏机 + 第一方游戏自选套装， 定价 63,980 日元 （IT之家注：现汇率约合 2,719 元人民币） 。 据介绍，该套装包含 Switch 2 游戏机本体 + 游戏兑换码。玩家可在 eShop， 从《马力欧赛车世界》《任天堂 Switch 运动度假胜地》或《朋友收集：梦想生活》3 款游戏中任选 1 款 ，下载到主机。 需要注意的是，该套装内的 Switch 2 主机为“日本語・国内専用”版本， 系统语言仅能设置为日语 ， 且只能登录地区为日本的任天堂账号 。 作为对比，日版 Swi",
+     "source": "IT之家",
+     "zh": "三款第一方游戏任选其一：任天堂将在日本推出 Switch 2“主机 + 游戏”自选套装，"
+    },
+    {
+     "title": "At an Australian hearing, OpenAI Chief Strategy Officer Jason Kwon pledged faster safety incident disclosures; Anthropic representatives made similar pledges (ABC)",
+     "link": "https://www.techmeme.com/261006/p9#a261006p9",
+     "pubDate": "Tue, 06 Oct 2026 06:11:38 -0400",
+     "summary": "ABC : At an Australian hearing, OpenAI Chief Strategy Officer Jason Kwon pledged faster safety incident disclosures; Anthropic representatives made similar pledges &nbsp; &mdash;&nbsp; By national AI reporter Cam Wilson and the Specialist Reporting Team's Miwa Blumer&nbsp; &mdash;&nbsp; abc.net.au/n",
+     "source": "Techmeme",
+     "zh": "At an Australian hearing, OpenAI Chief Strategy Officer Jason Kwon pledged faster safety incident disclosures; Anthropic representatives made similar pledges (ABC)"
+    },
+    {
+     "title": "国庆中的快消人，不谈假期，只有卖货",
+     "link": "https://www.huxiu.com/article/4895550.html?f=rss",
+     "pubDate": "Tue, 06 Oct 2026 18:11:15 +0800",
+     "summary": "本文来自微信公众号： 新经销 ，作者：金名 领导在群里发了一条消息：“国庆只放3天假，大家安排轮休，每天都得有人在市场上。” 群里面的回应没有半点犹豫，立马是齐刷刷的“收到”。 前不久流出来的新闻，某头部饮品公司，中秋、国庆分别只放1天假，在网上闹开了。有人痛批厂家没人性，有人说是为了消化节前压货的库存…… 这怎么还成了新闻？在快消厂家干过的人都知道，这是厂家的常规操作，10多年前大厂就这么干了。我待过的几家快消公司，放假都没有放满的，国庆能放个5天就算非常不错的。 快消行业，有歌为证：你我皆牛马，活在这人世间；时间不见了，整日不得闲。 不是不能休，是不敢休 快消产品的特点：周转快、随机性、即",
+     "source": "虎嗅",
+     "zh": "国庆中的快消人，不谈假期，只有卖货"
+    },
+    {
+     "title": "服务条款可单方面变更服务功能及订阅费等，意大利反垄断机构对 AI 音乐平台 Suno 展开调查",
+     "link": "https://www.ithome.com/1/010/031.htm",
+     "pubDate": "Tue, 06 Oct 2026 10:11:14 GMT",
+     "summary": "IT之家 10 月 6 日消息，据路透社报道，意大利反垄断机构于周二宣布，已对人工智能音乐初创公司 Suno 展开调查。该机构指出，Suno 的服务条款中部分规定可能对消费者构成不公平待遇。 官方表示，Suno 的服务条款可能导致用户的权利与义务严重失衡。这些条款赋予了 Suno “广泛的自由裁量权”， 使其能够在不给出任何合理解释的前提下，单方面变更合同条款、服务功能及订阅资费 。 监管机构还强调，用户被要求让渡的授权许可范围过于宽泛， 甚至包含放弃著作人身权的条款 ，这涉嫌抵触意大利版权法的相关规定。 此外，Suno 的条款强行要求用户必须通过位于美国的强制仲裁渠道解决争议， 并强制要求用",
+     "source": "IT之家",
+     "zh": "服务条款可单方面变更服务功能及订阅费等，意大利反垄断机构对 AI 音乐平台 Suno 展开调查"
+    },
+    {
      "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
      "link": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
      "pubDate": "Tue, 06 Oct 2026 10:07:36 +0000",
@@ -1805,9 +1845,17 @@ window.INDUSTRY_DATA = {
      "title": "2026 年诺贝尔物理学奖揭晓！Francis Halzen 获奖，在南极造一立方公里冰疙瘩，捕捉宇宙中微子",
      "link": "https://www.ithome.com/1/010/028.htm",
      "pubDate": "Tue, 06 Oct 2026 09:49:15 GMT",
-     "summary": "IT之家 10 月 6 日消息，2026 年诺贝尔物理学奖正式揭晓， 授予 Francis Halzen ，表彰他“对冰立方中微子天文台（IceCube Neutrino Observatory）的决定性贡献以及发现具有天体物理起源的高能中微子”。 诺贝尔奖官方评语称，Francis Halzen 意识到，南极的冰可以用来追踪被称为中微子的粒子。他的远见和科学领导力对冰立方中微子观测站至关重要 —— 这是一个装备了光传感器的一立方公里冰体。利用冰立方， 研究人员可以捕捉来自遥远宇宙中极高能量过程的中微子 。 宇宙中存在天然的粒子加速器，这些加速器能发射出能量高达地球上实验室所能达到的百万倍的粒",
+     "summary": "IT之家 10 月 6 日消息，2026 年诺贝尔物理学奖正式揭晓， 授予 Francis Halzen ，表彰他“对冰立方中微子天文台（IceCube Neutrino Observatory）的决定性贡献以及发现具有天体物理起源的高能中微子”。 Francis Halzen 于 1944 年 3 月 23 日出生于比利时蒂嫩（今年 82 岁），目前隶属于美国威斯康星大学麦迪逊分校。 诺贝尔奖官方评语称，Francis Halzen 意识到，南极的冰可以用来追踪被称为中微子的粒子。他的远见和科学领导力对冰立方中微子观测站至关重要 —— 这是一个装备了光传感器的一立方公里冰体。利用冰立方， 研",
      "source": "IT之家",
      "zh": "2026 年诺贝尔物理学奖揭晓！Francis Halzen 获奖，在南极造一立方公里冰疙瘩，捕捉宇宙中微子"
+    },
+    {
+     "title": "Nobel Prize in Physics goes to Francis Halzen",
+     "link": "https://www.nobelprize.org/prizes/physics/2026/",
+     "pubDate": "Tue, 06 Oct 2026 09:48:46 +0000",
+     "summary": "Article URL: https://www.nobelprize.org/prizes/physics/2026/ Comments URL: https://news.ycombinator.com/item?id=49976265 Points: 50 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Nobel Prize in Physics goes to Francis Halzen"
     },
     {
      "title": "《皇牌空战 8：希孚之翼》Steam 同时在线玩家数突破 5.2 万，创系列游戏新纪录",
@@ -1840,22 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 移动观察 ，作者：舰队指挥官 2025年12月，全球扫地机器人的鼻祖iRobot宣布破产，被来自中国的代工厂深圳杉川以100%债权转股权收购，一代全球扫地机器人鼻祖，就此唏嘘落幕。 这家从麻省理工走出来的机器人公司，技术非常雄厚。巅峰时期，它占据全球扫地机器人超过80%的市场份额，亲手定义了整个扫地机器人行业。 同时，iRobot手上握有大量扫地机器人的专利。它围绕机器人导航、控制、清扫、避障和自动回充，建立起庞大的专利体系。但这些专利，最终并没有帮助iRobot形成有效的护城河，把其他竞争对手挡在外面。 从商业竞争的角度看，这几乎是一手很好的牌：品类是你开创的，品牌是你",
      "source": "虎嗅",
      "zh": "扫地机器人鼻祖iRobot为何惨败？（技术大败局03）"
-    },
-    {
-     "title": "《逃离塔科夫》最大规模 PvE 更新上线，终于新增威望系统",
-     "link": "https://www.ithome.com/1/010/025.htm",
-     "pubDate": "Tue, 06 Oct 2026 09:31:53 GMT",
-     "summary": "IT之家 10 月 6 日消息，Battlestate Games 工作室现已为《逃离塔科夫》游戏推送 1.2.0.0 版本更新。本次更新规模巨大，调整战利品池、AI 控制的 PMC 行为以及升级机制，PvE 模式终于加入了威望（Prestige）系统。 据介绍，本次更新调整了 AI PMC 运作机制，让游戏体验更加沉浸且难以预测。在部分地点，玩家将遇到等级与所在区域相匹配的机器人。 IT之家注意到，本次更新为 PvE 模式加入了威望系统，玩家满足特定前置条件后，可以进行类似重置角色的操作，还能够拿到丰厚的奖励。 此外，本次更新还改进了个人资料自定义功能。玩家现在可以选择在个人资料中显示哪一个",
-     "source": "IT之家",
-     "zh": "《逃离塔科夫》最大规模 PvE 更新上线，终于新增威望系统"
-    },
-    {
-     "title": "Skyworks 完成与 Qorvo 合并，打造射频芯片业龙头",
-     "link": "https://www.ithome.com/1/010/024.htm",
-     "pubDate": "Tue, 06 Oct 2026 09:31:13 GMT",
-     "summary": "IT之家 10 月 6 日消息，射频半导体企业 Skyworks（思佳讯）美国当地时间本月 5 日宣布， 已完成对同行 Qorvo 的合并 。合并后的 Skyworks 在全球各地拥有约 8,000 名工程师和超过 12,000 项已颁发和正在申请的专利。 根据合并协议条款，原 Qorvo 股东持有的每一股 Qorvo 股票将兑换为 32.5 美元现金和 0.96 股 Skyworks 普通股。原 Skyworks 股东持有新 Skyworks 约 63% 的股份，原 Qorvo 股东则持有剩余约 37% 的股份。 新 Skyworks 是一家规模更大、业务更多元化的半导体公司，拥有更丰富的射",
-     "source": "IT之家",
-     "zh": "Skyworks 完成与 Qorvo 合并，打造射频芯片业龙头"
     },
     {
      "title": "Bose QuietComfort Headphones (2nd Gen) Review: Noise-Canceling Champ",
@@ -1914,36 +1946,12 @@ window.INDUSTRY_DATA = {
      "zh": "ChatGPT is not only using New Yorker cartoonists&apos; style but also adding their signatures to the fake cartoons it creates, which have gone viral on social media (Andrew Deck/Nieman Lab)"
     },
     {
-     "title": "交大师姐，估值700亿",
-     "link": "https://www.huxiu.com/article/4895536.html?f=rss",
-     "pubDate": "Tue, 06 Oct 2026 16:02:37 +0800",
-     "summary": "本文来自微信公众号： 投资界 ，作者：王露 Jev爆红，估值10天涨50倍。 报道/投资界PEdaily 又一个AI神话诞生。 据悉，TypeSafe AI正在洽谈至少10亿美元新融资，并已有投资人给出100亿美元以上估值报价。就在消息传出十天前，这家公司刚刚浮出水面。 撑起这份想象的，是突然爆火的新模型Jev。从开发者社区到投资人群聊，这个名字几乎无处不在，惊叹与争论接连涌来。喧嚣里，熟悉的错失焦虑再次出现。 更引人注意的是，TypeSafe AI的三位创始人中，有位上海女生Sasha Sheng——她高考考入上海交通大学，后来进入Yahoo和Facebook，一路从移动产品、机器学习走到A",
-     "source": "虎嗅",
-     "zh": "交大师姐，估值700亿"
-    },
-    {
-     "title": "Q&A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more (Nilay Patel/The Verge)",
-     "link": "https://www.techmeme.com/261006/p4#a261006p4",
-     "pubDate": "Tue, 06 Oct 2026 03:50:01 -0400",
-     "summary": "Nilay Patel / The Verge : Q&A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more &nbsp; &mdash;&nbsp; Today, I'm talking with Senator Adam Schiff, a Democrat from California.&nbsp; Sen. Schiff s",
-     "source": "Techmeme",
-     "zh": "Q&A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more (Nilay Patel/The Verge)"
-    },
-    {
      "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
      "link": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
      "pubDate": "Tue, 06 Oct 2026 07:29:50 +0000",
-     "summary": "Article URL: https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x Comments URL: https://news.ycombinator.com/item?id=49975345 Points: 16 # Comments: 13",
+     "summary": "Article URL: https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x Comments URL: https://news.ycombinator.com/item?id=49975345 Points: 39 # Comments: 30",
      "source": "Hacker News",
      "zh": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI"
-    },
-    {
-     "title": "Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that Sam Altman, Dario Amodei, and others could be held liable (Lee Harris/Financial Times)",
-     "link": "https://www.techmeme.com/261006/p3#a261006p3",
-     "pubDate": "Tue, 06 Oct 2026 02:30:00 -0400",
-     "summary": "Lee Harris / Financial Times : Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that Sam Altman, Dario Amodei, and others could be held liable &nbsp; &mdash;&nbsp; Insurers and lawyers weigh the cost of potential massive lawsuits and damages against the",
-     "source": "Techmeme",
-     "zh": "Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that Sam Altman, Dario Amodei, and others could be held liable (Lee Harris/Financial Times)"
     },
     {
      "title": "火箭发动机的“技术鄙视链”",
@@ -1968,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "而当设计团队地位被再次拔高，乃至可能成为苹果产品开发起点，那么苹果在AI时代能否复刻iPhone神迹，用全新产品范式开启下一个十年，我们拭目以待。",
      "source": "钛媒体",
      "zh": "重塑苹果设计团队核心地位，特努斯瞄准下一个十年竞争"
-    },
-    {
-     "title": "AI 越来越强，公司为什么还是做不快？",
-     "link": "https://www.tmtpost.com/8159894.html",
-     "pubDate": "Tue, 06 Oct 2026 12:31:52 +0800",
-     "summary": "成果看起来越完整，剩下的工作越容易被误解为拖延。",
-     "source": "钛媒体",
-     "zh": "AI 越来越强，公司为什么还是做不快？"
     }
    ]
   },
@@ -1985,6 +1985,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The Google app could soon get a cleaner, more organized settings page, and here’s your first look",
+     "link": "https://www.androidauthority.com/google-app-settings-page-redesign-apk-teardown-3719503/",
+     "pubDate": "Tue, 06 Oct 2026 10:21:10 +0000",
+     "summary": "The settings page is finally getting some much-needed attention.",
+     "source": "Android Authority",
+     "zh": "The Google app could soon get a cleaner, more organized settings page, and here’s your first look"
+    },
+    {
+     "title": "vivo V80 hands-on review",
+     "link": "https://www.gsmarena.com/vivo_v80_hands_on_review-news-74893.php",
+     "pubDate": "Tue, 06 Oct 2026 12:11:02 +0200",
+     "summary": "vivo hosted a grand event today in Gurgaon, India, where it unveiled the V80 and S2 FE and introduced the X Fold6 to the Indian market. We used the vivo V80 for a few days, and here's how it performed. Design The vivo V80 is built around a 6.59\" 1,260p 144Hz AMOLED display, surrounded by 1.25mm beze",
+     "source": "GSMArena",
+     "zh": "vivo V80 hands-on review"
+    },
     {
      "title": "This Amazfit Active Max deal knocks 18% off a fitness smartwatch built for training",
      "link": "https://www.androidauthority.com/amazfit-active-max-deal-prime-day-3718188/",
@@ -2034,14 +2050,6 @@ window.INDUSTRY_DATA = {
      "zh": "Xbox Elite Controller 3 specs leak via Xbox's own Design Lab"
     },
     {
-     "title": "I turned an old Android phone into a DIY smart home hub — here’s how it works",
-     "link": "https://www.androidauthority.com/turned-old-android-phone-into-smart-home-hub-how-3718298/",
-     "pubDate": "Tue, 06 Oct 2026 09:30:03 +0000",
-     "summary": "Everyone loves a budget smart home until excessive automation creates a mess.",
-     "source": "Android Authority",
-     "zh": "I turned an old Android phone into a DIY smart home hub — here’s how it works"
-    },
-    {
      "title": "Here's when Siri AI may finally become available in the EU",
      "link": "https://www.gsmarena.com/heres_when_siri_ai_may_finally_become_available_in_the_eu-news-74916.php",
      "pubDate": "Tue, 06 Oct 2026 11:12:02 +0200",
@@ -2080,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Xiaomi started a trend last year with the 17 Pro and 17 Pro Max - not a huge trend, but a trend nonetheless. Other Chinese smartphone makers are now starting to get inspired by the idea of having a screen on the rear of some of their devices. And today it's Honor's turn to join the party. Ladies and",
      "source": "GSMArena",
      "zh": "Honor X5d s takes the rear screen idea to a very low price point"
-    },
-    {
-     "title": "vivo Y32 quietly launches with an 8,000 mAh battery",
-     "link": "https://www.gsmarena.com/vivo_y32_quietly_launches_with_an_8000_mah_battery-news-74912.php",
-     "pubDate": "Tue, 06 Oct 2026 06:01:02 +0200",
-     "summary": "vivo has quietly listed the Y32 on its website in Bangladesh. The phone is obviously not to be confused with the Y32 from 2021 - we're not sure why the company is reusing the name so soon (or at all, really), but it is what it is. Anyway, the new Y32 comes with a 6.87-inch LCD screen with 720x1592 r",
-     "source": "GSMArena",
-     "zh": "vivo Y32 quietly launches with an 8,000 mAh battery"
     },
     {
      "title": "Apple reportedly planning second wave of product announcements later this month",
@@ -2234,6 +2234,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Options market points to 50% chance Nvidia hits $6T market cap this month",
+     "link": "https://seekingalpha.com/news/4650446-options-market-points-to-50-chance-nvidia-hits-6t-market-cap-this-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 06:25:27 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Options market points to 50% chance Nvidia hits $6T market cap this month"
+    },
+    {
+     "title": "AM Markets Need to Know: World Bank lifts Asia growth view, Treasury risks, and more",
+     "link": "https://seekingalpha.com/news/4650448-am-markets-need-to-know-world-bank-lifts-asia-growth-view-treasury-risks-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 06:19:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AM Markets Need to Know: World Bank lifts Asia growth view, Treasury risks, and more"
+    },
+    {
+     "title": "Applied Digital to build up to 1 GW campus in Finland",
+     "link": "https://seekingalpha.com/news/4650445-applied-digital-to-build-up-to-1-gw-campus-in-finland?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 06:15:46 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Applied Digital to build up to 1 GW campus in Finland"
+    },
+    {
+     "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
+     "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+     "pubDate": "Tue, 06 Oct 2026 10:15:00 GMT",
+     "summary": "A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”",
+     "source": "MarketWatch",
+     "zh": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble."
+    },
+    {
+     "title": "Francis Halzen独揽2026年诺贝尔物理学奖：主导南极“冰立方”项目，开启中微子天文学新纪元",
+     "link": "https://wallstreetcn.com/articles/3783069",
+     "pubDate": "Tue, 06 Oct 2026 18:13:03 +0800",
+     "summary": "比利时裔美国物理学家Francis Halzen凭借其对冰立方中微子天文台的决定性贡献，以及对天体物理起源高能中微子的发现，荣获2026年诺贝尔物理学奖。这一奖项标志着人类探索宇宙极端环境的方式迎来根本性变革。 10月6日周二，诺贝尔委员会于最新公告中宣布，将本年度物理学奖全额授予Halzen一人，表彰其在南极冰层中构建起一台体积达一立方公里的中微子探测装置的科学愿景与领导力。 该装置自2011年建成以来，已成功捕获来自太阳系外的高能中微子，证实宇宙中存在远比地球实验室强大百万倍的天然粒子加速器。 诺贝尔物理学委员会主席Mark Pearce表示，Halzen的坚韧与科学远见\"为一种全新的天文",
+     "source": "华尔街见闻",
+     "zh": "Francis Halzen独揽2026年诺贝尔物理学奖：主导南极“冰立方”项目，开启中微子天文学新纪元"
+    },
+    {
+     "title": "KBR secures Aramco engineering contract for Marjan offshore field upgrades",
+     "link": "https://seekingalpha.com/news/4650444-kbr-secures-aramco-engineering-contract-for-marjan-offshore-field-upgrades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 06:11:20 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "KBR secures Aramco engineering contract for Marjan offshore field upgrades"
+    },
+    {
+     "title": "Italy probes U.S. music-generating startup Suno over its terms of service",
+     "link": "https://seekingalpha.com/news/4650443-italy-probes-us-music-generating-startup-suno-over-its-terms-of-service?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 06:08:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Italy probes U.S. music-generating startup Suno over its terms of service"
+    },
+    {
      "title": "Barbie maker Mattel faces investor pressure to consider a sale amid stagnating growth",
      "link": "https://www.cnbc.com/2026/10/06/mattel-barbie-ariel-sale-investor-pressure.html",
      "pubDate": "Tue, 06 Oct 2026 10:07:03 GMT",
@@ -2266,6 +2322,14 @@ window.INDUSTRY_DATA = {
      "zh": "Should I put my nest egg in a 30-year Treasury bond?"
     },
     {
+     "title": "House China committee chair urges Fed to review Hong Kong’s access to dollar lifeline",
+     "link": "https://www.cnbc.com/2026/10/06/hong-kong-fed-fima-dollar-liquidity-china-moolenaar.html",
+     "pubDate": "Tue, 06 Oct 2026 09:58:14 GMT",
+     "summary": "Rep. John Moolenaar wants the Fed to rethink Hong Kong’s access to a dollar-liquidity facility as China promotes the renminbi as a global currency.",
+     "source": "CNBC",
+     "zh": "House China committee chair urges Fed to review Hong Kong’s access to dollar lifeline"
+    },
+    {
      "title": "Elon Musk’s wealth tops $1 trillion. These entire countries produce less.",
      "link": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
      "pubDate": "Tue, 06 Oct 2026 09:56:00 GMT",
@@ -2290,14 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "【环球财经】日本多行业频发个人信息泄漏事件"
     },
     {
-     "title": "China's Moonshot AI targets Q1 2027 IPO at $50B valuation - report",
-     "link": "https://seekingalpha.com/news/4650439-chinas-moonshot-ai-targets-q1-2027-ipo-at-50b-valuation---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 05:52:12 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "China's Moonshot AI targets Q1 2027 IPO at $50B valuation - report"
-    },
-    {
      "title": "French regulator targets crowdfunding platforms",
      "link": "https://www.finextra.com/newsarticle/48537/french-regulator-targets-crowdfunding-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Tue, 06 Oct 2026 09:51:00 GMT",
@@ -2310,64 +2366,8 @@ window.INDUSTRY_DATA = {
      "link": "http://finance.eastmoney.com/news/1345,202610063888774622.html",
      "pubDate": "Tue, 06 Oct 2026 17:50:10 +0800",
      "summary": "当地时间10月6日，瑞典皇家科学院决定将2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑，以表彰他对冰立方中微子天文台作出的决定性贡献，以及对天体物理来源高能中微子的发现。他将获得1200万瑞典克朗（约合802万元人民币）奖金。 弗朗西斯·哈尔岑，1944年出生于比利时蒂嫩。1969年获得比利时鲁汶大学博士学位。现任美国威斯康星大学麦迪逊分校教授。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "2026年诺贝尔物理学奖揭晓"
-    },
-    {
-     "title": "2026年诺贝尔物理学奖揭晓：弗朗西斯·哈尔岑获奖",
-     "link": "https://wallstreetcn.com/articles/3783069",
-     "pubDate": "Tue, 06 Oct 2026 17:49:27 +0800",
-     "summary": "比利时裔美国物理学家Francis Halzen凭借其对冰立方中微子天文台的决定性贡献，以及对天体物理起源高能中微子的发现，荣获2026年诺贝尔物理学奖。这一奖项标志着人类探索宇宙极端环境的方式迎来根本性变革。 10月6日周二，诺贝尔委员会于最新公告中宣布，将本年度物理学奖全额授予Halzen一人，表彰其在南极冰层中构建起一台体积达一立方公里的中微子探测装置的科学愿景与领导力。 该装置自2011年建成以来，已成功捕获来自太阳系外的高能中微子，证实宇宙中存在远比地球实验室强大百万倍的天然粒子加速器。 诺贝尔物理学委员会主席Mark Pearce表示，Halzen的坚韧与科学远见\"为一种全新的天文",
-     "source": "华尔街见闻",
-     "zh": "2026年诺贝尔物理学奖揭晓：弗朗西斯·哈尔岑获奖"
-    },
-    {
-     "title": "老干妈质检用上AI 去年营收54亿创历史峰值 线上仍处“断网”状态",
-     "link": "http://finance.eastmoney.com/news/1354,202610063888776096.html",
-     "pubDate": "Tue, 06 Oct 2026 17:48:53 +0800",
-     "summary": "红星资本局10月6日消息，近日，老干妈常务副总、首席质量官李鑫在2026年贵州省质量发展大会上透露，2025年，老干妈全面上线AI视觉质检系统，营收达54亿元，创历史最高峰值。 这家成立30年的辣椒制品龙头企业曾经历发展低谷期，营收一度从2016年的45亿元降至2018年的43亿元，直至2019年业绩再度迎来上涨。在此期间，也传出创始人陶华碧淡出经营、辣椒原料改变等消息。 而在互联网营销竞争白热化的背景下，目前老干妈线上仍处于“断网”状态。10月6日，红星资本局梳理发现，老干妈官方 微博 仍未年审，官方微信公众号最新一条推文仍停留在2022年3月，抖音依旧显示，近一年无直播记录。 上线AI视觉",
-     "source": "东方财富股票",
-     "zh": "老干妈质检用上AI 去年营收54亿创历史峰值 线上仍处“断网”状态"
-    },
-    {
-     "title": "华润饮料：10月6日斥资146.23万港元回购20.10万股",
-     "link": "http://hk.eastmoney.com/news/11223,202610063888777041.html",
-     "pubDate": "Tue, 06 Oct 2026 17:48:00 +0800",
-     "summary": "南财智讯10月6日电， 华润饮料 （02460.HK）发布翌日披露报表，10月6日，公司回购20.10万股，每股最高回购价为7.31港元，每股最低回购价为7.19港元，付出的总代价为146.23万港元。本次回购股份拟注销。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "华润饮料：10月6日斥资146.23万港元回购20.10万股"
-    },
-    {
-     "title": "百胜中国：10月5日斥资788.67万港元回购2.52万股",
-     "link": "http://hk.eastmoney.com/news/11223,202610063888776911.html",
-     "pubDate": "Tue, 06 Oct 2026 17:48:00 +0800",
-     "summary": "南财智讯10月6日电， 百胜中国 （09987.HK）发布翌日披露报表，10月5日，公司于香港联交所回购2.52万股，每股最高回购价315.60港元，每股最低回购价310.60港元，付出的总代价788.67万港元；于纽约证券交易所回购6.71万股，每股最高回购价40.43美元，每股最低回购价40.04美元，付出的总代价270万美元。上述回购股份拟注销。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "百胜中国：10月5日斥资788.67万港元回购2.52万股"
-    },
-    {
-     "title": "摩根大通在中海油田服务的H股好仓比例下降0.05%至5.99%",
-     "link": "http://hk.eastmoney.com/news/1556,202610063888776852.html",
-     "pubDate": "Tue, 06 Oct 2026 17:48:00 +0800",
-     "summary": "南财智讯10月6日电， 香港交易所 披露信息显示，JPMorganChase&Co.（ 摩根大通 ）在 中海油田服务 的H股好仓（L）比例于10月1日从6.04%下降至5.99%。同时淡仓（S）比例从1.18%降至1.12%。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "摩根大通在中海油田服务的H股好仓比例下降0.05%至5.99%"
-    },
-    {
-     "title": "贝莱德在工商银行的H股好仓比例下降0.05%至4.99%",
-     "link": "http://hk.eastmoney.com/news/1556,202610063888776729.html",
-     "pubDate": "Tue, 06 Oct 2026 17:48:00 +0800",
-     "summary": "南财智讯10月6日电， 香港交易所 披露信息显示，BlackRock,Inc.（ 贝莱德 ）在 工商银行 的H股好仓（L）比例于10月1日从5.04%下降至4.99%。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "贝莱德在工商银行的H股好仓比例下降0.05%至4.99%"
-    },
-    {
-     "title": "Yemeni forces say they secured Red Sea waterway; Houthis target Saudi airports",
-     "link": "https://seekingalpha.com/news/4650422-yemeni-forces-saudi-arabia-houthis-attacks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 05:46:50 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Yemeni forces say they secured Red Sea waterway; Houthis target Saudi airports"
     },
     {
      "title": "Michael Burry says he’s sold out of his top holding — for now",
@@ -2384,30 +2384,6 @@ window.INDUSTRY_DATA = {
      "summary": "10月5日，OpenAI联合创始人兼CEO Sam Altman在接受《名利场》深度专访时，就人工智能的存在性风险、开源模型的网络安全威胁、监管边界以及AI基础设施竞赛等核心议题发表了迄今最为系统的表态。他承认AI导致人类文明终结的概率\"非零\"，同时警告开源大模型将引发\"网络安全海啸\"，并坚持认为算力投入与安全标准必须同步提升。 在风险与监管问题上，Altman的立场颇为微妙： 他一方面主动暂停了Astra 6.1模型的发布，理由是该模型“倾向于事故风险”；另一方面又明确表示支持开源模型，即便这意味着社会必须承受“相当严重的网络安全事件”。 他对特朗普政府主导的AI自律协议评价有限，称其\"是个",
      "source": "华尔街见闻",
      "zh": "Altman深度访谈：人类灭绝风险非零、开源模型将引发网络安全海啸，算力竞赛不会停"
-    },
-    {
-     "title": "Elong Power Holding GAAP EPS of -$42.36, revenue of $2.9M",
-     "link": "https://seekingalpha.com/news/4650440-elong-power-holding-gaap-eps-of-4236-revenue-of-29m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 05:33:48 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Elong Power Holding GAAP EPS of -$42.36, revenue of $2.9M"
-    },
-    {
-     "title": "Wall Street profits could exceed $90B if rest of the year tracks, NY state comptroller says",
-     "link": "https://seekingalpha.com/news/4650309-wall-street-profits-could-exceed-90b-if-rest-of-the-year-tracks-ny-state-comptroller-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 05:30:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Wall Street profits could exceed $90B if rest of the year tracks, NY state comptroller says"
-    },
-    {
-     "title": "Burry flags six stocks as likely tax-loss sale candidates",
-     "link": "https://seekingalpha.com/news/4650431-burry-flags-six-stocks-as-likely-tax-loss-sale-candidates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 05:29:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Burry flags six stocks as likely tax-loss sale candidates"
     },
     {
      "title": "“AI风险吹哨人”作证：AI巨头“极度无视风险”，AI接管人类文明的可能性约1/3",
@@ -2442,12 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "Former German spy chief arrested for treason"
     },
     {
-     "title": "Former N.Y. Gov. Andrew Cuomo buys a 7-acre Hamptons estate for $9.6 million cash",
-     "link": "https://www.marketwatch.com/story/former-n-y-gov-andrew-cuomo-buys-a-7-acre-hamptons-estate-for-9-6-million-cash-2deb9d9f?mod=mw_rss_topstories",
-     "pubDate": "Tue, 06 Oct 2026 09:06:00 GMT",
-     "summary": "Andrew Cuomo has splashed out $9.6 million in cash on a sprawling Hamptons estate—nearly a year after the New York City mayoral primary that marked his return to electoral politics.",
-     "source": "MarketWatch",
-     "zh": "Former N.Y. Gov. Andrew Cuomo buys a 7-acre Hamptons estate for $9.6 million cash"
+     "title": "港股三大指数集体上涨 医药股大爆发",
+     "link": "http://finance.eastmoney.com/news/1345,202610063888765978.html",
+     "pubDate": "Tue, 06 Oct 2026 17:00:35 +0800",
+     "summary": "10月6日，港股三大指数今日高开高走，呈现修复性反弹态势，最终集体收涨。 截至收盘，恒生指数报24280.56点，涨1%；恒生科技指数报4223.08点，涨0.94%；恒生国企指数报8128.97点，涨0.96%。 盘面上，科网股全线走高，支撑大盘。 阿里巴巴 涨超2%， 百度 集团涨超3%，快手涨超2%， 腾讯控股 、小米集团、 京东 集团涨超1%；AI概念股表现突出， 智谱 涨近8%，领涨恒科指数成份股；医药板块强势，多只个股涨幅在6%至9%之间。 另一方面，可选消费经销板块走势疲软， 安踏体育 跌超2%，领跌恒指成份股；光模块（CPO）概念股普跌， 华虹宏力 、 农夫山泉 、 联想集团 ",
+     "source": "东方财富资讯",
+     "zh": "港股三大指数集体上涨 医药股大爆发"
     },
     {
      "title": "谁将胜出？债券风暴席卷欧美日，全球股市却逼近新高",
@@ -2472,6 +2448,30 @@ window.INDUSTRY_DATA = {
      "summary": "10月7日周一，港股主要股指集体收涨，大模型相关个股走强；日经225指数涨超1%，韩国综合指数下跌0.89%，印度SENSEX30指数涨0.80%。 港股主要股指上行，大模型相关个股走强 周二（10月6日），港股主要股指集体走强，恒生指数收涨1%，恒生科技指数涨0.94%。 大模型相关个股走强，智谱涨超7%，minimax涨超2%。 消息面上，亚马逊云科技（AWS）旗下大模型服务平台Amazon Bedrock官宣接入智谱GLM-5.3，AWS基于模型调用量与智谱进行收入分成。据了解，除了AWS外，智谱近期与多家海外云厂商落地收入分成模式。此前，智谱透露计划通过海外云平台收入分成增加一条具有规",
      "source": "华尔街见闻",
      "zh": "港股主要指数收涨，智谱涨超7%，日经225涨超2%，国际油价下跌，美股期货小幅上涨"
+    },
+    {
+     "title": "AI生态如何应对“天价存储”？降规、分离负载和CXL内存池化",
+     "link": "https://wallstreetcn.com/articles/3783065",
+     "pubDate": "Tue, 06 Oct 2026 16:46:50 +0800",
+     "summary": "内存短缺已成为本轮AI建设周期中最持久的结构性制约，而AI算力扩张的脚步不会等待新晶圆厂落地。面对这一矛盾，整个产业链正在探索三条绕道而行的路径——降低内存规格、拆解推理负载，以及通过CXL技术实现内存池化共享——并在此过程中催生出新的投资机会。 摩根士丹利在最新研究报告中指出，英伟达CEO黄仁勋近期已明确表态，行业需要以全新思维应对内存瓶颈。这并非悲观信号，而是产业界对未来数年持续短缺的主动预判。 内存紧缺的烈度或有起伏，但AI将在可预见的未来基本吸收全部可用供应。 在投资层面，摩根士丹利将Astera Labs（ALAB）和Marvell（MRVL）列为CXL及规模扩展方向的潜在受益者，将",
+     "source": "华尔街见闻",
+     "zh": "AI生态如何应对“天价存储”？降规、分离负载和CXL内存池化"
+    },
+    {
+     "title": "华为徐直军：开创AI时代计算架构，让百万处理器成为一台计算机",
+     "link": "http://www.eeo.com.cn/2026/1006/1056672.shtml",
+     "pubDate": "Tue, 06 Oct 2026 16:13:16 +0800",
+     "summary": "日前在上海举行的华为全联接（HC）大会期间，华为轮值董事长徐直军与海思首席科学家廖恒博士，就华为新发布的AI时代的Peerium计算架构和灵衢总线（UnifiedBus），与部分媒体记者进行了问答交流，如下为摘要： 徐直军：非常感谢大家来参加媒体沟通会，我有很长一段时间没...",
+     "source": "经济观察网",
+     "zh": "华为徐直军：开创AI时代计算架构，让百万处理器成为一台计算机"
+    },
+    {
+     "title": "广东高速返程车流高峰来临，今明两天“最易堵”",
+     "link": "http://www.eeo.com.cn/2026/1006/1056671.shtml",
+     "pubDate": "Tue, 06 Oct 2026 16:13:07 +0800",
+     "summary": "10月6日，记者从广东省公安厅交通管理局获悉，根据预判分析，6日、7日广东将迎来高速公路返程车流高峰。对此，广东交警发布易堵路段预警及出行提醒。 来源：南方+",
+     "source": "经济观察网",
+     "zh": "广东高速返程车流高峰来临，今明两天“最易堵”"
     }
    ]
   },

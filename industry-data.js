@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/6 14:31:59",
+ "generated_at": "2026/10/6 14:37:09",
  "recent_days": 7,
  "industries": [
   {
@@ -965,7 +965,7 @@ window.INDUSTRY_DATA = {
      "title": "Virginia hearing examiner tells Dominion to release memo on FPL investigation",
      "link": "https://www.utilitydive.com/news/virginia-hearing-examiner-tells-dominion-to-release-memo-on-fpl-investigati/832149/",
      "pubDate": "Mon, 05 Oct 2026 12:02:18 -0400",
-     "summary": "Dominion said it wasn&rsquo;t relevant to its merger with NextEra Energy, but Clean Virginia, a customer advocacy group, said it spoke to the governance &ldquo;fitness&rdquo; of the potential combined company.",
+     "summary": "Dominion said the memo wasn&rsquo;t relevant to its merger with NextEra Energy, but Clean Virginia, a customer advocacy group, said it speaks to the governance &ldquo;fitness&rdquo; of the potential combined company.",
      "source": "Utility Dive",
      "zh": "Virginia hearing examiner tells Dominion to release memo on FPL investigation"
     },
@@ -997,7 +997,7 @@ window.INDUSTRY_DATA = {
      "title": "Rising interest rates challenge utility financing plans, US Bank managing director says",
      "link": "https://www.utilitydive.com/news/rising-interest-rates-utility-financing-us-bank/832131/",
      "pubDate": "Mon, 05 Oct 2026 10:47:15 -0400",
-     "summary": "For utilities, keeping capital expenditures well-balanced is &ldquo;going to be a little more challenging with [interest] rates going higher as quickly as they have,&rdquo;&nbsp;said Tim Keller, managing director of U.S. Bank&rsquo;s power and utilities group.",
+     "summary": "For utilities, rapidly rising interest rates will make keeping capital expenditures well-balanced &ldquo;a little more challenging,&rdquo; said Tim Keller, managing director of U.S. Bank&rsquo;s power and utilities group.",
      "source": "Utility Dive",
      "zh": "Rising interest rates challenge utility financing plans, US Bank managing director says"
     },
@@ -1013,7 +1013,7 @@ window.INDUSTRY_DATA = {
      "title": "MISO proposes fast-track large load, generation study process",
      "link": "https://www.utilitydive.com/news/miso-large-load-generation-study-lars-ferc/832114/",
      "pubDate": "Mon, 05 Oct 2026 10:01:26 -0400",
-     "summary": "The 120-day study process would be available for loads larger than 200 MW and new generation that *are*>is* in the same local resource zone, which generally cover individual states.",
+     "summary": "The 120-day study process would be available for loads larger than 200 MW and new generation that is in the same local resource zone, which generally consists of individual states.",
      "source": "Utility Dive",
      "zh": "MISO proposes fast-track large load, generation study process"
     },
@@ -1234,12 +1234,12 @@ window.INDUSTRY_DATA = {
      "zh": "Roche enlists Alector in Parkinson's deal, paying $100M upfront"
     },
     {
-     "title": "Optogenics researchers win a Nobel Prize; Roche bets on Alector brain drug",
+     "title": "Optogenetics researchers win a Nobel Prize; Roche bets on Alector brain drug",
      "link": "https://www.biopharmadive.com/news/nobel-optogenetics-roche-alector-csl-alentis-jaypirca-bayer/832083/",
      "pubDate": "Mon, 05 Oct 2026 09:57:00 -0400",
      "summary": "The Nobel laureates &ldquo;laid the foundation&rdquo; for a new field of brain research, the award committee wrote. Elsewhere, Roche and CSL cut licensing deals and the FDA endorsed broader use of a Lilly medicine.",
      "source": "BioPharma Dive",
-     "zh": "Optogenics researchers win a Nobel Prize; Roche bets on Alector brain drug"
+     "zh": "Optogenetics researchers win a Nobel Prize; Roche bets on Alector brain drug"
     },
     {
      "title": "STAT+: Lilly’s Jaypirca approved as first-line CLL therapy",
@@ -1738,6 +1738,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that execs like Sam Altman and Dario Amodei could be held liable (Lee Harris/Financial Times)",
+     "link": "https://www.techmeme.com/261006/p3#a261006p3",
+     "pubDate": "Tue, 06 Oct 2026 02:30:00 -0400",
+     "summary": "Lee Harris / Financial Times : Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that execs like Sam Altman and Dario Amodei could be held liable &nbsp; &mdash;&nbsp; Insurers and lawyers weigh the cost of potential massive lawsuits and damages against t",
+     "source": "Techmeme",
+     "zh": "Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that execs like Sam Altman and Dario Amodei could be held liable (Lee Harris/Financial Times)"
+    },
+    {
      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
      "link": "https://www.ithome.com/1/009/990.htm",
      "pubDate": "Tue, 06 Oct 2026 06:25:15 GMT",
@@ -1968,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg : Sources: Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B &nbsp; &mdash;&nbsp; Moonshot AI has closed the final round of private fundraising at a valuation of about $50 billion and is heading toward an ",
      "source": "Techmeme",
      "zh": "Sources: Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B (Bloomberg)"
-    },
-    {
-     "title": "Why Common Lisp is now the best programming language",
-     "link": "https://www.vivienhenz.com/common-lisp",
-     "pubDate": "Tue, 06 Oct 2026 02:51:51 +0000",
-     "summary": "Article URL: https://www.vivienhenz.com/common-lisp Comments URL: https://news.ycombinator.com/item?id=49973598 Points: 107 # Comments: 138",
-     "source": "Hacker News",
-     "zh": "Why Common Lisp is now the best programming language"
     }
    ]
   },
@@ -1985,6 +1985,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Snapseed could soon bring a professional camera feature to your phone",
+     "link": "https://www.androidauthority.com/snapseed-focus-peaking-apk-teardown-3719427/",
+     "pubDate": "Tue, 06 Oct 2026 06:29:09 +0000",
+     "summary": "Focus peaking could soon join Snapseed's repository of useful photography tools.",
+     "source": "Android Authority",
+     "zh": "Snapseed could soon bring a professional camera feature to your phone"
+    },
     {
      "title": "Samsung’s updated SmartThings takes a few notes from One UI’s Now Brief",
      "link": "https://www.androidauthority.com/samsung-smartthings-now-brief-update-3719415/",
@@ -2202,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung confirms the best new thing about its SmartTag 3 trackers"
     },
     {
-     "title": "Dell’s Googlebook will also cost less than you (and Google) thought",
-     "link": "https://www.androidauthority.com/dell-xps-googlebook-cheaper-pricing-3719356/",
-     "pubDate": "Mon, 05 Oct 2026 21:11:56 +0000",
-     "summary": "It's not just Lenovo, Dell's Googlebook is also cheaper than expected.",
-     "source": "Android Authority",
-     "zh": "Dell’s Googlebook will also cost less than you (and Google) thought"
-    },
-    {
      "title": "You can unlock a Googlebook’s bootloader, Magisk support in the works",
      "link": "https://9to5google.com/2026/10/05/googlebook-bootloader-magisk-root/",
      "pubDate": "Mon, 05 Oct 2026 20:35:00 +0000",
@@ -2234,12 +2234,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "俄军打击乌主要城市数据中心",
+     "link": "http://finance.eastmoney.com/news/11790,202610063888750261.html",
+     "pubDate": "Tue, 06 Oct 2026 14:19:55 +0800",
+     "summary": "据俄新社报道，俄罗斯国防部今天（10月6日）表示，俄军在夜间袭击中打击了乌克兰多个主要城市的 数据中心 。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "俄军打击乌主要城市数据中心"
+    },
+    {
+     "title": "布伦特原油期货向下跌破100美元/桶",
+     "link": "http://finance.eastmoney.com/news/1356,202610063888750335.html",
+     "pubDate": "Tue, 06 Oct 2026 14:18:24 +0800",
+     "summary": "国际油价快速下挫，布伦特原油 期货 向下跌破100美元/桶，现跌0.6%。WTI原油 期货 跌0.7%，现报88.81美元/桶。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "布伦特原油期货向下跌破100美元/桶"
+    },
+    {
+     "title": "香港创新科技及工业局局长孙东：沙岭数据园区已动工 累计投资最少238亿港元",
+     "link": "http://finance.eastmoney.com/news/1350,202610063888750473.html",
+     "pubDate": "Tue, 06 Oct 2026 14:18:13 +0800",
+     "summary": "10月6日，香港创新科技及工业局局长孙东出席立法会资讯科技及广播事务委员会政策简报会就《香港第一个五年规划》及2026年《施政报告》作简报开场发言。孙东表示，在算力建设方面，沙岭数据园区已经动工，预计于2032年或之前提供每秒18万千万亿次浮点运算（PFLOPS）的算力，相当于目前香港算力的36倍，累计投资规模最少达238亿港元，为香港发展智能计算及AI产业提供重要支撑。 在推进 新型工业化 ，加快创新科技产业化发展的方面，《香港五年规划》提出要推动AI作为香港未来发展的重要产业。透过全面推进“AI+”行动、提升算力基建，以及加快中小企业应用AI。香港将全面释放AI发展的潜力，以AI技术赋能千",
+     "source": "东方财富股票",
+     "zh": "香港创新科技及工业局局长孙东：沙岭数据园区已动工 累计投资最少238亿港元"
+    },
+    {
      "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
      "link": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
      "pubDate": "Tue, 06 Oct 2026 06:17:40 GMT",
      "summary": "The U.S. national average price of diesel topped $6 a gallon in September for the first time ever, as fuel supply disruptions pushed up transportation costs in the country.",
      "source": "CNBC",
      "zh": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms"
+    },
+    {
+     "title": "独家专访！劳斯莱斯CEO：中国是值得长期投资的重要市场",
+     "link": "http://finance.eastmoney.com/news/1358,202610063888749912.html",
+     "pubDate": "Tue, 06 Oct 2026 14:16:42 +0800",
+     "summary": "中国超大规模市场的吸引力，让全球品牌纷至沓来。创立于1904年， 劳斯莱斯 汽车 现为宝马集团旗下全资子公司，过去多年，中国稳居其全球第二大市场。 央视财经独家专访 劳斯莱斯 首席执行官克里斯·布朗里奇 。 全球超 豪华 车市普遍承压 劳斯莱斯 为何逆势加码中国？ 克里斯·布朗里奇表示， 中国市场对劳斯莱斯至关重要 ，早在20世纪30年代中期就向中国客户交付了第一辆 汽车 ，在90多年时间里劳斯莱斯持续向中国客户交付 汽车 ，所以中国是劳斯莱斯非常重要的市场。基于此， 为服务好中国客户，劳斯莱斯不断在此投资 ，中国是全球范围内，劳斯莱斯在英国本土之外仅有的四个设有专属定制中心的地区之一。 据劳",
+     "source": "东方财富股票",
+     "zh": "独家专访！劳斯莱斯CEO：中国是值得长期投资的重要市场"
+    },
+    {
+     "title": "美联储最怕的事发生了：AI热潮 根本不怕加息",
+     "link": "http://finance.eastmoney.com/news/1351,202610063888749793.html",
+     "pubDate": "Tue, 06 Oct 2026 14:13:36 +0800",
+     "summary": "美国企业的AI投资热潮正在给美联储制造一个棘手问题： 利率已经升至数十年来高位，但这一轮投资对融资成本的敏感度似乎远低于传统行业。 AI芯片 、 数据中心 和配套 电力 系统的建设规模持续扩大。与此同时， 电力 、 高带宽内存 、 铜 铝 以及相关劳动力成本不断上涨，AI产业链正在成为新的价格压力来源。 如果这种趋势持续，美联储要把通胀重新压回2%目标，可能需要比正常情况下更强的紧缩力度。代价则可能落在住房、 汽车 等对利率敏感的行业，并进一步传导至就业市场。 “美联储的问题在于，美国经济通常有一个内置的修正机制：利率上升，到某个时点，以住房为首的对利率敏感的部分会大幅放缓，然后传导到经济其他",
+     "source": "东方财富股票",
+     "zh": "美联储最怕的事发生了：AI热潮 根本不怕加息"
+    },
+    {
+     "title": "菲律宾9月通胀率升至7.2% 创今年4月以来新高",
+     "link": "http://finance.eastmoney.com/news/1346,202610063888750075.html",
+     "pubDate": "Tue, 06 Oct 2026 14:13:21 +0800",
+     "summary": "中新社马尼拉10月6日电 菲律宾统计局6日公布数据显示，9月菲律宾通胀率升至7.2%，较8月的6.1%明显上升，创今年4月以来新高。今年前9个月平均通胀率为5.4%。 统计局表示，通胀率上升主要受食品及非酒精饮料、住房水电燃气以及交通价格上涨推动。其中，食品及非酒精饮料价格同比上涨6.7%，高于8月的4.6%；住房、水、电、燃气及其他燃料价格涨幅由7.9%升至8.4%，交通价格涨幅由13.5%升至14.6%。食品价格通胀率由8月的4.6%升至6.8%，对整体通胀贡献约2.5个百分点。剔除波动较大的食品和能源价格后，核心通胀率由8月的4.1%升至4.7%。 从地区看，大马尼拉地区9月通胀率为5.",
+     "source": "东方财富股票",
+     "zh": "菲律宾9月通胀率升至7.2% 创今年4月以来新高"
     },
     {
      "title": "10月6日全国铁路预计发送旅客2210万人次",
@@ -2424,54 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "银行开始涉足亚洲GPU融资，这一领域此前主要由风险偏好更高的私募信贷基金主导，AI竞赛下一阶段的资金池由此显著扩大。 近几个月，国际大行在GMI Cloud、Zankore和PaleBlueDot AI三家AI基础设施提供商合计约38亿美元的GPU贷款中扮演了关键角色。据知情人士透露，花旗、摩根大通、巴克莱、德意志银行、桑坦德银行和日本三井住友银行目前都在评估与GPU挂钩的贷款。 这笔资金至关重要。普华永道估计，到2050年亚洲数据中心支出可能达到8.2万亿美元，绝大部分将投向GPU和服务器等硬件。 国际大行打头阵，亚洲银行跟进 亚洲各地正在建设数百座数据中心，建设方同时在为采购芯片筹资。美国",
      "source": "华尔街见闻",
      "zh": "8.2万亿美元AI盛宴背后，银行业悄然涌入亚洲GPU融资赛道"
-    },
-    {
-     "title": "港股主要股指集体走强，智谱涨超5%",
-     "link": "https://wallstreetcn.com/articles/3783046",
-     "pubDate": "Tue, 06 Oct 2026 10:45:50 +0800",
-     "summary": "周二（10月6日），港股主要股指集体走强，截至发稿，恒生指数涨0.74%，恒生科技指数涨0.63%。 大模型相关个股走强。截至发稿，智谱涨超5%，minimax涨近3%。 消息面上，亚马逊云科技（AWS）旗下大模型服务平台Amazon Bedrock官宣接入智谱GLM-5.3，AWS基于模型调用量与智谱进行收入分成。据了解，除了AWS外，智谱近期与多家海外云厂商落地收入分成模式。此前，智谱透露计划通过海外云平台收入分成增加一条具有规模潜力的商业路径。国内方面，智谱已与阿里云百炼平台等头部云厂商签署类似分成协议，华为云已上架GLM-5.3，并就类似合作达成意向，形成贯通国内外的分成体系。 科网股",
-     "source": "华尔街见闻",
-     "zh": "港股主要股指集体走强，智谱涨超5%"
-    },
-    {
-     "title": "谷歌与Constellation酝酿十亿美元核电协议，科技巨头抢购清洁电力大幕正式开启",
-     "link": "https://wallstreetcn.com/articles/3783049",
-     "pubDate": "Tue, 06 Oct 2026 10:19:42 +0800",
-     "summary": "据知情人士透露，谷歌母公司Alphabet接近与美国最大核反应堆运营商Constellation Energy达成一项多年期核电采购协议，将向后者支付至少10亿美元，最快本周宣布。 上周，亚马逊刚与Constellation签下类似协议。若谷歌协议如期宣布，Constellation将在两周内接连与两家科技巨头签约。 Constellation和谷歌周一均拒绝置评，协议涉及的核电规模和地点尚不清楚。 巨头争抢核电 亚马逊上周的协议涉及690兆瓦电力，其中包括马里兰州Calvert Cliffs核电站升级带来的容量。微软则在2024年同意购买已关停的三里岛核电站的电力，Constellation",
-     "source": "华尔街见闻",
-     "zh": "谷歌与Constellation酝酿十亿美元核电协议，科技巨头抢购清洁电力大幕正式开启"
-    },
-    {
-     "title": "欧洲财政压力正成为美债抛售的新导火索",
-     "link": "https://wallstreetcn.com/articles/3783047",
-     "pubDate": "Tue, 06 Oct 2026 10:06:06 +0800",
-     "summary": "法国债务危机与西班牙政治动荡叠加美国自身结构性赤字问题，正推动全球债券市场进入新一轮动荡周期。 美国10年期国债收益率周一盘中一度攀升至5.349%，创24年来新高，30年期收益率亦触及5.703%。与此同时，法国10年期国债收益率升至2002年以来最高水平，与德国国债的利差扩大至欧债危机以来最宽。欧元兑美元今年已累计下跌约5%，并连续四周走低。 分析人士指出，欧洲财政恶化与政治不稳定，正在与美国中期选举前景叠加，有可能在短期内进一步放大债券市场波动。 华尔街目前尚不认为欧洲局势会演变为2009至2012年PIIGS债务危机的规模，但欧洲的不确定性已成为美债抛售的新变量。 美债收益率多重压力叠",
-     "source": "华尔街见闻",
-     "zh": "欧洲财政压力正成为美债抛售的新导火索"
-    },
-    {
-     "title": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
-     "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
-     "pubDate": "Tue, 06 Oct 2026 01:55:50 GMT",
-     "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
-     "source": "CNBC",
-     "zh": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded"
-    },
-    {
-     "title": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
-     "link": "https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html",
-     "pubDate": "Tue, 06 Oct 2026 01:47:32 GMT",
-     "summary": "WHO said it was in contact with Russian authorities, and has offered support if needed, while assessing the risk to the general public as low based on available information.",
-     "source": "CNBC",
-     "zh": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk"
-    },
-    {
-     "title": "Trump eases red diesel limits in attempt to quell fuel inflation",
-     "link": "https://www.ft.com/content/8a733f73-d506-49ae-9030-2bbf0987bc8d?syn-25a6b1a6=1",
-     "pubDate": "Tue, 06 Oct 2026 00:46:01 GMT",
-     "summary": "US president announces the move during a trip to the agricultural state of Nebraska",
-     "source": "Financial Times",
-     "zh": "Trump eases red diesel limits in attempt to quell fuel inflation"
     }
    ]
   },

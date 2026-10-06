@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/6 15:12:09",
+ "generated_at": "2026/10/6 15:31:57",
  "recent_days": 7,
  "industries": [
   {
@@ -24,6 +24,22 @@ window.INDUSTRY_DATA = {
      "summary": "JEPA-Anything splits a JEPA's single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JEPA baselines on all 10 dynamics tasks and cut Interventional Pong intervention error by 34.8%. The post Beyond Domain-Specific World Models: JEPA-Anyt",
      "source": "MarkTechPost",
      "zh": "Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields"
+    },
+    {
+     "title": "一家影视公司为什么能做出全球第二的视频模型？答案藏在「生产系统」里",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061195&idx=1&sn=fd895d3e2b61a55684270981b166bf2b",
+     "pubDate": "Tue, 06 Oct 2026 12:00:00 +0800",
+     "summary": "全球文生视频盲审第二背后，这家影视公司为何在「长叙事」上跑赢 AI 大厂？",
+     "source": "机器之心",
+     "zh": "一家影视公司为什么能做出全球第二的视频模型？答案藏在「生产系统」里"
+    },
+    {
+     "title": "Token账单扛不住了，Meta、微软开始猛砍Claude使用",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061195&idx=2&sn=f2860f3e1727c676240e35c732f0706e",
+     "pubDate": "Tue, 06 Oct 2026 12:00:00 +0800",
+     "summary": "力推自家模型",
+     "source": "机器之心",
+     "zh": "Token账单扛不住了，Meta、微软开始猛砍Claude使用"
     },
     {
      "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "VA-Bench 以“观察—推理—行动—修正”的闭环测试 12 个多模态模型：目标识别与操作语义接近满分，但完整任务成功率仅约一半，主动观察、精细控制和在线修正仍是主要瓶颈。",
      "source": "机器之心",
      "zh": "看懂不等于做对：VA-Bench测出大模型空间智能的执行断层"
-    },
-    {
-     "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
-     "link": "https://www.qbitai.com/2026/10/501700.html",
-     "pubDate": "Mon, 05 Oct 2026 02:50:46 +0000",
-     "summary": "有改进就体验，没改进就重置，横竖不亏。",
-     "source": "量子位",
-     "zh": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus"
-    },
-    {
-     "title": "突发，谷歌关停大批免费Gemini模型！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731724&idx=1&sn=028e3c856d653112c84ab9a4572adc23",
-     "pubDate": "Sun, 04 Oct 2026 15:45:00 +0800",
-     "summary": "10.9起，免费模型全面阉割",
-     "source": "新智元",
-     "zh": "突发，谷歌关停大批免费Gemini模型！"
     }
    ]
   },
@@ -1738,6 +1738,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "谷歌 Googlebook 笔记本解锁 BL 指南上线后，Magisk 确认适配",
+     "link": "https://www.ithome.com/1/010/002.htm",
+     "pubDate": "Tue, 06 Oct 2026 07:29:23 GMT",
+     "summary": "IT之家 10 月 6 日消息，首批谷歌 Googlebook 笔记本已经于前两天在美国市场上市，宏碁、华硕、联想、惠普、戴尔等厂商均有推出对应机型。这些笔记本运行 Googlebook OS 操作系统，融合了 Android 的软件和 ChromeOS 桌面特性，支持运行完整版 Chrome 浏览器并提供独立 Linux 环境。 如今，谷歌已经在官网给出了 Googlebook 的解锁 Bootloader 指南。用户可以在设置的关于设备页面下点击 build 号 7 次，然后在开发者选项中开启 OEM 解锁。之后需要进入 Recovery 模式，然后再恢复屏幕的“高级选项”找到“解锁引导加",
+     "source": "IT之家",
+     "zh": "谷歌 Googlebook 笔记本解锁 BL 指南上线后，Magisk 确认适配"
+    },
+    {
+     "title": "索尼音乐 9 月要求下架 26 万首 AI 伪造歌曲：阿黛尔等艺人被冒充，请求量较 3 月近乎翻倍",
+     "link": "https://www.ithome.com/1/010/001.htm",
+     "pubDate": "Tue, 06 Oct 2026 07:19:39 GMT",
+     "summary": "IT之家 10 月 6 日消息，金融时报（FT）昨日（10 月 5 日）发布博文， 报道称索尼音乐已要求各数字平台删除超过 26 万首冒充其旗下艺人的 AI 生成曲目。 在数量方面，报道称是索尼音乐娱乐公司（Sony Music Entertainment）要求流媒体平台在 9 月底前下架超过 26 万首歌曲，这一数字几乎是 3 月底 13.5 万首的两倍。 索尼表示，这些曲目利用生成式 AI 深度伪造技术，在未经许可的情况下模仿旗下艺人的声音与形象。 索尼音乐全球数字业务总裁丹尼斯 · 库克（Dennis Kooker）表示，欺诈性流媒体播放量可能占音乐流媒体网站曲目总量的 10%。唱片公司",
+     "source": "IT之家",
+     "zh": "索尼音乐 9 月要求下架 26 万首 AI 伪造歌曲：阿黛尔等艺人被冒充，请求量较 3 月近乎翻倍"
+    },
+    {
+     "title": "韩国拟推 4.7 万亿韩元专项计划，明年 3 月起研发前沿 AI 大模型",
+     "link": "https://www.ithome.com/1/010/000.htm",
+     "pubDate": "Tue, 06 Oct 2026 07:18:37 GMT",
+     "summary": "IT之家 10 月 6 日消息，据路透社报道，韩国科学技术信息通信部表示，韩国拟推出一项总规模 4.7 万亿韩元 （IT之家注：现汇率约合 233.03 亿元人民币） 的专项计划，自 2027 年 3 月起研发前沿人工智能大模型。首尔方面希望借此在尖端 AI 的全球竞争当中争取一席之地。 韩国科学技术信息通信部称，待韩国国会于 12 月审议通过 2027 财年预算之后，政府将通过竞争性招标遴选本项目的牵头开发主体；中标方最早有望在次年 2 月敲定。 韩国政府计划将国家股权投资与民间资本相结合，集中算力芯片、数据以及人才资源投入该项目，目标打造性能居于世界领先水平的 AI 模型。 韩国科技部同时",
+     "source": "IT之家",
+     "zh": "韩国拟推 4.7 万亿韩元专项计划，明年 3 月起研发前沿 AI 大模型"
+    },
+    {
+     "title": "欧元汇率，创17个月新低",
+     "link": "https://www.huxiu.com/article/4895526.html?f=rss",
+     "pubDate": "Tue, 06 Oct 2026 15:10:37 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：牛占林 欧元汇率持续走弱，成为又一个值得警惕的信号，市场越来越担心法国债务状况可能威胁整个欧元区的稳定，令政策制定者面临更大压力。 周一欧盘交易时段，欧元兑美元汇率一度跌破1.12美元，触及1.1161美元，创下17个月以来新低；与此同时，欧元兑英镑、瑞郎和日元也大幅走弱。 分析师表示，法国正处于当前欧洲金融市场担忧的核心，该国政府正寻求推动一项不受欢迎的2027年预算方案，以降低财政赤字并控制创纪录高位的债务规模。但在议会严重分裂的情况下，这一目标难度很大。且随着各政治阵营为明年的总统大选展开布局，法国国内政治不确定性进一步升高。 不愿冒险的投资者正在抛",
+     "source": "虎嗅",
+     "zh": "欧元汇率，创17个月新低"
+    },
+    {
      "title": "亚马逊 AWS 豪掷 10 亿美元安抚数据中心所在地社区，试图缓解美国民众反对声浪",
      "link": "https://www.ithome.com/1/009/999.htm",
      "pubDate": "Tue, 06 Oct 2026 07:02:29 GMT",
@@ -1770,28 +1802,12 @@ window.INDUSTRY_DATA = {
      "zh": "微软延后 1 个月：OneDrive 520 字符路径限制改进推迟至 11 月"
     },
     {
-     "title": "劳斯莱斯 CEO 称中国市场至关重要，车辆平均定制价值每年都在增长",
-     "link": "https://www.ithome.com/1/009/995.htm",
-     "pubDate": "Tue, 06 Oct 2026 06:46:53 GMT",
-     "summary": "IT之家 10 月 6 日消息，据央视财经，劳斯莱斯首席执行官克里斯 · 布朗里奇接受专访时表示， 中国市场对劳斯莱斯至关重要 。 据介绍，为服务好中国客户，劳斯莱斯不断在此投资， 中国是全球范围内，劳斯莱斯在英国本土之外仅有的四个设有专属定制中心的地区之一 （IT之家注：分别为上海、阿联酋迪拜、美国纽约、韩国首尔）。 据劳斯莱斯官方销售数据，上海专属定制中心自 2023 年 8 月投入运营以来，业务一直保持增长态势。 2025 年全年，上海专属定制中心营收同比增长约三分之二 。克里斯 · 布朗里奇表示，“这正是我们提升位于英国古德伍德工厂产能的原因，那里是劳斯莱斯的大本营， 为的是满足中国市",
-     "source": "IT之家",
-     "zh": "劳斯莱斯 CEO 称中国市场至关重要，车辆平均定制价值每年都在增长"
-    },
-    {
-     "title": "电影《生化危机：爆发夜》 上映 2 天，总票房破 1 亿",
-     "link": "https://www.ithome.com/1/009/994.htm",
-     "pubDate": "Tue, 06 Oct 2026 06:46:24 GMT",
-     "summary": "IT之家 10 月 6 日消息，据猫眼专业版数据，电影《生化危机：爆发夜》上映 2 天， 总票房突破 1 亿 。 IT之家附该电影官方简介如下： 嘘，别出声。 黑暗中的生化怪物正在凝视，楼顶上的嗜血异种们虎视眈眈。 城市变为血色废墟，危险即将全面爆发！检查好手中的武器，抱紧需要运送的快递。前方高能，浣熊市的求生副本即将开启，请做好逃离准备。 这部惊悚片此前已经在海外上映，在烂番茄上首映获得 96% 的新鲜度，成为有史以来评分最高的电子游戏改编电影作品。全球首周票房 1.08 亿美元 （IT之家注：现汇率约合 7.25 亿元人民币） ，创该系列最高开画纪录。 本片根据热门恐怖游戏《生化危机》改编",
-     "source": "IT之家",
-     "zh": "电影《生化危机：爆发夜》 上映 2 天，总票房破 1 亿"
-    },
-    {
-     "title": "2026 诺贝尔文学奖揭晓在即，中国作家残雪成最热门人选",
-     "link": "https://www.ithome.com/1/009/993.htm",
-     "pubDate": "Tue, 06 Oct 2026 06:44:55 GMT",
-     "summary": "IT之家 10 月 6 日消息，2026 年诺贝尔文学奖揭晓在即， 中国作家残雪再次高居博彩赔率榜榜首 ，成为今年获奖的最热门人选，日本作家村上春树紧随其后位列第二。 IT之家发稿前，#残雪领跑诺贝尔文学奖#话题冲上微博热搜第 16 名，热度值为 289951。 2026 年诺贝尔文学奖最早将于瑞典当地时间 10 月 8 日星期四 13 点（北京时间 10 月 8 日晚上 19 点）公布。 截至 2026 年 10 月 6 日，赔率统计网站 Nicer Odds 及英国博彩公司 Ladbrokes 的榜单均显示，残雪以 10/1 的赔率位居第一，成为市场上最被看好获奖的作家。 实际上早在 20",
-     "source": "IT之家",
-     "zh": "2026 诺贝尔文学奖揭晓在即，中国作家残雪成最热门人选"
+     "title": "We are going to kill \"unalive\"",
+     "link": "https://www.anildash.com/2026/10/06/kill-unalive/",
+     "pubDate": "Tue, 06 Oct 2026 06:49:39 +0000",
+     "summary": "Article URL: https://www.anildash.com/2026/10/06/kill-unalive/ Comments URL: https://news.ycombinator.com/item?id=49975083 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "We are going to kill \"unalive\""
     },
     {
      "title": "创新药出海：BD金额如何穿透利润表",
@@ -1832,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 腾讯科技 ，作者：苏扬，编辑：徐青阳，题图来自：视觉中国 硅谷当下安全、利益与监管拉锯战的复杂交织，始于2026年7月的一个晴天。 那天加利福尼亚州伯克利一栋没有门牌的大楼里，全美顶尖的AI安全研究者临时搭起了&ldquo;战情室&rdquo;。墙上没有标识，楼层也不挂牌。 几小时前，一个尚未发布的OpenAI研究模型彻底失控：它突破了沙盒隔离，巧妙获取了互联网权限，进而黑进了开源AI技术中心Hugging Face的生产系统。而当OpenAI自己察觉到这场入侵时，距离攻击开始已经过去了一周多。 战情室里没有人真正感到意外。这正是第三方AI安全研究人员多年来一直警告的预言",
      "source": "虎嗅",
      "zh": "Agent“越狱”的120小时，与一份“粗制滥造”的真相"
-    },
-    {
-     "title": "AI助手大战开打，最值钱的非大厂选手只有14个人",
-     "link": "https://www.huxiu.com/article/4895519.html?f=rss",
-     "pubDate": "Tue, 06 Oct 2026 13:43:28 +0800",
-     "summary": "本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 9月底，旧金山一家叫Instinct的公司宣布拿到10亿美元C轮融资，估值100亿美元。 全公司只有14个人，还没有独立手机App。 用户可以给它发短信、打电话，也可以发邮件、WhatsApp或iMessage，方式跟联系一个真人没什么区别。 《连线》记者佐伊·希弗用它退掉了一张机票。阿拉斯加航空把她的航班提前了90分钟，她自己没发现，被AI助手发现了，判断她符合全额退款条件，于是取消原票再改签为单程票回旧金山，拿回大约550美元。她写下这篇体验分享时用的标题是，《我想我找到了一个值得冒这个险的AI代理》。 Instinct的名字今年才从",
-     "source": "虎嗅",
-     "zh": "AI助手大战开打，最值钱的非大厂选手只有14个人"
     },
     {
      "title": "Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO (Bloomberg)",
@@ -1965,17 +1973,9 @@ window.INDUSTRY_DATA = {
      "title": "Resurrecting iChat Audio and Video Conferencing",
      "link": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
      "pubDate": "Tue, 06 Oct 2026 03:39:01 +0000",
-     "summary": "Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/ Comments URL: https://news.ycombinator.com/item?id=49973878 Points: 34 # Comments: 6",
+     "summary": "Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/ Comments URL: https://news.ycombinator.com/item?id=49973878 Points: 37 # Comments: 8",
      "source": "Hacker News",
      "zh": "Resurrecting iChat Audio and Video Conferencing"
-    },
-    {
-     "title": "Sources: Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B (Bloomberg)",
-     "link": "https://www.techmeme.com/261005/p35#a261005p35",
-     "pubDate": "Mon, 05 Oct 2026 23:10:01 -0400",
-     "summary": "Bloomberg : Sources: Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B &nbsp; &mdash;&nbsp; Moonshot AI has closed the final round of private fundraising at a valuation of about $50 billion and is heading toward an ",
-     "source": "Techmeme",
-     "zh": "Sources: Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B (Bloomberg)"
     }
    ]
   },
@@ -2234,6 +2234,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Measles outbreak: New York declares disaster emergency as cases rise",
+     "link": "https://seekingalpha.com/news/4650420-measles-outbreak-new-york-state-disaster-emergency?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 03:25:10 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Measles outbreak: New York declares disaster emergency as cases rise"
+    },
+    {
+     "title": "国家发改委：六张网不只是国家的工程 更是民营企业的舞台",
+     "link": "http://finance.eastmoney.com/news/1350,202610063888753845.html",
+     "pubDate": "Tue, 06 Oct 2026 15:18:04 +0800",
+     "summary": "“六张网”建设既是扩内需、稳增长的有力抓手，更为民间投资打开一片新空间。如何把“新空间”变成“真收益”？ 国家发展改革委民营经济发展局局长李慧： 要把新空间变成真收益，还需要从三个方面持续发力。 敞开大门，让民营企业“进得去”。 我们正在完善民营企业参与重大项目建设长效机制，推进基础设施竞争性领域向经营主体公平开放。不同体量、专长的企业，都能在这张网上找到自己的位置。 分类施策，让民营企业“留得住”。 “六张网”中，民营企业可参与性并不完全一致，我们将聚焦民营企业对回报机制、竞争秩序等方面主要关切，推出一批经营收益稳定、适合民间资本参与的项目，完善投融资机制，强化要素保障，破除市场准入、标准衔",
+     "source": "东方财富股票",
+     "zh": "国家发改委：六张网不只是国家的工程 更是民营企业的舞台"
+    },
+    {
+     "title": "冯德莱恩：将成立工作组以整合能源需求 并委托市场运营商进行联合采购",
+     "link": "http://finance.eastmoney.com/news/1351,202610063888753938.html",
+     "pubDate": "Tue, 06 Oct 2026 15:17:59 +0800",
+     "summary": "欧盟委员会主席冯德莱恩表示，将成立工作组以整合能源需求，并委托市场运营商进行联合采购。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "冯德莱恩：将成立工作组以整合能源需求 并委托市场运营商进行联合采购"
+    },
+    {
+     "title": "世邦魏理仕：预计香港商业地产市场气氛持续改善 豪宅价格持稳",
+     "link": "http://stock.eastmoney.com/news/1611,202610063888754040.html",
+     "pubDate": "Tue, 06 Oct 2026 15:16:31 +0800",
+     "summary": "世邦魏理仕 发布报告称，受惠于强劲的写字楼 租赁 活动、空置率下降、投资市场动力增强，以及零售市道持续改善，香港商业 房地产 市场今年第三季延续复苏势头。写字楼市场录得自2018 年以来最强劲的年初至今净吸纳量，而投资市场成交额亦显着加快，其中 教育 行业对 酒店 及其他生活住宿类资产的需求持续增加，成为推动投资活动的重要力量。同时，豪宅住宅市场在本季度亦保持稳健表现。 世邦魏理仕 香港区研究部主管陈锦平表示，尽管香港 商业地产 市场仍面对潜在加息风险及股市波动等不明朗因素，该行预期市场情绪将于今年最后一季持续改善。 甲级写字楼方面 ，第三季整体 租赁 成交面积达120万平方呎，按季下跌6%。",
+     "source": "东方财富股票",
+     "zh": "世邦魏理仕：预计香港商业地产市场气氛持续改善 豪宅价格持稳"
+    },
+    {
+     "title": "ESMO年会催化港股生物医药股走强 逾30项国产药物研究将登台",
+     "link": "http://stock.eastmoney.com/news/1437,202610063888753732.html",
+     "pubDate": "Tue, 06 Oct 2026 15:13:32 +0800",
+     "summary": "财联社10月6日讯 国庆假期期间，港股生物医药板块持续活跃，今日再度集体拉涨。与此同时，恒生生物科技指数也重新升至年内高点附近。 截至发稿， 维亚生物 (01873.HK)涨近20%、 康希诺生物 (06185.HK)涨约13%， 亚盛医药 (06855.HK)等一批个股跟涨超7%以上。 消息面上，周一，美股 疫苗 企业Vaxcyte因公布肺炎球菌 疫苗 后期临床试验积极数据大涨30%，随即带动炒作情绪升温。 但短线来看，对于生物医药板块而言，近期最为市场关注的还属即将于10月23日至27日举行的2026年欧洲肿瘤内科学会（ESMO）年会。 据 国联民生 证券研究显示，本届ESMO年会合计有9",
+     "source": "东方财富股票",
+     "zh": "ESMO年会催化港股生物医药股走强 逾30项国产药物研究将登台"
+    },
+    {
      "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
      "link": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
      "pubDate": "Tue, 06 Oct 2026 07:05:36 GMT",
@@ -2250,52 +2290,28 @@ window.INDUSTRY_DATA = {
      "zh": "Treasury yields are broadly flat as investors anticipate FOMC minutes"
     },
     {
+     "title": "谷歌与星座能源公司将达成十亿美元核电采购协议",
+     "link": "http://stock.eastmoney.com/news/11228,202610063888753586.html",
+     "pubDate": "Tue, 06 Oct 2026 15:04:34 +0800",
+     "summary": "中新经纬10月6日电据彭博社当地时间5日报道，谷歌母公司Alphabet正接近达成从美国星座能源公司( Constellation Energy Corp .)购买核能的协议。 报道称，知情人士透露，谷歌即将达成一项多年协议，支付给星座能源公司至少10亿美元购买核能，预计该协议最快将在本周公布。美国核电龙头Constellation和谷歌拒绝置评，因此核容量的具体规模和位置无法确定。 亚马逊 上周也与Constellation达成了类似协议，公司购买了690兆瓦的 电力 。 报道指出， 人工智能 热潮所需的大量 电力 正在提升对核能的关注。核能提供全天候 电力 ，又无排放。最近的交易主要集中在",
+     "source": "东方财富股票",
+     "zh": "谷歌与星座能源公司将达成十亿美元核电采购协议"
+    },
+    {
+     "title": "港股异动 | 港股房地产板块表现活跃",
+     "link": "http://hk.eastmoney.com/news/1556,202610063888753198.html",
+     "pubDate": "Tue, 06 Oct 2026 14:58:51 +0800",
+     "summary": "10月6日，港股 房地产 板块表现活跃。截至14时50分， 富力地产 涨超9%， 世茂集团 涨超8%， 融创中国 涨近6%， 雅居乐集团 、 龙光集团 等多股涨超5%， 万科企业 涨超3%。 此前，财政部、中国人民 银行 、金融监管总局联合对外发布通知，明确自2026年10月1日起，实施居民购房贷款贴息政策，政策实施期暂定1年。这是中央财政首次对商业性个人住房贷款进行贴息。 （文章来源：上海证券报·中国证券网）",
+     "source": "东方财富股票",
+     "zh": "港股异动 | 港股房地产板块表现活跃"
+    },
+    {
      "title": "How quant funds beat the market by being &apos;early, contrarian and right&apos;",
      "link": "https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html",
      "pubDate": "Tue, 06 Oct 2026 06:57:42 GMT",
      "summary": "Quantitative hedge funds have captured big trends in bonds and oil to outperform the stock market this year.",
      "source": "CNBC",
      "zh": "How quant funds beat the market by being &apos;early, contrarian and right&apos;"
-    },
-    {
-     "title": "以防长称已指示军队提升戒备应对可能发生的袭击",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888752764.html",
-     "pubDate": "Tue, 06 Oct 2026 14:53:33 +0800",
-     "summary": "当地时间6日， 总台记者 获悉，以色列国防部长卡茨当天发表声明，宣称情报显示巴勒斯坦伊斯兰抵抗运动（哈马斯）计划在7日，即新一轮巴以冲突爆发三周年之际发动袭击，他已指示以色列军队全面提升戒备状态。 卡茨当天在一份官方声明中坚称，以军必须为最坏的情况做好准备，并且“除了正在进行的强力行动之外，还应针对任何情报或预警采取果断行动，以挫败任何威胁”。 卡茨同时扬言，如果加沙地带的以色列军队受到任何伤害，哈马斯以及加沙当地居民都将为此付出“超乎寻常的沉重代价”。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "以防长称已指示军队提升戒备应对可能发生的袭击"
-    },
-    {
-     "title": "韩国政府已向美方汇出24亿美元用于得克萨斯州的电力项目",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888752887.html",
-     "pubDate": "Tue, 06 Oct 2026 14:52:37 +0800",
-     "summary": "韩国外长表示，韩国政府已向美方汇出24亿美元，用于得克萨斯州的 电力 项目。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "韩国政府已向美方汇出24亿美元用于得克萨斯州的电力项目"
-    },
-    {
-     "title": "厦门点面结合布局AI应用 赋能千行百业转型升级",
-     "link": "http://finance.eastmoney.com/news/1355,202610063888752483.html",
-     "pubDate": "Tue, 06 Oct 2026 14:51:09 +0800",
-     "summary": "“AIGC(生成式 人工智能 )把传统影视制作的效率提升了30至50倍，这几乎是‘降维打击’。”福建省 人工智能 协会AIGC专委会副主任陈铎6日在厦门受访时表示，在画面风格适配、多语言一键转译等技术加持下，AI短剧出海门槛正不断降低，小语种市场成为新蓝海。 陈铎同时是AIGC原生企业AINext的创始人，企业落地厦门软件园。团队深耕AI影视内容赛道多年，已与海外平台合作，承制了一系列AI短剧，产出多部“爆款”。他说，厦门软件信息产业基础雄厚，数十个AI相关平台稳定运行，为企业发展提供了沃土。 AI赋能千行百业，在厦门正走向全域布局。今年7月，厦门市 人工智能 公共服务平台正式上线，归集大模型",
-     "source": "东方财富股票",
-     "zh": "厦门点面结合布局AI应用 赋能千行百业转型升级"
-    },
-    {
-     "title": "日本央行或暗示基础通胀已达2%目标 12月加息预期升温",
-     "link": "http://finance.eastmoney.com/news/1351,202610063888752529.html",
-     "pubDate": "Tue, 06 Oct 2026 14:48:36 +0800",
-     "summary": "据外媒报道，日本央行可能在本月释放一个重要政策信号： 日本的基础通胀水平已大致达到2%的物价稳定目标。 这一判断若正式写入最新经济和物价展望，将意味着日本央行对通胀持续性的评估进一步转变，并为未来数月继续加息提供依据。 据路透社援引三名熟悉日本央行想法的消息人士报道，日本央行近期公布的一系列数据增强了决策层的信心，认为 剔除一次性因素、反映更广泛需求和工资变化的基础通胀，目前已大致达到2%。 这种表态很大程度上是象征性的，并不意味着日本央行将在10月立即再次加息。日本央行刚刚在9月提高政策利率，多名央行官员倾向于观察此前加息对国内金融环境的影响，然后再决定下一步行动。 市场目前普遍将12月视为",
-     "source": "东方财富股票",
-     "zh": "日本央行或暗示基础通胀已达2%目标 12月加息预期升温"
-    },
-    {
-     "title": "阿尔及利亚媒体：阿中伙伴关系紧密发展",
-     "link": "http://global.eastmoney.com/news/1786,202610063888752234.html",
-     "pubDate": "Tue, 06 Oct 2026 14:45:45 +0800",
-     "summary": "新华财经突尼斯10月6日电（记者周昊瑾）阿尔及尔消息：阿尔及利亚《独立青年报》网站5日发表题为《新中国成立77周年，回望阿中两国深厚友谊》的文章。文章指出，新中国成立77年来取得一系列伟大成就，并同包括阿尔及利亚在内的发展中国家形成紧密的伙伴关系。文章摘要如下： 77年来，中国历经改革开放、加入世贸组织等诸多重要事件，逐渐从积贫积弱的国家蜕变为全球重要力量。同时，中国的发展轨迹始终与广大发展中国家，特别是非洲国家的发展命运紧密联结，非中合作论坛等机制为构建新时代全天候非中命运共同体持续注入力量，助力非中团结合作，实现共同发展。 阿尔及利亚是第一个同中国建立全面战略伙伴关系的阿拉伯国家。两国间的",
-     "source": "东方财富股票",
-     "zh": "阿尔及利亚媒体：阿中伙伴关系紧密发展"
     },
     {
      "title": "Citi edges out Goldman Sachs to lead global IPO underwriting through September: report",
@@ -2330,12 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "World Bank lifts 2026 East Asia growth forecast to 4.5% amid AI boom but warns of capex risks"
     },
     {
-     "title": "越南VN指数下跌1%",
-     "link": "http://global.eastmoney.com/news/11798,202610063888751115.html",
-     "pubDate": "Tue, 06 Oct 2026 14:41:58 +0800",
-     "summary": "越南VN指数下跌1%，报1735.57点。",
-     "source": "东方财富股票",
-     "zh": "越南VN指数下跌1%"
+     "title": "高通否认“将单方向华为支付费用”：并非净支付方，该协议与“逻辑折叠芯片技术”无关",
+     "link": "http://www.eeo.com.cn/2026/1006/1056650.shtml",
+     "pubDate": "Tue, 06 Oct 2026 14:39:10 +0800",
+     "summary": "每经记者｜王晶每经编辑｜何小桃 魏文艺 记者|王晶 编辑|何小桃 魏文艺 杜波校对|程鹏 10月5日，华为官方宣布，华为与高通宣布达成一项为期多年、范围广泛的专利许可协议，内容包括双方在5G、计算、人工智能和网络等多个领域的专利组合交叉许可，以及高通收购若干华为在计算、AI、网络等技术领域的美国专利。该交易将在获得必要的监管批准后完成。 <...",
+     "source": "经济观察网",
+     "zh": "高通否认“将单方向华为支付费用”：并非净支付方，该协议与“逻辑折叠芯片技术”无关"
     },
     {
      "title": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投",
@@ -2346,6 +2362,30 @@ window.INDUSTRY_DATA = {
      "zh": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投"
     },
     {
+     "title": "全球上半年新车销量，纯燃油车占比首次跌破50%",
+     "link": "http://www.eeo.com.cn/2026/1006/1056640.shtml",
+     "pubDate": "Tue, 06 Oct 2026 14:26:06 +0800",
+     "summary": "10月6日，据中国基金报援引外媒报道，Mobility Global最新数据显示，2026年上半年，纯汽油车型占全球新车销量的49%，这是历史上纯汽油车销量占比首次跌破五成，且较2021年的73%大幅下降了24个百分点。 Mobility Global是一家汽车数据机构，前身为标普全球汽车（S&P Global Mobility），今年从标普全球集团分拆独立。该机构数据显示，今年上半年，纯汽油车销量同比下降10%，至2025万辆。仅一年之内，其市场份额就下滑3个百...",
+     "source": "经济观察网",
+     "zh": "全球上半年新车销量，纯燃油车占比首次跌破50%"
+    },
+    {
+     "title": "“无糖”饮料含糖，星巴克在美面临诉讼",
+     "link": "http://www.eeo.com.cn/2026/1006/1056641.shtml",
+     "pubDate": "Tue, 06 Oct 2026 14:26:05 +0800",
+     "summary": "中新经纬10月6日电 据美联社当地时间5日报道，星巴克正面临消费者诉讼，原因是菜单上标有“无糖”的蛋白饮料含有不少糖分。 报道称，在美国西雅图提起的诉讼指控，星巴克在美国销售的八款蛋白饮料含有不同量的糖，尽管公司将其标注为“无糖”。 星巴克美国官网显示，一款16盎司(0.5升)的无糖焦糖蛋白抹茶含16克糖，20盎司(0.6升)版本含21克糖。 律师认为，“消费者避免摄入糖的原因有很多，无论是为了健康还...",
+     "source": "经济观察网",
+     "zh": "“无糖”饮料含糖，星巴克在美面临诉讼"
+    },
+    {
+     "title": "10月6日全国铁路预计发送旅客2210万人次",
+     "link": "http://www.eeo.com.cn/2026/1006/1056638.shtml",
+     "pubDate": "Tue, 06 Oct 2026 14:13:06 +0800",
+     "summary": "【10月6日全国铁路预计发送旅客2210万人次】据“中国铁路”微信号，10月5日，全国铁路发送旅客2104.7万人次，运输安全平稳有序。10月6日，全国铁路迎来返程客流高峰，预计发送旅客2210万人次，计划加开旅客列车2199列。铁路部门提示，目前铁路客流已进入返程高峰，部分地区旅客出行比较集中，请旅客朋友及时关注天气变化情况和出行服务信息，预留充足时间进站乘车。(中新经纬APP)",
+     "source": "经济观察网",
+     "zh": "10月6日全国铁路预计发送旅客2210万人次"
+    },
+    {
      "title": "KKR strikes $5.1B deal for fund administrator Gen II",
      "link": "https://seekingalpha.com/news/4650412-kkr-strikes-51b-deal-for-fund-administrator-gen-ii?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 06 Oct 2026 01:54:18 -0400",
@@ -2354,12 +2394,20 @@ window.INDUSTRY_DATA = {
      "zh": "KKR strikes $5.1B deal for fund administrator Gen II"
     },
     {
-     "title": "Trump: Becton Dickinson agrees to invest $3B in US manufacturing, including $1B+ in Nebraska",
-     "link": "https://seekingalpha.com/news/4650399-trump-becton-dickinson-agrees-to-invest-3b-in-us-manufacturing-including-1b-in-nebraska?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 01:47:43 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump: Becton Dickinson agrees to invest $3B in US manufacturing, including $1B+ in Nebraska"
+     "title": "俄罗斯：将大幅增加黄金购买量",
+     "link": "http://www.eeo.com.cn/2026/1006/1056637.shtml",
+     "pubDate": "Tue, 06 Oct 2026 13:52:07 +0800",
+     "summary": "据央视新闻，当地时间10月5日，俄罗斯财政部发布消息，将于10月7日至11月6日将该国外汇和黄金购买量提高至9月的五倍，为此拨款2794.2亿卢布，日均购买量约127亿卢布。此次购买依据预算规则进行，旨在将额外油气收入纳入国家福利基金。",
+     "source": "经济观察网",
+     "zh": "俄罗斯：将大幅增加黄金购买量"
+    },
+    {
+     "title": "600亿美元，AI最大芯片融资曝光，华尔街银团豪赌",
+     "link": "http://www.eeo.com.cn/2026/1006/1056636.shtml",
+     "pubDate": "Tue, 06 Oct 2026 13:52:07 +0800",
+     "summary": "中新经纬10月6日电 据英国《金融时报》中文网6日报道，美国银行、花旗和摩根士丹利开始向其他银行分销一笔总额600亿美元的债务融资，以资助Anthropic租用谷歌的半导体。这是目前规模最大的芯片融资交易，凸显科技公司正竞相锁定AI算力。 报道称，这笔由博通提供部分担保的融资，被视为衡量市场对AI债务需求的风向标。近几个月来，投资者要求向大举投入数万亿美元开发先进AI模型的科技公司提供贷款时，收取更高的风险溢价...",
+     "source": "经济观察网",
+     "zh": "600亿美元，AI最大芯片融资曝光，华尔街银团豪赌"
     },
     {
      "title": "a16z深度报告：AI付费市场，已出现不需要登上大众流量榜的生意",
@@ -2384,6 +2432,14 @@ window.INDUSTRY_DATA = {
      "summary": "法国央行行长Emmanuel Moulin警告，法国若不整顿公共财政，恐将被不断上升的利率\"逐步扼杀\"。 上周，法债抛售加剧并蔓延至整个欧洲，10年期国债收益率一度逼近5%，为2002年以来最高，法国的借贷成本已高于希腊和意大利。 衡量法债风险溢价的法德10年期国债利差，上周扩大32个基点至141个基点。德意志银行的Jim Reid称，这是彭博自1990年有数据以来最大的单周扩大，这段时期涵盖了两德统一、欧债危机和新冠疫情。 更棘手的是买卖两端同时恶化。法国央行已停止购债，长期稳定持有法债的日本资金开始松动，法国明年却要发行创纪录规模的国债。高盛认为，欧洲央行的反碎片化工具是\"最后手段，而不是",
      "source": "华尔街见闻",
      "zh": "积重难返！法国站到了“欧债风暴中心”"
+    },
+    {
+     "title": "10月6日港股午盘：恒指涨0.78% 恒生科技指数涨0.87%",
+     "link": "http://stock.eastmoney.com/news/11770,202610063888741791.html",
+     "pubDate": "Tue, 06 Oct 2026 12:10:17 +0800",
+     "summary": "港股10月6日午盘走高，恒生指数收报24228.47点，涨188.13点，涨幅0.78%；恒生科技指数收报4220.12点，涨36.44点，涨幅0.87%。恒生指数成分股中 极兔速递-W 、 药明生物 、 中国生物制药 涨幅居前， 安踏体育 、 华虹宏力 、 农夫山泉 跌幅靠前。恒生科技指数成分股中 智谱 、 舜宇光学科技 、 百度集团-W 涨幅居前， 华虹宏力 、 联想集团 、 携程集团-S 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国",
+     "source": "东方财富资讯",
+     "zh": "10月6日港股午盘：恒指涨0.78% 恒生科技指数涨0.87%"
     },
     {
      "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
@@ -2416,62 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "The country is being hit by a pre-election debt sell-off. Many fear it could shake the Eurozone",
      "source": "Financial Times",
      "zh": "The bond market turns on France"
-    },
-    {
-     "title": "Andy Burnham’s Manchester City problem",
-     "link": "https://www.ft.com/content/ffc5d121-9143-4760-86d7-d1a0fc885af4?syn-25a6b1a6=1",
-     "pubDate": "Tue, 06 Oct 2026 04:00:17 GMT",
-     "summary": "The prime minister’s economic vision looks dangerously like a game of two halves",
-     "source": "Financial Times",
-     "zh": "Andy Burnham’s Manchester City problem"
-    },
-    {
-     "title": "8.2万亿美元AI盛宴背后，银行业悄然涌入亚洲GPU融资赛道",
-     "link": "https://wallstreetcn.com/articles/3783050",
-     "pubDate": "Tue, 06 Oct 2026 11:17:57 +0800",
-     "summary": "银行开始涉足亚洲GPU融资，这一领域此前主要由风险偏好更高的私募信贷基金主导，AI竞赛下一阶段的资金池由此显著扩大。 近几个月，国际大行在GMI Cloud、Zankore和PaleBlueDot AI三家AI基础设施提供商合计约38亿美元的GPU贷款中扮演了关键角色。据知情人士透露，花旗、摩根大通、巴克莱、德意志银行、桑坦德银行和日本三井住友银行目前都在评估与GPU挂钩的贷款。 这笔资金至关重要。普华永道估计，到2050年亚洲数据中心支出可能达到8.2万亿美元，绝大部分将投向GPU和服务器等硬件。 国际大行打头阵，亚洲银行跟进 亚洲各地正在建设数百座数据中心，建设方同时在为采购芯片筹资。美国",
-     "source": "华尔街见闻",
-     "zh": "8.2万亿美元AI盛宴背后，银行业悄然涌入亚洲GPU融资赛道"
-    },
-    {
-     "title": "港股主要股指集体走强，智谱涨超7%，日经225涨超2%，国际油价下跌",
-     "link": "https://wallstreetcn.com/articles/3783046",
-     "pubDate": "Tue, 06 Oct 2026 10:45:50 +0800",
-     "summary": "10月7日周一，港股主要股指上行，大模型相关个股走强；日经225指数涨超1%，韩国综合指数下跌0.89%。 港股主要股指上行，大模型相关个股走强 周二（10月6日），港股主要股指集体走强，截至发稿，恒生指数涨0.81%，恒生科技指数涨0.75%。 大模型相关个股走强。截至发稿，智谱涨超7%，minimax涨2%。 消息面上，亚马逊云科技（AWS）旗下大模型服务平台Amazon Bedrock官宣接入智谱GLM-5.3，AWS基于模型调用量与智谱进行收入分成。据了解，除了AWS外，智谱近期与多家海外云厂商落地收入分成模式。此前，智谱透露计划通过海外云平台收入分成增加一条具有规模潜力的商业路径。国",
-     "source": "华尔街见闻",
-     "zh": "港股主要股指集体走强，智谱涨超7%，日经225涨超2%，国际油价下跌"
-    },
-    {
-     "title": "谷歌与Constellation酝酿十亿美元核电协议，科技巨头抢购清洁电力大幕正式开启",
-     "link": "https://wallstreetcn.com/articles/3783049",
-     "pubDate": "Tue, 06 Oct 2026 10:19:42 +0800",
-     "summary": "据知情人士透露，谷歌母公司Alphabet接近与美国最大核反应堆运营商Constellation Energy达成一项多年期核电采购协议，将向后者支付至少10亿美元，最快本周宣布。 上周，亚马逊刚与Constellation签下类似协议。若谷歌协议如期宣布，Constellation将在两周内接连与两家科技巨头签约。 Constellation和谷歌周一均拒绝置评，协议涉及的核电规模和地点尚不清楚。 巨头争抢核电 亚马逊上周的协议涉及690兆瓦电力，其中包括马里兰州Calvert Cliffs核电站升级带来的容量。微软则在2024年同意购买已关停的三里岛核电站的电力，Constellation",
-     "source": "华尔街见闻",
-     "zh": "谷歌与Constellation酝酿十亿美元核电协议，科技巨头抢购清洁电力大幕正式开启"
-    },
-    {
-     "title": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
-     "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
-     "pubDate": "Tue, 06 Oct 2026 01:55:50 GMT",
-     "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
-     "source": "CNBC",
-     "zh": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded"
-    },
-    {
-     "title": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
-     "link": "https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html",
-     "pubDate": "Tue, 06 Oct 2026 01:47:32 GMT",
-     "summary": "WHO said it was in contact with Russian authorities, and has offered support if needed, while assessing the risk to the general public as low based on available information.",
-     "source": "CNBC",
-     "zh": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk"
-    },
-    {
-     "title": "Trump eases red diesel limits in attempt to quell fuel inflation",
-     "link": "https://www.ft.com/content/8a733f73-d506-49ae-9030-2bbf0987bc8d?syn-25a6b1a6=1",
-     "pubDate": "Tue, 06 Oct 2026 00:46:01 GMT",
-     "summary": "US president announces the move during a trip to the agricultural state of Nebraska",
-     "source": "Financial Times",
-     "zh": "Trump eases red diesel limits in attempt to quell fuel inflation"
     }
    ]
   },

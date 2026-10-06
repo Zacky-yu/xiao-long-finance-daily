@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/6 14:52:00",
+ "generated_at": "2026/10/6 15:12:09",
  "recent_days": 7,
  "industries": [
   {
@@ -257,12 +257,68 @@
    "total": 9,
    "items": [
     {
+     "title": "Taiwan's NSTC seeks AI data center power tech to reduce grid impact of load spikes",
+     "link": "https://www.digitimes.com/news/a20261006PD232/taiwan-nstc-data-efficiency.html",
+     "pubDate": "Tue, 6 Oct 2026 06:20:00 GMT",
+     "summary": "Taiwan's National Science and Technology Council (NSTC) has recently issued a call for proposals on \"high-performance power conversion and system management technologies for next-generation AI data centers.\" The aim is to help AI-related industries discover and develop usable technologies that can r",
+     "source": "DIGITIMES",
+     "zh": "Taiwan's NSTC seeks AI data center power tech to reduce grid impact of load spikes"
+    },
+    {
+     "title": "Apple, Qualcomm renew patent deal, iPhone modem shift deepens",
+     "link": "https://www.digitimes.com/news/a20261006PD229/qualcomm-apple-modem-patent-iphone.html",
+     "pubDate": "Tue, 6 Oct 2026 06:03:00 GMT",
+     "summary": "Qualcomm announced on September 24 that it has renewed its global patent licensing agreement with Apple, with the new contract set to take effect on April 1, 2027. The terms and value of the deal were not disclosed, but Apple's long-running move toward in-house modem chips continues to draw close at",
+     "source": "DIGITIMES",
+     "zh": "Apple, Qualcomm renew patent deal, iPhone modem shift deepens"
+    },
+    {
      "title": "Drone share tops 10% as Calin Technology eyes LEO optics, auto growth",
      "link": "https://www.digitimes.com/news/a20261006PD225/calin-leo-optics-drone-growth.html",
      "pubDate": "Tue, 6 Oct 2026 05:48:08 GMT",
      "summary": "Optical lens maker Calin Technology is seeing its new business ventures bear fruit. Revenue from its drone camera module segment has surpassed 10% of total sales in 2026 and is targeting over 15%, making it the company's fastest-growing product line this year. Meanwhile, automotive lens revenue is p",
      "source": "DIGITIMES",
      "zh": "Drone share tops 10% as Calin Technology eyes LEO optics, auto growth"
+    },
+    {
+     "title": "Arm vs Qualcomm episode 2",
+     "link": "https://www.electronicsweekly.com/news/business/arm-vs-qualcomm-episode-2-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 05:16:23 +0000",
+     "summary": "Yesterday a second trial in the Qualcomm vs Arm legal marathon opened in Delaware. It is before a jury and slated to last five days. The original Qualcomm vs Arm […] The post Arm vs Qualcomm episode 2 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Arm vs Qualcomm episode 2"
+    },
+    {
+     "title": "SkyeChip becomes Rapidus design associate",
+     "link": "https://www.electronicsweekly.com/news/business/skyechip-becomes-rapidus-design-associate-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 05:14:20 +0000",
+     "summary": "SkyeChip, the Malaysian IP developer and IC design house, has joined the Rapidus Collaborative Open Rapid Ecosystem as one of 17 inaugural “design solution associates.” SkyeChip, which is listed on […] The post SkyeChip becomes Rapidus design associate appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "SkyeChip becomes Rapidus design associate"
+    },
+    {
+     "title": "MOSAIC-G integrates UK 5G tech",
+     "link": "https://www.electronicsweekly.com/news/business/mosaic-g-integrates-uk-5g-tech-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 05:11:02 +0000",
+     "summary": "Aerix, Antevia Networks, Spry Fox Networks, Noema Signal Labs, Attocore, RANsemi, Liverpool 5G and Bath & North East Somerset Council have launched MOSAIC-5G (Multi-vendor Open System Architecture for Integrated Connectivity). […] The post MOSAIC-G integrates UK 5G tech appeared first on Electronics",
+     "source": "Electronics Weekly",
+     "zh": "MOSAIC-G integrates UK 5G tech"
+    },
+    {
+     "title": "Open Cosmos aims for 192 satellites",
+     "link": "https://www.electronicsweekly.com/news/business/open-cosmos-aims-for-192-satellites-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 05:09:32 +0000",
+     "summary": "Open Cosmos, observation satellite constructor, which recently raised €300 million, says the that 192 satellites will form the core of its ConnectedCosmos LEO constellation. The company aims to have 96 […] The post Open Cosmos aims for 192 satellites appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Open Cosmos aims for 192 satellites"
+    },
+    {
+     "title": "Digital isolators provide flexible signal isolation",
+     "link": "https://www.electronicsweekly.com/news/business/digital-isolators-provide-flexible-signal-isolation-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 05:03:15 +0000",
+     "summary": "Toshiba has brought out four dual-channel digital isolators designed to help reduce power consumption and provide flexible signal isolation, extending its low-power industrial digital isolator line-up. The DCL32xx00 series targets […] The post Digital isolators provide flexible signal isolation appe",
+     "source": "Electronics Weekly",
+     "zh": "Digital isolators provide flexible signal isolation"
     },
     {
      "title": "China National Day EV charging surges 49% as highway grid faces peak-load test",
@@ -289,20 +345,12 @@
      "zh": "How RobCo and the robotics unicorn wave are redefining industrial automation"
     },
     {
-     "title": "Arcadyan September revenue hits record on mobile communications strength",
-     "link": "https://www.digitimes.com/news/a20261006PD218/revenue-arcadyan-market-mobile-communications.html",
-     "pubDate": "Tue, 6 Oct 2026 04:29:44 GMT",
-     "summary": "As the networking market enters its traditional peak season, customer demand is gradually recovering. Arcadyan Technology announced on October 5 its September revenue, which reached NT$5.06 billion (approx. US$159.3 million), up 7.0% month-over-month and 8.5% year-over-year. This marked a record hig",
-     "source": "DIGITIMES",
-     "zh": "Arcadyan September revenue hits record on mobile communications strength"
-    },
-    {
-     "title": "Skyworks closes Qorvo deal, forming US RF and analog powerhouse",
-     "link": "https://www.digitimes.com/news/a20261006VL213/skyworks-qorvo-rf-ic-supplier.html",
-     "pubDate": "Tue, 6 Oct 2026 04:28:10 GMT",
-     "summary": "Skyworks Solutions (Nasdaq: SWKS) has completed its combination with Qorvo, creating a US-based supplier of high-performance radio frequency (RF), power management, and analog and mixed-signal semiconductors. The company expects annual cost synergies of US$500 million or more, and says the deal will",
-     "source": "DIGITIMES",
-     "zh": "Skyworks closes Qorvo deal, forming US RF and analog powerhouse"
+     "title": "Central Radar Control For Luton Airport",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/central-radar-control-for-luton-airport-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 00:01:27 +0000",
+     "summary": "The addition of airfield control radar is the latest move in the ambitious modernisation plan for Luton Airport. So, 65 years ago, started a story in Electronics Weekly’s edition of […] The post Central Radar Control For Luton Airport appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Central Radar Control For Luton Airport"
     },
     {
      "title": "Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027",
@@ -447,22 +495,6 @@
      "summary": "Filtronic plc of Sedgefield and Leeds, UK — which designs and manufactures RF and millimeter-wave (mmWave) transmit & receive components and subsystems for the space, aerospace & defence, and telecoms infrastructure markets — has announced a $68.1m (£51.3m) follow-on order to supply Cerus E-band gal",
      "source": "Semiconductor Today",
      "zh": "Filtronic wins $68.1m follow-on order from SpaceX for Cerus E-band GaN solid-state power amplifiers"
-    },
-    {
-     "title": "Renesas unveils first 650V GaN in dual-side-cooled 8mm x 8mm package for megawatt-scale AI data centers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/renesas-011026.shtml",
-     "pubDate": "Thu, 1 Oct 2026 16:11:19 +0100",
-     "summary": "Renesas Electronics Corp of Tokyo, Japan has launched what it claims is the industry’s first 650V GaN device with dual-side cooling for high-density power conversion in 800V high-voltage DC (HVDC) AI data-center architectures. The new TP65H020G4PLSGBD D-Mode device delivers 20mΩ on-resistance — one ",
-     "source": "Semiconductor Today",
-     "zh": "Renesas unveils first 650V GaN in dual-side-cooled 8mm x 8mm package for megawatt-scale AI data centers"
-    },
-    {
-     "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
-     "link": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
-     "pubDate": "Tue, 29 Sep 2026 10:00:06 +0000",
-     "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle. Key Takeaways Explore four critical technologies enabling silicon design autonomy Understand how autonomous AI accelerates comp",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog"
     }
    ]
   },
@@ -817,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "World Bank Warns Asia Is Running Out of Money to Fight Energy Shock",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/World-Bank-Warns-Asia-Is-Running-Out-of-Money-to-Fight-Energy-Shock.html",
+     "pubDate": "Tue, 06 Oct 2026 02:00:00 -0500",
+     "summary": "Asian countries have responded more aggressively than others to the energy supply crunch caused by the U.S. and Israeli war on Iran and now they are running out of resources to continue their response, the World Bank warned in a new report. The report actually focuses on the potential of artificial ",
+     "source": "OilPrice",
+     "zh": "World Bank Warns Asia Is Running Out of Money to Fight Energy Shock"
+    },
+    {
      "title": "Utility solar generation reaches record highs in Australia",
      "link": "https://www.pv-magazine.com/2026/10/06/utility-solar-generation-reaches-record-highs-in-nem/",
      "pubDate": "Tue, 06 Oct 2026 06:04:30 +0000",
@@ -913,14 +953,6 @@
      "zh": "Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem"
     },
     {
-     "title": "Germany Is Spending €2 Billion to Discover the Real Price of Clean Jet Fuel",
-     "link": "https://oilprice.com/Energy/Energy-General/Germany-Is-Spending-2-Billion-to-Discover-the-Real-Price-of-Clean-Jet-Fuel.html",
-     "pubDate": "Mon, 05 Oct 2026 15:00:00 -0500",
-     "summary": "Electric aviation is advancing faster than many critics expected. Batteries will not remain confined to tiny experimental aircraft, and short regional routes are a credible early market. But electric aircraft will not replace every jet. Long-haul aviation requires enormous energy at very low weight.",
-     "source": "OilPrice",
-     "zh": "Germany Is Spending €2 Billion to Discover the Real Price of Clean Jet Fuel"
-    },
-    {
      "title": "Virginia’s new energy plan: Make the AI boom work for — not against — us",
      "link": "https://www.canarymedia.com/articles/data-centers/virginia-new-energy-plan-ai-boom",
      "pubDate": "Mon, 05 Oct 2026 14:00:00 -0400",
@@ -932,7 +964,7 @@
      "title": "Virginia hearing examiner tells Dominion to release memo on FPL investigation",
      "link": "https://www.utilitydive.com/news/virginia-hearing-examiner-tells-dominion-to-release-memo-on-fpl-investigati/832149/",
      "pubDate": "Mon, 05 Oct 2026 12:02:18 -0400",
-     "summary": "Dominion said the memo wasn&rsquo;t relevant to its merger with NextEra Energy, but Clean Virginia, a customer advocacy group, said it speaks to the governance &ldquo;fitness&rdquo; of the potential combined company.",
+     "summary": "Dominion said it wasn&rsquo;t relevant to its merger with NextEra Energy, but Clean Virginia, a customer advocacy group, said it spoke to the governance &ldquo;fitness&rdquo; of the potential combined company.",
      "source": "Utility Dive",
      "zh": "Virginia hearing examiner tells Dominion to release memo on FPL investigation"
     },
@@ -964,7 +996,7 @@
      "title": "Rising interest rates challenge utility financing plans, US Bank managing director says",
      "link": "https://www.utilitydive.com/news/rising-interest-rates-utility-financing-us-bank/832131/",
      "pubDate": "Mon, 05 Oct 2026 10:47:15 -0400",
-     "summary": "For utilities, rapidly rising interest rates will make keeping capital expenditures well-balanced &ldquo;a little more challenging,&rdquo; said Tim Keller, managing director of U.S. Bank&rsquo;s power and utilities group.",
+     "summary": "For utilities, keeping capital expenditures well-balanced is &ldquo;going to be a little more challenging with [interest] rates going higher as quickly as they have,&rdquo;&nbsp;said Tim Keller, managing director of U.S. Bank&rsquo;s power and utilities group.",
      "source": "Utility Dive",
      "zh": "Rising interest rates challenge utility financing plans, US Bank managing director says"
     },
@@ -980,7 +1012,7 @@
      "title": "MISO proposes fast-track large load, generation study process",
      "link": "https://www.utilitydive.com/news/miso-large-load-generation-study-lars-ferc/832114/",
      "pubDate": "Mon, 05 Oct 2026 10:01:26 -0400",
-     "summary": "The 120-day study process would be available for loads larger than 200 MW and new generation that is in the same local resource zone, which generally consists of individual states.",
+     "summary": "The 120-day study process would be available for loads larger than 200 MW and new generation that *are*>is* in the same local resource zone, which generally cover individual states.",
      "source": "Utility Dive",
      "zh": "MISO proposes fast-track large load, generation study process"
     },
@@ -1705,6 +1737,38 @@
    "total": 18,
    "items": [
     {
+     "title": "亚马逊 AWS 豪掷 10 亿美元安抚数据中心所在地社区，试图缓解美国民众反对声浪",
+     "link": "https://www.ithome.com/1/009/999.htm",
+     "pubDate": "Tue, 06 Oct 2026 07:02:29 GMT",
+     "summary": "IT之家 10 月 6 日消息，据路透社上周（10 月 2 日）报道，亚马逊云计算（AWS）表示，未来 5 年将在全美国范围内的数据中心社区投资超 10 亿美元 （IT之家注：现汇率约合 67.14 亿元人民币） ， 承诺为当地民众承担数据中心带来的水电资源影响 。 据报道，由于数据中心会对电力、公共事业成本等因素带来影响，美国各地民众近年来开始反对在自己的社区建设数据中心。随着美国 11 月 3 日中期选举临近，这种反弹态势给共和党带来了政治挑战。 亚马逊 AWS 表示，这笔超 10 亿美元的投资涵盖教育、职业培训、水资源和能源保护等领域。该公司试图回应数据中心耗电、环境等方面的负面影响，并",
+     "source": "IT之家",
+     "zh": "亚马逊 AWS 豪掷 10 亿美元安抚数据中心所在地社区，试图缓解美国民众反对声浪"
+    },
+    {
+     "title": "巨头涌入香港，抢人又抢楼",
+     "link": "https://www.huxiu.com/article/4895524.html?f=rss",
+     "pubDate": "Tue, 06 Oct 2026 15:00:45 +0800",
+     "summary": "本文来自微信公众号： 投中网 ，作者：韦香惠 香港人才与全球量化机构之间的交流热度明显升温。 本文字数2994 手搓量丨90%AI含量丨10% 今年秋季招聘季，多家全球头部量化机构陆续走进香港高校。 不过，量化机构来香港招揽高校人才并不是新鲜事，以香港科技大学为例，其量化金融专业的就业去向中已经出现Jane Street等头部金融机构，而今年，香港人才与全球量化机构之间的交流热度明显升温。 但与往年相比，今年的招聘周期、招聘需求等都有所提前和扩大。我注意到，香港中文大学、香港大学、香港科技大学等高校官网上，已出现Jane Street、Flow Traders、Citadel相关招聘宣讲活动信",
+     "source": "虎嗅",
+     "zh": "巨头涌入香港，抢人又抢楼"
+    },
+    {
+     "title": "10 月 5 日蔚来换电 183,664 单，再创历史新高",
+     "link": "https://www.ithome.com/1/009/997.htm",
+     "pubDate": "Tue, 06 Oct 2026 06:57:39 GMT",
+     "summary": "IT之家 10 月 6 日消息，蔚来今日宣布，2026 年 10 月 5 日，蔚来换电单日总量达 183,664 单， 再创历史新高 （IT之家注：10 月 1 日蔚来换电单日总量达 183,469 单，曾创历史新高）， 平均 0.47 秒就有一台蔚来、乐道、萤火虫完成换电 。 10 月 5 日换电单量前三（并列第三）的高速换电站分别是： 山东日照 ·G15 沈海高速日照服务区海口方向蔚来换电站：188 单 广东江门 ·G15 沈海高速大槐服务区沈阳方向蔚来换电站：176 单 江苏扬州 ·G2 京沪高速江都服务区上海方向蔚来换电站：171 单 江苏淮安 ·G25 长深高速洪泽湖服务区深圳方向蔚",
+     "source": "IT之家",
+     "zh": "10 月 5 日蔚来换电 183,664 单，再创历史新高"
+    },
+    {
+     "title": "微软延后 1 个月：OneDrive 520 字符路径限制改进推迟至 11 月",
+     "link": "https://www.ithome.com/1/009/996.htm",
+     "pubDate": "Tue, 06 Oct 2026 06:56:27 GMT",
+     "summary": "IT之家 10 月 6 日消息，科技媒体 NeoWin 今天（10 月 6 日）发布博文，报道称微软延后部署补丁， 而该补丁主要用于修复 OneDrive 同步客户端在文件路径超过 520 个字符后触发的同步错误。 IT之家援引博文介绍，受此漏洞影响的用户包括所有 Windows 桌面版 OneDrive 同步客户端用户，以及 OneDrive for Business 的 Windows 桌面同步客户端用户。 用户尝试同步超过 520 个字符路径限制的文件或文件夹时，系统会显示错误消息，提示超出限制的字符数并要求缩短路径。除同步限制外，文件管理器因 NTFS 文件系统限制，可能阻止用户重命名",
+     "source": "IT之家",
+     "zh": "微软延后 1 个月：OneDrive 520 字符路径限制改进推迟至 11 月"
+    },
+    {
      "title": "劳斯莱斯 CEO 称中国市场至关重要，车辆平均定制价值每年都在增长",
      "link": "https://www.ithome.com/1/009/995.htm",
      "pubDate": "Tue, 06 Oct 2026 06:46:53 GMT",
@@ -1737,14 +1801,6 @@
      "zh": "创新药出海：BD金额如何穿透利润表"
     },
     {
-     "title": "《直到黎明》开发商 Supermassive Games 开始裁员，超 70 人受影响",
-     "link": "https://www.ithome.com/1/009/992.htm",
-     "pubDate": "Tue, 06 Oct 2026 06:38:34 GMT",
-     "summary": "IT之家 10 月 6 日消息，据游戏媒体 Game*Spark 今日报道，《直到黎明》开发商 Supermassive Games 已开始进行裁员，超 70 名员工受到影响。 Supermassive Games IT 部门员工 Frank Tindle 表示，他已经确认自己成为裁员对象。 公司内的部分美术师、制作人、QA、运营人员等 70 多名同事都将离开 。 据IT之家了解，Supermassive Games 是一家位于英国的游戏工作室， 以《直到黎明》《采石场》等作品闻名 。该工作室近期还分别于 2025 年推出了《小小梦魇 3》，并于 2026 年推出了《8020 号指令》。 此外",
-     "source": "IT之家",
-     "zh": "《直到黎明》开发商 Supermassive Games 开始裁员，超 70 人受影响"
-    },
-    {
      "title": "战魔田默｜一辆车可以由多家企业完成，品牌却必须长出自己的系统",
      "link": "https://www.huxiu.com/article/4895523.html?f=rss",
      "pubDate": "Tue, 06 Oct 2026 14:38:03 +0800",
@@ -1769,22 +1825,6 @@
      "zh": "Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that execs like Sam Altman and Dario Amodei could be held liable (Lee Harris/Financial Times)"
     },
     {
-     "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-     "link": "https://www.ithome.com/1/009/990.htm",
-     "pubDate": "Tue, 06 Oct 2026 06:25:15 GMT",
-     "summary": "IT之家 10 月 6 日消息，据彭博社报道，DeepSeek 新一轮融资即将敲定，募资规模至少可达 800 亿元人民币，大幅超出自身原定募资目标。此次融资也将为该公司计划在 2027 年初开展的里程碑式 IPO 铺路。 知情人士称，宁德时代以及腾讯是本轮融资当中出资规模最大的几家投资方，本轮交易很快就会完成交割。DeepSeek 最初的募资目标约为 500 亿元；但随着最新 AI 模型发布取得成功，市场投资者的认购热情远超预期。知情人士补充，根据已经签署的投资条款书，本轮最终融资总额有可能逼近 1000 亿元。 这笔融资，为 DeepSeek 开启今后几年国内最受瞩目的上市进程打下基础。自 ",
-     "source": "IT之家",
-     "zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与"
-    },
-    {
-     "title": "育碧《刺客信条：女巫》游戏角色与剧情细节曝光，预估 2027 下半年发行",
-     "link": "https://www.ithome.com/1/009/989.htm",
-     "pubDate": "Tue, 06 Oct 2026 06:22:04 GMT",
-     "summary": "IT之家 10 月 6 日消息，游戏媒体 mp1st 于 10 月 4 日发布博文， 报道称育碧《刺客信条：女巫》（Assassin's Creed Hexe，Hexe 为代号，非官方正式名称）游戏曝出新一批角色与剧情资料。 消息称游戏背景设定在 16 世纪德国，故事聚焦当地猎巫审判与宗教迫害，整体基调较系列近年作品更阴暗。 主角方面，消息称该游戏女主角称为“佩特拉”。她约 25 岁，意志坚强且思想激进。她可能拒绝接受社会强加的传统角色，并由此卷入主要剧情。 佩特拉的母亲名为布里吉特，是一名助产士，曾学习草药知识；她还可能与奥迪托雷家族存在联系，让佩特拉成为艾吉奥的远房后裔。 IT之家注：奥迪",
-     "source": "IT之家",
-     "zh": "育碧《刺客信条：女巫》游戏角色与剧情细节曝光，预估 2027 下半年发行"
-    },
-    {
      "title": "Agent“越狱”的120小时，与一份“粗制滥造”的真相",
      "link": "https://www.huxiu.com/article/4895520.html?f=rss",
      "pubDate": "Tue, 06 Oct 2026 13:57:54 +0800",
@@ -1807,14 +1847,6 @@
      "summary": "Bloomberg : Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO &nbsp; &mdash;&nbsp; DeepSeek is close to securing at least 80 billion yuan ($12 billion) in its latest round of funding, blowing",
      "source": "Techmeme",
      "zh": "Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO (Bloomberg)"
-    },
-    {
-     "title": "1700亿市值蒸发: S.5548法案背后的光模块地缘暗战",
-     "link": "https://www.huxiu.com/article/4895518.html?f=rss",
-     "pubDate": "Tue, 06 Oct 2026 13:37:50 +0800",
-     "summary": "本文来自微信公众号： JoJocharm ，作者：Joy&nbsp;Joh 2026年9月25日，四位跨党派美国参议员联合提出S.5548号法案——《保护国家安全系统免受中国光收发器影响法案》。 提案点名中际旭创和新易盛，禁止美国联邦国家安全系统采购这两家企业的光收发产品。 9月28日，中秋假期后首个交易日，光模块板块集体杀跌。 “易中天”（中际旭创、新易盛、天孚通信）一日合计蒸发市值超过1700亿元，CPO概念指数大跌逾5%，近10只个股跌停。 市场的剧烈反应可以理解，但要冷静。 S.5548号法案到底如何影响“光”？ 法案的真实约束边界 理解S.5548，最关键的是看清它的适用范围。法案禁",
-     "source": "虎嗅",
-     "zh": "1700亿市值蒸发: S.5548法案背后的光模块地缘暗战"
     },
     {
      "title": "Sources: Seagate and Toshiba are bidding for TDK&apos;s HDD magnetic head business in a multibillion-dollar deal, as they compete for AI data center storage demand (Bloomberg)",
@@ -1932,7 +1964,7 @@
      "title": "Resurrecting iChat Audio and Video Conferencing",
      "link": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
      "pubDate": "Tue, 06 Oct 2026 03:39:01 +0000",
-     "summary": "Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/ Comments URL: https://news.ycombinator.com/item?id=49973878 Points: 28 # Comments: 6",
+     "summary": "Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/ Comments URL: https://news.ycombinator.com/item?id=49973878 Points: 34 # Comments: 6",
      "source": "Hacker News",
      "zh": "Resurrecting iChat Audio and Video Conferencing"
     },
@@ -1952,6 +1984,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "iPhone 18 Pro Burgundy paint fading issues reported by some early adopters",
+     "link": "https://www.gsmarena.com/iphone_18_pro_series_hit_with_another_discoloration_case-news-74914.php",
+     "pubDate": "Tue, 06 Oct 2026 09:01:03 +0200",
+     "summary": "Within a couple of weeks of launching, iPhone 17 Pro and 17 Pro Max users last year started complaining online of a weird discoloration issue that affected mainly the hero Cosmic Orange color, but it was also observed on the Deep Blue paint job. Now, the iPhone 18 Pro series users are going through ",
+     "source": "GSMArena",
+     "zh": "iPhone 18 Pro Burgundy paint fading issues reported by some early adopters"
+    },
     {
      "title": "Google adds support for Markdown files in Google Docs and Drive",
      "link": "https://www.androidauthority.com/google-docs-drive-markdown-file-support-3719441/",
@@ -2089,14 +2129,6 @@
      "zh": "Googlebooks can’t install the Slack web app on day one"
     },
     {
-     "title": "Apple iPhone 18 Pro Max vs. iPhone 17 Pro Max",
-     "link": "https://www.gsmarena.com/iphone_18_pro_max_vs_iphone_17_pro_max_battery_camera_price_compared-news-74787.php",
-     "pubDate": "Tue, 06 Oct 2026 01:31:02 +0200",
-     "summary": "The new iPhone hit the shelves and the first order of business is to pit it against its predecessor. The Apple iPhone 18 Pro Max brings screen, performance, camera and battery improvements over the previous generation and yet the Apple iPhone 17 Pro Max gets you a lot of the same at a cheaper price.",
-     "source": "GSMArena",
-     "zh": "Apple iPhone 18 Pro Max vs. iPhone 17 Pro Max"
-    },
-    {
      "title": "Can a MacBook handle heavy games? Here's what you should know",
      "link": "https://www.engadget.com/2276473/apple-macbook-handle-graphically-demanding-heavy-games/",
      "pubDate": "Mon, 05 Oct 2026 23:30:00 +0000",
@@ -2201,6 +2233,70 @@
    "total": 13,
    "items": [
     {
+     "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
+     "link": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
+     "pubDate": "Tue, 06 Oct 2026 07:05:36 GMT",
+     "summary": "The U.S. national average price of diesel topped $6 a gallon in September for the first time ever, as fuel supply disruptions pushed up transportation costs in the country.",
+     "source": "CNBC",
+     "zh": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms"
+    },
+    {
+     "title": "Treasury yields are broadly flat as investors anticipate FOMC minutes",
+     "link": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+     "pubDate": "Tue, 06 Oct 2026 07:05:14 GMT",
+     "summary": "U.S. Treasury yields were broadly flat on Tuesday morning after reaching fresh highs the previous day.",
+     "source": "CNBC",
+     "zh": "Treasury yields are broadly flat as investors anticipate FOMC minutes"
+    },
+    {
+     "title": "How quant funds beat the market by being &apos;early, contrarian and right&apos;",
+     "link": "https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html",
+     "pubDate": "Tue, 06 Oct 2026 06:57:42 GMT",
+     "summary": "Quantitative hedge funds have captured big trends in bonds and oil to outperform the stock market this year.",
+     "source": "CNBC",
+     "zh": "How quant funds beat the market by being &apos;early, contrarian and right&apos;"
+    },
+    {
+     "title": "以防长称已指示军队提升戒备应对可能发生的袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202610063888752764.html",
+     "pubDate": "Tue, 06 Oct 2026 14:53:33 +0800",
+     "summary": "当地时间6日， 总台记者 获悉，以色列国防部长卡茨当天发表声明，宣称情报显示巴勒斯坦伊斯兰抵抗运动（哈马斯）计划在7日，即新一轮巴以冲突爆发三周年之际发动袭击，他已指示以色列军队全面提升戒备状态。 卡茨当天在一份官方声明中坚称，以军必须为最坏的情况做好准备，并且“除了正在进行的强力行动之外，还应针对任何情报或预警采取果断行动，以挫败任何威胁”。 卡茨同时扬言，如果加沙地带的以色列军队受到任何伤害，哈马斯以及加沙当地居民都将为此付出“超乎寻常的沉重代价”。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "以防长称已指示军队提升戒备应对可能发生的袭击"
+    },
+    {
+     "title": "韩国政府已向美方汇出24亿美元用于得克萨斯州的电力项目",
+     "link": "http://finance.eastmoney.com/news/1351,202610063888752887.html",
+     "pubDate": "Tue, 06 Oct 2026 14:52:37 +0800",
+     "summary": "韩国外长表示，韩国政府已向美方汇出24亿美元，用于得克萨斯州的 电力 项目。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "韩国政府已向美方汇出24亿美元用于得克萨斯州的电力项目"
+    },
+    {
+     "title": "厦门点面结合布局AI应用 赋能千行百业转型升级",
+     "link": "http://finance.eastmoney.com/news/1355,202610063888752483.html",
+     "pubDate": "Tue, 06 Oct 2026 14:51:09 +0800",
+     "summary": "“AIGC(生成式 人工智能 )把传统影视制作的效率提升了30至50倍，这几乎是‘降维打击’。”福建省 人工智能 协会AIGC专委会副主任陈铎6日在厦门受访时表示，在画面风格适配、多语言一键转译等技术加持下，AI短剧出海门槛正不断降低，小语种市场成为新蓝海。 陈铎同时是AIGC原生企业AINext的创始人，企业落地厦门软件园。团队深耕AI影视内容赛道多年，已与海外平台合作，承制了一系列AI短剧，产出多部“爆款”。他说，厦门软件信息产业基础雄厚，数十个AI相关平台稳定运行，为企业发展提供了沃土。 AI赋能千行百业，在厦门正走向全域布局。今年7月，厦门市 人工智能 公共服务平台正式上线，归集大模型",
+     "source": "东方财富股票",
+     "zh": "厦门点面结合布局AI应用 赋能千行百业转型升级"
+    },
+    {
+     "title": "日本央行或暗示基础通胀已达2%目标 12月加息预期升温",
+     "link": "http://finance.eastmoney.com/news/1351,202610063888752529.html",
+     "pubDate": "Tue, 06 Oct 2026 14:48:36 +0800",
+     "summary": "据外媒报道，日本央行可能在本月释放一个重要政策信号： 日本的基础通胀水平已大致达到2%的物价稳定目标。 这一判断若正式写入最新经济和物价展望，将意味着日本央行对通胀持续性的评估进一步转变，并为未来数月继续加息提供依据。 据路透社援引三名熟悉日本央行想法的消息人士报道，日本央行近期公布的一系列数据增强了决策层的信心，认为 剔除一次性因素、反映更广泛需求和工资变化的基础通胀，目前已大致达到2%。 这种表态很大程度上是象征性的，并不意味着日本央行将在10月立即再次加息。日本央行刚刚在9月提高政策利率，多名央行官员倾向于观察此前加息对国内金融环境的影响，然后再决定下一步行动。 市场目前普遍将12月视为",
+     "source": "东方财富股票",
+     "zh": "日本央行或暗示基础通胀已达2%目标 12月加息预期升温"
+    },
+    {
+     "title": "阿尔及利亚媒体：阿中伙伴关系紧密发展",
+     "link": "http://global.eastmoney.com/news/1786,202610063888752234.html",
+     "pubDate": "Tue, 06 Oct 2026 14:45:45 +0800",
+     "summary": "新华财经突尼斯10月6日电（记者周昊瑾）阿尔及尔消息：阿尔及利亚《独立青年报》网站5日发表题为《新中国成立77周年，回望阿中两国深厚友谊》的文章。文章指出，新中国成立77年来取得一系列伟大成就，并同包括阿尔及利亚在内的发展中国家形成紧密的伙伴关系。文章摘要如下： 77年来，中国历经改革开放、加入世贸组织等诸多重要事件，逐渐从积贫积弱的国家蜕变为全球重要力量。同时，中国的发展轨迹始终与广大发展中国家，特别是非洲国家的发展命运紧密联结，非中合作论坛等机制为构建新时代全天候非中命运共同体持续注入力量，助力非中团结合作，实现共同发展。 阿尔及利亚是第一个同中国建立全面战略伙伴关系的阿拉伯国家。两国间的",
+     "source": "东方财富股票",
+     "zh": "阿尔及利亚媒体：阿中伙伴关系紧密发展"
+    },
+    {
      "title": "Citi edges out Goldman Sachs to lead global IPO underwriting through September: report",
      "link": "https://seekingalpha.com/news/4650424-citi-edges-out-goldman-sachs-to-lead-global-ipo-underwriting-through-september-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 06 Oct 2026 02:44:39 -0400",
@@ -2233,12 +2329,12 @@
      "zh": "World Bank lifts 2026 East Asia growth forecast to 4.5% amid AI boom but warns of capex risks"
     },
     {
-     "title": "高通否认“将单方向华为支付费用”：并非净支付方，该协议与“逻辑折叠芯片技术”无关",
-     "link": "http://www.eeo.com.cn/2026/1006/1056650.shtml",
-     "pubDate": "Tue, 06 Oct 2026 14:39:10 +0800",
-     "summary": "每经记者｜王晶每经编辑｜何小桃 魏文艺 记者|王晶 编辑|何小桃 魏文艺 杜波校对|程鹏 10月5日，华为官方宣布，华为与高通宣布达成一项为期多年、范围广泛的专利许可协议，内容包括双方在5G、计算、人工智能和网络等多个领域的专利组合交叉许可，以及高通收购若干华为在计算、AI、网络等技术领域的美国专利。该交易将在获得必要的监管批准后完成。 <...",
-     "source": "经济观察网",
-     "zh": "高通否认“将单方向华为支付费用”：并非净支付方，该协议与“逻辑折叠芯片技术”无关"
+     "title": "越南VN指数下跌1%",
+     "link": "http://global.eastmoney.com/news/11798,202610063888751115.html",
+     "pubDate": "Tue, 06 Oct 2026 14:41:58 +0800",
+     "summary": "越南VN指数下跌1%，报1735.57点。",
+     "source": "东方财富股票",
+     "zh": "越南VN指数下跌1%"
     },
     {
      "title": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投",
@@ -2249,60 +2345,12 @@
      "zh": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投"
     },
     {
-     "title": "全球上半年新车销量，纯燃油车占比首次跌破50%",
-     "link": "http://www.eeo.com.cn/2026/1006/1056640.shtml",
-     "pubDate": "Tue, 06 Oct 2026 14:26:06 +0800",
-     "summary": "10月6日，据中国基金报援引外媒报道，Mobility Global最新数据显示，2026年上半年，纯汽油车型占全球新车销量的49%，这是历史上纯汽油车销量占比首次跌破五成，且较2021年的73%大幅下降了24个百分点。 Mobility Global是一家汽车数据机构，前身为标普全球汽车（S&P Global Mobility），今年从标普全球集团分拆独立。该机构数据显示，今年上半年，纯汽油车销量同比下降10%，至2025万辆。仅一年之内，其市场份额就下滑3个百...",
-     "source": "经济观察网",
-     "zh": "全球上半年新车销量，纯燃油车占比首次跌破50%"
-    },
-    {
-     "title": "“无糖”饮料含糖，星巴克在美面临诉讼",
-     "link": "http://www.eeo.com.cn/2026/1006/1056641.shtml",
-     "pubDate": "Tue, 06 Oct 2026 14:26:05 +0800",
-     "summary": "中新经纬10月6日电 据美联社当地时间5日报道，星巴克正面临消费者诉讼，原因是菜单上标有“无糖”的蛋白饮料含有不少糖分。 报道称，在美国西雅图提起的诉讼指控，星巴克在美国销售的八款蛋白饮料含有不同量的糖，尽管公司将其标注为“无糖”。 星巴克美国官网显示，一款16盎司(0.5升)的无糖焦糖蛋白抹茶含16克糖，20盎司(0.6升)版本含21克糖。 律师认为，“消费者避免摄入糖的原因有很多，无论是为了健康还...",
-     "source": "经济观察网",
-     "zh": "“无糖”饮料含糖，星巴克在美面临诉讼"
-    },
-    {
-     "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
-     "link": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
-     "pubDate": "Tue, 06 Oct 2026 06:17:40 GMT",
-     "summary": "The U.S. national average price of diesel topped $6 a gallon in September for the first time ever, as fuel supply disruptions pushed up transportation costs in the country.",
-     "source": "CNBC",
-     "zh": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms"
-    },
-    {
-     "title": "10月6日全国铁路预计发送旅客2210万人次",
-     "link": "http://www.eeo.com.cn/2026/1006/1056638.shtml",
-     "pubDate": "Tue, 06 Oct 2026 14:13:06 +0800",
-     "summary": "【10月6日全国铁路预计发送旅客2210万人次】据“中国铁路”微信号，10月5日，全国铁路发送旅客2104.7万人次，运输安全平稳有序。10月6日，全国铁路迎来返程客流高峰，预计发送旅客2210万人次，计划加开旅客列车2199列。铁路部门提示，目前铁路客流已进入返程高峰，部分地区旅客出行比较集中，请旅客朋友及时关注天气变化情况和出行服务信息，预留充足时间进站乘车。(中新经纬APP)",
-     "source": "经济观察网",
-     "zh": "10月6日全国铁路预计发送旅客2210万人次"
-    },
-    {
      "title": "KKR strikes $5.1B deal for fund administrator Gen II",
      "link": "https://seekingalpha.com/news/4650412-kkr-strikes-51b-deal-for-fund-administrator-gen-ii?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 06 Oct 2026 01:54:18 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "KKR strikes $5.1B deal for fund administrator Gen II"
-    },
-    {
-     "title": "俄罗斯：将大幅增加黄金购买量",
-     "link": "http://www.eeo.com.cn/2026/1006/1056637.shtml",
-     "pubDate": "Tue, 06 Oct 2026 13:52:07 +0800",
-     "summary": "据央视新闻，当地时间10月5日，俄罗斯财政部发布消息，将于10月7日至11月6日将该国外汇和黄金购买量提高至9月的五倍，为此拨款2794.2亿卢布，日均购买量约127亿卢布。此次购买依据预算规则进行，旨在将额外油气收入纳入国家福利基金。",
-     "source": "经济观察网",
-     "zh": "俄罗斯：将大幅增加黄金购买量"
-    },
-    {
-     "title": "600亿美元，AI最大芯片融资曝光，华尔街银团豪赌",
-     "link": "http://www.eeo.com.cn/2026/1006/1056636.shtml",
-     "pubDate": "Tue, 06 Oct 2026 13:52:07 +0800",
-     "summary": "中新经纬10月6日电 据英国《金融时报》中文网6日报道，美国银行、花旗和摩根士丹利开始向其他银行分销一笔总额600亿美元的债务融资，以资助Anthropic租用谷歌的半导体。这是目前规模最大的芯片融资交易，凸显科技公司正竞相锁定AI算力。 报道称，这笔由博通提供部分担保的融资，被视为衡量市场对AI债务需求的风向标。近几个月来，投资者要求向大举投入数万亿美元开发先进AI模型的科技公司提供贷款时，收取更高的风险溢价...",
-     "source": "经济观察网",
-     "zh": "600亿美元，AI最大芯片融资曝光，华尔街银团豪赌"
     },
     {
      "title": "Trump: Becton Dickinson agrees to invest $3B in US manufacturing, including $1B+ in Nebraska",
@@ -2335,22 +2383,6 @@
      "summary": "法国央行行长Emmanuel Moulin警告，法国若不整顿公共财政，恐将被不断上升的利率\"逐步扼杀\"。 上周，法债抛售加剧并蔓延至整个欧洲，10年期国债收益率一度逼近5%，为2002年以来最高，法国的借贷成本已高于希腊和意大利。 衡量法债风险溢价的法德10年期国债利差，上周扩大32个基点至141个基点。德意志银行的Jim Reid称，这是彭博自1990年有数据以来最大的单周扩大，这段时期涵盖了两德统一、欧债危机和新冠疫情。 更棘手的是买卖两端同时恶化。法国央行已停止购债，长期稳定持有法债的日本资金开始松动，法国明年却要发行创纪录规模的国债。高盛认为，欧洲央行的反碎片化工具是\"最后手段，而不是",
      "source": "华尔街见闻",
      "zh": "积重难返！法国站到了“欧债风暴中心”"
-    },
-    {
-     "title": "How quant funds beat the market by being &apos;early, contrarian and right&apos;",
-     "link": "https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html",
-     "pubDate": "Tue, 06 Oct 2026 05:00:01 GMT",
-     "summary": "Quantitative hedge funds have captured big trends in bonds and oil to outperform the stock market this year.",
-     "source": "CNBC",
-     "zh": "How quant funds beat the market by being &apos;early, contrarian and right&apos;"
-    },
-    {
-     "title": "10月6日港股午盘：恒指涨0.78% 恒生科技指数涨0.87%",
-     "link": "http://stock.eastmoney.com/news/11770,202610063888741791.html",
-     "pubDate": "Tue, 06 Oct 2026 12:10:17 +0800",
-     "summary": "港股10月6日午盘走高，恒生指数收报24228.47点，涨188.13点，涨幅0.78%；恒生科技指数收报4220.12点，涨36.44点，涨幅0.87%。恒生指数成分股中 极兔速递-W 、 药明生物 、 中国生物制药 涨幅居前， 安踏体育 、 华虹宏力 、 农夫山泉 跌幅靠前。恒生科技指数成分股中 智谱 、 舜宇光学科技 、 百度集团-W 涨幅居前， 华虹宏力 、 联想集团 、 携程集团-S 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国",
-     "source": "东方财富资讯",
-     "zh": "10月6日港股午盘：恒指涨0.78% 恒生科技指数涨0.87%"
     },
     {
      "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
@@ -2401,12 +2433,12 @@
      "zh": "8.2万亿美元AI盛宴背后，银行业悄然涌入亚洲GPU融资赛道"
     },
     {
-     "title": "港股主要股指集体走强，智谱涨超5%",
+     "title": "港股主要股指集体走强，智谱涨超7%，日经225涨超2%，国际油价下跌",
      "link": "https://wallstreetcn.com/articles/3783046",
      "pubDate": "Tue, 06 Oct 2026 10:45:50 +0800",
-     "summary": "周二（10月6日），港股主要股指集体走强，截至发稿，恒生指数涨0.74%，恒生科技指数涨0.63%。 大模型相关个股走强。截至发稿，智谱涨超5%，minimax涨近3%。 消息面上，亚马逊云科技（AWS）旗下大模型服务平台Amazon Bedrock官宣接入智谱GLM-5.3，AWS基于模型调用量与智谱进行收入分成。据了解，除了AWS外，智谱近期与多家海外云厂商落地收入分成模式。此前，智谱透露计划通过海外云平台收入分成增加一条具有规模潜力的商业路径。国内方面，智谱已与阿里云百炼平台等头部云厂商签署类似分成协议，华为云已上架GLM-5.3，并就类似合作达成意向，形成贯通国内外的分成体系。 科网股",
+     "summary": "10月7日周一，港股主要股指上行，大模型相关个股走强；日经225指数涨超1%，韩国综合指数下跌0.89%。 港股主要股指上行，大模型相关个股走强 周二（10月6日），港股主要股指集体走强，截至发稿，恒生指数涨0.81%，恒生科技指数涨0.75%。 大模型相关个股走强。截至发稿，智谱涨超7%，minimax涨2%。 消息面上，亚马逊云科技（AWS）旗下大模型服务平台Amazon Bedrock官宣接入智谱GLM-5.3，AWS基于模型调用量与智谱进行收入分成。据了解，除了AWS外，智谱近期与多家海外云厂商落地收入分成模式。此前，智谱透露计划通过海外云平台收入分成增加一条具有规模潜力的商业路径。国",
      "source": "华尔街见闻",
-     "zh": "港股主要股指集体走强，智谱涨超5%"
+     "zh": "港股主要股指集体走强，智谱涨超7%，日经225涨超2%，国际油价下跌"
     },
     {
      "title": "谷歌与Constellation酝酿十亿美元核电协议，科技巨头抢购清洁电力大幕正式开启",

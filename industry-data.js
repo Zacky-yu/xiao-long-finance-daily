@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/7 08:39:44",
+ "generated_at": "2026/10/7 08:49:59",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Top Ten SiC Producers",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-sic-producers-2026-10/",
+     "pubDate": "Wed, 07 Oct 2026 00:00:08 +0000",
+     "summary": "Thanks to Mordor Intelligence for this one – the top ten SiC producers: Infineon ST Wolfspeed onsemi ROHM Mitsubishi Electric: Fuji Electric Microchip Toshiba Semikron Danfoss The post Top Ten SiC Producers appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Top Ten SiC Producers"
+    },
+    {
      "title": "The AI Boom Has a Gigawatt Accounting Problem",
      "link": "https://www.eetimes.com/the-ai-boom-has-a-gigawatt-accounting-problem/",
      "pubDate": "Tue, 06 Oct 2026 21:57:47 +0000",
@@ -322,6 +330,14 @@ window.INDUSTRY_DATA = {
      "zh": "Renesas adds first 100V E-mode FETs to low-voltage GaN portfolio"
     },
     {
+     "title": "Microchip, Navitas 800V DC-to-6V DC reference design for AI datacentres",
+     "link": "https://www.electronicsweekly.com/news/microchip-navitas-800v-dc-to-6v-dc-reference-design-for-ai-datacentres-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 15:36:31 +0000",
+     "summary": "Microchip Technology and Navitas Semiconductor have partnered to collaborate on an 800V DC-to-6V DC reference design for AI datacentre rack power applications. It combines Microchip’s digital power control and security […] The post Microchip, Navitas 800V DC-to-6V DC reference design for AI datacent",
+     "source": "Electronics Weekly",
+     "zh": "Microchip, Navitas 800V DC-to-6V DC reference design for AI datacentres"
+    },
+    {
      "title": "Solving the Five Hard Problems of NFC Antenna Integration at 13.56 MHz",
      "link": "https://www.eetimes.com/solving-the-five-hard-problems-of-nfc-antenna-integration-at-13-56-mhz/",
      "pubDate": "Tue, 06 Oct 2026 15:34:21 +0000",
@@ -338,6 +354,30 @@ window.INDUSTRY_DATA = {
      "zh": "Built to Deliver the Answer, Not to Train the Model"
     },
     {
+     "title": "Robots – Cast yourself into a vat of molten steel!",
+     "link": "https://www.electronicsweekly.com/blogs/gadget-master/robot/robots-cast-yourself-into-a-vat-of-molten-steel-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 14:41:20 +0000",
+     "summary": "What a striking video! Apparently it is the work US Robotics company Figure (no, I hadn't heard of them before this video). They wanted to decommission units from its F02 fleet and asked for suggestions. The post Robots – Cast yourself into a vat of molten steel! appeared first on Electronics Weekly",
+     "source": "Electronics Weekly",
+     "zh": "Robots – Cast yourself into a vat of molten steel!"
+    },
+    {
+     "title": "The 2026 Innovation Index",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/genius/the-2026-innovation-index-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 13:34:14 +0000",
+     "summary": "The World Intellectual Property Organization (WIPO) has released its 2026 Global Innovation Index (GII). Switzerland tops the rankings once again with a score of 66,7 out of 100. This is […] The post The 2026 Innovation Index appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The 2026 Innovation Index"
+    },
+    {
+     "title": "PCTEL’s SeeHawk Touch adds Wi-Fi 6/6E coverage testing",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/pctels-seehawk-touch-adds-wi-fi-6-6e-coverage-testing-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 13:09:12 +0000",
+     "summary": "PCTEL is adding Wi-Fi 6/6E coverage testing to its SeeHawk Touch network testing software. The company highlights it allows Wi-Fi technologies (on 2.4, 5, and 6 GHz channels) to be […] The post PCTEL’s SeeHawk Touch adds Wi-Fi 6/6E coverage testing appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "PCTEL’s SeeHawk Touch adds Wi-Fi 6/6E coverage testing"
+    },
+    {
      "title": "From Faster Proofs to Trusted Silicon with LUBIS EDA",
      "link": "https://semiwiki.com/eda/lubis-eda/374372-from-faster-proofs-to-trusted-silicon-with-lubis-eda/",
      "pubDate": "Tue, 06 Oct 2026 13:00:57 +0000",
@@ -352,6 +392,14 @@ window.INDUSTRY_DATA = {
      "summary": "Everspin’s demo shows how a 4-GB pool of persistent MRAM can serve as a new tier of storage between DRAM and NAND flash. The post CXL-Connected MRAM Address AI Storage Latency appeared first on EE Times .",
      "source": "EE Times",
      "zh": "CXL-Connected MRAM Address AI Storage Latency"
+    },
+    {
+     "title": "UK Space Landing Pad Programme launches at UCL",
+     "link": "https://www.electronicsweekly.com/news/uk-space-landing-pad-programme-launches-at-ucl-2026-10/",
+     "pubDate": "Tue, 06 Oct 2026 09:57:38 +0000",
+     "summary": "The UK government is backing the UK Space Landing Pad Programme, which is a six-month pilot to attract and support international space companies looking to establish a commercial presence in […] The post UK Space Landing Pad Programme launches at UCL appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "UK Space Landing Pad Programme launches at UCL"
     },
     {
      "title": "ADATA posts record 3Q revenue as memory prices rise",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers at the University of California, Santa Cruz published a technical paper titled “Design Space Exploration of Backside Clock Meshes for 2 nm GAAFET BSPDN Technology.” Abstract Excerpt: “Clock meshes are used in high-performance VLSI designs to minimize skew and tolerate on-chip variation, ",
      "source": "Semiconductor Engineering",
      "zh": "Backside Clock Meshes Cut Skew and Power in 2nm Nanosheets (UCSC)"
-    },
-    {
-     "title": "Trusted AI: Why Intelligence Alone Isn’t Enough",
-     "link": "https://www.eetimes.com/trusted-ai-why-intelligence-alone-isnt-enough/",
-     "pubDate": "Mon, 05 Oct 2026 17:48:56 +0000",
-     "summary": "See how trusted AI combines intelligence, domain expertise, and deterministic verification to boost confidence in semiconductor design. The post Trusted AI: Why Intelligence Alone Isn’t Enough appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Trusted AI: Why Intelligence Alone Isn’t Enough"
-    },
-    {
-     "title": "Navitas and Microchip collaborate on 800V reference design for AI data centers",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/navitas-microchip-051026.shtml",
-     "pubDate": "Mon, 5 Oct 2026 18:35:57 +0100",
-     "summary": "As AI data centers scale to support high-power GPU clusters, the industry is shifting toward 800V DC rack power architectures to improve distribution efficiency, increase power density and support next-generation server designs. To help accelerate this transition, power semiconductor firm Navitas Se",
-     "source": "Semiconductor Today",
-     "zh": "Navitas and Microchip collaborate on 800V reference design for AI data centers"
-    },
-    {
-     "title": "Siemens CTO update on Calibre at DAC 2026",
-     "link": "https://semiwiki.com/eda/374292-siemens-cto-update-on-calibre-at-dac-2026/",
-     "pubDate": "Mon, 05 Oct 2026 17:00:22 +0000",
-     "summary": "At DAC 2026 I had the opportunity to speak with Juan Rey, CTO Siemens EDA about the Calibre product used for IC physical verification, circuit verification, 3D IC and DFM optimization. Juan has been involved with Calibre since 2001, served on the Board of Directors of Silicon Integration Initiative ",
-     "source": "SemiWiki",
-     "zh": "Siemens CTO update on Calibre at DAC 2026"
-    },
-    {
-     "title": "From Simulation to Deployment: Why Physical AI Matters",
-     "link": "https://semiwiki.com/eda/synopsys/373937-from-simulation-to-deployment-why-physical-ai-matters/",
-     "pubDate": "Mon, 05 Oct 2026 15:00:13 +0000",
-     "summary": "Artificial intelligence is moving beyond the screen. The attached presentation describes a shift from systems that generate text, images, and code to systems that can perceive their surroundings and take action. These systems could guide robots, vehicles, factory equipment, medical devices, and crit",
-     "source": "SemiWiki",
-     "zh": "From Simulation to Deployment: Why Physical AI Matters"
-    },
-    {
-     "title": "JEDEC publishes first industry-wide silicon photonics reliability standard",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/jedec-051026.shtml",
-     "pubDate": "Mon, 5 Oct 2026 09:04:31 +0100",
-     "summary": "JEDEC Solid State Technology Association (which develops standards for the microelectronics industry) has announced the release of ‘JESD264: Silicon Photonics Qualification and Reliability Requirements’, the first industry-wide standard designed to bring consistent qualification and reliability prac",
-     "source": "Semiconductor Today",
-     "zh": "JEDEC publishes first industry-wide silicon photonics reliability standard"
-    },
-    {
-     "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
-     "link": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
-     "pubDate": "Fri, 02 Oct 2026 10:00:03 +0000",
-     "summary": "Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical elements for controlling the amplitude, phase, and polarization of light. These structures are of growing interest to researchers and engineers working on sensing, ",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control"
     }
    ]
   },
@@ -938,14 +938,6 @@ window.INDUSTRY_DATA = {
      "zh": "CIP refinances MaxSolar’s 1.3GW renewable energy portfolio in Germany"
     },
     {
-     "title": "Top electric power sector and utility conferences in 2027",
-     "link": "https://www.utilitydive.com/news/top-electric-power-sector-and-utility-conferences-in-2027/832259/",
-     "pubDate": "Tue, 06 Oct 2026 11:45:17 -0400",
-     "summary": "Utility Dive&rsquo;s curated list of notable events where energy professionals will gather to exchange ideas, demonstrate novel approaches and network for a new era of grid modernization.",
-     "source": "Utility Dive",
-     "zh": "Top electric power sector and utility conferences in 2027"
-    },
-    {
      "title": "A new VPP framework can center the energy transition in Illinois around customers: ComEd VP",
      "link": "https://www.utilitydive.com/news/illinois-vpp-virtual-power-plant-comed/831735/",
      "pubDate": "Tue, 06 Oct 2026 11:00:00 -0400",
@@ -973,7 +965,7 @@ window.INDUSTRY_DATA = {
      "title": "DOE intends to loan Vistra $4.2B for nuclear fleet improvements",
      "link": "https://www.utilitydive.com/news/doe-intends-to-loan-vistra-42b-for-nuclear-fleet-improvements/832236/",
      "pubDate": "Tue, 06 Oct 2026 10:00:02 -0400",
-     "summary": "The loan would cover&nbsp;433 MW of uprates at Vistra&rsquo;s nuclear plants and&nbsp;preserve around 4 GW of existing capacity to help meet growing demand in the PJM region, said the U.S. Department of Energy.",
+     "summary": "The loan would cover&nbsp;433 MW of uprates at Vistra&rsquo;s nuclear plants, and&nbsp;preserve around 4 GW of existing capacity, to help meet growing demand in the PJM region, said the U.S. Department of Energy.",
      "source": "Utility Dive",
      "zh": "DOE intends to loan Vistra $4.2B for nuclear fleet improvements"
     },
@@ -994,12 +986,12 @@ window.INDUSTRY_DATA = {
      "zh": "Quality issues raise PV systems’ LCOE more than 20% – HelioVolta"
     },
     {
-     "title": "Constellation, Google strike 890-MW nuclear deal in PJM",
+     "title": "Constellation-Google deal will bring $4.3B investment, 890 MW new nuclear to PJM",
      "link": "https://www.utilitydive.com/news/constellation-google-deal-will-bring-890-mw-of-new-nuclear-to-pjm/832223/",
      "pubDate": "Tue, 06 Oct 2026 08:55:10 -0400",
      "summary": "Constellation Energy has signed 20-year power purchase agreements with both Google and Amazon in the last week, supporting almost 1.1 GW of nuclear expansions.",
      "source": "Utility Dive",
-     "zh": "Constellation, Google strike 890-MW nuclear deal in PJM"
+     "zh": "Constellation-Google deal will bring $4.3B investment, 890 MW new nuclear to PJM"
     },
     {
      "title": "Japan proposes four categories for priority commercial solar support",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "In restaurant kitchens around the U.S., cooks are toiling away to create mouthwatering meals, from bibimbap to spaghetti puttanesca. But their own stomachs may be roiling. That’s what Christopher Galarza, a longtime chef and co-founder of sustainable kitchen certification company EcoChef, experience",
      "source": "Canary Media",
      "zh": "Gas stoves put restaurant cooks’ health at risk, new study finds"
+    },
+    {
+     "title": "Australia’s utility PV curtailment drops to 22% in September as renewables output hits 5.44TWh",
+     "link": "https://www.pv-tech.org/australias-utility-pv-curtailment-drops-to-22-in-september-as-renewables-output-hits-5-44twh/",
+     "pubDate": "Tue, 06 Oct 2026 04:38:45 +0000",
+     "summary": "Australia's utility-scale solar and wind assets generated a combined 5.44TWh across the NEM in September 2026.",
+     "source": "PV Tech",
+     "zh": "Australia’s utility PV curtailment drops to 22% in September as renewables output hits 5.44TWh"
     }
    ]
   },
@@ -1746,12 +1746,28 @@ window.INDUSTRY_DATA = {
      "zh": "苹果最强家庭影院曝光：Apple TV 4K 联动 4 台 HomePod 打造低延迟环绕声"
     },
     {
-     "title": "苹果首款折叠 iPhone Duo 双页 PDF 模式曝光，实现左右翻页效果",
+     "title": "I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)",
+     "link": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
+     "pubDate": "Wed, 07 Oct 2026 00:34:56 +0000",
+     "summary": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
+     "source": "WIRED",
+     "zh": "I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)"
+    },
+    {
+     "title": "113 Best Prime Day Deals We’re Shopping This October (2026)",
+     "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
+     "pubDate": "Wed, 07 Oct 2026 00:32:13 +0000",
+     "summary": "Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
+     "source": "WIRED",
+     "zh": "113 Best Prime Day Deals We’re Shopping This October (2026)"
+    },
+    {
+     "title": "苹果首款折叠 iPhone Duo 双页 PDF 模式曝光",
      "link": "https://www.ithome.com/1/010/144.htm",
      "pubDate": "Wed, 07 Oct 2026 00:18:43 GMT",
-     "summary": "IT之家 10 月 7 日消息，网友 @itspdfu 昨日（10 月 6 日）在 X 平台发布推文，分享了一段视频，展示了苹果首款折叠 iPhone Duo 的 Quick Look 功能。 视频显示，设备在展开状态下支持双页布局，呈现类似实体书的左右翻页效果。 传统 iPhone 查看 PDF 体验不佳，用户常需频繁缩放与滑动，因此不少用户更喜欢在 iPad 上浏览 PDF 文件，不过 iPhone Duo 有望填补这一场景空白。IT之家附上相关截图如下： 双页布局适用于文档阅读、教材浏览与报告审阅等场景。单页模式下，展开屏幕亦可提供更大可视面积。 iPhone Duo 用户可以根据使用场",
+     "summary": "IT之家 10 月 7 日消息，网友 @itspdfu 昨日（10 月 6 日）在 X 平台发布推文，分享了一段视频，展示了苹果首款折叠 iPhone Duo 的 Quick Look 功能。 视频显示，设备在展开状态下支持双页布局。 传统 iPhone 查看 PDF 体验不佳，用户常需频繁缩放与滑动，因此不少用户更喜欢在 iPad 上浏览 PDF 文件，不过 iPhone Duo 有望填补这一场景空白。IT之家附上相关截图如下： 双页布局适用于文档阅读、教材浏览与报告审阅等场景。单页模式下，展开屏幕亦可提供更大可视面积。 iPhone Duo 用户可以根据使用场景，灵活切换显示效果。 此外苹",
      "source": "IT之家",
-     "zh": "苹果首款折叠 iPhone Duo 双页 PDF 模式曝光，实现左右翻页效果"
+     "zh": "苹果首款折叠 iPhone Duo 双页 PDF 模式曝光"
     },
     {
      "title": "New York-based Melius, which provides AI tools for generating ad campaigns, images, and videos, raised $25M, including a $20M Series A and a $5M seed (Marina Temkin/TechCrunch)",
@@ -1805,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Stanford scientists found a way to regrow cartilage and stop arthritis",
      "link": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
      "pubDate": "Tue, 06 Oct 2026 23:54:35 +0000",
-     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261005011249.htm Comments URL: https://news.ycombinator.com/item?id=49985905 Points: 19 # Comments: 1",
+     "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261005011249.htm Comments URL: https://news.ycombinator.com/item?id=49985905 Points: 22 # Comments: 4",
      "source": "Hacker News",
      "zh": "Stanford scientists found a way to regrow cartilage and stop arthritis"
     },
@@ -1821,23 +1837,15 @@ window.INDUSTRY_DATA = {
      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
      "link": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
      "pubDate": "Tue, 06 Oct 2026 23:50:33 +0000",
-     "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 9 # Comments: 1",
+     "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 10 # Comments: 2",
      "source": "Hacker News",
      "zh": "South Korea says AI agents appear to have been used to hack the country's banks"
-    },
-    {
-     "title": "OpenAI releases 722 math manuscripts",
-     "link": "https://github.com/openai/math/blob/main/CONTENTS.md",
-     "pubDate": "Tue, 06 Oct 2026 23:42:11 +0000",
-     "summary": "Article URL: https://github.com/openai/math/blob/main/CONTENTS.md Comments URL: https://news.ycombinator.com/item?id=49985787 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "OpenAI releases 722 math manuscripts"
     },
     {
      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
      "link": "https://github.com/boykopovar/AnyPS5",
      "pubDate": "Tue, 06 Oct 2026 23:28:08 +0000",
-     "summary": "Article URL: https://github.com/boykopovar/AnyPS5 Comments URL: https://news.ycombinator.com/item?id=49985664 Points: 15 # Comments: 1",
+     "summary": "Article URL: https://github.com/boykopovar/AnyPS5 Comments URL: https://news.ycombinator.com/item?id=49985664 Points: 38 # Comments: 5",
      "source": "Hacker News",
      "zh": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)"
     },
@@ -1845,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "State of Devs 2026 survey results: developers are exhausted",
      "link": "https://2026.stateofdevs.com/en-US/",
      "pubDate": "Tue, 06 Oct 2026 23:26:30 +0000",
-     "summary": "Article URL: https://2026.stateofdevs.com/en-US/ Comments URL: https://news.ycombinator.com/item?id=49985643 Points: 24 # Comments: 7",
+     "summary": "Article URL: https://2026.stateofdevs.com/en-US/ Comments URL: https://news.ycombinator.com/item?id=49985643 Points: 31 # Comments: 8",
      "source": "Hacker News",
      "zh": "State of Devs 2026 survey results: developers are exhausted"
     },
@@ -1869,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Integer multiplication below n log n",
      "link": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
      "pubDate": "Tue, 06 Oct 2026 23:14:52 +0000",
-     "summary": "Article URL: https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026 Comments URL: https://news.ycombinator.com/item?id=49985524 Points: 24 # Comments: 10",
+     "summary": "Article URL: https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026 Comments URL: https://news.ycombinator.com/item?id=49985524 Points: 32 # Comments: 18",
      "source": "Hacker News",
      "zh": "Integer multiplication below n log n"
     },
@@ -1904,6 +1912,14 @@ window.INDUSTRY_DATA = {
      "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
      "source": "TechCrunch",
      "zh": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell"
+    },
+    {
+     "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
+     "link": "https://arxiv.org/abs/2609.38721",
+     "pubDate": "Tue, 06 Oct 2026 22:51:35 +0000",
+     "summary": "Article URL: https://arxiv.org/abs/2609.38721 Comments URL: https://news.ycombinator.com/item?id=49985292 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement"
     },
     {
      "title": "高通和华为，正在变成彼此绕不开的人",
@@ -1954,28 +1970,12 @@ window.INDUSTRY_DATA = {
      "zh": "The Best Anti–Prime Day Deals for Amazon Haters"
     },
     {
-     "title": "Best Prime Day Laptop Deals: Save Up to $500 (2026)",
-     "link": "https://www.wired.com/story/best-prime-day-laptop-deals/",
-     "pubDate": "Tue, 06 Oct 2026 21:15:00 +0000",
-     "summary": "My favorite MacBook, gaming PC, and budget laptop are all on sale for Prime Day, some at the lowest prices I’ve seen in months.",
-     "source": "WIRED",
-     "zh": "Best Prime Day Laptop Deals: Save Up to $500 (2026)"
-    },
-    {
      "title": "Building Git infrastructure for agent-scale development",
      "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
      "pubDate": "Tue, 06 Oct 2026 20:57:56 +0000",
      "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "Building Git infrastructure for agent-scale development"
-    },
-    {
-     "title": "102 Best Prime Day Deals We’re Shopping This October (2026)",
-     "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
-     "pubDate": "Tue, 06 Oct 2026 20:54:57 +0000",
-     "summary": "Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
-     "source": "WIRED",
-     "zh": "102 Best Prime Day Deals We’re Shopping This October (2026)"
     }
    ]
   },
@@ -2234,52 +2234,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "三星表示 三星钱包现已支持部分通用汽车车型的数字钥匙功能 首批支持车型为部分2026和2027款凯迪拉克电动汽车",
-     "link": "http://finance.eastmoney.com/news/1360,202610073888844269.html",
-     "pubDate": "Wed, 07 Oct 2026 08:27:08 +0800",
-     "summary": "三星表示，三星钱包现已支持部分 通用汽车 车型的数字钥匙功能，首批支持车型为部分2026和2027款凯迪拉克电动 汽车 。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "三星表示 三星钱包现已支持部分通用汽车车型的数字钥匙功能 首批支持车型为部分2026和2027款凯迪拉克电动汽车"
+     "title": "Constellation Energy's sweeping nuclear deal sparks rally in power sector stocks",
+     "link": "https://seekingalpha.com/news/4650781-constellation-energys-sweeping-nuclear-deal-sparks-rally-in-power-sector-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 20:38:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Constellation Energy's sweeping nuclear deal sparks rally in power sector stocks"
     },
     {
-     "title": "布伦特原油期货涨幅扩大至1% 报101.58美元/桶",
-     "link": "http://finance.eastmoney.com/news/1356,202610073888844128.html",
-     "pubDate": "Wed, 07 Oct 2026 08:26:10 +0800",
-     "summary": "布伦特原油 期货 涨幅扩大至1%，报101.58美元/桶。 （文章来源：财联社）",
+     "title": "基辅传出多次爆炸声",
+     "link": "http://finance.eastmoney.com/news/1351,202610073888845622.html",
+     "pubDate": "Wed, 07 Oct 2026 08:38:02 +0800",
+     "summary": "据外媒报道，乌克兰首都基辅7日凌晨传出多次爆炸声。 （文章来源：新华社）",
      "source": "东方财富股票",
-     "zh": "布伦特原油期货涨幅扩大至1% 报101.58美元/桶"
+     "zh": "基辅传出多次爆炸声"
     },
     {
-     "title": "入境升温、县域引客、夜聚烟火——国庆假期一线看旅游市场活力“三重奏”",
-     "link": "http://stock.eastmoney.com/news/1437,202610073888844655.html",
-     "pubDate": "Wed, 07 Oct 2026 08:24:12 +0800",
-     "summary": "新华财经北京10月7日电（记者周慧敏张格蔡馨逸） 海外游客纷至沓来，入境游热度节节攀升；县域文旅多点开花，“奔县游”持续出圈；夜间消费场景扩容，浓浓烟火气点亮假日……这个国庆假期，入境游、“奔县游”和夜经济交织碰撞，共同演绎假日文旅市场的活力“三重奏”。 五洲游客赴华夏，入境游热潮涌动 进入10月，湖南 张家界 国家森林公园秋意渐浓，峰林叠翠间云海流转，吸引大批境外游客慕名而来。行走在金鞭溪、袁家界、天子山等核心游览区域，随处可见不同肤色、说着不同语言的游客，他们或驻足拍摄美景，或聆听导游介绍这片山水的奇特。 “ 张家界 太美了！这几天，我们在林间漫步、感受大自然，觉得心情非常舒畅。虽然这座城",
+     "title": "早报丨科技股再挺美股续涨、标普和纳指齐创历史新高，谷歌核电大单推升核电概念；SpaceX考虑融资400亿美元，以采购英伟达芯片；迈威尔28财年营收预期上调至200亿美元",
+     "link": "http://hk.eastmoney.com/news/11617,202610073888845140.html",
+     "pubDate": "Wed, 07 Oct 2026 08:34:09 +0800",
+     "summary": "摘要： 科技股再挺美股续涨、标普和纳指齐创 历史新高 ，谷歌核电大单推升核电概念； SpaceX 考虑融资400亿美元，以采购 英伟达 芯片；迈威尔28财年营收预期上调至200亿美元。 全球市场： 美股市场： 美股三大指数10月06日收盘全线上涨，纳指、标普500指数创收盘新高。截至收盘，道琼斯工业平均指数比前一交易日上涨253.38点，收于51521.28点，涨幅为0.49%； 标准普尔 500种股票指数上涨44.98点，收于7818.93点，涨幅为0.58%； 纳斯达克 综合 指数上涨122.48点，收于27599.79点，涨幅为0.45%。 “科技七巨头”涨多跌少， 亚马逊 涨1.95%",
      "source": "东方财富股票",
-     "zh": "入境升温、县域引客、夜聚烟火——国庆假期一线看旅游市场活力“三重奏”"
+     "zh": "早报丨科技股再挺美股续涨、标普和纳指齐创历史新高，谷歌核电大单推升核电概念；SpaceX考虑融资400亿美元，以采购英伟达芯片；迈威尔28财年营收预期上调至200亿美元"
     },
     {
-     "title": "【环球财经】德国8月工业新订单环比大幅下降",
-     "link": "http://finance.eastmoney.com/news/1352,202610073888843657.html",
-     "pubDate": "Wed, 07 Oct 2026 08:23:58 +0800",
-     "summary": "新华财经柏林10月7日电（记者车云龙） 德国联邦统计局6日公布的数据显示，经季节和工作日调整后，德国8月工业新订单环比大幅下降10.6%。 数据显示，8月德国国内新订单环比下降17.3%，国外新订单下降5.4%，其中来自欧元区和欧元区以外的订单分别下降5.4%和5.5%。 德国联邦统计局表示，当月工业新订单大幅下降的主要原因是飞机、船舶、火车和军用车辆等运输设备制造业订单锐减。相关领域新订单环比下降61.5%。此前受大额订单推动，该领域7月订单环比增长129.4%。 数据还显示，剔除大额订单影响后，8月德国工业新订单环比下降0.1%。其中，机械制造业订单下降4.4%， 汽车 及 汽车零部件 行",
-     "source": "东方财富股票",
-     "zh": "【环球财经】德国8月工业新订单环比大幅下降"
+     "title": "Penguin Solutions expects FY2027 net sales of ~$2.43B with EPS of ~$4.45, driven by AI infrastructure and memory demand",
+     "link": "https://seekingalpha.com/news/4650782-penguin-solutions-expects-fy2027-net-sales-of-2_43b-with-eps-of-4_45-driven-by-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 06 Oct 2026 20:33:25 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Penguin Solutions expects FY2027 net sales of ~$2.43B with EPS of ~$4.45, driven by AI infrastructure and memory demand"
     },
     {
-     "title": "医药工业“十五五”规划部署25项重点任务 释放了哪些信号？",
-     "link": "http://finance.eastmoney.com/news/1354,202610073888844485.html",
-     "pubDate": "Wed, 07 Oct 2026 08:22:00 +0800",
-     "summary": "中国医药 行业再迎来利好政策。 近日，工业和信息化部、国家发展改革委、自然资源部、农业农村部、商务部、国家卫生健康委、应急管理部、国家医保局、国家中医药局、国家药监局等十部门联合印发《医药工业发展“十五五”规划》（简称《规划》）。《规划》在八个方面部署了25项重点任务，为“十五五”时期的医药工业创新发展作出了顶层设计和规划引导。澎湃新闻记者注意到，《规划》在医药行业反响热烈，引发广泛讨论。 《规划》明确了“十五五”时期的多项核心预期性指标，包括到2030年，首 创新药 （FIC）占全球比例达到25%及以上，全球年销售额超10亿美元的品种数量不少于5个， 创新医疗 器械上市数量达到200个以上。",
+     "title": "中国电信回应郑季衍举报：与事实不符，今年8月已与其解除劳动关系",
+     "link": "http://finance.eastmoney.com/news/1354,202610073888845424.html",
+     "pubDate": "Wed, 07 Oct 2026 08:33:11 +0800",
+     "summary": "近日，自称 中国电信 原员工的郑季衍在网上实名举报，受到广泛关注。 10月6日下午， 中国电信 股份有限公司大客户事业部在官方公众号“ 中国电信 政企服务”发布贴图称，关注到郑季衍相关信息，“郑季衍原为我部门员工，自2023年起无理由旷工635天，其间多次劝说无效”。依据有关规定，于2026年8月31日依法解除与郑季衍的劳动关系。 至于郑季衍所提及的 工业互联网 大数据 中心项目， 中国电信 股份有限公司大客户事业部表示，已于2024年进行过内部专项核查，其言论与事实不符。 综合 长安街知事、 中国电信 政企服务 （文章来源：上观新闻）",
      "source": "东方财富股票",
-     "zh": "医药工业“十五五”规划部署25项重点任务 释放了哪些信号？"
+     "zh": "中国电信回应郑季衍举报：与事实不符，今年8月已与其解除劳动关系"
     },
     {
-     "title": "携手谷歌，美股龙头涨超12%",
-     "link": "http://finance.eastmoney.com/news/1360,202610073888843380.html",
-     "pubDate": "Wed, 07 Oct 2026 08:21:00 +0800",
-     "summary": "当地时间10月6日，美股市场三大指数全线上涨， 纳斯达克 指数、标普500指数创 历史新高 。 美股大型科技股多数上涨，万得美国科技七巨头指数上涨0.45%， 半导体 股票表现分化，费城 半导体 指数冲高回落，收涨0.34%。受消息面影响，AI核电龙头公司Constellation Energy大涨12.25%。当地时间10月6日，谷歌宣布同Constellation达成一份总规模3.59GW的长期战略能源合作。 商品市场方面，现货 黄金 、现货 白银 均上涨，国际原油价格下探回升。 欧美主要指数全线上涨 当地时间10月6日，美股三大指数全线上涨，截至收盘，道琼斯工业指数上涨0.49%， 纳斯",
+     "title": "美国总统特朗普将于美国东部时间周三下午1点发表声明",
+     "link": "http://finance.eastmoney.com/news/1351,202610073888845349.html",
+     "pubDate": "Wed, 07 Oct 2026 08:30:34 +0800",
+     "summary": "美国总统特朗普将于美国东部时间周三下午1点发表声明。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "携手谷歌，美股龙头涨超12%"
+     "zh": "美国总统特朗普将于美国东部时间周三下午1点发表声明"
+    },
+    {
+     "title": "美国农业部海外农业局：印度食糖产量预计低于3000万吨",
+     "link": "http://finance.eastmoney.com/news/1351,202610073888845232.html",
+     "pubDate": "Wed, 07 Oct 2026 08:30:32 +0800",
+     "summary": "美国农业部海外农业局（FAS）在一份报告中称，本月开启的2026-27榨季，印度食糖产量预计为2950万吨。该数值低于美国农业部此前3360万吨的官方预估。“甘蔗主产区在关键生长期降雨严重不足、持续干旱，作物生长受阻，造成收割甘蔗重量与每公顷单产双双下降。”主产邦马哈拉施特拉邦降雨失序，部分农田出现积水，进一步拖累产量。期末库存预计降至400万吨，低于此前650万吨的官方预估。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国农业部海外农业局：印度食糖产量预计低于3000万吨"
+    },
+    {
+     "title": "DRAM迎超级成长周期 传南亚科计划涨价 涨幅最高达20%",
+     "link": "http://finance.eastmoney.com/news/1354,202610073888845081.html",
+     "pubDate": "Wed, 07 Oct 2026 08:29:57 +0800",
+     "summary": "据台湾经济日报7日报道，中国台湾存储厂商 南亚科近期陆续通知客户，将再度上调DRAM合约价格，最高涨幅可达20%。 针对再度涨价的市场传闻，南亚科方面表示，针对客户报价相关事宜，不予置评。业内人士认为，随着南亚科启动新一轮合约价上调，涨价效应将逐步传导落地，有望抬升公司平均售价（ASP），改善盈利水平，推动整体经营持续向好。 受益于存储行业高景气，南亚科今年业绩持续走高。9月合并营收450.91亿新台币，连续11个月刷新单月 历史新高 ，规模达到1月业绩的近三倍，同比大增576.62%；第三季度合并营收1336.49亿新台币，创下单季 历史新高 ，环比增长61.9%，同比增幅611.7%；前三",
+     "source": "东方财富股票",
+     "zh": "DRAM迎超级成长周期 传南亚科计划涨价 涨幅最高达20%"
     },
     {
      "title": "假期最后一天继续秋高气爽昼夜温差突破10℃早晚记得添衣",
@@ -2450,28 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "全球市场：美股三大指数集体上涨 纳指、标普500指数创收盘新高"
     },
     {
-     "title": "Chevron to divest stakes in Hess Midstream, DJ Basin crude midstream assets",
-     "link": "https://seekingalpha.com/news/4650776-chevron-to-divest-stakes-in-hess-midstream-dj-basin-crude-midstream-assets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 06 Oct 2026 18:08:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Chevron to divest stakes in Hess Midstream, DJ Basin crude midstream assets"
-    },
-    {
      "title": "谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营",
      "link": "https://wallstreetcn.com/articles/3783087",
      "pubDate": "Wed, 07 Oct 2026 06:03:05 +0800",
      "summary": "谷歌与美国最大核电运营商Constellation Energy达成迄今规模最大的科技能源合作协议，总计锁定3,590兆瓦电力供应，其中890兆瓦来自核电机组升级扩容。 10月6日，周二谷歌与美国最大核电运营商Constellation Energy宣布一项 总规模高达3,590兆瓦的长期电力采购协议，其中包括一份20年期核电购电合同，将通过升级现有反应堆为PJM电网新增890兆瓦清洁基荷电力。 Constellation将为此投入逾43亿美元 ，对位于伊利诺伊州、宾夕法尼亚州和新泽西州的 11座核反应堆进行升级改造 ，以提升热效率和发电效率。 首个完成升级的机组预计于2028年向电网供电。 ",
      "source": "华尔街见闻",
      "zh": "谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营"
-    },
-    {
-     "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
-     "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
-     "pubDate": "Tue, 06 Oct 2026 21:52:00 GMT",
-     "summary": "After trading sideways for much of the past year, the “Magnificent Seven” have been staging a comeback, helping to re-energize a bull market threatened by rising bond yields and stubbornly high crude-oil prices.",
-     "source": "MarketWatch",
-     "zh": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue"
     }
    ]
   },

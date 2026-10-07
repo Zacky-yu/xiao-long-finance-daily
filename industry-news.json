@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/8 04:01:46",
+ "generated_at": "2026/10/8 04:04:31",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,14 @@
      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
      "source": "TechCrunch AI",
      "zh": "Meta 的 Muse 在首次推出移动设备一个月后就在 iPad 上推出"
+    },
+    {
+     "title": "Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens",
+     "link": "https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/",
+     "pubDate": "Wed, 07 Oct 2026 18:23:45 +0000",
+     "summary": "Liquid AI has released Open d1, two open-weight multimodal models in its d1 decision model family. d1-3B reads text and images. d1-omni-600M reads text with an image, or text with audio. Neither model writes text. Each returns calibrated, typed answers in one forward pass with zero output tokens. Th",
+     "source": "MarkTechPost",
+     "zh": "Liquid AI 发布 Open-Weight d1-3B 和 d1-omni-600M：零输出代币的多模态决策模型"
     },
     {
      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
@@ -49,14 +57,6 @@
      "zh": "Meta 推出新的人工智能工具来检测秘密导致儿童性虐待内容的广告"
     },
     {
-     "title": "OpenAI Dots: The Data Scientist’s Reality Check",
-     "link": "https://www.kdnuggets.com/openai-dots-the-data-scientists-reality-check",
-     "pubDate": "Wed, 07 Oct 2026 16:00:00 +0000",
-     "summary": "Dots promises a lot. Before you hand it the keys to your workflow, here's what practitioners need to know.",
-     "source": "KDnuggets",
-     "zh": "OpenAI Dots：数据科学家的现实检验"
-    },
-    {
      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
      "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
      "pubDate": "Wed, 07 Oct 2026 15:07:08 +0000",
@@ -81,14 +81,6 @@
      "zh": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦"
     },
     {
-     "title": "ML Engineer, AI Engineer, or LLM Engineer: Which Role Actually Builds What in 2026?",
-     "link": "https://www.kdnuggets.com/ml-engineer-ai-engineer-or-llm-engineer-which-role-actually-builds-what-in-2026",
-     "pubDate": "Wed, 07 Oct 2026 14:00:00 +0000",
-     "summary": "Same job postings, different titles. Here's what each role actually builds.",
-     "source": "KDnuggets",
-     "zh": "机器学习工程师、人工智能工程师或法学硕士工程师：2026 年哪个角色真正构建什么？"
-    },
-    {
      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
      "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
      "pubDate": "Wed, 07 Oct 2026 12:45:31 GMT",
@@ -103,14 +95,6 @@
      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
      "source": "OpenAI",
      "zh": "帮助青少年学习、规划和塑造人工智能的未来"
-    },
-    {
-     "title": "I Tested 5 AI Coding Assistants for a Month: Here’s What I Actually Found",
-     "link": "https://www.kdnuggets.com/i-tested-5-ai-coding-assistants-for-a-month-heres-what-i-actually-found",
-     "pubDate": "Wed, 07 Oct 2026 12:00:00 +0000",
-     "summary": "Compare five AI coding assistants across real tasks to find which tool fits your workflow.",
-     "source": "KDnuggets",
-     "zh": "我测试了 5 个 AI 编码助手一个月：这是我实际发现的"
     },
     {
      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
@@ -247,6 +231,22 @@
      "summary": "",
      "source": "DeepMind",
      "zh": "EmbeddingGemma 2：开放、轻量级的多模态嵌入模型"
+    },
+    {
+     "title": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
+     "link": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/",
+     "pubDate": "Tue, 06 Oct 2026 18:36:08 +0000",
+     "summary": "Google DeepMind's EmbeddingGemma 2 maps 5 input types into one 768d space and ships today under Apache 2.0. The post Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4 appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Google DeepMind 发布 EmbeddingGemma 2，这是一个基于 Gemma 4 构建的 740M 开放多模态嵌入模型"
+    },
+    {
+     "title": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
+     "link": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
+     "pubDate": "Tue, 06 Oct 2026 17:30:46 +0000",
+     "summary": "Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own Europe",
+     "source": "MarkTechPost",
+     "zh": "Mistral AI 发布 Mistral Large 4 (Le Chonk)：1.05T 参数多模态 MoE 模型"
     }
    ]
   },
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "KnowMade 表示，2026 年第二季度新 RF GaN 专利系列的大部分都在中国"
+    },
     {
      "title": "Why AI’s Limit Is Power, Not Chips: Gopi Sirineni at AI Infra Summit 2026",
      "link": "https://www.eetimes.com/why-ais-limit-is-power-not-chips-gopi-sirineni-at-ai-infra-summit-2026/",
@@ -471,14 +479,6 @@
      "summary": "Researchers at ETH Zürich, CISPA, and New York University published a technical paper titled “Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface and Memory Controller.” Abstract Excerpt: “DRAM continues to limit the performance, energy efficiency, and robustness o",
      "source": "Semiconductor Engineering",
      "zh": "可编程内存控制器简化了新 DRAM 技术的采用（苏黎世联邦理工学院、CISPA、纽约大学）"
-    },
-    {
-     "title": "Skyworks completes combination with Qorvo",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/skyworks-qorvo-061026.shtml",
-     "pubDate": "Tue, 6 Oct 2026 20:44:24 +0100",
-     "summary": "Skyworks Solutions Inc of Irvine, CA, USA has announced the completion of its combination with Qorvo Inc of Greensboro, NC, USA, creating a US-based provider of high-performance radio frequency (RF), power management, and analog and mixed-signal semiconductor solutions...",
-     "source": "Semiconductor Today",
-     "zh": "Skyworks 完成与 Qorvo 的合并"
     },
     {
      "title": "Beyond the Die: Verifying the Connected Chip",
@@ -2001,6 +2001,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Here's what the $6,000 Surface RTX Spark Dev Box looks like",
+     "link": "https://www.engadget.com/2280568/heres-what-the-dollar6000-surface-rtx-spark-dev-box-looks-like/",
+     "pubDate": "Wed, 07 Oct 2026 19:59:32 +0000",
+     "summary": "Honestly, a bit like an oversized Lego brick.",
+     "source": "Engadget",
+     "zh": "这是售价 6,000 美元的 Surface RTX Spark Dev Box 的外观"
+    },
+    {
      "title": "At just $22.79, Anker’s 65W 3-port USB-C charger has never been so affordable",
      "link": "https://www.androidauthority.com/anker-65w-3-port-usb-c-charger-deal-3720477/",
      "pubDate": "Wed, 07 Oct 2026 19:45:17 +0000",
@@ -2137,14 +2145,6 @@
      "zh": "这是我们所知道的有关微软 Surface Laptop Ultra 的所有信息"
     },
     {
-     "title": "Everything announced at Microsoft's Windows and Surface event",
-     "link": "https://www.engadget.com/2280298/everything-announced-at-microsofts-windows-and-surface-event/",
-     "pubDate": "Wed, 07 Oct 2026 17:41:41 +0000",
-     "summary": "The company highlighted agentic AI features for Windows as well as the Surface Laptop Ultra.",
-     "source": "Engadget",
-     "zh": "微软 Windows 和 Surface 活动中宣布的所有内容"
-    },
-    {
      "title": "Pixel 11 series still not on Android 17 QPR1 with October update",
      "link": "https://9to5google.com/2026/10/07/pixel-11-no-android-17-qpr1/",
      "pubDate": "Wed, 07 Oct 2026 17:35:46 +0000",
@@ -2249,6 +2249,30 @@
    "total": 13,
    "items": [
     {
+     "title": "SA analyst: S&P 500 shows resilience despite higher Treasury yields",
+     "link": "https://seekingalpha.com/news/4651133-sa-analyst-sp-500-shows-resilience-despite-higher-treasury-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 16:01:26 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA分析师：尽管国债收益率较高，标准普尔500指数仍显示出弹性"
+    },
+    {
+     "title": "Shopify extends rally to eighth straight session of gains",
+     "link": "https://seekingalpha.com/news/4651111-shopify-extends-rally-to-eighth-straight-session-of-gains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 16:01:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Shopify 将涨势延续第八个交易日"
+    },
+    {
+     "title": "杜克能源与北卡罗来纳州达成协议 协议包含针对大负荷客户的独立电价",
+     "link": "http://finance.eastmoney.com/news/1351,202610083889023772.html",
+     "pubDate": "Thu, 08 Oct 2026 03:59:47 +0800",
+     "summary": "杜克能源 与北卡罗来纳州达成协议，协议包含针对大负荷客户的独立电价，保护普通用户免于承担 数据中心 相关成本。 数据中心 需预先支付电网接入费用。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "杜克能源与北卡罗来纳州达成协议 协议包含针对大负荷客户的独立电价"
+    },
+    {
      "title": "SA Asks: What should Skydance investors watch for post-merger?",
      "link": "https://seekingalpha.com/news/4651134-sa-asks-what-should-skydance-investors-watch-for-post-merger?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 07 Oct 2026 15:52:32 -0400",
@@ -2321,36 +2345,12 @@
      "zh": "美联储会议纪要显示无意进行一系列加息"
     },
     {
-     "title": "法国将释放1000万桶柴油储备应对燃油价格上涨",
-     "link": "http://finance.eastmoney.com/news/1351,202610083889023162.html",
-     "pubDate": "Thu, 08 Oct 2026 03:33:53 +0800",
-     "summary": "当地时间10月7日晚，法国总理塞巴斯蒂安·勒科尔尼发表讲话，宣布法国将在未来3个月内释放1000万桶柴油战略储备，以应对近期燃油价格上涨。勒科尔尼表示，这批柴油是在价格大幅上涨前购入的，将按成本价投放市场，预计可使加油站柴油价格每升下降约12至18欧分。 勒科尔尼同时要求法国 电力 集团在确保能源设施安全运行的前提下，最大限度发挥发电能力，为即将到来的冬季做好能源供应保障。 在财政方面，勒科尔尼表示，法国政府的目标是到2027年将公共财政赤字占国内生产总值（GDP）的比重降至5%。他还宣布，针对今年夏季高温天气引发的农业危机，政府将推出农业“紧急计划”和“振兴计划”。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "法国将释放1000万桶柴油储备应对燃油价格上涨"
-    },
-    {
      "title": "Hertz creditors seek outside counsel as refinancing pressure builds",
      "link": "https://seekingalpha.com/news/4651130-hertz-creditors-seek-outside-counsel-as-refinancing-pressure-builds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 07 Oct 2026 15:31:09 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "随着再融资压力的增大，赫兹债权人寻求外部咨询"
-    },
-    {
-     "title": "Bitcoin crash sends crypto market, stocks into bloodbath: Why?",
-     "link": "https://seekingalpha.com/news/4651112-bitcoin-crash-sends-crypto-market-stocks-into-bloodbath-why?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 15:30:20 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "比特币崩盘导致加密市场、股市陷入血腥：为什么？"
-    },
-    {
-     "title": "Hinge Health seeks more acquisitions to support growth: Bloomberg",
-     "link": "https://seekingalpha.com/news/4651124-hinge-health-seeks-more-acquisitions-support-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 15:30:14 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hinge Health 寻求更多收购以支持增长：彭博社"
     },
     {
      "title": "美联储会议纪要：全体19名决策者支持9月加息但理由不一，多数预计年内还加，暗示10月不急",
@@ -2391,6 +2391,14 @@
      "summary": "U.S. Treasury yields came off their highs after a solid sale of 10-year notes.",
      "source": "CNBC",
      "zh": "稳健的债券拍卖缓解了需求担忧，10年期国债收益率从24年高点回落"
+    },
+    {
+     "title": "美股三大指数集体下跌 芯片股走低 费城半导体指数跌超1%",
+     "link": "http://finance.eastmoney.com/news/1345,202610073888943871.html",
+     "pubDate": "Thu, 08 Oct 2026 02:45:23 +0800",
+     "summary": "美东时间周三，美股三大指数集体走低，截至发稿， 纳斯达克 指数跌0.29%，报27512.74点；标普500指数跌0.20%，报7803.13点；道琼斯指数跌0.61%，报51208.25点。 芯片 半导体 板块走低，费城 半导体 指数跌1.47%，报13023.00点。 台积电 跌1.85%、 安森美半导体 跌3.58%、 意法半导体 跌4.80%。光 通信 板块走低，Lumentum跌1.49%、 康宁 跌2.75%、 应用光电 跌5.51%。 美股 存储芯片 板块拉升，截至发稿， 闪迪 涨4.04%、 美光科技 涨3.86%、 希捷科技 跌0.28%、 西部数据 跌1.47%、 SK海力",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数集体下跌 芯片股走低 费城半导体指数跌超1%"
     },
     {
      "title": "Strange market anomaly is creating a buying opportunity in the Nasdaq 100",
@@ -2479,14 +2487,6 @@
      "summary": "The polite word for what the government and Wall Street are doing is deferring payment, like opening a tab at a bar that somebody else will pay later.",
      "source": "MarketWatch",
      "zh": "华盛顿和华尔街选择推迟支付账单——并将其记入你的账单上"
-    },
-    {
-     "title": "离境退税2.0版政策落地三个月：“中国游”流量加速转化为“中国购”增量",
-     "link": "http://www.eeo.com.cn/2026/1008/1057099.shtml",
-     "pubDate": "Thu, 08 Oct 2026 01:26:22 +0800",
-     "summary": "在珠海华发商都的阅·潮书店，来自法国的游客皮埃尔挑选了数款以珠海本土景点为设计灵感的冰箱贴。结账时，他留意到店内的离境退税指引，便向店员咨询办理流程。店员借助翻译软件，协助他备齐资料、完成退税相关手续。短短不到一小时，皮埃尔便顺利结束购物并办结退税。 这份便利，正是我国持续优化离境退税政策带来的。今年5月，商务部等6部门发布《关于加力优化离境退税措施扩大入境消费的通知》（即离境退税2.0版政策...",
-     "source": "经济观察网",
-     "zh": "离境退税2.0版政策落地三个月：“中国游”流量加速转化为“中国购”增量"
     }
    ]
   },

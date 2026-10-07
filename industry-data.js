@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/7 20:29:55",
+ "generated_at": "2026/10/7 20:49:58",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+     "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+     "pubDate": "Wed, 07 Oct 2026 12:45:31 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron"
+    },
     {
      "title": "I Tested 5 AI Coding Assistants for a Month: Here’s What I Actually Found",
      "link": "https://www.kdnuggets.com/i-tested-5-ai-coding-assistants-for-a-month-heres-what-i-actually-found",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
      "source": "OpenAI",
      "zh": "分享AI数学进展"
-    },
-    {
-     "title": "5 Best Practices for Building Robust Python AI Libraries",
-     "link": "https://www.kdnuggets.com/5-best-practices-for-building-robust-python-ai-libraries",
-     "pubDate": "Tue, 06 Oct 2026 12:00:00 +0000",
-     "summary": "This article covers building robust Python AI libraries specifically, Python AI SDK best practices, and what separates a production-ready AI package from one that only survives in its own demo.",
-     "source": "KDnuggets",
-     "zh": "构建健壮的 Python AI 库的 5 个最佳实践"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "E-quipment highlight: AMT’s hot-swapping battery electric rail excavator",
+     "link": "https://electrek.co/2026/10/07/e-quipment-highlight-amts-hot-swapping-battery-electric-rail-excavator/",
+     "pubDate": "Wed, 07 Oct 2026 12:42:13 +0000",
+     "summary": "Rarely seen by the general public, rail road excavators are a critical piece of the infrastructure puzzle – one that can travel directly on the tracks while digging, lifting, and clearing obstacles from the track, working on everything from track maintenance and renewal to utility and civil construc",
+     "source": "Electrek",
+     "zh": "设备亮点：AMT热插拔电池电动轨道挖掘机"
+    },
+    {
      "title": "EU plans Chinese hybrid import curbs as test case for trade rebalancing, report says",
      "link": "https://cnevpost.com/2026/10/07/eu-plans-chinese-hybrid-import-curbs/",
      "pubDate": "Wed, 07 Oct 2026 11:37:35 +0000",
@@ -744,14 +752,6 @@ window.INDUSTRY_DATA = {
      "summary": "Toyota’s joint venture, FAW Toyota, issued a statement denying reports that it’s “slashing prices” in China and may exit the market entirely. more…",
      "source": "Electrek",
      "zh": "丰田澄清有关其在中国“降价”的谣言"
-    },
-    {
-     "title": "Prime Day-1 Green Deals: Increased savings on Anker SOLIX and EcoFlow power stations, Segway e-scooters up to 37% off, ENGWE, more",
-     "link": "https://electrek.co/2026/10/06/prime-day-1-green-deals-anker-solix-ecoflow-power-stations-segway-e-scooters-engwe-more/",
-     "pubDate": "Tue, 06 Oct 2026 17:48:22 +0000",
-     "summary": "It’s the very first day of Amazon’s Prime Big Deal Days event, and we’ve got a jam-packed edition of Green Deals for you, with the many other deals we couldn’t fit here collected into our Fall Prime Day Green Deals hub here . To start, we’re getting some increased savings from Anker’s SOLIX Fall Pri",
-     "source": "Electrek",
-     "zh": "Prime Day-1 绿色优惠：Anker SOLIX 和 EcoFlow 发电站、Segway 电动滑板车高达 37% 折扣、ENGWE 等更多优惠"
     },
     {
      "title": "Uber is spending $2.3B to get into catering",
@@ -849,6 +849,22 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "AuroraCell launches 9.7 kWh sodium-ion chromium oxide residential battery",
+     "link": "https://www.pv-magazine.com/2026/10/07/auroracell-launches-9-7-kwh-sodium-ion-chromium-oxide-residential-battery/",
+     "pubDate": "Wed, 07 Oct 2026 12:38:08 +0000",
+     "summary": "The 48 V residential energy storage system uses sodium-ion NCO chemistry and offers 9.7 kWh of rated energy. AuroraCell claims a cycle life of 20,000 cycles at 100% depth of discharge and backs the battery with a 20-year warranty. The post AuroraCell launches 9.7 kWh sodium-ion chromium oxide reside",
+     "source": "pv magazine",
+     "zh": "AuroraCell推出9.7kWh钠离子氧化铬住宅电池"
+    },
+    {
+     "title": "Norway Plans to Tap $63.7 Billion From Its Oil Fund in 2027",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Norway-Plans-to-Tap-637-Billion-From-Its-Oil-Fund-in-2027.html",
+     "pubDate": "Wed, 07 Oct 2026 07:30:00 -0500",
+     "summary": "wealth fund for public expenses next year, higher than this year’s spending from the world’s largest such fund. The government unveiled its budget bill for 2027, which includes a proposal to withdraw and spend 608.4 billion Norwegian crowns, or $63.7 billion, from Government Pension Fund Global. Und",
+     "source": "OilPrice",
+     "zh": "挪威计划 2027 年从石油基金中动用 637 亿美元"
+    },
     {
      "title": "Thousands of European solar park systems exposed online, say researchers",
      "link": "https://www.pv-magazine.com/2026/10/07/thousands-of-european-solar-park-systems-exposed-online-say-researchers/",
@@ -1002,14 +1018,6 @@ window.INDUSTRY_DATA = {
      "zh": "Hithium 的钠离子存储推动，它可以在哪些方面获胜，哪些不会，以及获得银行融资的途径"
     },
     {
-     "title": "Heterojunction solar cell built with biomass lignin-based silver paste achieves 25.96% efficiency",
-     "link": "https://www.pv-magazine.com/2026/10/07/heterojunction-solar-cell-built-with-biomass-lignin-based-silver-paste-achieves-25-96-efficiency/",
-     "pubDate": "Wed, 07 Oct 2026 06:34:47 +0000",
-     "summary": "Chinese researchers have developed a biomass lignin-based silver paste for HJT solar cells that reduces reliance on petroleum-based resins and improves electrical performance. The optimized paste increased solar cell efficiency from 25.01% to 25.96% while improving printability, adhesion, and conduc",
-     "source": "pv magazine",
-     "zh": "采用生物质木质素基银浆构建的异质结太阳能电池效率达到25.96%"
-    },
-    {
      "title": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Shell-and-BP-Pull-Workers-From-the-Gulf-Ahead-of-Hurricane.html",
      "pubDate": "Wed, 07 Oct 2026 01:30:00 -0500",
@@ -1024,14 +1032,6 @@ window.INDUSTRY_DATA = {
      "summary": "EDF Power Solutions Australia has referred a wind-plus-storage project featuring an 800MWh BESS for assessment under Australia's EPBC Act.",
      "source": "Energy Storage News",
      "zh": "EDF Power Solutions Australia 将 800MWh 风电+储能站点纳入 EPBC 法案"
-    },
-    {
-     "title": "Brent Back Above $100 as Houthis Hit Saudi Infrastructure",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Back-Above-100-as-Houthis-Hit-Saudi-Infrastructure.html",
-     "pubDate": "Wed, 07 Oct 2026 00:00:00 -0500",
-     "summary": "Crude oil prices, which dipped on Tuesday, reversed their direction, with Brent ticking above $100 again earlier today following reports of fresh Houthi attacks on Saudi energy infrastructure. At the time of writing, Brent crude was trading at $101.49 per barrel and West Texas Intermediate was chang",
-     "source": "OilPrice",
-     "zh": "胡塞武装袭击沙特基础设施，布伦特原油价格重回 100 美元上方"
     },
     {
      "title": "Canadian Solar’s e-STORAGE to deliver 200MWh BESS for Australian solar-plus-storage site",
@@ -1538,6 +1538,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+     "pubDate": "Wed, 07 Oct 2026 08:49:01 -0400",
+     "summary": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+     "source": "BleepingComputer",
+     "zh": "公开 PoC 发布后，黑客利用 Atlassian 的严重缺陷"
+    },
+    {
+     "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
+     "link": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
+     "pubDate": "Wed, 07 Oct 2026 12:37:24 +0000",
+     "summary": "The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest Discloses Data Breach Months After Ransomware Attack appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Advantest 披露勒索软件攻击数月后数据泄露事件"
+    },
+    {
      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
      "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
      "pubDate": "Wed, 07 Oct 2026 17:27:05 +0530",
@@ -1650,14 +1666,6 @@ window.INDUSTRY_DATA = {
      "zh": "Android 2026 年 10 月更新补丁 25 个漏洞"
     },
     {
-     "title": "Atlassian Patches Critical Vulnerability Affecting 8 Products",
-     "link": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
-     "pubDate": "Wed, 07 Oct 2026 06:37:16 +0000",
-     "summary": "Unauthenticated attackers could exploit the flaw to access specific files in the web application root directory. The post Atlassian Patches Critical Vulnerability Affecting 8 Products appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Atlassian 修补了影响 8 种产品的严重漏洞"
-    },
-    {
      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
      "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
      "pubDate": "Tue, 06 Oct 2026 17:00:27 -0400",
@@ -1698,14 +1706,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google 的 PageBreak AI 代理在其 Web 应用程序中发现了 500 个缺陷"
     },
     {
-     "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-     "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-     "pubDate": "Tue, 06 Oct 2026 13:34:59 -0400",
-     "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
-     "source": "BleepingComputer",
-     "zh": "Atlassian 警告 Jira 和 Confluence 存在严重文件访问缺陷"
-    },
-    {
      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets & Security Teams",
      "link": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
      "pubDate": "Tue, 06 Oct 2026 17:15:24 GMT",
@@ -1737,6 +1737,38 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "今年的化学诺奖成果，能让反应停的悲剧不再发生吗？",
+     "link": "https://www.huxiu.com/article/4895671.html?f=rss",
+     "pubDate": "Wed, 07 Oct 2026 20:38:28 +0800",
+     "summary": "本文来自微信公众号： 果壳 ，作者：窗敲雨，编辑：Luna 或许你还记得药物“反应停”和它导致的海豹儿悲剧。 反应停事件是有史以来最大规模的医疗灾难之一，由于服下孕吐药物反应停，46个国家的孕妇受害，她们生下了约1.2万名因为药物变得畸形的婴儿。 这场悲剧背后，有一个有关“左手”与“右手”的化学难题。而本届诺贝尔化学奖的两位得主则为解决这一问题做出了杰出贡献。 1963年伦敦，一名反应停受害者，也就是“海豹儿”丨PA 伸出双手，你会发现：左手和右手互为镜像，它们看起来很相似，但却怎么也不能完全重合。 在有机化学界，科学家们同样面临着有关镜像的问题。碳原子伸出的四条键构成了正四面体的立体结构，如",
+     "source": "虎嗅",
+     "zh": "今年的化学诺奖成果，能让反应停的悲剧不再发生吗？"
+    },
+    {
+     "title": "保时捷，将削减9000个岗位",
+     "link": "https://www.huxiu.com/article/4895669.html?f=rss",
+     "pubDate": "Wed, 07 Oct 2026 20:36:51 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：刘阳 在全球汽车行业电动化转型与价格战的双重压力下，德国跑车制造商保时捷选择以“主动收缩”的姿态重新定义了面向未来的增长。 10月7日，保时捷股份公司在魏斯阿赫研发中心举行的资本市场日上，正式发布聚焦中期目标的“Sportwagenschmiede’35”战略，核心是围绕品牌、产品与组织三个维度推进降本增效，将盈利重心从销量转向单车价值创造。 “我们正围绕Sportwagenschmiede’35战略推进一项清晰的计划。最终目标是进一步强化我们独特的跑车品牌——覆盖所有车型系列，并在利润率尤为丰厚的细分市场推出更多极具吸引力的新车型。”保时捷执行董事会主席",
+     "source": "虎嗅",
+     "zh": "保时捷，将削减9000个岗位"
+    },
+    {
+     "title": "Xreal&apos;s Aura and Meta&apos;s VR Glasses hands-on: similar compute puck, lightweight design, and price, but Aura uses optical see-through lenses suitable for walking (Boone Ashworth/Wired)",
+     "link": "https://www.techmeme.com/261007/p16#a261007p16",
+     "pubDate": "Wed, 07 Oct 2026 08:30:10 -0400",
+     "summary": "Boone Ashworth / Wired : Xreal's Aura and Meta's VR Glasses hands-on: similar compute puck, lightweight design, and price, but Aura uses optical see-through lenses suitable for walking &nbsp; &mdash;&nbsp; Xreal's long-hyped Aura glasses arrive soon for $1,279.&nbsp; Here's how they fare against Met",
+     "source": "Techmeme",
+     "zh": "Xreal 的 Aura 和 Meta 的 VR 眼镜上手体验：类似的计算冰球、轻量化设计和价格，但 Aura 使用适合步行的光学透视镜片（Boone Ashworth/Wired）"
+    },
+    {
+     "title": "腾讯四次出手短剧皆未果，微信“绿泡泡”这次能成吗？",
+     "link": "https://www.tmtpost.com/8160336.html",
+     "pubDate": "Wed, 07 Oct 2026 20:24:29 +0800",
+     "summary": "未来绿泡泡能否承载腾讯给它的使命，还需要时间来验证。",
+     "source": "钛媒体",
+     "zh": "腾讯四次出手短剧皆未果，微信“绿泡泡”这次能成吗？"
+    },
     {
      "title": "Google launches Playground, a browser-based, no-code AI game creation platform available to US users aged 18+, powered by Gemini, Nano Banana, and Lyria (Jay Peters/The Verge)",
      "link": "https://www.techmeme.com/261007/p15#a261007p15",
@@ -1784,6 +1816,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 华商韬略 ，作者：华商韬略，原文标题：《上班了！认识下新同事：24小时待命，干多拿少，态度好》 2026年9月15日上午，北京国家会议中心二期。 飞书的新一届年度大会被起了一个很长的名字——“2026飞书未来无限大会暨豆包工作开工大会”，并且迎来梁汝波首次出席飞书年度大会并为豆包工作公开站台。 一个月前的8月25日，字节刚发布独立AI办公产品“豆包工作”；再往前，腾讯WorkBuddy于3月9日全量上线，百度搭子3月22日铺开，阿里千问办公8月3日公测。 大模型的军备竞赛还没分出胜负，巨头们已经把主战场推进到了另一个地方：每一个白领的电脑桌面，每一家公司的工作流。 用不了",
      "source": "虎嗅",
      "zh": "上班了，认识下新同事：24小时待命，干多拿少，态度好"
+    },
+    {
+     "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+     "link": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+     "pubDate": "Wed, 07 Oct 2026 12:04:36 +0000",
+     "summary": "Article URL: https://fiveminutesforward.com/post/2026-10-04-telegraph-test/ Comments URL: https://news.ycombinator.com/item?id=49991580 Points: 6 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "像 1866 年一样写作：法学硕士重新学习电报语"
     },
     {
      "title": "I Put on Meta and Xreal’s XR Glasses. Face Computers Are Finally Getting Good",
@@ -1837,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Shipping JPEG XL in Chrome",
      "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
      "pubDate": "Wed, 07 Oct 2026 11:25:02 +0000",
-     "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 72 # Comments: 33",
+     "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 101 # Comments: 44",
      "source": "Hacker News",
      "zh": "在 Chrome 中传送 JPEG XL"
     },
@@ -1850,28 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "我找到了 25 项最佳 Prime Day 科技和小工具优惠（2026 年 10 月）"
     },
     {
-     "title": "2026年诺贝尔化学奖：他们破解了“镜像分子”的百年谜题",
-     "link": "https://www.huxiu.com/article/4895654.html?f=rss",
-     "pubDate": "Wed, 07 Oct 2026 19:10:45 +0800",
-     "summary": "本文来自微信公众号： NASA爱好者 ，作者：Vger 有些化学反应会同时生成两种分子，它们互为镜像，就像人的左手和右手。几十年来，化学家们知道理论上可以设计出只生成其中一种的反应，但实际该怎么做，一直是个谜。 今年的诺贝尔化学奖授予亨利·B·卡根（Henri B.Kagan）和硤合宪三（Kenso Soai），表彰他们“发现了不对称有机合成中的非线性效应和自催化现象”。他们给出了答案，而这对设计药物生产等应用反应的化学家来说意义重大。 为什么镜像分子这么麻烦？ 想象你是一位定制钥匙的锁匠。可无论怎么做，你总会同时做出两把互为镜像的钥匙，只有一把能开锁，用另一把去开，还可能损坏锁。更糟的是，这",
-     "source": "虎嗅",
-     "zh": "2026年诺贝尔化学奖：他们破解了“镜像分子”的百年谜题"
-    },
-    {
      "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
      "link": "https://www.wired.com/story/best-prime-day-headphone-deals-10-07-2026/",
      "pubDate": "Wed, 07 Oct 2026 11:10:17 +0000",
      "summary": "I’ve tested more than 100 headphones and covered nearly a dozen Prime Days. Here are some actually good headphone deals from the sale.",
      "source": "WIRED",
      "zh": "我找到了亚马逊 Prime Day 耳机的最佳优惠（2026）"
-    },
-    {
-     "title": "美国反对浪潮加剧，甲骨文又一巨型数据中心或因“通不了电”搁浅",
-     "link": "https://www.huxiu.com/article/4895652.html?f=rss",
-     "pubDate": "Wed, 07 Oct 2026 19:02:45 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：张雅琦，原文标题：《美国反对浪潮加剧！甲骨文又一巨型数据中心或因“通不了电”搁浅》 甲骨文旗下数据中心建设危机持续蔓延。 继新墨西哥州Jupiter项目宣布不可抗力后，位于威斯康星州的1.3GW超大型数据中心\"Project Lighthouse\"再度告急——不是因为选址或资金，而是因为电接不上来。 根据数据中心研究机构Aterio发布的最新报告，Lighthouse项目的输电审批流程已被威斯康星州公共服务委员会（PSC）打回重来，法定审查时钟从零重启。 这意味着甲骨文此前承诺的\"2027年下半年向客户交付\"极有可能无法兑现，在基准情景下全功率供电将推",
-     "source": "虎嗅",
-     "zh": "美国反对浪潮加剧，甲骨文又一巨型数据中心或因“通不了电”搁浅"
     },
     {
      "title": "2027 款深蓝 L06 新车官宣：定位“长续航磁流变 AI 轿跑”，搭载两只“龙虾”",
@@ -1922,28 +1946,20 @@ window.INDUSTRY_DATA = {
      "zh": "代表美光员工的台湾工会表示，已获得会员授权，可以就公司的奖金计划进行罢工；细节正在讨论中（Wen-Yee Lee/Reuters）"
     },
     {
-     "title": "Elon Musk says his business empire will build and operate the Texas-based Terafab chipmaking project, explicitly ruling out any operational role for TSMC (Debby Wu/Bloomberg)",
+     "title": "Elon Musk says his business empire will build and operate the Texas-based Terafab chipmaking project, quashing speculation about TSMC having an operational role (Debby Wu/Bloomberg)",
      "link": "https://www.techmeme.com/261007/p11#a261007p11",
      "pubDate": "Wed, 07 Oct 2026 06:35:01 -0400",
-     "summary": "Debby Wu / Bloomberg : Elon Musk says his business empire will build and operate the Texas-based Terafab chipmaking project, explicitly ruling out any operational role for TSMC &nbsp; &mdash;&nbsp; Elon Musk said his business empire will build and operate Terafab independently, quashing speculation ",
+     "summary": "Debby Wu / Bloomberg : Elon Musk says his business empire will build and operate the Texas-based Terafab chipmaking project, quashing speculation about TSMC having an operational role &nbsp; &mdash;&nbsp; Elon Musk said his business empire will build and operate Terafab independently, quashing specu",
      "source": "Techmeme",
-     "zh": "埃隆·马斯克表示，他的商业帝国将建设和运营位于德克萨斯州的 Terafab 芯片制造项目，明确排除台积电的任何运营角色（Debby Wu/彭博社）"
+     "zh": "埃隆·马斯克表示，他的商业帝国将建设和运营位于德克萨斯州的 Terafab 芯片制造项目，消除了有关台积电参与运营的猜测（Debby Wu/彭博社）"
     },
     {
      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
      "link": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
      "pubDate": "Wed, 07 Oct 2026 10:24:19 +0000",
-     "summary": "Article URL: https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating Comments URL: https://news.ycombinator.com/item?id=49990763 Points: 21 # Comments: 13",
+     "summary": "Article URL: https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating Comments URL: https://news.ycombinator.com/item?id=49990763 Points: 22 # Comments: 15",
      "source": "Hacker News",
      "zh": "PS5 越狱事件正以前所未有的速度升级"
-    },
-    {
-     "title": "PS5 modders using AI tools have rapidly installed emulators, as jailbreaks spread across social media; recent games requiring newer firmware are inaccessible (Sammy Barker/Push Square)",
-     "link": "https://www.techmeme.com/261007/p10#a261007p10",
-     "pubDate": "Wed, 07 Oct 2026 06:20:06 -0400",
-     "summary": "Sammy Barker / Push Square : PS5 modders using AI tools have rapidly installed emulators, as jailbreaks spread across social media; recent games requiring newer firmware are inaccessible &nbsp; &mdash;&nbsp; This is fine.png&nbsp; &mdash;&nbsp; A game of cat-and-mouse between Sony and hackers is ver",
-     "source": "Techmeme",
-     "zh": "随着越狱在社交媒体上蔓延，使用人工智能工具的 PS5 改装者迅速安装了模拟器；最近需要更新固件的游戏无法访问（Sammy Barker/Push Square）"
     },
     {
      "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
@@ -1957,25 +1973,9 @@ window.INDUSTRY_DATA = {
      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
      "link": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
      "pubDate": "Wed, 07 Oct 2026 09:51:43 +0000",
-     "summary": "Article URL: https://www.nobelprize.org/prizes/chemistry/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=49990470 Points: 76 # Comments: 9",
+     "summary": "Article URL: https://www.nobelprize.org/prizes/chemistry/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=49990470 Points: 91 # Comments: 9",
      "source": "Hacker News",
      "zh": "2026 年诺贝尔化学奖授予 Henri B. Kagan 和 Kenso Soai"
-    },
-    {
-     "title": "可灵上市，快手如何自洽",
-     "link": "https://www.tmtpost.com/8160242.html",
-     "pubDate": "Wed, 07 Oct 2026 17:42:38 +0800",
-     "summary": "可灵的“去宿华化”。",
-     "source": "钛媒体",
-     "zh": "可灵上市，快手如何自洽"
-    },
-    {
-     "title": "谁在捧杀Utopai X？",
-     "link": "https://www.tmtpost.com/8160338.html",
-     "pubDate": "Wed, 07 Oct 2026 17:42:07 +0800",
-     "summary": "把一个后训练模型吹成原生独立AI模型，是一场巨大的公关灾难。",
-     "source": "钛媒体",
-     "zh": "谁在捧杀Utopai X？"
     }
    ]
   },
@@ -2234,12 +2234,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Treasury yields rise as traders await key 10-year note auction",
+     "title": "4 stocks to watch on Wednesday: U, MU, TSLA, and MRVL",
+     "link": "https://seekingalpha.com/news/4650949-4-stocks-to-watch-on-wednesday-u-mu-tsla-and-mrvl?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 08:48:03 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "周三值得关注的 4 只股票：U、MU、TSLA 和 MRVL"
+    },
+    {
+     "title": "Trading platform Webull&apos;s China ties create national security risk, congressional panel finds",
+     "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
+     "pubDate": "Wed, 07 Oct 2026 12:47:19 GMT",
+     "summary": "A congressional committee says trading platform Webull is not the ordinary U.S. company it claims, but exposes customer data to Chinese surveillance risk.",
+     "source": "CNBC",
+     "zh": "国会小组发现交易平台微牛与中国的关系造成国家安全风险"
+    },
+    {
+     "title": "Intel investors get some reassurance from Elon Musk over a major chip endeavor",
+     "link": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
+     "pubDate": "Wed, 07 Oct 2026 12:46:00 GMT",
+     "summary": "Elon Musk and Intel’s CEO have said the company’s involvement in the Terafab chip plant will continue, boosting shares.",
+     "source": "MarketWatch",
+     "zh": "英特尔投资者从埃隆·马斯克那里得到了一些关于芯片重大努力的保证"
+    },
+    {
+     "title": "Robinhood's first Bitcoin buy: $25M lands on balance sheet",
+     "link": "https://seekingalpha.com/news/4650942-robinhoods-first-bitcoin-buy-25m-lands-on-balance-sheet?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 08:45:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Robinhood 首次购买比特币：2500 万美元出现在资产负债表上"
+    },
+    {
+     "title": "SailPoint in spotlight as Oppenheimer starts with Outperform rating",
+     "link": "https://seekingalpha.com/news/4650947-sailpoint-in-spotlight-as-oppenheimer-starts-with-outperform-rating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 08:43:34 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "奥本海默首次获得跑赢大盘评级，SailPoint 成为焦点"
+    },
+    {
+     "title": "Helmerich & Payne rises on Q4 outlook; expands deployment of FlexRobotics technology",
+     "link": "https://seekingalpha.com/news/4650946-helmerich-and-payne-rises-on-q4-outlook-expands-deployment-of-flexrobotics-technology?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 08:43:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Helmerich & Payne 第四季度展望上涨；扩大 FlexRobotics 技术的部署"
+    },
+    {
+     "title": "AppFolio downgraded to Neutral due to slower unit growth: UBS",
+     "link": "https://seekingalpha.com/news/4650939-appfolio-downgraded-to-neutral-due-to-slower-unit-growth-ubs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 08:43:19 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "由于单位增长放缓，AppFolio 评级下调至中性：瑞银"
+    },
+    {
+     "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
+     "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
+     "pubDate": "Wed, 07 Oct 2026 12:43:00 GMT",
+     "summary": "This is going to bring a lot of problems that almost anyone could have predicted",
+     "source": "MarketWatch",
+     "zh": "“特朗普账户”可能迫使“MAGA”儿童持有《纽约时报》股票"
+    },
+    {
+     "title": "10-year Treasury note yield hits highest level since 2002 as traders brace for key bond sale",
      "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
-     "pubDate": "Wed, 07 Oct 2026 12:26:15 GMT",
+     "pubDate": "Wed, 07 Oct 2026 12:41:10 GMT",
      "summary": "U.S. Treasury yields climbed Wednesday after retreating in the previous session, as oil prices moved higher.",
      "source": "CNBC",
-     "zh": "交易员等待关键的 10 年期国债拍卖，国债收益率上升"
+     "zh": "交易员准备出售关键债券 10年期国债收益率触及2002年以来最高水平"
+    },
+    {
+     "title": "AMD chief says company continues to explore partnership with Samsung: reports",
+     "link": "https://seekingalpha.com/news/4650945-amd-chief-says-company-continues-to-explore-partnership-with-samsung-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 08:35:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AMD 首席执行官表示公司将继续探索与三星的合作伙伴关系：报道"
+    },
+    {
+     "title": "300810因围标串标被禁参加海军采购一年，法定代表人关联企业同步受限",
+     "link": "http://stock.eastmoney.com/news/11215,202610073888924388.html",
+     "pubDate": "Wed, 07 Oct 2026 20:25:34 +0800",
+     "summary": "10月7日， 中科海讯 （SZ300810，股价24.42元，市值29亿元）公告称，公司收到军队采购网失信处理公告，因在某考核系统采购项目中存在围标串标行为，被禁止1年内参加海军物资工程服务采购活动。 被禁参加海军物资工程服务采购活动一年 据 中科海讯 公告披露，军队采购网于2026年10月3日发布相关信息，海军采购管理部门根据军队供应商管理相关规定，对公司作出失信处理。 公告显示，经调查，北京 中科海讯 数字科技股份有限公司在参加某考核系统采购项目的采购活动中，存在围标串标违规行为。处理结果为：禁止公司1年内参加海军物资工程服务采购活动，禁止期自2026年9月23日至2027年9月23日止。",
+     "source": "东方财富股票",
+     "zh": "300810因围标串标被禁参加海军采购一年，法定代表人关联企业同步受限"
     },
     {
      "title": "ICE came to town and left behind weakened economies",
@@ -2250,60 +2330,36 @@ window.INDUSTRY_DATA = {
      "zh": "ICE 来到小镇，留下疲软的经济"
     },
     {
-     "title": "Sugar prices are rising on weather-related shortage concerns",
-     "link": "https://seekingalpha.com/news/4650747-sugar-prices-are-rising-on-weather-related-shortage-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 08:23:07 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "由于天气相关的短缺担忧，糖价上涨"
+     "title": "Oil edges higher as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+     "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
+     "pubDate": "Wed, 07 Oct 2026 12:23:28 GMT",
+     "summary": "Iran's move to step up attacks on tankers which are transiting through the Strait of Hormuz has also led to renewed worries over oil supplies among traders.",
+     "source": "CNBC",
+     "zh": "由于对胡塞武装袭击沙特阿拉伯的担忧令供应复苏黯然失色，油价小幅上涨"
     },
     {
-     "title": "Trulieve repays $65M in mortgage, reducing outstanding debt",
-     "link": "https://seekingalpha.com/news/4650932-trulieve-repays-65m-in-mortgage-reducing-outstanding-debt?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 08:23:03 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trulieve 偿还 6500 万美元抵押贷款，减少未偿债务"
+     "title": "天域半导体：10月7日斥资199.91万港元回购3.86万股",
+     "link": "http://finance.eastmoney.com/news/1354,202610073888923933.html",
+     "pubDate": "Wed, 07 Oct 2026 20:21:00 +0800",
+     "summary": "天域半导体 （02658.HK）发布翌日披露报表，10月7日，公司回购3.86万股，每股最高回购价52.3港元，每股最低回购价51.2港元，付出的价格总额为199.91万港元。本次回购股份拟持作库存股份。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "天域半导体：10月7日斥资199.91万港元回购3.86万股"
     },
     {
-     "title": "Apollo latest to submit non-binding bid for German energy firm Uniper - Reuters",
-     "link": "https://seekingalpha.com/news/4650936-apollo-latest-to-submit-non-binding-bid-for-german-energy-firm-uniper---reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 08:22:34 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "阿波罗最新向德国能源公司 Uniper 提交不具约束力的收购要约 - 路透中文网"
+     "title": "九方智投控股：10月7日斥资160.34万港元回购5.97万股",
+     "link": "http://finance.eastmoney.com/news/1354,202610073888923830.html",
+     "pubDate": "Wed, 07 Oct 2026 20:21:00 +0800",
+     "summary": "九方智投控股 （09636.HK）发布翌日披露报表，10月7日，公司回购5.97万股，每股最高回购价27.34港元，每股最低回购价26.22港元，付出的价格总额为160.34万港元。本次回购股份拟持作库存股份5.97万股，拟注销0股。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "九方智投控股：10月7日斥资160.34万港元回购5.97万股"
     },
     {
-     "title": "FuelCell Energy announces CFO transition",
-     "link": "https://seekingalpha.com/news/4650938-fuelcell-energy-announces-cfo-transition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 08:20:01 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FuelCell Energy 宣布首席财务官过渡"
-    },
-    {
-     "title": "Corning declares $0.28 dividend",
-     "link": "https://seekingalpha.com/news/4650940-corning-declares-0_28-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 08:19:15 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "康宁宣布派息 0.28 美元"
-    },
-    {
-     "title": "French central bank chief says ECB intervention not needed to ease debt sell-off",
+     "title": "French central bank chief says ECB intervention not needed to ease bond rout",
      "link": "https://www.ft.com/content/d9ba8e1f-54f9-4739-9ce3-94e62d585e26?syn-25a6b1a6=1",
      "pubDate": "Wed, 07 Oct 2026 12:19:11 GMT",
      "summary": "Emmanuel Moulin also hit out at ‘Trump-style’ threats against him from the far-left",
      "source": "Financial Times",
-     "zh": "法国央行行长称欧洲央行无需干预来缓解债务抛售"
-    },
-    {
-     "title": "Marvell Technology gets praise from Wall Street after investor day",
-     "link": "https://seekingalpha.com/news/4650923-marvell-technology-gets-praise-from-wall-street-after-investor-day?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 08:18:37 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Marvell 科技在投资者日后获得华尔街好评"
+     "zh": "法国央行行长表示无需欧洲央行干预来缓解债券崩盘"
     },
     {
      "title": "Rubio says Tehran missed &apos;multiple&apos; chances for nuclear deal amid Iran stalemate",
@@ -2314,52 +2370,28 @@ window.INDUSTRY_DATA = {
      "zh": "卢比奥表示，在伊朗僵局中，德黑兰错过了达成核协议的“多次”机会"
     },
     {
-     "title": "因围标串标，中科海讯被禁止参加海军物资工程服务采购活动一年",
-     "link": "http://stock.eastmoney.com/news/11215,202610073888923757.html",
-     "pubDate": "Wed, 07 Oct 2026 20:13:47 +0800",
-     "summary": "中科海讯 (300810)10月7日晚间公告，公司收到军队采购网失信处理公告，因在参加某考核系统采购项目中，存在围标串标违规行为，海军采购管理部门决定自2026年9月23日至2027年9月23日禁止公司参加海军物资工程服务采购活动。 公司表示，目前公司整体经营情况正常，在禁止日期前已签订的相关合同仍在正常执行。在禁止期内，公司无法参与军采网投标，但公司仍可通过全军武器装备采购信息网、行业内企业采购平台等渠道获取订单。2024年至今，公司通过军采网中标金额约占整体中标金额的4.21%。预计该事项短期内将影响公司部分订单的获取，但不会影响公司的持续经营。 中科海讯 主营业务为声纳装备领域相关产品的",
+     "title": "谷歌推出Playground游戏平台，用于自定义游戏创作和分享",
+     "link": "http://finance.eastmoney.com/news/1360,202610073888924034.html",
+     "pubDate": "Wed, 07 Oct 2026 20:14:38 +0800",
+     "summary": "谷歌推出Playground游戏平台，用于自定义游戏创作和分享。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "因围标串标，中科海讯被禁止参加海军物资工程服务采购活动一年"
+     "zh": "谷歌推出Playground游戏平台，用于自定义游戏创作和分享"
     },
     {
-     "title": "中美定期客运航权额度首次“用满”，航线离全面恢复还有多远？",
-     "link": "http://finance.eastmoney.com/news/1349,202610073888923236.html",
-     "pubDate": "Wed, 07 Oct 2026 20:13:33 +0800",
-     "summary": "10月7日， 达美航空 上海浦东—洛杉矶航线正式由每周3班增加至每周5班，随着此次增班，中美双方现阶段定期客运航权额度首次被全部使用。根据现行安排，2024年后中美双方各允许对方航司每周运营最多50个往返定期客运航班（即合计每周200个单程航段）。 不过，与航权额度“用满”形成对比的是，目前中美客运航班量与2019年同期仍有较大差距。航班管家数据显示，2026年9月，中美之间实际执飞客运航班合计840班（中方航司、美方航司各执飞420班），2019年同期为2957班，班次恢复至2019年同期的28.4%。 两位民航领域资深专家在接受《每日经济新闻》记者采访时表示，航权额度“用满”首先是一个商业",
+     "title": "微信：中秋国庆跨省游人次占比近六成",
+     "link": "http://hk.eastmoney.com/news/11362,202610073888924593.html",
+     "pubDate": "Wed, 07 Oct 2026 20:14:00 +0800",
+     "summary": "新京报 贝壳 财经讯（记者韦英姿）10月7日，微信团队发布《2026中秋国庆微信数据报告》（下称：报告）。报告显示，今年跨省游人次占比近六成，消费热度由热门城市延伸至边陲地区；海南省三沙市、西藏那曲市、新疆可克达拉市、甘肃省甘南藏族自治州交易笔数同比分别增长66%、30%、37%和22%。 另外，港澳仍然是内地游客出境游首选目的地。报告数据显示，微信支付香港区域整体消费笔数同比增长近30%，WeChat港币钱包及香港外卡用户入境消费笔数同比增长超50%。 同时，长假也扩大了中国游客出行半径，欧洲成为更多中国游客的目的地。据报告数据，境外微信支付交易笔数同比增速最快的前20国中，欧洲12国进入排",
      "source": "东方财富股票",
-     "zh": "中美定期客运航权额度首次“用满”，航线离全面恢复还有多远？"
+     "zh": "微信：中秋国庆跨省游人次占比近六成"
     },
     {
-     "title": "美股盘前丨三大股指期货齐跌；加密货币、贵金属板块普跌，哈莫尼黄金跌近5%、Bitmine跌超4%",
-     "link": "http://hk.eastmoney.com/news/11617,202610073888921353.html",
-     "pubDate": "Wed, 07 Oct 2026 20:11:20 +0800",
-     "summary": "10月7日，美股三大期指全线承压。道琼斯指数主连下跌0.71%报51,449点，标普500指数主连下挫0.39%至7,843.5点， 纳斯达克 100指数主连回落0.69%至31,264.5点；长端美债收益率继续抬升叠加对中东局势的担忧，使盘前避险情绪升温，科技 权重股 或面临获利回吐压力。 半导体 板块普跌，AMD跌超3%，AMD、 阿斯麦 、 安森美半导体 、Cerebras Systems跌超2%， 台积电 、 博通 、 高通 跌超1%； 存储概念股普跌， 美光科技 、 闪迪 、 慧荣科技 跌超2%， SK海力士 、 希捷科技 、 西部数据 跌超1%； 光 通信 概念股普跌，Lument",
+     "title": "美团长线游预订同比增25%，超三成用户在目的地停留至少3天",
+     "link": "http://hk.eastmoney.com/news/11362,202610073888924488.html",
+     "pubDate": "Wed, 07 Oct 2026 20:14:00 +0800",
+     "summary": "新京报 贝壳 财经讯国庆假期进入尾声，10月7日，《美团2026国庆消费洞察报告》显示，800公里以上的长线游订单同比增长25%，31%的用户在一个目的地停留3天及以上， 酒店 连住订单量同比增长31%。其中，从热门目的地看，美团数据显示，“十一”假期出游热门Top10目的地分别为南京、成都、西安、北京、重庆、洛阳、武汉、广州、长沙、上海。美团AI管家“小团”搜索量环比上升29%。 长线游升温，美团报告显示，热门Top10长线游目的地依次为南京、西安、成都、苏州、洛阳、北京、南宁、三亚、哈尔滨、延边。游客人均到访约1.2个城市，较去年有所提升。其中，通过飞机、高铁等交通方式组合，一次串联3城及",
      "source": "东方财富股票",
-     "zh": "美股盘前丨三大股指期货齐跌；加密货币、贵金属板块普跌，哈莫尼黄金跌近5%、Bitmine跌超4%"
-    },
-    {
-     "title": "SpaceX太空舱脱离空间站 乘组启程返回地球",
-     "link": "http://finance.eastmoney.com/news/11790,202610073888921519.html",
-     "pubDate": "Wed, 07 Oct 2026 20:10:21 +0800",
-     "summary": "SpaceX 太空舱脱离空间站，乘组启程返回地球。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "SpaceX太空舱脱离空间站 乘组启程返回地球"
-    },
-    {
-     "title": "谷歌与Unity合作推出AI游戏平台 用户可通过自然语言创建游戏",
-     "link": "http://finance.eastmoney.com/news/1354,202610073888921422.html",
-     "pubDate": "Wed, 07 Oct 2026 20:09:37 +0800",
-     "summary": "10月7日，谷歌与游戏引擎公司Unity宣布达成战略合作，将共同推出面向下一代互动娱乐的AI游戏平台。双方表示，该平台将结合谷歌 人工智能 技术、用户生态以及Unity游戏开发能力，降低游戏创作门槛。 根据公告，谷歌推出的实验性平台Playground已上线，用户可通过自然语言提示生成和定制可玩的游戏，无需编写代码。双方计划于今年晚些时候推出基于该平台扩展的创作产品Unity Spark，为创作者提供更丰富的3D开发能力和专业级游戏制作工具。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "谷歌与Unity合作推出AI游戏平台 用户可通过自然语言创建游戏"
-    },
-    {
-     "title": "002338，换帅！董事长辞职，80后博士接棒，上半年净利大增超九成",
-     "link": "http://stock.eastmoney.com/news/11215,202610073888923179.html",
-     "pubDate": "Wed, 07 Oct 2026 20:09:31 +0800",
-     "summary": "奥普光电 （SZ002338，股价41.91元，总市值100.58亿元）10月7日发布《关于董事长辞职暨选举董事长、变更法定代表人的公告》，公司董事长高劲松近日因个人工作调整辞去董事长及战略委员会委员职务，辞职后不再担任公司及控股子公司任何职务。 9月30日，公司召开董事会临时会议，选举储海荣为新任董事长并出任法定代表人。 高劲松辞职，储海荣接任董事长 公告显示，高劲松原定任期为2024年1月16日至2027年1月15日，其辞职报告自送达公司董事会时生效。由于高劲松的辞职不会导致公司董事会成员低于法定最低人数，公司于2026年9月30日召开第八届董事会第十四次（临时）会议，审议通过选举储海荣为",
-     "source": "东方财富股票",
-     "zh": "002338，换帅！董事长辞职，80后博士接棒，上半年净利大增超九成"
+     "zh": "美团长线游预订同比增25%，超三成用户在目的地停留至少3天"
     },
     {
      "title": "Noah raises $38m for stablecoin payments platform",
@@ -2376,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "如今，Anthropic把“AI安全”做成了公司的核心标签，但很少有人知道，这家公司的联合创始人兼总裁Daniela Amodei，早年竟曾和丈夫Holden Karnofsky靠一群毛绒玩具来讨论管理问题。 这些玩具被赋予了不同的性格：有的专门负责“少开会、少给自己找麻烦”，有的强调规则、细节和执行，还有的负责提醒决策者保持同情心。 面对一个棘手的职场问题，Daniela和丈夫会让这些虚拟角色分别“发表意见”，以此模拟不同类型的管理者可能作出的选择。 这段颇为私人、甚至有些童趣的往事，发生在Daniela还任职于OpenAI的时期。而就在这段时期，她和哥哥Dario Amodei也正逐渐与O",
      "source": "华尔街见闻",
      "zh": "毛绒玩具当“顾问”？Anthropic总裁的OpenAI往事，从角色扮演到AI“安全巨头”"
-    },
-    {
-     "title": "Intel investors get some reassurance from Elon Musk over a major chip endeavor",
-     "link": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
-     "pubDate": "Wed, 07 Oct 2026 11:44:00 GMT",
-     "summary": "Elon Musk and Intel’s CEO have said the company’s involvement in the Terafab chip plant will continue, boosting shares.",
-     "source": "MarketWatch",
-     "zh": "英特尔投资者从埃隆·马斯克那里得到了一些关于芯片重大努力的保证"
     },
     {
      "title": "Global bond sell-off resumes as 30-year Treasury yield hits highest since 2002",
@@ -2418,14 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "随着投资者蜂拥而至其顶级人工智能代理，Meta 股票获得了罕见的“金十字”买入信号"
     },
     {
-     "title": "十大机构论市：节后A股有望“量价齐升”",
-     "link": "http://finance.eastmoney.com/news/1345,202610073888915179.html",
-     "pubDate": "Wed, 07 Oct 2026 19:16:32 +0800",
-     "summary": "节前一周沪指下跌1.19%，深证成指下跌3.22%，创业板指下跌4.67%。本周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 广发策略：节后A股市场有望“量价齐升” 在一轮牛市中，调整伴随缩量是常态，当前缩量55%并不罕见。中短期角度，缩量55%反而对应不错的短期反弹机会。缩量60%是关键阈值，对应本轮成交额MA5约1.4万亿元，当前滚动平均成交额仍有1.6万亿元。节前全A的缩量也受到国庆长假日历效应的冲击，并不能反映当前全市场的参与意愿降低到警戒水平。这种“节前缩量”的特征，基本上在节后一周内即基本恢复至前期缩量前的水平。同时考虑 纳斯达克 、 英伟达 、 台积电 先后新",
-     "source": "东方财富资讯",
-     "zh": "十大机构论市：节后A股有望“量价齐升”"
-    },
-    {
      "title": "近四年来首次加息！印度央行上调基准利率至5.5%，立场转为“有序收紧”",
      "link": "https://wallstreetcn.com/articles/3783120",
      "pubDate": "Wed, 07 Oct 2026 19:15:55 +0800",
@@ -2456,22 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "Elon Musk’s SpaceX is in talks with banks and investors to borrow $40 billion to fund a purchase of Nvidia chips, according to a Financial Times report.",
      "source": "MarketWatch",
      "zh": "据报道，SpaceX 正寻求借与该公司收入相当多的资金来购买 Nvidia 芯片"
-    },
-    {
-     "title": "Trading platform Webull&apos;s China ties create national security risk, congressional panel finds",
-     "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
-     "pubDate": "Wed, 07 Oct 2026 11:08:55 GMT",
-     "summary": "A congressional committee says trading platform Webull is not the ordinary U.S. company it claims, but exposes customer data to Chinese surveillance risk.",
-     "source": "CNBC",
-     "zh": "国会小组发现交易平台微牛与中国的关系造成国家安全风险"
-    },
-    {
-     "title": "Goldman Sachs appoints bankiong tech co-head",
-     "link": "https://www.finextra.com/newsarticle/48547/goldman-sachs-appoints-bankiong-tech-co-head?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Wed, 07 Oct 2026 11:03:00 GMT",
-     "summary": "Wall Street bank Goldman Sachs has named senior tech bank executive Jane Dunlevie as its new co-head of the technology, media and telecommunications investment banking group.",
-     "source": "Finextra",
-     "zh": "高盛任命银行科技联席主管"
     }
    ]
   },

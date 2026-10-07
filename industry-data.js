@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/7 21:52:12",
+ "generated_at": "2026/10/7 22:02:32",
  "recent_days": 7,
  "industries": [
   {
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Hyundai shelves IONIQ 3 launch in Australia as cheaper Chinese EVs take over",
+     "link": "https://electrek.co/2026/10/07/hyundai-cancels-ioniq-3-australia-over-cheap-chinese-evs/",
+     "pubDate": "Wed, 07 Oct 2026 13:50:00 +0000",
+     "summary": "Hyundai has scrapped plans to launch the IONIQ 3 in Australia. Importing the electric hatch would be too costly to compete with low-priced Chinese EVs. more…",
+     "source": "Electrek",
+     "zh": "Hyundai shelves IONIQ 3 launch in Australia as cheaper Chinese EVs take over"
+    },
+    {
      "title": "E-quipment highlight: AMT’s hot-swapping battery electric rail excavator",
      "link": "https://electrek.co/2026/10/07/e-quipment-highlight-amts-hot-swapping-battery-electric-rail-excavator/",
      "pubDate": "Wed, 07 Oct 2026 12:42:13 +0000",
@@ -744,14 +752,6 @@ window.INDUSTRY_DATA = {
      "summary": "The E-Space Concept is an all-electric reboot of Renault’s iconic minivan from the 1980’s. more…",
      "source": "Electrek",
      "zh": "This electric minivan is bringing an ’80s icon back to life"
-    },
-    {
-     "title": "Toyota shuts down rumors claiming that it’s ‘slashing prices’ in China",
-     "link": "https://electrek.co/2026/10/06/toyota-shuts-down-rumors-slashing-prices-china/",
-     "pubDate": "Tue, 06 Oct 2026 19:08:35 +0000",
-     "summary": "Toyota’s joint venture, FAW Toyota, issued a statement denying reports that it’s “slashing prices” in China and may exit the market entirely. more…",
-     "source": "Electrek",
-     "zh": "Toyota shuts down rumors claiming that it’s ‘slashing prices’ in China"
     },
     {
      "title": "Uber is spending $2.3B to get into catering",
@@ -1538,6 +1538,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+     "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+     "pubDate": "Wed, 07 Oct 2026 13:48:45 +0000",
+     "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was ",
+     "source": "Krebs on Security",
+     "zh": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests"
+    },
+    {
      "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
      "link": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
      "pubDate": "Wed, 07 Oct 2026 13:47:12 +0000",
@@ -1738,6 +1746,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
+     "link": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/",
+     "pubDate": "Wed, 07 Oct 2026 14:00:00 +0000",
+     "summary": "Amazon-owned Ring is entering the smart lock market with a device designed to tackle a common concern: getting locked out when the battery dies",
+     "source": "TechCrunch",
+     "zh": "Ring’s first smart lock can be hand-cranked when its battery dies"
+    },
+    {
+     "title": "North American startup funding hit $92B in Q3, down 35% QoQ but up 50% YoY, with $61B to AI startups; there were 11 $1B+ acquisitions and IPOs remained quiet (Joanna Glasner/Crunchbase News)",
+     "link": "https://www.techmeme.com/261007/p19#a261007p19",
+     "pubDate": "Wed, 07 Oct 2026 09:55:03 -0400",
+     "summary": "Joanna Glasner / Crunchbase News : North American startup funding hit $92B in Q3, down 35% QoQ but up 50% YoY, with $61B to AI startups; there were 11 $1B+ acquisitions and IPOs remained quiet &nbsp; &mdash;&nbsp; Funding to North American startups declined sequentially in the third quarter and came",
+     "source": "Techmeme",
+     "zh": "North American startup funding hit $92B in Q3, down 35% QoQ but up 50% YoY, with $61B to AI startups; there were 11 $1B+ acquisitions and IPOs remained quiet (Joanna Glasner/Crunchbase News)"
+    },
+    {
+     "title": "We’re Tracking October Prime Day Live (2026)",
+     "link": "https://www.wired.com/live/amazon-prime-day-live-tracker-october-06-2026/",
+     "pubDate": "Wed, 07 Oct 2026 13:52:21 +0000",
+     "summary": "Our team is tracking Prime Day price drops live to find all the best discounts. Check here for the latest coverage on all the sales we’re shopping ourselves.",
+     "source": "WIRED",
+     "zh": "We’re Tracking October Prime Day Live (2026)"
+    },
+    {
      "title": "谷歌在芬兰栽跟头：两座数据中心被当局勒令停工，环评成拦路虎",
      "link": "https://www.ithome.com/1/010/287.htm",
      "pubDate": "Wed, 07 Oct 2026 13:45:19 GMT",
@@ -1853,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "House with 15m underground tunnels for sale for 300k",
      "link": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
      "pubDate": "Wed, 07 Oct 2026 12:57:10 +0000",
-     "summary": "Article URL: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/ Comments URL: https://news.ycombinator.com/item?id=49992125 Points: 39 # Comments: 44",
+     "summary": "Article URL: https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/ Comments URL: https://news.ycombinator.com/item?id=49992125 Points: 50 # Comments: 62",
      "source": "Hacker News",
      "zh": "House with 15m underground tunnels for sale for 300k"
     },
@@ -1869,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
      "link": "https://artmuseum.artfrompixels.com/",
      "pubDate": "Wed, 07 Oct 2026 12:51:08 +0000",
-     "summary": "From Li Cheng to Banksy Comments URL: https://news.ycombinator.com/item?id=49992057 Points: 5 # Comments: 3",
+     "summary": "From Li Cheng to Banksy Comments URL: https://news.ycombinator.com/item?id=49992057 Points: 10 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: A walkable 3D art history museum built from Wikipedia"
     },
@@ -1893,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Google Playground: Create and play custom games",
      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
      "pubDate": "Wed, 07 Oct 2026 12:28:36 +0000",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/ Comments URL: https://news.ycombinator.com/item?id=49991823 Points: 21 # Comments: 7",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/ Comments URL: https://news.ycombinator.com/item?id=49991823 Points: 32 # Comments: 18",
      "source": "Hacker News",
      "zh": "Google Playground: Create and play custom games"
     },
@@ -1925,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
      "link": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
      "pubDate": "Wed, 07 Oct 2026 12:04:36 +0000",
-     "summary": "Article URL: https://fiveminutesforward.com/post/2026-10-04-telegraph-test/ Comments URL: https://news.ycombinator.com/item?id=49991580 Points: 23 # Comments: 16",
+     "summary": "Article URL: https://fiveminutesforward.com/post/2026-10-04-telegraph-test/ Comments URL: https://news.ycombinator.com/item?id=49991580 Points: 27 # Comments: 17",
      "source": "Hacker News",
      "zh": "Write Like It's 1866: LLMs Relearn Telegraphese"
     },
@@ -1949,33 +1981,9 @@ window.INDUSTRY_DATA = {
      "title": "Shipping JPEG XL in Chrome",
      "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
      "pubDate": "Wed, 07 Oct 2026 11:25:02 +0000",
-     "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 166 # Comments: 84",
+     "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome Comments URL: https://news.ycombinator.com/item?id=49991227 Points: 184 # Comments: 90",
      "source": "Hacker News",
      "zh": "Shipping JPEG XL in Chrome"
-    },
-    {
-     "title": "It may soon be possible to create \"mirror life\"",
-     "link": "https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life",
-     "pubDate": "Wed, 07 Oct 2026 11:14:38 +0000",
-     "summary": "Article URL: https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life Comments URL: https://news.ycombinator.com/item?id=49991132 Points: 32 # Comments: 39",
-     "source": "Hacker News",
-     "zh": "It may soon be possible to create \"mirror life\""
-    },
-    {
-     "title": "I Found the 25 Best Prime Day Tech and Gadget Deals (October 2026)",
-     "link": "https://www.wired.com/story/best-prime-day-tech-deals-10-07-2026/",
-     "pubDate": "Wed, 07 Oct 2026 11:11:05 +0000",
-     "summary": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
-     "source": "WIRED",
-     "zh": "I Found the 25 Best Prime Day Tech and Gadget Deals (October 2026)"
-    },
-    {
-     "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
-     "link": "https://www.wired.com/story/best-prime-day-headphone-deals-10-07-2026/",
-     "pubDate": "Wed, 07 Oct 2026 11:10:17 +0000",
-     "summary": "I’ve tested more than 100 headphones and covered nearly a dozen Prime Days. Here are some actually good headphone deals from the sale.",
-     "source": "WIRED",
-     "zh": "I Found The Best Amazon Prime Day Headphone Deals (2026)"
     }
    ]
   },
@@ -1985,6 +1993,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Lightning deal gives you a chance to get Toshiba’s 43-inch QLED Fire TV for just $139.99",
+     "link": "https://www.androidauthority.com/toshiba-43-inch-qled-fire-tv-deal-3720231/",
+     "pubDate": "Wed, 07 Oct 2026 13:53:38 +0000",
+     "summary": "Prime Day cuts the Toshiba 43-inch QLED Fire TV by 58% to it's lowest price ever.",
+     "source": "Android Authority",
+     "zh": "Lightning deal gives you a chance to get Toshiba’s 43-inch QLED Fire TV for just $139.99"
+    },
+    {
+     "title": "Ultrahuman announces Heart Scan feature for Ring Air and Ring Pro users",
+     "link": "https://www.gsmarena.com/ultrahuman_heart_scan-news-74939.php",
+     "pubDate": "Wed, 07 Oct 2026 15:49:02 +0200",
+     "summary": "Ultrahuman's Ring Air gained atrial fibrillation (AFib) detection support in July 2024, and the Ring Pro, which launched in February this year, had it from the start. Today, Ultrahuman announced the Heart Scan feature, which builds on the AFib PowerPlug. Heart Scan is powered by FibriCheck and lets ",
+     "source": "GSMArena",
+     "zh": "Ultrahuman announces Heart Scan feature for Ring Air and Ring Pro users"
+    },
     {
      "title": "YouTube on desktop now has a comments sidebar, and everyone hates it",
      "link": "https://www.androidauthority.com/youtube-desktop-comments-sidebar-redesign-3720193/",
@@ -2170,14 +2194,6 @@ window.INDUSTRY_DATA = {
      "zh": "Slumping budget phone shipments in Europe actually benefited carriers in Q2"
     },
     {
-     "title": "I’ve tried every popular Android VPN, but this is the only one I use for gaming",
-     "link": "https://www.androidauthority.com/mudfish-android-gaming-vpn-hands-on-3718476/",
-     "pubDate": "Wed, 07 Oct 2026 10:30:24 +0000",
-     "summary": "I spend only for what I need.",
-     "source": "Android Authority",
-     "zh": "I’ve tried every popular Android VPN, but this is the only one I use for gaming"
-    },
-    {
      "title": "Prime Day Deals: Samsung and Pixel flagships are now cheaper",
      "link": "https://www.gsmarena.com/prime_day_deals_samsung_and_pixel_flagships_are_now_cheaper-news-74933.php",
      "pubDate": "Wed, 07 Oct 2026 10:57:02 +0200",
@@ -2192,14 +2208,6 @@ window.INDUSTRY_DATA = {
      "summary": "Amazon’s Prime Big Deal Days start today and end tomorrow. As usual, we have picked out the best offers for smartphones and wearables and we’ve broken them down into categories for easier browsing. Table of Contents: Flagships Foldables Premium phones Mid-range phones Entry-level phones Smartwatches",
      "source": "GSMArena",
      "zh": "Deals: Prime Big Deal Days brings big discounts on flagships, foldables and other phones"
-    },
-    {
-     "title": "OnePlus Ace 7 specs leak again, this could be the 16R",
-     "link": "https://www.gsmarena.com/oneplus_ace_7_specs_leak_again_this_could_be_the_16r-news-74925.php",
-     "pubDate": "Wed, 07 Oct 2026 08:18:02 +0200",
-     "summary": "Back in May, specs of the upcoming OnePlus Ace 7 were first outed, and now we have another source chiming in, many months later. According to a tipster over on X, the OnePlus Ace 7 will be powered by the Snapdragon 8 Elite Gen 5 chipset, paired with a built-in active cooling fan. The phone will alle",
-     "source": "GSMArena",
-     "zh": "OnePlus Ace 7 specs leak again, this could be the 16R"
     },
     {
      "title": "Formula 1 on Apple TV is getting Dolby Atmos, starting this month",
@@ -2234,6 +2242,78 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Eric Trump’s AI-crypto call at TOKEN2049: “By far” the fastest",
+     "link": "https://seekingalpha.com/news/4650980-eric-trumps-ai-crypto-call-at-token2049-by-far-the-fastest?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 09:57:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Eric Trump’s AI-crypto call at TOKEN2049: “By far” the fastest"
+    },
+    {
+     "title": "Mattel gains on report Zuru may make takeover bid",
+     "link": "https://seekingalpha.com/news/4650988-mattel-gains-on-report-zuru-may-make-takeover-bid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 09:56:12 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mattel gains on report Zuru may make takeover bid"
+    },
+    {
+     "title": "BTB Real Estate Investment Trust declares CAD 0.025 dividend",
+     "link": "https://seekingalpha.com/news/4650995-btb-real-estate-investment-trust-declares-cad-0_025-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 09:55:04 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BTB Real Estate Investment Trust declares CAD 0.025 dividend"
+    },
+    {
+     "title": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027",
+     "link": "https://www.marketwatch.com/story/longtime-tech-bull-dan-ives-says-these-are-his-top-tech-plays-going-into-2027-3796cb9f?mod=mw_rss_topstories",
+     "pubDate": "Wed, 07 Oct 2026 13:53:00 GMT",
+     "summary": "Investors are “underestimating the scale and scope” of the AI spending wave, said Dan Ives as he laid out five stocks to own.",
+     "source": "MarketWatch",
+     "zh": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027"
+    },
+    {
+     "title": "This part of the bond market offers compelling yields with minimal risk",
+     "link": "https://www.marketwatch.com/story/this-part-of-the-bond-market-offers-compelling-yields-with-minimal-risk-1e7ef2ed?mod=mw_rss_topstories",
+     "pubDate": "Wed, 07 Oct 2026 13:53:00 GMT",
+     "summary": "You can earn good yields with very low price risk in ultrashort bond funds.",
+     "source": "MarketWatch",
+     "zh": "This part of the bond market offers compelling yields with minimal risk"
+    },
+    {
+     "title": "U.S. equities tumble while Treasury yields push higher",
+     "link": "https://seekingalpha.com/news/4650990-us-equities-tumble-while-treasury-yields-push-higher?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 09:52:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "U.S. equities tumble while Treasury yields push higher"
+    },
+    {
+     "title": "汇添富上海地产租赁住房REIT首次扩募申请获上交所正式受理",
+     "link": "http://www.eeo.com.cn/2026/1007/1057033.shtml",
+     "pubDate": "Wed, 07 Oct 2026 21:52:06 +0800",
+     "summary": "本报讯 （记者毛艺融）9月30日晚间，汇添富上海地产租赁住房封闭式基础设施证券投资基金（以下简称“汇添富上海地产租赁住房REIT”）首次扩募申请已获上海证券交易所（以下简称“上交所”）正式受理。 这是汇添富上海地产租赁住房REIT自2025年3月31日在上交所上市以来首次申请扩募并新购入不动产项目，本次拟购入不动产项目评估值约37.21亿元，最终交易价格及发行规模将以正式公告和发行文件为准；扩募完成后，该基金将持...",
+     "source": "经济观察网",
+     "zh": "汇添富上海地产租赁住房REIT首次扩募申请获上交所正式受理"
+    },
+    {
+     "title": "Biggest stock movers Wednesday: ZIM, STZ, and more",
+     "link": "https://seekingalpha.com/news/4650842-biggest-stock-movers-wednesday-zim-stz-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 09:51:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Biggest stock movers Wednesday: ZIM, STZ, and more"
+    },
+    {
+     "title": "美股三大指数集体下跌 道指、纳指跌近1% 芯片股走低",
+     "link": "http://finance.eastmoney.com/news/1345,202610073888943871.html",
+     "pubDate": "Wed, 07 Oct 2026 21:50:48 +0800",
+     "summary": "美东时间周三，美股三大指数集体走低，截至发稿， 纳斯达克 指数跌0.88%，报27356.74点；标普500指数跌0.63%，报7770.06点；道琼斯指数跌0.90%，报51055.03点。 芯片 半导体 板块走低，费城 半导体 指数跌2.51%，报12886.11点。存储概念股普跌， 闪迪 跌0.25%、 希捷科技 跌1.39%、 美光科技 跌1.82%、 西部数据 跌1.83%、 SK海力士 跌2.35%。 大型 银行 股普跌， 美国银行 跌2.00%、 摩根士丹利 跌2.34%、 高盛 跌2.81%、 花旗集团 跌2.88%。 全球要闻 2026年诺贝尔化学奖揭晓&nbsp;2名科学家",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数集体下跌 道指、纳指跌近1% 芯片股走低"
+    },
+    {
      "title": "Trading platform Webull&apos;s China ties create national security risk, congressional panel finds; stock drops 18%",
      "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
      "pubDate": "Wed, 07 Oct 2026 13:46:28 GMT",
@@ -2250,36 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Clough Global Opportunities Fund declares $0.0537 dividend"
     },
     {
-     "title": "Clough Global Equity Fund declares $0.0729 dividend",
-     "link": "https://seekingalpha.com/news/4650992-clough-global-equity-fund-declares-0_0729-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 09:45:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Clough Global Equity Fund declares $0.0729 dividend"
-    },
-    {
      "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
      "pubDate": "Wed, 07 Oct 2026 13:45:00 GMT",
      "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
      "source": "MarketWatch",
      "zh": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?"
-    },
-    {
-     "title": "Northland Power completes turbine installation at Poland's first offshore wind project",
-     "link": "https://seekingalpha.com/news/4650978-northland-power-completes-turbine-installation-at-polands-first-offshore-wind-project?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 09:39:03 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Northland Power completes turbine installation at Poland's first offshore wind project"
-    },
-    {
-     "title": "Top dividend growth stocks under $10 include Diversified Healthcare, Industrial Logistics & more",
-     "link": "https://seekingalpha.com/news/4650986-top-dividend-growth-stocks-under-10-include-diversified-healthcare-industrial-logistics-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 09:38:54 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Top dividend growth stocks under $10 include Diversified Healthcare, Industrial Logistics & more"
     },
     {
      "title": "Global bond sell-off resumes as 30-year Treasury yield hits highest since 2002",
@@ -2306,28 +2362,20 @@ window.INDUSTRY_DATA = {
      "zh": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably"
     },
     {
-     "title": "FICO to cut workforce by ~15% as part of restructuring, AI integration - report",
-     "link": "https://seekingalpha.com/news/4650973-fico-to-cut-workforce-by-15-as-part-of-restructuring-ai-integration---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 09:33:18 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FICO to cut workforce by ~15% as part of restructuring, AI integration - report"
+     "title": "国庆节连跑两场婚礼：在搂席中感受传统与现代｜耍起",
+     "link": "http://www.eeo.com.cn/2026/1007/1057027.shtml",
+     "pubDate": "Wed, 07 Oct 2026 21:31:44 +0800",
+     "summary": "一千多公里距离，两场喜宴，两种口音，我在高铁、高速和乡道之间切换，最大的感受是，现在年轻人的婚礼中，传统并没有消失，但新意更多。",
+     "source": "经济观察网",
+     "zh": "国庆节连跑两场婚礼：在搂席中感受传统与现代｜耍起"
     },
     {
-     "title": "REX FANG & Innovation Equity Premium Income ETF declares $0.2105 dividend",
-     "link": "https://seekingalpha.com/news/4650985-rex-fang-and-innovation-equity-premium-income-etf-declares-0_2105-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 09:32:44 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "REX FANG & Innovation Equity Premium Income ETF declares $0.2105 dividend"
-    },
-    {
-     "title": "美股三大指数集体低开 芯片股走低",
-     "link": "http://finance.eastmoney.com/news/1345,202610073888943871.html",
-     "pubDate": "Wed, 07 Oct 2026 21:30:48 +0800",
-     "summary": "美东时间周三，美股三大指数集体低开，截至发稿，道指跌0.67%，纳指跌0.6%，标普500指数跌0.4%。 芯片 半导体 板块走低，费城 半导体 指数跌1.90%。存储概念股普跌， 闪迪 跌1.37%、 希捷科技 跌1.53%、 SK海力士 跌2.04%、 西部数据 跌2.09%、 美光科技 跌3.01%。 大型 银行 股普跌， 摩根大通 跌1.40%、 美国银行 跌1.66%、 花旗集团 跌1.68%、 摩根士丹利 跌2.01%、 高盛 跌2.08%。 全球要闻 2026年诺贝尔化学奖揭晓 2名科学家获奖 当地时间10月7日，瑞典皇家科学院决定将2026年诺贝尔化学奖授予2名科学家。奖项授予",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体低开 芯片股走低"
+     "title": "在西宁，等一只不“营业”的雪豹丨耍起",
+     "link": "http://www.eeo.com.cn/2026/1007/1057026.shtml",
+     "pubDate": "Wed, 07 Oct 2026 21:31:33 +0800",
+     "summary": "当雪豹真的出现在岩壁上的那一刻，人们会有一种很确定的感觉：它不是为你表演，而是刚好想出来走走。",
+     "source": "经济观察网",
+     "zh": "在西宁，等一只不“营业”的雪豹丨耍起"
     },
     {
      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -2336,6 +2384,14 @@ window.INDUSTRY_DATA = {
      "summary": "“Both properties will be solely in his name.”",
      "source": "MarketWatch",
      "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
+    },
+    {
+     "title": "回答生命起源最老的一道题，法国95岁学者和日本76岁学者共获诺贝尔化学奖",
+     "link": "http://www.eeo.com.cn/2026/1007/1057023.shtml",
+     "pubDate": "Wed, 07 Oct 2026 21:26:16 +0800",
+     "summary": "本文来源：时代周报 作者：马欢 特约记者 据央视新闻，当地时间10月7日，2026年诺贝尔化学奖揭晓。 今年，瑞典皇家科学院将诺贝尔化学奖授予法国化学家亨利·卡根（Henri Kagan）和日本化学家硤合宪三（Kenso Soai），以表彰他们“在不对称有机合成中的非线性效应和自催化方面的发现”。 <p class=\"imgswarp nw_editor nw_img time-article-imgText-box nw_editor nw_img\" contenteditable=\"false\" id=\"imgTextB...",
+     "source": "经济观察网",
+     "zh": "回答生命起源最老的一道题，法国95岁学者和日本76岁学者共获诺贝尔化学奖"
     },
     {
      "title": "Kalshi is coming for ‘Dancing with the Stars’ fans",
@@ -2354,20 +2410,20 @@ window.INDUSTRY_DATA = {
      "zh": "We need a US debt conversation — will the Republicans have one?"
     },
     {
-     "title": "Parental controls aren’t just for kids anymore",
-     "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-     "pubDate": "Wed, 07 Oct 2026 12:49:00 GMT",
-     "summary": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-     "source": "MarketWatch",
-     "zh": "Parental controls aren’t just for kids anymore"
+     "title": "围海股份：关于工程项目预中标公示的公告",
+     "link": "http://www.eeo.com.cn/2026/1007/1057016.shtml",
+     "pubDate": "Wed, 07 Oct 2026 20:52:27 +0800",
+     "summary": "证券日报网讯10月7日，围海股份发布公告称，公司于2026年9月30日在浙江省公共资源交易服务平台查询获悉，确定公司为“苕溪防洪治理工程施工2标”项目的中标候选人，项目投标报价为162,468,560.10元（具体合同金额以双方最终签订的合同为准），公示期起止日期为2026年9月30日至2026年10月8日。预中标金额占公司2025年经审计营业总收入的7.76%。 （编辑 丛可心）",
+     "source": "经济观察网",
+     "zh": "围海股份：关于工程项目预中标公示的公告"
     },
     {
-     "title": "Intel investors get some reassurance from Elon Musk over a major chip endeavor",
-     "link": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
-     "pubDate": "Wed, 07 Oct 2026 12:46:00 GMT",
-     "summary": "Elon Musk and Intel’s CEO have said the company’s involvement in the Terafab chip plant will continue, boosting shares.",
-     "source": "MarketWatch",
-     "zh": "Intel investors get some reassurance from Elon Musk over a major chip endeavor"
+     "title": "本溪：一座“野性”与文艺并存的小城 | 耍起",
+     "link": "http://www.eeo.com.cn/2026/1007/1057014.shtml",
+     "pubDate": "Wed, 07 Oct 2026 20:49:00 +0800",
+     "summary": "东北以外的很多人并不知道这座小城，比起沈阳、铁岭、锦州等城市，本溪显得低调内敛，正如它被群山环绕的地势那样，你必得翻过那连绵群山，才能一窥本溪的真容。",
+     "source": "经济观察网",
+     "zh": "本溪：一座“野性”与文艺并存的小城 | 耍起"
     },
     {
      "title": "10-year Treasury note yield hits highest level since 2002 as traders brace for key bond sale",
@@ -2424,54 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "如今，Anthropic把“AI安全”做成了公司的核心标签，但很少有人知道，这家公司的联合创始人兼总裁Daniela Amodei，早年竟曾和丈夫Holden Karnofsky靠一群毛绒玩具来讨论管理问题。 这些玩具被赋予了不同的性格：有的专门负责“少开会、少给自己找麻烦”，有的强调规则、细节和执行，还有的负责提醒决策者保持同情心。 面对一个棘手的职场问题，Daniela和丈夫会让这些虚拟角色分别“发表意见”，以此模拟不同类型的管理者可能作出的选择。 这段颇为私人、甚至有些童趣的往事，发生在Daniela还任职于OpenAI的时期。而就在这段时期，她和哥哥Dario Amodei也正逐渐与O",
      "source": "华尔街见闻",
      "zh": "毛绒玩具当“顾问”？Anthropic总裁的OpenAI往事，从角色扮演到AI“安全巨头”"
-    },
-    {
-     "title": "十大机构论市：节后A股有望“量价齐升”",
-     "link": "http://finance.eastmoney.com/news/1345,202610073888915179.html",
-     "pubDate": "Wed, 07 Oct 2026 19:16:32 +0800",
-     "summary": "节前一周沪指下跌1.19%，深证成指下跌3.22%，创业板指下跌4.67%。本周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 广发策略：节后A股市场有望“量价齐升” 在一轮牛市中，调整伴随缩量是常态，当前缩量55%并不罕见。中短期角度，缩量55%反而对应不错的短期反弹机会。缩量60%是关键阈值，对应本轮成交额MA5约1.4万亿元，当前滚动平均成交额仍有1.6万亿元。节前全A的缩量也受到国庆长假日历效应的冲击，并不能反映当前全市场的参与意愿降低到警戒水平。这种“节前缩量”的特征，基本上在节后一周内即基本恢复至前期缩量前的水平。同时考虑 纳斯达克 、 英伟达 、 台积电 先后新",
-     "source": "东方财富资讯",
-     "zh": "十大机构论市：节后A股有望“量价齐升”"
-    },
-    {
-     "title": "近四年来首次加息！印度央行上调基准利率至5.5%，立场转为“有序收紧”",
-     "link": "https://wallstreetcn.com/articles/3783120",
-     "pubDate": "Wed, 07 Oct 2026 19:15:55 +0800",
-     "summary": "印度储备银行（RBI）周三将基准回购利率上调25个基点至5.5%，这是近四年来的首次加息，标志着印度货币政策周期的重要转向。 货币政策委员会（MPC）在宣布加息的同时， 将政策立场由\"中性\"调整为\"有序收紧\"。 RBI行长Sanjay Malhotra在会议结束后宣布了上述决定。此次政策转向符合市场此前的普遍预期。 此次加息将印度基准利率从5.25%推升至5.5%，RBI将决策依据归结为通胀压力持续上升以及经济保持强劲增长。对于投资者而言，政策立场的同步转变意味着本轮加息周期可能尚未结束。 加息背景：通胀与增长双重驱动 RBI本轮加息决定由通胀忧虑与经济动能共同支撑。委员会六名成员一致同意上调",
-     "source": "华尔街见闻",
-     "zh": "近四年来首次加息！印度央行上调基准利率至5.5%，立场转为“有序收紧”"
-    },
-    {
-     "title": "2026年诺贝尔化学奖揭晓：两位科学家破解生命手性之谜，成果深刻影响制药产业",
-     "link": "https://wallstreetcn.com/articles/3783117",
-     "pubDate": "Wed, 07 Oct 2026 19:11:30 +0800",
-     "summary": "法国化学家Henri B. Kagan与日本化学家Kenso Soai因在不对称有机合成中发现非线性效应与自催化现象，共同摘得2026年诺贝尔化学奖。 他们的研究解答了困扰化学界逾百年的核心谜题：生命为何只选择分子的一种镜像。 瑞典皇家科学院表示， 两位得主的发现使化学家得以驱动反应朝单一手性方向进行，打破了此前实验室中始终生成等量镜像分子的僵局。 诺贝尔化学委员会主席Heiner Linke评价称，两人\"提供了一个逾百年化学谜题的解答，他们所发展的化学反应令人叹为观止\"。两人将平分1200万瑞典克朗奖金。 这一荣誉在制药、香料及农用化学品行业具有直接现实意义。凡涉及生产与生命体相互作用物质的",
-     "source": "华尔街见闻",
-     "zh": "2026年诺贝尔化学奖揭晓：两位科学家破解生命手性之谜，成果深刻影响制药产业"
-    },
-    {
-     "title": "Goldman Sachs appoints bankiong tech co-head",
-     "link": "https://www.finextra.com/newsarticle/48547/goldman-sachs-appoints-bankiong-tech-co-head?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Wed, 07 Oct 2026 11:03:00 GMT",
-     "summary": "Wall Street bank Goldman Sachs has named senior tech bank executive Jane Dunlevie as its new co-head of the technology, media and telecommunications investment banking group.",
-     "source": "Finextra",
-     "zh": "Goldman Sachs appoints bankiong tech co-head"
-    },
-    {
-     "title": "暂不救市，欧央行：解决财政困境非我职责，法国需自救",
-     "link": "https://wallstreetcn.com/articles/3783114",
-     "pubDate": "Wed, 07 Oct 2026 19:01:32 +0800",
-     "summary": "法国债市的压力正在从财政失衡，演变为一场央行、政府与总统候选人同时卷入的政治博弈。 10月7日，据彭博报道，欧洲央行管委会成员、法兰西银行行长Emmanuel Moulin明确表示，法国债市形势“严峻而复杂”，但尚未满足欧央行介入条件。 “欧央行不是为了处理各国的财政问题而存在的”，法国必须通过预算和财政调整自行解决问题。 法国国债近期遭遇抛售，10年期国债与德国国债利差一度扩大至约160个基点，创2011—2012年欧债危机以来新高。尽管随着部分投资者入场，该利差周二回落至约127个基点，但市场对法国财政可持续性的担忧并未消退。而总统大选临近，又让市场开始提前定价下一届政府的财政路线。 极右",
-     "source": "华尔街见闻",
-     "zh": "暂不救市，欧央行：解决财政困境非我职责，法国需自救"
-    },
-    {
-     "title": "为何美债收益率、纳指同步新高？广发刘晨明：产业周期大幅降速才是科技股牛熊“分水岭”",
-     "link": "https://wallstreetcn.com/articles/3783119",
-     "pubDate": "Wed, 07 Oct 2026 18:59:46 +0800",
-     "summary": "国庆假期期间，美债收益率与纳斯达克指数同步创出新高：10年期美债收益率升至5.3%以上，创2002年以来新高，英伟达、台积电等科技龙头股价也持续走强。利率上行通常意味着估值承压，但这一轮科技行情却呈现出明显的“利率脱敏”，背后的关键在于产业周期仍处于高景气阶段。 广发证券刘晨明团队报告指出， 当前全球半导体周期大概率仍处于“加速上行”或“高速震荡”阶段，而不是即将进入大幅降速期。对于科技股而言，利率变化更多影响短期估值，真正决定中期行情方向的仍是产业景气度。 历史数据也印证了这一点。过去三十余年，道琼斯工业指数与10年期美债收益率的相关系数为-0.41，而费城半导体指数仅为-0.13；相比之下",
-     "source": "华尔街见闻",
-     "zh": "为何美债收益率、纳指同步新高？广发刘晨明：产业周期大幅降速才是科技股牛熊“分水岭”"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/8 03:56:02",
+ "generated_at": "2026/10/8 04:01:46",
  "recent_days": 7,
  "industries": [
   {
@@ -15,14 +15,6 @@
      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
      "source": "TechCrunch AI",
      "zh": "Meta 的 Muse 在首次推出移动设备一个月后就在 iPad 上推出"
-    },
-    {
-     "title": "Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens",
-     "link": "https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/",
-     "pubDate": "Wed, 07 Oct 2026 18:23:45 +0000",
-     "summary": "Liquid AI has released Open d1, two open-weight multimodal models in its d1 decision model family. d1-3B reads text and images. d1-omni-600M reads text with an image, or text with audio. Neither model writes text. Each returns calibrated, typed answers in one forward pass with zero output tokens. Th",
-     "source": "MarkTechPost",
-     "zh": "Liquid AI 发布 Open-Weight d1-3B 和 d1-omni-600M：零输出代币的多模态决策模型"
     },
     {
      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
@@ -247,6 +239,14 @@
      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
      "source": "OpenAI",
      "zh": "GPT-6 和适合所有人的智能 UI"
+    },
+    {
+     "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+     "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+     "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
+     "summary": "",
+     "source": "DeepMind",
+     "zh": "EmbeddingGemma 2：开放、轻量级的多模态嵌入模型"
     }
    ]
   },
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Why AI’s Limit Is Power, Not Chips: Gopi Sirineni at AI Infra Summit 2026",
+     "link": "https://www.eetimes.com/why-ais-limit-is-power-not-chips-gopi-sirineni-at-ai-infra-summit-2026/",
+     "pubDate": "Wed, 07 Oct 2026 19:56:58 +0000",
+     "summary": "Gopi Sirineni says AI’s bottleneck is power, not chips, and autonomous rack controllers can boost efficiency up to 30%. The post Why AI’s Limit Is Power, Not Chips: Gopi Sirineni at AI Infra Summit 2026 appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "为什么人工智能的限制是功率，而不是芯片：Gopi Sirineni 在 2026 年人工智能基础设施峰会上"
+    },
     {
      "title": "Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)",
      "link": "https://semiengineering.com/hyper-na-euv-the-next-extension-beyond-high-na-lithography-carl-zeiss-asml/",
@@ -297,22 +305,6 @@
      "zh": "从云到芯片：IC-Link 和台积电打开大门"
     },
     {
-     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-10/",
-     "pubDate": "Wed, 07 Oct 2026 15:00:02 +0000",
-     "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "获取时事通讯形式的《Mannerisms》、《Gadget Master》、《每日》和《每周》"
-    },
-    {
-     "title": "Teradyne Magnum E2 addresses advanced DRAM and high-speed NAND flash",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/magnum-e2-addresses-advanced-dram-and-high-speed-nand-flash-2026-10/",
-     "pubDate": "Wed, 07 Oct 2026 14:34:52 +0000",
-     "summary": "The Teradyne Magnum E2 is a high-speed memory test system for advanced DRAM and flash interfaces. Its design, says the company, matches the test demands driven by AI and high-performance […] The post Teradyne Magnum E2 addresses advanced DRAM and high-speed NAND flash appeared first on Electronics W",
-     "source": "Electronics Weekly",
-     "zh": "Teradyne Magnum E2 适用于先进 DRAM 和高速 NAND 闪存"
-    },
-    {
      "title": "Enhance Power Quality with a GaN-based AC/DC Three-Level Vienna Rectifier",
      "link": "https://www.eetimes.com/enhance-power-quality-with-a-gan-based-ac-dc-three-level-vienna-rectifier/",
      "pubDate": "Wed, 07 Oct 2026 14:00:00 +0000",
@@ -327,14 +319,6 @@
      "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
      "source": "IEEE Spectrum 半导体",
      "zh": "美国刚刚在量子芯片制造上投入 10 亿美元"
-    },
-    {
-     "title": "Queen’s University opens Advanced Manufacturing Innovation Centre",
-     "link": "https://www.electronicsweekly.com/news/business/manufacturing/queens-university-opens-advanced-manufacturing-innovation-centre-2026-10/",
-     "pubDate": "Wed, 07 Oct 2026 13:06:21 +0000",
-     "summary": "Queen’s University has officially opened the Advanced Manufacturing Innovation Centre (AMIC), a £100m investment through the Belfast Region City Deal to support innovation and growth for manufacturing in Northern Ireland. […] The post Queen’s University opens Advanced Manufacturing Innovation Centre",
-     "source": "Electronics Weekly",
-     "zh": "女王大学开设先进制造创新中心"
     },
     {
      "title": "Wilson Survey Signals Need for New Understanding of Verification Success",
@@ -359,14 +343,6 @@
      "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
      "source": "Semiconductor Today",
      "zh": "KnowMade 报告称，2026 年第二季度由工业受让人主导的功率 GaN 专利申请"
-    },
-    {
-     "title": "An Orderly De-Frothing?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/an-orderly-de-frothing-2026-10/",
-     "pubDate": "Wed, 07 Oct 2026 11:15:05 +0000",
-     "summary": "There’s a chance that the de-frothing of the AI market could be an orderly retreat rather than a sudden bust. Anthropic’s two largest customers are weaning themselves off Anthropic products […] The post An Orderly De-Frothing? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "有序除泡？"
     },
     {
      "title": "Mivium demonstrates commercially viable production of phase-pure h-GaN nanoparticles",
@@ -407,14 +383,6 @@
      "summary": "Anduril Industries said it will spend US$3.7 billion to build Arsenal-2, a next-generation software-defined shipyard at Sparrows Point in Baltimore County, Maryland. The US Navy is backing the project with a contract worth up to US$2.9 billion tied to production results, bringing the total commitmen",
      "source": "DIGITIMES",
      "zh": "Anduril将在马里兰州造船厂投资37亿美元用于潜艇供应链"
-    },
-    {
-     "title": "Omron R1 inverter drives into high-power applications",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/omron-r1-inverter-drives-into-high-power-applications-2026-10/",
-     "pubDate": "Wed, 07 Oct 2026 09:17:52 +0000",
-     "summary": "Omron is introducing its R1 (3G3R1) variable speed drive as the most powerful member of its inverter family, for demanding, high-power applications. For example in pump sequencing, solar pumping entrance […] The post Omron R1 inverter drives into high-power applications appeared first on Electronics",
-     "source": "Electronics Weekly",
-     "zh": "欧姆龙R1变频器进军大功率应用"
     },
     {
      "title": "Navitas completes acquisition of Claros, extending AI infrastructure power delivery portfolio from grid to xPU",
@@ -465,14 +433,6 @@
      "zh": "Qorvo 推出适用于 AESA 雷达的 X 波段射频前端"
     },
     {
-     "title": "Don’t get drunk on the numbers, says Penn",
-     "link": "https://www.electronicsweekly.com/news/dont-get-drunk-on-the-numbers-says-penn-2026-10/",
-     "pubDate": "Wed, 07 Oct 2026 07:16:47 +0000",
-     "summary": "The aberrant behaviour of the chip market has changed in one respect – unit volumes are growing again – although ASPs are still responsible for 90% of the dollar growth, […] The post Don’t get drunk on the numbers, says Penn appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "佩恩说，不要沉迷于数字"
-    },
-    {
      "title": "Thermal Complexity Grows With AI Chips And Photonics",
      "link": "https://semiengineering.com/thermal-complexity-grows-with-ai-chips-and-photonics/",
      "pubDate": "Wed, 07 Oct 2026 07:01:34 +0000",
@@ -489,12 +449,52 @@
      "zh": "博客评论：10 月 7 日"
     },
     {
-     "title": "The AI Boom Has a Gigawatt Accounting Problem",
-     "link": "https://www.eetimes.com/the-ai-boom-has-a-gigawatt-accounting-problem/",
-     "pubDate": "Tue, 06 Oct 2026 21:57:47 +0000",
-     "summary": "Track energized compute, not gigawatts, as AI data centers face delays in memory, networking, cooling, and power. The post The AI Boom Has a Gigawatt Accounting Problem appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "人工智能热潮存在千兆瓦计算问题"
+     "title": "Ultra-Compact Photonic Bends Reduce Loss While Meeting Foundry Rules (Georgia Tech)",
+     "link": "https://semiengineering.com/ultra-compact-photonic-bends-reduce-loss-while-meeting-foundry-rules-georgia-tech/",
+     "pubDate": "Tue, 06 Oct 2026 21:45:13 +0000",
+     "summary": "Researchers at Georgia Institute of Technology published a technical paper titled “Low-loss ultra-compact photonic bends with enhanced fabrication tolerance for commercial foundry processes.” Abstract Excerpt: “We present a methodology and experimentally validate it with the design of high-performan",
+     "source": "Semiconductor Engineering",
+     "zh": "超紧凑光子弯曲可减少损耗，同时满足铸造规则（佐治亚理工学院）"
+    },
+    {
+     "title": "Monolithic 3D Memristor-TFT Stack For Programmable Neuromorphic Computing (SNU, Yonsei)",
+     "link": "https://semiengineering.com/monolithic-3d-memristor-tft-stack-for-programmable-neuromorphic-computing-snu-yonsei/",
+     "pubDate": "Tue, 06 Oct 2026 21:29:31 +0000",
+     "summary": "Researchers at Seoul National University and Yonsei University published a technical paper titled “Monolithic three-dimensionally integrated memristor-thin-film transistor for electrically programmable multimode reservoir computing.” Abstract Excerpt: “Reservoir computing offers an efficient framewo",
+     "source": "Semiconductor Engineering",
+     "zh": "用于可编程神经形态计算的单片 3D 忆阻器-TFT 堆栈（首尔国立大学、延世大学）"
+    },
+    {
+     "title": "Programmable Memory Controller Eases Adoption of New DRAM Techniques (ETH Zürich, CISPA, NYU)",
+     "link": "https://semiengineering.com/programmable-memory-controller-eases-adoption-of-new-dram-techniques-eth-zurich-cispa-nyu/",
+     "pubDate": "Tue, 06 Oct 2026 20:58:05 +0000",
+     "summary": "Researchers at ETH Zürich, CISPA, and New York University published a technical paper titled “Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface and Memory Controller.” Abstract Excerpt: “DRAM continues to limit the performance, energy efficiency, and robustness o",
+     "source": "Semiconductor Engineering",
+     "zh": "可编程内存控制器简化了新 DRAM 技术的采用（苏黎世联邦理工学院、CISPA、纽约大学）"
+    },
+    {
+     "title": "Skyworks completes combination with Qorvo",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/skyworks-qorvo-061026.shtml",
+     "pubDate": "Tue, 6 Oct 2026 20:44:24 +0100",
+     "summary": "Skyworks Solutions Inc of Irvine, CA, USA has announced the completion of its combination with Qorvo Inc of Greensboro, NC, USA, creating a US-based provider of high-performance radio frequency (RF), power management, and analog and mixed-signal semiconductor solutions...",
+     "source": "Semiconductor Today",
+     "zh": "Skyworks 完成与 Qorvo 的合并"
+    },
+    {
+     "title": "Beyond the Die: Verifying the Connected Chip",
+     "link": "https://semiwiki.com/eda/siemens-eda/374270-beyond-the-die-verifying-the-connected-chip/",
+     "pubDate": "Tue, 06 Oct 2026 17:00:42 +0000",
+     "summary": "One of the standout presentations at the 2026 TSMC OIP Forum highlighted a collaboration between Siemens EDA, Marvell, and TSMC. I always appreciate EDA presentations that bring together customer and foundry perspectives, and this one did not disappoint. We follow 3D IC technology closely and have p",
+     "source": "SemiWiki",
+     "zh": "芯片之外：验证连接的芯片"
+    },
+    {
+     "title": "Built to Deliver the Answer, Not to Train the Model",
+     "link": "https://semiwiki.com/semiconductor-manufacturers/vsora/374232-built-to-deliver-the-answer-not-to-train-the-model/",
+     "pubDate": "Tue, 06 Oct 2026 15:00:36 +0000",
+     "summary": "How VSORA rebalances memory and compute for AI inference in the data center and at the edge For more than a decade, the AI hardware industry focused mainly on model training, while inference represented a smaller share of overall demand. That balance is changing as trained models are deployed widely",
+     "source": "SemiWiki",
+     "zh": "旨在提供答案，而不是训练模型"
     }
    ]
   },
@@ -838,7 +838,7 @@
      "pubDate": "Thu, 01 Oct 2026 12:50:38 +0000",
      "summary": "GWM sold 114,944 vehicles in September, down 13.99% year-on-year, bringing sales for the first 9 months into decline at 0.33%. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "国内经济衰退加剧 长城汽车9月销量跌14%创今年最大降幅"
+     "zh": "国内经济衰退加剧 长城汽车9月销量跌14%创今年最大跌幅"
     },
     {
      "title": "Geely September sales rise 7% to 2026 high as record export streak ends",
@@ -856,6 +856,14 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
+     "link": "https://oilprice.com/Energy/Energy-General/Global-Diesel-Crunch-Fuels-New-Wave-of-Energy-Nationalism.html",
+     "pubDate": "Wed, 07 Oct 2026 15:00:00 -0500",
+     "summary": "Global fuel stocks are tighter than they have probably ever been. China just imposed a ban on all fuel exports for the month. Russia has had a diesel export ban in place for months. The United States threatened Europe with a diesel export ban unless European countries released some fuel from storage",
+     "source": "OilPrice",
+     "zh": "全球柴油紧缩助长新一波能源民族主义"
+    },
     {
      "title": "Google Secures 890 MW Of Nuclear Power from Constellation Energy",
      "link": "https://oilprice.com/Energy/Energy-General/Google-Secures-890-MW-Of-Nuclear-Power-from-Constellation-Energy.html",
@@ -905,14 +913,6 @@
      "zh": "SpaceX 寻求批准 32 英里佛罗里达天然气管道"
     },
     {
-     "title": "Europe Moves to Curb the Flood of Chinese Hybrid Cars",
-     "link": "https://oilprice.com/Energy/Energy-General/Europe-Moves-to-Curb-the-Flood-of-Chinese-Hybrid-Cars.html",
-     "pubDate": "Wed, 07 Oct 2026 11:00:00 -0500",
-     "summary": "Some ten years after it should have, Europe is finally reaching for the brakes. According to Bloomberg, the European Commission is preparing so-called safeguard measures to limit imports of Chinese hybrid vehicles, most likely via tariff-rate quotas that slap a levy on anything above a set volume. T",
-     "source": "OilPrice",
-     "zh": "欧洲采取行动遏制中国混合动力汽车泛滥"
-    },
-    {
      "title": "Toyo cuts the ribbon on its newly-expanded solar factory in Texas",
      "link": "https://www.pv-magazine.com/2026/10/07/toyo-cuts-the-ribbon-on-its-newly-expanded-solar-factory-in-texas/",
      "pubDate": "Wed, 07 Oct 2026 15:37:43 +0000",
@@ -958,7 +958,7 @@
      "pubDate": "Wed, 07 Oct 2026 13:35:01 +0000",
      "summary": "Solar and battery storage supported 982,000 jobs in the EU in 2025, with PV accounting for 874,000 positions. Solar employment is expected to decline by 2030 as deployment slows, despite growth in operations, maintenance, manufacturing and recycling jobs. The post Solar and storage accounted for nea",
      "source": "pv magazine",
-     "zh": "到2025年，太阳能和存储将占欧盟近100万个就业岗位"
+     "zh": "到2025年，太阳能和存储将在欧盟创造近100万个就业岗位"
     },
     {
      "title": "Sonnedix adds 54MW of Italian solar assets, taking operational portfolio above 1.3GW",
@@ -1238,7 +1238,7 @@
      "pubDate": "Wed, 07 Oct 2026 14:06:29 +0000",
      "summary": "In a setback for Merck, a Dutch court ordered a halt to the manufacturing and marketing of a subcutaneous formulation of Keytruda in several European countries.",
      "source": "STAT News",
-     "zh": "STAT+：默克公司在欧洲因其新的 Keytruda 配方而遭受挫折"
+     "zh": "STAT+：默克公司的新 Keytruda 配方在欧洲遭遇挫折"
     },
     {
      "title": "STAT+: Forbion raises $2.6 billion, its largest fundraise to date",
@@ -1268,7 +1268,7 @@
      "title": "A Takeda spinout builds case for its Parkinson’s drug",
      "link": "https://www.biopharmadive.com/news/cerevance-solengepras-parkinsons-study-results/832324/",
      "pubDate": "Wed, 07 Oct 2026 08:01:00 -0400",
-     "summary": "Cerevance plans to meet with the FDA to &ldquo;determine next steps&rdquo; for a new kind of medicine known as solengepras, now that it has Phase 3 data in hand.",
+     "summary": "Cerevance plans to meet with the FDA to determine next steps for a new kind of medicine known as solengepras, now that it has Phase 3 data in hand.",
      "source": "BioPharma Dive",
      "zh": "武田分拆公司为其帕金森病药物建立案例"
     },
@@ -1753,6 +1753,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Best October Prime Day Deals to Shop Before the Sale Ends (2026)",
+     "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/",
+     "pubDate": "Wed, 07 Oct 2026 19:48:52 +0000",
+     "summary": "Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
+     "source": "WIRED",
+     "zh": "促销结束前十月黄金日最佳购物优惠（2026 年）"
+    },
+    {
      "title": "Best Shark Prime Day Vacuum Deals (2026)",
      "link": "https://www.wired.com/story/shark-prime-day-vacuum-deals-10-07-2026/",
      "pubDate": "Wed, 07 Oct 2026 19:46:11 +0000",
@@ -1857,14 +1865,6 @@
      "zh": "促销结束前亚马逊 Prime Day 耳机最佳优惠（2026）"
     },
     {
-     "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-     "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-     "pubDate": "Wed, 07 Oct 2026 18:45:00 +0000",
-     "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
-     "source": "WIRED",
-     "zh": "这些研究人员让人工智能驱动丰田卡罗拉进进出出"
-    },
-    {
      "title": "Push Ifs Up and Fors Down: The Idiom, Its Algebra, and Its Limits",
      "link": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
      "pubDate": "Wed, 07 Oct 2026 18:43:18 +0000",
@@ -1878,7 +1878,7 @@
      "pubDate": "Wed, 07 Oct 2026 14:40:02 -0400",
      "summary": "OpenAI : OpenAI rolls out GPT-6 in ChatGPT with Intelligent UI, a new feature that includes interactive elements like charts, buttons, and forms in answers &nbsp; &mdash;&nbsp; Last month we introduced the first GPT-6 models for paid customers and today we're bringing that next generation of intelli",
      "source": "Techmeme",
-     "zh": "OpenAI 在带有智能 UI 的 ChatGPT 中推出 GPT-6，这是一项新功能，其中包括图表、按钮和答案中的表单等交互元素 (OpenAI)"
+     "zh": "OpenAI 在 ChatGPT 中推出带有智能 UI 的 GPT-6，这是一项新功能，其中包括图表、按钮和答案中的表单等交互元素 (OpenAI)"
     },
     {
      "title": "微软描绘 Autopilot 全新蓝图：让 Windows AI 从“回答问题”走向“执行任务”",
@@ -2022,7 +2022,7 @@
      "pubDate": "Wed, 07 Oct 2026 19:34:00 +0000",
      "summary": "Update 10/7: Amazon now has official countdown clocks on thousands of deal prices set to end at Midnight Cupertino time, and the particularly notable AirPods Pro 3 discount is one of them – get in there while you can. With the Amazon fall Prime Day event now underway, it is one of the best times of ",
      "source": "9to5Mac",
-     "zh": "最后机会：Apple 旗舰 AirPods 在 Prime Day 最高折扣 120 美元"
+     "zh": "最后机会：Apple 旗舰版 AirPods 在 Prime Day 最高折扣 120 美元"
     },
     {
      "title": "Microsoft's Surface RTX Spark Dev Box costs an eye-watering $6,000",
@@ -2110,7 +2110,7 @@
      "pubDate": "Wed, 07 Oct 2026 17:52:55 +0000",
      "summary": "The big event will also air on ABC and ESPN.",
      "source": "Engadget",
-     "zh": "Disney+ 将直播超级碗以及一些周一橄榄球之夜比赛"
+     "zh": "Disney+ 将直播超级碗以及一些周一橄榄球之夜的比赛"
     },
     {
      "title": "Hands-on: Sonos Ace Ultra fix nearly everything I wanted from the original [Video]",
@@ -2174,7 +2174,7 @@
      "pubDate": "Wed, 07 Oct 2026 17:04:00 +0000",
      "summary": "When Google added Pixelsnap to the Pixel 10 series, it wasn’t just building in support for all kinds of magnetic accessories — it was also adding in some excellent software functionality, like upgraded screensavers for when your phone is docked and charging. After gaining some new styles and feature",
      "source": "9to5Google",
-     "zh": "谷歌开始在 Pixel 9 上推出升级版 Pixel 屏保"
+     "zh": "谷歌开始在 Pixel 9 上推出升级版 Pixel 屏幕保护程序"
     },
     {
      "title": "Apple is working with LG on new smart home products, here are the details",
@@ -2255,6 +2255,14 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA 问：Skydance 投资者在合并后应注意什么？"
+    },
+    {
+     "title": "假日消费多点开花 多元场景释放活力",
+     "link": "http://stock.eastmoney.com/news/11134,202610083889022152.html",
+     "pubDate": "Thu, 08 Oct 2026 03:50:58 +0800",
+     "summary": "车市门店客流回升：“试驾车基本全天约满” 国庆假期，车市迎来传统“金九银十”的关键窗口期。证券时报记者走访上海多个 新能源 汽车 品牌线下门店获悉，依托新车上市、地方购车补贴，叠加车企假期限时促销，门店客流回升明显。 记者了解到，国庆假期前夕，区级补贴升级进一步释放了 汽车 消费潜力。以上海市嘉定区为例，嘉定区于9月24日推出“金秋焕新 ‘嘉’速启程”2026年嘉定区第二轮 汽车 促消费补贴活动，个人消费者在嘉定区购买符合要求的小客车新车可获得最高10000元/辆的消费补贴。政策红利进一步降低市民购车成本，不少有置换需求的消费者专门趁着国庆假期到店看车对比。 “国庆这几天试驾车基本全天约满，经",
+     "source": "东方财富股票",
+     "zh": "假日消费多点开花 多元场景释放活力"
     },
     {
      "title": "Pentagon drafting pre-midterm strike options against Iran - report",
@@ -2345,12 +2353,12 @@
      "zh": "Hinge Health 寻求更多收购以支持增长：彭博社"
     },
     {
-     "title": "OpenAI称面向全球所有免费及付费计划的ChatGPT用户推出GPT-6 替代原有的GPT-5.6 Sol与GPT-5.6 Luna",
-     "link": "http://finance.eastmoney.com/news/1360,202610083889021957.html",
-     "pubDate": "Thu, 08 Oct 2026 03:27:03 +0800",
-     "summary": "OpenAI称面向全球所有免费及付费计划的ChatGPT用户推出GPT-6，替代原有的GPT-5.6 Sol与GPT-5.6 Luna。GPT-6集成Astra安全技术改进，强化针对网络、生物与暴力领域滥用的防护。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "OpenAI称面向全球所有免费及付费计划的ChatGPT用户推出GPT-6 替代原有的GPT-5.6 Sol与GPT-5.6 Luna"
+     "title": "美联储会议纪要：全体19名决策者支持9月加息但理由不一，多数预计年内还加，暗示10月不急",
+     "link": "https://wallstreetcn.com/articles/3783127",
+     "pubDate": "Thu, 08 Oct 2026 03:20:18 +0800",
+     "summary": "美联储9月会议纪要显示，在加息决策上，联储决策层展现出偏鹰派的一致立场，虽然他们支持加息的理由存在分歧。 根据周三公布的9月15日至16日联邦公开市场委员会（FOMC）会议纪要， 19名美联储高级官员均支持将联邦基金利率目标区间上调25个基点 至3.75%至4.00%。这是美联储自2023年7月以来首次加息。 纪要显示，“多数与会者认为，在今年年底前进一步上调联邦基金利率目标区间可能是合适的。”但与会者同时强调，他们对待每一次会议都持开放态度，未来会议的政策决定将取决于届时获得的最新信息。 有 “新美联储通讯社” 之称的记者Nick Timiraos强调美联储会议纪要内容： “关于当前会议之后",
+     "source": "华尔街见闻",
+     "zh": "美联储会议纪要：全体19名决策者支持9月加息但理由不一，多数预计年内还加，暗示10月不急"
     },
     {
      "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
@@ -2383,14 +2391,6 @@
      "summary": "U.S. Treasury yields came off their highs after a solid sale of 10-year notes.",
      "source": "CNBC",
      "zh": "稳健的债券拍卖缓解了需求担忧，10年期国债收益率从24年高点回落"
-    },
-    {
-     "title": "美股三大指数集体下跌 芯片股走低 费城半导体指数跌超1%",
-     "link": "http://finance.eastmoney.com/news/1345,202610073888943871.html",
-     "pubDate": "Thu, 08 Oct 2026 02:45:23 +0800",
-     "summary": "美东时间周三，美股三大指数集体走低，截至发稿， 纳斯达克 指数跌0.29%，报27512.74点；标普500指数跌0.20%，报7803.13点；道琼斯指数跌0.61%，报51208.25点。 芯片 半导体 板块走低，费城 半导体 指数跌1.47%，报13023.00点。 台积电 跌1.85%、 安森美半导体 跌3.58%、 意法半导体 跌4.80%。光 通信 板块走低，Lumentum跌1.49%、 康宁 跌2.75%、 应用光电 跌5.51%。 美股 存储芯片 板块拉升，截至发稿， 闪迪 涨4.04%、 美光科技 涨3.86%、 希捷科技 跌0.28%、 西部数据 跌1.47%、 SK海力",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体下跌 芯片股走低 费城半导体指数跌超1%"
     },
     {
      "title": "Strange market anomaly is creating a buying opportunity in the Nasdaq 100",
@@ -2496,6 +2496,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Turning the tide on Massachusetts shellfishing data",
+     "link": "https://news.mit.edu/2026/turning-tide-massachusetts-shellfishing-data-1007",
+     "pubDate": "Wed, 07 Oct 2026 15:55:00 -0400",
+     "summary": "MIT researchers built a cloud-based platform to help Massachusetts coastal towns and the state manage shellfishing closures, giving thousands of permit holders a clearer view of where they can fish.",
+     "source": "MIT News",
+     "zh": "扭转马萨诸塞州贝类捕捞数据的潮流"
+    },
     {
      "title": "Scientists discover the genetic secrets that may have helped Jonathan the tortoise live to 194 years old",
      "link": "https://www.livescience.com/animals/turtles-tortoises/scientists-discover-the-genetic-secrets-that-may-have-helped-jonathan-the-tortoise-live-to-194-years-old",
@@ -2727,14 +2735,6 @@
      "summary": "Scientists assumed that energy flows in only one direction in a turbulent system. What they didn’t know, until they looked closely at brine shrimp, was that a simple factor can reverse the flow. The post Sea Monkeys Show Scientists How To Rewrite a Rule of Turbulence first appeared on Quanta Magazin",
      "source": "Quanta Magazine",
      "zh": "海猴向科学家展示如何重写湍流规则"
-    },
-    {
-     "title": "What Does the Fourth Dimension Actually Look Like?",
-     "link": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
-     "pubDate": "Thu, 01 Oct 2026 13:20:29 +0000",
-     "summary": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots. The post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine",
-     "source": "Quanta Magazine",
-     "zh": "第四维度实际上是什么样子？"
     }
    ]
   }

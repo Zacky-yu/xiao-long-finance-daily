@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/8 21:55:27",
+ "generated_at": "2026/10/8 21:59:56",
  "recent_days": 7,
  "industries": [
   {
@@ -20,7 +20,7 @@
      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
      "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
      "pubDate": "Thu, 08 Oct 2026 13:20:32 +0000",
-     "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.",
+     "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
      "source": "TechCrunch AI",
      "zh": "中国的 Manus 在与 Meta 分道扬镳后的第一轮融资中筹集了超过 5 亿美元"
     },
@@ -665,6 +665,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Tesla leaned on Dutch regulator to ease its FSD review, emails show",
+     "link": "https://electrek.co/2026/10/08/tesla-fsd-europe-rdw-pressure-reuters/",
+     "pubDate": "Thu, 08 Oct 2026 13:57:06 +0000",
+     "summary": "Tesla spent months pushing the Dutch vehicle regulator RDW to scale back its review of “Full Self-Driving (Supervised),” including disputing a €365,000 bill, according to emails obtained by Reuters. RDW later approved the system and is now asking the EU to do the same. That Dutch approval is the fou",
+     "source": "Electrek",
+     "zh": "电子邮件显示，特斯拉希望荷兰监管机构放宽 FSD 审查"
+    },
+    {
      "title": "Huawei-JAC brand Maextro pledges component redesign after brake test controversy",
      "link": "https://cnevpost.com/2026/10/08/maextro-pledges-component-redesign-brake-test-controversy/",
      "pubDate": "Thu, 08 Oct 2026 13:46:26 +0000",
@@ -801,14 +809,6 @@
      "zh": "特斯拉如何向欧洲监管机构施压以批准 FSD"
     },
     {
-     "title": "Tesla Cybercab loses its entire door panel in a Philadelphia crash",
-     "link": "https://electrek.co/2026/10/07/tesla-cybercab-crash-philadelphia-door-panel/",
-     "pubDate": "Wed, 07 Oct 2026 18:44:52 +0000",
-     "summary": "A Tesla Cybercab was involved in a crash in Philadelphia this week, and it came out of it missing the entire outer panel of its driver-side door. We don’t know who was at fault or whether Tesla’s software was driving. But Tesla has no permit to run automated vehicles in Pennsylvania, and that narrow",
-     "source": "Electrek",
-     "zh": "特斯拉 Cyber​​cab 在费城事故中失去了整个门板"
-    },
-    {
      "title": "The Rivian R2's 'Pet Mode' Now Lets You Monitor Your Dog With A Live Stream",
      "link": "https://insideevs.com/news/811090/rivian-r2-update-assistant-pet/",
      "pubDate": "Wed, 07 Oct 2026 17:22:53 +0000",
@@ -864,6 +864,14 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Global supply chain imbalance creates opportunities for overseas manufacturers to sell wafers to the US",
+     "link": "https://www.pv-tech.org/global-supply-chain-imbalance-opportunites-overseas-manufacturers-sell-wafers-the-us/",
+     "pubDate": "Thu, 08 Oct 2026 13:55:58 +0000",
+     "summary": "PV Talk: Indosol's Manoj Pothireddy tells PV Tech Premium that opportunities remain for overseas wafer manufacturers to export to the US.",
+     "source": "PV Tech",
+     "zh": "全球供应链失衡为海外厂商向美国销售晶圆创造机会"
+    },
     {
      "title": "Supertanker Rates Hit Record $1.4 Million a Day",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Supertanker-Rates-Hit-Record-14-Million-a-Day.html",
@@ -1055,14 +1063,6 @@
      "summary": "The soil in northwest Iowa is so fertile it’s referred to as “black gold.” “It’s incredibly rich, wonderful topsoil from thousands of years of silty deposits from the Missouri River,” said Luke Seaberg, a researcher at Iowa State University’s extension program. So rich that some counties restrict de",
      "source": "Canary Media",
      "zh": "爱荷华州一个不情愿的农业县如何解除电池存储禁令"
-    },
-    {
-     "title": "UNSW and UtmoLight set 23.5% efficiency record for large-area perovskite solar submodule",
-     "link": "https://www.pv-tech.org/unsw-and-utmolight-set-23-5-efficiency-record-for-large-area-perovskite-solar-submodule/",
-     "pubDate": "Thu, 08 Oct 2026 03:25:59 +0000",
-     "summary": "Researchers at UNSW and UtmoLight have achieved a certified stabilised efficiency of 23.5% for a large-area perovskite solar submodule.",
-     "source": "PV Tech",
-     "zh": "新南威尔士大学和 UtmoLight 创下大面积钙钛矿太阳能子组件 23.5% 的效率记录"
     },
     {
      "title": "Australia: Eku Energy locks community deals for 2.76GWh Queensland BESS duo as Valo wins 1.6GWh contract",
@@ -1313,6 +1313,14 @@
    "total": 6,
    "items": [
     {
+     "title": "What will it take to build a moon base?",
+     "link": "https://spacenews.com/what-will-it-take-to-build-a-moon-base/",
+     "pubDate": "Thu, 08 Oct 2026 13:57:38 +0000",
+     "summary": "In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […] The post What will it take to build a moon base? appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "建造月球基地需要什么？"
+    },
+    {
      "title": "Fortastra Raises $30M Series A to Fund its Next Security Spacecraft",
      "link": "https://payloadspace.com/fortastra-raises-30m-series-a-to-fund-its-next-security-spacecraft/",
      "pubDate": "Thu, 08 Oct 2026 13:00:00 +0000",
@@ -1527,14 +1535,6 @@
      "summary": "HOUSTON, Texas (September 30, 2026)— World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new uses […] The post World Space Week 2026 Celebrates the “Rocket Revolution” appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "2026 年世界太空周庆祝“火箭革命”"
-    },
-    {
-     "title": "Rethinking risk with electronics for space",
-     "link": "https://spacenews.com/rethinking-risk-with-electronics-for-space/",
-     "pubDate": "Thu, 01 Oct 2026 14:51:34 +0000",
-     "summary": "In this episode, SpaceNews’ Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward risk, […] The post Rethinking risk with electronics for space appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "重新思考太空电子产品的风险"
     }
    ]
   },
@@ -1753,6 +1753,14 @@
    "total": 18,
    "items": [
     {
+     "title": "European venture funding rose 77% YoY to $25B in Q3, the region&apos;s strongest funding quarter in four years, representing 16% of global VC and led by AI startups (Gené Teare/Crunchbase News)",
+     "link": "https://www.techmeme.com/261008/p28#a261008p28",
+     "pubDate": "Thu, 08 Oct 2026 09:55:01 -0400",
+     "summary": "Gen&eacute; Teare / Crunchbase News : European venture funding rose 77% YoY to $25B in Q3, the region's strongest funding quarter in four years, representing 16% of global VC and led by AI startups &nbsp; &mdash;&nbsp; In Q3, Europe posted its strongest venture funding quarter in four years, with AI",
+     "source": "Techmeme",
+     "zh": "第三季度欧洲风险投资同比增长 77% 至 25B 美元，这是该地区四年来最强劲的融资季度，占全球风险投资的 16%，由人工智能初创公司领衔（Gené Teare/Crunchbase News）"
+    },
+    {
      "title": "比亚迪方程豹钛 9 陨石黑车色官图公布，预计四季度上市",
      "link": "https://www.ithome.com/1/010/713.htm",
      "pubDate": "Thu, 08 Oct 2026 13:54:15 GMT",
@@ -1839,6 +1847,14 @@
      "summary": "Carl Franzen / VentureBeat : Google Cloud unveils a universal Gemini agent to handle multi-day enterprise workflows in Workspace, Microsoft 365, and Slack that supports several AI models &nbsp; &mdash;&nbsp; Google is unveiling a new universal AI agent for the workplace that can research information",
      "source": "Techmeme",
      "zh": "Google Cloud 推出通用 Gemini 代理，可处理 Workspace、Microsoft 365 和 Slack 中的多日企业工作流程，支持多种 AI 模型 (Carl Franzen/VentureBeat)"
+    },
+    {
+     "title": "美国男子因利用 AI 生成音乐和机器人账号欺诈播放被判 18 个月",
+     "link": "https://www.solidot.org/story?sid=85551",
+     "pubDate": "Thu, 08 Oct 2026 21:19:39 +0800",
+     "summary": "54 岁的美国北卡罗来纳州男子 Michael Smith 因 AI 辅助欺诈罪被判入狱 18 个月。他是首位涉嫌 AI 辅助流媒体欺诈而被刑事起诉的美国人。Smith 从 2017 年起利用虚假电邮账户和通过欺诈获取的借记卡在 Amazon Music 、Apple Music、Spotify 和 YouTube Music 等平台创建了数千个账号，使用软件操纵机器人程序，循环播放他声称拥有版权的歌曲——这些歌曲实际上都是 AI 生成的。到 2024 年被捕时他创作了数十万首 AI 生成歌曲，播放量多达数十亿次，从流媒体获取了数百万美元的收入。他的歌曲的总播放量甚至超过了当今最炙手可热的歌星",
+     "source": "Solidot",
+     "zh": "美国男子因利用 AI 生成音乐和机器人账号欺诈播放被判 18 个月"
     },
     {
      "title": "业绩失色，股价腰斩，西部材料仍要在高处定增“补血”",
@@ -1945,14 +1961,6 @@
      "zh": "Telnet 论坛指南"
     },
     {
-     "title": "Drones struck a data center owned by Russia&apos;s Yandex in the town of Sasovo, marking the first major attack on a Russian data hub since the Ukraine war began (Reuters)",
-     "link": "https://www.techmeme.com/261008/p22#a261008p22",
-     "pubDate": "Thu, 08 Oct 2026 08:25:01 -0400",
-     "summary": "Reuters : Drones struck a data center owned by Russia's Yandex in the town of Sasovo, marking the first major attack on a Russian data hub since the Ukraine war began &nbsp; &mdash;&nbsp; Drones hit a data centre owned by Russia's Yandex , the country's leading AI and technology company said on Thur",
-     "source": "Techmeme",
-     "zh": "无人机袭击了俄罗斯 Yandex 位于萨索沃镇的数据中心，这是自乌克兰战争开始以来对俄罗斯数据中心的首次重大攻击（路透社）"
-    },
-    {
      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
      "link": "https://quesma.com/blog/invisible-cities-one-shot/",
      "pubDate": "Thu, 08 Oct 2026 12:00:20 +0000",
@@ -1983,14 +1991,6 @@
      "summary": "Article URL: https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026 Comments URL: https://news.ycombinator.com/item?id=50004777 Points: 51 # Comments: 3",
      "source": "Hacker News",
      "zh": "安妮·卡森荣获 2026 年诺贝尔文学奖"
-    },
-    {
-     "title": "今年国庆，我在代王府共抗瓦剌",
-     "link": "https://www.tmtpost.com/8161358.html",
-     "pubDate": "Thu, 08 Oct 2026 19:51:53 +0800",
-     "summary": "你在北方共抗瓦剌，我在南方跟着团长打县城，我们都有光明的未来。",
-     "source": "钛媒体",
-     "zh": "今年国庆，我在代王府共抗瓦剌"
     }
    ]
   },
@@ -2249,12 +2249,60 @@
    "total": 13,
    "items": [
     {
+     "title": "RCI Hospitality Q4 club, sports bar sales rise 0.8% to $70.4M",
+     "link": "https://seekingalpha.com/news/4651388-rci-hospitality-q4-club-sports-bar-sales-rise-0_8-percent-to-70_4m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 08 Oct 2026 09:58:37 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "RCI Hospitality 第四季度俱乐部、运动酒吧销售额增长 0.8% 至 7,040 万美元"
+    },
+    {
+     "title": "Top Glove Corporation Bhd. reports Q4 results",
+     "link": "https://seekingalpha.com/news/4651389-top-glove-corporation-bhd-reports-q4-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 08 Oct 2026 09:58:32 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "顶级手套有限公司报告第四季度业绩"
+    },
+    {
      "title": "Hasbro opens its new Montreal studio for game development",
      "link": "https://seekingalpha.com/news/4651361-hasbro-opens-its-new-montreal-studio-for-game-development?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 08 Oct 2026 09:54:05 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "孩之宝在蒙特利尔开设新的游戏开发工作室"
+    },
+    {
+     "title": "费城半导体指数跌2%",
+     "link": "http://finance.eastmoney.com/news/11440,202610083889932123.html",
+     "pubDate": "Thu, 08 Oct 2026 21:54:05 +0800",
+     "summary": "费城 半导体 指数跌2%，报12804.62点。",
+     "source": "东方财富股票",
+     "zh": "费城半导体指数跌2%"
+    },
+    {
+     "title": "美的集团已回购近100亿元公司股份",
+     "link": "http://finance.eastmoney.com/news/1354,202610083889931947.html",
+     "pubDate": "Thu, 08 Oct 2026 21:53:32 +0800",
+     "summary": "10月8日晚间， 美的集团 （000333）披露关于以集中竞价交易方式回购A股股份进展情况的公告显示，截至9月30日，公司通过回购专用证券账户，以集中竞价交易方式累计回购公司A股股份数量为1.23亿股，占公司目前总股本的1.61%，最高成交价为87.71元/股，最低成交价为73.66元/股，支付的总金额为99.4亿元（不含交易费用）。 据悉，此前 美的集团 于2026年3月30日召开第五届董事会第十三次会议，审议通过了《关于以集中竞价方式回购公司A股股份的方案》，同意公司以集中竞价交易方式回购公司部分已发行的A股股份，用于实施 股权激励 计划及/或员工持股计划，回购价格为不超过100元/股，回",
+     "source": "东方财富股票",
+     "zh": "美的集团已回购近100亿元公司股份"
+    },
+    {
+     "title": "妙可蓝多前三季度营收约48.66亿元，同比增长22.97%",
+     "link": "http://finance.eastmoney.com/news/1354,202610083889932031.html",
+     "pubDate": "Thu, 08 Oct 2026 21:53:29 +0800",
+     "summary": "10月8日， 妙可蓝多 披露的2026 年前三季度业绩快报显示，报告期内公司实现营业收入约48.66亿元，同比增长22.97%；实现归母净利润约2.12亿元，同比增长20.37%。关于业绩增长的原因，主要得益于公司推进既定战略，提升组织效能，完善深加工体系，持续推出原制奶酪系列产品，C端和B端业务均保持超20%的高增长态势。营业收入的提升带来的规模效应，核心奶酪业务占比提升，以及供应链效率和经营策略的优化，推动了成本下降和毛利的显著增加。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "妙可蓝多前三季度营收约48.66亿元，同比增长22.97%"
+    },
+    {
+     "title": "塑料管道头部企业300599，拟不超6.4亿元切入半导体封装材料赛道，标的公司股东包括比亚迪等",
+     "link": "http://finance.eastmoney.com/news/1354,202610083889932346.html",
+     "pubDate": "Thu, 08 Oct 2026 21:52:54 +0800",
+     "summary": "10月8日盘后，当天涨幅达9.72%的 雄塑科技 （300599.SZ，股价15.58元，总市值55.80亿元）披露，拟筹划以现金方式收购深圳芯源 新材料 有限公司（下简称芯源 新材料 ）不超过80%的股权，标的公司100%股权整体估值暂定不超过8亿元，对应交易对价不超过6.4亿元。 若交易正式完成， 雄塑科技 主业将由“ 塑料 管道研发、生产与销售” 实现向“高导热 半导体 封装互连材料”的战略转型与升级。 拟跨界进军 半导体 产业链 雄塑科技 是国内 塑料 管道行业规模较大的企业之一，主营产品涵盖PVC系列管道、PE系列管道、PPR系列管道等，产品广泛应用于建筑给排水、市政排污、 通信 管",
+     "source": "东方财富股票",
+     "zh": "塑料管道头部企业300599，拟不超6.4亿元切入半导体封装材料赛道，标的公司股东包括比亚迪等"
     },
     {
      "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
@@ -2265,12 +2313,28 @@
      "zh": "法国债券正经历 1803 年以来最糟糕的十年——投资者正准备迎接更多痛苦"
     },
     {
+     "title": "美股三大指数集体下跌 国际油价大涨",
+     "link": "http://finance.eastmoney.com/news/1345,202610083889897037.html",
+     "pubDate": "Thu, 08 Oct 2026 21:51:26 +0800",
+     "summary": "10月8日，美股三大指数集体下跌，截至发稿，道指跌0.10%，纳指跌0.52%，标普500指数跌0.26%。 商品市场方面，国际油价大涨 ，截至发稿，布伦特原油 期货 涨超4%，报104.5美元/桶。 全球要闻 美联储会议纪要：加息理由存在分歧 年内或将再上调利率一次 北京时间周四凌晨2点，美联储公布9月政策会议纪要。纪要显示，美联储内部对这次加息的定性存在分歧：一部分人认为这主要是预防性操作；另一部分人则认为，这代表货币政策转向大幅收紧，目的是抑制投资与消费支出。 美媒：美军为再次大规模打击伊朗做准备 美国阿克西奥斯新闻网7日援引多名美国官员消息报道称，美国国防部日前已指示美军中央司令部，在",
+     "source": "东方财富股票",
+     "zh": "美股三大指数集体下跌 国际油价大涨"
+    },
+    {
      "title": "Wall Street slips as geopolitical tensions push oil prices higher",
      "link": "https://seekingalpha.com/news/4651383-wall-street-slips-as-geopolitical-tensions-push-oil-prices-higher?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 08 Oct 2026 09:50:55 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "地缘政治紧张局势推高油价，华尔街股市下滑"
+    },
+    {
+     "title": "Muse、Gemini智能体激战正酣 分析师却仍押注芯片股“躺赢”？",
+     "link": "http://finance.eastmoney.com/news/1360,202610083889931786.html",
+     "pubDate": "Thu, 08 Oct 2026 21:50:17 +0800",
+     "summary": "财联社10月8日讯 华尔街专业人士表示，尽管Meta旗下的Muse似乎已经在顶级 AI智能体 方面抢占了先机， 但对于股票投资者而言，芯片制造商仍然是押注这场竞赛的最佳方式。 AI智能体 能够处理预订、管理财务等多步骤任务。上月，Meta推出了个人AI助手Muse，迅速获得大量下载和好评，推动Meta股价在9月迎来强劲表现，当月上涨26.80%，创下近四年来的最佳单月表现。 随后，OpenAI推出了自己的新产品Dots，与谷歌旗下Gemini Spark以及 SpaceX AI旗下Grok Bot一道加入 AI智能体 竞争。 随着这类产品越来越受欢迎，市场也随之掀起波澜。投资者一方面在评估哪些",
+     "source": "东方财富股票",
+     "zh": "Muse、Gemini智能体激战正酣 分析师却仍押注芯片股“躺赢”？"
     },
     {
      "title": "Innovative Eyewear reports Q3 results",
@@ -2289,76 +2353,12 @@
      "zh": "分析师认为 Applied Digital 的人工智能数据中心增长步入正轨"
     },
     {
-     "title": "Higher borrowing costs threaten U.S. residential construction jobs",
-     "link": "https://seekingalpha.com/news/4651378-higher-borrowing-costs-threaten-us-residential-construction-jobs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 09:46:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "借贷成本上升威胁美国住宅建筑就业"
-    },
-    {
-     "title": "比特币跌破82000美元 日内跌1.83%",
-     "link": "http://finance.eastmoney.com/news/11790,202610083889926562.html",
-     "pubDate": "Thu, 08 Oct 2026 21:43:27 +0800",
-     "summary": "比特币跌破82000美元，日内跌1.83%。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "比特币跌破82000美元 日内跌1.83%"
-    },
-    {
-     "title": "Beyond Air expects revenue of $2.3M for quarter ended September 30",
-     "link": "https://seekingalpha.com/news/4651331-beyond-air-expects-revenue-of-23m-for-quarter-ended-september-30?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 09:43:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Beyond Air 预计截至 9 月 30 日的季度收入为 230 万美元"
-    },
-    {
-     "title": "000333，已回购金额近百亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202610083889924016.html",
-     "pubDate": "Thu, 08 Oct 2026 21:43:03 +0800",
-     "summary": "10月8日晚间， 美的集团 （000333）发布回购股份进展公告。截至9月30日，公司通过回购专用证券账户，以集中竞价交易方式累计回购公司A股股份数量为1.23亿股，占公司目前总股本的1.61%，最高成交价为87.71元/股，最低成交价为73.66元/股，支付的总金额为99.40亿元（不含交易费用）。 根据 美的集团 此前公告，本次回购股份用于依法注销减少注册资本，回购价格为不超过100元/股，回购金额为65亿元（含）至130亿元（含），实施期限为自2026年3月30日董事会审议通过回购股份方案之日起12个月内。 二级市场方面， 美的集团 2026年股价整体呈震荡上行态势，7月30日触及89.",
-     "source": "东方财富股票",
-     "zh": "000333，已回购金额近百亿元"
-    },
-    {
      "title": "College students have to use credit cards just to cover basic living expenses. Here’s what it’s costing them.",
      "link": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
      "pubDate": "Thu, 08 Oct 2026 13:43:00 GMT",
      "summary": "Nearly 9 out of every 10 students who use credit cards report doing so to pay for basic living expenses such as food, housing and gas.",
      "source": "MarketWatch",
      "zh": "大学生必须使用信用卡来支付基本生活费用。这就是他们付出的代价。"
-    },
-    {
-     "title": "上海国庆新房成交面积同比翻倍！外环外有尾盘7天卖6套，改善客开始不观望了",
-     "link": "http://finance.eastmoney.com/news/1350,202610083889925461.html",
-     "pubDate": "Thu, 08 Oct 2026 21:42:18 +0800",
-     "summary": "9月28日上海商品住房销售制度改革细则发布后，市场活跃度明显提升。紧随其后的国庆假期，上海楼市没有冷场。虽然开盘入市的楼盘并不多，新房成交却走出同比翻倍行情，成交面积达到3.46万平方米。记者了解到，外环外有楼盘看房人明显增加，当前处于尾盘清盘阶段，7天共售出6套房源，基本一天卖一套。 此前，不少人担心国庆节期间上海开盘项目少，会拖累成交。记者梳理发现，国庆假期新房方面仅青浦朱家角板块的“恒文璞悦江南”这一个项目入市，共计31套房源。 “假期供应偏少属于市场正常节奏。”上海中原地产分析师卢文曦解释说说，核心原因是9月最后一周已有大量新盘集中入市，如“金茂满誉”“前滩尚品”“大华锦樾”“越秀天屿",
-     "source": "东方财富股票",
-     "zh": "上海国庆新房成交面积同比翻倍！外环外有尾盘7天卖6套，改善客开始不观望了"
-    },
-    {
-     "title": "欧洲理事会主席科斯塔：邀请乌克兰总统泽连斯基下周参加欧盟领导人峰会",
-     "link": "http://finance.eastmoney.com/news/1351,202610083889924967.html",
-     "pubDate": "Thu, 08 Oct 2026 21:41:46 +0800",
-     "summary": "欧洲理事会主席 科斯塔 ：邀请乌克兰总统泽连斯基下周参加欧盟领导人峰会。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "欧洲理事会主席科斯塔：邀请乌克兰总统泽连斯基下周参加欧盟领导人峰会"
-    },
-    {
-     "title": "美股三大指数集体下跌 国际油价大涨",
-     "link": "http://finance.eastmoney.com/news/1345,202610083889897037.html",
-     "pubDate": "Thu, 08 Oct 2026 21:41:26 +0800",
-     "summary": "10月8日，美股三大指数集体下跌，截至发稿，道指跌0.20%，纳指跌0.52%，标普500指数跌0.36%。 商品市场方面，国际油价大涨 ，截至发稿，布伦特原油 期货 涨超4%，报104.5美元/桶。 全球要闻 美联储会议纪要：加息理由存在分歧 年内或将再上调利率一次 北京时间周四凌晨2点，美联储公布9月政策会议纪要。纪要显示，美联储内部对这次加息的定性存在分歧：一部分人认为这主要是预防性操作；另一部分人则认为，这代表货币政策转向大幅收紧，目的是抑制投资与消费支出。 美媒：美军为再次大规模打击伊朗做准备 美国阿克西奥斯新闻网7日援引多名美国官员消息报道称，美国国防部日前已指示美军中央司令部，在",
-     "source": "东方财富股票",
-     "zh": "美股三大指数集体下跌 国际油价大涨"
-    },
-    {
-     "title": "瑞典央行行长特登：供应相关成本上升与强劲需求的风险组合开始影响企业的整体定价",
-     "link": "http://finance.eastmoney.com/news/1351,202610083889923011.html",
-     "pubDate": "Thu, 08 Oct 2026 21:40:57 +0800",
-     "summary": "瑞典央行行长特登：供应相关成本上升与强劲需求的风险组合开始影响企业的整体定价。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "瑞典央行行长特登：供应相关成本上升与强劲需求的风险组合开始影响企业的整体定价"
     },
     {
      "title": "张雪昔日东家浙阿波罗冲刺北交所，六成收入源自代工",

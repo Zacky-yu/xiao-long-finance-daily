@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/8 08:29:55",
+ "generated_at": "2026/10/8 08:49:48",
  "recent_days": 7,
  "industries": [
   {
@@ -89,6 +89,14 @@
      "zh": "OpenAI Dots：数据科学家的现实检验"
     },
     {
+     "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+     "link": "https://www.qbitai.com/2026/10/501825.html",
+     "pubDate": "Wed, 07 Oct 2026 14:10:33 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦"
+    },
+    {
      "title": "ML Engineer, AI Engineer, or LLM Engineer: Which Role Actually Builds What in 2026?",
      "link": "https://www.kdnuggets.com/ml-engineer-ai-engineer-or-llm-engineer-which-role-actually-builds-what-in-2026",
      "pubDate": "Wed, 07 Oct 2026 14:00:00 +0000",
@@ -121,12 +129,36 @@
      "zh": "我测试了 5 个 AI 编码助手一个月：这是我实际发现的"
     },
     {
+     "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+     "link": "https://www.qbitai.com/2026/10/501803.html",
+     "pubDate": "Wed, 07 Oct 2026 11:34:47 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！"
+    },
+    {
+     "title": "晕…这年头还有说人话的AI不",
+     "link": "https://www.qbitai.com/2026/10/501796.html",
+     "pubDate": "Wed, 07 Oct 2026 08:41:13 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "晕…这年头还有说人话的AI不"
+    },
+    {
      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
      "link": "https://openai.com/index/radisson",
      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
      "source": "OpenAI",
      "zh": "丽笙酒店集团将酒店发现带入 ChatGPT"
+    },
+    {
+     "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+     "link": "https://www.qbitai.com/2026/10/501791.html",
+     "pubDate": "Wed, 07 Oct 2026 06:39:36 +0000",
+     "summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+     "source": "量子位",
+     "zh": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司"
     },
     {
      "title": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
@@ -201,52 +233,20 @@
      "zh": "量化后画面闪烁？时序稳定的视频世界模型2-bit KV Cache压缩方案诞生"
     },
     {
+     "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+     "link": "https://www.qbitai.com/2026/10/501749.html",
+     "pubDate": "Wed, 07 Oct 2026 01:05:13 +0000",
+     "summary": "三位菲尔兹奖得主：不代表认可",
+     "source": "量子位",
+     "zh": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来"
+    },
+    {
      "title": "A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration",
      "link": "https://www.marktechpost.com/2026/10/06/a-developers-guide-to-laya-zero-shot-decisions-and-calibration/",
      "pubDate": "Wed, 07 Oct 2026 00:53:03 +0000",
      "summary": "Explore a comprehensive coding guide to Laya, the open-source zero-shot decision engine. Learn how to implement typed decisions, fit custom temperatures, and build reliable abstention gates using real-world CLINC150 banking data. The post A Developer’s Guide to Laya: Zero-Shot Decisions and Calibrat",
      "source": "MarkTechPost",
      "zh": "Laya 开发人员指南：零样本决策和校准"
-    },
-    {
-     "title": "GPT-6 and Intelligent UI for everyone",
-     "link": "https://openai.com/index/gpt-6-for-everyone",
-     "pubDate": "Wed, 07 Oct 2026 00:00:00 GMT",
-     "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-     "source": "OpenAI",
-     "zh": "GPT-6 和适合所有人的智能 UI"
-    },
-    {
-     "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-     "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-     "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
-     "summary": "",
-     "source": "DeepMind",
-     "zh": "EmbeddingGemma 2：开放、轻量级的多模态嵌入模型"
-    },
-    {
-     "title": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
-     "link": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/",
-     "pubDate": "Tue, 06 Oct 2026 18:36:08 +0000",
-     "summary": "Google DeepMind's EmbeddingGemma 2 maps 5 input types into one 768d space and ships today under Apache 2.0. The post Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4 appeared first on MarkTechPost .",
-     "source": "MarkTechPost",
-     "zh": "Google DeepMind 发布 EmbeddingGemma 2，这是一个基于 Gemma 4 构建的 740M 开放多模态嵌入模型"
-    },
-    {
-     "title": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
-     "link": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
-     "pubDate": "Tue, 06 Oct 2026 17:30:46 +0000",
-     "summary": "Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own Europe",
-     "source": "MarkTechPost",
-     "zh": "Mistral AI 发布 Mistral Large 4 (Le Chonk)：1.05T 参数多模态 MoE 模型"
-    },
-    {
-     "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-     "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-     "pubDate": "Tue, 06 Oct 2026 15:05:11 +0000",
-     "summary": "Earth AI",
-     "source": "Google Research",
-     "zh": "解锁地球人工智能的全球公共卫生行星地理空间基础模型"
     }
    ]
   },
@@ -1268,7 +1268,7 @@
      "title": "A Takeda spinout builds case for its Parkinson’s drug",
      "link": "https://www.biopharmadive.com/news/cerevance-solengepras-parkinsons-study-results/832324/",
      "pubDate": "Wed, 07 Oct 2026 08:01:00 -0400",
-     "summary": "Cerevance plans to meet with the FDA to determine next steps for a new kind of medicine known as solengepras, now that it has Phase 3 data in hand.",
+     "summary": "Cerevance plans to meet with the FDA to &ldquo;determine next steps&rdquo; for a new kind of medicine known as solengepras, now that it has Phase 3 data in hand.",
      "source": "BioPharma Dive",
      "zh": "武田分拆公司为其帕金森病药物建立案例"
     },
@@ -1753,6 +1753,78 @@
    "total": 18,
    "items": [
     {
+     "title": "纽约时报律师漂白证据露馅儿，会影响诉OpenAI案的结果吗？",
+     "link": "https://www.huxiu.com/article/4895721.html?f=rss",
+     "pubDate": "Thu, 08 Oct 2026 08:46:47 +0800",
+     "summary": "作者：游云庭（知识产权律师），题图来自：视觉中国 人工智能领域的标杆案件《纽约时报》起诉OpenAI和微软案最近高潮迭起，这两天在该案和其他案件合并的审前程序中，被告指责《纽约时报》漂白证据，其专家引用的论文被指实际是《纽约时报》律所资助且未向法庭披露，又引发了媒体关注。今天就和大家聊聊漂白证据事件会不会对诉讼有重大影响，以及此事如果发生在中国，会有怎样的后果。 漂白证据是怎么回事？简而言之，《纽约时报》的代理律师事务所资助了一项研究，然后其专家证人作证时大量引用研究的论文，OpenAI和微软认为研究是定制的，而且《纽约时报》在证据披露、专家身份介绍中刻意隐瞒资金关系和利益冲突，让这份证据在程",
+     "source": "虎嗅",
+     "zh": "纽约时报律师漂白证据露馅儿，会影响诉OpenAI案的结果吗？"
+    },
+    {
+     "title": "AI让数学再也回不去那个旧世界了。",
+     "link": "https://www.huxiu.com/article/4895723.html?f=rss",
+     "pubDate": "Thu, 08 Oct 2026 08:46:25 +0800",
+     "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克 昨天早上，可能会是人类时代的一个分水岭。 以至于这篇文章，在我即使有提前做了大量功课，有一定的知识储备的情况下，还是写了整整一天的时间，完稿时间是今天的凌晨6点15，无他，还是因为这个事件的信息量过大，历史意义过大，那种宿命感，在调研在写的过程中，还是有无数次的巨大的情绪波动。 这个事件大家比较关注新闻的，都已经看过了。 就是昨天（10月7号）早上，OpenAI没有任何预兆的，发布了巨量的数学研究成果，他们直接在Github上，发了一个新仓库，名字非常的朴素，叫openai/math。 网址在此：https://github.com",
+     "source": "虎嗅",
+     "zh": "AI让数学再也回不去那个旧世界了。"
+    },
+    {
+     "title": "DMA Design“老人”话当年：初代《GTA》之所以是开放世界，只因开发者懒得做菜单",
+     "link": "https://www.ithome.com/1/010/372.htm",
+     "pubDate": "Thu, 08 Oct 2026 00:42:54 GMT",
+     "summary": "IT之家 10 月 8 日消息，《GTA》初代之所以做成开放世界，背后的原因相当意外：开发商 DMA Design（R 星北方工作室前身）的团队不想另外做一套让玩家选择任务的主菜单。 当地时间 7 日，据外媒 VGC 报道，多名 DMA Design 开发者最近参加了苏格兰游戏开发者协会在邓迪举办的 Games Day 2026，并在“侠盗猎车手起源”座谈会上回顾《GTA》初代的开发过程。 DMA Design 创意总监加里 · 佩恩称，《GTA》最初的构想远比成品更线性，玩家原本 要从菜单里的任务列表中选择任务 。“我以前经常过来看开发进度，尤其是刚开始的时候，整个项目非常混乱，有一段时间甚",
+     "source": "IT之家",
+     "zh": "DMA Design“老人”话当年：初代《GTA》之所以是开放世界，只因开发者懒得做菜单"
+    },
+    {
+     "title": "都在等罗永浩翻车",
+     "link": "https://www.huxiu.com/article/4895718.html?f=rss",
+     "pubDate": "Thu, 08 Oct 2026 08:36:24 +0800",
+     "summary": "本文来自微信公众号： 版面之外 ，作者：画画 罗永浩越来越像那种会让品牌紧张的人。 西贝和野人先生雪糕都是典型。品牌一旦被他点名，事情往往很快就不再是一次消费体验，而会变成公共讨论。 最近，轮到罗永浩自己站到聚光灯下。 起因是一款万向轮溜溜凳的品控争议，“交个朋友”随后致歉，宣布全量退款不退货。几天后，针对罗永浩和“交个朋友”的实名税务举报又冲上热搜，不过截至目前，举报内容尚未得到官方查实。 罗永浩最擅长的，是拿放大镜看别人。这一次，放大镜转到了他自己手里。 一、一个理想主义者 罗永浩做手机，本身就有点突然啊。 一个英语老师突然跑去造手机，且没按手机公司的常规方式讲手机。 别人讲处理器、屏幕、",
+     "source": "虎嗅",
+     "zh": "都在等罗永浩翻车"
+    },
+    {
+     "title": "Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others (Marina Temkin/TechCrunch)",
+     "link": "https://www.techmeme.com/261007/p43#a261007p43",
+     "pubDate": "Wed, 07 Oct 2026 20:35:01 -0400",
+     "summary": "Marina Temkin / TechCrunch : Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others &nbsp; &mdash;&nbsp; Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots and oth",
+     "source": "Techmeme",
+     "zh": "Mecka 收集人体运动数据来训练人形机器人，筹集了由红杉资本领投的 6000 万美元 B 轮融资，Nvidia、M12 等公司也参与其中（Marina Temkin/TechCrunch）"
+    },
+    {
+     "title": "Edge AI Daily 早报（10月8日）",
+     "link": "https://www.tmtpost.com/8160561.html",
+     "pubDate": "Thu, 08 Oct 2026 08:34:07 +0800",
+     "summary": "谷歌Chrome回归JPEG XL并重写Rust解码器，发布Nano Banana 2.1降价战OpenAI，与Unity推AI游戏平台致Roblox暴跌，芬兰数据中心被叫停暴露基建冲突。微软VS Code 1.141转AI Agent控制中心。黄仁勋强调Windows对GPU历史作用。AMD新CPU采用SB1插槽，苏姿丰再访三星应对HBM短缺，三星电机50亿美元扩ABF基板。",
+     "source": "钛媒体",
+     "zh": "Edge AI Daily 早报（10月8日）"
+    },
+    {
+     "title": "被嘲“球缩力拉满”的匹克球，真比乒羽网低一头？",
+     "link": "https://www.huxiu.com/article/4895716.html?f=rss",
+     "pubDate": "Thu, 08 Oct 2026 08:33:04 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：草莓脆，编辑：腾宇 运动品位是最隐蔽的阶层标识，因为它看起来最像“个人爱好”，也会因为某一股潮流被推到大众面前。但一项大众运动的魅力，从来不是它能不能满足人对“竞技”的想象，而是它能不能满足人对“运动”的需求。 都说一项运动开始变得有意思，成功跻身主流成为大众运动，往往不是因为所有人都喜欢它，而是因为它开始让不同的人产生不同意见。匹克球正是这样的存在，毕竟不是哪项运动都能同时收获“中产新宠”和“球类运动鄙视链底端”两种评价。 这种矛盾是匹克球最初收获关注的原因之一。在无数匹克球的夸夸帖中，都能看到同一句形容：用大号乒乓球拍在羽毛球场上打网球，兼顾网球的力量",
+     "source": "虎嗅",
+     "zh": "被嘲“球缩力拉满”的匹克球，真比乒羽网低一头？"
+    },
+    {
+     "title": "《极限竞速：地平线 6》开发商 Playground Games 承认与玩家沟通不足，后续考虑调整",
+     "link": "https://www.ithome.com/1/010/370.htm",
+     "pubDate": "Thu, 08 Oct 2026 00:31:13 GMT",
+     "summary": "IT之家 10 月 8 日消息，《极限竞速：地平线 6》开发商 Playground Games 承认，工作室过去与玩家沟通得不够。 该作今年 5 月登陆 Xbox Series X|S 和 PC，获得媒体广泛好评，Metacritic 评分达到 90 分。发售以来，游戏每四周更新一期嘉年华播放列表，其中又按周划分为不同季节，玩家可以完成各种任务并解锁车辆。 本周早些时候推出的最新更新加入了与 7-Eleven 的限时联动，玩家可以通过活动为游戏角色解锁服装。但一些玩家认为，Playground Games 虽然一直在为游戏增加内容， 却缺少与社区的真正交流 ，玩家提出的问题和诉求也没有得到充",
+     "source": "IT之家",
+     "zh": "《极限竞速：地平线 6》开发商 Playground Games 承认与玩家沟通不足，后续考虑调整"
+    },
+    {
+     "title": "国庆每天3亿人出游，旅行社却撑不住了",
+     "link": "https://www.huxiu.com/article/4895705.html?f=rss",
+     "pubDate": "Thu, 08 Oct 2026 08:26:53 +0800",
+     "summary": "本文来自微信公众号： 表外表里 ，编辑：曹宾玲、杨静，作者：陈梓洁，题图来自：视觉中国 在李佳琦直播间，大牌美妆顶多打六七折，旅行团直接对半砍。 &ldquo;化妆品才是李佳琦的基本盘，现在旅游产品折扣比化妆品更狠。&rdquo;资深旅游从业者孙瑞发现，青甘大环线7日游，已从5000元常规价降到最低1980元，旅行社几乎是赔本赚吆喝。 但千万别用&ldquo;惨&rdquo;来解读这一幕，孙瑞话锋一转，&ldquo;直播间里的旅行社可能才是最聪明的。&rdquo; 大牌美妆&ldquo;价格即品牌&rdquo;，给李佳琦降价不是为了甩卖，而是求&ldquo;刷脸&rdquo;。旅行社上链接，看",
+     "source": "虎嗅",
+     "zh": "国庆每天3亿人出游，旅行社却撑不住了"
+    },
+    {
      "title": "谁说景区不火？你排过3.5万人队么",
      "link": "https://www.huxiu.com/article/4895711.html?f=rss",
      "pubDate": "Thu, 08 Oct 2026 08:26:15 +0800",
@@ -1777,20 +1849,12 @@
      "zh": "应对汽车大灯“太刺眼”、为新技术扫清障碍，美国将修订车辆照明标准"
     },
     {
-     "title": "美债创新高到底在说什么？",
-     "link": "https://www.huxiu.com/article/4895710.html?f=rss",
-     "pubDate": "Thu, 08 Oct 2026 08:20:47 +0800",
-     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 嗯，美债又创新高了。 很多人搞不懂美债到底是什么，这个词本身特别容易让人误解，新闻里提到的「美债」，一般有三层完全不一样的含义，还经常被混用。 第一层，债券本身。美国财政部发行的债务凭证，相当于美国给大家打的欠条，谁借钱给它，它就按约定的时间和利息还钱。 第二层，是债券收益率。也就是，这张欠条在市场上交易时，对应的投资回报，它和债券价格是反向变动的，价格涨了收益率就跌，价格跌了收益率就涨。 第三层，是各国持有美债的总规模。中国、日本等国家手里囤了多少美债，属于存量数据。 新闻里经常把这三层意思混为一谈，每次看到「美债创新高」的标题，普通人根本分不清",
-     "source": "虎嗅",
-     "zh": "美债创新高到底在说什么？"
-    },
-    {
-     "title": "AI需要一张脸，数据科学需要一条曲线",
-     "link": "https://www.huxiu.com/article/4895706.html?f=rss",
-     "pubDate": "Thu, 08 Oct 2026 08:08:58 +0800",
-     "summary": "本文来自微信公众号： 返朴 ，作者：姚志刚 半个世纪前，美国数学家赫尔曼·切尔诺夫把复杂的多维数据画成了一张人脸，即将多维变量映射为面部特征，比如用眼睛大小代表血压，嘴角弧度代表胆固醇，这样便实现了高维数据的可视化，人们可以更直观地理解数据所代表的意义。面对如今百万维度的数据，如何在极其复杂的空间中捕捉真实信号，并为性能日益强大却陷入“黑箱”的AI提供科学解释？有学者认为，答案又重新指向切尔诺夫脸所蕴含的几何思想——几何不仅意味着数据的可视化，也同样可能是需要被估计的信号本身。而实现这一跨越的方法，正是“流形拟合”。 本文收录于前沿追踪 万象纷纭，而理有其形。得其形者，乃得其真。几何非观象之器",
-     "source": "虎嗅",
-     "zh": "AI需要一张脸，数据科学需要一条曲线"
+     "title": "Steam 客户端 Beta 更新：新增游戏运行时禁用屏保选项，Linux 平台第三方 Windows 游戏默认通过 Proton 运行",
+     "link": "https://www.ithome.com/1/010/367.htm",
+     "pubDate": "Thu, 08 Oct 2026 00:20:35 GMT",
+     "summary": "IT之家 10 月 8 日消息，Valve 今日向 Steam 客户端预览 / Beta 通道以及 Steam Deck 客户端推送了最新更新，带来多项功能新增与问题修复。 据 Steam 官方公告，本次更新在通用设置中新增了一项允许用户在游戏运行时禁用屏保的选项，同时针对 Linux 平台调整了非 Steam 游戏的 Proton 默认运行策略。 通用更新 新增一项设置，允许用户选择在游戏运行时禁用屏保 注册为非 Steam 游戏的 Windows 二进制文件现在默认通过 Proton 运行 修复了通过浏览按钮更改目标二进制文件后，非 Steam 游戏无法启动的问题 修复了外部工具启动游戏后",
+     "source": "IT之家",
+     "zh": "Steam 客户端 Beta 更新：新增游戏运行时禁用屏保选项，Linux 平台第三方 Windows 游戏默认通过 Proton 运行"
     },
     {
      "title": "部分苹果 Apple Watch Series 12 智能手表用户报告皮肤刺激情况",
@@ -1801,60 +1865,12 @@
      "zh": "部分苹果 Apple Watch Series 12 智能手表用户报告皮肤刺激情况"
     },
     {
-     "title": "国庆每天3亿人出游，旅行社却撑不住了",
-     "link": "https://www.huxiu.com/article/4895705.html?f=rss",
-     "pubDate": "Thu, 08 Oct 2026 08:05:53 +0800",
-     "summary": "本文来自微信公众号： 表外表里 ，编辑：曹宾玲杨静，作者：洞见数据研究院 在李佳琦直播间，大牌美妆顶多打六七折，旅行团直接对半砍。 “化妆品才是李佳琦的基本盘，现在旅游产品折扣比化妆品更狠。”资深旅游从业者孙瑞发现，青甘大环线7日游，已从5000元常规价降到最低1980元，旅行社几乎是赔本赚吆喝。 但千万别用“惨”来解读这一幕，孙瑞话锋一转，“直播间里的旅行社可能才是最聪明的。” 大牌美妆“价格即品牌”，给李佳琦降价不是为了甩卖，而是求“刷脸”。旅行社上链接，看中的也是“李佳琦推荐”这块金字招牌——拿去各大平台渠道打广告，把酒店、大巴“上座率”拉高，钱就慢慢挣回来了。 这种打法，就是旅游业加速",
-     "source": "虎嗅",
-     "zh": "国庆每天3亿人出游，旅行社却撑不住了"
-    },
-    {
      "title": "Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are \"chilling those who remain at OpenAI\" (Maxwell Zeff/Wall Street Journal)",
      "link": "https://www.techmeme.com/261007/p42#a261007p42",
      "pubDate": "Wed, 07 Oct 2026 20:05:01 -0400",
      "summary": "Maxwell Zeff / Wall Street Journal : Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are &ldquo;chilling those who remain at OpenAI&rdquo; &nbsp; &mdash;&nbsp; In a letter to the board, recently-terminated employees ask that the ",
      "source": "Techmeme",
      "zh": "信件：三名被解雇的 OpenAI 研究人员敦促人工智能实验室停止可能损害人工智能监控的工作，并表示他们的解雇“让那些留在 OpenAI 的人感到寒心”（Maxwell Zeff/华尔街日报）"
-    },
-    {
-     "title": "无视 Denuvo 起诉，voices38 攻破又一款 D 加密游戏《Atomfall》",
-     "link": "https://www.ithome.com/1/010/364.htm",
-     "pubDate": "Thu, 08 Oct 2026 00:03:09 GMT",
-     "summary": "IT之家 10 月 8 日消息，Rebellion 旗下生存动作游戏《Atomfall》于当地时间 10 月 7 日在 CrackWatch 社区出现了 Denuvo 保护被绕过的版本，相关作者正为“voices38”。这也意味着 voices38 在沉寂约一个月后再次发布了新的 Denuvo 绕过作品。 IT之家注：由于部分用户对于破解的定义不同，为避免争议，此处不再以破解描述。 《Atomfall》由 Rebellion Developments 开发，于 2025 年 3 月 27 日发售，采用 Denuvo Anti-Tamper 保护。此次出现的 voices38 版本容量约为 53",
-     "source": "IT之家",
-     "zh": "无视 Denuvo 起诉，voices38 攻破又一款 D 加密游戏《Atomfall》"
-    },
-    {
-     "title": "奇瑞捷豹路虎神行者品牌将率先进军中东、北非，后续还会登陆英国",
-     "link": "https://www.ithome.com/1/010/363.htm",
-     "pubDate": "Thu, 08 Oct 2026 00:02:36 GMT",
-     "summary": "IT之家 10 月 8 日消息，当地时间 6 日，据英媒 Autocar 报道，奇瑞与捷豹路虎联合打造的全新神行者品牌确认将进军英国市场。 神行者由路虎曾经的同名车型发展而来，目前则有着独立品牌的身份。按照神行者的全球扩张计划，品牌会先进入 中东和北非 ，随后登陆首批右舵市场 澳大利亚和新西兰 ，英国及欧洲其他市场则安排在第三阶段。 神行者尚未公布具体哪一年进入英国，也没有确认届时由哪家公司负责车辆进口。 捷豹路虎 CEO 巴柏德曾表态，捷豹路虎不会阻止奇瑞把神行者带到英国。“ 这是奇瑞的车，我们会让他们自己做决定 。我们要做的是确保设计符合捷豹路虎的品牌理念，之后就完全由他们自己负责。” 神",
-     "source": "IT之家",
-     "zh": "奇瑞捷豹路虎神行者品牌将率先进军中东、北非，后续还会登陆英国"
-    },
-    {
-     "title": "哪吒汽车“四债会”细节：168亿债务压顶，重整人复产计划曝光",
-     "link": "https://www.huxiu.com/article/4895703.html?f=rss",
-     "pubDate": "Thu, 08 Oct 2026 07:54:46 +0800",
-     "summary": "本文来自微信公众号： 电动汽车观察家 ，作者：王凌方，编辑：邱锴俊 168亿债务，17亿资产，债权人的希望被拴在了一个“限高”的人身上，被迫接受一个不是“最糟糕”的方案。 9月11日，合众新能源汽车股份有限公司（下称“合众新能源”）第四次债权人会议以网络形式召开。这家曾以“哪吒汽车”品牌在2022年登顶新势力销冠的车企，如今站在了命运的十字路口。 会议议案《重整计划（草案）》的核心，是希望以“现金+留债+信托受益权份额”的组合拳，化解约168亿元的潜在债务。但方案背后，是普通债权人极低的受偿率、长达十年的留债等待，以及一个充满不确定性的信托计划。 当然，“饼”还是要“画”的，重整投资人提出了一",
-     "source": "虎嗅",
-     "zh": "哪吒汽车“四债会”细节：168亿债务压顶，重整人复产计划曝光"
-    },
-    {
-     "title": "IT早报 1008：余承东称华为基本摆脱美国技术依赖；小米澎湃 OS4 全面兼容苹果生态；21988 元起微软 Surface Laptop Ultra 上架；2026 诺贝尔化学奖公布...",
-     "link": "https://www.ithome.com/1/010/361.htm",
-     "pubDate": "Wed, 07 Oct 2026 23:51:53 GMT",
-     "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 8 日星期四，今天的重要科技资讯有： 1. 余承东称华为自 2019 年以来为生存克服了许多困难，基本摆脱美国技术依赖 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在 9 月 29 日的国际媒体圆桌会议上透露，为了生存，华为自 2019 年以来克服了许多困难。他坦言，依靠这些芯片、鸿蒙操作系统，以及中国国内的供应链、材料和工艺制程，华为基本摆脱了对美国技术的依赖。>> 查看详情 2. 小米官宣澎湃 OS 4 全面兼容苹果生态：重要信息双向同步、妙享桌面支持 Apple 三件套等 小米澎湃 OS 官方微博 10 月 7 ",
-     "source": "IT之家",
-     "zh": "IT早报 1008：余承东称华为基本摆脱美国技术依赖；小米澎湃 OS4 全面兼容苹果生态；21988 元起微软 Surface Laptop Ultra 上架；2026 诺贝尔化学奖公布..."
-    },
-    {
-     "title": "练就强大主体性的底层公式",
-     "link": "https://www.huxiu.com/article/4895700.html?f=rss",
-     "pubDate": "Thu, 08 Oct 2026 07:46:59 +0800",
-     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston，题图来自：视觉中国 越努力的人，可能越没有自我。 这句话，你可能觉得有点刺耳。但先别急着反驳，让我解释一下。 我们从小，都被训练得特别擅长一件事，就是找到标准答案，然后高效地执行它。成绩好、工作好、各方各面表现好，每一个&ldquo;好&rdquo;的背后，都是一次对外部标准的完美回应。 可问题就在于，回应得越好，我们就越习惯让别人出题，然后自己来回答。 久而久之，我们成了非常出色的答题者，却忘了一件很重要的事情，那就是，我们自己也可以出题。 我们活成了&ldquo;高效的他者&rdquo; 这种答题者的处境，是我们",
-     "source": "虎嗅",
-     "zh": "练就强大主体性的底层公式"
     },
     {
      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
@@ -1945,14 +1961,6 @@
      "zh": "“软件已经结束”：大胆的 AI 开发者用开源克隆瞄准 Adob​​e"
     },
     {
-     "title": "Sources: Broadcom has been working to arrange more than $50B in financing for OpenAI&apos;s custom AI chip; Oracle is in talks on financing for a big chip purchase (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261007/p37#a261007p37",
-     "pubDate": "Wed, 07 Oct 2026 17:45:32 -0400",
-     "summary": "Wall Street Journal : Sources: Broadcom has been working to arrange more than $50B in financing for OpenAI's custom AI chip; Oracle is in talks on financing for a big chip purchase &nbsp; &mdash;&nbsp; Apollo, Blackstone and Goldman Sachs among lenders in talks to finance megadeals worth tens of bil",
-     "source": "Techmeme",
-     "zh": "消息来源：Broadcom 一直致力于为 OpenAI 的定制 AI 芯片安排超过 500 亿美元的融资；甲骨文正在就大型芯片采购融资进行谈判（华尔街日报）"
-    },
-    {
      "title": "Shaq Got Hacked. Now He’s Pitching for a VPN",
      "link": "https://www.wired.com/story/how-a-weirdly-chill-celebrity-thinks-about-personal-cybersecurity/",
      "pubDate": "Wed, 07 Oct 2026 21:31:51 +0000",
@@ -1972,7 +1980,7 @@
      "title": "Margaret Hamilton has died",
      "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
      "pubDate": "Wed, 07 Oct 2026 21:16:18 +0000",
-     "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 501 # Comments: 58",
+     "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 547 # Comments: 60",
      "source": "Hacker News",
      "zh": "玛格丽特·汉密尔顿去世"
     },
@@ -1983,14 +1991,6 @@
      "summary": "I’ve compared cordless sticks, watched robot vacuums chase stains, and cleaned plenty of car crumbs. These discounts get my recommendation.",
      "source": "WIRED",
      "zh": "黄金日吸尘器最佳优惠：戴森大优惠（2026 年）"
-    },
-    {
-     "title": "'Jonathan' is the oldest land animal on Earth",
-     "link": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-     "pubDate": "Wed, 07 Oct 2026 20:01:37 +0000",
-     "summary": "Article URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/ Comments URL: https://news.ycombinator.com/item?id=49998066 Points: 30 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "“乔纳森”是地球上最古老的陆地动物"
     }
    ]
   },
@@ -2257,6 +2257,78 @@
      "zh": "纳斯达克风险投资公司投资 One Trading"
     },
     {
+     "title": "Levi Strauss outlines $1.54-$1.56 FY2026 EPS as it expects 4% organic Q4 revenue growth while redeploying $60M of tariff refunds",
+     "link": "https://seekingalpha.com/news/4651200-levi-strauss-outlines-1_54-1_56-fy2026-eps-as-it-expects-4-percent-organic-q4-revenue-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 20:43:19 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Levi Strauss 预计 2026 财年每股收益为 1.54-1.56 美元，预计第四季度收入有机增长 4%，同时重新部署 6000 万美元的关税退款"
+    },
+    {
+     "title": "优必选与一汽-大众达成战略合作 推动人形机器人在物流场景应用落地",
+     "link": "http://hk.eastmoney.com/news/1535,202610083889068365.html",
+     "pubDate": "Thu, 08 Oct 2026 08:41:50 +0800",
+     "summary": "据 优必选 科技公众号消息，近日， 优必选 与一汽-大众 汽车 有限公司（简称“一汽-大众”）达成战略合作，双方将共同推进具身智能 机器人 在 物流 领域的应用场景开发及测试，同时构建示范应用场景，加速人形 机器人 在智能制造领域的部署与应用，推动人形 机器人 智能制造解决方案的落地与推广。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "优必选与一汽-大众达成战略合作 推动人形机器人在物流场景应用落地"
+    },
+    {
+     "title": "日韩股市跌幅扩大 日经225指数跌超1%",
+     "link": "http://finance.eastmoney.com/news/11440,202610083889068246.html",
+     "pubDate": "Thu, 08 Oct 2026 08:40:49 +0800",
+     "summary": "日经225指数跌1.01%，报69331.28点；韩国KOSPI指数跌0.56%，报6765.78点。",
+     "source": "东方财富股票",
+     "zh": "日韩股市跌幅扩大 日经225指数跌超1%"
+    },
+    {
+     "title": "我国氢硼聚变获里程碑式突破",
+     "link": "http://finance.eastmoney.com/news/1350,202610083889067042.html",
+     "pubDate": "Thu, 08 Oct 2026 08:38:43 +0800",
+     "summary": "9月中旬的一个深夜，河北廊坊新奥聚变实验大厅里，屏幕上一个信号突然跳出——20多个阿尔法粒子信号同时出现，时序完全吻合。一周后，经反复验证和专家论证，结果被确认：新奥聚变自主研发的“玄龙-50U”球形环装置，成功实现了氢硼聚变反应。 这是全球商业化聚变公司在自有装置上首次实现氢硼聚变反应，也是中国磁约束聚变装置首次实现加注先进燃料的清洁无中子聚变反应。 聚变能被誉为人类能源的终极解决方案，其燃料来自海水和地壳，不产生温室气体，不产生长寿命放射性废物。目前全球主流路线是氘氚聚变。新奥选择了另一条路：氢硼聚变。“氢和硼都是自然界中储量最丰富的元素之一，氢硼聚变不产生中子，产物可以直接转化为电能，理",
+     "source": "东方财富股票",
+     "zh": "我国氢硼聚变获里程碑式突破"
+    },
+    {
+     "title": "早报丨美媒称美军被要求做好对伊朗恢复打击的准备；美联储纪要释放鹰派信号；三星Q3营业利润飙升783%；博通为OpenAI定制芯片研发寻求逾500亿美元融资；台积电将公布9月营收",
+     "link": "http://stock.eastmoney.com/news/1768,202610083889066598.html",
+     "pubDate": "Thu, 08 Oct 2026 08:36:51 +0800",
+     "summary": "摘要： 美媒称美军被要求做好对伊朗恢复打击的准备；美联储纪要释放鹰派信号；三星Q3营业利润飙升783%； 博通 为OpenAI定制芯片研发寻求逾500亿美元融资； 台积电 将公布9月营收。 全球市场： 美股市场：美股三大指数10月07日收盘下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌341.41点，收于51179.87点，跌幅为0.66%； 标准普尔 500种股票指数下跌17.16点，收于7801.77点，跌幅为0.22%； 纳斯达克 综合 指数下跌61.2点，收于27538.69点，跌幅为0.22%。 大型科技股涨跌不一， 亚马逊 涨1.42%、 苹果 涨0.91%、 谷歌-A 涨0.",
+     "source": "东方财富股票",
+     "zh": "早报丨美媒称美军被要求做好对伊朗恢复打击的准备；美联储纪要释放鹰派信号；三星Q3营业利润飙升783%；博通为OpenAI定制芯片研发寻求逾500亿美元融资；台积电将公布9月营收"
+    },
+    {
+     "title": "“两万亿Anthropic”要翻车？机构：2026年最荒谬IPO 只值1500亿美元！",
+     "link": "http://finance.eastmoney.com/news/1360,202610083889065444.html",
+     "pubDate": "Thu, 08 Oct 2026 08:33:02 +0800",
+     "summary": "今年早些时候， SpaceX “世纪IPO”轰动全球，估值1.77万亿美元，募资857亿美元，创下纪录。而不到四个月，Anthropic就来“掀桌子”了，目标估值2万亿美元，募资规模最高1000亿美元。 然而，一家研究机构却认为这家 人工智能 公司的估值仅为1500亿美元，并表示华尔街即将面临“前所未有的投资者盲目性考验”。 独立金融研究机构New Constructs在最新报告中表示， Anthropic即将进行的IPO是“2026年最荒谬的IPO”。 Anthropic已向美国SEC秘密递交S-1招股书，计划最快11月中旬启动IPO，争取在11月26日感恩节前挂牌，最早可能在11月9日当周",
+     "source": "东方财富股票",
+     "zh": "“两万亿Anthropic”要翻车？机构：2026年最荒谬IPO 只值1500亿美元！"
+    },
+    {
+     "title": "汽车早报｜全球纯燃油车新车销量占比首次跌破50% Rivian获大众集团10亿美元贷款",
+     "link": "http://finance.eastmoney.com/news/1354,202610083889066234.html",
+     "pubDate": "Thu, 08 Oct 2026 08:33:00 +0800",
+     "summary": "一汽丰田或将彻底退出历史舞台？公司辟谣 10月5日，一汽丰田 汽车 销售有限公司发布针对近期网络上出现的有关一汽丰田不实言论的声明：近期，中国第一 汽车 集团有限公司与广州 汽车 工业集团有限公司签署战略合作框架协议，引发行业及消费者广泛关注。一汽丰田深耕国内市场23年，拥有成熟的产品矩阵、完备的产销售后体系和千万用户保有规模。目前全系车型产销、迭代规划均按计划有序推进，后续将依托集团合作的更大资源优势，持续创新，回馈广大用户信任。针对部分网络账号散布的“一汽丰田或将彻底退出历史舞台”“丰田大降价”等不实言论，我司保留法律追责权利。 蔚来 换电单日总量再创 历史新高 据 蔚来 消息，2026年",
+     "source": "东方财富股票",
+     "zh": "汽车早报｜全球纯燃油车新车销量占比首次跌破50% Rivian获大众集团10亿美元贷款"
+    },
+    {
+     "title": "今日看点｜2026年中央金融机构注资特别国债发行",
+     "link": "http://www.eeo.com.cn/2026/1008/1057217.shtml",
+     "pubDate": "Thu, 08 Oct 2026 08:31:43 +0800",
+     "summary": "根据财政部日前公布的有关安排，10月8日，2026年中央金融机构注资特别国债（一期）将进行首发招标。据悉，本期国债为5年期固定利率附息债，竞争性招标面值总额1500亿元，国债票面利率通过竞争性招标确定。",
+     "source": "经济观察网",
+     "zh": "今日看点｜2026年中央金融机构注资特别国债发行"
+    },
+    {
+     "title": "韩股“唯一的买家”提前离场了？",
+     "link": "https://wallstreetcn.com/articles/3783138",
+     "pubDate": "Thu, 08 Oct 2026 08:29:44 +0800",
+     "summary": "韩国股市正面临一场关键的流动性考验。支撑KOSPI指数在散户与外资持续抛售压力下勉强维稳的最后一道防线——三星电子与SK海力士合计约400亿美元的史上最大规模股票回购计划——已提前数周宣告终结， 市场正在直面高盛此前警告的\"流动性真空\"。 三星电子的回购计划已于本周结束，SK海力士的收尾也仅剩数个交易日。 在此之前的两个月里，这两家公司几乎是韩国股市唯一的净买家，单独承接了外资与散户合计逾250亿美元的抛售压力。随着企业回购支撑骤然撤出，KOSPI周三（10月7日）下跌2%，再度失守7000点关口，外资单日净卖出达19亿美元。 更为不利的是， 三星电子三季度业绩同步出炉，营收与营业利润双双低于",
+     "source": "华尔街见闻",
+     "zh": "韩股“唯一的买家”提前离场了？"
+    },
+    {
      "title": "债券风暴笼罩：10年期拍卖拯救美债， 欧债“深陷泥潭”",
      "link": "https://wallstreetcn.com/articles/3783136",
      "pubDate": "Thu, 08 Oct 2026 08:27:14 +0800",
@@ -2265,20 +2337,12 @@
      "zh": "债券风暴笼罩：10年期拍卖拯救美债， 欧债“深陷泥潭”"
     },
     {
-     "title": "我科学家首次逐日量化河流微塑料入海量",
-     "link": "http://finance.eastmoney.com/news/1350,202610083889062830.html",
-     "pubDate": "Thu, 08 Oct 2026 08:23:46 +0800",
-     "summary": "全球河流每年向海洋输送多少微 塑料 ？答案是约26万吨。北京大学城市与环境学院王学军教授、刘茂甸研究员领衔的研究团队，利用观测数据构建河流微 塑料 传输模型，在全球尺度上首次逐日量化了河流微 塑料 向海洋的输送规模。这些微塑料并非全年匀速入海，而是集中在雨季和极端降雨时段入海。相关成果于日前发表。 王学军介绍，微塑料已遍布全球海洋，并可能通过食物链累积，影响海洋生态和人类健康。河流是陆源微塑料进入海洋的重要通道之一，但全球河流一年到底输送了多少微塑料，这些污染又集中在什么时候入海，一直缺少可靠估算。 研究团队基于河流微塑料观测数据，构建高时空分辨率的传输模型，摸清全球河流微塑料入海的空间分布与",
-     "source": "东方财富股票",
-     "zh": "我科学家首次逐日量化河流微塑料入海量"
-    },
-    {
-     "title": "编织机器人电子皮肤成为可能",
-     "link": "http://finance.eastmoney.com/news/1350,202610083889062713.html",
-     "pubDate": "Thu, 08 Oct 2026 08:22:53 +0800",
-     "summary": "你知道吗，复杂的电路系统也可以“纺”进柔软的纤维里，编织 机器人 电子 皮肤成为可能。记者从东华大学获悉，东华大学教授朱美芳、研究员王刚等通过微流控编码纺丝，将 电子 器件及其连接关系融入连续纤维的内部结构，实现纤维成形与电路构筑同步进行，让纤维本身成为电路。这一研究进展为具身智能应用提供了更多可能。相关成果于日前发表。 具身智能的发展，需要 电子 系统适应 机器人 的复杂形态与运动变化。柔软、可弯曲的纤维为电子功能融入这些结构提供了新的载体。然而，从单个纤维器件走向功能电路，必须同时解决材料排布、器件结构和电连接问题。如何在纤维成形过程中将这些环节协同起来，是纤维电子走向系统集成的关键。 围",
-     "source": "东方财富股票",
-     "zh": "编织机器人电子皮肤成为可能"
+     "title": "从抢着买到打折卖，越南楼市又“变天”？",
+     "link": "http://www.eeo.com.cn/2026/1008/1057188.shtml",
+     "pubDate": "Thu, 08 Oct 2026 08:26:06 +0800",
+     "summary": "南方财经 21世纪经济报道记者赖镇桃 杨雨莱 河内、胡志明报道 最近，越南地产股再次跌入债市爆雷后的“至暗时刻”。截至9月30日，越南VN30指数周跌2.46%，多只热门地产股猛烈下挫，跌至2022年以来的最低位。2022年，堪称越南房地产行业近十年来“最悲壮”的一年——大批地产商债务违约，资金链瞬间断裂，破产、清盘轮番上演，留给购房者的只剩数千个烂尾楼项目。 如今，越南地产股再次跌进2022年以来的低位，是否预...",
+     "source": "经济观察网",
+     "zh": "从抢着买到打折卖，越南楼市又“变天”？"
     },
     {
      "title": "特朗普称对伊朗军事行动 “必须收尾了”，媒体爆料美军制定“中选前打击方案”，油价应声上涨",
@@ -2287,38 +2351,6 @@
      "summary": "美伊冲突进入关键节点，军事升级预期与谈判僵局同步发酵，油价随之大幅走高。 据 新华社 报道，美国总统特朗普6日公开表示， 对伊朗的军事行动“必须收尾了” ，并称唯一待定的问题是“以柔和还是强硬的方式收尾”。据彭博10月8日消息，《大西洋月刊》援引两名美国政府官员报道，白宫已要求五角大楼制定针对伊朗目标的打击方案，且相关行动可能在下月中期选举前付诸实施。 这一报道直接打破了市场此前普遍预期——即特朗普将在选前维持相对克制态势。 消息传出后，油价应声上涨。 西德克萨斯中质原油（WTI）涨向每桶89美元，布伦特原油周三收盘逼近每桶100美元，目前已站上101美元/桶 。与此同时，热带风暴Isaias",
      "source": "华尔街见闻",
      "zh": "特朗普称对伊朗军事行动 “必须收尾了”，媒体爆料美军制定“中选前打击方案”，油价应声上涨"
-    },
-    {
-     "title": "学习时报：何为“通道经济”",
-     "link": "http://finance.eastmoney.com/news/1355,202610083889061346.html",
-     "pubDate": "Thu, 08 Oct 2026 08:18:57 +0800",
-     "summary": "9月16日，世纪工程平陆运河建成通航。这是 新中国成立以来我国第一条国家层面统筹建设的通江达海运河 ，是区域“硬联通”的重大突破。2000多年前张骞凿空西域，古丝绸之路连接起长安、罗马等东西方重镇，沿线敦煌、撒马尔罕等商埠因路而兴；600多年前郑和七下西洋，海上贸易网络贯通西 太平洋 与印度洋；步入近代，苏伊士运河、巴拿马运河相继开通，重塑全球贸易版图；19世纪中后期横贯北美大陆的铁路，则带动了美国中西部产业带兴起。历史反复证明：通道兴则经济兴，枢纽通则百业旺。 所谓“通道经济”，是指以 综合 交通运输 通道为主要依托，以 物流 枢纽、开放口岸等为主要载体，通过连接不同区域和流域的交通主干道以",
-     "source": "东方财富股票",
-     "zh": "学习时报：何为“通道经济”"
-    },
-    {
-     "title": "中文在线：终止发行H股股票并于香港联交所上市事项",
-     "link": "http://finance.eastmoney.com/news/1354,202610083889062530.html",
-     "pubDate": "Thu, 08 Oct 2026 08:17:54 +0800",
-     "summary": "中文在线 公告，基于市场环境与公司自身发展规划的 综合 考量，公司决定终止发行H股股票并于香港联交所上市。目前公司经营状况正常，此次终止H股发行上市事项不会对公司经营活动和持续发展造成重大影响。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "中文在线：终止发行H股股票并于香港联交所上市事项"
-    },
-    {
-     "title": "COINBASE：将为三星钱包提供稳定币体验",
-     "link": "http://stock.eastmoney.com/news/1611,202610083889061518.html",
-     "pubDate": "Thu, 08 Oct 2026 08:16:16 +0800",
-     "summary": "COINBASE：将为三星钱包提供稳定币体验。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "COINBASE：将为三星钱包提供稳定币体验"
-    },
-    {
-     "title": "特朗普：我会给美国的老年人返还资金",
-     "link": "http://finance.eastmoney.com/news/1351,202610083889061116.html",
-     "pubDate": "Thu, 08 Oct 2026 08:16:15 +0800",
-     "summary": "特朗普：我会给美国的老年人返还资金。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：我会给美国的老年人返还资金"
     },
     {
      "title": "US Bank rolls out identity, privacy and credit monitoring service",
@@ -2345,22 +2377,6 @@
      "zh": "由于国际能源署同意加速释放石油库存，优先考虑柴油，原油价格下跌"
     },
     {
-     "title": "文质彬彬·每日好词语｜有我之境/无我之境",
-     "link": "http://www.eeo.com.cn/2026/1008/1057178.shtml",
-     "pubDate": "Thu, 08 Oct 2026 07:39:12 +0800",
-     "summary": "整理/秦珍子 制图/李晗 有我之境/无我之境 “有我之境”和“无我之境”是近代学者王国维从物我关系的角度所概括和总结的中国古典诗词的两种审美境界。“有我之境”，就是词作者将自己的主...",
-     "source": "经济观察网",
-     "zh": "文质彬彬·每日好词语｜有我之境/无我之境"
-    },
-    {
-     "title": "一日禅：累积",
-     "link": "http://www.eeo.com.cn/2026/1008/1057181.shtml",
-     "pubDate": "Thu, 08 Oct 2026 07:39:11 +0800",
-     "summary": "图片来源：凤凰网佛教文化 摄影：闫秀勇 任何经历都是一种累积，累积的越多，人就越成熟；经历的越多，生命就越有厚度。痛苦并成熟着，快乐并丰满着。",
-     "source": "经济观察网",
-     "zh": "一日禅：累积"
-    },
-    {
      "title": "利率上行重燃通胀担忧，标普纳指自纪录高位回落，美长债创2002年新高，原油先涨后跌",
      "link": "https://wallstreetcn.com/articles/3783096",
      "pubDate": "Thu, 08 Oct 2026 07:37:36 +0800",
@@ -2375,46 +2391,6 @@
      "summary": "华见早安之声 要闻精选 中国 9月外储环比降1.1%， 央行 连续23个月增持黄金 ， 9月购金 节奏进一步 加快 。 央视玉渊谭天 ：中欧经贸需要寻找更大共识，法德提出保护主义工具无助解决问题； 欧委会贸易和经济安全委员将很快访问北京 。 恒生科技指数 首次编纂规则大调整12月将至 ，取消行业要求，成分股数量由30只扩至50只。 美联储会议纪要 ： 全体19名决策者支持9月加息 但理由不一， 多数预计年内还加、暗示10月不急 ；7月联合干预日元系美财政部行动，未动用联储资金。 10年期美债标售 认购倍数2.77创2016年来新高， 海外需求接近纪录高位 ， 长债抛压缓和 ，10年期收益率一度",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年10月8日"
-    },
-    {
-     "title": "三星发布初步业绩：Q3营业利润首破百万亿韩元，同比暴增近九倍",
-     "link": "https://wallstreetcn.com/articles/3783134",
-     "pubDate": "Thu, 08 Oct 2026 07:28:08 +0800",
-     "summary": "三星电子三季度营业利润创下历史新高，AI基础设施投资热潮推动存储芯片需求持续爆发，令这家全球最大存储芯片制造商坐收丰厚红利。 周四，三星发布初步业绩指引， 2026年第三季度（7月至9月）合并营业利润约为107.4万亿韩元（约合801亿美元），较去年同期的12.17万亿韩元暴增近九倍，创下公司史上首次单季营业利润突破百万亿韩元的历史纪录。 这一数字超越LSEG综合预估的106.1万亿韩元，但略低于彭博分析师均值预期的108.7万亿韩元。 三季度营收约为195万亿韩元，同比增长127%，亦低于市场预期。 这是三星连续第四个季度刷新营业利润纪录。 此番业绩的驱动力集中于内存芯片业务，传统DRAM及",
-     "source": "华尔街见闻",
-     "zh": "三星发布初步业绩：Q3营业利润首破百万亿韩元，同比暴增近九倍"
-    },
-    {
-     "title": "【环球财经】国际货币基金组织预计高油价将持续至明年",
-     "link": "http://www.eeo.com.cn/2026/1008/1057170.shtml",
-     "pubDate": "Thu, 08 Oct 2026 07:13:11 +0800",
-     "summary": "新华财经新加坡10月8日电（记者舒畅）国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃7日在新加坡表示，即使当前海湾地区的战事很快结束，高能源价格仍可能持续一段时间。 格奥尔基耶娃当天在国际货币基金组织和世界银行集团2026年秋季年会预热活动上致辞时说，从目前布伦特原油期货价格走势看，预计高油价将持续至2027年。 她说：“到目前为止，能源价格冲击虽然规模较大，但总体仍在可控范围内。...",
-     "source": "经济观察网",
-     "zh": "【环球财经】国际货币基金组织预计高油价将持续至明年"
-    },
-    {
-     "title": "【环球财经】世界银行预测2026年乌兹别克斯坦经济增长7.9%",
-     "link": "http://www.eeo.com.cn/2026/1008/1057169.shtml",
-     "pubDate": "Thu, 08 Oct 2026 07:13:10 +0800",
-     "summary": "新华财经塔什干10月8日电（记者包诺敏）据当地媒体引述世界银行最新报告报道，世界银行预测乌兹别克斯坦经济继2025年增长7.7%之后，2026年将增长7.9%。 报告指出，这一增速将位居欧洲和中亚地区国家首位。同时，侨汇收入仍是支撑乌国内消费的重要因素。2026年上半年，乌接收侨汇金额创下92亿美元的历史新高，同比增长13%。 此外，在能源、数字基础设施和工业领域重大项目的推动下，乌兹别克斯坦继续积极吸引...",
-     "source": "经济观察网",
-     "zh": "【环球财经】世界银行预测2026年乌兹别克斯坦经济增长7.9%"
-    },
-    {
-     "title": "【环球财经】国际能源署成员国同意加快释放1亿桶石油储备",
-     "link": "http://www.eeo.com.cn/2026/1008/1057168.shtml",
-     "pubDate": "Thu, 08 Oct 2026 07:13:10 +0800",
-     "summary": "新华财经巴黎10月8日电（记者崔可欣）国际能源署7日发表声明说，其成员国政府同意加快落实今年3月宣布的石油储备释放计划。若此前承诺但尚未释放的储备全部投放市场，预计还可释放约1亿桶石油。 声明还说，...",
-     "source": "经济观察网",
-     "zh": "【环球财经】国际能源署成员国同意加快释放1亿桶石油储备"
-    },
-    {
-     "title": "【环球财经】印度央行3年多来首次加息",
-     "link": "http://www.eeo.com.cn/2026/1008/1057167.shtml",
-     "pubDate": "Thu, 08 Oct 2026 07:13:10 +0800",
-     "summary": "新华财经新德里10月8日电 印度储备银行（央行）7日宣布，决定将作为基准利率的回购利率上调25个基点至5.50%。这是印度央行自2023年2月以来首次加息。 印度央行行长桑贾伊·马尔霍特拉表示，当前通胀压力加剧，今后将根据经济形势变化继续加息或维持利率不变。 据印度《经济时报》报道，此次加息后，住房贷款、个人贷款和汽车贷款等贷款利率预计随之上升。 印度央行当天还将2026-2027财年印度经济增长...",
-     "source": "经济观察网",
-     "zh": "【环球财经】印度央行3年多来首次加息"
     },
     {
      "title": "RGP expects Q2 revenue of $95M-$100M as it targets utilization and cost alignment",
@@ -2433,12 +2409,12 @@
      "zh": "人工智能热潮推动三星第三季度利润创历史新高 800 亿美元"
     },
     {
-     "title": "三星三季度利润、销售额逊色于市场预期",
+     "title": "三星电子第三季度利润、销售额逊色于市场预期",
      "link": "http://finance.eastmoney.com/news/1351,202610083889037538.html",
      "pubDate": "Thu, 08 Oct 2026 06:47:56 +0800",
-     "summary": "三星 电子 第三季度销售额195.00万亿韩元，预估201.9万亿韩元。第三季度营业利润107.40万亿韩元，预估108.67万亿韩元。 （文章来源：财联社）",
+     "summary": "三星 电子 第三季度销售额195.00万亿韩元，预估201.9万亿韩元。第三季度营业利润107.40万亿韩元，预估108.67万亿韩元。 相关报道 “存储荒”持续！三星Q3营业利润猛增近8倍 史上首破100万亿韩元大关 周四（10月8日），全球最大的内存芯片制造商三星 电子 发布了2026年第三季度初步业绩，显示随着对 人工智能 （AI）芯片的旺盛需求持续推高存储业务盈利，三星第三季度营业利润较去年同期猛增782%，且超出分析师预期。 根据初步业绩， 三星 电子 今年7月至9月期间的营业利润为107.4 万亿韩元（约合801.7 亿美元），较上年同期的12.17万亿韩元飙升近8倍，高于LSEG",
      "source": "东方财富资讯",
-     "zh": "三星三季度利润、销售额逊色于市场预期"
+     "zh": "三星电子第三季度利润、销售额逊色于市场预期"
     },
     {
      "title": "General Dynamics names current president Deep as next CEO",
@@ -2487,6 +2463,30 @@
      "summary": "10月8日(星期四)，今日报刊头条主要内容精华如下： 中国证券报 国庆假期楼市实探：看房的人明显多起来了 国庆假期期间，中国证券报调研小分队对北京、深圳、广州、贵阳等地楼市进行实地调研发现，受购房贷款财政贴息等利好政策影响，楼市关注度提升，记者走访多地售楼处发现，看房的人明显多起来了。值得注意的是，在政策组合拳和开发商促销共同作用下，全国各地以价换量、以量促稳并行推进，政策红利持续释放、市场信心稳步修复。随着增量政策持续落地，全国楼市有望延续企稳回升态势。 国庆车市一线调研：金融权益成促销新密码 国庆假期， 汽车 消费市场的促销看起来颇为热闹：最高8万元两年0利息金融方案、最高2.5万元置换补",
      "source": "东方财富资讯",
      "zh": "10月8日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
+     "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
+     "link": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
+     "pubDate": "Wed, 07 Oct 2026 21:31:40 GMT",
+     "summary": "Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.",
+     "source": "CNBC",
+     "zh": "关税退还后，李维斯上调利润指引，但销售前景不太乐观"
+    },
+    {
+     "title": "Trump doesn&apos;t think Russia plague incident is bioweapon, plans Putin call Wednesday",
+     "link": "https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html",
+     "pubDate": "Wed, 07 Oct 2026 21:20:40 GMT",
+     "summary": "Nearly 200 people were placed under medical observation earlier this week in Russia's Irkutsk region in eastern Siberia over suspected exposure to plague.",
+     "source": "CNBC",
+     "zh": "特朗普不认为俄罗斯鼠疫事件是生物武器，计划周三与普京通话"
+    },
+    {
+     "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
+     "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
+     "pubDate": "Wed, 07 Oct 2026 20:58:00 GMT",
+     "summary": "Technology is the only one of the S&P 500’s 11 sectors that gained since Sept. 1, as Treasury yields have climbed to multi-decade highs.",
+     "source": "MarketWatch",
+     "zh": "较高的收益率正在对股市的所有领域造成影响，除了重要的领域"
     }
    ]
   },

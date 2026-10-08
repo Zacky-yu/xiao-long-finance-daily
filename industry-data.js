@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/8 09:12:08",
+ "generated_at": "2026/10/8 09:24:36",
  "recent_days": 7,
  "industries": [
   {
@@ -514,60 +514,12 @@ window.INDUSTRY_DATA = {
      "zh": "PTC acquisition positions Schneider Electric to challenge Siemens"
     },
     {
-     "title": "ISS National Lab expands Orbital Edge accelerator to eight space technology startups",
-     "link": "https://roboticsandautomationnews.com/2026/10/07/iss-national-lab-expands-orbital-edge-accelerator-to-eight-space-technology-startups/105681/",
-     "pubDate": "Wed, 07 Oct 2026 18:09:51 +0000",
-     "summary": "The International Space Station National Laboratory has expanded its Orbital Edge Accelerator to eight startups, with participating companies eligible for investments of between $500,000 and $750,000 as well as opportunities to test technologies in space. The second annual accelerator is aimed at st",
-     "source": "Robotics & Automation",
-     "zh": "ISS National Lab expands Orbital Edge accelerator to eight space technology startups"
-    },
-    {
-     "title": "DataraAI develops robotic system to automate server cabling",
-     "link": "https://roboticsandautomationnews.com/2026/10/07/dataraai-develops-robotic-system-to-automate-server-cabling/105676/",
-     "pubDate": "Wed, 07 Oct 2026 17:59:20 +0000",
-     "summary": "DataraAI is developing robotic automation technology designed to enable industrial robot arms to connect cables and other components during the assembly of AI servers and racks – a task that is still largely performed manually. (See video below.) The California-based company is targeting operations ",
-     "source": "Robotics & Automation",
-     "zh": "DataraAI develops robotic system to automate server cabling"
-    },
-    {
-     "title": "Beam Global to acquire ScoutDI for $24 million and manufacture inspection drones in US",
-     "link": "https://roboticsandautomationnews.com/2026/10/07/beam-global-to-acquire-scoutdi-for-24-million-and-manufacture-inspection-drones-in-us/105671/",
-     "pubDate": "Wed, 07 Oct 2026 16:32:58 +0000",
-     "summary": "Beam Global has signed a definitive agreement to acquire Norwegian industrial drone company ScoutDI for approximately $24 million, with plans to manufacture its inspection drones in the United States. ScoutDI develops drone systems and AI-enhanced software for inspecting confined spaces and other di",
-     "source": "Robotics & Automation",
-     "zh": "Beam Global to acquire ScoutDI for $24 million and manufacture inspection drones in US"
-    },
-    {
-     "title": "Building for Automation: What a Robot-Ready Warehouse Needs From its Steel Shell",
-     "link": "https://roboticsandautomationnews.com/2026/10/07/building-for-automation-what-a-robot-ready-warehouse-needs-from-its-steel-shell/105665/",
-     "pubDate": "Wed, 07 Oct 2026 16:24:29 +0000",
-     "summary": "A robot-ready warehouse needs a building shell designed around the automation from the start, with the column grid, clear height, floor, roof loads and expansion path all set by the system that will run inside it. Most automation planning begins inside the four walls, with the stock profile, the sto",
-     "source": "Robotics & Automation",
-     "zh": "Building for Automation: What a Robot-Ready Warehouse Needs From its Steel Shell"
-    },
-    {
      "title": "Teradyne Robotics, Elite Robots settle cobot dispute",
      "link": "https://www.therobotreport.com/terayne-robotics-elite-robots-settle-cobot-dispute/",
      "pubDate": "Wed, 07 Oct 2026 16:20:52 +0000",
      "summary": "Teradyne Robotics and Elite Robots have settled their software dispute, ending the legal case without disclosing the terms of the agreement. The post Teradyne Robotics, Elite Robots settle cobot dispute appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "Teradyne Robotics, Elite Robots settle cobot dispute"
-    },
-    {
-     "title": "Faraday Future plans US robot factory as it expands beyond electric vehicles",
-     "link": "https://roboticsandautomationnews.com/2026/10/07/faraday-future-plans-us-robot-factory-as-it-expands-beyond-electric-vehicles/105658/",
-     "pubDate": "Wed, 07 Oct 2026 16:01:17 +0000",
-     "summary": "Faraday Future is planning to bring a robotics factory online in the United States by the end of 2026 as the electric vehicle company accelerates its expansion into humanoid and other embodied AI robots. The California-based company says it aims to have the first new robot from its “Built in USA” pr",
-     "source": "Robotics & Automation",
-     "zh": "Faraday Future plans US robot factory as it expands beyond electric vehicles"
-    },
-    {
-     "title": "Cloud, on-premises or hybrid: Securing robotics infrastructure",
-     "link": "https://roboticsandautomationnews.com/2026/10/07/cloud-on-premises-or-hybrid-securing-robotics-infrastructure/105655/",
-     "pubDate": "Wed, 07 Oct 2026 15:36:14 +0000",
-     "summary": "A robot arm doesn’t care where the server lives There is no single safest option. Cloud, on-premises and hybrid setups can all protect robotics systems well. They just split responsibility differently, and most factories end up blending them. Sounds neat on paper. In practice, it’s messy. A welding ",
-     "source": "Robotics & Automation",
-     "zh": "Cloud, on-premises or hybrid: Securing robotics infrastructure"
     },
     {
      "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
@@ -1754,6 +1706,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "加州非营利组织新报告：ChatGPT 青少年模式并不适合青少年",
+     "link": "https://www.ithome.com/1/010/383.htm",
+     "pubDate": "Thu, 08 Oct 2026 01:21:05 GMT",
+     "summary": "IT之家 10 月 8 日消息，据彭博社 7 日报道，加州非营利组织 Common Sense Media 发布的新报告认为，OpenAI 的 ChatGPT 青少年模式对未成年人而言风险过高。 IT之家注：13 至 17 岁用户默认使用青少年模式与 ChatGPT 对话。 该机构旗下青少年 AI 安全研究所的测试发现，青少年账户出现令人担忧的行为时，例如长时间与 ChatGPT 讨论 自杀、自伤或进食障碍 ，青少年模式 往往迟迟不通知家长，有时根本不发出通知 。用户谈及上述高风险话题时，青少年模式也无法可靠地建议他们拨打危机干预热线或寻求专业帮助。 据测试，青少年账户似乎要 在数周内围绕十多",
+     "source": "IT之家",
+     "zh": "加州非营利组织新报告：ChatGPT 青少年模式并不适合青少年"
+    },
+    {
+     "title": "苹果 App Store 五年交易额增长超一倍，2025 年达 4 万亿元人民币",
+     "link": "https://www.ithome.com/1/010/382.htm",
+     "pubDate": "Thu, 08 Oct 2026 01:19:46 GMT",
+     "summary": "IT之家 10 月 8 日消息，苹果官方今日发布了一项由上海财经大学商学院副教授居恒和安诺析思国际咨询公司经济学家 Markus von Wartburg 博士合作撰写的新研究报告。 该研究发现，2020 年至 2025 年，App Store 生态系统在中国（在本报告中，“中国”指中国大陆市场）的 规模增长超过一倍 ，助力本地开发者获取成功。 研究发现，2020 年，中国 App Store 生态系统促成的营业额和销售额达到近 2 万亿元人民币， 到 2025 年已增长到 4 万亿元人民币 。其中，超过 95% 的交易额无需向 Apple 支付任何佣金。 这项研究还发现，中国开发者正在全球舞",
+     "source": "IT之家",
+     "zh": "苹果 App Store 五年交易额增长超一倍，2025 年达 4 万亿元人民币"
+    },
+    {
+     "title": "亚马逊 Ring 发布支持手拧应急发电的智能门锁",
+     "link": "https://www.ithome.com/1/010/381.htm",
+     "pubDate": "Thu, 08 Oct 2026 01:18:19 GMT",
+     "summary": "IT之家 10 月 8 日消息，Amazon（亚马逊）旗下智能家居品牌 Ring 当地时间 7 日发布了其智能门锁产品。 这一型号在内置电池的同时还配备应急发电的手拧旋钮 ，避免了电池没电导致无法进门的尴尬问题。 Ring 智能门锁支持指纹识别、键盘、Ring 应用、Alexa 语音助手 4 种解锁方式，用户还可设置具体的访问权限。其通过由附近 Amazon 设备支持的 Amazon Sidewalk 共享网络保持连接，可与用户已有的 Ring 和 Amazon 设备无缝协作。 Ring 还同期发布了 5 款监控产品 ，包括 4 款支持 4K 分辨率的摄像头和 1 款室内用 2K 环形云台摄像",
+     "source": "IT之家",
+     "zh": "亚马逊 Ring 发布支持手拧应急发电的智能门锁"
+    },
+    {
+     "title": "比亚迪日本累计交付超 1 万台，副总裁刘学亮亲自交车",
+     "link": "https://www.ithome.com/1/010/379.htm",
+     "pubDate": "Thu, 08 Oct 2026 01:15:24 GMT",
+     "summary": "IT之家 10 月 8 日消息，比亚迪日本公司于 10 月 4 日在神奈川县平塚市的 BYD 湘南店举行交付仪式，宣布其在日本市场累计交付量突破 1 万台。 比亚迪副总裁刘学亮与比亚迪日本公司社长东福寺厚树出席活动，亲自向车主致谢。据公开报道，比亚迪日本第 1 万台交付车型为海狮 06（SEALION 6）。 比亚迪于 2023 年 1 月正式进入日本乘用车市场，至达成 1 万台累计交付历时约三年九个月。刘学亮在仪式现场表示，达成首个一万台历时近四年，团队有信心更快实现下一个一万台的目标。 亚迪 2025 年全年在日注册量为 3742 台，同比增长 68%，实现连续三年增长。进入 2026 年",
+     "source": "IT之家",
+     "zh": "比亚迪日本累计交付超 1 万台，副总裁刘学亮亲自交车"
+    },
+    {
+     "title": "一次同意，二十一次缺席",
+     "link": "https://www.huxiu.com/article/4895725.html?f=rss",
+     "pubDate": "Thu, 08 Oct 2026 09:11:31 +0800",
+     "summary": "本文来自微信公众号： 观潮体系 ，作者：观潮 ——“所有AI都听话之后”系列第二篇 一 二十一笔扣款，零次决定。 某款工具软件，每月六十八元，连续扣了二十一个月。两年前，为了用它的一个功能，我点过“开始免费试用”。试用期七天，之后自动续费。我当时想的是：先用几天，不合适就取消。 我没有取消。不是决定不取消——是“要不要继续付费”这件事，之后再也没有出现在我的生活中。平台也许发过信息。我后来在促销邮件和更新通知之间，找到过几封当时没有在意的邮件。二十一个月，账单上出现了二十一次扣款；我的脑中，没有做过一次决定。 责任在我。我点过试用，就该留意扣费。忘了，不能当作授权没有发生。 但责任承认之后，问",
+     "source": "虎嗅",
+     "zh": "一次同意，二十一次缺席"
+    },
+    {
+     "title": "付费会员超千万，山姆凶猛",
+     "link": "https://www.huxiu.com/article/4895726.html?f=rss",
+     "pubDate": "Thu, 08 Oct 2026 09:09:59 +0800",
+     "summary": "本文来自微信公众号： 商业评论零售现场 ，作者：响马 早前，流传着“送礼就送脑白金”；如今，流行“送礼就往山姆跑”。 2026年中秋节前夕，不少消费者奔赴山姆会员店，或者通过手机下单，只为购买月饼礼盒。 今年，山姆上线了13款自有月饼礼盒，价格最低99.9元，最高238元，主要集中在138元至188元区间。 请注意，这是山姆“自有”月饼礼盒。此外，另有一些老字号品牌，比如，香港美心“七星伴明月”月饼1kg售价496元。 多个价位的月饼，登上山姆会员店“月饼热销榜”，满足了消费者送礼的需求。这一幕，和此前山姆提供多种春节礼盒、一度被抢到断货类似，展现出山姆会员店强大的市场影响力。 跳出“节日档”",
+     "source": "虎嗅",
+     "zh": "付费会员超千万，山姆凶猛"
+    },
+    {
+     "title": "“白宫 AI 沙皇”履新第一站定在硅谷，消息称会见英伟达黄仁勋、OpenAI 奥尔特曼等巨头 CEO",
+     "link": "https://www.ithome.com/1/010/373.htm",
+     "pubDate": "Thu, 08 Oct 2026 01:09:51 GMT",
+     "summary": "IT之家 10 月 8 日消息，据彭博社今天（8 日）早间报道，美国国家情报总监、新科“白宫 AI 沙皇”杰伊 · 克莱顿接下了另一项职务：领导特朗普口中所称的“超级智能工作组”。履新后的第一站是硅谷，他将与 AI 行业多名重量级高管见面。 据知情人士透露，克莱顿此行将会见 英伟达的黄仁勋、OpenAI 的奥尔特曼、Anthropic 的达里奥 · 阿莫代伊和 Meta 的马克 · 扎克伯格 等多名 CEO。 这也是克莱顿接手负责统筹联邦政府 AI 事务的新工作组后，首次与科技行业高管会面。 就在上周，其中不少高管还与克莱顿一同出席白宫午宴，特朗普与多家 AI 企业在会上签署了一份自愿性安全协",
+     "source": "IT之家",
+     "zh": "“白宫 AI 沙皇”履新第一站定在硅谷，消息称会见英伟达黄仁勋、OpenAI 奥尔特曼等巨头 CEO"
+    },
+    {
      "title": "民主党失败的本质",
      "link": "https://www.huxiu.com/article/4895724.html?f=rss",
      "pubDate": "Thu, 08 Oct 2026 09:08:41 +0800",
@@ -1770,44 +1778,12 @@ window.INDUSTRY_DATA = {
      "zh": "美国一男子因利用 AI 骗取音乐版权收入被判 18 个月监禁并罚没 800 万美元"
     },
     {
-     "title": "维信诺全球首款量产 2K 185Hz 面板曝光：基于第四代 pTSF 发光技术，iQOO 新机本月首发",
-     "link": "https://www.ithome.com/1/010/377.htm",
-     "pubDate": "Thu, 08 Oct 2026 01:05:43 GMT",
-     "summary": "IT之家 10 月 8 日消息，数码博主 @数码闲聊站 刚刚透露，维信诺已实现 2K 分辨率与 185Hz 刷新率组合的全球首发量产，并基于第四代发光技术 pTSF 打造了全新发光材料。 该博主表示，新屏幕在亮度、寿命和显示效果方面均有突破，并暗示“10 月 iQOO 新机见”。除此之外，荣耀方面似乎也将推出采用这款 2K 185Hz 面板的新机。 公开报道显示，pTSF（IT之家注：磷光辅助热活化敏化荧光）技术由清华大学联合维信诺等国内企业共同研发，已在 2025 年 12 月宣布实现量产商用。 该技术采用“接力”方式传递能量：TADF 材料作为敏化剂快速转换能量，再传递给高色纯度荧光染料发",
-     "source": "IT之家",
-     "zh": "维信诺全球首款量产 2K 185Hz 面板曝光：基于第四代 pTSF 发光技术，iQOO 新机本月首发"
-    },
-    {
      "title": "Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation (Bloomberg)",
      "link": "https://www.techmeme.com/261007/p44#a261007p44",
      "pubDate": "Wed, 07 Oct 2026 21:05:01 -0400",
      "summary": "Bloomberg : Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation &nbsp; &mdash;&nbsp; A former ByteDance Ltd. intern has secured funding from venture heavyweights including 5Y Capital for a st",
      "source": "Techmeme",
      "zh": "Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation (Bloomberg)"
-    },
-    {
-     "title": "优必选机器人再进车企：携手一汽-大众推进人形机器人在物流场景应用落地",
-     "link": "https://www.ithome.com/1/010/376.htm",
-     "pubDate": "Thu, 08 Oct 2026 00:57:13 GMT",
-     "summary": "IT之家 10 月 8 日消息，优必选今日发文，宣布已与一汽-大众汽车有限公司达成战略合作，双方将共同推进具身智能机器人在物流领域的应用场景开发及测试，同时构建示范应用场景，加速人形机器人在智能制造领域的部署与应用。 IT之家此前报道，优必选 Walker S Lite 此前已进入一汽-大众青岛分公司的国家级智能制造示范工厂进行车辆质检实训，与工厂自动化控制系统实现无缝集成对接，能够精准、高效地执行复杂任务。双方此次合作是在既有基础上向物流场景的进一步拓展。 面向人形机器人在工业制造等真实场景的落地应用，优必选已构建起包括具身大脑、仿人小脑、高性能本体、群体智能在内的四大核心技术集群。在具身大",
-     "source": "IT之家",
-     "zh": "优必选机器人再进车企：携手一汽-大众推进人形机器人在物流场景应用落地"
-    },
-    {
-     "title": "特朗普将向马斯克、黄仁勋、苏姿丰、纳德拉等科技高管颁发国家奖章",
-     "link": "https://www.ithome.com/1/010/375.htm",
-     "pubDate": "Thu, 08 Oct 2026 00:56:10 GMT",
-     "summary": "IT之家 10 月 8 日消息，据 CNBC 今日报道，美国总统特朗普将在当地时间周四的科学峰会上向包括埃隆 · 马斯克和迈克尔 · 戴尔在内的多位顶尖科技高管颁发国家奖章。 CNBC 援引白宫消息称，SpaceX 和特斯拉 CEO 埃隆 · 马斯克 、谷歌联合创始人 谢尔盖 · 布林 、英伟达 CEO 黄仁勋 、AMD CEO 苏姿丰 将被授予国家科学奖章。 此外，戴尔公司创始人 迈克尔 · 戴尔 、微软 CEO 萨提亚 · 纳德拉 将被授予国家技术与创新奖章。 白宫助理新闻秘书 Liz Huston 在一封电子邮件声明中表示：“美国政府感谢这些在科学和技术领域杰出领袖的贡献。这些获奖者正在",
-     "source": "IT之家",
-     "zh": "特朗普将向马斯克、黄仁勋、苏姿丰、纳德拉等科技高管颁发国家奖章"
-    },
-    {
-     "title": "索尼整合游戏与动漫，明年为 PS5 上线 Crunchyroll Hub 专属动漫中心",
-     "link": "https://www.ithome.com/1/010/374.htm",
-     "pubDate": "Thu, 08 Oct 2026 00:50:52 GMT",
-     "summary": "IT之家 10 月 8 日消息，索尼旗下的动漫平台 Crunchyroll 推出了新的 Crunchyroll Storyworks 部门。同时，索尼还宣布将动漫内容更深地整合进 PlayStation 5 生态。 PlayStation 总裁兼 CEO 西野秀明在索尼首届 Crunchyroll 动漫未来论坛上宣布，将于 2027 年春季在 PS5 主屏幕推出一个 Crunchyroll Hub 专属动漫中心，将动漫、漫改游戏以及 Crunchyroll 应用整合到一起。 Crunchyroll 总裁拉胡尔 · 普里尼则表示：“从 PlayStation 上的 Crunchyroll 会员，",
-     "source": "IT之家",
-     "zh": "索尼整合游戏与动漫，明年为 PS5 上线 Crunchyroll Hub 专属动漫中心"
     },
     {
      "title": "纽约时报律师漂白证据露馅儿，会影响诉OpenAI案的结果吗？",
@@ -1826,12 +1802,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI让数学再也回不去那个旧世界了。"
     },
     {
-     "title": "DMA Design“老人”话当年：初代《GTA》之所以是开放世界，只因开发者懒得做菜单",
-     "link": "https://www.ithome.com/1/010/372.htm",
-     "pubDate": "Thu, 08 Oct 2026 00:42:54 GMT",
-     "summary": "IT之家 10 月 8 日消息，《GTA》初代之所以做成开放世界，背后的原因相当意外：开发商 DMA Design（R 星北方工作室前身）的团队不想另外做一套让玩家选择任务的主菜单。 当地时间 7 日，据外媒 VGC 报道，多名 DMA Design 开发者最近参加了苏格兰游戏开发者协会在邓迪举办的 Games Day 2026，并在“侠盗猎车手起源”座谈会上回顾《GTA》初代的开发过程。 DMA Design 创意总监加里 · 佩恩称，《GTA》最初的构想远比成品更线性，玩家原本 要从菜单里的任务列表中选择任务 。“我以前经常过来看开发进度，尤其是刚开始的时候，整个项目非常混乱，有一段时间甚",
-     "source": "IT之家",
-     "zh": "DMA Design“老人”话当年：初代《GTA》之所以是开放世界，只因开发者懒得做菜单"
+     "title": "Rust Port of TypeScript (Tsc)",
+     "link": "https://github.com/pingdotgg/ts-rust",
+     "pubDate": "Thu, 08 Oct 2026 00:46:00 +0000",
+     "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 7 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Rust Port of TypeScript (Tsc)"
     },
     {
      "title": "都在等罗永浩翻车",
@@ -1858,22 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "Edge AI Daily 早报（10月8日）"
     },
     {
-     "title": "被嘲“球缩力拉满”的匹克球，真比乒羽网低一头？",
-     "link": "https://www.huxiu.com/article/4895716.html?f=rss",
-     "pubDate": "Thu, 08 Oct 2026 08:33:04 +0800",
-     "summary": "本文来自微信公众号： 新周刊 ，作者：草莓脆，编辑：腾宇 运动品位是最隐蔽的阶层标识，因为它看起来最像“个人爱好”，也会因为某一股潮流被推到大众面前。但一项大众运动的魅力，从来不是它能不能满足人对“竞技”的想象，而是它能不能满足人对“运动”的需求。 都说一项运动开始变得有意思，成功跻身主流成为大众运动，往往不是因为所有人都喜欢它，而是因为它开始让不同的人产生不同意见。匹克球正是这样的存在，毕竟不是哪项运动都能同时收获“中产新宠”和“球类运动鄙视链底端”两种评价。 这种矛盾是匹克球最初收获关注的原因之一。在无数匹克球的夸夸帖中，都能看到同一句形容：用大号乒乓球拍在羽毛球场上打网球，兼顾网球的力量",
-     "source": "虎嗅",
-     "zh": "被嘲“球缩力拉满”的匹克球，真比乒羽网低一头？"
-    },
-    {
-     "title": "国庆每天3亿人出游，旅行社却撑不住了",
-     "link": "https://www.huxiu.com/article/4895705.html?f=rss",
-     "pubDate": "Thu, 08 Oct 2026 08:26:53 +0800",
-     "summary": "本文来自微信公众号： 表外表里 ，编辑：曹宾玲、杨静，作者：陈梓洁，题图来自：视觉中国 在李佳琦直播间，大牌美妆顶多打六七折，旅行团直接对半砍。 &ldquo;化妆品才是李佳琦的基本盘，现在旅游产品折扣比化妆品更狠。&rdquo;资深旅游从业者孙瑞发现，青甘大环线7日游，已从5000元常规价降到最低1980元，旅行社几乎是赔本赚吆喝。 但千万别用&ldquo;惨&rdquo;来解读这一幕，孙瑞话锋一转，&ldquo;直播间里的旅行社可能才是最聪明的。&rdquo; 大牌美妆&ldquo;价格即品牌&rdquo;，给李佳琦降价不是为了甩卖，而是求&ldquo;刷脸&rdquo;。旅行社上链接，看",
-     "source": "虎嗅",
-     "zh": "国庆每天3亿人出游，旅行社却撑不住了"
-    },
-    {
      "title": "Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are \"chilling those who remain at OpenAI\" (Maxwell Zeff/Wall Street Journal)",
      "link": "https://www.techmeme.com/261007/p42#a261007p42",
      "pubDate": "Wed, 07 Oct 2026 20:05:01 -0400",
@@ -1893,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Samsung reports preliminary Q3 operating profit up 782% YoY to ~$80.1B, vs. ~$81.2B est., and revenue up 127% to ~$145.7B, lower than expected (Yoolim Lee/Bloomberg)",
      "link": "https://www.techmeme.com/261007/p41#a261007p41",
      "pubDate": "Wed, 07 Oct 2026 19:35:01 -0400",
-     "summary": "Yoolim Lee / Bloomberg : Samsung reports preliminary Q3 operating profit up 782% YoY to ~$80.1B, vs. ~$81.2B est., and revenue up 127% to ~$145.7B, lower than expected &nbsp; &mdash;&nbsp; Samsung Electronics Co. posted another record profit as surging memory chip prices and relentless spending on a",
+     "summary": "Yoolim Lee / Bloomberg : Samsung reports preliminary Q3 operating profit up 782% YoY to ~$80.1B, vs. ~$81.2B est., and revenue up 127% to ~$145.7B, lower than expected &nbsp; &mdash;&nbsp; Samsung Electronics Co. reported a nearly nine-fold rise in quarterly operating profit, though that was still j",
      "source": "Techmeme",
      "zh": "Samsung reports preliminary Q3 operating profit up 782% YoY to ~$80.1B, vs. ~$81.2B est., and revenue up 127% to ~$145.7B, lower than expected (Yoolim Lee/Bloomberg)"
     },
@@ -1981,17 +1941,9 @@ window.INDUSTRY_DATA = {
      "title": "Margaret Hamilton has died",
      "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
      "pubDate": "Wed, 07 Oct 2026 21:16:18 +0000",
-     "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 600 # Comments: 66",
+     "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 633 # Comments: 70",
      "source": "Hacker News",
      "zh": "Margaret Hamilton has died"
-    },
-    {
-     "title": "Best Prime Day Vacuum Deals: Save Big On a Dyson (2026)",
-     "link": "https://www.wired.com/story/prime-day-vacuum-deals-10-07-2026/",
-     "pubDate": "Wed, 07 Oct 2026 21:08:31 +0000",
-     "summary": "I’ve compared cordless sticks, watched robot vacuums chase stains, and cleaned plenty of car crumbs. These discounts get my recommendation.",
-     "source": "WIRED",
-     "zh": "Best Prime Day Vacuum Deals: Save Big On a Dyson (2026)"
     }
    ]
   },
@@ -2008,6 +1960,14 @@ window.INDUSTRY_DATA = {
      "summary": "With the Apple Watch Series 12 and Watch Ultra 4 out, it's time for the usual iFixit teardown and assessment of how easy it is to repair the new Apple Watches. Spoiler alert: they are still very hard to disassemble and repair. Additionally, there might be a potential issue here, as the two devices d",
      "source": "GSMArena",
      "zh": "iFixit finds the Apple Watch Series 12 and Ultra 4 still very difficult to repair"
+    },
+    {
+     "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+     "link": "https://sspai.com/post/115455",
+     "pubDate": "Thu, 08 Oct 2026 08:16:57 +0800",
+     "summary": "Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。 查看全文",
+     "source": "少数派",
+     "zh": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等"
     },
     {
      "title": "All of the best fall Prime Day deals: AirPods, Mac mini, MacBook, chargers, cases, more",
@@ -2232,14 +2192,6 @@ window.INDUSTRY_DATA = {
      "summary": "Color LED bulbs were refusing to do their job because of a Google Home bug. Google says the fix is rolling out now. more…",
      "source": "9to5Google",
      "zh": "Google Home update fixes broken smart light color control"
-    },
-    {
-     "title": "Prime Day 2 deals – Last chance: Galaxy Tab S12 up to $650 off w/ trade, S11 $355 off, Galaxy Z Fold 8 all-time low, more",
-     "link": "https://9to5google.com/2026/10/07/samsung-galaxy-tab-s12ultra-launch-deals-now-live-up-to-650-off/",
-     "pubDate": "Wed, 07 Oct 2026 15:47:03 +0000",
-     "summary": "Alongside the now live Galaxy Tab S11 models now at up to $355 off the list prices. Those offers join the now even lower prices on Galaxy Z Fold 8 and Ultra models at new Amazon all-time lows (Up to $400 off) as well as a long list of Google pixel deals – up to $300 of Pixel 11 series phones, new al",
-     "source": "9to5Google",
-     "zh": "Prime Day 2 deals – Last chance: Galaxy Tab S12 up to $650 off w/ trade, S11 $355 off, Galaxy Z Fold 8 all-time low, more"
     }
    ]
   },
@@ -2250,20 +2202,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "五菱星光L销量超2万台",
+     "link": "http://finance.eastmoney.com/news/1349,202610083889077747.html",
+     "pubDate": "Thu, 08 Oct 2026 09:13:26 +0800",
+     "summary": "10月8日，上汽通用 五菱汽车 宣布，星光L上市80天销量超20000台。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "五菱星光L销量超2万台"
+    },
+    {
+     "title": "Applied Digital targets 3.5 to 4 GW by end of 2030 as it expects over 600 MW to enter service in the next 12 months",
+     "link": "https://seekingalpha.com/news/4651201-applied-digital-targets-3_5-to-4-gw-by-end-of-2030-as-it-expects-over-600-mw-to-enter-service?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 07 Oct 2026 21:13:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Applied Digital targets 3.5 to 4 GW by end of 2030 as it expects over 600 MW to enter service in the next 12 months"
+    },
+    {
+     "title": "【环球财经】美元走强 纽约金价7日承压下跌",
+     "link": "http://www.eeo.com.cn/2026/1008/1057232.shtml",
+     "pubDate": "Thu, 08 Oct 2026 09:13:10 +0800",
+     "summary": "新华财经纽约10月7日电（记者徐静）纽约商品交易所黄金期货市场交投最活跃的2026年12月黄金期价7日下跌50.4美元，收于每盎司4136.7美元，跌幅为1.20%。 中东局势再度紧张，油价反弹；同时，衡量美元对六种主...",
+     "source": "经济观察网",
+     "zh": "【环球财经】美元走强 纽约金价7日承压下跌"
+    },
+    {
+     "title": "31亿元本金科创板跟投，券商浮盈151亿元；东北证券：证券资产管理业务资格获批 | 券商基金早参",
+     "link": "http://stock.eastmoney.com/news/11134,202610083889077221.html",
+     "pubDate": "Thu, 08 Oct 2026 09:12:35 +0800",
+     "summary": "｜2026年10月8日星期四｜ NO.1 31亿元本金科创板跟投，券商浮盈151亿元！ 中信建投 与中金强势领跑 Wind数据显示，截至9月30日收盘，今年以来登陆科创板的19只新股中，20笔保荐机构跟投共投入资金31.34亿元，对应的最新浮动盈亏合计已达151.19亿元，整体浮盈率接近5倍。值得关注的是，这20笔跟投上市首日无一破发，首日合计浮盈就有138.52亿元；其中 长鑫科技 一只股票，就让中金、 中信建投 两家券商各自跟投的10亿元分别浮盈53.27亿元，一单合计浮盈超过106亿元，占了全部跟投浮盈的七成。不过，浮盈并非一成不变。这20笔跟投的浮盈一度冲高至210.12亿元，如今已回",
+     "source": "东方财富股票",
+     "zh": "31亿元本金科创板跟投，券商浮盈151亿元；东北证券：证券资产管理业务资格获批 | 券商基金早参"
+    },
+    {
+     "title": "中国船舶集团有限公司第七一一研究所规划与产业发展部专务陈勇进接受审查调查",
+     "link": "http://finance.eastmoney.com/news/1354,202610083889077046.html",
+     "pubDate": "Thu, 08 Oct 2026 09:11:26 +0800",
+     "summary": "“清风福州”消息， 中国船舶 集团有限公司第七一一研究所规划与产业发展部专务陈勇进涉嫌严重违纪违法，目前正接受中央纪委国家监委驻 中国船舶 集团有限公司纪检监察组纪律审查和福建省福州市监察委员会监察调查。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "中国船舶集团有限公司第七一一研究所规划与产业发展部专务陈勇进接受审查调查"
+    },
+    {
+     "title": "两部门印发《医疗康复护理扩容提升工程实施方案》",
+     "link": "http://finance.eastmoney.com/news/1355,202610083889076616.html",
+     "pubDate": "Thu, 08 Oct 2026 09:09:26 +0800",
+     "summary": "国家卫生健康委、国家发展改革委印发《医疗康复护理扩容提升工程实施方案》。其中提到，完善康复护理服务网络。健全以二级 医院 为主体、基层医疗卫生机构为网底、三级 医院 指导支持、其他医疗卫生机构共同参与的康复护理服务网络，高质量提供躯体、认知、心理等功能康复护理服务。优化医疗卫生资源配置，鼓励发展康复 医院 、护理院、安宁疗护中心等机构，引导二级医院和基层医疗卫生机构拓展康复护理功能。支持社会力量举办规模化、连锁化的康复医疗中心、护理中心，满足个性化服务需求。力争到2030年，每千人口康复护理床位数达到0.48张左右，人口较多、老龄化程度较深、康复护理服务需求较大的地市至少设立1所公立康复医院和",
+     "source": "东方财富股票",
+     "zh": "两部门印发《医疗康复护理扩容提升工程实施方案》"
+    },
+    {
+     "title": "银行：息差拐点将至 高股息“压舱石”迎来配置窗口",
+     "link": "http://finance.eastmoney.com/news/11862,202610083889077310.html",
+     "pubDate": "Thu, 08 Oct 2026 09:09:23 +0800",
+     "summary": "银行 板块牌照壁垒稳固、PB仅0.74-0.96倍，息差降幅收窄叠加化债改善资产质量，高股息\"压舱石\"配置价值凸显。 从核心逻辑分析，首先，息差企稳，存款利率持续下调叠加贷款重定价接近尾声，净息差降幅收窄—— 工商银行 由2023年1.61%降至2025年1.28%，2026年中报回升至1.29%，环比企稳信号初现；其次，高股息防御，国有大行股息率3.65%-3.88%、PB仅0.74-0.85倍（普遍破净），在无风险利率下行（8月同业拆借加权平均利率1.38%）环境中具备\"类固收\"配置价值；此外，资产质量稳健，不良贷款率0.76%-1.31%总体稳定，资本充足率14.30%-19.69%充足",
+     "source": "东方财富股票",
+     "zh": "银行：息差拐点将至 高股息“压舱石”迎来配置窗口"
+    },
+    {
+     "title": "美股盘后速递：三大股指期货全线上涨；存储概念股多数上涨，SK海力士、美光科技、闪迪、西部数据齐涨",
+     "link": "http://stock.eastmoney.com/news/1440,202610083889077588.html",
+     "pubDate": "Thu, 08 Oct 2026 09:08:15 +0800",
+     "summary": "北京时间8日，美股盘后，三大股指 期货 全线上涨，存储概念股多数上涨。 截至发稿，道指 期货 涨0.03%，纳指 期货 涨0.15%，标普500指数期货涨0.05%。 美国科技七巨头盘后多数上涨， 苹果 跌0.04%， 亚马逊 涨0.11%，Meta涨0.26%， 微软 涨0.03%， 英伟达 涨0.1%， 特斯拉 涨0.08%，谷歌持平。 存储概念股盘后多数上涨， SK海力士 涨0.88%， 美光科技 涨0.42%， 闪迪 涨0.57%， 西部数据 涨0.38%， 希捷科技 跌0.07%。 （文章来源：经纬科创）",
+     "source": "东方财富股票",
+     "zh": "美股盘后速递：三大股指期货全线上涨；存储概念股多数上涨，SK海力士、美光科技、闪迪、西部数据齐涨"
+    },
+    {
      "title": "美国能源巨头20亿美元买“老旧油轮”，豪赌“将油运出霍尔木兹海峡”",
      "link": "https://wallstreetcn.com/articles/3783139",
      "pubDate": "Thu, 08 Oct 2026 09:02:41 +0800",
      "summary": "伊朗战争重塑全球油运格局，一家美国石油交易商正以一场罕见的重注押注于此。 据英国《金融时报》周三报道，总部位于达拉斯的PIF Energy首席执行官Ben Morrow表示， 该公司正斥资20亿美元收购一支由多达15艘老旧超级油轮组成的船队， 目标是将伊拉克和沙特阿美的原油经霍尔木兹海峡运往印度、印度尼西亚及欧洲等地的炼油商。 这一举动发生在全球柴油短缺持续加剧、油轮运费飙升至历史极值的背景下，凸显出市场对稀缺运力的极度渴求。与此同时，据彭博数据， 租用一艘超大型原油船（VLCC）将美国原油运往亚洲的费用已升至7700万美元，而2025年全年均值仅为920万美元。 对投资者而言，这场押注折射出",
      "source": "华尔街见闻",
      "zh": "美国能源巨头20亿美元买“老旧油轮”，豪赌“将油运出霍尔木兹海峡”"
-    },
-    {
-     "title": "韩国KOSPI指数跌幅扩大至1%",
-     "link": "http://finance.eastmoney.com/news/11440,202610083889074356.html",
-     "pubDate": "Thu, 08 Oct 2026 09:01:18 +0800",
-     "summary": "韩国KOSPI指数跌幅扩大至1%。三星 电子 跌近1%，Q3利润再创纪录仍略逊预期。",
-     "source": "东方财富股票",
-     "zh": "韩国KOSPI指数跌幅扩大至1%"
     },
     {
      "title": "押注“美债收益率急跌”，长期美债和公用事业美股ETF看涨期权交易量大涨",
@@ -2274,22 +2282,6 @@ window.INDUSTRY_DATA = {
      "zh": "押注“美债收益率急跌”，长期美债和公用事业美股ETF看涨期权交易量大涨"
     },
     {
-     "title": "日韩股市，双双跳水！存储巨头，业绩不及预期",
-     "link": "http://finance.eastmoney.com/news/1351,202610083889074794.html",
-     "pubDate": "Thu, 08 Oct 2026 09:00:24 +0800",
-     "summary": "【导读】日韩股市集体走低，存储巨头三星 电子 最新业绩不及预期 10月8日，日韩股市集体走低。截至发稿，韩国KOSPI指数跌0.65%，报6759.36点。 其中，三星 电子 高开后震荡调整，现跌0.19%。 消息面上，10月8日，三星 电子 发布第三季度业绩预告，利润再创新高，但总体业绩低于预期。三星电子预计第三季度实现营业利润107.40万亿韩元，同比增长783%，分析师预期为108.67万亿韩元；预计第三季度销售额为195万亿韩元，同比增长127%，分析师预期为201.9万亿韩元。AI基础设施建设持续推升存储需求，传统DRAM、NAND及HBM供应均面临压力，三星此前预计明年HBM将占全",
-     "source": "东方财富股票",
-     "zh": "日韩股市，双双跳水！存储巨头，业绩不及预期"
-    },
-    {
-     "title": "融资余额减少392.32亿，杠杆资金最新动态曝光",
-     "link": "http://stock.eastmoney.com/news/11754,202610083889074083.html",
-     "pubDate": "Thu, 08 Oct 2026 09:00:23 +0800",
-     "summary": "09月30日A股三大指数 涨跌不一， 杠杆资金 呈净卖出之势，当天融资余额2.54万亿，较上一交易日减少392.32亿。 菲利华 为当日融资净买入最多个股，为1.92亿， N力勤 资源融资净买入1.65亿， C鸿富诚 1.33亿。 寒武纪 为当日融资净卖出最多个股，为6.02亿， 宁德时代 融资净卖出5.98亿， 胜宏科技 3.89亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
-     "source": "东方财富股票",
-     "zh": "融资余额减少392.32亿，杠杆资金最新动态曝光"
-    },
-    {
      "title": "苏姿丰欲锁韩国供应链，AMD寻求与三星和海力士“3-5年甚至更长期间合作”",
      "link": "https://wallstreetcn.com/articles/3783142",
      "pubDate": "Thu, 08 Oct 2026 09:00:12 +0800",
@@ -2298,36 +2290,12 @@ window.INDUSTRY_DATA = {
      "zh": "苏姿丰欲锁韩国供应链，AMD寻求与三星和海力士“3-5年甚至更长期间合作”"
     },
     {
-     "title": "富时中国A50指数期货开盘跌0.19%",
-     "link": "http://finance.eastmoney.com/news/11440,202610083889074487.html",
-     "pubDate": "Thu, 08 Oct 2026 09:00:01 +0800",
-     "summary": "富时中国A50指数 期货 在上一交易日夜盘收跌0.13%的基础上低开，现跌0.19%。",
-     "source": "东方财富股票",
-     "zh": "富时中国A50指数期货开盘跌0.19%"
-    },
-    {
      "title": "Nasdaq Ventures invests in One Trading",
      "link": "https://www.finextra.com/newsarticle/48553/nasdaq-ventures-invests-in-one-trading?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Thu, 08 Oct 2026 01:00:00 GMT",
      "summary": "Nasdaq Ventures has made a strategic investment in European derivatives and digital assets exchange One Trading.",
      "source": "Finextra",
      "zh": "Nasdaq Ventures invests in One Trading"
-    },
-    {
-     "title": "仙工智能成立阶梯无限科技公司 含多项AI业务",
-     "link": "http://finance.eastmoney.com/news/1354,202610083889074295.html",
-     "pubDate": "Thu, 08 Oct 2026 08:58:43 +0800",
-     "summary": "企查查APP显示，近日，上海阶梯无限科技有限公司成立，经营范围包含： 人工智能 行业应用系统集成服务； 人工智能 基础资源与技术平台； 人工智能 公共服务平台技术咨询服务等。企查查股权穿透显示，该公司由 仙工智能 （06106.HK）全资持股。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "仙工智能成立阶梯无限科技公司 含多项AI业务"
-    },
-    {
-     "title": "现货白银向上触及60美元/盎司",
-     "link": "http://finance.eastmoney.com/news/1362,202610083889074159.html",
-     "pubDate": "Thu, 08 Oct 2026 08:56:43 +0800",
-     "summary": "现货 白银 向上触及60美元/盎司，日内上涨0.45%。",
-     "source": "东方财富股票",
-     "zh": "现货白银向上触及60美元/盎司"
     },
     {
      "title": "【环球财经】日媒：日本政府拟编制本财年第二次补充预算",
@@ -2472,22 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Exxon hopes to repeat Guyana's oil boom offshore Trinidad and Tobago"
-    },
-    {
-     "title": "Getchell Gold secures $300K investment for Fondaway Canyon",
-     "link": "https://seekingalpha.com/news/4651195-getchell-gold-secures-300k-investment-for-fondaway-canyon?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 18:12:17 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Getchell Gold secures $300K investment for Fondaway Canyon"
-    },
-    {
-     "title": "10月8日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/11158,202610083889030245.html",
-     "pubDate": "Thu, 08 Oct 2026 06:03:50 +0800",
-     "summary": "10月8日(星期四)，今日报刊头条主要内容精华如下： 中国证券报 国庆假期楼市实探：看房的人明显多起来了 国庆假期期间，中国证券报调研小分队对北京、深圳、广州、贵阳等地楼市进行实地调研发现，受购房贷款财政贴息等利好政策影响，楼市关注度提升，记者走访多地售楼处发现，看房的人明显多起来了。值得注意的是，在政策组合拳和开发商促销共同作用下，全国各地以价换量、以量促稳并行推进，政策红利持续释放、市场信心稳步修复。随着增量政策持续落地，全国楼市有望延续企稳回升态势。 国庆车市一线调研：金融权益成促销新密码 国庆假期， 汽车 消费市场的促销看起来颇为热闹：最高8万元两年0利息金融方案、最高2.5万元置换补",
-     "source": "东方财富资讯",
-     "zh": "10月8日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     }
    ]
   },

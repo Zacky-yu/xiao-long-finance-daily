@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/9 03:54:14",
+ "generated_at": "2026/10/9 04:02:29",
  "recent_days": 7,
  "industries": [
   {
@@ -900,7 +900,7 @@
      "title": "Massachusetts shifts clean energy funds to help heat homes this winter",
      "link": "https://www.utilitydive.com/news/massachusetts-clean-energy-funds-winter-heating-oil/832521/",
      "pubDate": "Thu, 08 Oct 2026 12:42:42 -0400",
-     "summary": "Gov. Maura Healey ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
+     "summary": "Massachusetts&nbsp;Gov. Maura Healey, D, ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
      "source": "Utility Dive",
      "zh": "Massachusetts shifts clean energy funds to help heat homes this winter"
     },
@@ -1305,6 +1305,14 @@
    "total": 6,
    "items": [
     {
+     "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
+     "link": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+     "pubDate": "Thu, 08 Oct 2026 19:40:00 +0000",
+     "summary": "NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology Policy’s (OSTP) “Golden Age Summ",
+     "source": "NASA",
+     "zh": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit"
+    },
+    {
      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
      "pubDate": "Thu, 08 Oct 2026 18:56:25 +0000",
@@ -1343,14 +1351,6 @@
      "summary": "After more than seven months aboard the International Space Station, NASA’s SpaceX Crew-12 mission safely splashed down Thursday in the Pacific Ocean off the coast of Los Angeles. The crew members will discuss their science mission during a news conference at 3:30 p.m. EDT, Thursday, Oct. 15, at the",
      "source": "NASA",
      "zh": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission"
-    },
-    {
-     "title": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration",
-     "link": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/",
-     "pubDate": "Thu, 08 Oct 2026 15:46:25 +0000",
-     "summary": "As the Golden Age of deep-space exploration begins, NASA and the U.S. Department of Energy are advancing the development of safe, reliable, next-generation nuclear technologies for space. Together, the agencies will supercharge civil space exploration, unlock bold scientific discovery, and solidify ",
-     "source": "NASA",
-     "zh": "NASA, Energy Department Advance New Era of Nuclear-Powered Exploration"
     },
     {
      "title": "What will it take to build a moon base?",
@@ -1729,6 +1729,14 @@
      "zh": "Filing: the FTC is probing Block over inadequate customer service for frozen or deactivated Square accounts amid staffing cuts, following 1,500+ complaints (Leah Nylen/Bloomberg)"
     },
     {
+     "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
+     "link": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
+     "pubDate": "Thu, 08 Oct 2026 19:43:59 +0000",
+     "summary": "Article URL: https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics Comments URL: https://news.ycombinator.com/item?id=50011028 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "License update: AI derivation prohibited on all my art, lore, stories, comics"
+    },
+    {
      "title": "Anthropic launches the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site support, starting with CrowdStrike and others (Sam Sabin/Axios)",
      "link": "https://www.techmeme.com/261008/p43#a261008p43",
      "pubDate": "Thu, 08 Oct 2026 15:30:41 -0400",
@@ -1753,6 +1761,14 @@
      "zh": "Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI&apos;s annualized revenue at September&apos;s end was $20B less than previously reported (CNBC)"
     },
     {
+     "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+     "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+     "pubDate": "Thu, 08 Oct 2026 19:17:51 +0000",
+     "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months Comments URL: https://news.ycombinator.com/item?id=50010656 Points: 14 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances"
+    },
+    {
      "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
      "link": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/",
      "pubDate": "Thu, 08 Oct 2026 19:11:45 +0000",
@@ -1764,7 +1780,7 @@
      "title": "The value of not getting to the point (2015)",
      "link": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
      "pubDate": "Thu, 08 Oct 2026 19:04:56 +0000",
-     "summary": "Article URL: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/ Comments URL: https://news.ycombinator.com/item?id=50010470 Points: 18 # Comments: 0",
+     "summary": "Article URL: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/ Comments URL: https://news.ycombinator.com/item?id=50010470 Points: 25 # Comments: 4",
      "source": "Hacker News",
      "zh": "The value of not getting to the point (2015)"
     },
@@ -1772,17 +1788,9 @@
      "title": "What ArtCraft's Vibe-Coded Apps Say About Adobe",
      "link": "https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/",
      "pubDate": "Thu, 08 Oct 2026 18:44:29 +0000",
-     "summary": "Article URL: https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/ Comments URL: https://news.ycombinator.com/item?id=50010170 Points: 15 # Comments: 12",
+     "summary": "Article URL: https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/ Comments URL: https://news.ycombinator.com/item?id=50010170 Points: 23 # Comments: 29",
      "source": "Hacker News",
      "zh": "What ArtCraft's Vibe-Coded Apps Say About Adobe"
-    },
-    {
-     "title": "Cloudflare Keeps 1.1.1.1 Out of Piracy Blocking, Escapes Penalties in France",
-     "link": "https://torrentfreak.com/cloudflare-keeps-1-1-1-1-out-of-piracy-blocking-escapes-penalties-in-france/",
-     "pubDate": "Thu, 08 Oct 2026 18:32:52 +0000",
-     "summary": "Article URL: https://torrentfreak.com/cloudflare-keeps-1-1-1-1-out-of-piracy-blocking-escapes-penalties-in-france/ Comments URL: https://news.ycombinator.com/item?id=50009965 Points: 27 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Cloudflare Keeps 1.1.1.1 Out of Piracy Blocking, Escapes Penalties in France"
     },
     {
      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
@@ -1796,9 +1804,17 @@
      "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
      "link": "https://github.com/p10node/k10s",
      "pubDate": "Thu, 08 Oct 2026 18:29:06 +0000",
-     "summary": "Article URL: https://github.com/p10node/k10s Comments URL: https://news.ycombinator.com/item?id=50009904 Points: 40 # Comments: 21",
+     "summary": "Article URL: https://github.com/p10node/k10s Comments URL: https://news.ycombinator.com/item?id=50009904 Points: 43 # Comments: 23",
      "source": "Hacker News",
      "zh": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)"
+    },
+    {
+     "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+     "link": "https://pocketty.app/",
+     "pubDate": "Thu, 08 Oct 2026 18:11:52 +0000",
+     "summary": "Hello~! pocketty is an SSH terminal for iPhone and iPad, made for herdr. herdr keeps your agent panes alive on your computer and knows the state of each one: working, needs you, or done. I made this in anger/desperation for the latter half of my recent paternity leave. Nap traps are sweet, but there",
+     "source": "Hacker News",
+     "zh": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked"
     },
     {
      "title": "Sources: Apple promotes Carson Oliver to VP of the App Store and names Steve Smith as M&A chief, replacing Adrian Perica, who keeps iCloud, Fitness+, and News (Mark Gurman/Bloomberg)",
@@ -1833,28 +1849,12 @@
      "zh": "Anthropic updates its usage policy to ban \"sustained and needless abusive or cruel behavior\" toward Claude, ending chats as the primary enforcement mechanism (Hayden Field/The Verge)"
     },
     {
-     "title": "The Deeply Impersonal Personalized Recruiter Mail",
-     "link": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
-     "pubDate": "Thu, 08 Oct 2026 17:15:57 +0000",
-     "summary": "Article URL: https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/ Comments URL: https://news.ycombinator.com/item?id=50008685 Points: 26 # Comments: 19",
-     "source": "Hacker News",
-     "zh": "The Deeply Impersonal Personalized Recruiter Mail"
-    },
-    {
      "title": "How one bug bounty researcher chooses the features they investigate",
      "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
      "pubDate": "Thu, 08 Oct 2026 17:02:52 +0000",
      "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "How one bug bounty researcher chooses the features they investigate"
-    },
-    {
-     "title": "Whistle: Speech to Text in 16.9 MB",
-     "link": "https://cactuscompute.com/blog/whistle",
-     "pubDate": "Thu, 08 Oct 2026 16:59:39 +0000",
-     "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 226 # Comments: 59",
-     "source": "Hacker News",
-     "zh": "Whistle: Speech to Text in 16.9 MB"
     },
     {
      "title": "899 元起雷蛇巴塞利斯蛇 V4 专业版 / 极速版鼠标发布，还有第二代无线充电底座",
@@ -2217,28 +2217,68 @@
    "total": 13,
    "items": [
     {
-     "title": "YieldMax INTC Option Income Strategy ETF declares $0.6347 dividend",
-     "link": "https://seekingalpha.com/news/4651545-yieldmax-intc-option-income-strategy-etf-declares-0_6347-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 15:50:25 -0400",
+     "title": "YieldMax BRK.B Option Income Strategy ETF declares $0.1008 dividend",
+     "link": "https://seekingalpha.com/news/4651553-yieldmax-brk-b-option-income-strategy-etf-declares-0_1008-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 08 Oct 2026 15:55:00 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "YieldMax INTC Option Income Strategy ETF declares $0.6347 dividend"
+     "zh": "YieldMax BRK.B Option Income Strategy ETF declares $0.1008 dividend"
     },
     {
-     "title": "YieldMax HOOD Option Income Strategy ETF declares $0.3376 dividend",
-     "link": "https://seekingalpha.com/news/4651544-yieldmax-hood-option-income-strategy-etf-declares-0_3376-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 15:50:01 -0400",
+     "title": "YieldMax BABA Option Income Strategy ETF declares $0.042 dividend",
+     "link": "https://seekingalpha.com/news/4651552-yieldmax-baba-option-income-strategy-etf-declares-0_042-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 08 Oct 2026 15:54:39 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "YieldMax HOOD Option Income Strategy ETF declares $0.3376 dividend"
+     "zh": "YieldMax BABA Option Income Strategy ETF declares $0.042 dividend"
     },
     {
-     "title": "YieldMax HIMS Option Income Strategy ETF declares $0.1467 dividend",
-     "link": "https://seekingalpha.com/news/4651543-yieldmax-hims-option-income-strategy-etf-declares-0_1467-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 15:49:34 -0400",
+     "title": "YieldMax™ AAPL Option Income Strategy ETF declares $0.0597 dividend",
+     "link": "https://seekingalpha.com/news/4651551-yieldmax-aapl-option-income-strategy-etf-declares-0_0597-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 08 Oct 2026 15:54:17 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "YieldMax HIMS Option Income Strategy ETF declares $0.1467 dividend"
+     "zh": "YieldMax™ AAPL Option Income Strategy ETF declares $0.0597 dividend"
+    },
+    {
+     "title": "YieldMax™ AMZN Option Income Strategy ETF declares $0.0529 dividend",
+     "link": "https://seekingalpha.com/news/4651550-yieldmax-amzn-option-income-strategy-etf-declares-0_0529-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 08 Oct 2026 15:53:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "YieldMax™ AMZN Option Income Strategy ETF declares $0.0529 dividend"
+    },
+    {
+     "title": "YieldMax™ AMD Option Income Strategy ETF declares $1.0254 dividend",
+     "link": "https://seekingalpha.com/news/4651549-yieldmax-amd-option-income-strategy-etf-declares-1_0254-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 08 Oct 2026 15:53:34 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "YieldMax™ AMD Option Income Strategy ETF declares $1.0254 dividend"
+    },
+    {
+     "title": "YieldMax AI Option Income Strategy ETF declares $0.0875 dividend",
+     "link": "https://seekingalpha.com/news/4651547-yieldmax-ai-option-income-strategy-etf-declares-0_0875-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 08 Oct 2026 15:53:10 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "YieldMax AI Option Income Strategy ETF declares $0.0875 dividend"
+    },
+    {
+     "title": "美估算2026财年联邦预算赤字总额为2万亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202610093890047789.html",
+     "pubDate": "Fri, 09 Oct 2026 03:52:09 +0800",
+     "summary": "当地时间10月8日，据美国国会预算办公室估算，美国2026财年联邦政府预算赤字总额为2万亿美元，比2025财年的赤字高出2180亿美元。据估算，2026财年期间，收入增加1690亿美元（增幅为3%），支出增加约3860亿美元（增幅为6%）。支出增长主要来自债务净利息、主要福利项目、国防和 教育 等领域；收入增长则主要由个人所得税和工资税收入增加推动。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "美估算2026财年联邦预算赤字总额为2万亿美元"
+    },
+    {
+     "title": "意义重大！德国选择党要求“停止向乌克兰提供武器”",
+     "link": "http://finance.eastmoney.com/news/1351,202610093890047647.html",
+     "pubDate": "Fri, 09 Oct 2026 03:50:05 +0800",
+     "summary": "据参考消息援引德国《时代》周报网站10月7日报道，德国选择党（AfD）与莎拉·瓦根克内希特联盟（BSW）在萨克森-安哈尔特州新一届州议会成立后，立即提交动议，要求德国停止向乌克兰提供武器。两党要求德国立即停止向乌克兰提供财政和军事支持，并停止对俄罗斯的经济制裁。 德国的州一级政府无权决定联邦外交政策。不过，AfD与BSW此前已宣布，要利用两党在萨安州议会新获得的多数席位向联邦政府施压。因此，这项动议仅具有象征意义。 继AfD主席魏德尔之后，BSW创始人瓦根克内希特也批评联邦总理默茨刚刚对乌克兰进行的访问，并反对其向基辅承诺更多财政支持。 萨安州议会拟于10月14日召开特别会议，讨论这项动议。此",
+     "source": "东方财富股票",
+     "zh": "意义重大！德国选择党要求“停止向乌克兰提供武器”"
     },
     {
      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
@@ -2247,30 +2287,6 @@
      "summary": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
      "source": "CNBC",
      "zh": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report"
-    },
-    {
-     "title": "YieldMax™ GOOGL Option Income Strategy ETF declares $0.0587 dividend",
-     "link": "https://seekingalpha.com/news/4651542-yieldmax-googl-option-income-strategy-etf-declares-0_0587-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 15:49:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "YieldMax™ GOOGL Option Income Strategy ETF declares $0.0587 dividend"
-    },
-    {
-     "title": "YieldMax GME Option Income Strategy ETF declares $0.4168 dividend",
-     "link": "https://seekingalpha.com/news/4651541-yieldmax-gme-option-income-strategy-etf-declares-0_4168-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 15:48:39 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "YieldMax GME Option Income Strategy ETF declares $0.4168 dividend"
-    },
-    {
-     "title": "YieldMax Gold Miners Option Income Strategy ETF declares $0.0773 dividend",
-     "link": "https://seekingalpha.com/news/4651540-yieldmax-gold-miners-option-income-strategy-etf-declares-0_0773-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 15:48:14 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "YieldMax Gold Miners Option Income Strategy ETF declares $0.0773 dividend"
     },
     {
      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
@@ -2343,22 +2359,6 @@
      "summary": "美东时间周四，美股三大指数集体下跌，截至发稿， 纳斯达克 指数跌1.41%，报27149.96点；标普500指数跌0.61%，报7754.20点；道琼斯指数涨0.03%，报51205.02点。 油气股普涨， 康菲石油 涨3.99%、 雪佛龙 涨3.51%、 西方石油 涨3.07%、 埃克森美孚 涨2.94%、 EOG能源 涨2.90%、 斯伦贝谢 涨2.22%。 费城 半导体 指数跌3.70%，报12583.13点。光 通信 板块下跌， 康宁 跌5.96%、Lumentum跌6.38%、Coherent跌8.38%、 应用光电 跌12.84%。存储概念股普跌， 西部数据 跌3.08%、 希捷科",
      "source": "东方财富股票",
      "zh": "美股三大指数集体下跌 纳指跌超1% 光通信、存储板块走低 国际油价上涨"
-    },
-    {
-     "title": "受俄乌冲突影响 波兰加强领空监测和防护",
-     "link": "http://global.eastmoney.com/news/1959,202610093890047239.html",
-     "pubDate": "Fri, 09 Oct 2026 03:19:31 +0800",
-     "summary": "波兰武装部队作战司令部发布消息称，受近期俄乌冲突影响，波兰军方航空力量在波兰领空展开行动。波兰武装部队作战司令部表示，地面防空系统和雷达侦察系统已进入战备状态。波兰方面称，相关行动属于预防性措施，目的是加强对波兰领空的监测和防护。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "受俄乌冲突影响 波兰加强领空监测和防护"
-    },
-    {
-     "title": "俄官方宣布伊尔库茨克市正解除防疫措施",
-     "link": "http://finance.eastmoney.com/news/11790,202610093890047145.html",
-     "pubDate": "Fri, 09 Oct 2026 03:17:57 +0800",
-     "summary": "俄罗斯联邦消费者权益保护和公益监督局7日发布通告说，日前报告一例“不明原因肺炎”的伊尔库茨克州当前防疫形势平稳，不存在健康风险，该州首府伊尔库茨克市正解除相关预防性措施。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "俄官方宣布伊尔库茨克市正解除防疫措施"
     },
     {
      "title": "Why a Starbucks takeover of Chipotle would — and wouldn&apos;t — make sense for both companies",

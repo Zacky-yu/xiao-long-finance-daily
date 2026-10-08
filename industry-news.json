@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/8 09:31:58",
+ "generated_at": "2026/10/8 09:52:00",
  "recent_days": 7,
  "industries": [
   {
@@ -8,22 +8,6 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "GPT-6今起免费用！拒答变少，话变多了",
-     "link": "https://www.qbitai.com/2026/10/501834.html",
-     "pubDate": "Thu, 08 Oct 2026 01:07:19 +0000",
-     "summary": "ChatGPT聊天框长出界面",
-     "source": "量子位",
-     "zh": "GPT-6今起免费用！拒答变少，话变多了"
-    },
-    {
-     "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
-     "link": "https://www.qbitai.com/2026/10/501832.html",
-     "pubDate": "Thu, 08 Oct 2026 01:04:00 +0000",
-     "summary": "小模型新守门员",
-     "source": "量子位",
-     "zh": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊"
-    },
     {
      "title": "首款RTX Spark电脑，开卖！可跑1200亿参数大模型",
      "link": "https://zhidx.com/p/598942.html",
@@ -247,6 +231,22 @@
      "summary": "arXiv:2610.06928v1 Announce Type: new Abstract: We study how Vision Transformers ground abstract concepts (e.g., angry) when training data provide limited direct referential evidence. We hypothesize a metonymic grounding mechanism in which abstract predictions are driven by concrete, interpretable a",
      "source": "arXiv cs.AI",
      "zh": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers"
+    },
+    {
+     "title": "突发！OpenAI一次放出722篇数学成果，准黎曼猜想、4D挂谷都在列",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061320&idx=1&sn=9ccf3204921b2620923ef26380fb3bb6",
+     "pubDate": "Wed, 07 Oct 2026 09:49:00 +0800",
+     "summary": "Star量疯狂上涨中。",
+     "source": "机器之心",
+     "zh": "突发！OpenAI一次放出722篇数学成果，准黎曼猜想、4D挂谷都在列"
+    },
+    {
+     "title": "量化后画面闪烁？时序稳定的视频世界模型2-bit KV Cache压缩方案诞生",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061320&idx=2&sn=da665a8e02881b7e48eea58bf8431ec1",
+     "pubDate": "Wed, 07 Oct 2026 09:49:00 +0800",
+     "summary": "评测分数不代表一切。",
+     "source": "机器之心",
+     "zh": "量化后画面闪烁？时序稳定的视频世界模型2-bit KV Cache压缩方案诞生"
     }
    ]
   },
@@ -1753,6 +1753,86 @@
    "total": 18,
    "items": [
     {
+     "title": "黄仁勋焦虑 AI 需求降温，曝英伟达拟再投 10 亿美元加码人形机器人企业 Figure",
+     "link": "https://www.ithome.com/1/010/387.htm",
+     "pubDate": "Thu, 08 Oct 2026 01:49:20 GMT",
+     "summary": "IT之家 10 月 8 日消息，当地时间 7 日，据 The Information 援引一名知情人士消息称，英伟达曾讨论向人形机器人制造商 Figure 再投资 10 亿美元 （IT之家注：现汇率约合 67.12 亿元人民币） ，此前尚无报道披露这笔投资计划。Figure 寻求更多融资，投前估值约为 380 亿美元 （现汇率约合 2,550.73 亿元人民币） 。 据悉，英伟达本就是 Figure 的投资者；一年前，Figure 按同样估值融资超过 10 亿美元 （现汇率约合 67.12 亿元人民币） 。 上述知情人士称，英伟达还可能投资两类初创企业：帮助公司 开发旗下 Nemotron 开",
+     "source": "IT之家",
+     "zh": "黄仁勋焦虑 AI 需求降温，曝英伟达拟再投 10 亿美元加码人形机器人企业 Figure"
+    },
+    {
+     "title": "2026诺贝尔化学奖：揭开“手性”有机分子形成之谜",
+     "link": "https://www.huxiu.com/article/4895739.html?f=rss",
+     "pubDate": "Thu, 08 Oct 2026 09:48:51 +0800",
+     "summary": "本文来自微信公众号： 自然系列 ，作者：Nature Portfolio 原文作者：Elizabeth Gibney,Miryam Naddaf,Anne Pichon,Davide Castelvecchi&Ewen Callaway 诺贝尔化学奖授予两位化学家，他们探索了生命为何偏爱一种镜像分子而非另一种。 图片来源：Académie des sciences；Andrew Caballero-Reynolds/AFP via Getty 今年的诺贝尔化学奖授予两位科学家，表彰他们破解了一个化学谜题：为何某些反应所生成的分子在两种可能镜像变体中仅呈现一种。 法国巴黎南大学的Henri Ka",
+     "source": "虎嗅",
+     "zh": "2026诺贝尔化学奖：揭开“手性”有机分子形成之谜"
+    },
+    {
+     "title": "大厂AI开始搞科幻PR了",
+     "link": "https://www.huxiu.com/article/4895737.html?f=rss",
+     "pubDate": "Thu, 08 Oct 2026 09:44:39 +0800",
+     "summary": "本文来自微信公众号： AI故事计划 ，编辑：张霞，作者：方言 \" AI行业这两年最大的技术突破，一大半，发生在新闻稿里。 主打编程的大模型公司，一抬脚就跨进生命科学，自主发现了未知生物系统；造扫地机器人的公司，宣布要做“人类历史上第一个百万亿美元生态”；号称已经入职各大车企的“人形机器人第一股”，财报里增长最快的品类，是智能猫砂盆和泳池清扫机。 你很难不怀疑：这个行业的宣传，已经跨越了数学常识、物理规律和会计原理，进入到科幻纪元。 万能的Claude，又一次带领人类实现了文明跃迁。 最近，Anthropic宣布，Claude自主发现了一种前所未有的酶系统。这个系统的基因旁边，挂着一长串重复的D",
+     "source": "虎嗅",
+     "zh": "大厂AI开始搞科幻PR了"
+    },
+    {
+     "title": "AMD 向 \"RDNA 3/4\" 独立显卡推送支持 ROCm 10.1 的驱动程序",
+     "link": "https://www.ithome.com/1/010/386.htm",
+     "pubDate": "Thu, 08 Oct 2026 01:42:42 GMT",
+     "summary": "IT之家 10 月 8 日消息，AMD 当地时间本月 5 日向 Radeon RX 9000 系列、Radeon RX 7900 / 7800 / 7700 / 7600 系列、Radeon AI PRO R9700 显卡提供了新版 AMD Software: Adrenalin Edition。 该版本驱动程序并不包含任何游戏方面的改进， 仅是提供了对同日发布的 ROCm 10.1 加速计算开放软件堆栈的支持 。 根据 AMD 官方博客介绍，ROCm 10.1 改善了数据移动和放置效率、引入 ROCm CLI、支持 LLVM 24、更新人工智能和数学库、提供 hipThreads 加速、扩展",
+     "source": "IT之家",
+     "zh": "AMD 向 \"RDNA 3/4\" 独立显卡推送支持 ROCm 10.1 的驱动程序"
+    },
+    {
+     "title": "十一返程，床车车主困在公共厕所",
+     "link": "https://www.huxiu.com/article/4895736.html?f=rss",
+     "pubDate": "Thu, 08 Oct 2026 09:41:11 +0800",
+     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 自驾塌方现场：有人拿脸盆在公厕接水，有人连夜改订酒店。 01 昨天晚上，在新疆自驾了一周的老周突然在微信上和我惊叹，太夸张了，真的太夸张了。 我以为他看到了什么壮观风景，老周却说，他去了若羌县，县政府旁边有处公共厕所，附近停车场挤满了露营的车，他的车只能临时停在路边。 更让他吃惊的是，厕所门口还有人拿着脸盆等接水。 老周跟几位车主聊了聊，才知道他们晚上就睡在车里，其中有开电车的，后排放倒，铺上垫子，车里能开空调，过夜已经安排妥当。 可早上起来，洗脸刷牙总得找地方。 有车主跟他解释，停在公厕旁边，夜里上厕所方便，早上还能接点水，开到风景好",
+     "source": "虎嗅",
+     "zh": "十一返程，床车车主困在公共厕所"
+    },
+    {
+     "title": "123亿元，安踏在谷底“接住”彪马",
+     "link": "https://www.huxiu.com/article/4895728.html?f=rss",
+     "pubDate": "Thu, 08 Oct 2026 09:35:15 +0800",
+     "summary": "出品｜虎嗅商业消费组 作者｜刘纾含 编辑｜苗正卿 题图｜视觉中心 10月7日晚，安踏官宣已完成对彪马29.06%股权的收购。 这笔交易花了安踏15.055亿欧元，换算成人民币约123亿元。交割完成后，安踏取代法国皮诺家族旗下的Art&eacute;mis，成为彪马第一大股东。要注意的是，这并不意味着彪马从此&ldquo;归安踏了&rdquo;：安踏没有获得控股权，彪马仍然是一家独立上市公司。安踏也再次强调，将尊重彪马的独立治理和品牌自主权。 安踏拿下第一大股东席位的时间点有些微妙。 过去一年，彪马在市场上的存在感并不低。Speedcat重新流行，HYROX仍在全球高速扩张，今年又赶上世界杯&m",
+     "source": "虎嗅",
+     "zh": "123亿元，安踏在谷底“接住”彪马"
+    },
+    {
+     "title": "朱雀三号回收成功，别盲目狂欢：中国商业航天的倒计时危机与十年逆袭大局",
+     "link": "https://www.huxiu.com/article/4895734.html?f=rss",
+     "pubDate": "Thu, 08 Oct 2026 09:34:34 +0800",
+     "summary": "本文来自微信公众号： 炕头儿 ，作者：甄胖子 2026年8月19日，蓝箭航天朱雀三号遥二完成我国首次入轨级火箭着陆腿式陆地垂直回收。民营航天完整跑通SpaceX经过十年验证的主流技术路线，全网一片欢呼，直呼实现“赶超美国”。 站在行业观察者的角度，我的判断十分冷静：这是一次重量级的技术里程碑，但绝非产业层面的胜利。 朱雀三号最大的意义，不在于证明我们“技术上做得到”，而是为迫在眉睫的太空资源争夺战，补上关键的降本工具。当下的商业航天，表面看是技术竞赛，本质上是三重现实博弈：与ITU规则赛跑的履约倒计时、和海外巨头的产业体系代差、从科研样机走向工业化产品的艰难转型。 咱们抛开流量化吹捧，结合国际",
+     "source": "虎嗅",
+     "zh": "朱雀三号回收成功，别盲目狂欢：中国商业航天的倒计时危机与十年逆袭大局"
+    },
+    {
+     "title": "Best October Prime Day Deals to Shop Before the Sale Ends (2026)",
+     "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/",
+     "pubDate": "Thu, 08 Oct 2026 01:34:26 +0000",
+     "summary": "Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
+     "source": "WIRED",
+     "zh": "Best October Prime Day Deals to Shop Before the Sale Ends (2026)"
+    },
+    {
+     "title": "HPE 发布 4 款基于 AMD EPYC 9006 处理器的 ProLiant Gen13 服务器",
+     "link": "https://www.ithome.com/1/010/385.htm",
+     "pubDate": "Thu, 08 Oct 2026 01:31:01 GMT",
+     "summary": "IT之家 10 月 8 日消息，HPE（慧与）当地时间昨日发布了 4 款基于 AMD EPYC（霄龙）9006 服务器 CPU 处理器的 ProLiant Gen13 服务器。 IT之家了解到，这些机型支持自动 SED 加密、 多人 授权许可，还增强了后量子密码学 (PQC) 安全性。 将于今年晚些时候率先上市的 HPE ProLiant DL525 Gen13 是一款紧凑的 1U 单路系统 ，至高拥有 256 个 CPU 核心，支持 16 通道内存，兼容标准 DDR5 RDIMM 和 MRDIMM，提供 PCIe Gen6 连接，适用于欺诈检测、市场数据处理、风险与定价、EDA、仿真、人工智",
+     "source": "IT之家",
+     "zh": "HPE 发布 4 款基于 AMD EPYC 9006 处理器的 ProLiant Gen13 服务器"
+    },
+    {
+     "title": "Haiku 5.5发布，Anthropic开始撒钱",
+     "link": "https://www.tmtpost.com/8160574.html",
+     "pubDate": "Thu, 08 Oct 2026 09:29:52 +0800",
+     "summary": "模型砍到一折，API额度直接白送。",
+     "source": "钛媒体",
+     "zh": "Haiku 5.5发布，Anthropic开始撒钱"
+    },
+    {
      "title": "具身智能界的“美团”，能跑通吗？",
      "link": "https://www.huxiu.com/article/4895730.html?f=rss",
      "pubDate": "Thu, 08 Oct 2026 09:22:52 +0800",
@@ -1785,54 +1865,6 @@
      "zh": "亚马逊 Ring 发布支持手拧应急发电的智能门锁"
     },
     {
-     "title": "比亚迪日本累计交付超 1 万台，副总裁刘学亮亲自交车",
-     "link": "https://www.ithome.com/1/010/379.htm",
-     "pubDate": "Thu, 08 Oct 2026 01:15:24 GMT",
-     "summary": "IT之家 10 月 8 日消息，比亚迪日本公司于 10 月 4 日在神奈川县平塚市的 BYD 湘南店举行交付仪式，宣布其在日本市场累计交付量突破 1 万台。 比亚迪副总裁刘学亮与比亚迪日本公司社长东福寺厚树出席活动，亲自向车主致谢。据公开报道，比亚迪日本第 1 万台交付车型为海狮 06（SEALION 6）。 比亚迪于 2023 年 1 月正式进入日本乘用车市场，至达成 1 万台累计交付历时约三年九个月。刘学亮在仪式现场表示，达成首个一万台历时近四年，团队有信心更快实现下一个一万台的目标。 亚迪 2025 年全年在日注册量为 3742 台，同比增长 68%，实现连续三年增长。进入 2026 年",
-     "source": "IT之家",
-     "zh": "比亚迪日本累计交付超 1 万台，副总裁刘学亮亲自交车"
-    },
-    {
-     "title": "一次同意，二十一次缺席",
-     "link": "https://www.huxiu.com/article/4895725.html?f=rss",
-     "pubDate": "Thu, 08 Oct 2026 09:11:31 +0800",
-     "summary": "本文来自微信公众号： 观潮体系 ，作者：观潮 ——“所有AI都听话之后”系列第二篇 一 二十一笔扣款，零次决定。 某款工具软件，每月六十八元，连续扣了二十一个月。两年前，为了用它的一个功能，我点过“开始免费试用”。试用期七天，之后自动续费。我当时想的是：先用几天，不合适就取消。 我没有取消。不是决定不取消——是“要不要继续付费”这件事，之后再也没有出现在我的生活中。平台也许发过信息。我后来在促销邮件和更新通知之间，找到过几封当时没有在意的邮件。二十一个月，账单上出现了二十一次扣款；我的脑中，没有做过一次决定。 责任在我。我点过试用，就该留意扣费。忘了，不能当作授权没有发生。 但责任承认之后，问",
-     "source": "虎嗅",
-     "zh": "一次同意，二十一次缺席"
-    },
-    {
-     "title": "付费会员超千万，山姆凶猛",
-     "link": "https://www.huxiu.com/article/4895726.html?f=rss",
-     "pubDate": "Thu, 08 Oct 2026 09:09:59 +0800",
-     "summary": "本文来自微信公众号： 商业评论零售现场 ，作者：响马 早前，流传着“送礼就送脑白金”；如今，流行“送礼就往山姆跑”。 2026年中秋节前夕，不少消费者奔赴山姆会员店，或者通过手机下单，只为购买月饼礼盒。 今年，山姆上线了13款自有月饼礼盒，价格最低99.9元，最高238元，主要集中在138元至188元区间。 请注意，这是山姆“自有”月饼礼盒。此外，另有一些老字号品牌，比如，香港美心“七星伴明月”月饼1kg售价496元。 多个价位的月饼，登上山姆会员店“月饼热销榜”，满足了消费者送礼的需求。这一幕，和此前山姆提供多种春节礼盒、一度被抢到断货类似，展现出山姆会员店强大的市场影响力。 跳出“节日档”",
-     "source": "虎嗅",
-     "zh": "付费会员超千万，山姆凶猛"
-    },
-    {
-     "title": "“白宫 AI 沙皇”履新第一站定在硅谷，消息称会见英伟达黄仁勋、OpenAI 奥尔特曼等巨头 CEO",
-     "link": "https://www.ithome.com/1/010/373.htm",
-     "pubDate": "Thu, 08 Oct 2026 01:09:51 GMT",
-     "summary": "IT之家 10 月 8 日消息，据彭博社今天（8 日）早间报道，美国国家情报总监、新科“白宫 AI 沙皇”杰伊 · 克莱顿接下了另一项职务：领导特朗普口中所称的“超级智能工作组”。履新后的第一站是硅谷，他将与 AI 行业多名重量级高管见面。 据知情人士透露，克莱顿此行将会见 英伟达的黄仁勋、OpenAI 的奥尔特曼、Anthropic 的达里奥 · 阿莫代伊和 Meta 的马克 · 扎克伯格 等多名 CEO。 这也是克莱顿接手负责统筹联邦政府 AI 事务的新工作组后，首次与科技行业高管会面。 就在上周，其中不少高管还与克莱顿一同出席白宫午宴，特朗普与多家 AI 企业在会上签署了一份自愿性安全协",
-     "source": "IT之家",
-     "zh": "“白宫 AI 沙皇”履新第一站定在硅谷，消息称会见英伟达黄仁勋、OpenAI 奥尔特曼等巨头 CEO"
-    },
-    {
-     "title": "民主党失败的本质",
-     "link": "https://www.huxiu.com/article/4895724.html?f=rss",
-     "pubDate": "Thu, 08 Oct 2026 09:08:41 +0800",
-     "summary": "本文来自微信公众号： 江宁知府 ，作者：印闲生 2024年惨败给特朗普后，民主党内一直面临所谓的“路线”问题。 有评论戏称：民主党很像“九头蛇”，它有很多个“头”，有的激进、有的保守、有的偏左、有的偏右，并不朝同一方向看；每当民主党掌权时，各个“头”都会朝自己的方向拉，最终什么也干不成。 一种更为学究的观点认为，民主党实际上是一个伪装成政党的中左翼联盟，在经济政策上则同时混合了右翼和左翼。 近期，面对各种路线的激烈争论，两位左翼评论员出版了一本题为《美国民主党失败本质》的书，引发广泛讨论。 书中直指奥巴马任内犯下了“决定性错误”，让民主党脱离群众、走向精英化，最终导致了“特朗普主义”的崛起。 ",
-     "source": "虎嗅",
-     "zh": "民主党失败的本质"
-    },
-    {
-     "title": "美国一男子因利用 AI 骗取音乐版权收入被判 18 个月监禁并罚没 800 万美元",
-     "link": "https://www.ithome.com/1/010/378.htm",
-     "pubDate": "Thu, 08 Oct 2026 01:06:38 GMT",
-     "summary": "IT之家 10 月 8 日消息，美国司法部当地时间本月 6 日发布公告，表示该国北卡罗来纳州男子 Michael Smith 因利用 AI 骗取音乐版权收入被判 18 个月监禁并罚没 800 万美元 （IT之家注：现汇率约合 5,370 万元人民币） 违法收入。 Michael Smith 在 2017~2024 年 利用人工智能生成了数十万首歌曲 ，此后通过上万个使用虚假邮箱和非法获取的借记卡创建的虚假账户 在流媒体平台上线这些歌曲 ，然后利用庞大的机器人账户矩阵 进行欺诈性播放 以获取违法收入。 图源：Pexels 版权按比例从资金池中支付给词曲作者和演唱者。因此，流媒体欺诈会将原本属于真",
-     "source": "IT之家",
-     "zh": "美国一男子因利用 AI 骗取音乐版权收入被判 18 个月监禁并罚没 800 万美元"
-    },
-    {
      "title": "Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation (Bloomberg)",
      "link": "https://www.techmeme.com/261007/p44#a261007p44",
      "pubDate": "Wed, 07 Oct 2026 21:05:01 -0400",
@@ -1841,26 +1873,10 @@
      "zh": "Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation (Bloomberg)"
     },
     {
-     "title": "纽约时报律师漂白证据露馅儿，会影响诉OpenAI案的结果吗？",
-     "link": "https://www.huxiu.com/article/4895721.html?f=rss",
-     "pubDate": "Thu, 08 Oct 2026 08:46:47 +0800",
-     "summary": "作者：游云庭（知识产权律师），题图来自：视觉中国 人工智能领域的标杆案件《纽约时报》起诉OpenAI和微软案最近高潮迭起，这两天在该案和其他案件合并的审前程序中，被告指责《纽约时报》漂白证据，其专家引用的论文被指实际是《纽约时报》律所资助且未向法庭披露，又引发了媒体关注。今天就和大家聊聊漂白证据事件会不会对诉讼有重大影响，以及此事如果发生在中国，会有怎样的后果。 漂白证据是怎么回事？简而言之，《纽约时报》的代理律师事务所资助了一项研究，然后其专家证人作证时大量引用研究的论文，OpenAI和微软认为研究是定制的，而且《纽约时报》在证据披露、专家身份介绍中刻意隐瞒资金关系和利益冲突，让这份证据在程",
-     "source": "虎嗅",
-     "zh": "纽约时报律师漂白证据露馅儿，会影响诉OpenAI案的结果吗？"
-    },
-    {
-     "title": "AI让数学再也回不去那个旧世界了。",
-     "link": "https://www.huxiu.com/article/4895723.html?f=rss",
-     "pubDate": "Thu, 08 Oct 2026 08:46:25 +0800",
-     "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克 昨天早上，可能会是人类时代的一个分水岭。 以至于这篇文章，在我即使有提前做了大量功课，有一定的知识储备的情况下，还是写了整整一天的时间，完稿时间是今天的凌晨6点15，无他，还是因为这个事件的信息量过大，历史意义过大，那种宿命感，在调研在写的过程中，还是有无数次的巨大的情绪波动。 这个事件大家比较关注新闻的，都已经看过了。 就是昨天（10月7号）早上，OpenAI没有任何预兆的，发布了巨量的数学研究成果，他们直接在Github上，发了一个新仓库，名字非常的朴素，叫openai/math。 网址在此：https://github.com",
-     "source": "虎嗅",
-     "zh": "AI让数学再也回不去那个旧世界了。"
-    },
-    {
      "title": "Rust Port of TypeScript (Tsc)",
      "link": "https://github.com/pingdotgg/ts-rust",
      "pubDate": "Thu, 08 Oct 2026 00:46:00 +0000",
-     "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 19 # Comments: 9",
+     "summary": "Article URL: https://github.com/pingdotgg/ts-rust Comments URL: https://news.ycombinator.com/item?id=50000676 Points: 29 # Comments: 18",
      "source": "Hacker News",
      "zh": "Rust Port of TypeScript (Tsc)"
     },
@@ -1975,22 +1991,6 @@
      "summary": "At a recent event for security firm NordVPN, NBA superstar Shaquille O’Neal revealed that he got hacked—and warned the public about the need to “have control of their own information.”",
      "source": "WIRED",
      "zh": "Shaq Got Hacked. Now He’s Pitching for a VPN"
-    },
-    {
-     "title": "27 Best Prime Day Deals on Phone Accessories (2026)",
-     "link": "https://www.wired.com/story/best-prime-day-mobile-accessories-deals-10-7-2026/",
-     "pubDate": "Wed, 07 Oct 2026 21:22:00 +0000",
-     "summary": "Just bought a new phone or looking to enhance an existing one? Prime Day is the time to save on accessories like batteries, chargers, and more.",
-     "source": "WIRED",
-     "zh": "27 Best Prime Day Deals on Phone Accessories (2026)"
-    },
-    {
-     "title": "Margaret Hamilton has died",
-     "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-     "pubDate": "Wed, 07 Oct 2026 21:16:18 +0000",
-     "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 675 # Comments: 76",
-     "source": "Hacker News",
-     "zh": "Margaret Hamilton has died"
     }
    ]
   },
@@ -2249,6 +2249,86 @@
    "total": 13,
    "items": [
     {
+     "title": "Oil gains as Middle East hostilities stoke supply worries",
+     "link": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+     "pubDate": "Thu, 08 Oct 2026 01:46:56 GMT",
+     "summary": "President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran in the coming weeks, NBC News reported.",
+     "source": "CNBC",
+     "zh": "Oil gains as Middle East hostilities stoke supply worries"
+    },
+    {
+     "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
+     "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+     "pubDate": "Thu, 08 Oct 2026 01:45:00 GMT",
+     "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
+     "source": "MarketWatch",
+     "zh": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?"
+    },
+    {
+     "title": "房地产板块震荡拉升 深物业A、陆家嘴双双涨停",
+     "link": "http://finance.eastmoney.com/news/11440,202610083889174369.html",
+     "pubDate": "Thu, 08 Oct 2026 09:42:15 +0800",
+     "summary": "房地产 板块震荡拉升， 深物业A 、 陆家嘴 双双涨停， 世联行 、 大名城 、 阳光股份 、 我爱我家 跟涨。消息面上，据报道，国庆假期期间，深圳的二手房市场活跃度明显提升。随着深圳非核心区域放开限购，越来越多的非深户开始将置业目光投向深圳。",
+     "source": "东方财富股票",
+     "zh": "房地产板块震荡拉升 深物业A、陆家嘴双双涨停"
+    },
+    {
+     "title": "众捷股份10月8日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610083889173446.html",
+     "pubDate": "Thu, 08 Oct 2026 09:41:31 +0800",
+     "summary": "以下是众捷股份在北京时间10月8日09:35分盘口异动快照： 10月8日，众捷股份盘中快速反弹，5分钟内涨幅超过2%，截至9点35分，报36.78元，成交8543.82万元，换手率4.00%。 分笔 报价 卖五 37 49 卖四 36.99 2 卖三 36.98 61 卖二 36.97 3 卖一 36.96 61 买一 36.78 4 买二 36.73 5 买三 36.72 5 买四 36.71 3 买五 36.7 8 最新： 36.78 涨幅： -2.40% 涨跌： -1.08 换手率：4.00% 成交量：2.34万手 成交额：8543.82万元 主力净流入： -146.25万 元 &ems",
+     "source": "东方财富股票",
+     "zh": "众捷股份10月8日快速反弹"
+    },
+    {
+     "title": "ST美克10月8日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610083889173337.html",
+     "pubDate": "Thu, 08 Oct 2026 09:41:28 +0800",
+     "summary": "以下是ST美克在北京时间10月8日09:35分盘口异动快照： 10月8日，ST美克盘中快速上涨，5分钟内涨幅超过2%，截至9点35分，报3.94元，成交1940.50万元，换手率0.35%。 分笔 报价 卖五 3.97 763 卖四 3.96 495 卖三 3.95 1900 卖二 3.94 298 卖一 3.93 234 买一 3.92 1566 买二 3.91 453 买三 3.9 3774 买四 3.89 1189 买五 3.88 910 最新： 3.94 涨幅： 3.14% 涨跌： 0.12 换手率：0.35% 成交量：5.03万手 成交额：1940.50万元 主力净流入： -50.9",
+     "source": "东方财富股票",
+     "zh": "ST美克10月8日快速上涨"
+    },
+    {
+     "title": "10月8日改性塑料板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610083889173139.html",
+     "pubDate": "Thu, 08 Oct 2026 09:41:28 +0800",
+     "summary": "&emsp;&emsp;10月8日9点35分，改性塑料板块指数报7002.83点，涨幅达2%，成交4.35亿元，换手率0.29%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为：杭州高新报33.84元，涨10.23%；银禧科技报13.74元，涨5.05%；美联新材报9.01元，涨5.01%；聚石化学报62.86元，涨3.90%；星辉环材报38.53元，涨3.27%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月8日改性塑料板块涨幅达2%"
+    },
+    {
+     "title": "瑞晨环保10月8日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610083889173089.html",
+     "pubDate": "Thu, 08 Oct 2026 09:41:27 +0800",
+     "summary": "以下是瑞晨环保在北京时间10月8日09:35分盘口异动快照： 10月8日，瑞晨环保盘中快速反弹，5分钟内涨幅超过2%，截至9点35分，报36.2元，成交375.51万元，换手率0.14%。 分笔 报价 卖五 36.28 20 卖四 36.27 5 卖三 36.22 8 卖二 36.21 61 卖一 36.2 7 买一 36.11 1 买二 36.07 6 买三 36.06 1 买四 36.05 44 买五 35.92 4 最新： 36.2 涨幅： 1.94% 涨跌： 0.69 换手率：0.14% 成交量：1052手 成交额：375.51万元 主力净流入： 22.77 万元 &emsp;&ems",
+     "source": "东方财富股票",
+     "zh": "瑞晨环保10月8日快速反弹"
+    },
+    {
+     "title": "昊帆生物10月8日加速下跌",
+     "link": "http://stock.eastmoney.com/news/1944,202610083889172745.html",
+     "pubDate": "Thu, 08 Oct 2026 09:41:24 +0800",
+     "summary": "以下是昊帆生物在北京时间10月8日09:35分盘口异动快照： 10月8日，昊帆生物盘中加速下跌，5分钟内跌幅超过2%，截至9点35分，报65.25元，成交2761.66万元，换手率0.94%。 分笔 报价 卖五 65.3 14 卖四 65.29 2 卖三 65.28 2 卖二 65.27 1 卖一 65.26 5 买一 65.16 3 买二 65.15 15 买三 65.12 6 买四 65.1 5 买五 65.08 1 最新： 65.25 涨幅： -2.80% 涨跌： -1.88 换手率：0.94% 成交量：4145手 成交额：2761.66万元 主力净流入： 137.75 万元 &emsp",
+     "source": "东方财富股票",
+     "zh": "昊帆生物10月8日加速下跌"
+    },
+    {
+     "title": "美联储9月会议纪要显示多数官员支持年内再加息，高盛预计12月落地但终止紧缩概率同样不低",
+     "link": "https://wallstreetcn.com/articles/3783127",
+     "pubDate": "Thu, 08 Oct 2026 09:39:19 +0800",
+     "summary": "美联储9月会议纪要释放偏鹰信号，多数官员支持年内再次加息，但市场已将加息预期从10月推迟至12月。高盛在纪要发布后指出， 12月加息概率更大，但FOMC最终判断无需进一步紧缩的可能性同样相当大 ，这一表态为本轮紧缩周期的走向增添了更多不确定性。 根据周三公布的9月15日至16日联邦公开市场委员会（FOMC）会议纪要，19名美联储高级官员一致支持将联邦基金利率目标区间上调25个基点至3.75%至4.00%，这是美联储自2023年7月以来首次加息。纪要显示， \"多数与会者认为，在今年年底前进一步上调联邦基金利率目标区间可能是合适的\"，但官员们同时强调将对每次会议保持\"开放态度\"。 随着9月就业数据",
+     "source": "华尔街见闻",
+     "zh": "美联储9月会议纪要显示多数官员支持年内再加息，高盛预计12月落地但终止紧缩概率同样不低"
+    },
+    {
+     "title": "从Hugging Face到Figure机器人：英伟达如何用千亿资本押注AI生态未来",
+     "link": "https://wallstreetcn.com/articles/3783145",
+     "pubDate": "Thu, 08 Oct 2026 09:36:14 +0800",
+     "summary": "英伟达正以前所未有的速度和规模重塑AI产业版图。这家芯片巨头在过去数月内完成逾1400亿美元的交易，并持有近1000亿美元的股权投资组合，其战略意图已远超单纯的芯片销售—— 黄仁勋正试图用资本力量构建一个由数千个AI模型组成的生态系统，以分散对少数头部客户的依赖风险。 10月7日，据科技媒体The Information报道，英伟达下一阶段的投资重心将集中于 人形机器人、自动驾驶技术以及可在本地设备运行的AI模型 ，多位与英伟达有合作的银行家、律师和投资人证实了这一方向。其中，英伟达已就向人形机器人公司Figure追加约 10亿美元投资 展开讨论，Figure此轮融资前估值约为380亿美元。 ",
+     "source": "华尔街见闻",
+     "zh": "从Hugging Face到Figure机器人：英伟达如何用千亿资本押注AI生态未来"
+    },
+    {
      "title": "新韵重庆 渝见双节｜国庆假期 重庆火车站共计发送旅客234.2万人次",
      "link": "http://www.eeo.com.cn/2026/1008/1057237.shtml",
      "pubDate": "Thu, 08 Oct 2026 09:26:12 +0800",
@@ -2271,54 +2351,6 @@
      "summary": "据Choice数据，10月8日，国内商品期市早盘主力合约涨多跌少，截至9:05，燃油涨超8%，液化石油气涨超7%，甲醇、低硫燃料油等涨超5%，纯苯、聚丙烯、苯乙烯、沥青、PTA等涨超3%，塑料、原油、碳酸锂、集运指数（欧线）等涨超2%，乙二醇、郑棉、橡胶等涨超1%。跌幅方面，钯跌超5%，铂跌超2%，红枣、玻璃、玉米、铁矿石、沪金等跌超1%。",
      "source": "经济观察网",
      "zh": "国内商品期市早盘涨多跌少 燃油涨超8%"
-    },
-    {
-     "title": "港股开盘：恒指低开0.41% 汇丰控股领跌成分股",
-     "link": "http://stock.eastmoney.com/news/11771,202610083889081950.html",
-     "pubDate": "Thu, 08 Oct 2026 09:23:15 +0800",
-     "summary": "&nbsp; 港股10月8日 低开 ，恒生指数开盘报24031.66点，跌98.84点，跌幅0.41%； 恒生科技指数 开盘报4183.83点，跌10.66点，跌幅0.25%。 恒生指数成分股中 龙湖集团 、 宁德时代 、 京东集团-SW 涨幅居前 ， 汇丰控股 、 中国生物制药 、 华润电力 跌幅靠前 。 恒生科技指数成分股中 蔚来-SW 、 天数智芯 、 京东集团-SW 涨幅居前 ， 智谱 、 小鹏集团-W 、 百度集团-W 跌幅靠前 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但",
-     "source": "东方财富股票",
-     "zh": "港股开盘：恒指低开0.41% 汇丰控股领跌成分股"
-    },
-    {
-     "title": "10月8日港股开盘：恒指低开0.41% 汇丰控股领跌成分股",
-     "link": "http://stock.eastmoney.com/news/11770,202610083889081751.html",
-     "pubDate": "Thu, 08 Oct 2026 09:23:10 +0800",
-     "summary": "港股10月8日低开，恒生指数开盘报24031.66点，跌98.84点，跌幅0.41%；恒生科技指数开盘报4183.83点，跌10.66点，跌幅0.25%。恒生指数成分股中 龙湖集团 、 宁德时代 、 京东集团-SW 涨幅居前， 汇丰控股 、 中国生物制药 、 华润电力 跌幅靠前。恒生科技指数成分股中 蔚来-SW 、 天数智芯 、 京东集团-SW 涨幅居前， 智谱 、 小鹏集团-W 、 百度集团-W 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。",
-     "source": "东方财富股票",
-     "zh": "10月8日港股开盘：恒指低开0.41% 汇丰控股领跌成分股"
-    },
-    {
-     "title": "台交所加权股价指数下跌1%",
-     "link": "http://stock.eastmoney.com/news/11791,202610083889082169.html",
-     "pubDate": "Thu, 08 Oct 2026 09:21:55 +0800",
-     "summary": "台交所加权股价指数下跌1%，至49,306.18点。",
-     "source": "东方财富股票",
-     "zh": "台交所加权股价指数下跌1%"
-    },
-    {
-     "title": "恒指开盘跌0.41%，恒科指跌0.25%",
-     "link": "http://hk.eastmoney.com/news/1797,202610083889080596.html",
-     "pubDate": "Thu, 08 Oct 2026 09:20:41 +0800",
-     "summary": "恒指开盘跌0.41%，恒科指跌0.25%。科指成分股中， 蔚来-SW 涨1.91%， 智谱 跌2.3%， 小鹏集团-W 跌1.58%， 百度集团-W 跌1.12%， 阿里巴巴-W 跌0.95%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "恒指开盘跌0.41%，恒科指跌0.25%"
-    },
-    {
-     "title": "中文在线：终止发行H股并在香港联交所上市",
-     "link": "http://finance.eastmoney.com/news/1354,202610083889082282.html",
-     "pubDate": "Thu, 08 Oct 2026 09:19:57 +0800",
-     "summary": "上证智讯 10月8日， 中文在线 发布公告称，公司于2026年10月7日召开第六届董事会第十四次会议，审议通过了《关于终止发行H股股票并于香港联合交易所有限公司上市的议案》，同意公司终止发行H股股票并于香港联交所上市。 公告显示，公司曾于2025年12月15日召开第六届董事会第五次会议、于2025年12月31日召开2025年第二次临时股东会，审议通过发行H股股票并在香港联交所主板挂牌上市的相关议案。本次终止系基于市场环境与公司自身发展规划的 综合 考量，经审慎讨论分析后作出。公司本次终止发行H股股票事项属于股东会授权董事会全权处理的授权范围，无需提交股东会审议。 公司表示，目前经营状况正常，此",
-     "source": "东方财富股票",
-     "zh": "中文在线：终止发行H股并在香港联交所上市"
-    },
-    {
-     "title": "英伟达拟再向Figure投资10亿美元！人形机器人生态竞争持续升级｜机器人早参",
-     "link": "http://finance.eastmoney.com/news/1349,202610083889080285.html",
-     "pubDate": "Thu, 08 Oct 2026 09:18:35 +0800",
-     "summary": "过去一周（截至9月30日收盘）， 机器人 概念震荡调整。 机器人 ETF（159039）跟踪指数下跌2.58%。成分股中， 浙江荣泰 下跌6.77%， 三花智控 下跌1.03%、 双环传动 下跌2.18%、 汇川技术 上涨0.04%。 消息面上，据报道， 英伟达 讨论再向人形 机器人 公司Figure投资10亿美元。 英伟达 此次讨论追加投资，延续了其从财务投资者向Figure核心技术供应商角色延伸的战略路径—— 英伟达 此前已参与Figure的C轮融资，并为后者的Helix AI模型提供训练与部署硬件支持。黄仁勋将双方合作定位为“ 机器人 飞轮”，即模型在英伟达Vera Rubin芯片上训练",
-     "source": "东方财富股票",
-     "zh": "英伟达拟再向Figure投资10亿美元！人形机器人生态竞争持续升级｜机器人早参"
     },
     {
      "title": "Applied Digital targets 3.5 to 4 GW by end of 2030 as it expects over 600 MW to enter service in the next 12 months",
@@ -2409,22 +2441,6 @@
      "zh": "Levi Strauss outlines $1.54-$1.56 FY2026 EPS as it expects 4% organic Q4 revenue growth while redeploying $60M of tariff refunds"
     },
     {
-     "title": "韩股“唯一的买家”提前离场了？",
-     "link": "https://wallstreetcn.com/articles/3783138",
-     "pubDate": "Thu, 08 Oct 2026 08:29:44 +0800",
-     "summary": "韩国股市正面临一场关键的流动性考验。支撑KOSPI指数在散户与外资持续抛售压力下勉强维稳的最后一道防线——三星电子与SK海力士合计约400亿美元的史上最大规模股票回购计划——已提前数周宣告终结， 市场正在直面高盛此前警告的\"流动性真空\"。 三星电子的回购计划已于本周结束，SK海力士的收尾也仅剩数个交易日。 在此之前的两个月里，这两家公司几乎是韩国股市唯一的净买家，单独承接了外资与散户合计逾250亿美元的抛售压力。随着企业回购支撑骤然撤出，KOSPI周三（10月7日）下跌2%，再度失守7000点关口，外资单日净卖出达19亿美元。 更为不利的是， 三星电子三季度业绩同步出炉，营收与营业利润双双低于",
-     "source": "华尔街见闻",
-     "zh": "韩股“唯一的买家”提前离场了？"
-    },
-    {
-     "title": "债券风暴笼罩：10年期拍卖拯救美债， 欧债“深陷泥潭”",
-     "link": "https://wallstreetcn.com/articles/3783136",
-     "pubDate": "Thu, 08 Oct 2026 08:27:14 +0800",
-     "summary": "全球债券市场正经历数十年来最剧烈的动荡。美国10年期国债收益率一度攀升至5.36%的数十年高位，随后因一场强劲的拍卖结果而显著回落；与此同时，欧洲主权债务市场持续承压，法国、意大利和英国国债收益率均大幅走高，债券风暴的阴云远未消散。 周三，美国财政部以5.3%的高收益率顺利完成390亿美元10年期国债拍卖，为2000年11月以来的最高水平，需求之强劲令市场大感意外。 拍卖结果公布后，10年期国债收益率从盘中高点5.36%迅速回落至5.27%附近，30年期国债收益率也从5.73%的高位退至5.66%。此次拍卖触及发行价1.7个基点，创下一年多来最大触及幅度，有效缓解了市场对又一场\"灾难性拍卖\"的",
-     "source": "华尔街见闻",
-     "zh": "债券风暴笼罩：10年期拍卖拯救美债， 欧债“深陷泥潭”"
-    },
-    {
      "title": "China races to build AI data centres across energy-rich hinterland",
      "link": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1",
      "pubDate": "Thu, 08 Oct 2026 00:15:04 GMT",
@@ -2457,36 +2473,20 @@
      "zh": "RGP expects Q2 revenue of $95M-$100M as it targets utilization and cost alignment"
     },
     {
+     "title": "三星电子第三季度利润、销售额逊色于市场预期",
+     "link": "http://finance.eastmoney.com/news/1351,202610083889037538.html",
+     "pubDate": "Thu, 08 Oct 2026 06:47:56 +0800",
+     "summary": "三星 电子 第三季度销售额195.00万亿韩元，预估201.9万亿韩元。第三季度营业利润107.40万亿韩元，预估108.67万亿韩元。 相关报道 “存储荒”持续！三星Q3营业利润猛增近8倍 史上首破100万亿韩元大关 周四（10月8日），全球最大的内存芯片制造商三星 电子 发布了2026年第三季度初步业绩，显示随着对 人工智能 （AI）芯片的旺盛需求持续推高存储业务盈利，三星第三季度营业利润较去年同期猛增782%，且超出分析师预期。 根据初步业绩， 三星 电子 今年7月至9月期间的营业利润为107.4 万亿韩元（约合801.7 亿美元），较上年同期的12.17万亿韩元飙升近8倍，高于LSEG",
+     "source": "东方财富资讯",
+     "zh": "三星电子第三季度利润、销售额逊色于市场预期"
+    },
+    {
      "title": "General Dynamics names current president Deep as next CEO",
      "link": "https://seekingalpha.com/news/4651197-general-dynamics-names-current-president-deep-as-next-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 07 Oct 2026 18:38:45 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "General Dynamics names current president Deep as next CEO"
-    },
-    {
-     "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
-     "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
-     "pubDate": "Wed, 07 Oct 2026 22:32:00 GMT",
-     "summary": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech companies.",
-     "source": "MarketWatch",
-     "zh": "Rising yields are quietly crashing the stock market’s earlier winners of 2026"
-    },
-    {
-     "title": "Anthropic will be &apos;most ridiculous IPO&apos; of year, analyst says",
-     "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-     "pubDate": "Wed, 07 Oct 2026 22:29:41 GMT",
-     "summary": "Anthropic reportedly plans to list on the Nasdaq before Thanksgiving, and one bearish advisory firm suggests that investors sit this one out.",
-     "source": "CNBC",
-     "zh": "Anthropic will be &apos;most ridiculous IPO&apos; of year, analyst says"
-    },
-    {
-     "title": "Exxon hopes to repeat Guyana's oil boom offshore Trinidad and Tobago",
-     "link": "https://seekingalpha.com/news/4651196-exxon-hopes-to-repeat-guyanas-oil-boom-offshore-trinidad-and-tobago?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 07 Oct 2026 18:23:03 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Exxon hopes to repeat Guyana's oil boom offshore Trinidad and Tobago"
     }
    ]
   },

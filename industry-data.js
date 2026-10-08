@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/8 08:15:39",
+ "generated_at": "2026/10/8 08:19:27",
  "recent_days": 7,
  "industries": [
   {
@@ -751,7 +751,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 07 Oct 2026 17:18:35 +0000",
      "summary": "German regulators support approving FSD for use throughout Europe. But they want Tesla to drop the \"Full Self Driving\" name.",
      "source": "InsideEVs",
-     "zh": "特斯拉 FSD 刚刚获得德国批准。但它可能需要一个新名字"
+     "zh": "特斯拉 FSD 刚刚获得德国批准。但它可能需要一个新名称"
     },
     {
      "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
@@ -839,7 +839,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 01 Oct 2026 12:50:38 +0000",
      "summary": "GWM sold 114,944 vehicles in September, down 13.99% year-on-year, bringing sales for the first 9 months into decline at 0.33%. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "国内经济衰退加剧 长城汽车9月销量跌14%创今年最大降幅"
+     "zh": "国内经济衰退加剧 长城汽车9月销量跌14%创今年最大跌幅"
     },
     {
      "title": "Geely September sales rise 7% to 2026 high as record export streak ends",
@@ -919,7 +919,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 07 Oct 2026 13:00:00 -0400",
      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack. Welcome back to California Wire! This week, I want to dive into a topic that’s both timely and timeless: transmission lines, and how long it take",
      "source": "Canary Media",
-     "zh": "加州加大对耗时过长的电网建设的压力"
+     "zh": "加州加大了对耗时过长的电网建设的压力"
     },
     {
      "title": "Toyo cuts the ribbon on its newly-expanded solar factory in Texas",
@@ -1047,7 +1047,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 07 Oct 2026 11:10:08 +0000",
      "summary": "BESS owner-operator BW ESS has launched construction on its second large-scale project in Italy in the space of a month, while developers Galileo and Aura Power have progressed portfolios in the country.",
      "source": "Energy Storage News",
-     "zh": "随着“市场走向执行”，BW ESS 开始在意大利建设 828MWh BESS"
+     "zh": "随着“市场转向执行”，BW ESS 开始在意大利建设 828MWh BESS"
     },
     {
      "title": "Plant diversity under PV modules rivals grassland at Japanese solar park",
@@ -1879,7 +1879,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 07 Oct 2026 23:33:14 +0000",
      "summary": "These are all products we've tested and loved, and they're all on sale until Prime Day ends for under $100.",
      "source": "WIRED",
-     "zh": "您仍然可以获得的 23 项 100 美元以下最佳 Prime Day 优惠 (2026)"
+     "zh": "您仍然可以获得 23 项低于 100 美元的最佳 Prime Day 优惠 (2026)"
     },
     {
      "title": "【钛晨报】推动体育赛事发展，国务院办公厅最新部署；SpaceX拟募资400亿美元采购英伟达芯片；中国央行连续第23个月增持黄金",
@@ -1927,7 +1927,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 07 Oct 2026 18:40:01 -0400",
      "summary": "Lynn Doan / Bloomberg : The DOD offers chipmaker Wolfspeed, which filed for bankruptcy in 2025, a conditional loan of up to $1.5B in exchange for warrants for up to 7.5% of the company &nbsp; &mdash;&nbsp; The US Defense Department pledged to issue a conditional loan to Wolfspeed Inc., the chipmaker",
      "source": "Techmeme",
-     "zh": "美国国防部向 2025 年申请破产的芯片制造商 Wolfspeed 提供高达 1.5B 美元的有条件贷款，以换取该公司高达 7.5% 的认股权证（Lynn Doan/彭博社）"
+     "zh": "美国国防部向 2025 年申请破产的芯片制造商 Wolfspeed 提供高达 1.5B 美元的有条件贷款，以换取该公司高达 7.5% 股份的认股权证（Lynn Doan/彭博社）"
     },
     {
      "title": "Tropical Storm Isaias Set to Be First Atlantic Hurricane of 2026 Season",
@@ -2183,7 +2183,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 07 Oct 2026 17:52:55 +0000",
      "summary": "The big event will also air on ABC and ESPN.",
      "source": "Engadget",
-     "zh": "Disney+ 将直播超级碗以及一些周一橄榄球之夜比赛"
+     "zh": "Disney+ 将直播超级碗以及一些周一橄榄球之夜的比赛"
     },
     {
      "title": "Pixel 11 series still not on Android 17 QPR1 with October update",
@@ -2207,7 +2207,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 07 Oct 2026 17:04:00 +0000",
      "summary": "When Google added Pixelsnap to the Pixel 10 series, it wasn’t just building in support for all kinds of magnetic accessories — it was also adding in some excellent software functionality, like upgraded screensavers for when your phone is docked and charging. After gaining some new styles and feature",
      "source": "9to5Google",
-     "zh": "谷歌开始在 Pixel 9 上推出升级版 Pixel 屏保"
+     "zh": "谷歌开始在 Pixel 9 上推出升级版 Pixel 屏幕保护程序"
     },
     {
      "title": "Apple is working with LG on new smart home products, here are the details",
@@ -2418,14 +2418,6 @@ window.INDUSTRY_DATA = {
      "zh": "IEA将加快释放石油储备，仍有1亿桶待投放"
     },
     {
-     "title": "三星三季度利润、销售额逊色于市场预期",
-     "link": "http://finance.eastmoney.com/news/1351,202610083889037538.html",
-     "pubDate": "Thu, 08 Oct 2026 06:47:56 +0800",
-     "summary": "三星 电子 第三季度销售额195.00万亿韩元，预估201.9万亿韩元。第三季度营业利润107.40万亿韩元，预估108.67万亿韩元。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "三星三季度利润、销售额逊色于市场预期"
-    },
-    {
      "title": "General Dynamics names current president Deep as next CEO",
      "link": "https://seekingalpha.com/news/4651197-general-dynamics-names-current-president-deep-as-next-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 07 Oct 2026 18:38:45 -0400",
@@ -2466,14 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Getchell Gold 为 Fondaway Canyon 投资 30 万美元"
     },
     {
-     "title": "10月8日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/11158,202610083889030245.html",
-     "pubDate": "Thu, 08 Oct 2026 06:03:50 +0800",
-     "summary": "10月8日(星期四)，今日报刊头条主要内容精华如下： 中国证券报 国庆假期楼市实探：看房的人明显多起来了 国庆假期期间，中国证券报调研小分队对北京、深圳、广州、贵阳等地楼市进行实地调研发现，受购房贷款财政贴息等利好政策影响，楼市关注度提升，记者走访多地售楼处发现，看房的人明显多起来了。值得注意的是，在政策组合拳和开发商促销共同作用下，全国各地以价换量、以量促稳并行推进，政策红利持续释放、市场信心稳步修复。随着增量政策持续落地，全国楼市有望延续企稳回升态势。 国庆车市一线调研：金融权益成促销新密码 国庆假期， 汽车 消费市场的促销看起来颇为热闹：最高8万元两年0利息金融方案、最高2.5万元置换补",
-     "source": "东方财富资讯",
-     "zh": "10月8日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
      "title": "Clean Air Metals announces C$150,000 flow-through financing",
      "link": "https://seekingalpha.com/news/4651194-clean-air-metals-announces-c150000-flow-through-financing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 07 Oct 2026 17:57:07 -0400",
@@ -2488,6 +2472,22 @@ window.INDUSTRY_DATA = {
      "summary": "GPT-6新模型在抵御越狱攻击、拒绝高风险请求等核心安全指标上较前代取得明显进步。 10月7日，OpenAI正式向全球ChatGPT用户推出GPT-6，在大幅提升模型智能的同时，将安全防护体系进行了系统性重构。 此次发布覆盖付费与免费用户。付费版（Plus、Pro、Business及Enterprise）使用GPT-6 Sol，免费及Go版本使用GPT-6 Luna。 根据OpenAI发布的系统说明卡， 两款模型均沿用了此前GPT-6 Astra框架中的安全改进成果，并针对网络攻击、生物威胁和暴力内容的滥用风险更新了安全训练数据。 在能力分级上，OpenAI依据自身\"准备框架\"将GPT-6 S",
      "source": "华尔街见闻",
      "zh": "OpenAI正式发布GPT-6，抵御“越狱攻击”能力更强，但均未触及“RSI”门槛"
+    },
+    {
+     "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
+     "link": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
+     "pubDate": "Wed, 07 Oct 2026 21:31:40 GMT",
+     "summary": "Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.",
+     "source": "CNBC",
+     "zh": "关税退还后，李维斯上调利润指引，但销售前景不太乐观"
+    },
+    {
+     "title": "Trump doesn&apos;t think Russia plague incident is bioweapon, plans Putin call Wednesday",
+     "link": "https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html",
+     "pubDate": "Wed, 07 Oct 2026 21:20:40 GMT",
+     "summary": "Nearly 200 people were placed under medical observation earlier this week in Russia's Irkutsk region in eastern Siberia over suspected exposure to plague.",
+     "source": "CNBC",
+     "zh": "特朗普不认为俄罗斯鼠疫事件是生物武器，计划周三与普京通话"
     }
    ]
   },
@@ -2535,7 +2535,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 07 Oct 2026 17:08:09 +0000",
      "summary": "New simulations suggest that the perplexing Arsia Mons Elongated Cloud (AMEC) repeatedly emerges in the Red Planet's skies thanks to a never-before-seen meteorological process.",
      "source": "Live Science",
-     "zh": "火星上每天形成和消失的 1000 英里长的云遵循地球上从未见过的“奇异物理”"
+     "zh": "火星上每天形成和消失的 1000 英里长云遵循地球上从未见过的“奇异物理”"
     },
     {
      "title": "'We stocked an RV as an emergency bugout vehicle': Readers share how prepared they are for a disaster",
@@ -2543,7 +2543,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 07 Oct 2026 16:23:53 +0000",
      "summary": "With extreme weather conditions becoming more frequent, having a disaster kit and other emergency plans can be beneficial. Live Science readers shared their thoughts about how prepared they are for these events. Do you agree with what they said?",
      "source": "Live Science",
-     "zh": "“我们储备了一辆房车作为紧急逃生车”：读者分享他们为灾难做好的准备"
+     "zh": "“我们储备了一辆房车作为紧急救援车辆”：读者分享他们为灾难做好的准备"
     },
     {
      "title": "'Completely unexpected': Astronomers spy never-before-seen 'phoenix planet' rising from the ashes of a dead star",

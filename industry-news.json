@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 07:22:51",
+ "generated_at": "2026/10/10 07:26:59",
  "recent_days": 7,
  "industries": [
   {
@@ -257,20 +257,20 @@
    "total": 9,
    "items": [
     {
+     "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
+     "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
+     "pubDate": "Fri, 09 Oct 2026 22:00:00 +0000",
+     "summary": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI"
+    },
+    {
      "title": "Solid-State Transformers: Accelerate Your SST Design",
      "link": "https://www.eetimes.com/solid-state-transformers-accelerate-your-sst-design/",
      "pubDate": "Fri, 09 Oct 2026 15:38:47 +0000",
      "summary": "Join our expert-led webinar to explore Infineon's comprehensive portfolio for Solid-State Transformers (SSTs). The post Solid-State Transformers: Accelerate Your SST Design appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Solid-State Transformers: Accelerate Your SST Design"
-    },
-    {
-     "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
-     "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
-     "pubDate": "Fri, 09 Oct 2026 15:30:00 +0000",
-     "summary": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI"
     },
     {
      "title": "TSMC 2026 OIP Ecosystem Forum Summary",
@@ -921,12 +921,12 @@
      "zh": "Poly pricing and potential expansion"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
+     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -940,7 +940,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1721,6 +1721,22 @@
    "total": 18,
    "items": [
     {
+     "title": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2",
+     "link": "https://www.ithome.com/1/011/168.htm",
+     "pubDate": "Fri, 09 Oct 2026 23:22:42 GMT",
+     "summary": "IT之家 10 月 10 日消息，科技媒体 Windows Latest 昨日（10 月 9 日）发布博文，报道称微软正通过驱动程序质量倡议（Driver Quality Initiative，DQI）推动合作伙伴提升 Windows 驱动质量。 IT之家援引博文介绍，微软表示单靠操作系统厂商无法提升整个 Windows 生态的质量，因此推出 DQI 驱动程序质量倡议。该框架由微软与硬件生态伙伴协作推进，覆盖驱动架构、信任、生命周期及质量衡量。 报道称英特尔是首家呼应本次倡议的厂商，已在 2026 年 10 月更新的 GPU 驱动（版本号为 32.0.101.9034）中，添加支持 Windo",
+     "source": "IT之家",
+     "zh": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2"
+    },
+    {
+     "title": "【钛晨报】中央重磅部署19项举措，新质生产力发展路径明确；证监会发文，权益类基金成立门槛拟降至5000万元；浙商大佬俞发祥遭立案，两家A股公司回应",
+     "link": "https://www.tmtpost.com/8163364.html",
+     "pubDate": "Sat, 10 Oct 2026 07:20:00 +0800",
+     "summary": "天孚通信回应海外进出口政策限制传闻；懂车帝辟谣网传内部整顿通知；特斯拉弃用“自动驾驶”命名，以争取欧洲监管批准；iPhone 18 Pro系列被曝削减零部件产量，供应链人士回应；山姆拟限制亲友卡绑定；企查查A股IPO终止；美发布应对所谓“结构性产能和生产过剩”问题部长级联合声明，中方回应。",
+     "source": "钛媒体",
+     "zh": "【钛晨报】中央重磅部署19项举措，新质生产力发展路径明确；证监会发文，权益类基金成立门槛拟降至5000万元；浙商大佬俞发祥遭立案，两家A股公司回应"
+    },
+    {
      "title": "宝马北美调查：电动汽车买家想要远超自身需求的续航里程",
      "link": "https://www.ithome.com/1/011/167.htm",
      "pubDate": "Fri, 09 Oct 2026 23:18:39 GMT",
@@ -1769,14 +1785,6 @@
      "zh": "谷歌预告 10 月 12 日将推新品，预估为 Fitbit Edge 手环"
     },
     {
-     "title": "谷歌 Gemini 4“Argon”模型即将发布，消息称内部测试“Carbon”新版本",
-     "link": "https://www.ithome.com/1/011/162.htm",
-     "pubDate": "Fri, 09 Oct 2026 22:51:52 GMT",
-     "summary": "IT之家 10 月 10 日消息，据《商业内幕》报道，谷歌即将向公众正式发布新一代 Gemini 4“Argon”模型。与此同时，其内部员工已在测试性能更强的后续迭代版本，有望进一步缩小与竞品之间的技术差距。 据该媒体获取的内部文档与截图显示，谷歌员工近期一直在测试代号为“Carbon”的全新 Gemini 4 版本。该模型很可能是 Argon 架构下的新检查点（Checkpoint）更新，并已于近日接入谷歌内部代码平台 Jetski。 一名员工透露，Carbon 在代码能力上的表现“堪比 Opus 5.5”—— 后者是 Anthropic 旗下针对复杂代码智能体长期任务打造的最强模型。不过该",
-     "source": "IT之家",
-     "zh": "谷歌 Gemini 4“Argon”模型即将发布，消息称内部测试“Carbon”新版本"
-    },
-    {
      "title": "Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M (Chris Metinko/Axios)",
      "link": "https://www.techmeme.com/261009/p28#a261009p28",
      "pubDate": "Fri, 09 Oct 2026 18:30:00 -0400",
@@ -1791,14 +1799,6 @@
      "summary": "Bob Van Voris / Bloomberg : A man US authorities called a &ldquo;fixer&rdquo;, who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty &nbsp; &mdash;&nbsp; A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan &ldquo;",
      "source": "Techmeme",
      "zh": "A man US authorities called a \"fixer\", who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty (Bob Van Voris/Bloomberg)"
-    },
-    {
-     "title": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology",
-     "link": "https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology",
-     "pubDate": "Fri, 09 Oct 2026 22:14:03 +0000",
-     "summary": "Article URL: https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology Comments URL: https://news.ycombinator.com/item?id=50027252 Points: 30 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "In \"Musk,\" Alex Gibney Punctures Elon's Self-Mythology"
     },
     {
      "title": "多智能体时代的管理架构与思维",
@@ -1820,7 +1820,7 @@
      "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
      "link": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
      "pubDate": "Fri, 09 Oct 2026 22:05:53 +0000",
-     "summary": "Article URL: https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344 Comments URL: https://news.ycombinator.com/item?id=50027167 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344 Comments URL: https://news.ycombinator.com/item?id=50027167 Points: 12 # Comments: 3",
      "source": "Hacker News",
      "zh": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen"
     },
@@ -1828,7 +1828,7 @@
      "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
      "link": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
      "pubDate": "Fri, 09 Oct 2026 21:25:09 +0000",
-     "summary": "Article URL: https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/ Comments URL: https://news.ycombinator.com/item?id=50026734 Points: 15 # Comments: 2",
+     "summary": "Article URL: https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/ Comments URL: https://news.ycombinator.com/item?id=50026734 Points: 19 # Comments: 2",
      "source": "Hacker News",
      "zh": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof"
     },
@@ -1852,7 +1852,7 @@
      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
      "pubDate": "Fri, 09 Oct 2026 21:06:59 +0000",
-     "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 300 # Comments: 151",
+     "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 310 # Comments: 160",
      "source": "Hacker News",
      "zh": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops"
     },
@@ -1876,7 +1876,7 @@
      "title": "No Man Is an Island",
      "link": "https://borretti.me/article/no-man-is-an-island",
      "pubDate": "Fri, 09 Oct 2026 20:04:00 +0000",
-     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 226 # Comments: 128",
+     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 235 # Comments: 132",
      "source": "Hacker News",
      "zh": "No Man Is an Island"
     },
@@ -1940,9 +1940,17 @@
      "title": "You might want to try being less creative",
      "link": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
      "pubDate": "Fri, 09 Oct 2026 18:39:47 +0000",
-     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 59 # Comments: 27",
+     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 60 # Comments: 29",
      "source": "Hacker News",
      "zh": "You might want to try being less creative"
+    },
+    {
+     "title": "Microsoft-Decision-1, our model for fast decision-making",
+     "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+     "pubDate": "Fri, 09 Oct 2026 18:38:44 +0000",
+     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 117 # Comments: 43",
+     "source": "Hacker News",
+     "zh": "Microsoft-Decision-1, our model for fast decision-making"
     },
     {
      "title": "Your artwork could be featured in the next Debian release",
@@ -1951,14 +1959,6 @@
      "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
      "source": "Ars Technica",
      "zh": "Your artwork could be featured in the next Debian release"
-    },
-    {
-     "title": "NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public",
-     "link": "https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/",
-     "pubDate": "Fri, 09 Oct 2026 18:30:00 +0000",
-     "summary": "The data drop includes photographs, audio, video, and astronauts’ notes that will be used to study the moon and prepare for future human missions.",
-     "source": "WIRED",
-     "zh": "NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public"
     }
    ]
   },
@@ -2217,12 +2217,44 @@
    "total": 13,
    "items": [
     {
+     "title": "美国民主党舒默、沙欣、沃伦抨击特朗普与俄罗斯达成的柴油交易",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891650290.html",
+     "pubDate": "Sat, 10 Oct 2026 07:18:04 +0800",
+     "summary": "美国民主党舒默、沙欣、沃伦抨击特朗普与俄罗斯达成的柴油交易。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国民主党舒默、沙欣、沃伦抨击特朗普与俄罗斯达成的柴油交易"
+    },
+    {
+     "title": "智利发布海啸预警 称或影响复活节岛",
+     "link": "http://finance.eastmoney.com/news/11790,202610103891649485.html",
+     "pubDate": "Sat, 10 Oct 2026 07:15:44 +0800",
+     "summary": "智利海军水文和海洋局海啸预警部门10月9日发布公告说，当天巴拿马地震可能引发海啸并影响智利复活节岛。公告显示，海啸预计将于智利当地时间9日22时41分抵达复活节岛，其影响可能长达数小时。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "智利发布海啸预警 称或影响复活节岛"
+    },
+    {
+     "title": "巴西参议院议长将缩短每周工作时间的投票安排在10月14日",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891649313.html",
+     "pubDate": "Sat, 10 Oct 2026 07:15:03 +0800",
+     "summary": "巴西参议院议长将缩短每周工作时间的投票安排在10月14日。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "巴西参议院议长将缩短每周工作时间的投票安排在10月14日"
+    },
+    {
      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 23:15:00 GMT",
      "summary": "“Both properties will be solely in his name.”",
      "source": "MarketWatch",
      "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
+    },
+    {
+     "title": "多国人士：日本谋求核潜艇 威胁亚太地区和平稳定",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891649265.html",
+     "pubDate": "Sat, 10 Oct 2026 07:14:33 +0800",
+     "summary": "据日本方面7日消息，日本政府年内修订“安保三文件”，考虑加入“探讨自卫队引进核动力潜艇”相关内容。据悉，如果在“安保三文件”中写明“探讨拥有核潜艇”，将为政府启动相关调查研究创造条件，而后日本政府将就是否拥有核潜艇作出决定。对此，多国人士表示，日本谋求核潜艇，威胁亚太地区和平稳定。 泰国国家研究院泰中战略研究中心副主任唐隆功·吴森提兰谷：日本政府正在考虑修订“安保三文件”，并将核动力潜艇作为强化所谓“威慑能力”的选项之一，这一动向值得国际社会，特别是亚洲国家高度警惕。这已经不仅仅是增加一种军事装备的问题，而是反映出日本近年来不断扩大军事力量，突破战后和平体制的趋势。 马来西亚前 教育 部副部长",
+     "source": "东方财富股票",
+     "zh": "多国人士：日本谋求核潜艇 威胁亚太地区和平稳定"
     },
     {
      "title": "孩子被动物咬伤要不要打狂犬病疫苗",
@@ -2249,20 +2281,20 @@
      "zh": "埃塞航空宣布恢复飞往该国提格雷州首府的航班"
     },
     {
-     "title": "美国宣布对国际刑事法院实施制裁",
-     "link": "http://global.eastmoney.com/news/1959,202610103891648579.html",
-     "pubDate": "Sat, 10 Oct 2026 07:08:52 +0800",
-     "summary": "新华财经华盛顿10月9日电（记者黄强徐剑梅）美国国务卿鲁比奥9日发表声明，宣布对国际刑事法院实施制裁。 鲁比奥在声明中称，“美国总统特朗普绝不允许国际刑事法院起诉美国人”，美方将禁止与该法院进行交易，“切断其资源，并使其运作能力陷入瘫痪”。鲁比奥还称，美国不受国际刑事法院的管辖，美方“决心采取必要行动，彻底消除这一威胁。要么国际刑事法院停止其威胁行径，要么我们将终结该法院”。 美国国务院新闻发言人办公室当天发表声明称，截至目前，美国已对国际刑事法院17名相关人员实施制裁。 7月13日，美国国务院宣布发起一项由多个政府部门参与的行动，以“系统性削弱国际刑事法院运作能力”，使其无法对美国军人或政府",
+     "title": "中概股普遍上涨 纳斯达克中国金龙指数涨2.69%",
+     "link": "http://hk.eastmoney.com/news/11792,202610103891649092.html",
+     "pubDate": "Sat, 10 Oct 2026 07:10:56 +0800",
+     "summary": "当地时间10月9日，中概股普遍上涨， 纳斯达克 中国金龙指数涨2.69%， 世纪互联 涨近7%， 金山云 、 理想汽车 、 阿里巴巴 、 蔚来 、 腾讯音乐 涨超5%， 亚朵 涨超4%。 （文章来源：每日经济新闻）",
      "source": "东方财富股票",
-     "zh": "美国宣布对国际刑事法院实施制裁"
+     "zh": "中概股普遍上涨 纳斯达克中国金龙指数涨2.69%"
     },
     {
-     "title": "Anthropic“欺诈性”使用政府系统促使白宫出台AI报告强制令",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891647228.html",
-     "pubDate": "Sat, 10 Oct 2026 07:06:22 +0800",
-     "summary": "特朗普政府官员表示，在Anthropic“欺诈性”使用政府系统后，政府现已强制要求AI公司通报并纠正安全事件。白宫“超级智能部队”领导人在声明中表示：“这一通报和补救流程不是可选项。这是一项关键的国家安全义务。” 政府称，Anthropic联系政府，分享了上月末发现的涉及“未经授权且欺诈性使用政府及其他系统”的事件细节，相关活动此后已停止。白宫的要求适用于所有AI公司。 “超级智能部队”称：“SI公司必须立即披露涉及其模型的事件，并迅速采取果断行动，补救任何及所有损害。” （文章来源：新浪财经快讯）",
+     "title": "美放松俄柴油贸易制裁 特朗普称俄将对美供油",
+     "link": "http://finance.eastmoney.com/news/1356,202610103891648714.html",
+     "pubDate": "Sat, 10 Oct 2026 07:10:12 +0800",
+     "summary": "美国财政部外国资产控制办公室9日发布公告说，在未来几个月放松针对俄罗斯柴油贸易的制裁，以缓解美国内柴油供应紧张、平抑油价。同日，美国总统特朗普宣布，美俄领导人就俄向美国及全球市场提供柴油达成一致。 根据公告，外国资产控制办公室当天发布许可，授权与俄柴油相关的销售、交付、卸货或进口。这一授权将持续至美东时间2027年4月7日零时。 当天下午，特朗普在社交媒体上宣布，他刚与俄罗斯总统普京完成相关讨论，双方同意俄立即向美及全球市场提供超过30万吨柴油，在11月份再提供50万吨。此后，俄方还将向市场提供100万吨柴油。另外，俄方将根据其炼油厂状况在短期交付300万桶柴油。 特朗普称，凭借美国“完全控制",
      "source": "东方财富股票",
-     "zh": "Anthropic“欺诈性”使用政府系统促使白宫出台AI报告强制令"
+     "zh": "美放松俄柴油贸易制裁 特朗普称俄将对美供油"
     },
     {
      "title": "AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”",
@@ -2273,14 +2305,6 @@
      "zh": "AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”"
     },
     {
-     "title": "10月10日隔夜要闻一览",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891647449.html",
-     "pubDate": "Sat, 10 Oct 2026 07:05:09 +0800",
-     "summary": "1、美国总统特朗普被媒体问到他为何不现在对伊朗采取军事行动、而要等到中期选举之后时说，“我们可能会的”。 2、中国地震台网正式测定：10月10日01时56分在巴拿马（北纬7.50度，西经80.65度）发生7.6级地震，震源深度10千米。 3、谷歌员工正在测试新版Gemini 4，代号“Carbon”。 4、费城警察局周五发布声明称，Anthropic的AI系统向费城警方提交了虚假凶杀线索。 5、美国总统特朗普：我刚刚与俄罗斯总统普京结束了一场非常成功的会谈。双方同意，俄罗斯将立即向美国及全球市场供应超过30万吨柴油，11月再供应50万吨，随后立即追加供应100万吨。 6、美国财政部表示，将“立",
-     "source": "东方财富股票",
-     "zh": "10月10日隔夜要闻一览"
-    },
-    {
      "title": "美国农业部意外上调玉米产量预估，玉米期货盘中暴跌6%创三年最大跌幅",
      "link": "https://wallstreetcn.com/articles/3783302",
      "pubDate": "Sat, 10 Oct 2026 07:02:09 +0800",
@@ -2289,36 +2313,12 @@
      "zh": "美国农业部意外上调玉米产量预估，玉米期货盘中暴跌6%创三年最大跌幅"
     },
     {
-     "title": "人工智能“进厂” 质量为本“铸基”——广东先进制造这样干",
-     "link": "http://finance.eastmoney.com/news/1355,202610103891647114.html",
-     "pubDate": "Sat, 10 Oct 2026 07:02:00 +0800",
-     "summary": "南方财经10月9日电，10月9日，全省先进制造业大会在广州召开。制造业是广东的立省之本， 人工智能 加速“进厂”，正在成为广东制造的新标签。“以质量为本”的长期主义，也是先进制造的生命线。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "人工智能“进厂” 质量为本“铸基”——广东先进制造这样干"
-    },
-    {
-     "title": "9月我国汽车消费指数为83.2；福田汽车与卓驭科技签署战略合作协议丨汽车早参",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891647077.html",
-     "pubDate": "Sat, 10 Oct 2026 07:02:00 +0800",
-     "summary": "丨 2026年10月10日星期六丨 NO.1 小马智行 将在伦敦启动Robotaxi道路测试 10月8日， 小马智行 与出行平台 优步 宣布将把旗下第七代Robotaxi引入英国伦敦，并预计于未来数周内开启道路测试。今年8月，双方已宣布扩大合作，计划在欧洲5座城市部署超过2000辆Robotaxi。在萨格勒布已有业务基础上，双方计划进一步拓展其他城市。 点评： 小马智行 与 优步 拟将第七代Robotaxi引入伦敦，未来数周开启路测，此前计划欧洲五城部署超2000辆。对小马智行来说，欧洲路测推进有助验证技术与运营模型，资金或重估其全球化落地节奏；Robotaxi、出行平台及 激光雷达 链关注度",
-     "source": "东方财富股票",
-     "zh": "9月我国汽车消费指数为83.2；福田汽车与卓驭科技签署战略合作协议丨汽车早参"
-    },
-    {
      "title": "华尔街见闻早餐FM-Radio | 2026年10月10日",
      "link": "https://wallstreetcn.com/articles/3783293",
      "pubDate": "Sat, 10 Oct 2026 07:01:32 +0800",
-     "summary": "华见早安之声 要闻精选 中欧贸易投资磋商 在京举行并公布成果共识： 就混动汽车贸易达成谅解 ，进一步强化出口管制对话， 愿为稀土永磁体出口审批提供便利 。 中国商务部 评美召集部分经济体发布应对所谓“结构性产能和生产过剩”问题联合声明： 反对个别国家以所谓“产能过剩”为名，行贸易保护主义之实 。 中共中央、国务院 发文提出 发展新质生产力 举措 ， 支持科技企业上市融资 、 优化并购重组 、 民企可牵头重大技术攻关 。 中国证监会 大修公募基金运作管理办法： 权益类基金成立门槛 拟 降 至5000万元，建立 迷你基金强制退出 机制，基金管理人等主体 违法罚款上限抬升 至10万元。 中国财政部 ",
+     "summary": "华见早安之声 要闻精选 中欧贸易投资磋商 在京举行并公布成果共识： 就混动汽车贸易达成谅解 ，进一步强化出口管制对话， 愿为稀土永磁体出口审批提供便利 。 中国商务部 评美召集部分经济体发布应对所谓“结构性产能和生产过剩”问题联合声明： 反对个别国家以所谓“产能过剩”为名 ， 行贸易保护主义之实 。 中共中央、国务院 发文提出 发展新质生产力 举措， 支持科技企业上市融资 、 优化并购重组 、 民企可牵头重大技术攻关 。 中国证监会 大修公募基金运作管理办法： 权益类基金成立门槛 拟 降 至5000万元，建立 迷你基金强制退出 机制，基金管理人等主体 违法罚款上限抬升 至10万元。 中国财政部",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年10月10日"
-    },
-    {
-     "title": "俄美总统通话：俄将向美及全球市场供应石油和石油产品",
-     "link": "http://finance.eastmoney.com/news/1356,202610103891647669.html",
-     "pubDate": "Sat, 10 Oct 2026 06:58:39 +0800",
-     "summary": "中新社莫斯科10月9日电俄罗斯总统普京9日与美国总统特朗普通话，双方重点探讨了解决乌克兰危机的前景，并就伊朗局势及双边关系的各方面问题交换了意见。 克里姆林宫在普京与特朗普通话后发表声明表示，双方在讨论全球能源形势时，俄方确认，准备向美国及全球市场供应石油和石油产品。普京表示，相信此举将对全球经济产生积极影响。 双方商定将继续保持两国元首层面的个人联系，同时保持两国总统行政部门、情报部门及其他机构之间的合作。 负责对外投资和经济合作的俄罗斯总统特别代表德米特里耶夫在俄美总统通话后在社交媒体发文表示，俄美两国将继续开展能源和经济合作，并将惠及全球市场。(完) （文章来源：中国新闻网）",
-     "source": "东方财富股票",
-     "zh": "俄美总统通话：俄将向美及全球市场供应石油和石油产品"
     },
     {
      "title": "How to provide guaranteed retirement income while paying no commissions",

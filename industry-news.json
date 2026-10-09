@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/9 21:31:57",
+ "generated_at": "2026/10/9 21:42:28",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "The Single-Chip PC",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
+     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The Single-Chip PC"
+    },
+    {
      "title": "CASPA CEO Summit and Why it Matters",
      "link": "https://semiwiki.com/events/374362-caspa-ceo-summit-and-why-it-matters/",
      "pubDate": "Fri, 09 Oct 2026 13:00:18 +0000",
@@ -271,6 +279,38 @@
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
+    },
+    {
+     "title": "Failure analysis in the era of 3D integration",
+     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
+     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Failure analysis in the era of 3D integration"
+    },
+    {
+     "title": "Defence satcom revenues to surpass $23bn by 2035",
+     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 10:24:04 +0000",
+     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "Defence satcom revenues to surpass $23bn by 2035"
+    },
+    {
+     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
+     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
+     "source": "Electronics Weekly",
+     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
+    },
+    {
+     "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:04:25 +0000",
+     "summary": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Robotaxi growth, Arm Qualcomm battle"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -311,6 +351,14 @@
      "summary": "$2B foundry pact; hyper-NA EUV; TSMC, Samsung financials; Canon readies nanoimprint; AI chips under scrutiny; $10T data center buildout; $1.5B SiC boost; chip smuggling; 800V power gains traction; quantum HW scales up; wireless EV road charging; sub-nm gate dielectrics; mobile fab. The post Chip Ind",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "Qualcomm vs Arm (Day 4)",
+     "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-4-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 05:17:49 +0000",
+     "summary": "Today, the Arm vs Qualcomm legal case in Delaware concludes and the judge and jury should give their rulings. Yesterday, Day 4 of the case, started with testimony from Manju […] The post Qualcomm vs Arm (Day 4) appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Qualcomm vs Arm (Day 4)"
     },
     {
      "title": "MediaTek 3Q26 revenue beats forecast, maintains peak-season momentum",
@@ -447,54 +495,6 @@
      "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
-    },
-    {
-     "title": "Shift Left Complicates Fab Data Management",
-     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
-     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Shift Left Complicates Fab Data Management"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
-    },
-    {
-     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
-     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
-     "source": "Semiconductor Today",
-     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
-    },
-    {
-     "title": "From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs",
-     "link": "https://semiwiki.com/artificial-intelligence/374386-from-blueprint-to-production-how-rambus-brings-commercial-grade-caliptra-security-to-ai-socs/",
-     "pubDate": "Wed, 07 Oct 2026 17:00:03 +0000",
-     "summary": "Semiconductor designers today face a critical hurdle: how to smoothly transition from an open-source hardware blueprint to a commercially hardened, production-ready silicon implementation. As semiconductors play an increasingly essential role in powering the AI era, safeguarding these hardware found",
-     "source": "SemiWiki",
-     "zh": "From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs"
-    },
-    {
-     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
-     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
-    },
-    {
-     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
-     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
-     "source": "Semiconductor Today",
-     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -857,6 +857,22 @@
    "total": 9,
    "items": [
     {
+     "title": "India’s MNRE issues 12th solar cell ALMM revision, capacity reaches 37.8GW",
+     "link": "https://www.pv-tech.org/indias-mnre-issues-12th-solar-cell-almm-revision-capacity-reaches-37-8gw/",
+     "pubDate": "Fri, 09 Oct 2026 13:33:34 +0000",
+     "summary": "India’s MNRE issued the 12th revision of its Approved List of Models and Manufacturers (ALMM) List-II for solar PV cells on 8 October 2026.",
+     "source": "PV Tech",
+     "zh": "India’s MNRE issues 12th solar cell ALMM revision, capacity reaches 37.8GW"
+    },
+    {
+     "title": "Petronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Petronas-to-Raise-Malaysia-Dividend-19-to-78-Billion-for-2027.html",
+     "pubDate": "Fri, 09 Oct 2026 08:30:00 -0500",
+     "summary": "State-owned energy giant Petronas will boost the dividend it owes the Malaysian government by 19% in 2027 as oil prices soar and raise profits at the company. Malaysia’s Ministry of Finance estimated in its 2027 budget unveiled on Friday that government revenue is estimated to rise 4.7% next year. A",
+     "source": "OilPrice",
+     "zh": "Petronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027"
+    },
+    {
      "title": "Institutional equity funds community solar projects for Pivot Energy and Generate Capital",
      "link": "https://www.pv-tech.org/institutional-equity-funds-community-solar-projects-for-pivot-energy-and-generate-capital/",
      "pubDate": "Fri, 09 Oct 2026 13:27:05 +0000",
@@ -1033,28 +1049,12 @@
      "zh": "Heat pumps have so far withstood the death of federal tax credits"
     },
     {
-     "title": "China Restarts Fuel Exports",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Restarts-Fuel-Exports.html",
-     "pubDate": "Fri, 09 Oct 2026 02:00:00 -0500",
-     "summary": "China has decided to restart exports of fuels, after a one-week suspension. This should bring some relief to fuel markets, and especially diesel markets, where prices are running at record highs, not least because of the fuel export suspension news out of China last week. The information comes from ",
-     "source": "OilPrice",
-     "zh": "China Restarts Fuel Exports"
-    },
-    {
      "title": "South Korea unveils US$475 billion Green Transformation industrial strategy",
      "link": "https://www.energy-storage.news/south-korea-unveils-us475-billion-green-transformation-industrial-strategy/",
      "pubDate": "Fri, 09 Oct 2026 04:08:12 +0000",
      "summary": "South Korea’s Ministry of Climate, Energy and Environment (MCEE) has unveiled its KRW1,000 trillion (US$747 billion) Korean Green Transformation (K-GX) industrial strategy.",
      "source": "Energy Storage News",
      "zh": "South Korea unveils US$475 billion Green Transformation industrial strategy"
-    },
-    {
-     "title": "LGI to buy 42MW of operational solar PV plants in Australia and lifts pipeline target to 120MW",
-     "link": "https://www.pv-tech.org/lgi-to-buy-42mw-of-operational-solar-pv-plants-in-australia-and-lifts-pipeline-target-to-120mw/",
-     "pubDate": "Fri, 09 Oct 2026 00:20:25 +0000",
-     "summary": "LGI, an Australian landfill gas and renewables company, has agreed to buy two operating solar PV power plants in Queensland.",
-     "source": "PV Tech",
-     "zh": "LGI to buy 42MW of operational solar PV plants in Australia and lifts pipeline target to 120MW"
     },
     {
      "title": "Constellation and Google go in on nuclear uprates to unlock clean power",
@@ -1705,6 +1705,38 @@
    "total": 18,
    "items": [
     {
+     "title": "吉利汽车集团旗下吉利品牌宣布正式进入加拿大市场，已在当地全面推进零售与服务网络建设",
+     "link": "https://www.ithome.com/1/011/132.htm",
+     "pubDate": "Fri, 09 Oct 2026 13:38:06 GMT",
+     "summary": "IT之家 10 月 9 日消息，当地时间 10 月 9 日，吉利汽车集团旗下全球主流品牌吉利汽车（Geely Auto）宣布正式进入加拿大市场。 目前， 吉利汽车已在当地启动运营，并全面推进零售与服务网络建设 ，为 2027 年向加拿大消费者推出首批车型做准备。 IT之家注意到，2026 年 1-9 月，吉利汽车累计销量突破 223.5 万辆，创同期历史新高，其中 1-9 月海外出口累计销量超 79.7 万辆，同比增长 169%；9 月海外出口销量超 10.6 万辆，同比增长 162%，已连续 4 个月月销超 10 万辆，同时 9 月新能源海外出口销量超 7.3 万辆，同比增长 403%。 吉",
+     "source": "IT之家",
+     "zh": "吉利汽车集团旗下吉利品牌宣布正式进入加拿大市场，已在当地全面推进零售与服务网络建设"
+    },
+    {
+     "title": "Manus，没能逃出巨头的游戏",
+     "link": "https://www.huxiu.com/article/4896273.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 21:36:13 +0800",
+     "summary": "本文来自微信公众号： 版面之外 ，作者：画画 Manus拿到了一大笔钱。 10月8日，Manus母公司蝴蝶效应宣布完成新一轮融资，金额超过5亿美元，博裕投资、IDG资本领投，腾讯、红杉中国、真格基金等老股东继续加持。据彭博社报道，本轮融资对应估值约40亿美元，较Meta收购时的估值翻了一倍。 按ARR上限5亿美元计算，市销率约为8倍，对于一个仍在高速增长期的AI Agent公司，这个倍数并未脱离合理区间。 就在前不久，Manus刚刚发布2.0版本。如今，在经历了被Meta收购、交易被要求撤销、恢复独立运营的一连串波折后，这家公司终于重新站回了自己的起点。 但市场已经变了。 腾讯、阿里、Meta",
+     "source": "虎嗅",
+     "zh": "Manus，没能逃出巨头的游戏"
+    },
+    {
+     "title": "战魔田默｜黄金周之后，一座城市如何撑起全年的文旅生意？",
+     "link": "https://www.huxiu.com/article/4896272.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 21:32:08 +0800",
+     "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜黄金周之后，一座城市如何撑起全年的文旅生意？》 游客可以在假期结束后离开，城市却不能把酒店、场馆和商业街一起收起来。 国庆收官，最拥挤的几天过去了。接下来的工作日，谁来使用新建的设施，谁来观看持续排演的节目，谁来支撑留下来的商户与从业者，关系到这场热闹能否长成一门持久的生意。 旅游需求可以集中爆发，供给却往往需要长期存在。一间客房今天没有售出，无法存到下一个黄金周再卖；一座场馆闲置时，维护工作不会消失；一支专业团队如果长期没有业务，也很难一直等在原地。 其中还有一层更深的矛盾。建筑可以确定竣工日期，稳定的观众群却不能按照工",
+     "source": "虎嗅",
+     "zh": "战魔田默｜黄金周之后，一座城市如何撑起全年的文旅生意？"
+    },
+    {
+     "title": "战魔田默｜国庆旅游收官，游客的钱流向了谁？",
+     "link": "https://www.huxiu.com/article/4896271.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 21:31:35 +0800",
+     "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜国庆旅游收官，游客的钱流向了谁？》 游客买了一张来你所在城市的车票，并不等于给你的生意下了订单。 国庆假期结束，各地陆续公布文旅成绩单。城市接待了多少游客、实现了多少旅游花费，勾勒出市场的总体规模。 经营者还要继续追问：谁让这些人决定出发，谁接到了他们的订单，又是谁在忙碌之后留下了利润？ 广东公布的初步测算显示，今年国庆假期接待游客6278.9万人次，实现旅游花费584.4亿元，日均分别同比增长10.1%和8.9%。日均接待游客人次与日均旅游花费均有增长，但增速并不相同。 这一差异不足以说明游客消费意愿下降，更不能直接推断",
+     "source": "虎嗅",
+     "zh": "战魔田默｜国庆旅游收官，游客的钱流向了谁？"
+    },
+    {
      "title": "Counterpoint：苹果全新 MacBook Pro 将推动 OLED 笔记本面板市场增长，预计今年市场出货量同比增长 50%",
      "link": "https://www.ithome.com/1/011/131.htm",
      "pubDate": "Fri, 09 Oct 2026 13:25:53 GMT",
@@ -1785,44 +1817,12 @@
      "zh": "Our $445M Series D"
     },
     {
-     "title": "今年双11的逻辑已经完全变了",
-     "link": "https://www.huxiu.com/article/4896264.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 21:12:45 +0800",
-     "summary": "本文来自微信公众号： 新眸 ，作者：周韵 大促规则在变少，平台承担的确定性却在变多。 新眸原创·作者|周韵 国庆刚过，做电商的人没等假期结束就忙了起来。 10月初，京东、天猫、抖音的双11招商规则已经挂在商家后台，节奏、满减、价保一条条列着。和往年不太一样，今年后台里少了样熟悉的东西，跨店满减。 过去几年，“满300减50”，“满200减20”这类优惠券几乎是大促的必点菜。消费者要做的，是在十几个购物车里来回凑数，为了几十块优惠，顺手买下原本不在清单上的东西。 平台需要这种被制造出来的参与感，商家也习惯了在满减门槛上排兵布阵。到了今年，这套机制在几家头部平台的规则里同时消失，换成统一的“官方立",
-     "source": "虎嗅",
-     "zh": "今年双11的逻辑已经完全变了"
-    },
-    {
-     "title": "OpenAI ARR大幅低于预期，这个事情有多重要？",
-     "link": "https://www.huxiu.com/article/4896266.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 21:11:11 +0800",
-     "summary": "本文来自微信公众号： 互联网怪盗团 ，作者：怪盗团团长裴培 OpenAI的ARR（年化收入）大幅低于预期，这件事情震动了全球。如果你此前不知道，那么在各国算力产业链公司一波暴跌之后，你肯定知道了。我们先看看到底发生了什么： 10月8日，英国金融时报报道，OpenAI截止9月底的ARR约为500亿美元，大幅低于市场预期的680-700亿美元。这个信息过于骇人听闻，以至于几乎无人关注那篇报道剩余的部分，例如OpenAI正在寻求以1.4万亿美元估值进行下一轮私募融资（也就是说今年不上市了）。 问题在于，“市场预期”到底是从哪里来的？显然不是来源于OpenAI的业绩指引，因为它根本还没上市，谈不上业绩",
-     "source": "虎嗅",
-     "zh": "OpenAI ARR大幅低于预期，这个事情有多重要？"
-    },
-    {
      "title": "控股股东提议换届、董事长带头反对，硕世生物“钱权分离”架构下控制权纷争再升级",
      "link": "https://www.tmtpost.com/8157820.html",
      "pubDate": "Fri, 09 Oct 2026 21:09:49 +0800",
      "summary": "围绕印章效力、控股股东主体存续风险、上市公司治理稳定性等多重争议，一场关乎董事会席位的博弈持续发酵。",
      "source": "钛媒体",
      "zh": "控股股东提议换届、董事长带头反对，硕世生物“钱权分离”架构下控制权纷争再升级"
-    },
-    {
-     "title": "三大巨变，旅游城市，重新洗牌了",
-     "link": "https://www.huxiu.com/article/4896265.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 21:09:09 +0800",
-     "summary": "本文来自微信公众号： 西部城事 ，作者：西部菌，原文标题：《三大巨变！旅游城市，重新洗牌了》 据交通运输部数据，刚刚过去的国庆假期，全社会跨区域人员流动量达21.42亿人次，比2025年中秋国庆假期日均水平增长0.6%。 游客总量微增之下，结构却在发生越来越大的变化。 人流去了哪里、谁在接住流量、靠什么留住消费，答案都在被重新书写。 三大巨变浮现，旅游城市，正在迎来大洗牌。 01 变化之一，小城在文旅版图上加速崛起。 很多人应该也发现了，越来越多此前少有人知的小城，开始出现在人们的出游清单中，甚至登上出游热度榜单的C位。 “国庆景区热度前10被小城包揽”的话题，就一度登上热搜。 典型如青海祁连",
-     "source": "虎嗅",
-     "zh": "三大巨变，旅游城市，重新洗牌了"
-    },
-    {
-     "title": "网易《逆水寒：新世界》年度级预告片公布，4.2 全新大赛季“月岭瑶歌”官宣",
-     "link": "https://www.ithome.com/1/011/124.htm",
-     "pubDate": "Fri, 09 Oct 2026 13:05:59 GMT",
-     "summary": "IT之家 10 月 9 日消息，网易《逆水寒：新世界》 年度级预告片 今日正式公布： 旧日雁门复现，您将直面自己、申王、屈靖交织的宿命。而二十年后，此夜的雨幕下，悲剧的轮回不必重演，新的一页即将翻开 —— 您承袭了申王的剑，而您写下的，已是他未能实现的、崭新的故事。 ▲ 男侠视角 ▲ 女侠视角 自 6 月 26 日新世界开启后，剧情的走向不仅向“未来”的旅途推演，更大步往“过去”回溯。《逆水寒：新世界》首度公开了二十年前的风波， 以及那位玩家“未曾谋面、却无比熟悉”的故人 —— 申王 。“我”究竟是谁？盛家庄血案因何而起？宿命的起点，终于在此缓缓掀开面纱。 旧日雁门复现，玩家将直面自己、申王、",
-     "source": "IT之家",
-     "zh": "网易《逆水寒：新世界》年度级预告片公布，4.2 全新大赛季“月岭瑶歌”官宣"
     },
     {
      "title": "Deno Is Joining Cloudflare",
@@ -1953,6 +1953,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Google Chat may soon get an HDR upgrade… for emoji?",
+     "link": "https://www.androidauthority.com/google-chat-hdr-emoji-support-apk-teardown-3721301/",
+     "pubDate": "Fri, 09 Oct 2026 13:31:02 +0000",
+     "summary": "A hidden setting points to brighter, higher-contrast emoji on supported displays.",
+     "source": "Android Authority",
+     "zh": "Google Chat may soon get an HDR upgrade… for emoji?"
+    },
+    {
      "title": "Your PS5 can now emulate PS2 games at up to 120 FPS, strings attached",
      "link": "https://www.androidauthority.com/ps5sx2-emulator-v2-update-ps5-3721322/",
      "pubDate": "Fri, 09 Oct 2026 13:15:51 +0000",
@@ -1980,7 +1988,7 @@
      "title": "Report: Apple cuts iPhone 18 Pro production due to ‘soft demand’",
      "link": "https://9to5mac.com/2026/10/09/report-apple-cuts-iphone-18-pro-production-due-to-soft-demand/",
      "pubDate": "Fri, 09 Oct 2026 12:37:23 +0000",
-     "summary": "Apple has reportedly cut orders for the iPhone 18 Pro and iPhone 18 Pro Max due to “soft demand.” A new report from Nikkei Asia says Apple has told select suppliers to cut component production for the device, as price increases allegedly “dampened consumer demand.” more…",
+     "summary": "Apple has reportedly cut orders for the iPhone 18 Pro and iPhone 18 Pro Max due to “soft demand.” A new report from Nikkei Asia says Apple has told select suppliers to cut component production for the devices, as price increases allegedly “dampened consumer demand.” more…",
      "source": "9to5Mac",
      "zh": "Report: Apple cuts iPhone 18 Pro production due to ‘soft demand’"
     },
@@ -2055,14 +2063,6 @@
      "summary": "📅本周新预告《寒夜怪谈》新预告10月1日，电影《寒夜怪谈》发布了新预告，将于11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ... 查看全文",
      "source": "少数派",
      "zh": "本周看什么 | 最近值得一看的 11 部作品"
-    },
-    {
-     "title": "Is DuckDuckGo AI actually a good alternative to Gemini and ChatGPT? I found out",
-     "link": "https://www.androidauthority.com/duckduckgo-ai-hands-on-gemini-chatgpt-alternative-3715856/",
-     "pubDate": "Fri, 09 Oct 2026 10:00:26 +0000",
-     "summary": "Can AI truly be private?",
-     "source": "Android Authority",
-     "zh": "Is DuckDuckGo AI actually a good alternative to Gemini and ChatGPT? I found out"
     },
     {
      "title": "OnePlus 16 display specs confirmed",
@@ -2161,6 +2161,14 @@
      "zh": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等"
     },
     {
+     "title": "The Yashica Crew is a cheap, tiny compact “inspired by friend groups”",
+     "link": "https://www.dpreview.com/news/the-yashica-crew-is-a-cheap-tiny-compact-inspired-by-friend-groups/",
+     "pubDate": "Thu, 08 Oct 2026 23:15:21 +0000",
+     "summary": "The company says it's designed for group photos, but it may not be the best for that.",
+     "source": "DPReview",
+     "zh": "The Yashica Crew is a cheap, tiny compact “inspired by friend groups”"
+    },
+    {
      "title": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones",
      "link": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
      "pubDate": "Thu, 08 Oct 2026 23:08:18 +0000",
@@ -2183,14 +2191,6 @@
      "summary": "A new report alleges that Samsung is cutting way back on Galaxy smartphone production plans through the end of 2026, by as much as 30%. more…",
      "source": "9to5Google",
      "zh": "Galaxy phones reportedly ‘yield no profit at all’ when sold as Samsung cuts production"
-    },
-    {
-     "title": "Today’s Android app deals and freebies: Ace Attorney, Star Wars, Hacking Destiny, more",
-     "link": "https://9to5toys.com/2026/10/08/todays-highlight-google-play-deals-24/",
-     "pubDate": "Thu, 08 Oct 2026 18:34:25 +0000",
-     "summary": "Today’s best Google Play app and game deals are ready, including Ace Attorney: Dual Destinies, Apollo Justice Ace Attorney, Lia: Hacking Destiny, STAR WARS: KOTOR II, Star Wars: KOTOR, Fairy Knights -Story based RPG, Titan Quest: Legendary Edition, Slots & Daggers, and more. Just be sure to scope ou",
-     "source": "9to5Google",
-     "zh": "Today’s Android app deals and freebies: Ace Attorney, Star Wars, Hacking Destiny, more"
     }
    ]
   },
@@ -2200,6 +2200,102 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+     "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+     "pubDate": "Fri, 09 Oct 2026 13:38:10 GMT",
+     "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
+     "source": "CNBC",
+     "zh": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong"
+    },
+    {
+     "title": "AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周",
+     "link": "https://wallstreetcn.com/articles/3783254",
+     "pubDate": "Fri, 09 Oct 2026 21:37:18 +0800",
+     "summary": "周五，有关OpenAI营收的最新数据为市场提供喘息空间，此前因AI支出回报存疑引发的抛售压力有所缓解。铁矿石价格延续跌势，本周迎来连续第三周下跌；与此同时，美债长端收益率小幅回落，推动金银价格走高，现货黄金一度突破4200美元关口。 美股三大股指集体高开，道指涨0.05%，标普500指数涨0.27%，纳指涨0.54%。光通信股开盘普涨，Lumentum涨超6%，康宁涨近3%。存储板块走高，美光、闪迪、SK海力士均涨超1%。SpaceX上涨3.3%，此前该公司达成协议，将收购全国性低频段频谱组合。苹果下跌2.7%，报道称因需求疲软公司削减iPhone 18 Pro系列零部件产量。 现货黄金日内一",
+     "source": "华尔街见闻",
+     "zh": "AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周"
+    },
+    {
+     "title": "美股三大指数集体上涨 光通信板块走强",
+     "link": "http://finance.eastmoney.com/news/1345,202610093891490496.html",
+     "pubDate": "Fri, 09 Oct 2026 21:34:16 +0800",
+     "summary": "10月9日，美股三大指数集体上涨，截至发稿，道指涨0.20%，纳指涨0.56%，标普500指数涨0.38%。 光 通信 板块走强 ，截至发稿， Lumentum涨超8%，Coherent涨超5%。 全球要闻 特朗普：美国不会在中期选举之前攻击伊朗 据央视新闻报道，当地时间周四，美国总统特朗普表示，在11月3日中期选举前，美国不会对伊朗发动袭击。受此消息影响，国际油价短线走低。特朗普在其社交媒体平台Truth Social上发文称：“在中期选举之前的任何时候，我们都不会攻击伊朗。”他同时表示，美国正与伊朗进行“富有成效的讨论”。 伊朗敌对政策升级 警告将封锁“未授权”运输航线 据消息人士爆料，在",
+     "source": "东方财富股票",
+     "zh": "美股三大指数集体上涨 光通信板块走强"
+    },
+    {
+     "title": "Jack Henry & Associates upgraded to Buy equivalent at Piper Sandler on improved risk-reward",
+     "link": "https://seekingalpha.com/news/4651747-jack-henry-associates-upgraded-to-buy-equivalent-at-piper-sandler-on-improved-risk-reward?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 09:32:46 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Jack Henry & Associates upgraded to Buy equivalent at Piper Sandler on improved risk-reward"
+    },
+    {
+     "title": "费城半导体指数开盘上涨1.4%",
+     "link": "http://finance.eastmoney.com/news/11440,202610093891490972.html",
+     "pubDate": "Fri, 09 Oct 2026 21:32:20 +0800",
+     "summary": "费城 半导体 指数开盘上涨1.4%，现报12798.41点。",
+     "source": "东方财富股票",
+     "zh": "费城半导体指数开盘上涨1.4%"
+    },
+    {
+     "title": "MTY Food Group Inc. raises dividend by 35.1% to CAD 0.50",
+     "link": "https://seekingalpha.com/news/4651752-mty-food-group-inc-raises-dividend-by-351-to-cad-050?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 09:31:44 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "MTY Food Group Inc. raises dividend by 35.1% to CAD 0.50"
+    },
+    {
+     "title": "百亿牛股，紧急澄清后再度涨停，收获五连板",
+     "link": "http://finance.eastmoney.com/news/1354,202610093891491996.html",
+     "pubDate": "Fri, 09 Oct 2026 21:31:40 +0800",
+     "summary": "一纸异动公告仍挡不住资金追捧。 10月9日，在连续四个交易日涨停后， 九阳股份 收获第五个涨停板，公司股价收盘报15.13元/股，创三年来新高，最新市值115亿元。 图片来源：Wind 公司于10月8日晚披露股票交易异常波动公告，就市场关切的“华为/鸿蒙”“ 机器人 /AI”等热点概念逐一澄清。 九阳股份 表示，公司目前持有深思考 人工智能 机器人 科技（北京）有限公司（简称“深思考”）7.92%股权，该公司深耕类脑 人工智能 与多模态语义理解技术。与此同时， 九阳股份 澄清，截至10月8日，公司与华为不存在市场传闻所称的战略合作关系。公司与华为的关联主要系双方均持有深思考股权，其中华为旗下投",
+     "source": "东方财富股票",
+     "zh": "百亿牛股，紧急澄清后再度涨停，收获五连板"
+    },
+    {
+     "title": "*ST纳川收到证监会立案告知书 2023年年报涉嫌信息披露违法违规",
+     "link": "http://finance.eastmoney.com/news/1354,202610093891492024.html",
+     "pubDate": "Fri, 09 Oct 2026 21:31:12 +0800",
+     "summary": "10月9日， *ST纳川 （300198.SZ）对外发布公告称，公司收到证监会下发的立案告知书，因2023年年报涉嫌信息披露违法违规，证监会决定对公司立案。立案调查期间，公司将积极配合调查工作，并严格履行信息披露义务。（央广财经） （文章来源：央广财经）",
+     "source": "东方财富股票",
+     "zh": "*ST纳川收到证监会立案告知书 2023年年报涉嫌信息披露违法违规"
+    },
+    {
+     "title": "泽润新能拟收购合创智造至少51%股权 布局热管理赛道",
+     "link": "http://stock.eastmoney.com/news/11215,202610093891491788.html",
+     "pubDate": "Fri, 09 Oct 2026 21:31:12 +0800",
+     "summary": "10月9日， 泽润新能 （301636.SZ）发布公告称，公司董事会已审议通过相关议案，拟以现金形式收购东莞市合创智造科技有限公司不低于51%股权以取得其控制权，目前已与后者股东王强、东莞市创智展创业投资合伙企业（有限合伙）、李雄签署《合作框架协议》。据介绍，合创智造主要从事热管理散热组件的研发、生产和销售，可为算力中心、智能投影、AI 智能硬件、工业设备和PC产品等提供散热解决方案和服务。 泽润新能 表示，本次收购完成后，公司将获得热管理散热相关产品技术和工艺，与自身现有的精密制造、产品研发和业务拓展等资源整合，快速切入热管理行业，进一步拓展业务边界、提升盈利能力。（央广财经） （文章来源：",
+     "source": "东方财富股票",
+     "zh": "泽润新能拟收购合创智造至少51%股权 布局热管理赛道"
+    },
+    {
+     "title": "华维设计及相关责任人因信息披露违规 被江西证监局出具警示函",
+     "link": "http://stock.eastmoney.com/news/11215,202610093891491642.html",
+     "pubDate": "Fri, 09 Oct 2026 21:31:12 +0800",
+     "summary": "10月9日， 华维设计 （920427.BJ）发布公告称，公司于近日收到中国证券监督管理委员会江西监管局下发的《行政监管措施决定书——关于对 华维设计 集团股份有限公司、廖宜勤、侯昌星采取出具警示函措施的决定》（〔2026〕17号）。经查，公司2025年年度报告存在净利润数据、主要客户及供应商披露不准确的问题，涉及收购标的公司九江华维芯微 电子 有限公司的临时公告中，车间面积披露有误。上述行为违反了《上市公司信息披露管理办法》的相关规定，公司董事长廖宜勤、时任董事会秘书兼财务总监侯昌星未能忠实、勤勉地履行职责，对上述违规行为负有主要责任。根据相关规定，江西证监局决定对公司、廖宜勤、侯昌星采取出",
+     "source": "东方财富股票",
+     "zh": "华维设计及相关责任人因信息披露违规 被江西证监局出具警示函"
+    },
+    {
+     "title": "Networking startup Eliyan gets takeover interest, held early talks with Arm - report",
+     "link": "https://seekingalpha.com/news/4651748-networking-startup-eliyan-gets-takeover-interest-held-early-talks-with-arm-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 09:30:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Networking startup Eliyan gets takeover interest, held early talks with Arm - report"
+    },
+    {
+     "title": "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
+     "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 13:30:00 GMT",
+     "summary": "History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.",
+     "source": "MarketWatch",
+     "zh": "Aging bull: Why this 4-year-old stock-market rally still packs a punch"
+    },
     {
      "title": "AI leaders prepare for worst-case scenario: Axios",
      "link": "https://seekingalpha.com/news/4651745-ai-leaders-prepare-for-worst-case-scenario-axios?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2273,22 +2369,6 @@
      "zh": "Nobel Peace Prize awarded to human rights pioneer Navi Pillay"
     },
     {
-     "title": "Microchip Technology acquires VORAGO Technologies",
-     "link": "https://seekingalpha.com/news/4651743-microchip-technology-acquires-vorago-technologies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 09:08:43 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Microchip Technology acquires VORAGO Technologies"
-    },
-    {
-     "title": "Gorilla eyes 100 MW portfolio after first U.S. data center LOI",
-     "link": "https://seekingalpha.com/news/4651739-gorilla-eyes-100-mw-portfolio-after-first-us-data-center-loi?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 09:08:19 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gorilla eyes 100 MW portfolio after first U.S. data center LOI"
-    },
-    {
      "title": "Tech stocks&apos; resilience has puzzled investors. The options market could hold some clues",
      "link": "https://www.cnbc.com/2026/10/09/tech-stocks-resilience-has-puzzled-investors-the-options-market-could-hold-some-clues.html",
      "pubDate": "Fri, 09 Oct 2026 13:07:30 GMT",
@@ -2305,12 +2385,12 @@
      "zh": "美银Hartnett：中选将成年底最强市场催化剂，债市会终结泡沫，别加仓科技，等降息再进场！"
     },
     {
-     "title": "AI data center boom adds almost 20K U.S. payroll jobs a month, RenMac says",
-     "link": "https://seekingalpha.com/news/4651741-ai-data-center-boom-adds-almost-20k-us-payroll-jobs-a-month-renmac-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 09:06:39 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AI data center boom adds almost 20K U.S. payroll jobs a month, RenMac says"
+     "title": "10月9日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202610093891433311.html",
+     "pubDate": "Fri, 09 Oct 2026 21:00:00 +0800",
+     "summary": "热点聚焦 加快发展新质生产力 ： 为加快发展新质生产力，中共中央、国务院印发《关于发展新质生产力的意见》。意见部署19项重点举措，涉及大力推进科技创新、推动科技创新和产业创新深度融合、着力推进发展方式创新、扎实推进体制机制创新、深化人才工作机制创新5个方面。 意见提出， 全面实施“ 人工智能 +”行动。推进 人工智能 对传统产业的改造 ，加快推进智能网联 新能源 汽车 、 人工智能 手机和电脑、人形 机器人 等新一代智能终端场景应用。加快人工智能等数智技术创新，突破基础理论和核心技术，强化算力、算法、数据等高效供给。因地制宜、分业施策布局国家人工智能行业应用中试基地和高价值应用场景，大力推动人",
+     "source": "东方财富资讯",
+     "zh": "10月9日东方财富财经晚报（附新闻联播）"
     },
     {
      "title": "AI热潮推高美国旧金山房租 房东“逐客令”飙涨44%",
@@ -2327,6 +2407,14 @@
      "summary": "人工智能行业正在为一场可能改变监管格局的重大事故做准备。 据Axios最新报道， Anthropic、OpenAI等公司的高管正私下推演，如果AI引发严重现实伤害，美国社会和政界将如何反应。 这些推演重点关注大规模网络攻击等极端情景，包括金融服务、互联网连接乃至电力和供水系统中断。业内人士担忧，一旦发生由不安全AI导致的重大事故，原本就对这项技术持谨慎态度的公众可能进一步转向反对，AI企业及其高管也将面临更大的舆论压力。 报道称， 多名AI行业人士认为，未来6至12个月内可能发生重大事件。 企业高管因此开始提前与美国国会议员沟通，希望在危机真正发生后，影响美国政府制定的相关法律和政策。 AI公",
      "source": "华尔街见闻",
      "zh": "AI灾难将在一年内发生？Anthropic、OpenAI私下推演最坏情景"
+    },
+    {
+     "title": "10月9日晚间上市公司利好消息一览(附名单)",
+     "link": "http://finance.eastmoney.com/news/1353,202610093891444869.html",
+     "pubDate": "Fri, 09 Oct 2026 20:33:38 +0800",
+     "summary": "沪深两市多家上市公司10月9日晚间发布重要公告，以下为利好的消息汇总： 泽润新能 ：拟收购合创智造不低于51%的股权 泽润新能 (301636)10月9日公告，公司与东莞市合创智造科技有限公司（简称“合创智造”）及其股东王强、东莞市创智展创业投资合伙企业（有限合伙）、李雄签署了《合作框架协议》。公司拟以现金收购方式，取得合创智造不低于51%的股权，交易总对价初步不高于2.04亿元。本次交易完成后，合创智造将成为公司的控股子公司。本次交易若成功实施，公司可以快速切入散热领域。 航天工程 ：控股子公司航天氢能拟1.91亿元收购新乡气体45%股权 航天工程 (603698)10月9日公告，公司的控股",
+     "source": "东方财富资讯",
+     "zh": "10月9日晚间上市公司利好消息一览(附名单)"
     },
     {
      "title": "九号公司：截至9月30日公司累计回购存托凭证5711564份",
@@ -2351,94 +2439,6 @@
      "summary": "证券日报网讯10月9日，围海股份发布公告称，公司于近日收到《中标通知书》，公司已被确定为“苕溪防洪治理工程施工2标”的中标单位，项目中标金额为162,468,560.10元（具体合同金额以双方最终签订的合同为准）。“苕溪防洪治理工程施工2标”预中标金额占公司2025年经审计营业总收入的7.76%。若最终签订合同，将对公司未来期间的营业收入及净利润产生积极的影响。 （编辑 袁冠琳）",
      "source": "经济观察网",
      "zh": "围海股份：关于工程项目中标的公告"
-    },
-    {
-     "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-     "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-     "pubDate": "Fri, 09 Oct 2026 12:20:12 GMT",
-     "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
-     "source": "CNBC",
-     "zh": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong"
-    },
-    {
-     "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-     "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 12:16:00 GMT",
-     "summary": "“Both properties will be solely in his name.”",
-     "source": "MarketWatch",
-     "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
-    },
-    {
-     "title": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults",
-     "link": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 12:15:00 GMT",
-     "summary": "Rapid weight loss can lead to issues with bone quality.",
-     "source": "MarketWatch",
-     "zh": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults"
-    },
-    {
-     "title": "V观财报｜九号公司已回购2.2亿元股份",
-     "link": "http://www.eeo.com.cn/2026/1009/1058980.shtml",
-     "pubDate": "Fri, 09 Oct 2026 20:13:05 +0800",
-     "summary": "【V观财报｜九号公司已回购2.2亿元股份】九号公司10月9日公告，截至2026年9月30日，公司以集中竞价交易方式累计回购公司存托凭证571.16万份，已支付的总金额为2.20亿元(不含印花税、交易佣金等交易费用)。(中新经纬APP)",
-     "source": "经济观察网",
-     "zh": "V观财报｜九号公司已回购2.2亿元股份"
-    },
-    {
-     "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
-     "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 12:06:00 GMT",
-     "summary": "Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.",
-     "source": "MarketWatch",
-     "zh": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up."
-    },
-    {
-     "title": "期限溢价飙升，华尔街从美债的最新抛售中看到了不祥之兆",
-     "link": "https://wallstreetcn.com/articles/3783282",
-     "pubDate": "Fri, 09 Oct 2026 19:59:26 +0800",
-     "summary": "美国国债市场正释放一个令华尔街不安的信号：期限溢价快速攀升，成为此轮美债抛售的重要推手，也加剧了市场对长期利率持续高企的担忧。 10月9日，据彭博报道，近几周，投资者持有长期美债所要求的额外回报显著上升，推动10年期美债收益率升至24年来的高位。 纽约联储模型估算，10年期美债期限溢价已升至约0.98%，为2014年以来最高；另一项模型的估算值则达到1.08%，创2010年以来新高。 期限溢价反映了投资者承担长期持债风险所要求的额外补偿，涉及通胀、财政和地缘政治等不确定性。 即使未来降息预期升温，只要期限溢价维持高位，长期美债收益率也未必同步回落，政府融资和企业借贷成本可能继续承压。 此轮期限",
-     "source": "华尔街见闻",
-     "zh": "期限溢价飙升，华尔街从美债的最新抛售中看到了不祥之兆"
-    },
-    {
-     "title": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows &apos;firm&apos; response",
-     "link": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
-     "pubDate": "Fri, 09 Oct 2026 11:51:11 GMT",
-     "summary": "Two attacks were launched on Saudi Arabia's King Khalid International Airport Thursday, officials said.",
-     "source": "CNBC",
-     "zh": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows &apos;firm&apos; response"
-    },
-    {
-     "title": "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
-     "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 11:41:00 GMT",
-     "summary": "History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.",
-     "source": "MarketWatch",
-     "zh": "Aging bull: Why this 4-year-old stock-market rally still packs a punch"
-    },
-    {
-     "title": "EU and UK banks face 1 year deadline for T+1",
-     "link": "https://www.finextra.com/newsarticle/48564/eu-and-uk-banks-face-1-year-deadline-for-t1?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 09 Oct 2026 11:38:00 GMT",
-     "summary": "Banks in the EU and UK are under pressure to demonstrate their operational readiness for the upcoming move to next day settlement, with just one year to go before the deadline for T+1.",
-     "source": "Finextra",
-     "zh": "EU and UK banks face 1 year deadline for T+1"
-    },
-    {
-     "title": "Computer scientist David Silver: ‘Where are we going without AI?’",
-     "link": "https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 11:30:08 GMT",
-     "summary": "The architect of Google DeepMind’s AlphaGo on building machines that can teach themselves — and why he feels a moral obligation to advance the technology",
-     "source": "Financial Times",
-     "zh": "Computer scientist David Silver: ‘Where are we going without AI?’"
-    },
-    {
-     "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
-     "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 11:15:00 GMT",
-     "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
-     "source": "MarketWatch",
-     "zh": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?"
     }
    ]
   },

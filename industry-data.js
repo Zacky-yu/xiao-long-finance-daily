@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 01:12:03",
+ "generated_at": "2026/10/10 01:31:53",
  "recent_days": 7,
  "industries": [
   {
@@ -510,7 +510,7 @@ window.INDUSTRY_DATA = {
      "link": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
      "pubDate": "Fri, 09 Oct 2026 16:59:57 +0000",
      "summary": "The Robot Report spoke with Alberto Rodriguez, the director of robot behavior for Atlas at Boston Dynamics, about the humanoid's new hand. The post Boston Dynamics gives more insight into its redesigned humanoid hand appeared first on The Robot Report .",
-     "source": "The Robot Report",
+     "source": "Robotics Business Review",
      "zh": "Boston Dynamics gives more insight into its redesigned humanoid hand"
     },
     {
@@ -622,7 +622,7 @@ window.INDUSTRY_DATA = {
      "link": "https://www.therobotreport.com/terayne-robotics-elite-robots-settle-cobot-dispute/",
      "pubDate": "Wed, 07 Oct 2026 16:20:52 +0000",
      "summary": "Teradyne Robotics and Elite Robots have settled their software dispute, ending the legal case without disclosing the terms of the agreement. The post Teradyne Robotics, Elite Robots settle cobot dispute appeared first on The Robot Report .",
-     "source": "Robotics Business Review",
+     "source": "The Robot Report",
      "zh": "Teradyne Robotics, Elite Robots settle cobot dispute"
     },
     {
@@ -1506,6 +1506,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "What We Missed: FBI Strikes Back at ShinyHunters",
+     "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
+     "pubDate": "Fri, 09 Oct 2026 17:21:00 GMT",
+     "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
+     "source": "Dark Reading",
+     "zh": "What We Missed: FBI Strikes Back at ShinyHunters"
+    },
+    {
+     "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+     "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+     "pubDate": "Fri, 09 Oct 2026 13:17:23 -0400",
+     "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+     "source": "BleepingComputer",
+     "zh": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto"
+    },
+    {
      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
      "pubDate": "Fri, 09 Oct 2026 13:02:29 -0400",
@@ -1634,14 +1650,6 @@ window.INDUSTRY_DATA = {
      "zh": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild"
     },
     {
-     "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-     "pubDate": "Fri, 09 Oct 2026 06:12:24 -0400",
-     "summary": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
-     "source": "BleepingComputer",
-     "zh": "Microsoft: Outdated Windows devices will stop receiving security updates"
-    },
-    {
      "title": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries",
      "link": "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/",
      "pubDate": "Fri, 09 Oct 2026 09:55:35 +0000",
@@ -1690,14 +1698,6 @@ window.INDUSTRY_DATA = {
      "zh": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift"
     },
     {
-     "title": "Writing the Next Chapter",
-     "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
-     "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
-     "summary": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
-     "source": "Dark Reading",
-     "zh": "Writing the Next Chapter"
-    },
-    {
      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
      "pubDate": "Wed, 07 Oct 2026 13:48:45 +0000",
@@ -1738,6 +1738,14 @@ window.INDUSTRY_DATA = {
      "zh": "Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally (Davis Giangiulio/CNBC)"
     },
     {
+     "title": "Tomek Korbak: OpenAI's head of safety told they no longer trust me",
+     "link": "https://twitter.com/tomekkorbak/status/2108266859397283953",
+     "pubDate": "Fri, 09 Oct 2026 16:52:20 +0000",
+     "summary": "Article URL: https://twitter.com/tomekkorbak/status/2108266859397283953 Comments URL: https://news.ycombinator.com/item?id=50023293 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Tomek Korbak: OpenAI's head of safety told they no longer trust me"
+    },
+    {
      "title": "Tesla renames Full Self-Driving to Tesla Assisted Driving in Europe after pushback from Germany, whose transport minister will now back its EU-wide approval (Sean O&apos;Kane/TechCrunch)",
      "link": "https://www.techmeme.com/261009/p18#a261009p18",
      "pubDate": "Fri, 09 Oct 2026 12:35:04 -0400",
@@ -1765,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "Republican data center support collapses locally when sites are in GOP counties",
      "link": "https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f",
      "pubDate": "Fri, 09 Oct 2026 16:13:08 +0000",
-     "summary": "Article URL: https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f Comments URL: https://news.ycombinator.com/item?id=50022654 Points: 16 # Comments: 0",
+     "summary": "Article URL: https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f Comments URL: https://news.ycombinator.com/item?id=50022654 Points: 37 # Comments: 6",
      "source": "Hacker News",
      "zh": "Republican data center support collapses locally when sites are in GOP counties"
     },
@@ -1805,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "A statement on the Tor Project's relationship with Mullvad",
      "link": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
      "pubDate": "Fri, 09 Oct 2026 15:49:31 +0000",
-     "summary": "Article URL: https://blog.torproject.org/on-tor-relationship-with-mullvad/ Comments URL: https://news.ycombinator.com/item?id=50022266 Points: 34 # Comments: 25",
+     "summary": "Article URL: https://blog.torproject.org/on-tor-relationship-with-mullvad/ Comments URL: https://news.ycombinator.com/item?id=50022266 Points: 37 # Comments: 33",
      "source": "Hacker News",
      "zh": "A statement on the Tor Project's relationship with Mullvad"
     },
@@ -1877,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
      "link": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
      "pubDate": "Fri, 09 Oct 2026 15:05:24 +0000",
-     "summary": "Article URL: https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms Comments URL: https://news.ycombinator.com/item?id=50021540 Points: 81 # Comments: ",
+     "summary": "Article URL: https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms Comments URL: https://news.ycombinator.com/item?id=50021540 Points: 93 # Comments: ",
      "source": "Hacker News",
      "zh": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland"
     },
@@ -1901,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Imposing Sanctions on the International Criminal Court",
      "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
      "pubDate": "Fri, 09 Oct 2026 14:55:57 +0000",
-     "summary": "Article URL: https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/ Comments URL: https://news.ycombinator.com/item?id=50021403 Points: 127 # Comments: 126",
+     "summary": "Article URL: https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/ Comments URL: https://news.ycombinator.com/item?id=50021403 Points: 135 # Comments: 140",
      "source": "Hacker News",
      "zh": "Imposing Sanctions on the International Criminal Court"
     },
@@ -1925,17 +1933,9 @@ window.INDUSTRY_DATA = {
      "title": "Python 3.15.0",
      "link": "https://www.python.org/downloads/release/python-3150/",
      "pubDate": "Fri, 09 Oct 2026 14:35:42 +0000",
-     "summary": "Article URL: https://www.python.org/downloads/release/python-3150/ Comments URL: https://news.ycombinator.com/item?id=50021127 Points: 166 # Comments: 35",
+     "summary": "Article URL: https://www.python.org/downloads/release/python-3150/ Comments URL: https://news.ycombinator.com/item?id=50021127 Points: 182 # Comments: 38",
      "source": "Hacker News",
      "zh": "Python 3.15.0"
-    },
-    {
-     "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-     "link": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
-     "pubDate": "Fri, 09 Oct 2026 14:31:54 +0000",
-     "summary": "Article URL: https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50021066 Points: 335 # Comments: 192",
-     "source": "Hacker News",
-     "zh": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize"
     },
     {
      "title": "Analysis of 857 releases from nine Chinese AI labs from 2021 to September 2026: just 3.6% included safety results from the developer and only 1.1% did at launch (SemiAnalysis)",
@@ -2210,52 +2210,140 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "文旅部：国庆假期国内出游总花费同比增长4.3%",
+     "link": "http://www.eeo.com.cn/2026/1010/1059117.shtml",
+     "pubDate": "Sat, 10 Oct 2026 01:26:17 +0800",
+     "summary": "10月9日，文化和旅游部发布消息称，2026年国庆节假期，全国文化和旅游市场平稳有序。经文化和旅游部数据中心测算，国庆节假期7天，全国国内出游8.26亿人次，国内出游总花费7383.75亿元，按可比口径（日均）较2025年分别增长6.3%、4.3%。 从产品供给看，红色旅游备受青睐，40%的游客参观革命场馆、观看升旗仪式和爱国主义演出等活动。乡村旅游热度攀升，赏秋观景、非遗体验、农耕采摘、乡村夜游、篝火市集、稻田音乐会等广...",
+     "source": "经济观察网",
+     "zh": "文旅部：国庆假期国内出游总花费同比增长4.3%"
+    },
+    {
+     "title": "多地推进重大项目建设发力稳投资",
+     "link": "http://www.eeo.com.cn/2026/1010/1059116.shtml",
+     "pubDate": "Sat, 10 Oct 2026 01:26:14 +0800",
+     "summary": "四季度是重大项目建设冲刺季。10月份以来，多地积极部署重大项目建设相关工作。 例如，据宿迁市人民政府官网披露，10月7日下午，全市重大项目建设推进会召开，宿迁市委副书记、代市长王凯表示，要进一步增强项目建设的责任感、紧迫感，在招商引资上拼力度，在项目建设上赛速度，在企业服务上比温度，做到实事求是谋项目、务实高效招项目、真抓实干建项目、真心实意帮项目，切实以项目之“进”促发展之“稳”。 据无...",
+     "source": "经济观察网",
+     "zh": "多地推进重大项目建设发力稳投资"
+    },
+    {
+     "title": "国际金价三季度上涨3.74% 四季度或维持高波动",
+     "link": "http://www.eeo.com.cn/2026/1010/1059115.shtml",
+     "pubDate": "Sat, 10 Oct 2026 01:26:14 +0800",
+     "summary": "在刚刚过去的三季度，金价走出了先涨后跌的态势。Wind数据显示，7月1日至8月25日，国际金价（以伦敦金现货价格为例）震荡上行，上涨幅度达16.21%，并在8月25日盘中触及4697.07美元/盎司，达到三季度最高价，但此后国际金价开始下行。整体来看，三季度国际金价整体录得3.74%的涨幅。 截至10月9日《证券日报》记者发稿，国际金价报4183.82美元/盎司，日内涨幅达1.2%。 值得一提的是，在国际金价宽幅波动之际，全球央...",
+     "source": "经济观察网",
+     "zh": "国际金价三季度上涨3.74% 四季度或维持高波动"
+    },
+    {
+     "title": "金融监管总局发布《财产保险公司保险产品开发管理规定》持续强化财险公司产品监管",
+     "link": "http://www.eeo.com.cn/2026/1010/1059114.shtml",
+     "pubDate": "Sat, 10 Oct 2026 01:26:14 +0800",
+     "summary": "据国家金融监督管理总局（以下简称“金融监管总局”）网站10月9日消息，为进一步规范财产保险公司保险产品开发行为，保护投保人、被保险人和受益人合法权益，持续释放强监管信号，提升保险产品供给质效，促进财产保险业高质量发展，近日，金融监管总局修订发布《财产保险公司保险产品开发管理规定》（以下简称《规定》）。《规定》将自2026年11月1日起施行。 据了解，为完善保险产品监管制度，规范财险公司保险产品开发行...",
+     "source": "经济观察网",
+     "zh": "金融监管总局发布《财产保险公司保险产品开发管理规定》持续强化财险公司产品监管"
+    },
+    {
+     "title": "实探上海楼市：居民购房热度高 回暖趋势明显",
+     "link": "http://www.eeo.com.cn/2026/1010/1059113.shtml",
+     "pubDate": "Sat, 10 Oct 2026 01:26:12 +0800",
+     "summary": "“今年房地产市场的‘金九银十’，可能是我近年来见过较为特殊的一次。”一位资深地产研究人士对《证券日报》记者表示。 与往年的楼市促销行情不同，今年的“金九银十”恰逢房地产销售制度改革“窗口期”。2026年8月28日，住房城乡建设部等三部门联合印发《关于完善商品住房销售制度的通知》，对商品住房预售销售制度进行改革完善，并有力有序推行商品住房现房销售。9月24日和9月28日，北京、上海两地分别落地相关实施细...",
+     "source": "经济观察网",
+     "zh": "实探上海楼市：居民购房热度高 回暖趋势明显"
+    },
+    {
+     "title": "秘鲁中央银行货币政策负责人蒙特罗：秘鲁厄尔尼诺现象的影响将持续至2027年上半年",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891615283.html",
+     "pubDate": "Sat, 10 Oct 2026 01:21:51 +0800",
+     "summary": "秘鲁中央 银行 货币政策负责人蒙特罗：秘鲁厄尔尼诺现象的影响将持续至2027年上半年。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "秘鲁中央银行货币政策负责人蒙特罗：秘鲁厄尔尼诺现象的影响将持续至2027年上半年"
+    },
+    {
+     "title": "法国国有公用事业公司EDF签署40亿欧元贷款协议",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891615147.html",
+     "pubDate": "Sat, 10 Oct 2026 01:20:42 +0800",
+     "summary": "法国国有 公用事业 公司EDF签署40亿欧元贷款协议。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "法国国有公用事业公司EDF签署40亿欧元贷款协议"
+    },
+    {
+     "title": "Caledonia Mining slides after cutting guidance for full-year production, raising cost outlook",
+     "link": "https://seekingalpha.com/news/4651830-caledonia-mining-slides-after-cutting-guidance-for-full-year-production-raising-cost-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 13:18:41 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Caledonia Mining slides after cutting guidance for full-year production, raising cost outlook"
+    },
+    {
+     "title": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
+     "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+     "pubDate": "Fri, 09 Oct 2026 17:18:32 GMT",
+     "summary": "SpaceX announced the spectrum deal Thursday, as the company aims to push deeper into the telecom market through its Starlink service.",
+     "source": "CNBC",
+     "zh": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos"
+    },
+    {
+     "title": "万斯：如果是直播 我不会看",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891614361.html",
+     "pubDate": "Sat, 10 Oct 2026 01:18:18 +0800",
+     "summary": "万斯：如果是直播，我不会看。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "万斯：如果是直播 我不会看"
+    },
+    {
+     "title": "万斯：我不知道直播是否会进行",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891614478.html",
+     "pubDate": "Sat, 10 Oct 2026 01:18:16 +0800",
+     "summary": "万斯：我不知道直播是否会进行。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "万斯：我不知道直播是否会进行"
+    },
+    {
+     "title": "万斯：不知道行刑队是否真的会执行枪决",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891614516.html",
+     "pubDate": "Sat, 10 Oct 2026 01:18:15 +0800",
+     "summary": "万斯：不知道行刑队是否真的会执行枪决。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "万斯：不知道行刑队是否真的会执行枪决"
+    },
+    {
+     "title": "美联储隔夜逆回购协议（RRP）使用规模为3亿美元（交易对手1家）",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891614821.html",
+     "pubDate": "Sat, 10 Oct 2026 01:18:14 +0800",
+     "summary": "周五（10月9日），美联储隔夜逆回购协议（RRP）使用规模为3亿美元（交易对手1家），上个交易日报3.35亿美元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储隔夜逆回购协议（RRP）使用规模为3亿美元（交易对手1家）"
+    },
+    {
+     "title": "Cable One plunges on report lender filed lawsuit to block Mega Broadband deal",
+     "link": "https://seekingalpha.com/news/4651833-cable-one-plunges-on-report-lender-filed-lawsuit-to-block-mega-broadband-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 13:15:07 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cable One plunges on report lender filed lawsuit to block Mega Broadband deal"
+    },
+    {
+     "title": "Tesla drops &apos;Full Self-Driving&apos; brand name in Europe after regulator pushback",
+     "link": "https://www.cnbc.com/2026/10/09/tesla-full-self-driving-europe-regulator.html",
+     "pubDate": "Fri, 09 Oct 2026 17:12:32 GMT",
+     "summary": "German regulators called Tesla's \"Full Self-Driving\" brand name \"somewhat misleading.\"",
+     "source": "CNBC",
+     "zh": "Tesla drops &apos;Full Self-Driving&apos; brand name in Europe after regulator pushback"
+    },
+    {
      "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
      "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
-     "pubDate": "Fri, 09 Oct 2026 17:07:18 GMT",
+     "pubDate": "Fri, 09 Oct 2026 17:12:17 GMT",
      "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
      "source": "CNBC",
      "zh": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries"
     },
     {
-     "title": "贝克休斯：美国能源企业五周内第四次增加钻井平台",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891610246.html",
-     "pubDate": "Sat, 10 Oct 2026 01:02:45 +0800",
-     "summary": "贝克休斯：美国能源企业五周内第四次增加钻井平台。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "贝克休斯：美国能源企业五周内第四次增加钻井平台"
-    },
-    {
-     "title": "贝克休斯：截至10月9日当周墨西哥湾钻机数增加3台",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891609996.html",
-     "pubDate": "Sat, 10 Oct 2026 01:01:33 +0800",
-     "summary": "贝克休斯：截至10月9日当周，墨西哥湾钻机数增加3台；北达科他州钻机数持平；宾夕法尼亚州钻机数持平；得克萨斯州钻机数增加3台。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "贝克休斯：截至10月9日当周墨西哥湾钻机数增加3台"
-    },
-    {
-     "title": "美国至10月9日当周石油钻井总数 462口 前值456口",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891610094.html",
-     "pubDate": "Sat, 10 Oct 2026 01:01:07 +0800",
-     "summary": "美国至10月9日当周石油钻井总数 462口，前值456口。美国至10月9日当周 天然气 钻井总数 132口，前值133口。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国至10月9日当周石油钻井总数 462口 前值456口"
-    },
-    {
-     "title": "美国农业部（USDA）数据显示 截至10月1日已登记参与的小麦种植面积为4616.8万英亩",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891609781.html",
-     "pubDate": "Sat, 10 Oct 2026 01:00:33 +0800",
-     "summary": "美国农业部（USDA）数据显示，截至10月1日，美国农作物补贴计划下，已登记参与的小麦种植面积为4616.8万英亩，上月公布数据为4616.4万英亩，该数据包含2026年种植失败的耕地面积。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国农业部（USDA）数据显示 截至10月1日已登记参与的小麦种植面积为4616.8万英亩"
-    },
-    {
-     "title": "美农业部：截至10月1日参加美国农作物补贴项目的农户登记玉米种植面积为9534.3万英亩",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891609674.html",
-     "pubDate": "Sat, 10 Oct 2026 01:00:03 +0800",
-     "summary": "美国农业部：截至10月1日，参加美国农作物补贴项目（含未能种植面积）的农户登记玉米种植面积为9534.3万英亩，上月报告为9530.6万英亩。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美农业部：截至10月1日参加美国农作物补贴项目的农户登记玉米种植面积为9534.3万英亩"
+     "title": "Jefferies fined $650K over deficient electronic blue sheets reporting",
+     "link": "https://seekingalpha.com/news/4651828-jefferies-fined-650k-over-deficient-electronic-blue-sheets-reporting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 13:06:04 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Jefferies fined $650K over deficient electronic blue sheets reporting"
     },
     {
      "title": "Midday Need to Know: Delta slides on earnings miss, Tesla gains on China sales & more",
@@ -2264,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Midday Need to Know: Delta slides on earnings miss, Tesla gains on China sales & more"
-    },
-    {
-     "title": "新型AI模型Jev背后的初创公司TypeSafe AI按75亿美元估值融资",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891609120.html",
-     "pubDate": "Sat, 10 Oct 2026 00:57:36 +0800",
-     "summary": "新型AI模型Jev背后的初创公司TypeSafe AI按75亿美元估值融资，由Andreessen Horowitz领投。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "新型AI模型Jev背后的初创公司TypeSafe AI按75亿美元估值融资"
     },
     {
      "title": "More evidence that broad-market index funds remain unbeatable, even in the era of AI stock-picking",
@@ -2306,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "Aura Minerals surges 11% after Q3 production hits record"
     },
     {
-     "title": "Telecom tower REIT stocks jump after SpaceX-Grain Management spectrum deal",
-     "link": "https://seekingalpha.com/news/4651823-telecom-tower-reit-stocks-jump-after-spacex-grain-management-spectrum-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 12:33:06 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Telecom tower REIT stocks jump after SpaceX-Grain Management spectrum deal"
-    },
-    {
      "title": "Flu season is already here. Here’s what to know about this year’s flu shots.",
      "link": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 16:31:00 GMT",
@@ -2322,28 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "Flu season is already here. Here’s what to know about this year’s flu shots."
     },
     {
-     "title": "Ambarella gains on report Qualcomm may be interested in takeover",
-     "link": "https://seekingalpha.com/news/4651826-ambarella-gains-on-report-qualcomm-may-be-interested-in-takeover?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 12:30:48 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ambarella gains on report Qualcomm may be interested in takeover"
-    },
-    {
      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. She wants me to leave my home to her two children.",
      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 16:30:00 GMT",
      "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
      "source": "MarketWatch",
      "zh": "‘I have no children’: My aunt gave me $50,000 for a down payment. She wants me to leave my home to her two children."
-    },
-    {
-     "title": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
-     "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
-     "pubDate": "Fri, 09 Oct 2026 16:26:44 GMT",
-     "summary": "SpaceX announced the spectrum deal Thursday, as the company aims to push deeper into the telecom market through its Starlink service.",
-     "source": "CNBC",
-     "zh": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos"
     },
     {
      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
@@ -2360,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "The decision to livestream the execution of Nidal Malik Hasan is a sign of profound moral decay",
      "source": "Financial Times",
      "zh": "Trump and Hegseth’s execution-type deal"
-    },
-    {
-     "title": "Wall Street perks up as tech pain eases",
-     "link": "https://seekingalpha.com/news/4651757-wall-street-perks-up-as-tech-pain-eases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 12:13:05 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Wall Street perks up as tech pain eases"
     },
     {
      "title": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies",
@@ -2400,54 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "华尔街大型银行三季度股票交易业务有望延续强势，但资本市场活动降温正加剧各行之间的业绩分化。 10月9日， 据彭博汇编的分析师预期，五大美国银行三季度股票交易收入合计预计接近190亿美元。 其中，高盛预计以51亿美元居首，摩根士丹利、摩根大通和美国银行分别预计录得49亿美元、45亿美元和26亿美元。高盛将于下周二率先公布财报。 相比之下，固定收益交易业务面临压力，五大银行相关收入预计降至今年以来最低水平，并购市场也显露降温迹象。与此同时，市场担忧人工智能驱动的现金优化工具可能加速存款流出，进一步拖累银行股表现。 富国银行分析师迈克·梅奥表示，上半年几乎所有银行都是赢家，但这一局面可能不再延续，本",
      "source": "华尔街见闻",
      "zh": "华尔街大行财报下周揭晓：股票交易收入料逼近190亿美元，“人人是赢家”或成过去式"
-    },
-    {
-     "title": "印度史上最大IPO要来了？安巴尼旗下Jio据悉拟募资约3020亿卢比",
-     "link": "https://wallstreetcn.com/articles/3783290",
-     "pubDate": "Fri, 09 Oct 2026 23:34:46 +0800",
-     "summary": "印度史上最大IPO募资纪录有望被刷新。 10月9日，据彭博援引知情人士，印度首富穆克什·安巴尼旗下电信与数字服务公司Jio Platforms已初步确定每股1065至1119卢比的发行价区间，计划于10月21日启动公开认购。知情人士称，公司目标估值最高可达10.3万亿卢比（约合1065亿美元）。 据彭博测算， 按发行价区间上限计算，Jio此次IPO募资额约为3020亿卢比（约合31亿美元）。若顺利完成，将超过现代汽车印度公司2024年10月创下的2780亿卢比纪录，成为印度史上募资规模最大的IPO。 不过，这一估值低于市场早期预期。此前市场流传的估值区间为1300亿至1700亿美元，而此次IP",
-     "source": "华尔街见闻",
-     "zh": "印度史上最大IPO要来了？安巴尼旗下Jio据悉拟募资约3020亿卢比"
-    },
-    {
-     "title": "ICE won&apos;t pause enforcement in NY after Bronx shooting, DHS&apos; Mullin says",
-     "link": "https://www.cnbc.com/2026/10/09/ice-bronx-shooting-mamdani-dhs.html",
-     "pubDate": "Fri, 09 Oct 2026 15:20:56 GMT",
-     "summary": "New York Gov. Kathy Hochul said she asked Homeland Security Secretary Mullin and President Donald Trump to immediately halt ICE operations in her state.",
-     "source": "CNBC",
-     "zh": "ICE won&apos;t pause enforcement in NY after Bronx shooting, DHS&apos; Mullin says"
-    },
-    {
-     "title": "美10月消费者信心指数初值降至五个月低点，经济现况指标创历史新低",
-     "link": "https://wallstreetcn.com/articles/3783295",
-     "pubDate": "Fri, 09 Oct 2026 23:19:13 +0800",
-     "summary": "美国消费者信心在10月初再度走低，通胀持续施压令家庭经济状况感受降至有记录以来最差水平，为美国经济前景增添新的隐忧。 密歇根大学周五发布的初步数据显示， 10月消费者信心指数降至46.3，为5月以来最低，低于经济学家调查预期中值47.6。反映当前经济状况的分项指标从9月的50.9骤降至44.7，创有记录以来最低值。 预期分项指标从9月的46.3微升至47.3，为7月以来首次回升，显示部分消费者对未来经济走势的判断并未全面恶化。 消费者对未来一年通胀的预期从9月的4.6%小幅上升至4.7% ，远高于伊朗冲突爆发前2月份的3.4%，也高于2024年的所有预期读数。5至10年通胀预期也从9月份的3.",
-     "source": "华尔街见闻",
-     "zh": "美10月消费者信心指数初值降至五个月低点，经济现况指标创历史新低"
-    },
-    {
-     "title": "Donald Trump launches committee to investigate Fed governor Lisa Cook",
-     "link": "https://www.ft.com/content/d0c81cd2-f944-46b9-a859-abc3f0bd3516?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 15:08:49 GMT",
-     "summary": "Move comes after Supreme Court in June rebuffed president’s attempt to sack central banker",
-     "source": "Financial Times",
-     "zh": "Donald Trump launches committee to investigate Fed governor Lisa Cook"
-    },
-    {
-     "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-     "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-     "pubDate": "Fri, 09 Oct 2026 15:07:46 GMT",
-     "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
-     "source": "CNBC",
-     "zh": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong"
-    },
-    {
-     "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
-     "link": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
-     "pubDate": "Fri, 09 Oct 2026 10:59:00 -0400",
-     "summary": "The Securities and Exchange Commission today proposed amendments to the Investment Company Act “cross-trading rule,” which permits transactions in securities between a registered fund and its affiliates under certain conditions. The proposed amendments…",
-     "source": "SEC",
-     "zh": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/9 21:42:28",
+ "generated_at": "2026/10/9 21:47:52",
  "recent_days": 7,
  "industries": [
   {
@@ -258,14 +258,6 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "The Single-Chip PC",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
-     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The Single-Chip PC"
-    },
-    {
      "title": "CASPA CEO Summit and Why it Matters",
      "link": "https://semiwiki.com/events/374362-caspa-ceo-summit-and-why-it-matters/",
      "pubDate": "Fri, 09 Oct 2026 13:00:18 +0000",
@@ -360,6 +352,14 @@ window.INDUSTRY_DATA = {
      "summary": "Today, the Arm vs Qualcomm legal case in Delaware concludes and the judge and jury should give their rulings. Yesterday, Day 4 of the case, started with testimony from Manju […] The post Qualcomm vs Arm (Day 4) appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Qualcomm vs Arm (Day 4)"
+    },
+    {
+     "title": "ASML starts on Hyper NA EUV",
+     "link": "https://www.electronicsweekly.com/news/business/asml-starts-on-hyper-na-euv-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 05:16:36 +0000",
+     "summary": "ASML has begun a ten year programme to get feature sizes down to 5nm from the 8nm which high NA tools can deliver. The 5nm litho tool is dubbed Hyper […] The post ASML starts on Hyper NA EUV appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "ASML starts on Hyper NA EUV"
     },
     {
      "title": "MediaTek 3Q26 revenue beats forecast, maintains peak-season momentum",
@@ -658,6 +658,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Surveillance company Flock cuts staff as privacy backlash grows",
+     "link": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
+     "pubDate": "Fri, 09 Oct 2026 13:40:36 +0000",
+     "summary": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
+     "source": "TechCrunch Transport",
+     "zh": "Surveillance company Flock cuts staff as privacy backlash grows"
+    },
+    {
      "title": "Tesla opens 14 Semi Megacharger stalls between Atlanta and Savannah",
      "link": "https://electrek.co/2026/10/09/tesla-semi-megacharger-atlanta-savannah-pilot-georgia/",
      "pubDate": "Fri, 09 Oct 2026 13:13:15 +0000",
@@ -840,14 +848,6 @@ window.INDUSTRY_DATA = {
      "summary": "It's the latest in a string of deals meant to grow Uber Eats into a food delivery behemoth.",
      "source": "TechCrunch Transport",
      "zh": "Uber is spending $2.3B to get into catering"
-    },
-    {
-     "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
-     "link": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
-     "pubDate": "Tue, 06 Oct 2026 13:00:00 +0000",
-     "summary": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round.",
-     "source": "TechCrunch Transport",
-     "zh": "Flai’s AI dealership software is booking 50,000 appointments per month"
     }
    ]
   },
@@ -1069,7 +1069,7 @@ window.INDUSTRY_DATA = {
      "title": "Massachusetts shifts clean energy funds to help heat homes this winter",
      "link": "https://www.utilitydive.com/news/massachusetts-clean-energy-funds-winter-heating-oil/832521/",
      "pubDate": "Thu, 08 Oct 2026 12:42:42 -0400",
-     "summary": "Massachusetts&nbsp;Gov. Maura Healey, D, ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
+     "summary": "Gov. Maura Healey ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
      "source": "Utility Dive",
      "zh": "Massachusetts shifts clean energy funds to help heat homes this winter"
     },
@@ -1813,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Our $445M Series D",
      "link": "https://oxide.computer/blog/our-445m-series-d",
      "pubDate": "Fri, 09 Oct 2026 13:12:47 +0000",
-     "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 45 # Comments: 8",
      "source": "Hacker News",
      "zh": "Our $445M Series D"
     },
@@ -1829,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Deno Is Joining Cloudflare",
      "link": "https://deno.com/blog/cloudflare",
      "pubDate": "Fri, 09 Oct 2026 13:03:48 +0000",
-     "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 55 # Comments: 23",
+     "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 137 # Comments: 68",
      "source": "Hacker News",
      "zh": "Deno Is Joining Cloudflare"
     },
@@ -1845,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
      "link": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
      "pubDate": "Fri, 09 Oct 2026 12:21:24 +0000",
-     "summary": "Article URL: https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/ Comments URL: https://news.ycombinator.com/item?id=50019455 Points: 10 # Comments: 0",
+     "summary": "Article URL: https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/ Comments URL: https://news.ycombinator.com/item?id=50019455 Points: 23 # Comments: 2",
      "source": "Hacker News",
      "zh": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT"
     },
@@ -1853,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "The Hetzner Cloud network stack – history and technical overview",
      "link": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
      "pubDate": "Fri, 09 Oct 2026 12:20:55 +0000",
-     "summary": "Article URL: https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/ Comments URL: https://news.ycombinator.com/item?id=50019451 Points: 22 # Comments: 2",
+     "summary": "Article URL: https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/ Comments URL: https://news.ycombinator.com/item?id=50019451 Points: 25 # Comments: 3",
      "source": "Hacker News",
      "zh": "The Hetzner Cloud network stack – history and technical overview"
     },
@@ -1901,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
      "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
      "pubDate": "Fri, 09 Oct 2026 11:03:48 +0000",
-     "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 149 # Comments: 54",
+     "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 154 # Comments: 61",
      "source": "Hacker News",
      "zh": "Let your AI agents paint big arrows, boxes and text on your screen"
     },
@@ -1953,6 +1953,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "iOS 27.0.1 is now Apple’s recommended update for users still on iOS 26",
+     "link": "https://9to5mac.com/2026/10/09/ios-27-0-1-is-now-apples-recommended-update-for-users-still-on-ios-26/",
+     "pubDate": "Fri, 09 Oct 2026 13:41:06 +0000",
+     "summary": "Apple launched iOS 27 on September 14, but the new OS version was initially minimized in Settings while iOS 26.7 was spotlighted as the recommended update. But now following the release of iOS 27.0.1, that has officially changed. more…",
+     "source": "9to5Mac",
+     "zh": "iOS 27.0.1 is now Apple’s recommended update for users still on iOS 26"
+    },
     {
      "title": "Google Chat may soon get an HDR upgrade… for emoji?",
      "link": "https://www.androidauthority.com/google-chat-hdr-emoji-support-apk-teardown-3721301/",
@@ -2178,14 +2186,6 @@ window.INDUSTRY_DATA = {
      "zh": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones"
     },
     {
-     "title": "You can now use TextExpander for free across Mac, iPhone, iPad, and more",
-     "link": "https://9to5mac.com/2026/10/08/you-can-now-use-textexpander-for-free-across-mac-iphone-ipad-and-more/",
-     "pubDate": "Thu, 08 Oct 2026 21:38:06 +0000",
-     "summary": "Incredibly useful keyboard shortcut utility TextExpander now offers a free plan, letting users access its core Snippets feature on the Mac, iPhone, iPad, Windows, and Chrome. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "You can now use TextExpander for free across Mac, iPhone, iPad, and more"
-    },
-    {
      "title": "Galaxy phones reportedly ‘yield no profit at all’ when sold as Samsung cuts production",
      "link": "https://9to5google.com/2026/10/08/samsung-galaxy-no-profit-production-reports/",
      "pubDate": "Thu, 08 Oct 2026 19:10:00 +0000",
@@ -2202,12 +2202,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Main Street Financial Services declares $0.15 dividend",
+     "link": "https://seekingalpha.com/news/4651756-main-street-financial-services-declares-0_15-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 09:39:18 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Main Street Financial Services declares $0.15 dividend"
+    },
+    {
+     "title": "世纪数码：关于使用部分闲置募集资金进行现金管理的进展公告",
+     "link": "http://www.eeo.com.cn/2026/1009/1059045.shtml",
+     "pubDate": "Fri, 09 Oct 2026 21:39:08 +0800",
+     "summary": "证券日报网讯10月9日，世纪数码发布关于使用部分闲置募集资金进行现金管理的进展公告称，公司本次使用闲置募集资金进行现金管理的金额为人民币14,000万元，截至目前，公司使用闲置募集资金进行现金管理的未到期余额为人民币14,000万元（含本次已购买现金管理产品），占公司2025年度经审计净资产的比例44.55%。 （编辑 丛可心）",
+     "source": "经济观察网",
+     "zh": "世纪数码：关于使用部分闲置募集资金进行现金管理的进展公告"
+    },
+    {
+     "title": "伊朗革命卫队：加剧地区海上运输紧张局势的责任在美军",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891503873.html",
+     "pubDate": "Fri, 09 Oct 2026 21:38:17 +0800",
+     "summary": "当地时间9日，伊朗伊斯兰革命卫队发表声明称，革命卫队海军官兵响应伊朗人民对霍尔木兹海峡主权的诉求，绝不允许任何侵略性军队驻扎于此，并将坚决打击敌人破坏伊朗对该海峡管理的企图。 声明表示，几小时前，一艘名为“阳光号”的巨型液化石油气运输船，在试图通过霍尔木兹海峡以南的非法航线时遭到袭击，机舱和推进系统发生火灾。 声明强调，造成这些事件以及该地区海上运输紧张局势加剧的直接责任在于美军。声明还称，从现在起，对违规船只的打击将不再局限于霍尔木兹海峡，任何未经授权通过该海峡的船只都将在整个区域内被伊朗追捕，并将受到处罚。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊朗革命卫队：加剧地区海上运输紧张局势的责任在美军"
+    },
+    {
      "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
      "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
      "pubDate": "Fri, 09 Oct 2026 13:38:10 GMT",
      "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
      "source": "CNBC",
      "zh": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong"
+    },
+    {
+     "title": "纳川股份被证监会立案调查 已存退市风险",
+     "link": "http://stock.eastmoney.com/news/11215,202610093891502924.html",
+     "pubDate": "Fri, 09 Oct 2026 21:37:42 +0800",
+     "summary": "纳川股份（ *ST纳川 ，300198.SZ）10月9日公告，当日收到中国证监会下发的《立案告知书》。因公司2023年年报涉嫌信息披露违法违规，证监会决定对公司立案。 同日，纳川股份披露《关于公司股票可能被终止上市的第六次风险提示公告》。因公司利润总额、净利润、扣除非经常性损益后的净利润三者均为负值，且扣除后的营业收入低于1亿元；公司2025年度期末净资产为-1.48亿元；公司2024年度、2025年度内控审计报告为否定意见，公司股票于2026年4月29日开市起被实施退市风险警示。 此外，公司最近三个会计年度扣除非经常性损益前后净利润孰低者均为负值，信永中和会计师事务所出具的《2025年度审计",
+     "source": "东方财富股票",
+     "zh": "纳川股份被证监会立案调查 已存退市风险"
+    },
+    {
+     "title": "Lumentum首席执行官表示公司AI服务器部件已售罄至2029年",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891502419.html",
+     "pubDate": "Fri, 09 Oct 2026 21:37:39 +0800",
+     "summary": "Lumentum首席执行官表示公司AI服务器部件已售罄至2029年，股价一度触及纪录高位，最新上涨7%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "Lumentum首席执行官表示公司AI服务器部件已售罄至2029年"
     },
     {
      "title": "AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周",
@@ -2218,12 +2258,52 @@ window.INDUSTRY_DATA = {
      "zh": "AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周"
     },
     {
-     "title": "美股三大指数集体上涨 光通信板块走强",
-     "link": "http://finance.eastmoney.com/news/1345,202610093891490496.html",
-     "pubDate": "Fri, 09 Oct 2026 21:34:16 +0800",
-     "summary": "10月9日，美股三大指数集体上涨，截至发稿，道指涨0.20%，纳指涨0.56%，标普500指数涨0.38%。 光 通信 板块走强 ，截至发稿， Lumentum涨超8%，Coherent涨超5%。 全球要闻 特朗普：美国不会在中期选举之前攻击伊朗 据央视新闻报道，当地时间周四，美国总统特朗普表示，在11月3日中期选举前，美国不会对伊朗发动袭击。受此消息影响，国际油价短线走低。特朗普在其社交媒体平台Truth Social上发文称：“在中期选举之前的任何时候，我们都不会攻击伊朗。”他同时表示，美国正与伊朗进行“富有成效的讨论”。 伊朗敌对政策升级 警告将封锁“未授权”运输航线 据消息人士爆料，在",
+     "title": "Stock market advances after tech selloff on AI revenue concerns",
+     "link": "https://seekingalpha.com/news/4651665-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 09:37:07 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stock market advances after tech selloff on AI revenue concerns"
+    },
+    {
+     "title": "Mainstreet Equity Corp. declares CAD 0.08 dividend",
+     "link": "https://seekingalpha.com/news/4651755-mainstreet-equity-corp-declares-cad-0_08-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 09:37:01 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mainstreet Equity Corp. declares CAD 0.08 dividend"
+    },
+    {
+     "title": "黑客利用AI无差别攻击 日本罗森系统被黑致200万用户信息外泄",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891503615.html",
+     "pubDate": "Fri, 09 Oct 2026 21:37:01 +0800",
+     "summary": "日本便利店巨头罗森10月8日发布消息称，其会员账号服务“Lawson ID”于9月中旬遭第三方非法访问，导致包括邮件地址、姓名、性别、电话号码及住址在内的用户个人信息外泄，涉及ID约215.5万个。卡拉OK连锁运营商第一兴商也透露，因业务外包企业员工终端感染恶意软件，旗下“BIG ECHO”“MEGA BIG”等门店会员的姓名、出生日期、邮件地址等信息可能已外泄，总计约872万条。遭遇泄露事件的企业还包括共享 汽车服务 “Times CAR”、软银子公司IDC Frontier等。有专家认为，攻击方可能利用 人工智能 （AI）对系统存在漏洞的对象进行了无差别攻击。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "美股三大指数集体上涨 光通信板块走强"
+     "zh": "黑客利用AI无差别攻击 日本罗森系统被黑致200万用户信息外泄"
+    },
+    {
+     "title": "Alignment Healthcare股价跌至两年多来低点",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891501716.html",
+     "pubDate": "Fri, 09 Oct 2026 21:36:59 +0800",
+     "summary": "Alignment Healthcare股价跌至两年多来低点，此前美国联邦医疗保险和医疗补助服务中心公布了2027年联邦医疗保险优势计划评级，该股最新下跌24%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "Alignment Healthcare股价跌至两年多来低点"
+    },
+    {
+     "title": "惠誉评级：阿联酋非石油增长模式在战争基线下总体具有韧性",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891502255.html",
+     "pubDate": "Fri, 09 Oct 2026 21:36:48 +0800",
+     "summary": "惠誉评级：阿联酋非石油增长模式在战争基线下总体具有韧性。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "惠誉评级：阿联酋非石油增长模式在战争基线下总体具有韧性"
+    },
+    {
+     "title": "最高4.35%！内地、香港哪家银行美元定存利率更高？",
+     "link": "http://www.eeo.com.cn/2026/1009/1059043.shtml",
+     "pubDate": "Fri, 09 Oct 2026 21:35:08 +0800",
+     "summary": "受美联储加息政策影响，内地外资银行、香港多家银行美元定期存款利率显著抬升，多款限时优惠产品年化利率突破4%。",
+     "source": "经济观察网",
+     "zh": "最高4.35%！内地、香港哪家银行美元定存利率更高？"
     },
     {
      "title": "Jack Henry & Associates upgraded to Buy equivalent at Piper Sandler on improved risk-reward",
@@ -2234,52 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "Jack Henry & Associates upgraded to Buy equivalent at Piper Sandler on improved risk-reward"
     },
     {
-     "title": "费城半导体指数开盘上涨1.4%",
-     "link": "http://finance.eastmoney.com/news/11440,202610093891490972.html",
-     "pubDate": "Fri, 09 Oct 2026 21:32:20 +0800",
-     "summary": "费城 半导体 指数开盘上涨1.4%，现报12798.41点。",
-     "source": "东方财富股票",
-     "zh": "费城半导体指数开盘上涨1.4%"
-    },
-    {
      "title": "MTY Food Group Inc. raises dividend by 35.1% to CAD 0.50",
      "link": "https://seekingalpha.com/news/4651752-mty-food-group-inc-raises-dividend-by-351-to-cad-050?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 09:31:44 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "MTY Food Group Inc. raises dividend by 35.1% to CAD 0.50"
-    },
-    {
-     "title": "百亿牛股，紧急澄清后再度涨停，收获五连板",
-     "link": "http://finance.eastmoney.com/news/1354,202610093891491996.html",
-     "pubDate": "Fri, 09 Oct 2026 21:31:40 +0800",
-     "summary": "一纸异动公告仍挡不住资金追捧。 10月9日，在连续四个交易日涨停后， 九阳股份 收获第五个涨停板，公司股价收盘报15.13元/股，创三年来新高，最新市值115亿元。 图片来源：Wind 公司于10月8日晚披露股票交易异常波动公告，就市场关切的“华为/鸿蒙”“ 机器人 /AI”等热点概念逐一澄清。 九阳股份 表示，公司目前持有深思考 人工智能 机器人 科技（北京）有限公司（简称“深思考”）7.92%股权，该公司深耕类脑 人工智能 与多模态语义理解技术。与此同时， 九阳股份 澄清，截至10月8日，公司与华为不存在市场传闻所称的战略合作关系。公司与华为的关联主要系双方均持有深思考股权，其中华为旗下投",
-     "source": "东方财富股票",
-     "zh": "百亿牛股，紧急澄清后再度涨停，收获五连板"
-    },
-    {
-     "title": "*ST纳川收到证监会立案告知书 2023年年报涉嫌信息披露违法违规",
-     "link": "http://finance.eastmoney.com/news/1354,202610093891492024.html",
-     "pubDate": "Fri, 09 Oct 2026 21:31:12 +0800",
-     "summary": "10月9日， *ST纳川 （300198.SZ）对外发布公告称，公司收到证监会下发的立案告知书，因2023年年报涉嫌信息披露违法违规，证监会决定对公司立案。立案调查期间，公司将积极配合调查工作，并严格履行信息披露义务。（央广财经） （文章来源：央广财经）",
-     "source": "东方财富股票",
-     "zh": "*ST纳川收到证监会立案告知书 2023年年报涉嫌信息披露违法违规"
-    },
-    {
-     "title": "泽润新能拟收购合创智造至少51%股权 布局热管理赛道",
-     "link": "http://stock.eastmoney.com/news/11215,202610093891491788.html",
-     "pubDate": "Fri, 09 Oct 2026 21:31:12 +0800",
-     "summary": "10月9日， 泽润新能 （301636.SZ）发布公告称，公司董事会已审议通过相关议案，拟以现金形式收购东莞市合创智造科技有限公司不低于51%股权以取得其控制权，目前已与后者股东王强、东莞市创智展创业投资合伙企业（有限合伙）、李雄签署《合作框架协议》。据介绍，合创智造主要从事热管理散热组件的研发、生产和销售，可为算力中心、智能投影、AI 智能硬件、工业设备和PC产品等提供散热解决方案和服务。 泽润新能 表示，本次收购完成后，公司将获得热管理散热相关产品技术和工艺，与自身现有的精密制造、产品研发和业务拓展等资源整合，快速切入热管理行业，进一步拓展业务边界、提升盈利能力。（央广财经） （文章来源：",
-     "source": "东方财富股票",
-     "zh": "泽润新能拟收购合创智造至少51%股权 布局热管理赛道"
-    },
-    {
-     "title": "华维设计及相关责任人因信息披露违规 被江西证监局出具警示函",
-     "link": "http://stock.eastmoney.com/news/11215,202610093891491642.html",
-     "pubDate": "Fri, 09 Oct 2026 21:31:12 +0800",
-     "summary": "10月9日， 华维设计 （920427.BJ）发布公告称，公司于近日收到中国证券监督管理委员会江西监管局下发的《行政监管措施决定书——关于对 华维设计 集团股份有限公司、廖宜勤、侯昌星采取出具警示函措施的决定》（〔2026〕17号）。经查，公司2025年年度报告存在净利润数据、主要客户及供应商披露不准确的问题，涉及收购标的公司九江华维芯微 电子 有限公司的临时公告中，车间面积披露有误。上述行为违反了《上市公司信息披露管理办法》的相关规定，公司董事长廖宜勤、时任董事会秘书兼财务总监侯昌星未能忠实、勤勉地履行职责，对上述违规行为负有主要责任。根据相关规定，江西证监局决定对公司、廖宜勤、侯昌星采取出",
-     "source": "东方财富股票",
-     "zh": "华维设计及相关责任人因信息披露违规 被江西证监局出具警示函"
     },
     {
      "title": "Networking startup Eliyan gets takeover interest, held early talks with Arm - report",
@@ -2298,28 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Aging bull: Why this 4-year-old stock-market rally still packs a punch"
     },
     {
-     "title": "AI leaders prepare for worst-case scenario: Axios",
-     "link": "https://seekingalpha.com/news/4651745-ai-leaders-prepare-for-worst-case-scenario-axios?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 09:24:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AI leaders prepare for worst-case scenario: Axios"
-    },
-    {
      "title": "Nvidia and Micron shares bounce as investors get clarity on a key OpenAI matter",
      "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 13:21:00 GMT",
      "summary": "A new report paints OpenAI’s financial picture in a more optimistic light.",
      "source": "MarketWatch",
      "zh": "Nvidia and Micron shares bounce as investors get clarity on a key OpenAI matter"
-    },
-    {
-     "title": "Money market funds log biggest weekly inflow since pandemic - BofA",
-     "link": "https://seekingalpha.com/news/4651742-money-market-funds-log-biggest-weekly-inflow-since-pandemic---bofa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 09:19:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Money market funds log biggest weekly inflow since pandemic - BofA"
     },
     {
      "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
@@ -2336,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "法国国债正面临越来越严峻的定价考验。法德国债利差已扩大至约150个基点，处于历史罕见水平，但债券市场分析师Robert Burrows警告，利差走阔并不意味着法国国债已具备足够的投资价值。若仍押注利差回归历史均值，投资者可能低估法国财政风险进一步恶化的空间。 法国的难题不仅在于债务负担沉重，还在于政治碎片化加剧、财政整顿难以推进。 与此同时，德国经济与财政支撑能力也受到质疑。法德两大经济体的风险交织，使问题不再局限于法国自身，而可能动摇欧元区整体的稳定性。 Burrows在Bond Vigilantes网站撰文指出，欧债危机期间，意大利国债相对德国国债的利差一度超过500个基点。这并非对法国利",
      "source": "华尔街见闻",
      "zh": "法国债务：“太重难扛、太大难救”！"
-    },
-    {
-     "title": "BMO Capital initiates coverage of American Express, Capital One, Synchrony",
-     "link": "https://seekingalpha.com/news/4651737-bmo-capital-initiates-coverage-of-american-express-capital-one-synchrony?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 09:14:30 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BMO Capital initiates coverage of American Express, Capital One, Synchrony"
     },
     {
      "title": "天天315｜踏板断裂吵翻全网 尊界风波 消费者只在乎安全",
@@ -2424,22 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "证券日报网讯10月9日，九号公司发布公告称，截至2026年9月30日，公司通过上海证券交易所交易系统以集中竞价交易方式累计回购公司存托凭证5,711,564份，占公司存托凭证总数的比例为0.78%，成交的最高价为41.80元/份，最低价为36.47元/份，已支付的总金额为人民币219,998,982.03元（不含印花税、交易佣金等交易费用）。 （编辑 袁冠琳 赵思卓）",
      "source": "经济观察网",
      "zh": "九号公司：截至9月30日公司累计回购存托凭证5711564份"
-    },
-    {
-     "title": "信诺维：2026年第一次临时股东会决议公告",
-     "link": "http://www.eeo.com.cn/2026/1009/1058983.shtml",
-     "pubDate": "Fri, 09 Oct 2026 20:26:06 +0800",
-     "summary": "证券日报网讯10月9日，信诺维发布公告称，公司于2026年10月9日召开2026年第一次临时股东会，审议通过《关于为公司及公司董事、高级管理人员购买责任险的议案》等多项议案。 （编辑 袁冠琳）",
-     "source": "经济观察网",
-     "zh": "信诺维：2026年第一次临时股东会决议公告"
-    },
-    {
-     "title": "围海股份：关于工程项目中标的公告",
-     "link": "http://www.eeo.com.cn/2026/1009/1058982.shtml",
-     "pubDate": "Fri, 09 Oct 2026 20:23:52 +0800",
-     "summary": "证券日报网讯10月9日，围海股份发布公告称，公司于近日收到《中标通知书》，公司已被确定为“苕溪防洪治理工程施工2标”的中标单位，项目中标金额为162,468,560.10元（具体合同金额以双方最终签订的合同为准）。“苕溪防洪治理工程施工2标”预中标金额占公司2025年经审计营业总收入的7.76%。若最终签订合同，将对公司未来期间的营业收入及净利润产生积极的影响。 （编辑 袁冠琳）",
-     "source": "经济观察网",
-     "zh": "围海股份：关于工程项目中标的公告"
     }
    ]
   },

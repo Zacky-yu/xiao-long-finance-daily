@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 07:26:59",
+ "generated_at": "2026/10/10 07:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -1722,12 +1722,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "决策模型 Jev 爆火，开发商 TypeSafe AI 估值已达 75 亿美元",
+     "link": "https://www.ithome.com/1/011/170.htm",
+     "pubDate": "Fri, 09 Oct 2026 23:28:29 GMT",
+     "summary": "IT之家 10 月 10 日消息，据彭博社于当地时间 10 月 9 日报道，初创公司 TypeSafe AI 旗下的新型 AI 决策模型 Jev 刚刚推出数周便迅速走红。近日，该公司完成了一轮约 8.7 亿美元 （IT之家注：现汇率约合 58.42 亿元人民币） 的融资，由安德里森 · 霍洛维兹（Andreessen Horowitz、a16z）领投， 公司估值已达 75 亿美元 （现汇率约合 503.64 亿元人民币） 。 据这家初创公司透露，Jev 目前已被约三分之一的财富 500 强企业采用，不过公司并未公开具体客户名单。此外，该模型在上线短短数天内，用户规模便突破了 100 万大关。 ",
+     "source": "IT之家",
+     "zh": "决策模型 Jev 爆火，开发商 TypeSafe AI 估值已达 75 亿美元"
+    },
+    {
+     "title": "古尔曼爆料苹果 iPhone Duo 折叠屏手机“独有彩蛋”：首次开机能显示自定义用户名",
+     "link": "https://www.ithome.com/1/011/169.htm",
+     "pubDate": "Fri, 09 Oct 2026 23:28:03 GMT",
+     "summary": "IT之家 10 月 10 日消息，北京时间今天（10 日）清晨，彭博社记者马克 · 古尔曼在 X 平台发文爆料称，苹果首款折叠屏手机 iPhone Duo 将拥有一项有趣的小功能：首次开机时，会显示用户名和问候语（形式类似“Hello, Mark”)。该功能将由苹果零售店内的系统提供，可在设备启动时 自定义买家的名字 。 不过古尔曼同时指出，该功能将是美国 iPhone Duo 限定，且仅支持 英语、西班牙语 。 综合IT之家此前报道，早在 2023 年 10 月，古尔曼就首次披露了这套系统的存在，随后外媒 9to5Mac 也发现了 iOS 17.2 系统中与此功能相关的代码。Presto 系",
+     "source": "IT之家",
+     "zh": "古尔曼爆料苹果 iPhone Duo 折叠屏手机“独有彩蛋”：首次开机能显示自定义用户名"
+    },
+    {
      "title": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2",
      "link": "https://www.ithome.com/1/011/168.htm",
      "pubDate": "Fri, 09 Oct 2026 23:22:42 GMT",
      "summary": "IT之家 10 月 10 日消息，科技媒体 Windows Latest 昨日（10 月 9 日）发布博文，报道称微软正通过驱动程序质量倡议（Driver Quality Initiative，DQI）推动合作伙伴提升 Windows 驱动质量。 IT之家援引博文介绍，微软表示单靠操作系统厂商无法提升整个 Windows 生态的质量，因此推出 DQI 驱动程序质量倡议。该框架由微软与硬件生态伙伴协作推进，覆盖驱动架构、信任、生命周期及质量衡量。 报道称英特尔是首家呼应本次倡议的厂商，已在 2026 年 10 月更新的 GPU 驱动（版本号为 32.0.101.9034）中，添加支持 Windo",
      "source": "IT之家",
      "zh": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2"
+    },
+    {
+     "title": "00后“戒断”AI短剧：一个月卸载了5次",
+     "link": "https://www.huxiu.com/article/4896306.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 07:22:25 +0800",
+     "summary": "本文来自微信公众号： 表外表里 ，编辑：陈梓洁曹宾玲，作者：洞见数据研究院 一个小时，可以背几十个英语单词，也能刷完一整季AI短剧。 正在备战考研的木兰崩溃了，明明拿起手机想打开的是学习软件，结果“误触”了红果。等她回过神来，一个下午已经过去了。 她又一次卸载了APP。这已经是本月第3次，而她知道还会有第4次、第5次、第N次…… AI短剧太上头了，无论是城市地铁，还是老家地头，埋头刷剧的人遍地开花。甚至同一个屋檐下，60多岁的奶奶盯着家庭伦理剧抹眼泪，8岁的孙子闹着要看AI动物人。 木兰和许多00后同龄人同样深陷其中，几秒一个反转的情节拉满爽感，但放下手机，只剩一片更大的空虚。“明知该挣脱，偏",
+     "source": "虎嗅",
+     "zh": "00后“戒断”AI短剧：一个月卸载了5次"
     },
     {
      "title": "【钛晨报】中央重磅部署19项举措，新质生产力发展路径明确；证监会发文，权益类基金成立门槛拟降至5000万元；浙商大佬俞发祥遭立案，两家A股公司回应",
@@ -1738,12 +1762,28 @@ window.INDUSTRY_DATA = {
      "zh": "【钛晨报】中央重磅部署19项举措，新质生产力发展路径明确；证监会发文，权益类基金成立门槛拟降至5000万元；浙商大佬俞发祥遭立案，两家A股公司回应"
     },
     {
+     "title": "安妮·卡森",
+     "link": "https://www.huxiu.com/article/4896305.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 07:18:59 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 2026年10月8日，斯德哥尔摩下午一点，瑞典学院常务秘书英格丽德·卡尔贝里走出那扇门，念了一个名字。安妮·卡森。 念之前她打过一通电话。电话那头的人没说几句。卡尔贝里后来对记者讲，她只来得及告诉我，她这会儿在冰岛，在听风。 七十六岁的人，被冰岛国家电视台的记者截在一处风很大的路边，一只手一直按着帽子。问她什么感觉，她说，“疯了，我觉得他们全疯了，嗯，你知道的，就是疯了”。 又问，得了这个奖，读你书的人会不会变。她说，我的书封面上会多一张贴纸。 世上分量最重的文学奖砸到头上，她惦记的是贴纸。圆圆一小片，金的，贴在封面一角，撕的时候总撕不干净，留一",
+     "source": "虎嗅",
+     "zh": "安妮·卡森"
+    },
+    {
      "title": "宝马北美调查：电动汽车买家想要远超自身需求的续航里程",
      "link": "https://www.ithome.com/1/011/167.htm",
      "pubDate": "Fri, 09 Oct 2026 23:18:39 GMT",
      "summary": "IT之家 10 月 10 日消息，据外媒 motor1 今天（10 日）报道，9 月 11 日至 13 日，宝马集团北美公司对 1005 名美国成年人进行的一项调查发现，消费者日常开车所需的续航里程，与购车时提出的要求存在巨大差距。 73% 的受访者称，每天开车不超过 121 公里就能满足日常需求。无论是上下班还是外出办事，电动汽车的电池通常只需消耗少量电量，就足以应付这些行程。但当同一批受访者被问及买车时对续航里程的要求，答案却截然不同。 调查显示，42% 的受访者要求电动汽车续航里程 至少达到 483 公里 ，18% 的受访者只有在续航里程 不低于 644 公里时，才愿意考虑购买电动汽车 ",
      "source": "IT之家",
      "zh": "宝马北美调查：电动汽车买家想要远超自身需求的续航里程"
+    },
+    {
+     "title": "“尊界V800踏板支架断裂”事件后，门店销售称客流少了但无人退车，“目前跟我们说的是会升级”，专家建议排查供应商、检测与安装环节",
+     "link": "https://www.huxiu.com/article/4896304.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 07:18:36 +0800",
+     "summary": "本文来自微信公众号： 每经头条 ，编辑：金冥羽易启江，作者：每经记者，原文标题：《“尊界V800踏板支架断裂”事件后，门店销售称客流少了但无人退车，“目前跟我们说的是会升级”！专家建议排查供应商、检测与安装环节》 “这两天肯定受到了影响，店内的客流量明显少了，但目前还没有车主说要退车，也没有人来要说法。”10月9日晚间，北京某鸿蒙智行尊界用户中心销售人员向《每日经济新闻》记者坦言，懂车帝对尊界V800的相关实测视频发布后，他所在的门店客流量明显下滑。 10月8日，懂车帝发布的一则测试视频显示，三辆尊界V800在“100km/h-0基础制动性能实验”中，刹车踏板在踩刹车时支架发生断裂。随后，该事",
+     "source": "虎嗅",
+     "zh": "“尊界V800踏板支架断裂”事件后，门店销售称客流少了但无人退车，“目前跟我们说的是会升级”，专家建议排查供应商、检测与安装环节"
     },
     {
      "title": "微软推出 Microsoft-Decision-1 决策模型，基于 Qwen3.5-9B",
@@ -1770,20 +1810,12 @@ window.INDUSTRY_DATA = {
      "zh": "部分用户反馈谷歌 Gboard 输入法 Shift 键失灵，导致无法输入大写字母"
     },
     {
-     "title": "德国交通部提出异议后，特斯拉在欧洲市场将 FSD 更名为“特斯拉辅助驾驶”",
-     "link": "https://www.ithome.com/1/011/164.htm",
-     "pubDate": "Fri, 09 Oct 2026 22:59:03 GMT",
-     "summary": "IT之家 10 月 10 日消息，当地时间 9 日，据外媒 TechCrunch 报道，特斯拉在德国交通部提出异议后，决定将欧洲市场的高级驾驶辅助系统 由“完全自动驾驶（监督版）”更名为“特斯拉辅助驾驶” 。 特斯拉为此作出了重大让步。多年来，尽管该系统要求驾驶员时刻注意路况，必要时接管车辆，特斯拉始终沿用“完全自动驾驶”的名称。 更名则有望帮助特斯拉在欧洲推广该系统，为公司开辟一项潜在的巨额收入来源。 据IT之家了解，本月早些时候，德国交通部长施特芬 · 比尔格指出，由于该系统无法独立完成全部驾驶任务，“完全自动驾驶”的名称 容易造成误解 。 德国交通部公告显示，比尔格上个月与特斯拉进行了沟",
-     "source": "IT之家",
-     "zh": "德国交通部提出异议后，特斯拉在欧洲市场将 FSD 更名为“特斯拉辅助驾驶”"
-    },
-    {
-     "title": "谷歌预告 10 月 12 日将推新品，预估为 Fitbit Edge 手环",
-     "link": "https://www.ithome.com/1/011/163.htm",
-     "pubDate": "Fri, 09 Oct 2026 22:53:39 GMT",
-     "summary": "IT之家 10 月 10 日消息，谷歌 Google Health 官方账号（ @googlehealth ）今天（10 月 10 日）在 X 平台发布推文，预告将于 10 月 12 日发布新款产品，预估关联近期 Fitbit Edge 健身手环。 图片展示了疑似设备侧边按键，配文写有“Get an Edge on your health”和“10.12.26”。 这款设备的相关图片最早可追溯至 8 月。当时，9to5Google 在谷歌 Pixel 11 的宣传材料中发现一款未命名健身追踪器。法国媒体 Dealabs 后续报道了设计、续航和可能售价等信息。 据 Dealabs 报道，关闭常亮",
-     "source": "IT之家",
-     "zh": "谷歌预告 10 月 12 日将推新品，预估为 Fitbit Edge 手环"
+     "title": "Neanderthal wooden tools from Spain found preserved in stone",
+     "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+     "pubDate": "Fri, 09 Oct 2026 22:34:03 +0000",
+     "summary": "Dissolved rock precipitated around the tools, which then decayed.",
+     "source": "Ars Technica",
+     "zh": "Neanderthal wooden tools from Spain found preserved in stone"
     },
     {
      "title": "Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M (Chris Metinko/Axios)",
@@ -1826,6 +1858,30 @@ window.INDUSTRY_DATA = {
      "zh": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen"
     },
     {
+     "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+     "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+     "pubDate": "Fri, 09 Oct 2026 22:04:07 +0000",
+     "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+     "source": "Ars Technica",
+     "zh": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\""
+    },
+    {
+     "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+     "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+     "pubDate": "Fri, 09 Oct 2026 21:51:12 +0000",
+     "summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+     "source": "Ars Technica",
+     "zh": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis"
+    },
+    {
+     "title": "NASA issues long-awaited call to industry for private space stations",
+     "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+     "pubDate": "Fri, 09 Oct 2026 21:34:09 +0000",
+     "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+     "source": "Ars Technica",
+     "zh": "NASA issues long-awaited call to industry for private space stations"
+    },
+    {
      "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
      "link": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
      "pubDate": "Fri, 09 Oct 2026 21:25:09 +0000",
@@ -1856,6 +1912,14 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 310 # Comments: 160",
      "source": "Hacker News",
      "zh": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops"
+    },
+    {
+     "title": "What's been driving Hawaii's lava fountains?",
+     "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+     "pubDate": "Fri, 09 Oct 2026 21:05:01 +0000",
+     "summary": "Before the lava fountains started, the ground was expanding by half a meter a day.",
+     "source": "Ars Technica",
+     "zh": "What's been driving Hawaii's lava fountains?"
     },
     {
      "title": "Sources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M (Rebecca Torrence/Bloomberg)",
@@ -1896,70 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
      "source": "WIRED",
      "zh": "Book Publishers Are Quietly Using More AI. Staff Are Revolting"
-    },
-    {
-     "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
-     "link": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
-     "pubDate": "Fri, 09 Oct 2026 19:27:27 +0000",
-     "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
-     "source": "Ars Technica",
-     "zh": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial"
-    },
-    {
-     "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
-     "link": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
-     "pubDate": "Fri, 09 Oct 2026 18:57:58 +0000",
-     "summary": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
-     "source": "TechCrunch",
-     "zh": "Batteries are now cheaper than natural gas turbines used at many data centers"
-    },
-    {
-     "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-     "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-     "pubDate": "Fri, 09 Oct 2026 18:57:06 +0000",
-     "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
-     "source": "TechCrunch",
-     "zh": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers"
-    },
-    {
-     "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
-     "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
-     "pubDate": "Fri, 09 Oct 2026 18:54:52 +0000",
-     "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
-     "source": "Ars Technica",
-     "zh": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023"
-    },
-    {
-     "title": "AI disqualification yields new Nikon Small World in Motion winner",
-     "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-     "pubDate": "Fri, 09 Oct 2026 18:44:06 +0000",
-     "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
-     "source": "Ars Technica",
-     "zh": "AI disqualification yields new Nikon Small World in Motion winner"
-    },
-    {
-     "title": "You might want to try being less creative",
-     "link": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
-     "pubDate": "Fri, 09 Oct 2026 18:39:47 +0000",
-     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 60 # Comments: 29",
-     "source": "Hacker News",
-     "zh": "You might want to try being less creative"
-    },
-    {
-     "title": "Microsoft-Decision-1, our model for fast decision-making",
-     "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-     "pubDate": "Fri, 09 Oct 2026 18:38:44 +0000",
-     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 117 # Comments: 43",
-     "source": "Hacker News",
-     "zh": "Microsoft-Decision-1, our model for fast decision-making"
-    },
-    {
-     "title": "Your artwork could be featured in the next Debian release",
-     "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
-     "pubDate": "Fri, 09 Oct 2026 18:33:26 +0000",
-     "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
-     "source": "Ars Technica",
-     "zh": "Your artwork could be featured in the next Debian release"
     }
    ]
   },
@@ -2290,14 +2290,6 @@ window.INDUSTRY_DATA = {
      "zh": "中概股普遍上涨 纳斯达克中国金龙指数涨2.69%"
     },
     {
-     "title": "美放松俄柴油贸易制裁 特朗普称俄将对美供油",
-     "link": "http://finance.eastmoney.com/news/1356,202610103891648714.html",
-     "pubDate": "Sat, 10 Oct 2026 07:10:12 +0800",
-     "summary": "美国财政部外国资产控制办公室9日发布公告说，在未来几个月放松针对俄罗斯柴油贸易的制裁，以缓解美国内柴油供应紧张、平抑油价。同日，美国总统特朗普宣布，美俄领导人就俄向美国及全球市场提供柴油达成一致。 根据公告，外国资产控制办公室当天发布许可，授权与俄柴油相关的销售、交付、卸货或进口。这一授权将持续至美东时间2027年4月7日零时。 当天下午，特朗普在社交媒体上宣布，他刚与俄罗斯总统普京完成相关讨论，双方同意俄立即向美及全球市场提供超过30万吨柴油，在11月份再提供50万吨。此后，俄方还将向市场提供100万吨柴油。另外，俄方将根据其炼油厂状况在短期交付300万桶柴油。 特朗普称，凭借美国“完全控制",
-     "source": "东方财富股票",
-     "zh": "美放松俄柴油贸易制裁 特朗普称俄将对美供油"
-    },
-    {
      "title": "AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”",
      "link": "https://wallstreetcn.com/articles/3783254",
      "pubDate": "Sat, 10 Oct 2026 07:05:20 +0800",
@@ -2456,6 +2448,14 @@ window.INDUSTRY_DATA = {
      "summary": "美股市场： 美股三大指数10月09日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨423.31点，收于51654.95点，涨幅为0.83%，本周累涨0.93%； 标准普尔 500种股票指数上涨46.18点，收于7811.54点，涨幅为0.59% ，本周累涨1.15% ； 纳斯达克 综合 指数上涨172.83点，收于27366.17点，涨幅为0.64% ，本周累涨0.64 % 。 热门科技股多数上涨， 亚马逊 涨超3%， 微软 、 特斯拉 涨超2%； 苹果 跌超1%，AMD、 英特尔 跌超2%。 有色金属 、加密货币概念股涨幅居前， 南方铜业 涨超5%，Coinbase涨超4%， 必",
      "source": "东方财富资讯",
      "zh": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%"
+    },
+    {
+     "title": "The hazy OpenAI growth metric driving Wall Street",
+     "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 20:57:10 GMT",
+     "summary": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
+     "source": "Financial Times",
+     "zh": "The hazy OpenAI growth metric driving Wall Street"
     }
    ]
   },
@@ -2472,6 +2472,14 @@ window.INDUSTRY_DATA = {
      "summary": "Flu tests are coming back positive at higher rates than is typical for early fall in several Western states, data suggests.",
      "source": "Live Science",
      "zh": "'October is the ideal time to get vaccinated': Flu season is kicking off early, experts say"
+    },
+    {
+     "title": "AI disqualification yields new Nikon Small World in Motion winner",
+     "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+     "pubDate": "Fri, 09 Oct 2026 18:44:06 +0000",
+     "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+     "source": "Ars Technica Science",
+     "zh": "AI disqualification yields new Nikon Small World in Motion winner"
     },
     {
      "title": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years.",
@@ -2696,14 +2704,6 @@ window.INDUSTRY_DATA = {
      "summary": "To date, this Atlantic tropics year has been exceptionally quiet.",
      "source": "Ars Technica Science",
      "zh": "It looks like the Atlantic storm season may finally produce a hurricane"
-    },
-    {
-     "title": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away",
-     "link": "https://news.mit.edu/2026/astronomers-catch-star-slowly-snacking-on-brown-dwarf-1005",
-     "pubDate": "Mon, 05 Oct 2026 11:00:00 -0400",
-     "summary": "The discovery reveals a new way that stars and planetary companions can interact.",
-     "source": "MIT News",
-     "zh": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away"
     }
    ]
   }

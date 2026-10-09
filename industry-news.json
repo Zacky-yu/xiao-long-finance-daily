@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/9 14:11:49",
+ "generated_at": "2026/10/9 14:31:44",
  "recent_days": 7,
  "industries": [
   {
@@ -1705,6 +1705,70 @@
    "total": 18,
    "items": [
     {
+     "title": "Liquid AI 开源 d1 系列决策模型：单次判断仅 8 毫秒，支持图像输入",
+     "link": "https://www.ithome.com/1/010/946.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:29:07 GMT",
+     "summary": "IT之家 10 月 9 日消息，Liquid AI 于 10 月 7 日发布博文，宣布推出 d1 系列两款开放权重决策模型：d1-3B 支持 31.2 亿参数的文本与图像判断， d1-omni-600M 以 5.87 亿参数支持文本、图像及语音输入。 IT之家援引博文介绍， 在 Jev 模型 9 月推出爆火后 ， OpenAI 等公司也相继推出类似的决策模型 ，而 Liquid AI 是加入该战局的新成员，本次推出的 d1-3B 与 d1-omni-600M 已在 Hugging Face 公开，用户可下载、微调并部署。 d1-3B 拥有 31.2 亿参数，基于视觉语言模型 LFM2.5-VL",
+     "source": "IT之家",
+     "zh": "Liquid AI 开源 d1 系列决策模型：单次判断仅 8 毫秒，支持图像输入"
+    },
+    {
+     "title": "Sources: Apple told some suppliers to cut iPhone 18 Pro and Pro Max component production by 15%-20% as higher memory costs pushed up prices and hurt demand (Nikkei Asia)",
+     "link": "https://www.techmeme.com/261009/p3#a261009p3",
+     "pubDate": "Fri, 09 Oct 2026 02:25:06 -0400",
+     "summary": "Nikkei Asia : Sources: Apple told some suppliers to cut iPhone 18 Pro and Pro Max component production by 15%-20% as higher memory costs pushed up prices and hurt demand &nbsp; &mdash;&nbsp; TAIPEI &mdash; Apple has told some of its suppliers to cut production of components for its newly launched iP",
+     "source": "Techmeme",
+     "zh": "Sources: Apple told some suppliers to cut iPhone 18 Pro and Pro Max component production by 15%-20% as higher memory costs pushed up prices and hurt demand (Nikkei Asia)"
+    },
+    {
+     "title": "吉利星瑞 L PLUS 将于 10 月 17 日正式上市，限时预售价 11.57 万元起",
+     "link": "https://www.ithome.com/1/010/936.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:18:48 GMT",
+     "summary": "IT之家 10 月 9 日消息，据易车消息，吉利星瑞 L PLUS 将于 10 月 17 日正式上市。 据IT之家此前报道， 吉利星瑞 L PLUS i-HEV 于 9 月 16 日启动预售 ，新车定位为宽体旗舰智混家轿，限时预售价 11.57 万元起。 新车长宽高分别为 4956mm/1915mm/1505mm，轴距 2845mm；整体延续家族式设计风格，提供枫林丹红、秋水长蓝、暮山紫灰、长天烁银、清秋玉白、远山凝墨 6 款车漆，以及米色、黑色（又分为皮质、麂皮）共 3 款内饰。 新车搭载前麦弗逊 + 后多连杆独立悬架，搭载吉利 i-HEV 智擎混动技术：1.5TD 混动专用发动机最大功率为",
+     "source": "IT之家",
+     "zh": "吉利星瑞 L PLUS 将于 10 月 17 日正式上市，限时预售价 11.57 万元起"
+    },
+    {
+     "title": "海盗船 WARTHOG 机箱预售：军武风格，到手价 1599 元",
+     "link": "https://www.ithome.com/1/010/930.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:17:41 GMT",
+     "summary": "IT之家 10 月 9 日消息，CORSAIR（海盗船）现已在国内市场预售机箱新品 WARTHOG。这一拥有军武风格设计的硬朗型号在国内被称为“路霸”，到手价 1,599 元。 京东 海盗船 WARTHOG Airflow 机箱 橄榔绿 1599 元 直达链接 WARTHOG 基于 FRAME 4000D 平台打造，是 2012 年 Vengeance C70“弹药箱”机箱的精神继任者。 其采用坚固的钢板打造， 配备一体式搬运提手 ；拥有 3D Y 型镂空前板；支持背插主板，拥有 RapidRoute 2.0 主板托盘；正面和顶部配备 InfiniRail 风扇安装系统；内置 GPU 支架。 ",
+     "source": "IT之家",
+     "zh": "海盗船 WARTHOG 机箱预售：军武风格，到手价 1599 元"
+    },
+    {
+     "title": "恐影响续航：佳明承认 Fenix 8 智能手表存在亮度无法回落问题",
+     "link": "https://www.ithome.com/1/010/929.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:17:00 GMT",
+     "summary": "IT之家 10 月 9 日消息，科技媒体 gadgetsandwearables 昨日（10 月 8 日）发布博文，报道称 佳明（Garmin）承认 Fenix 8 的 AMOLED 屏幕存在亮度无法自动回落的 Bug，可能会加速耗电。 在受影响版本方面，该问题最早出现在软件版本 23.31 中，不过部分用户在版本 23.39 下仍报告相同现象。 图源：佳明 在问题表现上，IT之家援引博文介绍，根据社区用户反馈，在启用“始终显示”（Always On Display），同时关闭“抬腕亮屏”功能之后，在强光环境下，手表会自动调高亮度，但佩戴者随后进入较暗环境后，屏幕亮度有时无法自动降低。 佳明于",
+     "source": "IT之家",
+     "zh": "恐影响续航：佳明承认 Fenix 8 智能手表存在亮度无法回落问题"
+    },
+    {
+     "title": "SK 集团会长崔泰源：半导体需求快速增长，只要条件允许就会尽快建厂",
+     "link": "https://www.ithome.com/1/010/928.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:16:44 GMT",
+     "summary": "IT之家 10 月 9 日消息，据韩媒 fnnews 报道，SK 集团会长崔泰源今天（9 日）前往韩国光州军用机场，考察半导体工厂拟建厂址。他谈及韩国湖南地区的建厂计划时说：“目前规划的规模相当于龙仁项目的三分之二。如果能拿到更多土地，预计规模还会扩大。” 崔泰源进一步表示，“ 半导体需求快速增长，我们必须加快供应。只要条件允许，就会尽快建厂 。具体什么时候能开工还说不准，但会尽可能加快进度。即使供水供电跟不上，只要能够提前开工，我们也会先行进场。节省建设成本并不是我们重点考虑的事情。” 延伸阅读 此次崔泰源考察的光州军用机场位于韩国光州光山区松汀洞一带，是韩国政府规划的湖南（西南部）半导体产",
+     "source": "IT之家",
+     "zh": "SK 集团会长崔泰源：半导体需求快速增长，只要条件允许就会尽快建厂"
+    },
+    {
+     "title": "苹果新品全家桶大剧透，最大的个人AI 终端是你家",
+     "link": "https://www.huxiu.com/article/4896132.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 14:09:11 +0800",
+     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《苹果新品全家桶大剧透，最大的个人 AI 终端是你家》 过去十几年，苹果把越来越多设备放进了我们的口袋、背包和手腕，却始终没能在客厅里找到同样稳固的位置。 如今，一封写着「Welcome home」的邀请函，宣告苹果准备重新争取这个位置。 苹果已正式官宣将于当地时间10月13日在纽约举行新品发布活动。预计登场的产品包括一款配备屏幕的家庭中枢、新一代HomePod mini，以及更新后的Apple TV 4K。 贯穿三款设备的核心，是屡次「跳票」的新一代Siri AI。 邀请函上的苹果标志由织物般的线条组成，彭博社记者Mark ",
+     "source": "虎嗅",
+     "zh": "苹果新品全家桶大剧透，最大的个人AI 终端是你家"
+    },
+    {
+     "title": "GLP-1能“减龄”2-4岁？",
+     "link": "https://www.huxiu.com/article/4896131.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 14:08:51 +0800",
+     "summary": "本文来自微信公众号： 医曜 ，作者：李景易 有意思的事情发生了。 10月1日，我们的国庆假期第一天，美国波士顿ARDD（衰老研究与药物发现）会议的议程上，出现了少见的一幕：诺和与礼来，GLP-1的两大卖家，在同一周交出了同一类数据，生物学年龄时钟。 数据分两份，一厚一薄。 厚的那份来自诺和诺德。汇总五项司美格鲁肽试验、10,052名参与者的蛋白组数据，约一半用药、一半安慰剂，首次随访时“心脏生物学年龄”降低约2到4年。再用SELECT试验的效应数据，在英国19,117人的真实世界队列里建模，推算出1.9个额外生命年。 薄的那份来自礼来。SURMOUNT-5替尔泊肽臂的71对血样，15个表观遗传",
+     "source": "虎嗅",
+     "zh": "GLP-1能“减龄”2-4岁？"
+    },
+    {
      "title": "消息称三星近期预计 2026Q4 智能手机产量 2420 万台，下滑 23%",
      "link": "https://www.ithome.com/1/010/923.htm",
      "pubDate": "Fri, 09 Oct 2026 06:08:43 GMT",
@@ -1713,44 +1777,12 @@
      "zh": "消息称三星近期预计 2026Q4 智能手机产量 2420 万台，下滑 23%"
     },
     {
-     "title": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞",
-     "link": "https://www.ithome.com/1/010/922.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:08:02 GMT",
-     "summary": "IT之家 10 月 9 日消息，当地时间 10 月 8 日，Anthropic 宣布正式推出面向开源软件的可选接入型漏洞检测服务 OSS Scanner，加入该项目的开源软件将由 Anthropic 最强大的 AI 模型（包括 Claude Mythos）提供全面的定期免费安全扫描。 符合条件的开源项目核心维护者，只需按照标准项目模板向 OSS Scanner GitHub 仓库 提交拉取请求（PR）即可完成申请接入。其审核标准类似于谷歌的 OSS-Fuzz，优先面向“对关键基础设施与用户安全具有重大影响”的基础开源项目。 据介绍，过去六个月里，Anthropic 利用最新模型对全球多款核心软",
-     "source": "IT之家",
-     "zh": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞"
-    },
-    {
-     "title": "10 月 9 日今晚 20:00 双十一全面抢：京东家居家电 3C 数码年内好价，OPPO N6 折叠屏国补 10%",
-     "link": "https://www.ithome.com/1/010/921.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:07:22 GMT",
-     "summary": "京东数码 3C 家居家电今晚 20:00 正式开启 双十一全面抢 ，现在可去主会场领加码 9 折券： 点此领券 。 多数 家电 支持 30 天价保（宝贝页面可见价保时间），今晚 20:00 下单，可以 选择 11 月 1 日后送货 ，已保拿到非常称心如意的价格。 家电家居主会场 可领 加码 9 折券 ，海尔冰箱 1985 元抢，TCL 空调 1645 元抢： 点此查看 。 空调 多重补贴至高立减 50%，新一级能效省电空调年内好价： 点此查看 。 厨卫大家电 大热烟灶热水器低至 8 折： 点此查看 。 厨房小家电 低至 5 折，电热水壶 38 元 + 养生壶 59 元： 点此查看 。 生活小家",
-     "source": "IT之家",
-     "zh": "10 月 9 日今晚 20:00 双十一全面抢：京东家居家电 3C 数码年内好价，OPPO N6 折叠屏国补 10%"
-    },
-    {
-     "title": "Counterpoint：无需担忧 HBM 内存需求放缓，更高堆叠仍是行业趋势",
-     "link": "https://www.ithome.com/1/010/920.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:00:22 GMT",
-     "summary": "IT之家 10 月 9 日消息，机构 Counterpoint Research 韩国当地时间昨日根据其内部审查结果表示，最近整个存储器行业对 HBM 需求放缓的担忧“基于错误信息”。 机构宣称， 高堆叠 HBM 内存的普及趋势将持续下去 ，更多 NVIDIA（英伟达）Rubin GPU 转向 12Hi HBM4，而 ASIC 解决方案中也没有出现仅有 4 层堆叠的 HBM 内存。 该机构认为，对于 AI XPU 的工作负载而言， 确保带宽和容量比降低成本更为重要 。 参考 카운터포인트 “HBM4 탑재량 축소설 과도”, 삼성 실적엔 청신호",
-     "source": "IT之家",
-     "zh": "Counterpoint：无需担忧 HBM 内存需求放缓，更高堆叠仍是行业趋势"
-    },
-    {
-     "title": "孙正义大手笔加码 AI 投资，曝软银寻求向海湾投资者募资千亿美元",
-     "link": "https://www.ithome.com/1/010/918.htm",
-     "pubDate": "Fri, 09 Oct 2026 05:56:00 GMT",
-     "summary": "IT之家 10 月 9 日消息，据英国《金融时报》今天（9 日）下午报道，软银集团创始人孙正义寻求向海湾地区投资者募集 最多 1,000 亿美元 （IT之家注：现汇率约合 6,715.26 亿元人民币） ，为进一步扩大 AI 投资筹措资金。此前，孙正义在 AI 领域投入巨资，成为这项技术最积极的支持者之一。 多名知情人士透露，过去几周，孙正义与多位高层人士商讨了融资事宜，其中包括阿联酋方面的人士。 这是孙正义一系列大胆 AI 投资计划的最新一步。此前，他曾向 OpenAI 投资 650 亿美元 （现汇率约合 4,364.92 亿元人民币） 。按照其此前说法，AI 是“革命性技术的领域”。 与此",
-     "source": "IT之家",
-     "zh": "孙正义大手笔加码 AI 投资，曝软银寻求向海湾投资者募资千亿美元"
-    },
-    {
-     "title": "《巫师 3：重制版》首个大型补丁发布：游戏主机端消除画面泛白现象",
-     "link": "https://www.ithome.com/1/010/917.htm",
-     "pubDate": "Fri, 09 Oct 2026 05:51:08 GMT",
-     "summary": "IT之家 10 月 9 日消息，CD Projekt Red 昨日（10 月 8 日）发布《巫师 3：重制版》（The Witcher 3 Remastered）的首个大型补丁 5.01， 重点针对主机玩家调整泛光，减少画面过亮、泛白、像蒙了一层雾的问题。 IT之家附上本次更新日志内容如下： 游戏玩法 修复了“自动涂抹刀刃油”功能仅在当前游戏会话中开启时才会生效的问题。 修复了在特定情况下，玩家操控的船只可能不受控制地移动，并忽略地形碰撞的问题。 改进了梯子交互动画。 修复了杰洛特使用阿尔德法印完成终结技后，会与已死亡敌人发生碰撞的问题。 修复了多次施放昆恩法印时，维瑟米尔会反复说同一句台词的",
-     "source": "IT之家",
-     "zh": "《巫师 3：重制版》首个大型补丁发布：游戏主机端消除画面泛白现象"
+     "title": "微软被暂停参与允许外籍员工申请绿卡的项目",
+     "link": "https://www.solidot.org/story?sid=85556",
+     "pubDate": "Fri, 09 Oct 2026 13:47:12 +0800",
+     "summary": "特朗普政府暂停了微软等多家公司参与一项允许外籍员工申请绿卡的项目，副总统 JD Vance 公开抨击微软滥用 H-1B 签证。微软被暂停参与的项目要求公司在向美国劳工部申请绿卡前，必须先在美国发布招聘广告，以证明由于美国工人短缺，他们需要向外籍工人发放绿卡。JD Vance 指责了微软的做法，称微软首先在小城镇的报纸上刊登招聘广告，然后以无人应聘为由宣称需要外籍员工。Vance 称微软是最频繁滥用这套制度的美国公司。微软去年裁掉了 6000 名美国员工，同时获得了 6300 个 H-1B 签证和近 3000 张绿卡。Vance 称微软每裁掉一名美国员工，就用 1.5 名外籍“契约劳工”来替代他",
+     "source": "Solidot",
+     "zh": "微软被暂停参与允许外籍员工申请绿卡的项目"
     },
     {
      "title": "RSI“出圈”背后：AI自我进化，卡在了哪里？",
@@ -1772,7 +1804,7 @@
      "title": "Show HN: Quake ported to safe Rust, playable in browser",
      "link": "https://quake-srp.pages.dev/",
      "pubDate": "Fri, 09 Oct 2026 05:22:58 +0000",
-     "summary": "Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 36 # Comments: 10",
+     "summary": "Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 77 # Comments: 42",
      "source": "Hacker News",
      "zh": "Show HN: Quake ported to safe Rust, playable in browser"
     },
@@ -1857,22 +1889,6 @@
      "zh": "国内卖超百亿、海外却“未达标”？抗癌药企艾力斯连续两天暴跌"
     },
     {
-     "title": "ChatGPT 量产了真实，也复兴了“伪纪录片”",
-     "link": "https://www.huxiu.com/article/4896120.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 12:49:09 +0800",
-     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《ChatGPT 量产了真实，也复兴了「伪纪录片」》 「我是一名喜欢登山的大学生，今年5月，我和朋友们决定挑战哀牢山……」 最近几个月，这种由看似真实的照片拼贴而成的「AI伪纪录片」在抖音迅速崛起。 图片来自：抖音@鼠鼠脑洞批发 以假乱真的「照片」、用标签功能讲故事、第一人称短句、悬念十足的开头，配上幽然怪异的《空山·野马》或《森羅清浄事祓》BGM，就像是学生时代宿舍里传阅的《十宗罪》和《藏地密码》，用一种更令人脊背发凉的形式秽土重生了。 从都市怪谈出发，一路延伸到恐怖小说、刑事悬案、聊斋志异乃至特德·姜的奇幻故事等",
-     "source": "虎嗅",
-     "zh": "ChatGPT 量产了真实，也复兴了“伪纪录片”"
-    },
-    {
-     "title": "谁在改造波士顿动力？",
-     "link": "https://www.huxiu.com/article/4896118.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 12:37:01 +0800",
-     "summary": "本文来自微信公众号： 具身志 ，编辑：越十三，作者：仲庆元 报道提要 谷歌的一场内部争论、仓库里搬得太慢的机器人、汽车工业介入Atlas设计。波士顿动力34年的故事，不只关乎它造出了什么，也关乎是什么一次次改变了它。 2026年10月7日，美国机器人公司波士顿动力的新任CEO正式履职。他最为人熟知的作品，是亚马逊的语音助手Alexa。 罗希特·普拉萨德（Rohit Prasad）曾参与把Alexa从早期项目做成大规模消费级AI服务，后来又领导了AI基础模型Nova的开发。波士顿动力在任命公告里强调的，正是他把AI技术变成产品和业务的经历。 这家以机器人运动能力闻名的公司，把下一阶段交给了一位有",
-     "source": "虎嗅",
-     "zh": "谁在改造波士顿动力？"
-    },
-    {
      "title": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties (Emily Forlini/Fortune)",
      "link": "https://www.techmeme.com/261009/p1#a261009p1",
      "pubDate": "Fri, 09 Oct 2026 00:05:01 -0400",
@@ -1921,28 +1937,12 @@
      "zh": "日薪120元，我给机器人当“老师”"
     },
     {
-     "title": "Microsoft denies JD Vance&apos;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)",
-     "link": "https://www.techmeme.com/261008/p55#a261008p55",
-     "pubDate": "Thu, 08 Oct 2026 22:15:56 -0400",
-     "summary": "Associated Press : Microsoft denies JD Vance's claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees &nbsp; &mdash;&nbsp; President Donald Trump's administration announced Thursday it was suspending Microsoft and several o",
-     "source": "Techmeme",
-     "zh": "Microsoft denies JD Vance&apos;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)"
-    },
-    {
-     "title": "Reducing undefined behavior in the C language",
-     "link": "https://lwn.net/Articles/1095811/",
-     "pubDate": "Fri, 09 Oct 2026 02:02:53 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 77 # Comments: 47",
+     "title": "Keyboard differences between Windows and Macs",
+     "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+     "pubDate": "Fri, 09 Oct 2026 03:08:05 +0000",
+     "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 61 # Comments: 52",
      "source": "Hacker News",
-     "zh": "Reducing undefined behavior in the C language"
-    },
-    {
-     "title": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)",
-     "link": "https://www.techmeme.com/261008/p54#a261008p54",
-     "pubDate": "Thu, 08 Oct 2026 21:55:00 -0400",
-     "summary": "Sergiu Gatlan / BleepingComputer : A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions &nbsp; &mdash;&nbsp; The co-creator of Empire Market, one of the largest dark web marketplaces before it",
-     "source": "Techmeme",
-     "zh": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)"
+     "zh": "Keyboard differences between Windows and Macs"
     }
    ]
   },
@@ -1952,6 +1952,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Users say ‘Gemini as the Google Assistant is a disaster’",
+     "link": "https://www.androidauthority.com/gemini-vs-google-assistant-complaints-3721074/",
+     "pubDate": "Fri, 09 Oct 2026 06:08:58 +0000",
+     "summary": "Google forced Gemini on Assistant users, and they're not happy about it.",
+     "source": "Android Authority",
+     "zh": "Users say ‘Gemini as the Google Assistant is a disaster’"
+    },
     {
      "title": "Anthropic is cracking down on people who bully Claude",
      "link": "https://www.androidauthority.com/anthropic-claude-abuse-policy-3721062/",
@@ -2145,14 +2153,6 @@
      "zh": "Apple announces October 13 event for new smart home products"
     },
     {
-     "title": "Survey suggests a small Android Auto design change is proving surprisingly divisive",
-     "link": "https://www.androidauthority.com/android-auto-wavy-progress-bar-poll-results-3720992/",
-     "pubDate": "Thu, 08 Oct 2026 20:54:22 +0000",
-     "summary": "It's just a progress bar, isn't it?",
-     "source": "Android Authority",
-     "zh": "Survey suggests a small Android Auto design change is proving surprisingly divisive"
-    },
-    {
      "title": "Child safety group calls ChatGPT for Teens an unacceptable risk",
      "link": "https://www.engadget.com/2281719/child-safety-group-calls-chatgpt-for-teens-an-unacceptable-risk/",
      "pubDate": "Thu, 08 Oct 2026 20:36:46 +0000",
@@ -2201,6 +2201,110 @@
    "total": 13,
    "items": [
     {
+     "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+     "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+     "pubDate": "Fri, 09 Oct 2026 06:28:26 GMT",
+     "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+     "source": "CNBC",
+     "zh": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says"
+    },
+    {
+     "title": "法兴大空头：AI热潮正在复刻亚洲金融危机，致命的是债务“定时炸弹”",
+     "link": "https://wallstreetcn.com/articles/3783252",
+     "pubDate": "Fri, 09 Oct 2026 14:26:13 +0800",
+     "summary": "法国兴业银行首席策略师Albert Edwards发出警告：当前的AI投资热潮与1997年亚洲金融危机存在惊人相似之处—— 不是因为技术本身无用，而是因为资本流入的速度远远快于生产率改善的速度，而填补这一缺口的，历史上从来都是债权人，而非工程师。 Edwards在其最新一期《全球策略周报》中指出，衡量技术实际效益的全要素生产率（TFP）数据迄今毫无起色，但全球AI资本开支已然狂飙，高盛预计仅2026年一年全球AI投资规模就将突破1万亿美元。与此同时，OpenAI年化营收 被披露较此前预期低约200亿美元 ，消息一出，纳斯达克当日重挫逾1%，令\"需求旺盛\"的叙事遭受直接冲击。 在Edwards看",
+     "source": "华尔街见闻",
+     "zh": "法兴大空头：AI热潮正在复刻亚洲金融危机，致命的是债务“定时炸弹”"
+    },
+    {
+     "title": "首批基层病种单行发布，医保支付改革助力分级诊疗提质增效",
+     "link": "http://www.eeo.com.cn/2026/1009/1058430.shtml",
+     "pubDate": "Fri, 09 Oct 2026 14:26:12 +0800",
+     "summary": "21世纪经济报道记者 闫硕 近日，国家医保局正式发布按病种付费3.0版分组方案，并推荐第一批基层病种，包含DRG基层病组31个、DIP基层病种127个，供各地参照落地。10月9日，国家医保局对第一批基层病种进行单行公布。 基层病种是指适宜在符合条件的二级及以下医疗机构收治，且诊疗技术成熟的常见病、多发病及部分慢性病病种。基层病种的核心机制是“同病同付”，即在同一个统筹地区内，原则上医保部门对不同等级医疗...",
+     "source": "经济观察网",
+     "zh": "首批基层病种单行发布，医保支付改革助力分级诊疗提质增效"
+    },
+    {
+     "title": "凯伦股份10月9日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891186343.html",
+     "pubDate": "Fri, 09 Oct 2026 14:25:12 +0800",
+     "summary": "以下是 凯伦股份 在北京时间10月9日14:25分盘口异动快照： 10月9日， 凯伦股份 盘中涨幅达5%，截至14点25分，报13.55元，成交1.09亿元，换手率2.64%。 分笔 报价 卖五 13.61 2 卖四 13.6 157 卖三 13.59 33 卖二 13.57 9 卖一 13.56 65 买一 13.53 23 买二 13.52 39 买三 13.51 15 买四 13.5 26 买五 13.49 4 最新： 13.55 涨幅： 5.04% 涨跌： 0.65 换手率：2.64% 成交量：8.44万手 成交额：1.09亿元 主力净流入： 1229.54 万元 &emsp;&ems",
+     "source": "东方财富股票",
+     "zh": "凯伦股份10月9日盘中涨幅达5%"
+    },
+    {
+     "title": "*ST沐邦10月9日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891184338.html",
+     "pubDate": "Fri, 09 Oct 2026 14:24:33 +0800",
+     "summary": "以下是 *ST沐邦 在北京时间10月9日14:24分盘口异动快照： 10月9日14点24分， *ST沐邦 盘中打开涨停，现报8.55元，成交9202.72万元，换手率2.66%。该股之前于14点22分涨停。 分笔 报价 卖五 - 0 卖四 - 0 卖三 - 0 卖二 - 0 卖一 8.56 1150 买一 8.55 185 买二 8.54 95 买三 8.49 30 买四 8.48 106 买五 8.46 336 最新： 8.55 涨幅： 9.90% 涨跌： 0.77 换手率：2.66% 成交量：11.53万手 成交额：9202.72万元 主力净流入： 531.78 万元 &emsp;&ems",
+     "source": "东方财富股票",
+     "zh": "*ST沐邦10月9日打开涨停"
+    },
+    {
+     "title": "移远通信10月9日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891183938.html",
+     "pubDate": "Fri, 09 Oct 2026 14:23:50 +0800",
+     "summary": "以下是 移远通信 在北京时间10月9日14:23分盘口异动快照： 10月9日， 移远通信 盘中涨幅达5%，截至14点23分，报72元，成交10.58亿元，换手率3.75%。 分笔 报价 卖五 72.02 5 卖四 72.01 1 卖三 72 175 卖二 71.99 6 卖一 71.98 19 买一 71.85 5 买二 71.84 23 买三 71.82 16 买四 71.81 40 买五 71.8 21 最新： 72 涨幅： 5.12% 涨跌： 3.51 换手率：3.75% 成交量：15.24万手 成交额：10.58亿元 主力净流入： 7670.49 万元 &emsp;&emsp;10月9",
+     "source": "东方财富股票",
+     "zh": "移远通信10月9日盘中涨幅达5%"
+    },
+    {
+     "title": "算力租赁商Nebius计划上调NVIDIA GPU按需租金17%—21%，创业板算力ETF天弘（158061）标的指数跌超1%，换手率近60%为同标的第一",
+     "link": "http://stock.eastmoney.com/news/11622,202610093891184983.html",
+     "pubDate": "Fri, 09 Oct 2026 14:23:35 +0800",
+     "summary": "盘面上，两市探底回升，算力板块下跌。相关ETF方面，创业板算力ETF天弘（158061）标的指数盘中跌1.94%，申购额达7600万份；成交额达2.17亿元；换手率达57.92%，为同标的第一。成分股中， 科翔股份 、 强达电路 、 润泽科技 、 明阳电路 、 满坤科技 跌超5%， 高澜股份 、 申菱环境 、 金百泽 等多股跟跌。 值得关注的是，Wind显示，创业板算力ETF天弘（158061）近2个交易日（2026年9月30日—2026年10月8日）实现连续“吸金”，累计获资金净流入1544.37万元。最近5个交易日累计获资金净流入7624.24万元。截至2026年10月8日，该基金最新规模",
+     "source": "东方财富股票",
+     "zh": "算力租赁商Nebius计划上调NVIDIA GPU按需租金17%—21%，创业板算力ETF天弘（158061）标的指数跌超1%，换手率近60%为同标的第一"
+    },
+    {
+     "title": "众捷股份10月9日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891183642.html",
+     "pubDate": "Fri, 09 Oct 2026 14:23:30 +0800",
+     "summary": "以下是 众捷股份 在北京时间10月9日14:23分盘口异动快照： 10月9日， 众捷股份 盘中涨幅达5%，截至14点23分，报40.2元，成交4.00亿元，换手率18.13%。 分笔 报价 卖五 40.35 4 卖四 40.28 11 卖三 40.27 10 卖二 40.25 5 卖一 40.2 23 买一 40.18 14 买二 40.17 8 买三 40.15 6 买四 40.14 22 买五 40.11 15 最新： 40.2 涨幅： 5.04% 涨跌： 1.93 换手率：18.13% 成交量：10.59万手 成交额：4.00亿元 主力净流入： -2983.80万 元 &emsp;&em",
+     "source": "东方财富股票",
+     "zh": "众捷股份10月9日盘中涨幅达5%"
+    },
+    {
+     "title": "易点天下10月9日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891183336.html",
+     "pubDate": "Fri, 09 Oct 2026 14:23:14 +0800",
+     "summary": "以下是 易点天下 在北京时间10月9日14:23分盘口异动快照： 10月9日， 易点天下 盘中快速回调，5分钟内跌幅超过2%，截至14点23分，报33.6元，成交13.90亿元，换手率8.68%。 分笔 报价 卖五 33.65 142 卖四 33.64 43 卖三 33.63 93 卖二 33.62 18 卖一 33.61 10 买一 33.6 43 买二 33.59 113 买三 33.58 272 买四 33.57 28 买五 33.56 75 最新： 33.6 涨幅： 8.32% 涨跌： 2.58 换手率：8.68% 成交量：43.56万手 成交额：13.90亿元 主力净流入： 6187",
+     "source": "东方财富股票",
+     "zh": "易点天下10月9日快速回调"
+    },
+    {
+     "title": "AI回报疑虑缓解，亚洲股市小幅上扬，美债收益率回落，金价突破4200美元，铁矿石连跌三周",
+     "link": "https://wallstreetcn.com/articles/3783254",
+     "pubDate": "Fri, 09 Oct 2026 14:19:07 +0800",
+     "summary": "周五，有关OpenAI营收的最新数据为市场提供喘息空间，此前因AI支出回报存疑引发的抛售压力有所缓解。铁矿石价格延续跌势，本周迎来连续第三周下跌；与此同时，美债长端收益率小幅回落，推动金银价格走高，现货黄金突破4200美元关口。 亚洲股市整体上涨0.3%，欧洲股指期货亦指向高开。美股期货方面，标普500指数期货涨0.3%，纳斯达克100指数期货涨0.5%，此前据彭博获悉，OpenAI预计年内年化收入将达到或超过700亿美元，回应了此前年化收入仅500亿美元左右的质疑，同时提振了此前因AI营收数据引发的悲观情绪。 现货黄金日内涨逾1.6%，报约4200美元/盎司，现货白银涨幅达2.0%，报60.",
+     "source": "华尔街见闻",
+     "zh": "AI回报疑虑缓解，亚洲股市小幅上扬，美债收益率回落，金价突破4200美元，铁矿石连跌三周"
+    },
+    {
+     "title": "Ray Dalio warns the stock market&apos;s cushion against rising bond yields is shrinking",
+     "link": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
+     "pubDate": "Fri, 09 Oct 2026 06:16:19 GMT",
+     "summary": "Ray Dalio says earnings have cushioned stocks from rising bond yields, but that buffer is shrinking as he warns free cash flow could weaken.",
+     "source": "CNBC",
+     "zh": "Ray Dalio warns the stock market&apos;s cushion against rising bond yields is shrinking"
+    },
+    {
+     "title": "A股三大股指集体翻红，券商板块发力，多只宽基ETF放量，恒科指涨近3%，小米暴涨8%",
+     "link": "https://wallstreetcn.com/articles/3783237",
+     "pubDate": "Fri, 09 Oct 2026 14:13:53 +0800",
+     "summary": "10月9日，A股午后拉升，三大指数全线上涨，早盘创业板指曾跌超3%，科创50指数翻红，盘中跌超4%。AI应用、文化传媒、券商、黄金、化纤、软件板块走强。锂电池、固态电池等方向走强，芯片半导体、算力硬件链延续弱势。生物医药板块大跌，CRO、创新药等集体承压。江淮汽车再跌停，此前尊界通报刹车踏板支架断裂，称将进一步优化设计。 港股午后继续上涨，恒指、恒科指双双拉升，恒科指涨近3%，权重科网股集体反弹，美团、阿里、腾讯纷纷上涨，小米大涨超8%，带动新能源汽车反弹，芯片股承压，华虹宏力、兆易创新、澜起科技等下挫。债市方面，国债期货全线上涨。商品方面，国内商品期货涨跌参半。核心市场走势： A股 ：截至发",
+     "source": "华尔街见闻",
+     "zh": "A股三大股指集体翻红，券商板块发力，多只宽基ETF放量，恒科指涨近3%，小米暴涨8%"
+    },
+    {
+     "title": "视频｜《大道 The Great Way》节目在渝启动 采编团队将20天行走新加坡等东盟多国",
+     "link": "http://www.eeo.com.cn/2026/1009/1058416.shtml",
+     "pubDate": "Fri, 09 Oct 2026 14:13:11 +0800",
+     "summary": "第1眼TV‑华龙网讯（记者 吴礼霜）10月9日，由市委宣传部指导、重庆广播电视集团（总台）第1眼TV策划实施的大型跨国探访节目《大道 The Great Way》启动仪式，在重庆广电大厦举行。该节目将派出多路采编力量分赴老挝、马来西亚、新加坡、泰国、越南等东盟国家，开展为期约20天的行进式采访，讲述中国与东盟经贸往来和人文交往的生动故事。 据了解，西部陆海新通道、中欧班列（成渝）两大通道，支撑重庆、带动西部跨越山海...",
+     "source": "经济观察网",
+     "zh": "视频｜《大道 The Great Way》节目在渝启动 采编团队将20天行走新加坡等东盟多国"
+    },
+    {
      "title": "Nasdaq CEO: Tokenization could unlock tens of billions in trapped capital",
      "link": "https://seekingalpha.com/news/4651647-nasdaq-ceo-tokenization-could-unlock-tens-of-billions-in-trapped-capital?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 02:06:18 -0400",
@@ -2217,60 +2321,28 @@
      "zh": "豆包接入水电费缴纳，AI助手离“替人办事”还有多远"
     },
     {
-     "title": "华大九天10月9日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891119888.html",
-     "pubDate": "Fri, 09 Oct 2026 13:58:09 +0800",
-     "summary": "以下是 华大九天 在北京时间10月9日13:58分盘口异动快照： 10月9日， 华大九天 盘中涨幅达5%，截至13点58分，报89.97元，成交7.84亿元，换手率1.66%。 分笔 报价 卖五 90.02 6 卖四 90.01 2 卖三 90 613 卖二 89.99 45 卖一 89.96 15 买一 89.71 5 买二 89.7 77 买三 89.53 4 买四 89.48 1 买五 89.47 6 最新： 89.97 涨幅： 5.29% 涨跌： 4.52 换手率：1.66% 成交量：9.09万手 成交额：7.84亿元 主力净流入： 3662.44 万元 &emsp;&emsp;10月",
-     "source": "东方财富股票",
-     "zh": "华大九天10月9日盘中涨幅达5%"
-    },
-    {
-     "title": "吉林化纤10月9日打开涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891119774.html",
-     "pubDate": "Fri, 09 Oct 2026 13:58:09 +0800",
-     "summary": "以下是 吉林化纤 在北京时间10月9日13:58分盘口异动快照： 10月9日13点58分， 吉林化纤 盘中打开涨停，现报3.8元，成交8.58亿元，换手率9.38%。该股之前于13点15分涨停。 分笔 报价 卖五 - 0 卖四 - 0 卖三 - 0 卖二 - 0 卖一 3.81 2832 买一 3.8 1378 买二 3.79 4390 买三 3.78 7727 买四 3.77 4853 买五 3.76 714 最新： 3.8 涨幅： 9.83% 涨跌： 0.34 换手率：9.38% 成交量：230.64万手 成交额：8.58亿元 主力净流入： 2.14 亿元 &emsp;&emsp;10月9",
-     "source": "东方财富股票",
-     "zh": "吉林化纤10月9日打开涨停"
-    },
-    {
-     "title": "大连友谊10月9日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891118677.html",
-     "pubDate": "Fri, 09 Oct 2026 13:57:41 +0800",
-     "summary": "以下是 大连友谊 在北京时间10月9日13:57分盘口异动快照： 10月9日， 大连友谊 盘中涨幅达5%，截至13点57分，报6.61元，成交4800.19万元，换手率2.13%。 分笔 报价 卖五 6.66 157 卖四 6.65 61 卖三 6.64 131 卖二 6.63 65 卖一 6.62 157 买一 6.61 25 买二 6.6 554 买三 6.59 18 买四 6.58 134 买五 6.57 24 最新： 6.61 涨幅： 5.09% 涨跌： 0.32 换手率：2.13% 成交量：7.59万手 成交额：4800.19万元 主力净流入： 506.72 万元 &emsp;&em",
-     "source": "东方财富股票",
-     "zh": "大连友谊10月9日盘中涨幅达5%"
-    },
-    {
-     "title": "华丰股份10月9日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891118480.html",
-     "pubDate": "Fri, 09 Oct 2026 13:57:27 +0800",
-     "summary": "以下是 华丰股份 在北京时间10月9日13:57分盘口异动快照： 10月9日， 华丰股份 盘中涨幅达5%，截至13点57分，报40.32元，成交3.69亿元，换手率4.03%。 分笔 报价 卖五 40.38 7 卖四 40.36 11 卖三 40.35 26 卖二 40.33 9 卖一 40.32 8 买一 40.31 13 买二 40.3 107 买三 40.28 310 买四 40.27 2 买五 40.26 104 最新： 40.32 涨幅： 5.00% 涨跌： 1.92 换手率：4.03% 成交量：9.59万手 成交额：3.69亿元 主力净流入： -529.49万 元 &emsp;&e",
-     "source": "东方财富股票",
-     "zh": "华丰股份10月9日盘中涨幅达5%"
-    },
-    {
-     "title": "国庆假期出行数据亮眼，铁路客运高增提振交通运输板块信心",
-     "link": "http://stock.eastmoney.com/news/11622,202610093891118981.html",
-     "pubDate": "Fri, 09 Oct 2026 13:57:09 +0800",
-     "summary": "截至13:42，A股三大指数集体回落，上证指数跌0.13%，深证成指跌0.57%，创业板指跌0.80%。 中证全指运输指数上涨0.58%，成分股涨跌互现， 中远海能 领涨2.96%， 圆通速递 上涨2.87%， 中国东航 上涨1.53%， 申通快递 上涨0.67%， 中远海控 上涨0.66%； 招商南油 领跌5.03%， 海通发展 下跌3.19%， 厦门港务 下跌2.17%， 海晨股份 下跌1.97%， 招商轮船 下跌0.50%。 从估值层面来看，中证全指运输指数最新市盈率（PE-TTM）为17.85倍，处于近10年48.41%的分位，即估值低于近10年51.59%以上的时间，估值适中，可逢低",
-     "source": "东方财富股票",
-     "zh": "国庆假期出行数据亮眼，铁路客运高增提振交通运输板块信心"
-    },
-    {
-     "title": "印度政府：10月份向发电厂的煤炭供应步伐加快",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891118527.html",
-     "pubDate": "Fri, 09 Oct 2026 13:57:05 +0800",
-     "summary": "印度政府：10月份向发电厂的 煤炭 供应步伐加快。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "印度政府：10月份向发电厂的煤炭供应步伐加快"
-    },
-    {
      "title": "销量退潮，保时捷押注更贵的生意",
      "link": "https://wallstreetcn.com/articles/3783255",
      "pubDate": "Fri, 09 Oct 2026 13:55:01 +0800",
      "summary": "四年前，保时捷在法兰克福证券交易所风光上市，创下了当年欧洲IPO市值纪录。跑车品牌的溢价，加上SUV的销量规模，带来了丰厚的利润，撑起了它的高估值。 如今，支撑这门生意的条件变了——中国市场持续回落，高端纯电动车需求增长慢于预期，产品战略重整和美国关税又增加了成本。2025年，保时捷集团销售回报率降至1.1%，远低于上市当年的18.0%。 当地时间10月7日的资本市场日上，保时捷发布面向2035年的战略，将更多资源投向高利润车型和个性化定制，同时精简产品组合、压缩开发与运营成本，并计划把盈亏平衡所需的年销量降至20万辆以下。它要提高单车收入，也要降低维持盈利所需的销量。 保时捷股份公司执行董事",
      "source": "华尔街见闻",
      "zh": "销量退潮，保时捷押注更贵的生意"
+    },
+    {
+     "title": "体验丰富、消费火热！重庆体育博物馆国庆假期人气旺",
+     "link": "http://www.eeo.com.cn/2026/1009/1058387.shtml",
+     "pubDate": "Fri, 09 Oct 2026 13:52:11 +0800",
+     "summary": "第1眼TV-华龙网讯（首席记者 陈美西）记者从重庆市体育局了解到，刚刚过去的国庆假期期间，重庆体育博物馆连续7天免费开放，沉浸式“剧本杀”研学、“久久公益节”公益集卡、文创上新等系列活动同步开展，吸引众多市民游客进馆参观。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/35CEE288B704FFD5CFD65C5B023E8D58.png\" alt=\"重庆体育博物馆剧本杀研学探秘活动。受访者供图\" data-title=\"...",
+     "source": "经济观察网",
+     "zh": "体验丰富、消费火热！重庆体育博物馆国庆假期人气旺"
+    },
+    {
+     "title": "电池板块局部活跃，电池ETF易方达（159175）标的指数上涨0.5%",
+     "link": "http://www.eeo.com.cn/2026/1009/1058386.shtml",
+     "pubDate": "Fri, 09 Oct 2026 13:52:10 +0800",
+     "summary": "10月9日早盘，电池板块局部活跃，动力电池电芯、锂电主材、固态电池概念相对偏强，而储能逆变器、储能系统集成等概念走弱。截至午间收盘，中证电池主题指数上涨0.5%，国证储能电池指数下跌1.4%。 （本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策。） <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/975A58E8DB3EF9F22E72F55E5CBFDF...",
+     "source": "经济观察网",
+     "zh": "电池板块局部活跃，电池ETF易方达（159175）标的指数上涨0.5%"
     },
     {
      "title": "SoftBank seeks $100B from Gulf investors for AI: report",
@@ -2305,6 +2377,22 @@
      "zh": "Asian markets mixed following tech selloff as OpenAI revenue concerns weigh"
     },
     {
+     "title": "港股科技互联网板块集体反弹，港股通互联网ETF易方达（513040）标的指数半日涨2%",
+     "link": "http://www.eeo.com.cn/2026/1009/1058347.shtml",
+     "pubDate": "Fri, 09 Oct 2026 13:26:11 +0800",
+     "summary": "10月9日早盘，港股科技互联网板块集体反弹，截至午间收盘，中证港股通互联网指数上涨2.0%，恒生港股通新经济指数上涨1.2%，恒生科技指数上涨1.6%，中证港股通消费主题指数上涨1.7%，中证港股通医药卫生综合指数下跌1.5%。 （本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策。） <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/27C40F...",
+     "source": "经济观察网",
+     "zh": "港股科技互联网板块集体反弹，港股通互联网ETF易方达（513040）标的指数半日涨2%"
+    },
+    {
+     "title": "小米17 Ultra全系上调售价1000元",
+     "link": "http://www.eeo.com.cn/2026/1009/1058346.shtml",
+     "pubDate": "Fri, 09 Oct 2026 13:26:05 +0800",
+     "summary": "10月9日，小米 17 Ultra 全系列机型统一上调售价，涨幅达到 1000 元，小米官网在售版本定价均已完成调整。 调整后的具体定价信息显示，小米 17 Ultra 标准版起售价从原先的 6999 元涨到 7999 元。其中 12GB+512GB 版本从 6999 元上涨至 7999 元，16GB+512GB 版本从 7499 元涨到 8499 元，16GB+1TB 版本从 8499 元上调到 9499 元。定位更高阶的小米 17 Ultra 徕卡版，起售价也从原先的 7999 元涨到 8999 元。其中 16GB+512...",
+     "source": "经济观察网",
+     "zh": "小米17 Ultra全系上调售价1000元"
+    },
+    {
      "title": "Manus raises $500M after losing planned $2B-plus Meta deal",
      "link": "https://seekingalpha.com/news/4651634-manus-raises-500m-after-losing-planned-2b-plus-meta-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 01:25:00 -0400",
@@ -2319,14 +2407,6 @@
      "summary": "软银创始人孙正义正寻求从海湾地区投资者募集高达1000亿美元资金，以进一步押注人工智能赛道。 此举将成为这位日本亿万富翁迄今规模最大的AI融资行动之一。 据英国《金融时报》9日援引多位知情人士透露，孙正义近几周已与包括阿联酋在内的海湾地区高层人士就上述潜在融资事宜展开磋商。据悉，所募资金将用于设立一只基金，收购企业并借助AI及其他先进技术改善其运营。软银旗下机器人与实体AI业务Roze预计将在这一过程中扮演关键角色。知情人士同时强调，与海湾投资者的谈判尚无成功保障。 此次融资计划正值软银面临多重压力：OpenAI推迟上市计划，市场对软银AI敞口过大的担忧持续发酵，软银股价较6月峰值已累计回调逾",
      "source": "华尔街见闻",
      "zh": "加大AI豪赌！软银拟向海湾地区投资者筹集1000亿美元"
-    },
-    {
-     "title": "“百万豪车”刹车踏板断裂背后，被低估的普通人脚力",
-     "link": "https://wallstreetcn.com/articles/3783250",
-     "pubDate": "Fri, 09 Oct 2026 13:24:41 +0800",
-     "summary": "作者 | 周智宇 10月8日，懂车帝发布的一段刹车测试视频，让尊界V800成为车圈关注的焦点。测试方称，三辆车在100公里/小时至0的紧急制动中，先后出现踏板支架断裂。 视频发布后，部分网友质疑测试是否属于极端工况、驾驶员是不是踩得过重。支架为何断裂之外，普通人究竟能踩出多大的力量，也成了这次事件的一个争议点。 当晚，尊界回应称，制动系统按高于相关国家标准和行业标准的要求完成开发与验证，用户实际使用场景中未发生制动踏板支架底座断裂故障。公司同时宣布优化该部件设计，为已交付用户提供免费升级选择。 懂车帝则否认存在“暴力测试”。接近懂车帝人士在10月8日晚间表示，百公里急刹是汽车实测的基本科目，高",
-     "source": "华尔街见闻",
-     "zh": "“百万豪车”刹车踏板断裂背后，被低估的普通人脚力"
     },
     {
      "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
@@ -2345,22 +2425,6 @@
      "zh": "&apos;Real boss of India?&apos;: Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls"
     },
     {
-     "title": "AI要钱、欧美政府也要钱！全球“资本争夺战”打响，债券风暴才“刚刚开始”",
-     "link": "https://wallstreetcn.com/articles/3783240",
-     "pubDate": "Fri, 09 Oct 2026 12:10:07 +0800",
-     "summary": "过去两年，市场最拥挤的叙事是AI：算力、芯片、数据中心、云服务，所有资产都在围绕人工智能重估。但现在，一个更底层的问题开始浮出水面：AI不只要算力，它还要钱；而且要的是天量、长期、低容错的资本。 与此同时，美国政府、欧洲政府、日本政府，也都在要钱。财政赤字高企、债务滚动再融资、利息支出飙升，正在把全球债券市场推向一个新的阶段： 资本不再廉价，也不再充裕。 这意味着，过去十几年建立在“低利率、充裕流动性、无限融资能力”之上的资本市场逻辑，正在被改写。 真正的风险并不只是某一家AI公司发债成本升高，也不只是美国赤字突破2万亿美元，背后两股巨大的融资需求正在同时挤向同一个市场：一边是AI超级资本开支",
-     "source": "华尔街见闻",
-     "zh": "AI要钱、欧美政府也要钱！全球“资本争夺战”打响，债券风暴才“刚刚开始”"
-    },
-    {
-     "title": "创业板失守3000点，电池产业链逆势拉升，算力硬件集体下挫，江淮汽车跌停，恒指、恒科指齐涨超1%，小米暴涨7%",
-     "link": "https://wallstreetcn.com/articles/3783237",
-     "pubDate": "Fri, 09 Oct 2026 12:07:10 +0800",
-     "summary": "10月9日，A股A股早盘低开低走，三大指数集体下挫，创业板指跌破3000点整数关口，科创50指数盘中跌超4%；锂电池、固态电池等方向逆势走强，芯片半导体、算力硬件链延续弱势。生物医药板块大跌，CRO、创新药等集体承压。江淮汽车再跌停，此前尊界通报刹车踏板支架断裂，称将进一步优化设计。 港股高开高走，恒指、恒科指双双涨超1%，恒科指一度涨超2%，权重科网股集体反弹，美团、阿里、腾讯纷纷上涨，小米大涨超7%，带动新能源汽车反弹，芯片股承压，华虹宏力、兆易创新、澜起科技等下挫。债市方面，国债期货全线上涨。商品方面，国内商品期货涨跌参半。核心市场走势： A股 ：截至发稿，沪指跌1.21%，深成指跌2.",
-     "source": "华尔街见闻",
-     "zh": "创业板失守3000点，电池产业链逆势拉升，算力硬件集体下挫，江淮汽车跌停，恒指、恒科指齐涨超1%，小米暴涨7%"
-    },
-    {
      "title": "Some much-needed American optimism on Europe",
      "link": "https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1",
      "pubDate": "Fri, 09 Oct 2026 04:00:32 GMT",
@@ -2375,70 +2439,6 @@
      "summary": "The cost of credit default swaps for AI companies looking to borrow is rising",
      "source": "Financial Times",
      "zh": "Five ways to tell if market trouble lies ahead"
-    },
-    {
-     "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
-     "link": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 04:00:31 GMT",
-     "summary": "Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets",
-     "source": "Financial Times",
-     "zh": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says"
-    },
-    {
-     "title": "Manchester City, Abu Dhabi and the future of football",
-     "link": "https://www.ft.com/content/bae7f43f-8954-45eb-a470-2cd7fb21a94b?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 04:00:22 GMT",
-     "summary": "The sport is still shaped by the club’s acquisition in 2008",
-     "source": "Financial Times",
-     "zh": "Manchester City, Abu Dhabi and the future of football"
-    },
-    {
-     "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
-     "link": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
-     "pubDate": "Fri, 09 Oct 2026 03:51:15 GMT",
-     "summary": "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.",
-     "source": "CNBC",
-     "zh": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility"
-    },
-    {
-     "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
-     "link": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
-     "pubDate": "Fri, 09 Oct 2026 02:52:15 GMT",
-     "summary": "Investors are overestimating the risk of conflict across the Taiwan Strait, a U.S. diplomat says, playing up deterrence to keep Beijing from taking the island.",
-     "source": "CNBC",
-     "zh": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk"
-    },
-    {
-     "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
-     "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 00:52:00 GMT",
-     "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
-     "source": "MarketWatch",
-     "zh": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares"
-    },
-    {
-     "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
-     "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 00:03:00 GMT",
-     "summary": "Seven tips for painlessly moving in retirement.",
-     "source": "MarketWatch",
-     "zh": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’"
-    },
-    {
-     "title": "Anyflo emerges from stealth to simplify stablecoin payments for enterprises",
-     "link": "https://www.finextra.com/newsarticle/48561/anyflo-emerges-from-stealth-to-simplify-stablecoin-payments-for-enterprises?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 09 Oct 2026 00:01:00 GMT",
-     "summary": "Stablecoin payments orchestration service Anyflo has emerged from stealth with news that it has acquired bitcoin lending platform Native.",
-     "source": "Finextra",
-     "zh": "Anyflo emerges from stealth to simplify stablecoin payments for enterprises"
-    },
-    {
-     "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-     "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-     "pubDate": "Thu, 08 Oct 2026 23:57:23 GMT",
-     "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
-     "source": "CNBC",
-     "zh": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says"
     }
    ]
   },

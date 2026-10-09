@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/9 12:31:52",
+ "generated_at": "2026/10/9 12:51:53",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+     "link": "https://www.qbitai.com/2026/10/502330.html",
+     "pubDate": "Fri, 09 Oct 2026 04:15:05 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」"
+    },
     {
      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
      "link": "https://arxiv.org/abs/2610.10541",
@@ -57,6 +65,14 @@
      "zh": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents"
     },
     {
+     "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+     "link": "https://www.qbitai.com/2026/10/502125.html",
+     "pubDate": "Fri, 09 Oct 2026 03:52:21 +0000",
+     "summary": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+     "source": "量子位",
+     "zh": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据"
+    },
+    {
      "title": "刚刚，全球第一个185Hz手机屏，诞生了",
      "link": "https://zhidx.com/p/599406.html",
      "pubDate": "Fri, 09 Oct 2026 11:31:51 +0800",
@@ -103,14 +119,6 @@
      "summary": "彻底撕破脸了",
      "source": "量子位",
      "zh": "陶哲轩带头宣战！人类数学家联合抵制OpenAI"
-    },
-    {
-     "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
-     "link": "https://www.qbitai.com/2026/10/502083.html",
-     "pubDate": "Fri, 09 Oct 2026 00:16:56 +0000",
-     "summary": "新的“缝合怪”已经出现，怎么能够停滞不前",
-     "source": "量子位",
-     "zh": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude"
     },
     {
      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -207,14 +215,6 @@
      "summary": "Docker Agent is an open-source, Apache 2.0-licensed CLI plugin built by Docker Engineering, installed and run as docker agent. Its own tagline states the goal plainly: run AI agents like containers.",
      "source": "KDnuggets",
      "zh": "Building AI Agents with Docker Agent"
-    },
-    {
-     "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
-     "link": "https://www.qbitai.com/2026/10/502049.html",
-     "pubDate": "Thu, 08 Oct 2026 13:28:23 +0000",
-     "summary": "Vidu Q4预览版，了解一下~",
-     "source": "量子位",
-     "zh": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！"
     },
     {
      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
@@ -1305,6 +1305,22 @@
    "total": 6,
    "items": [
     {
+     "title": "APOD: 2026 October 9 – Stickney Crater",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
+     "pubDate": "Fri, 09 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written b",
+     "source": "NASA",
+     "zh": "APOD: 2026 October 9 – Stickney Crater"
+    },
+    {
+     "title": "Floodwaters Overwhelm Thailand",
+     "link": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
+     "pubDate": "Fri, 09 Oct 2026 04:01:00 +0000",
+     "summary": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.",
+     "source": "NASA",
+     "zh": "Floodwaters Overwhelm Thailand"
+    },
+    {
      "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
      "link": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
      "pubDate": "Thu, 08 Oct 2026 20:22:12 +0000",
@@ -1335,22 +1351,6 @@
      "summary": "The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026, photograph. Aboard were NASA’s SpaceX Crew-12 members NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Ad",
      "source": "NASA",
      "zh": "Crew-12 Returns to Earth"
-    },
-    {
-     "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
-     "link": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/",
-     "pubDate": "Thu, 08 Oct 2026 18:22:48 +0000",
-     "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets. New findings published in The Astrophysical Journal show that these dark",
-     "source": "NASA",
-     "zh": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs"
-    },
-    {
-     "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
-     "link": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
-     "pubDate": "Thu, 08 Oct 2026 18:00:00 +0000",
-     "summary": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again. Astronomers using NASA’s James Webb Space Telescope have pinpointed the host galaxy ",
-     "source": "NASA",
-     "zh": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin"
     },
     {
      "title": "What will it take to build a moon base?",
@@ -1705,6 +1705,62 @@
    "total": 18,
    "items": [
     {
+     "title": "“RISC-V 第一股”奕斯伟计算在香港上市，“京东方之父”王东升创办",
+     "link": "https://www.ithome.com/1/010/903.htm",
+     "pubDate": "Fri, 09 Oct 2026 04:39:56 GMT",
+     "summary": "IT之家 10 月 9 日消息，“RISC-V 第一股”奕斯伟计算今日（10 月 9 日）正式在香港联合交易所主板挂牌上市，成为资本市场首只 以 RISC-V 为核心架构的芯片股 。 IT之家查询公开资料获悉，北京奕斯伟计算技术股份有限公司（简称“奕斯伟计算”）是一家基于 RISC-V 架构的芯片产品提供商，总部位于北京， 由“京东方之父”、原京东方董事长王东升创办 。 根据弗若斯特沙利文数据，中国 RISC-V 主控芯片市场规模由 2021 年的 11 亿元增长至 2025 年的 377 亿元，年复合增长率达 139.5%，预计 2030 年市场规模将攀升至 2,194 亿元。 奕斯伟计算的",
+     "source": "IT之家",
+     "zh": "“RISC-V 第一股”奕斯伟计算在香港上市，“京东方之父”王东升创办"
+    },
+    {
+     "title": "谁在改造波士顿动力？",
+     "link": "https://www.huxiu.com/article/4896118.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:37:01 +0800",
+     "summary": "本文来自微信公众号： 具身志 ，编辑：越十三，作者：仲庆元 报道提要 谷歌的一场内部争论、仓库里搬得太慢的机器人、汽车工业介入Atlas设计。波士顿动力34年的故事，不只关乎它造出了什么，也关乎是什么一次次改变了它。 2026年10月7日，美国机器人公司波士顿动力的新任CEO正式履职。他最为人熟知的作品，是亚马逊的语音助手Alexa。 罗希特·普拉萨德（Rohit Prasad）曾参与把Alexa从早期项目做成大规模消费级AI服务，后来又领导了AI基础模型Nova的开发。波士顿动力在任命公告里强调的，正是他把AI技术变成产品和业务的经历。 这家以机器人运动能力闻名的公司，把下一阶段交给了一位有",
+     "source": "虎嗅",
+     "zh": "谁在改造波士顿动力？"
+    },
+    {
+     "title": "大模型一定要逐字生成？扩散智能拿到数亿元融资",
+     "link": "https://www.huxiu.com/article/4896119.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:34:19 +0800",
+     "summary": "本文来自微信公众号： 经观感知 ，作者：DongX 扩散智能拿到数亿元融资，资本押注的是大模型行业一条尚未成为主流的技术路线。 10月9日，公开融资信息显示，扩散智能DiffuSpace已连续完成两轮融资，合计金额达数亿元人民币，经纬创投、顺为资本、君联资本联合领投，中科创星、华为哈勃、地平线等跟投。 但是各轮具体金额及公司估值尚未披露。 这家今年开始公司化运作的企业，来自香港大学自然语言处理（NLP）实验室团队。孔令鹏与龚珊三、叶佳成等成员联合创业，把公司落在深圳，主攻扩散语言模型，简称dLLM。其官网将公司的目标表述为探索自回归之后的新一代基础模型。 孔令鹏是港大计算机科学系助理教授、NL",
+     "source": "虎嗅",
+     "zh": "大模型一定要逐字生成？扩散智能拿到数亿元融资"
+    },
+    {
+     "title": "王虹靠三维挂谷拿菲尔兹奖，OpenAI用3小时就解决了更难的四维版",
+     "link": "https://www.huxiu.com/article/4896093.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:30:38 +0800",
+     "summary": "本文来自微信公众号： 字母AI ，作者：苗正 2026年菲尔兹奖得主王虹，靠着三维挂谷集猜想的证明，拿下了数学界的最高荣誉。这道横跨百年的几何难题，在她手中实现了从二维到三维的历史性跨越，也成为近十年最重磅的数学突破。 而就在短短三个月后，OpenAI直接将这项研究往前推进了一大步：它不仅解决了难度更高的三维挂谷极大函数猜想，还首次证出四维挂谷集的豪斯多夫维数等于4，把人类此前卡在3.059维的最佳纪录推上了一个维度，达到了理论上限。 然而这还只是OpenAI挑战数学界的冰山一角。 这一次，OpenAI一口气放出722篇数学手稿，归为372个成果族，覆盖的领域远不止挂谷问题，还包括准黎曼假设、",
+     "source": "虎嗅",
+     "zh": "王虹靠三维挂谷拿菲尔兹奖，OpenAI用3小时就解决了更难的四维版"
+    },
+    {
+     "title": "《怪物猎人物语 3：命运双龙》游戏 11 月 18 日登陆 XBOX on PC，首次支持 XBOX Play Anywhere",
+     "link": "https://www.ithome.com/1/010/902.htm",
+     "pubDate": "Fri, 09 Oct 2026 04:29:30 GMT",
+     "summary": "IT之家 10 月 9 日消息，微软 @XBOXWire 昨日（10 月 8 日）在 X 平台发布推文，宣布 《怪物猎人物语 3：命运双龙》（Monster Hunter Stories 3: Twisted Reflection）游戏将于 2026 年 11 月 18 日登陆 XBOX on PC，并首次支持 XBOX Play Anywhere。 IT之家注：XBOX on PC 是微软面向 Windows 设备提供的 Xbox 游戏运行环境。玩家可通过 Xbox 应用在 Windows PC 安装、启动和管理 Xbox 游戏，并使用 Xbox 账户访问游戏库、成就及相关服务。 《怪物猎人",
+     "source": "IT之家",
+     "zh": "《怪物猎人物语 3：命运双龙》游戏 11 月 18 日登陆 XBOX on PC，首次支持 XBOX Play Anywhere"
+    },
+    {
+     "title": "闲鱼，中国最大的“云服务厂商”？",
+     "link": "https://www.huxiu.com/article/4896116.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:28:38 +0800",
+     "summary": "本文来自微信公众号： 略大参考 ，作者：一苇 论收入和利润，闲鱼可能连十分之一个微软都不到。但只论产品品类，闲鱼比微软还丰富。这就像民间的一些“百达通”，你可以说他本事不大，但不得不承认他的路子是真广。 深圳曾经有一个工业区，叫“上步工业区”，这里是国际企业的代工厂，有飞利浦、三洋等全球大企业入驻。 大公司的产线，总有一些尾货，买方也难免有些多余的元器件转手，甚至还有工人悄悄“拿”出来一些残次品，这些“边角料”流入到大街上，摆摊交易，外溢出一个小商品市场——华强北。 AI领域同样有“边角料”。 大公司淘汰下来的英伟达的显卡、用不完的OpenAI的Token、低价渠道“白嫖”到的谷歌Gemini",
+     "source": "虎嗅",
+     "zh": "闲鱼，中国最大的“云服务厂商”？"
+    },
+    {
+     "title": "机器人租金大跳水",
+     "link": "https://www.huxiu.com/article/4896114.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:24:33 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：李佳怡 个国庆假期，景区里除了“人人人人”，还多了一批机器人“员工”。 它们不再只是在舞台上翻跟头、跳舞的“表演嘉宾”，而是开始排班上岗、卖货收款、巡检安防、夜间演出。据不完全统计，已有近30家具身智能及机器人企业进入文旅、零售和消费服务场景，国庆期间在岗规模达到数千台。 与此同时，机器人租赁的“抢租潮”也已经消失，日租金从2025年初的万元级跌至不足千元。告别靠新鲜感吸睛的表演模式之后，文旅场景成为具身智能的现实试炼场，机器人“能上岗”已经实现，但走向可持续盈利，行业仍要翻越多重结构性关卡。 租赁价格“雪崩”之后，文旅赛道告别纯表演经济 2025年春晚带",
+     "source": "虎嗅",
+     "zh": "机器人租金大跳水"
+    },
+    {
      "title": "当AI走出服务器：马斯克要造芯片，扎克伯格抢细胞",
      "link": "https://www.huxiu.com/article/4896112.html?f=rss",
      "pubDate": "Fri, 09 Oct 2026 12:22:56 +0800",
@@ -1729,52 +1785,12 @@
      "zh": "纯手工黏土定格动画电影《小羊肖恩 3 怪兽来袭》定档 10 月 24 日内地上映，全片超 10 万帧定格画面"
     },
     {
-     "title": "OpenAI营收“缩水”200亿美元，带崩全球科技股",
-     "link": "https://www.huxiu.com/article/4896113.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 12:21:12 +0800",
-     "summary": "本文来自微信公众号： 大橘财经 ，作者：赖家琪 一则关于OpenAI营收数据的最新报道，给火热的美国科技股泼了一瓢冷水。 当地时间10月8日，英国《金融时报》报道称，OpenAI近日向投资者披露，截至9月底，公司年化营收接近500亿美元，明显低于此前市场广泛流传的约700亿美元。 市场已对人工智能（AI）泡沫和安全性持怀疑态度，上述消息传出后，进一步动摇了投资者信心。8日，纳斯达克综合指数跌超1%，英伟达、甲骨文、CoreWeave等纷纷下挫。持有OpenAI 13%股份的日本软银集团9日股价也一度大跌超7%。 从500亿美元到700亿美元，并不意味着OpenAI的实际销售额在短期内蒸发了20",
-     "source": "虎嗅",
-     "zh": "OpenAI营收“缩水”200亿美元，带崩全球科技股"
-    },
-    {
      "title": "对标苹果 AirPods Max：三星 Galaxy Studio 曝光，时隔 11 年重返头戴式耳机市场",
      "link": "https://www.ithome.com/1/010/895.htm",
      "pubDate": "Fri, 09 Oct 2026 04:20:17 GMT",
      "summary": "IT之家 10 月 9 日消息，消息源 @evowizz 昨日（10 月 8 日）在 X 平台发布推文， 爆料称三星首款头戴式耳机名为 Galaxy Studio，上市后将会和苹果的 AirPods Max 正面竞争。 IT之家查询公开资料，@evowizz 在爆料方面相对不是很活跃，不过他此前曾精准爆料三星首款耳夹式耳机名为 Galaxy Buds On，可信度较高，目前海外 9to5Google、Android Authority 和 Android Headline 等诸多主流安卓媒体已采信跟进报道。 在头戴式耳机方面，三星曾于 2015 年推出 Level Over 与 Level O",
      "source": "IT之家",
      "zh": "对标苹果 AirPods Max：三星 Galaxy Studio 曝光，时隔 11 年重返头戴式耳机市场"
-    },
-    {
-     "title": "字节十年并购首次“踩刹车”：14亿元买不来一个支付牌照？",
-     "link": "https://www.huxiu.com/article/4896111.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 12:18:42 +0800",
-     "summary": "本文来自微信公众号： IT桔子 ，作者：吴梅梅 2026年9月30日，上市公司海联金汇公告一则并不显眼的事项：公司收到天津同融电子商务有限公司发来的《关于终止股权转让协议的函》，解除对旗下支付机构联动优势100%股权转让的交易。 天津同融是抖音体系内的持股平台，持有抖音支付科技有限公司（即原武汉合众易宝）全部股权，也是该交易的收购主体。双方于2024年4月签署协议，约定交易价格为基准对价7.5亿元+交割日调整后净资产对价（合计约14亿元），此举被视为抖音集团意欲补齐银行卡收单牌照、支撑生活服务线下交易场景的关键一役。 但该笔交易在书面协议生效两年半后，以一纸“友好协商”画上了句号。 多数舆论把",
-     "source": "虎嗅",
-     "zh": "字节十年并购首次“踩刹车”：14亿元买不来一个支付牌照？"
-    },
-    {
-     "title": "一脚急刹踩断的踏板，和那条没人当回事的及格线",
-     "link": "https://www.huxiu.com/article/4896110.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 12:12:58 +0800",
-     "summary": "本文来自微信公众号： 玖峰投研 ，作者：玖峰 这两天有句话被翻出来，说是让车主踩刹车的时候别太用力。第一次看到我以为是谁在抬杠，一查才发现这话有出处，正经写在文件里。 事情得从10月8日说起。那天懂车帝发了个测试视频，3台全新的尊界V800，在封闭场地做100公里时速到0的紧急制动，结果3台车的刹车踏板支架，全断了。 第1台是在第3次全力制动的时候断的，第2台撑到了第4次。第3台是为了验证到底是不是偶发专门买的新车，出厂才跑了3公里，第2脚下去就断了。3台车批次不同，可断裂位置一样，断口形态也几乎一致。 有人质疑这是暴力测试，网上还流传过一张截图，上面写着4589N。懂车帝的说法是，那个数是高",
-     "source": "虎嗅",
-     "zh": "一脚急刹踩断的踏板，和那条没人当回事的及格线"
-    },
-    {
-     "title": "黑客松“经济学”",
-     "link": "https://www.huxiu.com/article/4896109.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 12:09:09 +0800",
-     "summary": "本文来自微信公众号： 镜相工作室 ，编辑：胡苗，作者：镜相作者 上午，会议厅坐满了人。最前排的位置留给领导，后排坐着背着电脑、抱着硬件，从各地赶来的年轻人。主持人报一个名字，台下领导起身，接过话筒开始讲话。 年轻的选手打起了哈欠。会议厅不是他们的主场，他们真正想去的是另一旁的比赛场地。那里已经一张张排开了桌子，拉好了电源。赞助商的展台也布置好了。桌面上摞着一沓沓校招宣传册，旁边是宣传产品的易拉宝。 这是一场黑客松（Hackathon）——一群人聚在一起，在几十个小时内把想法做成一个能跑的demo。这样的活动在各地落地时，常被冠上本地的名字：南京的叫“南客松”，贵阳的叫“贵客松”，名字不同，玩法",
-     "source": "虎嗅",
-     "zh": "黑客松“经济学”"
-    },
-    {
-     "title": "从火山灰到“火山之子”，喀拉喀托的诞生与重生",
-     "link": "https://www.huxiu.com/article/4896108.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 12:08:48 +0800",
-     "summary": "本文来自微信公众号： 果壳 ，作者：豆腐炒大炮，编辑：悲催的铊宝宝 2026年9月4日晚上11点07分，巽他海峡中央的喀拉喀托之子火山开始持续喷发。黑暗中，火山口不断喷射出红亮的熔岩，就像红色的喷泉。 这座火山持续喷发长达25小时，高达15千米的火山灰柱遮天蔽日，导致机场关闭、上千个航班延误，超过30万名旅客受到影响。 2026年9月5日，卫星拍摄到喀拉喀托之子火山冒出滚滚浓烟|NASA 致命火山 喀拉喀托之子火山位于印度尼西亚巽他海峡，这里自古以来就不太平。 在东南亚古国爪哇国的史书里，记载了公元416年的一次火山喷发。当时多处山体传来巨响，一座火山喷出冲天的熊熊烈火，伴随着猛烈的雷鸣和风暴",
-     "source": "虎嗅",
-     "zh": "从火山灰到“火山之子”，喀拉喀托的诞生与重生"
     },
     {
      "title": "消息称 OPPO 阔直板工程机是标准 16:9：LIPO 极窄四等边设计，目测边框 1mm±",
@@ -1785,28 +1801,12 @@
      "zh": "消息称 OPPO 阔直板工程机是标准 16:9：LIPO 极窄四等边设计，目测边框 1mm±"
     },
     {
-     "title": "Counterpoint 预测：笔电 OLED 面板出货近两年将分别增长 50% 和 24%",
-     "link": "https://www.ithome.com/1/010/868.htm",
-     "pubDate": "Fri, 09 Oct 2026 04:06:32 GMT",
-     "summary": "IT之家 10 月 9 日消息，Counterpoint Research 昨日发布最新预测： 笔记本电脑 OLED 显示面板出货将在 2026 和 2027 年分别实现 50% 和 24% 增长 ，主导高端笔记本电脑显示屏市场。 与此同时，Mini LED 的笔电面板出货将在今年下滑 38% 并在 2027 年进一步大幅萎缩 60%。包含 OLED 与 Mini LED 的高端笔电屏幕今年有望录得 11% 出货增长，而整体笔电面板出货则会衰退 3%。 ▲ 图源：Counterpoint Research 随着 OLED 在轻薄化设计、画质表现及成本竞争力方面的优势逐步显现， 笔电制造商正日益",
-     "source": "IT之家",
-     "zh": "Counterpoint 预测：笔电 OLED 面板出货近两年将分别增长 50% 和 24%"
-    },
-    {
      "title": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties (Emily Forlini/Fortune)",
      "link": "https://www.techmeme.com/261009/p1#a261009p1",
      "pubDate": "Fri, 09 Oct 2026 00:05:01 -0400",
      "summary": "Emily Forlini / Fortune : Anthropic is setting up a &ldquo;presidential engagement&rdquo; program for the 2028 US elections that will offer AI policy education to candidates in both parties &nbsp; &mdash;&nbsp; Anthropic is setting up a &ldquo;presidential engagement&rdquo; program ahead of the 2028",
      "source": "Techmeme",
      "zh": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties (Emily Forlini/Fortune)"
-    },
-    {
-     "title": "央视曝光锂电池代加工骗局：号称在家月入过万，但一分加工费都拿不到",
-     "link": "https://www.ithome.com/1/010/860.htm",
-     "pubDate": "Fri, 09 Oct 2026 04:04:03 GMT",
-     "summary": "IT之家 10 月 9 日消息，央视财经今日曝光了 锂电池代加工骗局 ，号称在家月入过万，实则是电池代工陷阱。 报道称，“投资少、上手快，足不出户就能月入过万元……”这个“锂电池代加工”加盟项目在短视频平台大肆宣传，不少人看到后交押金、领原材料回家加工。 但他们很快发现，培训时一学就会，回家动手做出来的电池，无论怎么努力， 永远不合格，一分加工费都拿不到 。 有报案人表示， 交纳 19,000 多元押金 后给这家公司代加工“锂电池”，几个月下来竟然没有做出一件“合格”产品。 图源：Pexels 经查，这个犯罪团伙自 2025 年 3 月起，在没有任何生产锂电池资质的情况下，打着“锂电池代加工”",
-     "source": "IT之家",
-     "zh": "央视曝光锂电池代加工骗局：号称在家月入过万，但一分加工费都拿不到"
     },
     {
      "title": "独家｜深圳DiffuSpace5亿元融资刷新全球扩散语言模型融资纪录，华为、地平线押注其中",
@@ -1860,7 +1860,7 @@
      "title": "Keyboard differences between Windows and Macs",
      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
      "pubDate": "Fri, 09 Oct 2026 03:08:05 +0000",
-     "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 27 # Comments: 20",
+     "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 33 # Comments: 21",
      "source": "Hacker News",
      "zh": "Keyboard differences between Windows and Macs"
     },
@@ -1871,14 +1871,6 @@
      "summary": "天顺风能再获政策性资本金，资金仍难改行业深层问题。",
      "source": "钛媒体",
      "zh": "8000亿“准财政”开闸，天顺风能抢到2.29亿，但风电的苦日子还没到头"
-    },
-    {
-     "title": "What should we tell our students?",
-     "link": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
-     "pubDate": "Fri, 09 Oct 2026 02:27:45 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/ Comments URL: https://news.ycombinator.com/item?id=50015236 Points: 62 # Comments: 54",
-     "source": "Hacker News",
-     "zh": "What should we tell our students?"
     },
     {
      "title": "Microsoft denies JD Vance&apos;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)",
@@ -1892,7 +1884,7 @@
      "title": "Reducing undefined behavior in the C language",
      "link": "https://lwn.net/Articles/1095811/",
      "pubDate": "Fri, 09 Oct 2026 02:02:53 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 44 # Comments: 22",
+     "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 49 # Comments: 24",
      "source": "Hacker News",
      "zh": "Reducing undefined behavior in the C language"
     },
@@ -1940,9 +1932,17 @@
      "title": "Bevy 0.20",
      "link": "https://bevy.org/news/bevy-0-20/",
      "pubDate": "Thu, 08 Oct 2026 22:57:50 +0000",
-     "summary": "Article URL: https://bevy.org/news/bevy-0-20/ Comments URL: https://news.ycombinator.com/item?id=50013610 Points: 95 # Comments: 17",
+     "summary": "Article URL: https://bevy.org/news/bevy-0-20/ Comments URL: https://news.ycombinator.com/item?id=50013610 Points: 100 # Comments: 17",
      "source": "Hacker News",
      "zh": "Bevy 0.20"
+    },
+    {
+     "title": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud",
+     "link": "https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/",
+     "pubDate": "Thu, 08 Oct 2026 22:40:11 +0000",
+     "summary": "Documents obtained by Democracy Forward show that ICE looked into feeding voter roll data into the ELITE tool, normally used to identify targets for deportation.",
+     "source": "WIRED",
+     "zh": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud"
     }
    ]
   },
@@ -1952,6 +1952,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The Kindle experience on the new Alexa tablets really does look ‘rad’",
+     "link": "https://www.androidauthority.com/amazon-alexa-tablet-kindle-mode-3721057/",
+     "pubDate": "Fri, 09 Oct 2026 04:43:33 +0000",
+     "summary": "Kindle Mode is one of the coolest tricks on Amazon's new Alexa tablets.",
+     "source": "Android Authority",
+     "zh": "The Kindle experience on the new Alexa tablets really does look ‘rad’"
+    },
     {
      "title": "OnePlus 15 gets Color OS 17 Open Beta ahead of OPPO’s global launch",
      "link": "https://www.androidauthority.com/oneplus-15-coloros-17-open-beta-3721053/",
@@ -2177,14 +2185,6 @@
      "zh": "Today’s Android app deals and freebies: Ace Attorney, Star Wars, Hacking Destiny, more"
     },
     {
-     "title": "AI-generated political robocalls could flood your phone if FCC green-lights petition",
-     "link": "https://www.androidauthority.com/fcc-ai-political-robocall-3720952/",
-     "pubDate": "Thu, 08 Oct 2026 18:33:47 +0000",
-     "summary": "Commissioner warns of 'tsunami of robocalls' if AI election calls request is granted.",
-     "source": "Android Authority",
-     "zh": "AI-generated political robocalls could flood your phone if FCC green-lights petition"
-    },
-    {
      "title": "Google is ending support for Pixel Watch’s emergency LTE ‘Safety Signal’",
      "link": "https://9to5google.com/2026/10/08/google-ending-safety-signal-support-pixel-watch/",
      "pubDate": "Thu, 08 Oct 2026 18:29:38 +0000",
@@ -2201,20 +2201,92 @@
    "total": 13,
    "items": [
     {
+     "title": "OpenAI’s Asia-Pacific public policy Chief Sanghyun Lee departs after brief tenure of six months",
+     "link": "https://seekingalpha.com/news/4651636-openais-asia-pacific-public-policy-chief-sanghyun-lee-departs-after-brief-tenure-of-six-months?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 00:42:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "OpenAI’s Asia-Pacific public policy Chief Sanghyun Lee departs after brief tenure of six months"
+    },
+    {
+     "title": "中广核贝谷两款自主CT安检设备获中国民航局使用许可",
+     "link": "http://finance.eastmoney.com/news/1354,202610093891026719.html",
+     "pubDate": "Fri, 09 Oct 2026 12:40:24 +0800",
+     "summary": "据 中国广核 集团消息，近日，由中广核核技术发展股份有限公司受托管理的中广核贝谷科技有限公司（简称“中广核贝谷”）自主研发的BGCT-0824中型CT安检设备、BGCT-1050S大型CT安检设备，正式取得《中国民用航空局安全检查设备使用许可证》，标志着中广核贝谷正式获得民航托运行李安检场景的准入资质。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "中广核贝谷两款自主CT安检设备获中国民航局使用许可"
+    },
+    {
+     "title": "Telecom stocks drop as SpaceX acquires spectrum for Starlink",
+     "link": "https://seekingalpha.com/news/4651639-telecom-stocks-drop-as-spacex-acquires-spectrum-for-starlink?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 00:38:38 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Telecom stocks drop as SpaceX acquires spectrum for Starlink"
+    },
+    {
+     "title": "马斯克旗下AI代理产品Grok Bot接入Claude",
+     "link": "http://finance.eastmoney.com/news/1354,202610093891026022.html",
+     "pubDate": "Fri, 09 Oct 2026 12:36:01 +0800",
+     "summary": "当地时间10月7日，马斯克宣布，AI代理产品Grok Bot将根据具体任务选用最合适的后端模型，并直接点名Claude Opus 5.5、Midjourney和Suno。Grok Bot在8月11日推出Beta版，这款智能助手自带云电脑，可以在上面替用户执行任务。按照官方介绍，Bot可以使用工具、登录应用、跨软件处理工作；多个Bot还能相互沟通、分享任务背景，分工协作。用户离开电脑后，工作也能继续。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "马斯克旗下AI代理产品Grok Bot接入Claude"
+    },
+    {
+     "title": "报告：英伟达可能在部分后端环节采用英特尔的Foveros芯片技术",
+     "link": "http://finance.eastmoney.com/news/1354,202610093891025782.html",
+     "pubDate": "Fri, 09 Oct 2026 12:36:01 +0800",
+     "summary": "韩国GF证券分析师Jeff Pu在一份报告中提到， 英伟达 可能在部分后端环节采用 英特尔 的Foveros芯片技术， 英特尔 代工业务有望再拿下一笔潜在订单。 英特尔 14A制程预计在2028年下半年投产， 英伟达 可能在同一时期通过Foveros封装把这个选项纳入进来。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "报告：英伟达可能在部分后端环节采用英特尔的Foveros芯片技术"
+    },
+    {
+     "title": "港股年内募资3856亿港元 389宗项目候场 每四家就有一家来自A股",
+     "link": "http://finance.eastmoney.com/news/1344,202610093891025662.html",
+     "pubDate": "Fri, 09 Oct 2026 12:34:59 +0800",
+     "summary": "距离全年收官还有一个季度，香港新股市场的轮廓已经清晰。 Wind数据显示，截至10月8日，年内已有115家企业在港完成首次公开发行，除 岚图汽车 未披露募资金额外，其余114家合计募资约3855.66亿港元。这一规模距离2010年创下的4495亿港元历史峰值，仅剩639亿港元左右的差距。 从市场表现来看，今年港股IPO呈现出较为鲜明的结构性特征：一方面，A+H上市持续成为大额融资的重要来源，另一方面，AI、 半导体 、智能硬件等硬科技企业占据较大比重；与此同时，新股上市后的表现出现明显分化，部分新股首日涨幅较高，但上市以来股价回落的公司数量明显更多。 在供给端，港交所门前的队伍仍在拉长，目前共",
+     "source": "东方财富股票",
+     "zh": "港股年内募资3856亿港元 389宗项目候场 每四家就有一家来自A股"
+    },
+    {
+     "title": "软银据悉正寻求从海湾地区投资者募资1000亿美元",
+     "link": "http://finance.eastmoney.com/news/1360,202610093891025840.html",
+     "pubDate": "Fri, 09 Oct 2026 12:34:58 +0800",
+     "summary": "软银据悉正寻求从海湾地区投资者募资1000亿美元，用于扩大AI领域投资。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "软银据悉正寻求从海湾地区投资者募资1000亿美元"
+    },
+    {
+     "title": "莱美药业拟3123万挂牌卖老厂：连续7年亏损，累计亏超8.7亿",
+     "link": "http://finance.eastmoney.com/news/1354,202610093891026197.html",
+     "pubDate": "Fri, 09 Oct 2026 12:34:40 +0800",
+     "summary": "红星资本局10月9日消息 10月8日晚， 莱美药业 （300006.SZ）发布公告称，拟公开挂牌出售部分资产，标的为公司持有的重庆市南岸区月季路8号土地使用权及地上房屋建筑物、构筑物，挂牌底价3123.2万元。 10月9日，就转让药厂等情况，红星资本局以投资者身份致电 莱美药业 证券部，工作人员表示，公司公告中有具体说明，对公司净利润的影响是2000多万元。 标的资产账面价值382.48万 评估价值为3123.20万 公告显示，月季路8号是 莱美药业 的老厂旧址，2003年建成。厂区内共有6栋房屋建筑物，总面积10104.28平方米；另有1条固体制剂生产线、7项构筑物及1宗工业用地，占地面积2",
+     "source": "东方财富股票",
+     "zh": "莱美药业拟3123万挂牌卖老厂：连续7年亏损，累计亏超8.7亿"
+    },
+    {
+     "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
+     "link": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 04:30:01 GMT",
+     "summary": "Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks",
+     "source": "Financial Times",
+     "zh": "SoftBank seeks $100bn from Gulf investors to expand AI bet"
+    },
+    {
+     "title": "光连接“小巨人”宇特光电上市，半日飙涨436%",
+     "link": "http://www.eeo.com.cn/2026/1009/1058253.shtml",
+     "pubDate": "Fri, 09 Oct 2026 12:26:09 +0800",
+     "summary": "中新经纬10月9日电 10月9日，宇特光电登陆北交所。 上市首日，宇特光电大幅高开489%，截至午盘股价涨436.29%报73.74元/股。该股发行价为13.75元/股，实际募集资金2.43亿元。 宇特光电是一家专注于光连接产品研发设计、精密制造与销售业务的国家级专精特新“小巨人”企业，致力于为光通信领域设备商、系统集成商、国内外电信运营商、光电子器件企业提供高性能的光连接整体解决方案。核心产品主要应用于数据中心与光...",
+     "source": "经济观察网",
+     "zh": "光连接“小巨人”宇特光电上市，半日飙涨436%"
+    },
+    {
      "title": "Nvidia-backed AI firm Firmus cancels historic $5B IPO",
      "link": "https://seekingalpha.com/news/4651632-nvidia-backed-ai-firm-firmus-cancels-historic-5b-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 00:23:15 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Nvidia-backed AI firm Firmus cancels historic $5B IPO"
-    },
-    {
-     "title": "名创优品：10月8日斥资23.53万美元回购10.50万股",
-     "link": "http://finance.eastmoney.com/news/1354,202610093891022425.html",
-     "pubDate": "Fri, 09 Oct 2026 12:14:30 +0800",
-     "summary": "南财智讯10月9日电， 名创优品 （09896.HK）发布翌日披露报表，10月8日，公司于纽约证券交易所回购10.50万股，每股回购最高价为2.26美元，最低价为2.23美元，付出的总代价为23.53万美元。本次回购股份拟注销。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "名创优品：10月8日斥资23.53万美元回购10.50万股"
     },
     {
      "title": "国内商品期市早盘收盘涨多跌少 甲醇涨近7%",
@@ -2257,14 +2329,6 @@
      "zh": "A股开盘：近3000只个股飘绿，三大指数集体低开；通信设备、半导体下跌；海运、油气上涨"
     },
     {
-     "title": "股市午报：A股震荡走低，沪指跌超1%！江淮汽车，再度跌停",
-     "link": "http://finance.eastmoney.com/news/1354,202610093891022342.html",
-     "pubDate": "Fri, 09 Oct 2026 12:12:44 +0800",
-     "summary": "今日，A股三大指数震荡走低，截至午间收盘，沪指跌1.21%，深证成指跌2.09%，创业板指跌2.61%。 全市场约4400只个股下跌，半日成交额逾1.1万亿元。 盘面上， 粮食概念 活跃， 金健米业 等涨停； 电池 板块走强， 丰元股份 、 雄韬股份 2连板。另外， 煤炭 、 贵金属 、证券等板块涨幅居前； MLCC 概念、 PCB 概念、 元件 、 半导体 等板块跌幅居前。 继昨日跌停后， 江淮汽车 今天上午再度跌停。 10月8日，“尊界V800刹车踏板支架断裂”相关话题冲上 微博 热搜，受此消息影响， 江淮汽车 股价跌停。 8日晚间，尊界 汽车 官方 微博 发布关于尊界 汽车 制动踏板支架",
-     "source": "东方财富股票",
-     "zh": "股市午报：A股震荡走低，沪指跌超1%！江淮汽车，再度跌停"
-    },
-    {
      "title": "OpenAI reportedly targets $70B annualized revenue by end of 2026",
      "link": "https://seekingalpha.com/news/4651628-openai-reportedly-targets-70b-annualized-revenue-by-end-of-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 00:12:09 -0400",
@@ -2281,44 +2345,12 @@
      "zh": "&apos;Real boss of India?&apos;: Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls"
     },
     {
-     "title": "完善公司全球化战略布局，泰晶科技拟投4000万美元越南建厂，股价年内涨超80%",
-     "link": "http://finance.eastmoney.com/news/1354,202610093891022658.html",
-     "pubDate": "Fri, 09 Oct 2026 12:11:43 +0800",
-     "summary": "10月9日， 泰晶科技 (603738.SH)发布设立境外全资子公司并建设生产基地公告，为进一步完善公司全球化战略布局，快速推动海外业务发展进程，及时响应客户需求，公司拟在越南设立全资子公司并建设生产基地。 公告暂未披露越南工厂的具体产能数值、分阶段投产节奏等细化量化规划，但明确了资金投向框架与产能建设的核心方向。 公告显示，本次总投资额不超过4000万美元（实际投资金额以中国及当地主管部门批准金额为准），均来源于公司的境内自有资金，投资款主要用于设立及运营境外公司、购买土地和厂房、厂房建设、设备采购、流动资金等相关事项。 公司本次拟在越南设立的子公司名为越南 泰科电子 有限公司，注册地址位于",
-     "source": "东方财富股票",
-     "zh": "完善公司全球化战略布局，泰晶科技拟投4000万美元越南建厂，股价年内涨超80%"
-    },
-    {
-     "title": "10月9日港股午盘：恒指涨1.09% 小米集团-W领涨成分股",
-     "link": "http://stock.eastmoney.com/news/11770,202610093891020160.html",
-     "pubDate": "Fri, 09 Oct 2026 12:10:18 +0800",
-     "summary": "港股10月9日午盘走高，恒生指数收报24045.71点，涨259.92点，涨幅1.09%；恒生科技指数收报4136.35点，涨62.97点，涨幅1.55%。恒生指数成分股中 小米集团-W 、 蒙牛乳业 、 宁德时代 涨幅居前， 华虹宏力 、 药明生物 、 中国人寿 跌幅靠前。恒生科技指数成分股中 小米集团-W 、 零跑汽车 、 理想汽车-W 涨幅居前， 天数智芯 、 智谱 、 华虹宏力 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指",
-     "source": "东方财富股票",
-     "zh": "10月9日港股午盘：恒指涨1.09% 小米集团-W领涨成分股"
-    },
-    {
-     "title": "港股午评：恒生指数涨1.09% 恒生科技指数涨1.55%",
-     "link": "http://stock.eastmoney.com/news/11771,202610093891020077.html",
-     "pubDate": "Fri, 09 Oct 2026 12:10:11 +0800",
-     "summary": "港股10月9日午盘走高，恒生指数收报24045.71点，涨259.92点，涨幅1.09%；恒生科技指数收报4136.35点，涨62.97点，涨幅1.55%。恒生指数成分股中 小米集团-W 、 蒙牛乳业 、 宁德时代 涨幅居前， 华虹宏力 、 药明生物 、 中国人寿 跌幅靠前。恒生科技指数成分股中 小米集团-W 、 零跑汽车 、 理想汽车-W 涨幅居前， 天数智芯 、 智谱 、 华虹宏力 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指",
-     "source": "东方财富股票",
-     "zh": "港股午评：恒生指数涨1.09% 恒生科技指数涨1.55%"
-    },
-    {
      "title": "AI要钱、欧美政府也要钱！全球“资本争夺战”打响，债券风暴才“刚刚开始”",
      "link": "https://wallstreetcn.com/articles/3783240",
      "pubDate": "Fri, 09 Oct 2026 12:10:07 +0800",
      "summary": "过去两年，市场最拥挤的叙事是AI：算力、芯片、数据中心、云服务，所有资产都在围绕人工智能重估。但现在，一个更底层的问题开始浮出水面：AI不只要算力，它还要钱；而且要的是天量、长期、低容错的资本。 与此同时，美国政府、欧洲政府、日本政府，也都在要钱。财政赤字高企、债务滚动再融资、利息支出飙升，正在把全球债券市场推向一个新的阶段： 资本不再廉价，也不再充裕。 这意味着，过去十几年建立在“低利率、充裕流动性、无限融资能力”之上的资本市场逻辑，正在被改写。 真正的风险并不只是某一家AI公司发债成本升高，也不只是美国赤字突破2万亿美元，背后两股巨大的融资需求正在同时挤向同一个市场：一边是AI超级资本开支",
      "source": "华尔街见闻",
      "zh": "AI要钱、欧美政府也要钱！全球“资本争夺战”打响，债券风暴才“刚刚开始”"
-    },
-    {
-     "title": "工业用地被有偿收回 新乡化纤部分生产线及子公司星鹭科技停产",
-     "link": "http://finance.eastmoney.com/news/1354,202610093891022134.html",
-     "pubDate": "Fri, 09 Oct 2026 12:09:38 +0800",
-     "summary": "上证报中国证券网讯（记者姚炯）10月9日午间， 新乡化纤 发布公告称，公司位于牧野大道与耿黄大道西北角、面积约98.85亩的工业用地，拟由新乡市凤泉区人民政府有偿收回。首期土地及地上附着物补偿金额合计为5123.34万元，后续将根据拆迁进度、资产处置及验收等情况另行签署相关协议。 鉴于上述土地使用权变更，经公司管理层研究并报董事会审议通过，决定自2026年10月12日起对公司北区生物质纤维素长丝生产线及子公司新乡市星鹭科技有限公司实施停产。 （文章来源：上海证券报·中国证券网）",
-     "source": "东方财富股票",
-     "zh": "工业用地被有偿收回 新乡化纤部分生产线及子公司星鹭科技停产"
     },
     {
      "title": "创业板失守3000点，电池产业链逆势拉升，算力硬件集体下挫，江淮汽车跌停，恒指、恒科指齐涨超1%，小米暴涨7%",
@@ -2377,28 +2409,12 @@
      "zh": "Friday’s Economic Calendar"
     },
     {
-     "title": "大连化物所提出螯合剂介导双电层调控策略 实现直接海水电解制氢",
-     "link": "http://www.eeo.com.cn/2026/1009/1058193.shtml",
-     "pubDate": "Fri, 09 Oct 2026 11:52:12 +0800",
-     "summary": "上证报中国证券网讯（记者 韩远飞）10月8日，大连化物所发布消息，近日，该所燃料电池研究部燃料电池系统科学与工程研究中心（DNL0301组群）邵志刚研究员团队联合澳大利亚科廷大学邵宗平教授团队，在直接海水电解制氢阴极界面调控研究中取得新进展。团队通过向海水电解液引入螯合剂乙二胺四亚甲基膦酸钠（EDTMPS），开展双电层工程化调控，同步解决了海水析氢动力学迟缓，以及阴极钙、镁氢氧化物沉积等关键难题，实现了安培级电流...",
-     "source": "经济观察网",
-     "zh": "大连化物所提出螯合剂介导双电层调控策略 实现直接海水电解制氢"
-    },
-    {
      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
      "link": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
      "pubDate": "Fri, 09 Oct 2026 03:51:15 GMT",
      "summary": "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.",
      "source": "CNBC",
      "zh": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility"
-    },
-    {
-     "title": "Australian data centre operator pulls $5bn IPO",
-     "link": "https://www.ft.com/content/205ef7a5-321f-46e3-8097-d055bf1f6b3b?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 03:11:08 GMT",
-     "summary": "Nvidia-backed Firmus abandons plan to list in Sydney, blaming ‘recent market volatility and prevailing market conditions’",
-     "source": "Financial Times",
-     "zh": "Australian data centre operator pulls $5bn IPO"
     },
     {
      "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
@@ -2423,22 +2439,6 @@
      "summary": "AI军备竞赛正在将美国债市推向临界点。SpaceX、博通、甲骨文在不到一周内合计寻求逾1500亿美元融资，叠加此前已在路演的博通-Anthropic600亿美元债务，AI生态系统的借贷狂潮已令公开债券市场趋于饱和，迫使越来越多的交易转入私募信贷和表外特殊目的载体（SPV）。 这场融资浪潮正在重塑整个信用市场的风险定价。 据彭博数据，今年超级大额科技债（单笔250亿美元以上）已达9笔，创历史纪录，科技板块成为近期信用市场表现最差的板块之一。与此同时，甲骨文五年期CDS飙升至261个基点的历史收盘高位，SpaceX五年期CDS突破197个基点再创纪录，就连全球市值最高的英伟达，其五年期违约概率也被",
      "source": "华尔街见闻",
      "zh": "SpaceX、博通、甲骨文密集天量发债！美国债市“挤爆了”，“集中度越来越高，最终都受AI周期影响”"
-    },
-    {
-     "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
-     "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 00:52:00 GMT",
-     "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
-     "source": "MarketWatch",
-     "zh": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares"
-    },
-    {
-     "title": "苹果10月双线出击：首款触控MacBook与新iPad mini同步亮相",
-     "link": "https://wallstreetcn.com/articles/3783233",
-     "pubDate": "Fri, 09 Oct 2026 08:48:33 +0800",
-     "summary": "苹果公司正筹备10月下旬的第二场产品发布会，将推出旗下首款触控屏MacBook，以及搭载OLED屏幕的全新iPad mini。 据彭博报道，此次发布会定于10月27日前后举行，形式与10月13日的智能家居发布会相同——包含线上视频展示及面向媒体的线下体验环节。 这也是新任CEO John Ternus上月接掌苹果后，主导的首批重磅产品发布。 触控MacBook：等了三年，终于来了 新款MacBook Pro代号K114和K116，将是苹果首次在Mac产品线引入触控屏。 彭博早在2023年便率先披露了这一项目。 硬件层面，新机将比现款更轻，屏幕升级为OLED材质，同时引入iPhone用户熟悉的\"",
-     "source": "华尔街见闻",
-     "zh": "苹果10月双线出击：首款触控MacBook与新iPad mini同步亮相"
     }
    ]
   },

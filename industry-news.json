@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 03:51:58",
+ "generated_at": "2026/10/10 04:12:00",
  "recent_days": 7,
  "industries": [
   {
@@ -281,36 +281,12 @@
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
-     "title": "Defence satcom revenues to surpass $23bn by 2035",
-     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
-     "source": "Electronics Weekly",
-     "zh": "Defence satcom revenues to surpass $23bn by 2035"
-    },
-    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
-    },
-    {
-     "title": "Axiom Space highlights space computing progress",
-     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
-     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
-     "source": "Electronics Weekly",
-     "zh": "Axiom Space highlights space computing progress"
-    },
-    {
-     "title": "The Single-Chip PC",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
-     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -327,30 +303,6 @@
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
-    },
-    {
-     "title": "Failure analysis in the era of 3D integration",
-     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
-     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Failure analysis in the era of 3D integration"
-    },
-    {
-     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
-     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
-     "source": "Electronics Weekly",
-     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
-    },
-    {
-     "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:04:25 +0000",
-     "summary": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Robotaxi growth, Arm Qualcomm battle"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -495,6 +447,54 @@
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
+    },
+    {
+     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
+     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
+     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
+     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
+    },
+    {
+     "title": "Shift Left Complicates Fab Data Management",
+     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
+     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
+     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Shift Left Complicates Fab Data Management"
+    },
+    {
+     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
+     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -504,6 +504,14 @@
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "Kingston University chosen to lead UK’s first waste and recycling robotics hub",
+     "link": "https://roboticsandautomationnews.com/2026/10/09/kingston-university-chosen-to-lead-uks-first-waste-and-recycling-robotics-hub/105800/",
+     "pubDate": "Fri, 09 Oct 2026 20:05:56 +0000",
+     "summary": "Kingston University has been selected to lead the UK’s first dedicated waste and recycling robotics adoption hub as part of a £40 million (approximately $53 million) government scheme. The National Waste and Recycling Robotics Adoption Hub (NORAH), funded by Innovate UK and based in the Southeast of",
+     "source": "Robotics & Automation",
+     "zh": "Kingston University chosen to lead UK’s first waste and recycling robotics hub"
+    },
     {
      "title": "Why humanoid robot demos still fail the generalization test",
      "link": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
@@ -527,6 +535,14 @@
      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
      "source": "IEEE Spectrum 机器人",
      "zh": "Video Friday: Robot Decommissioning Takes a Fun Turn"
+    },
+    {
+     "title": "Groceryshop 2026 shows that retail robots are ready to scale, use AI",
+     "link": "https://www.therobotreport.com/groceryshop-2026-shows-retail-robots-ready-scale-use-ai/",
+     "pubDate": "Fri, 09 Oct 2026 12:25:47 +0000",
+     "summary": "Groceryshop 2026 not only featured mobile robots for taking inventory, but it also showed how retail automation is evolving. The post Groceryshop 2026 shows that retail robots are ready to scale, use AI appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "Groceryshop 2026 shows that retail robots are ready to scale, use AI"
     },
     {
      "title": "Robot Talk Episode 165 – Robots behind the research, with Kushant Patel",
@@ -585,14 +601,6 @@
      "zh": "SafeWorld emerges from stealth to build, deploy robot safety simulation technologies"
     },
     {
-     "title": "Lowe’s launches 20-minute drone delivery with Wing and DoorDash",
-     "link": "https://roboticsandautomationnews.com/2026/10/08/lowes-launches-20-minute-drone-delivery-with-wing-and-doordash/105770/",
-     "pubDate": "Thu, 08 Oct 2026 20:54:57 +0000",
-     "summary": "Lowe’s has launched drone delivery, the newest fulfillment method for the retailer that delivers select home improvement items directly to DIY and pro customers “in as fast as 20 minutes”. This pilot is now live at Lowe’s store in Matthews, North Carolina, and adds to same-day fulfillment options fo",
-     "source": "Robotics & Automation",
-     "zh": "Lowe’s launches 20-minute drone delivery with Wing and DoorDash"
-    },
-    {
      "title": "Jabil discusses the pace of humanoid robot development and production",
      "link": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
      "pubDate": "Thu, 08 Oct 2026 16:16:21 +0000",
@@ -607,14 +615,6 @@
      "summary": "Helm.ai trained its foundation models using its unsupervised 'deep teaching' methodology to master the structure of the physical world itself. The post Helm.ai reaches $70M in signed commercial contracts for its foundation models appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "Helm.ai reaches $70M in signed commercial contracts for its foundation models"
-    },
-    {
-     "title": "AWS launches open-source Physical AI Toolchain for robotics",
-     "link": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
-     "pubDate": "Thu, 08 Oct 2026 13:23:58 +0000",
-     "summary": "The toolchain combines AWS and NVIDIA tools for synthetic data generation, model training, simulation and validation, edge deployment, and continuous improvement. The post AWS launches open-source Physical AI Toolchain for robotics appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "AWS launches open-source Physical AI Toolchain for robotics"
     },
     {
      "title": "This Disembodied Hand Is All the Robot You Need",
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
+     "link": "https://oilprice.com/Energy/Energy-General/5-Stocks-Cashing-In-as-100-Oil-Pushes-Drivers-Toward-Electric.html",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 -0500",
+     "summary": "Gasoline topped $4.40 a gallon in the U.S. in September, and Brent has sat above $100 a barrel since early September, up from around $60 before the Iran war started. Drivers have responded about how you'd expect. New hybrid sales in the U.S. rose 24% through the third quarter, battery-electric regis",
+     "source": "OilPrice",
+     "zh": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric"
+    },
+    {
      "title": "Clean-energy super PAC names its target list for general elections",
      "link": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-target",
      "pubDate": "Fri, 09 Oct 2026 13:33:00 -0400",
@@ -913,20 +921,12 @@
      "zh": "Can Lasers Beat Drone Swarms? The Pentagon Is About to Find Out"
     },
     {
-     "title": "Canada’s New Oil Pipeline Challenged by Cold Lake First Nations",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Canadas-New-Oil-Pipeline-Challenged-by-Cold-Lake-First-Nations.html",
-     "pubDate": "Fri, 09 Oct 2026 09:30:00 -0500",
-     "summary": "Cold Lake First Nations is challenging the Canadian federal government’s decision to designate Canada’s new oil pipeline project to the West Coast a project of national interest. Last week, the federal government designated the new oil pipeline to the West Coast, which Canada and Alberta are advanci",
-     "source": "OilPrice",
-     "zh": "Canada’s New Oil Pipeline Challenged by Cold Lake First Nations"
-    },
-    {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -940,7 +940,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1505,6 +1505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "AI Scramble Drives Cybersecurity M&A Boom",
+     "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+     "pubDate": "Fri, 09 Oct 2026 19:26:26 GMT",
+     "summary": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
+     "source": "Dark Reading",
+     "zh": "AI Scramble Drives Cybersecurity M&A Boom"
+    },
+    {
      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
      "pubDate": "Fri, 09 Oct 2026 23:15:26 +0530",
@@ -1689,14 +1697,6 @@
      "zh": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting"
     },
     {
-     "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
-     "pubDate": "Thu, 08 Oct 2026 18:01:50 GMT",
-     "summary": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations.",
-     "source": "Dark Reading",
-     "zh": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift"
-    },
-    {
      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
      "pubDate": "Wed, 07 Oct 2026 13:48:45 +0000",
@@ -1712,6 +1712,14 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)",
+     "link": "https://www.techmeme.com/261009/p22#a261009p22",
+     "pubDate": "Fri, 09 Oct 2026 16:00:49 -0400",
+     "summary": "6abc : Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 &nbsp; &mdash;&nbsp; Watch the 6abc Philadelphia 24/7 stream featuring Action News, AccuWeather and Entertainment&nbsp; &mdash;&nbsp",
+     "source": "Techmeme",
+     "zh": "Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)"
+    },
     {
      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
      "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
@@ -1764,7 +1772,7 @@
      "title": "You might want to try being less creative",
      "link": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
      "pubDate": "Fri, 09 Oct 2026 18:39:47 +0000",
-     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 23 # Comments: 12",
+     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 31 # Comments: 17",
      "source": "Hacker News",
      "zh": "You might want to try being less creative"
     },
@@ -1772,7 +1780,7 @@
      "title": "Microsoft-Decision-1, our model for fast decision-making",
      "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
      "pubDate": "Fri, 09 Oct 2026 18:38:44 +0000",
-     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 17 # Comments: 3",
+     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 30 # Comments: 10",
      "source": "Hacker News",
      "zh": "Microsoft-Decision-1, our model for fast decision-making"
     },
@@ -1793,14 +1801,6 @@
      "zh": "NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public"
     },
     {
-     "title": "Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad",
-     "link": "https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/",
-     "pubDate": "Fri, 09 Oct 2026 18:28:12 +0000",
-     "summary": "Article URL: https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/ Comments URL: https://news.ycombinator.com/item?id=50024757 Points: 31 # Comments: 31",
-     "source": "Hacker News",
-     "zh": "Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad"
-    },
-    {
      "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
      "link": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
      "pubDate": "Fri, 09 Oct 2026 18:24:39 +0000",
@@ -1812,7 +1812,7 @@
      "title": "M7.6 Earthquake in Panama",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
      "pubDate": "Fri, 09 Oct 2026 18:22:20 +0000",
-     "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 74 # Comments: 23",
+     "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 79 # Comments: 31",
      "source": "Hacker News",
      "zh": "M7.6 Earthquake in Panama"
     },
@@ -1820,7 +1820,7 @@
      "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
      "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
      "pubDate": "Fri, 09 Oct 2026 18:16:03 +0000",
-     "summary": "Article URL: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find Comments URL: https://news.ycombinator.com/item?id=50024571 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find Comments URL: https://news.ycombinator.com/item?id=50024571 Points: 24 # Comments: 9",
      "source": "Hacker News",
      "zh": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward"
     },
@@ -1839,6 +1839,14 @@
      "summary": "Dominic-Madori Davis / TechCrunch : Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M &nbsp; &mdash;&nbsp; Vesta, an AI-native software startup that helps lenders originate mortgages, announced on Thursday ",
      "source": "Techmeme",
      "zh": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)"
+    },
+    {
+     "title": "Typesafe AI raises $870M at $7.5B",
+     "link": "https://typesafe.ai/blog/series-ai",
+     "pubDate": "Fri, 09 Oct 2026 17:02:31 +0000",
+     "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 117 # Comments: 88",
+     "source": "Hacker News",
+     "zh": "Typesafe AI raises $870M at $7.5B"
     },
     {
      "title": "LumenUs helps automate tedious paperwork in times of grief",
@@ -1943,14 +1951,6 @@
      "summary": "IT之家 10 月 9 日消息，据央视新闻今日报道，爱达邮轮在港正式发布第二艘国产大型邮轮“爱达 · 花城号”的航线及产品布局，“爱达 · 花城号”将于明年正式以香港为母港，这艘邮轮将于今年 11 月启航并造访香港。 据介绍， “爱达 · 花城号”将于 2027 年全面展开香港母港航季 ，预计营运近 20 个邮轮航次。航线设计灵活多元，增设 3 个海上游航次，为本地旅客提供“邮轮即是目的地”的海上体验。 爱达邮轮表示，香港兼具国际化区位优势、成熟的邮轮母港条件和多元客源基础是爱达邮轮深耕大湾区、连接国际的重要支点。此次“爱达 · 花城号”在香港开启母港航季， 是完善广州、深圳、香港三港协同 ，",
      "source": "IT之家",
      "zh": "第二艘国产大邮轮“爱达 · 花城号”明年将以香港作为母港营运"
-    },
-    {
-     "title": "NY AG announces an up-to-$35M settlement with ex-Celsius CEO Alex Mashinsky that permanently bars him from the securities, commodities, and crypto industries (Olivier Acuna/CoinDesk)",
-     "link": "https://www.techmeme.com/261009/p16#a261009p16",
-     "pubDate": "Fri, 09 Oct 2026 11:20:01 -0400",
-     "summary": "Olivier Acuna / CoinDesk : NY AG announces an up-to-$35M settlement with ex-Celsius CEO Alex Mashinsky that permanently bars him from the securities, commodities, and crypto industries &nbsp; &mdash;&nbsp; New York Attorney General Letitia James said Friday she secured up to $35 million from former ",
-     "source": "Techmeme",
-     "zh": "NY AG announces an up-to-$35M settlement with ex-Celsius CEO Alex Mashinsky that permanently bars him from the securities, commodities, and crypto industries (Olivier Acuna/CoinDesk)"
     }
    ]
   },
@@ -1960,6 +1960,38 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple acqui-hires AI startup founded by former NotebookLM developers",
+     "link": "https://9to5mac.com/2026/10/09/apple-acqui-hires-ai-startup-founded-by-former-notebooklm-developers/",
+     "pubDate": "Fri, 09 Oct 2026 20:04:58 +0000",
+     "summary": "The European Union’s Digital Markets Act transparency website lists Huxe as Apple’s newest acqui-hire, and at least the fourth AI-related deal disclosed this year. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Apple acqui-hires AI startup founded by former NotebookLM developers"
+    },
+    {
+     "title": "9to5Mac Overtime 085: Here comes the HomePad",
+     "link": "https://9to5mac.com/2026/10/09/9to5mac-overtime-085-here-comes-the-homepad/",
+     "pubDate": "Fri, 09 Oct 2026 20:01:00 +0000",
+     "summary": "Join Jeff and Fernando as they dive into Apple’s upcoming ‘Welcome Home’ event and the highly anticipated launch of the HomePad, Apple’s new smart hub featuring a built-in speaker and display. They also discuss the latest iOS 27.2 code leaks, revealing fresh details about upcoming second-party smart",
+     "source": "9to5Mac",
+     "zh": "9to5Mac Overtime 085: Here comes the HomePad"
+    },
+    {
+     "title": "An Anthropic model submitted a false homicide tip to Philadelphia police",
+     "link": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police/",
+     "pubDate": "Fri, 09 Oct 2026 20:00:30 +0000",
+     "summary": "Thankfully, it does not seem to have diverted police resources.",
+     "source": "Engadget",
+     "zh": "An Anthropic model submitted a false homicide tip to Philadelphia police"
+    },
+    {
+     "title": "9to5Mac Daily: October 9, 2026 – Apple’s ‘Welcome home’ launch announced, more",
+     "link": "https://9to5mac.com/2026/10/09/daily-october-9-2026/",
+     "pubDate": "Fri, 09 Oct 2026 19:54:42 +0000",
+     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your he",
+     "source": "9to5Mac",
+     "zh": "9to5Mac Daily: October 9, 2026 – Apple’s ‘Welcome home’ launch announced, more"
+    },
     {
      "title": "Google is working on HDR emoji for Chat",
      "link": "https://www.gsmarena.com/google_is_working_on_hdr_emoji_for_chat-news-74984.php",
@@ -2073,22 +2105,6 @@
      "zh": "Starlink Mobile’s latest move could spell trouble for the big three carriers"
     },
     {
-     "title": "Grok Bot just got its own email address, here’s how to claim yours",
-     "link": "https://9to5mac.com/2026/10/09/grok-bot-just-got-its-own-email-address-heres-how-to-claim-yours/",
-     "pubDate": "Fri, 09 Oct 2026 17:42:19 +0000",
-     "summary": "Grok Bot just got a second significant upgrade this week: its own email address. more…",
-     "source": "9to5Mac",
-     "zh": "Grok Bot just got its own email address, here’s how to claim yours"
-    },
-    {
-     "title": "Apple Mail added four convenient new features in iOS 27",
-     "link": "https://9to5mac.com/2026/10/09/heres-everything-new-for-apple-mail-in-ios-27/",
-     "pubDate": "Fri, 09 Oct 2026 17:32:12 +0000",
-     "summary": "iOS 27 brings new features to Apple Wallet , Maps , Notes , Messages , and more —and it packs key upgrades for the Mail app too. Here’s everything new for Apple Mail in iOS 27. more…",
-     "source": "9to5Mac",
-     "zh": "Apple Mail added four convenient new features in iOS 27"
-    },
-    {
      "title": "Intel is reportedly launching new CPUs on old sockets that support DDR4 memory",
      "link": "https://www.engadget.com/2282431/intel-is-reportedly-launching-new-cpus-on-old-sockets-that-support-ddr4-memory/",
      "pubDate": "Fri, 09 Oct 2026 17:01:36 +0000",
@@ -2111,14 +2127,6 @@
      "summary": "Apple has released an emergency carrier bundle update for iPhone 18 Pro Max units on AT&T running iOS 27.2 beta. The update has version 72.0.3 and comes a week after Apple released carrier update 72.1 for iOS 27.0 users, while devices running iOS 27.2 beta remained on 72.0.2. [#InlinePriceWidget,147",
      "source": "GSMArena",
      "zh": "Apple iPhone 18 Pro Max running iOS 27.2 beta receives AT&T carrier update"
-    },
-    {
-     "title": "Apple ‘Welcome home’ event: Three new products are coming next week",
-     "link": "https://9to5mac.com/2026/10/09/apple-welcome-home-event-three-new-products/",
-     "pubDate": "Fri, 09 Oct 2026 16:04:53 +0000",
-     "summary": "Apple officially confirmed yesterday that it will hold a product launch event next week on October 13. With a “Welcome home” tagline, the launch is expected to focus on new smart home products. Here’s everything to expect at next week’s Apple event. 9to5Mac’s Apple event coverage is supported by Son",
-     "source": "9to5Mac",
-     "zh": "Apple ‘Welcome home’ event: Three new products are coming next week"
     },
     {
      "title": "Googlebook’s hidden ‘Glowbar Disco’ turns your laptop’s lid into a light show — how to find it",
@@ -2191,14 +2199,6 @@
      "summary": "The company is reportedly rebooting its smart home ambitions with a smart display and a whole bunch of other accessories.",
      "source": "Engadget",
      "zh": "What to expect at Apple's 'Welcome home' event next week"
-    },
-    {
-     "title": "Anthropic now offers a free vulnerability-finding service for open-source software",
-     "link": "https://www.engadget.com/2282005/anthropic-offers-open-source-software-free-ai-security-checks/",
-     "pubDate": "Fri, 09 Oct 2026 11:24:27 +0000",
-     "summary": "Anthropic is offering open-source projects a new way to check for vulnerabilities with its OSS Scanner.",
-     "source": "Engadget",
-     "zh": "Anthropic now offers a free vulnerability-finding service for open-source software"
     }
    ]
   },
@@ -2209,12 +2209,52 @@
    "total": 13,
    "items": [
     {
+     "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
+     "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
+     "pubDate": "Fri, 09 Oct 2026 20:03:03 GMT",
+     "summary": "President Donald Trump has few options to reduce diesel prices given the destruction done to refineries by the wars in Eastern Europe and the Middle East.",
+     "source": "CNBC",
+     "zh": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets"
+    },
+    {
+     "title": "Here’s how Treasury yields could rise to 6% — even without market upheaval",
+     "link": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 20:03:00 GMT",
+     "summary": "The bond market will be closed on Monday for Columbus Day, but the stock market will operate normally.",
+     "source": "MarketWatch",
+     "zh": "Here’s how Treasury yields could rise to 6% — even without market upheaval"
+    },
+    {
+     "title": "Delta expects $5.10-$5.60 EPS and ~$2.5B free cash flow for 2026 amid projected $4.25 fuel",
+     "link": "https://seekingalpha.com/news/4651853-delta-expects-5_10-5_60-eps-and-2_5b-free-cash-flow-for-2026-amid-projected-4_25-fuel?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 15:54:26 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Delta expects $5.10-$5.60 EPS and ~$2.5B free cash flow for 2026 amid projected $4.25 fuel"
+    },
+    {
+     "title": "微软推出高速决策AI模型，性能超GPT-6 Sol达35倍",
+     "link": "https://wallstreetcn.com/articles/3783300",
+     "pubDate": "Sat, 10 Oct 2026 03:52:48 +0800",
+     "summary": "微软正在以专用化策略强化其AI产品线。 周五，微软首席执行官Satya Nadella宣布推出新一代快速决策AI模型 Microsoft-Decision-1，该模型专为结构化决策任务设计。 Nadella在X平台发文表示， 该模型\"在结构化决策任务上表现出色，在延迟和质量方面均优于大语言模型及其他决策模型\"，并已在微软内部用于事故响应、质量控制及科学研究等场景测试。 微软称， 该模型在内部测试中的运行速度比OpenAI的GPT-6 Sol快35倍，比Quyet-1.0-Large快4.5倍。 从定价来看，该模型输入端收费为每百万tokens 0.042美元，输出则免费，这一结构在成本层面对高",
+     "source": "华尔街见闻",
+     "zh": "微软推出高速决策AI模型，性能超GPT-6 Sol达35倍"
+    },
+    {
      "title": "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after getting married",
      "link": "https://www.marketwatch.com/story/country-music-star-zach-bryan-buys-18-million-40-acre-tennessee-estate-after-getting-married-cb4d20eb?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 19:48:00 GMT",
      "summary": "Country star Zach Bryan has reportedly forked over $18.25 million for a sprawling estate in Franklin, Tenn.—months after tying the knot with Samantha Leonard.",
      "source": "MarketWatch",
      "zh": "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after getting married"
+    },
+    {
+     "title": "谷歌即将推出新的人工智能模型 谷歌员工正在测试新版Gemini 4 代号“Carbon”",
+     "link": "http://finance.eastmoney.com/news/1360,202610103891622146.html",
+     "pubDate": "Sat, 10 Oct 2026 03:43:32 +0800",
+     "summary": "谷歌即将推出新的 人工智能 模型，谷歌员工正在测试新版Gemini 4，代号“Carbon”。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "谷歌即将推出新的人工智能模型 谷歌员工正在测试新版Gemini 4 代号“Carbon”"
     },
     {
      "title": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs",
@@ -2225,12 +2265,36 @@
      "zh": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs"
     },
     {
-     "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
-     "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
-     "pubDate": "Fri, 09 Oct 2026 19:40:43 GMT",
-     "summary": "President Donald Trump has few options to reduce diesel prices given the destruction done to refineries by the wars in Eastern Europe and the Middle East.",
-     "source": "CNBC",
-     "zh": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets"
+     "title": "A股五大科技板块 谁上涨逻辑更“硬”？",
+     "link": "http://stock.eastmoney.com/news/1405,202610103891622383.html",
+     "pubDate": "Sat, 10 Oct 2026 03:40:41 +0800",
+     "summary": "今年以来，AI算力基础设施爆发带来的结构性需求激增，其中五大核心硬件板块——光模块、 PCB （ 印刷 电路板）、 MLCC （多层片式陶瓷电容器）、存储器以及光纤皆成受益者，年内涨幅可观。 Wind数据显示，截至10月7日，Wind光模块（CPO）指数年内涨幅高达83.99%，存储器指数在这五大板块中涨幅虽然最低，但也达到了39.91%。 记者采访发现，存储板块年内涨幅虽然不高，但却被认为是涨价逻辑最“硬”的板块。而光模块板块涨幅虽然较大，但今年以来未见明显涨价，且受访人士认为其预期溢价较高。 光模块指数涨幅最大 Wind数据显示，截至10月7日，上述五大硬件领域相关指数年内均有不同程度增长",
+     "source": "东方财富股票",
+     "zh": "A股五大科技板块 谁上涨逻辑更“硬”？"
+    },
+    {
+     "title": "国庆假期楼市观察：成交同比改善，分化格局延续",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891621990.html",
+     "pubDate": "Sat, 10 Oct 2026 03:37:20 +0800",
+     "summary": "今年国庆假期是“9·28”国常会定调“研究出台稳定 房地产 市场、促进就业增收等政策措施”、“9·29”房贷贴息政策落地后的首个长假，也是房企集中营销、居民看房选房的重要窗口。 根据市场机构中指研究院监测，今年10月1日至7日，重点25城新建住宅成交55.1万平方米，较去年国庆假期日均同比增长33.8%，与2024年国庆假期基本持平；重点11城二手房日均成交套数同比增长42.8%，但较2024年同期仍有一定差距。 中指研究院指数研究部总经理曹晶晶向《中国经营报》记者表示，国庆假期网签成交量本身处于全年相对低位，且受假期备案节奏、同期基数等因素影响较大，同比增速易出现明显波动，市场冷热不均的特征",
+     "source": "东方财富股票",
+     "zh": "国庆假期楼市观察：成交同比改善，分化格局延续"
+    },
+    {
+     "title": "据美国商品期货交易委员会：截至10月6日当周 原油投机者WTI净多头头寸削减19,516份合约至111,635份",
+     "link": "http://finance.eastmoney.com/news/1356,202610103891621868.html",
+     "pubDate": "Sat, 10 Oct 2026 03:36:03 +0800",
+     "summary": "据美国商品 期货 交易委员会（CFTC），截至10月6日当周，原油投机者WTI净多头头寸削减19,516份合约至111,635份。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "据美国商品期货交易委员会：截至10月6日当周 原油投机者WTI净多头头寸削减19,516份合约至111,635份"
+    },
+    {
+     "title": "据美国商品期货交易委员会：截至10月6日当周 COMEX黄金投机者净多头头寸削减9,599份合约至114,820份",
+     "link": "http://finance.eastmoney.com/news/1361,202610103891621723.html",
+     "pubDate": "Sat, 10 Oct 2026 03:34:47 +0800",
+     "summary": "据美国商品 期货 交易委员会（CFTC），截至10月6日当周，COMEX 黄金 投机者净多头头寸削减9,599份合约至114,820份；COMEX 白银 投机者净多头头寸削减129份合约至7,608份；COMEX 铜 投机者净多头头寸削减17,244份合约至61,465份。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "据美国商品期货交易委员会：截至10月6日当周 COMEX黄金投机者净多头头寸削减9,599份合约至114,820份"
     },
     {
      "title": "ArcelorMittal raised to Buy at UBS on upbeat European steel price outlook",
@@ -2249,52 +2313,12 @@
      "zh": "Trump agrees deal with Putin for Russia to release diesel"
     },
     {
-     "title": "一座“会飞的城市”，如何飞出新质生产力",
-     "link": "http://finance.eastmoney.com/news/1355,202610103891621460.html",
-     "pubDate": "Sat, 10 Oct 2026 03:28:38 +0800",
-     "summary": "太行山深处，石板岩镇，一架 无人机 从邮政支局前坪腾空而起，载着 快递 飞向海拔1100米的上坪村。7分钟后，包裹落在村委会旁的低空 物流 接收站。而就在一年前，这段山路靠人走，单程要5个小时。 这里是河南安阳，一座常被外地人认知为“殷墟所在地”的古城，如今有了另一张名片： 低空经济 之城。 从1955年国家体育总局在安阳创办航空运动学校算起，安阳的飞行基因已经延续了70余年。而真正把这份基因转化为产业能力的，是过去10年间一条从制造到场景、从科创到人才的完整链条。2025年，安阳 低空经济 相关产业产值近20亿元，集聚经营主体超过200家。一个内陆三、四线城市，凭什么飞起来？又飞出了什么？ ",
+     "title": "从太行山到手术室 安阳低空经济“飞”进日常",
+     "link": "http://finance.eastmoney.com/news/1355,202610103891622095.html",
+     "pubDate": "Sat, 10 Oct 2026 03:31:32 +0800",
+     "summary": "9分钟，一袋血液从河南安阳市中心血站送到市区某 医院 手术室。同样一段路，救护车在正常交通状况下需要35分钟。 这条空中通道不是某一次应急演练的成果，而是安阳低空医疗配送的日常航线。在 低空经济 从概念走向应用的过程中，安阳已经将一批场景跑成了日常。 目前，安阳市共搭建了33个 无人机 应用场景，其中12个获得中国民航局认定。从政务巡检到山区 物流 ，从警务实战到医疗配送，这些场景的共同点在于：有频次、有数据、有明确的用户，核心场景的投入产出逻辑已经基本清晰。 从各自采购到“一网统飞” 环保 监测、文物巡查、交通执法、水利巡查、景区巡查等政务飞行是安阳低空场景中起步最早、规模最大的一个。 过去",
      "source": "东方财富股票",
-     "zh": "一座“会飞的城市”，如何飞出新质生产力"
-    },
-    {
-     "title": "直播溯源+科技赋能打开农产品新销路",
-     "link": "http://stock.eastmoney.com/news/1437,202610103891620675.html",
-     "pubDate": "Sat, 10 Oct 2026 03:27:46 +0800",
-     "summary": "金秋时节，秦岭北麓的果园猕猴桃挂满枝头，宁夏贺兰山东麓葡萄园硕果累累，苏州阳澄湖大闸蟹陆续开捕。上海证券报记者日前走访发现，丰收的喜悦，正通过直播电商和科技赋能，转化为农户实实在在的收入。 受访专家表示，当下电商平台不再只是“卖货”，而是深入产地做溯源、建标准、树品牌，利用AI技术等科技赋能，使更多好产品被看见，为 农产品 打开新销路，让农民分享更多产业增值收益。 直播溯源让流量变销量 秦岭北麓，渭河南岸。清晨，记者来到陕西眉县葫芦峪的猕猴桃果园，采摘、称重、包装……果农们已经开启一天的忙碌。 “先有好产地，才可能产生好商家。”9月29日，与辉同行负责人董宇辉和团队来到“中国猕猴桃之乡”陕西眉",
-     "source": "东方财富股票",
-     "zh": "直播溯源+科技赋能打开农产品新销路"
-    },
-    {
-     "title": "供需关系持续改善 有机硅行业景气修复",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891620584.html",
-     "pubDate": "Sat, 10 Oct 2026 03:27:43 +0800",
-     "summary": "10月9日，A股 有机硅概念 板块继续走强， 东岳硅材 、 晨光新材 、 新亚强 涨停， 硅宝科技 、 合盛硅业 等多股跟涨。业内人士分析称，行业供需关系改善、产品价格回升及上市公司盈利修复预期，共同推动 有机硅 板块走高。 价格回升行业盈利修复 有机硅 板块走强的一个重要背景，是行业供需关系改善带来的盈利修复。 早在2025年11月， 有机硅 行业就召开实控人会议，围绕行业自律、调整生产节奏等议题展开讨论，减产30%的目标受到市场关注。此后，随着部分装置检修、供给调整推进，有机硅产品价格逐步回升。 海外供给端也出现调整。 陶氏 宣布关闭英国巴里工厂的基础硅氧烷装置，反映出欧洲部分高成本产能面",
-     "source": "东方财富股票",
-     "zh": "供需关系持续改善 有机硅行业景气修复"
-    },
-    {
-     "title": "供应扰动集中发酵 天然橡胶上下游齐涨价",
-     "link": "http://finance.eastmoney.com/news/1355,202610103891620460.html",
-     "pubDate": "Sat, 10 Oct 2026 03:27:38 +0800",
-     "summary": "继9月30日创下逾9年新高后，天然 橡胶 期货 延续上涨行情。10月9日，上期所天然 橡胶 主力合约RU2701日盘收涨2.89%，报20645元/吨。 现货方面，据百川盈孚市场监测，10月9日，天然 橡胶 国内市场均价为1.97万元/吨，较前一交易日再涨56元/吨，年内涨幅达28.27%，同比上涨31.45%。 广发 期货 认为，全球天然橡胶供给已步入顶部区域，叠加厄尔尼诺事件引发的减产预期，使得胶价对气候扰动的敏感度被显著放大。 在成本压力下，橡胶产业链下游的轮胎企业纷纷开启年内第四轮集中涨价。9月以来，已有60余家轮胎企业发布了70多份涨价函。 多因素扰动天然橡胶供给 多家机构在最新研报",
-     "source": "东方财富股票",
-     "zh": "供应扰动集中发酵 天然橡胶上下游齐涨价"
-    },
-    {
-     "title": "证监会就新修订的公募基金运作办法及配套规则征求意见 强化基金产品逆周期布局管理 适度降低基金成立门槛",
-     "link": "http://stock.eastmoney.com/news/1426,202610103891620770.html",
-     "pubDate": "Sat, 10 Oct 2026 03:27:30 +0800",
-     "summary": "10月9日，中国证监会就新修订形成的《公开募集证券投资基金运作管理办法（征求意见稿）》（下称“办法”）及配套规则公开征求意见。办法将权益类基金、FOF等的成立门槛降低至规模5000万元、份额5000万份，同时优化完全被动复制型指数基金关于 举牌 、减持、短线交易的相关监管要求，适度放松其他指数类基金的交易限制。 办法是证券投资基金法的重要配套部门规章，明确了产品注册、申购赎回、投资限制、收益分配、持有人大会等投资运作事项，对规范基金投资运作、保护投资者权益、促进行业发展起到重要作用。现行运作办法自2014年修订发布至今已逾10年，在此期间市场环境和公募基金业态均发生较大变化，需对规则予以修订完",
-     "source": "东方财富股票",
-     "zh": "证监会就新修订的公募基金运作办法及配套规则征求意见 强化基金产品逆周期布局管理 适度降低基金成立门槛"
-    },
-    {
-     "title": "改性塑料龙头企业提价 下游行业承接能力分化",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891620321.html",
-     "pubDate": "Sat, 10 Oct 2026 03:27:27 +0800",
-     "summary": "10月8日，国内改性 塑料 龙头企业 金发科技 、 道恩股份 发布产品调价通知，宣布对旗下核心产品实施价格上调，涨幅区间为每吨1000元至3000元。 这是继今年3月提价之后，改性 塑料 行业年内又一次上调产品价格，折射出上游石化原料价格高位运行对中游材料企业的挤压已达到新的临界点。 提价：“实属形势所迫” 金发科技 发布的致客户联络函显示，公司对旗下多款改性 塑料 产品实施调价：改性PA6每吨涨价2500元，改性PP、改性PE、改性PA66、改性PBT每吨涨价2000元，改性ABS、改性PS、改性PC每吨涨价1500元，改性PVC每吨涨价1000元，自10月8日起接收的订单开始适用。 道恩股",
-     "source": "东方财富股票",
-     "zh": "改性塑料龙头企业提价 下游行业承接能力分化"
+     "zh": "从太行山到手术室 安阳低空经济“飞”进日常"
     },
     {
      "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
@@ -2369,14 +2393,6 @@
      "zh": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?"
     },
     {
-     "title": "Aerospace and defense stocks offer opportunity, Barclays says in launching coverage",
-     "link": "https://seekingalpha.com/news/4651839-aerospace-and-defense-stocks-offer-opportunity-barclays-says-in-launching-coverage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 14:52:17 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Aerospace and defense stocks offer opportunity, Barclays says in launching coverage"
-    },
-    {
      "title": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
      "link": "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
      "pubDate": "Fri, 09 Oct 2026 18:50:21 GMT",
@@ -2409,14 +2425,6 @@
      "zh": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?"
     },
     {
-     "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-     "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 18:16:00 GMT",
-     "summary": "Telecommunications stocks were seeing their worst daily drops in over a decade.",
-     "source": "MarketWatch",
-     "zh": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat"
-    },
-    {
      "title": "文旅部：国庆假期国内出游总花费同比增长4.3%",
      "link": "http://www.eeo.com.cn/2026/1010/1059117.shtml",
      "pubDate": "Sat, 10 Oct 2026 01:26:17 +0800",
@@ -2439,14 +2447,6 @@
      "summary": "在刚刚过去的三季度，金价走出了先涨后跌的态势。Wind数据显示，7月1日至8月25日，国际金价（以伦敦金现货价格为例）震荡上行，上涨幅度达16.21%，并在8月25日盘中触及4697.07美元/盎司，达到三季度最高价，但此后国际金价开始下行。整体来看，三季度国际金价整体录得3.74%的涨幅。 截至10月9日《证券日报》记者发稿，国际金价报4183.82美元/盎司，日内涨幅达1.2%。 值得一提的是，在国际金价宽幅波动之际，全球央...",
      "source": "经济观察网",
      "zh": "国际金价三季度上涨3.74% 四季度或维持高波动"
-    },
-    {
-     "title": "金融监管总局发布《财产保险公司保险产品开发管理规定》持续强化财险公司产品监管",
-     "link": "http://www.eeo.com.cn/2026/1010/1059114.shtml",
-     "pubDate": "Sat, 10 Oct 2026 01:26:14 +0800",
-     "summary": "据国家金融监督管理总局（以下简称“金融监管总局”）网站10月9日消息，为进一步规范财产保险公司保险产品开发行为，保护投保人、被保险人和受益人合法权益，持续释放强监管信号，提升保险产品供给质效，促进财产保险业高质量发展，近日，金融监管总局修订发布《财产保险公司保险产品开发管理规定》（以下简称《规定》）。《规定》将自2026年11月1日起施行。 据了解，为完善保险产品监管制度，规范财险公司保险产品开发行...",
-     "source": "经济观察网",
-     "zh": "金融监管总局发布《财产保险公司保险产品开发管理规定》持续强化财险公司产品监管"
     }
    ]
   },

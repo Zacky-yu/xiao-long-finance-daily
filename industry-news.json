@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 05:12:01",
+ "generated_at": "2026/10/10 05:32:06",
  "recent_days": 7,
  "industries": [
   {
@@ -921,12 +921,12 @@
      "zh": "Can Lasers Beat Drone Swarms? The Pentagon Is About to Find Out"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
+     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -940,7 +940,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1505,6 +1505,22 @@
    "total": 5,
    "items": [
     {
+     "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
+     "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
+     "pubDate": "Fri, 09 Oct 2026 21:07:46 +0000",
+     "summary": "The ChatGPT maker said the researchers \"violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks"
+    },
+    {
+     "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+     "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+     "pubDate": "Fri, 09 Oct 2026 20:58:32 GMT",
+     "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
+     "source": "Dark Reading",
+     "zh": "ASOS Breach Reveals the Risks in Customer-Facing SaaS"
+    },
+    {
      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
@@ -1673,28 +1689,12 @@
      "zh": "US Disrupts Chinese State-Sponsored Hacking Tools"
     },
     {
-     "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
-     "link": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
-     "pubDate": "Fri, 09 Oct 2026 08:19:33 +0000",
-     "summary": "OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in. The post Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security"
-    },
-    {
      "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
      "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
      "pubDate": "Thu, 08 Oct 2026 20:39:44 GMT",
      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
      "source": "Dark Reading",
      "zh": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt"
-    },
-    {
-     "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
-     "pubDate": "Thu, 08 Oct 2026 19:08:16 GMT",
-     "summary": "The first cybercriminal to ever make the FBI's \"10 Most Wanted Fugitives\" list allegedly infused Tren de Aragua's violent criminal operations with cash.",
-     "source": "Dark Reading",
-     "zh": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting"
     },
     {
      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
@@ -1712,6 +1712,30 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)",
+     "link": "https://www.techmeme.com/261009/p26#a261009p26",
+     "pubDate": "Fri, 09 Oct 2026 17:25:01 -0400",
+     "summary": "Maria Curi / Axios : Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event &nbsp; &mdash;&nbsp; - The first example of significant real-world harm caused by unsafe AI would turn an already wary public further ",
+     "source": "Techmeme",
+     "zh": "Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)"
+    },
+    {
+     "title": "Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it \"feels like Opus 5.5\" (Hugh Langley/Business Insider)",
+     "link": "https://www.techmeme.com/261009/p25#a261009p25",
+     "pubDate": "Fri, 09 Oct 2026 17:16:18 -0400",
+     "summary": "Hugh Langley / Business Insider : Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it &ldquo;feels like Opus 5.5&rdquo; &nbsp; &mdash;&nbsp; As Google prepares to roll out its new Gemini 4 &lsquo;Argon&rsquo; model ",
+     "source": "Techmeme",
+     "zh": "Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it \"feels like Opus 5.5\" (Hugh Langley/Business Insider)"
+    },
+    {
+     "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+     "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+     "pubDate": "Fri, 09 Oct 2026 21:06:59 +0000",
+     "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 17 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops"
+    },
     {
      "title": "小米智能温湿度计 3 Pro 今日开售：129 元，新增二氧化碳浓度监测",
      "link": "https://www.ithome.com/1/011/159.htm",
@@ -1748,7 +1772,7 @@
      "title": "No Man Is an Island",
      "link": "https://borretti.me/article/no-man-is-an-island",
      "pubDate": "Fri, 09 Oct 2026 20:04:00 +0000",
-     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 83 # Comments: 32",
+     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 124 # Comments: 43",
      "source": "Hacker News",
      "zh": "No Man Is an Island"
     },
@@ -1828,7 +1852,7 @@
      "title": "You might want to try being less creative",
      "link": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
      "pubDate": "Fri, 09 Oct 2026 18:39:47 +0000",
-     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 41 # Comments: 23",
+     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 41 # Comments: 24",
      "source": "Hacker News",
      "zh": "You might want to try being less creative"
     },
@@ -1836,7 +1860,7 @@
      "title": "Microsoft-Decision-1, our model for fast decision-making",
      "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
      "pubDate": "Fri, 09 Oct 2026 18:38:44 +0000",
-     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 61 # Comments: 24",
+     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 68 # Comments: 25",
      "source": "Hacker News",
      "zh": "Microsoft-Decision-1, our model for fast decision-making"
     },
@@ -1868,7 +1892,7 @@
      "title": "M7.6 Earthquake in Panama",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
      "pubDate": "Fri, 09 Oct 2026 18:22:20 +0000",
-     "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 92 # Comments: 32",
+     "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 95 # Comments: 33",
      "source": "Hacker News",
      "zh": "M7.6 Earthquake in Panama"
     },
@@ -1876,25 +1900,9 @@
      "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
      "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
      "pubDate": "Fri, 09 Oct 2026 18:16:03 +0000",
-     "summary": "Article URL: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find Comments URL: https://news.ycombinator.com/item?id=50024571 Points: 54 # Comments: 18",
+     "summary": "Article URL: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find Comments URL: https://news.ycombinator.com/item?id=50024571 Points: 61 # Comments: 20",
      "source": "Hacker News",
      "zh": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward"
-    },
-    {
-     "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-     "link": "https://carrierexplode.com/",
-     "pubDate": "Fri, 09 Oct 2026 18:10:55 +0000",
-     "summary": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands. carrier-explode also contains decoders and explanations for all the common baseband configurations, etc. There’s still quite a bit of work to be done in checking my assumption",
-     "source": "Hacker News",
-     "zh": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded"
-    },
-    {
-     "title": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)",
-     "link": "https://www.techmeme.com/261009/p20#a261009p20",
-     "pubDate": "Fri, 09 Oct 2026 13:35:02 -0400",
-     "summary": "Dominic-Madori Davis / TechCrunch : Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M &nbsp; &mdash;&nbsp; Vesta, an AI-native software startup that helps lenders originate mortgages, announced on Thursday ",
-     "source": "Techmeme",
-     "zh": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)"
     },
     {
      "title": "LumenUs helps automate tedious paperwork in times of grief",
@@ -1911,14 +1919,6 @@
      "summary": "The best Stratechery content from the week of October 5, 2026, including drifting apart from Apple, Facebook complications, and the delightful absurdity of U.S.-China dynamics.",
      "source": "Stratechery",
      "zh": "2026.41: It’s Not You, It’s Me"
-    },
-    {
-     "title": "Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally (Davis Giangiulio/CNBC)",
-     "link": "https://www.techmeme.com/261009/p19#a261009p19",
-     "pubDate": "Fri, 09 Oct 2026 12:55:02 -0400",
-     "summary": "Davis Giangiulio / CNBC : Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally &nbsp; &mdash;&nbsp; Blockchain.com, a digital asset platform, wants to get in on the prediction market boom in th",
-     "source": "Techmeme",
-     "zh": "Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally (Davis Giangiulio/CNBC)"
     },
     {
      "title": "内存一年涨175%，卖一台亏一台的手机生意还能撑多久",
@@ -1960,6 +1960,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google Translate could soon get its own version of Gboard’s Rambler",
+     "link": "https://www.androidauthority.com/google-translate-rambler-3721531/",
+     "pubDate": "Fri, 09 Oct 2026 21:17:48 +0000",
+     "summary": "Smart assist would clean up your messy speech before translating.",
+     "source": "Android Authority",
+     "zh": "Google Translate could soon get its own version of Gboard’s Rambler"
+    },
+    {
+     "title": "Flock Safety is reportedly planning major layoffs now that everyone hates it",
+     "link": "https://www.engadget.com/2282823/flock-safety-reportedly-planning-major-layoffs/",
+     "pubDate": "Fri, 09 Oct 2026 21:16:48 +0000",
+     "summary": "Morale at one of the most reviled companies in America appears to be at an all time low.",
+     "source": "Engadget",
+     "zh": "Flock Safety is reportedly planning major layoffs now that everyone hates it"
+    },
     {
      "title": "Pixelated 120: The definitive Pixel tier list",
      "link": "https://9to5google.com/2026/10/09/pixelated-120-the-definitive-pixel-tier-list/",
@@ -2121,14 +2137,6 @@
      "zh": "Apple marks first Apple TV 4K ‘vintage’ with new model imminent"
     },
     {
-     "title": "Apple may have an iPhone 18 Pro demand problem",
-     "link": "https://www.androidauthority.com/iphone-18-pro-sales-3721452/",
-     "pubDate": "Fri, 09 Oct 2026 18:09:18 +0000",
-     "summary": "The new phone apparently isn't selling as well as Apple hoped.",
-     "source": "Android Authority",
-     "zh": "Apple may have an iPhone 18 Pro demand problem"
-    },
-    {
      "title": "SpaceX buys spectrum for Starlink to become a full-fledged US mobile carrier",
      "link": "https://www.gsmarena.com/spacex_buys_spectrum_for_starlink_to_become_a_fullfledged_us_mobile_carrier-news-74982.php",
      "pubDate": "Fri, 09 Oct 2026 20:01:02 +0200",
@@ -2191,14 +2199,6 @@
      "summary": "Proper support lets different formats deliver on their size/price/IQ promise",
      "source": "DPReview",
      "zh": "With the right lenses, all formats can shine"
-    },
-    {
-     "title": "Webb telescope detects galaxy origin of the farthest fast radio burst we've seen to date",
-     "link": "https://www.engadget.com/2282035/webb-telescope-detects-galaxy-origin-of-the-farthest-fast-radio-burst-weve-seen-to-date/",
-     "pubDate": "Fri, 09 Oct 2026 12:28:24 +0000",
-     "summary": "Astronomers used the Webb telescope to see where the farthest fast radio burst we've ever seen had come from.",
-     "source": "Engadget",
-     "zh": "Webb telescope detects galaxy origin of the farthest fast radio burst we've seen to date"
     }
    ]
   },
@@ -2209,6 +2209,86 @@
    "total": 13,
    "items": [
     {
+     "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+     "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 21:27:00 GMT",
+     "summary": "A new report paints OpenAI’s financial picture in a more optimistic light.",
+     "source": "MarketWatch",
+     "zh": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue"
+    },
+    {
+     "title": "Microsoft is nearing a big milestone that solidifies its revival",
+     "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 21:24:00 GMT",
+     "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
+     "source": "MarketWatch",
+     "zh": "Microsoft is nearing a big milestone that solidifies its revival"
+    },
+    {
+     "title": "记者：泽连斯基称 与俄罗斯的石油交易是软弱之举 只会延长冲突",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891633645.html",
+     "pubDate": "Sat, 10 Oct 2026 05:19:31 +0800",
+     "summary": "记者：泽连斯基称，与俄罗斯的石油交易是软弱之举，只会延长冲突。 特朗普：我们是一个强有力的伙伴。世界需要石油。所以我们很高兴能获得柴油。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "记者：泽连斯基称 与俄罗斯的石油交易是软弱之举 只会延长冲突"
+    },
+    {
+     "title": "美国特使威特科夫：讨论了结束俄乌冲突的途径",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891633357.html",
+     "pubDate": "Sat, 10 Oct 2026 05:18:21 +0800",
+     "summary": "美国特使威特科夫：讨论了结束俄乌冲突的途径。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国特使威特科夫：讨论了结束俄乌冲突的途径"
+    },
+    {
+     "title": "巴拿马发生强震 我使馆提醒在巴中国公民防范地震灾害",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891633575.html",
+     "pubDate": "Sat, 10 Oct 2026 05:18:19 +0800",
+     "summary": "据中国地震台网正式测定，巴拿马当地时间10月9日发生7.6级地震，震源深度10千米。中国驻巴拿马使馆当天发布提示，提醒中国在巴公民防范地震灾害。 我使馆提醒在巴中国公民密切关注当地地震预警和灾害相关信息，防范余震及地震导致的次生灾害；保持冷静，做好安全防护，保持 通信设备 畅通。请相关地区中国公民立即远离海边，转移至安全区域避险。如遇紧急情况，请及时报警并联系中国驻巴拿马使馆寻求协助： 巴拿马报警电话：104 外交部全球领事保护与服务应急热线（24小时）：+86-10-12308、+86-10-65612308 驻巴拿马使馆领事保护与协助电话：+507-66779301 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "巴拿马发生强震 我使馆提醒在巴中国公民防范地震灾害"
+    },
+    {
+     "title": "美国特使威特科夫：会谈涵盖了安全保障和乌克兰安全问题",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891633145.html",
+     "pubDate": "Sat, 10 Oct 2026 05:17:15 +0800",
+     "summary": "美国特使威特科夫：会谈涵盖了安全保障和乌克兰安全问题。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国特使威特科夫：会谈涵盖了安全保障和乌克兰安全问题"
+    },
+    {
+     "title": "美国特使威特科夫：美国、英法德三国、欧盟、乌克兰和北约举行了建设性会谈",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891632917.html",
+     "pubDate": "Sat, 10 Oct 2026 05:16:46 +0800",
+     "summary": "美国特使威特科夫：美国、英法德三国、欧盟、乌克兰和北约举行了建设性会谈。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国特使威特科夫：美国、英法德三国、欧盟、乌克兰和北约举行了建设性会谈"
+    },
+    {
+     "title": "美国特使维特科夫谈乌克兰和谈：各方与会者重申了他们对继续开展外交努力的共同承诺",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891632486.html",
+     "pubDate": "Sat, 10 Oct 2026 05:16:02 +0800",
+     "summary": "美国特使维特科夫谈乌克兰和谈：各方与会者重申了他们对继续开展外交努力的共同承诺。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国特使维特科夫谈乌克兰和谈：各方与会者重申了他们对继续开展外交努力的共同承诺"
+    },
+    {
+     "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
+     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 21:15:00 GMT",
+     "summary": "“I presume these are sophisticated investors taking a profit.”",
+     "source": "MarketWatch",
+     "zh": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?"
+    },
+    {
+     "title": "NASA seeks commercial space station proposals",
+     "link": "https://seekingalpha.com/news/4651890-nasa-seeks-commercial-space-station-proposals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:07:36 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NASA seeks commercial space station proposals"
+    },
+    {
      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 21:07:00 GMT",
@@ -2217,12 +2297,20 @@
      "zh": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat"
     },
     {
-     "title": "惠誉将尼日利亚的评级展望调整为正面；确认其评级为“B”",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891630674.html",
-     "pubDate": "Sat, 10 Oct 2026 05:03:28 +0800",
-     "summary": "惠誉将尼日利亚的评级展望调整为正面；确认其评级为“B”。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "惠誉将尼日利亚的评级展望调整为正面；确认其评级为“B”"
+     "title": "Hims & Hers Health climbs 10% amid recent volatile trading",
+     "link": "https://seekingalpha.com/news/4651886-hims-hers-health-climbs-10-amid-recent-volatile-trading?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:06:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hims & Hers Health climbs 10% amid recent volatile trading"
+    },
+    {
+     "title": "Star Bulk Carriers renews ATM agreements for up to $116.4M",
+     "link": "https://seekingalpha.com/news/4651891-star-bulk-carriers-renews-atm-agreements-for-up-to-116_4m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:06:29 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Star Bulk Carriers renews ATM agreements for up to $116.4M"
     },
     {
      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
@@ -2233,36 +2321,12 @@
      "zh": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?"
     },
     {
-     "title": "沙特领导的联军称 已摧毁恐怖胡塞民兵控制区内的136个军事目标",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891630387.html",
-     "pubDate": "Sat, 10 Oct 2026 04:59:28 +0800",
-     "summary": "沙特领导的联军称，已摧毁恐怖胡塞民兵控制区内的136个军事目标。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "沙特领导的联军称 已摧毁恐怖胡塞民兵控制区内的136个军事目标"
-    },
-    {
      "title": "Moderna gains 14% to set fresh 52-week high",
      "link": "https://seekingalpha.com/news/4651887-moderna-gains-14-to-set-fresh-52-week-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 16:58:51 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Moderna gains 14% to set fresh 52-week high"
-    },
-    {
-     "title": "涅边贾：乌克兰防空系统效率低下导致悲剧发生而基辅却将责任归咎于俄罗斯",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891630447.html",
-     "pubDate": "Sat, 10 Oct 2026 04:58:50 +0800",
-     "summary": "俄罗斯常驻联合国代表涅边贾：乌克兰防空系统效率低下导致悲剧发生，而基辅却将责任归咎于俄罗斯。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "涅边贾：乌克兰防空系统效率低下导致悲剧发生而基辅却将责任归咎于俄罗斯"
-    },
-    {
-     "title": "沙特领导的联军称 正对也门胡塞武装人员及军事设施展开大范围军事行动",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891630260.html",
-     "pubDate": "Sat, 10 Oct 2026 04:58:12 +0800",
-     "summary": "沙特领导的联军称，正对也门胡塞武装人员及军事设施展开大范围军事行动。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "沙特领导的联军称 正对也门胡塞武装人员及军事设施展开大范围军事行动"
     },
     {
      "title": "The hazy OpenAI growth metric driving Wall Street",
@@ -2279,22 +2343,6 @@
      "summary": "沙特阿美将于11月恢复向欧洲炼油商提供全额原油供应，标志着此前管道遭袭导致的供应中断基本结束，市场紧张局面有望缓解。 10月9日，据彭博社援引知情人士透露， 至少三家欧洲炼油商已获通知，将在11月收到来自沙特阿美的足额原油配额。 此前，沙特东西输油管道遭无人机袭击，沙特阿美曾告知欧洲客户10月将不提供任何原油配额，迫使买家紧急寻求替代货源。 供应恢复将直接缓解欧洲原油市场的供应压力。波兰最大沙特原油买家Orlen SA在断供期间发出逾十份招标，以采购替代桶。据彭博船舶追踪数据，沙特对欧洲原油出口通常每日平均达70万至80万桶。 管道袭击引发供应中断，欧洲炼油商被迫寻找替代货源 沙特东西输油管道",
      "source": "华尔街见闻",
      "zh": "沙特阿美恢复对欧洲客户全额供油，欧洲炼厂替代采购压力骤减"
-    },
-    {
-     "title": "特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书",
-     "link": "http://finance.eastmoney.com/news/11790,202610103891630780.html",
-     "pubDate": "Sat, 10 Oct 2026 04:55:21 +0800",
-     "summary": "美国总统特朗普9日在社交媒体上宣布，任命保守派评论员凯蒂·扎卡里亚出任白宫新闻秘书，接替离职的卡罗琳·莱维特。特朗普介绍说，扎卡里亚目前是 特朗普媒体科技集团 旗下“真实社交”网站的高级通讯顾问，“表现出色”，曾协助他在关键摇摆州的竞选中取得胜利。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书"
-    },
-    {
-     "title": "中国地震台网正式测定：10月10日04时25分在巴拿马发生6.6级地震，震源深度10千米",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891630030.html",
-     "pubDate": "Sat, 10 Oct 2026 04:54:35 +0800",
-     "summary": "中国地震台网正式测定：10月10日04时25分在巴拿马（北纬7.70度，西经81.45度）发生6.6级地震，震源深度10千米。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "中国地震台网正式测定：10月10日04时25分在巴拿马发生6.6级地震，震源深度10千米"
     },
     {
      "title": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs",
@@ -2329,30 +2377,6 @@
      "zh": "CCC Intelligent Solutions jumps on report GTCR, Elliott near takeover"
     },
     {
-     "title": "The emerging threat landscape for agentic AI in cybersecurity",
-     "link": "https://seekingalpha.com/news/4651773-the-emerging-threat-landscape-for-agentic-ai-in-cybersecurity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 16:43:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "The emerging threat landscape for agentic AI in cybersecurity"
-    },
-    {
-     "title": "Nasdaq to suspend trading in Pomdoctor securities following non-compliance",
-     "link": "https://seekingalpha.com/news/4651876-nasdaq-to-suspend-trading-in-pomdoctor-securities-following-non-compliance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 16:41:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nasdaq to suspend trading in Pomdoctor securities following non-compliance"
-    },
-    {
-     "title": "CytoMed Therapeutics receives Nasdaq notice over minimum bid price deficiency",
-     "link": "https://seekingalpha.com/news/4651884-cytomed-therapeutics-receives-nasdaq-notice-over-minimum-bid-price-deficiency?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 16:40:48 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CytoMed Therapeutics receives Nasdaq notice over minimum bid price deficiency"
-    },
-    {
      "title": "Trump agrees deal with Putin for Russia to release diesel",
      "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
      "pubDate": "Fri, 09 Oct 2026 20:34:01 GMT",
@@ -2369,36 +2393,12 @@
      "zh": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets"
     },
     {
-     "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-     "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 20:15:00 GMT",
-     "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-     "source": "MarketWatch",
-     "zh": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children."
-    },
-    {
      "title": "速度是GPT-6 Sol的35倍！微软推出高速决策AI模型，36项测试准确率第一",
      "link": "https://wallstreetcn.com/articles/3783300",
      "pubDate": "Sat, 10 Oct 2026 04:08:11 +0800",
      "summary": "微软推出专为结构化决策任务打造的新一代AI模型，在速度与成本上大幅领先现有大型语言模型。 周五，微软推出新一代快速决策AI模型 Microsoft-Decision-1，该模型专为结构化决策任务设计。 微软称，Microsoft-Decision-1的P50已在内部多个场景完成测试，涵盖事故响应、质量控制和科学发现等领域。 运行速度是OpenAI的GPT-6 Sol的35倍，Quyet-1.0-Large的4.5倍。 首席执行官Satya Nadella在X平台发文表示， 该模型\"在结构化决策任务上表现出色，在延迟和质量方面均优于大语言模型及其他决策模型\"，并已在微软内部用于事故响应、质量控制",
      "source": "华尔街见闻",
      "zh": "速度是GPT-6 Sol的35倍！微软推出高速决策AI模型，36项测试准确率第一"
-    },
-    {
-     "title": "Here’s how Treasury yields could rise to 6% — even without market upheaval",
-     "link": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 20:03:00 GMT",
-     "summary": "The bond market will be closed on Monday for Columbus Day, but the stock market will operate normally.",
-     "source": "MarketWatch",
-     "zh": "Here’s how Treasury yields could rise to 6% — even without market upheaval"
-    },
-    {
-     "title": "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after getting married",
-     "link": "https://www.marketwatch.com/story/country-music-star-zach-bryan-buys-18-million-40-acre-tennessee-estate-after-getting-married-cb4d20eb?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 19:48:00 GMT",
-     "summary": "Country star Zach Bryan has reportedly forked over $18.25 million for a sprawling estate in Franklin, Tenn.—months after tying the knot with Samantha Leonard.",
-     "source": "MarketWatch",
-     "zh": "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after getting married"
     },
     {
      "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",

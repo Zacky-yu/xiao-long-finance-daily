@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 03:31:32",
+ "generated_at": "2026/10/10 03:51:58",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+     "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+     "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000",
+     "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+     "source": "TechCrunch AI",
+     "zh": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
+    },
     {
      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
@@ -56,14 +64,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Hugging Face",
      "zh": "Impactful scheduling for GPU clusters"
-    },
-    {
-     "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-     "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-     "pubDate": "Fri, 09 Oct 2026 14:00:00 +0000",
-     "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-     "source": "TechCrunch AI",
-     "zh": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise"
     },
     {
      "title": "Build Your First MCP Server in Python (Stateless Spec Edition)",
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
+     "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
+     "pubDate": "Fri, 09 Oct 2026 19:00:00 +0000",
+     "summary": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI"
+    },
+    {
      "title": "Solid-State Transformers: Accelerate Your SST Design",
      "link": "https://www.eetimes.com/solid-state-transformers-accelerate-your-sst-design/",
      "pubDate": "Fri, 09 Oct 2026 15:38:47 +0000",
@@ -274,6 +282,14 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
+     "title": "Defence satcom revenues to surpass $23bn by 2035",
+     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
+     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "Defence satcom revenues to surpass $23bn by 2035"
+    },
+    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
@@ -282,12 +298,20 @@ window.INDUSTRY_DATA = {
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
     },
     {
-     "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
-     "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
-     "pubDate": "Fri, 09 Oct 2026 14:11:55 +0000",
-     "summary": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI"
+     "title": "Axiom Space highlights space computing progress",
+     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
+     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
+     "source": "Electronics Weekly",
+     "zh": "Axiom Space highlights space computing progress"
+    },
+    {
+     "title": "The Single-Chip PC",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
+     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -304,6 +328,30 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
+    },
+    {
+     "title": "Failure analysis in the era of 3D integration",
+     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
+     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Failure analysis in the era of 3D integration"
+    },
+    {
+     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
+     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
+     "source": "Electronics Weekly",
+     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
+    },
+    {
+     "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:04:25 +0000",
+     "summary": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Robotaxi growth, Arm Qualcomm battle"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
-    },
-    {
-     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
-     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
-     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
-     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
-    },
-    {
-     "title": "Shift Left Complicates Fab Data Management",
-     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
-     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Shift Left Complicates Fab Data Management"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
-    },
-    {
-     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
-     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
-     "source": "Semiconductor Today",
-     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
-    },
-    {
-     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
-     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
-    },
-    {
-     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
-     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
-     "source": "Semiconductor Today",
-     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -505,6 +505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "Why humanoid robot demos still fail the generalization test",
+     "link": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
+     "pubDate": "Fri, 09 Oct 2026 19:28:41 +0000",
+     "summary": "How better data and human judgment can help robots move beyond demos toward reliable real-world performance. The post Why humanoid robot demos still fail the generalization test appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "Why humanoid robot demos still fail the generalization test"
+    },
     {
      "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
      "link": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
@@ -618,14 +626,6 @@ window.INDUSTRY_DATA = {
      "zh": "This Disembodied Hand Is All the Robot You Need"
     },
     {
-     "title": "PTC acquisition positions Schneider Electric to challenge Siemens",
-     "link": "https://www.therobotreport.com/ptc-acquisition-positions-schneider-electric-challenge-siemens/",
-     "pubDate": "Wed, 07 Oct 2026 21:07:53 +0000",
-     "summary": "The Schneider Electric acquisition of PTC gives it a 'digital thread' from design through operations, but it needs to integrate data and software, says Interact Analysis. The post PTC acquisition positions Schneider Electric to challenge Siemens appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "PTC acquisition positions Schneider Electric to challenge Siemens"
-    },
-    {
      "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
      "link": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
      "pubDate": "Wed, 07 Oct 2026 13:49:48 +0000",
@@ -657,6 +657,14 @@ window.INDUSTRY_DATA = {
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "Podcast: Tesla goes V2H, Kia EV3 first drive, Jaguar Type 01, and more",
+     "link": "https://electrek.co/2026/10/09/podcast-tesla-goes-v2h-kia-ev3-first-drive-jaguar-type-01-and-more/",
+     "pubDate": "Fri, 09 Oct 2026 19:39:38 +0000",
+     "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla finally launching V2H, our Kia EV3 first drive, Jaguar Type 01, and more. more…",
+     "source": "Electrek",
+     "zh": "Podcast: Tesla goes V2H, Kia EV3 first drive, Jaguar Type 01, and more"
+    },
     {
      "title": "BMW iX5 spotted ahead of US launch, sporting its new Double-X headlights",
      "link": "https://electrek.co/2026/10/09/bmw-ix5-spotted-ahead-of-us-launch-new-double-x-lights/",
@@ -738,14 +746,6 @@ window.INDUSTRY_DATA = {
      "zh": "China, EU make progress on hybrid trade as EU says exports will be halved"
     },
     {
-     "title": "Volkswagen’s best-seller has gone electric, and it will replace the ID.4 and ID.5 [Images]",
-     "link": "https://electrek.co/2026/10/09/volkswagens-best-seller-goes-ev-replace-id-4-images/",
-     "pubDate": "Fri, 09 Oct 2026 14:14:34 +0000",
-     "summary": "Volkswagen unveiled the ID. Tiguan, an all-electric version of its best-selling vehicle. The ID. Tiguan will go on sale in early 2027, replacing the ID.4 and ID.5 with up to 372 miles of range and plenty of other upgrades. more…",
-     "source": "Electrek",
-     "zh": "Volkswagen’s best-seller has gone electric, and it will replace the ID.4 and ID.5 [Images]"
-    },
-    {
      "title": "Surveillance company Flock cuts staff as privacy backlash grows",
      "link": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
      "pubDate": "Fri, 09 Oct 2026 13:40:36 +0000",
@@ -786,12 +786,12 @@ window.INDUSTRY_DATA = {
      "zh": "Tesla China September wholesale sales rise 5% to 95,366, a year-to-date high"
     },
     {
-     "title": "California Is Paying Up To $100,000 For A Single Public EV Charging Port",
+     "title": "California Opens Up $28 Million In Funding For EV Chargers",
      "link": "https://insideevs.com/news/811341/california-ev-charger-installation-incentives-100000-usd/",
      "pubDate": "Fri, 09 Oct 2026 11:46:06 +0000",
-     "summary": "The state will cover up to 100% of eligible costs to install new public DC fast chargers.",
+     "summary": "The state will cover up to 100% of eligible costs to install new public DC fast chargers, at up to $100,000 each.",
      "source": "InsideEVs",
-     "zh": "California Is Paying Up To $100,000 For A Single Public EV Charging Port"
+     "zh": "California Opens Up $28 Million In Funding For EV Chargers"
     },
     {
      "title": "Rivian EVs Are Becoming Ghostbusters This Halloween",
@@ -922,12 +922,12 @@ window.INDUSTRY_DATA = {
      "zh": "Canada’s New Oil Pipeline Challenged by Cold Lake First Nations"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
+     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -941,7 +941,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from 2025, according to a report from the advocacy group. Investor-owned utilities have requested $23.1 billion in electric and gas rate increases so far this year, it said.",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1714,6 +1714,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+     "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+     "pubDate": "Fri, 09 Oct 2026 19:28:49 +0000",
+     "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+     "source": "WIRED",
+     "zh": "Book Publishers Are Quietly Using More AI. Staff Are Revolting"
+    },
+    {
      "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
      "link": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
      "pubDate": "Fri, 09 Oct 2026 18:57:58 +0000",
@@ -1754,18 +1762,18 @@ window.INDUSTRY_DATA = {
      "zh": "AI disqualification yields new Nikon Small World in Motion winner"
     },
     {
-     "title": "You Might Want to Try Being Less Creative",
+     "title": "You might want to try being less creative",
      "link": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
      "pubDate": "Fri, 09 Oct 2026 18:39:47 +0000",
-     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 22 # Comments: 6",
+     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 23 # Comments: 12",
      "source": "Hacker News",
-     "zh": "You Might Want to Try Being Less Creative"
+     "zh": "You might want to try being less creative"
     },
     {
      "title": "Microsoft-Decision-1, our model for fast decision-making",
      "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
      "pubDate": "Fri, 09 Oct 2026 18:38:44 +0000",
-     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 13 # Comments: 1",
+     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 17 # Comments: 3",
      "source": "Hacker News",
      "zh": "Microsoft-Decision-1, our model for fast decision-making"
     },
@@ -1789,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad",
      "link": "https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/",
      "pubDate": "Fri, 09 Oct 2026 18:28:12 +0000",
-     "summary": "Article URL: https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/ Comments URL: https://news.ycombinator.com/item?id=50024757 Points: 28 # Comments: 17",
+     "summary": "Article URL: https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/ Comments URL: https://news.ycombinator.com/item?id=50024757 Points: 31 # Comments: 31",
      "source": "Hacker News",
      "zh": "Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad"
     },
@@ -1805,17 +1813,25 @@ window.INDUSTRY_DATA = {
      "title": "M7.6 Earthquake in Panama",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
      "pubDate": "Fri, 09 Oct 2026 18:22:20 +0000",
-     "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 66 # Comments: 23",
+     "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 74 # Comments: 23",
      "source": "Hacker News",
      "zh": "M7.6 Earthquake in Panama"
     },
     {
-     "title": "Show HN: See *almost* any carriers phone settings",
+     "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
+     "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
+     "pubDate": "Fri, 09 Oct 2026 18:16:03 +0000",
+     "summary": "Article URL: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find Comments URL: https://news.ycombinator.com/item?id=50024571 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward"
+    },
+    {
+     "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
      "link": "https://carrierexplode.com/",
      "pubDate": "Fri, 09 Oct 2026 18:10:55 +0000",
      "summary": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands. carrier-explode also contains decoders and explanations for all the common baseband configurations, etc. There’s still quite a bit of work to be done in checking my assumption",
      "source": "Hacker News",
-     "zh": "Show HN: See *almost* any carriers phone settings"
+     "zh": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded"
     },
     {
      "title": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)",
@@ -1824,14 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "Dominic-Madori Davis / TechCrunch : Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M &nbsp; &mdash;&nbsp; Vesta, an AI-native software startup that helps lenders originate mortgages, announced on Thursday ",
      "source": "Techmeme",
      "zh": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)"
-    },
-    {
-     "title": "In Memory of Deno",
-     "link": "https://orgsoft.org/blog/in-memory-of-deno",
-     "pubDate": "Fri, 09 Oct 2026 17:33:07 +0000",
-     "summary": "Article URL: https://orgsoft.org/blog/in-memory-of-deno Comments URL: https://news.ycombinator.com/item?id=50023953 Points: 7 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "In Memory of Deno"
     },
     {
      "title": "LumenUs helps automate tedious paperwork in times of grief",
@@ -1944,14 +1952,6 @@ window.INDUSTRY_DATA = {
      "summary": "Olivier Acuna / CoinDesk : NY AG announces an up-to-$35M settlement with ex-Celsius CEO Alex Mashinsky that permanently bars him from the securities, commodities, and crypto industries &nbsp; &mdash;&nbsp; New York Attorney General Letitia James said Friday she secured up to $35 million from former ",
      "source": "Techmeme",
      "zh": "NY AG announces an up-to-$35M settlement with ex-Celsius CEO Alex Mashinsky that permanently bars him from the securities, commodities, and crypto industries (Olivier Acuna/CoinDesk)"
-    },
-    {
-     "title": "中国科学院院士郭华东获颁 2026 年度国际宇航联合会“名人堂”奖，主持研发全球首颗可持续发展科学卫星 1 号",
-     "link": "https://www.ithome.com/1/011/152.htm",
-     "pubDate": "Fri, 09 Oct 2026 15:18:38 GMT",
-     "summary": "IT之家 10 月 9 日消息，据央视新闻报道，10 月 9 日，第 77 届国际宇航大会在土耳其闭幕。闭幕式上，国际宇航联合会为中国科学院院士、中国科学院空天信息创新研究院研究员郭华东颁发 2026 年度国际宇航联合会“名人堂”奖，以表彰其毕生深耕宇航领域并作出卓越贡献。 郭华东院士此次获奖的一项重要成果，是主持研发了 全球首颗 可持续发展科学卫星 1 号（SDGSAT-1）。该卫星通过“光-热-谱”多载荷昼夜协同探测，实现对“人类活动痕迹”的精细刻画，为可持续发展目标系统性监测提供新途径。目前，该卫星数据实现全球开放共享，惠及 121 个联合国会员国，开创了中国卫星数据全球服务新模式。 国",
-     "source": "IT之家",
-     "zh": "中国科学院院士郭华东获颁 2026 年度国际宇航联合会“名人堂”奖，主持研发全球首颗可持续发展科学卫星 1 号"
     }
    ]
   },
@@ -1961,6 +1961,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google is working on HDR emoji for Chat",
+     "link": "https://www.gsmarena.com/google_is_working_on_hdr_emoji_for_chat-news-74984.php",
+     "pubDate": "Fri, 09 Oct 2026 21:31:02 +0200",
+     "summary": "An APK teardown of the latest version of Gmail revealed that Google is looking to bring HDR emoji to its Chat app. That’s the Google Hangouts successor, which is part of the Google Workspace suite, for those outside the loop on Google software. A specific code string in the newest Gmail build hints ",
+     "source": "GSMArena",
+     "zh": "Google is working on HDR emoji for Chat"
+    },
     {
      "title": "Want an iPhone Duo? These AT&T deals will knock the price down",
      "link": "https://www.androidauthority.com/apple-iphone-duo-att-deals-3721516/",
@@ -2154,6 +2162,14 @@ window.INDUSTRY_DATA = {
      "zh": "Computer market shipments fell 20% between July and September"
     },
     {
+     "title": "With the right lenses, all formats can shine",
+     "link": "https://www.dpreview.com/opinion/with-the-right-lenses-all-formats-can-shine/",
+     "pubDate": "Fri, 09 Oct 2026 14:00:36 +0000",
+     "summary": "Proper support lets different formats deliver on their size/price/IQ promise",
+     "source": "DPReview",
+     "zh": "With the right lenses, all formats can shine"
+    },
+    {
      "title": "Global Xiaomi 18 Pro Max has its chipset and RAM amount confirmed by a benchmark",
      "link": "https://www.gsmarena.com/global_xiaomi_18_pro_max_has_its_chipset_and_ram_amount_confirmed_by_a_benchmark-news-74977.php",
      "pubDate": "Fri, 09 Oct 2026 14:39:02 +0200",
@@ -2184,22 +2200,6 @@ window.INDUSTRY_DATA = {
      "summary": "Anthropic is offering open-source projects a new way to check for vulnerabilities with its OSS Scanner.",
      "source": "Engadget",
      "zh": "Anthropic now offers a free vulnerability-finding service for open-source software"
-    },
-    {
-     "title": "OnePlus 15 receives ColorOS 17 Open Beta just days before the official OS launch",
-     "link": "https://www.gsmarena.com/oneplus_15_receives_coloros_17_open_beta_just_days_before_the_official_os_launch-news-74973.php",
-     "pubDate": "Fri, 09 Oct 2026 13:14:02 +0200",
-     "summary": "Oppo officially confirmed the ColorOS 17 global launch for October 13 next week, and OnePlus just opened up registrations for OnePlus users to get an early taste of the software. Notably, this isn't the final build of the software that OnePlus is seeding, of course, it's the ColorOS 17 Open Beta. Fo",
-     "source": "GSMArena",
-     "zh": "OnePlus 15 receives ColorOS 17 Open Beta just days before the official OS launch"
-    },
-    {
-     "title": "本周看什么 | 最近值得一看的 11 部作品",
-     "link": "https://sspai.com/post/115566",
-     "pubDate": "Fri, 09 Oct 2026 18:04:09 +0800",
-     "summary": "📅本周新预告《寒夜怪谈》新预告10月1日，电影《寒夜怪谈》发布了新预告，将于11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ... 查看全文",
-     "source": "少数派",
-     "zh": "本周看什么 | 最近值得一看的 11 部作品"
     }
    ]
   },
@@ -2209,6 +2209,94 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after getting married",
+     "link": "https://www.marketwatch.com/story/country-music-star-zach-bryan-buys-18-million-40-acre-tennessee-estate-after-getting-married-cb4d20eb?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 19:48:00 GMT",
+     "summary": "Country star Zach Bryan has reportedly forked over $18.25 million for a sprawling estate in Franklin, Tenn.—months after tying the knot with Samantha Leonard.",
+     "source": "MarketWatch",
+     "zh": "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after getting married"
+    },
+    {
+     "title": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs",
+     "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+     "pubDate": "Fri, 09 Oct 2026 19:43:18 GMT",
+     "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
+     "source": "CNBC",
+     "zh": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs"
+    },
+    {
+     "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
+     "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
+     "pubDate": "Fri, 09 Oct 2026 19:40:43 GMT",
+     "summary": "President Donald Trump has few options to reduce diesel prices given the destruction done to refineries by the wars in Eastern Europe and the Middle East.",
+     "source": "CNBC",
+     "zh": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets"
+    },
+    {
+     "title": "ArcelorMittal raised to Buy at UBS on upbeat European steel price outlook",
+     "link": "https://seekingalpha.com/news/4651846-arcelormittal-raised-to-buy-at-ubs-on-upbeat-european-steel-price-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 15:33:01 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ArcelorMittal raised to Buy at UBS on upbeat European steel price outlook"
+    },
+    {
+     "title": "Trump agrees deal with Putin for Russia to release diesel",
+     "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 19:31:36 GMT",
+     "summary": "Pact between Washington and Moscow comes just weeks before critical midterm elections in the US",
+     "source": "Financial Times",
+     "zh": "Trump agrees deal with Putin for Russia to release diesel"
+    },
+    {
+     "title": "一座“会飞的城市”，如何飞出新质生产力",
+     "link": "http://finance.eastmoney.com/news/1355,202610103891621460.html",
+     "pubDate": "Sat, 10 Oct 2026 03:28:38 +0800",
+     "summary": "太行山深处，石板岩镇，一架 无人机 从邮政支局前坪腾空而起，载着 快递 飞向海拔1100米的上坪村。7分钟后，包裹落在村委会旁的低空 物流 接收站。而就在一年前，这段山路靠人走，单程要5个小时。 这里是河南安阳，一座常被外地人认知为“殷墟所在地”的古城，如今有了另一张名片： 低空经济 之城。 从1955年国家体育总局在安阳创办航空运动学校算起，安阳的飞行基因已经延续了70余年。而真正把这份基因转化为产业能力的，是过去10年间一条从制造到场景、从科创到人才的完整链条。2025年，安阳 低空经济 相关产业产值近20亿元，集聚经营主体超过200家。一个内陆三、四线城市，凭什么飞起来？又飞出了什么？ ",
+     "source": "东方财富股票",
+     "zh": "一座“会飞的城市”，如何飞出新质生产力"
+    },
+    {
+     "title": "直播溯源+科技赋能打开农产品新销路",
+     "link": "http://stock.eastmoney.com/news/1437,202610103891620675.html",
+     "pubDate": "Sat, 10 Oct 2026 03:27:46 +0800",
+     "summary": "金秋时节，秦岭北麓的果园猕猴桃挂满枝头，宁夏贺兰山东麓葡萄园硕果累累，苏州阳澄湖大闸蟹陆续开捕。上海证券报记者日前走访发现，丰收的喜悦，正通过直播电商和科技赋能，转化为农户实实在在的收入。 受访专家表示，当下电商平台不再只是“卖货”，而是深入产地做溯源、建标准、树品牌，利用AI技术等科技赋能，使更多好产品被看见，为 农产品 打开新销路，让农民分享更多产业增值收益。 直播溯源让流量变销量 秦岭北麓，渭河南岸。清晨，记者来到陕西眉县葫芦峪的猕猴桃果园，采摘、称重、包装……果农们已经开启一天的忙碌。 “先有好产地，才可能产生好商家。”9月29日，与辉同行负责人董宇辉和团队来到“中国猕猴桃之乡”陕西眉",
+     "source": "东方财富股票",
+     "zh": "直播溯源+科技赋能打开农产品新销路"
+    },
+    {
+     "title": "供需关系持续改善 有机硅行业景气修复",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891620584.html",
+     "pubDate": "Sat, 10 Oct 2026 03:27:43 +0800",
+     "summary": "10月9日，A股 有机硅概念 板块继续走强， 东岳硅材 、 晨光新材 、 新亚强 涨停， 硅宝科技 、 合盛硅业 等多股跟涨。业内人士分析称，行业供需关系改善、产品价格回升及上市公司盈利修复预期，共同推动 有机硅 板块走高。 价格回升行业盈利修复 有机硅 板块走强的一个重要背景，是行业供需关系改善带来的盈利修复。 早在2025年11月， 有机硅 行业就召开实控人会议，围绕行业自律、调整生产节奏等议题展开讨论，减产30%的目标受到市场关注。此后，随着部分装置检修、供给调整推进，有机硅产品价格逐步回升。 海外供给端也出现调整。 陶氏 宣布关闭英国巴里工厂的基础硅氧烷装置，反映出欧洲部分高成本产能面",
+     "source": "东方财富股票",
+     "zh": "供需关系持续改善 有机硅行业景气修复"
+    },
+    {
+     "title": "供应扰动集中发酵 天然橡胶上下游齐涨价",
+     "link": "http://finance.eastmoney.com/news/1355,202610103891620460.html",
+     "pubDate": "Sat, 10 Oct 2026 03:27:38 +0800",
+     "summary": "继9月30日创下逾9年新高后，天然 橡胶 期货 延续上涨行情。10月9日，上期所天然 橡胶 主力合约RU2701日盘收涨2.89%，报20645元/吨。 现货方面，据百川盈孚市场监测，10月9日，天然 橡胶 国内市场均价为1.97万元/吨，较前一交易日再涨56元/吨，年内涨幅达28.27%，同比上涨31.45%。 广发 期货 认为，全球天然橡胶供给已步入顶部区域，叠加厄尔尼诺事件引发的减产预期，使得胶价对气候扰动的敏感度被显著放大。 在成本压力下，橡胶产业链下游的轮胎企业纷纷开启年内第四轮集中涨价。9月以来，已有60余家轮胎企业发布了70多份涨价函。 多因素扰动天然橡胶供给 多家机构在最新研报",
+     "source": "东方财富股票",
+     "zh": "供应扰动集中发酵 天然橡胶上下游齐涨价"
+    },
+    {
+     "title": "证监会就新修订的公募基金运作办法及配套规则征求意见 强化基金产品逆周期布局管理 适度降低基金成立门槛",
+     "link": "http://stock.eastmoney.com/news/1426,202610103891620770.html",
+     "pubDate": "Sat, 10 Oct 2026 03:27:30 +0800",
+     "summary": "10月9日，中国证监会就新修订形成的《公开募集证券投资基金运作管理办法（征求意见稿）》（下称“办法”）及配套规则公开征求意见。办法将权益类基金、FOF等的成立门槛降低至规模5000万元、份额5000万份，同时优化完全被动复制型指数基金关于 举牌 、减持、短线交易的相关监管要求，适度放松其他指数类基金的交易限制。 办法是证券投资基金法的重要配套部门规章，明确了产品注册、申购赎回、投资限制、收益分配、持有人大会等投资运作事项，对规范基金投资运作、保护投资者权益、促进行业发展起到重要作用。现行运作办法自2014年修订发布至今已逾10年，在此期间市场环境和公募基金业态均发生较大变化，需对规则予以修订完",
+     "source": "东方财富股票",
+     "zh": "证监会就新修订的公募基金运作办法及配套规则征求意见 强化基金产品逆周期布局管理 适度降低基金成立门槛"
+    },
+    {
+     "title": "改性塑料龙头企业提价 下游行业承接能力分化",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891620321.html",
+     "pubDate": "Sat, 10 Oct 2026 03:27:27 +0800",
+     "summary": "10月8日，国内改性 塑料 龙头企业 金发科技 、 道恩股份 发布产品调价通知，宣布对旗下核心产品实施价格上调，涨幅区间为每吨1000元至3000元。 这是继今年3月提价之后，改性 塑料 行业年内又一次上调产品价格，折射出上游石化原料价格高位运行对中游材料企业的挤压已达到新的临界点。 提价：“实属形势所迫” 金发科技 发布的致客户联络函显示，公司对旗下多款改性 塑料 产品实施调价：改性PA6每吨涨价2500元，改性PP、改性PE、改性PA66、改性PBT每吨涨价2000元，改性ABS、改性PS、改性PC每吨涨价1500元，改性PVC每吨涨价1000元，自10月8日起接收的订单开始适用。 道恩股",
+     "source": "东方财富股票",
+     "zh": "改性塑料龙头企业提价 下游行业承接能力分化"
+    },
     {
      "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
      "link": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
@@ -2224,14 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "ICON upgraded at BofA on better CRO demand, improved 2027 visibility"
-    },
-    {
-     "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
-     "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
-     "pubDate": "Fri, 09 Oct 2026 19:19:00 GMT",
-     "summary": "",
-     "source": "CNBC",
-     "zh": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets"
     },
     {
      "title": "Trump created a committee to dig into the Fed&apos;s Lisa Cook. What is it and what comes next?",
@@ -2266,14 +2346,6 @@ window.INDUSTRY_DATA = {
      "zh": "Elon Musk is now richer than any American ever — and it’s not even close"
     },
     {
-     "title": "Trump agrees deal with Putin for Russia to release diesel on to global market",
-     "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 19:01:24 GMT",
-     "summary": "Pact between Washington and Moscow comes just weeks before critical midterm elections in the US",
-     "source": "Financial Times",
-     "zh": "Trump agrees deal with Putin for Russia to release diesel on to global market"
-    },
-    {
      "title": "Microsoft's Nadella unveils tech giant's new fast decision-making AI model",
      "link": "https://seekingalpha.com/news/4651845-microsofts-nadella-unveils-tech-giants-new-fast-decision-making-ai-model?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 15:00:34 -0400",
@@ -2306,14 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "Aerospace and defense stocks offer opportunity, Barclays says in launching coverage"
     },
     {
-     "title": "Digital payments firm OPay applies to list on NYSE",
-     "link": "https://seekingalpha.com/news/4651841-digital-payments-firm-opay-applies-to-list-on-nyse?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 14:51:43 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Digital payments firm OPay applies to list on NYSE"
-    },
-    {
      "title": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
      "link": "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
      "pubDate": "Fri, 09 Oct 2026 18:50:21 GMT",
@@ -2330,6 +2394,14 @@ window.INDUSTRY_DATA = {
      "zh": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies"
     },
     {
+     "title": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
+     "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 18:38:06 GMT",
+     "summary": "First Atlantic hurricane of the season headed towards Florida, Alabama, Georgia and Mississippi",
+     "source": "Financial Times",
+     "zh": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf"
+    },
+    {
      "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 18:30:00 GMT",
@@ -2344,22 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "Telecommunications stocks were seeing their worst daily drops in over a decade.",
      "source": "MarketWatch",
      "zh": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat"
-    },
-    {
-     "title": "Microsoft is nearing a big milestone that solidifies its revival",
-     "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 18:06:00 GMT",
-     "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
-     "source": "MarketWatch",
-     "zh": "Microsoft is nearing a big milestone that solidifies its revival"
-    },
-    {
-     "title": "中共中央、国务院印发《关于发展新质生产力的意见》",
-     "link": "http://www.eeo.com.cn/2026/1010/1059118.shtml",
-     "pubDate": "Sat, 10 Oct 2026 01:26:17 +0800",
-     "summary": "10月9日，中共中央、国务院印发《关于发展新质生产力的意见》（以下简称《意见》）。《意见》围绕大力推进科技创新、推动科技创新和产业创新深度融合、着力推进发展方式创新、扎实推进体制机制创新、深化人才工作机制创新这五个方面，提出19项重大发展改革任务。 其中，《意见》将“大力推进科技创新”放在首位，安排了5项任务：加强原创性颠覆性科技创新；加快突破关键核心技术；统筹国家战略科技力量建设；强化企业科技...",
-     "source": "经济观察网",
-     "zh": "中共中央、国务院印发《关于发展新质生产力的意见》"
     },
     {
      "title": "文旅部：国庆假期国内出游总花费同比增长4.3%",
@@ -2392,62 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "据国家金融监督管理总局（以下简称“金融监管总局”）网站10月9日消息，为进一步规范财产保险公司保险产品开发行为，保护投保人、被保险人和受益人合法权益，持续释放强监管信号，提升保险产品供给质效，促进财产保险业高质量发展，近日，金融监管总局修订发布《财产保险公司保险产品开发管理规定》（以下简称《规定》）。《规定》将自2026年11月1日起施行。 据了解，为完善保险产品监管制度，规范财险公司保险产品开发行...",
      "source": "经济观察网",
      "zh": "金融监管总局发布《财产保险公司保险产品开发管理规定》持续强化财险公司产品监管"
-    },
-    {
-     "title": "实探上海楼市：居民购房热度高 回暖趋势明显",
-     "link": "http://www.eeo.com.cn/2026/1010/1059113.shtml",
-     "pubDate": "Sat, 10 Oct 2026 01:26:12 +0800",
-     "summary": "“今年房地产市场的‘金九银十’，可能是我近年来见过较为特殊的一次。”一位资深地产研究人士对《证券日报》记者表示。 与往年的楼市促销行情不同，今年的“金九银十”恰逢房地产销售制度改革“窗口期”。2026年8月28日，住房城乡建设部等三部门联合印发《关于完善商品住房销售制度的通知》，对商品住房预售销售制度进行改革完善，并有力有序推行商品住房现房销售。9月24日和9月28日，北京、上海两地分别落地相关实施细...",
-     "source": "经济观察网",
-     "zh": "实探上海楼市：居民购房热度高 回暖趋势明显"
-    },
-    {
-     "title": "Trump launches committee to investigate Fed governor Lisa Cook",
-     "link": "https://www.ft.com/content/d0c81cd2-f944-46b9-a859-abc3f0bd3516?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 17:26:05 GMT",
-     "summary": "Move comes after Supreme Court in June rebuffed president’s attempt to sack central banker",
-     "source": "Financial Times",
-     "zh": "Trump launches committee to investigate Fed governor Lisa Cook"
-    },
-    {
-     "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
-     "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
-     "pubDate": "Fri, 09 Oct 2026 17:12:17 GMT",
-     "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
-     "source": "CNBC",
-     "zh": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries"
-    },
-    {
-     "title": "Trump and Hegseth’s execution-type deal",
-     "link": "https://www.ft.com/content/39764d10-6b87-4103-8e7d-290a72a5ea5a?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 16:18:01 GMT",
-     "summary": "The decision to livestream the execution of Nidal Malik Hasan is a sign of profound moral decay",
-     "source": "Financial Times",
-     "zh": "Trump and Hegseth’s execution-type deal"
-    },
-    {
-     "title": "伊朗称击中LPG船、警告打击违规不限于霍尔木兹，特朗普标榜海峡一日通航2800万桶油",
-     "link": "https://wallstreetcn.com/articles/3783297",
-     "pubDate": "Sat, 10 Oct 2026 00:08:06 +0800",
-     "summary": "伊朗袭击霍尔木兹海峡的液化石油气运输船，胡塞武装在曼德海峡布雷，全球两大关键能源航运通道同步承压。 据新华社，伊朗伊斯兰革命卫队海军9日发表声明称， 今后针对违规船只的行动将不局限于霍尔木兹海峡。凡是擅自通过非授权航线航行的船只，都将遭到“严厉惩处”。 声明说， 海军过去数小时内击中了一艘载有液化石油气的“大型”船只，该船试图经由“非法”航线穿越海峡。 消息推动国际油价走高，截至发稿，布伦特原油期货上涨0.35%。 随后美国总统特朗普表示，无论如何， 伊朗战争很快就会结束，美国的能源价格将会下降，昨天从霍尔木兹海峡运走2800万桶石油。 目前通过霍尔木兹海峡进入全球市场的原油数量高于以往任何时",
-     "source": "华尔街见闻",
-     "zh": "伊朗称击中LPG船、警告打击违规不限于霍尔木兹，特朗普标榜海峡一日通航2800万桶油"
-    },
-    {
-     "title": "华尔街大行财报下周揭晓：股票交易收入料逼近190亿美元，“人人是赢家”或成过去式",
-     "link": "https://wallstreetcn.com/articles/3783296",
-     "pubDate": "Sat, 10 Oct 2026 00:01:46 +0800",
-     "summary": "华尔街大型银行三季度股票交易业务有望延续强势，但资本市场活动降温正加剧各行之间的业绩分化。 10月9日， 据彭博汇编的分析师预期，五大美国银行三季度股票交易收入合计预计接近190亿美元。 其中，高盛预计以51亿美元居首，摩根士丹利、摩根大通和美国银行分别预计录得49亿美元、45亿美元和26亿美元。高盛将于下周二率先公布财报。 相比之下，固定收益交易业务面临压力，五大银行相关收入预计降至今年以来最低水平，并购市场也显露降温迹象。与此同时，市场担忧人工智能驱动的现金优化工具可能加速存款流出，进一步拖累银行股表现。 富国银行分析师迈克·梅奥表示，上半年几乎所有银行都是赢家，但这一局面可能不再延续，本",
-     "source": "华尔街见闻",
-     "zh": "华尔街大行财报下周揭晓：股票交易收入料逼近190亿美元，“人人是赢家”或成过去式"
-    },
-    {
-     "title": "印度史上最大IPO要来了？安巴尼旗下Jio据悉拟募资约3020亿卢比",
-     "link": "https://wallstreetcn.com/articles/3783290",
-     "pubDate": "Fri, 09 Oct 2026 23:34:46 +0800",
-     "summary": "印度史上最大IPO募资纪录有望被刷新。 10月9日，据彭博援引知情人士，印度首富穆克什·安巴尼旗下电信与数字服务公司Jio Platforms已初步确定每股1065至1119卢比的发行价区间，计划于10月21日启动公开认购。知情人士称，公司目标估值最高可达10.3万亿卢比（约合1065亿美元）。 据彭博测算， 按发行价区间上限计算，Jio此次IPO募资额约为3020亿卢比（约合31亿美元）。若顺利完成，将超过现代汽车印度公司2024年10月创下的2780亿卢比纪录，成为印度史上募资规模最大的IPO。 不过，这一估值低于市场早期预期。此前市场流传的估值区间为1300亿至1700亿美元，而此次IP",
-     "source": "华尔街见闻",
-     "zh": "印度史上最大IPO要来了？安巴尼旗下Jio据悉拟募资约3020亿卢比"
     }
    ]
   },
@@ -2690,12 +2690,12 @@ window.INDUSTRY_DATA = {
      "zh": "It looks like the Atlantic storm season may finally produce a hurricane"
     },
     {
-     "title": "Neutrino physicist wins 2026 Nobel Physics Prize",
-     "link": "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/",
-     "pubDate": "Tue, 06 Oct 2026 16:53:17 +0000",
-     "summary": "Francis Halzen of University of Wisconsin-Madison led development of IceCube Neutrino Observatory.",
-     "source": "Ars Technica Science",
-     "zh": "Neutrino physicist wins 2026 Nobel Physics Prize"
+     "title": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away",
+     "link": "https://news.mit.edu/2026/astronomers-catch-star-slowly-snacking-on-brown-dwarf-1005",
+     "pubDate": "Mon, 05 Oct 2026 11:00:00 -0400",
+     "summary": "The discovery reveals a new way that stars and planetary companions can interact.",
+     "source": "MIT News",
+     "zh": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away"
     }
    ]
   }

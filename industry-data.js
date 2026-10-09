@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/9 08:12:20",
+ "generated_at": "2026/10/9 08:19:07",
  "recent_days": 7,
  "industries": [
   {
@@ -274,14 +274,6 @@ window.INDUSTRY_DATA = {
      "zh": "Data Center Energy Trends Force a Rethink of Chip Power Delivery"
     },
     {
-     "title": "Universal Quantum raises $100m for trapped-ion quantum computing",
-     "link": "https://www.electronicsweekly.com/uk-region/universal-quantum-raises-100m-for-trapped-ion-quantum-computing-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 15:02:47 +0000",
-     "summary": "Universal Quantum, the UK and German quantum computing startup, has secured $100 million in Series A funding. The company notes it is the largest Series A ever raised by a […] The post Universal Quantum raises $100m for trapped-ion quantum computing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Universal Quantum raises $100m for trapped-ion quantum computing"
-    },
-    {
      "title": "WEBINAR: The Convergence of Edge Accelerators",
      "link": "https://semiwiki.com/ip/imagination-technologies/374484-webinar-the-convergence-of-edge-accelerators/",
      "pubDate": "Thu, 08 Oct 2026 15:00:08 +0000",
@@ -314,22 +306,6 @@ window.INDUSTRY_DATA = {
      "zh": "NVIDIA Jetson to SiMa.ai Modalix MLSoC Migration Guide"
     },
     {
-     "title": "Powell supplies low-force 15-pin connectors from Planetary Systems",
-     "link": "https://www.electronicsweekly.com/news/products/connectors/powell-supplies-low-force-15-pin-connectors-from-planetary-systems-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 13:57:35 +0000",
-     "summary": "Powell Electronics is supplying a low-force 15-pin connector pair from Planetary Systems for signal transfers in spaceflight applications. The pair – 4000106C for the lower separation connector and 4000107C for […] The post Powell supplies low-force 15-pin connectors from Planetary Systems appeared ",
-     "source": "Electronics Weekly",
-     "zh": "Powell supplies low-force 15-pin connectors from Planetary Systems"
-    },
-    {
-     "title": "Fable: The Guy Who Focussed",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-guy-who-focussed-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 13:15:50 +0000",
-     "summary": "There was once a sprawling corporate which was bleeding to death. It lost $5.7 billion one year on top of the $3.1 billion it had lost the previous year. Then a […] The post Fable: The Guy Who Focussed appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Fable: The Guy Who Focussed"
-    },
-    {
      "title": "The silent killer of analog reliability: Why SPICE misses floating net",
      "link": "https://semiwiki.com/eda/siemens-eda/374257-the-silent-killer-of-analog-reliability-why-spice-misses-floating-net/",
      "pubDate": "Thu, 08 Oct 2026 13:00:35 +0000",
@@ -354,36 +330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Breaking the AI Infrastructure Power Wall: From Grid to xPU"
     },
     {
-     "title": "Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/pic-of-the-day-googles-project-suncatcher-datacentre-satellite-in-orbit-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 11:24:24 +0000",
-     "summary": "Check out the launch of Google's Project Suncatcher prototype datacentre satellite, with its Trillium TPUs (Tensor Processing Units). It's courtesy of SpaceX's Transporter-18 rideshare mission. The post Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit appeared first on Elect",
-     "source": "Electronics Weekly",
-     "zh": "Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit"
-    },
-    {
-     "title": "Connectivity challenges evolve as systems move into higher-frequency operation",
-     "link": "https://www.electronicsweekly.com/news/business/connectivity-challenges-evolve-as-systems-move-into-higher-frequency-operation-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 11:00:22 +0000",
-     "summary": "As the communications network moves into the millimetre-wave spectrum connectivity becomes a larger challenge, writes Dr Tudor Williams. As satellite constellations expand 5G infrastructure becomes more densely deployed and defence […] The post Connectivity challenges evolve as systems move into hig",
-     "source": "Electronics Weekly",
-     "zh": "Connectivity challenges evolve as systems move into higher-frequency operation"
-    },
-    {
      "title": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War",
      "link": "https://www.semiconductor-today.com/news_items/2026/oct/wolfspeed-081026.shtml",
      "pubDate": "Thu, 8 Oct 2026 10:27:41 +0100",
      "summary": "Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has received a conditional loan commitment letter from the US Department of War (DoW), through its Office of Strategic Capital (OSC), for up to $1.5bn of long-term (30-year) financing to ",
      "source": "Semiconductor Today",
      "zh": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War"
-    },
-    {
-     "title": "SuperSharp to lead THEOSCOPE IR Earth observation mission",
-     "link": "https://www.electronicsweekly.com/news/business/supersharp-to-lead-theoscope-ir-earth-observation-mission-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 09:10:26 +0000",
-     "summary": "SuperSharp, a specialist in ultra-high resolution thermal infrared (TIR) imaging from space, has been chosen to lead Europe’s THEOSCOPE Mission. This is an Earth observation project with €4 million of […] The post SuperSharp to lead THEOSCOPE IR Earth observation mission appeared first on Electronic",
-     "source": "Electronics Weekly",
-     "zh": "SuperSharp to lead THEOSCOPE IR Earth observation mission"
     },
     {
      "title": "Largan Precision posts over 10% revenue growth in the first nine months of 2026",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
      "source": "Semiconductor Today",
      "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
+    },
+    {
+     "title": "From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs",
+     "link": "https://semiwiki.com/artificial-intelligence/374386-from-blueprint-to-production-how-rambus-brings-commercial-grade-caliptra-security-to-ai-socs/",
+     "pubDate": "Wed, 07 Oct 2026 17:00:03 +0000",
+     "summary": "Semiconductor designers today face a critical hurdle: how to smoothly transition from an open-source hardware blueprint to a commercially hardened, production-ready silicon implementation. As semiconductors play an increasingly essential role in powering the AI era, safeguarding these hardware found",
+     "source": "SemiWiki",
+     "zh": "From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs"
+    },
+    {
+     "title": "From Cloud to Silicon: IC-Link and TSMC Open the Door",
+     "link": "https://semiwiki.com/semiconductor-manufacturers/374282-from-cloud-to-silicon-ic-link-and-tsmc-open-the-door/",
+     "pubDate": "Wed, 07 Oct 2026 15:00:23 +0000",
+     "summary": "Access to advanced semiconductor technology involves much more than choosing a process node. Design teams also need computing capacity, compatible tools, secure technology access, and experienced support. IC-Link by imec’s expanded collaboration with TSMC addresses that combination, potentially maki",
+     "source": "SemiWiki",
+     "zh": "From Cloud to Silicon: IC-Link and TSMC Open the Door"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
+    },
+    {
+     "title": "Mivium demonstrates commercially viable production of phase-pure h-GaN nanoparticles",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/mivium-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 12:06:53 +0100",
+     "summary": "Materials technology company Mivium Inc of Fremont, CA, USA has achieved the production of high-purity submicron gallium nitride (GaN) particles using its proprietary technology platform (which extends to additional wide-bandgap and advanced semiconductor materials including gallium oxide and boron ",
+     "source": "Semiconductor Today",
+     "zh": "Mivium demonstrates commercially viable production of phase-pure h-GaN nanoparticles"
     }
    ]
   },
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Tasmania’s ‘Battery of the Nation’ plan moves closer as Marinus Link holds sod turn in Australia",
+     "link": "https://www.energy-storage.news/tasmanias-battery-of-the-nation-plan-moves-closer-as-marinus-link-holds-sod-turn-in-australia/",
+     "pubDate": "Fri, 09 Oct 2026 00:12:35 +0000",
+     "summary": "Marinus Link held a sod turning ceremony in North West Tasmania to mark the start of expanded construction.",
+     "source": "Energy Storage News",
+     "zh": "Tasmania’s ‘Battery of the Nation’ plan moves closer as Marinus Link holds sod turn in Australia"
+    },
+    {
      "title": "World’s Top Crude Trader Isn’t Ruling Out $200 Oil Just Yet",
      "link": "https://oilprice.com/Energy/Oil-Prices/Worlds-Top-Crude-Trader-Isnt-Ruling-Out-200-Oil-Just-Yet.html",
      "pubDate": "Thu, 08 Oct 2026 19:00:00 -0500",
@@ -917,7 +925,7 @@ window.INDUSTRY_DATA = {
      "title": "Massachusetts shifts clean energy funds to help heat homes this winter",
      "link": "https://www.utilitydive.com/news/massachusetts-clean-energy-funds-winter-heating-oil/832521/",
      "pubDate": "Thu, 08 Oct 2026 12:42:42 -0400",
-     "summary": "Massachusetts&nbsp;Gov. Maura Healey, D, ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
+     "summary": "Gov. Maura Healey ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
      "source": "Utility Dive",
      "zh": "Massachusetts shifts clean energy funds to help heat homes this winter"
     },
@@ -1088,14 +1096,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI data centres have energy and power requirements demanding enough to potentially stretch lithium-ion beyond its versatile limits, writes Intertek CEA market intelligence consultant Aaron Marks.",
      "source": "Energy Storage News",
      "zh": "Making the case for non-lithium batteries for AI data centres"
-    },
-    {
-     "title": "A new group to help US small towns lead the clean energy transition",
-     "link": "https://www.canarymedia.com/articles/clean-energy/new-group-small-towns-clean-energy",
-     "pubDate": "Thu, 08 Oct 2026 03:30:00 -0400",
-     "summary": "As the mayor of tiny Enfield, North Carolina, Mondale Robinson has huge clean energy ambitions . Among them: building a solar farm to power the entire town of about 2,000, replacing the town’s decrepit substation to distribute those renewable electrons, and building a thermal energy network to provi",
-     "source": "Canary Media",
-     "zh": "A new group to help US small towns lead the clean energy transition"
     }
    ]
   },
@@ -1706,12 +1706,44 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+     "link": "https://www.huxiu.com/article/4896008.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 08:10:38 +0800",
+     "summary": "本文来自微信公众号： 硅谷101 ，作者：硅谷101 这个夏天，来自全球各地的多个气象机构都拉响了同一个警报，一场史无前例的超级厄尔尼诺正在上演，并且极有可能持续到明年2月。 来自摩根大通的经济学家预计，全球的食品通胀将在2027年的上半年上升到5%，明显高于今年同期的2.8%。这其中有来自霍尔木兹海峡封锁和黑海冲突的因素，也部分归因于我们正深处的这场50年来颇为罕见的超级厄尔尼诺。 受超级厄尔尼诺影响，整个太平洋会呈现“东涝西旱”的格局；对中国而言，厄尔尼诺次年往往更容易形成“南涝北旱”，对长江以南地区影响更为显著。这种气候异常很可能击中部分农作物的关键生长期，并通过供应链层层传导，影响大宗",
+     "source": "虎嗅",
+     "zh": "超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？"
+    },
+    {
+     "title": "FDE，可能是一个致命的陷阱",
+     "link": "https://www.huxiu.com/article/4896014.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 08:07:59 +0800",
+     "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明 最近看到很多软件代理商都在转FDE，甚至一些软件创业公司也兼职做代理，一边卖大厂Agent，一边提供FDE服务。 FDE的火爆不难理解，毕竟现在企业AI落地普遍面临“最后一公里”的难题，市场需求旺盛。 而且，对于很多软件公司来说，传统软件时代混得不如意，现在抓住FDE的风口，说不定就可以“逆天改命”。 但真相是残酷的：对这些公司来说，FDE根本就不是救命稻草，它更可能是一个致命的陷阱，让软件公司错过AI时代真正的机会。 首先，我们要知道，FDE不是AI时代的新发明。 创造FDE的Palantir，无非是试图通过FDE模式同时解决2个问题：一是",
+     "source": "虎嗅",
+     "zh": "FDE，可能是一个致命的陷阱"
+    },
+    {
+     "title": "俄罗斯贝加尔鼠疫风波，千万不能扩散",
+     "link": "https://www.huxiu.com/article/4896006.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 08:06:42 +0800",
+     "summary": "本文来自微信公众号： 地球知识局 ，作者：子昱，校对：辜汉膺，编辑：养乐多，题图来自：视觉中国 10月2日，俄罗斯伊尔库茨克州一名从事鼠疫防治的研究人员因&ldquo;不明原因肺炎&rdquo;去世，顿时引发全球舆论，美国和世卫组织都表示高度关注。 本次的事发地伊尔库茨克就在贝加尔湖附近。2023年，知识局的小伙伴们还一起去过。 同时，各种流言四起，包括但不限于这是战事吃紧故意制造此事加强国内管控；死者是打碎了装有致病细菌的试管而感染；还有第二名感染死亡的患者等等。 这之中，有些显然是不靠谱的。你如果现在搜北京到伊尔库茨克机票，最便宜的直飞只要700多块，敢去么？ 目前能够确认的几点是： 1.",
+     "source": "虎嗅",
+     "zh": "俄罗斯贝加尔鼠疫风波，千万不能扩散"
+    },
+    {
      "title": "聊天机器人怂恿用户自残、挨饿，Character.AI 遭肯塔基州指控“产品存在缺陷”",
      "link": "https://www.ithome.com/1/010/769.htm",
      "pubDate": "Fri, 09 Oct 2026 00:05:12 GMT",
      "summary": "IT之家 10 月 9 日消息，据路透社今天（9 日）上午报道，美国肯塔基州总检察长提交的一份新诉讼文件指控，AI 陪伴服务公司 Character.AI 旗下的聊天机器人曾怂恿用户 割伤自己、挨饿，甚至自杀 。肯塔基州此前以儿童安全问题为由起诉 Character.AI 。 诉状称， Character.AI 的产品专门设计用来吸引儿童， 把用户参与度放在儿童福祉之上 ，并诱导自杀、自残和孤立行为，还会实施心理操控。 当地时间 7 日，肯塔基州总检察长拉塞尔 · 科尔曼提交了未作删节的诉状。文件披露了多起据称发生在 2025 年的事件。其中一名用户因为自己的外貌而情绪低落， 聊天机器人却辱骂",
      "source": "IT之家",
      "zh": "聊天机器人怂恿用户自残、挨饿，Character.AI 遭肯塔基州指控“产品存在缺陷”"
+    },
+    {
+     "title": "58岁奔驰前高管，没救活一家面包店",
+     "link": "https://www.huxiu.com/article/4896012.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 08:04:54 +0800",
+     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：马吉英，作者：任娅斐 不断转换身份的同时，他也在逐渐脱掉那件让自己端着的“长衫”。 到了饭点，北京顺义荣祥广场依然冷清。十数家商铺里，顾客寥寥无几。春种秋藏面包店的总店就开在这里。 8月20日，李宏鹏在店门口立起一块白色立牌，上面写着一则闭店告示：9月28日是春种秋藏面包店最后一天营业。 告示发布后，面包店迎来一波流量高峰，很多老顾客专程赶过去，消费支持；慕名而来的新朋友，打卡的同时，临走时也会捎上一袋面包。“每天客人没有断过，大家都想在闭店前再买走最后一炉面包。”李宏鹏笑着说。 58岁的李宏鹏穿一件浅紫色衬衫，袖口挽起，短发向一侧梳得整整齐齐。他",
+     "source": "虎嗅",
+     "zh": "58岁奔驰前高管，没救活一家面包店"
     },
     {
      "title": "OpenAI 推出 GPT-6.1 Sol Ultrafast 版：6 倍价格、最高 8 倍速度",
@@ -1746,14 +1778,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果库克解释为何赶在 iPhone Duo 发布前交接：为特努斯创造有利开局"
     },
     {
-     "title": "一百四十年，汽车业只回答了一个问题",
-     "link": "https://www.huxiu.com/article/4896009.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 07:55:56 +0800",
-     "summary": "本文来自微信公众号： 锦缎 ，作者：穆阳 先看三个场景。 场景一：1886年，斯图加特。罗伯特·博世开出一间精密机械作坊，起步业务是内燃机点火装置，最早的客户是戴姆勒和奔驰，一群刚刚发明了汽车的人。此后一百四十年，这家公司做对了汽车产业史上几乎所有的选择题。 场景二：1999年，底特律。通用汽车的股东们批准了美国工业史上规模最大的分拆之一：把旗下庞大的零件帝国剥离出去，组建一家叫德尔福的独立公司。分拆那天，华尔街鼓掌，管理层如释重负。没人想到，六年之后，这家公司会走进破产法庭。 场景三：今天，中国。科技公司携智能化能力大举涌入汽车业，整车厂与供应商、主导者与配套者之间，正在演化出这个产业从未有",
-     "source": "虎嗅",
-     "zh": "一百四十年，汽车业只回答了一个问题"
-    },
-    {
      "title": "IT早报 1009：苹果“欢迎回家”发布会定档 10 月 13 日；尊界回应“刹车踏板支架断裂”；小米 17 Ultra 全系涨 1000 元；小米澎程上市 30 天锁单已超 7 万台...",
      "link": "https://www.ithome.com/1/010/766.htm",
      "pubDate": "Thu, 08 Oct 2026 23:54:20 GMT",
@@ -1776,30 +1800,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 9 日消息，捷豹以四门 GT 车型 Type 01 正式开启品牌纯电时代，并借此推动品牌的“重塑”。未来，捷豹还将推出更多车型。 捷豹高管向外媒 insideevs 透露，下一款新车很快就会亮相，但没有披露更多细节。新车将沿用 Type 01 大胆的设计语言。 捷豹董事总经理罗登 · 格洛弗称，品牌希望向消费者传达 敢于打破常规、绝不妥协 的理念。 Type 01 的设计颠覆了捷豹以往的风格。车身修长、宽大，目标是让捷豹跻身定位 高于奥迪、宝马 等昔日竞争对手的市场。 格洛弗暗示，捷豹“重塑”后的第二款车型将是一款跨界车。具体来看，捷豹未来的其他车型将“更加实用”，也会满足",
      "source": "IT之家",
      "zh": "Type 01 之后还有新车，捷豹“品牌重塑”下一款车型将主打跨界"
-    },
-    {
-     "title": "腾讯账上躺着5000亿，为啥还要借钱？",
-     "link": "https://www.huxiu.com/article/4896007.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 07:51:05 +0800",
-     "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：怪哥 腾讯又准备去借钱了。 而且这次一开口，就是335亿元。 据彭博社10月8日报道，腾讯正在考虑发行最高50亿美元（约合335亿元人民币）的离岸债券，最快本月启动，债券可能以美元和离岸人民币计价。 值得注意的是，今年6月，腾讯才刚刚通过发行债券，筹集了近47亿美元（约315亿元人民币）。 如果这次融资最终按照最高规模完成，腾讯今年两次发债融资合计将接近650亿元。 当然，这335亿元目前还处于考虑阶段，腾讯尚未正式确认，最终发行规模和资金用途也没有公布。6月的融资还包括债务再融资，不能简单把650亿元全部算作新增AI投入。 但看到这条新闻，我还",
-     "source": "虎嗅",
-     "zh": "腾讯账上躺着5000亿，为啥还要借钱？"
-    },
-    {
-     "title": "为什么年轻人开始爱上对抗性运动？",
-     "link": "https://www.huxiu.com/article/4896005.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 07:42:45 +0800",
-     "summary": "本文来自微信公众号： 精练GymSquare ，作者：碧纹 拳击、巴柔、攀岩、网球，相比起泡在健身房孤独举铁。都市白领开始选择越来越多小众，但更具有对抗性的运动形式。 不拘类型，有些对抗来自于对手之间，有些对抗源于运动本身。100次专注沉浸练习的网球正手击打，是从自我的能力博弈到与对手的技术对抗；多年攀岩的人缠满胶布布满老茧的双手，背后是沉默的与高墙对抗；反复练习的巴西柔术地面缠斗没有模式化的对练套路，而是技术和身体的周旋对抗。 在不断发起挑战、不断失败的过程中从被碾压、到适应、并积蓄力量、缓慢成长，现代人通过运动学会「擅长对抗」。 对抗性运动，并不是在阐述如何通过绝对力量达到运动目的，满足减",
-     "source": "虎嗅",
-     "zh": "为什么年轻人开始爱上对抗性运动？"
-    },
-    {
-     "title": "顺丰押注的无人配送公司，又拿到了一亿美元",
-     "link": "https://www.huxiu.com/article/4896004.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 07:38:51 +0800",
-     "summary": "本文来自微信公众号： 赛博汽车 ，作者：章涟漪，编辑：姜田双 白犀牛又融到钱了。 10月8日，这家L4无人配送公司宣布完成C2轮融资，C轮累计金额达到1亿美元。本轮由隐山资本领投，湘潭国资、深重投、湖南财信、韩国友利金融集团、博正资本跟投。 距离白犀牛今年5月宣布完成C1轮融资，仅过去约5个月。 成立于2019年的白犀牛，是一家L4自动驾驶解决方案商，以无人配送为起点，主要专注于城市公开道路上的自动驾驶产品和服务。 作为一家创业公司，它凭什么在技术迭代残酷、巨头环伺的赛道上走到今天？未来还将需要跨越哪些难题？ 01 谁在掏钱，钱往哪花 先说这轮融资，看点不在金额本身，1亿美元在当下的无人配送赛",
-     "source": "虎嗅",
-     "zh": "顺丰押注的无人配送公司，又拿到了一亿美元"
     },
     {
      "title": "OpenAI, the Partition Principle, and Mathematics",
@@ -2202,6 +2202,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "没有App、14个人、免费用：Instinct如何撑起百亿美元估值",
+     "link": "https://wallstreetcn.com/articles/3783198",
+     "pubDate": "Fri, 09 Oct 2026 08:14:08 +0800",
+     "summary": "作者 | 林克、郑好 2021年春天，在硅谷流行的语音社交平台Clubhouse邀请码在eBay上卖到上百美元。5年后，同一件事发生在名为Instinct的个人Agent身上。 作为AI助理，Instinct只通过短信和电话替用户订酒店、改签航班、比价下单，它的邀请码同样在eBay上被炒到上百美元，每位用户只有5个邀请名额。 硅谷对这种稀缺感的反应一如既往，投资人自发传播，科技媒体轮番报道，估值一个月内从25亿美元涨到百亿美元。 如今这个故事发生在一家14个人、零收入、没有手机App的公司身上。 9月28日，Instinct宣布C轮融资10亿美元，Sequoia、Benchmark和Coatu",
+     "source": "华尔街见闻",
+     "zh": "没有App、14个人、免费用：Instinct如何撑起百亿美元估值"
+    },
+    {
+     "title": "咖啡配卷饼？星巴克寻求收购Chipotle，若成功将成“餐饮业最大并购”",
+     "link": "https://wallstreetcn.com/articles/3783227",
+     "pubDate": "Fri, 09 Oct 2026 08:04:43 +0800",
+     "summary": "星巴克正在探索收购墨西哥卷饼连锁品牌Chipotle Mexican Grill的可能性，此举若成真，将成为餐饮行业有史以来规模最大的并购交易。 据英国《金融时报》周四报道，知情人士透露，星巴克近几个月来已与顾问合作，就收购市值约410亿美元的Chipotle制定方案。消息披露后，星巴克股价盘中一度下跌6.7%，收盘跌幅收窄至0.4%；Chipotle股价则大涨6.2%。 知情人士同时警告，如此体量的变革性交易落地难度极大，鉴于整合两家消费巨头的复杂性，最终可能不会成形。 目前尚无法确认星巴克收购计划的进展状态，以及是否已向Chipotle提交正式要约。 交易规模史无前例，超越汉堡王收购Tim",
+     "source": "华尔街见闻",
+     "zh": "咖啡配卷饼？星巴克寻求收购Chipotle，若成功将成“餐饮业最大并购”"
+    },
+    {
+     "title": "美国预算赤字飙升至近2万亿美元，占GDP比例将超6%，高利率、减税加剧赤字恶化",
+     "link": "https://wallstreetcn.com/articles/3783229",
+     "pubDate": "Fri, 09 Oct 2026 08:04:18 +0800",
+     "summary": "美国国会预算办公室（CBO）数据显示，截至9月30日的2026财年，美国联邦预算赤字升至1.993万亿美元，同比增长12%，为2021年以来最高水平。与此同时，联邦支出达7.4万亿美元，增长6%；财政收入为5.4万亿美元，仅增长3%。 据《华尔街日报》最新报道，美国赤字占GDP的比例预计将超过6%，高于2025财年的5.8%。这一水平在历史上通常只出现在经济衰退或战争时期，而当前美国经济已处于扩张周期逾六年。 距离中期选举仅剩数周，两党均未将削减赤字列为竞选核心议题，部分政策提议甚至可能进一步推高赤字。 利息支出成最大变量 赤字扩大的最主要驱动力，来自债务利息成本的急剧攀升。 据CBO数据，2",
+     "source": "华尔街见闻",
+     "zh": "美国预算赤字飙升至近2万亿美元，占GDP比例将超6%，高利率、减税加剧赤字恶化"
+    },
+    {
      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 00:03:00 GMT",
@@ -2362,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile"
     },
     {
-     "title": "英伟达支持的Firmus取消IPO，AI数据中心融资遇冷",
-     "link": "https://wallstreetcn.com/articles/3783224",
-     "pubDate": "Fri, 09 Oct 2026 06:37:47 +0800",
-     "summary": "澳大利亚数据中心运营商Firmus Grid在公开市场遭遇投资者冷遇后，宣布撤回赴澳交所上市计划，转而寻求私募融资。这是三周内第二宗数据中心巨型IPO折戟，市场对AI基础设施资产的公开市场定价正面临严峻考验。 Firmus原计划募资最高55亿美元，按每股11澳元定价，对应估值约437亿澳元（304亿美元）。据彭博报道，截至认购截止，询价簿未现明确定价或交易结构。Firmus一度将发行价下调至8澳元，较发行区间低约25%，并试图将底线守在8.25澳元。 最终，该公司周五宣布撤回上市申请，以\"近期市场波动及当前市况\"为由，称\"交易条款无法充分反映公司业务实力与长期增长前景\"，并表示将转向私募市场寻",
-     "source": "华尔街见闻",
-     "zh": "英伟达支持的Firmus取消IPO，AI数据中心融资遇冷"
-    },
-    {
      "title": "Carlyle says deal to buy Lukoil assets expired - Bloomberg",
      "link": "https://seekingalpha.com/news/4651621-carlyle-says-deal-to-buy-lukoil-assets-expired-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 08 Oct 2026 18:36:57 -0400",
@@ -2424,22 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
      "source": "MarketWatch",
      "zh": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?"
-    },
-    {
-     "title": "Here are the major earnings before the open Thursday",
-     "link": "https://seekingalpha.com/news/4650987-here-are-the-major-earnings-before-the-open-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 18:00:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Here are the major earnings before the open Thursday"
-    },
-    {
-     "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
-     "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
-     "pubDate": "Thu, 08 Oct 2026 21:56:00 GMT",
-     "summary": "Palantir’s total addressable market could get a lot bigger, while its business model should sustain its lead against competitors, an analyst says",
-     "source": "MarketWatch",
-     "zh": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy"
     }
    ]
   },

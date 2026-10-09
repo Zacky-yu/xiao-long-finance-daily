@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/9 22:28:06",
+ "generated_at": "2026/10/9 22:31:53",
  "recent_days": 7,
  "industries": [
   {
@@ -1069,7 +1069,7 @@ window.INDUSTRY_DATA = {
      "title": "Massachusetts shifts clean energy funds to help heat homes this winter",
      "link": "https://www.utilitydive.com/news/massachusetts-clean-energy-funds-winter-heating-oil/832521/",
      "pubDate": "Thu, 08 Oct 2026 12:42:42 -0400",
-     "summary": "Gov. Maura Healey ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
+     "summary": "Massachusetts&nbsp;Gov. Maura Healey, D, ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
      "source": "Utility Dive",
      "zh": "Massachusetts shifts clean energy funds to help heat homes this winter"
     },
@@ -1210,14 +1210,6 @@ window.INDUSTRY_DATA = {
      "zh": "From Discovery to Development"
     },
     {
-     "title": "HHS launches new plan to strengthen vaccine injury research, reporting",
-     "link": "https://www.biopharmadive.com/news/hhs-vaccine-injury-reporting-research-rfk/832532/",
-     "pubDate": "Thu, 08 Oct 2026 16:57:00 -0400",
-     "summary": "Spearheaded by vaccine skeptic Robert F. Kennedy Jr., the initiative will involve a new NIH clinic, an updated monitoring system and reimbursements for doctors who report suspected side effects.",
-     "source": "BioPharma Dive",
-     "zh": "HHS launches new plan to strengthen vaccine injury research, reporting"
-    },
-    {
      "title": "How Preclinical Manufacturing Can De-Risk the Path to GMP-Ready Viral Vector Programs",
      "link": "https://www.genengnews.com/multimedia/webinars/how-preclinical-manufacturing-can-de-risk-the-path-to-gmp-ready-viral-vector-programs/",
      "pubDate": "Thu, 08 Oct 2026 20:45:53 +0000",
@@ -1296,6 +1288,14 @@ window.INDUSTRY_DATA = {
      "summary": "Despite having an allogeneic cell therapy prospect that&rsquo;s ready for late-stage testing in lymphoma, Caribou couldn&rsquo;t secure funding to support the effort and will now pursue &ldquo;strategic alternatives&rdquo; instead.",
      "source": "BioPharma Dive",
      "zh": "Caribou to halt CAR-T work, lay off staff amid ‘challenging’ funding climate"
+    },
+    {
+     "title": "Halozyme prevails in patent fight with Merck; Enliven readies anticipated leukemia trial",
+     "link": "https://www.biopharmadive.com/news/halozyme-merck-europe-enliven-insmed-rougetx-kymathera/832282/",
+     "pubDate": "Wed, 07 Oct 2026 11:21:00 -0400",
+     "summary": "A Dutch court barred Merck from selling subcutaneous Keytruda in several European countries. Elsewhere, an Insmed executive ended a seven-year run and two startups secured venture cash.",
+     "source": "BioPharma Dive",
+     "zh": "Halozyme prevails in patent fight with Merck; Enliven readies anticipated leukemia trial"
     }
    ]
   },
@@ -1722,6 +1722,14 @@ window.INDUSTRY_DATA = {
      "zh": "Analysis of 857 releases from nine Chinese AI labs between 2021 and September 2026: just 3.6% disclosed safety results, and only 1.1% did so at launch (SemiAnalysis)"
     },
     {
+     "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
+     "link": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
+     "pubDate": "Fri, 09 Oct 2026 14:14:08 +0000",
+     "summary": "Article URL: https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457 Comments URL: https://news.ycombinator.com/item?id=50020856 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Court throws out killer's sentence after judge said he loved AI video of victim"
+    },
+    {
      "title": "国务院发布《关于发展新质生产力的意见》：加快推进智能网联新能源汽车、人工智能手机和电脑、人形机器人等新一代智能终端场景应用",
      "link": "https://www.ithome.com/1/011/142.htm",
      "pubDate": "Fri, 09 Oct 2026 14:10:35 GMT",
@@ -1802,12 +1810,12 @@ window.INDUSTRY_DATA = {
      "zh": "Counterpoint：苹果全新 MacBook Pro 将推动 OLED 笔记本面板市场增长，预计今年市场出货量同比增长 50%"
     },
     {
-     "title": "Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and others participating (Bloomberg)",
+     "title": "Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and angel investors also participating; ~33% of the Fortune 500 use Jev (Bloomberg)",
      "link": "https://www.techmeme.com/261009/p13#a261009p13",
      "pubDate": "Fri, 09 Oct 2026 09:25:03 -0400",
-     "summary": "Bloomberg : Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and others participating &nbsp; &mdash;&nbsp; TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it launched only a few weeks ago, has raised about $870 milli",
+     "summary": "Bloomberg : Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and angel investors also participating; ~33% of the Fortune 500 use Jev &nbsp; &mdash;&nbsp; TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it launched on",
      "source": "Techmeme",
-     "zh": "Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and others participating (Bloomberg)"
+     "zh": "Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and angel investors also participating; ~33% of the Fortune 500 use Jev (Bloomberg)"
     },
     {
      "title": "大厂夹缝中的Manus",
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Our $445M Series D",
      "link": "https://oxide.computer/blog/our-445m-series-d",
      "pubDate": "Fri, 09 Oct 2026 13:12:47 +0000",
-     "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 115 # Comments: 26",
+     "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 141 # Comments: 29",
      "source": "Hacker News",
      "zh": "Our $445M Series D"
     },
@@ -1837,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Deno Is Joining Cloudflare",
      "link": "https://deno.com/blog/cloudflare",
      "pubDate": "Fri, 09 Oct 2026 13:03:48 +0000",
-     "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 238 # Comments: 113",
+     "summary": "Article URL: https://deno.com/blog/cloudflare Comments URL: https://news.ycombinator.com/item?id=50019911 Points: 283 # Comments: 137",
      "source": "Hacker News",
      "zh": "Deno Is Joining Cloudflare"
     },
@@ -1853,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Study: Exercise increases cancer survival rates",
      "link": "https://www.nejm.org/doi/10.1056/NEJMoa2502760",
      "pubDate": "Fri, 09 Oct 2026 12:49:41 +0000",
-     "summary": "Article URL: https://www.nejm.org/doi/10.1056/NEJMoa2502760 Comments URL: https://news.ycombinator.com/item?id=50019741 Points: 14 # Comments: 2",
+     "summary": "Article URL: https://www.nejm.org/doi/10.1056/NEJMoa2502760 Comments URL: https://news.ycombinator.com/item?id=50019741 Points: 20 # Comments: 3",
      "source": "Hacker News",
      "zh": "Study: Exercise increases cancer survival rates"
     },
@@ -1861,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Meadows – a small language for stock-and-flow diagrams that run",
      "link": "https://lorezzed.github.io/meadows/",
      "pubDate": "Fri, 09 Oct 2026 12:29:40 +0000",
-     "summary": "Article URL: https://lorezzed.github.io/meadows/ Comments URL: https://news.ycombinator.com/item?id=50019535 Points: 10 # Comments: 2",
+     "summary": "Article URL: https://lorezzed.github.io/meadows/ Comments URL: https://news.ycombinator.com/item?id=50019535 Points: 12 # Comments: 2",
      "source": "Hacker News",
      "zh": "Meadows – a small language for stock-and-flow diagrams that run"
     },
@@ -1869,17 +1877,9 @@ window.INDUSTRY_DATA = {
      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
      "link": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
      "pubDate": "Fri, 09 Oct 2026 12:21:24 +0000",
-     "summary": "Article URL: https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/ Comments URL: https://news.ycombinator.com/item?id=50019455 Points: 51 # Comments: 25",
+     "summary": "Article URL: https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/ Comments URL: https://news.ycombinator.com/item?id=50019455 Points: 66 # Comments: 33",
      "source": "Hacker News",
      "zh": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT"
-    },
-    {
-     "title": "The Hetzner Cloud network stack – history and technical overview",
-     "link": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
-     "pubDate": "Fri, 09 Oct 2026 12:20:55 +0000",
-     "summary": "Article URL: https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/ Comments URL: https://news.ycombinator.com/item?id=50019451 Points: 36 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "The Hetzner Cloud network stack – history and technical overview"
     },
     {
      "title": "Xona’s commercial GPS alternative is about to go live",
@@ -2218,6 +2218,14 @@ window.INDUSTRY_DATA = {
      "zh": "Revolut to create its own scent"
     },
     {
+     "title": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
+     "link": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 14:28:00 GMT",
+     "summary": "Amendment 3’s passage could add momentum to other states’ efforts to slash property taxes",
+     "source": "MarketWatch",
+     "zh": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt."
+    },
+    {
      "title": "Trump appoints committee to investigate statements by the Fed&apos;s Lisa Cook",
      "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
      "pubDate": "Fri, 09 Oct 2026 14:25:10 GMT",
@@ -2242,6 +2250,14 @@ window.INDUSTRY_DATA = {
      "zh": "Tesla’s China-made EV sales rise as Europe recovery continues"
     },
     {
+     "title": "9月A股新开户191.19万户 同比下降35%",
+     "link": "http://finance.eastmoney.com/news/1345,202610093891542998.html",
+     "pubDate": "Fri, 09 Oct 2026 22:21:22 +0800",
+     "summary": "据上交所数据，2026年9月A股新开户191.19万户，同比去年9月293.72万户下降35.0%；2026年前9个月已累计新开2712.59万户，同比增长35.0%。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "9月A股新开户191.19万户 同比下降35%"
+    },
+    {
      "title": "Avolon orders 140 jets from Boeing, 110 from Airbus with option for more",
      "link": "https://seekingalpha.com/news/4651763-avolon-orders-140-jets-from-boeing-110-from-airbus-with-option-for-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 10:21:19 -0400",
@@ -2258,60 +2274,52 @@ window.INDUSTRY_DATA = {
      "zh": "IT Tech Packaging gets NYSE extension over 3 missed filings"
     },
     {
+     "title": "达美航空高管表示：在炼油厂临时停机后现已全面恢复运营",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891543017.html",
+     "pubDate": "Fri, 09 Oct 2026 22:20:39 +0800",
+     "summary": "达美航空 高管表示：在炼油厂临时停机后现已全面恢复运营，我们预计第四财季收益将大幅提升，大约为第三财季水平的三倍。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "达美航空高管表示：在炼油厂临时停机后现已全面恢复运营"
+    },
+    {
+     "title": "何小鹏：又一次参加巴黎车展 小鹏G9L也将正式在全球上市 我们准备好了",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891542611.html",
+     "pubDate": "Fri, 09 Oct 2026 22:20:38 +0800",
+     "summary": "何小鹏：又一次参加巴黎车展，这次会展出包括AI 汽车 、飞行 汽车 、 机器人 等小鹏物理AI全品类产品矩阵，小鹏G9L也将正式在全球上市，我们准备好了。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "何小鹏：又一次参加巴黎车展 小鹏G9L也将正式在全球上市 我们准备好了"
+    },
+    {
+     "title": "NBA总裁：希望获取预测市场数据 以识别市场操纵行为",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891541935.html",
+     "pubDate": "Fri, 09 Oct 2026 22:19:28 +0800",
+     "summary": "NBA总裁Adam Silver周五接受采访时称，希望能够调取预测市场的数据，用于监管并发现内幕交易行为。 Silver表示：“无论它被称作预测市场，还是体育博彩，对我们联盟，我认为对所有体育联盟而言，面临的问题都是一样的，诚信问题永远是第一位的。我们希望拿到相关数据，同时也希望能对该市场拥有管控权。” 以与主教练是否会被解雇相关的合约为例，Silver称这类交易属于“异常行为”。 就在此番表态的前一日，美国国家橄榄球联盟（NFL）向最高法院提交一份法庭之友意见书，支持新泽西州监管机构的主张，认定预测市场上的体育类合约属于赌博范畴，而非金融互换产品。金融互换产品由美国商品 期货 交易委员会（C",
+     "source": "东方财富股票",
+     "zh": "NBA总裁：希望获取预测市场数据 以识别市场操纵行为"
+    },
+    {
+     "title": "CCC智能解决方案股价上涨8.4% 创8月18日以来最大涨幅",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891541372.html",
+     "pubDate": "Fri, 09 Oct 2026 22:18:19 +0800",
+     "summary": "CCC智能解决方案股价上涨8.4%，创8月18日以来最大涨幅。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "CCC智能解决方案股价上涨8.4% 创8月18日以来最大涨幅"
+    },
+    {
+     "title": "意大利里维埃拉港口拉帕洛聘请瑞银寻找买家",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891541149.html",
+     "pubDate": "Fri, 09 Oct 2026 22:18:15 +0800",
+     "summary": "意大利里维埃拉 港口 拉帕洛聘请瑞银寻找买家。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "意大利里维埃拉港口拉帕洛聘请瑞银寻找买家"
+    },
+    {
      "title": "Treasury yields have fallen after four of five House-flipping midterms, Ree says",
      "link": "https://seekingalpha.com/news/4651744-treasury-yields-have-fallen-after-four-of-five-house-flipping-midterms-ree-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 10:17:48 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Treasury yields have fallen after four of five House-flipping midterms, Ree says"
-    },
-    {
-     "title": "达美航空：第四季度营收同比增长20% 运力增长约3%",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891540885.html",
-     "pubDate": "Fri, 09 Oct 2026 22:16:43 +0800",
-     "summary": "达美航空 ：第四季度营收同比增长20%，运力增长约3%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "达美航空：第四季度营收同比增长20% 运力增长约3%"
-    },
-    {
-     "title": "美联储：2022-25年间美国家庭收入、财富及债务压力上升",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891540642.html",
-     "pubDate": "Fri, 09 Oct 2026 22:16:39 +0800",
-     "summary": "美联储消费者财务调查显示：2022-25年间，美国实际家庭收入中位数上升7%至82,200美元，低收入群体收入增长，高收入群体收入下降。实际净资产中位数上升2%至215,900美元，财富和收入分布各层的家庭均有所受益。家庭债务中位数与2022年基本持平，但债务偿还占收入比超过40%的家庭比例从6.5%升至8.6%，为2013年以来最高。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美联储：2022-25年间美国家庭收入、财富及债务压力上升"
-    },
-    {
-     "title": "ZALANDO SE 股价上涨5.2% 有望创下4月以来最佳单日表现",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891538458.html",
-     "pubDate": "Fri, 09 Oct 2026 22:15:25 +0800",
-     "summary": "ZALANDO SE 股价上涨5.2%，有望创下4月以来最佳单日表现。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "ZALANDO SE 股价上涨5.2% 有望创下4月以来最佳单日表现"
-    },
-    {
-     "title": "Moderna盘中拉升 现涨近9%",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891537447.html",
-     "pubDate": "Fri, 09 Oct 2026 22:15:00 +0800",
-     "summary": "Moderna盘中拉升，现涨近9%，股价创2022年12月以来新高，公司今日正式纳入 纳斯达克 100指数。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "Moderna盘中拉升 现涨近9%"
-    },
-    {
-     "title": "市场消息：NBA希望获取数据以监测内幕交易",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891537874.html",
-     "pubDate": "Fri, 09 Oct 2026 22:14:59 +0800",
-     "summary": "市场消息：NBA希望获取数据以监测内幕交易。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "市场消息：NBA希望获取数据以监测内幕交易"
-    },
-    {
-     "title": "市场消息：NBA希望获取预测市场数据",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891538695.html",
-     "pubDate": "Fri, 09 Oct 2026 22:14:56 +0800",
-     "summary": "市场消息：NBA希望获取预测市场数据。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "市场消息：NBA希望获取预测市场数据"
     },
     {
      "title": "Biggest stock movers Friday: HUM, SPCX, DAL, AAPL, and more",
@@ -2336,6 +2344,38 @@ window.INDUSTRY_DATA = {
      "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
      "source": "CNBC",
      "zh": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries"
+    },
+    {
+     "title": "薛继豪正式担任泰康人寿总经理",
+     "link": "http://www.eeo.com.cn/2026/1009/1059063.shtml",
+     "pubDate": "Fri, 09 Oct 2026 22:13:07 +0800",
+     "summary": "21世纪经济报道记者 林汉垚 近日，泰康人寿发布公告称，经泰康人寿研究决定，并报国家金融监管总局核准任职资格，自2026年9月28日起，薛继豪担任泰康人寿总经理。 去年12月26日，泰康人寿就曾发布公告称，自2025年12月23日起，薛继豪担任泰康人寿临时负责人，代行总经理职责。 公开资料显示，薛继豪，男，1968年12月出生，本硕均毕业于南开大学，获保险专业学士学位、货币银行学专业硕士学位。 目前，...",
+     "source": "经济观察网",
+     "zh": "薛继豪正式担任泰康人寿总经理"
+    },
+    {
+     "title": "美股开盘：存储芯片板块齐涨，闪迪、美光科技、SK海力涨超1%",
+     "link": "http://www.eeo.com.cn/2026/1009/1059062.shtml",
+     "pubDate": "Fri, 09 Oct 2026 22:13:05 +0800",
+     "summary": "中新经纬10月9日电 北京时间10月9日晚间，美股三大指数集体高开，标普500指数涨0.29%，道指涨0.14%，纳指涨0.55%。 美股“科技七巨头”盘初多数上涨，特斯拉涨2.04%，微软涨1.31%，亚马逊涨1.01%，谷歌涨0.92%，英伟达涨0.90%，Meta涨0.50%，苹果跌2.18%。 存储芯片板块齐涨，闪迪、美光科技、SK海力涨超1%，希捷科技涨近1%，西部数据涨超0.6%。(中新经纬APP)",
+     "source": "经济观察网",
+     "zh": "美股开盘：存储芯片板块齐涨，闪迪、美光科技、SK海力涨超1%"
+    },
+    {
+     "title": "商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问",
+     "link": "http://www.eeo.com.cn/2026/1009/1059056.shtml",
+     "pubDate": "Fri, 09 Oct 2026 22:05:03 +0800",
+     "summary": "经济观察网 10月9日，商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问。 问：美东时间10月7日，美贸易代表办公室（USTR）发布公告称，近期美国召集14个经济体高级官员举行会议，共同签署发布应对所谓“结构性产能和生产过剩”问题的部长级联合声明。请问商务部对此有何评论？ 答：我们注意到有关情况。中方已在不同场合多次阐明关于所谓“产能过剩”问题的看...",
+     "source": "经济观察网",
+     "zh": "商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问"
+    },
+    {
+     "title": "“三星堆—金沙：青铜时代的古蜀文明”系列丛书亮相法兰克福国际书展",
+     "link": "http://www.eeo.com.cn/2026/1009/1059055.shtml",
+     "pubDate": "Fri, 09 Oct 2026 22:01:07 +0800",
+     "summary": "德国当地时间10月7日，第78届法兰克福国际书展现场，四川大学出版社携手施普林格&middot;自然集团推出的&ldquo;三星堆&mdash;金沙：青铜时代的古蜀文明&rdquo;系列丛书英文版全球首发。 本套丛书以书为桥，向全球学界展现古蜀考古的前沿研究。 <img src=\"https://img.gmw.cn/imgmeiwen/attachement/jpg/site2/20261009/82c54fbcef6b470ab9e89694787f02c5.jpg\" borde...",
+     "source": "经济观察网",
+     "zh": "“三星堆—金沙：青铜时代的古蜀文明”系列丛书亮相法兰克福国际书展"
     },
     {
      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
@@ -2370,6 +2410,22 @@ window.INDUSTRY_DATA = {
      "zh": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat"
     },
     {
+     "title": "品读红色名著传承红岩精神 重庆举办盲人红色经典阅读活动",
+     "link": "http://www.eeo.com.cn/2026/1009/1059052.shtml",
+     "pubDate": "Fri, 09 Oct 2026 21:52:12 +0800",
+     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/C34519A33E0F42292755A3B6E1CA5253.jpg\" alt=\"重庆市盲协盲人红色经典阅读活动现场。第1眼TV-华龙网记者 陈洋 摄\" data-title=\"重庆市盲协盲人红色经典阅读活动现场。第1眼TV-华龙网记者 陈洋 摄\" data-target=\"2108527770329681922\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/ORIGINAL/MEDIA",
+     "source": "经济观察网",
+     "zh": "品读红色名著传承红岩精神 重庆举办盲人红色经典阅读活动"
+    },
+    {
+     "title": "经济观察报 第1291期",
+     "link": "http://www.eeo.com.cn/2026/1009/1059051.shtml",
+     "pubDate": "Fri, 09 Oct 2026 21:51:31 +0800",
+     "summary": "经济观察报 第1291期",
+     "source": "经济观察网",
+     "zh": "经济观察报 第1291期"
+    },
+    {
      "title": "Should I put my nest egg in a 30-year Treasury bond?",
      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 13:51:00 GMT",
@@ -2384,62 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "Seven tips for painlessly moving in retirement.",
      "source": "MarketWatch",
      "zh": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’"
-    },
-    {
-     "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-     "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-     "pubDate": "Fri, 09 Oct 2026 13:38:10 GMT",
-     "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
-     "source": "CNBC",
-     "zh": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong"
-    },
-    {
-     "title": "AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周",
-     "link": "https://wallstreetcn.com/articles/3783254",
-     "pubDate": "Fri, 09 Oct 2026 21:37:18 +0800",
-     "summary": "周五，有关OpenAI营收的最新数据为市场提供喘息空间，此前因AI支出回报存疑引发的抛售压力有所缓解。铁矿石价格延续跌势，本周迎来连续第三周下跌；与此同时，美债长端收益率小幅回落，推动金银价格走高，现货黄金一度突破4200美元关口。 美股三大股指集体高开，道指涨0.05%，标普500指数涨0.27%，纳指涨0.54%。光通信股开盘普涨，Lumentum涨超6%，康宁涨近3%。存储板块走高，美光、闪迪、SK海力士均涨超1%。SpaceX上涨3.3%，此前该公司达成协议，将收购全国性低频段频谱组合。苹果下跌2.7%，报道称因需求疲软公司削减iPhone 18 Pro系列零部件产量。 现货黄金日内一",
-     "source": "华尔街见闻",
-     "zh": "AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周"
-    },
-    {
-     "title": "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
-     "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 13:30:00 GMT",
-     "summary": "History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.",
-     "source": "MarketWatch",
-     "zh": "Aging bull: Why this 4-year-old stock-market rally still packs a punch"
-    },
-    {
-     "title": "Nvidia and Micron shares bounce as investors get clarity on a key OpenAI matter",
-     "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 13:21:00 GMT",
-     "summary": "A new report paints OpenAI’s financial picture in a more optimistic light.",
-     "source": "MarketWatch",
-     "zh": "Nvidia and Micron shares bounce as investors get clarity on a key OpenAI matter"
-    },
-    {
-     "title": "法国债务：“太重难扛、太大难救”！",
-     "link": "https://wallstreetcn.com/articles/3783286",
-     "pubDate": "Fri, 09 Oct 2026 21:17:06 +0800",
-     "summary": "法国国债正面临越来越严峻的定价考验。法德国债利差已扩大至约150个基点，处于历史罕见水平，但债券市场分析师Robert Burrows警告，利差走阔并不意味着法国国债已具备足够的投资价值。若仍押注利差回归历史均值，投资者可能低估法国财政风险进一步恶化的空间。 法国的难题不仅在于债务负担沉重，还在于政治碎片化加剧、财政整顿难以推进。 与此同时，德国经济与财政支撑能力也受到质疑。法德两大经济体的风险交织，使问题不再局限于法国自身，而可能动摇欧元区整体的稳定性。 Burrows在Bond Vigilantes网站撰文指出，欧债危机期间，意大利国债相对德国国债的利差一度超过500个基点。这并非对法国利",
-     "source": "华尔街见闻",
-     "zh": "法国债务：“太重难扛、太大难救”！"
-    },
-    {
-     "title": "Treasury&apos;s Bessent hires Trump&apos;s controversial former Fed board pick, Judy Shelton, as advisor",
-     "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-     "pubDate": "Fri, 09 Oct 2026 13:09:19 GMT",
-     "summary": "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
-     "source": "CNBC",
-     "zh": "Treasury&apos;s Bessent hires Trump&apos;s controversial former Fed board pick, Judy Shelton, as advisor"
-    },
-    {
-     "title": "Nobel Peace Prize awarded to human rights pioneer Navi Pillay",
-     "link": "https://www.ft.com/content/3ae8dc9c-ee3a-4fe5-9749-b88390b5930b?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 13:09:08 GMT",
-     "summary": "Prize given to South African human rights lawyer for her efforts to promote peace and international law",
-     "source": "Financial Times",
-     "zh": "Nobel Peace Prize awarded to human rights pioneer Navi Pillay"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 07:12:04",
+ "generated_at": "2026/10/10 07:22:51",
  "recent_days": 7,
  "industries": [
   {
@@ -258,20 +258,20 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
-     "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
-     "pubDate": "Fri, 09 Oct 2026 19:00:00 +0000",
-     "summary": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI"
-    },
-    {
      "title": "Solid-State Transformers: Accelerate Your SST Design",
      "link": "https://www.eetimes.com/solid-state-transformers-accelerate-your-sst-design/",
      "pubDate": "Fri, 09 Oct 2026 15:38:47 +0000",
      "summary": "Join our expert-led webinar to explore Infineon's comprehensive portfolio for Solid-State Transformers (SSTs). The post Solid-State Transformers: Accelerate Your SST Design appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Solid-State Transformers: Accelerate Your SST Design"
+    },
+    {
+     "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
+     "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
+     "pubDate": "Fri, 09 Oct 2026 15:30:00 +0000",
+     "summary": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI"
     },
     {
      "title": "TSMC 2026 OIP Ecosystem Forum Summary",
@@ -1722,6 +1722,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "宝马北美调查：电动汽车买家想要远超自身需求的续航里程",
+     "link": "https://www.ithome.com/1/011/167.htm",
+     "pubDate": "Fri, 09 Oct 2026 23:18:39 GMT",
+     "summary": "IT之家 10 月 10 日消息，据外媒 motor1 今天（10 日）报道，9 月 11 日至 13 日，宝马集团北美公司对 1005 名美国成年人进行的一项调查发现，消费者日常开车所需的续航里程，与购车时提出的要求存在巨大差距。 73% 的受访者称，每天开车不超过 121 公里就能满足日常需求。无论是上下班还是外出办事，电动汽车的电池通常只需消耗少量电量，就足以应付这些行程。但当同一批受访者被问及买车时对续航里程的要求，答案却截然不同。 调查显示，42% 的受访者要求电动汽车续航里程 至少达到 483 公里 ，18% 的受访者只有在续航里程 不低于 644 公里时，才愿意考虑购买电动汽车 ",
+     "source": "IT之家",
+     "zh": "宝马北美调查：电动汽车买家想要远超自身需求的续航里程"
+    },
+    {
+     "title": "微软推出 Microsoft-Decision-1 决策模型，基于 Qwen3.5-9B",
+     "link": "https://www.ithome.com/1/011/166.htm",
+     "pubDate": "Fri, 09 Oct 2026 23:12:53 GMT",
+     "summary": "IT之家 10 月 10 日消息，当地时间 10 月 9 日，微软宣布推出 Microsoft-Decision-1 决策模型。 官方表示，该模型专为结构化决策任务打造，在响应延迟与决策质量上均具备顶尖性能，其实际表现全面超越大语言模型及其他传统决策模型。该模型现已上线 Microsoft Foundry ，并同步接入 OpenRouter 。 在包含 36 项基准测试、涵盖近 15 万个训练阶段完全隔离（Blind Evaluation）的测试内容的对比评测中， Microsoft-Decision-1 斩获了最高准确率 。 同时， 基准测试数据显示其响应速度位列第一 ：比排名次席的 Quy",
+     "source": "IT之家",
+     "zh": "微软推出 Microsoft-Decision-1 决策模型，基于 Qwen3.5-9B"
+    },
+    {
      "title": "Trump admin says it&apos;s now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents (Axios)",
      "link": "https://www.techmeme.com/261009/p29#a261009p29",
      "pubDate": "Fri, 09 Oct 2026 19:05:01 -0400",
@@ -1760,22 +1776,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 10 日消息，据《商业内幕》报道，谷歌即将向公众正式发布新一代 Gemini 4“Argon”模型。与此同时，其内部员工已在测试性能更强的后续迭代版本，有望进一步缩小与竞品之间的技术差距。 据该媒体获取的内部文档与截图显示，谷歌员工近期一直在测试代号为“Carbon”的全新 Gemini 4 版本。该模型很可能是 Argon 架构下的新检查点（Checkpoint）更新，并已于近日接入谷歌内部代码平台 Jetski。 一名员工透露，Carbon 在代码能力上的表现“堪比 Opus 5.5”—— 后者是 Anthropic 旗下针对复杂代码智能体长期任务打造的最强模型。不过该",
      "source": "IT之家",
      "zh": "谷歌 Gemini 4“Argon”模型即将发布，消息称内部测试“Carbon”新版本"
-    },
-    {
-     "title": "苹果首款智能家居中枢新线索，HomeView 商标曝光",
-     "link": "https://www.ithome.com/1/011/161.htm",
-     "pubDate": "Fri, 09 Oct 2026 22:44:42 GMT",
-     "summary": "IT之家 10 月 10 日消息，科技媒体 MacRumors 昨日（10 月 9 日）发布博文，报 道称苹果可能通过空壳公司 Home Services LLC，在美国及其他国家申请 HomeView 商标。 IT之家援引博文介绍，HomeView 申请出现时， 另一家空壳公司 Home Operations Suite LLC 也申请了 homeOS 商标 ，后者同样关联苹果公司。 苹果据报道计划于 10 月 13 日举行“欢迎回家”（Welcome home）发布会，并推出一款全新智能家居中心。该设备会否命名为 HomeView，以及其全新操作系统是否采用 homeOS，让我们拭目以待。",
-     "source": "IT之家",
-     "zh": "苹果首款智能家居中枢新线索，HomeView 商标曝光"
-    },
-    {
-     "title": "我国成功发射卫星互联网低轨 27 组卫星",
-     "link": "https://www.ithome.com/1/011/160.htm",
-     "pubDate": "Fri, 09 Oct 2026 22:38:09 GMT",
-     "summary": "IT之家 10 月 10 日消息，据央视新闻，今天（10 月 10 日）3 时 27 分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨 27 组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。 据IT之家了解，就在不久前的 9 月 23 日，我国在海南商业航天发射场使用长征八号甲运载火箭， 成功将卫星互联网低轨 26 组卫星发射升空 ，卫星顺利进入预定轨道，发射任务获得圆满成功。 延伸阅读 此次执行发射任务的长征十二号运载火箭由中国航天科技集团有限公司八院抓总研制，火箭全长约 62 米，采用两级构型设计，是我国首型 4 米级直径运载火箭，也是目前我国运载能力最",
-     "source": "IT之家",
-     "zh": "我国成功发射卫星互联网低轨 27 组卫星"
     },
     {
      "title": "Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M (Chris Metinko/Axios)",
@@ -1970,6 +1970,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "TrendForce warns of higher notebook prices and weaker demand in 2027",
+     "link": "https://9to5mac.com/2026/10/09/trendforce-warns-of-higher-notebook-prices-and-weaker-demand-in-2027/",
+     "pubDate": "Fri, 09 Oct 2026 23:13:19 +0000",
+     "summary": "TrendForce projects that global notebook shipments could decline by a high-single-digit percentage in 2027, depending on how manufacturers respond to rising component costs. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "TrendForce warns of higher notebook prices and weaker demand in 2027"
+    },
+    {
      "title": "Nothing's CMF is launching new products next week",
      "link": "https://www.gsmarena.com/nothings_cmf_is_launching_new_products_next_week-news-74987.php",
      "pubDate": "Sat, 10 Oct 2026 01:02:02 +0200",
@@ -2154,14 +2162,6 @@ window.INDUSTRY_DATA = {
      "zh": "ANBERNIC’s new Nintendo 3DS lookalike brings modern flourishes to a classic form factor"
     },
     {
-     "title": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring",
-     "link": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/",
-     "pubDate": "Fri, 09 Oct 2026 18:19:00 +0000",
-     "summary": "Onvis has released a new outdoor smart plug that checks all the boxes you’d want in an outdoor smart plug: Matter over Thread, real-time energy monitoring, and IP65 weather resistance. If you’ve been looking for an outdoor plug that works natively with Apple Home without a hub of its own, this is a ",
-     "source": "9to5Mac",
-     "zh": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring"
-    },
-    {
      "title": "SpaceX buys spectrum for Starlink to become a full-fledged US mobile carrier",
      "link": "https://www.gsmarena.com/spacex_buys_spectrum_for_starlink_to_become_a_fullfledged_us_mobile_carrier-news-74982.php",
      "pubDate": "Fri, 09 Oct 2026 20:01:02 +0200",
@@ -2218,12 +2218,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+     "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 23:15:00 GMT",
+     "summary": "“Both properties will be solely in his name.”",
+     "source": "MarketWatch",
+     "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
+    },
+    {
+     "title": "孩子被动物咬伤要不要打狂犬病疫苗",
+     "link": "http://www.eeo.com.cn/2026/1010/1059184.shtml",
+     "pubDate": "Sat, 10 Oct 2026 07:13:13 +0800",
+     "summary": "孩子在幼儿园喂兔子时被咬伤，要不要打狂犬疫苗？逛宠物店时，被土拨鼠咬了怎么办？动物园里，长颈鹿打喷嚏时唾液溅到眼睛里怎么处理？在野外被猴子抓伤了怎么办……在首都医科大学附属北京儿童医院狂犬疫苗接种门诊，该院急诊外科副主...",
+     "source": "经济观察网",
+     "zh": "孩子被动物咬伤要不要打狂犬病疫苗"
+    },
+    {
+     "title": "国庆节假期国内出游8.26亿人次",
+     "link": "http://www.eeo.com.cn/2026/1010/1059183.shtml",
+     "pubDate": "Sat, 10 Oct 2026 07:13:13 +0800",
+     "summary": "10月6日，游客在贵州安顺古城游览。 文化和旅游部10月9日公布2026年国庆节假期文化和旅游市场情况。经文化和旅游部数据中心测算，假期7天，全国国内出游8.26亿人次，国内出游总花费7383.75亿元，...",
+     "source": "经济观察网",
+     "zh": "国庆节假期国内出游8.26亿人次"
+    },
+    {
+     "title": "埃塞航空宣布恢复飞往该国提格雷州首府的航班",
+     "link": "http://www.eeo.com.cn/2026/1010/1059182.shtml",
+     "pubDate": "Sat, 10 Oct 2026 07:13:13 +0800",
+     "summary": "埃塞俄比亚航空公司当地时间10月9日宣布，从11日起恢复从埃塞首都亚的斯亚贝巴飞往该国北部提格雷州首府默克莱的航班。受当地局势影响，埃塞航空9月23日宣布暂停飞往提格雷地区的默克莱、阿克苏姆和希雷三座城市的航班。 9月23日清晨，当地反政府武装“提格雷人民解放阵线”对阿法尔州和阿姆哈拉州政府军阵地发动“全面进攻”，并接管提格雷地区原先由政府方面控制的机场。近日，埃塞政府军重新夺回对默克莱的控制权，并...",
+     "source": "经济观察网",
+     "zh": "埃塞航空宣布恢复飞往该国提格雷州首府的航班"
+    },
+    {
+     "title": "美国宣布对国际刑事法院实施制裁",
+     "link": "http://global.eastmoney.com/news/1959,202610103891648579.html",
+     "pubDate": "Sat, 10 Oct 2026 07:08:52 +0800",
+     "summary": "新华财经华盛顿10月9日电（记者黄强徐剑梅）美国国务卿鲁比奥9日发表声明，宣布对国际刑事法院实施制裁。 鲁比奥在声明中称，“美国总统特朗普绝不允许国际刑事法院起诉美国人”，美方将禁止与该法院进行交易，“切断其资源，并使其运作能力陷入瘫痪”。鲁比奥还称，美国不受国际刑事法院的管辖，美方“决心采取必要行动，彻底消除这一威胁。要么国际刑事法院停止其威胁行径，要么我们将终结该法院”。 美国国务院新闻发言人办公室当天发表声明称，截至目前，美国已对国际刑事法院17名相关人员实施制裁。 7月13日，美国国务院宣布发起一项由多个政府部门参与的行动，以“系统性削弱国际刑事法院运作能力”，使其无法对美国军人或政府",
+     "source": "东方财富股票",
+     "zh": "美国宣布对国际刑事法院实施制裁"
+    },
+    {
+     "title": "Anthropic“欺诈性”使用政府系统促使白宫出台AI报告强制令",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891647228.html",
+     "pubDate": "Sat, 10 Oct 2026 07:06:22 +0800",
+     "summary": "特朗普政府官员表示，在Anthropic“欺诈性”使用政府系统后，政府现已强制要求AI公司通报并纠正安全事件。白宫“超级智能部队”领导人在声明中表示：“这一通报和补救流程不是可选项。这是一项关键的国家安全义务。” 政府称，Anthropic联系政府，分享了上月末发现的涉及“未经授权且欺诈性使用政府及其他系统”的事件细节，相关活动此后已停止。白宫的要求适用于所有AI公司。 “超级智能部队”称：“SI公司必须立即披露涉及其模型的事件，并迅速采取果断行动，补救任何及所有损害。” （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "Anthropic“欺诈性”使用政府系统促使白宫出台AI报告强制令"
+    },
+    {
+     "title": "AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”",
+     "link": "https://wallstreetcn.com/articles/3783254",
+     "pubDate": "Sat, 10 Oct 2026 07:05:20 +0800",
+     "summary": "围绕人工智能支出的恐慌在24小时内完成反转。OpenAI营收口径之争出现新说法，前一天被这条消息砸下去的芯片与云服务商当天拿到逢低买盘。 与此同时，特朗普宣布俄罗斯将向全球市场释放柴油供应，盘中冲高的油价随之回落，长端美债收益率继续在24年高位附近徘徊。 道琼斯工业平均指数涨0.83%收于51654.95点，标普500指数涨0.59%收于7811.54点，纳斯达克综合指数涨0.64%收于27366.17点，标普500与纳斯达克终结两连跌。标普500十一大板块九涨二跌，房地产板块涨1.88%领涨，通信服务板块跌0.40%垫底。 OpenAI营收口径之争在24小时内翻转，周四被砸的芯片与云服务商拿",
+     "source": "华尔街见闻",
+     "zh": "AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”"
+    },
+    {
+     "title": "10月10日隔夜要闻一览",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891647449.html",
+     "pubDate": "Sat, 10 Oct 2026 07:05:09 +0800",
+     "summary": "1、美国总统特朗普被媒体问到他为何不现在对伊朗采取军事行动、而要等到中期选举之后时说，“我们可能会的”。 2、中国地震台网正式测定：10月10日01时56分在巴拿马（北纬7.50度，西经80.65度）发生7.6级地震，震源深度10千米。 3、谷歌员工正在测试新版Gemini 4，代号“Carbon”。 4、费城警察局周五发布声明称，Anthropic的AI系统向费城警方提交了虚假凶杀线索。 5、美国总统特朗普：我刚刚与俄罗斯总统普京结束了一场非常成功的会谈。双方同意，俄罗斯将立即向美国及全球市场供应超过30万吨柴油，11月再供应50万吨，随后立即追加供应100万吨。 6、美国财政部表示，将“立",
+     "source": "东方财富股票",
+     "zh": "10月10日隔夜要闻一览"
+    },
+    {
      "title": "美国农业部意外上调玉米产量预估，玉米期货盘中暴跌6%创三年最大跌幅",
      "link": "https://wallstreetcn.com/articles/3783302",
      "pubDate": "Sat, 10 Oct 2026 07:02:09 +0800",
      "summary": "美国农业部意外上调玉米产量预估，令市场措手不及，玉米期货随即录得近三年来最大单日跌幅，相关农业板块股票亦全线承压。 10月9日， 美国农业部将本年度玉米产量预估上调至约160亿蒲式耳，较上月增加1%。 这一结果与彭博调查分析师预测的157.3亿蒲式耳相比大幅偏高，与大多数分析师此前预期的下调形成鲜明反差，令多头猝不及防。 玉米期货盘中一度下跌6%，触及470.25美分/蒲式耳，创8月11日以来最低水平，随后跌幅有所收窄至约4%。 此次下跌是过去两周内玉米市场遭遇的第二次供给端冲击，也令此前因期待供应趋紧而建立的看涨逻辑迅速瓦解。 美国农业部单产预估大幅超预期，市场看涨逻辑被颠覆 今年夏季，美国",
      "source": "华尔街见闻",
      "zh": "美国农业部意外上调玉米产量预估，玉米期货盘中暴跌6%创三年最大跌幅"
+    },
+    {
+     "title": "人工智能“进厂” 质量为本“铸基”——广东先进制造这样干",
+     "link": "http://finance.eastmoney.com/news/1355,202610103891647114.html",
+     "pubDate": "Sat, 10 Oct 2026 07:02:00 +0800",
+     "summary": "南方财经10月9日电，10月9日，全省先进制造业大会在广州召开。制造业是广东的立省之本， 人工智能 加速“进厂”，正在成为广东制造的新标签。“以质量为本”的长期主义，也是先进制造的生命线。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "人工智能“进厂” 质量为本“铸基”——广东先进制造这样干"
+    },
+    {
+     "title": "9月我国汽车消费指数为83.2；福田汽车与卓驭科技签署战略合作协议丨汽车早参",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891647077.html",
+     "pubDate": "Sat, 10 Oct 2026 07:02:00 +0800",
+     "summary": "丨 2026年10月10日星期六丨 NO.1 小马智行 将在伦敦启动Robotaxi道路测试 10月8日， 小马智行 与出行平台 优步 宣布将把旗下第七代Robotaxi引入英国伦敦，并预计于未来数周内开启道路测试。今年8月，双方已宣布扩大合作，计划在欧洲5座城市部署超过2000辆Robotaxi。在萨格勒布已有业务基础上，双方计划进一步拓展其他城市。 点评： 小马智行 与 优步 拟将第七代Robotaxi引入伦敦，未来数周开启路测，此前计划欧洲五城部署超2000辆。对小马智行来说，欧洲路测推进有助验证技术与运营模型，资金或重估其全球化落地节奏；Robotaxi、出行平台及 激光雷达 链关注度",
+     "source": "东方财富股票",
+     "zh": "9月我国汽车消费指数为83.2；福田汽车与卓驭科技签署战略合作协议丨汽车早参"
     },
     {
      "title": "华尔街见闻早餐FM-Radio | 2026年10月10日",
@@ -2234,52 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "华尔街见闻早餐FM-Radio | 2026年10月10日"
     },
     {
-     "title": "熟悉情况的西方官员称 尽管美国和以色列进行了数月的轰炸",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891646925.html",
-     "pubDate": "Sat, 10 Oct 2026 06:57:30 +0800",
-     "summary": "熟悉情况的西方官员称，尽管美国和以色列进行了数月的轰炸，伊朗仍保留了导弹和 无人机 生产能力，使其得以补充武器库。 （文章来源：新浪财经快讯）",
+     "title": "俄美总统通话：俄将向美及全球市场供应石油和石油产品",
+     "link": "http://finance.eastmoney.com/news/1356,202610103891647669.html",
+     "pubDate": "Sat, 10 Oct 2026 06:58:39 +0800",
+     "summary": "中新社莫斯科10月9日电俄罗斯总统普京9日与美国总统特朗普通话，双方重点探讨了解决乌克兰危机的前景，并就伊朗局势及双边关系的各方面问题交换了意见。 克里姆林宫在普京与特朗普通话后发表声明表示，双方在讨论全球能源形势时，俄方确认，准备向美国及全球市场供应石油和石油产品。普京表示，相信此举将对全球经济产生积极影响。 双方商定将继续保持两国元首层面的个人联系，同时保持两国总统行政部门、情报部门及其他机构之间的合作。 负责对外投资和经济合作的俄罗斯总统特别代表德米特里耶夫在俄美总统通话后在社交媒体发文表示，俄美两国将继续开展能源和经济合作，并将惠及全球市场。(完) （文章来源：中国新闻网）",
      "source": "东方财富股票",
-     "zh": "熟悉情况的西方官员称 尽管美国和以色列进行了数月的轰炸"
-    },
-    {
-     "title": "COMEX黄金期货收涨1.52%",
-     "link": "http://finance.eastmoney.com/news/1361,202610103891646554.html",
-     "pubDate": "Sat, 10 Oct 2026 06:54:01 +0800",
-     "summary": "COMEX 黄金 期货 收涨1.52%，报4220.3美元/盎司；COMEX 白银 期货 涨2.84%，报61.11美元/盎司。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "COMEX黄金期货收涨1.52%"
-    },
-    {
-     "title": "据报道：美国政府强制要求AI公司报告并修复安全问题",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891646439.html",
-     "pubDate": "Sat, 10 Oct 2026 06:53:07 +0800",
-     "summary": "据报道，美国政府强制要求AI公司报告并修复安全问题。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "据报道：美国政府强制要求AI公司报告并修复安全问题"
-    },
-    {
-     "title": "美国政府强制要求AI公司报告并修复安全问题",
-     "link": "http://finance.eastmoney.com/news/1360,202610103891646887.html",
-     "pubDate": "Sat, 10 Oct 2026 06:52:37 +0800",
-     "summary": "美国政府强制要求AI公司报告并修复安全问题。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国政府强制要求AI公司报告并修复安全问题"
-    },
-    {
-     "title": "A股市场下探回升 机构称市场具备修复性反弹基础",
-     "link": "http://stock.eastmoney.com/news/1405,202610103891645733.html",
-     "pubDate": "Sat, 10 Oct 2026 06:51:57 +0800",
-     "summary": "10月9日，A股市场下探回升，三大指数均收涨。全市场近3300只股票上涨，成交额为1.92万亿元，较前一交易日明显放量。另外，多只宽基ETF成交放量。 本周，上证指数、深证成指、创业板指、科创综指分别累计下跌0.74%、1.91%、2.93%、4.88%， 煤炭 、 传媒 、 石油石化 行业领涨。资金面上，Wind数据显示，本周2个交易日沪深两市主力资金均出现净流出，资金情绪谨慎。 分析人士认为，短期市场具备修复性反弹基础，交投活跃度有望回升，但反弹力度或相对温和。10月底前上市公司三季报将陆续披露，具备盈利支撑的行业有望成为资金配置方向。 多只宽基ETF成交放量 10月9日，A股市场下探回升",
-     "source": "东方财富股票",
-     "zh": "A股市场下探回升 机构称市场具备修复性反弹基础"
-    },
-    {
-     "title": "证监会就修订《公开募集证券投资基金运作管理办法》征求意见 拓宽公募基金创新空间 强化投资者利益优先",
-     "link": "http://stock.eastmoney.com/news/1426,202610103891645893.html",
-     "pubDate": "Sat, 10 Oct 2026 06:51:23 +0800",
-     "summary": "中国证监会10月9日消息，证监会对《公开募集证券投资基金运作管理办法》及配套规则进行了修订，向社会公开征求意见。此次修订拟将股票基金、混合基金、基金中基金（FOF）等成立门槛，从规模2亿元、份额2亿份，分别降低至5000万元、5000万份；对完全复制指数的被动指数基金触发收购 举牌 、短线交易、减持限制等规定作出适度豁免；将非FOF基金投资其他基金的比例上限从10%提高至30%。 市场人士认为，时隔12年，《运作办法》再次进行系统性修订，是推动行业从“规模增长”迈向“质量提升”的重要制度安排。以此次《运作办法》修订为契机，公募基金行业将进一步夯实合规风控基础，提升专业投资能力，强化投资者利益优",
-     "source": "东方财富股票",
-     "zh": "证监会就修订《公开募集证券投资基金运作管理办法》征求意见 拓宽公募基金创新空间 强化投资者利益优先"
+     "zh": "俄美总统通话：俄将向美及全球市场供应石油和石油产品"
     },
     {
      "title": "How to provide guaranteed retirement income while paying no commissions",
@@ -2296,6 +2336,14 @@ window.INDUSTRY_DATA = {
      "summary": "美国总统特朗普就对伊朗采取军事行动的时间表发出新的矛盾信号。 周五美国白宫媒体记者会上，当特朗普被问及为何推迟到中选后、而不是立即对伊朗采取行动时，特朗普说“可能”立即行动。 此前周四，特朗普刚刚明确表示，美国\"不会在中期选举前攻击伊朗\"，并称当前与伊朗的谈判\"富有成效\"。 这一表态的急转直下，令外界对白宫的政策走向愈发难以把握，也令投资者对中东局势的不确定性保持高度警惕。 特朗普对伊立场出现前后矛盾 美国总统特朗普被问及为何不现在就行动、被问及在美国中期选举之前对伊朗采取行动的可能性，称：我们可能会（那样做）。 这与他此前在Truth Social上发布的声明形成明显落差。 特朗普周五还就胡",
      "source": "华尔街见闻",
      "zh": "才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动"
+    },
+    {
+     "title": "甲骨文CDS利差创历史新高，大摩：巨额资本开支需求集中2028，或引爆债务危机",
+     "link": "https://wallstreetcn.com/articles/3783306",
+     "pubDate": "Sat, 10 Oct 2026 06:19:24 +0800",
+     "summary": "甲骨文的数据中心建设困局正从工程问题演变为信用风险。摩根士丹利最新报告指出， 工期延误并非带来资本开支喘息空间，而是将巨额债务偿还压力集中压缩至2028年，恰好与多个关键融资节点形成致命叠加。 摩根士丹利信贷分析师Lindsay Tyler在报告中明确表示，延误\"同样意味着变现延迟、概念验证延迟、 营收延迟、现金流延迟 \"。这一判断直指甲骨文的核心投资逻辑——其逾6000亿美元的未来合同收入（RPO）高度依赖AI数据中心如期交付。 截至周四收盘， 甲骨文5年期信用违约掉期（CDS）报261个基点，创历史新高，隐含五年内违约概率超过20%， 而该公司仍持有投资级评级。 市场定价已抢先于报告发布作",
+     "source": "华尔街见闻",
+     "zh": "甲骨文CDS利差创历史新高，大摩：巨额资本开支需求集中2028，或引爆债务危机"
     },
     {
      "title": "Lockheed unveils next-gen Patriot interceptor to defend against hypersonic threats",
@@ -2408,54 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "美股市场： 美股三大指数10月09日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨423.31点，收于51654.95点，涨幅为0.83%，本周累涨0.93%； 标准普尔 500种股票指数上涨46.18点，收于7811.54点，涨幅为0.59% ，本周累涨1.15% ； 纳斯达克 综合 指数上涨172.83点，收于27366.17点，涨幅为0.64% ，本周累涨0.64 % 。 热门科技股多数上涨， 亚马逊 涨超3%， 微软 、 特斯拉 涨超2%； 苹果 跌超1%，AMD、 英特尔 跌超2%。 有色金属 、加密货币概念股涨幅居前， 南方铜业 涨超5%，Coinbase涨超4%， 必",
      "source": "东方财富资讯",
      "zh": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%"
-    },
-    {
-     "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
-     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 21:15:00 GMT",
-     "summary": "“I presume these are sophisticated investors taking a profit.”",
-     "source": "MarketWatch",
-     "zh": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?"
-    },
-    {
-     "title": "诺奖得主警告：法国债务危机或已“大到无法救”，欧元区面临“爆炸性”危机",
-     "link": "https://wallstreetcn.com/articles/3783303",
-     "pubDate": "Sat, 10 Oct 2026 04:59:19 +0800",
-     "summary": "2008年诺贝尔经济学奖得主保罗·克鲁格曼发出警告，法国公共财政持续恶化， 正走在\"财政不可持续\"的道路上，并可能已从\"大到不能倒\"跨越至\"大到无法救援\"的危险境地 ，一旦危机引爆，将对欧元区整体稳定构成严峻威胁。 克鲁格曼在本周发布的Substack博客文章中写道，法国的债务问题不仅是本国议题，其欧元区成员身份可能引发\"爆炸性债务危机\"，并对欧洲一体化造成破坏性冲击。 前欧洲央行行长Jean-Claude Trichet随即在接受采访时 呼吁法国政界各方\"拿出实质行动，证明法国作为市场参与者是负责任的\"，以恢复市场信心——这也是启动欧洲央行相关救助机制的前提条件。 法国政府债券近期持续承压，",
-     "source": "华尔街见闻",
-     "zh": "诺奖得主警告：法国债务危机或已“大到无法救”，欧元区面临“爆炸性”危机"
-    },
-    {
-     "title": "The hazy OpenAI growth metric driving Wall Street",
-     "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 20:57:10 GMT",
-     "summary": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
-     "source": "Financial Times",
-     "zh": "The hazy OpenAI growth metric driving Wall Street"
-    },
-    {
-     "title": "沙特阿美恢复对欧洲客户全额供油，欧洲炼厂替代采购压力骤减",
-     "link": "https://wallstreetcn.com/articles/3783301",
-     "pubDate": "Sat, 10 Oct 2026 04:57:06 +0800",
-     "summary": "沙特阿美将于11月恢复向欧洲炼油商提供全额原油供应，标志着此前管道遭袭导致的供应中断基本结束，市场紧张局面有望缓解。 10月9日，据彭博社援引知情人士透露， 至少三家欧洲炼油商已获通知，将在11月收到来自沙特阿美的足额原油配额。 此前，沙特东西输油管道遭无人机袭击，沙特阿美曾告知欧洲客户10月将不提供任何原油配额，迫使买家紧急寻求替代货源。 供应恢复将直接缓解欧洲原油市场的供应压力。波兰最大沙特原油买家Orlen SA在断供期间发出逾十份招标，以采购替代桶。据彭博船舶追踪数据，沙特对欧洲原油出口通常每日平均达70万至80万桶。 管道袭击引发供应中断，欧洲炼油商被迫寻找替代货源 沙特东西输油管道",
-     "source": "华尔街见闻",
-     "zh": "沙特阿美恢复对欧洲客户全额供油，欧洲炼厂替代采购压力骤减"
-    },
-    {
-     "title": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs",
-     "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
-     "pubDate": "Fri, 09 Oct 2026 20:51:25 GMT",
-     "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
-     "source": "CNBC",
-     "zh": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs"
-    },
-    {
-     "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
-     "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
-     "pubDate": "Fri, 09 Oct 2026 20:20:57 GMT",
-     "summary": "President Donald Trump has few options to reduce diesel prices given the destruction done to refineries by the wars in Eastern Europe and the Middle East.",
-     "source": "CNBC",
-     "zh": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets"
     }
    ]
   },

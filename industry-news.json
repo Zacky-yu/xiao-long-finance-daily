@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/9 10:31:59",
+ "generated_at": "2026/10/9 10:51:48",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,14 @@
      "summary": "让AI反复试错的“练兵场”来了",
      "source": "量子位",
      "zh": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化"
+    },
+    {
+     "title": "数亿元！雷军、华为都投了，全球扩散语言模型最大融资诞生",
+     "link": "https://zhidx.com/p/599329.html",
+     "pubDate": "Fri, 09 Oct 2026 09:52:17 +0800",
+     "summary": "智东西 作者 | 李水青 编辑 | 云鹏 智东西10月9日获悉，近日，深圳大模型厂商 扩散智能（DiffuSpace ） 连续完成 两轮融资 ，总金额 数亿元 人民币，创下 全球扩散语言模型（dLLM）最大规模融资纪录。 这也是该公司首次披露融资，融资由 经纬创投、顺为资本、君联资本 联合领投，中科创星、华为哈勃、地平线等跟投。 DiffuSpace聚焦以dLLM为核心的下一代基座模型。区别于GPT类自回归模型逐词生成，dLLM采用全局并行扩散生成，天然适配端侧Agent。 据悉，DiffuSpace的融资资金将主要投向 模型训练、垂直场景适配和基础设施研发。 公司正在训练 新一代更大参数规模",
+     "source": "智东西",
+     "zh": "数亿元！雷军、华为都投了，全球扩散语言模型最大融资诞生"
     },
     {
      "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
@@ -239,14 +247,6 @@
      "summary": "智东西 作者 | 程茜 编辑 | 云鹏 智东西10月8日消息，刚刚，Manus母公司蝴蝶效应宣布近日已完成超5亿美元（约合人民币33.52亿元）新一轮融资。这是国内Agent原生创企获得的最大一笔融资。 本轮融资由博裕投资、IDG资本领投，老股东腾讯、红杉中国、真格基金继续加持。 今年9月，外媒彭博社就曾报道，蝴蝶效应计划以40亿美元（约合人民币268.3亿元）估值融资5亿美元（约合人民币33.5亿元），较此前20亿美元的估值，多了整整一倍，预计将会使Manus的母公司蝴蝶效应成为中国估值最高的AI Agent创企。 就在9月29日，Manus发布了Manus 2.0版本，以及多Agent群聊",
      "source": "智东西",
      "zh": "超33亿元！Manus拿下国内Agent创企最大单笔融资，腾讯投了"
-    },
-    {
-     "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
-     "link": "https://arxiv.org/abs/2610.06910",
-     "pubDate": "Thu, 08 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequently rely on complex mu",
-     "source": "arXiv cs.AI",
-     "zh": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets"
     }
    ]
   },
@@ -256,6 +256,22 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "MediaTek 3Q26 revenue beats forecast, maintains peak-season momentum",
+     "link": "https://www.digitimes.com/news/a20261008PD255/mediatek-revenue-forecast-2026-growth.html",
+     "pubDate": "Fri, 9 Oct 2026 02:44:22 GMT",
+     "summary": "MediaTek reported its September and third-quarter 2026 revenue results, with September revenue of NT$55.40 billion (approx. US$1.74 billion), down 13.69% from the previous month and up 1.97% from a year earlier. Third-quarter revenue reached NT$168.06 billion, up 10.43% quarter over quarter and 18.2",
+     "source": "DIGITIMES",
+     "zh": "MediaTek 3Q26 revenue beats forecast, maintains peak-season momentum"
+    },
+    {
+     "title": "GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap",
+     "link": "https://www.digitimes.com/news/a20261009VL200/tsmc-globalfoundries-packaging-cowos-silicon.html",
+     "pubDate": "Fri, 9 Oct 2026 02:43:17 GMT",
+     "summary": "GF said on October 8, 2026, that it has signed a multi-year, US$2 billion manufacturing agreement with TSMC to produce silicon interposers for TSMC's CoWoS ecosystem at its Malta, New York fab, which GF says will become the first US-based source of silicon interposers supporting advanced packaging.",
+     "source": "DIGITIMES",
+     "zh": "GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap"
+    },
     {
      "title": "Samsung HBM4E wins NVIDIA nod for AI accelerator push",
      "link": "https://www.digitimes.com/news/a20261008PD231/samsung-hbm-production-data-data-center.html",
@@ -287,22 +303,6 @@
      "summary": "Memory module makers Innodisk and Apacer both reported year-over-year and month-over-month revenue growth for September 2026, supported by steady demand from industrial control, edge computing and AI smart connectivity applications. Their cumulative revenue for the first three quarters of the year a",
      "source": "DIGITIMES",
      "zh": "Innodisk, Apacer post September 2026 revenue growth on AI demand"
-    },
-    {
-     "title": "Ample revenue slips in September as passive component demand stays strong",
-     "link": "https://www.digitimes.com/news/a20261007PD244/passive-ample-electronic-revenue-supplier-materials.html",
-     "pubDate": "Fri, 9 Oct 2026 01:40:13 GMT",
-     "summary": "Ample Electronic, a supplier of conductive paste materials for the passive components industry, reported September 2026 revenue of NT$304 million (approx. US$9.6 million), down 0.4% from August but up 76.3% from a year earlier. The company said strong demand for multilayer ceramic capacitors (MLCCs)",
-     "source": "DIGITIMES",
-     "zh": "Ample revenue slips in September as passive component demand stays strong"
-    },
-    {
-     "title": "Advantech tops US$1 billion in third-quarter revenue as edge AI orders climb",
-     "link": "https://www.digitimes.com/news/a20261007PD245/advantech-revenue-growth-2026-taiwan.html",
-     "pubDate": "Fri, 9 Oct 2026 01:39:50 GMT",
-     "summary": "Advantech reported on October 7 that third-quarter consolidated revenue reached NT$32.44 billion (approx. US$1.02 billion), a record high as demand for edge AI, semiconductor equipment, and robotics stayed strong. September consolidated revenue rose to NT$10.749 billion, up 73.14% year-over-year, wh",
-     "source": "DIGITIMES",
-     "zh": "Advantech tops US$1 billion in third-quarter revenue as edge AI orders climb"
     },
     {
      "title": "Where Are The Centrists?",
@@ -657,6 +657,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Xpeng launches Dark Knight package for P7+ sedan, echoing Nio's design update playbook",
+     "link": "https://cnevpost.com/2026/10/09/xpeng-launches-dark-knight-package-for-p7-sedan-echoing-nios-design-update-playbook/",
+     "pubDate": "Fri, 09 Oct 2026 02:46:37 +0000",
+     "summary": "The Dark Knight package is priced at 6,000 yuan ($890) for a limited time, lifting the appeal of the electric sedan with exterior and interior updates. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Xpeng launches Dark Knight package for P7+ sedan, echoing Nio's design update playbook"
+    },
+    {
      "title": "BYD opens pre-orders for larger second-gen Seagull ahead of launch this year",
      "link": "https://cnevpost.com/2026/10/09/byd-opens-pre-orders-second-gen-seagull/",
      "pubDate": "Fri, 09 Oct 2026 02:01:55 +0000",
@@ -807,14 +815,6 @@
      "summary": "NEVs used 163 million kWh of electricity at highway charging facilities across China from October 1 to 7, averaging 23.26 million kWh a day. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "China's highway NEV charging demand climbs over 50% during National Day holiday"
-    },
-    {
-     "title": "Zeekr 007 GT set for Q4 Australian launch after roll-out in 16 European countries",
-     "link": "https://cnevpost.com/2026/10/08/zeekr-007-gt-q4-australian-launch/",
-     "pubDate": "Thu, 08 Oct 2026 07:33:08 +0000",
-     "summary": "The electric shooting brake made its public appearance at the Sydney EV show and will enter Australia as the Zeekr 7GT. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Zeekr 007 GT set for Q4 Australian launch after roll-out in 16 European countries"
     },
     {
      "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
@@ -1705,6 +1705,70 @@
    "total": 18,
    "items": [
     {
+     "title": "中式人情世故根深蒂固，但有些会因技术而消失",
+     "link": "https://www.huxiu.com/article/4896068.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 10:40:41 +0800",
+     "summary": "本文来自微信公众号： 那些原本是废话的常识 ，作者：叶克飞 先提示一句，标题里有“有些”二字，不是所有中式人情世故都会因技术而消失，只是“有些”。事实上，中式人情世故作为这个社会的传统或说痼疾，也是与文明的最大鸿沟所在，别说我这代人，再过几代人都未必能见到什么实质性改观。 为什么要强调标题里的“有些”呢？因为逻辑教育缺失，很多人习惯歪曲和极端化他人观点，竖个不存在的靶子再叭叭叭进行攻击，这一点非常讨厌。比如你说自由可贵，就有人将自由等同于无法无天，认为你要胡作非为，直接来一句“没有绝对自由，你别想着无法无天”；你夸其他国家几句，原本是就事论事，但总会有人将之极端化，曲解为“你总觉得外面什么都好",
+     "source": "虎嗅",
+     "zh": "中式人情世故根深蒂固，但有些会因技术而消失"
+    },
+    {
+     "title": "初探 Win11 新版搜索体验：离线也能即时响应，自然语言可直接更改系统设置",
+     "link": "https://www.ithome.com/1/010/833.htm",
+     "pubDate": "Fri, 09 Oct 2026 02:40:09 GMT",
+     "summary": "IT之家 10 月 9 日消息，科技媒体 NeoWin 昨日（10 月 8 日）发布博文， 在 Windows 11 Build 26340.9616 预览版上 ，初步体验了微软全新的 Windows Search 搜索体验，支持自然语言描述并直接更改系统设置。 界面上，该媒体认为新界面更紧凑、简洁，动画也更流畅。搜索窗口打开时，任务栏搜索框会缩小并显示三个动画圆点；应用、文件、文件夹和设置项仍可按原有方式点击打开。 操作方面，IT之家此前援引微软官方博文报道，本次更新核心亮点为内联操作（inline actions）功能，允许用户直接在搜索框内完成系统级任务，支持指令包括“切换到深色模式”、",
+     "source": "IT之家",
+     "zh": "初探 Win11 新版搜索体验：离线也能即时响应，自然语言可直接更改系统设置"
+    },
+    {
+     "title": "AOC U27G4FD 显示器开售：裸眼 3D、27 英寸 4K 180Hz，5804 元",
+     "link": "https://www.ithome.com/1/010/831.htm",
+     "pubDate": "Fri, 09 Oct 2026 02:36:34 GMT",
+     "summary": "IT之家 10 月 9 日消息，AOC U27G4FD 显示器现已开售，标价 6304 元， 券后 5804 元 。 这款显示器主打 裸眼 3D 功能，无需佩戴 3D 眼镜，屏幕前置光学结构为左右眼呈现带视差的独立画面，通过大脑合成立体景深效果；支持智能双眼追踪，可实时识别双眼位置，自动匹配立体视角；支持 2D/3D 自由切换。 这款显示器搭载了一块 27 英寸 4K 180Hz Fast IPS 面板，分辨率为 3840×2160，刷新率达到 180Hz；采用新一代 IGZO 氧化物制程，色域覆盖 100% sRGB、95% DCI-P3，峰值亮度 400nits；内置 2×5W 立体双扬声",
+     "source": "IT之家",
+     "zh": "AOC U27G4FD 显示器开售：裸眼 3D、27 英寸 4K 180Hz，5804 元"
+    },
+    {
+     "title": "数亿融资的AI乙游，正在失守它的阵地",
+     "link": "https://www.tmtpost.com/8161802.html",
+     "pubDate": "Fri, 09 Oct 2026 10:35:00 +0800",
+     "summary": "留给AI乙游的时间已经不多了。",
+     "source": "钛媒体",
+     "zh": "数亿融资的AI乙游，正在失守它的阵地"
+    },
+    {
+     "title": "手机新品发布潮：集体涨价，AI上桌，折叠屏走向主流",
+     "link": "https://www.tmtpost.com/8161706.html",
+     "pubDate": "Fri, 09 Oct 2026 10:31:00 +0800",
+     "summary": "一面是出货量持续收缩，一面是万元定价集体上探。",
+     "source": "钛媒体",
+     "zh": "手机新品发布潮：集体涨价，AI上桌，折叠屏走向主流"
+    },
+    {
+     "title": "“中国天眼”发现首个“还没长大”的三体系统，极具科研价值",
+     "link": "https://www.ithome.com/1/010/830.htm",
+     "pubDate": "Fri, 09 Oct 2026 02:30:02 GMT",
+     "summary": "IT之家 10 月 9 日消息，中国科学院国家天文台今日官宣，近期，国家天文台韩金林研究员带领国内多家单位的研究人员，结合 FAST 射电观测数据与国际上光学和伽马射线望远镜的多波段天文数据，揭示 FAST 发现的脉冲星 J0435+3233 属于首例尚在演化阶段的原生三体， 这也是第二例被确认的脉冲星三体系统 。 相关研究成果于北京时间 2026 年 10 月 9 日发表于《天体物理学杂志快报》（ApJL）。 据悉，脉冲星 J0435+3233 最早于 2020 年 6 月 8 日由国家天文台漂移扫描巡天团队通过 FAST 观测发现，其自转周期仅 3.2 毫秒。 新疆天文台后随观测团队利用 ",
+     "source": "IT之家",
+     "zh": "“中国天眼”发现首个“还没长大”的三体系统，极具科研价值"
+    },
+    {
+     "title": "ASML & 蔡司：未来 Hyper NA EUV 光刻机主要挑战为更低的可用景深",
+     "link": "https://www.ithome.com/1/010/829.htm",
+     "pubDate": "Fri, 09 Oct 2026 02:29:49 GMT",
+     "summary": "IT之家 10 月 9 日消息，ASML（阿斯麦）与其光学系统合作伙伴 ZEISS（蔡司）在一份 10 月 1 日发布的文章中表示，数值孔径≥0.75 的 Hyper NA EUV 光刻机有望支持 5nm“半间距”的光学分辨率 ，并在 10 年左右面世。 ▲ 现有 High NA EUV 光刻机 文章分析称，延续 13.5nm 波长并提升数值孔径至 0.75 是 High NA EUV 的合理演进。 Hyper NA EUV 的技术挑战主要集中在更低的可用景深上 ，这需要更薄的光刻胶，同时改进扫描设备的聚焦控制、晶圆平整、工艺控制。 0.75 NA 的 光学系统仅会略大于现有的 High NA",
+     "source": "IT之家",
+     "zh": "ASML & 蔡司：未来 Hyper NA EUV 光刻机主要挑战为更低的可用景深"
+    },
+    {
+     "title": "2026国庆人山人海的另一面：总量回暖、结构分化",
+     "link": "https://www.tmtpost.com/8161662.html",
+     "pubDate": "Fri, 09 Oct 2026 10:28:00 +0800",
+     "summary": "当所有人只盯着“出行人次再创新高”的热闹，很少有人看见数据背后的分化。",
+     "source": "钛媒体",
+     "zh": "2026国庆人山人海的另一面：总量回暖、结构分化"
+    },
+    {
      "title": "国家邮政局：我国建成世界受益人数最多寄递网络，年人均快递使用量超 140 件",
      "link": "https://www.ithome.com/1/010/827.htm",
      "pubDate": "Fri, 09 Oct 2026 02:23:39 GMT",
@@ -1737,30 +1801,6 @@
      "zh": "70 亿只花了 14%，壁仞为什么急着再募 40 亿"
     },
     {
-     "title": "微软升级 Win11 的 AI 框架，实验性支持 GGUF 与 ONNX 原生本地推理",
-     "link": "https://www.ithome.com/1/010/825.htm",
-     "pubDate": "Fri, 09 Oct 2026 02:21:34 GMT",
-     "summary": "IT之家 10 月 9 日消息，科技媒体 NeoWin 昨日（10 月 8 日）发布博文，报道称微软正与 llama.cpp 和 GGUF 开源社区合作，在 Windows 11 系统上升级 Windows ML， 实验性原生支持 GGUF 与 ONNX 格式模型推理，并推出 Windows ML Runtime API。 在 Windows 与 Surface 十月活动中，微软介绍了 Windows ML 的最新进展。Windows ML 是微软面向 Windows 11 的本地 AI 推理框架，开发者可在设备端运行 AI 模型，构建文本生成、语音识别等应用，并减少对特定硬件优化的依赖。 微",
-     "source": "IT之家",
-     "zh": "微软升级 Win11 的 AI 框架，实验性支持 GGUF 与 ONNX 原生本地推理"
-    },
-    {
-     "title": "韩国自研高超音速滑翔飞行器试射成功，拥有低空不规则飞行能力",
-     "link": "https://www.ithome.com/1/010/824.htm",
-     "pubDate": "Fri, 09 Oct 2026 02:20:33 GMT",
-     "summary": "IT之家 10 月 9 日消息，据央视新闻报道，韩国总统府青瓦台 10 月 8 日通报称， 韩国自主研发的高超音速滑翔飞行器（HGV）当天首次试射成功 ，总统李在明现场观看了此次试射。 通报称，此次试射旨在验证高超音速飞行环境下超高温耐热材料的性能、制导与控制能力，以及低空不规则飞行能力。 报道称，高超音速滑翔飞行器利用推进装置加速升至大气层上层后，与推进装置分离，并以较低高度进行滑翔飞行。在当天的试射中，飞行器升至预定高度后成功分离，并在高超音速飞行环境下按计划完成了飞行任务。",
-     "source": "IT之家",
-     "zh": "韩国自研高超音速滑翔飞行器试射成功，拥有低空不规则飞行能力"
-    },
-    {
-     "title": "尊界刹车踏板事件第二天，江淮汽车股价再度跌停",
-     "link": "https://www.ithome.com/1/010/823.htm",
-     "pubDate": "Fri, 09 Oct 2026 02:17:37 GMT",
-     "summary": "IT之家 10 月 9 日消息，懂车帝昨日（10 月 8 日）发布视频，实测 3 台尊界 V800，称在 100km/h-0 紧急制动时刹车踏板支架被踩断，引发网络热议。事件发酵后，江淮汽车 10 月 8 日上午股价跌停，收盘 24.72 元 / 股。 10 月 9 日开盘后， 江淮汽车再度跌停 ，目前股价 22.25 元 / 股。 IT之家 10 月 8 日晚报道，尊界汽车官方发布了 关于尊界汽车制动踏板支架底座相关问题的情况说明 ，表示尊界汽车的制动系统，按照高于国家标准（GB 21670‑2025 / GB 7258‑2026）、高于行业标准（QC/T 788‑2018）的要求完成全流程",
-     "source": "IT之家",
-     "zh": "尊界刹车踏板事件第二天，江淮汽车股价再度跌停"
-    },
-    {
      "title": "百亿入股彪马，能否接住安踏的增长期待？",
      "link": "https://www.huxiu.com/article/4896059.html?f=rss",
      "pubDate": "Fri, 09 Oct 2026 10:16:18 +0800",
@@ -1785,14 +1825,6 @@
      "zh": "Microsoft denies JD Vance&apos;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)"
     },
     {
-     "title": "红魔 12 Pro+ 预热：号称行业首款 RGB 水冷手机",
-     "link": "https://www.ithome.com/1/010/822.htm",
-     "pubDate": "Fri, 09 Oct 2026 02:15:47 GMT",
-     "summary": "IT之家 10 月 9 日消息，今天（9 日）上午，红魔游戏手机官微持续预热新品红魔 12 Pro+。根据介绍，该机将是 行业首款 RGB 水冷手机 。 稍晚些时候，红魔游戏手机产品总经理 @红魔姜超 详细介绍了该机的水冷系统升级。相比 11 Pro+，新机的水冷系统 面积更大、流道更厚 ，流道升级为上下双圈环流设计，全面覆盖整机热源。冷却液从微泵出发分成上下两路，上路覆盖 SOC，下路覆盖电池，最后汇合回流。流道延伸至风道区域，由风扇快速带走热量，实现风冷、水冷协同散热。 根据介绍，流道越大，对动力的要求就越高。因此新机换上了全新的双晶驱动微泵，就像给水冷系统换上了一颗更强的心脏，输出的压力",
-     "source": "IT之家",
-     "zh": "红魔 12 Pro+ 预热：号称行业首款 RGB 水冷手机"
-    },
-    {
      "title": "Google 让Gemini 调用Claude，AI 巨头真正要争的可能是另一件事",
      "link": "https://www.huxiu.com/article/4896058.html?f=rss",
      "pubDate": "Fri, 09 Oct 2026 10:09:00 +0800",
@@ -1809,20 +1841,12 @@
      "zh": "5亿美元到账，肖弘的Manus从“没卖成”到“自己闯”"
     },
     {
-     "title": "超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
-     "link": "https://www.tmtpost.com/8161533.html",
-     "pubDate": "Fri, 09 Oct 2026 10:05:52 +0800",
-     "summary": "厄尔尼诺是不是“涨价按钮”？",
-     "source": "钛媒体",
-     "zh": "超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？"
-    },
-    {
-     "title": "“东方香”撕开440亿的增长口，国货香水的机会点在哪？",
-     "link": "https://www.tmtpost.com/8161530.html",
-     "pubDate": "Fri, 09 Oct 2026 10:05:47 +0800",
-     "summary": "440亿的增量窗口已经打开，但符号化的叙事只是入场券，气味、原料研发、调香人才，才是决定国货香水能走多远的底牌。",
-     "source": "钛媒体",
-     "zh": "“东方香”撕开440亿的增长口，国货香水的机会点在哪？"
+     "title": "Reducing undefined behavior in the C language",
+     "link": "https://lwn.net/Articles/1095811/",
+     "pubDate": "Fri, 09 Oct 2026 02:02:53 +0000",
+     "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 10 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Reducing undefined behavior in the C language"
     },
     {
      "title": "新晋诺奖得主访谈：当还是青椒时，压力大得“每天恶心反胃”",
@@ -1841,14 +1865,6 @@
      "zh": "尊界踏板断裂事件：如果曝光的不是懂车帝而是某个人或者自媒体呢？"
     },
     {
-     "title": "打工人最想复活的地方：屁股",
-     "link": "https://www.huxiu.com/article/4896054.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 10:02:18 +0800",
-     "summary": "本文来自微信公众号： 三联生活实验室 ，作者：Lily 国庆小长假刚刚结束，第一批返岗上的年轻人，又跟被吸干了精气一样，两眼无神，双腿发软。一到了工位上，想的就是下个假期是什么时候，这个破班到底还要上几年。 当其他年轻人还因为假期结束而郁郁寡欢，因为工作压力而精神内耗，一群年轻人已经懒得再纠结了，二话不说，扭头做起了深蹲，开始争当“股门”信徒。股门，不是股票的股，是屁股的股——练屁股，成了年轻人拯救精神内耗的最新方式。 如果你最近也出如果健身房，一定会发现，当下健身鄙视链的最顶端，不是那个在镜子前练肩的，不是角落里跟大铁块较劲练腿的，而是练屁股的。 起因是，全网最尊重翘臀的博主，提出了一个臀权",
-     "source": "虎嗅",
-     "zh": "打工人最想复活的地方：屁股"
-    },
-    {
      "title": "Live: Watch ‘Uncanny Valley’ on Women, Tech, and Power",
      "link": "https://www.wired.com/story/come-see-uncanny-valley-live/",
      "pubDate": "Fri, 09 Oct 2026 02:00:00 +0000",
@@ -1863,14 +1879,6 @@
      "summary": "Sergiu Gatlan / BleepingComputer : A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions &nbsp; &mdash;&nbsp; The co-creator of Empire Market, one of the largest dark web marketplaces before it",
      "source": "Techmeme",
      "zh": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)"
-    },
-    {
-     "title": "人形机器人抢入口，工业机器人抢利润",
-     "link": "https://www.tmtpost.com/8161596.html",
-     "pubDate": "Fri, 09 Oct 2026 09:52:00 +0800",
-     "summary": "两种机器人，两种商业模式。",
-     "source": "钛媒体",
-     "zh": "人形机器人抢入口，工业机器人抢利润"
     },
     {
      "title": "Sources: Flock plans to let go of ~270 employees, or 18% of its staff, at the end of October; the layoffs come after a voluntary buyout program in September (Reuters)",
@@ -1908,7 +1916,7 @@
      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
      "link": "https://github.com/edrisranjbar/lifeos",
      "pubDate": "Fri, 09 Oct 2026 00:02:19 +0000",
-     "summary": "Article URL: https://github.com/edrisranjbar/lifeos Comments URL: https://news.ycombinator.com/item?id=50014150 Points: 19 # Comments: 3",
+     "summary": "Article URL: https://github.com/edrisranjbar/lifeos Comments URL: https://news.ycombinator.com/item?id=50014150 Points: 22 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI"
     },
@@ -1916,7 +1924,7 @@
      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
      "link": "https://svg-spark.vercel.app/",
      "pubDate": "Thu, 08 Oct 2026 23:32:49 +0000",
-     "summary": "Article URL: https://svg-spark.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50013931 Points: 27 # Comments: 2",
+     "summary": "Article URL: https://svg-spark.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50013931 Points: 29 # Comments: 4",
      "source": "Hacker News",
      "zh": "Show HN: SVG Spark – 10 client-side SVG design and dev tools"
     },
@@ -1924,7 +1932,7 @@
      "title": "Bevy 0.20",
      "link": "https://bevy.org/news/bevy-0-20/",
      "pubDate": "Thu, 08 Oct 2026 22:57:50 +0000",
-     "summary": "Article URL: https://bevy.org/news/bevy-0-20/ Comments URL: https://news.ycombinator.com/item?id=50013610 Points: 29 # Comments: 2",
+     "summary": "Article URL: https://bevy.org/news/bevy-0-20/ Comments URL: https://news.ycombinator.com/item?id=50013610 Points: 40 # Comments: 4",
      "source": "Hacker News",
      "zh": "Bevy 0.20"
     },
@@ -1935,14 +1943,6 @@
      "summary": "Documents obtained by Democracy Forward show that ICE looked into feeding voter roll data into the ELITE tool, normally used to identify targets for deportation.",
      "source": "WIRED",
      "zh": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud"
-    },
-    {
-     "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-     "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-     "pubDate": "Thu, 08 Oct 2026 22:33:59 +0000",
-     "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
-     "source": "TechCrunch",
-     "zh": "President Trump awards Big Tech donors with nation’s highest science prizes"
     }
    ]
   },
@@ -2201,6 +2201,78 @@
    "total": 13,
    "items": [
     {
+     "title": "美国国家飓风中心：“西蒙”已成为飓风，预计将迅速增强",
+     "link": "http://finance.eastmoney.com/news/1351,202610093890944880.html",
+     "pubDate": "Fri, 09 Oct 2026 10:43:03 +0800",
+     "summary": "美国国家飓风中心：“西蒙”已成为飓风，预计将迅速增强。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "美国国家飓风中心：“西蒙”已成为飓风，预计将迅速增强"
+    },
+    {
+     "title": "ST东尼10月9日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093890943537.html",
+     "pubDate": "Fri, 09 Oct 2026 10:41:23 +0800",
+     "summary": "以下是 ST东尼 在北京时间10月9日10:41分盘口异动快照： 10月9日， ST东尼 盘中跌幅达5%，截至10点41分，报29.45元，成交2580.87万元，换手率0.37%。 分笔 报价 卖五 29.85 43 卖四 29.81 40 卖三 29.65 27 卖二 29.53 3 卖一 29.49 1248 买一 29.45 7 买二 29.33 15 买三 29.21 5 买四 29.2 10 买五 29.01 2 最新： 29.45 涨幅： -5.00% 涨跌： -1.55 换手率：0.37% 成交量：8541手 成交额：2580.87万元 主力净流入： -68.79万 元 &em",
+     "source": "东方财富股票",
+     "zh": "ST东尼10月9日盘中跌幅达5%"
+    },
+    {
+     "title": "10月9日其他橡胶制品板块跌幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093890943428.html",
+     "pubDate": "Fri, 09 Oct 2026 10:41:23 +0800",
+     "summary": "&emsp;&emsp;10月9日10点41分，其他 橡胶 制品板块指数报3953.63点，跌幅达2%，成交4.61亿元，换手率0.78%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 科创新源 报37.81元，跌8.61%； 震安科技 报17.06元，跌6.72%； 丰茂股份 报30.15元，跌3.12%； 利通科技 报15.63元，跌2.43%； 中裕科技 报15.76元，跌2.23%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月9日其他橡胶制品板块跌幅达2%"
+    },
+    {
+     "title": "10月9日航运板块跌幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093890943332.html",
+     "pubDate": "Fri, 09 Oct 2026 10:41:15 +0800",
+     "summary": "&emsp;&emsp;10月9日10点41分， 航运 板块指数报1647.947点，跌幅达2%，成交72.44亿元，换手率1.09%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 招商南油 报4.57元，跌8.05%； 招商轮船 报20.93元，跌4.99%； 海通发展 报12.83元，跌4.96%； 凤凰航运 报3.90元，跌3.70%； 国航远洋 报8.50元，跌3.30%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月9日航运板块跌幅达2%"
+    },
+    {
+     "title": "宝明科技10月9日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093890943214.html",
+     "pubDate": "Fri, 09 Oct 2026 10:40:49 +0800",
+     "summary": "以下是 宝明科技 在北京时间10月9日10:40分盘口异动快照： 10月9日， 宝明科技 盘中跌幅达5%，截至10点40分，报30.51元，成交2650.09万元，换手率0.54%。 分笔 报价 卖五 30.59 11 卖四 30.58 1 卖三 30.56 1 卖二 30.55 7 卖一 30.54 2 买一 30.51 10 买二 30.5 89 买三 30.49 2 买四 30.45 1 买五 30.4 3 最新： 30.51 涨幅： -5.01% 涨跌： -1.61 换手率：0.54% 成交量：8495手 成交额：2650.09万元 主力净流入： 4.55 万元 &emsp;&emsp",
+     "source": "东方财富股票",
+     "zh": "宝明科技10月9日盘中跌幅达5%"
+    },
+    {
+     "title": "顺钠股份10月9日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093890943122.html",
+     "pubDate": "Fri, 09 Oct 2026 10:40:49 +0800",
+     "summary": "以下是 顺钠股份 在北京时间10月9日10:40分盘口异动快照： 10月9日， 顺钠股份 盘中跌幅达5%，截至10点40分，报9.43元，成交1.19亿元，换手率1.81%。 分笔 报价 卖五 9.48 482 卖四 9.47 561 卖三 9.46 1249 卖二 9.45 449 卖一 9.44 7 买一 9.43 207 买二 9.42 170 买三 9.41 156 买四 9.4 661 买五 9.39 34 最新： 9.43 涨幅： -5.04% 涨跌： -0.5 换手率：1.81% 成交量：12.39万手 成交额：1.19亿元 主力净流入： -646.16万 元 &emsp;&em",
+     "source": "东方财富股票",
+     "zh": "顺钠股份10月9日盘中跌幅达5%"
+    },
+    {
+     "title": "防爆巡检机器人的竞争分水岭开始出现",
+     "link": "http://www.eeo.com.cn/2026/1009/1058081.shtml",
+     "pubDate": "Fri, 09 Oct 2026 10:35:00 +0800",
+     "summary": "“制造企业对工业巡检机器人的关注度，不再是硬件参数，而是它们能否长期稳定干活，将巡检数据快速接入企业运维体系，能否对相关设备故障隐患进行快速响应处置。”廖勇说。这意味着防爆巡检机器人行业的竞争分水岭开始出现——从能否制造参数出色的机器人，迅速转向如何让它们真正长期上岗。",
+     "source": "经济观察网",
+     "zh": "防爆巡检机器人的竞争分水岭开始出现"
+    },
+    {
+     "title": "创业板跌3%失守3000点，算力硬件、生物医药集体下挫，江淮汽车跌停，恒科指涨超1%，科网股反弹",
+     "link": "https://wallstreetcn.com/articles/3783237",
+     "pubDate": "Fri, 09 Oct 2026 10:30:03 +0800",
+     "summary": "10月9日，A股早盘低开，三大股指盘初集体下跌，深成指跌2%，创业板大跌超3%，跌破3000点，为2025年11月以来新低，贵金属、油气、电池产业链等活跃，科创50继续下挫近4%，算力硬件、芯片半导体等科技股集体下挫，覆铜板、电路板等概念股陷入调整，生物医药板块大跌，CRO、创新药等集体承压。江淮汽车早盘跌停，此前尊界通报刹车踏板支架断裂，称将进一步优化设计。 港股高开高走，恒指、恒科指盘初双双涨超1%，权重科网股集体反弹，美团、阿里、腾讯纷纷上涨，芯片股承压，华虹宏力、兆易创新、澜起科技等下挫。债市方面，国债期货全线上涨。商品方面，国内商品期货涨跌不一。核心市场走势： A股 ：截至发稿，沪指",
+     "source": "华尔街见闻",
+     "zh": "创业板跌3%失守3000点，算力硬件、生物医药集体下挫，江淮汽车跌停，恒科指涨超1%，科网股反弹"
+    },
+    {
+     "title": "银行秋招AI面试5-20分钟，面试者称像对着空气作答",
+     "link": "http://www.eeo.com.cn/2026/1009/1058041.shtml",
+     "pubDate": "Fri, 09 Oct 2026 10:26:06 +0800",
+     "summary": "从公开的招聘公告和面试通知来看，2027届秋招中，AI面试已经成为国有大行、股份制银行、城商行及农商行招聘的普遍环节，通常设置在简历筛选之后、笔试之前。 记者根据公开信息和候选人反馈统计发现，银行AI面试的题量从两道到七八道不等，时长通常为5-20分钟。 一位参加今年银行秋招的受访者说，面试大约5分钟，“缺乏互动性，自己的回答也会比较机械，感觉是在对着空气作答”。 另一位受访者表示，参加完某...",
+     "source": "经济观察网",
+     "zh": "银行秋招AI面试5-20分钟，面试者称像对着空气作答"
+    },
+    {
      "title": "央行开展20亿元7天期逆回购操作",
      "link": "http://www.eeo.com.cn/2026/1009/1058022.shtml",
      "pubDate": "Fri, 09 Oct 2026 10:13:20 +0800",
@@ -2233,28 +2305,12 @@
      "zh": "广东文旅国庆掘金584亿元 一条公路让“过路客”变“过夜客”"
     },
     {
-     "title": "2027年研究生或继续扩招 考生决策深刻分化",
-     "link": "http://www.eeo.com.cn/2026/1009/1058018.shtml",
-     "pubDate": "Fri, 09 Oct 2026 10:13:09 +0800",
-     "summary": "“提前上岸，接下来的大学本科时光可以过得轻松点了。”9月24日，杨奇（化名）收到了清华大学的待录取通知书，这意味着他保研成功了。 三年来，杨奇在学习上一刻也没有放松，拼绩点、抓竞赛，日子忙碌且充实，只为了“再上一个台阶”，到更好的大学读研究生。 2027年研究生推免已经结束，清华、北大等985名校约一半的研究生招生计划通过推免完成，其中绝大部分名额又被985高校的毕业生占据。据统计，不少高校2027年...",
-     "source": "经济观察网",
-     "zh": "2027年研究生或继续扩招 考生决策深刻分化"
-    },
-    {
-     "title": "【首席对话】刘陈杰：高利率正在对AI做一次全面压力测试",
-     "link": "http://www.eeo.com.cn/2026/1009/1058011.shtml",
-     "pubDate": "Fri, 09 Oct 2026 10:11:12 +0800",
-     "summary": "利率在检验AI，AI又如何改变利率？围绕这层双向关系，经济观察报对话刘陈杰，试图甄别资本价格、产业回报与风险的边界。",
-     "source": "经济观察网",
-     "zh": "【首席对话】刘陈杰：高利率正在对AI做一次全面压力测试"
-    },
-    {
-     "title": "创业板跌2%失守3000点，算力硬件、生物医药集体下挫，江淮汽车跌停，恒科指涨超1%，科网股反弹",
-     "link": "https://wallstreetcn.com/articles/3783237",
-     "pubDate": "Fri, 09 Oct 2026 10:07:00 +0800",
-     "summary": "10月9日，A股早盘低开，三大股指盘初集体下跌，深成指、创业板均跌超1%，创业板更是跌破3000点，为2025年11月以来新低，贵金属、油气、电池产业链等活跃，科创50继续跌超2%，算力硬件、芯片半导体等科技股集体下挫，覆铜板、电路板等概念股陷入调整，生物医药板块大跌，CRO、创新药等集体承压。江淮汽车早盘跌停，此前尊界通报刹车踏板支架断裂，称将进一步优化设计。 港股高开高走，恒指、恒科指盘初双双涨超1%，权重科网股集体反弹，美团、阿里、腾讯纷纷上涨，芯片股承压，华虹宏力、兆易创新、澜起科技等下挫。债市方面，国债期货全线上涨。商品方面，国内商品期货涨跌不一。核心市场走势： A股 ：截至发稿，沪",
+     "title": "“尊界V800刹车踏板支架断裂”风波下，江淮汽车再次跌停！官方回应：将免费升级已交付车辆",
+     "link": "https://wallstreetcn.com/articles/3783239",
+     "pubDate": "Fri, 09 Oct 2026 10:04:56 +0800",
+     "summary": "懂车帝一则制动测试视频，让尊界V800陷入安全质疑。10月9日，江淮汽车盘中再次跌停，封单11万手。 此前，懂车帝10月8日发布测试视频，显示3辆尊界V800在百公里紧急制动测试中刹车踏板支架接连断裂，断裂位置相同、断口几乎一致。懂车帝澄清网传“4589N”踏板力为摄像残影，真实峰值为1612N。尊界官方随后声明将为已交付用户提供免费升级。 10月8日：“尊界V800测试中刹车踏板支架断裂”冲上热搜，江淮汽车跌停 10月8日，懂车帝发布的一则测试视频引发热议。视频显示，3辆尊界V800在百公里紧急制动测试中刹车踏板支架接连断裂。 第一辆：第3次全力制动时，刹车踏板支架断裂 第二辆：第4次全力制",
      "source": "华尔街见闻",
-     "zh": "创业板跌2%失守3000点，算力硬件、生物医药集体下挫，江淮汽车跌停，恒科指涨超1%，科网股反弹"
+     "zh": "“尊界V800刹车踏板支架断裂”风波下，江淮汽车再次跌停！官方回应：将免费升级已交付车辆"
     },
     {
      "title": "U.S. East Asian envoy says investors are overpricing Taiwan risk",
@@ -2311,14 +2367,6 @@
      "summary": "法债抛售愈演愈烈，10年期法国国债收益率一度逼近5%，为2002年以来最高，借贷成本已高于希腊和意大利。与此同时，美债收益率攀升至5.28%的数十年高位，即便通胀数据走软也未能阻断抛售。 两场风暴，背后或许都有日本的影子。彭博专栏作家Gearoid Reidy在10月9日的文章中分析称： 两年前，当日本踏上政策正常化之路时，人们问的是日本是否准备好迎接“有利率的世界”。也许我们本该问的是：世界是否准备好迎接“有利率的日本”？ 他认为，法国可能只是第一个牺牲品。 数据显示，截至7月， 日本投资者持有约23万亿日元（1450亿美元）法国国债，是欧元区最大的超配仓位。 但日本10年期国债收益率上月升",
      "source": "华尔街见闻",
      "zh": "法债是第一个牺牲品，接着是美债？全球感受“日本加息”的效果了吗？"
-    },
-    {
-     "title": "特朗普“画不动”原油K线了",
-     "link": "https://wallstreetcn.com/articles/3783230",
-     "pubDate": "Fri, 09 Oct 2026 08:24:15 +0800",
-     "summary": "原油市场对特朗普言论的敏感度正在系统性衰减。 曾经一句威胁伊朗的推文就能让油价单日暴涨7%，如今同类表态却几乎激不起任何波澜。据彭博对价格走势的分析，随着美伊冲突持续拖延，特朗普的言论对全球原油市场的影响力已显著减弱。 今年4月1日，特朗普在电视讲话中扬言将对伊朗发动打击，令其“回到石器时代”，油价随即在亚洲早盘飙升，最终收涨逾7%，突破每桶109美元。然而到了10月1日，特朗普再度警告伊朗\"签署停火协议，否则将不复存在\"，原油价格却几乎纹丝不动。 同样的威胁语言，市场反应天差地别。 据彭博10月8日报道，接受采访的原油交易员表示，他们已不再聚焦于白宫的修辞，转而更关注实物供应变化和货运流量等",
-     "source": "华尔街见闻",
-     "zh": "特朗普“画不动”原油K线了"
     },
     {
      "title": "Lions Bay Capital faces cease trade order over late filings",
@@ -2391,54 +2439,6 @@
      "summary": "Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.",
      "source": "MarketWatch",
      "zh": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up."
-    },
-    {
-     "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
-     "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
-     "pubDate": "Thu, 08 Oct 2026 22:55:46 GMT",
-     "summary": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market.",
-     "source": "CNBC",
-     "zh": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile"
-    },
-    {
-     "title": "Carlyle says deal to buy Lukoil assets expired - Bloomberg",
-     "link": "https://seekingalpha.com/news/4651621-carlyle-says-deal-to-buy-lukoil-assets-expired-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 18:36:57 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Carlyle says deal to buy Lukoil assets expired - Bloomberg"
-    },
-    {
-     "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
-     "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
-     "pubDate": "Thu, 08 Oct 2026 22:08:00 GMT",
-     "summary": "OpenAI’s annualized revenue reportedly fell short of expectations — but analysts say that reflects differences in how the figure is reported, not weakness in AI demand.",
-     "source": "MarketWatch",
-     "zh": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’"
-    },
-    {
-     "title": "10月9日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/1344,202610083890018228.html",
-     "pubDate": "Fri, 09 Oct 2026 06:03:27 +0800",
-     "summary": "10月9日(星期五)，今日报刊头条主要内容精华如下： 中国证券报 央行发布关于人民币汇率的政策立场 坚持让市场在汇率形成中发挥决定性作用 10月8日，中国人民 银行 发布关于人民币汇率的政策立场，强调中国实施以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度，坚持让市场在汇率形成中发挥决定性作用。中国人民 银行 还提出，全球经济失衡与全球分工格局演进、国际货币体系固有矛盾、部分国家长期高财政赤字高消费等密切相关，需要各方共同推动解决。将本国产业竞争力下降、财经约束弱化和复杂结构性问题简单归因他国汇率，是对自身调整责任的推诿和回避。 两部门发布民营经济领域纠纷多元化解典型案例 聚焦解",
-     "source": "东方财富资讯",
-     "zh": "10月9日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
-     "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-     "pubDate": "Thu, 08 Oct 2026 22:00:00 GMT",
-     "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
-     "source": "MarketWatch",
-     "zh": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?"
-    },
-    {
-     "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
-     "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
-     "pubDate": "Thu, 08 Oct 2026 21:56:00 GMT",
-     "summary": "Palantir’s total addressable market could get a lot bigger, while its business model should sustain its lead against competitors, an analyst says",
-     "source": "MarketWatch",
-     "zh": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy"
     }
    ]
   },

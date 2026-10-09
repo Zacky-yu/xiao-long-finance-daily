@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 00:31:54",
+ "generated_at": "2026/10/10 00:52:02",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "We can’t help treating AI like it’s human. But should we?",
+     "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+     "pubDate": "Fri, 09 Oct 2026 16:40:14 +0000",
+     "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+     "source": "TechCrunch AI",
+     "zh": "We can’t help treating AI like it’s human. But should we?"
+    },
     {
      "title": "a16z’s Olivia Moore on the state of consumer AI",
      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2610.10629v1 Announce Type: new Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval. We argue that self-evolution is reviewable only if it i",
      "source": "arXiv cs.AI",
      "zh": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate"
-    },
-    {
-     "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
-     "link": "https://arxiv.org/abs/2610.10635",
-     "pubDate": "Fri, 09 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.10635v1 Announce Type: new Abstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-driven instructions; on a frozen OpenFly navigator, this \\emph{instruction gap} drops success rate (",
-     "source": "arXiv cs.AI",
-     "zh": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents"
     }
    ]
   },
@@ -640,14 +640,6 @@ window.INDUSTRY_DATA = {
      "summary": "By the University of Glasgow Giving robot companions animal-like or anime-style faces and voices could maximise their emotional appeal to users, according to new research which could help guide the growing field of social robotics. Social robots can provide companionship and comfort to their owners ",
      "source": "Robohub",
      "zh": "Research could guide the future design of social robots"
-    },
-    {
-     "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
-     "link": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
-     "pubDate": "Fri, 02 Oct 2026 16:30:02 +0000",
-     "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
-     "source": "IEEE Spectrum 机器人",
-     "zh": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away"
     }
    ]
   },
@@ -858,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Trump-Puts-Iran-Strikes-on-Hold-as-Hurricane-Threatens-Oil-Supply.html",
+     "pubDate": "Fri, 09 Oct 2026 11:35:22 -0500",
+     "summary": "Oil retreats from $110 as Trump rules out Iran strikes before the midterms, but tanker attacks and a Gulf hurricane threaten fresh volatility. Friday, October 09, 2026 Donald Trump seems to be firefighting the Middle Eastern blaze, vowing not to attack Iran before the mid-term elections just as oil ",
+     "source": "OilPrice",
+     "zh": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply"
+    },
+    {
      "title": "Poly pricing and potential expansion",
      "link": "https://www.pv-magazine.com/2026/10/09/poly-pricing-and-potential-expansion/",
      "pubDate": "Fri, 09 Oct 2026 16:00:00 +0000",
@@ -890,6 +890,14 @@ window.INDUSTRY_DATA = {
      "zh": "Canada’s New Oil Pipeline Challenged by Cold Lake First Nations"
     },
     {
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
+     "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "source": "Utility Dive",
+     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+    },
+    {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
      "link": "https://www.pv-tech.org/axian-africa-greenco-ink-240mw-pv-ppa-in-zambia/",
      "pubDate": "Fri, 09 Oct 2026 14:04:38 +0000",
@@ -904,6 +912,14 @@ window.INDUSTRY_DATA = {
      "summary": "US Secretary of State Marco Rubio warned that Russia's war against Ukraine is at a stalemate but could escalate into a broader regional conflict if the deadlock pushes either side toward increasingly dangerous actions. Speaking in Lisbon on the final stop of a three-country swing through NATO allies",
      "source": "OilPrice",
      "zh": "Rubio Warns Ukraine Stalemate Could Turn Into Wider Conflict"
+    },
+    {
+     "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
+     "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
+     "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "source": "Utility Dive",
+     "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
     {
      "title": "India’s MNRE issues 12th solar cell ALMM revision, capacity reaches 37.8GW",
@@ -952,14 +968,6 @@ window.INDUSTRY_DATA = {
      "summary": "Fraunhofer ISE has demonstrated that high-temperature heat pumps can supply industrial process steam at up to 160 C and operate effectively in district heating networks. The research highlights the importance of system design, hydraulic integration and operating strategies for ensuring efficiency an",
      "source": "pv magazine",
      "zh": "Fraunhofer ISE demonstrates industrial heat pumps capable of producing steam at 160 C"
-    },
-    {
-     "title": "Crude Oil is Underpriced, Energy Aspects Says",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Crude-Oil-is-Underpriced-Energy-Aspects-Says.html",
-     "pubDate": "Fri, 09 Oct 2026 07:30:00 -0500",
-     "summary": "Oil futures prices are disconnected from reality on the ground in the Middle East and should be trading closer to $150 a barrel for some physical crude prices, Amrita Sen, founder and director of market intelligence at Energy Aspects, told CNBC on Friday. The market is surprisingly complacent agains",
-     "source": "OilPrice",
-     "zh": "Crude Oil is Underpriced, Energy Aspects Says"
     },
     {
      "title": "ContourGlobal breaks ground on 450MW solar-plus-storage facility in Arizona",
@@ -1080,22 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Major work by regional planners is focused on flexible access to existing transmission. Some say greater emphasis on advanced transmission technologies can quickly and cost-effectively create room for new large loads.",
      "source": "Utility Dive",
      "zh": "Power system plans to meet large-load demand miss near-term solutions: analysts"
-    },
-    {
-     "title": "4-hour storage cheaper than gas peakers across global markets: WoodMac",
-     "link": "https://www.utilitydive.com/news/4-hour-storage-cheaper-than-gas-peakers-across-global-markets-woodmac/832489/",
-     "pubDate": "Thu, 08 Oct 2026 10:04:37 -0400",
-     "summary": "In North America, data centers are boosting the long-term investment case for energy storage and renewables as gas turbine backlogs and rising fuel volatility drive up peaking costs, according to a Thursday note from Wood Mackenzie.",
-     "source": "Utility Dive",
-     "zh": "4-hour storage cheaper than gas peakers across global markets: WoodMac"
-    },
-    {
-     "title": "DOE presses PJM on ratepayer protections from large load costs",
-     "link": "https://www.utilitydive.com/news/doe-pjm-ferc-ratepayer-protection-large-load-data-center/832479/",
-     "pubDate": "Thu, 08 Oct 2026 09:31:33 -0400",
-     "summary": "&ldquo;A capability to continuously track whether a project enters into service ... or is delayed, reduced, or cancelled, can help assign costs for new generation to the customers responsible for those investments,&rdquo; the DOE said in a rare filing at FERC.",
-     "source": "Utility Dive",
-     "zh": "DOE presses PJM on ratepayer protections from large load costs"
     }
    ]
   },
@@ -1105,6 +1097,30 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Immune Cell Atlas Charts How People’s Aging Paths Diverge",
+     "link": "https://www.genengnews.com/topics/translational-medicine/immune-cell-atlas-charts-how-peoples-aging-paths-diverge/",
+     "pubDate": "Fri, 09 Oct 2026 16:41:48 +0000",
+     "summary": "Two people born on the same day can have immune systems that age differently. An immune cell atlas shows that a ratio between two cell types can reveal who is on a healthy or unhealthy path. The post Immune Cell Atlas Charts How People’s Aging Paths Diverge appeared first on GEN - Genetic Engineerin",
+     "source": "GEN",
+     "zh": "Immune Cell Atlas Charts How People’s Aging Paths Diverge"
+    },
+    {
+     "title": "‘Molecular Movie’ of Penicillin Synthesis Could Inform Future Antibiotic Development",
+     "link": "https://www.genengnews.com/topics/bioprocessing/molecular-movie-of-penicillin-synthesis-could-inform-future-antibiotic-development/",
+     "pubDate": "Fri, 09 Oct 2026 16:36:22 +0000",
+     "summary": "An international research team have revealed previously unseen rapid chemical stages in the formation of β-lactam antibiotics such as penicillin, offering insights that could help to support future antibiotic development. The post ‘Molecular Movie’ of Penicillin Synthesis Could Inform Future Antibio",
+     "source": "GEN",
+     "zh": "‘Molecular Movie’ of Penicillin Synthesis Could Inform Future Antibiotic Development"
+    },
+    {
+     "title": "STAT+: Pharma’s free lunches for doctors boost inappropriate prescribing, analysis finds",
+     "link": "https://www.statnews.com/pharmalot/2026/10/09/pharma-free-lunches-to-doctors-boost-inappropriate-prescribing/?utm_campaign=rss",
+     "pubDate": "Fri, 09 Oct 2026 16:33:55 +0000",
+     "summary": "The gifts and payments that doctors receive from drugmakers increased inappropriate prescribing, likely leading to rising health care costs, according to a new review.",
+     "source": "STAT News",
+     "zh": "STAT+: Pharma’s free lunches for doctors boost inappropriate prescribing, analysis finds"
+    },
     {
      "title": "STAT+: Medicare Advantage star ratings trigger new bonuses, and uncertainty",
      "link": "https://www.statnews.com/2026/10/09/medicare-advantage-insurers-star-ratings-2027-humana-alignment/?utm_campaign=rss",
@@ -1218,14 +1234,6 @@ window.INDUSTRY_DATA = {
      "zh": "TRex Bio prices $117M IPO to support immune drug work"
     },
     {
-     "title": "STAT+: Will MAHA survive the midterms?",
-     "link": "https://www.statnews.com/2026/10/09/maha-movement-rfk-jr-campaign-trail-midterm-elections/?utm_campaign=rss",
-     "pubDate": "Fri, 09 Oct 2026 08:30:00 +0000",
-     "summary": "As the midterm elections draw near, the MAHA movement is nearly invisible on the campaign trail and struggling to find a financial or messaging foothold in key races.",
-     "source": "STAT News",
-     "zh": "STAT+: Will MAHA survive the midterms?"
-    },
-    {
      "title": "TRexBio prices $117M IPO for Tregs as Retension lands $45M Nasdaq debut for hypertension",
      "link": "https://endpoints.news/trexbio-prices-117m-ipo-for-tregs-as-retension-lands-45m-nasdaq-debut-for-hypertension/",
      "pubDate": "Fri, 09 Oct 2026 07:54:45 +0000",
@@ -1264,22 +1272,6 @@ window.INDUSTRY_DATA = {
      "summary": "In this GEN webinar, Chris Nieder, an expert in viral vector programs, will examine how strategically designed preclinical manufacturing campaigns provide a practical foundation for GMP production. The post How Preclinical Manufacturing Can De-Risk the Path to GMP-Ready Viral Vector Programs appeare",
      "source": "GEN",
      "zh": "How Preclinical Manufacturing Can De-Risk the Path to GMP-Ready Viral Vector Programs"
-    },
-    {
-     "title": "ARPA-H’s BoSS Program Funds Three Teams Tackling Cold Chain Challenges for Cell Therapies",
-     "link": "https://www.genengnews.com/topics/bioprocessing/arpa-hs-boss-program-funds-three-teams-tackling-cold-chain-challenges-for-cell-therapies/",
-     "pubDate": "Thu, 08 Oct 2026 18:37:52 +0000",
-     "summary": "Cell therapies and other biologics depend on ultracold storage and tightly controlled shipping. ARPA-H has funded teams of companies, research agencies, and universities developing alternatives, aiming to widen patient access to these therapies. The post ARPA-H’s BoSS Program Funds Three Teams Tackl",
-     "source": "GEN",
-     "zh": "ARPA-H’s BoSS Program Funds Three Teams Tackling Cold Chain Challenges for Cell Therapies"
-    },
-    {
-     "title": "Epigenetics Underlies Comparatively Accelerated Molecular Aging in Larger and Male Dogs",
-     "link": "https://www.genengnews.com/topics/omics/epigenetics-underlies-comparatively-accelerated-molecular-aging-in-larger-and-male-dogs/",
-     "pubDate": "Thu, 08 Oct 2026 18:00:38 +0000",
-     "summary": "Large dogs tend to be shorter lived than their smaller counterparts, and a new study found that male and larger dogs undergo accelerated molecular aging, with pronounced DNA methylation changes on the X chromosome and at transposable elements. The post Epigenetics Underlies Comparatively Accelerated",
-     "source": "GEN",
-     "zh": "Epigenetics Underlies Comparatively Accelerated Molecular Aging in Larger and Male Dogs"
     },
     {
      "title": "Viatris boosts pain drug portfolio with $1.7B buyout of Pacira",
@@ -1506,6 +1498,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+     "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+     "pubDate": "Fri, 09 Oct 2026 21:59:55 +0530",
+     "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication",
+     "source": "The Hacker News",
+     "zh": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands"
+    },
+    {
+     "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training Too",
+     "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
+     "pubDate": "Fri, 09 Oct 2026 16:25:05 GMT",
+     "summary": "Those closest to executives must match their security postures because the weakest link in a family becomes the entry point for attacks.",
+     "source": "Dark Reading",
+     "zh": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training Too"
+    },
+    {
      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
      "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
      "pubDate": "Fri, 09 Oct 2026 11:38:56 -0400",
@@ -1592,14 +1600,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains. The post Google Domains Impacted by Recent ccTLD Hijacks appeared first on SecurityWeek .",
      "source": "SecurityWeek",
      "zh": "Google Domains Impacted by Recent ccTLD Hijacks"
-    },
-    {
-     "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-     "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-     "pubDate": "Fri, 09 Oct 2026 17:00:00 +0530",
-     "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailPoint highlights a critical “velocity paradox,” in which organizations invest in ",
-     "source": "The Hacker News",
-     "zh": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition"
     },
     {
      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
@@ -1690,14 +1690,6 @@ window.INDUSTRY_DATA = {
      "zh": "Writing the Next Chapter"
     },
     {
-     "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
-     "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
-     "pubDate": "Wed, 07 Oct 2026 21:42:55 GMT",
-     "summary": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies.",
-     "source": "Dark Reading",
-     "zh": "Australian Gov't Weighs Mandatory AI Incident Reporting"
-    },
-    {
      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
      "pubDate": "Wed, 07 Oct 2026 13:48:45 +0000",
@@ -1713,6 +1705,22 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Danu Robotics’ fight to build a better recycling robot",
+     "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+     "pubDate": "Fri, 09 Oct 2026 16:45:00 +0000",
+     "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+     "source": "TechCrunch",
+     "zh": "Danu Robotics’ fight to build a better recycling robot"
+    },
+    {
+     "title": "Tesla renames Full Self-Driving to Tesla Assisted Driving in Europe after pushback from Germany, whose transport minister will now back its EU-wide approval (Sean O&apos;Kane/TechCrunch)",
+     "link": "https://www.techmeme.com/261009/p18#a261009p18",
+     "pubDate": "Fri, 09 Oct 2026 12:35:04 -0400",
+     "summary": "Sean O'Kane / TechCrunch : Tesla renames Full Self-Driving to Tesla Assisted Driving in Europe after pushback from Germany, whose transport minister will now back its EU-wide approval &nbsp; &mdash;&nbsp; Tesla has changed the name of its advanced driver assistance system in Europe after pushback fr",
+     "source": "Techmeme",
+     "zh": "Tesla renames Full Self-Driving to Tesla Assisted Driving in Europe after pushback from Germany, whose transport minister will now back its EU-wide approval (Sean O&apos;Kane/TechCrunch)"
+    },
     {
      "title": "Warehouse robotics startup Ultra raised a $12M seed and a $50M Series A, and expands its deal with Physical Intelligence to supply AI software for its robots (Jeff John Roberts/Fortune)",
      "link": "https://www.techmeme.com/261009/p17#a261009p17",
@@ -1765,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "A statement on the Tor Project's relationship with Mullvad",
      "link": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
      "pubDate": "Fri, 09 Oct 2026 15:49:31 +0000",
-     "summary": "Article URL: https://blog.torproject.org/on-tor-relationship-with-mullvad/ Comments URL: https://news.ycombinator.com/item?id=50022266 Points: 12 # Comments: 6",
+     "summary": "Article URL: https://blog.torproject.org/on-tor-relationship-with-mullvad/ Comments URL: https://news.ycombinator.com/item?id=50022266 Points: 30 # Comments: 19",
      "source": "Hacker News",
      "zh": "A statement on the Tor Project's relationship with Mullvad"
     },
@@ -1810,14 +1818,6 @@ window.INDUSTRY_DATA = {
      "zh": "NY AG announces an up-to-$35M settlement with ex-Celsius CEO Alex Mashinsky that permanently bars him from the securities, commodities, and crypto industries (Olivier Acuna/CoinDesk)"
     },
     {
-     "title": "The super intelligence shit is a humiliation ritual for OpenAI",
-     "link": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z",
-     "pubDate": "Fri, 09 Oct 2026 15:18:59 +0000",
-     "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 41 # Comments: 14",
-     "source": "Hacker News",
-     "zh": "The super intelligence shit is a humiliation ritual for OpenAI"
-    },
-    {
      "title": "中国科学院院士郭华东获颁 2026 年度国际宇航联合会“名人堂”奖，主持研发全球首颗可持续发展科学卫星 1 号",
      "link": "https://www.ithome.com/1/011/152.htm",
      "pubDate": "Fri, 09 Oct 2026 15:18:38 GMT",
@@ -1845,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
      "link": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
      "pubDate": "Fri, 09 Oct 2026 15:05:24 +0000",
-     "summary": "Article URL: https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms Comments URL: https://news.ycombinator.com/item?id=50021540 Points: 42 # Comments: ",
+     "summary": "Article URL: https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms Comments URL: https://news.ycombinator.com/item?id=50021540 Points: 65 # Comments: ",
      "source": "Hacker News",
      "zh": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland"
     },
@@ -1877,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Imposing Sanctions on the International Criminal Court",
      "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
      "pubDate": "Fri, 09 Oct 2026 14:55:57 +0000",
-     "summary": "Article URL: https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/ Comments URL: https://news.ycombinator.com/item?id=50021403 Points: 103 # Comments: 90",
+     "summary": "Article URL: https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/ Comments URL: https://news.ycombinator.com/item?id=50021403 Points: 122 # Comments: 121",
      "source": "Hacker News",
      "zh": "Imposing Sanctions on the International Criminal Court"
     },
@@ -1898,18 +1898,18 @@ window.INDUSTRY_DATA = {
      "zh": "人类愿意向女性形象的 AI 智能体支付的报酬低于男性形象智能体"
     },
     {
-     "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-     "link": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-     "pubDate": "Fri, 09 Oct 2026 14:42:34 +0000",
-     "summary": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next fa",
-     "source": "TechCrunch",
-     "zh": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss"
+     "title": "Agentic coding is a financial trap",
+     "link": "https://frugaast.dev/blog/agentic-costs-unsustainable",
+     "pubDate": "Fri, 09 Oct 2026 14:45:19 +0000",
+     "summary": "Article URL: https://frugaast.dev/blog/agentic-costs-unsustainable Comments URL: https://news.ycombinator.com/item?id=50021253 Points: 5 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Agentic coding is a financial trap"
     },
     {
      "title": "Python 3.15.0",
      "link": "https://www.python.org/downloads/release/python-3150/",
      "pubDate": "Fri, 09 Oct 2026 14:35:42 +0000",
-     "summary": "Article URL: https://www.python.org/downloads/release/python-3150/ Comments URL: https://news.ycombinator.com/item?id=50021127 Points: 94 # Comments: 26",
+     "summary": "Article URL: https://www.python.org/downloads/release/python-3150/ Comments URL: https://news.ycombinator.com/item?id=50021127 Points: 133 # Comments: 34",
      "source": "Hacker News",
      "zh": "Python 3.15.0"
     },
@@ -1917,17 +1917,9 @@ window.INDUSTRY_DATA = {
      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
      "link": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
      "pubDate": "Fri, 09 Oct 2026 14:31:54 +0000",
-     "summary": "Article URL: https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50021066 Points: 239 # Comments: 94",
+     "summary": "Article URL: https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50021066 Points: 308 # Comments: 159",
      "source": "Hacker News",
      "zh": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize"
-    },
-    {
-     "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-     "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-     "pubDate": "Fri, 09 Oct 2026 14:30:00 +0000",
-     "summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
-     "source": "TechCrunch",
-     "zh": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers"
     },
     {
      "title": "Analysis of 857 releases from nine Chinese AI labs from 2021 to September 2026: just 3.6% included safety results from the developer and only 1.1% did at launch (SemiAnalysis)",
@@ -1961,6 +1953,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Govee Mini Panel Lights return to their lowest price at just $99.99",
+     "link": "https://www.androidauthority.com/govee-mini-panel-lights-deal-amazon-3721468/",
+     "pubDate": "Fri, 09 Oct 2026 16:33:03 +0000",
+     "summary": "The Govee Mini Panel Lights just got a $50 price drop on Amazon, with custom layouts and animated RGB scenes.",
+     "source": "Android Authority",
+     "zh": "Govee Mini Panel Lights return to their lowest price at just $99.99"
+    },
+    {
+     "title": "Apple iPhone 18 Pro Max running iOS 27.2 beta receives AT&T carrier update",
+     "link": "https://www.gsmarena.com/apple_iphone_18_pro_max_ios_27_2_beta_72_0_3_att_carrier_update-news-74974.php",
+     "pubDate": "Fri, 09 Oct 2026 18:31:02 +0200",
+     "summary": "Apple has released an emergency carrier bundle update for iPhone 18 Pro Max units on AT&T running iOS 27.2 beta. The update has version 72.0.3 and comes a week after Apple released carrier update 72.1 for iOS 27.0 users, while devices running iOS 27.2 beta remained on 72.0.2. [#InlinePriceWidget,147",
+     "source": "GSMArena",
+     "zh": "Apple iPhone 18 Pro Max running iOS 27.2 beta receives AT&T carrier update"
+    },
     {
      "title": "Character.ai chatbots encouraged self-harm, lawsuit alleges",
      "link": "https://www.androidauthority.com/character-ai-lawsuit-chatbots-encouraged-self-harm-3721360/",
@@ -2040,14 +2048,6 @@ window.INDUSTRY_DATA = {
      "summary": "Amazon’s Kindle 2026 rollout stumbles as users report light bleed problem.",
      "source": "Android Authority",
      "zh": "Amazon admits some of its latest Kindles have a defect (Update: New statement)"
-    },
-    {
-     "title": "At $450 off, the Samsung Galaxy S26 Ultra has rarely been this cheap",
-     "link": "https://www.androidauthority.com/deal-samsung-galaxy-s26-ultra-256gb-3721428/",
-     "pubDate": "Fri, 09 Oct 2026 15:26:08 +0000",
-     "summary": "The Samsung Galaxy S26 Ultra is 32% off at Amazon, cutting the premium flagship to $949.99 for a limited time.",
-     "source": "Android Authority",
-     "zh": "At $450 off, the Samsung Galaxy S26 Ultra has rarely been this cheap"
     },
     {
      "title": "Will Apple’s ‘Welcome home’ event be livestreamed? Here’s what we know",
@@ -2178,14 +2178,6 @@ window.INDUSTRY_DATA = {
      "zh": "Meta bans TikTok ads from its platforms in tit-for-tat row"
     },
     {
-     "title": "Report: Apple cuts iPhone 18 Pro series component orders amid weak demand",
-     "link": "https://www.gsmarena.com/apple_reportedly_cuts_iphone_18_pro_series_component_orders_amid_weak_demand-news-74971.php",
-     "pubDate": "Fri, 09 Oct 2026 10:56:03 +0200",
-     "summary": "According to a new report, Apple has asked some of its suppliers to reduce production of components for the iPhone 18 Pro and iPhone 18 Pro Max. The report, citing people familiar with the matter, claims that Apple cut component orders by up to 15% for October. The reduction is reportedly driven by ",
-     "source": "GSMArena",
-     "zh": "Report: Apple cuts iPhone 18 Pro series component orders amid weak demand"
-    },
-    {
      "title": "SpaceX wants to become a 'major mobile carrier' with low-band spectrum acquisition",
      "link": "https://www.engadget.com/2281967/spacex-major-mobile-carrier-low-band-spectrum-acquisition/",
      "pubDate": "Fri, 09 Oct 2026 08:30:18 +0000",
@@ -2209,6 +2201,110 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Elon Musk is now richer than any American ever — and it’s not even close",
+     "link": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 16:43:00 GMT",
+     "summary": "Musk’s trillioniare status means he’s wealthier than his next three contemporaries combined — and also worth more than historical tycoons like John D. Rockefeller.",
+     "source": "MarketWatch",
+     "zh": "Elon Musk is now richer than any American ever — and it’s not even close"
+    },
+    {
+     "title": "Is Wall Street’s narrow breadth alarm overblown?",
+     "link": "https://seekingalpha.com/news/4651827-is-wall-streets-narrow-breadth-alarm-overblown?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 12:41:27 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Is Wall Street’s narrow breadth alarm overblown?"
+    },
+    {
+     "title": "智利铜业委员会：智利国家铜业公司8月铜产量同比增长8.9% 至10.17万吨",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891606467.html",
+     "pubDate": "Sat, 10 Oct 2026 00:38:29 +0800",
+     "summary": "智利 铜 业委员会：智利国家 铜 业公司8月 铜 产量同比增长8.9%，至10.17万吨。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "智利铜业委员会：智利国家铜业公司8月铜产量同比增长8.9% 至10.17万吨"
+    },
+    {
+     "title": "智利铜业委员会：智利科亚瓦西铜矿8月铜产量同比下降25.1% 至2.65万吨",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891606583.html",
+     "pubDate": "Sat, 10 Oct 2026 00:37:55 +0800",
+     "summary": "智利 铜 业委员会：智利科亚瓦西 铜 矿8月 铜 产量同比下降25.1%，至2.65万吨。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "智利铜业委员会：智利科亚瓦西铜矿8月铜产量同比下降25.1% 至2.65万吨"
+    },
+    {
+     "title": "智利国家铜业委员会数据显示智利埃斯康迪达铜矿8月铜产量下降27.6%",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891606340.html",
+     "pubDate": "Sat, 10 Oct 2026 00:37:19 +0800",
+     "summary": "智利国家 铜 业委员会（COCHILCO）数据显示，智利埃斯康迪达 铜 矿8月 铜 产量下降27.6%，至7.61万吨。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "智利国家铜业委员会数据显示智利埃斯康迪达铜矿8月铜产量下降27.6%"
+    },
+    {
+     "title": "美国海洋能源管理局：作为预防措施 17座动态定位钻井平台中已有2座移离风暴路径",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891605957.html",
+     "pubDate": "Sat, 10 Oct 2026 00:36:08 +0800",
+     "summary": "美国海洋能源管理局：作为预防措施，17座动态定位钻井平台中已有2座移离风暴路径。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国海洋能源管理局：作为预防措施 17座动态定位钻井平台中已有2座移离风暴路径"
+    },
+    {
+     "title": "摩洛哥国王称移民合作模式“已经过时”",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891605732.html",
+     "pubDate": "Sat, 10 Oct 2026 00:35:38 +0800",
+     "summary": "摩洛哥国王称移民合作模式“已经过时”。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "摩洛哥国王称移民合作模式“已经过时”"
+    },
+    {
+     "title": "摩洛哥国王表示 与西班牙的合作面临“重大挑战”",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891605676.html",
+     "pubDate": "Sat, 10 Oct 2026 00:35:36 +0800",
+     "summary": "摩洛哥国王表示，与西班牙的合作面临“重大挑战”。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "摩洛哥国王表示 与西班牙的合作面临“重大挑战”"
+    },
+    {
+     "title": "Aura Minerals surges 11% after Q3 production hits record",
+     "link": "https://seekingalpha.com/news/4651825-aura-minerals-surges-11-after-q3-production-hits-record?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 12:34:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Aura Minerals surges 11% after Q3 production hits record"
+    },
+    {
+     "title": "Telecom tower REIT stocks jump after SpaceX-Grain Management spectrum deal",
+     "link": "https://seekingalpha.com/news/4651823-telecom-tower-reit-stocks-jump-after-spacex-grain-management-spectrum-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 12:33:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Telecom tower REIT stocks jump after SpaceX-Grain Management spectrum deal"
+    },
+    {
+     "title": "Flu season is already here. Here’s what to know about this year’s flu shots.",
+     "link": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 16:31:00 GMT",
+     "summary": "This year’s flu season has arrived about seven weeks earlier than in 2025 or 2024.",
+     "source": "MarketWatch",
+     "zh": "Flu season is already here. Here’s what to know about this year’s flu shots."
+    },
+    {
+     "title": "Ambarella gains on report Qualcomm may be interested in takeover",
+     "link": "https://seekingalpha.com/news/4651826-ambarella-gains-on-report-qualcomm-may-be-interested-in-takeover?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 12:30:48 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ambarella gains on report Qualcomm may be interested in takeover"
+    },
+    {
+     "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. She wants me to leave my home to her two children.",
+     "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 16:30:00 GMT",
+     "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+     "source": "MarketWatch",
+     "zh": "‘I have no children’: My aunt gave me $50,000 for a down payment. She wants me to leave my home to her two children."
+    },
     {
      "title": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
      "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
@@ -2266,14 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trump appoints committee to investigate statements by the Fed&apos;s Lisa Cook"
     },
     {
-     "title": "EU-China understanding could halve Chinese hybrid car exports",
-     "link": "https://seekingalpha.com/news/4651822-eu-china-understanding-could-halve-chinese-hybrid-car-exports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 12:04:11 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "EU-China understanding could halve Chinese hybrid car exports"
-    },
-    {
      "title": "华尔街大行财报下周揭晓：股票交易收入料逼近190亿美元，“人人是赢家”或成过去式",
      "link": "https://wallstreetcn.com/articles/3783296",
      "pubDate": "Sat, 10 Oct 2026 00:01:46 +0800",
@@ -2290,44 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why."
     },
     {
-     "title": "Johnson & Johnson says long-term data boosts Icotyde for plaque psoriasis",
-     "link": "https://seekingalpha.com/news/4651820-johnson-and-johnson-says-long-term-data-boosts-icotyde-plaque-psoriasis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 11:54:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Johnson & Johnson says long-term data boosts Icotyde for plaque psoriasis"
-    },
-    {
      "title": "印度史上最大IPO要来了？安巴尼旗下Jio据悉拟募资约3020亿卢比",
      "link": "https://wallstreetcn.com/articles/3783290",
      "pubDate": "Fri, 09 Oct 2026 23:34:46 +0800",
      "summary": "印度史上最大IPO募资纪录有望被刷新。 10月9日，据彭博援引知情人士，印度首富穆克什·安巴尼旗下电信与数字服务公司Jio Platforms已初步确定每股1065至1119卢比的发行价区间，计划于10月21日启动公开认购。知情人士称，公司目标估值最高可达10.3万亿卢比（约合1065亿美元）。 据彭博测算， 按发行价区间上限计算，Jio此次IPO募资额约为3020亿卢比（约合31亿美元）。若顺利完成，将超过现代汽车印度公司2024年10月创下的2780亿卢比纪录，成为印度史上募资规模最大的IPO。 不过，这一估值低于市场早期预期。此前市场流传的估值区间为1300亿至1700亿美元，而此次IP",
      "source": "华尔街见闻",
      "zh": "印度史上最大IPO要来了？安巴尼旗下Jio据悉拟募资约3020亿卢比"
-    },
-    {
-     "title": "Nvidia to invest in rival d-Matrix: report",
-     "link": "https://seekingalpha.com/news/4651819-nvidia-to-invest-in-rival-d-matrix-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 11:29:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia to invest in rival d-Matrix: report"
-    },
-    {
-     "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
-     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 15:27:00 GMT",
-     "summary": "“I presume these are sophisticated investors taking a profit.”",
-     "source": "MarketWatch",
-     "zh": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?"
-    },
-    {
-     "title": "S&P 500’s top five stocks match market cap of bottom 434, Batnick says",
-     "link": "https://seekingalpha.com/news/4651817-sp-500s-top-five-stocks-match-market-cap-of-bottom-434-batnick-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 11:22:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "S&P 500’s top five stocks match market cap of bottom 434, Batnick says"
     },
     {
      "title": "ICE won&apos;t pause enforcement in NY after Bronx shooting, DHS&apos; Mullin says",
@@ -2346,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "美10月消费者信心指数初值降至五个月低点，经济现况指标创历史新低"
     },
     {
-     "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-     "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 15:19:00 GMT",
-     "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-     "source": "MarketWatch",
-     "zh": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?"
-    },
-    {
      "title": "Donald Trump launches committee to investigate Fed governor Lisa Cook",
      "link": "https://www.ft.com/content/d0c81cd2-f944-46b9-a859-abc3f0bd3516?syn-25a6b1a6=1",
      "pubDate": "Fri, 09 Oct 2026 15:08:49 GMT",
@@ -2368,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
      "source": "CNBC",
      "zh": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong"
-    },
-    {
-     "title": "Here’s how much stocks could fall if the Democrats sweep Congress, according to BofA",
-     "link": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 15:02:00 GMT",
-     "summary": "The rising probability of the Democratic Party taking control of both houses of Congress in the midterm elections poses a “meaningful” threat to risk appetite, said Michael Hartnett, Bank of America’s chief equity strategist.",
-     "source": "MarketWatch",
-     "zh": "Here’s how much stocks could fall if the Democrats sweep Congress, according to BofA"
     },
     {
      "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
@@ -2400,54 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sibos 2026 in Miami featured several 'Big Issue Debate' sessions, but one with an unwieldy name captured the attention of many attendees: 'Trust under pressure: resilience in a world where compromise must be assumed and prepared for.'",
      "source": "Finextra",
      "zh": "Sibos 2026: Trust and collaboration at 'machine speed' needed to fight banking industry threats"
-    },
-    {
-     "title": "Revolut to create its own scent",
-     "link": "https://www.finextra.com/newsarticle/48565/revolut-to-create-its-own-scent?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 09 Oct 2026 14:29:00 GMT",
-     "summary": "Fintech Revolut is on the hunt for a scent branding agency to help it translate its brand into a fragrance that is \"unmistakably ours\".",
-     "source": "Finextra",
-     "zh": "Revolut to create its own scent"
-    },
-    {
-     "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
-     "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
-     "pubDate": "Fri, 09 Oct 2026 14:13:40 GMT",
-     "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
-     "source": "CNBC",
-     "zh": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries"
-    },
-    {
-     "title": "薛继豪正式担任泰康人寿总经理",
-     "link": "http://www.eeo.com.cn/2026/1009/1059063.shtml",
-     "pubDate": "Fri, 09 Oct 2026 22:13:07 +0800",
-     "summary": "21世纪经济报道记者 林汉垚 近日，泰康人寿发布公告称，经泰康人寿研究决定，并报国家金融监管总局核准任职资格，自2026年9月28日起，薛继豪担任泰康人寿总经理。 去年12月26日，泰康人寿就曾发布公告称，自2025年12月23日起，薛继豪担任泰康人寿临时负责人，代行总经理职责。 公开资料显示，薛继豪，男，1968年12月出生，本硕均毕业于南开大学，获保险专业学士学位、货币银行学专业硕士学位。 目前，...",
-     "source": "经济观察网",
-     "zh": "薛继豪正式担任泰康人寿总经理"
-    },
-    {
-     "title": "美股开盘：存储芯片板块齐涨，闪迪、美光科技、SK海力涨超1%",
-     "link": "http://www.eeo.com.cn/2026/1009/1059062.shtml",
-     "pubDate": "Fri, 09 Oct 2026 22:13:05 +0800",
-     "summary": "中新经纬10月9日电 北京时间10月9日晚间，美股三大指数集体高开，标普500指数涨0.29%，道指涨0.14%，纳指涨0.55%。 美股“科技七巨头”盘初多数上涨，特斯拉涨2.04%，微软涨1.31%，亚马逊涨1.01%，谷歌涨0.92%，英伟达涨0.90%，Meta涨0.50%，苹果跌2.18%。 存储芯片板块齐涨，闪迪、美光科技、SK海力涨超1%，希捷科技涨近1%，西部数据涨超0.6%。(中新经纬APP)",
-     "source": "经济观察网",
-     "zh": "美股开盘：存储芯片板块齐涨，闪迪、美光科技、SK海力涨超1%"
-    },
-    {
-     "title": "商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问",
-     "link": "http://www.eeo.com.cn/2026/1009/1059056.shtml",
-     "pubDate": "Fri, 09 Oct 2026 22:05:03 +0800",
-     "summary": "经济观察网 10月9日，商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问。 问：美东时间10月7日，美贸易代表办公室（USTR）发布公告称，近期美国召集14个经济体高级官员举行会议，共同签署发布应对所谓“结构性产能和生产过剩”问题的部长级联合声明。请问商务部对此有何评论？ 答：我们注意到有关情况。中方已在不同场合多次阐明关于所谓“产能过剩”问题的看...",
-     "source": "经济观察网",
-     "zh": "商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问"
-    },
-    {
-     "title": "“三星堆—金沙：青铜时代的古蜀文明”系列丛书亮相法兰克福国际书展",
-     "link": "http://www.eeo.com.cn/2026/1009/1059055.shtml",
-     "pubDate": "Fri, 09 Oct 2026 22:01:07 +0800",
-     "summary": "德国当地时间10月7日，第78届法兰克福国际书展现场，四川大学出版社携手施普林格&middot;自然集团推出的&ldquo;三星堆&mdash;金沙：青铜时代的古蜀文明&rdquo;系列丛书英文版全球首发。 本套丛书以书为桥，向全球学界展现古蜀考古的前沿研究。 <img src=\"https://img.gmw.cn/imgmeiwen/attachement/jpg/site2/20261009/82c54fbcef6b470ab9e89694787f02c5.jpg\" borde...",
-     "source": "经济观察网",
-     "zh": "“三星堆—金沙：青铜时代的古蜀文明”系列丛书亮相法兰克福国际书展"
     }
    ]
   },

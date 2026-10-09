@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/9 14:31:44",
+ "generated_at": "2026/10/9 14:41:18",
  "recent_days": 7,
  "industries": [
   {
@@ -658,6 +658,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Nio completes nearly 1.2 million battery swaps over 7-day holiday, sets daily record twice",
+     "link": "https://cnevpost.com/2026/10/09/nio-1-2-million-battery-swaps-7-day-holiday/",
+     "pubDate": "Fri, 09 Oct 2026 06:33:25 +0000",
+     "summary": "Nio's 4,168 battery swap stations completed 1,192,221 swaps from October 1 to 7, with the daily average rising 22% year-on-year. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Nio completes nearly 1.2 million battery swaps over 7-day holiday, sets daily record twice"
+    },
+    {
      "title": "BYD humanoid robot design emerges as formal debut remains pending",
      "link": "https://cnevpost.com/2026/10/09/byd-humanoid-robot-design-emerges/",
      "pubDate": "Fri, 09 Oct 2026 05:59:16 +0000",
@@ -810,14 +818,6 @@ window.INDUSTRY_DATA = {
      "zh": "Uber and China’s Pony.ai plan to launch robotaxis in London"
     },
     {
-     "title": "BYD launches Fang Cheng Bao Tai 7 in Uzbekistan as BYD Ti 7",
-     "link": "https://cnevpost.com/2026/10/08/byd-launches-fang-cheng-bao-tai-7-uzbekistan/",
-     "pubDate": "Thu, 08 Oct 2026 12:49:42 +0000",
-     "summary": "The 5-seat, all-wheel-drive BYD Ti 7 is priced at about $43,340 in Uzbekistan and features DM-p hybrid technology. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "BYD launches Fang Cheng Bao Tai 7 in Uzbekistan as BYD Ti 7"
-    },
-    {
      "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
      "link": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
      "pubDate": "Wed, 07 Oct 2026 15:00:00 +0000",
@@ -949,7 +949,7 @@ window.INDUSTRY_DATA = {
      "title": "Massachusetts shifts clean energy funds to help heat homes this winter",
      "link": "https://www.utilitydive.com/news/massachusetts-clean-energy-funds-winter-heating-oil/832521/",
      "pubDate": "Thu, 08 Oct 2026 12:42:42 -0400",
-     "summary": "Massachusetts&nbsp;Gov. Maura Healey, D, ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
+     "summary": "Gov. Maura Healey ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
      "source": "Utility Dive",
      "zh": "Massachusetts shifts clean energy funds to help heat homes this winter"
     },
@@ -1706,6 +1706,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "一加 16 手机官宣搭载 9000mAh 冰川电池，支持 100W 有线 + 50W 无线",
+     "link": "https://www.ithome.com/1/010/951.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:34:53 GMT",
+     "summary": "IT之家 10 月 9 日消息，一加中国区总裁李杰今日宣布，一加 16 手机首发新一代高性能冰川电池。 据其介绍，一加 16 手机电池容量 9000mAh ，支持 100W 有线闪充 + 50W 无线闪充。 据IT之家此前报道， 一加 16 手机首批搭载 第六代骁龙 8 超级至尊版 ，搭配全新一代风驰游戏内核，出厂即写入芯片底层。 一加 16 手机搭载与京东方联合研发的 185Hz 第四代东方屏 ，采用全新 X4 发光材料，日常使用支持全局 165Hz 超高刷，采用 1.15mm 极窄四等边屏幕，将于 10 月 12 日 19:00 正式发布。",
+     "source": "IT之家",
+     "zh": "一加 16 手机官宣搭载 9000mAh 冰川电池，支持 100W 有线 + 50W 无线"
+    },
+    {
+     "title": "谷歌为何押注RSI？",
+     "link": "https://www.huxiu.com/article/4896137.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 14:32:28 +0800",
+     "summary": "本文来自微信公众号： 深流研究所 ，作者：吴绛枫 “我们的模型正式超越了我。我已经没什么可教它的了。” 9月30日，Google DeepMind研究员Zirui Wang在社交媒体上写道。 当天，谷歌发布Gemini 4系列首款模型Gemini 4 Argon。这是谷歌今年最重要的一次旗舰发布。 这句半开玩笑的感叹，很快引出一个更大胆的猜测：谷歌是否已经实现了RSI？ RSI，递归式自我改进，是指AI参与改进自身或研发下一代AI。 如今，多家公司已将RSI写入研究目标和投资叙事。相关论文、评测和产品也在密集出现。 谷歌是其中投入最大、行动最激进的公司之一。 仅在9月，谷歌就连续公布了四项相关",
+     "source": "虎嗅",
+     "zh": "谷歌为何押注RSI？"
+    },
+    {
+     "title": "799 → 585 元：小米耳夹式耳机京东新低，单只耳机重 5.5g + 高性能记忆钛丝",
+     "link": "https://www.ithome.com/1/010/949.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:31:55 GMT",
+     "summary": "小米耳夹式耳机今年 5 月正式发布，首销价 799 元 。 今日京东可叠加 PLUS 会员 480-60 元，实付 689 元。 大部分地区支持 15% 政府补贴，国补后 仅需 585 元 官方好价： 京东 小米 耳夹式耳机 4 色可选 国补后 585 元起 直达链接 IT之家从发布会获悉，小米耳夹式耳机有珍珠白、玄武岩黑、缎光金、鸢尾紫四种颜色可选。 小米耳夹式耳机单只耳机重量 5.5g ，采用仿生曲线设计及高性能记忆钛丝；搭载 11mm 大尺寸驱动单元，微晶金属涂层振膜。 这款耳机采用 高亮镜面机身 ，一体流线造型；支持 IP57 级 防尘抗水 ；耳机本体续航 9 小时，配合充电盒最高可达",
+     "source": "IT之家",
+     "zh": "799 → 585 元：小米耳夹式耳机京东新低，单只耳机重 5.5g + 高性能记忆钛丝"
+    },
+    {
+     "title": "华为小米手机同日涨价，最高涨1000元",
+     "link": "https://www.huxiu.com/article/4896139.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 14:30:26 +0800",
+     "summary": "本文来自微信公众号： 大橘财经 ，作者：汤普济 10月9日，华为与小米同日上调旗下多款在售手机的售价，最高涨幅达到1000元。 自10月9日零时起，华为nova 16系列部分机型正式调价。其中，nova 16和nova 16 Pro建议零售价均上涨400元，nova 16 SE上涨200元，渠道提货价（STP）同步调整。 调价后，nova 16起售价达到3399元，nova 16 Pro升至4299元，nova 16 SE的256GB版本则涨至2899元。华为官方尚未对调价作出回应。 同一天，小米17 Ultra全系售价上涨1000元。标准版起售价由6999元升至7999元，徕卡版由7999元",
+     "source": "虎嗅",
+     "zh": "华为小米手机同日涨价，最高涨1000元"
+    },
+    {
+     "title": "内存推高 iPhone 18 Pro 系列售价，曝苹果削减新机零部件订单",
+     "link": "https://www.ithome.com/1/010/948.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:30:00 GMT",
+     "summary": "IT之家 10 月 9 日消息，据《日经亚洲》今天（9 日）下午报道，内存芯片价格飙升迫使苹果上调新上市的 iPhone 18 Pro 和 iPhone 18 Pro Max 售价，市场需求随之走弱。苹果因此要求部分供应商 减少两款机型的零部件生产 。 多名知情人士消息称，苹果自 9 月初起在出货安排上变得更加谨慎。其中两人称，由于新机需求不及预期，苹果 10 月的零部件订单量 较原计划至少削减了 15% 。 一名高管级知情人士透露：“仅 10 月份，苹果对两款高端机型的零部件订单 就减少了 15% 至 20% 。接下来情况会怎样，还很难说。” 由于各家供应商的生产周期不同，10 月的订单调整",
+     "source": "IT之家",
+     "zh": "内存推高 iPhone 18 Pro 系列售价，曝苹果削减新机零部件订单"
+    },
+    {
+     "title": "英伟达未来 5 年将斥资 10 亿美元推动美国科学发展",
+     "link": "https://www.ithome.com/1/010/947.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:29:29 GMT",
+     "summary": "IT之家 10 月 9 日消息，NVIDIA（英伟达）当地时间 8 日在美国首都华盛顿特区举行的“科学：新的黄金时代”活动上宣布， 该企业未来 5 年将斥资 10 亿美元 （IT之家注：现汇率约合 67.15 亿元人民币） 推动美国科学发展 。 NVIDIA 将通过支持美国高等教育研究机构、投资加速美国在量子计算领域的领导地位、支持满足美国政府任务需求的云服务提供商，推动美国科学和量子计算领域的“超级智能”（人工智能）发展。 NVIDIA 也是同日宣布的多个美国“创世纪计划”第二阶段项目的合作方。",
+     "source": "IT之家",
+     "zh": "英伟达未来 5 年将斥资 10 亿美元推动美国科学发展"
+    },
+    {
      "title": "Liquid AI 开源 d1 系列决策模型：单次判断仅 8 毫秒，支持图像输入",
      "link": "https://www.ithome.com/1/010/946.htm",
      "pubDate": "Fri, 09 Oct 2026 06:29:07 GMT",
@@ -1730,30 +1778,6 @@ window.INDUSTRY_DATA = {
      "zh": "吉利星瑞 L PLUS 将于 10 月 17 日正式上市，限时预售价 11.57 万元起"
     },
     {
-     "title": "海盗船 WARTHOG 机箱预售：军武风格，到手价 1599 元",
-     "link": "https://www.ithome.com/1/010/930.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:17:41 GMT",
-     "summary": "IT之家 10 月 9 日消息，CORSAIR（海盗船）现已在国内市场预售机箱新品 WARTHOG。这一拥有军武风格设计的硬朗型号在国内被称为“路霸”，到手价 1,599 元。 京东 海盗船 WARTHOG Airflow 机箱 橄榔绿 1599 元 直达链接 WARTHOG 基于 FRAME 4000D 平台打造，是 2012 年 Vengeance C70“弹药箱”机箱的精神继任者。 其采用坚固的钢板打造， 配备一体式搬运提手 ；拥有 3D Y 型镂空前板；支持背插主板，拥有 RapidRoute 2.0 主板托盘；正面和顶部配备 InfiniRail 风扇安装系统；内置 GPU 支架。 ",
-     "source": "IT之家",
-     "zh": "海盗船 WARTHOG 机箱预售：军武风格，到手价 1599 元"
-    },
-    {
-     "title": "恐影响续航：佳明承认 Fenix 8 智能手表存在亮度无法回落问题",
-     "link": "https://www.ithome.com/1/010/929.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:17:00 GMT",
-     "summary": "IT之家 10 月 9 日消息，科技媒体 gadgetsandwearables 昨日（10 月 8 日）发布博文，报道称 佳明（Garmin）承认 Fenix 8 的 AMOLED 屏幕存在亮度无法自动回落的 Bug，可能会加速耗电。 在受影响版本方面，该问题最早出现在软件版本 23.31 中，不过部分用户在版本 23.39 下仍报告相同现象。 图源：佳明 在问题表现上，IT之家援引博文介绍，根据社区用户反馈，在启用“始终显示”（Always On Display），同时关闭“抬腕亮屏”功能之后，在强光环境下，手表会自动调高亮度，但佩戴者随后进入较暗环境后，屏幕亮度有时无法自动降低。 佳明于",
-     "source": "IT之家",
-     "zh": "恐影响续航：佳明承认 Fenix 8 智能手表存在亮度无法回落问题"
-    },
-    {
-     "title": "SK 集团会长崔泰源：半导体需求快速增长，只要条件允许就会尽快建厂",
-     "link": "https://www.ithome.com/1/010/928.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:16:44 GMT",
-     "summary": "IT之家 10 月 9 日消息，据韩媒 fnnews 报道，SK 集团会长崔泰源今天（9 日）前往韩国光州军用机场，考察半导体工厂拟建厂址。他谈及韩国湖南地区的建厂计划时说：“目前规划的规模相当于龙仁项目的三分之二。如果能拿到更多土地，预计规模还会扩大。” 崔泰源进一步表示，“ 半导体需求快速增长，我们必须加快供应。只要条件允许，就会尽快建厂 。具体什么时候能开工还说不准，但会尽可能加快进度。即使供水供电跟不上，只要能够提前开工，我们也会先行进场。节省建设成本并不是我们重点考虑的事情。” 延伸阅读 此次崔泰源考察的光州军用机场位于韩国光州光山区松汀洞一带，是韩国政府规划的湖南（西南部）半导体产",
-     "source": "IT之家",
-     "zh": "SK 集团会长崔泰源：半导体需求快速增长，只要条件允许就会尽快建厂"
-    },
-    {
      "title": "苹果新品全家桶大剧透，最大的个人AI 终端是你家",
      "link": "https://www.huxiu.com/article/4896132.html?f=rss",
      "pubDate": "Fri, 09 Oct 2026 14:09:11 +0800",
@@ -1768,14 +1792,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 医曜 ，作者：李景易 有意思的事情发生了。 10月1日，我们的国庆假期第一天，美国波士顿ARDD（衰老研究与药物发现）会议的议程上，出现了少见的一幕：诺和与礼来，GLP-1的两大卖家，在同一周交出了同一类数据，生物学年龄时钟。 数据分两份，一厚一薄。 厚的那份来自诺和诺德。汇总五项司美格鲁肽试验、10,052名参与者的蛋白组数据，约一半用药、一半安慰剂，首次随访时“心脏生物学年龄”降低约2到4年。再用SELECT试验的效应数据，在英国19,117人的真实世界队列里建模，推算出1.9个额外生命年。 薄的那份来自礼来。SURMOUNT-5替尔泊肽臂的71对血样，15个表观遗传",
      "source": "虎嗅",
      "zh": "GLP-1能“减龄”2-4岁？"
-    },
-    {
-     "title": "消息称三星近期预计 2026Q4 智能手机产量 2420 万台，下滑 23%",
-     "link": "https://www.ithome.com/1/010/923.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:08:43 GMT",
-     "summary": "IT之家 10 月 9 日消息，韩媒 ZDNET Korea 当地时间今日报道称，三星电子 MX 业务本月初更新了向零部件供应商提供的 2026 年第 4 季度智能手机产量预测数据。 三星电子现在认为其将在 10 月生产 990 万台、在 11 月生产 760 万台、在 12 月生产 670 万台，合计 2,420 万台。 季度合计数据相较两周前的上次预测（3,140 万台）下滑了 23% ，这也意味着其全年产能从 2.4 亿台下降至 2.3 亿台出头。 存储器价格的飙升对智能手机产业带来显著压力。三星电子近期已针对旗舰 Galaxy S26 系列机型执行了涨价，并计划在下代产品中执行降规显示",
-     "source": "IT之家",
-     "zh": "消息称三星近期预计 2026Q4 智能手机产量 2420 万台，下滑 23%"
     },
     {
      "title": "微软被暂停参与允许外籍员工申请绿卡的项目",
@@ -1874,22 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "Instacart Promo Code: $15 Off | October 2026"
     },
     {
-     "title": "十一散场，老外开始怀念中国人",
-     "link": "https://www.huxiu.com/article/4896123.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 12:54:57 +0800",
-     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 中国人返程，老外苦等下一个黄金周。 01 离开巴库的早晨，四季酒店大堂里突然多出许多行李箱。 几组中国客人几乎同时下楼，一对上海口音的情侣在核对去机场的车辆，还有两家人站在门口商量，回国前要不要再买些当地特产。 前台的两个姑娘明显有些忙乱，她们轮流接过房卡，确认账单，又不时抬头看看面前越来越长的中国退房队伍。 轮到我们时，其中一位姑娘认出了女儿，前几天进出酒店，她见过这个总喜欢趴在大堂桌边画画的中国女孩。 她一边办理退房，一边好奇地问我，为什么今天住在酒店里的中国客人几乎都要离开。 我告诉她，中国的国庆长假结束了，很多人明天需要回去上班",
-     "source": "虎嗅",
-     "zh": "十一散场，老外开始怀念中国人"
-    },
-    {
-     "title": "国内卖超百亿、海外却“未达标”？抗癌药企艾力斯连续两天暴跌",
-     "link": "https://www.huxiu.com/article/4896122.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 12:51:38 +0800",
-     "summary": "本文来自微信公众号： 大橘财经 ，作者：王力 一款年销售额超过50亿元的核心产品，海外关键III期临床试验没能过关。 10月8日，艾力斯开盘20%跌停，截至晚间收盘，公司股价报89.26元/股，市值401.67亿元。 10月9日，艾力斯开盘继续暴跌，截至中午休盘跌近10%，市值362亿。 前一日晚间，艾力斯公告称，核心产品伏美替尼用于EGFR 20外显子插入突变非小细胞肺癌一线治疗的全球III期FURVENT试验，未达到主要研究终点，即由盲态独立中心审评（BICR）评估的无进展生存期（PFS）。 这并不意味着伏美替尼现有适应症失效，也不意味着艾力斯马上失去盈利能力。但市场为何还是给出20CM跌",
-     "source": "虎嗅",
-     "zh": "国内卖超百亿、海外却“未达标”？抗癌药企艾力斯连续两天暴跌"
-    },
-    {
      "title": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties (Emily Forlini/Fortune)",
      "link": "https://www.techmeme.com/261009/p1#a261009p1",
      "pubDate": "Fri, 09 Oct 2026 00:05:01 -0400",
@@ -1953,6 +1953,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The best PS3 emulator for Android is now on the Play Store",
+     "link": "https://www.androidauthority.com/armsx3-ps3-emulator-play-store-3721068/",
+     "pubDate": "Fri, 09 Oct 2026 06:30:53 +0000",
+     "summary": "You'll need a beefy Android device, though. You have been warned.",
+     "source": "Android Authority",
+     "zh": "The best PS3 emulator for Android is now on the Play Store"
+    },
     {
      "title": "Users say ‘Gemini as the Google Assistant is a disaster’",
      "link": "https://www.androidauthority.com/gemini-vs-google-assistant-complaints-3721074/",
@@ -2138,14 +2146,6 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic bans 'sustained and needless abusive or cruel behavior' toward its AI models"
     },
     {
-     "title": "Apple could swiftly follow its smart home event with new iPads and MacBooks",
-     "link": "https://www.androidauthority.com/apple-october-ipad-macbook-3721018/",
-     "pubDate": "Thu, 08 Oct 2026 21:16:50 +0000",
-     "summary": "October's heating up for Apple hardware launches, with new iPads now in the running.",
-     "source": "Android Authority",
-     "zh": "Apple could swiftly follow its smart home event with new iPads and MacBooks"
-    },
-    {
      "title": "Apple announces October 13 event for new smart home products",
      "link": "https://www.gsmarena.com/apple_announces_october_13_event_for_new_smart_home_products-news-74968.php",
      "pubDate": "Thu, 08 Oct 2026 23:02:02 +0200",
@@ -2202,9 +2202,57 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "10月9日知识产权板块涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891197924.html",
+     "pubDate": "Fri, 09 Oct 2026 14:33:26 +0800",
+     "summary": "&emsp;&emsp;10月9日14点33分， 知识产权 板块指数报2098.27点，涨幅达5%，成交144.65亿元，换手率4.70%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 流金科技 报8.99元，涨22.31%； 中文在线 报24.47元，涨20.01%； 芒果超媒 报23.00元，涨19.98%； 华策影视 报8.51元，涨12.57%； 捷成股份 报5.63元，涨12.38%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月9日知识产权板块涨幅达5%"
+    },
+    {
+     "title": "10月9日互联网电商板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891197830.html",
+     "pubDate": "Fri, 09 Oct 2026 14:33:26 +0800",
+     "summary": "&emsp;&emsp;10月9日14点33分， 互联网电商 板块指数报2827.103点，涨幅达2%，成交31.71亿元，换手率2.31%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 丽人丽妆 报9.44元，涨10.02%； 南极电商 报3.06元，涨4.79%； 青木科技 报35.45元，涨4.51%； 壹网壹创 报24.66元，涨4.23%； 焦点科技 报25.03元，涨3.64%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月9日互联网电商板块涨幅达2%"
+    },
+    {
+     "title": "10月9日线下药店板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891197789.html",
+     "pubDate": "Fri, 09 Oct 2026 14:33:26 +0800",
+     "summary": "&emsp;&emsp;10月9日14点33分， 线下药店 板块指数报3627.872点，涨幅达2%，成交11.77亿元，换手率1.64%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 华人健康 报15.19元，涨3.40%； 益丰药房 报24.21元，涨2.89%； 大参林 报18.83元，涨2.56%； 一心堂 报10.99元，涨2.23%； 老百姓 报13.54元，涨1.96%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月9日线下药店板块涨幅达2%"
+    },
+    {
+     "title": "10月9日最近多板板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891197213.html",
+     "pubDate": "Fri, 09 Oct 2026 14:33:16 +0800",
+     "summary": "&emsp;&emsp;10月9日14点33分， 最近多板 板块指数报2433.763点，涨幅达2%，成交622.09亿元，换手率7.85%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 力王股份 报23.00元，涨29.00%； 领湃科技 报28.90元，涨20.02%； 泰诺麦博-U 报30.25元，涨11.42%； 华北制药 报6.03元，涨10.04%； 九阳股份 报15.13元，涨10.04%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月9日最近多板板块涨幅达2%"
+    },
+    {
+     "title": "10月9日独家药品板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891197134.html",
+     "pubDate": "Fri, 09 Oct 2026 14:33:16 +0800",
+     "summary": "&emsp;&emsp;10月9日14点33分， 独家药品 板块指数报2411.206点，涨幅达2%，成交78.08亿元，换手率1.80%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 东诚药业 报13.89元，涨9.98%； 华邦健康 报4.56元，涨4.83%； 上海凯宝 报5.41元，涨4.64%； 新华制药 报14.79元，涨3.94%； 中恒集团 报2.25元，涨3.69%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月9日独家药品板块涨幅达2%"
+    },
+    {
+     "title": "10月9日中药概念板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891197034.html",
+     "pubDate": "Fri, 09 Oct 2026 14:33:16 +0800",
+     "summary": "&emsp;&emsp;10月9日14点33分， 中药概念 板块指数报2213.756点，涨幅达2%，成交309.39亿元，换手率2.41%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： ST万邦 报12.85元，涨10.02%； 众生药业 报25.49元，涨10.01%； 东诚药业 报13.89元，涨9.98%； 康农种业 报20.63元，涨7.00%； 金石亚药 报13.19元，涨6.29%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月9日中药概念板块涨幅达2%"
+    },
+    {
      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
      "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-     "pubDate": "Fri, 09 Oct 2026 06:28:26 GMT",
+     "pubDate": "Fri, 09 Oct 2026 06:30:01 GMT",
      "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
      "source": "CNBC",
      "zh": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says"
@@ -2224,54 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "21世纪经济报道记者 闫硕 近日，国家医保局正式发布按病种付费3.0版分组方案，并推荐第一批基层病种，包含DRG基层病组31个、DIP基层病种127个，供各地参照落地。10月9日，国家医保局对第一批基层病种进行单行公布。 基层病种是指适宜在符合条件的二级及以下医疗机构收治，且诊疗技术成熟的常见病、多发病及部分慢性病病种。基层病种的核心机制是“同病同付”，即在同一个统筹地区内，原则上医保部门对不同等级医疗...",
      "source": "经济观察网",
      "zh": "首批基层病种单行发布，医保支付改革助力分级诊疗提质增效"
-    },
-    {
-     "title": "凯伦股份10月9日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891186343.html",
-     "pubDate": "Fri, 09 Oct 2026 14:25:12 +0800",
-     "summary": "以下是 凯伦股份 在北京时间10月9日14:25分盘口异动快照： 10月9日， 凯伦股份 盘中涨幅达5%，截至14点25分，报13.55元，成交1.09亿元，换手率2.64%。 分笔 报价 卖五 13.61 2 卖四 13.6 157 卖三 13.59 33 卖二 13.57 9 卖一 13.56 65 买一 13.53 23 买二 13.52 39 买三 13.51 15 买四 13.5 26 买五 13.49 4 最新： 13.55 涨幅： 5.04% 涨跌： 0.65 换手率：2.64% 成交量：8.44万手 成交额：1.09亿元 主力净流入： 1229.54 万元 &emsp;&ems",
-     "source": "东方财富股票",
-     "zh": "凯伦股份10月9日盘中涨幅达5%"
-    },
-    {
-     "title": "*ST沐邦10月9日打开涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891184338.html",
-     "pubDate": "Fri, 09 Oct 2026 14:24:33 +0800",
-     "summary": "以下是 *ST沐邦 在北京时间10月9日14:24分盘口异动快照： 10月9日14点24分， *ST沐邦 盘中打开涨停，现报8.55元，成交9202.72万元，换手率2.66%。该股之前于14点22分涨停。 分笔 报价 卖五 - 0 卖四 - 0 卖三 - 0 卖二 - 0 卖一 8.56 1150 买一 8.55 185 买二 8.54 95 买三 8.49 30 买四 8.48 106 买五 8.46 336 最新： 8.55 涨幅： 9.90% 涨跌： 0.77 换手率：2.66% 成交量：11.53万手 成交额：9202.72万元 主力净流入： 531.78 万元 &emsp;&ems",
-     "source": "东方财富股票",
-     "zh": "*ST沐邦10月9日打开涨停"
-    },
-    {
-     "title": "移远通信10月9日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891183938.html",
-     "pubDate": "Fri, 09 Oct 2026 14:23:50 +0800",
-     "summary": "以下是 移远通信 在北京时间10月9日14:23分盘口异动快照： 10月9日， 移远通信 盘中涨幅达5%，截至14点23分，报72元，成交10.58亿元，换手率3.75%。 分笔 报价 卖五 72.02 5 卖四 72.01 1 卖三 72 175 卖二 71.99 6 卖一 71.98 19 买一 71.85 5 买二 71.84 23 买三 71.82 16 买四 71.81 40 买五 71.8 21 最新： 72 涨幅： 5.12% 涨跌： 3.51 换手率：3.75% 成交量：15.24万手 成交额：10.58亿元 主力净流入： 7670.49 万元 &emsp;&emsp;10月9",
-     "source": "东方财富股票",
-     "zh": "移远通信10月9日盘中涨幅达5%"
-    },
-    {
-     "title": "算力租赁商Nebius计划上调NVIDIA GPU按需租金17%—21%，创业板算力ETF天弘（158061）标的指数跌超1%，换手率近60%为同标的第一",
-     "link": "http://stock.eastmoney.com/news/11622,202610093891184983.html",
-     "pubDate": "Fri, 09 Oct 2026 14:23:35 +0800",
-     "summary": "盘面上，两市探底回升，算力板块下跌。相关ETF方面，创业板算力ETF天弘（158061）标的指数盘中跌1.94%，申购额达7600万份；成交额达2.17亿元；换手率达57.92%，为同标的第一。成分股中， 科翔股份 、 强达电路 、 润泽科技 、 明阳电路 、 满坤科技 跌超5%， 高澜股份 、 申菱环境 、 金百泽 等多股跟跌。 值得关注的是，Wind显示，创业板算力ETF天弘（158061）近2个交易日（2026年9月30日—2026年10月8日）实现连续“吸金”，累计获资金净流入1544.37万元。最近5个交易日累计获资金净流入7624.24万元。截至2026年10月8日，该基金最新规模",
-     "source": "东方财富股票",
-     "zh": "算力租赁商Nebius计划上调NVIDIA GPU按需租金17%—21%，创业板算力ETF天弘（158061）标的指数跌超1%，换手率近60%为同标的第一"
-    },
-    {
-     "title": "众捷股份10月9日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891183642.html",
-     "pubDate": "Fri, 09 Oct 2026 14:23:30 +0800",
-     "summary": "以下是 众捷股份 在北京时间10月9日14:23分盘口异动快照： 10月9日， 众捷股份 盘中涨幅达5%，截至14点23分，报40.2元，成交4.00亿元，换手率18.13%。 分笔 报价 卖五 40.35 4 卖四 40.28 11 卖三 40.27 10 卖二 40.25 5 卖一 40.2 23 买一 40.18 14 买二 40.17 8 买三 40.15 6 买四 40.14 22 买五 40.11 15 最新： 40.2 涨幅： 5.04% 涨跌： 1.93 换手率：18.13% 成交量：10.59万手 成交额：4.00亿元 主力净流入： -2983.80万 元 &emsp;&em",
-     "source": "东方财富股票",
-     "zh": "众捷股份10月9日盘中涨幅达5%"
-    },
-    {
-     "title": "易点天下10月9日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891183336.html",
-     "pubDate": "Fri, 09 Oct 2026 14:23:14 +0800",
-     "summary": "以下是 易点天下 在北京时间10月9日14:23分盘口异动快照： 10月9日， 易点天下 盘中快速回调，5分钟内跌幅超过2%，截至14点23分，报33.6元，成交13.90亿元，换手率8.68%。 分笔 报价 卖五 33.65 142 卖四 33.64 43 卖三 33.63 93 卖二 33.62 18 卖一 33.61 10 买一 33.6 43 买二 33.59 113 买三 33.58 272 买四 33.57 28 买五 33.56 75 最新： 33.6 涨幅： 8.32% 涨跌： 2.58 换手率：8.68% 成交量：43.56万手 成交额：13.90亿元 主力净流入： 6187",
-     "source": "东方财富股票",
-     "zh": "易点天下10月9日快速回调"
     },
     {
      "title": "AI回报疑虑缓解，亚洲股市小幅上扬，美债收益率回落，金价突破4200美元，铁矿石连跌三周",

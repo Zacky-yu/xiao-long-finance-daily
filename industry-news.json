@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 03:12:12",
+ "generated_at": "2026/10/10 03:20:00",
  "recent_days": 7,
  "industries": [
   {
@@ -273,6 +273,14 @@
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
+     "title": "Defence satcom revenues to surpass $23bn by 2035",
+     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
+     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "Defence satcom revenues to surpass $23bn by 2035"
+    },
+    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
@@ -281,12 +289,28 @@
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
     },
     {
+     "title": "Axiom Space highlights space computing progress",
+     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
+     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
+     "source": "Electronics Weekly",
+     "zh": "Axiom Space highlights space computing progress"
+    },
+    {
      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
      "pubDate": "Fri, 09 Oct 2026 14:11:55 +0000",
      "summary": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI"
+    },
+    {
+     "title": "The Single-Chip PC",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
+     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -303,6 +327,30 @@
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
+    },
+    {
+     "title": "Failure analysis in the era of 3D integration",
+     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
+     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Failure analysis in the era of 3D integration"
+    },
+    {
+     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
+     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
+     "source": "Electronics Weekly",
+     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
+    },
+    {
+     "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:04:25 +0000",
+     "summary": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Robotaxi growth, Arm Qualcomm battle"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -447,54 +495,6 @@
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
-    },
-    {
-     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
-     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
-     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
-     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
-    },
-    {
-     "title": "Shift Left Complicates Fab Data Management",
-     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
-     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Shift Left Complicates Fab Data Management"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
-    },
-    {
-     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
-     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
-     "source": "Semiconductor Today",
-     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
-    },
-    {
-     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
-     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
-    },
-    {
-     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
-     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
-     "source": "Semiconductor Today",
-     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -657,6 +657,14 @@
    "total": 5,
    "items": [
     {
+     "title": "BMW iX5 spotted ahead of US launch, sporting its new Double-X headlights",
+     "link": "https://electrek.co/2026/10/09/bmw-ix5-spotted-ahead-of-us-launch-new-double-x-lights/",
+     "pubDate": "Fri, 09 Oct 2026 19:12:42 +0000",
+     "summary": "You can’t miss BMW’s new “Double-X” lights, which debut on the all-electric iX5 and X5. The new iX5 was spotted testing ahead of its upcoming US launch, giving us a look at the new lighting signature in real life. more…",
+     "source": "Electrek",
+     "zh": "BMW iX5 spotted ahead of US launch, sporting its new Double-X headlights"
+    },
+    {
      "title": "Bluetti Na(Sodium) 900Wh power station at exclusive $665 low in Encore Sale, Anker solar multi-cam kits $310 off, Navee EVs, more",
      "link": "https://electrek.co/2026/10/09/bluetti-nasodium-900wh-power-station-anker-solar-multi-cam-kits-navee-evs-more/",
      "pubDate": "Fri, 09 Oct 2026 18:00:00 +0000",
@@ -743,14 +751,6 @@
      "summary": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
      "source": "TechCrunch Transport",
      "zh": "Surveillance company Flock cuts staff as privacy backlash grows"
-    },
-    {
-     "title": "Tesla opens 14 Semi Megacharger stalls between Atlanta and Savannah",
-     "link": "https://electrek.co/2026/10/09/tesla-semi-megacharger-atlanta-savannah-pilot-georgia/",
-     "pubDate": "Fri, 09 Oct 2026 13:13:15 +0000",
-     "summary": "Tesla has opened its first Semi Megacharger sites in the Southeast: an 8-stall station just south of Atlanta and a 6-stall station outside Savannah, each rated for up to 1.2 MW per stall. The Savannah site is also the first Megacharger at a Pilot truck stop, a rollout that was supposed to start this",
-     "source": "Electrek",
-     "zh": "Tesla opens 14 Semi Megacharger stalls between Atlanta and Savannah"
     },
     {
      "title": "Geely's main brand announces entry into Canada, plans first models in 2027",
@@ -921,12 +921,12 @@
      "zh": "Canada’s New Oil Pipeline Challenged by Cold Lake First Nations"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -940,7 +940,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from 2025, according to a report from the advocacy group. Investor-owned utilities have requested $23.1 billion in electric and gas rate increases so far this year, it said.",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1961,6 +1961,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Want an iPhone Duo? These AT&T deals will knock the price down",
+     "link": "https://www.androidauthority.com/apple-iphone-duo-att-deals-3721516/",
+     "pubDate": "Fri, 09 Oct 2026 19:13:04 +0000",
+     "summary": "With pre-orders starting in the coming days, AT&T has revealed its iPhone Duo deals.",
+     "source": "Android Authority",
+     "zh": "Want an iPhone Duo? These AT&T deals will knock the price down"
+    },
+    {
      "title": "‘HomePad’ is coming next week, with three features I’ve long wanted",
      "link": "https://9to5mac.com/2026/10/09/homepad-is-coming-next-week-with-three-features-ive-long-wanted/",
      "pubDate": "Fri, 09 Oct 2026 19:02:07 +0000",
@@ -2063,14 +2071,6 @@
      "summary": "Grok Bot just got a second significant upgrade this week: its own email address. more…",
      "source": "9to5Mac",
      "zh": "Grok Bot just got its own email address, here’s how to claim yours"
-    },
-    {
-     "title": "Google teases the Fitbit Edge, and it looks like it’s nearly here",
-     "link": "https://www.androidauthority.com/fitbit-edge-teaser-3721474/",
-     "pubDate": "Fri, 09 Oct 2026 17:35:08 +0000",
-     "summary": "The hot new Fitbit could formally debut in just a few more days.",
-     "source": "Android Authority",
-     "zh": "Google teases the Fitbit Edge, and it looks like it’s nearly here"
     },
     {
      "title": "Apple Mail added four convenient new features in iOS 27",
@@ -2211,10 +2211,18 @@
     {
      "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
      "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
-     "pubDate": "Fri, 09 Oct 2026 19:05:48 GMT",
+     "pubDate": "Fri, 09 Oct 2026 19:16:11 GMT",
      "summary": "",
      "source": "CNBC",
      "zh": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets"
+    },
+    {
+     "title": "Oil-Dri outlines $375M total borrowing capacity while signaling potential reinvestment above prior ~$35M capex pace",
+     "link": "https://seekingalpha.com/news/4651847-oil-dri-outlines-375m-total-borrowing-capacity-while-signaling-potential-reinvestment-above?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 15:14:42 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Oil-Dri outlines $375M total borrowing capacity while signaling potential reinvestment above prior ~$35M capex pace"
     },
     {
      "title": "Elon Musk is now richer than any American ever — and it’s not even close",
@@ -2223,6 +2231,30 @@
      "summary": "Musk’s trillioniare status means he’s wealthier than his next three contemporaries combined — and also worth more than historical tycoons like John D. Rockefeller.",
      "source": "MarketWatch",
      "zh": "Elon Musk is now richer than any American ever — and it’s not even close"
+    },
+    {
+     "title": "恒指期货夜盘收涨0.71% 报24363点",
+     "link": "http://hk.eastmoney.com/news/1556,202610103891619127.html",
+     "pubDate": "Sat, 10 Oct 2026 03:03:40 +0800",
+     "summary": "恒指 期货 夜盘收涨0.71%，报24363点，高水152点。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "恒指期货夜盘收涨0.71% 报24363点"
+    },
+    {
+     "title": "美股三大指数集体上涨 超大规模云厂商股价走高 纳斯达克中国金龙指数涨超2%",
+     "link": "http://finance.eastmoney.com/news/1345,202610093891490496.html",
+     "pubDate": "Sat, 10 Oct 2026 03:01:38 +0800",
+     "summary": "美东时间周五，美股三大指数集体上涨，截至发稿，道指涨1.01%，纳指涨0.65%，标普500指数涨0.66%。 超大规模云厂商股价集体上涨，截至发稿， 谷歌-A 股价上涨0.85%，报351.24美元/股，总市值报4.30万亿美元。 微软 股价上涨2.57%，报536.05美元/股，总市值报3.98万亿美元。 亚马逊 股价上涨2.88%，报261.37美元/股，总市值报2.82万亿美元。 甲骨文 股价上涨5.16%，报142.17美元/股，总市值报4310亿美元。 热门中概股集体大涨，出行与 新能源 车板块涨幅居前，截至发稿， 纳斯达克 中国金龙指数涨2.65%，报5751.45点。个股方面，",
+     "source": "东方财富股票",
+     "zh": "美股三大指数集体上涨 超大规模云厂商股价走高 纳斯达克中国金龙指数涨超2%"
+    },
+    {
+     "title": "Trump agrees deal with Putin for Russia to release diesel on to global market",
+     "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 19:01:24 GMT",
+     "summary": "Pact between Washington and Moscow comes just weeks before critical midterm elections in the US",
+     "source": "Financial Times",
+     "zh": "Trump agrees deal with Putin for Russia to release diesel on to global market"
     },
     {
      "title": "Microsoft's Nadella unveils tech giant's new fast decision-making AI model",
@@ -2337,44 +2369,12 @@
      "zh": "Wall Street advances as tech pain eases"
     },
     {
-     "title": "乘势数贸：杭州探路数据要素与人工智能“融合”",
-     "link": "http://finance.eastmoney.com/news/1355,202610103891618852.html",
-     "pubDate": "Sat, 10 Oct 2026 02:40:10 +0800",
-     "summary": "我国 数据要素 市场化配置改革进入规模化与价值化深挖的关键阶段。 作为国内少有的同时具备互联网产业生态、地方国资数据运营载体与产业资本加持的城市，“中国数谷”杭州的AI产业发展正进入快车道。 第五届全球数字贸易博览会（以下简称“数贸会”）披露的官方数据显示：2025年杭州规模以上 人工智能 核心产业营业收入4600亿元，同比增长23.1%，当地设立10亿元数据产业专项基金。 在 数据要素 市场建设上，杭州并未将重心押在传统的数据交易额指标上，而是瞄准 数据要素 与AI产业深度融合差异化模式探索。《中国经营报》记者在近期采访中了解到，通过数据基础设施、可信流通体系与工程化数据治理，杭州正在通过生",
-     "source": "东方财富股票",
-     "zh": "乘势数贸：杭州探路数据要素与人工智能“融合”"
-    },
-    {
-     "title": "GSK to expand Pennsylvania presence with over $800M investment",
-     "link": "https://seekingalpha.com/news/4651843-gsk-expand-pennsylvania-presence-over-800m-investment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 14:38:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GSK to expand Pennsylvania presence with over $800M investment"
-    },
-    {
-     "title": "WTI原油期货结算价为91.85美元/桶 上涨36美分",
-     "link": "http://finance.eastmoney.com/news/1356,202610103891617866.html",
-     "pubDate": "Sat, 10 Oct 2026 02:33:02 +0800",
-     "summary": "WTI原油 期货 结算价为91.85美元/桶，上涨36美分，涨幅0.39%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "WTI原油期货结算价为91.85美元/桶 上涨36美分"
-    },
-    {
      "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 18:30:00 GMT",
      "summary": "“I presume these are sophisticated investors taking a profit.”",
      "source": "MarketWatch",
      "zh": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?"
-    },
-    {
-     "title": "Bessent to miss IMF annual meetings in Bangkok",
-     "link": "https://www.ft.com/content/9496dd1d-fabf-4c58-bbc3-88cb51f2a68d?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 18:22:54 GMT",
-     "summary": "US Treasury secretary’s absence is due to ‘domestic engagements’, say officials",
-     "source": "Financial Times",
-     "zh": "Bessent to miss IMF annual meetings in Bangkok"
     },
     {
      "title": "Trump created a committee to dig into the Fed&apos;s Lisa Cook. What is it and what comes next?",
@@ -2441,12 +2441,12 @@
      "zh": "实探上海楼市：居民购房热度高 回暖趋势明显"
     },
     {
-     "title": "Trump and Hegseth’s execution-type deal",
-     "link": "https://www.ft.com/content/39764d10-6b87-4103-8e7d-290a72a5ea5a?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 16:18:01 GMT",
-     "summary": "The decision to livestream the execution of Nidal Malik Hasan is a sign of profound moral decay",
+     "title": "Trump launches committee to investigate Fed governor Lisa Cook",
+     "link": "https://www.ft.com/content/d0c81cd2-f944-46b9-a859-abc3f0bd3516?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 17:26:05 GMT",
+     "summary": "Move comes after Supreme Court in June rebuffed president’s attempt to sack central banker",
      "source": "Financial Times",
-     "zh": "Trump and Hegseth’s execution-type deal"
+     "zh": "Trump launches committee to investigate Fed governor Lisa Cook"
     }
    ]
   },
@@ -2456,6 +2456,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "'October is the ideal time to get vaccinated': Flu season is kicking off early, experts say",
+     "link": "https://www.livescience.com/health/flu/october-is-the-ideal-time-to-get-vaccinated-flu-season-is-kicking-off-early-experts-say",
+     "pubDate": "Fri, 09 Oct 2026 19:10:00 +0000",
+     "summary": "Flu tests are coming back positive at higher rates than is typical for early fall in several Western states, data suggests.",
+     "source": "Live Science",
+     "zh": "'October is the ideal time to get vaccinated': Flu season is kicking off early, experts say"
+    },
     {
      "title": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years.",
      "link": "https://www.livescience.com/technology/electric-vehicles/self-driving-solar-powered-cars-that-talk-to-each-other-what-vehicles-might-look-like-in-10-years",
@@ -2543,14 +2551,6 @@
      "summary": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting stars from Halley’s Comet and a glowing Hunter’s Moon just before Halloween.",
      "source": "ScienceDaily",
      "zh": "October’s night sky is full of cosmic tricks and treats"
-    },
-    {
-     "title": "Big dogs age faster at an epigenetic level, new study finds",
-     "link": "https://www.livescience.com/animals/dogs/big-dogs-age-faster-at-an-epigenetic-level-new-study-finds",
-     "pubDate": "Thu, 08 Oct 2026 21:59:11 +0000",
-     "summary": "A new study that tracked dogs' aging by reading tiny chemical tags on their DNA found that larger dogs aged more quickly.",
-     "source": "Live Science",
-     "zh": "Big dogs age faster at an epigenetic level, new study finds"
     },
     {
      "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",

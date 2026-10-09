@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 07:31:56",
+ "generated_at": "2026/10/10 07:51:51",
  "recent_days": 7,
  "industries": [
   {
@@ -281,36 +281,12 @@
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
-     "title": "Defence satcom revenues to surpass $23bn by 2035",
-     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
-     "source": "Electronics Weekly",
-     "zh": "Defence satcom revenues to surpass $23bn by 2035"
-    },
-    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
-    },
-    {
-     "title": "Axiom Space highlights space computing progress",
-     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
-     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
-     "source": "Electronics Weekly",
-     "zh": "Axiom Space highlights space computing progress"
-    },
-    {
-     "title": "The Single-Chip PC",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
-     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -327,30 +303,6 @@
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
-    },
-    {
-     "title": "Failure analysis in the era of 3D integration",
-     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
-     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Failure analysis in the era of 3D integration"
-    },
-    {
-     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
-     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
-     "source": "Electronics Weekly",
-     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
-    },
-    {
-     "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:04:25 +0000",
-     "summary": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Robotaxi growth, Arm Qualcomm battle"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -495,6 +447,54 @@
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
+    },
+    {
+     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
+     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
+     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
+     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
+    },
+    {
+     "title": "Shift Left Complicates Fab Data Management",
+     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
+     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
+     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Shift Left Complicates Fab Data Management"
+    },
+    {
+     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
+     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -1721,6 +1721,70 @@
    "total": 18,
    "items": [
     {
+     "title": "2026 巴黎车展下周见，中国品牌创纪录独占三分之一",
+     "link": "https://www.ithome.com/1/011/172.htm",
+     "pubDate": "Fri, 09 Oct 2026 23:48:55 GMT",
+     "summary": "IT之家 10 月 10 日消息，当地时间 10 月 12 日（下周一），欧洲规模最大的汽车展会 —— 巴黎车展即将正式开幕。本届巴黎车展共有 100 家参展商设立展位，其中约 60 家为汽车制造商，中国汽车品牌达到 创纪录的 20 家 ，占整整三分之一。 相比之下，2024 年上届车展只有 10 个中国品牌参展， 短短两年便翻了一番 。中国汽车对欧洲汽车行业的影响力不断扩大，增长速度也相当惊人。 本届巴黎车展的中国品牌数量较 2024 年翻了一番，除比亚迪、奇瑞等“老牌”知名车企外，还将迎来问界、阿维塔、理想、广汽埃安、212 等新面孔。 据路透社报道，国际汽车制造商协会秘书长弗朗索瓦 · ",
+     "source": "IT之家",
+     "zh": "2026 巴黎车展下周见，中国品牌创纪录独占三分之一"
+    },
+    {
+     "title": "苹果 Home 应用新特性：iPhone 靠近门铃，灵动岛预览视频画面",
+     "link": "https://www.ithome.com/1/011/171.htm",
+     "pubDate": "Fri, 09 Oct 2026 23:43:27 GMT",
+     "summary": "IT之家 10 月 10 日消息，消息源 @itspdfu 昨日（10 月 9 日）发布博文，报道称苹果和 LG 合作开发的智能家居配件支持“接近控制”功能。 用户将 iPhone 靠近兼容配件后，可通过灵动岛提示打开控制界面，而摄像头和门铃还可直接显示画面。 没有灵动岛功能的 iPhone 或 iPad 将显示 30 秒通知，用户可以在设置完成后，在“家庭”应用中禁用此功能。在后台，该配件会将“apple-deviceid”写入存储在其 NFC 标签上的 Matter 有效载荷中，以便 iOS 在轻触时识别它。它还会广播用于 Apple 近距离控制的低功耗蓝牙广告。 消息称苹果在 iOS 2",
+     "source": "IT之家",
+     "zh": "苹果 Home 应用新特性：iPhone 靠近门铃，灵动岛预览视频画面"
+    },
+    {
+     "title": "泡沫清算的残酷过程：从“市梦率”到“市盈率”（7月版）",
+     "link": "https://www.huxiu.com/article/4896309.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 07:38:47 +0800",
+     "summary": "本文来自微信公众号： 老孙荐读 ，作者：立平坐看云起，原文标题：《然而｜泡沫清算的残酷过程：从“市梦率”到“市盈率”（7月版）》 【本文于今年7月依据AI收集的资料编写而成，本来没准备发表，只是作为自己学习的一个参考。但到9月份，情况发生了一些变化，又根据变化的情况让AI改写一版。当然，我对文字也曾经做了一些修改。两相对照，非常有意思，可以深化我们对当前经济走势的理解。9月版随后发出】 “市梦率”（Dream P/E）这个词，是对传统“市盈率”（P/E）的戏仿。市盈率衡量的是，你为每一块钱利润支付的价格；而当一家公司仍在巨额亏损，支撑其估值的只剩对未来的“故事”与“想象”时，这个倍数就成了“市",
+     "source": "虎嗅",
+     "zh": "泡沫清算的残酷过程：从“市梦率”到“市盈率”（7月版）"
+    },
+    {
+     "title": "调休这笔账，为什么怎么算都觉得亏？",
+     "link": "https://www.huxiu.com/article/4896308.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 07:35:46 +0800",
+     "summary": "本文来自微信公众号： 防冷涂的蜡书斋 ，作者：防冷涂的蜡 今天是10月10日，星期六。闹钟响起的时候，不少打工人的第一反应大概是：手机是不是搞错了？明明已经熬到周末，怎么还要爬起来上班？打开日历一看，没错，今天补班。国庆7天长假才刚结束，旅行照片还在朋友圈里，买回来的特产可能都没吃完，周末却已经先被拿走了一天。 按照今年的放假安排，国庆节10月1日至7日放假，9月20日和10月10日上班。如果把调休看成一笔时间借款，国庆负责提前消费，9月20日支付首期，今天偿还尾款。两个周末换来一段连续长假，日期明确，账目清楚，甚至还有官方通知可以随时查阅。 从日历上看，这笔交易完全没有问题。长假确实享受到了",
+     "source": "虎嗅",
+     "zh": "调休这笔账，为什么怎么算都觉得亏？"
+    },
+    {
+     "title": "Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams (Katharine Schwab/Forbes)",
+     "link": "https://www.techmeme.com/261009/p31#a261009p31",
+     "pubDate": "Fri, 09 Oct 2026 19:35:01 -0400",
+     "summary": "Katharine Schwab / Forbes : Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams &nbsp; &mdash;&nbsp; This voice experience is generated by AI.&nbsp; Learn more.&nbsp; &mdash;&nbsp; Last year, Ti",
+     "source": "Techmeme",
+     "zh": "Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams (Katharine Schwab/Forbes)"
+    },
+    {
+     "title": "OpenAI少赚200亿，倒霉却是英伟达",
+     "link": "https://www.huxiu.com/article/4896303.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 07:31:09 +0800",
+     "summary": "出品 | 虎嗅科技组 作者 | 梁卡尔 编辑 | 苗正卿 头图 | 视觉中国 一份原本仅在硅谷少数顶级风险投资机构间传阅的机密财务文件意外流出，迅速在交易员中引发了一场剧烈的海啸。 根据《金融时报》及多家财经媒体披露，截至2026年9月底，全球生成式人工智能头部玩家OpenAI的真实年化收入接近500亿美元。单看绝对规模，这依然是一份惊人的商业化成绩单，但与此前数周在华尔街及部分媒体间流传的700亿美元相比，仍然存在约200亿美元的预期差。 虽然这些数字并不是官方披露，但&ldquo;预期差&rdquo;给了资本市场情绪一个出口。消息传出后，美东时间10月8日，美股半导体及云服务板块普遍走低。",
+     "source": "虎嗅",
+     "zh": "OpenAI少赚200亿，倒霉却是英伟达"
+    },
+    {
+     "title": "00后“戒断”AI短剧：一个月卸载了5次",
+     "link": "https://www.huxiu.com/article/4896306.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 07:30:18 +0800",
+     "summary": "本文来自微信公众号： 表外表里 ，编辑：陈梓洁、曹宾玲，作者：陈丽桦，题图来自：视觉中国 一个小时，可以背几十个英语单词，也能刷完一整季AI短剧。 正在备战考研的木兰崩溃了，明明拿起手机想打开的是学习软件，结果&ldquo;误触&rdquo;了红果。等她回过神来，一个下午已经过去了。 她又一次卸载了APP。这已经是本月第3次，而她知道还会有第4次、第5次、第N次&hellip;&hellip; AI短剧太上头了 ，无论是城市地铁，还是老家地头，埋头刷剧的人遍地开花。甚至同一个屋檐下，60多岁的奶奶盯着家庭伦理剧抹眼泪，8岁的孙子闹着要看AI动物人。 木兰和许多00后同龄人同样深陷其中，几秒一个",
+     "source": "虎嗅",
+     "zh": "00后“戒断”AI短剧：一个月卸载了5次"
+    },
+    {
+     "title": "Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that&apos;s designing a new central processor for data centers, is raising funds at a ~$2.5B valuation (Reuters)",
+     "link": "https://www.techmeme.com/261009/p30#a261009p30",
+     "pubDate": "Fri, 09 Oct 2026 19:30:04 -0400",
+     "summary": "Reuters : Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that's designing a new central processor for data centers, is raising funds at a ~$2.5B valuation &nbsp; &mdash;&nbsp; Six-month-old microchip startup Nuvacore, which does not yet have a product, is raising hundreds of millions",
+     "source": "Techmeme",
+     "zh": "Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that&apos;s designing a new central processor for data centers, is raising funds at a ~$2.5B valuation (Reuters)"
+    },
+    {
      "title": "决策模型 Jev 爆火，开发商 TypeSafe AI 估值已达 75 亿美元",
      "link": "https://www.ithome.com/1/011/170.htm",
      "pubDate": "Fri, 09 Oct 2026 23:28:29 GMT",
@@ -1743,14 +1807,6 @@
      "summary": "IT之家 10 月 10 日消息，科技媒体 Windows Latest 昨日（10 月 9 日）发布博文，报道称微软正通过驱动程序质量倡议（Driver Quality Initiative，DQI）推动合作伙伴提升 Windows 驱动质量。 IT之家援引博文介绍，微软表示单靠操作系统厂商无法提升整个 Windows 生态的质量，因此推出 DQI 驱动程序质量倡议。该框架由微软与硬件生态伙伴协作推进，覆盖驱动架构、信任、生命周期及质量衡量。 报道称英特尔是首家呼应本次倡议的厂商，已在 2026 年 10 月更新的 GPU 驱动（版本号为 32.0.101.9034）中，添加支持 Windo",
      "source": "IT之家",
      "zh": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2"
-    },
-    {
-     "title": "00后“戒断”AI短剧：一个月卸载了5次",
-     "link": "https://www.huxiu.com/article/4896306.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 07:22:25 +0800",
-     "summary": "本文来自微信公众号： 表外表里 ，编辑：陈梓洁曹宾玲，作者：洞见数据研究院 一个小时，可以背几十个英语单词，也能刷完一整季AI短剧。 正在备战考研的木兰崩溃了，明明拿起手机想打开的是学习软件，结果“误触”了红果。等她回过神来，一个下午已经过去了。 她又一次卸载了APP。这已经是本月第3次，而她知道还会有第4次、第5次、第N次…… AI短剧太上头了，无论是城市地铁，还是老家地头，埋头刷剧的人遍地开花。甚至同一个屋檐下，60多岁的奶奶盯着家庭伦理剧抹眼泪，8岁的孙子闹着要看AI动物人。 木兰和许多00后同龄人同样深陷其中，几秒一个反转的情节拉满爽感，但放下手机，只剩一片更大的空虚。“明知该挣脱，偏",
-     "source": "虎嗅",
-     "zh": "00后“戒断”AI短剧：一个月卸载了5次"
     },
     {
      "title": "【钛晨报】中央重磅部署19项举措，新质生产力发展路径明确；证监会发文，权益类基金成立门槛拟降至5000万元；浙商大佬俞发祥遭立案，两家A股公司回应",
@@ -1785,28 +1841,12 @@
      "zh": "“尊界V800踏板支架断裂”事件后，门店销售称客流少了但无人退车，“目前跟我们说的是会升级”，专家建议排查供应商、检测与安装环节"
     },
     {
-     "title": "微软推出 Microsoft-Decision-1 决策模型，基于 Qwen3.5-9B",
-     "link": "https://www.ithome.com/1/011/166.htm",
-     "pubDate": "Fri, 09 Oct 2026 23:12:53 GMT",
-     "summary": "IT之家 10 月 10 日消息，当地时间 10 月 9 日，微软宣布推出 Microsoft-Decision-1 决策模型。 官方表示，该模型专为结构化决策任务打造，在响应延迟与决策质量上均具备顶尖性能，其实际表现全面超越大语言模型及其他传统决策模型。该模型现已上线 Microsoft Foundry ，并同步接入 OpenRouter 。 在包含 36 项基准测试、涵盖近 15 万个训练阶段完全隔离（Blind Evaluation）的测试内容的对比评测中， Microsoft-Decision-1 斩获了最高准确率 。 同时， 基准测试数据显示其响应速度位列第一 ：比排名次席的 Quy",
-     "source": "IT之家",
-     "zh": "微软推出 Microsoft-Decision-1 决策模型，基于 Qwen3.5-9B"
-    },
-    {
      "title": "Trump admin says it&apos;s now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents (Axios)",
      "link": "https://www.techmeme.com/261009/p29#a261009p29",
      "pubDate": "Fri, 09 Oct 2026 19:05:01 -0400",
      "summary": "Axios : Trump admin says it's now mandating AI companies &ldquo;immediately disclose incidents involving their models&rdquo; and move swiftly to remedy harm from security incidents &nbsp; &mdash;&nbsp; Trump administration officials say they are now mandating that AI companies notify and correct sec",
      "source": "Techmeme",
      "zh": "Trump admin says it&apos;s now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents (Axios)"
-    },
-    {
-     "title": "部分用户反馈谷歌 Gboard 输入法 Shift 键失灵，导致无法输入大写字母",
-     "link": "https://www.ithome.com/1/011/165.htm",
-     "pubDate": "Fri, 09 Oct 2026 23:04:16 GMT",
-     "summary": "IT之家 10 月 10 日消息，科技媒体 Android Authority 昨日（10 月 9 日）发布博文， 报道称部分用户报告谷歌 Gboard 输入法 Shift 键突然失灵，导致无法手动输入大写字母。 IT之家附上用户反馈相关截图如下： 问题表现方面，用户按下 Shift 键后，Gboard 输入法不再切换大小写，用户无法手动输入大写字母。在受影响机型方面，根据目前用户反馈的情况，主要集中在 Pixel 系列手机和小米手机上，但其他品牌的设备也可能受到影响。 临时修复方案上，用户强制停止 Gboard、清除应用缓存、重启手机或切换键盘布局等操作，都可以暂时恢复 Shift 按键。不",
-     "source": "IT之家",
-     "zh": "部分用户反馈谷歌 Gboard 输入法 Shift 键失灵，导致无法输入大写字母"
     },
     {
      "title": "Neanderthal wooden tools from Spain found preserved in stone",
@@ -1833,14 +1873,6 @@
      "zh": "A man US authorities called a \"fixer\", who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty (Bob Van Voris/Bloomberg)"
     },
     {
-     "title": "多智能体时代的管理架构与思维",
-     "link": "https://www.huxiu.com/article/4896301.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 06:11:24 +0800",
-     "summary": "本文来自微信公众号： 清华管理评论 ，责编：刘永选，作者：戴维奇 等 2026年被称为“企业多智能体上岗元年”，全新管理范式开启。范式转移伴随旧秩序失灵、新秩序阵痛。多智能体时代的管理挑战，源于传统“管人”范式与新型“人机混合体”管理对象的根本性错配。破解之道，不在于修补旧方法，而在于发起一场从底层逻辑出发的管理思想革命，适配新时代、驾驭新变革、创造新价值。 想象这样一个场景：在一家高端珠宝店，店长正在接待顾客。店长佩戴的耳麦里，传来温和的提示音——这不是远程同事，而是珠宝店部署的“快思考”智能体（AI Agent）。它通过实时语音识别，分析店长与顾客的对话，瞬间结合后台商品库存情况，为店长传",
-     "source": "虎嗅",
-     "zh": "多智能体时代的管理架构与思维"
-    },
-    {
      "title": "Long live the mechanical keyboard",
      "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
      "pubDate": "Fri, 09 Oct 2026 22:08:24 +0000",
@@ -1852,7 +1884,7 @@
      "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
      "link": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
      "pubDate": "Fri, 09 Oct 2026 22:05:53 +0000",
-     "summary": "Article URL: https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344 Comments URL: https://news.ycombinator.com/item?id=50027167 Points: 12 # Comments: 3",
+     "summary": "Article URL: https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344 Comments URL: https://news.ycombinator.com/item?id=50027167 Points: 19 # Comments: 4",
      "source": "Hacker News",
      "zh": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen"
     },
@@ -1884,7 +1916,7 @@
      "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
      "link": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
      "pubDate": "Fri, 09 Oct 2026 21:25:09 +0000",
-     "summary": "Article URL: https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/ Comments URL: https://news.ycombinator.com/item?id=50026734 Points: 19 # Comments: 2",
+     "summary": "Article URL: https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/ Comments URL: https://news.ycombinator.com/item?id=50026734 Points: 21 # Comments: 2",
      "source": "Hacker News",
      "zh": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof"
     },
@@ -1897,18 +1929,10 @@
      "zh": "Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)"
     },
     {
-     "title": "Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it \"feels like Opus 5.5\" (Hugh Langley/Business Insider)",
-     "link": "https://www.techmeme.com/261009/p25#a261009p25",
-     "pubDate": "Fri, 09 Oct 2026 17:16:18 -0400",
-     "summary": "Hugh Langley / Business Insider : Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it &ldquo;feels like Opus 5.5&rdquo; &nbsp; &mdash;&nbsp; As Google prepares to roll out its new Gemini 4 &lsquo;Argon&rsquo; model ",
-     "source": "Techmeme",
-     "zh": "Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it \"feels like Opus 5.5\" (Hugh Langley/Business Insider)"
-    },
-    {
      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
      "pubDate": "Fri, 09 Oct 2026 21:06:59 +0000",
-     "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 310 # Comments: 160",
+     "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 321 # Comments: 169",
      "source": "Hacker News",
      "zh": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops"
     },
@@ -1919,14 +1943,6 @@
      "summary": "Before the lava fountains started, the ground was expanding by half a meter a day.",
      "source": "Ars Technica",
      "zh": "What's been driving Hawaii's lava fountains?"
-    },
-    {
-     "title": "Sources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M (Rebecca Torrence/Bloomberg)",
-     "link": "https://www.techmeme.com/261009/p24#a261009p24",
-     "pubDate": "Fri, 09 Oct 2026 16:50:01 -0400",
-     "summary": "Rebecca Torrence / Bloomberg : Sources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M &nbsp; &mdash;&nbsp; Fintech startup Ramp has reached a roughly $60 billion valuation with its latest fundraising effort, acc",
-     "source": "Techmeme",
-     "zh": "Sources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M (Rebecca Torrence/Bloomberg)"
     },
     {
      "title": "Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe",
@@ -1940,25 +1956,9 @@
      "title": "No Man Is an Island",
      "link": "https://borretti.me/article/no-man-is-an-island",
      "pubDate": "Fri, 09 Oct 2026 20:04:00 +0000",
-     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 235 # Comments: 132",
+     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 242 # Comments: 140",
      "source": "Hacker News",
      "zh": "No Man Is an Island"
-    },
-    {
-     "title": "AI coding agents generate more code, but not more software",
-     "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-     "pubDate": "Fri, 09 Oct 2026 19:43:50 +0000",
-     "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
-     "source": "Ars Technica",
-     "zh": "AI coding agents generate more code, but not more software"
-    },
-    {
-     "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-     "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-     "pubDate": "Fri, 09 Oct 2026 19:28:49 +0000",
-     "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-     "source": "WIRED",
-     "zh": "Book Publishers Are Quietly Using More AI. Staff Are Revolting"
     }
    ]
   },
@@ -2217,28 +2217,52 @@
    "total": 13,
    "items": [
     {
-     "title": "美国民主党舒默、沙欣、沃伦抨击特朗普与俄罗斯达成的柴油交易",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891650290.html",
-     "pubDate": "Sat, 10 Oct 2026 07:18:04 +0800",
-     "summary": "美国民主党舒默、沙欣、沃伦抨击特朗普与俄罗斯达成的柴油交易。 （文章来源：新浪财经快讯）",
+     "title": "广州酒家：融资净偿还250.27万元，融资余额1.12亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610103891710046.html",
+     "pubDate": "Sat, 10 Oct 2026 07:43:22 +0800",
+     "summary": "交易所最新数据显示，广州酒家于2026年10月9日获融资买入154.02万元，融资偿还404.30万元， 当日融资净偿还250.27万元。 目前，该股融资余额1.12亿，占流通市值比例为1.48%。 该股当日融券卖出2800股，融券偿还100股， 融券净卖出2700股。 目前，该股融券余量13.98万股，融券余额188.96万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承",
      "source": "东方财富股票",
-     "zh": "美国民主党舒默、沙欣、沃伦抨击特朗普与俄罗斯达成的柴油交易"
+     "zh": "广州酒家：融资净偿还250.27万元，融资余额1.12亿元"
     },
     {
-     "title": "智利发布海啸预警 称或影响复活节岛",
-     "link": "http://finance.eastmoney.com/news/11790,202610103891649485.html",
-     "pubDate": "Sat, 10 Oct 2026 07:15:44 +0800",
-     "summary": "智利海军水文和海洋局海啸预警部门10月9日发布公告说，当天巴拿马地震可能引发海啸并影响智利复活节岛。公告显示，海啸预计将于智利当地时间9日22时41分抵达复活节岛，其影响可能长达数小时。 （文章来源：界面新闻）",
+     "title": "望变电气：融资净偿还424.85万元，融资余额2.85亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610103891709947.html",
+     "pubDate": "Sat, 10 Oct 2026 07:43:21 +0800",
+     "summary": "交易所最新数据显示，望变电气于2026年10月9日获融资买入610.94万元，融资偿还1035.79万元， 当日融资净偿还424.85万元。 目前，该股融资余额2.85亿，占流通市值比例为6.55%。 该股当日融券卖出600股，融券偿还3200股， 融券净偿还2600股。 目前，该股融券余量1.41万股，融券余额18.6万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任",
      "source": "东方财富股票",
-     "zh": "智利发布海啸预警 称或影响复活节岛"
+     "zh": "望变电气：融资净偿还424.85万元，融资余额2.85亿元"
     },
     {
-     "title": "巴西参议院议长将缩短每周工作时间的投票安排在10月14日",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891649313.html",
-     "pubDate": "Sat, 10 Oct 2026 07:15:03 +0800",
-     "summary": "巴西参议院议长将缩短每周工作时间的投票安排在10月14日。 （文章来源：新浪财经快讯）",
+     "title": "全柴动力：融资净偿还471.04万元，融资余额2.82亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610103891709289.html",
+     "pubDate": "Sat, 10 Oct 2026 07:43:12 +0800",
+     "summary": "交易所最新数据显示， 全柴动力 于2026年10月9日获融资买入1635.19万元，融资偿还2106.24万元， 当日融资净偿还471.04万元。 目前，该股融资余额2.82亿，占流通市值比例为7.67%。 该股当日融券卖出4100股，融券偿还100股， 融券净卖出4000股。 目前，该股融券余量18.68万股，融券余额157.47万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
      "source": "东方财富股票",
-     "zh": "巴西参议院议长将缩短每周工作时间的投票安排在10月14日"
+     "zh": "全柴动力：融资净偿还471.04万元，融资余额2.82亿元"
+    },
+    {
+     "title": "上工申贝：融资净买入33.99万元，融资余额1.53亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610103891709128.html",
+     "pubDate": "Sat, 10 Oct 2026 07:43:12 +0800",
+     "summary": "交易所最新数据显示， 上工申贝 于2026年10月9日获融资买入1901.84万元，融资偿还1867.85万元， 当日融资净买入33.99万元。 目前，该股融资余额1.53亿，占流通市值比例为3.98%。 该股当日无融券交易。目前，该股融券余量2.51万股，融券余额20.53万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风",
+     "source": "东方财富股票",
+     "zh": "上工申贝：融资净买入33.99万元，融资余额1.53亿元"
+    },
+    {
+     "title": "红四方：融资净偿还221.65万元，融资余额1.18亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610103891708990.html",
+     "pubDate": "Sat, 10 Oct 2026 07:43:10 +0800",
+     "summary": "交易所最新数据显示， 红四方 于2026年10月9日获融资买入2502.09万元，融资偿还2723.74万元， 当日融资净偿还221.65万元。 目前，该股融资余额1.18亿，占流通市值比例为6.81%。 该股当日融券卖出1100股，融券偿还1300股， 融券净偿还200股。 目前，该股融券余量3.63万股，融券余额96.52万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容",
+     "source": "东方财富股票",
+     "zh": "红四方：融资净偿还221.65万元，融资余额1.18亿元"
+    },
+    {
+     "title": "福莱特：融资净偿还89.54万元，融资余额3.22亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610103891708810.html",
+     "pubDate": "Sat, 10 Oct 2026 07:42:59 +0800",
+     "summary": "交易所最新数据显示，福莱特于2026年10月9日获融资买入1043.78万元，融资偿还1133.33万元， 当日融资净偿还89.54万元。 目前，该股融资余额3.22亿，占流通市值比例为1.81%。 该股当日融券卖出3600股，融券偿还5800股， 融券净偿还2200股。 目前，该股融券余量15.75万股，融券余额147.74万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏",
+     "source": "东方财富股票",
+     "zh": "福莱特：融资净偿还89.54万元，融资余额3.22亿元"
     },
     {
      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -2247,14 +2271,6 @@
      "summary": "“Both properties will be solely in his name.”",
      "source": "MarketWatch",
      "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
-    },
-    {
-     "title": "多国人士：日本谋求核潜艇 威胁亚太地区和平稳定",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891649265.html",
-     "pubDate": "Sat, 10 Oct 2026 07:14:33 +0800",
-     "summary": "据日本方面7日消息，日本政府年内修订“安保三文件”，考虑加入“探讨自卫队引进核动力潜艇”相关内容。据悉，如果在“安保三文件”中写明“探讨拥有核潜艇”，将为政府启动相关调查研究创造条件，而后日本政府将就是否拥有核潜艇作出决定。对此，多国人士表示，日本谋求核潜艇，威胁亚太地区和平稳定。 泰国国家研究院泰中战略研究中心副主任唐隆功·吴森提兰谷：日本政府正在考虑修订“安保三文件”，并将核动力潜艇作为强化所谓“威慑能力”的选项之一，这一动向值得国际社会，特别是亚洲国家高度警惕。这已经不仅仅是增加一种军事装备的问题，而是反映出日本近年来不断扩大军事力量，突破战后和平体制的趋势。 马来西亚前 教育 部副部长",
-     "source": "东方财富股票",
-     "zh": "多国人士：日本谋求核潜艇 威胁亚太地区和平稳定"
     },
     {
      "title": "孩子被动物咬伤要不要打狂犬病疫苗",
@@ -2279,14 +2295,6 @@
      "summary": "埃塞俄比亚航空公司当地时间10月9日宣布，从11日起恢复从埃塞首都亚的斯亚贝巴飞往该国北部提格雷州首府默克莱的航班。受当地局势影响，埃塞航空9月23日宣布暂停飞往提格雷地区的默克莱、阿克苏姆和希雷三座城市的航班。 9月23日清晨，当地反政府武装“提格雷人民解放阵线”对阿法尔州和阿姆哈拉州政府军阵地发动“全面进攻”，并接管提格雷地区原先由政府方面控制的机场。近日，埃塞政府军重新夺回对默克莱的控制权，并...",
      "source": "经济观察网",
      "zh": "埃塞航空宣布恢复飞往该国提格雷州首府的航班"
-    },
-    {
-     "title": "中概股普遍上涨 纳斯达克中国金龙指数涨2.69%",
-     "link": "http://hk.eastmoney.com/news/11792,202610103891649092.html",
-     "pubDate": "Sat, 10 Oct 2026 07:10:56 +0800",
-     "summary": "当地时间10月9日，中概股普遍上涨， 纳斯达克 中国金龙指数涨2.69%， 世纪互联 涨近7%， 金山云 、 理想汽车 、 阿里巴巴 、 蔚来 、 腾讯音乐 涨超5%， 亚朵 涨超4%。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "中概股普遍上涨 纳斯达克中国金龙指数涨2.69%"
     },
     {
      "title": "AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”",
@@ -2447,14 +2455,6 @@
      "summary": "美股市场： 美股三大指数10月09日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨423.31点，收于51654.95点，涨幅为0.83%，本周累涨0.93%； 标准普尔 500种股票指数上涨46.18点，收于7811.54点，涨幅为0.59% ，本周累涨1.15% ； 纳斯达克 综合 指数上涨172.83点，收于27366.17点，涨幅为0.64% ，本周累涨0.64 % 。 热门科技股多数上涨， 亚马逊 涨超3%， 微软 、 特斯拉 涨超2%； 苹果 跌超1%，AMD、 英特尔 跌超2%。 有色金属 、加密货币概念股涨幅居前， 南方铜业 涨超5%，Coinbase涨超4%， 必",
      "source": "东方财富资讯",
      "zh": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%"
-    },
-    {
-     "title": "The hazy OpenAI growth metric driving Wall Street",
-     "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 20:57:10 GMT",
-     "summary": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
-     "source": "Financial Times",
-     "zh": "The hazy OpenAI growth metric driving Wall Street"
     }
    ]
   },
@@ -2673,14 +2673,6 @@
      "zh": "A quake on Mars may have set these rocks rolling"
     },
     {
-     "title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
-     "link": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
-     "pubDate": "Wed, 07 Oct 2026 11:00:40 +0000",
-     "summary": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
-     "source": "Ars Technica Science",
-     "zh": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency"
-    },
-    {
      "title": "Planning system ensures a robot’s flight path will remain collision-free",
      "link": "https://news.mit.edu/2026/planning-system-ensures-robots-flight-path-will-remain-collision-free-1007",
      "pubDate": "Wed, 07 Oct 2026 00:00:00 -0400",
@@ -2697,12 +2689,20 @@
      "zh": "Supercomputing researchers document evolution of AI hardware"
     },
     {
-     "title": "It looks like the Atlantic storm season may finally produce a hurricane",
-     "link": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/",
-     "pubDate": "Tue, 06 Oct 2026 19:55:50 +0000",
-     "summary": "To date, this Atlantic tropics year has been exceptionally quiet.",
-     "source": "Ars Technica Science",
-     "zh": "It looks like the Atlantic storm season may finally produce a hurricane"
+     "title": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away",
+     "link": "https://news.mit.edu/2026/astronomers-catch-star-slowly-snacking-on-brown-dwarf-1005",
+     "pubDate": "Mon, 05 Oct 2026 11:00:00 -0400",
+     "summary": "The discovery reveals a new way that stars and planetary companions can interact.",
+     "source": "MIT News",
+     "zh": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away"
+    },
+    {
+     "title": "Is AI the End of Math As We Know It?",
+     "link": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+     "pubDate": "Mon, 05 Oct 2026 13:40:07 +0000",
+     "summary": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.” The post Is AI the End of Math As We Know It? first appeared on Quanta Magazine",
+     "source": "Quanta Magazine",
+     "zh": "Is AI the End of Math As We Know It?"
     }
    ]
   }

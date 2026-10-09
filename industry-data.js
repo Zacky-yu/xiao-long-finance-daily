@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/9 12:11:54",
+ "generated_at": "2026/10/9 12:31:52",
  "recent_days": 7,
  "industries": [
   {
@@ -1498,6 +1498,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
+     "link": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
+     "pubDate": "Fri, 09 Oct 2026 04:12:38 +0000",
+     "summary": "Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted. The post Formula Predicts When AI Chatbots Are at Risk of Turning Bad appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad"
+    },
+    {
      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
      "pubDate": "Thu, 08 Oct 2026 17:42:51 -0400",
@@ -1658,14 +1666,6 @@ window.INDUSTRY_DATA = {
      "zh": "Writing the Next Chapter"
     },
     {
-     "title": "Rein Security Raises $25 Million to Guard AI Agents at Runtime",
-     "link": "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/",
-     "pubDate": "Thu, 08 Oct 2026 11:11:28 +0000",
-     "summary": "The cybersecurity startup will invest in product innovation, agentic research, and employee base expansion. The post Rein Security Raises $25 Million to Guard AI Agents at Runtime appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Rein Security Raises $25 Million to Guard AI Agents at Runtime"
-    },
-    {
      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
      "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
      "pubDate": "Thu, 08 Oct 2026 16:00:00 +0530",
@@ -1706,6 +1706,78 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "当AI走出服务器：马斯克要造芯片，扎克伯格抢细胞",
+     "link": "https://www.huxiu.com/article/4896112.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:22:56 +0800",
+     "summary": "本文来自微信公众号： 资本不熬夜 ，作者：不熬夜研究院 这两天，黄仁勋在中国网友手里，当了一回迈克尔·杰克逊。 一段AI生成的视频，把1992年迈克尔·杰克逊布加勒斯特演唱会上的主角换成了黄仁勋。舞台下面坐着马斯克、库克、奥特曼、阿莫戴、梁文锋等科技公司掌门人，台上的黄仁勋在人群簇拥下完成了一场AI时代的“巡演”。 视频传到海外以后，马斯克转发时评论了一句：“这就是为什么内存这么贵。”后面跟着两个笑哭的表情。 虽说是个玩笑，但却落在了一个并不轻松的现实上。 因为视频利用人工智能技术制作，需要消耗算力和存储资源。而英伟达是人工智能基础设施的主要受益者之一，大量人工智能服务器采购也在影响全球存储器",
+     "source": "虎嗅",
+     "zh": "当AI走出服务器：马斯克要造芯片，扎克伯格抢细胞"
+    },
+    {
+     "title": "短短 10 个月几乎翻倍，AI 模型评测平台 Arena 估值升至 31 亿美元",
+     "link": "https://www.ithome.com/1/010/899.htm",
+     "pubDate": "Fri, 09 Oct 2026 04:22:28 GMT",
+     "summary": "IT之家 10 月 9 日消息，当地时间 8 日，AI 模型评测平台 Arena 竞技场宣布完成 2 亿美元 （IT之家注：现汇率约合 13.43 亿元人民币） B 轮融资， 估值达到 31 亿美元 （现汇率约合 208.17 亿元人民币） 。Arena 最初是加州大学伯克利分校 2023 年的一项研究项目，通过公众投票对 AI 模型进行排名。 Arena 此前披露，今年 6 月的年化营收达到 1 亿美元 （现汇率约合 6.72 亿元人民币） 。 本轮融资由光速创投和 Khosla Ventures 共同领投，Salesforce Ventures、01 Advisors、戴尔科技资本、End",
+     "source": "IT之家",
+     "zh": "短短 10 个月几乎翻倍，AI 模型评测平台 Arena 估值升至 31 亿美元"
+    },
+    {
+     "title": "纯手工黏土定格动画电影《小羊肖恩 3 怪兽来袭》定档 10 月 24 日内地上映，全片超 10 万帧定格画面",
+     "link": "https://www.ithome.com/1/010/898.htm",
+     "pubDate": "Fri, 09 Oct 2026 04:22:20 GMT",
+     "summary": "IT之家 10 月 9 日消息，小羊肖恩官方今日宣布，定格动画电影《小羊肖恩 3 怪兽来袭》定档 10 月 24 日内地上映。 据介绍，该动画电影由纯手工黏土定格制作，全片超过 10 万帧定格画面。该片已在今年 9 月于英国、北美上映。 IT之家附剧情简介： 青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
+     "source": "IT之家",
+     "zh": "纯手工黏土定格动画电影《小羊肖恩 3 怪兽来袭》定档 10 月 24 日内地上映，全片超 10 万帧定格画面"
+    },
+    {
+     "title": "OpenAI营收“缩水”200亿美元，带崩全球科技股",
+     "link": "https://www.huxiu.com/article/4896113.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:21:12 +0800",
+     "summary": "本文来自微信公众号： 大橘财经 ，作者：赖家琪 一则关于OpenAI营收数据的最新报道，给火热的美国科技股泼了一瓢冷水。 当地时间10月8日，英国《金融时报》报道称，OpenAI近日向投资者披露，截至9月底，公司年化营收接近500亿美元，明显低于此前市场广泛流传的约700亿美元。 市场已对人工智能（AI）泡沫和安全性持怀疑态度，上述消息传出后，进一步动摇了投资者信心。8日，纳斯达克综合指数跌超1%，英伟达、甲骨文、CoreWeave等纷纷下挫。持有OpenAI 13%股份的日本软银集团9日股价也一度大跌超7%。 从500亿美元到700亿美元，并不意味着OpenAI的实际销售额在短期内蒸发了20",
+     "source": "虎嗅",
+     "zh": "OpenAI营收“缩水”200亿美元，带崩全球科技股"
+    },
+    {
+     "title": "对标苹果 AirPods Max：三星 Galaxy Studio 曝光，时隔 11 年重返头戴式耳机市场",
+     "link": "https://www.ithome.com/1/010/895.htm",
+     "pubDate": "Fri, 09 Oct 2026 04:20:17 GMT",
+     "summary": "IT之家 10 月 9 日消息，消息源 @evowizz 昨日（10 月 8 日）在 X 平台发布推文， 爆料称三星首款头戴式耳机名为 Galaxy Studio，上市后将会和苹果的 AirPods Max 正面竞争。 IT之家查询公开资料，@evowizz 在爆料方面相对不是很活跃，不过他此前曾精准爆料三星首款耳夹式耳机名为 Galaxy Buds On，可信度较高，目前海外 9to5Google、Android Authority 和 Android Headline 等诸多主流安卓媒体已采信跟进报道。 在头戴式耳机方面，三星曾于 2015 年推出 Level Over 与 Level O",
+     "source": "IT之家",
+     "zh": "对标苹果 AirPods Max：三星 Galaxy Studio 曝光，时隔 11 年重返头戴式耳机市场"
+    },
+    {
+     "title": "字节十年并购首次“踩刹车”：14亿元买不来一个支付牌照？",
+     "link": "https://www.huxiu.com/article/4896111.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:18:42 +0800",
+     "summary": "本文来自微信公众号： IT桔子 ，作者：吴梅梅 2026年9月30日，上市公司海联金汇公告一则并不显眼的事项：公司收到天津同融电子商务有限公司发来的《关于终止股权转让协议的函》，解除对旗下支付机构联动优势100%股权转让的交易。 天津同融是抖音体系内的持股平台，持有抖音支付科技有限公司（即原武汉合众易宝）全部股权，也是该交易的收购主体。双方于2024年4月签署协议，约定交易价格为基准对价7.5亿元+交割日调整后净资产对价（合计约14亿元），此举被视为抖音集团意欲补齐银行卡收单牌照、支撑生活服务线下交易场景的关键一役。 但该笔交易在书面协议生效两年半后，以一纸“友好协商”画上了句号。 多数舆论把",
+     "source": "虎嗅",
+     "zh": "字节十年并购首次“踩刹车”：14亿元买不来一个支付牌照？"
+    },
+    {
+     "title": "一脚急刹踩断的踏板，和那条没人当回事的及格线",
+     "link": "https://www.huxiu.com/article/4896110.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:12:58 +0800",
+     "summary": "本文来自微信公众号： 玖峰投研 ，作者：玖峰 这两天有句话被翻出来，说是让车主踩刹车的时候别太用力。第一次看到我以为是谁在抬杠，一查才发现这话有出处，正经写在文件里。 事情得从10月8日说起。那天懂车帝发了个测试视频，3台全新的尊界V800，在封闭场地做100公里时速到0的紧急制动，结果3台车的刹车踏板支架，全断了。 第1台是在第3次全力制动的时候断的，第2台撑到了第4次。第3台是为了验证到底是不是偶发专门买的新车，出厂才跑了3公里，第2脚下去就断了。3台车批次不同，可断裂位置一样，断口形态也几乎一致。 有人质疑这是暴力测试，网上还流传过一张截图，上面写着4589N。懂车帝的说法是，那个数是高",
+     "source": "虎嗅",
+     "zh": "一脚急刹踩断的踏板，和那条没人当回事的及格线"
+    },
+    {
+     "title": "黑客松“经济学”",
+     "link": "https://www.huxiu.com/article/4896109.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:09:09 +0800",
+     "summary": "本文来自微信公众号： 镜相工作室 ，编辑：胡苗，作者：镜相作者 上午，会议厅坐满了人。最前排的位置留给领导，后排坐着背着电脑、抱着硬件，从各地赶来的年轻人。主持人报一个名字，台下领导起身，接过话筒开始讲话。 年轻的选手打起了哈欠。会议厅不是他们的主场，他们真正想去的是另一旁的比赛场地。那里已经一张张排开了桌子，拉好了电源。赞助商的展台也布置好了。桌面上摞着一沓沓校招宣传册，旁边是宣传产品的易拉宝。 这是一场黑客松（Hackathon）——一群人聚在一起，在几十个小时内把想法做成一个能跑的demo。这样的活动在各地落地时，常被冠上本地的名字：南京的叫“南客松”，贵阳的叫“贵客松”，名字不同，玩法",
+     "source": "虎嗅",
+     "zh": "黑客松“经济学”"
+    },
+    {
+     "title": "从火山灰到“火山之子”，喀拉喀托的诞生与重生",
+     "link": "https://www.huxiu.com/article/4896108.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:08:48 +0800",
+     "summary": "本文来自微信公众号： 果壳 ，作者：豆腐炒大炮，编辑：悲催的铊宝宝 2026年9月4日晚上11点07分，巽他海峡中央的喀拉喀托之子火山开始持续喷发。黑暗中，火山口不断喷射出红亮的熔岩，就像红色的喷泉。 这座火山持续喷发长达25小时，高达15千米的火山灰柱遮天蔽日，导致机场关闭、上千个航班延误，超过30万名旅客受到影响。 2026年9月5日，卫星拍摄到喀拉喀托之子火山冒出滚滚浓烟|NASA 致命火山 喀拉喀托之子火山位于印度尼西亚巽他海峡，这里自古以来就不太平。 在东南亚古国爪哇国的史书里，记载了公元416年的一次火山喷发。当时多处山体传来巨响，一座火山喷出冲天的熊熊烈火，伴随着猛烈的雷鸣和风暴",
+     "source": "虎嗅",
+     "zh": "从火山灰到“火山之子”，喀拉喀托的诞生与重生"
+    },
+    {
      "title": "消息称 OPPO 阔直板工程机是标准 16:9：LIPO 极窄四等边设计，目测边框 1mm±",
      "link": "https://www.ithome.com/1/010/872.htm",
      "pubDate": "Fri, 09 Oct 2026 04:08:30 GMT",
@@ -1738,76 +1810,12 @@ window.INDUSTRY_DATA = {
      "zh": "央视曝光锂电池代加工骗局：号称在家月入过万，但一分加工费都拿不到"
     },
     {
-     "title": "《三税：中国零售三十年的成本暗线》",
-     "link": "https://www.huxiu.com/article/4896104.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 11:59:35 +0800",
-     "summary": "本文来自微信公众号： 零售共生笔记 ，作者：零售共生笔记 一、引言 二十多年前的一个夏天，我揣着两份协议走出广州太平洋电脑城——一份租赁合同，一份20万店铺转让费协议。那时候，我不知道什么叫”信息权力”，只知道谁占了好位置，谁就能向上下游收租。那时候，全国职工月均工资才一千出头，20万相当于普通职工十多年左右工资，我感觉这个世界疯了。 十年前，我帮一家连续亏损的小型冷冻企业扭亏。第一个”双十一”深夜，运营小哥拿着竞品数据和费用账单问我：要不要加大直通车投入？我看着已经烧掉的推广费、销售进度、仓库库存，认命般地点了头。那一刻我仿佛又回到了电脑城门口——只是对面的胖子换成了屏幕上的数字，白花花的银",
-     "source": "虎嗅",
-     "zh": "《三税：中国零售三十年的成本暗线》"
-    },
-    {
-     "title": "G3033 奎独库高速关键控制性隧道主体施工启动，全线建成后天山南北将实现全年全天候通行",
-     "link": "https://www.ithome.com/1/010/859.htm",
-     "pubDate": "Fri, 09 Oct 2026 03:56:26 GMT",
-     "summary": "IT之家 10 月 9 日消息，据央视新闻报道，今天（10 月 9 日），G3033 奎屯至独山子至库车高速公路取得重要进展。全线关键控制性工程克扎依隧道、玉希莫勒盖隧道顺利进洞作业，隧道主体施工正式启动。 IT之家注：G3033 奎独库高速线路起自奎屯市，连接 G30 连霍高速，途经独山子、乌苏、尼勒克、新源、和静、库车等地，终至库车市，连接 G3012 吐和高速，按双向四车道高速公路标准建设，全长约 393 公里。 是目前国内在建公路工程项目中单体投资最大、技术难度最高的高速公路工程 。 G3033 奎独库高速全线建成后， 天山南北将实现全年全天候通行，通行时间有望由约 14 小时缩短至 ",
-     "source": "IT之家",
-     "zh": "G3033 奎独库高速关键控制性隧道主体施工启动，全线建成后天山南北将实现全年全天候通行"
-    },
-    {
-     "title": "波士顿动力，等来救兵？",
-     "link": "https://www.huxiu.com/article/4895692.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 11:54:55 +0800",
-     "summary": "出品｜虎嗅科技组 作者｜易玉琴 编辑｜苗正卿 头图｜波士顿动力 波士顿动力把新一任CEO的位置，交给了一位AI老将。 美国当地时间10月6日，波士顿动力宣布，前亚马逊高级副总裁罗希特&middot;普拉萨德（Rohit Prasad）出任CEO，任命于10月7日生效。 罗希特&middot;普拉萨德 (Rohit Prasad)&nbsp; 普拉萨德在亚马逊工作了12年，曾担任Alexa和通用人工智能首席科学家，早期参与将Alexa从研发项目推向消费市场，此后又负责Amazon Nova基础模型家族。 在任命公告中，波士顿动力多次提到一个关键词：商业化。公司希望借助普拉萨德在AI产品化和规模化",
-     "source": "虎嗅",
-     "zh": "波士顿动力，等来救兵？"
-    },
-    {
-     "title": "小米集团盘中股价最高涨超 9%，澎程首月锁单超 7 万台",
-     "link": "https://www.ithome.com/1/010/858.htm",
-     "pubDate": "Fri, 09 Oct 2026 03:52:57 GMT",
-     "summary": "IT之家 10 月 9 日消息，小米集团今日盘中股价暴涨， 港股股价一度涨超 9% 。截至IT之家发稿，小米集团涨 7.27%，报 25.38 港元/ 股。 消息面上，小米汽车 10 月 8 日晚汇报了小米澎程首销月锁单进展： 9 月 7 日 ~10 月 7 日，上市 30 天，小米澎程锁单已超过 7 万台 。 小米汽车副总裁李肖爽曾表示，小米澎程这台车热度非常高，销量也非常好。但小米只公布了一次锁单的数字， 就是澎程系列 4 分钟锁单突破 1 万台 。以后小米汽车新车的订单，只公布第一波的锁单数据，和首销第一个月的数据。",
-     "source": "IT之家",
-     "zh": "小米集团盘中股价最高涨超 9%，澎程首月锁单超 7 万台"
-    },
-    {
-     "title": "一条铁路如何让老挝“解锁”？我坐火车去看了看",
-     "link": "https://www.huxiu.com/article/4896102.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 11:47:36 +0800",
-     "summary": "本文来自微信公众号： 底线思维 ，作者：郝诗楠 根据联合国大会的决议，如果一切顺利，今年11月24日老挝就将正式从“最不发达国家”（LDC）的名单中“毕业”。在这个节点上，趁着国庆假期，我决定坐一趟中老铁路从昆明去万象，看看这个神秘的内陆国“毕业”前的样子。 穿越国门与穿山越岭 说实话，自从国内高铁网铺开后，我已经很多年没有坐过十小时的火车了。昆明到万象的直线距离并不算太远，中老铁路全长1035公里；但是，这条铁路为客货共线铁路，全程设计时速只有160公里，相当于目前中国铁路Ⅰ级标准里的“普速”。 如果从中国境内出发，车票可以直接在12306的App上购买，然后去车站窗口换纸质票从中老铁路的专",
-     "source": "虎嗅",
-     "zh": "一条铁路如何让老挝“解锁”？我坐火车去看了看"
-    },
-    {
-     "title": "世一难当：海外AI供应链里，中企的三重困局",
-     "link": "https://www.huxiu.com/article/4896101.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 11:47:32 +0800",
-     "summary": "本文来自微信公众号： 底线思维 ，作者：世界科先声 “美国的芯，韩国的存，中国的光。” 这句曾在全球AI硬件版图上流传的概括，像一张分工表，也像一顶提前加冕的王冠。可当AI集群不断膨胀，光互连逐渐从配套环节走到基础设施的前台，这束“中国的光”便不再只接受市场的检验。 在AI数据中心里，光模块负责光信号与电信号之间的转换。一只光模块出厂前，要闯过许多道关：发射功率、接收灵敏度、误码率、温度适应性……每一项都有明确指标。对长期向海外客户供货的中国企业来说，这些都是熟悉的技术门槛。如今，产品面前又多了一道关卡。它是否打开、如何打开，越来越取决于华盛顿的考量。 2025年全球光模块市场，中际旭创占比约",
-     "source": "虎嗅",
-     "zh": "世一难当：海外AI供应链里，中企的三重困局"
-    },
-    {
-     "title": "小米米家石墨烯暖风机 Pro 开售：2 米送暖半径、80° 广角摆风，399 元",
-     "link": "https://www.ithome.com/1/010/857.htm",
-     "pubDate": "Fri, 09 Oct 2026 03:46:38 GMT",
-     "summary": "IT之家 10 月 9 日消息，小米米家石墨烯暖风机 Pro 现已全渠道开售。新品到手价 399 元，补贴到手价 359.1 元。 该产品搭载 310mm PTC 陶瓷发热体，可在 10 分钟内让房间快速升温 7°C，适用面积 15-27m²。支持定向调节立体送暖，采用低风阻发热体，日常使用轻音不打扰。 新品支持 2 米远距离环抱式送暖、80° 广角摆风，支持 120° 上下送暖角度，支持 2200W 大功率速热，配备高动力送风系统；支持小米澎湃智联，可通过米家 App 与各种智能家居联动。 IT之家附这款新品详细参数如下： 京东 小米米家石墨烯暖风机 Pro 券后 359.1 元 领 0.9",
-     "source": "IT之家",
-     "zh": "小米米家石墨烯暖风机 Pro 开售：2 米送暖半径、80° 广角摆风，399 元"
-    },
-    {
-     "title": "0.5克定义无糖后却找出21克糖，这场文字游戏值600亿",
-     "link": "https://www.huxiu.com/article/4896098.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 11:37:52 +0800",
-     "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 10月某天，三名消费者把一纸诉状递进了西雅图的华盛顿西区联邦地区法院。 被告是星巴克，争议标的不是咖啡豆，是8款名字里写着“无糖”的蛋白饮料。 诉状称，这些饮品大杯装每份含糖13至21克，约相当于大半罐可乐。 星巴克的解释是：制作过程中没有额外加糖，糖来自牛奶里天然存在的乳糖。 这套说法在技术上站得住，在法律上未必。 谁有资格定义“无糖”，是企业，是标准，还是掏钱的那个人？ ⑴一杯无糖饮料里的21克糖 诉状点名了8款产品：无糖香草蛋白拿铁、无糖焦糖蛋白拿铁、无糖香草蛋白抹茶、无糖焦糖蛋白抹茶，以及各自的冰饮版本。 这批饮品2025年9月上市，是星",
-     "source": "虎嗅",
-     "zh": "0.5克定义无糖后却找出21克糖，这场文字游戏值600亿"
-    },
-    {
-     "title": "全是小众品牌？人形机器人还要继续赛马",
-     "link": "https://www.huxiu.com/article/4896097.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 11:34:25 +0800",
-     "summary": "本文来自微信公众号： 冯伟冯大白 人形机器人火到爆，但是为什么还没跑出真正意义上的消费级大牌？ Counterpoint Research数据显示，2026年上半年，全球人形机器人出货量超过2.2万台。同一统计口径下，智元约9700台，份额超过43%；宇树超过7000台，份额约31%；智元、宇树、银河通用、优必选、乐聚前五家合计占到约86%。宇树2025年人形机器人销量5215台、出货量5511台，相关收入约8.68亿元，人形机器人已经超过四足机器人成为其最大的收入业务。 相比几年前主要靠融资、概念和发布会维持热度的阶段，人形机器人头部企业形成了真实销量、收入和市场位置，也拥有越来越鲜明的产品",
-     "source": "虎嗅",
-     "zh": "全是小众品牌？人形机器人还要继续赛马"
+     "title": "独家｜深圳DiffuSpace5亿元融资刷新全球扩散语言模型融资纪录，华为、地平线押注其中",
+     "link": "https://www.tmtpost.com/8162358.html",
+     "pubDate": "Fri, 09 Oct 2026 12:03:45 +0800",
+     "summary": "从实验室走出的DiffuSpace，希望把一条曾经“非共识”的技术路线推向工程化与产业化前沿，未来扩散语言模型能否大规模应用，2026年或是一个关键的时间窗口。",
+     "source": "钛媒体",
+     "zh": "独家｜深圳DiffuSpace5亿元融资刷新全球扩散语言模型融资纪录，华为、地平线押注其中"
     },
     {
      "title": "Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power",
@@ -1853,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Keyboard differences between Windows and Macs",
      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
      "pubDate": "Fri, 09 Oct 2026 03:08:05 +0000",
-     "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 19 # Comments: 12",
+     "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 27 # Comments: 20",
      "source": "Hacker News",
      "zh": "Keyboard differences between Windows and Macs"
     },
@@ -1866,18 +1874,10 @@ window.INDUSTRY_DATA = {
      "zh": "8000亿“准财政”开闸，天顺风能抢到2.29亿，但风电的苦日子还没到头"
     },
     {
-     "title": "安踏收购彪马：第一大股东不等于控制权，非控制性整合怎么走",
-     "link": "https://www.tmtpost.com/8161758.html",
-     "pubDate": "Fri, 09 Oct 2026 11:06:52 +0800",
-     "summary": "安踏、彪马、非控制性整合、监事会、第一大股东、组织整合、中台输出、德国共决制、治理边界。",
-     "source": "钛媒体",
-     "zh": "安踏收购彪马：第一大股东不等于控制权，非控制性整合怎么走"
-    },
-    {
      "title": "What should we tell our students?",
      "link": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
      "pubDate": "Fri, 09 Oct 2026 02:27:45 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/ Comments URL: https://news.ycombinator.com/item?id=50015236 Points: 58 # Comments: 51",
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/ Comments URL: https://news.ycombinator.com/item?id=50015236 Points: 62 # Comments: 54",
      "source": "Hacker News",
      "zh": "What should we tell our students?"
     },
@@ -1893,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Reducing undefined behavior in the C language",
      "link": "https://lwn.net/Articles/1095811/",
      "pubDate": "Fri, 09 Oct 2026 02:02:53 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 39 # Comments: 18",
+     "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 44 # Comments: 22",
      "source": "Hacker News",
      "zh": "Reducing undefined behavior in the C language"
     },
@@ -1933,17 +1933,17 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
      "link": "https://github.com/edrisranjbar/lifeos",
      "pubDate": "Fri, 09 Oct 2026 00:02:19 +0000",
-     "summary": "Article URL: https://github.com/edrisranjbar/lifeos Comments URL: https://news.ycombinator.com/item?id=50014150 Points: 27 # Comments: 5",
+     "summary": "Article URL: https://github.com/edrisranjbar/lifeos Comments URL: https://news.ycombinator.com/item?id=50014150 Points: 28 # Comments: 6",
      "source": "Hacker News",
      "zh": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI"
     },
     {
-     "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
-     "link": "https://svg-spark.vercel.app/",
-     "pubDate": "Thu, 08 Oct 2026 23:32:49 +0000",
-     "summary": "Article URL: https://svg-spark.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50013931 Points: 35 # Comments: 6",
+     "title": "Bevy 0.20",
+     "link": "https://bevy.org/news/bevy-0-20/",
+     "pubDate": "Thu, 08 Oct 2026 22:57:50 +0000",
+     "summary": "Article URL: https://bevy.org/news/bevy-0-20/ Comments URL: https://news.ycombinator.com/item?id=50013610 Points: 95 # Comments: 17",
      "source": "Hacker News",
-     "zh": "Show HN: SVG Spark – 10 client-side SVG design and dev tools"
+     "zh": "Bevy 0.20"
     }
    ]
   },
@@ -2202,6 +2202,134 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Nvidia-backed AI firm Firmus cancels historic $5B IPO",
+     "link": "https://seekingalpha.com/news/4651632-nvidia-backed-ai-firm-firmus-cancels-historic-5b-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 00:23:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia-backed AI firm Firmus cancels historic $5B IPO"
+    },
+    {
+     "title": "名创优品：10月8日斥资23.53万美元回购10.50万股",
+     "link": "http://finance.eastmoney.com/news/1354,202610093891022425.html",
+     "pubDate": "Fri, 09 Oct 2026 12:14:30 +0800",
+     "summary": "南财智讯10月9日电， 名创优品 （09896.HK）发布翌日披露报表，10月8日，公司于纽约证券交易所回购10.50万股，每股回购最高价为2.26美元，最低价为2.23美元，付出的总代价为23.53万美元。本次回购股份拟注销。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "名创优品：10月8日斥资23.53万美元回购10.50万股"
+    },
+    {
+     "title": "国内商品期市早盘收盘涨多跌少 甲醇涨近7%",
+     "link": "http://www.eeo.com.cn/2026/1009/1058232.shtml",
+     "pubDate": "Fri, 09 Oct 2026 12:13:13 +0800",
+     "summary": "据Choice数据，10月9日，国内商品期市早盘收盘主力合约涨多跌少，截至11:30，甲醇涨近7%，焦煤涨超4%，液化石油气、塑料、聚丙烯等涨超3%，焦炭、生猪等涨超2%，纯苯、钯、铂、锰硅等涨超1%。跌幅方面，沪锡、乙二醇跌超4%，沥青跌超3%，集运指数（欧线）、胶版印刷纸跌超2%，尿素、碳酸锂、铁矿石、多晶硅、原油等跌超1%。",
+     "source": "经济观察网",
+     "zh": "国内商品期市早盘收盘涨多跌少 甲醇涨近7%"
+    },
+    {
+     "title": "聚焦硬核科技，华南理工大学集中揭牌一批新型教学科研机构",
+     "link": "http://www.eeo.com.cn/2026/1009/1058231.shtml",
+     "pubDate": "Fri, 09 Oct 2026 12:13:11 +0800",
+     "summary": "南方财经记者伍素文 实习生陈苑淇 10月8日下午，华南理工大学新型教学科研机构成立大会暨揭牌仪式在五山校区逸夫科学馆举行。会上，能源学院、科技商学院、交叉学科研究院和重点学科群集中成立揭牌。 此次一批新型教学科研机构成立揭牌，是该校融入国家战略布局、服务支撑广东“走在前列”的关键落子。会上，华南理工大学校长、中国工程院院士杨中民宣读能源学院、科技商学院、交叉学科研究院及重点学科群成立文...",
+     "source": "经济观察网",
+     "zh": "聚焦硬核科技，华南理工大学集中揭牌一批新型教学科研机构"
+    },
+    {
+     "title": "事关外卖骑手、网约车司机、主播！新就业形态劳动者权益新规来了",
+     "link": "http://www.eeo.com.cn/2026/1009/1058230.shtml",
+     "pubDate": "Fri, 09 Oct 2026 12:13:10 +0800",
+     "summary": "所有外卖员、网约车司机、带货主播，新规来了！今后大家跑单、接单、直播的工作权益，终于有官方统一兜底保障了。 10月8日，人社部最新发布新规征求意见稿，首次把不完全符合劳动关系的平台劳动者正式纳入法律保障范围，让他们再也不是“用工黑户”！ 新规干货满满，每一条都直击痛点。首先是薪资和工时兜底，明确劳动报酬不得低于当地最低工资标准标准，连续工作满四小时必须安排休息，在法定节假日、恶劣天气期间...",
+     "source": "经济观察网",
+     "zh": "事关外卖骑手、网约车司机、主播！新就业形态劳动者权益新规来了"
+    },
+    {
+     "title": "A股午评：超4300只个股飘绿，三大指数集体收跌；电子元器件领跌，通信设备、半导体重挫；锂电池概念逆市走强，煤炭、贵金属、农业上涨",
+     "link": "http://www.eeo.com.cn/2026/1009/1058229.shtml",
+     "pubDate": "Fri, 09 Oct 2026 12:13:08 +0800",
+     "summary": "中新经纬10月9日电 9日，A股三大指数集体走低。截至午间收盘，沪指跌1.21%，深证成指跌2.09%，创业板指跌2.61%。科创50跌3.78%。 全市半日成交额1.18万亿元，超4300只个股下跌。 盘面上，电子元器件领跌，PCB概念股集体大跌；通信设备、半导体重挫，能源设备、电脑硬件、建材、教育、互联网、航天军工、生物科技、房地产等多数板块下跌。 锂电池概念股逆市走强，煤炭、贵金属、农业、酒类等板块上涨。(中新经...",
+     "source": "经济观察网",
+     "zh": "A股午评：超4300只个股飘绿，三大指数集体收跌；电子元器件领跌，通信设备、半导体重挫；锂电池概念逆市走强，煤炭、贵金属、农业上涨"
+    },
+    {
+     "title": "A股开盘：近3000只个股飘绿，三大指数集体低开；通信设备、半导体下跌；海运、油气上涨",
+     "link": "http://www.eeo.com.cn/2026/1009/1058228.shtml",
+     "pubDate": "Fri, 09 Oct 2026 12:13:04 +0800",
+     "summary": "中新经纬10月9日电 9日，A股三大指数集体低开。Wind数据显示，上证指数低开0.21%，深证成指低开0.51%，创业板指低开0.50%。近3000只个股下跌。 板块方面，通信设备、半导体、电子元器件等跌幅居前。海运、油气、贵金属等上涨。(中新经纬APP) 编辑：李晓萱 责编：薛宇飞",
+     "source": "经济观察网",
+     "zh": "A股开盘：近3000只个股飘绿，三大指数集体低开；通信设备、半导体下跌；海运、油气上涨"
+    },
+    {
+     "title": "股市午报：A股震荡走低，沪指跌超1%！江淮汽车，再度跌停",
+     "link": "http://finance.eastmoney.com/news/1354,202610093891022342.html",
+     "pubDate": "Fri, 09 Oct 2026 12:12:44 +0800",
+     "summary": "今日，A股三大指数震荡走低，截至午间收盘，沪指跌1.21%，深证成指跌2.09%，创业板指跌2.61%。 全市场约4400只个股下跌，半日成交额逾1.1万亿元。 盘面上， 粮食概念 活跃， 金健米业 等涨停； 电池 板块走强， 丰元股份 、 雄韬股份 2连板。另外， 煤炭 、 贵金属 、证券等板块涨幅居前； MLCC 概念、 PCB 概念、 元件 、 半导体 等板块跌幅居前。 继昨日跌停后， 江淮汽车 今天上午再度跌停。 10月8日，“尊界V800刹车踏板支架断裂”相关话题冲上 微博 热搜，受此消息影响， 江淮汽车 股价跌停。 8日晚间，尊界 汽车 官方 微博 发布关于尊界 汽车 制动踏板支架",
+     "source": "东方财富股票",
+     "zh": "股市午报：A股震荡走低，沪指跌超1%！江淮汽车，再度跌停"
+    },
+    {
+     "title": "OpenAI reportedly targets $70B annualized revenue by end of 2026",
+     "link": "https://seekingalpha.com/news/4651628-openai-reportedly-targets-70b-annualized-revenue-by-end-of-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 00:12:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "OpenAI reportedly targets $70B annualized revenue by end of 2026"
+    },
+    {
+     "title": "&apos;Real boss of India?&apos;: Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
+     "link": "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html",
+     "pubDate": "Fri, 09 Oct 2026 04:11:59 GMT",
+     "summary": "Musk claimed Starlink was not being allowed to launch in India despite spending five years complying with every single law and requirement of the government.",
+     "source": "CNBC",
+     "zh": "&apos;Real boss of India?&apos;: Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls"
+    },
+    {
+     "title": "完善公司全球化战略布局，泰晶科技拟投4000万美元越南建厂，股价年内涨超80%",
+     "link": "http://finance.eastmoney.com/news/1354,202610093891022658.html",
+     "pubDate": "Fri, 09 Oct 2026 12:11:43 +0800",
+     "summary": "10月9日， 泰晶科技 (603738.SH)发布设立境外全资子公司并建设生产基地公告，为进一步完善公司全球化战略布局，快速推动海外业务发展进程，及时响应客户需求，公司拟在越南设立全资子公司并建设生产基地。 公告暂未披露越南工厂的具体产能数值、分阶段投产节奏等细化量化规划，但明确了资金投向框架与产能建设的核心方向。 公告显示，本次总投资额不超过4000万美元（实际投资金额以中国及当地主管部门批准金额为准），均来源于公司的境内自有资金，投资款主要用于设立及运营境外公司、购买土地和厂房、厂房建设、设备采购、流动资金等相关事项。 公司本次拟在越南设立的子公司名为越南 泰科电子 有限公司，注册地址位于",
+     "source": "东方财富股票",
+     "zh": "完善公司全球化战略布局，泰晶科技拟投4000万美元越南建厂，股价年内涨超80%"
+    },
+    {
+     "title": "10月9日港股午盘：恒指涨1.09% 小米集团-W领涨成分股",
+     "link": "http://stock.eastmoney.com/news/11770,202610093891020160.html",
+     "pubDate": "Fri, 09 Oct 2026 12:10:18 +0800",
+     "summary": "港股10月9日午盘走高，恒生指数收报24045.71点，涨259.92点，涨幅1.09%；恒生科技指数收报4136.35点，涨62.97点，涨幅1.55%。恒生指数成分股中 小米集团-W 、 蒙牛乳业 、 宁德时代 涨幅居前， 华虹宏力 、 药明生物 、 中国人寿 跌幅靠前。恒生科技指数成分股中 小米集团-W 、 零跑汽车 、 理想汽车-W 涨幅居前， 天数智芯 、 智谱 、 华虹宏力 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指",
+     "source": "东方财富股票",
+     "zh": "10月9日港股午盘：恒指涨1.09% 小米集团-W领涨成分股"
+    },
+    {
+     "title": "港股午评：恒生指数涨1.09% 恒生科技指数涨1.55%",
+     "link": "http://stock.eastmoney.com/news/11771,202610093891020077.html",
+     "pubDate": "Fri, 09 Oct 2026 12:10:11 +0800",
+     "summary": "港股10月9日午盘走高，恒生指数收报24045.71点，涨259.92点，涨幅1.09%；恒生科技指数收报4136.35点，涨62.97点，涨幅1.55%。恒生指数成分股中 小米集团-W 、 蒙牛乳业 、 宁德时代 涨幅居前， 华虹宏力 、 药明生物 、 中国人寿 跌幅靠前。恒生科技指数成分股中 小米集团-W 、 零跑汽车 、 理想汽车-W 涨幅居前， 天数智芯 、 智谱 、 华虹宏力 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指",
+     "source": "东方财富股票",
+     "zh": "港股午评：恒生指数涨1.09% 恒生科技指数涨1.55%"
+    },
+    {
+     "title": "AI要钱、欧美政府也要钱！全球“资本争夺战”打响，债券风暴才“刚刚开始”",
+     "link": "https://wallstreetcn.com/articles/3783240",
+     "pubDate": "Fri, 09 Oct 2026 12:10:07 +0800",
+     "summary": "过去两年，市场最拥挤的叙事是AI：算力、芯片、数据中心、云服务，所有资产都在围绕人工智能重估。但现在，一个更底层的问题开始浮出水面：AI不只要算力，它还要钱；而且要的是天量、长期、低容错的资本。 与此同时，美国政府、欧洲政府、日本政府，也都在要钱。财政赤字高企、债务滚动再融资、利息支出飙升，正在把全球债券市场推向一个新的阶段： 资本不再廉价，也不再充裕。 这意味着，过去十几年建立在“低利率、充裕流动性、无限融资能力”之上的资本市场逻辑，正在被改写。 真正的风险并不只是某一家AI公司发债成本升高，也不只是美国赤字突破2万亿美元，背后两股巨大的融资需求正在同时挤向同一个市场：一边是AI超级资本开支",
+     "source": "华尔街见闻",
+     "zh": "AI要钱、欧美政府也要钱！全球“资本争夺战”打响，债券风暴才“刚刚开始”"
+    },
+    {
+     "title": "工业用地被有偿收回 新乡化纤部分生产线及子公司星鹭科技停产",
+     "link": "http://finance.eastmoney.com/news/1354,202610093891022134.html",
+     "pubDate": "Fri, 09 Oct 2026 12:09:38 +0800",
+     "summary": "上证报中国证券网讯（记者姚炯）10月9日午间， 新乡化纤 发布公告称，公司位于牧野大道与耿黄大道西北角、面积约98.85亩的工业用地，拟由新乡市凤泉区人民政府有偿收回。首期土地及地上附着物补偿金额合计为5123.34万元，后续将根据拆迁进度、资产处置及验收等情况另行签署相关协议。 鉴于上述土地使用权变更，经公司管理层研究并报董事会审议通过，决定自2026年10月12日起对公司北区生物质纤维素长丝生产线及子公司新乡市星鹭科技有限公司实施停产。 （文章来源：上海证券报·中国证券网）",
+     "source": "东方财富股票",
+     "zh": "工业用地被有偿收回 新乡化纤部分生产线及子公司星鹭科技停产"
+    },
+    {
+     "title": "创业板失守3000点，电池产业链逆势拉升，算力硬件集体下挫，江淮汽车跌停，恒指、恒科指齐涨超1%，小米暴涨7%",
+     "link": "https://wallstreetcn.com/articles/3783237",
+     "pubDate": "Fri, 09 Oct 2026 12:07:10 +0800",
+     "summary": "10月9日，A股A股早盘低开低走，三大指数集体下挫，创业板指跌破3000点整数关口，科创50指数盘中跌超4%；锂电池、固态电池等方向逆势走强，芯片半导体、算力硬件链延续弱势。生物医药板块大跌，CRO、创新药等集体承压。江淮汽车再跌停，此前尊界通报刹车踏板支架断裂，称将进一步优化设计。 港股高开高走，恒指、恒科指双双涨超1%，恒科指一度涨超2%，权重科网股集体反弹，美团、阿里、腾讯纷纷上涨，小米大涨超7%，带动新能源汽车反弹，芯片股承压，华虹宏力、兆易创新、澜起科技等下挫。债市方面，国债期货全线上涨。商品方面，国内商品期货涨跌参半。核心市场走势： A股 ：截至发稿，沪指跌1.21%，深成指跌2.",
+     "source": "华尔街见闻",
+     "zh": "创业板失守3000点，电池产业链逆势拉升，算力硬件集体下挫，江淮汽车跌停，恒指、恒科指齐涨超1%，小米暴涨7%"
+    },
+    {
      "title": "WD-40 declares $1.02 dividend",
      "link": "https://seekingalpha.com/news/4651631-wdminus-40-declares-1_02-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 00:06:28 -0400",
@@ -2210,12 +2338,36 @@ window.INDUSTRY_DATA = {
      "zh": "WD-40 declares $1.02 dividend"
     },
     {
-     "title": "&apos;Real boss of India?&apos;: Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
-     "link": "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html",
-     "pubDate": "Fri, 09 Oct 2026 04:02:13 GMT",
-     "summary": "Musk claimed Starlink was not being allowed to launch in India despite spending five years complying with every single law and requirement of the government.",
-     "source": "CNBC",
-     "zh": "&apos;Real boss of India?&apos;: Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls"
+     "title": "Some much-needed American optimism on Europe",
+     "link": "https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 04:00:32 GMT",
+     "summary": "Siloed national markets, anti-competitive culture and low investment have stunted growth — but the opportunity is there",
+     "source": "Financial Times",
+     "zh": "Some much-needed American optimism on Europe"
+    },
+    {
+     "title": "Five ways to tell if market trouble lies ahead",
+     "link": "https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 04:00:32 GMT",
+     "summary": "The cost of credit default swaps for AI companies looking to borrow is rising",
+     "source": "Financial Times",
+     "zh": "Five ways to tell if market trouble lies ahead"
+    },
+    {
+     "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
+     "link": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 04:00:31 GMT",
+     "summary": "Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets",
+     "source": "Financial Times",
+     "zh": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says"
+    },
+    {
+     "title": "Manchester City, Abu Dhabi and the future of football",
+     "link": "https://www.ft.com/content/bae7f43f-8954-45eb-a470-2cd7fb21a94b?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 04:00:22 GMT",
+     "summary": "The sport is still shaped by the club’s acquisition in 2008",
+     "source": "Financial Times",
+     "zh": "Manchester City, Abu Dhabi and the future of football"
     },
     {
      "title": "Friday’s Economic Calendar",
@@ -2226,30 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "Friday’s Economic Calendar"
     },
     {
-     "title": "保代职业行为新规征意 保代不得通过利益输送等方式“围猎”监管工作人员",
-     "link": "http://finance.eastmoney.com/news/1350,202610093891018759.html",
-     "pubDate": "Fri, 09 Oct 2026 11:57:07 +0800",
-     "summary": "记者获悉，中证协最新起草了《保荐代表人执业行为规范》，并向行业征求意见中。新规要求，保荐代表人在项目申报、审核、注册等过程中，不得与监管工作人员进行任何正常工作沟通之外的私下接触，不得以不正当方式教唆、指使、协助他人干预影响审核，不得通过利益输送、行贿等方式\"围猎\"监管工作人员。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "保代职业行为新规征意 保代不得通过利益输送等方式“围猎”监管工作人员"
-    },
-    {
-     "title": "中证协：保荐机构不得以项目数量、收入规模作为保代唯一考核指标",
-     "link": "http://stock.eastmoney.com/news/11791,202610093891018538.html",
-     "pubDate": "Fri, 09 Oct 2026 11:56:49 +0800",
-     "summary": "保代执业行为迎来全面从严规范。记者获悉，中证协最新起草《保荐代表人执业行为规范》，并向行业征求意见中。新规要求，保荐机构应当建立科学的保荐代表人评价与激励机制， 综合 考量专业胜任能力、执业质量、合规情况、业务收入等各项因素对保荐代表人进行考核，不得以项目数量、收入规模作为唯一考核指标。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "中证协：保荐机构不得以项目数量、收入规模作为保代唯一考核指标"
-    },
-    {
-     "title": "券商投行不得过度包装、炒作“明星保代”",
-     "link": "http://finance.eastmoney.com/news/1354,202610093891018678.html",
-     "pubDate": "Fri, 09 Oct 2026 11:56:31 +0800",
-     "summary": "投行保代执业行为迎来全面从严规范。记者获悉，中证协最新起草了《保荐代表人执业行为规范》，并向行业征求意见中。新规要求，保荐机构应当科学统筹项目分配，合理管控执业负荷，明确保荐代表人的岗位职责与履职规范，设定保荐代表人同时负责的项目上限。保荐机构应当对所有保荐代表人签字的项目执行统一的质量控制标准与程序，不得因保荐代表人的个人声誉、行业影响力等因素放松对其执业行为的监督和约束，不得过度包装、炒作\"明星保荐代表人\"。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "券商投行不得过度包装、炒作“明星保代”"
-    },
-    {
      "title": "大连化物所提出螯合剂介导双电层调控策略 实现直接海水电解制氢",
      "link": "http://www.eeo.com.cn/2026/1009/1058193.shtml",
      "pubDate": "Fri, 09 Oct 2026 11:52:12 +0800",
@@ -2258,76 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "大连化物所提出螯合剂介导双电层调控策略 实现直接海水电解制氢"
     },
     {
-     "title": "【环球财经】巴西前9个月从中国进口汽车数量同比增长逾一倍",
-     "link": "http://www.eeo.com.cn/2026/1009/1058192.shtml",
-     "pubDate": "Fri, 09 Oct 2026 11:52:10 +0800",
-     "summary": "新华财经圣保罗10月8日电（记者杨家和）巴西全国机动车制造商协会（ANFAVEA）7日发布数据显示，今年前9个月，巴西从中国进口汽车25.49万辆，同比增长106.4%，占同期汽车进口总量的约55%。 数据显示，今年1至9...",
-     "source": "经济观察网",
-     "zh": "【环球财经】巴西前9个月从中国进口汽车数量同比增长逾一倍"
-    },
-    {
      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
      "link": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
      "pubDate": "Fri, 09 Oct 2026 03:51:15 GMT",
      "summary": "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.",
      "source": "CNBC",
      "zh": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility"
-    },
-    {
-     "title": "10月9日午间涨停复盘：27股涨停 时代万恒5天5板",
-     "link": "http://stock.eastmoney.com/news/11781,202610093891017851.html",
-     "pubDate": "Fri, 09 Oct 2026 11:49:17 +0800",
-     "summary": "今日午盘沪指 跌 1.21%，深成指 跌 2.09%，创业板指 跌 2.61%，今日午盘大盘成交额1.17万亿，较上个交易日放量628.19亿。 涨停个股数量方面，今日午盘共计27股涨停，另有22只个股盘中一度触及涨停，封板率55.1%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "10月9日午间涨停复盘：27股涨停 时代万恒5天5板"
-    },
-    {
-     "title": "尊界刹车踏板支架断裂风波后，懂车帝测试人员遭遇“短信轰炸”",
-     "link": "http://finance.eastmoney.com/news/1349,202610093891017431.html",
-     "pubDate": "Fri, 09 Oct 2026 11:47:06 +0800",
-     "summary": "10月9日上午消息，尊界V800被曝测试中刹车踏板支架断裂一事发酵后，有 汽车 博主透露，懂车帝 汽车 安全测试负责人东门健男受到了短信轰炸。 懂车帝此前发布的视频显示，其对3台全新尊界V800进行100km/h-0紧急制动测试，3台车在第2至第4脚重刹时，刹车踏板支架均发生物理断裂。视频中的测试人员正是东门健男。 昨日晚间，尊界 汽车 发布声明称，尊界汽车的制动系统，按照高于国家标准（GB 21670-2025 / GB 7258-2026）、高于行业标准（QC/T 788-2018）的要求完成全流程开发与验证。自首批车辆交付以来，在用户实际使用场景中，未发生制动踏板支架底座断裂故障。尊界汽",
-     "source": "东方财富股票",
-     "zh": "尊界刹车踏板支架断裂风波后，懂车帝测试人员遭遇“短信轰炸”"
-    },
-    {
-     "title": "供需矛盾+防御属性凸显！煤炭股持续走强 2026业绩预测高增股来了",
-     "link": "http://finance.eastmoney.com/news/11139,202610093891017538.html",
-     "pubDate": "Fri, 09 Oct 2026 11:46:52 +0800",
-     "summary": "煤炭 板块10月9日早盘逆势走强，板块中 安泰集团 涨停； 广汇能源 、 兖矿能源 、 中国神华 、 中煤能源 、 陕西煤业 等龙头股跟涨。 供需矛盾逐渐显现 在市场人士看来， 煤炭 板块的强势，核心在于自身供需矛盾的强化。从供给来看，当前收缩（反内卷+超产核查）迹象显著。2026年7月起国家能源局对8大主产省开展 煤炭 生产核查、超产停产整改，叠加《矿产资源法》抬高新建矿井门槛，供给弹性被显著抑制。 山西、陕西区域煤矿安全监管力度持续加强，个别矿井低负荷运行，可流通市场煤资源有限，优质煤种紧缺。同时，大秦线自10月7日起开展为期20天检修，日均调入量减少约20万吨，预计影响 港口 煤炭调入约",
-     "source": "东方财富股票",
-     "zh": "供需矛盾+防御属性凸显！煤炭股持续走强 2026业绩预测高增股来了"
-    },
-    {
-     "title": "交强险一年亏230亿元 保费会涨吗？",
-     "link": "http://www.eeo.com.cn/2026/1009/1058178.shtml",
-     "pubDate": "Fri, 09 Oct 2026 11:46:11 +0800",
-     "summary": "交强险干的是公益兜底的事，但按的是商业保险的规则来经营，那么亏损可能是显而易见的情况。不过，既然是国家法定、普惠兜底的民生保障制度，就不能单看账面亏损。",
-     "source": "经济观察网",
-     "zh": "交强险一年亏230亿元 保费会涨吗？"
-    },
-    {
-     "title": "刘云梅当选河源市市长",
-     "link": "http://www.eeo.com.cn/2026/1009/1058168.shtml",
-     "pubDate": "Fri, 09 Oct 2026 11:39:11 +0800",
-     "summary": "中国经济网河源10月9日综合报道 10月8日，广东河源市第八届人民代表大会第八次会议在市会议中心召开。刘云梅当选市人民政府市长；鲁罡当选市监察委员会主任；王芳当选市中级人民法院院长。 刘云梅，女，汉族，1976年3月生，大学、公共管理硕士，中共党员。现任河源市委副书记，市政府党组书记、市长。 党中央各部门 中央社会工作部 中央深改办 中央国安办 中央军民融合办 <p...",
-     "source": "经济观察网",
-     "zh": "刘云梅当选河源市市长"
-    },
-    {
-     "title": "光芯片股大跌，东山精密董事长袁永刚回应“研报冲击”",
-     "link": "http://www.eeo.com.cn/2026/1009/1058149.shtml",
-     "pubDate": "Fri, 09 Oct 2026 11:28:54 +0800",
-     "summary": "袁永刚在成本和原产地上的回应，针对的都是还没有量产的下一代光模块产品。眼下他接触到的客户，更着急的是交付，因为光模块一直处于缺货状态。",
-     "source": "经济观察网",
-     "zh": "光芯片股大跌，东山精密董事长袁永刚回应“研报冲击”"
-    },
-    {
-     "title": "2026诺贝尔文学奖｜安妮·卡森：在“及时止损”的时代，我们还敢爱吗？",
-     "link": "http://www.eeo.com.cn/2026/1009/1058139.shtml",
-     "pubDate": "Fri, 09 Oct 2026 11:21:17 +0800",
-     "summary": "在这个急于为亲密关系开具诊断书的时代，卡森固执地留下那些没有结论的欲望、伤口与空白。她拒绝让文学沦为一间提供情绪抚慰的诊所，而是借由这些古老的碎片，将现代人带回爱欲最原始的困境：爱与怕。",
-     "source": "经济观察网",
-     "zh": "2026诺贝尔文学奖｜安妮·卡森：在“及时止损”的时代，我们还敢爱吗？"
     },
     {
      "title": "Australian data centre operator pulls $5bn IPO",
@@ -2344,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "Investors are overestimating the risk of conflict across the Taiwan Strait, a U.S. diplomat says, playing up deterrence to keep Beijing from taking the island.",
      "source": "CNBC",
      "zh": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk"
-    },
-    {
-     "title": "创业板跌3%失守3000点，算力硬件、生物医药集体下挫，江淮汽车跌停，恒科指涨超1%，科网股反弹",
-     "link": "https://wallstreetcn.com/articles/3783237",
-     "pubDate": "Fri, 09 Oct 2026 10:30:03 +0800",
-     "summary": "10月9日，A股早盘低开，三大股指盘初集体下跌，深成指跌2%，创业板大跌超3%，跌破3000点，为2025年11月以来新低，贵金属、油气、电池产业链等活跃，科创50继续下挫近4%，算力硬件、芯片半导体等科技股集体下挫，覆铜板、电路板等概念股陷入调整，生物医药板块大跌，CRO、创新药等集体承压。江淮汽车早盘跌停，此前尊界通报刹车踏板支架断裂，称将进一步优化设计。 港股高开高走，恒指、恒科指盘初双双涨超1%，权重科网股集体反弹，美团、阿里、腾讯纷纷上涨，芯片股承压，华虹宏力、兆易创新、澜起科技等下挫。债市方面，国债期货全线上涨。商品方面，国内商品期货涨跌不一。核心市场走势： A股 ：截至发稿，沪指",
-     "source": "华尔街见闻",
-     "zh": "创业板跌3%失守3000点，算力硬件、生物医药集体下挫，江淮汽车跌停，恒科指涨超1%，科网股反弹"
     },
     {
      "title": "“尊界V800刹车踏板支架断裂”风波下，江淮汽车再次跌停！官方回应：将免费升级已交付车辆",
@@ -2384,62 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "苹果公司正筹备10月下旬的第二场产品发布会，将推出旗下首款触控屏MacBook，以及搭载OLED屏幕的全新iPad mini。 据彭博报道，此次发布会定于10月27日前后举行，形式与10月13日的智能家居发布会相同——包含线上视频展示及面向媒体的线下体验环节。 这也是新任CEO John Ternus上月接掌苹果后，主导的首批重磅产品发布。 触控MacBook：等了三年，终于来了 新款MacBook Pro代号K114和K116，将是苹果首次在Mac产品线引入触控屏。 彭博早在2023年便率先披露了这一项目。 硬件层面，新机将比现款更轻，屏幕升级为OLED材质，同时引入iPhone用户熟悉的\"",
      "source": "华尔街见闻",
      "zh": "苹果10月双线出击：首款触控MacBook与新iPad mini同步亮相"
-    },
-    {
-     "title": "巨资拿下低频频段，SpaceX进军手机运营商，美国电信股全线重挫",
-     "link": "https://wallstreetcn.com/articles/3783231",
-     "pubDate": "Fri, 09 Oct 2026 08:43:18 +0800",
-     "summary": "SpaceX宣布收购低频无线频谱，正式宣告进军美国移动运营商市场，此举令现有电信巨头股价承压，行业竞争格局面临深刻重塑。 SpaceX周四宣布，已与投资公司Grain Management LLC达成协议，收购一批覆盖全美的800MHz低频段频谱许可证，并计划将其与旗下Starlink卫星网络整合，打造独立的移动运营商业务。SpaceX在官网声明中表示， 这一频谱\"填补了Starlink Mobile成为美国主要移动运营商的最后一块关键拼图\"。首席执行官马斯克在X平台上称此举为\"非常重大的事件\"。 消息公布后，美国主要电信运营商股价在盘后交易中大幅下挫。AT&T跌7.3%，T-Mobile U",
-     "source": "华尔街见闻",
-     "zh": "巨资拿下低频频段，SpaceX进军手机运营商，美国电信股全线重挫"
-    },
-    {
-     "title": "法债是第一个牺牲品，接着是美债？全球感受“日本加息”的效果了吗？",
-     "link": "https://wallstreetcn.com/articles/3783232",
-     "pubDate": "Fri, 09 Oct 2026 08:39:56 +0800",
-     "summary": "法债抛售愈演愈烈，10年期法国国债收益率一度逼近5%，为2002年以来最高，借贷成本已高于希腊和意大利。与此同时，美债收益率攀升至5.28%的数十年高位，即便通胀数据走软也未能阻断抛售。 两场风暴，背后或许都有日本的影子。彭博专栏作家Gearoid Reidy在10月9日的文章中分析称： 两年前，当日本踏上政策正常化之路时，人们问的是日本是否准备好迎接“有利率的世界”。也许我们本该问的是：世界是否准备好迎接“有利率的日本”？ 他认为，法国可能只是第一个牺牲品。 数据显示，截至7月， 日本投资者持有约23万亿日元（1450亿美元）法国国债，是欧元区最大的超配仓位。 但日本10年期国债收益率上月升",
-     "source": "华尔街见闻",
-     "zh": "法债是第一个牺牲品，接着是美债？全球感受“日本加息”的效果了吗？"
-    },
-    {
-     "title": "Lions Bay Capital faces cease trade order over late filings",
-     "link": "https://seekingalpha.com/news/4651626-lions-bay-capital-faces-cease-trade-order-over-late-filings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 20:24:05 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lions Bay Capital faces cease trade order over late filings"
-    },
-    {
-     "title": "TD Bank secures approval for C$10B share buyback",
-     "link": "https://seekingalpha.com/news/4651625-td-bank-secures-approval-for-c10b-share-buyback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 20:21:41 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TD Bank secures approval for C$10B share buyback"
-    },
-    {
-     "title": "Maverick Gold and Silver announces C$1.1M private placement",
-     "link": "https://seekingalpha.com/news/4651624-maverick-gold-and-silver-announces-c11m-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 20:20:19 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Maverick Gold and Silver announces C$1.1M private placement"
-    },
-    {
-     "title": "Veea regains full Nasdaq listing compliance; shares surge",
-     "link": "https://seekingalpha.com/news/4651623-veea-regains-full-nasdaq-listing-compliance-shares-surge?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 08 Oct 2026 20:18:19 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Veea regains full Nasdaq listing compliance; shares surge"
-    },
-    {
-     "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
-     "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 00:03:00 GMT",
-     "summary": "Seven tips for painlessly moving in retirement.",
-     "source": "MarketWatch",
-     "zh": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’"
     }
    ]
   },

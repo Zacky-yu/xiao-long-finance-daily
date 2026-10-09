@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 04:52:09",
+ "generated_at": "2026/10/10 05:12:01",
  "recent_days": 7,
  "industries": [
   {
@@ -658,6 +658,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Hyundai is offering a 10% discount on the IONIQ 5 and IONIQ 9 EVs",
+     "link": "https://electrek.co/2026/10/09/hyundai-offers-10-discount-ioniq-5-ioniq-9-evs/",
+     "pubDate": "Fri, 09 Oct 2026 21:06:14 +0000",
+     "summary": "Hyundai’s electric SUVs are even more tempting this month with a 10% discount, or up to $7,000 in total savings. more…",
+     "source": "Electrek",
+     "zh": "Hyundai is offering a 10% discount on the IONIQ 5 and IONIQ 9 EVs"
+    },
+    {
      "title": "Americans want 300 miles of EV range – but most say 75 or less covers their day",
      "link": "https://electrek.co/2026/10/09/americans-want-300-miles-of-ev-range-but-most-say-75-or-less-covers-their-day/",
      "pubDate": "Fri, 09 Oct 2026 20:30:00 +0000",
@@ -728,14 +736,6 @@ window.INDUSTRY_DATA = {
      "summary": "Geely announced that it will sell cars in Canada under its namesake brand starting in 2027. There's no word on specific models.",
      "source": "InsideEVs",
      "zh": "Geely Is Officially Coming To Canada"
-    },
-    {
-     "title": "BYD launches pre-orders for the new Seagull, a larger version of its popular $10K EV",
-     "link": "https://electrek.co/2026/10/09/byd-launches-pre-orders-for-new-seagull-10k-ev-gets-bigger/",
-     "pubDate": "Fri, 09 Oct 2026 15:58:39 +0000",
-     "summary": "The Seagull is BYD’s most affordable electric vehicle, starting at about $10,000 in China and sold overseas as the Dolphin Surf. BYD is preparing to introduce a new version that will likely be an even “bigger” hit. more…",
-     "source": "Electrek",
-     "zh": "BYD launches pre-orders for the new Seagull, a larger version of its popular $10K EV"
     },
     {
      "title": "China, EU make progress on hybrid trade as EU says exports will be halved",
@@ -1106,6 +1106,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "STAT+: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role",
+     "link": "https://www.statnews.com/2026/10/09/steven-quay-no-longer-in-consideration-for-top-infectious-disease-role/?utm_campaign=rss",
+     "pubDate": "Fri, 09 Oct 2026 21:03:52 +0000",
+     "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
+     "source": "STAT News",
+     "zh": "STAT+: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role"
+    },
+    {
      "title": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
      "link": "https://www.statnews.com/2026/10/09/hospitals-sue-to-halt-340b-rebate-pilot-trump/?utm_campaign=rss",
      "pubDate": "Fri, 09 Oct 2026 20:27:27 +0000",
@@ -1224,14 +1232,6 @@ window.INDUSTRY_DATA = {
      "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
      "source": "STAT News",
      "zh": "STAT+：上下阶梯：最新动态"
-    },
-    {
-     "title": "How these census changes could threaten public health",
-     "link": "https://www.statnews.com/2026/10/09/health-news-census-changes-threaten-public-data-collection/?utm_campaign=rss",
-     "pubDate": "Fri, 09 Oct 2026 13:23:29 +0000",
-     "summary": "The Trump administration wants to make three big changes to the U.S. Census, including eliminating questions about race, ethnicity, and sexual orientation and excluding anyone who is not a citizen…",
-     "source": "STAT News",
-     "zh": "How these census changes could threaten public health"
     },
     {
      "title": "Chai Discovery signs GSK deal to make biologics with AI",
@@ -1714,6 +1714,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "小米智能温湿度计 3 Pro 今日开售：129 元，新增二氧化碳浓度监测",
+     "link": "https://www.ithome.com/1/011/159.htm",
+     "pubDate": "Fri, 09 Oct 2026 21:00:14 GMT",
+     "summary": "IT之家 10 月 10 日消息，小米智能温湿度计 3 Pro 今日 10:00 正式开售，零售价 129 元，相比众筹价 114 元贵了 15 元。 IT之家从官方获悉，这款温湿度计支持检测室内温度、湿度以及二氧化碳浓度，帮助用户及时了解空气状态。该机搭载 Sensirion 新一代低功耗导热原理二氧化碳传感器，持续监测室内二氧化碳浓度。 规格方面，该机搭载 3.6 英寸大尺寸 LCD 显示屏，数据更加清晰。支持同屏显示日期、星期、时间、温度、湿度和二氧化碳信息。 同时，该机可搭配具备蓝牙 Mesh 网关的设备使用，支持小米澎湃智联，可联动支持米家的空调、空气净化器、窗帘等。还可通过米家 A",
+     "source": "IT之家",
+     "zh": "小米智能温湿度计 3 Pro 今日开售：129 元，新增二氧化碳浓度监测"
+    },
+    {
+     "title": "Sources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M (Rebecca Torrence/Bloomberg)",
+     "link": "https://www.techmeme.com/261009/p24#a261009p24",
+     "pubDate": "Fri, 09 Oct 2026 16:50:01 -0400",
+     "summary": "Rebecca Torrence / Bloomberg : Sources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M &nbsp; &mdash;&nbsp; Fintech startup Ramp has reached a roughly $60 billion valuation with its latest fundraising effort, acc",
+     "source": "Techmeme",
+     "zh": "Sources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M (Rebecca Torrence/Bloomberg)"
+    },
+    {
      "title": "Verizon closed down 8.75%, its worst day since 2002, while T-Mobile fell 13.27% and AT&T 9.81% after SpaceX announced a nationwide spectrum deal on Thursday (CJ Haddad/CNBC)",
      "link": "https://www.techmeme.com/261009/p23#a261009p23",
      "pubDate": "Fri, 09 Oct 2026 16:40:06 -0400",
@@ -1733,7 +1749,7 @@ window.INDUSTRY_DATA = {
      "title": "No Man Is an Island",
      "link": "https://borretti.me/article/no-man-is-an-island",
      "pubDate": "Fri, 09 Oct 2026 20:04:00 +0000",
-     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 30 # Comments: 7",
+     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 83 # Comments: 32",
      "source": "Hacker News",
      "zh": "No Man Is an Island"
     },
@@ -1746,12 +1762,12 @@ window.INDUSTRY_DATA = {
      "zh": "Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)"
     },
     {
-     "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
-     "link": "https://codeberg.org/ethical-foss/open-slopware",
-     "pubDate": "Fri, 09 Oct 2026 19:50:16 +0000",
-     "summary": "Article URL: https://codeberg.org/ethical-foss/open-slopware Comments URL: https://news.ycombinator.com/item?id=50025767 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI"
+     "title": "AI coding agents generate more code, but not more software",
+     "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+     "pubDate": "Fri, 09 Oct 2026 19:43:50 +0000",
+     "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+     "source": "Ars Technica",
+     "zh": "AI coding agents generate more code, but not more software"
     },
     {
      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
@@ -1760,6 +1776,14 @@ window.INDUSTRY_DATA = {
      "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
      "source": "WIRED",
      "zh": "Book Publishers Are Quietly Using More AI. Staff Are Revolting"
+    },
+    {
+     "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+     "link": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+     "pubDate": "Fri, 09 Oct 2026 19:27:27 +0000",
+     "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
+     "source": "Ars Technica",
+     "zh": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial"
     },
     {
      "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
@@ -1805,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "You might want to try being less creative",
      "link": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
      "pubDate": "Fri, 09 Oct 2026 18:39:47 +0000",
-     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 38 # Comments: 20",
+     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 41 # Comments: 23",
      "source": "Hacker News",
      "zh": "You might want to try being less creative"
     },
@@ -1813,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft-Decision-1, our model for fast decision-making",
      "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
      "pubDate": "Fri, 09 Oct 2026 18:38:44 +0000",
-     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 49 # Comments: 15",
+     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 61 # Comments: 24",
      "source": "Hacker News",
      "zh": "Microsoft-Decision-1, our model for fast decision-making"
     },
@@ -1845,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "M7.6 Earthquake in Panama",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
      "pubDate": "Fri, 09 Oct 2026 18:22:20 +0000",
-     "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 88 # Comments: 31",
+     "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 92 # Comments: 32",
      "source": "Hacker News",
      "zh": "M7.6 Earthquake in Panama"
     },
@@ -1853,9 +1877,17 @@ window.INDUSTRY_DATA = {
      "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
      "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
      "pubDate": "Fri, 09 Oct 2026 18:16:03 +0000",
-     "summary": "Article URL: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find Comments URL: https://news.ycombinator.com/item?id=50024571 Points: 42 # Comments: 15",
+     "summary": "Article URL: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find Comments URL: https://news.ycombinator.com/item?id=50024571 Points: 54 # Comments: 18",
      "source": "Hacker News",
      "zh": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward"
+    },
+    {
+     "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+     "link": "https://carrierexplode.com/",
+     "pubDate": "Fri, 09 Oct 2026 18:10:55 +0000",
+     "summary": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands. carrier-explode also contains decoders and explanations for all the common baseband configurations, etc. There’s still quite a bit of work to be done in checking my assumption",
+     "source": "Hacker News",
+     "zh": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded"
     },
     {
      "title": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)",
@@ -1890,14 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally (Davis Giangiulio/CNBC)"
     },
     {
-     "title": "Tesla renames Full Self-Driving to Tesla Assisted Driving in Europe after pushback from Germany, whose transport minister will now back its EU-wide approval (Sean O&apos;Kane/TechCrunch)",
-     "link": "https://www.techmeme.com/261009/p18#a261009p18",
-     "pubDate": "Fri, 09 Oct 2026 12:35:04 -0400",
-     "summary": "Sean O'Kane / TechCrunch : Tesla renames Full Self-Driving to Tesla Assisted Driving in Europe after pushback from Germany, whose transport minister will now back its EU-wide approval &nbsp; &mdash;&nbsp; Tesla has changed the name of its advanced driver assistance system in Europe after pushback fr",
-     "source": "Techmeme",
-     "zh": "Tesla renames Full Self-Driving to Tesla Assisted Driving in Europe after pushback from Germany, whose transport minister will now back its EU-wide approval (Sean O&apos;Kane/TechCrunch)"
-    },
-    {
      "title": "内存一年涨175%，卖一台亏一台的手机生意还能撑多久",
      "link": "https://www.huxiu.com/article/4896300.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 00:13:56 +0800",
@@ -1928,30 +1952,6 @@ window.INDUSTRY_DATA = {
      "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "Hack the World: Why hackathons are still the best place to learn to build"
-    },
-    {
-     "title": "东风猛士・猛 8 越野旅居车亮相：6.7L 电控增压柴油发动机，生活系统一应俱全",
-     "link": "https://www.ithome.com/1/011/156.htm",
-     "pubDate": "Fri, 09 Oct 2026 15:47:12 GMT",
-     "summary": "IT之家 10 月 9 日消息，东风汽车今日宣布全新东风猛士・猛 8 越野旅居车在第 21 届阿拉善英雄会亮相并正式开启全球预订。 IT之家从官方介绍获悉，猛 8 采用东风猛士 MS600 单排军车平台技术， 把三代猛士军车积累的硬实力落地到民用旅居车上。该车搭载 6.7L 电控增压柴油发动机，峰值扭矩 1050N・m， 搭配全时四驱系统 和双横臂独立悬架， 可攀爬 31° 陡坡（约是普通小区地下车库坡道的 3 倍），能跨越 0.7 米宽的壕沟，从容应对 28° 内的车身侧倾， 即便在-41℃ 极寒环境中 ，猛 8 也能实现正常冷启动。 针对房车最头疼的“颠”，猛 8 专门使用了 三点式悬浮连",
-     "source": "IT之家",
-     "zh": "东风猛士・猛 8 越野旅居车亮相：6.7L 电控增压柴油发动机，生活系统一应俱全"
-    },
-    {
-     "title": "华为鸿蒙星河互联 App 登陆 Apple Watch 端，可与 HarmonyOS 7.0.0.109 及以上版本手机配对连接",
-     "link": "https://www.ithome.com/1/011/155.htm",
-     "pubDate": "Fri, 09 Oct 2026 15:45:55 GMT",
-     "summary": "IT之家 10 月 9 日消息，苹果 App Store Watch 专区显示，鸿蒙星河互联 App 已正式登陆 Apple Watch 端。 应用介绍页显示， 其支持 Apple Watch 与 HarmonyOS 7.0.0.109 及以上版本华为手机配对连接 ，用户可体验信息流转、查找设备等功能。 参考IT之家此前报道，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为终端 BG CEO 何刚宣布，华为鸿蒙星河互联升级， 支持苹果 Apple Watch 智能手表、AirPods 无线耳机 。 据介绍，华为鸿蒙星河互联支持华为手",
-     "source": "IT之家",
-     "zh": "华为鸿蒙星河互联 App 登陆 Apple Watch 端，可与 HarmonyOS 7.0.0.109 及以上版本手机配对连接"
-    },
-    {
-     "title": "漫威新剧《幻视任务》首曝中字片段：奥创以人类形态回归，10 月 14 日 Disney+ 开播",
-     "link": "https://www.ithome.com/1/011/154.htm",
-     "pubDate": "Fri, 09 Oct 2026 15:38:09 GMT",
-     "summary": "IT之家 10 月 9 日消息，漫威新剧《幻视任务》今日首曝两段中字片段。本剧也是《旺达幻视》三部曲的终章， 将于今年 10 月 14 日在 Disney+ 开播 。 据介绍，《幻视任务》是继《旺达幻视》《女巫阿加莎》后 MCU 衍生剧系列三部曲的最后一部，将讲述幻视试图恢复记忆和人性的故事。 IT之家查询获悉，保罗 · 贝坦尼 / 詹姆斯 · 斯派德 / 埃米丽 · 汉普希尔 / 托德 · 斯塔什维克 / 法兰 · 塔希尔将出任主演。 其中，保罗 · 贝坦尼继续出演幻视，詹姆斯 · 斯派德回归饰奥创（将以人类形态回归），鲁阿里德 · 莫利卡饰旺达和幻视的儿子汤米，特里 · 马塔拉斯担任运作人",
-     "source": "IT之家",
-     "zh": "漫威新剧《幻视任务》首曝中字片段：奥创以人类形态回归，10 月 14 日 Disney+ 开播"
     }
    ]
   },
@@ -1961,6 +1961,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Pixelated 120: The definitive Pixel tier list",
+     "link": "https://9to5google.com/2026/10/09/pixelated-120-the-definitive-pixel-tier-list/",
+     "pubDate": "Fri, 09 Oct 2026 21:08:33 +0000",
+     "summary": "Welcome to Pixelated episode 120. This week, Abner, Damien, and Will celebrate 10 years of Pixel by ranking all of Google’s smartphones released over the past decade. Also, we finally make the jump over to video! Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode b",
+     "source": "9to5Google",
+     "zh": "Pixelated 120: The definitive Pixel tier list"
+    },
+    {
+     "title": "HMD Pulse 2T Pro specs and images leak showing a dot matrix rear display",
+     "link": "https://www.gsmarena.com/hmd_pulse_2t_pro_specs_and_images_leak_showing_a_dot_matrix_rear_display-news-74986.php",
+     "pubDate": "Fri, 09 Oct 2026 23:02:02 +0200",
+     "summary": "At the beginning of September, the HMD Pulse 2 Pro got prematurely listed by a Swiss retailer, and that revealed its specs. The phone is still not official, but in the meantime we have a new leak from a reliable source of HMD-related information, and this one is all about the HMD Pulse 2T Pro - note",
+     "source": "GSMArena",
+     "zh": "HMD Pulse 2T Pro specs and images leak showing a dot matrix rear display"
+    },
     {
      "title": "Here’s how to unlock your Googlebook’s secret light show",
      "link": "https://www.androidauthority.com/how-to-find-glowbar-disco-app-googlebook-3721552/",
@@ -2154,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple iPhone 18 Pro Max running iOS 27.2 beta receives AT&T carrier update"
     },
     {
-     "title": "Googlebook’s hidden ‘Glowbar Disco’ turns your laptop’s lid into a light show — how to find it",
-     "link": "https://9to5google.com/2026/10/09/googlebook-glowbar-disco-app/",
-     "pubDate": "Fri, 09 Oct 2026 15:55:00 +0000",
-     "summary": "Buried in the settings of Googlebook is a “Glowbar Disco” app that activates the LEDs on your laptop constantly, instead of leaving it blank. more…",
-     "source": "9to5Google",
-     "zh": "Googlebook’s hidden ‘Glowbar Disco’ turns your laptop’s lid into a light show — how to find it"
-    },
-    {
      "title": "The RedMagic 12 Pro+ is shaping up to be an RGB lover’s dream",
      "link": "https://www.gsmarena.com/the_redmagic_12_pro_is_shaping_up_to_be_an_rgb_lovers_dream-news-74978.php",
      "pubDate": "Fri, 09 Oct 2026 17:05:03 +0200",
@@ -2186,14 +2194,6 @@ window.INDUSTRY_DATA = {
      "zh": "With the right lenses, all formats can shine"
     },
     {
-     "title": "Global Xiaomi 18 Pro Max has its chipset and RAM amount confirmed by a benchmark",
-     "link": "https://www.gsmarena.com/global_xiaomi_18_pro_max_has_its_chipset_and_ram_amount_confirmed_by_a_benchmark-news-74977.php",
-     "pubDate": "Fri, 09 Oct 2026 14:39:02 +0200",
-     "summary": "Xiaomi has already confirmed that the 18 Pro and 18 Pro Max will be launched internationally, unlike their predecessors from last year. And so with the 18 Ultra rumored to have been canceled, the 18 Pro Max will essentially be the company's flagship smartphone going into 2027. Now, its global versio",
-     "source": "GSMArena",
-     "zh": "Global Xiaomi 18 Pro Max has its chipset and RAM amount confirmed by a benchmark"
-    },
-    {
      "title": "Webb telescope detects galaxy origin of the farthest fast radio burst we've seen to date",
      "link": "https://www.engadget.com/2282035/webb-telescope-detects-galaxy-origin-of-the-farthest-fast-radio-burst-weve-seen-to-date/",
      "pubDate": "Fri, 09 Oct 2026 12:28:24 +0000",
@@ -2209,6 +2209,126 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+     "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 21:07:00 GMT",
+     "summary": "Telecommunications stocks saw their worst daily drops in over a decade.",
+     "source": "MarketWatch",
+     "zh": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat"
+    },
+    {
+     "title": "惠誉将尼日利亚的评级展望调整为正面；确认其评级为“B”",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891630674.html",
+     "pubDate": "Sat, 10 Oct 2026 05:03:28 +0800",
+     "summary": "惠誉将尼日利亚的评级展望调整为正面；确认其评级为“B”。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "惠誉将尼日利亚的评级展望调整为正面；确认其评级为“B”"
+    },
+    {
+     "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+     "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 21:00:00 GMT",
+     "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+     "source": "MarketWatch",
+     "zh": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?"
+    },
+    {
+     "title": "沙特领导的联军称 已摧毁恐怖胡塞民兵控制区内的136个军事目标",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891630387.html",
+     "pubDate": "Sat, 10 Oct 2026 04:59:28 +0800",
+     "summary": "沙特领导的联军称，已摧毁恐怖胡塞民兵控制区内的136个军事目标。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "沙特领导的联军称 已摧毁恐怖胡塞民兵控制区内的136个军事目标"
+    },
+    {
+     "title": "Moderna gains 14% to set fresh 52-week high",
+     "link": "https://seekingalpha.com/news/4651887-moderna-gains-14-to-set-fresh-52-week-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 16:58:51 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Moderna gains 14% to set fresh 52-week high"
+    },
+    {
+     "title": "涅边贾：乌克兰防空系统效率低下导致悲剧发生而基辅却将责任归咎于俄罗斯",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891630447.html",
+     "pubDate": "Sat, 10 Oct 2026 04:58:50 +0800",
+     "summary": "俄罗斯常驻联合国代表涅边贾：乌克兰防空系统效率低下导致悲剧发生，而基辅却将责任归咎于俄罗斯。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "涅边贾：乌克兰防空系统效率低下导致悲剧发生而基辅却将责任归咎于俄罗斯"
+    },
+    {
+     "title": "沙特领导的联军称 正对也门胡塞武装人员及军事设施展开大范围军事行动",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891630260.html",
+     "pubDate": "Sat, 10 Oct 2026 04:58:12 +0800",
+     "summary": "沙特领导的联军称，正对也门胡塞武装人员及军事设施展开大范围军事行动。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "沙特领导的联军称 正对也门胡塞武装人员及军事设施展开大范围军事行动"
+    },
+    {
+     "title": "The hazy OpenAI growth metric driving Wall Street",
+     "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 20:57:10 GMT",
+     "summary": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
+     "source": "Financial Times",
+     "zh": "The hazy OpenAI growth metric driving Wall Street"
+    },
+    {
+     "title": "沙特阿美恢复对欧洲客户全额供油，欧洲炼厂替代采购压力骤减",
+     "link": "https://wallstreetcn.com/articles/3783301",
+     "pubDate": "Sat, 10 Oct 2026 04:57:06 +0800",
+     "summary": "沙特阿美将于11月恢复向欧洲炼油商提供全额原油供应，标志着此前管道遭袭导致的供应中断基本结束，市场紧张局面有望缓解。 10月9日，据彭博社援引知情人士透露， 至少三家欧洲炼油商已获通知，将在11月收到来自沙特阿美的足额原油配额。 此前，沙特东西输油管道遭无人机袭击，沙特阿美曾告知欧洲客户10月将不提供任何原油配额，迫使买家紧急寻求替代货源。 供应恢复将直接缓解欧洲原油市场的供应压力。波兰最大沙特原油买家Orlen SA在断供期间发出逾十份招标，以采购替代桶。据彭博船舶追踪数据，沙特对欧洲原油出口通常每日平均达70万至80万桶。 管道袭击引发供应中断，欧洲炼油商被迫寻找替代货源 沙特东西输油管道",
+     "source": "华尔街见闻",
+     "zh": "沙特阿美恢复对欧洲客户全额供油，欧洲炼厂替代采购压力骤减"
+    },
+    {
+     "title": "特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书",
+     "link": "http://finance.eastmoney.com/news/11790,202610103891630780.html",
+     "pubDate": "Sat, 10 Oct 2026 04:55:21 +0800",
+     "summary": "美国总统特朗普9日在社交媒体上宣布，任命保守派评论员凯蒂·扎卡里亚出任白宫新闻秘书，接替离职的卡罗琳·莱维特。特朗普介绍说，扎卡里亚目前是 特朗普媒体科技集团 旗下“真实社交”网站的高级通讯顾问，“表现出色”，曾协助他在关键摇摆州的竞选中取得胜利。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书"
+    },
+    {
+     "title": "中国地震台网正式测定：10月10日04时25分在巴拿马发生6.6级地震，震源深度10千米",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891630030.html",
+     "pubDate": "Sat, 10 Oct 2026 04:54:35 +0800",
+     "summary": "中国地震台网正式测定：10月10日04时25分在巴拿马（北纬7.70度，西经81.45度）发生6.6级地震，震源深度10千米。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "中国地震台网正式测定：10月10日04时25分在巴拿马发生6.6级地震，震源深度10千米"
+    },
+    {
+     "title": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs",
+     "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+     "pubDate": "Fri, 09 Oct 2026 20:51:25 GMT",
+     "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
+     "source": "CNBC",
+     "zh": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs"
+    },
+    {
+     "title": "T-Mobile US plunges 13% to new 52-week low amid new competitive threat",
+     "link": "https://seekingalpha.com/news/4651873-t-mobile-us-plunges-13-to-new-52-week-low-amid-new-competitive-threat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 16:51:21 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "T-Mobile US plunges 13% to new 52-week low amid new competitive threat"
+    },
+    {
+     "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
+     "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 20:51:00 GMT",
+     "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
+     "source": "MarketWatch",
+     "zh": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist."
+    },
+    {
+     "title": "CCC Intelligent Solutions jumps on report GTCR, Elliott near takeover",
+     "link": "https://seekingalpha.com/news/4651885-ccc-intelligent-solutions-jumps-on-report-gtcr-elliott-near-takeover?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 16:47:11 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CCC Intelligent Solutions jumps on report GTCR, Elliott near takeover"
+    },
     {
      "title": "The emerging threat landscape for agentic AI in cybersecurity",
      "link": "https://seekingalpha.com/news/4651773-the-emerging-threat-landscape-for-agentic-ai-in-cybersecurity?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2226,84 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nasdaq to suspend trading in Pomdoctor securities following non-compliance"
     },
     {
-     "title": "乌克兰外交部长：我们已准备好立即在能源领域实现停火 迫使莫斯科同意亦属可能",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891628536.html",
-     "pubDate": "Sat, 10 Oct 2026 04:40:57 +0800",
-     "summary": "乌克兰外交部长：我们已准备好立即在能源领域实现停火，迫使莫斯科同意亦属可能。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "乌克兰外交部长：我们已准备好立即在能源领域实现停火 迫使莫斯科同意亦属可能"
-    },
-    {
-     "title": "乌克兰外交部长：真正能够有效降低油价的唯一办法 就是达成能源领域的停火",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891628726.html",
-     "pubDate": "Sat, 10 Oct 2026 04:40:55 +0800",
-     "summary": "乌克兰外交部长：真正能够有效降低油价的唯一办法，就是达成能源领域的停火。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "乌克兰外交部长：真正能够有效降低油价的唯一办法 就是达成能源领域的停火"
-    },
-    {
-     "title": "乌克兰外交部长：放松（对俄）制裁既无助于实现和平 也无益于全球市场",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891628369.html",
-     "pubDate": "Sat, 10 Oct 2026 04:40:54 +0800",
-     "summary": "乌克兰外交部长：放松（对俄）制裁既无助于实现和平，也无益于全球市场。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "乌克兰外交部长：放松（对俄）制裁既无助于实现和平 也无益于全球市场"
-    },
-    {
      "title": "CytoMed Therapeutics receives Nasdaq notice over minimum bid price deficiency",
      "link": "https://seekingalpha.com/news/4651884-cytomed-therapeutics-receives-nasdaq-notice-over-minimum-bid-price-deficiency?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 16:40:48 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "CytoMed Therapeutics receives Nasdaq notice over minimum bid price deficiency"
-    },
-    {
-     "title": "克里姆林宫：普京与特朗普同意继续保持个人沟通",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891628133.html",
-     "pubDate": "Sat, 10 Oct 2026 04:40:30 +0800",
-     "summary": "克里姆林宫：普京与特朗普同意继续保持个人沟通，并加强两国情报机构与部门之间的合作。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "克里姆林宫：普京与特朗普同意继续保持个人沟通"
-    },
-    {
-     "title": "QTREX receives Nasdaq non-compliance notice",
-     "link": "https://seekingalpha.com/news/4651882-qtrex-receives-nasdaq-non-compliance-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 16:39:49 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "QTREX receives Nasdaq non-compliance notice"
-    },
-    {
-     "title": "乌克兰总统泽连斯基：就在我们谈论和平的此时此刻 美国却在给俄罗斯出口柴油的机会",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891628846.html",
-     "pubDate": "Sat, 10 Oct 2026 04:39:48 +0800",
-     "summary": "乌克兰总统泽连斯基：就在我们谈论和平的此时此刻，美国却在给俄罗斯出口柴油的机会。我不知道该怎么说。我认为我们的团队只是被当作挡箭牌。这绝对不公平。这绝对不像伙伴所为。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "乌克兰总统泽连斯基：就在我们谈论和平的此时此刻 美国却在给俄罗斯出口柴油的机会"
-    },
-    {
-     "title": "Semiconductor stocks lead Nasdaq's weekly decliners amid wider hit on AI trade",
-     "link": "https://seekingalpha.com/news/4651883-semiconductor-stocks-lead-nasdaqs-weekly-decliners-amid-wider-hit-on-ai-trade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 16:39:41 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Semiconductor stocks lead Nasdaq's weekly decliners amid wider hit on AI trade"
-    },
-    {
-     "title": "Standard Motor Products CFO to resign Oct. 30; names interim successor",
-     "link": "https://seekingalpha.com/news/4651881-standard-motor-products-cfo-to-resign-oct-30-names-interim-successor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 16:39:26 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Standard Motor Products CFO to resign Oct. 30; names interim successor"
-    },
-    {
-     "title": "穆迪将加纳外币高级无担保债务评级从CAA1上调至B3",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891628614.html",
-     "pubDate": "Sat, 10 Oct 2026 04:38:54 +0800",
-     "summary": "穆迪 将加纳外币高级无担保债务评级从CAA1上调至B3。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "穆迪将加纳外币高级无担保债务评级从CAA1上调至B3"
     },
     {
      "title": "Trump agrees deal with Putin for Russia to release diesel",
@@ -2328,14 +2376,6 @@ window.INDUSTRY_DATA = {
      "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
      "source": "MarketWatch",
      "zh": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children."
-    },
-    {
-     "title": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs",
-     "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
-     "pubDate": "Fri, 09 Oct 2026 20:14:50 GMT",
-     "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
-     "source": "CNBC",
-     "zh": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs"
     },
     {
      "title": "速度是GPT-6 Sol的35倍！微软推出高速决策AI模型，36项测试准确率第一",
@@ -2386,28 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "Americans&apos; debt problems are flashing a warning not seen since the Great Recession"
     },
     {
-     "title": "Elon Musk is now richer than any American ever — and it’s not even close",
-     "link": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 19:04:00 GMT",
-     "summary": "Musk’s trillioniare status means he’s wealthier than his next three contemporaries combined — and also worth more than historical tycoons like John D. Rockefeller.",
-     "source": "MarketWatch",
-     "zh": "Elon Musk is now richer than any American ever — and it’s not even close"
-    },
-    {
-     "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
-     "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 19:00:00 GMT",
-     "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
-     "source": "MarketWatch",
-     "zh": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?"
-    },
-    {
-     "title": "特朗普找到新“援军”：宣布普京同意俄罗斯向全球市场释放数百万吨柴油",
+     "title": "特朗普找到新“援军”：普京同意俄罗斯向全球市场释放数百万吨柴油",
      "link": "https://wallstreetcn.com/articles/3783298",
      "pubDate": "Sat, 10 Oct 2026 02:50:50 +0800",
      "summary": "美国总统特朗普表示，俄罗斯领导人普京已同意向全球市场投放柴油供应。目前，特朗普政府正致力于遏制这一关键燃料的价格上涨。 特朗普周五在Truth Social上发文称： “我刚刚与俄罗斯总统普京达成了一项极其成功的讨论，双方同意，俄罗斯将立即向美国及全球市场供应超过30万吨柴油，11月期间再供应50万吨，紧接着再供应100万吨。” 他补充道： “根据其柴油炼油厂的状况，俄罗斯将在较短时间内进一步交付300万吨柴油。” 美国财政部周五表示：“今天，在特朗普总统的指示下，外国资产控制办公室（OFAC）将立即颁发临时通用许可证，允许俄罗斯柴油供应进入全球市场。” 根据能源分析公司Vortexa的数据，",
      "source": "华尔街见闻",
-     "zh": "特朗普找到新“援军”：宣布普京同意俄罗斯向全球市场释放数百万吨柴油"
+     "zh": "特朗普找到新“援军”：普京同意俄罗斯向全球市场释放数百万吨柴油"
     },
     {
      "title": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
@@ -2418,36 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips"
     },
     {
-     "title": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies",
-     "link": "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 18:44:00 GMT",
-     "summary": "Supply disruptions during the Atlantic hurricane season usually end up being a blip. This year could be very different.",
-     "source": "MarketWatch",
-     "zh": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies"
-    },
-    {
      "title": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
      "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
      "pubDate": "Fri, 09 Oct 2026 18:38:06 GMT",
      "summary": "First Atlantic hurricane of the season headed towards Florida, Alabama, Georgia and Mississippi",
      "source": "Financial Times",
      "zh": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf"
-    },
-    {
-     "title": "中共中央、国务院印发《关于发展新质生产力的意见》",
-     "link": "http://www.eeo.com.cn/2026/1010/1059118.shtml",
-     "pubDate": "Sat, 10 Oct 2026 01:26:17 +0800",
-     "summary": "10月9日，中共中央、国务院印发《关于发展新质生产力的意见》（以下简称《意见》）。《意见》围绕大力推进科技创新、推动科技创新和产业创新深度融合、着力推进发展方式创新、扎实推进体制机制创新、深化人才工作机制创新这五个方面，提出19项重大发展改革任务。 其中，《意见》将“大力推进科技创新”放在首位，安排了5项任务：加强原创性颠覆性科技创新；加快突破关键核心技术；统筹国家战略科技力量建设；强化企业科技...",
-     "source": "经济观察网",
-     "zh": "中共中央、国务院印发《关于发展新质生产力的意见》"
-    },
-    {
-     "title": "文旅部：国庆假期国内出游总花费同比增长4.3%",
-     "link": "http://www.eeo.com.cn/2026/1010/1059117.shtml",
-     "pubDate": "Sat, 10 Oct 2026 01:26:17 +0800",
-     "summary": "10月9日，文化和旅游部发布消息称，2026年国庆节假期，全国文化和旅游市场平稳有序。经文化和旅游部数据中心测算，国庆节假期7天，全国国内出游8.26亿人次，国内出游总花费7383.75亿元，按可比口径（日均）较2025年分别增长6.3%、4.3%。 从产品供给看，红色旅游备受青睐，40%的游客参观革命场馆、观看升旗仪式和爱国主义演出等活动。乡村旅游热度攀升，赏秋观景、非遗体验、农耕采摘、乡村夜游、篝火市集、稻田音乐会等广...",
-     "source": "经济观察网",
-     "zh": "文旅部：国庆假期国内出游总花费同比增长4.3%"
     }
    ]
   },

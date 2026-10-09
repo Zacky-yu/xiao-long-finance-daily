@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/9 21:47:52",
+ "generated_at": "2026/10/9 21:52:14",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "The Single-Chip PC",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
+     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The Single-Chip PC"
+    },
+    {
      "title": "CASPA CEO Summit and Why it Matters",
      "link": "https://semiwiki.com/events/374362-caspa-ceo-summit-and-why-it-matters/",
      "pubDate": "Fri, 09 Oct 2026 13:00:18 +0000",
@@ -352,14 +360,6 @@ window.INDUSTRY_DATA = {
      "summary": "Today, the Arm vs Qualcomm legal case in Delaware concludes and the judge and jury should give their rulings. Yesterday, Day 4 of the case, started with testimony from Manju […] The post Qualcomm vs Arm (Day 4) appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Qualcomm vs Arm (Day 4)"
-    },
-    {
-     "title": "ASML starts on Hyper NA EUV",
-     "link": "https://www.electronicsweekly.com/news/business/asml-starts-on-hyper-na-euv-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 05:16:36 +0000",
-     "summary": "ASML has begun a ten year programme to get feature sizes down to 5nm from the 8nm which high NA tools can deliver. The 5nm litho tool is dubbed Hyper […] The post ASML starts on Hyper NA EUV appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "ASML starts on Hyper NA EUV"
     },
     {
      "title": "MediaTek 3Q26 revenue beats forecast, maintains peak-season momentum",
@@ -1706,6 +1706,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "商务部：中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解",
+     "link": "https://www.ithome.com/1/011/135.htm",
+     "pubDate": "Fri, 09 Oct 2026 13:48:17 GMT",
+     "summary": "IT之家 10 月 9 日消息，2026 年 10 月 8-9 日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什 · 谢夫乔维奇在北京举行中欧贸易投资磋商机制（以下简称机制）第二次例会。商务部今日发布了中欧贸易投资磋商机制第二次例会联合声明。 成果共识清单中包括，双方将继续探讨在世贸组织规则框架下降低部分商品关税的可能性。 经密集磋商， 中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解 。双方忆及电动汽车反补贴案价格承诺指导文件，并将继续电动汽车反补贴案企业价格承诺和复审相关程序。 双方赞同提升全球产业链供应链可预期性与稳定性的重要性。中方愿通过“绿色通道”机制，为稀土及永磁",
+     "source": "IT之家",
+     "zh": "商务部：中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解"
+    },
+    {
      "title": "吉利汽车集团旗下吉利品牌宣布正式进入加拿大市场，已在当地全面推进零售与服务网络建设",
      "link": "https://www.ithome.com/1/011/132.htm",
      "pubDate": "Fri, 09 Oct 2026 13:38:06 GMT",
@@ -1792,14 +1800,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 9 日消息，由 SpaceRocket Games 开发、Toplitz Productions 发行的剧情驱动末日生存沙盒游戏《永冻纪元》（Permafrost）今日正式登陆 Steam 开启抢先体验，国区首发享 20% 折扣，折后价为 ¥ 95.20，优惠截止至 10 月 23 日。游戏支持简体中文界面与完整中文音频，目前尚无玩家评价。IT之家附游戏商品页（ https://store.steampowered.com/app/2254990/Permafrost/ ）。 《永冻纪元》背景设定在不远的未来，一系列灾难导致月球破碎，地球陷入永无止境的寒冬。玩家将扮演拥有重",
      "source": "IT之家",
      "zh": "剧情驱动末日生存沙盒《永冻纪元》登陆 Steam：国区首发价 ¥95.20，支持简中配音"
-    },
-    {
-     "title": "中兴小兴看看 SC50D 监控上架：集成双 500 万像素摄像头云台，309 元",
-     "link": "https://www.ithome.com/1/011/126.htm",
-     "pubDate": "Fri, 09 Oct 2026 13:13:20 GMT",
-     "summary": "IT之家 10 月 9 日消息，中兴现已在京东上架小兴看看 SC50D 监控摄像头，该产品集成双 500 万像素摄像头云台， 定价为 309 元 。 京东 中兴小兴看看 SC50D 监控摄像头 309 元 直达链接 该机整体造型简洁，支持桌面摆放、壁挂和吊顶安装，整体由双 500 万像素摄像头云台构成，上摄和下摄分辨率均为 2960 x 1666，匹配 F/1.6 镜头，支持人物移动追踪、宠物出现、婴儿哭声、烟火检测、虚拟围栏等多种智能检测功能。 其他方面，该机支持双向语音通话，配备大音腔喇叭，支持蓝牙 5.4 快速配网，用户可搭配中兴智慧生活 App 使用，可供最多 15 人共享查看。",
-     "source": "IT之家",
-     "zh": "中兴小兴看看 SC50D 监控上架：集成双 500 万像素摄像头云台，309 元"
     },
     {
      "title": "2026年诺贝尔文学奖：安妮·卡森的古今相接",
@@ -2202,6 +2202,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+     "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 13:47:00 GMT",
+     "summary": "Seven tips for painlessly moving in retirement.",
+     "source": "MarketWatch",
+     "zh": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’"
+    },
+    {
+     "title": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
+     "link": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
+     "pubDate": "Fri, 09 Oct 2026 13:45:01 GMT",
+     "summary": "Wall Street firms are bringing AI data center investments to public markets as political, liquidity and project risks grow.",
+     "source": "CNBC",
+     "zh": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up"
+    },
+    {
+     "title": "ICE won&apos;t pause enforcement in NY after Bronx shooting, DHS&apos;s Mullin says",
+     "link": "https://www.cnbc.com/2026/10/09/ice-bronx-shooting-mamdani-dhs.html",
+     "pubDate": "Fri, 09 Oct 2026 13:44:29 GMT",
+     "summary": "New York Gov. Kathy Hochul said she asked Homeland Security Secretary Mullin and President Donald Trump to immediately halt ICE operations in her state.",
+     "source": "CNBC",
+     "zh": "ICE won&apos;t pause enforcement in NY after Bronx shooting, DHS&apos;s Mullin says"
+    },
+    {
+     "title": "SpaceX盘初涨超3%，特斯拉盘初涨近3%",
+     "link": "http://hk.eastmoney.com/news/11617,202610093891507192.html",
+     "pubDate": "Fri, 09 Oct 2026 21:41:37 +0800",
+     "summary": "SpaceX 盘初涨超3%，公司收购低频无线频谱，进军美国移动运营商市场； 特斯拉 盘初涨近3%。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "SpaceX盘初涨超3%，特斯拉盘初涨近3%"
+    },
+    {
+     "title": "美股三大指数集体上涨 光通信板块走强",
+     "link": "http://finance.eastmoney.com/news/1345,202610093891490496.html",
+     "pubDate": "Fri, 09 Oct 2026 21:40:34 +0800",
+     "summary": "10月9日，美股三大指数集体上涨，截至发稿，道指涨0.20%，纳指涨0.56%，标普500指数涨0.38%。 光 通信 板块走强 ，截至发稿， Lumentum涨超7%，Coherent涨超6%。 全球要闻 特朗普：美国不会在中期选举之前攻击伊朗 据央视新闻报道，当地时间周四，美国总统特朗普表示，在11月3日中期选举前，美国不会对伊朗发动袭击。受此消息影响，国际油价短线走低。特朗普在其社交媒体平台Truth Social上发文称：“在中期选举之前的任何时候，我们都不会攻击伊朗。”他同时表示，美国正与伊朗进行“富有成效的讨论”。 伊朗敌对政策升级 警告将封锁“未授权”运输航线 据消息人士爆料，在",
+     "source": "东方财富股票",
+     "zh": "美股三大指数集体上涨 光通信板块走强"
+    },
+    {
+     "title": "萨尔茨钢铁公司股价涨幅扩大 目前上涨13% 有望创下自4月以来的最佳单日表现",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891504117.html",
+     "pubDate": "Fri, 09 Oct 2026 21:39:35 +0800",
+     "summary": "萨尔茨 钢铁 公司股价涨幅扩大，目前上涨13%，有望创下自4月以来的最佳单日表现。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "萨尔茨钢铁公司股价涨幅扩大 目前上涨13% 有望创下自4月以来的最佳单日表现"
+    },
+    {
      "title": "Main Street Financial Services declares $0.15 dividend",
      "link": "https://seekingalpha.com/news/4651756-main-street-financial-services-declares-0_15-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 09:39:18 -0400",
@@ -2218,12 +2266,28 @@ window.INDUSTRY_DATA = {
      "zh": "世纪数码：关于使用部分闲置募集资金进行现金管理的进展公告"
     },
     {
-     "title": "伊朗革命卫队：加剧地区海上运输紧张局势的责任在美军",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891503873.html",
-     "pubDate": "Fri, 09 Oct 2026 21:38:17 +0800",
-     "summary": "当地时间9日，伊朗伊斯兰革命卫队发表声明称，革命卫队海军官兵响应伊朗人民对霍尔木兹海峡主权的诉求，绝不允许任何侵略性军队驻扎于此，并将坚决打击敌人破坏伊朗对该海峡管理的企图。 声明表示，几小时前，一艘名为“阳光号”的巨型液化石油气运输船，在试图通过霍尔木兹海峡以南的非法航线时遭到袭击，机舱和推进系统发生火灾。 声明强调，造成这些事件以及该地区海上运输紧张局势加剧的直接责任在于美军。声明还称，从现在起，对违规船只的打击将不再局限于霍尔木兹海峡，任何未经授权通过该海峡的船只都将在整个区域内被伊朗追捕，并将受到处罚。 （文章来源：央视新闻）",
+     "title": "达美航空下调全年利润预测后 美国航空公司股价集体下跌",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891504374.html",
+     "pubDate": "Fri, 09 Oct 2026 21:38:54 +0800",
+     "summary": "达美航空 下调全年利润预测后， 美国航空 公司股价集体下跌。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "伊朗革命卫队：加剧地区海上运输紧张局势的责任在美军"
+     "zh": "达美航空下调全年利润预测后 美国航空公司股价集体下跌"
+    },
+    {
+     "title": "双汇致歉，并发布6项整改措施",
+     "link": "http://finance.eastmoney.com/news/1349,202610093891505538.html",
+     "pubDate": "Fri, 09 Oct 2026 21:38:52 +0800",
+     "summary": "10月9日晚间，针对控股子公司一批次产品被抽检出林可霉素超标37.5倍一事， 双汇发展 对外发布相关部分处理结果：监管部门对望奎双汇 北大荒 食品有限公司（简称“望奎双汇”）及 双汇发展 给予警告，并罚款合计7250.21万元，对 双汇发展 董事及高管罚款合计5636.28万元。 双汇发展称，上述处罚将导致公司2026年度归属于上市公司股东的净利润减少6380.66万元，相关事项不会导致公司触及《深圳证券交易所股票上市规则》规定的重大违法强制退市情形。 处罚将导致公司今年净利润 减少6381万元 根据公告，2025年8月28日，长春海关技术中心在黑龙江省市场监督管理局组织的 食品安全 监督抽检",
+     "source": "东方财富股票",
+     "zh": "双汇致歉，并发布6项整改措施"
+    },
+    {
+     "title": "Alignment Healthcare股价跌至两年多以来的低点",
+     "link": "http://stock.eastmoney.com/news/11228,202610093891505231.html",
+     "pubDate": "Fri, 09 Oct 2026 21:38:31 +0800",
+     "summary": "10月9日，Alignment Healthcare股价跌至两年多以来的低点，最新下跌24%。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "Alignment Healthcare股价跌至两年多以来的低点"
     },
     {
      "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
@@ -2232,22 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
      "source": "CNBC",
      "zh": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong"
-    },
-    {
-     "title": "纳川股份被证监会立案调查 已存退市风险",
-     "link": "http://stock.eastmoney.com/news/11215,202610093891502924.html",
-     "pubDate": "Fri, 09 Oct 2026 21:37:42 +0800",
-     "summary": "纳川股份（ *ST纳川 ，300198.SZ）10月9日公告，当日收到中国证监会下发的《立案告知书》。因公司2023年年报涉嫌信息披露违法违规，证监会决定对公司立案。 同日，纳川股份披露《关于公司股票可能被终止上市的第六次风险提示公告》。因公司利润总额、净利润、扣除非经常性损益后的净利润三者均为负值，且扣除后的营业收入低于1亿元；公司2025年度期末净资产为-1.48亿元；公司2024年度、2025年度内控审计报告为否定意见，公司股票于2026年4月29日开市起被实施退市风险警示。 此外，公司最近三个会计年度扣除非经常性损益前后净利润孰低者均为负值，信永中和会计师事务所出具的《2025年度审计",
-     "source": "东方财富股票",
-     "zh": "纳川股份被证监会立案调查 已存退市风险"
-    },
-    {
-     "title": "Lumentum首席执行官表示公司AI服务器部件已售罄至2029年",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891502419.html",
-     "pubDate": "Fri, 09 Oct 2026 21:37:39 +0800",
-     "summary": "Lumentum首席执行官表示公司AI服务器部件已售罄至2029年，股价一度触及纪录高位，最新上涨7%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "Lumentum首席执行官表示公司AI服务器部件已售罄至2029年"
     },
     {
      "title": "AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周",
@@ -2272,30 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Mainstreet Equity Corp. declares CAD 0.08 dividend"
-    },
-    {
-     "title": "黑客利用AI无差别攻击 日本罗森系统被黑致200万用户信息外泄",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891503615.html",
-     "pubDate": "Fri, 09 Oct 2026 21:37:01 +0800",
-     "summary": "日本便利店巨头罗森10月8日发布消息称，其会员账号服务“Lawson ID”于9月中旬遭第三方非法访问，导致包括邮件地址、姓名、性别、电话号码及住址在内的用户个人信息外泄，涉及ID约215.5万个。卡拉OK连锁运营商第一兴商也透露，因业务外包企业员工终端感染恶意软件，旗下“BIG ECHO”“MEGA BIG”等门店会员的姓名、出生日期、邮件地址等信息可能已外泄，总计约872万条。遭遇泄露事件的企业还包括共享 汽车服务 “Times CAR”、软银子公司IDC Frontier等。有专家认为，攻击方可能利用 人工智能 （AI）对系统存在漏洞的对象进行了无差别攻击。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "黑客利用AI无差别攻击 日本罗森系统被黑致200万用户信息外泄"
-    },
-    {
-     "title": "Alignment Healthcare股价跌至两年多来低点",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891501716.html",
-     "pubDate": "Fri, 09 Oct 2026 21:36:59 +0800",
-     "summary": "Alignment Healthcare股价跌至两年多来低点，此前美国联邦医疗保险和医疗补助服务中心公布了2027年联邦医疗保险优势计划评级，该股最新下跌24%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "Alignment Healthcare股价跌至两年多来低点"
-    },
-    {
-     "title": "惠誉评级：阿联酋非石油增长模式在战争基线下总体具有韧性",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891502255.html",
-     "pubDate": "Fri, 09 Oct 2026 21:36:48 +0800",
-     "summary": "惠誉评级：阿联酋非石油增长模式在战争基线下总体具有韧性。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "惠誉评级：阿联酋非石油增长模式在战争基线下总体具有韧性"
     },
     {
      "title": "最高4.35%！内地、香港哪家银行美元定存利率更高？",
@@ -2402,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "美银Hartnett：中选将成年底最强市场催化剂，债市会终结泡沫，别加仓科技，等降息再进场！"
     },
     {
-     "title": "10月9日东方财富财经晚报（附新闻联播）",
-     "link": "http://finance.eastmoney.com/news/1353,202610093891433311.html",
-     "pubDate": "Fri, 09 Oct 2026 21:00:00 +0800",
-     "summary": "热点聚焦 加快发展新质生产力 ： 为加快发展新质生产力，中共中央、国务院印发《关于发展新质生产力的意见》。意见部署19项重点举措，涉及大力推进科技创新、推动科技创新和产业创新深度融合、着力推进发展方式创新、扎实推进体制机制创新、深化人才工作机制创新5个方面。 意见提出， 全面实施“ 人工智能 +”行动。推进 人工智能 对传统产业的改造 ，加快推进智能网联 新能源 汽车 、 人工智能 手机和电脑、人形 机器人 等新一代智能终端场景应用。加快人工智能等数智技术创新，突破基础理论和核心技术，强化算力、算法、数据等高效供给。因地制宜、分业施策布局国家人工智能行业应用中试基地和高价值应用场景，大力推动人",
-     "source": "东方财富资讯",
-     "zh": "10月9日东方财富财经晚报（附新闻联播）"
-    },
-    {
      "title": "AI热潮推高美国旧金山房租 房东“逐客令”飙涨44%",
      "link": "http://www.eeo.com.cn/2026/1009/1058997.shtml",
      "pubDate": "Fri, 09 Oct 2026 20:52:06 +0800",
@@ -2424,22 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "人工智能行业正在为一场可能改变监管格局的重大事故做准备。 据Axios最新报道， Anthropic、OpenAI等公司的高管正私下推演，如果AI引发严重现实伤害，美国社会和政界将如何反应。 这些推演重点关注大规模网络攻击等极端情景，包括金融服务、互联网连接乃至电力和供水系统中断。业内人士担忧，一旦发生由不安全AI导致的重大事故，原本就对这项技术持谨慎态度的公众可能进一步转向反对，AI企业及其高管也将面临更大的舆论压力。 报道称， 多名AI行业人士认为，未来6至12个月内可能发生重大事件。 企业高管因此开始提前与美国国会议员沟通，希望在危机真正发生后，影响美国政府制定的相关法律和政策。 AI公",
      "source": "华尔街见闻",
      "zh": "AI灾难将在一年内发生？Anthropic、OpenAI私下推演最坏情景"
-    },
-    {
-     "title": "10月9日晚间上市公司利好消息一览(附名单)",
-     "link": "http://finance.eastmoney.com/news/1353,202610093891444869.html",
-     "pubDate": "Fri, 09 Oct 2026 20:33:38 +0800",
-     "summary": "沪深两市多家上市公司10月9日晚间发布重要公告，以下为利好的消息汇总： 泽润新能 ：拟收购合创智造不低于51%的股权 泽润新能 (301636)10月9日公告，公司与东莞市合创智造科技有限公司（简称“合创智造”）及其股东王强、东莞市创智展创业投资合伙企业（有限合伙）、李雄签署了《合作框架协议》。公司拟以现金收购方式，取得合创智造不低于51%的股权，交易总对价初步不高于2.04亿元。本次交易完成后，合创智造将成为公司的控股子公司。本次交易若成功实施，公司可以快速切入散热领域。 航天工程 ：控股子公司航天氢能拟1.91亿元收购新乡气体45%股权 航天工程 (603698)10月9日公告，公司的控股",
-     "source": "东方财富资讯",
-     "zh": "10月9日晚间上市公司利好消息一览(附名单)"
-    },
-    {
-     "title": "九号公司：截至9月30日公司累计回购存托凭证5711564份",
-     "link": "http://www.eeo.com.cn/2026/1009/1058984.shtml",
-     "pubDate": "Fri, 09 Oct 2026 20:26:51 +0800",
-     "summary": "证券日报网讯10月9日，九号公司发布公告称，截至2026年9月30日，公司通过上海证券交易所交易系统以集中竞价交易方式累计回购公司存托凭证5,711,564份，占公司存托凭证总数的比例为0.78%，成交的最高价为41.80元/份，最低价为36.47元/份，已支付的总金额为人民币219,998,982.03元（不含印花税、交易佣金等交易费用）。 （编辑 袁冠琳 赵思卓）",
-     "source": "经济观察网",
-     "zh": "九号公司：截至9月30日公司累计回购存托凭证5711564份"
     }
    ]
   },

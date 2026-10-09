@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 02:11:52",
+ "generated_at": "2026/10/10 02:31:55",
  "recent_days": 7,
  "industries": [
   {
@@ -274,6 +274,14 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
+     "title": "Defence satcom revenues to surpass $23bn by 2035",
+     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
+     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "Defence satcom revenues to surpass $23bn by 2035"
+    },
+    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
@@ -282,12 +290,28 @@ window.INDUSTRY_DATA = {
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
     },
     {
+     "title": "Axiom Space highlights space computing progress",
+     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
+     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
+     "source": "Electronics Weekly",
+     "zh": "Axiom Space highlights space computing progress"
+    },
+    {
      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
      "pubDate": "Fri, 09 Oct 2026 14:11:55 +0000",
      "summary": "GlobalFoundries said strained-silicon FD-SOI can deliver 7-nm-class performance without EUV and open a new market for Europe. The post Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI"
+    },
+    {
+     "title": "The Single-Chip PC",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
+     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -304,6 +328,30 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
+    },
+    {
+     "title": "Failure analysis in the era of 3D integration",
+     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
+     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Failure analysis in the era of 3D integration"
+    },
+    {
+     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
+     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
+     "source": "Electronics Weekly",
+     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
+    },
+    {
+     "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:04:25 +0000",
+     "summary": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Robotaxi growth, Arm Qualcomm battle"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
-    },
-    {
-     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
-     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
-     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
-     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
-    },
-    {
-     "title": "Shift Left Complicates Fab Data Management",
-     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
-     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Shift Left Complicates Fab Data Management"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
-    },
-    {
-     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
-     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
-     "source": "Semiconductor Today",
-     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
-    },
-    {
-     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
-     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
-    },
-    {
-     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
-     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
-     "source": "Semiconductor Today",
-     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -914,12 +914,12 @@ window.INDUSTRY_DATA = {
      "zh": "Canada’s New Oil Pipeline Challenged by Cold Lake First Nations"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -933,7 +933,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from 2025, according to a report from the advocacy group. Investor-owned utilities have requested $23.1 billion in electric and gas rate increases so far this year, it said.",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1098,6 +1098,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Curium prices generic radioligand at 5% discount to Novartis' Lutathera",
+     "link": "https://endpoints.news/curium-prices-generic-radioligand-at-5-discount-to-novartis-lutathera/",
+     "pubDate": "Fri, 09 Oct 2026 18:28:05 +0000",
+     "summary": "Curium has set the list price for Bexlutry, its radiosimilar to Novartis’ Lutathera, at $63,524 per infusion — about a 5% discount to the cost of the pharma giant’s drug. Challenging Novartis in the tricky field ...",
+     "source": "Endpoints News",
+     "zh": "Curium prices generic radioligand at 5% discount to Novartis' Lutathera"
+    },
+    {
      "title": "Immune Cell Atlas Charts How People’s Aging Paths Diverge",
      "link": "https://www.genengnews.com/topics/translational-medicine/immune-cell-atlas-charts-how-peoples-aging-paths-diverge/",
      "pubDate": "Fri, 09 Oct 2026 16:41:48 +0000",
@@ -1234,14 +1242,6 @@ window.INDUSTRY_DATA = {
      "zh": "TRex Bio prices $117M IPO to support immune drug work"
     },
     {
-     "title": "TRexBio prices $117M IPO for Tregs as Retension lands $45M Nasdaq debut for hypertension",
-     "link": "https://endpoints.news/trexbio-prices-117m-ipo-for-tregs-as-retension-lands-45m-nasdaq-debut-for-hypertension/",
-     "pubDate": "Fri, 09 Oct 2026 07:54:45 +0000",
-     "summary": "The appetite for biotech IPOs remains strong, especially when Eli Lilly and Nobel Prize-winning science are involved. TRexBio priced its initial stock sale Thursday, raising $116.7 million in ...",
-     "source": "Endpoints News",
-     "zh": "TRexBio prices $117M IPO for Tregs as Retension lands $45M Nasdaq debut for hypertension"
-    },
-    {
      "title": "DNA Typewriter, PEtracer Map Mouse Development Through Organogenesis",
      "link": "https://www.genengnews.com/topics/omics/dna-typewriter-petracer-map-mouse-development-through-organogenesis/",
      "pubDate": "Thu, 08 Oct 2026 22:50:47 +0000",
@@ -1297,6 +1297,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+     "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+     "pubDate": "Fri, 09 Oct 2026 18:11:44 +0000",
+     "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space station",
+     "source": "NASA",
+     "zh": "NASA Seeks US Industry Plans for Commercial Space Stations"
+    },
     {
      "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
@@ -1376,14 +1384,6 @@ window.INDUSTRY_DATA = {
      "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission. The mission is scheduled to launch from JAXA’s Tanegashima Space Center in Japan o",
      "source": "NASA",
      "zh": "NASA Briefing to Highlight Contributions to Martian Moons Mission"
-    },
-    {
-     "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
-     "link": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
-     "pubDate": "Thu, 08 Oct 2026 19:40:00 +0000",
-     "summary": "Editor’s note: This release was updated Oct. 8, 2026 with the formal name of the summit. NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjuncti",
-     "source": "NASA",
-     "zh": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit"
     },
     {
      "title": "What will it take to build a moon base?",
@@ -1706,12 +1706,12 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "I'm still around.. I'm just not writing here",
-     "link": "https://rachelbythebay.com/w/2026/10/08/idle/",
-     "pubDate": "Fri, 09 Oct 2026 17:43:27 +0000",
-     "summary": "Article URL: https://rachelbythebay.com/w/2026/10/08/idle/ Comments URL: https://news.ycombinator.com/item?id=50024108 Points: 21 # Comments: 3",
+     "title": "Scam American companies are using to manipulate ingredient lists",
+     "link": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+     "pubDate": "Fri, 09 Oct 2026 17:35:40 +0000",
+     "summary": "Article URL: https://twitter.com/WallStreetApes/status/2108594998656807078 Comments URL: https://news.ycombinator.com/item?id=50023995 Points: 20 # Comments: 10",
      "source": "Hacker News",
-     "zh": "I'm still around.. I'm just not writing here"
+     "zh": "Scam American companies are using to manipulate ingredient lists"
     },
     {
      "title": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)",
@@ -1805,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Triple-A Minesweeper",
      "link": "https://minesweeper.mikelacher.com/",
      "pubDate": "Fri, 09 Oct 2026 15:51:05 +0000",
-     "summary": "Article URL: https://minesweeper.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50022292 Points: 8 # Comments: 3",
+     "summary": "Article URL: https://minesweeper.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50022292 Points: 26 # Comments: 4",
      "source": "Hacker News",
      "zh": "Triple-A Minesweeper"
     },
@@ -1877,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
      "link": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
      "pubDate": "Fri, 09 Oct 2026 15:05:24 +0000",
-     "summary": "Article URL: https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands Comments URL: https://news.ycombinator.com/item?id=50021540 Points: 115 # Comments: 56",
+     "summary": "Article URL: https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands Comments URL: https://news.ycombinator.com/item?id=50021540 Points: 122 # Comments: 62",
      "source": "Hacker News",
      "zh": "Germany transforms former coal mines into Europe's largest lake landscape"
     },
@@ -1917,9 +1917,17 @@ window.INDUSTRY_DATA = {
      "title": "Python 3.15",
      "link": "https://www.python.org/downloads/release/python-3150/",
      "pubDate": "Fri, 09 Oct 2026 14:35:42 +0000",
-     "summary": "Article URL: https://www.python.org/downloads/release/python-3150/ Comments URL: https://news.ycombinator.com/item?id=50021127 Points: 219 # Comments: 41",
+     "summary": "Article URL: https://www.python.org/downloads/release/python-3150/ Comments URL: https://news.ycombinator.com/item?id=50021127 Points: 236 # Comments: 51",
      "source": "Hacker News",
      "zh": "Python 3.15"
+    },
+    {
+     "title": "'Wallace and Gromit,' 90% Alone",
+     "link": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+     "pubDate": "Fri, 09 Oct 2026 13:49:31 +0000",
+     "summary": "Article URL: https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone Comments URL: https://news.ycombinator.com/item?id=50020533 Points: 20 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "'Wallace and Gromit,' 90% Alone"
     },
     {
      "title": "Microsoft barred from sponsoring foreign workers for US residency",
@@ -1933,17 +1941,9 @@ window.INDUSTRY_DATA = {
      "title": "Our $445M Series D",
      "link": "https://oxide.computer/blog/our-445m-series-d",
      "pubDate": "Fri, 09 Oct 2026 13:12:47 +0000",
-     "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 384 # Comments: 159",
+     "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 408 # Comments: 165",
      "source": "Hacker News",
      "zh": "Our $445M Series D"
-    },
-    {
-     "title": "控股股东提议换届、董事长带头反对，硕世生物“钱权分离”架构下控制权纷争再升级",
-     "link": "https://www.tmtpost.com/8157820.html",
-     "pubDate": "Fri, 09 Oct 2026 21:09:49 +0800",
-     "summary": "围绕印章效力、控股股东主体存续风险、上市公司治理稳定性等多重争议，一场关乎董事会席位的博弈持续发酵。",
-     "source": "钛媒体",
-     "zh": "控股股东提议换届、董事长带头反对，硕世生物“钱权分离”架构下控制权纷争再升级"
     }
    ]
   },
@@ -1953,6 +1953,38 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google rolling out Android 17 QPR2 Beta 7 for Pixel",
+     "link": "https://9to5google.com/2026/10/09/android-17-qpr2-beta-7-pixel/",
+     "pubDate": "Fri, 09 Oct 2026 18:21:19 +0000",
+     "summary": "Android 17 QPR2 Beta 7 is now available for Pixel devices even as testing on QPR3 got underway last week. more…",
+     "source": "9to5Google",
+     "zh": "Google rolling out Android 17 QPR2 Beta 7 for Pixel"
+    },
+    {
+     "title": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring",
+     "link": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/",
+     "pubDate": "Fri, 09 Oct 2026 18:19:00 +0000",
+     "summary": "Onvis has released a new outdoor smart plug that checks all the boxes you’d want in an outdoor smart plug: Matter over Thread, real-time energy monitoring, and IP65 weather resistance. If you’ve been looking for an outdoor plug that works natively with Apple Home without a hub of its own, this is a ",
+     "source": "9to5Mac",
+     "zh": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring"
+    },
+    {
+     "title": "Apple marks first Apple TV 4K ‘vintage’ with new model imminent",
+     "link": "https://9to5mac.com/2026/10/09/apple-marks-first-apple-tv-4k-vintage-with-new-model-imminent/",
+     "pubDate": "Fri, 09 Oct 2026 18:15:44 +0000",
+     "summary": "The original Apple TV 4K from 2017 has just been added to Apple’s “vintage” products list. Here’s what that means. more…",
+     "source": "9to5Mac",
+     "zh": "Apple marks first Apple TV 4K ‘vintage’ with new model imminent"
+    },
+    {
+     "title": "Apple may have an iPhone 18 Pro demand problem",
+     "link": "https://www.androidauthority.com/iphone-18-pro-sales-3721452/",
+     "pubDate": "Fri, 09 Oct 2026 18:09:18 +0000",
+     "summary": "The new phone apparently isn't selling as well as Apple hoped.",
+     "source": "Android Authority",
+     "zh": "Apple may have an iPhone 18 Pro demand problem"
+    },
     {
      "title": "Garmin’s Fenix 9 Pro has GPS problems and app devs are frustrated",
      "link": "https://www.androidauthority.com/garmin-fenix-9-pro-gps-issue-3721441/",
@@ -2050,14 +2082,6 @@ window.INDUSTRY_DATA = {
      "zh": "Character.ai chatbots encouraged self-harm, lawsuit alleges"
     },
     {
-     "title": "This compact Samsung soundbar with built-in woofer just dropped to $79.99",
-     "link": "https://www.androidauthority.com/samsung-b-series-soundbar-hw-b400f-deal-3721458/",
-     "pubDate": "Fri, 09 Oct 2026 16:16:07 +0000",
-     "summary": "Save 43% on Samsung’s compact HW-B400F soundbar, a 2025 model with Voice Enhance, Bass Boost, and HDMI ARC.",
-     "source": "Android Authority",
-     "zh": "This compact Samsung soundbar with built-in woofer just dropped to $79.99"
-    },
-    {
      "title": "Apple ‘Welcome home’ event: Three new products are coming next week",
      "link": "https://9to5mac.com/2026/10/09/apple-welcome-home-event-three-new-products/",
      "pubDate": "Fri, 09 Oct 2026 16:04:53 +0000",
@@ -2098,28 +2122,12 @@ window.INDUSTRY_DATA = {
      "zh": "Pixel Watch 4 update adds Google’s AI watch face generator, more"
     },
     {
-     "title": "Will Apple’s ‘Welcome home’ event be livestreamed? Here’s what we know",
-     "link": "https://9to5mac.com/2026/10/09/will-apples-welcome-home-event-be-livestreamed-heres-what-we-know/",
-     "pubDate": "Fri, 09 Oct 2026 15:18:17 +0000",
-     "summary": "Apple has confirmed a special ‘Welcome home’ product launch event is happening next Tuesday, October 13. But it hasn’t yet said whether there will be a keynote video. Here’s what we know. more…",
-     "source": "9to5Mac",
-     "zh": "Will Apple’s ‘Welcome home’ event be livestreamed? Here’s what we know"
-    },
-    {
      "title": "The RedMagic 12 Pro+ is shaping up to be an RGB lover’s dream",
      "link": "https://www.gsmarena.com/the_redmagic_12_pro_is_shaping_up_to_be_an_rgb_lovers_dream-news-74978.php",
      "pubDate": "Fri, 09 Oct 2026 17:05:03 +0200",
      "summary": "RedMagic’s upcoming flagship, the 12 Pro+, is set to launch in China next week. After revealing the phone’s design and color options recently, the brand has now shared details about the device’s cooling system. The RedMagic 12 Pro+ will be the world’s first smartphone to feature an RGB liquid coolin",
      "source": "GSMArena",
      "zh": "The RedMagic 12 Pro+ is shaping up to be an RGB lover’s dream"
-    },
-    {
-     "title": "Apple TV reveals ‘unconventional’ rom-com show with The White Lotus star",
-     "link": "https://9to5mac.com/2026/10/09/apple-tv-reveals-unconventional-rom-com-show-with-the-white-lotus-star/",
-     "pubDate": "Fri, 09 Oct 2026 14:44:12 +0000",
-     "summary": "Apple TV just debuted the first look at Prodigies, a new series from The White Lotus star Will Sharpe that offers an “unconventional take” on the romantic comedy genre. more…",
-     "source": "9to5Mac",
-     "zh": "Apple TV reveals ‘unconventional’ rom-com show with The White Lotus star"
     },
     {
      "title": "Computer market shipments fell 20% between July and September",
@@ -2184,14 +2192,6 @@ window.INDUSTRY_DATA = {
      "summary": "📅本周新预告《寒夜怪谈》新预告10月1日，电影《寒夜怪谈》发布了新预告，将于11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ... 查看全文",
      "source": "少数派",
      "zh": "本周看什么 | 最近值得一看的 11 部作品"
-    },
-    {
-     "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
-     "link": "https://sspai.com/post/115456",
-     "pubDate": "Fri, 09 Oct 2026 14:43:28 +0800",
-     "summary": "让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。 查看全文",
-     "source": "少数派",
-     "zh": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧"
     }
    ]
   },
@@ -2202,12 +2202,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Trump created a committee to dig into the Fed&apos;s Lisa Cook. What is it and what comes next?",
+     "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+     "pubDate": "Fri, 09 Oct 2026 18:20:57 GMT",
+     "summary": "Trump’s bid to fire the Fed's Lisa Cook follows a Supreme Court ruling and could affect Jerome Powell, central bank independence and interest rates.",
+     "source": "CNBC",
+     "zh": "Trump created a committee to dig into the Fed&apos;s Lisa Cook. What is it and what comes next?"
+    },
+    {
+     "title": "“六张网”协同进阶 乘数效应激活产业新动能",
+     "link": "http://finance.eastmoney.com/news/1352,202610103891617135.html",
+     "pubDate": "Sat, 10 Oct 2026 02:17:06 +0800",
+     "summary": "“十五五”开局之年，我国水网、新型电网、算力网、新一代 通信 网、城市 地下管网 、 物流 网“六张网”建设全面提速。作为现代化基础设施体系的核心骨干，“六张网”正从各自独立建设的单项工程，转向跨领域、跨行业、跨主体的协同融合，持续重构国内基础设施体系与产业发展格局。 9月25日起，《人民日报》连续刊发10篇“金轩”署名文章，立足中国经济运行实际，深入剖析发展潜力、解读政策导向、洞察时代机遇。在10月4日刊发的《加快建设强大国内市场》一文中提出，要强化“十五五”规划纲要部署的109项重大工程与“六张网”规划建设协同推进，组织做好“六网协同”场景示范。 业内专家表示，“六张网”协同发展是我国基建",
+     "source": "东方财富股票",
+     "zh": "“六张网”协同进阶 乘数效应激活产业新动能"
+    },
+    {
+     "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+     "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 18:16:00 GMT",
+     "summary": "Telecommunications stocks were seeing their worst daily drops in over a decade.",
+     "source": "MarketWatch",
+     "zh": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat"
+    },
+    {
+     "title": "央企锚定价值创造新坐标 “链长”引领产业链协同共建",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891616983.html",
+     "pubDate": "Sat, 10 Oct 2026 02:07:05 +0800",
+     "summary": "中经记者索寒雪北京报道 “十五五”时期是我国基本实现社会主义现代化夯实基础、全面发力的关键时期。作为国民经济的“顶梁柱”和产业链“链长”，中央企业如何锚定高质量发展 新坐标 、以 人工智能 赋能产业升级、带动上下游协同共进，成为各界关注的焦点。 9月28 日，国务院国资委新闻发言人、副主任庞骁刚在国新办新闻发布会上介绍，中央企业发展“十五五”规划已正式印发，明确到2030年，中央企业为国民经济高质量发展创造更大价值；围绕增加值、功能价值、经济增加值、战略性新兴产业增加值、品牌价值5个方面设置定量指标，推动价值创造成为企业发展的核心 驱动力 ；特别是将增加值凸显出来，弱化营业收入等规模类指标，引",
+     "source": "东方财富股票",
+     "zh": "央企锚定价值创造新坐标 “链长”引领产业链协同共建"
+    },
+    {
      "title": "Microsoft is nearing a big milestone that solidifies its revival",
      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 18:06:00 GMT",
      "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
      "source": "MarketWatch",
      "zh": "Microsoft is nearing a big milestone that solidifies its revival"
+    },
+    {
+     "title": "巴勒斯坦要求安理会紧急开会 呼吁国际社会干预以方升级袭击行为",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891616730.html",
+     "pubDate": "Sat, 10 Oct 2026 02:05:42 +0800",
+     "summary": "据巴勒斯坦方面10月9日消息，巴勒斯坦总统府已正式指示其外交部及驻联合国代表团， 要求联合国安理会召开紧急会议，呼吁国际社会紧急干预、采取切实措施制止以军和犹太人定居者不断升级的袭击行为，并向巴勒斯坦人民提供国际保护。 巴勒斯坦总统府发表声明指出，近期犹太人定居者与以军对巴勒斯坦城市、村庄和难民营的袭击急速升级，严重威胁到当地人的生命和财产安全，将地区局势推向进一步恶化与不稳定的边缘，进而产生极其危险的后果。声明强调，犹太人定居者的暴力加剧与以军的军事侵入、强迫巴勒斯坦民众流离失所等行动同步发生，迫切需要国际社会的紧急干预。 巴勒斯坦总统府官方发言人在声明中呼吁安理会承担起法律与政治责任，重申",
+     "source": "东方财富股票",
+     "zh": "巴勒斯坦要求安理会紧急开会 呼吁国际社会干预以方升级袭击行为"
+    },
+    {
+     "title": "巴拿马发生7.7级地震",
+     "link": "http://finance.eastmoney.com/news/11790,202610103891616897.html",
+     "pubDate": "Sat, 10 Oct 2026 02:04:21 +0800",
+     "summary": "根据欧洲-地中海地震中心报告，当地时间9日12时56分，巴拿马中部马卡拉卡斯地区发生7.7级地震，震源深度12公里。美国海啸预警系统发布海啸警告。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "巴拿马发生7.7级地震"
     },
     {
      "title": "Hedge funds cut Bitcoin, brokerages load up in Q2: CoinShares report",
@@ -2224,6 +2272,30 @@ window.INDUSTRY_DATA = {
      "summary": "Also in Weekend Reads: A positive case for the bond market, how prediction markets can pull you in, and a warning to those who benefit from GLP-1s.",
      "source": "MarketWatch",
      "zh": "Why you need to take a closer look at your favorite stock index"
+    },
+    {
+     "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
+     "link": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
+     "pubDate": "Fri, 09 Oct 2026 18:02:01 GMT",
+     "summary": "The escalating attacks are testing whether a rebound in crude oil exports from the Middle East can be sustained under high risk conditions.",
+     "source": "CNBC",
+     "zh": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports"
+    },
+    {
+     "title": "美股三大指数集体上涨 超大规模云厂商股价走高 纳斯达克中国金龙指数涨超2%",
+     "link": "http://finance.eastmoney.com/news/1345,202610093891490496.html",
+     "pubDate": "Sat, 10 Oct 2026 02:01:38 +0800",
+     "summary": "美东时间周五，美股三大指数集体上涨，截至发稿，道指涨0.80%，纳指涨0.57%，标普500指数涨0.57%。 超大规模云厂商股价集体上涨，截至发稿， 谷歌-A 股价上涨1.23%，报352.57美元/股，总市值报4.31万亿美元； 微软 股价上涨2.24%，报534.34美元/股，总市值报3.97万亿美元； 亚马逊 股价上涨2.68%，报260.86美元/股，总市值报2.81万亿美元； 甲骨文 股价上涨5.51%，报142.64美元/股，总市值报4324亿美元。 热门中概股集体大涨，出行与 新能源 车板块涨幅居前，截至发稿， 纳斯达克 中国金龙指数涨2.56%，报5746.70点。个股方面，",
+     "source": "东方财富股票",
+     "zh": "美股三大指数集体上涨 超大规模云厂商股价走高 纳斯达克中国金龙指数涨超2%"
+    },
+    {
+     "title": "把握新机遇 拓展新空间 培育新动能",
+     "link": "http://finance.eastmoney.com/news/1352,202610103891617063.html",
+     "pubDate": "Sat, 10 Oct 2026 02:01:07 +0800",
+     "summary": "文吴婧 从9月25日到10月4日，《人民日报》连续10天刊发10篇署名“金轩”的文章，着眼“十五五”发展全局，以纵深视角解析中国经济的新机遇、新空间、新动能，绘就一幅迈向高质量发展的壮阔图景。 这幅图景，不仅在纸面上，更在千行百业、万家灯火中：一款国产大模型发布，全球开发者竞相下载；矿山深处，无人矿卡往来穿梭；雪域高原，牧民网购的家电包邮到家。这些画面背后，是时代大潮的激荡——世界百年未有之大变局加速演进，新一轮科技革命和产业变革蓬勃兴起。察势者智，驭势者赢。风高浪急之中，中国经济的确定性从哪里来？答案就蕴藏在三个“新”里：新机遇正在敲门，新空间正在打开，新动能正在奔涌。 新机遇，是时代打开的",
+     "source": "东方财富股票",
+     "zh": "把握新机遇 拓展新空间 培育新动能"
     },
     {
      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -2250,22 +2322,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trump appoints committee to investigate statements by the Fed&apos;s Lisa Cook"
     },
     {
-     "title": "美国家庭债务问题拉响警报！偿债能力持续恶化 近两成出现贷款逾期",
-     "link": "http://finance.eastmoney.com/news/1346,202610103891616344.html",
-     "pubDate": "Sat, 10 Oct 2026 01:56:03 +0800",
-     "summary": "财联社10月10日讯 美联储当地时间周五公布的报告显示，过去三年(2022年至2025年间)，美国居民按时偿还债务的能力持续恶化，相关指标降至全球金融危机后不久以来的最差水平。 美联储在《消费者财务状况调查》中发现，尽管美国家庭之间的财富差距有所收窄，但其偿还债务的能力却明显下降。 报告指出：“自2010年开展的调查以来，美国家庭未能按时履行财务义务的情况从未如此严重。” 这份每三年发布一次的报告涵盖大量家庭财务数据，旨在全面反映美国家庭的财务健康状况。此次调查主要于去年4月至5月进行。 2010年，美国经济刚刚开始走出后来被称为“大衰退”的经济衰退期。这场衰退从2007年12月持续至2009",
-     "source": "东方财富股票",
-     "zh": "美国家庭债务问题拉响警报！偿债能力持续恶化 近两成出现贷款逾期"
-    },
-    {
-     "title": "阿联酋检方通报迪拜航空客机恐袭图谋 副驾驶策划自杀式袭击",
-     "link": "http://finance.eastmoney.com/news/11790,202610103891616226.html",
-     "pubDate": "Sat, 10 Oct 2026 01:55:02 +0800",
-     "summary": "阿联酋联邦总检察长介绍迪拜航空FZ1073航班事件调查情况。经查，该航班一名29岁的阿曼籍副机长涉嫌事先策划并实施一项具有恐怖主义目的的行动，企图劫持客机实施自杀式袭击，目标为以色列特拉维夫本·古里安国际 机场 旅客航站楼，意图制造大规模人员伤亡。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "阿联酋检方通报迪拜航空客机恐袭图谋 副驾驶策划自杀式袭击"
-    },
-    {
      "title": "Trump ramps up battle to fire Fed’s Lisa Cook. Her lawyers say there’s no basis to remove her.",
      "link": "https://www.marketwatch.com/story/trump-ramps-up-battle-to-fire-feds-lisa-cook-her-lawyers-say-theres-no-basis-to-remove-her-3a62c5cd?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 17:50:00 GMT",
@@ -2274,52 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Trump ramps up battle to fire Fed’s Lisa Cook. Her lawyers say there’s no basis to remove her."
     },
     {
-     "title": "委内瑞拉授予SpaceX卫星互联网特许权",
-     "link": "http://finance.eastmoney.com/news/1360,202610103891616122.html",
-     "pubDate": "Sat, 10 Oct 2026 01:49:58 +0800",
-     "summary": "委内瑞拉授予 SpaceX 卫星互联网 特许权。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "委内瑞拉授予SpaceX卫星互联网特许权"
-    },
-    {
-     "title": "低端产能加速出清 水泥行业市场集中度进一步提升",
-     "link": "http://finance.eastmoney.com/news/1355,202610103891607729.html",
-     "pubDate": "Sat, 10 Oct 2026 01:47:44 +0800",
-     "summary": "房地产 、基建投资持续走弱，令 水泥 行业进入深度调整期。当前行业亏损面已达60%，大量中小 水泥 企业陷入价格倒挂、库存高企、回款不畅的经营困局。据不完全统计，今年已有20余家 水泥 及粉磨企业进入破产相关程序，中小主体债务风险集中暴露，并向上游产业链传导。 业内人士判断，短期行业回款与坏账环境难以根本性好转，仅存在局部小幅修复空间。在错峰生产、超低排放改造、碳约束等多重政策叠加下，中小落后产能加速出清，行业整合将以并购为主、破产清算为辅，市场集中度持续向龙头聚拢。 产业链风险向上游蔓延 水泥行业需求持续收缩、供给过剩、价格反复探底，行业利润一路下行。 据中国水泥网不完全统计，今年以来，全国",
-     "source": "东方财富股票",
-     "zh": "低端产能加速出清 水泥行业市场集中度进一步提升"
-    },
-    {
      "title": "Astera Labs, Salesforce among IT stocks with A+ EPS revision grades",
      "link": "https://seekingalpha.com/news/4651837-astera-labs-salesforce-among-it-stocks-with-a-eps-revision-grades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 13:40:15 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Astera Labs, Salesforce among IT stocks with A+ EPS revision grades"
-    },
-    {
-     "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
-     "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 17:35:00 GMT",
-     "summary": "A new report paints OpenAI’s financial picture in a more optimistic light.",
-     "source": "MarketWatch",
-     "zh": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue"
-    },
-    {
-     "title": "美联储理事库克面临新考验 特朗普新设委员会调查房贷欺诈指控",
-     "link": "http://finance.eastmoney.com/news/1346,202610103891616067.html",
-     "pubDate": "Sat, 10 Oct 2026 01:33:00 +0800",
-     "summary": "美国总统特朗普正着手成立一个委员会，调查美联储理事丽莎·库克（Lisa Cook）涉嫌房贷欺诈的指控，并要求她出席白宫听证会自辩。 白宫公布了一份特朗普于周三签署的备忘录，宣布成立该委员会。特朗普在备忘录中表示：“作为总统，我有责任确保法律得到忠实执行，包括解雇那些不值得信任、无法如实陈述事实并遵守法律的下属。” 他表示，该委员会将调查是否存在足够的“正当理由”将库克免职。特朗普在备忘录中要求库克于11月5日出席白宫听证会，届时委员会将能够“审议针对她的证据和指控”。 特朗普表示，该委员会将包括白宫国家经济委员会主任凯文·哈西特（Kevin Hassett），以及美国平等就业机会委员会主席和政",
-     "source": "东方财富股票",
-     "zh": "美联储理事库克面临新考验 特朗普新设委员会调查房贷欺诈指控"
-    },
-    {
-     "title": "10年期法债收益率周五跌超4个基点 本周两年期法债收益率跌超9个基点",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891615955.html",
-     "pubDate": "Sat, 10 Oct 2026 01:32:02 +0800",
-     "summary": "周五（10月9日）欧市尾盘，法国10年期国债收益率跌4.2个基点，报4.853%，跳空低开之后呈现出W形走势，本周累跌1.7个基点，10月5-8日走出V形反转行情。两年期法债收益率累跌9.5个基点，报3.643%，10月5-6日持续下跌，随后低位震荡；30年期法债收益率累跌2.0个基点，报5.410%。意大利10年期国债收益率跌3.0个基点，报4.572%，本周累跌3.3个基点；两年期意债收益率累跌5.9个基点，30年期意债收益率累涨2.2个基点。西班牙10年期国债收益率累涨0.9个基点，报4.095%，10月8日曾达到4.2%。希腊10年期国债收益率累跌6.1个基点，报4.415%。 （文章",
-     "source": "东方财富股票",
-     "zh": "10年期法债收益率周五跌超4个基点 本周两年期法债收益率跌超9个基点"
     },
     {
      "title": "Visa set to continue gains for seven straight sessions; up nearly 2.5%",
@@ -2410,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "Cable One plunges on report lender filed lawsuit to block Mega Broadband deal"
     },
     {
-     "title": "Tesla drops &apos;Full Self-Driving&apos; brand name in Europe after regulator pushback",
-     "link": "https://www.cnbc.com/2026/10/09/tesla-full-self-driving-europe-regulator.html",
-     "pubDate": "Fri, 09 Oct 2026 17:12:32 GMT",
-     "summary": "German regulators called Tesla's \"Full Self-Driving\" brand name \"somewhat misleading.\"",
-     "source": "CNBC",
-     "zh": "Tesla drops &apos;Full Self-Driving&apos; brand name in Europe after regulator pushback"
-    },
-    {
      "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
      "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
      "pubDate": "Fri, 09 Oct 2026 17:12:17 GMT",
@@ -2432,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "The decision to livestream the execution of Nidal Malik Hasan is a sign of profound moral decay",
      "source": "Financial Times",
      "zh": "Trump and Hegseth’s execution-type deal"
-    },
-    {
-     "title": "Americans&apos; debt problems are flashing a warning not seen since the Great Recession",
-     "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-     "pubDate": "Fri, 09 Oct 2026 16:10:41 GMT",
-     "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
-     "source": "CNBC",
-     "zh": "Americans&apos; debt problems are flashing a warning not seen since the Great Recession"
     }
    ]
   },

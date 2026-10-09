@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/9 20:11:48",
+ "generated_at": "2026/10/9 20:31:48",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge",
+     "link": "https://www.eetimes.com/u-s-manufacturing-activity-sustains-growth-in-september-as-backlogs-surge/",
+     "pubDate": "Fri, 09 Oct 2026 12:11:04 +0000",
+     "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
+    },
+    {
      "title": "Failure analysis in the era of 3D integration",
      "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
      "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
@@ -432,14 +440,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nuremberg / Munich, Germany, 2026 — SCHIEDERWERK GmbH, a specialist in custom power electronics solutions engineered and manufactured in Germany, will showcase its latest platform-based power supplies and innovative power management solutions for mobile, medical, and industrial applications at elect",
      "source": "EE Times",
      "zh": "SCHIEDERWERK Showcases Novel Power Supply Solutions for Mission-Critical Applications at electronica 2026"
-    },
-    {
-     "title": "NVIDIA Jetson to SiMa.ai Modalix MLSoC Migration Guide",
-     "link": "https://www.eetimes.com/nvidia-jetson-to-sima-ai-modalix-mlsoc-migration-guide/",
-     "pubDate": "Thu, 08 Oct 2026 14:00:00 +0000",
-     "summary": "This technical guide provides a practical framework for migrating machine learning models and applications from an NVIDIA/CUDA-based environment to the SiMa.ai Physical AI platform. It explains the key differences between the two deployment workflows, outlines the model and application migration pro",
-     "source": "EE Times",
-     "zh": "NVIDIA Jetson to SiMa.ai Modalix MLSoC Migration Guide"
     },
     {
      "title": "The silent killer of analog reliability: Why SPICE misses floating net",
@@ -1306,6 +1306,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
+     "link": "https://payloadspace.com/nasa-signs-space-nuclear-pact-says-moon-base-is-ahead-of-schedule/",
+     "pubDate": "Fri, 09 Oct 2026 12:18:10 +0000",
+     "summary": "Isaacman gave updates at the White House's “Science: A New Golden Age Summit.\" The post NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule appeared first on Payload .",
+     "source": "Payload",
+     "zh": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule"
+    },
+    {
      "title": "Europe’s Space Defenses Fall Just Shy of Weaponization",
      "link": "https://payloadspace.com/europes-space-defenses-fall-just-shy-of-weaponization/",
      "pubDate": "Fri, 09 Oct 2026 05:13:00 +0000",
@@ -1424,14 +1432,6 @@ window.INDUSTRY_DATA = {
      "summary": "Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […] The post Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format"
-    },
-    {
-     "title": "Colorado Springs, Huntsville Team Up on Golden Dome",
-     "link": "https://payloadspace.com/colorado-springs-huntsville-team-up-on-golden-dome/",
-     "pubDate": "Tue, 06 Oct 2026 17:30:00 +0000",
-     "summary": "“It’s a transformed relationship between Colorado Springs and Huntsville,” Rep. Jeff Crank (R-CO) told Payload. “When I took office, I don’t think it was a bad relationship, but it was one where both communities were kind of looking over their shoulder at the other. That wasn’t good for America, and",
-     "source": "Payload",
-     "zh": "Colorado Springs, Huntsville Team Up on Golden Dome"
     },
     {
      "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
@@ -1706,6 +1706,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "超频三 C3 T300 BK 海景房机箱发售：兼容 240mm 水冷，129 元",
+     "link": "https://www.ithome.com/1/011/116.htm",
+     "pubDate": "Fri, 09 Oct 2026 12:24:16 GMT",
+     "summary": "IT之家 10 月 9 日消息，超频三旗下 C3 T300 BK 海景房机箱现已在京东发售， 定价为 129 元 。 京东 超频三 C3 T300 BK 机箱 129 元 直达链接 该机箱尺寸为 330 x 272 x 328mm，采用 270 度全景无立柱设计，配合厚度为 3.0mm 的钢化玻璃侧板，能够直观呈现内部的硬件装配。机箱支持 M-ATX 与 ITX 主板，顶部位置配备了快拆磁吸防尘网。I/O 方面提供 1 个 USB-A 3.0、1 个 USB-A 2.0、1 个 3.5mm 音频接口。 该机箱显卡限长为 310mm，CPU 散热器的限高为 152mm。机箱电源舱支持 ATX 规",
+     "source": "IT之家",
+     "zh": "超频三 C3 T300 BK 海景房机箱发售：兼容 240mm 水冷，129 元"
+    },
+    {
+     "title": "乘联分会：2026 年 9 月全国新能源乘用车厂商批发销量预估 167 万辆，同比增长 12%",
+     "link": "https://www.ithome.com/1/011/115.htm",
+     "pubDate": "Fri, 09 Oct 2026 12:20:26 GMT",
+     "summary": "IT之家 10 月 9 日消息，据乘联分会，2026 年 9 月，全国新能源乘用车厂商批发销量预估达到 167 万辆，同比增长 12%，环比增长 11%，实现双位数双增，标志着新能源板块在经历前期调整后已进入强势筑底的复苏通道，新能源增速显著高于同期整体车市大盘。 文章称，2026 年 9 月新能源乘用车批发端呈现“总量温和增长、结构剧烈分化”的格局，外部环境成为主导销量走势的关键变量。高油价持续压制燃油车消费，为新能源替代创造窗口，但海外地缘冲突引发的供应链与贸易环境不确定性，以及去年同期国内“以旧换新”补贴收紧引发抢购效应带来的高基数，共同构成了批发端增速放缓的深层背景。 由于中秋假期在 ",
+     "source": "IT之家",
+     "zh": "乘联分会：2026 年 9 月全国新能源乘用车厂商批发销量预估 167 万辆，同比增长 12%"
+    },
+    {
+     "title": "地球轨道已有1.6万颗卫星，到2030年，预估可达10万颗……",
+     "link": "https://www.huxiu.com/article/4896248.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 20:16:44 +0800",
+     "summary": "本文来自微信公众号： 世界科学 ，作者：编译 莫庄非，原文标题：《地球轨道已有 1.6 万颗卫星，到2030年，预估可达10 万颗……》 你知道有多少颗卫星绕着地球转吗？ 截至今年10月，共有约1.6万颗人造地球卫星在轨，为全球各类业务提供支持，包括GPS导航、气象预报、金融业务、应急服务以及互联网通信等。 不过，同时也应看到，1.6万已是个拥挤的数字，而鉴于每隔数周就会有数十颗新卫星发射升空，保守的预测者判断，到2030年，绕地卫星数量将达到令人震撼的6万颗——更激进些的预估则认为突破10万并非难事。 卫星数量猛增带来一项重大挑战：针对日益拥挤的轨道环境，人类该如何在保障卫星持续稳定工作的同",
+     "source": "虎嗅",
+     "zh": "地球轨道已有1.6万颗卫星，到2030年，预估可达10万颗……"
+    },
+    {
+     "title": "7-Eleven关掉印度最后31家店，便利店在印度到底卖给谁？",
+     "link": "https://www.huxiu.com/article/4896246.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 20:11:00 +0800",
+     "summary": "本文来自微信公众号： 食情局 ，作者：局哥 0 9月30日，7-Eleven在印度的最后31家门店全部关门停业。 Seven&i Holdings证实了关店的消息，但同时表示，长期来看仍希望寻找进入印度市场的其他路径。 五年前，这个故事的开局并不差。 2021年10月，印度最大零售商Reliance Retail把7-Eleven引进印度，在孟买开出第一家门店。 图12021年10月，7-Eleven印度首店在孟买开业，门口挂满节庆花环（图源：法新社/AFP） 这是一次双方都极其看重的联姻：Seven&i带来了全球规模最大的便利店品牌与标准化运营体系，Reliance则负责提供印度本土的供应链",
+     "source": "虎嗅",
+     "zh": "7-Eleven关掉印度最后31家店，便利店在印度到底卖给谁？"
+    },
+    {
+     "title": "为什么大企业认错越来越难",
+     "link": "https://www.huxiu.com/article/4896242.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 20:08:50 +0800",
+     "summary": "本文来自微信公众号： 太阳照常升起 ，作者：慕峰，题图来自：AI生成 不单指某家企业，而是一个普遍现象，原因大概包括： 1、来自各方的保护与补贴太多，大而不能倒，亏而不能并，市场机制无法发挥作用，消费者说了不算，利润率再低、质量再差都能生存； 2、中美大博弈背景下，阶段性打民族感情牌，利用民众爱国情绪，认为自己有了护身符； 3、&ldquo;互联网思维&rdquo;占领实体企业，普遍公关化、网红化，宁愿花大钱引导舆论、搞各种违反《广告法》的宣传，也不愿把钱花在最基本的质量保障上； 4、企业越大，层级越多，甲方当惯了，供应商捧着、下属捧着，每天活在自己的世界里，一看到负面新闻就觉得是友商在攻击，",
+     "source": "虎嗅",
+     "zh": "为什么大企业认错越来越难"
+    },
+    {
+     "title": "俄罗斯鼠疫研究所员工死于“病因不明的肺炎”，近200人被隔离",
+     "link": "https://www.huxiu.com/article/4896244.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 20:06:41 +0800",
+     "summary": "本文来自微信公众号： 果壳 ，作者：见文末，编辑：odette 2026年10月2日，俄罗斯一家鼠疫研究所员工因重症肺炎去世，引发了全球担忧。 这家研究所位于西伯利亚，员工名叫达里娅·希皮洛娃（Darya Shipilova），今年28岁，她在9月末出现不适并就诊于附近医院。随后，研究所及医院的约200名接触者被隔离。 达里娅·希皮洛娃｜VK-Darya Shipilova 有传言称，希皮洛娃死于肺鼠疫，因为她在研究所实验室意外接触到了病原菌。 俄罗斯卫生监管机构回应，希皮洛娃死于“病因不明的肺炎”，没有证据表明她的疾病是由职业接触的病原体引起的。接触者中，没有发现鼠疫病例，90%已被解除隔离",
+     "source": "虎嗅",
+     "zh": "俄罗斯鼠疫研究所员工死于“病因不明的肺炎”，近200人被隔离"
+    },
+    {
      "title": "Xona’s commercial GPS alternative is about to go live",
      "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
      "pubDate": "Fri, 09 Oct 2026 12:00:00 +0000",
@@ -1762,62 +1810,6 @@ window.INDUSTRY_DATA = {
      "zh": "华为鸿蒙电脑 9 月体验报告发布：全新沉浸光感、图库 AI 修图、小艺任务模式等"
     },
     {
-     "title": "5 分钟充好，比亚迪闪充国庆期间累计服务超 122 万车次",
-     "link": "https://www.ithome.com/1/011/110.htm",
-     "pubDate": "Fri, 09 Oct 2026 11:48:27 GMT",
-     "summary": "IT之家 10 月 9 日消息，比亚迪今日发布闪充国庆出行答卷，国庆期间累计服务超 122 万车次，单枪单日最高服务车辆 74 台，号称“5 分钟充好，9 分钟充饱”。 截至 2026 年 10 月 7 日， 比亚迪闪充累计建成 12165 座闪充站 ，闪充高速站 2111 座，覆盖全国 341 座城市。国庆期间，累计服务用户超 54 万人服务车次超 122 万次；闪充单日最高服务车辆 188344 台；单枪单日最高服务车辆 74 台；单枪单日最大充电量 4069 度。 最繁忙闪充高速站 TOP3： 闪充（京沪高速宝应服务区上海方向）充电站 144 单 / 天，TOP1 闪充（宁洛高速周口服务",
-     "source": "IT之家",
-     "zh": "5 分钟充好，比亚迪闪充国庆期间累计服务超 122 万车次"
-    },
-    {
-     "title": "尊界刹车踏板断裂将拉高保费？4S店暂无变化，保险公司看是否有理赔事故",
-     "link": "https://www.huxiu.com/article/4896238.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 19:46:56 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：宋佳楠 近期，尊界V800刹车踏板支架断裂事件持续发酵，不少有意向购买该车型的用户把目光投向车险市场，关心这场风波会不会影响新车投保、推高整车保费，二手车买家也担忧后续续保成本抬升。 10月9日，北京通州万达鸿蒙智行体验中心的一名工作人员向界面新闻表示，现在购买尊界V800新车可以直接在4S店上保，各大保险公司的报价普遍在1.5万元左右（全险）。倘若4年内行车里程10万公里的新车有任何质量问题，车厂可以免费更换零配件，但出险需要看是否有理赔事故。 界面新闻记者也咨询了多位保险公司代理人员。其中，阳光保险工作人员称，目前公司网上渠道暂时不接新车保险，旧车可",
-     "source": "虎嗅",
-     "zh": "尊界刹车踏板断裂将拉高保费？4S店暂无变化，保险公司看是否有理赔事故"
-    },
-    {
-     "title": "去了趟福建C城，已经垄断了日本۩墓碑۩",
-     "link": "https://www.huxiu.com/article/4896237.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 19:44:26 +0800",
-     "summary": "本文来自微信公众号： 地球知识局 ，作者：地球知识局 前段时间，我去了趟福建泉州。早就听说了那边的“惠女文化”活动，蟳埔簪花这个国家级非遗文化也很吸引我。作为整个古城都是世界遗产的地方，泉州肯定是个适合旅游的快乐福地。 泉郡风物，感受一下 （左滑，图：图虫创意）▼ 但让我意外的，是当地的一次打车经历：我打到的网约车司机是个本地的小老板。 他的本行是做校服，淡季没活干就出来跑网约车。话说，福建的老板为了赚钱，都是这么拼的嘛？ 不查不知道，泉州市下辖的惠安县还是中国的“校服之乡”。2025年，当地校服产销规模超200亿元，一个县就占全国的1/3。 惠安掠影 （左滑，图：图虫创意）▼ 在他一路分享下",
-     "source": "虎嗅",
-     "zh": "去了趟福建C城，已经垄断了日本۩墓碑۩"
-    },
-    {
-     "title": "Hucked and Shucked: The hidden costs of turning America's corn crop into fuel",
-     "link": "https://worldsensorium.com/hucked-and-shucked/",
-     "pubDate": "Fri, 09 Oct 2026 11:42:19 +0000",
-     "summary": "Article URL: https://worldsensorium.com/hucked-and-shucked/ Comments URL: https://news.ycombinator.com/item?id=50019112 Points: 3 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Hucked and Shucked: The hidden costs of turning America's corn crop into fuel"
-    },
-    {
-     "title": "孙占卿：国家科学奖章颁给科技巨头，“黄金时代”美国创新模式正在改变",
-     "link": "https://www.huxiu.com/article/4896236.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 19:40:34 +0800",
-     "summary": "本文来自微信公众号： IPP评论 ，作者：孙占卿 导语：2026年10月8日，美国总统特朗普在华盛顿举行的“科学：新的黄金时代”峰会上，向马斯克、黄仁勋、苏姿丰、谢尔盖・布林（谷歌联合创始人）、迈克尔・戴尔（戴尔科技）、萨蒂亚・纳德拉（微软CEO）等六位科技企业创始人及管理者颁授国家科学奖章或国家技术与创新奖章。这也是特朗普本届任期内首次颁发这两项国家级科技奖章。 美国国家科学委员会2026年发布的报告显示，2024年，美国企业部门承担了全国77%的研发活动，并提供了75%的研发资金；但在基础研究领域，高等教育机构仍承担着48%的研究工作。随着部分前沿科研越来越依赖高昂的设备投入、算力资源和复",
-     "source": "虎嗅",
-     "zh": "孙占卿：国家科学奖章颁给科技巨头，“黄金时代”美国创新模式正在改变"
-    },
-    {
-     "title": "2027 款深蓝 L06 及追风版正式上市，售价 11.49 万元起",
-     "link": "https://www.ithome.com/1/011/108.htm",
-     "pubDate": "Fri, 09 Oct 2026 11:39:50 GMT",
-     "summary": "IT之家 10 月 9 日消息，10 月 9 日，深蓝汽车正式推出 2027 款深蓝 L06 及深蓝 L06 追风版。其中，2027 款限时权益价 11.49 万元起，深蓝 L06 追风版 15.19 万元起，下订即享至高价值 62758 元的 12 重大超值购车权益。 据官方介绍，新车围绕操控、智能辅助驾驶、智能座舱及舒适性进行升级，追风版则采用专属赛道化空气动力学套件，进一步强化运动属性。 操控方面，2027 款深蓝 L06 搭载升级后的磁流变悬架，通过采用低粘度磁流变液及微米级珩磨工艺，进一步提升悬架响应速度和细碎振动过滤表现。官方称，该悬架每秒可进行 1000 次阻尼动态调节，响应速度",
-     "source": "IT之家",
-     "zh": "2027 款深蓝 L06 及追风版正式上市，售价 11.49 万元起"
-    },
-    {
-     "title": "医疗影像走到分叉口：谁在为「AI读片」买单？",
-     "link": "https://www.huxiu.com/article/4896233.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 19:34:46 +0800",
-     "summary": "本文来自微信公众号： 互联网医疗圈 ，作者：丁观，原文标题：《医疗影像走到分叉口：谁在为「AI读片」买单？》 一台CT出图，肺结节、冠脉、骨折各跑一套AI；另一台跑RADAR，一次标146种病。两种工作流并列，背后是两条技术路线。 但比技术路线更值得追问的，是另一个问题：这些AI读片的结果，到底谁在付钱？ 01 专病拿证，通用开源 专病路线的逻辑，是一个模型打一种病。 数坤的冠脉CTA-FFR是典型样本，公司多款产品已通过美国FDA与欧盟MDR CE认证，累计19张NMPA三类证，覆盖国内3000多家医疗机构，TOP100医院覆盖率超过90%，2025年收入约5.6亿元、毛利率维持70%以上，",
-     "source": "虎嗅",
-     "zh": "医疗影像走到分叉口：谁在为「AI读片」买单？"
-    },
-    {
      "title": "Meanwhile, a Sam Altman-backed bitcoin life insurance provider, raised $37.5M led by Bain Capital, sources say at a $350M valuation, up from $190M in April 2025 (Lucinda Shen/Axios)",
      "link": "https://www.techmeme.com/261009/p10#a261009p10",
      "pubDate": "Fri, 09 Oct 2026 07:25:03 -0400",
@@ -1845,9 +1837,17 @@ window.INDUSTRY_DATA = {
      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
      "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
      "pubDate": "Fri, 09 Oct 2026 11:03:48 +0000",
-     "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 64 # Comments: 18",
+     "summary": "Article URL: https://github.com/franzenzenhofer/big-arrow-on-the-screen Comments URL: https://news.ycombinator.com/item?id=50018817 Points: 77 # Comments: 25",
      "source": "Hacker News",
      "zh": "Let your AI agents paint big arrows, boxes and text on your screen"
+    },
+    {
+     "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+     "link": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+     "pubDate": "Fri, 09 Oct 2026 11:00:57 +0000",
+     "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
+     "source": "Ars Technica",
+     "zh": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?"
     },
     {
      "title": "Dunking on Dating App Profiles Is Content Gold. People Are Getting Sick of It",
@@ -1917,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
      "link": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
      "pubDate": "Fri, 09 Oct 2026 10:12:11 +0000",
-     "summary": "Article URL: https://www.nobelprize.org/prizes/peace/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=50018420 Points: 109 # Comments: 48",
+     "summary": "Article URL: https://www.nobelprize.org/prizes/peace/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=50018420 Points: 123 # Comments: 52",
      "source": "Hacker News",
      "zh": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay"
     },
@@ -1938,12 +1938,12 @@ window.INDUSTRY_DATA = {
      "zh": "A slew of cyberattacks hit Japanese companies in September, exposing the data of millions and prompting calls for security checks, as AI lowers hacking barriers (Sarah Hilton/Bloomberg)"
     },
     {
-     "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-     "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-     "pubDate": "Fri, 09 Oct 2026 10:00:26 +0000",
-     "summary": "Article URL: https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/ Comments URL: https://news.ycombinator.com/item?id=50018350 Points: 43 # Comments: 20",
-     "source": "Hacker News",
-     "zh": "OpenAI fires three safety researchers for \"mishandling research information\""
+     "title": "Volkswagen's replacement for the ID.4 crossover is here",
+     "link": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+     "pubDate": "Fri, 09 Oct 2026 10:00:59 +0000",
+     "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
+     "source": "Ars Technica",
+     "zh": "Volkswagen's replacement for the ID.4 crossover is here"
     }
    ]
   },
@@ -2202,6 +2202,134 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+     "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+     "pubDate": "Fri, 09 Oct 2026 12:20:12 GMT",
+     "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
+     "source": "CNBC",
+     "zh": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong"
+    },
+    {
+     "title": "Nobel Peace Prize awarded to human rights pioneer Navi Pillay",
+     "link": "https://www.ft.com/content/3ae8dc9c-ee3a-4fe5-9749-b88390b5930b?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 12:19:41 GMT",
+     "summary": "Prize given to South African human rights lawyer for her efforts to promote peace and international law",
+     "source": "Financial Times",
+     "zh": "Nobel Peace Prize awarded to human rights pioneer Navi Pillay"
+    },
+    {
+     "title": "Citi downgrades Pershing Square to Sell on valuation concerns",
+     "link": "https://seekingalpha.com/news/4651718-citi-downgrades-pershing-square-to-sell-on-valuation-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 08:17:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Citi downgrades Pershing Square to Sell on valuation concerns"
+    },
+    {
+     "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+     "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 12:16:00 GMT",
+     "summary": "“Both properties will be solely in his name.”",
+     "source": "MarketWatch",
+     "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
+    },
+    {
+     "title": "Fastly pops on back of Oppenheimer upgrade",
+     "link": "https://seekingalpha.com/news/4651719-fastly-pops-on-back-of-oppenheimer-upgrade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 08:15:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fastly pops on back of Oppenheimer upgrade"
+    },
+    {
+     "title": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults",
+     "link": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 12:15:00 GMT",
+     "summary": "Rapid weight loss can lead to issues with bone quality.",
+     "source": "MarketWatch",
+     "zh": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults"
+    },
+    {
+     "title": "富特科技：股东长江蔚来产业基金拟减持不超2.894%股份",
+     "link": "http://finance.eastmoney.com/news/1354,202610093891433010.html",
+     "pubDate": "Fri, 09 Oct 2026 20:15:00 +0800",
+     "summary": "富特科技 (301607.SZ)公告称，持股5%以上股东长江 蔚来 产业基金计划在2026年11月2日至2027年2月1日期间，以集中竞价或大宗交易方式减持公司股份不超过677.57万股，占公司总股本的2.894%。减持原因为自身资金需求，股份来源为首次公开发行前股份及资本公积金转增股本。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "富特科技：股东长江蔚来产业基金拟减持不超2.894%股份"
+    },
+    {
+     "title": "全球玻纤龙头，前三季度净利预增翻倍！股价年内已涨逾120%",
+     "link": "http://stock.eastmoney.com/news/11215,202610093891432480.html",
+     "pubDate": "Fri, 09 Oct 2026 20:14:25 +0800",
+     "summary": "10月9日晚间， 中国巨石 （SH600176，股价38.57元，市值1544.01亿元）发布《2026年前三季度业绩预增公告》，预计2026年前三季度实现归属于上市公司股东的净利润同比增加100%至110%；预计归属于上市公司股东的扣除非经常性损益的净利润同比同样增加100%至110%。公告显示，本期业绩预告未经注册会计师审计，具体准确的财务数据以公司正式披露的2026年第三季度报告为准。 前三季度净利预增100%至110% 根据业绩预增公告， 中国巨石 预计2026年前三季度（2026年1月1日至9月30日）实现归属于上市公司股东的净利润为51.36亿元至53.93亿元，与上年同期相比，将",
+     "source": "东方财富股票",
+     "zh": "全球玻纤龙头，前三季度净利预增翻倍！股价年内已涨逾120%"
+    },
+    {
+     "title": "德国经济部长：必须始终考虑整个供应链，单靠原油是不够的",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891431723.html",
+     "pubDate": "Fri, 09 Oct 2026 20:14:11 +0800",
+     "summary": "德国经济部长：必须始终考虑整个供应链，单靠原油是不够的。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "德国经济部长：必须始终考虑整个供应链，单靠原油是不够的"
+    },
+    {
+     "title": "德国经济部长：将优先释放柴油和取暖油，随后释放原油",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891431633.html",
+     "pubDate": "Fri, 09 Oct 2026 20:14:11 +0800",
+     "summary": "德国经济部长：将优先释放柴油和取暖油，随后释放原油。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "德国经济部长：将优先释放柴油和取暖油，随后释放原油"
+    },
+    {
+     "title": "BofA downgrades Smithfield Foods to Neutral as pork market weakens",
+     "link": "https://seekingalpha.com/news/4651713-bofa-downgrades-smithfield-foods-to-neutral-as-pork-market-weakens?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 08:14:07 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BofA downgrades Smithfield Foods to Neutral as pork market weakens"
+    },
+    {
+     "title": "德国经济部长：德国将释放最多1500万桶石油和石油产品",
+     "link": "http://finance.eastmoney.com/news/1356,202610093891432793.html",
+     "pubDate": "Fri, 09 Oct 2026 20:14:03 +0800",
+     "summary": "德国经济部长表示，德国将释放最多1500万桶石油和石油产品。将优先释放柴油和取暖油，随后释放原油。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "德国经济部长：德国将释放最多1500万桶石油和石油产品"
+    },
+    {
+     "title": "V观财报｜九号公司已回购2.2亿元股份",
+     "link": "http://www.eeo.com.cn/2026/1009/1058980.shtml",
+     "pubDate": "Fri, 09 Oct 2026 20:13:05 +0800",
+     "summary": "【V观财报｜九号公司已回购2.2亿元股份】九号公司10月9日公告，截至2026年9月30日，公司以集中竞价交易方式累计回购公司存托凭证571.16万份，已支付的总金额为2.20亿元(不含印花税、交易佣金等交易费用)。(中新经纬APP)",
+     "source": "经济观察网",
+     "zh": "V观财报｜九号公司已回购2.2亿元股份"
+    },
+    {
+     "title": "香港证监会：已推出17个代币化零售产品 资产管理规模达13亿美元",
+     "link": "http://finance.eastmoney.com/news/1350,202610093891432611.html",
+     "pubDate": "Fri, 09 Oct 2026 20:13:01 +0800",
+     "summary": "香港证监会投资产品部执行董事吴家俐在一个论坛上表示，在Ensemble项目下，香港证监会与香港金管局共同牵头探索如何利用代币化存款或代币化货币，投资于代币化基金。她提到，香港证监会自2023年起已制定代币化产品政策，至今已推出17个代币化零售产品，总 资产管理 规模达13亿美元，过去12个月增长78%。 吴家俐指，代币化证券本质是以代币化包装的传统证券，现行规管证券的法律框架与监管要求依然适用。而代币化结构本身带来额外风险，亦须受到相应监管。她又指，代币化技术只能令交易更快、成本更低，但流动性最终仍取决于市场参与度，需要各持份者共同努力，确保市场有效运行。 国际货币基金组织(IMF)驻香港特区",
+     "source": "东方财富股票",
+     "zh": "香港证监会：已推出17个代币化零售产品 资产管理规模达13亿美元"
+    },
+    {
+     "title": "New Horizon Aircraft GAAP EPS of -$0.06 beats by $0.03",
+     "link": "https://seekingalpha.com/news/4651720-new-horizon-aircraft-gaap-eps-of-0_06-beats-by-0_03?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 08:12:14 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "New Horizon Aircraft GAAP EPS of -$0.06 beats by $0.03"
+    },
+    {
+     "title": "Goldman Sachs expected to lead Wall Street's $19B trading revenue in Q3 - report",
+     "link": "https://seekingalpha.com/news/4651712-goldman-sachs-expected-to-lead-wall-streets-19b-trading-revenue-in-q3-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 08:07:18 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Goldman Sachs expected to lead Wall Street's $19B trading revenue in Q3 - report"
+    },
+    {
      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
      "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 12:06:00 GMT",
@@ -2224,78 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "Blockchain.com is seeking CFTC designation and registration to offer U.S. event contracts and cryptocurrency derivatives.",
      "source": "CNBC",
      "zh": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading"
-    },
-    {
-     "title": "Clearest use case for stablecoins is in cross-border payments, Mastercard CEO reportedly says",
-     "link": "https://seekingalpha.com/news/4651710-clearest-use-case-for-stablecoins-is-in-cross-border-payments-mastercard-ceo-reportedly-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 08:00:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Clearest use case for stablecoins is in cross-border payments, Mastercard CEO reportedly says"
-    },
-    {
-     "title": "Dividend Roundup: Starbucks, Pfizer, Micron, AbbVie, and more",
-     "link": "https://seekingalpha.com/news/4651667-dividend-roundup-starbucks-pfizer-micron-abbvie-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 08:00:05 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dividend Roundup: Starbucks, Pfizer, Micron, AbbVie, and more"
-    },
-    {
-     "title": "欧盟继续搞“关键原材料”项目 “找钱”是难题",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891405963.html",
-     "pubDate": "Fri, 09 Oct 2026 19:56:41 +0800",
-     "summary": "欧盟委员会9日宣布，已选定新一批共46个“战略性原材料”本土开发项目。据估算，开发这批项目所需资金投入超过200亿欧元，欧盟希望动员公私领域合力注资，以推动欧盟所需矿产“供应链多元化”。不过，据西方媒体报道，欧盟去年公布的首批项目中，仍有不少面临资金问题，进展缓慢。 这批新选定项目分布于德国、希腊、芬兰、瑞典等16个欧盟成员国，覆盖被欧盟所列17种“战略性原材料”中的15种，包括 铜 、 锂 、 镍 、 钴 、锰、石墨、 稀土 、镁、 钨 等。欧盟2024年出台《关键原材料法案》，列出了其产业转型所需的34种“关键原材料”，包括17种“战略性原材料”。法案规定，到2030年，欧盟每年所消耗“关",
-     "source": "东方财富股票",
-     "zh": "欧盟继续搞“关键原材料”项目 “找钱”是难题"
-    },
-    {
-     "title": "深交所本周共对141起证券异常交易行为采取了自律监管措施",
-     "link": "http://stock.eastmoney.com/news/11215,202610093891406073.html",
-     "pubDate": "Fri, 09 Oct 2026 19:55:48 +0800",
-     "summary": "深交所本周共对141起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形；共上报证监会2起涉嫌违法违规案件线索。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "深交所本周共对141起证券异常交易行为采取了自律监管措施"
-    },
-    {
-     "title": "Hertz Energy files non‑brokered private placement to raise up to $1.61M",
-     "link": "https://seekingalpha.com/news/4651716-hertz-energy-files-nonbrokered-private-placement-to-raise-up-to-161m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 07:53:41 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hertz Energy files non‑brokered private placement to raise up to $1.61M"
-    },
-    {
-     "title": "据CGTN、沙特阿拉比亚电视台等媒体报道，也门政府军已控制曼德海峡和丕林岛",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891405469.html",
-     "pubDate": "Fri, 09 Oct 2026 19:53:22 +0800",
-     "summary": "据CGTN、沙特阿拉比亚电视台等媒体报道，也门政府军已控制曼德海峡和丕林岛。沙特驻也门大使称，已清除曼德海峡的胡塞武装。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "据CGTN、沙特阿拉比亚电视台等媒体报道，也门政府军已控制曼德海峡和丕林岛"
-    },
-    {
-     "title": "日本一周报告流感病例超4万 为去年同期7倍",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891403944.html",
-     "pubDate": "Fri, 09 Oct 2026 19:52:58 +0800",
-     "summary": "日本厚生劳动省9日发布数据显示，截至10月4日的一周内，日本全国定点医疗机构总计报告 流感 病例逾4万例，约为去年同期的7倍。 厚生劳动省当天公布了2026年第40周（9月28日至10月4日）的 流感 发生情况。全国定点医疗机构这一周共报告 流感 病例42320例，是前一周的约1.6倍，是去年同期的约7.3倍。平均每家定点医疗机构报告11.35例，这是该流感季日本全国流感流行首次达到“注意报”级别。 根据日本卫生部门标准，平均每家定点医疗机构一周报告流感病例数超过1例，就标志着进入流感流行季；如超过10例，达到“注意报”级别；超过30例，则达到“警报”级别。今年8月17日至23日的一周内，日本",
-     "source": "东方财富股票",
-     "zh": "日本一周报告流感病例超4万 为去年同期7倍"
-    },
-    {
-     "title": "中机认检：中汽认证停业整顿1个月后恢复业务",
-     "link": "http://finance.eastmoney.com/news/1354,202610093891405360.html",
-     "pubDate": "Fri, 09 Oct 2026 19:52:50 +0800",
-     "summary": "10月9日， 中机认检 公告，公司全资子公司中汽认证此前被国家认监委责令自2026年9月9日至2026年10月8日停业整顿1个月。现停业整顿期满，经国家认监委现场验证整改措施有效，中汽认证自2026年10月9日起恢复从事强制性产品认证活动。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "中机认检：中汽认证停业整顿1个月后恢复业务"
-    },
-    {
-     "title": "英国拟限制竞业禁止条款，为AI初创企业招聘人才扫清障碍",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891405122.html",
-     "pubDate": "Fri, 09 Oct 2026 19:52:33 +0800",
-     "summary": "据外媒报道，英国政府计划限制企业在劳动合同中设置的竞业禁止条款，减少员工在跳槽或创办公司前必须经历的等待期。这类限制长期受到英国科技初创企业的批评。英国首相安迪·伯纳姆周五在曼彻斯特表示，工党政府计划出台新的招聘相关法律，“确保竞业禁止条款不再成为障碍”。伯纳姆在公开讲话中指出：“我认为，一些企业在使用竞业禁止条款等限制性做法方面已经走得太远。”他补充道：“这阻碍了创新，也限制了优秀人才充分发挥潜力，无法为经济注入应有的活力。” （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "英国拟限制竞业禁止条款，为AI初创企业招聘人才扫清障碍"
     },
     {
      "title": "10月9日当周中国管道天然气现货价格为每立方米4.76元",
@@ -2322,22 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "Treasury&apos;s Bessent hires Trump&apos;s controversial former Fed board pick, Judy Shelton, as adviser"
     },
     {
-     "title": "Penguin Solutions in focus as BofA starts with Buy rating",
-     "link": "https://seekingalpha.com/news/4651711-penguin-solutions-in-focus-as-bofa-starts-with-buy-rating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 07:50:18 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Penguin Solutions in focus as BofA starts with Buy rating"
-    },
-    {
-     "title": "Manhattan Bridge Capital increases share buyback to 250K shares",
-     "link": "https://seekingalpha.com/news/4651715-manhattan-bridge-capital-increases-share-buyback-to-250k-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 07:47:57 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Manhattan Bridge Capital increases share buyback to 250K shares"
-    },
-    {
      "title": "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
      "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 11:41:00 GMT",
@@ -2360,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "沪深两市多家上市公司10月9日晚间发布公司公告，以下为重要公告汇总。 【品大事】 泽润新能 ：拟收购合创智造不低于51%的股权 泽润新能 (301636)10月9日公告，公司与东莞市合创智造科技有限公司（简称“合创智造”）及其股东王强、东莞市创智展创业投资合伙企业（有限合伙）、李雄签署了《合作框架协议》。公司拟以现金收购方式，取得合创智造不低于51%的股权，交易总对价初步不高于2.04亿元。本次交易完成后，合创智造将成为公司的控股子公司。本次交易若成功实施，公司可以快速切入散热领域。 丰元股份 ：目前公司的主营业务不涉及 电池 生产业务 丰元股份 (002805)10月9日发布股票交易异常波动",
      "source": "东方财富资讯",
      "zh": "10月9日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
-     "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-     "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-     "pubDate": "Fri, 09 Oct 2026 11:31:28 GMT",
-     "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
-     "source": "CNBC",
-     "zh": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong"
     },
     {
      "title": "商场新“三件套”：市集、IP首展、首店",
@@ -2408,38 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "21世纪经济报道记者 刘婧汐 2026年中秋、国庆假期，粤港澳大湾区消费市场迎来集中爆发。据广东省文化和旅游厅初步测算，2026年国庆假期，广东接待游客6278.9万人次，实现旅游花费584.4亿元，日均分别同比增长10.1%、8.9%。 亮眼的假日消费数据背后，是“首店效应”的持续赋能。 在广州，白鹅潭万象城正式开门迎客，该商场汇聚近500家优质品牌，定制店、旗舰店、首店占比超六成，其中包含99家广州首店、139...",
      "source": "经济观察网",
      "zh": "消费品牌们的“首店”，正密集落地大湾区"
-    },
-    {
-     "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
-     "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 11:15:00 GMT",
-     "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
-     "source": "MarketWatch",
-     "zh": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?"
-    },
-    {
-     "title": "16天3.02亿人次！今年双节铁路客运量竟超2022年春运",
-     "link": "http://www.eeo.com.cn/2026/1009/1058953.shtml",
-     "pubDate": "Fri, 09 Oct 2026 19:13:14 +0800",
-     "summary": "21世纪经济报道记者 高江虹 国铁集团10月9日披露，9月23日至10月8日，为期16天的中秋、国庆假期铁路运输收官，全国铁路累计发送旅客3.02亿人次。这一组数据不仅超过国铁集团节前所预测的2.84亿人次，也具备较强的参照意义，因为在这16天的假日运输周期内，旅客发送规模已经超过2015年、2022年完整40天春运的客运总量，体现出国内居民强烈的假日出行意愿与文旅消费的强劲势头。 记者查阅历年中秋、国庆连休假期的铁...",
-     "source": "经济观察网",
-     "zh": "16天3.02亿人次！今年双节铁路客运量竟超2022年春运"
-    },
-    {
-     "title": "FCA cracks down on finfluencers",
-     "link": "https://www.finextra.com/newsarticle/48563/fca-cracks-down-on-finfluencers?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 09 Oct 2026 10:55:00 GMT",
-     "summary": "The UK's financial watchdog has stepped up its enforcement of illegal 'finfluencer' promotions, resulting in a 7,300% increase in actions between 2023 and 2025.",
-     "source": "Finextra",
-     "zh": "FCA cracks down on finfluencers"
-    },
-    {
-     "title": "大摩看多SpaceX：“Tera’Merica”潜力被低估，企业AI与算力扩张打开增长空间",
-     "link": "https://wallstreetcn.com/articles/3783280",
-     "pubDate": "Fri, 09 Oct 2026 18:45:07 +0800",
-     "summary": "SpaceX的长期增长空间，可能不只来自航天、卫星通信和AI算力，还在于美国重建先进制造业所带来的产业机会。 摩根士丹利认为，市场目前更多关注Terafab等项目的资本开支压力，却可能低估了这些投资与美国制造业重建之间的联系，以及由此带来的长期增长潜力。 报告将美国这一轮制造业重建概括为“Tera’Merica”。这一概念不局限于半导体产业回流，还涵盖火箭、卫星、地面站、涡轮机、自动驾驶汽车、工业机器人、人形机器人、船舶和无人机等领域。随着AI从数字应用向实体生产延伸，美国要提升先进制造能力，不仅需要芯片，还需要配套的工厂、设备和关键供应链。 这为SpaceX提供了更广阔的增长想象空间。 公司",
-     "source": "华尔街见闻",
-     "zh": "大摩看多SpaceX：“Tera’Merica”潜力被低估，企业AI与算力扩张打开增长空间"
     }
    ]
   },
@@ -2504,6 +2504,14 @@ window.INDUSTRY_DATA = {
      "summary": "A 9 million-year-old capybara tooth was found in the Atacama Desert, a surprising find given that these rodents love water.",
      "source": "Live Science",
      "zh": "'Freakish' discovery of 9 million-year-old capybara tooth supports idea that Atacama wasn't always a desert"
+    },
+    {
+     "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+     "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+     "pubDate": "Thu, 08 Oct 2026 20:15:53 +0000",
+     "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
+     "source": "Ars Technica Science",
+     "zh": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing"
     },
     {
      "title": "An experimental tour-de-force: Entanglement between glass bead and light",
@@ -2680,14 +2688,6 @@ window.INDUSTRY_DATA = {
      "summary": "The discovery reveals a new way that stars and planetary companions can interact.",
      "source": "MIT News",
      "zh": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away"
-    },
-    {
-     "title": "Is AI the End of Math As We Know It?",
-     "link": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
-     "pubDate": "Mon, 05 Oct 2026 13:40:07 +0000",
-     "summary": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.” The post Is AI the End of Math As We Know It? first appeared on Quanta Magazine",
-     "source": "Quanta Magazine",
-     "zh": "Is AI the End of Math As We Know It?"
     }
    ]
   }

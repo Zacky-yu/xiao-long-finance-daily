@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/9 15:51:46",
+ "generated_at": "2026/10/9 16:12:14",
  "recent_days": 7,
  "industries": [
   {
@@ -9,14 +9,6 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "字节找到了DeepSeek时强时弱的原因",
-     "link": "https://www.qbitai.com/2026/10/502364.html",
-     "pubDate": "Fri, 09 Oct 2026 07:11:55 +0000",
-     "summary": "答不答得对，得看Token站位",
-     "source": "量子位",
-     "zh": "字节找到了DeepSeek时强时弱的原因"
-    },
     {
      "title": "亚马逊云科技Amazon Bedrock AgentCore在中国区域上线：打包六大能力，贯穿Agent开发全流程",
      "link": "https://zhidx.com/p/599479.html",
@@ -162,6 +154,14 @@ window.INDUSTRY_DATA = {
      "zh": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业"
     },
     {
+     "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+     "link": "https://www.qbitai.com/2026/10/502096.html",
+     "pubDate": "Fri, 09 Oct 2026 02:03:48 +0000",
+     "summary": "让AI反复试错的“练兵场”来了",
+     "source": "量子位",
+     "zh": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化"
+    },
+    {
      "title": "数亿元！雷军、华为都投了，全球扩散语言模型最大融资诞生",
      "link": "https://zhidx.com/p/599329.html",
      "pubDate": "Fri, 09 Oct 2026 09:52:17 +0800",
@@ -258,6 +258,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Worlds First Single Chip Multiturn Position Sensor in Smaller Form Factor",
+     "link": "https://www.eetimes.com/worlds-first-single-chip-multiturn-position-sensor-in-smaller-form-factor/",
+     "pubDate": "Fri, 09 Oct 2026 08:08:26 +0000",
+     "summary": "Join this webinar, where our expert will explore the technology behind the ADMT4000 and how its ability to track multiple rotations and angular movement without power is transforming the design of both linear and rotary actuators. The post Worlds First Single Chip Multiturn Position Sensor in Smalle",
+     "source": "EE Times",
+     "zh": "Worlds First Single Chip Multiturn Position Sensor in Smaller Form Factor"
+    },
+    {
+     "title": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/cmlmicro-091026.shtml",
+     "pubDate": "Fri, 9 Oct 2026 08:59:05 +0100",
+     "summary": "CML Microsystems Plc of Maldon, UK — a designer and fabless manufacturer of mixed-signal, RF and microwave semiconductors for communications applications — has launched the CMX90A002, a compact power amplifier for next-generation ISM-band radio designs...",
+     "source": "Semiconductor Today",
+     "zh": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs"
+    },
+    {
      "title": "Scaling 3D IC design: Trends, Challenges and Practical Workflows",
      "link": "https://www.eetimes.com/scaling-3d-ic-design-trends-challenges-and-practical-workflows/",
      "pubDate": "Fri, 09 Oct 2026 07:32:29 +0000",
@@ -272,46 +288,6 @@ window.INDUSTRY_DATA = {
      "summary": "$2B foundry pact; hyper-NA EUV; TSMC, Samsung financials; Canon readies nanoimprint; AI chips under scrutiny; $10T data center buildout; $1.5B SiC boost; chip smuggling; 800V power gains traction; quantum HW scales up; wireless EV road charging; sub-nm gate dielectrics; mobile fab. The post Chip Ind",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "Qualcomm vs Arm (Day 4)",
-     "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-4-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 05:17:49 +0000",
-     "summary": "Today, the Arm vs Qualcomm legal case in Delaware concludes and the judge and jury should give their rulings. Yesterday, Day 4 of the case, saw a wrapping up of […] The post Qualcomm vs Arm (Day 4) appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Qualcomm vs Arm (Day 4)"
-    },
-    {
-     "title": "ASML starts on Hyper NA EUV",
-     "link": "https://www.electronicsweekly.com/news/business/asml-starts-on-hyper-na-euv-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 05:16:36 +0000",
-     "summary": "ASML has begun a ten year programme to get feature sizes down to 5nm from the 8nm which high NA tools can deliver. The 5nm litho tool is dubbed Hyper […] The post ASML starts on Hyper NA EUV appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "ASML starts on Hyper NA EUV"
-    },
-    {
-     "title": "TSMC September revenue up 54% YoY",
-     "link": "https://www.electronicsweekly.com/news/business/tsmc-september-revenue-up-54-yoy-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 05:12:21 +0000",
-     "summary": "TSMC had September revenue of $16.1 billion, a decrease of 0.6% from August 2026 and an increase of 54.6% from September 2025. Revenue for January through September 2026 totalled $122 billion, an increase of 41.1% compared […] The post TSMC September revenue up 54% YoY appeared first on Electronics ",
-     "source": "Electronics Weekly",
-     "zh": "TSMC September revenue up 54% YoY"
-    },
-    {
-     "title": "Globalfoundries to make silicon interposers for TSMC",
-     "link": "https://www.electronicsweekly.com/news/business/globalfoundries-to-make-interposers-for-tsmc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 05:10:11 +0000",
-     "summary": "GlobalFoundries is to establish a U.S.-based supply of silicon interposers for TSMC’s CoWoS packaging ecosystem. Under the agreement, GF will provide manufacturing service to TSMC, and add fabrication capacity at […] The post Globalfoundries to make silicon interposers for TSMC appeared first on Ele",
-     "source": "Electronics Weekly",
-     "zh": "Globalfoundries to make silicon interposers for TSMC"
-    },
-    {
-     "title": "Astute signs Samwha Capacitor",
-     "link": "https://www.electronicsweekly.com/news/business/astute-signs-samwha-capacitor-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 05:05:28 +0000",
-     "summary": "Astute Group has signed a franchise distribution agreement with Samwha Capacitor Group, adding Samwha’s range of capacitors, energy storage components, ferrite products, inductors and transformer technologies to its portfolio. The […] The post Astute signs Samwha Capacitor appeared first on Electron",
-     "source": "Electronics Weekly",
-     "zh": "Astute signs Samwha Capacitor"
     },
     {
      "title": "MediaTek 3Q26 revenue beats forecast, maintains peak-season momentum",
@@ -360,14 +336,6 @@ window.INDUSTRY_DATA = {
      "summary": "Memory module makers Innodisk and Apacer both reported year-over-year and month-over-month revenue growth for September 2026, supported by steady demand from industrial control, edge computing and AI smart connectivity applications. Their cumulative revenue for the first three quarters of the year a",
      "source": "DIGITIMES",
      "zh": "Innodisk, Apacer post September 2026 revenue growth on AI demand"
-    },
-    {
-     "title": "Where Are The Centrists?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/m-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 00:00:28 +0000",
-     "summary": "Political centrists outnumber Rightists and Leftists in Germany, Japan, and South Africa, according to Statista Consumer Insights. In Germany, 41% of respondents said that they were in the centre , […] The post Where Are The Centrists? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Where Are The Centrists?"
     },
     {
      "title": "Why Custom Silicon Matters in AI Data Centers",
@@ -434,14 +402,6 @@ window.INDUSTRY_DATA = {
      "zh": "Rising Costs, Compute Demand Push ADAS Toward Modular AI"
     },
     {
-     "title": "Breaking the AI Infrastructure Power Wall: From Grid to xPU",
-     "link": "https://www.eetimes.com/breaking-the-ai-infrastructure-power-wall-from-grid-to-xpu/",
-     "pubDate": "Thu, 08 Oct 2026 12:36:33 +0000",
-     "summary": "Register now for our webinar to discover how Navitas 2.0 is revolutionizing AI infrastructure power delivery. The post Breaking the AI Infrastructure Power Wall: From Grid to xPU appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Breaking the AI Infrastructure Power Wall: From Grid to xPU"
-    },
-    {
      "title": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War",
      "link": "https://www.semiconductor-today.com/news_items/2026/oct/wolfspeed-081026.shtml",
      "pubDate": "Thu, 8 Oct 2026 10:27:41 +0100",
@@ -496,6 +456,46 @@ window.INDUSTRY_DATA = {
      "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
      "source": "Semiconductor Today",
      "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
+    },
+    {
+     "title": "From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs",
+     "link": "https://semiwiki.com/artificial-intelligence/374386-from-blueprint-to-production-how-rambus-brings-commercial-grade-caliptra-security-to-ai-socs/",
+     "pubDate": "Wed, 07 Oct 2026 17:00:03 +0000",
+     "summary": "Semiconductor designers today face a critical hurdle: how to smoothly transition from an open-source hardware blueprint to a commercially hardened, production-ready silicon implementation. As semiconductors play an increasingly essential role in powering the AI era, safeguarding these hardware found",
+     "source": "SemiWiki",
+     "zh": "From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs"
+    },
+    {
+     "title": "From Cloud to Silicon: IC-Link and TSMC Open the Door",
+     "link": "https://semiwiki.com/semiconductor-manufacturers/374282-from-cloud-to-silicon-ic-link-and-tsmc-open-the-door/",
+     "pubDate": "Wed, 07 Oct 2026 15:00:23 +0000",
+     "summary": "Access to advanced semiconductor technology involves much more than choosing a process node. Design teams also need computing capacity, compatible tools, secure technology access, and experienced support. IC-Link by imec’s expanded collaboration with TSMC addresses that combination, potentially maki",
+     "source": "SemiWiki",
+     "zh": "From Cloud to Silicon: IC-Link and TSMC Open the Door"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -505,6 +505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "FireDome launches US operations to advance autonomous wildfire defense",
+     "link": "https://roboticsandautomationnews.com/2026/10/09/firedome-launches-us-operations-to-advance-autonomous-wildfire-defense/105775/",
+     "pubDate": "Fri, 09 Oct 2026 08:00:07 +0000",
+     "summary": "FireDome, an autonomous wildfire resilience company, has announced the launch of its US operations, anchored by a demonstration site at Yuba County Airport. The site gives FireDome a dedicated environment in a wildfire risk prone area with real world conditions to validate its system as the company ",
+     "source": "Robotics & Automation",
+     "zh": "FireDome launches US operations to advance autonomous wildfire defense"
+    },
     {
      "title": "SafeWorld emerges from stealth to build, deploy robot safety simulation technologies",
      "link": "https://www.therobotreport.com/safeworld-emerges-stealth-build-deploy-robot-safety-simulation-technologies/",
@@ -552,14 +560,6 @@ window.INDUSTRY_DATA = {
      "summary": "Robbyant, an embodied AI company within Ant Group, and the Arab Federation for Digital Economy (AFDE) have signed a Memorandum of Understanding (MoU) to advance the deployment, localization and commercialization of embodied AI and robotic solutions in the United Arab Emirates and the wider GCC (Gulf",
      "source": "Robotics & Automation",
      "zh": "Robbyant and AFDE partner to expand embodied AI and robotics across Middle East"
-    },
-    {
-     "title": "Robotics companies turn to rush 3D printing as demand for faster production grows",
-     "link": "https://roboticsandautomationnews.com/2026/10/08/robotics-companies-turn-to-rush-3d-printing-as-demand-for-faster-production-grows/105743/",
-     "pubDate": "Thu, 08 Oct 2026 18:06:45 +0000",
-     "summary": "Upside Parts, a Massachusetts-based custom manufacturing company, released an analysis of more than 30,000 3D-printed parts produced across hundreds of customer orders, looking at how robotics companies use on-demand 3D printing. Robotics customers accounted for 82.3 percent of total part volume. Th",
-     "source": "Robotics & Automation",
-     "zh": "Robotics companies turn to rush 3D printing as demand for faster production grows"
     },
     {
      "title": "Jabil discusses the pace of humanoid robot development and production",
@@ -858,6 +858,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Venture Global Loses LNG Arbitration to Portugal's Galp",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Venture-Global-Loses-LNG-Arbitration-to-Portugals-Galp.html",
+     "pubDate": "Fri, 09 Oct 2026 03:00:00 -0500",
+     "summary": "A court has ruled that Venture Global breached its contract with Portugal’s Galp in the second unfavorable ruling for the U.S. LNG major. Galp was one of half a dozen energy companies that sued Venture Global for violating its long-term supply contracts for liquefied gas in order to make a fatter pr",
+     "source": "OilPrice",
+     "zh": "Venture Global Loses LNG Arbitration to Portugal's Galp"
+    },
+    {
+     "title": "Heat pumps have so far withstood the death of federal tax credits",
+     "link": "https://www.canarymedia.com/articles/heat-pumps/federal-tax-credits-shipment-data-2026",
+     "pubDate": "Fri, 09 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . America’s demand for heat pumps isn’t going away just because federal incentives did. Shipments of heat pumps stayed strong in the first half of 2026, and the tech is on track to match or exceed its best year, according to a recent report fr",
+     "source": "Canary Media",
+     "zh": "Heat pumps have so far withstood the death of federal tax credits"
+    },
+    {
      "title": "French solar tender prices drop sharply in latest rounds",
      "link": "https://www.pv-magazine.com/2026/10/09/french-solar-tender-prices-drop-sharply-in-latest-rounds/",
      "pubDate": "Fri, 09 Oct 2026 07:26:46 +0000",
@@ -944,14 +960,6 @@ window.INDUSTRY_DATA = {
      "summary": "This year’s global energy crisis has revived international interest in hydrogen’s potential to replace fossil fuels in a wide range of industrial applications, from steelmaking to shipping. Green hydrogen is still massively expensive to produce, reducing its potential for commercial scaling, while g",
      "source": "OilPrice",
      "zh": "Iran War Energy Shock Puts Hydrogen Back on the Table"
-    },
-    {
-     "title": "Kinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Kinder-Morgan-Restores-US-Mexico-Gas-Flows-After-Pipeline-Outage.html",
-     "pubDate": "Thu, 08 Oct 2026 15:30:00 -0500",
-     "summary": "Kinder Morgan has lifted force majeure on its Tennessee Gas Pipeline after repairs restored natural gas deliveries to Mexico that had been interrupted earlier this week. Tennessee Gas identified problems on October 5 and isolated sections of the system, including the Rio Bravo and Cenagas delivery m",
-     "source": "OilPrice",
-     "zh": "Kinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage"
     },
     {
      "title": "Constellation and Google go in on nuclear uprates to unlock clean power",
@@ -1088,14 +1096,6 @@ window.INDUSTRY_DATA = {
      "summary": "Energy-Storage.news Premium speaks with Freeman Hall, CEO of second-life BESS firm B2U Storage Solutions.",
      "source": "Energy Storage News",
      "zh": "B2U CEO: US second-life BESS can compete with ‘China price’"
-    },
-    {
-     "title": "Return puts Netherlands’ largest BESS online",
-     "link": "https://www.energy-storage.news/return-puts-netherlands-largest-bess-online/",
-     "pubDate": "Thu, 08 Oct 2026 09:07:34 +0000",
-     "summary": "BESS owner-operator Return has put its 100MW/200MWh Antares BESS in the Netherlands into commercial operation, the largest to have reached that stage in the country as far as we know.",
-     "source": "Energy Storage News",
-     "zh": "Return puts Netherlands’ largest BESS online"
     }
    ]
   },
@@ -1105,6 +1105,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "TRexBio prices $117M IPO for Tregs as Retension lands $45M Nasdaq debut for hypertension",
+     "link": "https://endpoints.news/trexbio-prices-117m-ipo-for-tregs-as-retension-lands-45m-nasdaq-debut-for-hypertension/",
+     "pubDate": "Fri, 09 Oct 2026 07:54:45 +0000",
+     "summary": "The appetite for biotech IPOs remains strong, especially when Eli Lilly and Nobel Prize-winning science are involved. TRexBio priced its initial stock sale Thursday, raising $116.7 million in ...",
+     "source": "Endpoints News",
+     "zh": "TRexBio prices $117M IPO for Tregs as Retension lands $45M Nasdaq debut for hypertension"
+    },
     {
      "title": "Trump administration investigates 9 universities for alleged visa fraud",
      "link": "https://www.statnews.com/2026/10/08/trump-administration-investigates-universities-j1-visa-fraud/?utm_campaign=rss",
@@ -1264,14 +1272,6 @@ window.INDUSTRY_DATA = {
      "summary": "Roche is partnering with Chinese startup Defand Therapeutics to discover new medicines.",
      "source": "STAT News",
      "zh": "STAT+: Roche goes beyond licensing in deal with Chinese biotech"
-    },
-    {
-     "title": "Long ignored by drugmakers, preeclampsia is now a focus for WHO and biopharma",
-     "link": "https://endpoints.news/long-ignored-by-drugmakers-preeclampsia-is-now-a-focus-for-who-and-biopharma/",
-     "pubDate": "Thu, 08 Oct 2026 15:12:53 +0000",
-     "summary": "A pregnancy-related hypertension disorder that impacts millions of mothers and newborns each year is getting more attention from the top levels of public health organizations and a few biopharma companies. The World Health Organization on ...",
-     "source": "Endpoints News",
-     "zh": "Long ignored by drugmakers, preeclampsia is now a focus for WHO and biopharma"
     },
     {
      "title": "Caribou to halt CAR-T work, lay off staff amid ‘challenging’ funding climate",
@@ -1706,20 +1706,100 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "罗伦士梦想家山河四座高顶版 MPV 上市，80.99 万元起",
-     "link": "https://www.ithome.com/1/010/996.htm",
-     "pubDate": "Fri, 09 Oct 2026 07:49:18 GMT",
-     "summary": "IT之家 10 月 9 日消息，改装商“罗伦士汽车”宣布旗下罗伦士梦想家山河四座高顶版上市，该车基于岚图梦想家山河四座版（售 70.99 万元）打造而来，采用悬浮高顶设计，整车高度抬升 10cm， 售价为 80.99 万元 。 该车配备罗伦士定制“云澜格栅”，设计灵感源自故宫太和殿的窗棂，带有可发光品牌。车身提供双色车漆涂装，匹配 20 英寸饼形轮圈。车辆后方融入扰流板提升运动感。车辆内饰以“阅览山河万象”为设计内核，大面积采用 Nappa 真皮包覆，搭配有百年山水纹影木饰板与“观山河”发光面板。 智能化方面，该车搭载华为乾崑智驾 ADS，并支持四分区语音识别。车辆后排配备双“鸿羽青云”零重力",
+     "title": "华为：狭窄小路会车时，乾崑智驾 ADS 不会直接退出辅助驾驶",
+     "link": "https://www.ithome.com/1/011/020.htm",
+     "pubDate": "Fri, 09 Oct 2026 08:07:31 GMT",
+     "summary": "IT之家 10 月 9 日消息，华为智能汽车解决方案 BU 官方微博今日发布了乾崑答网友问（第 16 期），针对狭窄小路会车时华为乾崑智驾会不会退出辅助驾驶、没有开启华为乾崑智驾时在盘山公路开快了能否降低风险等问题进行了集中解答。 IT之家附本期华为乾崑答网友问重点内容如下： 狭窄小路会车时，华为乾崑智驾会退出辅助驾驶吗？ 不会。 狭窄小路会车时，华为乾崑智驾 ADS 不会直接退出辅助驾驶，而是主动倒车让行 。 当发现道路空间不足时，摄像头、激光雷达等多个传感器作为车辆“明亮的眼睛”，能精准看清对向车辆与路边障碍物的距离，评估窄路的宽度和通过的可能性；同时由云端（世界引擎）和车端（世界行为模型",
      "source": "IT之家",
-     "zh": "罗伦士梦想家山河四座高顶版 MPV 上市，80.99 万元起"
+     "zh": "华为：狭窄小路会车时，乾崑智驾 ADS 不会直接退出辅助驾驶"
     },
     {
-     "title": "洛图科技：中国电子纸平板线上销量连跌 16 个月后首次上涨，阅读器撑大梁，学习本大降 9 成",
-     "link": "https://www.ithome.com/1/010/995.htm",
-     "pubDate": "Fri, 09 Oct 2026 07:46:29 GMT",
-     "summary": "IT之家 10 月 9 日消息，洛图科技今日发布报告，2026 年 8 月，中国电子纸平板市场在线上全渠道平台的销量为 10.5 万台， 同比上升 8.5% ；销额为 1.5 亿元，同比下降 29.0%。 从销量规模来看，当月市场克服了学习本的衰退影响， 在经历了 16 个月的连续同比下降之后，终于迎来了正增长 。 今年 8 月， 阅读器是市场增量的主要贡献品类，销量同比上升了 57.9% ，在电子纸平板线上市场的内部份额由 2025 年同期的 52.9% 升至 77.0%；不过，市场均价降至了 989 元， 这是阅读器线上均价近两年来首次跌至千元以下 ，其主要的影响因素为低价入门机型的增多和",
+     "title": "红旗天工 07 中大型纯电轿车将于 10 月 10 日上市：最高纯电续航 730km，预售权益价 16.99 万元起",
+     "link": "https://www.ithome.com/1/011/017.htm",
+     "pubDate": "Fri, 09 Oct 2026 08:05:59 GMT",
+     "summary": "IT之家 10 月 9 日消息，一汽红旗宣布旗下天工 07 将于 10 月 10 日正式上市，该车现已经开启预售，共推出 3 款车型，限时权益价 16.99 万元起。 外观方面，新车以东方美学为核心理念，遵循极简留白的设计思路，提供墨竹绿、云溪白、极夜黑、弦月灰四款外观颜色。封闭式前格栅搭配造型别致的大灯组与中央红旗品牌标识，营造出鲜明的视觉辨识度。 车身侧面，流畅的车顶线条与隐藏式车门把手、双五辐式轮圈相得益彰，运动感十足；尾部则采用贯穿式尾灯组，配合微微上翘的小鸭尾设计，在丰富视觉层次的同时进一步强化了运动气质。 内饰方面，新车采用环抱式座舱设计，提供云杉灰、铂光杏、暖阳橙三种内饰配色。车",
      "source": "IT之家",
-     "zh": "洛图科技：中国电子纸平板线上销量连跌 16 个月后首次上涨，阅读器撑大梁，学习本大降 9 成"
+     "zh": "红旗天工 07 中大型纯电轿车将于 10 月 10 日上市：最高纯电续航 730km，预售权益价 16.99 万元起"
+    },
+    {
+     "title": "Omdia 数据：全球 PC 出货量 2026Q3 下滑 21%，存储器已占物料成本近四成",
+     "link": "https://www.ithome.com/1/011/016.htm",
+     "pubDate": "Fri, 09 Oct 2026 08:04:44 GMT",
+     "summary": "IT之家 10 月 9 日消息，Omdia 英国当地时间今日报告称， 全球 PC 出货量在 2026 年第 3 季度降至 5,810 万台 ，同比下滑 21.2%。其中桌面端出货 1,170 万台，下滑 23.5%；移动端出货 4,640 万台，下滑 20.6%。 该机构同时进行了预测：PC 市场在 2026Q4 将同比萎缩 24%， 2027 年还将进一步下降 7% 。 ▲ 图源：Omdia Omdia 研究总监 Ishan Dutt 提到，头部 OEM 企业预计 2026H1 销量出现两位数收缩，零售商报告销售均价出现两位数上涨；首席分析师 Ben Yeh 指出， 存储器 (DRAM + ",
+     "source": "IT之家",
+     "zh": "Omdia 数据：全球 PC 出货量 2026Q3 下滑 21%，存储器已占物料成本近四成"
+    },
+    {
+     "title": "vivo Y600s Pro 手机上架：10200mAh 蓝海电池、天玑 7300e + 8GB RAM，2699 元起",
+     "link": "https://www.ithome.com/1/011/011.htm",
+     "pubDate": "Fri, 09 Oct 2026 08:03:45 GMT",
+     "summary": "IT之家 10 月 9 日消息，vivo 现已在其商城上架 Y600s Pro 手机，该机主打“10200mAh 蓝海电池、寰宇增强通信 3.0”，起售价 2699 元起。 8GB RAM +256GB 存储空间：2699 元 8GB RAM +512GB 存储空间：2999 元 该机厚度 8.15mm，提供月光黑、浮光金、星紫和浩瀚蓝四种配色，手机正面搭载一块 6.83 英寸 2800×1260 分辨率 120Hz AMOLED 显示屏，匹配 3200 万像素前置自拍摄像头，手机后置 5000 万像素主摄。 该机搭载联发科天玑 7300e 芯片，配备 8GB LPDDR5 RAM 内存和最高",
+     "source": "IT之家",
+     "zh": "vivo Y600s Pro 手机上架：10200mAh 蓝海电池、天玑 7300e + 8GB RAM，2699 元起"
+    },
+    {
+     "title": "七天11.65亿，国庆档退回十二年前",
+     "link": "https://www.tmtpost.com/8162173.html",
+     "pubDate": "Fri, 09 Oct 2026 16:01:00 +0800",
+     "summary": "需求侧的弹性仍在，观众没有抛弃电影院。",
+     "source": "钛媒体",
+     "zh": "七天11.65亿，国庆档退回十二年前"
+    },
+    {
+     "title": "比亚迪：当前闪充车型订单需求旺盛，首要目标是加快二代刀片电池产能爬坡",
+     "link": "https://www.ithome.com/1/011/004.htm",
+     "pubDate": "Fri, 09 Oct 2026 08:00:34 GMT",
+     "summary": "IT之家 10 月 9 日消息，今日，比亚迪在投资者互动平台回应“闪充车供不应求就该涨价”。该公司表示，公司产品定价会综合市场竞争、用户需求、长期品牌战略、产能释放节奏等多维度因素统筹考量。 比亚迪官方称，当前闪充车型订单需求旺盛，公司首要目标是加快二代刀片电池产能爬坡，全力提升交付能力，保障消费者购车体验。产品相关价格信息请以官方发布为准。 IT之家注意到，比亚迪第 2000 座闪充高速站于 9 月 24 日在江苏扬州宝应服务区正式落成。覆盖国家高速公路、省级高速公路及都市圈环线等全国 278 条高速公路。在京沪高速、京港澳高速、沈海高速、连霍高速等 22 条全国最繁忙的“11 纵 11 横",
+     "source": "IT之家",
+     "zh": "比亚迪：当前闪充车型订单需求旺盛，首要目标是加快二代刀片电池产能爬坡"
+    },
+    {
+     "title": "爱奇艺与B站：PGC缺牌，UGC缺人",
+     "link": "https://www.tmtpost.com/8162475.html",
+     "pubDate": "Fri, 09 Oct 2026 15:57:00 +0800",
+     "summary": "影视剧集的低迷，正在吞噬着爱奇艺。B站展现了UGC的灵活性与低成本，但AI解法保守，并不愿意过多投入，对头部up主的激励下滑，正在陷入生态僵化。PGC与UGC之争已经退潮，可平台的经营，却不是简单的胜负之别。",
+     "source": "钛媒体",
+     "zh": "爱奇艺与B站：PGC缺牌，UGC缺人"
+    },
+    {
+     "title": "顽皮狗视觉特效美术师谈公司“加班文化”：伟大的艺术诞生于痛苦之中",
+     "link": "https://www.ithome.com/1/010/999.htm",
+     "pubDate": "Fri, 09 Oct 2026 07:55:49 GMT",
+     "summary": "IT之家 10 月 9 日消息，不少知名游戏工作室都有长期高强度加班的问题，《最后生还者》的开发商顽皮狗便是其中之一。多年来，可信媒体的报道早已让顽皮狗的加班文化广为人知，工作室人员也曾公开承认过这种情况。 2025 年 12 月，有消息称顽皮狗强制员工加班，以赶制《星际：异端先知》的演示版本。今年 4 月，顽皮狗前高级游戏设计师本森 · 拉塞尔还暗示，员工接受高强度加班，是因为他们认为，要做出这种水准的游戏，就必须付出这样的代价。 据外媒 GamesRadar 当地时间 8 日报道，曾参与《神秘海域 4：盗贼末路》和《最后生还者》制作的视觉特效美术师马特 · 拉德福德近日接受 Kiwi Ta",
+     "source": "IT之家",
+     "zh": "顽皮狗视觉特效美术师谈公司“加班文化”：伟大的艺术诞生于痛苦之中"
+    },
+    {
+     "title": "甩掉了供应链，AI全球化的难题却被前置了",
+     "link": "https://www.tmtpost.com/8162458.html",
+     "pubDate": "Fri, 09 Oct 2026 15:54:25 +0800",
+     "summary": "当本地化从营销层进入Agent的运行逻辑，全球化也就不再只是市场扩张，而变成产品和公司诞生之初就必须完成的一部分设计。",
+     "source": "钛媒体",
+     "zh": "甩掉了供应链，AI全球化的难题却被前置了"
+    },
+    {
+     "title": "8亿人熬夜刷短剧，“短剧一哥”却还在亏钱",
+     "link": "https://www.huxiu.com/article/4896152.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 15:52:29 +0800",
+     "summary": "本文来自微信公众号： 金角财经 ，作者：田羽 短剧有多让人上头，刷过的人大概都知道。本来只想看两分钟，等着主角翻身、反派倒霉，结果一集接一集，半个小时就过去了。 这种生意，如今已经吸引了数亿人。QuestMobile数据显示，今年5月，国内短剧行业去重用户达到8.51亿；短剧App用户月人均使用时长26.9小时，甚至超过了在线视频。 中文在线也赶上了这股热潮。 今年上半年，短剧及IP衍生品收入达到4.11亿元，同比增长108.72%。公司披露，国内真人短剧爆款率达到50%，《一品布衣》系列累计播放量超过60亿。可翻到利润表，集团仍亏损约4300万元。 股民最近也挨了一顿揍。10月8日，中文在线",
+     "source": "虎嗅",
+     "zh": "8亿人熬夜刷短剧，“短剧一哥”却还在亏钱"
+    },
+    {
+     "title": "谷歌为何押注RSI？",
+     "link": "https://www.tmtpost.com/8162457.html",
+     "pubDate": "Fri, 09 Oct 2026 15:50:00 +0800",
+     "summary": "众说纷纭的RSI，又在争什么？",
+     "source": "钛媒体",
+     "zh": "谷歌为何押注RSI？"
+    },
+    {
+     "title": "“假期没结束，项目估值翻了3倍”",
+     "link": "https://www.tmtpost.com/8162456.html",
+     "pubDate": "Fri, 09 Oct 2026 15:45:00 +0800",
+     "summary": "身体在三亚，脑子在五道口。",
+     "source": "钛媒体",
+     "zh": "“假期没结束，项目估值翻了3倍”"
     },
     {
      "title": "拿到更贵一笔钱，Manus重回北京",
@@ -1730,44 +1810,12 @@ window.INDUSTRY_DATA = {
      "zh": "拿到更贵一笔钱，Manus重回北京"
     },
     {
-     "title": "小米智能摄像机 3 开售：500 万像素、6 种 AI 灵敏检测，首销 179 元",
-     "link": "https://www.ithome.com/1/010/994.htm",
-     "pubDate": "Fri, 09 Oct 2026 07:39:16 GMT",
-     "summary": "IT之家 10 月 9 日消息，小米智能摄像机 3 今日开售，500 万像素，升级 3K 超清画质，支持红外夜视，首销 179 元。 IT之家从商品页面获悉，该产品搭载 F1.6 大光圈镜头，高进光量可有效抑制画面噪点，画面通透锐利，呈现 3K 超清影像。内置高感光灵敏度图像传感器，微光之际仍能彩色成像；内置多颗 940nm 红外补光灯，漆黑夜间清晰拍摄。 新品搭载双电机云台，支持水平 360° 垂直 109° 视角； 6 种 AI 灵敏检测 ，针对居家、幼儿和宠物等不同看护场景，具备不同的 AI 检测能力，识别到情况及时发送通知；支持双向实时语音，可随时与家人沟通。 AOR 全天超省录制技术",
-     "source": "IT之家",
-     "zh": "小米智能摄像机 3 开售：500 万像素、6 种 AI 灵敏检测，首销 179 元"
-    },
-    {
-     "title": "开源启动盘制作工具 Ventoy 1.1.18 发布：实验性支持 SteamOS，改进 Linux 上 ISO 分区挂载",
-     "link": "https://www.ithome.com/1/010/993.htm",
-     "pubDate": "Fri, 09 Oct 2026 07:38:49 GMT",
-     "summary": "IT之家 10 月 9 日消息，科技媒体 Linuxiac 今天（10 月 9 日）发布博文，报道称开源启动盘制作工具 Ventoy 更新至 1.1.18 版本， 实验性支持 SteamOS 恢复镜像，用户可将相关镜像放入 Ventoy USB 存储盘并直接启动。 IT之家援引博文介绍，Ventoy 目前对 SteamOS 的支持仍处于实验阶段，部分设备或镜像可能存在兼容性限制。该功能面向需要修复、恢复或重新部署 SteamOS 设备的用户，让 Ventoy 可在同一 USB 磁盘中承载更多系统镜像。 新版还针对 Linux 改进挂载体验，在主流 Linux 桌面发行版，通过重新挂载（remo",
-     "source": "IT之家",
-     "zh": "开源启动盘制作工具 Ventoy 1.1.18 发布：实验性支持 SteamOS，改进 Linux 上 ISO 分区挂载"
-    },
-    {
-     "title": "九州风神上架铝挤下压风冷 ALTA 9、玄刃猎户 1700 版，39.9 元",
-     "link": "https://www.ithome.com/1/010/992.htm",
-     "pubDate": "Fri, 09 Oct 2026 07:37:53 GMT",
-     "summary": "IT之家 10 月 9 日消息，九州风神 (DeepCool) 近日上架了 2 款 铝挤鳍片“太阳花”下压式处理器风冷散热器 ，型号分别为 ALTA 9 和玄刃猎户 (GAMMA HUNTER) 1700 版，价格均为 39.9 元。 ▲ ALTA 9 ALTA 9 高 58.5mm，配备 9225 规格风扇，噪声 26.3 dB(A)，转速 2200 RPM，风量 42.35 CFM，兼容英特尔 Socket H 和 LGA775 平台。 京东 九州风神 ALTA 9 风冷 39.9 元 直达链接 ▲ 玄刃猎户 1700 版 玄刃猎户 1700 版 高 63.5 (mm)，配备 12025 ",
-     "source": "IT之家",
-     "zh": "九州风神上架铝挤下压风冷 ALTA 9、玄刃猎户 1700 版，39.9 元"
-    },
-    {
-     "title": "Steam 喜加一：原价 22 元心理恐怖解谜游戏《Pony Island》免费领",
-     "link": "https://www.ithome.com/1/010/990.htm",
-     "pubDate": "Fri, 09 Oct 2026 07:35:59 GMT",
-     "summary": "IT之家 10 月 9 日消息，知名独立游戏开发者 Daniel Mullins 制作的心理恐怖解谜游戏《Pony Island（小马岛）》目前正在 Steam 平台开展限时免费“喜加一”活动， 本作在 Steam 国区定价为 22 元 ，玩家可以在北京时间 10 月 13 日前免费领取，IT之家附游戏商品页（ https://store.steampowered.com/app/405640/Pony_Island/ ）。 《Pony Island》表面上是一款画风可爱的小马跳跃闯关街机游戏，实际上却是一部融入后设元素的悬疑解谜作品。故事讲述玩家被困在一台由恶魔亲自设计、充满恶意且故障频发的",
-     "source": "IT之家",
-     "zh": "Steam 喜加一：原价 22 元心理恐怖解谜游戏《Pony Island》免费领"
-    },
-    {
-     "title": "亚盛医药，钢丝上的舞者",
-     "link": "https://www.tmtpost.com/8162401.html",
-     "pubDate": "Fri, 09 Oct 2026 15:35:00 +0800",
-     "summary": "何时才能走出融资循环？",
+     "title": "施耐德226亿美元收购PTC：工业AI的终局是\"数字主线\"，但中国不需要第二个西门子",
+     "link": "https://www.tmtpost.com/8162419.html",
+     "pubDate": "Fri, 09 Oct 2026 15:41:00 +0800",
+     "summary": "工业软件正进入巨头并购整合期，市场普遍将施耐德收购PTC解读为\"国产替代警钟\"。本文用\"工业Agent=脑子+记忆+手脚\"框架拆解这笔交易，并结合2026年最新中报与落地案例判断：中外制造业需求结构根本不同，中国不该复制全栈巨头，而该走\"底座收敛+段王卡位+事实标准\"的生态路径。",
      "source": "钛媒体",
-     "zh": "亚盛医药，钢丝上的舞者"
+     "zh": "施耐德226亿美元收购PTC：工业AI的终局是\"数字主线\"，但中国不需要第二个西门子"
     },
     {
      "title": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？",
@@ -1776,46 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 新榜 ，作者：哪吒，编辑：小八hachiko 最近，AI漫剧流行起了“不烧心文学”。 《规矩不能坏》《吃了不烧心》《先把规矩立住，路才能越走越宽》《不怕亏钱吗？怕，更怕账本不清》《明天怎么办？先做》《剩下怎么办？倒掉》《终于好起来了；嗯，要稳》《宁可少挣点，也不能坏了规矩》 这类台词主要集中出现在餐饮经营题材的AI漫剧里。故事通常从一个“良心老板”开始。主角坚持用好材料，经营包子铺、工地盒饭、猪脚饭，不肯跟着同行卷低价；反派则负责用劣质食材抢客，把价格一路打下来。 一开始，顾客们往往毫不犹豫奔向更便宜的摊位。但剧情走到后半程，劣质食材迟早翻车，被低价吸引走的顾客也会浪子回",
      "source": "虎嗅",
      "zh": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？"
-    },
-    {
-     "title": "谁在改造波士顿动力？",
-     "link": "https://www.tmtpost.com/8162382.html",
-     "pubDate": "Fri, 09 Oct 2026 15:31:00 +0800",
-     "summary": "波士顿动力34年的故事，不只关乎它造出了什么，也关乎是什么一次次改变了它。",
-     "source": "钛媒体",
-     "zh": "谁在改造波士顿动力？"
-    },
-    {
-     "title": "全是小众品牌？人形机器人还要继续赛马",
-     "link": "https://www.tmtpost.com/8162333.html",
-     "pubDate": "Fri, 09 Oct 2026 15:25:01 +0800",
-     "summary": "人形机器人头部企业已有出货与营收，但尚未诞生消费级大牌。当前订单多来自专业场景，售后、标准化体系不完善。销量不等于品牌实力，复购、长期服务与标准化能力，才是决出消费大牌的核心。",
-     "source": "钛媒体",
-     "zh": "全是小众品牌？人形机器人还要继续赛马"
-    },
-    {
-     "title": "王虹靠三维挂谷拿菲尔兹奖，OpenAI用3小时就解决了更难的四维版",
-     "link": "https://www.tmtpost.com/8162299.html",
-     "pubDate": "Fri, 09 Oct 2026 15:24:58 +0800",
-     "summary": "OpenAI发布722篇数学手稿，却因太长没人能验证。",
-     "source": "钛媒体",
-     "zh": "王虹靠三维挂谷拿菲尔兹奖，OpenAI用3小时就解决了更难的四维版"
-    },
-    {
-     "title": "同程旅行深度拆解：OTA平台“向上整合”的浪潮开始了",
-     "link": "https://www.tmtpost.com/8162186.html",
-     "pubDate": "Fri, 09 Oct 2026 15:20:54 +0800",
-     "summary": "从商业模型来看，OTA平台确实适合做酒店这门生意。",
-     "source": "钛媒体",
-     "zh": "同程旅行深度拆解：OTA平台“向上整合”的浪潮开始了"
-    },
-    {
-     "title": "华为为何要在此时推鸿蒙OS出海？",
-     "link": "https://www.tmtpost.com/8161766.html",
-     "pubDate": "Fri, 09 Oct 2026 15:18:51 +0800",
-     "summary": "什么决定鸿蒙OS出海的节奏？",
-     "source": "钛媒体",
-     "zh": "华为为何要在此时推鸿蒙OS出海？"
     },
     {
      "title": "亚马逊 Prime Video 将直播艾美奖颁奖典礼",
@@ -1829,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
      "link": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
      "pubDate": "Fri, 09 Oct 2026 06:54:45 +0000",
-     "summary": "Article URL: https://opentelemetry.io/blog/2026/otel-native-by-design/ Comments URL: https://news.ycombinator.com/item?id=50016974 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://opentelemetry.io/blog/2026/otel-native-by-design/ Comments URL: https://news.ycombinator.com/item?id=50016974 Points: 13 # Comments: 0",
      "source": "Hacker News",
      "zh": "OTel-Native by Design – Building Products That Export to Any Observability Stack"
     },
@@ -1845,17 +1853,9 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
      "link": "https://www.oldroll.io/",
      "pubDate": "Fri, 09 Oct 2026 06:40:14 +0000",
-     "summary": "OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use. Comments URL: https://news.ycombinator.com/item?id=50016840 Points: 3 # Comments: 1",
+     "summary": "OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use. Comments URL: https://news.ycombinator.com/item?id=50016840 Points: 5 # Comments: 1",
      "source": "Hacker News",
      "zh": "Show HN: OldRoll, a free vintage photo editor for the browser"
-    },
-    {
-     "title": "谷歌为何押注RSI？",
-     "link": "https://www.huxiu.com/article/4896137.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 14:32:28 +0800",
-     "summary": "本文来自微信公众号： 深流研究所 ，作者：吴绛枫 “我们的模型正式超越了我。我已经没什么可教它的了。” 9月30日，Google DeepMind研究员Zirui Wang在社交媒体上写道。 当天，谷歌发布Gemini 4系列首款模型Gemini 4 Argon。这是谷歌今年最重要的一次旗舰发布。 这句半开玩笑的感叹，很快引出一个更大胆的猜测：谷歌是否已经实现了RSI？ RSI，递归式自我改进，是指AI参与改进自身或研发下一代AI。 如今，多家公司已将RSI写入研究目标和投资叙事。相关论文、评测和产品也在密集出现。 谷歌是其中投入最大、行动最激进的公司之一。 仅在9月，谷歌就连续公布了四项相关",
-     "source": "虎嗅",
-     "zh": "谷歌为何押注RSI？"
     },
     {
      "title": "华为小米手机同日涨价，最高涨1000元",
@@ -1882,18 +1882,10 @@ window.INDUSTRY_DATA = {
      "zh": "苹果新品全家桶大剧透，最大的个人AI 终端是你家"
     },
     {
-     "title": "GLP-1能“减龄”2-4岁？",
-     "link": "https://www.huxiu.com/article/4896131.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 14:08:51 +0800",
-     "summary": "本文来自微信公众号： 医曜 ，作者：李景易 有意思的事情发生了。 10月1日，我们的国庆假期第一天，美国波士顿ARDD（衰老研究与药物发现）会议的议程上，出现了少见的一幕：诺和与礼来，GLP-1的两大卖家，在同一周交出了同一类数据，生物学年龄时钟。 数据分两份，一厚一薄。 厚的那份来自诺和诺德。汇总五项司美格鲁肽试验、10,052名参与者的蛋白组数据，约一半用药、一半安慰剂，首次随访时“心脏生物学年龄”降低约2到4年。再用SELECT试验的效应数据，在英国19,117人的真实世界队列里建模，推算出1.9个额外生命年。 薄的那份来自礼来。SURMOUNT-5替尔泊肽臂的71对血样，15个表观遗传",
-     "source": "虎嗅",
-     "zh": "GLP-1能“减龄”2-4岁？"
-    },
-    {
      "title": "MXC - a sandboxed code execution system",
      "link": "https://github.com/microsoft/mxc",
      "pubDate": "Fri, 09 Oct 2026 05:51:29 +0000",
-     "summary": "Article URL: https://github.com/microsoft/mxc Comments URL: https://news.ycombinator.com/item?id=50016489 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://github.com/microsoft/mxc Comments URL: https://news.ycombinator.com/item?id=50016489 Points: 4 # Comments: 0",
      "source": "Hacker News",
      "zh": "MXC - a sandboxed code execution system"
     },
@@ -1909,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Quake ported to safe Rust, playable in browser",
      "link": "https://quake-srp.pages.dev/",
      "pubDate": "Fri, 09 Oct 2026 05:22:58 +0000",
-     "summary": "Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 128 # Comments: 111",
+     "summary": "Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 132 # Comments: 111",
      "source": "Hacker News",
      "zh": "Show HN: Quake ported to safe Rust, playable in browser"
     },
@@ -1944,6 +1936,14 @@ window.INDUSTRY_DATA = {
      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
      "source": "WIRED",
      "zh": "Lowe's 促销代码和优惠：电器最高立减 300 美元"
+    },
+    {
+     "title": "Valvoline Coupons and Promo Codes for October 2026",
+     "link": "https://www.wired.com/story/valvoline-coupons/",
+     "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000",
+     "summary": "We've gathered all the top Valvoline coupons and promo codes for October 2026, including deals on full synthetic oil changes and other essential maintenance.",
+     "source": "WIRED",
+     "zh": "Valvoline Coupons and Promo Codes for October 2026"
     }
    ]
   },
@@ -2202,60 +2202,124 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Fomento Economico Mexicano declares $1.78 dividend",
-     "link": "https://seekingalpha.com/news/4651657-fomento-economico-mexicano-declares-1_78-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 03:43:17 -0400",
+     "title": "Enterprise Products Partners declares $0.56 dividend",
+     "link": "https://seekingalpha.com/news/4651662-enterprise-products-partners-declares-056-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 04:07:03 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Fomento Economico Mexicano declares $1.78 dividend"
+     "zh": "Enterprise Products Partners declares $0.56 dividend"
     },
     {
-     "title": "Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%",
+     "title": "美股盘前涨4%！Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%",
      "link": "https://wallstreetcn.com/articles/3783261",
-     "pubDate": "Fri, 09 Oct 2026 15:42:20 +0800",
-     "summary": "英伟达投资的光学器件制造商Lumentum Holdings正面临巨大产能缺口——其CEO表示，公司产品已全面售罄至2029年初，旺盛的AI数据中心需求令其疲于追赶。 Lumentum首席执行官Michael Hurlston周五在东京接受彭博采访时透露， 部分产品明年前约70%的需求无法满足，另一些产品至2028年仍有30%的需求缺口。仅半年前，他还表示公司产能预计将于2028年售罄 ——如今这一时间表已提前近一年。\"我们完全售罄，看不到尽头，\"Hurlston对彭博表示。 供应紧张局面对相关科技股及AI基础设施投资逻辑构成直接影响。分析师平均预计Lumentum今年销售额将超过翻倍。 产能",
+     "pubDate": "Fri, 09 Oct 2026 16:06:20 +0800",
+     "summary": "英伟达投资的光学器件制造商Lumentum Holdings正面临巨大产能缺口——其CEO表示，公司产品已全面售罄至2029年初，旺盛的AI数据中心需求令其疲于追赶。 Lumentum首席执行官Michael Hurlston周五在东京接受彭博采访时透露， 部分产品明年前约70%的需求无法满足，另一些产品至2028年仍有30%的需求缺口。仅半年前，他还表示公司产能预计将于2028年售罄 ——如今这一时间表已提前近一年。\"我们完全售罄，看不到尽头，\"Hurlston对彭博表示。 供应紧张局面对相关科技股及AI基础设施投资逻辑构成直接影响。分析师平均预计Lumentum今年销售额将超过翻倍。 美股",
      "source": "华尔街见闻",
-     "zh": "Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%"
+     "zh": "美股盘前涨4%！Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%"
     },
     {
-     "title": "Innovative Industrial Properties prices 9.25% preferred shares at $25 per share",
-     "link": "https://seekingalpha.com/news/4651649-innovative-industrial-properties-prices-925-preferred-shares-at-25-per-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 03:40:37 -0400",
+     "title": "Genesis Energy declares $0.20 dividend",
+     "link": "https://seekingalpha.com/news/4651661-genesis-energy-declares-020-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 04:05:00 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Innovative Industrial Properties prices 9.25% preferred shares at $25 per share"
+     "zh": "Genesis Energy declares $0.20 dividend"
     },
     {
-     "title": "Maverick Gold and Silver announces C$1.1M non-brokered private placement",
-     "link": "https://seekingalpha.com/news/4651645-maverick-gold-and-silver-announces-c11m-non-brokered-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 03:37:50 -0400",
+     "title": "Northwest Natural Holding boosts dividend by 1.5% to $0.50 a share",
+     "link": "https://seekingalpha.com/news/4651660-northwest-natural-holding-boosts-dividend-by-15-to-050-a-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 04:02:36 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Maverick Gold and Silver announces C$1.1M non-brokered private placement"
+     "zh": "Northwest Natural Holding boosts dividend by 1.5% to $0.50 a share"
     },
     {
-     "title": "TRexBio prices $117M IPO at $14 per share",
-     "link": "https://seekingalpha.com/news/4651648-trexbio-prices-117m-ipo-at-14-per-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 03:24:13 -0400",
+     "title": "Nvidia-backed Firmus eyes $3B funding after scrapping $5B IPO: report",
+     "link": "https://seekingalpha.com/news/4651658-nvidia-backed-firmus-eyes-3b-funding-after-scrapping-5b-ipo-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 03:57:58 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "TRexBio prices $117M IPO at $14 per share"
+     "zh": "Nvidia-backed Firmus eyes $3B funding after scrapping $5B IPO: report"
     },
     {
      "title": "OpenAI defends decision to fire researchers: &apos;These decisions were not about raising safety concerns or speaking out&apos;",
      "link": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
-     "pubDate": "Fri, 09 Oct 2026 07:23:48 GMT",
+     "pubDate": "Fri, 09 Oct 2026 07:57:46 GMT",
      "summary": "OpenAI has defended its decision to fire three safety researchers for what the AI lab has described as a \"significant breach of trust\"",
      "source": "CNBC",
      "zh": "OpenAI defends decision to fire researchers: &apos;These decisions were not about raising safety concerns or speaking out&apos;"
     },
     {
-     "title": "Pimco CIO warns 10-year Treasury yield could reach 6% - report",
-     "link": "https://seekingalpha.com/news/4651651-pimco-cio-10-year-treasury-yield?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 03:17:11 -0400",
+     "title": "马来西亚总理：将改革工人收入框架，为半熟练工人和毕业生设定最低工资为每月2,500林吉特",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891256330.html",
+     "pubDate": "Fri, 09 Oct 2026 15:57:21 +0800",
+     "summary": "马来西亚总理：将改革工人收入框架，为半熟练工人和毕业生设定最低工资为每月2,500林吉特。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "马来西亚总理：将改革工人收入框架，为半熟练工人和毕业生设定最低工资为每月2,500林吉特"
+    },
+    {
+     "title": "数据中心需求攀升，马来西亚半岛2027年用电量预计增长4.9%",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891256215.html",
+     "pubDate": "Fri, 09 Oct 2026 15:57:21 +0800",
+     "summary": "马来西亚政府周五发布的一份报告显示，随着 数据中心 的迅速扩张推高 电力 需求，马来西亚国家能源公司预计，马来西亚半岛2027年用电量将达到148.66太瓦时（TWh）。根据随2027年预算案一同发布的经济展望报告，马来西亚半岛2026年用电量预计为141.87太瓦时，这意味着2027年用电量年均增幅约为4.9%。报告指出，2025年 数据中心 的实际用电负荷达到710兆瓦，高于2024年的405兆瓦。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "数据中心需求攀升，马来西亚半岛2027年用电量预计增长4.9%"
+    },
+    {
+     "title": "【调研快报】优迅股份接待参与了本次业绩说明会的线上投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610093891254457.html",
+     "pubDate": "Fri, 09 Oct 2026 15:57:03 +0800",
+     "summary": "优迅股份 10月9日公告称， 9月24日 接待参与了本次业绩说明会的线上投资者 调研。 接待人员包括副总经理 陈哲,刘伯坤,董事会秘书、财务总监 杨霞。 公司就以下问题进行了回复： 1.NPO/CPO 架构移除 DSP,信号均衡、失真校正下沉到 TIA/Driver,电芯片价值量提升。请问公司如何判断 NPO、CPO 未来落地节奏?未来 2~3 年,这类适配 NPO/CPO 的高速 TIA/Driver,对公司营收、净利润的贡献预期大概是什么区间?有没有定点预期? 答:尊敬的投... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发",
+     "source": "东方财富股票",
+     "zh": "【调研快报】优迅股份接待参与了本次业绩说明会的线上投资者调研"
+    },
+    {
+     "title": "Trinity Capital Q3 originations hit $880M, pushing 2026 total to $2B",
+     "link": "https://seekingalpha.com/news/4651646-trinity-capital-q3-originations-hit-880m-pushing-2026-total-to-2b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 03:56:55 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Pimco CIO warns 10-year Treasury yield could reach 6% - report"
+     "zh": "Trinity Capital Q3 originations hit $880M, pushing 2026 total to $2B"
+    },
+    {
+     "title": "科力远：拟为子公司金丰锂业提供1.5亿元担保",
+     "link": "http://finance.eastmoney.com/news/1349,202610093891255964.html",
+     "pubDate": "Fri, 09 Oct 2026 15:56:32 +0800",
+     "summary": "南财智讯10月9日电， 科力远 公告，公司拟为子公司金丰 锂 业在中国 建设银行 申请的1.5亿元授信提供连带责任 保证担保 ，担保期限为三年。截至公告披露日，公司为金丰 锂 业提供的担保余额为6.87亿元。金丰 锂 业少数股东海南三强投资合伙企业（有限合伙）按照其持股比例为公司给金丰锂业的担保提供反担保。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "科力远：拟为子公司金丰锂业提供1.5亿元担保"
+    },
+    {
+     "title": "马来西亚国家能源公司：预计马来西亚2027年用电量将达到148.66太瓦时（TWh）",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891254070.html",
+     "pubDate": "Fri, 09 Oct 2026 15:55:21 +0800",
+     "summary": "马来西亚国家能源公司：随着 数据中心 快速扩张、推高 电力 需求，预计马来西亚2027年用电量将达到148.66太瓦时（TWh）。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "马来西亚国家能源公司：预计马来西亚2027年用电量将达到148.66太瓦时（TWh）"
+    },
+    {
+     "title": "惠通科技：中标3.66亿元涤纶化纤项目",
+     "link": "http://finance.eastmoney.com/news/1354,202610093891254288.html",
+     "pubDate": "Fri, 09 Oct 2026 15:54:27 +0800",
+     "summary": "惠通科技 (301601.SZ)公告称，公司收到图木舒克新纶化纤有限责任公司发出的《中标通知书》，确定公司中标“新纶化纤年产30万吨 涤纶 化纤项目－五标段聚酯和公用工程设备采购及安装”项目，中标金额3.66亿元。项目履行不影响公司业务独立性，预计将对未来经营业绩产生积极影响。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "惠通科技：中标3.66亿元涤纶化纤项目"
+    },
+    {
+     "title": "European markets in green as falling bond yields support sentiment",
+     "link": "https://seekingalpha.com/news/4651656-european-markets-in-green-as-falling-bond-yields-support-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 03:51:35 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "European markets in green as falling bond yields support sentiment"
+    },
+    {
+     "title": "财政部：有力有效实施更加积极的财政政策 支持全方位扩大国内需求 推动科技创新和产业创新",
+     "link": "http://finance.eastmoney.com/news/1345,202610093891237719.html",
+     "pubDate": "Fri, 09 Oct 2026 15:32:19 +0800",
+     "summary": "2026年上半年中国财政政策执行情况报告 2026年是“十五五”开局之年。面对国内外复杂环境带来的风险挑战，以习近平同志为核心的党中央加强对经济工作的全面领导，各地区各部门坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的二十大和二十届历次全会精神，认真落实中央经济工作会议和《政府工作报告》部署，完整准确全面贯彻新发展理念，深入开展树立和践行正确政绩观学习 教育 ，实施更加积极有为的宏观政策，我国经济呈现动能向新、结构向优的发展态势，高质量发展扎实推进。财政政策更加积极、精准发力，加强与其他政策协同联动，为实现“十五五”良好开局打下坚实基础。 一是持续释放内需潜力。 今年中央财政专门安",
+     "source": "东方财富资讯",
+     "zh": "财政部：有力有效实施更加积极的财政政策 支持全方位扩大国内需求 推动科技创新和产业创新"
     },
     {
      "title": "Pimco警告：对冲基金被迫抛售以止损，美国10年期国债收益率或突破6%！",
@@ -2266,28 +2330,20 @@ window.INDUSTRY_DATA = {
      "zh": "Pimco警告：对冲基金被迫抛售以止损，美国10年期国债收益率或突破6%！"
     },
     {
-     "title": "华图教育及其法定代表人易定国被限制高消费",
-     "link": "http://www.eeo.com.cn/2026/1009/1058517.shtml",
-     "pubDate": "Fri, 09 Oct 2026 15:13:13 +0800",
-     "summary": "中国经济网北京10月9日讯 天眼查工商信息显示，北京华图宏阳教育文化发展股份有限公司（简称“华图教育”）及其法定代表人易定国新增一则限制消费令。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/E11E92FA86DDE674FF2BF13AC0713141.jpg\" width=\"611\" height=\"63\" border=\"0\" data-uploadpic=\"U020261009531441153466_ORIGIN.jpg\" needdownload=\"true\" data-ne",
-     "source": "经济观察网",
-     "zh": "华图教育及其法定代表人易定国被限制高消费"
-    },
-    {
-     "title": "‘Some loud snapping and crackling’: Michael Burry flags risks in private markets",
-     "link": "https://seekingalpha.com/news/4651629-some-loud-snapping-and-crackling-michael-burry-flags-risks-in-private-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 03:11:57 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "‘Some loud snapping and crackling’: Michael Burry flags risks in private markets"
-    },
-    {
      "title": "花旗：全球电池产业链或迎新一轮下行周期，但不必过度悲观",
      "link": "https://wallstreetcn.com/articles/3783259",
      "pubDate": "Fri, 09 Oct 2026 15:04:22 +0800",
      "summary": "全球电池产业链正进入第二轮产能扩张周期，需求增速放缓叠加供给追赶，传统意义上的\"下行周期\"特征正在显现。但花旗认为，与上一轮周期（2022-2024年）相比，此次供需格局更为均衡，价格战风险显著降低。市场对于此次下行周期的悲观预期存在过度，整体利用率有望保持稳定。 花旗于2026年10月7日发布报告指出，在经历2025年需求强劲反弹并带动行业全面上修盈利预测之后，产能扩张步伐正在加速追赶。自下而上的产能模型测算，2026年及2027年全球电池产能增速预计分别达到46%和24%，而需求增速将在2027-2028年间减速至约26%和20%。分析师将行业优先级顺序更新为： 电池整机>电池零部件>LF",
      "source": "华尔街见闻",
      "zh": "花旗：全球电池产业链或迎新一轮下行周期，但不必过度悲观"
+    },
+    {
+     "title": "A股三大指数探底回升 成交额超1.9万亿 传媒板块掀涨停潮",
+     "link": "http://finance.eastmoney.com/news/1345,202610093891224941.html",
+     "pubDate": "Fri, 09 Oct 2026 15:00:21 +0800",
+     "summary": "A股三大指数今日探底回升，截止收盘，沪指涨0.05%，收报3813.79点；深证成指涨0.17%，收报12641.86点；创业板指涨0.22%，收报3043.33点。沪深京三市成交额1.92万亿，较昨日放量2224亿。 行业板块涨多跌少，影视院线、传媒、贵金属、广告营销、软件开发、游戏、一般零售板块涨幅居前，元件、风电设备、电子化学品板块跌幅居前。 个股方面，上涨股票数量接近3300只，逾70只股票涨停。传媒板块掀涨停潮，板块中15只股票封板，中文在线、芒果超媒20cm涨停，新华传媒9连板。 行业资金流向：50.44亿净流入 电池 行业资金方面，截至收盘， 电池 、 贵金属 、 工业金属 等净",
+     "source": "东方财富资讯",
+     "zh": "A股三大指数探底回升 成交额超1.9万亿 传媒板块掀涨停潮"
     },
     {
      "title": "报道：苹果削减iPhone 18 Pro订单，涨价后需求弱于预期",
@@ -2314,14 +2370,6 @@ window.INDUSTRY_DATA = {
      "zh": "法兴大空头：AI热潮正在复刻亚洲金融危机，致命的是债务“定时炸弹”"
     },
     {
-     "title": "首批基层病种单行发布，医保支付改革助力分级诊疗提质增效",
-     "link": "http://www.eeo.com.cn/2026/1009/1058430.shtml",
-     "pubDate": "Fri, 09 Oct 2026 14:26:12 +0800",
-     "summary": "21世纪经济报道记者 闫硕 近日，国家医保局正式发布按病种付费3.0版分组方案，并推荐第一批基层病种，包含DRG基层病组31个、DIP基层病种127个，供各地参照落地。10月9日，国家医保局对第一批基层病种进行单行公布。 基层病种是指适宜在符合条件的二级及以下医疗机构收治，且诊疗技术成熟的常见病、多发病及部分慢性病病种。基层病种的核心机制是“同病同付”，即在同一个统筹地区内，原则上医保部门对不同等级医疗...",
-     "source": "经济观察网",
-     "zh": "首批基层病种单行发布，医保支付改革助力分级诊疗提质增效"
-    },
-    {
      "title": "AI回报疑虑缓解，亚洲股市小幅上扬，美债收益率回落，金价突破4200美元，铁矿石连跌三周",
      "link": "https://wallstreetcn.com/articles/3783254",
      "pubDate": "Fri, 09 Oct 2026 14:19:07 +0800",
@@ -2336,38 +2384,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ray Dalio says earnings have cushioned stocks from rising bond yields, but that buffer is shrinking as he warns free cash flow could weaken.",
      "source": "CNBC",
      "zh": "Ray Dalio warns the stock market&apos;s cushion against rising bond yields is shrinking"
-    },
-    {
-     "title": "视频｜《大道 The Great Way》节目在渝启动 采编团队将20天行走新加坡等东盟多国",
-     "link": "http://www.eeo.com.cn/2026/1009/1058416.shtml",
-     "pubDate": "Fri, 09 Oct 2026 14:13:11 +0800",
-     "summary": "第1眼TV‑华龙网讯（记者 吴礼霜）10月9日，由市委宣传部指导、重庆广播电视集团（总台）第1眼TV策划实施的大型跨国探访节目《大道 The Great Way》启动仪式，在重庆广电大厦举行。该节目将派出多路采编力量分赴老挝、马来西亚、新加坡、泰国、越南等东盟国家，开展为期约20天的行进式采访，讲述中国与东盟经贸往来和人文交往的生动故事。 据了解，西部陆海新通道、中欧班列（成渝）两大通道，支撑重庆、带动西部跨越山海...",
-     "source": "经济观察网",
-     "zh": "视频｜《大道 The Great Way》节目在渝启动 采编团队将20天行走新加坡等东盟多国"
-    },
-    {
-     "title": "体验丰富、消费火热！重庆体育博物馆国庆假期人气旺",
-     "link": "http://www.eeo.com.cn/2026/1009/1058387.shtml",
-     "pubDate": "Fri, 09 Oct 2026 13:52:11 +0800",
-     "summary": "第1眼TV-华龙网讯（首席记者 陈美西）记者从重庆市体育局了解到，刚刚过去的国庆假期期间，重庆体育博物馆连续7天免费开放，沉浸式“剧本杀”研学、“久久公益节”公益集卡、文创上新等系列活动同步开展，吸引众多市民游客进馆参观。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/35CEE288B704FFD5CFD65C5B023E8D58.png\" alt=\"重庆体育博物馆剧本杀研学探秘活动。受访者供图\" data-title=\"...",
-     "source": "经济观察网",
-     "zh": "体验丰富、消费火热！重庆体育博物馆国庆假期人气旺"
-    },
-    {
-     "title": "电池板块局部活跃，电池ETF易方达（159175）标的指数上涨0.5%",
-     "link": "http://www.eeo.com.cn/2026/1009/1058386.shtml",
-     "pubDate": "Fri, 09 Oct 2026 13:52:10 +0800",
-     "summary": "10月9日早盘，电池板块局部活跃，动力电池电芯、锂电主材、固态电池概念相对偏强，而储能逆变器、储能系统集成等概念走弱。截至午间收盘，中证电池主题指数上涨0.5%，国证储能电池指数下跌1.4%。 （本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策。） <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/975A58E8DB3EF9F22E72F55E5CBFDF...",
-     "source": "经济观察网",
-     "zh": "电池板块局部活跃，电池ETF易方达（159175）标的指数上涨0.5%"
-    },
-    {
-     "title": "港股科技互联网板块集体反弹，港股通互联网ETF易方达（513040）标的指数半日涨2%",
-     "link": "http://www.eeo.com.cn/2026/1009/1058347.shtml",
-     "pubDate": "Fri, 09 Oct 2026 13:26:11 +0800",
-     "summary": "10月9日早盘，港股科技互联网板块集体反弹，截至午间收盘，中证港股通互联网指数上涨2.0%，恒生港股通新经济指数上涨1.2%，恒生科技指数上涨1.6%，中证港股通消费主题指数上涨1.7%，中证港股通医药卫生综合指数下跌1.5%。 （本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策。） <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/27C40F...",
-     "source": "经济观察网",
-     "zh": "港股科技互联网板块集体反弹，港股通互联网ETF易方达（513040）标的指数半日涨2%"
     },
     {
      "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
@@ -2424,22 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.",
      "source": "CNBC",
      "zh": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility"
-    },
-    {
-     "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
-     "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 00:52:00 GMT",
-     "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
-     "source": "MarketWatch",
-     "zh": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares"
-    },
-    {
-     "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
-     "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 00:03:00 GMT",
-     "summary": "Seven tips for painlessly moving in retirement.",
-     "source": "MarketWatch",
-     "zh": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’"
     }
    ]
   },

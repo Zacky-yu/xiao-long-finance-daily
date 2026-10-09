@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/9 15:31:49",
+ "generated_at": "2026/10/9 15:51:46",
  "recent_days": 7,
  "industries": [
   {
@@ -257,10 +257,26 @@
    "total": 9,
    "items": [
     {
+     "title": "Scaling 3D IC design: Trends, Challenges and Practical Workflows",
+     "link": "https://www.eetimes.com/scaling-3d-ic-design-trends-challenges-and-practical-workflows/",
+     "pubDate": "Fri, 09 Oct 2026 07:32:29 +0000",
+     "summary": "Join us to discover how Siemens Innovator3D IC streamlines 3D IC design from planning to implementation! The post Scaling 3D IC design: Trends, Challenges and Practical Workflows appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Scaling 3D IC design: Trends, Challenges and Practical Workflows"
+    },
+    {
+     "title": "Chip Industry Week In Review",
+     "link": "https://semiengineering.com/chip-industry-week-in-review-159/",
+     "pubDate": "Fri, 09 Oct 2026 07:01:17 +0000",
+     "summary": "$2B foundry pact; hyper-NA EUV; TSMC, Samsung financials; Canon readies nanoimprint; AI chips under scrutiny; $10T data center buildout; $1.5B SiC boost; chip smuggling; 800V power gains traction; quantum HW scales up; wireless EV road charging; sub-nm gate dielectrics; mobile fab. The post Chip Ind",
+     "source": "Semiconductor Engineering",
+     "zh": "芯片行业周回顾"
+    },
+    {
      "title": "Qualcomm vs Arm (Day 4)",
      "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-4-2026-10/",
      "pubDate": "Fri, 09 Oct 2026 05:17:49 +0000",
-     "summary": "Today, the Arm vs Qualcomm legal case in Delaware concludes and the judge and jury should give their rulings. Yesterday, Day 4 of the case, started with testimony from Manju […] The post Qualcomm vs Arm (Day 4) appeared first on Electronics Weekly .",
+     "summary": "Today, the Arm vs Qualcomm legal case in Delaware concludes and the judge and jury should give their rulings. Yesterday, Day 4 of the case, saw a wrapping up of […] The post Qualcomm vs Arm (Day 4) appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Qualcomm vs Arm (Day 4)"
     },
@@ -433,14 +449,6 @@
      "zh": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War"
     },
     {
-     "title": "Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing",
-     "link": "https://www.eetimes.com/rohm-semiconductor-expands-back-end-chip-manufacturing-outsourcing/",
-     "pubDate": "Thu, 08 Oct 2026 07:18:51 +0000",
-     "summary": "Rohm Semiconductor retains wafer fabrication in-house as it expands its back-end semiconductor operations and R&D footprint in India. The post Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Rohm Semiconductor Expands Back-End Chip Manufacturing Outsourcing"
-    },
-    {
      "title": "Finding Critical Defects Before They Become Costly Failures: Process Control For Hybrid Bonding And Advanced Packaging",
      "link": "https://semiengineering.com/finding-critical-defects-before-they-become-costly-failures-process-control-for-hybrid-bonding-and-advanced-packaging/",
      "pubDate": "Thu, 08 Oct 2026 07:06:04 +0000",
@@ -479,14 +487,6 @@
      "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Shift Left Complicates Fab Data Management"
-    },
-    {
-     "title": "From Process Learning To Production Control: Trends In Advanced Packaging And Implications To Characterization And Test",
-     "link": "https://semiengineering.com/from-process-learning-to-production-control-trends-in-advanced-packaging-and-implications-to-characterization-and-test/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:08 +0000",
-     "summary": "An integrated methodology for accelerating process development and sustaining production control for advanced packaging technologies. The post From Process Learning To Production Control: Trends In Advanced Packaging And Implications To Characterization And Test appeared first on Semiconductor Engin",
-     "source": "Semiconductor Engineering",
-     "zh": "From Process Learning To Production Control: Trends In Advanced Packaging And Implications To Characterization And Test"
     },
     {
      "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
@@ -964,7 +964,7 @@
      "title": "Massachusetts shifts clean energy funds to help heat homes this winter",
      "link": "https://www.utilitydive.com/news/massachusetts-clean-energy-funds-winter-heating-oil/832521/",
      "pubDate": "Thu, 08 Oct 2026 12:42:42 -0400",
-     "summary": "Massachusetts&nbsp;Gov. Maura Healey, D, ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
+     "summary": "Gov. Maura Healey ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
      "source": "Utility Dive",
      "zh": "Massachusetts shifts clean energy funds to help heat homes this winter"
     },
@@ -1705,20 +1705,84 @@
    "total": 18,
    "items": [
     {
-     "title": "2026 年国庆节假期国内出游 8.26 亿人次，总花费 7383.75 亿元",
-     "link": "https://www.ithome.com/1/010/985.htm",
-     "pubDate": "Fri, 09 Oct 2026 07:26:34 GMT",
-     "summary": "IT之家 10 月 9 日消息，据央视新闻报道，2026 年国庆节假期，全国文化和旅游市场平稳有序。经文化和旅游部数据中心测算，国庆节假期 7 天，全国国内 出游 8.26 亿人次 ，国内出游总花费 7383.75 亿元，按可比口径（日均）同比 2025 年分别增长 6.3%、4.3%。 同期，全国举办大型演出 180 场次，其中演唱会 125 场次、音乐节 55 场次；国家级夜间文化和旅游消费集聚区累计夜间客流量 1.07 亿人次，同比增长 5.6%；入境旅游市场活跃， 全国共接待入境游客 298.3 万人次 ，按可比口径（日均）同比 2024 年、2025 年 分别增长 19.0%、6.5",
+     "title": "罗伦士梦想家山河四座高顶版 MPV 上市，80.99 万元起",
+     "link": "https://www.ithome.com/1/010/996.htm",
+     "pubDate": "Fri, 09 Oct 2026 07:49:18 GMT",
+     "summary": "IT之家 10 月 9 日消息，改装商“罗伦士汽车”宣布旗下罗伦士梦想家山河四座高顶版上市，该车基于岚图梦想家山河四座版（售 70.99 万元）打造而来，采用悬浮高顶设计，整车高度抬升 10cm， 售价为 80.99 万元 。 该车配备罗伦士定制“云澜格栅”，设计灵感源自故宫太和殿的窗棂，带有可发光品牌。车身提供双色车漆涂装，匹配 20 英寸饼形轮圈。车辆后方融入扰流板提升运动感。车辆内饰以“阅览山河万象”为设计内核，大面积采用 Nappa 真皮包覆，搭配有百年山水纹影木饰板与“观山河”发光面板。 智能化方面，该车搭载华为乾崑智驾 ADS，并支持四分区语音识别。车辆后排配备双“鸿羽青云”零重力",
      "source": "IT之家",
-     "zh": "2026 年国庆节假期国内出游 8.26 亿人次，总花费 7383.75 亿元"
+     "zh": "罗伦士梦想家山河四座高顶版 MPV 上市，80.99 万元起"
     },
     {
-     "title": "消息称某子系旗舰线开案 7 英寸 2K 大直屏，预计归属小米 REDMI K200 系列",
-     "link": "https://www.ithome.com/1/010/984.htm",
-     "pubDate": "Fri, 09 Oct 2026 07:26:17 GMT",
-     "summary": "IT之家 10 月 9 日消息，博主 @数码闲聊站 发文，透露某神秘“子系旗舰线”开案一块 7 英寸 2K 大直屏，支持超高刷，支持 LIPO 四等边技术，该机定位为“七英寸大旗舰”。 该博主同时谈到，设定“7 英寸”尺寸的原因是“调研反馈好多人喜欢这个尺寸”，综合评论区，该机预计为小米 REDMI 旗下，参考研发周期，预计该机可能归属 K200 系列。 作为参考，小米现款 REDMI K100 系列手机发布于今年 8 月。其中 Pro Max 机型采用 6.9 英寸 2608×1200 分辨率 OLED 直屏，搭载第五代骁龙 8 至尊版处理器及 LPDDR5X+UFS 4.1 组合，电池容量",
+     "title": "洛图科技：中国电子纸平板线上销量连跌 16 个月后首次上涨，阅读器撑大梁，学习本大降 9 成",
+     "link": "https://www.ithome.com/1/010/995.htm",
+     "pubDate": "Fri, 09 Oct 2026 07:46:29 GMT",
+     "summary": "IT之家 10 月 9 日消息，洛图科技今日发布报告，2026 年 8 月，中国电子纸平板市场在线上全渠道平台的销量为 10.5 万台， 同比上升 8.5% ；销额为 1.5 亿元，同比下降 29.0%。 从销量规模来看，当月市场克服了学习本的衰退影响， 在经历了 16 个月的连续同比下降之后，终于迎来了正增长 。 今年 8 月， 阅读器是市场增量的主要贡献品类，销量同比上升了 57.9% ，在电子纸平板线上市场的内部份额由 2025 年同期的 52.9% 升至 77.0%；不过，市场均价降至了 989 元， 这是阅读器线上均价近两年来首次跌至千元以下 ，其主要的影响因素为低价入门机型的增多和",
      "source": "IT之家",
-     "zh": "消息称某子系旗舰线开案 7 英寸 2K 大直屏，预计归属小米 REDMI K200 系列"
+     "zh": "洛图科技：中国电子纸平板线上销量连跌 16 个月后首次上涨，阅读器撑大梁，学习本大降 9 成"
+    },
+    {
+     "title": "拿到更贵一笔钱，Manus重回北京",
+     "link": "https://www.huxiu.com/article/4896151.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 15:41:55 +0800",
+     "summary": "本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 拿下超5亿美金新融资，估值飙升至40亿美金，刷新中国AIAgent估值纪录。 10月8日上午，Manus母公司蝴蝶效应公司宣布完成融资，由博裕投资和IDG资本领投，腾讯、红杉中国、真格基金三家老股东继续跟投。 同一天，这家公司的中文招聘页面上有17个岗位在招，其中16个写明工作地点在北京。 创始人肖弘用“小宏”的账号转发了融资公告，配语只有两个字：前进。 他还透露，在此之前的9月28日那条招聘消息发出之后，一天之内收到了上千封简历。 把这几件事放在同一条时间线上，能看出一条完整的曲线。 九个月之前的2025年12月，Meta宣布收购这家公",
+     "source": "虎嗅",
+     "zh": "拿到更贵一笔钱，Manus重回北京"
+    },
+    {
+     "title": "小米智能摄像机 3 开售：500 万像素、6 种 AI 灵敏检测，首销 179 元",
+     "link": "https://www.ithome.com/1/010/994.htm",
+     "pubDate": "Fri, 09 Oct 2026 07:39:16 GMT",
+     "summary": "IT之家 10 月 9 日消息，小米智能摄像机 3 今日开售，500 万像素，升级 3K 超清画质，支持红外夜视，首销 179 元。 IT之家从商品页面获悉，该产品搭载 F1.6 大光圈镜头，高进光量可有效抑制画面噪点，画面通透锐利，呈现 3K 超清影像。内置高感光灵敏度图像传感器，微光之际仍能彩色成像；内置多颗 940nm 红外补光灯，漆黑夜间清晰拍摄。 新品搭载双电机云台，支持水平 360° 垂直 109° 视角； 6 种 AI 灵敏检测 ，针对居家、幼儿和宠物等不同看护场景，具备不同的 AI 检测能力，识别到情况及时发送通知；支持双向实时语音，可随时与家人沟通。 AOR 全天超省录制技术",
+     "source": "IT之家",
+     "zh": "小米智能摄像机 3 开售：500 万像素、6 种 AI 灵敏检测，首销 179 元"
+    },
+    {
+     "title": "开源启动盘制作工具 Ventoy 1.1.18 发布：实验性支持 SteamOS，改进 Linux 上 ISO 分区挂载",
+     "link": "https://www.ithome.com/1/010/993.htm",
+     "pubDate": "Fri, 09 Oct 2026 07:38:49 GMT",
+     "summary": "IT之家 10 月 9 日消息，科技媒体 Linuxiac 今天（10 月 9 日）发布博文，报道称开源启动盘制作工具 Ventoy 更新至 1.1.18 版本， 实验性支持 SteamOS 恢复镜像，用户可将相关镜像放入 Ventoy USB 存储盘并直接启动。 IT之家援引博文介绍，Ventoy 目前对 SteamOS 的支持仍处于实验阶段，部分设备或镜像可能存在兼容性限制。该功能面向需要修复、恢复或重新部署 SteamOS 设备的用户，让 Ventoy 可在同一 USB 磁盘中承载更多系统镜像。 新版还针对 Linux 改进挂载体验，在主流 Linux 桌面发行版，通过重新挂载（remo",
+     "source": "IT之家",
+     "zh": "开源启动盘制作工具 Ventoy 1.1.18 发布：实验性支持 SteamOS，改进 Linux 上 ISO 分区挂载"
+    },
+    {
+     "title": "九州风神上架铝挤下压风冷 ALTA 9、玄刃猎户 1700 版，39.9 元",
+     "link": "https://www.ithome.com/1/010/992.htm",
+     "pubDate": "Fri, 09 Oct 2026 07:37:53 GMT",
+     "summary": "IT之家 10 月 9 日消息，九州风神 (DeepCool) 近日上架了 2 款 铝挤鳍片“太阳花”下压式处理器风冷散热器 ，型号分别为 ALTA 9 和玄刃猎户 (GAMMA HUNTER) 1700 版，价格均为 39.9 元。 ▲ ALTA 9 ALTA 9 高 58.5mm，配备 9225 规格风扇，噪声 26.3 dB(A)，转速 2200 RPM，风量 42.35 CFM，兼容英特尔 Socket H 和 LGA775 平台。 京东 九州风神 ALTA 9 风冷 39.9 元 直达链接 ▲ 玄刃猎户 1700 版 玄刃猎户 1700 版 高 63.5 (mm)，配备 12025 ",
+     "source": "IT之家",
+     "zh": "九州风神上架铝挤下压风冷 ALTA 9、玄刃猎户 1700 版，39.9 元"
+    },
+    {
+     "title": "Steam 喜加一：原价 22 元心理恐怖解谜游戏《Pony Island》免费领",
+     "link": "https://www.ithome.com/1/010/990.htm",
+     "pubDate": "Fri, 09 Oct 2026 07:35:59 GMT",
+     "summary": "IT之家 10 月 9 日消息，知名独立游戏开发者 Daniel Mullins 制作的心理恐怖解谜游戏《Pony Island（小马岛）》目前正在 Steam 平台开展限时免费“喜加一”活动， 本作在 Steam 国区定价为 22 元 ，玩家可以在北京时间 10 月 13 日前免费领取，IT之家附游戏商品页（ https://store.steampowered.com/app/405640/Pony_Island/ ）。 《Pony Island》表面上是一款画风可爱的小马跳跃闯关街机游戏，实际上却是一部融入后设元素的悬疑解谜作品。故事讲述玩家被困在一台由恶魔亲自设计、充满恶意且故障频发的",
+     "source": "IT之家",
+     "zh": "Steam 喜加一：原价 22 元心理恐怖解谜游戏《Pony Island》免费领"
+    },
+    {
+     "title": "亚盛医药，钢丝上的舞者",
+     "link": "https://www.tmtpost.com/8162401.html",
+     "pubDate": "Fri, 09 Oct 2026 15:35:00 +0800",
+     "summary": "何时才能走出融资循环？",
+     "source": "钛媒体",
+     "zh": "亚盛医药，钢丝上的舞者"
+    },
+    {
+     "title": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？",
+     "link": "https://www.huxiu.com/article/4896149.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 15:32:43 +0800",
+     "summary": "本文来自微信公众号： 新榜 ，作者：哪吒，编辑：小八hachiko 最近，AI漫剧流行起了“不烧心文学”。 《规矩不能坏》《吃了不烧心》《先把规矩立住，路才能越走越宽》《不怕亏钱吗？怕，更怕账本不清》《明天怎么办？先做》《剩下怎么办？倒掉》《终于好起来了；嗯，要稳》《宁可少挣点，也不能坏了规矩》 这类台词主要集中出现在餐饮经营题材的AI漫剧里。故事通常从一个“良心老板”开始。主角坚持用好材料，经营包子铺、工地盒饭、猪脚饭，不肯跟着同行卷低价；反派则负责用劣质食材抢客，把价格一路打下来。 一开始，顾客们往往毫不犹豫奔向更便宜的摊位。但剧情走到后半程，劣质食材迟早翻车，被低价吸引走的顾客也会浪子回",
+     "source": "虎嗅",
+     "zh": "抖音播放超13亿，“不烧心文学”如何攻占AI漫剧？"
+    },
+    {
+     "title": "谁在改造波士顿动力？",
+     "link": "https://www.tmtpost.com/8162382.html",
+     "pubDate": "Fri, 09 Oct 2026 15:31:00 +0800",
+     "summary": "波士顿动力34年的故事，不只关乎它造出了什么，也关乎是什么一次次改变了它。",
+     "source": "钛媒体",
+     "zh": "谁在改造波士顿动力？"
     },
     {
      "title": "全是小众品牌？人形机器人还要继续赛马",
@@ -1753,60 +1817,20 @@
      "zh": "华为为何要在此时推鸿蒙OS出海？"
     },
     {
-     "title": "崇礼论坛闭幕之后：电力投资冲上14万亿、央企搭台唱戏，民企的角儿在哪？",
-     "link": "https://www.tmtpost.com/8161703.html",
-     "pubDate": "Fri, 09 Oct 2026 15:18:46 +0800",
-     "summary": "2026新型电力系统论坛：十五五能源布局，民企寻新机待改革。",
-     "source": "钛媒体",
-     "zh": "崇礼论坛闭幕之后：电力投资冲上14万亿、央企搭台唱戏，民企的角儿在哪？"
-    },
-    {
-     "title": "中文在线连栽跟头：港股上市终止，A股定增也“黄了”",
-     "link": "https://www.tmtpost.com/8161701.html",
-     "pubDate": "Fri, 09 Oct 2026 15:18:43 +0800",
-     "summary": "股价单日大跌12%。",
-     "source": "钛媒体",
-     "zh": "中文在线连栽跟头：港股上市终止，A股定增也“黄了”"
-    },
-    {
-     "title": "优派“VG2782Z-4K”26.5 英寸显示器发售：4K 120Hz QD-OLED、140W USB-C 配双扬，5262 元",
-     "link": "https://www.ithome.com/1/010/983.htm",
-     "pubDate": "Fri, 09 Oct 2026 07:17:39 GMT",
-     "summary": "IT之家 10 月 9 日消息，ViewSonic（优派）今年 7 月推出的“VG2782Z-4K”26.5 英寸显示器国行现已在京东发售，该产品主打 4K 120Hz QD-OLED，定价为 5262 元。 京东 优派 VG2782Z-4K 显示器 5262 元 直达链接 该产品采用三星显示 QD-OLED Penta Tandem 五层堆叠显示面板（3840x2160 分辨率 120Hz），基于其专有的五层有机发光结构打造，号称相比上一代面板，发光效率提高了 1.3 倍，使用寿命延长了 2 倍，支持原生 10-Bit 色彩，GtG 响应速度 0.03ms，覆盖 99% DCI-P3、100",
-     "source": "IT之家",
-     "zh": "优派“VG2782Z-4K”26.5 英寸显示器发售：4K 120Hz QD-OLED、140W USB-C 配双扬，5262 元"
-    },
-    {
-     "title": "安卓 PS3 模拟器 ARMSX3 登陆谷歌 Play 商店：最佳配置需高通骁龙 8 至尊版",
-     "link": "https://www.ithome.com/1/010/982.htm",
-     "pubDate": "Fri, 09 Oct 2026 07:11:45 GMT",
-     "summary": "IT之家 10 月 9 日消息，据外媒 Android Authority 今天（9 日）下午报道，安卓平台上“表现最好的 PS3 模拟器”ARMSX3 正式登陆谷歌 Play 商店，用户无须再从 GitHub 下载安装。 IT之家从官方介绍获悉，模拟器大小为 122MB，仍需另行下载 PS3 系统固件。商店页面还公布了详细的硬件配置要求。 开发团队给出的 最低配置为 64 位 Armv8.1 架构处理器，推荐骁龙 865 或 870 芯片 ，图形处理器至少为 Adreno 650，采用 Arm Mali 图形处理器的设备则需达到 Mali-G57 级别， 运行内存不少于 8GB 。这套配置主",
-     "source": "IT之家",
-     "zh": "安卓 PS3 模拟器 ARMSX3 登陆谷歌 Play 商店：最佳配置需高通骁龙 8 至尊版"
-    },
-    {
-     "title": "微软 Win11 两千人投票结果出炉：多数用户满意度不高，但会继续使用",
-     "link": "https://www.ithome.com/1/010/980.htm",
-     "pubDate": "Fri, 09 Oct 2026 07:10:48 GMT",
-     "summary": "IT之家 10 月 9 日消息，微软于 2021 年 10 月 5 日发布 Windows 11 系统， 距今已满 5 周年 ， 全球用户规模突破 10 亿大关仅用 1,576 天，比 Windows 10 提前 130 天，时间缩短约 7.62%。 IT之家昨日（10 月 8 日）开启了一次投票 ，一天时间已收获约 2000 位独立用户的投票结果。 对于 Windows 11 系统满意度，共计收到 1992 人投票，其中 32.78% 认为“不太满意，问题多于优点”，26.61% 认为“一般，不好不坏”。 在新装机系统方面，共收到 1723 人投票，其中 37.78% 表示“一定会选 Win",
-     "source": "IT之家",
-     "zh": "微软 Win11 两千人投票结果出炉：多数用户满意度不高，但会继续使用"
-    },
-    {
-     "title": "特朗普向马斯克、黄仁勋等人颁发美国国家科学奖章，先给自己颁了个奖",
-     "link": "https://www.ithome.com/1/010/979.htm",
-     "pubDate": "Fri, 09 Oct 2026 07:10:35 GMT",
-     "summary": "IT之家 10 月 9 日消息，当地时间周四，美国总统特朗普在科学峰会上向包括埃隆 · 马斯克和迈克尔 · 戴尔在内的多位顶尖科技高管颁发国家奖章。 SpaceX 和特斯拉 CEO 埃隆 · 马斯克、谷歌联合创始人谢尔盖 · 布林、英伟达 CEO 黄仁勋、AMD CEO 苏姿丰被授予 国家科学奖章 。 此外，戴尔公司创始人迈克尔 · 戴尔、微软 CEO 萨提亚 · 纳德拉被授予 国家技术与创新奖章 。 值得一提的是，在颁奖前，美国白宫把特朗普已故的叔叔 —— 约翰 · 特朗普曾获的奖章送给了特朗普 。 IT之家查询公开资料获悉，约翰 · 特朗普是麻省理工学院的电气工程教授，因对科学和工程的贡献",
-     "source": "IT之家",
-     "zh": "特朗普向马斯克、黄仁勋等人颁发美国国家科学奖章，先给自己颁了个奖"
-    },
-    {
      "title": "亚马逊 Prime Video 将直播艾美奖颁奖典礼",
      "link": "https://www.solidot.org/story?sid=85558",
      "pubDate": "Fri, 09 Oct 2026 14:55:55 +0800",
      "summary": "在 YouTube 获得美国奥斯卡奖颁奖典礼的转播权之后，另一个流媒体平台亚马逊 Prime Video 获得了美国另一个主要奖项艾美奖的转播权。Amazon Prime Video 将从 2027 年起成为艾美奖的全球独占播放平台，这一协议将持续六年。全球逾 240 个国家和地区的观众将能免费在线观看艾美奖颁奖典礼的直播，无需订阅 Prime 会员。此前艾美奖颁奖典礼由美国四大电视网 ABC、CBS、NBC 和 Fox 轮流主办，该轮流主办机制至少始于 1994 年，最近为期八年的合约将于今年到期。",
      "source": "Solidot",
      "zh": "亚马逊 Prime Video 将直播艾美奖颁奖典礼"
+    },
+    {
+     "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
+     "link": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
+     "pubDate": "Fri, 09 Oct 2026 06:54:45 +0000",
+     "summary": "Article URL: https://opentelemetry.io/blog/2026/otel-native-by-design/ Comments URL: https://news.ycombinator.com/item?id=50016974 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "OTel-Native by Design – Building Products That Export to Any Observability Stack"
     },
     {
      "title": "定义了软件工程的计算机科学家 Margaret Hamilton 去世，享年 90 岁",
@@ -1820,7 +1844,7 @@
      "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
      "link": "https://www.oldroll.io/",
      "pubDate": "Fri, 09 Oct 2026 06:40:14 +0000",
-     "summary": "OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use. Comments URL: https://news.ycombinator.com/item?id=50016840 Points: 3 # Comments: 0",
+     "summary": "OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use. Comments URL: https://news.ycombinator.com/item?id=50016840 Points: 3 # Comments: 1",
      "source": "Hacker News",
      "zh": "Show HN: OldRoll, a free vintage photo editor for the browser"
     },
@@ -1865,6 +1889,14 @@
      "zh": "GLP-1能“减龄”2-4岁？"
     },
     {
+     "title": "MXC - a sandboxed code execution system",
+     "link": "https://github.com/microsoft/mxc",
+     "pubDate": "Fri, 09 Oct 2026 05:51:29 +0000",
+     "summary": "Article URL: https://github.com/microsoft/mxc Comments URL: https://news.ycombinator.com/item?id=50016489 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "MXC - a sandboxed code execution system"
+    },
+    {
      "title": "微软被暂停参与允许外籍员工申请绿卡的项目",
      "link": "https://www.solidot.org/story?sid=85556",
      "pubDate": "Fri, 09 Oct 2026 13:47:12 +0800",
@@ -1873,18 +1905,10 @@
      "zh": "微软被暂停参与允许外籍员工申请绿卡的项目"
     },
     {
-     "title": "去英国读私校的中国高净值家庭，6年少了三成",
-     "link": "https://www.huxiu.com/article/4896125.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 13:27:27 +0800",
-     "summary": "本文来自微信公众号： 谷雨星球 ，作者：小谷 大家好，我是小谷。 前几年，很多明星、名人扎堆送孩子去英国读私校，伊顿、哈罗，人人都听过。 但今年，好像没什么人聊了。我们查了一下数据，还真是： 昔日挤破头抢私校名额的全球家庭长，都开始撤退了。 英国私立学校委员会（ISC）今年6月发布的最新年度普查报告（ISC Census 2026），用一连串刺眼的「负增长」，记录了英国私校的一个罕见寒冬。 不仅流失2万名学生，还有105所学校关了门。 ■海外学生数据，主要是父母在国内，孩子独自在英国私校寄宿的情况 其中最让人意外的是，中国大陆学生也在下降。 和2020年约8,300人的峰值比起来，直接少了约三",
-     "source": "虎嗅",
-     "zh": "去英国读私校的中国高净值家庭，6年少了三成"
-    },
-    {
      "title": "Show HN: Quake ported to safe Rust, playable in browser",
      "link": "https://quake-srp.pages.dev/",
      "pubDate": "Fri, 09 Oct 2026 05:22:58 +0000",
-     "summary": "Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 123 # Comments: 106",
+     "summary": "Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 128 # Comments: 111",
      "source": "Hacker News",
      "zh": "Show HN: Quake ported to safe Rust, playable in browser"
     },
@@ -1895,14 +1919,6 @@
      "summary": "Financial Times : Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech &nbsp; &mdash;&nbsp; Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent week",
      "source": "Techmeme",
      "zh": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)"
-    },
-    {
-     "title": "交强险一年亏230亿元，保费会涨吗？",
-     "link": "https://www.huxiu.com/article/4896124.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 13:02:59 +0800",
-     "summary": "本文来自微信公众号： 经观传媒 ，作者：刘轩宇，原文标题：《交强险一年亏230亿元 保费会涨吗？》 交强险干的是公益兜底的事，但按的是商业保险的规则来经营，那么亏损可能是显而易见的情况。不过，既然是国家法定、普惠兜底的民生保障制度，就不能单看账面亏损。 近日，国家金融监督管理总局发布了《关于2025年度机动车交通事故责任强制保险业务情况的公告》。数据显示2025年交强险保费收入2852亿元，赔付支出2524亿元；承保亏损296亿元，分摊66亿元投资收益后，经营亏损仍达230亿元。 230亿亏损背后的制度性原因 交强险全称“机动车交通事故责任强制保险”，是我国第一个法定强制保险，自2006年起已",
-     "source": "虎嗅",
-     "zh": "交强险一年亏230亿元，保费会涨吗？"
     },
     {
      "title": "TurboTax Full Service Coupons This October 2026",
@@ -1927,22 +1943,6 @@
      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
      "source": "WIRED",
      "zh": "Lowe's 促销代码和优惠：电器最高立减 300 美元"
-    },
-    {
-     "title": "Valvoline Coupons and Promo Codes for October 2026",
-     "link": "https://www.wired.com/story/valvoline-coupons/",
-     "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000",
-     "summary": "We've gathered all the top Valvoline coupons and promo codes for October 2026, including deals on full synthetic oil changes and other essential maintenance.",
-     "source": "WIRED",
-     "zh": "Valvoline Coupons and Promo Codes for October 2026"
-    },
-    {
-     "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
-     "link": "https://www.wired.com/story/lovehoney-discount-code/",
-     "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000",
-     "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
-     "source": "WIRED",
-     "zh": "Lovehoney 优惠券优惠：玩具、内衣和礼品套装折扣"
     }
    ]
   },
@@ -1952,6 +1952,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Another Android flagship is embracing the wide-format trend, but with a twist",
+     "link": "https://www.androidauthority.com/oppo-wide-format-smartphone-3721106/",
+     "pubDate": "Fri, 09 Oct 2026 07:29:50 +0000",
+     "summary": "Who said smartphones need to be tall to stand out?",
+     "source": "Android Authority",
+     "zh": "Another Android flagship is embracing the wide-format trend, but with a twist"
+    },
     {
      "title": "Google is rolling out a redesigned search bar in the Google app",
      "link": "https://www.androidauthority.com/google-redesigned-search-bar-google-app-rollout-3721085/",
@@ -1975,6 +1983,14 @@
      "summary": "Claude Docs, Slides, and Design are also out of beta and available to free users.",
      "source": "Android Authority",
      "zh": "Claude can now turn your boring data into live dashboards and animations"
+    },
+    {
+     "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+     "link": "https://sspai.com/post/115456",
+     "pubDate": "Fri, 09 Oct 2026 14:43:28 +0800",
+     "summary": "让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。 查看全文",
+     "source": "少数派",
+     "zh": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧"
     },
     {
      "title": "The best PS3 emulator for Android is now on the Play Store",
@@ -2007,14 +2023,6 @@
      "summary": "Yesterday, a report claimed that Apple is planning two separate product launches this month. While the company has confirmed the first event, scheduled for October 13, Bloomberg’s Mark Gurman has now revealed when the second launch could take place. According to Gurman, who cites sources familiar wi",
      "source": "GSMArena",
      "zh": "Gurman: Apple to announce its touchscreen MacBook on October 27"
-    },
-    {
-     "title": "The Kindle experience on the new Alexa tablets really does look ‘rad’",
-     "link": "https://www.androidauthority.com/amazon-alexa-tablet-kindle-mode-3721057/",
-     "pubDate": "Fri, 09 Oct 2026 04:43:33 +0000",
-     "summary": "Kindle Mode is one of the coolest tricks on Amazon's new Alexa tablets.",
-     "source": "Android Authority",
-     "zh": "The Kindle experience on the new Alexa tablets really does look ‘rad’"
     },
     {
      "title": "iQOO Neo12's display could be very special",
@@ -2183,14 +2191,6 @@
      "summary": "Today’s best Google Play app and game deals are ready, including Ace Attorney: Dual Destinies, Apollo Justice Ace Attorney, Lia: Hacking Destiny, STAR WARS: KOTOR II, Star Wars: KOTOR, Fairy Knights -Story based RPG, Titan Quest: Legendary Edition, Slots & Daggers, and more. Just be sure to scope ou",
      "source": "9to5Google",
      "zh": "Today’s Android app deals and freebies: Ace Attorney, Star Wars, Hacking Destiny, more"
-    },
-    {
-     "title": "Google is ending support for Pixel Watch’s emergency LTE ‘Safety Signal’",
-     "link": "https://9to5google.com/2026/10/08/google-ending-safety-signal-support-pixel-watch/",
-     "pubDate": "Thu, 08 Oct 2026 18:29:38 +0000",
-     "summary": "Google launched the Pixel Watch 2 with “Safety Signal” to ensure users could use Emergency SOS and Safety Check without a Bluetooth or cellular signal. Now, those features require a phone or internet connection. more…",
-     "source": "9to5Google",
-     "zh": "Google is ending support for Pixel Watch’s emergency LTE ‘Safety Signal’"
     }
    ]
   },
@@ -2201,12 +2201,52 @@
    "total": 13,
    "items": [
     {
+     "title": "Fomento Economico Mexicano declares $1.78 dividend",
+     "link": "https://seekingalpha.com/news/4651657-fomento-economico-mexicano-declares-1_78-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 03:43:17 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fomento Economico Mexicano declares $1.78 dividend"
+    },
+    {
+     "title": "Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%",
+     "link": "https://wallstreetcn.com/articles/3783261",
+     "pubDate": "Fri, 09 Oct 2026 15:42:20 +0800",
+     "summary": "英伟达投资的光学器件制造商Lumentum Holdings正面临巨大产能缺口——其CEO表示，公司产品已全面售罄至2029年初，旺盛的AI数据中心需求令其疲于追赶。 Lumentum首席执行官Michael Hurlston周五在东京接受彭博采访时透露， 部分产品明年前约70%的需求无法满足，另一些产品至2028年仍有30%的需求缺口。仅半年前，他还表示公司产能预计将于2028年售罄 ——如今这一时间表已提前近一年。\"我们完全售罄，看不到尽头，\"Hurlston对彭博表示。 供应紧张局面对相关科技股及AI基础设施投资逻辑构成直接影响。分析师平均预计Lumentum今年销售额将超过翻倍。 产能",
+     "source": "华尔街见闻",
+     "zh": "Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%"
+    },
+    {
+     "title": "Innovative Industrial Properties prices 9.25% preferred shares at $25 per share",
+     "link": "https://seekingalpha.com/news/4651649-innovative-industrial-properties-prices-925-preferred-shares-at-25-per-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 03:40:37 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Innovative Industrial Properties prices 9.25% preferred shares at $25 per share"
+    },
+    {
+     "title": "Maverick Gold and Silver announces C$1.1M non-brokered private placement",
+     "link": "https://seekingalpha.com/news/4651645-maverick-gold-and-silver-announces-c11m-non-brokered-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 03:37:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Maverick Gold and Silver announces C$1.1M non-brokered private placement"
+    },
+    {
      "title": "TRexBio prices $117M IPO at $14 per share",
      "link": "https://seekingalpha.com/news/4651648-trexbio-prices-117m-ipo-at-14-per-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 03:24:13 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "TRexBio prices $117M IPO at $14 per share"
+    },
+    {
+     "title": "OpenAI defends decision to fire researchers: &apos;These decisions were not about raising safety concerns or speaking out&apos;",
+     "link": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
+     "pubDate": "Fri, 09 Oct 2026 07:23:48 GMT",
+     "summary": "OpenAI has defended its decision to fire three safety researchers for what the AI lab has described as a \"significant breach of trust\"",
+     "source": "CNBC",
+     "zh": "OpenAI defends decision to fire researchers: &apos;These decisions were not about raising safety concerns or speaking out&apos;"
     },
     {
      "title": "Pimco CIO warns 10-year Treasury yield could reach 6% - report",
@@ -2241,22 +2281,6 @@
      "zh": "‘Some loud snapping and crackling’: Michael Burry flags risks in private markets"
     },
     {
-     "title": "SpaceX Spectrum deal triggers telecom selloff: How T, VZ, and TMUS rank on quant",
-     "link": "https://seekingalpha.com/news/4651650-spacex-spectrum-deal-triggers-telecom-selloff-how-t-vz-and-tmus-rank-on-quant?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 03:05:45 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SpaceX Spectrum deal triggers telecom selloff: How T, VZ, and TMUS rank on quant"
-    },
-    {
-     "title": "OpenAI parts ways with three researchers after probe finds sensitive information breach",
-     "link": "https://seekingalpha.com/news/4651655-openai-parts-ways-with-three-researchers-after-probe-finds-sensitive-information-breach?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 03:04:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "OpenAI parts ways with three researchers after probe finds sensitive information breach"
-    },
-    {
      "title": "花旗：全球电池产业链或迎新一轮下行周期，但不必过度悲观",
      "link": "https://wallstreetcn.com/articles/3783259",
      "pubDate": "Fri, 09 Oct 2026 15:04:22 +0800",
@@ -2265,28 +2289,12 @@
      "zh": "花旗：全球电池产业链或迎新一轮下行周期，但不必过度悲观"
     },
     {
-     "title": "A股三大指数探底回升 成交额超1.9万亿 传媒板块掀涨停潮",
-     "link": "http://finance.eastmoney.com/news/1345,202610093891224941.html",
-     "pubDate": "Fri, 09 Oct 2026 15:00:21 +0800",
-     "summary": "A股三大指数今日探底回升，截止收盘，沪指涨0.05%，收报3813.79点；深证成指涨0.17%，收报12641.86点；创业板指涨0.22%，收报3043.33点。沪深京三市成交额1.92万亿，较昨日放量2224亿。 行业板块涨多跌少，影视院线、传媒、贵金属、广告营销、软件开发、游戏、一般零售板块涨幅居前，元件、风电设备、电子化学品板块跌幅居前。 个股方面，上涨股票数量接近3300只，逾70只股票涨停。传媒板块掀涨停潮，板块中15只股票封板，中文在线、芒果超媒20cm涨停，新华传媒9连板。 行业资金流向：50.44亿净流入 电池 行业资金方面，截至收盘， 电池 、 贵金属 、 工业金属 等净",
-     "source": "东方财富资讯",
-     "zh": "A股三大指数探底回升 成交额超1.9万亿 传媒板块掀涨停潮"
-    },
-    {
      "title": "报道：苹果削减iPhone 18 Pro订单，涨价后需求弱于预期",
      "link": "https://wallstreetcn.com/articles/3783257",
      "pubDate": "Fri, 09 Oct 2026 14:49:59 +0800",
      "summary": "苹果公司正面临旗舰新品上市后需求不及预期的压力。 据日经亚洲周五援引多名知情人士，苹果自9月初起对出货预期趋于保守。其中两名知情人士表示， 与原始计划相比，10月iPhone 18 Pro与Pro Max的组件订单已被削减至少15%，原因是市场需求弱于预期。一名高管级别消息人士透露，10月，苹果高端机型的订单削减幅度介于15%至20%之间。 与此同时，瑞银分析师本周在研报中指出，iPhone 18 Pro在逾30个市场的交货等待时间正在缩短。瑞银表示，\"在供给稳定的背景下等待时间下降，结合近期涨价所带来的需求弹性风险，令我们愈发感到担忧\"。受此影响，首款折叠屏机型iPhone Duo能否在10",
      "source": "华尔街见闻",
      "zh": "报道：苹果削减iPhone 18 Pro订单，涨价后需求弱于预期"
-    },
-    {
-     "title": "Apple cuts iPhone 18 Pro component orders by ~15% on chip costs: report",
-     "link": "https://seekingalpha.com/news/4651652-apple-cuts-iphone-18-pro-component-orders-by-15-on-chip-costs-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 02:38:06 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apple cuts iPhone 18 Pro component orders by ~15% on chip costs: report"
     },
     {
      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
@@ -2327,14 +2335,6 @@
      "summary": "Ray Dalio says earnings have cushioned stocks from rising bond yields, but that buffer is shrinking as he warns free cash flow could weaken.",
      "source": "CNBC",
      "zh": "Ray Dalio warns the stock market&apos;s cushion against rising bond yields is shrinking"
-    },
-    {
-     "title": "A股三大股指集体翻红，券商板块发力，多只宽基ETF放量，恒科指涨近3%，小米暴涨8%",
-     "link": "https://wallstreetcn.com/articles/3783237",
-     "pubDate": "Fri, 09 Oct 2026 14:13:53 +0800",
-     "summary": "10月9日，A股午后拉升，三大指数全线上涨，早盘创业板指曾跌超3%，科创50指数翻红，盘中跌超4%。AI应用、文化传媒、券商、黄金、化纤、软件板块走强。锂电池、固态电池等方向走强，芯片半导体、算力硬件链延续弱势。生物医药板块大跌，CRO、创新药等集体承压。江淮汽车再跌停，此前尊界通报刹车踏板支架断裂，称将进一步优化设计。 港股午后继续上涨，恒指、恒科指双双拉升，恒科指涨近3%，权重科网股集体反弹，美团、阿里、腾讯纷纷上涨，小米大涨超8%，带动新能源汽车反弹，芯片股承压，华虹宏力、兆易创新、澜起科技等下挫。债市方面，国债期货全线上涨。商品方面，国内商品期货涨跌参半。核心市场走势： A股 ：截至发",
-     "source": "华尔街见闻",
-     "zh": "A股三大股指集体翻红，券商板块发力，多只宽基ETF放量，恒科指涨近3%，小米暴涨8%"
     },
     {
      "title": "视频｜《大道 The Great Way》节目在渝启动 采编团队将20天行走新加坡等东盟多国",
@@ -2425,20 +2425,20 @@
      "zh": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility"
     },
     {
-     "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
-     "link": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
-     "pubDate": "Fri, 09 Oct 2026 02:52:15 GMT",
-     "summary": "Investors are overestimating the risk of conflict across the Taiwan Strait, a U.S. diplomat says, playing up deterrence to keep Beijing from taking the island.",
-     "source": "CNBC",
-     "zh": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk"
-    },
-    {
      "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
      "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 00:52:00 GMT",
      "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
      "source": "MarketWatch",
      "zh": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares"
+    },
+    {
+     "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+     "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 00:03:00 GMT",
+     "summary": "Seven tips for painlessly moving in retirement.",
+     "source": "MarketWatch",
+     "zh": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’"
     }
    ]
   },

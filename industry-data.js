@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/9 08:30:02",
+ "generated_at": "2026/10/9 08:44:59",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+     "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+     "pubDate": "Fri, 09 Oct 2026 00:08:24 +0000",
+     "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next",
+     "source": "MIT Tech Review AI",
+     "zh": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
+    },
     {
      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequently rely on complex mu",
      "source": "arXiv cs.AI",
      "zh": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets"
-    },
-    {
-     "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
-     "link": "https://arxiv.org/abs/2610.06914",
-     "pubDate": "Thu, 08 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.06914v1 Announce Type: new Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent Runtime combine schema-constrained model decisions with typed tools, persistent",
-     "source": "arXiv cs.AI",
-     "zh": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Where Are The Centrists?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/m-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 00:00:28 +0000",
+     "summary": "Political centrists outnumber Rightists and Leftists in Germany, Japan, and South Africa, according to Statista Consumer Insights. In Germany, 41% of respondents said that they were in the centre , […] The post Where Are The Centrists? appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Where Are The Centrists?"
+    },
     {
      "title": "Why Custom Silicon Matters in AI Data Centers",
      "link": "https://www.eetimes.com/why-custom-silicon-matters-in-ai-data-centers/",
@@ -376,14 +384,6 @@ window.INDUSTRY_DATA = {
      "summary": "Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has received a conditional loan commitment letter from the US Department of War (DoW), through its Office of Strategic Capital (OSC), for up to $1.5bn of long-term (30-year) financing to ",
      "source": "Semiconductor Today",
      "zh": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War"
-    },
-    {
-     "title": "SuperSharp to lead THEOSCOPE IR Earth observation mission",
-     "link": "https://www.electronicsweekly.com/news/business/supersharp-to-lead-theoscope-ir-earth-observation-mission-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 09:10:26 +0000",
-     "summary": "SuperSharp, a specialist in ultra-high resolution thermal infrared (TIR) imaging from space, has been chosen to lead Europe’s THEOSCOPE Mission. This is an Earth observation project with €4 million of […] The post SuperSharp to lead THEOSCOPE IR Earth observation mission appeared first on Electronic",
-     "source": "Electronics Weekly",
-     "zh": "SuperSharp to lead THEOSCOPE IR Earth observation mission"
     },
     {
      "title": "Largan Precision posts over 10% revenue growth in the first nine months of 2026",
@@ -933,7 +933,7 @@ window.INDUSTRY_DATA = {
      "title": "Massachusetts shifts clean energy funds to help heat homes this winter",
      "link": "https://www.utilitydive.com/news/massachusetts-clean-energy-funds-winter-heating-oil/832521/",
      "pubDate": "Thu, 08 Oct 2026 12:42:42 -0400",
-     "summary": "Gov. Maura Healey ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
+     "summary": "Massachusetts&nbsp;Gov. Maura Healey, D, ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
      "source": "Utility Dive",
      "zh": "Massachusetts shifts clean energy funds to help heat homes this winter"
     },
@@ -1706,12 +1706,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "特朗普为什么非要给AI改名字",
+     "link": "https://www.tmtpost.com/8161128.html",
+     "pubDate": "Fri, 09 Oct 2026 08:41:29 +0800",
+     "summary": "从AI到SI，AI巨头的反应并不整齐。",
+     "source": "钛媒体",
+     "zh": "特朗普为什么非要给AI改名字"
+    },
+    {
+     "title": "Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders (Washington Post)",
+     "link": "https://www.techmeme.com/261008/p52#a261008p52",
+     "pubDate": "Thu, 08 Oct 2026 20:40:03 -0400",
+     "summary": "Washington Post : Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders &nbsp; &mdash;&nbsp; President Donald Trump celebrated tech billionaires such as Microsoft CEO Satya Nadella at an event ",
+     "source": "Techmeme",
+     "zh": "Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders (Washington Post)"
+    },
+    {
+     "title": "卖机器人“皮肤”之外，触觉厂商还想卖数据和模型",
+     "link": "https://www.tmtpost.com/8161374.html",
+     "pubDate": "Fri, 09 Oct 2026 08:39:16 +0800",
+     "summary": "2026年更像是机器人“皮肤”从技术样品走向产品化的一年；数据和模型的价值已经显现，但尚未形成可以独立验证的收入模式。",
+     "source": "钛媒体",
+     "zh": "卖机器人“皮肤”之外，触觉厂商还想卖数据和模型"
+    },
+    {
+     "title": "中金“三合一”落地，东兴、信达证券的员工终于笑了",
+     "link": "https://www.tmtpost.com/8161278.html",
+     "pubDate": "Fri, 09 Oct 2026 08:36:29 +0800",
+     "summary": "进入“大鱼吃大鱼”时代。",
+     "source": "钛媒体",
+     "zh": "中金“三合一”落地，东兴、信达证券的员工终于笑了"
+    },
+    {
+     "title": "President Trump awards Elon Musk, Jensen Huang, Lisa Su, and Sergey Brin the National Medal of Science at a White House summit promoting innovation (Jared Perlo/NBC News)",
+     "link": "https://www.techmeme.com/261008/p51#a261008p51",
+     "pubDate": "Thu, 08 Oct 2026 20:30:45 -0400",
+     "summary": "Jared Perlo / NBC News : President Trump awards Elon Musk, Jensen Huang, Lisa Su, and Sergey Brin the National Medal of Science at a White House summit promoting innovation &nbsp; &mdash;&nbsp; President Donald Trump joined Michael Kratsios to award the Medal of Science to Elon Musk, Jensen Huang, L",
+     "source": "Techmeme",
+     "zh": "President Trump awards Elon Musk, Jensen Huang, Lisa Su, and Sergey Brin the National Medal of Science at a White House summit promoting innovation (Jared Perlo/NBC News)"
+    },
+    {
+     "title": "哈尔岑自述：大科学的成败，系于几个小小的瞬间",
+     "link": "https://www.huxiu.com/article/4896019.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 08:30:18 +0800",
+     "summary": "本文来自微信公众号： 返朴 ，作者：Francis Halzen 本文是今年诺贝尔物理学奖得主、威斯康星大学麦迪逊分校教授弗朗西斯·哈尔岑写于1999年的一篇自述，那时还没有现在已耀眼的冰立方，只有它的前身AMANDA。哈尔岑在1988年提出用南极冰层探测中微子的设想，到本文写作时已经过去了十年。 文中他回顾了项目一路走来的波折。一位没有任何仪器建造经验的理论物理学家，要设法说服资助者，把巨额经费押注在千米深处的南极冰下。钻孔期间，哈尔岑在半个地球外失眠，彻夜等候南极发来的邮件。他自嘲说，要造的只是“一台勉强够用的望远镜”。 翻译|蒙塔基的钢蛋 大科学的成败，往往只系于几个小小的瞬间。经费已经",
+     "source": "虎嗅",
+     "zh": "哈尔岑自述：大科学的成败，系于几个小小的瞬间"
+    },
+    {
+     "title": "苹果调整 iPhone 更新排序，推动 iOS 26 用户升级 iOS 27",
+     "link": "https://www.ithome.com/1/010/775.htm",
+     "pubDate": "Fri, 09 Oct 2026 00:28:04 GMT",
+     "summary": "IT之家 10 月 9 日消息，科技媒体 MacRumors 今天（10 月 9 日）发布博文，报道称苹果已调整 iPhone 系统更新显示顺序，将 iOS 27.0.1 置于主要位置，更主动地引导 iOS 26 用户升级至 iOS 27。 IT之家援引博文介绍，仍在运行 iOS 26 的 iPhone 用户打开在“设置”应用的“通用” → “软件更新”路径，此前位于页面首位的是 iOS 26.7.1，不过近期苹果已调整为 iOS 27.0.1。 苹果于 9 月 14 日发布 iOS 27。本次调整后，iOS 26.7.1 被移至“其他可用”区域，iOS 27.0.1 则成为用户首先看到的系统",
+     "source": "IT之家",
+     "zh": "苹果调整 iPhone 更新排序，推动 iOS 26 用户升级 iOS 27"
+    },
+    {
+     "title": "派拉蒙联手 CDPR 打造，曝《赛博朋克 2077》将被改编为真人电影",
+     "link": "https://www.ithome.com/1/010/774.htm",
+     "pubDate": "Fri, 09 Oct 2026 00:27:36 GMT",
+     "summary": "IT之家 10 月 9 日消息，当地时间 8 日，据外媒 Deadline 爆料，派拉蒙影业计划将畅销游戏《赛博朋克 2077》改编为真人电影，故事将以游戏中的赛博朋克世界为背景。 原作是波兰游戏开发商 CD Projekt Red 推出的动作冒险角色扮演游戏，影片将由制片人洛伦佐 · 迪 · 博纳文图拉与 CD Projekt Red 共同制作。 《赛博朋克 2077》的故事设定在一个反乌托邦式的未来世界，主要发生在虚构的加利福尼亚大都市夜之城。主角 V 是一名雇佣兵，因故不得不植入一枚储存着传奇摇滚歌手兼恐怖分子强尼 · 银手人格数据的生物芯片。 随着银手的意识逐渐侵占 V 的意识，两人必",
+     "source": "IT之家",
+     "zh": "派拉蒙联手 CDPR 打造，曝《赛博朋克 2077》将被改编为真人电影"
+    },
+    {
      "title": "《极限竞速：地平线 6》PS5 版官宣北京时间 2027 年 1 月 27 日发售，498 港币起",
      "link": "https://www.ithome.com/1/010/773.htm",
      "pubDate": "Fri, 09 Oct 2026 00:27:10 GMT",
      "summary": "IT之家 10 月 9 日消息，索尼 PlayStation 官方宣布，《Forza Horizon 6（极限竞速：地平线 6）》PS5 版将于 北京时间 明年 1 月 27 日发售 。 目前这款游戏已在 PS5 港服商店开启预购， 标准版售价 498 港币 （IT之家注：现汇率约合 426.2 元人民币） 、豪华版 714 港币 （现汇率约合 611 元人民币） 、尊享版 854 港币 （现汇率约合 730.8 元人民币） 。 游戏将支持与 Xbox、PC 平台跨平台联机及存档互通， 同时提供 4K 30 帧画质模式和 60 帧性能模式。 延伸阅读 《极限竞速：地平线 6》此前已率先于 20",
      "source": "IT之家",
      "zh": "《极限竞速：地平线 6》PS5 版官宣北京时间 2027 年 1 月 27 日发售，498 港币起"
+    },
+    {
+     "title": "观察｜秋粮丰收了，农民为什么笑不出来？",
+     "link": "https://www.huxiu.com/article/4896018.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 08:24:50 +0800",
+     "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《观察｜秋粮丰收了，农民为什么笑不出来？》 前段时间去东北，针对农产品收购\"反向开票\"做调研。坐在炕头上，跟村里的老大哥聊了很久。 他种了200亩玉米，去年秋天丰收了。但他给我算了一笔账：承包费、种子、化肥、农药、农机、雇工，加起来一亩地成本一千四五百块。风调雨顺的话，亩产一千三四百斤到一千五六百斤，干粮收购价一块出头，潮粮甚至不到九毛。扣掉成本，自种的话一亩地赚两三百块；如果是租地种的，遇上行情差，保本都难，甚至要倒贴。 他说：\"丰收是丰收了，但赚的钱，还不如出去打工。\" 2026年秋粮收获过半，全国多地预判迎来丰产。粮食稳产、大国粮",
+     "source": "虎嗅",
+     "zh": "观察｜秋粮丰收了，农民为什么笑不出来？"
     },
     {
      "title": "Meta bans ByteDance ads and paid marketing, plus third-party campaigns linking to TikTok, in the US, Canada, Egypt, Indonesia, Japan, Thailand, and Vietnam (Bloomberg)",
@@ -1770,14 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "FDE，可能是一个致命的陷阱"
     },
     {
-     "title": "俄罗斯贝加尔鼠疫风波，千万不能扩散",
-     "link": "https://www.huxiu.com/article/4896006.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 08:06:42 +0800",
-     "summary": "本文来自微信公众号： 地球知识局 ，作者：子昱，校对：辜汉膺，编辑：养乐多，题图来自：视觉中国 10月2日，俄罗斯伊尔库茨克州一名从事鼠疫防治的研究人员因&ldquo;不明原因肺炎&rdquo;去世，顿时引发全球舆论，美国和世卫组织都表示高度关注。 本次的事发地伊尔库茨克就在贝加尔湖附近。2023年，知识局的小伙伴们还一起去过。 同时，各种流言四起，包括但不限于这是战事吃紧故意制造此事加强国内管控；死者是打碎了装有致病细菌的试管而感染；还有第二名感染死亡的患者等等。 这之中，有些显然是不靠谱的。你如果现在搜北京到伊尔库茨克机票，最便宜的直飞只要700多块，敢去么？ 目前能够确认的几点是： 1.",
-     "source": "虎嗅",
-     "zh": "俄罗斯贝加尔鼠疫风波，千万不能扩散"
-    },
-    {
      "title": "聊天机器人怂恿用户自残、挨饿，Character.AI 遭肯塔基州指控“产品存在缺陷”",
      "link": "https://www.ithome.com/1/010/769.htm",
      "pubDate": "Fri, 09 Oct 2026 00:05:12 GMT",
@@ -1786,34 +1850,26 @@ window.INDUSTRY_DATA = {
      "zh": "聊天机器人怂恿用户自残、挨饿，Character.AI 遭肯塔基州指控“产品存在缺陷”"
     },
     {
-     "title": "58岁奔驰前高管，没救活一家面包店",
-     "link": "https://www.huxiu.com/article/4896012.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 08:04:54 +0800",
-     "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：马吉英，作者：任娅斐 不断转换身份的同时，他也在逐渐脱掉那件让自己端着的“长衫”。 到了饭点，北京顺义荣祥广场依然冷清。十数家商铺里，顾客寥寥无几。春种秋藏面包店的总店就开在这里。 8月20日，李宏鹏在店门口立起一块白色立牌，上面写着一则闭店告示：9月28日是春种秋藏面包店最后一天营业。 告示发布后，面包店迎来一波流量高峰，很多老顾客专程赶过去，消费支持；慕名而来的新朋友，打卡的同时，临走时也会捎上一袋面包。“每天客人没有断过，大家都想在闭店前再买走最后一炉面包。”李宏鹏笑着说。 58岁的李宏鹏穿一件浅紫色衬衫，袖口挽起，短发向一侧梳得整整齐齐。他",
-     "source": "虎嗅",
-     "zh": "58岁奔驰前高管，没救活一家面包店"
+     "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+     "link": "https://github.com/edrisranjbar/lifeos",
+     "pubDate": "Fri, 09 Oct 2026 00:02:19 +0000",
+     "summary": "Article URL: https://github.com/edrisranjbar/lifeos Comments URL: https://news.ycombinator.com/item?id=50014150 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI"
     },
     {
-     "title": "OpenAI 推出 GPT-6.1 Sol Ultrafast 版：6 倍价格、最高 8 倍速度",
-     "link": "https://www.ithome.com/1/010/768.htm",
-     "pubDate": "Fri, 09 Oct 2026 00:04:37 GMT",
-     "summary": "IT之家 10 月 9 日消息，OpenAI Developers 官方宣布，OpenAI 正式在 API、Codex 和 ChatGPT Work 中推出 GPT-6.1 Sol 的 Ultrafast 版本。 该版本运行速度最高可达 Sol 标准版（Sol Standard）的 8 倍 ，定价为标准版的 6 倍 （每百万 tokens 输入 12 美元 （IT之家注：现汇率约合 80.5 元人民币） ，每百万 tokens 输出 60 美元 （现汇率约合 402.7 元人民币） ）。 在 Codex 和 ChatGPT Work 中，该功能现已面向 Pro 500、符合条件的按量付费企业版",
-     "source": "IT之家",
-     "zh": "OpenAI 推出 GPT-6.1 Sol Ultrafast 版：6 倍价格、最高 8 倍速度"
-    },
-    {
-     "title": "苹果库克解释为何赶在 iPhone Duo 发布前交接：为特努斯创造有利开局",
-     "link": "https://www.ithome.com/1/010/767.htm",
-     "pubDate": "Fri, 09 Oct 2026 00:00:25 GMT",
-     "summary": "IT之家 10 月 9 日消息，本周三在接受《独立报》记者大卫 · 费兰（David Phelan）采访时，苹果前首席执行官蒂姆 · 库克（Tim Cook）表示，他于 9 月 1 日卸任 CEO， 部分原因是在 iPhone Duo 发布前 8 天，为继任者约翰 · 特努斯（John Ternus）创造有利开局。 库克表示，这次交接“数年前就已启动”。他说，苹果希望打造一次可供后人借鉴的“教科书式”交接，并称整个过程基本符合其预期。 IT之家翻译库克采访内容如下： 这是一次有趣的转型。我们一开始就立志要打造史上最佳转型，一个可供后人借鉴学习的教科书式范例。实际上，这项工作早在几年前就开始了。",
-     "source": "IT之家",
-     "zh": "苹果库克解释为何赶在 iPhone Duo 发布前交接：为特努斯创造有利开局"
+     "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+     "link": "https://svg-spark.vercel.app/",
+     "pubDate": "Thu, 08 Oct 2026 23:32:49 +0000",
+     "summary": "Article URL: https://svg-spark.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50013931 Points: 11 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Show HN: SVG Spark – 10 client-side SVG design and dev tools"
     },
     {
      "title": "OpenAI, the Partition Principle, and Mathematics",
      "link": "https://karagila.org/2026/openai-pp/",
      "pubDate": "Thu, 08 Oct 2026 23:29:43 +0000",
-     "summary": "Article URL: https://karagila.org/2026/openai-pp/ Comments URL: https://news.ycombinator.com/item?id=50013902 Points: 29 # Comments: 5",
+     "summary": "Article URL: https://karagila.org/2026/openai-pp/ Comments URL: https://news.ycombinator.com/item?id=50013902 Points: 42 # Comments: 32",
      "source": "Hacker News",
      "zh": "OpenAI, the Partition Principle, and Mathematics"
     },
@@ -1832,6 +1888,14 @@ window.INDUSTRY_DATA = {
      "summary": "Mikita Balesni / @balesni : AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for &ldquo;prioritizing safety over the near-term interests of OpenAI&rdquo; &nbsp; &mdash;&nbsp; Two other safety researchers and I were fired from OpenAI last week. We wrote t",
      "source": "Techmeme",
      "zh": "AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for \"prioritizing safety over the near-term interests of OpenAI\" (Mikita Balesni/@balesni)"
+    },
+    {
+     "title": "Spinal: A near-instant, predictive surface for any codebase",
+     "link": "https://spinal.sh/",
+     "pubDate": "Thu, 08 Oct 2026 22:48:30 +0000",
+     "summary": "Article URL: https://spinal.sh/ Comments URL: https://news.ycombinator.com/item?id=50013525 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Spinal: A near-instant, predictive surface for any codebase"
     },
     {
      "title": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud",
@@ -1869,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "AI-ready biological data: $1.8B global commitment",
      "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
      "pubDate": "Thu, 08 Oct 2026 20:46:25 +0000",
-     "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 52 # Comments: 4",
+     "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 56 # Comments: 4",
      "source": "Hacker News",
      "zh": "AI-ready biological data: $1.8B global commitment"
     },
@@ -1877,73 +1941,9 @@ window.INDUSTRY_DATA = {
      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
      "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
      "pubDate": "Thu, 08 Oct 2026 20:42:16 +0000",
-     "summary": "Article URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full Comments URL: https://news.ycombinator.com/item?id=50011928 Points: 133 # Comments: 105",
+     "summary": "Article URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full Comments URL: https://news.ycombinator.com/item?id=50011928 Points: 139 # Comments: 107",
      "source": "Hacker News",
      "zh": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)"
-    },
-    {
-     "title": "USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts its general partnership to four investors, and aims to lead more AI rounds (Bloomberg)",
-     "link": "https://www.techmeme.com/261008/p47#a261008p47",
-     "pubDate": "Thu, 08 Oct 2026 16:40:01 -0400",
-     "summary": "Bloomberg : USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts its general partnership to four investors, and aims to lead more AI rounds &nbsp; &mdash;&nbsp; New York City-based venture firm Union Square Ventures is reinventing itself to better compete in the artifici",
-     "source": "Techmeme",
-     "zh": "USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts its general partnership to four investors, and aims to lead more AI rounds (Bloomberg)"
-    },
-    {
-     "title": "Sources: Apple is planning an event on or around October 27 for its first touchscreen MacBook, an OLED iPad mini, a 14\" MacBook Pro with M6, and an iMac with M6 (Mark Gurman/Bloomberg)",
-     "link": "https://www.techmeme.com/261008/p46#a261008p46",
-     "pubDate": "Thu, 08 Oct 2026 16:25:02 -0400",
-     "summary": "Mark Gurman / Bloomberg : Sources: Apple is planning an event on or around October 27 for its first touchscreen MacBook, an OLED iPad mini, a 14\" MacBook Pro with M6, and an iMac with M6 &nbsp; &mdash;&nbsp; Apple Inc., already set to introduce a revamped smart home strategy next week, is planning a",
-     "source": "Techmeme",
-     "zh": "Sources: Apple is planning an event on or around October 27 for its first touchscreen MacBook, an OLED iPad mini, a 14\" MacBook Pro with M6, and an iMac with M6 (Mark Gurman/Bloomberg)"
-    },
-    {
-     "title": "Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review (Anthropic)",
-     "link": "https://www.techmeme.com/261008/p45#a261008p45",
-     "pubDate": "Thu, 08 Oct 2026 16:23:09 -0400",
-     "summary": "Anthropic : Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review &nbsp; &mdash;&nbsp; We're launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experi",
-     "source": "Techmeme",
-     "zh": "Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review (Anthropic)"
-    },
-    {
-     "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
-     "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
-     "pubDate": "Thu, 08 Oct 2026 20:15:53 +0000",
-     "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
-     "source": "Ars Technica",
-     "zh": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing"
-    },
-    {
-     "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
-     "link": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
-     "pubDate": "Thu, 08 Oct 2026 19:57:17 +0000",
-     "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
-     "source": "Ars Technica",
-     "zh": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027"
-    },
-    {
-     "title": "Driver wins $76 after ALPR led to bogus traffic stop, drug searches",
-     "link": "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
-     "pubDate": "Thu, 08 Oct 2026 19:42:30 +0000",
-     "summary": "Mass surveillance gets stupider.",
-     "source": "Ars Technica",
-     "zh": "Driver wins $76 after ALPR led to bogus traffic stop, drug searches"
-    },
-    {
-     "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
-     "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
-     "pubDate": "Thu, 08 Oct 2026 19:30:00 +0000",
-     "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-     "source": "WIRED",
-     "zh": "She Designed Meta’s New AI Logo. Then Came the Hate"
-    },
-    {
-     "title": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries",
-     "link": "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
-     "pubDate": "Thu, 08 Oct 2026 19:26:32 +0000",
-     "summary": "\"[T]he Trump-RFK Jr anti-vax agenda keeps getting more corrupt and dangerous.\"",
-     "source": "Ars Technica",
-     "zh": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries"
     }
    ]
   },
@@ -2202,6 +2202,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "李嘉诚旗下长实集团将拆除一在建楼盘3栋楼并重建 该项目此前涉贪污造假 10人被抓",
+     "link": "http://finance.eastmoney.com/news/1354,202610093890027087.html",
+     "pubDate": "Fri, 09 Oct 2026 08:33:46 +0800",
+     "summary": "10月8日，《每日经济新闻》记者从 长实集团 （HK01113，股价44.800港元，市值1568亿港元；以下简称长实）获悉，公司旗下观塘安达臣道项目计划拆卸重建余下3幢大厦。该项目曾卷入香港廉政公署代号“战鼓”的贪污造假大案，并因钢筋施工与获批图则不符被香港屋宇署勒令停工。 资料画面 长实表示，香港屋宇署此前检视项目工程后确认，各大楼整体结构没有明显危险。每栋楼宇会按独立个案处理，修补方案需要大量调查论证，耗时漫长。此前，工程顾问耗时近两年，对6座建筑物的其中3座进行了调查，并提出香港屋宇署认可的修补工程措施。因此，集团按最有效率及最符合经济效益的前提作研究后，认为拆卸重建余下的3座大厦是最",
+     "source": "东方财富股票",
+     "zh": "李嘉诚旗下长实集团将拆除一在建楼盘3栋楼并重建 该项目此前涉贪污造假 10人被抓"
+    },
+    {
+     "title": "谷歌云发布Gemini Agent 机构称智能体产业链进入确定性成长期",
+     "link": "http://stock.eastmoney.com/news/11134,202610093890176953.html",
+     "pubDate": "Fri, 09 Oct 2026 08:32:06 +0800",
+     "summary": "谷歌云发布Gemini Agent，定位为“通用工作智能体”（universal agent for work）。谷歌云表示，Gemini Agent可处理知识工作、回答问题、创建内容及编程等任务，用户只需设定目标，而无需提供具体操作指令。可调用谷歌自家的Gemini系列模型和Anthropic的Claude模型，未来还将支持其他领先的私有和开源模型。 IDC指出，Agent正在从功能型助手走向可规模化的“数字劳动力”，随着企业对Agent从“偶尔试用”走向“深度依赖”，Agent正深度嵌入业务流，围绕智能体开发平台、任务量计费的商业模式加速成型。 国盛证券 花小伟表示，AI Agent正处于",
+     "source": "东方财富股票",
+     "zh": "谷歌云发布Gemini Agent 机构称智能体产业链进入确定性成长期"
+    },
+    {
+     "title": "谷歌与核电运营商达成20年期协议 核电行业仍具备长期增长潜力",
+     "link": "http://finance.eastmoney.com/news/1349,202610093890177095.html",
+     "pubDate": "Fri, 09 Oct 2026 08:31:50 +0800",
+     "summary": "据媒体报道，谷歌(GOOG.O)与美国最大核电运营商Constellation Energy达成一项为期20年的核电协议。 2026年9月14日，国际原子能机构（IAEA）发布年度展望报告《能源、 电力 与核电估算2060》，第六次上调全球核电装机容量预期。根据NEA2026年8月14日发布的《核能展望：2050年及以后全球装机容量》，在变革场景中，2050年全球核能装机为1324GW，其中SMR装机150GW，OECD和非OECD国家的资本开支分别为1430/620亿美元/年。 太平洋 证券认为，随着 新能源 占比提升，可调度电源被摊薄，而AI算力、充电等不可中断负荷激增。核电作为少数仍在扩",
+     "source": "东方财富股票",
+     "zh": "谷歌与核电运营商达成20年期协议 核电行业仍具备长期增长潜力"
+    },
+    {
+     "title": "英伟达投资的 Lumentum：光器件产能订单已排至 2029 年",
+     "link": "http://stock.eastmoney.com/news/1611,202610093890299513.html",
+     "pubDate": "Fri, 09 Oct 2026 08:30:50 +0800",
+     "summary": "受科技企业争相建设高速 AI 数据中心 带动， Lumentum Holdings Inc . 的光电器件产能几乎已经全部售罄，订单覆盖至 2029 年。今年早些时候， 英伟达 向 Lumentum 及其竞争对手 Coherent 各投资 20 亿美元。该公司主营先进磷化铟器件，支撑高速 云计算 与数据传输业务。总部位于加州圣何塞的 Lumentum 首席执行官迈克尔·赫尔斯顿周五在东京接受采访时表示，部分产品明年仍有约 70% 的需求无法满足，另有部分产品到 2028 年还有 30% 的需求缺口。赫尔斯顿此前曾称，这家光组件厂商的产能预计将在 2028 年全部售罄。赫尔斯顿表示：“我们正全力",
+     "source": "东方财富股票",
+     "zh": "英伟达投资的 Lumentum：光器件产能订单已排至 2029 年"
+    },
+    {
+     "title": "海内外机器人量产加速推进 供应链企业有望迎来可观进展",
+     "link": "http://hk.eastmoney.com/news/11362,202610093890176476.html",
+     "pubDate": "Fri, 09 Oct 2026 08:30:30 +0800",
+     "summary": "长盈精密 10月8日在互动平台表示，公司已与国内外多家人形 机器人 头部品牌建立紧密合作，2026年1-8月交付超过110万件人形 机器人 精密零组件，三、四季度订单相比上半年增速更快，正根据客户需求积极扩产。 国盛证券 指出， 机器人 产业化提速， 特斯拉 加速推进量产准备，供应链进展可观，国内智元、七腾等陆续发布新品， 机器人 产业化提速中，配置重视丝杠、 减速器 、轻量化等赛道龙头。 据财联社主题库显示，相关上市公司中： 兆威机电 重点聚焦 机器人 手部及其运动执行部件，在整手产品层面，已发布灵巧手系列产品A17、B06、B20。基于不同产品定位及应用场景，推出差异化产品，满足多元场景需",
+     "source": "东方财富股票",
+     "zh": "海内外机器人量产加速推进 供应链企业有望迎来可观进展"
+    },
+    {
+     "title": "10月9日投资避雷针：这家上市公司及董事长等涉走私罪被提起公诉",
+     "link": "http://stock.eastmoney.com/news/11215,202610093890297474.html",
+     "pubDate": "Fri, 09 Oct 2026 08:29:00 +0800",
+     "summary": "近日A股及海外市场潜在风险事件如下。国内经济信息方面包括：1）国内商品期市夜盘收盘多数下跌，黑色系跌幅居前；2）中证协分析称，全行业平均净佣金率下降至万分之1.71；公司方面重点关注包括：1） 波长光电 公司及董事长等涉走私国家禁止进出口货物罪被提起公诉；2）2连板 兴业股份 公告， 光刻胶 用酚醛树脂尚处送样测试阶段；海外市场重点关注包括：1）美股纳指收跌超1%，存储、 半导体 板块下挫；2）OpenAI年化营收较之前报道预期少200亿美元。 经济信息 1、国内商品期市夜盘收盘多数下跌，黑色系跌幅居前，DCE 铁矿石 跌1.16%；农副产品全部下跌，DCE玉米跌0.65%；油脂油料多数下跌，",
+     "source": "东方财富股票",
+     "zh": "10月9日投资避雷针：这家上市公司及董事长等涉走私罪被提起公诉"
+    },
+    {
+     "title": "特朗普“画不动”原油K线了",
+     "link": "https://wallstreetcn.com/articles/3783230",
+     "pubDate": "Fri, 09 Oct 2026 08:24:15 +0800",
+     "summary": "原油市场对特朗普言论的敏感度正在系统性衰减。 曾经一句威胁伊朗的推文就能让油价单日暴涨7%，如今同类表态却几乎激不起任何波澜。据彭博对价格走势的分析，随着美伊冲突持续拖延，特朗普的言论对全球原油市场的影响力已显著减弱。 今年4月1日，特朗普在电视讲话中扬言将对伊朗发动打击，令其“回到石器时代”，油价随即在亚洲早盘飙升，最终收涨逾7%，突破每桶109美元。然而到了10月1日，特朗普再度警告伊朗\"签署停火协议，否则将不复存在\"，原油价格却几乎纹丝不动。 同样的威胁语言，市场反应天差地别。 据彭博10月8日报道，接受采访的原油交易员表示，他们已不再聚焦于白宫的修辞，转而更关注实物供应变化和货运流量等",
+     "source": "华尔街见闻",
+     "zh": "特朗普“画不动”原油K线了"
+    },
+    {
      "title": "Lions Bay Capital faces cease trade order over late filings",
      "link": "https://seekingalpha.com/news/4651626-lions-bay-capital-faces-cease-trade-order-over-late-filings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 08 Oct 2026 20:24:05 -0400",
@@ -2240,6 +2296,14 @@ window.INDUSTRY_DATA = {
      "summary": "作者 | 林克、郑好 2021年春天，在硅谷流行的语音社交平台Clubhouse邀请码在eBay上卖到上百美元。5年后，同一件事发生在名为Instinct的个人Agent身上。 作为AI助理，Instinct只通过短信和电话替用户订酒店、改签航班、比价下单，它的邀请码同样在eBay上被炒到上百美元，每位用户只有5个邀请名额。 硅谷对这种稀缺感的反应一如既往，投资人自发传播，科技媒体轮番报道，估值一个月内从25亿美元涨到百亿美元。 如今这个故事发生在一家14个人、零收入、没有手机App的公司身上。 9月28日，Instinct宣布C轮融资10亿美元，Sequoia、Benchmark和Coatu",
      "source": "华尔街见闻",
      "zh": "没有App、14个人、免费用：Instinct如何撑起百亿美元估值"
+    },
+    {
+     "title": "英国零售商报告称关键购物季来临前客流量下降",
+     "link": "http://www.eeo.com.cn/2026/1009/1057876.shtml",
+     "pubDate": "Fri, 09 Oct 2026 08:13:15 +0800",
+     "summary": "新华财经北京10月9日电 英国零售商协会与Sensormatic联合发布的报告显示，受严峻的消费环境影响，即便正值关键购物季来临之际，英国零售客流量仍呈下降趋势。数据显示，8月30日至10月3日期间，英国总客流量下降2.9%，而8月的降幅为1.7%。报告称，消费者似乎对经济形势日益担忧，包括通胀的影响、家庭开支压力、燃油成本以及英国秋季预算案公布前的不确定性。报告补充道，随着圣诞购物季的到来，未来几个月将至关重要。报告指出...",
+     "source": "经济观察网",
+     "zh": "英国零售商报告称关键购物季来临前客流量下降"
     },
     {
      "title": "咖啡配卷饼？星巴克寻求收购Chipotle，若成功将成“餐饮业最大并购”",
@@ -2298,14 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "华尔街见闻早餐FM-Radio | 2026年10月9日"
     },
     {
-     "title": "为交付算力，甲骨文用卡车运天然气为数据中心供电",
-     "link": "https://wallstreetcn.com/articles/3783225",
-     "pubDate": "Fri, 09 Oct 2026 07:15:08 +0800",
-     "summary": "为按时交付AI数据中心，甲骨文Oracle采取非常规供能手段应对管道延误，但高昂成本与扩容瓶颈仍是隐忧。 10月8日据彭博报道，甲骨文正以卡车运输压缩天然气的方式，维持旗下多个AI数据中心的建设与运营进度，以规避管道基础设施延误带来的时间损失。 这一非常规策略已在犹他州和德克萨斯州付诸实施，并正被考虑引入新墨西哥州的关键项目。甲骨文自由现金流目前为负，且预计在更多AI数据中心竣工投用前将持续承压。 甲骨文股价周四收跌5.5%，报135.69美元，创7月16日以来最大单日跌幅。 与此同时，与甲骨文存在燃料电池供能合作的Bloom Energy股价同日重挫逾6%，市场对甲骨文数据中心扩张节奏及相关",
-     "source": "华尔街见闻",
-     "zh": "为交付算力，甲骨文用卡车运天然气为数据中心供电"
-    },
-    {
      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
      "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
      "pubDate": "Thu, 08 Oct 2026 23:14:00 GMT",
@@ -2336,6 +2392,14 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI’s annualized revenue reportedly fell short of expectations — but analysts say that reflects differences in how the figure is reported, not weakness in AI demand.",
      "source": "MarketWatch",
      "zh": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’"
+    },
+    {
+     "title": "10月9日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/1344,202610083890018228.html",
+     "pubDate": "Fri, 09 Oct 2026 06:03:27 +0800",
+     "summary": "10月9日(星期五)，今日报刊头条主要内容精华如下： 中国证券报 央行发布关于人民币汇率的政策立场 坚持让市场在汇率形成中发挥决定性作用 10月8日，中国人民 银行 发布关于人民币汇率的政策立场，强调中国实施以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度，坚持让市场在汇率形成中发挥决定性作用。中国人民 银行 还提出，全球经济失衡与全球分工格局演进、国际货币体系固有矛盾、部分国家长期高财政赤字高消费等密切相关，需要各方共同推动解决。将本国产业竞争力下降、财经约束弱化和复杂结构性问题简单归因他国汇率，是对自身调整责任的推诿和回避。 两部门发布民营经济领域纠纷多元化解典型案例 聚焦解",
+     "source": "东方财富资讯",
+     "zh": "10月9日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     },
     {
      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
@@ -2376,70 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "Prosecutors told to deploy full range of powers to claw back funds and seek stiffer sentences",
      "source": "Financial Times",
      "zh": "US justice department orders playbook refresh for frauds on government"
-    },
-    {
-     "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-     "pubDate": "Thu, 8 Oct 2026 20:30:00 GMT",
-     "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-     "source": "Federal Reserve",
-     "zh": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering"
-    },
-    {
-     "title": "Major League Baseball proposes shortening its regular season as it pushes for a salary cap",
-     "link": "https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html",
-     "pubDate": "Thu, 08 Oct 2026 20:16:21 GMT",
-     "summary": "Major League Baseball proposed a return to a shorter 154-game regular season schedule as it attempts to convince players to approve a salary cap.",
-     "source": "CNBC",
-     "zh": "Major League Baseball proposes shortening its regular season as it pushes for a salary cap"
-    },
-    {
-     "title": "OpenAI annualised revenues $20bn less than previously signalled",
-     "link": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
-     "pubDate": "Thu, 08 Oct 2026 20:15:57 GMT",
-     "summary": "AI group recently told investors the critical figure was nearing $50bn in September, far less than the $70bn widely reported",
-     "source": "Financial Times",
-     "zh": "OpenAI annualised revenues $20bn less than previously signalled"
-    },
-    {
-     "title": "Why a Starbucks takeover of Chipotle would — and wouldn&apos;t — make sense for both companies",
-     "link": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
-     "pubDate": "Thu, 08 Oct 2026 20:12:33 GMT",
-     "summary": "Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, but a potential deal comes with pros and cons for investors.",
-     "source": "CNBC",
-     "zh": "Why a Starbucks takeover of Chipotle would — and wouldn&apos;t — make sense for both companies"
-    },
-    {
-     "title": "Treasury yields are &apos;really, really high&apos; but can come down soon, Bessent&apos;s new advisor says",
-     "link": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
-     "pubDate": "Thu, 08 Oct 2026 20:06:31 GMT",
-     "summary": "The comments from David Zervos come after the 10-year and 30-year yields marched to 24-year highs in recent days.",
-     "source": "CNBC",
-     "zh": "Treasury yields are &apos;really, really high&apos; but can come down soon, Bessent&apos;s new advisor says"
-    },
-    {
-     "title": "Microsoft banned from sponsoring foreign workers for US residency",
-     "link": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1",
-     "pubDate": "Thu, 08 Oct 2026 19:45:47 GMT",
-     "summary": "Announcement impacting several tech groups marks White House’s latest attempt to limit immigration",
-     "source": "Financial Times",
-     "zh": "Microsoft banned from sponsoring foreign workers for US residency"
-    },
-    {
-     "title": "Trump says U.S. will not attack Iran before midterm election",
-     "link": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-     "pubDate": "Thu, 08 Oct 2026 17:41:20 GMT",
-     "summary": "Trump said talks with Tehran were “productive” as the Iran war pushes oil and gas prices higher and support for the conflict falls.",
-     "source": "CNBC",
-     "zh": "Trump says U.S. will not attack Iran before midterm election"
-    },
-    {
-     "title": "Mastercard to enable offline payments across Europe",
-     "link": "https://www.finextra.com/newsarticle/48560/mastercard-to-enable-offline-payments-across-europe?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 08 Oct 2026 15:17:00 GMT",
-     "summary": "Mastercard is introducing offline payment requirements that mean that from 2027 Europeans will be able to pay during power and network outages.",
-     "source": "Finextra",
-     "zh": "Mastercard to enable offline payments across Europe"
     }
    ]
   },
@@ -2464,6 +2464,14 @@ window.INDUSTRY_DATA = {
      "summary": "A 9 million-year-old capybara tooth was found in the Atacama Desert, a surprising find given that these rodents love water.",
      "source": "Live Science",
      "zh": "'Freakish' discovery of 9 million-year-old capybara tooth supports idea that Atacama wasn't always a desert"
+    },
+    {
+     "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+     "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+     "pubDate": "Thu, 08 Oct 2026 20:15:53 +0000",
+     "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
+     "source": "Ars Technica Science",
+     "zh": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing"
     },
     {
      "title": "Kilauea’s display is revealing why volcanoes spew like a fountain show",
@@ -2664,14 +2672,6 @@ window.INDUSTRY_DATA = {
      "summary": "Francis Halzen of University of Wisconsin-Madison led development of IceCube Neutrino Observatory.",
      "source": "Ars Technica Science",
      "zh": "Neutrino physicist wins 2026 Nobel Physics Prize"
-    },
-    {
-     "title": "Controlling the brain with light earns a physiology Nobel",
-     "link": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
-     "pubDate": "Mon, 05 Oct 2026 17:59:27 +0000",
-     "summary": "The entire field of optogenetics traces back to light-seeking algae.",
-     "source": "Ars Technica Science",
-     "zh": "Controlling the brain with light earns a physiology Nobel"
     },
     {
      "title": "Astronomers catch a star slowly snacking on a brown dwarf, 300 light years away",

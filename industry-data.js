@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/9 12:51:53",
+ "generated_at": "2026/10/9 13:11:53",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "GPT-6.1 Sol极速版快8倍，但依然口碑秒崩？“变相涨价”被网友怒喷",
+     "link": "https://zhidx.com/p/599323.html",
+     "pubDate": "Fri, 09 Oct 2026 12:52:10 +0800",
+     "summary": "智东西 作者 | 毕伟豪 编辑｜云鹏 智东西10月9日报道，在重置之神Tibo“ 连续28天新发布或者重置 ”的第四天，OpenAI改进了转向功能并发布了GPT-6.1 Sol的Ultrafast（极速）模式， 智能接近Astra，速度比标准版GPT-6.1 Sol快8倍 。 速度快了， 价格自然也是水涨船高 ，现阶段，GPT-6.1 Sol按照速度分三档售卖，标准版价格每百万Token输入2美元，输出10美元，Fast模式速度和价格翻倍。 Ultrafast模式每百万Token输入12美元，输出60美元， 足足是标准版的6倍 。 不过，拿它与旗舰模型对比，价格又没那么难接受了。GPT-6 A",
+     "source": "智东西",
+     "zh": "GPT-6.1 Sol极速版快8倍，但依然口碑秒崩？“变相涨价”被网友怒喷"
+    },
+    {
+     "title": "苹果官宣智能家居发布会：首次推出“带屏中控”，Siri接管全家",
+     "link": "https://zhidx.com/p/599304.html",
+     "pubDate": "Fri, 09 Oct 2026 12:46:22 +0800",
+     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西10月9日消息，今天，苹果全球营销高级副总裁格雷格·乔斯维亚克（Greg Joswiak）在X上发布预热视频，证实苹果将于10月13日举行主题为 “欢迎回家”（Welcome home） 的特别活动， 多款智能家居新品 有望亮相。 ▲苹果全球营销高级副总裁官宣智能家居新品发布活动（图源：X） 此次活动将成为苹果新任CEO约翰·特努斯（John Ternus）上任后，在 智能家居产品线上的首次重要动作 。 科技视频博主马克斯·布朗利（Marques Brownlee）也公开其收到的邀请函。此次“Apple Experience”体验活动将在纽约翠",
+     "source": "智东西",
+     "zh": "苹果官宣智能家居发布会：首次推出“带屏中控”，Siri接管全家"
+    },
     {
      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
      "link": "https://www.qbitai.com/2026/10/502330.html",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
      "source": "OpenAI",
      "zh": "LegalOn halves Codex costs while maintaining development speed"
-    },
-    {
-     "title": "7 Best Resources to Learn About Self-Evolving AI Agents",
-     "link": "https://www.kdnuggets.com/7-best-resources-to-learn-about-self-evolving-ai-agents",
-     "pubDate": "Thu, 08 Oct 2026 12:00:00 +0000",
-     "summary": "The next step for AI agents? Self-improvement. Here are 7 resources to get started.",
-     "source": "KDnuggets",
-     "zh": "7 Best Resources to Learn About Self-Evolving AI Agents"
-    },
-    {
-     "title": "海量终端等待被AI重做，破局的关键到底在哪里？",
-     "link": "https://zhidx.com/p/598667.html",
-     "pubDate": "Thu, 08 Oct 2026 19:00:56 +0800",
-     "summary": "智东西 作者 | 陈骏达 编辑 | 漠影 过去几年，AI的发展都集中在云端：越来越多的参数，越来越强的模型，越来越费电的算力中心。如今一个更深层的变化正在发生： AI开始明显地从云端向终端设备扩散。 机器人、自动驾驶汽车、智慧视觉设备等越来越多的终端正在拥有自己的AI能力。 这一趋势并不难理解，终端是AI抵达真实世界的关键入口：摄像头、麦克风、传感器就长在设备上，物理世界的数据由终端源源不断产生。云端的模型和算力再强，进不了终端，就无法触及真实世界。可以说， AI竞争的下一个战场， 就 在端侧 。 在这个节点上， 上海海思给出了一个鲜明的判断： 每个IoT 终端都值得被 重构成轻智能终端，成为",
-     "source": "智东西",
-     "zh": "海量终端等待被AI重做，破局的关键到底在哪里？"
     }
    ]
   },
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-100-as-Hormuz-Tanker-Traffic-Hits-Two-Month-Low.html",
+     "pubDate": "Fri, 09 Oct 2026 00:03:51 -0500",
+     "summary": "Crude oil prices were on course to book a weekly gain earlier today amid a flurry of tanker attacks in the Strait of Hormuz—and outside it, too. Reports citing President Trump as saying productive talks were being held with Iran failed to allay concerns driving the benchmarks higher. At the time of ",
+     "source": "OilPrice",
+     "zh": "Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low"
+    },
+    {
      "title": "South Korea unveils US$475 billion Green Transformation industrial strategy",
      "link": "https://www.energy-storage.news/south-korea-unveils-us475-billion-green-transformation-industrial-strategy/",
      "pubDate": "Fri, 09 Oct 2026 04:08:12 +0000",
@@ -928,14 +936,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hurricane Isaias has knocked 1.28 million barrels per day of U.S. Gulf oil production offline, up from just 185,120 bpd two days ago as operators clear personnel from the storm’s path. The Marine Minerals Administration said Thursday that 62.89% of current Gulf oil production and 57.35% of natural g",
      "source": "OilPrice",
      "zh": "Hurricane Isaias Shuts In 1.28 Million Bpd of Gulf Oil Production"
-    },
-    {
-     "title": "Virtual Power Plants: The Grid Capacity Nobody Had to Build",
-     "link": "https://oilprice.com/Energy/Energy-General/Virtual-Power-Plants-The-Grid-Capacity-Nobody-Had-to-Build.html",
-     "pubDate": "Thu, 08 Oct 2026 14:00:00 -0500",
-     "summary": "On the evening of Sept. 9, 2026, with a heat wave pushing electricity demand across California toward its limits, more than 140,000 home batteries started discharging at the same time. Over a three-hour window, they sent more than 580 megawatts of power into the state's grid, roughly what a large co",
-     "source": "OilPrice",
-     "zh": "Virtual Power Plants: The Grid Capacity Nobody Had to Build"
     },
     {
      "title": "Constellation and Google go in on nuclear uprates to unlock clean power",
@@ -1706,6 +1706,102 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)",
+     "link": "https://www.techmeme.com/261009/p2#a261009p2",
+     "pubDate": "Fri, 09 Oct 2026 01:05:01 -0400",
+     "summary": "Financial Times : Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech &nbsp; &mdash;&nbsp; Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent week",
+     "source": "Techmeme",
+     "zh": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)"
+    },
+    {
+     "title": "交强险一年亏230亿元，保费会涨吗？",
+     "link": "https://www.huxiu.com/article/4896124.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 13:02:59 +0800",
+     "summary": "本文来自微信公众号： 经观传媒 ，作者：刘轩宇，原文标题：《交强险一年亏230亿元 保费会涨吗？》 交强险干的是公益兜底的事，但按的是商业保险的规则来经营，那么亏损可能是显而易见的情况。不过，既然是国家法定、普惠兜底的民生保障制度，就不能单看账面亏损。 近日，国家金融监督管理总局发布了《关于2025年度机动车交通事故责任强制保险业务情况的公告》。数据显示2025年交强险保费收入2852亿元，赔付支出2524亿元；承保亏损296亿元，分摊66亿元投资收益后，经营亏损仍达230亿元。 230亿亏损背后的制度性原因 交强险全称“机动车交通事故责任强制保险”，是我国第一个法定强制保险，自2006年起已",
+     "source": "虎嗅",
+     "zh": "交强险一年亏230亿元，保费会涨吗？"
+    },
+    {
+     "title": "TurboTax Full Service Coupons This October 2026",
+     "link": "https://www.wired.com/story/turbotax-coupon/",
+     "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000",
+     "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+     "source": "WIRED",
+     "zh": "TurboTax Full Service Coupons This October 2026"
+    },
+    {
+     "title": "Ulta Promo Codes: Up to 20% Off in October 2026",
+     "link": "https://www.wired.com/story/ulta-coupon/",
+     "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000",
+     "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+     "source": "WIRED",
+     "zh": "Ulta Promo Codes: Up to 20% Off in October 2026"
+    },
+    {
+     "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+     "link": "https://www.wired.com/story/lowes-promo-code/",
+     "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000",
+     "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
+     "source": "WIRED",
+     "zh": "Lowe's 促销代码和优惠：电器最高立减 300 美元"
+    },
+    {
+     "title": "Valvoline Coupons and Promo Codes for October 2026",
+     "link": "https://www.wired.com/story/valvoline-coupons/",
+     "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000",
+     "summary": "We've gathered all the top Valvoline coupons and promo codes for October 2026, including deals on full synthetic oil changes and other essential maintenance.",
+     "source": "WIRED",
+     "zh": "Valvoline Coupons and Promo Codes for October 2026"
+    },
+    {
+     "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
+     "link": "https://www.wired.com/story/lovehoney-discount-code/",
+     "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000",
+     "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
+     "source": "WIRED",
+     "zh": "Lovehoney 优惠券优惠：玩具、内衣和礼品套装折扣"
+    },
+    {
+     "title": "Instacart Promo Code: $15 Off | October 2026",
+     "link": "https://www.wired.com/story/instacart-promo/code/",
+     "pubDate": "Fri, 09 Oct 2026 05:00:00 +0000",
+     "summary": "Find the best Instacart promo code for massive savings in October 2026.",
+     "source": "WIRED",
+     "zh": "Instacart Promo Code: $15 Off | October 2026"
+    },
+    {
+     "title": "JetBrains 编程 AI 模型 Mellum2.1 发布：高负载推理吞吐量近 Qwen3.5-9B 两倍",
+     "link": "https://www.ithome.com/1/010/905.htm",
+     "pubDate": "Fri, 09 Oct 2026 04:59:08 GMT",
+     "summary": "IT之家 10 月 9 日消息，JetBrains 昨日（10 月 8 日）发布博文，宣布上线 Mellum2.1 模型，重点增强智能体编程能力。该模型延续 Mellum2 的 12B 混合专家架构，拥有 2.5B 活跃参数，并继续采用 Apache 2.0 许可证发布。 Mellum2.1 主要升级预训练后的强化学习阶段，从短期收尾环节扩展为训练主体，并在数学、算法竞赛、科学、工具使用和软件工程等任务中补充训练数据。 JetBrains 为该模型搭建了内部强化学习环境基础设施，在训练期间启动数百万个沙盒，覆盖数千个环境。此外在训练前，团队还筛选了开放数据集，剔除测试缺陷、不可验证答案及难度失",
+     "source": "IT之家",
+     "zh": "JetBrains 编程 AI 模型 Mellum2.1 发布：高负载推理吞吐量近 Qwen3.5-9B 两倍"
+    },
+    {
+     "title": "十一散场，老外开始怀念中国人",
+     "link": "https://www.huxiu.com/article/4896123.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:54:57 +0800",
+     "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 中国人返程，老外苦等下一个黄金周。 01 离开巴库的早晨，四季酒店大堂里突然多出许多行李箱。 几组中国客人几乎同时下楼，一对上海口音的情侣在核对去机场的车辆，还有两家人站在门口商量，回国前要不要再买些当地特产。 前台的两个姑娘明显有些忙乱，她们轮流接过房卡，确认账单，又不时抬头看看面前越来越长的中国退房队伍。 轮到我们时，其中一位姑娘认出了女儿，前几天进出酒店，她见过这个总喜欢趴在大堂桌边画画的中国女孩。 她一边办理退房，一边好奇地问我，为什么今天住在酒店里的中国客人几乎都要离开。 我告诉她，中国的国庆长假结束了，很多人明天需要回去上班",
+     "source": "虎嗅",
+     "zh": "十一散场，老外开始怀念中国人"
+    },
+    {
+     "title": "国内卖超百亿、海外却“未达标”？抗癌药企艾力斯连续两天暴跌",
+     "link": "https://www.huxiu.com/article/4896122.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:51:38 +0800",
+     "summary": "本文来自微信公众号： 大橘财经 ，作者：王力 一款年销售额超过50亿元的核心产品，海外关键III期临床试验没能过关。 10月8日，艾力斯开盘20%跌停，截至晚间收盘，公司股价报89.26元/股，市值401.67亿元。 10月9日，艾力斯开盘继续暴跌，截至中午休盘跌近10%，市值362亿。 前一日晚间，艾力斯公告称，核心产品伏美替尼用于EGFR 20外显子插入突变非小细胞肺癌一线治疗的全球III期FURVENT试验，未达到主要研究终点，即由盲态独立中心审评（BICR）评估的无进展生存期（PFS）。 这并不意味着伏美替尼现有适应症失效，也不意味着艾力斯马上失去盈利能力。但市场为何还是给出20CM跌",
+     "source": "虎嗅",
+     "zh": "国内卖超百亿、海外却“未达标”？抗癌药企艾力斯连续两天暴跌"
+    },
+    {
+     "title": "ChatGPT 量产了真实，也复兴了“伪纪录片”",
+     "link": "https://www.huxiu.com/article/4896120.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 12:49:09 +0800",
+     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《ChatGPT 量产了真实，也复兴了「伪纪录片」》 「我是一名喜欢登山的大学生，今年5月，我和朋友们决定挑战哀牢山……」 最近几个月，这种由看似真实的照片拼贴而成的「AI伪纪录片」在抖音迅速崛起。 图片来自：抖音@鼠鼠脑洞批发 以假乱真的「照片」、用标签功能讲故事、第一人称短句、悬念十足的开头，配上幽然怪异的《空山·野马》或《森羅清浄事祓》BGM，就像是学生时代宿舍里传阅的《十宗罪》和《藏地密码》，用一种更令人脊背发凉的形式秽土重生了。 从都市怪谈出发，一路延伸到恐怖小说、刑事悬案、聊斋志异乃至特德·姜的奇幻故事等",
+     "source": "虎嗅",
+     "zh": "ChatGPT 量产了真实，也复兴了“伪纪录片”"
+    },
+    {
      "title": "“RISC-V 第一股”奕斯伟计算在香港上市，“京东方之父”王东升创办",
      "link": "https://www.ithome.com/1/010/903.htm",
      "pubDate": "Fri, 09 Oct 2026 04:39:56 GMT",
@@ -1730,44 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "大模型一定要逐字生成？扩散智能拿到数亿元融资"
     },
     {
-     "title": "王虹靠三维挂谷拿菲尔兹奖，OpenAI用3小时就解决了更难的四维版",
-     "link": "https://www.huxiu.com/article/4896093.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 12:30:38 +0800",
-     "summary": "本文来自微信公众号： 字母AI ，作者：苗正 2026年菲尔兹奖得主王虹，靠着三维挂谷集猜想的证明，拿下了数学界的最高荣誉。这道横跨百年的几何难题，在她手中实现了从二维到三维的历史性跨越，也成为近十年最重磅的数学突破。 而就在短短三个月后，OpenAI直接将这项研究往前推进了一大步：它不仅解决了难度更高的三维挂谷极大函数猜想，还首次证出四维挂谷集的豪斯多夫维数等于4，把人类此前卡在3.059维的最佳纪录推上了一个维度，达到了理论上限。 然而这还只是OpenAI挑战数学界的冰山一角。 这一次，OpenAI一口气放出722篇数学手稿，归为372个成果族，覆盖的领域远不止挂谷问题，还包括准黎曼假设、",
-     "source": "虎嗅",
-     "zh": "王虹靠三维挂谷拿菲尔兹奖，OpenAI用3小时就解决了更难的四维版"
-    },
-    {
      "title": "《怪物猎人物语 3：命运双龙》游戏 11 月 18 日登陆 XBOX on PC，首次支持 XBOX Play Anywhere",
      "link": "https://www.ithome.com/1/010/902.htm",
      "pubDate": "Fri, 09 Oct 2026 04:29:30 GMT",
      "summary": "IT之家 10 月 9 日消息，微软 @XBOXWire 昨日（10 月 8 日）在 X 平台发布推文，宣布 《怪物猎人物语 3：命运双龙》（Monster Hunter Stories 3: Twisted Reflection）游戏将于 2026 年 11 月 18 日登陆 XBOX on PC，并首次支持 XBOX Play Anywhere。 IT之家注：XBOX on PC 是微软面向 Windows 设备提供的 Xbox 游戏运行环境。玩家可通过 Xbox 应用在 Windows PC 安装、启动和管理 Xbox 游戏，并使用 Xbox 账户访问游戏库、成就及相关服务。 《怪物猎人",
      "source": "IT之家",
      "zh": "《怪物猎人物语 3：命运双龙》游戏 11 月 18 日登陆 XBOX on PC，首次支持 XBOX Play Anywhere"
-    },
-    {
-     "title": "闲鱼，中国最大的“云服务厂商”？",
-     "link": "https://www.huxiu.com/article/4896116.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 12:28:38 +0800",
-     "summary": "本文来自微信公众号： 略大参考 ，作者：一苇 论收入和利润，闲鱼可能连十分之一个微软都不到。但只论产品品类，闲鱼比微软还丰富。这就像民间的一些“百达通”，你可以说他本事不大，但不得不承认他的路子是真广。 深圳曾经有一个工业区，叫“上步工业区”，这里是国际企业的代工厂，有飞利浦、三洋等全球大企业入驻。 大公司的产线，总有一些尾货，买方也难免有些多余的元器件转手，甚至还有工人悄悄“拿”出来一些残次品，这些“边角料”流入到大街上，摆摊交易，外溢出一个小商品市场——华强北。 AI领域同样有“边角料”。 大公司淘汰下来的英伟达的显卡、用不完的OpenAI的Token、低价渠道“白嫖”到的谷歌Gemini",
-     "source": "虎嗅",
-     "zh": "闲鱼，中国最大的“云服务厂商”？"
-    },
-    {
-     "title": "机器人租金大跳水",
-     "link": "https://www.huxiu.com/article/4896114.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 12:24:33 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：李佳怡 个国庆假期，景区里除了“人人人人”，还多了一批机器人“员工”。 它们不再只是在舞台上翻跟头、跳舞的“表演嘉宾”，而是开始排班上岗、卖货收款、巡检安防、夜间演出。据不完全统计，已有近30家具身智能及机器人企业进入文旅、零售和消费服务场景，国庆期间在岗规模达到数千台。 与此同时，机器人租赁的“抢租潮”也已经消失，日租金从2025年初的万元级跌至不足千元。告别靠新鲜感吸睛的表演模式之后，文旅场景成为具身智能的现实试炼场，机器人“能上岗”已经实现，但走向可持续盈利，行业仍要翻越多重结构性关卡。 租赁价格“雪崩”之后，文旅赛道告别纯表演经济 2025年春晚带",
-     "source": "虎嗅",
-     "zh": "机器人租金大跳水"
-    },
-    {
-     "title": "当AI走出服务器：马斯克要造芯片，扎克伯格抢细胞",
-     "link": "https://www.huxiu.com/article/4896112.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 12:22:56 +0800",
-     "summary": "本文来自微信公众号： 资本不熬夜 ，作者：不熬夜研究院 这两天，黄仁勋在中国网友手里，当了一回迈克尔·杰克逊。 一段AI生成的视频，把1992年迈克尔·杰克逊布加勒斯特演唱会上的主角换成了黄仁勋。舞台下面坐着马斯克、库克、奥特曼、阿莫戴、梁文锋等科技公司掌门人，台上的黄仁勋在人群簇拥下完成了一场AI时代的“巡演”。 视频传到海外以后，马斯克转发时评论了一句：“这就是为什么内存这么贵。”后面跟着两个笑哭的表情。 虽说是个玩笑，但却落在了一个并不轻松的现实上。 因为视频利用人工智能技术制作，需要消耗算力和存储资源。而英伟达是人工智能基础设施的主要受益者之一，大量人工智能服务器采购也在影响全球存储器",
-     "source": "虎嗅",
-     "zh": "当AI走出服务器：马斯克要造芯片，扎克伯格抢细胞"
     },
     {
      "title": "短短 10 个月几乎翻倍，AI 模型评测平台 Arena 估值升至 31 亿美元",
@@ -1794,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "对标苹果 AirPods Max：三星 Galaxy Studio 曝光，时隔 11 年重返头戴式耳机市场"
     },
     {
-     "title": "消息称 OPPO 阔直板工程机是标准 16:9：LIPO 极窄四等边设计，目测边框 1mm±",
-     "link": "https://www.ithome.com/1/010/872.htm",
-     "pubDate": "Fri, 09 Oct 2026 04:08:30 GMT",
-     "summary": "IT之家 10 月 9 日消息，博主 @数码闲聊站 今日发文透露，O（OPPO）阔直板工程机是 标准 16:9 ， LIPO 极窄四等边设计 ，目测边框 1mm±，看标准视频会铺满整块屏幕，机身宽度大概是 81mm。 博主随后在评论区补充， 81mm 是屏幕宽度 ，封装后可能会宽一点， 反正是 85mm 以内 。该产品定位是旗舰线，肯定“不便宜的”。 IT之家注意到，博主还透露，蓝厂（vivo）在评估（阔直板），进度没那么快。 作为参考，目前已经发布的华为 Pura X View 阔直板手机搭载了一块 6.39 英寸 2232 × 1320 分辨率屏幕（比例 16:9.5），四等边黑边宽度均为",
-     "source": "IT之家",
-     "zh": "消息称 OPPO 阔直板工程机是标准 16:9：LIPO 极窄四等边设计，目测边框 1mm±"
-    },
-    {
      "title": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties (Emily Forlini/Fortune)",
      "link": "https://www.techmeme.com/261009/p1#a261009p1",
      "pubDate": "Fri, 09 Oct 2026 00:05:01 -0400",
@@ -1816,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "从实验室走出的DiffuSpace，希望把一条曾经“非共识”的技术路线推向工程化与产业化前沿，未来扩散语言模型能否大规模应用，2026年或是一个关键的时间窗口。",
      "source": "钛媒体",
      "zh": "独家｜深圳DiffuSpace5亿元融资刷新全球扩散语言模型融资纪录，华为、地平线押注其中"
-    },
-    {
-     "title": "Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power",
-     "link": "https://www.wired.com/story/come-see-uncanny-valley-live/",
-     "pubDate": "Fri, 09 Oct 2026 03:30:00 +0000",
-     "summary": "Missed our latest WIRED@Night event? Enjoy an evening of podcasting in San Francisco right here.",
-     "source": "WIRED",
-     "zh": "Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power"
     },
     {
      "title": "储能爆炸事故密集曝光，远景64MWh行业最大火烧测试，烧出储能新门槛",
@@ -1858,14 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "日薪120元，我给机器人当“老师”"
     },
     {
-     "title": "Keyboard differences between Windows and Macs",
-     "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-     "pubDate": "Fri, 09 Oct 2026 03:08:05 +0000",
-     "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 33 # Comments: 21",
-     "source": "Hacker News",
-     "zh": "Keyboard differences between Windows and Macs"
-    },
-    {
      "title": "8000亿“准财政”开闸，天顺风能抢到2.29亿，但风电的苦日子还没到头",
      "link": "https://www.tmtpost.com/8161700.html",
      "pubDate": "Fri, 09 Oct 2026 11:07:00 +0800",
@@ -1880,14 +1920,6 @@ window.INDUSTRY_DATA = {
      "summary": "Associated Press : Microsoft denies JD Vance's claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees &nbsp; &mdash;&nbsp; President Donald Trump's administration announced Thursday it was suspending Microsoft and several o",
      "source": "Techmeme",
      "zh": "Microsoft denies JD Vance&apos;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)"
-    },
-    {
-     "title": "Reducing undefined behavior in the C language",
-     "link": "https://lwn.net/Articles/1095811/",
-     "pubDate": "Fri, 09 Oct 2026 02:02:53 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 49 # Comments: 24",
-     "source": "Hacker News",
-     "zh": "Reducing undefined behavior in the C language"
     },
     {
      "title": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)",
@@ -1912,38 +1944,6 @@ window.INDUSTRY_DATA = {
      "summary": "Washington Post : Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders &nbsp; &mdash;&nbsp; President Donald Trump celebrated tech billionaires such as Microsoft CEO Satya Nadella at an event ",
      "source": "Techmeme",
      "zh": "Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders (Washington Post)"
-    },
-    {
-     "title": "President Trump awards Elon Musk, Jensen Huang, Lisa Su, and Sergey Brin the National Medal of Science at a White House summit promoting innovation (Jared Perlo/NBC News)",
-     "link": "https://www.techmeme.com/261008/p51#a261008p51",
-     "pubDate": "Thu, 08 Oct 2026 20:30:45 -0400",
-     "summary": "Jared Perlo / NBC News : President Trump awards Elon Musk, Jensen Huang, Lisa Su, and Sergey Brin the National Medal of Science at a White House summit promoting innovation &nbsp; &mdash;&nbsp; President Donald Trump joined Michael Kratsios to award the Medal of Science to Elon Musk, Jensen Huang, L",
-     "source": "Techmeme",
-     "zh": "President Trump awards Elon Musk, Jensen Huang, Lisa Su, and Sergey Brin the National Medal of Science at a White House summit promoting innovation (Jared Perlo/NBC News)"
-    },
-    {
-     "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-     "link": "https://github.com/edrisranjbar/lifeos",
-     "pubDate": "Fri, 09 Oct 2026 00:02:19 +0000",
-     "summary": "Article URL: https://github.com/edrisranjbar/lifeos Comments URL: https://news.ycombinator.com/item?id=50014150 Points: 28 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI"
-    },
-    {
-     "title": "Bevy 0.20",
-     "link": "https://bevy.org/news/bevy-0-20/",
-     "pubDate": "Thu, 08 Oct 2026 22:57:50 +0000",
-     "summary": "Article URL: https://bevy.org/news/bevy-0-20/ Comments URL: https://news.ycombinator.com/item?id=50013610 Points: 100 # Comments: 17",
-     "source": "Hacker News",
-     "zh": "Bevy 0.20"
-    },
-    {
-     "title": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud",
-     "link": "https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/",
-     "pubDate": "Thu, 08 Oct 2026 22:40:11 +0000",
-     "summary": "Documents obtained by Democracy Forward show that ICE looked into feeding voter roll data into the ELITE tool, normally used to identify targets for deportation.",
-     "source": "WIRED",
-     "zh": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud"
     }
    ]
   },
@@ -1953,6 +1953,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Gurman: Apple to announce its touchscreen MacBook on October 27",
+     "link": "https://www.gsmarena.com/gurman_apple_to_announce_its_touchscreen_macbook_on_october_27-news-74969.php",
+     "pubDate": "Fri, 09 Oct 2026 07:00:02 +0200",
+     "summary": "Yesterday, a report claimed that Apple is planning two separate product launches this month. While the company has confirmed the first event, scheduled for October 13, Bloomberg’s Mark Gurman has now revealed when the second launch could take place. According to Gurman, who cites sources familiar wi",
+     "source": "GSMArena",
+     "zh": "Gurman: Apple to announce its touchscreen MacBook on October 27"
+    },
     {
      "title": "The Kindle experience on the new Alexa tablets really does look ‘rad’",
      "link": "https://www.androidauthority.com/amazon-alexa-tablet-kindle-mode-3721057/",
@@ -2154,14 +2162,6 @@ window.INDUSTRY_DATA = {
      "zh": "Cyberpunk 2077 is the latest video game to get the movie treatment"
     },
     {
-     "title": "Amazon Kids Tablets are now official in two sizes",
-     "link": "https://www.gsmarena.com/amazon_kids_tablets_are_now_official_in_two_sizes-news-74964.php",
-     "pubDate": "Thu, 08 Oct 2026 21:31:04 +0200",
-     "summary": "Today Amazon has unveiled two tablets aimed at kids, and they're unsurprisingly called the Amazon Kids Tablets. They are available in 8.7\" and 11\" sizes, with two distinct models, one made for ages 3+, the other for ages 6+. The 8.7-inch tablet has 64GB of storage and its battery lasts for up to 14 ",
-     "source": "GSMArena",
-     "zh": "Amazon Kids Tablets are now official in two sizes"
-    },
-    {
      "title": "Galaxy phones reportedly ‘yield no profit at all’ when sold as Samsung cuts production",
      "link": "https://9to5google.com/2026/10/08/samsung-galaxy-no-profit-production-reports/",
      "pubDate": "Thu, 08 Oct 2026 19:10:00 +0000",
@@ -2202,6 +2202,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Southwest leans toward Boeing 787 for long-haul flights, Reuters reports",
+     "link": "https://seekingalpha.com/news/4651640-southwest-leans-toward-boeing-787-for-long-haul-flights-reuters-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 01:01:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Southwest leans toward Boeing 787 for long-haul flights, Reuters reports"
+    },
+    {
+     "title": "Trump bought up to $5M SpaceX bonds two days before signing U.S. space policy",
+     "link": "https://seekingalpha.com/news/4651630-trump-bought-up-to-5m-spacex-bonds-two-days-before-signing-us-space-policy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 01:00:01 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump bought up to $5M SpaceX bonds two days before signing U.S. space policy"
+    },
+    {
      "title": "OpenAI’s Asia-Pacific public policy Chief Sanghyun Lee departs after brief tenure of six months",
      "link": "https://seekingalpha.com/news/4651636-openais-asia-pacific-public-policy-chief-sanghyun-lee-departs-after-brief-tenure-of-six-months?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 00:42:08 -0400",
@@ -2210,60 +2226,12 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI’s Asia-Pacific public policy Chief Sanghyun Lee departs after brief tenure of six months"
     },
     {
-     "title": "中广核贝谷两款自主CT安检设备获中国民航局使用许可",
-     "link": "http://finance.eastmoney.com/news/1354,202610093891026719.html",
-     "pubDate": "Fri, 09 Oct 2026 12:40:24 +0800",
-     "summary": "据 中国广核 集团消息，近日，由中广核核技术发展股份有限公司受托管理的中广核贝谷科技有限公司（简称“中广核贝谷”）自主研发的BGCT-0824中型CT安检设备、BGCT-1050S大型CT安检设备，正式取得《中国民用航空局安全检查设备使用许可证》，标志着中广核贝谷正式获得民航托运行李安检场景的准入资质。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "中广核贝谷两款自主CT安检设备获中国民航局使用许可"
-    },
-    {
      "title": "Telecom stocks drop as SpaceX acquires spectrum for Starlink",
      "link": "https://seekingalpha.com/news/4651639-telecom-stocks-drop-as-spacex-acquires-spectrum-for-starlink?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 00:38:38 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Telecom stocks drop as SpaceX acquires spectrum for Starlink"
-    },
-    {
-     "title": "马斯克旗下AI代理产品Grok Bot接入Claude",
-     "link": "http://finance.eastmoney.com/news/1354,202610093891026022.html",
-     "pubDate": "Fri, 09 Oct 2026 12:36:01 +0800",
-     "summary": "当地时间10月7日，马斯克宣布，AI代理产品Grok Bot将根据具体任务选用最合适的后端模型，并直接点名Claude Opus 5.5、Midjourney和Suno。Grok Bot在8月11日推出Beta版，这款智能助手自带云电脑，可以在上面替用户执行任务。按照官方介绍，Bot可以使用工具、登录应用、跨软件处理工作；多个Bot还能相互沟通、分享任务背景，分工协作。用户离开电脑后，工作也能继续。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "马斯克旗下AI代理产品Grok Bot接入Claude"
-    },
-    {
-     "title": "报告：英伟达可能在部分后端环节采用英特尔的Foveros芯片技术",
-     "link": "http://finance.eastmoney.com/news/1354,202610093891025782.html",
-     "pubDate": "Fri, 09 Oct 2026 12:36:01 +0800",
-     "summary": "韩国GF证券分析师Jeff Pu在一份报告中提到， 英伟达 可能在部分后端环节采用 英特尔 的Foveros芯片技术， 英特尔 代工业务有望再拿下一笔潜在订单。 英特尔 14A制程预计在2028年下半年投产， 英伟达 可能在同一时期通过Foveros封装把这个选项纳入进来。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "报告：英伟达可能在部分后端环节采用英特尔的Foveros芯片技术"
-    },
-    {
-     "title": "港股年内募资3856亿港元 389宗项目候场 每四家就有一家来自A股",
-     "link": "http://finance.eastmoney.com/news/1344,202610093891025662.html",
-     "pubDate": "Fri, 09 Oct 2026 12:34:59 +0800",
-     "summary": "距离全年收官还有一个季度，香港新股市场的轮廓已经清晰。 Wind数据显示，截至10月8日，年内已有115家企业在港完成首次公开发行，除 岚图汽车 未披露募资金额外，其余114家合计募资约3855.66亿港元。这一规模距离2010年创下的4495亿港元历史峰值，仅剩639亿港元左右的差距。 从市场表现来看，今年港股IPO呈现出较为鲜明的结构性特征：一方面，A+H上市持续成为大额融资的重要来源，另一方面，AI、 半导体 、智能硬件等硬科技企业占据较大比重；与此同时，新股上市后的表现出现明显分化，部分新股首日涨幅较高，但上市以来股价回落的公司数量明显更多。 在供给端，港交所门前的队伍仍在拉长，目前共",
-     "source": "东方财富股票",
-     "zh": "港股年内募资3856亿港元 389宗项目候场 每四家就有一家来自A股"
-    },
-    {
-     "title": "软银据悉正寻求从海湾地区投资者募资1000亿美元",
-     "link": "http://finance.eastmoney.com/news/1360,202610093891025840.html",
-     "pubDate": "Fri, 09 Oct 2026 12:34:58 +0800",
-     "summary": "软银据悉正寻求从海湾地区投资者募资1000亿美元，用于扩大AI领域投资。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "软银据悉正寻求从海湾地区投资者募资1000亿美元"
-    },
-    {
-     "title": "莱美药业拟3123万挂牌卖老厂：连续7年亏损，累计亏超8.7亿",
-     "link": "http://finance.eastmoney.com/news/1354,202610093891026197.html",
-     "pubDate": "Fri, 09 Oct 2026 12:34:40 +0800",
-     "summary": "红星资本局10月9日消息 10月8日晚， 莱美药业 （300006.SZ）发布公告称，拟公开挂牌出售部分资产，标的为公司持有的重庆市南岸区月季路8号土地使用权及地上房屋建筑物、构筑物，挂牌底价3123.2万元。 10月9日，就转让药厂等情况，红星资本局以投资者身份致电 莱美药业 证券部，工作人员表示，公司公告中有具体说明，对公司净利润的影响是2000多万元。 标的资产账面价值382.48万 评估价值为3123.20万 公告显示，月季路8号是 莱美药业 的老厂旧址，2003年建成。厂区内共有6栋房屋建筑物，总面积10104.28平方米；另有1条固体制剂生产线、7项构筑物及1宗工业用地，占地面积2",
-     "source": "东方财富股票",
-     "zh": "莱美药业拟3123万挂牌卖老厂：连续7年亏损，累计亏超8.7亿"
     },
     {
      "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
@@ -2362,14 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "创业板失守3000点，电池产业链逆势拉升，算力硬件集体下挫，江淮汽车跌停，恒指、恒科指齐涨超1%，小米暴涨7%"
     },
     {
-     "title": "WD-40 declares $1.02 dividend",
-     "link": "https://seekingalpha.com/news/4651631-wdminus-40-declares-1_02-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 00:06:28 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "WD-40 declares $1.02 dividend"
-    },
-    {
      "title": "Some much-needed American optimism on Europe",
      "link": "https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1",
      "pubDate": "Fri, 09 Oct 2026 04:00:32 GMT",
@@ -2402,14 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Manchester City, Abu Dhabi and the future of football"
     },
     {
-     "title": "Friday’s Economic Calendar",
-     "link": "https://seekingalpha.com/news/4651362-fridays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 00:00:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Friday’s Economic Calendar"
-    },
-    {
      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
      "link": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
      "pubDate": "Fri, 09 Oct 2026 03:51:15 GMT",
@@ -2440,6 +2392,54 @@ window.INDUSTRY_DATA = {
      "summary": "AI军备竞赛正在将美国债市推向临界点。SpaceX、博通、甲骨文在不到一周内合计寻求逾1500亿美元融资，叠加此前已在路演的博通-Anthropic600亿美元债务，AI生态系统的借贷狂潮已令公开债券市场趋于饱和，迫使越来越多的交易转入私募信贷和表外特殊目的载体（SPV）。 这场融资浪潮正在重塑整个信用市场的风险定价。 据彭博数据，今年超级大额科技债（单笔250亿美元以上）已达9笔，创历史纪录，科技板块成为近期信用市场表现最差的板块之一。与此同时，甲骨文五年期CDS飙升至261个基点的历史收盘高位，SpaceX五年期CDS突破197个基点再创纪录，就连全球市值最高的英伟达，其五年期违约概率也被",
      "source": "华尔街见闻",
      "zh": "SpaceX、博通、甲骨文密集天量发债！美国债市“挤爆了”，“集中度越来越高，最终都受AI周期影响”"
+    },
+    {
+     "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+     "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 00:52:00 GMT",
+     "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
+     "source": "MarketWatch",
+     "zh": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares"
+    },
+    {
+     "title": "苹果10月双线出击：首款触控MacBook与新iPad mini同步亮相",
+     "link": "https://wallstreetcn.com/articles/3783233",
+     "pubDate": "Fri, 09 Oct 2026 08:48:33 +0800",
+     "summary": "苹果公司正筹备10月下旬的第二场产品发布会，将推出旗下首款触控屏MacBook，以及搭载OLED屏幕的全新iPad mini。 据彭博报道，此次发布会定于10月27日前后举行，形式与10月13日的智能家居发布会相同——包含线上视频展示及面向媒体的线下体验环节。 这也是新任CEO John Ternus上月接掌苹果后，主导的首批重磅产品发布。 触控MacBook：等了三年，终于来了 新款MacBook Pro代号K114和K116，将是苹果首次在Mac产品线引入触控屏。 彭博早在2023年便率先披露了这一项目。 硬件层面，新机将比现款更轻，屏幕升级为OLED材质，同时引入iPhone用户熟悉的\"",
+     "source": "华尔街见闻",
+     "zh": "苹果10月双线出击：首款触控MacBook与新iPad mini同步亮相"
+    },
+    {
+     "title": "巨资拿下低频频段，SpaceX进军手机运营商，美国电信股全线重挫",
+     "link": "https://wallstreetcn.com/articles/3783231",
+     "pubDate": "Fri, 09 Oct 2026 08:43:18 +0800",
+     "summary": "SpaceX宣布收购低频无线频谱，正式宣告进军美国移动运营商市场，此举令现有电信巨头股价承压，行业竞争格局面临深刻重塑。 SpaceX周四宣布，已与投资公司Grain Management LLC达成协议，收购一批覆盖全美的800MHz低频段频谱许可证，并计划将其与旗下Starlink卫星网络整合，打造独立的移动运营商业务。SpaceX在官网声明中表示， 这一频谱\"填补了Starlink Mobile成为美国主要移动运营商的最后一块关键拼图\"。首席执行官马斯克在X平台上称此举为\"非常重大的事件\"。 消息公布后，美国主要电信运营商股价在盘后交易中大幅下挫。AT&T跌7.3%，T-Mobile U",
+     "source": "华尔街见闻",
+     "zh": "巨资拿下低频频段，SpaceX进军手机运营商，美国电信股全线重挫"
+    },
+    {
+     "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+     "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 00:03:00 GMT",
+     "summary": "Seven tips for painlessly moving in retirement.",
+     "source": "MarketWatch",
+     "zh": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’"
+    },
+    {
+     "title": "Anyflo emerges from stealth to simplify stablecoin payments for enterprises",
+     "link": "https://www.finextra.com/newsarticle/48561/anyflo-emerges-from-stealth-to-simplify-stablecoin-payments-for-enterprises?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 09 Oct 2026 00:01:00 GMT",
+     "summary": "Stablecoin payments orchestration service Anyflo has emerged from stealth with news that it has acquired bitcoin lending platform Native.",
+     "source": "Finextra",
+     "zh": "Anyflo emerges from stealth to simplify stablecoin payments for enterprises"
+    },
+    {
+     "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+     "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+     "pubDate": "Thu, 08 Oct 2026 23:57:23 GMT",
+     "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+     "source": "CNBC",
+     "zh": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says"
     }
    ]
   },

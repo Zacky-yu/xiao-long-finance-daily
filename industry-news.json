@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/9 11:31:48",
+ "generated_at": "2026/10/9 11:51:57",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "刚刚，全球第一个185Hz手机屏，诞生了",
+     "link": "https://zhidx.com/p/599406.html",
+     "pubDate": "Fri, 09 Oct 2026 11:31:51 +0800",
+     "summary": "智东西 作者 | 云鹏 编辑 | 漠影 智东西10月9日消息，刚刚，一加与京东方联合发布了双方共研的第四代东方屏，这块屏幕共有16项全球首发、7个世界第一、11项技术突破，在通透显示、高刷流畅、动态清晰等维度重点升级。 现场一加宣布，第四代东方屏将由10月12日即将发布的一加16系列旗舰机全球首发搭载。 京东方科学家、OLED产品开发中心长安成国现场登台演讲，他提到，第四代东方屏是行业首个全链路按“超高刷标准”定义的产品。 一加中国区总裁李杰称，在第四代东方屏上，两家研发团队从材料、电路到显示体验，把各自优势能力结合，进行了深度共研。 具体到这块屏幕，第四代东方屏搭载一加与京东方联合定制的X4",
+     "source": "智东西",
+     "zh": "刚刚，全球第一个185Hz手机屏，诞生了"
+    },
     {
      "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
      "link": "https://www.qbitai.com/2026/10/502114.html",
@@ -239,14 +247,6 @@
      "summary": "Perplexity's pplx-embed-v2-late comes in 2 sizes: a 0.6B model built to run on edge devices, and a 9B model for building high-quality indexes. Its best score is 92.4% on MADQA, and its weakest is 61.2% on ViDoRe v3 Markdown. Both are MIT-licensed and ready to self-host. The post Perplexity AI Releas",
      "source": "MarkTechPost",
      "zh": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA"
-    },
-    {
-     "title": "超33亿元！Manus拿下国内Agent创企最大单笔融资，腾讯投了",
-     "link": "https://zhidx.com/p/599076.html",
-     "pubDate": "Thu, 08 Oct 2026 13:00:27 +0800",
-     "summary": "智东西 作者 | 程茜 编辑 | 云鹏 智东西10月8日消息，刚刚，Manus母公司蝴蝶效应宣布近日已完成超5亿美元（约合人民币33.52亿元）新一轮融资。这是国内Agent原生创企获得的最大一笔融资。 本轮融资由博裕投资、IDG资本领投，老股东腾讯、红杉中国、真格基金继续加持。 今年9月，外媒彭博社就曾报道，蝴蝶效应计划以40亿美元（约合人民币268.3亿元）估值融资5亿美元（约合人民币33.5亿元），较此前20亿美元的估值，多了整整一倍，预计将会使Manus的母公司蝴蝶效应成为中国估值最高的AI Agent创企。 就在9月29日，Manus发布了Manus 2.0版本，以及多Agent群聊",
-     "source": "智东西",
-     "zh": "超33亿元！Manus拿下国内Agent创企最大单笔融资，腾讯投了"
     }
    ]
   },
@@ -940,7 +940,7 @@
      "title": "Massachusetts shifts clean energy funds to help heat homes this winter",
      "link": "https://www.utilitydive.com/news/massachusetts-clean-energy-funds-winter-heating-oil/832521/",
      "pubDate": "Thu, 08 Oct 2026 12:42:42 -0400",
-     "summary": "Gov. Maura Healey ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
+     "summary": "Massachusetts&nbsp;Gov. Maura Healey, D, ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
      "source": "Utility Dive",
      "zh": "Massachusetts shifts clean energy funds to help heat homes this winter"
     },
@@ -1705,12 +1705,84 @@
    "total": 18,
    "items": [
     {
+     "title": "小米米家石墨烯暖风机 Pro 开售：2 米送暖半径、80° 广角摆风，399 元",
+     "link": "https://www.ithome.com/1/010/857.htm",
+     "pubDate": "Fri, 09 Oct 2026 03:46:38 GMT",
+     "summary": "IT之家 10 月 9 日消息，小米米家石墨烯暖风机 Pro 现已全渠道开售。新品到手价 399 元，补贴到手价 359.1 元。 该产品搭载 310mm PTC 陶瓷发热体，可在 10 分钟内让房间快速升温 7°C，适用面积 15-27m²。支持定向调节立体送暖，采用低风阻发热体，日常使用轻音不打扰。 新品支持 2 米远距离环抱式送暖、80° 广角摆风，支持 120° 上下送暖角度，支持 2200W 大功率速热，配备高动力送风系统；支持小米澎湃智联，可通过米家 App 与各种智能家居联动。 IT之家附这款新品详细参数如下： 京东 小米米家石墨烯暖风机 Pro 券后 359.1 元 领 0.9",
+     "source": "IT之家",
+     "zh": "小米米家石墨烯暖风机 Pro 开售：2 米送暖半径、80° 广角摆风，399 元"
+    },
+    {
+     "title": "苦 Adobe 高价订阅久矣？四人团队借 AI 开发免费开源“平替”ArtCraft 套件",
+     "link": "https://www.ithome.com/1/010/856.htm",
+     "pubDate": "Fri, 09 Oct 2026 03:45:21 GMT",
+     "summary": "IT之家 10 月 9 日消息，多年来，无论是插画师、摄影师，还是设计师和视频剪辑师，都很难摆脱 Adobe 的控制。 Adobe 旗下的 Creative Suite 软件套装长期因订阅费用高昂而饱受诟病。在后来更名为 Creative Cloud 的过程中，软件也 失去了真正的离线使用能力 。高昂的订阅费和对软件的依赖，让艺术家及其他创意工作者长期难以摆脱 Adobe。 尽管不少企业曾试图挑战 Adobe，但始终难以撼动 Creative Cloud 的市场地位。当地时间 8 日，据外媒 Futurism 报道，改变局面的，是美国佐治亚州亚特兰大的一个四人团队： 借助 AI 生成代码 ，开",
+     "source": "IT之家",
+     "zh": "苦 Adobe 高价订阅久矣？四人团队借 AI 开发免费开源“平替”ArtCraft 套件"
+    },
+    {
+     "title": "民间开发者发力：英伟达黑苹果开源驱动发布，16/20/30/40/50 系显卡都能用",
+     "link": "https://www.ithome.com/1/010/852.htm",
+     "pubDate": "Fri, 09 Oct 2026 03:39:41 GMT",
+     "summary": "IT之家 10 月 9 日消息，一位社区开发者 NullMoth 日前发布并开源了适用于 macOS 的英伟达显卡驱动。 根据项目介绍，该驱动支持 macOS 15 Sequoia 系统， 适配英伟达图灵架构及后续显卡，具体包括 GTX 16、RTX 20/30/40/50、TITAN RTX 以及支持的 Quadro / RTX 工作站显卡 。 该驱动实现了显示和 Metal 接口，该开发者测试了 RTX 5060 可用，RTX 5070/5080 报告可用，其他显卡有待测试。 开发者介绍，他实现了一个 macOS 驱动插件，该插件将 Metal 调用转换为 Vulkan，并将苹果的着色器格",
+     "source": "IT之家",
+     "zh": "民间开发者发力：英伟达黑苹果开源驱动发布，16/20/30/40/50 系显卡都能用"
+    },
+    {
+     "title": "0.5克定义无糖后却找出21克糖，这场文字游戏值600亿",
+     "link": "https://www.huxiu.com/article/4896098.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 11:37:52 +0800",
+     "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 10月某天，三名消费者把一纸诉状递进了西雅图的华盛顿西区联邦地区法院。 被告是星巴克，争议标的不是咖啡豆，是8款名字里写着“无糖”的蛋白饮料。 诉状称，这些饮品大杯装每份含糖13至21克，约相当于大半罐可乐。 星巴克的解释是：制作过程中没有额外加糖，糖来自牛奶里天然存在的乳糖。 这套说法在技术上站得住，在法律上未必。 谁有资格定义“无糖”，是企业，是标准，还是掏钱的那个人？ ⑴一杯无糖饮料里的21克糖 诉状点名了8款产品：无糖香草蛋白拿铁、无糖焦糖蛋白拿铁、无糖香草蛋白抹茶、无糖焦糖蛋白抹茶，以及各自的冰饮版本。 这批饮品2025年9月上市，是星",
+     "source": "虎嗅",
+     "zh": "0.5克定义无糖后却找出21克糖，这场文字游戏值600亿"
+    },
+    {
+     "title": "PocketBook 公布 Verta (Color) 电子书阅读器、InkPad Eo 2 电子笔记本",
+     "link": "https://www.ithome.com/1/010/851.htm",
+     "pubDate": "Fri, 09 Oct 2026 03:35:08 GMT",
+     "summary": "IT之家 10 月 9 日消息，PocketBook 在 2026 德国法兰克福书展上公布了 3 款新的电子纸面板设备：Verta 与 Verta Color 阅读器、InkPad Eo 2 笔记本。 ▲ Verta 6\" 的 Verta 和 Verta Color 面向入门级用户， 分别采用元太的 Carta 1300 黑白面板和 Kaleido 3 彩色（4096 色）面板 ，提供无反光视觉体验，具备 IPX4 防水，续航长达 2 个月。其定价分别为 169 欧元 （IT之家注：现汇率约合 1,271 元人民币） 和 179 欧元 （现汇率约合 1,347 元人民币） 。 ▲ Verta ",
+     "source": "IT之家",
+     "zh": "PocketBook 公布 Verta (Color) 电子书阅读器、InkPad Eo 2 电子笔记本"
+    },
+    {
+     "title": "全是小众品牌？人形机器人还要继续赛马",
+     "link": "https://www.huxiu.com/article/4896097.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 11:34:25 +0800",
+     "summary": "本文来自微信公众号： 冯伟冯大白 人形机器人火到爆，但是为什么还没跑出真正意义上的消费级大牌？ Counterpoint Research数据显示，2026年上半年，全球人形机器人出货量超过2.2万台。同一统计口径下，智元约9700台，份额超过43%；宇树超过7000台，份额约31%；智元、宇树、银河通用、优必选、乐聚前五家合计占到约86%。宇树2025年人形机器人销量5215台、出货量5511台，相关收入约8.68亿元，人形机器人已经超过四足机器人成为其最大的收入业务。 相比几年前主要靠融资、概念和发布会维持热度的阶段，人形机器人头部企业形成了真实销量、收入和市场位置，也拥有越来越鲜明的产品",
+     "source": "虎嗅",
+     "zh": "全是小众品牌？人形机器人还要继续赛马"
+    },
+    {
+     "title": "香港掀住宅安全风暴：长实、中建等项目被曝造假问题",
+     "link": "https://www.huxiu.com/article/4896096.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 11:30:35 +0800",
+     "summary": "本文来自微信公众号： 风财讯 ，作者：风财讯 香港住宅建筑行业的“安全风暴”正在深入。 自屋宇署的雷霆调查、廉政公署的代号“战鼓”行动开展以来，香港多个住宅项目被发现存在建造问题，一些隐藏其后的贪污造假问题也被挖出来。 例如，近日公布“计划拆卸重建余下3幢大厦”的长实集团香港观塘安达臣道项目。 该项目在2025年5月被香港廉政公署纳入“项目贪污造假大案”。调查显示，钢筋工程分判商为了赚取更多利润，在施工过程中严重偏离获屋宇署批准的工程图则，并通过行贿总承建商员工及工程顾问公司的驻地盘监督人员，换取对方宽松监管，甚至伪造工程验收文件。此后，相关10名男子被廉署先后拘捕。 巡查结果也是令人咋舌：项",
+     "source": "虎嗅",
+     "zh": "香港掀住宅安全风暴：长实、中建等项目被曝造假问题"
+    },
+    {
+     "title": "Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power",
+     "link": "https://www.wired.com/story/come-see-uncanny-valley-live/",
+     "pubDate": "Fri, 09 Oct 2026 03:30:00 +0000",
+     "summary": "Missed our latest WIRED@Night event? Enjoy an evening of podcasting in San Francisco right here.",
+     "source": "WIRED",
+     "zh": "Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power"
+    },
+    {
      "title": "华为上调 nova 16 系列手机部分版本价格：SE 涨 200 元，标准版 / Pro 涨 400 元",
      "link": "https://www.ithome.com/1/010/849.htm",
      "pubDate": "Fri, 09 Oct 2026 03:27:36 GMT",
      "summary": "IT之家 10 月 9 日消息，华为官网显示，华为上调了 nova 16 系列手机部分版本价格。 ▲ 此处 nova 16 SE 价格为 256GB 版本 华为 nova 16 SE（涨 200 元） 128GB：2499 元 → 2699 元 256GB：2699 元 → 2899 元 512GB：3199 元 → 3399 元 华为 nova 16（涨 400 元） 12GB+256GB：2999 元 → 3399 元 12GB+512GB：3499 元 → 3899 元 华为 nova 16 Pro（涨 400 元） 12GB+256GB：3899 元 → 4299 元 12GB+512",
      "source": "IT之家",
      "zh": "华为上调 nova 16 系列手机部分版本价格：SE 涨 200 元，标准版 / Pro 涨 400 元"
+    },
+    {
+     "title": "America.gov与政务智能体的重大考验",
+     "link": "https://www.huxiu.com/article/4896094.html?f=rss",
+     "pubDate": "Fri, 09 Oct 2026 11:26:12 +0800",
+     "summary": "本文来自微信公众号： 数旗智酷 ，作者：罗恩·施梅尔泽 特朗普政府公布了其新推出的联邦政府服务AI门户网站America.gov的宏伟计划。该网站于2026年9月29日发布，同时发布的还有一项行政命令，指示联邦机构整合其服务。目前，该平台利用对话式人工智能技术，根据政府信息回答问题。但白宫希望更进一步。 在年底前，美国政府计划利用对话式人工智能和智能代理系统，让美国民众能够完成护照更新和医疗保险注册等业务。虽然此举有望提高效率，简化与复杂政府网站的交互，但也引发了准确性、信任、隐私以及与人工智能技术公司的数据共享等方面的挑战。 对于那些花费数小时解读政府表格、追踪正确机构或反复提交相同信息的人",
+     "source": "虎嗅",
+     "zh": "America.gov与政务智能体的重大考验"
     },
     {
      "title": "消息称英伟达拟投资 AI 推理 ASIC 企业 d-Matrix，双方此前已达成技术合作",
@@ -1735,22 +1807,6 @@
      "summary": "安全验证正在变成一场“有钱人的游戏”，但换个角度看，这未必是坏事。",
      "source": "钛媒体",
      "zh": "储能爆炸事故密集曝光，远景64MWh行业最大火烧测试，烧出储能新门槛"
-    },
-    {
-     "title": "宏碁 2026 年 9 月合并营收 347.37 亿新台币，创近 14 年同期新高",
-     "link": "https://www.ithome.com/1/010/846.htm",
-     "pubDate": "Fri, 09 Oct 2026 03:16:42 GMT",
-     "summary": "IT之家 10 月 9 日消息，宏碁 (Acer) 昨日宣布，该公司 2026 年 9 月合并营业收入达到 347.37 亿新台币 （IT之家注：现汇率约合 73.09 亿元人民币） ，创近 14 年同期新高， 同比增长 17.6%、环比增长 15.1% 。 宏碁 2026Q3 合并营收达 918.22 亿新台币 （现汇率约合 193.19 亿元人民币） ，同比增长 25.1%、环比增长 7.6%；1~9 月合并营收 2,495.48 亿新台币 （现汇率约合 525.05 亿元人民币） ，同比增长 24.0%。这两项数据均创下近 13 年的同期新高。 IT之家注意到， 宏碁平板电脑营业收入在 ",
-     "source": "IT之家",
-     "zh": "宏碁 2026 年 9 月合并营收 347.37 亿新台币，创近 14 年同期新高"
-    },
-    {
-     "title": "2026 款理想 i6 展车后天到店、10 月 28 日上市，李想预告 6 大升级",
-     "link": "https://www.ithome.com/1/010/845.htm",
-     "pubDate": "Fri, 09 Oct 2026 03:16:19 GMT",
-     "summary": "IT之家 10 月 9 日消息，今天（9 日）上午，理想汽车官微公布了 2026 款理想 i6 的发布节奏：10 月 11 日（后天）全国展车进店，10 月 12 日巴黎车展亮相，10 月 28 日上市发布会，11 月初开启交付。 随后，理想汽车 CEO 李想在微博发文，介绍了新车的 6 大升级： 更亮的灯：ADB 矩阵大灯，理想 MEGA 同款，夜路照得更宽、更远。 更方便的储物：电动前备箱，敲一敲、说一声，都能开。 更舒服的座椅：前排双零重力座椅，150 度躺平，等人的时候也能好好休息。 更大的屏幕：前排 29 英寸 6K 全景屏，后排 21 英寸 4K 娱乐屏，看齐旗舰。 更长的续航：自",
-     "source": "IT之家",
-     "zh": "2026 款理想 i6 展车后天到店、10 月 28 日上市，李想预告 6 大升级"
     },
     {
      "title": "近乎清仓，昔日顶级业主又要卖酒店了",
@@ -1785,28 +1841,12 @@
      "zh": "真人AI混拍，内娱的救赎还是过渡的废棋？"
     },
     {
-     "title": "微软重构 XBOX PC 应用：游戏库加载提速，商店列表与游戏列表合一",
-     "link": "https://www.ithome.com/1/010/844.htm",
-     "pubDate": "Fri, 09 Oct 2026 03:08:08 GMT",
-     "summary": "IT之家 10 月 9 日消息，科技媒体 Windows Central 今天（10 月 9 日）发布博文， 测试微软重构的全新 XBOX PC 应用（内部代号为 Garrison），并表示该版本重点提升性能与易用性。 IT之家附上演示视频如下： 该媒体编辑杰兹 · 科登（Jez Corden）表示新版给他的第一印象是性能提升，测试使用包含 1400 款以上 Xbox 游戏的大型游戏库，发现游戏加载速度明显快于旧版本，用户也更容易区分可安装游戏与可通过 Xbox Cloud Gaming 串流的游戏。 界面上，旧版应用中的商店列表与游戏列表分属两个页面，新版本则将两者整合至同一界面，减少用户在",
-     "source": "IT之家",
-     "zh": "微软重构 XBOX PC 应用：游戏库加载提速，商店列表与游戏列表合一"
-    },
-    {
      "title": "Keyboard differences between Windows and Macs",
      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
      "pubDate": "Fri, 09 Oct 2026 03:08:05 +0000",
-     "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 5 # Comments: 1",
+     "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 9 # Comments: 3",
      "source": "Hacker News",
      "zh": "Keyboard differences between Windows and Macs"
-    },
-    {
-     "title": "特朗普组建“AI部队”：真正值得关注的不是“AI沙皇”，而是美国AI治理逻辑的转向",
-     "link": "https://www.huxiu.com/article/4896080.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 11:07:02 +0800",
-     "summary": "本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士 从\"如何监管一项新技术\"，到\"如何组织一场国家竞争\" 席 席春迎经济学者·科技观察 特朗普宣布，美国将组建一支\"人工智能部队\"，并准备任命一名\"AI沙皇\"统筹相关事务。这一消息听起来颇具特朗普式的戏剧性：\"部队\"\"沙皇\"\"高智商人士\"，每一个词都很容易成为新闻标题。 但如果仅仅把它当作特朗普又一次制造舆论声量，就低估了这件事的政策含义。真正值得关注的，并不是这个机构最终叫什么、由谁担任\"AI沙皇\"，而是美国正在形成一套越来越清晰的AI治理逻辑：把人工智能视为决定国家实力的战略产业，尽量避免用新的前置监管束缚企业扩张，同时依靠既有",
-     "source": "虎嗅",
-     "zh": "特朗普组建“AI部队”：真正值得关注的不是“AI沙皇”，而是美国AI治理逻辑的转向"
     },
     {
      "title": "8000亿“准财政”开闸，天顺风能抢到2.29亿，但风电的苦日子还没到头",
@@ -1817,14 +1857,6 @@
      "zh": "8000亿“准财政”开闸，天顺风能抢到2.29亿，但风电的苦日子还没到头"
     },
     {
-     "title": "1600座公园，引发了一道现代管理学难题",
-     "link": "https://www.huxiu.com/article/4896082.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 11:06:56 +0800",
-     "summary": "本文来自微信公众号： 防冷涂的蜡书斋 ，作者：防冷涂的蜡 今年8月，上海公布《上海市生态空间建设和市容环境优化“十五五”规划》。在10项主要指标中，规划提出，到2030年全市公园数量将从2025年的1100座增加到1600座，五年增加500座。人均公园绿地面积也计划从9.5平方米提高到10.5平方米以上，绿道长度从2136公里增加到2636公里。 数字有了，未来五年每年建多少、投入多少钱、进度是否达标，就有了可以核对的依据。不过，9月公布的上海2025年度市级预算执行审计工作报告，又披露了另一组情况：4处环城公园带驿站自2023年建成后未直接向公众开放，使用率低下；另有一处公共绿地的2.29万",
-     "source": "虎嗅",
-     "zh": "1600座公园，引发了一道现代管理学难题"
-    },
-    {
      "title": "安踏收购彪马：第一大股东不等于控制权，非控制性整合怎么走",
      "link": "https://www.tmtpost.com/8161758.html",
      "pubDate": "Fri, 09 Oct 2026 11:06:52 +0800",
@@ -1833,34 +1865,10 @@
      "zh": "安踏收购彪马：第一大股东不等于控制权，非控制性整合怎么走"
     },
     {
-     "title": "酷冷至尊推出 MWE SFX GOLD 电源：数字控制架构，10 年质保",
-     "link": "https://www.ithome.com/1/010/843.htm",
-     "pubDate": "Fri, 09 Oct 2026 03:05:01 GMT",
-     "summary": "IT之家 10 月 9 日消息，Cooler Master（酷冷至尊）今日宣布推出 MWE SFX GOLD 系列标准 SFX 电源。其提供 850W 和 1000W 两种额定功率， 黑色款到手价分别为 859 元和 999 元 。 MWE SFX GOLD 符合 ATX12V 3.1 和 PCIe CEM 5.1 规范，通过 80 PLUS 金牌转换效率认证。其 采用数字控制电源架构 ，选用 105℃ 日系主电容，PCB 覆盖三防漆层，配备微精端子模组线材，拥有波浪形内鳍片和 92mm FDB 智能停转风扇构成的散热系统。 该电源集成 SCP、OVP、UVP、OCP、OPP、OTP 六大主要",
-     "source": "IT之家",
-     "zh": "酷冷至尊推出 MWE SFX GOLD 电源：数字控制架构，10 年质保"
-    },
-    {
-     "title": "机器人进厂前，第一问：为什么不用传统自动化？",
-     "link": "https://www.huxiu.com/article/4896053.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 11:04:34 +0800",
-     "summary": "「一手判断」栏目，是虎嗅访谈 AI 从业者，给出的一线独家见解，首发于小程序&ldquo;虎嗅嗅&rdquo;的&ldquo;AI 100&rdquo; 本期受访者：朱亚娟｜腾讯 Robotics X 实验室生态负责人 年收入在 2000 万元以上的工厂，中国有超过 50 万家。 背后，是至少 10 万亿元量级的底盘。 它说明了一件事： 机器人一旦真正进入工业，面对的不会是一个小市场。 问题恰恰是，哪些场景真的值得进？ 大量工位，传统自动化已经解决得足够便宜、稳定。机器即使&ldquo;能做&rdquo;，客户也未必有理由买。 所以朱亚娟 （腾讯 Robotics X 实验室生态负责人） 真正",
-     "source": "虎嗅",
-     "zh": "机器人进厂前，第一问：为什么不用传统自动化？"
-    },
-    {
-     "title": "那些放弃大学offer的年轻人，正在整顿“一考定终身”",
-     "link": "https://www.huxiu.com/article/4896077.html?f=rss",
-     "pubDate": "Fri, 09 Oct 2026 10:58:36 +0800",
-     "summary": "本文来自微信公众号： 冰川思享号 ，作者：孤云老爹 他们不是冲动，而是更先一步看清了：社会在变，市场也在变，如果自己跟着学校，踩着不变的节奏前行，走到尽头就是深渊。 考上大学，却不去上了。感觉过去不太听说这类事，即使有也多为个别现象，比如那些“高考专业户”。但看到有报道说，被大学录取却放弃入学资格的人数，今年明显多了起来。 据红星教育传媒·橡树实验室梳理，近期一批公办本科高校相继公示放弃入学名单： 广州大学193名2026年录取的本科生逾期未报到，被视为放弃入学资格； 河北师范大学133名新生逾期未办理入学手续，被取消入学资格； 扬州大学录取的124名2026级新生，同样被视作放弃入学资格； ",
-     "source": "虎嗅",
-     "zh": "那些放弃大学offer的年轻人，正在整顿“一考定终身”"
-    },
-    {
      "title": "What should we tell our students?",
      "link": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
      "pubDate": "Fri, 09 Oct 2026 02:27:45 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/ Comments URL: https://news.ycombinator.com/item?id=50015236 Points: 32 # Comments: 18",
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/ Comments URL: https://news.ycombinator.com/item?id=50015236 Points: 44 # Comments: 36",
      "source": "Hacker News",
      "zh": "What should we tell our students?"
     },
@@ -1876,17 +1884,9 @@
      "title": "Reducing undefined behavior in the C language",
      "link": "https://lwn.net/Articles/1095811/",
      "pubDate": "Fri, 09 Oct 2026 02:02:53 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 24 # Comments: 7",
+     "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 30 # Comments: 10",
      "source": "Hacker News",
      "zh": "Reducing undefined behavior in the C language"
-    },
-    {
-     "title": "Live: Watch ‘Uncanny Valley’ on Women, Tech, and Power",
-     "link": "https://www.wired.com/story/come-see-uncanny-valley-live/",
-     "pubDate": "Fri, 09 Oct 2026 02:00:00 +0000",
-     "summary": "Enjoy an evening of podcasting in San Francisco for our latest WIRED@Night event.",
-     "source": "WIRED",
-     "zh": "Live: Watch ‘Uncanny Valley’ on Women, Tech, and Power"
     },
     {
      "title": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)",
@@ -1932,7 +1932,7 @@
      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
      "link": "https://github.com/edrisranjbar/lifeos",
      "pubDate": "Fri, 09 Oct 2026 00:02:19 +0000",
-     "summary": "Article URL: https://github.com/edrisranjbar/lifeos Comments URL: https://news.ycombinator.com/item?id=50014150 Points: 22 # Comments: 3",
+     "summary": "Article URL: https://github.com/edrisranjbar/lifeos Comments URL: https://news.ycombinator.com/item?id=50014150 Points: 23 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI"
     },
@@ -1940,7 +1940,7 @@
      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
      "link": "https://svg-spark.vercel.app/",
      "pubDate": "Thu, 08 Oct 2026 23:32:49 +0000",
-     "summary": "Article URL: https://svg-spark.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50013931 Points: 32 # Comments: 4",
+     "summary": "Article URL: https://svg-spark.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50013931 Points: 33 # Comments: 4",
      "source": "Hacker News",
      "zh": "Show HN: SVG Spark – 10 client-side SVG design and dev tools"
     }
@@ -1952,6 +1952,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "OnePlus 15 gets Color OS 17 Open Beta ahead of OPPO’s global launch",
+     "link": "https://www.androidauthority.com/oneplus-15-coloros-17-open-beta-3721053/",
+     "pubDate": "Fri, 09 Oct 2026 03:44:04 +0000",
+     "summary": "This is the update that will allow OnePlus users to voluntarily switch from Oxygen OS to Color OS.",
+     "source": "Android Authority",
+     "zh": "OnePlus 15 gets Color OS 17 Open Beta ahead of OPPO’s global launch"
+    },
     {
      "title": "iQOO Neo12's display could be very special",
      "link": "https://www.gsmarena.com/iqoo_neo12s_display_could_be_very_special-news-74967.php",
@@ -2183,14 +2191,6 @@
      "summary": "Google launched the Pixel Watch 2 with “Safety Signal” to ensure users could use Emergency SOS and Safety Check without a Bluetooth or cellular signal. Now, those features require a phone or internet connection. more…",
      "source": "9to5Google",
      "zh": "Google is ending support for Pixel Watch’s emergency LTE ‘Safety Signal’"
-    },
-    {
-     "title": "Spotted in the wild: T-Mobile’s new ‘T-Mix’ plans hit store displays",
-     "link": "https://www.androidauthority.com/t-mobile-t-mix-tease-3720937/",
-     "pubDate": "Thu, 08 Oct 2026 18:23:18 +0000",
-     "summary": "A T-Mobile store is already teasing the unannounced T-Mix plans.",
-     "source": "Android Authority",
-     "zh": "Spotted in the wild: T-Mobile’s new ‘T-Mix’ plans hit store displays"
     }
    ]
   },
@@ -2201,52 +2201,20 @@
    "total": 13,
    "items": [
     {
-     "title": "张裕Ａ10月9日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891009413.html",
-     "pubDate": "Fri, 09 Oct 2026 11:25:15 +0800",
-     "summary": "以下是张裕Ａ在北京时间10月9日11:25分盘口异动快照： 10月9日，张裕Ａ盘中快速反弹，5分钟内涨幅超过2%，截至11点25分，报18.67元，成交2.60亿元，换手率3.00%。 分笔 报价 卖五 18.72 27 卖四 18.7 45 卖三 18.69 2 卖二 18.68 48 卖一 18.67 55 买一 18.59 4 买二 18.58 12 买三 18.57 2 买四 18.56 1 买五 18.51 6 最新： 18.67 涨幅： -0.48% 涨跌： -0.09 换手率：3.00% 成交量：13.67万手 成交额：2.60亿元 主力净流入： -459.58万 元 &emsp",
-     "source": "东方财富股票",
-     "zh": "张裕Ａ10月9日快速反弹"
+     "title": "刘云梅当选河源市市长",
+     "link": "http://www.eeo.com.cn/2026/1009/1058168.shtml",
+     "pubDate": "Fri, 09 Oct 2026 11:39:11 +0800",
+     "summary": "中国经济网河源10月9日综合报道 10月8日，广东河源市第八届人民代表大会第八次会议在市会议中心召开。刘云梅当选市人民政府市长；鲁罡当选市监察委员会主任；王芳当选市中级人民法院院长。 刘云梅，女，汉族，1976年3月生，大学、公共管理硕士，中共党员。现任河源市委副书记，市政府党组书记、市长。 党中央各部门 中央社会工作部 中央深改办 中央国安办 中央军民融合办 <p...",
+     "source": "经济观察网",
+     "zh": "刘云梅当选河源市市长"
     },
     {
-     "title": "“固收+”基金昨日遭较大强度赎回？业内人士回应来了",
-     "link": "http://stock.eastmoney.com/news/1426,202610093891009656.html",
-     "pubDate": "Fri, 09 Oct 2026 11:25:09 +0800",
-     "summary": "有行业消息称，10月8日，“固收+”基金等遭遇较大强度赎回。对此，中国证券报·中证金牛座记者向业内多家机构求证了解到，相关赎回数据或来自某单一渠道。 某公募机构市场人士表示，昨天纯债基金、二级债基赎回规模较平常多一些，权益基金申赎情况则较为正常。总体来说，比较符合季初常见的情况。 （文章来源：中国证券报·中证金牛座）",
-     "source": "东方财富股票",
-     "zh": "“固收+”基金昨日遭较大强度赎回？业内人士回应来了"
-    },
-    {
-     "title": "双一科技10月9日加速下跌",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891009159.html",
-     "pubDate": "Fri, 09 Oct 2026 11:24:52 +0800",
-     "summary": "以下是 双一科技 在北京时间10月9日11:24分盘口异动快照： 10月9日， 双一科技 盘中加速下跌，5分钟内跌幅超过2%，截至11点24分，报24.32元，成交1.91亿元，换手率6.91%。 分笔 报价 卖五 24.46 4 卖四 24.45 23 卖三 24.4 52 卖二 24.35 91 卖一 24.34 10 买一 24.32 1 买二 24.31 6 买三 24.3 214 买四 24.28 98 买五 24.27 12 最新： 24.32 涨幅： -5.37% 涨跌： -1.38 换手率：6.91% 成交量：7.71万手 成交额：1.91亿元 主力净流入： -943.65万 ",
-     "source": "东方财富股票",
-     "zh": "双一科技10月9日加速下跌"
-    },
-    {
-     "title": "长城电工10月9日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891008464.html",
-     "pubDate": "Fri, 09 Oct 2026 11:24:28 +0800",
-     "summary": "以下是 长城电工 在北京时间10月9日11:24分盘口异动快照： 10月9日， 长城电工 盘中跌幅达5%，截至11点24分，报6.84元，成交4348.08万元，换手率1.42%。 分笔 报价 卖五 6.89 3 卖四 6.88 200 卖三 6.87 4 卖二 6.86 164 卖一 6.85 196 买一 6.84 86 买二 6.83 151 买三 6.82 131 买四 6.81 666 买五 6.8 1304 最新： 6.84 涨幅： -5.13% 涨跌： -0.37 换手率：1.42% 成交量：6.25万手 成交额：4348.08万元 主力净流入： -414.25万 元 &emsp",
-     "source": "东方财富股票",
-     "zh": "长城电工10月9日盘中跌幅达5%"
-    },
-    {
-     "title": "浙江新能10月9日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891007424.html",
-     "pubDate": "Fri, 09 Oct 2026 11:23:16 +0800",
-     "summary": "以下是 浙江新能 在北京时间10月9日11:23分盘口异动快照： 10月9日， 浙江新能 盘中跌幅达5%，截至11点23分，报7.39元，成交3.11亿元，换手率1.73%。 分笔 报价 卖五 7.45 1679 卖四 7.44 1110 卖三 7.43 314 卖二 7.42 704 卖一 7.41 91 买一 7.39 959 买二 7.38 969 买三 7.37 230 买四 7.36 336 买五 7.35 752 最新： 7.39 涨幅： -5.01% 涨跌： -0.39 换手率：1.73% 成交量：41.54万手 成交额：3.11亿元 主力净流入： -2062.85万 元 &em",
-     "source": "东方财富股票",
-     "zh": "浙江新能10月9日盘中跌幅达5%"
-    },
-    {
-     "title": "德力佳10月9日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891007394.html",
-     "pubDate": "Fri, 09 Oct 2026 11:23:16 +0800",
-     "summary": "以下是 德力佳 在北京时间10月9日11:23分盘口异动快照： 10月9日， 德力佳 盘中快速回调，5分钟内跌幅超过2%，截至11点23分，报48.27元，成交1.43亿元，换手率8.58%。 分笔 报价 卖五 48.34 57 卖四 48.32 32 卖三 48.31 6 卖二 48.29 3 卖一 48.28 2 买一 48.26 8 买二 48.25 17 买三 48.22 5 买四 48.21 6 买五 48.2 4 最新： 48.27 涨幅： 1.79% 涨跌： 0.85 换手率：8.58% 成交量：2.96万手 成交额：1.43亿元 主力净流入： 1508.95 万元 &emsp;",
-     "source": "东方财富股票",
-     "zh": "德力佳10月9日快速回调"
+     "title": "光芯片股大跌，东山精密董事长袁永刚回应“研报冲击”",
+     "link": "http://www.eeo.com.cn/2026/1009/1058149.shtml",
+     "pubDate": "Fri, 09 Oct 2026 11:28:54 +0800",
+     "summary": "袁永刚在成本和原产地上的回应，针对的都是还没有量产的下一代光模块产品。眼下他接触到的客户，更着急的是交付，因为光模块一直处于缺货状态。",
+     "source": "经济观察网",
+     "zh": "光芯片股大跌，东山精密董事长袁永刚回应“研报冲击”"
     },
     {
      "title": "2026诺贝尔文学奖｜安妮·卡森：在“及时止损”的时代，我们还敢爱吗？",
@@ -2281,28 +2249,12 @@
      "zh": "我国年人均快递使用量超过140件"
     },
     {
-     "title": "德英《肯辛顿条约》生效 强化安全等领域合作",
-     "link": "http://www.eeo.com.cn/2026/1009/1058124.shtml",
-     "pubDate": "Fri, 09 Oct 2026 11:13:07 +0800",
-     "summary": "新华财经柏林10月9日电 德国总理默茨8日在首都柏林同到访的英国首相伯纳姆举行会晤。双方正式批准《肯辛顿条约》，强化两国安全、防务、经贸、科技及人文等领域合作。 默茨在条约批准书交换仪式上说，该条约为德国和英国合作开辟了新的可能性，尤其将惠及年轻一代。 伯纳姆表示，英国致力于同欧盟建立更强大、更具雄心的伙伴关系，重点在于为英国及欧洲其他国家民众和企业带来切实利益。 根据双方发表的联合...",
-     "source": "经济观察网",
-     "zh": "德英《肯辛顿条约》生效 强化安全等领域合作"
-    },
-    {
      "title": "Australian data centre operator pulls $5bn IPO",
      "link": "https://www.ft.com/content/205ef7a5-321f-46e3-8097-d055bf1f6b3b?syn-25a6b1a6=1",
      "pubDate": "Fri, 09 Oct 2026 03:11:08 GMT",
      "summary": "Nvidia-backed Firmus abandons plan to list in Sydney, blaming ‘recent market volatility and prevailing market conditions’",
      "source": "Financial Times",
      "zh": "Australian data centre operator pulls $5bn IPO"
-    },
-    {
-     "title": "细化违规入股情形，中证协拟出台保代职业行为规范",
-     "link": "http://www.eeo.com.cn/2026/1009/1058112.shtml",
-     "pubDate": "Fri, 09 Oct 2026 11:07:39 +0800",
-     "summary": "10月10日，中证协组织起草了《保荐代表人执业行为规范（征求意见稿）》，并正向行业征求意见。",
-     "source": "经济观察网",
-     "zh": "细化违规入股情形，中证协拟出台保代职业行为规范"
     },
     {
      "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
@@ -2439,6 +2391,54 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Oil finishes sharply higher even as Trump says no attacks on Iran before midterms"
+    },
+    {
+     "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+     "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+     "pubDate": "Thu, 08 Oct 2026 23:14:00 GMT",
+     "summary": "Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.",
+     "source": "MarketWatch",
+     "zh": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up."
+    },
+    {
+     "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+     "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+     "pubDate": "Thu, 08 Oct 2026 22:55:46 GMT",
+     "summary": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market.",
+     "source": "CNBC",
+     "zh": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile"
+    },
+    {
+     "title": "Carlyle says deal to buy Lukoil assets expired - Bloomberg",
+     "link": "https://seekingalpha.com/news/4651621-carlyle-says-deal-to-buy-lukoil-assets-expired-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 08 Oct 2026 18:36:57 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Carlyle says deal to buy Lukoil assets expired - Bloomberg"
+    },
+    {
+     "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
+     "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
+     "pubDate": "Thu, 08 Oct 2026 22:08:00 GMT",
+     "summary": "OpenAI’s annualized revenue reportedly fell short of expectations — but analysts say that reflects differences in how the figure is reported, not weakness in AI demand.",
+     "source": "MarketWatch",
+     "zh": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’"
+    },
+    {
+     "title": "10月9日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/1344,202610083890018228.html",
+     "pubDate": "Fri, 09 Oct 2026 06:03:27 +0800",
+     "summary": "10月9日(星期五)，今日报刊头条主要内容精华如下： 中国证券报 央行发布关于人民币汇率的政策立场 坚持让市场在汇率形成中发挥决定性作用 10月8日，中国人民 银行 发布关于人民币汇率的政策立场，强调中国实施以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度，坚持让市场在汇率形成中发挥决定性作用。中国人民 银行 还提出，全球经济失衡与全球分工格局演进、国际货币体系固有矛盾、部分国家长期高财政赤字高消费等密切相关，需要各方共同推动解决。将本国产业竞争力下降、财经约束弱化和复杂结构性问题简单归因他国汇率，是对自身调整责任的推诿和回避。 两部门发布民营经济领域纠纷多元化解典型案例 聚焦解",
+     "source": "东方财富资讯",
+     "zh": "10月9日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
+     "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
+     "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+     "pubDate": "Thu, 08 Oct 2026 22:00:00 GMT",
+     "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
+     "source": "MarketWatch",
+     "zh": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?"
     }
    ]
   },

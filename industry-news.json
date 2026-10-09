@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/9 14:41:18",
+ "generated_at": "2026/10/9 14:51:44",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
+     "link": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
+     "pubDate": "Fri, 09 Oct 2026 05:06:17 +0000",
+     "summary": "Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents. The post Google Research RRSI Guide: Mastering Self-Improving AI Agents appeared f",
+     "source": "MarkTechPost",
+     "zh": "Google Research RRSI Guide: Mastering Self-Improving AI Agents"
+    },
     {
      "title": "GPT-6.1 Sol极速版快8倍，但依然口碑秒崩？“变相涨价”被网友怒喷",
      "link": "https://zhidx.com/p/599323.html",
@@ -239,14 +247,6 @@
      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
      "source": "OpenAI",
      "zh": "Pollo AI turns creative ideas into campaigns with OpenAI"
-    },
-    {
-     "title": "LegalOn halves Codex costs while maintaining development speed",
-     "link": "https://openai.com/index/legalon-halves-codex-costs",
-     "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
-     "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-     "source": "OpenAI",
-     "zh": "LegalOn halves Codex costs while maintaining development speed"
     }
    ]
   },
@@ -256,46 +256,6 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
-    {
-     "title": "Qualcomm vs Arm (Day 4)",
-     "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-4-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 05:17:49 +0000",
-     "summary": "Today, the Arm vs Qualcomm legal case in Delaware concludes and the judge and jury should give their rulings. Yesterday, Day 4 of the case, saw a wrapping up of […] The post Qualcomm vs Arm (Day 4) appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Qualcomm vs Arm (Day 4)"
-    },
-    {
-     "title": "ASML starts on Hyper NA EUV",
-     "link": "https://www.electronicsweekly.com/news/business/asml-starts-on-hyper-na-euv-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 05:16:36 +0000",
-     "summary": "ASML has begun a ten year programme to get feature sizes down to 5nm from the 8nm which high NA tools can deliver. The 5nm litho tool is dubbed Hyper […] The post ASML starts on Hyper NA EUV appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "ASML starts on Hyper NA EUV"
-    },
-    {
-     "title": "TSMC September revenue up 54% YoY",
-     "link": "https://www.electronicsweekly.com/news/business/tsmc-september-revenue-up-54-yoy-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 05:12:21 +0000",
-     "summary": "TSMC had September revenue of $16.1 billion, a decrease of 0.6% from August 2026 and an increase of 54.6% from September 2025. Revenue for January through September 2026 totalled $122 billion, an increase of 41.1% compared […] The post TSMC September revenue up 54% YoY appeared first on Electronics ",
-     "source": "Electronics Weekly",
-     "zh": "TSMC September revenue up 54% YoY"
-    },
-    {
-     "title": "Globalfoundries to make silicon interposers for TSMC",
-     "link": "https://www.electronicsweekly.com/news/business/globalfoundries-to-make-interposers-for-tsmc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 05:10:11 +0000",
-     "summary": "GlobalFoundries is to establish a U.S.-based supply of silicon interposers for TSMC’s CoWoS packaging ecosystem. Under the agreement, GF will provide manufacturing service to TSMC, and add fabrication capacity at […] The post Globalfoundries to make silicon interposers for TSMC appeared first on Ele",
-     "source": "Electronics Weekly",
-     "zh": "Globalfoundries to make silicon interposers for TSMC"
-    },
-    {
-     "title": "Astute signs Samwha Capacitor",
-     "link": "https://www.electronicsweekly.com/news/business/astute-signs-samwha-capacitor-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 05:05:28 +0000",
-     "summary": "Astute Group has signed a franchise distribution agreement with Samwha Capacitor Group, adding Samwha’s range of capacitors, energy storage components, ferrite products, inductors and transformer technologies to its portfolio. The […] The post Astute signs Samwha Capacitor appeared first on Electron",
-     "source": "Electronics Weekly",
-     "zh": "Astute signs Samwha Capacitor"
-    },
     {
      "title": "MediaTek 3Q26 revenue beats forecast, maintains peak-season momentum",
      "link": "https://www.digitimes.com/news/a20261008PD255/mediatek-revenue-forecast-2026-growth.html",
@@ -343,14 +303,6 @@
      "summary": "Memory module makers Innodisk and Apacer both reported year-over-year and month-over-month revenue growth for September 2026, supported by steady demand from industrial control, edge computing and AI smart connectivity applications. Their cumulative revenue for the first three quarters of the year a",
      "source": "DIGITIMES",
      "zh": "Innodisk, Apacer post September 2026 revenue growth on AI demand"
-    },
-    {
-     "title": "Where Are The Centrists?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/m-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 00:00:28 +0000",
-     "summary": "Political centrists outnumber Rightists and Leftists in Germany, Japan, and South Africa, according to Statista Consumer Insights. In Germany, 41% of respondents said that they were in the centre , […] The post Where Are The Centrists? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Where Are The Centrists?"
     },
     {
      "title": "Why Custom Silicon Matters in AI Data Centers",
@@ -495,6 +447,54 @@
      "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
      "source": "Semiconductor Today",
      "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
+    },
+    {
+     "title": "From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs",
+     "link": "https://semiwiki.com/artificial-intelligence/374386-from-blueprint-to-production-how-rambus-brings-commercial-grade-caliptra-security-to-ai-socs/",
+     "pubDate": "Wed, 07 Oct 2026 17:00:03 +0000",
+     "summary": "Semiconductor designers today face a critical hurdle: how to smoothly transition from an open-source hardware blueprint to a commercially hardened, production-ready silicon implementation. As semiconductors play an increasingly essential role in powering the AI era, safeguarding these hardware found",
+     "source": "SemiWiki",
+     "zh": "From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs"
+    },
+    {
+     "title": "From Cloud to Silicon: IC-Link and TSMC Open the Door",
+     "link": "https://semiwiki.com/semiconductor-manufacturers/374282-from-cloud-to-silicon-ic-link-and-tsmc-open-the-door/",
+     "pubDate": "Wed, 07 Oct 2026 15:00:23 +0000",
+     "summary": "Access to advanced semiconductor technology involves much more than choosing a process node. Design teams also need computing capacity, compatible tools, secure technology access, and experienced support. IC-Link by imec’s expanded collaboration with TSMC addresses that combination, potentially maki",
+     "source": "SemiWiki",
+     "zh": "From Cloud to Silicon: IC-Link and TSMC Open the Door"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
+    },
+    {
+     "title": "Mivium demonstrates commercially viable production of phase-pure h-GaN nanoparticles",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/mivium-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 12:06:53 +0100",
+     "summary": "Materials technology company Mivium Inc of Fremont, CA, USA has achieved the production of high-purity submicron gallium nitride (GaN) particles using its proprietary technology platform (which extends to additional wide-bandgap and advanced semiconductor materials including gallium oxide and boron ",
+     "source": "Semiconductor Today",
+     "zh": "Mivium demonstrates commercially viable production of phase-pure h-GaN nanoparticles"
     }
    ]
   },
@@ -1497,6 +1497,22 @@
    "total": 5,
    "items": [
     {
+     "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own",
+     "link": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
+     "pubDate": "Fri, 09 Oct 2026 06:39:55 +0000",
+     "summary": "$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools. The post Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own"
+    },
+    {
+     "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
+     "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
+     "pubDate": "Fri, 09 Oct 2026 12:09:29 +0530",
+     "summary": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon. To that end, the agencies seized several domains and blocked access to platforms that were us",
+     "source": "The Hacker News",
+     "zh": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions"
+    },
+    {
      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
      "pubDate": "Fri, 09 Oct 2026 01:41:04 -0400",
@@ -1649,28 +1665,12 @@
      "zh": "US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward"
     },
     {
-     "title": "SonicWall and Splunk Patch Critical Vulnerabilities",
-     "link": "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
-     "pubDate": "Thu, 08 Oct 2026 12:37:32 +0000",
-     "summary": "Critical and high-severity vulnerabilities could allow attackers to bypass authentication, execute arbitrary code, and elevate their privileges. The post SonicWall and Splunk Patch Critical Vulnerabilities appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "SonicWall and Splunk Patch Critical Vulnerabilities"
-    },
-    {
      "title": "Writing the Next Chapter",
      "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
      "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
      "summary": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
      "source": "Dark Reading",
      "zh": "Writing the Next Chapter"
-    },
-    {
-     "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-     "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-     "pubDate": "Thu, 08 Oct 2026 16:00:00 +0530",
-     "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself. ANY.RUN has identified Wazza, a ",
-     "source": "The Hacker News",
-     "zh": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia"
     },
     {
      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
@@ -1705,12 +1705,44 @@
    "total": 18,
    "items": [
     {
-     "title": "一加 16 手机官宣搭载 9000mAh 冰川电池，支持 100W 有线 + 50W 无线",
-     "link": "https://www.ithome.com/1/010/951.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:34:53 GMT",
-     "summary": "IT之家 10 月 9 日消息，一加中国区总裁李杰今日宣布，一加 16 手机首发新一代高性能冰川电池。 据其介绍，一加 16 手机电池容量 9000mAh ，支持 100W 有线闪充 + 50W 无线闪充。 据IT之家此前报道， 一加 16 手机首批搭载 第六代骁龙 8 超级至尊版 ，搭配全新一代风驰游戏内核，出厂即写入芯片底层。 一加 16 手机搭载与京东方联合研发的 185Hz 第四代东方屏 ，采用全新 X4 发光材料，日常使用支持全局 165Hz 超高刷，采用 1.15mm 极窄四等边屏幕，将于 10 月 12 日 19:00 正式发布。",
+     "title": "本田 NSX 获“重生”：宾尼法利纳、JAS 现代化改装加持，但车辆需客户自备",
+     "link": "https://www.ithome.com/1/010/957.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:47:55 GMT",
+     "summary": "IT之家 10 月 9 日消息，据外媒 motor1 今天（9 日）报道，意大利赛车工程公司 JAS Motorsport 完成了本田 NSX 的现代化改装项目，新车定名为 Tensei，对应的含义为“重生 / 转生”。Tensei 搭载一台 414 马力的 V6 自然吸气发动机 ，匹配 6 速手动变速箱。 Tensei 限量生产 35 辆，每辆都需要一辆原版 NSX 作为改装基础。JAS 会拆解原车并换上宾尼法利纳设计的碳纤维车身，重新组装。 发动机方面，JAS 保留了 NSX 原有的本田 C30A 缸体，并委托擅长赛车发动机研发的英国 Judd Power 改造内部结构。Judd 重新设计",
      "source": "IT之家",
-     "zh": "一加 16 手机官宣搭载 9000mAh 冰川电池，支持 100W 有线 + 50W 无线"
+     "zh": "本田 NSX 获“重生”：宾尼法利纳、JAS 现代化改装加持，但车辆需客户自备"
+    },
+    {
+     "title": "泰坦军团“P326MV Ultra”31.5 英寸 4K 200Hz / FHD 400Hz 双模显示器首销：2200 尼特亮度 + 双扬，3888 元",
+     "link": "https://www.ithome.com/1/010/956.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:46:25 GMT",
+     "summary": "IT之家 10 月 9 日消息，泰坦军团旗下“P326MV Ultra”31.5 英寸显示器现已在京东首销，该机主打 4K 200Hz / 1080P 400Hz 双模 QD-Mini LED，定价为 4410 元，首发价 3888 元，部分地区国补后低至 3499.2 元。 京东 泰坦军团 P326MV Ultra 显示器 3888 元 直达链接 该机配备的 2304 分区 QD-Mini LED 背光 Fast IPS 面板支持以 3840x2160 分辨率 200Hz 或 1920x1080 分辨率 400Hz 显示，其 XDR 峰值亮度达 2200 尼特，HDR 峰值亮度 1400 尼",
+     "source": "IT之家",
+     "zh": "泰坦军团“P326MV Ultra”31.5 英寸 4K 200Hz / FHD 400Hz 双模显示器首销：2200 尼特亮度 + 双扬，3888 元"
+    },
+    {
+     "title": "“全球首款 E Ink Kaleido 4 彩墨办公本”汉王 M10C 二代电纸书将于 10 月 15 日亮相",
+     "link": "https://www.ithome.com/1/010/955.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:44:22 GMT",
+     "summary": "IT之家 10 月 9 日消息，汉王科技宣布旗下汉王 M10C 二代电纸书将于 10 月 15 日 13:30 正式亮相，号称是“全球首款 E Ink Kaleido 4 彩墨办公本”。 作为参考，现款汉王 M10C 电纸书于 2025 年 5 月发布，该机采用 10.3 英寸 Kaleido3 彩色墨水屏面板（支持 8192 级压感技术），背面提供 8Mp 摄像头。机身配备 8 麦克风阵列，搭载 &nbsp;4GB RAM 和 128GB 存储空间，配备 6500mAh 电池，上市价 3699 元。",
+     "source": "IT之家",
+     "zh": "“全球首款 E Ink Kaleido 4 彩墨办公本”汉王 M10C 二代电纸书将于 10 月 15 日亮相"
+    },
+    {
+     "title": "66.1 分登顶：Odyssey-3 基础世界模型登场，AI 开始理解真实世界",
+     "link": "https://www.ithome.com/1/010/954.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:41:48 GMT",
+     "summary": "IT之家 10 月 9 日消息，Odyssey 昨日（10 月 8 日）发布博文， 宣布推出 Odyssey-3 系列基础世界模型，其 Odyssey-3 Pro 在 Physics-IQ Verified 视频到视频基准测试中取得 66.1 分，创该榜单最高纪录。 IT之家注：基础世界模型（Foundation World Model）是指从大量视觉观测中学习物理、动态与因果关系的通用 AI 模型。它可预测物体如何移动、交互及情境如何随时间演变，并用于模拟环境或训练机器人、车辆等系统的控制策略。 Physics-IQ Verified 是由 Anates Labs 与 DeepMind 联合",
+     "source": "IT之家",
+     "zh": "66.1 分登顶：Odyssey-3 基础世界模型登场，AI 开始理解真实世界"
+    },
+    {
+     "title": "Meta 于 7 国禁止字节跳动在其平台投放广告和付费营销信息",
+     "link": "https://www.ithome.com/1/010/953.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:41:22 GMT",
+     "summary": "IT之家 10 月 9 日消息，据彭博社报道，Meta 自当地时间昨日起在美国、加拿大、埃及、印度尼西亚、日本、泰国、越南 7 个国家 禁止字节跳动 (ByteDance) 在 Meta 旗下平台投放广告和付费营销信息 。 Meta 发言人 Chris Sgro 在一份电子邮件形式的声明中表示，该公司没有必要为一个意图将用户从其应用中拉走的竞争对手投放广告， 拒绝向竞争对手提供推广服务也是各行各业的正常商业做法 ，Meta 将继续在产品质量和用户体验上竞争。 此次禁令除字节跳动本身外，也 适用于在上述 7 国投放与 TikTok 及其它字节跳动资产关联的第三方广告商 。 相关阅读： 《 Met",
+     "source": "IT之家",
+     "zh": "Meta 于 7 国禁止字节跳动在其平台投放广告和付费营销信息"
     },
     {
      "title": "谷歌为何押注RSI？",
@@ -1721,14 +1753,6 @@
      "zh": "谷歌为何押注RSI？"
     },
     {
-     "title": "799 → 585 元：小米耳夹式耳机京东新低，单只耳机重 5.5g + 高性能记忆钛丝",
-     "link": "https://www.ithome.com/1/010/949.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:31:55 GMT",
-     "summary": "小米耳夹式耳机今年 5 月正式发布，首销价 799 元 。 今日京东可叠加 PLUS 会员 480-60 元，实付 689 元。 大部分地区支持 15% 政府补贴，国补后 仅需 585 元 官方好价： 京东 小米 耳夹式耳机 4 色可选 国补后 585 元起 直达链接 IT之家从发布会获悉，小米耳夹式耳机有珍珠白、玄武岩黑、缎光金、鸢尾紫四种颜色可选。 小米耳夹式耳机单只耳机重量 5.5g ，采用仿生曲线设计及高性能记忆钛丝；搭载 11mm 大尺寸驱动单元，微晶金属涂层振膜。 这款耳机采用 高亮镜面机身 ，一体流线造型；支持 IP57 级 防尘抗水 ；耳机本体续航 9 小时，配合充电盒最高可达",
-     "source": "IT之家",
-     "zh": "799 → 585 元：小米耳夹式耳机京东新低，单只耳机重 5.5g + 高性能记忆钛丝"
-    },
-    {
      "title": "华为小米手机同日涨价，最高涨1000元",
      "link": "https://www.huxiu.com/article/4896139.html?f=rss",
      "pubDate": "Fri, 09 Oct 2026 14:30:26 +0800",
@@ -1737,44 +1761,12 @@
      "zh": "华为小米手机同日涨价，最高涨1000元"
     },
     {
-     "title": "内存推高 iPhone 18 Pro 系列售价，曝苹果削减新机零部件订单",
-     "link": "https://www.ithome.com/1/010/948.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:30:00 GMT",
-     "summary": "IT之家 10 月 9 日消息，据《日经亚洲》今天（9 日）下午报道，内存芯片价格飙升迫使苹果上调新上市的 iPhone 18 Pro 和 iPhone 18 Pro Max 售价，市场需求随之走弱。苹果因此要求部分供应商 减少两款机型的零部件生产 。 多名知情人士消息称，苹果自 9 月初起在出货安排上变得更加谨慎。其中两人称，由于新机需求不及预期，苹果 10 月的零部件订单量 较原计划至少削减了 15% 。 一名高管级知情人士透露：“仅 10 月份，苹果对两款高端机型的零部件订单 就减少了 15% 至 20% 。接下来情况会怎样，还很难说。” 由于各家供应商的生产周期不同，10 月的订单调整",
-     "source": "IT之家",
-     "zh": "内存推高 iPhone 18 Pro 系列售价，曝苹果削减新机零部件订单"
-    },
-    {
-     "title": "英伟达未来 5 年将斥资 10 亿美元推动美国科学发展",
-     "link": "https://www.ithome.com/1/010/947.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:29:29 GMT",
-     "summary": "IT之家 10 月 9 日消息，NVIDIA（英伟达）当地时间 8 日在美国首都华盛顿特区举行的“科学：新的黄金时代”活动上宣布， 该企业未来 5 年将斥资 10 亿美元 （IT之家注：现汇率约合 67.15 亿元人民币） 推动美国科学发展 。 NVIDIA 将通过支持美国高等教育研究机构、投资加速美国在量子计算领域的领导地位、支持满足美国政府任务需求的云服务提供商，推动美国科学和量子计算领域的“超级智能”（人工智能）发展。 NVIDIA 也是同日宣布的多个美国“创世纪计划”第二阶段项目的合作方。",
-     "source": "IT之家",
-     "zh": "英伟达未来 5 年将斥资 10 亿美元推动美国科学发展"
-    },
-    {
-     "title": "Liquid AI 开源 d1 系列决策模型：单次判断仅 8 毫秒，支持图像输入",
-     "link": "https://www.ithome.com/1/010/946.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:29:07 GMT",
-     "summary": "IT之家 10 月 9 日消息，Liquid AI 于 10 月 7 日发布博文，宣布推出 d1 系列两款开放权重决策模型：d1-3B 支持 31.2 亿参数的文本与图像判断， d1-omni-600M 以 5.87 亿参数支持文本、图像及语音输入。 IT之家援引博文介绍， 在 Jev 模型 9 月推出爆火后 ， OpenAI 等公司也相继推出类似的决策模型 ，而 Liquid AI 是加入该战局的新成员，本次推出的 d1-3B 与 d1-omni-600M 已在 Hugging Face 公开，用户可下载、微调并部署。 d1-3B 拥有 31.2 亿参数，基于视觉语言模型 LFM2.5-VL",
-     "source": "IT之家",
-     "zh": "Liquid AI 开源 d1 系列决策模型：单次判断仅 8 毫秒，支持图像输入"
-    },
-    {
      "title": "Sources: Apple told some suppliers to cut iPhone 18 Pro and Pro Max component production by 15%-20% as higher memory costs pushed up prices and hurt demand (Nikkei Asia)",
      "link": "https://www.techmeme.com/261009/p3#a261009p3",
      "pubDate": "Fri, 09 Oct 2026 02:25:06 -0400",
      "summary": "Nikkei Asia : Sources: Apple told some suppliers to cut iPhone 18 Pro and Pro Max component production by 15%-20% as higher memory costs pushed up prices and hurt demand &nbsp; &mdash;&nbsp; TAIPEI &mdash; Apple has told some of its suppliers to cut production of components for its newly launched iP",
      "source": "Techmeme",
      "zh": "Sources: Apple told some suppliers to cut iPhone 18 Pro and Pro Max component production by 15%-20% as higher memory costs pushed up prices and hurt demand (Nikkei Asia)"
-    },
-    {
-     "title": "吉利星瑞 L PLUS 将于 10 月 17 日正式上市，限时预售价 11.57 万元起",
-     "link": "https://www.ithome.com/1/010/936.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:18:48 GMT",
-     "summary": "IT之家 10 月 9 日消息，据易车消息，吉利星瑞 L PLUS 将于 10 月 17 日正式上市。 据IT之家此前报道， 吉利星瑞 L PLUS i-HEV 于 9 月 16 日启动预售 ，新车定位为宽体旗舰智混家轿，限时预售价 11.57 万元起。 新车长宽高分别为 4956mm/1915mm/1505mm，轴距 2845mm；整体延续家族式设计风格，提供枫林丹红、秋水长蓝、暮山紫灰、长天烁银、清秋玉白、远山凝墨 6 款车漆，以及米色、黑色（又分为皮质、麂皮）共 3 款内饰。 新车搭载前麦弗逊 + 后多连杆独立悬架，搭载吉利 i-HEV 智擎混动技术：1.5TD 混动专用发动机最大功率为",
-     "source": "IT之家",
-     "zh": "吉利星瑞 L PLUS 将于 10 月 17 日正式上市，限时预售价 11.57 万元起"
     },
     {
      "title": "苹果新品全家桶大剧透，最大的个人AI 终端是你家",
@@ -1815,14 +1807,6 @@
      "summary": "本文来自微信公众号： 谷雨星球 ，作者：小谷 大家好，我是小谷。 前几年，很多明星、名人扎堆送孩子去英国读私校，伊顿、哈罗，人人都听过。 但今年，好像没什么人聊了。我们查了一下数据，还真是： 昔日挤破头抢私校名额的全球家庭长，都开始撤退了。 英国私立学校委员会（ISC）今年6月发布的最新年度普查报告（ISC Census 2026），用一连串刺眼的「负增长」，记录了英国私校的一个罕见寒冬。 不仅流失2万名学生，还有105所学校关了门。 ■海外学生数据，主要是父母在国内，孩子独自在英国私校寄宿的情况 其中最让人意外的是，中国大陆学生也在下降。 和2020年约8,300人的峰值比起来，直接少了约三",
      "source": "虎嗅",
      "zh": "去英国读私校的中国高净值家庭，6年少了三成"
-    },
-    {
-     "title": "Show HN: Quake ported to safe Rust, playable in browser",
-     "link": "https://quake-srp.pages.dev/",
-     "pubDate": "Fri, 09 Oct 2026 05:22:58 +0000",
-     "summary": "Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 77 # Comments: 42",
-     "source": "Hacker News",
-     "zh": "Show HN: Quake ported to safe Rust, playable in browser"
     },
     {
      "title": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)",
@@ -1937,12 +1921,28 @@
      "zh": "日薪120元，我给机器人当“老师”"
     },
     {
-     "title": "Keyboard differences between Windows and Macs",
-     "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-     "pubDate": "Fri, 09 Oct 2026 03:08:05 +0000",
-     "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 61 # Comments: 52",
-     "source": "Hacker News",
-     "zh": "Keyboard differences between Windows and Macs"
+     "title": "Microsoft denies JD Vance&apos;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)",
+     "link": "https://www.techmeme.com/261008/p55#a261008p55",
+     "pubDate": "Thu, 08 Oct 2026 22:15:56 -0400",
+     "summary": "Associated Press : Microsoft denies JD Vance's claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees &nbsp; &mdash;&nbsp; President Donald Trump's administration announced Thursday it was suspending Microsoft and several o",
+     "source": "Techmeme",
+     "zh": "Microsoft denies JD Vance&apos;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)"
+    },
+    {
+     "title": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)",
+     "link": "https://www.techmeme.com/261008/p54#a261008p54",
+     "pubDate": "Thu, 08 Oct 2026 21:55:00 -0400",
+     "summary": "Sergiu Gatlan / BleepingComputer : A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions &nbsp; &mdash;&nbsp; The co-creator of Empire Market, one of the largest dark web marketplaces before it",
+     "source": "Techmeme",
+     "zh": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)"
+    },
+    {
+     "title": "Sources: Flock plans to let go of ~270 employees, or 18% of its staff, at the end of October; the layoffs come after a voluntary buyout program in September (Reuters)",
+     "link": "https://www.techmeme.com/261008/p53#a261008p53",
+     "pubDate": "Thu, 08 Oct 2026 21:01:37 -0400",
+     "summary": "Reuters : Sources: Flock plans to let go of ~270 employees, or 18% of its staff, at the end of October; the layoffs come after a voluntary buyout program in September &nbsp; &mdash;&nbsp; Flock Safety plans to let go of about 18% of its employees, people with direct knowledge of the plans said on Th",
+     "source": "Techmeme",
+     "zh": "Sources: Flock plans to let go of ~270 employees, or 18% of its staff, at the end of October; the layoffs come after a voluntary buyout program in September (Reuters)"
     }
    ]
   },
@@ -2201,52 +2201,12 @@
    "total": 13,
    "items": [
     {
-     "title": "10月9日知识产权板块涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891197924.html",
-     "pubDate": "Fri, 09 Oct 2026 14:33:26 +0800",
-     "summary": "&emsp;&emsp;10月9日14点33分， 知识产权 板块指数报2098.27点，涨幅达5%，成交144.65亿元，换手率4.70%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 流金科技 报8.99元，涨22.31%； 中文在线 报24.47元，涨20.01%； 芒果超媒 报23.00元，涨19.98%； 华策影视 报8.51元，涨12.57%； 捷成股份 报5.63元，涨12.38%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月9日知识产权板块涨幅达5%"
-    },
-    {
-     "title": "10月9日互联网电商板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891197830.html",
-     "pubDate": "Fri, 09 Oct 2026 14:33:26 +0800",
-     "summary": "&emsp;&emsp;10月9日14点33分， 互联网电商 板块指数报2827.103点，涨幅达2%，成交31.71亿元，换手率2.31%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 丽人丽妆 报9.44元，涨10.02%； 南极电商 报3.06元，涨4.79%； 青木科技 报35.45元，涨4.51%； 壹网壹创 报24.66元，涨4.23%； 焦点科技 报25.03元，涨3.64%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月9日互联网电商板块涨幅达2%"
-    },
-    {
-     "title": "10月9日线下药店板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891197789.html",
-     "pubDate": "Fri, 09 Oct 2026 14:33:26 +0800",
-     "summary": "&emsp;&emsp;10月9日14点33分， 线下药店 板块指数报3627.872点，涨幅达2%，成交11.77亿元，换手率1.64%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 华人健康 报15.19元，涨3.40%； 益丰药房 报24.21元，涨2.89%； 大参林 报18.83元，涨2.56%； 一心堂 报10.99元，涨2.23%； 老百姓 报13.54元，涨1.96%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月9日线下药店板块涨幅达2%"
-    },
-    {
-     "title": "10月9日最近多板板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891197213.html",
-     "pubDate": "Fri, 09 Oct 2026 14:33:16 +0800",
-     "summary": "&emsp;&emsp;10月9日14点33分， 最近多板 板块指数报2433.763点，涨幅达2%，成交622.09亿元，换手率7.85%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 力王股份 报23.00元，涨29.00%； 领湃科技 报28.90元，涨20.02%； 泰诺麦博-U 报30.25元，涨11.42%； 华北制药 报6.03元，涨10.04%； 九阳股份 报15.13元，涨10.04%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月9日最近多板板块涨幅达2%"
-    },
-    {
-     "title": "10月9日独家药品板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891197134.html",
-     "pubDate": "Fri, 09 Oct 2026 14:33:16 +0800",
-     "summary": "&emsp;&emsp;10月9日14点33分， 独家药品 板块指数报2411.206点，涨幅达2%，成交78.08亿元，换手率1.80%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 东诚药业 报13.89元，涨9.98%； 华邦健康 报4.56元，涨4.83%； 上海凯宝 报5.41元，涨4.64%； 新华制药 报14.79元，涨3.94%； 中恒集团 报2.25元，涨3.69%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月9日独家药品板块涨幅达2%"
-    },
-    {
-     "title": "10月9日中药概念板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891197034.html",
-     "pubDate": "Fri, 09 Oct 2026 14:33:16 +0800",
-     "summary": "&emsp;&emsp;10月9日14点33分， 中药概念 板块指数报2213.756点，涨幅达2%，成交309.39亿元，换手率2.41%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： ST万邦 报12.85元，涨10.02%； 众生药业 报25.49元，涨10.01%； 东诚药业 报13.89元，涨9.98%； 康农种业 报20.63元，涨7.00%； 金石亚药 报13.19元，涨6.29%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月9日中药概念板块涨幅达2%"
+     "title": "Apple cuts iPhone 18 Pro component orders by ~15% on chip costs: report",
+     "link": "https://seekingalpha.com/news/4651652-apple-cuts-iphone-18-pro-component-orders-by-15-on-chip-costs-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 02:38:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Apple cuts iPhone 18 Pro component orders by ~15% on chip costs: report"
     },
     {
      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
@@ -2393,14 +2353,6 @@
      "zh": "小米17 Ultra全系上调售价1000元"
     },
     {
-     "title": "Manus raises $500M after losing planned $2B-plus Meta deal",
-     "link": "https://seekingalpha.com/news/4651634-manus-raises-500m-after-losing-planned-2b-plus-meta-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 01:25:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Manus raises $500M after losing planned $2B-plus Meta deal"
-    },
-    {
      "title": "加大AI豪赌！软银拟向海湾地区投资者筹集1000亿美元",
      "link": "https://wallstreetcn.com/articles/3783251",
      "pubDate": "Fri, 09 Oct 2026 13:24:50 +0800",
@@ -2439,6 +2391,54 @@
      "summary": "The cost of credit default swaps for AI companies looking to borrow is rising",
      "source": "Financial Times",
      "zh": "Five ways to tell if market trouble lies ahead"
+    },
+    {
+     "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
+     "link": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 04:00:31 GMT",
+     "summary": "Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets",
+     "source": "Financial Times",
+     "zh": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says"
+    },
+    {
+     "title": "Manchester City: too big to fail?",
+     "link": "https://www.ft.com/content/bae7f43f-8954-45eb-a470-2cd7fb21a94b?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 04:00:22 GMT",
+     "summary": "The sport is still shaped by the club’s acquisition in 2008",
+     "source": "Financial Times",
+     "zh": "Manchester City: too big to fail?"
+    },
+    {
+     "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+     "link": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
+     "pubDate": "Fri, 09 Oct 2026 03:51:15 GMT",
+     "summary": "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.",
+     "source": "CNBC",
+     "zh": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility"
+    },
+    {
+     "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
+     "link": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
+     "pubDate": "Fri, 09 Oct 2026 02:52:15 GMT",
+     "summary": "Investors are overestimating the risk of conflict across the Taiwan Strait, a U.S. diplomat says, playing up deterrence to keep Beijing from taking the island.",
+     "source": "CNBC",
+     "zh": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk"
+    },
+    {
+     "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+     "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 00:52:00 GMT",
+     "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
+     "source": "MarketWatch",
+     "zh": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares"
+    },
+    {
+     "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+     "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 00:03:00 GMT",
+     "summary": "Seven tips for painlessly moving in retirement.",
+     "source": "MarketWatch",
+     "zh": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’"
     }
    ]
   },

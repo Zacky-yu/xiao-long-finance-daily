@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 01:51:54",
+ "generated_at": "2026/10/10 02:11:52",
  "recent_days": 7,
  "industries": [
   {
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Bluetti Na(Sodium) 900Wh power station at exclusive $665 low in Encore Sale, Anker solar multi-cam kits $310 off, Navee EVs, more",
+     "link": "https://electrek.co/2026/10/09/bluetti-nasodium-900wh-power-station-anker-solar-multi-cam-kits-navee-evs-more/",
+     "pubDate": "Fri, 09 Oct 2026 18:00:00 +0000",
+     "summary": "We’re closing out this week’s Green Deals led by the Bluetti Encore Sale that is completely switching up its power station deals, including bringing back the winter-ready 900Wh Pioneer Na(Sodium) Portable Power Station at an exclusive $665 low . Right behind that, we have three exclusive deals on An",
+     "source": "Electrek",
+     "zh": "Bluetti Na(Sodium) 900Wh power station at exclusive $665 low in Encore Sale, Anker solar multi-cam kits $310 off, Navee EVs, more"
+    },
+    {
      "title": "Kia’s 7-seat electric people mover just got a bit cheaper in the UK",
      "link": "https://electrek.co/2026/10/09/kias-7-seat-electric-people-mover-cheaper/",
      "pubDate": "Fri, 09 Oct 2026 17:07:52 +0000",
@@ -736,14 +744,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla has opened its first Semi Megacharger sites in the Southeast: an 8-stall station just south of Atlanta and a 6-stall station outside Savannah, each rated for up to 1.2 MW per stall. The Savannah site is also the first Megacharger at a Pilot truck stop, a rollout that was supposed to start this",
      "source": "Electrek",
      "zh": "Tesla opens 14 Semi Megacharger stalls between Atlanta and Savannah"
-    },
-    {
-     "title": "Geely confirms Canada entry with first cars in 2027 — but no models yet",
-     "link": "https://electrek.co/2026/10/09/geely-auto-canada-entry-2027/",
-     "pubDate": "Fri, 09 Oct 2026 13:08:31 +0000",
-     "summary": "Geely is coming to Canada. The Chinese automaker’s mainstream brand announced today that it has started setting up Canadian operations and recruiting a dealer network, with its first vehicles going on sale in 2027. What Geely isn’t saying is which vehicles. There are no models, no prices and no deal",
-     "source": "Electrek",
-     "zh": "Geely confirms Canada entry with first cars in 2027 — but no models yet"
     },
     {
      "title": "Geely's main brand announces entry into Canada, plans first models in 2027",
@@ -1666,12 +1666,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security"
     },
     {
-     "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
+     "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
      "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
      "pubDate": "Thu, 08 Oct 2026 20:39:44 GMT",
-     "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could've allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
+     "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
      "source": "Dark Reading",
-     "zh": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt"
+     "zh": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt"
     },
     {
      "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
@@ -1706,12 +1706,12 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "Scam American companies are using to manipulate ingredient gets listed first",
-     "link": "https://twitter.com/WallStreetApes/status/2108594998656807078",
-     "pubDate": "Fri, 09 Oct 2026 17:35:40 +0000",
-     "summary": "Article URL: https://twitter.com/WallStreetApes/status/2108594998656807078 Comments URL: https://news.ycombinator.com/item?id=50023995 Points: 3 # Comments: 0",
+     "title": "I'm still around.. I'm just not writing here",
+     "link": "https://rachelbythebay.com/w/2026/10/08/idle/",
+     "pubDate": "Fri, 09 Oct 2026 17:43:27 +0000",
+     "summary": "Article URL: https://rachelbythebay.com/w/2026/10/08/idle/ Comments URL: https://news.ycombinator.com/item?id=50024108 Points: 21 # Comments: 3",
      "source": "Hacker News",
-     "zh": "Scam American companies are using to manipulate ingredient gets listed first"
+     "zh": "I'm still around.. I'm just not writing here"
     },
     {
      "title": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)",
@@ -1738,28 +1738,12 @@ window.INDUSTRY_DATA = {
      "zh": "2026.41: It’s Not You, It’s Me"
     },
     {
-     "title": "Before Computer Science Became a Boys' Club, Margaret Hamilton Wrote the Code",
-     "link": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html",
-     "pubDate": "Fri, 09 Oct 2026 16:55:47 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html Comments URL: https://news.ycombinator.com/item?id=50023350 Points: 7 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Before Computer Science Became a Boys' Club, Margaret Hamilton Wrote the Code"
-    },
-    {
      "title": "Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally (Davis Giangiulio/CNBC)",
      "link": "https://www.techmeme.com/261009/p19#a261009p19",
      "pubDate": "Fri, 09 Oct 2026 12:55:02 -0400",
      "summary": "Davis Giangiulio / CNBC : Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally &nbsp; &mdash;&nbsp; Blockchain.com, a digital asset platform, wants to get in on the prediction market boom in th",
      "source": "Techmeme",
      "zh": "Blockchain.com seeks CFTC approval to offer event contracts and cryptocurrency derivatives in the US; it already offers some prediction markets internationally (Davis Giangiulio/CNBC)"
-    },
-    {
-     "title": "Tomek Korbak: OpenAI's head of safety told they no longer trust me",
-     "link": "https://twitter.com/tomekkorbak/status/2108266859397283953",
-     "pubDate": "Fri, 09 Oct 2026 16:52:20 +0000",
-     "summary": "Article URL: https://twitter.com/tomekkorbak/status/2108266859397283953 Comments URL: https://news.ycombinator.com/item?id=50023293 Points: 39 # Comments: 15",
-     "source": "Hacker News",
-     "zh": "Tomek Korbak: OpenAI's head of safety told they no longer trust me"
     },
     {
      "title": "Tesla renames Full Self-Driving to Tesla Assisted Driving in Europe after pushback from Germany, whose transport minister will now back its EU-wide approval (Sean O&apos;Kane/TechCrunch)",
@@ -1816,6 +1800,14 @@ window.INDUSTRY_DATA = {
      "summary": "Orkut's founder is now taking aim at algorithms and AI-generated content.",
      "source": "TechCrunch",
      "zh": "Remember Orkut? Its founder wants to bring it back"
+    },
+    {
+     "title": "Triple-A Minesweeper",
+     "link": "https://minesweeper.mikelacher.com/",
+     "pubDate": "Fri, 09 Oct 2026 15:51:05 +0000",
+     "summary": "Article URL: https://minesweeper.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50022292 Points: 8 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Triple-A Minesweeper"
     },
     {
      "title": "东风猛士・猛 8 越野旅居车亮相：6.7L 电控增压柴油发动机，生活系统一应俱全",
@@ -1885,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
      "link": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
      "pubDate": "Fri, 09 Oct 2026 15:05:24 +0000",
-     "summary": "Article URL: https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands Comments URL: https://news.ycombinator.com/item?id=50021540 Points: 109 # Comments: 53",
+     "summary": "Article URL: https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands Comments URL: https://news.ycombinator.com/item?id=50021540 Points: 115 # Comments: 56",
      "source": "Hacker News",
      "zh": "Germany transforms former coal mines into Europe's largest lake landscape"
     },
@@ -1925,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Python 3.15",
      "link": "https://www.python.org/downloads/release/python-3150/",
      "pubDate": "Fri, 09 Oct 2026 14:35:42 +0000",
-     "summary": "Article URL: https://www.python.org/downloads/release/python-3150/ Comments URL: https://news.ycombinator.com/item?id=50021127 Points: 213 # Comments: 40",
+     "summary": "Article URL: https://www.python.org/downloads/release/python-3150/ Comments URL: https://news.ycombinator.com/item?id=50021127 Points: 219 # Comments: 41",
      "source": "Hacker News",
      "zh": "Python 3.15"
     },
@@ -1941,9 +1933,17 @@ window.INDUSTRY_DATA = {
      "title": "Our $445M Series D",
      "link": "https://oxide.computer/blog/our-445m-series-d",
      "pubDate": "Fri, 09 Oct 2026 13:12:47 +0000",
-     "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 376 # Comments: 151",
+     "summary": "Article URL: https://oxide.computer/blog/our-445m-series-d Comments URL: https://news.ycombinator.com/item?id=50020014 Points: 384 # Comments: 159",
      "source": "Hacker News",
      "zh": "Our $445M Series D"
+    },
+    {
+     "title": "控股股东提议换届、董事长带头反对，硕世生物“钱权分离”架构下控制权纷争再升级",
+     "link": "https://www.tmtpost.com/8157820.html",
+     "pubDate": "Fri, 09 Oct 2026 21:09:49 +0800",
+     "summary": "围绕印章效力、控股股东主体存续风险、上市公司治理稳定性等多重争议，一场关乎董事会席位的博弈持续发酵。",
+     "source": "钛媒体",
+     "zh": "控股股东提议换届、董事长带头反对，硕世生物“钱权分离”架构下控制权纷争再升级"
     }
    ]
   },
@@ -1953,6 +1953,38 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Garmin’s Fenix 9 Pro has GPS problems and app devs are frustrated",
+     "link": "https://www.androidauthority.com/garmin-fenix-9-pro-gps-issue-3721441/",
+     "pubDate": "Fri, 09 Oct 2026 18:01:13 +0000",
+     "summary": "Are your Fenix 9 Pro apps dropping GPS? Devs are pointing a finger at Garmin.",
+     "source": "Android Authority",
+     "zh": "Garmin’s Fenix 9 Pro has GPS problems and app devs are frustrated"
+    },
+    {
+     "title": "SpaceX buys spectrum for Starlink to become a full-fledged US mobile carrier",
+     "link": "https://www.gsmarena.com/spacex_buys_spectrum_for_starlink_to_become_a_fullfledged_us_mobile_carrier-news-74982.php",
+     "pubDate": "Fri, 09 Oct 2026 20:01:02 +0200",
+     "summary": "Elon Musk’s SpaceX has just acquired up to 14MHz of paired spectrum in the 800MHz band nationwide in the US, from Grain Management. Musk says this is \"the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America\". So the aim here is clear. Use Starli",
+     "source": "GSMArena",
+     "zh": "SpaceX buys spectrum for Starlink to become a full-fledged US mobile carrier"
+    },
+    {
+     "title": "Bose Lifestyle Ultra Soundbar review: A great home theater option all by itself",
+     "link": "https://www.engadget.com/2282487/bose-lifestyle-ultra-soundbar-review/",
+     "pubDate": "Fri, 09 Oct 2026 18:00:00 +0000",
+     "summary": "Bose's latest soundbar pulls double duty as both a TV and music speaker. Plus, it doesn't need a separate subwoofer for adequate bass.",
+     "source": "Engadget",
+     "zh": "Bose Lifestyle Ultra Soundbar review: A great home theater option all by itself"
+    },
+    {
+     "title": "Starlink Mobile’s latest move could spell trouble for the big three carriers",
+     "link": "https://www.androidauthority.com/spacex-starlink-mobile-8-billion-spectrum-deal-3721430/",
+     "pubDate": "Fri, 09 Oct 2026 17:58:33 +0000",
+     "summary": "SpaceX is acquiring low-band spectrum to improve Starlink Mobile's indoor coverage.",
+     "source": "Android Authority",
+     "zh": "Starlink Mobile’s latest move could spell trouble for the big three carriers"
+    },
     {
      "title": "Grok Bot just got its own email address, here’s how to claim yours",
      "link": "https://9to5mac.com/2026/10/09/grok-bot-just-got-its-own-email-address-heres-how-to-claim-yours/",
@@ -2034,14 +2066,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple ‘Welcome home’ event: Three new products are coming next week"
     },
     {
-     "title": "Amazon cuts 24% off the XGIMI MoGo 4 bundle for the first time",
-     "link": "https://www.androidauthority.com/xgimi-mogo-4-bundle-deal-3721448/",
-     "pubDate": "Fri, 09 Oct 2026 15:56:38 +0000",
-     "summary": "The XGIMI MoGo 4 with PowerBase Stand drops to a record-low $417, with 1080p streaming and up to 5 hours of battery life.",
-     "source": "Android Authority",
-     "zh": "Amazon cuts 24% off the XGIMI MoGo 4 bundle for the first time"
-    },
-    {
      "title": "Googlebook’s hidden ‘Glowbar Disco’ turns your laptop’s lid into a light show — how to find it",
      "link": "https://9to5google.com/2026/10/09/googlebook-glowbar-disco-app/",
      "pubDate": "Fri, 09 Oct 2026 15:55:00 +0000",
@@ -2056,14 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Alongside Amazon’s Android Alexa Tablets starting at $230, the ongoing Pixel 11 Pro models at nearly $400 off ( Canyon and Olive ), and Galaxy Z Fold 8 at over $570 off for the 256GB and over $600 off for the 512GB ( more details here ), we have some fresh discounts to scope out today. Folks interes",
      "source": "9to5Google",
      "zh": "Deals: Galaxy S26/Ultra up to $510 off, Lenovo IdeaPad 2K touchscreen laptop $250 off, Anker chargers, more"
-    },
-    {
-     "title": "It’s official: Google sets the date for Pixel Watches losing Safety Signal",
-     "link": "https://www.androidauthority.com/google-pixel-watch-2-3-lte-safety-signal-end-of-support-3721392/",
-     "pubDate": "Fri, 09 Oct 2026 15:48:21 +0000",
-     "summary": "Mark your calendars for Dec 12, 2026.",
-     "source": "Android Authority",
-     "zh": "It’s official: Google sets the date for Pixel Watches losing Safety Signal"
     },
     {
      "title": "Deals: AirPods Max 2 $120 off, Mac mini, MacBook Air, Magic Mouse 25% off, Nomad iPhone 18 Pro cases, more",
@@ -2162,28 +2178,12 @@ window.INDUSTRY_DATA = {
      "zh": "OnePlus 15 receives ColorOS 17 Open Beta just days before the official OS launch"
     },
     {
-     "title": "Netflix releases trailer for its miniseries about Sam Bankman-Fried's scandal-ridden crypto exchange",
-     "link": "https://www.engadget.com/2281997/netflix-the-altruists-sam-bankman-fried-trailer/",
-     "pubDate": "Fri, 09 Oct 2026 10:54:19 +0000",
-     "summary": "Watch the trailer for Netflix's The Altruists, a mini-series about the rise and fall of cryptocurrency exchange FTX.",
-     "source": "Engadget",
-     "zh": "Netflix releases trailer for its miniseries about Sam Bankman-Fried's scandal-ridden crypto exchange"
-    },
-    {
      "title": "本周看什么 | 最近值得一看的 11 部作品",
      "link": "https://sspai.com/post/115566",
      "pubDate": "Fri, 09 Oct 2026 18:04:09 +0800",
      "summary": "📅本周新预告《寒夜怪谈》新预告10月1日，电影《寒夜怪谈》发布了新预告，将于11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ... 查看全文",
      "source": "少数派",
      "zh": "本周看什么 | 最近值得一看的 11 部作品"
-    },
-    {
-     "title": "OnePlus 16 display specs confirmed",
-     "link": "https://www.gsmarena.com/oneplus_16_display_specs_confirmed-news-74972.php",
-     "pubDate": "Fri, 09 Oct 2026 11:58:01 +0200",
-     "summary": "The OnePlus 16 is going official next week and ahead of the big unveiling, the brand revealed more key info for the upcoming flagship. The phone will be equipped with a BOE X4 LTPO OLED display. The panel is set to bring 1.5K resolution and up to 185Hz refresh rate, though the max 185Hz will only be",
-     "source": "GSMArena",
-     "zh": "OnePlus 16 display specs confirmed"
     },
     {
      "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
@@ -2201,6 +2201,94 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Microsoft is nearing a big milestone that solidifies its revival",
+     "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 18:06:00 GMT",
+     "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
+     "source": "MarketWatch",
+     "zh": "Microsoft is nearing a big milestone that solidifies its revival"
+    },
+    {
+     "title": "Hedge funds cut Bitcoin, brokerages load up in Q2: CoinShares report",
+     "link": "https://seekingalpha.com/news/4651832-hedge-funds-cut-bitcoin-brokerages-load-up-in-q2-coinshares-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 14:04:01 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hedge funds cut Bitcoin, brokerages load up in Q2: CoinShares report"
+    },
+    {
+     "title": "Why you need to take a closer look at your favorite stock index",
+     "link": "https://www.marketwatch.com/story/why-you-need-to-take-a-closer-look-at-your-favorite-stock-index-479fb494?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 18:04:00 GMT",
+     "summary": "Also in Weekend Reads: A positive case for the bond market, how prediction markets can pull you in, and a warning to those who benefit from GLP-1s.",
+     "source": "MarketWatch",
+     "zh": "Why you need to take a closer look at your favorite stock index"
+    },
+    {
+     "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+     "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 18:00:00 GMT",
+     "summary": "“Both properties will be solely in his name.”",
+     "source": "MarketWatch",
+     "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
+    },
+    {
+     "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+     "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 18:00:00 GMT",
+     "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+     "source": "MarketWatch",
+     "zh": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?"
+    },
+    {
+     "title": "Trump appoints committee to investigate statements by the Fed&apos;s Lisa Cook",
+     "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+     "pubDate": "Fri, 09 Oct 2026 17:56:24 GMT",
+     "summary": "Trump tried to fire Cook, a nominee of former President Joe Biden, but the Supreme Court blocked his first attempt.",
+     "source": "CNBC",
+     "zh": "Trump appoints committee to investigate statements by the Fed&apos;s Lisa Cook"
+    },
+    {
+     "title": "美国家庭债务问题拉响警报！偿债能力持续恶化 近两成出现贷款逾期",
+     "link": "http://finance.eastmoney.com/news/1346,202610103891616344.html",
+     "pubDate": "Sat, 10 Oct 2026 01:56:03 +0800",
+     "summary": "财联社10月10日讯 美联储当地时间周五公布的报告显示，过去三年(2022年至2025年间)，美国居民按时偿还债务的能力持续恶化，相关指标降至全球金融危机后不久以来的最差水平。 美联储在《消费者财务状况调查》中发现，尽管美国家庭之间的财富差距有所收窄，但其偿还债务的能力却明显下降。 报告指出：“自2010年开展的调查以来，美国家庭未能按时履行财务义务的情况从未如此严重。” 这份每三年发布一次的报告涵盖大量家庭财务数据，旨在全面反映美国家庭的财务健康状况。此次调查主要于去年4月至5月进行。 2010年，美国经济刚刚开始走出后来被称为“大衰退”的经济衰退期。这场衰退从2007年12月持续至2009",
+     "source": "东方财富股票",
+     "zh": "美国家庭债务问题拉响警报！偿债能力持续恶化 近两成出现贷款逾期"
+    },
+    {
+     "title": "阿联酋检方通报迪拜航空客机恐袭图谋 副驾驶策划自杀式袭击",
+     "link": "http://finance.eastmoney.com/news/11790,202610103891616226.html",
+     "pubDate": "Sat, 10 Oct 2026 01:55:02 +0800",
+     "summary": "阿联酋联邦总检察长介绍迪拜航空FZ1073航班事件调查情况。经查，该航班一名29岁的阿曼籍副机长涉嫌事先策划并实施一项具有恐怖主义目的的行动，企图劫持客机实施自杀式袭击，目标为以色列特拉维夫本·古里安国际 机场 旅客航站楼，意图制造大规模人员伤亡。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "阿联酋检方通报迪拜航空客机恐袭图谋 副驾驶策划自杀式袭击"
+    },
+    {
+     "title": "Trump ramps up battle to fire Fed’s Lisa Cook. Her lawyers say there’s no basis to remove her.",
+     "link": "https://www.marketwatch.com/story/trump-ramps-up-battle-to-fire-feds-lisa-cook-her-lawyers-say-theres-no-basis-to-remove-her-3a62c5cd?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 17:50:00 GMT",
+     "summary": "Trump wants the committee to report on whether there are grounds for Cook’s removal from office. She hasn’t been charged with a crime.",
+     "source": "MarketWatch",
+     "zh": "Trump ramps up battle to fire Fed’s Lisa Cook. Her lawyers say there’s no basis to remove her."
+    },
+    {
+     "title": "委内瑞拉授予SpaceX卫星互联网特许权",
+     "link": "http://finance.eastmoney.com/news/1360,202610103891616122.html",
+     "pubDate": "Sat, 10 Oct 2026 01:49:58 +0800",
+     "summary": "委内瑞拉授予 SpaceX 卫星互联网 特许权。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "委内瑞拉授予SpaceX卫星互联网特许权"
+    },
+    {
+     "title": "低端产能加速出清 水泥行业市场集中度进一步提升",
+     "link": "http://finance.eastmoney.com/news/1355,202610103891607729.html",
+     "pubDate": "Sat, 10 Oct 2026 01:47:44 +0800",
+     "summary": "房地产 、基建投资持续走弱，令 水泥 行业进入深度调整期。当前行业亏损面已达60%，大量中小 水泥 企业陷入价格倒挂、库存高企、回款不畅的经营困局。据不完全统计，今年已有20余家 水泥 及粉磨企业进入破产相关程序，中小主体债务风险集中暴露，并向上游产业链传导。 业内人士判断，短期行业回款与坏账环境难以根本性好转，仅存在局部小幅修复空间。在错峰生产、超低排放改造、碳约束等多重政策叠加下，中小落后产能加速出清，行业整合将以并购为主、破产清算为辅，市场集中度持续向龙头聚拢。 产业链风险向上游蔓延 水泥行业需求持续收缩、供给过剩、价格反复探底，行业利润一路下行。 据中国水泥网不完全统计，今年以来，全国",
+     "source": "东方财富股票",
+     "zh": "低端产能加速出清 水泥行业市场集中度进一步提升"
+    },
     {
      "title": "Astera Labs, Salesforce among IT stocks with A+ EPS revision grades",
      "link": "https://seekingalpha.com/news/4651837-astera-labs-salesforce-among-it-stocks-with-a-eps-revision-grades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2221,7 +2309,7 @@ window.INDUSTRY_DATA = {
      "title": "美联储理事库克面临新考验 特朗普新设委员会调查房贷欺诈指控",
      "link": "http://finance.eastmoney.com/news/1346,202610103891616067.html",
      "pubDate": "Sat, 10 Oct 2026 01:33:00 +0800",
-     "summary": "财联社10月10日讯 美国总统特朗普正着手成立一个委员会，调查美联储理事丽莎·库克（Lisa Cook）涉嫌房贷欺诈的指控，并要求她出席白宫听证会自辩。 白宫公布了一份特朗普于周三签署的备忘录，宣布成立该委员会。特朗普在备忘录中表示：“作为总统，我有责任确保法律得到忠实执行，包括解雇那些不值得信任、无法如实陈述事实并遵守法律的下属。” 他表示，该委员会将调查是否存在足够的“正当理由”将库克免职。特朗普在备忘录中要求库克于11月5日出席白宫听证会，届时委员会将能够“审议针对她的证据和指控”。 特朗普表示，该委员会将包括白宫国家经济委员会主任凯文·哈西特（Kevin Hassett），以及美国平等",
+     "summary": "美国总统特朗普正着手成立一个委员会，调查美联储理事丽莎·库克（Lisa Cook）涉嫌房贷欺诈的指控，并要求她出席白宫听证会自辩。 白宫公布了一份特朗普于周三签署的备忘录，宣布成立该委员会。特朗普在备忘录中表示：“作为总统，我有责任确保法律得到忠实执行，包括解雇那些不值得信任、无法如实陈述事实并遵守法律的下属。” 他表示，该委员会将调查是否存在足够的“正当理由”将库克免职。特朗普在备忘录中要求库克于11月5日出席白宫听证会，届时委员会将能够“审议针对她的证据和指控”。 特朗普表示，该委员会将包括白宫国家经济委员会主任凯文·哈西特（Kevin Hassett），以及美国平等就业机会委员会主席和政",
      "source": "东方财富股票",
      "zh": "美联储理事库克面临新考验 特朗普新设委员会调查房贷欺诈指控"
     },
@@ -2232,38 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "周五（10月9日）欧市尾盘，法国10年期国债收益率跌4.2个基点，报4.853%，跳空低开之后呈现出W形走势，本周累跌1.7个基点，10月5-8日走出V形反转行情。两年期法债收益率累跌9.5个基点，报3.643%，10月5-6日持续下跌，随后低位震荡；30年期法债收益率累跌2.0个基点，报5.410%。意大利10年期国债收益率跌3.0个基点，报4.572%，本周累跌3.3个基点；两年期意债收益率累跌5.9个基点，30年期意债收益率累涨2.2个基点。西班牙10年期国债收益率累涨0.9个基点，报4.095%，10月8日曾达到4.2%。希腊10年期国债收益率累跌6.1个基点，报4.415%。 （文章",
      "source": "东方财富股票",
      "zh": "10年期法债收益率周五跌超4个基点 本周两年期法债收益率跌超9个基点"
-    },
-    {
-     "title": "特朗普在贸易谈判中向墨西哥施压 要求达成能源协议",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891615866.html",
-     "pubDate": "Sat, 10 Oct 2026 01:30:54 +0800",
-     "summary": "特朗普在贸易谈判中向墨西哥施压，要求达成能源协议。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普在贸易谈判中向墨西哥施压 要求达成能源协议"
-    },
-    {
-     "title": "万斯谈驻希腊大使：如果表现不佳 将承担后果",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891615771.html",
-     "pubDate": "Sat, 10 Oct 2026 01:29:43 +0800",
-     "summary": "万斯谈驻希腊大使：如果表现不佳，将承担后果。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "万斯谈驻希腊大使：如果表现不佳 将承担后果"
-    },
-    {
-     "title": "胡塞武装称 过去24小时内沙特战机对民用设施实施了77次空袭和导弹袭击",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891615615.html",
-     "pubDate": "Sat, 10 Oct 2026 01:29:41 +0800",
-     "summary": "胡塞武装称，过去24小时内，沙特战机对首都萨那以及马里卜、萨达、焦夫、哈杰、塔伊兹和奥姆兰等省份的民用设施实施了77次空袭和导弹袭击，出动从哈立德国王和塔伊夫空军基地起飞的F-15和台风战机，并从奈季兰发动导弹袭击。自对我方升级侵略以来，沙特侵略空袭和导弹袭击总数已达1934次。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "胡塞武装称 过去24小时内沙特战机对民用设施实施了77次空袭和导弹袭击"
-    },
-    {
-     "title": "市场消息：美国总统特朗普扩大牛肉进口未能明显压低价格 引发牧场主不满",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891615553.html",
-     "pubDate": "Sat, 10 Oct 2026 01:29:40 +0800",
-     "summary": "市场消息：美国总统特朗普扩大牛肉进口未能明显压低价格，引发牧场主不满。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "市场消息：美国总统特朗普扩大牛肉进口未能明显压低价格 引发牧场主不满"
     },
     {
      "title": "Visa set to continue gains for seven straight sessions; up nearly 2.5%",
@@ -2370,54 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries"
     },
     {
-     "title": "Jefferies fined $650K over deficient electronic blue sheets reporting",
-     "link": "https://seekingalpha.com/news/4651828-jefferies-fined-650k-over-deficient-electronic-blue-sheets-reporting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 13:06:04 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Jefferies fined $650K over deficient electronic blue sheets reporting"
-    },
-    {
-     "title": "More evidence that broad-market index funds remain unbeatable, even in the era of AI stock-picking",
-     "link": "https://www.marketwatch.com/story/more-evidence-that-broad-market-index-funds-remain-unbeatable-even-in-the-era-of-ai-stock-picking-3c61deac?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 16:50:00 GMT",
-     "summary": "Even with the rising use of AI, picking market-beating stocks has not become any easier this year, a new report finds.",
-     "source": "MarketWatch",
-     "zh": "More evidence that broad-market index funds remain unbeatable, even in the era of AI stock-picking"
-    },
-    {
-     "title": "Elon Musk is now richer than any American ever — and it’s not even close",
-     "link": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 16:43:00 GMT",
-     "summary": "Musk’s trillioniare status means he’s wealthier than his next three contemporaries combined — and also worth more than historical tycoons like John D. Rockefeller.",
-     "source": "MarketWatch",
-     "zh": "Elon Musk is now richer than any American ever — and it’s not even close"
-    },
-    {
-     "title": "Flu season is already here. Here’s what to know about this year’s flu shots.",
-     "link": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 16:31:00 GMT",
-     "summary": "This year’s flu season has arrived about seven weeks earlier than in 2025 or 2024.",
-     "source": "MarketWatch",
-     "zh": "Flu season is already here. Here’s what to know about this year’s flu shots."
-    },
-    {
-     "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-     "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 16:30:00 GMT",
-     "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-     "source": "MarketWatch",
-     "zh": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children."
-    },
-    {
-     "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
-     "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 16:22:00 GMT",
-     "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
-     "source": "MarketWatch",
-     "zh": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most."
-    },
-    {
      "title": "Trump and Hegseth’s execution-type deal",
      "link": "https://www.ft.com/content/39764d10-6b87-4103-8e7d-290a72a5ea5a?syn-25a6b1a6=1",
      "pubDate": "Fri, 09 Oct 2026 16:18:01 GMT",
@@ -2432,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
      "source": "CNBC",
      "zh": "Americans&apos; debt problems are flashing a warning not seen since the Great Recession"
-    },
-    {
-     "title": "Trump appoints committee to investigate statements by the Fed&apos;s Lisa Cook",
-     "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-     "pubDate": "Fri, 09 Oct 2026 16:10:02 GMT",
-     "summary": "Trump tried to fire Cook, a nominee of former President Joe Biden, but the Supreme Court blocked his first attempt.",
-     "source": "CNBC",
-     "zh": "Trump appoints committee to investigate statements by the Fed&apos;s Lisa Cook"
     }
    ]
   },

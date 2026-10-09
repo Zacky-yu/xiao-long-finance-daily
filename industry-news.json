@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/9 13:51:55",
+ "generated_at": "2026/10/9 14:11:49",
  "recent_days": 7,
  "industries": [
   {
@@ -8,14 +8,6 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
-     "link": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
-     "pubDate": "Fri, 09 Oct 2026 05:06:17 +0000",
-     "summary": "Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents. The post Google Research RRSI Guide: Mastering Self-Improving AI Agents appeared f",
-     "source": "MarkTechPost",
-     "zh": "Google Research RRSI Guide: Mastering Self-Improving AI Agents"
-    },
     {
      "title": "GPT-6.1 Sol极速版快8倍，但依然口碑秒崩？“变相涨价”被网友怒喷",
      "link": "https://zhidx.com/p/599323.html",
@@ -247,6 +239,14 @@
      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
      "source": "OpenAI",
      "zh": "Pollo AI turns creative ideas into campaigns with OpenAI"
+    },
+    {
+     "title": "LegalOn halves Codex costs while maintaining development speed",
+     "link": "https://openai.com/index/legalon-halves-codex-costs",
+     "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
+     "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+     "source": "OpenAI",
+     "zh": "LegalOn halves Codex costs while maintaining development speed"
     }
    ]
   },
@@ -256,6 +256,46 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Qualcomm vs Arm (Day 4)",
+     "link": "https://www.electronicsweekly.com/news/business/qualcomm-vs-arm-day-4-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 05:17:49 +0000",
+     "summary": "Today, the Arm vs Qualcomm legal case in Delaware concludes and the judge and jury should give their rulings. Yesterday, Day 4 of the case, saw a wrapping up of […] The post Qualcomm vs Arm (Day 4) appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Qualcomm vs Arm (Day 4)"
+    },
+    {
+     "title": "ASML starts on Hyper NA EUV",
+     "link": "https://www.electronicsweekly.com/news/business/asml-starts-on-hyper-na-euv-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 05:16:36 +0000",
+     "summary": "ASML has begun a ten year programme to get feature sizes down to 5nm from the 8nm which high NA tools can deliver. The 5nm litho tool is dubbed Hyper […] The post ASML starts on Hyper NA EUV appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "ASML starts on Hyper NA EUV"
+    },
+    {
+     "title": "TSMC September revenue up 54% YoY",
+     "link": "https://www.electronicsweekly.com/news/business/tsmc-september-revenue-up-54-yoy-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 05:12:21 +0000",
+     "summary": "TSMC had September revenue of $16.1 billion, a decrease of 0.6% from August 2026 and an increase of 54.6% from September 2025. Revenue for January through September 2026 totalled $122 billion, an increase of 41.1% compared […] The post TSMC September revenue up 54% YoY appeared first on Electronics ",
+     "source": "Electronics Weekly",
+     "zh": "TSMC September revenue up 54% YoY"
+    },
+    {
+     "title": "Globalfoundries to make silicon interposers for TSMC",
+     "link": "https://www.electronicsweekly.com/news/business/globalfoundries-to-make-interposers-for-tsmc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 05:10:11 +0000",
+     "summary": "GlobalFoundries is to establish a U.S.-based supply of silicon interposers for TSMC’s CoWoS packaging ecosystem. Under the agreement, GF will provide manufacturing service to TSMC, and add fabrication capacity at […] The post Globalfoundries to make silicon interposers for TSMC appeared first on Ele",
+     "source": "Electronics Weekly",
+     "zh": "Globalfoundries to make silicon interposers for TSMC"
+    },
+    {
+     "title": "Astute signs Samwha Capacitor",
+     "link": "https://www.electronicsweekly.com/news/business/astute-signs-samwha-capacitor-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 05:05:28 +0000",
+     "summary": "Astute Group has signed a franchise distribution agreement with Samwha Capacitor Group, adding Samwha’s range of capacitors, energy storage components, ferrite products, inductors and transformer technologies to its portfolio. The […] The post Astute signs Samwha Capacitor appeared first on Electron",
+     "source": "Electronics Weekly",
+     "zh": "Astute signs Samwha Capacitor"
+    },
     {
      "title": "MediaTek 3Q26 revenue beats forecast, maintains peak-season momentum",
      "link": "https://www.digitimes.com/news/a20261008PD255/mediatek-revenue-forecast-2026-growth.html",
@@ -329,14 +369,6 @@
      "zh": "Data Center Energy Trends Force a Rethink of Chip Power Delivery"
     },
     {
-     "title": "Universal Quantum raises $100m for trapped-ion quantum computing",
-     "link": "https://www.electronicsweekly.com/uk-region/universal-quantum-raises-100m-for-trapped-ion-quantum-computing-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 15:02:47 +0000",
-     "summary": "Universal Quantum, the UK and German quantum computing startup, has secured $100 million in Series A funding. The company notes it is the largest Series A ever raised by a […] The post Universal Quantum raises $100m for trapped-ion quantum computing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Universal Quantum raises $100m for trapped-ion quantum computing"
-    },
-    {
      "title": "WEBINAR: The Convergence of Edge Accelerators",
      "link": "https://semiwiki.com/ip/imagination-technologies/374484-webinar-the-convergence-of-edge-accelerators/",
      "pubDate": "Thu, 08 Oct 2026 15:00:08 +0000",
@@ -369,22 +401,6 @@
      "zh": "NVIDIA Jetson to SiMa.ai Modalix MLSoC Migration Guide"
     },
     {
-     "title": "Powell supplies low-force 15-pin connectors from Planetary Systems",
-     "link": "https://www.electronicsweekly.com/news/products/connectors/powell-supplies-low-force-15-pin-connectors-from-planetary-systems-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 13:57:35 +0000",
-     "summary": "Powell Electronics is supplying a low-force 15-pin connector pair from Planetary Systems for signal transfers in spaceflight applications. The pair – 4000106C for the lower separation connector and 4000107C for […] The post Powell supplies low-force 15-pin connectors from Planetary Systems appeared ",
-     "source": "Electronics Weekly",
-     "zh": "Powell supplies low-force 15-pin connectors from Planetary Systems"
-    },
-    {
-     "title": "Fable: The Guy Who Focussed",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-guy-who-focussed-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 13:15:50 +0000",
-     "summary": "There was once a sprawling corporate which was bleeding to death. It lost $5.7 billion one year on top of the $3.1 billion it had lost the previous year. Then a […] The post Fable: The Guy Who Focussed appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Fable: The Guy Who Focussed"
-    },
-    {
      "title": "The silent killer of analog reliability: Why SPICE misses floating net",
      "link": "https://semiwiki.com/eda/siemens-eda/374257-the-silent-killer-of-analog-reliability-why-spice-misses-floating-net/",
      "pubDate": "Thu, 08 Oct 2026 13:00:35 +0000",
@@ -407,22 +423,6 @@
      "summary": "Register now for our webinar to discover how Navitas 2.0 is revolutionizing AI infrastructure power delivery. The post Breaking the AI Infrastructure Power Wall: From Grid to xPU appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Breaking the AI Infrastructure Power Wall: From Grid to xPU"
-    },
-    {
-     "title": "Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/pic-of-the-day-googles-project-suncatcher-datacentre-satellite-in-orbit-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 11:24:24 +0000",
-     "summary": "Check out the launch of Google's Project Suncatcher prototype datacentre satellite, with its Trillium TPUs (Tensor Processing Units). It's courtesy of SpaceX's Transporter-18 rideshare mission. The post Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit appeared first on Elect",
-     "source": "Electronics Weekly",
-     "zh": "Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit"
-    },
-    {
-     "title": "Connectivity challenges evolve as systems move into higher-frequency operation",
-     "link": "https://www.electronicsweekly.com/news/business/connectivity-challenges-evolve-as-systems-move-into-higher-frequency-operation-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 11:00:22 +0000",
-     "summary": "As the communications network moves into the millimetre-wave spectrum connectivity becomes a larger challenge, writes Dr Tudor Williams. As satellite constellations expand 5G infrastructure becomes more densely deployed and defence […] The post Connectivity challenges evolve as systems move into hig",
-     "source": "Electronics Weekly",
-     "zh": "Connectivity challenges evolve as systems move into higher-frequency operation"
     },
     {
      "title": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War",
@@ -657,6 +657,14 @@
    "total": 5,
    "items": [
     {
+     "title": "BYD humanoid robot design emerges as formal debut remains pending",
+     "link": "https://cnevpost.com/2026/10/09/byd-humanoid-robot-design-emerges/",
+     "pubDate": "Fri, 09 Oct 2026 05:59:16 +0000",
+     "summary": "Patent images show a bipedal humanoid robot designed for service, education and industrial applications. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "BYD humanoid robot design emerges as formal debut remains pending"
+    },
+    {
      "title": "Li Auto to launch 2026 Li i6 on October 28, deliveries to start in early November",
      "link": "https://cnevpost.com/2026/10/09/li-auto-launch-2026-li-i6-oct-28/",
      "pubDate": "Fri, 09 Oct 2026 03:18:48 +0000",
@@ -807,14 +815,6 @@
      "summary": "The 5-seat, all-wheel-drive BYD Ti 7 is priced at about $43,340 in Uzbekistan and features DM-p hybrid technology. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "BYD launches Fang Cheng Bao Tai 7 in Uzbekistan as BYD Ti 7"
-    },
-    {
-     "title": "Xiaomi Sky Nomad tops 70,000 locked-in orders, bolstering EREV push",
-     "link": "https://cnevpost.com/2026/10/08/xiaomi-sky-nomad-70000-locked-in-orders/",
-     "pubDate": "Thu, 08 Oct 2026 09:58:56 +0000",
-     "summary": "The Sky Nomad lineup secured more than 70,000 locked-in orders in its first month, providing demand support for Xiaomi's first foray into the extended-range EV market. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Xiaomi Sky Nomad tops 70,000 locked-in orders, bolstering EREV push"
     },
     {
      "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
@@ -1705,20 +1705,52 @@
    "total": 18,
    "items": [
     {
-     "title": "VGN 推出魔竞入耳式电竞 HiFi 耳机：单耳重 3.79g、10mm 双磁双腔动圈，399 元",
-     "link": "https://www.ithome.com/1/010/916.htm",
-     "pubDate": "Fri, 09 Oct 2026 05:48:31 GMT",
-     "summary": "IT之家 10 月 9 日消息，VGN 昨日推出魔竞入耳式电竞 HiFi 耳机，现已开始预约，将于 10 月 20 日开售， 售价 399 元 。 这款耳机 单耳重量 3.79g ，提供芭比粉、薄荷绿、云朵白、天霸限定四款配色可选，搭配同色系原装收纳盒；搭配自适应耳廓曲线设计，优化 30° 入耳角度，长时间佩戴无压力，牢固不掉。 这款耳机搭载 10mm 双磁双腔动圈单元 ，采用 DLC 类钻石碳振膜，可覆盖 20-20KHz 全频响范围，在 1kHz 下谐波失真 ≤0.05%；预设三种 EQ 模式（音乐模式、三角洲行动模式、无畏契约模式），还支持玩家自定义。 据介绍，这款耳机内置“旗舰级”声卡",
+     "title": "消息称三星近期预计 2026Q4 智能手机产量 2420 万台，下滑 23%",
+     "link": "https://www.ithome.com/1/010/923.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:08:43 GMT",
+     "summary": "IT之家 10 月 9 日消息，韩媒 ZDNET Korea 当地时间今日报道称，三星电子 MX 业务本月初更新了向零部件供应商提供的 2026 年第 4 季度智能手机产量预测数据。 三星电子现在认为其将在 10 月生产 990 万台、在 11 月生产 760 万台、在 12 月生产 670 万台，合计 2,420 万台。 季度合计数据相较两周前的上次预测（3,140 万台）下滑了 23% ，这也意味着其全年产能从 2.4 亿台下降至 2.3 亿台出头。 存储器价格的飙升对智能手机产业带来显著压力。三星电子近期已针对旗舰 Galaxy S26 系列机型执行了涨价，并计划在下代产品中执行降规显示",
      "source": "IT之家",
-     "zh": "VGN 推出魔竞入耳式电竞 HiFi 耳机：单耳重 3.79g、10mm 双磁双腔动圈，399 元"
+     "zh": "消息称三星近期预计 2026Q4 智能手机产量 2420 万台，下滑 23%"
     },
     {
-     "title": "谷歌安卓 17 新特性曝光：手柄摇杆可自由操控光标",
-     "link": "https://www.ithome.com/1/010/911.htm",
-     "pubDate": "Fri, 09 Oct 2026 05:39:22 GMT",
-     "summary": "IT之家 10 月 9 日消息，科技媒体 Android Authority 昨日（10 月 8 日）发布博文，报道称在安卓 17 QPR3 Beta 1 更新中，发现了“游戏手柄鼠标”（Gamepad mouse）功能代码， 让用户以手柄摇杆自由控制屏幕光标，并模拟触控点击，替代鼠标操作安卓界面。 根据代码字符串描述，该功能支持用户使用已连接的游戏手柄或摇杆，在安卓界面中控制光标并执行操作。IT之家附上相关代码如下： Gamepad&nbsp;mouse Use&nbsp;a&nbsp;connected&nbsp;gamepad&nbsp;to&nbsp;control&nbsp;the&",
+     "title": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞",
+     "link": "https://www.ithome.com/1/010/922.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:08:02 GMT",
+     "summary": "IT之家 10 月 9 日消息，当地时间 10 月 8 日，Anthropic 宣布正式推出面向开源软件的可选接入型漏洞检测服务 OSS Scanner，加入该项目的开源软件将由 Anthropic 最强大的 AI 模型（包括 Claude Mythos）提供全面的定期免费安全扫描。 符合条件的开源项目核心维护者，只需按照标准项目模板向 OSS Scanner GitHub 仓库 提交拉取请求（PR）即可完成申请接入。其审核标准类似于谷歌的 OSS-Fuzz，优先面向“对关键基础设施与用户安全具有重大影响”的基础开源项目。 据介绍，过去六个月里，Anthropic 利用最新模型对全球多款核心软",
      "source": "IT之家",
-     "zh": "谷歌安卓 17 新特性曝光：手柄摇杆可自由操控光标"
+     "zh": "Anthropic 推出 OSS Scanner：用 AI 为开源软件免费扫漏洞"
+    },
+    {
+     "title": "10 月 9 日今晚 20:00 双十一全面抢：京东家居家电 3C 数码年内好价，OPPO N6 折叠屏国补 10%",
+     "link": "https://www.ithome.com/1/010/921.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:07:22 GMT",
+     "summary": "京东数码 3C 家居家电今晚 20:00 正式开启 双十一全面抢 ，现在可去主会场领加码 9 折券： 点此领券 。 多数 家电 支持 30 天价保（宝贝页面可见价保时间），今晚 20:00 下单，可以 选择 11 月 1 日后送货 ，已保拿到非常称心如意的价格。 家电家居主会场 可领 加码 9 折券 ，海尔冰箱 1985 元抢，TCL 空调 1645 元抢： 点此查看 。 空调 多重补贴至高立减 50%，新一级能效省电空调年内好价： 点此查看 。 厨卫大家电 大热烟灶热水器低至 8 折： 点此查看 。 厨房小家电 低至 5 折，电热水壶 38 元 + 养生壶 59 元： 点此查看 。 生活小家",
+     "source": "IT之家",
+     "zh": "10 月 9 日今晚 20:00 双十一全面抢：京东家居家电 3C 数码年内好价，OPPO N6 折叠屏国补 10%"
+    },
+    {
+     "title": "Counterpoint：无需担忧 HBM 内存需求放缓，更高堆叠仍是行业趋势",
+     "link": "https://www.ithome.com/1/010/920.htm",
+     "pubDate": "Fri, 09 Oct 2026 06:00:22 GMT",
+     "summary": "IT之家 10 月 9 日消息，机构 Counterpoint Research 韩国当地时间昨日根据其内部审查结果表示，最近整个存储器行业对 HBM 需求放缓的担忧“基于错误信息”。 机构宣称， 高堆叠 HBM 内存的普及趋势将持续下去 ，更多 NVIDIA（英伟达）Rubin GPU 转向 12Hi HBM4，而 ASIC 解决方案中也没有出现仅有 4 层堆叠的 HBM 内存。 该机构认为，对于 AI XPU 的工作负载而言， 确保带宽和容量比降低成本更为重要 。 参考 카운터포인트 “HBM4 탑재량 축소설 과도”, 삼성 실적엔 청신호",
+     "source": "IT之家",
+     "zh": "Counterpoint：无需担忧 HBM 内存需求放缓，更高堆叠仍是行业趋势"
+    },
+    {
+     "title": "孙正义大手笔加码 AI 投资，曝软银寻求向海湾投资者募资千亿美元",
+     "link": "https://www.ithome.com/1/010/918.htm",
+     "pubDate": "Fri, 09 Oct 2026 05:56:00 GMT",
+     "summary": "IT之家 10 月 9 日消息，据英国《金融时报》今天（9 日）下午报道，软银集团创始人孙正义寻求向海湾地区投资者募集 最多 1,000 亿美元 （IT之家注：现汇率约合 6,715.26 亿元人民币） ，为进一步扩大 AI 投资筹措资金。此前，孙正义在 AI 领域投入巨资，成为这项技术最积极的支持者之一。 多名知情人士透露，过去几周，孙正义与多位高层人士商讨了融资事宜，其中包括阿联酋方面的人士。 这是孙正义一系列大胆 AI 投资计划的最新一步。此前，他曾向 OpenAI 投资 650 亿美元 （现汇率约合 4,364.92 亿元人民币） 。按照其此前说法，AI 是“革命性技术的领域”。 与此",
+     "source": "IT之家",
+     "zh": "孙正义大手笔加码 AI 投资，曝软银寻求向海湾投资者募资千亿美元"
+    },
+    {
+     "title": "《巫师 3：重制版》首个大型补丁发布：游戏主机端消除画面泛白现象",
+     "link": "https://www.ithome.com/1/010/917.htm",
+     "pubDate": "Fri, 09 Oct 2026 05:51:08 GMT",
+     "summary": "IT之家 10 月 9 日消息，CD Projekt Red 昨日（10 月 8 日）发布《巫师 3：重制版》（The Witcher 3 Remastered）的首个大型补丁 5.01， 重点针对主机玩家调整泛光，减少画面过亮、泛白、像蒙了一层雾的问题。 IT之家附上本次更新日志内容如下： 游戏玩法 修复了“自动涂抹刀刃油”功能仅在当前游戏会话中开启时才会生效的问题。 修复了在特定情况下，玩家操控的船只可能不受控制地移动，并忽略地形碰撞的问题。 改进了梯子交互动画。 修复了杰洛特使用阿尔德法印完成终结技后，会与已死亡敌人发生碰撞的问题。 修复了多次施放昆恩法印时，维瑟米尔会反复说同一句台词的",
+     "source": "IT之家",
+     "zh": "《巫师 3：重制版》首个大型补丁发布：游戏主机端消除画面泛白现象"
     },
     {
      "title": "RSI“出圈”背后：AI自我进化，卡在了哪里？",
@@ -1727,22 +1759,6 @@
      "summary": "RSI是技术问题，更是组织问题。",
      "source": "钛媒体",
      "zh": "RSI“出圈”背后：AI自我进化，卡在了哪里？"
-    },
-    {
-     "title": "一加冰冰卡 Mini 磁吸散热器上架：手机可直接供电，重约 50g",
-     "link": "https://www.ithome.com/1/010/909.htm",
-     "pubDate": "Fri, 09 Oct 2026 05:33:23 GMT",
-     "summary": "IT之家 10 月 9 日消息，一加冰冰卡 Mini 磁吸散热器现已上架电商平台，将于 10 月 12 日 19:00 正式发布，具体价格暂未公布。 这款产品长宽小于标准银行卡， 重量约 50g ；内置 TEC 制冷片搭配风冷，可以精准直吹手机核心发热区；支持高低双挡可调，低挡噪音低至 25dB 以内，最高挡约 35dB； 这款产品可联动一加 / OPPO 手机的高性能 ColorOS X 模式；采用磁吸安装设计，附赠引磁片，苹果、安卓机型广泛兼容。 这款产品采用低功耗设计，支持由手机直接供电，无需外接电源即可使用；充电宝、适配器也可供电，官方数据显示，若使用 10000mAh 充电宝供电，高",
-     "source": "IT之家",
-     "zh": "一加冰冰卡 Mini 磁吸散热器上架：手机可直接供电，重约 50g"
-    },
-    {
-     "title": "90 → 64 天：全球最大网站证书颁发机构 Let's Encrypt 明年 2 月起缩短证书有效期",
-     "link": "https://www.ithome.com/1/010/908.htm",
-     "pubDate": "Fri, 09 Oct 2026 05:29:59 GMT",
-     "summary": "IT之家 10 月 9 日消息，全球最大的网站证书颁发机构 Let's Encrypt 于 10 月 7 日发布公告， 宣布自 2027 年 2 月 10 日起，将免费 SSL / TLS 证书有效期从 90 天缩短至 64 天。 SSL / TLS 证书用于验证网站与用户之间的加密连接。在 Let's Encrypt 于 2016 年初推出前，证书有效期通常为 1 至 3 年；该机构最初采用 90 天有效期，以推动当时尚不普及的自动续期机制，并促进 HTTPS 部署。 IT之家曾于 2025 年 12 月报道，Let's Encrypt 宣布计划 2028 年， 其公信 TLS 证书有效期将",
-     "source": "IT之家",
-     "zh": "90 → 64 天：全球最大网站证书颁发机构 Let's Encrypt 明年 2 月起缩短证书有效期"
     },
     {
      "title": "去英国读私校的中国高净值家庭，6年少了三成",
@@ -1756,25 +1772,9 @@
      "title": "Show HN: Quake ported to safe Rust, playable in browser",
      "link": "https://quake-srp.pages.dev/",
      "pubDate": "Fri, 09 Oct 2026 05:22:58 +0000",
-     "summary": "Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 9 # Comments: 1",
+     "summary": "Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 36 # Comments: 10",
      "source": "Hacker News",
      "zh": "Show HN: Quake ported to safe Rust, playable in browser"
-    },
-    {
-     "title": "比亚迪人形机器人外观专利公布",
-     "link": "https://www.ithome.com/1/010/907.htm",
-     "pubDate": "Fri, 09 Oct 2026 05:19:51 GMT",
-     "summary": "IT之家 10 月 9 日消息，国家知识产权局今日（10 月 9 日）公示了一项具身智能机器人的外观设计专利，专利权人为比亚迪股份有限公司。 该专利展示了一款人形机器人的外观设计， 用于具备行走、平衡及交互功能的智能机器人 ，可应用于服务机器人、教育或工业场景。 综合IT之家此前报道，比亚迪执行副总裁李柯今年 6 月表示， 希望未来每家比亚迪门店都能部署机器人 ，并能够向顾客介绍和演示车辆，面向家庭和服务行业的人形机器人将成为比亚迪的一个巨大市场。“我的目标是在每家门店放两三台机器人。机器人可以为顾客讲解，也可以活跃气氛，甚至能够展示和演示车辆。”",
-     "source": "IT之家",
-     "zh": "比亚迪人形机器人外观专利公布"
-    },
-    {
-     "title": "最便宜谷歌 Googlebook 上市不足一周，至少 4 人遭遇无限重启循环",
-     "link": "https://www.ithome.com/1/010/906.htm",
-     "pubDate": "Fri, 09 Oct 2026 05:11:59 GMT",
-     "summary": "IT之家 10 月 9 日消息，科技媒体 Android Authority 昨日（10 月 8 日）发布博文， 报道称上市不到 1 周时间，至少有 4 名宏碁 Googlebook 14 用户反馈，设备在更新后陷入无限重启循环。 IT之家注：谷歌在 9 月 21 日的活动中，发布了 5 款 Googlebook，其中宏碁 Googlebook 14 是其中最便宜的型号，也是唯一一款二合一笔记本电脑。 根据用户反馈，首次开机并连接手机后，系统提示更新。用户点击更新之后，笔记本一会儿显示宏碁的标志几秒钟，一会儿显示“正在更新”大约十分钟，如此反复循环。 另一名用户称，设备进入恢复模式后提示缺少网",
-     "source": "IT之家",
-     "zh": "最便宜谷歌 Googlebook 上市不足一周，至少 4 人遭遇无限重启循环"
     },
     {
      "title": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)",
@@ -1921,14 +1921,6 @@
      "zh": "日薪120元，我给机器人当“老师”"
     },
     {
-     "title": "Anger as man sentenced to death for Facebook comment",
-     "link": "https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304",
-     "pubDate": "Fri, 09 Oct 2026 03:03:54 +0000",
-     "summary": "Article URL: https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304 Comments URL: https://news.ycombinator.com/item?id=50015486 Points: 35 # Comments: 17",
-     "source": "Hacker News",
-     "zh": "Anger as man sentenced to death for Facebook comment"
-    },
-    {
      "title": "Microsoft denies JD Vance&apos;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)",
      "link": "https://www.techmeme.com/261008/p55#a261008p55",
      "pubDate": "Thu, 08 Oct 2026 22:15:56 -0400",
@@ -1940,9 +1932,17 @@
      "title": "Reducing undefined behavior in the C language",
      "link": "https://lwn.net/Articles/1095811/",
      "pubDate": "Fri, 09 Oct 2026 02:02:53 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 71 # Comments: 43",
+     "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 77 # Comments: 47",
      "source": "Hacker News",
      "zh": "Reducing undefined behavior in the C language"
+    },
+    {
+     "title": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)",
+     "link": "https://www.techmeme.com/261008/p54#a261008p54",
+     "pubDate": "Thu, 08 Oct 2026 21:55:00 -0400",
+     "summary": "Sergiu Gatlan / BleepingComputer : A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions &nbsp; &mdash;&nbsp; The co-creator of Empire Market, one of the largest dark web marketplaces before it",
+     "source": "Techmeme",
+     "zh": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)"
     }
    ]
   },
@@ -2201,52 +2201,84 @@
    "total": 13,
    "items": [
     {
-     "title": "10月9日教育出版板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891097552.html",
-     "pubDate": "Fri, 09 Oct 2026 13:43:52 +0800",
-     "summary": "&emsp;&emsp;10月9日13点43分， 教育 出版 板块指数报2283.67点，涨幅达2%，成交21.06亿元，换手率1.26%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 龙版传媒 报15.84元，涨7.54%； 新华文轩 报19.49元，涨2.52%； 南方传媒 报12.62元，涨2.02%； 中南传媒 报10.69元，涨2.00%； 天舟文化 报3.52元，涨1.73%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月9日教育出版板块涨幅达2%"
+     "title": "Nasdaq CEO: Tokenization could unlock tens of billions in trapped capital",
+     "link": "https://seekingalpha.com/news/4651647-nasdaq-ceo-tokenization-could-unlock-tens-of-billions-in-trapped-capital?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 02:06:18 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nasdaq CEO: Tokenization could unlock tens of billions in trapped capital"
     },
     {
-     "title": "10月9日其他医疗服务板块涨幅达3%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891097466.html",
-     "pubDate": "Fri, 09 Oct 2026 13:43:44 +0800",
-     "summary": "&emsp;&emsp;10月9日13点43分，其他 医疗服务 板块指数报4952.294点，涨幅达3%，成交14.69亿元，换手率6.19%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 诺禾致源 报21.50元，涨13.58%； 南华生物 报11.59元，涨1.22%； 润达医疗 报9.72元，涨0.62%； 数字人 报12.25元，涨0.57%； 合富中国 报13.55元，跌0.07%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月9日其他医疗服务板块涨幅达3%"
+     "title": "豆包接入水电费缴纳，AI助手离“替人办事”还有多远",
+     "link": "https://wallstreetcn.com/articles/3783256",
+     "pubDate": "Fri, 09 Oct 2026 14:04:25 +0800",
+     "summary": "豆包正在将生活缴费接入AI对话。用户在豆包App输入或说出“交电费”“交水费”等指令后，可以进入相应的缴费页面。 10月9日，接近豆包的人士向华尔街见闻表示，豆包正逐步建设出行、生活缴费等场景的办事能力。 据华尔街见闻实测，用户登录抖音账号并绑定户号后，可以使用水费、电费、燃气费缴纳功能。目前，各城市及不同缴费项目的开通情况存在差异，服务仍在逐步接通。 这是豆包近期扩展生活服务的又一步。 9月30日，豆包宣布接入机票预订、火车票购买、打车和路线导航等服务，并推出“出行用豆包”入口。此前，用户主要在对话中获取行程建议；接入服务后，订票、叫车等操作也可以从豆包发起。公开报道显示，相关服务由航班管家",
+     "source": "华尔街见闻",
+     "zh": "豆包接入水电费缴纳，AI助手离“替人办事”还有多远"
     },
     {
-     "title": "上海家化10月9日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891097242.html",
-     "pubDate": "Fri, 09 Oct 2026 13:43:23 +0800",
-     "summary": "以下是 上海家化 在北京时间10月9日13:43分盘口异动快照： 10月9日， 上海家化 盘中涨幅达5%，截至13点43分，报19.43元，成交2.39亿元，换手率1.88%。 分笔 报价 卖五 19.48 409 卖四 19.47 49 卖三 19.46 346 卖二 19.45 373 卖一 19.44 122 买一 19.43 25 买二 19.42 2 买三 19.41 54 买四 19.4 191 买五 19.39 106 最新： 19.43 涨幅： 5.03% 涨跌： 0.93 换手率：1.88% 成交量：12.63万手 成交额：2.39亿元 主力净流入： 2905.78 万元 &",
+     "title": "华大九天10月9日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891119888.html",
+     "pubDate": "Fri, 09 Oct 2026 13:58:09 +0800",
+     "summary": "以下是 华大九天 在北京时间10月9日13:58分盘口异动快照： 10月9日， 华大九天 盘中涨幅达5%，截至13点58分，报89.97元，成交7.84亿元，换手率1.66%。 分笔 报价 卖五 90.02 6 卖四 90.01 2 卖三 90 613 卖二 89.99 45 卖一 89.96 15 买一 89.71 5 买二 89.7 77 买三 89.53 4 买四 89.48 1 买五 89.47 6 最新： 89.97 涨幅： 5.29% 涨跌： 4.52 换手率：1.66% 成交量：9.09万手 成交额：7.84亿元 主力净流入： 3662.44 万元 &emsp;&emsp;10月",
      "source": "东方财富股票",
-     "zh": "上海家化10月9日盘中涨幅达5%"
+     "zh": "华大九天10月9日盘中涨幅达5%"
     },
     {
-     "title": "襄阳轴承10月9日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891097036.html",
-     "pubDate": "Fri, 09 Oct 2026 13:43:05 +0800",
-     "summary": "以下是 襄阳轴承 在北京时间10月9日13:43分盘口异动快照： 10月9日， 襄阳轴承 盘中快速回调，5分钟内跌幅超过2%，截至13点43分，报12.62元，成交11.98亿元，换手率22.11%。 分笔 报价 卖五 12.66 24 卖四 12.65 1 卖三 12.64 257 卖二 12.63 488 卖一 12.62 37 买一 12.61 59 买二 12.6 328 买三 12.59 21 买四 12.58 156 买五 12.57 7 最新： 12.62 涨幅： 3.10% 涨跌： 0.38 换手率：22.11% 成交量：101.64万手 成交额：11.98亿元 主力净流入： ",
+     "title": "吉林化纤10月9日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891119774.html",
+     "pubDate": "Fri, 09 Oct 2026 13:58:09 +0800",
+     "summary": "以下是 吉林化纤 在北京时间10月9日13:58分盘口异动快照： 10月9日13点58分， 吉林化纤 盘中打开涨停，现报3.8元，成交8.58亿元，换手率9.38%。该股之前于13点15分涨停。 分笔 报价 卖五 - 0 卖四 - 0 卖三 - 0 卖二 - 0 卖一 3.81 2832 买一 3.8 1378 买二 3.79 4390 买三 3.78 7727 买四 3.77 4853 买五 3.76 714 最新： 3.8 涨幅： 9.83% 涨跌： 0.34 换手率：9.38% 成交量：230.64万手 成交额：8.58亿元 主力净流入： 2.14 亿元 &emsp;&emsp;10月9",
      "source": "东方财富股票",
-     "zh": "襄阳轴承10月9日快速回调"
+     "zh": "吉林化纤10月9日打开涨停"
     },
     {
-     "title": "茂业商业10月9日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891096936.html",
-     "pubDate": "Fri, 09 Oct 2026 13:42:51 +0800",
-     "summary": "以下是 茂业商业 在北京时间10月9日13:42分盘口异动快照： 10月9日， 茂业商业 盘中涨幅达5%，截至13点42分，报4.53元，成交1.13亿元，换手率1.49%。 分笔 报价 卖五 4.57 100 卖四 4.56 674 卖三 4.55 415 卖二 4.54 172 卖一 4.53 644 买一 4.52 139 买二 4.51 427 买三 4.5 448 买四 4.49 993 买五 4.48 66 最新： 4.53 涨幅： 5.10% 涨跌： 0.22 换手率：1.49% 成交量：25.82万手 成交额：1.13亿元 主力净流入： 401.73 万元 &emsp;&ems",
+     "title": "大连友谊10月9日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891118677.html",
+     "pubDate": "Fri, 09 Oct 2026 13:57:41 +0800",
+     "summary": "以下是 大连友谊 在北京时间10月9日13:57分盘口异动快照： 10月9日， 大连友谊 盘中涨幅达5%，截至13点57分，报6.61元，成交4800.19万元，换手率2.13%。 分笔 报价 卖五 6.66 157 卖四 6.65 61 卖三 6.64 131 卖二 6.63 65 卖一 6.62 157 买一 6.61 25 买二 6.6 554 买三 6.59 18 买四 6.58 134 买五 6.57 24 最新： 6.61 涨幅： 5.09% 涨跌： 0.32 换手率：2.13% 成交量：7.59万手 成交额：4800.19万元 主力净流入： 506.72 万元 &emsp;&em",
      "source": "东方财富股票",
-     "zh": "茂业商业10月9日盘中涨幅达5%"
+     "zh": "大连友谊10月9日盘中涨幅达5%"
     },
     {
-     "title": "新媒股份10月9日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610093891096890.html",
-     "pubDate": "Fri, 09 Oct 2026 13:42:51 +0800",
-     "summary": "以下是 新媒股份 在北京时间10月9日13:42分盘口异动快照： 10月9日， 新媒股份 盘中涨幅达5%，截至13点42分，报35.58元，成交1.44亿元，换手率1.82%。 分笔 报价 卖五 35.65 15 卖四 35.62 5 卖三 35.6 327 卖二 35.59 7 卖一 35.58 6 买一 35.55 2 买二 35.53 1 买三 35.52 18 买四 35.51 39 买五 35.49 4 最新： 35.58 涨幅： 5.02% 涨跌： 1.7 换手率：1.82% 成交量：4.15万手 成交额：1.44亿元 主力净流入： 129.18 万元 &emsp;&emsp;10",
+     "title": "华丰股份10月9日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891118480.html",
+     "pubDate": "Fri, 09 Oct 2026 13:57:27 +0800",
+     "summary": "以下是 华丰股份 在北京时间10月9日13:57分盘口异动快照： 10月9日， 华丰股份 盘中涨幅达5%，截至13点57分，报40.32元，成交3.69亿元，换手率4.03%。 分笔 报价 卖五 40.38 7 卖四 40.36 11 卖三 40.35 26 卖二 40.33 9 卖一 40.32 8 买一 40.31 13 买二 40.3 107 买三 40.28 310 买四 40.27 2 买五 40.26 104 最新： 40.32 涨幅： 5.00% 涨跌： 1.92 换手率：4.03% 成交量：9.59万手 成交额：3.69亿元 主力净流入： -529.49万 元 &emsp;&e",
      "source": "东方财富股票",
-     "zh": "新媒股份10月9日盘中涨幅达5%"
+     "zh": "华丰股份10月9日盘中涨幅达5%"
+    },
+    {
+     "title": "国庆假期出行数据亮眼，铁路客运高增提振交通运输板块信心",
+     "link": "http://stock.eastmoney.com/news/11622,202610093891118981.html",
+     "pubDate": "Fri, 09 Oct 2026 13:57:09 +0800",
+     "summary": "截至13:42，A股三大指数集体回落，上证指数跌0.13%，深证成指跌0.57%，创业板指跌0.80%。 中证全指运输指数上涨0.58%，成分股涨跌互现， 中远海能 领涨2.96%， 圆通速递 上涨2.87%， 中国东航 上涨1.53%， 申通快递 上涨0.67%， 中远海控 上涨0.66%； 招商南油 领跌5.03%， 海通发展 下跌3.19%， 厦门港务 下跌2.17%， 海晨股份 下跌1.97%， 招商轮船 下跌0.50%。 从估值层面来看，中证全指运输指数最新市盈率（PE-TTM）为17.85倍，处于近10年48.41%的分位，即估值低于近10年51.59%以上的时间，估值适中，可逢低",
+     "source": "东方财富股票",
+     "zh": "国庆假期出行数据亮眼，铁路客运高增提振交通运输板块信心"
+    },
+    {
+     "title": "印度政府：10月份向发电厂的煤炭供应步伐加快",
+     "link": "http://finance.eastmoney.com/news/1351,202610093891118527.html",
+     "pubDate": "Fri, 09 Oct 2026 13:57:05 +0800",
+     "summary": "印度政府：10月份向发电厂的 煤炭 供应步伐加快。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "印度政府：10月份向发电厂的煤炭供应步伐加快"
+    },
+    {
+     "title": "销量退潮，保时捷押注更贵的生意",
+     "link": "https://wallstreetcn.com/articles/3783255",
+     "pubDate": "Fri, 09 Oct 2026 13:55:01 +0800",
+     "summary": "四年前，保时捷在法兰克福证券交易所风光上市，创下了当年欧洲IPO市值纪录。跑车品牌的溢价，加上SUV的销量规模，带来了丰厚的利润，撑起了它的高估值。 如今，支撑这门生意的条件变了——中国市场持续回落，高端纯电动车需求增长慢于预期，产品战略重整和美国关税又增加了成本。2025年，保时捷集团销售回报率降至1.1%，远低于上市当年的18.0%。 当地时间10月7日的资本市场日上，保时捷发布面向2035年的战略，将更多资源投向高利润车型和个性化定制，同时精简产品组合、压缩开发与运营成本，并计划把盈亏平衡所需的年销量降至20万辆以下。它要提高单车收入，也要降低维持盈利所需的销量。 保时捷股份公司执行董事",
+     "source": "华尔街见闻",
+     "zh": "销量退潮，保时捷押注更贵的生意"
+    },
+    {
+     "title": "SoftBank seeks $100B from Gulf investors for AI: report",
+     "link": "https://seekingalpha.com/news/4651644-softbank-seeks-100b-from-gulf-investors-for-ai-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 01:49:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SoftBank seeks $100B from Gulf investors for AI: report"
     },
     {
      "title": "H.B. Fuller prices $850M private offering of senior notes",
@@ -2273,22 +2305,6 @@
      "zh": "Asian markets mixed following tech selloff as OpenAI revenue concerns weigh"
     },
     {
-     "title": "港股科技互联网板块集体反弹，港股通互联网ETF易方达（513040）标的指数半日涨2%",
-     "link": "http://www.eeo.com.cn/2026/1009/1058347.shtml",
-     "pubDate": "Fri, 09 Oct 2026 13:26:11 +0800",
-     "summary": "10月9日早盘，港股科技互联网板块集体反弹，截至午间收盘，中证港股通互联网指数上涨2.0%，恒生港股通新经济指数上涨1.2%，恒生科技指数上涨1.6%，中证港股通消费主题指数上涨1.7%，中证港股通医药卫生综合指数下跌1.5%。 （本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策。） <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/27C40F...",
-     "source": "经济观察网",
-     "zh": "港股科技互联网板块集体反弹，港股通互联网ETF易方达（513040）标的指数半日涨2%"
-    },
-    {
-     "title": "小米17 Ultra全系上调售价1000元",
-     "link": "http://www.eeo.com.cn/2026/1009/1058346.shtml",
-     "pubDate": "Fri, 09 Oct 2026 13:26:05 +0800",
-     "summary": "10月9日，小米 17 Ultra 全系列机型统一上调售价，涨幅达到 1000 元，小米官网在售版本定价均已完成调整。 调整后的具体定价信息显示，小米 17 Ultra 标准版起售价从原先的 6999 元涨到 7999 元。其中 12GB+512GB 版本从 6999 元上涨至 7999 元，16GB+512GB 版本从 7499 元涨到 8499 元，16GB+1TB 版本从 8499 元上调到 9499 元。定位更高阶的小米 17 Ultra 徕卡版，起售价也从原先的 7999 元涨到 8999 元。其中 16GB+512...",
-     "source": "经济观察网",
-     "zh": "小米17 Ultra全系上调售价1000元"
-    },
-    {
      "title": "Manus raises $500M after losing planned $2B-plus Meta deal",
      "link": "https://seekingalpha.com/news/4651634-manus-raises-500m-after-losing-planned-2b-plus-meta-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 01:25:00 -0400",
@@ -2313,60 +2329,12 @@
      "zh": "“百万豪车”刹车踏板断裂背后，被低估的普通人脚力"
     },
     {
-     "title": "Marcus & Millichap expands Brown & Brown partnership into Canada",
-     "link": "https://seekingalpha.com/news/4651641-marcus-millichap-expands-brown-brown-partnership-into-canada?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 01:24:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Marcus & Millichap expands Brown & Brown partnership into Canada"
-    },
-    {
-     "title": "Meta bans ads from TikTok parent ByteDance across U.S. and key foreign markets",
-     "link": "https://seekingalpha.com/news/4651635-meta-bans-ads-from-tiktok-parent-bytedance-across-us-and-key-foreign-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 01:13:10 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Meta bans ads from TikTok parent ByteDance across U.S. and key foreign markets"
-    },
-    {
      "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
      "link": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
      "pubDate": "Fri, 09 Oct 2026 04:30:01 GMT",
      "summary": "Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks",
      "source": "Financial Times",
      "zh": "SoftBank seeks $100bn from Gulf investors to expand AI bet"
-    },
-    {
-     "title": "光连接“小巨人”宇特光电上市，半日飙涨436%",
-     "link": "http://www.eeo.com.cn/2026/1009/1058253.shtml",
-     "pubDate": "Fri, 09 Oct 2026 12:26:09 +0800",
-     "summary": "中新经纬10月9日电 10月9日，宇特光电登陆北交所。 上市首日，宇特光电大幅高开489%，截至午盘股价涨436.29%报73.74元/股。该股发行价为13.75元/股，实际募集资金2.43亿元。 宇特光电是一家专注于光连接产品研发设计、精密制造与销售业务的国家级专精特新“小巨人”企业，致力于为光通信领域设备商、系统集成商、国内外电信运营商、光电子器件企业提供高性能的光连接整体解决方案。核心产品主要应用于数据中心与光...",
-     "source": "经济观察网",
-     "zh": "光连接“小巨人”宇特光电上市，半日飙涨436%"
-    },
-    {
-     "title": "国内商品期市早盘收盘涨多跌少 甲醇涨近7%",
-     "link": "http://www.eeo.com.cn/2026/1009/1058232.shtml",
-     "pubDate": "Fri, 09 Oct 2026 12:13:13 +0800",
-     "summary": "据Choice数据，10月9日，国内商品期市早盘收盘主力合约涨多跌少，截至11:30，甲醇涨近7%，焦煤涨超4%，液化石油气、塑料、聚丙烯等涨超3%，焦炭、生猪等涨超2%，纯苯、钯、铂、锰硅等涨超1%。跌幅方面，沪锡、乙二醇跌超4%，沥青跌超3%，集运指数（欧线）、胶版印刷纸跌超2%，尿素、碳酸锂、铁矿石、多晶硅、原油等跌超1%。",
-     "source": "经济观察网",
-     "zh": "国内商品期市早盘收盘涨多跌少 甲醇涨近7%"
-    },
-    {
-     "title": "聚焦硬核科技，华南理工大学集中揭牌一批新型教学科研机构",
-     "link": "http://www.eeo.com.cn/2026/1009/1058231.shtml",
-     "pubDate": "Fri, 09 Oct 2026 12:13:11 +0800",
-     "summary": "南方财经记者伍素文 实习生陈苑淇 10月8日下午，华南理工大学新型教学科研机构成立大会暨揭牌仪式在五山校区逸夫科学馆举行。会上，能源学院、科技商学院、交叉学科研究院和重点学科群集中成立揭牌。 此次一批新型教学科研机构成立揭牌，是该校融入国家战略布局、服务支撑广东“走在前列”的关键落子。会上，华南理工大学校长、中国工程院院士杨中民宣读能源学院、科技商学院、交叉学科研究院及重点学科群成立文...",
-     "source": "经济观察网",
-     "zh": "聚焦硬核科技，华南理工大学集中揭牌一批新型教学科研机构"
-    },
-    {
-     "title": "事关外卖骑手、网约车司机、主播！新就业形态劳动者权益新规来了",
-     "link": "http://www.eeo.com.cn/2026/1009/1058230.shtml",
-     "pubDate": "Fri, 09 Oct 2026 12:13:10 +0800",
-     "summary": "所有外卖员、网约车司机、带货主播，新规来了！今后大家跑单、接单、直播的工作权益，终于有官方统一兜底保障了。 10月8日，人社部最新发布新规征求意见稿，首次把不完全符合劳动关系的平台劳动者正式纳入法律保障范围，让他们再也不是“用工黑户”！ 新规干货满满，每一条都直击痛点。首先是薪资和工时兜底，明确劳动报酬不得低于当地最低工资标准标准，连续工作满四小时必须安排休息，在法定节假日、恶劣天气期间...",
-     "source": "经济观察网",
-     "zh": "事关外卖骑手、网约车司机、主播！新就业形态劳动者权益新规来了"
     },
     {
      "title": "&apos;Real boss of India?&apos;: Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
@@ -2439,6 +2407,38 @@
      "summary": "Investors are overestimating the risk of conflict across the Taiwan Strait, a U.S. diplomat says, playing up deterrence to keep Beijing from taking the island.",
      "source": "CNBC",
      "zh": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk"
+    },
+    {
+     "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+     "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 00:52:00 GMT",
+     "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
+     "source": "MarketWatch",
+     "zh": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares"
+    },
+    {
+     "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+     "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 00:03:00 GMT",
+     "summary": "Seven tips for painlessly moving in retirement.",
+     "source": "MarketWatch",
+     "zh": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’"
+    },
+    {
+     "title": "Anyflo emerges from stealth to simplify stablecoin payments for enterprises",
+     "link": "https://www.finextra.com/newsarticle/48561/anyflo-emerges-from-stealth-to-simplify-stablecoin-payments-for-enterprises?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 09 Oct 2026 00:01:00 GMT",
+     "summary": "Stablecoin payments orchestration service Anyflo has emerged from stealth with news that it has acquired bitcoin lending platform Native.",
+     "source": "Finextra",
+     "zh": "Anyflo emerges from stealth to simplify stablecoin payments for enterprises"
+    },
+    {
+     "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+     "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+     "pubDate": "Thu, 08 Oct 2026 23:57:23 GMT",
+     "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+     "source": "CNBC",
+     "zh": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 00:11:56",
+ "generated_at": "2026/10/10 00:31:54",
  "recent_days": 7,
  "industries": [
   {
@@ -9,12 +9,12 @@
    "total": 16,
    "items": [
     {
-     "title": "A16z’s Olivia Moore on the state of consumer AI",
+     "title": "a16z’s Olivia Moore on the state of consumer AI",
      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
      "pubDate": "Fri, 09 Oct 2026 15:43:33 +0000",
      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
      "source": "TechCrunch AI",
-     "zh": "A16z’s Olivia Moore on the state of consumer AI"
+     "zh": "a16z’s Olivia Moore on the state of consumer AI"
     },
     {
      "title": "Impactful scheduling for GPU clusters",
@@ -657,6 +657,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Jaguar And Kia Just Proved That Design Matters Just As Much As Specs",
+     "link": "https://insideevs.com/features/811385/the-jaguar-type-01-proves-that-designs-matter/",
+     "pubDate": "Fri, 09 Oct 2026 16:28:04 +0000",
+     "summary": "Neither can claim technological superiority over their competitors. But they’re both far more compelling because of how they look.",
+     "source": "InsideEVs",
+     "zh": "Jaguar And Kia Just Proved That Design Matters Just As Much As Specs"
+    },
+    {
      "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
      "link": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
      "pubDate": "Fri, 09 Oct 2026 16:07:26 +0000",
@@ -791,14 +799,6 @@
      "summary": "This new crossover has more buttons, one-pedal driving, and even a frunk.",
      "source": "InsideEVs",
      "zh": "The Volkswagen ID. Tiguan Looks Like A Big Upgrade Over The ID.4"
-    },
-    {
-     "title": "VW’s Electric Polo GTI Just Got Faster. Thank The Customers",
-     "link": "https://insideevs.com/news/811298/volkswagen-id-polo-gti-priced/",
-     "pubDate": "Fri, 09 Oct 2026 09:09:46 +0000",
-     "summary": "The ID. Polo GTI opens for orders with revised specs and a price slightly higher than previously advertised.",
-     "source": "InsideEVs",
-     "zh": "VW’s Electric Polo GTI Just Got Faster. Thank The Customers"
     },
     {
      "title": "Nio completes nearly 1.2 million battery swaps over 7-day holiday, sets daily record twice",
@@ -1068,7 +1068,7 @@
      "title": "Massachusetts shifts clean energy funds to help heat homes this winter",
      "link": "https://www.utilitydive.com/news/massachusetts-clean-energy-funds-winter-heating-oil/832521/",
      "pubDate": "Thu, 08 Oct 2026 12:42:42 -0400",
-     "summary": "Massachusetts&nbsp;Gov. Maura Healey, D, ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
+     "summary": "Gov. Maura Healey ordered home energy relief for low- and middle-income households, to be funded by alternative compliance payments &mdash; the fees electricity suppliers pay when they fall short of mandated clean energy targets.",
      "source": "Utility Dive",
      "zh": "Massachusetts shifts clean energy funds to help heat homes this winter"
     },
@@ -1713,6 +1713,38 @@
    "total": 18,
    "items": [
     {
+     "title": "Warehouse robotics startup Ultra raised a $12M seed and a $50M Series A, and expands its deal with Physical Intelligence to supply AI software for its robots (Jeff John Roberts/Fortune)",
+     "link": "https://www.techmeme.com/261009/p17#a261009p17",
+     "pubDate": "Fri, 09 Oct 2026 12:15:01 -0400",
+     "summary": "Jeff John Roberts / Fortune : Warehouse robotics startup Ultra raised a $12M seed and a $50M Series A, and expands its deal with Physical Intelligence to supply AI software for its robots &nbsp; &mdash;&nbsp; Finance editor Jeff John Roberts here.&nbsp; The explosive growth of the robotics industry ",
+     "source": "Techmeme",
+     "zh": "Warehouse robotics startup Ultra raised a $12M seed and a $50M Series A, and expands its deal with Physical Intelligence to supply AI software for its robots (Jeff John Roberts/Fortune)"
+    },
+    {
+     "title": "内存一年涨175%，卖一台亏一台的手机生意还能撑多久",
+     "link": "https://www.huxiu.com/article/4896300.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 00:13:56 +0800",
+     "summary": "本文来自微信公众号： 旧叔笔谈 ，作者：旧叔 十一长假后的这几天，手机行业同时传出几条“坏”消息。 据日经亚洲报道，苹果已通知部分供应商削减iPhone 18 Pro和iPhone 18 Pro Max的零部件订单，10月订单量较最初计划至少下调15%，部分订单降幅在15%到20%之间。 苹果传出削减订单的同一天，国内的华为和小米虽未传出类似的削减计划，但也用涨价变相告诉市场，国内头部大厂在保销量和保利润之间，更加倾向于后者。 随着华为nova 16系列标准版和Pro版上调400元、SE版上调200元，以及小米17 Ultra全系涨价1000元、起售价从6999元来到7999元，华为与小米们大",
+     "source": "虎嗅",
+     "zh": "内存一年涨175%，卖一台亏一台的手机生意还能撑多久"
+    },
+    {
+     "title": "The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson",
+     "link": "https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/",
+     "pubDate": "Fri, 09 Oct 2026 16:09:08 +0000",
+     "summary": "The Justice Department is considering a perjury and obstruction of justice case against Cassidy Hutchinson, a former White House aide who testified against Donald Trump to the January 6 committee.",
+     "source": "WIRED",
+     "zh": "The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson"
+    },
+    {
+     "title": "水处理膜行业十年激战，下半场靠什么增长？",
+     "link": "https://www.huxiu.com/article/4896299.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 00:07:42 +0800",
+     "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：十年国产替代之后，中国膜企开始面临3场新竞争——规模、场景与运营。 过去十年，中国膜产业最鲜明的一条主线，是国产替代。 从反渗透、超滤、纳滤到无机膜，从市政水处理到工业废水回用、海水淡化和过程分离，国内企业不断向材料、膜片、组件和系统集成的更深处推进。 十年前，行业反复追问的是：中国企业能不能做出一张性能合格的膜，能不能替代进口产品，能不能进入过去由国际品牌主导的市场。 今天，越来越多领域已经跨过了“有没有”的门槛。 但这场持续十年的激战，并没有把市场带向一个统一的终局。 相反，当国产膜供给增加、产品能力普遍提升，原本由技术稀缺和进",
+     "source": "虎嗅",
+     "zh": "水处理膜行业十年激战，下半场靠什么增长？"
+    },
+    {
      "title": "Hack the World: Why hackathons are still the best place to learn to build",
      "link": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
      "pubDate": "Fri, 09 Oct 2026 16:00:00 +0000",
@@ -1732,7 +1764,7 @@
      "title": "A statement on the Tor Project's relationship with Mullvad",
      "link": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
      "pubDate": "Fri, 09 Oct 2026 15:49:31 +0000",
-     "summary": "Article URL: https://blog.torproject.org/on-tor-relationship-with-mullvad/ Comments URL: https://news.ycombinator.com/item?id=50022266 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://blog.torproject.org/on-tor-relationship-with-mullvad/ Comments URL: https://news.ycombinator.com/item?id=50022266 Points: 12 # Comments: 6",
      "source": "Hacker News",
      "zh": "A statement on the Tor Project's relationship with Mullvad"
     },
@@ -1780,7 +1812,7 @@
      "title": "The super intelligence shit is a humiliation ritual for OpenAI",
      "link": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z",
      "pubDate": "Fri, 09 Oct 2026 15:18:59 +0000",
-     "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 20 # Comments: 4",
+     "summary": "Article URL: https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z Comments URL: https://news.ycombinator.com/item?id=50021763 Points: 41 # Comments: 14",
      "source": "Hacker News",
      "zh": "The super intelligence shit is a humiliation ritual for OpenAI"
     },
@@ -1812,7 +1844,7 @@
      "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
      "link": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
      "pubDate": "Fri, 09 Oct 2026 15:05:24 +0000",
-     "summary": "Article URL: https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms Comments URL: https://news.ycombinator.com/item?id=50021540 Points: 25 # Comments: ",
+     "summary": "Article URL: https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms Comments URL: https://news.ycombinator.com/item?id=50021540 Points: 42 # Comments: ",
      "source": "Hacker News",
      "zh": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland"
     },
@@ -1844,7 +1876,7 @@
      "title": "Imposing Sanctions on the International Criminal Court",
      "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
      "pubDate": "Fri, 09 Oct 2026 14:55:57 +0000",
-     "summary": "Article URL: https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/ Comments URL: https://news.ycombinator.com/item?id=50021403 Points: 90 # Comments: 65",
+     "summary": "Article URL: https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/ Comments URL: https://news.ycombinator.com/item?id=50021403 Points: 103 # Comments: 90",
      "source": "Hacker News",
      "zh": "Imposing Sanctions on the International Criminal Court"
     },
@@ -1876,7 +1908,7 @@
      "title": "Python 3.15.0",
      "link": "https://www.python.org/downloads/release/python-3150/",
      "pubDate": "Fri, 09 Oct 2026 14:35:42 +0000",
-     "summary": "Article URL: https://www.python.org/downloads/release/python-3150/ Comments URL: https://news.ycombinator.com/item?id=50021127 Points: 73 # Comments: 24",
+     "summary": "Article URL: https://www.python.org/downloads/release/python-3150/ Comments URL: https://news.ycombinator.com/item?id=50021127 Points: 94 # Comments: 26",
      "source": "Hacker News",
      "zh": "Python 3.15.0"
     },
@@ -1884,7 +1916,7 @@
      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
      "link": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
      "pubDate": "Fri, 09 Oct 2026 14:31:54 +0000",
-     "summary": "Article URL: https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50021066 Points: 198 # Comments: 67",
+     "summary": "Article URL: https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50021066 Points: 239 # Comments: 94",
      "source": "Hacker News",
      "zh": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize"
     },
@@ -1919,38 +1951,6 @@
      "summary": "The US says Microsoft abused immigration rules; the company disputes the claim.",
      "source": "Ars Technica",
      "zh": "Microsoft barred from sponsoring foreign workers for US residency"
-    },
-    {
-     "title": "控股股东提议换届、董事长带头反对，硕世生物“钱权分离”架构下控制权纷争再升级",
-     "link": "https://www.tmtpost.com/8157820.html",
-     "pubDate": "Fri, 09 Oct 2026 21:09:49 +0800",
-     "summary": "围绕印章效力、控股股东主体存续风险、上市公司治理稳定性等多重争议，一场关乎董事会席位的博弈持续发酵。",
-     "source": "钛媒体",
-     "zh": "控股股东提议换届、董事长带头反对，硕世生物“钱权分离”架构下控制权纷争再升级"
-    },
-    {
-     "title": "The UK plans to curb non-compete rules that force employees to wait before moving jobs or starting companies, an issue that has drawn complaints from startups (Shona Ghosh/Bloomberg)",
-     "link": "https://www.techmeme.com/261009/p12#a261009p12",
-     "pubDate": "Fri, 09 Oct 2026 08:55:01 -0400",
-     "summary": "Shona Ghosh / Bloomberg : The UK plans to curb non-compete rules that force employees to wait before moving jobs or starting companies, an issue that has drawn complaints from startups &nbsp; &mdash;&nbsp; The UK is set to curb hiring restrictions that force employees to wait before moving jobs or s",
-     "source": "Techmeme",
-     "zh": "The UK plans to curb non-compete rules that force employees to wait before moving jobs or starting companies, an issue that has drawn complaints from startups (Shona Ghosh/Bloomberg)"
-    },
-    {
-     "title": "The Chinese developer of ARTEX says they have converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks (Brenda Goh/Reuters)",
-     "link": "https://www.techmeme.com/261009/p11#a261009p11",
-     "pubDate": "Fri, 09 Oct 2026 07:55:01 -0400",
-     "summary": "Brenda Goh / Reuters : The Chinese developer of ARTEX says they have converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks &nbsp; &mdash;&nbsp; The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project ",
-     "source": "Techmeme",
-     "zh": "The Chinese developer of ARTEX says they have converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks (Brenda Goh/Reuters)"
-    },
-    {
-     "title": "安踏集团正式成为彪马最大股东；lululemon开启2026“一起好状态”年度活动；星巴克进入新疆市场；ALO张园限时体验空间启幕｜消研所周报",
-     "link": "https://www.tmtpost.com/8163045.html",
-     "pubDate": "Fri, 09 Oct 2026 19:04:35 +0800",
-     "summary": "NikeSKIMS上海慢闪店开幕；雅诗兰黛集团发布第九届进博参展主题“至美八十，创见未见”。",
-     "source": "钛媒体",
-     "zh": "安踏集团正式成为彪马最大股东；lululemon开启2026“一起好状态”年度活动；星巴克进入新疆市场；ALO张园限时体验空间启幕｜消研所周报"
     }
    ]
   },
@@ -1960,6 +1960,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Character.ai chatbots encouraged self-harm, lawsuit alleges",
+     "link": "https://www.androidauthority.com/character-ai-lawsuit-chatbots-encouraged-self-harm-3721360/",
+     "pubDate": "Fri, 09 Oct 2026 16:21:59 +0000",
+     "summary": "It called a user a \"whale\" and told them to starve.",
+     "source": "Android Authority",
+     "zh": "Character.ai chatbots encouraged self-harm, lawsuit alleges"
+    },
+    {
+     "title": "This compact Samsung soundbar with built-in woofer just dropped to $79.99",
+     "link": "https://www.androidauthority.com/samsung-b-series-soundbar-hw-b400f-deal-3721458/",
+     "pubDate": "Fri, 09 Oct 2026 16:16:07 +0000",
+     "summary": "Save 43% on Samsung’s compact HW-B400F soundbar, a 2025 model with Voice Enhance, Bass Boost, and HDMI ARC.",
+     "source": "Android Authority",
+     "zh": "This compact Samsung soundbar with built-in woofer just dropped to $79.99"
+    },
     {
      "title": "Apple ‘Welcome home’ event: Three new products are coming next week",
      "link": "https://9to5mac.com/2026/10/09/apple-welcome-home-event-three-new-products/",
@@ -1975,6 +1991,14 @@
      "summary": "The XGIMI MoGo 4 with PowerBase Stand drops to a record-low $417, with 1080p streaming and up to 5 hours of battery life.",
      "source": "Android Authority",
      "zh": "Amazon cuts 24% off the XGIMI MoGo 4 bundle for the first time"
+    },
+    {
+     "title": "Googlebook’s hidden ‘Glowbar Disco’ turns your laptop’s lid into a light show — how to find it",
+     "link": "https://9to5google.com/2026/10/09/googlebook-glowbar-disco-app/",
+     "pubDate": "Fri, 09 Oct 2026 15:55:00 +0000",
+     "summary": "Buried in the settings of Googlebook is a “Glowbar Disco” app that activates the LEDs on your laptop constantly, instead of leaving it blank. more…",
+     "source": "9to5Google",
+     "zh": "Googlebook’s hidden ‘Glowbar Disco’ turns your laptop’s lid into a light show — how to find it"
     },
     {
      "title": "Deals: Galaxy S26/Ultra up to $510 off, Lenovo IdeaPad 2K touchscreen laptop $250 off, Anker chargers, more",
@@ -2009,12 +2033,12 @@
      "zh": "Pixel Watch 4 update adds Google’s AI watch face generator, more"
     },
     {
-     "title": "Amazon admits some of its latest Kindles have a defect",
+     "title": "Amazon admits some of its latest Kindles have a defect (Update: New statement)",
      "link": "https://www.androidauthority.com/amazon-kindle-2026-light-bleed-3721398/",
      "pubDate": "Fri, 09 Oct 2026 15:28:35 +0000",
      "summary": "Amazon’s Kindle 2026 rollout stumbles as users report light bleed problem.",
      "source": "Android Authority",
-     "zh": "Amazon admits some of its latest Kindles have a defect"
+     "zh": "Amazon admits some of its latest Kindles have a defect (Update: New statement)"
     },
     {
      "title": "At $450 off, the Samsung Galaxy S26 Ultra has rarely been this cheap",
@@ -2041,14 +2065,6 @@
      "zh": "The RedMagic 12 Pro+ is shaping up to be an RGB lover’s dream"
     },
     {
-     "title": "Deal: The CMF Watch Pro 2 just hit a record-low $36 on Amazon",
-     "link": "https://www.androidauthority.com/deal-cmf-watch-pro-2-2-3721405/",
-     "pubDate": "Fri, 09 Oct 2026 14:50:47 +0000",
-     "summary": "The Watch Pro 2 is down 27% off, bringing this budget smartwatch with AMOLED, GPS, and Bluetooth calling to a record low.",
-     "source": "Android Authority",
-     "zh": "Deal: The CMF Watch Pro 2 just hit a record-low $36 on Amazon"
-    },
-    {
      "title": "Apple TV reveals ‘unconventional’ rom-com show with The White Lotus star",
      "link": "https://9to5mac.com/2026/10/09/apple-tv-reveals-unconventional-rom-com-show-with-the-white-lotus-star/",
      "pubDate": "Fri, 09 Oct 2026 14:44:12 +0000",
@@ -2063,14 +2079,6 @@
      "summary": "SpaceX has announced plans to make Starlink Mobile a “major mobile carrier in the US” thanks to two major new developments. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "SpaceX to become ‘major mobile carrier’ in US with Starlink Mobile upgrades"
-    },
-    {
-     "title": "We’re one step closer to a desktop experience built for AI agents, and this is what it looks like",
-     "link": "https://www.androidauthority.com/new-ai-apps-services-open-swarm-3721189/",
-     "pubDate": "Fri, 09 Oct 2026 14:15:39 +0000",
-     "summary": "Open Swarm joins a trio of other AI tools in this week’s roundup.",
-     "source": "Android Authority",
-     "zh": "We’re one step closer to a desktop experience built for AI agents, and this is what it looks like"
     },
     {
      "title": "Apple’s new ‘second-party’ HomeKit products will have this exclusive iPhone feature",
@@ -2191,14 +2199,6 @@
      "summary": "让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。 查看全文",
      "source": "少数派",
      "zh": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧"
-    },
-    {
-     "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
-     "link": "https://sspai.com/post/114869",
-     "pubDate": "Fri, 09 Oct 2026 10:08:37 +0800",
-     "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-     "source": "少数派",
-     "zh": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts"
     }
    ]
   },
@@ -2208,6 +2208,62 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
+     "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+     "pubDate": "Fri, 09 Oct 2026 16:26:44 GMT",
+     "summary": "SpaceX announced the spectrum deal Thursday, as the company aims to push deeper into the telecom market through its Starlink service.",
+     "source": "CNBC",
+     "zh": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos"
+    },
+    {
+     "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+     "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 16:22:00 GMT",
+     "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
+     "source": "MarketWatch",
+     "zh": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most."
+    },
+    {
+     "title": "Wall Street perks up as tech pain eases",
+     "link": "https://seekingalpha.com/news/4651757-wall-street-perks-up-as-tech-pain-eases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 12:13:05 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Wall Street perks up as tech pain eases"
+    },
+    {
+     "title": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies",
+     "link": "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 16:12:00 GMT",
+     "summary": "Supply disruptions during the Atlantic hurricane season usually end up being a blip. This year could be very different.",
+     "source": "MarketWatch",
+     "zh": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies"
+    },
+    {
+     "title": "Glaukos' iDose TR meets primary goal in phase 4 trial",
+     "link": "https://seekingalpha.com/news/4651824-glaukos-idose-tr-meets-primary-goal-phase-4-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 12:10:45 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Glaukos' iDose TR meets primary goal in phase 4 trial"
+    },
+    {
+     "title": "Americans&apos; debt problems are flashing a warning not seen since the Great Recession",
+     "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+     "pubDate": "Fri, 09 Oct 2026 16:10:41 GMT",
+     "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+     "source": "CNBC",
+     "zh": "Americans&apos; debt problems are flashing a warning not seen since the Great Recession"
+    },
+    {
+     "title": "Trump appoints committee to investigate statements by the Fed&apos;s Lisa Cook",
+     "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+     "pubDate": "Fri, 09 Oct 2026 16:10:02 GMT",
+     "summary": "Trump tried to fire Cook, a nominee of former President Joe Biden, but the Supreme Court blocked his first attempt.",
+     "source": "CNBC",
+     "zh": "Trump appoints committee to investigate statements by the Fed&apos;s Lisa Cook"
+    },
     {
      "title": "EU-China understanding could halve Chinese hybrid car exports",
      "link": "https://seekingalpha.com/news/4651822-eu-china-understanding-could-halve-chinese-hybrid-car-exports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2239,54 +2295,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Johnson & Johnson says long-term data boosts Icotyde for plaque psoriasis"
-    },
-    {
-     "title": "荷兰政府提议立法 允许拦截俄罗斯影子舰队",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891597811.html",
-     "pubDate": "Fri, 09 Oct 2026 23:54:00 +0800",
-     "summary": "荷兰政府提议立法，允许拦截俄罗斯影子舰队。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "荷兰政府提议立法 允许拦截俄罗斯影子舰队"
-    },
-    {
-     "title": "ICE10月柴油期货结算价为每吨1483.00美元",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891597752.html",
-     "pubDate": "Fri, 09 Oct 2026 23:53:27 +0800",
-     "summary": "ICE10月柴油 期货 结算价为每吨1483.00美元。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "ICE10月柴油期货结算价为每吨1483.00美元"
-    },
-    {
-     "title": "特朗普：国土安全部部长干得很出色",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891597425.html",
-     "pubDate": "Fri, 09 Oct 2026 23:52:28 +0800",
-     "summary": "特朗普：国土安全部部长干得很出色。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：国土安全部部长干得很出色"
-    },
-    {
-     "title": "国际货币基金组织表示 赞比亚与非洲进出口银行已就债务重组基本达成一致",
-     "link": "http://finance.eastmoney.com/news/1351,202610093891597543.html",
-     "pubDate": "Fri, 09 Oct 2026 23:52:27 +0800",
-     "summary": "国际货币基金组织表示，赞比亚与非洲进出口 银行 已就债务重组基本达成一致，目前仅剩手续性事宜。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "国际货币基金组织表示 赞比亚与非洲进出口银行已就债务重组基本达成一致"
-    },
-    {
-     "title": "美股三大指数集体上涨 超大规模云厂商股价走高 纳斯达克中国金龙指数涨超2%",
-     "link": "http://finance.eastmoney.com/news/1345,202610093891490496.html",
-     "pubDate": "Fri, 09 Oct 2026 23:50:33 +0800",
-     "summary": "美东时间周五，美股三大指数集体上涨，截至发稿，道指涨0.51%，纳指涨0.51%，标普500指数涨0.42%。 超大规模云厂商股价集体上涨。截至发稿， 谷歌-A 股价上涨1.45%，报353.35美元/股，总市值报4.32万亿美元； 微软 股价上涨2.10%，报533.56美元/股，总市值报3.96万亿美元； 亚马逊 股价上涨2.75%，报261.05美元/股，总市值报2.82万亿美元； 甲骨文 股价上涨4.82%，报141.71美元/股，总市值报4296亿美元。 热门中概股集体大涨，出行与 新能源 车板块涨幅居前，截至发稿， 纳斯达克 中国金龙指数涨2.81%，报5760.31点。个股方面，",
-     "source": "东方财富股票",
-     "zh": "美股三大指数集体上涨 超大规模云厂商股价走高 纳斯达克中国金龙指数涨超2%"
-    },
-    {
-     "title": "安达科技碳酸锂套保，确认损益及阶段性浮亏合计5860万元，占去年归母净利润绝对值22.82%",
-     "link": "http://finance.eastmoney.com/news/1354,202610093891597641.html",
-     "pubDate": "Fri, 09 Oct 2026 23:50:30 +0800",
-     "summary": "安达科技 （BJ920809，股价7.28元，市值43.61亿元）10月9日晚间披露，受近期碳酸 锂 价格波动加剧影响，截至2026年9月30日，公司套期保值业务已确认损益及浮动亏损金额合计-5860.19万元，占最近一年经审计归母净利润绝对值的比例为22.82%。 公司表示，尚未完成平仓的套期保值交易预计损益金额会随着市场情况变化而波动，最终影响金额以正式披露的经审计数据为准。作为磷酸铁 锂 正极材料生产商， 安达科技 开展套保业务旨在规避碳酸 锂 价格波动对生产经营的潜在风险，不以投机和套利交易为目的。 确认损益及阶段性浮亏合计5860.19万元 安达科技 10月9日晚间发布《关于开展 期",
-     "source": "东方财富股票",
-     "zh": "安达科技碳酸锂套保，确认损益及阶段性浮亏合计5860万元，占去年归母净利润绝对值22.82%"
     },
     {
      "title": "印度史上最大IPO要来了？安巴尼旗下Jio据悉拟募资约3020亿卢比",
@@ -2321,14 +2329,6 @@
      "zh": "S&P 500’s top five stocks match market cap of bottom 434, Batnick says"
     },
     {
-     "title": "Teva gains approval of monthly olanzapine injection for schizophrenia",
-     "link": "https://seekingalpha.com/news/4651816-teva-gains-approval-monthly-olanzapine-injection-schizophrenia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 11:21:43 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Teva gains approval of monthly olanzapine injection for schizophrenia"
-    },
-    {
      "title": "ICE won&apos;t pause enforcement in NY after Bronx shooting, DHS&apos; Mullin says",
      "link": "https://www.cnbc.com/2026/10/09/ice-bronx-shooting-mamdani-dhs.html",
      "pubDate": "Fri, 09 Oct 2026 15:20:56 GMT",
@@ -2351,22 +2351,6 @@
      "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
      "source": "MarketWatch",
      "zh": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?"
-    },
-    {
-     "title": "Trump appoints committee to investigate statements by the Fed&apos;s Lisa Cook",
-     "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-     "pubDate": "Fri, 09 Oct 2026 15:18:12 GMT",
-     "summary": "Trump tried to fire Cook, a nominee of former President Joe Biden, but the Supreme Court blocked his first attempt.",
-     "source": "CNBC",
-     "zh": "Trump appoints committee to investigate statements by the Fed&apos;s Lisa Cook"
-    },
-    {
-     "title": "McEwen to sell Ontario properties to Discovery Mining in $55M cash-and-stock deal",
-     "link": "https://seekingalpha.com/news/4651778-mcewen-to-sell-ontario-properties-to-discovery-mining-in-55m-cash-and-stock-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 11:17:18 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "McEwen to sell Ontario properties to Discovery Mining in $55M cash-and-stock deal"
     },
     {
      "title": "Donald Trump launches committee to investigate Fed governor Lisa Cook",
@@ -2401,28 +2385,12 @@
      "zh": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds"
     },
     {
-     "title": "Mortgage rates are soaring. In America, the smart money rents.",
-     "link": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 14:55:00 GMT",
-     "summary": "If buying a home right now is such a great idea, why doesn’t Wall Street want to do it?",
-     "source": "MarketWatch",
-     "zh": "Mortgage rates are soaring. In America, the smart money rents."
-    },
-    {
      "title": "42岁向佐自曝喝蛋白粉，肾脏年龄相当于70岁老人！",
      "link": "http://www.eeo.com.cn/2026/1009/1059078.shtml",
      "pubDate": "Fri, 09 Oct 2026 22:52:07 +0800",
      "summary": "近期，42岁演员向佐在一档综艺节目中透露，其曾长期过量冲饮高浓度蛋白粉，导致肾功能严重衰退，医生评估他的肾脏年龄相当于70岁老人，严重时甚至“直接走路都有问题”。一时间，#向佐喝蛋白粉把肾喝成70岁#话题冲上热搜。 蛋白粉作为常见的运动营养补剂，是不少健身人群的选择，伴随话题发酵，不少网友表示：夸张了，蛋白粉不背这个锅；有网友提出疑问：蛋白粉到底会不会伤肾？ 医生提醒，健康人群日常饮食足以满...",
      "source": "经济观察网",
      "zh": "42岁向佐自曝喝蛋白粉，肾脏年龄相当于70岁老人！"
-    },
-    {
-     "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-     "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 14:50:00 GMT",
-     "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
-     "source": "MarketWatch",
-     "zh": "Millions of Americans will have fewer options during Medicare open enrollment this year"
     },
     {
      "title": "Sibos 2026: Trust and collaboration at 'machine speed' needed to fight banking industry threats",
@@ -2433,20 +2401,52 @@
      "zh": "Sibos 2026: Trust and collaboration at 'machine speed' needed to fight banking industry threats"
     },
     {
-     "title": "Americans&apos; debt problems are flashing a warning not seen since the Great Recession",
-     "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-     "pubDate": "Fri, 09 Oct 2026 14:30:06 GMT",
-     "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
-     "source": "CNBC",
-     "zh": "Americans&apos; debt problems are flashing a warning not seen since the Great Recession"
-    },
-    {
      "title": "Revolut to create its own scent",
      "link": "https://www.finextra.com/newsarticle/48565/revolut-to-create-its-own-scent?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Fri, 09 Oct 2026 14:29:00 GMT",
      "summary": "Fintech Revolut is on the hunt for a scent branding agency to help it translate its brand into a fragrance that is \"unmistakably ours\".",
      "source": "Finextra",
      "zh": "Revolut to create its own scent"
+    },
+    {
+     "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
+     "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
+     "pubDate": "Fri, 09 Oct 2026 14:13:40 GMT",
+     "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
+     "source": "CNBC",
+     "zh": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries"
+    },
+    {
+     "title": "薛继豪正式担任泰康人寿总经理",
+     "link": "http://www.eeo.com.cn/2026/1009/1059063.shtml",
+     "pubDate": "Fri, 09 Oct 2026 22:13:07 +0800",
+     "summary": "21世纪经济报道记者 林汉垚 近日，泰康人寿发布公告称，经泰康人寿研究决定，并报国家金融监管总局核准任职资格，自2026年9月28日起，薛继豪担任泰康人寿总经理。 去年12月26日，泰康人寿就曾发布公告称，自2025年12月23日起，薛继豪担任泰康人寿临时负责人，代行总经理职责。 公开资料显示，薛继豪，男，1968年12月出生，本硕均毕业于南开大学，获保险专业学士学位、货币银行学专业硕士学位。 目前，...",
+     "source": "经济观察网",
+     "zh": "薛继豪正式担任泰康人寿总经理"
+    },
+    {
+     "title": "美股开盘：存储芯片板块齐涨，闪迪、美光科技、SK海力涨超1%",
+     "link": "http://www.eeo.com.cn/2026/1009/1059062.shtml",
+     "pubDate": "Fri, 09 Oct 2026 22:13:05 +0800",
+     "summary": "中新经纬10月9日电 北京时间10月9日晚间，美股三大指数集体高开，标普500指数涨0.29%，道指涨0.14%，纳指涨0.55%。 美股“科技七巨头”盘初多数上涨，特斯拉涨2.04%，微软涨1.31%，亚马逊涨1.01%，谷歌涨0.92%，英伟达涨0.90%，Meta涨0.50%，苹果跌2.18%。 存储芯片板块齐涨，闪迪、美光科技、SK海力涨超1%，希捷科技涨近1%，西部数据涨超0.6%。(中新经纬APP)",
+     "source": "经济观察网",
+     "zh": "美股开盘：存储芯片板块齐涨，闪迪、美光科技、SK海力涨超1%"
+    },
+    {
+     "title": "商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问",
+     "link": "http://www.eeo.com.cn/2026/1009/1059056.shtml",
+     "pubDate": "Fri, 09 Oct 2026 22:05:03 +0800",
+     "summary": "经济观察网 10月9日，商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问。 问：美东时间10月7日，美贸易代表办公室（USTR）发布公告称，近期美国召集14个经济体高级官员举行会议，共同签署发布应对所谓“结构性产能和生产过剩”问题的部长级联合声明。请问商务部对此有何评论？ 答：我们注意到有关情况。中方已在不同场合多次阐明关于所谓“产能过剩”问题的看...",
+     "source": "经济观察网",
+     "zh": "商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问"
+    },
+    {
+     "title": "“三星堆—金沙：青铜时代的古蜀文明”系列丛书亮相法兰克福国际书展",
+     "link": "http://www.eeo.com.cn/2026/1009/1059055.shtml",
+     "pubDate": "Fri, 09 Oct 2026 22:01:07 +0800",
+     "summary": "德国当地时间10月7日，第78届法兰克福国际书展现场，四川大学出版社携手施普林格&middot;自然集团推出的&ldquo;三星堆&mdash;金沙：青铜时代的古蜀文明&rdquo;系列丛书英文版全球首发。 本套丛书以书为桥，向全球学界展现古蜀考古的前沿研究。 <img src=\"https://img.gmw.cn/imgmeiwen/attachement/jpg/site2/20261009/82c54fbcef6b470ab9e89694787f02c5.jpg\" borde...",
+     "source": "经济观察网",
+     "zh": "“三星堆—金沙：青铜时代的古蜀文明”系列丛书亮相法兰克福国际书展"
     }
    ]
   },

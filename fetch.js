@@ -720,6 +720,10 @@ async function renderBloggers() {
   }
   freshByDate('freshBloggers', data.date, '数据 ');
 
+  const disclaimer = data.disclaimer
+    ? '<div class="blogger-disclaimer">🤖 ' + escHtml(data.disclaimer) + '</div>'
+    : '';
+
   const tagMap = {
     '稳健型': 'tag-steady',
     '成长型': 'tag-growth',
@@ -753,7 +757,7 @@ async function renderBloggers() {
     '中性': 'st-neu',
   };
 
-  let html = '<div class="blogger-grid">';
+  let html = disclaimer + '<div class="blogger-grid">';
   for (const b of data.bloggers) {
     const tagCls = tagMap[b.followerTag] || 'tag-steady';
     const sentCls = sentimentMap[b.sentiment] || 'neutral';

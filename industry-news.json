@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/9 13:11:53",
+ "generated_at": "2026/10/9 13:31:51",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
+     "link": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
+     "pubDate": "Fri, 09 Oct 2026 05:06:17 +0000",
+     "summary": "Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents. The post Google Research RRSI Guide: Mastering Self-Improving AI Agents appeared f",
+     "source": "MarkTechPost",
+     "zh": "Google Research RRSI Guide: Mastering Self-Improving AI Agents"
+    },
     {
      "title": "GPT-6.1 Sol极速版快8倍，但依然口碑秒崩？“变相涨价”被网友怒喷",
      "link": "https://zhidx.com/p/599323.html",
@@ -239,14 +247,6 @@
      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
      "source": "OpenAI",
      "zh": "Pollo AI turns creative ideas into campaigns with OpenAI"
-    },
-    {
-     "title": "LegalOn halves Codex costs while maintaining development speed",
-     "link": "https://openai.com/index/legalon-halves-codex-costs",
-     "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
-     "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-     "source": "OpenAI",
-     "zh": "LegalOn halves Codex costs while maintaining development speed"
     }
    ]
   },
@@ -305,14 +305,6 @@
      "zh": "Innodisk, Apacer post September 2026 revenue growth on AI demand"
     },
     {
-     "title": "Where Are The Centrists?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/m-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 00:00:28 +0000",
-     "summary": "Political centrists outnumber Rightists and Leftists in Germany, Japan, and South Africa, according to Statista Consumer Insights. In Germany, 41% of respondents said that they were in the centre , […] The post Where Are The Centrists? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Where Are The Centrists?"
-    },
-    {
      "title": "Why Custom Silicon Matters in AI Data Centers",
      "link": "https://www.eetimes.com/why-custom-silicon-matters-in-ai-data-centers/",
      "pubDate": "Thu, 08 Oct 2026 19:16:44 +0000",
@@ -327,14 +319,6 @@
      "summary": "Intel Foundry published a two article series on chip power delivery that are worth reading. Here is a quick summary: Artificial intelligence is changing the requirements for semiconductor innovation. Faster transistors and denser packaging remain essential, but their benefits increasingly depend on ",
      "source": "SemiWiki",
      "zh": "Data Center Energy Trends Force a Rethink of Chip Power Delivery"
-    },
-    {
-     "title": "Universal Quantum raises $100m for trapped-ion quantum computing",
-     "link": "https://www.electronicsweekly.com/uk-region/universal-quantum-raises-100m-for-trapped-ion-quantum-computing-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 15:02:47 +0000",
-     "summary": "Universal Quantum, the UK and German quantum computing startup, has secured $100 million in Series A funding. The company notes it is the largest Series A ever raised by a […] The post Universal Quantum raises $100m for trapped-ion quantum computing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Universal Quantum raises $100m for trapped-ion quantum computing"
     },
     {
      "title": "WEBINAR: The Convergence of Edge Accelerators",
@@ -369,22 +353,6 @@
      "zh": "NVIDIA Jetson to SiMa.ai Modalix MLSoC Migration Guide"
     },
     {
-     "title": "Powell supplies low-force 15-pin connectors from Planetary Systems",
-     "link": "https://www.electronicsweekly.com/news/products/connectors/powell-supplies-low-force-15-pin-connectors-from-planetary-systems-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 13:57:35 +0000",
-     "summary": "Powell Electronics is supplying a low-force 15-pin connector pair from Planetary Systems for signal transfers in spaceflight applications. The pair – 4000106C for the lower separation connector and 4000107C for […] The post Powell supplies low-force 15-pin connectors from Planetary Systems appeared ",
-     "source": "Electronics Weekly",
-     "zh": "Powell supplies low-force 15-pin connectors from Planetary Systems"
-    },
-    {
-     "title": "Fable: The Guy Who Focussed",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-guy-who-focussed-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 13:15:50 +0000",
-     "summary": "There was once a sprawling corporate which was bleeding to death. It lost $5.7 billion one year on top of the $3.1 billion it had lost the previous year. Then a […] The post Fable: The Guy Who Focussed appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Fable: The Guy Who Focussed"
-    },
-    {
      "title": "The silent killer of analog reliability: Why SPICE misses floating net",
      "link": "https://semiwiki.com/eda/siemens-eda/374257-the-silent-killer-of-analog-reliability-why-spice-misses-floating-net/",
      "pubDate": "Thu, 08 Oct 2026 13:00:35 +0000",
@@ -407,22 +375,6 @@
      "summary": "Register now for our webinar to discover how Navitas 2.0 is revolutionizing AI infrastructure power delivery. The post Breaking the AI Infrastructure Power Wall: From Grid to xPU appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Breaking the AI Infrastructure Power Wall: From Grid to xPU"
-    },
-    {
-     "title": "Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/pic-of-the-day-googles-project-suncatcher-datacentre-satellite-in-orbit-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 11:24:24 +0000",
-     "summary": "Check out the launch of Google's Project Suncatcher prototype datacentre satellite, with its Trillium TPUs (Tensor Processing Units). It's courtesy of SpaceX's Transporter-18 rideshare mission. The post Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit appeared first on Elect",
-     "source": "Electronics Weekly",
-     "zh": "Pic of the Day: Google’s Project Suncatcher datacentre satellite in orbit"
-    },
-    {
-     "title": "Connectivity challenges evolve as systems move into higher-frequency operation",
-     "link": "https://www.electronicsweekly.com/news/business/connectivity-challenges-evolve-as-systems-move-into-higher-frequency-operation-2026-10/",
-     "pubDate": "Thu, 08 Oct 2026 11:00:22 +0000",
-     "summary": "As the communications network moves into the millimetre-wave spectrum connectivity becomes a larger challenge, writes Dr Tudor Williams. As satellite constellations expand 5G infrastructure becomes more densely deployed and defence […] The post Connectivity challenges evolve as systems move into hig",
-     "source": "Electronics Weekly",
-     "zh": "Connectivity challenges evolve as systems move into higher-frequency operation"
     },
     {
      "title": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War",
@@ -495,6 +447,54 @@
      "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
      "source": "Semiconductor Today",
      "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
+    },
+    {
+     "title": "From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs",
+     "link": "https://semiwiki.com/artificial-intelligence/374386-from-blueprint-to-production-how-rambus-brings-commercial-grade-caliptra-security-to-ai-socs/",
+     "pubDate": "Wed, 07 Oct 2026 17:00:03 +0000",
+     "summary": "Semiconductor designers today face a critical hurdle: how to smoothly transition from an open-source hardware blueprint to a commercially hardened, production-ready silicon implementation. As semiconductors play an increasingly essential role in powering the AI era, safeguarding these hardware found",
+     "source": "SemiWiki",
+     "zh": "From Blueprint to Production: How Rambus Brings Commercial-Grade Caliptra Security to AI SoCs"
+    },
+    {
+     "title": "From Cloud to Silicon: IC-Link and TSMC Open the Door",
+     "link": "https://semiwiki.com/semiconductor-manufacturers/374282-from-cloud-to-silicon-ic-link-and-tsmc-open-the-door/",
+     "pubDate": "Wed, 07 Oct 2026 15:00:23 +0000",
+     "summary": "Access to advanced semiconductor technology involves much more than choosing a process node. Design teams also need computing capacity, compatible tools, secure technology access, and experienced support. IC-Link by imec’s expanded collaboration with TSMC addresses that combination, potentially maki",
+     "source": "SemiWiki",
+     "zh": "From Cloud to Silicon: IC-Link and TSMC Open the Door"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
+    },
+    {
+     "title": "Mivium demonstrates commercially viable production of phase-pure h-GaN nanoparticles",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/mivium-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 12:06:53 +0100",
+     "summary": "Materials technology company Mivium Inc of Fremont, CA, USA has achieved the production of high-purity submicron gallium nitride (GaN) particles using its proprietary technology platform (which extends to additional wide-bandgap and advanced semiconductor materials including gallium oxide and boron ",
+     "source": "Semiconductor Today",
+     "zh": "Mivium demonstrates commercially viable production of phase-pure h-GaN nanoparticles"
     }
    ]
   },
@@ -1305,6 +1305,14 @@
    "total": 6,
    "items": [
     {
+     "title": "Europe’s Space Defenses Fall Just Shy of Weaponization",
+     "link": "https://payloadspace.com/europes-space-defenses-fall-just-shy-of-weaponization/",
+     "pubDate": "Fri, 09 Oct 2026 05:13:00 +0000",
+     "summary": "Europe doesn’t have any weapons in space—but that doesn’t mean the region is comfortable flying around in orbit defenseless. The post Europe’s Space Defenses Fall Just Shy of Weaponization appeared first on Payload .",
+     "source": "Payload",
+     "zh": "Europe’s Space Defenses Fall Just Shy of Weaponization"
+    },
+    {
      "title": "APOD: 2026 October 9 – Stickney Crater",
      "link": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
      "pubDate": "Fri, 09 Oct 2026 04:05:00 +0000",
@@ -1423,14 +1431,6 @@
      "summary": "“It’s a transformed relationship between Colorado Springs and Huntsville,” Rep. Jeff Crank (R-CO) told Payload. “When I took office, I don’t think it was a bad relationship, but it was one where both communities were kind of looking over their shoulder at the other. That wasn’t good for America, and",
      "source": "Payload",
      "zh": "Colorado Springs, Huntsville Team Up on Golden Dome"
-    },
-    {
-     "title": "HawkEye 360 Turns its RF-Sensors to Orbital Targets",
-     "link": "https://payloadspace.com/hawkeye-360-turns-its-rf-sensors-to-orbital-targets/",
-     "pubDate": "Tue, 06 Oct 2026 13:00:00 +0000",
-     "summary": "The DoD wants to better understand what’s going on in orbit. HawkEye 360 ($HAWK) has the inside scoop. The post HawkEye 360 Turns its RF-Sensors to Orbital Targets appeared first on Payload .",
-     "source": "Payload",
-     "zh": "HawkEye 360 Turns its RF-Sensors to Orbital Targets"
     },
     {
      "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
@@ -1705,6 +1705,22 @@
    "total": 18,
    "items": [
     {
+     "title": "比亚迪人形机器人外观专利公布",
+     "link": "https://www.ithome.com/1/010/907.htm",
+     "pubDate": "Fri, 09 Oct 2026 05:19:51 GMT",
+     "summary": "IT之家 10 月 9 日消息，国家知识产权局今日（10 月 9 日）公示了一项具身智能机器人的外观设计专利，专利权人为比亚迪股份有限公司。 该专利展示了一款人形机器人的外观设计， 用于具备行走、平衡及交互功能的智能机器人 ，可应用于服务机器人、教育或工业场景。 综合IT之家此前报道，比亚迪执行副总裁李柯今年 6 月表示， 希望未来每家比亚迪门店都能部署机器人 ，并能够向顾客介绍和演示车辆，面向家庭和服务行业的人形机器人将成为比亚迪的一个巨大市场。“我的目标是在每家门店放两三台机器人。机器人可以为顾客讲解，也可以活跃气氛，甚至能够展示和演示车辆。”",
+     "source": "IT之家",
+     "zh": "比亚迪人形机器人外观专利公布"
+    },
+    {
+     "title": "最便宜谷歌 Googlebook 上市不足一周，至少 4 人遭遇无限重启循环",
+     "link": "https://www.ithome.com/1/010/906.htm",
+     "pubDate": "Fri, 09 Oct 2026 05:11:59 GMT",
+     "summary": "IT之家 10 月 9 日消息，科技媒体 Android Authority 昨日（10 月 8 日）发布博文， 报道称上市不到 1 周时间，至少有 4 名宏碁 Googlebook 14 用户反馈，设备在更新后陷入无限重启循环。 IT之家注：谷歌在 9 月 21 日的活动中，发布了 5 款 Googlebook，其中宏碁 Googlebook 14 是其中最便宜的型号，也是唯一一款二合一笔记本电脑。 根据用户反馈，首次开机并连接手机后，系统提示更新。用户点击更新之后，笔记本一会儿显示宏碁的标志几秒钟，一会儿显示“正在更新”大约十分钟，如此反复循环。 另一名用户称，设备进入恢复模式后提示缺少网",
+     "source": "IT之家",
+     "zh": "最便宜谷歌 Googlebook 上市不足一周，至少 4 人遭遇无限重启循环"
+    },
+    {
      "title": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)",
      "link": "https://www.techmeme.com/261009/p2#a261009p2",
      "pubDate": "Fri, 09 Oct 2026 01:05:01 -0400",
@@ -1801,6 +1817,14 @@
      "zh": "ChatGPT 量产了真实，也复兴了“伪纪录片”"
     },
     {
+     "title": "Cybernetics of AI Companies",
+     "link": "https://ai-cybernetics.grok.me",
+     "pubDate": "Fri, 09 Oct 2026 04:43:20 +0000",
+     "summary": "Article URL: https://ai-cybernetics.grok.me Comments URL: https://news.ycombinator.com/item?id=50016067 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Cybernetics of AI Companies"
+    },
+    {
      "title": "“RISC-V 第一股”奕斯伟计算在香港上市，“京东方之父”王东升创办",
      "link": "https://www.ithome.com/1/010/903.htm",
      "pubDate": "Fri, 09 Oct 2026 04:39:56 GMT",
@@ -1839,22 +1863,6 @@
      "summary": "IT之家 10 月 9 日消息，当地时间 8 日，AI 模型评测平台 Arena 竞技场宣布完成 2 亿美元 （IT之家注：现汇率约合 13.43 亿元人民币） B 轮融资， 估值达到 31 亿美元 （现汇率约合 208.17 亿元人民币） 。Arena 最初是加州大学伯克利分校 2023 年的一项研究项目，通过公众投票对 AI 模型进行排名。 Arena 此前披露，今年 6 月的年化营收达到 1 亿美元 （现汇率约合 6.72 亿元人民币） 。 本轮融资由光速创投和 Khosla Ventures 共同领投，Salesforce Ventures、01 Advisors、戴尔科技资本、End",
      "source": "IT之家",
      "zh": "短短 10 个月几乎翻倍，AI 模型评测平台 Arena 估值升至 31 亿美元"
-    },
-    {
-     "title": "纯手工黏土定格动画电影《小羊肖恩 3 怪兽来袭》定档 10 月 24 日内地上映，全片超 10 万帧定格画面",
-     "link": "https://www.ithome.com/1/010/898.htm",
-     "pubDate": "Fri, 09 Oct 2026 04:22:20 GMT",
-     "summary": "IT之家 10 月 9 日消息，小羊肖恩官方今日宣布，定格动画电影《小羊肖恩 3 怪兽来袭》定档 10 月 24 日内地上映。 据介绍，该动画电影由纯手工黏土定格制作，全片超过 10 万帧定格画面。该片已在今年 9 月于英国、北美上映。 IT之家附剧情简介： 青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！",
-     "source": "IT之家",
-     "zh": "纯手工黏土定格动画电影《小羊肖恩 3 怪兽来袭》定档 10 月 24 日内地上映，全片超 10 万帧定格画面"
-    },
-    {
-     "title": "对标苹果 AirPods Max：三星 Galaxy Studio 曝光，时隔 11 年重返头戴式耳机市场",
-     "link": "https://www.ithome.com/1/010/895.htm",
-     "pubDate": "Fri, 09 Oct 2026 04:20:17 GMT",
-     "summary": "IT之家 10 月 9 日消息，消息源 @evowizz 昨日（10 月 8 日）在 X 平台发布推文， 爆料称三星首款头戴式耳机名为 Galaxy Studio，上市后将会和苹果的 AirPods Max 正面竞争。 IT之家查询公开资料，@evowizz 在爆料方面相对不是很活跃，不过他此前曾精准爆料三星首款耳夹式耳机名为 Galaxy Buds On，可信度较高，目前海外 9to5Google、Android Authority 和 Android Headline 等诸多主流安卓媒体已采信跟进报道。 在头戴式耳机方面，三星曾于 2015 年推出 Level Over 与 Level O",
-     "source": "IT之家",
-     "zh": "对标苹果 AirPods Max：三星 Galaxy Studio 曝光，时隔 11 年重返头戴式耳机市场"
     },
     {
      "title": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties (Emily Forlini/Fortune)",
@@ -1913,6 +1921,14 @@
      "zh": "8000亿“准财政”开闸，天顺风能抢到2.29亿，但风电的苦日子还没到头"
     },
     {
+     "title": "Anger as man sentenced to death for Facebook comment",
+     "link": "https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304",
+     "pubDate": "Fri, 09 Oct 2026 03:03:54 +0000",
+     "summary": "Article URL: https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304 Comments URL: https://news.ycombinator.com/item?id=50015486 Points: 26 # Comments: 11",
+     "source": "Hacker News",
+     "zh": "Anger as man sentenced to death for Facebook comment"
+    },
+    {
      "title": "Microsoft denies JD Vance&apos;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)",
      "link": "https://www.techmeme.com/261008/p55#a261008p55",
      "pubDate": "Thu, 08 Oct 2026 22:15:56 -0400",
@@ -1921,28 +1937,12 @@
      "zh": "Microsoft denies JD Vance&apos;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)"
     },
     {
-     "title": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)",
-     "link": "https://www.techmeme.com/261008/p54#a261008p54",
-     "pubDate": "Thu, 08 Oct 2026 21:55:00 -0400",
-     "summary": "Sergiu Gatlan / BleepingComputer : A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions &nbsp; &mdash;&nbsp; The co-creator of Empire Market, one of the largest dark web marketplaces before it",
-     "source": "Techmeme",
-     "zh": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)"
-    },
-    {
-     "title": "Sources: Flock plans to let go of ~270 employees, or 18% of its staff, at the end of October; the layoffs come after a voluntary buyout program in September (Reuters)",
-     "link": "https://www.techmeme.com/261008/p53#a261008p53",
-     "pubDate": "Thu, 08 Oct 2026 21:01:37 -0400",
-     "summary": "Reuters : Sources: Flock plans to let go of ~270 employees, or 18% of its staff, at the end of October; the layoffs come after a voluntary buyout program in September &nbsp; &mdash;&nbsp; Flock Safety plans to let go of about 18% of its employees, people with direct knowledge of the plans said on Th",
-     "source": "Techmeme",
-     "zh": "Sources: Flock plans to let go of ~270 employees, or 18% of its staff, at the end of October; the layoffs come after a voluntary buyout program in September (Reuters)"
-    },
-    {
-     "title": "Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders (Washington Post)",
-     "link": "https://www.techmeme.com/261008/p52#a261008p52",
-     "pubDate": "Thu, 08 Oct 2026 20:40:03 -0400",
-     "summary": "Washington Post : Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders &nbsp; &mdash;&nbsp; President Donald Trump celebrated tech billionaires such as Microsoft CEO Satya Nadella at an event ",
-     "source": "Techmeme",
-     "zh": "Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders (Washington Post)"
+     "title": "Reducing undefined behavior in the C language",
+     "link": "https://lwn.net/Articles/1095811/",
+     "pubDate": "Fri, 09 Oct 2026 02:02:53 +0000",
+     "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 64 # Comments: 35",
+     "source": "Hacker News",
+     "zh": "Reducing undefined behavior in the C language"
     }
    ]
   },
@@ -2201,6 +2201,94 @@
    "total": 13,
    "items": [
     {
+     "title": "港股科技互联网板块集体反弹，港股通互联网ETF易方达（513040）标的指数半日涨2%",
+     "link": "http://www.eeo.com.cn/2026/1009/1058347.shtml",
+     "pubDate": "Fri, 09 Oct 2026 13:26:11 +0800",
+     "summary": "10月9日早盘，港股科技互联网板块集体反弹，截至午间收盘，中证港股通互联网指数上涨2.0%，恒生港股通新经济指数上涨1.2%，恒生科技指数上涨1.6%，中证港股通消费主题指数上涨1.7%，中证港股通医药卫生综合指数下跌1.5%。 （本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策。） <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/27C40F...",
+     "source": "经济观察网",
+     "zh": "港股科技互联网板块集体反弹，港股通互联网ETF易方达（513040）标的指数半日涨2%"
+    },
+    {
+     "title": "小米17 Ultra全系上调售价1000元",
+     "link": "http://www.eeo.com.cn/2026/1009/1058346.shtml",
+     "pubDate": "Fri, 09 Oct 2026 13:26:05 +0800",
+     "summary": "10月9日，小米 17 Ultra 全系列机型统一上调售价，涨幅达到 1000 元，小米官网在售版本定价均已完成调整。 调整后的具体定价信息显示，小米 17 Ultra 标准版起售价从原先的 6999 元涨到 7999 元。其中 12GB+512GB 版本从 6999 元上涨至 7999 元，16GB+512GB 版本从 7499 元涨到 8499 元，16GB+1TB 版本从 8499 元上调到 9499 元。定位更高阶的小米 17 Ultra 徕卡版，起售价也从原先的 7999 元涨到 8999 元。其中 16GB+512...",
+     "source": "经济观察网",
+     "zh": "小米17 Ultra全系上调售价1000元"
+    },
+    {
+     "title": "Manus raises $500M after losing planned $2B-plus Meta deal",
+     "link": "https://seekingalpha.com/news/4651634-manus-raises-500m-after-losing-planned-2b-plus-meta-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 01:25:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Manus raises $500M after losing planned $2B-plus Meta deal"
+    },
+    {
+     "title": "Marcus & Millichap expands Brown & Brown partnership into Canada",
+     "link": "https://seekingalpha.com/news/4651641-marcus-millichap-expands-brown-brown-partnership-into-canada?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 01:24:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Marcus & Millichap expands Brown & Brown partnership into Canada"
+    },
+    {
+     "title": "互联网金融板块午后走高 大智慧涨停",
+     "link": "http://finance.eastmoney.com/news/11440,202610093891085819.html",
+     "pubDate": "Fri, 09 Oct 2026 13:23:40 +0800",
+     "summary": "互联网金融 板块午后走高， 大智慧 涨停， 汇金股份 涨超8%， 同花顺 、 财富趋势 等纷纷拉升。",
+     "source": "东方财富股票",
+     "zh": "互联网金融板块午后走高 大智慧涨停"
+    },
+    {
+     "title": "10月9日金融控股板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891084818.html",
+     "pubDate": "Fri, 09 Oct 2026 13:22:31 +0800",
+     "summary": "&emsp;&emsp;10月9日13点22分， 金融控股 板块指数报1980.239点，涨幅达2%，成交11.97亿元，换手率0.51%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 香溢融通 报8.98元，涨5.15%； 新力金融 报6.91元，涨2.83%； 爱建集团 报4.10元，涨2.24%； 国投资本 报6.23元，涨1.96%； 浙江东方 报4.67元，涨1.52%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月9日金融控股板块涨幅达2%"
+    },
+    {
+     "title": "同花顺10月9日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891084594.html",
+     "pubDate": "Fri, 09 Oct 2026 13:22:18 +0800",
+     "summary": "以下是 同花顺 在北京时间10月9日13:22分盘口异动快照： 10月9日， 同花顺 盘中涨幅达5%，截至13点22分，报201.01元，成交16.11亿元，换手率1.93%。 分笔 报价 卖五 201.54 1 卖四 201.53 5 卖三 201.52 1 卖二 201.5 40 卖一 201.44 1 买一 201.01 2 买二 201 20 买三 200.99 31 买四 200.88 1 买五 200.8 6 最新： 201.01 涨幅： 5.08% 涨跌： 9.71 换手率：1.93% 成交量：8.46万手 成交额：16.11亿元 主力净流入： -3238.53万 元 &emsp",
+     "source": "东方财富股票",
+     "zh": "同花顺10月9日盘中涨幅达5%"
+    },
+    {
+     "title": "天利科技10月9日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891084475.html",
+     "pubDate": "Fri, 09 Oct 2026 13:22:18 +0800",
+     "summary": "以下是 天利科技 在北京时间10月9日13:22分盘口异动快照： 10月9日， 天利科技 盘中快速上涨，5分钟内涨幅超过2%，截至13点22分，报19.15元，成交5423.87万元，换手率1.49%。 分笔 报价 卖五 19.21 2 卖四 19.2 8 卖三 19.19 34 卖二 19.18 2 卖一 19.17 47 买一 19.15 4 买二 19.14 24 买三 19.13 8 买四 19.11 60 买五 19.1 30 最新： 19.15 涨幅： 2.57% 涨跌： 0.48 换手率：1.49% 成交量：2.95万手 成交额：5423.87万元 主力净流入： -210.01万",
+     "source": "东方财富股票",
+     "zh": "天利科技10月9日快速上涨"
+    },
+    {
+     "title": "汇金股份10月9日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891084343.html",
+     "pubDate": "Fri, 09 Oct 2026 13:22:18 +0800",
+     "summary": "以下是 汇金股份 在北京时间10月9日13:22分盘口异动快照： 10月9日， 汇金股份 盘中快速上涨，5分钟内涨幅超过2%，截至13点22分，报9.52元，成交2.58亿元，换手率5.52%。 分笔 报价 卖五 9.59 88 卖四 9.58 462 卖三 9.57 102 卖二 9.56 36 卖一 9.55 372 买一 9.52 121 买二 9.51 2 买三 9.5 137 买四 9.49 581 买五 9.48 135 最新： 9.52 涨幅： 7.09% 涨跌： 0.63 换手率：5.52% 成交量：29.22万手 成交额：2.58亿元 主力净流入： 1294.69 万元 &e",
+     "source": "东方财富股票",
+     "zh": "汇金股份10月9日快速上涨"
+    },
+    {
+     "title": "10月9日退税商店板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610093891084229.html",
+     "pubDate": "Fri, 09 Oct 2026 13:22:18 +0800",
+     "summary": "&emsp;&emsp;10月9日13点22分， 退税商店 板块指数报1214.305点，涨幅达2%，成交22.98亿元，换手率0.97%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 百大集团 报11.51元，涨10.04%； 茂业商业 报4.50元，涨4.41%； 杭州解百 报7.15元，涨3.92%； 南宁百货 报5.48元，涨2.81%； 广百股份 报5.59元，涨2.57%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月9日退税商店板块涨幅达2%"
+    },
+    {
+     "title": "Meta bans ads from TikTok parent ByteDance across U.S. and key foreign markets",
+     "link": "https://seekingalpha.com/news/4651635-meta-bans-ads-from-tiktok-parent-bytedance-across-us-and-key-foreign-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 01:13:10 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Meta bans ads from TikTok parent ByteDance across U.S. and key foreign markets"
+    },
+    {
      "title": "Southwest leans toward Boeing 787 for long-haul flights, Reuters reports",
      "link": "https://seekingalpha.com/news/4651640-southwest-leans-toward-boeing-787-for-long-haul-flights-reuters-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 01:01:06 -0400",
@@ -2225,14 +2313,6 @@
      "zh": "OpenAI’s Asia-Pacific public policy Chief Sanghyun Lee departs after brief tenure of six months"
     },
     {
-     "title": "Telecom stocks drop as SpaceX acquires spectrum for Starlink",
-     "link": "https://seekingalpha.com/news/4651639-telecom-stocks-drop-as-spacex-acquires-spectrum-for-starlink?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 00:38:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Telecom stocks drop as SpaceX acquires spectrum for Starlink"
-    },
-    {
      "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
      "link": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
      "pubDate": "Fri, 09 Oct 2026 04:30:01 GMT",
@@ -2247,14 +2327,6 @@
      "summary": "中新经纬10月9日电 10月9日，宇特光电登陆北交所。 上市首日，宇特光电大幅高开489%，截至午盘股价涨436.29%报73.74元/股。该股发行价为13.75元/股，实际募集资金2.43亿元。 宇特光电是一家专注于光连接产品研发设计、精密制造与销售业务的国家级专精特新“小巨人”企业，致力于为光通信领域设备商、系统集成商、国内外电信运营商、光电子器件企业提供高性能的光连接整体解决方案。核心产品主要应用于数据中心与光...",
      "source": "经济观察网",
      "zh": "光连接“小巨人”宇特光电上市，半日飙涨436%"
-    },
-    {
-     "title": "Nvidia-backed AI firm Firmus cancels historic $5B IPO",
-     "link": "https://seekingalpha.com/news/4651632-nvidia-backed-ai-firm-firmus-cancels-historic-5b-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 00:23:15 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia-backed AI firm Firmus cancels historic $5B IPO"
     },
     {
      "title": "国内商品期市早盘收盘涨多跌少 甲醇涨近7%",
@@ -2279,30 +2351,6 @@
      "summary": "所有外卖员、网约车司机、带货主播，新规来了！今后大家跑单、接单、直播的工作权益，终于有官方统一兜底保障了。 10月8日，人社部最新发布新规征求意见稿，首次把不完全符合劳动关系的平台劳动者正式纳入法律保障范围，让他们再也不是“用工黑户”！ 新规干货满满，每一条都直击痛点。首先是薪资和工时兜底，明确劳动报酬不得低于当地最低工资标准标准，连续工作满四小时必须安排休息，在法定节假日、恶劣天气期间...",
      "source": "经济观察网",
      "zh": "事关外卖骑手、网约车司机、主播！新就业形态劳动者权益新规来了"
-    },
-    {
-     "title": "A股午评：超4300只个股飘绿，三大指数集体收跌；电子元器件领跌，通信设备、半导体重挫；锂电池概念逆市走强，煤炭、贵金属、农业上涨",
-     "link": "http://www.eeo.com.cn/2026/1009/1058229.shtml",
-     "pubDate": "Fri, 09 Oct 2026 12:13:08 +0800",
-     "summary": "中新经纬10月9日电 9日，A股三大指数集体走低。截至午间收盘，沪指跌1.21%，深证成指跌2.09%，创业板指跌2.61%。科创50跌3.78%。 全市半日成交额1.18万亿元，超4300只个股下跌。 盘面上，电子元器件领跌，PCB概念股集体大跌；通信设备、半导体重挫，能源设备、电脑硬件、建材、教育、互联网、航天军工、生物科技、房地产等多数板块下跌。 锂电池概念股逆市走强，煤炭、贵金属、农业、酒类等板块上涨。(中新经...",
-     "source": "经济观察网",
-     "zh": "A股午评：超4300只个股飘绿，三大指数集体收跌；电子元器件领跌，通信设备、半导体重挫；锂电池概念逆市走强，煤炭、贵金属、农业上涨"
-    },
-    {
-     "title": "A股开盘：近3000只个股飘绿，三大指数集体低开；通信设备、半导体下跌；海运、油气上涨",
-     "link": "http://www.eeo.com.cn/2026/1009/1058228.shtml",
-     "pubDate": "Fri, 09 Oct 2026 12:13:04 +0800",
-     "summary": "中新经纬10月9日电 9日，A股三大指数集体低开。Wind数据显示，上证指数低开0.21%，深证成指低开0.51%，创业板指低开0.50%。近3000只个股下跌。 板块方面，通信设备、半导体、电子元器件等跌幅居前。海运、油气、贵金属等上涨。(中新经纬APP) 编辑：李晓萱 责编：薛宇飞",
-     "source": "经济观察网",
-     "zh": "A股开盘：近3000只个股飘绿，三大指数集体低开；通信设备、半导体下跌；海运、油气上涨"
-    },
-    {
-     "title": "OpenAI reportedly targets $70B annualized revenue by end of 2026",
-     "link": "https://seekingalpha.com/news/4651628-openai-reportedly-targets-70b-annualized-revenue-by-end-of-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 00:12:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "OpenAI reportedly targets $70B annualized revenue by end of 2026"
     },
     {
      "title": "&apos;Real boss of India?&apos;: Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
@@ -2391,54 +2439,6 @@
      "summary": "AI军备竞赛正在将美国债市推向临界点。SpaceX、博通、甲骨文在不到一周内合计寻求逾1500亿美元融资，叠加此前已在路演的博通-Anthropic600亿美元债务，AI生态系统的借贷狂潮已令公开债券市场趋于饱和，迫使越来越多的交易转入私募信贷和表外特殊目的载体（SPV）。 这场融资浪潮正在重塑整个信用市场的风险定价。 据彭博数据，今年超级大额科技债（单笔250亿美元以上）已达9笔，创历史纪录，科技板块成为近期信用市场表现最差的板块之一。与此同时，甲骨文五年期CDS飙升至261个基点的历史收盘高位，SpaceX五年期CDS突破197个基点再创纪录，就连全球市值最高的英伟达，其五年期违约概率也被",
      "source": "华尔街见闻",
      "zh": "SpaceX、博通、甲骨文密集天量发债！美国债市“挤爆了”，“集中度越来越高，最终都受AI周期影响”"
-    },
-    {
-     "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
-     "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 00:52:00 GMT",
-     "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
-     "source": "MarketWatch",
-     "zh": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares"
-    },
-    {
-     "title": "苹果10月双线出击：首款触控MacBook与新iPad mini同步亮相",
-     "link": "https://wallstreetcn.com/articles/3783233",
-     "pubDate": "Fri, 09 Oct 2026 08:48:33 +0800",
-     "summary": "苹果公司正筹备10月下旬的第二场产品发布会，将推出旗下首款触控屏MacBook，以及搭载OLED屏幕的全新iPad mini。 据彭博报道，此次发布会定于10月27日前后举行，形式与10月13日的智能家居发布会相同——包含线上视频展示及面向媒体的线下体验环节。 这也是新任CEO John Ternus上月接掌苹果后，主导的首批重磅产品发布。 触控MacBook：等了三年，终于来了 新款MacBook Pro代号K114和K116，将是苹果首次在Mac产品线引入触控屏。 彭博早在2023年便率先披露了这一项目。 硬件层面，新机将比现款更轻，屏幕升级为OLED材质，同时引入iPhone用户熟悉的\"",
-     "source": "华尔街见闻",
-     "zh": "苹果10月双线出击：首款触控MacBook与新iPad mini同步亮相"
-    },
-    {
-     "title": "巨资拿下低频频段，SpaceX进军手机运营商，美国电信股全线重挫",
-     "link": "https://wallstreetcn.com/articles/3783231",
-     "pubDate": "Fri, 09 Oct 2026 08:43:18 +0800",
-     "summary": "SpaceX宣布收购低频无线频谱，正式宣告进军美国移动运营商市场，此举令现有电信巨头股价承压，行业竞争格局面临深刻重塑。 SpaceX周四宣布，已与投资公司Grain Management LLC达成协议，收购一批覆盖全美的800MHz低频段频谱许可证，并计划将其与旗下Starlink卫星网络整合，打造独立的移动运营商业务。SpaceX在官网声明中表示， 这一频谱\"填补了Starlink Mobile成为美国主要移动运营商的最后一块关键拼图\"。首席执行官马斯克在X平台上称此举为\"非常重大的事件\"。 消息公布后，美国主要电信运营商股价在盘后交易中大幅下挫。AT&T跌7.3%，T-Mobile U",
-     "source": "华尔街见闻",
-     "zh": "巨资拿下低频频段，SpaceX进军手机运营商，美国电信股全线重挫"
-    },
-    {
-     "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
-     "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 00:03:00 GMT",
-     "summary": "Seven tips for painlessly moving in retirement.",
-     "source": "MarketWatch",
-     "zh": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’"
-    },
-    {
-     "title": "Anyflo emerges from stealth to simplify stablecoin payments for enterprises",
-     "link": "https://www.finextra.com/newsarticle/48561/anyflo-emerges-from-stealth-to-simplify-stablecoin-payments-for-enterprises?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 09 Oct 2026 00:01:00 GMT",
-     "summary": "Stablecoin payments orchestration service Anyflo has emerged from stealth with news that it has acquired bitcoin lending platform Native.",
-     "source": "Finextra",
-     "zh": "Anyflo emerges from stealth to simplify stablecoin payments for enterprises"
-    },
-    {
-     "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-     "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-     "pubDate": "Thu, 08 Oct 2026 23:57:23 GMT",
-     "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
-     "source": "CNBC",
-     "zh": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 05:32:06",
+ "generated_at": "2026/10/10 05:52:00",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+     "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+     "pubDate": "Fri, 09 Oct 2026 21:41:29 +0000",
+     "summary": "TypeSafe AI raised $870 million in a round led by a16Z.",
+     "source": "TechCrunch AI",
+     "zh": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch"
+    },
     {
      "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
      "link": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
@@ -64,14 +72,6 @@ window.INDUSTRY_DATA = {
      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
      "source": "TechCrunch AI",
      "zh": "We can’t help treating AI like it’s human. But should we?"
-    },
-    {
-     "title": "a16z’s Olivia Moore on the state of consumer AI",
-     "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-     "pubDate": "Fri, 09 Oct 2026 15:43:33 +0000",
-     "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-     "source": "TechCrunch AI",
-     "zh": "a16z’s Olivia Moore on the state of consumer AI"
     },
     {
      "title": "Impactful scheduling for GPU clusters",
@@ -1306,6 +1306,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "SpaceX to make another attempt to launch 21 data satellites for Space Development Agency",
+     "link": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
+     "pubDate": "Fri, 09 Oct 2026 21:41:30 +0000",
+     "summary": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency’s Proliferated Warfighter Space Architecture constellation is scheduled for 12:39 a.m. PDT (3:39 EDT / 0739 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "SpaceX to make another attempt to launch 21 data satellites for Space Development Agency"
+    },
+    {
      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
      "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
      "pubDate": "Fri, 09 Oct 2026 18:11:44 +0000",
@@ -1733,7 +1741,7 @@ window.INDUSTRY_DATA = {
      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
      "pubDate": "Fri, 09 Oct 2026 21:06:59 +0000",
-     "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 17 # Comments: 0",
+     "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 76 # Comments: 12",
      "source": "Hacker News",
      "zh": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops"
     },
@@ -1773,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "No Man Is an Island",
      "link": "https://borretti.me/article/no-man-is-an-island",
      "pubDate": "Fri, 09 Oct 2026 20:04:00 +0000",
-     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 124 # Comments: 43",
+     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 140 # Comments: 55",
      "source": "Hacker News",
      "zh": "No Man Is an Island"
     },
@@ -1853,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "You might want to try being less creative",
      "link": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
      "pubDate": "Fri, 09 Oct 2026 18:39:47 +0000",
-     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 41 # Comments: 24",
+     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 43 # Comments: 23",
      "source": "Hacker News",
      "zh": "You might want to try being less creative"
     },
@@ -1861,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft-Decision-1, our model for fast decision-making",
      "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
      "pubDate": "Fri, 09 Oct 2026 18:38:44 +0000",
-     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 68 # Comments: 25",
+     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 77 # Comments: 26",
      "source": "Hacker News",
      "zh": "Microsoft-Decision-1, our model for fast decision-making"
     },
@@ -1893,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "M7.6 Earthquake in Panama",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
      "pubDate": "Fri, 09 Oct 2026 18:22:20 +0000",
-     "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 95 # Comments: 33",
+     "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 99 # Comments: 33",
      "source": "Hacker News",
      "zh": "M7.6 Earthquake in Panama"
     },
@@ -1901,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
      "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
      "pubDate": "Fri, 09 Oct 2026 18:16:03 +0000",
-     "summary": "Article URL: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find Comments URL: https://news.ycombinator.com/item?id=50024571 Points: 61 # Comments: 20",
+     "summary": "Article URL: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find Comments URL: https://news.ycombinator.com/item?id=50024571 Points: 67 # Comments: 23",
      "source": "Hacker News",
      "zh": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward"
     },
@@ -2210,6 +2218,86 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "凯蒂·扎卡里亚：感谢特朗普总统给予我担任白宫新闻秘书这一殊荣的宝贵机会",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891634847.html",
+     "pubDate": "Sat, 10 Oct 2026 05:41:03 +0800",
+     "summary": "凯蒂·扎卡里亚：感谢特朗普总统给予我担任白宫新闻秘书这一殊荣的宝贵机会。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "凯蒂·扎卡里亚：感谢特朗普总统给予我担任白宫新闻秘书这一殊荣的宝贵机会"
+    },
+    {
+     "title": "Integra LifeSciences prices $450M in 9.5% secured notes",
+     "link": "https://seekingalpha.com/news/4651896-integra-lifesciences-prices-450m-in-9_5-percent-secured-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:38:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Integra LifeSciences prices $450M in 9.5% secured notes"
+    },
+    {
+     "title": "Gran Tierra Energy expects $315M cash from $1.33B business sale",
+     "link": "https://seekingalpha.com/news/4651894-gran-tierra-energy-expects-315m-cash-from-133b-business-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:35:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gran Tierra Energy expects $315M cash from $1.33B business sale"
+    },
+    {
+     "title": "英国政府发言人：英方将坚定承诺长期支持乌克兰 并将与伙伴方共同推动实现持久和平",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891634576.html",
+     "pubDate": "Sat, 10 Oct 2026 05:34:53 +0800",
+     "summary": "英国政府发言人：英方将坚定承诺长期支持乌克兰，并将与伙伴方共同推动实现持久和平。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "英国政府发言人：英方将坚定承诺长期支持乌克兰 并将与伙伴方共同推动实现持久和平"
+    },
+    {
+     "title": "克里姆林宫：鉴于乌克兰武装部队在选举日发动袭击，莫斯科将不得不重新考虑谈判恢复的时间",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891634622.html",
+     "pubDate": "Sat, 10 Oct 2026 05:34:22 +0800",
+     "summary": "克里姆林宫：普京告知特朗普，鉴于乌克兰武装部队在选举日发动袭击，莫斯科将不得不重新考虑谈判恢复的时间。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "克里姆林宫：鉴于乌克兰武装部队在选举日发动袭击，莫斯科将不得不重新考虑谈判恢复的时间"
+    },
+    {
+     "title": "英国政府发言人：英国将继续与国际伙伴密切合作确保乌克兰获得其所需的军事与财政支持",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891634436.html",
+     "pubDate": "Sat, 10 Oct 2026 05:34:21 +0800",
+     "summary": "英国政府发言人：英国将继续与国际伙伴密切合作，确保乌克兰获得其所需的军事与财政支持。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "英国政府发言人：英国将继续与国际伙伴密切合作确保乌克兰获得其所需的军事与财政支持"
+    },
+    {
+     "title": "英国政府表态：英国将通过英国有史以来最严苛的制裁机制持续对俄罗斯施加压力",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891634388.html",
+     "pubDate": "Sat, 10 Oct 2026 05:33:42 +0800",
+     "summary": "英国政府就美俄柴油交易表态：英国将通过英国有史以来最严苛的制裁机制，持续对俄罗斯施加压力。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "英国政府表态：英国将通过英国有史以来最严苛的制裁机制持续对俄罗斯施加压力"
+    },
+    {
+     "title": "亚马逊在高端平板发布后调整Alexa部门领导层",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891634280.html",
+     "pubDate": "Sat, 10 Oct 2026 05:31:23 +0800",
+     "summary": "亚马逊 在高端平板发布后调整Alexa部门领导层。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "亚马逊在高端平板发布后调整Alexa部门领导层"
+    },
+    {
+     "title": "Eli Lilly-backed TRex Bio closes day flat after IPO",
+     "link": "https://seekingalpha.com/news/4651892-eli-lilly-backed-trex-bio-closes-day-flat-after-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:30:20 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Eli Lilly-backed TRex Bio closes day flat after IPO"
+    },
+    {
+     "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+     "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 21:30:00 GMT",
+     "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
+     "source": "MarketWatch",
+     "zh": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders."
+    },
+    {
      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
      "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 21:27:00 GMT",
@@ -2218,60 +2306,20 @@ window.INDUSTRY_DATA = {
      "zh": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue"
     },
     {
+     "title": "Ruanyun Edai Technology receives Nasdaq minimum bid price notice",
+     "link": "https://seekingalpha.com/news/4651895-ruanyun-edai-technology-receives-nasdaq-minimum-bid-price-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:25:04 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ruanyun Edai Technology receives Nasdaq minimum bid price notice"
+    },
+    {
      "title": "Microsoft is nearing a big milestone that solidifies its revival",
      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 21:24:00 GMT",
      "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
      "source": "MarketWatch",
      "zh": "Microsoft is nearing a big milestone that solidifies its revival"
-    },
-    {
-     "title": "记者：泽连斯基称 与俄罗斯的石油交易是软弱之举 只会延长冲突",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891633645.html",
-     "pubDate": "Sat, 10 Oct 2026 05:19:31 +0800",
-     "summary": "记者：泽连斯基称，与俄罗斯的石油交易是软弱之举，只会延长冲突。 特朗普：我们是一个强有力的伙伴。世界需要石油。所以我们很高兴能获得柴油。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "记者：泽连斯基称 与俄罗斯的石油交易是软弱之举 只会延长冲突"
-    },
-    {
-     "title": "美国特使威特科夫：讨论了结束俄乌冲突的途径",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891633357.html",
-     "pubDate": "Sat, 10 Oct 2026 05:18:21 +0800",
-     "summary": "美国特使威特科夫：讨论了结束俄乌冲突的途径。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国特使威特科夫：讨论了结束俄乌冲突的途径"
-    },
-    {
-     "title": "巴拿马发生强震 我使馆提醒在巴中国公民防范地震灾害",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891633575.html",
-     "pubDate": "Sat, 10 Oct 2026 05:18:19 +0800",
-     "summary": "据中国地震台网正式测定，巴拿马当地时间10月9日发生7.6级地震，震源深度10千米。中国驻巴拿马使馆当天发布提示，提醒中国在巴公民防范地震灾害。 我使馆提醒在巴中国公民密切关注当地地震预警和灾害相关信息，防范余震及地震导致的次生灾害；保持冷静，做好安全防护，保持 通信设备 畅通。请相关地区中国公民立即远离海边，转移至安全区域避险。如遇紧急情况，请及时报警并联系中国驻巴拿马使馆寻求协助： 巴拿马报警电话：104 外交部全球领事保护与服务应急热线（24小时）：+86-10-12308、+86-10-65612308 驻巴拿马使馆领事保护与协助电话：+507-66779301 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "巴拿马发生强震 我使馆提醒在巴中国公民防范地震灾害"
-    },
-    {
-     "title": "美国特使威特科夫：会谈涵盖了安全保障和乌克兰安全问题",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891633145.html",
-     "pubDate": "Sat, 10 Oct 2026 05:17:15 +0800",
-     "summary": "美国特使威特科夫：会谈涵盖了安全保障和乌克兰安全问题。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国特使威特科夫：会谈涵盖了安全保障和乌克兰安全问题"
-    },
-    {
-     "title": "美国特使威特科夫：美国、英法德三国、欧盟、乌克兰和北约举行了建设性会谈",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891632917.html",
-     "pubDate": "Sat, 10 Oct 2026 05:16:46 +0800",
-     "summary": "美国特使威特科夫：美国、英法德三国、欧盟、乌克兰和北约举行了建设性会谈。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国特使威特科夫：美国、英法德三国、欧盟、乌克兰和北约举行了建设性会谈"
-    },
-    {
-     "title": "美国特使维特科夫谈乌克兰和谈：各方与会者重申了他们对继续开展外交努力的共同承诺",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891632486.html",
-     "pubDate": "Sat, 10 Oct 2026 05:16:02 +0800",
-     "summary": "美国特使维特科夫谈乌克兰和谈：各方与会者重申了他们对继续开展外交努力的共同承诺。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国特使维特科夫谈乌克兰和谈：各方与会者重申了他们对继续开展外交努力的共同承诺"
     },
     {
      "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
@@ -2306,14 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "Hims & Hers Health climbs 10% amid recent volatile trading"
     },
     {
-     "title": "Star Bulk Carriers renews ATM agreements for up to $116.4M",
-     "link": "https://seekingalpha.com/news/4651891-star-bulk-carriers-renews-atm-agreements-for-up-to-116_4m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 17:06:29 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Star Bulk Carriers renews ATM agreements for up to $116.4M"
-    },
-    {
      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 21:00:00 GMT",
@@ -2322,12 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?"
     },
     {
-     "title": "Moderna gains 14% to set fresh 52-week high",
-     "link": "https://seekingalpha.com/news/4651887-moderna-gains-14-to-set-fresh-52-week-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 16:58:51 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Moderna gains 14% to set fresh 52-week high"
+     "title": "诺奖得主警告：法国债务危机或已“大到无法救”，欧元区面临“爆炸性”危机",
+     "link": "https://wallstreetcn.com/articles/3783303",
+     "pubDate": "Sat, 10 Oct 2026 04:59:19 +0800",
+     "summary": "2008年诺贝尔经济学奖得主保罗·克鲁格曼发出警告，法国公共财政持续恶化， 正走在\"财政不可持续\"的道路上，并可能已从\"大到不能倒\"跨越至\"大到无法救援\"的危险境地 ，一旦危机引爆，将对欧元区整体稳定构成严峻威胁。 克鲁格曼在本周发布的Substack博客文章中写道，法国的债务问题不仅是本国议题，其欧元区成员身份可能引发\"爆炸性债务危机\"，并对欧洲一体化造成破坏性冲击。 前欧洲央行行长Jean-Claude Trichet随即在接受采访时 呼吁法国政界各方\"拿出实质行动，证明法国作为市场参与者是负责任的\"，以恢复市场信心——这也是启动欧洲央行相关救助机制的前提条件。 法国政府债券近期持续承压，",
+     "source": "华尔街见闻",
+     "zh": "诺奖得主警告：法国债务危机或已“大到无法救”，欧元区面临“爆炸性”危机"
     },
     {
      "title": "The hazy OpenAI growth metric driving Wall Street",
@@ -2352,30 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
      "source": "CNBC",
      "zh": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs"
-    },
-    {
-     "title": "T-Mobile US plunges 13% to new 52-week low amid new competitive threat",
-     "link": "https://seekingalpha.com/news/4651873-t-mobile-us-plunges-13-to-new-52-week-low-amid-new-competitive-threat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 16:51:21 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "T-Mobile US plunges 13% to new 52-week low amid new competitive threat"
-    },
-    {
-     "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
-     "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 20:51:00 GMT",
-     "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
-     "source": "MarketWatch",
-     "zh": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist."
-    },
-    {
-     "title": "CCC Intelligent Solutions jumps on report GTCR, Elliott near takeover",
-     "link": "https://seekingalpha.com/news/4651885-ccc-intelligent-solutions-jumps-on-report-gtcr-elliott-near-takeover?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 16:47:11 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CCC Intelligent Solutions jumps on report GTCR, Elliott near takeover"
     },
     {
      "title": "Trump agrees deal with Putin for Russia to release diesel",
@@ -2440,14 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bears continued to build up positions against the semiconductor group on Friday.",
      "source": "CNBC",
      "zh": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips"
-    },
-    {
-     "title": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
-     "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 18:38:06 GMT",
-     "summary": "First Atlantic hurricane of the season headed towards Florida, Alabama, Georgia and Mississippi",
-     "source": "Financial Times",
-     "zh": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf"
     }
    ]
   },

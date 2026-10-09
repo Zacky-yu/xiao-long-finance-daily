@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 06:12:07",
+ "generated_at": "2026/10/10 06:32:00",
  "recent_days": 7,
  "industries": [
   {
@@ -282,12 +282,36 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
+     "title": "Defence satcom revenues to surpass $23bn by 2035",
+     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
+     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "Defence satcom revenues to surpass $23bn by 2035"
+    },
+    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
+    },
+    {
+     "title": "Axiom Space highlights space computing progress",
+     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
+     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
+     "source": "Electronics Weekly",
+     "zh": "Axiom Space highlights space computing progress"
+    },
+    {
+     "title": "The Single-Chip PC",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
+     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -304,6 +328,30 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
+    },
+    {
+     "title": "Failure analysis in the era of 3D integration",
+     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
+     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Failure analysis in the era of 3D integration"
+    },
+    {
+     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
+     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
+     "source": "Electronics Weekly",
+     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
+    },
+    {
+     "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:04:25 +0000",
+     "summary": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Robotaxi growth, Arm Qualcomm battle"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
-    },
-    {
-     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
-     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
-     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
-     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
-    },
-    {
-     "title": "Shift Left Complicates Fab Data Management",
-     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
-     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Shift Left Complicates Fab Data Management"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
-    },
-    {
-     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
-     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
-     "source": "Semiconductor Today",
-     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
-    },
-    {
-     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
-     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
-    },
-    {
-     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
-     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
-     "source": "Semiconductor Today",
-     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -866,6 +866,22 @@ window.INDUSTRY_DATA = {
      "zh": "Why Record Crude Output Can’t Solve America’s Diesel Crisis"
     },
     {
+     "title": "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Germany-Add-Diesel-Supply-as-Fuel-Market-Scrambles-for-Barrels.html",
+     "pubDate": "Fri, 09 Oct 2026 16:30:00 -0500",
+     "summary": "Russia and Germany are putting more diesel into a global market that has spent months looking for barrels almost anywhere it can find them. President Donald Trump said Friday that Russian President Vladimir Putin had agreed to immediately supply more than 300,000 metric tons of diesel to the U.S. an",
+     "source": "OilPrice",
+     "zh": "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels"
+    },
+    {
+     "title": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Hurricane-Isaias-Shuts-In-71-of-US-Gulf-Oil-Production.html",
+     "pubDate": "Fri, 09 Oct 2026 15:30:00 -0500",
+     "summary": "Hurricane Isaias has now knocked nearly 1.46 million barrels per day of U.S. Gulf oil production offline, extending a rapid shutdown that began with just 185,120 bpd three days ago. The Marine Minerals Administration said Friday that operators had shut in 1,458,814 bpd, or 71.51% of current Gulf oil",
+     "source": "OilPrice",
+     "zh": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production"
+    },
+    {
      "title": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
      "link": "https://oilprice.com/Energy/Energy-General/5-Stocks-Cashing-In-as-100-Oil-Pushes-Drivers-Toward-Electric.html",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 -0500",
@@ -898,28 +914,12 @@ window.INDUSTRY_DATA = {
      "zh": "States Bet on Virtual Power Plants to Cut Grid Costs"
     },
     {
-     "title": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
-     "link": "https://oilprice.com/Energy/Crude-Oil/Trump-Puts-Iran-Strikes-on-Hold-as-Hurricane-Threatens-Oil-Supply.html",
-     "pubDate": "Fri, 09 Oct 2026 11:35:22 -0500",
-     "summary": "Oil retreats from $110 as Trump rules out Iran strikes before the midterms, but tanker attacks and a Gulf hurricane threaten fresh volatility. Friday, October 09, 2026 Donald Trump seems to be firefighting the Middle Eastern blaze, vowing not to attack Iran before the mid-term elections just as oil ",
-     "source": "OilPrice",
-     "zh": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply"
-    },
-    {
      "title": "Poly pricing and potential expansion",
      "link": "https://www.pv-magazine.com/2026/10/09/poly-pricing-and-potential-expansion/",
      "pubDate": "Fri, 09 Oct 2026 16:00:00 +0000",
      "summary": "The United States has made significant changes to trade and energy policy in 2026. The enforcement of these policies and potential further changes on the horizon could reshape the solar market yet again. Jesse Pichel and Lev Seleznov of Roth Capital examine the potential impacts. The post Poly prici",
      "source": "pv magazine",
      "zh": "Poly pricing and potential expansion"
-    },
-    {
-     "title": "Pashinyan’s Nuclear U-Turn Gives Moscow an Opening in Armenia",
-     "link": "https://oilprice.com/Geopolitics/International/Pashinyans-Nuclear-U-Turn-Gives-Moscow-an-Opening-in-Armenia.html",
-     "pubDate": "Fri, 09 Oct 2026 11:00:00 -0500",
-     "summary": "Unable to persuade Armenia to abandon its efforts to join the European Union, Russia is now signaling that it is adopting a harder line. Armenian Prime Minister Nikol Pashinyan evidently is taking the menacing tone of recent Russian statements seriously. It appears the price of keeping the Kremlin a",
-     "source": "OilPrice",
-     "zh": "Pashinyan’s Nuclear U-Turn Gives Moscow an Opening in Armenia"
     },
     {
      "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
@@ -1722,6 +1722,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "A man US authorities called a \"fixer\", who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty (Bob Van Voris/Bloomberg)",
+     "link": "https://www.techmeme.com/261009/p27#a261009p27",
+     "pubDate": "Fri, 09 Oct 2026 18:15:04 -0400",
+     "summary": "Bob Van Voris / Bloomberg : A man US authorities called a &ldquo;fixer&rdquo;, who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty &nbsp; &mdash;&nbsp; A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan &ldquo;",
+     "source": "Techmeme",
+     "zh": "A man US authorities called a \"fixer\", who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty (Bob Van Voris/Bloomberg)"
+    },
+    {
+     "title": "多智能体时代的管理架构与思维",
+     "link": "https://www.huxiu.com/article/4896301.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 06:11:24 +0800",
+     "summary": "本文来自微信公众号： 清华管理评论 ，责编：刘永选，作者：戴维奇 等 2026年被称为“企业多智能体上岗元年”，全新管理范式开启。范式转移伴随旧秩序失灵、新秩序阵痛。多智能体时代的管理挑战，源于传统“管人”范式与新型“人机混合体”管理对象的根本性错配。破解之道，不在于修补旧方法，而在于发起一场从底层逻辑出发的管理思想革命，适配新时代、驾驭新变革、创造新价值。 想象这样一个场景：在一家高端珠宝店，店长正在接待顾客。店长佩戴的耳麦里，传来温和的提示音——这不是远程同事，而是珠宝店部署的“快思考”智能体（AI Agent）。它通过实时语音识别，分析店长与顾客的对话，瞬间结合后台商品库存情况，为店长传",
+     "source": "虎嗅",
+     "zh": "多智能体时代的管理架构与思维"
+    },
+    {
      "title": "Long live the mechanical keyboard",
      "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
      "pubDate": "Fri, 09 Oct 2026 22:08:24 +0000",
@@ -1749,7 +1765,7 @@ window.INDUSTRY_DATA = {
      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
      "pubDate": "Fri, 09 Oct 2026 21:06:59 +0000",
-     "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 158 # Comments: 80",
+     "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 200 # Comments: 107",
      "source": "Hacker News",
      "zh": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops"
     },
@@ -1789,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "No Man Is an Island",
      "link": "https://borretti.me/article/no-man-is-an-island",
      "pubDate": "Fri, 09 Oct 2026 20:04:00 +0000",
-     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 181 # Comments: 85",
+     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 200 # Comments: 100",
      "source": "Hacker News",
      "zh": "No Man Is an Island"
     },
@@ -1850,14 +1866,6 @@ window.INDUSTRY_DATA = {
      "zh": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023"
     },
     {
-     "title": "A record 42 startups became decacorns so far in 2026, beating 2021&apos;s 34; PitchBook: the average time to hit $10B dropped to 5.5 years in 2025 vs. 9.4 in 2020 (Lucinda Shen/Axios)",
-     "link": "https://www.techmeme.com/261009/p21#a261009p21",
-     "pubDate": "Fri, 09 Oct 2026 14:50:00 -0400",
-     "summary": "Lucinda Shen / Axios : A record 42 startups became decacorns so far in 2026, beating 2021's 34; PitchBook: the average time to hit $10B dropped to 5.5 years in 2025 vs. 9.4 in 2020 &nbsp; &mdash;&nbsp; We're in the golden age of decacorns.&nbsp; &mdash; The average time from launch to decacorn has b",
-     "source": "Techmeme",
-     "zh": "A record 42 startups became decacorns so far in 2026, beating 2021&apos;s 34; PitchBook: the average time to hit $10B dropped to 5.5 years in 2025 vs. 9.4 in 2020 (Lucinda Shen/Axios)"
-    },
-    {
      "title": "AI disqualification yields new Nikon Small World in Motion winner",
      "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
      "pubDate": "Fri, 09 Oct 2026 18:44:06 +0000",
@@ -1869,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "You might want to try being less creative",
      "link": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
      "pubDate": "Fri, 09 Oct 2026 18:39:47 +0000",
-     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 49 # Comments: 24",
+     "summary": "Article URL: https://blog.bawolf.com/p/you-might-want-to-try-being-less Comments URL: https://news.ycombinator.com/item?id=50024927 Points: 51 # Comments: 24",
      "source": "Hacker News",
      "zh": "You might want to try being less creative"
     },
@@ -1877,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft-Decision-1, our model for fast decision-making",
      "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
      "pubDate": "Fri, 09 Oct 2026 18:38:44 +0000",
-     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 90 # Comments: 31",
+     "summary": "Article URL: https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ Comments URL: https://news.ycombinator.com/item?id=50024913 Points: 92 # Comments: 33",
      "source": "Hacker News",
      "zh": "Microsoft-Decision-1, our model for fast decision-making"
     },
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "M7.6 Earthquake in Panama",
      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
      "pubDate": "Fri, 09 Oct 2026 18:22:20 +0000",
-     "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 106 # Comments: 33",
+     "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 108 # Comments: 33",
      "source": "Hacker News",
      "zh": "M7.6 Earthquake in Panama"
     },
@@ -1917,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
      "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
      "pubDate": "Fri, 09 Oct 2026 18:16:03 +0000",
-     "summary": "Article URL: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find Comments URL: https://news.ycombinator.com/item?id=50024571 Points: 79 # Comments: 27",
+     "summary": "Article URL: https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find Comments URL: https://news.ycombinator.com/item?id=50024571 Points: 84 # Comments: 31",
      "source": "Hacker News",
      "zh": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward"
     },
@@ -1952,14 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Justice Department is considering a perjury and obstruction-of-justice case against Cassidy Hutchinson, a former White House aide who testified against Donald Trump to the January 6 committee.",
      "source": "WIRED",
      "zh": "The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson"
-    },
-    {
-     "title": "水处理膜行业十年激战，下半场靠什么增长？",
-     "link": "https://www.huxiu.com/article/4896299.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 00:07:42 +0800",
-     "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 导读：十年国产替代之后，中国膜企开始面临3场新竞争——规模、场景与运营。 过去十年，中国膜产业最鲜明的一条主线，是国产替代。 从反渗透、超滤、纳滤到无机膜，从市政水处理到工业废水回用、海水淡化和过程分离，国内企业不断向材料、膜片、组件和系统集成的更深处推进。 十年前，行业反复追问的是：中国企业能不能做出一张性能合格的膜，能不能替代进口产品，能不能进入过去由国际品牌主导的市场。 今天，越来越多领域已经跨过了“有没有”的门槛。 但这场持续十年的激战，并没有把市场带向一个统一的终局。 相反，当国产膜供给增加、产品能力普遍提升，原本由技术稀缺和进",
-     "source": "虎嗅",
-     "zh": "水处理膜行业十年激战，下半场靠什么增长？"
     }
    ]
   },
@@ -1969,6 +1969,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says",
+     "link": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/",
+     "pubDate": "Fri, 09 Oct 2026 22:29:17 +0000",
+     "summary": "According to Bloomberg’s Mark Gurman, iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it on for the first time. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says"
+    },
     {
      "title": "Google Translate could soon get its own version of Gboard’s Rambler",
      "link": "https://www.androidauthority.com/google-translate-rambler-3721531/",
@@ -2138,14 +2146,6 @@ window.INDUSTRY_DATA = {
      "zh": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring"
     },
     {
-     "title": "Apple marks first Apple TV 4K ‘vintage’ with new model imminent",
-     "link": "https://9to5mac.com/2026/10/09/apple-marks-first-apple-tv-4k-vintage-with-new-model-imminent/",
-     "pubDate": "Fri, 09 Oct 2026 18:15:44 +0000",
-     "summary": "The original Apple TV 4K from 2017 has just been added to Apple’s “vintage” products list. Here’s what that means. more…",
-     "source": "9to5Mac",
-     "zh": "Apple marks first Apple TV 4K ‘vintage’ with new model imminent"
-    },
-    {
      "title": "SpaceX buys spectrum for Starlink to become a full-fledged US mobile carrier",
      "link": "https://www.gsmarena.com/spacex_buys_spectrum_for_starlink_to_become_a_fullfledged_us_mobile_carrier-news-74982.php",
      "pubDate": "Fri, 09 Oct 2026 20:01:02 +0200",
@@ -2218,6 +2218,78 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动",
+     "link": "https://wallstreetcn.com/articles/3783305",
+     "pubDate": "Sat, 10 Oct 2026 06:26:33 +0800",
+     "summary": "美国总统特朗普就对伊朗采取军事行动的时间表发出新的矛盾信号。 周五美国白宫媒体记者会上，当特朗普被问及为何推迟到中选后、而不是立即对伊朗采取行动时，特朗普说“可能”立即行动。 此前周四，特朗普刚刚明确表示，美国\"不会在中期选举前攻击伊朗\"，并称当前与伊朗的谈判\"富有成效\"。 这一表态的急转直下，令外界对白宫的政策走向愈发难以把握，也令投资者对中东局势的不确定性保持高度警惕。 特朗普对伊立场出现前后矛盾 美国总统特朗普被问及为何不现在就行动、被问及在美国中期选举之前对伊朗采取行动的可能性，称：我们可能会（那样做）。 这与他此前在Truth Social上发布的声明形成明显落差。 特朗普周五还就胡",
+     "source": "华尔街见闻",
+     "zh": "才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动"
+    },
+    {
+     "title": "沙特主导联军：摧毁也门胡塞武装136处军事目标",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891642083.html",
+     "pubDate": "Sat, 10 Oct 2026 06:19:20 +0800",
+     "summary": "沙特阿拉伯主导的多国联军发言人图尔基·马利基9日晚在社交媒体说，联军摧毁了也门胡塞武装控制区内136处军事目标。 马利基说，联军正开展大规模军事行动，打击胡塞武装人员及其军事能力，着力瓦解其弹道导弹网络。 他还表示，联军正全天候为也门政府军提供空中支援。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "沙特主导联军：摧毁也门胡塞武装136处军事目标"
+    },
+    {
+     "title": "美伊冲突，最新消息",
+     "link": "http://finance.eastmoney.com/news/1356,202610103891641679.html",
+     "pubDate": "Sat, 10 Oct 2026 06:18:09 +0800",
+     "summary": "新华社德黑兰10月9日电伊朗伊斯兰革命卫队海军9日发表声明称，今后针对违规船只的行动将不局限于霍尔木兹海峡。凡是擅自通过非授权航线航行的船只，都将遭到“严厉惩处”。 声明说，海军过去数小时内击中了一艘载有液化石油气的“大型”船只，该船试图经由“非法”航线穿越海峡。 伊朗伊斯兰革命卫队旗下媒体赛帕新闻网发表声明称，遭袭船只隶属于一家越南运输公司，袭击导致该船机舱和推进系统起火。 声明强调，美军的“挑衅”行为是导致地区海上局势紧张的直接原因。如果美方此类行为持续，类似“惨痛”事件的发生频率将会日益增加。声明警告称，那些受美国蒙蔽行事的公司将面临制裁，“针对违规公司的船只，将实施必要的惩罚措施”。 ",
+     "source": "东方财富股票",
+     "zh": "美伊冲突，最新消息"
+    },
+    {
+     "title": "俄罗斯特使德米特里耶夫在访问华盛顿期间要求向俄罗斯颁发对美市场出口柴油的许可证",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891641793.html",
+     "pubDate": "Sat, 10 Oct 2026 06:18:01 +0800",
+     "summary": "知情人士透露，俄罗斯特使德米特里耶夫在访问华盛顿期间，要求向俄罗斯所有大型石油公司颁发对美市场出口柴油的许可证。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "俄罗斯特使德米特里耶夫在访问华盛顿期间要求向俄罗斯颁发对美市场出口柴油的许可证"
+    },
+    {
+     "title": "Lockheed unveils next-gen Patriot interceptor to defend against hypersonic threats",
+     "link": "https://seekingalpha.com/news/4651898-lockheed-unveils-next-gen-patriot-interceptor-to-defend-against-hypersonic-threats?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 18:17:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lockheed unveils next-gen Patriot interceptor to defend against hypersonic threats"
+    },
+    {
+     "title": "巴拿马总统穆利诺在震中附近表示 地震后暂无人员死亡报告",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891641263.html",
+     "pubDate": "Sat, 10 Oct 2026 06:16:18 +0800",
+     "summary": "巴拿马总统穆利诺在震中附近表示，地震后暂无人员死亡报告。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "巴拿马总统穆利诺在震中附近表示 地震后暂无人员死亡报告"
+    },
+    {
+     "title": "普京：俄愿向美国及全球市场供应石油和石油产品",
+     "link": "http://finance.eastmoney.com/news/1356,202610103891641854.html",
+     "pubDate": "Sat, 10 Oct 2026 06:13:28 +0800",
+     "summary": "俄罗斯克里姆林宫当地时间9日发布俄总统普京声明称，当天与美国总统特朗普通电话期间，双方重点讨论了乌克兰危机的解决前景，同时还涉及伊朗局势以及双边关系的多个方面。 在讨论全球能源市场形势时，俄方重申，愿意向美国及全球市场供应石油和石油产品。普京强调，这将对全球经济产生积极影响。 双方确认，两国总统将继续保持直接接触，并继续通过总统办公机构、情报和安全部门以及其他政府机构开展合作。 此外，俄罗斯副总理诺瓦克也表示，俄方愿在10月向美国市场增供柴油。他还说，随着炼油厂结束检修，可能于11月和12月增加柴油出口。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "普京：俄愿向美国及全球市场供应石油和石油产品"
+    },
+    {
+     "title": "克里姆林宫：通话期间 普京和特朗普都不想先挂断电话",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891640787.html",
+     "pubDate": "Sat, 10 Oct 2026 06:12:51 +0800",
+     "summary": "克里姆林宫：通话期间，普京和特朗普都不想先挂断电话。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "克里姆林宫：通话期间 普京和特朗普都不想先挂断电话"
+    },
+    {
+     "title": "Trump agrees deal with Putin for Russia to release diesel",
+     "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 22:06:22 GMT",
+     "summary": "Pact between Washington and Moscow comes just weeks before critical midterm elections in the US",
+     "source": "Financial Times",
+     "zh": "Trump agrees deal with Putin for Russia to release diesel"
+    },
+    {
      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
      "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 22:00:00 GMT",
@@ -2232,54 +2304,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract"
-    },
-    {
-     "title": "前8月规上电子信息制造业营收增长两成 出口持续上行 投资稳步增长",
-     "link": "http://finance.eastmoney.com/news/1355,202610103891637838.html",
-     "pubDate": "Sat, 10 Oct 2026 05:53:23 +0800",
-     "summary": "本报北京10月9日讯（记者黄鑫）工业和信息化部公布的数据显示，今年前8个月，我国 电子 信息制造业生产快速增长，行业整体发展态势良好。 前8个月，规模以上 电子 信息制造业增加值同比增长15.7%，增速较去年同期高4.9个百分点。8月份，规模以上 电子 信息制造业增加值同比增长17.2%；主要产品中，集成电路产量3860亿块，同比增长22.3%；电子 元件 产量6.2万亿只，同比增长13.1%。 出口持续上行。前8个月，规模以上电子信息制造业累计实现出口交货值同比增长8.2%，较前7个月提高0.2个百分点。8月份，规模以上电子信息制造业实现出口交货值同比增长9.3%。据海关统计，前8个月，我国",
-     "source": "东方财富股票",
-     "zh": "前8月规上电子信息制造业营收增长两成 出口持续上行 投资稳步增长"
-    },
-    {
-     "title": "脑机接口正在加速闯关",
-     "link": "http://finance.eastmoney.com/news/1355,202610103891635834.html",
-     "pubDate": "Sat, 10 Oct 2026 05:53:22 +0800",
-     "summary": "作为链接人脑与外部设备的前沿技术， 脑机接口 可绕过神经和肌肉传导通路，让思维直接驱动电脑、机械臂或轮椅等。今年以来， 脑机接口 领域热度持续走高。“十五五”规划纲要明确提出，推动 脑机接口 等成为新的经济增长点；2026年《政府工作报告》首次写入脑机接口。 记者日前走进位于上海的全国首个脑机接口未来产业集聚区“脑智天地”，展厅内，参观者佩戴头环，靠意念操控爆米花机；展柜中陈列着已获批上市的植入式脑机接口产品。从展览到手术台，脑机接口技术正加速走出实验室。 多点开花 今年3月，博睿康医疗科技（上海）有限公司获得全球首张侵入式脑机接口第三类 医疗器械 注册证，实现侵入式脑机接口在全球范围内首个从",
-     "source": "东方财富股票",
-     "zh": "脑机接口正在加速闯关"
-    },
-    {
-     "title": "煤炭安全生产没有缓冲期",
-     "link": "http://finance.eastmoney.com/news/1355,202610103891637916.html",
-     "pubDate": "Sat, 10 Oct 2026 05:53:21 +0800",
-     "summary": "山西省近日召开 煤炭 安全稳产稳供工作推进会，聚焦隐患治理、风险防控、规范生产等关键环节，持续压实安全生产责任。这一专项部署，折射出全国 煤炭 行业常态化保供与安全治理的共性任务。 随着冬季保供任务临近、能源需求阶段性攀升，各地提前释放产能、备战稳供的节奏持续加快。越是产能释放提速、保供任务加重，越要有清醒认识：保供是硬任务，安全是底线，必须前置筑牢安全防线，以本质安全保障长期稳定供能。 当前，在我国能源结构体系中， 煤炭 作为基础兜底能源的支撑作用短期内不会改变。为稳固全国能源基本盘，各大矿区长期保持连续作业、满负荷生产状态，设备高频运行、井下作业强度持续偏高，各类隐蔽性、复合型安全风险不断",
-     "source": "东方财富股票",
-     "zh": "煤炭安全生产没有缓冲期"
-    },
-    {
-     "title": "清欠常态化需堵住治理漏洞",
-     "link": "http://finance.eastmoney.com/news/1352,202610103891637471.html",
-     "pubDate": "Sat, 10 Oct 2026 05:53:21 +0800",
-     "summary": "市场经济的本质是信用经济。能否按时支付账款，关乎社会信用体系与市场环境建设。近期，国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》（以下简称《通知》），围绕龙头企业和大型央企等拖欠账款主体、 电子 凭证等隐性拖欠手段，划定责任红线与监管办法，为清理长期困扰企业的拖欠账款提供了刚性制度保障。 拖欠账款是供应链内部权利失衡、龙头企业话语权过度膨胀所导致，也与“内卷式”竞争不断稀释生产者利润有关，头部企业为控制成本拖欠了账款。近年来，我国为常态化预防和清理拖欠账款出台了多项政策文件，但始终面临3个难题。 一是订单主要来自龙头企业和大型央企，被拖欠企业为继续供货，不愿诉诸法律手段。监管",
-     "source": "东方财富股票",
-     "zh": "清欠常态化需堵住治理漏洞"
-    },
-    {
-     "title": "数字技术守护耕地红线",
-     "link": "http://finance.eastmoney.com/news/1350,202610103891637263.html",
-     "pubDate": "Sat, 10 Oct 2026 05:53:21 +0800",
-     "summary": "《中华人民共和国耕地保护和质量提升法》规定，国家运用卫星遥感、互联网、 大数据 、 云计算 、 人工智能 等现代信息技术和手段，提高耕地保护和质量提升工作的水平，科学精准加强对耕地保护和质量提升工作的监督。在数字时代，利用现代信息技术和手段，快速获取数据、高效利用数据，有助于提高耕地保护和质量提升的态势感知能力、数据挖掘共享能力和决策支撑能力，实现更高水平耕地保护。 近年来，数字化技术、数字化思维、数字化认知在耕地保护中被广泛运用，“智能选址”“一田一码”“数字驾驶舱”等创新实践不断涌现。在顶层设计与实践探索有机结合下，我国掌握了大量数据资源，积蓄了数据优势，提升了数据处理能力。 不过，耕地保",
-     "source": "东方财富股票",
-     "zh": "数字技术守护耕地红线"
-    },
-    {
-     "title": "跑好碳达峰攻坚“最后一公里”",
-     "link": "http://finance.eastmoney.com/news/1352,202610103891636020.html",
-     "pubDate": "Sat, 10 Oct 2026 05:53:21 +0800",
-     "summary": "当前，我国绿色低碳技术创新正处于“部分领跑、整体追赶”的关键阶段，成绩与短板并存。有必要在技术、金融、公共服务、国际合作等方面下更大功夫，跑好碳达峰攻坚“最后一公里”。 近期，我国正式批复 京津冀 、大湾区等5个城市群开展氢能 综合 应用试点，我国氢能产业开启规模化发展新篇章。试点落地，技术先行。当前，我国绿色低碳技术创新正处于“部分领跑、整体追赶”的关键阶段，成绩与短板并存。 这些年，在政策引导和市场驱动下，我国绿色低碳技术创新取得重要进展。从《关于构建市场导向的绿色技术创新体系的指导意见》等政策文件出台，到《绿色技术推广目录（2024年版）》发布实施，再到本次开展氢能 综合 应用试点，政策",
-     "source": "东方财富股票",
-     "zh": "跑好碳达峰攻坚“最后一公里”"
     },
     {
      "title": "Gold snaps two-week losing streak; some analysts say may have found bottom",
@@ -2346,14 +2370,6 @@ window.INDUSTRY_DATA = {
      "zh": "“伊赛亚斯”升级为三级飓风，美国墨西哥湾近四分之三原油停产"
     },
     {
-     "title": "Ruanyun Edai Technology receives Nasdaq minimum bid price notice",
-     "link": "https://seekingalpha.com/news/4651895-ruanyun-edai-technology-receives-nasdaq-minimum-bid-price-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 17:25:04 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ruanyun Edai Technology receives Nasdaq minimum bid price notice"
-    },
-    {
      "title": "Microsoft is nearing a big milestone that solidifies its revival",
      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 21:24:00 GMT",
@@ -2418,14 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs"
     },
     {
-     "title": "Trump agrees deal with Putin for Russia to release diesel",
-     "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 20:34:01 GMT",
-     "summary": "Pact between Washington and Moscow comes just weeks before critical midterm elections in the US",
-     "source": "Financial Times",
-     "zh": "Trump agrees deal with Putin for Russia to release diesel"
-    },
-    {
      "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
      "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
      "pubDate": "Fri, 09 Oct 2026 20:20:57 GMT",
@@ -2448,14 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
      "source": "CNBC",
      "zh": "Trump Media advisor Katie Zacharia offered White House press secretary role"
-    },
-    {
-     "title": "Trump created a committee to dig into the Fed&apos;s Lisa Cook. What is it and what comes next?",
-     "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
-     "pubDate": "Fri, 09 Oct 2026 19:19:00 GMT",
-     "summary": "Trump’s bid to fire the Fed's Lisa Cook follows a Supreme Court ruling and could affect Jerome Powell, central bank independence and interest rates.",
-     "source": "CNBC",
-     "zh": "Trump created a committee to dig into the Fed&apos;s Lisa Cook. What is it and what comes next?"
     }
    ]
   },

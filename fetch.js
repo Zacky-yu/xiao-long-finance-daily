@@ -72,6 +72,13 @@ async function fetchAll() {
       if (indResp.ok) industryData = await indResp.json();
     } catch(e) { /* ignore */ }
 
+    // Try static dashboard sections (fed / strategy / tomorrow) — data-driven
+    let dashboardStatic = null;
+    try {
+      const dsResp = await fetch('./dashboard-static.json?v=' + Date.now());
+      if (dsResp.ok) dashboardStatic = await dsResp.json();
+    } catch(e) { /* ignore */ }
+
     // Parse indices
     const indices = indicesRaw.split('\n').filter(Boolean).map(line => {
       const p = parseTencentLine(line, { name: 1, code: 2, price: 3, change: 31, changePct: 32, high: 33, low: 34, open: 5, volume: 6, turnover: 7 });
@@ -147,7 +154,7 @@ async function fetchAll() {
       }
     }
 
-    const data = { indices, stocks, etfs, goldEtfs, news, fedEvents, spotGold, spotSilver, industryData };
+    const data = { indices, stocks, etfs, goldEtfs, news, fedEvents, spotGold, spotSilver, industryData, dashboardStatic };
     lastData = data;
     render(data);
 
@@ -187,7 +194,7 @@ function render(data) {
   renderRecommendations(data);
   renderFedTracking(data);
   renderCentralBanks();
-  applyFreshness();
+  applyFreshness(data);
 }
 
 // ─── Market Sentiment ───
@@ -282,12 +289,15 @@ function renderIndices(indices) {
 function renderRateCutExpectation(data) {
   const grid = document.getElementById('rateCutGrid');
   if (!grid) return;
-  const rate = data.currentRate || '4.25%-4.50%';
-  const schedule = data.fomcSchedule || [];
+  const fed = (data && data.dashboardStatic && data.dashboardStatic.fed) || null;
+  const rate = (fed && fed.currentRate) || data.currentRate || '4.25%-4.50%';
+  const schedule = (fed && fed.schedule) || data.fomcSchedule || [];
+  const rateNote = (fed && fed.rateNote) || '';
+  const doneCount = schedule.filter(function(s){return s.status!=='待召开';}).length;
   let html = '<div class="fed-header-card">';
   html += '<div class="fed-rate"><span class="fed-rate-label">当前联邦基金利率</span>';
   html += '<span class="fed-rate-value">' + rate + '</span>';
-  html += '<span class="fed-rate-sub">2026年 · 已历3次会议</span></div>';
+  html += '<span class="fed-rate-sub">2026年 · 已历' + doneCount + '次会议' + (rateNote ? ' · ' + escHtml(rateNote) : '') + '</span></div>';
   const upcoming = schedule.find(function(s){return s.status==='待召开';}) || null;
   html += '<div class="fed-next"><span class="fed-next-label">下次 FOMC</span>';
   if (upcoming) {
@@ -307,17 +317,23 @@ function renderRateCutExpectation(data) {
     html+='<div class="fomc-type">'+m.type+'</div>';
     html+='<span class="fomc-status status-'+(up?'waiting':'done')+'">'+m.status+'</span>';
     if (up) {
-      const pmap={'9月FOMC':'45%','9月联储会议':'45%','11月FOMC':'55%','12月FOMC':'68%'};
-      const p=pmap[m.label]||'--', pv=parseInt(p)||0;
+      const p=m.cutProb||'--', pv=parseInt((String(p).match(/\d+/)||['0'])[0],10)||0;
       const pc=pv>50?'#2EC4B6':pv>30?'#E8D48B':'#7C8AAA';
       html+='<div class="fomc-prob"><div class="fomc-prob-value" style="color:'+pc+'">'+p+'</div>';
-      html+='<div class="fomc-prob-label">降息概率</div></div>';
+      html+='<div class="fomc-prob-label">降息概率(隐含)</div></div>';
     }
     html+='</div>';
   }
-  html+='</div><div class="analysis-box" style="border-left-color:#F5A623;">';
-  html+='<div style="color:#F5A623;font-weight:600;margin-bottom:6px;">降息路径分析</div>';
-  html+='• 9月FOMC是首次降息最可能的窗口，概率约45%<br>• 若CPI持续回落+就业降温，11月概率有望升至70%+<br>• 2Y/10Y美债深度倒挂，反映衰退担忧<br>• 关注：9月CPI(9/13) → FOMC(9/16) → 非农(10/3)';
+  html+='</div>';
+  const analysis = (fed && fed.analysis && fed.analysis.length) ? fed.analysis : [
+    '9月FOMC是首次降息最可能的窗口，概率约45%',
+    '若CPI持续回落+就业降温，11月概率有望升至70%+',
+    '2Y/10Y美债深度倒挂，反映衰退担忧',
+    '关注：9月CPI(9/13) → FOMC(9/16) → 非农(10/3)'
+  ];
+  html+='<div class="analysis-box" style="border-left-color:#F5A623;">';
+  html+='<div style="color:#F5A623;font-weight:600;margin-bottom:6px;">利率路径分析</div>';
+  html+=analysis.map(function(x){return escHtml(String(x).replace(/^•\s*/,''));}).join('<br>');
   html+='</div>';
   grid.innerHTML = html;
 }
@@ -590,6 +606,19 @@ function renderForeignPreview(data) {
 function renderTomorrowFocus(data) {
   const el = document.getElementById('tomorrowFocus');
   if (!el) return;
+  const t = data.dashboardStatic && data.dashboardStatic.tomorrow;
+  if (t && t.items && t.items.length) {
+    let h = '';
+    if (t.headline) h += '<div style="font-size:0.82em;color:var(--accent-light);font-weight:600;margin-bottom:6px;">🎯 ' + escHtml(t.headline) + '</div>';
+    h += '<ul style="list-style:none;font-size:0.85em;padding:0;color:var(--text-muted);">';
+    for (const it of t.items) {
+      const txt = (typeof it === 'string') ? it : (it.text || '');
+      if (txt) h += '  <li style="padding:4px 0;">• ' + escHtml(txt) + '</li>';
+    }
+    h += '</ul>';
+    el.innerHTML = h;
+    return;
+  }
   const { indices } = data;
   const sh = indices.find(i => i.code === '000001');
   const isUp = sh && sh.changePct > 0;
@@ -788,7 +817,8 @@ function renderRecommendations(data) {
   if (!list) return;
 
   // Sector-level strategy recommendations — no individual stock prices
-  const strategies = [
+  const _st = data && data.dashboardStatic && data.dashboardStatic.strategy;
+  const strategies = (_st && _st.strategies && _st.strategies.length) ? _st.strategies : [
     {
       sector: '半导体',
       icon: '💾',
@@ -865,17 +895,17 @@ function renderRecommendations(data) {
   html += '</div>';
   list.innerHTML = html;
 }
-
-// ─── Fed Tracking ───
 function renderFedTracking(data) {
   const el = document.getElementById('fedTracking'); if (!el) return;
-  const fed = data.fedEvents || [];
+  const fedStatic = data && data.dashboardStatic && data.dashboardStatic.fed;
+  const events = (fedStatic && fedStatic.events && fedStatic.events.length) ? fedStatic.events : (data.fedEvents || []);
   let html = '<div class="fed-events">';
-  if (fed.length > 0) {
-    for (let i = 0; i < Math.min(fed.length, 5); i++) {
-      const it = fed[i];
+  if (events.length > 0) {
+    html += '<div style="font-size:0.78em;color:var(--text-dim);margin-bottom:6px;">最近美联储动态</div>';
+    for (let i = 0; i < Math.min(events.length, 5); i++) {
+      const it = events[i];
       html += '<div class="fed-event-item"><div class="fe-title"><a href="' + escHtml(it.link) + '" target="_blank">' + escHtml(it.title) + '</a></div>';
-      html += '<div class="fe-meta">' + formatDate(it.pubDate) + ' · ' + (it.source || '美联储动态') + '</div></div>';
+      html += '<div class="fe-meta">' + escHtml(formatDate(it.date || it.pubDate)) + ' · ' + escHtml(it.source || '美联储') + '</div></div>';
     }
   } else {
     html += '<div style="font-size:0.82em;color:#7C8AAA;padding:12px;">暂无最新美联储动态</div>';
@@ -987,16 +1017,23 @@ function freshByDate(id, dateStr, prefix) {
   }
   setFresh(id, (prefix || '数据 ') + dateStr + extra, kind);
 }
-function applyFreshness() {
+function applyFreshness(data) {
   const h = hmNow();
   setFresh('freshSentiment', '实时 ' + h, 'live');
   setFresh('freshIndices', '实时 ' + h, 'live');
   setFresh('freshSemi', '实时 ' + h, 'live');
   setFresh('freshPm', '实时 ' + h, 'live');
   setFresh('freshForeign', '新闻缓存 ' + h, '');
-  setFresh('freshFed', 'FOMC 表为静态 · 新闻实时', 'warn');
-  setFresh('freshTomorrow', '每日生成', 'warn');
-  setFresh('freshStrategy', '静态策略，需人工更新', 'stale');
+  const ds = data && data.dashboardStatic;
+  if (ds && ds.updated) {
+    freshByDate('freshFed', ds.updated, '数据 ');
+    freshByDate('freshTomorrow', ds.updated, '数据 ');
+    freshByDate('freshStrategy', ds.updated, '策略 ');
+  } else {
+    setFresh('freshFed', 'FOMC 表为静态 · 新闻实时', 'warn');
+    setFresh('freshTomorrow', '每日生成', 'warn');
+    setFresh('freshStrategy', '静态策略，需人工更新', 'stale');
+  }
 }
 
 // ─── Auto-refresh ───

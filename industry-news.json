@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 17:11:57",
+ "generated_at": "2026/10/10 17:35:05",
  "recent_days": 7,
  "industries": [
   {
@@ -657,6 +657,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Xpeng completes G9L trial production in Austria ahead of Paris global premiere",
+     "link": "https://cnevpost.com/2026/10/10/xpeng-g9l-trial-production-austria/",
+     "pubDate": "Sat, 10 Oct 2026 09:23:41 +0000",
+     "summary": "The G9L becomes Xpeng's fourth model to be assembled locally in Europe. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Xpeng completes G9L trial production in Austria ahead of Paris global premiere"
+    },
+    {
      "title": "BYD reaches 150,000 commercial NEV production milestone as growth focus shifts to trucks",
      "link": "https://cnevpost.com/2026/10/10/byd-150000-commercial-nev-production-focus-trucks/",
      "pubDate": "Sat, 10 Oct 2026 01:34:49 +0000",
@@ -809,14 +817,6 @@
      "zh": "Rivian EVs Are Becoming Ghostbusters This Halloween"
     },
     {
-     "title": "Nio completes nearly 1.2 million battery swaps over 7-day holiday, sets daily record twice",
-     "link": "https://cnevpost.com/2026/10/09/nio-1-2-million-battery-swaps-7-day-holiday/",
-     "pubDate": "Fri, 09 Oct 2026 06:33:25 +0000",
-     "summary": "Nio's 4,168 battery swap stations completed 1,192,221 swaps from October 1 to 7, with the daily average rising 22% year-on-year. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Nio completes nearly 1.2 million battery swaps over 7-day holiday, sets daily record twice"
-    },
-    {
      "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
      "link": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
      "pubDate": "Thu, 08 Oct 2026 14:16:56 +0000",
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Brazil’s retail electricity market opening raises credit and liquidity concerns, study finds",
+     "link": "https://www.pv-magazine.com/2026/10/10/brazils-retail-electricity-market-opening-raises-credit-and-liquidity-concerns-study-finds/",
+     "pubDate": "Sat, 10 Oct 2026 09:30:00 +0000",
+     "summary": "A study based on 88,000 consumer units participating in subscription-based solar generation schemes in Brazil has identified a 17% average monthly payment delinquency rate and 4% monthly customer churn. The findings highlight potential credit, liquidity and consumer protection challenges as the coun",
+     "source": "pv magazine",
+     "zh": "Brazil’s retail electricity market opening raises credit and liquidity concerns, study finds"
+    },
+    {
      "title": "Austria: 43,300 applications for solar subsidies submitted in just ten minutes",
      "link": "https://www.pv-magazine.com/2026/10/10/austria-43300-applications-for-solar-subsidies-submitted-in-just-ten-minutes/",
      "pubDate": "Sat, 10 Oct 2026 09:00:00 +0000",
@@ -895,14 +903,6 @@
      "summary": "The battery creates flexibility. The intelligence behind it determines how much of that flexibility the grid can harness. The next clean energy benchmark for India, therefore, might not just be a new number of gigawatts. It might be the ability to get the maximum out of every gigawatt. The post Beyo",
      "source": "pv magazine",
      "zh": "Beyond gigawatts: Why India’s clean energy future depends on storage intelligence"
-    },
-    {
-     "title": "The shape of PPAs is changing – from volume to value",
-     "link": "https://www.pv-magazine.com/2026/10/10/the-shape-of-ppas-is-changing-from-volume-to-value-are-you-positioned-to-capture-the-premium-in-emerging-nem-value-pools/",
-     "pubDate": "Sat, 10 Oct 2026 06:00:00 +0000",
-     "summary": "Australia’s renewable energy market is entering a new phase where the value of electricity is increasingly determined not by energy alone, but by the ability to deliver energy when and where it is needed. The post The shape of PPAs is changing – from volume to value appeared first on pv magazine Glo",
-     "source": "pv magazine",
-     "zh": "The shape of PPAs is changing – from volume to value"
     },
     {
      "title": "Why Record Crude Output Can’t Solve America’s Diesel Crisis",
@@ -1729,44 +1729,116 @@
    "total": 18,
    "items": [
     {
+     "title": "多家数据中心选择落地芬兰：资源禀赋优秀，已吸引超 670 亿欧元投资",
+     "link": "https://www.ithome.com/1/011/441.htm",
+     "pubDate": "Sat, 10 Oct 2026 09:31:54 GMT",
+     "summary": "IT之家 10 月 10 日消息，彭博社在本周的一篇报道中援引芬兰工业联合会的数据指出， 该国已吸引来自多家企业的超 670 亿欧元 （IT之家注：现汇率约合 5,031.67 亿元人民币） 数据中心建设投资 。 芬兰气温相对较低，降低了数据中心的冷却成本；该国拥有相对丰富的可再生能源和完善的电网，还提供了不少空置的大型工业用地，这些都是便利数据中心建设的因素。 图源：Pexels 这 670 亿欧元的投资中有 22 亿欧元已经投产，147 亿欧元正在可行性研究、223 亿欧元处于规划阶段、另有 279 亿欧元属于投资决策。 法国人工智能基础设施企业 Sesterce 本月 8 日宣布计划芬兰",
+     "source": "IT之家",
+     "zh": "多家数据中心选择落地芬兰：资源禀赋优秀，已吸引超 670 亿欧元投资"
+    },
+    {
+     "title": "山灵 SM50 桌面串流一体机本月上市，搭 ES9039Q2M DAC 芯片",
+     "link": "https://www.ithome.com/1/011/439.htm",
+     "pubDate": "Sat, 10 Oct 2026 09:31:01 GMT",
+     "summary": "IT之家 10 月 10 日消息，山灵宣布旗下 SM50 桌面串流一体机将于本月上市，该产品定位为“全能音乐中心”，提供串流、耳机驱动与输入输出增益三大特性。 据官方介绍，该产品配备 4.5 英寸高清触控大屏，搭载 ES9039Q2M DAC 芯片，支持丰富的流媒体协议和在线音乐服务，包括 DLNA、AirPlay、QPlay、Tidal Connect、Qobuz Connect，深度集成 QQ 臻品、Tidal、Qobuz、索尼精选、酷狗 HiFi、百度网盘等。 同时，该产品提供 3.5mm 单端和 4.4mm 平衡耳机输出，以及 RCA 和 XLR 前级 / 线路输出，兼顾耳机聆听和有源",
+     "source": "IT之家",
+     "zh": "山灵 SM50 桌面串流一体机本月上市，搭 ES9039Q2M DAC 芯片"
+    },
+    {
+     "title": "Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition",
+     "link": "https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/",
+     "pubDate": "Sat, 10 Oct 2026 09:30:00 +0000",
+     "summary": "The new image isn’t just stunning—it may also provide clues about how this star survived its own explosion.",
+     "source": "WIRED",
+     "zh": "Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition"
+    },
+    {
+     "title": "禁止配备全隐藏式门把手，四部门加强汽车产品创新设计管理征求意见",
+     "link": "https://www.ithome.com/1/011/438.htm",
+     "pubDate": "Sat, 10 Oct 2026 09:29:28 GMT",
+     "summary": "IT之家 10 月 10 日消息，据央视新闻报道，今天，工业和信息化部等四部门联合发布了关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿），这将进一步提升产品安全性能，推动汽车产业高质量发展。 IT之家从报道获悉，征求意见稿针对部分生产企业跟风推出新产品、测试验证不充分等问题，提出了多方面的要求。 在创新设计准入管理方面 ， 通知明确，自 2027 年 1 月 1 日起，涉及创新设计的新申报产品，应增加填报创新设计技术参数，并按照《汽车产品创新设计技术指南》加强安全环保评估；未按要求测试验证、测试验证不充分或提供虚假材料的，不予公告。已取得公告的产品，应在 2027 ",
+     "source": "IT之家",
+     "zh": "禁止配备全隐藏式门把手，四部门加强汽车产品创新设计管理征求意见"
+    },
+    {
+     "title": "一场超长假期，让中国人找回久违的松弛感",
+     "link": "https://www.huxiu.com/article/4896466.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 17:28:28 +0800",
+     "summary": "本文来自微信公众号： 闻旅 ，作者：Kylin，编辑：Sette 中秋国庆，“请三休十三”的超长版黄金周过完了。有人出境长途旅行，有人在国内到处溜达，也有人在小区周边闲逛，不做计划，纯躺平。 但不管怎么过，假期收官时，很多人在社交平台上分享的感受是同一句话——这假期，终于像个假期了。 因为松弛感，成了今年国庆最受追捧的“硬通货”。 看总量，国庆依然热闹：交通运输部统计，国庆7天全社会跨区域人员流动21.44亿人次，创历史新高，平均每天3个多亿人在路上。 但落到每个人身上，“特种兵”式的赶场少了，更多人愿意用一整个长假，只做一件最想做的事——在世界角落发呆、在国内小城躺平、在某个古村学打铁花、在",
+     "source": "虎嗅",
+     "zh": "一场超长假期，让中国人找回久违的松弛感"
+    },
+    {
+     "title": "国宝人寿偿付能力持续下滑，四川国资增资近31亿救场，成立8年仅2年盈利",
+     "link": "https://www.huxiu.com/article/4896464.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 17:27:36 +0800",
+     "summary": "本文来自微信公众号： 时代周报 ，编辑：习昂，作者：谢怡雯，原文标题：《国宝人寿偿付能力持续下滑，四川国资增资近31亿救场！成立8年仅2年盈利》 近日，国宝人寿披露关于变更注册资本有关情况的公告，偿付能力持续下滑的境况有望得到缓解。 公告显示，本次参与增资的股东已以货币方式合计投入资金约30.75亿元。本次增资扩股后，公司注册资本由19.80亿元增至约45.21亿元，剩余溢价部分计入资本公积。上述事项待监管部门批准后生效。 值得注意的是，本次参与增资的9家股东均为四川国资。在本次增资扩股完成后，国资股东合计持股比例将由66.3%大幅提升至85.2%，国资话语权将进一步加强。此外，国宝人寿部分民",
+     "source": "虎嗅",
+     "zh": "国宝人寿偿付能力持续下滑，四川国资增资近31亿救场，成立8年仅2年盈利"
+    },
+    {
+     "title": "我国广告业反垄断第一案落槌，电梯广告巨头分众传媒收购新潮传媒获附条件批准",
+     "link": "https://www.ithome.com/1/011/437.htm",
+     "pubDate": "Sat, 10 Oct 2026 09:27:18 GMT",
+     "summary": "IT之家 10 月 10 日消息，市场监管总局今日发布公告， 附加限制性条件批准 分众传媒信息技术股份有限公司（以下简称分众传媒）收购成都新潮传媒集团股份有限公司（简称新潮传媒）股权案。 该案是我国广告业领域第一起以附加限制性条件批准的经营者集中案件 。本案的附条件批准，是反垄断执法在广告传媒这一重要民生服务领域的进一步深化。 经审查，市场监管总局认为该案对中国境内电梯媒体广告市场可能具有排除、限制竞争效果。为有效减少此项经营者集中可能产生的不利影响，市场监管总局经过全面审查、科学论证，依法对该案作出附条件批准决定， 要求分众传媒、新潮传媒和集中后实体作出六项限制性承诺 ： 继续履行现有客户合",
+     "source": "IT之家",
+     "zh": "我国广告业反垄断第一案落槌，电梯广告巨头分众传媒收购新潮传媒获附条件批准"
+    },
+    {
+     "title": "一边造AI，一边挖地堡，硅谷精英们在怕什么",
+     "link": "https://www.tmtpost.com/8163367.html",
+     "pubDate": "Sat, 10 Oct 2026 17:18:30 +0800",
+     "summary": "天下危险，莫此为甚",
+     "source": "钛媒体",
+     "zh": "一边造AI，一边挖地堡，硅谷精英们在怕什么"
+    },
+    {
+     "title": "极核 AE3 LR 长续航版电摩上市：160km 最大续航，6799 元起",
+     "link": "https://www.ithome.com/1/011/436.htm",
+     "pubDate": "Sat, 10 Oct 2026 09:15:29 GMT",
+     "summary": "IT之家 10 月 10 日消息，极核 AE3 LR 长续航版电摩今日开售，首发权益价 6,799 元起，首发活动时间为 10 月 10 日 10:00-10 月 23 日 10:00。 IT之家从官方介绍获悉，新品提供 月光银、深空灰、格雷灰 配色，配备家族化双刃切割大灯，近光 15000CD，远光 56000CD。此外，该车还配备前后双碟刹、高抓地力轮胎、125° 松弛角斜踏、740mm 低座高、1274mm 短轴距。 该车搭载 72V50Ah 原厂锂电池，支持 160km 最大续航 、116kmSport 档满把不掉速续航。该车支持 2450W 峰值功率、1300W 额定功率，实现 52",
+     "source": "IT之家",
+     "zh": "极核 AE3 LR 长续航版电摩上市：160km 最大续航，6799 元起"
+    },
+    {
+     "title": "耐克撤销大中华区，体面溃败还是绝地求生",
+     "link": "https://www.huxiu.com/article/4896461.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 17:14:35 +0800",
+     "summary": "本文来自微信公众号： 体坛经济观察 ，作者：大飞，原文标题：《耐克撤销大中华区，体面溃败还是绝地求生 | 大公司》 把大中华区并入亚太，不是说中国市场不再重要，耐克给出的官方说辞是“精简组织架构、降低成本、更高效地共享消费者洞察”。翻译成大白话就是：这个市场已经不值得单独立项了。 10月1日，耐克丢出了两颗炸弹。一颗是2027财年Q1财报：大中华区营收11.8亿美元，同比暴跌22%，剔除汇率影响跌幅高达26%。另一颗更狠——从2028财年起，独立运营近二十年的大中华区将被撤销，与亚太合并为APGC，区域领导团队迁至新加坡。 一个曾经把大中华区当做全球增长引擎的品牌，如今选择把它从组织架构图上一",
+     "source": "虎嗅",
+     "zh": "耐克撤销大中华区，体面溃败还是绝地求生"
+    },
+    {
+     "title": "工伤认定，不能惩罚家属的不离不弃",
+     "link": "https://www.huxiu.com/article/4896460.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 17:11:40 +0800",
+     "summary": "本文来自微信公众号： 经济观察报 ，作者：陈碧 检察机关敢于纠错，让法律监督权不再沉睡，这值得肯定，但同时也应追问：当行政与司法系统发生错误时，为何纠错代价往往由最弱势的劳动者及其家庭承担？工伤认定的救济机制是否可以从事后前移至事前？ 一起因机械计算“48小时”抢救时限而引发的工伤争议，在当事人去世5年后，终于在最高检、最高法的介入下尘埃落定：工伤认定成立。这起被最高检纳入典型案例的案件，近日对外发布。 2021年4月29日，贵州某公司员工吴某平在上班期间突发身体不适送医，5月1日经抢救无效死亡。当地人社局以抢救时间超过“48小时”为由不予认定工伤，家属不服提起行政诉讼。案件历经一审、二审、再",
+     "source": "虎嗅",
+     "zh": "工伤认定，不能惩罚家属的不离不弃"
+    },
+    {
+     "title": "问界“分手”、尊界踏板支架断裂，鸿蒙智行怎么了？",
+     "link": "https://www.huxiu.com/article/4896459.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 17:11:01 +0800",
+     "summary": "本文来自微信公众号： 豹变 ，作者：陈法善，编辑：刘杨，原文标题：《问界「分手」、尊界踏板支架断裂，鸿蒙智行怎么了？》 打铁还需自身硬。 先是跟“旧爱”分手后火速“复合”，又是“新欢”爆出“刹车门”，这个秋天，鸿蒙智行正承受销量与品控的双重压力。 10月8日，“尊界V800刹车踏板支架断裂”冲上热搜。在懂车帝实测节目中，三辆V800在时速百公里紧急制动时，出现刹车踏板支架断裂，安全争议瞬间引爆舆论。 尊界是江淮汽车与华为联合打造的“百万元级”超豪华品牌，为何会在刹车踏板支架这样的基础安全件上出问题？舆论发酵后，网友既关注懂车帝“暴力测试”，也普遍担忧“速成车”的质量和减配问题。 相比之下，问界",
+     "source": "虎嗅",
+     "zh": "问界“分手”、尊界踏板支架断裂，鸿蒙智行怎么了？"
+    },
+    {
+     "title": "罗技进军专业视听市场，发布 Rally Speakers 2 Pro / Max 矩阵式音频系统",
+     "link": "https://www.ithome.com/1/011/434.htm",
+     "pubDate": "Sat, 10 Oct 2026 09:10:08 GMT",
+     "summary": "IT之家 10 月 10 日消息，Logitech（罗技）当地时间本月 8 日宣布以 Rally Speakers 2 Pro / Max 这两套矩阵式音频系统进军专业视听市场。 Rally Speakers 2 Pro / Max 安装在房间前部， 分别由 32 个和 64 个微型驱动单元组成 。其可精准投射声波，利用声学原理让声波在所需位置相长、在无需位置相消，在 12m 的距离上仅有呼吸级别的音量衰减。 罗技同期还发布了多款其它企业级解决方案，包括 Rally Bar 2 全功能视频会议系统、Rally System 2 Pro 模块化视频会议系统、Tap IP 2 会议室触摸控制器、T",
+     "source": "IT之家",
+     "zh": "罗技进军专业视听市场，发布 Rally Speakers 2 Pro / Max 矩阵式音频系统"
+    },
+    {
      "title": "“扫地机雷达一哥”欢创科技上市：一半的市场份额，0.4%的净利率",
      "link": "https://www.huxiu.com/article/4896455.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 17:09:13 +0800",
      "summary": "本文来自微信公众号： 科技C位 ，作者：东木褚 9月30日，欢创科技在港交所挂牌，发行价58.85港元。 开盘后股价一路冲高，首日大涨265.7%，市值一度摸到208亿港元。第二天，股价掉头向下，单日跌去47.5%。到10月8日收盘，市值回落到107亿港元。 这家公司的生意一句话就能说清：给扫地机器人造激光雷达。 机器人要在客厅里自己认路、避开拖鞋桌椅，得先靠它建图定位。 按出货量计，欢创占全球市场约一半的份额；按2025年收入计，它是全球最大的扫地机器人空间感知产品供应商。 份额是全球第一，利润表却是另一副模样。2025年，欢创营收6.14亿元，净利润220万元，净利率0.4%。 这组反差，",
      "source": "虎嗅",
      "zh": "“扫地机雷达一哥”欢创科技上市：一半的市场份额，0.4%的净利率"
-    },
-    {
-     "title": "西西弗书店是怎么赚钱的？",
-     "link": "https://www.huxiu.com/article/4896458.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 17:08:34 +0800",
-     "summary": "本文来自微信公众号： 寻空的营销启示录 ，作者：寻空2009 过去几年，书店关门的消息已经让人有些麻木了。曾经被追捧的网红书店收缩门店，一些陪伴读者多年的独立书店告别街区。这个行业越来越难干，几乎成了大家的共同感受。 去年，压力仍在持续。北京开卷的数据显示，2025年实体店渠道的图书销售码洋同比下降4.63%。 但西西弗却在继续开店。2025年，它的第500家门店在成都环球中心开业。目前，官网披露的全国门店数已经超过500家。 它是怎么做到的？ 我看到不少人在分析西西弗书店的盈利模式，有人说它靠卖咖啡赚钱，有人说它靠文创赚钱，也有人说它靠商场的低租金活着。 这些分析都有一定道理，但大部分还停留",
-     "source": "虎嗅",
-     "zh": "西西弗书店是怎么赚钱的？"
-    },
-    {
-     "title": "程序员何处去？",
-     "link": "https://www.huxiu.com/article/4896457.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 17:07:16 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：伍洋宇，原文标题：《程序员何处去？| 商业头条No.146》 直到2026年初，DHH（戴维·海涅迈尔·汉森）还是不肯放弃手写代码这项“古法技艺”。 这位以酷爱编程闻名的程序员创造了Ruby on Rails，一个帮助无数人把想法变成网站和生意的软件开发框架。二十多年来，他始终相信，写代码本身值得热爱。面对让AI代劳的诱惑，他曾在博客里写道：自己宁愿退休，也不愿永久把键盘交给AI。 但今年9月23日，他站在美国奥斯汀的Rails World大会上，称公司已不再把手写代码作为开发软件的常规方式，并向同行宣布，“Pencils down（放下铅笔）”。这位长",
-     "source": "虎嗅",
-     "zh": "程序员何处去？"
-    },
-    {
-     "title": "扩产追不上数据中心需求，光纤高价还能维持多久？",
-     "link": "https://www.huxiu.com/article/4896456.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 17:06:22 +0800",
-     "summary": "本文来自微信公众号： 经济观察报 ，作者：郑晨烨 一种不起眼的通信材料，为什么突然变得紧俏？记者在采访中了解到，这一轮光纤的增量需求主要来自国内外的数据中心，海外的云厂商和运营商已经开始用长期协议锁定供应。 10月8日是国庆长假后A股首个交易日，光纤概念股随光通信板块走弱，港股的长飞光纤（06869.HK）大幅收跌。此前的9月28日，长飞光纤（601869.SH）、亨通光电（600487.SH）、中天科技（600522.SH）和烽火通信（600498.SH）曾集体跌停。 光纤曾经是一种不起眼的通信材料，家庭宽带和移动网络都离不开它，但价格多年在低位徘徊。今年以来，光纤价格大幅上涨，中国移动（6",
-     "source": "虎嗅",
-     "zh": "扩产追不上数据中心需求，光纤高价还能维持多久？"
-    },
-    {
-     "title": "专家：一年后，金价突破“5000大关”",
-     "link": "https://www.huxiu.com/article/4896454.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 17:04:32 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：黄君芝 自今年初春以来，黄金价格走势艰难。不断攀升的债券收益率和持续高企的通胀，推高了市场对鹰派利率的预期，使得这种贵金属难以获得持续上涨动力。 不过，尽管面临挑战，长期市场情绪依然看涨，从未动摇。本周在意大利索伦托举行的伦敦金银市场协会（LBMA）年度全球贵金属大会上，这种态度得到了充分体现。与会代表和更广泛的投资界人士都听到了一个明确的信息：不要将短期疲软与长期疲软混为一谈。 与会代表们预计，一年后的黄金价格将突破“5000大关”，平均达到每盎司5013.30美元，相比当前现货金价大约存在20%的上涨空间。 不过，与会代表们认为，投资者不应只关注价格。",
-     "source": "虎嗅",
-     "zh": "专家：一年后，金价突破“5000大关”"
     },
     {
      "title": "How This Tiny Startup Built the World’s Safest Bike Helmet",
@@ -1777,68 +1849,12 @@
      "zh": "How This Tiny Startup Built the World’s Safest Bike Helmet"
     },
     {
-     "title": "柳传志与联想前半生：从传达室创业到中国PC第一",
-     "link": "https://www.huxiu.com/article/4893763.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 17:00:00 +0800",
-     "summary": "他是改革开放时代的民企教父，联想的创造者，同时也是联想困局的缔造者。",
-     "source": "虎嗅",
-     "zh": "柳传志与联想前半生：从传达室创业到中国PC第一"
-    },
-    {
-     "title": "荣耀 WIN 小平板正面外观再曝，后台任务窗口显示新机疑似支持 240Hz 超高刷",
-     "link": "https://www.ithome.com/1/011/433.htm",
-     "pubDate": "Sat, 10 Oct 2026 08:58:10 GMT",
-     "summary": "IT之家 10 月 10 日消息，本月初， 荣耀 WIN 小平板在京东上架 ，页面显示该机将于 10 月 16 日开启盲约。 荣耀全场景产品线总裁 @荣耀潇哥 今日在微博晒出了荣耀 WIN 小平板的正面外观。 画面中，该平板正处于后台任务管理界面，右上角设置的后台页面显示该机屏幕刷新率支持四档可调， 其中“高”这一档疑似为 240Hz 超高刷开关 （画面过于模糊，但隐约可见数字为 2 开头）。 相关页面还透露，该机支持荣耀互联、大屏特色功能、绿洲护眼等功能。 同时新机确认拥有散热风扇和氛围灯效，相关功能均可以在设置中进行自定义 。 据IT之家此前报道， 消息称荣耀 WIN 2 系列新机代号 B",
-     "source": "IT之家",
-     "zh": "荣耀 WIN 小平板正面外观再曝，后台任务窗口显示新机疑似支持 240Hz 超高刷"
-    },
-    {
-     "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
-     "link": "https://www.ithome.com/1/011/432.htm",
-     "pubDate": "Sat, 10 Oct 2026 08:52:04 GMT",
-     "summary": "IT之家 10 月 10 日消息，今日， 腾讯云宣布开源内部自用 TeamAI。这是一款基于 Git 的团队 AI 协作工具。它把团队使用的 Skill、工作规范、工具配置和项目知识统一放进 Git 仓库，像管理代码一样进行评审、更新和版本管理，再同步到成员各自使用的 Agent 中，实现一人配置，全员复用。 IT之家注意到，目前，TeamAI 已适配 WorkBuddy 、CodeBuddy、Claude Code、Codex、Cursor 等 16 种 Agent。 TeamAI 沿用了开发者熟悉的 Git 协作流程。成员提交技能或修改规范时，自动创建分支、发起合并请求，交给团队评审。确认",
-     "source": "IT之家",
-     "zh": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill"
-    },
-    {
-     "title": "消息称 Meta 已搁置向 Anthropic 出租 AI 算力的计划",
-     "link": "https://www.ithome.com/1/011/431.htm",
-     "pubDate": "Sat, 10 Oct 2026 08:51:54 GMT",
-     "summary": "IT之家 10 月 10 日消息，《华尔街日报》在一篇当地时间昨日的报道中提到，Meta 已搁置向 Anthropic 出租 AI 算力的计划。 报道指出，Anthropic 首席执行官 Dario Amodei 今年早些时候曾亲自致电 Meta 首席人工智能官汪滔 (Alexandr Wang)，希望从这家竞争对手处租赁 AI 计算芯片。Meta 就此事进行过内部讨论， 最终做出了暂不提供的决定 。 随着 Muse 系列自研模型的逐步发布， Meta 的 AI 业务从早些时候的低潮中快速恢复 ， 自身对算力的需求也迅速增长 。此时若选择向 Anthropic 出售算力可算是“资敌”行为。 报",
-     "source": "IT之家",
-     "zh": "消息称 Meta 已搁置向 Anthropic 出租 AI 算力的计划"
-    },
-    {
-     "title": "2027 款长安启源 A06 家轿上市：CLTC 800km 纯电续航、800V 碳化硅高压平台，限时 11.69 万元起",
-     "link": "https://www.ithome.com/1/011/429.htm",
-     "pubDate": "Sat, 10 Oct 2026 08:42:44 GMT",
-     "summary": "IT之家 10 月 10 日消息，2027 款长安启源 A06 家轿今日正式上市，主打“听劝升级”，搭载 800V 碳化硅高压平台、全系标配宁德时代，拥有 CLTC 800km 纯电续航，限时权益价 11.69 万元起。 2027 款长安启源 A06 各版本价格如下： 800 激光旗舰版：官方指导价 15.99 万元、限时权益价 15.69 万元； 800 激光远航版：官方指导价 14.99 万元、限时权益价 14.69 万元； 630 激光耀享版：官方指导价 13.99 万元、限时权益价 13.69 万元； 630 尊享版：官方指导价 12.99 万元、限时权益价 12.69 万元； 630",
-     "source": "IT之家",
-     "zh": "2027 款长安启源 A06 家轿上市：CLTC 800km 纯电续航、800V 碳化硅高压平台，限时 11.69 万元起"
-    },
-    {
      "title": "Current and former employees say TikTok US still coordinates closely with the global TikTok org, and US staff continue to use ByteDance&apos;s internal chat app Lark (Sylvia Varnham O&apos;Regan/Politico)",
      "link": "https://www.techmeme.com/261010/p9#a261010p9",
      "pubDate": "Sat, 10 Oct 2026 04:40:01 -0400",
      "summary": "Sylvia Varnham O'Regan / Politico : Current and former employees say TikTok US still coordinates closely with the global TikTok org, and US staff continue to use ByteDance's internal chat app Lark &nbsp; &mdash;&nbsp; In the months before TikTok finalized a deal to sell its U.S. operations to a grou",
      "source": "Techmeme",
      "zh": "Current and former employees say TikTok US still coordinates closely with the global TikTok org, and US staff continue to use ByteDance&apos;s internal chat app Lark (Sylvia Varnham O&apos;Regan/Politico)"
-    },
-    {
-     "title": "星海贝 BD100 全能桌面解码耳放官宣：铝合金、胡桃木两种机身，一体化旋钮搭配圆形彩屏",
-     "link": "https://www.ithome.com/1/011/428.htm",
-     "pubDate": "Sat, 10 Oct 2026 08:25:13 GMT",
-     "summary": "IT之家 10 月 10 日消息，海贝今日官宣桌面音频新成员 —— 星海贝 BD100 全能桌面解码耳放，即将登场。 IT之家从官方介绍获悉，新品拥有 铝合金、胡桃木 两种机身，适配多样桌面风格。一体化旋钮搭配圆形彩屏，盲操作即可调节音量、切换音源，各类音频状态一目了然。 新品搭载双 CS43198 解码芯片、QCC5181 蓝牙 5.4，支持高清蓝牙编码，有线无线实现高解析回放。新品支持 USB / 同轴 / 光纤 / 蓝牙四输入，获得双 Hi‑Res 认证，支持 DSD512、PCM768KHz。 新品配备 独立 MIC 接口 ，3.5mm、4.4mm 平衡耳机口 + RCA 线路输出，耳",
-     "source": "IT之家",
-     "zh": "星海贝 BD100 全能桌面解码耳放官宣：铝合金、胡桃木两种机身，一体化旋钮搭配圆形彩屏"
-    },
-    {
-     "title": "赵长江谈智界 RX 大定人群画像，透露超 85% 用户选择 L3 架构版本",
-     "link": "https://www.ithome.com/1/011/427.htm",
-     "pubDate": "Sat, 10 Oct 2026 08:20:39 GMT",
-     "summary": "IT之家 10 月 10 日消息，智界汽车执行董事及执行副总裁赵长江今日发文，谈及了智界 RX 轿跑 SUV 的大定人群画像。 他透露， 超 85% 用户选择 L3 架构版本 ，95% 用户标配或选装主驾智能环抱座椅，近三成用户偏爱闪蝶蓝。不少保时捷、BBA 豪华车主，试驾后选择换车；两款 Max 版本，也收获很多年轻用户的认可。 赵长江表示， 做这台车的初心，就是希望它更好开、更安全，拥有指哪打哪的精准操控 。他称，该车在 30 万以内，把百万级底盘、操控实力、安全保障、前沿黑科技配齐，核心体验不缩水， 舱内激光版本也会有很好的智驾体验 。 参考IT之家此前报道， 鸿蒙智行智界 RX 轿跑 ",
-     "source": "IT之家",
-     "zh": "赵长江谈智界 RX 大定人群画像，透露超 85% 用户选择 L3 架构版本"
     },
     {
      "title": "AI Labels Multiply on Appliances as Overall Demand Stays Soft",
@@ -1924,7 +1940,7 @@
      "title": "Computers Cannot Make Decisions",
      "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
      "pubDate": "Sat, 10 Oct 2026 05:47:46 +0000",
-     "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 53 # Comments: 36",
+     "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 62 # Comments: 42",
      "source": "Hacker News",
      "zh": "Computers Cannot Make Decisions"
     },
@@ -1932,7 +1948,7 @@
      "title": "Food processing influences metabolism and brain activity",
      "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
      "pubDate": "Sat, 10 Oct 2026 05:22:30 +0000",
-     "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 20 # Comments: 8",
+     "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 25 # Comments: 11",
      "source": "Hacker News",
      "zh": "Food processing influences metabolism and brain activity"
     },
@@ -1951,22 +1967,6 @@
      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
      "source": "WIRED",
      "zh": "30% Off Canon Promo Codes | October 2026"
-    },
-    {
-     "title": "Disney Plus Discount Codes: 52% Off October 2026",
-     "link": "https://www.wired.com/story/disney-plus-discounts/",
-     "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000",
-     "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
-     "source": "WIRED",
-     "zh": "Disney Plus Discount Codes: 52% Off October 2026"
-    },
-    {
-     "title": "Home Depot Promo Codes: 30% Off in October 2026",
-     "link": "https://www.wired.com/story/home-depot-promo-code/",
-     "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000",
-     "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-     "source": "WIRED",
-     "zh": "Home Depot Promo Codes: 30% Off in October 2026"
     }
    ]
   },
@@ -1976,6 +1976,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "I spent the weekend switching 2FA services, and I wouldn’t wish it on my worst enemy",
+     "link": "https://www.androidauthority.com/switching-2fa-service-authy-vs-ente-3719540/",
+     "pubDate": "Sat, 10 Oct 2026 09:30:58 +0000",
+     "summary": "I put it off for as long as I could.",
+     "source": "Android Authority",
+     "zh": "I spent the weekend switching 2FA services, and I wouldn’t wish it on my worst enemy"
+    },
     {
      "title": "Zero-stress travel: The app stack that keeps my trips frictionless",
      "link": "https://www.androidauthority.com/travel-apps-i-recommend-3716879/",
@@ -2201,14 +2209,6 @@
      "zh": "Google is working on HDR emoji for Chat"
     },
     {
-     "title": "Want an iPhone Duo? These AT&T deals will knock the price down",
-     "link": "https://www.androidauthority.com/apple-iphone-duo-att-deals-3721516/",
-     "pubDate": "Fri, 09 Oct 2026 19:13:04 +0000",
-     "summary": "With pre-orders starting in the coming days, AT&T has revealed its iPhone Duo deals.",
-     "source": "Android Authority",
-     "zh": "Want an iPhone Duo? These AT&T deals will knock the price down"
-    },
-    {
      "title": "‘HomePad’ is coming next week, with three features I’ve long wanted",
      "link": "https://9to5mac.com/2026/10/09/homepad-is-coming-next-week-with-three-features-ive-long-wanted/",
      "pubDate": "Fri, 09 Oct 2026 19:02:07 +0000",
@@ -2225,44 +2225,76 @@
    "total": 13,
    "items": [
     {
-     "title": "哈啰顺风车国庆出行较平日涨70%，“请3休13”带火4452公里超长跨城",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891932562.html",
-     "pubDate": "Sat, 10 Oct 2026 16:59:23 +0800",
-     "summary": "随着“请3休13”拼假模式走红，今年国庆假期的顺风车出行市场迎来一波新高潮。10月10日，哈啰顺风车发布国庆假期出行数据显示，9月25日至10月7日，哈啰顺风车平台用户发单需求较平日增长70%，跨城订单占比达42%。城际“一站直达”，正成为用户规避抢票焦虑、错峰出行的主流选择。 假期六座车需求暴涨221%，携宠出行订单增长157% 家庭出游与携宠出行成为今年国庆顺风车市场的两大亮点。数据显示，哈啰顺风车“5、6人”车型服务需求量较平日增长超过221%，家庭出游、亲子同行、“两大两老一小”等场景占比明显提升。哈啰顺风车相关负责人表示，自推出顺风车六座车产品以来，该产品长期深受用户喜爱。 另一大亮",
-     "source": "东方财富股票",
-     "zh": "哈啰顺风车国庆出行较平日涨70%，“请3休13”带火4452公里超长跨城"
+     "title": "重庆48株400年以上树龄古树有了“司法守护人”",
+     "link": "http://www.eeo.com.cn/2026/1010/1060075.shtml",
+     "pubDate": "Sat, 10 Oct 2026 17:26:12 +0800",
+     "summary": "第1眼TV-华龙网讯（首席记者 冯珊）近日，在14株黄葛古树群围绕的荣昌区黄葛树广场，重庆市高级人民法院、重庆市城市管理局、重庆市第五中级人民法院、荣昌区人民法院联合开展重庆城市古树名木司法守护主题活动，为重庆城区48株400年以上树龄的古树名木配备“司法守护人”，标志着全市重点古树名木的司法保护实现了从山野到城区的全覆盖。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/E55...",
+     "source": "经济观察网",
+     "zh": "重庆48株400年以上树龄古树有了“司法守护人”"
     },
     {
-     "title": "葛洲坝航运扩能工程进入主体施工阶段",
-     "link": "http://finance.eastmoney.com/news/1350,202610103891931813.html",
-     "pubDate": "Sat, 10 Oct 2026 16:58:53 +0800",
-     "summary": "三峡水运新通道工程是“十五五”时期我国开工建设的首个重大标志性工程，包含三峡枢纽新通道和葛洲坝 航运 扩能。今天，葛洲坝 航运 扩能迎来关键节点，上下游围堰正式开工建设，这标志着葛洲坝 航运 扩能全面进入主体施工阶段。 上下游围堰是葛洲坝航运扩能建设的第一道关卡，就是修筑在江中的“临时挡水墙”。其中，上游围堰全长835.94米，下游围堰总长960.85米。 三峡新通道公司高级专业师兼葛洲坝扩能工程管理部主任孙志峰： 因为葛洲坝航运扩能船闸主体段需要在干地施工，我们后面即将要开展的上游围堰、下游围堰，就是为了干地施工形成一个安全屏障。 随着上下游围堰正式开工，葛洲坝航运扩能也全面进入主体施工阶段",
-     "source": "东方财富股票",
-     "zh": "葛洲坝航运扩能工程进入主体施工阶段"
+     "title": "电波并非“无拘无束” 重庆把无线电普法课堂搬到群众“家门口”",
+     "link": "http://www.eeo.com.cn/2026/1010/1060074.shtml",
+     "pubDate": "Sat, 10 Oct 2026 17:26:11 +0800",
+     "summary": "第1眼TV-华龙网讯（记者 梁浩楠）10月9日，重庆市无线电管理办公室联合重庆市工业和信息化发展中心在沙坪坝区开展无线电管理法律法规进社区宣传活动，面向物业工作人员及社区居民普及无线电法律法规知识，将专业的无线电普法课堂搬到群众“家门口”。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/23A7E9FC07C9631D03BED3F7FD7B85EF.jpg\" alt=\"活动现场。受访单位供图\" data-title=\"活动现...",
+     "source": "经济观察网",
+     "zh": "电波并非“无拘无束” 重庆把无线电普法课堂搬到群众“家门口”"
     },
     {
-     "title": "太一量生累计融资超10亿元，量子计算中性原子路线加速突围",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891931159.html",
-     "pubDate": "Sat, 10 Oct 2026 16:57:57 +0800",
-     "summary": "新华财经上海10月10日电 太一量生（上海） 量子科技 有限公司（以下简称“太一量生”）10日宣布完成新一轮融资。成立仅8个月余，这家聚焦中性原子技术路线的量子计算企业累计融资已超10亿元人民币，快速成长为 独角兽 企业。 据介绍，本轮融资将主要用于持续加大研发投入与生态建设，包括全球科研人才引进、量子纠错与系统工程能力深化，以及产业合作与开源生态建设，为大规模容错量子计算的长期发展提供支撑。 同时，太一量生首次系统性披露成立以来的工程进展。三个关键节点值得关注：一是6个月完成中性原子量子计算原型机整机集成，将原子操控、真空、激光、光学、测控、实时控制、软件等多个分立模块纳入统一系统，研发从单",
+     "title": "乘联分会：9月1-30日全国乘用车新能源市场零售114.1万辆 同比去年9月同期下降12%",
+     "link": "http://finance.eastmoney.com/news/1358,202610103891936457.html",
+     "pubDate": "Sat, 10 Oct 2026 17:21:15 +0800",
+     "summary": "乘联分会发布数据，9月1-30日，全国 乘用车 市场市场零售170.2万辆，同比去年9月同期下降24%，较上月同期增长10%，今年以来 乘用车 累计零售1,341.8万辆，同比下降21%；9月1-30日，全国 乘用车 新能源 市场零售114.1万辆，同比去年9月同期下降12%，较上月同期增长14%，今年以来累计零售781.6万辆，同比下降12%；9月1-30日，全国乘用车 新能源 市场零售渗透率67.1%；9月1-30日，全国乘用车 新能源 厂商批发渗透率66.1%。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "太一量生累计融资超10亿元，量子计算中性原子路线加速突围"
+     "zh": "乘联分会：9月1-30日全国乘用车新能源市场零售114.1万辆 同比去年9月同期下降12%"
     },
     {
-     "title": "踏板总成均价仅 64.87 元、毛利两年连降，凯众股份卷入尊界V800测试风波",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891932110.html",
-     "pubDate": "Sat, 10 Oct 2026 16:52:29 +0800",
-     "summary": "懂车帝针对尊界V800连续三辆车制动踏板都被踩断的测评事件风波仍在持续。 江淮汽车 10 月 8 日收盘跌停，10 月 9 日盘中一度触及跌停，两个交易日市值合计缩水超百亿元。如今，市场的目光开始从主机厂转向供应链上游——到底是谁为尊界V800供应了那根被踩断的制动踏板？ 10月8日，懂车帝发布测试视频显示，在时速100至0的连续刹停试验中，尊界V800连续三辆车制动踏板都被踩断。尊界是由华为与 江淮汽车 联手打造的超 豪华 汽车 品牌。测评中的车型尊界V800于今年8月正式上市，主打高端商务市场，售价区间为76.6万~101.6万元。 百万级豪车踏板被踩断，迅速将“谁是制动踏板供应商”推上热",
+     "title": "多部门：汽车生产企业不得作虚假、夸大或引人误解的宣传 不得诱导驾驶人忽视安全驾驶责任",
+     "link": "http://finance.eastmoney.com/news/1345,202610103891936120.html",
+     "pubDate": "Sat, 10 Oct 2026 17:20:22 +0800",
+     "summary": "工业和信息化部等四部门联合发布了关于进一步加强 汽车 产品创新设计和研发测试验证有关管理工作的通知（征求意见稿），拟规范营销宣传活动。 汽车 生产企业应当真实客观开展营销宣传活动，如实宣传产品创新设计的使用边界、限制条件和研发测试验证等情况，不得作虚假、夸大或引人误解的宣传，不得使用违反道路交通法规的场景来宣传产品功能，不得诱导驾驶人忽视安全驾驶责任，确保消费者正确理解和使用 汽车 产品创新设计相关功能。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "踏板总成均价仅 64.87 元、毛利两年连降，凯众股份卷入尊界V800测试风波"
+     "zh": "多部门：汽车生产企业不得作虚假、夸大或引人误解的宣传 不得诱导驾驶人忽视安全驾驶责任"
     },
     {
-     "title": "国资盟友临阵退出，ST恒信股东提案搁浅，控制权博弈陷入拉锯",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891930961.html",
-     "pubDate": "Sat, 10 Oct 2026 16:52:28 +0800",
-     "summary": "蓝鲸新闻10月10日讯 国庆假期之后，ST 恒信（300081）持续数月的股东争斗迎来新的转折。原本由实控人孟宪民牵头、7 名股东联名提请召开临时股东大会的提案，在提交当日遭遇提案阵营内国资背景投资方东岦投资退出，召集方合计持股跌破法定 10% 门槛，本次临时股东会提案直接搁浅。 这场旷日持久的控制权争夺，叠加公司被立案、账户冻结、持续经营承压等多重问题，让这家 ST 上市公司的治理困局进一步暴露。 控制权争端由来：创始人退而未休，股权持续削弱引爆董事会大战 ST 恒信由孟宪民创立，2010 年登陆创业板，长期由孟宪民执掌。2021 年 7 月，孟宪民辞去董事长、总经理全部职务，其子孟楠接任总",
+     "title": "Police arrest leader of India’s ‘Cockroach’ movement before mass protest",
+     "link": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1",
+     "pubDate": "Sat, 10 Oct 2026 09:19:07 GMT",
+     "summary": "Abhijeet Dipke was escorted off a flight as authorities crack down on demonstrations in New Delhi",
+     "source": "Financial Times",
+     "zh": "Police arrest leader of India’s ‘Cockroach’ movement before mass protest"
+    },
+    {
+     "title": "10月需防范这几类传染病 中疾控发布健康提示",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891935964.html",
+     "pubDate": "Sat, 10 Oct 2026 17:17:11 +0800",
+     "summary": "中国疾控中心提示，本月需重点关注新冠、 流感 等呼吸道传染病，登革热、基孔肯雅热、寨卡病毒病等蚊媒传染病，埃博拉病毒病，发热伴血小板减少 综合 征，猴痘；学校和托幼机构需要注意预防手足口病、水痘、诺如病毒胃肠炎、 流感 、新冠病毒感染等常见传染病。 （文章来源：央视新闻）",
      "source": "东方财富股票",
-     "zh": "国资盟友临阵退出，ST恒信股东提案搁浅，控制权博弈陷入拉锯"
+     "zh": "10月需防范这几类传染病 中疾控发布健康提示"
+    },
+    {
+     "title": "九连板牛股，“自然人”登上龙虎榜！",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891936364.html",
+     "pubDate": "Sat, 10 Oct 2026 17:15:33 +0800",
+     "summary": "10月9日， 新华传媒 “一字”涨停，走出9连板，当日收于12.53元/股，滚动市盈率（PE TTM）来到307倍。Choice数据显示，9月21日—10月9日， 新华传媒 累计涨幅达135.97%。 股价9天翻倍背后，是谁在买入 新华传媒 ？龙虎榜显示，9月22日至10月9日区间内，自然人买入额登顶，买入占比达84.89%。自然人群体中，代表大资金散户的“其他自然人”买入占比达68.35%，成为最大买家。相比之下，其他资金偏好分化，机构资金小幅净流入，中小投资者则大举兑现离场。 自然人登顶龙虎榜大资金散户大举买入 10月9日，新华 传媒 因“连续10个交易日内4次出现同正向异常波动”登上龙虎",
+     "source": "东方财富股票",
+     "zh": "九连板牛股，“自然人”登上龙虎榜！"
+    },
+    {
+     "title": "职业伤害保障试点累计参保3727万人",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891935695.html",
+     "pubDate": "Sat, 10 Oct 2026 17:15:20 +0800",
+     "summary": "新华财经北京10月10日电（记者张晓洁、王聿昊）记者从国新办10月10日举行的“开局起步‘十五五’”系列主题新闻发布会上获悉，新就业形态人员职业伤害保障试点开展以来，制度运行总体平稳，试点范围不断扩大，参保人数不断增多。截至9月底，职业伤害保障试点累计参保3727万人。截至目前，参保单数达1087亿单。 人力资源社会保障部新闻发言人、副部长李忠介绍，截至9月底，全国基本养老保险、失业保险、工伤保险参保人数分别达到10.79亿人、2.51亿人、3.27亿人，三项社会保险基金累计结余11.2万亿元。 “下一步，我们将统筹推进参保扩面、深化改革、优化服务等，不断把社会保障网织得更密、扎得更牢。重点是",
+     "source": "东方财富股票",
+     "zh": "职业伤害保障试点累计参保3727万人"
+    },
+    {
+     "title": "克里姆林宫：在与伊朗协调下，俄罗斯总统普京向美国总统特朗普传达了伊朗对可能解决冲突的看法",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891935429.html",
+     "pubDate": "Sat, 10 Oct 2026 17:14:16 +0800",
+     "summary": "克里姆林宫：在与伊朗协调下，俄罗斯总统普京向美国总统特朗普传达了伊朗对可能解决冲突的看法。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "克里姆林宫：在与伊朗协调下，俄罗斯总统普京向美国总统特朗普传达了伊朗对可能解决冲突的看法"
     },
     {
      "title": "主线高架桥通车！江南隧道及茶黄路项目全面完工投用",
@@ -2281,14 +2313,6 @@
      "zh": "食用银鳕鱼致汞中毒，医院迎就诊高峰！医生：慎食高汞鱼"
     },
     {
-     "title": "新华指数监测：香蕉产地价格指数小幅回落 销地批发价格指数微涨",
-     "link": "http://finance.eastmoney.com/news/1348,202610103891931671.html",
-     "pubDate": "Sat, 10 Oct 2026 16:52:08 +0800",
-     "summary": "新华-中国（海南·澄迈）香蕉系列价格指数：9月28日至10月2日，新华-中国香蕉产地价格指数环比下跌，新华-香蕉销地批发价格指数环比上涨，新华-中国（海南）皇帝蕉产地价格指数和新华-进口香蕉价格指数环比持平。 新华-中国香蕉产地价格指数下跌2.21% 图1 新华-中国香蕉产地价格指数 数据来源：新华财经数据库 10月2日，新华-中国香蕉产地价格指数报35.86点，较9月25日下跌0.81点，跌幅2.21%；较基期下跌64.14点，跌幅64.14%。 本期（9月28日到10月2日），海南产区统货均价约为1.04元／斤，较前一期（9月21日到9月25日）上涨0.01元／斤，涨幅0.67%；云南产区",
-     "source": "东方财富股票",
-     "zh": "新华指数监测：香蕉产地价格指数小幅回落 销地批发价格指数微涨"
-    },
-    {
      "title": "如皋市仁武玻纤织造厂召回部分泓安HONGAN牌灭火毯产品",
      "link": "http://www.eeo.com.cn/2026/1010/1059990.shtml",
      "pubDate": "Sat, 10 Oct 2026 16:39:13 +0800",
@@ -2303,14 +2327,6 @@
      "summary": "在AI重塑全球算力版图的当下，前英特尔CEO Pat Gelsinger一针见血地指出：AI让芯片设计变得简单，但制造、内存与能源的物理瓶颈正引发一场史无前例的硬件复兴。 10月9日，硅谷创投机构a16z 播出一期深度访谈节目。在对谈中，Playground Global普通合伙人、前英特尔CEO Pat Gelsinger与a16z的Raghu Raghuram、Guido Appenzeller展开了一场跨越芯片设计、存储创新、光互联、能源瓶颈乃至AI代理（Agent）基础设施的深度讨论。这位亲手设计了英特尔386和486处理器、见证了现代EDA行业诞生的芯片老兵，以其数十年的一线经验，为",
      "source": "华尔街见闻",
      "zh": "“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代"
-    },
-    {
-     "title": "Police arrest leader of India’s ‘Cockroach’ movement before mass protest",
-     "link": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1",
-     "pubDate": "Sat, 10 Oct 2026 08:35:15 GMT",
-     "summary": "Abhijeet Dipke was escorted off a flight as authorities crack down on demonstrations in New Delhi",
-     "source": "Financial Times",
-     "zh": "Police arrest leader of India’s ‘Cockroach’ movement before mass protest"
     },
     {
      "title": "前三季基金业绩揭榜: 半导体吃肉、原油喝汤、医药复兴",
@@ -2335,22 +2351,6 @@
      "summary": "本文来源：时代财经 10月10日，有“亚洲十大豪宅之一”之称的杭州九溪玫瑰园东区天怡苑23号别墅在阿里拍卖平台公开拍卖，起拍价1.68亿元，一共吸引5名买家参与竞拍，超5.5万次围观。 4名竞买人激战228轮，最终竞买号为F2022的买家胜出，以2.88亿元竞得天怡苑23号别墅，溢价率71.43%。 <p class=\"imgswarp nw_editor nw_img time-article-imgText-box nw_editor nw_img\" contenteditable=\"true\" id=\"imgTextBox_...",
      "source": "经济观察网",
      "zh": "激战228轮，杭州西湖边一独栋别墅2.88亿成交，溢价率71.43%"
-    },
-    {
-     "title": "世界精神卫生日｜“悲秋”“恋秋”是正常情绪波动还是心理疾病？ 专家：出现这些信号需干预",
-     "link": "http://www.eeo.com.cn/2026/1010/1059950.shtml",
-     "pubDate": "Sat, 10 Oct 2026 16:13:15 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 唐雨）重庆市气候中心最新监测数据显示，全市各区县已经全部入秋。秋季是情绪容易产生变化的季节。近日，“悲秋综合征”“恋秋综合征”相关话题在社交平台引发讨论。一个秋天为何会产生两种心境？出现哪些情绪信号需及时就医？10月10日世界精神卫生日，来听重医附一院的专家怎么说。 “秋天一到，闻着桂花香，吃着烤红薯，吹吹江风就觉得好幸福”“秋天和家人一起散散步，再来杯热奶茶，太圆满了...",
-     "source": "经济观察网",
-     "zh": "世界精神卫生日｜“悲秋”“恋秋”是正常情绪波动还是心理疾病？ 专家：出现这些信号需干预"
-    },
-    {
-     "title": "“善后”难题待解，戴姆勒卡车“败走”中国",
-     "link": "http://www.eeo.com.cn/2026/1010/1059947.shtml",
-     "pubDate": "Sat, 10 Oct 2026 16:12:28 +0800",
-     "summary": "技术积累可以封存、产线可以关停、业务版图可以重新取舍，但市场信任一旦消耗殆尽，想要重新修复，将远比开拓一块新市场更加艰难。对于戴姆勒卡车而言，中国市场的成败得失，不只是一次区域商业试验的落幕，更是对其全球品牌价值的一场严肃考验。",
-     "source": "经济观察网",
-     "zh": "“善后”难题待解，戴姆勒卡车“败走”中国"
     },
     {
      "title": "花旗：法国财政风险或令欧央行12月后暂停加息，欧元料跌破1.10",
@@ -2505,20 +2505,20 @@
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
-     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
-     "source": "Live Science",
-     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
-    },
-    {
      "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
      "source": "Live Science",
      "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
+    },
+    {
+     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
+     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
+     "source": "Live Science",
+     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

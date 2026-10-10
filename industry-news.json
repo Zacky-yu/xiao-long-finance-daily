@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 15:12:10",
+ "generated_at": "2026/10/10 15:32:02",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "特斯拉FSD，在欧洲被打回原形",
+     "link": "https://www.qbitai.com/2026/10/502467.html",
+     "pubDate": "Sat, 10 Oct 2026 06:59:02 +0000",
+     "summary": "马斯克反而发文道谢？",
+     "source": "量子位",
+     "zh": "特斯拉FSD，在欧洲被打回原形"
+    },
     {
      "title": "00后硕士揭开AI推理“黑科技”：两个Token，基模追平强化学习版本",
      "link": "https://zhidx.com/p/599467.html",
@@ -239,14 +247,6 @@
      "summary": "智东西 作者 | 毕伟豪 编辑｜云鹏 智东西10月9日报道，在重置之神Tibo“ 连续28天新发布或者重置 ”的第四天，OpenAI改进了转向功能并发布了GPT-6.1 Sol的Ultrafast（极速）模式， 智能接近Astra，速度比标准版GPT-6.1 Sol快8倍 。 速度快了， 价格自然也是水涨船高 ，现阶段，GPT-6.1 Sol按照速度分三档售卖，标准版价格每百万Token输入2美元，输出10美元，Fast模式速度和价格翻倍。 Ultrafast模式每百万Token输入12美元，输出60美元， 足足是标准版的6倍 。 不过，拿它与旗舰模型对比，价格又没那么难接受了。GPT-6 A",
      "source": "智东西",
      "zh": "GPT-6.1 Sol极速版快8倍，但依然口碑秒崩？“变相涨价”被网友怒喷"
-    },
-    {
-     "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
-     "link": "https://www.qbitai.com/2026/10/502330.html",
-     "pubDate": "Fri, 09 Oct 2026 04:15:05 +0000",
-     "summary": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
-     "source": "量子位",
-     "zh": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」"
     }
    ]
   },
@@ -961,12 +961,12 @@
      "zh": "Poly pricing and potential expansion"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
+     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -980,7 +980,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1729,20 +1729,68 @@
    "total": 18,
    "items": [
     {
-     "title": "保时捷持续预热顶级超跑 Mission S：转速指针指向 8000rpm",
-     "link": "https://www.ithome.com/1/011/378.htm",
-     "pubDate": "Sat, 10 Oct 2026 07:09:30 GMT",
-     "summary": "IT之家 10 月 10 日消息，保时捷继续预热即将推出的顶级超跑 Mission S，最新预告视频又透露了一个令人兴奋的细节。 今天（10 日）上午，保时捷发布了新的 Mission S 的新预告片。短短几个镜头中，最引人注目的是 转速表指针攀升至 8000rpm 的画面。此外，新车的仪表还可以伸缩。 本周早些时候，保时捷证实研发中的全新中置发动机超跑平台 将定位于 911 之上 。该平台未来还有望发展成完整车系，带来一系列定位高于经典 911 的高性能车型。 Mission S 也意味着保时捷重返顶级超跑市场。此前，保时捷最后一款真正意义上的旗舰超跑是 918 Spyder，采用 V8 自",
+     "title": "曜越曲面玻璃海景房中塔机箱 Arcus 380 TG ARGB 发售：左右双舱，黑白双色均售 899 元",
+     "link": "https://www.ithome.com/1/011/389.htm",
+     "pubDate": "Sat, 10 Oct 2026 07:27:19 GMT",
+     "summary": "IT之家 10 月 10 日消息，曜越旗下 Arcus 380 TG ARGB 海景房机箱国行现已在京东上架发售，黑白双色定价均为 899 元。 京东 曜越 Arcus 380 TG ARGB 机箱 899 元 直达链接 这是一款 7 扩展槽的中塔 ATX 兼容产品，采用左右分舱布局，配备一块 4mm 曲面钢化玻璃，右前方风扇支架存在一定倾斜。 Arcus 380 TG ARGB 机箱三维 469×285×477 (mm)，兼容背插主板，扩展卡限长 430mm、ATX 电源限长 180mm、处理器散热器限高 160mm，提供 1 个 3.5\" / 2.5\" 盘位和 2 个 2.5\" 盘位。 其",
      "source": "IT之家",
-     "zh": "保时捷持续预热顶级超跑 Mission S：转速指针指向 8000rpm"
+     "zh": "曜越曲面玻璃海景房中塔机箱 Arcus 380 TG ARGB 发售：左右双舱，黑白双色均售 899 元"
     },
     {
-     "title": "北京：增加人工智能手机和电脑、智能穿戴、智能机器人等新一代智能终端产品有效供给",
-     "link": "https://www.ithome.com/1/011/376.htm",
-     "pubDate": "Sat, 10 Oct 2026 07:08:10 GMT",
-     "summary": "IT之家 10 月 10 日消息，北京市人民政府现已印发《北京市“十五五”时期深化国际消费中心城市建设规划》。 IT之家注意到，文件中提到，有关部门将深入推进“人工智能 + 消费”。扩大数字产品消费， 增加人工智能手机和电脑、智能穿戴、智能机器人等新一代智能终端产品有效供给 。 同时，有关部门将鼓励很野创新数字内容消费，鼓励利用人工智能技术辅助开展戏剧、音乐、舞蹈、美术、沉浸式体验等创作，推出更多优质数字文博产品，加大广播电视和网络视听超高清内容供给。打造数字消费新场景，加快推动数智技术与消费场景融合， 推动人工智能、虚拟现实、超高清等技术与商业、教育、医疗、文化、旅游、体育等领域融合应用 ，",
+     "title": "中国企业首次：小鹏集团当选联合国自动驾驶工作组秘书长",
+     "link": "https://www.ithome.com/1/011/388.htm",
+     "pubDate": "Sat, 10 Oct 2026 07:22:53 GMT",
+     "summary": "IT之家 10 月 10 日消息，小鹏汽车官微今天（10 日）下午宣布，近日，小鹏集团当选联合国欧洲经济委员会（UNECE）GRVA / WP.29 框架下，新设“自动驾驶场景相关信息交换工作组”（TF-ESRI）秘书长。 小鹏方面表示， 这是中国企业首次在联合国自动驾驶法规核心框架下担任秘书长 ，代表了国际自动驾驶技术法规协调体系对小鹏智能辅助驾驶能力及长期参与法规标准工作的高度认可。后续，小鹏将代表中国汽车产业深度参与全球协作，为全球自动驾驶发展贡献中国经验。 据IT之家此前报道，今年 7 月，小鹏集团董事长、CEO 何小鹏 在德国完成小鹏图灵 AI 智驾（NGP）第二代 VLA 模型的本",
      "source": "IT之家",
-     "zh": "北京：增加人工智能手机和电脑、智能穿戴、智能机器人等新一代智能终端产品有效供给"
+     "zh": "中国企业首次：小鹏集团当选联合国自动驾驶工作组秘书长"
+    },
+    {
+     "title": "飞利浦“25M3N3240P”24 英寸显示器发售：1080P 280Hz，599 元",
+     "link": "https://www.ithome.com/1/011/387.htm",
+     "pubDate": "Sat, 10 Oct 2026 07:22:16 GMT",
+     "summary": "IT之家 10 月 10 日消息，飞利浦现已在京东上架型号为“25M3N3240P”的 24 英寸显示器，该机主打 1080P 280Hz， 定价为 599 元 。 京东 飞利浦“25M3N3240P”显示器 599 元 直达链接 该机配备一块 1920x1080 分辨率 280Hz Fast IPS 面板，对比度 1000:1，显示器亮度 350 尼特，覆盖 95% DCI-P3、99% sRGB、89% AdobeRGB 色域。 该机支架支持俯仰，显示器本体支持 VESA 100x100mm 壁挂，提供 2 个 HDMI 2.0、DP 1.4 接口，IT之家附显示器参数：",
+     "source": "IT之家",
+     "zh": "飞利浦“25M3N3240P”24 英寸显示器发售：1080P 280Hz，599 元"
+    },
+    {
+     "title": "一加 16 旗舰配置公布：首次支持三频 GPS + 四频北斗，一加最多信号频段",
+     "link": "https://www.ithome.com/1/011/386.htm",
+     "pubDate": "Sat, 10 Oct 2026 07:20:24 GMT",
+     "summary": "IT之家 10 月 10 日消息，一加 16 手机将于 10 月 12 日 19:00 发布，官方今日公布新品的部分旗舰配置。 IT之家整理如下： 100W 有线闪充、50W 无线闪充 IP66/68/69/69K 超强防水 首次支持三频 GPS 四频北斗信号导航 支持 USB 3.2 Gen1 一加最多信号频段，支持 n79 高频段 大师对称立体声双扬声器 3D 超声波指纹 全新高性能 X 轴振感马达 OPPO 晶盾玻璃 据IT之家此前报道， 一加 16 手机首批搭载第六代骁龙 8 超级至尊版 ，搭配全新一代风驰游戏内核，出厂即写入芯片底层。 一加 16 手机搭载与京东方联合研发的 185H",
+     "source": "IT之家",
+     "zh": "一加 16 旗舰配置公布：首次支持三频 GPS + 四频北斗，一加最多信号频段"
+    },
+    {
+     "title": "华为AI芯片，不够卖了",
+     "link": "https://www.huxiu.com/article/4896424.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 15:17:57 +0800",
+     "summary": "本文来自微信公众号： 金角财经 ，作者：罗夏 被美国限制了这么多年，华为的AI芯片，还是卖到了供不应求。 据界面新闻刊发的一份媒体交流纪要，华为轮值董事长徐直军表示，昇腾目前还远远不能满足国内需求，暂时没有全面拓展海外市场的计划。说到接下来的供货，他直接催起了产业链：“快一点、多产一点。” 谈到与英伟达的竞争，徐直军又给出了一个颇有分量的判断：虽然英伟达在中国的市场份额很难统计，但按照华为能够统计到的数据，昇腾应该已经超过了英伟达。这仍是华为基于自身数据作出的判断，纪要没有披露具体份额和统计口径。 英伟达自己也在担心。它在今年8月公布的季度报告中提醒投资者，公司难以参与中国数据中心计算市场，正",
+     "source": "虎嗅",
+     "zh": "华为AI芯片，不够卖了"
+    },
+    {
+     "title": "泰坦军团“P276MS PRO”27 英寸显示器发售：2K 345Hz 超频 QD-Mini LED，1888 元",
+     "link": "https://www.ithome.com/1/011/385.htm",
+     "pubDate": "Sat, 10 Oct 2026 07:16:46 GMT",
+     "summary": "IT之家 10 月 10 日消息，泰坦军团旗下“P276MS PRO”27 英寸显示器现已在京东发售，该机主打 2K 345Hz， 定价为 1888 元 ，部分地区国补后低至 1587.6 元。 京东 泰坦军团“P276MS PRO”显示器 1888 元 领 120 元券 该机配备一块 2560x1440 分辨率 345Hz 超频（原生 320Hz）1152 分区 QD-Mini LED 背光 Fast IPS 面板，GtG 响应速度 1ms，峰值亮度 1000 尼特，显示器支持 10-Bit 色彩，色域容积 154% sRGB。 该机支架支持升降 / 旋转，显示器本体支持 VESA 100x",
+     "source": "IT之家",
+     "zh": "泰坦军团“P276MS PRO”27 英寸显示器发售：2K 345Hz 超频 QD-Mini LED，1888 元"
+    },
+    {
+     "title": "号称“逆向分析一切”，微信、支付宝、抖音等国民App都“惨遭毒手”",
+     "link": "https://www.huxiu.com/article/4896423.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 15:16:33 +0800",
+     "summary": "本文来自微信公众号： 字母AI ，作者：苗正 微信、支付宝、抖音……你敢相信吗，GitHub上最近爆火的一个开源项目，竟然能够威胁你手机里的所有App。 这个项目就是REA，全称为Reverse Engineer Anything，翻译过来就是“逆向分析一切”。仅一天就收获了超过1.4万颗星，如今总星数已达4.1万，其热度堪比2、3月份的OpenClaw。 项目介绍里是这么写的，任何一款App，只要让Agent用REA去研究它，不需要源码，它就能逆向分析这个App，给出证据，再替你的项目做一个版本。 乍一听可能没什么，毕竟就是复制人家App里的功能和设计罢了。 然而REA的本质是逆向分析。也就",
+     "source": "虎嗅",
+     "zh": "号称“逆向分析一切”，微信、支付宝、抖音等国民App都“惨遭毒手”"
+    },
+    {
+     "title": "高通诉 Arm 案 5 天审议暂未裁决，陪审团下周二续议",
+     "link": "https://www.ithome.com/1/011/383.htm",
+     "pubDate": "Sat, 10 Oct 2026 07:14:19 GMT",
+     "summary": "IT之家 10 月 10 日消息，路透社昨日（10 月 9 日）发布博文，报道称在为期 5 天的案件审理后， 美国特拉华州联邦法院的陪审团昨日未能就高通诉 Arm 一案达成裁决，表示将于下周二恢复审议。 IT之家曾于 10 月 6 日发布博文，报道称当地时间星期一（10 月 5 日）， 芯片制造商高通与芯片技术公司 Arm 再次对簿公堂，在美国特拉华州联邦法院展开为期五天的陪审团审判 。 不过陪审团在星期五讨论了约 4 个小时后，未能达成一致意见，表示将于下周二恢复审议。 路透社报道称争议焦点包括 Arm 是否违反许可协议，以及是否故意干预高通与 Meta 的部分交易。高通指称，Arm 扣留了",
+     "source": "IT之家",
+     "zh": "高通诉 Arm 案 5 天审议暂未裁决，陪审团下周二续议"
     },
     {
      "title": "AI开始撕裂全球经济：美国收割红利，欧洲深陷泥潭",
@@ -1759,38 +1807,6 @@
      "summary": "本文来自微信公众号： 小盖fun ，作者：小盖，原文标题：《写给表妹的 AI 学习建议，全是真心话。》 上午刚和表妹聊完天，想整理一下我跟她分享的一些AI使用和学习经验。表妹不是AI的重度用户，所以我觉得这些经验应该对其他泛互联网行业的同学也有帮助。 不废话，快速进入正题。 1、尽量接触一手信息，少看二手解读。 我现在获取AI信息，主要还是通过X和YouTube。X上有大量硅谷创业者、工程师和研究人员，可以直接了解他们最近在研究什么、思考什么。 YouTube上则有非常多优质的播客和访谈。 我觉得这些信息的价值非常高，而且会节省大量时间。 昨天还有个朋友给我发了一篇讨论FDE的自媒体文章。我看",
      "source": "虎嗅",
      "zh": "写给表妹的AI 学习建议，全是真心话。"
-    },
-    {
-     "title": "Marvell 大胆预测： 2031 财年营收可达 2026 财年 10 倍左右",
-     "link": "https://www.ithome.com/1/011/364.htm",
-     "pubDate": "Sat, 10 Oct 2026 07:03:51 GMT",
-     "summary": "IT之家 10 月 10 日消息，Marvell（美满）当地时间本月 6 日在其年度投资者日活动上发布强劲预测，认为其营收水平有望在 2031 财年 （2030 年 2 月 ~ 2031 年 1 月） 达到 70~90 亿美元 （IT之家注：现汇率约合 469.45 ~ 603.58 亿元人民币） ， 是 2026 财年的 81.95 亿美元的 10 倍左右 。 Marvell 认为，数据中心人工智能的蓬勃发展为其创造了广泛的商机， 整体潜在市场将在 2030 年达到 4,000 亿美元 （现汇率约合 2.68 万亿元人民币） 。高速互连正成为内存后的下一个决定性突破点。 Marvell 现在",
-     "source": "IT之家",
-     "zh": "Marvell 大胆预测： 2031 财年营收可达 2026 财年 10 倍左右"
-    },
-    {
-     "title": "iQOO Neo12 首发搭载 pTSF 技术的 2K 185Hz 超冠屏，本月见",
-     "link": "https://www.ithome.com/1/011/361.htm",
-     "pubDate": "Sat, 10 Oct 2026 07:03:04 GMT",
-     "summary": "IT之家 10 月 10 日消息，iQOO Neo12 手机今日官宣首发搭载 pTSF 技术的 2K 185Hz 超冠屏，超高清与超高刷并发，通透与省电兼得，本月见。 此外，该机还搭载第五代骁龙 8 至尊版处理器 + 冰穹风冷散热系统，配备自研电竞芯片 Q3，支持光追、超分、超帧、滤镜、游戏相机。新机内置 9000mAh 蓝海大电池 ，采用单电芯设计、第五代硅负极技术，能量密度高达 916Wh/L。 IT之家注意到，博主 @数码闲聊站 此前爆料，iQOO Neo12 的屏幕是行业独占且首发维信诺基于第四代发光技术 pTSF 打造的全新发光材料，满血双芯 + 风扇，整体规格不是简单的性能越级，有",
-     "source": "IT之家",
-     "zh": "iQOO Neo12 首发搭载 pTSF 技术的 2K 185Hz 超冠屏，本月见"
-    },
-    {
-     "title": "外媒调查显示消费者普遍认为苹果 iPhone Duo 偏贵，摄像头表现仍有改进空间",
-     "link": "https://www.ithome.com/1/011/360.htm",
-     "pubDate": "Sat, 10 Oct 2026 07:01:59 GMT",
-     "summary": "IT之家 10 月 10 日消息，外媒 Android Authority 近期就苹果 iPhone Duo 发起一场投票活动，共收集了 1000 多名海外读者的投票结果。约 39% 的受访者表示自己对折叠屏手机不感兴趣；约 16% 的受访者则表示愿意立即从安卓折叠屏手机切换为 iPhone Duo，另有 10% 的人对此颇为心动，但认为苹果仍需改进摄像头表现。 此外，大部分投票者认为 苹果 iPhone Duo 偏贵，该机海外起售价 1999 美元（国行 15999 元起），让不少潜在消费者望而却步。 整体来看，这项调查反映出苹果首款折叠屏手机有望吸引部分安卓用户，但目前的投票结果并不能直接",
-     "source": "IT之家",
-     "zh": "外媒调查显示消费者普遍认为苹果 iPhone Duo 偏贵，摄像头表现仍有改进空间"
-    },
-    {
-     "title": "iQOO Neo12 手机局部外观曝光：方形 Deco，官方称从本代起与数字序列形成双旗舰布局",
-     "link": "https://www.ithome.com/1/011/359.htm",
-     "pubDate": "Sat, 10 Oct 2026 06:59:21 GMT",
-     "summary": "IT 之家 10 月 10 日消息，维沃移动通信有限公司 iQOO Neo 产品经理罗佳慧今日发布预告，继续介绍 iQOO Neo12 手机的新特性。她还宣布， iQOO Neo 系列也将从 Neo12 开始与数字旗舰形成 iQOO 的双旗舰布局 。 据罗佳慧介绍， iQOO Neo12 搭配第五代骁龙 8 至尊版与自研电竞芯片 Q3 ，以及全新一代 Monster 超核引擎，并支持全场景光追、超分超帧并发，游戏滤镜、视效增强、游戏相机等功能。 另外，新机首发配备全新 2K 185Hz 超冠屏， 基于第四代发光技术 pTSF 打造 ，能够实现 2K 分辨率与 185Hz 高刷兼容共存。官方预热",
-     "source": "IT之家",
-     "zh": "iQOO Neo12 手机局部外观曝光：方形 Deco，官方称从本代起与数字序列形成双旗舰布局"
     },
     {
      "title": "AI冒充刘欢妻子带货，AI明星带货的底线到底在哪？",
@@ -1817,28 +1833,12 @@
      "zh": "A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share (Bloomberg)"
     },
     {
-     "title": "具身智能大逃杀：300家抢跑，20张船票",
-     "link": "https://www.huxiu.com/article/4896398.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 14:29:34 +0800",
-     "summary": "本文来自微信公众号： 霞光社 ，作者：唐飞，编辑：李小天 2025年初，一位投资人跟具身智能项目创始人聊完，在备忘录里写下一句话：“这东西五年内不可能赚钱，但你现在不投，五年后一定后悔。” 到2026年9月的不到两年时间里，这句话被反复验证。 尤其是进入2026年后，具身智能赛道经历了一场罕见的资本狂欢与认知撕裂。IT桔子数据显示，具身赛道融资事件从2024年的105起跳升至2025年的333起，金额从95亿膨胀到406亿，分别激增217%和326%。进入2026年上半年，融资事件进一步冲到322起，几乎赶上了2025全年，202个披露金额的项目合计吸金超934亿元，同比增长350%。 热钱涌",
-     "source": "虎嗅",
-     "zh": "具身智能大逃杀：300家抢跑，20张船票"
-    },
-    {
      "title": "Laptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs (TrendForce)",
      "link": "https://www.techmeme.com/261010/p7#a261010p7",
      "pubDate": "Sat, 10 Oct 2026 02:25:02 -0400",
      "summary": "TrendForce : Laptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs &nbsp; &mdash;&nbsp; TrendForce's latest notebook industry research reveals that the primary risk facing the market in 2027 is ",
      "source": "Techmeme",
      "zh": "Laptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs (TrendForce)"
-    },
-    {
-     "title": "鼠疫概念股躁动，多家公司回应",
-     "link": "https://www.huxiu.com/article/4896395.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 14:18:29 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：武超 近期，一场围绕鼠疫的全球性关注正在迅速升温。 10月2日，俄罗斯伊尔库茨克州一名鼠疫研究机构工作人员因重症肺炎死亡。世界卫生组织总干事谭德塞在社交媒体上发文说，俄方报告称，当地近期没有登记鼠疫病例，并对约200名接触者实施隔离。WHO已要求俄方提供进一步信息，以及关于第二名员工患有病因未明肺炎的情况。 目前，事件尚未有鼠疫确诊的结论，但事件仍迅速传导至资本市场。国庆节后的交易日，A股流感及抗疫概念股集体走强，鼠疫概念板块情绪持续发酵。 不过，财联社记者通过投资者热线采访及公开信息查询发现，多家公司回应显示，其鼠疫相关产品在营收中占比普遍较低，部分公司",
-     "source": "虎嗅",
-     "zh": "鼠疫概念股躁动，多家公司回应"
     },
     {
      "title": "Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market (Yifan Yu/Nikkei Asia)",
@@ -1857,12 +1857,36 @@
      "zh": "Sources detail how Firmus&apos; IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue (Bloomberg)"
     },
     {
+     "title": "Cloudflare 收购 Deno，Deno 停止开发",
+     "link": "https://www.solidot.org/story?sid=85570",
+     "pubDate": "Sat, 10 Oct 2026 14:01:12 +0800",
+     "summary": "Cloudflare 收购了开源 JS 运行时项目 Deno，Deno 宣布该项目将停止开发，但会继续维护一年时间，期间会释出 bug 修复和安全更新，但不会有新功能，一年之后终止支持。它欢迎其他人接手该项目。使用 Deno 的一个知名项目是 YouTube 视频下载工具 yt-dlp，它是在 2025 年宣布选择 Deno 作为其 JavaScript 运行时，但随着 Deno 终止支持它可能需要再次选择新的运行时。",
+     "source": "Solidot",
+     "zh": "Cloudflare 收购 Deno，Deno 停止开发"
+    },
+    {
      "title": "Circana: US Xbox unit sales fell 33% YoY to an all-time low in 2026 through August, while PS5 sales fell 25%, as both consoles hit record high average prices (Kaan Serin/Eurogamer.net)",
      "link": "https://www.techmeme.com/261010/p4#a261010p4",
      "pubDate": "Sat, 10 Oct 2026 01:55:01 -0400",
      "summary": "Kaan Serin / Eurogamer.net : Circana: US Xbox unit sales fell 33% YoY to an all-time low in 2026 through August, while PS5 sales fell 25%, as both consoles hit record high average prices &nbsp; &mdash;&nbsp; &ldquo;Price sensitivity is becoming a real problem.&rdquo;&nbsp; &mdash;&nbsp; Follow Grand",
      "source": "Techmeme",
      "zh": "Circana: US Xbox unit sales fell 33% YoY to an all-time low in 2026 through August, while PS5 sales fell 25%, as both consoles hit record high average prices (Kaan Serin/Eurogamer.net)"
+    },
+    {
+     "title": "Computers Cannot Make Decisions",
+     "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+     "pubDate": "Sat, 10 Oct 2026 05:47:46 +0000",
+     "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Computers Cannot Make Decisions"
+    },
+    {
+     "title": "Food processing influences metabolism and brain activity",
+     "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+     "pubDate": "Sat, 10 Oct 2026 05:22:30 +0000",
+     "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Food processing influences metabolism and brain activity"
     },
     {
      "title": "Sources: Anthropic&apos;s AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
@@ -1924,7 +1948,7 @@
      "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
      "link": "https://ilia.page/writing/introducing-nagare",
      "pubDate": "Sat, 10 Oct 2026 04:37:13 +0000",
-     "summary": "Article URL: https://ilia.page/writing/introducing-nagare Comments URL: https://news.ycombinator.com/item?id=50029607 Points: 8 # Comments: 2",
+     "summary": "Article URL: https://ilia.page/writing/introducing-nagare Comments URL: https://news.ycombinator.com/item?id=50029607 Points: 9 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: A simple to-do app for iPhone, Mac, and your agent"
     },
@@ -1943,30 +1967,6 @@
      "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
      "source": "TechCrunch",
      "zh": "Elon Musk intensifies attack on Ambani over Starlink India launch delay"
-    },
-    {
-     "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-     "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-     "pubDate": "Sat, 10 Oct 2026 03:02:47 +0000",
-     "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 76 # Comments: 26",
-     "source": "Hacker News",
-     "zh": "Telegram Desktop vulnerability allowed any user's file to be stolen"
-    },
-    {
-     "title": "Put a price on breakthroughs",
-     "link": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
-     "pubDate": "Sat, 10 Oct 2026 02:37:47 +0000",
-     "summary": "Article URL: https://alexwang.ai/posts/put-a-price-on-breakthroughs/ Comments URL: https://news.ycombinator.com/item?id=50028982 Points: 13 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Put a price on breakthroughs"
-    },
-    {
-     "title": "Next.js 16.4",
-     "link": "https://nextjs.org/blog/next-16-4",
-     "pubDate": "Sat, 10 Oct 2026 02:13:44 +0000",
-     "summary": "Article URL: https://nextjs.org/blog/next-16-4 Comments URL: https://news.ycombinator.com/item?id=50028855 Points: 18 # Comments: 17",
-     "source": "Hacker News",
-     "zh": "Next.js 16.4"
     }
    ]
   },
@@ -2225,6 +2225,86 @@
    "total": 13,
    "items": [
     {
+     "title": "美债收益率难压长期看涨趋势！业内专家：金价一年后突破“5000大关”",
+     "link": "http://stock.eastmoney.com/news/1768,202610103891910876.html",
+     "pubDate": "Sat, 10 Oct 2026 15:16:14 +0800",
+     "summary": "自今年初春以来， 黄金 价格走势艰难。不断攀升的债券收益率和持续高企的通胀，推高了市场对鹰派利率的预期，使得这种 贵金属 难以获得持续上涨动力。 不过，尽管面临挑战，长期市场情绪依然看涨，从未动摇。本周在意大利索伦托举行的伦敦金银市场协会（LBMA）年度全球 贵金属 大会上，这种态度得到了充分体现。与会代表和更广泛的投资界人士都听到了一个明确的信息：不要将短期疲软与长期疲软混为一谈。 与会代表们预计， 一年后的 黄金 价格将突破“5000大关”，平均达到每盎司5013.30美元，相比当前现货金价大约存在20%的上涨空间。 不过，与会代表们认为，投资者不应只关注价格。真正引人注目的是 黄金 和 ",
+     "source": "东方财富股票",
+     "zh": "美债收益率难压长期看涨趋势！业内专家：金价一年后突破“5000大关”"
+    },
+    {
+     "title": "印度对涉华甲苯二异氰酸酯启动第二次反倾销日落复审调查",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891911347.html",
+     "pubDate": "Sat, 10 Oct 2026 15:15:34 +0800",
+     "summary": "据中国贸易救济信息网，9月30日，印度商工部发布公告称，应印度国内企业Gujarat Narmada Valley Fertilizers & Chemicals Limited提交的申请，对原产于或进口自中国、日本和韩国的异构体比例为80:20的甲苯二异氰酸酯启动第二次反倾销日落复审调查。本案涉及印度海关编码29291020项下的产品。本案倾销调查期为2025年4月1日至2026年3月31日，损害调查期为2022年4月1日至2023年3月31日、2023年4月1日至2024年3月31日、2024年4月1日至2025年3月31日以及2025年4月1日至2026年3月31日。 （文章来源：界面新",
+     "source": "东方财富股票",
+     "zh": "印度对涉华甲苯二异氰酸酯启动第二次反倾销日落复审调查"
+    },
+    {
+     "title": "印度对原产于或进口自中国的二环己基碳二亚胺启动第一次反倾销日落复审调查",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891911244.html",
+     "pubDate": "Sat, 10 Oct 2026 15:15:34 +0800",
+     "summary": "据中国贸易救济信息网，9月30日，印度商工部发布公告称，应印度国内企业Clean Science and Technology Limited提交的申请，对原产于或进口自中国的二环己基碳二亚胺启动第一次反倾销日落复审调查。本案主要涉及印度海关编码29251900和29252990项下的产品以及29212990、29241900、29242990、29252910、29333990、29419090项下的部分产品。本案倾销调查期为2025年4月1日至2026年3月31日，损害调查期为2022年至2023年、2023年至2024年、2024年至2025年以及2025年4月1日至2026年3月31日",
+     "source": "东方财富股票",
+     "zh": "印度对原产于或进口自中国的二环己基碳二亚胺启动第一次反倾销日落复审调查"
+    },
+    {
+     "title": "国庆假期深圳新房认购大增 二手房签约上涨",
+     "link": "http://finance.eastmoney.com/news/1359,202610103891911114.html",
+     "pubDate": "Sat, 10 Oct 2026 15:15:21 +0800",
+     "summary": "在刚过去的国庆假期，广东深圳楼市的看房热度持续走高，新房认购、二手房签约量均有所提升。 10月1日至7日，深圳新建商品住宅预售认购套数同比增加78.5%，多个住宅项目选择在国庆假期开盘、加推。位于南山区的某楼盘，在假期推出9折优惠和一口价房源等促销活动，吸引了不少购房者看房、选房。 此外，光明、宝安、龙岗等区域新房项目到访量也明显增加，部分楼盘假期日均到访客户较平日上涨约30%。性价比高、配套完善、品质较好的楼盘受到市场欢迎。同时，深圳还举办了多场好房节活动，通过消费券、佣金下调等服务举措，进一步提升市民旧房置换新房便利度。 新房市场升温的同时，二手房活跃度同步提升。据当地多家中介机构数据显示",
+     "source": "东方财富股票",
+     "zh": "国庆假期深圳新房认购大增 二手房签约上涨"
+    },
+    {
+     "title": "中广核粤汕（陆丰）核电有限公司成立 注册资本1亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891910743.html",
+     "pubDate": "Sat, 10 Oct 2026 15:13:42 +0800",
+     "summary": "天眼查App显示，近日，中广核粤汕（陆丰）核电有限公司成立，法定代表人为李乐晓，注册资本1亿元人民币，经营范围含技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广等。股东信息显示，该公司由 中国广核 电力 股份有限公司持股70%， 中国一重 集团有限公司持股10%，陆丰市投资控股有限公司、 宁德时代 （肇庆） 新能源 科技有限公司、明阳智慧能源集团股份公司分别持股5%，浙江 久立特材 科技股份有限公司、久立集团股份有限公司分别持股2.5%。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "中广核粤汕（陆丰）核电有限公司成立 注册资本1亿元"
+    },
+    {
+     "title": "一体推动川渝地区美丽中国先行区建设 重庆明确这些重点任务",
+     "link": "http://www.eeo.com.cn/2026/1010/1059847.shtml",
+     "pubDate": "Sat, 10 Oct 2026 15:13:12 +0800",
+     "summary": "第1眼TV-华龙网讯（首席记者 陈雨）川渝地区位于长江上游，山岭相连、水脉相通、生态相系，共同承担筑牢长江上游生态屏障的国家使命，对维护国家生态安全至关重要。10月9日，生态环境部在重庆召开《美丽中国建设“十五五”规划》实施推进会暨生态环境综合业务工作会议。会上，重庆市生态环境局党组书记祁美文作交流发言，分享重庆在坚持“九治”牵引，深化川渝联动，奋力打造美丽中国省域先行区方面的探索与实践。 <img src=...",
+     "source": "经济观察网",
+     "zh": "一体推动川渝地区美丽中国先行区建设 重庆明确这些重点任务"
+    },
+    {
+     "title": "CFTC持仓显示市场对欧元、英镑、瑞郎净空头，日元净多头。日元多头与日本央行政策正常化、干预警告背景一致。",
+     "link": "http://www.eeo.com.cn/2026/1010/1059846.shtml",
+     "pubDate": "Sat, 10 Oct 2026 15:13:12 +0800",
+     "summary": "",
+     "source": "经济观察网",
+     "zh": "CFTC持仓显示市场对欧元、英镑、瑞郎净空头，日元净多头。日元多头与日本央行政策正常化、干预警告背景一致。"
+    },
+    {
+     "title": "今年前三季度国内ABS市场发行规模近1.8万亿元",
+     "link": "http://www.eeo.com.cn/2026/1010/1059848.shtml",
+     "pubDate": "Sat, 10 Oct 2026 15:13:11 +0800",
+     "summary": "新华财经上海10月10日电（张天源） 据新华财经ABS数据库统计，今年前三季度，国内资产支持证券（ABS）市场新增发行项目1835只，发行规模达17957亿元，较去年的16319亿元增加约10%。 从类型来看，信贷ABS新增发行181只，发行总额为1946亿元，较去年同期增加4%。从基础资产方面来看，个人汽车贷款发行量最大，发行26只，共计992亿元；不良贷款次之，发行150只，共计676亿元。 企业ABS新增发行1241只，发行总额为11834...",
+     "source": "经济观察网",
+     "zh": "今年前三季度国内ABS市场发行规模近1.8万亿元"
+    },
+    {
+     "title": "多国发表联合声明，反对美国制裁国际刑事法院",
+     "link": "http://global.eastmoney.com/news/1959,202610103891912535.html",
+     "pubDate": "Sat, 10 Oct 2026 15:13:09 +0800",
+     "summary": "据新华社报道，美国国务卿鲁比奥9日发表声明，宣布对国际刑事法院实施制裁。同日，美国财政部将国际刑事法院列入制裁名单。随后，加拿大、丹麦、德国等多国发表联合声明，反对美国的这一决定。近年来，美方以国际刑事法院调查美方人员以及对以色列总理和前防长发出逮捕令为由，多次宣布制裁国际刑事法院法官和检察官。针对美方制裁，国际刑事法院表示，不会屈服于美方压力。 （文章来源：上观新闻）",
+     "source": "东方财富股票",
+     "zh": "多国发表联合声明，反对美国制裁国际刑事法院"
+    },
+    {
+     "title": "阿斯麦韩国市场零件价格上调10%，三星、SK海力士已接受，韩媒称“实属罕见”",
+     "link": "http://www.eeo.com.cn/2026/1010/1059845.shtml",
+     "pubDate": "Sat, 10 Oct 2026 15:13:08 +0800",
+     "summary": "中新经纬10月10日电 据韩媒The Elec消息，半导体设备制造商阿斯麦(ASML)将供应韩国市场的零件价格上调10%。价格上涨将于2027年1月起生效。 报道援引业内人士的话称，阿斯麦总部近日通过其韩国子公司向三星和SK海力士发送了涨价提案。此次涨价是与两家公司协商后确定的。 报道提到，从日常采购的消耗性零件到因故障或性能下降而更换的主要部件，阿斯麦所有产品的价格都在上涨。设备的运行成本也随之增加。 据...",
+     "source": "经济观察网",
+     "zh": "阿斯麦韩国市场零件价格上调10%，三星、SK海力士已接受，韩媒称“实属罕见”"
+    },
+    {
      "title": "靠定增赚了数百亿的人，又把钱拍在了桌面上",
      "link": "https://wallstreetcn.com/articles/3783322",
      "pubDate": "Sat, 10 Oct 2026 15:08:52 +0800",
@@ -2249,44 +2329,12 @@
      "zh": "21评论｜以先进制造为骨干，广东加快制造强省建设"
     },
     {
-     "title": "【图解】未来五年，让非遗更好融入现代生活",
-     "link": "http://www.eeo.com.cn/2026/1010/1059789.shtml",
-     "pubDate": "Sat, 10 Oct 2026 14:39:10 +0800",
-     "summary": "图下文字： 文案/设计：段常颖 策划：刘江 校对：石兰 审核：韩霁 （部分内容由AI辅助生成）",
-     "source": "经济观察网",
-     "zh": "【图解】未来五年，让非遗更好融入现代生活"
-    },
-    {
-     "title": "郑钦文、张帅今日分别冲击中网女子单双打决赛席位",
-     "link": "http://www.eeo.com.cn/2026/1010/1059788.shtml",
-     "pubDate": "Sat, 10 Oct 2026 14:39:09 +0800",
-     "summary": "郑钦文在2026中国网球公开赛比赛中。主办方供图 中国青年报客户端北京10月10日电（中青报·中青网记者 李梓昂）2026中国网球公开赛今天将展开女单、女双半决赛的争夺。郑钦文将在女单半决赛中迎战13号种子、比利时选手梅尔滕斯，向个人第二个WTA1000赛决赛席位发起冲击；张帅则将搭档捷克名将西尼亚科娃出战女双半决赛，力争延续本赛季两人的出色表现。 根据赛程...",
-     "source": "经济观察网",
-     "zh": "郑钦文、张帅今日分别冲击中网女子单双打决赛席位"
-    },
-    {
      "title": "The world of one trade — AI",
      "link": "https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?syn-25a6b1a6=1",
      "pubDate": "Sat, 10 Oct 2026 06:36:04 GMT",
      "summary": "Investor portfolios have become alarmingly reliant on the fortunes of just one bet on the build-out of an uncertain technology",
      "source": "Financial Times",
      "zh": "The world of one trade — AI"
-    },
-    {
-     "title": "人社部：尽可能让灵活就业人员参加职工养老保险",
-     "link": "http://www.eeo.com.cn/2026/1010/1059755.shtml",
-     "pubDate": "Sat, 10 Oct 2026 14:26:11 +0800",
-     "summary": "21世纪经济报道记者王峰 北京报道 国务院新闻办10月10日举行新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情...",
-     "source": "经济观察网",
-     "zh": "人社部：尽可能让灵活就业人员参加职工养老保险"
-    },
-    {
-     "title": "特斯拉欧洲市场放弃“全自动驾驶”，改为“辅助驾驶”",
-     "link": "http://www.eeo.com.cn/2026/1010/1059737.shtml",
-     "pubDate": "Sat, 10 Oct 2026 14:13:11 +0800",
-     "summary": "中新经纬10月10日电 据路透社9日报道，电动汽车制造商特斯拉开始在其欧洲网站上将“Full Self-Driving(简称FSD，全自动驾驶)”更改为“Tesla Assisted Driving(特斯拉辅助驾驶)”，以争取其驾驶辅助系统在欧洲获批。 德国周二表示，特斯拉已提出改用新名称。马斯克描述​自动驾驶技术是公司未来发展的关键。 报道称，特斯拉斯洛伐克的网站现已使用“Tesla Assisted Driving(特斯拉辅助驾驶)”，德国、西班牙和荷兰...",
-     "source": "经济观察网",
-     "zh": "特斯拉欧洲市场放弃“全自动驾驶”，改为“辅助驾驶”"
     },
     {
      "title": "ASML零部件价格全线上调10%，三星SK海力士接受涨价，半导体设备成本压力蔓延",
@@ -2415,54 +2463,6 @@
      "summary": "“Both properties will be solely in his name.”",
      "source": "MarketWatch",
      "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
-    },
-    {
-     "title": "How to provide guaranteed retirement income while paying no commissions",
-     "link": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 22:41:00 GMT",
-     "summary": "Unlike the stock market, whose future returns are anything but assured, a TIPS ladder’s payout is guaranteed.",
-     "source": "MarketWatch",
-     "zh": "How to provide guaranteed retirement income while paying no commissions"
-    },
-    {
-     "title": "Lockheed unveils next-gen Patriot interceptor to defend against hypersonic threats",
-     "link": "https://seekingalpha.com/news/4651898-lockheed-unveils-next-gen-patriot-interceptor-to-defend-against-hypersonic-threats?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 18:17:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lockheed unveils next-gen Patriot interceptor to defend against hypersonic threats"
-    },
-    {
-     "title": "Trump agrees deal with Putin for Russia to release diesel",
-     "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 22:06:22 GMT",
-     "summary": "Pact between Washington and Moscow comes just weeks before critical US midterm elections",
-     "source": "Financial Times",
-     "zh": "Trump agrees deal with Putin for Russia to release diesel"
-    },
-    {
-     "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
-     "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 22:00:00 GMT",
-     "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
-     "source": "MarketWatch",
-     "zh": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist."
-    },
-    {
-     "title": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract",
-     "link": "https://seekingalpha.com/news/4651897-alignment-healthcare-downgraded-bofa-after-cms-star-rating-ma-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 17:59:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract"
-    },
-    {
-     "title": "Gold snaps two-week losing streak; some analysts say may have found bottom",
-     "link": "https://seekingalpha.com/news/4651893-gold-snaps-two-week-losing-streak-some-analysts-say-may-have-found-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 17:50:04 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gold snaps two-week losing streak; some analysts say may have found bottom"
     }
    ]
   },

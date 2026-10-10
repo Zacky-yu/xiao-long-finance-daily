@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 17:35:05",
+ "generated_at": "2026/10/10 17:46:29",
  "recent_days": 7,
  "industries": [
   {
@@ -961,12 +961,12 @@
      "zh": "States Bet on Virtual Power Plants to Cut Grid Costs"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -980,7 +980,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1729,6 +1729,30 @@
    "total": 18,
    "items": [
     {
+     "title": "Ubiquiti 推出工业级交换机和无线接入点，打造高可靠网络产品矩阵",
+     "link": "https://www.ithome.com/1/011/442.htm",
+     "pubDate": "Sat, 10 Oct 2026 09:42:10 GMT",
+     "summary": "IT之家 10 月 10 日消息，Ubiquiti（优倍快）今年早些时候发布了工业级产品线 UniFi Industrial，同期推出了万兆网关产品。而在当地时间本月 8 日，Ubiquiti 宣布 追加推出工业级交换机和无线接入点 ，打造高可靠性网络产品矩阵。 UniFi Industrial 交换机拥有铝挤外壳和压铸金属背板，可在宽温范围内无风扇运行。其拥有 2 条 DC 电源输入路径，配备用于外部监控的报警继电器，三侧支持 DIN 安装导轨，可选 PoE、2.5GbE。 U7 Industrial 无线接入点拥有压铸金属外壳，支持 IP67 防尘防水，配备高增益定向天线，可选外置全向天线",
+     "source": "IT之家",
+     "zh": "Ubiquiti 推出工业级交换机和无线接入点，打造高可靠网络产品矩阵"
+    },
+    {
+     "title": "站在柜台旁边的人",
+     "link": "https://www.huxiu.com/article/4896470.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 17:37:46 +0800",
+     "summary": "本文来自微信公众号： 倒立的Saber ，作者：魏焕春 买家为什么付费？ 在商业世界里，经常会出现这样的场景。 有人告诉企业： “你的订单少，是因为不会获客。” 有人告诉职场人： “你的发展慢，是因为缺少个人品牌。” 有人告诉消费者： “你的状态不好，是因为缺少某种产品。” 不同领域，不同产品，不同话术。 但背后似乎有一个共同的规律： 人们购买的，往往不只是解决方案，而是一套关于问题的解释。 谁把问题解释得越清楚，谁就越容易把答案卖出去。 那么，解释是如何变成一门生意的？ 一、为什么简单答案更容易卖出去？ 假设一家公司的订单正在减少。 真实的原因可能是什么？ 可能是行业需求下降，可能是产品同质",
+     "source": "虎嗅",
+     "zh": "站在柜台旁边的人"
+    },
+    {
+     "title": "顶级AI芯片的流向，到底怎么追踪？",
+     "link": "https://www.huxiu.com/article/4896469.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 17:32:23 +0800",
+     "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 美国乔治敦大学安全与新兴技术中心（CSET）近期发布报告，聚焦美国如何通过技术手段追踪AI芯片的实际位置，以加强出口管制、发现芯片走私。研究比较了实地检查、视频检查、地理定位等多种方案，认为基于网络信号验证位置（PLV）并辅以少量实地检查较为可行。但这类系统只能在芯片转移后发现异常，无法完全防止走私，也可能受断网、位置伪造等因素干扰。报告把成本纳入考虑，指出实地检查执行次数越多，成本越高；而PLV模式则是先铺一张网，随后规模越大，成本摊得越薄。文章强调，技术监测须与监管部门的调查能力和执法资源相配套。 原文标题：Track",
+     "source": "虎嗅",
+     "zh": "顶级AI芯片的流向，到底怎么追踪？"
+    },
+    {
      "title": "多家数据中心选择落地芬兰：资源禀赋优秀，已吸引超 670 亿欧元投资",
      "link": "https://www.ithome.com/1/011/441.htm",
      "pubDate": "Sat, 10 Oct 2026 09:31:54 GMT",
@@ -1785,6 +1809,14 @@
      "zh": "我国广告业反垄断第一案落槌，电梯广告巨头分众传媒收购新潮传媒获附条件批准"
     },
     {
+     "title": "21亿人次，平台接管人们的国庆假期",
+     "link": "https://www.tmtpost.com/8163700.html",
+     "pubDate": "Sat, 10 Oct 2026 17:24:23 +0800",
+     "summary": "平台重塑国人的假期",
+     "source": "钛媒体",
+     "zh": "21亿人次，平台接管人们的国庆假期"
+    },
+    {
      "title": "一边造AI，一边挖地堡，硅谷精英们在怕什么",
      "link": "https://www.tmtpost.com/8163367.html",
      "pubDate": "Sat, 10 Oct 2026 17:18:30 +0800",
@@ -1817,28 +1849,12 @@
      "zh": "工伤认定，不能惩罚家属的不离不弃"
     },
     {
-     "title": "问界“分手”、尊界踏板支架断裂，鸿蒙智行怎么了？",
-     "link": "https://www.huxiu.com/article/4896459.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 17:11:01 +0800",
-     "summary": "本文来自微信公众号： 豹变 ，作者：陈法善，编辑：刘杨，原文标题：《问界「分手」、尊界踏板支架断裂，鸿蒙智行怎么了？》 打铁还需自身硬。 先是跟“旧爱”分手后火速“复合”，又是“新欢”爆出“刹车门”，这个秋天，鸿蒙智行正承受销量与品控的双重压力。 10月8日，“尊界V800刹车踏板支架断裂”冲上热搜。在懂车帝实测节目中，三辆V800在时速百公里紧急制动时，出现刹车踏板支架断裂，安全争议瞬间引爆舆论。 尊界是江淮汽车与华为联合打造的“百万元级”超豪华品牌，为何会在刹车踏板支架这样的基础安全件上出问题？舆论发酵后，网友既关注懂车帝“暴力测试”，也普遍担忧“速成车”的质量和减配问题。 相比之下，问界",
-     "source": "虎嗅",
-     "zh": "问界“分手”、尊界踏板支架断裂，鸿蒙智行怎么了？"
-    },
-    {
-     "title": "罗技进军专业视听市场，发布 Rally Speakers 2 Pro / Max 矩阵式音频系统",
-     "link": "https://www.ithome.com/1/011/434.htm",
-     "pubDate": "Sat, 10 Oct 2026 09:10:08 GMT",
-     "summary": "IT之家 10 月 10 日消息，Logitech（罗技）当地时间本月 8 日宣布以 Rally Speakers 2 Pro / Max 这两套矩阵式音频系统进军专业视听市场。 Rally Speakers 2 Pro / Max 安装在房间前部， 分别由 32 个和 64 个微型驱动单元组成 。其可精准投射声波，利用声学原理让声波在所需位置相长、在无需位置相消，在 12m 的距离上仅有呼吸级别的音量衰减。 罗技同期还发布了多款其它企业级解决方案，包括 Rally Bar 2 全功能视频会议系统、Rally System 2 Pro 模块化视频会议系统、Tap IP 2 会议室触摸控制器、T",
-     "source": "IT之家",
-     "zh": "罗技进军专业视听市场，发布 Rally Speakers 2 Pro / Max 矩阵式音频系统"
-    },
-    {
-     "title": "“扫地机雷达一哥”欢创科技上市：一半的市场份额，0.4%的净利率",
-     "link": "https://www.huxiu.com/article/4896455.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 17:09:13 +0800",
-     "summary": "本文来自微信公众号： 科技C位 ，作者：东木褚 9月30日，欢创科技在港交所挂牌，发行价58.85港元。 开盘后股价一路冲高，首日大涨265.7%，市值一度摸到208亿港元。第二天，股价掉头向下，单日跌去47.5%。到10月8日收盘，市值回落到107亿港元。 这家公司的生意一句话就能说清：给扫地机器人造激光雷达。 机器人要在客厅里自己认路、避开拖鞋桌椅，得先靠它建图定位。 按出货量计，欢创占全球市场约一半的份额；按2025年收入计，它是全球最大的扫地机器人空间感知产品供应商。 份额是全球第一，利润表却是另一副模样。2025年，欢创营收6.14亿元，净利润220万元，净利率0.4%。 这组反差，",
-     "source": "虎嗅",
-     "zh": "“扫地机雷达一哥”欢创科技上市：一半的市场份额，0.4%的净利率"
+     "title": "DDR4 内存条再次回归",
+     "link": "https://www.solidot.org/story?sid=85574",
+     "pubDate": "Sat, 10 Oct 2026 17:05:17 +0800",
+     "summary": "由于 DDR5 内存条过于昂贵，上一代的 DDR4 内存条再次回归。技嘉宣布将于 2027 年初上市支持 DDR4 内存的新的 Intel LGA 1700 主板，而今年八月技嘉宣布推出了支持 DDR4 内存的新 AMD AM4 主板。DDR4 内存于 2014 年上市，很快被新一代的 DDR5 内存取代。由于 AI 热耗尽了主要内存厂商的内存产能，DDR5 内存的价格在一年内飙升了可能高达 10 倍。今天一套 32GB 的 Corsair 品牌 Vengeance DDR5 内存售价为 620 美元，而同规格的 DDR4 内存只需要 260 美元。DDR5 内存价格两倍多于 DDR4 内存。",
+     "source": "Solidot",
+     "zh": "DDR4 内存条再次回归"
     },
     {
      "title": "How This Tiny Startup Built the World’s Safest Bike Helmet",
@@ -1847,6 +1863,14 @@
      "summary": "Inspired by head-banging woodpeckers, Vancouver-based Pikio Labs has discovered a new approach to skull protection.",
      "source": "WIRED",
      "zh": "How This Tiny Startup Built the World’s Safest Bike Helmet"
+    },
+    {
+     "title": "特斯拉在欧洲将 Full Self-Driving 改名为 Tesla Assisted Driving",
+     "link": "https://www.solidot.org/story?sid=85573",
+     "pubDate": "Sat, 10 Oct 2026 16:52:27 +0800",
+     "summary": "特斯拉在欧洲将其辅助驾驶系统从 Full Self-Driving 改名为 Tesla Assisted Driving。德国交通部长 Steffen Bilger 本月早些时候指出，将辅助驾驶系统命名为 Full Self-Driving 具有误导性，因为它并不能真正完全自动驾驶。Bilger 与特斯拉公司进行了沟通，该公司因此提出了改名建议。Bilger 表示将会推动 Tesla Assisted Driving 在整个欧洲获得批准。",
+     "source": "Solidot",
+     "zh": "特斯拉在欧洲将 Full Self-Driving 改名为 Tesla Assisted Driving"
     },
     {
      "title": "Current and former employees say TikTok US still coordinates closely with the global TikTok org, and US staff continue to use ByteDance&apos;s internal chat app Lark (Sylvia Varnham O&apos;Regan/Politico)",
@@ -1940,33 +1964,9 @@
      "title": "Computers Cannot Make Decisions",
      "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
      "pubDate": "Sat, 10 Oct 2026 05:47:46 +0000",
-     "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 62 # Comments: 42",
+     "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 71 # Comments: 54",
      "source": "Hacker News",
      "zh": "Computers Cannot Make Decisions"
-    },
-    {
-     "title": "Food processing influences metabolism and brain activity",
-     "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-     "pubDate": "Sat, 10 Oct 2026 05:22:30 +0000",
-     "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 25 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "Food processing influences metabolism and brain activity"
-    },
-    {
-     "title": "LG Promo Codes and Coupons for October 2026",
-     "link": "https://www.wired.com/story/lg-promo-code/",
-     "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000",
-     "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-     "source": "WIRED",
-     "zh": "LG Promo Codes and Coupons for October 2026"
-    },
-    {
-     "title": "30% Off Canon Promo Codes | October 2026",
-     "link": "https://www.wired.com/story/canon-promo-code/",
-     "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000",
-     "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
-     "source": "WIRED",
-     "zh": "30% Off Canon Promo Codes | October 2026"
     }
    ]
   },
@@ -2241,84 +2241,12 @@
      "zh": "电波并非“无拘无束” 重庆把无线电普法课堂搬到群众“家门口”"
     },
     {
-     "title": "乘联分会：9月1-30日全国乘用车新能源市场零售114.1万辆 同比去年9月同期下降12%",
-     "link": "http://finance.eastmoney.com/news/1358,202610103891936457.html",
-     "pubDate": "Sat, 10 Oct 2026 17:21:15 +0800",
-     "summary": "乘联分会发布数据，9月1-30日，全国 乘用车 市场市场零售170.2万辆，同比去年9月同期下降24%，较上月同期增长10%，今年以来 乘用车 累计零售1,341.8万辆，同比下降21%；9月1-30日，全国 乘用车 新能源 市场零售114.1万辆，同比去年9月同期下降12%，较上月同期增长14%，今年以来累计零售781.6万辆，同比下降12%；9月1-30日，全国乘用车 新能源 市场零售渗透率67.1%；9月1-30日，全国乘用车 新能源 厂商批发渗透率66.1%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "乘联分会：9月1-30日全国乘用车新能源市场零售114.1万辆 同比去年9月同期下降12%"
-    },
-    {
-     "title": "多部门：汽车生产企业不得作虚假、夸大或引人误解的宣传 不得诱导驾驶人忽视安全驾驶责任",
-     "link": "http://finance.eastmoney.com/news/1345,202610103891936120.html",
-     "pubDate": "Sat, 10 Oct 2026 17:20:22 +0800",
-     "summary": "工业和信息化部等四部门联合发布了关于进一步加强 汽车 产品创新设计和研发测试验证有关管理工作的通知（征求意见稿），拟规范营销宣传活动。 汽车 生产企业应当真实客观开展营销宣传活动，如实宣传产品创新设计的使用边界、限制条件和研发测试验证等情况，不得作虚假、夸大或引人误解的宣传，不得使用违反道路交通法规的场景来宣传产品功能，不得诱导驾驶人忽视安全驾驶责任，确保消费者正确理解和使用 汽车 产品创新设计相关功能。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "多部门：汽车生产企业不得作虚假、夸大或引人误解的宣传 不得诱导驾驶人忽视安全驾驶责任"
-    },
-    {
      "title": "Police arrest leader of India’s ‘Cockroach’ movement before mass protest",
      "link": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1",
      "pubDate": "Sat, 10 Oct 2026 09:19:07 GMT",
      "summary": "Abhijeet Dipke was escorted off a flight as authorities crack down on demonstrations in New Delhi",
      "source": "Financial Times",
      "zh": "Police arrest leader of India’s ‘Cockroach’ movement before mass protest"
-    },
-    {
-     "title": "10月需防范这几类传染病 中疾控发布健康提示",
-     "link": "http://finance.eastmoney.com/news/1350,202610103891935964.html",
-     "pubDate": "Sat, 10 Oct 2026 17:17:11 +0800",
-     "summary": "中国疾控中心提示，本月需重点关注新冠、 流感 等呼吸道传染病，登革热、基孔肯雅热、寨卡病毒病等蚊媒传染病，埃博拉病毒病，发热伴血小板减少 综合 征，猴痘；学校和托幼机构需要注意预防手足口病、水痘、诺如病毒胃肠炎、 流感 、新冠病毒感染等常见传染病。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "10月需防范这几类传染病 中疾控发布健康提示"
-    },
-    {
-     "title": "九连板牛股，“自然人”登上龙虎榜！",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891936364.html",
-     "pubDate": "Sat, 10 Oct 2026 17:15:33 +0800",
-     "summary": "10月9日， 新华传媒 “一字”涨停，走出9连板，当日收于12.53元/股，滚动市盈率（PE TTM）来到307倍。Choice数据显示，9月21日—10月9日， 新华传媒 累计涨幅达135.97%。 股价9天翻倍背后，是谁在买入 新华传媒 ？龙虎榜显示，9月22日至10月9日区间内，自然人买入额登顶，买入占比达84.89%。自然人群体中，代表大资金散户的“其他自然人”买入占比达68.35%，成为最大买家。相比之下，其他资金偏好分化，机构资金小幅净流入，中小投资者则大举兑现离场。 自然人登顶龙虎榜大资金散户大举买入 10月9日，新华 传媒 因“连续10个交易日内4次出现同正向异常波动”登上龙虎",
-     "source": "东方财富股票",
-     "zh": "九连板牛股，“自然人”登上龙虎榜！"
-    },
-    {
-     "title": "职业伤害保障试点累计参保3727万人",
-     "link": "http://finance.eastmoney.com/news/1350,202610103891935695.html",
-     "pubDate": "Sat, 10 Oct 2026 17:15:20 +0800",
-     "summary": "新华财经北京10月10日电（记者张晓洁、王聿昊）记者从国新办10月10日举行的“开局起步‘十五五’”系列主题新闻发布会上获悉，新就业形态人员职业伤害保障试点开展以来，制度运行总体平稳，试点范围不断扩大，参保人数不断增多。截至9月底，职业伤害保障试点累计参保3727万人。截至目前，参保单数达1087亿单。 人力资源社会保障部新闻发言人、副部长李忠介绍，截至9月底，全国基本养老保险、失业保险、工伤保险参保人数分别达到10.79亿人、2.51亿人、3.27亿人，三项社会保险基金累计结余11.2万亿元。 “下一步，我们将统筹推进参保扩面、深化改革、优化服务等，不断把社会保障网织得更密、扎得更牢。重点是",
-     "source": "东方财富股票",
-     "zh": "职业伤害保障试点累计参保3727万人"
-    },
-    {
-     "title": "克里姆林宫：在与伊朗协调下，俄罗斯总统普京向美国总统特朗普传达了伊朗对可能解决冲突的看法",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891935429.html",
-     "pubDate": "Sat, 10 Oct 2026 17:14:16 +0800",
-     "summary": "克里姆林宫：在与伊朗协调下，俄罗斯总统普京向美国总统特朗普传达了伊朗对可能解决冲突的看法。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "克里姆林宫：在与伊朗协调下，俄罗斯总统普京向美国总统特朗普传达了伊朗对可能解决冲突的看法"
-    },
-    {
-     "title": "主线高架桥通车！江南隧道及茶黄路项目全面完工投用",
-     "link": "http://www.eeo.com.cn/2026/1010/1060011.shtml",
-     "pubDate": "Sat, 10 Oct 2026 16:52:11 +0800",
-     "summary": "第1眼TV-华龙网讯（首席记者 曹妤）10月10日，记者从中建五局获悉，江南隧道主线高架桥今日开放通车，标志着江南隧道及茶黄路项目全面完工投用。该高架桥起点接辅仁路，终点接入江南隧道，全长518米，城市主干道，双向4车道，是江南隧道三级分流交通疏导功能体系的最后一级分流通道。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/324CBFDA703D822D1B1F0BF1481F9CCE.jpg\" alt=\"江南隧道主...",
-     "source": "经济观察网",
-     "zh": "主线高架桥通车！江南隧道及茶黄路项目全面完工投用"
-    },
-    {
-     "title": "食用银鳕鱼致汞中毒，医院迎就诊高峰！医生：慎食高汞鱼",
-     "link": "http://www.eeo.com.cn/2026/1010/1060010.shtml",
-     "pubDate": "Sat, 10 Oct 2026 16:52:09 +0800",
-     "summary": "21世纪经济报道记者 韩利明 近期曝光的一则个案显示，一名2岁幼儿长期食用“南极银鳕鱼儿童装”产品后确诊汞中毒，血汞检测值达27.87μg/L，远超安全参考范围。据家长陈述，孩子连续8个月食用该款产品，每周2至3次，平均每周食用量约110克。 涉事产品供应商回应称，标注“儿童装”仅代表去皮、去刺的物理切割形态，并非宣称该产品为婴幼儿专用食品。 该案例迅速引爆舆论。据澎湃新闻报道，国庆假期前后，上海...",
-     "source": "经济观察网",
-     "zh": "食用银鳕鱼致汞中毒，医院迎就诊高峰！医生：慎食高汞鱼"
-    },
-    {
-     "title": "如皋市仁武玻纤织造厂召回部分泓安HONGAN牌灭火毯产品",
-     "link": "http://www.eeo.com.cn/2026/1010/1059990.shtml",
-     "pubDate": "Sat, 10 Oct 2026 16:39:13 +0800",
-     "summary": "中国质量新闻网讯 据江苏省南通市市场监督管理局网站消息，日前，如皋市仁武玻纤织造厂按照《消费品召回管理暂行规定》《江苏省缺陷消费品召回管理办法》的要求，主动向南通市市场监督管理局报告了召回计划，将自2026年10月10日起，召回2025年8月18日至2025年8月24日期间制造的生...",
-     "source": "经济观察网",
-     "zh": "如皋市仁武玻纤织造厂召回部分泓安HONGAN牌灭火毯产品"
     },
     {
      "title": "“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代",
@@ -2343,14 +2271,6 @@
      "summary": "特斯拉坚守了十年的“FSD”，在欧洲还是更名了。 当地时间10月9日，特斯拉德国、比利时和丹麦官网已将原称“完全自动驾驶（监督版）”的功能改称“Tesla Assisted Driving”（TAD，特斯拉辅助驾驶）。 名称换了，车辆并未因此获得在欧盟全境使用该功能的许可。特斯拉官网仍注明，功能只能在取得监管批准的市场启用。 这次更名有明确的监管背景。德国联邦交通部10月6日发表声明称，交通部长比尔格9月曾与特斯拉会谈，特斯拉已提出将系统改名。 声明同时指出，“Full Self-Driving”容易使人误以为系统能够承担全部驾驶任务；实际上，系统可以辅助加速、制动和转向，驾驶员仍须始终保持注",
      "source": "华尔街见闻",
      "zh": "特斯拉欧洲改称“TAD”，辅助驾驶的边界仍待审批厘清"
-    },
-    {
-     "title": "激战228轮，杭州西湖边一独栋别墅2.88亿成交，溢价率71.43%",
-     "link": "http://www.eeo.com.cn/2026/1010/1059952.shtml",
-     "pubDate": "Sat, 10 Oct 2026 16:13:17 +0800",
-     "summary": "本文来源：时代财经 10月10日，有“亚洲十大豪宅之一”之称的杭州九溪玫瑰园东区天怡苑23号别墅在阿里拍卖平台公开拍卖，起拍价1.68亿元，一共吸引5名买家参与竞拍，超5.5万次围观。 4名竞买人激战228轮，最终竞买号为F2022的买家胜出，以2.88亿元竞得天怡苑23号别墅，溢价率71.43%。 <p class=\"imgswarp nw_editor nw_img time-article-imgText-box nw_editor nw_img\" contenteditable=\"true\" id=\"imgTextBox_...",
-     "source": "经济观察网",
-     "zh": "激战228轮，杭州西湖边一独栋别墅2.88亿成交，溢价率71.43%"
     },
     {
      "title": "花旗：法国财政风险或令欧央行12月后暂停加息，欧元料跌破1.10",
@@ -2463,6 +2383,86 @@
      "summary": "“Both properties will be solely in his name.”",
      "source": "MarketWatch",
      "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
+    },
+    {
+     "title": "How to provide guaranteed retirement income while paying no commissions",
+     "link": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 22:41:00 GMT",
+     "summary": "Unlike the stock market, whose future returns are anything but assured, a TIPS ladder’s payout is guaranteed.",
+     "source": "MarketWatch",
+     "zh": "How to provide guaranteed retirement income while paying no commissions"
+    },
+    {
+     "title": "Lockheed unveils next-gen Patriot interceptor to defend against hypersonic threats",
+     "link": "https://seekingalpha.com/news/4651898-lockheed-unveils-next-gen-patriot-interceptor-to-defend-against-hypersonic-threats?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 18:17:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lockheed unveils next-gen Patriot interceptor to defend against hypersonic threats"
+    },
+    {
+     "title": "Trump agrees deal with Putin for Russia to release diesel",
+     "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 22:06:22 GMT",
+     "summary": "Pact between Washington and Moscow comes just weeks before critical US midterm elections",
+     "source": "Financial Times",
+     "zh": "Trump agrees deal with Putin for Russia to release diesel"
+    },
+    {
+     "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
+     "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 22:00:00 GMT",
+     "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
+     "source": "MarketWatch",
+     "zh": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist."
+    },
+    {
+     "title": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract",
+     "link": "https://seekingalpha.com/news/4651897-alignment-healthcare-downgraded-bofa-after-cms-star-rating-ma-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:59:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract"
+    },
+    {
+     "title": "Gold snaps two-week losing streak; some analysts say may have found bottom",
+     "link": "https://seekingalpha.com/news/4651893-gold-snaps-two-week-losing-streak-some-analysts-say-may-have-found-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:50:04 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gold snaps two-week losing streak; some analysts say may have found bottom"
+    },
+    {
+     "title": "Integra LifeSciences prices $450M in 9.5% secured notes",
+     "link": "https://seekingalpha.com/news/4651896-integra-lifesciences-prices-450m-in-9_5-percent-secured-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:38:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Integra LifeSciences prices $450M in 9.5% secured notes"
+    },
+    {
+     "title": "Gran Tierra Energy expects $315M cash from $1.33B business sale",
+     "link": "https://seekingalpha.com/news/4651894-gran-tierra-energy-expects-315m-cash-from-133b-business-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:35:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gran Tierra Energy expects $315M cash from $1.33B business sale"
+    },
+    {
+     "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+     "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 21:30:00 GMT",
+     "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
+     "source": "MarketWatch",
+     "zh": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders."
+    },
+    {
+     "title": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%",
+     "link": "http://stock.eastmoney.com/news/11784,202610103891632088.html",
+     "pubDate": "Sat, 10 Oct 2026 05:15:33 +0800",
+     "summary": "美股市场： 美股三大指数10月09日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨423.31点，收于51654.95点，涨幅为0.83%，本周累涨0.93%； 标准普尔 500种股票指数上涨46.18点，收于7811.54点，涨幅为0.59% ，本周累涨1.15% ； 纳斯达克 综合 指数上涨172.83点，收于27366.17点，涨幅为0.64% ，本周累涨0.64 % 。 热门科技股多数上涨， 亚马逊 涨超3%， 微软 、 特斯拉 涨超2%； 苹果 跌超1%，AMD、 英特尔 跌超2%。 有色金属 、加密货币概念股涨幅居前， 南方铜业 涨超5%，Coinbase涨超4%， 必",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%"
     }
    ]
   },
@@ -2505,20 +2505,20 @@
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
-     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
-     "source": "Live Science",
-     "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
-    },
-    {
      "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
      "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
      "source": "Live Science",
      "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
+    },
+    {
+     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
+     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
+     "source": "Live Science",
+     "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

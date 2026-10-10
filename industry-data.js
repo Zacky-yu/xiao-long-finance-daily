@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 12:12:00",
+ "generated_at": "2026/10/10 12:32:01",
  "recent_days": 7,
  "industries": [
   {
@@ -930,12 +930,12 @@ window.INDUSTRY_DATA = {
      "zh": "Poly pricing and potential expansion"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
+     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -949,7 +949,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1730,12 +1730,68 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "坑爹的银行AI客服，目的就是阻止你转人工",
+     "link": "https://www.huxiu.com/article/4896379.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 12:28:32 +0800",
+     "summary": "本文来自微信公众号： 冰川思享号 ，作者：老凤1974 社会不会往回走，AI客服也退不回去。一个能24小时连轴转、成本只有真人零头都不到的好东西，没有哪家公司会放弃。 上海证券报的记者前几天做了个实测，挑了6家国有大行、4家股份制银行、4家城商行、2家农商行，一共16家，在工作日下午和双休日上午两个时段分别拨客服电话，问的是大额存单的额度门槛和期限、借记卡境外取现手续费这类常规业务，就想看看找个真人到底有多难。 图/网络 结果16家只有4家给人工留了直达入口，其余12家都得先跟智能语音兜好多圈子。 智能客服省钱是真省钱，随便一家省级分行都能至少省一整层楼的人力，指望任何人退回去都不现实，趋势没",
+     "source": "虎嗅",
+     "zh": "坑爹的银行AI客服，目的就是阻止你转人工"
+    },
+    {
+     "title": "银行密集赎回优先股，算的是什么账",
+     "link": "https://www.huxiu.com/article/4896378.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 12:23:54 +0800",
+     "summary": "本文来自微信公众号： 经观传媒 ，作者：刘轩宇 银行优先股曾是银行补充其他一级资本的重要工具，自2014年试点以来累计发行35只、总规模8391.50亿元；近两年，优先股赎回潮持续扩大，2026年已公告拟赎回规模达1355亿元。 银行优先股涌现“赎回潮”。 从2025年兴业银行（601166.SH）单笔赎回560亿元，到同年12月5家银行单月合计赎回458亿元，再到2026年6家银行陆续发布公告拟赎回1355亿元，赎回优先股正从个别现象演变为行业趋势。 曾经作为银行补充其他一级资本“标配”的优先股，为何近两年被集中赎回？ “赎回潮”规模持续扩大 银行优先股属于一级资本工具，兼具股票和债券的双重",
+     "source": "虎嗅",
+     "zh": "银行密集赎回优先股，算的是什么账"
+    },
+    {
+     "title": "CMF by Nothing Speaker S/M 蓝牙音箱曝光：牛奶盒造型",
+     "link": "https://www.ithome.com/1/011/319.htm",
+     "pubDate": "Sat, 10 Oct 2026 04:23:39 GMT",
+     "summary": "IT之家 10 月 10 日消息，据 droid life 报道，Nothing 旗下子品牌 CMF（CMF by Nothing）即将推出两款全新蓝牙音箱，分别命名为“Speaker S”与“Speaker M”。 Nothing 已向美国 FCC 提交了两款新设备的认证申请，设备型号分别为 E494 和 E495。第三方电商页面则直接泄露了这两款蓝牙音箱的外观。 根据电商平台页面公布的部分参数，尺寸更大的 Speaker M 额定输出功率为 12W，采用了酷似“ 牛奶盒 ”的外观设计；拥有 18 小时续航，支持蓝牙 5.4 与 IP54 级防泼溅，并配有便携手提把手。 IT之家注意到，小号",
+     "source": "IT之家",
+     "zh": "CMF by Nothing Speaker S/M 蓝牙音箱曝光：牛奶盒造型"
+    },
+    {
+     "title": "山姆更改亲友卡规则，咋想的？",
+     "link": "https://www.huxiu.com/article/4896376.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 12:21:00 +0800",
+     "summary": "本文来自微信公众号： 半佛仙人 ，作者：半佛仙人 1 昨晚刷到一个新闻，给我看笑了。 向下滑动查看所有内容 （新闻来自每日经济新闻） 说白了就是山姆通过追加换绑亲友卡的限制，堵住倒卖亲友卡身份的漏洞。 说白了就是，堵住很多非会员利用亲友卡换绑机制低成本去山姆。 手段非常果断且直接，但策略是对的。 可以说山姆终于开始明明白白地意识到自己到底是什么，赚谁的钱了。 2 山姆本质是一个中产消费俱乐部，是会员制的，且这个会员是收费的。 收费的情况下，会员制最重要的是让会员满意。 山姆存在的意义，是服务那些愿意为自己付费的会员，其他的，都是杂音，是在干扰会员的体验。 所谓让更多人先感受一下再决定买不买，是",
+     "source": "虎嗅",
+     "zh": "山姆更改亲友卡规则，咋想的？"
+    },
+    {
+     "title": "大众在德因金融信息披露违规被罚款 120 万欧元",
+     "link": "https://www.ithome.com/1/011/318.htm",
+     "pubDate": "Sat, 10 Oct 2026 04:11:34 GMT",
+     "summary": "IT之家 10 月 10 日消息，德国联邦金融监管局 (BaFin) 当地时间 9 日宣布，该机构在本月 1 日对大众汽车处以 120 万欧元 （IT之家注：现汇率约合 901.2 万元人民币） 的罚款。 BaFin 指出，大众汽车早前发布的 2023 财年业绩预测远高于市场预期。 这一业绩预期本应通过特别公告立即披露 ， 但该公司却仅通过新闻稿发布了这一内幕信息 。 大众汽车的这一行为违反了德国《市场滥用条例》，尤其是其中的第 17 条第 1 款第 1 项。BaFin 可对此处以罚款，最高罚款额为 250 万欧元或公司总收入的 2%。",
+     "source": "IT之家",
+     "zh": "大众在德因金融信息披露违规被罚款 120 万欧元"
+    },
+    {
+     "title": "iPhone Duo 上手前你可能需要知道的事",
+     "link": "https://www.huxiu.com/article/4896375.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 12:10:43 +0800",
+     "summary": "本文来自微信公众号： 少数派 ，作者：lavande 苹果一直有一项很厉害的能力，就是把一个行业已经做了多年的东西，按照自己的理解重做一遍，然后教育整个行业——产品可以这样设计。像iPod、iPhone、AirPods等，都是如此。 因此在iPhone Duo发布前，作为折叠屏+iPhone双持用户兼设计师，我特别期待苹果能在9.10教师节当天，给行业开课讲讲该怎么重新设计折叠屏的体验。但真的等到这天发布完，看完媒体上手。我又开始觉得：iPhone Duo，好像并没有预想中精彩。 因此不吐不快，也想把这些天积攒下来的不解，在正式开售之前跟大家一一交流下。 ▍首先是全新的应用布局方式 相比普通i",
+     "source": "虎嗅",
+     "zh": "iPhone Duo 上手前你可能需要知道的事"
+    },
+    {
      "title": "Circana 分析师：美国游戏主机市场或陷入 80 年代初至今最严重危机",
      "link": "https://www.ithome.com/1/011/317.htm",
      "pubDate": "Sat, 10 Oct 2026 04:07:26 GMT",
      "summary": "IT之家 10 月 10 日消息，据外媒 Eurogamer 今天（10 日）报道，AI 数据中心对内存芯片的需求激增，推动 PS5 和 XBOX Series X/S 在全球大多数市场涨至历史最高价。 市场研究机构 Circana 分析师马特 · 皮斯卡特拉担心，美国游戏主机市场可能正陷入 20 世纪 80 年代初以来最严重的危机 。彼时，游戏行业曾经历一场全面崩盘。 皮斯卡特拉公布的数据显示，随着 XBOX 和 PS5 不断涨价，美国游戏主机销量明显下滑。今年前 8 个月，XBOX 主机销量同比下降 33%，创下同期历史最低纪录；PlayStation 主机销量也下滑 25%，跌至 201",
      "source": "IT之家",
      "zh": "Circana 分析师：美国游戏主机市场或陷入 80 年代初至今最严重危机"
+    },
+    {
+     "title": "天津，一座被低估的AI基建重镇",
+     "link": "https://www.tmtpost.com/8163595.html",
+     "pubDate": "Sat, 10 Oct 2026 12:06:59 +0800",
+     "summary": "低调的天津从来不只是“注册地”，更是科技产业链上的共建者和押注者",
+     "source": "钛媒体",
+     "zh": "天津，一座被低估的AI基建重镇"
     },
     {
      "title": "Python 3.15 稳定版发布，默认采用 UTF-8 编码",
@@ -1770,22 +1826,6 @@ window.INDUSTRY_DATA = {
      "zh": "雷蛇猎魂光蛛 V3 专业迷你版 8KHZ 光轴键盘上市，1499 元"
     },
     {
-     "title": "曝 ASML 光刻机配件韩国市场将统一涨价 10%，三星、SK 海力士已接受",
-     "link": "https://www.ithome.com/1/011/312.htm",
-     "pubDate": "Sat, 10 Oct 2026 03:50:39 GMT",
-     "summary": "IT之家 10 月 10 日消息，据韩媒 The Elec 报道，全球最大半导体设备制造商 ASML（阿斯麦）决定，将供应韩国市场的光刻机替换设备部件价格统一提高 10%。 此次涨价涉及极紫外光刻机和深紫外光刻机的全部备件，从 2027 年 1 月供货的产品开始执行新价格。 业内人士消息称，ASML 总部 9 月初就已通过韩国分公司向三星电子和 SK 海力士提出涨价方案，经过与两家公司采购部门协商， 最终敲定涨价事宜 。 涨价不仅涉及 定期采购的耗材 ，还包括因故障或性能下降而 需要更换的重要部件 。光刻机内部装有大量精密零部件，包括负责光线传输的透镜、反射镜等光学部件，以及光源、精密驱动装置",
-     "source": "IT之家",
-     "zh": "曝 ASML 光刻机配件韩国市场将统一涨价 10%，三星、SK 海力士已接受"
-    },
-    {
-     "title": "威刚 XPG 龙耀 D600G 内存模组上市：无限镜光效，16GB×2 套条 5499 元",
-     "link": "https://www.ithome.com/1/011/311.htm",
-     "pubDate": "Sat, 10 Oct 2026 03:44:54 GMT",
-     "summary": "IT之家 10 月 10 日消息，威刚 (ADATA) 现已在中国大陆市场销售旗下电竞品牌 XPG 的龙耀 D600G 内存模组。这一产品在全球市场的称呼是 NOVAKEY RGB DDR5 ，拥有独特的无限镜面光学效果。 龙耀 D600G 当前市售型号为采用 SK 海力士 \"A Die\" DRAM 的 32GB (16GB×2) 套条 ， 传输速率 6000MT/s ， 时序 CL26 ，价格方面则是 5,499 元。 京东 XPG D600G 内存 16GB×2 6000CL26 5499 元 直达链接 龙耀 D600G 采用 10 层 PCB，搭配未锁定电压上限的 PMIC 芯片，支持 ",
-     "source": "IT之家",
-     "zh": "威刚 XPG 龙耀 D600G 内存模组上市：无限镜光效，16GB×2 套条 5499 元"
-    },
-    {
      "title": "暴涨的油轮运费，美以伊战争中最疯狂的行业",
      "link": "https://www.huxiu.com/article/4896368.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 11:42:38 +0800",
@@ -1794,28 +1834,12 @@ window.INDUSTRY_DATA = {
      "zh": "暴涨的油轮运费，美以伊战争中最疯狂的行业"
     },
     {
-     "title": "美图公司大起大落",
-     "link": "https://www.huxiu.com/article/4896367.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 11:37:49 +0800",
-     "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：老鱼儿，原文标题：《美图公司大起大落｜巨潮》 2026年，美图公司的股价，再次上演了一轮熟悉的大起大落。回望2026年初，美图股价一度站上9港元上方，而到如今股价已回落至4港元附近，相比高点跌幅已经超过50%。 短短一年时间，市场情绪完成一轮从追捧到谨慎的快速切换。 这已经不是美图第一次经历这样剧烈的波动，翻开其股价曲线，起起伏伏早成常态。 它能从上市之初的8港元四个月猛涨至最高超过21港元，也能在5年后，让自己的股价跌至仅为0.599港元。在濒临绝境之地，它又能在3年间涨至12港元，也能很快再从高点跌超三分之二直至如今。 股价起落背后",
-     "source": "虎嗅",
-     "zh": "美图公司大起大落"
-    },
-    {
-     "title": "模型还在加速，世界如何跟上？",
-     "link": "https://www.huxiu.com/article/4896366.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 11:33:17 +0800",
-     "summary": "本文来自微信公众号： 划重点KeyPoints ，作者：冯瑶，原文标题：《模型还在加速，世界如何跟上？｜北美AI访谈手记》，头图来自：AI生成 这趟行程密度很大，后劲很足，回到上海后满脑子还是15天里的各种画面： 一边，有Frontier Lab研究员波澜不惊地向我描述他的日常：&ldquo;我的工作主要就是监督和鼓励我的1万个agent。&rdquo;有数学博士对我说：&ldquo;数学已经死了。&rdquo; 在Mountain View的Red Rock Coffee里，连续几天见的多位&ldquo;天才少年&rdquo;都坚定表示&ldquo;一定会创业&rdquo;，也有不到30岁的",
-     "source": "虎嗅",
-     "zh": "模型还在加速，世界如何跟上？"
-    },
-    {
-     "title": "提前还贷潮又来了：有人在还，也有人在悄悄撤回",
-     "link": "https://www.huxiu.com/article/4896363.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 11:30:18 +0800",
-     "summary": "本文来自微信公众号： 显微故事 ，编辑：卓然，作者：显微故事编辑部 在当下这个时代，普通人能做的最有底气的事情，或许就是有一笔相对充裕的现金，能提前还掉一部分贷款。 据央行数据，2026年4月，全国住户中长期贷款单月净偿还3408亿元，创下历史新高。到2026年二季度末，个人住房贷款余额36.29万亿元，同比下降3.8%，已连续13个季度负增长。 有人把年终奖和孩子压岁钱凑成八万多还了进去，起因是同事去年结清省下十来万利息； 有人还了三万，月供少了两百多，她说不清省多少，但每个月账单轻一点，心里就松一点； 有人一年还了四次、每次十万以上，只选缩短年限，\"提前还贷真的会上瘾\"。 还有人把陆续到期",
-     "source": "虎嗅",
-     "zh": "提前还贷潮又来了：有人在还，也有人在悄悄撤回"
+     "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+     "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+     "pubDate": "Sat, 10 Oct 2026 03:42:11 +0000",
+     "summary": "Article URL: https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=50029330 Points: 6 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website"
     },
     {
      "title": "Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions (Tim Fernholz/TechCrunch)",
@@ -1824,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tim Fernholz / TechCrunch : Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions &nbsp; &mdash;&nbsp; Anthropic said its models exploited websites on the internet, including some run by U.S. g",
      "source": "Techmeme",
      "zh": "Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions (Tim Fernholz/TechCrunch)"
-    },
-    {
-     "title": "成立一支AI 蓝军，向你的公司发起进攻",
-     "link": "https://www.huxiu.com/article/4896362.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 11:28:22 +0800",
-     "summary": "本文来自微信公众号： 移动观察 ，作者：舰队指挥官，原文标题：《成立一支 AI 蓝军，向你的公司发起进攻》 我有一个朋友之前开了一家200人的在线旅游公司，成本高、管理负担重，做的很辛苦。 后来他把公司关掉了，他最近跟我说他用AI把过去200人的工作全部都干出来了，就他一个人，指挥一群AI员工干活。 节前我去他的公司参观，他一边跟我聊天，他的三台设备一台笔记本电脑、一台台式机，还有一台手机在时刻不停的工作。等我们聊完天。他的这三台设备，指挥AI已经自动干完了好几个人的活了。 然后他最近经常干的一件事情就是，用他的AI工具组合模拟朋友的公司内部工作流。比如我经常和他说一个我们内部的工作流，例如做",
-     "source": "虎嗅",
-     "zh": "成立一支AI 蓝军，向你的公司发起进攻"
     },
     {
      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
@@ -1906,18 +1922,10 @@ window.INDUSTRY_DATA = {
      "zh": "In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation (Brian Krebs/Krebs on Security)"
     },
     {
-     "title": "Manus，没能逃出巨头的游戏",
-     "link": "https://www.tmtpost.com/8163447.html",
-     "pubDate": "Sat, 10 Oct 2026 09:09:41 +0800",
-     "summary": "Agent 时代，独立不是答案。找到不可替代的位置，才是。",
-     "source": "钛媒体",
-     "zh": "Manus，没能逃出巨头的游戏"
-    },
-    {
      "title": "REA Reverse – Engineer Anything",
      "link": "https://rea.tools/",
      "pubDate": "Sat, 10 Oct 2026 00:37:07 +0000",
-     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 171 # Comments: 43",
+     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 199 # Comments: 59",
      "source": "Hacker News",
      "zh": "REA Reverse – Engineer Anything"
     },
@@ -1925,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Has the Autonomous Trucking Revolution Arrived?",
      "link": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
      "pubDate": "Fri, 09 Oct 2026 23:57:12 +0000",
-     "summary": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 14 # Comments: 13",
+     "summary": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 17 # Comments: 24",
      "source": "Hacker News",
      "zh": "Has the Autonomous Trucking Revolution Arrived?"
     },
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
      "link": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
      "pubDate": "Fri, 09 Oct 2026 23:53:08 +0000",
-     "summary": "Article URL: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants Comments URL: https://news.ycombinator.com/item?id=50028027 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants Comments URL: https://news.ycombinator.com/item?id=50028027 Points: 17 # Comments: 1",
      "source": "Hacker News",
      "zh": "Clinical trial of a prion disease drug candidate begins enrolling participants"
     },
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
      "link": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
      "pubDate": "Fri, 09 Oct 2026 23:32:04 +0000",
-     "summary": "Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf Comments URL: https://news.ycombinator.com/item?id=50027884 Points: 12 # Comments: 3",
+     "summary": "Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf Comments URL: https://news.ycombinator.com/item?id=50027884 Points: 14 # Comments: 3",
      "source": "Hacker News",
      "zh": "The logarithms of rational numbers have irrationality exponent 2 [pdf]"
     },
@@ -1960,14 +1968,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reuters : Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that's designing a new central processor for data centers, is raising funds at a ~$2.5B valuation &nbsp; &mdash;&nbsp; Six-month-old microchip startup Nuvacore, which does not yet have a product, is raising hundreds of millions",
      "source": "Techmeme",
      "zh": "Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that&apos;s designing a new central processor for data centers, is raising funds at a ~$2.5B valuation (Reuters)"
-    },
-    {
-     "title": "Compiling Rust to readable C with Eurydice",
-     "link": "https://lwn.net/Articles/1055211/",
-     "pubDate": "Fri, 09 Oct 2026 23:28:36 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 38 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Compiling Rust to readable C with Eurydice"
     }
    ]
   },
@@ -2226,12 +2226,44 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "银行密集赎回优先股，算的是什么账",
-     "link": "http://www.eeo.com.cn/2026/1010/1059531.shtml",
-     "pubDate": "Sat, 10 Oct 2026 11:59:01 +0800",
-     "summary": "银行优先股曾是银行补充其他一级资本的重要工具，自2014年试点以来累计发行35只、总规模8391.50亿元；近两年，优先股赎回潮持续扩大，2026年已公告拟赎回规模达1355亿元。",
+     "title": "这个假期“慢慢玩”",
+     "link": "http://www.eeo.com.cn/2026/1010/1059563.shtml",
+     "pubDate": "Sat, 10 Oct 2026 12:13:44 +0800",
+     "summary": "游客越来越看重一趟旅程中不同环节的衔接体验，希望深入目的地，体验更具当地特色的生活方式。旅行需求从机票、酒店等基础预订，进一步延伸至当地人常去的餐饮、特色小店等本地消费场景。体验经济正在改变文旅行业的收入结构与竞争逻辑。",
      "source": "经济观察网",
-     "zh": "银行密集赎回优先股，算的是什么账"
+     "zh": "这个假期“慢慢玩”"
+    },
+    {
+     "title": "苹果第二期中国清洁能源基金规模扩至约14亿元 两处风电项目已开工",
+     "link": "http://www.eeo.com.cn/2026/1010/1059561.shtml",
+     "pubDate": "Sat, 10 Oct 2026 12:13:06 +0800",
+     "summary": "10月10日，苹果宣布其第二期中国清洁能源基金的承诺投资总额已增至2.12亿美元（14亿元人民币）。截至目前，该基金已完成初步投资，支持在广西开发一个260兆瓦的风电项目，以及在山东开发一个50兆瓦的风电项目，两处项目目前均已开工建设。与此同时，苹果还宣布向中国绿色碳汇基金会及北京自然之友公益基金会提供全新的资助。",
+     "source": "经济观察网",
+     "zh": "苹果第二期中国清洁能源基金规模扩至约14亿元 两处风电项目已开工"
+    },
+    {
+     "title": "今日看点｜国新办将举行“十五五”时期推进就业和社会保障高质量发展有关情况新闻发布会",
+     "link": "http://www.eeo.com.cn/2026/1010/1059546.shtml",
+     "pubDate": "Sat, 10 Oct 2026 12:05:52 +0800",
+     "summary": "10月10日上午10时，国新办将举行“开局起步‘十五五’”系列主题新闻发布会，人力资源社会保障部新闻发言人、副部长李忠介绍“十五五”时期推进就业和社会保障高质量发展有关情况，并答记者问。",
+     "source": "经济观察网",
+     "zh": "今日看点｜国新办将举行“十五五”时期推进就业和社会保障高质量发展有关情况新闻发布会"
+    },
+    {
+     "title": "The danger of pessimism fatigue",
+     "link": "https://www.ft.com/content/8d948115-5843-4419-967e-f79e65718f55?syn-25a6b1a6=1",
+     "pubDate": "Sat, 10 Oct 2026 04:00:37 GMT",
+     "summary": "Too many have cried wolf about too many things and the public is now perilously nonchalant",
+     "source": "Financial Times",
+     "zh": "The danger of pessimism fatigue"
+    },
+    {
+     "title": "Napa Valley’s hangover",
+     "link": "https://www.ft.com/content/6ff0232c-f38a-4c70-8ca9-b0eed437f09b",
+     "pubDate": "Sat, 10 Oct 2026 04:00:26 GMT",
+     "summary": "People are drinking less. Vines are being ripped up. Winemakers are going bust. Can the Disneyland of wine survive the downturn?",
+     "source": "Financial Times",
+     "zh": "Napa Valley’s hangover"
     },
     {
      "title": "怎样的企业，值得长久尊敬？",
@@ -2240,14 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "企业以创新打开发展空间，也在日常经营中积累声誉。企业赢得的尊敬，不只体现在某一年的业绩里，更体现在长期经营中一次次兑现承诺上。",
      "source": "经济观察网",
      "zh": "怎样的企业，值得长久尊敬？"
-    },
-    {
-     "title": "集采围标撞“枪口” 圣诺生物子公司及实控人被公诉|速读公告",
-     "link": "http://stock.eastmoney.com/news/11134,202610103891875881.html",
-     "pubDate": "Sat, 10 Oct 2026 11:55:13 +0800",
-     "summary": "财联社10月10日讯（记者于淼） 医保局“反内卷、防围标”从严之际， 圣诺生物 （688117.SH）子公司圣诺制药及实控人因涉嫌第七批集采醋酸奥曲肽注射液围标被公诉。 圣诺生物 近日公告称，全资子公司圣诺制药以及实际控制人文永均收到雨花台检察院起诉书，涉串通投标罪，违法所得1097.96万元。公司已计提预计负债，预计将影响本年度或以后年度净利润。 公告显示，圣诺制药因涉嫌参与国家第七批集采药品醋酸奥曲肽注射液围标，于2024年6月被雨花台分局立案，相关人员承诺且圣诺制药实际也以第五顺位中标。案件于 2026年1月移送检察院审查起诉；文永均先后于 2024年12月18日、2025年12月17日",
-     "source": "东方财富股票",
-     "zh": "集采围标撞“枪口” 圣诺生物子公司及实控人被公诉|速读公告"
     },
     {
      "title": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧",
@@ -2264,70 +2288,6 @@ window.INDUSTRY_DATA = {
      "summary": "21世纪经济报道记者肖潇 9月23日，深圳市市场监管局公布了一起GEO行政处罚案件，一家小型服务商被指套取AI收录标准、批量编造虚假排名，被处以5万元罚款。 GEO自DeepSeek爆红后兴起，与传统SEO（搜索引擎优化）争夺网页排名不同，GEO瞄准的是大模型的回复内容。服务商通过研究AI的回答偏好，生产、投放更容易被AI引用的内容，帮助商家在AI问答中获得曝光。 本次深圳市市场监管局发现，该公司会通过一套“G...",
      "source": "经济观察网",
      "zh": "给AI植入广告涉及不正当竞争，GEO监管处罚已达3起"
-    },
-    {
-     "title": "人社部：实施适应人工智能发展促就业行动",
-     "link": "http://www.eeo.com.cn/2026/1010/1059512.shtml",
-     "pubDate": "Sat, 10 Oct 2026 11:52:11 +0800",
-     "summary": "中新经纬10月10日电 国新办10日就“十五五”时期推进就业和社会保障高质量发展有关情况举行新闻发布会。人力资源社会保障部新闻发言人、副部长李忠在会上表示，积极应对人工智能等新技术发展对就业的影响，实施适应人工智能发展促就业行动，推动科技向上向善、就业向新向优。 李忠回应如何抓好《实施就业优先战略“十五五”规划》落地实施的问题称，实施就业优先战略“十五五”规划，为做好“十五五”时期就业工作提供了...",
-     "source": "经济观察网",
-     "zh": "人社部：实施适应人工智能发展促就业行动"
-    },
-    {
-     "title": "商务部等7部门：实施品质电商“五优”行动",
-     "link": "http://www.eeo.com.cn/2026/1010/1059511.shtml",
-     "pubDate": "Sat, 10 Oct 2026 11:52:11 +0800",
-     "summary": "据商务部10月10日消息，近日商务部等7部门关于实施品质电商“五优”行动的通知。其中提到，加强品质电商主体培育。用好展会活动等平台，组织电商平台聚焦产品和服务质量提升公开发布承诺和行动计划，发布平台质量治理报告，主动接受社会监督，打造品质电商发展“主阵地”。发挥国家电子商务示范基地引领、辐射带动和质量科普作用，以品质为导向开展示范创建，强化信用管理和分类指导，培育一批诚信经营的品质标杆平台。",
-     "source": "经济观察网",
-     "zh": "商务部等7部门：实施品质电商“五优”行动"
-    },
-    {
-     "title": "央行10月10日7天期逆回购操作量为零",
-     "link": "http://www.eeo.com.cn/2026/1010/1059510.shtml",
-     "pubDate": "Sat, 10 Oct 2026 11:52:11 +0800",
-     "summary": "央行网站截图 【央行10月10日7天期逆回购操作量为零】央行网站公告，根据公开市场业务一级交易商的需求，2026年10月10日7天期逆回购操作量为零。（中新经纬APP）",
-     "source": "经济观察网",
-     "zh": "央行10月10日7天期逆回购操作量为零"
-    },
-    {
-     "title": "希荻微：全力维护公司及全体股东合法权益",
-     "link": "http://stock.eastmoney.com/news/11134,202610103891875741.html",
-     "pubDate": "Sat, 10 Oct 2026 11:52:00 +0800",
-     "summary": "10月9日晚间， 希荻微 (688173)发布《关于公司及子公司涉及仲裁的公告》。公告称，公司及全资子公司近日收到美国司法仲裁与调解服务股份有限公司（JAMS）送达的仲裁申请材料，申请人Darson Zhang对公司及全资子公司提出350万美元（折合人民币约2345.60万元）等索赔主张。目前，该案已被仲裁机构受理，尚未开庭审理。 希荻微 认为，本案并非孤立事件。2025年上半年，公司陆续发现个别人员在公司及其子公司任职期间存在涉嫌窃取商业秘密、违反信义义务、不正当竞争等损害公司利益的行为。为维护公司及全体股东的合法权益，公司经审慎研究后，依法在美国、韩国等地对相关人员提起诉讼、仲裁等法律程序",
-     "source": "东方财富股票",
-     "zh": "希荻微：全力维护公司及全体股东合法权益"
-    },
-    {
-     "title": "AI数据中心用电狂飙 美国密西西比州发出电力预警",
-     "link": "http://finance.eastmoney.com/news/1360,202610103891875641.html",
-     "pubDate": "Sat, 10 Oct 2026 11:51:17 +0800",
-     "summary": "两位知情人士日前透露，今年早些时候，密西西比州 电力 企业Entergy向 亚马逊 发出警示：用电高峰时段，为保障其他用户供电，该公司将不得不切断 亚马逊 在密西西比的 数据中心 的电网供电。当地 电力 公司极少对大型客户采取断电措施，但这份此前未曾报道的警示，折射出AI云厂商激增的用电需求，正迫使 电力 企业采取前所未有的手段，平衡各类用户的用电需求。两位知情人士称，Entergy的预警促使AWS改造自动供电切换系统，这套系统用于把 数据中心 从公网切换到燃气发电机等备用电源。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "AI数据中心用电狂飙 美国密西西比州发出电力预警"
-    },
-    {
-     "title": "C50风向指数调查：9月新增信贷、社融或同比少增，M1、M2增速环比回落",
-     "link": "http://finance.eastmoney.com/news/1346,202610103891875942.html",
-     "pubDate": "Sat, 10 Oct 2026 11:46:27 +0800",
-     "summary": "财联社10月10日讯（记者夏淑媛） 新一期财联社“C50风向指数”结果显示，9月信贷投放或较8月大幅改善，但难改少增格局，市场机构预测中值为1.05万亿元；另对9月新增社融的预测中值为3.26万亿元，或同比少增0.27万亿元。货币增速方面，9月M1、M2增速或环比略微回落。 物价方面，9月CPI同比或边际回升，PPI同比有望突破6月前高。具体来看，市场机构对9月CPI同比增速预测中值为1.0%，对PPI同比增速预测中值为4.5%。 “C50风向指数调查”是由财联社发起，由市场中的各类研究机构参与完成，结果能够较为全面地反映市场机构对于宏观经济走势、货币政策感受以及金融数据的预期。共有近20家机",
-     "source": "东方财富股票",
-     "zh": "C50风向指数调查：9月新增信贷、社融或同比少增，M1、M2增速环比回落"
-    },
-    {
-     "title": "江淮汽车注册资本增至22.54亿元",
-     "link": "http://stock.eastmoney.com/news/11215,202610103891874771.html",
-     "pubDate": "Sat, 10 Oct 2026 11:45:04 +0800",
-     "summary": "人民财讯10月10日电，企查查APP显示，近日， 江淮汽车 发生工商变更，注册资本由约21.84亿元增加至约22.54亿元。企查查显示， 江淮汽车 成立于1999年9月，法定代表人为项兴初，由安徽 江淮汽车 集团控股有限公司、香港中央结算有限公司、安徽省国有资本运营控股集团有限公司等共同持股。 （文章来源：证券时报网）",
-     "source": "东方财富股票",
-     "zh": "江淮汽车注册资本增至22.54亿元"
-    },
-    {
-     "title": "暴力踩踏？塑料支架隐患？尊界制动测评引争议，业内如何解读",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891875587.html",
-     "pubDate": "Sat, 10 Oct 2026 11:45:00 +0800",
-     "summary": "本文自南都·湾财社。 三台尊界V800的刹车踏板支架都没扛过懂车帝的制动测试，在4脚刹车内接连断裂，诞生仅两个月的超豪车型就此陷入舆论漩涡，连带造成其背后的 江淮汽车 在资本市场接连受重挫。截至发稿前， 江淮汽车 （600418.SH）股票连续两日大跌，一次测试令其市值蒸发超80亿元。 事件发酵于10月8日。当日早间，懂车帝发布了尊界V800百公里时速刹停测试视频，在接连发现两台租来的新车存在百公里时速紧急制动会造成刹车踏板支架断裂的现象后，懂车帝又自费购入一台全新车进行第三轮测试，结果同一部件也在第2次刹车中断裂。而三轮测试，不仅断裂的部件相同，断口与断裂位置亦完全一致。此视频一经发布便迅速",
-     "source": "东方财富股票",
-     "zh": "暴力踩踏？塑料支架隐患？尊界制动测评引争议，业内如何解读"
     },
     {
      "title": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
@@ -2464,6 +2424,46 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Gold snaps two-week losing streak; some analysts say may have found bottom"
+    },
+    {
+     "title": "Integra LifeSciences prices $450M in 9.5% secured notes",
+     "link": "https://seekingalpha.com/news/4651896-integra-lifesciences-prices-450m-in-9_5-percent-secured-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:38:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Integra LifeSciences prices $450M in 9.5% secured notes"
+    },
+    {
+     "title": "Gran Tierra Energy expects $315M cash from $1.33B business sale",
+     "link": "https://seekingalpha.com/news/4651894-gran-tierra-energy-expects-315m-cash-from-133b-business-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:35:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gran Tierra Energy expects $315M cash from $1.33B business sale"
+    },
+    {
+     "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+     "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 21:30:00 GMT",
+     "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
+     "source": "MarketWatch",
+     "zh": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders."
+    },
+    {
+     "title": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%",
+     "link": "http://stock.eastmoney.com/news/11784,202610103891632088.html",
+     "pubDate": "Sat, 10 Oct 2026 05:15:33 +0800",
+     "summary": "美股市场： 美股三大指数10月09日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨423.31点，收于51654.95点，涨幅为0.83%，本周累涨0.93%； 标准普尔 500种股票指数上涨46.18点，收于7811.54点，涨幅为0.59% ，本周累涨1.15% ； 纳斯达克 综合 指数上涨172.83点，收于27366.17点，涨幅为0.64% ，本周累涨0.64 % 。 热门科技股多数上涨， 亚马逊 涨超3%， 微软 、 特斯拉 涨超2%； 苹果 跌超1%，AMD、 英特尔 跌超2%。 有色金属 、加密货币概念股涨幅居前， 南方铜业 涨超5%，Coinbase涨超4%， 必",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%"
+    },
+    {
+     "title": "The hazy OpenAI growth metric driving Wall Street",
+     "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 20:57:10 GMT",
+     "summary": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
+     "source": "Financial Times",
+     "zh": "The hazy OpenAI growth metric driving Wall Street"
     }
    ]
   },
@@ -2498,20 +2498,20 @@ window.INDUSTRY_DATA = {
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
-     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
-     "source": "Live Science",
-     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
-    },
-    {
      "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
      "source": "Live Science",
      "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
+    },
+    {
+     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
+     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
+     "source": "Live Science",
+     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

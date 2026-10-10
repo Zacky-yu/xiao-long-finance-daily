@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 02:59:40",
+ "generated_at": "2026/10/11 03:52:45",
  "recent_days": 7,
  "industries": [
   {
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
+     "link": "https://oilprice.com/Energy/Energy-General/Southeast-Asia-Needs-More-Power-But-Its-Weak-Grid-Could-Be-a-Problem.html",
+     "pubDate": "Sat, 10 Oct 2026 14:00:00 -0500",
+     "summary": "The war in Iran has exposed a critical vulnerability in Southeast Asia’s energy markets. The region is heavily dependent on fossil fuel imports, and demand is continuing its steep growth trajectory even as global crude oil prices remain punishingly high. Though the Strait of Hormuz is finally reopen",
+     "source": "OilPrice",
+     "zh": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem"
+    },
+    {
      "title": "The Iran War Is Fueling a Boom in Clean Energy",
      "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Fueling-a-Boom-in-Clean-Energy.html",
      "pubDate": "Sat, 10 Oct 2026 10:00:00 -0500",
@@ -954,20 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "Clean-energy super PAC names its target list for general elections"
     },
     {
-     "title": "U.S. Oil Drilling Continues to Inch Upward",
-     "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Continues-to-Inch-Upward.html",
-     "pubDate": "Fri, 09 Oct 2026 12:31:16 -0500",
-     "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 603, up 56 from this same time last year. The number of active oil rigs rose by 6, reaching 462 duri",
-     "source": "OilPrice",
-     "zh": "U.S. Oil Drilling Continues to Inch Upward"
-    },
-    {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
+     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1730,6 +1730,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+     "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+     "pubDate": "Sat, 10 Oct 2026 19:50:00 +0000",
+     "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+     "source": "TechCrunch",
+     "zh": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe"
+    },
+    {
+     "title": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)",
+     "link": "https://www.techmeme.com/261010/p17#a261010p17",
+     "pubDate": "Sat, 10 Oct 2026 15:45:00 -0400",
+     "summary": "Lewis Parker / Kotaku : Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well &nbsp; &mdash;&nbsp; Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles h",
+     "source": "Techmeme",
+     "zh": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)"
+    },
+    {
+     "title": "Takeshi's Castle",
+     "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+     "pubDate": "Sat, 10 Oct 2026 19:12:55 +0000",
+     "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle Comments URL: https://news.ycombinator.com/item?id=50036119 Points: 17 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Takeshi's Castle"
+    },
+    {
+     "title": "Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny (Financial Times)",
+     "link": "https://www.techmeme.com/261010/p16#a261010p16",
+     "pubDate": "Sat, 10 Oct 2026 15:08:43 -0400",
+     "summary": "Financial Times : Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny &nbsp; &mdash;&nbsp; Donald Trump's administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+     "source": "Techmeme",
+     "zh": "Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny (Financial Times)"
+    },
+    {
      "title": "IDC: Shenzhen-based DJI and Insta360, accounting for 73% and 20% of global smart camera market in Q2, are vying for the top spot as GoPro&apos;s share drops to 3% (William Langley/Financial Times)",
      "link": "https://www.techmeme.com/261010/p15#a261010p15",
      "pubDate": "Sat, 10 Oct 2026 14:50:00 -0400",
@@ -1738,20 +1770,28 @@ window.INDUSTRY_DATA = {
      "zh": "IDC: Shenzhen-based DJI and Insta360, accounting for 73% and 20% of global smart camera market in Q2, are vying for the top spot as GoPro&apos;s share drops to 3% (William Langley/Financial Times)"
     },
     {
-     "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-     "link": "https://jobs.ashbyhq.com/workweave",
-     "pubDate": "Sat, 10 Oct 2026 18:16:19 +0000",
-     "summary": "Article URL: https://jobs.ashbyhq.com/workweave Comments URL: https://news.ycombinator.com/item?id=50035602 Points: 0 # Comments: 0",
+     "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+     "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+     "pubDate": "Sat, 10 Oct 2026 18:48:35 +0000",
+     "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 29 # Comments: 15",
      "source": "Hacker News",
-     "zh": "Weave (YC W25) is hiring ML, AI, product, & design engineers"
+     "zh": "Nvidia in talks to acquire US 'open' model startup Reflection AI"
     },
     {
-     "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-     "link": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
-     "pubDate": "Sat, 10 Oct 2026 18:10:54 +0000",
-     "summary": "Article URL: https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50035550 Points: 18 # Comments: 0",
+     "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
+     "link": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+     "pubDate": "Sat, 10 Oct 2026 18:11:58 +0000",
+     "summary": "Article URL: https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300 Comments URL: https://news.ycombinator.com/item?id=50035561 Points: 38 # Comments: 29",
      "source": "Hacker News",
-     "zh": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents"
+     "zh": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well"
+    },
+    {
+     "title": "Why DuckDB 2.0 is faster",
+     "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+     "pubDate": "Sat, 10 Oct 2026 18:08:49 +0000",
+     "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/ Comments URL: https://news.ycombinator.com/item?id=50035530 Points: 15 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Why DuckDB 2.0 is faster"
     },
     {
      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
@@ -1826,12 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "华为鸿蒙星河互联与 Apple Watch 互联适配机型公布，首批含 Pura X View、Mate 90 系列等"
     },
     {
-     "title": "Knuth Reward Check",
-     "link": "https://www.thomas-huehn.com/knuth-reward-check",
+     "title": "Knuth reward check",
+     "link": "https://www.thomas-huehn.com/knuth-reward-check/",
      "pubDate": "Sat, 10 Oct 2026 15:47:01 +0000",
-     "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 65 # Comments: 26",
+     "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 88 # Comments: 32",
      "source": "Hacker News",
-     "zh": "Knuth Reward Check"
+     "zh": "Knuth reward check"
     },
     {
      "title": "阻击安森美，Cirrus Logic 抢购 Synaptics",
@@ -1901,25 +1941,9 @@ window.INDUSTRY_DATA = {
      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
      "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
      "pubDate": "Sat, 10 Oct 2026 15:10:24 +0000",
-     "summary": "Article URL: https://chronicles.popvax.com/p/popvax-goes-clinical Comments URL: https://news.ycombinator.com/item?id=50033721 Points: 63 # Comments: 15",
+     "summary": "Article URL: https://chronicles.popvax.com/p/popvax-goes-clinical Comments URL: https://news.ycombinator.com/item?id=50033721 Points: 83 # Comments: 16",
      "source": "Hacker News",
      "zh": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial"
-    },
-    {
-     "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
-     "link": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
-     "pubDate": "Sat, 10 Oct 2026 15:04:38 +0000",
-     "summary": "Article URL: https://wsj.com/tech/ai/tom-brown-athropic-669005ad Comments URL: https://news.ycombinator.com/item?id=50033678 Points: 86 # Comments: 25",
-     "source": "Hacker News",
-     "zh": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal"
-    },
-    {
-     "title": "FDA may allow some toxic chemicals to be added to food without safety review",
-     "link": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis",
-     "pubDate": "Sat, 10 Oct 2026 15:00:36 +0000",
-     "summary": "Article URL: https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis Comments URL: https://news.ycombinator.com/item?id=50033638 Points: 87 # Comments: 47",
-     "source": "Hacker News",
-     "zh": "FDA may allow some toxic chemicals to be added to food without safety review"
     },
     {
      "title": "How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal (Wall Street Journal)",
@@ -1938,36 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "主业竞争激烈，中鼎股份募资急拓第二增长曲线"
     },
     {
-     "title": "Dozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more (Adam Morgan/Wired)",
-     "link": "https://www.techmeme.com/261010/p11#a261010p11",
-     "pubDate": "Sat, 10 Oct 2026 08:40:01 -0400",
-     "summary": "Adam Morgan / Wired : Dozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more &nbsp; &mdash;&nbsp; Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover ",
-     "source": "Techmeme",
-     "zh": "Dozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more (Adam Morgan/Wired)"
-    },
-    {
      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
      "pubDate": "Sat, 10 Oct 2026 12:00:00 +0000",
      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
      "source": "WIRED",
      "zh": "AI Is Getting Really Good at Messing With Cybercriminals"
-    },
-    {
-     "title": "Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More",
-     "link": "https://www.wired.com/gallery/gifts-for-lego-lovers/",
-     "pubDate": "Sat, 10 Oct 2026 11:30:00 +0000",
-     "summary": "There's more to Lego than just another basic set. We tested tons of Lego-themed gifts to find the perfect ones for the brick builder in your life.",
-     "source": "WIRED",
-     "zh": "Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More"
-    },
-    {
-     "title": "One with the world? A new look at brains transformed by psychedelics.",
-     "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-     "pubDate": "Sat, 10 Oct 2026 11:15:35 +0000",
-     "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
-     "source": "Ars Technica",
-     "zh": "One with the world? A new look at brains transformed by psychedelics."
     }
    ]
   },
@@ -1977,6 +1977,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Indie App Spotlight: ‘Milepost’ is a driving journal that saves your memories on the road",
+     "link": "https://9to5mac.com/2026/10/10/indie-app-spotlight-milepost-is-a-driving-journal-that-saves-your-memories-on-the-road/",
+     "pubDate": "Sat, 10 Oct 2026 19:30:00 +0000",
+     "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Milepost turns your roadtrips into more of a journey. It lets you record all of your drives, and journal",
+     "source": "9to5Mac",
+     "zh": "Indie App Spotlight: ‘Milepost’ is a driving journal that saves your memories on the road"
+    },
+    {
+     "title": "Where Google Wallet state IDs are available on Android",
+     "link": "https://9to5google.com/2026/10/10/google-wallet-state-ids/",
+     "pubDate": "Sat, 10 Oct 2026 19:20:00 +0000",
+     "summary": "States across the US are slowly rolling out support for adding your driver’s license or ID to the Google Wallet app on Android. more…",
+     "source": "9to5Google",
+     "zh": "Where Google Wallet state IDs are available on Android"
+    },
     {
      "title": "This Android Auto problem is affecting calls on foldable phones",
      "link": "https://www.engadget.com/2280033/android-auto-bug-affecting-foldable-phones-calling/",
@@ -2200,22 +2216,6 @@ window.INDUSTRY_DATA = {
      "summary": "According to Bloomberg’s Mark Gurman, iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it on for the first time. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says"
-    },
-    {
-     "title": "Survey suggests that the iPhone Duo is tempting a surprising number of Android fans",
-     "link": "https://www.androidauthority.com/ditch-android-for-the-iphone-duo-poll-results-3721582/",
-     "pubDate": "Fri, 09 Oct 2026 22:29:05 +0000",
-     "summary": "Not quite an Android exodus, but encouraging reading for Apple.",
-     "source": "Android Authority",
-     "zh": "Survey suggests that the iPhone Duo is tempting a surprising number of Android fans"
-    },
-    {
-     "title": "Pixelated 120: The definitive Pixel tier list",
-     "link": "https://9to5google.com/2026/10/09/pixelated-120-the-definitive-pixel-tier-list/",
-     "pubDate": "Fri, 09 Oct 2026 21:08:33 +0000",
-     "summary": "Welcome to Pixelated episode 120. This week, Abner, Damien, and Will celebrate 10 years of Pixel by ranking all of Google’s smartphones released over the past decade. Also, we finally make the jump over to video! Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode b",
-     "source": "9to5Google",
-     "zh": "Pixelated 120: The definitive Pixel tier list"
     }
    ]
   },
@@ -2225,6 +2225,102 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Should I put my nest egg in a 30-year Treasury bond?",
+     "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
+     "summary": "Risk comes in many forms, even with “safe” investments.",
+     "source": "MarketWatch",
+     "zh": "Should I put my nest egg in a 30-year Treasury bond?"
+    },
+    {
+     "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+     "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
+     "summary": "Parental controls aren’t just for kids anymore",
+     "source": "MarketWatch",
+     "zh": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents."
+    },
+    {
+     "title": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
+     "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
+     "summary": "Don’t just focus on stock picks when you’re thinking of building retirement wealth",
+     "source": "MarketWatch",
+     "zh": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably"
+    },
+    {
+     "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+     "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
+     "summary": "Seven tips for painlessly moving in retirement.",
+     "source": "MarketWatch",
+     "zh": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’"
+    },
+    {
+     "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+     "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
+     "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
+     "source": "MarketWatch",
+     "zh": "Rising interest rates: The good, the bad and the ugly for retirees"
+    },
+    {
+     "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+     "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
+     "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
+     "source": "MarketWatch",
+     "zh": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most."
+    },
+    {
+     "title": "Key deals this week: Option Care Health, PTC, Energy Transfer and more",
+     "link": "https://seekingalpha.com/news/4651908-key-deals-this-week-option-care-health-ptc-energy-transfer-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 10 Oct 2026 15:15:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: Option Care Health, PTC, Energy Transfer and more"
+    },
+    {
+     "title": "Nvidia in talks to buy ‘open’ model startup Reflection AI: FT",
+     "link": "https://seekingalpha.com/news/4651913-nvidia-buy-open-model-startup-reflection-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 10 Oct 2026 15:12:18 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia in talks to buy ‘open’ model startup Reflection AI: FT"
+    },
+    {
+     "title": "五角大楼上调与对伊战事相关的美军死亡人数",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892008123.html",
+     "pubDate": "Sun, 11 Oct 2026 03:10:30 +0800",
+     "summary": "当地时间10月10日获悉，美国国防部承认与对伊朗战事相关的美军死亡人数高于此前公布的数据，并已将官方统计的死亡人数上调至21人。 此次调整新增两起非战斗死亡事件，包括一名3月在科威特死亡的陆军国民警卫队少校，以及一名9月死亡的海军人员。 美国国防部此前公开数据库中的相关死亡人数较低。最新数据显示，截至10月9日，除21人死亡外，还有865名军人在相关行动中受伤。 另有消息称，官方数据未能全面反映美军在战争中的人员伤亡情况。自对伊战事开始以来，美军实际伤亡人数高于五角大楼官方数据库中记录的数字，官方记录中缺少数百名美军伤亡人员的信息。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "五角大楼上调与对伊战事相关的美军死亡人数"
+    },
+    {
+     "title": "特朗普：“乌克兰应该换个总统”",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892008084.html",
+     "pubDate": "Sun, 11 Oct 2026 03:08:51 +0800",
+     "summary": "美国总统特朗普10日表示“乌克兰应该换个总统”，暗示乌总统泽连斯基在结束俄乌冲突方面做得不够，同时指责泽连斯基导致美国柴油价格上涨。 特朗普当天启程前往田纳西州参加共和党选民集会前在白宫对记者说：“我建议他们（乌克兰）换个能达成协议的新领导人，因为他（泽连斯基）本来可以达成很多协议，但出于某种原因，他从未这样做。” 特朗普暗示，泽连斯基在结束俄乌冲突方面做得不够。他说：“那是一场本不该爆发的战争。我认为，乌克兰是时候换一个新总统了。” 特朗普还把美国国内柴油价格高企的问题归咎于泽连斯基，称他“想给全世界制造麻烦，想在柴油燃料问题上给我们的农民和牧场主制造麻烦”。 美国财政部外国资产控制办公室9",
+     "source": "东方财富股票",
+     "zh": "特朗普：“乌克兰应该换个总统”"
+    },
+    {
+     "title": "从2000万元跃升至2000亿元！绸都盛泽怎么做到的？",
+     "link": "http://finance.eastmoney.com/news/1355,202610113892005222.html",
+     "pubDate": "Sun, 11 Oct 2026 02:57:50 +0800",
+     "summary": "10月10日晚，第十五届江苏（盛泽）纺织品博览会暨中国东方丝绸市场成立40周年高质量发展大会在盛泽东纺城时尚发布厅举行。全球纺织界的目光汇聚盛泽，来自国内行业协会、专业院校、业内企业的嘉宾、客商、设计师齐聚绸都，在全球纺织产业价值链重构的关键路口，共寻破局之道。 历经多年积累和沉淀，盛泽纺博会已成为全国乃至全球纺织面料行业互鉴交流的盛事，引领着行业最新潮流与趋势。 “经过历年发展，吴江纺织产业从‘一根丝’不断向上、向新、向远拓展，形成了千亿级规模，入选国家先进制造业集群。实现了‘从一滴油到一匹布’的全链式发展，产业链完整性、市场话语权、产业集聚度全国领先。”吴江区委书记孙道寻表示，盛泽是吴江纺",
+     "source": "东方财富股票",
+     "zh": "从2000万元跃升至2000亿元！绸都盛泽怎么做到的？"
+    },
+    {
+     "title": "俄罗斯宣布部分解除柴油出口禁令",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892007936.html",
+     "pubDate": "Sun, 11 Oct 2026 02:50:55 +0800",
+     "summary": "当地时间10月10日，俄罗斯政府宣布决定部分解除柴油出口禁令，相关措施自当天正式生效。 俄罗斯政府公告称，此举旨在落实俄罗斯总统普京与美国总统特朗普此前达成的协议。根据相关决定，俄罗斯现阶段将允许向国际市场出口50万吨柴油。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "俄罗斯宣布部分解除柴油出口禁令"
+    },
     {
      "title": "标普500的平静 全靠十只股票和一个AI信仰？",
      "link": "http://stock.eastmoney.com/news/1768,202610113892007879.html",
@@ -2242,44 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "“上涨十月”遇冷：比特币反弹乏力 分析师警告仍有下行空间"
     },
     {
-     "title": "家用摄像头如何兼顾隐私？古尔曼：苹果的答案是“不录像”",
-     "link": "http://stock.eastmoney.com/news/1768,202610113892007690.html",
-     "pubDate": "Sun, 11 Oct 2026 02:47:22 +0800",
-     "summary": "苹果 被曝正在研发一款只“看懂”、不“录像”的AI家用摄像头，用文字描述取代视频录像。这一设计直指智能安防的隐私痛点，但安防产品没有录像能否被用户接受，仍有待检验。 据媒体近日报道，科技记者马克·古尔曼（Mark Gurman）透露， 苹果 正在研发一款代号为J450的家用安防摄像头。与市面上的同类产品不同，它不会录制任何视频。 这款摄像头将利用AI分析家中及周边环境，再以文字描述的形式把动态推送给用户。 外形上，J450是一个小巧的金属圆柱体，形似一支加大号的润唇膏。 它的 传感器 以低帧率拍摄画面，借助人脸识别判断是哪位家庭成员进入房间或离开家，还能识别宠物。但这些信息只会以文字形式送达用",
-     "source": "东方财富股票",
-     "zh": "家用摄像头如何兼顾隐私？古尔曼：苹果的答案是“不录像”"
-    },
-    {
      "title": "Cliffs unit is said to proceed with Canada layoffs despite govt. ultimatum",
      "link": "https://seekingalpha.com/news/4651912-cliffs-plans-canada-layoffs-despite-govt-ultimatum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 10 Oct 2026 14:41:39 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Cliffs unit is said to proceed with Canada layoffs despite govt. ultimatum"
-    },
-    {
-     "title": "以媒称美以领导人就再袭伊朗沟通",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892007425.html",
-     "pubDate": "Sun, 11 Oct 2026 02:40:31 +0800",
-     "summary": "当地时间10月10日，据以色列第13频道电视台报道，美国总统特朗普与以色列总理内塔尼亚胡近期“就美以可能再对伊朗发动军事打击一事进行了频繁、紧急沟通”。报道援引多名以色列安全机构高级官员消息称，“美以尚未就此作出最终决定，内塔尼亚胡无意在以色列本月底举行议会选举前采取军事行动。”报道还称，以军内部认为，美方未来倾向于重启对伊朗军事行动。目前，以军正据此为应对一切可能情况作准备。 （文章来源：CCTV国际时讯）",
-     "source": "东方财富股票",
-     "zh": "以媒称美以领导人就再袭伊朗沟通"
-    },
-    {
-     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-     "pubDate": "Sat, 10 Oct 2026 18:31:00 GMT",
-     "summary": "“I presume these are sophisticated investors taking a profit.”",
-     "source": "MarketWatch",
-     "zh": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?"
-    },
-    {
-     "title": "也门胡塞武装：愿与沙特避免互袭民用设施",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892007341.html",
-     "pubDate": "Sun, 11 Oct 2026 02:30:04 +0800",
-     "summary": "也门胡塞武装10日表示，愿意与沙特阿拉伯采取相互对等的措施，避免将 机场 、海港及其他具有人道主义功能的设施卷入不断升级的军事对抗。 据胡塞武装控制的马西拉电视台报道，该组织表示愿意推动各方避免袭击此类设施，并将 机场 和海港列为优先保护对象。 报道说，胡塞武装指责沙特于7月13日袭击也门首都萨那国际 机场 ，导致此前一段时间的缓和局势结束。胡塞武装表示不接受沙特在也门驻军。 近日，胡塞武装多次袭击沙特境内的机场和石油设施。沙特主导的多国联军则表示，正开展大规模军事行动，打击胡塞武装军事能力，着力瓦解其弹道导弹网络，并全天候为也门政府军提供空中支援。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "也门胡塞武装：愿与沙特避免互袭民用设施"
     },
     {
      "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
@@ -2314,36 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "Flight disruptions growing after missile attack on Saudi airport"
     },
     {
-     "title": "Elon Musk is now richer than any American ever — and it’s not even close",
-     "link": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
-     "pubDate": "Sat, 10 Oct 2026 16:50:00 GMT",
-     "summary": "Musk’s trillioniare status means he’s wealthier than his next three contemporaries combined — and also worth more than historical tycoons like John D. Rockefeller.",
-     "source": "MarketWatch",
-     "zh": "Elon Musk is now richer than any American ever — and it’s not even close"
-    },
-    {
      "title": "Philips investors’ move to probe company over 2021 recall denied by Dutch court",
      "link": "https://seekingalpha.com/news/4651909-philips-wins-dutch-court-battle-2021-recall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 10 Oct 2026 12:17:00 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Philips investors’ move to probe company over 2021 recall denied by Dutch court"
-    },
-    {
-     "title": "Real estate stocks outperform broader markets",
-     "link": "https://seekingalpha.com/news/4651848-real-estate-stocks-outperform-broader-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 10 Oct 2026 12:00:30 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Real estate stocks outperform broader markets"
-    },
-    {
-     "title": "A friend in her 80s fell down her basement stairs. Is this a hidden danger lurking in people’s home?",
-     "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-     "pubDate": "Sat, 10 Oct 2026 16:00:00 GMT",
-     "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
-     "source": "MarketWatch",
-     "zh": "A friend in her 80s fell down her basement stairs. Is this a hidden danger lurking in people’s home?"
     },
     {
      "title": "强化投资者利益绑定 公募基金新模式浮费产品扩容提质",
@@ -2362,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "烟威1000千伏特高压工程竣工投产"
     },
     {
-     "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-     "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-     "pubDate": "Sat, 10 Oct 2026 15:30:00 GMT",
-     "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-     "source": "MarketWatch",
-     "zh": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children."
-    },
-    {
      "title": "到2030年地区生产总值达3.6万亿元以上 “十五五”期间重庆都市圈这样建",
      "link": "http://www.eeo.com.cn/2026/1010/1060320.shtml",
      "pubDate": "Sat, 10 Oct 2026 23:26:11 +0800",
@@ -2384,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "21世纪经济报道记者 章驰 沉迷盗墓小说，自学盗墓技术，效仿盗墓小说情节盗掘文物是违法犯罪吗？近日，最高人民法院、国家文物局联合发布依法惩治文物犯罪典型案例。其中，余某才盗掘古墓葬一案中，法院对效仿盗墓小说情节组织盗掘古墓葬构成犯罪的行为，依法追究刑事责任。 案情显示，被告人余某才痴迷盗墓小说，自学盗墓技术，购买盗墓工具。2023年9月下旬、11月初，余某才与他人两次商定共同盗掘古墓葬，携带...",
      "source": "经济观察网",
      "zh": "效仿盗墓小说自学“摸金”盗掘东周古墓，主犯获刑12年"
-    },
-    {
-     "title": "Insider trades: P&G, Marvell Technology, TSMC among notable names",
-     "link": "https://seekingalpha.com/news/4651902-insider-trades-pg-marvell-technology-tsmc-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 10 Oct 2026 11:03:46 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Insider trades: P&G, Marvell Technology, TSMC among notable names"
     },
     {
      "title": "以军空袭黎巴嫩致6人受伤",
@@ -2426,22 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "Putin relayed Iran war proposal to Trump, Kremlin says"
     },
     {
-     "title": "Flu season is already here. Here’s what to know about this year’s flu shots.",
-     "link": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
-     "pubDate": "Sat, 10 Oct 2026 13:19:00 GMT",
-     "summary": "This year’s flu season has arrived about seven weeks earlier than in 2025 or 2024.",
-     "source": "MarketWatch",
-     "zh": "Flu season is already here. Here’s what to know about this year’s flu shots."
-    },
-    {
-     "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
-     "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-     "pubDate": "Sat, 10 Oct 2026 13:15:00 GMT",
-     "summary": "“People in the U.S. need to wake up.”",
-     "source": "MarketWatch",
-     "zh": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why."
-    },
-    {
      "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
      "link": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
      "pubDate": "Sat, 10 Oct 2026 13:00:01 GMT",
@@ -2456,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "10月10日，中国工业和信息化部、公安部、生态环境部、市场监管总局联合发布征求意见稿，拟对汽车产品创新设计和研发测试验证实施全面强化管理。 征求意见稿明确提出， 禁止配备全隐藏式车门把手 ；灯光、雨刮、除霜除雾等关键驾驶安全功能在采用虚拟操纵件的同时， 必须保留实体操纵件 ； 折叠显示屏、柔性显示屏被明确禁止 ；行车时不得使用\"零重力\"座椅、旋转座椅或座椅放倒成床等功能。 在时间节点上， 自2027年1月1日起 ，涉及创新设计的新申报车型须提交额外技术参数及验证材料； 已获批车型须在2027年7月1日前 完成补充申报，逾期且存在安全隐患的车辆须立即停产并启动召回程序。 禁止全隐藏式门把手，关键",
      "source": "华尔街见闻",
      "zh": "四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件"
-    },
-    {
-     "title": "AI borrowing slows as investors grow wary of debt binge",
-     "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
-     "pubDate": "Sat, 10 Oct 2026 11:00:07 GMT",
-     "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
-     "source": "Financial Times",
-     "zh": "AI borrowing slows as investors grow wary of debt binge"
     }
    ]
   },
@@ -2473,6 +2473,22 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Scientists may have found a shortcut to fusion energy",
+     "link": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
+     "pubDate": "Sat, 10 Oct 2026 14:57:27 EDT",
+     "summary": "Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their calculations could help future reactors reach self-sustaining fusion with far less energy while avoi",
+     "source": "ScienceDaily",
+     "zh": "Scientists may have found a shortcut to fusion energy"
+    },
+    {
+     "title": "MIT astronomers catch a star in a feast that could last billions of years",
+     "link": "https://www.sciencedaily.com/releases/2026/10/261008005240.htm",
+     "pubDate": "Sat, 10 Oct 2026 14:56:25 EDT",
+     "summary": "Astronomers have discovered a bizarre star system about 300 light-years from Earth where a small star is slowly devouring a nearby brown dwarf, an object too massive to be a planet but too small to be a true star. Unlike stars that rapidly swallow their companions, this one is gradually stealing mat",
+     "source": "ScienceDaily",
+     "zh": "MIT astronomers catch a star in a feast that could last billions of years"
+    },
     {
      "title": "Photojournalist Steve Winter on his iconic Hollywood puma image, the illegal tiger trade and having a black panther knock on his door",
      "link": "https://www.livescience.com/animals/cats/photojournalist-steve-winter-on-his-iconic-hollywood-puma-image-the-illegal-tiger-trade-and-having-a-black-panther-knock-on-his-door",
@@ -2504,6 +2520,14 @@ window.INDUSTRY_DATA = {
      "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
      "source": "Ars Technica Science",
      "zh": "AI disqualification yields new Nikon Small World in Motion winner"
+    },
+    {
+     "title": "Scientists discover 5 hidden brain patterns behind depression",
+     "link": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
+     "pubDate": "Fri, 09 Oct 2026 14:34:02 EDT",
+     "summary": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis. Researchers studying 263 people with depression identified five brain profiles, each showing different patterns of communication between brain regions and associations wit",
+     "source": "ScienceDaily",
+     "zh": "Scientists discover 5 hidden brain patterns behind depression"
     },
     {
      "title": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years.",
@@ -2554,14 +2578,6 @@ window.INDUSTRY_DATA = {
      "zh": "Here’s a look at the Nobel Prizes for science"
     },
     {
-     "title": "Only one workout helped older adults lose fat and keep muscle",
-     "link": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
-     "pubDate": "Fri, 09 Oct 2026 06:57:40 EDT",
-     "summary": "A six-month study suggests that high-intensity interval training (HIIT) may offer older adults a powerful advantage: losing body fat while keeping their muscle. Unlike moderate-intensity workouts, which led to a small loss of lean muscle, HIIT preserved it while also improving body composition aroun",
-     "source": "ScienceDaily",
-     "zh": "Only one workout helped older adults lose fat and keep muscle"
-    },
-    {
      "title": "NASA astronauts splash down after 100 million miles in space",
      "link": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
      "pubDate": "Thu, 08 Oct 2026 23:56:28 EDT",
@@ -2610,14 +2626,6 @@ window.INDUSTRY_DATA = {
      "zh": "Shape-sensing sheet digitally tracks its movement as it bends and twists"
     },
     {
-     "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
-     "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
-     "pubDate": "Thu, 08 Oct 2026 09:31:39 EDT",
-     "summary": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal. While testing a new DNA sequencing technique, they examined a previously unknown protist collected from a freshwater pond at Oxford University. To their surprise",
-     "source": "ScienceDaily",
-     "zh": "Scientists accidentally discover a genetic code that breaks the rules of life"
-    },
-    {
      "title": "An experimental drug kills fat cells, rather than shrinking them",
      "link": "https://www.sciencenews.org/article/experimental-drug-kills-fat-cells",
      "pubDate": "Thu, 08 Oct 2026 13:00:00 +0000",
@@ -2632,14 +2640,6 @@ window.INDUSTRY_DATA = {
      "summary": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how astronauts can survive and thrive on the Moon while laying the groundwork for fut",
      "source": "ScienceDaily",
      "zh": "NASA is searching for hidden caves to build its first Moon base"
-    },
-    {
-     "title": "Scientists warn a popular vitamin D supplement may have a hidden downside",
-     "link": "https://www.sciencedaily.com/releases/2026/10/261007232940.htm",
-     "pubDate": "Thu, 08 Oct 2026 00:06:26 EDT",
-     "summary": "Not all vitamin D supplements are created equal, and new research suggests that one popular form may have an unexpected downside. Scientists found that taking vitamin D2 can actually lower the body's levels of vitamin D3, the form naturally produced by sunlight and more effective at boosting overall",
-     "source": "ScienceDaily",
-     "zh": "Scientists warn a popular vitamin D supplement may have a hidden downside"
     },
     {
      "title": "Gene therapy and special goggles give some blind people limited sight",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 10:02:49",
+ "generated_at": "2026/10/10 10:11:58",
  "recent_days": 7,
  "industries": [
   {
@@ -282,36 +282,12 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
-     "title": "Defence satcom revenues to surpass $23bn by 2035",
-     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
-     "source": "Electronics Weekly",
-     "zh": "Defence satcom revenues to surpass $23bn by 2035"
-    },
-    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
-    },
-    {
-     "title": "Axiom Space highlights space computing progress",
-     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
-     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
-     "source": "Electronics Weekly",
-     "zh": "Axiom Space highlights space computing progress"
-    },
-    {
-     "title": "The Single-Chip PC",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
-     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -328,30 +304,6 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
-    },
-    {
-     "title": "Failure analysis in the era of 3D integration",
-     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
-     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Failure analysis in the era of 3D integration"
-    },
-    {
-     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
-     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
-     "source": "Electronics Weekly",
-     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
-    },
-    {
-     "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:04:25 +0000",
-     "summary": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Robotaxi growth, Arm Qualcomm battle"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
+    },
+    {
+     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
+     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
+     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
+     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
+    },
+    {
+     "title": "Shift Left Complicates Fab Data Management",
+     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
+     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
+     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Shift Left Complicates Fab Data Management"
+    },
+    {
+     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
+     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -1730,6 +1730,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "微软工程师解析案例：Win11 装 2 款杀软易“撞车”，恐导致程序卡死",
+     "link": "https://www.ithome.com/1/011/215.htm",
+     "pubDate": "Sat, 10 Oct 2026 02:07:48 GMT",
+     "summary": "IT之家 10 月 10 日消息，微软资深工程师雷蒙德 · 陈（Raymond Chen）于 10 月 8 日在微软开发者博客上发布博文，分享了一起企业支持案例， 表示在 Windows 11 等系统上，同时安装 2 款杀毒软件可能引发冲突。 在博文中，Chen 以 Contoso 和 Fabrikam 代称这两款软件。Fabrikam 调用了一个已被 Contoso 拦截的函数，而 Contoso 将这一行为视为可疑活动，尝试隔离 Fabrikam 进程。与此同时，Fabrikam 也拦截了 Contoso 正在使用的函数，导致 Contoso 反而调用了自己试图隔离的进程。 Chen 将这",
+     "source": "IT之家",
+     "zh": "微软工程师解析案例：Win11 装 2 款杀软易“撞车”，恐导致程序卡死"
+    },
+    {
+     "title": "“为什么我在职校拿了那么多技能证书，人们还是用学历评判我？”",
+     "link": "https://www.huxiu.com/article/4896342.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 10:07:12 +0800",
+     "summary": "本文来自微信公众号： 一席 ，作者：一席YiXi，原文标题：《“为什么我在职校拿了那么多技能证书，人们还是用学历评判我？”｜宋鑫淼 一席第1154位讲者》 宋鑫淼，香港大学社会学博士。 我们看到了老师的疲惫和管理者的心酸，那学生呢？对于学生来说，通过三年的学习，他们最终要问的一个问题是：我选职业教育这条路到底值不值？ 另一条道路，很多人的路 2026.07.18杭州 大家下午好，我叫宋鑫淼，来自香港岭南大学，是一名社会学研究者。很高兴今天有这个机会在这里跟大家分享我的研究。在过去的七八年时间里，我的观察一直围绕着一个群体，那就是中国的职校生。 大家可能听说过1:1的普职分流。这个政策就是指初中",
+     "source": "虎嗅",
+     "zh": "“为什么我在职校拿了那么多技能证书，人们还是用学历评判我？”"
+    },
+    {
+     "title": "AOC 推出 16\" WUXGA 60Hz AMOLED 便携显示器 16T40D",
+     "link": "https://www.ithome.com/1/011/214.htm",
+     "pubDate": "Sat, 10 Oct 2026 02:05:35 GMT",
+     "summary": "IT之家 10 月 10 日消息，AOC 本月 8 日在其官网上线了一款基于 AMOLED 技术的便携显示器产品 16T40D。其采用 16\" 级面板，支持 WUXGA (1920×1200) 分辨率、60Hz 刷新率。 16T40D 拥有铝合金机身， 集成 2 个 1W 扬声器 ；标配保护 + 支撑皮套，支持 15° / 35° / 70° 三档倾斜调整；拥有 Micro HDMI 1.4、2 个全功能 USB-C，支持反向供电。 其 亮度 300nits ，静态对比度 100K:1；响应时间 1ms； 色深 8-bit ，色域 95% DCI-P3，sRGB 下色偏（平均值）ΔE＜2；支持",
+     "source": "IT之家",
+     "zh": "AOC 推出 16\" WUXGA 60Hz AMOLED 便携显示器 16T40D"
+    },
+    {
+     "title": "刷新国内纪录，合肥幺正量子离子阱量子计算机通过 QV128 基准测试",
+     "link": "https://www.ithome.com/1/011/212.htm",
+     "pubDate": "Sat, 10 Oct 2026 02:02:29 GMT",
+     "summary": "IT之家 10 月 10 日消息，据合肥高新发布今日消息，近日， 合肥幺正量子科技有限公司 （以下简称“幺正量子”）自主研发的离子阱量子计算机通过量子体积（Quantum Volume，QV）128 基准测试， 刷新国内公开报道中的最高纪录 。 ▲ 幺正量子 QV128 测试中的随机量子线路图（图源幺正量子，下同） 量子体积是衡量量子计算机综合性能的重要指标之一，综合反映量子比特数量、量子比特质量、相干时间、门保真度和连通性等多项因素。 此次测试中，幺正量子离子阱量子计算机在 7 个量子比特上运行了 7 层方形量子线路，每层包含一系列单比特门和双比特门，重输出概率达到 0.707，高于基准阈值",
+     "source": "IT之家",
+     "zh": "刷新国内纪录，合肥幺正量子离子阱量子计算机通过 QV128 基准测试"
+    },
+    {
      "title": "主打“听劝”：大众 ID. Polo GTI 未交付先升级，极速提升至 190km/h",
      "link": "https://www.ithome.com/1/011/211.htm",
      "pubDate": "Sat, 10 Oct 2026 01:59:56 GMT",
@@ -1752,30 +1784,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 10 日消息，据美国国家公路交通安全管理局 (NHTSA) 官网公示，Volkswagen（大众汽车）在美国宣布 召回 22,524 辆 2023~2026 年款的 ID.4 车型 。 此次召回的原因是这些车辆的 高压电池可能发生故障 ，并导致车辆起火。NHTSA 建议车主 在车辆维修完成前不要将电池电量充至 80% 以上 。 大众 目前正在制定维修方案 ，预计将于 2026 年 11 月 27 日寄出通知车主安全风险的临时信函，后续信函将待维修方案确定后寄出。",
      "source": "IT之家",
      "zh": "大众因高压电池可能着火在美召回 22524 辆 ID.4 汽车"
-    },
-    {
-     "title": "微软紧急通知：谷歌 Chromium 下月移除 XSLT 支持，恐影响远程桌面 Web 访问",
-     "link": "https://www.ithome.com/1/011/207.htm",
-     "pubDate": "Sat, 10 Oct 2026 01:54:45 GMT",
-     "summary": "IT之家 10 月 10 日消息，科技媒体 NeoWin 昨日（10 月 9 日）发布博文，报道称微软已紧急通知各组织机构，基于 Chromium 的浏览器在 11 月更新后， 可能会导致 Windows Server 中的远程桌面 Web 访问（RD Web Access）出现故障。 谷歌已公布公告，Chromium 浏览器计划于 2026 年 11 月中旬停止客户端 XSLT 支持。IT之家注：XSLT 全称为 Extensible Stylesheet Language Transformations，直译为可扩展样式表语言转换，是一种将 XML 文档转换为其他格式或结构的规则语言。 网",
-     "source": "IT之家",
-     "zh": "微软紧急通知：谷歌 Chromium 下月移除 XSLT 支持，恐影响远程桌面 Web 访问"
-    },
-    {
-     "title": "技嘉率先为其 H610 / B760 主板提供英特尔下代 LGA1700 处理器支持",
-     "link": "https://www.ithome.com/1/011/206.htm",
-     "pubDate": "Sat, 10 Oct 2026 01:51:25 GMT",
-     "summary": "IT之家 10 月 10 日消息，技嘉 (GIGABYTE) 昨日宣布，该企业率先为旗下英特尔 H610 / B760 芯片组主板 提供对英特尔预计于 2027 年初发布的下代 Socket FCLGA1700 处理器的支持 ，相关 UEFI (BIOS) 现已开放下载。 技嘉在其新闻稿中提到的处理器 即桌面版的 \"Raptor Lake Next\" ，这些产品与 \"Raptor Lake Refresh\" 相比并无本质性的变化。 相关阅读： 《 曝英特尔 \"Raptor Lake Next HX\" 移动端处理器使用“酷睿 2000 HX”命名 》 《 曝英特尔 \"Raptor Lake Ne",
-     "source": "IT之家",
-     "zh": "技嘉率先为其 H610 / B760 主板提供英特尔下代 LGA1700 处理器支持"
-    },
-    {
-     "title": "国内航线燃油附加费今起上调，涨 10 元 / 20 元",
-     "link": "https://www.ithome.com/1/011/205.htm",
-     "pubDate": "Sat, 10 Oct 2026 01:45:57 GMT",
-     "summary": "IT之家 10 月 10 日消息，据央视新闻报道，今天起，国内航线客票燃油附加费上调。调整后的标准为： 成人旅客 800 公里及 800 公里以下航线每航段 50 元，800 公里以上航线每航段 90 元， 相较于调整前分别上涨 10 元和 20 元 。 婴儿旅客免收； 儿童、革命伤残军人、因公致残人民警察按实际收取标准减半收取。 此前销售的国内客票，如在今天及以后进行变更，不再按新标准补收燃油附加差价。 IT之家附今年国内航线燃油附加费（成人）变动如下： 时间 800 公里以上 800 公里（含）以下 1 月 5 日 20 元 10 元 4 月 5 日 120 元 60 元 5 月 16 日",
-     "source": "IT之家",
-     "zh": "国内航线燃油附加费今起上调，涨 10 元 / 20 元"
     },
     {
      "title": "Sources: Dario Amodei spoke with Meta&apos;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request (Wall Street Journal)",
@@ -1880,14 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 奋进的肚腩 ，作者：肚腩说 2026年上半年，安踏旗下FILA业务的经营利润是43.2亿元，比安踏品牌同期的39.9亿元还多。 一个从福建长起来的运动品牌，把买来的区域业务做成了重要利润来源。从2009年那笔交易，到今天的成绩，中间隔着十七年的经营。钱付出去的那一天，显然只算开头。 现在，安踏又成了彪马最大股东。始祖鸟、萨洛蒙、狼爪，也已陆续进入它参与经营或持有的品牌版图。交易名单越来越长。曾经卖自家运动鞋的人，开始接手别人积攒几十年的名声，也接手那些名声背后的生意。 这比给品牌重新划一遍国籍有意思。收购以后，消费者照样要试鞋，店长照样要交租。柜台前的人不负责替并购庆祝，",
      "source": "虎嗅",
      "zh": "从FILA到彪马，安踏与那些买来的洋名字们"
-    },
-    {
-     "title": "聊聊安妮·卡森",
-     "link": "https://www.huxiu.com/article/4896305.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 08:39:59 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐，原文标题：《安妮&middot;卡森》，题图来自：视觉中国 1 2026年10月8日，斯德哥尔摩下午一点，瑞典学院常务秘书英格丽德&middot;卡尔贝里走出那扇门，念了一个名字。安妮&middot;卡森。 念之前她打过一通电话。电话那头的人没说几句。卡尔贝里后来对记者讲，她只来得及告诉我，她这会儿在冰岛，在听风。 七十六岁的人，被冰岛国家电视台的记者截在一处风很大的路边，一只手一直按着帽子。问她什么感觉，她说，&ldquo;疯了，我觉得他们全疯了，嗯，你知道的，就是疯了&rdquo;。 又问，得了这个奖，读你书的人会不会变。她说，我的书封面上会",
-     "source": "虎嗅",
-     "zh": "聊聊安妮·卡森"
     },
     {
      "title": "REA Reverse – Engineer Anything",
@@ -2226,6 +2226,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Trump&apos;s diesel agreement with Putin accused of contradicting Russia sanctions law",
+     "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
+     "pubDate": "Sat, 10 Oct 2026 02:09:00 GMT",
+     "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+     "source": "CNBC",
+     "zh": "Trump&apos;s diesel agreement with Putin accused of contradicting Russia sanctions law"
+    },
+    {
+     "title": "本周回购124.98亿元，拟回购公司新增8家",
+     "link": "http://stock.eastmoney.com/news/11758,202610103891848288.html",
+     "pubDate": "Sat, 10 Oct 2026 10:00:14 +0800",
+     "summary": "东方财富 Choice数据显示，截至10月10日，本周有20家A股公司披露回购实施情况，合计回购金额124.98亿元， 高于上周的19.78亿元。 本周 宁德时代 披露的回购金额最高，为31.03亿元 ， 美的集团 排名第二，为19.20亿元。 本周有8家公司宣布回购计划，按拟回购金额上限统计，计划回购金额20.38亿元。 其中 东阳光 拟回购金额上限最高，为12.00亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体",
+     "source": "东方财富股票",
+     "zh": "本周回购124.98亿元，拟回购公司新增8家"
+    },
+    {
+     "title": "新型电极突破电化学合成氨能效瓶颈",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891848123.html",
+     "pubDate": "Sat, 10 Oct 2026 09:59:15 +0800",
+     "summary": "澳大利亚莫纳什大学等机构的研究人员开发出一种新型 锂 合金化电极，突破了电化学合成氨面临的能效瓶颈，可显著降低利用可再生 电力 合成氨所需的能量。该成果有望推动氨生产摆脱对化石燃料的依赖。相关研究9日发表于《Cell Press Blue》期刊。 氨是全球农业生产的重要原料，广泛用于制造 氮肥 。近年来，氨还被视为一种潜在的无碳燃料和能源载体。目前，传统合成氨主要依赖大型集中式工厂，难以充分利用分布在不同地区的可再生能源，尤其是那些因地理位置偏远或输电条件受限而未能得到有效利用的能源。利用可再生 电力 进行电化学合成，有望为氨生产提供更加灵活的选择。 然而，氮气分子结构极其稳定，难以直接转化为",
+     "source": "东方财富股票",
+     "zh": "新型电极突破电化学合成氨能效瓶颈"
+    },
+    {
+     "title": "美股牛市即将进入第五年 以史为鉴后市何去何从？一文读懂",
+     "link": "http://stock.eastmoney.com/news/1440,202610103891847956.html",
+     "pubDate": "Sat, 10 Oct 2026 09:58:39 +0800",
+     "summary": "根据Truist联席首席投资官Keith Lerner的一项最新分析，投资者目前正处于自20世纪50年代以来的第11个牛市中，且本轮牛市即将于12日（下周一）成为第七个至少持续四年的牛市，并迈入第五个年头。 Lerner撰写报告指出，与20世纪50年代以来的所有牛市相比，119%的涨幅处于中等水平，远低于2009-2020年周期的401%涨幅和1987-2000年的582%涨幅。在他的统计期内，牛市的历史平均涨幅为184%。 Lerner指出，此前的10次牛市中，有6次持续时间超过四年。 而达到这个“年龄”的牛市往往会继续。根据他的研究，牛市在第五年的平均回报率为12%，中位数回报率为15%。",
+     "source": "东方财富股票",
+     "zh": "美股牛市即将进入第五年 以史为鉴后市何去何从？一文读懂"
+    },
+    {
      "title": "大面积钙钛矿太阳能电池光电转换效率创新高",
      "link": "http://finance.eastmoney.com/news/1351,202610103891847742.html",
      "pubDate": "Sat, 10 Oct 2026 09:55:05 +0800",
@@ -2250,14 +2282,6 @@ window.INDUSTRY_DATA = {
      "zh": "幺正量子离子阱量子计算机通过QV128基准测试 刷新国内纪录"
     },
     {
-     "title": "央企和中国科学院近年已投入超三百二十亿元开展合作",
-     "link": "http://finance.eastmoney.com/news/1350,202610103891846827.html",
-     "pubDate": "Sat, 10 Oct 2026 09:53:01 +0800",
-     "summary": "记者9日从国务院国资委获悉，国务院国资委与中国科学院2026年度合作会商会议日前在京举办。双方围绕航空航天、生物制造、 新能源 、 新材料 、 机器人 、绿色低碳等领域，签署4项院企合作协议和14项所企重大合作协议。 国务院国资委党委书记、主任程福波表示，自2023年6月双方首次会商以来，中央企业和中国科学院累计实施合作项目超过1200个、经费投入超320亿元，在能源开发、深海探测、绿色转型、装备制造等领域取得了一系列标志性成果，有力保障了相关产业链供应链安全可控，增强了我国科技创新整体实力，也为下一步深化战略合作奠定了坚实基础。 当天，中国科学院科技成果转化平台与中央企业科技成果产业化联合体",
-     "source": "东方财富股票",
-     "zh": "央企和中国科学院近年已投入超三百二十亿元开展合作"
-    },
-    {
      "title": "【环球财经】纽约金价9日上涨 触及一周高位",
      "link": "http://www.eeo.com.cn/2026/1010/1059307.shtml",
      "pubDate": "Sat, 10 Oct 2026 09:52:11 +0800",
@@ -2272,22 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "新华财经纽约10月9日电（记者刘亚南）美国财政部下属外国资产控制办公室9日发布公告，宣布在未来几个月放松针对俄罗斯柴油贸易相关的制裁，以缓解美国国内柴油供应紧张和价格攀升。 根据该公告，外国资产控...",
      "source": "经济观察网",
      "zh": "【环球财经】美国放松针对俄罗斯柴油贸易相关制裁 特朗普称俄将对美供油"
-    },
-    {
-     "title": "2026年中央本级科技支出预算增长10%",
-     "link": "http://finance.eastmoney.com/news/1350,202610103891846450.html",
-     "pubDate": "Sat, 10 Oct 2026 09:51:00 +0800",
-     "summary": "10月9日，财政部公布的《2026年上半年中国财政政策执行情况报告》（以下简称《报告》）显示，为支持加紧培育壮大新动能，增强科技创新体系化攻关能力，2026年中央本级科技支出预算增长10%（4264亿元），重点向基础研究、应用基础研究、国家战略科技任务聚焦，强化对国家实验室、国家科研机构、高水平研究型大学等支持，并突出企业创新主体地位，推进现代化产业体系建设。 与此同时，中央财政下达2000亿元超长期特别国债资金，支持22个领域、超1.1万个项目设备更新；新一批1500多家“小巨人”企业纳入 专精特新 奖补政策范围；20个城市进入第三批现代商贸流通体系试点城市名单…… 《报告》指出，上半年，我",
-     "source": "东方财富股票",
-     "zh": "2026年中央本级科技支出预算增长10%"
-    },
-    {
-     "title": "香港证监会：将就延长交易时段发讨论文件",
-     "link": "http://finance.eastmoney.com/news/1344,202610103891846217.html",
-     "pubDate": "Sat, 10 Oct 2026 09:49:19 +0800",
-     "summary": "10月9日，香港证监会行政总裁梁凤仪在亚洲证券业与金融市场协会(ASIFMA)会议上发表讲话。 梁凤仪表示，为强化市场基建，盘活流动性，未来的工作重点是令市场交易变得更便捷、更具成本效益。香港则将在提升资本效率、改革市场微观结构及构建流动性生态圈等领域发力。 而改革的重点将包括，收窄买卖差价、缩短结算周期至T+1及研究中的措施包括延长证券交易时段等具体措施。 据梁凤仪介绍，一年前实施的收窄差价措施第一阶段涵盖了300只股票，推出以来，其买卖价差收窄了38%，成交执行时间缩短26%。第二阶段措施初步结果也显示，买卖价差收窄约30%。 而为延续势头，香港方面正陆续推进更多措施，其中一项是将结算周期",
-     "source": "东方财富股票",
-     "zh": "香港证监会：将就延长交易时段发讨论文件"
     },
     {
      "title": "万亿估值背后的“数字口径游戏”：OpenAI与Anthropic的营收竟然无法直接比较",
@@ -2360,14 +2368,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Trump turns to Russia in bid to lower diesel prices, but analysts see minimal impact"
-    },
-    {
-     "title": "Trump&apos;s diesel agreement with Putin accused of contradicting Russia sanctions law",
-     "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
-     "pubDate": "Fri, 09 Oct 2026 23:16:50 GMT",
-     "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-     "source": "CNBC",
-     "zh": "Trump&apos;s diesel agreement with Putin accused of contradicting Russia sanctions law"
     },
     {
      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",

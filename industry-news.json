@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 17:46:29",
+ "generated_at": "2026/10/10 17:52:00",
  "recent_days": 7,
  "industries": [
   {
@@ -257,14 +257,6 @@
    "total": 9,
    "items": [
     {
-     "title": "Jury still out in Qualcomm vs Arm case",
-     "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
-     "pubDate": "Sat, 10 Oct 2026 07:20:41 +0000",
-     "summary": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Jury still out in Qualcomm vs Arm case"
-    },
-    {
      "title": "Phison posts record September revenue as AI tops half of sales",
      "link": "https://www.digitimes.com/news/a20261008PD250/phison-revenue-demand-data-medical.html",
      "pubDate": "Sat, 10 Oct 2026 06:30:11 GMT",
@@ -337,36 +329,12 @@
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
-     "title": "Defence satcom revenues to surpass $23bn by 2035",
-     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
-     "source": "Electronics Weekly",
-     "zh": "Defence satcom revenues to surpass $23bn by 2035"
-    },
-    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
-    },
-    {
-     "title": "Axiom Space highlights space computing progress",
-     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
-     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
-     "source": "Electronics Weekly",
-     "zh": "Axiom Space highlights space computing progress"
-    },
-    {
-     "title": "The Single-Chip PC",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
-     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -383,22 +351,6 @@
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
-    },
-    {
-     "title": "Failure analysis in the era of 3D integration",
-     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
-     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Failure analysis in the era of 3D integration"
-    },
-    {
-     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
-     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
-     "source": "Electronics Weekly",
-     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -495,6 +447,54 @@
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
+    },
+    {
+     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
+     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
+     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
+     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
+    },
+    {
+     "title": "Shift Left Complicates Fab Data Management",
+     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
+     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
+     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Shift Left Complicates Fab Data Management"
+    },
+    {
+     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
+     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -961,12 +961,12 @@
      "zh": "States Bet on Virtual Power Plants to Cut Grid Costs"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
+     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -980,7 +980,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1729,12 +1729,44 @@
    "total": 18,
    "items": [
     {
+     "title": "四部门：汽车生产企业获知其生产销售的产品发生安全事件，应主动开展调查分析",
+     "link": "https://www.ithome.com/1/011/444.htm",
+     "pubDate": "Sat, 10 Oct 2026 09:46:06 GMT",
+     "summary": "IT之家 10 月 10 日消息，据工信部官网今日消息，工业和信息化部会同公安部、生态环境部、市场监管总局等部门研究起草了《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》。 其中提出，健全安全事件事故记录与研判机制。 汽车生产企业在获知其生产销售的产品发生创新设计功能异常等安全事件或碰撞等安全事故时，应主动开展调查分析 ，排查安全风险隐患，记录分析所需关键数据并确保数据真实性、完整性；在公安机关依法开展交通事故调查时，汽车生产企业应及时提供数据和技术协助。 IT之家注意到，征求意见稿针对部分生产企业跟风推出新产品、测试验证不充分等问题， 提出了多方面的要求 。 ",
+     "source": "IT之家",
+     "zh": "四部门：汽车生产企业获知其生产销售的产品发生安全事件，应主动开展调查分析"
+    },
+    {
+     "title": "乘联分会：初步统计 9 月全国乘用车市场零售 170.2 万辆，同比下降 24%",
+     "link": "https://www.ithome.com/1/011/443.htm",
+     "pubDate": "Sat, 10 Oct 2026 09:44:14 GMT",
+     "summary": "IT之家 10 月 10 日消息，据乘联分会初步统计，9 月 1-30 日， 全国乘用车市场零售 170.2 万辆， 同比去年 9 月同期下降 24% ，较上月同期增长 10%，今年以来乘用车累计零售 1,341.8 万辆，同比下降 21%；9 月 1-30 日，全国乘用车厂商批发 252.8 万辆，同比去年 9 月同期下降 10%，较上月同期增长 7%，今年以来累计批发 1,971.1 万辆，同比下降 6%。 9 月 1-30 日， 全国乘用车新能源市场零售 114.1 万辆，同比去年 9 月同期下降 12% ，较上月同期增长 14%，今年以来累计零售 781.6 万辆，同比下降 12%；9",
+     "source": "IT之家",
+     "zh": "乘联分会：初步统计 9 月全国乘用车市场零售 170.2 万辆，同比下降 24%"
+    },
+    {
      "title": "Ubiquiti 推出工业级交换机和无线接入点，打造高可靠网络产品矩阵",
      "link": "https://www.ithome.com/1/011/442.htm",
      "pubDate": "Sat, 10 Oct 2026 09:42:10 GMT",
      "summary": "IT之家 10 月 10 日消息，Ubiquiti（优倍快）今年早些时候发布了工业级产品线 UniFi Industrial，同期推出了万兆网关产品。而在当地时间本月 8 日，Ubiquiti 宣布 追加推出工业级交换机和无线接入点 ，打造高可靠性网络产品矩阵。 UniFi Industrial 交换机拥有铝挤外壳和压铸金属背板，可在宽温范围内无风扇运行。其拥有 2 条 DC 电源输入路径，配备用于外部监控的报警继电器，三侧支持 DIN 安装导轨，可选 PoE、2.5GbE。 U7 Industrial 无线接入点拥有压铸金属外壳，支持 IP67 防尘防水，配备高增益定向天线，可选外置全向天线",
      "source": "IT之家",
      "zh": "Ubiquiti 推出工业级交换机和无线接入点，打造高可靠网络产品矩阵"
+    },
+    {
+     "title": "“请3休13”的黄金周，AI旅游攻略把我练成了特种兵",
+     "link": "https://www.tmtpost.com/8163230.html",
+     "pubDate": "Sat, 10 Oct 2026 17:40:11 +0800",
+     "summary": "攻略精确到分钟，落地全靠腿。",
+     "source": "钛媒体",
+     "zh": "“请3休13”的黄金周，AI旅游攻略把我练成了特种兵"
+    },
+    {
+     "title": "张雪的老东家要去IPO了",
+     "link": "https://www.tmtpost.com/8163619.html",
+     "pubDate": "Sat, 10 Oct 2026 17:38:56 +0800",
+     "summary": "两年三轮融资之外，张雪“老东家”也在排队上市。",
+     "source": "钛媒体",
+     "zh": "张雪的老东家要去IPO了"
     },
     {
      "title": "站在柜台旁边的人",
@@ -1801,14 +1833,6 @@
      "zh": "国宝人寿偿付能力持续下滑，四川国资增资近31亿救场，成立8年仅2年盈利"
     },
     {
-     "title": "我国广告业反垄断第一案落槌，电梯广告巨头分众传媒收购新潮传媒获附条件批准",
-     "link": "https://www.ithome.com/1/011/437.htm",
-     "pubDate": "Sat, 10 Oct 2026 09:27:18 GMT",
-     "summary": "IT之家 10 月 10 日消息，市场监管总局今日发布公告， 附加限制性条件批准 分众传媒信息技术股份有限公司（以下简称分众传媒）收购成都新潮传媒集团股份有限公司（简称新潮传媒）股权案。 该案是我国广告业领域第一起以附加限制性条件批准的经营者集中案件 。本案的附条件批准，是反垄断执法在广告传媒这一重要民生服务领域的进一步深化。 经审查，市场监管总局认为该案对中国境内电梯媒体广告市场可能具有排除、限制竞争效果。为有效减少此项经营者集中可能产生的不利影响，市场监管总局经过全面审查、科学论证，依法对该案作出附条件批准决定， 要求分众传媒、新潮传媒和集中后实体作出六项限制性承诺 ： 继续履行现有客户合",
-     "source": "IT之家",
-     "zh": "我国广告业反垄断第一案落槌，电梯广告巨头分众传媒收购新潮传媒获附条件批准"
-    },
-    {
      "title": "21亿人次，平台接管人们的国庆假期",
      "link": "https://www.tmtpost.com/8163700.html",
      "pubDate": "Sat, 10 Oct 2026 17:24:23 +0800",
@@ -1823,14 +1847,6 @@
      "summary": "天下危险，莫此为甚",
      "source": "钛媒体",
      "zh": "一边造AI，一边挖地堡，硅谷精英们在怕什么"
-    },
-    {
-     "title": "极核 AE3 LR 长续航版电摩上市：160km 最大续航，6799 元起",
-     "link": "https://www.ithome.com/1/011/436.htm",
-     "pubDate": "Sat, 10 Oct 2026 09:15:29 GMT",
-     "summary": "IT之家 10 月 10 日消息，极核 AE3 LR 长续航版电摩今日开售，首发权益价 6,799 元起，首发活动时间为 10 月 10 日 10:00-10 月 23 日 10:00。 IT之家从官方介绍获悉，新品提供 月光银、深空灰、格雷灰 配色，配备家族化双刃切割大灯，近光 15000CD，远光 56000CD。此外，该车还配备前后双碟刹、高抓地力轮胎、125° 松弛角斜踏、740mm 低座高、1274mm 短轴距。 该车搭载 72V50Ah 原厂锂电池，支持 160km 最大续航 、116kmSport 档满把不掉速续航。该车支持 2450W 峰值功率、1300W 额定功率，实现 52",
-     "source": "IT之家",
-     "zh": "极核 AE3 LR 长续航版电摩上市：160km 最大续航，6799 元起"
     },
     {
      "title": "耐克撤销大中华区，体面溃败还是绝地求生",
@@ -1951,22 +1967,6 @@
      "summary": "Cloudflare 收购了开源 JS 运行时项目 Deno，Deno 宣布该项目将停止开发，但会继续维护一年时间，期间会释出 bug 修复和安全更新，但不会有新功能，一年之后终止支持。它欢迎其他人接手该项目。使用 Deno 的一个知名项目是 YouTube 视频下载工具 yt-dlp，它是在 2025 年宣布选择 Deno 作为其 JavaScript 运行时，但随着 Deno 终止支持它可能需要再次选择新的运行时。",
      "source": "Solidot",
      "zh": "Cloudflare 收购 Deno，Deno 停止开发"
-    },
-    {
-     "title": "Circana: US Xbox unit sales fell 33% YoY to an all-time low in 2026 through August, while PS5 sales fell 25%, as both consoles hit record high average prices (Kaan Serin/Eurogamer.net)",
-     "link": "https://www.techmeme.com/261010/p4#a261010p4",
-     "pubDate": "Sat, 10 Oct 2026 01:55:01 -0400",
-     "summary": "Kaan Serin / Eurogamer.net : Circana: US Xbox unit sales fell 33% YoY to an all-time low in 2026 through August, while PS5 sales fell 25%, as both consoles hit record high average prices &nbsp; &mdash;&nbsp; &ldquo;Price sensitivity is becoming a real problem.&rdquo;&nbsp; &mdash;&nbsp; Follow Grand",
-     "source": "Techmeme",
-     "zh": "Circana: US Xbox unit sales fell 33% YoY to an all-time low in 2026 through August, while PS5 sales fell 25%, as both consoles hit record high average prices (Kaan Serin/Eurogamer.net)"
-    },
-    {
-     "title": "Computers Cannot Make Decisions",
-     "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-     "pubDate": "Sat, 10 Oct 2026 05:47:46 +0000",
-     "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 71 # Comments: 54",
-     "source": "Hacker News",
-     "zh": "Computers Cannot Make Decisions"
     }
    ]
   },
@@ -2225,6 +2225,54 @@
    "total": 13,
    "items": [
     {
+     "title": "四部门征求意见 进一步加强汽车产品创新设计等管理",
+     "link": "http://finance.eastmoney.com/news/1358,202610103891942139.html",
+     "pubDate": "Sat, 10 Oct 2026 17:40:58 +0800",
+     "summary": "新华财经北京10月10日电工业和信息化部等四部门10日公开发布关于进一步加强 汽车 产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）。 汽车 产品创新设计技术指南围绕虚拟操纵件、门把手、新型人机交互系统、大角度座椅等方面提出具体测试验证要求。 根据 汽车 产品创新设计技术指南，汽车生产企业应当将安全风险评估前置，在产品研发设计阶段，对有关创新设计进行复杂工况、极端场景下的失效模式分析，充分识别潜在安全风险，评估不达标的创新设计，不得装车应用等。 具体要求包括，汽车应急逃生装置、应急制动装置、驱动系统电源切断装置等涉及安全的应急操纵件，应具备实体操纵件和醒目标识；采用门把手创新设计的产",
+     "source": "东方财富股票",
+     "zh": "四部门征求意见 进一步加强汽车产品创新设计等管理"
+    },
+    {
+     "title": "东数西算：AI算力撞上国家工程 这条“卖铲人”主线怎么挑？",
+     "link": "http://finance.eastmoney.com/news/11862,202610103891942443.html",
+     "pubDate": "Sat, 10 Oct 2026 17:40:08 +0800",
+     "summary": "AI大模型驱动智能算力占比升至81%，叠加 东数西算 国家工程，光模块、服务器、液冷、IDC四大环节订单全面高增，是国产算力基建的确定性主线。 从核心逻辑分析，首先，需求验证（算力刚需），AI大模型训练与推理需求爆发，我国智能算力规模2025年6月达782 EFLOPS、同比+96%，占比升至81%，算力从\"可选项\"变\"必选项\"，需求刚性已获龙头业绩验证；其次，国产替代（卖铲人红利），光模块（ 中际旭创 、 新易盛 ）、服务器（ 浪潮信息 、 中科曙光 ）、液冷温控（ 英维克 、 申菱环境 ）等国产环节全球份额领先，AI算力资本开支直接转化为国产硬件订单；此外，政策+成本拐点（辅助）， 东数西",
+     "source": "东方财富股票",
+     "zh": "东数西算：AI算力撞上国家工程 这条“卖铲人”主线怎么挑？"
+    },
+    {
+     "title": "未来智造局 | 编程“出圈”走向大众：AI编程的“中国样本’",
+     "link": "http://stock.eastmoney.com/news/1437,202610103891941951.html",
+     "pubDate": "Sat, 10 Oct 2026 17:38:56 +0800",
+     "summary": "新华财经上海10月10日电 当前，在AI工具的加持下，编程正像文字、视频一样，成为人们表达思想的一种媒介，开发一款软件也从程序员的专利变为大众都可尝试的技能。在这场全球性的产业变革中，依托超大规模应用市场、工程师红利与快速成形的平台生态，中国率先实现规模化落地。这场转变何以发生？将把产业带向何方？对普通人生活又有什么影响？值得深入观察。 门槛之变：编程不再是程序员的专利 近期，在上海落幕的2026 Inclusion·外滩大会上，一项吉尼斯世界纪录的诞生为AI编程的流行提供了直观例证：大会发起的“外滩黑客松·AI Coding大赛”（线上生成式 人工智能 编程马拉松），最终有15577个原创应",
+     "source": "东方财富股票",
+     "zh": "未来智造局 | 编程“出圈”走向大众：AI编程的“中国样本’"
+    },
+    {
+     "title": "优衣库中国店少了，却赚更多了",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891942038.html",
+     "pubDate": "Sat, 10 Oct 2026 17:35:08 +0800",
+     "summary": "最近两三年，优衣库在中国正想用更少的店，卖更多的货，赚更多的钱。 这种转变通常发生在连锁时尚品牌在成熟市场发展到一定阶段后。最近几年，快时尚巨头Zara在中国的策略也是如此。更早之前，优衣库在日本市场也走过这个阶段。 优衣库在中国市场的转折，始于2024财年下半年。这一时期，优衣库在中国大陆市场的营收和利润均下滑。从2024年开始，优衣库母公司迅销集团方面在多次采访和财报会上对外释放信号，表示在中国的经营策略要发生转向，目标是将单店营收提高到与日本优衣库相当的水平。 从最新财报来看，优衣库在中国市场推行的这一改革展现出一定成效，尤其在利润方面有明显修复。 图片来源：界面新闻朱咏玲 在截至202",
+     "source": "东方财富股票",
+     "zh": "优衣库中国店少了，却赚更多了"
+    },
+    {
+     "title": "不敢上场？巴黎智驾大考仅小鹏、特斯拉应战 欧系车企集体缺席",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891941160.html",
+     "pubDate": "Sat, 10 Oct 2026 17:33:29 +0800",
+     "summary": "继新华社荷兰同场实测小鹏与 特斯拉 后，全球领先的两大智能辅助驾驶系统将再次同台竞技。 10月10日，南都·湾财社记者获悉，2026巴黎国际车展开幕在即，本届车展将举办“智驾实验室”公开体验活动，车展观众及媒体可自行申请参与体验。值得注意的是，本次体验活动仅有小鹏与 特斯拉 两家品牌参与。 欧洲品牌为何集体缺席？ “其实巴黎车展官方最初邀请了所有参展车企参加”， 小鹏集团 副总裁于涛此前通过 微博 透露，但知道要接受数百上千家媒体在巴黎城市内实际路况驾驶智驾测试后，只有小鹏和 特斯拉 接受了邀请，“这个确实需要绝对实力，否则可能几十米都开不了”。 有欧洲媒体亦认为，欧洲品牌却集体缺席这一重要展",
+     "source": "东方财富股票",
+     "zh": "不敢上场？巴黎智驾大考仅小鹏、特斯拉应战 欧系车企集体缺席"
+    },
+    {
+     "title": "广西将加快新机具新技术推广 提升糖料蔗生产机械化水平",
+     "link": "http://finance.eastmoney.com/news/1348,202610103891941762.html",
+     "pubDate": "Sat, 10 Oct 2026 17:33:24 +0800",
+     "summary": "中新网南宁10月10日电 广西壮族自治区农业机械化服务中心主任罗朝东9日表示，广西将加快提升糖料蔗生产机械化水平，以2026/2027年榨季糖料蔗总机收率达到15%为目标任务，打好糖料蔗机收攻坚战。 当天，广西农机系统2026/2027年榨季糖料蔗机收工作动员部署视频会议在南宁市召开，罗朝东在会上介绍，2026/2027年榨季即将全面启动，广西将聚焦机具短板弱项，加力推进蔗叶颗粒压制机、甘蔗联合种植机、自走式及悬挂式甘蔗割堆机等项目研发推广，打通机具熟化检验通道，加快新机具新技术推广，推动新一轮补贴政策落地，激发各主体机收积极性。 2025/2026年榨季，广西糖料蔗机收工作取得突破性进展，全",
+     "source": "东方财富股票",
+     "zh": "广西将加快新机具新技术推广 提升糖料蔗生产机械化水平"
+    },
+    {
      "title": "重庆48株400年以上树龄古树有了“司法守护人”",
      "link": "http://www.eeo.com.cn/2026/1010/1060075.shtml",
      "pubDate": "Sat, 10 Oct 2026 17:26:12 +0800",
@@ -2415,54 +2463,6 @@
      "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
      "source": "MarketWatch",
      "zh": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist."
-    },
-    {
-     "title": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract",
-     "link": "https://seekingalpha.com/news/4651897-alignment-healthcare-downgraded-bofa-after-cms-star-rating-ma-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 17:59:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract"
-    },
-    {
-     "title": "Gold snaps two-week losing streak; some analysts say may have found bottom",
-     "link": "https://seekingalpha.com/news/4651893-gold-snaps-two-week-losing-streak-some-analysts-say-may-have-found-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 17:50:04 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gold snaps two-week losing streak; some analysts say may have found bottom"
-    },
-    {
-     "title": "Integra LifeSciences prices $450M in 9.5% secured notes",
-     "link": "https://seekingalpha.com/news/4651896-integra-lifesciences-prices-450m-in-9_5-percent-secured-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 17:38:06 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Integra LifeSciences prices $450M in 9.5% secured notes"
-    },
-    {
-     "title": "Gran Tierra Energy expects $315M cash from $1.33B business sale",
-     "link": "https://seekingalpha.com/news/4651894-gran-tierra-energy-expects-315m-cash-from-133b-business-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 17:35:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gran Tierra Energy expects $315M cash from $1.33B business sale"
-    },
-    {
-     "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
-     "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 21:30:00 GMT",
-     "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
-     "source": "MarketWatch",
-     "zh": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders."
-    },
-    {
-     "title": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%",
-     "link": "http://stock.eastmoney.com/news/11784,202610103891632088.html",
-     "pubDate": "Sat, 10 Oct 2026 05:15:33 +0800",
-     "summary": "美股市场： 美股三大指数10月09日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨423.31点，收于51654.95点，涨幅为0.83%，本周累涨0.93%； 标准普尔 500种股票指数上涨46.18点，收于7811.54点，涨幅为0.59% ，本周累涨1.15% ； 纳斯达克 综合 指数上涨172.83点，收于27366.17点，涨幅为0.64% ，本周累涨0.64 % 。 热门科技股多数上涨， 亚马逊 涨超3%， 微软 、 特斯拉 涨超2%； 苹果 跌超1%，AMD、 英特尔 跌超2%。 有色金属 、加密货币概念股涨幅居前， 南方铜业 涨超5%，Coinbase涨超4%， 必",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%"
     }
    ]
   },
@@ -2505,20 +2505,20 @@
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
-     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
-     "source": "Live Science",
-     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
-    },
-    {
      "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
      "source": "Live Science",
      "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
+    },
+    {
+     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
+     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
+     "source": "Live Science",
+     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

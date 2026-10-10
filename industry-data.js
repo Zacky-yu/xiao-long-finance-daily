@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 10:52:01",
+ "generated_at": "2026/10/10 11:11:59",
  "recent_days": 7,
  "industries": [
   {
@@ -1730,6 +1730,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "数毛社：索尼 PS5 超分技术 QSSR 存适配挑战，旧作游戏支持范围仍待确认",
+     "link": "https://www.ithome.com/1/011/287.htm",
+     "pubDate": "Sat, 10 Oct 2026 03:07:22 GMT",
+     "summary": "IT之家 10 月 10 日消息，数毛社（Digital Foundry）昨日（10 月 9 日）发布视频， 指出适用于 PlayStation 5 标准版的 AI 超分技术 QSSR 能否适配已发售游戏，仍受 SDK 版本限制。 IT之家曾于 10 月 2 日报道，索尼面向标准版 PlayStation 5 游戏主机，推出快速光谱超分辨率（Quick Spectral Super Resolution，QSSR），和索尼 PlayStation 5 Pro 上使用的 PSSR 类似，可以提升输出画面的清晰度。 索尼互动娱乐（SIE）图形研发首席工程师 Daniel Craig 此前称，只需少",
+     "source": "IT之家",
+     "zh": "数毛社：索尼 PS5 超分技术 QSSR 存适配挑战，旧作游戏支持范围仍待确认"
+    },
+    {
+     "title": "OpenAI 公布大批数学研究成果引发学界巨震，学者担忧破坏学术合作传统",
+     "link": "https://www.ithome.com/1/011/285.htm",
+     "pubDate": "Sat, 10 Oct 2026 03:04:36 GMT",
+     "summary": "IT之家 10 月 10 日消息，据《商业内幕》今天（10 日）上午报道，OpenAI 最新公布的大批数学研究成果在学术界引发了不同反应。一些学者为数学研究取得的突破感到振奋，另一些人则开始担忧仍在努力攻克同样难题的研究人员。 纽约大学数学教授特里斯坦 · 巴克马斯特接受 CNBC《Squawk Box》节目采访时称，OpenAI 公布的成果让一些青年数学家的研究工作受到严重冲击：“ 他们一下子放出这么多成果，我们整个研究计划都被毁了 。” 巴克马斯特还提出了另一项担忧：研究人员曾向 AI 工具提交尚未发表的研究材料， 这些内容是否帮助 OpenAI 取得了此次公布的数学成果 ？“你得明白，他",
+     "source": "IT之家",
+     "zh": "OpenAI 公布大批数学研究成果引发学界巨震，学者担忧破坏学术合作传统"
+    },
+    {
+     "title": "“返工第一场调休，我被“不烧心文学”拯救了”",
+     "link": "https://www.huxiu.com/article/4896356.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 11:03:56 +0800",
+     "summary": "本文来自微信公众号： 凤凰WEEKLY ，作者：王动，题图来自：视觉中国 国庆回来第一个调休上班日，办公室集体染上了一种病：烧心。 吃饭说烧心，干活说烧心，连同事间随便聊两句，最后也能拐到烧心。 问工作进度，对方不紧不慢：&ldquo;先把规矩立住。&rdquo; 催得急了，还有一句等着你：&ldquo;不是不做，是慢慢做，做急了容易烧心。&rdquo; 放个假回来，活没少，人均多了一套祖传经营理念。 再打开互联网一看，上班的、上学的、点外卖的、谈恋爱的，都在立规矩、防烧心。 几乎是一夜之间，全网都进入了大烧心时代。 全人类，严肃进入大烧心时代 虽然大家玩梗玩得风生水起，但烧心到底是个什么感觉",
+     "source": "虎嗅",
+     "zh": "“返工第一场调休，我被“不烧心文学”拯救了”"
+    },
+    {
+     "title": "长城魏牌二代蓝山开启咨询，定位“智慧豪华方盒子 SUV”",
+     "link": "https://www.ithome.com/1/011/280.htm",
+     "pubDate": "Sat, 10 Oct 2026 02:56:15 GMT",
+     "summary": "IT之家 10 月 10 日消息，魏牌今日宣布，魏牌二代蓝山咨询通道正式开启，新车定位“智慧豪华方盒子 SUV”，设计豪华、智慧豪华、性能豪华，安全豪华，宣称开启豪华方盒子新标准。 据介绍，魏牌二代蓝山主打“东方豪华”， 尺寸为 5300×2050×1960mm、轴距 3010mm ，轮胎规格 275/50 R21。 新车搭载 2.0T 混动专用发动机 ，匹配 4 挡混动专用变速箱，电机功率为前 110kW、后 220kW，内置 66.6kWh（1/3C）电池。 IT之家附魏牌二代蓝山“曜石黑”车色官图如下： 相关阅读： 《 长城魏牌全新蓝山方盒子 SUV 申报，搭载插电混动系统 》",
+     "source": "IT之家",
+     "zh": "长城魏牌二代蓝山开启咨询，定位“智慧豪华方盒子 SUV”"
+    },
+    {
+     "title": "雅达利时隔 43 年公布 800XL 电脑复刻版，2027 年发货",
+     "link": "https://www.ithome.com/1/011/270.htm",
+     "pubDate": "Sat, 10 Oct 2026 02:52:35 GMT",
+     "summary": "IT之家 10 月 10 日消息，Atari（雅达利）近日宣布推出 1983 年原版 800XL 电脑的现代化复刻版本 。这一机型由 Retro Games 设计，由 PLAION REPLAI 制造和分销，2027 年 4 月 23 日开始发货。 800XL 复刻版集成全尺寸机械键盘，随附 THECXSTICK 摇杆控制器；内置 Atari BASIC 语言，用户可在该平台上进行复古编程。 其兼容雅达利 8-bit PC 软件，内置 25 款游戏，支持卡带、磁盘、磁带镜像，用户还可通过 USB 闪存盘加载自有软件，支持游戏存档与回档。 IT之家获悉，雅达利 800XL 电脑复刻版定价 219",
+     "source": "IT之家",
+     "zh": "雅达利时隔 43 年公布 800XL 电脑复刻版，2027 年发货"
+    },
+    {
+     "title": "最会过日子的年轻人，开始让陌生网友审批花钱",
+     "link": "https://www.huxiu.com/article/4896357.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 10:52:06 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：忞忞一，编辑：L “填写价格、购买理由和替代品，本身就是一种很短暂的自我审视。写购买理由的时候，你必须回答自己，到底为什么需要它；写替代品的时候，又会提醒自己，是不是已经有类似的东西，或者有没有成本更低的解决办法。很多时候，申请还没有提交，冲动已经消退了一半。” 换季时节，衣柜总会迎来新一轮“扩容危机”。最近，刘伽就看上了一条裤子，她已经在脑海里想好了一整套OOTD：配上刚买的新毛衣，应该会成为秋冬衣橱里的常驻单品。 不过，搬家时整理衣物的经历，让她直观地感受到自己的购买欲有多旺盛。那天之后，她给自己定了一条规则：不要再冲动消费。可就像在夜跑时遇上烧烤，规",
+     "source": "虎嗅",
+     "zh": "最会过日子的年轻人，开始让陌生网友审批花钱"
+    },
+    {
+     "title": "养得起父母，却担心没人养我",
+     "link": "https://www.huxiu.com/article/4896355.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 10:50:10 +0800",
+     "summary": "本文来自微信公众号： 三毛的一二事 ，作者：三毛的一二事 昨天看到一条新闻，心里充满久久的无奈与无力。 日本一位75岁的女儿，在照顾105岁母亲长达12年后，最终用一根绳子结束了母亲的生命。案发后她没有逃跑，主动报了警。面对警方询问，她说了一句话：“我已经照顾不动她了。” 12年。从63岁照顾到75岁，一个本该被人照顾的年纪，却还在照顾一个更老的人。这不是什么骇人听闻的极端个案，日本把这种现象叫做“老老介护”——年老的子女照顾更年老的父母。仅2006年到2024年，日本就有至少486名65岁以上的老人，死在了负责照护他们的家人手里。 说实话，我第一反应是同情那位女儿。 然后忍不住往下想——我会",
+     "source": "虎嗅",
+     "zh": "养得起父母，却担心没人养我"
+    },
+    {
      "title": "微软推出 Edge 155 稳定版：增强 AI 标签页整理，支持解码 JPEG XL 图像",
      "link": "https://www.ithome.com/1/011/264.htm",
      "pubDate": "Sat, 10 Oct 2026 02:48:54 GMT",
@@ -1752,38 +1808,6 @@ window.INDUSTRY_DATA = {
      "summary": "Cloudflare : Cloudflare debuts Clef-omni, supporting audio and video input alongside text and image, makes Clef up to 2x faster, and dramatically cuts Clef-flash pricing &nbsp; &mdash;&nbsp; Following last week's release of Clef and Clef-flash, Cloudflare's open-weight decision models, we decided to",
      "source": "Techmeme",
      "zh": "Cloudflare debuts Clef-omni, supporting audio and video input alongside text and image, makes Clef up to 2x faster, and dramatically cuts Clef-flash pricing (Cloudflare)"
-    },
-    {
-     "title": "亚马逊 Leo 已制造超 1000 颗卫星，日产能至少 3~4 颗",
-     "link": "https://www.ithome.com/1/011/239.htm",
-     "pubDate": "Sat, 10 Oct 2026 02:37:18 GMT",
-     "summary": "IT之家 10 月 10 日消息，Amazon（亚马逊）旗下卫星互联网服务 Amazon Leo 当地时间本月 8 日宣布，其已制造超 1000 颗人造地球卫星， 当前日产能至少达 3~4 颗 。 Amazon Leo 的每颗卫星由 400 万个独立部件组成，质量超过 1,000 磅 （约 453.6 千克） 。其在美国华盛顿州 Kirkland 运营着一家超 17.2 万平方英尺 （约 15,979 平方米） 的卫星工厂，拥有超 500 名技术员工， 仅需数天时间即可完成卫星的资格认证工作 。 Amazon Leo 目前 已通过 14 次发射将 396 颗卫星送上天 ，其中 4 颗未能进入预",
-     "source": "IT之家",
-     "zh": "亚马逊 Leo 已制造超 1000 颗卫星，日产能至少 3~4 颗"
-    },
-    {
-     "title": "我国将开展适应人工智能发展促就业行动",
-     "link": "https://www.ithome.com/1/011/238.htm",
-     "pubDate": "Sat, 10 Oct 2026 02:36:54 GMT",
-     "summary": "IT之家 10 月 10 日消息，据新华社报道，国新办今天（10 日）上午举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，我国将开展 适应人工智能发展促就业行动、“技能照亮前程”培训行动、农民工就业促进行动、高品质就业公共服务供给行动以及“人力资源服务 +”融合发展行动 。 据IT之家了解，今年 1 月，人力资源社会保障部就曾提出，我国将实施稳岗扩容提质行动，推出重点行业就业支持举措， 出台应对人工智能影响促就业文件 。强化重点群体就业支持，印发高校毕业生等青年就业文件，出台统筹城乡就业体系意见，建立常态化防止返贫致贫就业帮扶机制。",
-     "source": "IT之家",
-     "zh": "我国将开展适应人工智能发展促就业行动"
-    },
-    {
-     "title": "开源媒体播放器 MPC-HC 2.8.3 发布：引入 Win11 风格主题、原生圆角菜单选项",
-     "link": "https://www.ithome.com/1/011/233.htm",
-     "pubDate": "Sat, 10 Oct 2026 02:35:45 GMT",
-     "summary": "IT之家 10 月 10 日消息，开源媒体播放器 MPC-HC 于 10 月 8 日更新至 2.8.3 版本，新增基于 Windows 11 界面设计的菜单和对话框主题， 并为 Windows 11 提供原生圆角弹出菜单选项。 主题方面，用户可在“选项 > 高级 > ModernThemeStyle”中切换主题，使用符合 Windows 11 风格的现代外观。在 Windows 10 系统上，用户也可以切换 Windows 11 风格主题。使用 Windows 11 的用户还可启用系统原生弹出菜单，呈现圆角效果。 除界面调整外，2.8.3 将 MPC Video Renderer 更新至 0.",
-     "source": "IT之家",
-     "zh": "开源媒体播放器 MPC-HC 2.8.3 发布：引入 Win11 风格主题、原生圆角菜单选项"
-    },
-    {
-     "title": "红魔 12 Pro+ 手机散热结构公布：搭载行业首款超薄航天钢石墨烯、嵌入式复合液态金属 4.0",
-     "link": "https://www.ithome.com/1/011/227.htm",
-     "pubDate": "Sat, 10 Oct 2026 02:33:24 GMT",
-     "summary": "IT之家 10 月 10 日消息，红魔 12 Pro+ 手机将于 10 月 15 日发布，官方今日公布了新机的散热结构。 据介绍，这款新机搭载 行业首款 RGB 水冷散热技术 ，支持自定义 RGB 灯效；采用全新双环流道设计，水冷面积覆盖风道、芯片、电池等核心部件；采用 AI 服务器同款氟化液，全新双晶水冷微泵功耗 20mW，压力 130kPa。 风冷方面，这款新机采用驭风 5.0 新一代散热风扇，首创迷宫防尘结构，支持 IPX8 防水；搭载行业最快转速风扇（25500 r/min），采用贯穿式风道设计，覆盖热源。 这款新机搭载全新升级的 ICE 魔冷散热系统，包含行业首款嵌入式复合液态金属 ",
-     "source": "IT之家",
-     "zh": "红魔 12 Pro+ 手机散热结构公布：搭载行业首款超薄航天钢石墨烯、嵌入式复合液态金属 4.0"
     },
     {
      "title": "2026年小天才崩投资人实操指南",
@@ -1834,30 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Dario Amodei spoke with Meta&apos;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request (Wall Street Journal)"
     },
     {
-     "title": "这个国庆，入境游增速第一，为什么是重庆？",
-     "link": "https://www.huxiu.com/article/4896326.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 09:21:37 +0800",
-     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：趋势研究组 这个国庆，携程的双节入境预订数据里，入境热门城市TOP10，增速第一的是重庆。 其实早在半年前，就有一个颇有影响力的网红美国经济学家Noah Smith写了一篇长文，其实他一直对中国并不友好，但唯独把重庆单独拎出来猛夸了一通。最后他说，自己很想去重庆待一阵。 底下很多人表示有同感。 重庆火，已经火了好些年。 2018年，抖音、头条指数和清华大学的一个城市品牌研究室联合发了份白皮书，重庆的城市形象视频总播放量113.6亿次，是唯一一个过百亿的城市，从此有了“抖音之城”的外号。 然后，去年4月2日，美国网红iShowSpeed，也就是中",
-     "source": "虎嗅",
-     "zh": "这个国庆，入境游增速第一，为什么是重庆？"
-    },
-    {
-     "title": "诺贝尔奖正在把科技带向哪里？",
-     "link": "https://www.huxiu.com/article/4896325.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 09:21:07 +0800",
-     "summary": "本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士 2026年诺贝尔生理学或医学奖授予光遗传学领域的三位科学家。表面上看，这是对一项神经科学革命性技术的迟来确认；如果把它放到基因编辑、人工智能、脑机接口和生命科学工程化的大趋势中观察，它释放出的信号远不止于此。诺贝尔奖奖励的是过去，但它同时也在告诉我们：未来二十年的科技竞争可能走向哪里。 诺贝尔奖最有意思的地方是它奖励的通常是过去，而人们真正应该关注的却是未来。 01 诺贝尔奖正在奖励一种新的科学能力 当地时间10月5日，2026年诺贝尔生理学或医学奖授予Karl Deisseroth、Peter Hegemann和Georg N",
-     "source": "虎嗅",
-     "zh": "诺贝尔奖正在把科技带向哪里？"
-    },
-    {
-     "title": "新车拉高速，到底是毁车还是养车？",
-     "link": "https://www.huxiu.com/article/4896323.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 09:14:09 +0800",
-     "summary": "本文来自微信公众号： 摩托攻略 ，作者：摩托攻略组，原文标题：《新车拉高速，到底是毁车还是养车？90%的新手都被骗了！》，题图来自：视觉中国 刚提新车，总能听到身边的老司机语重心长地丢下一句：&ldquo;出了磨合期，记得去高速上拉一拉，把车透一透，不然以后骑着没劲。&rdquo;这句话仿佛成了机车圈的一条金科玉律。不少新手对此深信不疑，首保刚过就迫不及待地冲上高速公路，把转速拉到红线，美其名曰给发动机做一次深度激活，甚至觉得只有让发动机嘶吼过，这台车才算真正完成了它的成人礼。 但如果你真的这么做了，很可能正在亲手毁掉你爱车的发动机。 要弄明白拉高速到底该不该做，我们得先打破一个根深蒂固的认知",
-     "source": "虎嗅",
-     "zh": "新车拉高速，到底是毁车还是养车？"
-    },
-    {
      "title": "00后“戒断”AI短剧：一个月卸载了5次",
      "link": "https://www.tmtpost.com/8163363.html",
      "pubDate": "Sat, 10 Oct 2026 09:13:39 +0800",
@@ -1901,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "REA Reverse – Engineer Anything",
      "link": "https://rea.tools/",
      "pubDate": "Sat, 10 Oct 2026 00:37:07 +0000",
-     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 106 # Comments: 19",
+     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 122 # Comments: 23",
      "source": "Hacker News",
      "zh": "REA Reverse – Engineer Anything"
     },
@@ -1925,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
      "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
      "pubDate": "Fri, 09 Oct 2026 23:56:55 +0000",
-     "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/ Comments URL: https://news.ycombinator.com/item?id=50028059 Points: 66 # Comments: 24",
+     "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/ Comments URL: https://news.ycombinator.com/item?id=50028059 Points: 71 # Comments: 27",
      "source": "Hacker News",
      "zh": "11 of 23 Core Open Source Projects Run on 1 or 2 People"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
      "link": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
      "pubDate": "Fri, 09 Oct 2026 23:32:04 +0000",
-     "summary": "Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf Comments URL: https://news.ycombinator.com/item?id=50027884 Points: 11 # Comments: 1",
+     "summary": "Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf Comments URL: https://news.ycombinator.com/item?id=50027884 Points: 11 # Comments: 2",
      "source": "Hacker News",
      "zh": "The logarithms of rational numbers have irrationality exponent 2 [pdf]"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Compiling Rust to readable C with Eurydice",
      "link": "https://lwn.net/Articles/1055211/",
      "pubDate": "Fri, 09 Oct 2026 23:28:36 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 27 # Comments: 2",
+     "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 28 # Comments: 2",
      "source": "Hacker News",
      "zh": "Compiling Rust to readable C with Eurydice"
     },
@@ -2226,28 +2226,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "*ST闻泰在无锡成立半导体公司",
-     "link": "http://finance.eastmoney.com/news/1349,202610103891860710.html",
-     "pubDate": "Sat, 10 Oct 2026 10:41:34 +0800",
-     "summary": "企查查APP显示，近日，闻世芯（无锡） 半导体 有限责任公司成立，法定代表人为杨沐，注册资本为1000万元，经营范围包含： 电子 元器件制造； 电力 电子 元器件制造； 半导体 器件 专用设备 制造；集成电路芯片及产品制造等。企查查股权穿透显示，该公司由 *ST闻泰 间接全资持股。 （文章来源：人民财讯）",
+     "title": "补贴50%！普陀拟出台算力扶持新政 “海纳智算”Token平台同步落户",
+     "link": "http://finance.eastmoney.com/news/1355,202610103891864320.html",
+     "pubDate": "Sat, 10 Oct 2026 11:02:21 +0800",
+     "summary": "10月9日，上海市文旅 大数据 创新实验室揭幕暨 “海纳智算” Token 平台正式落户普陀，记者从揭幕仪式上获悉，普陀区当前正在研究数字广告专项扶持政策，拟对企业算力使用实施补贴，数字广告企业补贴最高可达50%。 合规数据赋能产业治理 上海市文旅 大数据 创新实验室，是市文旅局发起、市数据局批复设立的市级科研创新平台，落址海纳数创中心，由上海市文化和旅游数智发展中心与上海蔚蓝数创数字科技有限公司共同承建，瞄准行业长期存在的 “数据孤岛”“决策滞后”“赋能不足”“价值难测” 等痛点开展攻关。 实验室将通过 “小试—中试—转化” 路径，推进政务、公共、企业 数据安全 合规融合，聚焦文旅 大数据 ",
      "source": "东方财富股票",
-     "zh": "*ST闻泰在无锡成立半导体公司"
+     "zh": "补贴50%！普陀拟出台算力扶持新政 “海纳智算”Token平台同步落户"
     },
     {
-     "title": "美国国家飓风中心：“西蒙”已成为强飓风，保护生命和财产的准备工作应接近完成",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891860669.html",
-     "pubDate": "Sat, 10 Oct 2026 10:40:30 +0800",
-     "summary": "美国国家飓风中心：“西蒙”已成为强飓风，保护生命和财产的准备工作应接近完成。 （文章来源：金十数据快讯）",
+     "title": "SpaceX收购频谱引发业内外关注 竞争对手反击称蚍蜉撼树",
+     "link": "http://finance.eastmoney.com/news/1360,202610103891864863.html",
+     "pubDate": "Sat, 10 Oct 2026 10:59:34 +0800",
+     "summary": "SpaceX 购买了美国数字基础设施投资公司Grain Management，其中包含14MHz的低频段频谱，这在某种程度上弥补了其打造移动产品道路上最大的技术缺口。 受此消息影响，美国三大 电信运营商 AT&T、T-Mobile和Verizon的股价在过去两个交易日内大幅下跌，而Grain Management的股票则经历了抢购狂潮。 华尔街认为， SpaceX 的频谱交易将为 SpaceX 与任何移动虚拟网络运营商的谈判提供有利条件，但该公司想要打造一款直接面向消费者的移动设备，还有一段很长的路要走。 T-Mobile首席技术官John Saw近日在一篇文章中指出，SpaceX收购的800",
      "source": "东方财富股票",
-     "zh": "美国国家飓风中心：“西蒙”已成为强飓风，保护生命和财产的准备工作应接近完成"
+     "zh": "SpaceX收购频谱引发业内外关注 竞争对手反击称蚍蜉撼树"
     },
     {
-     "title": "山姆拟锁死亲友卡换绑：一年限绑两名主卡，剑指黄牛还是误伤会员？",
-     "link": "http://finance.eastmoney.com/news/1373,202610103891860838.html",
-     "pubDate": "Sat, 10 Oct 2026 10:40:01 +0800",
-     "summary": "山姆为何选择在此时“动刀”？ 10月9日，山姆会员商店在App发布《山姆会员商店会员章程》更新征求意见，拟对亲友卡绑定次数施加硬性限制。根据征求意见稿， 自首次激活亲友卡之日起每365天，该亲友卡关联的实名身份信息仅能用于激活两名个人主卡会员的亲友卡，且每次仅能激活一名个人主卡会员的亲友卡。 征求意见期为7天，期满如无更改，新章程将于2026年10月16日生效。 这意味着，同一个人的实名信息，每365天最多只能绑定两张山姆亲友卡，并且同一时间只能挂靠在一张主卡之下。 在此之前，山姆会员只需先解绑旧卡，同一身份信息便可无限次反复激活不同主卡的亲友卡， 这一规则空白长期为“黄牛”倒卖、频繁流转出租",
+     "title": "特朗普宣布新任命",
+     "link": "http://finance.eastmoney.com/news/11790,202610103891864638.html",
+     "pubDate": "Sat, 10 Oct 2026 10:58:53 +0800",
+     "summary": "美国总统特朗普9日在社交媒体上宣布，任命保守派评论员凯蒂·扎卡里亚出任白宫新闻秘书，接替离职的卡罗琳·莱维特。 特朗普介绍说，扎卡里亚目前是 特朗普媒体科技集团 旗下“真实社交”网站的高级通讯顾问，“表现出色”，曾协助他在关键摇摆州的竞选中取得胜利。 特朗普说，扎卡里亚曾任国土安全部发言人兼公共事务副助理部长，经常在福克斯新闻频道、大全新闻网等保守派媒体担任评论员。 白宫新闻秘书这一职务在莱维特8月底离职后一直空缺。 （文章来源：中国基金报）",
      "source": "东方财富股票",
-     "zh": "山姆拟锁死亲友卡换绑：一年限绑两名主卡，剑指黄牛还是误伤会员？"
+     "zh": "特朗普宣布新任命"
+    },
+    {
+     "title": "事关白宫官员任命！美预测市场又现内幕交易？",
+     "link": "http://global.eastmoney.com/news/1959,202610103891862692.html",
+     "pubDate": "Sat, 10 Oct 2026 10:58:41 +0800",
+     "summary": "当地时间周五，预测市场平台Kalshi表示，已就其平台上关于新任白宫新闻秘书人选的一系列可疑交易展开调查。 Kalshi一位发言人表示，该公司正在调查平台上的一系列交易，这些交易提前预测到了特朗普将任命保守派评论员凯蒂·扎卡里亚(Katie Zacharia)出任白宫新闻秘书，接替离职的卡罗琳·莱维特。 白宫新闻秘书这一职务在莱维特8月底离职后一直空缺。美东时间周五下午2点左右，部分美国媒体率先开始报道扎卡里亚已被选定为下一任白宫新闻秘书。而 在此之前，至少有三笔金额不大、但下单时机异常精准的押注被提交，下注者有望从中获利数千美元。 据业内人士对Kalshi数据的分析显示，其中一笔19美元的押",
+     "source": "东方财富股票",
+     "zh": "事关白宫官员任命！美预测市场又现内幕交易？"
+    },
+    {
+     "title": "美国国土安全部批准佛罗里达州和阿拉巴马州进入紧急状态",
+     "link": "http://global.eastmoney.com/news/1959,202610103891864517.html",
+     "pubDate": "Sat, 10 Oct 2026 10:57:27 +0800",
+     "summary": "美国国土安全部部长表示，受飓风“伊萨亚斯”影响，已批准佛罗里达州和阿拉巴马州进入紧急状态。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国国土安全部批准佛罗里达州和阿拉巴马州进入紧急状态"
+    },
+    {
+     "title": "小米智造基金拟1亿元入股苏州科阳 后者已布局光电封装与晶圆测试",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891864729.html",
+     "pubDate": "Sat, 10 Oct 2026 10:57:00 +0800",
+     "summary": "南方财经10月10日电，10月9日晚， 大港股份 公告称，北京小米智造股权投资基金合伙企业（有限合伙）与上海 半导体 材料基金二期组成联合体，以2亿元竞得苏州科阳 半导体 有限公司16%股权，双方拟各出资1亿元受让8%股权。交易尚需股东会审议和国资主管部门审批。据天眼查显示，苏州科阳申请的“一种光电封装结构及其封装方法”发明专利于今年6月公开，目前处于实质审查阶段。该公司与西安 电子 科技大学共同申请的“一种晶圆级声学功能测试方法与支撑衬底”发明专利，于今年7月获授权。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "小米智造基金拟1亿元入股苏州科阳 后者已布局光电封装与晶圆测试"
+    },
+    {
+     "title": "在中国引入伙伴，在美国考虑收购：星巴克的增长算盘变了？",
+     "link": "http://www.eeo.com.cn/2026/1010/1059393.shtml",
+     "pubDate": "Sat, 10 Oct 2026 10:43:51 +0800",
+     "summary": "作者 戴莉娟 一边在中国引入本土合作伙伴，一边在美国被曝考虑收购大型餐饮连锁，星巴克正在探索不同的增长路径。 据《金融时报》报道，星巴克曾探索收购美国墨西哥风味快休闲餐饮连锁奇波雷（Chipotle），并在近几个月与顾问合作研究收购方案。目前，相关讨论仍处于早期阶段，尚无已提出正式报价的确认消息。 <p class=\"ql-align-...",
+     "source": "经济观察网",
+     "zh": "在中国引入伙伴，在美国考虑收购：星巴克的增长算盘变了？"
+    },
+    {
+     "title": "截至9月底 我国基本养老保险参保人数达10.79亿人",
+     "link": "http://www.eeo.com.cn/2026/1010/1059390.shtml",
+     "pubDate": "Sat, 10 Oct 2026 10:41:14 +0800",
+     "summary": "截至9月底，全国基本养老保险、失业保险、工伤保险（含职业伤害保障）参保人数分别达到10.79亿人、2.51亿人、3.27亿人，三项社会保险基金累计结余11.2万亿元。",
+     "source": "经济观察网",
+     "zh": "截至9月底 我国基本养老保险参保人数达10.79亿人"
     },
     {
      "title": "新任重庆市委常委徐建任两江新区区委书记",
@@ -2256,30 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "中国经济网重庆10月10日综合报道 据重庆市政府网站“市政府领导”栏目更新显示，徐建任重庆市委常委，市政府副市长、党组成员，两江新区区委书记。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/FDEACB54FACC07870885712E6BBC5663.png\" width=\"240\" data-uploadpic=\"U020261010305436426937_ORIGIN.png\" needdownload=\"true\" data-needdownload=\"true\" title=",
      "source": "经济观察网",
      "zh": "新任重庆市委常委徐建任两江新区区委书记"
-    },
-    {
-     "title": "工行蚌埠分行被罚45万，涉员工管理不到位",
-     "link": "http://stock.eastmoney.com/news/11219,202610103891860055.html",
-     "pubDate": "Sat, 10 Oct 2026 10:37:26 +0800",
-     "summary": "蓝鲸新闻10月10日讯，近日，国家金融监督管理总局蚌埠监管分局发布行政处罚决定书，剑指中国 工商银行 股份有限公司蚌埠分行及相关责任人。 罚单显示，中国 工商银行 股份有限公司蚌埠分行的主要违法违规行为是：员工行为管理不到位。 针对上述违法行为，国家金融监督管理总局蚌埠监管分局对中国 工商银行 股份有限公司蚌埠分行罚款45万元；对丁扬禁止从事 银行 业工作21年，对彭小东、孙辉、陈文卿警告并处罚款6万元。 （文章来源：蓝鲸财经）",
-     "source": "东方财富股票",
-     "zh": "工行蚌埠分行被罚45万，涉员工管理不到位"
-    },
-    {
-     "title": "九江银行宜春分行被罚45万，涉虚列开支套取费用",
-     "link": "http://hk.eastmoney.com/news/11362,202610103891859979.html",
-     "pubDate": "Sat, 10 Oct 2026 10:37:26 +0800",
-     "summary": "蓝鲸新闻10月10日讯，近日，国家金融监督管理总局宜春监管分局发布行政处罚决定书，剑指 九江银行 股份有限公司宜春分行及相关责任人。 罚单显示， 九江银行 股份有限公司宜春分行的主要违法违规行为是：虚列开支套取费用。 针对上述违法行为，国家金融监督管理总局宜春监管分局对 九江银行 股份有限公司宜春分行罚款45万元；对王万里禁止7年从事 银行 业工作；对涂艳玲给予警告。 （文章来源：蓝鲸财经）",
-     "source": "东方财富股票",
-     "zh": "九江银行宜春分行被罚45万，涉虚列开支套取费用"
-    },
-    {
-     "title": "农行五支行共被罚165万，涉贷后管理不到位",
-     "link": "http://stock.eastmoney.com/news/11219,202610103891860150.html",
-     "pubDate": "Sat, 10 Oct 2026 10:37:25 +0800",
-     "summary": "蓝鲸新闻10月10日讯，近日，国家金融监督管理总局揭阳监管分局发布行政处罚决定书，剑指中国 农业银行 股份有限公司揭阳揭东支行、中国 农业银行 股份有限公司普宁市支行、中国 农业银行 股份有限公司揭阳 天福 支行、中国 农业银行 股份有限公司普宁南径支行、中国 农业银行 股份有限公司揭西县支行及相关责任人。 罚单显示，上述五家支行的主要违法违规行为是：贷后管理不到位。 针对上述违法行为，国家金融监督管理总局揭阳监管分局对中国 农业银行 股份有限公司揭阳揭东支行罚款50万元，对中国农业 银行 股份有限公司普宁市支行罚款25万元，对中国农业 银行 股份有限公司揭阳 天福 支行罚款25万元，对中国农",
-     "source": "东方财富股票",
-     "zh": "农行五支行共被罚165万，涉贷后管理不到位"
     },
     {
      "title": "2026年1至9月我国城镇新增就业1052万人",
@@ -2306,14 +2322,6 @@ window.INDUSTRY_DATA = {
      "zh": "记者观察：文旅正成湖北县域“溢价锚点”"
     },
     {
-     "title": "21社论丨明确权责边界，让企业和新就业形态劳动者共赢发展",
-     "link": "http://www.eeo.com.cn/2026/1010/1059338.shtml",
-     "pubDate": "Sat, 10 Oct 2026 10:13:10 +0800",
-     "summary": "近日，人力资源社会保障部发布《新就业形态劳动者权益保障办法（征求意见稿）》（以下简称“征求意见稿”），向社会公开征求意见。这是我国首次以部门规章形式，将新就业形态劳动者纳入劳动法律制度保障。 近年来，我国依托互联网平台就业的新就业形态劳动者持续增长，已成为劳动就业的重要组成部分。由于平台企业用工形式和新就业形态就业方式相对灵活、复杂多样，难以直接适用现行劳动法律，权益保障面临新情况新问题。...",
-     "source": "经济观察网",
-     "zh": "21社论丨明确权责边界，让企业和新就业形态劳动者共赢发展"
-    },
-    {
      "title": "跟跌不跟涨！白银陷入困境",
      "link": "https://wallstreetcn.com/articles/3783312",
      "pubDate": "Sat, 10 Oct 2026 10:09:28 +0800",
@@ -2328,14 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
      "source": "CNBC",
      "zh": "Trump&apos;s diesel agreement with Putin accused of contradicting Russia sanctions law"
-    },
-    {
-     "title": "【环球财经】纽约金价9日上涨 触及一周高位",
-     "link": "http://www.eeo.com.cn/2026/1010/1059307.shtml",
-     "pubDate": "Sat, 10 Oct 2026 09:52:11 +0800",
-     "summary": "新华财经纽约10月9日电（记者徐静）纽约商品交易所黄金期货市场交投最活跃的2026年12月黄金期价9日上涨1.52%，收于每盎司4220.3美元，触及一周高位。 因美元走软、美国国债收...",
-     "source": "经济观察网",
-     "zh": "【环球财经】纽约金价9日上涨 触及一周高位"
     },
     {
      "title": "万亿估值背后的“数字口径游戏”：OpenAI与Anthropic的营收竟然无法直接比较",
@@ -2429,7 +2429,7 @@ window.INDUSTRY_DATA = {
      "title": "Trump agrees deal with Putin for Russia to release diesel",
      "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
      "pubDate": "Fri, 09 Oct 2026 22:06:22 GMT",
-     "summary": "Pact between Washington and Moscow comes just weeks before critical midterm elections in the US",
+     "summary": "Pact between Washington and Moscow comes just weeks before critical US midterm elections",
      "source": "Financial Times",
      "zh": "Trump agrees deal with Putin for Russia to release diesel"
     },
@@ -2498,20 +2498,20 @@ window.INDUSTRY_DATA = {
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
-     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
-     "source": "Live Science",
-     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
-    },
-    {
      "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
      "source": "Live Science",
      "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
+    },
+    {
+     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
+     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
+     "source": "Live Science",
+     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

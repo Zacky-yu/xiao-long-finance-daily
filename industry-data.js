@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 16:32:09",
+ "generated_at": "2026/10/10 16:47:04",
  "recent_days": 7,
  "industries": [
   {
@@ -258,14 +258,6 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "Jury still out in Qualcomm vs Arm case",
-     "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
-     "pubDate": "Sat, 10 Oct 2026 07:20:41 +0000",
-     "summary": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Jury still out in Qualcomm vs Arm case"
-    },
-    {
      "title": "Phison posts record September revenue as AI tops half of sales",
      "link": "https://www.digitimes.com/news/a20261008PD250/phison-revenue-demand-data-medical.html",
      "pubDate": "Sat, 10 Oct 2026 06:30:11 GMT",
@@ -338,36 +330,12 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
-     "title": "Defence satcom revenues to surpass $23bn by 2035",
-     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
-     "source": "Electronics Weekly",
-     "zh": "Defence satcom revenues to surpass $23bn by 2035"
-    },
-    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
-    },
-    {
-     "title": "Axiom Space highlights space computing progress",
-     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
-     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
-     "source": "Electronics Weekly",
-     "zh": "Axiom Space highlights space computing progress"
-    },
-    {
-     "title": "The Single-Chip PC",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
-     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -384,22 +352,6 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
-    },
-    {
-     "title": "Failure analysis in the era of 3D integration",
-     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
-     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Failure analysis in the era of 3D integration"
-    },
-    {
-     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
-     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
-     "source": "Electronics Weekly",
-     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
+    },
+    {
+     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
+     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
+     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
+     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
+    },
+    {
+     "title": "Shift Left Complicates Fab Data Management",
+     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
+     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
+     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Shift Left Complicates Fab Data Management"
+    },
+    {
+     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
+     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Sunbooster secures European patent for bifacial photovoltaic fences",
+     "link": "https://www.pv-magazine.com/2026/10/10/sunbooster-secures-european-patent-for-bifacial-photovoltaic-fences/",
+     "pubDate": "Sat, 10 Oct 2026 08:30:00 +0000",
+     "summary": "Austrian company Sunbooster has secured a European patent for its bifacial solar fence technology, now protected in 18 EU member states. The company is expanding into France, where it has completed its first 3.7 kW installation using vertically mounted PV strips with a reported efficiency of 22.8%. ",
+     "source": "pv magazine",
+     "zh": "Sunbooster secures European patent for bifacial photovoltaic fences"
+    },
+    {
      "title": "Why leadership decides Italy’s energy security",
      "link": "https://www.pv-magazine.com/2026/10/10/beyond-gigawatts-why-leadership-decides-italys-energy-security/",
      "pubDate": "Sat, 10 Oct 2026 08:00:00 +0000",
@@ -896,14 +904,6 @@ window.INDUSTRY_DATA = {
      "summary": "Australia has endorsed a global plan to double the number of homes in the world with rooftop solar, from 150 to 300 million by 2030 via the Global Rooftop Solar Declaration announced at the 2026 Pacific Pre-COP meeting in Fiji. The post Australia backs goal of 150 million new rooftop solar systems g",
      "source": "pv magazine",
      "zh": "Australia backs goal of 150 million new rooftop solar systems globally by 2030"
-    },
-    {
-     "title": "Can Beijing end the race to the bottom?",
-     "link": "https://www.pv-magazine.com/2026/10/10/can-beijing-end-the-race-to-the-bottom/",
-     "pubDate": "Sat, 10 Oct 2026 04:00:00 +0000",
-     "summary": "China is tightening the rules of solar competition through cost accounting, mandatory efficiency standards, tax changes and capacity controls. The real test is not whether prices rise, but whether excess capacity is removed and the industry can return to sustainable profitability without losing its ",
-     "source": "pv magazine",
-     "zh": "Can Beijing end the race to the bottom?"
     },
     {
      "title": "Why Record Crude Output Can’t Solve America’s Diesel Crisis",
@@ -1730,6 +1730,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "2027 款长安启源 A06 家轿上市：CLTC 800km 纯电续航、800V 碳化硅高压平台，限时 11.69 万元起",
+     "link": "https://www.ithome.com/1/011/429.htm",
+     "pubDate": "Sat, 10 Oct 2026 08:42:44 GMT",
+     "summary": "IT之家 10 月 10 日消息，2027 款长安启源 A06 家轿今日正式上市，主打“听劝升级”，搭载 800V 碳化硅高压平台、全系标配宁德时代，拥有 CLTC 800km 纯电续航，限时权益价 11.69 万元起。 2027 款长安启源 A06 各版本价格如下： 800 激光旗舰版：官方指导价 15.99 万元、限时权益价 15.69 万元； 800 激光远航版：官方指导价 14.99 万元、限时权益价 14.69 万元； 630 激光耀享版：官方指导价 13.99 万元、限时权益价 13.69 万元； 630 尊享版：官方指导价 12.99 万元、限时权益价 12.69 万元； 630",
+     "source": "IT之家",
+     "zh": "2027 款长安启源 A06 家轿上市：CLTC 800km 纯电续航、800V 碳化硅高压平台，限时 11.69 万元起"
+    },
+    {
+     "title": "Current and former employees say TikTok US still coordinates closely with the global TikTok org, and US staff continue to use ByteDance&apos;s internal chat app Lark (Sylvia Varnham O&apos;Regan/Politico)",
+     "link": "https://www.techmeme.com/261010/p9#a261010p9",
+     "pubDate": "Sat, 10 Oct 2026 04:40:01 -0400",
+     "summary": "Sylvia Varnham O'Regan / Politico : Current and former employees say TikTok US still coordinates closely with the global TikTok org, and US staff continue to use ByteDance's internal chat app Lark &nbsp; &mdash;&nbsp; In the months before TikTok finalized a deal to sell its U.S. operations to a grou",
+     "source": "Techmeme",
+     "zh": "Current and former employees say TikTok US still coordinates closely with the global TikTok org, and US staff continue to use ByteDance&apos;s internal chat app Lark (Sylvia Varnham O&apos;Regan/Politico)"
+    },
+    {
+     "title": "游戏机，越卖越贵",
+     "link": "https://www.huxiu.com/article/4896447.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 16:35:14 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：李莹 AI数据中心大举抢占存储芯片产能，游戏机成本与售价水涨船高，美国游戏硬件消费明显降温。距年度大作《GTA6》发售仅剩约一个月，高价游戏机是否会劝退观望中的玩家，成为行业焦点。 据媒体当地时间10月9日报道，美国市场研究机构Circana的数据显示，美国8月游戏硬件销量同比下降15%，为13年来同期最低水平。从金额看，8月美国游戏硬件支出同比下降3%，年初至今累计下降11%。 颓势早在夏季就已显现。据Circana此前公布的数据，7月美国游戏硬件支出同比下降29%，售出的全新游戏机平均售价同比上涨16%。 据媒体报道，游戏机的成本压力主要来自存储芯片。",
+     "source": "虎嗅",
+     "zh": "游戏机，越卖越贵"
+    },
+    {
      "title": "提个暴论：让平台承担商家“仅退款”维权费",
      "link": "https://www.huxiu.com/article/4896445.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 16:28:29 +0800",
@@ -1802,20 +1826,20 @@ window.INDUSTRY_DATA = {
      "zh": "烟威 1000 千伏特高压工程竣工投产，核电送往山东全省"
     },
     {
-     "title": "IMF：如应用得当，人工智能可以使全球经济年增速提高 0. 5 个百分点",
-     "link": "https://www.ithome.com/1/011/407.htm",
-     "pubDate": "Sat, 10 Oct 2026 08:03:59 GMT",
-     "summary": "IT之家 10 月 10 日消息，国际货币基金组织 (IMF) 总裁克里斯塔利娜 · 格奥尔基耶娃在本月 7 日的一篇题为《在持续变化世界经济的纵横激流中稳舵前行》的演讲稿强调了人工智能的对全球经济的影响。 格奥尔基耶娃表示，人工智能带来的正向需求冲击正与地缘政治引发的能源供给负面冲击一道拉扯全球经济，而这两股力量的总体影响在全球范围内分布极不均衡。 全球用于人工智能的投资占 GDP 的比重将达到并很可能超过当年建设铁路、电网和通信网络时的投资水平。IMF 预计 人工智能硬件及相关技术产品如今已占到全球货物贸易总额的十分之一以上 ，且这一比重还在持续上升。 IMF 研究表明，如果运用得当，随着",
-     "source": "IT之家",
-     "zh": "IMF：如应用得当，人工智能可以使全球经济年增速提高 0. 5 个百分点"
-    },
-    {
      "title": "AI出行大时代的东风渐起",
      "link": "https://www.tmtpost.com/8163314.html",
      "pubDate": "Sat, 10 Oct 2026 16:00:51 +0800",
      "summary": "AI驱动出行革新，网约车行业迈入智能化新时代。",
      "source": "钛媒体",
      "zh": "AI出行大时代的东风渐起"
+    },
+    {
+     "title": "全球 PC 出货量三季度暴跌逾 20%",
+     "link": "https://www.solidot.org/story?sid=85572",
+     "pubDate": "Sat, 10 Oct 2026 15:53:37 +0800",
+     "summary": "因 AI 热导致内存和存储器价格暴涨，全球 PC 出货量三季度暴跌逾 20%。Omdia 的最新数据显示 2026 年第三季度全球台式机、笔记本电脑和工作站的总出货量同比下降 21.2% 至 5810 万台。IDC 的数据类似估计出货量下降 20.1% 至 6270 万台。IDC 指出，全球 PC 第三季度出货量比第二季度下降了 9.1%，违背了通常的季节性规律——即开学季需求会提振 PC 市场。Omdia 估计，由于价格上涨了四倍多，内存和 SSD 的成本已占到 PC 零部件总成本的近 40%，此前这一比例仅为 15% 左右。处理器、显卡等的短缺也进一步加剧了 PC 制造商的困境。行业各大巨",
+     "source": "Solidot",
+     "zh": "全球 PC 出货量三季度暴跌逾 20%"
     },
     {
      "title": "VC困在港股里",
@@ -1834,12 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "这届AI PC，太烧心了"
     },
     {
-     "title": "乐刻的全球第四，和中国健身房的“大国悖论”",
-     "link": "https://www.huxiu.com/article/4896432.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 15:41:49 +0800",
-     "summary": "本文来自微信公众号： 健厂 ，作者：健厂 美国健康与健身协会（Health&Fitness Association，HFA）近日发布的《2026全球健身报告》（2026 HFA Global Report），呈现了两个截然不同的中国。 在国家市场统计中，中国商业健身场馆的会员渗透率只有3.6%。美国是26.1%，澳大利亚23%，韩国12.2%，日本9.5%。在报告列出的亚太主要市场中，中国只高于印度的0.9%。 翻到全球健身连锁榜单，中国企业却已经跻身前列。 按会员数量，乐刻（HILEFIT）以1700万会员位列全球第二，仅次于拥有2080万会员的Planet Fitness；坚蛋运动以150",
-     "source": "虎嗅",
-     "zh": "乐刻的全球第四，和中国健身房的“大国悖论”"
+     "title": "Cloudflare 公共 DNS 服务不需屏蔽盗版网站域名",
+     "link": "https://www.solidot.org/story?sid=85571",
+     "pubDate": "Sat, 10 Oct 2026 15:30:38 +0800",
+     "summary": "Cloudflare 的公共 DNS 解析服务 1.1.1.1 没有屏蔽盗版体育直播网站的域名，而是通过其 CDN 服务屏蔽相关网站。巴黎司法法院（Paris Judicial Court）站在了 Cloudflare 这边，驳回了法国付费电视提供商 Canal+ 提出的每个盗版网站日罚 5 万欧元的索赔要求。Canal+ 仍然可以对此提起上诉。Cloudflare 通过其透明度报告披露，虽然收到了法国和意大利法院的命令，但它没有通过 1.1.1.1 屏蔽任何内容，而是通过其 CDN 服务在 2025 年下半年于法国对 1,238 个域名实施了地理封锁，上半年根据七项命令封锁了 662 个域名",
+     "source": "Solidot",
+     "zh": "Cloudflare 公共 DNS 服务不需屏蔽盗版网站域名"
     },
     {
      "title": "A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share (Bloomberg)",
@@ -1893,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Computers Cannot Make Decisions",
      "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
      "pubDate": "Sat, 10 Oct 2026 05:47:46 +0000",
-     "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 25 # Comments: 16",
+     "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 32 # Comments: 21",
      "source": "Hacker News",
      "zh": "Computers Cannot Make Decisions"
     },
@@ -1901,17 +1925,9 @@ window.INDUSTRY_DATA = {
      "title": "Food processing influences metabolism and brain activity",
      "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
      "pubDate": "Sat, 10 Oct 2026 05:22:30 +0000",
-     "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 10 # Comments: 5",
+     "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 14 # Comments: 6",
      "source": "Hacker News",
      "zh": "Food processing influences metabolism and brain activity"
-    },
-    {
-     "title": "Sources: Anthropic&apos;s AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
-     "link": "https://www.techmeme.com/261010/p3#a261010p3",
-     "pubDate": "Sat, 10 Oct 2026 01:20:01 -0400",
-     "summary": "New York Times : Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed &nbsp; &mdash;&nbsp; The Philadelphia Police Department said the agents had also sent in a false homicide tip.&nbsp; The in",
-     "source": "Techmeme",
-     "zh": "Sources: Anthropic&apos;s AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)"
     },
     {
      "title": "LG Promo Codes and Coupons for October 2026",
@@ -1930,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "30% Off Canon Promo Codes | October 2026"
     },
     {
-     "title": "Home Depot Promo Codes: 30% Off in October 2026",
-     "link": "https://www.wired.com/story/home-depot-promo-code/",
-     "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000",
-     "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-     "source": "WIRED",
-     "zh": "Home Depot Promo Codes: 30% Off in October 2026"
-    },
-    {
      "title": "Disney Plus Discount Codes: 52% Off October 2026",
      "link": "https://www.wired.com/story/disney-plus-discounts/",
      "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000",
@@ -1946,28 +1954,20 @@ window.INDUSTRY_DATA = {
      "zh": "Disney Plus Discount Codes: 52% Off October 2026"
     },
     {
+     "title": "Home Depot Promo Codes: 30% Off in October 2026",
+     "link": "https://www.wired.com/story/home-depot-promo-code/",
+     "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000",
+     "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
+     "source": "WIRED",
+     "zh": "Home Depot Promo Codes: 30% Off in October 2026"
+    },
+    {
      "title": "Altra Running Promo Codes: 10% Off October 2026",
      "link": "https://www.wired.com/story/altra-promo-code/",
      "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000",
      "summary": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
      "source": "WIRED",
      "zh": "Altra Running Promo Codes: 10% Off October 2026"
-    },
-    {
-     "title": "eBay Coupons: 20% Off in October 2026",
-     "link": "https://www.wired.com/story/ebay-coupon-code/",
-     "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000",
-     "summary": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
-     "source": "WIRED",
-     "zh": "eBay Coupons: 20% Off in October 2026"
-    },
-    {
-     "title": "天津，一座被低估的AI基建重镇",
-     "link": "https://www.tmtpost.com/8163595.html",
-     "pubDate": "Sat, 10 Oct 2026 12:06:59 +0800",
-     "summary": "低调的天津从来不只是“注册地”，更是科技产业链上的共建者和押注者",
-     "source": "钛媒体",
-     "zh": "天津，一座被低估的AI基建重镇"
     }
    ]
   },
@@ -2226,44 +2226,28 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "激战228轮，杭州西湖边一独栋别墅2.88亿成交，溢价率71.43%",
-     "link": "http://www.eeo.com.cn/2026/1010/1059952.shtml",
-     "pubDate": "Sat, 10 Oct 2026 16:13:17 +0800",
-     "summary": "本文来源：时代财经 10月10日，有“亚洲十大豪宅之一”之称的杭州九溪玫瑰园东区天怡苑23号别墅在阿里拍卖平台公开拍卖，起拍价1.68亿元，一共吸引5名买家参与竞拍，超5.5万次围观。 4名竞买人激战228轮，最终竞买号为F2022的买家胜出，以2.88亿元竞得天怡苑23号别墅，溢价率71.43%。 <p class=\"imgswarp nw_editor nw_img time-article-imgText-box nw_editor nw_img\" contenteditable=\"true\" id=\"imgTextBox_...",
-     "source": "经济观察网",
-     "zh": "激战228轮，杭州西湖边一独栋别墅2.88亿成交，溢价率71.43%"
+     "title": "“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代",
+     "link": "https://wallstreetcn.com/articles/3783326",
+     "pubDate": "Sat, 10 Oct 2026 16:35:34 +0800",
+     "summary": "在AI重塑全球算力版图的当下，前英特尔CEO Pat Gelsinger一针见血地指出：AI让芯片设计变得简单，但制造、内存与能源的物理瓶颈正引发一场史无前例的硬件复兴。 10月9日，硅谷创投机构a16z 播出一期深度访谈节目。在对谈中，Playground Global普通合伙人、前英特尔CEO Pat Gelsinger与a16z的Raghu Raghuram、Guido Appenzeller展开了一场跨越芯片设计、存储创新、光互联、能源瓶颈乃至AI代理（Agent）基础设施的深度讨论。这位亲手设计了英特尔386和486处理器、见证了现代EDA行业诞生的芯片老兵，以其数十年的一线经验，为",
+     "source": "华尔街见闻",
+     "zh": "“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代"
     },
     {
-     "title": "世界精神卫生日｜“悲秋”“恋秋”是正常情绪波动还是心理疾病？ 专家：出现这些信号需干预",
-     "link": "http://www.eeo.com.cn/2026/1010/1059950.shtml",
-     "pubDate": "Sat, 10 Oct 2026 16:13:15 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 唐雨）重庆市气候中心最新监测数据显示，全市各区县已经全部入秋。秋季是情绪容易产生变化的季节。近日，“悲秋综合征”“恋秋综合征”相关话题在社交平台引发讨论。一个秋天为何会产生两种心境？出现哪些情绪信号需及时就医？10月10日世界精神卫生日，来听重医附一院的专家怎么说。 “秋天一到，闻着桂花香，吃着烤红薯，吹吹江风就觉得好幸福”“秋天和家人一起散散步，再来杯热奶茶，太圆满了...",
-     "source": "经济观察网",
-     "zh": "世界精神卫生日｜“悲秋”“恋秋”是正常情绪波动还是心理疾病？ 专家：出现这些信号需干预"
+     "title": "前三季基金业绩揭榜: 半导体吃肉、原油喝汤、医药复兴",
+     "link": "https://wallstreetcn.com/articles/3783324",
+     "pubDate": "Sat, 10 Oct 2026 16:27:27 +0800",
+     "summary": "2026年前三季度，A股市场在半导体国产替代与AI算力浪潮的双重驱动下走出结构性行情， 由此， 公募基金业绩 榜单（前三季）也 随之呈现鲜明的 \"科技+资源\"双主线格局。 根据官方公布的净值和收益水平，今年前三季度的 主动权益基金中，易方达 旗下的 杨宗昌 、 汇安基金 陈思余 、诺安基金 左少逸 、财通基金 金梓才 等 发挥 较为出色，领涨全市场 ； 被动指数端，半导体材料设备主题 ETF霸榜；QDII阵营则上演原油与半导体的\"双雄对决\"。以下为七大分类基金前三季度业绩全景。 主动权益 基金：新名字占据潮头 主动型非货币基金前三季度冠军由杨宗昌 管理的 易方达供给改革 基金 超越年中的方正富",
+     "source": "华尔街见闻",
+     "zh": "前三季基金业绩揭榜: 半导体吃肉、原油喝汤、医药复兴"
     },
     {
-     "title": "“善后”难题待解，戴姆勒卡车“败走”中国",
-     "link": "http://www.eeo.com.cn/2026/1010/1059947.shtml",
-     "pubDate": "Sat, 10 Oct 2026 16:12:28 +0800",
-     "summary": "技术积累可以封存、产线可以关停、业务版图可以重新取舍，但市场信任一旦消耗殆尽，想要重新修复，将远比开拓一块新市场更加艰难。对于戴姆勒卡车而言，中国市场的成败得失，不只是一次区域商业试验的落幕，更是对其全球品牌价值的一场严肃考验。",
-     "source": "经济观察网",
-     "zh": "“善后”难题待解，戴姆勒卡车“败走”中国"
-    },
-    {
-     "title": "旗下8大品牌集体缺席摩博会，中国长安摩托车迎来整合大考",
-     "link": "http://www.eeo.com.cn/2026/1010/1059946.shtml",
-     "pubDate": "Sat, 10 Oct 2026 16:12:05 +0800",
-     "summary": "中国长安汽车高调宣布要大力发展摩托车自主品牌，但品牌资源分散、难成合力，是现实痛点。",
-     "source": "经济观察网",
-     "zh": "旗下8大品牌集体缺席摩博会，中国长安摩托车迎来整合大考"
-    },
-    {
-     "title": "星港大模型｜山东人工智能垂域大模型之星罗棋布",
-     "link": "http://www.eeo.com.cn/2026/1010/1059903.shtml",
-     "pubDate": "Sat, 10 Oct 2026 15:49:33 +0800",
-     "summary": "星港大模型构建码头生产、港航协同、全域安全、具身智能、经营管控五大垂域能力体系，已落地19个业务智能体，覆盖80余个主流业务场景。",
-     "source": "经济观察网",
-     "zh": "星港大模型｜山东人工智能垂域大模型之星罗棋布"
+     "title": "特斯拉欧洲改称“TAD”，辅助驾驶的边界仍待审批厘清",
+     "link": "https://wallstreetcn.com/articles/3783327",
+     "pubDate": "Sat, 10 Oct 2026 16:23:37 +0800",
+     "summary": "特斯拉坚守了十年的“FSD”，在欧洲还是更名了。 当地时间10月9日，特斯拉德国、比利时和丹麦官网已将原称“完全自动驾驶（监督版）”的功能改称“Tesla Assisted Driving”（TAD，特斯拉辅助驾驶）。 名称换了，车辆并未因此获得在欧盟全境使用该功能的许可。特斯拉官网仍注明，功能只能在取得监管批准的市场启用。 这次更名有明确的监管背景。德国联邦交通部10月6日发表声明称，交通部长比尔格9月曾与特斯拉会谈，特斯拉已提出将系统改名。 声明同时指出，“Full Self-Driving”容易使人误以为系统能够承担全部驾驶任务；实际上，系统可以辅助加速、制动和转向，驾驶员仍须始终保持注",
+     "source": "华尔街见闻",
+     "zh": "特斯拉欧洲改称“TAD”，辅助驾驶的边界仍待审批厘清"
     },
     {
      "title": "花旗：法国财政风险或令欧央行12月后暂停加息，欧元料跌破1.10",
@@ -2272,14 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "花旗在最新报告中提出了一种不同于市场主流预期的判断：法国公共财政风险可能制约欧洲央行进一步收紧货币政策。 如果财政压力持续加剧，欧央行可能在12月加息后暂停行动；若金融压力提前蔓延至欧元区其他国家，暂停加息的时间还可能更早 。欧元兑美元也可能因此跌破1.10。 花旗利率策略师指出，欧央行利率预期与法国、德国国债收益率之差之间的关系已经逆转，反映出市场对进一步收紧货币政策的态度正在发生变化。随着法国财政风险上升，投资者可能越来越担心，进一步加息会加剧金融条件收紧。 汇率市场可能率先反映这一变化。花旗外汇策略师认为，如果欧元跌破两年期利差所对应的公允价值，欧元兑美元可能下探1.10。花旗的两年期估",
      "source": "华尔街见闻",
      "zh": "花旗：法国财政风险或令欧央行12月后暂停加息，欧元料跌破1.10"
-    },
-    {
-     "title": "广东AI赋能千行百业 1000个案例火热征集中！",
-     "link": "http://www.eeo.com.cn/2026/1010/1059866.shtml",
-     "pubDate": "Sat, 10 Oct 2026 15:26:08 +0800",
-     "summary": "南方财经见习记者苏磊 当前，人工智能技术迭代持续提速，全面渗透实体经济、民生服务、社会治理等各个领域。 广东作为国内人工智能创新应用的前沿阵地，依托完整的产业底盘、雄厚的制造业基础与活跃的科创生态，不断涌现出一大批各具特色的“AI+”创新应用。 在广东全域推进AI的浪潮中，哪些“AI+”创新应用精准破解了产业痛点、行业难题？哪些落地实践模式成熟，具备可复制、可推广的标杆价值？ ...",
-     "source": "经济观察网",
-     "zh": "广东AI赋能千行百业 1000个案例火热征集中！"
     },
     {
      "title": "靠定增赚了数百亿的人，又把钱拍在了桌面上",
@@ -2304,14 +2280,6 @@ window.INDUSTRY_DATA = {
      "summary": "全球最大半导体设备制造商ASML宣布对韩国客户实施零部件价格全线上调10%，三星电子与SK海力士已接受这一方案，涨价将于明年1月起正式生效。这标志着半导体设备供应链的定价权正加速向供应商一侧倾斜，行业成本压力持续扩散。 据韩国科技媒体The Lec报道，ASML总部于上月初通过韩国法人向三星和SK海力士发出涨价通知，经双方采购部门协商后确认。此次涨价覆盖EUV与DUV光刻机的全部零部件，包括定期采购的消耗性部件，以及因故障或性能下降而需更换的核心组件，涉及光学系统、光源、精密驱动装置等。 此次全线一次性上调10%被业界视为异常举措。ASML此前通常仅在原材料价格大幅上涨或特定材料采购困难时对个",
      "source": "华尔街见闻",
      "zh": "ASML零部件价格全线上调10%，三星SK海力士接受涨价，半导体设备成本压力蔓延"
-    },
-    {
-     "title": "素人IP混战的2026年，TOP TOY押注的小玉能否拿到大结果？",
-     "link": "https://wallstreetcn.com/articles/3783318",
-     "pubDate": "Sat, 10 Oct 2026 13:29:11 +0800",
-     "summary": "国庆假期，上海嘉善路的一栋老洋房外排起长队，消费者往往需要等待一两个小时才能进店。 吸引人们的是一个黑发、满脸雀斑、留着狗啃刘海的小女孩——yuy玉，粉丝们更习惯叫她“小玉”。 这个从小红书走红的原创IP，国庆期间与Parlid拍立得联手打造主题空间，推出联名相纸、影像体验及创意周边。 相距不远的富民路，另一场小玉主题店同期营业。二楼阳台上，巨大的小玉形象探出身子，俯瞰着楼下排队等候的人群。 上海富民路yuy玉慢闪 10月6日下午摄 小玉在线下受到的热烈追捧背后，离不开名创优品旗下TOP TOY的推动。 2025年底，TOP TOY投资控股小玉所属公司“广州角闪石族艺术文化有限责任公司”。 此",
-     "source": "华尔街见闻",
-     "zh": "素人IP混战的2026年，TOP TOY押注的小玉能否拿到大结果？"
     },
     {
      "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
@@ -2354,14 +2322,6 @@ window.INDUSTRY_DATA = {
      "zh": "Napa Valley’s hangover"
     },
     {
-     "title": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧",
-     "link": "https://wallstreetcn.com/articles/3783317",
-     "pubDate": "Sat, 10 Oct 2026 11:54:42 +0800",
-     "summary": "美股表面风平浪静，水面之下暗流涌动。十年期美债收益率本周逼近5.4%，创2002年以来新高，布伦特原油徘徊于每桶100美元上方，金融市场正在经历一场被科技巨头光环所遮蔽的广泛撤退。 标普500指数本周创下历史新高，但这一纪录背后隐藏着极度脆弱的市场基础—— 仅约30%的成分股交易于50日均线之上，是彭博自1990年有数据以来，所有创纪录交易日中市场参与度最低的一次 。 与此同时，罗素2000小盘股指数连续第五周下跌，较高点累计跌幅约8.5%，逼近技术性回调区间。 利率冲击正在向更广泛的资产类别蔓延。 垃圾债券ETF跌至今年春季关税战引发抛售以来的最低水平附近，美国高收益企业债利差持续走阔，最弱",
-     "source": "华尔街见闻",
-     "zh": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧"
-    },
-    {
      "title": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
      "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
      "pubDate": "Sat, 10 Oct 2026 03:37:15 GMT",
@@ -2376,14 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I presume these are sophisticated investors taking a profit.”",
      "source": "MarketWatch",
      "zh": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?"
-    },
-    {
-     "title": "油轮运费创六十年新高：从美国运一船油到中国，比发射火箭还贵！",
-     "link": "https://wallstreetcn.com/articles/3783314",
-     "pubDate": "Sat, 10 Oct 2026 10:42:17 +0800",
-     "summary": "全球油轮市场正经历一场史无前例的运费风暴。伊朗冲突重塑中东原油贸易格局，叠加船队供给严重短缺，超大型油轮运费已飙升至六十年来最高水平—— 将一船原油从美国运往中国的费用高达8000万美元，超过一枚SpaceX猎鹰9号火箭的发射成本 。 据彭博10月9日报道，本周一笔从美国出发的油轮订单， 运费折算后相当于每桶41美元的运输成本，而去年同一航线的均值仅为4.50美元。这一成本约占西德克萨斯中质原油期货价格的45%。 船舶经纪商Gibson指出， 这趟航程的费用约为8000万美元，高于SpaceX猎鹰9号约7400万美元的标准发射报价；而同等金额在今年早些时候还足以直接买下一艘同类油轮。 船舶经纪",
-     "source": "华尔街见闻",
-     "zh": "油轮运费创六十年新高：从美国运一船油到中国，比发射火箭还贵！"
     },
     {
      "title": "Trump&apos;s diesel agreement with Putin accused of contradicting Russia sanctions law",
@@ -2464,6 +2416,54 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Gold snaps two-week losing streak; some analysts say may have found bottom"
+    },
+    {
+     "title": "Integra LifeSciences prices $450M in 9.5% secured notes",
+     "link": "https://seekingalpha.com/news/4651896-integra-lifesciences-prices-450m-in-9_5-percent-secured-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:38:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Integra LifeSciences prices $450M in 9.5% secured notes"
+    },
+    {
+     "title": "Gran Tierra Energy expects $315M cash from $1.33B business sale",
+     "link": "https://seekingalpha.com/news/4651894-gran-tierra-energy-expects-315m-cash-from-133b-business-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:35:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gran Tierra Energy expects $315M cash from $1.33B business sale"
+    },
+    {
+     "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+     "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 21:30:00 GMT",
+     "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
+     "source": "MarketWatch",
+     "zh": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders."
+    },
+    {
+     "title": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs",
+     "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+     "pubDate": "Fri, 09 Oct 2026 20:51:25 GMT",
+     "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
+     "source": "CNBC",
+     "zh": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs"
+    },
+    {
+     "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+     "link": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
+     "pubDate": "Fri, 09 Oct 2026 19:25:28 GMT",
+     "summary": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
+     "source": "CNBC",
+     "zh": "Trump Media advisor Katie Zacharia offered White House press secretary role"
+    },
+    {
+     "title": "Americans&apos; debt problems are flashing a warning not seen since the Great Recession",
+     "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+     "pubDate": "Fri, 09 Oct 2026 19:18:24 GMT",
+     "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+     "source": "CNBC",
+     "zh": "Americans&apos; debt problems are flashing a warning not seen since the Great Recession"
     }
    ]
   },

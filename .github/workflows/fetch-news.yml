@@ -14,12 +14,19 @@ on:
 permissions:
   contents: write
 
+# 串行化：避免多个抓取任务并发 push main 造成 `fetch first` 被拒
+concurrency:
+  group: fetch-news-push
+  cancel-in-progress: false
+
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -40,7 +47,14 @@ jobs:
           git config user.name "finance-daily-bot"
           git config user.email "finance-daily-bot@users.noreply.github.com"
           git add news-cache.json industry-news.json industry-data.js translate-cache.json central-banks.json
-          git diff --cached --quiet && echo "无变化，跳过提交" || {
-            git commit -m "🤖 自动更新新闻缓存 $(date -u +'%Y-%m-%d %H:%M') UTC"
-            git push
-          }
+          if git diff --cached --quiet; then echo "无变化，跳过提交"; exit 0; fi
+          git commit -m "🤖 自动更新新闻缓存 $(date -u +'%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3 4 5; do
+            if git push origin HEAD:main; then echo "push ok (attempt $i)"; exit 0; fi
+            echo "push 失败，先合并远端再重试（第 $i 次）"
+            git fetch origin main
+            # -X ours：冲突时以本次刚抓取的新数据为准
+            git merge --no-edit -X ours origin/main || git merge --abort || true
+            sleep 4
+          done
+          echo "::error::push 重试 5 次仍失败"; exit 1

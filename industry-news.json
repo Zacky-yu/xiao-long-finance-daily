@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 13:11:59",
+ "generated_at": "2026/10/10 13:32:04",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
+     "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
+     "pubDate": "Sat, 10 Oct 2026 04:51:34 +0000",
+     "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkT",
+     "source": "MarkTechPost",
+     "zh": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text"
+    },
     {
      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -239,14 +247,6 @@
      "summary": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
      "source": "量子位",
      "zh": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」"
-    },
-    {
-     "title": "给具身智能换个「因果」内核，Aether AI的愿景终于走进物理世界",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061909&idx=1&sn=0d5705aa4454485a08091266765fc426",
-     "pubDate": "Fri, 09 Oct 2026 12:01:00 +0800",
-     "summary": "机器人，只是起点",
-     "source": "机器之心",
-     "zh": "给具身智能换个「因果」内核，Aether AI的愿景终于走进物理世界"
     }
    ]
   },
@@ -1729,6 +1729,46 @@
    "total": 18,
    "items": [
     {
+     "title": "首张全天紫外线地图问世：Claude Science AI 协助绘制约 1/3 区域",
+     "link": "https://www.ithome.com/1/011/326.htm",
+     "pubDate": "Sat, 10 Oct 2026 05:26:26 GMT",
+     "summary": "IT之家 10 月 10 日消息，Anthropic 于 10 月 8 日发布博文， 宣布旗下 Claude Science 协助绘制首张完整的全天紫外线地图，约三分之一地图区域由模型估算。 IT之家注：完整全天紫外线地图是把整片天空的紫外线观测拼合成一张图，图中以银河系中心为中央，合并了远紫外线（154 纳米）与近紫外线（232 纳米）数据。 由于地球臭氧层会吸收紫外线，因此天文学家必须使用太空望远镜观测。其中最大的数据集来自 NASA 的 GALEX 任务，在 2003 至 2013 年间拍摄约 3.8 万次，覆盖约三分之二天空。而为了保护探测器，避开部分明亮恒星密集区域，剩余三分之一天空",
+     "source": "IT之家",
+     "zh": "首张全天紫外线地图问世：Claude Science AI 协助绘制约 1/3 区域"
+    },
+    {
+     "title": "Sources: Anthropic&apos;s AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
+     "link": "https://www.techmeme.com/261010/p3#a261010p3",
+     "pubDate": "Sat, 10 Oct 2026 01:20:01 -0400",
+     "summary": "New York Times : Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed &nbsp; &mdash;&nbsp; The Philadelphia Police Department said the agents had also sent in a false homicide tip.&nbsp; The in",
+     "source": "Techmeme",
+     "zh": "Sources: Anthropic&apos;s AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)"
+    },
+    {
+     "title": "绿城中国前主席被控：4.4亿收购案的三个隐秘数字",
+     "link": "https://www.huxiu.com/article/4896381.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 13:12:21 +0800",
+     "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清，编辑：封飚 10月9日，香港廉政公署（ICAC）的一则公告，在地产圈和金融圈“炸开了”： 绿城中国前董事会主席张亚东被落案起诉，控罪为“串谋使代理人接受利益”。 案件当天就在香港东区裁判法院首次提堂（案号：ESCC2414/2026）：被告暂毋须答辩，押后至2027年1月8日再讯；张亚东获准以100万港元现金保释，期间不得离开香港、不得接触证人，须交出旅行证件并到警署报到。 辩方提出离港申请，法庭排在10月14日处理。 廉署的通报写得很克制：涉案交易只说成“以4.4亿元人民币购入当地一个房地产项目”。这句话后续补全了：张亚东被指控与一名中间人、一名",
+     "source": "虎嗅",
+     "zh": "绿城中国前主席被控：4.4亿收购案的三个隐秘数字"
+    },
+    {
+     "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+     "link": "https://www.ithome.com/1/011/325.htm",
+     "pubDate": "Sat, 10 Oct 2026 05:10:05 GMT",
+     "summary": "IT之家 10 月 10 日消息，纽约时报于 10 月 8 日发布博文，报道称加拿大 16 岁徒步者借助 Claude 规划皇冠山（Crown Mountain）路线后，误入需要攀岩装备的“寡妇制造者山脊”（Widowmaker Arete），最终被直升机成功解救下来。 16 岁少年布莱斯 · 文森特 · 戈瑞卢克（Bryce Vincent Gowryluk）于当地时间 10 月 3 日周六早上 7 点 30 分从温哥华市中心的家中出发，原计划从格劳斯山顶前往皇冠山再返回，全程预计约 8 小时。 由于他此前登顶过皇冠山，因此借助 Anthropic 的聊天机器人 Claude，尝试规划新的徒",
+     "source": "IT之家",
+     "zh": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI"
+    },
+    {
+     "title": "Cloudflare acquires Deno, co-founded by Node.js creator Ryan Dahl, which had developed an open-source alternative to Cloudflare Workers and had raised $26M (Paul Sawers/The New Stack)",
+     "link": "https://www.techmeme.com/261010/p2#a261010p2",
+     "pubDate": "Sat, 10 Oct 2026 01:10:02 -0400",
+     "summary": "Paul Sawers / The New Stack : Cloudflare acquires Deno, co-founded by Node.js creator Ryan Dahl, which had developed an open-source alternative to Cloudflare Workers and had raised $26M &nbsp; &mdash;&nbsp; Cloudflare is buying the startup co-founded by Node.js creator Ryan Dahl, a longtime competit",
+     "source": "Techmeme",
+     "zh": "Cloudflare acquires Deno, co-founded by Node.js creator Ryan Dahl, which had developed an open-source alternative to Cloudflare Workers and had raised $26M (Paul Sawers/The New Stack)"
+    },
+    {
      "title": "懂车帝辟谣网传前“总编辑”人员：此账号所标注的懂车帝前员工身份为假",
      "link": "https://www.ithome.com/1/011/324.htm",
      "pubDate": "Sat, 10 Oct 2026 05:08:14 GMT",
@@ -1817,6 +1857,14 @@
      "zh": "减轻用眼疲劳：曝三星 Galaxy S27 Pro / Ultra 手机支持 DC 调光"
     },
     {
+     "title": "Lobbying",
+     "link": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
+     "pubDate": "Sat, 10 Oct 2026 04:40:36 +0000",
+     "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html Comments URL: https://news.ycombinator.com/item?id=50029630 Points: 111 # Comments: 27",
+     "source": "Hacker News",
+     "zh": "Lobbying"
+    },
+    {
      "title": "苹果的新生意：把不侵犯隐私的AI 硬件卖给你",
      "link": "https://www.huxiu.com/article/4896380.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 12:29:20 +0800",
@@ -1841,28 +1889,12 @@
      "zh": "银行密集赎回优先股，算的是什么账"
     },
     {
-     "title": "CMF by Nothing Speaker S/M 蓝牙音箱曝光：牛奶盒造型",
-     "link": "https://www.ithome.com/1/011/319.htm",
-     "pubDate": "Sat, 10 Oct 2026 04:23:39 GMT",
-     "summary": "IT之家 10 月 10 日消息，据 droid life 报道，Nothing 旗下子品牌 CMF（CMF by Nothing）即将推出两款全新蓝牙音箱，分别命名为“Speaker S”与“Speaker M”。 Nothing 已向美国 FCC 提交了两款新设备的认证申请，设备型号分别为 E494 和 E495。第三方电商页面则直接泄露了这两款蓝牙音箱的外观。 根据电商平台页面公布的部分参数，尺寸更大的 Speaker M 额定输出功率为 12W，采用了酷似“ 牛奶盒 ”的外观设计；拥有 18 小时续航，支持蓝牙 5.4 与 IP54 级防泼溅，并配有便携手提把手。 IT之家注意到，小号",
-     "source": "IT之家",
-     "zh": "CMF by Nothing Speaker S/M 蓝牙音箱曝光：牛奶盒造型"
-    },
-    {
      "title": "山姆更改亲友卡规则，咋想的？",
      "link": "https://www.huxiu.com/article/4896376.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 12:21:00 +0800",
      "summary": "本文来自微信公众号： 半佛仙人 ，作者：半佛仙人 1 昨晚刷到一个新闻，给我看笑了。 向下滑动查看所有内容 （新闻来自每日经济新闻） 说白了就是山姆通过追加换绑亲友卡的限制，堵住倒卖亲友卡身份的漏洞。 说白了就是，堵住很多非会员利用亲友卡换绑机制低成本去山姆。 手段非常果断且直接，但策略是对的。 可以说山姆终于开始明明白白地意识到自己到底是什么，赚谁的钱了。 2 山姆本质是一个中产消费俱乐部，是会员制的，且这个会员是收费的。 收费的情况下，会员制最重要的是让会员满意。 山姆存在的意义，是服务那些愿意为自己付费的会员，其他的，都是杂音，是在干扰会员的体验。 所谓让更多人先感受一下再决定买不买，是",
      "source": "虎嗅",
      "zh": "山姆更改亲友卡规则，咋想的？"
-    },
-    {
-     "title": "大众在德因金融信息披露违规被罚款 120 万欧元",
-     "link": "https://www.ithome.com/1/011/318.htm",
-     "pubDate": "Sat, 10 Oct 2026 04:11:34 GMT",
-     "summary": "IT之家 10 月 10 日消息，德国联邦金融监管局 (BaFin) 当地时间 9 日宣布，该机构在本月 1 日对大众汽车处以 120 万欧元 （IT之家注：现汇率约合 901.2 万元人民币） 的罚款。 BaFin 指出，大众汽车早前发布的 2023 财年业绩预测远高于市场预期。 这一业绩预期本应通过特别公告立即披露 ， 但该公司却仅通过新闻稿发布了这一内幕信息 。 大众汽车的这一行为违反了德国《市场滥用条例》，尤其是其中的第 17 条第 1 款第 1 项。BaFin 可对此处以罚款，最高罚款额为 250 万欧元或公司总收入的 2%。",
-     "source": "IT之家",
-     "zh": "大众在德因金融信息披露违规被罚款 120 万欧元"
     },
     {
      "title": "iPhone Duo 上手前你可能需要知道的事",
@@ -1881,20 +1913,12 @@
      "zh": "天津，一座被低估的AI基建重镇"
     },
     {
-     "title": "热门素人IP在手TOP TOY在等大结果",
-     "link": "https://www.huxiu.com/article/4896371.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 12:01:07 +0800",
-     "summary": "本文来自微信公众号： 全天候科技 ，作者：全天候科技，原文标题：《热门素人IP在手 TOP TOY在等大结果》 国庆假期，上海嘉善路的一栋老洋房外排起长队，消费者往往需要等待一两个小时才能进店。 吸引人们的是一个黑发、满脸雀斑、留着狗啃刘海的小女孩——yuy玉，粉丝们更习惯叫她“小玉”。 这个从小红书走红的原创IP，国庆期间与Parlid拍立得联手打造主题空间，推出联名相纸、影像体验及创意周边。 相距不远的富民路，另一场小玉主题店同期营业。二楼阳台上，巨大的小玉形象探出身子，俯瞰着楼下排队等候的人群。 小玉在线下受到的热烈追捧背后，离不开名创优品旗下TOP TOY的推动。 2025年底，TOP",
-     "source": "虎嗅",
-     "zh": "热门素人IP在手TOP TOY在等大结果"
-    },
-    {
-     "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-     "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-     "pubDate": "Sat, 10 Oct 2026 03:42:11 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=50029330 Points: 11 # Comments: 4",
+     "title": "Data Center Darling's $30B IPO Dream Crushed in 48 Hours",
+     "link": "https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours",
+     "pubDate": "Sat, 10 Oct 2026 04:04:17 +0000",
+     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours Comments URL: https://news.ycombinator.com/item?id=50029452 Points: 14 # Comments: 4",
      "source": "Hacker News",
-     "zh": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website"
+     "zh": "Data Center Darling's $30B IPO Dream Crushed in 48 Hours"
     },
     {
      "title": "Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions (Tim Fernholz/TechCrunch)",
@@ -1916,7 +1940,7 @@
      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
      "pubDate": "Sat, 10 Oct 2026 03:02:47 +0000",
-     "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 9 # Comments: 1",
+     "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 32 # Comments: 5",
      "source": "Hacker News",
      "zh": "Telegram Desktop vulnerability allowed any user's file to be stolen"
     },
@@ -1932,7 +1956,7 @@
      "title": "Put a price on breakthroughs",
      "link": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
      "pubDate": "Sat, 10 Oct 2026 02:37:47 +0000",
-     "summary": "Article URL: https://alexwang.ai/posts/put-a-price-on-breakthroughs/ Comments URL: https://news.ycombinator.com/item?id=50028982 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://alexwang.ai/posts/put-a-price-on-breakthroughs/ Comments URL: https://news.ycombinator.com/item?id=50028982 Points: 9 # Comments: 2",
      "source": "Hacker News",
      "zh": "Put a price on breakthroughs"
     },
@@ -1943,30 +1967,6 @@
      "summary": "在 EOA 范式下，中国一汽基于数据形成认知体系，让企业智能体围绕经营目标高效协同，并在运行反馈中不断进化，重塑企业的进化路径。",
      "source": "钛媒体",
      "zh": "盗火者的新火种：EOA 范式下，中国一汽点燃企业智能体生命力"
-    },
-    {
-     "title": "China’s Personal AI Agents Stall on Ecosystem Access, Not Model Power",
-     "link": "https://www.tmtpost.com/8163541.html",
-     "pubDate": "Sat, 10 Oct 2026 10:08:03 +0800",
-     "summary": "Major Chinese platforms have accelerated plans for personal agents, yet full releases remain limited. The binding constraint is not model capability but whether rival apps will allow an agent to act inside their services—and on what commercial terms.",
-     "source": "钛媒体",
-     "zh": "China’s Personal AI Agents Stall on Ecosystem Access, Not Model Power"
-    },
-    {
-     "title": "Sources: Dario Amodei spoke with Meta&apos;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261009/p33#a261009p33",
-     "pubDate": "Fri, 09 Oct 2026 21:45:01 -0400",
-     "summary": "Wall Street Journal : Sources: Dario Amodei spoke with Meta's Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request &nbsp; &mdash;&nbsp; Bitter rivals are forming alliances and executives are having to personally intervene over the scramble for resources to fuel t",
-     "source": "Techmeme",
-     "zh": "Sources: Dario Amodei spoke with Meta&apos;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request (Wall Street Journal)"
-    },
-    {
-     "title": "00后“戒断”AI短剧：一个月卸载了5次",
-     "link": "https://www.tmtpost.com/8163363.html",
-     "pubDate": "Sat, 10 Oct 2026 09:13:39 +0800",
-     "summary": "一场“戒毒”拉锯战。",
-     "source": "钛媒体",
-     "zh": "00后“戒断”AI短剧：一个月卸载了5次"
     }
    ]
   },
@@ -2225,52 +2225,84 @@
    "total": 13,
    "items": [
     {
-     "title": "对话 8 位汽车工程师和学者：上世纪成熟的踏板为何今天还会断裂？",
-     "link": "http://finance.eastmoney.com/news/11158,202610103891886861.html",
-     "pubDate": "Sat, 10 Oct 2026 13:03:00 +0800",
-     "summary": "美国物理学家理查德·费曼在挑战者号事故调查报告中写道：“要让一项技术取得成功，就必须让现实优先于公关，因为自然无法被欺骗。” 刹车踏板总成可能是 汽车 上最成熟的零件之一。最近，它成了这句话的注脚。 这两天，《晚点 LatePost》与多位 汽车 研发工程师和学者进行了交流，他们的专业涉及制动研发、材料和失效分析等方向。尽管分析的切入点不同，但他们的第一判断近乎一致：不管驾驶员怎么踩，刹车踏板支架都不应该被踩断。 “归根结底它就不应该断。” 一位曾在外资 Tier 1 工作的制动工程师反复对《晚点 LatePost》说。他从事制动研发近十年，称企业在开发过程中也会让测试人员尽力踩下刹车，因为不",
-     "source": "东方财富股票",
-     "zh": "对话 8 位汽车工程师和学者：上世纪成熟的踏板为何今天还会断裂？"
+     "title": "素人IP混战的2026年，TOP TOY押注的小玉能否拿到大结果？",
+     "link": "https://wallstreetcn.com/articles/3783318",
+     "pubDate": "Sat, 10 Oct 2026 13:29:11 +0800",
+     "summary": "国庆假期，上海嘉善路的一栋老洋房外排起长队，消费者往往需要等待一两个小时才能进店。 吸引人们的是一个黑发、满脸雀斑、留着狗啃刘海的小女孩——yuy玉，粉丝们更习惯叫她“小玉”。 这个从小红书走红的原创IP，国庆期间与Parlid拍立得联手打造主题空间，推出联名相纸、影像体验及创意周边。 相距不远的富民路，另一场小玉主题店同期营业。二楼阳台上，巨大的小玉形象探出身子，俯瞰着楼下排队等候的人群。 上海富民路yuy玉慢闪 10月6日下午摄 小玉在线下受到的热烈追捧背后，离不开名创优品旗下TOP TOY的推动。 2025年底，TOP TOY投资控股小玉所属公司“广州角闪石族艺术文化有限责任公司”。 此",
+     "source": "华尔街见闻",
+     "zh": "素人IP混战的2026年，TOP TOY押注的小玉能否拿到大结果？"
     },
     {
-     "title": "AI赋能传统医药成重要议题，世界传统医药大会10月17日—18日在京举行",
-     "link": "http://finance.eastmoney.com/news/1355,202610103891887190.html",
-     "pubDate": "Sat, 10 Oct 2026 13:02:15 +0800",
-     "summary": "2026世界传统医药大会将于10月17日—18日在北京国家会议中心举行。10月9日，北京商报记者从大会新闻发布会上了解到，本次大会以“科技赋能融合发展：推动人人享有传统医药”为主题，截至目前，共邀请了92位境外和62位境内专家学者参会作学术报告，他们将带来154场高水平演讲和报告以及多场交流对话。同时，本次大会还将发布《全球 人工智能 赋能传统医学发展报告》等多项重要成果文件。 本届大会将 人工智能 赋能传统医药作为重要议题，在2024世界传统医药大会基础上增加了 人工智能 与传统医学论坛，借助论坛研讨、成果展示、报告发布等多种形式，全面呈现以人工智能为代表的现代科技，为传统医学传承创新带来的",
-     "source": "东方财富股票",
-     "zh": "AI赋能传统医药成重要议题，世界传统医药大会10月17日—18日在京举行"
+     "title": "放眼长周期",
+     "link": "http://www.eeo.com.cn/2026/1010/1059666.shtml",
+     "pubDate": "Sat, 10 Oct 2026 13:26:13 +0800",
+     "summary": "国庆长假前最后一个3天的交易周收官。前三季度，A股主要指数都经历了回调盘整，以时间换空间为后续积蓄动能。同时，前期抱团AI科技“战无不胜”的逻辑开始松动，市场正站在一个新的十字路口。 本周，本刊与众多投资机构进行了交流，机构对于四季度共识逐渐清晰：整体判断谨慎乐观，进攻仍靠科技，防守靠传统核心资产。有观点认为，当前市场呈现窄幅震荡、结构剧烈分化的格局，外部因素是重要扰动来源，但外部因...",
+     "source": "经济观察网",
+     "zh": "放眼长周期"
     },
     {
-     "title": "好孩子退市但退不出增长困局",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891876969.html",
-     "pubDate": "Sat, 10 Oct 2026 13:01:32 +0800",
-     "summary": "创始人宋郑还准备把好孩子从资本市场买回来，但这家公司已经不再是消费者最熟悉的那个“好孩子”。 界面新闻注意到，“童车大王”好孩子近日提出私有化计划，由宋郑还全资拥有的要约人以每股1.5港元的价格，向计划股东提出现金注销安排。倘若计划完成， 好孩子国际 将结束自2010年开始的港股上市生涯。 在这段上市历程中，好孩子的业务重心也发生了变化。2014年收购的德国高端品牌CYBEX，如今贡献了集团近六成收入；而消费者熟悉的本土品牌gb，收入占比则降至不足一成。 这次私有化背后则暴露出一个更直接的经营问题：当海外高端品牌撑起大部分业绩，好孩子自己的老品牌该如何重新找到位置？ 界面新闻就私有化启动时机、",
-     "source": "东方财富股票",
-     "zh": "好孩子退市但退不出增长困局"
+     "title": "人社部：尽最大努力帮助高校毕业生顺利就业",
+     "link": "http://www.eeo.com.cn/2026/1010/1059665.shtml",
+     "pubDate": "Sat, 10 Oct 2026 13:26:12 +0800",
+     "summary": "国务院新闻办公室今天（10月10日）上午举行“开局起步‘十五五’”系列主题新闻发布会。人力资源社会保障部就业促进司司长宋鑫在会上表示，坚持把高校毕业生等青年就业摆在突出位置，尽最大努力帮助其顺利就业；在权益维护方面，持续开展人力资源市场秩序清理整顿专项行动，依法严厉打击就业歧视、滥用实习期等违法违规行为，营造公平有序的就业环境。",
+     "source": "经济观察网",
+     "zh": "人社部：尽最大努力帮助高校毕业生顺利就业"
     },
     {
-     "title": "美股三大指数齐涨！光通信走强，CIENA、LUMENTUM涨超5%；芯片存储涨跌不一，ARM跌超3%，英特尔跌超2%；亚马逊领涨科技七巨头",
-     "link": "http://stock.eastmoney.com/news/11228,202610103891886438.html",
-     "pubDate": "Sat, 10 Oct 2026 12:45:15 +0800",
-     "summary": "北京时间10月10日凌晨，美股三大指数收盘齐涨。道琼斯工业平均指数收报51654.95点，涨0.83%； 纳斯达克 指数收报27366.17点，涨0.64%；标普500指数收报7811.54点，涨0.59%。 费城 半导体 指数跌0.41%。ARM跌3.27%， 安森美半导体 跌2.37%，格芯跌2.27%， 英特尔 跌2.22%， 超威半导体 （AMD）跌2.03%， 德州仪器 、 恩智浦半导体 、ASTERA LABS、 台积电 跌超1%。 光 通信 股走强。CIENA科技涨5.58%，LUMENTUM涨5.22%， 应用光电 涨3.53%，COHERENT涨3.41%, 康宁 涨2.53",
-     "source": "东方财富股票",
-     "zh": "美股三大指数齐涨！光通信走强，CIENA、LUMENTUM涨超5%；芯片存储涨跌不一，ARM跌超3%，英特尔跌超2%；亚马逊领涨科技七巨头"
+     "title": "人力资源社会保障部：将开展适应人工智能发展促就业行动",
+     "link": "http://www.eeo.com.cn/2026/1010/1059662.shtml",
+     "pubDate": "Sat, 10 Oct 2026 13:26:08 +0800",
+     "summary": "10月10日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况。 人力资源社会保障部新闻发言人、副部长李忠在发布会上表示，将锚定“十五五”规划目标任务，坚持以人民为中心的发展思想，牢固树立和践行正确政绩观，着力加强政策和服务高品质供给，不断推动人社事业高质量发展，为推进中国式现代化提供有力支撑。 具体而言，人力资源社会保...",
+     "source": "经济观察网",
+     "zh": "人力资源社会保障部：将开展适应人工智能发展促就业行动"
     },
     {
-     "title": "事关就业、社保，人社部最新发声",
-     "link": "http://finance.eastmoney.com/news/1352,202610103891886330.html",
-     "pubDate": "Sat, 10 Oct 2026 12:45:07 +0800",
-     "summary": "记者从国新办10月10日举行的“开局起步‘十五五’”系列主题新闻发布会上获悉，今年1至9月，城镇新增就业1052万人、完成全年目标任务的87.7%，就业形势总体稳定。在社会保障方面，截至9月底，全国基本养老保险、失业保险、工伤保险参保人数分别达到10.79亿人、2.51亿人、3.27亿人，三项社会保险基金累计结余11.2万亿元。 实施就业优先战略，促进高质量充分就业，是“十五五”时期工作重点。 人力资源社会保障部新闻发言人、副部长李忠表示，接下来，人社部将从稳岗扩容、服务提质、权益保障等方面 综合 施策，重点包括：实施“2个计划”，就是高校毕业生等青年就业支持计划、灵活就业和新就业形态劳动者就",
+     "title": "前主席张亚东被控收贿2000万港元 绿城中国回应：已按照廉署要求配合相关调查",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891889370.html",
+     "pubDate": "Sat, 10 Oct 2026 13:20:54 +0800",
+     "summary": "一笔2000万港元的贿款指控，将 绿城中国 前主席张亚东与多年前一笔4.4亿元大连地产收购案重新推至台前。 10月9日，香港廉政公署发布新闻公报，落案起诉 绿城中国 控股有限公司时任董事会主席张亚东，控告其涉嫌从一名大连 房地产开发 商股东处收受贿款2000万港元，致使该上市公司以4.4亿元人民币购入当地一个 房地产 项目。案件当日在东区裁判法院提讯。 10月10日， 绿城中国 向新京报记者表示，公告涉及的前董事已于2025年3月离任，公司并不了解案件具体细节。绿城表示，公司一贯坚持合法合规经营，已按照廉署要求配合相关调查，目前公司各项业务运营正常，管理团队保持稳定。 被控串谋收贿2000万港",
      "source": "东方财富股票",
-     "zh": "事关就业、社保，人社部最新发声"
+     "zh": "前主席张亚东被控收贿2000万港元 绿城中国回应：已按照廉署要求配合相关调查"
     },
     {
-     "title": "AI需求推动日本工业机床未交订单额超1万亿日元",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891887220.html",
-     "pubDate": "Sat, 10 Oct 2026 12:45:02 +0800",
-     "summary": "AI相关需求正在成为推动工业机床未交订单额攀升至历史高位的主要动力。据日本工作机械工业会（日工会，位于东京港区）统计，截至8月底，日本的工业机床未交订单额已超过1万亿日元。为消化积压订单，芝浦机械等制造商正加紧增产。日工会10月9日公布的数据显示，9月机床订单额（速报值）同比增长60%，达到2232亿日元。订单额已连续15个月同比增长，单月订单额刷新历史最高纪录。 （文章来源：新浪财经快讯）",
+     "title": "最高年化22%？多家香港银行推出限时高息定存 业内提醒：不建议内地投资者专门换汇套利",
+     "link": "http://finance.eastmoney.com/news/11158,202610103891889281.html",
+     "pubDate": "Sat, 10 Oct 2026 13:15:25 +0800",
+     "summary": "近期，香港地区多家 银行 推出高利率存款产品，建银亚洲“贵宾理财”客户可享最高8.88%特惠定存年利率，新客户手机开户可享5.88%的人民币或港币定存年利率。平安数字 银行 符合条件的用户可开立1个月港元定期存款，最高享18%定期存款年利率。 此外，“外币兑换定存”同样是高息存款的集中地，交银香港推出限时外币兑换定存，年利率高达15%。香港众安 银行 外币兑换定存7天美元兑换定存年利率为17%，其他币种均为20%，Lv2用户（近30天日均总结余达到等值50万港元或以上）还可以享2%额外年利率。 对于内地投资者，专家建议本来就有短期闲置港元或其他外币、能承受汇率波动的投资者可以尝试银行的新客特惠",
      "source": "东方财富股票",
-     "zh": "AI需求推动日本工业机床未交订单额超1万亿日元"
+     "zh": "最高年化22%？多家香港银行推出限时高息定存 业内提醒：不建议内地投资者专门换汇套利"
+    },
+    {
+     "title": "一张贴金券串起万千烟火 交通银行以金融巧力激活假日消费",
+     "link": "http://finance.eastmoney.com/news/1586,202610103891888796.html",
+     "pubDate": "Sat, 10 Oct 2026 13:12:46 +0800",
+     "summary": "“滴”扫码领券、用卡支付、立减生效。这个中秋国庆假期，在青岛的海洋公园、宁波的百年老街、雄安的特色市集，这样的支付场景不断上演。不少游客逛景区、品美食、游街市，在消费结账的同时顺手享受 银行 满减福利。有市民表示：“出来游玩，还能领到实实在在的优惠，逛吃都更有劲头。”这一声声支付提示音，正是 交通银行 金融促进假日消费的生动缩影。 让利惠民：金融组合拳点燃消费热情 中秋、国庆双节叠加，消费市场迎来旺季。交行各地分行立足本土资源，把金融服务从柜台延伸到景区、商圈、老字号门店、特色市集，将消费补贴、分期权益、创新支付工具变成串联起“游、购、吃、娱”的纽带。 在青岛，不少游客打卡一战遗址博物馆、里院",
+     "source": "东方财富股票",
+     "zh": "一张贴金券串起万千烟火 交通银行以金融巧力激活假日消费"
+    },
+    {
+     "title": "钟南山院士团队发布肺癌病理基因AI模型：最快可1分钟预测12个肺癌基因靶点",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891888940.html",
+     "pubDate": "Sat, 10 Oct 2026 13:12:17 +0800",
+     "summary": "10月10日，广州医科大学附属第一 医院 国家呼吸医学中心联合 金域医学 对外发布肺癌病理基因多模态大模型DeepGEM 2.0。该模型依托“AI初筛+特定基因靶向验证”模式，有望将肺癌基因检测的费用降低至数百元区间。 肺癌是我国发病率和死亡率均居首位的恶性肿瘤，基因检测是靶向治疗的前提，但目前单次检测费用需万元，且基层医疗机构检测能力薄弱，导致大量患者难以及时获得有效筛查。 “ 老百姓 花这么多钱（做基因检测），（DeepGEM）就是从临床遇到的问题去思考怎么解决问题。我们一直讲做科研是‘顶天立地’，就是让 老百姓 用得起简便、有效、安全的前沿技术。”钟南山院士在发布会上表示。 记者了解到，",
+     "source": "东方财富股票",
+     "zh": "钟南山院士团队发布肺癌病理基因AI模型：最快可1分钟预测12个肺癌基因靶点"
+    },
+    {
+     "title": "古越龙山“古城醉金秋”活动收官：14天客流超245万人次",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891888536.html",
+     "pubDate": "Sat, 10 Oct 2026 13:11:00 +0800",
+     "summary": "10月9日， 古越龙山 官方微信公众号发文称，旗下“古城醉金秋”文商旅促消费活动于9月24日开启、10月7日收官，为期14天。活动采用“1+4+4”模式，以城市广场为主会场，联动迎恩门风情水街、黄酒小镇、中国黄酒博物馆、苏宁广场四大分会场，累计推出活动近400场，吸引客流超245万人次。分会场中国黄酒博物馆体验中心双节期间营收同比增长20.9%，黄酒文化体验型消费潜力进一步释放。 同期，绍兴首届城市开醺节落地绍兴天地871大道，国庆期间累计参与人次超45万。该活动是 古越龙山 联动商业 综合 体的尝试，通过黄酒开醺艺术街区、快闪盒子、黄酒开醺雅集品鉴会等，将传统酒坛、乌篷船意象转化为打卡场景。",
+     "source": "东方财富股票",
+     "zh": "古越龙山“古城醉金秋”活动收官：14天客流超245万人次"
+    },
+    {
+     "title": "小鼠长出人脑褶皱！中国科学家找到人类超高智力关键基因",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891888453.html",
+     "pubDate": "Sat, 10 Oct 2026 13:08:57 +0800",
+     "summary": "近日，中国科学院昆明动物研究所科研团队找到人类智力演化关键基因，通过调控该基因让小鼠大脑长出了类似人脑的褶皱，也更加聪明。那么，人类的超高智力，究竟是从何而来？《全释硬科技》，探究人类大脑演化的终极问题。 人类为什么比其他动物聪明？一个是人类脑容量大，另一个是大脑上的褶皱多。这些大脑上的褶皱，叫作大脑沟回，也被称为“核桃纹”。正是这些沟回，在狭小的头骨里面，将大脑皮层“折叠压缩”，扩大皮层总面积。 人类大脑皮层全部摊开，大约相当于3张A4打印纸；而小鼠光滑的大脑皮层，摊开只有一枚邮票那么大。大脑皮层面积越大，容纳的神经元、神经突触连接就越多，大脑储存信息、处理逻辑、承载思维记忆的能力就越强。 ",
+     "source": "东方财富股票",
+     "zh": "小鼠长出人脑褶皱！中国科学家找到人类超高智力关键基因"
     },
     {
      "title": "10月12日斯德哥尔摩会给谁打电话？2026年诺贝尔经济学奖前瞻",
@@ -2295,22 +2327,6 @@
      "summary": "游客越来越看重一趟旅程中不同环节的衔接体验，希望深入目的地，体验更具当地特色的生活方式。旅行需求从机票、酒店等基础预订，进一步延伸至当地人常去的餐饮、特色小店等本地消费场景。体验经济正在改变文旅行业的收入结构与竞争逻辑。",
      "source": "经济观察网",
      "zh": "这个假期“慢慢玩”"
-    },
-    {
-     "title": "苹果第二期中国清洁能源基金规模扩至约14亿元 两处风电项目已开工",
-     "link": "http://www.eeo.com.cn/2026/1010/1059561.shtml",
-     "pubDate": "Sat, 10 Oct 2026 12:13:06 +0800",
-     "summary": "10月10日，苹果宣布其第二期中国清洁能源基金的承诺投资总额已增至2.12亿美元（14亿元人民币）。截至目前，该基金已完成初步投资，支持在广西开发一个260兆瓦的风电项目，以及在山东开发一个50兆瓦的风电项目，两处项目目前均已开工建设。与此同时，苹果还宣布向中国绿色碳汇基金会及北京自然之友公益基金会提供全新的资助。",
-     "source": "经济观察网",
-     "zh": "苹果第二期中国清洁能源基金规模扩至约14亿元 两处风电项目已开工"
-    },
-    {
-     "title": "今日看点｜国新办将举行“十五五”时期推进就业和社会保障高质量发展有关情况新闻发布会",
-     "link": "http://www.eeo.com.cn/2026/1010/1059546.shtml",
-     "pubDate": "Sat, 10 Oct 2026 12:05:52 +0800",
-     "summary": "10月10日上午10时，国新办将举行“开局起步‘十五五’”系列主题新闻发布会，人力资源社会保障部新闻发言人、副部长李忠介绍“十五五”时期推进就业和社会保障高质量发展有关情况，并答记者问。",
-     "source": "经济观察网",
-     "zh": "今日看点｜国新办将举行“十五五”时期推进就业和社会保障高质量发展有关情况新闻发布会"
     },
     {
      "title": "The danger of pessimism fatigue",
@@ -2417,14 +2433,6 @@
      "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
     },
     {
-     "title": "AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”",
-     "link": "https://wallstreetcn.com/articles/3783254",
-     "pubDate": "Sat, 10 Oct 2026 07:05:20 +0800",
-     "summary": "围绕人工智能支出的恐慌在24小时内完成反转。OpenAI营收口径之争出现新说法，前一天被这条消息砸下去的芯片与云服务商当天拿到逢低买盘。 与此同时，特朗普宣布俄罗斯将向全球市场释放柴油供应，盘中冲高的油价随之回落，长端美债收益率继续在24年高位附近徘徊。 道琼斯工业平均指数涨0.83%收于51654.95点，标普500指数涨0.59%收于7811.54点，纳斯达克综合指数涨0.64%收于27366.17点，标普500与纳斯达克终结两连跌。标普500十一大板块九涨二跌，房地产板块涨1.88%领涨，通信服务板块跌0.40%垫底。 OpenAI营收口径之争在24小时内翻转，周四被砸的芯片与云服务商拿",
-     "source": "华尔街见闻",
-     "zh": "AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”"
-    },
-    {
      "title": "How to provide guaranteed retirement income while paying no commissions",
      "link": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 22:41:00 GMT",
@@ -2455,14 +2463,6 @@
      "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
      "source": "MarketWatch",
      "zh": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist."
-    },
-    {
-     "title": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract",
-     "link": "https://seekingalpha.com/news/4651897-alignment-healthcare-downgraded-bofa-after-cms-star-rating-ma-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 17:59:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract"
     }
    ]
   },

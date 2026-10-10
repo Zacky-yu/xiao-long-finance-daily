@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 09:31:52",
+ "generated_at": "2026/10/10 09:51:52",
  "recent_days": 7,
  "industries": [
   {
@@ -658,6 +658,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "BYD reaches 150,000 commercial NEV production milestone as growth focus shifts to trucks",
+     "link": "https://cnevpost.com/2026/10/10/byd-150000-commercial-nev-production-focus-trucks/",
+     "pubDate": "Sat, 10 Oct 2026 01:34:49 +0000",
+     "summary": "A Q3 electric semi-truck marked the milestone as BYD accelerates its expansion into long-haul freight transport. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "BYD reaches 150,000 commercial NEV production milestone as growth focus shifts to trucks"
+    },
+    {
      "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
      "link": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/",
      "pubDate": "Sat, 10 Oct 2026 00:05:22 +0000",
@@ -808,14 +816,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nio's 4,168 battery swap stations completed 1,192,221 swaps from October 1 to 7, with the daily average rising 22% year-on-year. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Nio completes nearly 1.2 million battery swaps over 7-day holiday, sets daily record twice"
-    },
-    {
-     "title": "BYD humanoid robot design emerges as formal debut remains pending",
-     "link": "https://cnevpost.com/2026/10/09/byd-humanoid-robot-design-emerges/",
-     "pubDate": "Fri, 09 Oct 2026 05:59:16 +0000",
-     "summary": "Patent images show a bipedal humanoid robot designed for service, education and industrial applications. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "BYD humanoid robot design emerges as formal debut remains pending"
     },
     {
      "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
@@ -1730,6 +1730,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "国内航线燃油附加费今起上调，涨 10 元 / 20 元",
+     "link": "https://www.ithome.com/1/011/205.htm",
+     "pubDate": "Sat, 10 Oct 2026 01:45:57 GMT",
+     "summary": "IT之家 10 月 10 日消息，据央视新闻报道，今天起，国内航线客票燃油附加费上调。调整后的标准为： 成人旅客 800 公里及 800 公里以下航线每航段 50 元，800 公里以上航线每航段 90 元， 相较于调整前分别上涨 10 元和 20 元 。 婴儿旅客免收； 儿童、革命伤残军人、因公致残人民警察按实际收取标准减半收取。 此前销售的国内客票，如在今天及以后进行变更，不再按新标准补收燃油附加差价。 IT之家附今年国内航线燃油附加费（成人）变动如下： 时间 800 公里以上 800 公里（含）以下 1 月 5 日 20 元 10 元 4 月 5 日 120 元 60 元 5 月 16 日",
+     "source": "IT之家",
+     "zh": "国内航线燃油附加费今起上调，涨 10 元 / 20 元"
+    },
+    {
+     "title": "Sources: Dario Amodei spoke with Meta&apos;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261009/p33#a261009p33",
+     "pubDate": "Fri, 09 Oct 2026 21:45:01 -0400",
+     "summary": "Wall Street Journal : Sources: Dario Amodei spoke with Meta's Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request &nbsp; &mdash;&nbsp; Bitter rivals are forming alliances and executives are having to personally intervene over the scramble for resources to fuel t",
+     "source": "Techmeme",
+     "zh": "Sources: Dario Amodei spoke with Meta&apos;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request (Wall Street Journal)"
+    },
+    {
+     "title": "联想拯救者 27U-20 显示器开售：27 英寸 4K 180Hz 双模，1699 元",
+     "link": "https://www.ithome.com/1/011/204.htm",
+     "pubDate": "Sat, 10 Oct 2026 01:38:41 GMT",
+     "summary": "IT之家 10 月 10 日消息，联想拯救者今日宣布 27U-20 显示器开售。这款新品售价 1699 元，政府补贴价 1529.1 元。 这款显示器主打 4K 180Hz / FHD 360Hz 双模自由切换，支持一键快速切换，既可以通过 OSD 实体按键完成切换，也支持通过 LADM 软件切换；还支持点对点切换到 24.5 英寸显示。 这款显示器采用 27 英寸 IPS 面板，色域覆盖 99% sRGB、 95% DCI-P3，出厂经过校色，平均 ΔE＜2；亮度 400 尼特，支持 DisplayHDR 400；拥有 1ms GTG 灰阶响应时间。 这款显示器采用超薄金属底座设计，为桌面键",
+     "source": "IT之家",
+     "zh": "联想拯救者 27U-20 显示器开售：27 英寸 4K 180Hz 双模，1699 元"
+    },
+    {
+     "title": "西班牙博物馆历时 18 个月用 30 台 2012 款苹果 Mac mini 打造 Cray-1 超算视觉复制品",
+     "link": "https://www.ithome.com/1/011/203.htm",
+     "pubDate": "Sat, 10 Oct 2026 01:38:08 GMT",
+     "summary": "IT之家 10 月 10 日消息，科技媒体 Ars Technica 昨日（10 月 9 日）发布博文，报道称西班牙计算机历史博物馆纪念 Cray-1 超级计算机诞生 50 周年以及苹果公司成立 50 周年， 使用 30 台 2012 年款苹果 Mac mini，历时 18 个月，复刻打造出 Cray-1 外形复制品。 IT之家注：Cray-1 是美国 Cray Research 公司设计的超级计算机，由计算机设计师西摩 · 克雷（Seymour Cray）主导研发。首台系统于 1976 年安装在美国洛斯阿拉莫斯国家实验室； 从 1976 年到 1982 年，Cray-1 长期保持全球最快计算",
+     "source": "IT之家",
+     "zh": "西班牙博物馆历时 18 个月用 30 台 2012 款苹果 Mac mini 打造 Cray-1 超算视觉复制品"
+    },
+    {
      "title": "相关人士谈马斯克想通过 Terafab 自产芯片：可能比送星舰上火星还难",
      "link": "https://www.ithome.com/1/011/201.htm",
      "pubDate": "Sat, 10 Oct 2026 01:29:09 GMT",
@@ -1754,14 +1786,6 @@ window.INDUSTRY_DATA = {
      "zh": "谷歌 Chrome 155 浏览器更新内容汇总：原生解码 JPEG XL 图片、修复 247 个漏洞"
     },
     {
-     "title": "鸿蒙智行智界 R7 焕新版首批试驾车陆续到店：本月底开启交付，23.98 万元起",
-     "link": "https://www.ithome.com/1/011/198.htm",
-     "pubDate": "Sat, 10 Oct 2026 01:24:13 GMT",
-     "summary": "IT之家 10 月 10 日消息，智界汽车今日宣布，智界 R7 焕新版首批试驾车陆续抵达全国 77 个城市，200 家门店（具体门店见文末）。 智界汽车执行董事及执行副总裁赵长江随后表示， 新车将于本月底开启交付 ，正在紧锣密鼓的排产。 据IT之家此前报道， 智界 R7 焕新款于 9 月 28 日上市 ，号称 5 亿投资升级，拥有 8 项重大更新， 23.98 万元起： 智界 R7 Max 版：23.98 万元 智界 R7 Max+ 版：25.98 万元 智界 R7 Max+ 长续航版：28.98 万元 智界 R7 Ultra 版：31.98 万元 新车长宽高分别为 4982/1981/163",
-     "source": "IT之家",
-     "zh": "鸿蒙智行智界 R7 焕新版首批试驾车陆续到店：本月底开启交付，23.98 万元起"
-    },
-    {
      "title": "这个国庆，入境游增速第一，为什么是重庆？",
      "link": "https://www.huxiu.com/article/4896326.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 09:21:37 +0800",
@@ -1776,22 +1800,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士 2026年诺贝尔生理学或医学奖授予光遗传学领域的三位科学家。表面上看，这是对一项神经科学革命性技术的迟来确认；如果把它放到基因编辑、人工智能、脑机接口和生命科学工程化的大趋势中观察，它释放出的信号远不止于此。诺贝尔奖奖励的是过去，但它同时也在告诉我们：未来二十年的科技竞争可能走向哪里。 诺贝尔奖最有意思的地方是它奖励的通常是过去，而人们真正应该关注的却是未来。 01 诺贝尔奖正在奖励一种新的科学能力 当地时间10月5日，2026年诺贝尔生理学或医学奖授予Karl Deisseroth、Peter Hegemann和Georg N",
      "source": "虎嗅",
      "zh": "诺贝尔奖正在把科技带向哪里？"
-    },
-    {
-     "title": "1.5L / min 鲜热水流速：小米米家净水器 2 Pro 双出水 1200G 国补后 1164 元",
-     "link": "https://www.ithome.com/1/011/197.htm",
-     "pubDate": "Sat, 10 Oct 2026 01:20:47 GMT",
-     "summary": "【京东活动可能随时变更，需以实付款为准】 小米米家净水器 2 Pro 双出水 1200G 开售于 2026 年 4 月，配 8 年 RO 膜，官方定价 2899 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1164.96 元： 领 9 折净水器券： 点此查看 。 下单时选择“以旧换新 → 个护健康 → 电动牙刷 （无需回收）”补贴 72.17 元。 大部分小伙伴还可选择“组合购”，实付 低至 1110.62 元 。 京东 小米 米家净水器 2 Pro 1200G 双出水 以旧换新后 1164.96 元 直达链接 IT之家从商品页面了解到，这款净水器的过滤精度可达",
-     "source": "IT之家",
-     "zh": "1.5L / min 鲜热水流速：小米米家净水器 2 Pro 双出水 1200G 国补后 1164 元"
-    },
-    {
-     "title": "一加 16《凡人》动画联名礼盒官宣：含定制手机支架、卡针、保护壳等",
-     "link": "https://www.ithome.com/1/011/196.htm",
-     "pubDate": "Sat, 10 Oct 2026 01:14:38 GMT",
-     "summary": "IT之家 10 月 10 日消息，一加 16 手机将于 10 月 12 日 19:00 正式发布，一加手机官方今日官宣了 一加 16《凡人》动画联名礼盒 。 据介绍，一加 16 凡人动画联名礼盒包含金属剑阵磁吸手机支架（可旋转）、“青竹蜂云剑”金属卡针、“青竹蜂云剑”磁吸保护壳、透光明信片、可滑动冰箱贴。 IT之家附一加 16 手机目前已公开的主要参数如下： 第六代骁龙 8 超级至尊版，搭配全新一代风驰游戏内核 与京东方联合研发的 185Hz 第四代东方屏，日常使用支持全局 165Hz 超高刷 9000mAh 冰川电池，支持 100W 有线 + 50W 无线 首次搭载三频 GPS + 四频北斗",
-     "source": "IT之家",
-     "zh": "一加 16《凡人》动画联名礼盒官宣：含定制手机支架、卡针、保护壳等"
     },
     {
      "title": "新车拉高速，到底是毁车还是养车？",
@@ -1885,15 +1893,23 @@ window.INDUSTRY_DATA = {
      "title": "REA Reverse – Engineer Anything",
      "link": "https://rea.tools/",
      "pubDate": "Sat, 10 Oct 2026 00:37:07 +0000",
-     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 35 # Comments: 8",
+     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 47 # Comments: 9",
      "source": "Hacker News",
      "zh": "REA Reverse – Engineer Anything"
+    },
+    {
+     "title": "Has the Autonomous Trucking Revolution Arrived?",
+     "link": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+     "pubDate": "Fri, 09 Oct 2026 23:57:12 +0000",
+     "summary": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Has the Autonomous Trucking Revolution Arrived?"
     },
     {
      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
      "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
      "pubDate": "Fri, 09 Oct 2026 23:56:55 +0000",
-     "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/ Comments URL: https://news.ycombinator.com/item?id=50028059 Points: 26 # Comments: 11",
+     "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/ Comments URL: https://news.ycombinator.com/item?id=50028059 Points: 40 # Comments: 14",
      "source": "Hacker News",
      "zh": "11 of 23 Core Open Source Projects Run on 1 or 2 People"
     },
@@ -1904,6 +1920,14 @@ window.INDUSTRY_DATA = {
      "summary": "Katharine Schwab / Forbes : Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams &nbsp; &mdash;&nbsp; This voice experience is generated by AI.&nbsp; Learn more.&nbsp; &mdash;&nbsp; Last year, Ti",
      "source": "Techmeme",
      "zh": "Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams (Katharine Schwab/Forbes)"
+    },
+    {
+     "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
+     "link": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
+     "pubDate": "Fri, 09 Oct 2026 23:32:04 +0000",
+     "summary": "Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf Comments URL: https://news.ycombinator.com/item?id=50027884 Points: 3 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "The logarithms of rational numbers have irrationality exponent 2 [pdf]"
     },
     {
      "title": "Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that&apos;s designing a new central processor for data centers, is raising funds at a ~$2.5B valuation (Reuters)",
@@ -1917,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Compiling Rust to readable C with Eurydice",
      "link": "https://lwn.net/Articles/1055211/",
      "pubDate": "Fri, 09 Oct 2026 23:28:36 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 8 # Comments: 2",
+     "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 13 # Comments: 2",
      "source": "Hacker News",
      "zh": "Compiling Rust to readable C with Eurydice"
     },
@@ -1925,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Rewriting Prime Agent in Rust",
      "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
      "pubDate": "Fri, 09 Oct 2026 23:06:25 +0000",
-     "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust Comments URL: https://news.ycombinator.com/item?id=50027694 Points: 16 # Comments: 3",
+     "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust Comments URL: https://news.ycombinator.com/item?id=50027694 Points: 20 # Comments: 5",
      "source": "Hacker News",
      "zh": "Rewriting Prime Agent in Rust"
     },
@@ -1938,36 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "Trump admin says it&apos;s now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents (Axios)"
     },
     {
-     "title": "Atari Falcon",
-     "link": "https://atarimuseum.nl/atari-falcon/",
-     "pubDate": "Fri, 09 Oct 2026 22:54:13 +0000",
-     "summary": "Article URL: https://atarimuseum.nl/atari-falcon/ Comments URL: https://news.ycombinator.com/item?id=50027590 Points: 11 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Atari Falcon"
-    },
-    {
      "title": "Neanderthal wooden tools from Spain found preserved in stone",
      "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
      "pubDate": "Fri, 09 Oct 2026 22:34:03 +0000",
      "summary": "Dissolved rock precipitated around the tools, which then decayed.",
      "source": "Ars Technica",
      "zh": "Neanderthal wooden tools from Spain found preserved in stone"
-    },
-    {
-     "title": "Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M (Chris Metinko/Axios)",
-     "link": "https://www.techmeme.com/261009/p28#a261009p28",
-     "pubDate": "Fri, 09 Oct 2026 18:30:00 -0400",
-     "summary": "Chris Metinko / Axios : Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M &nbsp; &mdash;&nbsp; Oxide Computer Company, which helps companies build their own on-premise integrated cloud computer ",
-     "source": "Techmeme",
-     "zh": "Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M (Chris Metinko/Axios)"
-    },
-    {
-     "title": "A man US authorities called a \"fixer\", who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty (Bob Van Voris/Bloomberg)",
-     "link": "https://www.techmeme.com/261009/p27#a261009p27",
-     "pubDate": "Fri, 09 Oct 2026 18:15:04 -0400",
-     "summary": "Bob Van Voris / Bloomberg : A man US authorities called a &ldquo;fixer&rdquo;, who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty &nbsp; &mdash;&nbsp; A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan &ldquo;",
-     "source": "Techmeme",
-     "zh": "A man US authorities called a \"fixer\", who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty (Bob Van Voris/Bloomberg)"
     }
    ]
   },
@@ -1978,12 +1978,12 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
-     "title": "Free Gemini app users now only have access to  ‘Auto’ models",
+     "title": "Free Gemini users now on ‘Auto’ models as app adds thinking levels",
      "link": "https://9to5google.com/2026/10/09/gemini-auto-free-users/",
      "pubDate": "Sat, 10 Oct 2026 01:24:00 +0000",
-     "summary": "As announced last week , Google is rolling out a big change to the Gemini app experience for users on the free plan. more…",
+     "summary": "As announced last week , Google is rolling out a big change to the Gemini app experience for users on the free plan. Additionally, everyone is getting access to thinking levels. more…",
      "source": "9to5Google",
-     "zh": "Free Gemini app users now only have access to  ‘Auto’ models"
+     "zh": "Free Gemini users now on ‘Auto’ models as app adds thinking levels"
     },
     {
      "title": "TrendForce warns of higher notebook prices and weaker demand in 2027",
@@ -2226,52 +2226,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "国内航线燃油附加费今起上调",
-     "link": "http://finance.eastmoney.com/news/1350,202610103891840672.html",
-     "pubDate": "Sat, 10 Oct 2026 09:21:04 +0800",
-     "summary": "今天起，国内航线客票燃油附加费上调。调整后的标准为： 成人旅客800公里及800公里以下航线每航段50元，800公里以上航线每航段90元，相较于调整前分别上涨10元和20元。 婴儿旅客免收； 儿童、革命伤残军人、因公致残人民警察按实际收取标准减半收取。 此前销售的国内客票，如在今天及以后进行变更，不再按新标准补收燃油附加差价。 （文章来源：央视新闻）",
+     "title": "今年的台风为何不走“寻常路”",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891845285.html",
+     "pubDate": "Sat, 10 Oct 2026 09:41:26 +0800",
+     "summary": "2026年夏秋，西北 太平洋 似乎陷入一种“亢奋”状态。在中国气象局日前召开的新闻发布会上，国家气象中心副主任黄卓公布了一组数据：截至9月29日，西北 太平洋 和南海共有26个台风生成，7个台风登陆，较常年显著偏多；强度总体偏强，长生命史台风多，陆上滞留时间长、影响大。其中，多个台风更是达到超强台风级。 在台风“扎堆”出现的状态中，有一个“巧合”引起广泛关注：今年第9号台风“巴威”、第13号台风“白海豚”、第18号台风“沙德尔”相继登陆浙江省台州市玉环市坎门街道，上演罕见的台风登陆“帽子戏法”，创下新的华东沿海台风登陆气象纪录。 50天里，一个小小的坎门街道，为何成为3个台风的“靶心”？ 台风",
      "source": "东方财富股票",
-     "zh": "国内航线燃油附加费今起上调"
+     "zh": "今年的台风为何不走“寻常路”"
     },
     {
-     "title": "无线传媒在河北成立观山海文化传媒公司",
-     "link": "http://finance.eastmoney.com/news/1349,202610103891840335.html",
-     "pubDate": "Sat, 10 Oct 2026 09:19:34 +0800",
-     "summary": "企查查APP显示，近日，河北观山海文化 传媒 有限公司成立，经营范围包含：广播电视节目制作经营；舞台工程施工；营业性演出；演出经纪等。企查查股权穿透显示，该公司由 无线传媒 全资持股。 （文章来源：人民财讯）",
+     "title": "“店客流量明显少了，但没车主退车”，刹车踏板风波持续，尊界V800购现车仍需加价数千元",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891845140.html",
+     "pubDate": "Sat, 10 Oct 2026 09:37:47 +0800",
+     "summary": "近日，尊界V800刹车踏板支架断裂风波持续发酵。 截至发稿，尊界官方尚未公布统一、具体的免费升级技术方案。10月9日， 江淮汽车 股价反复震荡，收盘价22.75元，跌幅7.97%，连续第二个交易日大幅下挫。 据界面新闻报道，尊界V800仍在正常销售和交付，也有部分消费者已经改变了原定的购车安排。10月9日，北京一家鸿蒙智行门店外，一辆棕金双色的尊界V800停在门口。销售人员介绍，这辆车当天刚刚完成交付手续。 一名从事 汽车 车源对接的中介表示，目前如果希望直接购买尊界V800的现车，仍需加价数千元，最高在1万元左右。具体幅度取决于其手中的车源和车辆配置，选装较多的车型价格还可能略高。他表示，这",
      "source": "东方财富股票",
-     "zh": "无线传媒在河北成立观山海文化传媒公司"
+     "zh": "“店客流量明显少了，但没车主退车”，刹车踏板风波持续，尊界V800购现车仍需加价数千元"
     },
     {
-     "title": "特朗普：埃塞俄比亚修建了大坝，尼罗河现在都没水了",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891840189.html",
-     "pubDate": "Sat, 10 Oct 2026 09:16:15 +0800",
-     "summary": "特朗普：埃塞俄比亚修建了大坝，尼罗河现在都没水了。 （文章来源：新浪财经快讯）",
+     "title": "商务部：反对个别国家以所谓“产能过剩”为名，行贸易保护主义之实",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891843857.html",
+     "pubDate": "Sat, 10 Oct 2026 09:37:36 +0800",
+     "summary": "商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问。问：美东时间10月7日，美贸易代表办公室（USTR）发布公告称，近期美国召集14个经济体高级官员举行会议，共同签署发布应对所谓“结构性产能和生产过剩”问题的部长级联合声明。请问商务部对此有何评论？ 答：我们注意到有关情况。中方已在不同场合多次阐明关于所谓“产能过剩”问题的看法，并于今年7月专门发布了有关立场文件。 中方一贯认为，看待产能问题要秉持全面、客观、公正的态度，不能出于对自身产业竞争力和市场地位的担忧，将经贸问题政治化。中方反对个别国家以所谓“产能过剩”为名，行贸易保护主义之实，这只会扰",
      "source": "东方财富股票",
-     "zh": "特朗普：埃塞俄比亚修建了大坝，尼罗河现在都没水了"
+     "zh": "商务部：反对个别国家以所谓“产能过剩”为名，行贸易保护主义之实"
     },
     {
-     "title": "特朗普：我们不会忘记挪威，你们没有把诺贝尔和平奖授予美国",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891839698.html",
-     "pubDate": "Sat, 10 Oct 2026 09:16:15 +0800",
-     "summary": "特朗普：我们不会忘记挪威，你们没有把诺贝尔和平奖授予美国。 （文章来源：新浪财经快讯）",
+     "title": "智能化正推动应急救援加速转型",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891843054.html",
+     "pubDate": "Sat, 10 Oct 2026 09:37:01 +0800",
+     "summary": "无人机 侦检、AI辅助研判、智能化应急处置……技术赋能下的应急救援，有哪些新变化？装备器材有哪些新提升？10月13日至16日，第四届全国危险化学品救援技能竞赛将在河南省濮阳市举行。从科目竞赛，到装备展示，在本届竞赛的多个环节中都能发现智能化亮点。10月9日，应急管理部召开新闻发布会，介绍竞赛有关情况。 应急救援走向“人装协同、智能支撑、体系作战” 国家安全生产应急救援中心党委委员、竞赛组委会成员王立兵介绍，本届竞赛注重智能化，实现技术赋能，将 无人机 侦检、AI辅助研判、救援 机器人 应用、热成像识别、智能化应急处置等融入竞赛科目设置，充分体现危险化学品应急救援正由传统技能型处置向“人装协同、",
      "source": "东方财富股票",
-     "zh": "特朗普：我们不会忘记挪威，你们没有把诺贝尔和平奖授予美国"
+     "zh": "智能化正推动应急救援加速转型"
     },
     {
-     "title": "DA Davidson：大幅上调美光目标价至3000美元，看好未来3至5年潜力",
-     "link": "http://stock.eastmoney.com/news/1611,202610103891839425.html",
-     "pubDate": "Sat, 10 Oct 2026 09:16:15 +0800",
-     "summary": "DA Davidson资深分析师Gil Luria表示，美光未来3到5年都处于成长轨道，这正是市场目前还没有充分认知到的。他预期，记忆体需求在2027年与2028年都将超过供给。AI实际上已经把记忆体从高度周期性的商品，转变为AI基础设施中任务关键的 元件 。分析师将美光目标价从2100美元大幅上调至3000美元，并重申“买入”评级。 （文章来源：新浪财经快讯）",
+     "title": "伟星新材：公司PE系列产品可较好应用于供暖等领域",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891844940.html",
+     "pubDate": "Sat, 10 Oct 2026 09:36:52 +0800",
+     "summary": "伟星新材 10日在互动平台表示，公司PE系列产品可较好应用于供暖等领域，目前供暖市场总体需求依然偏疲弱。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "DA Davidson：大幅上调美光目标价至3000美元，看好未来3至5年潜力"
+     "zh": "伟星新材：公司PE系列产品可较好应用于供暖等领域"
     },
     {
-     "title": "特朗普谈及伊朗：伊朗要么全部答应我们的要求，要么就不复存在",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891840023.html",
-     "pubDate": "Sat, 10 Oct 2026 09:16:14 +0800",
-     "summary": "特朗普谈及伊朗：伊朗要么全部答应我们的要求，要么就不复存在。他们心里清楚这一点。 （文章来源：新浪财经快讯）",
+     "title": "嵘泰股份控股股东4.2亿元协议转让6%股权至自然人陈慧",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891845074.html",
+     "pubDate": "Sat, 10 Oct 2026 09:36:00 +0800",
+     "summary": "南方财经10月10日电， 嵘泰股份 (605133.SH)10月10日披露权益变动公告，公司控股股东赣州润诚创业投资有限公司已于10月9日与自然人陈慧签署股份转让协议，拟协议转让1711.65万股公司股份，占总股本6%，转让价格24.54元/股，交易总金额约4.20亿元。本次股份转让系赣州润诚基于自身经营发展规划进行减持，交易完成后，赣州润诚持股比例由33.32%下降至27.32%，仍为上市公司控股股东。夏诚亮、朱迎暉、朱华夏合计控制上市公司47.68%股权，上市公司控制权、实际控制人不会发生变更，本次权益变动不会对公司治理以及日常持续经营带来不利影响，也不触发要约收购义务。受让方陈慧为境内自",
      "source": "东方财富股票",
-     "zh": "特朗普谈及伊朗：伊朗要么全部答应我们的要求，要么就不复存在"
+     "zh": "嵘泰股份控股股东4.2亿元协议转让6%股权至自然人陈慧"
+    },
+    {
+     "title": "万亿估值背后的“数字口径游戏”：OpenAI与Anthropic的营收竟然无法直接比较",
+     "link": "https://wallstreetcn.com/articles/3783309",
+     "pubDate": "Sat, 10 Oct 2026 09:30:15 +0800",
+     "summary": "当 AI行业两大巨头的核心财务指标无法进行苹果对苹果的比较， 投资者正面临一场信息迷雾。 OpenAI预计年化营收将在年底达到或超过700亿美元，Anthropic则于今年7月宣布年化营收已触及650亿美元。然而据彭博10月10日报道，这两个数字根本无法直接比较—— 两家公司对同一指标采用了截然不同的口径。 Anthropic将通过亚马逊等云合作伙伴产生的销售总额全部计入营收，而OpenAI仅计入其从微软等合作伙伴分得的净收入份额。 这意味着，OpenAI的数字在账面上可能显著低于Anthropic，但这并不代表其真实业务规模落后。 这一口径差异已对市场产生实质冲击。本周四科技股出现下挫，部分",
+     "source": "华尔街见闻",
+     "zh": "万亿估值背后的“数字口径游戏”：OpenAI与Anthropic的营收竟然无法直接比较"
     },
     {
      "title": "英伟达悄然重新定义自由现金流，千亿回购计划暗藏水分？",
@@ -2408,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国总统特朗普就对伊朗采取军事行动的时间表发出新的矛盾信号。 周五美国白宫媒体记者会上，当特朗普被问及为何推迟到中选后、而不是立即对伊朗采取行动时，特朗普说“可能”立即行动。 此前周四，特朗普刚刚明确表示，美国\"不会在中期选举前攻击伊朗\"，并称当前与伊朗的谈判\"富有成效\"。 这一表态的急转直下，令外界对白宫的政策走向愈发难以把握，也令投资者对中东局势的不确定性保持高度警惕。 特朗普对伊立场出现前后矛盾 美国总统特朗普被问及为何不现在就行动、被问及在美国中期选举之前对伊朗采取行动的可能性，称：我们可能会（那样做）。 这与他此前在Truth Social上发布的声明形成明显落差。 特朗普周五还就胡",
      "source": "华尔街见闻",
      "zh": "才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动"
-    },
-    {
-     "title": "甲骨文CDS利差创历史新高，大摩：巨额资本开支需求集中2028，或引爆债务危机",
-     "link": "https://wallstreetcn.com/articles/3783306",
-     "pubDate": "Sat, 10 Oct 2026 06:19:24 +0800",
-     "summary": "甲骨文的数据中心建设困局正从工程问题演变为信用风险。摩根士丹利最新报告指出， 工期延误并非带来资本开支喘息空间，而是将巨额债务偿还压力集中压缩至2028年，恰好与多个关键融资节点形成致命叠加。 摩根士丹利信贷分析师Lindsay Tyler在报告中明确表示，延误\"同样意味着变现延迟、概念验证延迟、 营收延迟、现金流延迟 \"。这一判断直指甲骨文的核心投资逻辑——其逾6000亿美元的未来合同收入（RPO）高度依赖AI数据中心如期交付。 截至周四收盘， 甲骨文5年期信用违约掉期（CDS）报261个基点，创历史新高，隐含五年内违约概率超过20%， 而该公司仍持有投资级评级。 市场定价已抢先于报告发布作",
-     "source": "华尔街见闻",
-     "zh": "甲骨文CDS利差创历史新高，大摩：巨额资本开支需求集中2028，或引爆债务危机"
     },
     {
      "title": "Lockheed unveils next-gen Patriot interceptor to defend against hypersonic threats",

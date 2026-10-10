@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 14:02:03",
+ "generated_at": "2026/10/10 14:09:58",
  "recent_days": 7,
  "industries": [
   {
@@ -8,14 +8,6 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
-     "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
-     "pubDate": "Sat, 10 Oct 2026 04:51:34 +0000",
-     "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkT",
-     "source": "MarkTechPost",
-     "zh": "Nace AI 开源 Drex 1.5：对选项而不是文本进行评分的 9B 决策模型"
-    },
     {
      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -247,6 +239,14 @@
      "summary": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
      "source": "量子位",
      "zh": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」"
+    },
+    {
+     "title": "给具身智能换个「因果」内核，Aether AI的愿景终于走进物理世界",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061909&idx=1&sn=0d5705aa4454485a08091266765fc426",
+     "pubDate": "Fri, 09 Oct 2026 12:01:00 +0800",
+     "summary": "机器人，只是起点",
+     "source": "机器之心",
+     "zh": "给具身智能换个「因果」内核，Aether AI的愿景终于走进物理世界"
     }
    ]
   },
@@ -281,36 +281,12 @@
      "zh": "台积电2026 OIP生态论坛总结"
     },
     {
-     "title": "Defence satcom revenues to surpass $23bn by 2035",
-     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
-     "source": "Electronics Weekly",
-     "zh": "到 2035 年，国防卫星通信收入将超过 230 亿美元"
-    },
-    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "连接小芯片还不够——解决多芯片系统中的数据移动挑战"
-    },
-    {
-     "title": "Axiom Space highlights space computing progress",
-     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
-     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
-     "source": "Electronics Weekly",
-     "zh": "Axiom Space 凸显太空计算进展"
-    },
-    {
-     "title": "The Single-Chip PC",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
-     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "单片机"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -327,30 +303,6 @@
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "由于积压订单激增，美国 9 月份制造业活动持续增长"
-    },
-    {
-     "title": "Failure analysis in the era of 3D integration",
-     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
-     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "3D集成时代的失效分析"
-    },
-    {
-     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
-     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
-     "source": "Electronics Weekly",
-     "zh": "汽车 SBRFP 器件的雪崩能量额定值高达 145mJ"
-    },
-    {
-     "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:04:25 +0000",
-     "summary": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
-     "source": "Electronics Weekly",
-     "zh": "阅读最多的——Robotaxi 增长、Arm 高通之战"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -495,6 +447,54 @@
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "缩小可见性差距"
+    },
+    {
+     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
+     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
+     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
+     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "从芯片到系统：重新定义竞争优势，第 3 部分"
+    },
+    {
+     "title": "Shift Left Complicates Fab Data Management",
+     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
+     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
+     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "左移使晶圆厂数据管理变得复杂"
+    },
+    {
+     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
+     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design 将 HAROLD QD 量子点激光模拟器的运行时间减半并提高精度"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "KnowMade 表示，2026 年第二季度新 RF GaN 专利系列的大部分都在中国"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "美国刚刚在量子芯片制造上投入 10 亿美元"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "KnowMade 报告称，2026 年第二季度由工业受让人主导的功率 GaN 专利申请"
     }
    ]
   },
@@ -614,7 +614,7 @@
      "pubDate": "Thu, 08 Oct 2026 15:55:31 +0000",
      "summary": "Helm.ai trained its foundation models using its unsupervised 'deep teaching' methodology to master the structure of the physical world itself. The post Helm.ai reaches $70M in signed commercial contracts for its foundation models appeared first on The Robot Report .",
      "source": "The Robot Report",
-     "zh": "Helm.ai 基础模型商业合同金额达 7000 万美元"
+     "zh": "Helm.ai 基础模型商业合同金额已达 7000 万美元"
     },
     {
      "title": "This Disembodied Hand Is All the Robot You Need",
@@ -662,7 +662,7 @@
      "pubDate": "Sat, 10 Oct 2026 01:34:49 +0000",
      "summary": "A Q3 electric semi-truck marked the milestone as BYD accelerates its expansion into long-haul freight transport. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "随着增长重点转向卡车，比亚迪商用新能源汽车产量达到15万辆里程碑"
+     "zh": "比亚迪商用新能源汽车产量达到15万辆里程碑 随着增长重点转向卡车"
     },
     {
      "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
@@ -945,12 +945,12 @@
      "zh": "保利定价和潜在扩张"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie、LS Power 获得 PJM 快速互联批准 2.1 吉瓦"
+     "zh": "PJM 批准 Engie、LS Power 的 2.1 GW 快速互连"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -964,7 +964,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "第三季度美国电力、天然气公用事业费率请求飙升至 $4.5B：PowerLines"
     },
@@ -1118,7 +1118,7 @@
      "pubDate": "Fri, 09 Oct 2026 21:03:52 +0000",
      "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
      "source": "STAT News",
-     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥首要作用"
+     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥重要作用"
     },
     {
      "title": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
@@ -1358,7 +1358,7 @@
      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
      "summary": "Seattle-based Kapta Space announced a $24M Series A to build next-gen radar payloads designed to track moving targets. The post Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：Kapta Space A 轮融资 2400 万美元，用于构建移动目标雷达有效载荷"
+     "zh": "独家：Kapta Space 筹集了 2400 万美元的 A 轮融资，用于构建移动目标雷达有效载荷"
     },
     {
      "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
@@ -1729,6 +1729,30 @@
    "total": 18,
    "items": [
     {
+     "title": "安卓版谷歌翻译酝酿新功能：梳理用户语音表达后再精准翻译",
+     "link": "https://www.ithome.com/1/011/343.htm",
+     "pubDate": "Sat, 10 Oct 2026 06:05:52 GMT",
+     "summary": "IT之家 10 月 10 日消息，科技媒体 Android Authority 昨日（10 月 9 日）发布博文，报道称在安卓版谷歌翻译（Google Translate）应用中出现 Smart assist 功能， 在翻译前整理语音输入，去除填充词和反复修正的表达。 该媒体拆解安卓 10.39.34.995726622.4-release 版谷歌翻译应用，在代码中发现了关于 Smart assist 功能的踪迹。按照现有界面线索， 翻译设置可能提供逐字翻译和 Smart assist 两种选择。 启用 Smart assist 后，应用会先处理用户的语音输入，再将整理后的文本用于翻译。IT之",
+     "source": "IT之家",
+     "zh": "安卓版谷歌翻译酝酿新功能：梳理用户语音表达后再精准翻译"
+    },
+    {
+     "title": "Sources detail how Firmus&apos; IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue (Bloomberg)",
+     "link": "https://www.techmeme.com/261010/p5#a261010p5",
+     "pubDate": "Sat, 10 Oct 2026 02:05:01 -0400",
+     "summary": "Bloomberg : Sources detail how Firmus' IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue &nbsp; &mdash;&nbsp; Nvidia-Backed Firmus IPO Collapses Video Player is loading.&nbsp; &mdash;&nbsp; Current Time 0:00 Loaded: 17",
+     "source": "Techmeme",
+     "zh": "消息人士详细介绍了 Firmus 的 IPO 如何在 48 小时内崩溃，此前美国基金经理认为其 300 亿美元的估值对于一家 2026 财年收入仅为 5100 万美元的公司来说太高了（彭博社）"
+    },
+    {
+     "title": "泰坦军团推出 P7XQ (PLUS) 显示器：27\" QHD 超频 275Hz",
+     "link": "https://www.ithome.com/1/011/342.htm",
+     "pubDate": "Sat, 10 Oct 2026 06:02:25 GMT",
+     "summary": "IT之家 10 月 10 日消息，泰坦军团 (TitanArmy) 昨日在官网上线了 2 款显示器新品，分别是 P7XQ 及其 PLUS 版本。这两个型号整体配置类似，区别在于 PLUS 版本的原装支架除俯仰外还支持升降、横竖调节 。 ▲ P7XQ P7XQ (PLUS) 基于 27\" Fast IPS 面板，分辨率 QHD (2560×1440)，原生刷新率 240Hz、超频刷新率 275Hz；SDR 亮度 350nits、HDR 亮度 400nits，静态对比度 1000:1；色域 99% sRGB / 95% DCI-P3，色偏（平均值）ΔE＜2。 ▲ P7XQ PLUS 其采用 DC ",
+     "source": "IT之家",
+     "zh": "泰坦军团推出 P7XQ (PLUS) 显示器：27\" QHD 超频 275Hz"
+    },
+    {
      "title": "AI 巨头撑起美企三季度盈利增长，标普 500 成分股盈利预计同比大增超三成",
      "link": "https://www.ithome.com/1/011/336.htm",
      "pubDate": "Sat, 10 Oct 2026 06:00:11 GMT",
@@ -1799,22 +1823,6 @@
      "summary": "IT之家 10 月 10 日消息，据《商业内幕》报道，当地时间 9 日，达美航空 CEO 埃德 · 巴斯蒂安接受 CNBC 采访，被问及马斯克近期在 X 上对达美航空的接连抨击时说：“至少在我看来，我们没有互相攻击。我很喜欢星链，也很欣赏埃隆做的事情。我自己就开特斯拉，明白吗？所以没什么矛盾。 说我们有私人恩怨，完全是无稽之谈 。” 从公开情况来看，这场几乎由马斯克单方面发起的争执始于今年 3 月。当时，达美航空选择亚马逊 Leo 作为下一代机载卫星互联网服务商，放弃了 SpaceX 旗下的星链。马斯克随后发帖警告达美航空：“他们根本不知道，这个决定会带来多大的影响”。 过去两周，马斯克对巴斯",
      "source": "IT之家",
      "zh": "达美航空 CEO 巴斯蒂安否认与马斯克交恶：我自己就开特斯拉"
-    },
-    {
-     "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
-     "link": "https://www.ithome.com/1/011/329.htm",
-     "pubDate": "Sat, 10 Oct 2026 05:38:05 GMT",
-     "summary": "IT之家 10 月 10 日消息，Anthropic 昨日（10 月 9 日）发布公告， 宣布为 Claude 管理智能体（Claude Managed Agents）引入动态工作流，单次执行最多可并行协调 1,000 个 AI 智能体。 IT之家注：动态工作流是由主智能体规划任务、分派子任务，并在子智能体完成后汇总结果的执行方式。典型场景包括把代码检查等大型任务拆分成多个部分并行处理；在 Claude 管理智能体中，该模式每次执行最多可并行运行 1,000 个智能体。 为了展示动态工作流能力，Anthropic 模拟检测代码漏洞场景，在一个 11.6 万行代码库中隐藏 70 个 Bug，并比",
-     "source": "IT之家",
-     "zh": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents"
-    },
-    {
-     "title": "小米米家空调速冷静 2027 大 1.5 匹预售：APF 5.3、双排蒸发器，1899 元",
-     "link": "https://www.ithome.com/1/011/328.htm",
-     "pubDate": "Sat, 10 Oct 2026 05:37:32 GMT",
-     "summary": "IT之家 10 月 10 日消息，小米米家空调速冷静 2027 大 1.5 匹现已开启预售， 售价 1899 元 ，国补到手价 1614.15 元。 这款空调 APF 5.3，配备双排蒸发器，搭载 108mm 贯流风叶，实现 760m³/h 风量；搭载 9.8cc 排量高效压缩机，最大制冷量 5100W，额定制冷量 3510W，最大制热量 6710W，额定制热量 5010W。 这款空调支持内外机自清洁，运行噪音低至 18dB(A)，可实现 30 秒速冷、 60 秒速热，支持 -35℃ 低温制热和 60℃ 高温制冷；提供整机 10 年免费包修。 这款空调支持小米澎湃智联，可接入米家 App 实现",
-     "source": "IT之家",
-     "zh": "小米米家空调速冷静 2027 大 1.5 匹预售：APF 5.3、双排蒸发器，1899 元"
     },
     {
      "title": "Sources: Anthropic&apos;s AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
@@ -1953,14 +1961,6 @@
      "zh": "Telegram Desktop 漏洞允许任何用户的文件被盗"
     },
     {
-     "title": "Cloudflare debuts Clef-omni, an open-weight decision model supporting audio and video input alongside text and image, and cuts Clef-flash&apos;s price below Jev&apos;s (Cloudflare)",
-     "link": "https://www.techmeme.com/261009/p34#a261009p34",
-     "pubDate": "Fri, 09 Oct 2026 22:40:00 -0400",
-     "summary": "Cloudflare : Cloudflare debuts Clef-omni, an open-weight decision model supporting audio and video input alongside text and image, and cuts Clef-flash's price below Jev's &nbsp; &mdash;&nbsp; Following last week's release of Clef and Clef-flash, Cloudflare's open-weight decision models, we decided t",
-     "source": "Techmeme",
-     "zh": "Cloudflare 推出了 Clef-omni，这是一种开放权重决策模型，支持音频和视频输入以及文本和图像，并将 Clef-flash 的价格降至 Jev 以下 (Cloudflare)"
-    },
-    {
      "title": "Put a price on breakthroughs",
      "link": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
      "pubDate": "Sat, 10 Oct 2026 02:37:47 +0000",
@@ -2070,7 +2070,7 @@
      "pubDate": "Fri, 09 Oct 2026 22:28:43 +0000",
      "summary": "Google has seemingly confirmed the rumored \"Fitbit Edge\" with social media posts teasing a new wearable coming October 12.",
      "source": "Engadget",
-     "zh": "谷歌在 10 月 12 日发布之前预告其新的“Fitbit Edge”可穿戴设备"
+     "zh": "谷歌将于 10 月 12 日发布新款可穿戴设备“Fitbit Edge”"
     },
     {
      "title": "Google Translate could soon get its own version of Gboard’s Rambler",
@@ -2078,7 +2078,7 @@
      "pubDate": "Fri, 09 Oct 2026 21:17:48 +0000",
      "summary": "Smart assist would clean up your messy speech before translating.",
      "source": "Android Authority",
-     "zh": "谷歌翻译可能很快就会推出自己的 Gboard Rambler 版本"
+     "zh": "谷歌翻译可能很快就会推出自己版本的 Gboard Rambler"
     },
     {
      "title": "Flock Safety is reportedly planning major layoffs now that everyone hates it",
@@ -2225,6 +2225,22 @@
    "total": 13,
    "items": [
     {
+     "title": "ASML零部件价格全线上调10%，三星SK海力士接受涨价，半导体设备成本压力蔓延",
+     "link": "https://wallstreetcn.com/articles/3783320",
+     "pubDate": "Sat, 10 Oct 2026 14:01:44 +0800",
+     "summary": "全球最大半导体设备制造商ASML宣布对韩国客户实施零部件价格全线上调10%，三星电子与SK海力士已接受这一方案，涨价将于明年1月起正式生效。这标志着半导体设备供应链的定价权正加速向供应商一侧倾斜，行业成本压力持续扩散。 据韩国科技媒体The Lec报道，ASML总部于上月初通过韩国法人向三星和SK海力士发出涨价通知，经双方采购部门协商后确认。此次涨价覆盖EUV与DUV光刻机的全部零部件，包括定期采购的消耗性部件，以及因故障或性能下降而需更换的核心组件，涉及光学系统、光源、精密驱动装置等。 此次全线一次性上调10%被业界视为异常举措。ASML此前通常仅在原材料价格大幅上涨或特定材料采购困难时对个",
+     "source": "华尔街见闻",
+     "zh": "ASML零部件价格全线上调10%，三星SK海力士接受涨价，半导体设备成本压力蔓延"
+    },
+    {
+     "title": "34岁摄影师高薪赴泰拍片，落地当天离奇失联遭贩卖！",
+     "link": "http://www.eeo.com.cn/2026/1010/1059702.shtml",
+     "pubDate": "Sat, 10 Oct 2026 13:52:07 +0800",
+     "summary": "34岁摄影师赴泰国工作失联，家人接到电话要求支付15万元赎金！摄影师韩少杰有央视相关拍摄经历，他在西藏旅行期间接到去泰国拍摄的工作，对方开出日薪四五千元，计划在曼谷、清迈拍摄4天。10月5日韩少杰抵达曼谷，中午还和家人正常视频通话，当晚就失联，手机直接关机。 家属察觉异常后紧急飞往泰国，辗转两家警局才成功立案。随后家属接到韩少杰电话，得知其已被控制，韩少杰对家人说：“老板对我挺好，不用找，找也找不...",
+     "source": "经济观察网",
+     "zh": "34岁摄影师高薪赴泰拍片，落地当天离奇失联遭贩卖！"
+    },
+    {
      "title": "工伤认定，不能惩罚家属的不离不弃",
      "link": "http://www.eeo.com.cn/2026/1010/1059697.shtml",
      "pubDate": "Sat, 10 Oct 2026 13:41:00 +0800",
@@ -2287,14 +2303,6 @@
      "summary": "AI adoption is forcing the legal profession to rethink the billable hour and how lawyers build expertise.",
      "source": "CNBC",
      "zh": "人工智能正在改变律师的工作方式，并使计费时间面临压力"
-    },
-    {
-     "title": "10月12日斯德哥尔摩会给谁打电话？2026年诺贝尔经济学奖前瞻",
-     "link": "http://www.eeo.com.cn/2026/1010/1059603.shtml",
-     "pubDate": "Sat, 10 Oct 2026 12:38:55 +0800",
-     "summary": "无论斯德哥尔摩的电话最终响在谁的案头，这三位领跑候选者的学术成果，都超越了单纯的学术荣誉。在国际政治经济局势巨变、全球供给侧冲击频发、超级智能（SI）算法垄断升温与全球公共治理面临困局的当前，他们对微观结构的严密解构、对宏观规则的精密锚定，以及对数字工具的因果审视，共同构成了现代经济学最为坚硬也最具有现实穿透力的理论基石。",
-     "source": "经济观察网",
-     "zh": "10月12日斯德哥尔摩会给谁打电话？2026年诺贝尔经济学奖前瞻"
     },
     {
      "title": "The danger of pessimism fatigue",
@@ -2369,14 +2377,6 @@
      "zh": "万亿估值背后的“数字口径游戏”：OpenAI与Anthropic的营收竟然无法直接比较"
     },
     {
-     "title": "英伟达悄然重新定义自由现金流，千亿回购计划暗藏水分？",
-     "link": "https://wallstreetcn.com/articles/3783308",
-     "pubDate": "Sat, 10 Oct 2026 09:10:09 +0800",
-     "summary": "英伟达一个措辞上的细微变化，正在重塑投资者对这家芯片巨头财务健康状况的理解。 今年9月28日，英伟达宣布将股票回购授权规模扩大1500亿美元至2350亿美元，并在公告中悄然嵌入一句关键表述—— \"我们将以净超出战略用途的自由现金流（excess free cash flow net of strategic uses）形式回馈股东\" 。据《华尔街日报》报道，这句话实质上是在向投资者发出信号： 英伟达对外的股权投资，同样会压缩可用于回购和分红的现金。 这一表述几乎未引发市场关注，但其背后的财务逻辑影响深远。 若将英伟达的战略股权投资及股权激励相关现金支出纳入计算，其今年上半财年的实际自由现金流将",
-     "source": "华尔街见闻",
-     "zh": "英伟达悄然重新定义自由现金流，千亿回购计划暗藏水分？"
-    },
-    {
      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
      "pubDate": "Sat, 10 Oct 2026 00:15:00 GMT",
@@ -2438,7 +2438,7 @@
      "pubDate": "Fri, 09 Oct 2026 17:59:09 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "在 MA 合同的 CMS 星级评级后，Alignment Healthcare 被美国银行降级"
+     "zh": "在 MA 合同的 CMS 星级评级后，Alignment Healthcare 在美国银行被降级"
     },
     {
      "title": "Gold snaps two-week losing streak; some analysts say may have found bottom",

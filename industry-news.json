@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 10:11:58",
+ "generated_at": "2026/10/10 10:29:09",
  "recent_days": 7,
  "industries": [
   {
@@ -281,12 +281,36 @@
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
+     "title": "Defence satcom revenues to surpass $23bn by 2035",
+     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
+     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "Defence satcom revenues to surpass $23bn by 2035"
+    },
+    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
+    },
+    {
+     "title": "Axiom Space highlights space computing progress",
+     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
+     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
+     "source": "Electronics Weekly",
+     "zh": "Axiom Space highlights space computing progress"
+    },
+    {
+     "title": "The Single-Chip PC",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
+     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -303,6 +327,30 @@
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
+    },
+    {
+     "title": "Failure analysis in the era of 3D integration",
+     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
+     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Failure analysis in the era of 3D integration"
+    },
+    {
+     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
+     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
+     "source": "Electronics Weekly",
+     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
+    },
+    {
+     "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:04:25 +0000",
+     "summary": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Robotaxi growth, Arm Qualcomm battle"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -447,54 +495,6 @@
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
-    },
-    {
-     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
-     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
-     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
-     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
-    },
-    {
-     "title": "Shift Left Complicates Fab Data Management",
-     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
-     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Shift Left Complicates Fab Data Management"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
-    },
-    {
-     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
-     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
-     "source": "Semiconductor Today",
-     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
-    },
-    {
-     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
-     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
-    },
-    {
-     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
-     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
-     "source": "Semiconductor Today",
-     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -921,12 +921,12 @@
      "zh": "Poly pricing and potential expansion"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
+     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -940,7 +940,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1729,6 +1729,46 @@
    "total": 18,
    "items": [
     {
+     "title": "Underdog AI 发布 Saluki 27B 模型：2-bit 量化 Qwen3.8-27B，7.89GB 大小",
+     "link": "https://www.ithome.com/1/011/219.htm",
+     "pubDate": "Sat, 10 Oct 2026 02:25:32 GMT",
+     "summary": "IT之家 10 月 10 日消息，人工智能实验室 Underdog AI 本月发布了 Saluki 27B 模型。该模型是 Qwen3.8-27B 的 2-bit 量化调优版本，仅保留文字 I/O 能力， 文件大小则仅有 7.89 GB 。 Underdog 表示，Saluki 针对智能体应用设计， 长于日常推理和工具使用 ，数学表现则相对逊色。其工具选择和多工具并行调用表现甚至优于全尺寸的 Qwen3.8-27B。 Saluki 模型使用标准的 llama.cpp 格式，可在标准的 llama.cpp 以及基于它构建的应用程序中加载，无需任何自定义编译。 参考 https://underdo",
+     "source": "IT之家",
+     "zh": "Underdog AI 发布 Saluki 27B 模型：2-bit 量化 Qwen3.8-27B，7.89GB 大小"
+    },
+    {
+     "title": "Win11 26H2 装机设置已封堵“点击了解更多按钮绕过登录微软账户”方案",
+     "link": "https://www.ithome.com/1/011/218.htm",
+     "pubDate": "Sat, 10 Oct 2026 02:22:30 GMT",
+     "summary": "IT之家 10 月 10 日消息，消息源 @TheBobPony 昨日（10 月 9 日）在 X 平台发布推文，爆料称在 Windows 11 26H2 系统的首次装机设置（OOBE）中， 微软公司已封堵使用“了解更多”超链接绕过登录微软账号方案。 IT之家曾于 9 月 13 日报道，用户不需要命令提示符、注册表编辑器或虚假微软账户，安装过程也不要求断开 Wi‑Fi，用户完成开箱体验设置后， 联网进入“让我们添加 Microsoft 账户”页面，可点击“登录选项”下方段落中的小型“了解更多”链接 ，可以绕过 Windows 11 家庭版强制登录微软账号。 在 Windows 11 Experi",
+     "source": "IT之家",
+     "zh": "Win11 26H2 装机设置已封堵“点击了解更多按钮绕过登录微软账户”方案"
+    },
+    {
+     "title": "腾讯 QQ PC 端上线隐私功能“迷你窗”：窗口更小、能调透明度，鼠标移走直接隐身",
+     "link": "https://www.ithome.com/1/011/217.htm",
+     "pubDate": "Sat, 10 Oct 2026 02:15:35 GMT",
+     "summary": "IT之家 10 月 10 日消息，腾讯 QQ 今日宣布，PC 端 QQ 上线“迷你窗”， 小窗口显示 ，减少旁边的人无意看到； 鼠标一移聊天窗直接隐身 ，隐私更安全。 此外，“迷你窗” 可调节透明度 ，支持分别调节内容透明度和背景透明度；支持聊天、小说、股票界面，不用反复切换窗口。 对于游戏场景，“迷你窗”更适合边打游戏边聊天，分享胜利截图更快，目前只支持 Windows 游戏的「无边框全屏模式」和「窗口模式」。 IT之家获悉，更新至 PC 端 QQ 最新版本（macOS 7.0.2 版本，Windows 9.9.36 版本），就能一键开启迷你窗，还支持快捷键快速唤起和隐藏迷你窗，启动“防窥”",
+     "source": "IT之家",
+     "zh": "腾讯 QQ PC 端上线隐私功能“迷你窗”：窗口更小、能调透明度，鼠标移走直接隐身"
+    },
+    {
+     "title": "盗火者的新火种：EOA 范式下，中国一汽点燃企业智能体生命力",
+     "link": "https://www.tmtpost.com/8155165.html",
+     "pubDate": "Sat, 10 Oct 2026 10:11:51 +0800",
+     "summary": "在 EOA 范式下，中国一汽基于数据形成认知体系，让企业智能体围绕经营目标高效协同，并在运行反馈中不断进化，重塑企业的进化路径。",
+     "source": "钛媒体",
+     "zh": "盗火者的新火种：EOA 范式下，中国一汽点燃企业智能体生命力"
+    },
+    {
+     "title": "China’s Personal AI Agents Stall on Ecosystem Access, Not Model Power",
+     "link": "https://www.tmtpost.com/8163541.html",
+     "pubDate": "Sat, 10 Oct 2026 10:08:03 +0800",
+     "summary": "Major Chinese platforms have accelerated plans for personal agents, yet full releases remain limited. The binding constraint is not model capability but whether rival apps will allow an agent to act inside their services—and on what commercial terms.",
+     "source": "钛媒体",
+     "zh": "China’s Personal AI Agents Stall on Ecosystem Access, Not Model Power"
+    },
+    {
      "title": "微软工程师解析案例：Win11 装 2 款杀软易“撞车”，恐导致程序卡死",
      "link": "https://www.ithome.com/1/011/215.htm",
      "pubDate": "Sat, 10 Oct 2026 02:07:48 GMT",
@@ -1753,36 +1793,12 @@
      "zh": "AOC 推出 16\" WUXGA 60Hz AMOLED 便携显示器 16T40D"
     },
     {
-     "title": "刷新国内纪录，合肥幺正量子离子阱量子计算机通过 QV128 基准测试",
-     "link": "https://www.ithome.com/1/011/212.htm",
-     "pubDate": "Sat, 10 Oct 2026 02:02:29 GMT",
-     "summary": "IT之家 10 月 10 日消息，据合肥高新发布今日消息，近日， 合肥幺正量子科技有限公司 （以下简称“幺正量子”）自主研发的离子阱量子计算机通过量子体积（Quantum Volume，QV）128 基准测试， 刷新国内公开报道中的最高纪录 。 ▲ 幺正量子 QV128 测试中的随机量子线路图（图源幺正量子，下同） 量子体积是衡量量子计算机综合性能的重要指标之一，综合反映量子比特数量、量子比特质量、相干时间、门保真度和连通性等多项因素。 此次测试中，幺正量子离子阱量子计算机在 7 个量子比特上运行了 7 层方形量子线路，每层包含一系列单比特门和双比特门，重输出概率达到 0.707，高于基准阈值",
+     "title": "小米澎湃 OS 4 Beta 版 10 月 14 日截止招募，正式版 10 月 15 日起分批推送",
+     "link": "https://www.ithome.com/1/011/213.htm",
+     "pubDate": "Sat, 10 Oct 2026 02:04:35 GMT",
+     "summary": "IT之家 10 月 10 日消息，小米澎湃 OS 公告君今日发布公告，宣布了 小米澎湃 OS 4 Beta 版 内测招募截止时间，同时确认了 小米澎湃 OS 4 正式版的推送时间安排。 今年 8 月 14 日，小米澎湃 OS 4 Beta 版启动内测。根据公告， 小米澎湃 OS 4 正式版将于 10 月 15 日起陆续分批次向用户推送升级 ，首批覆盖 Xiaomi 17 系列、 REDMI K100 Pro 系列等机型，后续将逐步拓展到更多存量机型。 小米澎湃 OS 4 Beta 版将于 10 月 14 日中午 12 点 结束内测招募，尚未参与报名且仍有兴趣体验的用户，可前往小米社区-内测中心",
      "source": "IT之家",
-     "zh": "刷新国内纪录，合肥幺正量子离子阱量子计算机通过 QV128 基准测试"
-    },
-    {
-     "title": "主打“听劝”：大众 ID. Polo GTI 未交付先升级，极速提升至 190km/h",
-     "link": "https://www.ithome.com/1/011/211.htm",
-     "pubDate": "Sat, 10 Oct 2026 01:59:56 GMT",
-     "summary": "IT之家 10 月 10 日消息，大众首款纯电动 GTI 车型 ID. Polo GTI 尚未交付，最高车速就从此前公布的 175km/h 提高至 190km/h。 当地时间 9 日，据外媒 insideevs 报道，大众称，此次调整是 根据潜在客户的反馈 作出的。 ID. Polo GTI 于 10 月 7 日开启预售，德国市场起售价为 39,995 欧元 （IT之家注：现汇率约合 30 万元人民币） ，比此前公布的不足 39,000 欧元 （现汇率约合 29.3 万元人民币） 略高。新车的 WLTP 最高续航里程也 从 424km 增加至 431km 。 配置方面，ID. Polo GTI",
-     "source": "IT之家",
-     "zh": "主打“听劝”：大众 ID. Polo GTI 未交付先升级，极速提升至 190km/h"
-    },
-    {
-     "title": "25kPa 大吸力 + 95℃ 高温自清洁：石头 A30 Pro 2.0 洗地机 1367 元国补新低",
-     "link": "https://www.ithome.com/1/011/210.htm",
-     "pubDate": "Sat, 10 Oct 2026 01:58:17 GMT",
-     "summary": "石头 A30 Pro 2.0 洗地机发售于 2026 年 3 月，该产品提供 25000Pa 吸力，首发价 2399 元。 京东 11.11 大促期间，标价为 1828.76 元； 下单领取 9 折优惠券： 点此查看 ； 国补立减 246.88 元； 凑单组合购立减 37.17 元： 参考凑单品 ； 到手价为 1367.91 元： 京东 石头 A30 Pro 2.0 洗地机 AI 全向助力 25kPa 吸力 券后 1367.91 元 领 9 折券 购机赠价值 199 元配件礼包（滤网 + 滚刷 + 200ml 清洁液）。 这款产品采用了石头首创超能暴风洗技术，拥有 25000Pa 超强增压蒸汽",
-     "source": "IT之家",
-     "zh": "25kPa 大吸力 + 95℃ 高温自清洁：石头 A30 Pro 2.0 洗地机 1367 元国补新低"
-    },
-    {
-     "title": "大众因高压电池可能着火在美召回 22524 辆 ID.4 汽车",
-     "link": "https://www.ithome.com/1/011/208.htm",
-     "pubDate": "Sat, 10 Oct 2026 01:57:14 GMT",
-     "summary": "IT之家 10 月 10 日消息，据美国国家公路交通安全管理局 (NHTSA) 官网公示，Volkswagen（大众汽车）在美国宣布 召回 22,524 辆 2023~2026 年款的 ID.4 车型 。 此次召回的原因是这些车辆的 高压电池可能发生故障 ，并导致车辆起火。NHTSA 建议车主 在车辆维修完成前不要将电池电量充至 80% 以上 。 大众 目前正在制定维修方案 ，预计将于 2026 年 11 月 27 日寄出通知车主安全风险的临时信函，后续信函将待维修方案确定后寄出。",
-     "source": "IT之家",
-     "zh": "大众因高压电池可能着火在美召回 22524 辆 ID.4 汽车"
+     "zh": "小米澎湃 OS 4 Beta 版 10 月 14 日截止招募，正式版 10 月 15 日起分批推送"
     },
     {
      "title": "Sources: Dario Amodei spoke with Meta&apos;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request (Wall Street Journal)",
@@ -1857,22 +1873,6 @@
      "zh": "Manus，没能逃出巨头的游戏"
     },
     {
-     "title": "Muse发布一个月，Personal Agent让新 BAT 集体上头",
-     "link": "https://www.tmtpost.com/8163156.html",
-     "pubDate": "Sat, 10 Oct 2026 09:08:54 +0800",
-     "summary": "小公司探路，大厂开始算账",
-     "source": "钛媒体",
-     "zh": "Muse发布一个月，Personal Agent让新 BAT 集体上头"
-    },
-    {
-     "title": "千亿美元PE巨头，今年靠投资航空赚翻了",
-     "link": "https://www.tmtpost.com/8163118.html",
-     "pubDate": "Sat, 10 Oct 2026 09:08:15 +0800",
-     "summary": "千亿美元PE巨头，今年靠投资航空赚翻了",
-     "source": "钛媒体",
-     "zh": "千亿美元PE巨头，今年靠投资航空赚翻了"
-    },
-    {
      "title": "西伯利亚的鼠疫疑云",
      "link": "https://www.huxiu.com/article/4896322.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 08:54:33 +0800",
@@ -1892,7 +1892,7 @@
      "title": "REA Reverse – Engineer Anything",
      "link": "https://rea.tools/",
      "pubDate": "Sat, 10 Oct 2026 00:37:07 +0000",
-     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 62 # Comments: 10",
+     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 90 # Comments: 15",
      "source": "Hacker News",
      "zh": "REA Reverse – Engineer Anything"
     },
@@ -1900,7 +1900,7 @@
      "title": "Has the Autonomous Trucking Revolution Arrived?",
      "link": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
      "pubDate": "Fri, 09 Oct 2026 23:57:12 +0000",
-     "summary": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 8 # Comments: 5",
      "source": "Hacker News",
      "zh": "Has the Autonomous Trucking Revolution Arrived?"
     },
@@ -1908,7 +1908,7 @@
      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
      "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
      "pubDate": "Fri, 09 Oct 2026 23:56:55 +0000",
-     "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/ Comments URL: https://news.ycombinator.com/item?id=50028059 Points: 47 # Comments: 17",
+     "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/ Comments URL: https://news.ycombinator.com/item?id=50028059 Points: 58 # Comments: 21",
      "source": "Hacker News",
      "zh": "11 of 23 Core Open Source Projects Run on 1 or 2 People"
     },
@@ -1924,7 +1924,7 @@
      "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
      "link": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
      "pubDate": "Fri, 09 Oct 2026 23:32:04 +0000",
-     "summary": "Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf Comments URL: https://news.ycombinator.com/item?id=50027884 Points: 3 # Comments: 1",
+     "summary": "Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf Comments URL: https://news.ycombinator.com/item?id=50027884 Points: 9 # Comments: 1",
      "source": "Hacker News",
      "zh": "The logarithms of rational numbers have irrationality exponent 2 [pdf]"
     },
@@ -1940,7 +1940,7 @@
      "title": "Compiling Rust to readable C with Eurydice",
      "link": "https://lwn.net/Articles/1055211/",
      "pubDate": "Fri, 09 Oct 2026 23:28:36 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 15 # Comments: 2",
+     "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 25 # Comments: 2",
      "source": "Hacker News",
      "zh": "Compiling Rust to readable C with Eurydice"
     },
@@ -1948,7 +1948,7 @@
      "title": "Rewriting Prime Agent in Rust",
      "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
      "pubDate": "Fri, 09 Oct 2026 23:06:25 +0000",
-     "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust Comments URL: https://news.ycombinator.com/item?id=50027694 Points: 20 # Comments: 6",
+     "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust Comments URL: https://news.ycombinator.com/item?id=50027694 Points: 22 # Comments: 6",
      "source": "Hacker News",
      "zh": "Rewriting Prime Agent in Rust"
     },
@@ -2225,60 +2225,76 @@
    "total": 13,
    "items": [
     {
+     "title": "人社部：将研究出台服务业发展促就业文件 扩大服务业就业总量",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891854077.html",
+     "pubDate": "Sat, 10 Oct 2026 10:20:55 +0800",
+     "summary": "10月10日，人力资源社会保障部新闻发言人、副部长李忠在国新办发布会上表示，将深入实施稳岗扩容提质行动，着力稳定劳动密集型行业就业规模，不断扩大服务业就业总量，在培育壮大新兴产业、未来产业中挖掘就业新潜能。将会同有关部门研究出台服务业发展促就业文件，更好发挥服务业吸纳就业的主渠道作用。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "人社部：将研究出台服务业发展促就业文件 扩大服务业就业总量"
+    },
+    {
+     "title": "人社部：截至9月底三项社会保险基金累计结余11.2万亿元",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891853947.html",
+     "pubDate": "Sat, 10 Oct 2026 10:20:25 +0800",
+     "summary": "10月10日，人力资源社会保障部新闻发言人、副部长李忠在国新办发布会上表示，截至9月底，全国基本养老保险、失业保险、工伤保险参保人数分别达到10.79亿人，2.51亿人，3.27亿人，三项社会保险基金累计结余11.2万亿元。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "人社部：截至9月底三项社会保险基金累计结余11.2万亿元"
+    },
+    {
+     "title": "5方面15条举措 商务部等7部门部署品质电商“五优”行动",
+     "link": "http://finance.eastmoney.com/news/1345,202610103891853240.html",
+     "pubDate": "Sat, 10 Oct 2026 10:16:47 +0800",
+     "summary": "10月10日，《商务部等7部门关于实施品质电商“五优”行动的通知》发布，详情如下。 组织电商平台“品质推优” （一）加强品质电商主体培育。 用好展会活动等平台，组织电商平台聚焦产品和服务质量提升公开发布承诺和行动计划，发布平台质量治理报告，主动接受社会监督，打造品质电商发展“主阵地”。发挥国家 电子 商务示范基地引领、辐射带动和质量科普作用，以品质为导向开展示范创建，强化信用管理和分类指导，培育一批诚信经营的品质标杆平台。 （ 二）推动平台规则向优转型。 督促电商平台依法依规开展平台规则制定和修改，全面落实平台规则公示、公开征求意见等要求。指导电商平台规范规则执行行为，保护平台内商家、消费者合",
+     "source": "东方财富股票",
+     "zh": "5方面15条举措 商务部等7部门部署品质电商“五优”行动"
+    },
+    {
+     "title": "国联民生股价疲弱、触发增持条款 国资兜底能否托起估值？",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891850055.html",
+     "pubDate": "Sat, 10 Oct 2026 10:15:12 +0800",
+     "summary": "上市券商 国联民生 （601456.SH）因股价持续低迷，触发控股股东兜底增持承诺。 界面新闻注意到，10月8日晚间， 国联民生 发布关于触发控股股东增持公司股份承诺的提示性公告，截至9月30日， 该公司股价连续20个交易日跌破重组发行价的80%，其国资股东国联集团需履行增持义务，最低增持金额超8000万元。 这也是国联证券并购民生证券、变身 国联民生 之后，首次触发重组配套的股东增持条款。 此次增持约束，源于两年前落地的重大券商并购。彼时，国联证券发行股份收购民生证券99.26%股权，成为近年券商行业最受关注的市场化合并案例之一。重组发行价格定为11.17元/股，2025年1月3日在中国证券",
+     "source": "东方财富股票",
+     "zh": "国联民生股价疲弱、触发增持条款 国资兜底能否托起估值？"
+    },
+    {
+     "title": "住友电木将在中国等增产半导体封装材料",
+     "link": "http://finance.eastmoney.com/news/1355,202610103891853898.html",
+     "pubDate": "Sat, 10 Oct 2026 10:13:39 +0800",
+     "summary": "住友电木将增产用于保护先进 半导体 的树脂封装材料。这些先进 半导体 被用于AI 数据中心 等。预计投资额为100亿日元左右。该公司将在中国苏州市和新加坡的工厂新增生产线，争取2030年度投产。封装材料用于 半导体 制造中名为“塑封（Molding）”的后工序，主要作用是保护芯片免受外部冲击、污染等损害。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "住友电木将在中国等增产半导体封装材料"
+    },
+    {
+     "title": "记者观察：文旅正成湖北县域“溢价锚点”",
+     "link": "http://www.eeo.com.cn/2026/1010/1059339.shtml",
+     "pubDate": "Sat, 10 Oct 2026 10:13:11 +0800",
+     "summary": "矿坑变公园，茶田变景区，渔村湖畔建起露营基地，网球小镇成为度假村落。湖北县域最具辨识度的特色资源，正集体“长出”文旅新业态。 这是21世纪经济报道记者在2026年“活力中国调研行”湖北主题采访活动中的所见。连日来，记者深入黄石、荆门、鄂州、恩施等地的县域与乡村发现，特色产业与文旅的碰撞，正在改写湖北县域经济的增长结构，成为吸引流量、拉动收入、塑造品牌的重要引擎。 更值得关注的，是它正在成为...",
+     "source": "经济观察网",
+     "zh": "记者观察：文旅正成湖北县域“溢价锚点”"
+    },
+    {
+     "title": "21社论丨明确权责边界，让企业和新就业形态劳动者共赢发展",
+     "link": "http://www.eeo.com.cn/2026/1010/1059338.shtml",
+     "pubDate": "Sat, 10 Oct 2026 10:13:10 +0800",
+     "summary": "近日，人力资源社会保障部发布《新就业形态劳动者权益保障办法（征求意见稿）》（以下简称“征求意见稿”），向社会公开征求意见。这是我国首次以部门规章形式，将新就业形态劳动者纳入劳动法律制度保障。 近年来，我国依托互联网平台就业的新就业形态劳动者持续增长，已成为劳动就业的重要组成部分。由于平台企业用工形式和新就业形态就业方式相对灵活、复杂多样，难以直接适用现行劳动法律，权益保障面临新情况新问题。...",
+     "source": "经济观察网",
+     "zh": "21社论丨明确权责边界，让企业和新就业形态劳动者共赢发展"
+    },
+    {
+     "title": "跟跌不跟涨！白银陷入困境",
+     "link": "https://wallstreetcn.com/articles/3783312",
+     "pubDate": "Sat, 10 Oct 2026 10:09:28 +0800",
+     "summary": "白银市场正陷入一种罕见的双重困境：利好消息无法推动价格上涨，利空消息却能精准压制。在美元走强与实际利率上行的双重夹击下，白银的工业需求逻辑正在被宏观力量系统性压制，投机资金大规模撤离，做空力量达到近年峰值。 周五亚市盘中，白银价格一度跌超2%至58.70美元/盎司，而黄金同期仅小幅下跌0.4%至4120美元。 高盛大宗商品交易台追踪Comex金属资金流向的分析师Robert Quinn在最新报告中以\"Silver Futures: Stuck\"（白银期货：陷入僵局）为题，直指白银当前困境的核心： 支撑白银上涨的AI与太阳能需求逻辑正在兑现，但市场无动于衷，因为美元和实际利率的上行力量更为强大。",
+     "source": "华尔街见闻",
+     "zh": "跟跌不跟涨！白银陷入困境"
+    },
+    {
      "title": "Trump&apos;s diesel agreement with Putin accused of contradicting Russia sanctions law",
      "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
      "pubDate": "Sat, 10 Oct 2026 02:09:00 GMT",
      "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
      "source": "CNBC",
      "zh": "Trump&apos;s diesel agreement with Putin accused of contradicting Russia sanctions law"
-    },
-    {
-     "title": "本周回购124.98亿元，拟回购公司新增8家",
-     "link": "http://stock.eastmoney.com/news/11758,202610103891848288.html",
-     "pubDate": "Sat, 10 Oct 2026 10:00:14 +0800",
-     "summary": "东方财富 Choice数据显示，截至10月10日，本周有20家A股公司披露回购实施情况，合计回购金额124.98亿元， 高于上周的19.78亿元。 本周 宁德时代 披露的回购金额最高，为31.03亿元 ， 美的集团 排名第二，为19.20亿元。 本周有8家公司宣布回购计划，按拟回购金额上限统计，计划回购金额20.38亿元。 其中 东阳光 拟回购金额上限最高，为12.00亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体",
-     "source": "东方财富股票",
-     "zh": "本周回购124.98亿元，拟回购公司新增8家"
-    },
-    {
-     "title": "新型电极突破电化学合成氨能效瓶颈",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891848123.html",
-     "pubDate": "Sat, 10 Oct 2026 09:59:15 +0800",
-     "summary": "澳大利亚莫纳什大学等机构的研究人员开发出一种新型 锂 合金化电极，突破了电化学合成氨面临的能效瓶颈，可显著降低利用可再生 电力 合成氨所需的能量。该成果有望推动氨生产摆脱对化石燃料的依赖。相关研究9日发表于《Cell Press Blue》期刊。 氨是全球农业生产的重要原料，广泛用于制造 氮肥 。近年来，氨还被视为一种潜在的无碳燃料和能源载体。目前，传统合成氨主要依赖大型集中式工厂，难以充分利用分布在不同地区的可再生能源，尤其是那些因地理位置偏远或输电条件受限而未能得到有效利用的能源。利用可再生 电力 进行电化学合成，有望为氨生产提供更加灵活的选择。 然而，氮气分子结构极其稳定，难以直接转化为",
-     "source": "东方财富股票",
-     "zh": "新型电极突破电化学合成氨能效瓶颈"
-    },
-    {
-     "title": "美股牛市即将进入第五年 以史为鉴后市何去何从？一文读懂",
-     "link": "http://stock.eastmoney.com/news/1440,202610103891847956.html",
-     "pubDate": "Sat, 10 Oct 2026 09:58:39 +0800",
-     "summary": "根据Truist联席首席投资官Keith Lerner的一项最新分析，投资者目前正处于自20世纪50年代以来的第11个牛市中，且本轮牛市即将于12日（下周一）成为第七个至少持续四年的牛市，并迈入第五个年头。 Lerner撰写报告指出，与20世纪50年代以来的所有牛市相比，119%的涨幅处于中等水平，远低于2009-2020年周期的401%涨幅和1987-2000年的582%涨幅。在他的统计期内，牛市的历史平均涨幅为184%。 Lerner指出，此前的10次牛市中，有6次持续时间超过四年。 而达到这个“年龄”的牛市往往会继续。根据他的研究，牛市在第五年的平均回报率为12%，中位数回报率为15%。",
-     "source": "东方财富股票",
-     "zh": "美股牛市即将进入第五年 以史为鉴后市何去何从？一文读懂"
-    },
-    {
-     "title": "大面积钙钛矿太阳能电池光电转换效率创新高",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891847742.html",
-     "pubDate": "Sat, 10 Oct 2026 09:55:05 +0800",
-     "summary": "据物理学家组织网8日报道，澳大利亚新南威尔士大学科学家与UtmoLight公司合作，让一块30厘米×30厘米、孔径面积676平方厘米的钙钛矿 太阳能 电池 实现了23.5%的光电转换效率，比此前基准高出0.6个百分点，创下大面积钙钛矿 太阳能 电池 转换效率世界纪录。 这项世界纪录表明，钙钛矿 太阳能 技术即便放大到比实验室 电池 （通常面积约为1平方厘米）更大的面积，也能保持高效率，凸显其规模化制造和广泛用于太阳能组件的潜力。而且，最新进展不只是刷新一项效率纪录，更在于研究中使用的材料和器件，可从实验室电池走向工业应用。 钙钛矿被普遍视为极具潜力的下一代太阳能材料。它能把阳光高效转化为电能，",
-     "source": "东方财富股票",
-     "zh": "大面积钙钛矿太阳能电池光电转换效率创新高"
-    },
-    {
-     "title": "特朗普未回应泽连斯基称其软弱",
-     "link": "http://finance.eastmoney.com/news/1356,202610103891847866.html",
-     "pubDate": "Sat, 10 Oct 2026 09:54:39 +0800",
-     "summary": "当地时间10月9日下午，美国总统特朗普在与俄罗斯总统普京通话后，在白宫对媒体表示，双方已就俄罗斯向美国及全球市场提供柴油达成一致，他为此感谢普京。现场有记者称乌克兰总统泽连斯基因此“批评美方‘软弱’”，特朗普未正面回应。 按照特朗普稍早前在社交媒体上的说法，俄将立即向美国及全球市场提供超过30万吨柴油，在11月份再提供50万吨。此后俄方还将向市场提供100万吨柴油。另外，俄方将根据其炼油厂状况在短期交付300万吨柴油。特朗普称，再加上美国已“完全控制”霍尔木兹海峡，预计柴油价格将“创纪录大幅和快速下降”。 普京也通过总统官网发布声明，称当天在同特朗普通话中，确认俄将向美国和全球市场提供石油和石",
-     "source": "东方财富股票",
-     "zh": "特朗普未回应泽连斯基称其软弱"
-    },
-    {
-     "title": "幺正量子离子阱量子计算机通过QV128基准测试 刷新国内纪录",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891847092.html",
-     "pubDate": "Sat, 10 Oct 2026 09:54:11 +0800",
-     "summary": "据“合肥高新发布”公众号，近日，辖区企业合肥幺正 量子科技 有限公司（简称“幺正量子”）自主研发的离子阱量子 计算机 通过量子体积（Quantum Volume，QV）128基准测试，刷新国内公开报道中的最高纪录。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "幺正量子离子阱量子计算机通过QV128基准测试 刷新国内纪录"
     },
     {
      "title": "【环球财经】纽约金价9日上涨 触及一周高位",
@@ -2327,22 +2343,6 @@
      "summary": "【校馆弦歌】 光明日报记者 张亚雄 崔志坚 张哲浩 光明网记者 范瑾 珍贵敦煌麻布画、700余部馆藏古籍善本、12000余通历代石刻拓片……走进陕西师范大学图书馆，瑰丽敦煌、文人风骨、红色热血、古籍智慧等精选主题著作展陈和丰富馆藏文献资源，无不呈现出这所师范院校的育人底蕴和文化气质。 <img id=\"73452716\" src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/A956462E4186D70F572...",
      "source": "经济观察网",
      "zh": "陕西师范大学图书馆：文脉赓续书香育人"
-    },
-    {
-     "title": "老子之道的体和用",
-     "link": "http://www.eeo.com.cn/2026/1010/1059223.shtml",
-     "pubDate": "Sat, 10 Oct 2026 08:39:10 +0800",
-     "summary": "作者：程水金（南昌大学国学院教授） 最能涵摄老子哲学体系的《道德经》原文，除却“反者道之动，弱者道之用”一语，五千言其余文字，概莫能当。其一，“道”，是老子哲学的核心概念。这是古今学人共识，毋庸置疑。其二，“反”，既是客体之“道”的运动模式，也是指导主体认知的思想方法。其三，“弱”，既是道体运动的客观过程，也是指导主体实践的行为准则。因而不仅老子哲学的思想精髓存乎此，老子哲学的实用价值亦寄...",
-     "source": "经济观察网",
-     "zh": "老子之道的体和用"
-    },
-    {
-     "title": "金庸武侠小说过时了吗——从网络文学创作看武侠传统延续",
-     "link": "http://www.eeo.com.cn/2026/1010/1059221.shtml",
-     "pubDate": "Sat, 10 Oct 2026 08:39:10 +0800",
-     "summary": "作者：李 强（中央民族大学文学院讲师、北京市文联青年签约评论家） 根据网络小说《将夜》改编的电视剧剧照 近年来，业界有一种悲观论调，...",
-     "source": "经济观察网",
-     "zh": "金庸武侠小说过时了吗——从网络文学创作看武侠传统延续"
     },
     {
      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
@@ -2409,14 +2409,6 @@
      "zh": "How to provide guaranteed retirement income while paying no commissions"
     },
     {
-     "title": "才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动",
-     "link": "https://wallstreetcn.com/articles/3783305",
-     "pubDate": "Sat, 10 Oct 2026 06:26:33 +0800",
-     "summary": "美国总统特朗普就对伊朗采取军事行动的时间表发出新的矛盾信号。 周五美国白宫媒体记者会上，当特朗普被问及为何推迟到中选后、而不是立即对伊朗采取行动时，特朗普说“可能”立即行动。 此前周四，特朗普刚刚明确表示，美国\"不会在中期选举前攻击伊朗\"，并称当前与伊朗的谈判\"富有成效\"。 这一表态的急转直下，令外界对白宫的政策走向愈发难以把握，也令投资者对中东局势的不确定性保持高度警惕。 特朗普对伊立场出现前后矛盾 美国总统特朗普被问及为何不现在就行动、被问及在美国中期选举之前对伊朗采取行动的可能性，称：我们可能会（那样做）。 这与他此前在Truth Social上发布的声明形成明显落差。 特朗普周五还就胡",
-     "source": "华尔街见闻",
-     "zh": "才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动"
-    },
-    {
      "title": "Lockheed unveils next-gen Patriot interceptor to defend against hypersonic threats",
      "link": "https://seekingalpha.com/news/4651898-lockheed-unveils-next-gen-patriot-interceptor-to-defend-against-hypersonic-threats?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 18:17:08 -0400",
@@ -2463,6 +2455,14 @@
      "summary": "Vague figures may lay the groundwork for inflated valuations when much-hyped companies finally go public",
      "source": "Financial Times",
      "zh": "Why OpenAI’s revenue numbers really matter"
+    },
+    {
+     "title": "Integra LifeSciences prices $450M in 9.5% secured notes",
+     "link": "https://seekingalpha.com/news/4651896-integra-lifesciences-prices-450m-in-9_5-percent-secured-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:38:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Integra LifeSciences prices $450M in 9.5% secured notes"
     }
    ]
   },
@@ -2497,20 +2497,20 @@
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
-     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
-     "source": "Live Science",
-     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
-    },
-    {
      "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
      "source": "Live Science",
      "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
+    },
+    {
+     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
+     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
+     "source": "Live Science",
+     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

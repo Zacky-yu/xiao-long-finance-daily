@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 18:09:49",
+ "generated_at": "2026/10/10 18:29:50",
  "recent_days": 7,
  "industries": [
   {
@@ -48,6 +48,30 @@ window.INDUSTRY_DATA = {
      "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkT",
      "source": "MarkTechPost",
      "zh": "Nace AI 开源 Drex 1.5：对选项而不是文本进行评分的 9B 决策模型"
+    },
+    {
+     "title": "王虹攻下的三维挂谷猜想，OpenAI放出175页四维证明稿！",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733338&idx=1&sn=58f4348bb905cc6ecbbb4a0b1cfca986",
+     "pubDate": "Sat, 10 Oct 2026 08:55:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "王虹攻下的三维挂谷猜想，OpenAI放出175页四维证明稿！"
+    },
+    {
+     "title": "美国CS教授发文：数学末日来了！人类千年数学殿堂被AI毁了",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733338&idx=2&sn=9723721f20ef2bce4d59b700b55ac083",
+     "pubDate": "Sat, 10 Oct 2026 08:55:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "美国CS教授发文：数学末日来了！人类千年数学殿堂被AI毁了"
+    },
+    {
+     "title": "Agent组队干活，最强模型只完成50%任务！基准评测协作能力",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733338&idx=3&sn=f08043e7f9a717d355592804bffb55f5",
+     "pubDate": "Sat, 10 Oct 2026 08:55:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "Agent组队干活，最强模型只完成50%任务！基准评测协作能力"
     },
     {
      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
@@ -224,30 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For develop",
      "source": "MarkTechPost",
      "zh": "Google Cloud 推出 Gemini Agent，一款适用于企业工作的通用代理"
-    },
-    {
-     "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
-     "link": "https://www.qbitai.com/2026/10/502359.html",
-     "pubDate": "Fri, 09 Oct 2026 06:28:55 +0000",
-     "summary": "Google 研究成果首次登上《柳叶刀》主刊",
-     "source": "量子位",
-     "zh": "《柳叶刀》研究表明：AI 有望改善医患关系"
-    },
-    {
-     "title": "一个月扫出近5000漏洞，Anthropic发布OSS Scanner，最强模型免费做“安全卫士”",
-     "link": "https://zhidx.com/p/599466.html",
-     "pubDate": "Fri, 09 Oct 2026 14:27:20 +0800",
-     "summary": "智东西 编译 | 张情 编辑 | 云鹏 智东西10月9日消息，AI找漏洞，正在从“帮倒忙”变成“真帮手”。 Anthropic最新推出OSS Scanner，用自家最强模型免费给开源项目做定期安全扫描，不经过人工审核，报告直接发给维护者。从抽检结果看，严重和高危漏洞中，88%达到可以对外报告的标准。但另一方面，过去六个月扫出的2.9万个候选漏洞中，人工只验证了6000个，大量未验证报告正被批量发给维护者。 开源安全迎来的是“快车道”，还是“噪音场”？这场实验才刚刚开始。 一、 Anthropic最强模型加持，速度更快，但不经人工审核 据Anthropic官方推特账号消息，其发布了一款面向开源生",
-     "source": "智东西",
-     "zh": "一个月扫出近5000漏洞，Anthropic发布OSS Scanner，最强模型免费做“安全卫士”"
-    },
-    {
-     "title": "苹果首款MacBook Pro要来了， iPad mini屏幕史诗升级OLED",
-     "link": "https://zhidx.com/p/599380.html",
-     "pubDate": "Fri, 09 Oct 2026 13:08:07 +0800",
-     "summary": "智东西 编译 | 张情 编辑 | 云鹏 智东西10月9日消息，据彭博社报道，苹果的10月可能比往年更热闹：苹果将于10月27日举行发布会，推出触屏MacBook Pro和OLED版iPad mini。这个时间大致与苹果往年秋季发布会节奏呼应，比如推出M3 iMac的“Scary Fast”发布会。 除触屏MacBook Pro外，苹果预计还会推出搭载M6处理器的14英寸MacBook Pro。自从13英寸MacBook Pro停产，这款14英寸机型将成为新的基础款。此外，M6版iMac也有可能一同更新。 ▲Mac新品概念图 （图片来源：The Verge） 据报道，触屏MacBook Pro比",
-     "source": "智东西",
-     "zh": "苹果首款MacBook Pro要来了， iPad mini屏幕史诗升级OLED"
     }
    ]
   },
@@ -295,7 +295,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 06:29:03 GMT",
      "summary": "Zhen Ding Technology said September 2026 consolidated revenue reached NT$26.358 billion (US$825.13 million), up 36.13% year over year and 27.54% from August, setting a monthly record. The PCB maker said the result reflected strong orders from mobile communications products as well as continued growt",
      "source": "DIGITIMES",
-     "zh": "甄鼎 9 月份移动需求和人工智能应用销售额创历史新高"
+     "zh": "臻鼎 9 月份移动需求和人工智能应用销售额创历史新高"
     },
     {
      "title": "TPCA Show 2026 to spotlight AI computing, Unimicron chair keynote",
@@ -559,7 +559,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
      "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
      "source": "Robohub",
-     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
+     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与 Kushant Patel"
     },
     {
      "title": "Cevotec brings robotic composite lamination to South Korea with KCompositeLab partnership",
@@ -615,7 +615,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 08 Oct 2026 15:55:31 +0000",
      "summary": "Helm.ai trained its foundation models using its unsupervised 'deep teaching' methodology to master the structure of the physical world itself. The post Helm.ai reaches $70M in signed commercial contracts for its foundation models appeared first on The Robot Report .",
      "source": "The Robot Report",
-     "zh": "Helm.ai 基础模型商业合同金额已达 7000 万美元"
+     "zh": "Helm.ai 基础模型商业合同金额达 7000 万美元"
     },
     {
      "title": "This Disembodied Hand Is All the Robot You Need",
@@ -671,7 +671,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 01:34:49 +0000",
      "summary": "A Q3 electric semi-truck marked the milestone as BYD accelerates its expansion into long-haul freight transport. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "比亚迪商用新能源汽车产量达到15万辆里程碑 随着增长重点转向卡车"
+     "zh": "随着增长重点转向卡车，比亚迪商用新能源汽车产量达到15万辆里程碑"
     },
     {
      "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
@@ -962,12 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "各州押注虚拟发电厂以降低电网成本"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM 批准 Engie、LS Power 的 2.1 GW 快速互连"
+     "zh": "Engie、LS Power 获得 PJM 快速互联批准 2.1 吉瓦"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "第三季度美国电力、天然气公用事业费率请求飙升至 $4.5B：PowerLines"
     },
@@ -1359,7 +1359,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
      "summary": "Seattle-based Kapta Space announced a $24M Series A to build next-gen radar payloads designed to track moving targets. The post Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：Kapta Space 筹集了 2400 万美元的 A 轮融资，用于构建移动目标雷达有效载荷"
+     "zh": "独家：Kapta Space A 轮融资 2400 万美元，用于构建移动目标雷达有效载荷"
     },
     {
      "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
@@ -1551,7 +1551,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击"
+     "zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击"
     },
     {
      "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -1730,12 +1730,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "四部门拟规范汽车采用虚拟操纵件替代传统物理按键的产品，涉及关键驾驶安全需同时具备实体操纵件",
+     "link": "https://www.ithome.com/1/011/477.htm",
+     "pubDate": "Sat, 10 Oct 2026 10:24:59 GMT",
+     "summary": "IT之家 10 月 10 日消息，据工信部官网今日消息，工业和信息化部会同公安部、生态环境部、市场监管总局等部门研究起草了《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》。 征求意见稿提出，采用虚拟操纵件（触摸按键、压感按键等）替代传统物理按键的产品，除应满足《机动车运行安全技术条件》（GB 7258）、《汽车操纵件、指示器及信号装置的标志》（GB 4094）等要求外， 还应完成触控可靠性、防误触性能、反馈清晰度等评估验证 。 IT之家注意到，涉及关键驾驶安全的功能（灯光、雨刮、除霜除雾等）采用虚拟操纵件的，应评估其在各种驾驶场景下的操作便捷性、可靠性和安全性，",
+     "source": "IT之家",
+     "zh": "四部门拟规范汽车采用虚拟操纵件替代传统物理按键的产品，涉及关键驾驶安全需同时具备实体操纵件"
+    },
+    {
+     "title": "为什么长假高速公路充电排长队“永远”无解？",
+     "link": "https://www.huxiu.com/article/4896485.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 18:18:03 +0800",
+     "summary": "本文来自微信公众号： 电厂 ，作者：花子健，原文标题：《为什么长假高速公路充电排长队“永远”无解？ | 电厂》 “凌晨三点、排队七小时”“睡醒一觉了，还没轮到我”“国庆充电大型渡劫现场”……2026年国庆假期，这些短视频在抖音平台都获得了数万点赞和评论。这告诉我们在新能源产品和技术不断内卷竞争的同时，长假充电难题并没有得到解决。 10月8日，国家能源局先后公布了国庆假期前3日和整个假期期间高速公路新能源汽车充电的数据统计情况，这些数据来自于国家充电设施监测服务平台的6.27万个高速公路充电设施（枪），从中可以窥见国庆期间的“充电难”问题。 今年国庆假期前三天全国高速公路新能源汽车充电次数共计2",
+     "source": "虎嗅",
+     "zh": "为什么长假高速公路充电排长队“永远”无解？"
+    },
+    {
+     "title": "江淮汽车，还禁得起折腾吗",
+     "link": "https://www.huxiu.com/article/4896484.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 18:15:00 +0800",
+     "summary": "本文来自微信公众号： 超电实验室 ，作者：王磊，编辑：秦章勇 踩断的不只是一个刹车踏板支架。 两天蒸发117亿，江淮汽车用两个跌停，把过去一个月靠“华为+Stellantis”概念涨出来的41%涨幅，几乎全吐了出去，市值从620亿跌回513亿，回到了9月中旬炒作启动前的位置。 如果对比今年2月份58.79元的年内高点，短短8个月时间，公司市值更是已经蒸发约812亿元。 市场从来不会耐心听解释，尤其是当你解释不了的时候。 更严重的是，“踩穿”的远不止短期股价，还有市场对江淮高端转型的信任度。这次刹车安全件失效事件，开始让市场重新审视江淮的高端制造硬实力与工程体系的可靠程度。 01 主业9年连续失",
+     "source": "虎嗅",
+     "zh": "江淮汽车，还禁得起折腾吗"
+    },
+    {
+     "title": "奇瑞调整高管分工",
+     "link": "https://www.huxiu.com/article/4896483.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 18:12:18 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，制图：界面新闻记者王臻，作者：王臻 近日，奇瑞汽车股份有限公司发布公告，重新任命国内外业务和品牌管理负责人。 公告称，奇瑞主品牌纳入全球市场体系，奇瑞汽车股份有限公司常务副总裁张贵兵直接分管奇瑞品牌国内事业群，并继续担任国际事业群总经理。 此前兼任奇瑞品牌国内事业群总经理的执行副总裁李学用，不再负责该事业群，改为分管捷途品牌事业部，并向张贵兵汇报。 两人此前均已参与相关业务。张贵兵长期负责奇瑞国际业务，近期又接手星途品牌。李学用从2018年捷途成立初期便参与品牌经营，并于2022年升任捷途汽车总经理。 制图/界面新闻记者王臻 从部分员工的反馈来看，新的分工尚未",
+     "source": "虎嗅",
+     "zh": "奇瑞调整高管分工"
+    },
+    {
+     "title": "大厂混战持续：模型能力快速普及后，AI办公靠什么拉开差距？",
+     "link": "https://www.huxiu.com/article/4896482.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 18:09:14 +0800",
+     "summary": "本文来自微信公众号： 和讯 ，作者：和讯财经研究 9月，国内AI办公厂商的动作密集到按天计。 2日，腾讯WorkBuddy开放平台上线，首批引入超百家生态伙伴；4日，阿里千问办公公布上线首月注册用户突破3000万，企业用户占比过半；9日，京东发布企业级AI原生办公平台JD JoyWork；14日，金山办公领取智能体身份码节点；15日，飞书发布为适配Agent系统性重构的8.0版本，国内首个团队智能体“豆包工作伙伴”亮相；16日，百度智能云宣布“搭子”生态平台开放入驻，并承诺永不向伙伴抽佣；22日阿里云栖大会上，千问办公开始尝试让Agent直接连接企业既有业务系统，承接部分原有数字化系统中的工作",
+     "source": "虎嗅",
+     "zh": "大厂混战持续：模型能力快速普及后，AI办公靠什么拉开差距？"
+    },
+    {
      "title": "曜越新款 CTE E660 MX 机箱上市：CTE 设计、支持背插主板，999 元",
      "link": "https://www.ithome.com/1/011/474.htm",
      "pubDate": "Sat, 10 Oct 2026 10:09:10 GMT",
      "summary": "IT之家 10 月 10 日消息，曜越旗下新款中塔机箱 CTE E660 MX 现已在京东上架，该产品在保留主板旋转 90 度等核心设计的基础上新增了对背插主板的支持， 定价为 999 元 。 京东 曜越 CTE E660 MX 机箱 999 元 直达链接 CTE E660 MX 尺寸达到 558.5 x 270 x 513 mm，拥有黑、雪白、竞速绿三种配色，其采用直角全视侧透设计，延续了曜越 CTE (Centralized Thermal Efficiency) 系列机箱的设计，将主板位置旋转 90°、后置 I / O 面板朝上安装，可优化气流通道、强化系统整体散热效能。兼容从 Mini",
      "source": "IT之家",
      "zh": "曜越新款 CTE E660 MX 机箱上市：CTE 设计、支持背插主板，999 元"
+    },
+    {
+     "title": "胖东来将建近100米酒店，65亿砸出来的是标杆还是豪赌？",
+     "link": "https://www.huxiu.com/article/4896481.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 18:04:36 +0800",
+     "summary": "本文来自微信公众号： 大橘财经 ，作者：刘媛媛 日前，许昌市自然资源和规划局官网公布胖东来梦之城二、三、四期建设工程规划许可批前公示，这座总投资约65亿元的大型商业项目完整业态布局首次公开。 公示显示，项目二期为幸福讲堂，面积5630平方米，高度小于等于24米；三期为文化中心，面积3.62万平方米，高度小于等于25.45米；四期为酒店，面积6.6万平方米，高度小于等于99.95米。 成立以来投资最大的单体项目 据此前公示信息，胖东来梦之城位于许昌市东城区，莲城大道以北、许州路以东，临近京港澳高速出入口和高铁许昌东站。 项目总建筑面积约57.6万平方米。其中一期商业综合体约46.7万平方米，主体",
+     "source": "虎嗅",
+     "zh": "胖东来将建近100米酒店，65亿砸出来的是标杆还是豪赌？"
     },
     {
      "title": "四部门：汽车生产企业不得作虚假、夸大或引人误解的宣传，不得诱导驾驶人忽视安全驾驶责任",
@@ -1778,26 +1826,10 @@ window.INDUSTRY_DATA = {
      "zh": "优衣库中国店少了，却赚更多了"
     },
     {
-     "title": "超强厄尔尼诺来了，有人怕天灾有人等发财",
-     "link": "https://www.huxiu.com/article/4896477.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 17:53:26 +0800",
-     "summary": "本文来自微信公众号： 超聚焦foci ，作者：肖恩 10月9日，中国国家气候中心宣布，超强厄尔尼诺正式形成。 消息来得并不突然，今年5月以来，赤道中东太平洋海水持续升温，7月至9月关键区域海温指数达到2.54℃，已经跨过超强厄尔尼诺的判定门槛。国家气候中心预计，这轮厄尔尼诺将在今年秋末冬初达到峰值，甚至可能成为有系统性监测以来最强的一次。 上一次出现如此强烈的厄尔尼诺现象，还要追溯到2015年至2016年。在此之前，1997年至1998年的超强厄尔尼诺，同样给大众留下了惨痛的记忆。 1998年，长江、嫩江和松花江流域接连发生特大洪水，全国洪涝灾害造成上亿人流离失所，直接经济损失高达2642亿元",
-     "source": "虎嗅",
-     "zh": "超强厄尔尼诺来了，有人怕天灾有人等发财"
-    },
-    {
-     "title": "电费翻倍催生美国新赛道，中国供应链接住了",
-     "link": "https://www.huxiu.com/article/4896478.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 17:53:16 +0800",
-     "summary": "本文来自微信公众号： 品牌工厂BrandsFactory ，作者：陈庭 今年夏天，一款售价约10美元的节能插座在美国被疯抢了。不到一个月，卖出4.38万单，冲上家装建材类目销量榜首。 带火它的，是一条很简单的视频。一位博主晒出使用前后的两张电费单：一张280.47美元，另一张110.23美元。没有产品特写，也没有原理讲解，视频却收获超过600万播放量，带货接近6000单。 这款插座的节能效果是否真如此优秀，还需要打个问号。但它走红背后，却反映出一种正在全美蔓延的情绪：消费者正在想方设法省电。 原因很简单，电费已经让许多美国人不堪重负。全美能源援助主管协会数据显示，2026年夏季，家庭平均电费支",
-     "source": "虎嗅",
-     "zh": "电费翻倍催生美国新赛道，中国供应链接住了"
-    },
-    {
      "title": "`123456' password used in Danish CPR data breach",
      "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
      "pubDate": "Sat, 10 Oct 2026 09:51:49 +0000",
-     "summary": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinator.com/item?id=50031269 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinator.com/item?id=50031269 Points: 33 # Comments: 7",
      "source": "Hacker News",
      "zh": "丹麦 CPR 数据泄露中使用了“123456”密码"
     },
@@ -1810,44 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "市场监管总局谈“美团收购麦芽田股权案”：将依法推进本案后续审查"
     },
     {
-     "title": "深度｜1.65万亿暗雷与白菜价Token：一场AI资本游戏的终局推演",
-     "link": "https://www.huxiu.com/article/4896475.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 17:50:28 +0800",
-     "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《深度｜1.65万亿暗雷与白菜价Token：一场AI资本游戏的终局推演》 我们新加坡的合伙人Eric是AI产业研究的大拿，最近翻遍了美国科技巨头财报，跟我说了一句话：“越看，越觉得不对劲。” 2026年夏天，Alphabet、亚马逊相继交出创纪录的季度利润，分别是1121亿美元、626亿美元。但财报公布之后，两家股价反而下跌。 仔细拆解附注才发现：Alphabet的千亿净利润里，大约980亿来自对SpaceX、Anthropic的股权投资估值上浮；亚马逊626亿利润中，534亿来自Anthropic投资的公允价值调增。 这些利润，一分现",
-     "source": "虎嗅",
-     "zh": "深度｜1.65万亿暗雷与白菜价Token：一场AI资本游戏的终局推演"
-    },
-    {
      "title": "四部门：汽车生产企业获知其生产销售的产品发生安全事件，应主动开展调查分析",
      "link": "https://www.ithome.com/1/011/444.htm",
      "pubDate": "Sat, 10 Oct 2026 09:46:06 GMT",
      "summary": "IT之家 10 月 10 日消息，据工信部官网今日消息，工业和信息化部会同公安部、生态环境部、市场监管总局等部门研究起草了《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》。 其中提出，健全安全事件事故记录与研判机制。 汽车生产企业在获知其生产销售的产品发生创新设计功能异常等安全事件或碰撞等安全事故时，应主动开展调查分析 ，排查安全风险隐患，记录分析所需关键数据并确保数据真实性、完整性；在公安机关依法开展交通事故调查时，汽车生产企业应及时提供数据和技术协助。 IT之家注意到，征求意见稿针对部分生产企业跟风推出新产品、测试验证不充分等问题， 提出了多方面的要求 。 ",
      "source": "IT之家",
      "zh": "四部门：汽车生产企业获知其生产销售的产品发生安全事件，应主动开展调查分析"
-    },
-    {
-     "title": "乘联分会：初步统计 9 月全国乘用车市场零售 170.2 万辆，同比下降 24%",
-     "link": "https://www.ithome.com/1/011/443.htm",
-     "pubDate": "Sat, 10 Oct 2026 09:44:14 GMT",
-     "summary": "IT之家 10 月 10 日消息，据乘联分会初步统计，9 月 1-30 日， 全国乘用车市场零售 170.2 万辆， 同比去年 9 月同期下降 24% ，较上月同期增长 10%，今年以来乘用车累计零售 1,341.8 万辆，同比下降 21%；9 月 1-30 日，全国乘用车厂商批发 252.8 万辆，同比去年 9 月同期下降 10%，较上月同期增长 7%，今年以来累计批发 1,971.1 万辆，同比下降 6%。 9 月 1-30 日， 全国乘用车新能源市场零售 114.1 万辆，同比去年 9 月同期下降 12% ，较上月同期增长 14%，今年以来累计零售 781.6 万辆，同比下降 12%；9",
-     "source": "IT之家",
-     "zh": "乘联分会：初步统计 9 月全国乘用车市场零售 170.2 万辆，同比下降 24%"
-    },
-    {
-     "title": "月之暗面、智谱收入更少，为什么比OpenAI卖得更贵？",
-     "link": "https://www.huxiu.com/article/4896471.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 17:43:00 +0800",
-     "summary": "本文来自微信公众号： 智核pro ，作者：伯克 9月17日，Rhodium把中美AI放到了一张表里。最扎眼的并非谁的模型更强，是两边模型的价格正好反着走。用户这边，中国模型便宜得多。即使今年已经经历一轮涨价，主流前沿模型完成一次标准化任务，大多仍只需要0.04—0.5美元；Claude最强一档大约需要2—4美元。 但到了投资人这里，价格关系反了过来。DeepSeek每一美元ARR背后对应约163美元估值，Moonshot约50美元；OpenAI约34美元，Anthropic约21美元。中国模型卖给用户更便宜，一美元收入反而卖得更贵。 真正拉开距离的，还是收入。按最新月收入年化估算，中国主要模型",
-     "source": "虎嗅",
-     "zh": "月之暗面、智谱收入更少，为什么比OpenAI卖得更贵？"
-    },
-    {
-     "title": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧",
-     "link": "https://www.huxiu.com/article/4896473.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 17:42:27 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：董静 美股表面风平浪静，水面之下暗流涌动。十年期美债收益率本周逼近5.4%，创2002年以来新高，布伦特原油徘徊于每桶100美元上方，金融市场正在经历一场被科技巨头光环所遮蔽的广泛撤退。 标普500指数本周创下历史新高，但这一纪录背后隐藏着极度脆弱的市场基础——仅约30%的成分股交易于50日均线之上，是彭博自1990年有数据以来，所有创纪录交易日中市场参与度最低的一次。 与此同时，罗素2000小盘股指数连续第五周下跌，较高点累计跌幅约8.5%，逼近技术性回调区间。 利率冲击正在向更广泛的资产类别蔓延。垃圾债券ETF跌至今年春季关税战引发抛售以来的最低水",
-     "source": "虎嗅",
-     "zh": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧"
     },
     {
      "title": "“请3休13”的黄金周，AI旅游攻略把我练成了特种兵",
@@ -2111,7 +2111,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 22:28:43 +0000",
      "summary": "Google has seemingly confirmed the rumored \"Fitbit Edge\" with social media posts teasing a new wearable coming October 12.",
      "source": "Engadget",
-     "zh": "谷歌将于 10 月 12 日发布新款可穿戴设备“Fitbit Edge”"
+     "zh": "谷歌在 10 月 12 日发布之前预告其新的“Fitbit Edge”可穿戴设备"
     },
     {
      "title": "Google Translate could soon get its own version of Gboard’s Rambler",
@@ -2119,7 +2119,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 21:17:48 +0000",
      "summary": "Smart assist would clean up your messy speech before translating.",
      "source": "Android Authority",
-     "zh": "谷歌翻译可能很快就会推出自己版本的 Gboard Rambler"
+     "zh": "谷歌翻译可能很快就会推出自己的 Gboard Rambler 版本"
     },
     {
      "title": "Flock Safety is reportedly planning major layoffs now that everyone hates it",
@@ -2226,36 +2226,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "德国央行官员称欧洲债务危机风险急剧上升",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891945236.html",
-     "pubDate": "Sat, 10 Oct 2026 17:55:30 +0800",
-     "summary": "德国一位高级央行官员表示，欧洲近期债券抛售是投资者对各国政府控制债务的努力感到紧张的“明确警告信号”。德国央行执行委员会成员Michael Theurer表示：“当前的事态发展——你提到了法国，但我们也在关注美国——表明财政和政治不确定性会影响政府债券市场。目前不存在系统性主权债务危机，但风险已显著上升。” （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "德国央行官员称欧洲债务危机风险急剧上升"
+     "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
+     "link": "https://wallstreetcn.com/articles/3783332",
+     "pubDate": "Sat, 10 Oct 2026 18:23:15 +0800",
+     "summary": "美股表面平静之下，一场滚动式熊市正在悄然蔓延。 野村证券跨资产策略师Charlie McElligott在10月8日的报告中警告，标普500指数近两个月几乎原地踏步，但85%的成分股已陷入技术性调整，指数的\"平静\"不过是极度集中的市场结构所制造的幻觉。 McElligott指出，仅十只股票就贡献了标普500自3月30日以来23%涨幅的70%，其中英伟达一家独占13%。 与此同时，欧洲柴油短缺正通过利率波动率传导至整个市场， 构成随时可能引爆的“导火索” 。 就在野村报告发布数小时内， 两大关键变量相继落地： 特朗普宣布中期选举前不对伊朗动武，油价应声下跌；英国《金融时报》随即披露OpenAI年",
+     "source": "华尔街见闻",
+     "zh": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击"
     },
     {
-     "title": "半个车圈“晒踏板”！比亚迪、广汽本田、岚图汽车等高管发声",
-     "link": "http://finance.eastmoney.com/news/1345,202610103891944640.html",
-     "pubDate": "Sat, 10 Oct 2026 17:54:27 +0800",
-     "summary": "“尊界刹车踏板支架断裂事件”影响持续扩大，截至记者发稿，约有10家车企或供应商主体跟进发声，部分车企高管还晒出自家刹车踏板。 尊界V800在自媒体的制动测试中出现踏板支架断裂，且测试的三台车都出现类似问题。这起事件迅速登上热搜，引发市场高度关注。 江淮汽车 股价也连续大跌。 主流声音认为，自媒体、商业平台的实测不等同于权威鉴定，最终结论仍应以监管部门调查和权威第三方检测为准。同时， 车企回应不能止于“已关注” ， 真正的高端化，不只体现在价格和配置上，更体现在安全、质量、可靠性上。 近年来， 新能源 汽车 产业快速发展，行业多聚焦 电池 安全、智驾算法、座舱体验。而底盘、制动、转向这类基础机械",
+     "title": "胖东来梦之城最新规划曝光：要建近100米高酒店",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891946271.html",
+     "pubDate": "Sat, 10 Oct 2026 18:21:06 +0800",
+     "summary": "10月10日，北京商报记者从许昌市自然资源和规划局官网了解到，胖东来梦之城二、三、四期建设工程规划许可近日进行批前公示，这座备受关注的商业 综合 体再度迎来新进展。 根据公示，梦之城二期为幸福讲堂，面积5630平方米，高度不超过24米；三期为文化中心，面积3.62万平方米，高度不超过25.45米；四期为 酒店 ，面积6.6万平方米，高度不超过99.95米。这座近100米的 酒店 建筑，将成为梦之城项目最高的单体建筑。 据大河报、河南商报等媒体报道，梦之城是胖东来成立以来投资规模最大的单体项目。项目建设和装修总投资约65亿元，全部使用企业自有资金。项目一期商业 综合 体已于今年5月20日正式开工",
      "source": "东方财富股票",
-     "zh": "半个车圈“晒踏板”！比亚迪、广汽本田、岚图汽车等高管发声"
+     "zh": "胖东来梦之城最新规划曝光：要建近100米高酒店"
     },
     {
-     "title": "手机屏幕卷向165Hz背后：京东方、三星显示为何频频与手机厂商深度绑定？",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891945150.html",
-     "pubDate": "Sat, 10 Oct 2026 17:52:44 +0800",
-     "summary": "高刷屏是各大手机厂商的重要卖点之一，当手机屏幕的刷新率从120Hz（赫兹）迈向165Hz，一场围绕 显示技术 的竞争正在向产业链上游延伸。 “第四代‘东方屏’不是一加向 京东 方买一块屏幕，然后装到手机上。”10月9日，一加中国区总裁李杰在一场屏幕技术发布会上这样解释双方的合作关系。当天， 京东 方与一加联合发布第四代东方屏，这块由双方共同研发的 OLED （有机发光二极管）屏幕，支持全局165Hz刷新率，特定游戏场景下最高可达185Hz。为了实现这一目标，双方在发光材料、LTPO（低温多晶氧化物）驱动电路等环节进行了联合开发。 类似的合作也在其他手机厂商与 面板 企业之间展开。9月中旬，记者",
+     "title": "白云机场将重回年度第一！一图速览中国机场旅客吞吐量变化",
+     "link": "http://finance.eastmoney.com/news/11838,202610103891946161.html",
+     "pubDate": "Sat, 10 Oct 2026 18:17:48 +0800",
+     "summary": "据CADAS交通 大数据 ，2026年前三季度广州 白云机场 旅客吞吐量已突破6700万人次。 白云机场 2026年的目标锚定旅客吞吐量超9000万人次，从当前运行数据来看，年度目标落地已成大概率事件。 这意味着，时隔两年后， 白云机场 将重新夺回中国 机场 年度旅客吞吐量TOP1的宝座。 长期以来，北京首都国际 机场 都是全国旅客吞吐量最高的 机场 ，2019年大兴机场投用后，首都机场客运量被分流，由上海浦东、广州白云两大机场争夺国内TOP1。 随着上海国际航班的逐步恢复，2024、2025年，浦东机场均超越白云机场成为国内旅客吞吐量最大机场。2025年白云机场T3航站楼启用后，承载能力大幅",
      "source": "东方财富股票",
-     "zh": "手机屏幕卷向165Hz背后：京东方、三星显示为何频频与手机厂商深度绑定？"
+     "zh": "白云机场将重回年度第一！一图速览中国机场旅客吞吐量变化"
     },
     {
-     "title": "AI开始撕裂全球经济：美国收割红利 欧洲深陷泥潭！",
-     "link": "http://stock.eastmoney.com/news/1768,202610103891944253.html",
-     "pubDate": "Sat, 10 Oct 2026 17:52:42 +0800",
-     "summary": "眼下， 人工智能 (AI)正在加剧着全球经济的分化，赢家与输家之间的差距日益扩大。无论是呈现两极分化的美国经济，还是不同国家之间日益扩大的增长差距，背后都能看到AI带来的影响…… 而值得警惕的是，一方面， 人工智能 资本开支热潮正通过溢出效应、对资金的挤出效应以及跨境融资等渠道，推高全球资本成本；另一方面，这场投资热潮带来的收益，却并未在各国之间得到均衡分配。 正如 高盛 宏观交易员Rikin Shah在近期一份报告中所分析的，美国显然是 人工智能 浪潮的赢家，欧洲则并非如此。过去一周陷入债市风暴的法国，处境尤其具有代表性： 在利率中枢抬升的环境下，一些国家将面临日益严峻的债务与增长压力。 在",
+     "title": "光纤的紧俏时刻",
+     "link": "http://www.eeo.com.cn/2026/1010/1060169.shtml",
+     "pubDate": "Sat, 10 Oct 2026 18:16:49 +0800",
+     "summary": "在新产能释放之前，多位业内人士预计，光纤价格依然会小步上涨，持续的时间也会比较长。并且，随着光互连接下来有望更大范围地进入机柜内部，市场对高性能光纤的需求还会增加。",
+     "source": "经济观察网",
+     "zh": "光纤的紧俏时刻"
+    },
+    {
+     "title": "打掉各类犯罪团伙70个 重庆扫黑除恶专项斗争已查封、扣押、冻结涉案资产830万元",
+     "link": "http://www.eeo.com.cn/2026/1010/1060164.shtml",
+     "pubDate": "Sat, 10 Oct 2026 18:13:11 +0800",
+     "summary": "第1眼TV-华龙网讯（记者 唐雨）10月10日，记者从重庆市公安局获悉，深化扫黑除恶专项斗争启动以来，经多轮集中打击，已取得阶段性成效。截至目前，全市共打掉各类犯罪团伙70个，抓获犯罪嫌疑人430名，初步查明违法犯罪案件274起，查封、扣押、冻结涉案资产830万元。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/3F0ACB9D721DC0D9650209F8CFBF0AF7.jpg\" alt=\"截至目前，全市共打掉各类犯罪...",
+     "source": "经济观察网",
+     "zh": "打掉各类犯罪团伙70个 重庆扫黑除恶专项斗争已查封、扣押、冻结涉案资产830万元"
+    },
+    {
+     "title": "广东省珠海市委原常委、统战部原部长郭才武被开除党籍和公职",
+     "link": "http://www.eeo.com.cn/2026/1010/1060163.shtml",
+     "pubDate": "Sat, 10 Oct 2026 18:13:05 +0800",
+     "summary": "据南粤清风消息，经中共广东省委批准，广东省纪委监委对珠海市委原常委、统战部原部长郭才武严重违纪违法问题进行了立案审查调查。 经查，郭才武丧失理想信念，背弃初心使命，对抗组织审查；违反中央八项规定精神，违规收受礼品、礼金，接受可能影响公正执行公务的宴请；违反组织原则，不按规定报告个人有关事项，在组织函询时不如实说明问题，在干部职务晋升、职工录用等工作中违规为他人谋利并收受财物；廉洁底线失守，...",
+     "source": "经济观察网",
+     "zh": "广东省珠海市委原常委、统战部原部长郭才武被开除党籍和公职"
+    },
+    {
+     "title": "保险资管产品Q3业绩反转！医药、红利逆势领跑 部分科技主题回撤逾30% 机构研判后市三大方向",
+     "link": "http://finance.eastmoney.com/news/1345,202610103891945862.html",
+     "pubDate": "Sat, 10 Oct 2026 18:13:00 +0800",
+     "summary": "三季度收官，保险资管产品交出了怎样的成绩单？财联社据Wind（或为不完全数据）统计，在有区间回报数据的1892只产品中，1103只实现正收益，占比58.3%。 与上半年科技成长\"一枝独秀\"不同，三季度固收类重新扛起\"压舱石\"作用，权益类大面积回撤，风格出现明显再平衡。 面向四季度的保险资管操作策略，多家券商的研报给出三大方向：高股息资产筑牢底仓；科技成长聚焦\"业绩兑现\"；长久期债券仍是\"基本盘\"。 固收类\"压舱石\"归来，保险资管近六成实现正收益 分大类看，固收类产品最稳健，有数据的产品中，正收益占比83.8%；混合类居中，正收益产品占比41.8%；权益类回撤最明显，正收益产品仅占比25.9%。",
      "source": "东方财富股票",
-     "zh": "AI开始撕裂全球经济：美国收割红利 欧洲深陷泥潭！"
+     "zh": "保险资管产品Q3业绩反转！医药、红利逆势领跑 部分科技主题回撤逾30% 机构研判后市三大方向"
+    },
+    {
+     "title": "欧盟面临冬季天然气供应短缺",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891945685.html",
+     "pubDate": "Sat, 10 Oct 2026 18:09:29 +0800",
+     "summary": "美国智库“美国能源经济和金融分析研究所”10月9日发布报告称，随着冬季的临近，欧盟正面临 天然气 供应短缺的危机，有可能影响到1千多万户家庭的能源需求。而“欧洲 天然气 输气系统运营商协会”也在8日警告称，如果遭遇寒冬，欧洲 天然气 库存水平可能降至11%这一低位，触及到战略储备底线。如果欧盟各国希望在冬季结束时将天然气库存恢复至30%，以增强应对后续寒潮的能力，就必须削减相当于需求量7%的供应，或者干脆停止向消费者供气。 （文章来源：CCTV国际时讯）",
+     "source": "东方财富股票",
+     "zh": "欧盟面临冬季天然气供应短缺"
+    },
+    {
+     "title": "第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品",
+     "link": "https://wallstreetcn.com/articles/3783333",
+     "pubDate": "Sat, 10 Oct 2026 18:01:57 +0800",
+     "summary": "8 月 14 日摊余成本法债基重新“开闸”后，中小公募 机构的 申报热情持续高涨。 因为 摊余成本法债基确实具备独特的市场热度。 同样是买债券，普通债基的净值随债券市价涨跌 ，市场 一波动 净值就 上下起伏。摊余成本法债基则以买入成本记账，把票息和折溢价摊销到持有期的每一天，净值几乎是一条平稳向上的曲线。 但 产品必须封闭持有到期、中途不能卖出。 10 月 8 日、9 日，第三批 16 家中小基金公司集中上报。 又有 16 家集体申报 证监会网站显示，财信基金、金元顺安基金、金信基金、泉果基金、红塔红土基金、易米基金、汇百川基金、百嘉基金、安联基金、兴华基金、红土创新基金、联博基金、国新国证基",
+     "source": "华尔街见闻",
+     "zh": "第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品"
+    },
+    {
+     "title": "高德机器狗入驻金沙中国旗下度假区",
+     "link": "http://stock.eastmoney.com/news/1437,202610103891945422.html",
+     "pubDate": "Sat, 10 Oct 2026 17:59:02 +0800",
+     "summary": "阿里巴巴 集团旗下高德与金沙中国在澳门威尼斯人NBA House举行任命仪式，正式交付首批具身机器狗高德途途，它们将进入金沙中国旗下度假区，为游客提供导览服务。 根据双方合作计划，高德还结合楼层、通道、店铺及公共设施等空间信息，为度假区提供全域室内导航；同时依托空间智能技术，构建度假区部分区域的三维空间模型，让游客通过高德App自主调整观看视角，出发前即可沉浸式预览。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "高德机器狗入驻金沙中国旗下度假区"
+    },
+    {
+     "title": "水利部：全面系统推进老旧水库改造提升",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891945517.html",
+     "pubDate": "Sat, 10 Oct 2026 17:58:37 +0800",
+     "summary": "水利部10日召开老旧水库改造提升专项行动推进会议。会议强调，全面系统推进老旧水库改造提升，要坚持问题导向，长短结合、标本兼治，因地制宜、分类施策，突出重点、统筹推进，系统推进排查评估，分类分批改造提升，提升监测预警能力，优化水库调度管理，强化应急处置能力，健全长效管护机制。要坚持质效并重，深入做好项目前期工作，提高审批工作效率，紧盯重点领域和关键环节，严格 工程建设 、质量、进度、资金管理，确保建成民心工程、优质工程、廉洁工程。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "水利部：全面系统推进老旧水库改造提升"
     },
     {
      "title": "国家市场监管总局：尽快修订出台《企业境外反垄断合规指引》",
@@ -2264,22 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "中新经纬10月10日电 据国家市场监管总局网站消息，10月10日，国家市场监管总局召开“经营者集中简易案件审查制度成效”专题新闻发布会。市场监管总局反垄断二司司长徐乐夫在发布会上表示，将深入推进企业海外反垄断合规能力提升专项行动，尽快修订出台《企业境外反垄断合规指引》，持续丰富海外反垄断合规服务平台功能。 发布会上有记者提问，近来，有媒体报道，我国一些企业接连遇到海外反垄断调查，反垄断合规已成为企...",
      "source": "经济观察网",
      "zh": "国家市场监管总局：尽快修订出台《企业境外反垄断合规指引》"
-    },
-    {
-     "title": "【调研快报】百洋医药接待天弘基金等63家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610103891943893.html",
-     "pubDate": "Sat, 10 Oct 2026 17:51:41 +0800",
-     "summary": "百洋医药 10月10日公告称， 10月9日 接待天弘基金 等63家机构 调研。 接待人员包括董事长、总经理 付钢,财务总监、董事会秘书 李震。 公司就以下问题进行了回复： 1、关于 ZAP-X 火星舟放射外科 机器人 ,目前在 医院 端患者的诊治情况以及患者储备数量如何?另外,ZAP-X 在全国的签约和装机计划,包括未来几年到 2030 年的规划,后续这些中心投入运营的节奏,以及预计这些机器对公司收入产生贡献的时间节奏是怎样的? ZAP-X 是基于放射技术的新型放射外科... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容",
-     "source": "东方财富股票",
-     "zh": "【调研快报】百洋医药接待天弘基金等63家机构调研"
-    },
-    {
-     "title": "褪黑素、辅酶Q10等四项保健食品原料国家标准首次发布",
-     "link": "http://finance.eastmoney.com/news/1350,202610103891943995.html",
-     "pubDate": "Sat, 10 Oct 2026 17:51:38 +0800",
-     "summary": "记者今天了解到， 市场监管总局发布了《保健食品原料破壁灵芝孢子粉》《保健食品原料褪黑素》《保健食品原料辅酶Q10》《保健食品原料螺旋藻》四项推荐性国家标准 ，进一步规范相关保健食品原料质量控制，保障产品质量安全，促进保健食品产业高质量发展。 破壁灵芝孢子粉、褪黑素、辅酶Q10和螺旋藻均于2020年11月被纳入《保健食品原料目录》，以其为原料的保健食品实施备案管理。截至2026年8月31日，全国已有以破壁灵芝孢子粉为原料的保健食品1900余个、以褪黑素为原料的保健食品1100余个、以辅酶Q10为原料的保健食品2300余个、以螺旋藻为原料的保健食品180余个获得备案凭证。 相关负责人介绍： 此次发",
-     "source": "东方财富股票",
-     "zh": "褪黑素、辅酶Q10等四项保健食品原料国家标准首次发布"
     },
     {
      "title": "重庆48株400年以上树龄古树有了“司法守护人”",
@@ -2338,28 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "花旗：法国财政风险或令欧央行12月后暂停加息，欧元料跌破1.10"
     },
     {
-     "title": "靠定增赚了数百亿的人，又把钱拍在了桌面上",
-     "link": "https://wallstreetcn.com/articles/3783322",
-     "pubDate": "Sat, 10 Oct 2026 15:08:52 +0800",
-     "summary": "大腕出手，志在必得。 10月8日晚，新材料龙头中材科技发布定增公告：以51.40元/股向15名对象定向增发8718.19万股，合计募资44.81亿元。 消息一出，最引人注目的名字，不是易方达，不是国寿养老，而是 ——葛卫东。 这位私募大佬 ， 以全场最高报价强势入局，最终获配 1361.87万股，斥资约7亿元，一举跻身公司第五大股东。 他曾在沐熙股份、兆易创新等科技股上分别斩获上百亿元浮盈，但最终却把最新的 “重拳出击”放在了一个材料股上。 这着实出人意料。 报价最高，志在必得 中材科技这次定增，来 “抢”的机构和投资者着实不少。 9月下旬申购报价阶段，共有25名投资者提交有效报价，覆盖头部公",
-     "source": "华尔街见闻",
-     "zh": "靠定增赚了数百亿的人，又把钱拍在了桌面上"
-    },
-    {
      "title": "The world of one trade — AI",
      "link": "https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?syn-25a6b1a6=1",
      "pubDate": "Sat, 10 Oct 2026 06:36:04 GMT",
      "summary": "Investor portfolios have become alarmingly reliant on the fortunes of just one bet on the build-out of an uncertain technology",
      "source": "Financial Times",
      "zh": "单一行业的世界——人工智能"
-    },
-    {
-     "title": "ASML零部件价格全线上调10%，三星SK海力士接受涨价，半导体设备成本压力蔓延",
-     "link": "https://wallstreetcn.com/articles/3783320",
-     "pubDate": "Sat, 10 Oct 2026 14:01:44 +0800",
-     "summary": "全球最大半导体设备制造商ASML宣布对韩国客户实施零部件价格全线上调10%，三星电子与SK海力士已接受这一方案，涨价将于明年1月起正式生效。这标志着半导体设备供应链的定价权正加速向供应商一侧倾斜，行业成本压力持续扩散。 据韩国科技媒体The Lec报道，ASML总部于上月初通过韩国法人向三星和SK海力士发出涨价通知，经双方采购部门协商后确认。此次涨价覆盖EUV与DUV光刻机的全部零部件，包括定期采购的消耗性部件，以及因故障或性能下降而需更换的核心组件，涉及光学系统、光源、精密驱动装置等。 此次全线一次性上调10%被业界视为异常举措。ASML此前通常仅在原材料价格大幅上涨或特定材料采购困难时对个",
-     "source": "华尔街见闻",
-     "zh": "ASML零部件价格全线上调10%，三星SK海力士接受涨价，半导体设备成本压力蔓延"
     },
     {
      "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
@@ -2440,30 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "“Both properties will be solely in his name.”",
      "source": "MarketWatch",
      "zh": "我的姐夫说服他的父母签下他们的房屋和毕生积蓄购买价值 300 万美元的大院。我干预吗？"
-    },
-    {
-     "title": "How to provide guaranteed retirement income while paying no commissions",
-     "link": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 22:41:00 GMT",
-     "summary": "Unlike the stock market, whose future returns are anything but assured, a TIPS ladder’s payout is guaranteed.",
-     "source": "MarketWatch",
-     "zh": "如何在不支付佣金的情况下提供有保障的退休收入"
-    },
-    {
-     "title": "Lockheed unveils next-gen Patriot interceptor to defend against hypersonic threats",
-     "link": "https://seekingalpha.com/news/4651898-lockheed-unveils-next-gen-patriot-interceptor-to-defend-against-hypersonic-threats?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 18:17:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "洛克希德公司推出下一代爱国者拦截器以防御高超音速威胁"
-    },
-    {
-     "title": "Trump agrees deal with Putin for Russia to release diesel",
-     "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 22:06:22 GMT",
-     "summary": "Pact between Washington and Moscow comes just weeks before critical US midterm elections",
-     "source": "Financial Times",
-     "zh": "特朗普与普京达成协议，俄罗斯将释放柴油"
     }
    ]
   },

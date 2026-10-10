@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 04:03:14",
+ "generated_at": "2026/10/11 04:46:18",
  "recent_days": 7,
  "industries": [
   {
@@ -962,12 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "Clean-energy super PAC names its target list for general elections"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1741,7 +1741,7 @@ window.INDUSTRY_DATA = {
      "title": "Takeshi's Castle",
      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
      "pubDate": "Sat, 10 Oct 2026 19:12:55 +0000",
-     "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle Comments URL: https://news.ycombinator.com/item?id=50036119 Points: 17 # Comments: 5",
+     "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle Comments URL: https://news.ycombinator.com/item?id=50036119 Points: 32 # Comments: 13",
      "source": "Hacker News",
      "zh": "Takeshi's Castle"
     },
@@ -1765,7 +1765,7 @@ window.INDUSTRY_DATA = {
      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
      "pubDate": "Sat, 10 Oct 2026 18:48:35 +0000",
-     "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 29 # Comments: 15",
+     "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 60 # Comments: 36",
      "source": "Hacker News",
      "zh": "Nvidia in talks to acquire US 'open' model startup Reflection AI"
     },
@@ -1773,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
      "link": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
      "pubDate": "Sat, 10 Oct 2026 18:11:58 +0000",
-     "summary": "Article URL: https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300 Comments URL: https://news.ycombinator.com/item?id=50035561 Points: 38 # Comments: 29",
+     "summary": "Article URL: https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300 Comments URL: https://news.ycombinator.com/item?id=50035561 Points: 67 # Comments: 52",
      "source": "Hacker News",
      "zh": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well"
     },
@@ -1781,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "Why DuckDB 2.0 is faster",
      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
      "pubDate": "Sat, 10 Oct 2026 18:08:49 +0000",
-     "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/ Comments URL: https://news.ycombinator.com/item?id=50035530 Points: 15 # Comments: 1",
+     "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/ Comments URL: https://news.ycombinator.com/item?id=50035530 Points: 40 # Comments: 12",
      "source": "Hacker News",
      "zh": "Why DuckDB 2.0 is faster"
     },
@@ -1861,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Knuth reward check",
      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
      "pubDate": "Sat, 10 Oct 2026 15:47:01 +0000",
-     "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 88 # Comments: 32",
+     "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 100 # Comments: 36",
      "source": "Hacker News",
      "zh": "Knuth reward check"
     },
@@ -1872,6 +1872,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 10 日消息，今日，据彭博社援引知情人士消息，半导体公司 Cirrus Logic Inc. 上个月向 Synaptics Inc. 提出了一项未经请求的收购要约，试图破坏后者此前已公布的、与安森美半导体的并购交易。 知情人士表示，Synaptics 周四更新的股东委托文件中提及的“甲方”， 正是 Cirrus Logic 。知情人士补充，目前尚不清楚 Cirrus Logic 是否仍有意推进这笔收购。 据悉，Cirrus Logic 的报价采用现金 + 股票形式，促使安森美在上周修改了与 Synaptics 的协议条款。安森美将交易结构从全股票改为全现金，每股报价调整至 ",
      "source": "IT之家",
      "zh": "阻击安森美，Cirrus Logic 抢购 Synaptics"
+    },
+    {
+     "title": "How Protein Took over the World",
+     "link": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
+     "pubDate": "Sat, 10 Oct 2026 15:40:06 +0000",
+     "summary": "https://archive.is/CbkfI Comments URL: https://news.ycombinator.com/item?id=50034008 Points: 38 # Comments: 56",
+     "source": "Hacker News",
+     "zh": "How Protein Took over the World"
     },
     {
      "title": "收废品，怎么就成了大生意？",
@@ -1928,14 +1936,6 @@ window.INDUSTRY_DATA = {
      "summary": "Jemima McEvoy / The Information : A profile of Zach Frankel, a secretive and unusually hands-on solo investor who wrote the first checks to startups like Ramp, Cognition, and Applied Compute &nbsp; &mdash;&nbsp; Last month, Zach Dell, son of billionaire Michael Dell and cofounder of Base Power, a bi",
      "source": "Techmeme",
      "zh": "A profile of Zach Frankel, a secretive and unusually hands-on solo investor who wrote the first checks to startups like Ramp, Cognition, and Applied Compute (Jemima McEvoy/The Information)"
-    },
-    {
-     "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
-     "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-     "pubDate": "Sat, 10 Oct 2026 15:10:24 +0000",
-     "summary": "Article URL: https://chronicles.popvax.com/p/popvax-goes-clinical Comments URL: https://news.ycombinator.com/item?id=50033721 Points: 83 # Comments: 16",
-     "source": "Hacker News",
-     "zh": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial"
     },
     {
      "title": "How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal (Wall Street Journal)",
@@ -2226,6 +2226,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "泽连斯基与多个欧洲国家领导人通话",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892008586.html",
+     "pubDate": "Sun, 11 Oct 2026 04:27:40 +0800",
+     "summary": "乌克兰总统泽连斯基10日在社交媒体发布消息说，他当天与多个欧洲国家领导人通电话，呼吁加大对乌援助和对俄罗斯制裁。泽连斯基分别与芬兰总统斯图布、法国总统马克龙、挪威首相斯特勒以及英国首相伯纳姆通话。他在通话中，通报俄乌冲突近况，讨论美国放宽对俄石油产品制裁引发的挑战，并就协调应对措施及筹备后续会晤等事宜进行沟通。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "泽连斯基与多个欧洲国家领导人通话"
+    },
+    {
+     "title": "乌方称俄军袭击扎波罗热地区致死人数上升到20人",
+     "link": "http://finance.eastmoney.com/news/11790,202610113892008733.html",
+     "pubDate": "Sun, 11 Oct 2026 04:22:03 +0800",
+     "summary": "据乌克兰国家通讯社10日报道，俄军当天凌晨空袭扎波罗热地区，致死人数已上升到20人，另有32人受伤。报道说，10日凌晨4时48分，俄军使用校正航空炸弹对扎波罗热地区进行空袭。死者包含3名儿童，伤者正在 医院 接受治疗。目前，建筑废墟下的搜救工作仍在继续。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "乌方称俄军袭击扎波罗热地区致死人数上升到20人"
+    },
+    {
+     "title": "企查查 撤回IPO",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892006147.html",
+     "pubDate": "Sun, 11 Oct 2026 04:20:05 +0800",
+     "summary": "10月9日，企业信息查询平台企查查科技股份有限公司（以下简称企查查）沪市主板IPO（首次公开募股）终止。上交所披露，企查查及保荐人 中信证券 申请撤回发行上市申请文件，上交所据此终止审核。 本次上市申请于2025年10月10日获受理，拟募资约15亿元，审核历时约一年。期间，公司披露首轮问询回复，并于今年3月将申报稿报告期更新至2025年。 最新招股书（申报稿，下同）显示，企查查2025年归母净利润约3.77亿元，毛利率超过九成，但新增付费用户连续两年减少。数据采集是否合法、个人信息处理是否需要本人同意、同类产品是否存在同质化问题，以及AI（ 人工智能 ）会否冲击商业模式，均被首轮问询关注。终止",
+     "source": "东方财富股票",
+     "zh": "企查查 撤回IPO"
+    },
+    {
+     "title": "德国、法国、意大利、英国等多国声明：反对美国",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892008665.html",
+     "pubDate": "Sun, 11 Oct 2026 04:14:06 +0800",
+     "summary": "据参考消息援引《日本经济新闻》网站10月10日报道，美国政府9日将国际刑事法院（ICC）列为制裁对象。欧盟随即表态支持ICC，并考虑采取保护措施。此事势必成为美欧之间新的对立导火索。 “禁止与这个‘流氓’法院进行交易。”美国国务卿鲁比奥9日毫不掩饰对ICC的敌意。他还表示“美国从未加入过ICC，也不需要它”，并宣称将切断其资金来源，削弱其运作能力。 ICC总部位于荷兰海牙，主要负责起诉和惩处犯下“最严重罪行”的个人，其管辖范围涵盖种族灭绝罪、危害人类罪、战争罪和侵略罪。 此前，ICC以涉嫌在巴勒斯坦加沙地带犯下战争罪和危害人类罪为由，对以色列总理内塔尼亚胡发出逮捕令，此举激怒了美国总统特朗普。",
+     "source": "东方财富股票",
+     "zh": "德国、法国、意大利、英国等多国声明：反对美国"
+    },
+    {
+     "title": "巴拿马政府宣布进入紧急状态应对强震",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892008477.html",
+     "pubDate": "Sun, 11 Oct 2026 03:59:33 +0800",
+     "summary": "巴拿马政府10日宣布进入紧急状态以应对强震，协调救灾和援助工作。 巴拿马总统府部长奥里利亚克当天在总统府举行的新闻发布会上说，政府已宣布进入紧急状态，要求各部门和公共机构随时待命，调配必要资源，为受灾民众提供援助。 奥里利亚克说，巴总统穆利诺已指示成立专门委员会，负责协调救灾行动、统筹援助资源等。政府已在首都巴拿马城设立救灾物资收集点，各省政府也将接收社会捐赠物资。 巴拿马当地时间9日12时56分发生7.5级地震，震中位于该国洛斯桑托斯省托诺西西北约39公里处。地震造成多地住宅、学校、医疗设施、道路及公共建筑受损。目前，巴拿马政府正持续评估灾情并开展救援工作。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "巴拿马政府宣布进入紧急状态应对强震"
+    },
+    {
      "title": "SA Asks: Is now the time to buy quantum stocks? If so, which ones?",
      "link": "https://seekingalpha.com/news/4651914-sa-asks-is-now-the-time-to-buy-quantum-stocks-if-so-which-ones?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 10 Oct 2026 15:57:56 -0400",
@@ -2306,46 +2346,6 @@ window.INDUSTRY_DATA = {
      "zh": "五角大楼上调与对伊战事相关的美军死亡人数"
     },
     {
-     "title": "特朗普：“乌克兰应该换个总统”",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892008084.html",
-     "pubDate": "Sun, 11 Oct 2026 03:08:51 +0800",
-     "summary": "美国总统特朗普10日表示“乌克兰应该换个总统”，暗示乌总统泽连斯基在结束俄乌冲突方面做得不够，同时指责泽连斯基导致美国柴油价格上涨。 特朗普当天启程前往田纳西州参加共和党选民集会前在白宫对记者说：“我建议他们（乌克兰）换个能达成协议的新领导人，因为他（泽连斯基）本来可以达成很多协议，但出于某种原因，他从未这样做。” 特朗普暗示，泽连斯基在结束俄乌冲突方面做得不够。他说：“那是一场本不该爆发的战争。我认为，乌克兰是时候换一个新总统了。” 特朗普还把美国国内柴油价格高企的问题归咎于泽连斯基，称他“想给全世界制造麻烦，想在柴油燃料问题上给我们的农民和牧场主制造麻烦”。 美国财政部外国资产控制办公室9",
-     "source": "东方财富股票",
-     "zh": "特朗普：“乌克兰应该换个总统”"
-    },
-    {
-     "title": "从2000万元跃升至2000亿元！绸都盛泽怎么做到的？",
-     "link": "http://finance.eastmoney.com/news/1355,202610113892005222.html",
-     "pubDate": "Sun, 11 Oct 2026 02:57:50 +0800",
-     "summary": "10月10日晚，第十五届江苏（盛泽）纺织品博览会暨中国东方丝绸市场成立40周年高质量发展大会在盛泽东纺城时尚发布厅举行。全球纺织界的目光汇聚盛泽，来自国内行业协会、专业院校、业内企业的嘉宾、客商、设计师齐聚绸都，在全球纺织产业价值链重构的关键路口，共寻破局之道。 历经多年积累和沉淀，盛泽纺博会已成为全国乃至全球纺织面料行业互鉴交流的盛事，引领着行业最新潮流与趋势。 “经过历年发展，吴江纺织产业从‘一根丝’不断向上、向新、向远拓展，形成了千亿级规模，入选国家先进制造业集群。实现了‘从一滴油到一匹布’的全链式发展，产业链完整性、市场话语权、产业集聚度全国领先。”吴江区委书记孙道寻表示，盛泽是吴江纺",
-     "source": "东方财富股票",
-     "zh": "从2000万元跃升至2000亿元！绸都盛泽怎么做到的？"
-    },
-    {
-     "title": "俄罗斯宣布部分解除柴油出口禁令",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892007936.html",
-     "pubDate": "Sun, 11 Oct 2026 02:50:55 +0800",
-     "summary": "当地时间10月10日，俄罗斯政府宣布决定部分解除柴油出口禁令，相关措施自当天正式生效。 俄罗斯政府公告称，此举旨在落实俄罗斯总统普京与美国总统特朗普此前达成的协议。根据相关决定，俄罗斯现阶段将允许向国际市场出口50万吨柴油。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "俄罗斯宣布部分解除柴油出口禁令"
-    },
-    {
-     "title": "标普500的平静 全靠十只股票和一个AI信仰？",
-     "link": "http://stock.eastmoney.com/news/1768,202610113892007879.html",
-     "pubDate": "Sun, 11 Oct 2026 02:49:09 +0800",
-     "summary": "3月底至今，十只股票扛起标普500七成涨幅，面对AI行情投资者不怕下跌只怕踏空，美股的平静几乎完全押在一个AI信仰上。 野村证券近日发布报告指出，个股分化和期权卖盘共同压住了标普500指数波动，踏空焦虑可能迫使资金继续加仓推高美股。 如果只看标普500指数，过去两个月的美股称得上“无聊”。自8月初以来，指数累计小幅上涨，波动率处于一年来的低位。翻开成分股名单，情况却完全不同： 85%的成分股较各自历史高点回落超过10%，约六分之一的股票跌幅已超过50%。 野村证券跨资产策略师Charlie McElligott在最新报告指出，期权市场显示， 投资者对标普500大跌的担忧已降至一年来的最低水平。",
-     "source": "东方财富股票",
-     "zh": "标普500的平静 全靠十只股票和一个AI信仰？"
-    },
-    {
-     "title": "“上涨十月”遇冷：比特币反弹乏力 分析师警告仍有下行空间",
-     "link": "http://stock.eastmoney.com/news/1768,202610113892007712.html",
-     "pubDate": "Sun, 11 Oct 2026 02:48:22 +0800",
-     "summary": "加密货币市场周五迎来喘息之机，市场总市值上涨2.1%，至2.89万亿美元。不过，此次反弹仅挽回了部分损失。一周前，加密货币市场总市值仍在3万亿美元以上，当时比特币价格一度突破87,000美元。 尽管市场有所回升，交易员仍然感到不安。加密货币恐惧与贪婪指数降至56，处于中性水平，低于10月2日的71。当时，市场情绪明显处于“贪婪”区间。 华尔街同样感到紧张。美国现货比特币ETF周三（10月7日）遭遇4.849亿美元资金净流出，创6月25日以来最大单日净流出规模，周四（10月8日）又有2.44亿美元资金净流出。 截至周六发稿时，比特币交投于82,780美元附近。此前，比特币周四一度跌至80,427",
-     "source": "东方财富股票",
-     "zh": "“上涨十月”遇冷：比特币反弹乏力 分析师警告仍有下行空间"
-    },
-    {
      "title": "Cliffs unit is said to proceed with Canada layoffs despite govt. ultimatum",
      "link": "https://seekingalpha.com/news/4651912-cliffs-plans-canada-layoffs-despite-govt-ultimatum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 10 Oct 2026 14:41:39 -0400",
@@ -2386,12 +2386,60 @@ window.INDUSTRY_DATA = {
      "zh": "Flight disruptions growing after missile attack on Saudi airport"
     },
     {
+     "title": "强化投资者利益绑定 公募基金新模式浮费产品扩容提质",
+     "link": "http://www.eeo.com.cn/2026/1010/1060324.shtml",
+     "pubDate": "Sat, 10 Oct 2026 23:52:06 +0800",
+     "summary": "上证报中国证券网讯（记者 汤立斌）记者10月10日从业内人士处了解到，监管部门近日发布题为《优化新模式浮动费率产品注册安排 纵深推进公募基金改革》的机构监管通报（下称《通报》）。《通报》对新模式浮费产品注册安排予以优化完善，明确提出适度扩大参与机构范围、稳步拓展产品适用范围、稳妥推进存量固定费率产品改造等一系列措施。根据《通报》，新模式浮费产品推出一年来整体运行平稳，注册数量和管理规模稳步增长，产品业绩...",
+     "source": "经济观察网",
+     "zh": "强化投资者利益绑定 公募基金新模式浮费产品扩容提质"
+    },
+    {
+     "title": "烟威1000千伏特高压工程竣工投产",
+     "link": "http://www.eeo.com.cn/2026/1010/1060323.shtml",
+     "pubDate": "Sat, 10 Oct 2026 23:52:05 +0800",
+     "summary": "据国网山东电力公司消息，10月10日，烟威1000千伏特高压交流输变电工程正式竣工投产。该工程是全国“十五五”时期首个投运的特高压交流输变电新建工程、全国首个服务核电送出的特高压工程。工程线路全长1197公里。投运后，烟台海阳、莱阳等地的核电将通过该通道送出，大幅提升山东省内绿电供给能力。",
+     "source": "经济观察网",
+     "zh": "烟威1000千伏特高压工程竣工投产"
+    },
+    {
+     "title": "到2030年地区生产总值达3.6万亿元以上 “十五五”期间重庆都市圈这样建",
+     "link": "http://www.eeo.com.cn/2026/1010/1060320.shtml",
+     "pubDate": "Sat, 10 Oct 2026 23:26:11 +0800",
+     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/AC6EC671A154C064C712C8723CCEC751.jpg\" alt=\"重庆城市风光。第1眼TV-华龙网记者 李文科 摄\" data-title=\"重庆城市风光。第1眼TV-华龙网记者 李文科 摄\" data-target=\"2108938062016548865\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/REPRINT/MEDIA/PICTURE/2026/10/10/c",
+     "source": "经济观察网",
+     "zh": "到2030年地区生产总值达3.6万亿元以上 “十五五”期间重庆都市圈这样建"
+    },
+    {
+     "title": "效仿盗墓小说自学“摸金”盗掘东周古墓，主犯获刑12年",
+     "link": "http://www.eeo.com.cn/2026/1010/1060318.shtml",
+     "pubDate": "Sat, 10 Oct 2026 23:13:11 +0800",
+     "summary": "21世纪经济报道记者 章驰 沉迷盗墓小说，自学盗墓技术，效仿盗墓小说情节盗掘文物是违法犯罪吗？近日，最高人民法院、国家文物局联合发布依法惩治文物犯罪典型案例。其中，余某才盗掘古墓葬一案中，法院对效仿盗墓小说情节组织盗掘古墓葬构成犯罪的行为，依法追究刑事责任。 案情显示，被告人余某才痴迷盗墓小说，自学盗墓技术，购买盗墓工具。2023年9月下旬、11月初，余某才与他人两次商定共同盗掘古墓葬，携带...",
+     "source": "经济观察网",
+     "zh": "效仿盗墓小说自学“摸金”盗掘东周古墓，主犯获刑12年"
+    },
+    {
+     "title": "以军空袭黎巴嫩致6人受伤",
+     "link": "http://www.eeo.com.cn/2026/1010/1060310.shtml",
+     "pubDate": "Sat, 10 Oct 2026 22:52:14 +0800",
+     "summary": "新华财经北京10月10日电 黎巴嫩卫生部9日发表声明说，以色列当天对黎巴嫩边境地区发动空袭，造成6人受伤。以色列方面称，此次袭击目标是一名受伊朗指使、策划针对以色列袭击的“叙利亚恐怖分子”。 据黎卫生部通报，以军9日对黎东北部靠近叙利亚的希尔米勒地区发动无人机袭击，造成5名叙利亚公民和一名黎巴嫩公民受伤，受伤叙利亚公民中有两人是女性。据黎巴嫩国家通讯社报道，以军的袭击目标是一辆汽车。 以色列国...",
+     "source": "经济观察网",
+     "zh": "以军空袭黎巴嫩致6人受伤"
+    },
+    {
      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
      "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
      "pubDate": "Sat, 10 Oct 2026 14:22:23 GMT",
      "summary": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
      "source": "CNBC",
      "zh": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows"
+    },
+    {
+     "title": "战略能力 再次成为中国汽车品牌向上的胜负手",
+     "link": "http://www.eeo.com.cn/2026/1010/1060306.shtml",
+     "pubDate": "Sat, 10 Oct 2026 22:21:26 +0800",
+     "summary": "只做颠覆式创新，容易长期被贴上低端标签；只埋头做持续性创新，又会直接与国际老牌巨头正面红海竞争。二者统筹平衡，才是品牌向上的必经之路。",
+     "source": "经济观察网",
+     "zh": "战略能力 再次成为中国汽车品牌向上的胜负手"
     },
     {
      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
@@ -2416,54 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "10月10日，中国工业和信息化部、公安部、生态环境部、市场监管总局联合发布征求意见稿，拟对汽车产品创新设计和研发测试验证实施全面强化管理。 征求意见稿明确提出， 禁止配备全隐藏式车门把手 ；灯光、雨刮、除霜除雾等关键驾驶安全功能在采用虚拟操纵件的同时， 必须保留实体操纵件 ； 折叠显示屏、柔性显示屏被明确禁止 ；行车时不得使用\"零重力\"座椅、旋转座椅或座椅放倒成床等功能。 在时间节点上， 自2027年1月1日起 ，涉及创新设计的新申报车型须提交额外技术参数及验证材料； 已获批车型须在2027年7月1日前 完成补充申报，逾期且存在安全隐患的车辆须立即停产并启动召回程序。 禁止全隐藏式门把手，关键",
      "source": "华尔街见闻",
      "zh": "四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件"
-    },
-    {
-     "title": "AI borrowing slows as investors grow wary of debt binge",
-     "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
-     "pubDate": "Sat, 10 Oct 2026 11:00:07 GMT",
-     "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
-     "source": "Financial Times",
-     "zh": "AI borrowing slows as investors grow wary of debt binge"
-    },
-    {
-     "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-     "link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
-     "pubDate": "Sat, 10 Oct 2026 11:00:01 GMT",
-     "summary": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
-     "source": "CNBC",
-     "zh": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them"
-    },
-    {
-     "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
-     "link": "https://wallstreetcn.com/articles/3783332",
-     "pubDate": "Sat, 10 Oct 2026 18:23:15 +0800",
-     "summary": "美股表面平静之下，一场滚动式熊市正在悄然蔓延。 野村证券跨资产策略师Charlie McElligott在10月8日的报告中警告，标普500指数近两个月几乎原地踏步，但85%的成分股已陷入技术性调整，指数的\"平静\"不过是极度集中的市场结构所制造的幻觉。 McElligott指出，仅十只股票就贡献了标普500自3月30日以来23%涨幅的70%，其中英伟达一家独占13%。 与此同时，欧洲柴油短缺正通过利率波动率传导至整个市场， 构成随时可能引爆的“导火索” 。 就在野村报告发布数小时内， 两大关键变量相继落地： 特朗普宣布中期选举前不对伊朗动武，油价应声下跌；英国《金融时报》随即披露OpenAI年",
-     "source": "华尔街见闻",
-     "zh": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击"
-    },
-    {
-     "title": "第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品",
-     "link": "https://wallstreetcn.com/articles/3783333",
-     "pubDate": "Sat, 10 Oct 2026 18:01:57 +0800",
-     "summary": "8 月 14 日摊余成本法债基重新“开闸”后，中小公募 机构的 申报热情持续高涨。 因为 摊余成本法债基确实具备独特的市场热度。 同样是买债券，普通债基的净值随债券市价涨跌 ，市场 一波动 净值就 上下起伏。摊余成本法债基则以买入成本记账，把票息和折溢价摊销到持有期的每一天，净值几乎是一条平稳向上的曲线。 但 产品必须封闭持有到期、中途不能卖出。 10 月 8 日、9 日，第三批 16 家中小基金公司集中上报。 又有 16 家集体申报 证监会网站显示，财信基金、金元顺安基金、金信基金、泉果基金、红塔红土基金、易米基金、汇百川基金、百嘉基金、安联基金、兴华基金、红土创新基金、联博基金、国新国证基",
-     "source": "华尔街见闻",
-     "zh": "第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品"
-    },
-    {
-     "title": "Nixonmaxxing: the strange revival of America’s disgraced president",
-     "link": "https://www.ft.com/content/e3945b16-13f0-4640-882d-fafaca9d25e9?syn-25a6b1a6=1",
-     "pubDate": "Sat, 10 Oct 2026 10:00:07 GMT",
-     "summary": "Richard Nixon has become the unlikely darling of Trump’s Washington",
-     "source": "Financial Times",
-     "zh": "Nixonmaxxing: the strange revival of America’s disgraced president"
-    },
-    {
-     "title": "“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代",
-     "link": "https://wallstreetcn.com/articles/3783326",
-     "pubDate": "Sat, 10 Oct 2026 16:35:34 +0800",
-     "summary": "在AI重塑全球算力版图的当下，前英特尔CEO Pat Gelsinger一针见血地指出：AI让芯片设计变得简单，但制造、内存与能源的物理瓶颈正引发一场史无前例的硬件复兴。 10月9日，硅谷创投机构a16z 播出一期深度访谈节目。在对谈中，Playground Global普通合伙人、前英特尔CEO Pat Gelsinger与a16z的Raghu Raghuram、Guido Appenzeller展开了一场跨越芯片设计、存储创新、光互联、能源瓶颈乃至AI代理（Agent）基础设施的深度讨论。这位亲手设计了英特尔386和486处理器、见证了现代EDA行业诞生的芯片老兵，以其数十年的一线经验，为",
-     "source": "华尔街见闻",
-     "zh": "“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代"
     }
    ]
   },
@@ -2538,20 +2538,20 @@ window.INDUSTRY_DATA = {
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
-     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
-     "source": "Live Science",
-     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
-    },
-    {
      "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
      "source": "Live Science",
      "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
+    },
+    {
+     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
+     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
+     "source": "Live Science",
+     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

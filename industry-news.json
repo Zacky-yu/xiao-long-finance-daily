@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/11 04:46:18",
+ "generated_at": "2026/10/11 06:11:39",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,22 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+     "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+     "pubDate": "Sat, 10 Oct 2026 21:47:51 +0000",
+     "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+     "source": "TechCrunch AI",
+     "zh": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’"
+    },
+    {
+     "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
+     "link": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
+     "pubDate": "Sat, 10 Oct 2026 21:30:36 +0000",
+     "summary": "In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents. The post Wh",
+     "source": "MarkTechPost",
+     "zh": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out"
+    },
     {
      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
@@ -145,14 +161,6 @@
      "zh": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers"
     },
     {
-     "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-     "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-     "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000",
-     "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-     "source": "TechCrunch AI",
-     "zh": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
-    },
-    {
      "title": "Impactful scheduling for GPU clusters",
      "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
      "pubDate": "Fri, 09 Oct 2026 15:20:29 GMT",
@@ -239,14 +247,6 @@
      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
      "source": "OpenAI",
      "zh": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
-    },
-    {
-     "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-     "link": "https://openai.com/index/asana-browser-agent",
-     "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-     "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-     "source": "OpenAI",
-     "zh": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
     }
    ]
   },
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
+     "pubDate": "Sat, 10 Oct 2026 16:00:00 -0500",
+     "summary": "Mexico is dependent on oil and gas imports for two-thirds of its energy consumption, despite the fact that the country has abundant domestic fossil fuel resources. But instead of exploiting its own producing power to the greatest potential, Mexico relies on its neighbor to the north for the majority",
+     "source": "OilPrice",
+     "zh": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets"
+    },
+    {
      "title": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
      "link": "https://oilprice.com/Energy/Energy-General/Southeast-Asia-Needs-More-Power-But-Its-Weak-Grid-Could-Be-a-Problem.html",
      "pubDate": "Sat, 10 Oct 2026 14:00:00 -0500",
@@ -943,14 +951,6 @@
      "summary": "Hurricane Isaias has now knocked nearly 1.46 million barrels per day of U.S. Gulf oil production offline, extending a rapid shutdown that began with just 185,120 bpd three days ago. The Marine Minerals Administration said Friday that operators had shut in 1,458,814 bpd, or 71.51% of current Gulf oil",
      "source": "OilPrice",
      "zh": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production"
-    },
-    {
-     "title": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
-     "link": "https://oilprice.com/Energy/Energy-General/5-Stocks-Cashing-In-as-100-Oil-Pushes-Drivers-Toward-Electric.html",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 -0500",
-     "summary": "Gasoline topped $4.40 a gallon in the U.S. in September, and Brent has sat above $100 a barrel since early September, up from around $60 before the Iran war started. Drivers have responded about how you'd expect. New hybrid sales in the U.S. rose 24% through the third quarter, battery-electric regis",
-     "source": "OilPrice",
-     "zh": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric"
     },
     {
      "title": "Clean-energy super PAC names its target list for general elections",
@@ -1729,6 +1729,38 @@
    "total": 18,
    "items": [
     {
+     "title": "\"Super Intelligence systems\" are black boxes that shouldn&apos;t be trusted by companies, and strong deterministic systems are needed around their deployment (Satya Nadella/@satyanadella)",
+     "link": "https://www.techmeme.com/261010/p18#a261010p18",
+     "pubDate": "Sat, 10 Oct 2026 17:15:01 -0400",
+     "summary": "Satya Nadella / @satyanadella : &ldquo;Super Intelligence systems&rdquo; are black boxes that shouldn't be trusted by companies, and strong deterministic systems are needed around their deployment &nbsp; &mdash;&nbsp; As traditional software systems were being deployed across the economy over the la",
+     "source": "Techmeme",
+     "zh": "\"Super Intelligence systems\" are black boxes that shouldn&apos;t be trusted by companies, and strong deterministic systems are needed around their deployment (Satya Nadella/@satyanadella)"
+    },
+    {
+     "title": "Why We Still Cannot Read Etruscan",
+     "link": "https://veiledantiquity.com/posts/etruscan-language-lost/",
+     "pubDate": "Sat, 10 Oct 2026 21:07:07 +0000",
+     "summary": "Article URL: https://veiledantiquity.com/posts/etruscan-language-lost/ Comments URL: https://news.ycombinator.com/item?id=50037183 Points: 5 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Why We Still Cannot Read Etruscan"
+    },
+    {
+     "title": "A city-building game in which the city would prefer you didn't",
+     "link": "https://housing.over.pizza/",
+     "pubDate": "Sat, 10 Oct 2026 20:31:50 +0000",
+     "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 28 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "A city-building game in which the city would prefer you didn't"
+    },
+    {
+     "title": "50MB operating system can resurrect your old PC",
+     "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
+     "pubDate": "Sat, 10 Oct 2026 19:59:24 +0000",
+     "summary": "Article URL: https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/ Comments URL: https://news.ycombinator.com/item?id=50036571 Points: 18 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "50MB operating system can resurrect your old PC"
+    },
+    {
      "title": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)",
      "link": "https://www.techmeme.com/261010/p17#a261010p17",
      "pubDate": "Sat, 10 Oct 2026 15:45:00 -0400",
@@ -1740,7 +1772,7 @@
      "title": "Takeshi's Castle",
      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
      "pubDate": "Sat, 10 Oct 2026 19:12:55 +0000",
-     "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle Comments URL: https://news.ycombinator.com/item?id=50036119 Points: 32 # Comments: 13",
+     "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle Comments URL: https://news.ycombinator.com/item?id=50036119 Points: 63 # Comments: 23",
      "source": "Hacker News",
      "zh": "Takeshi's Castle"
     },
@@ -1764,25 +1796,9 @@
      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
      "pubDate": "Sat, 10 Oct 2026 18:48:35 +0000",
-     "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 60 # Comments: 36",
+     "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 86 # Comments: 51",
      "source": "Hacker News",
      "zh": "Nvidia in talks to acquire US 'open' model startup Reflection AI"
-    },
-    {
-     "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
-     "link": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
-     "pubDate": "Sat, 10 Oct 2026 18:11:58 +0000",
-     "summary": "Article URL: https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300 Comments URL: https://news.ycombinator.com/item?id=50035561 Points: 67 # Comments: 52",
-     "source": "Hacker News",
-     "zh": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well"
-    },
-    {
-     "title": "Why DuckDB 2.0 is faster",
-     "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-     "pubDate": "Sat, 10 Oct 2026 18:08:49 +0000",
-     "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/ Comments URL: https://news.ycombinator.com/item?id=50035530 Points: 40 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "Why DuckDB 2.0 is faster"
     },
     {
      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
@@ -1857,28 +1873,12 @@
      "zh": "华为鸿蒙星河互联与 Apple Watch 互联适配机型公布，首批含 Pura X View、Mate 90 系列等"
     },
     {
-     "title": "Knuth reward check",
-     "link": "https://www.thomas-huehn.com/knuth-reward-check/",
-     "pubDate": "Sat, 10 Oct 2026 15:47:01 +0000",
-     "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check/ Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 100 # Comments: 36",
-     "source": "Hacker News",
-     "zh": "Knuth reward check"
-    },
-    {
      "title": "阻击安森美，Cirrus Logic 抢购 Synaptics",
      "link": "https://www.ithome.com/1/011/536.htm",
      "pubDate": "Sat, 10 Oct 2026 15:41:05 GMT",
      "summary": "IT之家 10 月 10 日消息，今日，据彭博社援引知情人士消息，半导体公司 Cirrus Logic Inc. 上个月向 Synaptics Inc. 提出了一项未经请求的收购要约，试图破坏后者此前已公布的、与安森美半导体的并购交易。 知情人士表示，Synaptics 周四更新的股东委托文件中提及的“甲方”， 正是 Cirrus Logic 。知情人士补充，目前尚不清楚 Cirrus Logic 是否仍有意推进这笔收购。 据悉，Cirrus Logic 的报价采用现金 + 股票形式，促使安森美在上周修改了与 Synaptics 的协议条款。安森美将交易结构从全股票改为全现金，每股报价调整至 ",
      "source": "IT之家",
      "zh": "阻击安森美，Cirrus Logic 抢购 Synaptics"
-    },
-    {
-     "title": "How Protein Took over the World",
-     "link": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
-     "pubDate": "Sat, 10 Oct 2026 15:40:06 +0000",
-     "summary": "https://archive.is/CbkfI Comments URL: https://news.ycombinator.com/item?id=50034008 Points: 38 # Comments: 56",
-     "source": "Hacker News",
-     "zh": "How Protein Took over the World"
     },
     {
      "title": "收废品，怎么就成了大生意？",
@@ -1937,14 +1937,6 @@
      "zh": "A profile of Zach Frankel, a secretive and unusually hands-on solo investor who wrote the first checks to startups like Ramp, Cognition, and Applied Compute (Jemima McEvoy/The Information)"
     },
     {
-     "title": "How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261010/p12#a261010p12",
-     "pubDate": "Sat, 10 Oct 2026 09:50:00 -0400",
-     "summary": "Wall Street Journal : How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal &nbsp; &mdash;&nbsp; Tom Brown is leveraging his Republican ties and business savvy to win over Washington and secure the co",
-     "source": "Techmeme",
-     "zh": "How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal (Wall Street Journal)"
-    },
-    {
      "title": "主业竞争激烈，中鼎股份募资急拓第二增长曲线",
      "link": "https://www.tmtpost.com/8163965.html",
      "pubDate": "Sat, 10 Oct 2026 20:54:39 +0800",
@@ -1967,6 +1959,14 @@
      "summary": "There's more to Lego than just another basic set. We tested tons of Lego-themed gifts to find the perfect ones for the brick builder in your life.",
      "source": "WIRED",
      "zh": "Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More"
+    },
+    {
+     "title": "One with the world? A new look at brains transformed by psychedelics.",
+     "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+     "pubDate": "Sat, 10 Oct 2026 11:15:35 +0000",
+     "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
+     "source": "Ars Technica",
+     "zh": "One with the world? A new look at brains transformed by psychedelics."
     }
    ]
   },
@@ -1976,6 +1976,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "How does using your MacBook while charging affect its battery life?",
+     "link": "https://www.engadget.com/2280083/how-using-macbook-while-charging-affect-battery-life/",
+     "pubDate": "Sat, 10 Oct 2026 22:00:00 +0000",
+     "summary": "Modern MacBooks are pretty smart about managing their battery's health.",
+     "source": "Engadget",
+     "zh": "How does using your MacBook while charging affect its battery life?"
+    },
+    {
+     "title": "Samsung Galaxy S27 might finally introduce DC dimming",
+     "link": "https://www.gsmarena.com/samsung_galaxy_s27_might_finally_introduce_dc_dimming-news-74994.php",
+     "pubDate": "Sat, 10 Oct 2026 23:01:02 +0200",
+     "summary": "We already heard word that Samsung Display is gearing up to start Galaxy S27 display manufacturing soon. That might have already happened; hence, these new leaks might be perfectly plausible. Apparently, the S27 Pro and S27 Ultra will be the first Samsung smartphones to offer DC dimming. That sounds",
+     "source": "GSMArena",
+     "zh": "Samsung Galaxy S27 might finally introduce DC dimming"
+    },
+    {
+     "title": "Samsung has updated these Galaxy devices to Android 17",
+     "link": "https://9to5google.com/2026/10/10/samsung-galaxy-android-17-update-list/",
+     "pubDate": "Sat, 10 Oct 2026 20:58:26 +0000",
+     "summary": "Samsung is now rolling out its Android 17-based update, One UI 9, to its collection of supported Galaxy smartphones and tablets. Here’s the full list of devices that have been updated so far, and what you should know about the update. more…",
+     "source": "9to5Google",
+     "zh": "Samsung has updated these Galaxy devices to Android 17"
+    },
     {
      "title": "Indie App Spotlight: ‘Milepost’ is a driving journal that saves your memories on the road",
      "link": "https://9to5mac.com/2026/10/10/indie-app-spotlight-milepost-is-a-driving-journal-that-saves-your-memories-on-the-road/",
@@ -2047,14 +2071,6 @@
      "summary": "Google's next fitness tracker, the Fitbit Edge, leaked earlier this month, and then we also got rumored pricing for it as well as its full specs a few days later. Now, Google has finally acknowledged the existence of the device, and started teasing it on X, where it also revealed the Edge's launch d",
      "source": "GSMArena",
      "zh": "Google starts teasing the Fitbit Edge, reveals its launch date"
-    },
-    {
-     "title": "GameStop is hoping PS5 Pro buyers are desperate enough to pay $500 over MSRP",
-     "link": "https://www.engadget.com/2283062/gamestop-selling-ps5-pro-500-dollars-over-msrp/",
-     "pubDate": "Sat, 10 Oct 2026 16:00:00 +0000",
-     "summary": "A shortage has driven resale prices through the roof.",
-     "source": "Engadget",
-     "zh": "GameStop is hoping PS5 Pro buyers are desperate enough to pay $500 over MSRP"
     },
     {
      "title": "Amazon’s new Alexa Tablet finally gives the iPad lineup some much needed competition",
@@ -2153,14 +2169,6 @@
      "zh": "Deals: vivo X Fold6 arrives, Galaxy S26 Ultra price remains low, iPhone 17 series on sale"
     },
     {
-     "title": "Oppo Find X10 Pro Max Hasselblad teleconverter kit unboxing and hands-on",
-     "link": "https://www.gsmarena.com/oppo_find_x10_pro_max_hasselblad_teleconverter_kit_unboxing_and_handson-news-74979.php",
-     "pubDate": "Sat, 10 Oct 2026 06:31:01 +0200",
-     "summary": "The Oppo Find X10 series is going global on October 21, and we've already brought you guys a quick first look and unboxing of both the Find X10 and the Find X10 Pro Max. Now, we're taking a quick look at the Hasselblad Teleconverter Kit for the Oppo Find X10 Pro Max. It comes in a large and heavy bo",
-     "source": "GSMArena",
-     "zh": "Oppo Find X10 Pro Max Hasselblad teleconverter kit unboxing and hands-on"
-    },
-    {
      "title": "Generative AI scandal has come to one of Nikon’s competitions",
      "link": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
      "pubDate": "Sat, 10 Oct 2026 02:37:53 +0000",
@@ -2207,14 +2215,6 @@
      "summary": "Google Health 5.10 is rolling out as a smaller update this week with a trio of new features across the app. more…",
      "source": "9to5Google",
      "zh": "Google Health 5.10 rolling out for Android, iOS"
-    },
-    {
-     "title": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says",
-     "link": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/",
-     "pubDate": "Fri, 09 Oct 2026 22:29:17 +0000",
-     "summary": "According to Bloomberg’s Mark Gurman, iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it on for the first time. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says"
     }
    ]
   },
@@ -2225,44 +2225,12 @@
    "total": 13,
    "items": [
     {
-     "title": "泽连斯基与多个欧洲国家领导人通话",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892008586.html",
-     "pubDate": "Sun, 11 Oct 2026 04:27:40 +0800",
-     "summary": "乌克兰总统泽连斯基10日在社交媒体发布消息说，他当天与多个欧洲国家领导人通电话，呼吁加大对乌援助和对俄罗斯制裁。泽连斯基分别与芬兰总统斯图布、法国总统马克龙、挪威首相斯特勒以及英国首相伯纳姆通话。他在通话中，通报俄乌冲突近况，讨论美国放宽对俄石油产品制裁引发的挑战，并就协调应对措施及筹备后续会晤等事宜进行沟通。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "泽连斯基与多个欧洲国家领导人通话"
-    },
-    {
-     "title": "乌方称俄军袭击扎波罗热地区致死人数上升到20人",
-     "link": "http://finance.eastmoney.com/news/11790,202610113892008733.html",
-     "pubDate": "Sun, 11 Oct 2026 04:22:03 +0800",
-     "summary": "据乌克兰国家通讯社10日报道，俄军当天凌晨空袭扎波罗热地区，致死人数已上升到20人，另有32人受伤。报道说，10日凌晨4时48分，俄军使用校正航空炸弹对扎波罗热地区进行空袭。死者包含3名儿童，伤者正在 医院 接受治疗。目前，建筑废墟下的搜救工作仍在继续。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "乌方称俄军袭击扎波罗热地区致死人数上升到20人"
-    },
-    {
-     "title": "企查查 撤回IPO",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892006147.html",
-     "pubDate": "Sun, 11 Oct 2026 04:20:05 +0800",
-     "summary": "10月9日，企业信息查询平台企查查科技股份有限公司（以下简称企查查）沪市主板IPO（首次公开募股）终止。上交所披露，企查查及保荐人 中信证券 申请撤回发行上市申请文件，上交所据此终止审核。 本次上市申请于2025年10月10日获受理，拟募资约15亿元，审核历时约一年。期间，公司披露首轮问询回复，并于今年3月将申报稿报告期更新至2025年。 最新招股书（申报稿，下同）显示，企查查2025年归母净利润约3.77亿元，毛利率超过九成，但新增付费用户连续两年减少。数据采集是否合法、个人信息处理是否需要本人同意、同类产品是否存在同质化问题，以及AI（ 人工智能 ）会否冲击商业模式，均被首轮问询关注。终止",
-     "source": "东方财富股票",
-     "zh": "企查查 撤回IPO"
-    },
-    {
-     "title": "德国、法国、意大利、英国等多国声明：反对美国",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892008665.html",
-     "pubDate": "Sun, 11 Oct 2026 04:14:06 +0800",
-     "summary": "据参考消息援引《日本经济新闻》网站10月10日报道，美国政府9日将国际刑事法院（ICC）列为制裁对象。欧盟随即表态支持ICC，并考虑采取保护措施。此事势必成为美欧之间新的对立导火索。 “禁止与这个‘流氓’法院进行交易。”美国国务卿鲁比奥9日毫不掩饰对ICC的敌意。他还表示“美国从未加入过ICC，也不需要它”，并宣称将切断其资金来源，削弱其运作能力。 ICC总部位于荷兰海牙，主要负责起诉和惩处犯下“最严重罪行”的个人，其管辖范围涵盖种族灭绝罪、危害人类罪、战争罪和侵略罪。 此前，ICC以涉嫌在巴勒斯坦加沙地带犯下战争罪和危害人类罪为由，对以色列总理内塔尼亚胡发出逮捕令，此举激怒了美国总统特朗普。",
-     "source": "东方财富股票",
-     "zh": "德国、法国、意大利、英国等多国声明：反对美国"
-    },
-    {
-     "title": "巴拿马政府宣布进入紧急状态应对强震",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892008477.html",
-     "pubDate": "Sun, 11 Oct 2026 03:59:33 +0800",
-     "summary": "巴拿马政府10日宣布进入紧急状态以应对强震，协调救灾和援助工作。 巴拿马总统府部长奥里利亚克当天在总统府举行的新闻发布会上说，政府已宣布进入紧急状态，要求各部门和公共机构随时待命，调配必要资源，为受灾民众提供援助。 奥里利亚克说，巴总统穆利诺已指示成立专门委员会，负责协调救灾行动、统筹援助资源等。政府已在首都巴拿马城设立救灾物资收集点，各省政府也将接收社会捐赠物资。 巴拿马当地时间9日12时56分发生7.5级地震，震中位于该国洛斯桑托斯省托诺西西北约39公里处。地震造成多地住宅、学校、医疗设施、道路及公共建筑受损。目前，巴拿马政府正持续评估灾情并开展救援工作。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "巴拿马政府宣布进入紧急状态应对强震"
+     "title": "Microsoft&apos;s Nadella says AI needs an ‘emergency brake’ that humans control",
+     "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+     "pubDate": "Sat, 10 Oct 2026 20:59:28 GMT",
+     "summary": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
+     "source": "CNBC",
+     "zh": "Microsoft&apos;s Nadella says AI needs an ‘emergency brake’ that humans control"
     },
     {
      "title": "SA Asks: Is now the time to buy quantum stocks? If so, which ones?",
@@ -2335,14 +2303,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Nvidia in talks to buy ‘open’ model startup Reflection AI: FT"
-    },
-    {
-     "title": "五角大楼上调与对伊战事相关的美军死亡人数",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892008123.html",
-     "pubDate": "Sun, 11 Oct 2026 03:10:30 +0800",
-     "summary": "当地时间10月10日获悉，美国国防部承认与对伊朗战事相关的美军死亡人数高于此前公布的数据，并已将官方统计的死亡人数上调至21人。 此次调整新增两起非战斗死亡事件，包括一名3月在科威特死亡的陆军国民警卫队少校，以及一名9月死亡的海军人员。 美国国防部此前公开数据库中的相关死亡人数较低。最新数据显示，截至10月9日，除21人死亡外，还有865名军人在相关行动中受伤。 另有消息称，官方数据未能全面反映美军在战争中的人员伤亡情况。自对伊战事开始以来，美军实际伤亡人数高于五角大楼官方数据库中记录的数字，官方记录中缺少数百名美军伤亡人员的信息。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "五角大楼上调与对伊战事相关的美军死亡人数"
     },
     {
      "title": "Cliffs unit is said to proceed with Canada layoffs despite govt. ultimatum",
@@ -2463,6 +2423,46 @@
      "summary": "10月10日，中国工业和信息化部、公安部、生态环境部、市场监管总局联合发布征求意见稿，拟对汽车产品创新设计和研发测试验证实施全面强化管理。 征求意见稿明确提出， 禁止配备全隐藏式车门把手 ；灯光、雨刮、除霜除雾等关键驾驶安全功能在采用虚拟操纵件的同时， 必须保留实体操纵件 ； 折叠显示屏、柔性显示屏被明确禁止 ；行车时不得使用\"零重力\"座椅、旋转座椅或座椅放倒成床等功能。 在时间节点上， 自2027年1月1日起 ，涉及创新设计的新申报车型须提交额外技术参数及验证材料； 已获批车型须在2027年7月1日前 完成补充申报，逾期且存在安全隐患的车辆须立即停产并启动召回程序。 禁止全隐藏式门把手，关键",
      "source": "华尔街见闻",
      "zh": "四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件"
+    },
+    {
+     "title": "AI borrowing slows as investors grow wary of debt binge",
+     "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
+     "pubDate": "Sat, 10 Oct 2026 11:00:07 GMT",
+     "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
+     "source": "Financial Times",
+     "zh": "AI borrowing slows as investors grow wary of debt binge"
+    },
+    {
+     "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+     "link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+     "pubDate": "Sat, 10 Oct 2026 11:00:01 GMT",
+     "summary": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
+     "source": "CNBC",
+     "zh": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them"
+    },
+    {
+     "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
+     "link": "https://wallstreetcn.com/articles/3783332",
+     "pubDate": "Sat, 10 Oct 2026 18:23:15 +0800",
+     "summary": "美股表面平静之下，一场滚动式熊市正在悄然蔓延。 野村证券跨资产策略师Charlie McElligott在10月8日的报告中警告，标普500指数近两个月几乎原地踏步，但85%的成分股已陷入技术性调整，指数的\"平静\"不过是极度集中的市场结构所制造的幻觉。 McElligott指出，仅十只股票就贡献了标普500自3月30日以来23%涨幅的70%，其中英伟达一家独占13%。 与此同时，欧洲柴油短缺正通过利率波动率传导至整个市场， 构成随时可能引爆的“导火索” 。 就在野村报告发布数小时内， 两大关键变量相继落地： 特朗普宣布中期选举前不对伊朗动武，油价应声下跌；英国《金融时报》随即披露OpenAI年",
+     "source": "华尔街见闻",
+     "zh": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击"
+    },
+    {
+     "title": "第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品",
+     "link": "https://wallstreetcn.com/articles/3783333",
+     "pubDate": "Sat, 10 Oct 2026 18:01:57 +0800",
+     "summary": "8 月 14 日摊余成本法债基重新“开闸”后，中小公募 机构的 申报热情持续高涨。 因为 摊余成本法债基确实具备独特的市场热度。 同样是买债券，普通债基的净值随债券市价涨跌 ，市场 一波动 净值就 上下起伏。摊余成本法债基则以买入成本记账，把票息和折溢价摊销到持有期的每一天，净值几乎是一条平稳向上的曲线。 但 产品必须封闭持有到期、中途不能卖出。 10 月 8 日、9 日，第三批 16 家中小基金公司集中上报。 又有 16 家集体申报 证监会网站显示，财信基金、金元顺安基金、金信基金、泉果基金、红塔红土基金、易米基金、汇百川基金、百嘉基金、安联基金、兴华基金、红土创新基金、联博基金、国新国证基",
+     "source": "华尔街见闻",
+     "zh": "第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品"
+    },
+    {
+     "title": "Nixonmaxxing: the strange revival of America’s disgraced president",
+     "link": "https://www.ft.com/content/e3945b16-13f0-4640-882d-fafaca9d25e9?syn-25a6b1a6=1",
+     "pubDate": "Sat, 10 Oct 2026 10:00:07 GMT",
+     "summary": "Richard Nixon has become the unlikely darling of Trump’s Washington",
+     "source": "Financial Times",
+     "zh": "Nixonmaxxing: the strange revival of America’s disgraced president"
     }
    ]
   },
@@ -2537,20 +2537,20 @@
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
-     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
-     "source": "Live Science",
-     "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
-    },
-    {
      "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
      "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
      "source": "Live Science",
      "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
+    },
+    {
+     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
+     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
+     "source": "Live Science",
+     "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

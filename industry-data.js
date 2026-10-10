@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 08:07:26",
+ "generated_at": "2026/10/10 08:11:54",
  "recent_days": 7,
  "industries": [
   {
@@ -658,6 +658,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
+     "link": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/",
+     "pubDate": "Sat, 10 Oct 2026 00:05:22 +0000",
+     "summary": "A 450-megawatt (MW) solar farm with a massive battery system is now under construction in Arizona – and Tesla has already lined up about 90% of its expected electricity output. more…",
+     "source": "Electrek",
+     "zh": "Tesla’s next big clean energy source is rising in the Arizona desert"
+    },
+    {
      "title": "Hyundai is offering a 10% discount on the IONIQ 5 and IONIQ 9 EVs",
      "link": "https://electrek.co/2026/10/09/hyundai-offers-10-discount-ioniq-5-ioniq-9-evs/",
      "pubDate": "Fri, 09 Oct 2026 21:06:14 +0000",
@@ -696,14 +704,6 @@ window.INDUSTRY_DATA = {
      "summary": "We’re closing out this week’s Green Deals led by the Bluetti Encore Sale that is completely switching up its power station deals, including bringing back the winter-ready 900Wh Pioneer Na(Sodium) Portable Power Station at an exclusive $665 low . Right behind that, we have three exclusive deals on An",
      "source": "Electrek",
      "zh": "Bluetti Na(Sodium) 900Wh power station at exclusive $665 low in Encore Sale, Anker solar multi-cam kits $310 off, Navee EVs, more"
-    },
-    {
-     "title": "Kia’s 7-seat electric people mover just got a bit cheaper in the UK",
-     "link": "https://electrek.co/2026/10/09/kias-7-seat-electric-people-mover-cheaper/",
-     "pubDate": "Fri, 09 Oct 2026 17:07:52 +0000",
-     "summary": "Kia’s 7-seat PV5 electric van is now eligible for the UK Government’s Electric Car Grant (ECG), bringing the starting price down to £35,495 ($47,000). more…",
-     "source": "Electrek",
-     "zh": "Kia’s 7-seat electric people mover just got a bit cheaper in the UK"
     },
     {
      "title": "I Tested New York City’s First Lamppost EV Charger. It’s A Game Changer",
@@ -922,12 +922,12 @@ window.INDUSTRY_DATA = {
      "zh": "Poly pricing and potential expansion"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -941,7 +941,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1722,6 +1722,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "存储超级周期下，三星手机为何在芯片暴利中计划减产三成",
+     "link": "https://www.huxiu.com/article/4896311.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 08:06:03 +0800",
+     "summary": "本文来自微信公众号： TechSugar ，作者：谈芯 存储芯片行业正在经历一轮由AI需求驱动的超级上行周期，但服务器与AI算力硬件爆发式的采购需求，同时也搅动了消费电子领域的芯片供给格局。智能手机产业链是直面成本上行的最直接领域，据TrendForce数据，2026年第二季度手机用12GB LPDDR5X内存合约价已达145至146美元，同比上涨175%；预计第三季度还将再涨约20%，最高可达180美元。就连手握存储产能的三星，近期也计划下调第四季度的手机生产目标。 市场常常存在一种认知误区，认为三星同时拥有存储芯片与手机终端业务，自家手机便可以拿到优惠的内部芯片价格。事实上，三星电子内部存",
+     "source": "虎嗅",
+     "zh": "存储超级周期下，三星手机为何在芯片暴利中计划减产三成"
+    },
+    {
      "title": "字节 TraeWork 和 TraeCode 合并为全新 TRAE，支持 Agent / IDE 模式无缝切换",
      "link": "https://www.ithome.com/1/011/176.htm",
      "pubDate": "Sat, 10 Oct 2026 00:04:25 GMT",
@@ -1765,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "2026 巴黎车展下周见，中国品牌创纪录独占三分之一",
      "link": "https://www.ithome.com/1/011/172.htm",
      "pubDate": "Fri, 09 Oct 2026 23:48:55 GMT",
-     "summary": "IT之家 10 月 10 日消息，当地时间 10 月 12 日（下周一），欧洲规模最大的汽车展会 —— 巴黎车展即将正式开幕。本届巴黎车展共有 100 家参展商设立展位，其中约 60 家为汽车制造商，中国汽车品牌达到 创纪录的 20 家 ，占整整三分之一。 相比之下，2024 年上届车展只有 10 个中国品牌参展， 短短两年便翻了一番 。中国汽车对欧洲汽车行业的影响力不断扩大，增长速度也相当惊人。 本届巴黎车展的中国品牌数量较 2024 年翻了一番，除比亚迪、奇瑞等“老牌”知名车企外，还将迎来问界、阿维塔、理想、广汽埃安、212 等新面孔。 据路透社报道，国际汽车制造商协会秘书长弗朗索瓦 · ",
+     "summary": "IT之家 10 月 10 日消息，当地时间 10 月 12 日（下周一），欧洲规模最大的汽车展会 —— 巴黎车展即将正式开幕。本届巴黎车展共有 100 家参展商设立展位，其中约 60 家为汽车制造商，中国汽车品牌达到 创纪录的 20 家 ，占整整三分之一。 相比之下，2024 年上届车展只有 10 个中国品牌参展， 短短两年便翻了一番 。中国汽车对欧洲汽车行业的影响力不断扩大，增长速度也相当惊人。 本届巴黎车展的中国品牌数量较 2024 年翻了一番，除比亚迪、奇瑞外，还将迎来问界、阿维塔、理想、广汽埃安、212 等新面孔。 据路透社报道，国际汽车制造商协会秘书长弗朗索瓦 · 鲁迪埃指出，部分传",
      "source": "IT之家",
      "zh": "2026 巴黎车展下周见，中国品牌创纪录独占三分之一"
     },
@@ -1834,14 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "【钛晨报】中央重磅部署19项举措，新质生产力发展路径明确；证监会发文，权益类基金成立门槛拟降至5000万元；浙商大佬俞发祥遭立案，两家A股公司回应"
     },
     {
-     "title": "安妮·卡森",
-     "link": "https://www.huxiu.com/article/4896305.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 07:18:59 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 2026年10月8日，斯德哥尔摩下午一点，瑞典学院常务秘书英格丽德·卡尔贝里走出那扇门，念了一个名字。安妮·卡森。 念之前她打过一通电话。电话那头的人没说几句。卡尔贝里后来对记者讲，她只来得及告诉我，她这会儿在冰岛，在听风。 七十六岁的人，被冰岛国家电视台的记者截在一处风很大的路边，一只手一直按着帽子。问她什么感觉，她说，“疯了，我觉得他们全疯了，嗯，你知道的，就是疯了”。 又问，得了这个奖，读你书的人会不会变。她说，我的书封面上会多一张贴纸。 世上分量最重的文学奖砸到头上，她惦记的是贴纸。圆圆一小片，金的，贴在封面一角，撕的时候总撕不干净，留一",
-     "source": "虎嗅",
-     "zh": "安妮·卡森"
-    },
-    {
      "title": "Trump admin says it&apos;s now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents (Axios)",
      "link": "https://www.techmeme.com/261009/p29#a261009p29",
      "pubDate": "Fri, 09 Oct 2026 19:05:01 -0400",
@@ -1885,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
      "link": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
      "pubDate": "Fri, 09 Oct 2026 22:05:53 +0000",
-     "summary": "Article URL: https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344 Comments URL: https://news.ycombinator.com/item?id=50027167 Points: 22 # Comments: 6",
+     "summary": "Article URL: https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344 Comments URL: https://news.ycombinator.com/item?id=50027167 Points: 32 # Comments: 11",
      "source": "Hacker News",
      "zh": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen"
     },
@@ -1917,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
      "link": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
      "pubDate": "Fri, 09 Oct 2026 21:25:09 +0000",
-     "summary": "Article URL: https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/ Comments URL: https://news.ycombinator.com/item?id=50026734 Points: 26 # Comments: 2",
+     "summary": "Article URL: https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/ Comments URL: https://news.ycombinator.com/item?id=50026734 Points: 32 # Comments: 2",
      "source": "Hacker News",
      "zh": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof"
     },
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
      "pubDate": "Fri, 09 Oct 2026 21:06:59 +0000",
-     "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 338 # Comments: 183",
+     "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 354 # Comments: 190",
      "source": "Hacker News",
      "zh": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "No Man Is an Island",
      "link": "https://borretti.me/article/no-man-is-an-island",
      "pubDate": "Fri, 09 Oct 2026 20:04:00 +0000",
-     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 247 # Comments: 145",
+     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 249 # Comments: 152",
      "source": "Hacker News",
      "zh": "No Man Is an Island"
     }
@@ -2226,54 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?"
     },
     {
-     "title": "莱特光电：融资净偿还3866.65万元，融资余额5.4亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610103891802823.html",
-     "pubDate": "Sat, 10 Oct 2026 07:57:30 +0800",
-     "summary": "交易所最新数据显示，莱特光电于2026年10月9日获融资买入2231.74万元，融资偿还6098.39万元， 当日融资净偿还3866.65万元。 目前，该股融资余额5.40亿，占流通市值比例为3.82%。 该股当日融券卖出1.10万股，融券偿还8300股， 融券净卖出2713股。 目前，该股融券余量9.62万股，融券余额338.19万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致",
-     "source": "东方财富股票",
-     "zh": "莱特光电：融资净偿还3866.65万元，融资余额5.4亿元"
-    },
-    {
-     "title": "科森科技：融资净买入6664.93万元，融资余额10.17亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610103891802790.html",
-     "pubDate": "Sat, 10 Oct 2026 07:57:29 +0800",
-     "summary": "交易所最新数据显示，科森科技于2026年10月9日获融资买入1.49亿元，融资偿还8219.17万元， 当日融资净买入6664.93万元。 目前，该股融资余额10.17亿，占流通市值比例为7.48%。 该股当日融券卖出600股，融券偿还100股， 融券净卖出500股。 目前，该股融券余量2.29万股，融券余额56.08万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何",
-     "source": "东方财富股票",
-     "zh": "科森科技：融资净买入6664.93万元，融资余额10.17亿元"
-    },
-    {
-     "title": "华勤技术：融资净偿还3233.73万元，融资余额11.8亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610103891802244.html",
-     "pubDate": "Sat, 10 Oct 2026 07:57:22 +0800",
-     "summary": "交易所最新数据显示， 华勤技术 于2026年10月9日获融资买入8699.26万元，融资偿还1.19亿元， 当日融资净偿还3233.73万元。 目前，该股融资余额11.80亿，占流通市值比例为1.98%。 该股当日融券卖出3800股，融券偿还1280股， 融券净卖出2520股。 目前，该股融券余量11.08万股，融券余额825.86万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
-     "source": "东方财富股票",
-     "zh": "华勤技术：融资净偿还3233.73万元，融资余额11.8亿元"
-    },
-    {
-     "title": "苏农银行：融资净买入260.02万元，融资余额8.48亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610103891802198.html",
-     "pubDate": "Sat, 10 Oct 2026 07:57:21 +0800",
-     "summary": "交易所最新数据显示， 苏农银行 于2026年10月9日获融资买入2281.70万元，融资偿还2021.69万元， 当日融资净买入260.02万元。 目前，该股融资余额8.48亿，占流通市值比例为8.52%。 该股当日融券卖出1.77万股，融券偿还3.93万股， 融券净偿还2.16万股。 目前，该股融券余量47.57万股，融券余额213.11万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料",
-     "source": "东方财富股票",
-     "zh": "苏农银行：融资净买入260.02万元，融资余额8.48亿元"
-    },
-    {
-     "title": "科博达：融资净偿还63.82万元，融资余额1.71亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610103891802077.html",
-     "pubDate": "Sat, 10 Oct 2026 07:57:21 +0800",
-     "summary": "交易所最新数据显示， 科博达 于2026年10月9日获融资买入456.28万元，融资偿还520.10万元， 当日融资净偿还63.82万元。 目前，该股融资余额1.71亿，占流通市值比例为1.13%。 该股当日融券卖出0股，融券偿还6000股， 融券净偿还6000股。 目前，该股融券余量2.62万股，融券余额98.38万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈",
-     "source": "东方财富股票",
-     "zh": "科博达：融资净偿还63.82万元，融资余额1.71亿元"
-    },
-    {
-     "title": "长阳科技：融资净买入126.27万元，融资余额3.09亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610103891801974.html",
-     "pubDate": "Sat, 10 Oct 2026 07:57:18 +0800",
-     "summary": "交易所最新数据显示， 长阳科技 于2026年10月9日获融资买入716.74万元，融资偿还590.47万元， 当日融资净买入126.27万元。 目前，该股融资余额3.09亿，占流通市值比例为8.56%。 该股当日融券卖出900股，融券偿还0股， 融券净卖出900股。 目前，该股融券余量1.76万股，融券余额22.07万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈",
-     "source": "东方财富股票",
-     "zh": "长阳科技：融资净买入126.27万元，融资余额3.09亿元"
-    },
-    {
      "title": "Trump turns to Russia in bid to lower diesel prices, but analysts see minimal impact",
      "link": "https://seekingalpha.com/news/4651899-trump-turns-to-russia-in-bid-to-lower-diesel-prices-but-analysts-see-minimal-impact?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 09 Oct 2026 19:50:41 -0400",
@@ -2456,6 +2408,54 @@ window.INDUSTRY_DATA = {
      "summary": "飓风“伊赛亚斯”（Isaias）推高美国墨西哥湾沿岸原油价格。美国海洋矿产管理局（MMA）表示，飓风来袭导致该地区约72%的原油产量暂停。 美国海洋矿产管理局周五表示， 生产商已暂停约146万桶/日的原油产量，占该地区原油总产量的72%。 截至美国东部时间中午12时，已有129座海上平台撤离人员，另有两座动力定位钻井平台驶离风暴路径。 随着飓风逼近，英国石油公司（BP）关闭了Thunder Horse和Na Kika平台的生产，并从Argos、Atlantis和Mad Dog平台撤出非必要人员。 飓风“伊赛亚斯”逼近美国墨西哥湾沿岸时，已增强为三级飓风。 此次风暴扰乱了美国海上原油供应，而伊朗",
      "source": "华尔街见闻",
      "zh": "“伊赛亚斯”升级为三级飓风，美国墨西哥湾近四分之三原油停产"
+    },
+    {
+     "title": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%",
+     "link": "http://stock.eastmoney.com/news/11784,202610103891632088.html",
+     "pubDate": "Sat, 10 Oct 2026 05:15:33 +0800",
+     "summary": "美股市场： 美股三大指数10月09日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨423.31点，收于51654.95点，涨幅为0.83%，本周累涨0.93%； 标准普尔 500种股票指数上涨46.18点，收于7811.54点，涨幅为0.59% ，本周累涨1.15% ； 纳斯达克 综合 指数上涨172.83点，收于27366.17点，涨幅为0.64% ，本周累涨0.64 % 。 热门科技股多数上涨， 亚马逊 涨超3%， 微软 、 特斯拉 涨超2%； 苹果 跌超1%，AMD、 英特尔 跌超2%。 有色金属 、加密货币概念股涨幅居前， 南方铜业 涨超5%，Coinbase涨超4%， 必",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%"
+    },
+    {
+     "title": "The hazy OpenAI growth metric driving Wall Street",
+     "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 20:57:10 GMT",
+     "summary": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
+     "source": "Financial Times",
+     "zh": "The hazy OpenAI growth metric driving Wall Street"
+    },
+    {
+     "title": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs",
+     "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+     "pubDate": "Fri, 09 Oct 2026 20:51:25 GMT",
+     "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
+     "source": "CNBC",
+     "zh": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs"
+    },
+    {
+     "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
+     "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
+     "pubDate": "Fri, 09 Oct 2026 20:20:57 GMT",
+     "summary": "President Donald Trump has few options to reduce diesel prices given the destruction done to refineries by the wars in Eastern Europe and the Middle East.",
+     "source": "CNBC",
+     "zh": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets"
+    },
+    {
+     "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+     "link": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
+     "pubDate": "Fri, 09 Oct 2026 19:25:28 GMT",
+     "summary": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
+     "source": "CNBC",
+     "zh": "Trump Media advisor Katie Zacharia offered White House press secretary role"
+    },
+    {
+     "title": "Trump created a committee to dig into the Fed&apos;s Lisa Cook. What is it and what comes next?",
+     "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+     "pubDate": "Fri, 09 Oct 2026 19:19:00 GMT",
+     "summary": "Trump’s bid to fire the Fed's Lisa Cook follows a Supreme Court ruling and could affect Jerome Powell, central bank independence and interest rates.",
+     "source": "CNBC",
+     "zh": "Trump created a committee to dig into the Fed&apos;s Lisa Cook. What is it and what comes next?"
     }
    ]
   },

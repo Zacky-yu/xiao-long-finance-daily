@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/11 03:52:45",
+ "generated_at": "2026/10/11 04:03:14",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+     "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+     "pubDate": "Sat, 10 Oct 2026 19:50:00 +0000",
+     "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+     "source": "TechCrunch AI",
+     "zh": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe"
+    },
     {
      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
@@ -143,14 +151,6 @@
      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
      "source": "TechCrunch AI",
      "zh": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
-    },
-    {
-     "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-     "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-     "pubDate": "Fri, 09 Oct 2026 16:56:42 +0000",
-     "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New ",
-     "source": "TechCrunch AI",
-     "zh": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?"
     },
     {
      "title": "Impactful scheduling for GPU clusters",
@@ -1729,14 +1729,6 @@
    "total": 18,
    "items": [
     {
-     "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-     "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-     "pubDate": "Sat, 10 Oct 2026 19:50:00 +0000",
-     "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-     "source": "TechCrunch",
-     "zh": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe"
-    },
-    {
      "title": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)",
      "link": "https://www.techmeme.com/261010/p17#a261010p17",
      "pubDate": "Sat, 10 Oct 2026 15:45:00 -0400",
@@ -1967,6 +1959,14 @@
      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
      "source": "WIRED",
      "zh": "AI Is Getting Really Good at Messing With Cybercriminals"
+    },
+    {
+     "title": "Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More",
+     "link": "https://www.wired.com/gallery/gifts-for-lego-lovers/",
+     "pubDate": "Sat, 10 Oct 2026 11:30:00 +0000",
+     "summary": "There's more to Lego than just another basic set. We tested tons of Lego-themed gifts to find the perfect ones for the brick builder in your life.",
+     "source": "WIRED",
+     "zh": "Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More"
     }
    ]
   },
@@ -2225,6 +2225,14 @@
    "total": 13,
    "items": [
     {
+     "title": "SA Asks: Is now the time to buy quantum stocks? If so, which ones?",
+     "link": "https://seekingalpha.com/news/4651914-sa-asks-is-now-the-time-to-buy-quantum-stocks-if-so-which-ones?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 10 Oct 2026 15:57:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: Is now the time to buy quantum stocks? If so, which ones?"
+    },
+    {
      "title": "Should I put my nest egg in a 30-year Treasury bond?",
      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
      "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
@@ -2377,68 +2385,12 @@
      "zh": "Flight disruptions growing after missile attack on Saudi airport"
     },
     {
-     "title": "Philips investors’ move to probe company over 2021 recall denied by Dutch court",
-     "link": "https://seekingalpha.com/news/4651909-philips-wins-dutch-court-battle-2021-recall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 10 Oct 2026 12:17:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Philips investors’ move to probe company over 2021 recall denied by Dutch court"
-    },
-    {
-     "title": "强化投资者利益绑定 公募基金新模式浮费产品扩容提质",
-     "link": "http://www.eeo.com.cn/2026/1010/1060324.shtml",
-     "pubDate": "Sat, 10 Oct 2026 23:52:06 +0800",
-     "summary": "上证报中国证券网讯（记者 汤立斌）记者10月10日从业内人士处了解到，监管部门近日发布题为《优化新模式浮动费率产品注册安排 纵深推进公募基金改革》的机构监管通报（下称《通报》）。《通报》对新模式浮费产品注册安排予以优化完善，明确提出适度扩大参与机构范围、稳步拓展产品适用范围、稳妥推进存量固定费率产品改造等一系列措施。根据《通报》，新模式浮费产品推出一年来整体运行平稳，注册数量和管理规模稳步增长，产品业绩...",
-     "source": "经济观察网",
-     "zh": "强化投资者利益绑定 公募基金新模式浮费产品扩容提质"
-    },
-    {
-     "title": "烟威1000千伏特高压工程竣工投产",
-     "link": "http://www.eeo.com.cn/2026/1010/1060323.shtml",
-     "pubDate": "Sat, 10 Oct 2026 23:52:05 +0800",
-     "summary": "据国网山东电力公司消息，10月10日，烟威1000千伏特高压交流输变电工程正式竣工投产。该工程是全国“十五五”时期首个投运的特高压交流输变电新建工程、全国首个服务核电送出的特高压工程。工程线路全长1197公里。投运后，烟台海阳、莱阳等地的核电将通过该通道送出，大幅提升山东省内绿电供给能力。",
-     "source": "经济观察网",
-     "zh": "烟威1000千伏特高压工程竣工投产"
-    },
-    {
-     "title": "到2030年地区生产总值达3.6万亿元以上 “十五五”期间重庆都市圈这样建",
-     "link": "http://www.eeo.com.cn/2026/1010/1060320.shtml",
-     "pubDate": "Sat, 10 Oct 2026 23:26:11 +0800",
-     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/AC6EC671A154C064C712C8723CCEC751.jpg\" alt=\"重庆城市风光。第1眼TV-华龙网记者 李文科 摄\" data-title=\"重庆城市风光。第1眼TV-华龙网记者 李文科 摄\" data-target=\"2108938062016548865\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/REPRINT/MEDIA/PICTURE/2026/10/10/c",
-     "source": "经济观察网",
-     "zh": "到2030年地区生产总值达3.6万亿元以上 “十五五”期间重庆都市圈这样建"
-    },
-    {
-     "title": "效仿盗墓小说自学“摸金”盗掘东周古墓，主犯获刑12年",
-     "link": "http://www.eeo.com.cn/2026/1010/1060318.shtml",
-     "pubDate": "Sat, 10 Oct 2026 23:13:11 +0800",
-     "summary": "21世纪经济报道记者 章驰 沉迷盗墓小说，自学盗墓技术，效仿盗墓小说情节盗掘文物是违法犯罪吗？近日，最高人民法院、国家文物局联合发布依法惩治文物犯罪典型案例。其中，余某才盗掘古墓葬一案中，法院对效仿盗墓小说情节组织盗掘古墓葬构成犯罪的行为，依法追究刑事责任。 案情显示，被告人余某才痴迷盗墓小说，自学盗墓技术，购买盗墓工具。2023年9月下旬、11月初，余某才与他人两次商定共同盗掘古墓葬，携带...",
-     "source": "经济观察网",
-     "zh": "效仿盗墓小说自学“摸金”盗掘东周古墓，主犯获刑12年"
-    },
-    {
-     "title": "以军空袭黎巴嫩致6人受伤",
-     "link": "http://www.eeo.com.cn/2026/1010/1060310.shtml",
-     "pubDate": "Sat, 10 Oct 2026 22:52:14 +0800",
-     "summary": "新华财经北京10月10日电 黎巴嫩卫生部9日发表声明说，以色列当天对黎巴嫩边境地区发动空袭，造成6人受伤。以色列方面称，此次袭击目标是一名受伊朗指使、策划针对以色列袭击的“叙利亚恐怖分子”。 据黎卫生部通报，以军9日对黎东北部靠近叙利亚的希尔米勒地区发动无人机袭击，造成5名叙利亚公民和一名黎巴嫩公民受伤，受伤叙利亚公民中有两人是女性。据黎巴嫩国家通讯社报道，以军的袭击目标是一辆汽车。 以色列国...",
-     "source": "经济观察网",
-     "zh": "以军空袭黎巴嫩致6人受伤"
-    },
-    {
      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
      "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
      "pubDate": "Sat, 10 Oct 2026 14:22:23 GMT",
      "summary": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
      "source": "CNBC",
      "zh": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows"
-    },
-    {
-     "title": "战略能力 再次成为中国汽车品牌向上的胜负手",
-     "link": "http://www.eeo.com.cn/2026/1010/1060306.shtml",
-     "pubDate": "Sat, 10 Oct 2026 22:21:26 +0800",
-     "summary": "只做颠覆式创新，容易长期被贴上低端标签；只埋头做持续性创新，又会直接与国际老牌巨头正面红海竞争。二者统筹平衡，才是品牌向上的必经之路。",
-     "source": "经济观察网",
-     "zh": "战略能力 再次成为中国汽车品牌向上的胜负手"
     },
     {
      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
@@ -2463,6 +2415,54 @@
      "summary": "10月10日，中国工业和信息化部、公安部、生态环境部、市场监管总局联合发布征求意见稿，拟对汽车产品创新设计和研发测试验证实施全面强化管理。 征求意见稿明确提出， 禁止配备全隐藏式车门把手 ；灯光、雨刮、除霜除雾等关键驾驶安全功能在采用虚拟操纵件的同时， 必须保留实体操纵件 ； 折叠显示屏、柔性显示屏被明确禁止 ；行车时不得使用\"零重力\"座椅、旋转座椅或座椅放倒成床等功能。 在时间节点上， 自2027年1月1日起 ，涉及创新设计的新申报车型须提交额外技术参数及验证材料； 已获批车型须在2027年7月1日前 完成补充申报，逾期且存在安全隐患的车辆须立即停产并启动召回程序。 禁止全隐藏式门把手，关键",
      "source": "华尔街见闻",
      "zh": "四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件"
+    },
+    {
+     "title": "AI borrowing slows as investors grow wary of debt binge",
+     "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
+     "pubDate": "Sat, 10 Oct 2026 11:00:07 GMT",
+     "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
+     "source": "Financial Times",
+     "zh": "AI borrowing slows as investors grow wary of debt binge"
+    },
+    {
+     "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+     "link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+     "pubDate": "Sat, 10 Oct 2026 11:00:01 GMT",
+     "summary": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
+     "source": "CNBC",
+     "zh": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them"
+    },
+    {
+     "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
+     "link": "https://wallstreetcn.com/articles/3783332",
+     "pubDate": "Sat, 10 Oct 2026 18:23:15 +0800",
+     "summary": "美股表面平静之下，一场滚动式熊市正在悄然蔓延。 野村证券跨资产策略师Charlie McElligott在10月8日的报告中警告，标普500指数近两个月几乎原地踏步，但85%的成分股已陷入技术性调整，指数的\"平静\"不过是极度集中的市场结构所制造的幻觉。 McElligott指出，仅十只股票就贡献了标普500自3月30日以来23%涨幅的70%，其中英伟达一家独占13%。 与此同时，欧洲柴油短缺正通过利率波动率传导至整个市场， 构成随时可能引爆的“导火索” 。 就在野村报告发布数小时内， 两大关键变量相继落地： 特朗普宣布中期选举前不对伊朗动武，油价应声下跌；英国《金融时报》随即披露OpenAI年",
+     "source": "华尔街见闻",
+     "zh": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击"
+    },
+    {
+     "title": "第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品",
+     "link": "https://wallstreetcn.com/articles/3783333",
+     "pubDate": "Sat, 10 Oct 2026 18:01:57 +0800",
+     "summary": "8 月 14 日摊余成本法债基重新“开闸”后，中小公募 机构的 申报热情持续高涨。 因为 摊余成本法债基确实具备独特的市场热度。 同样是买债券，普通债基的净值随债券市价涨跌 ，市场 一波动 净值就 上下起伏。摊余成本法债基则以买入成本记账，把票息和折溢价摊销到持有期的每一天，净值几乎是一条平稳向上的曲线。 但 产品必须封闭持有到期、中途不能卖出。 10 月 8 日、9 日，第三批 16 家中小基金公司集中上报。 又有 16 家集体申报 证监会网站显示，财信基金、金元顺安基金、金信基金、泉果基金、红塔红土基金、易米基金、汇百川基金、百嘉基金、安联基金、兴华基金、红土创新基金、联博基金、国新国证基",
+     "source": "华尔街见闻",
+     "zh": "第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品"
+    },
+    {
+     "title": "Nixonmaxxing: the strange revival of America’s disgraced president",
+     "link": "https://www.ft.com/content/e3945b16-13f0-4640-882d-fafaca9d25e9?syn-25a6b1a6=1",
+     "pubDate": "Sat, 10 Oct 2026 10:00:07 GMT",
+     "summary": "Richard Nixon has become the unlikely darling of Trump’s Washington",
+     "source": "Financial Times",
+     "zh": "Nixonmaxxing: the strange revival of America’s disgraced president"
+    },
+    {
+     "title": "“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代",
+     "link": "https://wallstreetcn.com/articles/3783326",
+     "pubDate": "Sat, 10 Oct 2026 16:35:34 +0800",
+     "summary": "在AI重塑全球算力版图的当下，前英特尔CEO Pat Gelsinger一针见血地指出：AI让芯片设计变得简单，但制造、内存与能源的物理瓶颈正引发一场史无前例的硬件复兴。 10月9日，硅谷创投机构a16z 播出一期深度访谈节目。在对谈中，Playground Global普通合伙人、前英特尔CEO Pat Gelsinger与a16z的Raghu Raghuram、Guido Appenzeller展开了一场跨越芯片设计、存储创新、光互联、能源瓶颈乃至AI代理（Agent）基础设施的深度讨论。这位亲手设计了英特尔386和486处理器、见证了现代EDA行业诞生的芯片老兵，以其数十年的一线经验，为",
+     "source": "华尔街见闻",
+     "zh": "“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代"
     }
    ]
   },

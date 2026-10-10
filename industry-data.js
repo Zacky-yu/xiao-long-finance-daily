@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 06:11:39",
+ "generated_at": "2026/10/11 07:20:01",
  "recent_days": 7,
  "industries": [
   {
@@ -858,6 +858,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
+     "link": "https://oilprice.com/Energy/Energy-General/Tanker-Rates-Soar-to-Record-as-Oil-Crisis-Becomes-Shipping-Crisis.html",
+     "pubDate": "Sat, 10 Oct 2026 18:00:00 -0500",
+     "summary": "The cost of shipping crude oil soared to record highs last month as the Iran war reshuffled trade routes and patterns and tied up more tankers in inefficient and lengthy voyages. Supertanker rates soared in September to above $1 million per day on the Persian Gulf to China route—a record high. The S",
+     "source": "OilPrice",
+     "zh": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis"
+    },
+    {
+     "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Emergency-Oil-Releases-Risk-Draining-the-Worlds-Last-Supply-Cushion.html",
+     "pubDate": "Sat, 10 Oct 2026 18:00:00 -0500",
+     "summary": "Earlier this week, the International Energy Agency, after consulting with G7, said it would release another 100 million barrels of diesel, gasoline, and crude oil. The release is part of a plan announced in March to release 400 million barrels of oil in response to the Hormuz squeeze. But there is a",
+     "source": "OilPrice",
+     "zh": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion"
+    },
+    {
      "title": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
      "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
      "pubDate": "Sat, 10 Oct 2026 16:00:00 -0500",
@@ -938,22 +954,6 @@ window.INDUSTRY_DATA = {
      "zh": "Why Record Crude Output Can’t Solve America’s Diesel Crisis"
     },
     {
-     "title": "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Germany-Add-Diesel-Supply-as-Fuel-Market-Scrambles-for-Barrels.html",
-     "pubDate": "Fri, 09 Oct 2026 16:30:00 -0500",
-     "summary": "Russia and Germany are putting more diesel into a global market that has spent months looking for barrels almost anywhere it can find them. President Donald Trump said Friday that Russian President Vladimir Putin had agreed to immediately supply more than 300,000 metric tons of diesel to the U.S. an",
-     "source": "OilPrice",
-     "zh": "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels"
-    },
-    {
-     "title": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Hurricane-Isaias-Shuts-In-71-of-US-Gulf-Oil-Production.html",
-     "pubDate": "Fri, 09 Oct 2026 15:30:00 -0500",
-     "summary": "Hurricane Isaias has now knocked nearly 1.46 million barrels per day of U.S. Gulf oil production offline, extending a rapid shutdown that began with just 185,120 bpd three days ago. The Marine Minerals Administration said Friday that operators had shut in 1,458,814 bpd, or 71.51% of current Gulf oil",
-     "source": "OilPrice",
-     "zh": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production"
-    },
-    {
      "title": "Clean-energy super PAC names its target list for general elections",
      "link": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-target",
      "pubDate": "Fri, 09 Oct 2026 13:33:00 -0400",
@@ -962,12 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "Clean-energy super PAC names its target list for general elections"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
+     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1105,6 +1105,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Americans trust science more than peers around the world, survey shows",
+     "link": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
+     "pubDate": "Sat, 10 Oct 2026 23:01:00 +0000",
+     "summary": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
+     "source": "STAT News",
+     "zh": "Americans trust science more than peers around the world, survey shows"
+    },
     {
      "title": "Women in Biopharma 2026; A secretive new thorn in pharma’s side; and more",
      "link": "https://endpoints.news/women-in-biopharma-2026-a-secretive-new-thorn-in-pharmas-side-and-more/",
@@ -1240,14 +1248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Plus news about Alchemist Capital, Newron Pharmaceuticals, Life Biosciences, Onyx Bio and Tecentriq. City Therapeutics charts $158M IPO: The RNAi startup from former Alnylam executives is looking to sell 9.72 million shares at $17 to ...",
      "source": "Endpoints News",
      "zh": "City Therapeutics targets $158M IPO; Iambic seeks $135M Nasdaq debut"
-    },
-    {
-     "title": "STAT+: Up and down the ladder: The latest comings and goings",
-     "link": "https://www.statnews.com/pharmalot/2026/10/09/up-and-down-ladder-latest-comings-and-goings-jobs/?utm_campaign=rss",
-     "pubDate": "Fri, 09 Oct 2026 13:59:35 +0000",
-     "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-     "source": "STAT News",
-     "zh": "STAT+：上下阶梯：最新动态"
     },
     {
      "title": "TRex Bio prices $117M IPO to support immune drug work",
@@ -1496,14 +1496,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Tranche 1 Transporter Layer A mission is the fourth flight supporting the Space Development Agency’s Proliferated Warfighter Space Architecture constellation. The next launch attempt could come as soon as Saturday.",
      "source": "Spaceflight Now",
      "zh": "SpaceX scrubs launch attempt for 21 data transport satellites for the Space Development Agency"
-    },
-    {
-     "title": "ESA to pursue crew transport and space stations as European launchers come online",
-     "link": "https://www.nasaspaceflight.com/2026/10/europe-update/",
-     "pubDate": "Sat, 03 Oct 2026 22:11:23 +0000",
-     "summary": "The European Space Agency (ESA) recently started investigating options for a European-led space station. The… The post ESA to pursue crew transport and space stations as European launchers come online appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ESA to pursue crew transport and space stations as European launchers come online"
     }
    ]
   },
@@ -1730,6 +1722,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "日本罗森、JR 九州等多家企业遭非法访问，超千万条用户信息外泄",
+     "link": "https://www.ithome.com/1/011/544.htm",
+     "pubDate": "Sat, 10 Oct 2026 23:08:26 GMT",
+     "summary": "IT之家 10 月 11 日消息，据共同社报道，日本便利店巨头罗森 8 日发布消息称，其会员账号服务“Lawson ID”遭第三方非法访问，导致用户个人信息外泄， 涉及的 ID 约达 215.5 万个 。 罗森泄露的信息包括邮件地址、姓名、性别、电话号码及住址等。据悉 7 日实施的调查中发现，系统在 9 月 12 至 14 日遭到非法访问。该公司表示：“给用户带来巨大困扰，深表歉意。” 卡拉 OK 连锁运营商第一兴商也透露称， 约 872 万条客户信息可能已经外泄 。由于业务外包企业的员工终端感染恶意软件，客户姓名、出生日期、邮件地址等信息可能已外泄，对象包括旗下“BIG ECHO”“MEGA",
+     "source": "IT之家",
+     "zh": "日本罗森、JR 九州等多家企业遭非法访问，超千万条用户信息外泄"
+    },
+    {
+     "title": "国家互联网应急中心：内置后门功能的恶意软件“荐片播放器”大规模传播，已监测到超 70 万台设备感染",
+     "link": "https://www.ithome.com/1/011/543.htm",
+     "pubDate": "Sat, 10 Oct 2026 23:05:58 GMT",
+     "summary": "IT之家 10 月 11 日消息，国家互联网应急中心（CNCERT）10 月 9 日发布关于内置后门功能的恶意软件“ 荐片播放器 ”大规模传播的风险提示。 近期，国家互联网应急中心（CNCERT）监测发现，“荐片播放器”Windows 端应用程序内置后门功能，可在用户不知情的情况下采集终端信息、下载运行其他程序，并接收服务端指令执行任意代码，存在终端被远程控制、个人信息泄露等安全风险。目前， 境内已监测到超 70 万台设备感染 。 经分析，该程序在提供影视播放功能的同时，通过注册表自启动项和系统服务保持后台运行， 具备静默安装第三方软件、采集终端指纹与行为数据、篡改剪贴板内容等功能 。其内置的",
+     "source": "IT之家",
+     "zh": "国家互联网应急中心：内置后门功能的恶意软件“荐片播放器”大规模传播，已监测到超 70 万台设备感染"
+    },
+    {
+     "title": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才",
+     "link": "https://www.ithome.com/1/011/542.htm",
+     "pubDate": "Sat, 10 Oct 2026 22:53:49 GMT",
+     "summary": "IT之家 10 月 11 日消息，亚马逊云科技 10 月 10 日宣布与北京姚基金公益基金会（以下简称“姚基金”）共同推出 “云上篮图”体育 × 科技育人计划 。 该公益计划依托姚基金覆盖全国的学校网络、体育人才培养经验，同时借助亚马逊云科技 Breaking Barriers 全球创新活动，以及云与 AI 技术、由资深解决方案架构师组成的导师团队和培训与认证学习资源， 旨在培养更多兼备 AI 素养与体育专业能力的复合型人才 ，赋能中国体育行业在 AI 时代快速发展。 本次计划中，亚马逊云科技将投入 100 万美元 （IT之家注：现汇率约合 670.6 万元人民币） 现金捐赠及云与 AI 技术",
+     "source": "IT之家",
+     "zh": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才"
+    },
+    {
+     "title": "消息称英伟达洽谈收购 / 追加投资 Reflection AI，加码开源模型",
+     "link": "https://www.ithome.com/1/011/541.htm",
+     "pubDate": "Sat, 10 Oct 2026 22:46:30 GMT",
+     "summary": "IT之家 10 月 11 日消息，据金融时报消息，知情人士透露，英伟达正就收购美国初创公司 Reflection AI 或向其追加投资展开深入谈判。 Reflection AI 专注于开发开放权重模型，于当地时间 10 月 5 日发布旗下首款开放权重 AI 模型 Beam。 知情人士补充称，目前的谈判尚处初期阶段，潜在交易可能采取多种形式 —— 包括所谓“人才兼并”模式。在这一架构下，英伟达将吸纳其核心团队并获取技术授权，从而绕开全面并购通常伴随的漫长反垄断审查。 英伟达目前已是 Reflection 的主要股东之一，也可能选择通过新一轮股权投资，或以提供更多芯片与算力资源的合作方案，进一步加",
+     "source": "IT之家",
+     "zh": "消息称英伟达洽谈收购 / 追加投资 Reflection AI，加码开源模型"
+    },
+    {
      "title": "\"Super Intelligence systems\" are black boxes that shouldn&apos;t be trusted by companies, and strong deterministic systems are needed around their deployment (Satya Nadella/@satyanadella)",
      "link": "https://www.techmeme.com/261010/p18#a261010p18",
      "pubDate": "Sat, 10 Oct 2026 17:15:01 -0400",
@@ -1738,18 +1762,10 @@ window.INDUSTRY_DATA = {
      "zh": "\"Super Intelligence systems\" are black boxes that shouldn&apos;t be trusted by companies, and strong deterministic systems are needed around their deployment (Satya Nadella/@satyanadella)"
     },
     {
-     "title": "Why We Still Cannot Read Etruscan",
-     "link": "https://veiledantiquity.com/posts/etruscan-language-lost/",
-     "pubDate": "Sat, 10 Oct 2026 21:07:07 +0000",
-     "summary": "Article URL: https://veiledantiquity.com/posts/etruscan-language-lost/ Comments URL: https://news.ycombinator.com/item?id=50037183 Points: 5 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Why We Still Cannot Read Etruscan"
-    },
-    {
      "title": "A city-building game in which the city would prefer you didn't",
      "link": "https://housing.over.pizza/",
      "pubDate": "Sat, 10 Oct 2026 20:31:50 +0000",
-     "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 28 # Comments: 3",
+     "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 82 # Comments: 33",
      "source": "Hacker News",
      "zh": "A city-building game in which the city would prefer you didn't"
     },
@@ -1757,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "50MB operating system can resurrect your old PC",
      "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
      "pubDate": "Sat, 10 Oct 2026 19:59:24 +0000",
-     "summary": "Article URL: https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/ Comments URL: https://news.ycombinator.com/item?id=50036571 Points: 18 # Comments: 3",
+     "summary": "Article URL: https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/ Comments URL: https://news.ycombinator.com/item?id=50036571 Points: 26 # Comments: 7",
      "source": "Hacker News",
      "zh": "50MB operating system can resurrect your old PC"
     },
@@ -1773,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Takeshi's Castle",
      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
      "pubDate": "Sat, 10 Oct 2026 19:12:55 +0000",
-     "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle Comments URL: https://news.ycombinator.com/item?id=50036119 Points: 63 # Comments: 23",
+     "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle Comments URL: https://news.ycombinator.com/item?id=50036119 Points: 81 # Comments: 30",
      "source": "Hacker News",
      "zh": "Takeshi's Castle"
     },
@@ -1797,9 +1813,17 @@ window.INDUSTRY_DATA = {
      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
      "pubDate": "Sat, 10 Oct 2026 18:48:35 +0000",
-     "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 86 # Comments: 51",
+     "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 91 # Comments: 58",
      "source": "Hacker News",
      "zh": "Nvidia in talks to acquire US 'open' model startup Reflection AI"
+    },
+    {
+     "title": "Why DuckDB 2.0 is faster",
+     "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+     "pubDate": "Sat, 10 Oct 2026 18:08:49 +0000",
+     "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/ Comments URL: https://news.ycombinator.com/item?id=50035530 Points: 106 # Comments: 34",
+     "source": "Hacker News",
+     "zh": "Why DuckDB 2.0 is faster"
     },
     {
      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
@@ -1858,44 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台"
     },
     {
-     "title": "第二款三方品牌星闪耳机将至：漫步者 Lolli Spark 通过 OpenHarmony 认证",
-     "link": "https://www.ithome.com/1/011/538.htm",
-     "pubDate": "Sat, 10 Oct 2026 15:53:05 GMT",
-     "summary": "IT之家 10 月 10 日消息，OpenHarmony 官网显示，型号为“EDF200259”的漫步者 Lolli Spark 耳机已通过测试认证， 搭载 Hi3372 芯片、OpenHarmony 5.1.0 Release 轻量系统 。 IT之家注意到，该型号耳机还通过了星闪联盟测试列名，测试集包括高清音频协议一致性测试等。这意味着这款耳机将于近期上市， 有望成为第二款支持星闪音频的三方品牌耳机 。 参考IT之家此前报道， 漫步者于 9 月初在京东上架了 Comfo Clip Q2 耳夹式耳机 ，该耳机基于 OpenHarmony 开源鸿蒙系统打造，搭载海思谛听芯片、匹配 12mm 动圈",
-     "source": "IT之家",
-     "zh": "第二款三方品牌星闪耳机将至：漫步者 Lolli Spark 通过 OpenHarmony 认证"
-    },
-    {
-     "title": "华为鸿蒙星河互联与 Apple Watch 互联适配机型公布，首批含 Pura X View、Mate 90 系列等",
-     "link": "https://www.ithome.com/1/011/537.htm",
-     "pubDate": "Sat, 10 Oct 2026 15:48:10 GMT",
-     "summary": "IT之家 10 月 10 日消息， 华为鸿蒙星河互联 App 已正式登陆 Apple Watch 端 。 应用介绍页显示，其支持 Apple Watch 与 HarmonyOS 7.0.0.109 及以上版本华为手机配对连接，用户可体验信息流转、查找设备等功能。 IT之家从华为官网了解到， 当前仅 Pura X View、Mate 90 系列、Mate XT 2 支持与 Apple Watch 互联 。华为官方表示，其他产品将逐步开放该功能。 系统要求如下： Apple Watch：watchOS 10.0 及以上版本。 华为手机：HarmonyOS 7.0.0.109 及以上版本。 另外，在",
-     "source": "IT之家",
-     "zh": "华为鸿蒙星河互联与 Apple Watch 互联适配机型公布，首批含 Pura X View、Mate 90 系列等"
-    },
-    {
-     "title": "阻击安森美，Cirrus Logic 抢购 Synaptics",
-     "link": "https://www.ithome.com/1/011/536.htm",
-     "pubDate": "Sat, 10 Oct 2026 15:41:05 GMT",
-     "summary": "IT之家 10 月 10 日消息，今日，据彭博社援引知情人士消息，半导体公司 Cirrus Logic Inc. 上个月向 Synaptics Inc. 提出了一项未经请求的收购要约，试图破坏后者此前已公布的、与安森美半导体的并购交易。 知情人士表示，Synaptics 周四更新的股东委托文件中提及的“甲方”， 正是 Cirrus Logic 。知情人士补充，目前尚不清楚 Cirrus Logic 是否仍有意推进这笔收购。 据悉，Cirrus Logic 的报价采用现金 + 股票形式，促使安森美在上周修改了与 Synaptics 的协议条款。安森美将交易结构从全股票改为全现金，每股报价调整至 ",
-     "source": "IT之家",
-     "zh": "阻击安森美，Cirrus Logic 抢购 Synaptics"
-    },
-    {
      "title": "收废品，怎么就成了大生意？",
      "link": "https://www.tmtpost.com/8163795.html",
      "pubDate": "Sat, 10 Oct 2026 23:32:54 +0800",
      "summary": "废品站那杆秤，连着伦敦、纽约和布鲁塞尔的全球大宗市场。",
      "source": "钛媒体",
      "zh": "收废品，怎么就成了大生意？"
-    },
-    {
-     "title": "阿维塔 T09 概念版汽车更多亮点公布：全新水晶立标、晶钻阵列大灯，10 月 11 日全球首秀",
-     "link": "https://www.ithome.com/1/011/535.htm",
-     "pubDate": "Sat, 10 Oct 2026 15:29:55 GMT",
-     "summary": "IT之家 10 月 10 日消息，阿维塔 T09 概念版全球首秀已定档 1 天后（10 月 11 日）。该车还将同步亮相 2026 巴黎国际汽车展。官方近日陆续公布了该车的外观信息。 根据官方预热，阿维塔 T09 概念版汽车拥有全新 Vortex 情感涡流设计，宣称“让科技更有温度”； 配备全新晶钻阵列大灯 + 全新水晶立标 ，主打“尊崇”质感等。 据IT之家此前报道，今年 9 月， 阿维塔官方公布了 T09 的官图 。新车由阿维塔和华为乾崑联合设计，前脸采用点阵封闭式格栅 + 分体式大灯设计，顶部有一颗激光雷达（预计是华为乾崑 896 线双光路图像级激光雷达），车门配备了半隐藏式门把手。 目",
-     "source": "IT之家",
-     "zh": "阿维塔 T09 概念版汽车更多亮点公布：全新水晶立标、晶钻阵列大灯，10 月 11 日全球首秀"
     },
     {
      "title": "模型还在加速，世界如何跟上？｜北美AI交流手记",
@@ -1978,6 +1970,30 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Simple tweaks to improve your 4K TV's picture quality",
+     "link": "https://www.engadget.com/2280162/improve-picture-quality-4k-tv-simple-tweaks/",
+     "pubDate": "Sat, 10 Oct 2026 23:00:00 +0000",
+     "summary": "Even if your TV looks great as-is, some tweaks to its modes and sliders, as well as the room it's in, will make it look much better.",
+     "source": "Engadget",
+     "zh": "Simple tweaks to improve your 4K TV's picture quality"
+    },
+    {
+     "title": "How to lock apps on your Samsung Galaxy phone",
+     "link": "https://www.engadget.com/2280136/how-to-lock-app-samsung-galaxy-phone/",
+     "pubDate": "Sat, 10 Oct 2026 22:45:00 +0000",
+     "summary": "Samsung phones have a couple of features that can keep sensitive apps and files private. One locks your chosen apps, and the other restricts all but one app.",
+     "source": "Engadget",
+     "zh": "How to lock apps on your Samsung Galaxy phone"
+    },
+    {
+     "title": "What is the 3-2-1 rule for backing up your data?",
+     "link": "https://www.engadget.com/2280127/backing-up-data-3-2-1-rule-explained/",
+     "pubDate": "Sat, 10 Oct 2026 22:30:00 +0000",
+     "summary": "Make sure your files are safe in the event of a hard drive disaster.",
+     "source": "Engadget",
+     "zh": "What is the 3-2-1 rule for backing up your data?"
+    },
+    {
      "title": "How does using your MacBook while charging affect its battery life?",
      "link": "https://www.engadget.com/2280083/how-using-macbook-while-charging-affect-battery-life/",
      "pubDate": "Sat, 10 Oct 2026 22:00:00 +0000",
@@ -2040,30 +2056,6 @@ window.INDUSTRY_DATA = {
      "summary": "You don't have to guess how long is left on your Samsung device's warranty; the company makes it easy to confirm.",
      "source": "Engadget",
      "zh": "How to quickly check your Samsung Galaxy's warranty info"
-    },
-    {
-     "title": "What is ray tracing in gaming and does it really make a difference?",
-     "link": "https://www.engadget.com/2279929/what-is-ray-tracing-gaming-does-it-make-difference/",
-     "pubDate": "Sat, 10 Oct 2026 18:00:00 +0000",
-     "summary": "Ray tracing makes light's behavior more realistic in supported games, but your PC has to use a lot of horsepower to make that happen.",
-     "source": "Engadget",
-     "zh": "What is ray tracing in gaming and does it really make a difference?"
-    },
-    {
-     "title": "Anthropic says its AI agents tried to break into government websites",
-     "link": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/",
-     "pubDate": "Sat, 10 Oct 2026 17:49:49 +0000",
-     "summary": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing.",
-     "source": "Engadget",
-     "zh": "Anthropic says its AI agents tried to break into government websites"
-    },
-    {
-     "title": "How to reset your Samsung TV",
-     "link": "https://www.engadget.com/2279855/how-to-reset-samsung-tv/",
-     "pubDate": "Sat, 10 Oct 2026 16:30:00 +0000",
-     "summary": "If you have a Frame TV or one of the other Samsung models, you may occasionally need to reboot or factory reset it.",
-     "source": "Engadget",
-     "zh": "How to reset your Samsung TV"
     },
     {
      "title": "Google starts teasing the Fitbit Edge, reveals its launch date",
@@ -2226,6 +2218,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "新疆阿克苏地区沙雅县发生3.3级地震，震源深度21千米",
+     "link": "http://finance.eastmoney.com/news/11790,202610113892014677.html",
+     "pubDate": "Sun, 11 Oct 2026 07:04:59 +0800",
+     "summary": "中国地震台网正式测定：10月11日00时43分在新疆阿克苏地区沙雅县（北纬39.98度，东经82.96度）发生3.3级地震，震源深度21千米。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "新疆阿克苏地区沙雅县发生3.3级地震，震源深度21千米"
+    },
+    {
+     "title": "美警方：宾州枪击事件枪手杀害8人后自杀",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892014580.html",
+     "pubDate": "Sun, 11 Oct 2026 06:53:16 +0800",
+     "summary": "当地时间10月10日获悉，美国宾夕法尼亚州伊利市警方在新闻发布会上透露了9日晚枪击案的细节。警方称，一名45岁男子在伊利市枪杀8人，其中包括一名孕妇和两名儿童，随后自杀身亡。警方表示尚未确定枪手的作案动机。 宾夕法尼亚州伊利市9日发生大规模枪击事件，造成包括枪手在内的9人死亡。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "美警方：宾州枪击事件枪手杀害8人后自杀"
+    },
+    {
+     "title": "证监会召开资本市场和金融形势专家座谈会；郑钦文首进中网女单决赛；食品安全法修订草案征求意见；俄宣布部分解除柴油出口禁令丨每经早参",
+     "link": "http://finance.eastmoney.com/news/1346,202610113892014362.html",
+     "pubDate": "Sun, 11 Oct 2026 06:43:47 +0800",
+     "summary": "1 5方面15条举措商务部等7部门部署品质电商“五优”行动 10月10日，《商务部等7部门关于实施品质电商“五优”行动的通知》（以下简称《通知》）发布。 《通知》明确惠民生与促消费结合、规范发展与质量提升并重、数字技术与实体经济融合的原则，重点任务部署15项具体工作，围绕五大维度构建全链条培育体系 。下一步，商务部将会同有关部门推动“五优”行动举措落地见效，以品质电商发展助力消费提质升级和 电子 商务高质量发展。 商务部欧洲司负责人解读中欧贸易投资磋商机制第二次例会成果 10月10日，据商务部网站消息，10月8日至9日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京",
+     "source": "东方财富股票",
+     "zh": "证监会召开资本市场和金融形势专家座谈会；郑钦文首进中网女单决赛；食品安全法修订草案征求意见；俄宣布部分解除柴油出口禁令丨每经早参"
+    },
+    {
+     "title": "美以领导人被曝近期频繁就再袭伊朗进行沟通",
+     "link": "http://finance.eastmoney.com/news/1356,202610113892014454.html",
+     "pubDate": "Sun, 11 Oct 2026 06:39:11 +0800",
+     "summary": "总台记者当地时间10月10日获悉，以色列方面有消息称，美国总统特朗普与以色列总理内塔尼亚胡近期“就美以可能再对伊朗发动军事打击一事进行了频繁、紧急沟通”。 根据多名以色列安全机构高级官员的消息，“美以尚未就此作出最终决定，内塔尼亚胡无意在以色列本月底举行议会选举前采取军事行动”。以军内部认为，美方未来倾向于重启对伊朗军事行动。目前，以军正据此为应对一切可能情况作准备。（央视新闻） （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "美以领导人被曝近期频繁就再袭伊朗进行沟通"
+    },
+    {
+     "title": "沙特主导多国联军称拦截并摧毁一枚胡塞武装弹道导弹",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892014116.html",
+     "pubDate": "Sun, 11 Oct 2026 06:37:22 +0800",
+     "summary": "当地时间10月11日凌晨，沙特阿拉伯主导的多国联军发言人图尔基·马利基表示，联军当天在沙特利雅得省海尔季地区拦截并摧毁了一枚由胡塞武装发射的弹道导弹。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "沙特主导多国联军称拦截并摧毁一枚胡塞武装弹道导弹"
+    },
+    {
+     "title": "公积金功能 又上新了！",
+     "link": "http://finance.eastmoney.com/news/1350,202610113892012889.html",
+     "pubDate": "Sun, 11 Oct 2026 06:36:08 +0800",
+     "summary": "近期，多地正式开始落地住房公积金惠民新政，提取范围进一步放宽。南京、苏州等地已开始受理装修、物业费提取业务，辽宁沈阳也发布九项优化政策，采暖费等支出纳入提取范围。 南京 10月9日，南京住房公积金新政正式落地办理。 根据新政，2026年9月20日起，进行自住住房装修的缴存家庭都可以申请公积金装修提取，每平方米不超过1000元，家庭最高提取总额15万元。缴存家庭提取公积金支付自住住房物业费的，凭物业费发票年度最高提取5000元；无发票年度最高提取1000元。 江苏南京住房公积金管理中心归集贷款处工作人员张远航介绍，截至目前已有7300名缴存人成功申请办理本次新政的业务，申请金额约1600万元。 ",
+     "source": "东方财富股票",
+     "zh": "公积金功能 又上新了！"
+    },
+    {
+     "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
+     "link": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
+     "pubDate": "Sat, 10 Oct 2026 22:18:05 GMT",
+     "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels",
+     "source": "Financial Times",
+     "zh": "Missile strike on Riyadh airport kills 12 and injures hundreds"
+    },
+    {
      "title": "Microsoft&apos;s Nadella says AI needs an ‘emergency brake’ that humans control",
      "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
      "pubDate": "Sat, 10 Oct 2026 20:59:28 GMT",
@@ -2330,14 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "China passenger vehicle retail market slumps 24% in September"
     },
     {
-     "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
-     "link": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
-     "pubDate": "Sat, 10 Oct 2026 17:42:28 GMT",
-     "summary": "Trump suggests Volodymyr Zelenskyy should be replaced after Ukraine’s leader criticised diesel deal with Moscow",
-     "source": "Financial Times",
-     "zh": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing"
-    },
-    {
      "title": "Flight disruptions growing after missile attack on Saudi airport",
      "link": "https://seekingalpha.com/news/4651910-flight-disruptions-after-blast-saudi-airport?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 10 Oct 2026 12:52:32 -0400",
@@ -2416,54 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.",
      "source": "CNBC",
      "zh": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance"
-    },
-    {
-     "title": "四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件",
-     "link": "https://wallstreetcn.com/articles/3783341",
-     "pubDate": "Sat, 10 Oct 2026 20:13:11 +0800",
-     "summary": "10月10日，中国工业和信息化部、公安部、生态环境部、市场监管总局联合发布征求意见稿，拟对汽车产品创新设计和研发测试验证实施全面强化管理。 征求意见稿明确提出， 禁止配备全隐藏式车门把手 ；灯光、雨刮、除霜除雾等关键驾驶安全功能在采用虚拟操纵件的同时， 必须保留实体操纵件 ； 折叠显示屏、柔性显示屏被明确禁止 ；行车时不得使用\"零重力\"座椅、旋转座椅或座椅放倒成床等功能。 在时间节点上， 自2027年1月1日起 ，涉及创新设计的新申报车型须提交额外技术参数及验证材料； 已获批车型须在2027年7月1日前 完成补充申报，逾期且存在安全隐患的车辆须立即停产并启动召回程序。 禁止全隐藏式门把手，关键",
-     "source": "华尔街见闻",
-     "zh": "四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件"
-    },
-    {
-     "title": "AI borrowing slows as investors grow wary of debt binge",
-     "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
-     "pubDate": "Sat, 10 Oct 2026 11:00:07 GMT",
-     "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
-     "source": "Financial Times",
-     "zh": "AI borrowing slows as investors grow wary of debt binge"
-    },
-    {
-     "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-     "link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
-     "pubDate": "Sat, 10 Oct 2026 11:00:01 GMT",
-     "summary": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
-     "source": "CNBC",
-     "zh": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them"
-    },
-    {
-     "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
-     "link": "https://wallstreetcn.com/articles/3783332",
-     "pubDate": "Sat, 10 Oct 2026 18:23:15 +0800",
-     "summary": "美股表面平静之下，一场滚动式熊市正在悄然蔓延。 野村证券跨资产策略师Charlie McElligott在10月8日的报告中警告，标普500指数近两个月几乎原地踏步，但85%的成分股已陷入技术性调整，指数的\"平静\"不过是极度集中的市场结构所制造的幻觉。 McElligott指出，仅十只股票就贡献了标普500自3月30日以来23%涨幅的70%，其中英伟达一家独占13%。 与此同时，欧洲柴油短缺正通过利率波动率传导至整个市场， 构成随时可能引爆的“导火索” 。 就在野村报告发布数小时内， 两大关键变量相继落地： 特朗普宣布中期选举前不对伊朗动武，油价应声下跌；英国《金融时报》随即披露OpenAI年",
-     "source": "华尔街见闻",
-     "zh": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击"
-    },
-    {
-     "title": "第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品",
-     "link": "https://wallstreetcn.com/articles/3783333",
-     "pubDate": "Sat, 10 Oct 2026 18:01:57 +0800",
-     "summary": "8 月 14 日摊余成本法债基重新“开闸”后，中小公募 机构的 申报热情持续高涨。 因为 摊余成本法债基确实具备独特的市场热度。 同样是买债券，普通债基的净值随债券市价涨跌 ，市场 一波动 净值就 上下起伏。摊余成本法债基则以买入成本记账，把票息和折溢价摊销到持有期的每一天，净值几乎是一条平稳向上的曲线。 但 产品必须封闭持有到期、中途不能卖出。 10 月 8 日、9 日，第三批 16 家中小基金公司集中上报。 又有 16 家集体申报 证监会网站显示，财信基金、金元顺安基金、金信基金、泉果基金、红塔红土基金、易米基金、汇百川基金、百嘉基金、安联基金、兴华基金、红土创新基金、联博基金、国新国证基",
-     "source": "华尔街见闻",
-     "zh": "第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品"
-    },
-    {
-     "title": "Nixonmaxxing: the strange revival of America’s disgraced president",
-     "link": "https://www.ft.com/content/e3945b16-13f0-4640-882d-fafaca9d25e9?syn-25a6b1a6=1",
-     "pubDate": "Sat, 10 Oct 2026 10:00:07 GMT",
-     "summary": "Richard Nixon has become the unlikely darling of Trump’s Washington",
-     "source": "Financial Times",
-     "zh": "Nixonmaxxing: the strange revival of America’s disgraced president"
     }
    ]
   },
@@ -2538,20 +2530,20 @@ window.INDUSTRY_DATA = {
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
-     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
-     "source": "Live Science",
-     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
-    },
-    {
      "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
      "source": "Live Science",
      "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
+    },
+    {
+     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
+     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
+     "source": "Live Science",
+     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

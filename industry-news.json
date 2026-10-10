@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 15:52:05",
+ "generated_at": "2026/10/10 16:12:15",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Jury still out in Qualcomm vs Arm case",
+     "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
+     "pubDate": "Sat, 10 Oct 2026 07:20:41 +0000",
+     "summary": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Jury still out in Qualcomm vs Arm case"
+    },
+    {
      "title": "Phison posts record September revenue as AI tops half of sales",
      "link": "https://www.digitimes.com/news/a20261008PD250/phison-revenue-demand-data-medical.html",
      "pubDate": "Sat, 10 Oct 2026 06:30:11 GMT",
@@ -391,14 +399,6 @@
      "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
      "source": "Electronics Weekly",
      "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
-    },
-    {
-     "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:04:25 +0000",
-     "summary": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Robotaxi growth, Arm Qualcomm battle"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Why leadership decides Italy’s energy security",
+     "link": "https://www.pv-magazine.com/2026/10/10/beyond-gigawatts-why-leadership-decides-italys-energy-security/",
+     "pubDate": "Sat, 10 Oct 2026 08:00:00 +0000",
+     "summary": "At Solar & Storage Live Italia, panels organised by Women in Solar+ Europe (WiSEu) and Solar+ Leaders argued that decisions made in a project's first months, and the inclusive teams built to make them, matter as much to energy security as megawatts and capital. The post Why leadership decides Italy’",
+     "source": "pv magazine",
+     "zh": "Why leadership decides Italy’s energy security"
+    },
+    {
      "title": "More than 70% of announced U.S. solar manufacturing expansion plans yet to be financed",
      "link": "https://www.pv-magazine.com/2026/10/10/more-than-70-of-announced-u-s-solar-manufacturing-expansion-plans-yet-to-be-financed/",
      "pubDate": "Sat, 10 Oct 2026 07:00:00 +0000",
@@ -951,14 +959,6 @@
      "summary": "The United States has shown greater support for virtual power plants (VPPs) in recent years, as these systems are expanding across various states. A VPP is a collection of small-scale electricity generation resources that, together, can deliver electricity to the grid. When coordinated, a group of h",
      "source": "OilPrice",
      "zh": "States Bet on Virtual Power Plants to Cut Grid Costs"
-    },
-    {
-     "title": "Poly pricing and potential expansion",
-     "link": "https://www.pv-magazine.com/2026/10/09/poly-pricing-and-potential-expansion/",
-     "pubDate": "Fri, 09 Oct 2026 16:00:00 +0000",
-     "summary": "The United States has made significant changes to trade and energy policy in 2026. The enforcement of these policies and potential further changes on the horizon could reshape the solar market yet again. Jesse Pichel and Lev Seleznov of Roth Capital examine the potential impacts. The post Poly prici",
-     "source": "pv magazine",
-     "zh": "Poly pricing and potential expansion"
     },
     {
      "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
@@ -1729,12 +1729,60 @@
    "total": 18,
    "items": [
     {
-     "title": "教育部：教师 AI 素养全覆盖培训启动",
-     "link": "https://www.ithome.com/1/011/400.htm",
-     "pubDate": "Sat, 10 Oct 2026 07:49:25 GMT",
-     "summary": "IT之家 10 月 10 日消息，据央视新闻报道，教育部今天（10 日）在京召开人工智能赋能教师发展现场会。国家智慧教育平台教师发展中心全新升级上线，同时，教师人工智能素养全覆盖培训启动。新上线的教师发展中心开设 AI 素养专区，集成 人工智能学习资源、智能工具和研修社群 ，为教师自主学习和全覆盖培训提供支撑。 作为全覆盖培训第一课，教育部邀请一线教师、校长和教育局长开展现场沉浸式、场景式示范培训，展示在课前、课中、课后等全链条中， 如何用 AI 赋能高效备课、课堂教学、学业评价、教研反思和学校治理 ，帮助教师掌握从“学 AI”到“用 AI”再到“创 AI”的方法路径，以人工智能赋能教育教学和",
+     "title": "华为 Pura X View 手机鸿蒙 7.0.0.109 SP10 隐藏特性曝光，实装 Mate 90 同款游戏弹幕通知功能",
+     "link": "https://www.ithome.com/1/011/410.htm",
+     "pubDate": "Sat, 10 Oct 2026 08:09:01 GMT",
+     "summary": "IT之家 10 月 10 日消息，华为今日面向 Pura X View 手机率先推送了鸿蒙 HarmonyOS 7.0.0.109 SP10 版本升级，包体大小约 4.83GB。新版本带来了多人互助通信共享、熄屏循迹导航等功能。 IT之家实测发现，在官方更新日志外， 该机还上线实装了 Mate 90 同款游戏弹幕通知功能 。 玩家在游戏助手中可对字幕的速度、大小等进行自定义设置，同时还可以管理通知应用（ 目前已支持 QQ、微信、信息、畅连 App、钉钉 ）等。 华为官网显示，应用助手（游戏助手）是华为设备内置的辅助工具，玩家在游戏中可通过应用助手快速开启高性能模式、免打扰、屏蔽指关节、截屏、录",
      "source": "IT之家",
-     "zh": "教育部：教师 AI 素养全覆盖培训启动"
+     "zh": "华为 Pura X View 手机鸿蒙 7.0.0.109 SP10 隐藏特性曝光，实装 Mate 90 同款游戏弹幕通知功能"
+    },
+    {
+     "title": "先马推出先锋 M-ATX 机箱：提供单 120mm 风扇位，149 元",
+     "link": "https://www.ithome.com/1/011/409.htm",
+     "pubDate": "Sat, 10 Oct 2026 08:05:05 GMT",
+     "summary": "IT之家 10 月 10 日消息，先马现已在京东上架先锋 M-ATX 电脑机箱， 定价为 149 元 。 京东 先马先锋 M-ATX 机箱 149 元 直达链接 该机箱整体采用黑化涂装，造型方正，整体尺寸为 296 x &nbsp;188 x &nbsp;358mm，前面板应用一体式钢板冲孔设计，兼顾结构刚性与视觉整洁程度，机箱正面提供一个 USB-A 3.0 和一个 USB-A 2.0 接口。 该机箱支持 M-ATX 与 ITX 主板。CPU 散热器限高为 160mm、显卡限长 275mm、电源限长 140mm，配备四个 PCI 扩展卡槽，后置 1 个 120mm 风扇位，机箱采用双盘位存储",
+     "source": "IT之家",
+     "zh": "先马推出先锋 M-ATX 机箱：提供单 120mm 风扇位，149 元"
+    },
+    {
+     "title": "烟威 1000 千伏特高压工程竣工投产，核电送往山东全省",
+     "link": "https://www.ithome.com/1/011/408.htm",
+     "pubDate": "Sat, 10 Oct 2026 08:04:55 GMT",
+     "summary": "IT之家 10 月 10 日消息，据央视新闻报道，今天，山东胶东半岛清洁能源送出的关键通道，烟威 1000 千伏特高压工程正式竣工投产，这也是我国“十五五”时期投运的首个特高压交流输变电工程。 IT之家从报道获悉，烟威特高压工程线路全长 1197 公里，途经烟台、青岛、日照、潍坊、临沂 5 市。作为全国首个服务核电送出的特高压工程， 投运后烟台海阳、莱阳等地的核电将通过该通道送往全省 。同时，烟威地区的风电、光伏等新能源也将经由该通道实现全省范围内的优化配置。 国网山东电力建设部特高压管理处处长程剑介绍，随着山东胶东半岛核电、海上风电等清洁能源迅猛发展，胶东半岛正成为电力送出的重要基地。预计到",
+     "source": "IT之家",
+     "zh": "烟威 1000 千伏特高压工程竣工投产，核电送往山东全省"
+    },
+    {
+     "title": "IMF：如应用得当，人工智能可以使全球经济年增速提高 0. 5 个百分点",
+     "link": "https://www.ithome.com/1/011/407.htm",
+     "pubDate": "Sat, 10 Oct 2026 08:03:59 GMT",
+     "summary": "IT之家 10 月 10 日消息，国际货币基金组织 (IMF) 总裁克里斯塔利娜 · 格奥尔基耶娃在本月 7 日的一篇题为《在持续变化世界经济的纵横激流中稳舵前行》的演讲稿强调了人工智能的对全球经济的影响。 格奥尔基耶娃表示，人工智能带来的正向需求冲击正与地缘政治引发的能源供给负面冲击一道拉扯全球经济，而这两股力量的总体影响在全球范围内分布极不均衡。 全球用于人工智能的投资占 GDP 的比重将达到并很可能超过当年建设铁路、电网和通信网络时的投资水平。IMF 预计 人工智能硬件及相关技术产品如今已占到全球货物贸易总额的十分之一以上 ，且这一比重还在持续上升。 IMF 研究表明，如果运用得当，随着",
+     "source": "IT之家",
+     "zh": "IMF：如应用得当，人工智能可以使全球经济年增速提高 0. 5 个百分点"
+    },
+    {
+     "title": "2026 年国庆假期，境外银联持卡人境内消费金额同比增长超 40%",
+     "link": "https://www.ithome.com/1/011/406.htm",
+     "pubDate": "Sat, 10 Oct 2026 08:02:44 GMT",
+     "summary": "IT之家 10 月 10 日消息，据央视新闻从中国银联了解到，2026 年国庆假期，境外银联持卡人境内消费金额同比增长超 40%。 从目的地来看，港澳地区银联持卡人在 浙江、四川、湖南等秋游热门省份 交易增长显著。蒙古持卡人来华消费同比增长 1.4 倍，韩国、东南亚及中亚持卡人来华消费同样增速亮眼。 支付方式上，境外银联持卡人境内使用手机 Pay 支付笔数 同比增长超 1.1 倍 ，外卖、打车、公共交通场景增长领跑。 境内银联持卡人出境消费方面， 澳大利亚、新西兰、土耳其等长线目的地增势向好 （消费金额同比分别增长 31%、 22%、10%）。出境消费持续向体验类项目倾斜，以韩国为例， 餐饮、",
+     "source": "IT之家",
+     "zh": "2026 年国庆假期，境外银联持卡人境内消费金额同比增长超 40%"
+    },
+    {
+     "title": "限时权益价 14.99 万元起，别克全新君越车型上市",
+     "link": "https://www.ithome.com/1/011/404.htm",
+     "pubDate": "Sat, 10 Oct 2026 07:56:01 GMT",
+     "summary": "IT之家 10 月 10 日消息，别克旗下全新君越车型于今天正式上市，智享版限时权益价 14.99 万元，智尊版限时权益价 16.99 万元。 该车新增墨竹青专属涂装外观，层面延续 PURE Design 纯粹设计理念，前脸采用凌空展翼造型，光羽律动格栅具备动态视觉效果，羽翼循光 LED 大灯组内嵌电镀饰条，配合最新三色盾品牌标识，夜间点亮后辨识度相当突出。 该车车身侧面轮廓修长流畅，匹配传统造型门把手和 19 英寸轮毂，车顶线条带有轻微溜背倾向，整体姿态舒展，车辆后备箱标准容积为 506L，后排座椅放倒后还可进一步扩展储物能力。 该车全系标配 30 英寸一体式 6K 弧面屏，搭载高通 815",
+     "source": "IT之家",
+     "zh": "限时权益价 14.99 万元起，别克全新君越车型上市"
+    },
+    {
+     "title": "VC困在港股里",
+     "link": "https://www.huxiu.com/article/4896437.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 15:50:51 +0800",
+     "summary": "本文来自微信公众号： 投中网 ，作者：陶辉东，编辑：王庆武 无人接盘。 本文字数2689 手搓量丨90%AI含量丨10% 9月28日，港股上市的协作机器人公司华沿机器人股价突然暴跌13.4%。收盘时的股价是7.95港元，较17港元的发行价已跌去一半还多。 半年前华沿机器人登陆港股时，头顶着“中国第二大、全球前五大协作机器人公司”的名号，公开发售获5059倍认购。其中，高瓴、摩根士丹利和广发基金等9名基石投资者合计认购了7.70亿港元。而就在9月29日，这些股票结束了它们的锁定期。同一天，它上市前投资者的持股也在正式解禁， 显然，在解禁日还有一天就来的时候，二级投资者选择了先一步跑路。他们的恐惧",
+     "source": "虎嗅",
+     "zh": "VC困在港股里"
     },
     {
      "title": "这届AI PC，太烧心了",
@@ -1745,30 +1793,6 @@
      "zh": "这届AI PC，太烧心了"
     },
     {
-     "title": "联想随身 Wi-Fi 6+ 上架：赠 1500G 流量、3000mAh 电芯，59 元",
-     "link": "https://www.ithome.com/1/011/399.htm",
-     "pubDate": "Sat, 10 Oct 2026 07:43:21 GMT",
-     "summary": "IT之家 10 月 10 日消息，联想现已在京东上架“联想随身 Wi-Fi 6+”，该产品号称赠送 1500G 体验流量，定价为 59 元（注：不支持云南 / 新疆 / 西藏 / 港澳台 / 海外使用）。 京东 联想随身 Wi-Fi 6+ 59 元 直达链接 该产品尺寸为 105.1 x 70.1 x 14.1mm，重量为 90g。机身设计有便携挂孔，方便用户将其挂在背包或手腕上随行携带，机身侧面配备 USB-C 接口，支持边充边用。 该机支持 Wi-Fi 6，技术理论速率为 287Mbps，最多支持 10 台设备同时连接上网，内置 3000mAh 电芯，待机时间可达 12 小时。 IT之家附",
-     "source": "IT之家",
-     "zh": "联想随身 Wi-Fi 6+ 上架：赠 1500G 流量、3000mAh 电芯，59 元"
-    },
-    {
-     "title": "深蓝邓承浩回应“300 万同款”悬架质疑：欢迎所有人实测对比",
-     "link": "https://www.ithome.com/1/011/398.htm",
-     "pubDate": "Sat, 10 Oct 2026 07:43:14 GMT",
-     "summary": "10 月 9 日，2027 款深蓝 L06 及深蓝 L06 追风版正式上市，其搭载的磁流变悬架（MRC）技术引发了部分网友与车主的讨论。 针对外界对于“15 万级车型搭载百万级豪车悬架技术”的质疑，深蓝汽车董事长邓承浩今天下午通过微博作出了正面回应。 邓承浩在微博中坦言，这两天有不少法拉利车主和网友在质疑：“300 万的技术，怎么可能下放到 15 万的车里？是不是又在碰瓷、玩文字游戏、夸大宣传？”他表示，这种质疑从 L06 预售到上市一直都有，“300 万的悬架卖 15 万”，换谁来看都不可能。但他强调，事实经得起查。 对于深蓝 L06 搭载的磁流变悬架，邓承浩形容其为“4 年磨一架，出鞘必锋",
-     "source": "IT之家",
-     "zh": "深蓝邓承浩回应“300 万同款”悬架质疑：欢迎所有人实测对比"
-    },
-    {
-     "title": "传英伟达将不再向 GeForce 游戏显卡分配 GB202 GPU",
-     "link": "https://www.ithome.com/1/011/397.htm",
-     "pubDate": "Sat, 10 Oct 2026 07:43:02 GMT",
-     "summary": "IT之家 10 月 10 日消息，消息人士 MEGAsizeGPU (@Zed__Wang) 今日爆料称，NVIDIA（英伟达）将不再向 GeForce RTX 50 系列游戏显卡分配 GB202， 该 GPU 的供应将由 RTX PRO Blackwell 专业显卡独占 。 这意味着 GeForce RTX 5090 / 5090 D v2 两款旗舰产品都将停产 ，玩家可入手的最高性能游戏显卡将降级至 GeForce RTX 5080。 IT之家注意到，NVIDIA 现有 3 档基于 GB202 的 RTX PRO 产品，分别为 6000 / 5500 / 5000 Blackwell，其中",
-     "source": "IT之家",
-     "zh": "传英伟达将不再向 GeForce 游戏显卡分配 GB202 GPU"
-    },
-    {
      "title": "乐刻的全球第四，和中国健身房的“大国悖论”",
      "link": "https://www.huxiu.com/article/4896432.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 15:41:49 +0800",
@@ -1777,28 +1801,12 @@
      "zh": "乐刻的全球第四，和中国健身房的“大国悖论”"
     },
     {
-     "title": "消息称某厂 2nm 阔折叠工程机采用三星屏、哈苏全焦段影像，预计 OPPO 旗下",
-     "link": "https://www.ithome.com/1/011/396.htm",
-     "pubDate": "Sat, 10 Oct 2026 07:40:51 GMT",
-     "summary": "IT之家 10 月 10 日消息，据博主 @数码闲聊站 今日爆料，某厂阔家族将率先推出搭载 2nm 芯片的阔折叠，结合该博主此前的爆料习惯，预计该机为 OPPO 旗下。 据其爆料，该机采用 7.6 英寸无痕铰链方案，工程机是三星屏，搭载 200Mp 大底主摄 +50Mp 超广角 +50Mp 潜望长焦 +3Mp 多光谱镜头，哈苏全焦段影像， 主打轻薄无痕全能 。 IT之家注意到，早在今年 1 月，该博主便爆料某厂的阔折叠新机确定在评估中，大概率是下代。当时，这款新机预计归属 OPPO 品牌。今年 6 月，再次爆料某机测试 2nm 骁龙 8 Elite Gen6 系列，工程机采用 7.6± 英寸主",
-     "source": "IT之家",
-     "zh": "消息称某厂 2nm 阔折叠工程机采用三星屏、哈苏全焦段影像，预计 OPPO 旗下"
-    },
-    {
      "title": "经济越来越好，中国体育却越来越差？为什么连乒乓球、羽毛球都让人不放心了",
      "link": "https://www.huxiu.com/article/4896431.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 15:38:56 +0800",
      "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·大事无小事 中国乒乓球队男队不敌日本队，中国羽毛球队男队也败给了印尼队。在今年的亚运会中，两次决赛都输掉了，于是又出现了熟悉的不安全感：为什么乒乓球和羽毛球都这么不稳固呢？ 以前去看比赛的时候，其他的项目输了还可以靠着传统的几个强项来挽救局面。现在就连这些项目都让人忧心忡忡，人们很容易得出一个结论：中国的体育是不是变差了？ 但是我想问的是另外一件事情。 如果孩子具有运动天赋的话，你会愿意让孩子去从事专业运动员的道路吗？不是周末去报个班那么简单，而要认真的想一想训练、升学、受伤这些问题还有多少年之后的生活怎么过。 这个问题比起比赛的结果来更加重要。",
      "source": "虎嗅",
      "zh": "经济越来越好，中国体育却越来越差？为什么连乒乓球、羽毛球都让人不放心了"
-    },
-    {
-     "title": "给 AI 植入广告涉“虚假宣传”，深圳一家 GEO 服务商被市场监管局处以 5 万元罚款",
-     "link": "https://www.ithome.com/1/011/394.htm",
-     "pubDate": "Sat, 10 Oct 2026 07:35:08 GMT",
-     "summary": "IT之家 10 月 10 日消息，据深圳市市场监管局，近期一家小型服务商因“套取 AI 收录标准、批量编造虚假排名”，被市场监管局处以 5 万元罚款。 GEO（AI 模型输出结果优化）自 DeepSeek 爆红后兴起，与传统 SEO（搜索引擎优化）争夺网页排名不同，GEO 瞄准的是大模型的回复内容。服务商通过研究 AI 的回答偏好，生产、投放更容易被 AI 引用的内容，帮助商家在 AI 问答中获得曝光， 也就是“AI 广告” 。 本次深圳市市场监管局发现，该公司会通过一套“GEO 分析系统”主动探测大模型回复偏好，向 AI 平台套取收录标准。为了提高广告内容被 AI 引用的概率， 该公司还编造",
-     "source": "IT之家",
-     "zh": "给 AI 植入广告涉“虚假宣传”，深圳一家 GEO 服务商被市场监管局处以 5 万元罚款"
     },
     {
      "title": "靠风口起家的AI硬件公司，如何活下去？｜AI 100闭门会",
@@ -1815,14 +1823,6 @@
      "summary": "本文来自微信公众号： 智讯智库 ，作者：施展 个人AI助理正把生活需求变成跨平台交易。Instinct的机会在于承接用户委托，长期竞争则取决于用户信任、服务整合与平台接入。 Instinct是什么？Instinct估值升至100亿美元，融资与用户热度推高赛道预期。短信、邮件和助理间协作，Instinct把生活代办接入已有沟通习惯。 赛道为什么这么火？代办串联消费服务，使佣金和广告预算成为新的商业机会。记忆、云电脑与任务调度推动落地，安全和平台许可仍制约执行。 个人AI助理的未来？用户关系与商家网络共同构成壁垒，创业公司面临建立两端优势的时间窗口；但模型公司与互联网巨头从不同入口加入竞争。 新贵",
      "source": "虎嗅",
      "zh": "Instinct横空出世，AI个人助理将颠覆整个互联网？"
-    },
-    {
-     "title": "华为AI芯片，不够卖了",
-     "link": "https://www.huxiu.com/article/4896424.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 15:17:57 +0800",
-     "summary": "本文来自微信公众号： 金角财经 ，作者：罗夏 被美国限制了这么多年，华为的AI芯片，还是卖到了供不应求。 据界面新闻刊发的一份媒体交流纪要，华为轮值董事长徐直军表示，昇腾目前还远远不能满足国内需求，暂时没有全面拓展海外市场的计划。说到接下来的供货，他直接催起了产业链：“快一点、多产一点。” 谈到与英伟达的竞争，徐直军又给出了一个颇有分量的判断：虽然英伟达在中国的市场份额很难统计，但按照华为能够统计到的数据，昇腾应该已经超过了英伟达。这仍是华为基于自身数据作出的判断，纪要没有披露具体份额和统计口径。 英伟达自己也在担心。它在今年8月公布的季度报告中提醒投资者，公司难以参与中国数据中心计算市场，正",
-     "source": "虎嗅",
-     "zh": "华为AI芯片，不够卖了"
     },
     {
      "title": "A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share (Bloomberg)",
@@ -1852,7 +1852,7 @@
      "title": "Sources detail how Firmus&apos; IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue (Bloomberg)",
      "link": "https://www.techmeme.com/261010/p5#a261010p5",
      "pubDate": "Sat, 10 Oct 2026 02:05:01 -0400",
-     "summary": "Bloomberg : Sources detail how Firmus' IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue &nbsp; &mdash;&nbsp; Nvidia-Backed Firmus IPO Collapses Video Player is loading.&nbsp; &mdash;&nbsp; Current Time 0:00 Loaded: 17",
+     "summary": "Bloomberg : Sources detail how Firmus' IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue &nbsp; &mdash;&nbsp; Current Time 0:00 Loaded: 17.94% Playback Rate&nbsp; &mdash;&nbsp; This is a modal window.&nbsp; &mdash;&nbs",
      "source": "Techmeme",
      "zh": "Sources detail how Firmus&apos; IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue (Bloomberg)"
     },
@@ -1876,7 +1876,7 @@
      "title": "Computers Cannot Make Decisions",
      "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
      "pubDate": "Sat, 10 Oct 2026 05:47:46 +0000",
-     "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 12 # Comments: 5",
+     "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 22 # Comments: 12",
      "source": "Hacker News",
      "zh": "Computers Cannot Make Decisions"
     },
@@ -1884,7 +1884,7 @@
      "title": "Food processing influences metabolism and brain activity",
      "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
      "pubDate": "Sat, 10 Oct 2026 05:22:30 +0000",
-     "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Points: 8 # Comments: 5",
      "source": "Hacker News",
      "zh": "Food processing influences metabolism and brain activity"
     },
@@ -1945,14 +1945,6 @@
      "zh": "eBay Coupons: 20% Off in October 2026"
     },
     {
-     "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
-     "link": "https://ilia.page/writing/introducing-nagare",
-     "pubDate": "Sat, 10 Oct 2026 04:37:13 +0000",
-     "summary": "Article URL: https://ilia.page/writing/introducing-nagare Comments URL: https://news.ycombinator.com/item?id=50029607 Points: 11 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "Show HN: A simple to-do app for iPhone, Mac, and your agent"
-    },
-    {
      "title": "天津，一座被低估的AI基建重镇",
      "link": "https://www.tmtpost.com/8163595.html",
      "pubDate": "Sat, 10 Oct 2026 12:06:59 +0800",
@@ -1967,6 +1959,14 @@
      "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
      "source": "TechCrunch",
      "zh": "Elon Musk intensifies attack on Ambani over Starlink India launch delay"
+    },
+    {
+     "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+     "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+     "pubDate": "Sat, 10 Oct 2026 03:02:47 +0000",
+     "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 110 # Comments: 46",
+     "source": "Hacker News",
+     "zh": "Telegram Desktop vulnerability allowed any user's file to be stolen"
     }
    ]
   },
@@ -1976,6 +1976,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Deals: vivo X Fold6 arrives, Galaxy S26 Ultra price remains low, iPhone 17 series on sale",
+     "link": "https://www.gsmarena.com/deals_vivo_x_fold6_arrives_galaxy_s26_ultra_price_remains_low_iphone_17_series_on_sale-news-74980.php",
+     "pubDate": "Sat, 10 Oct 2026 09:49:02 +0200",
+     "summary": "The Prime Big Deal Days sale must have gone well as a lot of smartphones are showing as “out of stock” on Amazon – and for those that are still available, supplies are limited, so their prices went back up. We still managed to find a few good offers, but we’ll kick things off with a new release. The",
+     "source": "GSMArena",
+     "zh": "Deals: vivo X Fold6 arrives, Galaxy S26 Ultra price remains low, iPhone 17 series on sale"
+    },
     {
      "title": "Oppo Find X10 Pro Max Hasselblad teleconverter kit unboxing and hands-on",
      "link": "https://www.gsmarena.com/oppo_find_x10_pro_max_hasselblad_teleconverter_kit_unboxing_and_handson-news-74979.php",
@@ -2207,14 +2215,6 @@
      "summary": "The flagship ANBERNIC RG DDS looks like a dream for nostalgic dual-screen handheld fans, but we're missing two key details.",
      "source": "Android Authority",
      "zh": "ANBERNIC’s new Nintendo 3DS lookalike brings modern flourishes to a classic form factor"
-    },
-    {
-     "title": "SpaceX buys spectrum for Starlink to become a full-fledged US mobile carrier",
-     "link": "https://www.gsmarena.com/spacex_buys_spectrum_for_starlink_to_become_a_fullfledged_us_mobile_carrier-news-74982.php",
-     "pubDate": "Fri, 09 Oct 2026 20:01:02 +0200",
-     "summary": "Elon Musk’s SpaceX has just acquired up to 14MHz of paired spectrum in the 800MHz band nationwide in the US, from Grain Management. Musk says this is \"the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America\". So the aim here is clear. Use Starli",
-     "source": "GSMArena",
-     "zh": "SpaceX buys spectrum for Starlink to become a full-fledged US mobile carrier"
     }
    ]
   },
@@ -2225,6 +2225,62 @@
    "total": 13,
    "items": [
     {
+     "title": "国庆假期境外银联持卡人境内消费金额同比增长超40%",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891917463.html",
+     "pubDate": "Sat, 10 Oct 2026 15:57:28 +0800",
+     "summary": "记者今天（10日）从中国银联了解到， 2026年国庆假期，境外银联持卡人境内消费金额同比增长超40%。 从目的地来看，港澳地区银联持卡人在 浙江、四川、湖南 等秋游热门省份交易增长显著。蒙古持卡人来华消费同比增长1.4倍，韩国、东南亚及中亚持卡人来华消费同样增速亮眼（韩国增长41%、东南亚及中亚增长75%）。 支付方式上，境外银联持卡人境内使用手机Pay支付笔数同比增长超1.1倍，外卖、打车、公共交通场景增长领跑。 境内银联持卡人出境消费方面，澳大利亚、新西兰、土耳其等长线目的地增势向好（消费金额同比分别增长31%、 22%、10%）。出境消费持续向体验类项目倾斜，以韩国为例， 餐饮 、住宿、",
+     "source": "东方财富股票",
+     "zh": "国庆假期境外银联持卡人境内消费金额同比增长超40%"
+    },
+    {
+     "title": "美英等多国发布旅行警告 利雅得接连遭袭冲击沙特经济与外交雄心",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891916023.html",
+     "pubDate": "Sat, 10 Oct 2026 15:53:31 +0800",
+     "summary": "在胡塞武装连续数日袭击沙特 机场 后，美、英等多国更新了对沙特的旅行建议，呼吁本国公民非必要不前往沙特，尤其是和也门接壤的边境地区。 自10月以来，在沙特支持下，也门政府军对胡塞武装展开大规模反攻，胡塞武装也相应扩大了对沙特的袭击。本周早些时候，沙特多地 机场 遭袭，导致航班中断、人员伤亡。 据新华社报道，沙特阿拉伯民航总局9日发表声明说，位于首都利雅得的哈立德国王国际 机场 8日遭到两次袭击，造成三名沙特公民死亡、多人受伤。 胡塞武装军事发言人叶海亚·萨雷亚向国际航空公司发出“最后警告”，要求停止使用沙特领空，称“沙特领空已成为胡塞武装的军事行动区域”，但警告适用范围“不包括麦加和麦地那空域",
+     "source": "东方财富股票",
+     "zh": "美英等多国发布旅行警告 利雅得接连遭袭冲击沙特经济与外交雄心"
+    },
+    {
+     "title": "教育部：教师发展中心全新上线 教师AI素养全覆盖培训启动",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891915536.html",
+     "pubDate": "Sat, 10 Oct 2026 15:52:27 +0800",
+     "summary": "今天， 教育 部在京召开 人工智能 赋能教师发展现场会。国家智慧 教育 平台教师发展中心全新升级上线，同时，教师 人工智能 素养全覆盖培训启动。新上线的教师发展中心，开设AI素养专区，集成 人工智能 学习资源、智能工具和研修社群，为教师自主学习和全覆盖培训提供支撑。 作为全覆盖培训第一课， 教育 部邀请一线教师、校 长和 教育局长开展现场沉浸式、场景式示范培训，展示在课前、课中、课后等全链条中，如何用AI赋能高效备课、课堂教学、学业评价、教研反思和学校治理，帮助教师掌握从“学AI”到“用AI”再到“创AI”的方法路径，以人工智能赋能教育教学和教师发展，更好助力因材施教。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "教育部：教师发展中心全新上线 教师AI素养全覆盖培训启动"
+    },
+    {
+     "title": "梅赛德斯-奔驰美国公司召回30,064辆汽车",
+     "link": "http://finance.eastmoney.com/news/1358,202610103891916495.html",
+     "pubDate": "Sat, 10 Oct 2026 15:52:23 +0800",
+     "summary": "梅赛德斯-奔驰美国公司（MBUSA）正在召回30,064辆 汽车 ，涉及2022至2025款S级及迈巴赫多款车型。根据美国国家公路交通安全管理局（NHTSA）的召回通知，问题出在前制动软管——软管可能破裂并泄漏制动液，导致制动距离延长，增加碰撞风险。经销商将为车主免费更换前制动软管。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "梅赛德斯-奔驰美国公司召回30,064辆汽车"
+    },
+    {
+     "title": "阶跃最新基座模型登上OpenRouter全球第一 10月15日开源",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891916554.html",
+     "pubDate": "Sat, 10 Oct 2026 15:49:55 +0800",
+     "summary": "阶跃星辰最新旗舰基座模型Step 5 Preview刚刚登顶OpenRouter Trending 榜，并位列日榜全球第二，成为近期全球开发者社区最受关注的旗舰模型之一。据官方消息，这款模型即将于10月15日正式开源。 OpenRouter LLM排行榜 Trending榜单最新结果 OpenRouter LLM排行榜日榜最新结果 作为面向全球开发者的大模型聚合平台，OpenRouter的榜单反映了不同模型的真实使用情况。其中，Trending榜主要反映近期用量增长，日榜则按每日模型处理的Token总量排名。Step 5 Preview在双榜位列全球前沿，展现出其在开发者群体中的强劲增长势头与",
+     "source": "东方财富股票",
+     "zh": "阶跃最新基座模型登上OpenRouter全球第一 10月15日开源"
+    },
+    {
+     "title": "星港大模型｜山东人工智能垂域大模型之星罗棋布",
+     "link": "http://www.eeo.com.cn/2026/1010/1059903.shtml",
+     "pubDate": "Sat, 10 Oct 2026 15:49:33 +0800",
+     "summary": "星港大模型构建码头生产、港航协同、全域安全、具身智能、经营管控五大垂域能力体系，已落地19个业务智能体，覆盖80余个主流业务场景。",
+     "source": "经济观察网",
+     "zh": "星港大模型｜山东人工智能垂域大模型之星罗棋布"
+    },
+    {
+     "title": "韩忠益：AI故事到了验证时刻",
+     "link": "http://finance.eastmoney.com/news/1349,202610103891915753.html",
+     "pubDate": "Sat, 10 Oct 2026 15:48:21 +0800",
+     "summary": "国庆长假期间，由于9月份就业报告表现意外疲软，美联储在10月份加息的可能性被削弱，美国国债收益率大幅下跌。这给中国的金融管理者带来更多腾挪的空间。我们看到，央行已经提前披露，10月8日开展1.2万亿元买断式逆回购操作，期限为3个月。由于1万亿元到期，本次央行投放2000亿元，继续为市场注入流动性，这就是早就定好的调子：央行会在适当时候加大逆周期调节力度，现在A股较为低迷，加大逆周期调节力度当然会摆到台上。 除了加大逆周期调节力度，笔者发现，国庆长假前，六大国有 银行 集体发声：积极响应房贷贴息新政，有多家 银行 对房贷贴息新政予以响应。国庆长假前最后一个交易日，地产板块开盘后盘中大幅拉升， 万",
+     "source": "东方财富股票",
+     "zh": "韩忠益：AI故事到了验证时刻"
+    },
+    {
      "title": "花旗：法国财政风险或令欧央行12月后暂停加息，欧元料跌破1.10",
      "link": "https://wallstreetcn.com/articles/3783323",
      "pubDate": "Sat, 10 Oct 2026 15:39:15 +0800",
@@ -2233,60 +2289,12 @@
      "zh": "花旗：法国财政风险或令欧央行12月后暂停加息，欧元料跌破1.10"
     },
     {
-     "title": "美国国家飓风中心：“伊萨亚斯”在佛罗里达登陆后减弱为后热带气旋",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891913713.html",
-     "pubDate": "Sat, 10 Oct 2026 15:26:40 +0800",
-     "summary": "美国国家飓风中心：“伊萨亚斯”在佛罗里达登陆后减弱为后热带气旋。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国国家飓风中心：“伊萨亚斯”在佛罗里达登陆后减弱为后热带气旋"
-    },
-    {
      "title": "广东AI赋能千行百业 1000个案例火热征集中！",
      "link": "http://www.eeo.com.cn/2026/1010/1059866.shtml",
      "pubDate": "Sat, 10 Oct 2026 15:26:08 +0800",
      "summary": "南方财经见习记者苏磊 当前，人工智能技术迭代持续提速，全面渗透实体经济、民生服务、社会治理等各个领域。 广东作为国内人工智能创新应用的前沿阵地，依托完整的产业底盘、雄厚的制造业基础与活跃的科创生态，不断涌现出一大批各具特色的“AI+”创新应用。 在广东全域推进AI的浪潮中，哪些“AI+”创新应用精准破解了产业痛点、行业难题？哪些落地实践模式成熟，具备可复制、可推广的标杆价值？ ...",
      "source": "经济观察网",
      "zh": "广东AI赋能千行百业 1000个案例火热征集中！"
-    },
-    {
-     "title": "养老金最新持仓动向浮现",
-     "link": "http://finance.eastmoney.com/news/11158,202610103891913924.html",
-     "pubDate": "Sat, 10 Oct 2026 15:24:45 +0800",
-     "summary": "人力资源社会保障部新闻发言人、副部长李忠10日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上表示，近年来，人力资源社会保障部先后实施了养老保险全国统筹、延迟法定退休年龄、建立个人 养老金 制度等重大改革，进一步完善了多层次、多支柱养老保险体系。下一步，将根据经济社会发展新形势，按照系统集成、协同高效的要求，不断完善政策措施，持续优化运行机制，推动社会保障事业高质量可持续发展。 此外，9月以来，A股上市公司密集披露股份回购方案。根据相关规定，回购事项需同步披露前十大股东及前十大流通股东情况，部分机构三季度持仓变化随之浮出水面。数据显示，社保基金三季度增持了 德业股份 、 运机集团 。 ",
-     "source": "东方财富股票",
-     "zh": "养老金最新持仓动向浮现"
-    },
-    {
-     "title": "规范竞争与产业升级并举：分众新潮整合释放梯媒行业发展新信号",
-     "link": "http://stock.eastmoney.com/news/11219,202610103891913350.html",
-     "pubDate": "Sat, 10 Oct 2026 15:23:29 +0800",
-     "summary": "10月10日，市场监管总局发布公告，经依法审查，附加限制性条件批准 分众传媒 收购新潮 传媒 股权案。此次获批，标志着备受市场关注的梯媒行业整合取得重要进展。 今年市场监管总局等六部门发布的《关于大力促进新时代广告产业高质量发展的意见》，明确提出支持户外广告数字化、智能化、场景化发展，鼓励有条件的广告企业整合全产业链资源、培育具有国际竞争力的领军企业。这为本次交易的监管方向提供了清晰的产业政策背景。 审查决定在支持交易推进落地的同时，释放出产业升级方向的清晰信号。 分众传媒 表示，公司将依法合规推进本次交易，重点围绕价格稳定、公平服务等方面展开，在释放行业整合效率的同时，持续保障广告主、点位资",
-     "source": "东方财富股票",
-     "zh": "规范竞争与产业升级并举：分众新潮整合释放梯媒行业发展新信号"
-    },
-    {
-     "title": "德国央行官员：欧洲债务危机风险急剧上升",
-     "link": "http://hk.eastmoney.com/news/1533,202610103891913664.html",
-     "pubDate": "Sat, 10 Oct 2026 15:22:23 +0800",
-     "summary": "德国央行执行委员会成员Michael Theurer表示，欧洲近期债券抛售是投资者对各国政府控制债务的努力感到紧张的“明确警告信号”。“当前的事态发展表明财政和政治不确定性会影响政府债券市场。目前不存在系统性主权债务危机，但风险已显著上升。”由于对法国政治和经济挑战的担忧加剧，法国债券市场遭遇暴跌。这场动荡已蔓延至其他负债沉重的欧元区国家，加剧了有关欧洲央行最终可能不得不干预以遏制冲击的猜测。Theurer认为，法国及整个欧元区的决策者似乎“很清楚利害攸关的问题”。与国际货币基金组织一样，德国央行也呼吁制定一项中期战略，审查支出并将支出重点放在促进增长的投资上。德国的财政状况比欧洲和世界其他国",
-     "source": "东方财富股票",
-     "zh": "德国央行官员：欧洲债务危机风险急剧上升"
-    },
-    {
-     "title": "厄尔尼诺现象致雨季提前 坦桑尼亚水稻收割受影响",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891912270.html",
-     "pubDate": "Sat, 10 Oct 2026 15:22:15 +0800",
-     "summary": "在非洲国家坦桑尼亚，该国气象局表示，受厄尔尼诺现象影响，往年通常在11月才正式开始的雨季，今年在9月底至10月初就已经在坦桑尼亚部分地区提前出现，这给当地的水稻收割造成了严重影响。 现在正是坦桑尼亚水稻收割的季节。水稻成熟后需要尽快收割，并进行晾晒。然而在今年，一些地区在水稻尚未完成收割和晾晒时就迎来降雨。在巴加莫约地区，降雨压缩了农民收割水稻的时间窗口。 当地农民马内诺·沙班： 我在这里有一英亩地，政府告诉我们大雨要来，这是因为厄尔尼诺的影响，我们非常担心。 巴加莫约地区通常每年可种植两季水稻。但是厄尔尼诺现象带来的高温和降雨会促使水稻病虫害频发，影响生长，因此当地一些农民今年决定放弃第二季",
-     "source": "东方财富股票",
-     "zh": "厄尔尼诺现象致雨季提前 坦桑尼亚水稻收割受影响"
-    },
-    {
-     "title": "印度对涉华氰化钠启动反倾销期中复审调查",
-     "link": "http://finance.eastmoney.com/news/1350,202610103891912690.html",
-     "pubDate": "Sat, 10 Oct 2026 15:21:08 +0800",
-     "summary": "据中国贸易救济信息网，9月30日，印度商工部发布公告称，应印度国内企业Superform Chemistries Limited提交的申请，对原产于或进口自中国和欧盟的氰化钠启动反倾销期中复审调查，审查是否调整现行反倾销税。本案主要涉及印度海关编码28371100项下的产品以及2837项下的部分产品。本案倾销调查期为2025年4月1日至2026年3月31日，损害调查期为2022年4月至2023年3月、2023年4月至2024年3月、2024年4月至2025年3月以及2025年4月1日至2026年3月31日。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "印度对涉华氰化钠启动反倾销期中复审调查"
     },
     {
      "title": "一体推动川渝地区美丽中国先行区建设 重庆明确这些重点任务",
@@ -2327,14 +2335,6 @@
      "summary": "大腕出手，志在必得。 10月8日晚，新材料龙头中材科技发布定增公告：以51.40元/股向15名对象定向增发8718.19万股，合计募资44.81亿元。 消息一出，最引人注目的名字，不是易方达，不是国寿养老，而是 ——葛卫东。 这位私募大佬 ， 以全场最高报价强势入局，最终获配 1361.87万股，斥资约7亿元，一举跻身公司第五大股东。 他曾在沐熙股份、兆易创新等科技股上分别斩获上百亿元浮盈，但最终却把最新的 “重拳出击”放在了一个材料股上。 这着实出人意料。 报价最高，志在必得 中材科技这次定增，来 “抢”的机构和投资者着实不少。 9月下旬申购报价阶段，共有25名投资者提交有效报价，覆盖头部公",
      "source": "华尔街见闻",
      "zh": "靠定增赚了数百亿的人，又把钱拍在了桌面上"
-    },
-    {
-     "title": "六件红色档案“走进”西政课堂 馆校协同打造行走的“大思政课”",
-     "link": "http://www.eeo.com.cn/2026/1010/1059813.shtml",
-     "pubDate": "Sat, 10 Oct 2026 14:52:12 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 秦思思）一本泛黄的日记、两封褶皱的书信、一纸尘封的喜报……10月9日，红岩思政·渝档育人——“档案文化进校园”思政教育活动在西南政法大学举行，随着六件珍贵档案走进课堂，一堂有深度、有温度、有力量的“青春大思政课”就此展开。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/AF6D7F5120424EA4ACCF0AA298FD538C.jpg\" alt=\"活动现场。受访单位供图\" data-tit...",
-     "source": "经济观察网",
-     "zh": "六件红色档案“走进”西政课堂 馆校协同打造行走的“大思政课”"
     },
     {
      "title": "The world of one trade — AI",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 13:32:04",
+ "generated_at": "2026/10/10 13:52:13",
  "recent_days": 7,
  "industries": [
   {
@@ -9,14 +9,6 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
-     "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
-     "pubDate": "Sat, 10 Oct 2026 04:51:34 +0000",
-     "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkT",
-     "source": "MarkTechPost",
-     "zh": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text"
-    },
     {
      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
      "source": "量子位",
      "zh": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」"
+    },
+    {
+     "title": "给具身智能换个「因果」内核，Aether AI的愿景终于走进物理世界",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061909&idx=1&sn=0d5705aa4454485a08091266765fc426",
+     "pubDate": "Fri, 09 Oct 2026 12:01:00 +0800",
+     "summary": "机器人，只是起点",
+     "source": "机器之心",
+     "zh": "给具身智能换个「因果」内核，Aether AI的愿景终于走进物理世界"
     }
    ]
   },
@@ -938,12 +938,12 @@ window.INDUSTRY_DATA = {
      "zh": "Poly pricing and potential expansion"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -957,7 +957,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1730,6 +1730,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "星巴克CEO，可能想买下老东家",
+     "link": "https://www.huxiu.com/article/4896388.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 13:40:55 +0800",
+     "summary": "本文来自微信公众号： 涌流商业 ，作者：李伟 2024年8月，倪睿安（Brian Niccol）宣布离开Chipotle，转投星巴克。两年后，星巴克被曝出在研究收购他的老东家。 10月8日，《金融时报》报道称，星巴克近几个月曾与顾问探讨收购Chipotle的方案。按照后者约410亿美元的市值计算，加上一定收购溢价，潜在交易规模可能达到500亿美元。 消息出来后，Chipotle股价当天上涨，星巴克小幅下跌。 倪睿安正努力带领星巴克走出低谷；Chipotle在他离开后，增长明显放缓，股价较两年前下跌约40%。 星巴克刚通过出售部分中国业务权益，偿还了部分债务，现在可能要花数百亿美元，买下4000",
+     "source": "虎嗅",
+     "zh": "星巴克CEO，可能想买下老东家"
+    },
+    {
+     "title": "曾改变人类历史的咖啡馆，仍在集体营业中",
+     "link": "https://www.huxiu.com/article/4896387.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 13:39:57 +0800",
+     "summary": "本文来自微信公众号： 欧洲价值 ，作者：叶克飞，编辑：郑大钱 有学者曾写道：“每当咖啡引进，就会助长革命。咖啡是人间最极端的饮料，咖啡因会刺激思考，老百姓一旦深思就想造反，危及暴君地位。” 早在16世纪，咖啡就在阿拉伯世界里被称为“麻烦制造者”。麦加总督贝格发觉讽刺他的诗文从咖啡馆流出，决定查禁咖啡。1511年，麦加所有咖啡馆被迫关门，阿拉伯世界的其他统治者也相继宣布咖啡为非法饮品，擅自喝咖啡的人甚至会被处死。但人们热爱咖啡，最终法不责众，不了了之。 后来，咖啡传入欧洲，迅速赢得欧洲人的青睐。咖啡馆更成为一种象征，是知识分子聚会并批评时局的基地。17世纪末，英国人约翰·雷顿曾说：“咖啡馆不但不",
+     "source": "虎嗅",
+     "zh": "曾改变人类历史的咖啡馆，仍在集体营业中"
+    },
+    {
+     "title": "达美航空 CEO 巴斯蒂安否认与马斯克交恶：我自己就开特斯拉",
+     "link": "https://www.ithome.com/1/011/330.htm",
+     "pubDate": "Sat, 10 Oct 2026 05:39:00 GMT",
+     "summary": "IT之家 10 月 10 日消息，据《商业内幕》报道，当地时间 9 日，达美航空 CEO 埃德 · 巴斯蒂安接受 CNBC 采访，被问及马斯克近期在 X 上对达美航空的接连抨击时说：“至少在我看来，我们没有互相攻击。我很喜欢星链，也很欣赏埃隆做的事情。我自己就开特斯拉，明白吗？所以没什么矛盾。 说我们有私人恩怨，完全是无稽之谈 。” 从公开情况来看，这场几乎由马斯克单方面发起的争执始于今年 3 月。当时，达美航空选择亚马逊 Leo 作为下一代机载卫星互联网服务商，放弃了 SpaceX 旗下的星链。马斯克随后发帖警告达美航空：“他们根本不知道，这个决定会带来多大的影响”。 过去两周，马斯克对巴斯",
+     "source": "IT之家",
+     "zh": "达美航空 CEO 巴斯蒂安否认与马斯克交恶：我自己就开特斯拉"
+    },
+    {
+     "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
+     "link": "https://www.ithome.com/1/011/329.htm",
+     "pubDate": "Sat, 10 Oct 2026 05:38:05 GMT",
+     "summary": "IT之家 10 月 10 日消息，Anthropic 昨日（10 月 9 日）发布公告， 宣布为 Claude 管理智能体（Claude Managed Agents）引入动态工作流，单次执行最多可并行协调 1,000 个 AI 智能体。 IT之家注：动态工作流是由主智能体规划任务、分派子任务，并在子智能体完成后汇总结果的执行方式。典型场景包括把代码检查等大型任务拆分成多个部分并行处理；在 Claude 管理智能体中，该模式每次执行最多可并行运行 1,000 个智能体。 为了展示动态工作流能力，Anthropic 模拟检测代码漏洞场景，在一个 11.6 万行代码库中隐藏 70 个 Bug，并比",
+     "source": "IT之家",
+     "zh": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents"
+    },
+    {
+     "title": "小米米家空调速冷静 2027 大 1.5 匹预售：APF 5.3、双排蒸发器，1899 元",
+     "link": "https://www.ithome.com/1/011/328.htm",
+     "pubDate": "Sat, 10 Oct 2026 05:37:32 GMT",
+     "summary": "IT之家 10 月 10 日消息，小米米家空调速冷静 2027 大 1.5 匹现已开启预售， 售价 1899 元 ，国补到手价 1614.15 元。 这款空调 APF 5.3，配备双排蒸发器，搭载 108mm 贯流风叶，实现 760m³/h 风量；搭载 9.8cc 排量高效压缩机，最大制冷量 5100W，额定制冷量 3510W，最大制热量 6710W，额定制热量 5010W。 这款空调支持内外机自清洁，运行噪音低至 18dB(A)，可实现 30 秒速冷、 60 秒速热，支持 -35℃ 低温制热和 60℃ 高温制冷；提供整机 10 年免费包修。 这款空调支持小米澎湃智联，可接入米家 App 实现",
+     "source": "IT之家",
+     "zh": "小米米家空调速冷静 2027 大 1.5 匹预售：APF 5.3、双排蒸发器，1899 元"
+    },
+    {
      "title": "首张全天紫外线地图问世：Claude Science AI 协助绘制约 1/3 区域",
      "link": "https://www.ithome.com/1/011/326.htm",
      "pubDate": "Sat, 10 Oct 2026 05:26:26 GMT",
@@ -1834,34 +1874,18 @@ window.INDUSTRY_DATA = {
      "zh": "eBay Coupons: 20% Off in October 2026"
     },
     {
-     "title": "产品搭载与小米“小爱同学”近似的“小爱小爱”语音指令，两公司被判构成不正当竞争",
-     "link": "https://www.ithome.com/1/011/323.htm",
-     "pubDate": "Sat, 10 Oct 2026 04:57:51 GMT",
-     "summary": "IT之家 10 月 10 日消息，据人民法院报，近日，浙江省慈溪市人民法院审结了一起涉及语音唤醒词的不正当竞争纠纷案。被告公司擅自在生产、销售的智能家电上搭载与国内某知名品牌近似的语音唤醒词， 法院认定其行为构成不正当竞争 ，判令被告公司承担相应赔偿责任。 “小爱同学”为小米科技公司旗下的人工智能交互引擎名称、搭载人工智能语音交互引擎的智能音箱名称，也是该交互引擎的语音指令唤醒词，搭载在小米公司众多产品设备中。 2026 年 1 月，该公司向慈溪法院起诉称，某电器公司与某电器科技公司生产、销售的某款智能语音茶吧机载有“小爱小爱”语音模块，该款产品的网店销售页面和使用说明书中也有“小爱小爱”等智",
-     "source": "IT之家",
-     "zh": "产品搭载与小米“小爱同学”近似的“小爱小爱”语音指令，两公司被判构成不正当竞争"
-    },
-    {
-     "title": "华为 Pura X View 阔直板手机获鸿蒙 HarmonyOS 7.0.0.109 SP10 升级，支持多人互助通信共享功能",
-     "link": "https://www.ithome.com/1/011/321.htm",
-     "pubDate": "Sat, 10 Oct 2026 04:53:57 GMT",
-     "summary": "IT之家 10 月 10 日消息，华为今日面向 Pura X View 手机率先推送了鸿蒙 HarmonyOS 7.0.0.109 SP10 版本升级，包体大小约 4.83GB。新版本带来了多人互助通信共享、熄屏循迹导航等功能。 IT之家附华为 Pura X View 阔直板手机此次更新内容如下： 多设备协同 通信共享功能再升级， 手机与搭载 HarmonyOS 7 的手机、平板、鸿蒙电脑之间支持多人互助通信共享 ，通过碰一碰或者登录同一华为账号共享网络建立互助网络，在移动网络信号弱或网络负载大等场景下可获得更快、更稳的网络体验。 桌面和个性化 系统熄屏显示新增熄屏循迹导航功能，开启后，可在熄",
-     "source": "IT之家",
-     "zh": "华为 Pura X View 阔直板手机获鸿蒙 HarmonyOS 7.0.0.109 SP10 升级，支持多人互助通信共享功能"
-    },
-    {
-     "title": "减轻用眼疲劳：曝三星 Galaxy S27 Pro / Ultra 手机支持 DC 调光",
-     "link": "https://www.ithome.com/1/011/320.htm",
-     "pubDate": "Sat, 10 Oct 2026 04:52:33 GMT",
-     "summary": "IT之家 10 月 10 日消息，消息源 @WalleGalaxy 昨日（10 月 9 日）在 X 平台发布推文，爆料称三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款旗舰手机将支持 DC 调光，有助于减少眼睛疲劳。 三星手机此前主要通过脉冲宽度调制（PWM）调节屏幕亮度，Galaxy S26 Ultra 也采用该方式。PWM 通过高频开关屏幕发光来改变亮度，部分对闪烁敏感的用户可能出现眼疲劳、疲倦或头痛。 而 DC 调光（DC dimming）通过降低流向像素的电流来调暗屏幕，这种方式可平滑降低亮度，并减少传统 PWM 调光带来的快速闪烁。 数码博主 @i冰宇宙",
-     "source": "IT之家",
-     "zh": "减轻用眼疲劳：曝三星 Galaxy S27 Pro / Ultra 手机支持 DC 调光"
+     "title": "If AI is conscient, then we are making slaves",
+     "link": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
+     "pubDate": "Sat, 10 Oct 2026 04:51:26 +0000",
+     "summary": "Article URL: https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi Comments URL: https://news.ycombinator.com/item?id=50029681 Points: 8 # Comments: 10",
+     "source": "Hacker News",
+     "zh": "If AI is conscient, then we are making slaves"
     },
     {
      "title": "Lobbying",
      "link": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
      "pubDate": "Sat, 10 Oct 2026 04:40:36 +0000",
-     "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html Comments URL: https://news.ycombinator.com/item?id=50029630 Points: 111 # Comments: 27",
+     "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html Comments URL: https://news.ycombinator.com/item?id=50029630 Points: 136 # Comments: 40",
      "source": "Hacker News",
      "zh": "Lobbying"
     },
@@ -1890,22 +1914,6 @@ window.INDUSTRY_DATA = {
      "zh": "银行密集赎回优先股，算的是什么账"
     },
     {
-     "title": "山姆更改亲友卡规则，咋想的？",
-     "link": "https://www.huxiu.com/article/4896376.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 12:21:00 +0800",
-     "summary": "本文来自微信公众号： 半佛仙人 ，作者：半佛仙人 1 昨晚刷到一个新闻，给我看笑了。 向下滑动查看所有内容 （新闻来自每日经济新闻） 说白了就是山姆通过追加换绑亲友卡的限制，堵住倒卖亲友卡身份的漏洞。 说白了就是，堵住很多非会员利用亲友卡换绑机制低成本去山姆。 手段非常果断且直接，但策略是对的。 可以说山姆终于开始明明白白地意识到自己到底是什么，赚谁的钱了。 2 山姆本质是一个中产消费俱乐部，是会员制的，且这个会员是收费的。 收费的情况下，会员制最重要的是让会员满意。 山姆存在的意义，是服务那些愿意为自己付费的会员，其他的，都是杂音，是在干扰会员的体验。 所谓让更多人先感受一下再决定买不买，是",
-     "source": "虎嗅",
-     "zh": "山姆更改亲友卡规则，咋想的？"
-    },
-    {
-     "title": "iPhone Duo 上手前你可能需要知道的事",
-     "link": "https://www.huxiu.com/article/4896375.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 12:10:43 +0800",
-     "summary": "本文来自微信公众号： 少数派 ，作者：lavande 苹果一直有一项很厉害的能力，就是把一个行业已经做了多年的东西，按照自己的理解重做一遍，然后教育整个行业——产品可以这样设计。像iPod、iPhone、AirPods等，都是如此。 因此在iPhone Duo发布前，作为折叠屏+iPhone双持用户兼设计师，我特别期待苹果能在9.10教师节当天，给行业开课讲讲该怎么重新设计折叠屏的体验。但真的等到这天发布完，看完媒体上手。我又开始觉得：iPhone Duo，好像并没有预想中精彩。 因此不吐不快，也想把这些天积攒下来的不解，在正式开售之前跟大家一一交流下。 ▍首先是全新的应用布局方式 相比普通i",
-     "source": "虎嗅",
-     "zh": "iPhone Duo 上手前你可能需要知道的事"
-    },
-    {
      "title": "天津，一座被低估的AI基建重镇",
      "link": "https://www.tmtpost.com/8163595.html",
      "pubDate": "Sat, 10 Oct 2026 12:06:59 +0800",
@@ -1917,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Data Center Darling's $30B IPO Dream Crushed in 48 Hours",
      "link": "https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours",
      "pubDate": "Sat, 10 Oct 2026 04:04:17 +0000",
-     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours Comments URL: https://news.ycombinator.com/item?id=50029452 Points: 14 # Comments: 4",
+     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours Comments URL: https://news.ycombinator.com/item?id=50029452 Points: 17 # Comments: 6",
      "source": "Hacker News",
      "zh": "Data Center Darling's $30B IPO Dream Crushed in 48 Hours"
     },
@@ -1941,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
      "pubDate": "Sat, 10 Oct 2026 03:02:47 +0000",
-     "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 32 # Comments: 5",
+     "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 38 # Comments: 8",
      "source": "Hacker News",
      "zh": "Telegram Desktop vulnerability allowed any user's file to be stolen"
     },
@@ -1957,17 +1965,9 @@ window.INDUSTRY_DATA = {
      "title": "Put a price on breakthroughs",
      "link": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
      "pubDate": "Sat, 10 Oct 2026 02:37:47 +0000",
-     "summary": "Article URL: https://alexwang.ai/posts/put-a-price-on-breakthroughs/ Comments URL: https://news.ycombinator.com/item?id=50028982 Points: 9 # Comments: 2",
+     "summary": "Article URL: https://alexwang.ai/posts/put-a-price-on-breakthroughs/ Comments URL: https://news.ycombinator.com/item?id=50028982 Points: 10 # Comments: 2",
      "source": "Hacker News",
      "zh": "Put a price on breakthroughs"
-    },
-    {
-     "title": "盗火者的新火种：EOA 范式下，中国一汽点燃企业智能体生命力",
-     "link": "https://www.tmtpost.com/8155165.html",
-     "pubDate": "Sat, 10 Oct 2026 10:11:51 +0800",
-     "summary": "在 EOA 范式下，中国一汽基于数据形成认知体系，让企业智能体围绕经营目标高效协同，并在运行反馈中不断进化，重塑企业的进化路径。",
-     "source": "钛媒体",
-     "zh": "盗火者的新火种：EOA 范式下，中国一汽点燃企业智能体生命力"
     }
    ]
   },
@@ -2234,100 +2234,20 @@ window.INDUSTRY_DATA = {
      "zh": "素人IP混战的2026年，TOP TOY押注的小玉能否拿到大结果？"
     },
     {
-     "title": "放眼长周期",
-     "link": "http://www.eeo.com.cn/2026/1010/1059666.shtml",
-     "pubDate": "Sat, 10 Oct 2026 13:26:13 +0800",
-     "summary": "国庆长假前最后一个3天的交易周收官。前三季度，A股主要指数都经历了回调盘整，以时间换空间为后续积蓄动能。同时，前期抱团AI科技“战无不胜”的逻辑开始松动，市场正站在一个新的十字路口。 本周，本刊与众多投资机构进行了交流，机构对于四季度共识逐渐清晰：整体判断谨慎乐观，进攻仍靠科技，防守靠传统核心资产。有观点认为，当前市场呈现窄幅震荡、结构剧烈分化的格局，外部因素是重要扰动来源，但外部因...",
-     "source": "经济观察网",
-     "zh": "放眼长周期"
+     "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
+     "link": "https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html",
+     "pubDate": "Sat, 10 Oct 2026 05:00:01 GMT",
+     "summary": "Cash-strapped farmers have no incentive to sow for 2027 with exports remaining trapped, as analysts say commodity markets could \"flip fast.\"",
+     "source": "CNBC",
+     "zh": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant"
     },
     {
-     "title": "人社部：尽最大努力帮助高校毕业生顺利就业",
-     "link": "http://www.eeo.com.cn/2026/1010/1059665.shtml",
-     "pubDate": "Sat, 10 Oct 2026 13:26:12 +0800",
-     "summary": "国务院新闻办公室今天（10月10日）上午举行“开局起步‘十五五’”系列主题新闻发布会。人力资源社会保障部就业促进司司长宋鑫在会上表示，坚持把高校毕业生等青年就业摆在突出位置，尽最大努力帮助其顺利就业；在权益维护方面，持续开展人力资源市场秩序清理整顿专项行动，依法严厉打击就业歧视、滥用实习期等违法违规行为，营造公平有序的就业环境。",
-     "source": "经济观察网",
-     "zh": "人社部：尽最大努力帮助高校毕业生顺利就业"
-    },
-    {
-     "title": "人力资源社会保障部：将开展适应人工智能发展促就业行动",
-     "link": "http://www.eeo.com.cn/2026/1010/1059662.shtml",
-     "pubDate": "Sat, 10 Oct 2026 13:26:08 +0800",
-     "summary": "10月10日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况。 人力资源社会保障部新闻发言人、副部长李忠在发布会上表示，将锚定“十五五”规划目标任务，坚持以人民为中心的发展思想，牢固树立和践行正确政绩观，着力加强政策和服务高品质供给，不断推动人社事业高质量发展，为推进中国式现代化提供有力支撑。 具体而言，人力资源社会保...",
-     "source": "经济观察网",
-     "zh": "人力资源社会保障部：将开展适应人工智能发展促就业行动"
-    },
-    {
-     "title": "前主席张亚东被控收贿2000万港元 绿城中国回应：已按照廉署要求配合相关调查",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891889370.html",
-     "pubDate": "Sat, 10 Oct 2026 13:20:54 +0800",
-     "summary": "一笔2000万港元的贿款指控，将 绿城中国 前主席张亚东与多年前一笔4.4亿元大连地产收购案重新推至台前。 10月9日，香港廉政公署发布新闻公报，落案起诉 绿城中国 控股有限公司时任董事会主席张亚东，控告其涉嫌从一名大连 房地产开发 商股东处收受贿款2000万港元，致使该上市公司以4.4亿元人民币购入当地一个 房地产 项目。案件当日在东区裁判法院提讯。 10月10日， 绿城中国 向新京报记者表示，公告涉及的前董事已于2025年3月离任，公司并不了解案件具体细节。绿城表示，公司一贯坚持合法合规经营，已按照廉署要求配合相关调查，目前公司各项业务运营正常，管理团队保持稳定。 被控串谋收贿2000万港",
-     "source": "东方财富股票",
-     "zh": "前主席张亚东被控收贿2000万港元 绿城中国回应：已按照廉署要求配合相关调查"
-    },
-    {
-     "title": "最高年化22%？多家香港银行推出限时高息定存 业内提醒：不建议内地投资者专门换汇套利",
-     "link": "http://finance.eastmoney.com/news/11158,202610103891889281.html",
-     "pubDate": "Sat, 10 Oct 2026 13:15:25 +0800",
-     "summary": "近期，香港地区多家 银行 推出高利率存款产品，建银亚洲“贵宾理财”客户可享最高8.88%特惠定存年利率，新客户手机开户可享5.88%的人民币或港币定存年利率。平安数字 银行 符合条件的用户可开立1个月港元定期存款，最高享18%定期存款年利率。 此外，“外币兑换定存”同样是高息存款的集中地，交银香港推出限时外币兑换定存，年利率高达15%。香港众安 银行 外币兑换定存7天美元兑换定存年利率为17%，其他币种均为20%，Lv2用户（近30天日均总结余达到等值50万港元或以上）还可以享2%额外年利率。 对于内地投资者，专家建议本来就有短期闲置港元或其他外币、能承受汇率波动的投资者可以尝试银行的新客特惠",
-     "source": "东方财富股票",
-     "zh": "最高年化22%？多家香港银行推出限时高息定存 业内提醒：不建议内地投资者专门换汇套利"
-    },
-    {
-     "title": "一张贴金券串起万千烟火 交通银行以金融巧力激活假日消费",
-     "link": "http://finance.eastmoney.com/news/1586,202610103891888796.html",
-     "pubDate": "Sat, 10 Oct 2026 13:12:46 +0800",
-     "summary": "“滴”扫码领券、用卡支付、立减生效。这个中秋国庆假期，在青岛的海洋公园、宁波的百年老街、雄安的特色市集，这样的支付场景不断上演。不少游客逛景区、品美食、游街市，在消费结账的同时顺手享受 银行 满减福利。有市民表示：“出来游玩，还能领到实实在在的优惠，逛吃都更有劲头。”这一声声支付提示音，正是 交通银行 金融促进假日消费的生动缩影。 让利惠民：金融组合拳点燃消费热情 中秋、国庆双节叠加，消费市场迎来旺季。交行各地分行立足本土资源，把金融服务从柜台延伸到景区、商圈、老字号门店、特色市集，将消费补贴、分期权益、创新支付工具变成串联起“游、购、吃、娱”的纽带。 在青岛，不少游客打卡一战遗址博物馆、里院",
-     "source": "东方财富股票",
-     "zh": "一张贴金券串起万千烟火 交通银行以金融巧力激活假日消费"
-    },
-    {
-     "title": "钟南山院士团队发布肺癌病理基因AI模型：最快可1分钟预测12个肺癌基因靶点",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891888940.html",
-     "pubDate": "Sat, 10 Oct 2026 13:12:17 +0800",
-     "summary": "10月10日，广州医科大学附属第一 医院 国家呼吸医学中心联合 金域医学 对外发布肺癌病理基因多模态大模型DeepGEM 2.0。该模型依托“AI初筛+特定基因靶向验证”模式，有望将肺癌基因检测的费用降低至数百元区间。 肺癌是我国发病率和死亡率均居首位的恶性肿瘤，基因检测是靶向治疗的前提，但目前单次检测费用需万元，且基层医疗机构检测能力薄弱，导致大量患者难以及时获得有效筛查。 “ 老百姓 花这么多钱（做基因检测），（DeepGEM）就是从临床遇到的问题去思考怎么解决问题。我们一直讲做科研是‘顶天立地’，就是让 老百姓 用得起简便、有效、安全的前沿技术。”钟南山院士在发布会上表示。 记者了解到，",
-     "source": "东方财富股票",
-     "zh": "钟南山院士团队发布肺癌病理基因AI模型：最快可1分钟预测12个肺癌基因靶点"
-    },
-    {
-     "title": "古越龙山“古城醉金秋”活动收官：14天客流超245万人次",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891888536.html",
-     "pubDate": "Sat, 10 Oct 2026 13:11:00 +0800",
-     "summary": "10月9日， 古越龙山 官方微信公众号发文称，旗下“古城醉金秋”文商旅促消费活动于9月24日开启、10月7日收官，为期14天。活动采用“1+4+4”模式，以城市广场为主会场，联动迎恩门风情水街、黄酒小镇、中国黄酒博物馆、苏宁广场四大分会场，累计推出活动近400场，吸引客流超245万人次。分会场中国黄酒博物馆体验中心双节期间营收同比增长20.9%，黄酒文化体验型消费潜力进一步释放。 同期，绍兴首届城市开醺节落地绍兴天地871大道，国庆期间累计参与人次超45万。该活动是 古越龙山 联动商业 综合 体的尝试，通过黄酒开醺艺术街区、快闪盒子、黄酒开醺雅集品鉴会等，将传统酒坛、乌篷船意象转化为打卡场景。",
-     "source": "东方财富股票",
-     "zh": "古越龙山“古城醉金秋”活动收官：14天客流超245万人次"
-    },
-    {
-     "title": "小鼠长出人脑褶皱！中国科学家找到人类超高智力关键基因",
-     "link": "http://finance.eastmoney.com/news/1350,202610103891888453.html",
-     "pubDate": "Sat, 10 Oct 2026 13:08:57 +0800",
-     "summary": "近日，中国科学院昆明动物研究所科研团队找到人类智力演化关键基因，通过调控该基因让小鼠大脑长出了类似人脑的褶皱，也更加聪明。那么，人类的超高智力，究竟是从何而来？《全释硬科技》，探究人类大脑演化的终极问题。 人类为什么比其他动物聪明？一个是人类脑容量大，另一个是大脑上的褶皱多。这些大脑上的褶皱，叫作大脑沟回，也被称为“核桃纹”。正是这些沟回，在狭小的头骨里面，将大脑皮层“折叠压缩”，扩大皮层总面积。 人类大脑皮层全部摊开，大约相当于3张A4打印纸；而小鼠光滑的大脑皮层，摊开只有一枚邮票那么大。大脑皮层面积越大，容纳的神经元、神经突触连接就越多，大脑储存信息、处理逻辑、承载思维记忆的能力就越强。 ",
-     "source": "东方财富股票",
-     "zh": "小鼠长出人脑褶皱！中国科学家找到人类超高智力关键基因"
-    },
-    {
-     "title": "10月12日斯德哥尔摩会给谁打电话？2026年诺贝尔经济学奖前瞻",
-     "link": "http://www.eeo.com.cn/2026/1010/1059603.shtml",
-     "pubDate": "Sat, 10 Oct 2026 12:38:55 +0800",
-     "summary": "无论斯德哥尔摩的电话最终响在谁的案头，这三位领跑候选者的学术成果，都超越了单纯的学术荣誉。在国际政治经济局势巨变、全球供给侧冲击频发、超级智能（SI）算法垄断升温与全球公共治理面临困局的当前，他们对微观结构的严密解构、对宏观规则的精密锚定，以及对数字工具的因果审视，共同构成了现代经济学最为坚硬也最具有现实穿透力的理论基石。",
-     "source": "经济观察网",
-     "zh": "10月12日斯德哥尔摩会给谁打电话？2026年诺贝尔经济学奖前瞻"
-    },
-    {
-     "title": "人社部：鼓励支持农民工、灵活就业人员参加职工养老保险",
-     "link": "http://www.eeo.com.cn/2026/1010/1059581.shtml",
-     "pubDate": "Sat, 10 Oct 2026 12:26:14 +0800",
-     "summary": "国务院新闻办公室今天（10月10日）上午举行“开局起步‘十五五’”系列主题新闻发布会。人力资源社会保障部新闻发言人、副部长李忠在会上表示，重点是鼓励支持灵活就业人员、农民工、新就业形态人员参加职工养老保险，这些人有相当一部分他也参加了保险，但是他参加的是居民养老保险，“十五五”期间，很重要的目标，就是尽可能让这些人来参加职工养老保险，建立完善用工方、平台、企业、劳动者共同筹资合理分担的参保机制。</p...",
-     "source": "经济观察网",
-     "zh": "人社部：鼓励支持农民工、灵活就业人员参加职工养老保险"
-    },
-    {
-     "title": "这个假期“慢慢玩”",
-     "link": "http://www.eeo.com.cn/2026/1010/1059563.shtml",
-     "pubDate": "Sat, 10 Oct 2026 12:13:44 +0800",
-     "summary": "游客越来越看重一趟旅程中不同环节的衔接体验，希望深入目的地，体验更具当地特色的生活方式。旅行需求从机票、酒店等基础预订，进一步延伸至当地人常去的餐饮、特色小店等本地消费场景。体验经济正在改变文旅行业的收入结构与竞争逻辑。",
-     "source": "经济观察网",
-     "zh": "这个假期“慢慢玩”"
+     "title": "AI is changing how lawyers work — and putting the billable hour under pressure",
+     "link": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
+     "pubDate": "Sat, 10 Oct 2026 05:00:01 GMT",
+     "summary": "AI adoption is forcing the legal profession to rethink the billable hour and how lawyers build expertise.",
+     "source": "CNBC",
+     "zh": "AI is changing how lawyers work — and putting the billable hour under pressure"
     },
     {
      "title": "The danger of pessimism fatigue",
@@ -2464,6 +2384,86 @@ window.INDUSTRY_DATA = {
      "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
      "source": "MarketWatch",
      "zh": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist."
+    },
+    {
+     "title": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract",
+     "link": "https://seekingalpha.com/news/4651897-alignment-healthcare-downgraded-bofa-after-cms-star-rating-ma-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:59:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Alignment Healthcare downgraded at BofA after CMS Star Rating for MA contract"
+    },
+    {
+     "title": "Gold snaps two-week losing streak; some analysts say may have found bottom",
+     "link": "https://seekingalpha.com/news/4651893-gold-snaps-two-week-losing-streak-some-analysts-say-may-have-found-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:50:04 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gold snaps two-week losing streak; some analysts say may have found bottom"
+    },
+    {
+     "title": "Integra LifeSciences prices $450M in 9.5% secured notes",
+     "link": "https://seekingalpha.com/news/4651896-integra-lifesciences-prices-450m-in-9_5-percent-secured-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:38:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Integra LifeSciences prices $450M in 9.5% secured notes"
+    },
+    {
+     "title": "Gran Tierra Energy expects $315M cash from $1.33B business sale",
+     "link": "https://seekingalpha.com/news/4651894-gran-tierra-energy-expects-315m-cash-from-133b-business-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:35:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gran Tierra Energy expects $315M cash from $1.33B business sale"
+    },
+    {
+     "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+     "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 21:30:00 GMT",
+     "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
+     "source": "MarketWatch",
+     "zh": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders."
+    },
+    {
+     "title": "The hazy OpenAI growth metric driving Wall Street",
+     "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 20:57:10 GMT",
+     "summary": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
+     "source": "Financial Times",
+     "zh": "The hazy OpenAI growth metric driving Wall Street"
+    },
+    {
+     "title": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs",
+     "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+     "pubDate": "Fri, 09 Oct 2026 20:51:25 GMT",
+     "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
+     "source": "CNBC",
+     "zh": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs"
+    },
+    {
+     "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+     "link": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
+     "pubDate": "Fri, 09 Oct 2026 19:25:28 GMT",
+     "summary": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
+     "source": "CNBC",
+     "zh": "Trump Media advisor Katie Zacharia offered White House press secretary role"
+    },
+    {
+     "title": "Americans&apos; debt problems are flashing a warning not seen since the Great Recession",
+     "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+     "pubDate": "Fri, 09 Oct 2026 19:18:24 GMT",
+     "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+     "source": "CNBC",
+     "zh": "Americans&apos; debt problems are flashing a warning not seen since the Great Recession"
+    },
+    {
+     "title": "Trump pressures Mexico for energy deals in crunch trade talks",
+     "link": "https://www.ft.com/content/dda61be8-88bd-4ebc-bde5-ba440308d518?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 17:29:29 GMT",
+     "summary": "Move triggers alarm in Mexico City, where domestic control of sensitive sector is part of modern political identity",
+     "source": "Financial Times",
+     "zh": "Trump pressures Mexico for energy deals in crunch trade talks"
     }
    ]
   },

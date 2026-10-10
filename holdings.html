@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>我的持仓看板 · 加密</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: "Microsoft YaHei","PingFang SC",-apple-system,sans-serif; background:#0d1117; color:#e6edf3; padding:20px; }
+  .wrap { max-width: 980px; margin: 0 auto; }
+  h1 { font-size: 20px; margin-bottom: 4px; }
+  .sub { color:#7d8590; font-size:12px; margin-bottom:16px; }
+  .cards { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin-bottom:18px; }
+  .card { background:#161b22; border:1px solid #21262d; border-radius:12px; padding:14px; }
+  .card .k { color:#7d8590; font-size:12px; margin-bottom:6px; }
+  .card .v { font-size:20px; font-weight:700; }
+  .up{color:#f85149}.down{color:#3fb950}.flat{color:#d29922}
+  table{width:100%;border-collapse:collapse;background:#161b22;border:1px solid #21262d;border-radius:12px;overflow:hidden}
+  th,td{padding:10px 12px;text-align:right;font-size:13px;border-bottom:1px solid #21262d}
+  th{color:#7d8590;font-weight:500;background:#12171e}
+  td:first-child,th:first-child{text-align:left}
+  tr:last-child td{border-bottom:none}
+  .tag{font-size:11px;padding:1px 7px;border-radius:8px;margin-left:6px}
+  .tag.est{background:rgba(88,166,255,.15);color:#58a6ff}
+  .tag.nav{background:rgba(125,133,144,.15);color:#adbac7}
+  .tag.live{background:rgba(63,185,80,.15);color:#3fb950}
+  .ai{margin-top:20px;background:#161b22;border:1px solid #21262d;border-radius:12px;padding:16px}
+  .ai h2{font-size:15px;margin-bottom:12px}
+  .disc{font-size:12px;color:#7d8590;border-left:3px solid #d29922;padding-left:8px;margin-bottom:12px;line-height:1.6}
+  .hl{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:14px}
+  .hl .item{background:#12171e;border-radius:10px;padding:12px;border-left:3px solid #30363d}
+  .hl .item.good{border-left-color:#3fb950}.hl .item.warn{border-left-color:#d29922}
+  .hl .item .t{font-weight:600;font-size:13px;margin-bottom:4px}
+  .hl .item .d{font-size:12px;color:#adbac7;line-height:1.6}
+  .act{display:flex;gap:10px;padding:10px 0;border-top:1px solid #21262d;font-size:13px}
+  .act .who{min-width:130px;font-weight:600}.act .what{min-width:120px}
+  .act .why{color:#adbac7;flex:1;font-size:12px;line-height:1.6}
+  .good{color:#3fb950}.bad{color:#f85149}.warn{color:#d29922}.neu{color:#adbac7}
+  .gate{max-width:360px;margin:14vh auto;background:#161b22;border:1px solid #21262d;border-radius:14px;padding:26px;text-align:center}
+  .gate h2{font-size:16px;margin-bottom:6px}
+  .gate p{color:#7d8590;font-size:12px;margin-bottom:16px;line-height:1.6}
+  .gate input{width:100%;padding:11px 12px;border-radius:9px;border:1px solid #30363d;background:#0d1117;color:#e6edf3;font-size:14px;text-align:center;letter-spacing:2px}
+  .gate button{margin-top:12px;width:100%;padding:11px;border:0;border-radius:9px;background:#238636;color:#fff;font-size:14px;cursor:pointer}
+  .gate .err{color:#f85149;font-size:12px;margin-top:10px;min-height:16px}
+  .top{display:flex;justify-content:space-between;align-items:center}
+  .logout{font-size:12px;color:#7d8590;cursor:pointer;border:1px solid #30363d;border-radius:8px;padding:4px 10px}
+  footer{margin-top:18px;color:#7d8590;font-size:11px;text-align:center;line-height:1.8}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div id="gate" class="gate">
+    <h2>🔒 我的持仓看板</h2>
+    <p>数据已加密，请输入口令解锁</p>
+    <input id="pass" type="password" placeholder="口令" autocomplete="off">
+    <button id="go">解锁</button>
+    <div class="err" id="err"></div>
+  </div>
+
+  <div id="app" style="display:none">
+    <div class="top">
+      <h1>🐉 我的持仓看板 <span style="font-size:12px;color:#7d8590">实时监控 + AI 分析</span></h1>
+      <span class="logout" id="logout">锁定</span>
+    </div>
+    <div class="sub" id="sub">加载中…</div>
+    <div class="cards" id="cards"></div>
+    <table id="tbl"><thead><tr>
+      <th>名称 / 代码</th><th>现价</th><th>涨跌</th><th>份额</th><th>成本</th><th>市值</th><th>浮动盈亏</th><th>当日盈亏</th>
+    </tr></thead><tbody></tbody></table>
+    <div class="ai" id="ai" style="display:none"></div>
+  </div>
+  <footer>数据源：场内=腾讯行情／场外=天天基金。页面数据为 AES 加密密文，仅本地解密。不构成投资建议。</footer>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+const fmt = n => (n==null||isNaN(n)) ? '—' : n.toLocaleString('zh-CN',{maximumFractionDigits:2});
+const money = n => (n==null||isNaN(n)) ? '—' : (n>=0?'+¥':'-¥') + Math.abs(n).toLocaleString('zh-CN',{minimumFractionDigits:2, maximumFractionDigits:2});
+const pct = n => (n==null||isNaN(n)) ? '—' : (n>=0?'+':'') + n.toFixed(2) + '%';
+const cls = n => n>0?'up':(n<0?'down':'flat');
+const b64ToBytes = b64 => Uint8Array.from(atob(b64), c => c.charCodeAt(0));
+const enc = new TextEncoder();
+
+async function deriveKey(pass, salt, iter) {
+  const base = await crypto.subtle.importKey('raw', enc.encode(pass), 'PBKDF2', false, ['deriveKey']);
+  return crypto.subtle.deriveKey({ name:'PBKDF2', salt, iterations:iter, hash:'SHA-256' }, base, { name:'AES-GCM', length:256 }, false, ['decrypt']);
+}
+
+async function fetchDecrypt(pass) {
+  const p = await fetch('holdings-enc.json?_=' + Date.now()).then(r => r.json());
+  const key = await deriveKey(pass, b64ToBytes(p.salt), p.iter);
+  const ct = b64ToBytes(p.ct);
+  const pt = await crypto.subtle.decrypt({ name:'AES-GCM', iv: b64ToBytes(p.iv) }, key, ct);
+  return JSON.parse(new TextDecoder().decode(pt));
+}
+
+function render(data, a) {
+  $('sub').textContent = '数据时间：' + data.generatedAt + ' · 每 5 分钟自动刷新';
+  const s = data.summary;
+  $('cards').innerHTML = [
+    ['总市值','¥'+fmt(s.marketValue),''],
+    ['累计浮盈',money(s.pnl),''],
+    ['累计收益率',pct(s.pnlPct),cls(s.pnlPct)],
+    ['当日盈亏',money(s.dayPnl),cls(s.dayPnl)]
+  ].map(([k,v,c]) => `<div class="card"><div class="k">${k}</div><div class="v ${c}">${v}</div></div>`).join('');
+  document.querySelector('#tbl tbody').innerHTML = data.positions.map(p => {
+    const tag = p.quoteType==='estimate' ? '<span class="tag est">估值</span>' : (p.quoteType==='live' ? '<span class="tag live">实时</span>' : '<span class="tag nav">净值</span>');
+    return `<tr>
+      <td>${p.name}${tag}<br><span style="font-size:11px;color:#7d8590">${p.code} · ${(p.type||'').toUpperCase()}</span></td>
+      <td>${fmt(p.quotePrice)}</td><td class="${cls(p.chgPct)}">${pct(p.chgPct)}</td>
+      <td>${fmt(p.shares)}</td><td>${fmt(p.cost)}</td><td>¥${fmt(p.mv)}</td>
+      <td class="${cls(p.pnl)}">${money(p.pnl)}<br><span style="font-size:11px">${pct(p.pnlPct)}</span></td>
+      <td class="${cls(p.dayPnl)}">${money(p.dayPnl)}</td></tr>`;
+  }).join('');
+  if (a) {
+    $('ai').style.display = 'block';
+    $('ai').innerHTML = `
+      <h2>🤖 AI 持仓分析（${a.model}） · ${a.generatedAt}</h2>
+      <div class="disc">${a.disclaimer}</div>
+      <p style="font-size:13px;line-height:1.8;margin-bottom:14px">${a.overview}</p>
+      <div class="hl">${a.highlights.map(h=>`<div class="item ${h.tone==='good'?'good':(h.tone==='warn'?'warn':'')}"><div class="t">${h.title}</div><div class="d">${h.text}</div></div>`).join('')}</div>
+      <div>${a.actions.map(x=>`<div class="act"><div class="who">${x.target}</div><div class="what ${x.tone==='good'?'good':(x.tone==='warn'?'warn':'neu')}">${x.action}</div><div class="why">${x.reason}</div></div>`).join('')}</div>`;
+  }
+}
+
+let PASS = null, DATA = null;
+async function unlock(pass, remember) {
+  try {
+    const d = await fetchDecrypt(pass);
+    PASS = pass;
+    $('gate').style.display = 'none'; $('app').style.display = 'block';
+    DATA = d;
+    render(d, d.analysis);
+    if (remember) localStorage.setItem('hj_pass', pass); else localStorage.removeItem('hj_pass');
+  } catch (e) {
+    $('err').textContent = '口令错误或数据损坏';
+  }
+}
+$('go').onclick = () => unlock($('pass').value, true);
+$('pass').addEventListener('keydown', e => { if (e.key === 'Enter') $('go').click(); });
+$('logout').onclick = () => { localStorage.removeItem('hj_pass'); PASS = null; $('gate').style.display='block'; $('app').style.display='none'; $('pass').value=''; };
+
+(async () => {
+  const saved = localStorage.getItem('hj_pass');
+  if (saved) await unlock(saved, true);
+})();
+setInterval(async () => { if (PASS) { try { const d = await fetchDecrypt(PASS); render(d, d.analysis); } catch(e){} } }, 300000);
+</script>
+</body>
+</html>

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 10:32:23",
+ "generated_at": "2026/10/10 10:36:48",
  "recent_days": 7,
  "industries": [
   {
@@ -1730,6 +1730,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "红魔 12 Pro+ 手机散热结构公布：搭载行业首款超薄航天钢石墨烯、嵌入式复合液态金属 4.0",
+     "link": "https://www.ithome.com/1/011/227.htm",
+     "pubDate": "Sat, 10 Oct 2026 02:33:24 GMT",
+     "summary": "IT之家 10 月 10 日消息，红魔 12 Pro+ 手机将于 10 月 15 日发布，官方今日公布了新机的散热结构。 据介绍，这款新机搭载 行业首款 RGB 水冷散热技术 ，支持自定义 RGB 灯效；采用全新双环流道设计，水冷面积覆盖风道、芯片、电池等核心部件；采用 AI 服务器同款氟化液，全新双晶水冷微泵功耗 20mW，压力 130kPa。 风冷方面，这款新机采用驭风 5.0 新一代散热风扇，首创迷宫防尘结构，支持 IPX8 防水；搭载行业最快转速风扇（25500 r/min），采用贯穿式风道设计，覆盖热源。 这款新机搭载全新升级的 ICE 魔冷散热系统，包含行业首款嵌入式复合液态金属 ",
+     "source": "IT之家",
+     "zh": "红魔 12 Pro+ 手机散热结构公布：搭载行业首款超薄航天钢石墨烯、嵌入式复合液态金属 4.0"
+    },
+    {
      "title": "2026年小天才崩投资人实操指南",
      "link": "https://www.huxiu.com/article/4896337.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 10:28:24 +0800",
@@ -1792,14 +1800,6 @@ window.INDUSTRY_DATA = {
      "summary": "Major Chinese platforms have accelerated plans for personal agents, yet full releases remain limited. The binding constraint is not model capability but whether rival apps will allow an agent to act inside their services—and on what commercial terms.",
      "source": "钛媒体",
      "zh": "China’s Personal AI Agents Stall on Ecosystem Access, Not Model Power"
-    },
-    {
-     "title": "微软工程师解析案例：Win11 装 2 款杀软易“撞车”，恐导致程序卡死",
-     "link": "https://www.ithome.com/1/011/215.htm",
-     "pubDate": "Sat, 10 Oct 2026 02:07:48 GMT",
-     "summary": "IT之家 10 月 10 日消息，微软资深工程师雷蒙德 · 陈（Raymond Chen）于 10 月 8 日在微软开发者博客上发布博文，分享了一起企业支持案例， 表示在 Windows 11 等系统上，同时安装 2 款杀毒软件可能引发冲突。 在博文中，Chen 以 Contoso 和 Fabrikam 代称这两款软件。Fabrikam 调用了一个已被 Contoso 拦截的函数，而 Contoso 将这一行为视为可疑活动，尝试隔离 Fabrikam 进程。与此同时，Fabrikam 也拦截了 Contoso 正在使用的函数，导致 Contoso 反而调用了自己试图隔离的进程。 Chen 将这",
-     "source": "IT之家",
-     "zh": "微软工程师解析案例：Win11 装 2 款杀软易“撞车”，恐导致程序卡死"
     },
     {
      "title": "“为什么我在职校拿了那么多技能证书，人们还是用学历评判我？”",
@@ -2234,46 +2234,6 @@ window.INDUSTRY_DATA = {
      "zh": "商务部等7部门实施品质电商“五优”行动"
     },
     {
-     "title": "人社部：将研究出台服务业发展促就业文件 扩大服务业就业总量",
-     "link": "http://finance.eastmoney.com/news/1350,202610103891854077.html",
-     "pubDate": "Sat, 10 Oct 2026 10:20:55 +0800",
-     "summary": "10月10日，人力资源社会保障部新闻发言人、副部长李忠在国新办发布会上表示，将深入实施稳岗扩容提质行动，着力稳定劳动密集型行业就业规模，不断扩大服务业就业总量，在培育壮大新兴产业、未来产业中挖掘就业新潜能。将会同有关部门研究出台服务业发展促就业文件，更好发挥服务业吸纳就业的主渠道作用。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "人社部：将研究出台服务业发展促就业文件 扩大服务业就业总量"
-    },
-    {
-     "title": "人社部：截至9月底三项社会保险基金累计结余11.2万亿元",
-     "link": "http://finance.eastmoney.com/news/1350,202610103891853947.html",
-     "pubDate": "Sat, 10 Oct 2026 10:20:25 +0800",
-     "summary": "10月10日，人力资源社会保障部新闻发言人、副部长李忠在国新办发布会上表示，截至9月底，全国基本养老保险、失业保险、工伤保险参保人数分别达到10.79亿人，2.51亿人，3.27亿人，三项社会保险基金累计结余11.2万亿元。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "人社部：截至9月底三项社会保险基金累计结余11.2万亿元"
-    },
-    {
-     "title": "5方面15条举措 商务部等7部门部署品质电商“五优”行动",
-     "link": "http://finance.eastmoney.com/news/1345,202610103891853240.html",
-     "pubDate": "Sat, 10 Oct 2026 10:16:47 +0800",
-     "summary": "10月10日，《商务部等7部门关于实施品质电商“五优”行动的通知》发布，详情如下。 组织电商平台“品质推优” （一）加强品质电商主体培育。 用好展会活动等平台，组织电商平台聚焦产品和服务质量提升公开发布承诺和行动计划，发布平台质量治理报告，主动接受社会监督，打造品质电商发展“主阵地”。发挥国家 电子 商务示范基地引领、辐射带动和质量科普作用，以品质为导向开展示范创建，强化信用管理和分类指导，培育一批诚信经营的品质标杆平台。 （ 二）推动平台规则向优转型。 督促电商平台依法依规开展平台规则制定和修改，全面落实平台规则公示、公开征求意见等要求。指导电商平台规范规则执行行为，保护平台内商家、消费者合",
-     "source": "东方财富股票",
-     "zh": "5方面15条举措 商务部等7部门部署品质电商“五优”行动"
-    },
-    {
-     "title": "国联民生股价疲弱、触发增持条款 国资兜底能否托起估值？",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891850055.html",
-     "pubDate": "Sat, 10 Oct 2026 10:15:12 +0800",
-     "summary": "上市券商 国联民生 （601456.SH）因股价持续低迷，触发控股股东兜底增持承诺。 界面新闻注意到，10月8日晚间， 国联民生 发布关于触发控股股东增持公司股份承诺的提示性公告，截至9月30日， 该公司股价连续20个交易日跌破重组发行价的80%，其国资股东国联集团需履行增持义务，最低增持金额超8000万元。 这也是国联证券并购民生证券、变身 国联民生 之后，首次触发重组配套的股东增持条款。 此次增持约束，源于两年前落地的重大券商并购。彼时，国联证券发行股份收购民生证券99.26%股权，成为近年券商行业最受关注的市场化合并案例之一。重组发行价格定为11.17元/股，2025年1月3日在中国证券",
-     "source": "东方财富股票",
-     "zh": "国联民生股价疲弱、触发增持条款 国资兜底能否托起估值？"
-    },
-    {
-     "title": "住友电木将在中国等增产半导体封装材料",
-     "link": "http://finance.eastmoney.com/news/1355,202610103891853898.html",
-     "pubDate": "Sat, 10 Oct 2026 10:13:39 +0800",
-     "summary": "住友电木将增产用于保护先进 半导体 的树脂封装材料。这些先进 半导体 被用于AI 数据中心 等。预计投资额为100亿日元左右。该公司将在中国苏州市和新加坡的工厂新增生产线，争取2030年度投产。封装材料用于 半导体 制造中名为“塑封（Molding）”的后工序，主要作用是保护芯片免受外部冲击、污染等损害。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "住友电木将在中国等增产半导体封装材料"
-    },
-    {
      "title": "记者观察：文旅正成湖北县域“溢价锚点”",
      "link": "http://www.eeo.com.cn/2026/1010/1059339.shtml",
      "pubDate": "Sat, 10 Oct 2026 10:13:11 +0800",
@@ -2464,6 +2424,46 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Integra LifeSciences prices $450M in 9.5% secured notes"
+    },
+    {
+     "title": "Gran Tierra Energy expects $315M cash from $1.33B business sale",
+     "link": "https://seekingalpha.com/news/4651894-gran-tierra-energy-expects-315m-cash-from-133b-business-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 17:35:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gran Tierra Energy expects $315M cash from $1.33B business sale"
+    },
+    {
+     "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+     "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+     "pubDate": "Fri, 09 Oct 2026 21:30:00 GMT",
+     "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
+     "source": "MarketWatch",
+     "zh": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders."
+    },
+    {
+     "title": "The hazy OpenAI growth metric driving Wall Street",
+     "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+     "pubDate": "Fri, 09 Oct 2026 20:57:10 GMT",
+     "summary": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
+     "source": "Financial Times",
+     "zh": "The hazy OpenAI growth metric driving Wall Street"
+    },
+    {
+     "title": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs",
+     "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+     "pubDate": "Fri, 09 Oct 2026 20:51:25 GMT",
+     "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
+     "source": "CNBC",
+     "zh": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs"
+    },
+    {
+     "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+     "link": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
+     "pubDate": "Fri, 09 Oct 2026 19:25:28 GMT",
+     "summary": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
+     "source": "CNBC",
+     "zh": "Trump Media advisor Katie Zacharia offered White House press secretary role"
     }
    ]
   },
@@ -2498,20 +2498,20 @@ window.INDUSTRY_DATA = {
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
-     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
-     "source": "Live Science",
-     "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
-    },
-    {
      "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
      "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
      "source": "Live Science",
      "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
+    },
+    {
+     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
+     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
+     "source": "Live Science",
+     "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

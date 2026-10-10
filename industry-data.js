@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 01:32:20",
+ "generated_at": "2026/10/11 02:59:40",
  "recent_days": 7,
  "industries": [
   {
@@ -962,12 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "U.S. Oil Drilling Continues to Inch Upward"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1730,6 +1730,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "IDC: Shenzhen-based DJI and Insta360, accounting for 73% and 20% of global smart camera market in Q2, are vying for the top spot as GoPro&apos;s share drops to 3% (William Langley/Financial Times)",
+     "link": "https://www.techmeme.com/261010/p15#a261010p15",
+     "pubDate": "Sat, 10 Oct 2026 14:50:00 -0400",
+     "summary": "William Langley / Financial Times : IDC: Shenzhen-based DJI and Insta360, accounting for 73% and 20% of global smart camera market in Q2, are vying for the top spot as GoPro's share drops to 3% &nbsp; &mdash;&nbsp; DJI and Insta360 engaged in &lsquo;civil war&rsquo; to become world's top smart camer",
+     "source": "Techmeme",
+     "zh": "IDC: Shenzhen-based DJI and Insta360, accounting for 73% and 20% of global smart camera market in Q2, are vying for the top spot as GoPro&apos;s share drops to 3% (William Langley/Financial Times)"
+    },
+    {
+     "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+     "link": "https://jobs.ashbyhq.com/workweave",
+     "pubDate": "Sat, 10 Oct 2026 18:16:19 +0000",
+     "summary": "Article URL: https://jobs.ashbyhq.com/workweave Comments URL: https://news.ycombinator.com/item?id=50035602 Points: 0 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Weave (YC W25) is hiring ML, AI, product, & design engineers"
+    },
+    {
+     "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+     "link": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+     "pubDate": "Sat, 10 Oct 2026 18:10:54 +0000",
+     "summary": "Article URL: https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50035550 Points: 18 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents"
+    },
+    {
      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
      "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
      "pubDate": "Sat, 10 Oct 2026 17:00:00 +0000",
@@ -1760,14 +1784,6 @@ window.INDUSTRY_DATA = {
      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
      "source": "TechCrunch",
      "zh": "Cloudflare acquires Deno to improve its Workers programming model"
-    },
-    {
-     "title": "AI Is Throwing a Roadside Picnic",
-     "link": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
-     "pubDate": "Sat, 10 Oct 2026 16:19:23 +0000",
-     "summary": "Article URL: https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic Comments URL: https://news.ycombinator.com/item?id=50034363 Points: 17 # Comments: 17",
-     "source": "Hacker News",
-     "zh": "AI Is Throwing a Roadside Picnic"
     },
     {
      "title": "安卓首款、全球第二款阔直板手机将至：酷派新机首曝，价格干到“999 定位千元档”",
@@ -1813,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Knuth Reward Check",
      "link": "https://www.thomas-huehn.com/knuth-reward-check",
      "pubDate": "Sat, 10 Oct 2026 15:47:01 +0000",
-     "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 36 # Comments: 13",
+     "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 65 # Comments: 26",
      "source": "Hacker News",
      "zh": "Knuth Reward Check"
     },
@@ -1824,14 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 10 日消息，今日，据彭博社援引知情人士消息，半导体公司 Cirrus Logic Inc. 上个月向 Synaptics Inc. 提出了一项未经请求的收购要约，试图破坏后者此前已公布的、与安森美半导体的并购交易。 知情人士表示，Synaptics 周四更新的股东委托文件中提及的“甲方”， 正是 Cirrus Logic 。知情人士补充，目前尚不清楚 Cirrus Logic 是否仍有意推进这笔收购。 据悉，Cirrus Logic 的报价采用现金 + 股票形式，促使安森美在上周修改了与 Synaptics 的协议条款。安森美将交易结构从全股票改为全现金，每股报价调整至 ",
      "source": "IT之家",
      "zh": "阻击安森美，Cirrus Logic 抢购 Synaptics"
-    },
-    {
-     "title": "How Protein Took over the World",
-     "link": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
-     "pubDate": "Sat, 10 Oct 2026 15:40:06 +0000",
-     "summary": "Article URL: https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd Comments URL: https://news.ycombinator.com/item?id=50034008 Points: 23 # Comments: 33",
-     "source": "Hacker News",
-     "zh": "How Protein Took over the World"
     },
     {
      "title": "收废品，怎么就成了大生意？",
@@ -1893,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
      "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
      "pubDate": "Sat, 10 Oct 2026 15:10:24 +0000",
-     "summary": "Article URL: https://chronicles.popvax.com/p/popvax-goes-clinical Comments URL: https://news.ycombinator.com/item?id=50033721 Points: 40 # Comments: 10",
+     "summary": "Article URL: https://chronicles.popvax.com/p/popvax-goes-clinical Comments URL: https://news.ycombinator.com/item?id=50033721 Points: 63 # Comments: 15",
      "source": "Hacker News",
      "zh": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial"
     },
@@ -1901,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
      "link": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
      "pubDate": "Sat, 10 Oct 2026 15:04:38 +0000",
-     "summary": "Article URL: https://wsj.com/tech/ai/tom-brown-athropic-669005ad Comments URL: https://news.ycombinator.com/item?id=50033678 Points: 47 # Comments: 0",
+     "summary": "Article URL: https://wsj.com/tech/ai/tom-brown-athropic-669005ad Comments URL: https://news.ycombinator.com/item?id=50033678 Points: 86 # Comments: 25",
      "source": "Hacker News",
      "zh": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal"
     },
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "FDA may allow some toxic chemicals to be added to food without safety review",
      "link": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis",
      "pubDate": "Sat, 10 Oct 2026 15:00:36 +0000",
-     "summary": "Article URL: https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis Comments URL: https://news.ycombinator.com/item?id=50033638 Points: 43 # Comments: 25",
+     "summary": "Article URL: https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis Comments URL: https://news.ycombinator.com/item?id=50033638 Points: 87 # Comments: 47",
      "source": "Hacker News",
      "zh": "FDA may allow some toxic chemicals to be added to food without safety review"
     },
@@ -1960,14 +1968,6 @@ window.INDUSTRY_DATA = {
      "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
      "source": "Ars Technica",
      "zh": "One with the world? A new look at brains transformed by psychedelics."
-    },
-    {
-     "title": "The Best Smart Scales for Tracking Weight and Body Composition (2026)",
-     "link": "https://www.wired.com/gallery/best-smart-scales/",
-     "pubDate": "Sat, 10 Oct 2026 11:04:00 +0000",
-     "summary": "Whether you want a weight log on your phone or a bathroom gadget packed with sensors, I’ve found an option for you.",
-     "source": "WIRED",
-     "zh": "The Best Smart Scales for Tracking Weight and Body Composition (2026)"
     }
    ]
   },
@@ -1977,6 +1977,46 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "This Android Auto problem is affecting calls on foldable phones",
+     "link": "https://www.engadget.com/2280033/android-auto-bug-affecting-foldable-phones-calling/",
+     "pubDate": "Sat, 10 Oct 2026 18:45:00 +0000",
+     "summary": "Gemini might be causing some issues with Android Auto.",
+     "source": "Engadget",
+     "zh": "This Android Auto problem is affecting calls on foldable phones"
+    },
+    {
+     "title": "Deals: Some Galaxy and Pixel phones kept their Prime Day prices - no Prime required now, though",
+     "link": "https://www.gsmarena.com/deals_some_galaxy_and_pixel_phones_kept_their_prime_day_prices__no_prime_required_now_though-news-74975.php",
+     "pubDate": "Sat, 10 Oct 2026 20:31:02 +0200",
+     "summary": "Amazon’s Prime Big Deal Days only lasted two days and there were some really good deals to be had for Prime subscribers. But that is over, so today we will look at no-Prime deals and, as it turns out, many phones kept their Prime Day prices. The good news is that these deals don’t require a Prime su",
+     "source": "GSMArena",
+     "zh": "Deals: Some Galaxy and Pixel phones kept their Prime Day prices - no Prime required now, though"
+    },
+    {
+     "title": "How to quickly check your Samsung Galaxy's warranty info",
+     "link": "https://www.engadget.com/2280016/how-to-check-warranty-samsung-galaxy/",
+     "pubDate": "Sat, 10 Oct 2026 18:30:00 +0000",
+     "summary": "You don't have to guess how long is left on your Samsung device's warranty; the company makes it easy to confirm.",
+     "source": "Engadget",
+     "zh": "How to quickly check your Samsung Galaxy's warranty info"
+    },
+    {
+     "title": "What is ray tracing in gaming and does it really make a difference?",
+     "link": "https://www.engadget.com/2279929/what-is-ray-tracing-gaming-does-it-make-difference/",
+     "pubDate": "Sat, 10 Oct 2026 18:00:00 +0000",
+     "summary": "Ray tracing makes light's behavior more realistic in supported games, but your PC has to use a lot of horsepower to make that happen.",
+     "source": "Engadget",
+     "zh": "What is ray tracing in gaming and does it really make a difference?"
+    },
+    {
+     "title": "Anthropic says its AI agents tried to break into government websites",
+     "link": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/",
+     "pubDate": "Sat, 10 Oct 2026 17:49:49 +0000",
+     "summary": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing.",
+     "source": "Engadget",
+     "zh": "Anthropic says its AI agents tried to break into government websites"
+    },
     {
      "title": "How to reset your Samsung TV",
      "link": "https://www.engadget.com/2279855/how-to-reset-samsung-tv/",
@@ -2008,38 +2048,6 @@ window.INDUSTRY_DATA = {
      "summary": "This week, Amazon unveiled a new lineup of Alexa Tablets. They no longer run a proprietary OS with a custom App Store, and instead embrace Android with a stock feel – while offering the Play Store. It’s a big shift in direction for Amazon. The tablets also look quite beautiful, while previous Fire t",
      "source": "9to5Mac",
      "zh": "Amazon’s new Alexa Tablet finally gives the iPad lineup some much needed competition"
-    },
-    {
-     "title": "How Xiaomi, Oppo and other non-US brands are challenging the iPhone Duo",
-     "link": "https://www.engadget.com/2279277/how-xiaomi-oppo-other-non-us-brands-challenging-iphone-duo/",
-     "pubDate": "Sat, 10 Oct 2026 15:30:00 +0000",
-     "summary": "Apple's foldable phone has everyone talking, but competitors have their own offerings in different ways.",
-     "source": "Engadget",
-     "zh": "How Xiaomi, Oppo and other non-US brands are challenging the iPhone Duo"
-    },
-    {
-     "title": "5 Samsung Galaxy features you should be using after updating to One UI 9",
-     "link": "https://www.engadget.com/2279220/samsung-galaxy-one-ui-9-features-you-should-use/",
-     "pubDate": "Sat, 10 Oct 2026 15:00:00 +0000",
-     "summary": "Samsung Galaxy phones that have upgraded to Android 17 and One UI 9 have a slew of new features - some more helpful than others.",
-     "source": "Engadget",
-     "zh": "5 Samsung Galaxy features you should be using after updating to One UI 9"
-    },
-    {
-     "title": "Why your smart speaker keeps misunderstanding you (and how to fix it)",
-     "link": "https://www.engadget.com/2279051/smart-speaker-misunderstands-you-how-to-fix/",
-     "pubDate": "Sat, 10 Oct 2026 14:30:00 +0000",
-     "summary": "Smart speakers should recognize your voice to run commands, but you can help them out with a few tricks.",
-     "source": "Engadget",
-     "zh": "Why your smart speaker keeps misunderstanding you (and how to fix it)"
-    },
-    {
-     "title": "How to change your home address on Google Maps",
-     "link": "https://www.engadget.com/2278953/how-to-change-home-address-google-maps/",
-     "pubDate": "Sat, 10 Oct 2026 14:00:00 +0000",
-     "summary": "Set it to a nearby place instead, if you're concerned about the potential dangers if someone accesses your phone.",
-     "source": "Engadget",
-     "zh": "How to change your home address on Google Maps"
     },
     {
      "title": "Oppo Find N7's camera and display details surface",
@@ -2162,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google releases a free tool to check for an increasingly common AI watermark"
     },
     {
-     "title": "OnePlus plans on launching two flagships in India, here's when",
-     "link": "https://www.gsmarena.com/oneplus_plans_on_launching_two_flagships_in_india_heres_when-news-74985.php",
-     "pubDate": "Sat, 10 Oct 2026 03:49:02 +0200",
-     "summary": "OnePlus is unveiling the OnePlus 16 in China on October 12, and the Ace 7 may join it or launch soon afterwards. Today a tipster over on X has revealed that the company is planning to launch two new flagship smartphones in India, either in December or in \"early 2027\". One of them will be the OnePlus",
-     "source": "GSMArena",
-     "zh": "OnePlus plans on launching two flagships in India, here's when"
-    },
-    {
      "title": "Free Gemini users now on ‘Auto’ models as app adds thinking levels",
      "link": "https://9to5google.com/2026/10/09/gemini-auto-free-users/",
      "pubDate": "Sat, 10 Oct 2026 01:24:00 +0000",
@@ -2226,20 +2226,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "沙特民航总局：利雅得机场遭袭暂停运营 多人受伤",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892006895.html",
-     "pubDate": "Sun, 11 Oct 2026 01:13:14 +0800",
-     "summary": "当地时间10月10日，沙特阿拉伯民航总局发布声明称，当天下午，首都利雅得哈立德国王国际 机场 再次遭到袭击，造成多人受伤，目前伤亡情况仍在统计中。 声明称，鉴于近期针对沙特民航设施的袭击持续发生，相关部门已暂时停止哈立德国王国际 机场 的运营，以完成损失评估并检查 机场 设施安全。 沙特民航总局表示，正在与有关部门协调开展相关工作，后续进展将另行公布。 此前沙特阿拉伯民航总局9日曾发表声明说，位于首都利雅得的哈立德国王国际机场8日遭到两次袭击，造成3名沙特公民死亡、多人受伤。 （文章来源：央视新闻客户端）",
+     "title": "标普500的平静 全靠十只股票和一个AI信仰？",
+     "link": "http://stock.eastmoney.com/news/1768,202610113892007879.html",
+     "pubDate": "Sun, 11 Oct 2026 02:49:09 +0800",
+     "summary": "3月底至今，十只股票扛起标普500七成涨幅，面对AI行情投资者不怕下跌只怕踏空，美股的平静几乎完全押在一个AI信仰上。 野村证券近日发布报告指出，个股分化和期权卖盘共同压住了标普500指数波动，踏空焦虑可能迫使资金继续加仓推高美股。 如果只看标普500指数，过去两个月的美股称得上“无聊”。自8月初以来，指数累计小幅上涨，波动率处于一年来的低位。翻开成分股名单，情况却完全不同： 85%的成分股较各自历史高点回落超过10%，约六分之一的股票跌幅已超过50%。 野村证券跨资产策略师Charlie McElligott在最新报告指出，期权市场显示， 投资者对标普500大跌的担忧已降至一年来的最低水平。",
      "source": "东方财富股票",
-     "zh": "沙特民航总局：利雅得机场遭袭暂停运营 多人受伤"
+     "zh": "标普500的平静 全靠十只股票和一个AI信仰？"
     },
     {
-     "title": "消息人士：美国特使可能在两周内访问莫斯科",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892006689.html",
-     "pubDate": "Sun, 11 Oct 2026 00:53:47 +0800",
-     "summary": "当地时间10月10日，俄罗斯方面援引消息人士的话称，牵头斡旋乌克兰和平协议的美国谈判代表威特科夫和库什纳可能会在未来两周内访问莫斯科。 （文章来源：央视新闻客户端）",
+     "title": "“上涨十月”遇冷：比特币反弹乏力 分析师警告仍有下行空间",
+     "link": "http://stock.eastmoney.com/news/1768,202610113892007712.html",
+     "pubDate": "Sun, 11 Oct 2026 02:48:22 +0800",
+     "summary": "加密货币市场周五迎来喘息之机，市场总市值上涨2.1%，至2.89万亿美元。不过，此次反弹仅挽回了部分损失。一周前，加密货币市场总市值仍在3万亿美元以上，当时比特币价格一度突破87,000美元。 尽管市场有所回升，交易员仍然感到不安。加密货币恐惧与贪婪指数降至56，处于中性水平，低于10月2日的71。当时，市场情绪明显处于“贪婪”区间。 华尔街同样感到紧张。美国现货比特币ETF周三（10月7日）遭遇4.849亿美元资金净流出，创6月25日以来最大单日净流出规模，周四（10月8日）又有2.44亿美元资金净流出。 截至周六发稿时，比特币交投于82,780美元附近。此前，比特币周四一度跌至80,427",
      "source": "东方财富股票",
-     "zh": "消息人士：美国特使可能在两周内访问莫斯科"
+     "zh": "“上涨十月”遇冷：比特币反弹乏力 分析师警告仍有下行空间"
+    },
+    {
+     "title": "家用摄像头如何兼顾隐私？古尔曼：苹果的答案是“不录像”",
+     "link": "http://stock.eastmoney.com/news/1768,202610113892007690.html",
+     "pubDate": "Sun, 11 Oct 2026 02:47:22 +0800",
+     "summary": "苹果 被曝正在研发一款只“看懂”、不“录像”的AI家用摄像头，用文字描述取代视频录像。这一设计直指智能安防的隐私痛点，但安防产品没有录像能否被用户接受，仍有待检验。 据媒体近日报道，科技记者马克·古尔曼（Mark Gurman）透露， 苹果 正在研发一款代号为J450的家用安防摄像头。与市面上的同类产品不同，它不会录制任何视频。 这款摄像头将利用AI分析家中及周边环境，再以文字描述的形式把动态推送给用户。 外形上，J450是一个小巧的金属圆柱体，形似一支加大号的润唇膏。 它的 传感器 以低帧率拍摄画面，借助人脸识别判断是哪位家庭成员进入房间或离开家，还能识别宠物。但这些信息只会以文字形式送达用",
+     "source": "东方财富股票",
+     "zh": "家用摄像头如何兼顾隐私？古尔曼：苹果的答案是“不录像”"
+    },
+    {
+     "title": "Cliffs unit is said to proceed with Canada layoffs despite govt. ultimatum",
+     "link": "https://seekingalpha.com/news/4651912-cliffs-plans-canada-layoffs-despite-govt-ultimatum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 10 Oct 2026 14:41:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cliffs unit is said to proceed with Canada layoffs despite govt. ultimatum"
+    },
+    {
+     "title": "以媒称美以领导人就再袭伊朗沟通",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892007425.html",
+     "pubDate": "Sun, 11 Oct 2026 02:40:31 +0800",
+     "summary": "当地时间10月10日，据以色列第13频道电视台报道，美国总统特朗普与以色列总理内塔尼亚胡近期“就美以可能再对伊朗发动军事打击一事进行了频繁、紧急沟通”。报道援引多名以色列安全机构高级官员消息称，“美以尚未就此作出最终决定，内塔尼亚胡无意在以色列本月底举行议会选举前采取军事行动。”报道还称，以军内部认为，美方未来倾向于重启对伊朗军事行动。目前，以军正据此为应对一切可能情况作准备。 （文章来源：CCTV国际时讯）",
+     "source": "东方财富股票",
+     "zh": "以媒称美以领导人就再袭伊朗沟通"
+    },
+    {
+     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 18:31:00 GMT",
+     "summary": "“I presume these are sophisticated investors taking a profit.”",
+     "source": "MarketWatch",
+     "zh": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?"
+    },
+    {
+     "title": "也门胡塞武装：愿与沙特避免互袭民用设施",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892007341.html",
+     "pubDate": "Sun, 11 Oct 2026 02:30:04 +0800",
+     "summary": "也门胡塞武装10日表示，愿意与沙特阿拉伯采取相互对等的措施，避免将 机场 、海港及其他具有人道主义功能的设施卷入不断升级的军事对抗。 据胡塞武装控制的马西拉电视台报道，该组织表示愿意推动各方避免袭击此类设施，并将 机场 和海港列为优先保护对象。 报道说，胡塞武装指责沙特于7月13日袭击也门首都萨那国际 机场 ，导致此前一段时间的缓和局势结束。胡塞武装表示不接受沙特在也门驻军。 近日，胡塞武装多次袭击沙特境内的机场和石油设施。沙特主导的多国联军则表示，正开展大规模军事行动，打击胡塞武装军事能力，着力瓦解其弹道导弹网络，并全天候为也门政府军提供空中支援。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "也门胡塞武装：愿与沙特避免互袭民用设施"
+    },
+    {
+     "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+     "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+     "pubDate": "Sat, 10 Oct 2026 18:14:28 GMT",
+     "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+     "source": "Financial Times",
+     "zh": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI"
+    },
+    {
+     "title": "China passenger vehicle retail market slumps 24% in September",
+     "link": "https://seekingalpha.com/news/4651911-china-passenger-vehicle-retail-market-slumps-24-september?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 10 Oct 2026 13:55:18 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "China passenger vehicle retail market slumps 24% in September"
+    },
+    {
+     "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
+     "link": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
+     "pubDate": "Sat, 10 Oct 2026 17:42:28 GMT",
+     "summary": "Trump suggests Volodymyr Zelenskyy should be replaced after Ukraine’s leader criticised diesel deal with Moscow",
+     "source": "Financial Times",
+     "zh": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing"
     },
     {
      "title": "Flight disruptions growing after missile attack on Saudi airport",
@@ -2258,44 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "Elon Musk is now richer than any American ever — and it’s not even close"
     },
     {
-     "title": "第140届广交会周四开幕，第一期参展企业超1.2万家 共绘“新绿智”先进制造新图景",
-     "link": "http://finance.eastmoney.com/news/1355,202610113892006379.html",
-     "pubDate": "Sun, 11 Oct 2026 00:47:07 +0800",
-     "summary": "信息时报讯 （记者蔡晓素） 第140届广交会将于10月15日~11月4日分三期在广州举办。昨日，记者从广交会新闻中心获悉，第140届广交会第一期（10月15日~19日）以“先进制造”为主题，集中展示 电子 家电、工业自动化、照明电气、五金工具、 新能源 汽车 及智慧出行等5大板块19个展区前沿成果，打造链接全球的先进制造贸易盛会。展览总面积52万平方米，展位数量超2.5万个，吸引参展企业超1.2万家。 成果展示 打造数智创新展示高地 第一期展览题材设置紧扣“新、绿、智”发展趋势，聚焦 新能源 、智能制造、具身智能等全球采购热点，设置服务 机器人 、 无人机 、 显示技术 等17个新兴未来产业专",
-     "source": "东方财富股票",
-     "zh": "第140届广交会周四开幕，第一期参展企业超1.2万家 共绘“新绿智”先进制造新图景"
-    },
-    {
-     "title": "AI概念股分化加剧，如何甄别真正具备产业价值的AI企业？ 避开概念泡沫陷阱 是AI投资“必修课”",
-     "link": "http://stock.eastmoney.com/news/1405,202610113892006418.html",
-     "pubDate": "Sun, 11 Oct 2026 00:47:07 +0800",
-     "summary": "国庆假期后的第一个交易日，A股、港股的AI硬件公司均出现大幅调整，光 通信 、存储等概念跌幅居前。10月8日，A股“股王” 联讯仪器 盘中大跌超10%，单日市值缩水明显。 源杰科技 更是“20cm”跌停，股价跌破1300元关口。港股方面， 海光芯正 、 长飞光纤 、 中际旭创 、 剑桥科技 等多只个股跌5%以上。 曾经“遍地开花”的AI概念股接连回调，AI赛道还值得长期看好吗？对于普通投资者而言，在AI估值分化加剧的当下，如何甄别真正具备产业价值的AI企业，避开概念泡沫陷阱，是当下AI投资的“必修课”。 AI赛道监管收紧 “讲故事”“蹭概念”行不通 今年以来，AI产业正式进入商业化兑现周期，市",
-     "source": "东方财富股票",
-     "zh": "AI概念股分化加剧，如何甄别真正具备产业价值的AI企业？ 避开概念泡沫陷阱 是AI投资“必修课”"
-    },
-    {
-     "title": "企查查，撤回IPO",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892006147.html",
-     "pubDate": "Sun, 11 Oct 2026 00:36:31 +0800",
-     "summary": "10月9日，企业信息查询平台企查查科技股份有限公司（以下简称企查查）沪市主板IPO（首次公开募股）终止。上交所披露，企查查及保荐人 中信证券 申请撤回发行上市申请文件，上交所据此终止审核。 本次上市申请于2025年10月10日获受理，拟募资约15亿元，审核历时约一年。期间，公司披露首轮问询回复，并于今年3月将申报稿报告期更新至2025年。 最新招股书（申报稿，下同）显示，企查查2025年归母净利润约3.77亿元，毛利率超过九成，但新增付费用户连续两年减少。数据采集是否合法、个人信息处理是否需要本人同意、同类产品是否存在同质化问题，以及AI（ 人工智能 ）会否冲击商业模式，均被首轮问询关注。终止",
-     "source": "东方财富股票",
-     "zh": "企查查，撤回IPO"
-    },
-    {
      "title": "Philips investors’ move to probe company over 2021 recall denied by Dutch court",
      "link": "https://seekingalpha.com/news/4651909-philips-wins-dutch-court-battle-2021-recall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 10 Oct 2026 12:17:00 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Philips investors’ move to probe company over 2021 recall denied by Dutch court"
-    },
-    {
-     "title": "Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets",
-     "link": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1",
-     "pubDate": "Sat, 10 Oct 2026 16:07:40 GMT",
-     "summary": "Abhijeet Dipke was escorted off a flight in New Delhi as authorities crack down on demonstrations",
-     "source": "Financial Times",
-     "zh": "Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets"
     },
     {
      "title": "Real estate stocks outperform broader markets",
@@ -2354,36 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "效仿盗墓小说自学“摸金”盗掘东周古墓，主犯获刑12年"
     },
     {
-     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-     "pubDate": "Sat, 10 Oct 2026 15:05:00 GMT",
-     "summary": "“I presume these are sophisticated investors taking a profit.”",
-     "source": "MarketWatch",
-     "zh": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?"
-    },
-    {
      "title": "Insider trades: P&G, Marvell Technology, TSMC among notable names",
      "link": "https://seekingalpha.com/news/4651902-insider-trades-pg-marvell-technology-tsmc-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 10 Oct 2026 11:03:46 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Insider trades: P&G, Marvell Technology, TSMC among notable names"
-    },
-    {
-     "title": "JPMorgan makes bullish call in fixed income space, suggests it&apos;s a once in a generation opportunity",
-     "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-     "pubDate": "Sat, 10 Oct 2026 15:00:01 GMT",
-     "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
-     "source": "CNBC",
-     "zh": "JPMorgan makes bullish call in fixed income space, suggests it&apos;s a once in a generation opportunity"
-    },
-    {
-     "title": "Hospital group files lawsuit to stop 340B rebate pilot again",
-     "link": "https://seekingalpha.com/news/4651907-hospital-group-sues-stop-340b-rebate-pilot-again?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 10 Oct 2026 10:57:14 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hospital group files lawsuit to stop 340B rebate pilot again"
     },
     {
      "title": "以军空袭黎巴嫩致6人受伤",
@@ -2410,28 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "战略能力 再次成为中国汽车品牌向上的胜负手"
     },
     {
-     "title": "Notable analyst calls this week: Procter & Gamble, Palantir and SentinelOne among top picks",
-     "link": "https://seekingalpha.com/news/4651867-notable-analyst-calls-this-week-procter-and-gamble-palantir-and-sentinelone-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 10 Oct 2026 10:10:43 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Notable analyst calls this week: Procter & Gamble, Palantir and SentinelOne among top picks"
-    },
-    {
      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
      "link": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
      "pubDate": "Sat, 10 Oct 2026 13:42:36 GMT",
      "summary": "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. to buy Russian diesel amid a surge in fuel prices.",
      "source": "CNBC",
      "zh": "Putin relayed Iran war proposal to Trump, Kremlin says"
-    },
-    {
-     "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
-     "link": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
-     "pubDate": "Sat, 10 Oct 2026 13:32:58 GMT",
-     "summary": "Donald Trump’s administration delivered threat after Volodymyr Zelenskyy criticised diesel deal with Moscow",
-     "source": "Financial Times",
-     "zh": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing"
     },
     {
      "title": "Flu season is already here. Here’s what to know about this year’s flu shots.",
@@ -2464,6 +2456,14 @@ window.INDUSTRY_DATA = {
      "summary": "10月10日，中国工业和信息化部、公安部、生态环境部、市场监管总局联合发布征求意见稿，拟对汽车产品创新设计和研发测试验证实施全面强化管理。 征求意见稿明确提出， 禁止配备全隐藏式车门把手 ；灯光、雨刮、除霜除雾等关键驾驶安全功能在采用虚拟操纵件的同时， 必须保留实体操纵件 ； 折叠显示屏、柔性显示屏被明确禁止 ；行车时不得使用\"零重力\"座椅、旋转座椅或座椅放倒成床等功能。 在时间节点上， 自2027年1月1日起 ，涉及创新设计的新申报车型须提交额外技术参数及验证材料； 已获批车型须在2027年7月1日前 完成补充申报，逾期且存在安全隐患的车辆须立即停产并启动召回程序。 禁止全隐藏式门把手，关键",
      "source": "华尔街见闻",
      "zh": "四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件"
+    },
+    {
+     "title": "AI borrowing slows as investors grow wary of debt binge",
+     "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
+     "pubDate": "Sat, 10 Oct 2026 11:00:07 GMT",
+     "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
+     "source": "Financial Times",
+     "zh": "AI borrowing slows as investors grow wary of debt binge"
     }
    ]
   },

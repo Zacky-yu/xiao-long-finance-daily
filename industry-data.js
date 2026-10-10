@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 11:32:02",
+ "generated_at": "2026/10/10 11:52:03",
  "recent_days": 7,
  "industries": [
   {
@@ -282,36 +282,12 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
-     "title": "Defence satcom revenues to surpass $23bn by 2035",
-     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
-     "source": "Electronics Weekly",
-     "zh": "Defence satcom revenues to surpass $23bn by 2035"
-    },
-    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
-    },
-    {
-     "title": "Axiom Space highlights space computing progress",
-     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
-     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
-     "source": "Electronics Weekly",
-     "zh": "Axiom Space highlights space computing progress"
-    },
-    {
-     "title": "The Single-Chip PC",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
-     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -328,30 +304,6 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
-    },
-    {
-     "title": "Failure analysis in the era of 3D integration",
-     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
-     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Failure analysis in the era of 3D integration"
-    },
-    {
-     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
-     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
-     "source": "Electronics Weekly",
-     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
-    },
-    {
-     "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:04:25 +0000",
-     "summary": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Robotaxi growth, Arm Qualcomm battle"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
+    },
+    {
+     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
+     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
+     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
+     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
+    },
+    {
+     "title": "Shift Left Complicates Fab Data Management",
+     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
+     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
+     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Shift Left Complicates Fab Data Management"
+    },
+    {
+     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
+     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -1730,6 +1730,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "威刚 XPG 龙耀 D600G 内存模组上市：无限镜光效，16GB×2 套条 5499 元",
+     "link": "https://www.ithome.com/1/011/311.htm",
+     "pubDate": "Sat, 10 Oct 2026 03:44:54 GMT",
+     "summary": "IT之家 10 月 10 日消息，威刚 (ADATA) 现已在中国大陆市场销售旗下电竞品牌 XPG 的龙耀 D600G 内存模组。这一产品在全球市场的称呼是 NOVAKEY RGB DDR5 ，拥有独特的无限镜面光学效果。 龙耀 D600G 当前市售型号为采用 SK 海力士 \"A Die\" DRAM 的 32GB (16GB×2) 套条 ， 传输速率 6000MT/s ， 时序 CL26 ，价格方面则是 5,499 元。 京东 XPG D600G 内存 16GB×2 6000CL26 5499 元 直达链接 龙耀 D600G 采用 10 层 PCB，搭配未锁定电压上限的 PMIC 芯片，支持 ",
+     "source": "IT之家",
+     "zh": "威刚 XPG 龙耀 D600G 内存模组上市：无限镜光效，16GB×2 套条 5499 元"
+    },
+    {
+     "title": "暴涨的油轮运费，美以伊战争中最疯狂的行业",
+     "link": "https://www.huxiu.com/article/4896368.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 11:42:38 +0800",
+     "summary": "本文来自微信公众号： 全说能源 ，作者：全说能源 暴涨的油轮运费，美以伊战争中最疯狂的行业 海峡受阻，VLCC运费从每天约10万涨破100万再涨至140万美元，分别用时约9个月和不到1个月，石油进口国成最大受害者日本最为典型。 王能全 进入第8个月美国与伊朗之间打打停停的战争，刺激石油天然气等能源价格大涨，严重冲击了世界经济和各国百姓的生活，其中油轮运费无论是上涨的绝对数字还是涨幅都大大高于石油价格，成为2026年能源领域最疯狂的行业，油运费用已超过石油进口总成本五分之一以上，能源和石油进口国都成了这场战争的受害者，其中日本最为典型。 从每天约10万到涨破100万美元，用时约9个月 作为全球交",
+     "source": "虎嗅",
+     "zh": "暴涨的油轮运费，美以伊战争中最疯狂的行业"
+    },
+    {
+     "title": "谷歌发布安卓 17 QPR2 Beta 7 更新：修复待机耗电与 HTTPS 下载故障",
+     "link": "https://www.ithome.com/1/011/308.htm",
+     "pubDate": "Sat, 10 Oct 2026 03:38:05 GMT",
+     "summary": "IT之家 10 月 10 日消息，谷歌已推送安卓 17 QPR2 Beta 7 更新， 修复 Pixel 手机待机耗电故障，并解决系统 HTTPS 文件下载失败问题。 IT之家援引博文介绍，本次更新版本号为 CP41.260831.016，安全补丁级别为 2026 年 10 月 5 日 ， 覆盖 Pixel 6a 及后续多代设备，不过 Pixel 6 和 Pixel 6 Pro 不在支持名单内。已安装 Beta 6.1 的用户可通过 Android Beta Program 获取更新，也可使用系统镜像侧载升级。 第一项修复针对“倒扣手机即可设为勿扰”（Flip to Shh）触发的待机耗电问题",
+     "source": "IT之家",
+     "zh": "谷歌发布安卓 17 QPR2 Beta 7 更新：修复待机耗电与 HTTPS 下载故障"
+    },
+    {
+     "title": "美图公司大起大落",
+     "link": "https://www.huxiu.com/article/4896367.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 11:37:49 +0800",
+     "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：老鱼儿，原文标题：《美图公司大起大落｜巨潮》 2026年，美图公司的股价，再次上演了一轮熟悉的大起大落。回望2026年初，美图股价一度站上9港元上方，而到如今股价已回落至4港元附近，相比高点跌幅已经超过50%。 短短一年时间，市场情绪完成一轮从追捧到谨慎的快速切换。 这已经不是美图第一次经历这样剧烈的波动，翻开其股价曲线，起起伏伏早成常态。 它能从上市之初的8港元四个月猛涨至最高超过21港元，也能在5年后，让自己的股价跌至仅为0.599港元。在濒临绝境之地，它又能在3年间涨至12港元，也能很快再从高点跌超三分之二直至如今。 股价起落背后",
+     "source": "虎嗅",
+     "zh": "美图公司大起大落"
+    },
+    {
+     "title": "模型还在加速，世界如何跟上？",
+     "link": "https://www.huxiu.com/article/4896366.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 11:33:17 +0800",
+     "summary": "本文来自微信公众号： 划重点KeyPoints ，作者：冯瑶，原文标题：《模型还在加速，世界如何跟上？｜北美AI访谈手记》，头图来自：AI生成 这趟行程密度很大，后劲很足，回到上海后满脑子还是15天里的各种画面： 一边，有Frontier Lab研究员波澜不惊地向我描述他的日常：&ldquo;我的工作主要就是监督和鼓励我的1万个agent。&rdquo;有数学博士对我说：&ldquo;数学已经死了。&rdquo; 在Mountain View的Red Rock Coffee里，连续几天见的多位&ldquo;天才少年&rdquo;都坚定表示&ldquo;一定会创业&rdquo;，也有不到30岁的",
+     "source": "虎嗅",
+     "zh": "模型还在加速，世界如何跟上？"
+    },
+    {
+     "title": "比亚迪腾势 N8 三大全新车色“极光绿”“深空蓝”“日光橙”公布",
+     "link": "https://www.ithome.com/1/011/300.htm",
+     "pubDate": "Sat, 10 Oct 2026 03:32:46 GMT",
+     "summary": "IT之家 10 月 10 日消息，比亚迪腾势汽车今日公布了腾势 N8 三大全新车色“极光绿”“深空蓝”“日光橙”。 腾势 N8 定位 大五座纯电 SUV ，新车长 5150 mm、宽 1999 mm、高 1820 mm，轴距 3075 mm；搭载第二代刀片电池及闪充技术，纯电续航可达 1003km。 工信部申报信息显示 ，腾势 N8 有单电机版（320kw）、高性能单电机版（370kw）和三电机版（270/310/310kw）三个版本可选。 据IT之家此前报道， 腾势 N8 全新一代内饰及智能座舱已经公布 ，全球首发「天际屏 + 巨幕屏」智能座舱（1.1 米超长 PHUD 天际屏 + 30 英",
+     "source": "IT之家",
+     "zh": "比亚迪腾势 N8 三大全新车色“极光绿”“深空蓝”“日光橙”公布"
+    },
+    {
+     "title": "提前还贷潮又来了：有人在还，也有人在悄悄撤回",
+     "link": "https://www.huxiu.com/article/4896363.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 11:30:18 +0800",
+     "summary": "本文来自微信公众号： 显微故事 ，编辑：卓然，作者：显微故事编辑部 在当下这个时代，普通人能做的最有底气的事情，或许就是有一笔相对充裕的现金，能提前还掉一部分贷款。 据央行数据，2026年4月，全国住户中长期贷款单月净偿还3408亿元，创下历史新高。到2026年二季度末，个人住房贷款余额36.29万亿元，同比下降3.8%，已连续13个季度负增长。 有人把年终奖和孩子压岁钱凑成八万多还了进去，起因是同事去年结清省下十来万利息； 有人还了三万，月供少了两百多，她说不清省多少，但每个月账单轻一点，心里就松一点； 有人一年还了四次、每次十万以上，只选缩短年限，\"提前还贷真的会上瘾\"。 还有人把陆续到期",
+     "source": "虎嗅",
+     "zh": "提前还贷潮又来了：有人在还，也有人在悄悄撤回"
+    },
+    {
+     "title": "Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions (Tim Fernholz/TechCrunch)",
+     "link": "https://www.techmeme.com/261009/p35#a261009p35",
+     "pubDate": "Fri, 09 Oct 2026 23:30:01 -0400",
+     "summary": "Tim Fernholz / TechCrunch : Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions &nbsp; &mdash;&nbsp; Anthropic said its models exploited websites on the internet, including some run by U.S. g",
+     "source": "Techmeme",
+     "zh": "Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions (Tim Fernholz/TechCrunch)"
+    },
+    {
      "title": "成立一支AI 蓝军，向你的公司发起进攻",
      "link": "https://www.huxiu.com/article/4896362.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 11:28:22 +0800",
@@ -1770,22 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "把够用的智能做成一门生意"
     },
     {
-     "title": "消息称数据中心 CPU 初创企业 NUVACORE 以约 25 亿美元估值融资",
-     "link": "https://www.ithome.com/1/011/289.htm",
-     "pubDate": "Sat, 10 Oct 2026 03:12:00 GMT",
-     "summary": "IT之家 10 月 10 日消息，路透社当地时间昨日报道称，由前苹果与 NUVIA 芯片设计领军人才创立的数据中心 CPU 初创企业 NUVACORE 正以约 25 亿美元 （IT之家注：现汇率约合 167.66 亿元人民币） 的估值筹集资金。 The Information 今年早些时候曾表示 NUVACORE 已得到了至少 2 亿美元 （现汇率约合 13.41 亿元人民币） 的支持。 消息人士称，NUVACORE 的本轮融资仍在进行中，最终的估值和规模可能会发生变化。 NUVACORE 采用了 CPU 核心 IP 优先的模式， 将指令集实现放在设计流程的较后位置 。其芯片设计 聚焦人工智能",
-     "source": "IT之家",
-     "zh": "消息称数据中心 CPU 初创企业 NUVACORE 以约 25 亿美元估值融资"
-    },
-    {
-     "title": "奇瑞捷途全新旅行者 7 官宣 10 月 14 日上市，预售价 14.99 万元起",
-     "link": "https://www.ithome.com/1/011/288.htm",
-     "pubDate": "Sat, 10 Oct 2026 03:10:24 GMT",
-     "summary": "IT之家 10 月 10 日消息，奇瑞汽车执行副总裁李学用今日宣布，捷途全新旅行者 7 将于 10 月 14 日 在北京全球上市。 据IT之家此前报道， 捷途全新旅行者 7 已于 9 月 23 日开启预售 ，共提供 7 款车型，预售价 14.99-17.99 万元。动力方面，该车提供 1.5T 汽油、2.0T 汽油以及 1.5T 插混三种可选。 新车的长宽高分别为 4827mm、2006mm 和 1875mm，轴距 2800mm。捷途全新旅行者 7 保留了外挂式储物箱（俗称“小书包”），并采用侧开式尾门。尾灯组内部经过熏黑处理。 新车提供搭载猎鹰 500 高阶智能辅助驾驶系统，基于地平线征程 ",
-     "source": "IT之家",
-     "zh": "奇瑞捷途全新旅行者 7 官宣 10 月 14 日上市，预售价 14.99 万元起"
-    },
-    {
      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
      "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
      "pubDate": "Sat, 10 Oct 2026 03:10:06 +0000",
@@ -1794,52 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "Elon Musk intensifies attack on Ambani over Starlink India launch delay"
     },
     {
-     "title": "数毛社：索尼 PS5 超分技术 QSSR 存适配挑战，旧作游戏支持范围仍待确认",
-     "link": "https://www.ithome.com/1/011/287.htm",
-     "pubDate": "Sat, 10 Oct 2026 03:07:22 GMT",
-     "summary": "IT之家 10 月 10 日消息，数毛社（Digital Foundry）昨日（10 月 9 日）发布视频， 指出适用于 PlayStation 5 标准版的 AI 超分技术 QSSR 能否适配已发售游戏，仍受 SDK 版本限制。 IT之家曾于 10 月 2 日报道，索尼面向标准版 PlayStation 5 游戏主机，推出快速光谱超分辨率（Quick Spectral Super Resolution，QSSR），和索尼 PlayStation 5 Pro 上使用的 PSSR 类似，可以提升输出画面的清晰度。 索尼互动娱乐（SIE）图形研发首席工程师 Daniel Craig 此前称，只需少",
-     "source": "IT之家",
-     "zh": "数毛社：索尼 PS5 超分技术 QSSR 存适配挑战，旧作游戏支持范围仍待确认"
-    },
-    {
-     "title": "“返工第一场调休，我被“不烧心文学”拯救了”",
-     "link": "https://www.huxiu.com/article/4896356.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 11:03:57 +0800",
-     "summary": "本文来自微信公众号： 凤凰WEEKLY ，作者：王动，题图来自：视觉中国 国庆回来第一个调休上班日，办公室集体染上了一种病：烧心。 吃饭说烧心，干活说烧心，连同事间随便聊两句，最后也能拐到烧心。 问工作进度，对方不紧不慢：&ldquo;先把规矩立住。&rdquo; 催得急了，还有一句等着你：&ldquo;不是不做，是慢慢做，做急了容易烧心。&rdquo; 放个假回来，活没少，人均多了一套祖传经营理念。 再打开互联网一看，上班的、上学的、点外卖的、谈恋爱的，都在立规矩、防烧心。 几乎是一夜之间，全网都进入了大烧心时代。 全人类，严肃进入大烧心时代 虽然大家玩梗玩得风生水起，但烧心到底是个什么感觉",
-     "source": "虎嗅",
-     "zh": "“返工第一场调休，我被“不烧心文学”拯救了”"
-    },
-    {
-     "title": "最会过日子的年轻人，开始让陌生网友审批花钱",
-     "link": "https://www.huxiu.com/article/4896357.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 10:52:06 +0800",
-     "summary": "本文来自微信公众号： 新周刊 ，作者：忞忞一，编辑：L “填写价格、购买理由和替代品，本身就是一种很短暂的自我审视。写购买理由的时候，你必须回答自己，到底为什么需要它；写替代品的时候，又会提醒自己，是不是已经有类似的东西，或者有没有成本更低的解决办法。很多时候，申请还没有提交，冲动已经消退了一半。” 换季时节，衣柜总会迎来新一轮“扩容危机”。最近，刘伽就看上了一条裤子，她已经在脑海里想好了一整套OOTD：配上刚买的新毛衣，应该会成为秋冬衣橱里的常驻单品。 不过，搬家时整理衣物的经历，让她直观地感受到自己的购买欲有多旺盛。那天之后，她给自己定了一条规则：不要再冲动消费。可就像在夜跑时遇上烧烤，规",
-     "source": "虎嗅",
-     "zh": "最会过日子的年轻人，开始让陌生网友审批花钱"
-    },
-    {
-     "title": "养得起父母，却担心没人养我",
-     "link": "https://www.huxiu.com/article/4896355.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 10:50:10 +0800",
-     "summary": "本文来自微信公众号： 三毛的一二事 ，作者：三毛的一二事 昨天看到一条新闻，心里充满久久的无奈与无力。 日本一位75岁的女儿，在照顾105岁母亲长达12年后，最终用一根绳子结束了母亲的生命。案发后她没有逃跑，主动报了警。面对警方询问，她说了一句话：“我已经照顾不动她了。” 12年。从63岁照顾到75岁，一个本该被人照顾的年纪，却还在照顾一个更老的人。这不是什么骇人听闻的极端个案，日本把这种现象叫做“老老介护”——年老的子女照顾更年老的父母。仅2006年到2024年，日本就有至少486名65岁以上的老人，死在了负责照护他们的家人手里。 说实话，我第一反应是同情那位女儿。 然后忍不住往下想——我会",
-     "source": "虎嗅",
-     "zh": "养得起父母，却担心没人养我"
-    },
-    {
      "title": "Cloudflare debuts Clef-omni, supporting audio and video input alongside text and image, makes Clef up to 2x faster, and dramatically cuts Clef-flash pricing (Cloudflare)",
      "link": "https://www.techmeme.com/261009/p34#a261009p34",
      "pubDate": "Fri, 09 Oct 2026 22:40:00 -0400",
      "summary": "Cloudflare : Cloudflare debuts Clef-omni, supporting audio and video input alongside text and image, makes Clef up to 2x faster, and dramatically cuts Clef-flash pricing &nbsp; &mdash;&nbsp; Following last week's release of Clef and Clef-flash, Cloudflare's open-weight decision models, we decided to",
      "source": "Techmeme",
      "zh": "Cloudflare debuts Clef-omni, supporting audio and video input alongside text and image, makes Clef up to 2x faster, and dramatically cuts Clef-flash pricing (Cloudflare)"
-    },
-    {
-     "title": "2026年小天才崩投资人实操指南",
-     "link": "https://www.huxiu.com/article/4896337.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 10:28:25 +0800",
-     "summary": "本文来自微信公众号： 硅基阿姨了我 ，作者：小古，题图来自：视觉中国 为什么2026年的一级市场，突然需要这么多&ldquo;小天才&rdquo;？ 是资本市场正在重新发明一套估值和定价体系。 以前投资人喜欢连续创业者、大厂高管、行业老兵，强调管理经验、商业履历和资源整合能力。现在喜欢名校博士、竞赛冠军、开源项目贡献者，最好还没毕业。 创业者的年龄越来越小，融资金额越来越大，投资决策越来越快。 但技术能力的提升，和创业成功概率的提升，是两件完全不同的事。 更值得玩味的是，投资人一边强调长期主义，一边30分钟决定投资；一边强调独立判断，一边害怕别人先投进去。 一、博士可以不毕业，估值必须先毕业 ",
-     "source": "虎嗅",
-     "zh": "2026年小天才崩投资人实操指南"
     },
     {
      "title": "盗火者的新火种：EOA 范式下，中国一汽点燃企业智能体生命力",
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "REA Reverse – Engineer Anything",
      "link": "https://rea.tools/",
      "pubDate": "Sat, 10 Oct 2026 00:37:07 +0000",
-     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 149 # Comments: 30",
+     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 159 # Comments: 38",
      "source": "Hacker News",
      "zh": "REA Reverse – Engineer Anything"
     },
@@ -1917,17 +1925,9 @@ window.INDUSTRY_DATA = {
      "title": "Has the Autonomous Trucking Revolution Arrived?",
      "link": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
      "pubDate": "Fri, 09 Oct 2026 23:57:12 +0000",
-     "summary": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 11 # Comments: 11",
+     "summary": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 12 # Comments: 11",
      "source": "Hacker News",
      "zh": "Has the Autonomous Trucking Revolution Arrived?"
-    },
-    {
-     "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
-     "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
-     "pubDate": "Fri, 09 Oct 2026 23:56:55 +0000",
-     "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/ Comments URL: https://news.ycombinator.com/item?id=50028059 Points: 79 # Comments: 31",
-     "source": "Hacker News",
-     "zh": "11 of 23 Core Open Source Projects Run on 1 or 2 People"
     },
     {
      "title": "Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams (Katharine Schwab/Forbes)",
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Compiling Rust to readable C with Eurydice",
      "link": "https://lwn.net/Articles/1055211/",
      "pubDate": "Fri, 09 Oct 2026 23:28:36 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 34 # Comments: 2",
+     "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 37 # Comments: 3",
      "source": "Hacker News",
      "zh": "Compiling Rust to readable C with Eurydice"
     },
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Rewriting Prime Agent in Rust",
      "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
      "pubDate": "Fri, 09 Oct 2026 23:06:25 +0000",
-     "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust Comments URL: https://news.ycombinator.com/item?id=50027694 Points: 29 # Comments: 9",
+     "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust Comments URL: https://news.ycombinator.com/item?id=50027694 Points: 30 # Comments: 10",
      "source": "Hacker News",
      "zh": "Rewriting Prime Agent in Rust"
     }
@@ -2226,6 +2226,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "8个月亏损超20亿元 广西9家央企售电公司紧急联名求救",
+     "link": "http://finance.eastmoney.com/news/1355,202610103891870616.html",
+     "pubDate": "Sat, 10 Oct 2026 11:40:14 +0800",
+     "summary": "近日，一份由9家央企下属售电公司联合递交的紧急请示文件引发市场关注。文件显示，2026年1—8月，广西售电行业累计亏损超过20亿元，9月单月预计亏损超10亿元，若形势得不到有效遏制，全年行业亏损总额或将突破50亿元，头部单个售电公司年亏损超10亿元。 据第一财经报道，这份名为《关于请求采取紧急措施防范广西 电力 市场系统性风险的请示》的文件，由9家央企下属售电公司于9月30日联合递交。 联署企业包括广西国能 综合 能源服务有限公司、广西国开能源销售有限公司、 华润电力 （广西）销售有限公司、广西大唐 桂冠电力 营销有限公司、华能 广西能源 销售有限责任公司、广西中广核合同能源管理有限公司、中电",
+     "source": "东方财富股票",
+     "zh": "8个月亏损超20亿元 广西9家央企售电公司紧急联名求救"
+    },
+    {
+     "title": "龙源电力：上半年新增新能源控股装机容量39.73万千瓦",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891873082.html",
+     "pubDate": "Sat, 10 Oct 2026 11:38:00 +0800",
+     "summary": "南财智讯10月10日电， 龙源电力 在投资者关系活动中表示，2026年上半年，公司新增 新能源 控股装机容量39.73万千瓦，其中新增风电控股装机容量34.1万千瓦、 太阳能 控股装机容量5.63万千瓦。截至2026年6月30日，公司总控股装机容量为4639.16万千瓦，其中风电3248.83万千瓦， 太阳能 1389.71万千瓦，其他可再生能源0.61万千瓦。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "龙源电力：上半年新增新能源控股装机容量39.73万千瓦"
+    },
+    {
+     "title": "总罚没超1.2亿 双汇发展致歉“抗生素超标事件”并启动6项整改措施",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891872050.html",
+     "pubDate": "Sat, 10 Oct 2026 11:37:28 +0800",
+     "summary": "4个多月前涉及 双汇发展 的“抗生素超标事件”迎来最新进展。 10月9日晚间， 双汇发展 发布公告提到，因子公司望奎双汇 北大荒 食品有限公司（以下简称“望奎双汇”）涉及“猪后鞧肉”林可霉素残留超标事宜，公司及公司相关董事、高级管理人员以及望奎双汇收到行政处罚决定书，总罚没金额超1.2亿元。波及高管包括 双汇发展 董事长万宏伟、总裁马相杰、副总裁乔海莉以及总工程师王玉芬等人。 《中国经营报》记者注意到，望奎县农业农村局和漯河市市场监督管理局分别向望奎双汇和双汇发展出具《行政处罚决定书》。 双汇发展在公告中透露，2025年8月28日，长春海关技术中心在黑龙江省市场监督管理局组织的 食品安全 监督",
+     "source": "东方财富股票",
+     "zh": "总罚没超1.2亿 双汇发展致歉“抗生素超标事件”并启动6项整改措施"
+    },
+    {
+     "title": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
+     "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
+     "pubDate": "Sat, 10 Oct 2026 03:37:15 GMT",
+     "summary": "First major Atlantic storm of the season threatens Florida, Alabama, Georgia and Mississippi",
+     "source": "Financial Times",
+     "zh": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf"
+    },
+    {
+     "title": "【新华解读】买基金的朋友注意了，公募基金规则迎来一次大更新",
+     "link": "http://fund.eastmoney.com/news/11246,202610103891871553.html",
+     "pubDate": "Sat, 10 Oct 2026 11:35:25 +0800",
+     "summary": "新华财经北京10月10日电（记者刘玉龙、翟卓）10月9日，中国证监会就《公开募集证券投资基金运作管理办法（征求意见稿）》（以下简称《运作办法》）及配套规则公开征求意见。这是公募基金规则时隔12年迎来的一次系统性变革。本次修订拟降低权益类基金等成立门槛、优化指数基金监管、完善“迷你基金”管理要求等，相关举措着力推动公募基金行业回归“受人之托、代客理财”的本源，努力提升投资者的获得感。 本次修订关系到超8.6亿基金投资人的切身利益，我们划了五个亮点。 第一，权益类基金成立门槛大幅降低。 股票基金、混合基金、基金中基金（FOF）等，成立门槛从规模2亿元、份额2亿份，分别降到5000万元、5000万份",
+     "source": "东方财富股票",
+     "zh": "【新华解读】买基金的朋友注意了，公募基金规则迎来一次大更新"
+    },
+    {
+     "title": "龙源电力：9月完成发电量56.67亿千瓦时，同比增长7.08%",
+     "link": "http://stock.eastmoney.com/news/11219,202610103891871946.html",
+     "pubDate": "Sat, 10 Oct 2026 11:35:00 +0800",
+     "summary": "南财智讯10月10日电， 龙源电力 在投资者关系活动中表示，公司2026年9月完成发电量56.67亿千瓦时，同比增长7.08%，其中风电发电量同比增长3.20%， 太阳能 发电量同比增长20.21%。截至2026年9月30日，公司今年累计完成发电量562.50亿千瓦时，同比下降0.52%，其中风电发电量同比下降4.97%， 太阳能 发电量同比增长19.29%。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "龙源电力：9月完成发电量56.67亿千瓦时，同比增长7.08%"
+    },
+    {
+     "title": "泰国证交所修订卖空和高频交易规则",
+     "link": "http://global.eastmoney.com/news/1959,202610103891872178.html",
+     "pubDate": "Sat, 10 Oct 2026 11:34:59 +0800",
+     "summary": "泰国证券交易所将从11月16日起实施修订后的规则，包括对卖空和高频交易的调整，以寻求改善市场稳定性、流动性和投资者信心。交易所将允许价格在5-50泰铢之间的股票以更小的价格变动单位交易，此举旨在收窄买卖价差并降低交易成本。交易所还将把卖空限制在流动性更高的证券上，包括SET100指数成分股、个股 期货 标的证券、存托凭证和ETF。根据新规，投资者将被允许以等于或高于最新成交价的价格卖空证券。泰国证券交易所还将对提交大量订单但实际成交相对较少的账户收取额外费用。为降低交易门槛，该交易所将取消针对个别证券的动态价格波动限制；放宽对高频交易者买卖标的的限制；取消最低挂单时间要求，以提高订单管理效率。",
+     "source": "东方财富股票",
+     "zh": "泰国证交所修订卖空和高频交易规则"
+    },
+    {
      "title": "全国铁路10月10日起实行新的货物列车运行图",
      "link": "http://www.eeo.com.cn/2026/1010/1059459.shtml",
      "pubDate": "Sat, 10 Oct 2026 11:23:41 +0800",
@@ -2234,60 +2290,12 @@ window.INDUSTRY_DATA = {
      "zh": "全国铁路10月10日起实行新的货物列车运行图"
     },
     {
-     "title": "韩国一超市天花板坍塌数十人受伤",
-     "link": "http://finance.eastmoney.com/news/11790,202610103891868168.html",
-     "pubDate": "Sat, 10 Oct 2026 11:20:40 +0800",
-     "summary": "据韩国消防部门今天（10月10日）通报，位于韩国大邱市北区的一家 超市 当天上午发生天花板部分坍塌事故。消防部门初步统计称，有36人受轻伤，其中9人已被送往 医院 ，另有66人被疏散。（CCTV国际时讯） （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "韩国一超市天花板坍塌数十人受伤"
-    },
-    {
-     "title": "上海蚂蚁灵波科技有限公司增资至1.2亿 增幅20%",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891867714.html",
-     "pubDate": "Sat, 10 Oct 2026 11:18:40 +0800",
-     "summary": "天眼查App显示，近日，上海蚂蚁灵波科技有限公司发生工商变更，新增上海灵启共创企业管理合伙企业（有限合伙）、上海灵翼共创企业管理合伙企业（有限合伙）为股东，同时，注册资本由1亿元人民币增至1.2亿元人民币，增幅20%。该公司成立于2024年12月，法定代表人为朱兴，经营范围含技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广等。股东信息显示，该公司由蚂蚁智能（杭州）科技有限公司及上述新增股东共同持股。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "上海蚂蚁灵波科技有限公司增资至1.2亿 增幅20%"
-    },
-    {
-     "title": "【财经分析】英伟达股价连日回调 美股AI泡沫论演化之路怎么看？",
-     "link": "http://finance.eastmoney.com/news/1360,202610103891867664.html",
-     "pubDate": "Sat, 10 Oct 2026 11:18:24 +0800",
-     "summary": "2026年10月以来，市场对“AI泡沫临近破裂”的讨论快速升温， 英伟达 股价连续四个交易日回调，截至美股9日收盘，自高点下跌5.8%，收至每股229.28美元。从年初的AI算力供不应求，到年中机构集体预警风险，本轮AI行情的多空博弈已经进入全新阶段。作为全球市值第一的科技企业， 英伟达 的业绩表现、资本动作与信用风险，是直接决定整个美股科技板块估值体系的核心变量，并通过“达链”订单预期影响A股科技股的估值。 英伟达 是本轮AI行情的绝对核心锚点 在美股科技七巨头中，英伟达是当前最值得关注的财报标的，它的业绩与指引直接决定整个科技板块的估值逻辑，其市场地位与影响力已经远超其他六家巨头。 截至2",
-     "source": "东方财富股票",
-     "zh": "【财经分析】英伟达股价连日回调 美股AI泡沫论演化之路怎么看？"
-    },
-    {
-     "title": "统一涨价10%！光刻机巨头上调在韩零部件报价 三星、SK海力士已“买单”",
-     "link": "http://finance.eastmoney.com/news/1355,202610103891867847.html",
-     "pubDate": "Sat, 10 Oct 2026 11:16:14 +0800",
-     "summary": "全球最大的 半导体 设备供应商ASML（ 阿斯麦 ）又一涨价措施落地。 据韩媒今日消息， 阿斯麦 将统一上调在韩国供应的设备替换零部件价格，涨幅10%。新价格将从明年1月起生效，本次涨价范围涵盖EUV及DUV 光刻机 的全部零部件 。 上月月初， 阿斯麦 总部已通过韩国分公司向 三星 电子 与 SK海力士 发出了上述涨价意向，之后经过与这两家客户采购部门协商，最终敲定涨价方案。 光刻机 中含有大量种类繁多的零部件， 这次涨价既包含需要定期采购的耗材，也涉及机械故障或性能下降时需要更换的主要零部件 ，阿斯麦涨价后，设备运营成本必将上升。 值得注意的是， 在此之前，阿斯麦通常只在原材料大幅涨价或某",
-     "source": "东方财富股票",
-     "zh": "统一涨价10%！光刻机巨头上调在韩零部件报价 三星、SK海力士已“买单”"
-    },
-    {
      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
      "pubDate": "Sat, 10 Oct 2026 03:15:00 GMT",
      "summary": "“I presume these are sophisticated investors taking a profit.”",
      "source": "MarketWatch",
      "zh": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?"
-    },
-    {
-     "title": "分众收购新潮获反垄断审查通过：价格承诺与开放合作为市场注入确定性",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891867036.html",
-     "pubDate": "Sat, 10 Oct 2026 11:14:21 +0800",
-     "summary": "10月10日，市场监管总局发布公告，经依法审查，附加限制性条件批准 分众传媒 收购新潮 传媒 股权案。此次获批，标志着备受市场关注的梯媒行业整合取得重要进展。 今年市场监管总局等六部门发布的《关于大力促进新时代广告产业高质量发展的意见》，明确提出支持户外广告数字化、智能化、场景化发展，鼓励有条件的广告企业整合全产业链资源、培育具有国际竞争力的领军企业。这为本次交易的监管方向提供了清晰的产业政策背景。 分众传媒 表示，公司将依法合规推进本次交易，重点围绕价格稳定、公平服务等展开，在释放行业整合效率的同时，持续保障广告主、点位资源持有方及其他市场经营主体的合法权益。 规模与责任并重：以更严格约束维",
-     "source": "东方财富股票",
-     "zh": "分众收购新潮获反垄断审查通过：价格承诺与开放合作为市场注入确定性"
-    },
-    {
-     "title": "在篆刻作品中感受南北古城中轴营建智慧",
-     "link": "http://finance.eastmoney.com/news/11790,202610103891867317.html",
-     "pubDate": "Sat, 10 Oct 2026 11:14:20 +0800",
-     "summary": "“印记北京中轴线——大众篆刻作品展”昨天在南京市六朝博物馆开幕。展览将北京中轴线绵延7.8公里、存续七百余年的城市脊梁与南京六朝古都的历史轴线凝于方寸之间，共展出229枚大众篆刻作品。展览将持续至今年12月15日。 展览包含两个部分。第一部分聚焦北京中轴线，展示从永定门到钟鼓楼15个核心遗产点的人文景观、建筑布局和历史文化价值。北京中轴线肇始于元，成型于明，完善于清，发展于近现代，距今已有750余年，全长约7.8公里，是中国古代都城营建思想的巅峰杰作。 近年来，南京市规划资源局开展了《南京历史轴线城市设计》工作，系统梳理南京历代都城空间演变进程，提炼概括出以“三轴一线”为中心的南京城市历史轴线",
-     "source": "东方财富股票",
-     "zh": "在篆刻作品中感受南北古城中轴营建智慧"
     },
     {
      "title": "北京警方通报：3人为发泄情绪对国乒教练员辱骂被行拘",
@@ -2456,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Gold snaps two-week losing streak; some analysts say may have found bottom"
-    },
-    {
-     "title": "Why OpenAI’s revenue numbers really matter",
-     "link": "https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 21:48:14 GMT",
-     "summary": "Vague figures may lay the groundwork for inflated valuations when much-hyped companies finally go public",
-     "source": "Financial Times",
-     "zh": "Why OpenAI’s revenue numbers really matter"
     }
    ]
   },

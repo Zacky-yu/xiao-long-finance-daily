@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 12:32:01",
+ "generated_at": "2026/10/10 12:52:01",
  "recent_days": 7,
  "industries": [
   {
@@ -930,12 +930,12 @@ window.INDUSTRY_DATA = {
      "zh": "Poly pricing and potential expansion"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -949,7 +949,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1730,6 +1730,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "苹果的新生意：把不侵犯隐私的AI 硬件卖给你",
+     "link": "https://www.huxiu.com/article/4896380.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 12:29:20 +0800",
+     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《苹果的新生意：把不侵犯隐私的 AI 硬件卖给你》 一句「欢迎回家」，苹果为10月13日的神秘新品活动埋下了伏笔。 一个「Home」，似乎暗示了这场活动的主角。正如我们此前的报道，这一次，苹果可能要往我们家里添不少新东西。 在这些硬件的新品身后，苹果也正试图让AI真正走进家庭，让Siri AI成为整个智能家居的「大脑」。 当一向强调隐私保护的苹果，遇上需要主动感知周围环境的AI，苹果在AI时代的隐私策略，或许比即将亮相的新品更加耐人寻味。 也就在几天前，一则关于苹果新设备的爆料，恰好揭示了一种颇为反常识的产品思路： ",
+     "source": "虎嗅",
+     "zh": "苹果的新生意：把不侵犯隐私的AI 硬件卖给你"
+    },
+    {
      "title": "坑爹的银行AI客服，目的就是阻止你转人工",
      "link": "https://www.huxiu.com/article/4896379.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 12:28:32 +0800",
@@ -1826,18 +1834,10 @@ window.INDUSTRY_DATA = {
      "zh": "雷蛇猎魂光蛛 V3 专业迷你版 8KHZ 光轴键盘上市，1499 元"
     },
     {
-     "title": "暴涨的油轮运费，美以伊战争中最疯狂的行业",
-     "link": "https://www.huxiu.com/article/4896368.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 11:42:38 +0800",
-     "summary": "本文来自微信公众号： 全说能源 ，作者：全说能源 暴涨的油轮运费，美以伊战争中最疯狂的行业 海峡受阻，VLCC运费从每天约10万涨破100万再涨至140万美元，分别用时约9个月和不到1个月，石油进口国成最大受害者日本最为典型。 王能全 进入第8个月美国与伊朗之间打打停停的战争，刺激石油天然气等能源价格大涨，严重冲击了世界经济和各国百姓的生活，其中油轮运费无论是上涨的绝对数字还是涨幅都大大高于石油价格，成为2026年能源领域最疯狂的行业，油运费用已超过石油进口总成本五分之一以上，能源和石油进口国都成了这场战争的受害者，其中日本最为典型。 从每天约10万到涨破100万美元，用时约9个月 作为全球交",
-     "source": "虎嗅",
-     "zh": "暴涨的油轮运费，美以伊战争中最疯狂的行业"
-    },
-    {
      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
      "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
      "pubDate": "Sat, 10 Oct 2026 03:42:11 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=50029330 Points: 6 # Comments: 3",
+     "summary": "Article URL: https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html Comments URL: https://news.ycombinator.com/item?id=50029330 Points: 11 # Comments: 4",
      "source": "Hacker News",
      "zh": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website"
     },
@@ -1858,12 +1858,28 @@ window.INDUSTRY_DATA = {
      "zh": "Elon Musk intensifies attack on Ambani over Starlink India launch delay"
     },
     {
+     "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+     "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+     "pubDate": "Sat, 10 Oct 2026 03:02:47 +0000",
+     "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 9 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Telegram Desktop vulnerability allowed any user's file to be stolen"
+    },
+    {
      "title": "Cloudflare debuts Clef-omni, an open-weight decision model supporting audio and video input alongside text and image, and cuts Clef-flash&apos;s price below Jev&apos;s (Cloudflare)",
      "link": "https://www.techmeme.com/261009/p34#a261009p34",
      "pubDate": "Fri, 09 Oct 2026 22:40:00 -0400",
      "summary": "Cloudflare : Cloudflare debuts Clef-omni, an open-weight decision model supporting audio and video input alongside text and image, and cuts Clef-flash's price below Jev's &nbsp; &mdash;&nbsp; Following last week's release of Clef and Clef-flash, Cloudflare's open-weight decision models, we decided t",
      "source": "Techmeme",
      "zh": "Cloudflare debuts Clef-omni, an open-weight decision model supporting audio and video input alongside text and image, and cuts Clef-flash&apos;s price below Jev&apos;s (Cloudflare)"
+    },
+    {
+     "title": "Put a price on breakthroughs",
+     "link": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
+     "pubDate": "Sat, 10 Oct 2026 02:37:47 +0000",
+     "summary": "Article URL: https://alexwang.ai/posts/put-a-price-on-breakthroughs/ Comments URL: https://news.ycombinator.com/item?id=50028982 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Put a price on breakthroughs"
     },
     {
      "title": "盗火者的新火种：EOA 范式下，中国一汽点燃企业智能体生命力",
@@ -1925,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "REA Reverse – Engineer Anything",
      "link": "https://rea.tools/",
      "pubDate": "Sat, 10 Oct 2026 00:37:07 +0000",
-     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 199 # Comments: 59",
+     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 210 # Comments: 63",
      "source": "Hacker News",
      "zh": "REA Reverse – Engineer Anything"
     },
@@ -1933,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Has the Autonomous Trucking Revolution Arrived?",
      "link": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
      "pubDate": "Fri, 09 Oct 2026 23:57:12 +0000",
-     "summary": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 17 # Comments: 24",
+     "summary": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 20 # Comments: 28",
      "source": "Hacker News",
      "zh": "Has the Autonomous Trucking Revolution Arrived?"
     },
@@ -1941,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
      "link": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
      "pubDate": "Fri, 09 Oct 2026 23:53:08 +0000",
-     "summary": "Article URL: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants Comments URL: https://news.ycombinator.com/item?id=50028027 Points: 17 # Comments: 1",
+     "summary": "Article URL: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants Comments URL: https://news.ycombinator.com/item?id=50028027 Points: 23 # Comments: 1",
      "source": "Hacker News",
      "zh": "Clinical trial of a prion disease drug candidate begins enrolling participants"
     },
@@ -1952,22 +1968,6 @@ window.INDUSTRY_DATA = {
      "summary": "Katharine Schwab / Forbes : Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams &nbsp; &mdash;&nbsp; This voice experience is generated by AI.&nbsp; Learn more.&nbsp; &mdash;&nbsp; Last year, Ti",
      "source": "Techmeme",
      "zh": "Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams (Katharine Schwab/Forbes)"
-    },
-    {
-     "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
-     "link": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
-     "pubDate": "Fri, 09 Oct 2026 23:32:04 +0000",
-     "summary": "Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf Comments URL: https://news.ycombinator.com/item?id=50027884 Points: 14 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "The logarithms of rational numbers have irrationality exponent 2 [pdf]"
-    },
-    {
-     "title": "Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that&apos;s designing a new central processor for data centers, is raising funds at a ~$2.5B valuation (Reuters)",
-     "link": "https://www.techmeme.com/261009/p30#a261009p30",
-     "pubDate": "Fri, 09 Oct 2026 19:30:04 -0400",
-     "summary": "Reuters : Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that's designing a new central processor for data centers, is raising funds at a ~$2.5B valuation &nbsp; &mdash;&nbsp; Six-month-old microchip startup Nuvacore, which does not yet have a product, is raising hundreds of millions",
-     "source": "Techmeme",
-     "zh": "Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that&apos;s designing a new central processor for data centers, is raising funds at a ~$2.5B valuation (Reuters)"
     }
    ]
   },
@@ -1977,6 +1977,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Oppo Find X10 Pro Max Hasselblad teleconverter kit unboxing and hands-on",
+     "link": "https://www.gsmarena.com/oppo_find_x10_pro_max_hasselblad_teleconverter_kit_unboxing_and_handson-news-74979.php",
+     "pubDate": "Sat, 10 Oct 2026 06:31:01 +0200",
+     "summary": "The Oppo Find X10 series is going global on October 21, and we've already brought you guys a quick first look and unboxing of both the Find X10 and the Find X10 Pro Max. Now, we're taking a quick look at the Hasselblad Teleconverter Kit for the Oppo Find X10 Pro Max. It comes in a large and heavy bo",
+     "source": "GSMArena",
+     "zh": "Oppo Find X10 Pro Max Hasselblad teleconverter kit unboxing and hands-on"
+    },
     {
      "title": "Generative AI scandal has come to one of Nikon’s competitions",
      "link": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
@@ -2208,14 +2216,6 @@ window.INDUSTRY_DATA = {
      "summary": "Elon Musk’s SpaceX has just acquired up to 14MHz of paired spectrum in the 800MHz band nationwide in the US, from Grain Management. Musk says this is \"the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America\". So the aim here is clear. Use Starli",
      "source": "GSMArena",
      "zh": "SpaceX buys spectrum for Starlink to become a full-fledged US mobile carrier"
-    },
-    {
-     "title": "Bose Lifestyle Ultra Soundbar review: A great home theater option all by itself",
-     "link": "https://www.engadget.com/2282487/bose-lifestyle-ultra-soundbar-review/",
-     "pubDate": "Fri, 09 Oct 2026 18:00:00 +0000",
-     "summary": "Bose's latest soundbar pulls double duty as both a TV and music speaker. Plus, it doesn't need a separate subwoofer for adequate bass.",
-     "source": "Engadget",
-     "zh": "Bose Lifestyle Ultra Soundbar review: A great home theater option all by itself"
     }
    ]
   },
@@ -2226,28 +2226,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "这个假期“慢慢玩”",
-     "link": "http://www.eeo.com.cn/2026/1010/1059563.shtml",
-     "pubDate": "Sat, 10 Oct 2026 12:13:44 +0800",
-     "summary": "游客越来越看重一趟旅程中不同环节的衔接体验，希望深入目的地，体验更具当地特色的生活方式。旅行需求从机票、酒店等基础预订，进一步延伸至当地人常去的餐饮、特色小店等本地消费场景。体验经济正在改变文旅行业的收入结构与竞争逻辑。",
-     "source": "经济观察网",
-     "zh": "这个假期“慢慢玩”"
+     "title": "AI需求推动日本工业机床未交订单额超1万亿日元",
+     "link": "http://finance.eastmoney.com/news/1355,202610103891885230.html",
+     "pubDate": "Sat, 10 Oct 2026 12:40:30 +0800",
+     "summary": "AI相关需求正在成为推动工业机床未交订单额攀升至历史高位的主要动力。据日本工作机械工业会（日工会，位于东京港区）统计，截至8月底，日本的工业机床未交订单额已超过1万亿日元。为消化积压订单，芝浦机械等制造商正加紧增产。日工会10月9日公布的数据显示，9月机床订单额（速报值）同比增长60%，达到2232亿日元。订单额已连续15个月同比增长，单月订单额刷新历史最高纪录。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "AI需求推动日本工业机床未交订单额超1万亿日元"
     },
     {
-     "title": "苹果第二期中国清洁能源基金规模扩至约14亿元 两处风电项目已开工",
-     "link": "http://www.eeo.com.cn/2026/1010/1059561.shtml",
-     "pubDate": "Sat, 10 Oct 2026 12:13:06 +0800",
-     "summary": "10月10日，苹果宣布其第二期中国清洁能源基金的承诺投资总额已增至2.12亿美元（14亿元人民币）。截至目前，该基金已完成初步投资，支持在广西开发一个260兆瓦的风电项目，以及在山东开发一个50兆瓦的风电项目，两处项目目前均已开工建设。与此同时，苹果还宣布向中国绿色碳汇基金会及北京自然之友公益基金会提供全新的资助。",
-     "source": "经济观察网",
-     "zh": "苹果第二期中国清洁能源基金规模扩至约14亿元 两处风电项目已开工"
+     "title": "贝特瑞成立循环科技公司，含石墨及碳素制品业务",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891885132.html",
+     "pubDate": "Sat, 10 Oct 2026 12:39:52 +0800",
+     "summary": "人民财讯10月10日电，企查查APP显示，近日，江苏贝赛美循环科技有限公司成立，法定代表人为刘修明，注册资本为3500万元，经营范围包含：生产性废旧金属回收； 电池 销售；石墨及碳素制品制造；石墨及碳素制品销售； 电子 专用材料制造等。企查查股权穿透显示，该公司由 贝特瑞 间接全资持股。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "贝特瑞成立循环科技公司，含石墨及碳素制品业务"
     },
     {
-     "title": "今日看点｜国新办将举行“十五五”时期推进就业和社会保障高质量发展有关情况新闻发布会",
-     "link": "http://www.eeo.com.cn/2026/1010/1059546.shtml",
-     "pubDate": "Sat, 10 Oct 2026 12:05:52 +0800",
-     "summary": "10月10日上午10时，国新办将举行“开局起步‘十五五’”系列主题新闻发布会，人力资源社会保障部新闻发言人、副部长李忠介绍“十五五”时期推进就业和社会保障高质量发展有关情况，并答记者问。",
-     "source": "经济观察网",
-     "zh": "今日看点｜国新办将举行“十五五”时期推进就业和社会保障高质量发展有关情况新闻发布会"
+     "title": "美国对多家中国企业发起337调查，涉及立讯精密、富士康等",
+     "link": "http://stock.eastmoney.com/news/11219,202610103891884494.html",
+     "pubDate": "Sat, 10 Oct 2026 12:37:21 +0800",
+     "summary": "美东时间2026年10月9日，美国国际贸易委员会（USITC）发布公告， 正式启动对“特定垂直 电力 传输系统、其组件及含有该系统的计算系统”的337调查。 调查产品范围： 垂直 电力 传输系统及其组件，用于 数据中心 服务器、 人工智能 和 云计算 系统，为 人工智能 （AI）加速器、张量处理单元（TPU）、图形处理单元（GPU）和中央处理单元（CPU）供电，以及含有上述系统的计算系统。涉案产品美国海关编码包括8501、8504系列、8542等，覆盖电源转换器、集成电路相关产品。 多家中国企业被列为被诉方： 立讯精密 工业股份有限公司（Luxshare Precision Industry ",
+     "source": "东方财富股票",
+     "zh": "美国对多家中国企业发起337调查，涉及立讯精密、富士康等"
+    },
+    {
+     "title": "海尔生物主导自动化医用冷库IEC国际标准正式立项",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891884923.html",
+     "pubDate": "Sat, 10 Oct 2026 12:32:00 +0800",
+     "summary": "南方财经10月10日电，近日，由 海尔生物 主导申报的IEC63590-2-3《医用低温储存设备——第2-3部分：（半）自动化冷藏和冷冻库——性能要求和测试方法》正式立项。这是全球首个针对医用（半）自动化冷藏和冷冻库性能要求与测试方法的国际标准。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "海尔生物主导自动化医用冷库IEC国际标准正式立项"
+    },
+    {
+     "title": "“喝大水”理论登上热搜 年轻人放下奶茶咖啡 拎起1.5升大瓶纯净水",
+     "link": "http://finance.eastmoney.com/news/11158,202610103891882939.html",
+     "pubDate": "Sat, 10 Oct 2026 12:30:38 +0800",
+     "summary": "近日，“喝大水”理论登上热搜。越来越多年轻人放下奶茶咖啡，拎起1.5升大瓶纯净水，配以“弱者喝饮料，强者喝大水”的口号，在社交平台上引发广泛讨论。对此，有心理专家认为，这一现象流行的背后，是年轻人在不确定的环境中，通过喝水这件小事，对“掌控感”的追寻。 “喝大水理论”的践行者 在郑州某写字楼里，在某互联网公司上班的90后小林，办公桌上摆着一只1.5升的大水壶。他表示：“早上灌满凉白开，一天喝完，下班洗了水壶走人。”在他看来，省事比什么都实在，“就是懒得频繁去接水了，挺打扰工作节奏的不是？” 小林坦言，公司不少同事都开始用大杯喝水代替过去的泡茶、喝咖啡，“主要是从健康方面考虑，凉白开不影响睡眠，",
+     "source": "东方财富股票",
+     "zh": "“喝大水”理论登上热搜 年轻人放下奶茶咖啡 拎起1.5升大瓶纯净水"
+    },
+    {
+     "title": "全球首个 海尔生物主导自动化医用冷库IEC国际标准正式立项",
+     "link": "http://finance.eastmoney.com/news/1349,202610103891882039.html",
+     "pubDate": "Sat, 10 Oct 2026 12:28:14 +0800",
+     "summary": "近日，由 海尔生物 主导申报的IEC 63590-2-3《医用低温储存设备——第2-3部分：（半）自动化冷藏和冷冻库——性能要求和测试方法》正式立项。这是全球首个针对医用（半）自动化冷藏和冷冻库性能要求与测试方法的国际标准。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "全球首个 海尔生物主导自动化医用冷库IEC国际标准正式立项"
     },
     {
      "title": "The danger of pessimism fatigue",
@@ -2266,28 +2290,12 @@ window.INDUSTRY_DATA = {
      "zh": "Napa Valley’s hangover"
     },
     {
-     "title": "怎样的企业，值得长久尊敬？",
-     "link": "http://www.eeo.com.cn/2026/1010/1059527.shtml",
-     "pubDate": "Sat, 10 Oct 2026 11:57:27 +0800",
-     "summary": "企业以创新打开发展空间，也在日常经营中积累声誉。企业赢得的尊敬，不只体现在某一年的业绩里，更体现在长期经营中一次次兑现承诺上。",
-     "source": "经济观察网",
-     "zh": "怎样的企业，值得长久尊敬？"
-    },
-    {
      "title": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧",
      "link": "https://wallstreetcn.com/articles/3783317",
      "pubDate": "Sat, 10 Oct 2026 11:54:42 +0800",
      "summary": "美股表面风平浪静，水面之下暗流涌动。十年期美债收益率本周逼近5.4%，创2002年以来新高，布伦特原油徘徊于每桶100美元上方，金融市场正在经历一场被科技巨头光环所遮蔽的广泛撤退。 标普500指数本周创下历史新高，但这一纪录背后隐藏着极度脆弱的市场基础—— 仅约30%的成分股交易于50日均线之上，是彭博自1990年有数据以来，所有创纪录交易日中市场参与度最低的一次 。 与此同时，罗素2000小盘股指数连续第五周下跌，较高点累计跌幅约8.5%，逼近技术性回调区间。 利率冲击正在向更广泛的资产类别蔓延。 垃圾债券ETF跌至今年春季关税战引发抛售以来的最低水平附近，美国高收益企业债利差持续走阔，最弱",
      "source": "华尔街见闻",
      "zh": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧"
-    },
-    {
-     "title": "给AI植入广告涉及不正当竞争，GEO监管处罚已达3起",
-     "link": "http://www.eeo.com.cn/2026/1010/1059513.shtml",
-     "pubDate": "Sat, 10 Oct 2026 11:52:14 +0800",
-     "summary": "21世纪经济报道记者肖潇 9月23日，深圳市市场监管局公布了一起GEO行政处罚案件，一家小型服务商被指套取AI收录标准、批量编造虚假排名，被处以5万元罚款。 GEO自DeepSeek爆红后兴起，与传统SEO（搜索引擎优化）争夺网页排名不同，GEO瞄准的是大模型的回复内容。服务商通过研究AI的回答偏好，生产、投放更容易被AI引用的内容，帮助商家在AI问答中获得曝光。 本次深圳市市场监管局发现，该公司会通过一套“G...",
-     "source": "经济观察网",
-     "zh": "给AI植入广告涉及不正当竞争，GEO监管处罚已达3起"
     },
     {
      "title": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
@@ -2450,14 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders."
     },
     {
-     "title": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%",
-     "link": "http://stock.eastmoney.com/news/11784,202610103891632088.html",
-     "pubDate": "Sat, 10 Oct 2026 05:15:33 +0800",
-     "summary": "美股市场： 美股三大指数10月09日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨423.31点，收于51654.95点，涨幅为0.83%，本周累涨0.93%； 标准普尔 500种股票指数上涨46.18点，收于7811.54点，涨幅为0.59% ，本周累涨1.15% ； 纳斯达克 综合 指数上涨172.83点，收于27366.17点，涨幅为0.64% ，本周累涨0.64 % 。 热门科技股多数上涨， 亚马逊 涨超3%， 微软 、 特斯拉 涨超2%； 苹果 跌超1%，AMD、 英特尔 跌超2%。 有色金属 、加密货币概念股涨幅居前， 南方铜业 涨超5%，Coinbase涨超4%， 必",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%"
-    },
-    {
      "title": "The hazy OpenAI growth metric driving Wall Street",
      "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
      "pubDate": "Fri, 09 Oct 2026 20:57:10 GMT",
@@ -2498,20 +2498,20 @@ window.INDUSTRY_DATA = {
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
-     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
-     "source": "Live Science",
-     "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
-    },
-    {
      "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
      "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
      "source": "Live Science",
      "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
+    },
+    {
+     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
+     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
+     "source": "Live Science",
+     "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

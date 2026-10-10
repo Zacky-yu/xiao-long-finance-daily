@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 10:36:48",
+ "generated_at": "2026/10/10 10:44:06",
  "recent_days": 7,
  "industries": [
   {
@@ -1730,6 +1730,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Cloudflare debuts Clef-omni, supporting audio and video input alongside text and image, makes Clef up to 2x faster, and dramatically cuts Clef-flash pricing (Cloudflare)",
+     "link": "https://www.techmeme.com/261009/p34#a261009p34",
+     "pubDate": "Fri, 09 Oct 2026 22:40:00 -0400",
+     "summary": "Cloudflare : Cloudflare debuts Clef-omni, supporting audio and video input alongside text and image, makes Clef up to 2x faster, and dramatically cuts Clef-flash pricing &nbsp; &mdash;&nbsp; Following last week's release of Clef and Clef-flash, Cloudflare's open-weight decision models, we decided to",
+     "source": "Techmeme",
+     "zh": "Cloudflare debuts Clef-omni, supporting audio and video input alongside text and image, makes Clef up to 2x faster, and dramatically cuts Clef-flash pricing (Cloudflare)"
+    },
+    {
+     "title": "亚马逊 Leo 已制造超 1000 颗卫星，日产能至少 3~4 颗",
+     "link": "https://www.ithome.com/1/011/239.htm",
+     "pubDate": "Sat, 10 Oct 2026 02:37:18 GMT",
+     "summary": "IT之家 10 月 10 日消息，Amazon（亚马逊）旗下卫星互联网服务 Amazon Leo 当地时间本月 8 日宣布，其已制造超 1000 颗人造地球卫星， 当前日产能至少达 3~4 颗 。 Amazon Leo 的每颗卫星由 400 万个独立部件组成，质量超过 1,000 磅 （约 453.6 千克） 。其在美国华盛顿州 Kirkland 运营着一家超 17.2 万平方英尺 （约 15,979 平方米） 的卫星工厂，拥有超 500 名技术员工， 仅需数天时间即可完成卫星的资格认证工作 。 Amazon Leo 目前 已通过 14 次发射将 396 颗卫星送上天 ，其中 4 颗未能进入预",
+     "source": "IT之家",
+     "zh": "亚马逊 Leo 已制造超 1000 颗卫星，日产能至少 3~4 颗"
+    },
+    {
+     "title": "我国将开展适应人工智能发展促就业行动",
+     "link": "https://www.ithome.com/1/011/238.htm",
+     "pubDate": "Sat, 10 Oct 2026 02:36:54 GMT",
+     "summary": "IT之家 10 月 10 日消息，据新华社报道，国新办今天（10 日）上午举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，我国将开展 适应人工智能发展促就业行动、“技能照亮前程”培训行动、农民工就业促进行动、高品质就业公共服务供给行动以及“人力资源服务 +”融合发展行动 。 据IT之家了解，今年 1 月，人力资源社会保障部就曾提出，我国将实施稳岗扩容提质行动，推出重点行业就业支持举措， 出台应对人工智能影响促就业文件 。强化重点群体就业支持，印发高校毕业生等青年就业文件，出台统筹城乡就业体系意见，建立常态化防止返贫致贫就业帮扶机制。",
+     "source": "IT之家",
+     "zh": "我国将开展适应人工智能发展促就业行动"
+    },
+    {
+     "title": "开源媒体播放器 MPC-HC 2.8.3 发布：引入 Win11 风格主题、原生圆角菜单选项",
+     "link": "https://www.ithome.com/1/011/233.htm",
+     "pubDate": "Sat, 10 Oct 2026 02:35:45 GMT",
+     "summary": "IT之家 10 月 10 日消息，开源媒体播放器 MPC-HC 于 10 月 8 日更新至 2.8.3 版本，新增基于 Windows 11 界面设计的菜单和对话框主题， 并为 Windows 11 提供原生圆角弹出菜单选项。 主题方面，用户可在“选项 > 高级 > ModernThemeStyle”中切换主题，使用符合 Windows 11 风格的现代外观。在 Windows 10 系统上，用户也可以切换 Windows 11 风格主题。使用 Windows 11 的用户还可启用系统原生弹出菜单，呈现圆角效果。 除界面调整外，2.8.3 将 MPC Video Renderer 更新至 0.",
+     "source": "IT之家",
+     "zh": "开源媒体播放器 MPC-HC 2.8.3 发布：引入 Win11 风格主题、原生圆角菜单选项"
+    },
+    {
      "title": "红魔 12 Pro+ 手机散热结构公布：搭载行业首款超薄航天钢石墨烯、嵌入式复合液态金属 4.0",
      "link": "https://www.ithome.com/1/011/227.htm",
      "pubDate": "Sat, 10 Oct 2026 02:33:24 GMT",
@@ -1740,7 +1772,7 @@ window.INDUSTRY_DATA = {
     {
      "title": "2026年小天才崩投资人实操指南",
      "link": "https://www.huxiu.com/article/4896337.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 10:28:24 +0800",
+     "pubDate": "Sat, 10 Oct 2026 10:28:25 +0800",
      "summary": "本文来自微信公众号： 硅基阿姨了我 ，作者：小古，题图来自：视觉中国 为什么2026年的一级市场，突然需要这么多&ldquo;小天才&rdquo;？ 是资本市场正在重新发明一套估值和定价体系。 以前投资人喜欢连续创业者、大厂高管、行业老兵，强调管理经验、商业履历和资源整合能力。现在喜欢名校博士、竞赛冠军、开源项目贡献者，最好还没毕业。 创业者的年龄越来越小，融资金额越来越大，投资决策越来越快。 但技术能力的提升，和创业成功概率的提升，是两件完全不同的事。 更值得玩味的是，投资人一边强调长期主义，一边30分钟决定投资；一边强调独立判断，一边害怕别人先投进去。 一、博士可以不毕业，估值必须先毕业 ",
      "source": "虎嗅",
      "zh": "2026年小天才崩投资人实操指南"
@@ -1770,22 +1802,6 @@ window.INDUSTRY_DATA = {
      "zh": "Underdog AI 发布 Saluki 27B 模型：2-bit 量化 Qwen3.8-27B，7.89GB 大小"
     },
     {
-     "title": "Win11 26H2 装机设置已封堵“点击了解更多按钮绕过登录微软账户”方案",
-     "link": "https://www.ithome.com/1/011/218.htm",
-     "pubDate": "Sat, 10 Oct 2026 02:22:30 GMT",
-     "summary": "IT之家 10 月 10 日消息，消息源 @TheBobPony 昨日（10 月 9 日）在 X 平台发布推文，爆料称在 Windows 11 26H2 系统的首次装机设置（OOBE）中， 微软公司已封堵使用“了解更多”超链接绕过登录微软账号方案。 IT之家曾于 9 月 13 日报道，用户不需要命令提示符、注册表编辑器或虚假微软账户，安装过程也不要求断开 Wi‑Fi，用户完成开箱体验设置后， 联网进入“让我们添加 Microsoft 账户”页面，可点击“登录选项”下方段落中的小型“了解更多”链接 ，可以绕过 Windows 11 家庭版强制登录微软账号。 在 Windows 11 Experi",
-     "source": "IT之家",
-     "zh": "Win11 26H2 装机设置已封堵“点击了解更多按钮绕过登录微软账户”方案"
-    },
-    {
-     "title": "腾讯 QQ PC 端上线隐私功能“迷你窗”：窗口更小、能调透明度，鼠标移走直接隐身",
-     "link": "https://www.ithome.com/1/011/217.htm",
-     "pubDate": "Sat, 10 Oct 2026 02:15:35 GMT",
-     "summary": "IT之家 10 月 10 日消息，腾讯 QQ 今日宣布，PC 端 QQ 上线“迷你窗”， 小窗口显示 ，减少旁边的人无意看到； 鼠标一移聊天窗直接隐身 ，隐私更安全。 此外，“迷你窗” 可调节透明度 ，支持分别调节内容透明度和背景透明度；支持聊天、小说、股票界面，不用反复切换窗口。 对于游戏场景，“迷你窗”更适合边打游戏边聊天，分享胜利截图更快，目前只支持 Windows 游戏的「无边框全屏模式」和「窗口模式」。 IT之家获悉，更新至 PC 端 QQ 最新版本（macOS 7.0.2 版本，Windows 9.9.36 版本），就能一键开启迷你窗，还支持快捷键快速唤起和隐藏迷你窗，启动“防窥”",
-     "source": "IT之家",
-     "zh": "腾讯 QQ PC 端上线隐私功能“迷你窗”：窗口更小、能调透明度，鼠标移走直接隐身"
-    },
-    {
      "title": "盗火者的新火种：EOA 范式下，中国一汽点燃企业智能体生命力",
      "link": "https://www.tmtpost.com/8155165.html",
      "pubDate": "Sat, 10 Oct 2026 10:11:51 +0800",
@@ -1808,14 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 一席 ，作者：一席YiXi，原文标题：《“为什么我在职校拿了那么多技能证书，人们还是用学历评判我？”｜宋鑫淼 一席第1154位讲者》 宋鑫淼，香港大学社会学博士。 我们看到了老师的疲惫和管理者的心酸，那学生呢？对于学生来说，通过三年的学习，他们最终要问的一个问题是：我选职业教育这条路到底值不值？ 另一条道路，很多人的路 2026.07.18杭州 大家下午好，我叫宋鑫淼，来自香港岭南大学，是一名社会学研究者。很高兴今天有这个机会在这里跟大家分享我的研究。在过去的七八年时间里，我的观察一直围绕着一个群体，那就是中国的职校生。 大家可能听说过1:1的普职分流。这个政策就是指初中",
      "source": "虎嗅",
      "zh": "“为什么我在职校拿了那么多技能证书，人们还是用学历评判我？”"
-    },
-    {
-     "title": "小米澎湃 OS 4 Beta 版 10 月 14 日截止招募，正式版 10 月 15 日起分批推送",
-     "link": "https://www.ithome.com/1/011/213.htm",
-     "pubDate": "Sat, 10 Oct 2026 02:04:35 GMT",
-     "summary": "IT之家 10 月 10 日消息，小米澎湃 OS 公告君今日发布公告，宣布了 小米澎湃 OS 4 Beta 版 内测招募截止时间，同时确认了 小米澎湃 OS 4 正式版的推送时间安排。 今年 8 月 14 日，小米澎湃 OS 4 Beta 版启动内测。根据公告， 小米澎湃 OS 4 正式版将于 10 月 15 日起陆续分批次向用户推送升级 ，首批覆盖 Xiaomi 17 系列、 REDMI K100 Pro 系列等机型，后续将逐步拓展到更多存量机型。 小米澎湃 OS 4 Beta 版将于 10 月 14 日中午 12 点 结束内测招募，尚未参与报名且仍有兴趣体验的用户，可前往小米社区-内测中心",
-     "source": "IT之家",
-     "zh": "小米澎湃 OS 4 Beta 版 10 月 14 日截止招募，正式版 10 月 15 日起分批推送"
     },
     {
      "title": "Sources: Dario Amodei spoke with Meta&apos;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request (Wall Street Journal)",
@@ -1893,15 +1901,23 @@ window.INDUSTRY_DATA = {
      "title": "REA Reverse – Engineer Anything",
      "link": "https://rea.tools/",
      "pubDate": "Sat, 10 Oct 2026 00:37:07 +0000",
-     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 90 # Comments: 15",
+     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 106 # Comments: 19",
      "source": "Hacker News",
      "zh": "REA Reverse – Engineer Anything"
+    },
+    {
+     "title": "How Strong Is the Strong Force?",
+     "link": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+     "pubDate": "Sat, 10 Oct 2026 00:13:16 +0000",
+     "summary": "Article URL: https://cerncourier.com/how-strong-is-the-strong-interaction/ Comments URL: https://news.ycombinator.com/item?id=50028162 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "How Strong Is the Strong Force?"
     },
     {
      "title": "Has the Autonomous Trucking Revolution Arrived?",
      "link": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
      "pubDate": "Fri, 09 Oct 2026 23:57:12 +0000",
-     "summary": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 8 # Comments: 5",
+     "summary": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 9 # Comments: 6",
      "source": "Hacker News",
      "zh": "Has the Autonomous Trucking Revolution Arrived?"
     },
@@ -1909,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
      "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
      "pubDate": "Fri, 09 Oct 2026 23:56:55 +0000",
-     "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/ Comments URL: https://news.ycombinator.com/item?id=50028059 Points: 58 # Comments: 21",
+     "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/ Comments URL: https://news.ycombinator.com/item?id=50028059 Points: 66 # Comments: 24",
      "source": "Hacker News",
      "zh": "11 of 23 Core Open Source Projects Run on 1 or 2 People"
     },
@@ -1925,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
      "link": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
      "pubDate": "Fri, 09 Oct 2026 23:32:04 +0000",
-     "summary": "Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf Comments URL: https://news.ycombinator.com/item?id=50027884 Points: 9 # Comments: 1",
+     "summary": "Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf Comments URL: https://news.ycombinator.com/item?id=50027884 Points: 11 # Comments: 1",
      "source": "Hacker News",
      "zh": "The logarithms of rational numbers have irrationality exponent 2 [pdf]"
     },
@@ -1941,17 +1957,9 @@ window.INDUSTRY_DATA = {
      "title": "Compiling Rust to readable C with Eurydice",
      "link": "https://lwn.net/Articles/1055211/",
      "pubDate": "Fri, 09 Oct 2026 23:28:36 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 25 # Comments: 2",
+     "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 27 # Comments: 2",
      "source": "Hacker News",
      "zh": "Compiling Rust to readable C with Eurydice"
-    },
-    {
-     "title": "Rewriting Prime Agent in Rust",
-     "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
-     "pubDate": "Fri, 09 Oct 2026 23:06:25 +0000",
-     "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust Comments URL: https://news.ycombinator.com/item?id=50027694 Points: 22 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Rewriting Prime Agent in Rust"
     },
     {
      "title": "Trump admin says it&apos;s now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents (Axios)",
@@ -1960,14 +1968,6 @@ window.INDUSTRY_DATA = {
      "summary": "Axios : Trump admin says it's now mandating AI companies &ldquo;immediately disclose incidents involving their models&rdquo; and move swiftly to remedy harm from security incidents &nbsp; &mdash;&nbsp; Trump administration officials say they are now mandating that AI companies notify and correct sec",
      "source": "Techmeme",
      "zh": "Trump admin says it&apos;s now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents (Axios)"
-    },
-    {
-     "title": "Neanderthal wooden tools from Spain found preserved in stone",
-     "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
-     "pubDate": "Fri, 09 Oct 2026 22:34:03 +0000",
-     "summary": "Dissolved rock precipitated around the tools, which then decayed.",
-     "source": "Ars Technica",
-     "zh": "Neanderthal wooden tools from Spain found preserved in stone"
     }
    ]
   },
@@ -1977,6 +1977,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Generative AI scandal has come to one of Nikon’s competitions",
+     "link": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
+     "pubDate": "Sat, 10 Oct 2026 02:37:53 +0000",
+     "summary": "The company has stripped an entry to its Small World In Motion competition of its first place prize.",
+     "source": "DPReview",
+     "zh": "Generative AI scandal has come to one of Nikon’s competitions"
+    },
     {
      "title": "Google releases a free tool to check for an increasingly common AI watermark",
      "link": "https://www.dpreview.com/news/google-free-synthid-detector-released-public-ai-images/",
@@ -2208,14 +2216,6 @@ window.INDUSTRY_DATA = {
      "summary": "If you guessed the RAMpocalypse is involved...",
      "source": "Engadget",
      "zh": "Intel is reportedly launching new CPUs on old sockets that support DDR4 memory"
-    },
-    {
-     "title": "What it's like to spend a night in a Pebble Flow EV RV",
-     "link": "https://www.engadget.com/2282389/pebble-flow-ev-rv-review/",
-     "pubDate": "Fri, 09 Oct 2026 17:00:00 +0000",
-     "summary": "Staying in the tech-infused trailer can kind of feel like being in a spaceship - in a good way.",
-     "source": "Engadget",
-     "zh": "What it's like to spend a night in a Pebble Flow EV RV"
     }
    ]
   },
@@ -2226,12 +2226,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "新任重庆市委常委徐建任两江新区区委书记",
+     "link": "http://www.eeo.com.cn/2026/1010/1059386.shtml",
+     "pubDate": "Sat, 10 Oct 2026 10:39:11 +0800",
+     "summary": "中国经济网重庆10月10日综合报道 据重庆市政府网站“市政府领导”栏目更新显示，徐建任重庆市委常委，市政府副市长、党组成员，两江新区区委书记。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/FDEACB54FACC07870885712E6BBC5663.png\" width=\"240\" data-uploadpic=\"U020261010305436426937_ORIGIN.png\" needdownload=\"true\" data-needdownload=\"true\" title=",
+     "source": "经济观察网",
+     "zh": "新任重庆市委常委徐建任两江新区区委书记"
+    },
+    {
+     "title": "2026年1至9月我国城镇新增就业1052万人",
+     "link": "http://www.eeo.com.cn/2026/1010/1059385.shtml",
+     "pubDate": "Sat, 10 Oct 2026 10:36:32 +0800",
+     "summary": "今年1至9月，城镇新增就业1052万人、完成全年目标任务的87.7%，前8个月城镇调查失业率均值为5.2%，就业形势总体稳定。",
+     "source": "经济观察网",
+     "zh": "2026年1至9月我国城镇新增就业1052万人"
+    },
+    {
+     "title": "欧洲为何难以扩大能源补贴",
+     "link": "http://finance.eastmoney.com/news/1352,202610103891857970.html",
+     "pubDate": "Sat, 10 Oct 2026 10:34:29 +0800",
+     "summary": "国际能源价格持续高企，正使欧洲各国政府面临政策难题：一方面，能源成本上涨推高居民生活开支和企业经营成本，政府需要通过减税、补贴等措施缓解冲击；另一方面，通胀压力、融资成本上升以及沉重的公共债务负担，又限制了财政政策空间。 欧盟委员会8日对意大利和希腊进一步放宽欧盟财政规则的要求持保留态度，强调不能不断增加财政灵活性，凸显欧洲在应对能源价格上涨与维持财政纪律之间面临的政策两难。分析人士认为，随着能源价格上涨与财政压力相互交织，欧洲已难以简单复制2022年能源危机期间的大规模补贴政策。 能源涨价推高财政干预需求 中东冲突引发的能源供应紧张，正持续推高欧洲经济运行成本。对于高度依赖进口能源的欧洲而言",
+     "source": "东方财富股票",
+     "zh": "欧洲为何难以扩大能源补贴"
+    },
+    {
+     "title": "券业重磅！国泰海通被险资巨头举牌！",
+     "link": "http://hk.eastmoney.com/news/1797,202610103891857363.html",
+     "pubDate": "Sat, 10 Oct 2026 10:29:53 +0800",
+     "summary": "保险机构再度 举牌 。 近日，险资巨头 新华保险 连续披露， 举牌 中航科工 H股、 国泰海通 H股，上述 举牌 行为均发生在9月下旬。 对 国泰海通 持股比例已超4% 10月9日， 新华保险 在保险业协会官网披露，9月29日举牌 国泰海通 H股。9月29日， 新华保险 通过港股通增持 国泰海通 H股995.96万股股份，约占 国泰海通 已发行H股股本的0.28%。增持后， 新华保险 及其一致行动人新华资产、新华资产（香港）合计持有 国泰海通 H股70961.272万股，约占国泰海通H股股本的20.24%。 截至9月29日， 新华保险 持有国泰海通H股的账面余额为89.7亿元，占 新华保险 上",
+     "source": "东方财富股票",
+     "zh": "券业重磅！国泰海通被险资巨头举牌！"
+    },
+    {
+     "title": "特朗普宣布新一任白宫新闻秘书",
+     "link": "http://finance.eastmoney.com/news/11790,202610103891858213.html",
+     "pubDate": "Sat, 10 Oct 2026 10:29:45 +0800",
+     "summary": "美国总统特朗普当地时间9日在社交媒体上宣布， 任命保守派评论员凯蒂·扎卡里亚出任白宫新闻秘书，接替离职的卡罗琳·莱维特。 特朗普介绍说，扎卡里亚目前是 特朗普媒体科技集团 旗下“真实社交”网站的高级 通信 顾问，“表现出色”，曾协助他在关键摇摆州的竞选中取得胜利。 特朗普说，扎卡里亚曾任国土安全部发言人兼公共事务副助理部长，经常在福克斯新闻频道、大全新闻网等保守派媒体担任评论员。 白宫新闻秘书这一职务在莱维特8月底离职后一直空缺。 来源：央视新闻 （文章来源：券商中国）",
+     "source": "东方财富股票",
+     "zh": "特朗普宣布新一任白宫新闻秘书"
+    },
+    {
      "title": "商务部等7部门实施品质电商“五优”行动",
      "link": "http://www.eeo.com.cn/2026/1010/1059372.shtml",
      "pubDate": "Sat, 10 Oct 2026 10:28:02 +0800",
      "summary": "商务部等7部门发布关于实施品质电商“五优”行动的通知，其中提到，加强品质电商主体培育。",
      "source": "经济观察网",
      "zh": "商务部等7部门实施品质电商“五优”行动"
+    },
+    {
+     "title": "商务部等7部门：鼓励金融机构与电商平台规范合作 加大对优质商品和服务的金融支持力度",
+     "link": "http://finance.eastmoney.com/news/1373,202610103891857640.html",
+     "pubDate": "Sat, 10 Oct 2026 10:26:00 +0800",
+     "summary": "人民财讯10月10日电，商务部等7部门发布关于实施品质电商“五优”行动的通知，其中提出，强化消费引导与金融服务。发挥促消费相关政策牵引作用，引导扩大绿色、健康、数字、智能等优质消费。鼓励行业协会构建多方协作的消费指引与宣传机制，帮助消费者精准识别优质供给。鼓励金融机构与电商平台规范合作，丰富消费金融产品和服务，加大对优质商品和服务的金融支持力度，更好满足居民品质消费需求。 （文章来源：证券时报网）",
+     "source": "东方财富股票",
+     "zh": "商务部等7部门：鼓励金融机构与电商平台规范合作 加大对优质商品和服务的金融支持力度"
+    },
+    {
+     "title": "泽润新能拟收购合创智造不低于51%股权，切入热管理行业！公司业绩持续承压",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891857546.html",
+     "pubDate": "Sat, 10 Oct 2026 10:25:49 +0800",
+     "summary": "10月9日晚间， 泽润新能 (301636)公告称，公司董事会审议通过议案，拟以现金收购东莞市合创智造科技有限公司（以下简称“合创智造”或“标的公司”）不低于51%股权，交易总对价初步不高于2.04亿元。公司已与合创智造股东王强、东莞市创智展创业投资合伙企业（有限合伙）、李雄签署了《合作框架协议》。本次交易完成后，合创智造将成为公司的控股子公司。本次交易若成功实施，公司可以快速切入散热领域。 根据公告，公司拟以标的公司整体估值不高于4亿元，支付现金对价不高于2.04亿元受让标的公司原股东所持51%的股权；前述 股权转让 完成后，公司持有标的公司不低于51%的股权。标的公司承诺，2027年至20",
+     "source": "东方财富股票",
+     "zh": "泽润新能拟收购合创智造不低于51%股权，切入热管理行业！公司业绩持续承压"
+    },
+    {
+     "title": "从线上到线下 洽洽文创首店亮相合肥",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891857278.html",
+     "pubDate": "Sat, 10 Oct 2026 10:25:14 +0800",
+     "summary": "这个国庆，洽宝复古文创快闪店落地合肥滨湖方圆 LIVE。作为洽洽首个文创快闪店，洽宝原生 IP文创产品在此首次对外发售。门店自开业以来人气高涨，国庆期间门店日均客流超6万人次。 据悉，方圆 LIVE是策展型共创商业，打造“泛次元+、泛潮流+、泛娱乐+”青年文化生态，聚集年轻客群，本次快闪落地也是洽洽推进品牌年轻化的重要实践。洽宝文创门店聚焦“好看、好吃、好玩”，现场集结洽洽多款人气 零食 ，经典1999主题香瓜子、无期迷途联名限定瓜子悉数上架，瓜子冰淇淋成为门店热门单品。同步推出洽宝系列文创，包含毛绒公仔、抱枕、徽章吧唧等收藏周边与保温杯等实用好物。店内设置多处打卡点位，消费者可打卡拍照、兑换",
+     "source": "东方财富股票",
+     "zh": "从线上到线下 洽洽文创首店亮相合肥"
     },
     {
      "title": "记者观察：文旅正成湖北县域“溢价锚点”",
@@ -2274,14 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "【环球财经】纽约金价9日上涨 触及一周高位"
     },
     {
-     "title": "【环球财经】美国放松针对俄罗斯柴油贸易相关制裁 特朗普称俄将对美供油",
-     "link": "http://www.eeo.com.cn/2026/1010/1059306.shtml",
-     "pubDate": "Sat, 10 Oct 2026 09:52:10 +0800",
-     "summary": "新华财经纽约10月9日电（记者刘亚南）美国财政部下属外国资产控制办公室9日发布公告，宣布在未来几个月放松针对俄罗斯柴油贸易相关的制裁，以缓解美国国内柴油供应紧张和价格攀升。 根据该公告，外国资产控...",
-     "source": "经济观察网",
-     "zh": "【环球财经】美国放松针对俄罗斯柴油贸易相关制裁 特朗普称俄将对美供油"
-    },
-    {
      "title": "万亿估值背后的“数字口径游戏”：OpenAI与Anthropic的营收竟然无法直接比较",
      "link": "https://wallstreetcn.com/articles/3783309",
      "pubDate": "Sat, 10 Oct 2026 09:30:15 +0800",
@@ -2296,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "英伟达一个措辞上的细微变化，正在重塑投资者对这家芯片巨头财务健康状况的理解。 今年9月28日，英伟达宣布将股票回购授权规模扩大1500亿美元至2350亿美元，并在公告中悄然嵌入一句关键表述—— \"我们将以净超出战略用途的自由现金流（excess free cash flow net of strategic uses）形式回馈股东\" 。据《华尔街日报》报道，这句话实质上是在向投资者发出信号： 英伟达对外的股权投资，同样会压缩可用于回购和分红的现金。 这一表述几乎未引发市场关注，但其背后的财务逻辑影响深远。 若将英伟达的战略股权投资及股权激励相关现金支出纳入计算，其今年上半财年的实际自由现金流将",
      "source": "华尔街见闻",
      "zh": "英伟达悄然重新定义自由现金流，千亿回购计划暗藏水分？"
-    },
-    {
-     "title": "史前治水与中国早期文明演进",
-     "link": "http://www.eeo.com.cn/2026/1010/1059224.shtml",
-     "pubDate": "Sat, 10 Oct 2026 08:39:12 +0800",
-     "summary": "史前治水与中国早期文明演进 演讲人：刘建国 演讲地点：山东大学青岛校区鳌山讲坛 演讲时间：二○二六年四月 刘建国中国社会科学院考古研究所研究员，中国社会科学院大学教授、博士生导师，长期从...",
-     "source": "经济观察网",
-     "zh": "史前治水与中国早期文明演进"
     },
     {
      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
@@ -2416,54 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Vague figures may lay the groundwork for inflated valuations when much-hyped companies finally go public",
      "source": "Financial Times",
      "zh": "Why OpenAI’s revenue numbers really matter"
-    },
-    {
-     "title": "Integra LifeSciences prices $450M in 9.5% secured notes",
-     "link": "https://seekingalpha.com/news/4651896-integra-lifesciences-prices-450m-in-9_5-percent-secured-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 17:38:06 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Integra LifeSciences prices $450M in 9.5% secured notes"
-    },
-    {
-     "title": "Gran Tierra Energy expects $315M cash from $1.33B business sale",
-     "link": "https://seekingalpha.com/news/4651894-gran-tierra-energy-expects-315m-cash-from-133b-business-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 17:35:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gran Tierra Energy expects $315M cash from $1.33B business sale"
-    },
-    {
-     "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
-     "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 21:30:00 GMT",
-     "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
-     "source": "MarketWatch",
-     "zh": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders."
-    },
-    {
-     "title": "The hazy OpenAI growth metric driving Wall Street",
-     "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
-     "pubDate": "Fri, 09 Oct 2026 20:57:10 GMT",
-     "summary": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
-     "source": "Financial Times",
-     "zh": "The hazy OpenAI growth metric driving Wall Street"
-    },
-    {
-     "title": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs",
-     "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
-     "pubDate": "Fri, 09 Oct 2026 20:51:25 GMT",
-     "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
-     "source": "CNBC",
-     "zh": "Junk bonds are &apos;flashing yellow.&apos; Watch these warning signs"
-    },
-    {
-     "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
-     "link": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
-     "pubDate": "Fri, 09 Oct 2026 19:25:28 GMT",
-     "summary": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
-     "source": "CNBC",
-     "zh": "Trump Media advisor Katie Zacharia offered White House press secretary role"
     }
    ]
   },
@@ -2498,20 +2498,20 @@ window.INDUSTRY_DATA = {
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
-     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
-     "source": "Live Science",
-     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
-    },
-    {
      "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
      "source": "Live Science",
      "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
+    },
+    {
+     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
+     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
+     "source": "Live Science",
+     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

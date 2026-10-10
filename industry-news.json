@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 14:29:48",
+ "generated_at": "2026/10/10 14:49:48",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,30 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "00后硕士揭开AI推理“黑科技”：两个Token，基模追平强化学习版本",
+     "link": "https://zhidx.com/p/599467.html",
+     "pubDate": "Sat, 10 Oct 2026 14:30:57 +0800",
+     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西10月10日报道，一项来自麻省理工学院（MIT）等机构的研究发现， 只要固定基础模型回答开头的两个Token，就能让模型的数学推理成绩接近对应的强化学习版本 。 以艾伦人工智能研究所（Ai2）的基础模型Olmo-3-7B为例， 将回答固定为“.\\n\\nOkay”开头 后，模型在MATH-500上的 准确率从42%升至78% ， 超过其强化学习版本的75% 。 这个过程没有修改模型参数，也没有给模型增加新的解题示例。模型只是换了一个回答起点，原本没有稳定表现出来的解题能力，似乎就更容易被调用出来。 换句话说，基础模型答错题，有时不一定是完全不会做",
+     "source": "智东西",
+     "zh": "00后硕士揭开AI推理“黑科技”：两个Token，基模追平强化学习版本"
+    },
+    {
+     "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
+     "link": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
+     "pubDate": "Sat, 10 Oct 2026 06:03:09 +0000",
+     "summary": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba’s ",
+     "source": "MarkTechPost",
+     "zh": "Microsoft AI 发布 Microsoft-Decision-1：Qwen3.5-9B 决策评分模型"
+    },
+    {
+     "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
+     "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
+     "pubDate": "Sat, 10 Oct 2026 04:51:34 +0000",
+     "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkT",
+     "source": "MarkTechPost",
+     "zh": "Nace AI 开源 Drex 1.5：对选项而不是文本进行评分的 9B 决策模型"
+    },
     {
      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -209,14 +233,6 @@
      "zh": "苹果首款MacBook Pro要来了， iPad mini屏幕史诗升级OLED"
     },
     {
-     "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
-     "link": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
-     "pubDate": "Fri, 09 Oct 2026 05:06:17 +0000",
-     "summary": "Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents. The post Google Research RRSI Guide: Mastering Self-Improving AI Agents appeared f",
-     "source": "MarkTechPost",
-     "zh": "Google 研究 RRSI 指南：掌握自我改进的 AI 代理"
-    },
-    {
      "title": "GPT-6.1 Sol极速版快8倍，但依然口碑秒崩？“变相涨价”被网友怒喷",
      "link": "https://zhidx.com/p/599323.html",
      "pubDate": "Fri, 09 Oct 2026 12:52:10 +0800",
@@ -225,28 +241,12 @@
      "zh": "GPT-6.1 Sol极速版快8倍，但依然口碑秒崩？“变相涨价”被网友怒喷"
     },
     {
-     "title": "苹果官宣智能家居发布会：首次推出“带屏中控”，Siri接管全家",
-     "link": "https://zhidx.com/p/599304.html",
-     "pubDate": "Fri, 09 Oct 2026 12:46:22 +0800",
-     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西10月9日消息，今天，苹果全球营销高级副总裁格雷格·乔斯维亚克（Greg Joswiak）在X上发布预热视频，证实苹果将于10月13日举行主题为 “欢迎回家”（Welcome home） 的特别活动， 多款智能家居新品 有望亮相。 ▲苹果全球营销高级副总裁官宣智能家居新品发布活动（图源：X） 此次活动将成为苹果新任CEO约翰·特努斯（John Ternus）上任后，在 智能家居产品线上的首次重要动作 。 科技视频博主马克斯·布朗利（Marques Brownlee）也公开其收到的邀请函。此次“Apple Experience”体验活动将在纽约翠",
-     "source": "智东西",
-     "zh": "苹果官宣智能家居发布会：首次推出“带屏中控”，Siri接管全家"
-    },
-    {
      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
      "link": "https://www.qbitai.com/2026/10/502330.html",
      "pubDate": "Fri, 09 Oct 2026 04:15:05 +0000",
      "summary": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
      "source": "量子位",
      "zh": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」"
-    },
-    {
-     "title": "给具身智能换个「因果」内核，Aether AI的愿景终于走进物理世界",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061909&idx=1&sn=0d5705aa4454485a08091266765fc426",
-     "pubDate": "Fri, 09 Oct 2026 12:01:00 +0800",
-     "summary": "机器人，只是起点",
-     "source": "机器之心",
-     "zh": "给具身智能换个「因果」内核，Aether AI的愿景终于走进物理世界"
     }
    ]
   },
@@ -256,6 +256,54 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Phison posts record September revenue as AI tops half of sales",
+     "link": "https://www.digitimes.com/news/a20261008PD250/phison-revenue-demand-data-medical.html",
+     "pubDate": "Sat, 10 Oct 2026 06:30:11 GMT",
+     "summary": "Phison Electronics reported record September consolidated revenue of NT$30.639 billion (US$959 million), up 8% from August and 370% from a year earlier. The Taiwanese storage chipmaker said AI-related applications accounted for more than 50% of total revenue, underscoring how demand is expanding acr",
+     "source": "DIGITIMES",
+     "zh": "群联电子 9 月营收创历史新高，人工智能占销售额一半"
+    },
+    {
+     "title": "Trump awards science medal to Elon Musk, Jensen Huang",
+     "link": "https://www.digitimes.com/news/a20261008PD232/ceo-donald-trump-award-nvidia-dell.html",
+     "pubDate": "Sat, 10 Oct 2026 06:29:33 GMT",
+     "summary": "US President Donald Trump will award the National Medal of Science to Nvidia CEO Jensen Huang and several other tech leaders, with major figures from the industry set to gather again on October 8, local time. The honors highlight Trump's push to spotlight technology executives as his administration ",
+     "source": "DIGITIMES",
+     "zh": "特朗普向埃隆·马斯克和黄仁勋颁发科学奖章"
+    },
+    {
+     "title": "Huawei faces price reset as memory costs surge",
+     "link": "https://www.digitimes.com/news/a20261008PD248/huawei-price-business-smartphone-sales.html",
+     "pubDate": "Sat, 10 Oct 2026 06:29:23 GMT",
+     "summary": "Huawei consumer business group chairman Richard Yu said surging memory component costs have added more than US$200 to the hardware cost of each Huawei smartphone, putting fresh pressure on handset pricing as the broader memory market climbs rapidly.",
+     "source": "DIGITIMES",
+     "zh": "内存成本飙升，华为面临价格调整"
+    },
+    {
+     "title": "Zhen Ding posts record September sales on mobile demand and AI applications",
+     "link": "https://www.digitimes.com/news/a20261008PD249/zhen-ding-revenue-mobile-2026-communications.html",
+     "pubDate": "Sat, 10 Oct 2026 06:29:03 GMT",
+     "summary": "Zhen Ding Technology said September 2026 consolidated revenue reached NT$26.358 billion (US$825.13 million), up 36.13% year over year and 27.54% from August, setting a monthly record. The PCB maker said the result reflected strong orders from mobile communications products as well as continued growt",
+     "source": "DIGITIMES",
+     "zh": "甄鼎 9 月份移动需求和人工智能应用销售额创历史新高"
+    },
+    {
+     "title": "TPCA Show 2026 to spotlight AI computing, Unimicron chair keynote",
+     "link": "https://www.digitimes.com/news/a20261008PD253/tpca-2026-unimicron-demand-hardware.html",
+     "pubDate": "Sat, 10 Oct 2026 06:27:51 GMT",
+     "summary": "As explosive AI computing demand drives hardware architecture change, Taiwan Printed Circuit Association (TPCA) is set to open its annual flagship event, with the 21st International Microsystems, Packaging, Assembly and Circuits Technology Conference (IMPACT-IAAC 2026) kicking off on October 19, fol",
+     "source": "DIGITIMES",
+     "zh": "TPCA Show 2026 聚焦人工智能计算，欣兴科技主持主题演讲"
+    },
+    {
+     "title": "Unified memory lifts AI PC ambitions as Chinese open models gain local-inference ground",
+     "link": "https://www.digitimes.com/news/a20261008VL215/hardware-ai-pc-pc-market-windows.html?chid=10",
+     "pubDate": "Sat, 10 Oct 2026 06:27:32 GMT",
+     "summary": "The hardware boundary separating cloud-scale AI from local inference is becoming increasingly porous as PC vendors expand memory capacity and software platforms make larger open-weight models easier to run directly on devices.",
+     "source": "DIGITIMES",
+     "zh": "随着中国开放模型获得本地推理基础，统一内存提升了人工智能 PC 的雄心"
+    },
     {
      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
@@ -383,54 +431,6 @@
      "summary": "$2B foundry pact; hyper-NA EUV; TSMC, Samsung financials; Canon readies nanoimprint; AI chips under scrutiny; $10T data center buildout; $1.5B SiC boost; chip smuggling; 800V power gains traction; quantum HW scales up; wireless EV road charging; sub-nm gate dielectrics; mobile fab. The post Chip Ind",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "MediaTek 3Q26 revenue beats forecast, maintains peak-season momentum",
-     "link": "https://www.digitimes.com/news/a20261008PD255/mediatek-revenue-forecast-2026-growth.html",
-     "pubDate": "Fri, 9 Oct 2026 02:44:22 GMT",
-     "summary": "MediaTek reported its September and third-quarter 2026 revenue results, with September revenue of NT$55.40 billion (approx. US$1.74 billion), down 13.69% from the previous month and up 1.97% from a year earlier. Third-quarter revenue reached NT$168.06 billion, up 10.43% quarter over quarter and 18.2",
-     "source": "DIGITIMES",
-     "zh": "联发科第三季度营收超预期，维持旺季势头"
-    },
-    {
-     "title": "GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap",
-     "link": "https://www.digitimes.com/news/a20261009VL200/tsmc-globalfoundries-packaging-cowos-silicon.html",
-     "pubDate": "Fri, 9 Oct 2026 02:43:17 GMT",
-     "summary": "GF said on October 8, 2026, that it has signed a multi-year, US$2 billion manufacturing agreement with TSMC to produce silicon interposers for TSMC's CoWoS ecosystem at its Malta, New York fab, which GF says will become the first US-based source of silicon interposers supporting advanced packaging.",
-     "source": "DIGITIMES",
-     "zh": "GlobalFoundries 赢得台积电 20 亿美元中介层订单，缩小美国封装差距"
-    },
-    {
-     "title": "Samsung HBM4E wins NVIDIA nod for AI accelerator push",
-     "link": "https://www.digitimes.com/news/a20261008PD231/samsung-hbm-production-data-data-center.html",
-     "pubDate": "Fri, 9 Oct 2026 01:46:25 GMT",
-     "summary": "Samsung Electronics' next-generation 12-layer HBM4E product, a type of high-bandwidth memory (HBM), has reportedly cleared customer quality validation from Nvidia and major hyperscale data center operators. If confirmed, the result would strengthen Samsung's bid to supply memory for next-gen AI acce",
-     "source": "DIGITIMES",
-     "zh": "三星 HBM4E 赢得 NVIDIA 认可，推动 AI 加速器推广"
-    },
-    {
-     "title": "Interview: How AI forecasting and energy scheduling are raising the bar for green power sellers",
-     "link": "https://www.digitimes.com/news/a20261007PD230/demand-electricity-renewable-energy-data-production-capacity.html",
-     "pubDate": "Fri, 9 Oct 2026 01:43:38 GMT",
-     "summary": "As the demand for green energy surges in parallel with order volumes and production capacity, scheduling for energy storage systems has become a critical technology to solve the problem of excess power for major tech firms, according to Kelsey Kuan, general manager of HD Renewable Energy subsidiary ",
-     "source": "DIGITIMES",
-     "zh": "采访：人工智能预测和能源调度如何提高绿色电力销售商的标准"
-    },
-    {
-     "title": "Applied Materials, Intel target AI chip bottlenecks with interconnect scaling and Foveros 3D",
-     "link": "https://www.digitimes.com/news/a20261007PD242/applied-materials-intel-ai-chip-manufacturing-development.html",
-     "pubDate": "Fri, 9 Oct 2026 01:42:39 GMT",
-     "summary": "AI chip manufacturing demands are accelerating development of advanced logic and packaging technologies, prompting Applied Materials and Intel to expand their collaboration on next-generation transistors, interconnects, and advanced packaging.",
-     "source": "DIGITIMES",
-     "zh": "应用材料公司、英特尔通过互连扩展和 Foveros 3D 解决 AI 芯片瓶颈"
-    },
-    {
-     "title": "Innodisk, Apacer post September 2026 revenue growth on AI demand",
-     "link": "https://www.digitimes.com/news/a20261007PD243/apacer-innodisk-memory-module-revenue-demand-2026.html",
-     "pubDate": "Fri, 9 Oct 2026 01:41:29 GMT",
-     "summary": "Memory module makers Innodisk and Apacer both reported year-over-year and month-over-month revenue growth for September 2026, supported by steady demand from industrial control, edge computing and AI smart connectivity applications. Their cumulative revenue for the first three quarters of the year a",
-     "source": "DIGITIMES",
-     "zh": "宜鼎国际、宇瞻科技预计 2026 年 9 月营收将因人工智能需求而增长"
     },
     {
      "title": "Data Center Energy Trends Force a Rethink of Chip Power Delivery",
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Beyond gigawatts: Why India’s clean energy future depends on storage intelligence",
+     "link": "https://www.pv-magazine.com/2026/10/10/beyond-gigawatts-why-indias-clean-energy-future-depends-on-storage-intelligence/",
+     "pubDate": "Sat, 10 Oct 2026 06:30:00 +0000",
+     "summary": "The battery creates flexibility. The intelligence behind it determines how much of that flexibility the grid can harness. The next clean energy benchmark for India, therefore, might not just be a new number of gigawatts. It might be the ability to get the maximum out of every gigawatt. The post Beyo",
+     "source": "pv magazine",
+     "zh": "超越千兆瓦：为什么印度的清洁能源未来取决于存储智能"
+    },
+    {
      "title": "The shape of PPAs is changing – from volume to value",
      "link": "https://www.pv-magazine.com/2026/10/10/the-shape-of-ppas-is-changing-from-volume-to-value-are-you-positioned-to-capture-the-premium-in-emerging-nem-value-pools/",
      "pubDate": "Sat, 10 Oct 2026 06:00:00 +0000",
@@ -991,14 +999,6 @@
      "summary": "Researchers at the University of Groningen have calculated green hydrogen production costs of €7.2/kg to €7.3/kg using renewable power purchase agreements and hybrid electricity supply configurations, compared with €7.7/kg for wholesale electricity sourcing. The study found that long-term revenue gu",
      "source": "pv magazine",
      "zh": "氢流：荷兰研究人员计算出绿色氢气成本低至 7.2 欧元/公斤"
-    },
-    {
-     "title": "Prices drive Pakistan’s metered solar, outages drive hidden uptake",
-     "link": "https://www.pv-magazine.com/2026/10/09/prices-drive-pakistans-metered-solar-outages-drive-hidden-uptake/",
-     "pubDate": "Fri, 09 Oct 2026 12:50:00 +0000",
-     "summary": "A new study finds that Pakistan's net-metering capacity is concentrated in the best-served, higher-income utility areas, while much of the country's solar sits unregistered, off-grid and behind the meter where outages are worst. The post Prices drive Pakistan’s metered solar, outages drive hidden up",
-     "source": "pv magazine",
-     "zh": "价格推动巴基斯坦计量太阳能，停电推动隐性吸收"
     },
     {
      "title": "ContourGlobal breaks ground on 450MW solar-plus-storage facility in Arizona",
@@ -1729,20 +1729,76 @@
    "total": 18,
    "items": [
     {
-     "title": "利民推出 GPU BRACKET LCD 4.58：显卡支架集成 LCD 副屏",
-     "link": "https://www.ithome.com/1/011/349.htm",
-     "pubDate": "Sat, 10 Oct 2026 06:29:13 GMT",
-     "summary": "IT之家 10 月 10 日消息，Thermalright（利民 / 索摩乐）近日在电商平台上架了 PC 配件 GPU BRACKET LCD 4.58。这一产品整合了显卡支架与 LCD 副屏，适用于侧透机箱环境。 GPU BRACKET LCD 4.58 主体为铝合金材质，底部采用磁吸固定； 支撑高度可在 20~160mm 区间内调节 ，并以手拧螺丝固定； 采用 4.56\" 320×960 500nits 液晶面板 ，覆盖 2.5D 弧面玻璃。 IT之家了解到，这款产品售价 249 元， 享受 1 年质保 。",
+     "title": "HMD Pulse 2T Pro 手机曝光：联发科 Helio G100 芯片，背屏可显示未读消息",
+     "link": "https://www.ithome.com/1/011/355.htm",
+     "pubDate": "Sat, 10 Oct 2026 06:48:58 GMT",
+     "summary": "IT之家 10 月 10 日消息，消息源 @smashx_60 昨日（10 月 9 日）在 X 平台发布推文， 分享了一组渲染图，展示了 HMD Pulse 2T Pro 手机，是时隔约 2 年后 Pulse 系列迎来的新机。 规格方面，手机正面采用 6.68 英寸 OLED 屏，分辨率为 FHD+，刷新率为 120Hz。处理器据称为联发科 Helio G100，内置 4G 调制解调器。 存储配置据称只有 1 种：8GB 内存搭配 256GB UFS 2.2 存储。后置摄像头包括 5000 万像素主摄和 800 万像素副摄，主摄支持光学防抖。前置摄像头据称采用 5000 万像素传感器。 电池方",
      "source": "IT之家",
-     "zh": "利民推出 GPU BRACKET LCD 4.58：显卡支架集成 LCD 副屏"
+     "zh": "HMD Pulse 2T Pro 手机曝光：联发科 Helio G100 芯片，背屏可显示未读消息"
     },
     {
-     "title": "Cloudflare 推出开放权重决策 AI 模型 Clef-omni，新增支持音频 / 视频输入",
-     "link": "https://www.ithome.com/1/011/347.htm",
-     "pubDate": "Sat, 10 Oct 2026 06:26:25 GMT",
-     "summary": "IT之家 10 月 10 日消息，Cloudflare 昨日（10 月 9 日）发布公告， 宣布推出开放权重决策模型 Clef-omni，支持单次 API 调用处理文本、图像、音频和视频等。 定位方面， 该模型在此前 Clef 系列模型基础上 ，扩展支持多模态输入，模型权重已在 Hugging Face 开放。 多模态支持方面，此前的 Clef 支持文本、图像及从视频中抽取的连续画面（把视频按时间抽取成一张张静态图像，再把这些图像按顺序作为输入交给模型），而 Clef-omni 新增音频和完整视频输入，支持 wav、mp3、mp4 和 webm 格式。 Cloudflare 称，开发者无需另行",
+     "title": "荣耀 Earbuds X10 蓝牙耳机上架：12.4mm 动圈、41 小时综合续航",
+     "link": "https://www.ithome.com/1/011/354.htm",
+     "pubDate": "Sat, 10 Oct 2026 06:48:23 GMT",
+     "summary": "IT之家 10 月 10 日消息，荣耀现已在京东上架 Earbuds X10 蓝牙耳机，不过尚未公布该耳机具体价格信息。 该耳机拥有 IP54 认证，搭载 12.4 mm 振膜单元，支持空间环绕声效，提供至高 52 dB 深度降噪水平，同时支持 3 麦克风 AI 通话抗风噪，可在 5 级风力环境下保持清晰的通话质量。 该耳机单次最长可提供 8 小时的音乐播放，搭配充电盒综合续航长达 41 小时，同时支持荣耀手机“秒级配对”开盖即连、双设备同时连接、实时翻译等特性。",
      "source": "IT之家",
-     "zh": "Cloudflare 推出开放权重决策 AI 模型 Clef-omni，新增支持音频 / 视频输入"
+     "zh": "荣耀 Earbuds X10 蓝牙耳机上架：12.4mm 动圈、41 小时综合续航"
+    },
+    {
+     "title": "一副AI眼镜，难倒“眼镜之都”的小店主",
+     "link": "https://www.huxiu.com/article/4896407.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 14:45:03 +0800",
+     "summary": "本文来自微信公众号： 读城记工作室 ，编辑：梁励、王晨婷，作者：Beryl 家住深圳的小欣最近发现，附近的商场连着开了好几家的AI眼镜店。千问、小米、乐奇、雷鸟……国庆假期期间，每家店的体验台围了不少试戴的人，旁边还有人踮着脚看镜片上的导航演示。有门店称部分热门型号一度断货，不少消费者第一次不再只把它当作“极客玩具”，而是列入了购物清单。 这些商场里的热闹，正是AI眼镜站上风口的缩影之一。 2026年第一季度，全球智能眼镜出货量达到356.6万台，同比增长130.1%；今年天猫618第一阶段，AI眼镜成交额同比增长9倍。智能眼镜也首次纳入国家补贴，和手机、平板、智能手表（手环）并列为四类数码和",
+     "source": "虎嗅",
+     "zh": "一副AI眼镜，难倒“眼镜之都”的小店主"
+    },
+    {
+     "title": "狼蛛昆仑 L5 电竞鼠标 10 月 12 日开启预约：PAW3955 EVO 传感器、59g 重量、SSHS 2.0 电磁微动技术",
+     "link": "https://www.ithome.com/1/011/353.htm",
+     "pubDate": "Sat, 10 Oct 2026 06:42:13 GMT",
+     "summary": "IT之家 10 月 10 日消息，狼蛛现已开始预热旗下昆仑 L5 电竞鼠标，该鼠标主打电磁微动技术和轻量化设计，将于 10 月 12 日开启预约。 据介绍，该鼠标重量约 59g，整体针对 FPS 玩家操作习惯设计，使用黄金抓握模具，采用昆仑 2.0 特调骨架以平衡重量和优化结构，拥有引导内收腰线、左右键半包围弧形手指凹槽和更大的驼峰坡度，可提升电竞玩家持握贴合度与点击触发的舒适度。 该鼠标搭载狼蛛自研 SSHS 2.0 电磁微动技术，支持 10 档触发点调节、5 档 RT 快速复位调节，以及百档震感精调，内置 AI 自适应跳频抗干扰技术， 匹配 PAW3955 EVO 旗舰级传感器， 支持最高",
+     "source": "IT之家",
+     "zh": "狼蛛昆仑 L5 电竞鼠标 10 月 12 日开启预约：PAW3955 EVO 传感器、59g 重量、SSHS 2.0 电磁微动技术"
+    },
+    {
+     "title": "网文实体书籍内曝出“AI 回复内容”，出版社回应“将回收销毁已发出书籍，重新修订”",
+     "link": "https://www.ithome.com/1/011/352.htm",
+     "pubDate": "Sat, 10 Oct 2026 06:37:59 GMT",
+     "summary": "IT之家 10 月 10 日消息，据新浪新闻，近日，有网友称，自己在阅读《终焉路独行》这本网络文学作品实体版书籍时，发现正文里竟横插了一句“需要我再微调部分语句，让整体文风更贴合悬疑灵异的氛围吗？”典型 AI 回复内容。 后续网友调查相应网文网络版本， 发现相关位置并没有这句话，因此外界普遍认为是出版社方面的疏忽 。 ▲ 网传实体书籍 AI 回复内容 对此，江苏凤凰文艺出版社方面回应称：稿子在编辑、校对等环节经手的人比较多， 并非是作者的问题，已发出的书籍会回收后全部销毁，重新修订 。",
+     "source": "IT之家",
+     "zh": "网文实体书籍内曝出“AI 回复内容”，出版社回应“将回收销毁已发出书籍，重新修订”"
+    },
+    {
+     "title": "A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share (Bloomberg)",
+     "link": "https://www.techmeme.com/261010/p8#a261010p8",
+     "pubDate": "Sat, 10 Oct 2026 02:35:01 -0400",
+     "summary": "Bloomberg : A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share &nbsp; &mdash;&nbsp; When measuring the race between artificial intelligence leaders OpenAI and Anthropic PBC, investors have r",
+     "source": "Techmeme",
+     "zh": "看一下 Anthropic 和 OpenAI 的不同收入计算，Anthropic 通过云合作伙伴记录总销售额，而 OpenAI 仅记录其净份额（彭博社）"
+    },
+    {
+     "title": "苹果 iPhone Duo 开机欢迎画面爆料：能显示你的名字，且有望用上新字体",
+     "link": "https://www.ithome.com/1/011/351.htm",
+     "pubDate": "Sat, 10 Oct 2026 06:32:55 GMT",
+     "summary": "IT之家 10 月 10 日消息，在苹果零售店购买 iPhone Duo 的用户，有望获得一项特别的个性化服务：首次开机的欢迎界面上加入买家的姓名。用户第一次开机时，屏幕上显示的就不再是简单的“Hello”，而是带有自己名字的“Hello, [姓名]”。 据IT之家今天早些时候报道，彭博社记者马克 · 古尔曼称，只有在苹果实体零售店购买 iPhone Duo 的顾客才能享受这项服务。买家的姓名会在首次开机时与“Hello”一同显示。该服务仅限美国市场，支持英语和西班牙语。 随后，爆料者 @itspdfu 透露，苹果使用零售店原有的未拆封设备系统更新工具，为 iPhone Duo 设置专属开机欢",
+     "source": "IT之家",
+     "zh": "苹果 iPhone Duo 开机欢迎画面爆料：能显示你的名字，且有望用上新字体"
+    },
+    {
+     "title": "Steam 喜加一：原价 33 元休闲游戏《Fireside Feelings》免费领",
+     "link": "https://www.ithome.com/1/011/350.htm",
+     "pubDate": "Sat, 10 Oct 2026 06:32:14 GMT",
+     "summary": "IT之家 10 月 10 日消息，由 Team Empreintes 开发的休闲游戏《Fireside Feelings》目前正在 Steam 平台进行限时免费领取“喜加一”活动， 本作在国区定价为 33 元，玩家可以在北京时间 10 月 13 日前登录 Steam 账号领取 ，IT之家附游戏商品页（ https://store.steampowered.com/app/2990600/Fireside_Feelings/ ）。 据官方介绍，玩家可以在《Fireside Feelings》化身可爱动物，置身于宁静的赛博营地，在会说话的营火“Spark”引导下，与来自世界各地的真实玩家展开温馨的",
+     "source": "IT之家",
+     "zh": "Steam 喜加一：原价 33 元休闲游戏《Fireside Feelings》免费领"
+    },
+    {
+     "title": "具身智能大逃杀：300家抢跑，20张船票",
+     "link": "https://www.huxiu.com/article/4896398.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 14:29:34 +0800",
+     "summary": "本文来自微信公众号： 霞光社 ，作者：唐飞，编辑：李小天 2025年初，一位投资人跟具身智能项目创始人聊完，在备忘录里写下一句话：“这东西五年内不可能赚钱，但你现在不投，五年后一定后悔。” 到2026年9月的不到两年时间里，这句话被反复验证。 尤其是进入2026年后，具身智能赛道经历了一场罕见的资本狂欢与认知撕裂。IT桔子数据显示，具身赛道融资事件从2024年的105起跳升至2025年的333起，金额从95亿膨胀到406亿，分别激增217%和326%。进入2026年上半年，融资事件进一步冲到322起，几乎赶上了2025全年，202个披露金额的项目合计吸金超934亿元，同比增长350%。 热钱涌",
+     "source": "虎嗅",
+     "zh": "具身智能大逃杀：300家抢跑，20张船票"
     },
     {
      "title": "Laptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs (TrendForce)",
@@ -1751,22 +1807,6 @@
      "summary": "TrendForce : Laptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs &nbsp; &mdash;&nbsp; TrendForce's latest notebook industry research reveals that the primary risk facing the market in 2027 is ",
      "source": "Techmeme",
      "zh": "随着零部件成本飙升，个人电脑制造商重新考虑转移生产，中国以外的笔记本电脑产量份额预计将从 2025 年的 24% 下降至 2026 年的 21% (TrendForce)"
-    },
-    {
-     "title": "消息称苹果 iPhone Duo 折叠屏手机加单 30%，iPhone 18 Pro 系列总订单量未变",
-     "link": "https://www.ithome.com/1/011/346.htm",
-     "pubDate": "Sat, 10 Oct 2026 06:24:49 GMT",
-     "summary": "IT之家 10 月 10 日消息，据证券时报记者从苹果供应链方面获悉，苹果公司结构性调整 2026 年秋季手机新品订单量。 IT之家附相关调整如下： 对 iPhone Duo 加单 30%，但总量仍未超过 1000 万台。 对 iPhone 18 Pro 砍单 10%—15%，同时对 iPhone 18 Pro Max 加单 10%—15%， iPhone 18 Pro 系列总订单量未变 。 苹果供应链人士表示，“ 这意味着销量在往更高价值产品倾斜 ，所以整体利好苹果供应链公司业绩。” 延伸阅读 iPhone Duo 是苹果首款折叠屏手机，于北京时间 2026 年 9 月 10 日凌晨举行的苹",
-     "source": "IT之家",
-     "zh": "消息称苹果 iPhone Duo 折叠屏手机加单 30%，iPhone 18 Pro 系列总订单量未变"
-    },
-    {
-     "title": "知名分析师丹 · 艾夫斯力挺特斯拉：布局物理 AI 最直接的投资标的",
-     "link": "https://www.ithome.com/1/011/345.htm",
-     "pubDate": "Sat, 10 Oct 2026 06:19:52 GMT",
-     "summary": "IT之家 10 月 10 日消息，综合雅虎财经及 Benzinga 报道，特斯拉的估值能否经受住下一轮考验，关键或许不再是能卖出多少辆汽车，而是已经售出的汽车还能带来多少收入。 Yorkville Ives 分析师丹 · 艾夫斯认为，自动驾驶和机器人业务有望改变特斯拉的未来，但要让 500 美元 （IT之家注：现汇率约合 3,353 元人民币） 的目标股价有足够支撑，特斯拉还得证明这些业务能够带来持续收入。 艾夫斯在最新研报中 维持特斯拉“跑赢大盘”的评级和 500 美元的目标股价 。他认为，特斯拉正从汽车制造商转型为涵盖汽车、自动驾驶、人形机器人和储能业务的 “物理 AI”平台 。 如果投资",
-     "source": "IT之家",
-     "zh": "知名分析师丹 · 艾夫斯力挺特斯拉：布局物理 AI 最直接的投资标的"
     },
     {
      "title": "鼠疫概念股躁动，多家公司回应",
@@ -1783,22 +1823,6 @@
      "summary": "Yifan Yu / Nikkei Asia : Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market &nbsp; &mdash;&nbsp; PALO ALTO, California &mdash; Chip design software leader Synopsys says it is looking to help Chine",
      "source": "Techmeme",
      "zh": "芯片设计软件领导者 Synopsys 表示正在探索与中国人工智能实验室合作，为中国市场开发人工智能驱动的芯片设计工具（Yifan Yu/日经亚洲）"
-    },
-    {
-     "title": "威刚 XPG 带来 SE PLATIUM 电源：标准长 ATX，全日系 105℃ 电容",
-     "link": "https://www.ithome.com/1/011/344.htm",
-     "pubDate": "Sat, 10 Oct 2026 06:13:39 GMT",
-     "summary": "IT之家 10 月 10 日消息，威刚 (ADATA) XPG 电源新品 SE PLATIUM 现已上线电商平台。该系列覆盖 850W / 1000W / 1200W 三档功率， 目前提供的是 850W 和 1000W 版本 ，预售价分别为 569 元和 749 元。 SE PLATIUM 采用标准的 140mm 长度 ATX 外形规格和全模组设计，符合 ATX12V 3.1 规范要求， 获得 80 PLUS 与 PPLP 的铂金能效认证 。 其整体采用 105℃ 耐温日系电容器，提供原生 600W 12V-2×6 输出；内置 12cm FDB 轴承风扇；具备 OPP、OTP、OVP、SCP、",
-     "source": "IT之家",
-     "zh": "威刚 XPG 带来 SE PLATIUM 电源：标准长 ATX，全日系 105℃ 电容"
-    },
-    {
-     "title": "安卓版谷歌翻译酝酿新功能：梳理用户语音表达后再精准翻译",
-     "link": "https://www.ithome.com/1/011/343.htm",
-     "pubDate": "Sat, 10 Oct 2026 06:05:52 GMT",
-     "summary": "IT之家 10 月 10 日消息，科技媒体 Android Authority 昨日（10 月 9 日）发布博文，报道称在安卓版谷歌翻译（Google Translate）应用中出现 Smart assist 功能， 在翻译前整理语音输入，去除填充词和反复修正的表达。 该媒体拆解安卓 10.39.34.995726622.4-release 版谷歌翻译应用，在代码中发现了关于 Smart assist 功能的踪迹。按照现有界面线索， 翻译设置可能提供逐字翻译和 Smart assist 两种选择。 启用 Smart assist 后，应用会先处理用户的语音输入，再将整理后的文本用于翻译。IT之",
-     "source": "IT之家",
-     "zh": "安卓版谷歌翻译酝酿新功能：梳理用户语音表达后再精准翻译"
     },
     {
      "title": "Sources detail how Firmus&apos; IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue (Bloomberg)",
@@ -1841,36 +1865,12 @@
      "zh": "星巴克CEO，可能想买下老东家"
     },
     {
-     "title": "曾改变人类历史的咖啡馆，仍在集体营业中",
-     "link": "https://www.huxiu.com/article/4896387.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 13:39:57 +0800",
-     "summary": "本文来自微信公众号： 欧洲价值 ，作者：叶克飞，编辑：郑大钱 有学者曾写道：“每当咖啡引进，就会助长革命。咖啡是人间最极端的饮料，咖啡因会刺激思考，老百姓一旦深思就想造反，危及暴君地位。” 早在16世纪，咖啡就在阿拉伯世界里被称为“麻烦制造者”。麦加总督贝格发觉讽刺他的诗文从咖啡馆流出，决定查禁咖啡。1511年，麦加所有咖啡馆被迫关门，阿拉伯世界的其他统治者也相继宣布咖啡为非法饮品，擅自喝咖啡的人甚至会被处死。但人们热爱咖啡，最终法不责众，不了了之。 后来，咖啡传入欧洲，迅速赢得欧洲人的青睐。咖啡馆更成为一种象征，是知识分子聚会并批评时局的基地。17世纪末，英国人约翰·雷顿曾说：“咖啡馆不但不",
-     "source": "虎嗅",
-     "zh": "曾改变人类历史的咖啡馆，仍在集体营业中"
-    },
-    {
      "title": "Sources: Anthropic&apos;s AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
      "link": "https://www.techmeme.com/261010/p3#a261010p3",
      "pubDate": "Sat, 10 Oct 2026 01:20:01 -0400",
      "summary": "New York Times : Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed &nbsp; &mdash;&nbsp; The Philadelphia Police Department said the agents had also sent in a false homicide tip.&nbsp; The in",
      "source": "Techmeme",
      "zh": "资料来源：Anthropic 的 AI 代理通过美国国务院网站上的表格提交了 20 份签证申请；申请不完整且未得到处理（纽约时报）"
-    },
-    {
-     "title": "绿城中国前主席被控：4.4亿收购案的三个隐秘数字",
-     "link": "https://www.huxiu.com/article/4896381.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 13:12:21 +0800",
-     "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清，编辑：封飚 10月9日，香港廉政公署（ICAC）的一则公告，在地产圈和金融圈“炸开了”： 绿城中国前董事会主席张亚东被落案起诉，控罪为“串谋使代理人接受利益”。 案件当天就在香港东区裁判法院首次提堂（案号：ESCC2414/2026）：被告暂毋须答辩，押后至2027年1月8日再讯；张亚东获准以100万港元现金保释，期间不得离开香港、不得接触证人，须交出旅行证件并到警署报到。 辩方提出离港申请，法庭排在10月14日处理。 廉署的通报写得很克制：涉案交易只说成“以4.4亿元人民币购入当地一个房地产项目”。这句话后续补全了：张亚东被指控与一名中间人、一名",
-     "source": "虎嗅",
-     "zh": "绿城中国前主席被控：4.4亿收购案的三个隐秘数字"
-    },
-    {
-     "title": "Cloudflare acquires Deno, co-founded by Node.js creator Ryan Dahl, which had developed an open-source alternative to Cloudflare Workers and had raised $26M (Paul Sawers/The New Stack)",
-     "link": "https://www.techmeme.com/261010/p2#a261010p2",
-     "pubDate": "Sat, 10 Oct 2026 01:10:02 -0400",
-     "summary": "Paul Sawers / The New Stack : Cloudflare acquires Deno, co-founded by Node.js creator Ryan Dahl, which had developed an open-source alternative to Cloudflare Workers and had raised $26M &nbsp; &mdash;&nbsp; Cloudflare is buying the startup co-founded by Node.js creator Ryan Dahl, a longtime competit",
-     "source": "Techmeme",
-     "zh": "Cloudflare 收购了由 Node.js 创建者 Ryan Dahl 共同创立的 Deno，该公司开发了 Cloudflare Workers 的开源替代方案，并筹集了 2600 万美元（Paul Sawers/The New Stack）"
     },
     {
      "title": "LG Promo Codes and Coupons for October 2026",
@@ -1889,20 +1889,20 @@
      "zh": "佳能促销代码 30% 折扣 | 2026 年 10 月"
     },
     {
-     "title": "Disney Plus Discount Codes: 52% Off October 2026",
-     "link": "https://www.wired.com/story/disney-plus-discounts/",
-     "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000",
-     "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
-     "source": "WIRED",
-     "zh": "Disney Plus 折扣代码：2026 年 10 月 52% 折扣"
-    },
-    {
      "title": "Home Depot Promo Codes: 30% Off in October 2026",
      "link": "https://www.wired.com/story/home-depot-promo-code/",
      "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000",
      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
      "source": "WIRED",
      "zh": "Home Depot 促销代码：2026 年 10 月 30% 折扣"
+    },
+    {
+     "title": "Disney Plus Discount Codes: 52% Off October 2026",
+     "link": "https://www.wired.com/story/disney-plus-discounts/",
+     "pubDate": "Sat, 10 Oct 2026 05:00:00 +0000",
+     "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+     "source": "WIRED",
+     "zh": "Disney Plus 折扣代码：2026 年 10 月 52% 折扣"
     },
     {
      "title": "Altra Running Promo Codes: 10% Off October 2026",
@@ -1921,20 +1921,20 @@
      "zh": "eBay 优惠券：2026 年 10 月 20% 折扣"
     },
     {
+     "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
+     "link": "https://ilia.page/writing/introducing-nagare",
+     "pubDate": "Sat, 10 Oct 2026 04:37:13 +0000",
+     "summary": "Article URL: https://ilia.page/writing/introducing-nagare Comments URL: https://news.ycombinator.com/item?id=50029607 Points: 5 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Show HN：一款适用于 iPhone、Mac 和您的代理的简单待办事项应用程序"
+    },
+    {
      "title": "天津，一座被低估的AI基建重镇",
      "link": "https://www.tmtpost.com/8163595.html",
      "pubDate": "Sat, 10 Oct 2026 12:06:59 +0800",
      "summary": "低调的天津从来不只是“注册地”，更是科技产业链上的共建者和押注者",
      "source": "钛媒体",
      "zh": "天津，一座被低估的AI基建重镇"
-    },
-    {
-     "title": "Data Center Darling's $30B IPO Dream Crushed in 48 Hours",
-     "link": "https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours",
-     "pubDate": "Sat, 10 Oct 2026 04:04:17 +0000",
-     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours Comments URL: https://news.ycombinator.com/item?id=50029452 Points: 18 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "数据中心达林 300 亿美元 IPO 梦想在 48 小时内破灭"
     },
     {
      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
@@ -1948,7 +1948,7 @@
      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
      "pubDate": "Sat, 10 Oct 2026 03:02:47 +0000",
-     "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 51 # Comments: 18",
+     "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 68 # Comments: 25",
      "source": "Hacker News",
      "zh": "Telegram Desktop 漏洞允许任何用户的文件被盗"
     },
@@ -1956,7 +1956,7 @@
      "title": "Put a price on breakthroughs",
      "link": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
      "pubDate": "Sat, 10 Oct 2026 02:37:47 +0000",
-     "summary": "Article URL: https://alexwang.ai/posts/put-a-price-on-breakthroughs/ Comments URL: https://news.ycombinator.com/item?id=50028982 Points: 10 # Comments: 2",
+     "summary": "Article URL: https://alexwang.ai/posts/put-a-price-on-breakthroughs/ Comments URL: https://news.ycombinator.com/item?id=50028982 Points: 13 # Comments: 4",
      "source": "Hacker News",
      "zh": "为突破定价"
     },
@@ -1964,7 +1964,7 @@
      "title": "Next.js 16.4",
      "link": "https://nextjs.org/blog/next-16-4",
      "pubDate": "Sat, 10 Oct 2026 02:13:44 +0000",
-     "summary": "Article URL: https://nextjs.org/blog/next-16-4 Comments URL: https://news.ycombinator.com/item?id=50028855 Points: 11 # Comments: 5",
+     "summary": "Article URL: https://nextjs.org/blog/next-16-4 Comments URL: https://news.ycombinator.com/item?id=50028855 Points: 16 # Comments: 14",
      "source": "Hacker News",
      "zh": "Next.js 16.4"
     }
@@ -2225,52 +2225,68 @@
    "total": 13,
    "items": [
     {
-     "title": "祥源文旅、交建股份实控人俞发祥被证监会立案，此前已被采取刑事强制措施",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891901635.html",
-     "pubDate": "Sat, 10 Oct 2026 14:21:50 +0800",
-     "summary": "红星资本局10月10日消息 10月9日， 祥源文旅 （600576.SH）公告称，公司实控人俞发祥收到证监会《立案告知书》，因涉嫌信息披露违法违规被立案。俞发祥未在公司任职，公司生产经营正常，该事项不会对日常经营产生重大影响。 另外， 交建股份 （603815.SH）同日公告称，公司实控人俞发祥收到证监会立案告知书，因涉嫌信息披露违法违规被立案。俞发祥未在公司任职，公司生产经营正常，该事项不会对日常经营产生重大影响。 公开资料显示，俞发祥1971年出生于浙江嵊州，年仅15岁就开启了打工之路。1992年，俞发祥来到海南，从装修行业起步，成立了伟翔装饰公司，这也就是日后的祥源控股。2025年10月",
+     "title": "第二十届全国半导体与集成技术会议在青岛开幕",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891906721.html",
+     "pubDate": "Sat, 10 Oct 2026 14:45:37 +0800",
+     "summary": "据观海新闻，10月10日上午，第二十届全国 半导体 与集成技术会议在青岛西海岸新区开幕。本次会议由中国 电子 学会 半导体 与集成技术分会、中国科学院 半导体 研究所、山东大学主办，旨在推动半导体领域学科发展、技术创新与产业升级，为我国半导体与集成电路产业发展注入创新活力与动力。会议期间，还将举行青岛市集成电路产业生态合作大会。 （文章来源：人民财讯）",
      "source": "东方财富股票",
-     "zh": "祥源文旅、交建股份实控人俞发祥被证监会立案，此前已被采取刑事强制措施"
+     "zh": "第二十届全国半导体与集成技术会议在青岛开幕"
     },
     {
-     "title": "供应商被禁止投标，整改到位能否提前“解禁”？",
-     "link": "http://finance.eastmoney.com/news/1348,202610103891901316.html",
-     "pubDate": "Sat, 10 Oct 2026 14:20:50 +0800",
-     "summary": "当前，信用修复已成为社会信用体系建设的重要一环。在政府采购领域，失信主体能否通过信用修复提前恢复投标资格，引发广泛关注。供应商作为经营主体，其公共信用信息被广泛应用于政府采购，其中失信信息对供应商能否参加政府采购活动以及竞争态势会产生至关重要的影响。以供应商因触犯《中华人民共和国政府采购法》第七十七条规定被列入不良行为记录名单并在1—3年内禁止参加政府采购活动为例，这一“禁止参与”的制裁，对以政府采购为“主战场”的企业而言，其严厉程度不亚于全面停业。虽然严格的市场信用体系管理制度促进了企业合规经营，但如果信用惩戒过于严厉，也会演变为对市场竞争的不当干预。笔者认为，想要在保障政府采购目标实现与维",
+     "title": "西班牙央行上调经济增长预期 高通胀风险警报拉响",
+     "link": "http://finance.eastmoney.com/news/1346,202610103891906314.html",
+     "pubDate": "Sat, 10 Oct 2026 14:44:12 +0800",
+     "summary": "新华财经北京10月10日电西班牙央行最新更新的宏观经济预测报告显示，该行上调2026年、2027年国内生产总值增长预期，但同时大幅抬升通胀预判，警示能源扰动、服务业涨价带来的物价上行压力，地缘冲突则构成主要外部风险。 具体数据显示，西班牙央行将2026年GDP增速预期上调0.3个百分点至2.6%，2027年GDP预期上调0.5个百分点至2.2%。与增长向好形成反差的是通胀前景恶化：受能源市场震荡、商品涨价以及服务业通胀粘性影响，整体通胀与核心通胀将明显抬升。报告预计，2026年西班牙平均通胀率3.9%，2027年为3.7%，较6月份预测值分别上修0.3、1.1个百分点；核心通胀2026年3.4",
      "source": "东方财富股票",
-     "zh": "供应商被禁止投标，整改到位能否提前“解禁”？"
+     "zh": "西班牙央行上调经济增长预期 高通胀风险警报拉响"
     },
     {
-     "title": "全国首个百万千瓦级光伏光热项目并网发电",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891900637.html",
-     "pubDate": "Sat, 10 Oct 2026 14:18:46 +0800",
-     "summary": "近日，由 中国电建 投资建设运营的全国首个百万千瓦级光伏光热项目——青海共和百万千瓦光伏光热项目并网发电。该项目位于青海省海南州共和县，总装机100万千瓦，由90万千瓦光伏电站和10万千瓦熔盐塔式光热电站组成。项目投产后，预计年平均上网电量达22亿千瓦时，每年可节约标准煤约69万吨，减少二氧化碳排放约207万吨，将有效吸收峰电储热，提升地方电网调峰能力与 新能源 消纳水平。 （文章来源：界面新闻）",
+     "title": "俄罗斯当局称，击落了15架飞向莫斯科的乌克兰无人机",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891906237.html",
+     "pubDate": "Sat, 10 Oct 2026 14:42:40 +0800",
+     "summary": "俄罗斯当局称，击落了15架飞向莫斯科的乌克兰 无人机 。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "全国首个百万千瓦级光伏光热项目并网发电"
+     "zh": "俄罗斯当局称，击落了15架飞向莫斯科的乌克兰无人机"
     },
     {
-     "title": "北京：增加人工智能手机和电脑、智能穿戴、智能机器人等新一代智能终端产品有效供给",
-     "link": "http://finance.eastmoney.com/news/1355,202610103891901521.html",
-     "pubDate": "Sat, 10 Oct 2026 14:16:46 +0800",
-     "summary": "北京市人民政府印发《北京市“十五五”时期深化国际消费中心城市建设规划》，其中提到，深入推进“ 人工智能 +消费”。扩大数字产品消费，增加 人工智能 手机和电脑、 智能穿戴 、智能 机器人 等新一代智能终端产品有效供给。创新数字内容消费，鼓励利用 人工智能 技术辅助开展戏剧、音乐、舞蹈、美术、沉浸式体验等创作，推出更多优质数字文博产品，加大广播电视和网络视听超高清内容供给。打造数字消费新场景，加快推动数智技术与消费场景融合，推动人工智能、 虚拟现实 、超高清等技术与商业、 教育 、医疗、文化、旅游、体育等领域融合应用，创建智慧商圈、智慧商店。拓展数字消费渠道，支持实体商贸企业数字化营销，引导即时",
+     "title": "三家运营商上榜！",
+     "link": "http://finance.eastmoney.com/news/1348,202610103891906524.html",
+     "pubDate": "Sat, 10 Oct 2026 14:42:14 +0800",
+     "summary": "工业和信息化部近日公布第二批制造业数字化转型促进中心建设主体名单，共25家单位入选。要求各地工业和信息化主管部门加强指导支持和常态化管理；建设主体按创建指引强化“聚能+赋能”，突出 人工智能 赋能，深耕行业、扎根区域、辐射全国，助力中小企业数智化转型。工业和信息化部将加强动态管理，支持数促中心参与数字园区、新型技术改造、集群实数融合等工作，定期评估并推广典型经验。 关于公布第二批制造业数字化转型促进中心建设主体名单的通知 工信厅规函〔2026〕471号 各省、自治区、直辖市、新疆生产建设兵团工业和信息化主管部门： 根据《工业和信息化部办公厅关于开展第二批制造业数字化转型促进中心建设工作的通知》",
      "source": "东方财富股票",
-     "zh": "北京：增加人工智能手机和电脑、智能穿戴、智能机器人等新一代智能终端产品有效供给"
+     "zh": "三家运营商上榜！"
     },
     {
-     "title": "苹果iPhone Duo加单30%，iPhone 18 Pro系列总订单量未变",
-     "link": "http://finance.eastmoney.com/news/1360,202610103891900523.html",
-     "pubDate": "Sat, 10 Oct 2026 14:16:00 +0800",
-     "summary": "南方财经10月10日电，10月10日，记者独家从 苹果 供应链方面获悉， 苹果 公司结构性调整2026年秋季手机新品订单量：对iPhoneDuo加单30%，但总量仍未超过1000万台，并对iPhone18Pro砍单10%—15%，同时对iPhone18ProMax加单10%—15%，iPhone18Pro系列总订单量未变。“这意味着销量在往更高价值产品倾斜，所以整体利好 苹果 供应链公司业绩。”苹果供应链人士对记者表示。（证券时报） （文章来源：南方财经网）",
+     "title": "高盛：上调美光目标价至1250美元，维持“中性”评级",
+     "link": "http://stock.eastmoney.com/news/1611,202610103891906053.html",
+     "pubDate": "Sat, 10 Oct 2026 14:41:04 +0800",
+     "summary": "高盛 发表研报指，美光录得强劲季度业绩及指引，并签订新客户协议及上调资本开支以支持供应增加。该行将其目标价由1100美元上调至1250美元，维持“中性”评级。与同业相若，美光持续看到DRAM及NAND供需紧张情况将延续至2027年及2028年。公司已再签10份长期协议，合共约占至2030财年预期收入约35%，其中约75%包含结构化定价框架。该行继续认为这些协议对股价属正面，有助提高投资者愿意为高峰盈利支付的估值倍数。同时，行业持续加快供应增加以满足客户需求，惟该行相信最早至2028年才会出现有意义的市场宽松。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "苹果iPhone Duo加单30%，iPhone 18 Pro系列总订单量未变"
+     "zh": "高盛：上调美光目标价至1250美元，维持“中性”评级"
     },
     {
-     "title": "北京：深入推进“人工智能+消费”",
-     "link": "http://finance.eastmoney.com/news/1373,202610103891900392.html",
-     "pubDate": "Sat, 10 Oct 2026 14:15:00 +0800",
-     "summary": "南方财经10月10日电，北京市人民政府印发《北京市“十五五”时期深化国际消费中心城市建设规划》，其中提到，深入推进“ 人工智能 +消费”。扩大数字产品消费,增加 人工智能 手机和电脑、 智能穿戴 、智能 机器人 等新一代智能终端产品有效供给。创新数字内容消费,鼓励利用 人工智能 技术辅助开展戏剧、音乐、舞蹈、美术、沉浸式体验等创作,推出更多优质数字文博产品,加大广播电视和网络视听超高清内容供给。打造数字消费新场景,加快推动数智技术与消费场景融合,推动人工智能、 虚拟现实 、超高清等技术与商业、 教育 、医疗、文化、旅游、体育等领域融合应用,创建智慧商圈、智慧商店。拓展数字消费渠道,支持实体商贸",
-     "source": "东方财富股票",
-     "zh": "北京：深入推进“人工智能+消费”"
+     "title": "【图解】未来五年，让非遗更好融入现代生活",
+     "link": "http://www.eeo.com.cn/2026/1010/1059789.shtml",
+     "pubDate": "Sat, 10 Oct 2026 14:39:10 +0800",
+     "summary": "图下文字： 文案/设计：段常颖 策划：刘江 校对：石兰 审核：韩霁 （部分内容由AI辅助生成）",
+     "source": "经济观察网",
+     "zh": "【图解】未来五年，让非遗更好融入现代生活"
+    },
+    {
+     "title": "郑钦文、张帅今日分别冲击中网女子单双打决赛席位",
+     "link": "http://www.eeo.com.cn/2026/1010/1059788.shtml",
+     "pubDate": "Sat, 10 Oct 2026 14:39:09 +0800",
+     "summary": "郑钦文在2026中国网球公开赛比赛中。主办方供图 中国青年报客户端北京10月10日电（中青报·中青网记者 李梓昂）2026中国网球公开赛今天将展开女单、女双半决赛的争夺。郑钦文将在女单半决赛中迎战13号种子、比利时选手梅尔滕斯，向个人第二个WTA1000赛决赛席位发起冲击；张帅则将搭档捷克名将西尼亚科娃出战女双半决赛，力争延续本赛季两人的出色表现。 根据赛程...",
+     "source": "经济观察网",
+     "zh": "郑钦文、张帅今日分别冲击中网女子单双打决赛席位"
+    },
+    {
+     "title": "人社部：尽可能让灵活就业人员参加职工养老保险",
+     "link": "http://www.eeo.com.cn/2026/1010/1059755.shtml",
+     "pubDate": "Sat, 10 Oct 2026 14:26:11 +0800",
+     "summary": "21世纪经济报道记者王峰 北京报道 国务院新闻办10月10日举行新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情...",
+     "source": "经济观察网",
+     "zh": "人社部：尽可能让灵活就业人员参加职工养老保险"
     },
     {
      "title": "特斯拉欧洲市场放弃“全自动驾驶”，改为“辅助驾驶”",
@@ -2305,36 +2321,12 @@
      "zh": "工伤认定，不能惩罚家属的不离不弃"
     },
     {
-     "title": "湖南省凤凰县：把牢食品安全关护航节日消费",
-     "link": "http://www.eeo.com.cn/2026/1010/1059685.shtml",
-     "pubDate": "Sat, 10 Oct 2026 13:39:17 +0800",
-     "summary": "中国质量新闻网讯 近日，湖南省凤凰县市场监督管理局联合县公安局，并配合湘西州交通局、会同高速集团，组织执法人员深入农贸市场、商超、餐饮单位及高速服务区等重点场所，开展节前食品安全专项检查。 在县城及乡镇消费密集区域，市场监管与公安力量同步...",
-     "source": "经济观察网",
-     "zh": "湖南省凤凰县：把牢食品安全关护航节日消费"
-    },
-    {
      "title": "素人IP混战的2026年，TOP TOY押注的小玉能否拿到大结果？",
      "link": "https://wallstreetcn.com/articles/3783318",
      "pubDate": "Sat, 10 Oct 2026 13:29:11 +0800",
      "summary": "国庆假期，上海嘉善路的一栋老洋房外排起长队，消费者往往需要等待一两个小时才能进店。 吸引人们的是一个黑发、满脸雀斑、留着狗啃刘海的小女孩——yuy玉，粉丝们更习惯叫她“小玉”。 这个从小红书走红的原创IP，国庆期间与Parlid拍立得联手打造主题空间，推出联名相纸、影像体验及创意周边。 相距不远的富民路，另一场小玉主题店同期营业。二楼阳台上，巨大的小玉形象探出身子，俯瞰着楼下排队等候的人群。 上海富民路yuy玉慢闪 10月6日下午摄 小玉在线下受到的热烈追捧背后，离不开名创优品旗下TOP TOY的推动。 2025年底，TOP TOY投资控股小玉所属公司“广州角闪石族艺术文化有限责任公司”。 此",
      "source": "华尔街见闻",
      "zh": "素人IP混战的2026年，TOP TOY押注的小玉能否拿到大结果？"
-    },
-    {
-     "title": "放眼长周期",
-     "link": "http://www.eeo.com.cn/2026/1010/1059666.shtml",
-     "pubDate": "Sat, 10 Oct 2026 13:26:13 +0800",
-     "summary": "国庆长假前最后一个3天的交易周收官。前三季度，A股主要指数都经历了回调盘整，以时间换空间为后续积蓄动能。同时，前期抱团AI科技“战无不胜”的逻辑开始松动，市场正站在一个新的十字路口。 本周，本刊与众多投资机构进行了交流，机构对于四季度共识逐渐清晰：整体判断谨慎乐观，进攻仍靠科技，防守靠传统核心资产。有观点认为，当前市场呈现窄幅震荡、结构剧烈分化的格局，外部因素是重要扰动来源，但外部因...",
-     "source": "经济观察网",
-     "zh": "放眼长周期"
-    },
-    {
-     "title": "人社部：尽最大努力帮助高校毕业生顺利就业",
-     "link": "http://www.eeo.com.cn/2026/1010/1059665.shtml",
-     "pubDate": "Sat, 10 Oct 2026 13:26:12 +0800",
-     "summary": "国务院新闻办公室今天（10月10日）上午举行“开局起步‘十五五’”系列主题新闻发布会。人力资源社会保障部就业促进司司长宋鑫在会上表示，坚持把高校毕业生等青年就业摆在突出位置，尽最大努力帮助其顺利就业；在权益维护方面，持续开展人力资源市场秩序清理整顿专项行动，依法严厉打击就业歧视、滥用实习期等违法违规行为，营造公平有序的就业环境。",
-     "source": "经济观察网",
-     "zh": "人社部：尽最大努力帮助高校毕业生顺利就业"
     },
     {
      "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
@@ -2367,6 +2359,14 @@
      "summary": "People are drinking less. Vines are being ripped up. Winemakers are going bust. Can the Disneyland of wine survive the downturn?",
      "source": "Financial Times",
      "zh": "纳帕谷的宿醉"
+    },
+    {
+     "title": "Inside the ‘robot gyms’ training machines for the real world",
+     "link": "https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1",
+     "pubDate": "Sat, 10 Oct 2026 04:00:07 GMT",
+     "summary": "‘Physical AI’ developers are putting cameras in homes, offices and factories to fill a gap in the training material of robotics",
+     "source": "Financial Times",
+     "zh": "真实世界的“机器人健身房”训练机器内部"
     },
     {
      "title": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧",
@@ -2497,20 +2497,20 @@
      "zh": "能够相互通信的自动驾驶太阳能汽车？ 10年后车辆会是什么样子。"
     },
     {
-     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
-     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
-     "source": "Live Science",
-     "zh": "酷炫的化学技巧可以让新纹身“打开和关闭”"
-    },
-    {
      "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
      "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
      "source": "Live Science",
      "zh": "科学家们在血液中发现了一种可以预测健康衰老的“蛋白质特征”"
+    },
+    {
+     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
+     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
+     "source": "Live Science",
+     "zh": "酷炫的化学技巧可以让新纹身“打开和关闭”"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

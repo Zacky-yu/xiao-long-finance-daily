@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 07:20:01",
+ "generated_at": "2026/10/11 07:31:37",
  "recent_days": 7,
  "industries": [
   {
@@ -962,12 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "Clean-energy super PAC names its target list for general elections"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1722,6 +1722,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务",
+     "link": "https://www.ithome.com/1/011/545.htm",
+     "pubDate": "Sat, 10 Oct 2026 23:19:46 GMT",
+     "summary": "IT之家 10 月 11 日消息，微软 CEO 萨蒂亚 · 纳德拉认为，在 AI 日益蓬勃发展的时代，使用超级智能自我监控等简单策略是不够的。 纳德拉在北京时间 10 月 10 日晚的一篇长文中指出，传统软件系统在过去几十年中被广泛部署，人类已经拥有追踪特定代码路径行为的工具和能力。然而， AI 模型比传统软件更强大，但却是一个黑盒子 ，我们部署了这些复杂的智能体系统和模型，访问我们最敏感的数据，并赋予它们代表我们执行关键任务的能力。 纳德拉认为，我们应该退一步思考，重新评估这个新时代的信任架构。模型提供商根本无法将责任外包出去，不能把超级智能当作一套嵌套的黑匣子，简单地接受或拒绝它的建议、答",
+     "source": "IT之家",
+     "zh": "微软 CEO 纳德拉：开发者应当默认假设 AI 模型失控，思考如何强制中断任务"
+    },
+    {
      "title": "日本罗森、JR 九州等多家企业遭非法访问，超千万条用户信息外泄",
      "link": "https://www.ithome.com/1/011/544.htm",
      "pubDate": "Sat, 10 Oct 2026 23:08:26 GMT",
@@ -1746,6 +1754,14 @@ window.INDUSTRY_DATA = {
      "zh": "亚马逊云科技向姚明发起的姚基金捐赠 100 万美元现金及云 + AI 资源，目标培养 AI + 体育复合型人才"
     },
     {
+     "title": "Build your own decision model",
+     "link": "https://nishtahir.com/build-your-own-decision-model/",
+     "pubDate": "Sat, 10 Oct 2026 22:50:10 +0000",
+     "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Build your own decision model"
+    },
+    {
      "title": "消息称英伟达洽谈收购 / 追加投资 Reflection AI，加码开源模型",
      "link": "https://www.ithome.com/1/011/541.htm",
      "pubDate": "Sat, 10 Oct 2026 22:46:30 GMT",
@@ -1765,17 +1781,9 @@ window.INDUSTRY_DATA = {
      "title": "A city-building game in which the city would prefer you didn't",
      "link": "https://housing.over.pizza/",
      "pubDate": "Sat, 10 Oct 2026 20:31:50 +0000",
-     "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 82 # Comments: 33",
+     "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 91 # Comments: 39",
      "source": "Hacker News",
      "zh": "A city-building game in which the city would prefer you didn't"
-    },
-    {
-     "title": "50MB operating system can resurrect your old PC",
-     "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
-     "pubDate": "Sat, 10 Oct 2026 19:59:24 +0000",
-     "summary": "Article URL: https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/ Comments URL: https://news.ycombinator.com/item?id=50036571 Points: 26 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "50MB operating system can resurrect your old PC"
     },
     {
      "title": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)",
@@ -1789,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Takeshi's Castle",
      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
      "pubDate": "Sat, 10 Oct 2026 19:12:55 +0000",
-     "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle Comments URL: https://news.ycombinator.com/item?id=50036119 Points: 81 # Comments: 30",
+     "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle Comments URL: https://news.ycombinator.com/item?id=50036119 Points: 85 # Comments: 30",
      "source": "Hacker News",
      "zh": "Takeshi's Castle"
     },
@@ -1813,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
      "pubDate": "Sat, 10 Oct 2026 18:48:35 +0000",
-     "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 91 # Comments: 58",
+     "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 96 # Comments: 62",
      "source": "Hacker News",
      "zh": "Nvidia in talks to acquire US 'open' model startup Reflection AI"
     },
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Why DuckDB 2.0 is faster",
      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
      "pubDate": "Sat, 10 Oct 2026 18:08:49 +0000",
-     "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/ Comments URL: https://news.ycombinator.com/item?id=50035530 Points: 106 # Comments: 34",
+     "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/ Comments URL: https://news.ycombinator.com/item?id=50035530 Points: 109 # Comments: 34",
      "source": "Hacker News",
      "zh": "Why DuckDB 2.0 is faster"
     },
@@ -1872,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 旧叔笔谈 ，作者：旧叔 10月8日，懂车帝发布的一条封闭场地实测视频，在汽车市场激起了本年度或许是最震荡的一场舆论风暴。 视频中，三台全新未改装的尊界V800在100公里时速刹停的紧急制动测试中，制动踏板支架先后断裂，断裂位置和失效形态几乎一模一样。 而这场舆论风暴之所以如此汹涌，很大程度是因为这台车来头不小，它是华为与江淮汽车合作品牌尊界旗下的旗舰MPV，今年8月5日才上市，售价从76.8万元排到101.8万元。 巨大关注度之下，视频发布当晚，尊界汽车便发布情况说明，承诺优化部件并为已交付用户免费升级，同时把此次测试定性为非标准极端工况。 就在视频发布、尊界回应的第二天",
      "source": "虎嗅",
      "zh": "免费升级但不是召回，尊界V800的踏板风波只讲了一半"
-    },
-    {
-     "title": "宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台",
-     "link": "https://www.ithome.com/1/011/539.htm",
-     "pubDate": "Sat, 10 Oct 2026 15:59:01 GMT",
-     "summary": "IT之家 10 月 10 日消息，今日，宁德时代宣布与 赛力斯集团 在重庆签署长期战略合作协议。 据介绍，问界品牌自创立以来，全系车型均搭载宁德时代电池，截至目前累计交付已突破 120 万台。以此为新起点， 问界将继续长期全系搭载宁德时代电池 ，双方将围绕三大核心领域全面深化战略协同。 首先是扩建“厂中厂”产能，加速赛力斯超级工厂“厂中厂”二期建设，二期年规划产能 10-12GWh， 建成后一、二期总年产能将超 20GWh 。 此外，双方还将构建超充补能生态，围绕超充网络与电池服务展开合作。加速全球化布局，联合开拓欧洲、中东及中亚等海外市场，将产品与服务推向全球。 IT之家注意到， 去年 6 ",
-     "source": "IT之家",
-     "zh": "宁德时代与赛力斯签署长期战略合作协议：问界全系搭载、交付突破 120 万台"
     },
     {
      "title": "收废品，怎么就成了大生意？",
@@ -2002,14 +2002,6 @@ window.INDUSTRY_DATA = {
      "zh": "How does using your MacBook while charging affect its battery life?"
     },
     {
-     "title": "Samsung Galaxy S27 might finally introduce DC dimming",
-     "link": "https://www.gsmarena.com/samsung_galaxy_s27_might_finally_introduce_dc_dimming-news-74994.php",
-     "pubDate": "Sat, 10 Oct 2026 23:01:02 +0200",
-     "summary": "We already heard word that Samsung Display is gearing up to start Galaxy S27 display manufacturing soon. That might have already happened; hence, these new leaks might be perfectly plausible. Apparently, the S27 Pro and S27 Ultra will be the first Samsung smartphones to offer DC dimming. That sounds",
-     "source": "GSMArena",
-     "zh": "Samsung Galaxy S27 might finally introduce DC dimming"
-    },
-    {
      "title": "Samsung has updated these Galaxy devices to Android 17",
      "link": "https://9to5google.com/2026/10/10/samsung-galaxy-android-17-update-list/",
      "pubDate": "Sat, 10 Oct 2026 20:58:26 +0000",
@@ -2042,14 +2034,6 @@ window.INDUSTRY_DATA = {
      "zh": "This Android Auto problem is affecting calls on foldable phones"
     },
     {
-     "title": "Deals: Some Galaxy and Pixel phones kept their Prime Day prices - no Prime required now, though",
-     "link": "https://www.gsmarena.com/deals_some_galaxy_and_pixel_phones_kept_their_prime_day_prices__no_prime_required_now_though-news-74975.php",
-     "pubDate": "Sat, 10 Oct 2026 20:31:02 +0200",
-     "summary": "Amazon’s Prime Big Deal Days only lasted two days and there were some really good deals to be had for Prime subscribers. But that is over, so today we will look at no-Prime deals and, as it turns out, many phones kept their Prime Day prices. The good news is that these deals don’t require a Prime su",
-     "source": "GSMArena",
-     "zh": "Deals: Some Galaxy and Pixel phones kept their Prime Day prices - no Prime required now, though"
-    },
-    {
      "title": "How to quickly check your Samsung Galaxy's warranty info",
      "link": "https://www.engadget.com/2280016/how-to-check-warranty-samsung-galaxy/",
      "pubDate": "Sat, 10 Oct 2026 18:30:00 +0000",
@@ -2058,28 +2042,12 @@ window.INDUSTRY_DATA = {
      "zh": "How to quickly check your Samsung Galaxy's warranty info"
     },
     {
-     "title": "Google starts teasing the Fitbit Edge, reveals its launch date",
-     "link": "https://www.gsmarena.com/google_starts_teasing_the_fitbit_edge_reveals_its_launch_date-news-74989.php",
-     "pubDate": "Sat, 10 Oct 2026 18:03:02 +0200",
-     "summary": "Google's next fitness tracker, the Fitbit Edge, leaked earlier this month, and then we also got rumored pricing for it as well as its full specs a few days later. Now, Google has finally acknowledged the existence of the device, and started teasing it on X, where it also revealed the Edge's launch d",
-     "source": "GSMArena",
-     "zh": "Google starts teasing the Fitbit Edge, reveals its launch date"
-    },
-    {
      "title": "Amazon’s new Alexa Tablet finally gives the iPad lineup some much needed competition",
      "link": "https://9to5mac.com/2026/10/10/amazon-alexa-tablet-solid-ipad-competition/",
      "pubDate": "Sat, 10 Oct 2026 15:51:43 +0000",
      "summary": "This week, Amazon unveiled a new lineup of Alexa Tablets. They no longer run a proprietary OS with a custom App Store, and instead embrace Android with a stock feel – while offering the Play Store. It’s a big shift in direction for Amazon. The tablets also look quite beautiful, while previous Fire t",
      "source": "9to5Mac",
      "zh": "Amazon’s new Alexa Tablet finally gives the iPad lineup some much needed competition"
-    },
-    {
-     "title": "Oppo Find N7's camera and display details surface",
-     "link": "https://www.gsmarena.com/oppo_find_n7_camera_display_details_tipped-news-74991.php",
-     "pubDate": "Sat, 10 Oct 2026 15:38:02 +0200",
-     "summary": "The Oppo Find N7 is expected in Q1 2027, possibly March, like its predecessor, the Find N6. While Oppo hasn't revealed anything about the Find N7, reliable tipster Digital Chat Station has shared some details. DCS says that the Oppo Find N7 will be powered by a 2nm chipset and feature a 7.6\" screen ",
-     "source": "GSMArena",
-     "zh": "Oppo Find N7's camera and display details surface"
     },
     {
      "title": "Apple @ Work: Remote AppleCare log collection is one of the most underrated updates in macOS 27",
@@ -2096,14 +2064,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hot off fall Prime Day 2026, we are still up to $150 off the new M6 Mac mini and a $200 price drop on the new Mac Studio joined by the best prices in months on M5 MacBook Air at $200 off. While AirPods Pro 3 have jumped up a touch, they are still carrying a notable deal price alongside AirPods Max 2",
      "source": "9to5Mac",
      "zh": "Apple weekend deals: AirPods, up to $200 off new Macs, Apple Watch, more from $41"
-    },
-    {
-     "title": "This is when the Infinix GT 50 Pro is finally launching in India",
-     "link": "https://www.gsmarena.com/this_is_when_the_infinix_gt_50_pro_is_finally_launching_in_india-news-74988.php",
-     "pubDate": "Sat, 10 Oct 2026 13:01:02 +0200",
-     "summary": "Infinix launched the GT 50 Pro back in April, but for some reason it still hasn't made the device available in India. That will thankfully change very soon. Following a brief teaser campaign, today the company has officially revealed the phone's launch date in India: October 27. Unfortunately, prici",
-     "source": "GSMArena",
-     "zh": "This is when the Infinix GT 50 Pro is finally launching in India"
     },
     {
      "title": "If you only care about the basics, this is the only Android phone I’d recommend",
@@ -2154,14 +2114,6 @@ window.INDUSTRY_DATA = {
      "zh": "Zero-stress travel: The app stack that keeps my trips frictionless"
     },
     {
-     "title": "Deals: vivo X Fold6 arrives, Galaxy S26 Ultra price remains low, iPhone 17 series on sale",
-     "link": "https://www.gsmarena.com/deals_vivo_x_fold6_arrives_galaxy_s26_ultra_price_remains_low_iphone_17_series_on_sale-news-74980.php",
-     "pubDate": "Sat, 10 Oct 2026 09:49:02 +0200",
-     "summary": "The Prime Big Deal Days sale must have gone well as a lot of smartphones are showing as “out of stock” on Amazon – and for those that are still available, supplies are limited, so their prices went back up. We still managed to find a few good offers, but we’ll kick things off with a new release. The",
-     "source": "GSMArena",
-     "zh": "Deals: vivo X Fold6 arrives, Galaxy S26 Ultra price remains low, iPhone 17 series on sale"
-    },
-    {
      "title": "Generative AI scandal has come to one of Nikon’s competitions",
      "link": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
      "pubDate": "Sat, 10 Oct 2026 02:37:53 +0000",
@@ -2208,6 +2160,54 @@ window.INDUSTRY_DATA = {
      "summary": "Google Health 5.10 is rolling out as a smaller update this week with a trio of new features across the app. more…",
      "source": "9to5Google",
      "zh": "Google Health 5.10 rolling out for Android, iOS"
+    },
+    {
+     "title": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says",
+     "link": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/",
+     "pubDate": "Fri, 09 Oct 2026 22:29:17 +0000",
+     "summary": "According to Bloomberg’s Mark Gurman, iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it on for the first time. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says"
+    },
+    {
+     "title": "Survey suggests that the iPhone Duo is tempting a surprising number of Android fans",
+     "link": "https://www.androidauthority.com/ditch-android-for-the-iphone-duo-poll-results-3721582/",
+     "pubDate": "Fri, 09 Oct 2026 22:29:05 +0000",
+     "summary": "Not quite an Android exodus, but encouraging reading for Apple.",
+     "source": "Android Authority",
+     "zh": "Survey suggests that the iPhone Duo is tempting a surprising number of Android fans"
+    },
+    {
+     "title": "Pixelated 120: The definitive Pixel tier list",
+     "link": "https://9to5google.com/2026/10/09/pixelated-120-the-definitive-pixel-tier-list/",
+     "pubDate": "Fri, 09 Oct 2026 21:08:33 +0000",
+     "summary": "Welcome to Pixelated episode 120. This week, Abner, Damien, and Will celebrate 10 years of Pixel by ranking all of Google’s smartphones released over the past decade. Also, we finally make the jump over to video! Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode b",
+     "source": "9to5Google",
+     "zh": "Pixelated 120: The definitive Pixel tier list"
+    },
+    {
+     "title": "Next-gen Google TV Streamer in the works with microphones, presence sensing, & new remote",
+     "link": "https://9to5google.com/2026/10/09/next-gen-google-tv-streamer/",
+     "pubDate": "Fri, 09 Oct 2026 20:30:00 +0000",
+     "summary": "9to5Google can report that development on a next-generation Google TV Streamer is underway. more…",
+     "source": "9to5Google",
+     "zh": "Next-gen Google TV Streamer in the works with microphones, presence sensing, & new remote"
+    },
+    {
+     "title": "With the right lenses, all formats can shine",
+     "link": "https://www.dpreview.com/opinion/with-the-right-lenses-all-formats-can-shine/",
+     "pubDate": "Fri, 09 Oct 2026 14:00:36 +0000",
+     "summary": "Proper support lets different formats deliver on their size/price/IQ promise",
+     "source": "DPReview",
+     "zh": "With the right lenses, all formats can shine"
+    },
+    {
+     "title": "本周看什么 | 最近值得一看的 11 部作品",
+     "link": "https://sspai.com/post/115566",
+     "pubDate": "Fri, 09 Oct 2026 18:04:09 +0800",
+     "summary": "📅本周新预告《寒夜怪谈》新预告10月1日，电影《寒夜怪谈》发布了新预告，将于11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ... 查看全文",
+     "source": "少数派",
+     "zh": "本周看什么 | 最近值得一看的 11 部作品"
     }
    ]
   },
@@ -2218,52 +2218,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "新疆阿克苏地区沙雅县发生3.3级地震，震源深度21千米",
-     "link": "http://finance.eastmoney.com/news/11790,202610113892014677.html",
-     "pubDate": "Sun, 11 Oct 2026 07:04:59 +0800",
-     "summary": "中国地震台网正式测定：10月11日00时43分在新疆阿克苏地区沙雅县（北纬39.98度，东经82.96度）发生3.3级地震，震源深度21千米。 （文章来源：界面新闻）",
+     "title": "沙特机场遭袭，美或将介入打击行动",
+     "link": "http://finance.eastmoney.com/news/1356,202610113892015782.html",
+     "pubDate": "Sun, 11 Oct 2026 07:23:45 +0800",
+     "summary": "沙特首都利雅得 机场 遭袭致12死309伤 新华社利雅得10月11日电沙特阿拉伯民航总局11日凌晨发表声明说，位于首都利雅得的哈立德国王国际 机场 10日遭袭击，已造成12人死亡、309人受伤。 声明说，死者包括4名沙特人、2名孟加拉国人，其余6人分别来自美国、埃及、约旦、叙利亚、巴勒斯坦和苏丹。 声明还说，伤者正在当地多家 医院 接受治疗，部分伤者伤势严重。袭击造成的财产损失情况仍在评估中。 沙特民航总局10日发表声明说，哈立德国王国际 机场 当天下午遭到袭击，机场已暂停运营。沙特民航总局正与有关部门协调，待完成损失评估并确认设施安全后再恢复机场运营。 此外，沙特主导的多国联军发言人图尔基·",
      "source": "东方财富股票",
-     "zh": "新疆阿克苏地区沙雅县发生3.3级地震，震源深度21千米"
+     "zh": "沙特机场遭袭，美或将介入打击行动"
     },
     {
-     "title": "美警方：宾州枪击事件枪手杀害8人后自杀",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892014580.html",
-     "pubDate": "Sun, 11 Oct 2026 06:53:16 +0800",
-     "summary": "当地时间10月10日获悉，美国宾夕法尼亚州伊利市警方在新闻发布会上透露了9日晚枪击案的细节。警方称，一名45岁男子在伊利市枪杀8人，其中包括一名孕妇和两名儿童，随后自杀身亡。警方表示尚未确定枪手的作案动机。 宾夕法尼亚州伊利市9日发生大规模枪击事件，造成包括枪手在内的9人死亡。 （文章来源：央视新闻）",
+     "title": "铁脉贯通冀鲁豫 京港高铁雄商段激活沿线产业新势能",
+     "link": "http://finance.eastmoney.com/news/1355,202610113892015517.html",
+     "pubDate": "Sun, 11 Oct 2026 07:22:32 +0800",
+     "summary": "京港高铁雄商段作为国家“八纵八横”京港（台）高速铁路主通道关键区段，北起雄安站，南抵商丘站，纵贯冀鲁豫3省9市26个县区。线路开通补齐了京广、京沪两大南北干线之间的路网空缺，带来的核心改变并非单纯压缩旅客通行时长，而是重构区域要素流通格局。 新线承接大量客运流量，有效释放京九普速铁路货运能力。一方面，高铁加速客商、游客跨区域流动，为沿线文旅、非遗、乡村特色产业带来客流增量；另一方面，普速运能释放，为鲁西内陆外贸 物流 、地方制造业打通物资外运的现实通道。但交通改善只是外部基础，红利不会自动兑现，沿线地方的产业配套、市场承接能力，决定着时空优势能否真正转化为实体经济收益。这条552公里的高铁通道",
      "source": "东方财富股票",
-     "zh": "美警方：宾州枪击事件枪手杀害8人后自杀"
+     "zh": "铁脉贯通冀鲁豫 京港高铁雄商段激活沿线产业新势能"
     },
     {
-     "title": "证监会召开资本市场和金融形势专家座谈会；郑钦文首进中网女单决赛；食品安全法修订草案征求意见；俄宣布部分解除柴油出口禁令丨每经早参",
-     "link": "http://finance.eastmoney.com/news/1346,202610113892014362.html",
-     "pubDate": "Sun, 11 Oct 2026 06:43:47 +0800",
-     "summary": "1 5方面15条举措商务部等7部门部署品质电商“五优”行动 10月10日，《商务部等7部门关于实施品质电商“五优”行动的通知》（以下简称《通知》）发布。 《通知》明确惠民生与促消费结合、规范发展与质量提升并重、数字技术与实体经济融合的原则，重点任务部署15项具体工作，围绕五大维度构建全链条培育体系 。下一步，商务部将会同有关部门推动“五优”行动举措落地见效，以品质电商发展助力消费提质升级和 电子 商务高质量发展。 商务部欧洲司负责人解读中欧贸易投资磋商机制第二次例会成果 10月10日，据商务部网站消息，10月8日至9日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京",
+     "title": "前三季度城轨新增里程同比缩水两成 市域快轨份额抬升",
+     "link": "http://finance.eastmoney.com/news/1355,202610113892015253.html",
+     "pubDate": "Sun, 11 Oct 2026 07:21:59 +0800",
+     "summary": "中国城市轨道交通协会（以下简称“城轨协会”）近日发布2026年前三季度中国内地城轨交通线路概况：今年前三季度，全国新增城轨交通运营线路377.29公里，比去年同期下降23.26%。 业内专家指出，轨道交通大规模建设阶段已经结束，未来衡量轨道系统好坏不再看新增里程数字，而是看已建成网络能否服务更多市民、支撑城市发展并实现财务可持续。 全自动运行线路里程不断增长 城轨投资和新增里程下滑态势已经持续多年。城轨协会发布的历年数据显示，中国城市轨道交通建设投资规模在2020年达到6286亿元的最高峰之后，近几年持续回落。2021—2025年年度投资额分别为5859.8亿元、5444亿元、5214亿元、4",
      "source": "东方财富股票",
-     "zh": "证监会召开资本市场和金融形势专家座谈会；郑钦文首进中网女单决赛；食品安全法修订草案征求意见；俄宣布部分解除柴油出口禁令丨每经早参"
+     "zh": "前三季度城轨新增里程同比缩水两成 市域快轨份额抬升"
     },
     {
-     "title": "美以领导人被曝近期频繁就再袭伊朗进行沟通",
-     "link": "http://finance.eastmoney.com/news/1356,202610113892014454.html",
-     "pubDate": "Sun, 11 Oct 2026 06:39:11 +0800",
-     "summary": "总台记者当地时间10月10日获悉，以色列方面有消息称，美国总统特朗普与以色列总理内塔尼亚胡近期“就美以可能再对伊朗发动军事打击一事进行了频繁、紧急沟通”。 根据多名以色列安全机构高级官员的消息，“美以尚未就此作出最终决定，内塔尼亚胡无意在以色列本月底举行议会选举前采取军事行动”。以军内部认为，美方未来倾向于重启对伊朗军事行动。目前，以军正据此为应对一切可能情况作准备。（央视新闻） （文章来源：每日经济新闻）",
+     "title": "特朗普：乌方不能攻击炼油厂，建议乌克兰总统换人",
+     "link": "http://finance.eastmoney.com/news/1356,202610113892015636.html",
+     "pubDate": "Sun, 11 Oct 2026 07:18:11 +0800",
+     "summary": "当地时间10月10日，美国总统特朗普表示，乌克兰总统泽连斯基想干什么就干什么，但不能打炼油厂。特朗普还表示，泽连斯基最好立刻停手。特朗普称，建议他们换个领导人，这样他们就能达成协议了，乌克兰该换个新总统了。 特朗普当天启程前往田纳西州参加共和党选民集会前在白宫对记者说：“我建议他们（乌克兰）换个能达成协议的新领导人，因为他（泽连斯基）本来可以达成很多协议，但出于某种原因，他从未这样做。” 特朗普暗示，泽连斯基在结束俄乌冲突方面做得不够。他说：“那是一场本不该爆发的战争。我认为，乌克兰是时候换一个新总统了。” 特朗普还把美国国内柴油价格高企的问题归咎于泽连斯基，称他“想给全世界制造麻烦，想在柴油",
      "source": "东方财富股票",
-     "zh": "美以领导人被曝近期频繁就再袭伊朗进行沟通"
+     "zh": "特朗普：乌方不能攻击炼油厂，建议乌克兰总统换人"
     },
     {
-     "title": "沙特主导多国联军称拦截并摧毁一枚胡塞武装弹道导弹",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892014116.html",
-     "pubDate": "Sun, 11 Oct 2026 06:37:22 +0800",
-     "summary": "当地时间10月11日凌晨，沙特阿拉伯主导的多国联军发言人图尔基·马利基表示，联军当天在沙特利雅得省海尔季地区拦截并摧毁了一枚由胡塞武装发射的弹道导弹。 （文章来源：央视新闻）",
+     "title": "需求持续回暖 9月中国物流业景气指数发布",
+     "link": "http://finance.eastmoney.com/news/1346,202610113892014946.html",
+     "pubDate": "Sun, 11 Oct 2026 07:14:45 +0800",
+     "summary": "中国 物流 与采购联合会今天（11日）发布9月份中国 物流 业景气指数。指数继续保持在扩张区间，较上月有所回升， 物流 需求持续回暖，企业经营韧性不断显现。9月份，中国物流业景气指数为51.5%，较上月回升0.6个百分点，连续5个月处在扩张区间。新订单指数为51.2%，环比回升0.4个百分点，连续7个月回升。12个分项指数中，有10个分项指数环比回升。从三季度以来的数据变化看，物流业务需求增长，微观经营趋稳，为四季度物流景气平稳运行奠定基础。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "沙特主导多国联军称拦截并摧毁一枚胡塞武装弹道导弹"
+     "zh": "需求持续回暖 9月中国物流业景气指数发布"
     },
     {
-     "title": "公积金功能 又上新了！",
-     "link": "http://finance.eastmoney.com/news/1350,202610113892012889.html",
-     "pubDate": "Sun, 11 Oct 2026 06:36:08 +0800",
-     "summary": "近期，多地正式开始落地住房公积金惠民新政，提取范围进一步放宽。南京、苏州等地已开始受理装修、物业费提取业务，辽宁沈阳也发布九项优化政策，采暖费等支出纳入提取范围。 南京 10月9日，南京住房公积金新政正式落地办理。 根据新政，2026年9月20日起，进行自住住房装修的缴存家庭都可以申请公积金装修提取，每平方米不超过1000元，家庭最高提取总额15万元。缴存家庭提取公积金支付自住住房物业费的，凭物业费发票年度最高提取5000元；无发票年度最高提取1000元。 江苏南京住房公积金管理中心归集贷款处工作人员张远航介绍，截至目前已有7300名缴存人成功申请办理本次新政的业务，申请金额约1600万元。 ",
+     "title": "上海生物医药产业站上万亿规模后，总投资18亿元的新项目在张江启动",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892015043.html",
+     "pubDate": "Sun, 11 Oct 2026 07:14:02 +0800",
+     "summary": "张江科学城再添一块正在生长的产业拼图。10月10日，诺华上海园区落成十周年之际，宣布与投资及运营合作伙伴易商集团、云松资产三方携手，启动诺商生命科学产业化基地项目（以下简称“诺商”项目），总投资约18亿元。这一新落子的产业化基地，将面向 创新药 、 医疗器械 等生命科学领域企业开放，为入驻企业提供从中试到生产的全链条空间支持，助力打通从实验室研发到规模化生产的关键环节。 打造产业试验田 诺商生命科学产业化基地位于上海浦东张江，毗邻诺华上海园区。 基地将面向 创新药 、 医疗器械 等生命科学领域企业开放，并支持开放创新、研发及生产服务等多元产业活动，为入驻企业提供从中试到生产的全链条空间支持，助",
      "source": "东方财富股票",
-     "zh": "公积金功能 又上新了！"
+     "zh": "上海生物医药产业站上万亿规模后，总投资18亿元的新项目在张江启动"
     },
     {
      "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",

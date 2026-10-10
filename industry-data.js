@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/10 18:29:50",
+ "generated_at": "2026/10/10 18:50:00",
  "recent_days": 7,
  "industries": [
   {
@@ -426,14 +426,6 @@ window.INDUSTRY_DATA = {
      "zh": "CML Micro 推出紧凑、灵活的功率放大器，用于下一代 ISM 频段无线电设计"
     },
     {
-     "title": "Chip Industry Week In Review",
-     "link": "https://semiengineering.com/chip-industry-week-in-review-159/",
-     "pubDate": "Fri, 09 Oct 2026 07:01:17 +0000",
-     "summary": "$2B foundry pact; hyper-NA EUV; TSMC, Samsung financials; Canon readies nanoimprint; AI chips under scrutiny; $10T data center buildout; $1.5B SiC boost; chip smuggling; 800V power gains traction; quantum HW scales up; wireless EV road charging; sub-nm gate dielectrics; mobile fab. The post Chip Ind",
-     "source": "Semiconductor Engineering",
-     "zh": "芯片行业周回顾"
-    },
-    {
      "title": "Data Center Energy Trends Force a Rethink of Chip Power Delivery",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/374308-data-center-energy-trends-force-a-rethink-of-chip-power-delivery/",
      "pubDate": "Thu, 08 Oct 2026 17:00:53 +0000",
@@ -474,28 +466,36 @@ window.INDUSTRY_DATA = {
      "zh": "Wolfspeed 获得美国陆军部 15 亿美元有条件贷款承诺"
     },
     {
-     "title": "Finding Critical Defects Before They Become Costly Failures: Process Control For Hybrid Bonding And Advanced Packaging",
-     "link": "https://semiengineering.com/finding-critical-defects-before-they-become-costly-failures-process-control-for-hybrid-bonding-and-advanced-packaging/",
-     "pubDate": "Thu, 08 Oct 2026 07:06:04 +0000",
-     "summary": "How complementary inspection and metrology techniques can detect smaller defects and distinguish among a wide range of defect types within a unified workflow. The post Finding Critical Defects Before They Become Costly Failures: Process Control For Hybrid Bonding And Advanced Packaging appeared firs",
-     "source": "Semiconductor Engineering",
-     "zh": "在关键缺陷变成代价高昂的故障之前发现它们：混合键合和先进封装的工艺控制"
+     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
+     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design 将 HAROLD QD 量子点激光模拟器的运行时间减半并提高精度"
     },
     {
-     "title": "Demonstrating Plasma As A Viable Alternative To KOH For LCP Metallization Applications",
-     "link": "https://semiengineering.com/demonstrating-plasma-as-a-viable-alternative-to-koh-for-lcp-metallization-applications/",
-     "pubDate": "Thu, 08 Oct 2026 07:05:11 +0000",
-     "summary": "How optimized plasma processing can achieve effective surface roughening and activation. The post Demonstrating Plasma As A Viable Alternative To KOH For LCP Metallization Applications appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "展示等离子体作为 LCP 金属化应用中 KOH 的可行替代品"
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "KnowMade 表示，2026 年第二季度新 RF GaN 专利系列的大部分都在中国"
     },
     {
-     "title": "Closing The Visibility Gap",
-     "link": "https://semiengineering.com/closing-the-visibility-gap/",
-     "pubDate": "Thu, 08 Oct 2026 07:04:49 +0000",
-     "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "缩小可见性差距"
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "美国刚刚在量子芯片制造上投入 10 亿美元"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "KnowMade 报告称，2026 年第二季度由工业受让人主导的功率 GaN 专利申请"
     }
    ]
   },
@@ -1730,12 +1730,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "百度网盘 11.11 年内探底：SVIP 超级会员 13 元 / 月、157 元 / 年",
+     "link": "https://www.ithome.com/1/011/479.htm",
+     "pubDate": "Sat, 10 Oct 2026 10:43:12 GMT",
+     "summary": "百度网盘超级会员年卡官方售价 298 元， 今日 20 点 预售开启，直降至 196 元年内好价，限时加赠 3 个月。 到手共 15 个月，折合 13.1 元 / 月、157 元 / 年 ： 京东 百度网盘 SVIP 超级会员 15 月卡 券后 196 元 直达链接 注：现购买权益时长 + 已有权益时长， 不能超过 5 年 ，否则会充值失败。 购买前需在百度网盘开启手机号登录再下单。 百度网盘 SVIP 特权： 京东 百度网盘 SVIP 超级会员 15 月卡 券后 196 元 直达链接",
+     "source": "IT之家",
+     "zh": "百度网盘 11.11 年内探底：SVIP 超级会员 13 元 / 月、157 元 / 年"
+    },
+    {
+     "title": "A look at Walmart&apos;s troubled push to automate its ~200 US warehouses, as it and partners like Symbotic face technical setbacks; Walmart owns 12.6% of Symbotic (Sarah Nassauer/Wall Street Journal)",
+     "link": "https://www.techmeme.com/261010/p10#a261010p10",
+     "pubDate": "Sat, 10 Oct 2026 06:40:02 -0400",
+     "summary": "Sarah Nassauer / Wall Street Journal : A look at Walmart's troubled push to automate its ~200 US warehouses, as it and partners like Symbotic face technical setbacks; Walmart owns 12.6% of Symbotic &nbsp; &mdash;&nbsp; Machines programmed to sort merchandise in warehouses hit kinks with cardboard bo",
+     "source": "Techmeme",
+     "zh": "看看沃尔玛在推动其约 200 个美国仓库实现自动化的过程中陷入困境，因为它和 Symbotic 等合作伙伴面临技术挫折；沃尔玛拥有 Symbotic 12.6% 的股份（Sarah Nassauer/华尔街日报）"
+    },
+    {
+     "title": "小米充电宝伸缩线 10000 55W 上架：2C + 1A、自带屏设计，299 元",
+     "link": "https://www.ithome.com/1/011/478.htm",
+     "pubDate": "Sat, 10 Oct 2026 10:37:56 GMT",
+     "summary": "IT之家 10 月 10 日消息，小米现已在有品上架“小米充电宝伸缩线 10000 55W”（ 点此访问 ），该机为 2C + 1A 设计，内置 10000mAh 电芯， 定价为 299 元 。 该产品尺寸为 90x50x41mm，提供三种配色可选，整体造型圆润，正面配备一块隐藏式彩屏，顶部提供一根 70cm USB-C 55W 伸缩线，底部匹配 1 个 USB-C 55W 接口和 1 个 USB-A 22.5W 接口。 IT之家附产品参数：",
+     "source": "IT之家",
+     "zh": "小米充电宝伸缩线 10000 55W 上架：2C + 1A、自带屏设计，299 元"
+    },
+    {
+     "title": "权力会异化大脑吗？",
+     "link": "https://www.huxiu.com/article/4896490.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 18:34:35 +0800",
+     "summary": "本文来自微信公众号： 神经现实 ，编译：EY，作者：Dimitropoulos “那些权势极大的人，究竟生活在怎样的世界里？” 随着杰弗里·爱泼斯坦私人岛屿的新内幕曝光，这个问题在社交媒体上不断回响。这座岛屿是一桩丑闻的中心，涉及对未成年人的性虐待、人口贩运网络，以及围绕其间的显赫精英圈子，其中不乏王室成员、亿万富翁、政界人士、好莱坞名流和科技巨头。 但让许多旁观者难以释怀的，是更深一层的心理问题：那些被指涉嫌参与此类行为的人，怎么能若无其事地重新以笑容满面、平易近人的形象出现在公众面前，继续投身慈善、出席董事会，回到配偶和孩子身边？他们眼中的现实，真的与我们如此不同吗？ 科学研究提示，最后这",
+     "source": "虎嗅",
+     "zh": "权力会异化大脑吗？"
+    },
+    {
      "title": "四部门拟规范汽车采用虚拟操纵件替代传统物理按键的产品，涉及关键驾驶安全需同时具备实体操纵件",
      "link": "https://www.ithome.com/1/011/477.htm",
      "pubDate": "Sat, 10 Oct 2026 10:24:59 GMT",
      "summary": "IT之家 10 月 10 日消息，据工信部官网今日消息，工业和信息化部会同公安部、生态环境部、市场监管总局等部门研究起草了《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》。 征求意见稿提出，采用虚拟操纵件（触摸按键、压感按键等）替代传统物理按键的产品，除应满足《机动车运行安全技术条件》（GB 7258）、《汽车操纵件、指示器及信号装置的标志》（GB 4094）等要求外， 还应完成触控可靠性、防误触性能、反馈清晰度等评估验证 。 IT之家注意到，涉及关键驾驶安全的功能（灯光、雨刮、除霜除雾等）采用虚拟操纵件的，应评估其在各种驾驶场景下的操作便捷性、可靠性和安全性，",
      "source": "IT之家",
      "zh": "四部门拟规范汽车采用虚拟操纵件替代传统物理按键的产品，涉及关键驾驶安全需同时具备实体操纵件"
+    },
+    {
+     "title": "尊界刹车风波未息，车企这些“卖点”拟受限",
+     "link": "https://www.huxiu.com/article/4896486.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 18:20:38 +0800",
+     "summary": "本文来自微信公众号： 经观感知 ，作者：DongX 尊界V800刹车踏板支架断裂的争议还在发酵，车企在新车上市前要做哪些测试、做到什么程度，监管部门拟给出更明确的要求。 10月10日，工业和信息化部、公安部、生态环境部、市场监管总局就《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知》公开征求意见。 文件针对部分生产企业跟风推出新产品、测试验证不充分等问题，拟加强汽车创新设计审查和研发测试验证管理。 从制动系统的结构可靠性，到隐藏式门把手、零重力座椅的使用边界，这份征求意见稿涉及不少用户熟悉的配置和功能。车企需要提交的，也将包括更完整的测试过程和验证材料。 两天前，懂车帝发布测试",
+     "source": "虎嗅",
+     "zh": "尊界刹车风波未息，车企这些“卖点”拟受限"
     },
     {
      "title": "为什么长假高速公路充电排长队“永远”无解？",
@@ -1778,14 +1818,6 @@ window.INDUSTRY_DATA = {
      "zh": "曜越新款 CTE E660 MX 机箱上市：CTE 设计、支持背插主板，999 元"
     },
     {
-     "title": "胖东来将建近100米酒店，65亿砸出来的是标杆还是豪赌？",
-     "link": "https://www.huxiu.com/article/4896481.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 18:04:36 +0800",
-     "summary": "本文来自微信公众号： 大橘财经 ，作者：刘媛媛 日前，许昌市自然资源和规划局官网公布胖东来梦之城二、三、四期建设工程规划许可批前公示，这座总投资约65亿元的大型商业项目完整业态布局首次公开。 公示显示，项目二期为幸福讲堂，面积5630平方米，高度小于等于24米；三期为文化中心，面积3.62万平方米，高度小于等于25.45米；四期为酒店，面积6.6万平方米，高度小于等于99.95米。 成立以来投资最大的单体项目 据此前公示信息，胖东来梦之城位于许昌市东城区，莲城大道以北、许州路以东，临近京港澳高速出入口和高铁许昌东站。 项目总建筑面积约57.6万平方米。其中一期商业综合体约46.7万平方米，主体",
-     "source": "虎嗅",
-     "zh": "胖东来将建近100米酒店，65亿砸出来的是标杆还是豪赌？"
-    },
-    {
      "title": "四部门：汽车生产企业不得作虚假、夸大或引人误解的宣传，不得诱导驾驶人忽视安全驾驶责任",
      "link": "https://www.ithome.com/1/011/473.htm",
      "pubDate": "Sat, 10 Oct 2026 10:01:09 GMT",
@@ -1818,36 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "特斯拉在美最新 Model 3 / Y 车型已支持 V2H 家庭备用供电"
     },
     {
-     "title": "优衣库中国店少了，却赚更多了",
-     "link": "https://www.huxiu.com/article/4896479.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 17:54:41 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：朱咏玲 最近两三年，优衣库在中国正想用更少的店，卖更多的货，赚更多的钱。 这种转变通常发生在连锁时尚品牌在成熟市场发展到一定阶段后。最近几年，快时尚巨头Zara在中国的策略也是如此。更早之前，优衣库在日本市场也走过这个阶段。 优衣库在中国市场的转折，始于2024财年下半年。这一时期，优衣库在中国大陆市场的营收和利润均下滑。从2024年开始，优衣库母公司迅销集团方面在多次采访和财报会上对外释放信号，表示在中国的经营策略要发生转向，目标是将单店营收提高到与日本优衣库相当的水平。 从最新财报来看，优衣库在中国市场推行的这一改革展现出一定成效，尤其在利润方面有明",
-     "source": "虎嗅",
-     "zh": "优衣库中国店少了，却赚更多了"
-    },
-    {
      "title": "`123456' password used in Danish CPR data breach",
      "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
      "pubDate": "Sat, 10 Oct 2026 09:51:49 +0000",
-     "summary": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinator.com/item?id=50031269 Points: 33 # Comments: 7",
+     "summary": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinator.com/item?id=50031269 Points: 46 # Comments: 26",
      "source": "Hacker News",
      "zh": "丹麦 CPR 数据泄露中使用了“123456”密码"
-    },
-    {
-     "title": "市场监管总局谈“美团收购麦芽田股权案”：将依法推进本案后续审查",
-     "link": "https://www.ithome.com/1/011/448.htm",
-     "pubDate": "Sat, 10 Oct 2026 09:51:32 GMT",
-     "summary": "IT之家 10 月 10 日消息，今日，市场监管总局召开“经营者集中简易案件审查制度成效”专题新闻发布会。会上谈到了“美团收购麦芽田股权案”公开听证情况。 会上介绍，美团收购麦芽田股权案是平台领域首起未达国务院规定的申报标准、依法要求申报的经营者集中案件，受到社会各方广泛关注。美团是国内头部网络餐饮外卖平台，麦芽田主要从事配送聚合平台服务，连接多家第三方配送运力商，为商户提供配送解决方案。 2024 年，双方在中国境内配送聚合平台市场合计市场份额超过 50% 。市场监管总局对该案高度重视，严格依法开展审查工作。 IT之家从发布会新闻稿获悉，在审查中，市场监管总局征求了有关政府部门、行业协会和同",
-     "source": "IT之家",
-     "zh": "市场监管总局谈“美团收购麦芽田股权案”：将依法推进本案后续审查"
-    },
-    {
-     "title": "四部门：汽车生产企业获知其生产销售的产品发生安全事件，应主动开展调查分析",
-     "link": "https://www.ithome.com/1/011/444.htm",
-     "pubDate": "Sat, 10 Oct 2026 09:46:06 GMT",
-     "summary": "IT之家 10 月 10 日消息，据工信部官网今日消息，工业和信息化部会同公安部、生态环境部、市场监管总局等部门研究起草了《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》。 其中提出，健全安全事件事故记录与研判机制。 汽车生产企业在获知其生产销售的产品发生创新设计功能异常等安全事件或碰撞等安全事故时，应主动开展调查分析 ，排查安全风险隐患，记录分析所需关键数据并确保数据真实性、完整性；在公安机关依法开展交通事故调查时，汽车生产企业应及时提供数据和技术协助。 IT之家注意到，征求意见稿针对部分生产企业跟风推出新产品、测试验证不充分等问题， 提出了多方面的要求 。 ",
-     "source": "IT之家",
-     "zh": "四部门：汽车生产企业获知其生产销售的产品发生安全事件，应主动开展调查分析"
     },
     {
      "title": "“请3休13”的黄金周，AI旅游攻略把我练成了特种兵",
@@ -1960,14 +1968,6 @@ window.INDUSTRY_DATA = {
      "summary": "Yifan Yu / Nikkei Asia : Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market &nbsp; &mdash;&nbsp; PALO ALTO, California &mdash; Chip design software leader Synopsys says it is looking to help Chine",
      "source": "Techmeme",
      "zh": "芯片设计软件领导者 Synopsys 表示正在探索与中国人工智能实验室合作，为中国市场开发人工智能驱动的芯片设计工具（Yifan Yu/日经亚洲）"
-    },
-    {
-     "title": "Sources detail how Firmus&apos; IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue (Bloomberg)",
-     "link": "https://www.techmeme.com/261010/p5#a261010p5",
-     "pubDate": "Sat, 10 Oct 2026 02:05:01 -0400",
-     "summary": "Bloomberg : Sources detail how Firmus' IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue &nbsp; &mdash;&nbsp; Current Time 0:00 Loaded: 17.94% Playback Rate&nbsp; &mdash;&nbsp; This is a modal window.&nbsp; &mdash;&nbs",
-     "source": "Techmeme",
-     "zh": "消息人士详细介绍了 Firmus 的 IPO 如何在 48 小时内崩溃，此前美国基金经理认为其 300 亿美元的估值对于一家 2026 财年收入仅为 5100 万美元的公司来说太高了（彭博社）"
     }
    ]
   },
@@ -1977,6 +1977,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The real reason your high-end Bluetooth headphones don’t sound as good as you’d expect",
+     "link": "https://www.androidauthority.com/great-bluetooth-audio-myth-3719608/",
+     "pubDate": "Sat, 10 Oct 2026 10:30:35 +0000",
+     "summary": "Bluetooth is squeezing your music. Here’s why Hi-Res audio needs smarter codecs.",
+     "source": "Android Authority",
+     "zh": "您的高端蓝牙耳机听起来不如您预期的真正原因"
+    },
     {
      "title": "Siri AI beats Gemini at the thing that matters most",
      "link": "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
@@ -2146,14 +2154,6 @@ window.INDUSTRY_DATA = {
      "zh": "HMD Pulse 2T Pro 规格和图像泄露，显示点阵后显示屏"
     },
     {
-     "title": "Here’s how to unlock your Googlebook’s secret light show",
-     "link": "https://www.androidauthority.com/how-to-find-glowbar-disco-app-googlebook-3721552/",
-     "pubDate": "Fri, 09 Oct 2026 20:33:38 +0000",
-     "summary": "The hidden Glowbar Disco app is surprisingly easy to find once you know where to look.",
-     "source": "Android Authority",
-     "zh": "以下是解锁 Googlebook 秘密灯光秀的方法"
-    },
-    {
      "title": "Next-gen Google TV Streamer in the works with microphones, presence sensing, & new remote",
      "link": "https://9to5google.com/2026/10/09/next-gen-google-tv-streamer/",
      "pubDate": "Fri, 09 Oct 2026 20:30:00 +0000",
@@ -2226,28 +2226,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "分众传媒收购新潮传媒股权案，获附条件批准",
+     "link": "http://stock.eastmoney.com/news/11219,202610103891951173.html",
+     "pubDate": "Sat, 10 Oct 2026 18:42:06 +0800",
+     "summary": "10月10日，市场监管总局发布公告，附加限制性条件批准 分众传媒 信息技术股份有限公司（以下简称“ 分众传媒 ”）收购成都新潮 传媒 集团股份有限公司（以下简称“新潮 传媒 ”）股权案。该案是我国广告业领域第一起以附加限制性条件批准的经营者集中案件。 据悉，本案的附条件批准，是反垄断执法在广告 传媒 这一重要民生服务领域的进一步深化，也体现了市场监管总局对传统服务行业竞争秩序的高度关注。 市场监管总局表示，经审查，总局认为该案对中国境内电梯媒体广告市场可能具有排除、限制竞争效果。为有效减少此项经营者集中可能产生的不利影响，市场监管总局经过全面审查、科学论证，依法对该案作出附条件批准决定，要求 ",
+     "source": "东方财富股票",
+     "zh": "分众传媒收购新潮传媒股权案，获附条件批准"
+    },
+    {
+     "title": "【调研快报】英诺激光接待申万宏源等94家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610103891949538.html",
+     "pubDate": "Sat, 10 Oct 2026 18:37:42 +0800",
+     "summary": "英诺激光 10月10日公告称， 8月31日至10月9日 接待 申万宏源 等94家机构 调研。 接待人员包括副总经理、董事会秘书 张勇,投资者关系专员 陈展宏。 公司就以下问题进行了回复： 张勇先生就公司最新业务情况进行了介绍,交流的主要问题如下: 一、 公司 2026 年上半年业绩持续取得增长,请问增长动能是什么? 答:继 2024 年完成新业务布局、2025 年迎来发展新动能之后,公司在 2026 年继续保持向好趋势。公司聚焦主业,以长期主义深耕激光赛道,不断强化激光器... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内",
+     "source": "东方财富股票",
+     "zh": "【调研快报】英诺激光接待申万宏源等94家机构调研"
+    },
+    {
+     "title": "吉利千里浩瀚辅助驾驶累计里程超31亿公里 避险达1218.4万次",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891950885.html",
+     "pubDate": "Sat, 10 Oct 2026 18:35:31 +0800",
+     "summary": "10月10日， 吉利汽车 旗下千里浩瀚发布《千里浩瀚智行中国2026中秋·国庆出行报告》。数据显示，截至2026年10月7日，千里浩瀚辅助驾驶累计里程31.4亿公里，年同比增长252.6%，增速处于行业领先；辅助驾驶开启率93.9%，再创新高。另外，千里浩瀚已经累计守护107.3万户家庭出行安全，累计避险达到1218.4万次。 吉利汽车 有关人士介绍，千里浩瀚能力持续提升，高频融入用户日常出行场景。中秋国庆假期，千里浩瀚辅助驾驶总里程2.2亿公里，同比增长248%。智能化体验延伸至更多场景，假期智能泊车使用次数24.9万次，Eva（整车智能体）唤醒2亿次。 （文章来源：上海证券报·中国证券网）",
+     "source": "东方财富股票",
+     "zh": "吉利千里浩瀚辅助驾驶累计里程超31亿公里 避险达1218.4万次"
+    },
+    {
+     "title": "隆基精控苏州智能制造基地正式启用 产品围绕三大方向",
+     "link": "http://finance.eastmoney.com/news/1354,202610103891950972.html",
+     "pubDate": "Sat, 10 Oct 2026 18:34:54 +0800",
+     "summary": "10月9日，隆基精控智能制造基地在 苏州高新 区正式启用。该基地占地约66亩，将承担全球工商业及公共事业级储能产品的制造、测试、质检与交付。 隆基绿能 方面称，新基地的启用，将进一步完善隆基储能规模化制造与全球交付体系，同时，作为“全栈隆基LONGi ONE”战略落地的重要里程碑，将加速隆基光储系统融合，为全球业务发展提供坚实保障。 据悉，新基地将围绕大储、工商业及离微网储能三大产品方向，加快推进多产品线产能建设，形成覆盖不同应用场景的制造布局。 其中，大储集成产线计划于2026年10月形成31GWh/年的集成制造能力，并于2027年上半年进一步扩产至50GWh/年；工商业储能产线计划于10月",
+     "source": "东方财富股票",
+     "zh": "隆基精控苏州智能制造基地正式启用 产品围绕三大方向"
+    },
+    {
+     "title": "下周1只新股可申购！这些股解禁压力大（附股）",
+     "link": "http://stock.eastmoney.com/news/11134,202610103891951056.html",
+     "pubDate": "Sat, 10 Oct 2026 18:34:48 +0800",
+     "summary": "下周解禁市值超400亿元。 下周1只新股申购 据证券时报·数据宝统计，根据发行安排，下周暂有1只新股申购。 下周一可申购 文峰光电 ，发行日期为10月12日，申购代码为920296，网上初始发行2000万股，若超额配售选择权全额行使，发行后总股本8300万股；发行价11.45元；发行后总市值9.5亿元。 文峰光电 注册地位于安徽淮南，专注于高性能、高可靠性特种线缆及光电组件的研发、生产与销售，产品主要面向 军工 领域，服务航空、航天、兵器、 军工 电子 、舰船、核工业等领域。 下周37股面临解禁 据数据宝统计，下周将有37股解禁，按照最新收盘价计算，合计解禁市值超400亿元。 陕西能源 下周将",
+     "source": "东方财富股票",
+     "zh": "下周1只新股可申购！这些股解禁压力大（附股）"
+    },
+    {
+     "title": "橡胶价格创九年来新高 原因找到了；有上市公司三日两板 轮胎公司密集发涨价函",
+     "link": "http://stock.eastmoney.com/news/1405,202610103891949327.html",
+     "pubDate": "Sat, 10 Oct 2026 18:34:10 +0800",
+     "summary": "时隔九年，天然 橡胶 价格再度站上两万元关口。沪胶主力合约10月9日收报20645元/吨，单日上涨2.89%，盘中最高触及20775元/吨，创下九年价格新高，年内累计涨幅超32%。强势的原料行情搅动整个 橡胶 产业链。 轮胎是天然 橡胶 最大下游应用市场。随着橡胶价格持续走高，下游成本压力快速攀升。据央视财经报道，自9月以来，已有60余家轮胎企业密集发布超70份涨价函，试图对冲原料上涨冲击。 本轮涨价，上游橡胶资源企业乘风走强，中游轮胎企业利润持续受压，成本压力向整车供应链的传导路径亦受关注，A股相关板块也走出截然不同的行情走势。 供给驱动胶价 “本轮天然橡胶持续大涨，核心 驱动力 在于供给周",
+     "source": "东方财富股票",
+     "zh": "橡胶价格创九年来新高 原因找到了；有上市公司三日两板 轮胎公司密集发涨价函"
+    },
+    {
+     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
+     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 10:30:00 GMT",
+     "summary": "“I presume these are sophisticated investors taking a profit.”",
+     "source": "MarketWatch",
+     "zh": "“我感觉自己像个失败者”：我的股票投资组合剧烈波动。我应该担心吗？"
+    },
+    {
      "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
      "link": "https://wallstreetcn.com/articles/3783332",
      "pubDate": "Sat, 10 Oct 2026 18:23:15 +0800",
      "summary": "美股表面平静之下，一场滚动式熊市正在悄然蔓延。 野村证券跨资产策略师Charlie McElligott在10月8日的报告中警告，标普500指数近两个月几乎原地踏步，但85%的成分股已陷入技术性调整，指数的\"平静\"不过是极度集中的市场结构所制造的幻觉。 McElligott指出，仅十只股票就贡献了标普500自3月30日以来23%涨幅的70%，其中英伟达一家独占13%。 与此同时，欧洲柴油短缺正通过利率波动率传导至整个市场， 构成随时可能引爆的“导火索” 。 就在野村报告发布数小时内， 两大关键变量相继落地： 特朗普宣布中期选举前不对伊朗动武，油价应声下跌；英国《金融时报》随即披露OpenAI年",
      "source": "华尔街见闻",
      "zh": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击"
-    },
-    {
-     "title": "胖东来梦之城最新规划曝光：要建近100米高酒店",
-     "link": "http://finance.eastmoney.com/news/1354,202610103891946271.html",
-     "pubDate": "Sat, 10 Oct 2026 18:21:06 +0800",
-     "summary": "10月10日，北京商报记者从许昌市自然资源和规划局官网了解到，胖东来梦之城二、三、四期建设工程规划许可近日进行批前公示，这座备受关注的商业 综合 体再度迎来新进展。 根据公示，梦之城二期为幸福讲堂，面积5630平方米，高度不超过24米；三期为文化中心，面积3.62万平方米，高度不超过25.45米；四期为 酒店 ，面积6.6万平方米，高度不超过99.95米。这座近100米的 酒店 建筑，将成为梦之城项目最高的单体建筑。 据大河报、河南商报等媒体报道，梦之城是胖东来成立以来投资规模最大的单体项目。项目建设和装修总投资约65亿元，全部使用企业自有资金。项目一期商业 综合 体已于今年5月20日正式开工",
-     "source": "东方财富股票",
-     "zh": "胖东来梦之城最新规划曝光：要建近100米高酒店"
-    },
-    {
-     "title": "白云机场将重回年度第一！一图速览中国机场旅客吞吐量变化",
-     "link": "http://finance.eastmoney.com/news/11838,202610103891946161.html",
-     "pubDate": "Sat, 10 Oct 2026 18:17:48 +0800",
-     "summary": "据CADAS交通 大数据 ，2026年前三季度广州 白云机场 旅客吞吐量已突破6700万人次。 白云机场 2026年的目标锚定旅客吞吐量超9000万人次，从当前运行数据来看，年度目标落地已成大概率事件。 这意味着，时隔两年后， 白云机场 将重新夺回中国 机场 年度旅客吞吐量TOP1的宝座。 长期以来，北京首都国际 机场 都是全国旅客吞吐量最高的 机场 ，2019年大兴机场投用后，首都机场客运量被分流，由上海浦东、广州白云两大机场争夺国内TOP1。 随着上海国际航班的逐步恢复，2024、2025年，浦东机场均超越白云机场成为国内旅客吞吐量最大机场。2025年白云机场T3航站楼启用后，承载能力大幅",
-     "source": "东方财富股票",
-     "zh": "白云机场将重回年度第一！一图速览中国机场旅客吞吐量变化"
     },
     {
      "title": "光纤的紧俏时刻",
@@ -2274,44 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "广东省珠海市委原常委、统战部原部长郭才武被开除党籍和公职"
     },
     {
-     "title": "保险资管产品Q3业绩反转！医药、红利逆势领跑 部分科技主题回撤逾30% 机构研判后市三大方向",
-     "link": "http://finance.eastmoney.com/news/1345,202610103891945862.html",
-     "pubDate": "Sat, 10 Oct 2026 18:13:00 +0800",
-     "summary": "三季度收官，保险资管产品交出了怎样的成绩单？财联社据Wind（或为不完全数据）统计，在有区间回报数据的1892只产品中，1103只实现正收益，占比58.3%。 与上半年科技成长\"一枝独秀\"不同，三季度固收类重新扛起\"压舱石\"作用，权益类大面积回撤，风格出现明显再平衡。 面向四季度的保险资管操作策略，多家券商的研报给出三大方向：高股息资产筑牢底仓；科技成长聚焦\"业绩兑现\"；长久期债券仍是\"基本盘\"。 固收类\"压舱石\"归来，保险资管近六成实现正收益 分大类看，固收类产品最稳健，有数据的产品中，正收益占比83.8%；混合类居中，正收益产品占比41.8%；权益类回撤最明显，正收益产品仅占比25.9%。",
-     "source": "东方财富股票",
-     "zh": "保险资管产品Q3业绩反转！医药、红利逆势领跑 部分科技主题回撤逾30% 机构研判后市三大方向"
-    },
-    {
-     "title": "欧盟面临冬季天然气供应短缺",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891945685.html",
-     "pubDate": "Sat, 10 Oct 2026 18:09:29 +0800",
-     "summary": "美国智库“美国能源经济和金融分析研究所”10月9日发布报告称，随着冬季的临近，欧盟正面临 天然气 供应短缺的危机，有可能影响到1千多万户家庭的能源需求。而“欧洲 天然气 输气系统运营商协会”也在8日警告称，如果遭遇寒冬，欧洲 天然气 库存水平可能降至11%这一低位，触及到战略储备底线。如果欧盟各国希望在冬季结束时将天然气库存恢复至30%，以增强应对后续寒潮的能力，就必须削减相当于需求量7%的供应，或者干脆停止向消费者供气。 （文章来源：CCTV国际时讯）",
-     "source": "东方财富股票",
-     "zh": "欧盟面临冬季天然气供应短缺"
-    },
-    {
      "title": "第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品",
      "link": "https://wallstreetcn.com/articles/3783333",
      "pubDate": "Sat, 10 Oct 2026 18:01:57 +0800",
      "summary": "8 月 14 日摊余成本法债基重新“开闸”后，中小公募 机构的 申报热情持续高涨。 因为 摊余成本法债基确实具备独特的市场热度。 同样是买债券，普通债基的净值随债券市价涨跌 ，市场 一波动 净值就 上下起伏。摊余成本法债基则以买入成本记账，把票息和折溢价摊销到持有期的每一天，净值几乎是一条平稳向上的曲线。 但 产品必须封闭持有到期、中途不能卖出。 10 月 8 日、9 日，第三批 16 家中小基金公司集中上报。 又有 16 家集体申报 证监会网站显示，财信基金、金元顺安基金、金信基金、泉果基金、红塔红土基金、易米基金、汇百川基金、百嘉基金、安联基金、兴华基金、红土创新基金、联博基金、国新国证基",
      "source": "华尔街见闻",
      "zh": "第三批摊余成本法债基上报， 16家中小基金公司“抢滩”热门产品"
-    },
-    {
-     "title": "高德机器狗入驻金沙中国旗下度假区",
-     "link": "http://stock.eastmoney.com/news/1437,202610103891945422.html",
-     "pubDate": "Sat, 10 Oct 2026 17:59:02 +0800",
-     "summary": "阿里巴巴 集团旗下高德与金沙中国在澳门威尼斯人NBA House举行任命仪式，正式交付首批具身机器狗高德途途，它们将进入金沙中国旗下度假区，为游客提供导览服务。 根据双方合作计划，高德还结合楼层、通道、店铺及公共设施等空间信息，为度假区提供全域室内导航；同时依托空间智能技术，构建度假区部分区域的三维空间模型，让游客通过高德App自主调整观看视角，出发前即可沉浸式预览。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "高德机器狗入驻金沙中国旗下度假区"
-    },
-    {
-     "title": "水利部：全面系统推进老旧水库改造提升",
-     "link": "http://finance.eastmoney.com/news/1350,202610103891945517.html",
-     "pubDate": "Sat, 10 Oct 2026 17:58:37 +0800",
-     "summary": "水利部10日召开老旧水库改造提升专项行动推进会议。会议强调，全面系统推进老旧水库改造提升，要坚持问题导向，长短结合、标本兼治，因地制宜、分类施策，突出重点、统筹推进，系统推进排查评估，分类分批改造提升，提升监测预警能力，优化水库调度管理，强化应急处置能力，健全长效管护机制。要坚持质效并重，深入做好项目前期工作，提高审批工作效率，紧盯重点领域和关键环节，严格 工程建设 、质量、进度、资金管理，确保建成民心工程、优质工程、廉洁工程。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "水利部：全面系统推进老旧水库改造提升"
     },
     {
      "title": "国家市场监管总局：尽快修订出台《企业境外反垄断合规指引》",
@@ -2424,14 +2432,6 @@ window.INDUSTRY_DATA = {
      "summary": "First major Atlantic storm of the season threatens Florida, Alabama, Georgia and Mississippi",
      "source": "Financial Times",
      "zh": "飓风伊萨亚斯向海湾袭来，石油和天然气生产中断"
-    },
-    {
-     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
-     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-     "pubDate": "Sat, 10 Oct 2026 03:15:00 GMT",
-     "summary": "“I presume these are sophisticated investors taking a profit.”",
-     "source": "MarketWatch",
-     "zh": "“我感觉自己像个失败者”：我的股票投资组合剧烈波动。我应该担心吗？"
     },
     {
      "title": "Trump&apos;s diesel agreement with Putin accused of contradicting Russia sanctions law",

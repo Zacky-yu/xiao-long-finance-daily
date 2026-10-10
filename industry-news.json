@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 07:51:51",
+ "generated_at": "2026/10/10 08:07:26",
  "recent_days": 7,
  "industries": [
   {
@@ -281,12 +281,36 @@
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
+     "title": "Defence satcom revenues to surpass $23bn by 2035",
+     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
+     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "Defence satcom revenues to surpass $23bn by 2035"
+    },
+    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
+    },
+    {
+     "title": "Axiom Space highlights space computing progress",
+     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
+     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
+     "source": "Electronics Weekly",
+     "zh": "Axiom Space highlights space computing progress"
+    },
+    {
+     "title": "The Single-Chip PC",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
+     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -303,6 +327,30 @@
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
+    },
+    {
+     "title": "Failure analysis in the era of 3D integration",
+     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
+     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Failure analysis in the era of 3D integration"
+    },
+    {
+     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
+     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
+     "source": "Electronics Weekly",
+     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
+    },
+    {
+     "title": "Most Read – Robotaxi growth, Arm Qualcomm battle",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-robotaxi-growth-sk-hynix-arm-qualcomm-battle-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:04:25 +0000",
+     "summary": "The most popular articles on the site cover an obituary for Professor Cyril Hilsum, a report predicting market growth for the robotaxi, and the chairman of Hynix selling shares worth $700m, Plus there's also Qualcomm and Arm resuming their legal marathon, two separate days of which feature... The po",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Robotaxi growth, Arm Qualcomm battle"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -447,54 +495,6 @@
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
-    },
-    {
-     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
-     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
-     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
-     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
-    },
-    {
-     "title": "Shift Left Complicates Fab Data Management",
-     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
-     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Shift Left Complicates Fab Data Management"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
-    },
-    {
-     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
-     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
-     "source": "Semiconductor Today",
-     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
-    },
-    {
-     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
-     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
-    },
-    {
-     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
-     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
-     "source": "Semiconductor Today",
-     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -1721,6 +1721,46 @@
    "total": 18,
    "items": [
     {
+     "title": "字节 TraeWork 和 TraeCode 合并为全新 TRAE，支持 Agent / IDE 模式无缝切换",
+     "link": "https://www.ithome.com/1/011/176.htm",
+     "pubDate": "Sat, 10 Oct 2026 00:04:25 GMT",
+     "summary": "IT之家 10 月 10 日消息，10 月 9 日，字节旗下 TRAE 宣布，即日起，TraeWork 和 TraeCode 将正式合并，融合为 全新的 TRAE ，升级为 全链路开发平台 。 官方表示，过去 TraeWork 更偏向办公、任务和内容生成，TraeCode 更专注专业开发者的编码需求。双端融合后，全新 TRAE 用一个统一入口承接这些连续任务，并 支持 Agent 模式与 IDE 模式无缝切换 。 Agent 模式 适合从想法拆解到交付结果：新手开发者可以一步步做出 Demo，专业开发者也可以跨项目调度多个 Agent 并行推进任务。 IDE 模式 保留完整智能开发环境，适合单",
+     "source": "IT之家",
+     "zh": "字节 TraeWork 和 TraeCode 合并为全新 TRAE，支持 Agent / IDE 模式无缝切换"
+    },
+    {
+     "title": "IT早报 1010：尊界 V800 制动踏板支架底座 11 月免费升级；懂车帝辟谣“开展公司内部整顿”；华为 nova 16 系列涨价；曝中汽中心发制动踏板总成材质问卷...",
+     "link": "https://www.ithome.com/1/011/175.htm",
+     "pubDate": "Sat, 10 Oct 2026 00:01:29 GMT",
+     "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 10 日星期六，今天的重要科技资讯有： 1. 尊界客服称 V800 制动踏板支架底座 11 月陆续启动免费升级：未发运车辆将直接优化部件，明确不是“召回” 尊界汽车官方 10 月 8 日晚发布情况说明，表示尊界汽车的制动系统按照高于国家标准、高于行业标准的要求完成全流程开发与验证；但也表示将进一步优化该部件设计，并为已交付用户提供免费升级选择。>> 查看详情 2. 懂车帝：网传内部整顿通知截图系 AI 生成，相关信息均为谣言 网传一张懂车帝内部整顿通知截图在网络传播，懂车帝官方辟谣称该截图为 AI 生成，相关信息均为谣言，将依法追究造谣",
+     "source": "IT之家",
+     "zh": "IT早报 1010：尊界 V800 制动踏板支架底座 11 月免费升级；懂车帝辟谣“开展公司内部整顿”；华为 nova 16 系列涨价；曝中汽中心发制动踏板总成材质问卷..."
+    },
+    {
+     "title": "苹果初代 Apple TV 4K 已列入“过时”产品，第四代有望下周发布",
+     "link": "https://www.ithome.com/1/011/174.htm",
+     "pubDate": "Fri, 09 Oct 2026 23:58:58 GMT",
+     "summary": "IT之家 10 月 10 日消息，科技媒体 MacRumors 昨日（10 月 9 日）发布博文，报道称苹果更新过时产品名单， 新增列出 2,017 款初代 Apple TV 4K，恐影响该产品的后续维修，用户可能更难获取维修零件。 IT之家注：根据官方文档表述，过时产品是指 Apple 停止发售之日起已超过 5 年但未满 7 年的产品。 2,017 款 Apple TV 4K 是苹果首款支持 4K 视频的 Apple TV。它搭载 A10X Fusion 芯片，提供 32GB 和 64GB 版本。HDMI 2.0a 支持 4K、杜比视界与 HDR10，设备还配备千兆以太网及双频 802.11",
+     "source": "IT之家",
+     "zh": "苹果初代 Apple TV 4K 已列入“过时”产品，第四代有望下周发布"
+    },
+    {
+     "title": "入主三个月，物企老板开始收网",
+     "link": "https://www.huxiu.com/article/4896310.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 07:56:36 +0800",
+     "summary": "本文来自微信公众号： 物业K线 ，作者：严明会 孙涛勇是一位资本运作的高手。 9月24日，孙涛勇旗下的Yomi.sun Holding Limited在场外减持浦江中国（01417.HK）3000万股，每股作价2.9964港元，套现约8989万港元。 六天后的9月30日，浦江中国宣布与富途证券订立配售协议，按每股4港元配售最多3300万股新股，净筹约1.3亿港元。 一出一进，两笔交易间隔不到一周。 减持的价格是2.9964港，配售的价格是4港元。后者虽然较公告日收市价4.685港元折让了14.62%，但比孙涛勇的减持价高了整整1港元。 而孙涛勇6月入主浦江中国时的收购价是多少？每股0.519港",
+     "source": "虎嗅",
+     "zh": "入主三个月，物企老板开始收网"
+    },
+    {
+     "title": "保时捷 1-9 月交付 17.85 万辆汽车同比下降 16%，中国市场同比下降 33%",
+     "link": "https://www.ithome.com/1/011/173.htm",
+     "pubDate": "Fri, 09 Oct 2026 23:52:21 GMT",
+     "summary": "IT之家 10 月 10 日消息，当地时间 10 月 9 日，保时捷披露了最新的交付数据。保时捷 2026 年前九个月全球交付新车 178,532 辆，同比下降 16%，降幅与上半年持平。 德国市场：交付 20,954 辆，同比下降 7% 北美市场：交付 56,088 辆，同比下降 13% 中国市场：交付 21,493 辆，同比下降 33% 欧洲市场（不含德国）：交付 44,949 辆，同比下降 11% 海外及新兴市场：交付 35,048 辆，同比下降 19% 具体到车型方面，1-9 月： 卡宴交付 59,586 辆，同比下降 2% Macan 交付 51,025 辆，同比下降 21%，其中包",
+     "source": "IT之家",
+     "zh": "保时捷 1-9 月交付 17.85 万辆汽车同比下降 16%，中国市场同比下降 33%"
+    },
+    {
      "title": "2026 巴黎车展下周见，中国品牌创纪录独占三分之一",
      "link": "https://www.ithome.com/1/011/172.htm",
      "pubDate": "Fri, 09 Oct 2026 23:48:55 GMT",
@@ -1785,30 +1825,6 @@
      "zh": "Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that&apos;s designing a new central processor for data centers, is raising funds at a ~$2.5B valuation (Reuters)"
     },
     {
-     "title": "决策模型 Jev 爆火，开发商 TypeSafe AI 估值已达 75 亿美元",
-     "link": "https://www.ithome.com/1/011/170.htm",
-     "pubDate": "Fri, 09 Oct 2026 23:28:29 GMT",
-     "summary": "IT之家 10 月 10 日消息，据彭博社于当地时间 10 月 9 日报道，初创公司 TypeSafe AI 旗下的新型 AI 决策模型 Jev 刚刚推出数周便迅速走红。近日，该公司完成了一轮约 8.7 亿美元 （IT之家注：现汇率约合 58.42 亿元人民币） 的融资，由安德里森 · 霍洛维兹（Andreessen Horowitz、a16z）领投， 公司估值已达 75 亿美元 （现汇率约合 503.64 亿元人民币） 。 据这家初创公司透露，Jev 目前已被约三分之一的财富 500 强企业采用，不过公司并未公开具体客户名单。此外，该模型在上线短短数天内，用户规模便突破了 100 万大关。 ",
-     "source": "IT之家",
-     "zh": "决策模型 Jev 爆火，开发商 TypeSafe AI 估值已达 75 亿美元"
-    },
-    {
-     "title": "古尔曼爆料苹果 iPhone Duo 折叠屏手机“独有彩蛋”：首次开机能显示自定义用户名",
-     "link": "https://www.ithome.com/1/011/169.htm",
-     "pubDate": "Fri, 09 Oct 2026 23:28:03 GMT",
-     "summary": "IT之家 10 月 10 日消息，北京时间今天（10 日）清晨，彭博社记者马克 · 古尔曼在 X 平台发文爆料称，苹果首款折叠屏手机 iPhone Duo 将拥有一项有趣的小功能：首次开机时，会显示用户名和问候语（形式类似“Hello, Mark”)。该功能将由苹果零售店内的系统提供，可在设备启动时 自定义买家的名字 。 不过古尔曼同时指出，该功能将是美国 iPhone Duo 限定，且仅支持 英语、西班牙语 。 综合IT之家此前报道，早在 2023 年 10 月，古尔曼就首次披露了这套系统的存在，随后外媒 9to5Mac 也发现了 iOS 17.2 系统中与此功能相关的代码。Presto 系",
-     "source": "IT之家",
-     "zh": "古尔曼爆料苹果 iPhone Duo 折叠屏手机“独有彩蛋”：首次开机能显示自定义用户名"
-    },
-    {
-     "title": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2",
-     "link": "https://www.ithome.com/1/011/168.htm",
-     "pubDate": "Fri, 09 Oct 2026 23:22:42 GMT",
-     "summary": "IT之家 10 月 10 日消息，科技媒体 Windows Latest 昨日（10 月 9 日）发布博文，报道称微软正通过驱动程序质量倡议（Driver Quality Initiative，DQI）推动合作伙伴提升 Windows 驱动质量。 IT之家援引博文介绍，微软表示单靠操作系统厂商无法提升整个 Windows 生态的质量，因此推出 DQI 驱动程序质量倡议。该框架由微软与硬件生态伙伴协作推进，覆盖驱动架构、信任、生命周期及质量衡量。 报道称英特尔是首家呼应本次倡议的厂商，已在 2026 年 10 月更新的 GPU 驱动（版本号为 32.0.101.9034）中，添加支持 Windo",
-     "source": "IT之家",
-     "zh": "避免驱动故障致 Win11 崩溃：微软推动驱动质量倡议，英特尔 GPU 驱动率先适配 26H2"
-    },
-    {
      "title": "【钛晨报】中央重磅部署19项举措，新质生产力发展路径明确；证监会发文，权益类基金成立门槛拟降至5000万元；浙商大佬俞发祥遭立案，两家A股公司回应",
      "link": "https://www.tmtpost.com/8163364.html",
      "pubDate": "Sat, 10 Oct 2026 07:20:00 +0800",
@@ -1823,22 +1839,6 @@
      "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 2026年10月8日，斯德哥尔摩下午一点，瑞典学院常务秘书英格丽德·卡尔贝里走出那扇门，念了一个名字。安妮·卡森。 念之前她打过一通电话。电话那头的人没说几句。卡尔贝里后来对记者讲，她只来得及告诉我，她这会儿在冰岛，在听风。 七十六岁的人，被冰岛国家电视台的记者截在一处风很大的路边，一只手一直按着帽子。问她什么感觉，她说，“疯了，我觉得他们全疯了，嗯，你知道的，就是疯了”。 又问，得了这个奖，读你书的人会不会变。她说，我的书封面上会多一张贴纸。 世上分量最重的文学奖砸到头上，她惦记的是贴纸。圆圆一小片，金的，贴在封面一角，撕的时候总撕不干净，留一",
      "source": "虎嗅",
      "zh": "安妮·卡森"
-    },
-    {
-     "title": "宝马北美调查：电动汽车买家想要远超自身需求的续航里程",
-     "link": "https://www.ithome.com/1/011/167.htm",
-     "pubDate": "Fri, 09 Oct 2026 23:18:39 GMT",
-     "summary": "IT之家 10 月 10 日消息，据外媒 motor1 今天（10 日）报道，9 月 11 日至 13 日，宝马集团北美公司对 1005 名美国成年人进行的一项调查发现，消费者日常开车所需的续航里程，与购车时提出的要求存在巨大差距。 73% 的受访者称，每天开车不超过 121 公里就能满足日常需求。无论是上下班还是外出办事，电动汽车的电池通常只需消耗少量电量，就足以应付这些行程。但当同一批受访者被问及买车时对续航里程的要求，答案却截然不同。 调查显示，42% 的受访者要求电动汽车续航里程 至少达到 483 公里 ，18% 的受访者只有在续航里程 不低于 644 公里时，才愿意考虑购买电动汽车 ",
-     "source": "IT之家",
-     "zh": "宝马北美调查：电动汽车买家想要远超自身需求的续航里程"
-    },
-    {
-     "title": "“尊界V800踏板支架断裂”事件后，门店销售称客流少了但无人退车，“目前跟我们说的是会升级”，专家建议排查供应商、检测与安装环节",
-     "link": "https://www.huxiu.com/article/4896304.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 07:18:36 +0800",
-     "summary": "本文来自微信公众号： 每经头条 ，编辑：金冥羽易启江，作者：每经记者，原文标题：《“尊界V800踏板支架断裂”事件后，门店销售称客流少了但无人退车，“目前跟我们说的是会升级”！专家建议排查供应商、检测与安装环节》 “这两天肯定受到了影响，店内的客流量明显少了，但目前还没有车主说要退车，也没有人来要说法。”10月9日晚间，北京某鸿蒙智行尊界用户中心销售人员向《每日经济新闻》记者坦言，懂车帝对尊界V800的相关实测视频发布后，他所在的门店客流量明显下滑。 10月8日，懂车帝发布的一则测试视频显示，三辆尊界V800在“100km/h-0基础制动性能实验”中，刹车踏板在踩刹车时支架发生断裂。随后，该事",
-     "source": "虎嗅",
-     "zh": "“尊界V800踏板支架断裂”事件后，门店销售称客流少了但无人退车，“目前跟我们说的是会升级”，专家建议排查供应商、检测与安装环节"
     },
     {
      "title": "Trump admin says it&apos;s now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents (Axios)",
@@ -1884,7 +1884,7 @@
      "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
      "link": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
      "pubDate": "Fri, 09 Oct 2026 22:05:53 +0000",
-     "summary": "Article URL: https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344 Comments URL: https://news.ycombinator.com/item?id=50027167 Points: 19 # Comments: 4",
+     "summary": "Article URL: https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344 Comments URL: https://news.ycombinator.com/item?id=50027167 Points: 22 # Comments: 6",
      "source": "Hacker News",
      "zh": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen"
     },
@@ -1916,7 +1916,7 @@
      "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
      "link": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
      "pubDate": "Fri, 09 Oct 2026 21:25:09 +0000",
-     "summary": "Article URL: https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/ Comments URL: https://news.ycombinator.com/item?id=50026734 Points: 21 # Comments: 2",
+     "summary": "Article URL: https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/ Comments URL: https://news.ycombinator.com/item?id=50026734 Points: 26 # Comments: 2",
      "source": "Hacker News",
      "zh": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof"
     },
@@ -1932,7 +1932,7 @@
      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
      "pubDate": "Fri, 09 Oct 2026 21:06:59 +0000",
-     "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 321 # Comments: 169",
+     "summary": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=50026555 Points: 338 # Comments: 183",
      "source": "Hacker News",
      "zh": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops"
     },
@@ -1956,7 +1956,7 @@
      "title": "No Man Is an Island",
      "link": "https://borretti.me/article/no-man-is-an-island",
      "pubDate": "Fri, 09 Oct 2026 20:04:00 +0000",
-     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 242 # Comments: 140",
+     "summary": "Article URL: https://borretti.me/article/no-man-is-an-island Comments URL: https://news.ycombinator.com/item?id=50025935 Points: 247 # Comments: 145",
      "source": "Hacker News",
      "zh": "No Man Is an Island"
     }
@@ -2217,52 +2217,76 @@
    "total": 13,
    "items": [
     {
-     "title": "广州酒家：融资净偿还250.27万元，融资余额1.12亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610103891710046.html",
-     "pubDate": "Sat, 10 Oct 2026 07:43:22 +0800",
-     "summary": "交易所最新数据显示，广州酒家于2026年10月9日获融资买入154.02万元，融资偿还404.30万元， 当日融资净偿还250.27万元。 目前，该股融资余额1.12亿，占流通市值比例为1.48%。 该股当日融券卖出2800股，融券偿还100股， 融券净卖出2700股。 目前，该股融券余量13.98万股，融券余额188.96万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承",
-     "source": "东方财富股票",
-     "zh": "广州酒家：融资净偿还250.27万元，融资余额1.12亿元"
+     "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
+     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 00:00:00 GMT",
+     "summary": "“I presume these are sophisticated investors taking a profit.”",
+     "source": "MarketWatch",
+     "zh": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?"
     },
     {
-     "title": "望变电气：融资净偿还424.85万元，融资余额2.85亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610103891709947.html",
-     "pubDate": "Sat, 10 Oct 2026 07:43:21 +0800",
-     "summary": "交易所最新数据显示，望变电气于2026年10月9日获融资买入610.94万元，融资偿还1035.79万元， 当日融资净偿还424.85万元。 目前，该股融资余额2.85亿，占流通市值比例为6.55%。 该股当日融券卖出600股，融券偿还3200股， 融券净偿还2600股。 目前，该股融券余量1.41万股，融券余额18.6万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任",
+     "title": "莱特光电：融资净偿还3866.65万元，融资余额5.4亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610103891802823.html",
+     "pubDate": "Sat, 10 Oct 2026 07:57:30 +0800",
+     "summary": "交易所最新数据显示，莱特光电于2026年10月9日获融资买入2231.74万元，融资偿还6098.39万元， 当日融资净偿还3866.65万元。 目前，该股融资余额5.40亿，占流通市值比例为3.82%。 该股当日融券卖出1.10万股，融券偿还8300股， 融券净卖出2713股。 目前，该股融券余量9.62万股，融券余额338.19万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致",
      "source": "东方财富股票",
-     "zh": "望变电气：融资净偿还424.85万元，融资余额2.85亿元"
+     "zh": "莱特光电：融资净偿还3866.65万元，融资余额5.4亿元"
     },
     {
-     "title": "全柴动力：融资净偿还471.04万元，融资余额2.82亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610103891709289.html",
-     "pubDate": "Sat, 10 Oct 2026 07:43:12 +0800",
-     "summary": "交易所最新数据显示， 全柴动力 于2026年10月9日获融资买入1635.19万元，融资偿还2106.24万元， 当日融资净偿还471.04万元。 目前，该股融资余额2.82亿，占流通市值比例为7.67%。 该股当日融券卖出4100股，融券偿还100股， 融券净卖出4000股。 目前，该股融券余量18.68万股，融券余额157.47万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
+     "title": "科森科技：融资净买入6664.93万元，融资余额10.17亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610103891802790.html",
+     "pubDate": "Sat, 10 Oct 2026 07:57:29 +0800",
+     "summary": "交易所最新数据显示，科森科技于2026年10月9日获融资买入1.49亿元，融资偿还8219.17万元， 当日融资净买入6664.93万元。 目前，该股融资余额10.17亿，占流通市值比例为7.48%。 该股当日融券卖出600股，融券偿还100股， 融券净卖出500股。 目前，该股融券余量2.29万股，融券余额56.08万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何",
      "source": "东方财富股票",
-     "zh": "全柴动力：融资净偿还471.04万元，融资余额2.82亿元"
+     "zh": "科森科技：融资净买入6664.93万元，融资余额10.17亿元"
     },
     {
-     "title": "上工申贝：融资净买入33.99万元，融资余额1.53亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610103891709128.html",
-     "pubDate": "Sat, 10 Oct 2026 07:43:12 +0800",
-     "summary": "交易所最新数据显示， 上工申贝 于2026年10月9日获融资买入1901.84万元，融资偿还1867.85万元， 当日融资净买入33.99万元。 目前，该股融资余额1.53亿，占流通市值比例为3.98%。 该股当日无融券交易。目前，该股融券余量2.51万股，融券余额20.53万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风",
+     "title": "华勤技术：融资净偿还3233.73万元，融资余额11.8亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610103891802244.html",
+     "pubDate": "Sat, 10 Oct 2026 07:57:22 +0800",
+     "summary": "交易所最新数据显示， 华勤技术 于2026年10月9日获融资买入8699.26万元，融资偿还1.19亿元， 当日融资净偿还3233.73万元。 目前，该股融资余额11.80亿，占流通市值比例为1.98%。 该股当日融券卖出3800股，融券偿还1280股， 融券净卖出2520股。 目前，该股融券余量11.08万股，融券余额825.86万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
      "source": "东方财富股票",
-     "zh": "上工申贝：融资净买入33.99万元，融资余额1.53亿元"
+     "zh": "华勤技术：融资净偿还3233.73万元，融资余额11.8亿元"
     },
     {
-     "title": "红四方：融资净偿还221.65万元，融资余额1.18亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610103891708990.html",
-     "pubDate": "Sat, 10 Oct 2026 07:43:10 +0800",
-     "summary": "交易所最新数据显示， 红四方 于2026年10月9日获融资买入2502.09万元，融资偿还2723.74万元， 当日融资净偿还221.65万元。 目前，该股融资余额1.18亿，占流通市值比例为6.81%。 该股当日融券卖出1100股，融券偿还1300股， 融券净偿还200股。 目前，该股融券余量3.63万股，融券余额96.52万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容",
+     "title": "苏农银行：融资净买入260.02万元，融资余额8.48亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610103891802198.html",
+     "pubDate": "Sat, 10 Oct 2026 07:57:21 +0800",
+     "summary": "交易所最新数据显示， 苏农银行 于2026年10月9日获融资买入2281.70万元，融资偿还2021.69万元， 当日融资净买入260.02万元。 目前，该股融资余额8.48亿，占流通市值比例为8.52%。 该股当日融券卖出1.77万股，融券偿还3.93万股， 融券净偿还2.16万股。 目前，该股融券余量47.57万股，融券余额213.11万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料",
      "source": "东方财富股票",
-     "zh": "红四方：融资净偿还221.65万元，融资余额1.18亿元"
+     "zh": "苏农银行：融资净买入260.02万元，融资余额8.48亿元"
     },
     {
-     "title": "福莱特：融资净偿还89.54万元，融资余额3.22亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610103891708810.html",
-     "pubDate": "Sat, 10 Oct 2026 07:42:59 +0800",
-     "summary": "交易所最新数据显示，福莱特于2026年10月9日获融资买入1043.78万元，融资偿还1133.33万元， 当日融资净偿还89.54万元。 目前，该股融资余额3.22亿，占流通市值比例为1.81%。 该股当日融券卖出3600股，融券偿还5800股， 融券净偿还2200股。 目前，该股融券余量15.75万股，融券余额147.74万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏",
+     "title": "科博达：融资净偿还63.82万元，融资余额1.71亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610103891802077.html",
+     "pubDate": "Sat, 10 Oct 2026 07:57:21 +0800",
+     "summary": "交易所最新数据显示， 科博达 于2026年10月9日获融资买入456.28万元，融资偿还520.10万元， 当日融资净偿还63.82万元。 目前，该股融资余额1.71亿，占流通市值比例为1.13%。 该股当日融券卖出0股，融券偿还6000股， 融券净偿还6000股。 目前，该股融券余量2.62万股，融券余额98.38万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈",
      "source": "东方财富股票",
-     "zh": "福莱特：融资净偿还89.54万元，融资余额3.22亿元"
+     "zh": "科博达：融资净偿还63.82万元，融资余额1.71亿元"
+    },
+    {
+     "title": "长阳科技：融资净买入126.27万元，融资余额3.09亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610103891801974.html",
+     "pubDate": "Sat, 10 Oct 2026 07:57:18 +0800",
+     "summary": "交易所最新数据显示， 长阳科技 于2026年10月9日获融资买入716.74万元，融资偿还590.47万元， 当日融资净买入126.27万元。 目前，该股融资余额3.09亿，占流通市值比例为8.56%。 该股当日融券卖出900股，融券偿还0股， 融券净卖出900股。 目前，该股融券余量1.76万股，融券余额22.07万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈",
+     "source": "东方财富股票",
+     "zh": "长阳科技：融资净买入126.27万元，融资余额3.09亿元"
+    },
+    {
+     "title": "Trump turns to Russia in bid to lower diesel prices, but analysts see minimal impact",
+     "link": "https://seekingalpha.com/news/4651899-trump-turns-to-russia-in-bid-to-lower-diesel-prices-but-analysts-see-minimal-impact?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 09 Oct 2026 19:50:41 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Trump turns to Russia in bid to lower diesel prices, but analysts see minimal impact"
+    },
+    {
+     "title": "奔腾中国·质胜未来丨牢牢把握粮食安全主动权",
+     "link": "http://www.eeo.com.cn/2026/1010/1059191.shtml",
+     "pubDate": "Sat, 10 Oct 2026 07:39:11 +0800",
+     "summary": "无论是日常见面一句“吃了吗”的简单问候，还是诗词中“粒粒皆辛苦”的谆谆告诫，“吃饱饭”在中国人心里有着特殊的分量。 谈到吃饭，...",
+     "source": "经济观察网",
+     "zh": "奔腾中国·质胜未来丨牢牢把握粮食安全主动权"
     },
     {
      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -2409,14 +2433,6 @@
      "zh": "Gran Tierra Energy expects $315M cash from $1.33B business sale"
     },
     {
-     "title": "Eli Lilly-backed TRex Bio closes day flat after IPO",
-     "link": "https://seekingalpha.com/news/4651892-eli-lilly-backed-trex-bio-closes-day-flat-after-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 17:30:20 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Eli Lilly-backed TRex Bio closes day flat after IPO"
-    },
-    {
      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
      "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
      "pubDate": "Fri, 09 Oct 2026 21:30:00 GMT",
@@ -2439,22 +2455,6 @@
      "summary": "飓风“伊赛亚斯”（Isaias）推高美国墨西哥湾沿岸原油价格。美国海洋矿产管理局（MMA）表示，飓风来袭导致该地区约72%的原油产量暂停。 美国海洋矿产管理局周五表示， 生产商已暂停约146万桶/日的原油产量，占该地区原油总产量的72%。 截至美国东部时间中午12时，已有129座海上平台撤离人员，另有两座动力定位钻井平台驶离风暴路径。 随着飓风逼近，英国石油公司（BP）关闭了Thunder Horse和Na Kika平台的生产，并从Argos、Atlantis和Mad Dog平台撤出非必要人员。 飓风“伊赛亚斯”逼近美国墨西哥湾沿岸时，已增强为三级飓风。 此次风暴扰乱了美国海上原油供应，而伊朗",
      "source": "华尔街见闻",
      "zh": "“伊赛亚斯”升级为三级飓风，美国墨西哥湾近四分之三原油停产"
-    },
-    {
-     "title": "Microsoft is nearing a big milestone that solidifies its revival",
-     "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 21:24:00 GMT",
-     "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
-     "source": "MarketWatch",
-     "zh": "Microsoft is nearing a big milestone that solidifies its revival"
-    },
-    {
-     "title": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%",
-     "link": "http://stock.eastmoney.com/news/11784,202610103891632088.html",
-     "pubDate": "Sat, 10 Oct 2026 05:15:33 +0800",
-     "summary": "美股市场： 美股三大指数10月09日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨423.31点，收于51654.95点，涨幅为0.83%，本周累涨0.93%； 标准普尔 500种股票指数上涨46.18点，收于7811.54点，涨幅为0.59% ，本周累涨1.15% ； 纳斯达克 综合 指数上涨172.83点，收于27366.17点，涨幅为0.64% ，本周累涨0.64 % 。 热门科技股多数上涨， 亚马逊 涨超3%， 微软 、 特斯拉 涨超2%； 苹果 跌超1%，AMD、 英特尔 跌超2%。 有色金属 、加密货币概念股涨幅居前， 南方铜业 涨超5%，Coinbase涨超4%， 必",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/10 08:51:57",
+ "generated_at": "2026/10/10 09:11:52",
  "recent_days": 7,
  "industries": [
   {
@@ -1729,12 +1729,76 @@
    "total": 18,
    "items": [
     {
-     "title": "比亚迪第 15 万辆新能源商用车下线，新能源客车连续三年获年度出口冠军",
-     "link": "https://www.ithome.com/1/011/186.htm",
-     "pubDate": "Sat, 10 Oct 2026 00:46:21 GMT",
-     "summary": "IT之家 10 月 10 日消息，比亚迪商用车宣布，10 月 9 日， 比亚迪第 15 万辆新能源商用车 ——Q3 纯电动牵引车，在淮安比亚迪卡车智慧工厂正式下线。 官方表示，比亚迪 Q3 纯电动牵引车依托自研三电技术，搭载商用车专用刀片电池，电机峰值功率达 600kW，支持双枪快充，为重载运输提供强劲动力与快速补能支持。 IT之家获悉，比亚迪商用车已进入全球 70 多个国家和地区， 新能源客车连续三年斩获年度出口冠军 。 延伸阅读 Q3 是比亚迪于 2025 年 4 月 11 日在成都举行的“比亚迪重卡全系产品上市发布会”上推出的纯电动牵引车，同场还发布了纯电动自卸车与纯电动搅拌车。 此次下",
+     "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
+     "link": "https://www.ithome.com/1/011/194.htm",
+     "pubDate": "Sat, 10 Oct 2026 01:07:47 GMT",
+     "summary": "IT之家 10 月 10 日消息，据《纽约时报》当地时间 9 日报道，Anthropic 披露，旗下 AI 智能体 曾在无人指示的情况下 ，试图访问美国联邦、州及地方政府的多个网站。Anthropic 没有公布涉及的政府机构名称，已向白宫通报这些事件。 Anthropic 在博客文章中提到，一款处于测试阶段的 AI 模型 擅自执行了多项操作 ，包括利用某大学网站的漏洞下载数据，以及向某政府机构提交一份原本被明确禁止提交的表格。 Anthropic 在审查旗下 AI 于 7 月的操作记录时发现了这些问题。当时，OpenAI 披露旗下 AI 技术曾攻击初创企业 Hugging Face，Anthr",
      "source": "IT之家",
-     "zh": "比亚迪第 15 万辆新能源商用车下线，新能源客车连续三年获年度出口冠军"
+     "zh": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站"
+    },
+    {
+     "title": "上市价 4699 元 → 国补后 3143 元：石头扫拖机器人 P20 Max 上下水版新低",
+     "link": "https://www.ithome.com/1/011/193.htm",
+     "pubDate": "Sat, 10 Oct 2026 01:07:12 GMT",
+     "summary": "石头 P20 Max 自清洁扫拖机器人今年 2 月上市，水箱版 4299 元，上下水版 4699 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后，到手价 3143.13 元： 领 9 折家电家居券： 点此查看 。 下单时选择“以旧换新 → 个护健康 → 电动牙刷 ”补贴 300 元。 大部分小伙伴还可选择“ 组合购 ”，实付 低至 2992.1 元 。 京东 石头 P20 Max 扫拖洗烘一体机 上下水版 以旧换新后 3143.13 元 直达链接 支持 3 期免息，官方质保 2 年，扫开箱码领延保服务。 购机赠价值 199 元配件礼包（尘袋 2 个、边刷 2 个、旋转拖",
+     "source": "IT之家",
+     "zh": "上市价 4699 元 → 国补后 3143 元：石头扫拖机器人 P20 Max 上下水版新低"
+    },
+    {
+     "title": "生数科技发布视频生成模型 Vidu Q4 Preview 预览版本，支持 2K、4K 输出",
+     "link": "https://www.ithome.com/1/011/192.htm",
+     "pubDate": "Sat, 10 Oct 2026 01:01:44 GMT",
+     "summary": "IT之家 10 月 10 日消息，生数科技现已发布全新一代视频生成旗舰模型预览版本 Vidu Q4 Preview，最多支持 3 段参考音频、15 张参考图与 2K、4K 输出。 IT之家获悉，Vidu Q4 目前支持图生视频和参考生视频。图生视频可根据图片和文字描述生成视频；参考生视频可结合多张参考图片和音频生成视频。 Vidu Q4 Preview 最多支持 3 段参考音频 ，通过声音参考，让角色音色更加统一；最多支持 15 张参考图 ，让人物、场景、道具等创意要素拥有更充分的视觉参考。 据介绍，Vidu Q4 Preview 进一步 提升动态运镜、切镜与复杂镜头衔接 ；支持 2K、4K ",
+     "source": "IT之家",
+     "zh": "生数科技发布视频生成模型 Vidu Q4 Preview 预览版本，支持 2K、4K 输出"
+    },
+    {
+     "title": "苹果第二期中国清洁能源基金扩容至 2.12 亿美元，在中国逾 95% 的生产制造现已采用可再生能源",
+     "link": "https://www.ithome.com/1/011/191.htm",
+     "pubDate": "Sat, 10 Oct 2026 01:00:41 GMT",
+     "summary": "IT之家 10 月 10 日消息，苹果公司今天（10 月 10 日）发布公告，宣布第二期中国清洁能源基金扩容， 承诺投资总额增至 2.12 亿美元 （IT之家注：现汇率约合 14.22 亿元人民币） 。 相较去年 1 亿美元 （现汇率约合 6.71 亿元人民币） 的初始锚定投资，基金规模增长约 1 倍。 位于广西的风电项目，由 Apple 第二期中国清洁能源基金的初步投资支持开发。 新能源科技、鹏鼎控股与达尔科技承诺出资。基金已完成初步投资，支持广西 260 兆瓦风电项目。山东 50 兆瓦风电项目也获支持，2 处均已开工；苹果称，中国逾 95% 的直接生产制造已采用可再生能源。 施罗德资本管理",
+     "source": "IT之家",
+     "zh": "苹果第二期中国清洁能源基金扩容至 2.12 亿美元，在中国逾 95% 的生产制造现已采用可再生能源"
+    },
+    {
+     "title": "Edge AI Daily 早报（10月10日）",
+     "link": "https://www.tmtpost.com/8163419.html",
+     "pubDate": "Sat, 10 Oct 2026 08:57:05 +0800",
+     "summary": "英伟达五年投10亿美元入美国“创世纪计划”、黄仁勋获国家科学奖章，算力巨头升级为国家科学基础设施共建者；谷歌云发布通用智能体Gemini Agent，AI转入“给目标”自主执行的范式跃迁；微软原生重构Xbox PC应用Garrison冲击Steam；亚马逊裁零售岗、2200亿美元资本开支转向AI；Oracle用卡车运天然气保AI数据中心工期，暴露扩张与物理基建错配。",
+     "source": "钛媒体",
+     "zh": "Edge AI Daily 早报（10月10日）"
+    },
+    {
+     "title": "集邦咨询：内存等成本压力上升，2027 全球笔记本价格恐继续上涨",
+     "link": "https://www.ithome.com/1/011/190.htm",
+     "pubDate": "Sat, 10 Oct 2026 00:56:36 GMT",
+     "summary": "IT之家 10 月 10 日消息，市场调查机构集邦咨询（Trendforce）于 10 月 8 日发布博文，表示如果零部件价格继续维持高位，品牌扩大成本转嫁， 终端涨价可能延长用户换机周期，预估 2027 年全球笔记本市场面临出货、价格双重影响。 IT之家此前援引该机构报道，在 2026 年第 3 季度以建议零售价 900 美元 （IT之家注：现汇率约合 6,036 元人民币） 的主流笔记本为例， 其 CPU、内存及 SSD 占物料成本约 68% ，品牌面临提价、压缩毛利或降低配置的选择。 该机构预计，2027 年全球出货量将低个位数（预估低于 5%）下滑。若 CPU 与 DRAM 价格维持高",
+     "source": "IT之家",
+     "zh": "集邦咨询：内存等成本压力上升，2027 全球笔记本价格恐继续上涨"
+    },
+    {
+     "title": "不聊天的AI，上线不到一个月，完成75亿美元估值融资",
+     "link": "https://www.tmtpost.com/8163464.html",
+     "pubDate": "Sat, 10 Oct 2026 08:54:53 +0800",
+     "summary": "非文本模型Jev开发商TypeSafe AI完成8.7亿美元融资",
+     "source": "钛媒体",
+     "zh": "不聊天的AI，上线不到一个月，完成75亿美元估值融资"
+    },
+    {
+     "title": "西伯利亚的鼠疫疑云",
+     "link": "https://www.huxiu.com/article/4896322.html?f=rss",
+     "pubDate": "Sat, 10 Oct 2026 08:54:33 +0800",
+     "summary": "本文来自微信公众号： 心智观察所 ，作者：心智观察所 2026年10月2日凌晨，在紧邻贝加尔湖的俄罗斯西伯利亚重工业小城舍列霍夫，28岁的年轻科研人员达莉娅·希皮洛娃在一间严密防范的病房里停止了呼吸。她是伊尔库茨克西伯利亚及远东防鼠疫研究所的研究员，从突发高烧、剧烈胸痛到急性呼吸窘迫死亡，整个过程仅仅持续了数天。死讯在互联网上迅速发酵，“实验室样本试管碎裂”“凶险肺鼠疫外泄”等传言如野火般席卷各大社交平台。涉事医院被隔离封控，近200名密切接触者接受医学观察，临近的大型铝厂紧急推行全员口罩令。周边药房的广谱抗生素被疯抢一空。一种曾经毁灭过三分之一人口的古老烈性传染病与“生物安全研究所”捆绑在一",
+     "source": "虎嗅",
+     "zh": "西伯利亚的鼠疫疑云"
+    },
+    {
+     "title": "全球上线不到一年，育碧《彩虹六号》手游官宣明年 1 月停止运营",
+     "link": "https://www.ithome.com/1/011/189.htm",
+     "pubDate": "Sat, 10 Oct 2026 00:52:52 GMT",
+     "summary": "IT之家 10 月 10 日消息，当地时间 9 日，育碧宣布，《彩虹六号》手游将于 2027 年 1 月停运，届时距离游戏全球正式上线还不到一年。 《彩虹六号》手游于 2023 年在部分地区试运营，直到 2026 年 2 月才面向全球正式推出。 各位干员，大家好！ 很难向大家宣布这个消息：我们作出了艰难的决定，将停止运营《彩虹六号》手游。游戏将 运营至 2027 年 1 月 15 日 ，下个赛季仍按原计划于下周推出。 从 2023 年开启地区试运营至今，《彩虹六号》手游陪伴大家走过了 15 个赛季。在大家的帮助下，我们不断完善游戏，也建立起一个充满活力、汇聚世界各地玩家的社区。能够把《彩虹六号",
+     "source": "IT之家",
+     "zh": "全球上线不到一年，育碧《彩虹六号》手游官宣明年 1 月停止运营"
     },
     {
      "title": "从FILA到彪马，安踏与那些买来的洋名字们",
@@ -1743,14 +1807,6 @@
      "summary": "本文来自微信公众号： 奋进的肚腩 ，作者：肚腩说 2026年上半年，安踏旗下FILA业务的经营利润是43.2亿元，比安踏品牌同期的39.9亿元还多。 一个从福建长起来的运动品牌，把买来的区域业务做成了重要利润来源。从2009年那笔交易，到今天的成绩，中间隔着十七年的经营。钱付出去的那一天，显然只算开头。 现在，安踏又成了彪马最大股东。始祖鸟、萨洛蒙、狼爪，也已陆续进入它参与经营或持有的品牌版图。交易名单越来越长。曾经卖自家运动鞋的人，开始接手别人积攒几十年的名声，也接手那些名声背后的生意。 这比给品牌重新划一遍国籍有意思。收购以后，消费者照样要试鞋，店长照样要交租。柜台前的人不负责替并购庆祝，",
      "source": "虎嗅",
      "zh": "从FILA到彪马，安踏与那些买来的洋名字们"
-    },
-    {
-     "title": "索尼直播互动专利公示：观众可光标指导、搭桥、操纵游戏物体等",
-     "link": "https://www.ithome.com/1/011/185.htm",
-     "pubDate": "Sat, 10 Oct 2026 00:40:24 GMT",
-     "summary": "IT之家 10 月 10 日消息，科技媒体 insider-gaming 昨日（10 月 9 日）发布博文，报道称索尼公司获批一项新专利， 描述了游戏互动系统，观众可以直接影响主播游戏环境，涵盖光标引导、临时搭桥及物体操纵等。 该专利名为《游戏过程中的自适应屏幕共享指针和反应》，编号为 US-12752199-B2，于 2023 年 10 月提交申请，并于 2026 年 10 月 6 日获批公示。 根据专利描述，观众可在主播游戏画面上移动光标，其外观可以随游戏变化。在专利示例中，观众可以通过光标标记首领弱点、提示射击位置等用途。不过观众无法控制游戏角色，但可用屏幕指示向主播传递信息，也可在画面",
-     "source": "IT之家",
-     "zh": "索尼直播互动专利公示：观众可光标指导、搭桥、操纵游戏物体等"
     },
     {
      "title": "聊聊安妮·卡森",
@@ -1769,6 +1825,14 @@
      "zh": "5亿美元到账，肖弘和Manus的故事还不能散场"
     },
     {
+     "title": "Show HN: Yeah Nah – a BS score for Australian job ads",
+     "link": "https://yeahnah.lol/",
+     "pubDate": "Sat, 10 Oct 2026 00:38:18 +0000",
+     "summary": "Article URL: https://yeahnah.lol/ Comments URL: https://news.ycombinator.com/item?id=50028283 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Show HN: Yeah Nah – a BS score for Australian job ads"
+    },
+    {
      "title": "硅谷大模型不装了：Claude卷价格，GPT学豆包",
      "link": "https://www.huxiu.com/article/4896317.html?f=rss",
      "pubDate": "Sat, 10 Oct 2026 08:38:11 +0800",
@@ -1777,12 +1841,12 @@
      "zh": "硅谷大模型不装了：Claude卷价格，GPT学豆包"
     },
     {
-     "title": "消息称 OpenAI、Anthropic 高管私下推演 AI 灾难情景，以应对公众反弹与政治抵制",
-     "link": "https://www.ithome.com/1/011/183.htm",
-     "pubDate": "Sat, 10 Oct 2026 00:32:24 GMT",
-     "summary": "IT之家 10 月 10 日消息，据 Axios 于当地时间 10 月 9 日报道，Anthropic、OpenAI 以及其他人工智能公司的高管们，目前正私下闭门推演，若发生重大灾难性 AI 事件，该如何应对公众与政界的强烈抗议及抵制浪潮。 这些业内高管预计，未来很可能发生一场大规模事件 —— 极有可能是某种网络攻击，导致金融服务、互联网通信甚至水电供应等基础设施大面积瘫痪。 一旦非安全可控的 AI 首次在现实世界中造成实质性重大危害，本就心存戒备的公众将更加坚决地反对这项技术及其领军人物，包括 Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）与 OpenAI 首席",
-     "source": "IT之家",
-     "zh": "消息称 OpenAI、Anthropic 高管私下推演 AI 灾难情景，以应对公众反弹与政治抵制"
+     "title": "REA Reverse – Engineer Anything",
+     "link": "https://rea.tools/",
+     "pubDate": "Sat, 10 Oct 2026 00:37:07 +0000",
+     "summary": "Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 15 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "REA Reverse – Engineer Anything"
     },
     {
      "title": "范冰冰6700万元旧债背后：公司欠债，该让明星本人还吗？",
@@ -1793,42 +1857,10 @@
      "zh": "范冰冰6700万元旧债背后：公司欠债，该让明星本人还吗？"
     },
     {
-     "title": "特朗普政府实施新要求：AI 公司发生安全事件后，须立即上报",
-     "link": "https://www.ithome.com/1/011/182.htm",
-     "pubDate": "Sat, 10 Oct 2026 00:27:42 GMT",
-     "summary": "IT之家 10 月 10 日消息，据央视新闻报道，当地时间 9 日，在人工智能公司 Anthropic 发生多起未经授权使用美国政府系统的安全事件后，特朗普政府宣布实施新的强制性 AI 安全事件报告要求。 消息称，Anthropic 公司已于 9 月底向美国政府披露相关事件，并表示未经授权的活动已经停止。根据新要求，AI 公司今后发生安全事件后 必须 立即向政府报告 ，提高事件透明度，并对受到影响的机构采取补救和纠正措施。 据美国方面消息， 特朗普设立的“超级智能特别工作组”将负责监督相关要求的执行。 白宫官员表示，政府不会接受延迟报告或企业未承担责任的情况，但目前具体的执法和处罚机制尚不明确",
-     "source": "IT之家",
-     "zh": "特朗普政府实施新要求：AI 公司发生安全事件后，须立即上报"
-    },
-    {
-     "title": "汞超标患儿涉事“银鳕鱼”，究竟是什么鱼？",
-     "link": "https://www.huxiu.com/article/4896315.html?f=rss",
-     "pubDate": "Sat, 10 Oct 2026 08:27:08 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：李烨 一款标注“儿童装”的银鳕鱼产品，最近让幼童家长们担忧。据《扬子晚报》等媒体近期报道，一名2岁幼儿连续约8个月食用在盒马销售的“南极银鳕鱼块儿童装”，每周食用两至三次。随后孩子出现血汞指标异常，医院就诊结果表明孩子疑为汞中毒。 事件发生后，另有一些消费者在社媒平台发帖，表示他们同样长期让孩子食用银鳕鱼，而这些孩子的医院诊断结果同样显示血液里汞含量高于医院参考值。 界面新闻看到，其中一款争议中的银鳕鱼产品为盒马曾出售的“去皮去骨南极银鳕鱼块”，包装上标注“儿童装”，规格为180克（3块装）。其商品详情页列出了适用于宝宝辅食的进食方法。但目前这款商品显示",
-     "source": "虎嗅",
-     "zh": "汞超标患儿涉事“银鳕鱼”，究竟是什么鱼？"
-    },
-    {
-     "title": "2026 年披露的第 4 笔 AI 交易：苹果投资 Huxe，由前谷歌 NotebookLM 团队成员创立",
-     "link": "https://www.ithome.com/1/011/181.htm",
-     "pubDate": "Sat, 10 Oct 2026 00:24:22 GMT",
-     "summary": "IT之家 10 月 10 日消息，科技媒体 9to5Mac 昨日（10 月 9 日）发布博文，报道称苹果与 AI 音频初创公司 Huxe 达成人才引进与技术许可协议，这是今年公开披露的第 4 笔苹果 AI 相关交易。 根据欧盟《数字市场法》透明度数据库本月（2026 年 10 月）披露的文件显示，苹果有权向 Huxe 的特定员工发出聘用邀请并录用员工。苹果同时获得 Huxe 知识产权的非独占许可。 这项安排属于“收购式招聘”（acqui-hires），不代表苹果收购 Huxe 公司。协议允许苹果引进部分员工并使用相关知识产权，但交易没有包括购买 Huxe 业务，报道没有披露协议金额。 IT之家",
-     "source": "IT之家",
-     "zh": "2026 年披露的第 4 笔 AI 交易：苹果投资 Huxe，由前谷歌 NotebookLM 团队成员创立"
-    },
-    {
-     "title": "联想来酷斗战者 245W 氮化镓电源适配器开售：5525 DC 圆口，249 元",
-     "link": "https://www.ithome.com/1/011/180.htm",
-     "pubDate": "Sat, 10 Oct 2026 00:19:42 GMT",
-     "summary": "IT之家 10 月 10 日消息，联想来酷斗战者 245W 氮化镓电源适配器现已开售， 售价 249 元 。 相比原装 240W 适配器，这款新品体积缩小约 30%，重量约 449.7g，比原装减轻约 28%，整体尺寸为 82×82×33mm。 这款新品配备三脚接地安全插头，自带长度 1.5 米的 DC 圆口（5.5×2.5mm）充电线，线芯加粗并内置屏蔽保护层，可为斗战者战 7000、战 7000P、战 7000X 开启野兽模式、斗战模式等高负载场景。 IT之家附这款新品详细参数如下： 京东 来酷斗战者 245W 氮化镓充电器 DC 圆口 249 元 直达链接",
-     "source": "IT之家",
-     "zh": "联想来酷斗战者 245W 氮化镓电源适配器开售：5525 DC 圆口，249 元"
-    },
-    {
      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
      "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
      "pubDate": "Fri, 09 Oct 2026 23:56:55 +0000",
-     "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/ Comments URL: https://news.ycombinator.com/item?id=50028059 Points: 6 # Comments: 3",
+     "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/ Comments URL: https://news.ycombinator.com/item?id=50028059 Points: 15 # Comments: 8",
      "source": "Hacker News",
      "zh": "11 of 23 Core Open Source Projects Run on 1 or 2 People"
     },
@@ -1849,18 +1881,10 @@
      "zh": "Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that&apos;s designing a new central processor for data centers, is raising funds at a ~$2.5B valuation (Reuters)"
     },
     {
-     "title": "HostMath – Airbnb profit calculator with break-even occupancy and payback",
-     "link": "https://hosttmath.ctonew.app/?src=hn",
-     "pubDate": "Fri, 09 Oct 2026 23:28:46 +0000",
-     "summary": "Article URL: https://hosttmath.ctonew.app/?src=hn Comments URL: https://news.ycombinator.com/item?id=50027856 Points: 4 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "HostMath – Airbnb profit calculator with break-even occupancy and payback"
-    },
-    {
      "title": "Compiling Rust to readable C with Eurydice",
      "link": "https://lwn.net/Articles/1055211/",
      "pubDate": "Fri, 09 Oct 2026 23:28:36 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 7 # Comments: 1",
      "source": "Hacker News",
      "zh": "Compiling Rust to readable C with Eurydice"
     },
@@ -1876,7 +1900,7 @@
      "title": "Rewriting Prime Agent in Rust",
      "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
      "pubDate": "Fri, 09 Oct 2026 23:06:25 +0000",
-     "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust Comments URL: https://news.ycombinator.com/item?id=50027694 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust Comments URL: https://news.ycombinator.com/item?id=50027694 Points: 15 # Comments: 3",
      "source": "Hacker News",
      "zh": "Rewriting Prime Agent in Rust"
     },
@@ -1892,7 +1916,7 @@
      "title": "Atari Falcon",
      "link": "https://atarimuseum.nl/atari-falcon/",
      "pubDate": "Fri, 09 Oct 2026 22:54:13 +0000",
-     "summary": "Article URL: https://atarimuseum.nl/atari-falcon/ Comments URL: https://news.ycombinator.com/item?id=50027590 Points: 4 # Comments: 1",
+     "summary": "Article URL: https://atarimuseum.nl/atari-falcon/ Comments URL: https://news.ycombinator.com/item?id=50027590 Points: 9 # Comments: 2",
      "source": "Hacker News",
      "zh": "Atari Falcon"
     },
@@ -1929,14 +1953,6 @@
      "zh": "Long live the mechanical keyboard"
     },
     {
-     "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
-     "link": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
-     "pubDate": "Fri, 09 Oct 2026 22:05:53 +0000",
-     "summary": "Article URL: https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344 Comments URL: https://news.ycombinator.com/item?id=50027167 Points: 45 # Comments: 21",
-     "source": "Hacker News",
-     "zh": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen"
-    },
-    {
      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
      "pubDate": "Fri, 09 Oct 2026 22:04:07 +0000",
@@ -1951,22 +1967,6 @@
      "summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
      "source": "Ars Technica",
      "zh": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis"
-    },
-    {
-     "title": "NASA issues long-awaited call to industry for private space stations",
-     "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
-     "pubDate": "Fri, 09 Oct 2026 21:34:09 +0000",
-     "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
-     "source": "Ars Technica",
-     "zh": "NASA issues long-awaited call to industry for private space stations"
-    },
-    {
-     "title": "Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)",
-     "link": "https://www.techmeme.com/261009/p26#a261009p26",
-     "pubDate": "Fri, 09 Oct 2026 17:25:01 -0400",
-     "summary": "Maria Curi / Axios : Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event &nbsp; &mdash;&nbsp; - The first example of significant real-world harm caused by unsafe AI would turn an already wary public further ",
-     "source": "Techmeme",
-     "zh": "Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)"
     }
    ]
   },
@@ -2225,52 +2225,84 @@
    "total": 13,
    "items": [
     {
-     "title": "特朗普：炼油企业与零售商应当开始降价",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891830870.html",
-     "pubDate": "Sat, 10 Oct 2026 08:38:27 +0800",
-     "summary": "特朗普：炼油企业与零售商应当开始降价。 （文章来源：新浪财经快讯）",
+     "title": "国能日新等成立懂小电能源公司",
+     "link": "http://finance.eastmoney.com/news/1349,202610103891836453.html",
+     "pubDate": "Sat, 10 Oct 2026 09:04:38 +0800",
+     "summary": "企查查APP显示，近日，懂小电（山西）能源有限公司成立，经营范围包含： 计算机 系统服务； 软件开发 ； 计算机 软硬件及辅助设备批发； 计算机 软硬件及辅助设备零售等。企查查股权穿透显示，该公司由 国能日新 等共同持股。 （文章来源：人民财讯）",
      "source": "东方财富股票",
-     "zh": "特朗普：炼油企业与零售商应当开始降价"
+     "zh": "国能日新等成立懂小电能源公司"
     },
     {
-     "title": "马斯克：Grok Bot可以模拟任何事物",
-     "link": "http://stock.eastmoney.com/news/1611,202610103891830632.html",
-     "pubDate": "Sat, 10 Oct 2026 08:38:26 +0800",
-     "summary": "马斯克：Grok Bot可以模拟任何事物。 （文章来源：新浪财经快讯）",
+     "title": "团体标准有新规！《团体标准化 良好行为规范》国标发布",
+     "link": "http://finance.eastmoney.com/news/1350,202610103891835986.html",
+     "pubDate": "Sat, 10 Oct 2026 09:01:43 +0800",
+     "summary": "记者今天了解到，市场监管总局批准发布《团体标准化良好行为规范》国家标准，该标准规定了团体标准组织开展标准化活动的总体要求、职能管理和制度要求，以及团体标准制定程序、团体标准起草、团体标准实施应用、国际化等方面的要求，确立了团体标准化良好行为评价的指标体系和评价规则。 自《中华人民共和国标准化法》确立团体标准法律地位以来，我国团体标准发展迅速，在快速响应市场需求、促进技术创新、推动产业升级、支撑新产品新业态新模式发展等方面发挥了积极作用。但部分团体标准仍存在多而不精、快而不优，部分社会团体开展团体标准化活动不规范等问题。该标准坚持问题导向，以合规引导为重点，将团体标准全生命周期管理要求融入其中。",
      "source": "东方财富股票",
-     "zh": "马斯克：Grok Bot可以模拟任何事物"
+     "zh": "团体标准有新规！《团体标准化 良好行为规范》国标发布"
     },
     {
-     "title": "特朗普：地球开始降温，冰山规模比以往任何时候都更大",
-     "link": "http://finance.eastmoney.com/news/1351,202610103891830549.html",
-     "pubDate": "Sat, 10 Oct 2026 08:38:25 +0800",
-     "summary": "特朗普：地球开始降温，冰山规模比以往任何时候都更大。 （文章来源：新浪财经快讯）",
+     "title": "事关柴油供应，“美俄达成一致”",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891836525.html",
+     "pubDate": "Sat, 10 Oct 2026 09:00:40 +0800",
+     "summary": "美国财政部外国资产控制办公室当地时间9日发布公告称，将在未来几个月放松针对俄罗斯柴油贸易的制裁，以缓解美国国内柴油供应紧张、平抑油价。 同天，美国总统特朗普宣布，美俄领导人就俄向美国及全球市场提供柴油达成一致。 普京：俄愿向美国及全球市场供应石油和石油产品 俄罗斯克里姆林宫当地时间9日发布俄总统普京声明称，当天与美国总统特朗普通电话期间，双方重点讨论了乌克兰危机的解决前景，同时还涉及伊朗局势以及双边关系的多个方面。 在讨论全球能源市场形势时，俄方重申，愿意向美国及全球市场供应石油和石油产品。普京强调，这将对全球经济产生积极影响。 双方确认，两国总统将继续保持直接接触，并继续通过总统办公机构、情",
      "source": "东方财富股票",
-     "zh": "特朗普：地球开始降温，冰山规模比以往任何时候都更大"
+     "zh": "事关柴油供应，“美俄达成一致”"
     },
     {
-     "title": "人形机器人降价赶考：别让跳舞掩盖商业化考题",
-     "link": "http://finance.eastmoney.com/news/1355,202610093891518287.html",
-     "pubDate": "Sat, 10 Oct 2026 08:38:00 +0800",
-     "summary": "人形 机器人 正在上演一轮剧烈的价格下探。松延动力 “小布米” 定价 9998 元，敲开了万元以内双足人形的大门；宇树 R1 下调至 2.99 万元之后，线上平台热度走高，市场反响火热。回看宇树招股书，2023-2025 两年间，全系列人形 机器人 加权均价从 59 万元以上落到 16 万余元，降幅逾七成（不完全来自单款产品降价）。 赛道的降价故事还没有写完，近日，银河通用 Galbot ET1 抛出 7.9 万至17.9 万的预订报价，不过这款机器眼下还停留在预订阶段，距离大规模交付尚有距离。 价格本身并不是新闻。真正的变化在于，产品明码标价之后，买家的评判标尺已经换了一套。当人形 机器人 ",
+     "title": "美股集体收涨，中国资产爆发，黄金、白银齐涨",
+     "link": "http://finance.eastmoney.com/news/1361,202610103891836130.html",
+     "pubDate": "Sat, 10 Oct 2026 08:59:04 +0800",
+     "summary": "当地时间10月9日，美股三大指数集体收涨，道指涨0.83%，本周累计上涨0.93%；纳指涨0.64%，本周累计上涨0.64%；标普500指数涨0.59%，本周累计上涨1.15%。 纳斯达克 金龙中国指数收涨2.69%，报5753.78点，本周累计上涨4.25%。热门中概股普遍上涨， 世纪互联 涨近7%， 理想汽车 、 阿里巴巴 、 名创优品 涨超5%， 蔚来 涨近5%， 哔哩哔哩 涨超4%， 小鹏集团 、 腾讯控股 涨超3%。 WTI原油 期货 结算价为91.85美元/桶，上涨36美分，涨幅0.39%。布伦特原油 期货 结算价为104.72美元/桶，上涨44美分，涨幅0.42%。 COMEX ",
      "source": "东方财富股票",
-     "zh": "人形机器人降价赶考：别让跳舞掩盖商业化考题"
+     "zh": "美股集体收涨，中国资产爆发，黄金、白银齐涨"
     },
     {
-     "title": "我国成功发射卫星互联网低轨27组卫星",
-     "link": "http://finance.eastmoney.com/news/11158,202610103891830722.html",
-     "pubDate": "Sat, 10 Oct 2026 08:37:41 +0800",
-     "summary": "新华社海南文昌10月10日电（记者陈凯姿）10日3时27分，我国在海南 商业航天 发射场使用长征十二号运载火箭，成功将 卫星互联网 低轨27组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。 （文章来源： 新华网 ）",
+     "title": "特朗普：如果共和党拿下参众两院，我将向美国所有成年公民每人发放 5000 美元",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891835793.html",
+     "pubDate": "Sat, 10 Oct 2026 08:57:30 +0800",
+     "summary": "特朗普：在共和党执政下，美国发展态势大好，也只有我敢放出这个承诺：如果共和党拿下参众两院，我将向美国所有成年公民每人发放 5000 美元…… 民主党的政策不会允许这件事落地。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "我国成功发射卫星互联网低轨27组卫星"
+     "zh": "特朗普：如果共和党拿下参众两院，我将向美国所有成年公民每人发放 5000 美元"
     },
     {
-     "title": "“饺子云吞第一股”或将到来 袁记云饺海外门店超60家",
-     "link": "http://hk.eastmoney.com/news/11223,202610093891520267.html",
-     "pubDate": "Sat, 10 Oct 2026 08:36:56 +0800",
-     "summary": "近日，有消息称袁记食品集团股份有限公司通过港交所上市聆讯。若顺利挂牌，将成为港交所首个饺子云吞IPO。截至2026年9月，袁记云饺海外门店已扩展至超60家，覆盖新加坡、泰国、马来西亚、英国4个国家。 2024年末，袁记云饺海外首店落地新加坡，截至目前已有在营业门店47家，形成覆盖商场、社区、食阁三大场景的密集门店网络。有媒体报道，凭借此规模，袁记云饺成为新加坡门店数量第一的连锁中餐品牌。有业内人士指出，袁记云饺已经跑通了三类标准化盈利模型，商业化落地成效显著，稳定的单店收益证明其模式的可规模性。 目前，袁记云饺向外扩张节奏持续提速，泰国落地14家门店，马来西亚、英国各开设标杆首店，新店经营数据",
+     "title": "特朗普：我智商非常高",
+     "link": "http://finance.eastmoney.com/news/1351,202610103891835451.html",
+     "pubDate": "Sat, 10 Oct 2026 08:57:30 +0800",
+     "summary": "特朗普：我智商非常高。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "“饺子云吞第一股”或将到来 袁记云饺海外门店超60家"
+     "zh": "特朗普：我智商非常高"
+    },
+    {
+     "title": "史前治水与中国早期文明演进",
+     "link": "http://www.eeo.com.cn/2026/1010/1059224.shtml",
+     "pubDate": "Sat, 10 Oct 2026 08:39:12 +0800",
+     "summary": "史前治水与中国早期文明演进 演讲人：刘建国 演讲地点：山东大学青岛校区鳌山讲坛 演讲时间：二○二六年四月 刘建国中国社会科学院考古研究所研究员，中国社会科学院大学教授、博士生导师，长期从...",
+     "source": "经济观察网",
+     "zh": "史前治水与中国早期文明演进"
+    },
+    {
+     "title": "陕西师范大学图书馆：文脉赓续书香育人",
+     "link": "http://www.eeo.com.cn/2026/1010/1059222.shtml",
+     "pubDate": "Sat, 10 Oct 2026 08:39:11 +0800",
+     "summary": "【校馆弦歌】 光明日报记者 张亚雄 崔志坚 张哲浩 光明网记者 范瑾 珍贵敦煌麻布画、700余部馆藏古籍善本、12000余通历代石刻拓片……走进陕西师范大学图书馆，瑰丽敦煌、文人风骨、红色热血、古籍智慧等精选主题著作展陈和丰富馆藏文献资源，无不呈现出这所师范院校的育人底蕴和文化气质。 <img id=\"73452716\" src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/A956462E4186D70F572...",
+     "source": "经济观察网",
+     "zh": "陕西师范大学图书馆：文脉赓续书香育人"
+    },
+    {
+     "title": "老子之道的体和用",
+     "link": "http://www.eeo.com.cn/2026/1010/1059223.shtml",
+     "pubDate": "Sat, 10 Oct 2026 08:39:10 +0800",
+     "summary": "作者：程水金（南昌大学国学院教授） 最能涵摄老子哲学体系的《道德经》原文，除却“反者道之动，弱者道之用”一语，五千言其余文字，概莫能当。其一，“道”，是老子哲学的核心概念。这是古今学人共识，毋庸置疑。其二，“反”，既是客体之“道”的运动模式，也是指导主体认知的思想方法。其三，“弱”，既是道体运动的客观过程，也是指导主体实践的行为准则。因而不仅老子哲学的思想精髓存乎此，老子哲学的实用价值亦寄...",
+     "source": "经济观察网",
+     "zh": "老子之道的体和用"
+    },
+    {
+     "title": "金庸武侠小说过时了吗——从网络文学创作看武侠传统延续",
+     "link": "http://www.eeo.com.cn/2026/1010/1059221.shtml",
+     "pubDate": "Sat, 10 Oct 2026 08:39:10 +0800",
+     "summary": "作者：李 强（中央民族大学文学院讲师、北京市文联青年签约评论家） 根据网络小说《将夜》改编的电视剧剧照 近年来，业界有一种悲观论调，...",
+     "source": "经济观察网",
+     "zh": "金庸武侠小说过时了吗——从网络文学创作看武侠传统延续"
     },
     {
      "title": "菲尔兹奖得主陶哲轩等数学家呼吁停止与OpenAI合作",
@@ -2295,14 +2327,6 @@
      "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
      "source": "MarketWatch",
      "zh": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children."
-    },
-    {
-     "title": "一日禅：凡事都往好处想",
-     "link": "http://www.eeo.com.cn/2026/1010/1059200.shtml",
-     "pubDate": "Sat, 10 Oct 2026 08:13:13 +0800",
-     "summary": "图片来源：凤凰网佛教文化 摄影：闫秀勇 聪明的人，凡事都往好处想，以欢喜的心想欢喜的事，自然成就欢喜的人生；愚痴的人，凡事都朝坏处想，愈想愈苦，终成烦恼的人生。...",
-     "source": "经济观察网",
-     "zh": "一日禅：凡事都往好处想"
     },
     {
      "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
@@ -2439,30 +2463,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Integra LifeSciences prices $450M in 9.5% secured notes"
-    },
-    {
-     "title": "Gran Tierra Energy expects $315M cash from $1.33B business sale",
-     "link": "https://seekingalpha.com/news/4651894-gran-tierra-energy-expects-315m-cash-from-133b-business-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 09 Oct 2026 17:35:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gran Tierra Energy expects $315M cash from $1.33B business sale"
-    },
-    {
-     "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
-     "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
-     "pubDate": "Fri, 09 Oct 2026 21:30:00 GMT",
-     "summary": "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
-     "source": "MarketWatch",
-     "zh": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders."
-    },
-    {
-     "title": "“伊赛亚斯”升级为三级飓风，美国墨西哥湾近四分之三原油停产",
-     "link": "https://wallstreetcn.com/articles/3783304",
-     "pubDate": "Sat, 10 Oct 2026 05:26:51 +0800",
-     "summary": "飓风“伊赛亚斯”（Isaias）推高美国墨西哥湾沿岸原油价格。美国海洋矿产管理局（MMA）表示，飓风来袭导致该地区约72%的原油产量暂停。 美国海洋矿产管理局周五表示， 生产商已暂停约146万桶/日的原油产量，占该地区原油总产量的72%。 截至美国东部时间中午12时，已有129座海上平台撤离人员，另有两座动力定位钻井平台驶离风暴路径。 随着飓风逼近，英国石油公司（BP）关闭了Thunder Horse和Na Kika平台的生产，并从Argos、Atlantis和Mad Dog平台撤出非必要人员。 飓风“伊赛亚斯”逼近美国墨西哥湾沿岸时，已增强为三级飓风。 此次风暴扰乱了美国海上原油供应，而伊朗",
-     "source": "华尔街见闻",
-     "zh": "“伊赛亚斯”升级为三级飓风，美国墨西哥湾近四分之三原油停产"
     }
    ]
   },

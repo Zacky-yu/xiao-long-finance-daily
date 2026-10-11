@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 04:31:59",
+ "generated_at": "2026/10/12 04:52:04",
  "recent_days": 7,
  "industries": [
   {
@@ -32,30 +32,6 @@ window.INDUSTRY_DATA = {
      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
      "source": "TechCrunch AI",
      "zh": "These execs think voice AI hasn’t reached its ChatGPT moment yet"
-    },
-    {
-     "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-     "link": "https://www.qbitai.com/2026/10/502644.html",
-     "pubDate": "Sun, 11 Oct 2026 09:04:31 +0000",
-     "summary": "一套生成论文初稿的多智能体工作流",
-     "source": "量子位",
-     "zh": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针"
-    },
-    {
-     "title": "何恺明团队发布多模态Harness框架",
-     "link": "https://www.qbitai.com/2026/10/502628.html",
-     "pubDate": "Sun, 11 Oct 2026 08:59:06 +0000",
-     "summary": "多模态模型的视觉原生Harness，来了！",
-     "source": "量子位",
-     "zh": "何恺明团队发布多模态Harness框架"
-    },
-    {
-     "title": "陶哲轩：数学2.0时代已至！",
-     "link": "https://www.qbitai.com/2026/10/502594.html",
-     "pubDate": "Sun, 11 Oct 2026 07:52:16 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "陶哲轩：数学2.0时代已至！"
     },
     {
      "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
@@ -138,6 +114,14 @@ window.INDUSTRY_DATA = {
      "zh": "EMNLP'26 Oral | 麻省理工：靠访谈让AI模拟真人，这条路能走多远？"
     },
     {
+     "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+     "link": "https://www.qbitai.com/2026/10/502544.html",
+     "pubDate": "Sun, 11 Oct 2026 03:27:08 +0000",
+     "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+     "source": "量子位",
+     "zh": "DeepSeek Bot来了！民间版，DSH装个插件就能用"
+    },
+    {
      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
      "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
      "pubDate": "Sat, 10 Oct 2026 22:02:18 +0000",
@@ -194,6 +178,14 @@ window.INDUSTRY_DATA = {
      "zh": "编程体验接近Opus 5.5？谷歌Gemini 4新版本曝光"
     },
     {
+     "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+     "link": "https://www.qbitai.com/2026/10/502541.html",
+     "pubDate": "Sat, 10 Oct 2026 10:30:36 +0000",
+     "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+     "source": "量子位",
+     "zh": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地"
+    },
+    {
      "title": "从记忆到自进化：Agent 走向 RSI 的关键一步",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062063&idx=1&sn=f91d6b290b4a38685b85a47415870873",
      "pubDate": "Sat, 10 Oct 2026 18:23:00 +0800",
@@ -208,6 +200,14 @@ window.INDUSTRY_DATA = {
      "summary": "与其被动地丢掉工作，不如主动去开一家朝这个方向走的公司。",
      "source": "机器之心",
      "zh": "田渊栋：与GPT-5合写最后一篇论文后，我意识到自己5年内会失业"
+    },
+    {
+     "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+     "link": "https://www.qbitai.com/2026/10/502496.html",
+     "pubDate": "Sat, 10 Oct 2026 09:07:43 +0000",
+     "summary": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
+     "source": "量子位",
+     "zh": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起"
     },
     {
      "title": "2026中国计算机大会定了，12位院士演讲，腾讯阿里百度、小米京东都来了",
@@ -1496,14 +1496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Following its launch in May and a multi-month commissioning period, the joint European Space Agency… The post ESA, CAS release first images from SMILE; officially begin science operations appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "ESA, CAS release first images from SMILE; officially begin science operations"
-    },
-    {
-     "title": "SpaceX scrubs launch attempt for 21 data transport satellites for the Space Development Agency",
-     "link": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/",
-     "pubDate": "Sun, 04 Oct 2026 20:33:26 +0000",
-     "summary": "The Tranche 1 Transporter Layer A mission is the fourth flight supporting the Space Development Agency’s Proliferated Warfighter Space Architecture constellation. The next launch attempt could come as soon as Saturday.",
-     "source": "Spaceflight Now",
-     "zh": "SpaceX scrubs launch attempt for 21 data transport satellites for the Space Development Agency"
     }
    ]
   },
@@ -1730,26 +1722,34 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "Cognitive Decline or Sanity Incline?",
-     "link": "https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline",
-     "pubDate": "Sun, 11 Oct 2026 20:05:03 +0000",
-     "summary": "Article URL: https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline Comments URL: https://news.ycombinator.com/item?id=50047257 Points: 5 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Cognitive Decline or Sanity Incline?"
+     "title": "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted \"super intelligence\", as Silicon Valley falls in line with Trump (Terrence O&apos;Brien/The Verge)",
+     "link": "https://www.techmeme.com/261011/p10#a261011p10",
+     "pubDate": "Sun, 11 Oct 2026 16:45:01 -0400",
+     "summary": "Terrence O'Brien / The Verge : How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted &ldquo;super intelligence&rdquo;, as Silicon Valley falls in line with Trump &nbsp; &mdash;&nbsp; Musk, Benioff, Huang, and now Nadella have all capitulated to Trump's &lsquo;",
+     "source": "Techmeme",
+     "zh": "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted \"super intelligence\", as Silicon Valley falls in line with Trump (Terrence O&apos;Brien/The Verge)"
     },
     {
      "title": "Cartographers of North Korea",
      "link": "https://cartographers-nk.wonyoung.so/",
      "pubDate": "Sun, 11 Oct 2026 19:46:40 +0000",
-     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 30 # Comments: 1",
      "source": "Hacker News",
      "zh": "Cartographers of North Korea"
+    },
+    {
+     "title": "Artificial Insanity",
+     "link": "https://richwhitehouse.com/index.php?postid=78",
+     "pubDate": "Sun, 11 Oct 2026 19:44:45 +0000",
+     "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 14 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Artificial Insanity"
     },
     {
      "title": "Be The Onion's Hero for Once",
      "link": "https://mailchi.mp/email.theonion.com/archivehunt",
      "pubDate": "Sun, 11 Oct 2026 19:43:32 +0000",
-     "summary": "Article URL: https://mailchi.mp/email.theonion.com/archivehunt Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 51 # Comments: 0",
+     "summary": "Article URL: https://mailchi.mp/email.theonion.com/archivehunt Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 95 # Comments: 3",
      "source": "Hacker News",
      "zh": "Be The Onion's Hero for Once"
     },
@@ -1757,7 +1757,7 @@ window.INDUSTRY_DATA = {
      "title": "The Unreasonable Effectiveness of Vex in NixOS",
      "link": "https://blog.kammel.dev/post/nixos_vex/",
      "pubDate": "Sun, 11 Oct 2026 19:23:07 +0000",
-     "summary": "Article URL: https://blog.kammel.dev/post/nixos_vex/ Comments URL: https://news.ycombinator.com/item?id=50046864 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://blog.kammel.dev/post/nixos_vex/ Comments URL: https://news.ycombinator.com/item?id=50046864 Points: 10 # Comments: 0",
      "source": "Hacker News",
      "zh": "The Unreasonable Effectiveness of Vex in NixOS"
     },
@@ -1765,7 +1765,7 @@ window.INDUSTRY_DATA = {
      "title": "Chapter 1 of Ways of Seeing by John Berger",
      "link": "https://www.ways-of-seeing.com/ch1",
      "pubDate": "Sun, 11 Oct 2026 18:26:24 +0000",
-     "summary": "Article URL: https://www.ways-of-seeing.com/ch1 Comments URL: https://news.ycombinator.com/item?id=50046241 Points: 28 # Comments: 0",
+     "summary": "Article URL: https://www.ways-of-seeing.com/ch1 Comments URL: https://news.ycombinator.com/item?id=50046241 Points: 37 # Comments: 4",
      "source": "Hacker News",
      "zh": "Chapter 1 of Ways of Seeing by John Berger"
     },
@@ -1781,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "Total Annihilation, rebuilt for modern computers",
      "link": "https://nanolathe.gg",
      "pubDate": "Sun, 11 Oct 2026 18:04:47 +0000",
-     "summary": "Article URL: https://nanolathe.gg Comments URL: https://news.ycombinator.com/item?id=50045984 Points: 149 # Comments: 69",
+     "summary": "Article URL: https://nanolathe.gg Comments URL: https://news.ycombinator.com/item?id=50045984 Points: 188 # Comments: 83",
      "source": "Hacker News",
      "zh": "Total Annihilation, rebuilt for modern computers"
     },
@@ -1960,14 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "5亿美元“输血”到账，Manus估值实现三级跳。",
      "source": "钛媒体",
      "zh": "Manus恢复“单身”身价再涨，但战场已“大变天”"
-    },
-    {
-     "title": "百万级豪车，刹车踏板不是谁都能踩到的",
-     "link": "https://www.tmtpost.com/8163920.html",
-     "pubDate": "Sun, 11 Oct 2026 21:07:35 +0800",
-     "summary": "向上突破，可以靠创新。站稳脚跟，要靠那些不需要消费者操心的事。",
-     "source": "钛媒体",
-     "zh": "百万级豪车，刹车踏板不是谁都能踩到的"
     }
    ]
   },
@@ -1977,6 +1969,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "New insider tip claims the Samsung Galaxy S27 Ultra will only be available with a Qualcomm chipset",
+     "link": "https://www.gsmarena.com/new_insider_tip_claims_the_samsung_galaxy_s27_ultra_will_only_be_available_with_a_qualcomm_chipset-news-74995.php",
+     "pubDate": "Sun, 11 Oct 2026 22:31:02 +0200",
+     "summary": "This always seems to be a pressing question as pretty much every new Galaxy S family of devices is on the horizon – what chipsets will they use? We already know that the Exynos 2700 is, by early accounts, an excellent chip. The Exynos 2700 will be fabbed on Samsung’s SF2P, a second-generation 2nm Ga",
+     "source": "GSMArena",
+     "zh": "New insider tip claims the Samsung Galaxy S27 Ultra will only be available with a Qualcomm chipset"
+    },
     {
      "title": "Someone ported Pixel 11’s Rambler voice-to-text to other Android phones",
      "link": "https://9to5google.com/2026/10/11/android-gboard-rambler-port/",
@@ -2186,14 +2186,6 @@ window.INDUSTRY_DATA = {
      "zh": "The vivo X Fold6 powers advanced productivity features with India's biggest battery in a foldable"
     },
     {
-     "title": "Weekly poll results: the vivo X Fold6 is hot, but its price can singe your wallet",
-     "link": "https://www.gsmarena.com/weekly_poll_results_the_vivo_x_fold6_is_hot_but_its_price_can_singe_your_wallet-news-74962.php",
-     "pubDate": "Sun, 11 Oct 2026 04:46:02 +0200",
-     "summary": "As if foldables weren’t expensive enough, the skyrocketing costs of memory chips raised their prices even further – and that’s a problem for the vivo X Fold6. Not just for it, of course, the other foldables that it is competing with are in the same boat. Still, even among those who want a foldable p",
-     "source": "GSMArena",
-     "zh": "Weekly poll results: the vivo X Fold6 is hot, but its price can singe your wallet"
-    },
-    {
      "title": "Googlebook improving ‘Better Together’ Android sync features, Samsung support rolling out",
      "link": "https://9to5google.com/2026/10/10/googlebook-android-sync-updates-samsung-support-rolling-out/",
      "pubDate": "Sun, 11 Oct 2026 00:35:00 +0000",
@@ -2225,6 +2217,22 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "消息人士称 亚马逊正洽谈收购人工智能初创公司Decart",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892139593.html",
+     "pubDate": "Mon, 12 Oct 2026 04:29:42 +0800",
+     "summary": "消息人士称， 亚马逊 正洽谈收购 人工智能 初创公司Decart。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "消息人士称 亚马逊正洽谈收购人工智能初创公司Decart"
+    },
+    {
+     "title": "红利基金密集限购稳收益 有资金趁指数走强套现离场",
+     "link": "http://stock.eastmoney.com/news/11215,202610123892137452.html",
+     "pubDate": "Mon, 12 Oct 2026 04:20:58 +0800",
+     "summary": "近期市场持续震荡之下，红利资产再度受到关注。10月以来，红利资产的市场分歧进一步显现。多只红利基金密集公告限制大额申购，与此同时，红利主题ETF持续呈现资金净流出态势。在指数累计上涨的背景下，两类现象并存，反映出产品端对资金流入节奏的主动管理，与二级市场交易层面的获利兑现正在同时发生。红利资产的配置逻辑是否生变，成为市场关注的焦点。 10月9日，富国基金公告，暂停接受单个基金账户对富国恒生港股通红利低波动ETF发起式联接基金单个基金份额日累计金额超过1000万元（不含1000万元）的申购、转换转入及定期定额投资业务申请。 同日，天弘基金也对旗下两只红利基金天弘中证红利低波动100ETF联接、天",
+     "source": "东方财富股票",
+     "zh": "红利基金密集限购稳收益 有资金趁指数走强套现离场"
+    },
     {
      "title": "Justice Department investigates TV networks as White House press-access fight escalates",
      "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
@@ -2330,22 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?"
     },
     {
-     "title": "美以领导人被曝频繁就再袭伊朗进行沟通 但伊朗“不会坐等美国中期选举结果”",
-     "link": "http://finance.eastmoney.com/news/1356,202610123892139321.html",
-     "pubDate": "Mon, 12 Oct 2026 03:24:03 +0800",
-     "summary": "据央视新闻报道，当地时间10月10日，以色列方面有消息称，美国总统特朗普与以色列总理内塔尼亚胡近期“就美以可能再对伊朗发动军事打击一事进行了频繁、紧急沟通”。 根据多名以色列安全机构高级官员的消息，“美以尚未就此作出最终决定，内塔尼亚胡无意在以色列本月底举行议会选举前采取军事行动。”以军内部认为，美方未来倾向于重启对伊朗军事行动。目前，以军正据此为应对一切可能情况作准备。 对此，参考消息网援引美国《华盛顿邮报》网站10月8日的报道称，距离美国中期选举还有不到一个月的时间，伊朗正在霍尔木兹海峡升级袭击行动，使通过该海峡运输的石油大幅减少。 根据联合国和海运追踪公司克普勒公司的数据，伊朗上周在霍尔",
-     "source": "东方财富股票",
-     "zh": "美以领导人被曝频繁就再袭伊朗进行沟通 但伊朗“不会坐等美国中期选举结果”"
-    },
-    {
-     "title": "俄方称打击乌数据中心 俄Yandex数据中心再次遭袭",
-     "link": "http://finance.eastmoney.com/news/1360,202610123892139437.html",
-     "pubDate": "Mon, 12 Oct 2026 03:23:03 +0800",
-     "summary": "据新华社报道，俄罗斯国防部11日在社交媒体发布通报说，俄军10日夜间使用 无人机 对乌克兰 数据中心 、船舶等实施远程打击，并新取得4处居民点的控制权。 通报说，俄军 无人机 击中了乌克兰敖德萨市内一处为乌军处理、传输与存储信息的 数据中心 。 无人机 还击中一艘停靠在敖德萨州切尔诺莫斯克港内的干货船，该船只此前为乌军运送物资。 俄国防部还说，俄北方集团军和中部集团军分别在哈尔科夫州和顿涅茨克地区各取得两处居民点的控制权。 另据央视新闻报道，俄罗斯主要搜索引擎央捷科斯（Yandex）10月11日在社交平台通报，其在弗拉基米尔市一处 数据中心 的基础设施因无人机袭击受损，无人员伤亡。该中心运行已",
-     "source": "东方财富股票",
-     "zh": "俄方称打击乌数据中心 俄Yandex数据中心再次遭袭"
-    },
-    {
      "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
      "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
      "pubDate": "Sun, 11 Oct 2026 18:40:51 GMT",
@@ -2402,6 +2394,14 @@ window.INDUSTRY_DATA = {
      "zh": "From BJ’s to Lululemon, retailers are trimming assortments to boost business"
     },
     {
+     "title": "岂能让消费者替“速成车”补上测试课",
+     "link": "http://www.eeo.com.cn/2026/1012/1061178.shtml",
+     "pubDate": "Mon, 12 Oct 2026 00:52:07 +0800",
+     "summary": "■刘钊 10月10日，工业和信息化部等四部门联合发布通知，提出对未按要求进行测试验证、测试验证不充分或提供虚假验证材料的产品不予公告。中国汽车工业协会也发出倡议，要求补齐研发验证短板。这意味着，针对近年来备受争议的“速成车”现象，车企必须把车辆上市前的安全功课做足。 从应急机械拉手相关召回，到零重力座椅、全隐藏式门把手的安全讨论，消费者对于汽车安全的关注度与日俱增。行业需要正视一个问题：...",
+     "source": "经济观察网",
+     "zh": "岂能让消费者替“速成车”补上测试课"
+    },
+    {
      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
      "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
      "pubDate": "Sun, 11 Oct 2026 16:35:00 GMT",
@@ -2418,6 +2418,30 @@ window.INDUSTRY_DATA = {
      "zh": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike"
     },
     {
+     "title": "财险公司保险产品开发迎新规 附加险管理进一步规范",
+     "link": "http://www.eeo.com.cn/2026/1011/1061171.shtml",
+     "pubDate": "Sun, 11 Oct 2026 23:52:11 +0800",
+     "summary": "据国家金融监督管理总局（以下简称“金融监管总局”）官网10月9日消息，为进一步规范财产保险公司保险产品开发行为，保护投保人、被保险人和受益人合法权益，持续释放强监管信号，提升保险产品供给质效，促进财产保险业高质量发展，近日，金融监管总局修订发布《财产保险公司保险产品开发管理规定》（以下简称《规定》）。 受访专家表示，《规定》的发布引导非车险、责任险等业务回归保障本源，切实保障消费者知情权，将...",
+     "source": "经济观察网",
+     "zh": "财险公司保险产品开发迎新规 附加险管理进一步规范"
+    },
+    {
+     "title": "现房销售正以“确定性”提振楼市信心",
+     "link": "http://www.eeo.com.cn/2026/1011/1061170.shtml",
+     "pubDate": "Sun, 11 Oct 2026 23:52:10 +0800",
+     "summary": "■杜雨萌 近期，北京、上海、广州、武汉相继发布商品房销售制度改革实施细则，与国家层面鼓励现房销售的导向形成呼应。 长期以来，我国商品房销售以预售制为主。这一制度诞生于住房市场化改革的初期，彼时房企普遍体量偏小、筹资渠道有限，难以独立扛起长周期、高投入的项目建设压力，“先收款、后交房”的安排由此成为主流，并在相当长时间里支撑了房地产市场在供应端的快速扩容。然而，当行业告别高速扩张、转入...",
+     "source": "经济观察网",
+     "zh": "现房销售正以“确定性”提振楼市信心"
+    },
+    {
+     "title": "中国物流业景气指数连续5个月处于扩张区间",
+     "link": "http://www.eeo.com.cn/2026/1011/1061169.shtml",
+     "pubDate": "Sun, 11 Oct 2026 23:52:05 +0800",
+     "summary": "10月11日，中国物流与采购联合会发布数据显示，2026年9月，中国物流业景气指数为51.5%，较8月回升0.6个百分点，连续5个月处在扩张区间。 中国物流信息中心主任刘宇航认为，景气指数连续5个月处在扩张区间，业务总量指数、新订单指数环比回升，反映出政策和市场联动效应持续显现，促消费、惠民生政策带动物流需求产生积极变化。同时，物流供需市场环境也在稳步改善，高效绿色智能物流供给加快增长，对物流需求的适配性不断...",
+     "source": "经济观察网",
+     "zh": "中国物流业景气指数连续5个月处于扩张区间"
+    },
+    {
      "title": "Democrats need a foreign policy",
      "link": "https://www.ft.com/content/dddba87c-3ed9-4cb5-8fe2-1b1dcc71da6f?syn-25a6b1a6=1",
      "pubDate": "Sun, 11 Oct 2026 15:13:30 GMT",
@@ -2426,44 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "Democrats need a foreign policy"
     },
     {
-     "title": "特朗普：俄乌双方同意“能源停火”",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892122418.html",
-     "pubDate": "Sun, 11 Oct 2026 22:23:00 +0800",
-     "summary": "美国总统特朗普11日在社交媒体发文称，即刻起，俄乌冲突进入“能源停火”状态，双方均已同意。 （注：“能源停火”核心是俄乌双方暂时停止攻击对方的发电厂、变电站、炼油厂、 天然气 管道等能源设施） （文章来源：央视新闻）",
-     "source": "东方财富资讯",
-     "zh": "特朗普：俄乌双方同意“能源停火”"
-    },
-    {
-     "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
-     "link": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
-     "pubDate": "Sun, 11 Oct 2026 14:08:44 GMT",
-     "summary": "The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.",
-     "source": "CNBC",
-     "zh": "AI’s quiet safety gatekeepers are stepping into the spotlight"
-    },
-    {
-     "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
-     "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 14:00:00 GMT",
-     "summary": "High hopes for third-quarter earnings are outweighing concerns around interest rates and oil prices — but one expert warns markets have gotten “extremely complacent.”",
-     "source": "MarketWatch",
-     "zh": "We’re about to get a huge read on whether earnings can keep propping up the stock market"
-    },
-    {
-     "title": "Houthis show military reach with deadly missile strikes on Riyadh",
-     "link": "https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 13:04:47 GMT",
-     "summary": "Yemen’s Iran-backed militants demonstrate that they are not just ‘guys in flip-flops’",
-     "source": "Financial Times",
-     "zh": "Houthis show military reach with deadly missile strikes on Riyadh"
-    },
-    {
-     "title": "大摩相信：市场低估了宁德时代的韧性！",
-     "link": "https://wallstreetcn.com/articles/3783381",
-     "pubDate": "Sun, 11 Oct 2026 19:18:46 +0800",
-     "summary": "投资者当前对宁德时代的盈利预期或许过于悲观。 据追风交易台消息，10月9日，摩根士丹利研报指出，目前市场焦点过度集中在占宁德时代电动车电池总销量约三分之一的中国乘用车市场。然而，该行强调，中国商用车车队的电动化、欧洲电动车普及率的重新加速，以及除美国外全球其他市场电动车需求的拐点，已经构成了不可忽视的庞大收入敞口。市场低估了宁德时代的跨周期韧性。 分析师Jack Lu和Kaylee Xu在报告中基于全生命周期成本（TCO）分析，宁德时代的技术优势可支撑高达0.24元/瓦时的溢价，远高于当前0.09元/瓦时的实际利润溢价，盈利护城河稳固。 针对部分投资者担忧明年电池净利润可能降至0.08元/瓦时",
-     "source": "华尔街见闻",
-     "zh": "大摩相信：市场低估了宁德时代的韧性！"
+     "title": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山",
+     "link": "http://www.eeo.com.cn/2026/1011/1061158.shtml",
+     "pubDate": "Sun, 11 Oct 2026 22:52:20 +0800",
+     "summary": "第1眼TV-华龙网讯（首席记者 陈美西）10月11日晚，中超联赛休赛一个月后战火重燃，重庆铜梁龙坐镇龙兴足球场迎战传统劲旅山东泰山。经过90分钟激战，双方1:1握手言和。这也是重庆铜梁龙本赛季在龙兴主场的收官之战。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/012F11DED5D02A6A5E973877FD2938C0.jpg\" alt=\"重庆铜梁龙首发阵容。\" width=\"1024\" height=\"683\" data-title=\"重庆铜梁龙首发...",
+     "source": "经济观察网",
+     "zh": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山"
     }
    ]
   },

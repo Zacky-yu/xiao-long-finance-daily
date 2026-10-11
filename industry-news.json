@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/12 04:52:04",
+ "generated_at": "2026/10/12 05:12:00",
  "recent_days": 7,
  "industries": [
   {
@@ -657,6 +657,14 @@
    "total": 5,
    "items": [
     {
+     "title": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
+     "link": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/",
+     "pubDate": "Sun, 11 Oct 2026 21:08:45 +0000",
+     "summary": "Citroën has unveiled a concept electric version of its classic 2CV, aiming to bring the vehicle to market in 2028 for just €15,000. more…",
+     "source": "Electrek",
+     "zh": "The legendary Citroen 2CV is back as a €15k electric concept for 2028"
+    },
+    {
      "title": "Survey Sunday: Electrek readers find the silver lining in high fuel prices",
      "link": "https://electrek.co/2026/10/11/survey-sunday-electrek-readers-find-the-silver-lining-in-high-fuel-prices/",
      "pubDate": "Sun, 11 Oct 2026 19:38:37 +0000",
@@ -775,14 +783,6 @@
      "summary": "The Chevy Bolt and Nissan Leaf failed to take off in a more difficult market for EVs. Can Kia's $30,000 crossover buck the trend?",
      "source": "InsideEVs",
      "zh": "Kia Expects The Affordable EV3 To Be Its Best-Selling EV In The U.S."
-    },
-    {
-     "title": "Battery swap works: Nio completes 1.2 million swaps in a SINGLE WEEK",
-     "link": "https://electrek.co/2026/10/10/battery-swap-works-nio-completes-1-2-million-swaps-in-a-single-week/",
-     "pubDate": "Sat, 10 Oct 2026 11:44:31 +0000",
-     "summary": "While oil prices and range anxiety dominate Western EV headlines, Nio’s battery-swap system in China keeps reaching new milestones that prove the technology can rival a traditional refueling infrastructure at scale, performing 1.2 million battery swaps over the holiday. more…",
-     "source": "Electrek",
-     "zh": "Battery swap works: Nio completes 1.2 million swaps in a SINGLE WEEK"
     },
     {
      "title": "Xpeng completes G9L trial production in Austria ahead of Paris global premiere",
@@ -1105,6 +1105,14 @@
    "total": 7,
    "items": [
     {
+     "title": "AstraZeneca blames trial design for Phase 3 failure of bone disease drug",
+     "link": "https://endpoints.news/astrazeneca-blames-trial-design-for-phase-3-failure-of-bone-disease-drug/",
+     "pubDate": "Sun, 11 Oct 2026 21:00:05 +0000",
+     "summary": "New details from AstraZeneca's failed Phase 3 trial of its enzyme replacement therapy for a genetic bone disease suggest the test missed its goals because of how the trial was composed, as the drugmaker seeks ...",
+     "source": "Endpoints News",
+     "zh": "AstraZeneca blames trial design for Phase 3 failure of bone disease drug"
+    },
+    {
      "title": "Americans trust science more than peers around the world, survey shows",
      "link": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
      "pubDate": "Sat, 10 Oct 2026 23:01:00 +0000",
@@ -1239,14 +1247,6 @@
      "summary": "The latest installment in BioPharma Dive&rsquo;s data visualization series features a look at the factors pressuring biotech stocks of late and the frenetic pace of startup buyouts this year.&nbsp;",
      "source": "BioPharma Dive",
      "zh": "This week in charts: What’s driving biotech’s recent pullback?"
-    },
-    {
-     "title": "City Therapeutics targets $158M IPO; Iambic seeks $135M Nasdaq debut",
-     "link": "https://endpoints.news/city-therapeutics-targets-158m-ipo-iambic-seeks-135m-nasdaq-debut/",
-     "pubDate": "Fri, 09 Oct 2026 14:15:32 +0000",
-     "summary": "Plus news about Alchemist Capital, Newron Pharmaceuticals, Life Biosciences, Onyx Bio and Tecentriq. City Therapeutics charts $158M IPO: The RNAi startup from former Alnylam executives is looking to sell 9.72 million shares at $17 to ...",
-     "source": "Endpoints News",
-     "zh": "City Therapeutics targets $158M IPO; Iambic seeks $135M Nasdaq debut"
     },
     {
      "title": "TRex Bio prices $117M IPO to support immune drug work",
@@ -1721,6 +1721,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+     "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+     "pubDate": "Sun, 11 Oct 2026 20:51:47 +0000",
+     "summary": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+     "source": "TechCrunch",
+     "zh": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start"
+    },
+    {
      "title": "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted \"super intelligence\", as Silicon Valley falls in line with Trump (Terrence O&apos;Brien/The Verge)",
      "link": "https://www.techmeme.com/261011/p10#a261011p10",
      "pubDate": "Sun, 11 Oct 2026 16:45:01 -0400",
@@ -1732,7 +1740,7 @@
      "title": "Cartographers of North Korea",
      "link": "https://cartographers-nk.wonyoung.so/",
      "pubDate": "Sun, 11 Oct 2026 19:46:40 +0000",
-     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 30 # Comments: 1",
+     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 45 # Comments: 4",
      "source": "Hacker News",
      "zh": "Cartographers of North Korea"
     },
@@ -1740,7 +1748,7 @@
      "title": "Artificial Insanity",
      "link": "https://richwhitehouse.com/index.php?postid=78",
      "pubDate": "Sun, 11 Oct 2026 19:44:45 +0000",
-     "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 14 # Comments: 2",
+     "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 20 # Comments: 10",
      "source": "Hacker News",
      "zh": "Artificial Insanity"
     },
@@ -1748,7 +1756,7 @@
      "title": "Be The Onion's Hero for Once",
      "link": "https://mailchi.mp/email.theonion.com/archivehunt",
      "pubDate": "Sun, 11 Oct 2026 19:43:32 +0000",
-     "summary": "Article URL: https://mailchi.mp/email.theonion.com/archivehunt Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 95 # Comments: 3",
+     "summary": "Article URL: https://mailchi.mp/email.theonion.com/archivehunt Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 114 # Comments: 5",
      "source": "Hacker News",
      "zh": "Be The Onion's Hero for Once"
     },
@@ -1756,7 +1764,7 @@
      "title": "The Unreasonable Effectiveness of Vex in NixOS",
      "link": "https://blog.kammel.dev/post/nixos_vex/",
      "pubDate": "Sun, 11 Oct 2026 19:23:07 +0000",
-     "summary": "Article URL: https://blog.kammel.dev/post/nixos_vex/ Comments URL: https://news.ycombinator.com/item?id=50046864 Points: 10 # Comments: 0",
+     "summary": "Article URL: https://blog.kammel.dev/post/nixos_vex/ Comments URL: https://news.ycombinator.com/item?id=50046864 Points: 14 # Comments: 0",
      "source": "Hacker News",
      "zh": "The Unreasonable Effectiveness of Vex in NixOS"
     },
@@ -1764,7 +1772,7 @@
      "title": "Chapter 1 of Ways of Seeing by John Berger",
      "link": "https://www.ways-of-seeing.com/ch1",
      "pubDate": "Sun, 11 Oct 2026 18:26:24 +0000",
-     "summary": "Article URL: https://www.ways-of-seeing.com/ch1 Comments URL: https://news.ycombinator.com/item?id=50046241 Points: 37 # Comments: 4",
+     "summary": "Article URL: https://www.ways-of-seeing.com/ch1 Comments URL: https://news.ycombinator.com/item?id=50046241 Points: 43 # Comments: 6",
      "source": "Hacker News",
      "zh": "Chapter 1 of Ways of Seeing by John Berger"
     },
@@ -1780,7 +1788,7 @@
      "title": "Total Annihilation, rebuilt for modern computers",
      "link": "https://nanolathe.gg",
      "pubDate": "Sun, 11 Oct 2026 18:04:47 +0000",
-     "summary": "Article URL: https://nanolathe.gg Comments URL: https://news.ycombinator.com/item?id=50045984 Points: 188 # Comments: 83",
+     "summary": "Article URL: https://nanolathe.gg Comments URL: https://news.ycombinator.com/item?id=50045984 Points: 210 # Comments: 86",
      "source": "Hacker News",
      "zh": "Total Annihilation, rebuilt for modern computers"
     },
@@ -1895,14 +1903,6 @@
      "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天在新一期《Power On》通讯透露，苹果正在为其首款折叠屏手机 iPhone Duo 谋划声势浩大的展示活动， 让每一位潜在顾客都能充分体验这款新品 。 古尔曼表示，苹果将在美国各地的 Apple Store 直营店摆出大量样机，供到来的顾客上手体验。 预计纽约第五大道的旗舰店将布置超 150 台体验机 ，分布在上手区和展示设施中。苹果总部 Apple Park 游客中心预计将展出 100 台 iPhone Duo。 同时，芝加哥密歇根大街、洛杉矶葛洛夫购物中心和曼哈顿上西城的 Apple Store 预计将提供 30-40 台",
      "source": "IT之家",
      "zh": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机"
-    },
-    {
-     "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-     "link": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
-     "pubDate": "Sun, 11 Oct 2026 15:00:00 +0000",
-     "summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
-     "source": "TechCrunch",
-     "zh": "Efferon wants to eradicate the devastating toll of pediatric sepsis"
     },
     {
      "title": "消息称荣耀 WIN Pad 平板搭载 8.4 英寸 240Hz OLED 屏，本月发布",
@@ -2217,6 +2217,14 @@
    "total": 13,
    "items": [
     {
+     "title": "从试水到深耕：内地公募香港子公司步入收获期",
+     "link": "http://hk.eastmoney.com/news/1556,202610123892136341.html",
+     "pubDate": "Mon, 12 Oct 2026 04:47:38 +0800",
+     "summary": "近年来，内地公募赴港布局迎来收获期。伴随港交所ETF发行热度升温，中资公募香港子公司已成为离岸指数工具供给的中坚力量；互联互通相关规则红利进一步打开产品创新空间，一大批新型ETF接连落地。乘着制度东风，内地公募借助ETF实现海外资管版图持续扩张，离岸业务正成长为公募行业不可忽视的“第二增长曲线”。 ETF密集上新内地公募成香港资管新力量 今年以来，香港ETF市场创新扩容势头强劲，新品上市节奏持续加快，内地公募基金的香港子公司已成为港交所ETF扩容的绝对主力。根据产品发行数据，今年前三季度，港交所新上市ETF产品共计51只，其中超六成产品由境内公募香港子公司发行。南方东英、广发国际、华夏基金(香",
+     "source": "东方财富股票",
+     "zh": "从试水到深耕：内地公募香港子公司步入收获期"
+    },
+    {
      "title": "消息人士称 亚马逊正洽谈收购人工智能初创公司Decart",
      "link": "http://finance.eastmoney.com/news/1354,202610123892139593.html",
      "pubDate": "Mon, 12 Oct 2026 04:29:42 +0800",
@@ -2313,14 +2321,6 @@
      "zh": "Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine; Zelenskyy is waiting for details"
     },
     {
-     "title": "英国：反对美俄柴油协议 力挺泽连斯基",
-     "link": "http://finance.eastmoney.com/news/1356,202610123892139230.html",
-     "pubDate": "Mon, 12 Oct 2026 03:33:02 +0800",
-     "summary": "据新华社报道，据英国首相府10日发表的声明，英国首相伯纳姆当天与乌克兰总统泽连斯基通电话，重申他完全支持乌克兰。此前，泽连斯基与美国总统特朗普就一项涉及俄罗斯柴油的协议发生争执。 伯纳姆在通话中说，过去24小时对乌克兰而言十分艰难。英国将在本周宣布的对俄罗斯新制裁措施基础上，继续加强对俄制裁。 声明还说，两国领导人同意在未来几天举行面对面会晤，继续进行讨论。 美国财政部外国资产控制办公室9日发布公告说，在未来几个月放松针对俄罗斯柴油贸易的制裁，以缓解美国内柴油供应紧张、平抑油价。特朗普同日宣布，美俄领导人就俄向美国及全球市场提供柴油达成一致。泽连斯基随后表示，允许俄罗斯出售石油产品“就是在投资",
-     "source": "东方财富股票",
-     "zh": "英国：反对美俄柴油协议 力挺泽连斯基"
-    },
-    {
      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
      "pubDate": "Sun, 11 Oct 2026 19:32:00 GMT",
@@ -2351,6 +2351,14 @@
      "summary": "UK prime minister calls for European voters to be better informed about Kremlin-backed efforts to disrupt democratic process",
      "source": "Financial Times",
      "zh": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham"
+    },
+    {
+     "title": "证监会召开资本市场和金融形势专家座谈会",
+     "link": "http://stock.eastmoney.com/news/11215,202610123892133510.html",
+     "pubDate": "Mon, 12 Oct 2026 01:53:08 +0800",
+     "summary": "证监会召开资本市场和金融形势专家座谈会 与会专家建议：进一步拓宽中长期资金来源、渠道和入市方式 与会专家建议：推动有条件的上市公司加大分红回购力度，完善投资者回报和权益保护机制；优化发行上市制度，支持不同类型、不同行业、多元化的优质企业发展壮大；强化交易监管，加强跨境风险监测应对；研究储备更多增量政策工具 10月10日，中国证监会党委书记、主席吴清在北京召开座谈会，与部分上市公司负责人、证券基金机构专家深入交流，就当前资本市场和金融形势充分听取意见建议。 座谈会上，大家一致认为，我国宏观经济稳中向好，产业结构转型持续深化，资本市场运行总体稳健，多层次市场功能有效发挥，虽然面临一些风险挑战，但高",
+     "source": "东方财富资讯",
+     "zh": "证监会召开资本市场和金融形势专家座谈会"
     },
     {
      "title": "‘Other Mommy’ tops weekend box office with $27M, domestic ticket sales cross $8B",
@@ -2409,6 +2417,14 @@
      "zh": "Millions of Americans will have fewer options during Medicare open enrollment this year"
     },
     {
+     "title": "十大券商策略：市场积极信号逐渐累积 把握好四季度做多窗口期",
+     "link": "http://finance.eastmoney.com/news/1378,202610113892124764.html",
+     "pubDate": "Mon, 12 Oct 2026 00:34:37 +0800",
+     "summary": "中信证券 ：应对全球高利率常态，密切跟踪AI投资周期拐点 油价回稳、非农数据低于预期、美联储加息预期下修，均未改变全球长债利率走高。背后的原因是持续强劲的私人部门投融资需求，在万亿美元投资带动下，北美率先走出了金融危机后低增 长和 低利率的“非常态”，全球高利率环境，在AI投资周期拐点前，是我们必须应对的常态。对海外高利率不敏感的需求只有北美AI以及与中国中央财政扩张相关的领域，而过去几年持股体验极佳的出海、资源板块都存在压力。在弱需求环境下，凸显出供给出清品种的稀缺性，反内卷进程明年依然值得重视。 配置策略上，围绕北美AI、中国“六张网”建设以及反内卷驱动的供给出清品种展开，AI+能化结构在",
+     "source": "东方财富资讯",
+     "zh": "十大券商策略：市场积极信号逐渐累积 把握好四季度做多窗口期"
+    },
+    {
      "title": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
      "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
      "pubDate": "Sun, 11 Oct 2026 16:29:55 GMT",
@@ -2439,22 +2455,6 @@
      "summary": "10月11日，中国物流与采购联合会发布数据显示，2026年9月，中国物流业景气指数为51.5%，较8月回升0.6个百分点，连续5个月处在扩张区间。 中国物流信息中心主任刘宇航认为，景气指数连续5个月处在扩张区间，业务总量指数、新订单指数环比回升，反映出政策和市场联动效应持续显现，促消费、惠民生政策带动物流需求产生积极变化。同时，物流供需市场环境也在稳步改善，高效绿色智能物流供给加快增长，对物流需求的适配性不断...",
      "source": "经济观察网",
      "zh": "中国物流业景气指数连续5个月处于扩张区间"
-    },
-    {
-     "title": "Democrats need a foreign policy",
-     "link": "https://www.ft.com/content/dddba87c-3ed9-4cb5-8fe2-1b1dcc71da6f?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 15:13:30 GMT",
-     "summary": "Trump’s approach to the world has left Republicans floundering as the midterms approach. Liberals should plan their own strategy now",
-     "source": "Financial Times",
-     "zh": "Democrats need a foreign policy"
-    },
-    {
-     "title": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山",
-     "link": "http://www.eeo.com.cn/2026/1011/1061158.shtml",
-     "pubDate": "Sun, 11 Oct 2026 22:52:20 +0800",
-     "summary": "第1眼TV-华龙网讯（首席记者 陈美西）10月11日晚，中超联赛休赛一个月后战火重燃，重庆铜梁龙坐镇龙兴足球场迎战传统劲旅山东泰山。经过90分钟激战，双方1:1握手言和。这也是重庆铜梁龙本赛季在龙兴主场的收官之战。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/012F11DED5D02A6A5E973877FD2938C0.jpg\" alt=\"重庆铜梁龙首发阵容。\" width=\"1024\" height=\"683\" data-title=\"重庆铜梁龙首发...",
-     "source": "经济观察网",
-     "zh": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山"
     }
    ]
   },

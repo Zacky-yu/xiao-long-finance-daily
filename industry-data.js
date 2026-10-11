@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 17:14:54",
+ "generated_at": "2026/10/11 17:18:53",
  "recent_days": 7,
  "industries": [
   {
@@ -314,6 +314,14 @@ window.INDUSTRY_DATA = {
      "zh": "Hyper-NA EUV: The Next Frontier in Chipmaking Could Arrive in 2036"
     },
     {
+     "title": "Jury still out in Qualcomm vs Arm case",
+     "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
+     "pubDate": "Sat, 10 Oct 2026 07:20:41 +0000",
+     "summary": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Jury still out in Qualcomm vs Arm case"
+    },
+    {
      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
      "pubDate": "Fri, 09 Oct 2026 22:00:00 +0000",
@@ -338,12 +346,36 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
+     "title": "Defence satcom revenues to surpass $23bn by 2035",
+     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
+     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "Defence satcom revenues to surpass $23bn by 2035"
+    },
+    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
+    },
+    {
+     "title": "Axiom Space highlights space computing progress",
+     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
+     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
+     "source": "Electronics Weekly",
+     "zh": "Axiom Space highlights space computing progress"
+    },
+    {
+     "title": "The Single-Chip PC",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
+     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -360,6 +392,22 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
+    },
+    {
+     "title": "Failure analysis in the era of 3D integration",
+     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
+     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Failure analysis in the era of 3D integration"
+    },
+    {
+     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
+     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
+     "source": "Electronics Weekly",
+     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
-    },
-    {
-     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
-     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
-     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
-     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
-    },
-    {
-     "title": "Shift Left Complicates Fab Data Management",
-     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
-     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Shift Left Complicates Fab Data Management"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
-    },
-    {
-     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
-     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
-     "source": "Semiconductor Today",
-     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
-    },
-    {
-     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
-     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
-    },
-    {
-     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
-     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
-     "source": "Semiconductor Today",
-     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -1722,6 +1722,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "宝马 BMW M 新世代概念车中国首秀，迈向纯电高性能时代",
+     "link": "https://www.ithome.com/1/011/641.htm",
+     "pubDate": "Sun, 11 Oct 2026 09:14:04 GMT",
+     "summary": "IT之家 10 月 11 日消息，今日，宝马 BMW M 新世代概念车在“2026 BMW M 热血嘉年华”迎来中国首秀。 宝马集团大中华区总裁兼首席执行官 柯睿辰 表示：“随着宝马迈入新世代，BMW M 也正在开启属于自己的新篇章。数十年来，BMW M 不断突破创新边界，持续定义极致驾驶体验，并以卓越性能、鲜明个性和独特情感价值，吸引并激励着一代又一代驾驶爱好者。BMW M 新世代概念车的中国首秀，不仅是 BMW M 品牌历程中的又一重要里程碑，更展现了未来科技如何将驾驶乐趣提升至全新高度。” BMW M 新世代概念车搭载专为未来纯电高性能车型开发的 BMW M eDrive 高性能电驱系统",
+     "source": "IT之家",
+     "zh": "宝马 BMW M 新世代概念车中国首秀，迈向纯电高性能时代"
+    },
+    {
+     "title": "梁其伟确认《影之刃零》游戏至少包含 50 个 Boss、30 种主武器和 20 种副武器",
+     "link": "https://www.ithome.com/1/011/640.htm",
+     "pubDate": "Sun, 11 Oct 2026 09:13:27 GMT",
+     "summary": "IT之家 10 月 11 日消息，灵游坊创始人兼 CEO 梁其伟近日接受外媒 4Gamer 采访时确认，《影之刃零》游戏将至少包含 50 个 Boss、30 种主武器和 20 种副武器，随着玩家不断深入探索，遇到的敌人会越来越丰富。 据报道，《影之刃零》预告片展示了快节奏的爽快战斗。实际游玩中，玩家需要花费大量时间探索地图、支线剧情，所有武器都可以通过击败 Boss 获得。 梁其伟谈到游戏中的敌人时表示：“游戏整体风格的统一性来自‘功夫朋克’设定。正如你们今天体验到的那样，我们既有大型敌人，也有小型敌人，还有使用盾牌的敌人以及骑马敌人。 不过每一种敌人都以中国传统武术为基础 ， 融入了我们独有",
+     "source": "IT之家",
+     "zh": "梁其伟确认《影之刃零》游戏至少包含 50 个 Boss、30 种主武器和 20 种副武器"
+    },
+    {
      "title": "理想汽车欧洲战略发布会官宣明晚举行，理想 i6 将亮相法国巴黎",
      "link": "https://www.ithome.com/1/011/639.htm",
      "pubDate": "Sun, 11 Oct 2026 09:01:12 GMT",
@@ -1760,22 +1776,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 11 日消息，索尼前天宣布推出 ECM-AX10， 这是全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风 ，可在拍摄视频时同步录制空间音频。 据介绍，这款产品具备 Eclipsa Audio 认证，可以直接安装在智能手机上使用。无论是拍摄 Vlog、旅行记录、演唱会，还是观看体育赛事，它都能将视觉难以传达的现场氛围和临场感声音，以空间音频形式记录下来。 同时，该产品搭载 4 个全指向性麦克风，能够采集整个空间声学信息，可根据使用环境选择多种录音格式。 其专用 App Spatial Audio Video Tool 计划支持 iOS 和 Android ",
      "source": "IT之家",
      "zh": "全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风：索尼推出 ECM-AX10"
-    },
-    {
-     "title": "一加 16 全新游戏助手公布：射击显示增强、自研游戏相机等",
-     "link": "https://www.ithome.com/1/011/635.htm",
-     "pubDate": "Sun, 11 Oct 2026 08:43:13 GMT",
-     "summary": "IT之家 10 月 11 日消息，一加 16 新品发布会将于 10 月 12 日 19:00 举行，带来全新游戏助手，支持射击显示增强、游戏语音降噪、全新游戏光效、自研游戏相机。 据IT之家此前报道， 一加 16 手机首批搭载第六代骁龙 8 超级至尊版 ，搭配全新一代风驰游戏内核，出厂即写入芯片底层。 一加 16 手机搭载与京东方联合研发的 185Hz 第四代东方屏 ，采用全新 X4 发光材料，日常使用支持全局 165Hz 超高刷，采用 1.15mm 极窄四等边屏幕。 配置汇总如下： 6.78 英寸 1.5K+185Hz BOE X4 直屏，支持 165Hz 全局超高刷，1.15mm LIPO",
-     "source": "IT之家",
-     "zh": "一加 16 全新游戏助手公布：射击显示增强、自研游戏相机等"
-    },
-    {
-     "title": "小米 REDMI 显示器 A27U 2027 款发售：27 英寸 4K 75Hz，1199 元",
-     "link": "https://www.ithome.com/1/011/633.htm",
-     "pubDate": "Sun, 11 Oct 2026 08:39:38 GMT",
-     "summary": "IT之家 10 月 11 日消息，小米 REDMI 显示器 A27U 2027 款现已在京东上架，该机主打 4K 75Hz， 定价为 1199 元 。 京东 小米 REDMI 显示器 A27U 2027 款 1199 元 直达链接 该机配备一块 3840x2160 分辨率 75Hz IPS 面板，显示器亮度 400 尼特，响应速度 6ms，对比度 1500:1，对比度 1500:1，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 99% DCI-P3 色域。 该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 75x75mm 壁挂，提供 2 个 HDMI 2.0、2",
-     "source": "IT之家",
-     "zh": "小米 REDMI 显示器 A27U 2027 款发售：27 英寸 4K 75Hz，1199 元"
     },
     {
      "title": "科技商学院该看懂的科学家创业：技术很强，为什么公司还是显得“乱”？",
@@ -2218,6 +2218,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "全球经济的“风暴眼”：发达国家“债务危机”",
+     "link": "https://wallstreetcn.com/articles/3783373",
+     "pubDate": "Sun, 11 Oct 2026 17:15:00 +0800",
+     "summary": "发达国家正从全球金融体系的稳定锚，转变为新的风险源。在能源价格飙升、利率持续走高的背景下，美国、欧洲和日本的债务可持续性问题日益突出。曾被视为全球金融市场安全底座的发达经济体，如今自身的财政状况正成为投资者无法忽视的隐忧。 国际货币基金组织（IMF）总裁Kristalina Georgieva近日发出警告， 称发达经济体已成为债务问题上最严重的违规者。随着政府偿债利息不断攀升，财政空间被进一步挤压，各国为民众提供生活成本支持的能力也将受到限制 。 “我们应该为人们变得更加不满做好准备，”她表示，“也许会走上街头。”这番表态正值IMF与世界银行年会召开前夕，会议举办地泰国曾是近三十年前亚洲金融危",
+     "source": "华尔街见闻",
+     "zh": "全球经济的“风暴眼”：发达国家“债务危机”"
+    },
+    {
      "title": "领个红包“顺手”开了户？券商与平台合作获客，合规边界待厘清",
      "link": "http://www.eeo.com.cn/2026/1011/1060909.shtml",
      "pubDate": "Sun, 11 Oct 2026 16:26:08 +0800",
@@ -2306,12 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "韩国散户三季度“脱韩入美”：抛售韩股逾5.5万亿韩元，买入美股超10万亿韩元"
     },
     {
-     "title": "高盛讨论会：AI交易从硬件转向应用，市场迫切渴望“下一个AI故事”",
-     "link": "https://wallstreetcn.com/articles/3783363",
-     "pubDate": "Sun, 11 Oct 2026 13:50:10 +0800",
-     "summary": "AI投资叙事正在悄然换挡——从芯片军备竞赛，到\"推理经济\"和个人智能体， 高盛认为市场已经四年磨一剑，开始迫不及待地向前看。 高盛近期录制的《宏观对话》（The Macro Call）播客节目中，首席美股策略师Ben Schneider与TMT板块专家Pete Callahan围绕AI交易结构演变、市场广度、Q3财报季看点及年底行情展开深度讨论。 节目中，两位高盛人士均指出，当前股市在利率高企背景下展现出的韧性， 核心支撑来自以大型科技股为代表的盈利强劲——而AI主题本身，也正在经历一次深刻的\"叙事迁移\"。 AI交易\"上移\"：从卖铲子到卖水 Pete Callahan直接点出了当前市场的核心逻",
-     "source": "华尔街见闻",
-     "zh": "高盛讨论会：AI交易从硬件转向应用，市场迫切渴望“下一个AI故事”"
+     "title": "周末要闻汇总：中共中央、国务院印发《关于发展新质生产力的意见》",
+     "link": "http://finance.eastmoney.com/news/1345,202610113892043722.html",
+     "pubDate": "Sun, 11 Oct 2026 14:00:17 +0800",
+     "summary": "本周末影响市场的重要资讯有：中共中央、国务院印发《关于发展新质生产力的意见》；中欧贸易投资磋商机制发布第二次例会联合声明，达成16项成果共识；中国证监会召开资本市场和金融形势专家座谈会；时隔12年，公募基金运作办法修订，多举措支持逆周期布局；财政部安排使用5500亿元地方政府债务结存限额；加强 汽车 产品创新设计等方面管理，四部门征求意见；沙特首都利雅得 机场 遭袭致12死309伤，美或将介入打击行动。 宏观经济 中共中央、国务院印发《关于发展新质生产力的意见》 《意见》统筹发展和安全，以科技创新为引领，以全要素生产率大幅提升为核心标志，推动技术革命性突破、生产要素创新性配置、产业深度转型升级",
+     "source": "东方财富资讯",
+     "zh": "周末要闻汇总：中共中央、国务院印发《关于发展新质生产力的意见》"
     },
     {
      "title": "US hits commercial tanker in Gulf of Oman as tensions flare",

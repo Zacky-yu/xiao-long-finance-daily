@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/12 01:49:55",
+ "generated_at": "2026/10/12 02:10:11",
  "recent_days": 7,
  "industries": [
   {
@@ -718,7 +718,7 @@
      "pubDate": "Sun, 11 Oct 2026 01:17:40 +0000",
      "summary": "Aito will continue using CATL batteries across its lineup, with total annual capacity set to exceed 20 GWh after a joint project is completed. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "CATL与Seres签署长期战略协议，扩大Aito电池产能"
+     "zh": "CATL与Seres签署长期战略协议扩大Aito电池产能"
     },
     {
      "title": "Geely Galaxy launches Cruiser 700 to take on BYD, GWM in off-road SUV market",
@@ -726,7 +726,7 @@
      "pubDate": "Sat, 10 Oct 2026 14:07:06 +0000",
      "summary": "The limited-time price of the Cruiser 700, including a trade-in subsidy, is 169,800 yuan ($25,220), and firm orders exceeded 10,000 units within the first 12 minutes. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "吉利银河推出漫步者700 与比亚迪、长城汽车争夺越野SUV市场"
+     "zh": "吉利银河推出漫步者700 挑战比亚迪、长城 越野SUV市场"
     },
     {
      "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
@@ -878,7 +878,7 @@
      "pubDate": "Sat, 10 Oct 2026 18:00:00 -0500",
      "summary": "The cost of shipping crude oil soared to record highs last month as the Iran war reshuffled trade routes and patterns and tied up more tankers in inefficient and lengthy voyages. Supertanker rates soared in September to above $1 million per day on the Persian Gulf to China route—a record high. The S",
      "source": "OilPrice",
-     "zh": "随着石油危机演变成航运危机，油轮运价飙升至创纪录水平"
+     "zh": "石油危机演变成航运危机，油轮运价飙升至创纪录水平"
     },
     {
      "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
@@ -961,12 +961,12 @@
      "zh": "清洁能源超级政治行动委员会确定大选目标名单"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie、LS Power 获得 PJM 快速互联批准 2.1 吉瓦"
+     "zh": "PJM 批准 Engie、LS Power 的 2.1 GW 快速互连"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -980,7 +980,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "第三季度美国电力、天然气公用事业费率请求飙升至 $4.5B：PowerLines"
     },
@@ -1134,7 +1134,7 @@
      "pubDate": "Fri, 09 Oct 2026 21:03:52 +0000",
      "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
      "source": "STAT News",
-     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥重要作用"
+     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥首要作用"
     },
     {
      "title": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
@@ -1382,7 +1382,7 @@
      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
      "summary": "Seattle-based Kapta Space announced a $24M Series A to build next-gen radar payloads designed to track moving targets. The post Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：Kapta Space 筹集了 2400 万美元的 A 轮融资，用于构建移动目标雷达有效载荷"
+     "zh": "独家：Kapta Space A 轮融资 2400 万美元，用于构建移动目标雷达有效载荷"
     },
     {
      "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
@@ -1729,6 +1729,22 @@
    "total": 18,
    "items": [
     {
+     "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+     "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+     "pubDate": "Sun, 11 Oct 2026 17:53:37 +0000",
+     "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
+     "source": "TechCrunch",
+     "zh": "TechCrunch Disrupt 2026 投资者指南：您需要了解的一切"
+    },
+    {
+     "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit",
+     "link": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
+     "pubDate": "Sun, 11 Oct 2026 17:40:42 +0000",
+     "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns Comments URL: https://news.ycombinator.com/item?id=50045735 Points: 8 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "YouTuber 制作“类似羊群”的摄像头来追踪警车，吸引警察上门"
+    },
+    {
      "title": "苹果终于要给MacBook加触屏了，这次为什么不一样？",
      "link": "https://www.huxiu.com/article/4896654.html?f=rss",
      "pubDate": "Mon, 12 Oct 2026 01:40:17 +0800",
@@ -1745,14 +1761,6 @@
      "zh": "华为“造车”，不能只有掌声"
     },
     {
-     "title": "Why we're watching these climate tech companies",
-     "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-     "pubDate": "Sun, 11 Oct 2026 17:18:21 +0000",
-     "summary": "Article URL: https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/ Comments URL: https://news.ycombinator.com/item?id=50045480 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "为什么我们关注这些气候科技公司"
-    },
-    {
      "title": "足球经济学：英超需要什么样的规则",
      "link": "https://www.huxiu.com/article/4896652.html?f=rss",
      "pubDate": "Mon, 12 Oct 2026 01:16:37 +0800",
@@ -1764,7 +1772,7 @@
      "title": "apsw: Another Python SQLite Wrapper",
      "link": "https://github.com/rogerbinns/apsw",
      "pubDate": "Sun, 11 Oct 2026 16:58:22 +0000",
-     "summary": "Article URL: https://github.com/rogerbinns/apsw Comments URL: https://news.ycombinator.com/item?id=50045273 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://github.com/rogerbinns/apsw Comments URL: https://news.ycombinator.com/item?id=50045273 Points: 7 # Comments: 1",
      "source": "Hacker News",
      "zh": "apsw：另一个 Python SQLite 包装器"
     },
@@ -1804,7 +1812,7 @@
      "title": "How to Build Wealth as a Career Person",
      "link": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
      "pubDate": "Sun, 11 Oct 2026 16:03:58 +0000",
-     "summary": "Article URL: https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/ Comments URL: https://news.ycombinator.com/item?id=50044715 Points: 12 # Comments: 3",
+     "summary": "Article URL: https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/ Comments URL: https://news.ycombinator.com/item?id=50044715 Points: 16 # Comments: 7",
      "source": "Hacker News",
      "zh": "作为职业人士如何积累财富"
     },
@@ -1828,7 +1836,7 @@
      "title": "How I reverse engineered a commercial spatial audio effect",
      "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
      "pubDate": "Sun, 11 Oct 2026 15:21:58 +0000",
-     "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/ Comments URL: https://news.ycombinator.com/item?id=50044272 Points: 26 # Comments: 9",
+     "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/ Comments URL: https://news.ycombinator.com/item?id=50044272 Points: 30 # Comments: 10",
      "source": "Hacker News",
      "zh": "我如何逆向设计商业空间音频效果"
     },
@@ -1900,7 +1908,7 @@
      "title": "I'm sorry, but you still have to think",
      "link": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
      "pubDate": "Sun, 11 Oct 2026 14:29:07 +0000",
-     "summary": "Article URL: https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/ Comments URL: https://news.ycombinator.com/item?id=50043689 Points: 60 # Comments: 13",
+     "summary": "Article URL: https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/ Comments URL: https://news.ycombinator.com/item?id=50043689 Points: 85 # Comments: 26",
      "source": "Hacker News",
      "zh": "对不起，但你还是要想想"
     },
@@ -1908,7 +1916,7 @@
      "title": "Documents add to evidence in climate deception case against ExxonMobil",
      "link": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
      "pubDate": "Sun, 11 Oct 2026 14:28:39 +0000",
-     "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 324 # Comments: 167",
+     "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 330 # Comments: 169",
      "source": "Hacker News",
      "zh": "文件为针对埃克森美孚的气候欺骗案提供了证据"
     },
@@ -1959,14 +1967,6 @@
      "summary": "向上突破，可以靠创新。站稳脚跟，要靠那些不需要消费者操心的事。",
      "source": "钛媒体",
      "zh": "百万级豪车，刹车踏板不是谁都能踩到的"
-    },
-    {
-     "title": "城商行，走进分化时代",
-     "link": "https://www.tmtpost.com/8163903.html",
-     "pubDate": "Sun, 11 Oct 2026 21:05:57 +0800",
-     "summary": "对一家区域银行而言，认识城市的产业，理解企业的经营，陪伴居民的财富需求，仍是最有可能持续积累的能力。",
-     "source": "钛媒体",
-     "zh": "城商行，走进分化时代"
     }
    ]
   },
@@ -1976,6 +1976,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The meaning behind the padlock symbol in your PlayStation 5 game library",
+     "link": "https://www.engadget.com/2281153/playstation-5-game-library-padlock-symbol-meaning-explained/",
+     "pubDate": "Sun, 11 Oct 2026 18:00:00 +0000",
+     "summary": "Digital game licenses aren't perfect, which is why you might see a padlock icon blocking you from PS5 games.",
+     "source": "Engadget",
+     "zh": "PlayStation 5 游戏库中挂锁符号背后的含义"
+    },
     {
      "title": "The original Apple TV 4K from 2017 is now officially \"vintage\"",
      "link": "https://www.gsmarena.com/the_original_apple_tv_4k_from_2017_is_now_officially_vintage-news-74992.php",
@@ -2049,14 +2057,6 @@
      "zh": "报告：HomePod mini 2 将于 10 月 30 日发布并进行这些升级"
     },
     {
-     "title": "We're in the middle of a PS5 Pro shortage and GTA 6 will only make it worse",
-     "link": "https://www.engadget.com/2280934/playstation-5-pro-shortage-gta-6-only-make-worse/",
-     "pubDate": "Sun, 11 Oct 2026 14:45:00 +0000",
-     "summary": "Rockstar's Grand Theft Auto 6 is set to become the most popular game ever and Sony is finding it very difficult to satisfy demand for the PlayStation 5 Pro.",
-     "source": "Engadget",
-     "zh": "PS5 Pro 短缺，GTA 6 只会让情况变得更糟"
-    },
-    {
      "title": "Apple planning huge iPhone Duo demo experiences at select retail stores: report",
      "link": "https://9to5mac.com/2026/10/11/apple-planning-huge-iphone-duo-demo-experiences-at-select-retail-stores-report/",
      "pubDate": "Sun, 11 Oct 2026 14:31:59 +0000",
@@ -2110,7 +2110,7 @@
      "pubDate": "Sun, 11 Oct 2026 13:31:02 +0200",
      "summary": "While Amazon’s Prime Big Deal Days have wrapped up, discounts are still available on several smartphones. In fact, some devices that received few or no notable discounts during the sale are now available at reduced prices. Samsung’s Galaxy S26 Ultra, Apple’s iPhone 17 Pro lineup, and the entire Goog",
      "source": "GSMArena",
-     "zh": "特惠：三星、苹果、谷歌旗舰手机大幅折扣"
+     "zh": "特惠：三星、苹果、谷歌旗舰手机大优惠"
     },
     {
      "title": "I’ve tried all the major to-do list apps but keep coming back to this one",
@@ -2225,6 +2225,46 @@
    "total": 13,
    "items": [
     {
+     "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
+     "link": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1",
+     "pubDate": "Sun, 11 Oct 2026 18:01:02 GMT",
+     "summary": "UK prime minister calls for European voters to be better informed about Kremlin-backed efforts to disrupt democratic process",
+     "source": "Financial Times",
+     "zh": "伯纳姆称俄罗斯“干预”了 2016 年英国脱欧公投"
+    },
+    {
+     "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
+     "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
+     "pubDate": "Sun, 11 Oct 2026 17:59:05 GMT",
+     "summary": "Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin",
+     "source": "Financial Times",
+     "zh": "美国因俄罗斯炼油厂遇袭威胁停止向乌克兰提供武器"
+    },
+    {
+     "title": "厄尔尼诺扰动全球 我国农业生产将如何应对挑战",
+     "link": "http://finance.eastmoney.com/news/1350,202610123892135780.html",
+     "pubDate": "Mon, 12 Oct 2026 01:56:09 +0800",
+     "summary": "不断增强的厄尔尼诺现象正在扰动全球。此轮厄尔尼诺现象的影响周期将会有多长？我国农业生产将如何应对挑战？ 随着寒露节气的到来，全国秋收进入高峰，秋冬种陆续展开。农业农村部最新农情调度显示，目前，我国秋粮收获过半。其中，西南收获七成半，长江中下游过五成，黄淮海过六成，西北五成半，东北三成半；冬小麦陆续开始播种，冬油菜已播一成多。 我国秋粮收获过半秋冬种陆续展开 这几天，新疆百万亩玉米正在测产，当地重点推广玉米密植高产精准调控技术，为玉米稳产高产提供有力支撑。今年，伊犁万亩示范区玉米亩产增加到1609.4公斤。 总台央视记者张琪： 在这里，从正在作业的玉米籽粒收获机，到高产品种、栽培管理技术，过去分",
+     "source": "东方财富股票",
+     "zh": "厄尔尼诺扰动全球 我国农业生产将如何应对挑战"
+    },
+    {
+     "title": "巴沙埃土四国谴责胡塞武装持续对沙特发动袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202610123892135617.html",
+     "pubDate": "Mon, 12 Oct 2026 01:55:17 +0800",
+     "summary": "巴基斯坦外交部11日表示，巴基斯坦、沙特阿拉伯、埃及和土耳其以最强烈的措辞谴责胡塞武装持续对沙特阿拉伯发动袭击。此类袭击造成平民死亡和受伤，并对民用基础设施造成破坏，公然违反国际法。 四国重申，这些袭击公然侵犯沙特阿拉伯的主权和领土完整，直接威胁其安全、稳定以及平民安全，是危险的局势升级，无论以何种借口都无法为其辩解，也不可接受。 四国进一步重申，坚定声援和支持沙特阿拉伯，包括全力支持沙特为应对此类袭击、遏制威胁来源并防止袭击再次发生而采取的一切正当措施和行动，以捍卫沙特的安全、主权和领土完整，保护其公民和居民的安全。 四国认为，胡塞武装应对这些袭击造成的后果、以及由此引发的任何危及地区和国际",
+     "source": "东方财富股票",
+     "zh": "巴沙埃土四国谴责胡塞武装持续对沙特发动袭击"
+    },
+    {
+     "title": "证监会召开资本市场和金融形势专家座谈会",
+     "link": "http://stock.eastmoney.com/news/11215,202610123892133510.html",
+     "pubDate": "Mon, 12 Oct 2026 01:53:08 +0800",
+     "summary": "证监会召开资本市场和金融形势专家座谈会 与会专家建议：进一步拓宽中长期资金来源、渠道和入市方式 与会专家建议：推动有条件的上市公司加大分红回购力度，完善投资者回报和权益保护机制；优化发行上市制度，支持不同类型、不同行业、多元化的优质企业发展壮大；强化交易监管，加强跨境风险监测应对；研究储备更多增量政策工具 10月10日，中国证监会党委书记、主席吴清在北京召开座谈会，与部分上市公司负责人、证券基金机构专家深入交流，就当前资本市场和金融形势充分听取意见建议。 座谈会上，大家一致认为，我国宏观经济稳中向好，产业结构转型持续深化，资本市场运行总体稳健，多层次市场功能有效发挥，虽然面临一些风险挑战，但高",
+     "source": "东方财富股票",
+     "zh": "证监会召开资本市场和金融形势专家座谈会"
+    },
+    {
      "title": "防御配置需求升温 红利基金密集限购",
      "link": "http://fund.eastmoney.com/news/11246,202610123892134851.html",
      "pubDate": "Mon, 12 Oct 2026 01:37:29 +0800",
@@ -2257,22 +2297,6 @@
      "zh": "随着开发商权衡以太坊在量子安全问题上的分歧，Starknet 代币飙升"
     },
     {
-     "title": "俄罗斯国家原子能公司表示：目前已有135名俄方工作人员返回伊朗布什尔核电站 此前在2月撤离后留守的约有20人",
-     "link": "http://finance.eastmoney.com/news/11790,202610123892135360.html",
-     "pubDate": "Mon, 12 Oct 2026 01:19:41 +0800",
-     "summary": "俄罗斯国家原子能公司表示，目前已有135名俄方工作人员返回伊朗布什尔核电站，此前在2月撤离后留守的约有20人。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "俄罗斯国家原子能公司表示：目前已有135名俄方工作人员返回伊朗布什尔核电站 此前在2月撤离后留守的约有20人"
-    },
-    {
-     "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
-     "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 17:19:36 GMT",
-     "summary": "Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin",
-     "source": "Financial Times",
-     "zh": "美国因俄罗斯炼油厂遇袭威胁停止向乌克兰提供武器"
-    },
-    {
      "title": "Can Russia meet Trump’s diesel demands?",
      "link": "https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1",
      "pubDate": "Sun, 11 Oct 2026 17:13:56 GMT",
@@ -2287,22 +2311,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "罗氏的实验性眼药在试验中显示出视力改善"
-    },
-    {
-     "title": "土耳其外交部谴责胡塞武装袭击沙特机场",
-     "link": "http://finance.eastmoney.com/news/1351,202610123892135287.html",
-     "pubDate": "Mon, 12 Oct 2026 01:11:33 +0800",
-     "summary": "土耳其外交部11日发表声明，谴责也门胡塞武装再次袭击沙特阿拉伯首都利雅得哈立德国王国际 机场 。 声明说，故意针对民用基础设施和无辜平民的袭击明显违反了国际法和人道主义原则。 声明呼吁立即停止威胁地区安全与稳定、损害国际社会和平努力的行为，并重申土耳其对沙特主权和领土完整的支持。 据沙特阿拉伯主导的多国联军声明，也门胡塞武装10日袭击了哈立德国王国际 机场 一座航站楼。沙特民航总局说，袭击造成12人死亡、309人受伤。 此前，沙特阿拉伯民航总局9日发表声明说，哈立德国王国际 机场 8日遭到两次袭击，造成3名沙特公民死亡、多人受伤。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "土耳其外交部谴责胡塞武装袭击沙特机场"
-    },
-    {
-     "title": "外部扰动不改A股内在韧性 机构建议聚焦业绩确定性标的",
-     "link": "http://finance.eastmoney.com/news/1378,202610123892134437.html",
-     "pubDate": "Mon, 12 Oct 2026 01:11:01 +0800",
-     "summary": "■机构展望 外部扰动不改A股内在韧性 机构建议聚焦业绩确定性标的 国庆假期后，A股市场出现一定幅度调整。但在10月9日，A股上演“V”形反转，沪指3800点关口失而复得，多只宽基ETF迎来成交大幅放量行情。本周多家券商在策略展望报告中研判，经历连续调整后，当前市场悲观情绪已得到较充分消化，叠加国内政策持续托底，短期扰动不改A股内在韧性。后续随着三季报披露窗口开启，10月A股仍存在结构性修复机会，业绩兑现将成为市场定价的核心锚点。 外部扰动不改A股内在韧性 国庆假期后A股行情震荡走弱，科技板块成为调整重心。对此， 中信建投证券 分析称，外部扰动是调整的直接因素，其根本原因是A股处于第二波杠杆结构",
-     "source": "东方财富股票",
-     "zh": "外部扰动不改A股内在韧性 机构建议聚焦业绩确定性标的"
     },
     {
      "title": "岂能让消费者替“速成车”补上测试课",
@@ -2326,7 +2334,7 @@
      "pubDate": "Sun, 11 Oct 2026 12:42:57 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "默克公司的实验性眼药在试验中达到了目标，但引发了安全性担忧"
+     "zh": "默克公司的实验性眼药在试验中达到了目标，但引发了安全担忧"
     },
     {
      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
@@ -2391,14 +2399,6 @@
      "summary": "第1眼TV-华龙网讯（首席记者 陈美西）10月11日晚，中超联赛休赛一个月后战火重燃，重庆铜梁龙坐镇龙兴足球场迎战传统劲旅山东泰山。经过90分钟激战，双方1:1握手言和。这也是重庆铜梁龙本赛季在龙兴主场的收官之战。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/012F11DED5D02A6A5E973877FD2938C0.jpg\" alt=\"重庆铜梁龙首发阵容。\" width=\"1024\" height=\"683\" data-title=\"重庆铜梁龙首发...",
      "source": "经济观察网",
      "zh": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山"
-    },
-    {
-     "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
-     "link": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 14:50:05 GMT",
-     "summary": "UK prime minister calls for European voters to be better informed about efforts to disrupt democratic process",
-     "source": "Financial Times",
-     "zh": "伯纳姆称俄罗斯“干预”了 2016 年英国脱欧公投"
     },
     {
      "title": "于子迪，不要只成为天才少女",

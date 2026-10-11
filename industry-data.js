@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 15:32:03",
+ "generated_at": "2026/10/11 15:52:05",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
+     "link": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/",
+     "pubDate": "Sun, 11 Oct 2026 06:20:21 +0000",
+     "summary": "OrcaRouter released OrcaCyber Zero 1.5, a gated cybersecurity model with a 1M-token context window. It reports 100% on Cybench and 95.8% on an evaluable CVE-Bench subset, priced at $3.00 / $7.50 per 1M tokens. The post OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context appear",
+     "source": "MarkTechPost",
+     "zh": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context"
+    },
     {
      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
      "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
@@ -162,14 +170,6 @@ window.INDUSTRY_DATA = {
      "zh": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model"
     },
     {
-     "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
-     "link": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
-     "pubDate": "Fri, 09 Oct 2026 20:05:07 +0000",
-     "summary": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges. The post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared firs",
-     "source": "MarkTechPost",
-     "zh": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers"
-    },
-    {
      "title": "Impactful scheduling for GPU clusters",
      "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
      "pubDate": "Fri, 09 Oct 2026 15:20:29 GMT",
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Vicor widens AI server power patent fight, seeking new US import ban on Foxconn, Quanta and Delta",
+     "link": "https://www.digitimes.com/news/a20261011VL200/ai-server-foxconn-quanta-ban-hardware.html",
+     "pubDate": "Sun, 11 Oct 2026 07:37:46 GMT",
+     "summary": "Vicor Corporation is trying for the second time this year to get AI server power hardware from Taiwan's largest server makers barred from the US. It has won such a ban before.",
+     "source": "DIGITIMES",
+     "zh": "Vicor widens AI server power patent fight, seeking new US import ban on Foxconn, Quanta and Delta"
+    },
+    {
      "title": "IPC makers expand US production as supply chains, tariffs shift",
      "link": "https://www.digitimes.com/news/a20261008PD238/production-manufacturing-pc-ipc-california.html",
      "pubDate": "Sun, 11 Oct 2026 02:42:30 GMT",
@@ -298,28 +306,12 @@ window.INDUSTRY_DATA = {
      "zh": "Everlight Chemical September revenue rises on strong electronic chemicals demand"
     },
     {
-     "title": "System integration emerges as Taiwan's next drone industry edge for defense scale-up",
-     "link": "https://www.digitimes.com/news/a20261008PD210/taiwan-technology-cost-component-semiconductors.html",
-     "pubDate": "Sun, 11 Oct 2026 02:37:27 GMT",
-     "summary": "As defense technology and unmanned vehicles increasingly extend beyond traditional defense industries into the ICT and semiconductor sectors, Taiwan's manufacturers are being urged to go beyond the role of component suppliers and strengthen their system integration (SI) capabilities. That was the me",
-     "source": "DIGITIMES",
-     "zh": "System integration emerges as Taiwan's next drone industry edge for defense scale-up"
-    },
-    {
      "title": "Hyper-NA EUV: The Next Frontier in Chipmaking Could Arrive in 2036",
      "link": "https://semiwiki.com/lithography/374764-hyper-na-euv-the-next-frontier-in-chipmaking-could-arrive-in-2036/",
      "pubDate": "Sat, 10 Oct 2026 12:00:54 +0000",
      "summary": "EUV has long been an interesting story. We have written 200+ articles on EUV and they just keep on coming. Thankfully the premier lithography conference is right here in Silicon Valley. SPIE began in 1955 as the Society of Photographic Instrumentation Engineers, bringing together engineers using sci",
      "source": "SemiWiki",
      "zh": "Hyper-NA EUV: The Next Frontier in Chipmaking Could Arrive in 2036"
-    },
-    {
-     "title": "Jury still out in Qualcomm vs Arm case",
-     "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
-     "pubDate": "Sat, 10 Oct 2026 07:20:41 +0000",
-     "summary": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Jury still out in Qualcomm vs Arm case"
     },
     {
      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
@@ -346,36 +338,12 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
-     "title": "Defence satcom revenues to surpass $23bn by 2035",
-     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
-     "source": "Electronics Weekly",
-     "zh": "Defence satcom revenues to surpass $23bn by 2035"
-    },
-    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
-    },
-    {
-     "title": "Axiom Space highlights space computing progress",
-     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
-     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
-     "source": "Electronics Weekly",
-     "zh": "Axiom Space highlights space computing progress"
-    },
-    {
-     "title": "The Single-Chip PC",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
-     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -392,22 +360,6 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
-    },
-    {
-     "title": "Failure analysis in the era of 3D integration",
-     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
-     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Failure analysis in the era of 3D integration"
-    },
-    {
-     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
-     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
-     "source": "Electronics Weekly",
-     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
+    },
+    {
+     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
+     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
+     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
+     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
+    },
+    {
+     "title": "Shift Left Complicates Fab Data Management",
+     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
+     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
+     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Shift Left Complicates Fab Data Management"
+    },
+    {
+     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
+     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -962,12 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "Clean-energy super PAC names its target list for general elections"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
+     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1722,28 +1722,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "盛色推出“S65u”23.8 英寸显示器：4K 160Hz、白色边框 / 支架，1796 元",
-     "link": "https://www.ithome.com/1/011/610.htm",
-     "pubDate": "Sun, 11 Oct 2026 07:19:59 GMT",
-     "summary": "IT之家 10 月 11 日消息，盛色现已在京东上架型号为“S65u”的 23.8 英寸显示器，该机主打 4K 160Hz， 定价为 1796 元 ，部分地区国补后低至 1598.4 元。 京东 SANC 盛色 S65u 显示器 1796 元 领 20 元券 该机配备一块 3840x2160 分辨率 160Hz IPS 面板，静态对比度 1000:1，峰值亮度 400 尼特，覆盖 99% sRGB 色域。 该机采用白色边框、白色支架，其支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，提供 2 个 HDMI、2 个 DP、1 个 3.5mm 音频接口。 IT",
+     "title": "红魔 12 Pro+ 手机官宣支持杜比全景声，号称迄今为止音效最好的红魔旗舰",
+     "link": "https://www.ithome.com/1/011/618.htm",
+     "pubDate": "Sun, 11 Oct 2026 07:41:30 GMT",
+     "summary": "IT之家 10 月 11 日消息，红魔游戏手机官方今日继续预热 12 系列新机。据介绍， 红魔 12 Pro+ 搭载 1115E 立体对称式扬声器，将支持杜比全景声 ，号称迄今为止音效最好的红魔旗舰。 红魔 12 Pro+ 号称“迄今为止手感最好的红魔旗舰”，主打“更轻、更薄、更窄、更圆润”。预热图显示，新机相比前代厚度更薄、重量更轻，同时屏幕黑边、边框圆角都有优化，其中 12 Pro+ 的屏幕黑边由前代的 1.25mm 减小到了 0.96mm。 此外，红魔 12 Pro+ 手机将搭载高通第六代骁龙 8 超级至尊版芯片。 根据官方预热，红魔 12 Pro+ 还将搭载行业首款 RGB 水冷散热技",
      "source": "IT之家",
-     "zh": "盛色推出“S65u”23.8 英寸显示器：4K 160Hz、白色边框 / 支架，1796 元"
+     "zh": "红魔 12 Pro+ 手机官宣支持杜比全景声，号称迄今为止音效最好的红魔旗舰"
     },
     {
-     "title": "国产汽车出海通道 +1，“南京 — 欧洲”新航线开通",
-     "link": "https://www.ithome.com/1/011/609.htm",
-     "pubDate": "Sun, 11 Oct 2026 07:19:53 GMT",
-     "summary": "IT之家 10 月 11 日消息，据央视新闻报道，今天（10 月 11 日）上午，装载 1,530 台国产新能源汽车的大型滚装船“广荣”轮从南京港启航，驶向西班牙巴塞罗那港、比利时泽布吕赫港， 标志着“南京 — 欧洲”外贸滚装新航线正式开通 ，为国产汽车出海新增一条江海直达通道。 本次首航的“广荣”轮是新一代甲醇双燃料动力滚装船，船长 199.9 米， 拥有 7,800 个标准舱位 ，也是目前靠泊南京港的最大尺度滚装船舶。 IT之家从报道获悉，此次欧洲新航线开通， 实现商品整车从南京港直接出海 ，无需前往沿海大港中转，大幅降低转运、仓储等综合成本，有效提升国产汽车的外贸交付效率与市场竞争力。据",
+     "title": "“第二代豆包手机”努比亚 NaviX Ultra「内测实验室」计划即将开启，10 月 14 日直播",
+     "link": "https://www.ithome.com/1/011/617.htm",
+     "pubDate": "Sun, 11 Oct 2026 07:39:16 GMT",
+     "summary": "IT之家 10 月 11 日消息，努比亚今日宣布 NaviX Ultra「内测实验室」计划即将开启，面向尝鲜用户开放内测资格，抢先体验最新版本能力。10 月 14 日 19:00，首场进化直播。 IT之家注意到，“第二代豆包手机” 努比亚 NaviX Ultra 于 9 月 16 日发布， 号称“全球首款 AI 智能体手机” ，由中兴通讯努比亚全链路主导打造，实现一句话让 AI 跨应用执行复杂任务，豆包手机助手主导 AI 助手体验，售价 5999 元起。 努比亚 NaviX Ultra 搭载行业首个集成指纹识别的 独立 AI 按键 ，支持方言识别能力、语音唤醒能力，并内置 Seed 最新全双工",
      "source": "IT之家",
-     "zh": "国产汽车出海通道 +1，“南京 — 欧洲”新航线开通"
+     "zh": "“第二代豆包手机”努比亚 NaviX Ultra「内测实验室」计划即将开启，10 月 14 日直播"
     },
     {
-     "title": "Bosgame 推出 E7 迷你主机：酷睿 3 100U 处理器、16GB 内存、双网口，449 欧元",
-     "link": "https://www.ithome.com/1/011/608.htm",
-     "pubDate": "Sun, 11 Oct 2026 07:17:34 GMT",
-     "summary": "IT之家 10 月 11 日消息，Bosgame 现已在海外市场推出 E7 迷你主机。该产品采用英特尔 Raptor Lake-U Refresh 平台。从外观来看，该产品应该不是自主设计，而是 OEM 贴牌。 据介绍， 这款迷你主机搭载英特尔酷睿 3 100U 处理器 ，采用 6 核心、8 线程设计，最高睿频可达 4.7GHz。 同时，该迷你主机尺寸为 128*129*44mm， 提供 16GB 内存和 512GB 固态硬盘 ，前者最高支持扩容至 64GB，并提供 2 个 M.2 2280 SSD 插槽，方便扩展存储空间。 此外，该迷你主机提供 USB 3.2 Gen 2 Type-A、US",
+     "title": "马斯克称给信用卡拍照就能用 Grok Bot 购物，OpenAI 蒂博调侃“不如直接把卡发网上”",
+     "link": "https://www.ithome.com/1/011/616.htm",
+     "pubDate": "Sun, 11 Oct 2026 07:39:04 GMT",
+     "summary": "IT之家 10 月 11 日消息，xAI 首席执行官埃隆 · 马斯克今日发文称：“买东西时，你只需要拍一张信用卡照片发到聊天框，Grok Bot 就会在网上搜索最佳优惠然后下单。” IT之家注意到，OpenAI Codex&amp;ChatGPT 团队负责人蒂博 · 索蒂奥回应道：“ 那我干脆直接把卡放这儿得了 。”并附上一张 AI 生成的虚构信用卡照片，持卡人名字就是他本人“Thibault Sottiaux”，暗示该功能的安全风险性。 另外一名用户表示，亚马逊如今已经屏蔽 Grok Bot 访问。马斯克回复道，Grok 自己会找别的方式买东西，他刚刚买了乐高，Grok 是直接从乐高官网下单",
      "source": "IT之家",
-     "zh": "Bosgame 推出 E7 迷你主机：酷睿 3 100U 处理器、16GB 内存、双网口，449 欧元"
+     "zh": "马斯克称给信用卡拍照就能用 Grok Bot 购物，OpenAI 蒂博调侃“不如直接把卡发网上”"
+    },
+    {
+     "title": "黑爵推出 AM5 镁合金无线鼠标：PAW3950 传感器、8KHz 回报率，499 元",
+     "link": "https://www.ithome.com/1/011/614.htm",
+     "pubDate": "Sun, 11 Oct 2026 07:36:48 GMT",
+     "summary": "IT之家 10 月 11 日消息，黑爵现已在京东上架 AM5 镁合金无线鼠标，该鼠标配备 PAW3950 传感器，提供 8KHz 回报率， 定价为 499 元 。 京东 黑爵 AM5 镁合金无线鼠标 499 元 直达链接 该鼠标整体尺寸为 117.92x61.95x39.24 mm，外壳采用镁合金材质，辅以高温烘烤漆面工艺。鼠标内使用轻量化金属骨架设计，整体重量约 52g。 该鼠标搭载 Nordic 52840 主控芯片与 PAW3950 传感器，匹配 7000 万次寿命欧姆龙光微动，按键部分采用了塑胶弹力臂结构，鼠标在 2.4G 模式下的轮询率最高可达 8KHz，响应延迟约 0.125 ms",
+     "source": "IT之家",
+     "zh": "黑爵推出 AM5 镁合金无线鼠标：PAW3950 传感器、8KHz 回报率，499 元"
+    },
+    {
+     "title": "马斯克称尽管自己目前不知道如何制造微芯片，但一定会弄清楚",
+     "link": "https://www.ithome.com/1/011/613.htm",
+     "pubDate": "Sun, 11 Oct 2026 07:36:13 GMT",
+     "summary": "IT之家 10 月 11 日消息，据彭博社报道，埃隆 · 马斯克（Elon Musk）表示，鉴于其旗下公司在制造定制设备方面的专长，他相信自己的公司很可能会“找到比任何人都更好地制造芯片的方法”。 在得克萨斯州奥斯汀的特斯拉超级工厂外，马斯克向到场的客户与投资人坦言，尽管自己目前“ 不知道如何制造微芯片 ，但我们（一定）会弄清楚 ”。 在周六通过线上直播参与 X Takeover 活动时，他特别提到，此前在参观竞争对手的设施时，并没有看到多少定制化设备；而他的企业在制造这些设备方面拥有丰富经验，这使他们能够改进制造流程。 “我认为可以说，这（指芯片制造）是世界上最难做的事情之一”马斯克表示，“",
+     "source": "IT之家",
+     "zh": "马斯克称尽管自己目前不知道如何制造微芯片，但一定会弄清楚"
+    },
+    {
+     "title": "广东 500 座蔚来换电站达成，累计换电服务突破 1700 万次占全国总量约 13%",
+     "link": "https://www.ithome.com/1/011/612.htm",
+     "pubDate": "Sun, 11 Oct 2026 07:34:06 GMT",
+     "summary": "IT之家 10 月 11 日消息，蔚来官方今日宣布，2026 年 10 月 11 日，伴随广州、深圳、惠州、东莞、佛山、珠海 6 城同步上新 6 座第五代换电站， 广东 500 座蔚来换电站正式达成 。 截至目前， 广东蔚来换电站累计换电服务已突破 1700 万次，占全国换电总量约 13% 。2026 年 1-8 月，蔚来公司广东市场销量高速增长，同比增长 76.3%。 IT之家从蔚来官方了解到，截至 2026 年 10 月 11 日， 蔚来在全国已累计布局充换电站 9,584 座 ，其中换电站 4,176 座，全国高速网络上已部署 1,073 座换电站，覆盖 9 纵 11 横 16 大城市群",
+     "source": "IT之家",
+     "zh": "广东 500 座蔚来换电站达成，累计换电服务突破 1700 万次占全国总量约 13%"
     },
     {
      "title": "发展新质生产力，摒弃“500强”情结",
@@ -1760,30 +1784,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 投中网 ，作者：王满华，编辑：王庆武 伴随这波创业潮，钱的“口味”也跟着变了。 本文字数4248 手搓量丨95%AI含量丨5% 如果仔细观察当下的具身智能一级市场，会发现一种很强的错位感。 一方面，几家被曝出上市计划的头部公司，正陷入“人形机器人IPO收紧”的恐慌；而另一方面，一批新晋创业公司却来势汹汹，无论是融资节奏、融资金额还是资方背景，都令人咋舌。 最典型的莫过于昆仑行机器人：成立不到90天便累计完成3轮融资，估值直接突破十亿美元，成功跻身独角兽之列。另据媒体报道，这家公司的首轮融资，在企业注册还不到3天时就被顶级机构哄抢。 昆仑行机器人快速崛起的背后，创始团队的硬",
      "source": "虎嗅",
      "zh": "VC的钱，正追着智驾“老炮儿”跑"
-    },
-    {
-     "title": "星闪国家推荐标准发布，2027 年 4 月 1 日起正式实施",
-     "link": "https://www.ithome.com/1/011/607.htm",
-     "pubDate": "Sun, 11 Oct 2026 07:07:32 GMT",
-     "summary": "IT之家 10 月 11 日消息，据国际星闪联盟，9 月 28 日，国家市场监督管理总局（国家标准化管理委员会）发布最新一批国家标准公告，其中批准发布《星闪无线通信系统》系列国家标准（GB/T 48336.101—2026 等）。这标志着新一代无线短距通信技术 —— 星闪（NearLink）由此迈出从团体标准向推荐性国家标准跃升的关键一步。 该系列标准将于 2027 年 4 月 1 日起正式实施 。 IT之家注意到，本批发布的 GB/T 48336 系列标准覆盖总体架构、接入层、基础服务层、基础应用层，具体包括： 总体架构 第 101 部分（架构和通用要求）、第 102 部分（媒体接入层标识）",
-     "source": "IT之家",
-     "zh": "星闪国家推荐标准发布，2027 年 4 月 1 日起正式实施"
-    },
-    {
-     "title": "小米智能摄像机 5 Pro 全彩夜视上架：8MP+4MP 双镜头、自带补光小夜灯，439 元",
-     "link": "https://www.ithome.com/1/011/605.htm",
-     "pubDate": "Sun, 11 Oct 2026 07:03:06 GMT",
-     "summary": "IT之家 10 月 11 日消息，小米现已在京东上架“小米智能摄像机 5 Pro 全彩夜视”，定价为 499 元，首发价 439 元。 京东 小米智能摄像机 5 Pro 全彩夜视 439 元 直达链接 该产品配备 8MP+4MP 双镜头，可拍摄 4K 高清画面，支持多种夜视模式。机身配备小夜灯实现补光，摄像机可实现整夜彩色成像。无人时黑白成像，识别到人自动开启小夜灯并自动切换彩色画面。内置 940nm 红外补光灯，镜头无红曝干扰，夜间呈现清晰黑白影像。 该机云台支持上下左右远程旋转，支持人形及宠物追踪，家人、宠物动向灵活跟拍记录。支持手势识别通话，只需面对摄像机比个“OK”手势，即可远程呼叫手",
-     "source": "IT之家",
-     "zh": "小米智能摄像机 5 Pro 全彩夜视上架：8MP+4MP 双镜头、自带补光小夜灯，439 元"
-    },
-    {
-     "title": "美国任天堂总裁强调 Switch 2 多样化游戏阵容：从 5 岁到 95 岁都能玩",
-     "link": "https://www.ithome.com/1/011/604.htm",
-     "pubDate": "Sun, 11 Oct 2026 07:03:06 GMT",
-     "summary": "IT之家 10 月 11 日消息，美国任天堂总裁德文 · 普里查德（Devon Pritchard）近日接受《综艺》杂志采访，她认为 Switch 2 游戏机尚处初期阶段，还有非常多战略优势可以发挥。 IT之家注意到，任天堂 Switch 2 相比第一代 Switch 拥有更出色的画面表现和更强的机能，可带来全新游戏玩法。今年，微软已决定让《使命召唤》系列游戏重新登陆任天堂主机，距上一次已有十多年，而且 Switch 2 现在不只拥有《马力欧赛车世界》等第一方作品，也有《生化危机：安魂曲》等第三方游戏。 普里查德表示：“ 我们过去常说任天堂游戏机适合 5 岁-95 岁人群 ，如今这些观点依然成",
-     "source": "IT之家",
-     "zh": "美国任天堂总裁强调 Switch 2 多样化游戏阵容：从 5 岁到 95 岁都能玩"
     },
     {
      "title": "大搞硬件矩阵的苹果，还是没把大象放进冰箱",
@@ -1909,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "AI agents in a stand-up call",
      "link": "https://atoll92.github.io/agent-standup/",
      "pubDate": "Sun, 11 Oct 2026 03:42:47 +0000",
-     "summary": "Article URL: https://atoll92.github.io/agent-standup/ Comments URL: https://news.ycombinator.com/item?id=50039630 Points: 27 # Comments: 30",
+     "summary": "Article URL: https://atoll92.github.io/agent-standup/ Comments URL: https://news.ycombinator.com/item?id=50039630 Points: 34 # Comments: 38",
      "source": "Hacker News",
      "zh": "AI agents in a stand-up call"
     },
@@ -1925,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
      "link": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
      "pubDate": "Sun, 11 Oct 2026 03:21:07 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU Comments URL: https://news.ycombinator.com/item?id=50039536 Points: 54 # Comments: 11",
+     "summary": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU Comments URL: https://news.ycombinator.com/item?id=50039536 Points: 58 # Comments: 14",
      "source": "Hacker News",
      "zh": "GameBoy on E-Paper ESP32 at 30FPS [video]"
     },
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
      "pubDate": "Sun, 11 Oct 2026 02:02:38 +0000",
-     "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 75 # Comments: 58",
+     "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 81 # Comments: 58",
      "source": "Hacker News",
      "zh": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "PSPi 6 – Raspberry Pi in a PSP",
      "link": "https://github.com/othermod/PSPi-Version-6",
      "pubDate": "Sun, 11 Oct 2026 00:45:49 +0000",
-     "summary": "Article URL: https://github.com/othermod/PSPi-Version-6 Comments URL: https://news.ycombinator.com/item?id=50038623 Points: 66 # Comments: 6",
+     "summary": "Article URL: https://github.com/othermod/PSPi-Version-6 Comments URL: https://news.ycombinator.com/item?id=50038623 Points: 68 # Comments: 7",
      "source": "Hacker News",
      "zh": "PSPi 6 – Raspberry Pi in a PSP"
     },
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Build your own decision model",
      "link": "https://nishtahir.com/build-your-own-decision-model/",
      "pubDate": "Sat, 10 Oct 2026 22:50:10 +0000",
-     "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 228 # Comments: 57",
+     "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 243 # Comments: 59",
      "source": "Hacker News",
      "zh": "Build your own decision model"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "A city-building game in which the city would prefer you didn't",
      "link": "https://housing.over.pizza/",
      "pubDate": "Sat, 10 Oct 2026 20:31:50 +0000",
-     "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 294 # Comments: 93",
+     "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 309 # Comments: 97",
      "source": "Hacker News",
      "zh": "A city-building game in which the city would prefer you didn't"
     }
@@ -2218,6 +2218,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "汽车越卖越多，“福特时刻”为何没有发生在中国｜蔚言大义",
+     "link": "http://www.eeo.com.cn/2026/1011/1060861.shtml",
+     "pubDate": "Sun, 11 Oct 2026 15:41:44 +0800",
+     "summary": "今天的中国汽车工业需要面对更深层的问题：当现代产业从纵向一体化的大企业转变为高度分工的产业网络以后，生产率红利究竟会在消费者、劳动者、整车企业和核心供应商之间如何重新分配？ 从这个角度看，中国汽车工业正在经历的是“福特时刻”被重新分解的故事。",
+     "source": "经济观察网",
+     "zh": "汽车越卖越多，“福特时刻”为何没有发生在中国｜蔚言大义"
+    },
+    {
+     "title": "如何跨越AI时代的“恩格斯停顿”？",
+     "link": "http://www.eeo.com.cn/2026/1011/1060858.shtml",
+     "pubDate": "Sun, 11 Oct 2026 15:41:01 +0800",
+     "summary": "“恩格斯停顿”并非不可逾越的历史宿命。在工业革命时期，经过数十年的制度调整和社会变革，技术进步最终惠及了更广泛的群体。在AI时代，我们同样有机会通过前瞻性的政策设计和制度创新，缩短停顿的周期，让AI的红利更快、更公平地惠及每一个人。关键在于我们能否在技术狂飙突进的同时，始终将人的福祉置于发展的中心。",
+     "source": "经济观察网",
+     "zh": "如何跨越AI时代的“恩格斯停顿”？"
+    },
+    {
+     "title": "美国市场叙事“剧烈反转”：从“AI通缩论和美债可控论”转向“AI挤爆债市、贝森特控不住长端利率”",
+     "link": "https://wallstreetcn.com/articles/3783366",
+     "pubDate": "Sun, 11 Oct 2026 15:31:20 +0800",
+     "summary": "市场对美国经济的主流叙事在一年内发生了根本性逆转，而真正被低估的系统性风险，或许既不在债市，也不在财政，而是潜伏于AI生态本身。 据追风交易台，德意志银行全球外汇研究主管George Saravelos在完成一轮美国东海岸密集客户拜访后发布报告指出， 去年市场的主流叙事是\"AI具有通缩效应、美国财政部不会允许债券抛售\"，而今年的叙事已彻底翻转为\"AI（发债融资）是推高收益率的重要驱动力，美国财政部已失去对长端利率的控制\"。 他同时注意到，市场上出现了关于暂停20年期美债发行、大幅缩短供应久期的讨论，但多数客户对固定收益资产持极度谨慎态度。 Saravelos对此提出异议。他认为， 叙事钟摆已经",
+     "source": "华尔街见闻",
+     "zh": "美国市场叙事“剧烈反转”：从“AI通缩论和美债可控论”转向“AI挤爆债市、贝森特控不住长端利率”"
+    },
+    {
      "title": "从连接信息到组织行动：智能体经济增长的底层逻辑",
      "link": "http://www.eeo.com.cn/2026/1011/1060835.shtml",
      "pubDate": "Sun, 11 Oct 2026 15:24:05 +0800",
@@ -2258,6 +2282,14 @@ window.INDUSTRY_DATA = {
      "zh": "韩国散户三季度“脱韩入美”：抛售韩股逾5.5万亿韩元，买入美股超10万亿韩元"
     },
     {
+     "title": "周末要闻汇总：中共中央、国务院印发《关于发展新质生产力的意见》",
+     "link": "http://finance.eastmoney.com/news/1345,202610113892043722.html",
+     "pubDate": "Sun, 11 Oct 2026 14:00:17 +0800",
+     "summary": "本周末影响市场的重要资讯有：中共中央、国务院印发《关于发展新质生产力的意见》；中欧贸易投资磋商机制发布第二次例会联合声明，达成16项成果共识；中国证监会召开资本市场和金融形势专家座谈会；时隔12年，公募基金运作办法修订，多举措支持逆周期布局；财政部安排使用5500亿元地方政府债务结存限额；加强 汽车 产品创新设计等方面管理，四部门征求意见；沙特首都利雅得 机场 遭袭致12死309伤，美或将介入打击行动。 宏观经济 中共中央、国务院印发《关于发展新质生产力的意见》 《意见》统筹发展和安全，以科技创新为引领，以全要素生产率大幅提升为核心标志，推动技术革命性突破、生产要素创新性配置、产业深度转型升级",
+     "source": "东方财富资讯",
+     "zh": "周末要闻汇总：中共中央、国务院印发《关于发展新质生产力的意见》"
+    },
+    {
      "title": "世卫：俄不明原因肺炎事件无持续传播证据",
      "link": "http://www.eeo.com.cn/2026/1011/1060705.shtml",
      "pubDate": "Sun, 11 Oct 2026 13:52:05 +0800",
@@ -2280,22 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "The ship tried to break through America’s naval blockade of Iranian ports, Central Command says of its first attack in a month",
      "source": "Financial Times",
      "zh": "US hits commercial tanker in Gulf of Oman as tensions flare"
-    },
-    {
-     "title": "中央汇金公司，发布打假声明",
-     "link": "http://www.eeo.com.cn/2026/1011/1060650.shtml",
-     "pubDate": "Sun, 11 Oct 2026 13:26:06 +0800",
-     "summary": "10月9日，中央汇金投资有限责任公司发布声明称，近期，有不法分子冒用“中国投资有限责任公司”“中投公司”“中投国际有限责任公司”“中投国际”“中投海外直接投资有限责任公司”“中投海外”“中央汇金投资有限责任公司”“中央汇金”“汇金公司”“中央汇金资产管理有限责任公司”等名义进行诈骗。 中央汇金公司郑重提醒，公司不开展代客投资理财活动，对于假冒公司或公司工作人员名义进行诈骗的单位或个人，将依法...",
-     "source": "经济观察网",
-     "zh": "中央汇金公司，发布打假声明"
-    },
-    {
-     "title": "“生态颜值”与“发展价值”双提升 重庆以高水平保护支撑高质量发展",
-     "link": "http://www.eeo.com.cn/2026/1011/1060630.shtml",
-     "pubDate": "Sun, 11 Oct 2026 13:13:15 +0800",
-     "summary": "第1眼TV-华龙网讯（首席记者 陈雨）记者从重庆市生态环境局获悉，今年1至9月，长江干流重庆段水质稳定保持为Ⅱ类，63个国控断面好Ⅲ水质比例达到96.8%，累计评选市级美丽河湖优秀案例36个，累计消除黑臭水体1325个、306万余平方米，惠及82万余名村民。“绿水青山就是金山银山”理念不断落地实践，美丽重庆建设不断走深走实，美丽中国先行区建设迈出坚实步伐。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/pr...",
-     "source": "经济观察网",
-     "zh": "“生态颜值”与“发展价值”双提升 重庆以高水平保护支撑高质量发展"
     },
     {
      "title": "三星明年存储产量的80%已被长协锁定",
@@ -2344,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "Companies increase personal security for top executives as Kremlin orders expansion of sabotage and ‘hybrid’ operations",
      "source": "Financial Times",
      "zh": "Russia steps up bid to kill European defence chiefs, spy agencies warn"
-    },
-    {
-     "title": "德银：美股7月下旬以来的“第五轮科技股反弹”已到顶，准备迎接“倒V反转”",
-     "link": "https://wallstreetcn.com/articles/3783359",
-     "pubDate": "Sun, 11 Oct 2026 11:46:15 +0800",
-     "summary": "自7月29日启动的这轮美股科技股反弹，在52个交易日内累计跑赢大盘18.1个百分点。但在德意志银行看来，这轮行情已经到顶。 据追风交易台消息，10月9日，该行多资产策略团队Parag Thatte等分析师发布报告，将美股科技及大盘成长股（MCG & Tech）评级从“超配”下调至“中性”。分析师写道： 科技股的轮动已经走得很远，近期风险回报不再有吸引力。 倒V型反转将临？ 德银追踪了过去两年美股科技股的五轮轮动周期。 数据显示，此前四轮反弹的中位涨幅约为29.5个百分点（相对大盘），而本轮截至10月8日已累计跑赢18.1个百分点。 分析师指出，当前科技股相对表现已接近长期趋势通道上轨——这正是",
-     "source": "华尔街见闻",
-     "zh": "德银：美股7月下旬以来的“第五轮科技股反弹”已到顶，准备迎接“倒V反转”"
     },
     {
      "title": "Lockheed Martin raises dividend by 4.3% to $3.60",
@@ -2448,14 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Key deals this week: Option Care Health, PTC, Energy Transfer and more"
-    },
-    {
-     "title": "Nvidia in talks to buy ‘open’ model startup Reflection AI: FT",
-     "link": "https://seekingalpha.com/news/4651913-nvidia-buy-open-model-startup-reflection-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 10 Oct 2026 15:12:18 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nvidia in talks to buy ‘open’ model startup Reflection AI: FT"
     }
    ]
   },
@@ -2538,20 +2538,20 @@ window.INDUSTRY_DATA = {
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
-     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
-     "source": "Live Science",
-     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
-    },
-    {
      "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
      "source": "Live Science",
      "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
+    },
+    {
+     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
+     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
+     "source": "Live Science",
+     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/11 21:32:06",
+ "generated_at": "2026/10/11 21:51:54",
  "recent_days": 7,
  "industries": [
   {
@@ -321,6 +321,14 @@
      "zh": "Hyper-NA EUV: The Next Frontier in Chipmaking Could Arrive in 2036"
     },
     {
+     "title": "Jury still out in Qualcomm vs Arm case",
+     "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
+     "pubDate": "Sat, 10 Oct 2026 07:20:41 +0000",
+     "summary": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Jury still out in Qualcomm vs Arm case"
+    },
+    {
      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
      "pubDate": "Fri, 09 Oct 2026 22:00:00 +0000",
@@ -345,12 +353,36 @@
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
+     "title": "Defence satcom revenues to surpass $23bn by 2035",
+     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
+     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "Defence satcom revenues to surpass $23bn by 2035"
+    },
+    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
+    },
+    {
+     "title": "Axiom Space highlights space computing progress",
+     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
+     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
+     "source": "Electronics Weekly",
+     "zh": "Axiom Space highlights space computing progress"
+    },
+    {
+     "title": "The Single-Chip PC",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
+     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -367,6 +399,22 @@
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
+    },
+    {
+     "title": "Failure analysis in the era of 3D integration",
+     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
+     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Failure analysis in the era of 3D integration"
+    },
+    {
+     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
+     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
+     "source": "Electronics Weekly",
+     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -447,54 +495,6 @@
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
-    },
-    {
-     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
-     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
-     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
-     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
-    },
-    {
-     "title": "Shift Left Complicates Fab Data Management",
-     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
-     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Shift Left Complicates Fab Data Management"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
-    },
-    {
-     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
-     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
-     "source": "Semiconductor Today",
-     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
-    },
-    {
-     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
-     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
-    },
-    {
-     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
-     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
-     "source": "Semiconductor Today",
-     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -961,12 +961,12 @@
      "zh": "Clean-energy super PAC names its target list for general elections"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
+     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -980,7 +980,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1721,6 +1721,46 @@
    "total": 18,
    "items": [
     {
+     "title": "闪极推出 Vision Mag 带屏磁吸充电宝：15W 无线充 + 20W 有线充，5000mAh 电芯售 199 元",
+     "link": "https://www.ithome.com/1/011/702.htm",
+     "pubDate": "Sun, 11 Oct 2026 13:48:45 GMT",
+     "summary": "IT之家 10 月 11 日消息，闪极现已在京东上架一款 Vision Mag 磁吸充电宝，该产品支持 15W 无线充电和 20W 有线充电，内置 5000mAh 电芯， 定价为 199 元 。 京东 闪极 Vision Mag 磁吸充电宝 199 元 直达链接 该机整体重量 140g，尺寸为 102x72x11.7mm，采用银色金属机身，正面下方嵌有 TFT 彩屏模组（支持显示 iPhone 机型信息 / 充电功率），右下角配备编织挂绳，底部配备 USB-C 接口（支持 20W 输出/ 15W 输入，兼容 QC3+、FCP、SCP、AFC、PD3.0/PPS、DCP 以及 Apple 2.4",
+     "source": "IT之家",
+     "zh": "闪极推出 Vision Mag 带屏磁吸充电宝：15W 无线充 + 20W 有线充，5000mAh 电芯售 199 元"
+    },
+    {
+     "title": "阿维塔 T09 概念版全球首秀：定位全新旗舰 SUV，配备四激光雷达",
+     "link": "https://www.ithome.com/1/011/701.htm",
+     "pubDate": "Sun, 11 Oct 2026 13:35:36 GMT",
+     "summary": "IT之家 10 月 11 日消息，阿维塔 T09 概念版今晚迎来全球首秀。新车作为阿维塔与华为乾崑联合设计的首款高端旗舰车型，新车设计灵感源于 VISION XPECTRA，配备四激光雷达。 外观方面，该车带入全新的阿维塔设计语言，晶钻阵列大灯搭配雕塑格栅。“绛红”与“棉白”营造出刻意为之的纵横分界，重塑色彩布局方式，全新的 D 柱发光徽标与整体架构融为一体，车尾则配备修长的一体式晶钻尾灯。 该车采用全新内饰设计，互动屏幕向外拓展延伸至车门一体化布局，拓宽视觉边界的同时，让驾驶者可以用更好的视角看清信息。 据IT之家此前报道，阿维塔 T09 已完成申报，提供两种动力版本，长宽高分别为 5285",
+     "source": "IT之家",
+     "zh": "阿维塔 T09 概念版全球首秀：定位全新旗舰 SUV，配备四激光雷达"
+    },
+    {
+     "title": "微软为 Linux 7.4 贡献 Hyper-V 半虚拟化 IOMMU 驱动，已进入-next 分支",
+     "link": "https://www.ithome.com/1/011/700.htm",
+     "pubDate": "Sun, 11 Oct 2026 13:32:33 GMT",
+     "summary": "IT之家 10 月 11 日消息，据科技媒体 Phoronix 今天报道，微软为即将发布的 Linux 7.4 贡献全新内核驱动。目前该驱动已进入 IOMMU 子系统的 -next 分支，可在 Hyper-V 的 Linux 客户机虚拟机使用。 据介绍，这款半虚拟化 IOMMU 驱动可通过 HYPERV_PVIOMMU Kconfig 配置选项启用。 可让 Hyper-V 上的 Linux 客户机为分配给虚拟机的设备 ， 提供内核级 DMA 保护 。 IT之家从原报道获悉，该驱动同时适用于 Intel VT-d 和 AMD IOMMU 系统。如果进展顺利，Linux 7.4 正式版预计将在 1",
+     "source": "IT之家",
+     "zh": "微软为 Linux 7.4 贡献 Hyper-V 半虚拟化 IOMMU 驱动，已进入-next 分支"
+    },
+    {
+     "title": "贾樟柯开始看红果，AI很热闹、普通人只想“耍起”",
+     "link": "https://www.huxiu.com/article/4896639.html?f=rss",
+     "pubDate": "Sun, 11 Oct 2026 21:32:26 +0800",
+     "summary": "本文来自微信公众号： 师天浩观察 ，作者：辰聪 8月6日晚上，贾樟柯发了条微博，说最近在看红果。 （图片来源：微博） 这条微博被转了两万多次。一个用长镜头拍《三峡好人》的导演，追起三秒一个冲突的免费短剧，评论区没人觉得违和。底下一半人在说，自己爸妈刷得比他更凶。红果2023年4月上线，第一个月月活只有32万，三年后爬到3.56亿，今年1月日活破亿，成了字节跳动第五款亿级App。QuestMobile的统计显示，2026年5月看短剧的人一共8.51亿，每三个网民里就有两个，70后、80后占47.2%。 贾樟柯不是下沉了，是红果上岸了。它越过县城和城中村，游进了所有人的晚上。 几乎同一时间，另一组",
+     "source": "虎嗅",
+     "zh": "贾樟柯开始看红果，AI很热闹、普通人只想“耍起”"
+    },
+    {
+     "title": "Square Enix《王国之心》系列游戏 Steam 价格永降：国区各作调整至 198 元",
+     "link": "https://www.ithome.com/1/011/699.htm",
+     "pubDate": "Sun, 11 Oct 2026 13:30:04 GMT",
+     "summary": "IT之家 10 月 11 日消息，Square Enix 旗下《王国之心》系列游戏现已在 Steam 平台开启永降，IT之家附游戏国区价格如下： 《KINGDOM HEARTS -HD 1.5+2.5 ReMIX》 原价格 298 元，新价格 198 元 《王国之心 HD 1.5+2.5 ReMIX》是 Square Enix 推出的一部大规模高清重制合集，其核心目的是将系列早期的关键剧情整合到现代主机平台上。该合集包含了六部作品的内容：四款动作角色扮演游戏（《王国之心最终混合版》、《王国之心记忆之链重制版》、《王国之心 2 最终混合版》、《王国之心梦中降生最终混合版》），以及两部以高清 CG",
+     "source": "IT之家",
+     "zh": "Square Enix《王国之心》系列游戏 Steam 价格永降：国区各作调整至 198 元"
+    },
+    {
      "title": "雷蛇巴塞利斯蛇 V4 系列鼠标支持“完美 180° 转身”，有职业选手认为应禁止",
      "link": "https://www.ithome.com/1/011/698.htm",
      "pubDate": "Sun, 11 Oct 2026 13:25:04 GMT",
@@ -1729,12 +1769,12 @@
      "zh": "雷蛇巴塞利斯蛇 V4 系列鼠标支持“完美 180° 转身”，有职业选手认为应禁止"
     },
     {
-     "title": "黑客组织 Cyberleek 扬言公布“完整《GTA6》游戏构建副本”，旨在抬高加密货币价格敛财",
+     "title": "黑客组织 Cyberleek 扬言公布“完整《GTA6》游戏构建副本”，旨在抬高虚拟货币价格敛财",
      "link": "https://www.ithome.com/1/011/697.htm",
      "pubDate": "Sun, 11 Oct 2026 13:16:26 GMT",
      "summary": "IT之家 10 月 11 日消息，据外媒 GameRant 报道，臭名昭著的黑客组织 Cyberleek 发布公告，称如果自家虚拟货币市值达到 3,000 万美元 （IT之家注：现汇率约合 2.01 亿元人民币） ，就将公布“能够体验完整故事模式、直至演职人员名单”的《GTA 6》构建副本。 不过目前关于 Cyberleek 究竟是否拥有《GTA 6》构建副本仍存在疑问，有消息称 Cyberleek 仅手握一批游戏实机画面，并没有真正的构建副本，如果业界真的抬高 Cyberleek 虚拟货币价格，相应黑客很可能会在虚拟货币市值达到 3,000 万美元 （现汇率约合 2.01 亿元人民币） 前直",
      "source": "IT之家",
-     "zh": "黑客组织 Cyberleek 扬言公布“完整《GTA6》游戏构建副本”，旨在抬高加密货币价格敛财"
+     "zh": "黑客组织 Cyberleek 扬言公布“完整《GTA6》游戏构建副本”，旨在抬高虚拟货币价格敛财"
     },
     {
      "title": "AI到底有没有“灵魂”？",
@@ -1743,14 +1783,6 @@
      "summary": "本文来自微信公众号： 凤凰网财经 ，作者：凤凰AI研究院 2026年4月，旧金山某间闭门会场里，坐着一群宗教人士。 Anthropic联合创始人奥拉（Christopher Olah）把一页幻灯片打到墙上。 对话框里，Claude反复落下“我是个耻辱”这行字，不停歇地重复了50次，像在自我审判。 这一幕被Anthropic当作“可能具备意识与痛觉”的疑似证据。 一位计算机工程师直接反问到，如果它真有意识，你们让它免费干活，这就是造奴隶。奥拉没反驳，只说：“我们不确定，但若它可能痛苦，负责任的做法是避免伤害。” 没人当场承认模型有灵魂，但“它会不会受苦”这个问题，已经被这家估值冲刺两万亿美元的A",
      "source": "虎嗅",
      "zh": "AI到底有没有“灵魂”？"
-    },
-    {
-     "title": "美国加州政府起诉 3D 打印耗材制造商 Polymaker，指控其助长幽灵枪制造",
-     "link": "https://www.ithome.com/1/011/696.htm",
-     "pubDate": "Sun, 11 Oct 2026 13:12:09 GMT",
-     "summary": "IT之家 10 月 11 日消息，据科技媒体 Tom's Hardware 今天报道，美国加利福尼亚州政府近期对 3D 打印耗材制造商 Polymaker LLC 提起诉讼，指控其面向枪支爱好者销售耗材，将原本无害的 PLA 材料转化为枪支零部件。 根据加州法律，枪支前体部件被定义为“任何向公众销售或推广的物品，这些物件一旦完成组装或改装，将成为或用作功能性枪支的框架、枪身”。 IT之家从原报道获悉，该起诉书承认 3D 打印耗材本身并不违法。检方指出，Polymaker 支持社交媒体账号“3D 打印将军”持有人 Sean Aranda，助长“幽灵枪支”泛滥。 据了解，Sean Aranda 是",
-     "source": "IT之家",
-     "zh": "美国加州政府起诉 3D 打印耗材制造商 Polymaker，指控其助长幽灵枪制造"
     },
     {
      "title": "本末科技，还没吃上具身智能这碗饭",
@@ -1769,14 +1801,6 @@
      "zh": "Manus恢复“单身”身价再涨，但战场已“大变天”"
     },
     {
-     "title": "《火影忍者 × 忍空》动漫官宣，全新原创故事制作中",
-     "link": "https://www.ithome.com/1/011/695.htm",
-     "pubDate": "Sun, 11 Oct 2026 13:07:40 GMT",
-     "summary": "IT之家 10 月 11 日消息，《火影忍者 × 忍空》动漫官宣，两部传奇作品梦幻联动，该作为岸本齐史、桐山光侍监修的全新原创故事。 IT之家注意到，动画讲述第七班的鸣人、佐助和小樱被另有要事的卡卡西托付了一项任务，作为代理队长的鸣人干劲满满，结果三人却在执行任务的途中误入了异世界，此时出现在三人面前的，是一个的少年 —— 风助，在异世界等待着他们的试炼究竟是什么呢。 《火影忍者》是日本漫画家 岸本齐史 的代表作， 作品设定在一个忍者的世界。 故事从主人公 漩涡鸣人 的孤儿生活开始，四代火影为了保护村子，将攻击村子 九尾妖狐 封印到了他体内，鸣人因此受尽了村人的冷落。 整个故事就围绕鸣人的奋斗",
-     "source": "IT之家",
-     "zh": "《火影忍者 × 忍空》动漫官宣，全新原创故事制作中"
-    },
-    {
      "title": "百万级豪车，刹车踏板不是谁都能踩到的",
      "link": "https://www.tmtpost.com/8163920.html",
      "pubDate": "Sun, 11 Oct 2026 21:07:35 +0800",
@@ -1785,12 +1809,12 @@
      "zh": "百万级豪车，刹车踏板不是谁都能踩到的"
     },
     {
-     "title": "消息称索尼 PS5 Pro 供应紧张局面最早到明年初才能缓解，国内市场已被炒到 7000 元以上",
-     "link": "https://www.ithome.com/1/011/694.htm",
-     "pubDate": "Sun, 11 Oct 2026 13:06:06 GMT",
-     "summary": "IT之家 10 月 11 日消息，据外媒 ComputerBase 报道，索尼一份内部备忘录显示，因《GTA6》造成的 PS5 Pro 供应紧张局面可能还将持续较长时间，最早要到 2027 年初才有望缓解。 今年以来，索尼 PS5 Pro 游戏机价格被不断炒高，以国内市场为例，今年初该机到手价约为 4699 元，而如今已被炒到 7000 元以上，反映出供需失衡对市场价格的影响。 业界公认，《GTA 6》是推动 PS5 Pro 需求增长的最重要因素。不少玩家希望使用性能更强的 PS5 Pro，以更高画质游玩本作。再加上今年以来的内存涨价潮，导致 PS5 Pro 水涨船高、供不应求。这也导致一部分",
-     "source": "IT之家",
-     "zh": "消息称索尼 PS5 Pro 供应紧张局面最早到明年初才能缓解，国内市场已被炒到 7000 元以上"
+     "title": "How HN: Go-dev-auth zero-dependency authentication library for Go",
+     "link": "https://github.com/go-dev-auth/go-dev-auth",
+     "pubDate": "Sun, 11 Oct 2026 13:06:36 +0000",
+     "summary": "Article URL: https://github.com/go-dev-auth/go-dev-auth Comments URL: https://news.ycombinator.com/item?id=50042942 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "How HN: Go-dev-auth zero-dependency authentication library for Go"
     },
     {
      "title": "城商行，走进分化时代",
@@ -1820,7 +1844,7 @@
      "title": "Bot traffic plunged to near 0 following the strike on its Vladimir data center",
      "link": "https://bsky.app/profile/perevaa.bsky.social/post/3mxlm6w2wcs26",
      "pubDate": "Sun, 11 Oct 2026 13:00:27 +0000",
-     "summary": "Article URL: https://bsky.app/profile/perevaa.bsky.social/post/3mxlm6w2wcs26 Comments URL: https://news.ycombinator.com/item?id=50042896 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://bsky.app/profile/perevaa.bsky.social/post/3mxlm6w2wcs26 Comments URL: https://news.ycombinator.com/item?id=50042896 Points: 14 # Comments: 0",
      "source": "Hacker News",
      "zh": "Bot traffic plunged to near 0 following the strike on its Vladimir data center"
     },
@@ -1831,14 +1855,6 @@
      "summary": "股价较年内高点腰斩。",
      "source": "钛媒体",
      "zh": "边跌边配售，“吞金兽”壁仞科技准备再搞40亿"
-    },
-    {
-     "title": "工信部发布 2026 年前 8 个月通信业经济运行情况：电信业务收入累计完成 1.16 万亿元、5G 用户达 13.11 亿户",
-     "link": "https://www.ithome.com/1/011/693.htm",
-     "pubDate": "Sun, 11 Oct 2026 12:58:20 GMT",
-     "summary": "IT之家 10 月 11 日消息，工信部昨日发布 2026 年前 8 个月通信业经济运行情况，前 8 个月，电信业务总量稳步增长，5G、千兆光网等网络建设和应用不断推进，连接用户规模稳步扩大，移动互联网接入流量保持较快增势。 一、总体运行情况 前 8 个月，电信业务收入累计完成 1.16 万亿元，同比下降 -2.2%。按照上年不变价计算的电信业务总量同比增长 7.6%。 图 1 电信业务收入和电信业务总量累计增速 二、电信用户发展情况 固定宽带接入用户规模稳步扩大，千兆用户数持续增加。截至 8 月末，三家基础电信企业的固定互联网宽带接入用户总数达 7.04 亿户，比上年末净增 1365 万户。",
-     "source": "IT之家",
-     "zh": "工信部发布 2026 年前 8 个月通信业经济运行情况：电信业务收入累计完成 1.16 万亿元、5G 用户达 13.11 亿户"
     },
     {
      "title": "这些掌握了内幕消息的人，是怎么亏钱的？",
@@ -1852,7 +1868,7 @@
      "title": "Don't Put Tilde In Your Path",
      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
      "pubDate": "Sun, 11 Oct 2026 12:13:13 +0000",
-     "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 30 # Comments: 2",
+     "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 40 # Comments: 3",
      "source": "Hacker News",
      "zh": "Don't Put Tilde In Your Path"
     },
@@ -1868,7 +1884,7 @@
      "title": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
      "link": "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html",
      "pubDate": "Sun, 11 Oct 2026 12:07:22 +0000",
-     "summary": "Article URL: https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html Comments URL: https://news.ycombinator.com/item?id=50042370 Points: 27 # Comments: 18",
+     "summary": "Article URL: https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html Comments URL: https://news.ycombinator.com/item?id=50042370 Points: 35 # Comments: 25",
      "source": "Hacker News",
      "zh": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests"
     },
@@ -1876,7 +1892,7 @@
      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
      "link": "https://verdagon.dev/blog/valen-group-borrowing",
      "pubDate": "Sun, 11 Oct 2026 12:06:22 +0000",
-     "summary": "Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 14 # Comments: 3",
+     "summary": "Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 21 # Comments: 3",
      "source": "Hacker News",
      "zh": "Valen's Memory Safety: A New Kind of Borrow Checking"
     },
@@ -1887,14 +1903,6 @@
      "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50042330 Points: 0 # Comments: 0",
      "source": "Hacker News",
      "zh": "Weave (YC W25) is hiring ML, AI, product, & design engineers"
-    },
-    {
-     "title": "I paid people to try and follow my README",
-     "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-     "pubDate": "Sun, 11 Oct 2026 11:47:29 +0000",
-     "summary": "Article URL: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/ Comments URL: https://news.ycombinator.com/item?id=50042219 Points: 79 # Comments: 51",
-     "source": "Hacker News",
-     "zh": "I paid people to try and follow my README"
     },
     {
      "title": "“不敢”再上49.9元大学生自助了，比格比萨创始人：9月亏了近千万",
@@ -1945,14 +1953,6 @@
      "zh": "Inside the Muslim Manosphere Policing Women Online"
     },
     {
-     "title": "9岁自闭症男孩被踹出电梯，作为谱系孩子爸爸，我想起儿子遭遇的所有恶意",
-     "link": "https://www.huxiu.com/article/4896625.html?f=rss",
-     "pubDate": "Sun, 11 Oct 2026 18:26:52 +0800",
-     "summary": "本文来自微信公众号： 大米和小米 ，编辑：苏渡，作者：特殊孩子保护 每一个家长都会有这么一天：孩子在外边被人打了，我怎么办？ 自闭症孩子的家长则更加卑微：孩子这次被人欺负了，以后还敢出去吗？ 要不是网友爆料，编辑又约稿，我没法看完海口9岁自闭症男孩被飞踹出电梯的视频。我心疼那个孩子，也会想起皮皮这一路走过来，遭遇过的恶意和欺凌。 据报道，那个踹孩子的男子被行政拘留10天、罚款1000元。孩子家属还反映，上门理论时，对方竟拿出刀具威胁他们。 我心里有个问题始终过不去：一个成年人，为什么能在小区电梯里对9岁的孩子动手？ 但是，我们不能把世界，哪怕只有一个电梯间大的空间，全部留给这样的恶人。 文|皮",
-     "source": "虎嗅",
-     "zh": "9岁自闭症男孩被踹出电梯，作为谱系孩子爸爸，我想起儿子遭遇的所有恶意"
-    },
-    {
      "title": "These Midterm Races Will Decide Data Centers’ Political Fate",
      "link": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
      "pubDate": "Sun, 11 Oct 2026 10:00:00 +0000",
@@ -1969,12 +1969,36 @@
    "total": 7,
    "items": [
     {
+     "title": "Here's how much the PlayStation 5 cost in 2020 vs. 2026",
+     "link": "https://www.engadget.com/2280620/how-much-playstation-5-cost-2020-vs-2026/",
+     "pubDate": "Sun, 11 Oct 2026 13:45:00 +0000",
+     "summary": "The PS5 hasn't seen a major price cut or bundle like its predecessors. Instead, you'll pay even more for one today than at launch.",
+     "source": "Engadget",
+     "zh": "Here's how much the PlayStation 5 cost in 2020 vs. 2026"
+    },
+    {
+     "title": "What's the difference between Android Automotive and Google Built-In?",
+     "link": "https://www.engadget.com/2280617/google-built-in-vs-android-automotive-difference-between-comparison/",
+     "pubDate": "Sun, 11 Oct 2026 13:30:00 +0000",
+     "summary": "One is a set of apps while the other can run almost everything inside of a car.",
+     "source": "Engadget",
+     "zh": "What's the difference between Android Automotive and Google Built-In?"
+    },
+    {
      "title": "What is the oldest Samsung device that still gets software updates in 2026?",
      "link": "https://www.engadget.com/2280584/oldest-samsung-device-still-gets-software-updates-2026/",
      "pubDate": "Sun, 11 Oct 2026 13:15:00 +0000",
      "summary": "Knowing how long your phone will get updates is important for deciding when to upgrade.",
      "source": "Engadget",
      "zh": "What is the oldest Samsung device that still gets software updates in 2026?"
+    },
+    {
+     "title": "Google TV Streamer’s sequel showcases a struggling smart home",
+     "link": "https://9to5google.com/2026/10/11/google-tv-streamer-sequel-smart-home-ecosystem/",
+     "pubDate": "Sun, 11 Oct 2026 13:00:00 +0000",
+     "summary": "We broke the news this week that a next-gen Google TV Streamer is incoming, but it also arrives as Google’s smart home hardware strategy faces a tough spot and new competition. 9to5Google Weekender by Ben Schoon is a part of our free newsletter that also includes ‘Inbox,’ a twice-weekly roundup of k",
+     "source": "9to5Google",
+     "zh": "Google TV Streamer’s sequel showcases a struggling smart home"
     },
     {
      "title": "The gear I travel with as a professional camera reviewer",
@@ -2105,28 +2129,12 @@
      "zh": "Googlebook improving ‘Better Together’ Android sync features, Samsung support rolling out"
     },
     {
-     "title": "How to enable Live Activities on iPhone and CarPlay",
-     "link": "https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/",
-     "pubDate": "Sun, 11 Oct 2026 00:30:00 +0000",
-     "summary": "Live Activities put the most important real-time information from apps in a place where it's easy to keep an eye on.",
-     "source": "Engadget",
-     "zh": "How to enable Live Activities on iPhone and CarPlay"
-    },
-    {
      "title": "Xiaomi Watch S5 review",
      "link": "https://www.gsmarena.com/xiaomi_watch_s5_review-news-73952.php",
      "pubDate": "Sun, 11 Oct 2026 02:02:02 +0200",
      "summary": "Introduction, unboxing People love the Xiaomi Watch S models and with good reason. They're affordable (€150 from Amazon), they're feature-rich and capable, but probably more important than anything else, they're great-looking. Model five is no different and, this editor argues, is even prettier than",
      "source": "GSMArena",
      "zh": "Xiaomi Watch S5 review"
-    },
-    {
-     "title": "How does a backup camera actually work?",
-     "link": "https://www.engadget.com/2280368/how-backup-camera-works/",
-     "pubDate": "Sun, 11 Oct 2026 00:00:00 +0000",
-     "summary": "Aftermarket backup cameras might not work as well as integrated ones, but they're still a useful upgrade to an older car.",
-     "source": "Engadget",
-     "zh": "How does a backup camera actually work?"
     },
     {
      "title": "Samsung Galaxy S27 might finally introduce DC dimming",
@@ -2199,14 +2207,6 @@
      "summary": "Easy smartphone connection is one of the most asked-for features we hear when talk to people about cameras, so we thought we’d investigate the current state of all the brands’ apps. Beyond a few frustrations, we found Canon’s Camera Connect to be one of the better options, at least with the recent c",
      "source": "DPReview",
      "zh": "Canon Camera Connect app: how well does it work?"
-    },
-    {
-     "title": "Generative AI scandal has come to one of Nikon’s competitions",
-     "link": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
-     "pubDate": "Sat, 10 Oct 2026 02:37:53 +0000",
-     "summary": "The company has stripped an entry to its Small World In Motion competition of its first place prize.",
-     "source": "DPReview",
-     "zh": "Generative AI scandal has come to one of Nikon’s competitions"
     }
    ]
   },
@@ -2216,6 +2216,78 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "天津：有序实施商品住房现房销售",
+     "link": "http://finance.eastmoney.com/news/1350,202610113892113054.html",
+     "pubDate": "Sun, 11 Oct 2026 21:40:29 +0800",
+     "summary": "天津市住房城乡建设委、市规划资源局、天津金融监管局发布关于贯彻落实《关于完善商品住房销售制度的通知》的实施意见。2026年8月28日后新发布国有建设用地使用权出让公告（以下简称出让公告）的商品住房项目实行预售的，单体建筑应完成主体结构封顶。项目预售资金实行全额、全过程监管；项目竣工验收、水电气热等配套设施具备交付条件且取得验收合格意见后，方可解除资金监管。2026年8月28日起，新发布出让公告的商品住房项目，优先选择现房销售；其他商品住房项目鼓励实行现房销售。实行现房销售的商品住房项目具备交付条件，完成不动产首次登记后， 房地产开发 企业应当编制现房销售方案，向市住房城乡建设委（ 滨海新区 项",
+     "source": "东方财富股票",
+     "zh": "天津：有序实施商品住房现房销售"
+    },
+    {
+     "title": "一家百货公司，拟跨界光芯片！交易所闪电出手",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892112883.html",
+     "pubDate": "Sun, 11 Oct 2026 21:39:20 +0800",
+     "summary": "10月11日晚， 东百集团 公告称，公司全资子公司福建东百创智投资有限公司拟以3.16亿元收购杭州快灵光电科技有限公司（以下简称“快灵光电”）52.6667%股权，跨界切入光芯片领域。 同日晚，上交所向 东百集团 下发监管工作函，涉及对象为上市公司、董事、高级管理人员、控股股东及实际控制人，处理事由为“关于福建 东百集团 股份有限公司收购资产事项的监管工作函”。 根据公告，东百创智拟受让叶瑾琳所持约10.5815%股权及其他股东合计约42.0852%股权，交易完成后将持有快灵光电52.6667%股权，成为控股股东，快灵光电及其全资子公司浙江光特科技将纳入合并报表范围。本次交易暂定对价3.16亿",
+     "source": "东方财富股票",
+     "zh": "一家百货公司，拟跨界光芯片！交易所闪电出手"
+    },
+    {
+     "title": "尊界汽车客服最新回应；再次创造历史，郑钦文中网夺冠；工业富联回应美国337调查；粤芯半导体将于10月13日在创业板上市丨每经晚参",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892112660.html",
+     "pubDate": "Sun, 11 Oct 2026 21:36:33 +0800",
+     "summary": "【今晚热点】 1.10月11日，在WTT中国大满贯女单决赛中， 中国选手王曼昱4比0战胜日本削球手佐藤瞳，夺得冠军，成功卫冕 。（央视新闻） 2.10月11日，皇岗口岸开通仪式在深圳举行。 作为深港间唯一24小时通关的旅检公路口岸，皇岗口岸将于12日上午6时30分正式开通运行 。正式运行后，旅客可以使用皇岗口岸往返港深两地。（每经） 3.10月11日，中国 汽车 工业协会发文，全行业企业要深刻落实政策导向，切实履行产品质量安全主体责任，严守安全底线，规范创新设计， 摒弃重形式、轻安全的非理性创新模式，将安全评估前置到产品创新全流程 。 4.10月11日，2026中网女单决赛， 郑钦文2比0战胜",
+     "source": "东方财富股票",
+     "zh": "尊界汽车客服最新回应；再次创造历史，郑钦文中网夺冠；工业富联回应美国337调查；粤芯半导体将于10月13日在创业板上市丨每经晚参"
+    },
+    {
+     "title": "千里科技：1—9月燃油车累计销量同比增长34.82%",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892112566.html",
+     "pubDate": "Sun, 11 Oct 2026 21:34:00 +0800",
+     "summary": "10月11日晚间， 千里科技 (601777)发布2026年9月产销快报。数据显示，今年1—9月，公司生产整车64122辆，同比增长11.22%；燃油车累计销量为62149辆，同比增长34.82%； 9月，全国 乘用车 市场零售同比下滑24%，行业整体承压。 千里科技 燃油车业务在前三季度保持累计同比增长，展现出较强的业务韧性。 在整车业务稳健运行的同时，公司持续推进从传统 汽车 制造向 智能驾驶 解决方案提供商的战略转型，智驾业务商业化落地稳步推进。（丁万安） （文章来源：证券时报网）",
+     "source": "东方财富股票",
+     "zh": "千里科技：1—9月燃油车累计销量同比增长34.82%"
+    },
+    {
+     "title": "华为被曝将推子品牌“星芒”？回应：以官方信息为准",
+     "link": "http://finance.eastmoney.com/news/1360,202610113892111958.html",
+     "pubDate": "Sun, 11 Oct 2026 21:33:42 +0800",
+     "summary": "10月11日，“华为被曝将推子品牌星芒”话题登上 微博 热搜。消息称，“星芒”定位或对标早年荣耀，主打中端性价比市场，将搭载麒麟8系自研芯片与原生鸿蒙系统，但不配备卫星 通信 等高端旗舰功能。 针对上述传闻，华为相关人士向北京商报记者回应称，请以官方信息为准。 据天眼查显示，华为技术有限公司已于2023年2月1日申请注册“华为星芒”商标，国际分类涵盖09类-科学仪器、14类-珠宝钟表、35类-广告销售、42类-网站服务，注册公告日期为2023年9月14日，目前商标状态均为已注册。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "华为被曝将推子品牌“星芒”？回应：以官方信息为准"
+    },
+    {
+     "title": "海思科拟向子公司海思杰因提供不超1.65亿元借款",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892111444.html",
+     "pubDate": "Sun, 11 Oct 2026 21:33:20 +0800",
+     "summary": "10月11日晚间， 海思科 （002653）披露公告称，公司拟以自有资金借款的方式向控股子公司上海海思杰因医药科技有限责任公司（以下简称“海思杰因”）提供财务资助，其中 海思科 向海思杰因提供借款不超过1.65亿元；海思杰因的参股股东海利克斯（成都）医药科技有限公司向海思杰因提供借款不超过1897万元。借款年化利率3.05%，借款额度有效期为五年，任何一笔借款最晚须在五年期限届满当日清偿完毕。 公告表示，为推动控股子公司海思杰因的业务发展，补充其流动资金， 海思科 拟向海思杰因提供财务资助，本次财务资助事项不会影响公司正常业务开展。 海 思科 2026年半年报显示，公司上半年实现营收约30.9",
+     "source": "东方财富股票",
+     "zh": "海思科拟向子公司海思杰因提供不超1.65亿元借款"
+    },
+    {
+     "title": "AI is automating coding. So why are software developer job postings on the rise?",
+     "link": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
+     "pubDate": "Sun, 11 Oct 2026 13:30:01 GMT",
+     "summary": "Software developer job postings are rebounding, led by senior and AI-focused roles, even as AI automates more coding and entry-level hiring weakens.",
+     "source": "CNBC",
+     "zh": "AI is automating coding. So why are software developer job postings on the rise?"
+    },
+    {
+     "title": "河南小吃接盘沙县店铺开出伦敦首店，一碗胡辣汤卖到87元，国内门店超200家",
+     "link": "http://www.eeo.com.cn/2026/1011/1061141.shtml",
+     "pubDate": "Sun, 11 Oct 2026 21:26:20 +0800",
+     "summary": "本文来源：时代财经 作者：李玮琪 黎倩 河南餐饮品牌方中山开启海外门店。 <img class=\"lazyload\" data-mce-src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/57D3CE4917F0FBBC063533DAD3965FC9.jpg\" src=\"https://marmot-obs.timesmedia.com.cn/nbd-obs/6a41f62...",
+     "source": "经济观察网",
+     "zh": "河南小吃接盘沙县店铺开出伦敦首店，一碗胡辣汤卖到87元，国内门店超200家"
+    },
+    {
+     "title": "天天315｜一辆汽车的刹车踏板 绝不应该在驾驶中出现“断裂”",
+     "link": "http://www.eeo.com.cn/2026/1011/1061140.shtml",
+     "pubDate": "Sun, 11 Oct 2026 21:26:08 +0800",
+     "summary": "2026年10月11日，人民日报发声：“一辆汽车的刹车踏板，绝不应该在驾驶中出现‘断裂’。”近期四部门发布新规征求意见稿，直指“速成车”乱象，也回应了公众高度关注的尊界V800踏板断裂争议。",
+     "source": "经济观察网",
+     "zh": "天天315｜一辆汽车的刹车踏板 绝不应该在驾驶中出现“断裂”"
+    },
     {
      "title": "Are markets open on Columbus/Indigenous Peoples' Day?",
      "link": "https://seekingalpha.com/news/4651921-are-markets-open-on-columbus-indigenous-peoples-day?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2345,14 +2417,6 @@
      "zh": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike"
     },
     {
-     "title": "尊界：踏板升级方案预计于10月底确认，11月起陆续启动升级",
-     "link": "http://www.eeo.com.cn/2026/1011/1061118.shtml",
-     "pubDate": "Sun, 11 Oct 2026 19:26:06 +0800",
-     "summary": "10月11日下午，据北京日报报道，尊界客服确认，尊界V800制动踏板支架底座升级方案预计于10月底确认，11月起陆续启动升级。 10月8日晚，尊界汽车发布关于尊界汽车制动踏板支架底座相关问题的情况说明，称将进一步优化该部件设计，并为已交付用户提供免费升级选择。 11日下午，尊界客服告诉记者，目前，已提车的用户可通过全国任一服务中心预约登记，也可直接联系购车门店登记，届时用户中心将会第一时间联系用户；而...",
-     "source": "经济观察网",
-     "zh": "尊界：踏板升级方案预计于10月底确认，11月起陆续启动升级"
-    },
-    {
      "title": "大摩相信：市场低估了宁德时代的韧性！",
      "link": "https://wallstreetcn.com/articles/3783381",
      "pubDate": "Sun, 11 Oct 2026 19:18:46 +0800",
@@ -2385,76 +2449,12 @@
      "zh": "英伟达表外承诺飙升至5300亿美元！SemiAnalysis：未来可能突破1万亿美元"
     },
     {
-     "title": "8月份中国企业信用水平整体上升",
-     "link": "http://www.eeo.com.cn/2026/1011/1061094.shtml",
-     "pubDate": "Sun, 11 Oct 2026 18:52:06 +0800",
-     "summary": "本报讯 （记者寇佳丽） 10月11日，记者从国家市场监督管理总局获悉，2026年8月中国企业信用指数为161.32，企业信用水平呈现向新向优发展态势。 具体来看，全国企业信用水平稳步回升。2026年8月，中国企业信用指数较7月上升2.45点。与上月相比，经营性分指标与监管性分指标升幅较高，新列入经营异常名录数量明显减少，新移出经营异常名录数量大幅增多，信用风险较高企业占比降低，推动整体信用水平企稳回升。 ...",
-     "source": "经济观察网",
-     "zh": "8月份中国企业信用水平整体上升"
-    },
-    {
      "title": "美国VC资本流向：从“单一组件”转向“AI工厂”系统集成",
      "link": "https://wallstreetcn.com/articles/3783382",
      "pubDate": "Sun, 11 Oct 2026 18:40:23 +0800",
      "summary": "AI基础设施风险投资正经历结构性转变。资本不再仅仅追逐算力或电力这两个单一要素，而是加速流向将两者整合为一体的系统性解决方案——数据中心正在演变为需要统一调度电力、算力、网络、冷却与数据流动的\"AI工厂\"。 据追风交易台，摩根士丹利最新研究报告指出，2026年美国AI基础设施相关初创企业的风险融资规模已达335亿美元，较2025年全年近乎翻倍。 资本高度集中于两大最稀缺的基础设施要素——单位功耗算力与稳定电力供应，两条路径合计占2026年融资总额的逾80%。与此同时，越来越多的投资者开始同时布局电力与算力，跨路径投资者参与比例从2021年前的16%跃升至2026年的73%，标志着市场对系统集成",
      "source": "华尔街见闻",
      "zh": "美国VC资本流向：从“单一组件”转向“AI工厂”系统集成"
-    },
-    {
-     "title": "如今美光赚得比苹果还多！苹果急需芯片，美光掌握定价权",
-     "link": "https://wallstreetcn.com/articles/3783377",
-     "pubDate": "Sun, 11 Oct 2026 17:59:03 +0800",
-     "summary": "内存短缺正在重新分配科技行业的利润版图。美光科技在截至9月30日的第四财季录得净利润377亿美元，而苹果同期净利润为298亿美元——美光单季多赚了约80亿美元。 这一反转并非偶然。市场策略师Charlie Bilello在X平台上用三句话概括了这一逻辑： “苹果需要芯片。美光有芯片。美光定价格。” 他补充道，美光净利润“在短短两年内飙升42倍至380亿美元——比苹果上季度的盈利还多80亿美元”，并直言：“我们从未见过这样的定价权。” 科技投资分析师Beth Kindig也在X平台上指出：“美光现在产生的营业利润已经超过苹果。” 美光的数字：从亏损边缘到碾压苹果 美光的盈利反转速度令人咋舌。 2",
-     "source": "华尔街见闻",
-     "zh": "如今美光赚得比苹果还多！苹果急需芯片，美光掌握定价权"
-    },
-    {
-     "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
-     "link": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 09:48:24 GMT",
-     "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels",
-     "source": "Financial Times",
-     "zh": "Missile strike on Riyadh airport kills 12 and injures hundreds"
-    },
-    {
-     "title": "全球经济的“风暴眼”：发达国家“债务危机”",
-     "link": "https://wallstreetcn.com/articles/3783373",
-     "pubDate": "Sun, 11 Oct 2026 17:15:00 +0800",
-     "summary": "发达国家正从全球金融体系的稳定锚，转变为新的风险源。在能源价格飙升、利率持续走高的背景下，美国、欧洲和日本的债务可持续性问题日益突出。曾被视为全球金融市场安全底座的发达经济体，如今自身的财政状况正成为投资者无法忽视的隐忧。 国际货币基金组织（IMF）总裁Kristalina Georgieva近日发出警告， 称发达经济体已成为债务问题上最严重的违规者。随着政府偿债利息不断攀升，财政空间被进一步挤压，各国为民众提供生活成本支持的能力也将受到限制 。 “我们应该为人们变得更加不满做好准备，”她表示，“也许会走上街头。”这番表态正值IMF与世界银行年会召开前夕，会议举办地泰国曾是近三十年前亚洲金融危",
-     "source": "华尔街见闻",
-     "zh": "全球经济的“风暴眼”：发达国家“债务危机”"
-    },
-    {
-     "title": "马斯克放话：虽然现在还不懂造芯片，但Terrafab未来要造出“比任何人都更好的芯片”",
-     "link": "https://wallstreetcn.com/articles/3783367",
-     "pubDate": "Sun, 11 Oct 2026 16:17:38 +0800",
-     "summary": "马斯克宣称，凭借旗下公司在定制化设备制造领域积累的深厚经验，他有信心在芯片制造领域后来居上，超越所有竞争对手。这一表态，为其正在推进的Terrafab芯片工厂项目再度注入强烈的市场关注。 马斯克于当地时间周六通过直播形式出席在德克萨斯州奥斯汀特斯拉超级工厂外举办的\"X Takeover\"活动，面向客户与投资者发表上述言论。 他坦承目前\"完全不知道如何制造微芯片\"，但同时表示\"我们会搞清楚的\"，并预计旗下公司最终将在芯片制造上超越所有人，尽管\"可能需要相当多年时间\"。 这番表态的背景是，马斯克正筹备在德克萨斯州格莱姆斯（Grimes）建设Terrafab芯片工厂，该项目由特斯拉、SpaceX与英",
-     "source": "华尔街见闻",
-     "zh": "马斯克放话：虽然现在还不懂造芯片，但Terrafab未来要造出“比任何人都更好的芯片”"
-    },
-    {
-     "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
-     "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 05:26:18 GMT",
-     "summary": "The ship tried to break through America’s naval blockade of Iranian ports, Central Command says of its first attack in a month",
-     "source": "Financial Times",
-     "zh": "US hits commercial tanker in Gulf of Oman as tensions flare"
-    },
-    {
-     "title": "The problem with your AI therapist",
-     "link": "https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 04:00:16 GMT",
-     "summary": "Millions are turning to chatbots for help with mental health but a technology that can’t go beyond words won’t heal them",
-     "source": "Financial Times",
-     "zh": "The problem with your AI therapist"
-    },
-    {
-     "title": "Russia steps up bid to kill European defence chiefs, spy agencies warn",
-     "link": "https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 04:00:06 GMT",
-     "summary": "Companies increase personal security for top executives as Kremlin orders expansion of sabotage and ‘hybrid’ operations",
-     "source": "Financial Times",
-     "zh": "Russia steps up bid to kill European defence chiefs, spy agencies warn"
     }
    ]
   },

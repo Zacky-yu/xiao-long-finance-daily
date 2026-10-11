@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/12 03:01:20",
+ "generated_at": "2026/10/12 03:09:52",
  "recent_days": 7,
  "industries": [
   {
@@ -12,7 +12,7 @@
      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
      "pubDate": "Sun, 11 Oct 2026 19:00:00 +0000",
-     "summary": "In less than 48 hours, the doors open for TechCrunch Disrupt 2026 at San Francisco’s Moscone West. Save up to $100 on your ticket before prices increase at the door. Don’t forget to get a second pass at 50% off. Register now. On October 13-15, more than 10,000 founders, investors, and tech leaders w",
+     "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
      "source": "TechCrunch AI",
      "zh": "距离 TechCrunch Disrupt 2026 还有 48 小时——直接聆听未来发展者的心声"
     },
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "DAC 2027 Opens Call for Contributions as AI Reshapes Chip Design",
+     "link": "https://semiwiki.com/events/374512-374512/",
+     "pubDate": "Sun, 11 Oct 2026 19:00:56 +0000",
+     "summary": "The Design Automation Conference is the premier semiconductor ecosystem conference. I have attended 43 DACs including the most recent one in Long Beach. My first DAC was in Albuquerque NM. It was a month after my University so i was still in college mode. DAC was quite the celebration back then so I",
+     "source": "SemiWiki",
+     "zh": "DAC 2027 开放征稿，人工智能重塑芯片设计"
+    },
+    {
      "title": "CEO Interview with Alex Higginbottom of Zenithon",
      "link": "https://semiwiki.com/ceo-interviews/374398-ceo-interview-with-alex-higginbottom-of-zenithon/",
      "pubDate": "Sun, 11 Oct 2026 17:00:22 +0000",
@@ -359,14 +367,6 @@
      "summary": "Join our expert-led webinar to explore Infineon's comprehensive portfolio for Solid-State Transformers (SSTs). The post Solid-State Transformers: Accelerate Your SST Design appeared first on EE Times .",
      "source": "EE Times",
      "zh": "固态变压器：加速您的 SST 设计"
-    },
-    {
-     "title": "TSMC 2026 OIP Ecosystem Forum Summary",
-     "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/374104-tsmc-2026-oip-ecosystem-forum-summary/",
-     "pubDate": "Fri, 09 Oct 2026 15:00:13 +0000",
-     "summary": "TSMC’s 2026 Open Innovation Platform Forum presented artificial intelligence as the force reshaping semiconductor design. Its central argument is that faster chips will require progress across the whole system: logic, memory, packaging, interconnects, power delivery and design methods. TSMC places i",
-     "source": "SemiWiki",
-     "zh": "台积电2026 OIP生态论坛总结"
     },
     {
      "title": "Defence satcom revenues to surpass $23bn by 2035",
@@ -1729,14 +1729,6 @@
    "total": 18,
    "items": [
     {
-     "title": "Anthropic is out with new nonsense about Claude",
-     "link": "https://dair-community.social/@emilymbender/117412868905734653",
-     "pubDate": "Sun, 11 Oct 2026 18:16:54 +0000",
-     "summary": "Article URL: https://dair-community.social/@emilymbender/117412868905734653 Comments URL: https://news.ycombinator.com/item?id=50046117 Points: 4 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "《人择》发布了关于克劳德的新废话"
-    },
-    {
      "title": "A look at the economics of Anthropic&apos;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
      "link": "https://www.techmeme.com/261011/p9#a261011p9",
      "pubDate": "Sun, 11 Oct 2026 14:15:02 -0400",
@@ -1748,7 +1740,7 @@
      "title": "Total Annihilation, rebuilt for modern computers",
      "link": "https://nanolathe.gg",
      "pubDate": "Sun, 11 Oct 2026 18:04:47 +0000",
-     "summary": "Article URL: https://nanolathe.gg Comments URL: https://news.ycombinator.com/item?id=50045984 Points: 28 # Comments: 12",
+     "summary": "Article URL: https://nanolathe.gg Comments URL: https://news.ycombinator.com/item?id=50045984 Points: 60 # Comments: 27",
      "source": "Hacker News",
      "zh": "彻底歼灭，为现代计算机重建"
     },
@@ -1756,17 +1748,9 @@
      "title": "NYC's \"Click to Cancel\" rule is now in effect",
      "link": "https://www.nyc.gov/main/click-to-cancel",
      "pubDate": "Sun, 11 Oct 2026 18:01:16 +0000",
-     "summary": "Article URL: https://www.nyc.gov/main/click-to-cancel Comments URL: https://news.ycombinator.com/item?id=50045946 Points: 13 # Comments: 0",
+     "summary": "Article URL: https://www.nyc.gov/main/click-to-cancel Comments URL: https://news.ycombinator.com/item?id=50045946 Points: 40 # Comments: 8",
      "source": "Hacker News",
      "zh": "纽约市的“点击取消”规则现已生效"
-    },
-    {
-     "title": "We're unlocking the biggest mysteries of the clitoris",
-     "link": "https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2",
-     "pubDate": "Sun, 11 Oct 2026 17:56:13 +0000",
-     "summary": "Article URL: https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2 Comments URL: https://news.ycombinator.com/item?id=50045895 Points: 22 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "我们正在解开阴蒂最大的谜团"
     },
     {
      "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
@@ -1780,7 +1764,7 @@
      "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit",
      "link": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
      "pubDate": "Sun, 11 Oct 2026 17:40:42 +0000",
-     "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns Comments URL: https://news.ycombinator.com/item?id=50045735 Points: 46 # Comments: 17",
+     "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns Comments URL: https://news.ycombinator.com/item?id=50045735 Points: 52 # Comments: 20",
      "source": "Hacker News",
      "zh": "YouTuber 制作“类似羊群”的摄像头来追踪警车，吸引警察上门"
     },
@@ -1812,7 +1796,7 @@
      "title": "apsw: Another Python SQLite Wrapper",
      "link": "https://github.com/rogerbinns/apsw",
      "pubDate": "Sun, 11 Oct 2026 16:58:22 +0000",
-     "summary": "Article URL: https://github.com/rogerbinns/apsw Comments URL: https://news.ycombinator.com/item?id=50045273 Points: 19 # Comments: 5",
+     "summary": "Article URL: https://github.com/rogerbinns/apsw Comments URL: https://news.ycombinator.com/item?id=50045273 Points: 22 # Comments: 7",
      "source": "Hacker News",
      "zh": "apsw：另一个 Python SQLite 包装器"
     },
@@ -1833,6 +1817,14 @@
      "zh": "安踏成彪马第一大股东：丁世忠最贵的一张门票"
     },
     {
+     "title": "Playgrnd – tiny tools for making weird, beautiful things",
+     "link": "https://www.playgrnd.tools/",
+     "pubDate": "Sun, 11 Oct 2026 16:31:37 +0000",
+     "summary": "Article URL: https://www.playgrnd.tools/ Comments URL: https://news.ycombinator.com/item?id=50044989 Points: 8 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Playgrnd – 用于制作奇怪而美丽的东西的小工具"
+    },
+    {
      "title": "房地产：政策到底了吗？市场到底了吗？",
      "link": "https://www.huxiu.com/article/4896649.html?f=rss",
      "pubDate": "Mon, 12 Oct 2026 00:11:58 +0800",
@@ -1847,6 +1839,14 @@
      "summary": "Tymur Dubovyk / Kyiv Post : Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages &nbsp; &mdash;&nbsp; A Ukrainian drone strike targeted a major Yandex data center in the Russian city of Vladimir e",
      "source": "Techmeme",
      "zh": "Yandex 表示，无人机袭击关闭了第三个数据中心，中断了 Yandex Cloud 和 YandexGPT 等 80 多项服务；用户报告银行和出租车应用程序中断（Tymur Dubovyk/基辅邮报）"
+    },
+    {
+     "title": "How to Build Wealth as a Career Person",
+     "link": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
+     "pubDate": "Sun, 11 Oct 2026 16:03:58 +0000",
+     "summary": "Article URL: https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/ Comments URL: https://news.ycombinator.com/item?id=50044715 Points: 55 # Comments: 52",
+     "source": "Hacker News",
+     "zh": "作为职业人士如何积累财富"
     },
     {
      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
@@ -2225,6 +2225,14 @@
    "total": 13,
    "items": [
     {
+     "title": "Justice Department opens antitrust probe as White House press-access fight escalates",
+     "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
+     "pubDate": "Sun, 11 Oct 2026 19:07:27 GMT",
+     "summary": "The Justice Department said in a statement that it is examining whether the White House TV press pool violated the Sherman Act.",
+     "source": "CNBC",
+     "zh": "随着白宫新闻采访斗争升级，司法部启​​动反垄断调查"
+    },
+    {
      "title": "江特电机“一号工程”向开工建设推进",
      "link": "http://finance.eastmoney.com/news/1354,202610123892136455.html",
      "pubDate": "Mon, 12 Oct 2026 02:56:03 +0800",
@@ -2439,14 +2447,6 @@
      "summary": "High hopes for third-quarter earnings are outweighing concerns around interest rates and oil prices — but one expert warns markets have gotten “extremely complacent.”",
      "source": "MarketWatch",
      "zh": "我们即将深入了解盈利能否继续支撑股市"
-    },
-    {
-     "title": "AI is automating coding. So why are software developer job postings on the rise?",
-     "link": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
-     "pubDate": "Sun, 11 Oct 2026 13:30:01 GMT",
-     "summary": "Software developer job postings are rebounding, led by senior and AI-focused roles, even as AI automates more coding and entry-level hiring weakens.",
-     "source": "CNBC",
-     "zh": "人工智能正在自动化编码。那么为什么软件开发人员的职位空缺不断增加呢？"
     },
     {
      "title": "Houthis show military reach with deadly missile strikes on Riyadh",

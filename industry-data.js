@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 05:12:00",
+ "generated_at": "2026/10/12 05:32:04",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Will the HomeView be Apple’s first smart home success?",
+     "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+     "pubDate": "Sun, 11 Oct 2026 21:14:40 +0000",
+     "summary": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date. Gur",
+     "source": "TechCrunch AI",
+     "zh": "Will the HomeView be Apple’s first smart home success?"
+    },
     {
      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
@@ -152,14 +160,6 @@ window.INDUSTRY_DATA = {
      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
      "source": "TechCrunch AI",
      "zh": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe"
-    },
-    {
-     "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-     "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-     "pubDate": "Sat, 10 Oct 2026 15:00:00 +0000",
-     "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-     "source": "TechCrunch AI",
-     "zh": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream"
     },
     {
      "title": "Agentic开发时代到来！鸿蒙PC三大原生开发工具公测，补齐国产操作系统生态关键短板",
@@ -962,12 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "Clean-energy super PAC names its target list for general elections"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1722,6 +1722,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261011/p11#a261011p11",
+     "pubDate": "Sun, 11 Oct 2026 17:20:01 -0400",
+     "summary": "Wall Street Journal : Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September &nbsp; &mdash;&nbsp; San Francisco company's software makes it easier for developers to switch between different AI c",
+     "source": "Techmeme",
+     "zh": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)"
+    },
+    {
      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
      "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
      "pubDate": "Sun, 11 Oct 2026 20:51:47 +0000",
@@ -1738,10 +1746,26 @@ window.INDUSTRY_DATA = {
      "zh": "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted \"super intelligence\", as Silicon Valley falls in line with Trump (Terrence O&apos;Brien/The Verge)"
     },
     {
+     "title": "Andrej Karpathy breaks down the capability gap",
+     "link": "https://twitter.com/karpathy/status/2109361546505966046",
+     "pubDate": "Sun, 11 Oct 2026 20:20:52 +0000",
+     "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Andrej Karpathy breaks down the capability gap"
+    },
+    {
+     "title": "Cognitive Decline or Sanity Incline?",
+     "link": "https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline",
+     "pubDate": "Sun, 11 Oct 2026 20:05:03 +0000",
+     "summary": "Article URL: https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline Comments URL: https://news.ycombinator.com/item?id=50047257 Points: 14 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Cognitive Decline or Sanity Incline?"
+    },
+    {
      "title": "Cartographers of North Korea",
      "link": "https://cartographers-nk.wonyoung.so/",
      "pubDate": "Sun, 11 Oct 2026 19:46:40 +0000",
-     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 45 # Comments: 4",
+     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 62 # Comments: 5",
      "source": "Hacker News",
      "zh": "Cartographers of North Korea"
     },
@@ -1749,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "Artificial Insanity",
      "link": "https://richwhitehouse.com/index.php?postid=78",
      "pubDate": "Sun, 11 Oct 2026 19:44:45 +0000",
-     "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 20 # Comments: 10",
+     "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 30 # Comments: 22",
      "source": "Hacker News",
      "zh": "Artificial Insanity"
     },
@@ -1757,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "Be The Onion's Hero for Once",
      "link": "https://mailchi.mp/email.theonion.com/archivehunt",
      "pubDate": "Sun, 11 Oct 2026 19:43:32 +0000",
-     "summary": "Article URL: https://mailchi.mp/email.theonion.com/archivehunt Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 114 # Comments: 5",
+     "summary": "Article URL: https://mailchi.mp/email.theonion.com/archivehunt Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 130 # Comments: 8",
      "source": "Hacker News",
      "zh": "Be The Onion's Hero for Once"
     },
@@ -1765,17 +1789,9 @@ window.INDUSTRY_DATA = {
      "title": "The Unreasonable Effectiveness of Vex in NixOS",
      "link": "https://blog.kammel.dev/post/nixos_vex/",
      "pubDate": "Sun, 11 Oct 2026 19:23:07 +0000",
-     "summary": "Article URL: https://blog.kammel.dev/post/nixos_vex/ Comments URL: https://news.ycombinator.com/item?id=50046864 Points: 14 # Comments: 0",
+     "summary": "Article URL: https://blog.kammel.dev/post/nixos_vex/ Comments URL: https://news.ycombinator.com/item?id=50046864 Points: 19 # Comments: 0",
      "source": "Hacker News",
      "zh": "The Unreasonable Effectiveness of Vex in NixOS"
-    },
-    {
-     "title": "Chapter 1 of Ways of Seeing by John Berger",
-     "link": "https://www.ways-of-seeing.com/ch1",
-     "pubDate": "Sun, 11 Oct 2026 18:26:24 +0000",
-     "summary": "Article URL: https://www.ways-of-seeing.com/ch1 Comments URL: https://news.ycombinator.com/item?id=50046241 Points: 43 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Chapter 1 of Ways of Seeing by John Berger"
     },
     {
      "title": "A look at the economics of Anthropic&apos;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
@@ -1784,14 +1800,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ann Davis Vaughan / The Information : A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN &nbsp; &mdash;&nbsp; Why is Anthropic driving its partners to speed up the $530 billion of data cente",
      "source": "Techmeme",
      "zh": "A look at the economics of Anthropic&apos;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)"
-    },
-    {
-     "title": "Total Annihilation, rebuilt for modern computers",
-     "link": "https://nanolathe.gg",
-     "pubDate": "Sun, 11 Oct 2026 18:04:47 +0000",
-     "summary": "Article URL: https://nanolathe.gg Comments URL: https://news.ycombinator.com/item?id=50045984 Points: 210 # Comments: 86",
-     "source": "Hacker News",
-     "zh": "Total Annihilation, rebuilt for modern computers"
     },
     {
      "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
@@ -1856,14 +1864,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tymur Dubovyk / Kyiv Post : Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages &nbsp; &mdash;&nbsp; A Ukrainian drone strike targeted a major Yandex data center in the Russian city of Vladimir e",
      "source": "Techmeme",
      "zh": "Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages (Tymur Dubovyk/Kyiv Post)"
-    },
-    {
-     "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
-     "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
-     "pubDate": "Sun, 11 Oct 2026 16:00:00 +0000",
-     "summary": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
-     "source": "TechCrunch",
-     "zh": "Dawn Myers is making it easier to style, detangle, and care for curly hair"
     },
     {
      "title": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到",
@@ -2218,28 +2218,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "从试水到深耕：内地公募香港子公司步入收获期",
-     "link": "http://hk.eastmoney.com/news/1556,202610123892136341.html",
-     "pubDate": "Mon, 12 Oct 2026 04:47:38 +0800",
-     "summary": "近年来，内地公募赴港布局迎来收获期。伴随港交所ETF发行热度升温，中资公募香港子公司已成为离岸指数工具供给的中坚力量；互联互通相关规则红利进一步打开产品创新空间，一大批新型ETF接连落地。乘着制度东风，内地公募借助ETF实现海外资管版图持续扩张，离岸业务正成长为公募行业不可忽视的“第二增长曲线”。 ETF密集上新内地公募成香港资管新力量 今年以来，香港ETF市场创新扩容势头强劲，新品上市节奏持续加快，内地公募基金的香港子公司已成为港交所ETF扩容的绝对主力。根据产品发行数据，今年前三季度，港交所新上市ETF产品共计51只，其中超六成产品由境内公募香港子公司发行。南方东英、广发国际、华夏基金(香",
+     "title": "一油轮在阿曼附近海域遭无人机袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202610123892141267.html",
+     "pubDate": "Mon, 12 Oct 2026 05:25:34 +0800",
+     "summary": "当地时间10月11日，英国海上贸易行动办公室（UKMTO）发布通报称，一艘油轮在阿曼苏哈尔港附近锚地遭到 无人机 袭击。 通报称，UKMTO最初接到一艘油轮发生安全事件的报告。随后，经确认，该油轮遭到一架无人驾驶航空器袭击，UKMTO已将事件正式归类为“袭击事件”。 目前，当地有关部门正在协助船员撤离。油轮受损程度及事件可能造成的环境影响尚不清楚，事件仍在调查中。 （文章来源：央视新闻客户端）",
      "source": "东方财富股票",
-     "zh": "从试水到深耕：内地公募香港子公司步入收获期"
+     "zh": "一油轮在阿曼附近海域遭无人机袭击"
     },
     {
-     "title": "消息人士称 亚马逊正洽谈收购人工智能初创公司Decart",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892139593.html",
-     "pubDate": "Mon, 12 Oct 2026 04:29:42 +0800",
-     "summary": "消息人士称， 亚马逊 正洽谈收购 人工智能 初创公司Decart。 （文章来源：财联社）",
+     "title": "智能体发展重塑算力需求格局",
+     "link": "http://finance.eastmoney.com/news/1355,202610123892140567.html",
+     "pubDate": "Mon, 12 Oct 2026 05:16:16 +0800",
+     "summary": "近日，国际数据公司（IDC）预测，2026年至2030年，全球活跃智能体数量将从7940万个增长至22.16亿个，复合增长率达到129.8%；全球Token消耗量急剧放大，复合增长率将达4822.6%。业内人士认为，智能体数量与Token消耗的快速增长，正带动算力需求持续攀升。同时，随着智能体任务从简单的信息检索、内容生成，向需要多轮推理、工具调用和跨系统协作的复杂任务演进，全球算力产业也在相应发生结构性、范式性变革。 智能体算力需求攀升 2026年，我国明确了实施“ 人工智能 +”行动的阶段性目标：到2027年，新一代智能终端、智能体等应用普及率超70%，智能经济核心产业规模快速增长；到20",
      "source": "东方财富股票",
-     "zh": "消息人士称 亚马逊正洽谈收购人工智能初创公司Decart"
+     "zh": "智能体发展重塑算力需求格局"
     },
     {
-     "title": "红利基金密集限购稳收益 有资金趁指数走强套现离场",
-     "link": "http://stock.eastmoney.com/news/11215,202610123892137452.html",
-     "pubDate": "Mon, 12 Oct 2026 04:20:58 +0800",
-     "summary": "近期市场持续震荡之下，红利资产再度受到关注。10月以来，红利资产的市场分歧进一步显现。多只红利基金密集公告限制大额申购，与此同时，红利主题ETF持续呈现资金净流出态势。在指数累计上涨的背景下，两类现象并存，反映出产品端对资金流入节奏的主动管理，与二级市场交易层面的获利兑现正在同时发生。红利资产的配置逻辑是否生变，成为市场关注的焦点。 10月9日，富国基金公告，暂停接受单个基金账户对富国恒生港股通红利低波动ETF发起式联接基金单个基金份额日累计金额超过1000万元（不含1000万元）的申购、转换转入及定期定额投资业务申请。 同日，天弘基金也对旗下两只红利基金天弘中证红利低波动100ETF联接、天",
+     "title": "上游工厂“下沉”终端 食品产业价值链重心迁移",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892141097.html",
+     "pubDate": "Mon, 12 Oct 2026 05:15:46 +0800",
+     "summary": "双汇发展 联合淘小胖在漯河开出首店 超市 ，开业首日销售突破500万元； 圣农发展 今年上半年C端零售营收首次突破20亿元； 千味央厨 全面推进B端与C端业务双轮驱动……近段时间以来，食品生产领域上市公司向销售终端渗透的动作明显提速。 受访业内专家认为，这轮浪潮背后是食品产业价值链重心的迁移，食品产业链正在从“生产驱动”向“消费驱动”演进，但食品工厂需注意零售思维和工厂思维的差异。 资本共建打通产销链路 近日， 双汇发展 联合淘小胖打造的“淘小胖 超市 漯河双汇大厦店”开业。公开信息显示， 双汇发展 全资子公司漯河双汇商业投资有限公司于2025年12月联手河南淘小胖商业管理有限公司合资成立了漯",
      "source": "东方财富股票",
-     "zh": "红利基金密集限购稳收益 有资金趁指数走强套现离场"
+     "zh": "上游工厂“下沉”终端 食品产业价值链重心迁移"
+    },
+    {
+     "title": "密集入驻第三方平台 券商加速融入外部AI生态",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892140430.html",
+     "pubDate": "Mon, 12 Oct 2026 05:15:39 +0800",
+     "summary": "2026年被业内视为“金融智能体元年”。从接入DeepSeek，到上线Skills技能包，再到近期密集入驻第三方AI平台，证券行业融入外部AI生态的速度远超预期。据记者不完全统计，目前已有超过10家券商接入第三方AI平台，覆盖Kimi、腾讯WorkBuddy、阿里千问、火山引擎等主流平台。值得关注的是，多家大型券商同时接入了多个平台。业内人士认为，这一集体行动标志着证券业的AI竞争已从技术本身的比拼，升级为对生态位和用户入口的战略争夺。 两条入驻路径覆盖专业与大众双场景 目前来看，券商入驻第三方AI平台形成了两种清晰的路径。一种路径偏向专业投研能力和工具输出，以腾讯WorkBuddy等AI办公",
+     "source": "东方财富股票",
+     "zh": "密集入驻第三方平台 券商加速融入外部AI生态"
+    },
+    {
+     "title": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M",
+     "link": "https://seekingalpha.com/news/4651950-cyberleek-memecoin-jumps-as-gta-6-leaker-taunts-take-two-over-30m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 11 Oct 2026 17:15:36 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M"
+    },
+    {
+     "title": "智能手机市场寻找新价值锚点",
+     "link": "http://finance.eastmoney.com/news/1355,202610123892140337.html",
+     "pubDate": "Mon, 12 Oct 2026 05:15:31 +0800",
+     "summary": "近一个月来，国内智能手机市场迎来一轮密集“上新”，华为、小米、 苹果 、荣耀、vivo、OPPO等主流厂商先后推出各自旗舰新品。喧嚣背后，是国内智能手机出货量已连续五个季度同比下滑，以及一路上涨的 存储芯片 成本。在存量市场里，手机厂商正努力寻找新的价值锚点。 新品扎堆上市折叠屏与AI成焦点 9月7日，华为与小米同日上新。前者推出第二代三折叠旗舰Mate XT 2非凡大师，采用全新展翼三折叠形态，搭载最新的麒麟9050 Pro芯片，并首次在折叠机上实现IP58/59级防尘抗水；后者发布首款“中折叠”手机小米18 Fold，成为小米首款起售价破万元的量产机型。 紧接着， 苹果 在9月10日正式推",
+     "source": "东方财富股票",
+     "zh": "智能手机市场寻找新价值锚点"
+    },
+    {
+     "title": "9月公募密集调研三大行业 电子个股最受关注",
+     "link": "http://stock.eastmoney.com/news/11134,202610123892140972.html",
+     "pubDate": "Mon, 12 Oct 2026 05:15:28 +0800",
+     "summary": "公募基金9月调研动向揭晓。公募排排网数据显示，9月，158家公募机构合计调研A股公司3230次，覆盖428只个股，调研聚焦 电子 、 机械设备 和 医药生物 三大行业。 电子 行业关注度最高 9月公募调研聚焦三大行业，合计调研次数达1583次，占到公募调研总次数的49.01%。其中公募机构对 电子 行业调研次数最多，被调研个股数量高达85只，合计调研次数达879次，均大幅领先其余行业。其次是 机械设备 行业，公募机构调研覆盖到该行业的52只个股，合计调研403次。再次是 医药生物 ，公募机构调研达301次，覆盖该行业的38只个股。 被调研次数前十个股中，电子行业占到7席。位列前四的 晶晨股份 ",
+     "source": "东方财富股票",
+     "zh": "9月公募密集调研三大行业 电子个股最受关注"
     },
     {
      "title": "Justice Department investigates TV networks as White House press-access fight escalates",
@@ -2266,14 +2298,6 @@ window.INDUSTRY_DATA = {
      "zh": "Treasury yields near 24-yr high as investors await inflation data, Fed signals"
     },
     {
-     "title": "“上市公司+PE”模式再掀热潮 逾260家公司出资超150亿元投向五大赛道",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892136519.html",
-     "pubDate": "Mon, 12 Oct 2026 04:00:28 +0800",
-     "summary": "一级市场迎来A股公司新一轮资金注入。 据证券时报记者不完全统计，8月1日至10月7日，共有262家A股上市公司披露与专业投资机构共同投资、认购基金份额或参与设立产业基金、私募基金的公告，相关公告超过420条。其中188家公司披露了具体出资金额，合计认缴规模约156亿元；单笔出资中位数为4000万元，47家公司出资超过1亿元，7家公司出资额达到或超过5亿元。部分公司未披露金额，实际规模应高于上述数字。 一位沪市上市公司董秘接受记者采访时表示，“上市公司+PE”模式一直都存在，严格意义上，过往已形成了三轮浪潮。 上海偕沣 资产管理 有限公司合伙人冯煌认为，此番上市公司密集布局一级市场，是战略转型、",
-     "source": "东方财富股票",
-     "zh": "“上市公司+PE”模式再掀热潮 逾260家公司出资超150亿元投向五大赛道"
-    },
-    {
      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
      "pubDate": "Sun, 11 Oct 2026 20:00:00 GMT",
@@ -2296,22 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA Asks: How can Nike get back on track?"
-    },
-    {
-     "title": "美国两党参议员称美俄柴油协议违法 要求政府立即改变立场",
-     "link": "http://finance.eastmoney.com/news/1356,202610123892139061.html",
-     "pubDate": "Mon, 12 Oct 2026 03:41:59 +0800",
-     "summary": "由美国参议院外交关系委员会成员Jeanne Shaheen领衔的一个由七名参议员组成的两党小组发表声明，称美国总统特朗普允许进口俄罗斯柴油的决定违法。这些参议员要求政府就进口俄罗斯柴油立即改变立场。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国两党参议员称美俄柴油协议违法 要求政府立即改变立场"
-    },
-    {
-     "title": "伊朗军方公布一油轮在霍尔木兹海峡触雷爆炸画面",
-     "link": "http://finance.eastmoney.com/news/1351,202610123892138983.html",
-     "pubDate": "Mon, 12 Oct 2026 03:36:15 +0800",
-     "summary": "当地时间11日，伊朗伊斯兰革命卫队公布一段视频，显示一艘油轮发生爆炸起火瞬间画面。 革命卫队称，这艘油轮原本准备离开霍尔木兹海峡，却关闭了所有导航系统，违反了霍尔木兹海峡的航行规则，因擅自通过禁航航线而引发事故。 革命卫队称，这是自当地时间10日以来，第三艘在霍尔木兹海峡擅自通过禁航航线触雷并起火的油轮。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "伊朗军方公布一油轮在霍尔木兹海峡触雷爆炸画面"
     },
     {
      "title": "Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine; Zelenskyy is waiting for details",
@@ -2386,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "Can Russia meet Trump’s diesel demands?"
     },
     {
-     "title": "Roche's experimental eye drug shows vision improvements in trials",
-     "link": "https://seekingalpha.com/news/4651935-roches-experimental-eye-drug-shows-vision-improvements-in-trials?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 11 Oct 2026 13:13:12 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Roche's experimental eye drug shows vision improvements in trials"
-    },
-    {
      "title": "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
      "link": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
      "pubDate": "Sun, 11 Oct 2026 17:08:30 GMT",
@@ -2434,28 +2434,28 @@ window.INDUSTRY_DATA = {
      "zh": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike"
     },
     {
-     "title": "财险公司保险产品开发迎新规 附加险管理进一步规范",
-     "link": "http://www.eeo.com.cn/2026/1011/1061171.shtml",
-     "pubDate": "Sun, 11 Oct 2026 23:52:11 +0800",
-     "summary": "据国家金融监督管理总局（以下简称“金融监管总局”）官网10月9日消息，为进一步规范财产保险公司保险产品开发行为，保护投保人、被保险人和受益人合法权益，持续释放强监管信号，提升保险产品供给质效，促进财产保险业高质量发展，近日，金融监管总局修订发布《财产保险公司保险产品开发管理规定》（以下简称《规定》）。 受访专家表示，《规定》的发布引导非车险、责任险等业务回归保障本源，切实保障消费者知情权，将...",
-     "source": "经济观察网",
-     "zh": "财险公司保险产品开发迎新规 附加险管理进一步规范"
+     "title": "万亿市值巨头回应美国337调查：对目前的生产、经营及业绩不造成实质性影响",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892105187.html",
+     "pubDate": "Mon, 12 Oct 2026 00:26:00 +0800",
+     "summary": "又一家A股上市公司回应美国337调查。 10月11日晚间， 工业富联 发布公告称，美国国际贸易委员会（简称“ITC”）就美国 Vicor Corp oration （简称“Vicor”）提出的相关专利侵权主张，正式启动337调查（调查编号：337-TA-1526）。 公告显示，Vicor指控 工业富联 及其控股子公司FII USA Inc.（ 工业富联 美国股份有限公司）、Ingrasys Technology Inc.（鸿佰科技股份有限公司）、Ingrasys Technology USA Inc.（美国鸿佰科技股份有限公司）侵犯其一项“垂直供电系统”的专利权。 工业富联表示，经公司内部核查",
+     "source": "东方财富资讯",
+     "zh": "万亿市值巨头回应美国337调查：对目前的生产、经营及业绩不造成实质性影响"
     },
     {
-     "title": "现房销售正以“确定性”提振楼市信心",
-     "link": "http://www.eeo.com.cn/2026/1011/1061170.shtml",
-     "pubDate": "Sun, 11 Oct 2026 23:52:10 +0800",
-     "summary": "■杜雨萌 近期，北京、上海、广州、武汉相继发布商品房销售制度改革实施细则，与国家层面鼓励现房销售的导向形成呼应。 长期以来，我国商品房销售以预售制为主。这一制度诞生于住房市场化改革的初期，彼时房企普遍体量偏小、筹资渠道有限，难以独立扛起长周期、高投入的项目建设压力，“先收款、后交房”的安排由此成为主流，并在相当长时间里支撑了房地产市场在供应端的快速扩容。然而，当行业告别高速扩张、转入...",
-     "source": "经济观察网",
-     "zh": "现房销售正以“确定性”提振楼市信心"
+     "title": "尊界汽车客服：10月底确认制动踏板支架升级方案 11月启动升级工作",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892107769.html",
+     "pubDate": "Mon, 12 Oct 2026 00:17:00 +0800",
+     "summary": "尊界V800制动踏板支架升级方案即将出炉。 10月11日，澎湃新闻记者以消费者身份致电尊界 汽车 客服获悉，公司正在研究尊界V800制动踏板支架升级方案，预计将于10月底确认，并于11月启动升级工作。客服介绍，已提车用户可预约登记，待公司方案敲定后将第一时间联系用户；尚未提车用户可视交付时间另行安排是否需要再次到店升级。 此前，尊界 汽车 已明确表示将对相关车辆提供升级服务。 10月8日晚间，尊界 汽车 发布情况说明称，制动系统直接关系用户的出行安全，高度重视相关视频引发的关切。“尊界汽车的制动系统，按照高于国家标准（GB 21670-2025 / GB 7258-2026）、高于行业标准（Q",
+     "source": "东方财富资讯",
+     "zh": "尊界汽车客服：10月底确认制动踏板支架升级方案 11月启动升级工作"
     },
     {
-     "title": "中国物流业景气指数连续5个月处于扩张区间",
-     "link": "http://www.eeo.com.cn/2026/1011/1061169.shtml",
-     "pubDate": "Sun, 11 Oct 2026 23:52:05 +0800",
-     "summary": "10月11日，中国物流与采购联合会发布数据显示，2026年9月，中国物流业景气指数为51.5%，较8月回升0.6个百分点，连续5个月处在扩张区间。 中国物流信息中心主任刘宇航认为，景气指数连续5个月处在扩张区间，业务总量指数、新订单指数环比回升，反映出政策和市场联动效应持续显现，促消费、惠民生政策带动物流需求产生积极变化。同时，物流供需市场环境也在稳步改善，高效绿色智能物流供给加快增长，对物流需求的适配性不断...",
-     "source": "经济观察网",
-     "zh": "中国物流业景气指数连续5个月处于扩张区间"
+     "title": "四部门发文 禁止“速成车”把车主当“小白鼠”！新增51项技术参数 3万公里验证成“硬门槛”",
+     "link": "http://auto.eastmoney.com/news/11262,202610113892122727.html",
+     "pubDate": "Mon, 12 Oct 2026 00:14:55 +0800",
+     "summary": "10月10日，工业和信息化部等四部门联合公开发布《关于进一步加强 汽车 产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》（以下简称《征求意见稿》），对 汽车 制动系统等关键结构件、可靠性与耐久性验证以及隐藏式门把手、零重力座椅创新设计等提出了要求。 10月11日，一位不愿透露姓名的 汽车 行业资深专家在接受《每日经济新闻》记者采访时坦言，近年来汽车安全问题频发。“比如，‘速成车’就是把消费者当‘小白鼠’。这些问题的出现，究其原因是研发验证不够。部分车企在测试环节能省就省，质量标准很低”。 中汽协方面也表示，当前，我国汽车产业电动化、智能化转型提速，产品创新迭代速度持续加快，各类新技",
+     "source": "东方财富资讯",
+     "zh": "四部门发文 禁止“速成车”把车主当“小白鼠”！新增51项技术参数 3万公里验证成“硬门槛”"
     }
    ]
   },

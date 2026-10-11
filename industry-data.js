@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 07:29:47",
+ "generated_at": "2026/10/12 07:31:34",
  "recent_days": 7,
  "industries": [
   {
@@ -346,14 +346,6 @@ window.INDUSTRY_DATA = {
      "zh": "Hyper-NA EUV：芯片制造的下一个前沿可能在 2036 年到来"
     },
     {
-     "title": "Jury still out in Qualcomm vs Arm case",
-     "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
-     "pubDate": "Sat, 10 Oct 2026 07:20:41 +0000",
-     "summary": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "高通 vs Arm 案尚无定论"
-    },
-    {
      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
      "pubDate": "Fri, 09 Oct 2026 22:00:00 +0000",
@@ -370,14 +362,6 @@ window.INDUSTRY_DATA = {
      "zh": "固态变压器：加速您的 SST 设计"
     },
     {
-     "title": "Defence satcom revenues to surpass $23bn by 2035",
-     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
-     "source": "Electronics Weekly",
-     "zh": "到 2035 年，国防卫星通信收入将超过 230 亿美元"
-    },
-    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
@@ -386,44 +370,12 @@ window.INDUSTRY_DATA = {
      "zh": "连接小芯片还不够——解决多芯片系统中的数据移动挑战"
     },
     {
-     "title": "Axiom Space highlights space computing progress",
-     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
-     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
-     "source": "Electronics Weekly",
-     "zh": "Axiom Space 凸显太空计算进展"
-    },
-    {
-     "title": "The Single-Chip PC",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
-     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "单片机"
-    },
-    {
      "title": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge",
      "link": "https://www.eetimes.com/u-s-manufacturing-activity-sustains-growth-in-september-as-backlogs-surge/",
      "pubDate": "Fri, 09 Oct 2026 12:11:04 +0000",
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "由于积压订单激增，美国 9 月份制造业活动持续增长"
-    },
-    {
-     "title": "Failure analysis in the era of 3D integration",
-     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
-     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "3D集成时代的失效分析"
-    },
-    {
-     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
-     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
-     "source": "Electronics Weekly",
-     "zh": "汽车 SBRFP 器件的雪崩能量额定值高达 145mJ"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "缩小可见性差距"
+    },
+    {
+     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
+     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
+     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
+     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "从芯片到系统：重新定义竞争优势，第 3 部分"
+    },
+    {
+     "title": "Shift Left Complicates Fab Data Management",
+     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
+     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
+     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "左移使晶圆厂数据管理变得复杂"
+    },
+    {
+     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
+     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design 将 HAROLD QD 量子点激光模拟器的运行时间减半并提高精度"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "KnowMade 表示，2026 年第二季度新 RF GaN 专利系列的大部分都在中国"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "美国刚刚在量子芯片制造上投入 10 亿美元"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "KnowMade 报告称，2026 年第二季度由工业受让人主导的功率 GaN 专利申请"
     }
    ]
   },
@@ -1786,60 +1786,12 @@ window.INDUSTRY_DATA = {
      "zh": "360 创始人周鸿祎攀岩受伤：左膝粉碎性骨折，未来两三个月取消出差"
     },
     {
-     "title": "Google Data Centers around the world",
-     "link": "https://datacenters.google/locations/",
-     "pubDate": "Sun, 11 Oct 2026 22:45:40 +0000",
-     "summary": "Article URL: https://datacenters.google/locations/ Comments URL: https://news.ycombinator.com/item?id=50048768 Points: 9 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "世界各地的 Google 数据中心"
-    },
-    {
-     "title": "Fingerprints Are the New Cookies",
-     "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
-     "pubDate": "Sun, 11 Oct 2026 22:33:39 +0000",
-     "summary": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "指纹是新的 Cookie"
-    },
-    {
-     "title": "Google is illegaly cutting forest to build data centers",
-     "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-     "pubDate": "Sun, 11 Oct 2026 22:33:30 +0000",
-     "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment Comments URL: https://news.ycombinator.com/item?id=50048638 Points: 10 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "谷歌非法砍伐森林建设数据中心"
-    },
-    {
-     "title": "Recursive self-improvement through collective intelligence",
-     "link": "https://pub.sakana.ai/mass/",
-     "pubDate": "Sun, 11 Oct 2026 22:22:10 +0000",
-     "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 11 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "通过集体智慧递归自我完善"
-    },
-    {
-     "title": "Passkeys are a trap. Do not use them",
-     "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-     "pubDate": "Sun, 11 Oct 2026 21:59:48 +0000",
-     "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 106 # Comments: 36",
-     "source": "Hacker News",
-     "zh": "万能钥匙是一个陷阱。不要使用它们"
-    },
-    {
      "title": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
      "link": "https://www.techmeme.com/261011/p11#a261011p11",
      "pubDate": "Sun, 11 Oct 2026 17:20:01 -0400",
      "summary": "Wall Street Journal : Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September &nbsp; &mdash;&nbsp; San Francisco company's software makes it easier for developers to switch between different AI c",
      "source": "Techmeme",
      "zh": "消息来源：亚马逊正在洽谈收购人工智能初创公司 Decart，这笔交易的估值可能约为 7B 美元； Anthropic 决定不于 9 月份以约 6B 美元的价格收购 Decart（华尔街日报）"
-    },
-    {
-     "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
-     "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
-     "pubDate": "Sun, 11 Oct 2026 21:07:20 +0000",
-     "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 93 # Comments: 56",
-     "source": "Hacker News",
-     "zh": "一名远程员工每天拒绝 160 张网络摄像头照片。她的雇主解雇了她"
     },
     {
      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
@@ -1960,6 +1912,54 @@ window.INDUSTRY_DATA = {
      "summary": "具身智能业务营收占比5%。",
      "source": "钛媒体",
      "zh": "本末科技，还没吃上具身智能这碗饭"
+    },
+    {
+     "title": "Manus恢复“单身”身价再涨，但战场已“大变天”",
+     "link": "https://www.tmtpost.com/8163955.html",
+     "pubDate": "Sun, 11 Oct 2026 21:07:50 +0800",
+     "summary": "5亿美元“输血”到账，Manus估值实现三级跳。",
+     "source": "钛媒体",
+     "zh": "Manus恢复“单身”身价再涨，但战场已“大变天”"
+    },
+    {
+     "title": "百万级豪车，刹车踏板不是谁都能踩到的",
+     "link": "https://www.tmtpost.com/8163920.html",
+     "pubDate": "Sun, 11 Oct 2026 21:07:35 +0800",
+     "summary": "向上突破，可以靠创新。站稳脚跟，要靠那些不需要消费者操心的事。",
+     "source": "钛媒体",
+     "zh": "百万级豪车，刹车踏板不是谁都能踩到的"
+    },
+    {
+     "title": "城商行，走进分化时代",
+     "link": "https://www.tmtpost.com/8163903.html",
+     "pubDate": "Sun, 11 Oct 2026 21:05:57 +0800",
+     "summary": "对一家区域银行而言，认识城市的产业，理解企业的经营，陪伴居民的财富需求，仍是最有可能持续积累的能力。",
+     "source": "钛媒体",
+     "zh": "城商行，走进分化时代"
+    },
+    {
+     "title": "PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes (Rafe Rosner-Uddin/Financial Times)",
+     "link": "https://www.techmeme.com/261011/p6#a261011p6",
+     "pubDate": "Sun, 11 Oct 2026 09:00:51 -0400",
+     "summary": "Rafe Rosner-Uddin / Financial Times : PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes &nbsp; &mdash;&nbsp; &lsquo;Physical AI&rsquo; developers are putting cameras in homes, offices and fa",
+     "source": "Techmeme",
+     "zh": "PitchBook：机器人和物理人工智能公司今年迄今已经筹集了约 48B 美元，因为他们从在工厂、办公室和家庭中完成任务的人们那里收集训练数据（Rafe Rosner-Uddin/金融时报）"
+    },
+    {
+     "title": "千元入门手机几乎“灭绝”，存储危机到底还要多久？",
+     "link": "https://www.tmtpost.com/8164424.html",
+     "pubDate": "Sun, 11 Oct 2026 21:00:38 +0800",
+     "summary": "之前那个属于千元机的黄金年代，或许将会成为历史，千元机的逻辑可能会被彻底改写。",
+     "source": "钛媒体",
+     "zh": "千元入门手机几乎“灭绝”，存储危机到底还要多久？"
+    },
+    {
+     "title": "《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售",
+     "link": "https://www.solidot.org/story?sid=85578",
+     "pubDate": "Sun, 11 Oct 2026 20:12:09 +0800",
+     "summary": "《星际公民(Star Citizen)》的独立单机战役《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售 。《星际公民》由《银河飞将》创始人 Chris Roberts 领导开发，试图复兴太空模拟飞行游戏，允许玩家在广袤的宇宙空间内探险，交易和战斗。它于 2012 年在 Kickstarter 上成功众筹，原计划的交付时间是 2014 年。但在 Kickstarter 众筹结束后，开发团队继续在官方网站上进行募资，许多募资其实就是销售游戏内的虚拟物品如各种型号的飞船。和多人网游《星际公民》一样，单机战役《Squadron 42》的交付时间也不断延期，2024 年宣布",
+     "source": "Solidot",
+     "zh": "《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售"
     }
    ]
   },
@@ -1969,6 +1969,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The reason the Xbox Series S is so much cheaper than the Series X",
+     "link": "https://www.engadget.com/2281248/xbox-series-s-cheaper-than-x-reason/",
+     "pubDate": "Sun, 11 Oct 2026 23:30:00 +0000",
+     "summary": "The Xbox Series X and S have seen the same price hikes as all other gaming hardware, but the Series S still provides a lower cost to entry.",
+     "source": "Engadget",
+     "zh": "Xbox Series S 比 Series X 便宜得多的原因"
+    },
     {
      "title": "Why Japan said goodbye to traditional flip phones",
      "link": "https://www.engadget.com/2281237/why-japan-said-goodbye-flip-phones/",
@@ -2024,14 +2032,6 @@ window.INDUSTRY_DATA = {
      "summary": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3.",
      "source": "Engadget",
      "zh": "Anbernic 的下一代双屏掌上电脑具有适合 3DS 游戏的完美宽高比"
-    },
-    {
-     "title": "The iPhone clock app has an oddity not many people know about",
-     "link": "https://www.engadget.com/2281209/iphone-clock-app-oddity-time-linear-list/",
-     "pubDate": "Sun, 11 Oct 2026 18:45:00 +0000",
-     "summary": "Sure, you can set your iPhone's alarm to any time you choose. But there's a hidden limit to how far your choices will stretch, though most users won't reach it.",
-     "source": "Engadget",
-     "zh": "iPhone 时钟应用程序有一个鲜为人知的奇怪之处"
     },
     {
      "title": "The original Apple TV 4K from 2017 is now officially \"vintage\"",
@@ -2229,7 +2229,7 @@ window.INDUSTRY_DATA = {
      "title": "基金名为“均衡”实则抱团 近三月首尾业绩悬殊惊人",
      "link": "http://stock.eastmoney.com/news/11134,202610123892136786.html",
      "pubDate": "Mon, 12 Oct 2026 07:24:31 +0800",
-     "summary": "证券时报基金研究院匡继雄 近期，伴随市场波动加剧，主动权益基金新发产品中，均衡类产品成为公募布局的重要方向。比如，平安均衡精选、中欧均衡增长等产品均定于10月开启认购。 数据显示，截至2026年10月9日，年内成立的均衡主动权益基金（以名称中带“均衡”的基金为统计口径）数量达14只，年度成立数量创2022年以来新高。 均衡类产品的设计初衷，是依靠更广域的选股布局，通过多行业分散配置来平滑组合波动，减少单一板块剧烈波动给净值带来的冲击，尽可能改善持有人的持有体验。不过，从已成立的均衡基金来看，7月以来业绩表现分化明显，首尾业绩相差近54个百分点。 短期不抗跌，究竟是策略失效，还是风格极致分化下的",
+     "summary": "近期，伴随市场波动加剧，主动权益基金新发产品中，均衡类产品成为公募布局的重要方向。比如，平安均衡精选、中欧均衡增长等产品均定于10月开启认购。 数据显示，截至2026年10月9日，年内成立的均衡主动权益基金（以名称中带“均衡”的基金为统计口径）数量达14只，年度成立数量创2022年以来新高。 均衡类产品的设计初衷，是依靠更广域的选股布局，通过多行业分散配置来平滑组合波动，减少单一板块剧烈波动给净值带来的冲击，尽可能改善持有人的持有体验。不过，从已成立的均衡基金来看，7月以来业绩表现分化明显，首尾业绩相差近54个百分点。 短期不抗跌，究竟是策略失效，还是风格极致分化下的暂时失色？据证券时报基金研",
      "source": "东方财富股票",
      "zh": "基金名为“均衡”实则抱团 近三月首尾业绩悬殊惊人"
     },
@@ -2248,6 +2248,14 @@ window.INDUSTRY_DATA = {
      "summary": "直击“速成造车”的痛点， 汽车 行业监管再升级。10月10日，工业和信息化部等四部门联合公开发布《关于进一步加强 汽车 产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》（以下简称《征求意见稿》），对 汽车 制动系统等关键结构件、可靠性与耐久性验证以及隐藏式门把手、零重力座椅创新设计等提出了要求。 证券时报记者了解到，《征求意见稿》发布后，整车企业迅速掀起学习、自查热潮。多家车企相关负责人告诉记者，周末期间就对《征求意见稿》组织开展了学习，后续将在全公司范围传达；还有一些车企向记者确认，地方相关部门也在组织学习和落实。 受访企业和专家普遍认为，此次监管精准纠偏行业“重创新噱头、轻安全",
      "source": "东方财富股票",
      "zh": "汽车行业监管再升级 车企迅速掀起学习、自查热潮"
+    },
+    {
+     "title": "A股市场两只巴西ETF双双刷新阶段高点",
+     "link": "http://finance.eastmoney.com/news/1349,202610123892156814.html",
+     "pubDate": "Mon, 12 Oct 2026 07:18:28 +0800",
+     "summary": "国庆假期后的两个交易日，A股市场两只巴西ETF持续走强，双双刷新阶段高点，在同期跨境ETF中表现居前。10月8日，两只巴西ETF开盘双双大幅走高：巴西ETF易方达大涨10.02%，巴西ETF华夏上涨9.96%，吸引大量资金关注。10月9日，上述两只ETF维持强劲势头，巴西ETF易方达大涨6.61%，收报1.323元，距离前期最高点1.364元仅一步之遥；巴西ETF华夏同样大涨6.66%，收报1.330元。截至10月9日，巴西ETF华夏年初至今收益达36.13%，巴西ETF易方达年初至今收益已达35.83%，在跨境QDII品种中表现突出，分别位列跨境ETF年内收益榜第五位和第六位。 （文章来源：",
+     "source": "东方财富股票",
+     "zh": "A股市场两只巴西ETF双双刷新阶段高点"
     },
     {
      "title": "车圈“反速成” 整车企业掀起学习、自查热潮",
@@ -2272,14 +2280,6 @@ window.INDUSTRY_DATA = {
      "summary": "据统计，10月以来，沪市主板公司已发布超120份回购类公告（包括回购计划、回购进展和完成类），上述公告对应回购金额合计约247亿元至464亿元，累计已实施金额超176亿元。其中，进展类公告对应的最新回购金额为166亿元，已锁定整体回购金额（下限）的七成。 上述120余份公告中，包括3份新增计划，对应公司分别为 威尔药业 、 安德利 、 东阳光 。其中， 安德利 拟未来12个月内回购1.2亿元至1.8亿元公司股份，价格不超过100元/股，回购股份用于员工持股计划或 股权激励 。 东阳光 拟通过集中竞价交易方式回购6亿元至12亿元，回购价格不高于47.74元/股，对应1256.8万股至2513.6",
      "source": "东方财富股票",
      "zh": "回购刷屏！"
-    },
-    {
-     "title": "华夏基金顾鑫峰：北交所投资要避开“荒漠” 也要规避AI热潮中的估值风险",
-     "link": "http://finance.eastmoney.com/news/1353,202610123892155924.html",
-     "pubDate": "Mon, 12 Oct 2026 07:15:54 +0800",
-     "summary": "从2021年至今，成立满五周年的北交所市值已超过8000亿元。北交所 专精特新 成色凸显，离不开公募基金等增量资金的助力。华夏基金股票投资部总监顾鑫峰近日接受证券时报记者采访时表示，在公募基金持续投资的过程中，北交所的政策预期正从“改革叙事”逐步进入落地兑现阶段。 顾鑫峰认为，北交所的高弹性行情通常发生在“低估值或深度调整、政策或产业主题催化、成交额和换手率显著放大”三项条件同时出现时。基金投资要重点研究行业景气度和边际变化，既要回避投资“荒漠”，也要规避AI热潮中的估值风险。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "华夏基金顾鑫峰：北交所投资要避开“荒漠” 也要规避AI热潮中的估值风险"
     },
     {
      "title": "【科创之声】AI大战数学家，谁是赢家",

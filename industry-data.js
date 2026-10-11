@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 02:49:51",
+ "generated_at": "2026/10/12 03:01:20",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+     "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+     "pubDate": "Sun, 11 Oct 2026 19:00:00 +0000",
+     "summary": "In less than 48 hours, the doors open for TechCrunch Disrupt 2026 at San Francisco’s Moscone West. Save up to $100 on your ticket before prices increase at the door. Don’t forget to get a second pass at 50% off. Register now. On October 13-15, more than 10,000 founders, investors, and tech leaders w",
+     "source": "TechCrunch AI",
+     "zh": "距离 TechCrunch Disrupt 2026 还有 48 小时——直接聆听未来发展者的心声"
+    },
     {
      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
@@ -152,14 +160,6 @@ window.INDUSTRY_DATA = {
      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
      "source": "TechCrunch AI",
      "zh": "距 TechCrunch Disrupt 2026 还剩 3 天：在初创公司进入主流之前与它们会面"
-    },
-    {
-     "title": "Here are the top AI agents that can live in your text messages",
-     "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-     "pubDate": "Sat, 10 Oct 2026 14:00:00 +0000",
-     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-     "source": "TechCrunch AI",
-     "zh": "以下是可以存在于您的短信中的顶级人工智能代理"
     },
     {
      "title": "Agentic开发时代到来！鸿蒙PC三大原生开发工具公测，补齐国产操作系统生态关键短板",
@@ -591,7 +591,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
      "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
      "source": "Robohub",
-     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与 Kushant Patel"
+     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
     },
     {
      "title": "Cevotec brings robotic composite lamination to South Korea with KCompositeLab partnership",
@@ -703,7 +703,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 12:16:33 +0000",
      "summary": "Mitusbishi’s North American dealers have been trudging along with an aging, badge-engineered model line for years – but overseas? It’s a different story, and the 459 hp all-wheel drive ASX VR-e electric hot hatch shown here is plug-in proof. more…",
      "source": "Electrek",
-     "zh": "459 马力、3.9 秒内从 0-60 英里加速和全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
+     "zh": "459 马力、3.9 秒内从 0 加速到 60 英里以及全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
     },
     {
      "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
@@ -727,7 +727,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 14:07:06 +0000",
      "summary": "The limited-time price of the Cruiser 700, including a trade-in subsidy, is 169,800 yuan ($25,220), and firm orders exceeded 10,000 units within the first 12 minutes. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "吉利银河推出漫步者700 与比亚迪、长城汽车争夺越野SUV市场"
+     "zh": "吉利银河推出漫步者700 挑战比亚迪、长城 越野SUV市场"
     },
     {
      "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
@@ -858,12 +858,20 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "How Low Can the Strategic Petroleum Reserve Actually Go?",
+     "link": "https://oilprice.com/Energy/Crude-Oil/How-Low-Can-the-Strategic-Petroleum-Reserve-Actually-Go.html",
+     "pubDate": "Sun, 11 Oct 2026 14:00:00 -0500",
+     "summary": "The U.S. Strategic Petroleum Reserve held just 283 million barrels of oil at the end of September, according to Reuters, the lowest level since October 1982, back when the reserve was still being filled for the first time. It's a scary-looking number, and most of the coverage has treated it that way",
+     "source": "OilPrice",
+     "zh": "战略石油储备实际上能降到多低？"
+    },
+    {
      "title": "Australia Approves Giant Coal Extension Despite Paris Commitments",
      "link": "https://oilprice.com/Energy/Coal/Australia-Approves-Giant-Coal-Extension-Despite-Paris-Commitments.html",
      "pubDate": "Sun, 11 Oct 2026 10:00:00 -0500",
      "summary": "Australia has long been known for its strong coal industry, being one of the world’s largest producers and exporters. While much of the world moves away from coal in favour of cleaner energy sources, Australia is doubling down on its coal production, with plans to extend the life of coal operations ",
      "source": "OilPrice",
-     "zh": "尽管巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
+     "zh": "尽管有巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
     },
     {
      "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
@@ -896,14 +904,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mexico is dependent on oil and gas imports for two-thirds of its energy consumption, despite the fact that the country has abundant domestic fossil fuel resources. But instead of exploiting its own producing power to the greatest potential, Mexico relies on its neighbor to the north for the majority",
      "source": "OilPrice",
      "zh": "Pemex 需要近 1100 亿美元才能实现墨西哥的产量目标"
-    },
-    {
-     "title": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
-     "link": "https://oilprice.com/Energy/Energy-General/Southeast-Asia-Needs-More-Power-But-Its-Weak-Grid-Could-Be-a-Problem.html",
-     "pubDate": "Sat, 10 Oct 2026 14:00:00 -0500",
-     "summary": "The war in Iran has exposed a critical vulnerability in Southeast Asia’s energy markets. The region is heavily dependent on fossil fuel imports, and demand is continuing its steep growth trajectory even as global crude oil prices remain punishingly high. Though the Strait of Hormuz is finally reopen",
-     "source": "OilPrice",
-     "zh": "东南亚需要更多电力，但其薄弱的电网可能是一个问题"
     },
     {
      "title": "Brazil’s retail electricity market opening raises credit and liquidity concerns, study finds",
@@ -1135,7 +1135,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 21:03:52 +0000",
      "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
      "source": "STAT News",
-     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥重要作用"
+     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥首要作用"
     },
     {
      "title": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
@@ -1383,7 +1383,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
      "summary": "Seattle-based Kapta Space announced a $24M Series A to build next-gen radar payloads designed to track moving targets. The post Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：Kapta Space 筹集了 2400 万美元的 A 轮融资，用于构建移动目标雷达有效载荷"
+     "zh": "独家：Kapta Space A 轮融资 2400 万美元，用于构建移动目标雷达有效载荷"
     },
     {
      "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
@@ -1607,7 +1607,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击"
+     "zh": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击"
     },
     {
      "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -1946,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "LineageOS 24 释出"
     },
     {
-     "title": "What to know about the landmark Warner Bros. Discovery sale",
-     "link": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-     "pubDate": "Sun, 11 Oct 2026 14:15:00 +0000",
-     "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
-     "source": "TechCrunch",
-     "zh": "关于具有里程碑意义的华纳兄弟探索之旅特卖，您需要了解哪些信息"
-    },
-    {
      "title": "本末科技，还没吃上具身智能这碗饭",
      "link": "https://www.tmtpost.com/8164407.html",
      "pubDate": "Sun, 11 Oct 2026 21:08:08 +0800",
@@ -1968,6 +1960,14 @@ window.INDUSTRY_DATA = {
      "summary": "5亿美元“输血”到账，Manus估值实现三级跳。",
      "source": "钛媒体",
      "zh": "Manus恢复“单身”身价再涨，但战场已“大变天”"
+    },
+    {
+     "title": "百万级豪车，刹车踏板不是谁都能踩到的",
+     "link": "https://www.tmtpost.com/8163920.html",
+     "pubDate": "Sun, 11 Oct 2026 21:07:35 +0800",
+     "summary": "向上突破，可以靠创新。站稳脚跟，要靠那些不需要消费者操心的事。",
+     "source": "钛媒体",
+     "zh": "百万级豪车，刹车踏板不是谁都能踩到的"
     }
    ]
   },
@@ -1977,6 +1977,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Anbernic's next dual-screen handheld has the perfect aspect ratio for 3DS games",
+     "link": "https://www.engadget.com/2283296/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/",
+     "pubDate": "Sun, 11 Oct 2026 18:54:38 +0000",
+     "summary": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3.",
+     "source": "Engadget",
+     "zh": "Anbernic 的下一代双屏掌上电脑具有适合 3DS 游戏的完美宽高比"
+    },
     {
      "title": "The iPhone clock app has an oddity not many people know about",
      "link": "https://www.engadget.com/2281209/iphone-clock-app-oddity-time-linear-list/",
@@ -1999,7 +2007,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 18:00:00 +0000",
      "summary": "Digital game licenses aren't perfect, which is why you might see a padlock icon blocking you from PS5 games.",
      "source": "Engadget",
-     "zh": "PlayStation 5 游戏库中挂锁符号背后的含义"
+     "zh": "PlayStation 5 游戏库中挂锁符号的含义"
     },
     {
      "title": "The original Apple TV 4K from 2017 is now officially \"vintage\"",
@@ -2040,14 +2048,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg reported that the HomeView device will start shipping in November.",
      "source": "Engadget",
      "zh": "据报道，苹果的智能家居中心将被称为 HomeView"
-    },
-    {
-     "title": "Apple Home's new AI summaries for security cameras cost more than you'd think",
-     "link": "https://www.engadget.com/2281077/apple-home-ai-summaries-security-camera-prices/",
-     "pubDate": "Sun, 11 Oct 2026 16:15:00 +0000",
-     "summary": "If you have a lot of cameras in your home, get ready to pay for more expensive iCloud+ plans.",
-     "source": "Engadget",
-     "zh": "Apple Home 针对安全摄像头的新人工智能摘要成本比你想象的要高"
     },
     {
      "title": "Report: HomePod mini 2 to release on October 30 with these upgrades",
@@ -2111,7 +2111,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 13:31:02 +0200",
      "summary": "While Amazon’s Prime Big Deal Days have wrapped up, discounts are still available on several smartphones. In fact, some devices that received few or no notable discounts during the sale are now available at reduced prices. Samsung’s Galaxy S26 Ultra, Apple’s iPhone 17 Pro lineup, and the entire Goog",
      "source": "GSMArena",
-     "zh": "特惠：三星、苹果、谷歌旗舰手机大幅折扣"
+     "zh": "特惠：三星、苹果、谷歌旗舰手机大优惠"
     },
     {
      "title": "I’ve tried all the major to-do list apps but keep coming back to this one",
@@ -2226,6 +2226,30 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "江特电机“一号工程”向开工建设推进",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892136455.html",
+     "pubDate": "Mon, 12 Oct 2026 02:56:03 +0800",
+     "summary": "10月11日， 江特电机 (002176)公告年产300万吨的大型 锂 矿茜坑 锂 矿有望进入开工建设阶段。公司将该项目视作“一号工程”。 公告显示，近日 江特电机 收到国家矿山安全监察局下发的《江西特种电机股份有限公司江西省宜丰县茜坑 锂 矿300万吨/年采矿工程安全设施设计审查意见书》，这是茜坑锂矿由取得采矿权向依法开工建设推进的关键环节。 茜坑锂矿名声在外，该矿山平均海拔低、矿藏埋藏较浅、开采条件优越。采矿证证载显示，该矿面积1.38平方公里，为大型锂矿，开采年限30年。 早在2024年5月， 江特电机 即取得了茜坑锂矿《采矿许可证》，这也是我国第一个在自然资源部办理的云母型锂矿采矿权证",
+     "source": "东方财富股票",
+     "zh": "江特电机“一号工程”向开工建设推进"
+    },
+    {
+     "title": "美国威胁切断对乌武器供应 以阻止对俄炼油厂袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202610123892138751.html",
+     "pubDate": "Mon, 12 Oct 2026 02:42:34 +0800",
+     "summary": "央视记者当地时间10月11日获悉，有欧洲官员表示，美国正威胁停止向乌克兰提供武器的供应机制，以此施压基辅，要求其停止对俄罗斯能源基础设施的纵深打击。 这些官员表示，美国正在游说欧洲各国及基辅，试图促使停止针对俄罗斯炼油厂的袭击。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "美国威胁切断对乌武器供应 以阻止对俄炼油厂袭击"
+    },
+    {
+     "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
+     "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
+     "pubDate": "Sun, 11 Oct 2026 18:40:51 GMT",
+     "summary": "Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin",
+     "source": "Financial Times",
+     "zh": "美国因俄罗斯炼油厂遇袭威胁停止向乌克兰提供武器"
+    },
+    {
      "title": "泽连斯基称支持“能源停火” 乌武装部队已收到相关命令",
      "link": "http://finance.eastmoney.com/news/11790,202610123892138647.html",
      "pubDate": "Mon, 12 Oct 2026 02:37:45 +0800",
@@ -2258,28 +2282,12 @@ window.INDUSTRY_DATA = {
      "zh": "苏丹北部矿区遇袭 已致72人死亡"
     },
     {
-     "title": "期货+场外期权组合发力 纸浆企业实现库存主动管理",
-     "link": "http://finance.eastmoney.com/news/1349,202610123892136278.html",
-     "pubDate": "Mon, 12 Oct 2026 02:16:51 +0800",
-     "summary": "2025年纸浆市场供需相对宽松，期现货价格波动给企业经营带来挑战。市场行情存在不确定性，单纯依靠 期货 套期保值的模式已经难以充分应对，行业沿用已久的传统风险管理手段因此面临现实考验。纸浆产业链风险管理迫切需要跳出被动防御的固有思路，向精细化、多元化的主动管理模式转型。 安徽无攸科技有限公司（以下简称“无攸科技”）是纸浆供应链领域的创新型科技企业。面对传统风控工具的局限性，企业联合银河 期货 ，落地“ 期货 +场外期权”组合风险管理策略，解决持仓成本高、收益来源单一等痛点，成为纸浆产业风险管理模式迭代升级的典型样本。 传统风控管理方案 存在一定局限 记者从无攸科技了解到，2025年纸浆市场价格",
-     "source": "东方财富股票",
-     "zh": "期货+场外期权组合发力 纸浆企业实现库存主动管理"
-    },
-    {
      "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
      "link": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1",
      "pubDate": "Sun, 11 Oct 2026 18:01:02 GMT",
      "summary": "UK prime minister calls for European voters to be better informed about Kremlin-backed efforts to disrupt democratic process",
      "source": "Financial Times",
      "zh": "伯纳姆称俄罗斯“干预”了 2016 年英国脱欧公投"
-    },
-    {
-     "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
-     "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 17:59:05 GMT",
-     "summary": "Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin",
-     "source": "Financial Times",
-     "zh": "美国因俄罗斯炼油厂遇袭威胁停止向乌克兰提供武器"
     },
     {
      "title": "‘Other Mommy’ tops weekend box office with $27M, domestic ticket sales cross $8B",
@@ -2456,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "For four years, tech has been the answer to almost every question about this bull market.",
      "source": "MarketWatch",
      "zh": "牛市已满四周年——但收益率可能会令派对崩溃"
-    },
-    {
-     "title": "NBA commissioner Adam Silver says league could introduce ‘smart ball’ technology as soon as next year",
-     "link": "https://www.cnbc.com/2026/10/11/commissioner-adam-silver-nba-could-launch-smart-ball-tech-next-year.html",
-     "pubDate": "Sun, 11 Oct 2026 12:54:04 GMT",
-     "summary": "Commissioner Adam Silver says the NBA could begin using a new \"smart ball\" in games as soon as next year, potentially transforming how officials make calls.",
-     "source": "CNBC",
-     "zh": "NBA总裁亚当·萧华表示联盟最早可能在明年引入“智能球”技术"
     }
    ]
   },

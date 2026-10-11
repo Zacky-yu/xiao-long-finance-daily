@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 23:57:05",
+ "generated_at": "2026/10/12 00:09:58",
  "recent_days": 7,
  "industries": [
   {
@@ -658,6 +658,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Back in the real world: electric equipment is saving job sites BIG MONEY",
+     "link": "https://electrek.co/2026/10/11/back-in-the-real-world-electric-equipment-is-saving-job-sites-big-money/",
+     "pubDate": "Sun, 11 Oct 2026 16:04:15 +0000",
+     "summary": "For a lot of fleet managers, whether or not electrified equipment assets will lead to real world savings that are worth the higher up-front costs might feel theoretical, but early adopters Groupe Bellemare have been operating battery-powered heavy equipment for years – and their real-world results a",
+     "source": "Electrek",
+     "zh": "回到现实世界：电气设备正在为工地节省大笔资金"
+    },
+    {
+     "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+     "link": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+     "pubDate": "Sun, 11 Oct 2026 16:02:00 +0000",
+     "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+     "source": "TechCrunch Transport",
+     "zh": "TechCrunch Mobility：自动驾驶卡车扫清障碍"
+    },
+    {
      "title": "Chinese EVs Are Praised For Value, But This $150,000 Minivan Has A Serious Braking Problem",
      "link": "https://insideevs.com/news/811352/maextro-v800-luxury-minivan-brake-failure/",
      "pubDate": "Sun, 11 Oct 2026 14:00:00 +0000",
@@ -695,7 +711,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 01:17:40 +0000",
      "summary": "Aito will continue using CATL batteries across its lineup, with total annual capacity set to exceed 20 GWh after a joint project is completed. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "CATL与Seres签署长期战略协议扩大Aito电池产能"
+     "zh": "CATL与Seres签署长期战略协议，扩大Aito电池产能"
     },
     {
      "title": "Geely Galaxy launches Cruiser 700 to take on BYD, GWM in off-road SUV market",
@@ -703,7 +719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 14:07:06 +0000",
      "summary": "The limited-time price of the Cruiser 700, including a trade-in subsidy, is 169,800 yuan ($25,220), and firm orders exceeded 10,000 units within the first 12 minutes. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "吉利银河推出漫步者700 与比亚迪、长城汽车争夺越野SUV市场"
+     "zh": "吉利银河推出漫步者700 挑战比亚迪、长城 越野SUV市场"
     },
     {
      "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
@@ -770,14 +786,6 @@ window.INDUSTRY_DATA = {
      "zh": "特斯拉的下一个大型清洁能源正在亚利桑那州沙漠中崛起"
     },
     {
-     "title": "Hyundai is offering a 10% discount on the IONIQ 5 and IONIQ 9 EVs",
-     "link": "https://electrek.co/2026/10/09/hyundai-offers-10-discount-ioniq-5-ioniq-9-evs/",
-     "pubDate": "Fri, 09 Oct 2026 21:06:14 +0000",
-     "summary": "Hyundai’s electric SUVs are even more tempting this month with a 10% discount, or up to $7,000 in total savings. more…",
-     "source": "Electrek",
-     "zh": "现代汽车为 IONIQ 5 和 IONIQ 9 电动汽车提供 10% 的折扣"
-    },
-    {
      "title": "I Tested New York City’s First Lamppost EV Charger. It’s A Game Changer",
      "link": "https://insideevs.com/news/811388/voltpost-air-lamppost-ev-charger-review-insideevs/",
      "pubDate": "Fri, 09 Oct 2026 17:04:12 +0000",
@@ -840,14 +848,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
      "source": "TechCrunch Transport",
      "zh": "Bloom 融资 360 万美元，成为美国制造业的“阿里巴巴”"
-    },
-    {
-     "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-     "link": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
-     "pubDate": "Wed, 07 Oct 2026 15:00:00 +0000",
-     "summary": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
-     "source": "TechCrunch Transport",
-     "zh": "SpaceX 校友获得 1 亿美元资金，重新思考利用自动货运列车进行运输"
     }
    ]
   },
@@ -863,7 +863,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 10:00:00 -0500",
      "summary": "Australia has long been known for its strong coal industry, being one of the world’s largest producers and exporters. While much of the world moves away from coal in favour of cleaner energy sources, Australia is doubling down on its coal production, with plans to extend the life of coal operations ",
      "source": "OilPrice",
-     "zh": "尽管巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
+     "zh": "尽管有巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
     },
     {
      "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
@@ -962,12 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "清洁能源超级政治行动委员会确定大选目标名单"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM 批准 Engie、LS Power 的 2.1 GW 快速互连"
+     "zh": "Engie、LS Power 获得 PJM 快速互联批准 2.1 吉瓦"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "第三季度美国电力、天然气公用事业费率请求飙升至 $4.5B：PowerLines"
     },
@@ -1135,7 +1135,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 21:03:52 +0000",
      "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
      "source": "STAT News",
-     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥重要作用"
+     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥首要作用"
     },
     {
      "title": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
@@ -1383,7 +1383,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
      "summary": "Seattle-based Kapta Space announced a $24M Series A to build next-gen radar payloads designed to track moving targets. The post Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：Kapta Space 筹集了 2400 万美元的 A 轮融资，用于构建移动目标雷达有效载荷"
+     "zh": "独家：Kapta Space A 轮融资 2400 万美元，用于构建移动目标雷达有效载荷"
     },
     {
      "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
@@ -1730,6 +1730,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+     "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+     "pubDate": "Sun, 11 Oct 2026 16:00:00 +0000",
+     "summary": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+     "source": "TechCrunch",
+     "zh": "Dawn Myers 使卷发造型、梳理和护理变得更加容易"
+    },
+    {
      "title": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到",
      "link": "https://www.ithome.com/1/011/715.htm",
      "pubDate": "Sun, 11 Oct 2026 15:28:59 GMT",
@@ -1786,22 +1794,6 @@ window.INDUSTRY_DATA = {
      "zh": "消息称荣耀 WIN Pad 平板搭载 8.4 英寸 240Hz OLED 屏，本月发布"
     },
     {
-     "title": "FDE在硅谷是香饽饽，在中国可能是个坑？",
-     "link": "https://www.huxiu.com/article/4896646.html?f=rss",
-     "pubDate": "Sun, 11 Oct 2026 22:53:03 +0800",
-     "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：老曹 混AI圈，很难躲开FDE这三个字母。Forward Deployed Engineer，前沿部署工程师。 数据确实唬人。领英今年初的报告说，这个岗位从2023到2025年涨了42倍，同期AI工程师只涨了13倍；Indeed的口径是一年翻了七倍多。OpenAI和Anthropic前阵子几乎同时成立企业服务公司，OpenAI一出手就收购了一家英国AI咨询公司，把上百名资深FDE直接收编。国内也跟上了，腾讯在深圳挂出40到70K、15薪的FDE岗，上海ZF还专门办了FDE人才培训班。 于是\"转FDE，年薪百万\"的帖子满天飞。 我想泼盆冷水。在美国",
-     "source": "虎嗅",
-     "zh": "FDE在硅谷是香饽饽，在中国可能是个坑？"
-    },
-    {
-     "title": "腾讯又一款明星产品即将消失",
-     "link": "https://www.huxiu.com/article/4896645.html?f=rss",
-     "pubDate": "Sun, 11 Oct 2026 22:52:50 +0800",
-     "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：怪哥 腾讯又一款AI产品，要和大家说再见了。 10月8日，腾讯元器发布了一则《关于元器平台停止服务通知》，宣布因业务调整，将于2026年11月9日正式停止服务。 ←左右滑动阅读→ 按照公告，10月29日起，平台将停止创建新智能体和分发API Key。11月9日之后，元器的应用访问、数据读写、API调用等服务将全部关闭，此前创建的智能体也将无法继续使用。即便已经发布到微信公众号、微信客服等渠道，同样无法继续响应用户。 对于已经在元器上搭建了业务的开发者，腾讯提供了数据导出和迁移方案。数据导出过渡期将持续至2027年1月9日。 腾讯元器官方停服公告 ",
-     "source": "虎嗅",
-     "zh": "腾讯又一款明星产品即将消失"
-    },
-    {
      "title": "小岛秀夫确认客串某大型真人电影、某知名动画，坦言不喜欢扮演自己",
      "link": "https://www.ithome.com/1/011/710.htm",
      "pubDate": "Sun, 11 Oct 2026 14:50:56 GMT",
@@ -1813,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
      "link": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
      "pubDate": "Sun, 11 Oct 2026 14:28:39 +0000",
-     "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 164 # Comments: 80",
+     "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 204 # Comments: 101",
      "source": "Hacker News",
      "zh": "内部文件增加了埃克森美孚气候欺骗活动的证据"
     },
@@ -1824,6 +1816,14 @@ window.INDUSTRY_DATA = {
      "summary": "Deep Science Ventures 的研究人员的一项研究发现，英国水果和蔬菜的营养价值自 1960 年代以来减少最高五成。英国民众现在需要食用两倍数量的蔬菜，才能摄入与 60 年前同等水平的矿物质如钾、镁或铜。许多农作物中几种关键营养素的含量减少了 20%-50%。营养和维生素含量的下降主要归因于土壤质量的退化，以及作物在育种时过度追求快速生长，而忽视了其营养价值。正使用减肥药物的人群面临的营养匮乏风险可能最大，因为减肥药会导致他们的食物摄入量显著减少。",
      "source": "Solidot",
      "zh": "英国水果蔬菜营养价值下降最高五成"
+    },
+    {
+     "title": "Why Texas Is Making Data Centers Wait",
+     "link": "https://a16z.com/why-texas-is-making-data-centers-wait/",
+     "pubDate": "Sun, 11 Oct 2026 14:21:31 +0000",
+     "summary": "Article URL: https://a16z.com/why-texas-is-making-data-centers-wait/ Comments URL: https://news.ycombinator.com/item?id=50043603 Points: 3 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "为什么德克萨斯州让数据中心等待"
     },
     {
      "title": "LineageOS 24 释出",
@@ -1842,14 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "关于具有里程碑意义的华纳兄弟探索之旅特卖，您需要了解哪些信息"
     },
     {
-     "title": "贾樟柯开始看红果，AI很热闹、普通人只想“耍起”",
-     "link": "https://www.huxiu.com/article/4896639.html?f=rss",
-     "pubDate": "Sun, 11 Oct 2026 21:32:26 +0800",
-     "summary": "本文来自微信公众号： 师天浩观察 ，作者：辰聪 8月6日晚上，贾樟柯发了条微博，说最近在看红果。 （图片来源：微博） 这条微博被转了两万多次。一个用长镜头拍《三峡好人》的导演，追起三秒一个冲突的免费短剧，评论区没人觉得违和。底下一半人在说，自己爸妈刷得比他更凶。红果2023年4月上线，第一个月月活只有32万，三年后爬到3.56亿，今年1月日活破亿，成了字节跳动第五款亿级App。QuestMobile的统计显示，2026年5月看短剧的人一共8.51亿，每三个网民里就有两个，70后、80后占47.2%。 贾樟柯不是下沉了，是红果上岸了。它越过县城和城中村，游进了所有人的晚上。 几乎同一时间，另一组",
-     "source": "虎嗅",
-     "zh": "贾樟柯开始看红果，AI很热闹、普通人只想“耍起”"
-    },
-    {
      "title": "Open-Source Microsoft Office Excel, PowerPoint, and Word Replications",
      "link": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
      "pubDate": "Sun, 11 Oct 2026 13:28:03 +0000",
@@ -1861,17 +1853,9 @@ window.INDUSTRY_DATA = {
      "title": "Terence Tao: Math 2.0 [pdf]",
      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
      "pubDate": "Sun, 11 Oct 2026 13:16:45 +0000",
-     "summary": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50043026 Points: 95 # Comments: 119",
+     "summary": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50043026 Points: 103 # Comments: 127",
      "source": "Hacker News",
      "zh": "陶哲轩：数学 2.0 [pdf]"
-    },
-    {
-     "title": "AI到底有没有“灵魂”？",
-     "link": "https://www.huxiu.com/article/4896637.html?f=rss",
-     "pubDate": "Sun, 11 Oct 2026 21:13:13 +0800",
-     "summary": "本文来自微信公众号： 凤凰网财经 ，作者：凤凰AI研究院 2026年4月，旧金山某间闭门会场里，坐着一群宗教人士。 Anthropic联合创始人奥拉（Christopher Olah）把一页幻灯片打到墙上。 对话框里，Claude反复落下“我是个耻辱”这行字，不停歇地重复了50次，像在自我审判。 这一幕被Anthropic当作“可能具备意识与痛觉”的疑似证据。 一位计算机工程师直接反问到，如果它真有意识，你们让它免费干活，这就是造奴隶。奥拉没反驳，只说：“我们不确定，但若它可能痛苦，负责任的做法是避免伤害。” 没人当场承认模型有灵魂，但“它会不会受苦”这个问题，已经被这家估值冲刺两万亿美元的A",
-     "source": "虎嗅",
-     "zh": "AI到底有没有“灵魂”？"
     },
     {
      "title": "本末科技，还没吃上具身智能这碗饭",
@@ -1930,18 +1914,10 @@ window.INDUSTRY_DATA = {
      "zh": "边跌边配售，“吞金兽”壁仞科技准备再搞40亿"
     },
     {
-     "title": "这些掌握了内幕消息的人，是怎么亏钱的？",
-     "link": "https://www.huxiu.com/article/4896635.html?f=rss",
-     "pubDate": "Sun, 11 Oct 2026 20:41:23 +0800",
-     "summary": "本文来自微信公众号： 思想钢印 ，作者：思想钢印 1/7 亏钱跟消息无关 在很多人看来，有了内幕消息，就好像游戏开了外挂，赚钱不就是水到渠成的事，但监管处罚数据给出了相反的答案。 2025年全年的126份适用新《证券法》的内幕交易行政处罚中，61件为亏损或获利不足50万元，占比48.4%；涉及151名当事人，列明“无违法所得”（即亏损）的有44名，占29.1%；违法所得在1000万元以上的只有4人。 所以就算你有内幕，亏损或微利都是常态，暴利是极少数。2022年披露的Y集团、刘某某操纵“Y健康”案，股票亏损高达8.17亿元。 很多人觉得，是不是因为消息是假的、事件落空或者交易未完成，所以才亏钱",
-     "source": "虎嗅",
-     "zh": "这些掌握了内幕消息的人，是怎么亏钱的？"
-    },
-    {
      "title": "The tilde in your PATH may not be your HOME",
      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
      "pubDate": "Sun, 11 Oct 2026 12:13:13 +0000",
-     "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 81 # Comments: 48",
+     "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 90 # Comments: 53",
      "source": "Hacker News",
      "zh": "您的 PATH 中的波形符可能不是您的 HOME"
     },
@@ -1957,17 +1933,41 @@ window.INDUSTRY_DATA = {
      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
      "link": "https://verdagon.dev/blog/valen-group-borrowing",
      "pubDate": "Sun, 11 Oct 2026 12:06:22 +0000",
-     "summary": "Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 52 # Comments: 22",
+     "summary": "Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 57 # Comments: 25",
      "source": "Hacker News",
      "zh": "Valen 的内存安全：一种新型的借用检查"
     },
     {
-     "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
-     "link": "https://betterwispr.com/",
-     "pubDate": "Sun, 11 Oct 2026 12:01:28 +0000",
-     "summary": "Article URL: https://betterwispr.com/ Comments URL: https://news.ycombinator.com/item?id=50042333 Points: 26 # Comments: 8",
-     "source": "Hacker News",
-     "zh": "Show HN：BetterWispr – 适用于 Mac 的免费开源听写软件"
+     "title": "I Made Terrible Games With Google’s AI Playground",
+     "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+     "pubDate": "Sun, 11 Oct 2026 11:30:00 +0000",
+     "summary": "A long day’s haul in the video game slop mines.",
+     "source": "WIRED",
+     "zh": "我用 Google 的 AI Playground 制作了糟糕的游戏"
+    },
+    {
+     "title": "13 Best Gifts for Every Traveler Should Have (2026)",
+     "link": "https://www.wired.com/story/best-gifts-for-travelers/",
+     "pubDate": "Sun, 11 Oct 2026 10:33:00 +0000",
+     "summary": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers.",
+     "source": "WIRED",
+     "zh": "每位旅行者都应该拥有的 13 件最佳礼物 (2026)"
+    },
+    {
+     "title": "Inside the Muslim Manosphere Policing Women Online",
+     "link": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
+     "pubDate": "Sun, 11 Oct 2026 10:30:00 +0000",
+     "summary": "From Red Pill coaches to “Dawah Bros,” influencers are dressing up hypermasculinity and misogyny in religious language—and finding audiences across social platforms.",
+     "source": "WIRED",
+     "zh": "穆斯林马诺圈内部 在线监管女性"
+    },
+    {
+     "title": "These Midterm Races Will Decide Data Centers’ Political Fate",
+     "link": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
+     "pubDate": "Sun, 11 Oct 2026 10:00:00 +0000",
+     "summary": "From the Senate to governors’ mansions, candidates are trying to outcompete each other to be the most anti–data center in races across the US.",
+     "source": "WIRED",
+     "zh": "这些中期竞选将决定数据中心的政治命运"
     }
    ]
   },
@@ -2226,12 +2226,28 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "BridgeBio reports improved symptoms in Phase 3 trial of rare-disease drug",
+     "link": "https://seekingalpha.com/news/4651932-bridgebio-reports-improved-symptoms-in-phase-3-trial-of-rare-disease-drug?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 11 Oct 2026 12:09:22 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BridgeBio 报告罕见病药物 3 期试验中症状有所改善"
+    },
+    {
+     "title": "英伟达，被曝“新布局”",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892131695.html",
+     "pubDate": "Sun, 11 Oct 2026 23:56:19 +0800",
+     "summary": "据英国《金融时报》10日报道， 英伟达 正与AI初创公司Reflection AI展开初步谈判，探讨全面收购、追加投资或“收购式招聘”等多种方案。双方可能在未来几周达成协议，但谈判仍存在破裂可能。 值得注意的是， 英伟达 倾向于“人才收购”模式——聘用核心团队、获得技术授权，而不直接收购整家公司。这有望绕开漫长的反垄断审查。 自研、投资、收购 英伟达 在下一盘大棋 盯上Reflection AI，只是英伟达密集出手的缩影。英伟达创始人黄仁勋今年7月在接受采访时表示，“免费的AI应该有利于硬件，有利于芯片，有利于 数据中心 ”。事实也表明，英伟达正用资本和模型，实现其“AI—算力—模型”的生态闭",
+     "source": "东方财富股票",
+     "zh": "英伟达，被曝“新布局”"
+    },
+    {
      "title": "Zelenskyy says Trump's Russia-Ukraine energy ceasefire deal was a surprise: Axios",
      "link": "https://seekingalpha.com/news/4651931-zelensky-says-trumps-russia-ukraine-energy-ceasefire-deal-was-a-surprise-axios?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 11 Oct 2026 11:52:21 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "泽连斯基表示特朗普的俄罗斯-乌克兰能源停火协议令人惊讶：Axios"
+     "zh": "泽伦斯基表示特朗普的俄罗斯-乌克兰能源停火协议令人惊讶：Axios"
     },
     {
      "title": "财险公司保险产品开发迎新规 附加险管理进一步规范",
@@ -2250,12 +2266,44 @@ window.INDUSTRY_DATA = {
      "zh": "现房销售正以“确定性”提振楼市信心"
     },
     {
+     "title": "通信设备“小巨人”通则康威打新中签率公布，周一抽签",
+     "link": "http://finance.eastmoney.com/news/1349,202610113892131597.html",
+     "pubDate": "Sun, 11 Oct 2026 23:49:47 +0800",
+     "summary": "10月11日晚间， 通则康威 （301718）披露了首次公开发行股票并在创业板上市网上申购情况及中签率公告。 公告显示，公司此次IPO网上发行有效申购户数近1396.71万户，有效申购股数近1085.20亿股，网上初步有效申购倍数超过100倍，触发回拨机制后，网上最终中签率仅为0.0162901214%，有效申购倍数约6138.69倍。 通则康威 此次发行价格为26.88元/股，发行总量为3645万股，保荐人（主承销商）为 中信建投 证券。 根据安排，摇号抽签将于10月12日进行，中签结果及缴款于10月13日完成。 回拨后网上发行占比升至48.50% 根据公告， 通则康威 本次发行采用网下向符",
+     "source": "东方财富股票",
+     "zh": "通信设备“小巨人”通则康威打新中签率公布，周一抽签"
+    },
+    {
      "title": "中国物流业景气指数连续5个月处于扩张区间",
-     "link": "http://www.eeo.com.cn/2026/1011/1061169.shtml",
-     "pubDate": "Sun, 11 Oct 2026 23:52:05 +0800",
-     "summary": "10月11日，中国物流与采购联合会发布数据显示，2026年9月，中国物流业景气指数为51.5%，较8月回升0.6个百分点，连续5个月处在扩张区间。 中国物流信息中心主任刘宇航认为，景气指数连续5个月处在扩张区间，业务总量指数、新订单指数环比回升，反映出政策和市场联动效应持续显现，促消费、惠民生政策带动物流需求产生积极变化。同时，物流供需市场环境也在稳步改善，高效绿色智能物流供给加快增长，对物流需求的适配性不断...",
-     "source": "经济观察网",
+     "link": "http://finance.eastmoney.com/news/1352,202610113892130329.html",
+     "pubDate": "Sun, 11 Oct 2026 23:48:28 +0800",
+     "summary": "10月11日，中国 物流 与采购联合会发布数据显示，2026年9月，中国 物流 业景气指数为51.5%，较8月回升0.6个百分点，连续5个月处在扩张区间。 中国 物流 信息中心主任刘宇航认为，景气指数连续5个月处在扩张区间，业务总量指数、新订单指数环比回升，反映出政策和市场联动效应持续显现，促消费、惠民生政策带动物流需求产生积极变化。同时，物流供需市场环境也在稳步改善，高效绿色智能物流供给加快增长，对物流需求的适配性不断增强。 具体来看，业务总量指数和新订单指数处在扩张区间。业务总量指数为51.5%，环比回升0.6个百分点。分地区看，东部、中部和西部地区业务总量指数分别为51.3%、51.2%",
+     "source": "东方财富股票",
      "zh": "中国物流业景气指数连续5个月处于扩张区间"
+    },
+    {
+     "title": "百货公司拟跨界光芯片 标的资产评估增值率764%！交易所火速出手",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892131380.html",
+     "pubDate": "Sun, 11 Oct 2026 23:44:21 +0800",
+     "summary": "10月11日晚间， 东百集团 （600693.SH，股价10.16元，市值88.38亿元）披露公告，公司全资子公司福建东百创智投资有限公司拟收购杭州快灵光电科技有限公司（以下简称快灵光电）52.6667%股权，暂定 股权转让 对价为人民币3.16亿元。 交易完成后，快灵光电及其全资子公司浙江光特科技有限公司（以下简称光特科技）将纳入公司合并报表范围， 东百集团 由此从商业零售、仓储 物流 主业跨界切入光芯片领域。 标的公司去年净亏1507万元承诺未来3年净赚1.5亿元 东百集团 是一家以“商业零售+仓储 物流 ”为双轮驱动的基础设施提供商和运营商。 据2026年半年度报告，上市公司上半年实现营",
+     "source": "东方财富股票",
+     "zh": "百货公司拟跨界光芯片 标的资产评估增值率764%！交易所火速出手"
+    },
+    {
+     "title": "生猪养殖企业相继发布前三季度销售数据",
+     "link": "http://finance.eastmoney.com/news/1355,202610113892129671.html",
+     "pubDate": "Sun, 11 Oct 2026 23:43:08 +0800",
+     "summary": "截至10月11日，拥有生猪 养殖业 务的上市公司相继发布前三季度的销售数据。从数据透露的信息可知，受全年销售价格偏低的影响，相关上市公司仍然面临着较大的经营压力。 上海钢联 生猪行业分析师王红焱在接受《证券日报》记者采访时介绍，今年上半年，猪价相对平稳，多数养殖企业维持盈利或微利，随着下半年猪价震荡下行，行业整体进入盈亏平衡线附近，成本控制较好的企业尚能维持，成本偏高的已出现亏损。 行业的这种价格走势，也体现在头部养殖企业的月度销售数据之中。根据温氏食品集团股份有限公司的公告，2026年9月，该公司销售肉猪298.83万头（含毛猪和鲜品），收入40.56亿元，毛猪销售均价为10.75元/公斤，",
+     "source": "东方财富股票",
+     "zh": "生猪养殖企业相继发布前三季度销售数据"
+    },
+    {
+     "title": "澳大利亚前总理陆克文：呼吁共建平等开放的亚太共同体",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892131479.html",
+     "pubDate": "Sun, 11 Oct 2026 23:41:27 +0800",
+     "summary": "中新社北京10月11日电 (刘梦青)澳大利亚前总理陆克文11日在北京表示，亚太地区各成员尽管存在差异与竞争，仍要管控分歧、拓展合作，共建平等开放的亚太共同体。 当日，由中国人民大学主办的通州·全球发展论坛(2026)在北京举行。陆克文作上述表示。 10月11日，由中国人民大学主办的通州·全球发展论坛(2026)在北京举行。图为澳大利亚前总理陆克文作演讲。中新社记者贾天勇摄 今年11月，亚太经合组织(APEC)第三十三次领导人非正式会议将在中国深圳举行，主题为“建设亚太共同体，促进共同繁荣”。陆克文说，中国第三次担任APEC东道主，将建设亚太共同体置于工作的核心位置，“亚太共同体作为发展愿景，值",
+     "source": "东方财富股票",
+     "zh": "澳大利亚前总理陆克文：呼吁共建平等开放的亚太共同体"
     },
     {
      "title": "EU plans yearly cap of 350,000 Chinese hybrid cars as trade tensions rise",
@@ -2296,14 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "Trump’s approach to the world has left Republicans floundering as the midterms approach. Liberals should plan their own strategy now",
      "source": "Financial Times",
      "zh": "民主党需要外交政策"
-    },
-    {
-     "title": "Goldman Sachs sees $600B U.S. equity issuance in 2027",
-     "link": "https://seekingalpha.com/news/4651925-goldman-sachs-sees-record-600b-in-u-s-equity-issuance-in-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 11 Oct 2026 11:09:19 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "高盛预计 2027 年将发行 600B 美元的美国股票"
     },
     {
      "title": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山",
@@ -2424,46 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "投资者当前对宁德时代的盈利预期或许过于悲观。 据追风交易台消息，10月9日，摩根士丹利研报指出，目前市场焦点过度集中在占宁德时代电动车电池总销量约三分之一的中国乘用车市场。然而，该行强调，中国商用车车队的电动化、欧洲电动车普及率的重新加速，以及除美国外全球其他市场电动车需求的拐点，已经构成了不可忽视的庞大收入敞口。市场低估了宁德时代的跨周期韧性。 分析师Jack Lu和Kaylee Xu在报告中基于全生命周期成本（TCO）分析，宁德时代的技术优势可支撑高达0.24元/瓦时的溢价，远高于当前0.09元/瓦时的实际利润溢价，盈利护城河稳固。 针对部分投资者担忧明年电池净利润可能降至0.08元/瓦时",
      "source": "华尔街见闻",
      "zh": "大摩相信：市场低估了宁德时代的韧性！"
-    },
-    {
-     "title": "英伟达表外承诺飙升至5300亿美元！SemiAnalysis：未来可能突破1万亿美元",
-     "link": "https://wallstreetcn.com/articles/3783383",
-     "pubDate": "Sun, 11 Oct 2026 18:56:33 +0800",
-     "summary": "英伟达的表外财务承诺规模正以惊人速度膨胀，引发市场对其资产负债表弹性与风险承受能力的高度关注。 据英伟达最新提交的10-Q季报披露，其表外担保总额已达5300亿美元，较上一季度披露的1840亿美元大幅跃升，单季增幅超过180%。 这一数字横跨六个不同科目，涵盖供应承诺、数据中心兜底协议及云服务租约等多类义务。 研究机构SemiAnalysis在对上述数据进行深度拆解后指出， 随着英伟达盈利能力持续增强，其表外义务规模在未来几年有望进一步扩张至1万亿美元以上。 与此同时，该机构也提出核心问题： 一旦行业出现放缓或下行，英伟达能否在兼顾安全边际的前提下，履行全部表内与表外承诺？ 单季激增逾1800",
-     "source": "华尔街见闻",
-     "zh": "英伟达表外承诺飙升至5300亿美元！SemiAnalysis：未来可能突破1万亿美元"
-    },
-    {
-     "title": "美国VC资本流向：从“单一组件”转向“AI工厂”系统集成",
-     "link": "https://wallstreetcn.com/articles/3783382",
-     "pubDate": "Sun, 11 Oct 2026 18:40:23 +0800",
-     "summary": "AI基础设施风险投资正经历结构性转变。资本不再仅仅追逐算力或电力这两个单一要素，而是加速流向将两者整合为一体的系统性解决方案——数据中心正在演变为需要统一调度电力、算力、网络、冷却与数据流动的\"AI工厂\"。 据追风交易台，摩根士丹利最新研究报告指出，2026年美国AI基础设施相关初创企业的风险融资规模已达335亿美元，较2025年全年近乎翻倍。 资本高度集中于两大最稀缺的基础设施要素——单位功耗算力与稳定电力供应，两条路径合计占2026年融资总额的逾80%。与此同时，越来越多的投资者开始同时布局电力与算力，跨路径投资者参与比例从2021年前的16%跃升至2026年的73%，标志着市场对系统集成",
-     "source": "华尔街见闻",
-     "zh": "美国VC资本流向：从“单一组件”转向“AI工厂”系统集成"
-    },
-    {
-     "title": "如今美光赚得比苹果还多！苹果急需芯片，美光掌握定价权",
-     "link": "https://wallstreetcn.com/articles/3783377",
-     "pubDate": "Sun, 11 Oct 2026 17:59:03 +0800",
-     "summary": "内存短缺正在重新分配科技行业的利润版图。美光科技在截至9月30日的第四财季录得净利润377亿美元，而苹果同期净利润为298亿美元——美光单季多赚了约80亿美元。 这一反转并非偶然。市场策略师Charlie Bilello在X平台上用三句话概括了这一逻辑： “苹果需要芯片。美光有芯片。美光定价格。” 他补充道，美光净利润“在短短两年内飙升42倍至380亿美元——比苹果上季度的盈利还多80亿美元”，并直言：“我们从未见过这样的定价权。” 科技投资分析师Beth Kindig也在X平台上指出：“美光现在产生的营业利润已经超过苹果。” 美光的数字：从亏损边缘到碾压苹果 美光的盈利反转速度令人咋舌。 2",
-     "source": "华尔街见闻",
-     "zh": "如今美光赚得比苹果还多！苹果急需芯片，美光掌握定价权"
-    },
-    {
-     "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
-     "link": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 09:48:24 GMT",
-     "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels",
-     "source": "Financial Times",
-     "zh": "利雅得机场遭导弹袭击造成12人死亡、数百人受伤"
-    },
-    {
-     "title": "十大机构论市：市场短期性价比已明显改善 小级别反弹可期",
-     "link": "http://finance.eastmoney.com/news/1345,202610113892075327.html",
-     "pubDate": "Sun, 11 Oct 2026 17:30:10 +0800",
-     "summary": "本周沪指下跌0.74%，深证成指下跌1.91%，创业板指下跌2.93%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 申万宏源策略：市场短期性价比已明显改善 小级别反弹可期 国庆假期后两个交易日的行情，构成支持我们长中短期波段定位的证据。中长波段，A股处于两个大波段上涨之间的震荡休整期，且仍偏向于弱势震荡。这个阶段，大类资产和产业利空，容易引发脉冲式调整。短波段，市场短期性价比已明显改善，各维度悲观预期都已有所反映。市场已经验证了，上证综指3800点以下配置需求释放，足以支持反弹。国庆假期后两个交易日的行情，构成支持我们长中短期波段定位的证据。重申我们长期、中期、短期波",
-     "source": "东方财富资讯",
-     "zh": "十大机构论市：市场短期性价比已明显改善 小级别反弹可期"
     }
    ]
   },

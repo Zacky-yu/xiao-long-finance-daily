@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/11 16:12:01",
+ "generated_at": "2026/10/11 16:31:56",
  "recent_days": 7,
  "industries": [
   {
@@ -15,6 +15,30 @@
      "summary": "OrcaRouter released OrcaCyber Zero 1.5, a gated cybersecurity model with a 1M-token context window. It reports 100% on Cybench and 95.8% on an evaluable CVE-Bench subset, priced at $3.00 / $7.50 per 1M tokens. The post OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context appear",
      "source": "MarkTechPost",
      "zh": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context"
+    },
+    {
+     "title": "王的猜想，刚刚扩展到四维",
+     "link": "https://www.qbitai.com/2026/10/502584.html",
+     "pubDate": "Sun, 11 Oct 2026 05:23:47 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "王的猜想，刚刚扩展到四维"
+    },
+    {
+     "title": "硅谷AI现状：谁有算力谁是爹",
+     "link": "https://www.qbitai.com/2026/10/502585.html",
+     "pubDate": "Sun, 11 Oct 2026 05:22:38 +0000",
+     "summary": "马斯克连横A社，硅谷VC开始囤GPU",
+     "source": "量子位",
+     "zh": "硅谷AI现状：谁有算力谁是爹"
+    },
+    {
+     "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+     "link": "https://www.qbitai.com/2026/10/502550.html",
+     "pubDate": "Sun, 11 Oct 2026 05:18:04 +0000",
+     "summary": "初代4o的API快照进入停用倒计时",
+     "source": "量子位",
+     "zh": "下架8个月，GPT-4o的拯救行动居然还在继续"
     },
     {
      "title": "ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了",
@@ -39,6 +63,14 @@
      "summary": "想象你站在一条产线旁边。纸箱一个接一个地往前走。有的歪了，有的少装了一件，有的日期打码印错了。线边的机械臂要",
      "source": "机器之心",
      "zh": "中科大团队把会「倒推」的世界模型塞进了机器人，成立三个月拿下数千万融资！"
+    },
+    {
+     "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+     "link": "https://www.qbitai.com/2026/10/502544.html",
+     "pubDate": "Sun, 11 Oct 2026 03:27:08 +0000",
+     "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+     "source": "量子位",
+     "zh": "DeepSeek Bot来了！民间版，DSH装个插件就能用"
     },
     {
      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
@@ -105,6 +137,14 @@
      "zh": "编程体验接近Opus 5.5？谷歌Gemini 4新版本曝光"
     },
     {
+     "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+     "link": "https://www.qbitai.com/2026/10/502541.html",
+     "pubDate": "Sat, 10 Oct 2026 10:30:36 +0000",
+     "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+     "source": "量子位",
+     "zh": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地"
+    },
+    {
      "title": "从记忆到自进化：Agent 走向 RSI 的关键一步",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062063&idx=1&sn=f91d6b290b4a38685b85a47415870873",
      "pubDate": "Sat, 10 Oct 2026 18:23:00 +0800",
@@ -121,20 +161,20 @@
      "zh": "田渊栋：与GPT-5合写最后一篇论文后，我意识到自己5年内会失业"
     },
     {
+     "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+     "link": "https://www.qbitai.com/2026/10/502496.html",
+     "pubDate": "Sat, 10 Oct 2026 09:07:43 +0000",
+     "summary": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
+     "source": "量子位",
+     "zh": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起"
+    },
+    {
      "title": "2026中国计算机大会定了，12位院士演讲，腾讯阿里百度、小米京东都来了",
      "link": "https://zhidx.com/p/599731.html",
      "pubDate": "Sat, 10 Oct 2026 15:18:39 +0800",
      "summary": "智东西 作者 | 王涵 编辑 | 云鹏 智东西10月10日报道，今天，第二十三届中国计算机大会（CNCC2026）新闻发布会在京举行，智东西等媒体受邀参加。 据介绍，CNCC2026将于 10月21日至24日 在四川成都举办，主会场设于中国西部国际博览城和天府国际会议中心，大会主题为 “数聚驱动，智算未来” 。 本届大会共设 17场特邀报告、3场大会论坛、167个专题论坛及40余场专题活动 ，同期还将举办CCF计算机展览会。 其中，专题论坛演讲者有 789位 ， 院士级演讲者有12位 ，来自腾讯、阿里、百度、小米、京东等企业专家达 92位 。 专题论坛围绕 11大主题 领域展开，包括：AI基础",
      "source": "智东西",
      "zh": "2026中国计算机大会定了，12位院士演讲，腾讯阿里百度、小米京东都来了"
-    },
-    {
-     "title": "特斯拉FSD，在欧洲被打回原形",
-     "link": "https://www.qbitai.com/2026/10/502467.html",
-     "pubDate": "Sat, 10 Oct 2026 06:59:02 +0000",
-     "summary": "马斯克反而发文道谢？",
-     "source": "量子位",
-     "zh": "特斯拉FSD，在欧洲被打回原形"
     },
     {
      "title": "00后硕士揭开AI推理“黑科技”：两个Token，基模追平强化学习版本",
@@ -207,46 +247,6 @@
      "summary": "Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model’s 40-step default. For developers, that means 5x fewer denoising steps on the same 7B architecture, p",
      "source": "MarkTechPost",
      "zh": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model"
-    },
-    {
-     "title": "Impactful scheduling for GPU clusters",
-     "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-     "pubDate": "Fri, 09 Oct 2026 15:20:29 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "Impactful scheduling for GPU clusters"
-    },
-    {
-     "title": "Build Your First MCP Server in Python (Stateless Spec Edition)",
-     "link": "https://www.kdnuggets.com/build-your-first-mcp-server-in-python-stateless-spec-edition",
-     "pubDate": "Fri, 09 Oct 2026 14:00:00 +0000",
-     "summary": "MCP just got simpler. Learn how to build a stateless MCP server in Python and expose tools, resources, and prompts over HTTP.",
-     "source": "KDnuggets",
-     "zh": "Build Your First MCP Server in Python (Stateless Spec Edition)"
-    },
-    {
-     "title": "10 Free AI Tools That Replace Expensive Software for Data Scientists",
-     "link": "https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists",
-     "pubDate": "Fri, 09 Oct 2026 12:00:00 +0000",
-     "summary": "Build a production-grade data science toolkit without spending a dollar, using open-source AI tools that match, and sometimes exceed, their paid alternatives.",
-     "source": "KDnuggets",
-     "zh": "10 Free AI Tools That Replace Expensive Software for Data Scientists"
-    },
-    {
-     "title": "TRAE终于把Code和Work合并了",
-     "link": "https://www.qbitai.com/2026/10/502426.html",
-     "pubDate": "Fri, 09 Oct 2026 09:19:57 +0000",
-     "summary": "大写的方便",
-     "source": "量子位",
-     "zh": "TRAE终于把Code和Work合并了"
-    },
-    {
-     "title": "We’re putting too much faith in AI’s ability to say no",
-     "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-     "pubDate": "Fri, 09 Oct 2026 09:00:00 +0000",
-     "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently",
-     "source": "MIT Tech Review AI",
-     "zh": "We’re putting too much faith in AI’s ability to say no"
     }
    ]
   },
@@ -657,6 +657,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
+     "link": "https://cnevpost.com/2026/10/11/nio-500-swap-stations-guangdong/",
+     "pubDate": "Sun, 11 Oct 2026 08:24:13 +0000",
+     "summary": "Guangdong accounts for about 13% of Nio's cumulative battery swaps in China. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed"
+    },
+    {
      "title": "CATL signs long-term strategic deal with Seres to expand Aito battery capacity",
      "link": "https://cnevpost.com/2026/10/11/catl-deal-seres-expand-aito-battery-capacity/",
      "pubDate": "Sun, 11 Oct 2026 01:17:40 +0000",
@@ -727,14 +735,6 @@
      "summary": "The G9L becomes Xpeng's fourth model to be assembled locally in Europe. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Xpeng completes G9L trial production in Austria ahead of Paris global premiere"
-    },
-    {
-     "title": "BYD reaches 150,000 commercial NEV production milestone as growth focus shifts to trucks",
-     "link": "https://cnevpost.com/2026/10/10/byd-150000-commercial-nev-production-focus-trucks/",
-     "pubDate": "Sat, 10 Oct 2026 01:34:49 +0000",
-     "summary": "A Q3 electric semi-truck marked the milestone as BYD accelerates its expansion into long-haul freight transport. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "BYD reaches 150,000 commercial NEV production milestone as growth focus shifts to trucks"
     },
     {
      "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
@@ -1721,20 +1721,60 @@
    "total": 18,
    "items": [
     {
-     "title": "Qwen-Image-2.1 Pro 和 Turbo API 上线千问 AI 平台，将图像生成与编辑能力接入应用",
-     "link": "https://www.ithome.com/1/011/622.htm",
-     "pubDate": "Sun, 11 Oct 2026 08:06:48 GMT",
-     "summary": "IT之家 10 月 11 日消息，千问 AI 平台今日宣布，Qwen-Image-2.1 Pro 和 Turbo API 现已正式上线千问 AI 平台。开发者可以通过 API 将 图像生成与编辑能力接入应用 ，无需自行部署模型、管理推理环境，即可围绕设计、电商、内容创作等场景搭建自己的工作流。与此同时，Qwen-Image-2.1-Turbo 模型权重同步开放。 现在，用户可以在千问 AI 平台查看 Qwen-Image-2.1 Pro 和 Turbo 的模型信息与接入说明，根据业务需求选择、测试和集成。 对于创作工具，API 可以成为从文字构思到视觉呈现的入口；对于电商和营销应用，可以围绕商",
+     "title": "2026 广交会设计创新奖公布，张雪机车 820RR 获至尊金奖",
+     "link": "https://www.ithome.com/1/011/629.htm",
+     "pubDate": "Sun, 11 Oct 2026 08:27:59 GMT",
+     "summary": "IT之家 10 月 11 日消息，据央视新闻今日报道，记者从中国对外贸易中心了解到，2026 年广交会设计创新奖（简称“CF 奖”）名单已公布，共有 174 家企业的 222 件产品获奖，其中， 张雪机车 820RR 获广交会 CF 奖至尊金奖 ，另一款获至尊金奖的产品是智巡胶囊机器人胃内窥镜系统。 据了解，获奖产品将在第 140 届广交会期间集中展示。此次获奖产品呈现以下三大特点： 一是向“新”集聚，新质生产力特征突出。 获奖产品集中于技术创新型企业。从至尊金奖的张雪机车 820RR、智巡胶囊机器人胃内窥镜系统，到脑机接口康复系统、外骨骼机器人等前沿精品集中涌现，彰显高端制造创新引领趋势。 ",
      "source": "IT之家",
-     "zh": "Qwen-Image-2.1 Pro 和 Turbo API 上线千问 AI 平台，将图像生成与编辑能力接入应用"
+     "zh": "2026 广交会设计创新奖公布，张雪机车 820RR 获至尊金奖"
     },
     {
-     "title": "微软设计副总裁谈 Win11 为何无法让所有用户满意：每个人的偏好都不一样",
-     "link": "https://www.ithome.com/1/011/621.htm",
-     "pubDate": "Sun, 11 Oct 2026 08:05:02 GMT",
-     "summary": "IT之家 10 月 11 日消息，据科技媒体 Windows Latest 今天报道，微软 Win11 未来几个月将迎来 UI 焕新，重点改造系统中的各种传统功能。近日一位用户质疑道，既然 Win11 新版搜索能完成所有操作，那为何还需要开始菜单时，微软高管做出了回应。 IT之家从原报道获悉，微软最近宣布推出全新 Windows 搜索，用户可直接在搜索菜单中执行更改系统设置等操作，无需打开“设置”应用。例如，用户只需要在搜索框键入“深色模式”，系统就会直接显示开关。 一名 X 平台用户昨天对此表示：“说实话，我真希望这个功能可以让开始菜单彻底消失。那玩意儿早就过时了，只要不是被迫，我都会尽可能",
+     "title": "新增河北云南：苹果 AirPods 5 主动降噪耳机 849 元国补限地区，以旧换新 699 元起",
+     "link": "https://www.ithome.com/1/011/628.htm",
+     "pubDate": "Sun, 11 Oct 2026 08:25:35 GMT",
+     "summary": "苹果今日宣布推出 AirPods 5 ，支持主动降噪，国行定价 999 元起。 京东目前支持部分地区政府补贴（收货地址在 江苏、吉林、北京、大连， 今日新增 河北、云南 ），实付 849.15 元起。 另外京东今日加码“以旧换新”，旧物估值超过 100 元（限耳机品类），京东加补 100~150 元： 京东 Apple AirPods 5 支持主动降噪 国补后 849 元 直达链接 京东 Apple AirPods 5 搭配无线充电盒 增强续航 国补后 977 元 直达链接 京东 11.11 红包 10 月 12 日 20:00 开抢，至高 26888 元无门槛可用： 点此抢红包 。 京东“换",
      "source": "IT之家",
-     "zh": "微软设计副总裁谈 Win11 为何无法让所有用户满意：每个人的偏好都不一样"
+     "zh": "新增河北云南：苹果 AirPods 5 主动降噪耳机 849 元国补限地区，以旧换新 699 元起"
+    },
+    {
+     "title": "类原生安卓系统 LineageOS 24 更新发布，基于 Android 17",
+     "link": "https://www.ithome.com/1/011/627.htm",
+     "pubDate": "Sun, 11 Oct 2026 08:22:08 GMT",
+     "summary": "IT之家 10 月 11 日消息，类原生安卓系统 LineageOS 今日正式发布了 LineageOS 24 版本更新 ，基于 Android 17 打造。 LineageOS 官方表示，自从 Android 17 于六月发布以来，LineageOS 团队一直在努力重新调整所有的变更和功能。Android 17 的第一个版本主要包含迭代改进和一些界面 / 用户体验的改进，但由于 LineageOS 团队之前在适应谷歌最近几个版本的大规模重构，因此能够比预期更快地构建基于 Android 17 的代码库。 2025 年 8 月至 2026 年 10 月的安全补丁 已合并到 LineageOS ",
+     "source": "IT之家",
+     "zh": "类原生安卓系统 LineageOS 24 更新发布，基于 Android 17"
+    },
+    {
+     "title": "KDE Plasma 桌面环境将推出“安全模式”：排除故障专用，预计今年四季度落地",
+     "link": "https://www.ithome.com/1/011/626.htm",
+     "pubDate": "Sun, 11 Oct 2026 08:20:48 GMT",
+     "summary": "IT之家 10 月 11 日消息，KDE Plasma 官方今日宣布，Plasma 桌面环境将推出排除故障专用的“安全模式”， 预计 2026 年第四季度陆续落地 。 IT之家了解到，安全模式可在不加载任何第三方自定义内容的情况下启动桌面环境， 用户登录后能够打开专用故障排查工具 ， 让桌面会话恢复正常 。该功能仍在开发中，未来将公布更多信息。 截至目前，KDE Plasma 开发团队尚未详细说明该功能的具体工作方式。如果它能拥有自动化工具或详细提示步骤，帮助用户找出影响系统正常运行的程序，那再好不过。 此外，KDE Plasma 本季度获得了德国主权科技基金会（Sovereign Tech ",
+     "source": "IT之家",
+     "zh": "KDE Plasma 桌面环境将推出“安全模式”：排除故障专用，预计今年四季度落地"
+    },
+    {
+     "title": "宏碁推出“XV273X V”27 英寸显示器：5K 180Hz/2K 330Hz 双模 + 双扬，4699 元",
+     "link": "https://www.ithome.com/1/011/625.htm",
+     "pubDate": "Sun, 11 Oct 2026 08:20:32 GMT",
+     "summary": "IT之家 10 月 11 日消息，宏碁现已在京东上架“XV273X V”27 英寸显示器，该机主打 5K 180Hz/2K 330Hz， 定价为 4699 元 。 京东 宏碁“XV273X V”显示器 4699 元 直达链接 该机配备的 Fast IPS 面板支持以 5120x2880 分辨率 180Hz 或 2560x1440 分辨率 330Hz 显示，GtG 响应速度 1ms，峰值亮度 600 尼特，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 95% DCI-P3 色域。 该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，配备双 ",
+     "source": "IT之家",
+     "zh": "宏碁推出“XV273X V”27 英寸显示器：5K 180Hz/2K 330Hz 双模 + 双扬，4699 元"
+    },
+    {
+     "title": "科技商学院该看懂的科学家创业：技术很强，为什么公司还是显得“乱”？",
+     "link": "https://www.huxiu.com/article/4896615.html?f=rss",
+     "pubDate": "Sun, 11 Oct 2026 16:17:02 +0800",
+     "summary": "本文来自微信公众号： 聚焦与余光 ，作者：常云磊 最近的一次访谈里，最值得琢磨的，是几个岗位讲出来的工作画面。一位研发管理者希望把专业体系建起来，但项目却可以绕过他，直接调用下面的人。他要对结果负责，却未必掌握完成工作所需要的信息和资源。一位从市场转到产品的伙伴，需要自己找事情做。做完以后，成果由谁接、价值怎么算，缺少明确反馈。企业招聘时看重量产经验，希望缩短周期。可真正有经验的人进来，又发现自己能建设的体系，缺少上下游配合。 与此同时，创始团队有技术背景，企业也具备一定的资本和产业资源。几位参与者并没有否定它的技术潜力。这组反差，不能直接变成对一家公司的定论。但它很适合用来讨论科学家型创业者",
+     "source": "虎嗅",
+     "zh": "科技商学院该看懂的科学家创业：技术很强，为什么公司还是显得“乱”？"
+    },
+    {
+     "title": "会员年卡 11.11 抢先促：百度网盘 158 元年内探底，88VIP、QQ 音乐绿钻官方发车",
+     "link": "https://www.ithome.com/1/011/623.htm",
+     "pubDate": "Sun, 11 Oct 2026 08:13:08 GMT",
+     "summary": "百度网盘 百度网盘超级会员年卡官方售价 298 元，今日预售直降至 196 元 + 限时加赠 3 个月。 到手共 15 个月， 折合 13.1 元 / 月、157 元 / 年 ： 京东 百度网盘 SVIP 超级会员 15 月卡 券后 196 元 领 10 元券 百度网盘超级会员年卡 + B站大会员季卡 + 网易云音乐月卡今日折后仅需 176 元，也是好价。 如果把百度年卡算作 157 元， B站季卡 + 网易云音乐月卡仅需 19 元 ： 京东 百度网盘 SVIP 超级会员年卡 加赠B站季卡 + 网易云音乐月卡 券后 176 元 领 10 元券 注：现购买权益时长 + 已有权益时长， 不能超过 ",
+     "source": "IT之家",
+     "zh": "会员年卡 11.11 抢先促：百度网盘 158 元年内探底，88VIP、QQ 音乐绿钻官方发车"
     },
     {
      "title": "凝视AI世代的命名美学：从出世到入世",
@@ -1745,22 +1785,6 @@
      "zh": "凝视AI世代的命名美学：从出世到入世"
     },
     {
-     "title": "特朗普将 AI 人工智能改为 SI 超级智能后，马斯克宣布 SpaceXAI 官方账号正式更名 SpaceXSI",
-     "link": "https://www.ithome.com/1/011/620.htm",
-     "pubDate": "Sun, 11 Oct 2026 07:59:42 GMT",
-     "summary": "IT之家 10 月 11 日消息，今日凌晨 4 点，马斯克在社交平台发布一张截图，宣布 SpaceXAI 的官方账号已更名为“SpaceX Super Intelligence”（@SpaceXSI）。 参考IT之家此前报道，美东时间 9 月 29 日， 美国总统特朗普正式签署行政令 ，下令所有行政部门和机构使用“超级智能”（Super Intelligence，简称 SI）一词代替人工智能（AI）。 在特朗普宣布将“人工智能”改为“超级智能”后 ，多位科技领袖在白宫前接受媒体群访，轮到马斯克发言时，他脱口而出“AI（人工智能）”，随即迅速改口“SI（超级智能）”。 站在一旁的特朗普听到马斯克",
-     "source": "IT之家",
-     "zh": "特朗普将 AI 人工智能改为 SI 超级智能后，马斯克宣布 SpaceXAI 官方账号正式更名 SpaceXSI"
-    },
-    {
-     "title": "AOC“Q27U4D”27 英寸显示器上架：2K 144Hz QD-OLED 配双扬，2999 元",
-     "link": "https://www.ithome.com/1/011/619.htm",
-     "pubDate": "Sun, 11 Oct 2026 07:50:41 GMT",
-     "summary": "IT之家 10 月 11 日消息，AOC 旗下“Q27U4D”27 英寸显示器现已在京东上架：该机主打 2K 144Hz QD-OLED， 定价为 2999 元 ，部分地区国补后低至 2706.55 元。 京东 AOC“Q27U4D”显示器 2999 元 点此访问 该机配备一块 2560x1440 分辨率 144Hz QD-OLED 面板，全屏亮度 200nits、HDR APL 10% 亮度 400nits；色域 100% sRGB / 99% DCI-P3，sRGB 下色偏 ΔE＜1；拥有 0.03ms 灰阶 (GtG) 响应时间与 1.5M:1 静态对比度，支持 VRR 可变刷新率、MB",
-     "source": "IT之家",
-     "zh": "AOC“Q27U4D”27 英寸显示器上架：2K 144Hz QD-OLED 配双扬，2999 元"
-    },
-    {
      "title": "《第一性思考》14｜AI干掉了实习生，十年后谁来当专家？",
      "link": "https://www.huxiu.com/article/4896611.html?f=rss",
      "pubDate": "Sun, 11 Oct 2026 15:47:38 +0800",
@@ -1769,20 +1793,12 @@
      "zh": "《第一性思考》14｜AI干掉了实习生，十年后谁来当专家？"
     },
     {
-     "title": "红魔 12 Pro+ 手机官宣支持杜比全景声，号称迄今为止音效最好的红魔旗舰",
-     "link": "https://www.ithome.com/1/011/618.htm",
-     "pubDate": "Sun, 11 Oct 2026 07:41:30 GMT",
-     "summary": "IT之家 10 月 11 日消息，红魔游戏手机官方今日继续预热 12 系列新机。据介绍， 红魔 12 Pro+ 搭载 1115E 立体对称式扬声器，将支持杜比全景声 ，号称迄今为止音效最好的红魔旗舰。 红魔 12 Pro+ 号称“迄今为止手感最好的红魔旗舰”，主打“更轻、更薄、更窄、更圆润”。预热图显示，新机相比前代厚度更薄、重量更轻，同时屏幕黑边、边框圆角都有优化，其中 12 Pro+ 的屏幕黑边由前代的 1.25mm 减小到了 0.96mm。 此外，红魔 12 Pro+ 手机将搭载高通第六代骁龙 8 超级至尊版芯片。 根据官方预热，红魔 12 Pro+ 还将搭载行业首款 RGB 水冷散热技",
-     "source": "IT之家",
-     "zh": "红魔 12 Pro+ 手机官宣支持杜比全景声，号称迄今为止音效最好的红魔旗舰"
-    },
-    {
-     "title": "“第二代豆包手机”努比亚 NaviX Ultra「内测实验室」计划即将开启，10 月 14 日直播",
-     "link": "https://www.ithome.com/1/011/617.htm",
-     "pubDate": "Sun, 11 Oct 2026 07:39:16 GMT",
-     "summary": "IT之家 10 月 11 日消息，努比亚今日宣布 NaviX Ultra「内测实验室」计划即将开启，面向尝鲜用户开放内测资格，抢先体验最新版本能力。10 月 14 日 19:00，首场进化直播。 IT之家注意到，“第二代豆包手机” 努比亚 NaviX Ultra 于 9 月 16 日发布， 号称“全球首款 AI 智能体手机” ，由中兴通讯努比亚全链路主导打造，实现一句话让 AI 跨应用执行复杂任务，豆包手机助手主导 AI 助手体验，售价 5999 元起。 努比亚 NaviX Ultra 搭载行业首个集成指纹识别的 独立 AI 按键 ，支持方言识别能力、语音唤醒能力，并内置 Seed 最新全双工",
-     "source": "IT之家",
-     "zh": "“第二代豆包手机”努比亚 NaviX Ultra「内测实验室」计划即将开启，10 月 14 日直播"
+     "title": "3rd Yandex Cloud Data Center Was Hit",
+     "link": "https://status.yandex.cloud/en/incidents/2136",
+     "pubDate": "Sun, 11 Oct 2026 07:34:45 +0000",
+     "summary": "Article URL: https://status.yandex.cloud/en/incidents/2136 Comments URL: https://news.ycombinator.com/item?id=50040547 Points: 44 # Comments: 27",
+     "source": "Hacker News",
+     "zh": "3rd Yandex Cloud Data Center Was Hit"
     },
     {
      "title": "发展新质生产力，摒弃“500强”情结",
@@ -1807,14 +1823,6 @@
      "summary": "本文来自微信公众号： 字母榜 ，作者：思博 苹果又要开发布会了，这一次，主角是智能家居。 北京时间10月9日，苹果公布了10月13日的“欢迎回家”（Welcome Home）新品活动邀请函。预计首款智能家居中枢、新款HomePod mini和Apple TV 4K将一起亮相。此前，苹果还被曝与LG合作开发门铃、门锁、恒温器等配件。 苹果的智能家居不温不火了很多年，苹果也冷落它很多年，为什么突然轮到了它？ 其实9月秋季iPhone发布会上已经有了铺垫，新任CEO特努斯提出了“智能个人中枢”的概念，现在围绕中枢的“感知入口”更新到了家庭设备。 特努斯这是要学小米吗？音箱、电视盒子、门锁，再加一个负",
      "source": "虎嗅",
      "zh": "大搞硬件矩阵的苹果，还是没把大象放进冰箱"
-    },
-    {
-     "title": "多数人只能从自己的体感理解世界",
-     "link": "https://www.huxiu.com/article/4896604.html?f=rss",
-     "pubDate": "Sun, 11 Oct 2026 14:36:16 +0800",
-     "summary": "本文来自微信公众号： 倒立的Saber ，作者：魏焕春 ——一个外贸同事的抱怨，和它背后的一整套系统 上个月，办公室里一位做外贸的同事跟我抱怨，说他现在最烦的，是欧洲客户发来的验厂通知。 以前做生意，谈价格、谈交期、谈质量，这些他门儿清。现在欧洲客户的要求越来越多：查生产环境，查劳动合同，查工时记录，查社保——不光查当月的，还要查过去十二个月的缴纳明细。他给我看那封邮件，最后总结了一句：欧洲人就是想找茬。 说实话，那一瞬间我差点点头。 因为这封邮件翻译成他的语言就是：工作量增加了，而且增加的部分，看不出任何能帮他赢单的价值。 但我没点头。因为几乎在同一瞬间，我意识到一件比这封邮件大得多的事——",
-     "source": "虎嗅",
-     "zh": "多数人只能从自己的体感理解世界"
     },
     {
      "title": "A look at Beijing-based Neolix, which operates the world&apos;s largest robovan fleet at 27K, as Shenzhen tests nighttime parcel deliveries by driverless vehicles (Bloomberg)",
@@ -1916,7 +1924,7 @@
      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
      "link": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
      "pubDate": "Sun, 11 Oct 2026 03:21:07 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU Comments URL: https://news.ycombinator.com/item?id=50039536 Points: 62 # Comments: 14",
+     "summary": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU Comments URL: https://news.ycombinator.com/item?id=50039536 Points: 69 # Comments: 18",
      "source": "Hacker News",
      "zh": "GameBoy on E-Paper ESP32 at 30FPS [video]"
     },
@@ -1924,7 +1932,7 @@
      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
      "pubDate": "Sun, 11 Oct 2026 02:02:38 +0000",
-     "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 82 # Comments: 60",
+     "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 83 # Comments: 61",
      "source": "Hacker News",
      "zh": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter"
     },
@@ -1932,7 +1940,7 @@
      "title": "PSPi 6 – Raspberry Pi in a PSP",
      "link": "https://github.com/othermod/PSPi-Version-6",
      "pubDate": "Sun, 11 Oct 2026 00:45:49 +0000",
-     "summary": "Article URL: https://github.com/othermod/PSPi-Version-6 Comments URL: https://news.ycombinator.com/item?id=50038623 Points: 69 # Comments: 7",
+     "summary": "Article URL: https://github.com/othermod/PSPi-Version-6 Comments URL: https://news.ycombinator.com/item?id=50038623 Points: 74 # Comments: 7",
      "source": "Hacker News",
      "zh": "PSPi 6 – Raspberry Pi in a PSP"
     },
@@ -1940,7 +1948,7 @@
      "title": "Build your own decision model",
      "link": "https://nishtahir.com/build-your-own-decision-model/",
      "pubDate": "Sat, 10 Oct 2026 22:50:10 +0000",
-     "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 257 # Comments: 61",
+     "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 266 # Comments: 61",
      "source": "Hacker News",
      "zh": "Build your own decision model"
     },
@@ -1948,17 +1956,9 @@
      "title": "A city-building game in which the city would prefer you didn't",
      "link": "https://housing.over.pizza/",
      "pubDate": "Sat, 10 Oct 2026 20:31:50 +0000",
-     "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 314 # Comments: 99",
+     "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 321 # Comments: 101",
      "source": "Hacker News",
      "zh": "A city-building game in which the city would prefer you didn't"
-    },
-    {
-     "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-     "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-     "pubDate": "Sat, 10 Oct 2026 18:48:35 +0000",
-     "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 162 # Comments: 101",
-     "source": "Hacker News",
-     "zh": "Nvidia in talks to acquire US 'open' model startup Reflection AI"
     }
    ]
   },
@@ -2217,60 +2217,68 @@
    "total": 13,
    "items": [
     {
-     "title": "胡塞武装称已“关闭利雅得机场”",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892056372.html",
-     "pubDate": "Sun, 11 Oct 2026 15:56:41 +0800",
-     "summary": "沙特阿拉伯首都利雅得的哈立德国王国际 机场 遭袭后，胡塞武装控制的萨巴通讯社的负责人纳斯尔丁·阿米尔在社交媒体称，胡塞武装已“关闭利雅得国际 机场 ”。 此前，胡塞武装曾表示，民航飞机应避开沙特领空，并称沙特领空为军事行动区。 沙特主导的联军称将坚决回应胡塞袭击 沙特主导的多国联军发言人图尔基·马利基11日在社交媒体上说，也门胡塞武装10日袭击了哈立德国王国际 机场 一座航站楼，造成旅客和机场工作人员伤亡。 马利基在声明中将此次袭击称为“恐怖袭击”，并称这一袭击“构成战争罪”。多国联军将对此次袭击予以坚决回应。此前马利基表示，联军拦截并摧毁也门胡塞武装向位于利雅得东南方向的海尔季市发射的一枚弹",
+     "title": "牧原股份：9月商品猪销售收入85.2亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892065748.html",
+     "pubDate": "Sun, 11 Oct 2026 16:22:45 +0800",
+     "summary": "牧原股份 (002714.SZ)公告称，公司2026年9月销售商品猪642.3万头，同比变动15.24%；商品猪销售均价10.36元/公斤，同比变动-19.57%；商品猪销售收入85.20亿元，同比变动-6.01%。截至9月末，公司能繁母猪存栏为297.4万头。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "胡塞武装称已“关闭利雅得机场”"
+     "zh": "牧原股份：9月商品猪销售收入85.2亿元"
     },
     {
-     "title": "珀莱雅：每股派1.18元，股权登记日为10月15日",
-     "link": "http://stock.eastmoney.com/news/11219,202610113892055788.html",
-     "pubDate": "Sun, 11 Oct 2026 15:54:07 +0800",
-     "summary": "南财智讯10月11日电， 珀莱雅 发布2026年半年度权益分派实施公告，本次权益分派方案为每股派发现金红利1.18元（含税），股权登记日为10月15日，除权（息）日及现金红利发放日为10月16日。本次权益分派总金额为4.63亿元。 （文章来源：南方财经网）",
+     "title": "天邦食品：9月商品猪销售收入4.62亿元 环比下降6.22%",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892065433.html",
+     "pubDate": "Sun, 11 Oct 2026 16:21:56 +0800",
+     "summary": "天邦食品 10月11日公告，公司2026年9月份销售商品猪50.34万头（其中仔猪销售9.22万头），销售收入46,197.17万元，销售均价9.97元/公斤（商品肥猪均价为10.03元/公斤），环比变动分别为-19.13%、-6.22%、-3.52%。2026年1-9月销售商品猪571.95万头（其中仔猪销售206.02万头），销售收入479,432.98万元，销售均价10.75元/公斤（商品肥猪均价为10.17元/公斤），同比变动分别为23.34%、-21.21%、-31.84%。 （文章来源：界面新闻）",
      "source": "东方财富股票",
-     "zh": "珀莱雅：每股派1.18元，股权登记日为10月15日"
+     "zh": "天邦食品：9月商品猪销售收入4.62亿元 环比下降6.22%"
     },
     {
-     "title": "江山欧派：吴水燕拟减持不超1.87%股份",
-     "link": "http://stock.eastmoney.com/news/11215,202610113892055687.html",
-     "pubDate": "Sun, 11 Oct 2026 15:54:07 +0800",
-     "summary": "南财智讯10月11日电， 江山欧派 公告，公司大股东吴水燕因自身资金需求，计划通过集中竞价、大宗交易方式减持其所持有的公司股份，合计不超过329.55万股，即不超过公司股份总数的1.87%。减持期间为自本公告披露之日起15个交易日后的3个月内。 （文章来源：南方财经网）",
+     "title": "分众传媒：收购新潮传媒获市场监管总局附加限制性条件批准",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892065695.html",
+     "pubDate": "Sun, 11 Oct 2026 16:20:07 +0800",
+     "summary": "分众传媒 (002027.SZ)公告称，公司收到国家市场监督管理总局关于公司收购成都新潮 传媒 集团股份有限公司股权案的反垄断审查决定，市场监管总局决定附加限制性条件批准此项经营者集中。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "江山欧派：吴水燕拟减持不超1.87%股份"
+     "zh": "分众传媒：收购新潮传媒获市场监管总局附加限制性条件批准"
     },
     {
-     "title": "大参林：每股派0.41元，股权登记日为10月16日",
-     "link": "http://stock.eastmoney.com/news/11219,202610113892055471.html",
-     "pubDate": "Sun, 11 Oct 2026 15:54:07 +0800",
-     "summary": "南财智讯10月11日电， 大参林 发布2026年半年度权益分派实施公告，公司每股派发现金红利0.41元，股权登记日为2026年10月16日。 （文章来源：南方财经网）",
+     "title": "华润双鹤：DC7001A胶囊获得美国FDA临床试验许可",
+     "link": "http://stock.eastmoney.com/news/11219,202610113892065328.html",
+     "pubDate": "Sun, 11 Oct 2026 16:18:00 +0800",
+     "summary": "华润双鹤 (600062)10月11日公告，近日，公司全资子公司北京双鹤润创科技有限公司收到了美国FDA(即“美国食品药品监督管理局”)关于同意DC7001A胶囊进行临床试验的通知。DC7001A胶囊拟用于治疗系统性红斑狼疮(SLE)。另外，近日，公司控股子公司 华润双鹤 湘中药业(湖南)有限公司收到了国家药监局颁发的氢溴酸伏硫西汀《 化学原料 药上市申请批准通知书》。 （文章来源：人民财讯）",
      "source": "东方财富股票",
-     "zh": "大参林：每股派0.41元，股权登记日为10月16日"
+     "zh": "华润双鹤：DC7001A胶囊获得美国FDA临床试验许可"
     },
     {
-     "title": "Qwen-Image-2.1Pro和Turbo API上线千问AI平台",
-     "link": "http://stock.eastmoney.com/news/1437,202610113892056432.html",
-     "pubDate": "Sun, 11 Oct 2026 15:53:31 +0800",
-     "summary": "10月11日，千问AI平台宣布，Qwen-Image-2.1Pro和Turbo API现已正式上线千问AI平台。开发者可以通过API将图像生成与编辑能力接入应用，无需自行部署模型、管理推理环境，即可围绕设计、电商、内容创作等场景搭建自己的工作流。与此同时，Qwen-Image-2.1-Turbo模型权重同步开放。 （文章来源：界面新闻）",
+     "title": "我武生物：人脐带间充质干细胞二型注射液获临床试验批准",
+     "link": "http://stock.eastmoney.com/news/11219,202610113892065260.html",
+     "pubDate": "Sun, 11 Oct 2026 16:18:00 +0800",
+     "summary": "南财智讯10月11日电， 我武生物 公告，间接控股子公司浙江我武干细胞科技有限公司（简称“浙江干细胞”）收到国家药品监督管理局下发的《药物临床试验批准通知书》，由浙江干细胞提交的“人脐带间充质干细胞二型注射液”药物临床试验申请获得批准。该药物注册分类为治疗用 生物制品 一类，适应症为脓毒症和（或）脓毒性休克。 （文章来源：南方财经网）",
      "source": "东方财富股票",
-     "zh": "Qwen-Image-2.1Pro和Turbo API上线千问AI平台"
+     "zh": "我武生物：人脐带间充质干细胞二型注射液获临床试验批准"
     },
     {
-     "title": "2连板雄韬股份：固态电池业务尚处于研发及中试验证阶段",
-     "link": "http://stock.eastmoney.com/news/11215,202610113892055967.html",
-     "pubDate": "Sun, 11 Oct 2026 15:53:00 +0800",
-     "summary": "2连板 雄韬股份 (002733)10月11日披露股票交易波动异常公告称，公司 固态电池 业务尚处于研发及中试验证阶段，尚未进入量产阶段，未形成销售收入，对公司整体业绩暂不构成重大影响。受宏观经济、行业政策、市场环境变化、建设项目进度等因素的影响，该项目亦存在产业化、商用化不及预期的风险。经公司自查并向公司控股股东、实际控制人核实，截至目前，不存在应披露而未披露的重大信息。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "2连板雄韬股份：固态电池业务尚处于研发及中试验证阶段"
-    },
-    {
-     "title": "马斯克：Terrafab将“造出比任何人都更好的芯片”",
+     "title": "马斯克放话：虽然现在还不懂造芯片，但Terrafab未来要造出“比任何人都更好的芯片”",
      "link": "https://wallstreetcn.com/articles/3783367",
-     "pubDate": "Sun, 11 Oct 2026 15:52:20 +0800",
+     "pubDate": "Sun, 11 Oct 2026 16:17:38 +0800",
      "summary": "马斯克宣称，凭借旗下公司在定制化设备制造领域积累的深厚经验，他有信心在芯片制造领域后来居上，超越所有竞争对手。这一表态，为其正在推进的Terrafab芯片工厂项目再度注入强烈的市场关注。 马斯克于当地时间周六通过直播形式出席在德克萨斯州奥斯汀特斯拉超级工厂外举办的\"X Takeover\"活动，面向客户与投资者发表上述言论。 他坦承目前\"完全不知道如何制造微芯片\"，但同时表示\"我们会搞清楚的\"，并预计旗下公司最终将在芯片制造上超越所有人，尽管\"可能需要相当多年时间\"。 这番表态的背景是，马斯克正筹备在德克萨斯州格莱姆斯（Grimes）建设Terrafab芯片工厂，该项目由特斯拉、SpaceX与英",
      "source": "华尔街见闻",
-     "zh": "马斯克：Terrafab将“造出比任何人都更好的芯片”"
+     "zh": "马斯克放话：虽然现在还不懂造芯片，但Terrafab未来要造出“比任何人都更好的芯片”"
+    },
+    {
+     "title": "知名企业高管：跨国企业可成为中企出海“超级合伙人”",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892064962.html",
+     "pubDate": "Sun, 11 Oct 2026 16:17:07 +0800",
+     "summary": "中新社上海10月11日电 (高志苗李姝徵)第38次上海市市长国际企业家咨询会议11日在沪举行。在围绕“新场景：助力中国企业出海”的专题讨论中，多位知名企业高管认为，跨国企业可成为中企出海路上的“超级合伙人”。 从“卖产品”到“造生态”，中企出海逻辑正被重新定义。法国巴黎 银行 董事长乐明瀚(Jean Lemierre)在会上表示，中资企业对外战略的范式转变，本质上是“出口国内产品”向“打造本地化全球企业”的结构性跃迁。这一新浪潮可以从三个核心维度重新定义“中国制造”与“中国创造”：从成本导向转向品牌塑造，从产品到生态以及从“销售进入”到“融合融入”。 乐明瀚说，法国巴黎 银行 在华深耕多年，既",
+     "source": "东方财富股票",
+     "zh": "知名企业高管：跨国企业可成为中企出海“超级合伙人”"
+    },
+    {
+     "title": "严查超限运输 违法货车两小时内被查获",
+     "link": "http://www.eeo.com.cn/2026/1011/1060893.shtml",
+     "pubDate": "Sun, 11 Oct 2026 16:13:11 +0800",
+     "summary": "第1眼TV-华龙网讯（首席记者 刘艳）货车司机企图强行冲卡，躲避超限检查，最终因多项违法行为叠加面临处罚。10月11日，重庆交通执法总队通报一起典型违法案例，执法部门联合公安，仅用两小时就成功查获冲卡违法货车。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/F1A0E02E82FE75B1295CF6C08129B8B5.png\" alt=\"超限货车被查处。受访者供图\" data-title=\"超限货车被查处。受访者供图\" data-...",
+     "source": "经济观察网",
+     "zh": "严查超限运输 违法货车两小时内被查获"
     },
     {
      "title": "视频｜第三届川渝集体婚礼甜度拉满 60对新人许下相守承诺",
@@ -2319,14 +2327,6 @@
      "summary": "智能体重构了经济活动的决策权，从以人为中心走向人与智能体的共同参与：人只需要负责提出目标、设定边界和作出关键确认，智能体负责获取信息、比较决策、组织资源和协调沟通。由此市场的功能、结构和边界都将发生变化。",
      "source": "经济观察网",
      "zh": "从连接信息到组织行动：智能体经济增长的底层逻辑"
-    },
-    {
-     "title": "深蓝i版车型OTA追踪：三季度更新承诺落空，仍待备案结果",
-     "link": "http://www.eeo.com.cn/2026/1011/1060825.shtml",
-     "pubDate": "Sun, 11 Oct 2026 15:13:12 +0800",
-     "summary": "近日，多名深蓝S7i版车主向北京商报记者反映，深蓝官方客服曾承诺，于今年三季度通过OTA上线红绿灯读秒功能，但如今已进入四季度，该功能仍未落地。 2023年11月，深蓝S7i与SL03i两款i版车型正式上市。i版车型主打高阶智驾与全新智能座舱功能，也因此...",
-     "source": "经济观察网",
-     "zh": "深蓝i版车型OTA追踪：三季度更新承诺落空，仍待备案结果"
     },
     {
      "title": "特朗普政府打击“科技工作签”，印度人慌了",
@@ -2537,20 +2537,20 @@
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
-     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
-     "source": "Live Science",
-     "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
-    },
-    {
      "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
      "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
      "source": "Live Science",
      "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
+    },
+    {
+     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
+     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
+     "source": "Live Science",
+     "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

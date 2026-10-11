@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 22:29:55",
+ "generated_at": "2026/10/11 22:50:02",
  "recent_days": 7,
  "industries": [
   {
@@ -16,30 +16,6 @@ window.INDUSTRY_DATA = {
      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
      "source": "TechCrunch AI",
      "zh": "这些高管认为语音 AI 尚未达到 ChatGPT 时刻"
-    },
-    {
-     "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-     "link": "https://www.qbitai.com/2026/10/502644.html",
-     "pubDate": "Sun, 11 Oct 2026 09:04:31 +0000",
-     "summary": "一套生成论文初稿的多智能体工作流",
-     "source": "量子位",
-     "zh": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针"
-    },
-    {
-     "title": "何恺明团队发布多模态Harness框架",
-     "link": "https://www.qbitai.com/2026/10/502628.html",
-     "pubDate": "Sun, 11 Oct 2026 08:59:06 +0000",
-     "summary": "多模态模型的视觉原生Harness，来了！",
-     "source": "量子位",
-     "zh": "何恺明团队发布多模态Harness框架"
-    },
-    {
-     "title": "陶哲轩：数学2.0时代已至！",
-     "link": "https://www.qbitai.com/2026/10/502594.html",
-     "pubDate": "Sun, 11 Oct 2026 07:52:16 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "陶哲轩：数学2.0时代已至！"
     },
     {
      "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
@@ -122,6 +98,14 @@ window.INDUSTRY_DATA = {
      "zh": "EMNLP'26 Oral | 麻省理工：靠访谈让AI模拟真人，这条路能走多远？"
     },
     {
+     "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+     "link": "https://www.qbitai.com/2026/10/502544.html",
+     "pubDate": "Sun, 11 Oct 2026 03:27:08 +0000",
+     "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+     "source": "量子位",
+     "zh": "DeepSeek Bot来了！民间版，DSH装个插件就能用"
+    },
+    {
      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
      "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
      "pubDate": "Sat, 10 Oct 2026 22:02:18 +0000",
@@ -186,6 +170,14 @@ window.INDUSTRY_DATA = {
      "zh": "编程体验接近Opus 5.5？谷歌Gemini 4新版本曝光"
     },
     {
+     "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+     "link": "https://www.qbitai.com/2026/10/502541.html",
+     "pubDate": "Sat, 10 Oct 2026 10:30:36 +0000",
+     "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+     "source": "量子位",
+     "zh": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地"
+    },
+    {
      "title": "从记忆到自进化：Agent 走向 RSI 的关键一步",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062063&idx=1&sn=f91d6b290b4a38685b85a47415870873",
      "pubDate": "Sat, 10 Oct 2026 18:23:00 +0800",
@@ -200,6 +192,14 @@ window.INDUSTRY_DATA = {
      "summary": "与其被动地丢掉工作，不如主动去开一家朝这个方向走的公司。",
      "source": "机器之心",
      "zh": "田渊栋：与GPT-5合写最后一篇论文后，我意识到自己5年内会失业"
+    },
+    {
+     "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+     "link": "https://www.qbitai.com/2026/10/502496.html",
+     "pubDate": "Sat, 10 Oct 2026 09:07:43 +0000",
+     "summary": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
+     "source": "量子位",
+     "zh": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起"
     },
     {
      "title": "2026中国计算机大会定了，12位院士演讲，腾讯阿里百度、小米京东都来了",
@@ -322,6 +322,14 @@ window.INDUSTRY_DATA = {
      "zh": "Hyper-NA EUV：芯片制造的下一个前沿可能在 2036 年到来"
     },
     {
+     "title": "Jury still out in Qualcomm vs Arm case",
+     "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
+     "pubDate": "Sat, 10 Oct 2026 07:20:41 +0000",
+     "summary": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "高通 vs Arm 案尚无定论"
+    },
+    {
      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
      "pubDate": "Fri, 09 Oct 2026 22:00:00 +0000",
@@ -346,12 +354,36 @@ window.INDUSTRY_DATA = {
      "zh": "台积电2026 OIP生态论坛总结"
     },
     {
+     "title": "Defence satcom revenues to surpass $23bn by 2035",
+     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
+     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "到 2035 年，国防卫星通信收入将超过 230 亿美元"
+    },
+    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "连接小芯片还不够——解决多芯片系统中的数据移动挑战"
+    },
+    {
+     "title": "Axiom Space highlights space computing progress",
+     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
+     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
+     "source": "Electronics Weekly",
+     "zh": "Axiom Space 凸显太空计算进展"
+    },
+    {
+     "title": "The Single-Chip PC",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
+     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "单片机"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -368,6 +400,22 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "由于积压订单激增，美国 9 月份制造业活动持续增长"
+    },
+    {
+     "title": "Failure analysis in the era of 3D integration",
+     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
+     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "3D集成时代的失效分析"
+    },
+    {
+     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
+     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
+     "source": "Electronics Weekly",
+     "zh": "汽车 SBRFP 器件的雪崩能量额定值高达 145mJ"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "缩小可见性差距"
-    },
-    {
-     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
-     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
-     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
-     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "从芯片到系统：重新定义竞争优势，第 3 部分"
-    },
-    {
-     "title": "Shift Left Complicates Fab Data Management",
-     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
-     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "左移使晶圆厂数据管理变得复杂"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design 将 HAROLD QD 量子点激光模拟器的运行时间减半并提高精度"
-    },
-    {
-     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
-     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
-     "source": "Semiconductor Today",
-     "zh": "KnowMade 表示，2026 年第二季度新 RF GaN 专利系列的大部分都在中国"
-    },
-    {
-     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
-     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "美国刚刚在量子芯片制造上投入 10 亿美元"
-    },
-    {
-     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
-     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
-     "source": "Semiconductor Today",
-     "zh": "KnowMade 报告称，2026 年第二季度由工业受让人主导的功率 GaN 专利申请"
     }
    ]
   },
@@ -1306,6 +1306,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight",
+     "link": "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/",
+     "pubDate": "Sun, 11 Oct 2026 14:29:52 +0000",
+     "summary": "Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company… The post Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "蓝色起源推进 LC-36 重建工作，以便年底新格伦重返飞行"
+    },
+    {
      "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
      "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
      "pubDate": "Sun, 11 Oct 2026 04:05:00 +0000",
@@ -1722,6 +1730,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "古尔曼：苹果首款智能家庭中枢定名 HomeView，搭载 A18 芯片、四种配色可选",
+     "link": "https://www.ithome.com/1/011/709.htm",
+     "pubDate": "Sun, 11 Oct 2026 14:36:10 GMT",
+     "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今日在新一期《Power On》通讯中透露，苹果首款智能家庭中枢名为“HomeView”，预计将在 10 月 13 日的“欢迎回家”活动正式发布，11 月出货。 据介绍，这款产品的外观设计类似 iMac G4“台灯电脑”，采用悬浮式屏幕，下方配有扬声器底座。 该设备将搭载 A18 芯片 ，官方还将推出壁挂安装版本。 IT之家从原报道获悉， 这款新产品将提供深空灰、银色、星光色和粉色四种配色 ，壁挂版仅有深空灰、银色两种配色。 古尔曼表示，这款产品主要使用语音交互， 以 AI Siri 为核心 。用户可以在房间另一端查看设备显示内容，并",
+     "source": "IT之家",
+     "zh": "古尔曼：苹果首款智能家庭中枢定名 HomeView，搭载 A18 芯片、四种配色可选"
+    },
+    {
      "title": "粤芯半导体 10 月 13 日在创业板上市，发行价为 12.01 元 / 股",
      "link": "https://www.ithome.com/1/011/708.htm",
      "pubDate": "Sun, 11 Oct 2026 14:27:14 GMT",
@@ -1770,14 +1786,6 @@ window.INDUSTRY_DATA = {
      "zh": "上市 1 月京东直降：小米 NAS 智能存储 2699 → 2384 元 4 年质保"
     },
     {
-     "title": "消息称美团共享充电宝开始投放新国标 3C 认证版本：配 7500mAh 电芯、自带双线支持 22.5W 输出",
-     "link": "https://www.ithome.com/1/011/703.htm",
-     "pubDate": "Sun, 11 Oct 2026 13:53:06 GMT",
-     "summary": "IT之家 10 月 11 日消息，据充电头网报道，美团旗下共享充电宝新国标版本近期已开始进入线下投放阶段，相应产品延续标志性黄色外观，侧面设有四颗电量指示灯，机身印有“22.5W 超级快充”字样，并标注 CCC 认证标识及 GB 47372-2026《移动电源安全技术规范》执行标准。 ▲ 图源充电头网 具体规格方面，IT之家获悉相应产品型号为 MT-E-8BDY1，内置 7500mAh 电芯，额定能量 27.75Wh，最高支持 22.5W 快充输出。机身配备 USB-C、Lightning 双自带线，兼容不同接口手机。 新国标将于 2027 年 4 月 1 日正式实施，对电芯安全、循环老化、异",
-     "source": "IT之家",
-     "zh": "消息称美团共享充电宝开始投放新国标 3C 认证版本：配 7500mAh 电芯、自带双线支持 22.5W 输出"
-    },
-    {
      "title": "贾樟柯开始看红果，AI很热闹、普通人只想“耍起”",
      "link": "https://www.huxiu.com/article/4896639.html?f=rss",
      "pubDate": "Sun, 11 Oct 2026 21:32:26 +0800",
@@ -1797,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Terence Tao: Math 2.0 [pdf]",
      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
      "pubDate": "Sun, 11 Oct 2026 13:16:45 +0000",
-     "summary": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50043026 Points: 27 # Comments: 1",
+     "summary": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50043026 Points: 48 # Comments: 18",
      "source": "Hacker News",
      "zh": "陶哲轩：数学 2.0 [pdf]"
     },
@@ -1832,14 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "向上突破，可以靠创新。站稳脚跟，要靠那些不需要消费者操心的事。",
      "source": "钛媒体",
      "zh": "百万级豪车，刹车踏板不是谁都能踩到的"
-    },
-    {
-     "title": "How HN: Go-dev-auth zero-dependency authentication library for Go",
-     "link": "https://github.com/go-dev-auth/go-dev-auth",
-     "pubDate": "Sun, 11 Oct 2026 13:06:36 +0000",
-     "summary": "Article URL: https://github.com/go-dev-auth/go-dev-auth Comments URL: https://news.ycombinator.com/item?id=50042942 Points: 11 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "HN：Go-dev-auth 零依赖认证库"
     },
     {
      "title": "城商行，走进分化时代",
@@ -1882,12 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "这些掌握了内幕消息的人，是怎么亏钱的？"
     },
     {
-     "title": "Don't Put Tilde In Your Path",
+     "title": "The tilde in your PATH may not be your HOME",
      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
      "pubDate": "Sun, 11 Oct 2026 12:13:13 +0000",
-     "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 56 # Comments: 28",
+     "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 60 # Comments: 33",
      "source": "Hacker News",
-     "zh": "不要在你的路径中添加波形符"
+     "zh": "您的 PATH 中的波形符可能不是您的 HOME"
     },
     {
      "title": "《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售",
@@ -1901,9 +1901,17 @@ window.INDUSTRY_DATA = {
      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
      "link": "https://verdagon.dev/blog/valen-group-borrowing",
      "pubDate": "Sun, 11 Oct 2026 12:06:22 +0000",
-     "summary": "Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 30 # Comments: 16",
+     "summary": "Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 34 # Comments: 18",
      "source": "Hacker News",
      "zh": "Valen 的内存安全：一种新型的借用检查"
+    },
+    {
+     "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+     "link": "https://betterwispr.com/",
+     "pubDate": "Sun, 11 Oct 2026 12:01:28 +0000",
+     "summary": "Article URL: https://betterwispr.com/ Comments URL: https://news.ycombinator.com/item?id=50042333 Points: 6 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Show HN：BetterWispr – 适用于 Mac 的免费开源听写软件"
     },
     {
      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
@@ -1969,6 +1977,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple planning huge iPhone Duo demo experiences at select retail stores: report",
+     "link": "https://9to5mac.com/2026/10/11/apple-planning-huge-iphone-duo-demo-experiences-at-select-retail-stores-report/",
+     "pubDate": "Sun, 11 Oct 2026 14:31:59 +0000",
+     "summary": "iPhone Duo is just about two weeks away from releasing, and according to Bloomberg’s Mark Gurman, Apple has big retail plans ahead for its first foldable iPhone, to make sure every customer gets to see it to the fullest. more…",
+     "source": "9to5Mac",
+     "zh": "苹果计划在部分零售店举办大型 iPhone Duo 演示体验：报告"
+    },
+    {
+     "title": "Huawei Watch D3 in for review",
+     "link": "https://www.gsmarena.com/huawei_watch_d3_in_for_review-news-74981.php",
+     "pubDate": "Sun, 11 Oct 2026 16:31:03 +0200",
+     "summary": "Huawei's unique line of health-obsessed Watch D series' latest model is the Watch D3, and it's better in almost every way compared to its predecessor (review here). We'll get to that, but first, let's unbox it. You get a similar haul to the D2, but here too there are improvements. The magnetic wirel",
+     "source": "GSMArena",
+     "zh": "华为Watch D3接受审查"
+    },
     {
      "title": "Bloomberg: New iPad mini with OLED display will be significantly more expensive than current model",
      "link": "https://9to5mac.com/2026/10/11/ipad-mini-oled-higher-price/",
@@ -2162,14 +2186,6 @@ window.INDUSTRY_DATA = {
      "zh": "小米手表S5评测"
     },
     {
-     "title": "Samsung Galaxy S27 might finally introduce DC dimming",
-     "link": "https://www.gsmarena.com/samsung_galaxy_s27_might_finally_introduce_dc_dimming-news-74994.php",
-     "pubDate": "Sat, 10 Oct 2026 23:01:02 +0200",
-     "summary": "We already heard word that Samsung Display is gearing up to start Galaxy S27 display manufacturing soon. That might have already happened; hence, these new leaks might be perfectly plausible. Apparently, the S27 Pro and S27 Ultra will be the first Samsung smartphones to offer DC dimming. That sounds",
-     "source": "GSMArena",
-     "zh": "三星 Galaxy S27 可能最终引入 DC 调光"
-    },
-    {
      "title": "Samsung has updated these Galaxy devices to Android 17",
      "link": "https://9to5google.com/2026/10/10/samsung-galaxy-android-17-update-list/",
      "pubDate": "Sat, 10 Oct 2026 20:58:26 +0000",
@@ -2194,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google 电子钱包状态 ID 在 Android 上可用的位置"
     },
     {
-     "title": "Amazon’s new Alexa Tablet finally gives the iPad lineup some much needed competition",
-     "link": "https://9to5mac.com/2026/10/10/amazon-alexa-tablet-solid-ipad-competition/",
-     "pubDate": "Sat, 10 Oct 2026 15:51:43 +0000",
-     "summary": "This week, Amazon unveiled a new lineup of Alexa Tablets. They no longer run a proprietary OS with a custom App Store, and instead embrace Android with a stock feel – while offering the Play Store. It’s a big shift in direction for Amazon. The tablets also look quite beautiful, while previous Fire t",
-     "source": "9to5Mac",
-     "zh": "亚马逊的新款 Alexa 平板电脑终于给 iPad 系列带来了一些急需的竞争"
-    },
-    {
      "title": "If you only care about the basics, this is the only Android phone I’d recommend",
      "link": "https://www.androidauthority.com/best-android-phone-for-only-basics-2026-3719291/",
      "pubDate": "Sat, 10 Oct 2026 11:00:15 +0000",
@@ -2218,11 +2226,59 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "“张雪机车”德比斯获超级摩托车锦标赛葡萄牙站次回合第三",
+     "link": "http://finance.eastmoney.com/news/1350,202610113892124668.html",
+     "pubDate": "Sun, 11 Oct 2026 22:40:29 +0800",
+     "summary": "2026世界超级 摩托车 锦标赛（WSBK）葡萄牙站WorldSSP组别次回合正赛11日在埃什托里尔赛道举行。中国 摩托车 制造商“张雪机车”的法国车手德比斯获得第三名。 当天赛场有雨，德比斯从第三位发车，第10圈遇红旗暂停比赛，恢复比赛后从第六位发车，最终获得第三。“张雪机车”的另一名车手卡里卡苏洛获得第13名。 此役过后，德比斯以291分继续位列车手积分榜第二，落后“领头羊”阿雷纳斯73分。 葡萄牙站是本赛季倒数第二站赛事，赛季收官战将于10月16至18日在西班牙举行。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "“张雪机车”德比斯获超级摩托车锦标赛葡萄牙站次回合第三"
+    },
+    {
+     "title": "也门萨那机场遭沙特袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892124426.html",
+     "pubDate": "Sun, 11 Oct 2026 22:38:50 +0800",
+     "summary": "当地时间11日，总台记者获悉，沙特空袭了位于也门首都萨那的萨那国际 机场 和萨达省的目标。 目前，沙特方面对此暂无回应。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "也门萨那机场遭沙特袭击"
+    },
+    {
+     "title": "沙特阿拉伯金融区KAFD延长远程办公安排 直至进一步通知",
+     "link": "http://finance.eastmoney.com/news/11790,202610113892124943.html",
+     "pubDate": "Sun, 11 Oct 2026 22:36:32 +0800",
+     "summary": "沙特阿拉伯金融区KAFD延长远程办公安排，直至进一步通知。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "沙特阿拉伯金融区KAFD延长远程办公安排 直至进一步通知"
+    },
+    {
+     "title": "【十大券商一周策略】市场积极信号逐渐累积，把握好四季度做多窗口期",
+     "link": "http://finance.eastmoney.com/news/1378,202610113892124764.html",
+     "pubDate": "Sun, 11 Oct 2026 22:34:37 +0800",
+     "summary": "中信证券 ：应对全球高利率常态，密切跟踪AI投资周期拐点 油价回稳、非农数据低于预期、美联储加息预期下修，均未改变全球长债利率走高。背后的原因是持续强劲的私人部门投融资需求，在万亿美元投资带动下，北美率先走出了金融危机后低增 长和 低利率的“非常态”，全球高利率环境，在AI投资周期拐点前，是我们必须应对的常态。对海外高利率不敏感的需求只有北美AI以及与中国中央财政扩张相关的领域，而过去几年持股体验极佳的出海、资源板块都存在压力。在弱需求环境下，凸显出供给出清品种的稀缺性，反内卷进程明年依然值得重视。 配置策略上，围绕北美AI、中国“六张网”建设以及反内卷驱动的供给出清品种展开，AI+能化结构在",
+     "source": "东方财富股票",
+     "zh": "【十大券商一周策略】市场积极信号逐渐累积，把握好四季度做多窗口期"
+    },
+    {
+     "title": "芯片，突传重磅！全球首富，出手了！",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892124519.html",
+     "pubDate": "Sun, 11 Oct 2026 22:34:29 +0800",
+     "summary": "马斯克盯上芯片制造产业！ 当地时间周六（10月10日），全球首富、 特斯拉 及 SpaceX 创始人马斯克表示，鉴于其公司在制造定制化设备方面的专长，他认为自己的公司很可能“摸索出比任何人都更好的芯片制造方法”。 当天，马斯克在得克萨斯州奥斯汀 特斯拉 超级工厂外向一批客户和投资者发表讲话时说，虽然他目前“完全不知道怎么造微芯片，但我们会搞明白的”。他于周六通过直播露面X Takeover活动，并指出在参观竞争对手的工厂时，他并没有看到多少定制化设备，而他说自己的公司在制造这类设备方面经验丰富，这使它们能够改进制造工艺。 “我认为，说这是世界上最难做的事情之一，是准确的。”马斯克说道，“我不想",
+     "source": "东方财富股票",
+     "zh": "芯片，突传重磅！全球首富，出手了！"
+    },
+    {
+     "title": "节卡机器人将在工博会全球首发两款新品 以通用智能赋能智造新未来",
+     "link": "http://finance.eastmoney.com/news/1360,202610113892125066.html",
+     "pubDate": "Sun, 11 Oct 2026 22:33:59 +0800",
+     "summary": "上证报中国证券网讯（记者宋薇萍）记者10月11日从节卡 机器人 （JAKA）获悉，10月12日将在上海启幕的第二十六届中国国际工业博览会（简称“工博会”）上，节卡 机器人 将以“通用即未来”为核心参展主题，全球首发两款全新产品，分别为JAKA Zu50大负载协作 机器人 、JAKA Kargo50重载轮式 人形机器人 ，全面拓宽通用智能 机器人 应用边界。 据悉，创立于2014年的节卡 机器人 ，已形成协作 机器人 、具身智能双核心产品线，产品矩阵覆盖从轻载到重载、标准工况到特殊复杂环境的全工业场景，可全方位匹配制造业柔性生产需求。行业数据显示，2024年节卡机器人国内协作机器人市占率达21.",
+     "source": "东方财富股票",
+     "zh": "节卡机器人将在工博会全球首发两款新品 以通用智能赋能智造新未来"
+    },
+    {
      "title": "特朗普：俄乌双方同意“能源停火”",
      "link": "http://finance.eastmoney.com/news/1351,202610113892122418.html",
      "pubDate": "Sun, 11 Oct 2026 22:23:00 +0800",
-     "summary": "美国总统特朗普11日在社交媒体发文称，即刻起，俄乌冲突进入“能源停火”状态，双方均已同意。 （注：“能源停火”核心是俄乌双方暂时停止攻击对方的发电厂、变电站、炼油厂、 天然气 管道等能源设施） （文章来源：财联社）",
-     "source": "东方财富股票",
+     "summary": "美国总统特朗普11日在社交媒体发文称，即刻起，俄乌冲突进入“能源停火”状态，双方均已同意。 （注：“能源停火”核心是俄乌双方暂时停止攻击对方的发电厂、变电站、炼油厂、 天然气 管道等能源设施） （文章来源：央视新闻）",
+     "source": "东方财富资讯",
      "zh": "特朗普：俄乌双方同意“能源停火”"
     },
     {
@@ -2240,46 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "随着 ETF 需求的增长，摩根大通的欧洲资产目标达到 2 万亿美元"
-    },
-    {
-     "title": "思特威32亿定增落地：产业资本集体入局，锚定CIS高端化与AI视觉新周期",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892122393.html",
-     "pubDate": "Sun, 11 Oct 2026 22:19:17 +0800",
-     "summary": "近日，思特威（688213.SH）宣布2026年度向特定对象发行A股股票已完成发行，最终以87.05元/股发行3676.05万股，募集资金总额约32亿元。作为国内CMOS图像 传感器 （CIS）龙头，本次定增为思特威“3+AI”战略向高端领域全线突破注入了充沛的资本活力，产业基金与国际资本的相继入局也为公司后续技术攻坚、场景落地与全球布局绑定了多元资源支撑，折射出资本市场对国产CIS产业升级与AI视觉赛道的高度认可。 募投聚焦三大核心赛道，契合CIS产业升级大势 全球CIS产业正处于结构性切换的关键窗口期。传统智能手机市场企稳复苏，多摄与高像素趋势延续； 智能驾驶 、 机器视觉 、端侧AI等新",
-     "source": "东方财富股票",
-     "zh": "思特威32亿定增落地：产业资本集体入局，锚定CIS高端化与AI视觉新周期"
-    },
-    {
-     "title": "“工业具身智能一哥”通过上市聆讯，微亿智造抵近港股",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892122531.html",
-     "pubDate": "Sun, 11 Oct 2026 22:19:08 +0800",
-     "summary": "“物理AI”走向工厂，上市进程亦快速推进。 10月9日，具身智能工业 机器人 公司微亿智造通过港交所聆讯，冲刺港股主板上市。按灼识咨询数据，以2025年收益计，该公司是中国最大的具身智能工业 机器人 （EIIR）产品提供商，市场份额约20%。 这一赛道被视为工业自动化破局的下一个变量。传统产线长期受困于部署成本高、调试周期长、柔性不足与智能缺失等瓶颈，而将AI无缝融入 机器人 本体、使其具备类人的环境理解、学习与适应能力的具身智能，被寄望于打开新的市场空间。 灼识咨询预计，全球工业AI赋能设备市场规模将以23%的复合年增长率扩张，由2025年的人民币4657亿元增至2030年的人民币13106",
-     "source": "东方财富股票",
-     "zh": "“工业具身智能一哥”通过上市聆讯，微亿智造抵近港股"
-    },
-    {
-     "title": "政策协同发力 夯实资本市场韧性",
-     "link": "http://stock.eastmoney.com/news/1405,202610113892121847.html",
-     "pubDate": "Sun, 11 Oct 2026 22:18:43 +0800",
-     "summary": "国庆假期后的两个交易日，A股出现较大调整，引发市场关注。10月10日，证监会召开的资本市场和金融形势专家座谈会上，与会市场专家表示，我国宏观经济稳中向好，产业结构转型持续深化，资本市场运行总体稳健，多层次市场功能有效发挥，虽然面临一些风险挑战，但高质量发展的态势不会改变，对经济运行和资本市场充满信心。 节后市场连续两日调整 节后两个交易日，A股出现较大幅度调整，前期涨势较强的科技板块领跌，市场波动加大；随后市场经历探底回升、由跌转涨，券商、 银行 等权重板块走强，韧性显现。 对于近期市场表现，市场专家认为，外部扰动和投资者情绪变化加大了短期波动，但短期市场调整并不意味着经济基本面出现趋势性变化",
-     "source": "东方财富股票",
-     "zh": "政策协同发力 夯实资本市场韧性"
-    },
-    {
-     "title": "霍尔木兹海峡内一出港油轮左舷遭不明发射物击中",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892121679.html",
-     "pubDate": "Sun, 11 Oct 2026 22:17:34 +0800",
-     "summary": "当地时间11日，英国海上贸易行动办公室（UKMTO）称收到一份关于霍尔木兹海峡内发生事件的报告。 报告称，一艘出港航行的油轮左舷被一枚不明发射物击中，导致船只受损。据报告，所有船员均安全，袭击发生时未报告对环境造成影响。 目前事件正在调查中。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "霍尔木兹海峡内一出港油轮左舷遭不明发射物击中"
-    },
-    {
-     "title": "美国总统特朗普：俄乌战争已实现能源停火",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892122081.html",
-     "pubDate": "Sun, 11 Oct 2026 22:17:18 +0800",
-     "summary": "美国总统特朗普：俄乌战争已实现能源停火，能源停火协议立即生效 。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国总统特朗普：俄乌战争已实现能源停火"
     },
     {
      "title": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
@@ -2330,44 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "人工智能正在自动化编码。那么为什么软件开发人员的职位空缺不断增加呢？"
     },
     {
-     "title": "河南小吃接盘沙县店铺开出伦敦首店，一碗胡辣汤卖到87元，国内门店超200家",
-     "link": "http://www.eeo.com.cn/2026/1011/1061141.shtml",
-     "pubDate": "Sun, 11 Oct 2026 21:26:20 +0800",
-     "summary": "本文来源：时代财经 作者：李玮琪 黎倩 河南餐饮品牌方中山开启海外门店。 <img class=\"lazyload\" data-mce-src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/57D3CE4917F0FBBC063533DAD3965FC9.jpg\" src=\"https://marmot-obs.timesmedia.com.cn/nbd-obs/6a41f62...",
-     "source": "经济观察网",
-     "zh": "河南小吃接盘沙县店铺开出伦敦首店，一碗胡辣汤卖到87元，国内门店超200家"
-    },
-    {
-     "title": "天天315｜一辆汽车的刹车踏板 绝不应该在驾驶中出现“断裂”",
-     "link": "http://www.eeo.com.cn/2026/1011/1061140.shtml",
-     "pubDate": "Sun, 11 Oct 2026 21:26:08 +0800",
-     "summary": "2026年10月11日，人民日报发声：“一辆汽车的刹车踏板，绝不应该在驾驶中出现‘断裂’。”近期四部门发布新规征求意见稿，直指“速成车”乱象，也回应了公众高度关注的尊界V800踏板断裂争议。",
-     "source": "经济观察网",
-     "zh": "天天315｜一辆汽车的刹车踏板 绝不应该在驾驶中出现“断裂”"
-    },
-    {
      "title": "Are markets open on Columbus/Indigenous Peoples' Day?",
      "link": "https://seekingalpha.com/news/4651921-are-markets-open-on-columbus-indigenous-peoples-day?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 11 Oct 2026 09:22:44 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "哥伦布/土著人民日市场开放吗？"
-    },
-    {
-     "title": "在线等单算不算工作？新就业形态保障新规征求意见，工时与劳动关系认定成焦点",
-     "link": "http://www.eeo.com.cn/2026/1011/1061138.shtml",
-     "pubDate": "Sun, 11 Oct 2026 21:13:14 +0800",
-     "summary": "本文来源：时代周报 作者：宋珂欣 “跑外卖的第13天，什么时候能追赶上这些单王。”在合肥的骑手阿伟在社交媒体上感叹道。配图里，夜色已晚，他仰躺在电动车后座的外卖箱上。当天他跑了38单，排名第40位。而排名第一的骑手跑了67单，这意味着更长的工作时间和更快的配送速度。 在算法的规则里，时间就是收入。但时间这件事，在制度层面长期没有定论：在线等单算不算工作？跨平台跑单的工时谁来归集？出了事故，保险...",
-     "source": "经济观察网",
-     "zh": "在线等单算不算工作？新就业形态保障新规征求意见，工时与劳动关系认定成焦点"
-    },
-    {
-     "title": "实测｜豆包可以缴水电燃气费了！从对话到支付，争夺AI交易入口",
-     "link": "http://www.eeo.com.cn/2026/1011/1061137.shtml",
-     "pubDate": "Sun, 11 Oct 2026 21:13:12 +0800",
-     "summary": "当你的AI小助手不再只停留在文字问答、文案生成，而是伸手触达真实资金交易，你最期待又最担心的是什么？ 近日，字节跳动旗下AI助手豆包上线灰度测试生活缴费能力。北京商报记者实测看到，用户在对话页面直接说出缴纳水费、电费、燃气费等指令，即可唤起缴费卡片，依托抖音支付链路完成交易。这是豆包继对话购物之后，打通对话直达支付闭环的又一新动作。 接近豆包人士表示：豆包正在逐步建设包括出行服务、生活缴...",
-     "source": "经济观察网",
-     "zh": "实测｜豆包可以缴水电燃气费了！从对话到支付，争夺AI交易入口"
     },
     {
      "title": "Musk promises affordable Starlink service in India as Reliance Jio preps $106B IPO",
@@ -2410,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "“我感觉自己像个失败者”：我的股票投资组合剧烈波动。终于到了担心的时候了吗？"
     },
     {
-     "title": "AI发展的神魔两端：是普罗米修斯的火种，还是潘多拉的魔盒？",
-     "link": "http://www.eeo.com.cn/2026/1011/1061123.shtml",
-     "pubDate": "Sun, 11 Oct 2026 20:05:31 +0800",
-     "summary": "如果用一种最古老、最直观的方式来理解这种复杂性，那就是——AI的发展，正呈现出鲜明的“神魔两端”。",
-     "source": "经济观察网",
-     "zh": "AI发展的神魔两端：是普罗米修斯的火种，还是潘多拉的魔盒？"
-    },
-    {
      "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
      "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
      "pubDate": "Sun, 11 Oct 2026 12:00:00 GMT",
@@ -2434,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "“我没有孩子”：我阿姨给了我 5 万美元作为首付。现在她要我把家留给她的两个孩子。"
     },
     {
-     "title": "国家发展改革委：推动“六张网”等重大工程项目尽早开工建设",
-     "link": "http://www.eeo.com.cn/2026/1011/1061119.shtml",
-     "pubDate": "Sun, 11 Oct 2026 19:52:07 +0800",
-     "summary": "10月10日，国家发展改革委主任郑栅洁主持召开民营企业座谈会，围绕准确把握三季度经济形势、积极应对国际供需情况变化，与来自石油化工、天然气供应、农业机械、人工智能应用等领域的盛虹控股、东明石化、新奥集团、吉峰三农、晶泰科技等企业负责人深入交流，听取意见建议。 会上，企业负责人分别介绍了前三季度生产经营情况，并结合国际形势变化和国内外市场情况，提出促进行业发展、完善宏观政策的意见建议。大家认为，...",
-     "source": "经济观察网",
-     "zh": "国家发展改革委：推动“六张网”等重大工程项目尽早开工建设"
-    },
-    {
      "title": "大摩相信：市场低估了宁德时代的韧性！",
      "link": "https://wallstreetcn.com/articles/3783381",
      "pubDate": "Sun, 11 Oct 2026 19:18:46 +0800",
@@ -2456,6 +2424,46 @@ window.INDUSTRY_DATA = {
      "summary": "But it requires Brussels to prioritise creative destruction over protectionism",
      "source": "Financial Times",
      "zh": "欧洲可以应对“中国冲击”"
+    },
+    {
+     "title": "英伟达表外承诺飙升至5300亿美元！SemiAnalysis：未来可能突破1万亿美元",
+     "link": "https://wallstreetcn.com/articles/3783383",
+     "pubDate": "Sun, 11 Oct 2026 18:56:33 +0800",
+     "summary": "英伟达的表外财务承诺规模正以惊人速度膨胀，引发市场对其资产负债表弹性与风险承受能力的高度关注。 据英伟达最新提交的10-Q季报披露，其表外担保总额已达5300亿美元，较上一季度披露的1840亿美元大幅跃升，单季增幅超过180%。 这一数字横跨六个不同科目，涵盖供应承诺、数据中心兜底协议及云服务租约等多类义务。 研究机构SemiAnalysis在对上述数据进行深度拆解后指出， 随着英伟达盈利能力持续增强，其表外义务规模在未来几年有望进一步扩张至1万亿美元以上。 与此同时，该机构也提出核心问题： 一旦行业出现放缓或下行，英伟达能否在兼顾安全边际的前提下，履行全部表内与表外承诺？ 单季激增逾1800",
+     "source": "华尔街见闻",
+     "zh": "英伟达表外承诺飙升至5300亿美元！SemiAnalysis：未来可能突破1万亿美元"
+    },
+    {
+     "title": "美国VC资本流向：从“单一组件”转向“AI工厂”系统集成",
+     "link": "https://wallstreetcn.com/articles/3783382",
+     "pubDate": "Sun, 11 Oct 2026 18:40:23 +0800",
+     "summary": "AI基础设施风险投资正经历结构性转变。资本不再仅仅追逐算力或电力这两个单一要素，而是加速流向将两者整合为一体的系统性解决方案——数据中心正在演变为需要统一调度电力、算力、网络、冷却与数据流动的\"AI工厂\"。 据追风交易台，摩根士丹利最新研究报告指出，2026年美国AI基础设施相关初创企业的风险融资规模已达335亿美元，较2025年全年近乎翻倍。 资本高度集中于两大最稀缺的基础设施要素——单位功耗算力与稳定电力供应，两条路径合计占2026年融资总额的逾80%。与此同时，越来越多的投资者开始同时布局电力与算力，跨路径投资者参与比例从2021年前的16%跃升至2026年的73%，标志着市场对系统集成",
+     "source": "华尔街见闻",
+     "zh": "美国VC资本流向：从“单一组件”转向“AI工厂”系统集成"
+    },
+    {
+     "title": "如今美光赚得比苹果还多！苹果急需芯片，美光掌握定价权",
+     "link": "https://wallstreetcn.com/articles/3783377",
+     "pubDate": "Sun, 11 Oct 2026 17:59:03 +0800",
+     "summary": "内存短缺正在重新分配科技行业的利润版图。美光科技在截至9月30日的第四财季录得净利润377亿美元，而苹果同期净利润为298亿美元——美光单季多赚了约80亿美元。 这一反转并非偶然。市场策略师Charlie Bilello在X平台上用三句话概括了这一逻辑： “苹果需要芯片。美光有芯片。美光定价格。” 他补充道，美光净利润“在短短两年内飙升42倍至380亿美元——比苹果上季度的盈利还多80亿美元”，并直言：“我们从未见过这样的定价权。” 科技投资分析师Beth Kindig也在X平台上指出：“美光现在产生的营业利润已经超过苹果。” 美光的数字：从亏损边缘到碾压苹果 美光的盈利反转速度令人咋舌。 2",
+     "source": "华尔街见闻",
+     "zh": "如今美光赚得比苹果还多！苹果急需芯片，美光掌握定价权"
+    },
+    {
+     "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
+     "link": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
+     "pubDate": "Sun, 11 Oct 2026 09:48:24 GMT",
+     "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels",
+     "source": "Financial Times",
+     "zh": "利雅得机场遭导弹袭击造成12人死亡、数百人受伤"
+    },
+    {
+     "title": "十大机构论市：市场短期性价比已明显改善 小级别反弹可期",
+     "link": "http://finance.eastmoney.com/news/1345,202610113892075327.html",
+     "pubDate": "Sun, 11 Oct 2026 17:30:10 +0800",
+     "summary": "本周沪指下跌0.74%，深证成指下跌1.91%，创业板指下跌2.93%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 申万宏源策略：市场短期性价比已明显改善 小级别反弹可期 国庆假期后两个交易日的行情，构成支持我们长中短期波段定位的证据。中长波段，A股处于两个大波段上涨之间的震荡休整期，且仍偏向于弱势震荡。这个阶段，大类资产和产业利空，容易引发脉冲式调整。短波段，市场短期性价比已明显改善，各维度悲观预期都已有所反映。市场已经验证了，上证综指3800点以下配置需求释放，足以支持反弹。国庆假期后两个交易日的行情，构成支持我们长中短期波段定位的证据。重申我们长期、中期、短期波",
+     "source": "东方财富资讯",
+     "zh": "十大机构论市：市场短期性价比已明显改善 小级别反弹可期"
     }
    ]
   },

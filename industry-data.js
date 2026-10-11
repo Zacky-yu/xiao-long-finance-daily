@@ -34,6 +34,30 @@ window.INDUSTRY_DATA = {
      "zh": "这些高管认为语音 AI 尚未达到 ChatGPT 时刻"
     },
     {
+     "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+     "link": "https://www.qbitai.com/2026/10/502644.html",
+     "pubDate": "Sun, 11 Oct 2026 09:04:31 +0000",
+     "summary": "一套生成论文初稿的多智能体工作流",
+     "source": "量子位",
+     "zh": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针"
+    },
+    {
+     "title": "何恺明团队发布多模态Harness框架",
+     "link": "https://www.qbitai.com/2026/10/502628.html",
+     "pubDate": "Sun, 11 Oct 2026 08:59:06 +0000",
+     "summary": "多模态模型的视觉原生Harness，来了！",
+     "source": "量子位",
+     "zh": "何恺明团队发布多模态Harness框架"
+    },
+    {
+     "title": "陶哲轩：数学2.0时代已至！",
+     "link": "https://www.qbitai.com/2026/10/502594.html",
+     "pubDate": "Sun, 11 Oct 2026 07:52:16 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "陶哲轩：数学2.0时代已至！"
+    },
+    {
      "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
      "link": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/",
      "pubDate": "Sun, 11 Oct 2026 06:20:21 +0000",
@@ -114,14 +138,6 @@ window.INDUSTRY_DATA = {
      "zh": "EMNLP'26 Oral | 麻省理工：靠访谈让AI模拟真人，这条路能走多远？"
     },
     {
-     "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-     "link": "https://www.qbitai.com/2026/10/502544.html",
-     "pubDate": "Sun, 11 Oct 2026 03:27:08 +0000",
-     "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
-     "source": "量子位",
-     "zh": "DeepSeek Bot来了！民间版，DSH装个插件就能用"
-    },
-    {
      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
      "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
      "pubDate": "Sat, 10 Oct 2026 22:02:18 +0000",
@@ -178,14 +194,6 @@ window.INDUSTRY_DATA = {
      "zh": "编程体验接近Opus 5.5？谷歌Gemini 4新版本曝光"
     },
     {
-     "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
-     "link": "https://www.qbitai.com/2026/10/502541.html",
-     "pubDate": "Sat, 10 Oct 2026 10:30:36 +0000",
-     "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
-     "source": "量子位",
-     "zh": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地"
-    },
-    {
      "title": "从记忆到自进化：Agent 走向 RSI 的关键一步",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062063&idx=1&sn=f91d6b290b4a38685b85a47415870873",
      "pubDate": "Sat, 10 Oct 2026 18:23:00 +0800",
@@ -200,14 +208,6 @@ window.INDUSTRY_DATA = {
      "summary": "与其被动地丢掉工作，不如主动去开一家朝这个方向走的公司。",
      "source": "机器之心",
      "zh": "田渊栋：与GPT-5合写最后一篇论文后，我意识到自己5年内会失业"
-    },
-    {
-     "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
-     "link": "https://www.qbitai.com/2026/10/502496.html",
-     "pubDate": "Sat, 10 Oct 2026 09:07:43 +0000",
-     "summary": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
-     "source": "量子位",
-     "zh": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起"
     },
     {
      "title": "2026中国计算机大会定了，12位院士演讲，腾讯阿里百度、小米京东都来了",
@@ -2298,6 +2298,14 @@ window.INDUSTRY_DATA = {
      "zh": "英国：反对美俄柴油协议 力挺泽连斯基"
     },
     {
+     "title": "英国：反对美俄柴油协议 力挺泽连斯基",
+     "link": "http://finance.eastmoney.com/news/1356,202610123892139230.html",
+     "pubDate": "Mon, 12 Oct 2026 03:33:02 +0800",
+     "summary": "据新华社报道，据英国首相府10日发表的声明，英国首相伯纳姆当天与乌克兰总统泽连斯基通电话，重申他完全支持乌克兰。此前，泽连斯基与美国总统特朗普就一项涉及俄罗斯柴油的协议发生争执。 伯纳姆在通话中说，过去24小时对乌克兰而言十分艰难。英国将在本周宣布的对俄罗斯新制裁措施基础上，继续加强对俄制裁。 声明还说，两国领导人同意在未来几天举行面对面会晤，继续进行讨论。 美国财政部外国资产控制办公室9日发布公告说，在未来几个月放松针对俄罗斯柴油贸易的制裁，以缓解美国内柴油供应紧张、平抑油价。特朗普同日宣布，美俄领导人就俄向美国及全球市场提供柴油达成一致。泽连斯基随后表示，允许俄罗斯出售石油产品“就是在投资",
+     "source": "东方财富股票",
+     "zh": "英国：反对美俄柴油协议 力挺泽连斯基"
+    },
+    {
      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
      "pubDate": "Sun, 11 Oct 2026 19:32:00 GMT",
@@ -2312,6 +2320,22 @@ window.INDUSTRY_DATA = {
      "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
      "source": "MarketWatch",
      "zh": "我是一名 68 岁的寡妇，给我的两个成年孩子捐钱。我的退休生活是否面临风险？"
+    },
+    {
+     "title": "美以领导人被曝频繁就再袭伊朗进行沟通 但伊朗“不会坐等美国中期选举结果”",
+     "link": "http://finance.eastmoney.com/news/1356,202610123892139321.html",
+     "pubDate": "Mon, 12 Oct 2026 03:24:03 +0800",
+     "summary": "据央视新闻报道，当地时间10月10日，以色列方面有消息称，美国总统特朗普与以色列总理内塔尼亚胡近期“就美以可能再对伊朗发动军事打击一事进行了频繁、紧急沟通”。 根据多名以色列安全机构高级官员的消息，“美以尚未就此作出最终决定，内塔尼亚胡无意在以色列本月底举行议会选举前采取军事行动。”以军内部认为，美方未来倾向于重启对伊朗军事行动。目前，以军正据此为应对一切可能情况作准备。 对此，参考消息网援引美国《华盛顿邮报》网站10月8日的报道称，距离美国中期选举还有不到一个月的时间，伊朗正在霍尔木兹海峡升级袭击行动，使通过该海峡运输的石油大幅减少。 根据联合国和海运追踪公司克普勒公司的数据，伊朗上周在霍尔",
+     "source": "东方财富股票",
+     "zh": "美以领导人被曝频繁就再袭伊朗进行沟通 但伊朗“不会坐等美国中期选举结果”"
+    },
+    {
+     "title": "俄方称打击乌数据中心 俄Yandex数据中心再次遭袭",
+     "link": "http://finance.eastmoney.com/news/1360,202610123892139437.html",
+     "pubDate": "Mon, 12 Oct 2026 03:23:03 +0800",
+     "summary": "据新华社报道，俄罗斯国防部11日在社交媒体发布通报说，俄军10日夜间使用 无人机 对乌克兰 数据中心 、船舶等实施远程打击，并新取得4处居民点的控制权。 通报说，俄军 无人机 击中了乌克兰敖德萨市内一处为乌军处理、传输与存储信息的 数据中心 。 无人机 还击中一艘停靠在敖德萨州切尔诺莫斯克港内的干货船，该船只此前为乌军运送物资。 俄国防部还说，俄北方集团军和中部集团军分别在哈尔科夫州和顿涅茨克地区各取得两处居民点的控制权。 另据央视新闻报道，俄罗斯主要搜索引擎央捷科斯（Yandex）10月11日在社交平台通报，其在弗拉基米尔市一处 数据中心 的基础设施因无人机袭击受损，无人员伤亡。该中心运行已",
+     "source": "东方财富股票",
+     "zh": "俄方称打击乌数据中心 俄Yandex数据中心再次遭袭"
     },
     {
      "title": "美以领导人被曝频繁就再袭伊朗进行沟通 但伊朗“不会坐等美国中期选举结果”",

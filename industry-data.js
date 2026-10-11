@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 15:23:03",
+ "generated_at": "2026/10/11 15:32:03",
  "recent_days": 7,
  "industries": [
   {
@@ -2218,6 +2218,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "从连接信息到组织行动：智能体经济增长的底层逻辑",
+     "link": "http://www.eeo.com.cn/2026/1011/1060835.shtml",
+     "pubDate": "Sun, 11 Oct 2026 15:24:05 +0800",
+     "summary": "智能体重构了经济活动的决策权，从以人为中心走向人与智能体的共同参与：人只需要负责提出目标、设定边界和作出关键确认，智能体负责获取信息、比较决策、组织资源和协调沟通。由此市场的功能、结构和边界都将发生变化。",
+     "source": "经济观察网",
+     "zh": "从连接信息到组织行动：智能体经济增长的底层逻辑"
+    },
+    {
      "title": "深蓝i版车型OTA追踪：三季度更新承诺落空，仍待备案结果",
      "link": "http://www.eeo.com.cn/2026/1011/1060825.shtml",
      "pubDate": "Sun, 11 Oct 2026 15:13:12 +0800",
@@ -2248,14 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "韩国散户投资者在今年三季度完成了一次方向鲜明的资金大迁移：净卖出KOSPI股票逾5.59万亿韩元，同期净买入美股约10.15万亿韩元，与上半年“大举买入本土、相对冷淡美股”的格局形成180度逆转。 这一转变的导火索，是KOSPI在创下历史收盘高点后的急速回调，以及美国科技股在AI基础设施扩张驱动下持续创新高所形成的强烈反差。 分析人士指出，韩元升值进一步降低了散户购买美股的换汇成本，令资金外流趋势在三季度加速。 韩国股市在第三季度遭遇大幅回调，KOSPI指数单季下跌约18.8%，成为全球主要股指中表现最差的市场。7月初，三星电子、SK海力士等AI内存核心标的遭到集中抛售，杠杆头寸平仓进一步放大",
      "source": "华尔街见闻",
      "zh": "韩国散户三季度“脱韩入美”：抛售韩股逾5.5万亿韩元，买入美股超10万亿韩元"
-    },
-    {
-     "title": "周末要闻汇总：中共中央、国务院印发《关于发展新质生产力的意见》",
-     "link": "http://finance.eastmoney.com/news/1345,202610113892043722.html",
-     "pubDate": "Sun, 11 Oct 2026 14:00:17 +0800",
-     "summary": "本周末影响市场的重要资讯有：中共中央、国务院印发《关于发展新质生产力的意见》；中欧贸易投资磋商机制发布第二次例会联合声明，达成16项成果共识；中国证监会召开资本市场和金融形势专家座谈会；时隔12年，公募基金运作办法修订，多举措支持逆周期布局；财政部安排使用5500亿元地方政府债务结存限额；加强 汽车 产品创新设计等方面管理，四部门征求意见；沙特首都利雅得 机场 遭袭致12死309伤，美或将介入打击行动。 宏观经济 中共中央、国务院印发《关于发展新质生产力的意见》 《意见》统筹发展和安全，以科技创新为引领，以全要素生产率大幅提升为核心标志，推动技术革命性突破、生产要素创新性配置、产业深度转型升级",
-     "source": "东方财富资讯",
-     "zh": "周末要闻汇总：中共中央、国务院印发《关于发展新质生产力的意见》"
     },
     {
      "title": "世卫：俄不明原因肺炎事件无持续传播证据",
@@ -2304,14 +2304,6 @@ window.INDUSTRY_DATA = {
      "summary": "三星电子明年约80%的存储芯片产能已通过长期供应协议提前锁定 ，科技巨头争抢剩余产能的格局折射出AI基础设施军备竞赛的白热化程度。 据韩国经济日报本周稍早前报道， 英伟达、谷歌、微软等全球科技巨头已与三星签署覆盖逾五年的芯片供应协议，尚未完成签约的企业正在暗中角力，争夺剩余约20%的产能。 三星电子在二季度业绩电话会议上表示，\"几乎所有主要客户都在申请长协\"，并坦言\"难以响应所有需求\"。 这一趋势已从存储芯片蔓延至AI基础设施全产业链，涵盖多层陶瓷电容（MLCC）、覆晶球栅阵列基板（FC-BGA）、变压器、电力设备及冷却系统。市场议价权正加速向供应商倾斜，20%至25%的预付款及强制采购条款日",
      "source": "华尔街见闻",
      "zh": "三星明年存储产量的80%已被长协锁定"
-    },
-    {
-     "title": "部分大闸蟹跌出“地板价”",
-     "link": "http://www.eeo.com.cn/2026/1011/1060611.shtml",
-     "pubDate": "Sun, 11 Oct 2026 12:52:10 +0800",
-     "summary": "金秋十月，菊香蟹肥。近期，关于“今年大闸蟹行情全线崩盘、价格大跌”的说法引发热议，有网民称大闸蟹卖出“地板价”，养殖户亏本甩卖。 据看看新闻报道，在上海普陀区新沪路，沿街的不少摊贩都在售卖正当季的大闸蟹。记者上前打听这些产自南京高淳的中小规格蟹，一位摊主接受采访时表示：“六块（一只）的雌蟹，五块的雌蟹都有，往年没有这么便宜的。”还有太湖蟹摊位也是卖到了“地板价”，三两规格单只仅售10元。 ...",
-     "source": "经济观察网",
-     "zh": "部分大闸蟹跌出“地板价”"
     },
     {
      "title": "赛力斯继续押注宁德时代",
@@ -2456,6 +2448,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Key deals this week: Option Care Health, PTC, Energy Transfer and more"
+    },
+    {
+     "title": "Nvidia in talks to buy ‘open’ model startup Reflection AI: FT",
+     "link": "https://seekingalpha.com/news/4651913-nvidia-buy-open-model-startup-reflection-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 10 Oct 2026 15:12:18 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia in talks to buy ‘open’ model startup Reflection AI: FT"
     }
    ]
   },
@@ -2538,20 +2538,20 @@ window.INDUSTRY_DATA = {
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
-     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
-     "source": "Live Science",
-     "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
-    },
-    {
      "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
      "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
      "source": "Live Science",
      "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
+    },
+    {
+     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
+     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
+     "source": "Live Science",
+     "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

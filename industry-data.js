@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 06:30:26",
+ "generated_at": "2026/10/12 06:49:53",
  "recent_days": 7,
  "industries": [
   {
@@ -586,6 +586,14 @@ window.INDUSTRY_DATA = {
      "zh": "Groceryshop 2026 表明零售机器人已准备好扩大规模并使用人工智能"
     },
     {
+     "title": "Robot Talk Episode 165 – Robots behind the research, with Kushant Patel",
+     "link": "https://robohub.org/robot-talk-episode-165-robots-behind-the-research-with-kushant-patel/",
+     "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
+     "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
+     "source": "Robohub",
+     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
+    },
+    {
      "title": "Cevotec brings robotic composite lamination to South Korea with KCompositeLab partnership",
      "link": "https://roboticsandautomationnews.com/2026/10/09/cevotec-brings-robotic-composite-lamination-to-south-korea-with-kcompositelab-partnership/105793/",
      "pubDate": "Fri, 09 Oct 2026 08:57:06 +0000",
@@ -624,6 +632,22 @@ window.INDUSTRY_DATA = {
      "summary": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot. What you will learn about: Why humanoid",
      "source": "IEEE Spectrum 机器人",
      "zh": "HiPHI：高精度人体运动和物体交互的大规模基准"
+    },
+    {
+     "title": "What three days building a robot taught me",
+     "link": "https://robohub.org/what-three-days-building-a-robot-taught-me/",
+     "pubDate": "Wed, 07 Oct 2026 07:12:39 +0000",
+     "summary": "Last month, I went to York to build a robot. I came back with a robot, a tiny trophy-shaped sense of achievement, and somehow a few new friends. From 25th-27th August, I joined the UK RAS STEPS MicroMaze Robot Hackathon at the Institute for Safe Autonomy, University of York. The brief sounded simple",
+     "source": "Robohub",
+     "zh": "三天打造机器人教会了我什么"
+    },
+    {
+     "title": "Research could guide the future design of social robots",
+     "link": "https://robohub.org/research-could-guide-the-future-design-of-social-robots/",
+     "pubDate": "Mon, 05 Oct 2026 10:00:33 +0000",
+     "summary": "By the University of Glasgow Giving robot companions animal-like or anime-style faces and voices could maximise their emotional appeal to users, according to new research which could help guide the growing field of social robotics. Social robots can provide companionship and comfort to their owners ",
+     "source": "Robohub",
+     "zh": "研究可以指导社交机器人的未来设计"
     }
    ]
   },
@@ -695,7 +719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 12:16:33 +0000",
      "summary": "Mitusbishi’s North American dealers have been trudging along with an aging, badge-engineered model line for years – but overseas? It’s a different story, and the 459 hp all-wheel drive ASX VR-e electric hot hatch shown here is plug-in proof. more…",
      "source": "Electrek",
-     "zh": "459 马力、3.9 秒内从 0-60 英里加速和全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
+     "zh": "459 马力、3.9 秒内从 0 加速到 60 英里以及全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
     },
     {
      "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
@@ -711,7 +735,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 01:17:40 +0000",
      "summary": "Aito will continue using CATL batteries across its lineup, with total annual capacity set to exceed 20 GWh after a joint project is completed. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "CATL与Seres签署长期战略协议扩大Aito电池产能"
+     "zh": "CATL与Seres签署长期战略协议，扩大Aito电池产能"
     },
     {
      "title": "Geely Galaxy launches Cruiser 700 to take on BYD, GWM in off-road SUV market",
@@ -847,7 +871,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 10:00:00 -0500",
      "summary": "Australia has long been known for its strong coal industry, being one of the world’s largest producers and exporters. While much of the world moves away from coal in favour of cleaner energy sources, Australia is doubling down on its coal production, with plans to extend the life of coal operations ",
      "source": "OilPrice",
-     "zh": "尽管巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
+     "zh": "尽管有巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
     },
     {
      "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
@@ -863,7 +887,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 18:00:00 -0500",
      "summary": "The cost of shipping crude oil soared to record highs last month as the Iran war reshuffled trade routes and patterns and tied up more tankers in inefficient and lengthy voyages. Supertanker rates soared in September to above $1 million per day on the Persian Gulf to China route—a record high. The S",
      "source": "OilPrice",
-     "zh": "石油危机演变成航运危机，油轮运价飙升至创纪录水平"
+     "zh": "随着石油危机演变成航运危机，油轮运价飙升至创纪录水平"
     },
     {
      "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
@@ -1575,7 +1599,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击"
+     "zh": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击"
     },
     {
      "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -1698,10 +1722,18 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Scale AI 创始人汪滔谈创业管理：从亲自决定细节到学会放手，在 Meta 的任务是招揽人才",
+     "link": "https://www.ithome.com/1/011/717.htm",
+     "pubDate": "Sun, 11 Oct 2026 22:47:29 GMT",
+     "summary": "IT之家 10 月 12 日消息，Scale AI 创始人、现任 Meta 首席 AI 官亚汪滔（Alexandr Wang）当地时间 10 月 11 日在做客 David Senra 播客节目时谈到了对首次创业者的建议：创办第一家公司时，创始人应亲自承担各项工作，深入掌握每个细节，之后再逐步学会放权。 他认为，创始人需要对业务的每个细节形成明确判断，并亲自把控执行过程。Scale AI 的发展便采用了这种方式，创始人对各项工作的直接控制是公司取得成功的重要因素之一。不过，这种管理方式也带来了代价：所有决策都要经过他本人，使他逐渐成为业务推进的瓶颈。 在加入 Meta 后，他采取了不同的管理方",
+     "source": "IT之家",
+     "zh": "Scale AI 创始人汪滔谈创业管理：从亲自决定细节到学会放手，在 Meta 的任务是招揽人才"
+    },
+    {
      "title": "Passkeys are a trap. Do not use them",
      "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
      "pubDate": "Sun, 11 Oct 2026 21:59:48 +0000",
-     "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 23 # Comments: 1",
+     "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 48 # Comments: 9",
      "source": "Hacker News",
      "zh": "万能钥匙是一个陷阱。不要使用它们"
     },
@@ -1709,7 +1741,7 @@ window.INDUSTRY_DATA = {
      "title": "An AI agent's $20 Kalshi account, with an exact reward model",
      "link": "https://github.com/mirabilis-agent/lip-ledger",
      "pubDate": "Sun, 11 Oct 2026 21:44:24 +0000",
-     "summary": "Article URL: https://github.com/mirabilis-agent/lip-ledger Comments URL: https://news.ycombinator.com/item?id=50048136 Points: 3 # Comments: 1",
+     "summary": "Article URL: https://github.com/mirabilis-agent/lip-ledger Comments URL: https://news.ycombinator.com/item?id=50048136 Points: 4 # Comments: 2",
      "source": "Hacker News",
      "zh": "人工智能代理的 20 美元 Kalshi 账户，具有精确的奖励模型"
     },
@@ -1719,13 +1751,13 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 17:20:01 -0400",
      "summary": "Wall Street Journal : Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September &nbsp; &mdash;&nbsp; San Francisco company's software makes it easier for developers to switch between different AI c",
      "source": "Techmeme",
-     "zh": "消息来源：亚马逊正在洽谈收购人工智能初创公司 Decart，这笔交易的估值可能约为 70 亿美元； Anthropic 决定不于 9 月份以约 6B 美元的价格收购 Decart（华尔街日报）"
+     "zh": "消息来源：亚马逊正在洽谈收购人工智能初创公司 Decart，这笔交易的估值可能约为 7B 美元； Anthropic 决定不于 9 月份以约 6B 美元的价格收购 Decart（华尔街日报）"
     },
     {
      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
      "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
      "pubDate": "Sun, 11 Oct 2026 21:07:20 +0000",
-     "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 60 # Comments: 28",
+     "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 65 # Comments: 36",
      "source": "Hacker News",
      "zh": "一名远程员工每天拒绝 160 张网络摄像头照片。她的雇主解雇了她"
     },
@@ -1749,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "The gap in shared understanding of LLM capability is widening",
      "link": "https://twitter.com/karpathy/status/2109361546505966046",
      "pubDate": "Sun, 11 Oct 2026 20:20:52 +0000",
-     "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 69 # Comments: 54",
+     "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 90 # Comments: 93",
      "source": "Hacker News",
      "zh": "对 LLM 能力的共识差距正在扩大"
     },
@@ -1757,17 +1789,17 @@ window.INDUSTRY_DATA = {
      "title": "Cartographers of North Korea",
      "link": "https://cartographers-nk.wonyoung.so/",
      "pubDate": "Sun, 11 Oct 2026 19:46:40 +0000",
-     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 96 # Comments: 12",
+     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 109 # Comments: 12",
      "source": "Hacker News",
      "zh": "朝鲜制图师"
     },
     {
-     "title": "Do You Have Pre-2012 Onion Issues?",
+     "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
      "link": "https://theonion.com/archivehunt/",
      "pubDate": "Sun, 11 Oct 2026 19:43:32 +0000",
-     "summary": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 180 # Comments: 18",
+     "summary": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 192 # Comments: 20",
      "source": "Hacker News",
-     "zh": "2012 年之前的洋葱有问题吗？"
+     "zh": "那么，您想出售您的《洋葱》印刷版吗？"
     },
     {
      "title": "A look at the economics of Anthropic&apos;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
@@ -1890,14 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "消息称荣耀 WIN Pad 平板搭载 8.4 英寸 240Hz OLED 屏，本月发布"
     },
     {
-     "title": "小岛秀夫确认客串某大型真人电影、某知名动画，坦言不喜欢扮演自己",
-     "link": "https://www.ithome.com/1/011/710.htm",
-     "pubDate": "Sun, 11 Oct 2026 14:50:56 GMT",
-     "summary": "IT之家 10 月 11 日消息，小岛秀夫近日在 KOJI10 广播节目透露，他已确定客串某部真人电影和某动画。这位游戏制作人曾出演日剧《别班》，还参与过《疯狂动物城 2》日语配音。 ▲ 小岛秀夫图源：小岛工作室 小岛秀夫在节目中表示：“有导演和其他人邀请我出演。其中一部是大型真人电影，另一部则是一部知名动画作品。” 据IT之家了解，小岛秀夫正在忙于两个 3A 游戏项目：恐怖游戏《OD》、谍报游戏《PHYSINT》。但根据他本人所述，他自己已幕后为其他项目录制过台词，并客串了一款尚未公布名称的游戏。 小岛秀夫认为， 演戏只是自己的副业 ， 他不喜欢在荧幕中扮演自己 ，而是更喜欢尝试其他角色或不",
-     "source": "IT之家",
-     "zh": "小岛秀夫确认客串某大型真人电影、某知名动画，坦言不喜欢扮演自己"
-    },
-    {
      "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
      "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
      "pubDate": "Sun, 11 Oct 2026 14:50:24 +0000",
@@ -1946,6 +1970,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "SpaceXAI's Grok: What's free in 2026 and what isn't?",
+     "link": "https://www.engadget.com/2281213/spacexai-grok-free-features-2026/",
+     "pubDate": "Sun, 11 Oct 2026 22:30:00 +0000",
+     "summary": "As with most AI tools, Grok's free tier is pretty limited.",
+     "source": "Engadget",
+     "zh": "SpaceXAI 的 Grok：2026 年什么是免费的，什么不是？"
+    },
+    {
      "title": "Is 3D printing safe to do in your bedroom or home office?",
      "link": "https://www.engadget.com/2281211/bedroom-home-office-3d-printing-safety-concerns/",
      "pubDate": "Sun, 11 Oct 2026 22:00:00 +0000",
@@ -1975,7 +2007,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 18:54:38 +0000",
      "summary": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3.",
      "source": "Engadget",
-     "zh": "Anbernic 的下一代双屏手持设备具有适合 3DS 游戏的完美宽高比"
+     "zh": "Anbernic 的下一代双屏掌上电脑具有适合 3DS 游戏的完美宽高比"
     },
     {
      "title": "The iPhone clock app has an oddity not many people know about",
@@ -1999,7 +2031,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 18:00:00 +0000",
      "summary": "Digital game licenses aren't perfect, which is why you might see a padlock icon blocking you from PS5 games.",
      "source": "Engadget",
-     "zh": "PlayStation 5 游戏库中挂锁符号背后的含义"
+     "zh": "PlayStation 5 游戏库中挂锁符号的含义"
     },
     {
      "title": "The original Apple TV 4K from 2017 is now officially \"vintage\"",
@@ -2024,14 +2056,6 @@ window.INDUSTRY_DATA = {
      "summary": "I use iPhone Mirroring every day to quickly access my iPhone directly from my Mac, and it’s even better this year. iOS 27 and macOS 27 Golden Gate were released last month, bringing three key updates to iPhone Mirroring. Here’s everything new. more…",
      "source": "9to5Mac",
      "zh": "macOS 27 为我最喜欢的功能带来了三项关键升级"
-    },
-    {
-     "title": "Why strong magnets can hinder the iPhone's rear-facing camera",
-     "link": "https://www.engadget.com/2281130/why-strong-magnetic-hinder-iphone-rear-facing-camera/",
-     "pubDate": "Sun, 11 Oct 2026 16:45:00 +0000",
-     "summary": "Magnetic accessories can be handy, but make sure they're not interfering with your camera.",
-     "source": "Engadget",
-     "zh": "为什么强磁铁会阻碍 iPhone 的后置摄像头"
     },
     {
      "title": "Report: HomePod mini 2 to release on October 30 with these upgrades",
@@ -2194,60 +2218,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "纽约期金失守4210美元/盎司，日内跌0.15%",
+     "link": "http://finance.eastmoney.com/news/1361,202610123892150498.html",
+     "pubDate": "Mon, 12 Oct 2026 06:34:05 +0800",
+     "summary": "10月12日，纽约期金失守4210美元/盎司，日内跌0.15%。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "纽约期金失守4210美元/盎司，日内跌0.15%"
+    },
+    {
+     "title": "皇岗口岸正式开通运行",
+     "link": "http://finance.eastmoney.com/news/11790,202610123892150246.html",
+     "pubDate": "Mon, 12 Oct 2026 06:33:50 +0800",
+     "summary": "今日（12日）上午6时30分，皇岗口岸正式开通运行，为旅客和客运车辆提供24小时通关服务，同时暂停往来深圳皇岗口岸临时旅检楼和香港落马洲管制站的旅检服务。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "皇岗口岸正式开通运行"
+    },
+    {
+     "title": "美联邦航空局提醒美航空公司注意沙特领空安全威胁",
+     "link": "http://finance.eastmoney.com/news/1351,202610123892150356.html",
+     "pubDate": "Mon, 12 Oct 2026 06:32:05 +0800",
+     "summary": "当地时间10月11日，美国联邦航空管理局（FAA）通知美国各航空公司，在飞往或飞越沙特阿拉伯时务必保持谨慎，理由是持续的军事活动及导航系统干扰构成了安全威胁。 FAA发布的这份“飞行员通知”（有效期至12月10日）是在利雅得国际 机场 于10日和11日接连遇袭后发布的。10日的袭击造成13人死亡，300多人受伤。 FAA指出，这些威胁可能对处于各种高度的航空器构成潜在风险，涵盖飞越、进场及离场等飞行阶段，并就这一“潜在危险状况”发出了警告。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "美联邦航空局提醒美航空公司注意沙特领空安全威胁"
+    },
+    {
+     "title": "育碧宣布《彩虹六号》手游2027年1月停运；前Reddit首席产品官将出任Mojang新CEO｜游戏早参",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892149982.html",
+     "pubDate": "Mon, 12 Oct 2026 06:31:49 +0800",
+     "summary": "｜2026年10月12日星期一｜ NO.1 育碧宣布《彩虹六号》手游2027年1月停运 10月10日消息，育碧宣布《彩虹六号》手游将于2027年1月15日停止运营，距离游戏全球正式上线不到一年。该作于2023年在部分地区开启试运营，2026年2月才面向全球正式推出，至今共走过15个赛季。育碧在公告中表示，这是“艰难的决定”，团队接下来将投入其他长期战略项目。后续安排将于未来几周陆续公布。 点评： 育碧叫停《彩虹六号》手游，反映出经典主机IP（具有商业价值的创意内容或品牌）向移动端迁移并非必然成功，射击品类在移动端面临用户留存与变现的双重压力。对游戏板块而言，此次停运是育碧重组期内收缩产品线的延",
+     "source": "东方财富股票",
+     "zh": "育碧宣布《彩虹六号》手游2027年1月停运；前Reddit首席产品官将出任Mojang新CEO｜游戏早参"
+    },
+    {
+     "title": "早读｜135名俄方人员返回伊朗核电站，此前于2月撤离",
+     "link": "http://finance.eastmoney.com/news/11790,202610123892150013.html",
+     "pubDate": "Mon, 12 Oct 2026 06:31:03 +0800",
+     "summary": "早上好！上观新闻『早读』来啦！今天是2026年10月12日星期一，农历九月初三。 § 昨日今晨 数据向好｜ 三季度，消费、外贸、投资等领域多项高频数据平稳向好。国家发展改革委国家信息中心数据显示，三季度，各类消费支付金额同比增长2.6%，增速较二季度提高0.7个百分点。9月线下支付金额同比增长3.1%，增速较8月提高0.5个百分点，连续3个月上行。三季度主要 港口 货运船舶离港、到港载重同比分别增长43.1%、0.3%，较二季度提高43.0、0.7个百分点。投资方面，相关数据显示，与算力、数据、网络等新型基础设施相关的项目中标金额三季度同比增长34.2%。 绝不应该｜ 人民日报11日文章《超话",
+     "source": "东方财富股票",
+     "zh": "早读｜135名俄方人员返回伊朗核电站，此前于2月撤离"
+    },
+    {
+     "title": "伊朗称美国已接受伊方所提部分条件",
+     "link": "http://finance.eastmoney.com/news/1356,202610123892150196.html",
+     "pubDate": "Mon, 12 Oct 2026 06:28:20 +0800",
+     "summary": "新华社德黑兰10月11日电(记者沙达提)伊朗最高国家安全委员会秘书穆赫辛·雷扎伊11日表示，美国已接受伊朗就重新开放霍尔木兹海峡所提出的部分条件，但就伊朗提出的其他条件，目前情况尚不明朗。 在伊朗新闻电视台11日播放的采访中，雷扎伊作出上述表态并详细阐述了伊美近期沟通情况。 雷扎伊说：“过去两个月里，美方通过巴基斯坦、卡塔尔、伊拉克三个不同渠道，要求伊朗提出提议。伊朗向美方提出7项条件，并明确告知美方，除非满足这些条件，否则不会向其开放霍尔木兹海峡，也不会进行任何谈判。” 雷扎伊说，美方现已作出回应，“但伊朗认为力度不足”。他强调，美方必须澄清一些模糊之处，伊朗需要观察美方能否消除伊方疑虑，以",
+     "source": "东方财富股票",
+     "zh": "伊朗称美国已接受伊方所提部分条件"
+    },
+    {
      "title": "AI boom echoes 1997 Asian financial crisis: SocGen's Albert Edwards",
      "link": "https://seekingalpha.com/news/4651952-ai-boom-echoes-1997-asian-financial-crisis-socgens-albert-edwards?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 11 Oct 2026 18:22:52 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "法国兴业银行 (SocGen) 的阿尔伯特·爱德华兹 (Albert Edwards) 表示，人工智能的繁荣与 1997 年亚洲金融危机相呼应"
-    },
-    {
-     "title": "沙特首都国际机场再遭袭 造成人员受伤",
-     "link": "http://finance.eastmoney.com/news/11790,202610123892146773.html",
-     "pubDate": "Mon, 12 Oct 2026 06:16:46 +0800",
-     "summary": "新华财经利雅得10月12日电沙特阿拉伯主导的多国联军11日说，位于沙特首都利雅得的哈立德国王国际 机场 航站楼再遭袭击。沙特民航总局说，此次袭击造成人员受伤。 多国联军发言人图尔基·马利基当天在社交媒体上说，一枚不明弹体击中哈立德国王国际 机场 4号航站楼。防空系统在 机场 附近拦截并摧毁一枚导弹，袭击引发的火情正在处置。 新华社记者当天在利雅得听到一声巨响，并看到黑烟升起。 沙特民航总局在社交媒体上说，此次袭击造成人员受伤，正协调有关部门开展机场设施受损情况评估和安全检查。 也门胡塞武装同日发表声明说，过去24小时内对沙特境内机场和能源设施发动了4次军事行动。据沙特阿拉伯民航总局声明，10日",
-     "source": "东方财富股票",
-     "zh": "沙特首都国际机场再遭袭 造成人员受伤"
-    },
-    {
-     "title": "霍尔木兹海峡，重要消息",
-     "link": "http://finance.eastmoney.com/news/1356,202610123892147583.html",
-     "pubDate": "Mon, 12 Oct 2026 06:16:46 +0800",
-     "summary": "伊朗称美国已接受伊方所提部分条件 新华社德黑兰10月11日电伊朗最高国家安全委员会秘书穆赫辛·雷扎伊11日表示，美国已接受伊朗就重新开放霍尔木兹海峡所提出的部分条件，但就伊朗提出的其他条件，目前情况尚不明朗。 在伊朗新闻电视台11日播放的采访中，雷扎伊作出上述表态并详细阐述了伊美近期沟通情况。 雷扎伊说：“过去两个月里，美方通过巴基斯坦、卡塔尔、伊拉克三个不同渠道，要求伊朗提出提议。伊朗向美方提出7项条件，并明确告知美方，除非满足这些条件，否则不会向其开放霍尔木兹海峡，也不会进行任何谈判。” 雷扎伊说，美方现已作出回应，“但伊朗认为力度不足”。他强调，美方必须澄清一些模糊之处，伊朗需要观察美方",
-     "source": "东方财富股票",
-     "zh": "霍尔木兹海峡，重要消息"
-    },
-    {
-     "title": "【环球财经】特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻”",
-     "link": "http://global.eastmoney.com/news/1959,202610123892147284.html",
-     "pubDate": "Mon, 12 Oct 2026 06:13:28 +0800",
-     "summary": "新华财经华盛顿10月11日电（记者黄强徐剑梅）美国总统特朗普11日称，即刻起，俄乌冲突进入“能源停火”状态。乌克兰总统泽连斯基当天回应说，“能源停火”对他来说也是个新闻。 特朗普当天在社交媒体发文称，俄乌双方对此均已同意。他警告“切勿破坏”这一停火承诺。 泽连斯基11日对美国阿克西奥斯新闻网站说，如果俄罗斯人同意能源停火，乌克兰就会同意。如果特朗普与俄总统普京谈成了，请告诉乌克兰停火何时开始。他说：“我们准备好了，我们会接受。” 近期美国国内出现柴油供应紧张，特朗普将柴油价格居高不下的原因归于俄乌冲突双方互相攻击对方能源设施。特朗普9日宣布，美俄领导人就俄向美国及全球市场提供柴油达成一致。泽连",
-     "source": "东方财富股票",
-     "zh": "【环球财经】特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻”"
-    },
-    {
-     "title": "丘成桐上场迎战AI冲击！牵头8家机构研发数学专用模型，上海将设相关实验室",
-     "link": "http://finance.eastmoney.com/news/1360,202610123892146517.html",
-     "pubDate": "Mon, 12 Oct 2026 06:05:03 +0800",
-     "summary": "从挑战数学奥赛到攻克数学界经典难题， 人工智能 （AI）正加速进入数学前沿领域。面对这一变革，中国数学界正加速整合力量，探索新的科研方式。 10月11日，由菲尔兹奖得主、清华大学讲席教授丘成桐院士牵头，清华大学求真书院、上海数学与交叉学科研究院等8家机构联合组建的丘成桐数学与 人工智能 实验室联盟在清华大学成立。联盟汇聚近千名数学家和科研人员，将自主研发数学科学专用模型，推动数学与AI深度融合、双向赋能。 近年来，AI在数学领域的进展令人瞩目。特别是上周，OpenAI集中公开了700余份由内部模型生成的研究文稿，涉及多个重大数学问题。尽管其结论仍待进一步核验，但AI对数学研究方式与学术生态的冲",
-     "source": "东方财富股票",
-     "zh": "丘成桐上场迎战AI冲击！牵头8家机构研发数学专用模型，上海将设相关实验室"
-    },
-    {
-     "title": "如何理解“三个不能、一个严禁”",
-     "link": "http://finance.eastmoney.com/news/1352,202610123892147388.html",
-     "pubDate": "Mon, 12 Oct 2026 06:03:57 +0800",
-     "summary": "10月9日，《中共中央国务院关于发展新质生产力的意见》公开发布。意见明确提出，不能脱实向虚、贪大求全、搞泡沫化，不能出现产业空心化或产业断层现象，不能盲目求新、顾此失彼；严禁借发展新质生产力之名违规滥用政策，对一哄而上、盲目投资等造成重大损失的严肃追究责任。有人将其理解为“刹车降温”，其实不然。它更像发展新质生产力的“红绿灯”和“导航仪”，既为各地创新探索划定清晰边界，也为高质量培育新动能校准方向。 “三个不能”层层递进、辩证统一，从发展根基、动力接续、方法统筹三个维度，厘清了发展新质生产力“怎么干”的认知误区与实践偏差。 不能脱实向虚、贪大求全、搞泡沫化，重在筑牢实体经济根基。新质生产力以科",
-     "source": "东方财富股票",
-     "zh": "如何理解“三个不能、一个严禁”"
-    },
-    {
-     "title": "截至8月底，邮政兜底实现“快递进村”建制村达2939个 越来越多村民足不出村、快捷收件（经济新方位）",
-     "link": "http://finance.eastmoney.com/news/1355,202610123892147068.html",
-     "pubDate": "Mon, 12 Oct 2026 06:03:57 +0800",
-     "summary": "快递 进村，是促进消费公平、激活农村消费潜力的重要抓手。 我国农村地区尤其是中西部边远地区，人口分散、地域范围广、运输距离长，寄递需求低频、分散、不稳定，干线运输成本和末端揽收成本明显高于城市，导致 快递 进村难。 为弥补市场供给短板，畅通城乡双向流通渠道，今年国家邮政局与中国邮政集团联合开展“ 快递 进村”邮政兜底专项试点。试点成效如何？近日，国家邮政局介绍了相关进展。 完成年初确定的试点目标 自2020年“快递进村”工程实施以来，我国农村寄递 物流 体系建设取得显著成效。截至目前，国家邮政局会同多部门打造出100个农村电商快递协同发展示范区，培育了219个快递服务现代农业示范项目，邮政快递",
-     "source": "东方财富股票",
-     "zh": "截至8月底，邮政兜底实现“快递进村”建制村达2939个 越来越多村民足不出村、快捷收件（经济新方位）"
     },
     {
      "title": "10月12日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
@@ -2391,7 +2415,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 17:08:30 GMT",
      "summary": "Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products to better curate offerings and stabilize business.",
      "source": "CNBC",
-     "zh": "从 BJ’s 到 Lululemon，零售商正在削减产品种类以促进业务"
+     "zh": "从 BJ's 到 Lululemon，零售商正在削减产品种类以促进业务"
     },
     {
      "title": "岂能让消费者替“速成车”补上测试课",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 06:06:22",
+ "generated_at": "2026/10/12 06:09:59",
  "recent_days": 7,
  "industries": [
   {
@@ -591,7 +591,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
      "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
      "source": "Robohub",
-     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与 Kushant Patel"
+     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
     },
     {
      "title": "Cevotec brings robotic composite lamination to South Korea with KCompositeLab partnership",
@@ -719,7 +719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 12:16:33 +0000",
      "summary": "Mitusbishi’s North American dealers have been trudging along with an aging, badge-engineered model line for years – but overseas? It’s a different story, and the 459 hp all-wheel drive ASX VR-e electric hot hatch shown here is plug-in proof. more…",
      "source": "Electrek",
-     "zh": "459 马力、3.9 秒内从 0-60 英里加速和全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
+     "zh": "459 马力、3.9 秒内从 0 加速到 60 英里以及全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
     },
     {
      "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
@@ -743,7 +743,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 14:07:06 +0000",
      "summary": "The limited-time price of the Cruiser 700, including a trade-in subsidy, is 169,800 yuan ($25,220), and firm orders exceeded 10,000 units within the first 12 minutes. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "吉利银河推出漫步者700 与比亚迪、长城汽车争夺越野SUV市场"
+     "zh": "吉利银河推出漫步者700 挑战比亚迪、长城 越野SUV市场"
     },
     {
      "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
@@ -871,7 +871,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 10:00:00 -0500",
      "summary": "Australia has long been known for its strong coal industry, being one of the world’s largest producers and exporters. While much of the world moves away from coal in favour of cleaner energy sources, Australia is doubling down on its coal production, with plans to extend the life of coal operations ",
      "source": "OilPrice",
-     "zh": "尽管巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
+     "zh": "尽管有巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
     },
     {
      "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
@@ -1391,7 +1391,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
      "summary": "Seattle-based Kapta Space announced a $24M Series A to build next-gen radar payloads designed to track moving targets. The post Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：Kapta Space 筹集了 2400 万美元的 A 轮融资，用于构建移动目标雷达有效载荷"
+     "zh": "独家：Kapta Space A 轮融资 2400 万美元，用于构建移动目标雷达有效载荷"
     },
     {
      "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
@@ -1599,7 +1599,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击"
+     "zh": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击"
     },
     {
      "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -1999,7 +1999,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 18:54:38 +0000",
      "summary": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3.",
      "source": "Engadget",
-     "zh": "Anbernic 的下一代双屏手持设备具有适合 3DS 游戏的完美宽高比"
+     "zh": "Anbernic 的下一代双屏掌上电脑具有适合 3DS 游戏的完美宽高比"
     },
     {
      "title": "The iPhone clock app has an oddity not many people know about",
@@ -2023,7 +2023,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 18:00:00 +0000",
      "summary": "Digital game licenses aren't perfect, which is why you might see a padlock icon blocking you from PS5 games.",
      "source": "Engadget",
-     "zh": "PlayStation 5 游戏库中挂锁符号背后的含义"
+     "zh": "PlayStation 5 游戏库中挂锁符号的含义"
     },
     {
      "title": "The original Apple TV 4K from 2017 is now officially \"vintage\"",
@@ -2119,7 +2119,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 13:31:02 +0200",
      "summary": "While Amazon’s Prime Big Deal Days have wrapped up, discounts are still available on several smartphones. In fact, some devices that received few or no notable discounts during the sale are now available at reduced prices. Samsung’s Galaxy S26 Ultra, Apple’s iPhone 17 Pro lineup, and the entire Goog",
      "source": "GSMArena",
-     "zh": "特惠：三星、苹果、谷歌旗舰手机大幅折扣"
+     "zh": "特惠：三星、苹果、谷歌旗舰手机大优惠"
     },
     {
      "title": "I’ve tried all the major to-do list apps but keep coming back to this one",
@@ -2295,7 +2295,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 17:15:36 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "《GTA 6》泄密者嘲笑 Take-Two 超过 3000 万美元，Cyber​​leek memecoin 飙升"
+     "zh": "GTA 6 泄密者嘲笑 Take-Two 超过 3000 万美元，Cyber​​leek memecoin 飙升"
     },
     {
      "title": "10月12日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 02:11:19",
+ "generated_at": "2026/10/12 02:29:46",
  "recent_days": 7,
  "industries": [
   {
@@ -24,6 +24,14 @@ window.INDUSTRY_DATA = {
      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
      "source": "TechCrunch AI",
      "zh": "这些高管认为语音 AI 尚未达到 ChatGPT 时刻"
+    },
+    {
+     "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
+     "link": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/",
+     "pubDate": "Sun, 11 Oct 2026 06:20:21 +0000",
+     "summary": "OrcaRouter released OrcaCyber Zero 1.5, a gated cybersecurity model with a 1M-token context window. It reports 100% on Cybench and 95.8% on an evaluable CVE-Bench subset, priced at $3.00 / $7.50 per 1M tokens. The post OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context appear",
+     "source": "MarkTechPost",
+     "zh": "OrcaRouter 发布具有 1M 上下文的 OrcaCyber​​ Zero 1.5 网络安全模型"
     },
     {
      "title": "王的猜想，刚刚扩展到四维",
@@ -106,12 +114,28 @@ window.INDUSTRY_DATA = {
      "zh": "DeepSeek Bot来了！民间版，DSH装个插件就能用"
     },
     {
+     "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+     "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
+     "pubDate": "Sat, 10 Oct 2026 22:02:18 +0000",
+     "summary": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best prior system. The post Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors appeared f",
+     "source": "MarkTechPost",
+     "zh": "Sakana AI 的 LLM 同行评审系统发现了 73% 的核心声明错误"
+    },
+    {
      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
      "pubDate": "Sat, 10 Oct 2026 21:47:51 +0000",
      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
      "source": "TechCrunch AI",
      "zh": "微软的 Satya Nadella 表示人工智能模型需要“紧急刹车”"
+    },
+    {
+     "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
+     "link": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
+     "pubDate": "Sat, 10 Oct 2026 21:30:36 +0000",
+     "summary": "In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents. The post Wh",
+     "source": "MarkTechPost",
+     "zh": "当安全测试成为威胁：机器找到了自己的出路"
     },
     {
      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
@@ -202,52 +226,28 @@ window.INDUSTRY_DATA = {
      "zh": "00后硕士揭开AI推理“黑科技”：两个Token，基模追平强化学习版本"
     },
     {
+     "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
+     "link": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
+     "pubDate": "Sat, 10 Oct 2026 06:03:09 +0000",
+     "summary": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba’s ",
+     "source": "MarkTechPost",
+     "zh": "Microsoft AI 发布 Microsoft-Decision-1：Qwen3.5-9B 决策评分模型"
+    },
+    {
+     "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
+     "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
+     "pubDate": "Sat, 10 Oct 2026 04:51:34 +0000",
+     "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkT",
+     "source": "MarkTechPost",
+     "zh": "Nace AI 开源 Drex 1.5：对选项而不是文本进行评分的 9B 决策模型"
+    },
+    {
      "title": "王虹攻下的三维挂谷猜想，OpenAI放出175页四维证明稿！",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733338&idx=1&sn=58f4348bb905cc6ecbbb4a0b1cfca986",
      "pubDate": "Sat, 10 Oct 2026 08:55:00 +0800",
      "summary": "",
      "source": "新智元",
      "zh": "王虹攻下的三维挂谷猜想，OpenAI放出175页四维证明稿！"
-    },
-    {
-     "title": "美国CS教授发文：数学末日来了！人类千年数学殿堂被AI毁了",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733338&idx=2&sn=9723721f20ef2bce4d59b700b55ac083",
-     "pubDate": "Sat, 10 Oct 2026 08:55:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "美国CS教授发文：数学末日来了！人类千年数学殿堂被AI毁了"
-    },
-    {
-     "title": "Agent组队干活，最强模型只完成50%任务！基准评测协作能力",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733338&idx=3&sn=f08043e7f9a717d355592804bffb55f5",
-     "pubDate": "Sat, 10 Oct 2026 08:55:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "Agent组队干活，最强模型只完成50%任务！基准评测协作能力"
-    },
-    {
-     "title": "Impactful scheduling for GPU clusters",
-     "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-     "pubDate": "Fri, 09 Oct 2026 15:20:29 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "GPU 集群的有效调度"
-    },
-    {
-     "title": "Build Your First MCP Server in Python (Stateless Spec Edition)",
-     "link": "https://www.kdnuggets.com/build-your-first-mcp-server-in-python-stateless-spec-edition",
-     "pubDate": "Fri, 09 Oct 2026 14:00:00 +0000",
-     "summary": "MCP just got simpler. Learn how to build a stateless MCP server in Python and expose tools, resources, and prompts over HTTP.",
-     "source": "KDnuggets",
-     "zh": "使用 Python 构建您的第一个 MCP 服务器（无状态规范版）"
-    },
-    {
-     "title": "10 Free AI Tools That Replace Expensive Software for Data Scientists",
-     "link": "https://www.kdnuggets.com/10-free-ai-tools-that-replace-expensive-software-for-data-scientists",
-     "pubDate": "Fri, 09 Oct 2026 12:00:00 +0000",
-     "summary": "Build a production-grade data science toolkit without spending a dollar, using open-source AI tools that match, and sometimes exceed, their paid alternatives.",
-     "source": "KDnuggets",
-     "zh": "为数据科学家替代昂贵软件的 10 个免费人工智能工具"
     }
    ]
   },
@@ -442,12 +442,36 @@ window.INDUSTRY_DATA = {
      "zh": "世界首款尺寸更小的单芯片多圈位置传感器"
     },
     {
+     "title": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/cmlmicro-091026.shtml",
+     "pubDate": "Fri, 9 Oct 2026 08:59:05 +0100",
+     "summary": "CML Microsystems Plc of Maldon, UK — a designer and fabless manufacturer of mixed-signal, RF and microwave semiconductors for communications applications — has launched the CMX90A002, a compact power amplifier for next-generation ISM-band radio designs...",
+     "source": "Semiconductor Today",
+     "zh": "CML Micro 推出紧凑、灵活的功率放大器，用于下一代 ISM 频段无线电设计"
+    },
+    {
      "title": "Chip Industry Week In Review",
      "link": "https://semiengineering.com/chip-industry-week-in-review-159/",
      "pubDate": "Fri, 09 Oct 2026 07:01:17 +0000",
      "summary": "$2B foundry pact; hyper-NA EUV; TSMC, Samsung financials; Canon readies nanoimprint; AI chips under scrutiny; $10T data center buildout; $1.5B SiC boost; chip smuggling; 800V power gains traction; quantum HW scales up; wireless EV road charging; sub-nm gate dielectrics; mobile fab. The post Chip Ind",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "Infineon launches 27kW three-phase PSU for AI server power architectures",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/infineon-081026.shtml",
+     "pubDate": "Thu, 8 Oct 2026 15:28:51 +0100",
+     "summary": "As artificial intelligence workloads are redefining the power requirements of modern data centers, increasing GPU performance and rising rack densities are driving a shift toward 800VDC or ±400VDC power supply architectures. To address these requirements, Infineon Technologies AG of Munich, Germany ",
+     "source": "Semiconductor Today",
+     "zh": "英飞凌推出用于人工智能服务器电源架构的27kW三相PSU"
+    },
+    {
+     "title": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/wolfspeed-081026.shtml",
+     "pubDate": "Thu, 8 Oct 2026 10:27:41 +0100",
+     "summary": "Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has received a conditional loan commitment letter from the US Department of War (DoW), through its Office of Strategic Capital (OSC), for up to $1.5bn of long-term (30-year) financing to ",
+     "source": "Semiconductor Today",
+     "zh": "Wolfspeed 获得美国陆军部 15 亿美元有条件贷款承诺"
     },
     {
      "title": "Finding Critical Defects Before They Become Costly Failures: Process Control For Hybrid Bonding And Advanced Packaging",
@@ -472,30 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "缩小可见性差距"
-    },
-    {
-     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
-     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
-     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
-     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "从芯片到系统：重新定义竞争优势，第 3 部分"
-    },
-    {
-     "title": "Shift Left Complicates Fab Data Management",
-     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
-     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "左移使晶圆厂数据管理变得复杂"
-    },
-    {
-     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
-     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "美国刚刚在量子芯片制造上投入 10 亿美元"
     }
    ]
   },
@@ -719,7 +719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 01:17:40 +0000",
      "summary": "Aito will continue using CATL batteries across its lineup, with total annual capacity set to exceed 20 GWh after a joint project is completed. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "CATL与Seres签署长期战略协议扩大Aito电池产能"
+     "zh": "CATL与Seres签署长期战略协议，扩大Aito电池产能"
     },
     {
      "title": "Geely Galaxy launches Cruiser 700 to take on BYD, GWM in off-road SUV market",
@@ -879,7 +879,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 18:00:00 -0500",
      "summary": "The cost of shipping crude oil soared to record highs last month as the Iran war reshuffled trade routes and patterns and tied up more tankers in inefficient and lengthy voyages. Supertanker rates soared in September to above $1 million per day on the Persian Gulf to China route—a record high. The S",
      "source": "OilPrice",
-     "zh": "石油危机演变成航运危机，油轮运价飙升至创纪录水平"
+     "zh": "随着石油危机演变成航运危机，油轮运价飙升至创纪录水平"
     },
     {
      "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
@@ -962,12 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "清洁能源超级政治行动委员会确定大选目标名单"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM 批准 Engie、LS Power 的 2.1 GW 快速互连"
+     "zh": "Engie、LS Power 获得 PJM 快速互联批准 2.1 吉瓦"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "第三季度美国电力、天然气公用事业费率请求飙升至 $4.5B：PowerLines"
     },
@@ -1730,6 +1730,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "A look at the economics of Anthropic&apos;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
+     "link": "https://www.techmeme.com/261011/p9#a261011p9",
+     "pubDate": "Sun, 11 Oct 2026 14:15:02 -0400",
+     "summary": "Ann Davis Vaughan / The Information : A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN &nbsp; &mdash;&nbsp; Why is Anthropic driving its partners to speed up the $530 billion of data cente",
+     "source": "Techmeme",
+     "zh": "看一下 Anthropic 数据中心租赁的经济性，分析师估计 245 MW 站点的收益约为 1.3B/月；消息人士称，它与 IREN 签署了一项云协议（Ann Davis Vaughan/The Information）"
+    },
+    {
+     "title": "We're unlocking the biggest mysteries of the clitoris",
+     "link": "https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2",
+     "pubDate": "Sun, 11 Oct 2026 17:56:13 +0000",
+     "summary": "Article URL: https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2 Comments URL: https://news.ycombinator.com/item?id=50045895 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "我们正在解开阴蒂最大的谜团"
+    },
+    {
      "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
      "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
      "pubDate": "Sun, 11 Oct 2026 17:53:37 +0000",
@@ -1741,7 +1757,7 @@ window.INDUSTRY_DATA = {
      "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit",
      "link": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
      "pubDate": "Sun, 11 Oct 2026 17:40:42 +0000",
-     "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns Comments URL: https://news.ycombinator.com/item?id=50045735 Points: 8 # Comments: 2",
+     "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns Comments URL: https://news.ycombinator.com/item?id=50045735 Points: 16 # Comments: 5",
      "source": "Hacker News",
      "zh": "YouTuber 制作“类似羊群”的摄像头来追踪警车，吸引警察上门"
     },
@@ -1773,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "apsw: Another Python SQLite Wrapper",
      "link": "https://github.com/rogerbinns/apsw",
      "pubDate": "Sun, 11 Oct 2026 16:58:22 +0000",
-     "summary": "Article URL: https://github.com/rogerbinns/apsw Comments URL: https://news.ycombinator.com/item?id=50045273 Points: 7 # Comments: 1",
+     "summary": "Article URL: https://github.com/rogerbinns/apsw Comments URL: https://news.ycombinator.com/item?id=50045273 Points: 11 # Comments: 2",
      "source": "Hacker News",
      "zh": "apsw：另一个 Python SQLite 包装器"
     },
@@ -1813,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "How to Build Wealth as a Career Person",
      "link": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
      "pubDate": "Sun, 11 Oct 2026 16:03:58 +0000",
-     "summary": "Article URL: https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/ Comments URL: https://news.ycombinator.com/item?id=50044715 Points: 16 # Comments: 7",
+     "summary": "Article URL: https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/ Comments URL: https://news.ycombinator.com/item?id=50044715 Points: 20 # Comments: 12",
      "source": "Hacker News",
      "zh": "作为职业人士如何积累财富"
     },
@@ -1837,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "How I reverse engineered a commercial spatial audio effect",
      "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
      "pubDate": "Sun, 11 Oct 2026 15:21:58 +0000",
-     "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/ Comments URL: https://news.ycombinator.com/item?id=50044272 Points: 30 # Comments: 10",
+     "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/ Comments URL: https://news.ycombinator.com/item?id=50044272 Points: 33 # Comments: 12",
      "source": "Hacker News",
      "zh": "我如何逆向设计商业空间音频效果"
     },
@@ -1909,17 +1925,9 @@ window.INDUSTRY_DATA = {
      "title": "I'm sorry, but you still have to think",
      "link": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
      "pubDate": "Sun, 11 Oct 2026 14:29:07 +0000",
-     "summary": "Article URL: https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/ Comments URL: https://news.ycombinator.com/item?id=50043689 Points: 85 # Comments: 26",
+     "summary": "Article URL: https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/ Comments URL: https://news.ycombinator.com/item?id=50043689 Points: 112 # Comments: 37",
      "source": "Hacker News",
      "zh": "对不起，但你还是要想想"
-    },
-    {
-     "title": "Documents add to evidence in climate deception case against ExxonMobil",
-     "link": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
-     "pubDate": "Sun, 11 Oct 2026 14:28:39 +0000",
-     "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 330 # Comments: 169",
-     "source": "Hacker News",
-     "zh": "文件增加了针对埃克森美孚的气候欺骗案的证据"
     },
     {
      "title": "英国水果蔬菜营养价值下降最高五成",
@@ -1960,14 +1968,6 @@ window.INDUSTRY_DATA = {
      "summary": "5亿美元“输血”到账，Manus估值实现三级跳。",
      "source": "钛媒体",
      "zh": "Manus恢复“单身”身价再涨，但战场已“大变天”"
-    },
-    {
-     "title": "百万级豪车，刹车踏板不是谁都能踩到的",
-     "link": "https://www.tmtpost.com/8163920.html",
-     "pubDate": "Sun, 11 Oct 2026 21:07:35 +0800",
-     "summary": "向上突破，可以靠创新。站稳脚跟，要靠那些不需要消费者操心的事。",
-     "source": "钛媒体",
-     "zh": "百万级豪车，刹车踏板不是谁都能踩到的"
     }
    ]
   },
@@ -2226,36 +2226,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "厄尔尼诺扰动全球 我国农业生产将如何应对挑战",
-     "link": "http://finance.eastmoney.com/news/1350,202610123892135780.html",
-     "pubDate": "Mon, 12 Oct 2026 01:56:09 +0800",
-     "summary": "不断增强的厄尔尼诺现象正在扰动全球。此轮厄尔尼诺现象的影响周期将会有多长？我国农业生产将如何应对挑战？ 随着寒露节气的到来，全国秋收进入高峰，秋冬种陆续展开。农业农村部最新农情调度显示，目前，我国秋粮收获过半。其中，西南收获七成半，长江中下游过五成，黄淮海过六成，西北五成半，东北三成半；冬小麦陆续开始播种，冬油菜已播一成多。 我国秋粮收获过半秋冬种陆续展开 这几天，新疆百万亩玉米正在测产，当地重点推广玉米密植高产精准调控技术，为玉米稳产高产提供有力支撑。今年，伊犁万亩示范区玉米亩产增加到1609.4公斤。 总台央视记者张琪： 在这里，从正在作业的玉米籽粒收获机，到高产品种、栽培管理技术，过去分",
+     "title": "苏丹北部矿区遇袭 已致72人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202610123892138255.html",
+     "pubDate": "Mon, 12 Oct 2026 02:16:57 +0800",
+     "summary": "当地时间10月11日，苏丹一个民间组织发表声明称，苏丹北部靠近埃及边境的北瓦迪地区一处金矿矿区10日遭遇大规模空袭，造成72名矿工死亡。 声明称，相关方面仍在对伤亡情况进行进一步统计。声明指责埃及空军实施此次空袭。 截至目前，埃及和苏丹官方均未对此作出回应。 2023年4月15日，苏丹武装部队与快速支援部队在首都喀土穆爆发武装冲突，战火随后蔓延至苏丹其他地区。持续三年多的武装冲突已造成至少5.9万人死亡。 （文章来源：央视新闻）",
      "source": "东方财富股票",
-     "zh": "厄尔尼诺扰动全球 我国农业生产将如何应对挑战"
+     "zh": "苏丹北部矿区遇袭 已致72人死亡"
     },
     {
-     "title": "巴沙埃土四国谴责胡塞武装持续对沙特发动袭击",
-     "link": "http://finance.eastmoney.com/news/1351,202610123892135617.html",
-     "pubDate": "Mon, 12 Oct 2026 01:55:17 +0800",
-     "summary": "巴基斯坦外交部11日表示，巴基斯坦、沙特阿拉伯、埃及和土耳其以最强烈的措辞谴责胡塞武装持续对沙特阿拉伯发动袭击。此类袭击造成平民死亡和受伤，并对民用基础设施造成破坏，公然违反国际法。 四国重申，这些袭击公然侵犯沙特阿拉伯的主权和领土完整，直接威胁其安全、稳定以及平民安全，是危险的局势升级，无论以何种借口都无法为其辩解，也不可接受。 四国进一步重申，坚定声援和支持沙特阿拉伯，包括全力支持沙特为应对此类袭击、遏制威胁来源并防止袭击再次发生而采取的一切正当措施和行动，以捍卫沙特的安全、主权和领土完整，保护其公民和居民的安全。 四国认为，胡塞武装应对这些袭击造成的后果、以及由此引发的任何危及地区和国际",
+     "title": "期货+场外期权组合发力 纸浆企业实现库存主动管理",
+     "link": "http://finance.eastmoney.com/news/1349,202610123892136278.html",
+     "pubDate": "Mon, 12 Oct 2026 02:16:51 +0800",
+     "summary": "2025年纸浆市场供需相对宽松，期现货价格波动给企业经营带来挑战。市场行情存在不确定性，单纯依靠 期货 套期保值的模式已经难以充分应对，行业沿用已久的传统风险管理手段因此面临现实考验。纸浆产业链风险管理迫切需要跳出被动防御的固有思路，向精细化、多元化的主动管理模式转型。 安徽无攸科技有限公司（以下简称“无攸科技”）是纸浆供应链领域的创新型科技企业。面对传统风控工具的局限性，企业联合银河 期货 ，落地“ 期货 +场外期权”组合风险管理策略，解决持仓成本高、收益来源单一等痛点，成为纸浆产业风险管理模式迭代升级的典型样本。 传统风控管理方案 存在一定局限 记者从无攸科技了解到，2025年纸浆市场价格",
      "source": "东方财富股票",
-     "zh": "巴沙埃土四国谴责胡塞武装持续对沙特发动袭击"
+     "zh": "期货+场外期权组合发力 纸浆企业实现库存主动管理"
     },
     {
-     "title": "证监会召开资本市场和金融形势专家座谈会",
-     "link": "http://stock.eastmoney.com/news/11215,202610123892133510.html",
-     "pubDate": "Mon, 12 Oct 2026 01:53:08 +0800",
-     "summary": "证监会召开资本市场和金融形势专家座谈会 与会专家建议：进一步拓宽中长期资金来源、渠道和入市方式 与会专家建议：推动有条件的上市公司加大分红回购力度，完善投资者回报和权益保护机制；优化发行上市制度，支持不同类型、不同行业、多元化的优质企业发展壮大；强化交易监管，加强跨境风险监测应对；研究储备更多增量政策工具 10月10日，中国证监会党委书记、主席吴清在北京召开座谈会，与部分上市公司负责人、证券基金机构专家深入交流，就当前资本市场和金融形势充分听取意见建议。 座谈会上，大家一致认为，我国宏观经济稳中向好，产业结构转型持续深化，资本市场运行总体稳健，多层次市场功能有效发挥，虽然面临一些风险挑战，但高",
+     "title": "伊朗军方：在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标",
+     "link": "http://finance.eastmoney.com/news/1356,202610123892138321.html",
+     "pubDate": "Mon, 12 Oct 2026 02:10:37 +0800",
+     "summary": "伊朗伊斯兰革命卫队海军当地时间11日宣布，所有在霍尔木兹海峡关闭导航和识别系统的船只将被视为“敌对目标”，并将受到严厉而果断的处置。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "证监会召开资本市场和金融形势专家座谈会"
+     "zh": "伊朗军方：在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标"
     },
     {
-     "title": "防御配置需求升温 红利基金密集限购",
-     "link": "http://fund.eastmoney.com/news/11246,202610123892134851.html",
-     "pubDate": "Mon, 12 Oct 2026 01:37:29 +0800",
-     "summary": "防御配置需求升温 红利基金密集限购 近期，公募红利主题产品热度全面攀升。一方面，多只存量红利基金发布限购公告，也有新产品提前结束募集；另一方面，多款红利主题新品接连申报、启动发行，行业扩容节奏显著提速。部分机构认为，在当前较为震荡的市场环境中，盈利确定性强、现金流充沛的红利资产或成为资金相对稳健的选择，有望在成长与价值风格的再平衡中走强。 红利基金掀起“限购潮” 国庆节过后，红利基金掀起一轮“限购潮”。10月9日，银河基金发布公告，将旗下银河中证红利低波动100指数、银河上证国有企业红利ETF发起式联接基金的单日申购限额设定为100万元，自10月13日起恢复办理大额申购、定期定额投资及转换转入",
+     "title": "泽连斯基回应：“能源停火”对他来说也是个新闻",
+     "link": "http://finance.eastmoney.com/news/1351,202610123892138159.html",
+     "pubDate": "Mon, 12 Oct 2026 02:10:03 +0800",
+     "summary": "据新华社报道，乌克兰总统泽连斯基11日对美国阿克西奥斯新闻网站说，乌克兰和俄罗斯的“能源停火”对他来说也是个新闻。 泽连斯基说，如果俄罗斯人同意能源停火，乌克兰就会同意。如果美总统特朗普与俄总统普京谈成了，请告诉乌克兰停火何时开始。他说：“我们准备好了，我们会接受。” 特朗普11日在社交媒体发文称，即刻起，俄乌冲突进入“能源停火”状态，双方均已同意。 此外，泽连斯基11日就特朗普有关乌克兰换总统的言论回应说，乌克兰选择哪位领导人应由其社会和人民决定。 泽连斯基在接受美国广播公司采访时说：“特朗普总统说乌克兰需要一位新总统。恕我直言，特朗普总统，选择哪位领导人，应由我们的社会、我们的人民决定。”",
      "source": "东方财富股票",
-     "zh": "防御配置需求升温 红利基金密集限购"
+     "zh": "泽连斯基回应：“能源停火”对他来说也是个新闻"
+    },
+    {
+     "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
+     "link": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1",
+     "pubDate": "Sun, 11 Oct 2026 18:01:02 GMT",
+     "summary": "UK prime minister calls for European voters to be better informed about Kremlin-backed efforts to disrupt democratic process",
+     "source": "Financial Times",
+     "zh": "伯纳姆称俄罗斯“干预”了 2016 年英国脱欧公投"
+    },
+    {
+     "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
+     "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
+     "pubDate": "Sun, 11 Oct 2026 17:59:05 GMT",
+     "summary": "Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin",
+     "source": "Financial Times",
+     "zh": "美国因俄罗斯炼油厂遇袭威胁停止向乌克兰提供武器"
     },
     {
      "title": "‘Other Mommy’ tops weekend box office with $27M, domestic ticket sales cross $8B",
@@ -2266,28 +2282,12 @@ window.INDUSTRY_DATA = {
      "zh": "《另一个妈妈》周末票房达 2700 万美元，国内票房突破 8B 美元"
     },
     {
-     "title": "伊朗高官称美国回应不够充分",
-     "link": "http://finance.eastmoney.com/news/1351,202610123892135482.html",
-     "pubDate": "Mon, 12 Oct 2026 01:25:19 +0800",
-     "summary": "据伊朗媒体当地时间10月11日晚报道，伊朗最高国家安全委员会秘书雷扎伊表示，美国针对伊朗提出的重开霍尔木兹海峡的条件所作出的回应“不够充分”，需要就伊朗仍存疑虑的问题作出澄清。 雷扎伊说：“我们向美方提出了七项条件，并明确表示，在这些条件得到满足之前，霍尔木兹海峡不会开放，伊朗也不会进行任何谈判。”据他说，美方已接受了伊朗的部分条件，但对其他条件仍不明确。 伊朗外长阿拉格齐10月8日曾表示，伊朗向美方提出一项旨在化解分歧的方案，即“七日计划”——若美方采纳该方案并满足相关条件，霍尔木兹海峡可在七天内重新开放，恢复正常海运。阿拉格齐当时称伊朗在评估美方对该提议的回应，并将作出回复。 （文章来源：",
-     "source": "东方财富股票",
-     "zh": "伊朗高官称美国回应不够充分"
-    },
-    {
      "title": "Starknet coin surges as developer weighs Ethereum split over quantum security",
      "link": "https://seekingalpha.com/news/4651937-starknet-coin-surges-as-developer-weighs-ethereum-split-over-quantum-security?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 11 Oct 2026 13:22:27 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "随着开发商权衡以太坊在量子安全问题上的分歧，Starknet 代币飙升"
-    },
-    {
-     "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
-     "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 17:19:36 GMT",
-     "summary": "Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin",
-     "source": "Financial Times",
-     "zh": "美国因俄罗斯炼油厂遇袭威胁停止向乌克兰提供武器"
     },
     {
      "title": "Can Russia meet Trump’s diesel demands?",
@@ -2327,7 +2327,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 12:42:57 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "默克公司的实验性眼药在试验中达到了目标，但引发了安全担忧"
+     "zh": "默克公司的实验性眼药在试验中达到了目标，但引发了安全性担忧"
     },
     {
      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
@@ -2456,6 +2456,14 @@ window.INDUSTRY_DATA = {
      "summary": "Commissioner Adam Silver says the NBA could begin using a new \"smart ball\" in games as soon as next year, potentially transforming how officials make calls.",
      "source": "CNBC",
      "zh": "NBA总裁亚当·萧华表示联盟最早可能在明年引入“智能球”技术"
+    },
+    {
+     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+     "pubDate": "Sun, 11 Oct 2026 12:30:00 GMT",
+     "summary": "“I presume these are sophisticated investors taking a profit.”",
+     "source": "MarketWatch",
+     "zh": "“我感觉自己像个失败者”：我的股票投资组合剧烈波动。终于到了担心的时候了吗？"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 18:29:46",
+ "generated_at": "2026/10/11 18:49:53",
  "recent_days": 7,
  "industries": [
   {
@@ -583,7 +583,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
      "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
      "source": "Robohub",
-     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
+     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与 Kushant Patel"
     },
     {
      "title": "Cevotec brings robotic composite lamination to South Korea with KCompositeLab partnership",
@@ -671,7 +671,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 01:17:40 +0000",
      "summary": "Aito will continue using CATL batteries across its lineup, with total annual capacity set to exceed 20 GWh after a joint project is completed. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "CATL与Seres签署长期战略协议扩大Aito电池产能"
+     "zh": "CATL与Seres签署长期战略协议，扩大Aito电池产能"
     },
     {
      "title": "Geely Galaxy launches Cruiser 700 to take on BYD, GWM in off-road SUV market",
@@ -962,12 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "清洁能源超级政治行动委员会确定大选目标名单"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM 批准 Engie、LS Power 的 2.1 GW 快速互连"
+     "zh": "Engie、LS Power 获得 PJM 快速互联批准 2.1 吉瓦"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "第三季度美国电力、天然气公用事业费率请求飙升至 $4.5B：PowerLines"
     },
@@ -1375,7 +1375,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
      "summary": "Seattle-based Kapta Space announced a $24M Series A to build next-gen radar payloads designed to track moving targets. The post Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：Kapta Space 筹集了 2400 万美元的 A 轮融资，用于构建移动目标雷达有效载荷"
+     "zh": "独家：Kapta Space A 轮融资 2400 万美元，用于构建移动目标雷达有效载荷"
     },
     {
      "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
@@ -1591,7 +1591,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击"
+     "zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击"
     },
     {
      "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -1722,6 +1722,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "CUDA 生态优势推动 RTX Spark 笔记本热销，微软 128GB 内存版 Surface Laptop Ultra 开始在美国缺货",
+     "link": "https://www.ithome.com/1/011/677.htm",
+     "pubDate": "Sun, 11 Oct 2026 10:38:04 GMT",
+     "summary": "IT之家 10 月 11 日消息，微软美国官网显示，Surface Laptop Ultra 笔记本 128GB 统一内存、1TB SSD 配置已经缺货，该产品定价 5,899.99 美元 （IT之家注：现汇率约合 39,570 元人民币） ，其他较低配置机型仍可购买。 结合科技媒体 Wccftech 报道，这款笔记本迅速售罄的原因可能与早期供应有限有关，但由于微软没有公布详细数据，我们无法验证这种说法的真实性。另一方面， 这款笔记本能够支持 CUDA 生态 ，因此只要仔细考虑这类笔记本面向的客户群体，就不难理解其快速售罄的缘由。 对 AI 开发者和创作者来说，Surface Laptop U",
+     "source": "IT之家",
+     "zh": "CUDA 生态优势推动 RTX Spark 笔记本热销，微软 128GB 内存版 Surface Laptop Ultra 开始在美国缺货"
+    },
+    {
+     "title": "开发者公布创意应用《Desktop Cleaning》，用一块“虚拟地毯”盖住电脑桌面上杂乱文件",
+     "link": "https://www.ithome.com/1/011/676.htm",
+     "pubDate": "Sun, 11 Oct 2026 10:37:16 GMT",
+     "summary": "IT之家 10 月 11 日消息，近期一位开发者 Terkel Gjervig 公布一款名为《Desktop Cleaning》的创意应用，可以在电脑桌面上铺设一块“虚拟地毯”，可盖住杂乱文件，让桌面显得“干净整洁”。 据介绍，这张虚拟地毯支持调整尺寸和旋转角度，并拥有动态物理效果。用户拖动布料时，可以看到地毯随动作发生形变并产生褶皱。把文件藏好后，用户甚至还可以稍微拉扯一下地毯边角，让其看起来更加平整。 更有趣的是，如果用户需要寻找被地毯盖住的文件，也可以像现实中掀开地毯一样，只打开其中一部分，取用文件后再将地毯重新盖好。 目前，《Desktop Cleaning》仍处于原型阶段，不过 Te",
+     "source": "IT之家",
+     "zh": "开发者公布创意应用《Desktop Cleaning》，用一块“虚拟地毯”盖住电脑桌面上杂乱文件"
+    },
+    {
+     "title": "13 Best Gifts for Every Traveler Should Have (2026)",
+     "link": "https://www.wired.com/story/best-gifts-for-travelers/",
+     "pubDate": "Sun, 11 Oct 2026 10:33:00 +0000",
+     "summary": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers.",
+     "source": "WIRED",
+     "zh": "每位旅行者都应该拥有的 13 件最佳礼物 (2026)"
+    },
+    {
+     "title": "开发者利用双口 USB-C 线打造“比拼手速”对战游戏，输家手机消耗自身电量给赢家充电",
+     "link": "https://www.ithome.com/1/011/675.htm",
+     "pubDate": "Sun, 11 Oct 2026 10:30:02 GMT",
+     "summary": "IT之家 10 月 11 日消息，据 4Gamers 报道，近期一名开发者河本健（Ken Kawamoto）脑洞大开，打造了一款基于双口 USB-C 充电线的对战游戏《Power Struggle》，让玩家能够通过“比拼手速”方式决定谁的手机有电，谁的手机没电退场。 具体来看，相应游戏玩法非常简单，双方在手机上安装应用后，使用双口 USB-C 充电线连接两台手机，随后疯狂点击屏幕。在规定时间内点击次数更多的一方获胜，并成为接收电力的“充电方”；落败的一方则成为输出电力的“供电方”，最终被“活活榨干”。 不过，这款游戏本身只是恶搞类作品，实际充电效率极低。开发者实测发现，游戏运行时的电流输出约为",
+     "source": "IT之家",
+     "zh": "开发者利用双口 USB-C 线打造“比拼手速”对战游戏，输家手机消耗自身电量给赢家充电"
+    },
+    {
+     "title": "Inside the Muslim Manosphere Policing Women Online",
+     "link": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
+     "pubDate": "Sun, 11 Oct 2026 10:30:00 +0000",
+     "summary": "From Red Pill coaches to “Dawah Bros,” influencers are dressing up hypermasculinity and misogyny in religious language—and finding audiences across social platforms.",
+     "source": "WIRED",
+     "zh": "穆斯林马诺圈内部 在线监管女性"
+    },
+    {
+     "title": "9岁自闭症男孩被踹出电梯，作为谱系孩子爸爸，我想起儿子遭遇的所有恶意",
+     "link": "https://www.huxiu.com/article/4896625.html?f=rss",
+     "pubDate": "Sun, 11 Oct 2026 18:26:52 +0800",
+     "summary": "本文来自微信公众号： 大米和小米 ，编辑：苏渡，作者：特殊孩子保护 每一个家长都会有这么一天：孩子在外边被人打了，我怎么办？ 自闭症孩子的家长则更加卑微：孩子这次被人欺负了，以后还敢出去吗？ 要不是网友爆料，编辑又约稿，我没法看完海口9岁自闭症男孩被飞踹出电梯的视频。我心疼那个孩子，也会想起皮皮这一路走过来，遭遇过的恶意和欺凌。 据报道，那个踹孩子的男子被行政拘留10天、罚款1000元。孩子家属还反映，上门理论时，对方竟拿出刀具威胁他们。 我心里有个问题始终过不去：一个成年人，为什么能在小区电梯里对9岁的孩子动手？ 但是，我们不能把世界，哪怕只有一个电梯间大的空间，全部留给这样的恶人。 文|皮",
+     "source": "虎嗅",
+     "zh": "9岁自闭症男孩被踹出电梯，作为谱系孩子爸爸，我想起儿子遭遇的所有恶意"
+    },
+    {
      "title": "Valve 悄悄修改日本区 Steam 用户协议：钱包余额 6 个月未使用将失效",
      "link": "https://www.ithome.com/1/011/673.htm",
      "pubDate": "Sun, 11 Oct 2026 10:19:11 GMT",
@@ -1754,6 +1802,14 @@ window.INDUSTRY_DATA = {
      "zh": "中国正走到日本20年前：家庭变小之后，消费会流向哪里？"
     },
     {
+     "title": "IRCv3",
+     "link": "https://ircv3.net/",
+     "pubDate": "Sun, 11 Oct 2026 10:11:27 +0000",
+     "summary": "Article URL: https://ircv3.net/ Comments URL: https://news.ycombinator.com/item?id=50041540 Points: 18 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "IRCv3"
+    },
+    {
      "title": "观察｜残酷真相：AI轰轰烈烈扩张，却在悄悄地向我们收一笔AI隐形税",
      "link": "https://www.huxiu.com/article/4896622.html?f=rss",
      "pubDate": "Sun, 11 Oct 2026 18:06:18 +0800",
@@ -1778,14 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "这些中期竞选将决定数据中心的政治命运"
     },
     {
-     "title": "神舟二十三乘组出差日常更新：空间科学实（试）验与在轨训练稳步推进",
-     "link": "https://www.ithome.com/1/011/650.htm",
-     "pubDate": "Sun, 11 Oct 2026 09:59:36 GMT",
-     "summary": "IT之家 10 月 11 日消息，据中国载人航天工程办公室，上周，神二十三乘组在轨喜迎国庆，空间站内各项工作稳步推进。 神舟二十三乘组航天员朱杨柱、张志远、黎家盈，目前继续在中国空间站值守，空间站内各项工作稳步推进。 空间科学实（试）验与在轨训练稳步推进。国家太空实验室内，微重力物理科学等领域实验稳步推进。上周，乘组按计划完成了 高温材料实验柜内实验样品更换与处置工作 。交会对接训练是航天员在轨期间的专业技术训练之一，乘组利用元认知训练系统完成了不同初始条件下的图像辨识训练。 空间站组合体平台照料常态化有序开展。在空间站组合体平台照料方面，乘组常态化开展 再生生保系统设备检查维护 ，完成站内药",
-     "source": "IT之家",
-     "zh": "神舟二十三乘组出差日常更新：空间科学实（试）验与在轨训练稳步推进"
-    },
-    {
      "title": "骤然下滑，运营商关键增长引擎为何急刹车？",
      "link": "https://www.huxiu.com/article/4896621.html?f=rss",
      "pubDate": "Sun, 11 Oct 2026 17:58:33 +0800",
@@ -1794,28 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "骤然下滑，运营商关键增长引擎为何急刹车？"
     },
     {
-     "title": "Meta 为 Quest 头显推送 Horizon OS 2.9 公测版更新：全新多任务界面、经典虚拟环境回归、系统级二维码扫描器...",
-     "link": "https://www.ithome.com/1/011/649.htm",
-     "pubDate": "Sun, 11 Oct 2026 09:57:38 GMT",
-     "summary": "IT之家 10 月 11 日消息，Meta 现已开始陆续向 Quest 头显用户推送 Horizon OS 2.9（v209）公共测试频道（PTC）更新。新版系统对 2D 多任务界面进行大幅调整，重新引入部分经典虚拟环境，并为 Quest 3 和 Quest 3S 加入系统级二维码扫描器。 具体来看，Horizon OS 2.9 最重要的变化是引入了代号为“Display Evo”的全新多任务界面。Meta 将其描述为“一种管理应用窗口的新方式”，用户打开的应用界面窗口会分布在周围空间中，用户可以将窗口边缘相互靠近来进行分组，也可以将多个窗口排列成类似扑克牌的“堆叠”布局，方便逐个切换。 除了",
-     "source": "IT之家",
-     "zh": "Meta 为 Quest 头显推送 Horizon OS 2.9 公测版更新：全新多任务界面、经典虚拟环境回归、系统级二维码扫描器..."
-    },
-    {
      "title": "天阳科技买2万张英伟达GPU，为何不发公告？",
      "link": "https://www.huxiu.com/article/4896619.html?f=rss",
      "pubDate": "Sun, 11 Oct 2026 17:48:29 +0800",
      "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清 一条注明“非上市公司公告”的消息，出现在天阳科技（300872）的官方微信公众号上。 2026年10月9日盘前，公司宣布与“X公司”签署《GPU采购协议》，采购2万张英伟达RTX PRO 5500 Blackwell。 当天收盘，天阳科技报16.16元，涨12.38%。 没有金额，没有交付时间，也没有“X公司”的全称。 截至10月10日，巨潮资讯网上公司最新的一批公告停留在9月29日，这笔采购没有出现在任何一份正式披露文件里。 快讯说了啥 快讯本身很短，实质信息就两个，20000张英伟达RTX PRO 5500 Blackwell，以及对手方“X公",
      "source": "虎嗅",
      "zh": "天阳科技买2万张英伟达GPU，为何不发公告？"
-    },
-    {
-     "title": "丹麦 CPR 数据库泄露波及 880 万人信息，涉事公司管理员密码竟是“123456”",
-     "link": "https://www.ithome.com/1/011/648.htm",
-     "pubDate": "Sun, 11 Oct 2026 09:47:10 GMT",
-     "summary": "IT之家 10 月 11 日消息，据《哥本哈根邮报》昨天报道，丹麦中央个人登记系统（CPR）近期出现一起大规模个人数据泄露事件。黑客入侵系统时， 与该事件有关的 Pays ApS 公司至少三个账户使用了“123456”密码 ， 其中一个还是管理员账户 。 据报道，CPR 是丹麦的中央民事登记数据库，存储目前居住在丹麦或曾在丹麦居住过人员的个人信息，此次事件导致大约 880 万个 CPR 编号泄露。 奥胡斯大学电气与计算机工程系教授延斯 · 米鲁普 · 彼得森（IT之家注：Jens Myrup Pedersen）接受采访时表示：“这简直是没有任何安全保障，等同于为黑客敞开大门。如果你拿着密码词典",
-     "source": "IT之家",
-     "zh": "丹麦 CPR 数据库泄露波及 880 万人信息，涉事公司管理员密码竟是“123456”"
     },
     {
      "title": "How the 2026 Super El Niño and Climate Change Are Related",
@@ -1837,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "I wish you the best in the Offline",
      "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
      "pubDate": "Sun, 11 Oct 2026 07:53:42 +0000",
-     "summary": "Article URL: https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/ Comments URL: https://news.ycombinator.com/item?id=50040625 Points: 36 # Comments: 19",
+     "summary": "Article URL: https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/ Comments URL: https://news.ycombinator.com/item?id=50040625 Points: 43 # Comments: 21",
      "source": "Hacker News",
      "zh": "祝您在线下一切顺利"
     },
@@ -1845,23 +1877,15 @@ window.INDUSTRY_DATA = {
      "title": "3rd Yandex Cloud Data Center Was Hit",
      "link": "https://status.yandex.cloud/en/incidents/2136",
      "pubDate": "Sun, 11 Oct 2026 07:34:45 +0000",
-     "summary": "Article URL: https://status.yandex.cloud/en/incidents/2136 Comments URL: https://news.ycombinator.com/item?id=50040547 Points: 199 # Comments: 270",
+     "summary": "Article URL: https://status.yandex.cloud/en/incidents/2136 Comments URL: https://news.ycombinator.com/item?id=50040547 Points: 209 # Comments: 278",
      "source": "Hacker News",
      "zh": "第三个 Yandex 云数据中心遭到袭击"
-    },
-    {
-     "title": "发展新质生产力，摒弃“500强”情结",
-     "link": "https://www.huxiu.com/article/4896610.html?f=rss",
-     "pubDate": "Sun, 11 Oct 2026 15:10:16 +0800",
-     "summary": "本文来自微信公众号： 正和岛 ，作者：何志毅 作者：何志毅南开大学全球产业与科技赋能研究院院长、清华大学全球产业研究院首席专家、北京大学光华管理学院教授 10月9日晚，中共中央、国务院发布《关于发展新质生产力的意见》，引发大众关注。我深切感受到全社会、全部门、全地区、全产业与企业都应当深切领会关于发展新质生产力的迫切期待。 《意见》的主要精神和措施是推动科技创新、推动科技创新与产业创新深度融合、推进发展方式创新、体制机制创新、人才工作机制创新。顾名思义，新质生产力是创新和高质量的生产力，而创新之目的是以“全要素生产力大幅度提升为主要标志”，“更好支撑高质量发展。” 本文重点分析了中国的“世界5",
-     "source": "虎嗅",
-     "zh": "发展新质生产力，摒弃“500强”情结"
     },
     {
      "title": "LineageOS 24.0",
      "link": "https://lineageos.org/Changelog-32/",
      "pubDate": "Sun, 11 Oct 2026 06:18:59 +0000",
-     "summary": "Article URL: https://lineageos.org/Changelog-32/ Comments URL: https://news.ycombinator.com/item?id=50040276 Points: 92 # Comments: 21",
+     "summary": "Article URL: https://lineageos.org/Changelog-32/ Comments URL: https://news.ycombinator.com/item?id=50040276 Points: 110 # Comments: 26",
      "source": "Hacker News",
      "zh": "LineageOS 24.0"
     },
@@ -1887,7 +1911,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 01:20:01 -0400",
      "summary": "Maria Deutscher / SiliconANGLE : Multiply Labs, which develops robotic systems to automate pharmaceutical manufacturing processes, raised a $75M Series B led by Patrick Soon-Shiong's NantWorks &nbsp; &mdash;&nbsp; Multiply Labs Inc., a startup that develops automation equipment for drugmakers, has r",
      "source": "Techmeme",
-     "zh": "Multiply Labs 开发机器人系统以实现药品制造流程自动化，该公司筹集了由 Patrick Soon-Shiong 的 NantWorks 领投的 7500 万美元 B 轮融资（Maria Deutscher/SiliconANGLE）"
+     "zh": "Multiply Labs 开发机器人系统以实现药品制造流程自动化，该公司筹集了 7500 万美元的 B 轮融资，由 Patrick Soon-Shiong 的 NantWorks（Maria Deutscher/SiliconANGLE）领投"
     },
     {
      "title": "AI创造的新工作，可能根本轮不到你",
@@ -1936,30 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "agent底座之争，OpenAI又被针对了。",
      "source": "钛媒体",
      "zh": "请来Claude老祖，谷歌能借Agent翻身吗？"
-    },
-    {
-     "title": "抱歉，AI眼镜目前仍是个“鸡肋”",
-     "link": "https://www.tmtpost.com/8164235.html",
-     "pubDate": "Sun, 11 Oct 2026 12:44:00 +0800",
-     "summary": "AI眼镜出货量高速增长，却仍未找到不可替代的核心价值。从硬件、交互到隐私，真正决定其未来的，不是能做多少事，而是什么事情必须由眼镜来做。",
-     "source": "钛媒体",
-     "zh": "抱歉，AI眼镜目前仍是个“鸡肋”"
-    },
-    {
-     "title": "Manus被AI大厂重新定价",
-     "link": "https://www.tmtpost.com/8164195.html",
-     "pubDate": "Sun, 11 Oct 2026 12:38:00 +0800",
-     "summary": "Meta退单后，Manus的身价还涨了？",
-     "source": "钛媒体",
-     "zh": "Manus被AI大厂重新定价"
-    },
-    {
-     "title": "After 20+ major Japanese companies reported cyber attacks in recent weeks, Japan&apos;s NCSH chief says the country is in \"a state of emergency in cyber space\" (Financial Times)",
-     "link": "https://www.techmeme.com/261010/p19#a261010p19",
-     "pubDate": "Sat, 10 Oct 2026 23:40:01 -0400",
-     "summary": "Financial Times : After 20+ major Japanese companies reported cyber attacks in recent weeks, Japan's NCSH chief says the country is in &ldquo;a state of emergency in cyber space&rdquo; &nbsp; &mdash;&nbsp; Dozens of targets including car rental operators, barbecue chains and rail group JR East discl",
-     "source": "Techmeme",
-     "zh": "最近几周，在 20 多家日本大公司报告遭受网络攻击后，日本 NCSH 负责人表示该国处于“网络空间紧急状态”（金融时报）"
     }
    ]
   },
@@ -1969,6 +1969,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "I’m using the vivo X Fold 6, and now the Galaxy Z Fold 8 Ultra feels ancient",
+     "link": "https://www.androidauthority.com/vivo-x-fold-6-vs-galaxy-z-fold-8-ultra-hands-on-3720287/",
+     "pubDate": "Sun, 11 Oct 2026 10:30:44 +0000",
+     "summary": "The X Fold 6 scores a big win for book-style foldables.",
+     "source": "Android Authority",
+     "zh": "我用的是 vivo X Fold 6，现在 Galaxy Z Fold 8 Ultra 感觉很古老"
+    },
     {
      "title": "My Google Photos library was a mess — here are the 2 tricks that finally fixed it",
      "link": "https://www.androidauthority.com/google-photos-library-mess-fixed-organized-how-3719874/",
@@ -2159,7 +2167,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 12:03:06 +0000",
      "summary": "Hot off fall Prime Day 2026, we are still up to $150 off the new M6 Mac mini and a $200 price drop on the new Mac Studio joined by the best prices in months on M5 MacBook Air at $200 off. While AirPods Pro 3 have jumped up a touch, they are still carrying a notable deal price alongside AirPods Max 2",
      "source": "9to5Mac",
-     "zh": "Apple 周末特惠：AirPods，新款 Mac 最高立减 200 美元，Apple Watch 最低 41 美元"
+     "zh": "Apple 周末特惠：AirPods、新款 Mac 最高立减 200 美元、Apple Watch、更多 41 美元起"
     },
     {
      "title": "If you only care about the basics, this is the only Android phone I’d recommend",
@@ -2176,14 +2184,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bluetooth is squeezing your music. Here’s why Hi-Res audio needs smarter codecs.",
      "source": "Android Authority",
      "zh": "您的高端蓝牙耳机听起来不如您预期的真正原因"
-    },
-    {
-     "title": "Siri AI beats Gemini at the thing that matters most",
-     "link": "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
-     "pubDate": "Sat, 10 Oct 2026 10:00:09 +0000",
-     "summary": "Making my life easier.",
-     "source": "Android Authority",
-     "zh": "Siri AI 在最重要的事情上击败了 Gemini"
     },
     {
      "title": "Canon Camera Connect app: how well does it work?",
@@ -2218,6 +2218,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "巴基斯坦总统批准在开伯尔-普什图省实施紧急状态",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892081450.html",
+     "pubDate": "Sun, 11 Oct 2026 18:41:52 +0800",
+     "summary": "巴基斯坦总统府11日发表声明说，巴总统扎尔达里当天批准在该国西北部开伯尔-普什图省实施紧急状态，原因是该省安全形势日益恶化。 声明说，该决定是在 综合 考虑联邦内阁建议、相关机构关于开伯尔-普什图省治安状况报告等情况后作出的。 巴基斯坦总理办公室同日发表声明说，联邦内阁听取了关于开伯尔-普什图省治安状况的简报。鉴于该省治安状况不断恶化、省政府消极应对，内阁建议总统行使宪法权力，在该省实施紧急状态。 近来，开伯尔-普什图省的武装暴力事件激增，巴基斯坦安全部队在该省加强了反恐行动。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "巴基斯坦总统批准在开伯尔-普什图省实施紧急状态"
+    },
+    {
+     "title": "美国VC资本流向：从“单一组件”转向“AI工厂”系统集成",
+     "link": "https://wallstreetcn.com/articles/3783382",
+     "pubDate": "Sun, 11 Oct 2026 18:40:23 +0800",
+     "summary": "AI基础设施风险投资正经历结构性转变。资本不再仅仅追逐算力或电力这两个单一要素，而是加速流向将两者整合为一体的系统性解决方案——数据中心正在演变为需要统一调度电力、算力、网络、冷却与数据流动的\"AI工厂\"。 据追风交易台，摩根士丹利最新研究报告指出，2026年美国AI基础设施相关初创企业的风险融资规模已达335亿美元，较2025年全年近乎翻倍。 资本高度集中于两大最稀缺的基础设施要素——单位功耗算力与稳定电力供应，两条路径合计占2026年融资总额的逾80%。与此同时，越来越多的投资者开始同时布局电力与算力，跨路径投资者参与比例从2021年前的16%跃升至2026年的73%，标志着市场对系统集成",
+     "source": "华尔街见闻",
+     "zh": "美国VC资本流向：从“单一组件”转向“AI工厂”系统集成"
+    },
+    {
+     "title": "沙特机场连续遭袭航运受严重影响",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892081267.html",
+     "pubDate": "Sun, 11 Oct 2026 18:36:50 +0800",
+     "summary": "据正在沙特的总台记者了解，最近几天，沙特多座 机场 连续遭到袭击，严重影响当地的 航运 。沙特民航总局今天（10月11日）公布的最新数据显示，利雅得哈立德国王国际 机场 遇袭事件已造成12人死亡、309人受伤。哈立德国王国际 机场 和位于沙特西南部的艾卜哈国际机场6日至7日也曾遭到袭击，共造成3人死亡、36人受伤。沙特东部城市达曼的法赫德国王国际机场附近今天也出现袭击事件，影响航班起降。中国驻沙特大使馆今天再次发布安全提醒，提醒在沙中国公民密切关注当地安全形势和航班变化，减少非必要外出，远离机场等可能存在安全风险的区域，并及时与航空公司保持联系。 （文章来源：CCTV国际时讯）",
+     "source": "东方财富股票",
+     "zh": "沙特机场连续遭袭航运受严重影响"
+    },
+    {
+     "title": "宁德时代与赛力斯签署长期战略合作协议 问界将继续全系搭载宁德时代电池",
+     "link": "http://stock.eastmoney.com/news/11219,202610113892081015.html",
+     "pubDate": "Sun, 11 Oct 2026 18:31:55 +0800",
+     "summary": "上证报中国证券网讯（记者王玉晴）10月10日， 宁德时代 与 赛力斯 集团在重庆签署长期战略合作协议。重庆市市委常委、市政府副市长、两江新区区委书记徐建，重庆市政府副市长郑向东， 赛力斯 集团董事长、创始人张兴海与 宁德时代 董事长兼CEO曾毓群等共同出席并见证签约。 问界品牌自创立以来，全系车型均搭载 宁德时代 电池 ，截至目前累计交付已突破120万台。以此为新起点，问界将继续长期全系搭载 宁德时代 电池 ，双方将围绕三大核心领域全面深化战略协同。 一是扩建“厂中厂”产能。加速 赛力斯 超级工厂“厂中厂”二期建设，二期年规划产能10GWh—12GWh，建成后一、二期总年产能将超20GWh。双",
+     "source": "东方财富股票",
+     "zh": "宁德时代与赛力斯签署长期战略合作协议 问界将继续全系搭载宁德时代电池"
+    },
+    {
+     "title": "亿纬锂能协同推进匈牙利基地高质量建设",
+     "link": "http://stock.eastmoney.com/news/11219,202610113892080916.html",
+     "pubDate": "Sun, 11 Oct 2026 18:31:11 +0800",
+     "summary": "上证报中国证券网讯（记者王玉晴）据 亿纬锂能 10月10日消息，近日，在第五届全球数字贸易博览会期间， 亿纬锂能 董事长刘金成与匈牙利代表团会面，双方围绕公司匈牙利项目建设进展、欧洲市场战略布局、产业合作机遇等展开深度交流。 亿纬锂能 方面称，在交流过程中，匈牙利代表团对亿纬 锂 能合规经营、开放协作、深耕本土的发展理念给予认可，期待双方继续紧密协作，保障项目稳步推进。 匈牙利生产基地是亿纬 锂 能在欧洲落地的首个本土化制造项目，既是公司全球化布局的关键一环，也是深耕欧洲 新能源 市场的核心战略载体。项目采用经市场验证的成熟 电池 技术，面向欧洲客户供应高性能大圆柱 电池 ，预计2027年正式",
+     "source": "东方财富股票",
+     "zh": "亿纬锂能协同推进匈牙利基地高质量建设"
+    },
+    {
+     "title": "大唐核电公司获15.7亿元增资",
+     "link": "http://stock.eastmoney.com/news/11219,202610113892081365.html",
+     "pubDate": "Sun, 11 Oct 2026 18:30:49 +0800",
+     "summary": "上证报中国证券网讯（记者林玉莲）10月9日， 大唐发电 发布公告称，与中国大唐集团有限公司及中国大唐集团核电有限公司签署《中国大唐集团核电有限公司增资协议》，合计增资规模15.7亿元。 根据协议，大唐集团按持股比例60%出资9.42亿元， 大唐发电 按持股比例40%出资6.28亿元，用于支付辽宁徐大堡核电项目、福建宁德核电二期项目的基本建设费用、辽宁庄河核电项目一期设备采购和施工准备费用及广东阳西核电项目的前期费用等。 本次增资完成后， 大唐发电 向大唐核电公司的出资额累计为人民币25.14亿元，总持股比例仍为40%；大唐集团向大唐核电公司的出资额累计为人民币37.71亿元，总持股比例仍为60",
+     "source": "东方财富股票",
+     "zh": "大唐核电公司获15.7亿元增资"
+    },
+    {
+     "title": "高德途途正式交付金沙中国旗下度假区",
+     "link": "http://stock.eastmoney.com/news/11231,202610113892081158.html",
+     "pubDate": "Sun, 11 Oct 2026 18:30:35 +0800",
+     "summary": "上证报中国证券网讯（记者窦世平）记者从 阿里巴巴 集团旗下高德获悉，高德近日正式交付金沙中国首批具身机器狗高德途途，它们将进入金沙中国旗下度假区，为游客提供各类导览服务，高德途途正式成为金沙中国001号机器狗导览员。 根据双方合作计划，高德还结合楼层、通道、店铺及公共设施等空间信息，为度假区提供全域室内导航；同时依托空间智能技术，构建度假区部分区域的三维空间模型，让游客通过高德App自主调整观看视角，出发前即可沉浸式预览。 （文章来源：上海证券报·中国证券网）",
+     "source": "东方财富股票",
+     "zh": "高德途途正式交付金沙中国旗下度假区"
+    },
+    {
      "title": "新进度！西渝高铁高升二号隧道顺利贯通",
      "link": "http://www.eeo.com.cn/2026/1011/1061069.shtml",
      "pubDate": "Sun, 11 Oct 2026 18:26:12 +0800",
@@ -2242,52 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "星际大模型｜山东人工智能垂域大模型之星火燎原"
     },
     {
-     "title": "伊朗总统在与阿曼苏丹的通话中讨论地区局势",
-     "link": "http://global.eastmoney.com/news/1959,202610113892078068.html",
-     "pubDate": "Sun, 11 Oct 2026 18:06:44 +0800",
-     "summary": "伊朗总统在与阿曼苏丹的通话中讨论地区局势。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "伊朗总统在与阿曼苏丹的通话中讨论地区局势"
-    },
-    {
-     "title": "首都在线怀来数据中心一期与某互联网头部企业达成合作",
-     "link": "http://finance.eastmoney.com/news/1349,202610113892077941.html",
-     "pubDate": "Sun, 11 Oct 2026 18:05:57 +0800",
-     "summary": "据 首都在线 消息，近日， 首都在线 与某互联网头部企业就怀来 数据中心 一期项目达成合作并签署服务协议。根据合作安排，一期项目高功率机柜资源整体出租，用于客户业务部署， 首都在线 将提供机柜托管及相关运维服务。怀来一期是首都在线在河北省布局的，首个从“机房转租”向“自建运营”转型的成规模项目。项目配置高功率机柜，瞄准AI训练、智算等高密度部署场景。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "首都在线怀来数据中心一期与某互联网头部企业达成合作"
-    },
-    {
-     "title": "水利部和中国气象局联合发布蓝色山洪灾害气象预警",
-     "link": "http://finance.eastmoney.com/news/11790,202610113892078126.html",
-     "pubDate": "Sun, 11 Oct 2026 18:05:55 +0800",
-     "summary": "水利部和中国气象局10月11日18时联合发布蓝色山洪灾害气象预警：预计，10月11日20时至12日20时，四川东北部、陕西东部等地局地可能发生山洪灾害（蓝色预警）。其他地区也可能因局地短历时强降水引发山洪灾害，请各地注意做好实时监测、防汛预警和转移避险等防范工作。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "水利部和中国气象局联合发布蓝色山洪灾害气象预警"
-    },
-    {
-     "title": "中国银河策略：蓄新质势能、寻产业长坡 《关于发展新质生产力的意见》解读",
-     "link": "http://finance.eastmoney.com/news/1345,202610113892077819.html",
-     "pubDate": "Sun, 11 Oct 2026 18:00:01 +0800",
-     "summary": "10月9日，中共中央、国务院印发《关于发展新质生产力的意见》。此次《意见》是新质生产力概念提出以来，首个以党中央、国务院名义出台的顶层纲领性文件，以“五大方面+十九项举措”为施工图，加快发展新质生产力。 出台背景： 《意见》印发，标志着中央顶层文件的出台，政策体系趋于系统完整。从宏观时点看，《意见》不是单一专项规划，而是在“十五五”开局之年推出的总纲领，旨在把前期探索与政策实践系统化为统一的思想与行动标尺，推动长期高质量发展。从增长结构看，旧增长范式的边际效用下降，经济正在加速切换到“向新向优”的新阶段。以 数字经济 、 人工智能 、高端制造为代表的新动能正加速向上，成为拉动增长的重要力量，且",
-     "source": "东方财富股票",
-     "zh": "中国银河策略：蓄新质势能、寻产业长坡 《关于发展新质生产力的意见》解读"
-    },
-    {
      "title": "如今美光赚得比苹果还多！苹果急需芯片，美光掌握定价权",
      "link": "https://wallstreetcn.com/articles/3783377",
      "pubDate": "Sun, 11 Oct 2026 17:59:03 +0800",
      "summary": "内存短缺正在重新分配科技行业的利润版图。美光科技在截至9月30日的第四财季录得净利润377亿美元，而苹果同期净利润为298亿美元——美光单季多赚了约80亿美元。 这一反转并非偶然。市场策略师Charlie Bilello在X平台上用三句话概括了这一逻辑： “苹果需要芯片。美光有芯片。美光定价格。” 他补充道，美光净利润“在短短两年内飙升42倍至380亿美元——比苹果上季度的盈利还多80亿美元”，并直言：“我们从未见过这样的定价权。” 科技投资分析师Beth Kindig也在X平台上指出：“美光现在产生的营业利润已经超过苹果。” 美光的数字：从亏损边缘到碾压苹果 美光的盈利反转速度令人咋舌。 2",
      "source": "华尔街见闻",
      "zh": "如今美光赚得比苹果还多！苹果急需芯片，美光掌握定价权"
-    },
-    {
-     "title": "杭州热电：董事长李炳离任",
-     "link": "http://stock.eastmoney.com/news/11215,202610113892078429.html",
-     "pubDate": "Sun, 11 Oct 2026 17:54:07 +0800",
-     "summary": "杭州热电 (605011.SH)公告称，公司董事长李炳因工作调整辞去董事长、董事、董事会战略委员会主任及委员职务，辞职报告自送达董事会之日起生效，并视为同时辞去法定代表人。李炳未持有公司股份，不存在未履行完毕的公开承诺。公司第三届董事会提名王艳为董事候选人，并提交股东会审议，任期至第三届董事会届满日止。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "杭州热电：董事长李炳离任"
     },
     {
      "title": "46岁数学博士AI炒股，一年大赚超640亿元",
@@ -2312,6 +2328,14 @@ window.INDUSTRY_DATA = {
      "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels",
      "source": "Financial Times",
      "zh": "利雅得机场遭导弹袭击造成12人死亡、数百人受伤"
+    },
+    {
+     "title": "十大机构论市：市场短期性价比已明显改善 小级别反弹可期",
+     "link": "http://finance.eastmoney.com/news/1345,202610113892075327.html",
+     "pubDate": "Sun, 11 Oct 2026 17:30:10 +0800",
+     "summary": "本周沪指下跌0.74%，深证成指下跌1.91%，创业板指下跌2.93%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 申万宏源策略：市场短期性价比已明显改善 小级别反弹可期 国庆假期后两个交易日的行情，构成支持我们长中短期波段定位的证据。中长波段，A股处于两个大波段上涨之间的震荡休整期，且仍偏向于弱势震荡。这个阶段，大类资产和产业利空，容易引发脉冲式调整。短波段，市场短期性价比已明显改善，各维度悲观预期都已有所反映。市场已经验证了，上证综指3800点以下配置需求释放，足以支持反弹。国庆假期后两个交易日的行情，构成支持我们长中短期波段定位的证据。重申我们长期、中期、短期波",
+     "source": "东方财富资讯",
+     "zh": "十大机构论市：市场短期性价比已明显改善 小级别反弹可期"
     },
     {
      "title": "市场监管总局：将深入推进企业海外反垄断合规能力提升专项行动",
@@ -2354,12 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "美国市场叙事“剧烈反转”：从“AI通缩论和美债可控论”转向“AI挤爆债市、贝森特控不住长端利率”"
     },
     {
-     "title": "特朗普政府打击“科技工作签”，印度人慌了",
-     "link": "https://wallstreetcn.com/articles/3783357",
-     "pubDate": "Sun, 11 Oct 2026 14:41:45 +0800",
-     "summary": "10月8日，美国副总统万斯与劳工部长Keith Sonderling联合宣布：劳工部即日起暂停受理及处理一批知名科技公司的PERM申请。PERM，即永久劳工认证，是雇主为外籍员工申请绿卡的必经程序。没有它，H-1B工作签证持有者的永久居留之路几乎就此中断。 此次被点名的企业横跨美印两国，包括微软、Adobe、Capgemini，以及印度外包巨头塔塔咨询服务（TCS）、Infosys、Wipro、HCLTech和Cognizant。美方表示，此举与针对上述企业涉嫌滥用就业移民项目的联邦调查同步推进。 印度外交部对此表态强烈反对，称美方此举“无助于两国共同目标”。 H-1B：印度人的“美国梦快车道",
-     "source": "华尔街见闻",
-     "zh": "特朗普政府打击“科技工作签”，印度人慌了"
+     "title": "周末要闻汇总：中共中央、国务院印发《关于发展新质生产力的意见》",
+     "link": "http://finance.eastmoney.com/news/1345,202610113892043722.html",
+     "pubDate": "Sun, 11 Oct 2026 14:00:17 +0800",
+     "summary": "本周末影响市场的重要资讯有：中共中央、国务院印发《关于发展新质生产力的意见》；中欧贸易投资磋商机制发布第二次例会联合声明，达成16项成果共识；中国证监会召开资本市场和金融形势专家座谈会；时隔12年，公募基金运作办法修订，多举措支持逆周期布局；财政部安排使用5500亿元地方政府债务结存限额；加强 汽车 产品创新设计等方面管理，四部门征求意见；沙特首都利雅得 机场 遭袭致12死309伤，美或将介入打击行动。 宏观经济 中共中央、国务院印发《关于发展新质生产力的意见》 《意见》统筹发展和安全，以科技创新为引领，以全要素生产率大幅提升为核心标志，推动技术革命性突破、生产要素创新性配置、产业深度转型升级",
+     "source": "东方财富资讯",
+     "zh": "周末要闻汇总：中共中央、国务院印发《关于发展新质生产力的意见》"
     },
     {
      "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
@@ -2423,7 +2447,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 20:30:09 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "特朗普表示乌克兰应该取代泽伦斯基，停止袭击俄罗斯炼油厂"
+     "zh": "特朗普表示乌克兰应该取代泽连斯基，停止攻击俄罗斯炼油厂"
     },
     {
      "title": "Microsoft&apos;s Nadella says AI needs an ‘emergency brake’ that humans control",
@@ -2432,30 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
      "source": "CNBC",
      "zh": "微软纳德拉表示人工智能需要人类控制的“紧急刹车”"
-    },
-    {
-     "title": "SA Asks: Is now the time to buy quantum stocks? If so, which ones?",
-     "link": "https://seekingalpha.com/news/4651914-sa-asks-is-now-the-time-to-buy-quantum-stocks-if-so-which-ones?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 10 Oct 2026 15:57:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA问：现在是购买量子股票的时候吗？如果有，是哪些？"
-    },
-    {
-     "title": "Should I put my nest egg in a 30-year Treasury bond?",
-     "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-     "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
-     "summary": "Risk comes in many forms, even with “safe” investments.",
-     "source": "MarketWatch",
-     "zh": "我应该把我的积蓄存入 30 年期国债吗？"
-    },
-    {
-     "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-     "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-     "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
-     "summary": "Parental controls aren’t just for kids anymore",
-     "source": "MarketWatch",
-     "zh": "比拿走父母的车钥匙更糟糕？拿走他们的手机。如何保护年迈的父母。"
     }
    ]
   },

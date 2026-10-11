@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/11 20:29:48",
+ "generated_at": "2026/10/11 20:49:50",
  "recent_days": 7,
  "industries": [
   {
@@ -8,30 +8,6 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-     "link": "https://www.qbitai.com/2026/10/502644.html",
-     "pubDate": "Sun, 11 Oct 2026 09:04:31 +0000",
-     "summary": "一套生成论文初稿的多智能体工作流",
-     "source": "量子位",
-     "zh": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针"
-    },
-    {
-     "title": "何恺明团队发布多模态Harness框架",
-     "link": "https://www.qbitai.com/2026/10/502628.html",
-     "pubDate": "Sun, 11 Oct 2026 08:59:06 +0000",
-     "summary": "多模态模型的视觉原生Harness，来了！",
-     "source": "量子位",
-     "zh": "何恺明团队发布多模态Harness框架"
-    },
-    {
-     "title": "陶哲轩：数学2.0时代已至！",
-     "link": "https://www.qbitai.com/2026/10/502594.html",
-     "pubDate": "Sun, 11 Oct 2026 07:52:16 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "陶哲轩：数学2.0时代已至！"
-    },
     {
      "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
      "link": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/",
@@ -113,6 +89,14 @@
      "zh": "EMNLP'26 Oral | 麻省理工：靠访谈让AI模拟真人，这条路能走多远？"
     },
     {
+     "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+     "link": "https://www.qbitai.com/2026/10/502544.html",
+     "pubDate": "Sun, 11 Oct 2026 03:27:08 +0000",
+     "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+     "source": "量子位",
+     "zh": "DeepSeek Bot来了！民间版，DSH装个插件就能用"
+    },
+    {
      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
      "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
      "pubDate": "Sat, 10 Oct 2026 22:02:18 +0000",
@@ -177,6 +161,14 @@
      "zh": "编程体验接近Opus 5.5？谷歌Gemini 4新版本曝光"
     },
     {
+     "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+     "link": "https://www.qbitai.com/2026/10/502541.html",
+     "pubDate": "Sat, 10 Oct 2026 10:30:36 +0000",
+     "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+     "source": "量子位",
+     "zh": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地"
+    },
+    {
      "title": "从记忆到自进化：Agent 走向 RSI 的关键一步",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062063&idx=1&sn=f91d6b290b4a38685b85a47415870873",
      "pubDate": "Sat, 10 Oct 2026 18:23:00 +0800",
@@ -191,6 +183,14 @@
      "summary": "与其被动地丢掉工作，不如主动去开一家朝这个方向走的公司。",
      "source": "机器之心",
      "zh": "田渊栋：与GPT-5合写最后一篇论文后，我意识到自己5年内会失业"
+    },
+    {
+     "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+     "link": "https://www.qbitai.com/2026/10/502496.html",
+     "pubDate": "Sat, 10 Oct 2026 09:07:43 +0000",
+     "summary": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
+     "source": "量子位",
+     "zh": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起"
     },
     {
      "title": "2026中国计算机大会定了，12位院士演讲，腾讯阿里百度、小米京东都来了",
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
+     "link": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/",
+     "pubDate": "Sun, 11 Oct 2026 12:36:24 +0000",
+     "summary": "If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach. The post Will ‘boring’ robots win in the real world? Why robotic form should follow workflow appeared first on The Robot Report .",
+     "source": "Robotics Business Review",
+     "zh": "“无聊”的机器人会在现实世界中获胜吗？为什么机器人表单应该遵循工作流程"
+    },
+    {
      "title": "Why dexterity is physical AI’s real bottleneck",
      "link": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
      "pubDate": "Sat, 10 Oct 2026 12:45:15 +0000",
@@ -582,7 +590,7 @@
      "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
      "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
      "source": "Robohub",
-     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
+     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与 Kushant Patel"
     },
     {
      "title": "Cevotec brings robotic composite lamination to South Korea with KCompositeLab partnership",
@@ -662,7 +670,7 @@
      "pubDate": "Sun, 11 Oct 2026 12:16:33 +0000",
      "summary": "Mitusbishi’s North American dealers have been trudging along with an aging, badge-engineered model line for years – but overseas? It’s a different story, and the 459 hp all-wheel drive ASX VR-e electric hot hatch shown here is plug-in proof. more…",
      "source": "Electrek",
-     "zh": "459 马力、3.9 秒内从 0 加速到 60 英里以及全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
+     "zh": "459 马力、3.9 秒内从 0-60 英里加速和全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
     },
     {
      "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
@@ -686,7 +694,7 @@
      "pubDate": "Sat, 10 Oct 2026 14:07:06 +0000",
      "summary": "The limited-time price of the Cruiser 700, including a trade-in subsidy, is 169,800 yuan ($25,220), and firm orders exceeded 10,000 units within the first 12 minutes. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "吉利银河推出漫步者700 挑战比亚迪、长城 越野SUV市场"
+     "zh": "吉利银河推出漫步者700 与比亚迪、长城汽车争夺越野SUV市场"
     },
     {
      "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
@@ -1134,7 +1142,7 @@
      "pubDate": "Fri, 09 Oct 2026 21:03:52 +0000",
      "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
      "source": "STAT News",
-     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥首要作用"
+     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥重要作用"
     },
     {
      "title": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
@@ -1590,7 +1598,7 @@
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击"
+     "zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击"
     },
     {
      "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -1721,6 +1729,14 @@
    "total": 18,
    "items": [
     {
+     "title": "这些掌握了内幕消息的人，是怎么亏钱的？",
+     "link": "https://www.huxiu.com/article/4896635.html?f=rss",
+     "pubDate": "Sun, 11 Oct 2026 20:41:23 +0800",
+     "summary": "本文来自微信公众号： 思想钢印 ，作者：思想钢印 1/7 亏钱跟消息无关 在很多人看来，有了内幕消息，就好像游戏开了外挂，赚钱不就是水到渠成的事，但监管处罚数据给出了相反的答案。 2025年全年的126份适用新《证券法》的内幕交易行政处罚中，61件为亏损或获利不足50万元，占比48.4%；涉及151名当事人，列明“无违法所得”（即亏损）的有44名，占29.1%；违法所得在1000万元以上的只有4人。 所以就算你有内幕，亏损或微利都是常态，暴利是极少数。2022年披露的Y集团、刘某某操纵“Y健康”案，股票亏损高达8.17亿元。 很多人觉得，是不是因为消息是假的、事件落空或者交易未完成，所以才亏钱",
+     "source": "虎嗅",
+     "zh": "这些掌握了内幕消息的人，是怎么亏钱的？"
+    },
+    {
      "title": "奇瑞捷途全新旅行者 7 预告搭载骁龙 8255 座舱芯片，10 月 14 日上市",
      "link": "https://www.ithome.com/1/011/691.htm",
      "pubDate": "Sun, 11 Oct 2026 12:28:49 GMT",
@@ -1735,6 +1751,38 @@
      "summary": "IT之家 10 月 11 日消息，广汽丰田今日宣布铂智 3X 第 15 万台暨星云限量版交付，限时权益价 11.78 万元起。 据介绍，新车在 520 Pro 价格基础上，仅需 3000 元解锁价值超万元专属配置，包括星云蓝色车、星云主题内饰、前排座椅按摩、YAMAHA 品牌扬声器、19 英寸星芒轮毂。 该车长宽高为 4600×1850×1660mm， 轴距为 2765mm ，配备 58.37 度磷酸铁锂电池，CLTC 纯电续航 520km，配备 150kW 电机。 IT之家注意到，广汽丰田 2026 款铂智 3X 于今年 5 月上市。其中，430Air+ 车型新增行泊一体架构，实现高阶智能泊",
      "source": "IT之家",
      "zh": "广汽丰田铂智 3X 第 15 万台暨星云限量版交付，限时权益价 11.78 万元起"
+    },
+    {
+     "title": "Don't Put Tilde In Your Path",
+     "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+     "pubDate": "Sun, 11 Oct 2026 12:13:13 +0000",
+     "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "不要在你的路径中添加波形符"
+    },
+    {
+     "title": "《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售",
+     "link": "https://www.solidot.org/story?sid=85578",
+     "pubDate": "Sun, 11 Oct 2026 20:12:09 +0800",
+     "summary": "《星际公民(Star Citizen)》的独立单机战役《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售 。《星际公民》由《银河飞将》创始人 Chris Roberts 领导开发，试图复兴太空模拟飞行游戏，允许玩家在广袤的宇宙空间内探险，交易和战斗。它于 2012 年在 Kickstarter 上成功众筹，原计划的交付时间是 2014 年。但在 Kickstarter 众筹结束后，开发团队继续在官方网站上进行募资，许多募资其实就是销售游戏内的虚拟物品如各种型号的飞船。和多人网游《星际公民》一样，单机战役《Squadron 42》的交付时间也不断延期，2024 年宣布",
+     "source": "Solidot",
+     "zh": "《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售"
+    },
+    {
+     "title": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
+     "link": "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html",
+     "pubDate": "Sun, 11 Oct 2026 12:07:22 +0000",
+     "summary": "Article URL: https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html Comments URL: https://news.ycombinator.com/item?id=50042370 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "DNA显示，斯堪的纳维亚第一批农民屠杀了狩猎采集者"
+    },
+    {
+     "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+     "link": "https://verdagon.dev/blog/valen-group-borrowing",
+     "pubDate": "Sun, 11 Oct 2026 12:06:22 +0000",
+     "summary": "Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 3 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Valen 的内存安全：一种新型的借用检查"
     },
     {
      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
@@ -1756,7 +1804,7 @@
      "title": "I paid people to try and follow my README",
      "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
      "pubDate": "Sun, 11 Oct 2026 11:47:29 +0000",
-     "summary": "Article URL: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/ Comments URL: https://news.ycombinator.com/item?id=50042219 Points: 31 # Comments: 11",
+     "summary": "Article URL: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/ Comments URL: https://news.ycombinator.com/item?id=50042219 Points: 47 # Comments: 25",
      "source": "Hacker News",
      "zh": "我付钱让人们尝试遵循我的自述文件"
     },
@@ -1764,7 +1812,7 @@
      "title": "What driving across Europe costs in tolls, vignettes, bridges and fuel",
      "link": "https://copilot.travel/tolls/europe-2026",
      "pubDate": "Sun, 11 Oct 2026 11:39:10 +0000",
-     "summary": "Article URL: https://copilot.travel/tolls/europe-2026 Comments URL: https://news.ycombinator.com/item?id=50042149 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://copilot.travel/tolls/europe-2026 Comments URL: https://news.ycombinator.com/item?id=50042149 Points: 10 # Comments: 3",
      "source": "Hacker News",
      "zh": "驾车穿越欧洲需要多少通行费、小插曲、桥梁和燃油费用"
     },
@@ -1791,14 +1839,6 @@
      "summary": "IT之家 10 月 11 日消息，据法治日报，近日江苏扬州的陈先生前往辖区派出所报案称自己因债务纠纷，疑似被债主周某装了“定位器”，周某总能掌握他的行踪，令其出门提心吊胆，正常工作与生活受到严重干扰，最终选择报警求助。 警方调查发现，周某在“极速定位”非法网站付费注册，把内容包装成小程序链接发给对方，接收人一旦点击允许获取位置，网站程序的后台就可以获取被定位人点击链接时的精准位置信息。同时，周某不光用这一手段催债，还对外有偿提供定位服务牟利， 两个多月非法获取定位信息 306 条，获利近 2 万元 。 警方进一步调查，抓获了“极速定位”非法网站幕后网络公司技术骨干彭某，彭某通过发送文章、图片、",
      "source": "IT之家",
      "zh": "点击链接就可被实时定位：警方查获“极速定位”非法服务黑色产业链"
-    },
-    {
-     "title": "AI is creating a 'human premium' for art created by people",
-     "link": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-     "pubDate": "Sun, 11 Oct 2026 11:34:28 +0000",
-     "summary": "Article URL: https://www.bbc.com/news/articles/c5vgjm3gk7rzo Comments URL: https://news.ycombinator.com/item?id=50042107 Points: 26 # Comments: 21",
-     "source": "Hacker News",
-     "zh": "人工智能正在为人类创造的艺术创造“人类溢价”"
     },
     {
      "title": "韩国股市，遭遇资金大撤退",
@@ -1833,22 +1873,6 @@
      "zh": "第一批“喜老登”，开始摘牌了"
     },
     {
-     "title": "Nitter: Update Oct 10th seeking funding and legal help",
-     "link": "https://nitter.net",
-     "pubDate": "Sun, 11 Oct 2026 10:37:55 +0000",
-     "summary": "Article URL: https://nitter.net Comments URL: https://news.ycombinator.com/item?id=50041682 Points: 144 # Comments: 34",
-     "source": "Hacker News",
-     "zh": "Nitter：10 月 10 日更新寻求资金和法律帮助"
-    },
-    {
-     "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
-     "link": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
-     "pubDate": "Sun, 11 Oct 2026 10:34:43 +0000",
-     "summary": "Article URL: https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/ Comments URL: https://news.ycombinator.com/item?id=50041667 Points: 20 # Comments: 15",
-     "source": "Hacker News",
-     "zh": "“机器人”是一种社会结构：为什么你的洗碗机不是机器人"
-    },
-    {
      "title": "13 Best Gifts for Every Traveler Should Have (2026)",
      "link": "https://www.wired.com/story/best-gifts-for-travelers/",
      "pubDate": "Sun, 11 Oct 2026 10:33:00 +0000",
@@ -1879,14 +1903,6 @@
      "summary": "本文来自微信公众号： 毒眸 ，编辑：刘南豆，作者：毒眸编辑部 当短视频上越来越多人信奉“生理性喜欢才是真爱”的同时，现偶也在积极地兜售“性暗示”，用吻戏、床戏（的周边产品）来满足观众对这一类型新的想象。 点开最近发布预告片的《雾里青》《许你星河千里》《想把你和时间藏起来》等一批现偶，男女主角们纷纷效仿Luke和Flora，不约而同地亲得难分难舍，似乎是想跨过纯爱时代，直奔熟龄恋爱了。 不过，这些情欲场面看起来很吸引人，但放在一起放送，算盘就有点打到观众脸上了。本来是算准了国产剧观众没吃过大尺度的饭，想端上一波震撼美味，结果观众遍览预告发现，一方面尺度也没多大，不可能真的全片充斥床戏；另一方面，",
      "source": "虎嗅",
      "zh": "现偶太想吃po文这碗饭了"
-    },
-    {
-     "title": "中国正走到日本20年前：家庭变小之后，消费会流向哪里？",
-     "link": "https://www.huxiu.com/article/4896623.html?f=rss",
-     "pubDate": "Sun, 11 Oct 2026 18:12:45 +0800",
-     "summary": "本文来自微信公众号： 新经销 ，作者：任文青 最近研究人口与消费，我发现了一组有意思的数字。 2005年，日本平均每个普通家庭户有2.55人，一人户、二人户合计占56.0%。 2020年，中国平均每个家庭户有2.62人，一人户、二人户合计占55.08%。到2025年，中国户均人口进一步降到2.52人。 中日统计口径并不完全相同，不能做严格比较。但作为阶段参照，今天的中国，大致走到了日本15-20年前的位置。 接下来会发生什么？ 食品企业可能会想到小包装、一人食；零售企业可能会想到便利店、鲜食和冷冻食品。 但这些只是表层结果。 我更想搞清楚：为什么家庭一变小，小包装、即食食品、便利店和到家服务就",
-     "source": "虎嗅",
-     "zh": "中国正走到日本20年前：家庭变小之后，消费会流向哪里？"
     },
     {
      "title": "These Midterm Races Will Decide Data Centers’ Political Fate",
@@ -1951,14 +1967,6 @@
      "summary": "Achint Srivastava / Command Line : Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, and says it will soon rebase it on MAI, OpenAI, and other models &nbsp; &mdash;&nbsp; Decision models are quickly emerging as an important new category in AI.&nbsp; Unlike ",
      "source": "Techmeme",
      "zh": "微软推出了 Microsoft-Decision-1，这是一种在 Qwen3.5-9B 上训练的快速决策评分模型，并表示很快将在 MAI、OpenAI 和其他模型上重新调整其基础（Achint Srivastava/命令行）"
-    },
-    {
-     "title": "李嘉诚1100亿港元套现电网，268亿逆势囤油砂，到底在赌什么",
-     "link": "https://www.tmtpost.com/8164290.html",
-     "pubDate": "Sun, 11 Oct 2026 13:01:00 +0800",
-     "summary": "李嘉诚1100亿港元套现英国电网，268亿加码加拿大油砂，能源资产大腾挪背后逻辑何在？",
-     "source": "钛媒体",
-     "zh": "李嘉诚1100亿港元套现电网，268亿逆势囤油砂，到底在赌什么"
     }
    ]
   },
@@ -1968,6 +1976,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Why CPU overclocking is mostly now a thing of the past",
+     "link": "https://www.engadget.com/2280537/why-overclocking-cpu-mostly-outdated/",
+     "pubDate": "Sun, 11 Oct 2026 12:45:00 +0000",
+     "summary": "The performance gains you get with modern chips aren't as noteworthy as they used to be.",
+     "source": "Engadget",
+     "zh": "为什么CPU超频现在已经成为过去"
+    },
+    {
+     "title": "How to properly clean your solar panels (and why it's important)",
+     "link": "https://www.engadget.com/2280495/how-to-properly-clean-solar-panels-why-its-important-to/",
+     "pubDate": "Sun, 11 Oct 2026 12:30:00 +0000",
+     "summary": "Dirt can cut solar output, but cleaning only pays off when the numbers make sense.",
+     "source": "Engadget",
+     "zh": "如何正确清洁太阳能电池板（以及为什么它很重要）"
+    },
     {
      "title": "Here's how much the MacBook Pro cost in 2021 vs. 2026",
      "link": "https://www.engadget.com/2280441/how-much-macbook-pro-cost-2021-vs-2026/",
@@ -1982,7 +2006,7 @@
      "pubDate": "Sun, 11 Oct 2026 13:31:02 +0200",
      "summary": "While Amazon’s Prime Big Deal Days have wrapped up, discounts are still available on several smartphones. In fact, some devices that received few or no notable discounts during the sale are now available at reduced prices. Samsung’s Galaxy S26 Ultra, Apple’s iPhone 17 Pro lineup, and the entire Goog",
      "source": "GSMArena",
-     "zh": "特惠：三星、苹果、谷歌旗舰手机大优惠"
+     "zh": "特惠：三星、苹果、谷歌旗舰手机大幅折扣"
     },
     {
      "title": "I’ve tried all the major to-do list apps but keep coming back to this one",
@@ -2105,22 +2129,6 @@
      "zh": "如何在 iOS 27 上使用家长控制"
     },
     {
-     "title": "How to reduce mobile data usage on your iPhone",
-     "link": "https://www.engadget.com/2280214/how-to-reduce-mobile-data-usage-iphone/",
-     "pubDate": "Sat, 10 Oct 2026 23:30:00 +0000",
-     "summary": "If your cellular plan has limited data, you'll want to take advantage of these easy tweaks to stretch those gigabytes.",
-     "source": "Engadget",
-     "zh": "如何减少 iPhone 上的移动数据使用量"
-    },
-    {
-     "title": "Simple tweaks to improve your 4K TV's picture quality",
-     "link": "https://www.engadget.com/2280162/improve-picture-quality-4k-tv-simple-tweaks/",
-     "pubDate": "Sat, 10 Oct 2026 23:00:00 +0000",
-     "summary": "Even if your TV looks great as-is, some tweaks to its modes and sliders, as well as the room it's in, will make it look much better.",
-     "source": "Engadget",
-     "zh": "简单的调整即可提高 4K 电视的图像质量"
-    },
-    {
      "title": "Samsung Galaxy S27 might finally introduce DC dimming",
      "link": "https://www.gsmarena.com/samsung_galaxy_s27_might_finally_introduce_dc_dimming-news-74994.php",
      "pubDate": "Sat, 10 Oct 2026 23:01:02 +0200",
@@ -2216,6 +2224,70 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Ukraine’s allies vow to pressure Moscow after Trump-Putin diesel deal",
+     "link": "https://www.ft.com/content/724ef0e2-4d50-49fd-aef8-abc0534f2f84?syn-25a6b1a6=1",
+     "pubDate": "Sun, 11 Oct 2026 12:45:06 GMT",
+     "summary": "US president’s suggestion that Zelenskyy should be replaced shocked Kyiv and European nations",
+     "source": "Financial Times",
+     "zh": "特朗普与普京达成柴油协议后，乌克兰盟友誓言向莫斯科施压"
+    },
+    {
+     "title": "国际能源署：鼓励评估是否需进一步释放柴油储备",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892104113.html",
+     "pubDate": "Sun, 11 Oct 2026 20:42:00 +0800",
+     "summary": "国际能源署表示，鼓励评估是否需进一步释放柴油储备。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "国际能源署：鼓励评估是否需进一步释放柴油储备"
+    },
+    {
+     "title": "沪主板11天披露120余份回购公告 已实施超176亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892104332.html",
+     "pubDate": "Sun, 11 Oct 2026 20:40:54 +0800",
+     "summary": "最新统计显示，10月以来（披露日为10月1日及之后），沪市主板公司已发布超120份回购类公告（包括回购计划、回购进展和完成类），上述公告对应回购金额合计约247亿元至464亿元，累计已实施金额超176亿元，其中，进展类公告对应的最新回购金额为166亿元，已锁定整体回购金额（下限）的七成。 上述120余份公告中，包括3份新增计划，对应公司分别为 威尔药业 、 安德利 、 东阳光 。其中， 安德利 于10月9日公告，拟未来12个月内回购1.2亿元至1.8亿元公司股份，价格不超过100元/股，回购股份用于员工持股计划或 股权激励 。 东阳光 9月30日披露回购提议，10月10日，公司发布具体回购方案",
+     "source": "东方财富股票",
+     "zh": "沪主板11天披露120余份回购公告 已实施超176亿元"
+    },
+    {
+     "title": "日英意联合研发下一代战机",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892104095.html",
+     "pubDate": "Sun, 11 Oct 2026 20:35:58 +0800",
+     "summary": "据日媒10日报道，日本、英国、意大利联合研发的下一代战斗机项目正加速推进。9日，该项目在意大利设立的新研发基地举行启用仪式。日媒称，这款尚在开发中的战机计划2035年正式列装，性能目标是超越当前现役顶尖战机，并具备与 无人机 协同作战的能力。 （文章来源：央视军事）",
+     "source": "东方财富股票",
+     "zh": "日英意联合研发下一代战机"
+    },
+    {
+     "title": "粤芯半导体：将于10月13日在创业板上市",
+     "link": "http://finance.eastmoney.com/news/1350,202610113892103934.html",
+     "pubDate": "Sun, 11 Oct 2026 20:34:41 +0800",
+     "summary": "粤芯半导体 (301660.SZ)公告称，公司发行的人民币普通股股票将于2026年10月13日在深圳证券交易所创业板上市。本次发行价格为12.01元/股，发行后总股本为28.78亿股(超额配售选择权行使前)，公开发行股票数量为5.13亿股，全部为新股。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "粤芯半导体：将于10月13日在创业板上市"
+    },
+    {
+     "title": "10月11日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202610113892103727.html",
+     "pubDate": "Sun, 11 Oct 2026 20:30:46 +0800",
+     "summary": "今日摘要 习近平总书记指出，要坚持以高水平保护支撑高质量发展，筑牢国家生态安全屏障。今年以来，各地统筹推进山水林田湖草沙一体化保护和系统治理，持续巩固国家生态安全屏障，共绘美丽中国新画卷。 王沪宁会见越南国会主席。 中国 物流 业景气指数连续5个月处于扩张区间。 今年前三季度新开工重大水利工程数量，超过去年全年。 连接深圳、香港两地的新皇岗口岸落成，明天正式开通运行。 沙特方面称，利雅得 机场 遭胡塞武装袭击，导致12人死亡。胡塞武装称，也门萨那国际 机场 遭空袭。 乌克兰方面呼吁欧洲国家强化对俄罗斯施压。美国方面称，乌克兰应停止对俄罗斯石油设施的袭击。 内容速览 【新思想引领新征程】守护绿水",
+     "source": "东方财富股票",
+     "zh": "10月11日晚间央视新闻联播要闻集锦"
+    },
+    {
+     "title": "俄方称打击乌数据中心并新控制4处居民点",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892103478.html",
+     "pubDate": "Sun, 11 Oct 2026 20:30:27 +0800",
+     "summary": "俄罗斯国防部11日在社交媒体发布通报说，俄军10日夜间使用 无人机 对乌克兰 数据中心 、船舶等实施远程打击，并新取得4处居民点的控制权。 通报说，俄军 无人机 击中了乌克兰敖德萨市内一处为乌军处理、传输与存储信息的 数据中心 。 无人机 还击中一艘停靠在敖德萨州切尔诺莫斯克港内的干货船，该船只此前为乌军运送物资。 俄国防部还说，俄北方集团军和中部集团军分别在哈尔科夫州和顿涅茨克地区各取得两处居民点的控制权。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "俄方称打击乌数据中心并新控制4处居民点"
+    },
+    {
+     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+     "pubDate": "Sun, 11 Oct 2026 12:30:00 GMT",
+     "summary": "“I presume these are sophisticated investors taking a profit.”",
+     "source": "MarketWatch",
+     "zh": "“我感觉自己像个失败者”：我的股票投资组合剧烈波动。终于到了担心的时候了吗？"
+    },
     {
      "title": "Earnings Week Ahead: JPM, JNJ, BAC, GS, C, UNH, TSM, and more",
      "link": "https://seekingalpha.com/news/4651731-earnings-week-ahead-jpm-jnj-bac-gs-c-unh-tsm-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2391,70 +2463,6 @@
      "summary": "马斯克宣称，凭借旗下公司在定制化设备制造领域积累的深厚经验，他有信心在芯片制造领域后来居上，超越所有竞争对手。这一表态，为其正在推进的Terrafab芯片工厂项目再度注入强烈的市场关注。 马斯克于当地时间周六通过直播形式出席在德克萨斯州奥斯汀特斯拉超级工厂外举办的\"X Takeover\"活动，面向客户与投资者发表上述言论。 他坦承目前\"完全不知道如何制造微芯片\"，但同时表示\"我们会搞清楚的\"，并预计旗下公司最终将在芯片制造上超越所有人，尽管\"可能需要相当多年时间\"。 这番表态的背景是，马斯克正筹备在德克萨斯州格莱姆斯（Grimes）建设Terrafab芯片工厂，该项目由特斯拉、SpaceX与英",
      "source": "华尔街见闻",
      "zh": "马斯克放话：虽然现在还不懂造芯片，但Terrafab未来要造出“比任何人都更好的芯片”"
-    },
-    {
-     "title": "尊界：未发运车直接换装新件 刹车踏板升级方案预计10月底敲定",
-     "link": "http://stock.eastmoney.com/news/11219,202610113892047323.html",
-     "pubDate": "Sun, 11 Oct 2026 14:31:28 +0800",
-     "summary": "10月11日消息，针对尊界V800被曝测试过程中刹车踏板支架断裂事件，尊界客服回应表示，整套升级细则预计在10月底正式确认，同时未发运新车直接换装新件。 在事件发生后，尊界 汽车 发布公告表示将优化刹车踏板支架部件设计，并为已交付用户提供免费升级选项。 11日，尊界 汽车 客服告诉记者，生产端将直接调整：尚未交付、未发运的车辆，下线时直接装配升级后的制动踏板支架。已经完成发运或是交付到车主手中的车辆，则需要前往授权门店实施升级，整套升级细则预计在10月底正式确认。 本次事件源于此前懂车帝在极端工况测试下，尊界V800在紧急制动测试中出现刹车踏板支架断裂，引发市场对车辆制动安全的广泛讨论。尊界此",
-     "source": "东方财富资讯",
-     "zh": "尊界：未发运车直接换装新件 刹车踏板升级方案预计10月底敲定"
-    },
-    {
-     "title": "周末要闻汇总：中共中央、国务院印发《关于发展新质生产力的意见》",
-     "link": "http://finance.eastmoney.com/news/1345,202610113892043722.html",
-     "pubDate": "Sun, 11 Oct 2026 14:00:17 +0800",
-     "summary": "本周末影响市场的重要资讯有：中共中央、国务院印发《关于发展新质生产力的意见》；中欧贸易投资磋商机制发布第二次例会联合声明，达成16项成果共识；中国证监会召开资本市场和金融形势专家座谈会；时隔12年，公募基金运作办法修订，多举措支持逆周期布局；财政部安排使用5500亿元地方政府债务结存限额；加强 汽车 产品创新设计等方面管理，四部门征求意见；沙特首都利雅得 机场 遭袭致12死309伤，美或将介入打击行动。 宏观经济 中共中央、国务院印发《关于发展新质生产力的意见》 《意见》统筹发展和安全，以科技创新为引领，以全要素生产率大幅提升为核心标志，推动技术革命性突破、生产要素创新性配置、产业深度转型升级",
-     "source": "东方财富资讯",
-     "zh": "周末要闻汇总：中共中央、国务院印发《关于发展新质生产力的意见》"
-    },
-    {
-     "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
-     "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 05:26:18 GMT",
-     "summary": "The ship tried to break through America’s naval blockade of Iranian ports, Central Command says of its first attack in a month",
-     "source": "Financial Times",
-     "zh": "随着紧张局势加剧，美国在阿曼湾袭击了商业油轮"
-    },
-    {
-     "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
-     "link": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
-     "pubDate": "Sun, 11 Oct 2026 05:00:01 GMT",
-     "summary": "As retailers turn to AI tools to streamline operations, experts warn that collecting more detailed consumer data increases the risk of personalized pricing.",
-     "source": "CNBC",
-     "zh": "人工智能可能会改变巨无霸和杂货的价格——这对购物者意味着什么"
-    },
-    {
-     "title": "The problem with your AI therapist",
-     "link": "https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 04:00:16 GMT",
-     "summary": "Millions are turning to chatbots for help with mental health but a technology that can’t go beyond words won’t heal them",
-     "source": "Financial Times",
-     "zh": "你的人工智能治疗师的问题"
-    },
-    {
-     "title": "The fall of Germany’s ex-spymaster",
-     "link": "https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 04:00:15 GMT",
-     "summary": "August Hanning is accused of having illegally purchased state secrets for over a decade",
-     "source": "Financial Times",
-     "zh": "德国前间谍头子倒台"
-    },
-    {
-     "title": "Russia steps up bid to kill European defence chiefs, spy agencies warn",
-     "link": "https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 04:00:06 GMT",
-     "summary": "Companies increase personal security for top executives as Kremlin orders expansion of sabotage and ‘hybrid’ operations",
-     "source": "Financial Times",
-     "zh": "间谍机构警告称，俄罗斯加大力度刺杀欧洲防长"
-    },
-    {
-     "title": "Lockheed Martin raises dividend by 4.3% to $3.60",
-     "link": "https://seekingalpha.com/news/4651916-lockheed-martin-raises-dividend-by-43-to-360?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 10 Oct 2026 21:09:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "洛克希德·马丁公司将股息提高 4.3% 至 3.60 美元"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/12 02:29:46",
+ "generated_at": "2026/10/12 02:49:51",
  "recent_days": 7,
  "industries": [
   {
@@ -590,7 +590,7 @@
      "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
      "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
      "source": "Robohub",
-     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
+     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与 Kushant Patel"
     },
     {
      "title": "Cevotec brings robotic composite lamination to South Korea with KCompositeLab partnership",
@@ -702,7 +702,7 @@
      "pubDate": "Sun, 11 Oct 2026 12:16:33 +0000",
      "summary": "Mitusbishi’s North American dealers have been trudging along with an aging, badge-engineered model line for years – but overseas? It’s a different story, and the 459 hp all-wheel drive ASX VR-e electric hot hatch shown here is plug-in proof. more…",
      "source": "Electrek",
-     "zh": "459 马力、3.9 秒内从 0 加速到 60 英里以及全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
+     "zh": "459 马力、3.9 秒内从 0-60 英里加速和全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
     },
     {
      "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
@@ -726,7 +726,7 @@
      "pubDate": "Sat, 10 Oct 2026 14:07:06 +0000",
      "summary": "The limited-time price of the Cruiser 700, including a trade-in subsidy, is 169,800 yuan ($25,220), and firm orders exceeded 10,000 units within the first 12 minutes. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "吉利银河推出漫步者700 挑战比亚迪、长城 越野SUV市场"
+     "zh": "吉利银河推出漫步者700 与比亚迪、长城汽车争夺越野SUV市场"
     },
     {
      "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
@@ -862,7 +862,7 @@
      "pubDate": "Sun, 11 Oct 2026 10:00:00 -0500",
      "summary": "Australia has long been known for its strong coal industry, being one of the world’s largest producers and exporters. While much of the world moves away from coal in favour of cleaner energy sources, Australia is doubling down on its coal production, with plans to extend the life of coal operations ",
      "source": "OilPrice",
-     "zh": "尽管有巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
+     "zh": "尽管巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
     },
     {
      "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
@@ -1134,7 +1134,7 @@
      "pubDate": "Fri, 09 Oct 2026 21:03:52 +0000",
      "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
      "source": "STAT News",
-     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥首要作用"
+     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥重要作用"
     },
     {
      "title": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
@@ -1382,7 +1382,7 @@
      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
      "summary": "Seattle-based Kapta Space announced a $24M Series A to build next-gen radar payloads designed to track moving targets. The post Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：Kapta Space A 轮融资 2400 万美元，用于构建移动目标雷达有效载荷"
+     "zh": "独家：Kapta Space 筹集了 2400 万美元的 A 轮融资，用于构建移动目标雷达有效载荷"
     },
     {
      "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
@@ -1606,7 +1606,7 @@
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击"
+     "zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击"
     },
     {
      "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -1729,6 +1729,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Anthropic is out with new nonsense about Claude",
+     "link": "https://dair-community.social/@emilymbender/117412868905734653",
+     "pubDate": "Sun, 11 Oct 2026 18:16:54 +0000",
+     "summary": "Article URL: https://dair-community.social/@emilymbender/117412868905734653 Comments URL: https://news.ycombinator.com/item?id=50046117 Points: 4 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "《人择》发布了关于克劳德的新废话"
+    },
+    {
      "title": "A look at the economics of Anthropic&apos;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
      "link": "https://www.techmeme.com/261011/p9#a261011p9",
      "pubDate": "Sun, 11 Oct 2026 14:15:02 -0400",
@@ -1737,10 +1745,26 @@
      "zh": "看一下 Anthropic 数据中心租赁的经济性，分析师估计 245 MW 站点的收益约为 1.3B/月；消息人士称，它与 IREN 签署了一项云协议（Ann Davis Vaughan/The Information）"
     },
     {
+     "title": "Total Annihilation, rebuilt for modern computers",
+     "link": "https://nanolathe.gg",
+     "pubDate": "Sun, 11 Oct 2026 18:04:47 +0000",
+     "summary": "Article URL: https://nanolathe.gg Comments URL: https://news.ycombinator.com/item?id=50045984 Points: 28 # Comments: 12",
+     "source": "Hacker News",
+     "zh": "彻底歼灭，为现代计算机重建"
+    },
+    {
+     "title": "NYC's \"Click to Cancel\" rule is now in effect",
+     "link": "https://www.nyc.gov/main/click-to-cancel",
+     "pubDate": "Sun, 11 Oct 2026 18:01:16 +0000",
+     "summary": "Article URL: https://www.nyc.gov/main/click-to-cancel Comments URL: https://news.ycombinator.com/item?id=50045946 Points: 13 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "纽约市的“点击取消”规则现已生效"
+    },
+    {
      "title": "We're unlocking the biggest mysteries of the clitoris",
      "link": "https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2",
      "pubDate": "Sun, 11 Oct 2026 17:56:13 +0000",
-     "summary": "Article URL: https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2 Comments URL: https://news.ycombinator.com/item?id=50045895 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2 Comments URL: https://news.ycombinator.com/item?id=50045895 Points: 22 # Comments: 2",
      "source": "Hacker News",
      "zh": "我们正在解开阴蒂最大的谜团"
     },
@@ -1756,7 +1780,7 @@
      "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit",
      "link": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
      "pubDate": "Sun, 11 Oct 2026 17:40:42 +0000",
-     "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns Comments URL: https://news.ycombinator.com/item?id=50045735 Points: 16 # Comments: 5",
+     "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns Comments URL: https://news.ycombinator.com/item?id=50045735 Points: 46 # Comments: 17",
      "source": "Hacker News",
      "zh": "YouTuber 制作“类似羊群”的摄像头来追踪警车，吸引警察上门"
     },
@@ -1788,7 +1812,7 @@
      "title": "apsw: Another Python SQLite Wrapper",
      "link": "https://github.com/rogerbinns/apsw",
      "pubDate": "Sun, 11 Oct 2026 16:58:22 +0000",
-     "summary": "Article URL: https://github.com/rogerbinns/apsw Comments URL: https://news.ycombinator.com/item?id=50045273 Points: 11 # Comments: 2",
+     "summary": "Article URL: https://github.com/rogerbinns/apsw Comments URL: https://news.ycombinator.com/item?id=50045273 Points: 19 # Comments: 5",
      "source": "Hacker News",
      "zh": "apsw：另一个 Python SQLite 包装器"
     },
@@ -1825,14 +1849,6 @@
      "zh": "Yandex 表示，无人机袭击关闭了第三个数据中心，中断了 Yandex Cloud 和 YandexGPT 等 80 多项服务；用户报告银行和出租车应用程序中断（Tymur Dubovyk/基辅邮报）"
     },
     {
-     "title": "How to Build Wealth as a Career Person",
-     "link": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
-     "pubDate": "Sun, 11 Oct 2026 16:03:58 +0000",
-     "summary": "Article URL: https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/ Comments URL: https://news.ycombinator.com/item?id=50044715 Points: 20 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "作为职业人士如何积累财富"
-    },
-    {
      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
      "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
      "pubDate": "Sun, 11 Oct 2026 16:00:00 +0000",
@@ -1847,14 +1863,6 @@
      "summary": "IT之家 10 月 11 日消息，一加中国区总裁李杰今日在微博评论区回应关于一加 16 屏幕刷新率相关问题， 据其介绍，一加 16 追求体验优先，不是参数优先。要同时兼顾流畅，功耗，发热，屏幕显示效果，现在的屏幕技术 暂时做不到全局 185Hz 。全局高刷要做到常用常开，目前最佳体验就是全局 165Hz，欢迎大家上手一加 16 去对比其他手机。 IT之家注意到，在 10 月 9 日的第四代东方屏技术沟通会上，一加与京东方联合研发的第四代东方屏正式发布。第四代东方屏采用全新 X4 发光材料，宣称“色彩准、高刷稳、画面亮、功耗低、寿命长”；支持真硬件 1nit，夜间看屏幕，柔和不刺眼。 第四代东方",
      "source": "IT之家",
      "zh": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到"
-    },
-    {
-     "title": "How I reverse engineered a commercial spatial audio effect",
-     "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
-     "pubDate": "Sun, 11 Oct 2026 15:21:58 +0000",
-     "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/ Comments URL: https://news.ycombinator.com/item?id=50044272 Points: 33 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "我如何逆向设计商业空间音频效果"
     },
     {
      "title": "曝苹果新一代 Apple TV 4K 内置麦克风、Siri Remote 遥控器将配扬声器便于查找",
@@ -1921,14 +1929,6 @@
      "zh": "Prime Video 在 NYCC 发布《银翼杀手 2099》完整预告片"
     },
     {
-     "title": "I'm sorry, but you still have to think",
-     "link": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
-     "pubDate": "Sun, 11 Oct 2026 14:29:07 +0000",
-     "summary": "Article URL: https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/ Comments URL: https://news.ycombinator.com/item?id=50043689 Points: 112 # Comments: 37",
-     "source": "Hacker News",
-     "zh": "对不起，但你还是要想想"
-    },
-    {
      "title": "英国水果蔬菜营养价值下降最高五成",
      "link": "https://www.solidot.org/story?sid=85580",
      "pubDate": "Sun, 11 Oct 2026 22:27:04 +0800",
@@ -1977,12 +1977,28 @@
    "total": 7,
    "items": [
     {
+     "title": "The iPhone clock app has an oddity not many people know about",
+     "link": "https://www.engadget.com/2281209/iphone-clock-app-oddity-time-linear-list/",
+     "pubDate": "Sun, 11 Oct 2026 18:45:00 +0000",
+     "summary": "Sure, you can set your iPhone's alarm to any time you choose. But there's a hidden limit to how far your choices will stretch, though most users won't reach it.",
+     "source": "Engadget",
+     "zh": "iPhone 时钟应用程序有一个鲜为人知的奇怪之处"
+    },
+    {
+     "title": "Steam Frame teardown reveals one problem with its future repairs",
+     "link": "https://www.engadget.com/2281207/steam-frame-teardown-reveals-one-problem-repairs/",
+     "pubDate": "Sun, 11 Oct 2026 18:30:00 +0000",
+     "summary": "In an otherwise repairable device, the cooling fan is hard to reach.",
+     "source": "Engadget",
+     "zh": "Steam Frame 拆解揭示了其未来维修的一个问题"
+    },
+    {
      "title": "The meaning behind the padlock symbol in your PlayStation 5 game library",
      "link": "https://www.engadget.com/2281153/playstation-5-game-library-padlock-symbol-meaning-explained/",
      "pubDate": "Sun, 11 Oct 2026 18:00:00 +0000",
      "summary": "Digital game licenses aren't perfect, which is why you might see a padlock icon blocking you from PS5 games.",
      "source": "Engadget",
-     "zh": "PlayStation 5 游戏库中挂锁符号的含义"
+     "zh": "PlayStation 5 游戏库中挂锁符号背后的含义"
     },
     {
      "title": "The original Apple TV 4K from 2017 is now officially \"vintage\"",
@@ -2030,23 +2046,7 @@
      "pubDate": "Sun, 11 Oct 2026 16:15:00 +0000",
      "summary": "If you have a lot of cameras in your home, get ready to pay for more expensive iCloud+ plans.",
      "source": "Engadget",
-     "zh": "Apple Home 针对安全摄像头的新人工智能摘要的成本比你想象的要高"
-    },
-    {
-     "title": "Here's how long your Google Pixel phone will get software updates",
-     "link": "https://www.engadget.com/2281041/how-long-google-pixel-phone-get-software-updates/",
-     "pubDate": "Sun, 11 Oct 2026 15:45:00 +0000",
-     "summary": "Your Google Pixel phone has a set lifetime of support based on when it first went on sale. After that, you have few options for using it securely.",
-     "source": "Engadget",
-     "zh": "这是您的 Google Pixel 手机获得软件更新的时间长度"
-    },
-    {
-     "title": "The hidden features every Waze user should know about",
-     "link": "https://www.engadget.com/2280999/waze-hidden-features-users-should-know/",
-     "pubDate": "Sun, 11 Oct 2026 15:15:00 +0000",
-     "summary": "There are a load of features tucked away in Google's 'other' mapping app.",
-     "source": "Engadget",
-     "zh": "每个位智用户都应该了解的隐藏功能"
+     "zh": "Apple Home 针对安全摄像头的新人工智能摘要成本比你想象的要高"
     },
     {
      "title": "Report: HomePod mini 2 to release on October 30 with these upgrades",
@@ -2110,7 +2110,7 @@
      "pubDate": "Sun, 11 Oct 2026 13:31:02 +0200",
      "summary": "While Amazon’s Prime Big Deal Days have wrapped up, discounts are still available on several smartphones. In fact, some devices that received few or no notable discounts during the sale are now available at reduced prices. Samsung’s Galaxy S26 Ultra, Apple’s iPhone 17 Pro lineup, and the entire Goog",
      "source": "GSMArena",
-     "zh": "特惠：三星、苹果、谷歌旗舰手机大优惠"
+     "zh": "特惠：三星、苹果、谷歌旗舰手机大幅折扣"
     },
     {
      "title": "I’ve tried all the major to-do list apps but keep coming back to this one",
@@ -2225,6 +2225,30 @@
    "total": 13,
    "items": [
     {
+     "title": "泽连斯基称支持“能源停火” 乌武装部队已收到相关命令",
+     "link": "http://finance.eastmoney.com/news/11790,202610123892138647.html",
+     "pubDate": "Mon, 12 Oct 2026 02:37:45 +0800",
+     "summary": "乌克兰总统泽连斯基当地时间10月11日表示，乌克兰“支持切实可行、可靠的停火和结束战争的方式”，乌方“愿意不对俄罗斯能源设施发动打击，并期待俄罗斯采取同样行动”。他表示，美国总统特朗普已宣布达成能源停火安排，乌方对此表示欢迎，并希望这一安排能够真正落实。泽连斯基还说，乌克兰武装部队已收到相关命令。乌方正等待美国与俄罗斯对话的具体细节，并期待俄罗斯总统普京履行特朗普所说的相关承诺。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "泽连斯基称支持“能源停火” 乌武装部队已收到相关命令"
+    },
+    {
+     "title": "传统投行“黄昏已至” 产业保代如日方升",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892136190.html",
+     "pubDate": "Mon, 12 Oct 2026 02:26:02 +0800",
+     "summary": "传统投行式微，不仅体现在通道业务的规模收缩上，还体现在行业遭遇的人才困境中。 伴随通道业务收窄、新兴产业崛起，投行对人才的能力要求正在向上变化——懂产业、懂跨境，成为新的能力坐标。 保代吸引力不如从前 据证券时报记者对各家券商的不完全统计，截至目前，今年全行业新注册的保荐代表人至少135名，超六成券商未有新注册保代，而今年以来仅新注册1—2名保代的券商多达23家。 从部分券商的情况来看，新注册保代数量逐年递减的趋势尤为明显。以 中信证券 为例，根据证券时报记者统计，该机构2023年新注册的保代有38人，2024年降至28人，2025年进一步减少至17人，2026年前三季度仅4人。华东某中型券商",
+     "source": "东方财富股票",
+     "zh": "传统投行“黄昏已至” 产业保代如日方升"
+    },
+    {
+     "title": "泽连斯基“一再拒绝停止袭击俄炼油厂”触怒特朗普",
+     "link": "http://finance.eastmoney.com/news/1356,202610123892138553.html",
+     "pubDate": "Mon, 12 Oct 2026 02:21:02 +0800",
+     "summary": "据新华社报道，根据英国和美国媒体10日的披露，由于乌克兰总统泽连斯基一再拒绝按照美方要求停止袭击俄罗斯炼油厂，美方随后与俄方就能源供应达成一致，并且警告乌方可能停止美乌情报合作。 据英国《金融时报》报道，美国和乌克兰代表9日在美国佛罗里达州迈阿密举行近8小时的会谈。其间，美国总统特使威特科夫和特朗普女婿库什纳表示，若乌方不按照美方要求停止袭击俄方炼油厂，美方可能中断情报共享。一名参与会谈的乌方人员说，这是特朗普的“坚定要求”。 就在会谈当天，特朗普宣布，他同俄罗斯总统普京就俄向美国及全球市场提供柴油达成一致。俄方当天也宣布，普京同特朗普通话，确认俄将向美国和全球市场提供石油和石油产品。 一名乌",
+     "source": "东方财富股票",
+     "zh": "泽连斯基“一再拒绝停止袭击俄炼油厂”触怒特朗普"
+    },
+    {
      "title": "苏丹北部矿区遇袭 已致72人死亡",
      "link": "http://finance.eastmoney.com/news/1351,202610123892138255.html",
      "pubDate": "Mon, 12 Oct 2026 02:16:57 +0800",
@@ -2239,22 +2263,6 @@
      "summary": "2025年纸浆市场供需相对宽松，期现货价格波动给企业经营带来挑战。市场行情存在不确定性，单纯依靠 期货 套期保值的模式已经难以充分应对，行业沿用已久的传统风险管理手段因此面临现实考验。纸浆产业链风险管理迫切需要跳出被动防御的固有思路，向精细化、多元化的主动管理模式转型。 安徽无攸科技有限公司（以下简称“无攸科技”）是纸浆供应链领域的创新型科技企业。面对传统风控工具的局限性，企业联合银河 期货 ，落地“ 期货 +场外期权”组合风险管理策略，解决持仓成本高、收益来源单一等痛点，成为纸浆产业风险管理模式迭代升级的典型样本。 传统风控管理方案 存在一定局限 记者从无攸科技了解到，2025年纸浆市场价格",
      "source": "东方财富股票",
      "zh": "期货+场外期权组合发力 纸浆企业实现库存主动管理"
-    },
-    {
-     "title": "伊朗军方：在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标",
-     "link": "http://finance.eastmoney.com/news/1356,202610123892138321.html",
-     "pubDate": "Mon, 12 Oct 2026 02:10:37 +0800",
-     "summary": "伊朗伊斯兰革命卫队海军当地时间11日宣布，所有在霍尔木兹海峡关闭导航和识别系统的船只将被视为“敌对目标”，并将受到严厉而果断的处置。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "伊朗军方：在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标"
-    },
-    {
-     "title": "泽连斯基回应：“能源停火”对他来说也是个新闻",
-     "link": "http://finance.eastmoney.com/news/1351,202610123892138159.html",
-     "pubDate": "Mon, 12 Oct 2026 02:10:03 +0800",
-     "summary": "据新华社报道，乌克兰总统泽连斯基11日对美国阿克西奥斯新闻网站说，乌克兰和俄罗斯的“能源停火”对他来说也是个新闻。 泽连斯基说，如果俄罗斯人同意能源停火，乌克兰就会同意。如果美总统特朗普与俄总统普京谈成了，请告诉乌克兰停火何时开始。他说：“我们准备好了，我们会接受。” 特朗普11日在社交媒体发文称，即刻起，俄乌冲突进入“能源停火”状态，双方均已同意。 此外，泽连斯基11日就特朗普有关乌克兰换总统的言论回应说，乌克兰选择哪位领导人应由其社会和人民决定。 泽连斯基在接受美国广播公司采访时说：“特朗普总统说乌克兰需要一位新总统。恕我直言，特朗普总统，选择哪位领导人，应由我们的社会、我们的人民决定。”",
-     "source": "东方财富股票",
-     "zh": "泽连斯基回应：“能源停火”对他来说也是个新闻"
     },
     {
      "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
@@ -2455,14 +2463,6 @@
      "summary": "Commissioner Adam Silver says the NBA could begin using a new \"smart ball\" in games as soon as next year, potentially transforming how officials make calls.",
      "source": "CNBC",
      "zh": "NBA总裁亚当·萧华表示联盟最早可能在明年引入“智能球”技术"
-    },
-    {
-     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 12:30:00 GMT",
-     "summary": "“I presume these are sophisticated investors taking a profit.”",
-     "source": "MarketWatch",
-     "zh": "“我感觉自己像个失败者”：我的股票投资组合剧烈波动。终于到了担心的时候了吗？"
     }
    ]
   },

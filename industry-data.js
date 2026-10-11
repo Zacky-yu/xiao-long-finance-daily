@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 16:51:56",
+ "generated_at": "2026/10/11 17:14:54",
  "recent_days": 7,
  "industries": [
   {
@@ -314,14 +314,6 @@ window.INDUSTRY_DATA = {
      "zh": "Hyper-NA EUV: The Next Frontier in Chipmaking Could Arrive in 2036"
     },
     {
-     "title": "Jury still out in Qualcomm vs Arm case",
-     "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
-     "pubDate": "Sat, 10 Oct 2026 07:20:41 +0000",
-     "summary": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Jury still out in Qualcomm vs Arm case"
-    },
-    {
      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
      "pubDate": "Fri, 09 Oct 2026 22:00:00 +0000",
@@ -346,36 +338,12 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC 2026 OIP Ecosystem Forum Summary"
     },
     {
-     "title": "Defence satcom revenues to surpass $23bn by 2035",
-     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
-     "source": "Electronics Weekly",
-     "zh": "Defence satcom revenues to surpass $23bn by 2035"
-    },
-    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
-    },
-    {
-     "title": "Axiom Space highlights space computing progress",
-     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
-     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
-     "source": "Electronics Weekly",
-     "zh": "Axiom Space highlights space computing progress"
-    },
-    {
-     "title": "The Single-Chip PC",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
-     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The Single-Chip PC"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -392,22 +360,6 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
-    },
-    {
-     "title": "Failure analysis in the era of 3D integration",
-     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
-     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Failure analysis in the era of 3D integration"
-    },
-    {
-     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
-     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
-     "source": "Electronics Weekly",
-     "zh": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
+    },
+    {
+     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
+     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
+     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
+     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
+    },
+    {
+     "title": "Shift Left Complicates Fab Data Management",
+     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
+     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
+     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Shift Left Complicates Fab Data Management"
+    },
+    {
+     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
+     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -1722,6 +1722,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "理想汽车欧洲战略发布会官宣明晚举行，理想 i6 将亮相法国巴黎",
+     "link": "https://www.ithome.com/1/011/639.htm",
+     "pubDate": "Sun, 11 Oct 2026 09:01:12 GMT",
+     "summary": "IT之家 10 月 11 日消息，理想汽车今日官宣欧洲战略发布会暨理想 i6 欧洲首秀将于北京时间明晚 19:30 举行，理想 i6 即将亮相法国巴黎。 IT之家注意到， 2026 款理想 i6 是理想首款纯电全球车 ，10 月 12 日将在巴黎车展完成欧洲首秀，后续将在欧洲市场上市交付。从整车到关键零部件，包括自研电机、电池、芯片等，均按照全球标准打造。安全方面，2026 款理想 i6 同样按照 Euro NCAP 五星安全标准开发，在欧洲上市后也会接受 Euro NCAP 的正式测试。 今日，全国 485 家门店将同步开启 2026 款理想 i6 的静态体验。10 月 28 日，2026 ",
+     "source": "IT之家",
+     "zh": "理想汽车欧洲战略发布会官宣明晚举行，理想 i6 将亮相法国巴黎"
+    },
+    {
+     "title": "California’s Tallest and Most Iconic Trees Are Getting Heatstroke",
+     "link": "https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/",
+     "pubDate": "Sun, 11 Oct 2026 09:00:00 +0000",
+     "summary": "Redwoods adapted to a cool, foggy climate. Now a new study shows they slow down photosynthesis when their environment warms.",
+     "source": "WIRED",
+     "zh": "California’s Tallest and Most Iconic Trees Are Getting Heatstroke"
+    },
+    {
+     "title": "美国国家橄榄球联盟“纽约巨人队”将旗下赛事视频 360 度全景 VR 化，观众可体验沉浸式球场",
+     "link": "https://www.ithome.com/1/011/638.htm",
+     "pubDate": "Sun, 11 Oct 2026 08:57:27 GMT",
+     "summary": "IT之家 10 月 11 日消息，美国国家橄榄球联盟（NFL）纽约巨人队宣布将旗下赛事视频 360 度全景 VR 化，球迷可以通过球队官方移动应用和 YouTube 频道观看沉浸式画面，体验以往难以接触到的现场视角。 纽约巨人队数字战略副总裁 David Dominik 表示，球迷一直希望能够离开看台、走进球场，因此球队希望通过数字内容尽可能还原这种体验。相应赛事视频主要使用 GoPro 相机录制， 原始素材长度通常为 20 分钟，之后赛事摄制人员会将其剪辑为 3 至 4 分钟的精彩片段 ，让球迷获得身临其境的效果。 Dominik 认为，纽约巨人队有时会被认为过于传统保守，因此目前市场营销部",
+     "source": "IT之家",
+     "zh": "美国国家橄榄球联盟“纽约巨人队”将旗下赛事视频 360 度全景 VR 化，观众可体验沉浸式球场"
+    },
+    {
      "title": "四部门为汽车安全划定红线：明确汽车设计、可靠性验证试验管理，研发测试要包含两冬一夏",
      "link": "https://www.ithome.com/1/011/637.htm",
      "pubDate": "Sun, 11 Oct 2026 08:49:06 GMT",
@@ -1754,22 +1778,6 @@ window.INDUSTRY_DATA = {
      "zh": "小米 REDMI 显示器 A27U 2027 款发售：27 英寸 4K 75Hz，1199 元"
     },
     {
-     "title": "跻身全球第一梯队：华为 × 华东师大联合研发时序预测基础模型，登顶国际权威时序测评双榜单",
-     "link": "https://www.ithome.com/1/011/631.htm",
-     "pubDate": "Sun, 11 Oct 2026 08:30:53 GMT",
-     "summary": "IT之家 10 月 11 日消息，据华为云官方消息，近日，华为公司 (华为云行业大模型团队 + 2012 应用场景创新实验室 + 小巧灵突击队) 与华东师范大学联合团队研发的昇腾原生时序预训练模型取得重磅突破， 成功登顶国际权威时序评测榜单 TIME-leaderboard 和 GIFT-Eval（Pretrained 类目） 。 ▲ TIME 评测榜单 ▲ GIFT-Eval 榜单（Pretrained 类目） 据介绍，时序基础模型作为人工智能赋能气象预测、能源调度、工业运维、金融分析等核心场景的关键技术底座， 是当下 AI 基础研究与产业落地的核心赛道 。研发团队基于华为昇腾生态，完成了模",
-     "source": "IT之家",
-     "zh": "跻身全球第一梯队：华为 × 华东师大联合研发时序预测基础模型，登顶国际权威时序测评双榜单"
-    },
-    {
-     "title": "小米有品上架 Yeelight 全光谱智能人体存在面板灯 M4 众筹：提供 30x30/30x60mm 双规格，109 元起",
-     "link": "https://www.ithome.com/1/011/630.htm",
-     "pubDate": "Sun, 11 Oct 2026 08:29:42 GMT",
-     "summary": "IT之家 10 月 11 日消息，Yeelight 现已在小米有品上架全光谱智能人体存在面板灯 M4 众筹（ 点此访问 ），该产品提供 30x30cm 与 30x60cm 两种规格，其中 24W 款式适配 8 至 12m² 空间， 定价为 109 元 ，36W 款式适配 12 至 18m² 空间， 定价为 149 元 。 系列面板灯采用全塑一体成型灯体，边框厚度薄至 2mm，具备 IP54 防护等级，内置 24G 雷达与光照双传感器，在 2.5m 安装高度下感应范围可达 10m。号称能够精准捕捉人体微动，实现人来灯亮与人走灯灭，并支持 AI 环境自适应以降低误触风险。 系列面板灯搭载蓝牙 Me",
-     "source": "IT之家",
-     "zh": "小米有品上架 Yeelight 全光谱智能人体存在面板灯 M4 众筹：提供 30x30/30x60mm 双规格，109 元起"
-    },
-    {
      "title": "科技商学院该看懂的科学家创业：技术很强，为什么公司还是显得“乱”？",
      "link": "https://www.huxiu.com/article/4896615.html?f=rss",
      "pubDate": "Sun, 11 Oct 2026 16:17:02 +0800",
@@ -1789,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "I wish you the best in the Offline",
      "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
      "pubDate": "Sun, 11 Oct 2026 07:53:42 +0000",
-     "summary": "Article URL: https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/ Comments URL: https://news.ycombinator.com/item?id=50040625 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/ Comments URL: https://news.ycombinator.com/item?id=50040625 Points: 15 # Comments: 0",
      "source": "Hacker News",
      "zh": "I wish you the best in the Offline"
     },
@@ -1805,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "3rd Yandex Cloud Data Center Was Hit",
      "link": "https://status.yandex.cloud/en/incidents/2136",
      "pubDate": "Sun, 11 Oct 2026 07:34:45 +0000",
-     "summary": "Article URL: https://status.yandex.cloud/en/incidents/2136 Comments URL: https://news.ycombinator.com/item?id=50040547 Points: 108 # Comments: 118",
+     "summary": "Article URL: https://status.yandex.cloud/en/incidents/2136 Comments URL: https://news.ycombinator.com/item?id=50040547 Points: 150 # Comments: 168",
      "source": "Hacker News",
      "zh": "3rd Yandex Cloud Data Center Was Hit"
     },
@@ -1837,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "LineageOS 24.0",
      "link": "https://lineageos.org/Changelog-32/",
      "pubDate": "Sun, 11 Oct 2026 06:18:59 +0000",
-     "summary": "Article URL: https://lineageos.org/Changelog-32/ Comments URL: https://news.ycombinator.com/item?id=50040276 Points: 10 # Comments: 0",
+     "summary": "Article URL: https://lineageos.org/Changelog-32/ Comments URL: https://news.ycombinator.com/item?id=50040276 Points: 22 # Comments: 3",
      "source": "Hacker News",
      "zh": "LineageOS 24.0"
     },
@@ -1941,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
      "link": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
      "pubDate": "Sun, 11 Oct 2026 03:21:07 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU Comments URL: https://news.ycombinator.com/item?id=50039536 Points: 75 # Comments: 20",
+     "summary": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU Comments URL: https://news.ycombinator.com/item?id=50039536 Points: 79 # Comments: 20",
      "source": "Hacker News",
      "zh": "GameBoy on E-Paper ESP32 at 30FPS [video]"
     },
@@ -1949,17 +1957,9 @@ window.INDUSTRY_DATA = {
      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
      "pubDate": "Sun, 11 Oct 2026 02:02:38 +0000",
-     "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 87 # Comments: 66",
+     "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 89 # Comments: 67",
      "source": "Hacker News",
      "zh": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter"
-    },
-    {
-     "title": "PSPi 6 – Raspberry Pi in a PSP",
-     "link": "https://github.com/othermod/PSPi-Version-6",
-     "pubDate": "Sun, 11 Oct 2026 00:45:49 +0000",
-     "summary": "Article URL: https://github.com/othermod/PSPi-Version-6 Comments URL: https://news.ycombinator.com/item?id=50038623 Points: 79 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "PSPi 6 – Raspberry Pi in a PSP"
     }
    ]
   },
@@ -1969,6 +1969,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "5 AI apps you should use instead of Meta Muse",
+     "link": "https://www.androidauthority.com/best-meta-muse-alternatives-3719671/",
+     "pubDate": "Sun, 11 Oct 2026 09:00:44 +0000",
+     "summary": "Meta's cute AI agent isn't your only option.",
+     "source": "Android Authority",
+     "zh": "5 AI apps you should use instead of Meta Muse"
+    },
     {
      "title": "Weekly poll: are you interested in the Samsung Galaxy Tab S12+ or Galaxy Tab S12 Ultra?",
      "link": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_samsung_galaxy_tab_s12_or_galaxy_tab_s12_ultra-news-74958.php",
@@ -2200,14 +2208,6 @@ window.INDUSTRY_DATA = {
      "summary": "把决定使用时长的时机，放到每次打开应用之前。 查看全文",
      "source": "少数派",
      "zh": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点"
-    },
-    {
-     "title": "Google releases a free tool to check for an increasingly common AI watermark",
-     "link": "https://www.dpreview.com/news/google-free-synthid-detector-released-public-ai-images/",
-     "pubDate": "Sat, 10 Oct 2026 01:52:49 +0000",
-     "summary": "SynthID Detector has its limitations, but is an important part of an ecosystem.",
-     "source": "DPReview",
-     "zh": "Google releases a free tool to check for an increasingly common AI watermark"
     }
    ]
   },
@@ -2217,54 +2217,6 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
-    {
-     "title": "云顶集团在马来亚银行的评级被下调至卖出 价格为1.49马币",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892070286.html",
-     "pubDate": "Sun, 11 Oct 2026 16:40:27 +0800",
-     "summary": "云顶集团在马来亚 银行 的评级被下调至卖出，价格为1.49马币。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "云顶集团在马来亚银行的评级被下调至卖出 价格为1.49马币"
-    },
-    {
-     "title": "牧原股份：9月商品猪销售收入85.20亿元，同比下降6.01%",
-     "link": "http://stock.eastmoney.com/news/11219,202610113892070010.html",
-     "pubDate": "Sun, 11 Oct 2026 16:36:07 +0800",
-     "summary": "南财智讯10月11日电， 牧原股份 公告，2026年9月份，公司销售商品猪642.3万头，同比增长15.24%；商品猪销售收入85.20亿元，同比下降6.01%；商品猪销售均价10.36元/公斤，同比下降19.57%。2026年1-9月，公司累计销售商品猪5873.0万头，累计销售收入768.17亿元。此外，9月份公司全资子公司牧原肉食品有限公司及其子公司屠宰生猪301.5万头。截至2026年9月末，公司能繁母猪存栏为297.4万头。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "牧原股份：9月商品猪销售收入85.20亿元，同比下降6.01%"
-    },
-    {
-     "title": "天邦食品：9月份商品猪销售收入4.62亿元 环比下降6.22%",
-     "link": "http://stock.eastmoney.com/news/11215,202610113892070156.html",
-     "pubDate": "Sun, 11 Oct 2026 16:34:00 +0800",
-     "summary": "天邦食品 (002124)10月11日公告，公司2026年9月份销售商品猪50.34万头（其中仔猪销售9.22万头），销售收入4.62亿元，销售均价9.97元/公斤（商品肥猪均价为10.03元/公斤），环比变动分别为-19.13%、-6.22%、-3.52%。2026年1—9月销售商品猪571.95万头（其中仔猪销售206.02万头），销售收入47.94亿元，销售均价10.75元/公斤（商品肥猪均价为10.17元/公斤），同比变动分别为23.34%、-21.21%、-31.84%。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "天邦食品：9月份商品猪销售收入4.62亿元 环比下降6.22%"
-    },
-    {
-     "title": "牧原股份：9月份商品猪销售收入85.2亿元 同比下降6.01%",
-     "link": "http://stock.eastmoney.com/news/11215,202610113892069981.html",
-     "pubDate": "Sun, 11 Oct 2026 16:32:00 +0800",
-     "summary": "人民财讯10月11日电， 牧原股份 (002714)10月11日公告，2026年9月份，公司销售商品猪642.3万头，同比增长15.24%；商品猪销售均价10.36元/公斤，同比下降19.57%；商品猪销售收入85.2亿元，同比下降6.01%。 （文章来源：证券时报网）",
-     "source": "东方财富股票",
-     "zh": "牧原股份：9月份商品猪销售收入85.2亿元 同比下降6.01%"
-    },
-    {
-     "title": "广发策略：从出口链景气度 前瞻三季报机会",
-     "link": "http://finance.eastmoney.com/news/1344,202610113892068466.html",
-     "pubDate": "Sun, 11 Oct 2026 16:30:24 +0800",
-     "summary": "我们在《AI的“ 新大陆 ”与外需的“旧地图”》报告中，我们建立了外需跟踪数据库以及研究框架。 8月出口超预期，AI再加速，消费、机电边际修复， 新能源 放缓。 8月出口增速升至25.0%，AI链出口增速还在提高，比如光模块、存储、CCL、 电子 布等；非AI链， 新能源 出口增速走低、资源品增速回升至11.4%，机电设备和消费品仍维持15%-20%的增速，同时增速边际回暖的消费品也在变多。 68大单品中，景气周期位置四象限的分布是： 上行区以AI品种+非AI修复品种为主；高位震荡区多为AI 相关涨价品；下行区集中在 新能源 品类；磨底的主要是地产链相关耐用消费品。景气上行的非AI品种主要受海",
-     "source": "东方财富股票",
-     "zh": "广发策略：从出口链景气度 前瞻三季报机会"
-    },
-    {
-     "title": "盛天网络：拟将云游戏服务平台项目剩余募资变更用于武汉综合运营中心项目等",
-     "link": "http://stock.eastmoney.com/news/11215,202610113892069437.html",
-     "pubDate": "Sun, 11 Oct 2026 16:30:05 +0800",
-     "summary": "盛天网络 (300494)10月11日公告，公司拟将云游戏服务平台项目剩余募集资金中的8562万元变更用于“武汉 综合 运营中心项目”，购置位于武汉市东湖新技术开发区光谷大道77号光谷金融港A12栋办公楼并进行适应性改造，建成后将形成较为宽裕的自有办公空间，同时满足公司业务发展所需的算力、网络、演播等各类 综合 功能需求。将云游戏服务平台项目剩余募集资金中的3000万元变更用于补充流动资金，以满足公司日常经营和业务发展的资金需求。变更募投项目的原因为云游戏行业环境发生较大变化，原项目继续投入的产出不及预期。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "盛天网络：拟将云游戏服务平台项目剩余募资变更用于武汉综合运营中心项目等"
-    },
     {
      "title": "领个红包“顺手”开了户？券商与平台合作获客，合规边界待厘清",
      "link": "http://www.eeo.com.cn/2026/1011/1060909.shtml",
@@ -2288,6 +2240,14 @@ window.INDUSTRY_DATA = {
      "summary": "第1眼TV-华龙网讯（首席记者 刘艳）货车司机企图强行冲卡，躲避超限检查，最终因多项违法行为叠加面临处罚。10月11日，重庆交通执法总队通报一起典型违法案例，执法部门联合公安，仅用两小时就成功查获冲卡违法货车。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/F1A0E02E82FE75B1295CF6C08129B8B5.png\" alt=\"超限货车被查处。受访者供图\" data-title=\"超限货车被查处。受访者供图\" data-...",
      "source": "经济观察网",
      "zh": "严查超限运输 违法货车两小时内被查获"
+    },
+    {
+     "title": "美股接近历史高点，机构却忧虑重重！高盛合伙人：不要跟市场对抗",
+     "link": "https://wallstreetcn.com/articles/3783368",
+     "pubDate": "Sun, 11 Oct 2026 16:07:20 +0800",
+     "summary": "美股在接近历史高点之际，市场内部的结构性分化正在达到极端水平，机构投资者的担忧情绪也随之升温。 高盛合伙人Wilson在最新报告中坚持看多立场，建议投资者不要对抗市场的高度集中性，并预计年底前股市仍有上涨空间。然而，来自高盛内部及摩根士丹利、美银等机构的多位策略师对此提出异议，认为宏观环境趋难、科技板块定位已不再是顺风，市场风险正在积聚。 这场多空分歧的核心在于：当前美股盈利增长高度依赖极少数个股，市场广度持续恶化，而债券市场的波动与能源价格的不确定性，随时可能成为打破平静的导火索。 盈利增长极度集中，两只股票撑起三分之一 当前美股盈利结构的集中程度已达到本轮周期的峰值。 据高盛策略师Ben ",
+     "source": "华尔街见闻",
+     "zh": "美股接近历史高点，机构却忧虑重重！高盛合伙人：不要跟市场对抗"
     },
     {
      "title": "视频｜第三届川渝集体婚礼甜度拉满 60对新人许下相守承诺",
@@ -2370,14 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "US hits commercial tanker in Gulf of Oman as tensions flare"
     },
     {
-     "title": "三星明年存储产量的80%已被长协锁定",
-     "link": "https://wallstreetcn.com/articles/3783361",
-     "pubDate": "Sun, 11 Oct 2026 13:11:42 +0800",
-     "summary": "三星电子明年约80%的存储芯片产能已通过长期供应协议提前锁定 ，科技巨头争抢剩余产能的格局折射出AI基础设施军备竞赛的白热化程度。 据韩国经济日报本周稍早前报道， 英伟达、谷歌、微软等全球科技巨头已与三星签署覆盖逾五年的芯片供应协议，尚未完成签约的企业正在暗中角力，争夺剩余约20%的产能。 三星电子在二季度业绩电话会议上表示，\"几乎所有主要客户都在申请长协\"，并坦言\"难以响应所有需求\"。 这一趋势已从存储芯片蔓延至AI基础设施全产业链，涵盖多层陶瓷电容（MLCC）、覆晶球栅阵列基板（FC-BGA）、变压器、电力设备及冷却系统。市场议价权正加速向供应商倾斜，20%至25%的预付款及强制采购条款日",
-     "source": "华尔街见闻",
-     "zh": "三星明年存储产量的80%已被长协锁定"
-    },
-    {
      "title": "The problem with your AI therapist",
      "link": "https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1",
      "pubDate": "Sun, 11 Oct 2026 04:00:16 GMT",
@@ -2456,6 +2408,54 @@ window.INDUSTRY_DATA = {
      "summary": "Risk comes in many forms, even with “safe” investments.",
      "source": "MarketWatch",
      "zh": "Should I put my nest egg in a 30-year Treasury bond?"
+    },
+    {
+     "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+     "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
+     "summary": "Parental controls aren’t just for kids anymore",
+     "source": "MarketWatch",
+     "zh": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents."
+    },
+    {
+     "title": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
+     "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
+     "summary": "Don’t just focus on stock picks when you’re thinking of building retirement wealth",
+     "source": "MarketWatch",
+     "zh": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably"
+    },
+    {
+     "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+     "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
+     "summary": "Seven tips for painlessly moving in retirement.",
+     "source": "MarketWatch",
+     "zh": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’"
+    },
+    {
+     "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+     "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
+     "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
+     "source": "MarketWatch",
+     "zh": "Rising interest rates: The good, the bad and the ugly for retirees"
+    },
+    {
+     "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+     "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+     "pubDate": "Sat, 10 Oct 2026 19:44:00 GMT",
+     "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
+     "source": "MarketWatch",
+     "zh": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most."
+    },
+    {
+     "title": "Key deals this week: Option Care Health, PTC, Energy Transfer and more",
+     "link": "https://seekingalpha.com/news/4651908-key-deals-this-week-option-care-health-ptc-energy-transfer-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 10 Oct 2026 15:15:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: Option Care Health, PTC, Energy Transfer and more"
     }
    ]
   },
@@ -2465,6 +2465,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "How did Roman aqueducts get water to go uphill?",
+     "link": "https://www.livescience.com/archaeology/romans/how-did-roman-aqueducts-get-water-to-go-uphill",
+     "pubDate": "Sun, 11 Oct 2026 09:00:00 +0000",
+     "summary": "Roman aqueducts used gravity to transport water. So how did they get it to go uphill?",
+     "source": "Live Science",
+     "zh": "How did Roman aqueducts get water to go uphill?"
+    },
     {
      "title": "Eating olive oil before carbs has a surprising effect on blood sugar",
      "link": "https://www.sciencedaily.com/releases/2026/10/261008102700.htm",
@@ -2536,14 +2544,6 @@ window.INDUSTRY_DATA = {
      "summary": "Car technology is making rapid advances, and the car you will drive in 10 years may be very different from the one you're driving today.",
      "source": "Live Science",
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
-    },
-    {
-     "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
-     "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
-     "source": "Live Science",
-     "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
     },
     {
      "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",

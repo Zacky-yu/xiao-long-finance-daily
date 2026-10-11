@@ -44,6 +44,38 @@
   .gate .err{color:#f85149;font-size:12px;margin-top:10px;min-height:16px}
   .top{display:flex;justify-content:space-between;align-items:center}
   .logout{font-size:12px;color:#7d8590;cursor:pointer;border:1px solid #30363d;border-radius:8px;padding:4px 10px}
+  /* 🗂 大盘板块总览 */
+  .sec{margin-top:20px;background:#161b22;border:1px solid #21262d;border-radius:12px;padding:16px}
+  .sec h2{font-size:15px;margin-bottom:4px}
+  .sec .hint{font-size:11px;color:#7d8590;margin-bottom:12px}
+  .sector-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px}
+  .sector-card{background:#12171e;border:1px solid #21262d;border-radius:10px;padding:12px;cursor:pointer;transition:transform .15s,border-color .15s;position:relative}
+  .sector-card:hover{border-color:#58a6ff;transform:translateY(-2px)}
+  .sector-card .sc-more{position:absolute;top:9px;right:10px;font-size:10px;color:#484f58}
+  .sector-card:hover .sc-more{color:#58a6ff}
+  .sector-card .sc-name{font-weight:600;font-size:13px}
+  .sector-card .sc-pct{font-size:20px;font-weight:700;margin-top:9px}
+  .sector-card .sc-tags{margin-top:8px;display:flex;gap:4px;flex-wrap:wrap}
+  .sector-card .sc-tag{font-size:10px;color:#adbac7;background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:1px 6px}
+  .sector-card .sc-driver{font-size:11px;color:#7d8590;margin-top:7px;line-height:1.4}
+  .sm-mask{position:fixed;inset:0;background:rgba(1,4,9,.8);z-index:1000;display:flex;align-items:center;justify-content:center;padding:16px}
+  .sm{background:#161b22;border:1px solid #30363d;border-radius:14px;max-width:560px;width:100%;max-height:84vh;overflow-y:auto;padding:20px 20px 22px;position:relative;box-shadow:0 24px 70px rgba(0,0,0,.6)}
+  .sm .close{position:absolute;top:12px;right:12px;width:30px;height:30px;border-radius:50%;border:1px solid #30363d;background:#0d1117;color:#adbac7;cursor:pointer;font-size:14px}
+  .sm .close:hover{color:#e6edf3;border-color:#58a6ff}
+  .sm h3{font-size:18px;padding-right:34px}
+  .sm .sm-etf{font-size:11px;color:#7d8590;font-weight:400}
+  .sm .pctrow{font-size:22px;font-weight:700;margin:8px 0 6px}
+  .sm .pctrow .asof{font-size:11px;color:#7d8590;font-weight:400;margin-left:6px}
+  .sm .sum{background:rgba(88,166,255,.1);border-left:3px solid #58a6ff;border-radius:8px;padding:10px 12px;font-size:13px;line-height:1.6;margin:10px 0 4px;color:#c9d1d9}
+  .sm .lbl{font-size:11px;color:#7d8590;letter-spacing:1px;margin:14px 0 6px;text-transform:uppercase}
+  .sm p{font-size:13px;color:#adbac7;line-height:1.75;margin-bottom:8px}
+  .sm ul{list-style:none;padding:0;margin:0}
+  .sm ul li{font-size:13px;color:#adbac7;padding:5px 0 5px 16px;position:relative;border-bottom:1px dashed #21262d}
+  .sm ul li:last-child{border-bottom:none}
+  .sm ul li:before{content:'▸';position:absolute;left:0;color:#58a6ff}
+  .sm .risk{background:rgba(210,153,34,.1);border-left:3px solid #d29922;border-radius:8px;padding:9px 12px;font-size:12px;color:#adbac7;line-height:1.55;margin-top:12px}
+  .sm .foot{margin-top:12px;font-size:11px;color:#7d8590;text-align:center}
+  @media (max-width:640px){ .sector-grid{grid-template-columns:repeat(auto-fill,minmax(120px,1fr))} }
   footer{margin-top:18px;color:#7d8590;font-size:11px;text-align:center;line-height:1.8}
 </style>
 </head>
@@ -68,6 +100,13 @@
       <th>名称 / 代码</th><th>现价</th><th>涨跌</th><th>份额</th><th>成本</th><th>市值</th><th>浮动盈亏</th><th>当日盈亏</th>
     </tr></thead><tbody></tbody></table>
     <div class="ai" id="ai" style="display:none"></div>
+
+    <!-- 🗂 大盘板块总览 -->
+    <div class="sec" id="sectors">
+      <h2>🗂 大盘板块总览 <span style="font-size:11px;color:#7d8590;font-weight:400">点击板块查看分析</span></h2>
+      <div class="hint">💡 涨跌幅盘中实时刷新 · 点击任意板块查看「驱动 / 分析 / 关注点 / 风险」</div>
+      <div class="sector-grid" id="sectorGrid"></div>
+    </div>
   </div>
   <footer>数据源：场内=腾讯行情／场外=天天基金。页面数据为 AES 加密密文，仅本地解密。不构成投资建议。</footer>
 </div>
@@ -124,6 +163,80 @@ function render(data, a) {
 }
 
 let PASS = null, DATA = null;
+let _sectorsData = null;
+const esc = s => String(s==null?'':s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const secCls = p => p>0?'up':(p<0?'down':'flat');
+const secFmt = p => (p>0?'+':'') + p.toFixed(2) + '%';
+
+async function loadSectors() {
+  const grid = $('sectorGrid');
+  if (!grid) return;
+  try {
+    const j = await fetch('sectors.json?_=' + Date.now()).then(r => r.json());
+    if (!j.sectors || !j.sectors.length) { grid.innerHTML = '<div style="color:#7d8590;font-size:12px">暂无板块数据</div>'; return; }
+    _sectorsData = j;
+    grid.innerHTML = j.sectors.map(s =>
+      '<div class="sector-card" onclick="openSector(\'' + esc(s.id) + '\')">'
+      + '<span class="sc-more">分析 ›</span>'
+      + '<div class="sc-name">' + (s.icon||'📊') + ' ' + esc(s.name) + '</div>'
+      + '<div class="sc-pct ' + secCls(s.pct) + '" id="scp_' + esc(s.id) + '">' + secFmt(s.pct) + '</div>'
+      + (s.tags && s.tags.length ? '<div class="sc-tags">' + s.tags.map(t => '<span class="sc-tag">' + esc(t) + '</span>').join('') + '</div>' : '')
+      + (s.driver ? '<div class="sc-driver">' + esc(s.driver) + '</div>' : '')
+      + '</div>').join('');
+    refreshSectorQuotes();
+  } catch (e) {
+    grid.innerHTML = '<div style="color:#7d8590;font-size:12px">板块数据加载失败</div>';
+  }
+}
+
+async function refreshSectorQuotes() {
+  if (!_sectorsData) return;
+  try {
+    const codes = _sectorsData.sectors.map(s => s.code).filter(Boolean);
+    if (!codes.length) return;
+    const txt = new TextDecoder('gbk').decode(await (await fetch('https://qt.gtimg.cn/q=' + codes.join(','))).arrayBuffer());
+    const meta = {};
+    for (const line of txt.split('\n')) {
+      const m = line.match(/v_([^=]+)="([^"]+)"/);
+      if (!m) continue;
+      const f = m[2].split('~');
+      if (f.length < 33) continue;
+      meta[m[1]] = f[32];
+    }
+    for (const s of _sectorsData.sectors) {
+      if (!(s.code in meta)) continue;
+      const p = parseFloat(meta[s.code]);
+      if (isNaN(p)) continue;
+      s.livePct = p;
+      const el = document.getElementById('scp_' + s.id);
+      if (el) { el.textContent = secFmt(p); el.className = 'sc-pct ' + secCls(p); }
+    }
+  } catch (e) { /* keep static values */ }
+}
+
+function openSector(id) {
+  if (!_sectorsData) return;
+  const s = _sectorsData.sectors.find(x => x.id === id);
+  if (!s) return;
+  const p = (typeof s.livePct === 'number') ? s.livePct : s.pct;
+  const asof = (typeof s.livePct === 'number') ? '盘中实时' : ('数据 ' + (_sectorsData.asOf || _sectorsData.date || ''));
+  const mask = document.createElement('div');
+  mask.className = 'sm-mask';
+  mask.onclick = e => { if (e.target === mask) mask.remove(); };
+  mask.innerHTML = '<div class="sm">'
+    + '<button class="close" onclick="this.closest(\'.sm-mask\').remove()">✕</button>'
+    + '<h3>' + (s.icon||'📊') + ' ' + esc(s.name) + ' <span class="sm-etf">' + esc(s.etf||'') + (s.code ? ' · ' + esc(String(s.code).toUpperCase()) : '') + '</span></h3>'
+    + '<div class="pctrow ' + secCls(p) + '">' + secFmt(p) + '<span class="asof">' + esc(asof) + '</span></div>'
+    + (s.summary ? '<div class="sum">💡 ' + esc(s.summary) + '</div>' : '')
+    + (s.driver ? '<div class="lbl">驱动</div><p>' + esc(s.driver) + '</p>' : '')
+    + (s.analysis && s.analysis.length ? '<div class="lbl">分析</div>' + s.analysis.map(x => '<p>' + esc(x) + '</p>').join('') : '')
+    + (s.watch && s.watch.length ? '<div class="lbl">关注点</div><ul>' + s.watch.map(x => '<li>' + esc(x) + '</li>').join('') + '</ul>' : '')
+    + (s.risk ? '<div class="risk">⚠️ 风险提示：' + esc(s.risk) + '</div>' : '')
+    + '<div class="foot">AI 生成 · 仅供研究参考，不构成投资建议</div>'
+    + '</div>';
+  document.body.appendChild(mask);
+}
+
 async function unlock(pass, remember) {
   try {
     const d = await fetchDecrypt(pass);
@@ -131,6 +244,7 @@ async function unlock(pass, remember) {
     $('gate').style.display = 'none'; $('app').style.display = 'block';
     DATA = d;
     render(d, d.analysis);
+    loadSectors();
     if (remember) localStorage.setItem('hj_pass', pass); else localStorage.removeItem('hj_pass');
   } catch (e) {
     $('err').textContent = '口令错误或数据损坏';
@@ -139,12 +253,13 @@ async function unlock(pass, remember) {
 $('go').onclick = () => unlock($('pass').value, true);
 $('pass').addEventListener('keydown', e => { if (e.key === 'Enter') $('go').click(); });
 $('logout').onclick = () => { localStorage.removeItem('hj_pass'); PASS = null; $('gate').style.display='block'; $('app').style.display='none'; $('pass').value=''; };
+document.addEventListener('keydown', e => { if (e.key === 'Escape') { const m = document.querySelector('.sm-mask'); if (m) m.remove(); } });
 
 (async () => {
   const saved = localStorage.getItem('hj_pass');
   if (saved) await unlock(saved, true);
 })();
-setInterval(async () => { if (PASS) { try { const d = await fetchDecrypt(PASS); render(d, d.analysis); } catch(e){} } }, 300000);
+setInterval(async () => { if (PASS) { try { const d = await fetchDecrypt(PASS); render(d, d.analysis); refreshSectorQuotes(); } catch(e){} } }, 300000);
 </script>
 </body>
 </html>

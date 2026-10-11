@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/12 07:09:47",
+ "generated_at": "2026/10/12 07:29:47",
  "recent_days": 7,
  "industries": [
   {
@@ -590,7 +590,7 @@
      "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
      "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
      "source": "Robohub",
-     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与 Kushant Patel"
+     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
     },
     {
      "title": "Cevotec brings robotic composite lamination to South Korea with KCompositeLab partnership",
@@ -718,7 +718,7 @@
      "pubDate": "Sun, 11 Oct 2026 12:16:33 +0000",
      "summary": "Mitusbishi’s North American dealers have been trudging along with an aging, badge-engineered model line for years – but overseas? It’s a different story, and the 459 hp all-wheel drive ASX VR-e electric hot hatch shown here is plug-in proof. more…",
      "source": "Electrek",
-     "zh": "459 马力、3.9 秒内从 0-60 英里加速和全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
+     "zh": "459 马力、3.9 秒内从 0 加速到 60 英里以及全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
     },
     {
      "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
@@ -742,7 +742,7 @@
      "pubDate": "Sat, 10 Oct 2026 14:07:06 +0000",
      "summary": "The limited-time price of the Cruiser 700, including a trade-in subsidy, is 169,800 yuan ($25,220), and firm orders exceeded 10,000 units within the first 12 minutes. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "吉利银河推出漫步者700 与比亚迪、长城汽车争夺越野SUV市场"
+     "zh": "吉利银河推出漫步者700 挑战比亚迪、长城 越野SUV市场"
     },
     {
      "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
@@ -878,7 +878,7 @@
      "pubDate": "Sun, 11 Oct 2026 10:00:00 -0500",
      "summary": "Australia has long been known for its strong coal industry, being one of the world’s largest producers and exporters. While much of the world moves away from coal in favour of cleaner energy sources, Australia is doubling down on its coal production, with plans to extend the life of coal operations ",
      "source": "OilPrice",
-     "zh": "尽管巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
+     "zh": "尽管有巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
     },
     {
      "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
@@ -1390,7 +1390,7 @@
      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
      "summary": "Seattle-based Kapta Space announced a $24M Series A to build next-gen radar payloads designed to track moving targets. The post Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：Kapta Space 筹集了 2400 万美元的 A 轮融资，用于构建移动目标雷达有效载荷"
+     "zh": "独家：Kapta Space A 轮融资 2400 万美元，用于构建移动目标雷达有效载荷"
     },
     {
      "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
@@ -1598,7 +1598,7 @@
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击"
+     "zh": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击"
     },
     {
      "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -1721,6 +1721,46 @@
    "total": 18,
    "items": [
     {
+     "title": "戴尔推出 SE3426DW 曲面显示器：34 英寸 1440P 165Hz，1899 元",
+     "link": "https://www.ithome.com/1/011/724.htm",
+     "pubDate": "Sun, 11 Oct 2026 23:21:40 GMT",
+     "summary": "IT之家 10 月 12 日消息，戴尔 SE3426DW 曲面显示器现已开售， 售价 1899 元 。 这款显示器搭载了一块 34 英寸 WQHD（3440×1440）曲面屏，采用 VA 面板，1500R 曲率；对比度 3000:1，300nits 亮度，色域覆盖 99% sRGB、95% DCI-P3，刷新率 165Hz。 接口方面，这款显示器配备双 HDMI 2.1 TMDS 接口以及 DP 1.4 接口。 IT之家附这款新品详细参数如下： 京东 戴尔（DELL）34 英寸 WQHD 曲面显示器 SE3426DW 1899 元 直达链接",
+     "source": "IT之家",
+     "zh": "戴尔推出 SE3426DW 曲面显示器：34 英寸 1440P 165Hz，1899 元"
+    },
+    {
+     "title": "【钛晨报】剑指“重上市、轻验证”，四部门联合发文划清汽车安全底线；经销商联谊会“批量”解散？茅台回应；蚂蚁“灵光”小范围内测，新版对标“Meta Muse”",
+     "link": "https://www.tmtpost.com/8164570.html",
+     "pubDate": "Mon, 12 Oct 2026 07:20:00 +0800",
+     "summary": "粤芯半导体将于10月13日在创业板上市；尊界：制动踏板升级方案预计10月底确认，11月起陆续启动升级；工业富联：美国337调查涉及公司相关产品处于内部验证评估阶段；苹果iPhone Duo加单30%，iPhone 18 Pro系列总订单量未变；消息称阿斯麦将对韩国零部件涨价10%；证监会召开资本市场和金融形势专家座谈会。",
+     "source": "钛媒体",
+     "zh": "【钛晨报】剑指“重上市、轻验证”，四部门联合发文划清汽车安全底线；经销商联谊会“批量”解散？茅台回应；蚂蚁“灵光”小范围内测，新版对标“Meta Muse”"
+    },
+    {
+     "title": "网易《极限战场》首曝被指 1:1 复刻《使命召唤：战区》引争议，部分 COD 玩家反而叫好",
+     "link": "https://www.ithome.com/1/011/723.htm",
+     "pubDate": "Sun, 11 Oct 2026 23:17:35 GMT",
+     "summary": "IT之家 10 月 12 日消息，网易游戏 10 月 9 日公布了新作《极限战场》，将其定位为“自研极限运动战术射击游戏”，计划登陆 Steam 和移动端，目前尚未公布发售日期，但已确认为免费游玩模式。 据 IGN 今日报道，该游戏首曝后迅速引发海外玩家社区讨论，争议焦点在于它与动视《使命召唤：战区》的高度相似性。有玩家将其称为“对《战区》的 1:1 复刻”，相关话题在 YouTube 和 Reddit 上拥有较高讨论度。 玩家指出的相似之处并不局限于玩法框架，枪械的外观、后坐力和动作表现都与《战区》高度接近，UI 布局、音效风格乃至从高处坠落时第一人称视角的模糊效果，都让《战区》玩家感到“似",
+     "source": "IT之家",
+     "zh": "网易《极限战场》首曝被指 1:1 复刻《使命召唤：战区》引争议，部分 COD 玩家反而叫好"
+    },
+    {
+     "title": "日本首部 IMAX 拍摄电影：《哥斯拉-0.0》终极预告公布，应战经典宿敌基多拉",
+     "link": "https://www.ithome.com/1/011/722.htm",
+     "pubDate": "Sun, 11 Oct 2026 23:13:21 GMT",
+     "summary": "IT之家 10 月 12 日消息，“哥斯拉”新电影、《哥斯拉-1.0》续集《哥斯拉-0.0》今日发布终极预告，这也是日本首部采用 IMAX 拍摄的电影。 电影采用 1.43:1 的 IMAX 全画幅，讲述《哥斯拉-1.0》中哥斯拉袭击两年后世界发生的新灾难。预告中出现了极具辨识度的金色光束，以及一段熟悉的怪兽吼声。这些线索都指向了哥斯拉系列中的经典宿敌 —— 基多拉。 《哥斯拉-0.0》由山崎贵回归执导、编剧、把控视觉效果，神木隆之介、滨边美波回归出演，今年 11 月 3 日在日本上映、11 月 6 日北美上映（包括 IMAX）。 1954 年 11 月 3 日，哥斯拉系列第一部作品《哥斯拉》",
+     "source": "IT之家",
+     "zh": "日本首部 IMAX 拍摄电影：《哥斯拉-0.0》终极预告公布，应战经典宿敌基多拉"
+    },
+    {
+     "title": "小红书明抢二次元了？",
+     "link": "https://www.huxiu.com/article/4896117.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 07:07:07 +0800",
+     "summary": "出品｜虎嗅黄青春频道 作者｜商业消费主笔&nbsp;黄青春 题图｜现场拍摄 10 月 6 日，上海复兴岛，《Goodbye REDLAND》的散场音乐裹着江风漫开，岛上灯光逐次暗下。 冒险岛出口处，NPC、Coser 与工作人员列队站成一排，和离场的玩家挥手、击掌，一句&ldquo;明年再见&rdquo;带着余温落在风里；墙面上&ldquo;回到三次元，也要继续做主角&rdquo;的投影亮起，不少人举着手机驻足，像刚从一场盛大的梦里醒神，一群欢愉的灵魂终于在倒灌的歌声中听到青春的回响。 今年国庆假期，为期五天的 REDLAND，交出了一组陡峭上扬的数据： 超 20 万人登岛，规模较首届翻倍； ",
+     "source": "虎嗅",
+     "zh": "小红书明抢二次元了？"
+    },
+    {
      "title": "Steam 同时在线人数超 4350 万，再创历史新高",
      "link": "https://www.ithome.com/1/011/721.htm",
      "pubDate": "Sun, 11 Oct 2026 23:05:37 GMT",
@@ -1745,26 +1785,42 @@
      "zh": "360 创始人周鸿祎攀岩受伤：左膝粉碎性骨折，未来两三个月取消出差"
     },
     {
-     "title": "奇瑞宣布在马来西亚召回 OMODA 5 车型，启动国内及相关市场同批次车型风险专项排查",
-     "link": "https://www.ithome.com/1/011/718.htm",
-     "pubDate": "Sun, 11 Oct 2026 22:51:35 GMT",
-     "summary": "IT之家 10 月 12 日消息，奇瑞汽车昨晚发布说明，近日，马来西亚发生一起 2023 款 OMODA 5 的车辆问题，未涉及人身伤害。 经调查，该批次车辆可能存在后桥纵臂局部焊接位置焊接强度不足，极端情况下存在焊缝撕裂风险。该结构车型此前已停产。奇瑞马来西亚子公司配合 JPJ（马来西亚陆路交通局）的相关安排， 已对受影响的 OMODA 5 车型启动召回 。 奇瑞汽车表示，本着审慎原则， 已启动国内及相关市场同批次 OMODA 5 车型的风险专项排查 ，并与监管机构保持积极沟通。 据介绍，此次排查为预防性主动安排，奇瑞将依据排查结果，以负责任的态度，及时向社会公布。 IT之家附说明全文如下：",
-     "source": "IT之家",
-     "zh": "奇瑞宣布在马来西亚召回 OMODA 5 车型，启动国内及相关市场同批次车型风险专项排查"
+     "title": "Google Data Centers around the world",
+     "link": "https://datacenters.google/locations/",
+     "pubDate": "Sun, 11 Oct 2026 22:45:40 +0000",
+     "summary": "Article URL: https://datacenters.google/locations/ Comments URL: https://news.ycombinator.com/item?id=50048768 Points: 9 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "世界各地的 Google 数据中心"
     },
     {
-     "title": "Scale AI 创始人汪滔谈创业管理：从亲自决定细节到学会放手，在 Meta 的任务是招揽人才",
-     "link": "https://www.ithome.com/1/011/717.htm",
-     "pubDate": "Sun, 11 Oct 2026 22:47:29 GMT",
-     "summary": "IT之家 10 月 12 日消息，Scale AI 创始人、现任 Meta 首席 AI 官亚汪滔（Alexandr Wang）当地时间 10 月 11 日在做客 David Senra 播客节目时谈到了对首次创业者的建议：创办第一家公司时，创始人应亲自承担各项工作，深入掌握每个细节，之后再逐步学会放权。 他认为，创始人需要对业务的每个细节形成明确判断，并亲自把控执行过程。Scale AI 的发展便采用了这种方式，创始人对各项工作的直接控制是公司取得成功的重要因素之一。不过，这种管理方式也带来了代价：所有决策都要经过他本人，使他逐渐成为业务推进的瓶颈。 在加入 Meta 后，他采取了不同的管理方",
-     "source": "IT之家",
-     "zh": "Scale AI 创始人汪滔谈创业管理：从亲自决定细节到学会放手，在 Meta 的任务是招揽人才"
+     "title": "Fingerprints Are the New Cookies",
+     "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+     "pubDate": "Sun, 11 Oct 2026 22:33:39 +0000",
+     "summary": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "指纹是新的 Cookie"
+    },
+    {
+     "title": "Google is illegaly cutting forest to build data centers",
+     "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+     "pubDate": "Sun, 11 Oct 2026 22:33:30 +0000",
+     "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment Comments URL: https://news.ycombinator.com/item?id=50048638 Points: 10 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "谷歌非法砍伐森林建设数据中心"
+    },
+    {
+     "title": "Recursive self-improvement through collective intelligence",
+     "link": "https://pub.sakana.ai/mass/",
+     "pubDate": "Sun, 11 Oct 2026 22:22:10 +0000",
+     "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 11 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "通过集体智慧递归自我完善"
     },
     {
      "title": "Passkeys are a trap. Do not use them",
      "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
      "pubDate": "Sun, 11 Oct 2026 21:59:48 +0000",
-     "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 64 # Comments: 19",
+     "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 106 # Comments: 36",
      "source": "Hacker News",
      "zh": "万能钥匙是一个陷阱。不要使用它们"
     },
@@ -1780,7 +1836,7 @@
      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
      "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
      "pubDate": "Sun, 11 Oct 2026 21:07:20 +0000",
-     "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 73 # Comments: 44",
+     "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 93 # Comments: 56",
      "source": "Hacker News",
      "zh": "一名远程员工每天拒绝 160 张网络摄像头照片。她的雇主解雇了她"
     },
@@ -1799,38 +1855,6 @@
      "summary": "Terrence O'Brien / The Verge : How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted &ldquo;super intelligence&rdquo;, as Silicon Valley falls in line with Trump &nbsp; &mdash;&nbsp; Musk, Benioff, Huang, and now Nadella have all capitulated to Trump's &lsquo;",
      "source": "Techmeme",
      "zh": "随着硅谷与特朗普保持一致，马斯克和贝尼奥夫如何承诺重新命名 SpaceXAI 和 AIForce，而纳德拉和英伟达则采用“超级智能”（Terrence O'Brien/The Verge）"
-    },
-    {
-     "title": "The gap in shared understanding of LLM capability is widening",
-     "link": "https://twitter.com/karpathy/status/2109361546505966046",
-     "pubDate": "Sun, 11 Oct 2026 20:20:52 +0000",
-     "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 103 # Comments: 123",
-     "source": "Hacker News",
-     "zh": "对 LLM 能力的共识差距正在扩大"
-    },
-    {
-     "title": "Fetching AMD SEV Reports (With Zig)",
-     "link": "https://bschaatsbergen.com/posts/zig-sev-guest/",
-     "pubDate": "Sun, 11 Oct 2026 20:10:55 +0000",
-     "summary": "Article URL: https://bschaatsbergen.com/posts/zig-sev-guest/ Comments URL: https://news.ycombinator.com/item?id=50047323 Points: 4 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "获取 AMD SEV 报告（使用 Zig）"
-    },
-    {
-     "title": "Cartographers of North Korea",
-     "link": "https://cartographers-nk.wonyoung.so/",
-     "pubDate": "Sun, 11 Oct 2026 19:46:40 +0000",
-     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 114 # Comments: 15",
-     "source": "Hacker News",
-     "zh": "朝鲜制图师"
-    },
-    {
-     "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
-     "link": "https://theonion.com/archivehunt/",
-     "pubDate": "Sun, 11 Oct 2026 19:43:32 +0000",
-     "summary": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 199 # Comments: 22",
-     "source": "Hacker News",
-     "zh": "那么，您想出售您的《洋葱》印刷版吗？"
     },
     {
      "title": "A look at the economics of Anthropic&apos;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
@@ -1889,28 +1913,12 @@
      "zh": "安踏成彪马第一大股东：丁世忠最贵的一张门票"
     },
     {
-     "title": "房地产：政策到底了吗？市场到底了吗？",
-     "link": "https://www.huxiu.com/article/4896649.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 00:11:58 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：锂铍硼 最近一段时间，高层的动作非常快，让人又看到了希望。为什么说“又”呢？过去5年见过很多这种史无前例的政策。不过这绝对是好事，毋庸置疑。但坦白来讲，以我十几年的从业经验，大家不要过于乐观，必须冷静清醒、稳住阵脚。 今天不分析细枝末节，全网早都解读过了，我们聊聊全局大局：普通人如何看待政策？普通人如何正确行动？ 最近一个月发生了什么？ 核心结论很简单：贴息利好购房者，但利好不大；封顶预售利空房企，但力度有限，优质房企和地块完全不受限制。 这一轮救市的核心目的，不是强行把房价拉回旧周期高点，而是以时间换空间，缓释债务连锁风险，避免系统性硬着陆。 1.贴",
-     "source": "虎嗅",
-     "zh": "房地产：政策到底了吗？市场到底了吗？"
-    },
-    {
      "title": "Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages (Tymur Dubovyk/Kyiv Post)",
      "link": "https://www.techmeme.com/261011/p8#a261011p8",
      "pubDate": "Sun, 11 Oct 2026 12:10:00 -0400",
      "summary": "Tymur Dubovyk / Kyiv Post : Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages &nbsp; &mdash;&nbsp; A Ukrainian drone strike targeted a major Yandex data center in the Russian city of Vladimir e",
      "source": "Techmeme",
      "zh": "Yandex 表示，无人机袭击关闭了第三个数据中心，中断了 Yandex Cloud 和 YandexGPT 等 80 多项服务；用户报告银行和出租车应用程序中断（Tymur Dubovyk/基辅邮报）"
-    },
-    {
-     "title": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到",
-     "link": "https://www.ithome.com/1/011/715.htm",
-     "pubDate": "Sun, 11 Oct 2026 15:28:59 GMT",
-     "summary": "IT之家 10 月 11 日消息，一加中国区总裁李杰今日在微博评论区回应关于一加 16 屏幕刷新率相关问题， 据其介绍，一加 16 追求体验优先，不是参数优先。要同时兼顾流畅，功耗，发热，屏幕显示效果，现在的屏幕技术 暂时做不到全局 185Hz 。全局高刷要做到常用常开，目前最佳体验就是全局 165Hz，欢迎大家上手一加 16 去对比其他手机。 IT之家注意到，在 10 月 9 日的第四代东方屏技术沟通会上，一加与京东方联合研发的第四代东方屏正式发布。第四代东方屏采用全新 X4 发光材料，宣称“色彩准、高刷稳、画面亮、功耗低、寿命长”；支持真硬件 1nit，夜间看屏幕，柔和不刺眼。 第四代东方",
-     "source": "IT之家",
-     "zh": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到"
     },
     {
      "title": "A look at Apple&apos;s smart home strategy, centered on a HomeView display hub, with a new HomePod mini, Apple TV, and second-party accessories from LG and Schneider (Mark Gurman/Bloomberg)",
@@ -1951,14 +1959,6 @@
      "summary": "具身智能业务营收占比5%。",
      "source": "钛媒体",
      "zh": "本末科技，还没吃上具身智能这碗饭"
-    },
-    {
-     "title": "Manus恢复“单身”身价再涨，但战场已“大变天”",
-     "link": "https://www.tmtpost.com/8163955.html",
-     "pubDate": "Sun, 11 Oct 2026 21:07:50 +0800",
-     "summary": "5亿美元“输血”到账，Manus估值实现三级跳。",
-     "source": "钛媒体",
-     "zh": "Manus恢复“单身”身价再涨，但战场已“大变天”"
     }
    ]
   },
@@ -2022,7 +2022,7 @@
      "pubDate": "Sun, 11 Oct 2026 18:54:38 +0000",
      "summary": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3.",
      "source": "Engadget",
-     "zh": "Anbernic 的下一代双屏手持设备具有适合 3DS 游戏的完美宽高比"
+     "zh": "Anbernic 的下一代双屏掌上电脑具有适合 3DS 游戏的完美宽高比"
     },
     {
      "title": "The iPhone clock app has an oddity not many people know about",
@@ -2118,7 +2118,7 @@
      "pubDate": "Sun, 11 Oct 2026 13:31:02 +0200",
      "summary": "While Amazon’s Prime Big Deal Days have wrapped up, discounts are still available on several smartphones. In fact, some devices that received few or no notable discounts during the sale are now available at reduced prices. Samsung’s Galaxy S26 Ultra, Apple’s iPhone 17 Pro lineup, and the entire Goog",
      "source": "GSMArena",
-     "zh": "特惠：三星、苹果、谷歌旗舰手机大幅折扣"
+     "zh": "特惠：三星、苹果、谷歌旗舰手机大优惠"
     },
     {
      "title": "I’ve tried all the major to-do list apps but keep coming back to this one",
@@ -2225,60 +2225,92 @@
      "zh": "SBI 集团与 Mesh 准备数字资产合资企业"
     },
     {
+     "title": "基金名为“均衡”实则抱团 近三月首尾业绩悬殊惊人",
+     "link": "http://stock.eastmoney.com/news/11134,202610123892136786.html",
+     "pubDate": "Mon, 12 Oct 2026 07:24:31 +0800",
+     "summary": "证券时报基金研究院匡继雄 近期，伴随市场波动加剧，主动权益基金新发产品中，均衡类产品成为公募布局的重要方向。比如，平安均衡精选、中欧均衡增长等产品均定于10月开启认购。 数据显示，截至2026年10月9日，年内成立的均衡主动权益基金（以名称中带“均衡”的基金为统计口径）数量达14只，年度成立数量创2022年以来新高。 均衡类产品的设计初衷，是依靠更广域的选股布局，通过多行业分散配置来平滑组合波动，减少单一板块剧烈波动给净值带来的冲击，尽可能改善持有人的持有体验。不过，从已成立的均衡基金来看，7月以来业绩表现分化明显，首尾业绩相差近54个百分点。 短期不抗跌，究竟是策略失效，还是风格极致分化下的",
+     "source": "东方财富股票",
+     "zh": "基金名为“均衡”实则抱团 近三月首尾业绩悬殊惊人"
+    },
+    {
+     "title": "人民日报钟声：中欧要做彼此稳定、平衡的关键贸易伙伴",
+     "link": "http://finance.eastmoney.com/news/1351,202610123892146651.html",
+     "pubDate": "Mon, 12 Oct 2026 07:20:56 +0800",
+     "summary": "中欧之间虽有分歧，但只要秉持相互尊重、平等互利的原则，充分照顾彼此合理关切，双方完全有智慧、有能力找到妥善解决问题的路径 10月8日至9日，中欧贸易投资磋商机制第二次例会在北京举行。双方立足“稳定、平衡的中欧关键贸易伙伴”定位，盘点机制首次会议以来各领域磋商进展，就中欧经贸重要议题进行务实、富有成效的讨论，形成成果共识清单并发布联合声明。在世界经济复苏承压、逆全球化思潮抬头的背景下，中欧在世贸组织规则框架下，以对等、专业、建设性的对话管控分歧、推进合作，为充满不确定性的世界经济注入了宝贵的稳定性。 对话是以规则为锚、以理性为帆的共赢之道，体现了中欧双方的战略清醒。此次达成16条具体内容的成果共",
+     "source": "东方财富股票",
+     "zh": "人民日报钟声：中欧要做彼此稳定、平衡的关键贸易伙伴"
+    },
+    {
+     "title": "汽车行业监管再升级 车企迅速掀起学习、自查热潮",
+     "link": "http://finance.eastmoney.com/news/1355,202610123892156644.html",
+     "pubDate": "Mon, 12 Oct 2026 07:20:38 +0800",
+     "summary": "直击“速成造车”的痛点， 汽车 行业监管再升级。10月10日，工业和信息化部等四部门联合公开发布《关于进一步加强 汽车 产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》（以下简称《征求意见稿》），对 汽车 制动系统等关键结构件、可靠性与耐久性验证以及隐藏式门把手、零重力座椅创新设计等提出了要求。 证券时报记者了解到，《征求意见稿》发布后，整车企业迅速掀起学习、自查热潮。多家车企相关负责人告诉记者，周末期间就对《征求意见稿》组织开展了学习，后续将在全公司范围传达；还有一些车企向记者确认，地方相关部门也在组织学习和落实。 受访企业和专家普遍认为，此次监管精准纠偏行业“重创新噱头、轻安全",
+     "source": "东方财富股票",
+     "zh": "汽车行业监管再升级 车企迅速掀起学习、自查热潮"
+    },
+    {
+     "title": "车圈“反速成” 整车企业掀起学习、自查热潮",
+     "link": "http://finance.eastmoney.com/news/1355,202610123892156031.html",
+     "pubDate": "Mon, 12 Oct 2026 07:18:12 +0800",
+     "summary": "直击“速成造车”的痛点， 汽车 行业监管再升级。10月10日，工业和信息化部等四部门联合公开发布《关于进一步加强 汽车 产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》（以下简称《征求意见稿》），对 汽车 制动系统等关键结构件、可靠性与耐久性验证以及隐藏式门把手、零重力座椅创新设计等提出了要求。 记者了解到，《征求意见稿》发布后，整车企业迅速掀起学习、自查热潮。多家车企相关负责人告诉记者，周末就对《征求意见稿》组织开展了学习，后续将在全公司范围传达；还有一些车企向记者确认，地方相关部门也在组织学习和落实。 受访企业和专家普遍认为，此次监管精准纠偏行业“重创新噱头、轻安全验证”的伪创",
+     "source": "东方财富股票",
+     "zh": "车圈“反速成” 整车企业掀起学习、自查热潮"
+    },
+    {
+     "title": "Amazon in talks to acquire AI startup Decart for $7B: WSJ",
+     "link": "https://seekingalpha.com/news/4651954-amazon-in-talks-to-acquire-ai-startup-decart-for-7b-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 11 Oct 2026 19:17:24 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "亚马逊正在洽谈以 70 亿美元收购人工智能初创公司 Decart：《华尔街日报》"
+    },
+    {
+     "title": "回购刷屏！",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892130537.html",
+     "pubDate": "Mon, 12 Oct 2026 07:16:00 +0800",
+     "summary": "据统计，10月以来，沪市主板公司已发布超120份回购类公告（包括回购计划、回购进展和完成类），上述公告对应回购金额合计约247亿元至464亿元，累计已实施金额超176亿元。其中，进展类公告对应的最新回购金额为166亿元，已锁定整体回购金额（下限）的七成。 上述120余份公告中，包括3份新增计划，对应公司分别为 威尔药业 、 安德利 、 东阳光 。其中， 安德利 拟未来12个月内回购1.2亿元至1.8亿元公司股份，价格不超过100元/股，回购股份用于员工持股计划或 股权激励 。 东阳光 拟通过集中竞价交易方式回购6亿元至12亿元，回购价格不高于47.74元/股，对应1256.8万股至2513.6",
+     "source": "东方财富股票",
+     "zh": "回购刷屏！"
+    },
+    {
+     "title": "华夏基金顾鑫峰：北交所投资要避开“荒漠” 也要规避AI热潮中的估值风险",
+     "link": "http://finance.eastmoney.com/news/1353,202610123892155924.html",
+     "pubDate": "Mon, 12 Oct 2026 07:15:54 +0800",
+     "summary": "从2021年至今，成立满五周年的北交所市值已超过8000亿元。北交所 专精特新 成色凸显，离不开公募基金等增量资金的助力。华夏基金股票投资部总监顾鑫峰近日接受证券时报记者采访时表示，在公募基金持续投资的过程中，北交所的政策预期正从“改革叙事”逐步进入落地兑现阶段。 顾鑫峰认为，北交所的高弹性行情通常发生在“低估值或深度调整、政策或产业主题催化、成交额和换手率显著放大”三项条件同时出现时。基金投资要重点研究行业景气度和边际变化，既要回避投资“荒漠”，也要规避AI热潮中的估值风险。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "华夏基金顾鑫峰：北交所投资要避开“荒漠” 也要规避AI热潮中的估值风险"
+    },
+    {
+     "title": "【科创之声】AI大战数学家，谁是赢家",
+     "link": "http://www.eeo.com.cn/2026/1012/1061210.shtml",
+     "pubDate": "Mon, 12 Oct 2026 07:13:13 +0800",
+     "summary": "AI与数学家之间的大战升级了。 近日，美国OpenAI公司公开了由前沿模型产出的722篇数学手稿，归为372组数学研究成果，覆盖数论、几何等诸多领域...",
+     "source": "经济观察网",
+     "zh": "【科创之声】AI大战数学家，谁是赢家"
+    },
+    {
+     "title": "体重越轻越好吗",
+     "link": "http://www.eeo.com.cn/2026/1012/1061209.shtml",
+     "pubDate": "Mon, 12 Oct 2026 07:13:13 +0800",
+     "summary": "更多内容 扫码观看 近期，部分减肥训练营以“急速暴瘦”“不瘦退款”等话术招揽学员，通过过度节食、超负荷训练等方式追求快速减重，爆出有学...",
+     "source": "经济观察网",
+     "zh": "体重越轻越好吗"
+    },
+    {
+     "title": "Oil tops $105 as Houthi attacks on Saudi Arabia raise inflation fears",
+     "link": "https://seekingalpha.com/news/4651953-oil-tops-105-as-houthi-attacks-on-saudi-arabia-raise-inflation-fears?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 11 Oct 2026 19:11:36 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "胡塞武装袭击沙特阿拉伯引发通胀担忧，油价突破105美元"
+    },
+    {
      "title": "华尔街见闻早餐FM-Radio | 2026年10月12日",
      "link": "https://wallstreetcn.com/articles/3783316",
      "pubDate": "Mon, 12 Oct 2026 07:01:12 +0800",
      "summary": "华见早安之声 要闻精选 中欧贸易投资磋商 在京举行并公布成果共识： 就混动汽车贸易达成谅解 ，进一步强化出口管制对话， 愿为稀土永磁体出口审批提供便利 。 中国商务部 评美召集部分经济体发布应对所谓“结构性产能和生产过剩”问题联合声明： 反对个别国家以所谓“产能过剩”为名 ， 行贸易保护主义之实 。 中共中央、国务院 发文提出 发展新质生产力 举措， 支持科技企业上市融资 、 优化并购重组 、 民企可牵头重大技术攻关 。 中国证监会 大修公募基金规定： 权益类基金成立门槛 拟 降 至5000万元，建立 迷你基金强制退出 机制，基金管理人等主体 违法罚款上限抬升 至10万元。 证监会 召开座谈会",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年10月12日"
-    },
-    {
-     "title": "上证早知道｜603228，第三季度净利润同比预增205%到265%；000420，获机构席位净买入8453.07万元",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892152617.html",
-     "pubDate": "Mon, 12 Oct 2026 06:57:47 +0800",
-     "summary": "今日提示 ·第二十六届中国国际工业博览会将于10月12日至16日举办。 ·2026巴黎车展将于10月12日开幕，约三分之一参展整车品牌来自中国。 ·上期所10月12日起调整燃料油、石油沥青 期货 相关合约涨跌停板幅度和交易保证金比例。 · 北部湾港 10月12日复牌，拟购买恒港码头100%股权。 上证聚焦 ○《关于发展新质生产力的意见》印发 中共中央、国务院印发《关于发展新质生产力的意见》（以下简称《意见》）。《意见》围绕5方面创新，提出19项重点举措。其中包括：全面实施“ 人工智能 +”行动。推进 人工智能 对传统产业的改造，加快推进智能网联 新能源 汽车 、 人工智能 手机和电脑、人形 机",
-     "source": "东方财富股票",
-     "zh": "上证早知道｜603228，第三季度净利润同比预增205%到265%；000420，获机构席位净买入8453.07万元"
-    },
-    {
-     "title": "北交所四家IPO企业集中更新问询回复",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892151911.html",
-     "pubDate": "Mon, 12 Oct 2026 06:56:09 +0800",
-     "summary": "● 本报记者杨梓岩 日前，北交所四家IPO企业集中更新审核状态为“已问询”，科麦特科、利星科技、爱思益普披露第一轮问询回复，吉宝股份披露第二轮问询回复。其中，科麦特科就创新特征及竞争优势、收入增长、募投项目等事项作出回复；利星科技回复涉及竞争优势与创新特征、客户集中及业绩稳定性等事项；爱思益普补充披露业务开展信息、技术壁垒、客户构成等内容；吉宝股份就收购多家子公司商业合理性及作价公允性、收入真实准确性、募投项目等事项作出说明。 科麦特科、利星科技 披露产品及业务模式 在第一轮问询中，北交所要求科麦特科进一步披露创新特征及竞争优势，补充披露主要产品对应的上下游客户供应商情况，说明公司在各类产品研",
-     "source": "东方财富股票",
-     "zh": "北交所四家IPO企业集中更新问询回复"
-    },
-    {
-     "title": "企业“气候账本”怎么算 配套指南有望给出“操作说明书”",
-     "link": "http://finance.eastmoney.com/news/1352,202610123892152377.html",
-     "pubDate": "Mon, 12 Oct 2026 06:56:08 +0800",
-     "summary": "近日，财政部发布《企业可持续披露准则第1号——气候（试行）》应用指南（征求意见稿）及 电力 等9项行业应用指南（征求意见稿）。相较于2025年底发布的《企业可持续披露准则第1号——气候（试行）》（简称“气候准则”），此次发布的内容将企业气候信息披露落到实操层面，并适配 电力 、 钢铁 、 煤炭 、石油等9大行业特征。 业内人士表示，应用指南提供了气候信息披露方法，降低了企业操作难度，同时提供了气候相关风险与机遇对财务影响的分析路径。随着气候变化对企业经营的影响日益凸显，算清“气候账本”将助其优化决策、获取绿色信贷。同时，企业需补齐数据、制度、人才方面的短板。 让气候信息披露可操作 “气候信息披",
-     "source": "东方财富股票",
-     "zh": "企业“气候账本”怎么算 配套指南有望给出“操作说明书”"
-    },
-    {
-     "title": "雷神科技董事长路凯林：云边端闭环落地 从电竞硬件厂迈向全栈算力服务商",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892151862.html",
-     "pubDate": "Mon, 12 Oct 2026 06:56:03 +0800",
-     "summary": "北交所“电竞装备第一股” 雷神科技 正迎来重大战略升级，从传统电竞硬件厂商加速向全栈算力服务商转型。 雷神科技 董事长路凯林近日接受中国证券报记者独家专访并披露，公司今年 信创 业务营收有望同比翻倍；为夯实高增长动能，公司已完成组织架构的深度重塑，通过ToC、ToB业务团队完全拆分实现双线独立运营。依托十二年高性能硬件技术积淀， 雷神科技 成功搭建“云—边—端”一体化算力闭环，培育AI算力全新增长引擎，跳出行业单品内卷格局，开启在国产算力赛道的全新成长周期。 算力闭环落地完成关键跨越 “公司战略已从单一的‘电竞+ 信创 ’，升级为‘云—边—端’一体化的算力体系。”路凯林开门见山地向记者勾勒新蓝",
-     "source": "东方财富股票",
-     "zh": "雷神科技董事长路凯林：云边端闭环落地 从电竞硬件厂迈向全栈算力服务商"
-    },
-    {
-     "title": "中信信托连续五年发布ESG报告 回答ESG如何真正融入发展逻辑",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892151714.html",
-     "pubDate": "Mon, 12 Oct 2026 06:56:02 +0800",
-     "summary": "中信 信托 近日发布《2025年环境、社会及治理（ESG）报告》，这是该公司连续第五年发布ESG报告。报告显示，截至2025年末，中信 信托 绿色 信托 管理规模392.94亿元， 养老金 融业务资产规模1093.58亿元，公益慈善信托累计备案规模17.6亿元，均位居行业前列。在信托行业步入“三分类”改革深水区的当下，这份报告试图回答一个实质性问题：ESG如何摆脱仅作为披露事项的定位，真正融入信托公司的发展逻辑。 赋能实体经济重点领域 “三分类”新规落地以来，行业的核心思考是：告别融资类业务的旧模式后，信托的立身之本是什么？中信信托的答案是回到受托人本源，立足金融“五篇大文章”，用信托财产独立",
-     "source": "东方财富股票",
-     "zh": "中信信托连续五年发布ESG报告 回答ESG如何真正融入发展逻辑"
-    },
-    {
-     "title": "打造机电液一体化 高端装备系统集成商",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892151669.html",
-     "pubDate": "Mon, 12 Oct 2026 06:55:58 +0800",
-     "summary": "走进位于山东五莲县的 万通液压 生产厂区，试验室里一批油气弹簧样品正在试验台上接受高频冲击耐久测试，每一件产品出厂前都要历经多轮严苛验证。车间、办公楼内，“做就要做好，做就要做强”的标语随处可见。 北交所首批上市企业之一 万通液压 总经理王刚近日接受中国证券报记者专访，详解了企业借助资本市场赋能主业创新、对冲行业周期、布局新兴赛道的成长路径。 资本赋能实现全方位提升 2020年11月， 万通液压 登陆新三板精选层；2021年11月15日北交所开市，公司平移成为首批上市企业。谈及北交所平台带来的变化，王刚感触颇深，上市彻底打破企业过去“挣一分钱才能投一分钱”的发展桎梏。 “北交所给我们带来的不只",
-     "source": "东方财富股票",
-     "zh": "打造机电液一体化 高端装备系统集成商"
     },
     {
      "title": "英国：不支持美俄就俄提供柴油达成一致",
@@ -2342,7 +2374,7 @@
      "pubDate": "Sun, 11 Oct 2026 17:15:36 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "《GTA 6》泄密者嘲笑 Take-Two 超过 3000 万美元，Cyber​​leek memecoin 飙升"
+     "zh": "GTA 6 泄密者嘲笑 Take-Two 超过 3000 万美元，Cyber​​leek memecoin 飙升"
     },
     {
      "title": "Justice Department investigates TV networks as White House press-access fight escalates",
@@ -2375,22 +2407,6 @@
      "summary": "“I presume these are sophisticated investors taking a profit.”",
      "source": "MarketWatch",
      "zh": "“我感觉自己像个失败者”：我的股票投资组合剧烈波动。终于到了担心的时候了吗？"
-    },
-    {
-     "title": "Stellantis unveils low-cost electric cars in bid to revive European sales",
-     "link": "https://seekingalpha.com/news/4651947-stellantis-unveils-low-cost-electric-cars-in-bid-to-revive-european-sales?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 11 Oct 2026 15:53:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Stellantis 推出低成本电动汽车以重振欧洲销售"
-    },
-    {
-     "title": "SA Asks: How can Nike get back on track?",
-     "link": "https://seekingalpha.com/news/4651946-sa-asks-how-can-nike-get-back-on-track?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 11 Oct 2026 15:44:47 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA 问：耐克如何才能重回正轨？"
     },
     {
      "title": "Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine; Zelenskyy is waiting for details",
@@ -2439,22 +2455,6 @@
      "summary": "Ukrainian strikes have triggered the worst petrol shortages since the collapse of the Soviet Union but diesel is not in short supply",
      "source": "Financial Times",
      "zh": "俄罗斯能满足特朗普的柴油需求吗？"
-    },
-    {
-     "title": "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
-     "link": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
-     "pubDate": "Sun, 11 Oct 2026 17:08:30 GMT",
-     "summary": "Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products to better curate offerings and stabilize business.",
-     "source": "CNBC",
-     "zh": "从 BJ's 到 Lululemon，零售商正在削减产品种类以促进业务"
-    },
-    {
-     "title": "岂能让消费者替“速成车”补上测试课",
-     "link": "http://www.eeo.com.cn/2026/1012/1061178.shtml",
-     "pubDate": "Mon, 12 Oct 2026 00:52:07 +0800",
-     "summary": "■刘钊 10月10日，工业和信息化部等四部门联合发布通知，提出对未按要求进行测试验证、测试验证不充分或提供虚假验证材料的产品不予公告。中国汽车工业协会也发出倡议，要求补齐研发验证短板。这意味着，针对近年来备受争议的“速成车”现象，车企必须把车辆上市前的安全功课做足。 从应急机械拉手相关召回，到零重力座椅、全隐藏式门把手的安全讨论，消费者对于汽车安全的关注度与日俱增。行业需要正视一个问题：...",
-     "source": "经济观察网",
-     "zh": "岂能让消费者替“速成车”补上测试课"
     }
    ]
   },

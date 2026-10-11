@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/12 07:49:50",
+ "generated_at": "2026/10/12 07:56:48",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,54 @@
    "total": 9,
    "items": [
     {
+     "title": "India roundup: AI data center buildout accelerates as semiconductor push continues to broaden",
+     "link": "https://www.digitimes.com/news/a20261008VL217/ai-data-center-infrastructure-ip-packaging.html",
+     "pubDate": "Sun, 11 Oct 2026 23:45:08 GMT",
+     "summary": "India's technology buildout is deepening across semiconductors and AI infrastructure, with chip IP, packaging and equipment initiatives advancing alongside data center expansion, high-density computing, optical connectivity and GPU deployments.",
+     "source": "DIGITIMES",
+     "zh": "印度综述：随着半导体推动力不断扩大，人工智能数据中心建设加速"
+    },
+    {
+     "title": "Largan shifts new plant to FAU production as smartphone orders soften",
+     "link": "https://www.digitimes.com/news/a20261008PD251/smartphone-production-plant-demand-2027.html",
+     "pubDate": "Sun, 11 Oct 2026 23:44:52 GMT",
+     "summary": "Largan Technology said on October 8 that demand for new smartphone models weakened in September and that its newly completed automated plant will be used entirely for fiber array units, or FAUs, for co-packaged optics applications. The optical lens maker said the move comes as customers are asking i",
+     "source": "DIGITIMES",
+     "zh": "随着智能手机订单疲软，大立光将新工厂转向 FAU 生产"
+    },
+    {
+     "title": "AI doubles Aker differential oscillator mix; 312.5MHz sample set for 4Q26",
+     "link": "https://www.digitimes.com/news/a20261008PD247/2026-automotive-revenue-vehicle-demand.html",
+     "pubDate": "Sun, 11 Oct 2026 23:44:33 GMT",
+     "summary": "Aker Technology said AI and electric vehicle demand are driving faster shipments, with automotive products accounting for 51.88% of sales in the first half of 2026. The quartz component maker also said its 312.5MHz product is scheduled to sample in the fourth quarter of 2026.",
+     "source": "DIGITIMES",
+     "zh": "AI 使 Aker 差分振荡器混合倍增； 2026 年第 4 季度的 312.5MHz 样本集"
+    },
+    {
+     "title": "Episil chairman says SiC is not yet shifting from 6-inch to 8-inch",
+     "link": "https://www.digitimes.com/news/a20261008PD244/episil-sic-6-inch-capacity-2026.html",
+     "pubDate": "Sun, 11 Oct 2026 23:44:09 GMT",
+     "summary": "Episil held an earnings call on October 7, saying silicon carbide (SiC) capacity utilization has rebounded quickly from 30% at a low point to nearly 90% now. If 6-inch order demand keeps rising in 2027, the company will add capacity through 8-inch production. That has raised questions over whether t",
+     "source": "DIGITIMES",
+     "zh": "Episil董事长表示SiC尚未从6英寸转向8英寸"
+    },
+    {
+     "title": "MAtek September 2026 revenue hits record for 7th straight month",
+     "link": "https://www.digitimes.com/news/a20261008PD243/semiconductors-testing-revenue-demand-2026.html",
+     "pubDate": "Sun, 11 Oct 2026 23:43:37 GMT",
+     "summary": "MAtek, a leading semiconductor testing company, reported September 2026 revenue of NT$569 million (approx. US$17.8 million), up 12.31% year-over-year. Revenue for the first nine months reached NT$4.765 billion, rising 16.99% year-over-year, while third-quarter revenue climbed 16.14% year-over-year t",
+     "source": "DIGITIMES",
+     "zh": "MAtek 2026 年 9 月营收连续 7 个月创历史新高"
+    },
+    {
+     "title": "Baso Optical eyes steady performance in 2027 with focus on high-margin AOI, semiconductor, aerospace applications",
+     "link": "https://www.digitimes.com/news/a20261008PD242/baso-precision-optics-online-aoi-earnings-2027.html",
+     "pubDate": "Sun, 11 Oct 2026 23:43:11 GMT",
+     "summary": "Baso Precision Optics held its latest online earnings call on October 7, during which the company acknowledged short-term pressures on its gross margin, due to ongoing adjustments to its product mix, resulting in higher upfront costs and initial production yields that could still see improvement. Lo",
+     "source": "DIGITIMES",
+     "zh": "Baso Optical 预计 2027 年业绩稳定，重点关注高利润 AOI、半导体、航空航天应用"
+    },
+    {
      "title": "DAC 2027 Opens Call for Contributions as AI Reshapes Chip Design",
      "link": "https://semiwiki.com/events/374512-dac-2027-opens-call-for-contributions-as-ai-reshapes-chip-design/",
      "pubDate": "Sun, 11 Oct 2026 19:00:56 +0000",
@@ -287,54 +335,6 @@
      "summary": "Lieuwke de Jong is a globally experienced executive and entrepreneur who operates at the intersection of industry, government and innovation. His career spans defense-aligned sectors, aerospace, energy, life sciences and advanced materials and he is known for connecting stakeholders across governmen",
      "source": "SemiWiki",
      "zh": "Sweet Atoms 首席执行官 Lieuwke de Jong 专访"
-    },
-    {
-     "title": "Vicor widens AI server power patent fight, seeking new US import ban on Foxconn, Quanta and Delta",
-     "link": "https://www.digitimes.com/news/a20261011VL200/ai-server-foxconn-quanta-ban-hardware.html",
-     "pubDate": "Sun, 11 Oct 2026 07:37:46 GMT",
-     "summary": "Vicor Corporation is trying for the second time this year to get AI server power hardware from Taiwan's largest server makers barred from the US. It has won such a ban before.",
-     "source": "DIGITIMES",
-     "zh": "Vicor 扩大人工智能服务器电源专利战，寻求美国对富士康、广达和台达实施新的进口禁令"
-    },
-    {
-     "title": "IPC makers expand US production as supply chains, tariffs shift",
-     "link": "https://www.digitimes.com/news/a20261008PD238/production-manufacturing-pc-ipc-california.html",
-     "pubDate": "Sun, 11 Oct 2026 02:42:30 GMT",
-     "summary": "Industrial PC (IPC) makers are adding US manufacturing as supply chains regionalize, tariff policy tightens, and government buyers press for local sourcing. For global readers, the shift signals a broader reordering of electronics production, with more high-value, time-sensitive work moving closer t",
-     "source": "DIGITIMES",
-     "zh": "随着供应链和关税转移，IPC 制造商扩大美国产量"
-    },
-    {
-     "title": "Novatek quarterly revenue tops NT$30B as smartphone demand, edge AI chips lift results",
-     "link": "https://www.digitimes.com/news/a20261008PD239/novatek-revenue-chips-smartphone-demand-2026.html",
-     "pubDate": "Sun, 11 Oct 2026 02:41:50 GMT",
-     "summary": "Novatek reported stronger September and third-quarter 2026 revenue, suggesting seasonal smartphone demand and growth in edge AI chips are supporting the global display and chip supply chain. The results matter for international readers because they reflect broader shifts in consumer electronics dema",
-     "source": "DIGITIMES",
-     "zh": "智能手机需求、边缘AI芯片提振业绩，联咏科技季度营收突破新台币30亿元"
-    },
-    {
-     "title": "Changs Ascending September revenue jumps 92% on semiconductor plant buildouts",
-     "link": "https://www.digitimes.com/news/a20261008PD229/revenue-plant-equipment-ups-aidc.html",
-     "pubDate": "Sun, 11 Oct 2026 02:41:11 GMT",
-     "summary": "Changs Ascending said orders tied to semiconductor customers' new plant construction, equipment arrivals, and project acceptance schedules were gradually fulfilled and recognized as revenue, lifting consolidated revenue to NT$79.2 million (approx. US$2.49 million) in September 2026, up 92% from a mo",
-     "source": "DIGITIMES",
-     "zh": "半导体工厂扩建带动张氏 9 月营收跃升 92%"
-    },
-    {
-     "title": "Sysgration bets on battery backup, drones to hit US$314 million in sales by 2028",
-     "link": "https://www.digitimes.com/news/a20261008PD219/revenue-2028-sales-2026-growth.html",
-     "pubDate": "Sun, 11 Oct 2026 02:39:55 GMT",
-     "summary": "Sysgration posted record monthly consolidated revenue in September 2026 for the third consecutive month, pushing third-quarter revenue above NT$1 billion (approx. US$31.4 million) for the first time. At an investor conference on October 7, general manager Tung-Fu Hsieh said recent growth has been dr",
-     "source": "DIGITIMES",
-     "zh": "Sysgration 押注于电池备份，到 2028 年无人机销售额将达到 3.14 亿美元"
-    },
-    {
-     "title": "Everlight Chemical September revenue rises on strong electronic chemicals demand",
-     "link": "https://www.digitimes.com/news/a20261008PD215/revenue-everlight-demand-2026-growth.html",
-     "pubDate": "Sun, 11 Oct 2026 02:39:08 GMT",
-     "summary": "Everlight Chemical reported higher September and year-to-date revenue, with electronic chemicals driving most of the growth. The results suggest continued resilience in industrial and specialty materials demand, a trend relevant to global manufacturers, supply chains, and investors watching Asian ch",
-     "source": "DIGITIMES",
-     "zh": "电子化学品需求旺盛，亿光化学9月营收增长"
     },
     {
      "title": "Hyper-NA EUV: The Next Frontier in Chipmaking Could Arrive in 2036",
@@ -1721,6 +1721,46 @@
    "total": 18,
    "items": [
     {
+     "title": "月之暗面拟在 IPO 前和解股东纠纷，Recurrent 指控杨植麟、张宇韬虚假陈述并寻求 10.5% 原始股份赔偿",
+     "link": "https://www.ithome.com/1/011/731.htm",
+     "pubDate": "Sun, 11 Oct 2026 23:54:22 GMT",
+     "summary": "IT之家 10 月 12 日消息，据路透社今日报道，月之暗面高管正在与股东谈判，希望在 IPO 前解决一起法律纠纷。该股东指控这些高管存在不当行为，并要求获得赔偿。 根据路透社看到的一封 Recurrent.ai 律师于 3 月 11 日致月之暗面投资者的信函，AI 软件开发商 Recurrent.ai 及其部分投资者指控月之暗面 CEO 杨植麟、首席技术官张宇韬向 Recurrent 投资者作出虚假陈述，以牺牲 Recurrent 利益为代价中饱私囊。 信函中称，包含关键大语言模型数据的服务器在未经授权的情况下从 Recurrent 转移至月之暗面的一家子公司，但没有提供证据。此外，信函提及",
+     "source": "IT之家",
+     "zh": "月之暗面拟在 IPO 前和解股东纠纷，Recurrent 指控杨植麟、张宇韬虚假陈述并寻求 10.5% 原始股份赔偿"
+    },
+    {
+     "title": "这些掌握了内幕消息的人，是怎么亏钱的？",
+     "link": "https://www.huxiu.com/article/4896635.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 07:53:23 +0800",
+     "summary": "本文来自微信公众号： 思想钢印 ，作者：思想钢印，题图来自：视觉中国 亏钱跟消息无关 在很多人看来，有了内幕消息，就好像游戏开了外挂，赚钱不就是水到渠成的事，但监管处罚数据给出了相反的答案。 2025年全年的126份适用新《证券法》的内幕交易行政处罚中，61件为亏损或获利不足50万元，占比48.4%；涉及151名当事人，列明&ldquo;无违法所得&rdquo; （即亏损） 的有44名，占29.1%；违法所得在1000万元以上的只有4人。 所以就算你有内幕，亏损或微利都是常态，暴利是极少数。2022年披露的Y集团、刘某某操纵&ldquo;Y健康&rdquo;案，股票亏损高达8.17亿元。 很多",
+     "source": "虎嗅",
+     "zh": "这些掌握了内幕消息的人，是怎么亏钱的？"
+    },
+    {
+     "title": "Whatever became of holography? (2011)",
+     "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+     "pubDate": "Sun, 11 Oct 2026 23:50:34 +0000",
+     "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "全息术变成了什么？ (2011)"
+    },
+    {
+     "title": "IT早报 1012：国家安全部提醒接陌生来电先沉默三秒；曝苹果首款智能家庭中枢定名 HomeView；星闪通信国标获批；国家互联网应急中心通报荐片播放器后门...",
+     "link": "https://www.ithome.com/1/011/730.htm",
+     "pubDate": "Sun, 11 Oct 2026 23:50:08 GMT",
+     "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 12 日星期一，今天的重要科技资讯有： 1. 国家安全部揭秘为何接陌生来电先沉默三秒，称数秒语音样本可能被不法分子用于 AI 声纹克隆 近期，一条“接到陌生来电先沉默三秒”的提醒在社交平台刷屏。据国家安全部披露，不法分子在接通受害者电话后，可能刻意保持沉默，诱使受害者回应。短短数秒的语音样本，就可能被不法分子用于 AI 声纹克隆，进而冒充身份实施诈骗等违法犯罪行为。>> 查看详情 2. 古尔曼：苹果首款智能家庭中枢定名 HomeView，搭载 A18 芯片、四种配色可选 古尔曼爆料称，HomeView 采用类似 iMac G4 的悬浮屏",
+     "source": "IT之家",
+     "zh": "IT早报 1012：国家安全部提醒接陌生来电先沉默三秒；曝苹果首款智能家庭中枢定名 HomeView；星闪通信国标获批；国家互联网应急中心通报荐片播放器后门..."
+    },
+    {
+     "title": "Q&A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more (CBS News)",
+     "link": "https://www.techmeme.com/261011/p12#a261011p12",
+     "pubDate": "Sun, 11 Oct 2026 19:50:02 -0400",
+     "summary": "CBS News : Q&A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more &nbsp; &mdash;&nbsp; The following is the full transcript of the interview with Shyam Sankar, chief technology officer of Palantir, a porti",
+     "source": "Techmeme",
+     "zh": "Palantir 首席技术官 Shyam Sankar 就伊朗学校罢工和人工智能目标、国防部放弃人为、人工智能责任、有效利他主义等问题进行问答（哥伦比亚广播公司新闻）"
+    },
+    {
      "title": "我国万吨级深远海工程综合勘测船完成技术研发，5000 米级深水钻探装备方案成形",
      "link": "https://www.ithome.com/1/011/729.htm",
      "pubDate": "Sun, 11 Oct 2026 23:47:23 GMT",
@@ -1785,36 +1825,12 @@
      "zh": "递送即权力"
     },
     {
-     "title": "换一个市场，你的资产也会被重新定价",
-     "link": "https://www.huxiu.com/article/4896656.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 07:36:20 +0800",
-     "summary": "本文来自微信公众号： 景红空间 ，作者：景红空间 十一期间在美国，见到一位客户HR，也是我很多年前认识的一位女性候选人。 五十多岁的M，也是我多年的朋友。 我们坐下来聊天，聊她现在的公司、业务，也聊美国市场和中国企业出海。聊了很久以后，我忽然意识到，这次见到她，给我印象最深的其实不是她换了一份工作，也不是她从中国去了美国，而是整个人的状态变了。 以前和她交流时，我多少能够感觉到她对职业未来有一些不确定。因为M未婚未育，说实在的，虽然一直称自己选择这种生活，但五十岁后，那种对生活的焦虑，那种中年的疲惫感还是挥之不去。 这种对工作和生活的不确定并不难理解。 人到五十岁以后，在国内职场，尤其对于女性",
-     "source": "虎嗅",
-     "zh": "换一个市场，你的资产也会被重新定价"
-    },
-    {
      "title": "华为申请注册“星芒”商标，网传是最新子品牌命名",
      "link": "https://www.ithome.com/1/011/726.htm",
      "pubDate": "Sun, 11 Oct 2026 23:32:32 GMT",
      "summary": "IT之家 10 月 12 日消息，国家知识产权局商标局最新信息显示，华为技术有限公司近期再次申请注册了“星芒”商标。该商标的申请日期最早可追溯至 2019 年 4 月 8 日， 今年最新申请记录显示处于“等待实质审查”阶段 。 IT之家注意到，申请 / 注册号为“93069405”的记录显示，该商标归属于国际分类第 9 类，涵盖的商品 / 服务范围包括：笔记本电脑、电子笔、智能手表（数据处理）、智能眼镜（数据处理）、 智能手机 、耳机、芯片（集成电路）等。 目前，多名博主正讨论华为子品牌相关话题， 微博已出现“华为被曝将推子品牌星芒”的词条 。 IT之家注意到， 今年 9 月就有消息称华为手机",
      "source": "IT之家",
      "zh": "华为申请注册“星芒”商标，网传是最新子品牌命名"
-    },
-    {
-     "title": "微软警告：Windows Update 两组证书 2027 年到期，过时 Win11/10 设备将无法收到更新",
-     "link": "https://www.ithome.com/1/011/725.htm",
-     "pubDate": "Sun, 11 Oct 2026 23:31:15 GMT",
-     "summary": "IT之家 10 月 12 日消息，微软警告称，部分过时或未受支持的 Windows 设备可能在 2027 年失去 Windows Update 更新服务的访问权限。 微软宣布，用于验证设备与 Windows Update 服务器之间可信连接的一组证书将于 2027 年 5 月 17 日和 6 月 19 日到期，相关设备需要提前安装包含新证书的更新，或升级至受支持的 Windows 版本。 微软当地时间 10 月 8 日在 Windows IT Pro 官方博客中表示，Windows Update 通过基于证书的信任机制，确认设备连接的是可信的更新服务器。由于证书具有有效期，到期前需要更换。微软",
-     "source": "IT之家",
-     "zh": "微软警告：Windows Update 两组证书 2027 年到期，过时 Win11/10 设备将无法收到更新"
-    },
-    {
-     "title": "戴尔推出 SE3426DW 曲面显示器：34 英寸 1440P 165Hz，1899 元",
-     "link": "https://www.ithome.com/1/011/724.htm",
-     "pubDate": "Sun, 11 Oct 2026 23:21:40 GMT",
-     "summary": "IT之家 10 月 12 日消息，戴尔 SE3426DW 曲面显示器现已开售， 售价 1899 元 。 这款显示器搭载了一块 34 英寸 WQHD（3440×1440）曲面屏，采用 VA 面板，1500R 曲率；对比度 3000:1，300nits 亮度，色域覆盖 99% sRGB、95% DCI-P3，刷新率 165Hz。 接口方面，这款显示器配备双 HDMI 2.1 TMDS 接口以及 DP 1.4 接口。 IT之家附这款新品详细参数如下： 京东 戴尔（DELL）34 英寸 WQHD 曲面显示器 SE3426DW 1899 元 直达链接",
-     "source": "IT之家",
-     "zh": "戴尔推出 SE3426DW 曲面显示器：34 英寸 1440P 165Hz，1899 元"
     },
     {
      "title": "【钛晨报】剑指“重上市、轻验证”，四部门联合发文划清汽车安全底线；经销商联谊会“批量”解散？茅台回应；蚂蚁“灵光”小范围内测，新版对标“Meta Muse”",
@@ -1828,15 +1844,23 @@
      "title": "Google Data Centers around the world",
      "link": "https://datacenters.google/locations/",
      "pubDate": "Sun, 11 Oct 2026 22:45:40 +0000",
-     "summary": "Article URL: https://datacenters.google/locations/ Comments URL: https://news.ycombinator.com/item?id=50048768 Points: 19 # Comments: 7",
+     "summary": "Article URL: https://datacenters.google/locations/ Comments URL: https://news.ycombinator.com/item?id=50048768 Points: 28 # Comments: 14",
      "source": "Hacker News",
      "zh": "世界各地的 Google 数据中心"
+    },
+    {
+     "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
+     "link": "https://github.com/julianjohnson-web/julianflux-research",
+     "pubDate": "Sun, 11 Oct 2026 22:39:40 +0000",
+     "summary": "Article URL: https://github.com/julianjohnson-web/julianflux-research Comments URL: https://news.ycombinator.com/item?id=50048702 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "JulianFlux：人工智能的电动矢量检索和因果路由"
     },
     {
      "title": "Fingerprints Are the New Cookies",
      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
      "pubDate": "Sun, 11 Oct 2026 22:33:39 +0000",
-     "summary": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 12 # Comments: 4",
+     "summary": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 21 # Comments: 6",
      "source": "Hacker News",
      "zh": "指纹是新的 Cookie"
     },
@@ -1844,7 +1868,7 @@
      "title": "Google is illegaly cutting forest to build data centers",
      "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
      "pubDate": "Sun, 11 Oct 2026 22:33:30 +0000",
-     "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment Comments URL: https://news.ycombinator.com/item?id=50048638 Points: 21 # Comments: 4",
+     "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment Comments URL: https://news.ycombinator.com/item?id=50048638 Points: 38 # Comments: 6",
      "source": "Hacker News",
      "zh": "谷歌非法砍伐森林建设数据中心"
     },
@@ -1852,17 +1876,9 @@
      "title": "Recursive self-improvement through collective intelligence",
      "link": "https://pub.sakana.ai/mass/",
      "pubDate": "Sun, 11 Oct 2026 22:22:10 +0000",
-     "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 21 # Comments: 1",
+     "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 27 # Comments: 3",
      "source": "Hacker News",
      "zh": "通过集体智慧递归自我完善"
-    },
-    {
-     "title": "Passkeys are a trap. Do not use them",
-     "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-     "pubDate": "Sun, 11 Oct 2026 21:59:48 +0000",
-     "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 123 # Comments: 50",
-     "source": "Hacker News",
-     "zh": "万能钥匙是一个陷阱。不要使用它们"
     },
     {
      "title": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
@@ -1871,14 +1887,6 @@
      "summary": "Wall Street Journal : Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September &nbsp; &mdash;&nbsp; San Francisco company's software makes it easier for developers to switch between different AI c",
      "source": "Techmeme",
      "zh": "消息来源：亚马逊正在洽谈收购人工智能初创公司 Decart，这笔交易的估值可能约为 7B 美元； Anthropic 决定不于 9 月份以约 6B 美元的价格收购 Decart（华尔街日报）"
-    },
-    {
-     "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
-     "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
-     "pubDate": "Sun, 11 Oct 2026 21:07:20 +0000",
-     "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 102 # Comments: 63",
-     "source": "Hacker News",
-     "zh": "一名远程员工每天拒绝 160 张网络摄像头照片。她的雇主解雇了她"
     },
     {
      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
@@ -1951,14 +1959,6 @@
      "summary": "Android 社区发行版项目 LineageOS 释出了基于 Android 17 的 LineageOS 24。2026 年 12 月 24 日，LineageOS 将迎来十周年纪念。开发者表示这是一个重要的里程碑，期望继续走向下一个十年。LineageOS 24 主要变化包括：合并了截至 2026 年 10 月的安全补丁，新的图像编辑器 Canvas 可满足基本的照片编辑需求，Android TV 启动器 Catapult；为移动设备和掌机添加电量指示器；一系列应用更新，等等。",
      "source": "Solidot",
      "zh": "LineageOS 24 释出"
-    },
-    {
-     "title": "本末科技，还没吃上具身智能这碗饭",
-     "link": "https://www.tmtpost.com/8164407.html",
-     "pubDate": "Sun, 11 Oct 2026 21:08:08 +0800",
-     "summary": "具身智能业务营收占比5%。",
-     "source": "钛媒体",
-     "zh": "本末科技，还没吃上具身智能这碗饭"
     }
    ]
   },
@@ -1968,6 +1968,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Mbps Vs MB/s: What do these speeds mean?",
+     "link": "https://www.engadget.com/2281288/megabits-vs-megabytes-what-speeds-mean/",
+     "pubDate": "Sun, 11 Oct 2026 23:45:00 +0000",
+     "summary": "Know the difference between bits and bytes.",
+     "source": "Engadget",
+     "zh": "Mbps 与 MB/s：这些速度意味着什么？"
+    },
     {
      "title": "vivo X500E moves a step closer to launch as it gets Bluetooth certified",
      "link": "https://www.gsmarena.com/vivo_x500e_bluetooth_sig_certified-news-74993.php",
@@ -2039,14 +2047,6 @@
      "summary": "One of the best new features of Google’s Pixel 11 (and Googlebook) is support for Rambler voice-to-text, and it’s now been ported to other devices – if you’re willing to take the risk, that is. more…",
      "source": "9to5Google",
      "zh": "有人将 Pixel 11 的 Rambler 语音转文本功能移植到其他 Android 手机上"
-    },
-    {
-     "title": "Anbernic's next dual-screen handheld has the perfect aspect ratio for 3DS games",
-     "link": "https://www.engadget.com/2283296/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/",
-     "pubDate": "Sun, 11 Oct 2026 18:54:38 +0000",
-     "summary": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3.",
-     "source": "Engadget",
-     "zh": "Anbernic 的下一代双屏手持设备具有适合 3DS 游戏的完美宽高比"
     },
     {
      "title": "The original Apple TV 4K from 2017 is now officially \"vintage\"",
@@ -2225,28 +2225,60 @@
      "zh": "SBI 集团与 Mesh 准备数字资产合资企业"
     },
     {
-     "title": "据Politico：美国法官已下令立即停止由纳税人出资、支持特朗普的广告",
-     "link": "http://finance.eastmoney.com/news/1351,202610123892159535.html",
-     "pubDate": "Mon, 12 Oct 2026 07:42:36 +0800",
-     "summary": "据Politico：美国法官已下令立即停止由纳税人出资、支持特朗普的广告。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "据Politico：美国法官已下令立即停止由纳税人出资、支持特朗普的广告"
+     "title": "伊朗称美国已接受伊方所提部分条件，伊朗外长称“愿为政治解决也门冲突提供一切帮助”",
+     "link": "https://wallstreetcn.com/articles/3783388",
+     "pubDate": "Mon, 12 Oct 2026 07:50:39 +0800",
+     "summary": "伊朗称美国已接受伊方所提部分条件 新华社德黑兰10月11日消息，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊11日表示，美国已接受伊朗就重新开放霍尔木兹海峡所提出的部分条件，但就伊朗提出的其他条件，目前情况尚不明朗。 在伊朗新闻电视台11日播放的采访中，雷扎伊作出上述表态并详细阐述了伊美近期沟通情况。 雷扎伊说：“过去两个月里，美方通过巴基斯坦、卡塔尔、伊拉克三个不同渠道，要求伊朗提出提议。伊朗向美方提出7项条件，并明确告知美方，除非满足这些条件，否则不会向其开放霍尔木兹海峡，也不会进行任何谈判。” 雷扎伊说，美方现已作出回应，“但伊朗认为力度不足”。 他强调，美方必须澄清一些模糊之处，伊朗需要观",
+     "source": "华尔街见闻",
+     "zh": "伊朗称美国已接受伊方所提部分条件，伊朗外长称“愿为政治解决也门冲突提供一切帮助”"
     },
     {
-     "title": "两大矿端龙头宣布提价！这13股业绩暴增但股价“砸深坑”",
-     "link": "http://finance.eastmoney.com/news/1344,202610123892159434.html",
-     "pubDate": "Mon, 12 Oct 2026 07:42:07 +0800",
-     "summary": "四季度 稀土 精矿企稳上涨。 10月9日晚间， 包钢股份 、 北方稀土 双双公告，拟将2026年第四季度 稀土 精矿关联交易价格调整为不含税38769元/吨（干量，REO=50%），REO每增减1%、不含税价格增减775.38元/吨。相比三季度 稀土 精矿交易价格38565元/吨，此次价格环比增长0.53%。 若与2025年四季度的26205元/吨相比，本轮定价仍高出约48%。 稀土价格年内多轮起伏 上述两家稀土资源公司下一个季度的精矿交易价格，具有风向标的意义。今年7月10日， 包钢股份 、 北方稀土 公告第三季度稀土精矿交易价格38565元/吨，环比小幅回落，终结此前连续7个季度上涨。 在",
+     "title": "政策加码 四季度增量资金入市可期",
+     "link": "http://stock.eastmoney.com/news/11215,202610113892129487.html",
+     "pubDate": "Mon, 12 Oct 2026 07:49:00 +0800",
+     "summary": "10月10日，中国证监会党委书记、主席吴清在北京召开座谈会，与部分上市公司负责人、证券基金机构专家深入交流，就当前资本市场和金融形势充分听取意见建议。与会专家对更好推动资本市场平稳健康发展提出了具体建议，其中包括“持续加强稳市机制建设，进一步拓宽中长期资金来源、渠道和入市方式，发展壮大耐心资本”。 进入四季度，在政策持续加码、基本面修复的背景下，多路增量资金持续流入。一方面，保险资金、社保基金等中长期资金加速入场，成为市场稳定的“压舱石”；另一方面， 融资融券 （以下简称“两融”）等交易型资金不断流入。同时，外资正打开增配通道。 多方资金合力，共同为四季度市场稳定提供支撑。 国信证券 策略首席",
      "source": "东方财富股票",
-     "zh": "两大矿端龙头宣布提价！这13股业绩暴增但股价“砸深坑”"
+     "zh": "政策加码 四季度增量资金入市可期"
     },
     {
-     "title": "险资机构表示现有持仓不会进行大幅调整",
-     "link": "http://stock.eastmoney.com/news/11215,202610113892129874.html",
-     "pubDate": "Mon, 12 Oct 2026 07:41:00 +0800",
-     "summary": "近期，A股市场震荡整理，投资者高度关注四季度市场将呈怎样的走势，险资机构将采取怎样的投资策略？接受记者采访的险资机构人士普遍认为，预计四季度A股将呈震荡格局，对于现有持仓，险资机构普遍表示不会进行大幅调整，仍保持长期投资策略。 某人身险公司相关负责人对《证券日报》记者表示，预计四季度A股市场将宽幅震荡、结构分化，市场驱动因素由流动性与叙事切换为盈利兑现，压制因素则包括拥挤度与估值分化。 另一位受访人士对《证券日报》记者表示，预计四季度A股指数震荡磨底，方向选择则需等两个信号，一是上市公司三季报对市场盈利预期的验证，二是美联储今年12月的利率调整落地。他认为，在海外高利率环境等因素的影响下，A股",
+     "title": "马克·古尔曼：苹果将推出智能家居中枢HomeView 联手LG完善产品线",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892161714.html",
+     "pubDate": "Mon, 12 Oct 2026 07:48:26 +0800",
+     "summary": "当地时间10月11日，知名科技记者马克·古尔曼发文称， 苹果 计划于10月13日发布新一代 智能家居 产品，包括搭载A18芯片、配备显示屏的 智能家居 中枢HomeView，以及搭载S10芯片的新款HomePod mini和搭载A19芯片的Apple TV。HomeView提供桌面和壁挂两种版本，预计11月中旬上市；后两款产品预计10月30日开售。 古尔曼称， 苹果 还与LG 电子 合作开发智能门铃、门锁、恒温器及安防摄像头等设备，并计划以“Apple Home Collection”品牌推出，相关产品预计最早于今年晚些时候上市。 苹果 此次布局旨在完善 智能家居 生态，通过整合硬件、Siri",
      "source": "东方财富股票",
-     "zh": "险资机构表示现有持仓不会进行大幅调整"
+     "zh": "马克·古尔曼：苹果将推出智能家居中枢HomeView 联手LG完善产品线"
+    },
+    {
+     "title": "中信建投：星网完成首次跨极区在轨通信试验 卫星互联网商业化加速落地",
+     "link": "http://finance.eastmoney.com/news/1355,202610123892161537.html",
+     "pubDate": "Mon, 12 Oct 2026 07:48:26 +0800",
+     "summary": "中信建投 研报指出，近日，中国星网GW星座完成首次跨极区在轨 通信 试验，“雪龙”号等科考船与南极秦岭站实现南北两极四节点双向视频连线，时延不足1秒、上下行峰值约30Mbps，数据全程不经境外节点，标志我国极区 通信 实现全链路自主可控。依托GW-A59/A2多层轨道布局、Ka频段宽带载荷与激光星间链路，试验突破了GEO卫星无法覆盖75&deg;以上极区的盲区。短期看，Ka载荷、激光终端、相控阵天线等上游环节有望规模化降本；中期价值重心由“建网”向“用网”迁移，地面终端、手机直连、行业专网与运营服务将逐步受益。建议关注：1）火箭环节：发动机、箭体结构等高壁垒领域；2）卫星环节：载荷、天线及激光",
+     "source": "东方财富股票",
+     "zh": "中信建投：星网完成首次跨极区在轨通信试验 卫星互联网商业化加速落地"
+    },
+    {
+     "title": "A股公司年内分红总额超2万亿元 “一年多次分红”渐成常态",
+     "link": "http://stock.eastmoney.com/news/11215,202610113892129587.html",
+     "pubDate": "Mon, 12 Oct 2026 07:47:00 +0800",
+     "summary": "A股市场常态化分红机制持续完善。《证券日报》记者根据Wind数据统计，以股权登记日计算，截至10月11日，今年以来3723家A股上市公司合计分红金额超2万亿元。其中，565家公司已实施中期分红，11家公司已实施特别分红，“一年多次分红”渐成常态。 得益于上市公司经营基本面稳步改善，以及《国务院关于加强监管防范风险推动资本市场高质量发展的若干意见》（以下简称“新‘国九条’”）等政策持续引导，A股常态化、可持续的股东回报机制不断完善。 分红金额持续提升 近年来，上市公司分红金额有所增长。Wind数据显示，2023年至2025年，A股上市公司分别分红2.13万亿元、2.4万亿元、2.63万亿元。20",
+     "source": "东方财富股票",
+     "zh": "A股公司年内分红总额超2万亿元 “一年多次分红”渐成常态"
+    },
+    {
+     "title": "中信建投：TLVR芯片电感单位价值量提升 行业空间极速扩容",
+     "link": "http://finance.eastmoney.com/news/1355,202610123892161458.html",
+     "pubDate": "Mon, 12 Oct 2026 07:46:26 +0800",
+     "summary": "中信建投 证券研报称，多相TLVR电感是大势所趋。 AI芯片 电感未来三大产业趋势：1、单相电感走向多相电感，密度提升；2、水平供电转向VPD垂直供电，供电效率提升；3、NON-TTLVR转向TLVR电感，价值量提升。多相TLVR电感将成为必须。 AI芯片 电感从2025年到2028年市场规模扩容10倍以上。未来芯片电感面临多重驱动，随着 AI芯片 出货增加、芯片功率上升、电感性能升级，AI芯片电感市场规模将快速扩容，规模增速=芯片出货倍数×功率提升倍数×单颗价值提升倍数。预计市场规模将从2025年的24亿提升至2028年的超300亿。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "中信建投：TLVR芯片电感单位价值量提升 行业空间极速扩容"
+    },
+    {
+     "title": "具身智能产业迈入高速成长期",
+     "link": "http://finance.eastmoney.com/news/1355,202610113892130289.html",
+     "pubDate": "Mon, 12 Oct 2026 07:46:00 +0800",
+     "summary": "近日，中共中央、国务院印发《关于发展新质生产力的意见》（以下简称《意见》）。《意见》强调“前瞻布局未来产业”，并进一步提出“推动 量子科技 、生物制造、氢能和核聚变能、 脑机接口 、具身智能、第六代移动 通信 等未来产业发展，加快形成比较完备的产业生态”。 首都科技发展战略研究院特邀研究员、 中关村 发展集团资深专家董晓宇告诉《证券日报》记者，我国具身智能已具备一定产业基础。《意见》的发布将进一步提升具身智能的市场关注度，更好地引导各类资源持续投入该领域，有效推动技术进步和应用探索，从而不断增强产业链上下游协同性，助力产业生态建设提速。 年内融资金额超千亿元 当前，国内具身智能产业呈现出多条技",
+     "source": "东方财富股票",
+     "zh": "具身智能产业迈入高速成长期"
     },
     {
      "title": "岂能让消费者替“速成车”补上测试课",
@@ -2255,30 +2287,6 @@
      "summary": "10月10日，工业和信息化部等四部门联合发布通知，提出对未按要求进行测试验证、测试验证不充分或提供虚假验证材料的产品不予公告。中国汽车工业协会也发出倡议，要求补齐研发验证短板。这意味着，针对近年来备受争议的“速成车”现象，车企必须把车辆上市前的安全功课做足。 从应急机械拉手相关召回，到零重力座椅、全隐藏式门把手的安全讨论，消费者对于汽车安全的关注度与日俱增。行业需要正视一个问题：新功能不断增加...",
      "source": "经济观察网",
      "zh": "岂能让消费者替“速成车”补上测试课"
-    },
-    {
-     "title": "新西兰执政党：现在不是减税的时候",
-     "link": "http://finance.eastmoney.com/news/1351,202610123892158629.html",
-     "pubDate": "Mon, 12 Oct 2026 07:38:35 +0800",
-     "summary": "新西兰执政党国家党（National Party）表示，鉴于该国的债务负担和预算赤字状况，目前并非减税的时机。新西兰国家党财政事务发言人尼古拉·威利斯（Nicola Willis）周一表示，当务之急是削减债务并投资于一线服务，特别是医疗卫生和基础设施领域。该党在政策文件中指出：“一旦财政扭亏为盈且盈余规模不断扩大，国家党政府将有条件考虑减税措施。但目前的重中之重是通过实现财政盈余和降低债务水平，将预测变为现实。” （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "新西兰执政党：现在不是减税的时候"
-    },
-    {
-     "title": "一周前瞻丨美联储官员静默期前密集发声，沃什周五亮相IMF；中美CPI周三出炉；新一轮财报季开启，阿斯麦、台积电将率先交卷",
-     "link": "http://hk.eastmoney.com/news/11617,202610123892159170.html",
-     "pubDate": "Mon, 12 Oct 2026 07:38:30 +0800",
-     "summary": "美国9月CPI重磅登场，10月与12月加息预期面临再定价 北京时间周三20:30，美国9月CPI、核心CPI将公布，是下周最重要的宏观交易事件。近期就业数据偏弱，多位美联储官员也表示，在再次加息前仍有时间观察经济表现，市场对10月28日加息的定价已降至19%，此前一度达到70%；与此同时，市场已经完全计入12月加息25个基点的情景。 此外，周四20:30，美国9月零售销售、PPI和核心PPI将集中公布，同时出炉的还有至10月10日当周初请失业金人数、纽约联储制造业指数及费城联储制造业指数。市场需要结合消费、上游价格和就业数据，判断通胀压力来自短期能源扰动，还是需求过强。 美联储官员静默期前密集",
-     "source": "东方财富股票",
-     "zh": "一周前瞻丨美联储官员静默期前密集发声，沃什周五亮相IMF；中美CPI周三出炉；新一轮财报季开启，阿斯麦、台积电将率先交卷"
-    },
-    {
-     "title": "智能体发展重塑算力需求格局",
-     "link": "http://finance.eastmoney.com/news/1355,202610123892140567.html",
-     "pubDate": "Mon, 12 Oct 2026 07:38:16 +0800",
-     "summary": "近日，国际数据公司（IDC）预测，2026年至2030年，全球活跃智能体数量将从7940万个增长至22.16亿个，复合增长率达到129.8%；全球Token消耗量急剧放大，复合增长率将达4822.6%。业内人士认为，智能体数量与Token消耗的快速增长，正带动算力需求持续攀升。同时，随着智能体任务从简单的信息检索、内容生成，向需要多轮推理、工具调用和跨系统协作的复杂任务演进，全球算力产业也在相应发生结构性、范式性变革。 智能体算力需求攀升 2026年，我国明确了实施“ 人工智能 +”行动的阶段性目标：到2027年，新一代智能终端、智能体等应用普及率超70%，智能经济核心产业规模快速增长；到20",
-     "source": "东方财富股票",
-     "zh": "智能体发展重塑算力需求格局"
     },
     {
      "title": "微软CEO呼吁对高级AI设置“紧急制动”系统",
@@ -2447,14 +2455,6 @@
      "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
      "source": "MarketWatch",
      "zh": "我是一名 68 岁的寡妇，给我的两个成年孩子捐钱。我的退休生活是否面临风险？"
-    },
-    {
-     "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
-     "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 18:40:51 GMT",
-     "summary": "Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin",
-     "source": "Financial Times",
-     "zh": "美国因俄罗斯炼油厂遇袭威胁停止向乌克兰提供武器"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 16:31:56",
+ "generated_at": "2026/10/11 16:51:56",
  "recent_days": 7,
  "industries": [
   {
@@ -962,12 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "Clean-energy super PAC names its target list for general elections"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1722,44 +1722,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "2026 广交会设计创新奖公布，张雪机车 820RR 获至尊金奖",
-     "link": "https://www.ithome.com/1/011/629.htm",
-     "pubDate": "Sun, 11 Oct 2026 08:27:59 GMT",
-     "summary": "IT之家 10 月 11 日消息，据央视新闻今日报道，记者从中国对外贸易中心了解到，2026 年广交会设计创新奖（简称“CF 奖”）名单已公布，共有 174 家企业的 222 件产品获奖，其中， 张雪机车 820RR 获广交会 CF 奖至尊金奖 ，另一款获至尊金奖的产品是智巡胶囊机器人胃内窥镜系统。 据了解，获奖产品将在第 140 届广交会期间集中展示。此次获奖产品呈现以下三大特点： 一是向“新”集聚，新质生产力特征突出。 获奖产品集中于技术创新型企业。从至尊金奖的张雪机车 820RR、智巡胶囊机器人胃内窥镜系统，到脑机接口康复系统、外骨骼机器人等前沿精品集中涌现，彰显高端制造创新引领趋势。 ",
+     "title": "四部门为汽车安全划定红线：明确汽车设计、可靠性验证试验管理，研发测试要包含两冬一夏",
+     "link": "https://www.ithome.com/1/011/637.htm",
+     "pubDate": "Sun, 11 Oct 2026 08:49:06 GMT",
+     "summary": "IT之家 10 月 11 日消息，工业和信息化部会同公安部、生态环境部、市场监管总局 10 日联合发布《关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）》。 据央视新闻今日报道，此次出台的文件重点面向三个方向： 一是研发测试验证，明确测试周期和里程的硬性要求。新申报产品必须完成综合可靠性与耐久性、结构可靠性、软件功能可靠性等测试。其中，环境适应性验证周期不少于 1 年， 须包含“两冬一夏”试验 ；可靠性验证试验里程不低于 3 万公里。 二是创新设计准入，划出红线清单。 禁止配备全隐藏式车门把手 ；不得采用折叠屏、柔性屏；行车过程中不得使用“零重力”座椅、旋转座椅或座",
      "source": "IT之家",
-     "zh": "2026 广交会设计创新奖公布，张雪机车 820RR 获至尊金奖"
+     "zh": "四部门为汽车安全划定红线：明确汽车设计、可靠性验证试验管理，研发测试要包含两冬一夏"
     },
     {
-     "title": "新增河北云南：苹果 AirPods 5 主动降噪耳机 849 元国补限地区，以旧换新 699 元起",
-     "link": "https://www.ithome.com/1/011/628.htm",
-     "pubDate": "Sun, 11 Oct 2026 08:25:35 GMT",
-     "summary": "苹果今日宣布推出 AirPods 5 ，支持主动降噪，国行定价 999 元起。 京东目前支持部分地区政府补贴（收货地址在 江苏、吉林、北京、大连， 今日新增 河北、云南 ），实付 849.15 元起。 另外京东今日加码“以旧换新”，旧物估值超过 100 元（限耳机品类），京东加补 100~150 元： 京东 Apple AirPods 5 支持主动降噪 国补后 849 元 直达链接 京东 Apple AirPods 5 搭配无线充电盒 增强续航 国补后 977 元 直达链接 京东 11.11 红包 10 月 12 日 20:00 开抢，至高 26888 元无门槛可用： 点此抢红包 。 京东“换",
+     "title": "全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风：索尼推出 ECM-AX10",
+     "link": "https://www.ithome.com/1/011/636.htm",
+     "pubDate": "Sun, 11 Oct 2026 08:47:35 GMT",
+     "summary": "IT之家 10 月 11 日消息，索尼前天宣布推出 ECM-AX10， 这是全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风 ，可在拍摄视频时同步录制空间音频。 据介绍，这款产品具备 Eclipsa Audio 认证，可以直接安装在智能手机上使用。无论是拍摄 Vlog、旅行记录、演唱会，还是观看体育赛事，它都能将视觉难以传达的现场氛围和临场感声音，以空间音频形式记录下来。 同时，该产品搭载 4 个全指向性麦克风，能够采集整个空间声学信息，可根据使用环境选择多种录音格式。 其专用 App Spatial Audio Video Tool 计划支持 iOS 和 Android ",
      "source": "IT之家",
-     "zh": "新增河北云南：苹果 AirPods 5 主动降噪耳机 849 元国补限地区，以旧换新 699 元起"
+     "zh": "全球首款支持 Eclipsa Audio 3D 空间音频的手机麦克风：索尼推出 ECM-AX10"
     },
     {
-     "title": "类原生安卓系统 LineageOS 24 更新发布，基于 Android 17",
-     "link": "https://www.ithome.com/1/011/627.htm",
-     "pubDate": "Sun, 11 Oct 2026 08:22:08 GMT",
-     "summary": "IT之家 10 月 11 日消息，类原生安卓系统 LineageOS 今日正式发布了 LineageOS 24 版本更新 ，基于 Android 17 打造。 LineageOS 官方表示，自从 Android 17 于六月发布以来，LineageOS 团队一直在努力重新调整所有的变更和功能。Android 17 的第一个版本主要包含迭代改进和一些界面 / 用户体验的改进，但由于 LineageOS 团队之前在适应谷歌最近几个版本的大规模重构，因此能够比预期更快地构建基于 Android 17 的代码库。 2025 年 8 月至 2026 年 10 月的安全补丁 已合并到 LineageOS ",
+     "title": "一加 16 全新游戏助手公布：射击显示增强、自研游戏相机等",
+     "link": "https://www.ithome.com/1/011/635.htm",
+     "pubDate": "Sun, 11 Oct 2026 08:43:13 GMT",
+     "summary": "IT之家 10 月 11 日消息，一加 16 新品发布会将于 10 月 12 日 19:00 举行，带来全新游戏助手，支持射击显示增强、游戏语音降噪、全新游戏光效、自研游戏相机。 据IT之家此前报道， 一加 16 手机首批搭载第六代骁龙 8 超级至尊版 ，搭配全新一代风驰游戏内核，出厂即写入芯片底层。 一加 16 手机搭载与京东方联合研发的 185Hz 第四代东方屏 ，采用全新 X4 发光材料，日常使用支持全局 165Hz 超高刷，采用 1.15mm 极窄四等边屏幕。 配置汇总如下： 6.78 英寸 1.5K+185Hz BOE X4 直屏，支持 165Hz 全局超高刷，1.15mm LIPO",
      "source": "IT之家",
-     "zh": "类原生安卓系统 LineageOS 24 更新发布，基于 Android 17"
+     "zh": "一加 16 全新游戏助手公布：射击显示增强、自研游戏相机等"
     },
     {
-     "title": "KDE Plasma 桌面环境将推出“安全模式”：排除故障专用，预计今年四季度落地",
-     "link": "https://www.ithome.com/1/011/626.htm",
-     "pubDate": "Sun, 11 Oct 2026 08:20:48 GMT",
-     "summary": "IT之家 10 月 11 日消息，KDE Plasma 官方今日宣布，Plasma 桌面环境将推出排除故障专用的“安全模式”， 预计 2026 年第四季度陆续落地 。 IT之家了解到，安全模式可在不加载任何第三方自定义内容的情况下启动桌面环境， 用户登录后能够打开专用故障排查工具 ， 让桌面会话恢复正常 。该功能仍在开发中，未来将公布更多信息。 截至目前，KDE Plasma 开发团队尚未详细说明该功能的具体工作方式。如果它能拥有自动化工具或详细提示步骤，帮助用户找出影响系统正常运行的程序，那再好不过。 此外，KDE Plasma 本季度获得了德国主权科技基金会（Sovereign Tech ",
+     "title": "小米 REDMI 显示器 A27U 2027 款发售：27 英寸 4K 75Hz，1199 元",
+     "link": "https://www.ithome.com/1/011/633.htm",
+     "pubDate": "Sun, 11 Oct 2026 08:39:38 GMT",
+     "summary": "IT之家 10 月 11 日消息，小米 REDMI 显示器 A27U 2027 款现已在京东上架，该机主打 4K 75Hz， 定价为 1199 元 。 京东 小米 REDMI 显示器 A27U 2027 款 1199 元 直达链接 该机配备一块 3840x2160 分辨率 75Hz IPS 面板，显示器亮度 400 尼特，响应速度 6ms，对比度 1500:1，对比度 1500:1，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 99% DCI-P3 色域。 该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 75x75mm 壁挂，提供 2 个 HDMI 2.0、2",
      "source": "IT之家",
-     "zh": "KDE Plasma 桌面环境将推出“安全模式”：排除故障专用，预计今年四季度落地"
+     "zh": "小米 REDMI 显示器 A27U 2027 款发售：27 英寸 4K 75Hz，1199 元"
     },
     {
-     "title": "宏碁推出“XV273X V”27 英寸显示器：5K 180Hz/2K 330Hz 双模 + 双扬，4699 元",
-     "link": "https://www.ithome.com/1/011/625.htm",
-     "pubDate": "Sun, 11 Oct 2026 08:20:32 GMT",
-     "summary": "IT之家 10 月 11 日消息，宏碁现已在京东上架“XV273X V”27 英寸显示器，该机主打 5K 180Hz/2K 330Hz， 定价为 4699 元 。 京东 宏碁“XV273X V”显示器 4699 元 直达链接 该机配备的 Fast IPS 面板支持以 5120x2880 分辨率 180Hz 或 2560x1440 分辨率 330Hz 显示，GtG 响应速度 1ms，峰值亮度 600 尼特，显示器支持 10-Bit 色彩（8-Bit + FRC），覆盖 95% DCI-P3 色域。 该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，配备双 ",
+     "title": "跻身全球第一梯队：华为 × 华东师大联合研发时序预测基础模型，登顶国际权威时序测评双榜单",
+     "link": "https://www.ithome.com/1/011/631.htm",
+     "pubDate": "Sun, 11 Oct 2026 08:30:53 GMT",
+     "summary": "IT之家 10 月 11 日消息，据华为云官方消息，近日，华为公司 (华为云行业大模型团队 + 2012 应用场景创新实验室 + 小巧灵突击队) 与华东师范大学联合团队研发的昇腾原生时序预训练模型取得重磅突破， 成功登顶国际权威时序评测榜单 TIME-leaderboard 和 GIFT-Eval（Pretrained 类目） 。 ▲ TIME 评测榜单 ▲ GIFT-Eval 榜单（Pretrained 类目） 据介绍，时序基础模型作为人工智能赋能气象预测、能源调度、工业运维、金融分析等核心场景的关键技术底座， 是当下 AI 基础研究与产业落地的核心赛道 。研发团队基于华为昇腾生态，完成了模",
      "source": "IT之家",
-     "zh": "宏碁推出“XV273X V”27 英寸显示器：5K 180Hz/2K 330Hz 双模 + 双扬，4699 元"
+     "zh": "跻身全球第一梯队：华为 × 华东师大联合研发时序预测基础模型，登顶国际权威时序测评双榜单"
+    },
+    {
+     "title": "小米有品上架 Yeelight 全光谱智能人体存在面板灯 M4 众筹：提供 30x30/30x60mm 双规格，109 元起",
+     "link": "https://www.ithome.com/1/011/630.htm",
+     "pubDate": "Sun, 11 Oct 2026 08:29:42 GMT",
+     "summary": "IT之家 10 月 11 日消息，Yeelight 现已在小米有品上架全光谱智能人体存在面板灯 M4 众筹（ 点此访问 ），该产品提供 30x30cm 与 30x60cm 两种规格，其中 24W 款式适配 8 至 12m² 空间， 定价为 109 元 ，36W 款式适配 12 至 18m² 空间， 定价为 149 元 。 系列面板灯采用全塑一体成型灯体，边框厚度薄至 2mm，具备 IP54 防护等级，内置 24G 雷达与光照双传感器，在 2.5m 安装高度下感应范围可达 10m。号称能够精准捕捉人体微动，实现人来灯亮与人走灯灭，并支持 AI 环境自适应以降低误触风险。 系列面板灯搭载蓝牙 Me",
+     "source": "IT之家",
+     "zh": "小米有品上架 Yeelight 全光谱智能人体存在面板灯 M4 众筹：提供 30x30/30x60mm 双规格，109 元起"
     },
     {
      "title": "科技商学院该看懂的科学家创业：技术很强，为什么公司还是显得“乱”？",
@@ -1770,20 +1778,20 @@ window.INDUSTRY_DATA = {
      "zh": "科技商学院该看懂的科学家创业：技术很强，为什么公司还是显得“乱”？"
     },
     {
-     "title": "会员年卡 11.11 抢先促：百度网盘 158 元年内探底，88VIP、QQ 音乐绿钻官方发车",
-     "link": "https://www.ithome.com/1/011/623.htm",
-     "pubDate": "Sun, 11 Oct 2026 08:13:08 GMT",
-     "summary": "百度网盘 百度网盘超级会员年卡官方售价 298 元，今日预售直降至 196 元 + 限时加赠 3 个月。 到手共 15 个月， 折合 13.1 元 / 月、157 元 / 年 ： 京东 百度网盘 SVIP 超级会员 15 月卡 券后 196 元 领 10 元券 百度网盘超级会员年卡 + B站大会员季卡 + 网易云音乐月卡今日折后仅需 176 元，也是好价。 如果把百度年卡算作 157 元， B站季卡 + 网易云音乐月卡仅需 19 元 ： 京东 百度网盘 SVIP 超级会员年卡 加赠B站季卡 + 网易云音乐月卡 券后 176 元 领 10 元券 注：现购买权益时长 + 已有权益时长， 不能超过 ",
-     "source": "IT之家",
-     "zh": "会员年卡 11.11 抢先促：百度网盘 158 元年内探底，88VIP、QQ 音乐绿钻官方发车"
-    },
-    {
      "title": "凝视AI世代的命名美学：从出世到入世",
      "link": "https://www.huxiu.com/article/4896614.html?f=rss",
      "pubDate": "Sun, 11 Oct 2026 15:59:55 +0800",
      "summary": "本文来自微信公众号： 叫我茉莉同学 ，作者：叫我茉莉同学 “我求求各位AI产品创始人了，你们能够给产品起点让用户能念出来的名字吗？” 一位网友曾随手发出的吐槽，意外获得很多人共鸣。 产品起名，看着随意，你给AI下几个指令，不难获得成千上万的方案。但一个糟糕的名字，往往要花费更高的营销代价，才能让别人记住。 毕竟，品牌起名是产品第一支广告：短期要宣传产品，打开市场，长期积累品牌资产，助力生意实效增长。 这些年AI产品持续汹涌而来，关于产品起名这件小事，也正在发生有趣的变化：前几年，还能经常看到用户两边倒的「浪漫」呼声和发音槽点，这两年已经逐渐「走入寻常百姓家」。这背后，是AI公司「出世」与「入世",
      "source": "虎嗅",
      "zh": "凝视AI世代的命名美学：从出世到入世"
+    },
+    {
+     "title": "I wish you the best in the Offline",
+     "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+     "pubDate": "Sun, 11 Oct 2026 07:53:42 +0000",
+     "summary": "Article URL: https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/ Comments URL: https://news.ycombinator.com/item?id=50040625 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "I wish you the best in the Offline"
     },
     {
      "title": "《第一性思考》14｜AI干掉了实习生，十年后谁来当专家？",
@@ -1797,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "3rd Yandex Cloud Data Center Was Hit",
      "link": "https://status.yandex.cloud/en/incidents/2136",
      "pubDate": "Sun, 11 Oct 2026 07:34:45 +0000",
-     "summary": "Article URL: https://status.yandex.cloud/en/incidents/2136 Comments URL: https://news.ycombinator.com/item?id=50040547 Points: 44 # Comments: 27",
+     "summary": "Article URL: https://status.yandex.cloud/en/incidents/2136 Comments URL: https://news.ycombinator.com/item?id=50040547 Points: 108 # Comments: 118",
      "source": "Hacker News",
      "zh": "3rd Yandex Cloud Data Center Was Hit"
     },
@@ -1824,6 +1832,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 字母榜 ，作者：思博 苹果又要开发布会了，这一次，主角是智能家居。 北京时间10月9日，苹果公布了10月13日的“欢迎回家”（Welcome Home）新品活动邀请函。预计首款智能家居中枢、新款HomePod mini和Apple TV 4K将一起亮相。此前，苹果还被曝与LG合作开发门铃、门锁、恒温器等配件。 苹果的智能家居不温不火了很多年，苹果也冷落它很多年，为什么突然轮到了它？ 其实9月秋季iPhone发布会上已经有了铺垫，新任CEO特努斯提出了“智能个人中枢”的概念，现在围绕中枢的“感知入口”更新到了家庭设备。 特努斯这是要学小米吗？音箱、电视盒子、门锁，再加一个负",
      "source": "虎嗅",
      "zh": "大搞硬件矩阵的苹果，还是没把大象放进冰箱"
+    },
+    {
+     "title": "LineageOS 24.0",
+     "link": "https://lineageos.org/Changelog-32/",
+     "pubDate": "Sun, 11 Oct 2026 06:18:59 +0000",
+     "summary": "Article URL: https://lineageos.org/Changelog-32/ Comments URL: https://news.ycombinator.com/item?id=50040276 Points: 10 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "LineageOS 24.0"
     },
     {
      "title": "A look at Beijing-based Neolix, which operates the world&apos;s largest robovan fleet at 27K, as Shenzhen tests nighttime parcel deliveries by driverless vehicles (Bloomberg)",
@@ -1925,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
      "link": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
      "pubDate": "Sun, 11 Oct 2026 03:21:07 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU Comments URL: https://news.ycombinator.com/item?id=50039536 Points: 69 # Comments: 18",
+     "summary": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU Comments URL: https://news.ycombinator.com/item?id=50039536 Points: 75 # Comments: 20",
      "source": "Hacker News",
      "zh": "GameBoy on E-Paper ESP32 at 30FPS [video]"
     },
@@ -1933,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
      "pubDate": "Sun, 11 Oct 2026 02:02:38 +0000",
-     "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 83 # Comments: 61",
+     "summary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 87 # Comments: 66",
      "source": "Hacker News",
      "zh": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter"
     },
@@ -1941,25 +1957,9 @@ window.INDUSTRY_DATA = {
      "title": "PSPi 6 – Raspberry Pi in a PSP",
      "link": "https://github.com/othermod/PSPi-Version-6",
      "pubDate": "Sun, 11 Oct 2026 00:45:49 +0000",
-     "summary": "Article URL: https://github.com/othermod/PSPi-Version-6 Comments URL: https://news.ycombinator.com/item?id=50038623 Points: 74 # Comments: 7",
+     "summary": "Article URL: https://github.com/othermod/PSPi-Version-6 Comments URL: https://news.ycombinator.com/item?id=50038623 Points: 79 # Comments: 7",
      "source": "Hacker News",
      "zh": "PSPi 6 – Raspberry Pi in a PSP"
-    },
-    {
-     "title": "Build your own decision model",
-     "link": "https://nishtahir.com/build-your-own-decision-model/",
-     "pubDate": "Sat, 10 Oct 2026 22:50:10 +0000",
-     "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 266 # Comments: 61",
-     "source": "Hacker News",
-     "zh": "Build your own decision model"
-    },
-    {
-     "title": "A city-building game in which the city would prefer you didn't",
-     "link": "https://housing.over.pizza/",
-     "pubDate": "Sat, 10 Oct 2026 20:31:50 +0000",
-     "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 321 # Comments: 101",
-     "source": "Hacker News",
-     "zh": "A city-building game in which the city would prefer you didn't"
     }
    ]
   },
@@ -1969,6 +1969,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Weekly poll: are you interested in the Samsung Galaxy Tab S12+ or Galaxy Tab S12 Ultra?",
+     "link": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_samsung_galaxy_tab_s12_or_galaxy_tab_s12_ultra-news-74958.php",
+     "pubDate": "Sun, 11 Oct 2026 10:31:02 +0200",
+     "summary": "Last year, the global tablet market was up 8.5% in Q1 as people started to replace devices they bought during the pandemic. Apple led the quarter with 13.7 million units shipped, up 14.0%, while Samsung was around half that with 6.6 million units shipped, down 5.2%. Samsung usually starts shipping i",
+     "source": "GSMArena",
+     "zh": "Weekly poll: are you interested in the Samsung Galaxy Tab S12+ or Galaxy Tab S12 Ultra?"
+    },
     {
      "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
      "link": "https://sspai.com/post/115568",
@@ -2106,14 +2114,6 @@ window.INDUSTRY_DATA = {
      "zh": "Deals: Some Galaxy and Pixel phones kept their Prime Day prices - no Prime required now, though"
     },
     {
-     "title": "Google starts teasing the Fitbit Edge, reveals its launch date",
-     "link": "https://www.gsmarena.com/google_starts_teasing_the_fitbit_edge_reveals_its_launch_date-news-74989.php",
-     "pubDate": "Sat, 10 Oct 2026 18:03:02 +0200",
-     "summary": "Google's next fitness tracker, the Fitbit Edge, leaked earlier this month, and then we also got rumored pricing for it as well as its full specs a few days later. Now, Google has finally acknowledged the existence of the device, and started teasing it on X, where it also revealed the Edge's launch d",
-     "source": "GSMArena",
-     "zh": "Google starts teasing the Fitbit Edge, reveals its launch date"
-    },
-    {
      "title": "Amazon’s new Alexa Tablet finally gives the iPad lineup some much needed competition",
      "link": "https://9to5mac.com/2026/10/10/amazon-alexa-tablet-solid-ipad-competition/",
      "pubDate": "Sat, 10 Oct 2026 15:51:43 +0000",
@@ -2218,44 +2218,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "牧原股份：9月商品猪销售收入85.2亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892065748.html",
-     "pubDate": "Sun, 11 Oct 2026 16:22:45 +0800",
-     "summary": "牧原股份 (002714.SZ)公告称，公司2026年9月销售商品猪642.3万头，同比变动15.24%；商品猪销售均价10.36元/公斤，同比变动-19.57%；商品猪销售收入85.20亿元，同比变动-6.01%。截至9月末，公司能繁母猪存栏为297.4万头。 （文章来源：财联社）",
+     "title": "云顶集团在马来亚银行的评级被下调至卖出 价格为1.49马币",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892070286.html",
+     "pubDate": "Sun, 11 Oct 2026 16:40:27 +0800",
+     "summary": "云顶集团在马来亚 银行 的评级被下调至卖出，价格为1.49马币。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "牧原股份：9月商品猪销售收入85.2亿元"
+     "zh": "云顶集团在马来亚银行的评级被下调至卖出 价格为1.49马币"
     },
     {
-     "title": "天邦食品：9月商品猪销售收入4.62亿元 环比下降6.22%",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892065433.html",
-     "pubDate": "Sun, 11 Oct 2026 16:21:56 +0800",
-     "summary": "天邦食品 10月11日公告，公司2026年9月份销售商品猪50.34万头（其中仔猪销售9.22万头），销售收入46,197.17万元，销售均价9.97元/公斤（商品肥猪均价为10.03元/公斤），环比变动分别为-19.13%、-6.22%、-3.52%。2026年1-9月销售商品猪571.95万头（其中仔猪销售206.02万头），销售收入479,432.98万元，销售均价10.75元/公斤（商品肥猪均价为10.17元/公斤），同比变动分别为23.34%、-21.21%、-31.84%。 （文章来源：界面新闻）",
+     "title": "牧原股份：9月商品猪销售收入85.20亿元，同比下降6.01%",
+     "link": "http://stock.eastmoney.com/news/11219,202610113892070010.html",
+     "pubDate": "Sun, 11 Oct 2026 16:36:07 +0800",
+     "summary": "南财智讯10月11日电， 牧原股份 公告，2026年9月份，公司销售商品猪642.3万头，同比增长15.24%；商品猪销售收入85.20亿元，同比下降6.01%；商品猪销售均价10.36元/公斤，同比下降19.57%。2026年1-9月，公司累计销售商品猪5873.0万头，累计销售收入768.17亿元。此外，9月份公司全资子公司牧原肉食品有限公司及其子公司屠宰生猪301.5万头。截至2026年9月末，公司能繁母猪存栏为297.4万头。 （文章来源：南方财经网）",
      "source": "东方财富股票",
-     "zh": "天邦食品：9月商品猪销售收入4.62亿元 环比下降6.22%"
+     "zh": "牧原股份：9月商品猪销售收入85.20亿元，同比下降6.01%"
     },
     {
-     "title": "分众传媒：收购新潮传媒获市场监管总局附加限制性条件批准",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892065695.html",
-     "pubDate": "Sun, 11 Oct 2026 16:20:07 +0800",
-     "summary": "分众传媒 (002027.SZ)公告称，公司收到国家市场监督管理总局关于公司收购成都新潮 传媒 集团股份有限公司股权案的反垄断审查决定，市场监管总局决定附加限制性条件批准此项经营者集中。 （文章来源：财联社）",
+     "title": "天邦食品：9月份商品猪销售收入4.62亿元 环比下降6.22%",
+     "link": "http://stock.eastmoney.com/news/11215,202610113892070156.html",
+     "pubDate": "Sun, 11 Oct 2026 16:34:00 +0800",
+     "summary": "天邦食品 (002124)10月11日公告，公司2026年9月份销售商品猪50.34万头（其中仔猪销售9.22万头），销售收入4.62亿元，销售均价9.97元/公斤（商品肥猪均价为10.03元/公斤），环比变动分别为-19.13%、-6.22%、-3.52%。2026年1—9月销售商品猪571.95万头（其中仔猪销售206.02万头），销售收入47.94亿元，销售均价10.75元/公斤（商品肥猪均价为10.17元/公斤），同比变动分别为23.34%、-21.21%、-31.84%。 （文章来源：人民财讯）",
      "source": "东方财富股票",
-     "zh": "分众传媒：收购新潮传媒获市场监管总局附加限制性条件批准"
+     "zh": "天邦食品：9月份商品猪销售收入4.62亿元 环比下降6.22%"
     },
     {
-     "title": "华润双鹤：DC7001A胶囊获得美国FDA临床试验许可",
-     "link": "http://stock.eastmoney.com/news/11219,202610113892065328.html",
-     "pubDate": "Sun, 11 Oct 2026 16:18:00 +0800",
-     "summary": "华润双鹤 (600062)10月11日公告，近日，公司全资子公司北京双鹤润创科技有限公司收到了美国FDA(即“美国食品药品监督管理局”)关于同意DC7001A胶囊进行临床试验的通知。DC7001A胶囊拟用于治疗系统性红斑狼疮(SLE)。另外，近日，公司控股子公司 华润双鹤 湘中药业(湖南)有限公司收到了国家药监局颁发的氢溴酸伏硫西汀《 化学原料 药上市申请批准通知书》。 （文章来源：人民财讯）",
+     "title": "牧原股份：9月份商品猪销售收入85.2亿元 同比下降6.01%",
+     "link": "http://stock.eastmoney.com/news/11215,202610113892069981.html",
+     "pubDate": "Sun, 11 Oct 2026 16:32:00 +0800",
+     "summary": "人民财讯10月11日电， 牧原股份 (002714)10月11日公告，2026年9月份，公司销售商品猪642.3万头，同比增长15.24%；商品猪销售均价10.36元/公斤，同比下降19.57%；商品猪销售收入85.2亿元，同比下降6.01%。 （文章来源：证券时报网）",
      "source": "东方财富股票",
-     "zh": "华润双鹤：DC7001A胶囊获得美国FDA临床试验许可"
+     "zh": "牧原股份：9月份商品猪销售收入85.2亿元 同比下降6.01%"
     },
     {
-     "title": "我武生物：人脐带间充质干细胞二型注射液获临床试验批准",
-     "link": "http://stock.eastmoney.com/news/11219,202610113892065260.html",
-     "pubDate": "Sun, 11 Oct 2026 16:18:00 +0800",
-     "summary": "南财智讯10月11日电， 我武生物 公告，间接控股子公司浙江我武干细胞科技有限公司（简称“浙江干细胞”）收到国家药品监督管理局下发的《药物临床试验批准通知书》，由浙江干细胞提交的“人脐带间充质干细胞二型注射液”药物临床试验申请获得批准。该药物注册分类为治疗用 生物制品 一类，适应症为脓毒症和（或）脓毒性休克。 （文章来源：南方财经网）",
+     "title": "广发策略：从出口链景气度 前瞻三季报机会",
+     "link": "http://finance.eastmoney.com/news/1344,202610113892068466.html",
+     "pubDate": "Sun, 11 Oct 2026 16:30:24 +0800",
+     "summary": "我们在《AI的“ 新大陆 ”与外需的“旧地图”》报告中，我们建立了外需跟踪数据库以及研究框架。 8月出口超预期，AI再加速，消费、机电边际修复， 新能源 放缓。 8月出口增速升至25.0%，AI链出口增速还在提高，比如光模块、存储、CCL、 电子 布等；非AI链， 新能源 出口增速走低、资源品增速回升至11.4%，机电设备和消费品仍维持15%-20%的增速，同时增速边际回暖的消费品也在变多。 68大单品中，景气周期位置四象限的分布是： 上行区以AI品种+非AI修复品种为主；高位震荡区多为AI 相关涨价品；下行区集中在 新能源 品类；磨底的主要是地产链相关耐用消费品。景气上行的非AI品种主要受海",
      "source": "东方财富股票",
-     "zh": "我武生物：人脐带间充质干细胞二型注射液获临床试验批准"
+     "zh": "广发策略：从出口链景气度 前瞻三季报机会"
+    },
+    {
+     "title": "盛天网络：拟将云游戏服务平台项目剩余募资变更用于武汉综合运营中心项目等",
+     "link": "http://stock.eastmoney.com/news/11215,202610113892069437.html",
+     "pubDate": "Sun, 11 Oct 2026 16:30:05 +0800",
+     "summary": "盛天网络 (300494)10月11日公告，公司拟将云游戏服务平台项目剩余募集资金中的8562万元变更用于“武汉 综合 运营中心项目”，购置位于武汉市东湖新技术开发区光谷大道77号光谷金融港A12栋办公楼并进行适应性改造，建成后将形成较为宽裕的自有办公空间，同时满足公司业务发展所需的算力、网络、演播等各类 综合 功能需求。将云游戏服务平台项目剩余募集资金中的3000万元变更用于补充流动资金，以满足公司日常经营和业务发展的资金需求。变更募投项目的原因为云游戏行业环境发生较大变化，原项目继续投入的产出不及预期。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "盛天网络：拟将云游戏服务平台项目剩余募资变更用于武汉综合运营中心项目等"
+    },
+    {
+     "title": "领个红包“顺手”开了户？券商与平台合作获客，合规边界待厘清",
+     "link": "http://www.eeo.com.cn/2026/1011/1060909.shtml",
+     "pubDate": "Sun, 11 Oct 2026 16:26:08 +0800",
+     "summary": "21世纪经济报道记者 江鑫 “我在平台领‘红包’，一不小心开了户！”最近，有用户这样反映。 9月底《金融产品网络营销管理办法》正式落地后，“野生大V”导流模式被叫停，券商的获客战场转向第三方平台。微信、抖音里都能看到券商开户广告，就连高德地图App也能跳转到部分券商的开户页面。 但便利背后也有争议。21世纪经济报道记者实测发现，进入抖音钱包的理财板块后，页面弹出“绑卡领红包”活动，小字写着...",
+     "source": "经济观察网",
+     "zh": "领个红包“顺手”开了户？券商与平台合作获客，合规边界待厘清"
     },
     {
      "title": "马斯克放话：虽然现在还不懂造芯片，但Terrafab未来要造出“比任何人都更好的芯片”",
@@ -2264,14 +2280,6 @@ window.INDUSTRY_DATA = {
      "summary": "马斯克宣称，凭借旗下公司在定制化设备制造领域积累的深厚经验，他有信心在芯片制造领域后来居上，超越所有竞争对手。这一表态，为其正在推进的Terrafab芯片工厂项目再度注入强烈的市场关注。 马斯克于当地时间周六通过直播形式出席在德克萨斯州奥斯汀特斯拉超级工厂外举办的\"X Takeover\"活动，面向客户与投资者发表上述言论。 他坦承目前\"完全不知道如何制造微芯片\"，但同时表示\"我们会搞清楚的\"，并预计旗下公司最终将在芯片制造上超越所有人，尽管\"可能需要相当多年时间\"。 这番表态的背景是，马斯克正筹备在德克萨斯州格莱姆斯（Grimes）建设Terrafab芯片工厂，该项目由特斯拉、SpaceX与英",
      "source": "华尔街见闻",
      "zh": "马斯克放话：虽然现在还不懂造芯片，但Terrafab未来要造出“比任何人都更好的芯片”"
-    },
-    {
-     "title": "知名企业高管：跨国企业可成为中企出海“超级合伙人”",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892064962.html",
-     "pubDate": "Sun, 11 Oct 2026 16:17:07 +0800",
-     "summary": "中新社上海10月11日电 (高志苗李姝徵)第38次上海市市长国际企业家咨询会议11日在沪举行。在围绕“新场景：助力中国企业出海”的专题讨论中，多位知名企业高管认为，跨国企业可成为中企出海路上的“超级合伙人”。 从“卖产品”到“造生态”，中企出海逻辑正被重新定义。法国巴黎 银行 董事长乐明瀚(Jean Lemierre)在会上表示，中资企业对外战略的范式转变，本质上是“出口国内产品”向“打造本地化全球企业”的结构性跃迁。这一新浪潮可以从三个核心维度重新定义“中国制造”与“中国创造”：从成本导向转向品牌塑造，从产品到生态以及从“销售进入”到“融合融入”。 乐明瀚说，法国巴黎 银行 在华深耕多年，既",
-     "source": "东方财富股票",
-     "zh": "知名企业高管：跨国企业可成为中企出海“超级合伙人”"
     },
     {
      "title": "严查超限运输 违法货车两小时内被查获",
@@ -2320,14 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "市场对美国经济的主流叙事在一年内发生了根本性逆转，而真正被低估的系统性风险，或许既不在债市，也不在财政，而是潜伏于AI生态本身。 据追风交易台，德意志银行全球外汇研究主管George Saravelos在完成一轮美国东海岸密集客户拜访后发布报告指出， 去年市场的主流叙事是\"AI具有通缩效应、美国财政部不会允许债券抛售\"，而今年的叙事已彻底翻转为\"AI（发债融资）是推高收益率的重要驱动力，美国财政部已失去对长端利率的控制\"。 他同时注意到，市场上出现了关于暂停20年期美债发行、大幅缩短供应久期的讨论，但多数客户对固定收益资产持极度谨慎态度。 Saravelos对此提出异议。他认为， 叙事钟摆已经",
      "source": "华尔街见闻",
      "zh": "美国市场叙事“剧烈反转”：从“AI通缩论和美债可控论”转向“AI挤爆债市、贝森特控不住长端利率”"
-    },
-    {
-     "title": "从连接信息到组织行动：智能体经济增长的底层逻辑",
-     "link": "http://www.eeo.com.cn/2026/1011/1060835.shtml",
-     "pubDate": "Sun, 11 Oct 2026 15:24:05 +0800",
-     "summary": "智能体重构了经济活动的决策权，从以人为中心走向人与智能体的共同参与：人只需要负责提出目标、设定边界和作出关键确认，智能体负责获取信息、比较决策、组织资源和协调沟通。由此市场的功能、结构和边界都将发生变化。",
-     "source": "经济观察网",
-     "zh": "从连接信息到组织行动：智能体经济增长的底层逻辑"
     },
     {
      "title": "特朗普政府打击“科技工作签”，印度人慌了",
@@ -2538,20 +2538,20 @@ window.INDUSTRY_DATA = {
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
-     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
-     "source": "Live Science",
-     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
-    },
-    {
      "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
      "source": "Live Science",
      "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
+    },
+    {
+     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
+     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
+     "source": "Live Science",
+     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

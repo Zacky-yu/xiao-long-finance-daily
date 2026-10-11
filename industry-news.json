@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/11 10:06:19",
+ "generated_at": "2026/10/11 10:11:32",
  "recent_days": 7,
  "industries": [
   {
@@ -961,12 +961,12 @@
      "zh": "Clean-energy super PAC names its target list for general elections"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -980,7 +980,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1721,6 +1721,14 @@
    "total": 18,
    "items": [
     {
+     "title": "机械革命将推 RTX Spark 迷你主机大师之路 X10，搭载 AI SSD",
+     "link": "https://www.ithome.com/1/011/563.htm",
+     "pubDate": "Sun, 11 Oct 2026 02:05:28 GMT",
+     "summary": "IT之家 10 月 11 日消息，据消息人士 @巨炮快评 透露， 机械革命 (Mechrevo) 将推出基于 NVIDIA RTX Spark 超级芯片的迷你主机产品大师之路 X10 。 IT之家注意到，这款产品似乎出现在了机械革命创始人潘春节今年 9 月的 2026 网易未来大会演讲幻灯上。 据悉，大师之路 X10 将搭载机械革命自主研发的 AI SSD ，可将超大规模本地模型从 DRAM 卸载到 NAND 上，同时通过保存并复用已处理上下文、优化模型加载方式，减少重复计算与加载开销。",
+     "source": "IT之家",
+     "zh": "机械革命将推 RTX Spark 迷你主机大师之路 X10，搭载 AI SSD"
+    },
+    {
      "title": "深度｜欧盟为拿回话语权加税35.3%，中国车企却在匈牙利盖起了工厂",
      "link": "https://www.huxiu.com/article/4896566.html?f=rss",
      "pubDate": "Sun, 11 Oct 2026 10:00:38 +0800",
@@ -1847,14 +1855,6 @@
      "summary": "IT之家 10 月 11 日消息，据 Puck News 于当地时间 10 月 9 日报道，知名好莱坞内幕记者马修 · 贝洛尼（Matthew Belloni）引述知情人士消息称，Netflix 将进行裁员。 据悉，作为公司架构重组的一部分， 本次调整将波及约 5% 的员工 ，最早可能于下周正式公布。Netflix 官方发言人对此拒绝置评。 Netflix 在全球共有约 1.7 万名员工， 这意味着 5% 的裁员规模将直接削减约 850 个岗位 。自去年竞购华纳兄弟失利，加之平台用户活跃度增长趋缓，Netflix 股价始终承受着不小的压力。 IT之家注意到，Netflix 上一次公开的大规模裁",
      "source": "IT之家",
      "zh": "消息称 Netflix 计划全球裁员约 5%，削减约 850 个岗位"
-    },
-    {
-     "title": "四部门征求意见进一步加强汽车产品创新设计等管理，岚图董事长卢放表态支持",
-     "link": "https://www.ithome.com/1/011/556.htm",
-     "pubDate": "Sun, 11 Oct 2026 01:08:40 GMT",
-     "summary": "IT之家 10 月 11 日消息，工业和信息化部等四部门 10 日公开发布关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）。汽车产品创新设计技术指南围绕虚拟操纵件、门把手、新型人机交互系统、大角度座椅等方面提出具体测试验证要求。 岚图汽车科技股份有限公司董事长卢放今日转发了新华社的有关报道，并表示： 支持！ 创新要以安全为前提 。一起努力，规范创新设计、强化测试验证，守护出行安全，促进行业更高质量发展。 根据汽车产品创新设计技术指南，汽车生产企业应当将安全风险评估前置，在产品研发设计阶段，对有关创新设计进行复杂工况、极端场景下的失效模式分析，充分识别潜在安全风险，评",
-     "source": "IT之家",
-     "zh": "四部门征求意见进一步加强汽车产品创新设计等管理，岚图董事长卢放表态支持"
     },
     {
      "title": "19.9元复刻餐厅招牌菜，“打工人预制菜”精准收割我",
@@ -2217,60 +2217,12 @@
    "total": 13,
    "items": [
     {
-     "title": "零重力飞机工业与安徽省交通规划设计研究总院达成战略合作",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892023761.html",
-     "pubDate": "Sun, 11 Oct 2026 09:52:14 +0800",
-     "summary": "10月10日，零重力飞机工业（合肥）有限公司与安徽省交通规划设计研究总院股份有限公司战略合作签约仪式在 设计总院 举行。根据协议，双方将围绕零重力乐园、通用 机场 及闲置配套设施，探索低空文旅、 乡村振兴 等盘活路径。在项目资金方案与低空运营场景落地层面，双方将结合项目实际研究存量资产盘活及资本金筹措方案，探索设计、采购、建设、融资和运营相衔接的联合体协作模式，围绕“空中飞行+地面配套”研究飞行体验、航空科普研学、 餐饮 住宿休闲等配套业态，拓展固定基地运营服务（FBO）、维修维护（MRO）、培训和航空器代管等通航后市场服务。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "零重力飞机工业与安徽省交通规划设计研究总院达成战略合作"
-    },
-    {
      "title": "铜价接近历史高点！瑞银继续唱多：“依旧最看涨”",
      "link": "https://wallstreetcn.com/articles/3783349",
      "pubDate": "Sun, 11 Oct 2026 09:48:44 +0800",
      "summary": "伦敦铜期货周五收盘价接近历史高点，多家华尔街机构相继发出警告：全球铜供应持续萎缩，价格或将再度上行。 瑞银美国股票顾问销售团队成员Théa Ziegler在周五的报告中写道：“铜依旧是我们最高确信度的大宗商品主题之一。”她指出，电气化与数据中心建设带来的需求增长预计将持续超越供给增速，铜价的结构性支撑并未动摇。 电气化、数据中心建设以及持续的供给约束，将继续支撑铜的长期建设性前景。对投资者而言，核心结论是：未来数年供给增长预计将落后于需求增长，这将支撑铜价维持高位——尽管关税与贸易政策在短期内仍存在不确定性。 周五，铜价收报约14622美元/吨。 Théa Ziegler认为， 铜供给缺口将延",
      "source": "华尔街见闻",
      "zh": "铜价接近历史高点！瑞银继续唱多：“依旧最看涨”"
-    },
-    {
-     "title": "鼎晖不动产完成日本冲绳美尔度假大酒店项目退出",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892023395.html",
-     "pubDate": "Sun, 11 Oct 2026 09:44:14 +0800",
-     "summary": "10月11日，据鼎晖投资消息，鼎晖不动产已完成日本冲绳美尔度假 大酒店 （OKINAWA GRAND MER RESORT）的出售交易，最终由日本不动产投资 信托 （JREIT）的One REIT完成收购。据了解，鼎晖不动产于2019年收购冲绳美尔度假 大酒店 ，该 酒店 共有300个房间，配备有宴会厅、餐厅、酒吧、泳池、健身房和特色零售商店等各类配套设施。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "鼎晖不动产完成日本冲绳美尔度假大酒店项目退出"
-    },
-    {
-     "title": "为何接陌生来电要先沉默三秒？国家安全部提醒：这类隐私侵害在升级",
-     "link": "http://finance.eastmoney.com/news/1360,202610113892023214.html",
-     "pubDate": "Sun, 11 Oct 2026 09:42:15 +0800",
-     "summary": "国家安全部微信公众号发文，近期，一条“接到陌生来电先沉默三秒”的提醒在社交平台刷屏。该提醒指出，不法分子在接通受害者电话后，可能刻意保持沉默，诱使受害者发出“喂”或“哪位”等回应。短短数秒的语音样本，就可能被不法分子用于AI声纹克隆，进而冒充身份实施诈骗等违法犯罪行为。因此，接听电话可先沉默三秒，若对方也持续沉默，就要及时挂断。这一提醒为我们敲响了生物信息安全的警钟。 “AI赋能”，隐私侵害质变升级 从声纹到人脸，从虹膜到步态，AI技术正在把最难以更改的生物特征，变成可以被采集、复制、加工利用的数据。个人信息安全面临的已不再是简单的泄露风险，而是新型的深度威胁。 ——过度采集，无 感 窃取信息",
-     "source": "东方财富股票",
-     "zh": "为何接陌生来电要先沉默三秒？国家安全部提醒：这类隐私侵害在升级"
-    },
-    {
-     "title": "奋进的力量｜向绿转型提质效 海南自贸港激活产业升级新动能",
-     "link": "http://stock.eastmoney.com/news/11134,202610113892023415.html",
-     "pubDate": "Sun, 11 Oct 2026 09:41:41 +0800",
-     "summary": "当前，“十五五”时期我国经济社会全面绿色转型进入攻坚阶段。 海南自贸 港立足生态立省定位，将低碳发展融入封关运作与产业发展全链条。依托国家美丽中国建设规划及交通、矿业、制造等行业绿色升级政策，海南港航、空港、矿产、高端装备、 有色金属 等领域龙头企业，立足产业实际推进技术改造、业态迭代与低碳治理，推动生态保护与产业增长双向协同，构筑自贸港高质量发展的绿色产业支撑。 理念之变 绿色低碳已从行业合规要求，转变为海南实体企业的核心发展战略。本地上市龙头企业统一升级发展理念，完善ESG治理架构，摒弃粗放增长模式，将生态优势转化为持续经营优势。 海峡股份 将清洁化、低碳化、智能化、系统化作为长期发展主线",
-     "source": "东方财富股票",
-     "zh": "奋进的力量｜向绿转型提质效 海南自贸港激活产业升级新动能"
-    },
-    {
-     "title": "中安科重整投资人兼第一大股东武汉融晶所持3.33亿股被司法冻结",
-     "link": "http://stock.eastmoney.com/news/11215,202610113892023621.html",
-     "pubDate": "Sun, 11 Oct 2026 09:41:03 +0800",
-     "summary": "10月9日， 中安科 （600654）发布公告，股东武汉融晶实业投资有限公司（简称“武汉融晶”）为公司重整投资人，其持有的公司3.33亿股被司法冻结，占其所持公司股份总数的76.92%及公司总股本的11.70%。 据悉，武汉融晶为公司重整投资人，持有公司股份约4.33亿股，占公司总股本15.21%，是公司目前第一大股东。本次股份被冻结时间为两年，冻结申请人是崇阳县公安局。 公告提到，武汉融晶非公司控股股东、实际控制人，其所持公司股份被司法冻结事项不会导致公司控制权发生变更，亦不会对公司日常生产经营产生重大影响。 武汉融晶实业投资有限公司是一家私募股权投资与 资产管理 企业。2022年12月，武",
-     "source": "东方财富股票",
-     "zh": "中安科重整投资人兼第一大股东武汉融晶所持3.33亿股被司法冻结"
-    },
-    {
-     "title": "山姆下手整治副卡乱象，一年最多绑两张，“一日体验”新花样又浮出水面",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892023165.html",
-     "pubDate": "Sun, 11 Oct 2026 09:38:44 +0800",
-     "summary": "“山姆副卡还需要吗？本人主卡自用，不会退费，副卡出售，105元一年。”“上海山姆真如店，周末全天可接单，5元一位，2人起带。”近日，记者在二手交易平台上与几位“山姆会员”卖家取得联系。 在不少网购平台、社交平台、二手交易平台搜索框输入“山姆副卡”“山姆带进”等关键词，弹出不少标着“已售2万+”“好评率100%”的售卖页面。从年卡副卡到按次带人，围绕山姆会员卡衍生出的“生意”，早已形成一条成熟链条。 网购平台上，其中一个山姆会员卡销售页面显示“已售2万＋”。 10月9日，山姆会员商店宣布拟更新《山姆会员商店会员章程》，并公开征求意见。 拟新增一条条款：自首次激活亲友卡之日起每365天，该亲友卡关",
-     "source": "东方财富股票",
-     "zh": "山姆下手整治副卡乱象，一年最多绑两张，“一日体验”新花样又浮出水面"
     },
     {
      "title": "特朗普要求乌克兰不能打俄炼油厂，“泽连斯基最好立刻停手，乌克兰该换个新总统”",
@@ -2455,6 +2407,54 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Nvidia in talks to buy ‘open’ model startup Reflection AI: FT"
+    },
+    {
+     "title": "Cliffs unit is said to proceed with Canada layoffs despite govt. ultimatum",
+     "link": "https://seekingalpha.com/news/4651912-cliffs-plans-canada-layoffs-despite-govt-ultimatum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 10 Oct 2026 14:41:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cliffs unit is said to proceed with Canada layoffs despite govt. ultimatum"
+    },
+    {
+     "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+     "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+     "pubDate": "Sat, 10 Oct 2026 18:14:28 GMT",
+     "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+     "source": "Financial Times",
+     "zh": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI"
+    },
+    {
+     "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
+     "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+     "pubDate": "Sat, 10 Oct 2026 14:22:23 GMT",
+     "summary": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
+     "source": "CNBC",
+     "zh": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows"
+    },
+    {
+     "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
+     "link": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+     "pubDate": "Sat, 10 Oct 2026 13:42:36 GMT",
+     "summary": "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. to buy Russian diesel amid a surge in fuel prices.",
+     "source": "CNBC",
+     "zh": "Putin relayed Iran war proposal to Trump, Kremlin says"
+    },
+    {
+     "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
+     "link": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
+     "pubDate": "Sat, 10 Oct 2026 13:00:01 GMT",
+     "summary": "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.",
+     "source": "CNBC",
+     "zh": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance"
+    },
+    {
+     "title": "四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件",
+     "link": "https://wallstreetcn.com/articles/3783341",
+     "pubDate": "Sat, 10 Oct 2026 20:13:11 +0800",
+     "summary": "10月10日，中国工业和信息化部、公安部、生态环境部、市场监管总局联合发布征求意见稿，拟对汽车产品创新设计和研发测试验证实施全面强化管理。 征求意见稿明确提出， 禁止配备全隐藏式车门把手 ；灯光、雨刮、除霜除雾等关键驾驶安全功能在采用虚拟操纵件的同时， 必须保留实体操纵件 ； 折叠显示屏、柔性显示屏被明确禁止 ；行车时不得使用\"零重力\"座椅、旋转座椅或座椅放倒成床等功能。 在时间节点上， 自2027年1月1日起 ，涉及创新设计的新申报车型须提交额外技术参数及验证材料； 已获批车型须在2027年7月1日前 完成补充申报，逾期且存在安全隐患的车辆须立即停产并启动召回程序。 禁止全隐藏式门把手，关键",
+     "source": "华尔街见闻",
+     "zh": "四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件"
     }
    ]
   },
@@ -2529,20 +2529,20 @@
      "zh": "Self-driving, solar-powered cars that talk to each other? What vehicles might look like in 10 years."
     },
     {
-     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
-     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
-     "source": "Live Science",
-     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
-    },
-    {
      "title": "Cool chemistry trick allows new tattoos to 'turn on and off'",
      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
      "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
      "summary": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
      "source": "Live Science",
      "zh": "Cool chemistry trick allows new tattoos to 'turn on and off'"
+    },
+    {
+     "title": "Scientists have identified a 'protein signature' in blood that could predict healthy aging",
+     "link": "https://www.livescience.com/health/aging/scientists-have-identified-a-protein-signature-in-blood-that-could-predict-healthy-aging",
+     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
+     "summary": "Having a certain ratio of proteins produced by immune cells in your blood is linked to a higher risk of age-related diseases, scientists report.",
+     "source": "Live Science",
+     "zh": "Scientists have identified a 'protein signature' in blood that could predict healthy aging"
     },
     {
      "title": "How the Grand Canyon could have lost 1 billion years of geologic history",

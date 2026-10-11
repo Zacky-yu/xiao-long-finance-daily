@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 23:50:04",
+ "generated_at": "2026/10/11 23:53:22",
  "recent_days": 7,
  "industries": [
   {
@@ -330,6 +330,14 @@ window.INDUSTRY_DATA = {
      "zh": "Hyper-NA EUV：芯片制造的下一个前沿可能在 2036 年到来"
     },
     {
+     "title": "Jury still out in Qualcomm vs Arm case",
+     "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
+     "pubDate": "Sat, 10 Oct 2026 07:20:41 +0000",
+     "summary": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "高通 vs Arm 案尚无定论"
+    },
+    {
      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
      "pubDate": "Fri, 09 Oct 2026 22:00:00 +0000",
@@ -354,12 +362,36 @@ window.INDUSTRY_DATA = {
      "zh": "台积电2026 OIP生态论坛总结"
     },
     {
+     "title": "Defence satcom revenues to surpass $23bn by 2035",
+     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
+     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "到 2035 年，国防卫星通信收入将超过 230 亿美元"
+    },
+    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
      "summary": "Join this BitCast and explore how extending NoC connectivity across die boundaries enables engineering teams to scale from monolithic SoCs to multi-die architectures. The post Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems appeared first on EE Times .",
      "source": "EE Times",
      "zh": "连接小芯片还不够——解决多芯片系统中的数据移动挑战"
+    },
+    {
+     "title": "Axiom Space highlights space computing progress",
+     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
+     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
+     "source": "Electronics Weekly",
+     "zh": "Axiom Space 凸显太空计算进展"
+    },
+    {
+     "title": "The Single-Chip PC",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
+     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "单片机"
     },
     {
      "title": "CASPA CEO Summit and Why it Matters",
@@ -376,6 +408,22 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "由于积压订单激增，美国 9 月份制造业活动持续增长"
+    },
+    {
+     "title": "Failure analysis in the era of 3D integration",
+     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
+     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "3D集成时代的失效分析"
+    },
+    {
+     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
+     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
+     "source": "Electronics Weekly",
+     "zh": "汽车 SBRFP 器件的雪崩能量额定值高达 145mJ"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "缩小可见性差距"
-    },
-    {
-     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
-     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
-     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
-     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "从芯片到系统：重新定义竞争优势，第 3 部分"
-    },
-    {
-     "title": "Shift Left Complicates Fab Data Management",
-     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
-     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "左移使晶圆厂数据管理变得复杂"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design 将 HAROLD QD 量子点激光模拟器的运行时间减半并提高精度"
-    },
-    {
-     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
-     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
-     "source": "Semiconductor Today",
-     "zh": "KnowMade 表示，2026 年第二季度新 RF GaN 专利系列的大部分都在中国"
-    },
-    {
-     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
-     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "美国刚刚在量子芯片制造上投入 10 亿美元"
-    },
-    {
-     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
-     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
-     "source": "Semiconductor Today",
-     "zh": "KnowMade 报告称，2026 年第二季度由工业受让人主导的功率 GaN 专利申请"
     }
    ]
   },
@@ -591,7 +591,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
      "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
      "source": "Robohub",
-     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
+     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与 Kushant Patel"
     },
     {
      "title": "Cevotec brings robotic composite lamination to South Korea with KCompositeLab partnership",
@@ -679,7 +679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 12:16:33 +0000",
      "summary": "Mitusbishi’s North American dealers have been trudging along with an aging, badge-engineered model line for years – but overseas? It’s a different story, and the 459 hp all-wheel drive ASX VR-e electric hot hatch shown here is plug-in proof. more…",
      "source": "Electrek",
-     "zh": "459 马力、3.9 秒内从 0 加速到 60 英里以及全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
+     "zh": "459 马力、3.9 秒内从 0-60 英里加速和全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
     },
     {
      "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
@@ -695,7 +695,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 01:17:40 +0000",
      "summary": "Aito will continue using CATL batteries across its lineup, with total annual capacity set to exceed 20 GWh after a joint project is completed. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "CATL与Seres签署长期战略协议扩大Aito电池产能"
+     "zh": "CATL与Seres签署长期战略协议，扩大Aito电池产能"
     },
     {
      "title": "Geely Galaxy launches Cruiser 700 to take on BYD, GWM in off-road SUV market",
@@ -1607,7 +1607,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击"
+     "zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击"
     },
     {
      "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -2095,7 +2095,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 13:31:02 +0200",
      "summary": "While Amazon’s Prime Big Deal Days have wrapped up, discounts are still available on several smartphones. In fact, some devices that received few or no notable discounts during the sale are now available at reduced prices. Samsung’s Galaxy S26 Ultra, Apple’s iPhone 17 Pro lineup, and the entire Goog",
      "source": "GSMArena",
-     "zh": "特惠：三星、苹果、谷歌旗舰手机大优惠"
+     "zh": "特惠：三星、苹果、谷歌旗舰手机大幅折扣"
     },
     {
      "title": "I’ve tried all the major to-do list apps but keep coming back to this one",
@@ -2226,6 +2226,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "生猪养殖企业相继发布前三季度销售数据",
+     "link": "http://finance.eastmoney.com/news/1355,202610113892129671.html",
+     "pubDate": "Sun, 11 Oct 2026 23:43:08 +0800",
+     "summary": "截至10月11日，拥有生猪 养殖业 务的上市公司相继发布前三季度的销售数据。从数据透露的信息可知，受全年销售价格偏低的影响，相关上市公司仍然面临着较大的经营压力。 上海钢联 生猪行业分析师王红焱在接受《证券日报》记者采访时介绍，今年上半年，猪价相对平稳，多数养殖企业维持盈利或微利，随着下半年猪价震荡下行，行业整体进入盈亏平衡线附近，成本控制较好的企业尚能维持，成本偏高的已出现亏损。 行业的这种价格走势，也体现在头部养殖企业的月度销售数据之中。根据温氏食品集团股份有限公司的公告，2026年9月，该公司销售肉猪298.83万头（含毛猪和鲜品），收入40.56亿元，毛猪销售均价为10.75元/公斤，",
+     "source": "东方财富股票",
+     "zh": "生猪养殖企业相继发布前三季度销售数据"
+    },
+    {
+     "title": "高管动向｜杭州热电高层生变，董事长、总经理双双因工作调整辞任，冯其栋接任总经理",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892131244.html",
+     "pubDate": "Sun, 11 Oct 2026 23:40:35 +0800",
+     "summary": "10月11日， 杭州热电 （605011.SH）发布《关于董事长、法定代表人离任暨补选董事的公告》。公告显示， 公司董事长李炳因工作调整辞去公司董事长、董事、董事会战略委员会主任及委员等职务。根据相关规定，其辞职报告自送达公司及公司董事会之日起生效，并视为同时辞去法定代表人。 公告披露，李炳原定任期到期日为2027年6月12日，离任后不再继续在上市公司及其控股子公司任职。截至公告披露日，李炳未持有公司股份，不存在未履行完毕的公开承诺。公司表示，本次变动不会影响公司董事会正常运作。 同日， 杭州热电 还发布《关于董事、总经理离任暨聘任总经理、补选董事的公告》。公告显示， 公司董事、总经理俞峻因工",
+     "source": "东方财富股票",
+     "zh": "高管动向｜杭州热电高层生变，董事长、总经理双双因工作调整辞任，冯其栋接任总经理"
+    },
+    {
+     "title": "中广核数科工博会将首秀新一代“和睦系统” 为“华龙一号”装上“超级智慧大脑”",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892131197.html",
+     "pubDate": "Sun, 11 Oct 2026 23:40:27 +0800",
+     "summary": "上证报中国证券网讯（记者宋薇萍）第二十六届中国国际工业博览会（简称“工博会”）将于2026年10月12日—16日在国家会展中心（上海）举行。记者在11日的媒体探营采访中获悉，中广核数字科技有限公司（简称“中广核数科”）将在本届工博会展示新一代“和睦系统”，为核电机组装上“超级智慧大脑”。接下来，“和睦系统”将应用于中国自主三代核电技术“华龙一号”2.0版示范项目上，全面赋能核电站生产运行全周期数智化，保障机组安全稳定运行。 据悉，“和睦系统”是中国首个自主研发的核级数字化仪控系统，自此中国成为全世界第四个掌握该技术的国家。“和睦系统”被称为核电站的“神经中枢”和“大脑”，控制着核电站内数百套系",
+     "source": "东方财富股票",
+     "zh": "中广核数科工博会将首秀新一代“和睦系统” 为“华龙一号”装上“超级智慧大脑”"
+    },
+    {
+     "title": "国联基金：利好权益基金 大幅提升逆周期布局动力",
+     "link": "http://stock.eastmoney.com/news/1426,202610113892131021.html",
+     "pubDate": "Sun, 11 Oct 2026 23:40:13 +0800",
+     "summary": "上证报中国证券网讯（记者白丽斐汤立斌）中国证监会近日就《公开募集证券投资基金运作管理办法（征求意见稿）》（下称《办法》）及配套规则公开征求意见。《办法》将权益类基金、FOF等基金的成立门槛，从规模2亿元、份额2亿份分别降低至5000万元、5000万份，同时优化完全被动复制型指数基金关于 举牌 、减持、短线交易的相关监管要求，适度放松其他指数类基金的交易限制。 在国联基金看来，此次修订对基金发行门槛进行“分档”而非普降：固收类（债券基金、货币基金、同业存单基金）维持原要求不变，依旧为份额2亿份、规模2亿元；股票基金、混合基金、FOF、REITs、 期货 和衍生品基金等其他类型，则降至份额5000",
+     "source": "东方财富股票",
+     "zh": "国联基金：利好权益基金 大幅提升逆周期布局动力"
+    },
+    {
      "title": "EU plans yearly cap of 350,000 Chinese hybrid cars as trade tensions rise",
      "link": "https://seekingalpha.com/news/4651930-eu-plans-yearly-cap-of-350000-chinese-hybrid-cars-as-trade-tensions-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 11 Oct 2026 11:39:32 -0400",
@@ -2234,12 +2266,28 @@ window.INDUSTRY_DATA = {
      "zh": "随着贸易紧张局势加剧，欧盟计划每年限制中国混合动力汽车35万辆"
     },
     {
+     "title": "周一复牌！000582，拟收购恒港码头",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892130923.html",
+     "pubDate": "Sun, 11 Oct 2026 23:34:56 +0800",
+     "summary": "10月11日， 北部湾港 （000582）公告称，公司正在筹划以发行股份及支付现金的方式向广西北部湾国际港务集团和钦州市 港口 建设投资公司购买广西自贸区钦州港片区恒港码头有限公司（简称“恒港码头”）100%股权并募集配套资金。恒港码头的主要资产为钦州大榄坪作业区1-3号泊位，以及1-8号泊位后方的相关土地和海域资产。公司股票将于2026年10月12日开市起复牌。 根据公告，经交易各方友好协商，本次发行价格为8.58元/股。通过本次交易，上市公司将充分把握平陆运河通航的历史性发展机遇，依托标的泊位位于运河出海口核心区位的优势，直接承接西南腹地江海联运货源的跨越式增长。同时，目前根据避免同业竞争",
+     "source": "东方财富股票",
+     "zh": "周一复牌！000582，拟收购恒港码头"
+    },
+    {
      "title": "Watch big banks' capital markets, commercial banking results in Q3 earnings",
      "link": "https://seekingalpha.com/news/4651821-watch-big-banks-capital-markets-commercial-banking-results-in-q3-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 11 Oct 2026 11:30:46 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "关注大银行资本市场、商业银行第三季度盈利结果"
+    },
+    {
+     "title": "回购刷屏！",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892130537.html",
+     "pubDate": "Sun, 11 Oct 2026 23:30:00 +0800",
+     "summary": "据统计，10月以来，沪市主板公司已发布超120份回购类公告（包括回购计划、回购进展和完成类），上述公告对应回购金额合计约247亿元至464亿元，累计已实施金额超176亿元。其中，进展类公告对应的最新回购金额为166亿元，已锁定整体回购金额（下限）的七成。 上述120余份公告中，包括3份新增计划，对应公司分别为 威尔药业 、 安德利 、 东阳光 。其中， 安德利 拟未来12个月内回购1.2亿元至1.8亿元公司股份，价格不超过100元/股，回购股份用于员工持股计划或 股权激励 。 东阳光 拟通过集中竞价交易方式回购6亿元至12亿元，回购价格不高于47.74元/股，对应1256.8万股至2513.6",
+     "source": "东方财富股票",
+     "zh": "回购刷屏！"
     },
     {
      "title": "Saudi Arabia’s main airport hit by 2nd attack as regional conflict escalates",
@@ -2416,54 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
      "source": "MarketWatch",
      "zh": "“我没有孩子”：我阿姨给了我 5 万美元作为首付。现在她要我把家留给她的两个孩子。"
-    },
-    {
-     "title": "大摩相信：市场低估了宁德时代的韧性！",
-     "link": "https://wallstreetcn.com/articles/3783381",
-     "pubDate": "Sun, 11 Oct 2026 19:18:46 +0800",
-     "summary": "投资者当前对宁德时代的盈利预期或许过于悲观。 据追风交易台消息，10月9日，摩根士丹利研报指出，目前市场焦点过度集中在占宁德时代电动车电池总销量约三分之一的中国乘用车市场。然而，该行强调，中国商用车车队的电动化、欧洲电动车普及率的重新加速，以及除美国外全球其他市场电动车需求的拐点，已经构成了不可忽视的庞大收入敞口。市场低估了宁德时代的跨周期韧性。 分析师Jack Lu和Kaylee Xu在报告中基于全生命周期成本（TCO）分析，宁德时代的技术优势可支撑高达0.24元/瓦时的溢价，远高于当前0.09元/瓦时的实际利润溢价，盈利护城河稳固。 针对部分投资者担忧明年电池净利润可能降至0.08元/瓦时",
-     "source": "华尔街见闻",
-     "zh": "大摩相信：市场低估了宁德时代的韧性！"
-    },
-    {
-     "title": "英伟达表外承诺飙升至5300亿美元！SemiAnalysis：未来可能突破1万亿美元",
-     "link": "https://wallstreetcn.com/articles/3783383",
-     "pubDate": "Sun, 11 Oct 2026 18:56:33 +0800",
-     "summary": "英伟达的表外财务承诺规模正以惊人速度膨胀，引发市场对其资产负债表弹性与风险承受能力的高度关注。 据英伟达最新提交的10-Q季报披露，其表外担保总额已达5300亿美元，较上一季度披露的1840亿美元大幅跃升，单季增幅超过180%。 这一数字横跨六个不同科目，涵盖供应承诺、数据中心兜底协议及云服务租约等多类义务。 研究机构SemiAnalysis在对上述数据进行深度拆解后指出， 随着英伟达盈利能力持续增强，其表外义务规模在未来几年有望进一步扩张至1万亿美元以上。 与此同时，该机构也提出核心问题： 一旦行业出现放缓或下行，英伟达能否在兼顾安全边际的前提下，履行全部表内与表外承诺？ 单季激增逾1800",
-     "source": "华尔街见闻",
-     "zh": "英伟达表外承诺飙升至5300亿美元！SemiAnalysis：未来可能突破1万亿美元"
-    },
-    {
-     "title": "美国VC资本流向：从“单一组件”转向“AI工厂”系统集成",
-     "link": "https://wallstreetcn.com/articles/3783382",
-     "pubDate": "Sun, 11 Oct 2026 18:40:23 +0800",
-     "summary": "AI基础设施风险投资正经历结构性转变。资本不再仅仅追逐算力或电力这两个单一要素，而是加速流向将两者整合为一体的系统性解决方案——数据中心正在演变为需要统一调度电力、算力、网络、冷却与数据流动的\"AI工厂\"。 据追风交易台，摩根士丹利最新研究报告指出，2026年美国AI基础设施相关初创企业的风险融资规模已达335亿美元，较2025年全年近乎翻倍。 资本高度集中于两大最稀缺的基础设施要素——单位功耗算力与稳定电力供应，两条路径合计占2026年融资总额的逾80%。与此同时，越来越多的投资者开始同时布局电力与算力，跨路径投资者参与比例从2021年前的16%跃升至2026年的73%，标志着市场对系统集成",
-     "source": "华尔街见闻",
-     "zh": "美国VC资本流向：从“单一组件”转向“AI工厂”系统集成"
-    },
-    {
-     "title": "如今美光赚得比苹果还多！苹果急需芯片，美光掌握定价权",
-     "link": "https://wallstreetcn.com/articles/3783377",
-     "pubDate": "Sun, 11 Oct 2026 17:59:03 +0800",
-     "summary": "内存短缺正在重新分配科技行业的利润版图。美光科技在截至9月30日的第四财季录得净利润377亿美元，而苹果同期净利润为298亿美元——美光单季多赚了约80亿美元。 这一反转并非偶然。市场策略师Charlie Bilello在X平台上用三句话概括了这一逻辑： “苹果需要芯片。美光有芯片。美光定价格。” 他补充道，美光净利润“在短短两年内飙升42倍至380亿美元——比苹果上季度的盈利还多80亿美元”，并直言：“我们从未见过这样的定价权。” 科技投资分析师Beth Kindig也在X平台上指出：“美光现在产生的营业利润已经超过苹果。” 美光的数字：从亏损边缘到碾压苹果 美光的盈利反转速度令人咋舌。 2",
-     "source": "华尔街见闻",
-     "zh": "如今美光赚得比苹果还多！苹果急需芯片，美光掌握定价权"
-    },
-    {
-     "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
-     "link": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 09:48:24 GMT",
-     "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels",
-     "source": "Financial Times",
-     "zh": "利雅得机场遭导弹袭击造成12人死亡、数百人受伤"
-    },
-    {
-     "title": "十大机构论市：市场短期性价比已明显改善 小级别反弹可期",
-     "link": "http://finance.eastmoney.com/news/1345,202610113892075327.html",
-     "pubDate": "Sun, 11 Oct 2026 17:30:10 +0800",
-     "summary": "本周沪指下跌0.74%，深证成指下跌1.91%，创业板指下跌2.93%。下周A股将如何运行？我们汇总了各大机构的最新投资策略，供投资者参考。 申万宏源策略：市场短期性价比已明显改善 小级别反弹可期 国庆假期后两个交易日的行情，构成支持我们长中短期波段定位的证据。中长波段，A股处于两个大波段上涨之间的震荡休整期，且仍偏向于弱势震荡。这个阶段，大类资产和产业利空，容易引发脉冲式调整。短波段，市场短期性价比已明显改善，各维度悲观预期都已有所反映。市场已经验证了，上证综指3800点以下配置需求释放，足以支持反弹。国庆假期后两个交易日的行情，构成支持我们长中短期波段定位的证据。重申我们长期、中期、短期波",
-     "source": "东方财富资讯",
-     "zh": "十大机构论市：市场短期性价比已明显改善 小级别反弹可期"
     }
    ]
   },

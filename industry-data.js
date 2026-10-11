@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 00:32:04",
+ "generated_at": "2026/10/12 00:51:53",
  "recent_days": 7,
  "industries": [
   {
@@ -1111,7 +1111,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 23:01:00 +0000",
      "summary": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
      "source": "STAT News",
-     "zh": "Americans trust science more than peers around the world, survey shows"
+     "zh": "调查显示美国人比世界各地的同龄人更信任科学"
     },
     {
      "title": "Women in Biopharma 2026; A secretive new thorn in pharma’s side; and more",
@@ -1231,7 +1231,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 14:43:11 +0000",
      "summary": "The acting general counsel at HHS, Bob Foster, is no longer at the agency. When Endpoints News contacted Foster through his government email, it received the following automated message: “I am no longer with the ...",
      "source": "Endpoints News",
-     "zh": "Acting general counsel at HHS has left the department"
+     "zh": "HHS 代理总法律顾问已离开该部门"
     },
     {
      "title": "This week in charts: What’s driving biotech’s recent pullback?",
@@ -1447,7 +1447,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 07 Oct 2026 14:18:18 +0000",
      "summary": "Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months The post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on SpaceNews .",
      "source": "SpaceNews",
-     "zh": "Announcing the finalists for the 2026 SpaceNews Icon Awards"
+     "zh": "宣布 2026 年太空新闻偶像奖决赛入围者"
     },
     {
      "title": "Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format",
@@ -1503,7 +1503,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 04 Oct 2026 20:33:26 +0000",
      "summary": "The Tranche 1 Transporter Layer A mission is the fourth flight supporting the Space Development Agency’s Proliferated Warfighter Space Architecture constellation. The next launch attempt could come as soon as Saturday.",
      "source": "Spaceflight Now",
-     "zh": "SpaceX scrubs launch attempt for 21 data transport satellites for the Space Development Agency"
+     "zh": "SpaceX 取消了为太空发展局发射 21 颗数据传输卫星的尝试"
     }
    ]
   },
@@ -1527,7 +1527,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 09:54:34 +0530",
      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication",
      "source": "The Hacker News",
-     "zh": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands"
+     "zh": "P7 DarkSword iOS 漏洞利用套件增加了加密钱包数据盗窃和远程命令"
     },
     {
      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
@@ -1567,7 +1567,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 11:00:00 +0000",
      "summary": "The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison"
+     "zh": "针对工业公司的内部网络勒索阴谋导致工程师入狱"
     },
     {
      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
@@ -1703,7 +1703,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 09:55:35 +0000",
      "summary": "Midnight Mimosa is the name given to a malware campaign primarily running preinstalled on low-cost Android devices. The post Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries"
+     "zh": "预制固件恶意软件冲击 150 多个国家/地区的廉价 Android 设备"
     },
     {
      "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
@@ -1729,6 +1729,22 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "职场不能太积极负责？错！ 正确做法是会挑活、会说不，不要来者不拒",
+     "link": "https://www.huxiu.com/article/4896651.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 00:41:57 +0800",
+     "summary": "本文来自微信公众号： 老高的小茶馆 ，作者：老高的小茶馆，原文标题：《职场不能太积极负责？错！ 正确做法是会挑活、会说不，不要来者不拒》 公司里最积极、最肯干、谁喊帮忙都不拒绝的那个人，往往也是最累、最不落好的。 这话一出来肯定有人不爱听。从小老师就教你努力就有回报，是金子总会发光。道理没错。但你现在停三秒钟想一下，你们公司那个天天最早到、最晚走，谁请假他都主动顶上去，领导在群里发条消息他永远第一个秒回”收到”，跨部门有事他永远第一个冲前面的人，现在混到什么位置了，每个月拿多少钱。你自己心里有数就行。 反倒是那些你天天在背后骂”这人怎么这么滑”、”他凭什么升啊”的主，你没事多盯他半个月就会发现",
+     "source": "虎嗅",
+     "zh": "职场不能太积极负责？错！ 正确做法是会挑活、会说不，不要来者不拒"
+    },
+    {
+     "title": "安踏成彪马第一大股东：丁世忠最贵的一张门票",
+     "link": "https://www.huxiu.com/article/4896650.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 00:39:22 +0800",
+     "summary": "本文来自微信公众号： 青橙财经 ，作者：青风，编辑：六子 10月7日，安踏集团正式宣布完成对彪马29.06%股权的收购，15.055亿欧元（约合113亿元人民币）的对价，让这家福建晋江起家的企业，一跃成为德国百年运动品牌的第一大股东。 消息一出，市场分裂成两派：乐观者翻出FILA、始祖鸟的逆袭旧账，预言安踏将再造一个百亿级品牌；悲观者则盯着彪马连续两年的亏损、约60%的收购溢价，直呼这是一笔“烫手的接盘”。 更让人意外的是，安踏花了上百亿，却没有进入彪马的管理董事会，只拿到了监事会席位，且不介入日常经营。 习惯了安踏“买下、控股、重塑”三部曲的市场，一时间看不懂这步棋。安踏到底在买什么？ *图",
+     "source": "虎嗅",
+     "zh": "安踏成彪马第一大股东：丁世忠最贵的一张门票"
+    },
     {
      "title": "房地产：政策到底了吗？市场到底了吗？",
      "link": "https://www.huxiu.com/article/4896649.html?f=rss",
@@ -1781,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "How I reverse engineered a commercial spatial audio effect",
      "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
      "pubDate": "Sun, 11 Oct 2026 15:21:58 +0000",
-     "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/ Comments URL: https://news.ycombinator.com/item?id=50044272 Points: 10 # Comments: 0",
+     "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/ Comments URL: https://news.ycombinator.com/item?id=50044272 Points: 16 # Comments: 2",
      "source": "Hacker News",
      "zh": "How I reverse engineered a commercial spatial audio effect"
     },
@@ -1842,12 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "小岛秀夫确认客串某大型真人电影、某知名动画，坦言不喜欢扮演自己"
     },
     {
-     "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+     "title": "Documents Add to Evidence in Climate Deception Case Against ExxonMobil",
      "link": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
      "pubDate": "Sun, 11 Oct 2026 14:28:39 +0000",
-     "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 267 # Comments: 133",
+     "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 301 # Comments: 143",
      "source": "Hacker News",
-     "zh": "Internal files add to evidence of an ExxonMobil climate deception campaign"
+     "zh": "Documents Add to Evidence in Climate Deception Case Against ExxonMobil"
     },
     {
      "title": "英国水果蔬菜营养价值下降最高五成",
@@ -1861,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Why Texas Is Making Data Centers Wait",
      "link": "https://a16z.com/why-texas-is-making-data-centers-wait/",
      "pubDate": "Sun, 11 Oct 2026 14:21:31 +0000",
-     "summary": "Article URL: https://a16z.com/why-texas-is-making-data-centers-wait/ Comments URL: https://news.ycombinator.com/item?id=50043603 Points: 9 # Comments: 11",
+     "summary": "Article URL: https://a16z.com/why-texas-is-making-data-centers-wait/ Comments URL: https://news.ycombinator.com/item?id=50043603 Points: 19 # Comments: 23",
      "source": "Hacker News",
      "zh": "Why Texas Is Making Data Centers Wait"
     },
@@ -1885,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Terence Tao: Math 2.0 [pdf]",
      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
      "pubDate": "Sun, 11 Oct 2026 13:16:45 +0000",
-     "summary": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50043026 Points: 118 # Comments: 152",
+     "summary": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50043026 Points: 121 # Comments: 155",
      "source": "Hacker News",
      "zh": "Terence Tao: Math 2.0 [pdf]"
     },
@@ -1949,25 +1965,9 @@ window.INDUSTRY_DATA = {
      "title": "The tilde in your PATH may not be your HOME",
      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
      "pubDate": "Sun, 11 Oct 2026 12:13:13 +0000",
-     "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 110 # Comments: 62",
+     "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 119 # Comments: 67",
      "source": "Hacker News",
      "zh": "The tilde in your PATH may not be your HOME"
-    },
-    {
-     "title": "《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售",
-     "link": "https://www.solidot.org/story?sid=85578",
-     "pubDate": "Sun, 11 Oct 2026 20:12:09 +0800",
-     "summary": "《星际公民(Star Citizen)》的独立单机战役《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售 。《星际公民》由《银河飞将》创始人 Chris Roberts 领导开发，试图复兴太空模拟飞行游戏，允许玩家在广袤的宇宙空间内探险，交易和战斗。它于 2012 年在 Kickstarter 上成功众筹，原计划的交付时间是 2014 年。但在 Kickstarter 众筹结束后，开发团队继续在官方网站上进行募资，许多募资其实就是销售游戏内的虚拟物品如各种型号的飞船。和多人网游《星际公民》一样，单机战役《Squadron 42》的交付时间也不断延期，2024 年宣布",
-     "source": "Solidot",
-     "zh": "《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售"
-    },
-    {
-     "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-     "link": "https://verdagon.dev/blog/valen-group-borrowing",
-     "pubDate": "Sun, 11 Oct 2026 12:06:22 +0000",
-     "summary": "Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 64 # Comments: 26",
-     "source": "Hacker News",
-     "zh": "Valen's Memory Safety: A New Kind of Borrow Checking"
     }
    ]
   },
@@ -2007,7 +2007,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 15:15:00 +0000",
      "summary": "There are a load of features tucked away in Google's 'other' mapping app.",
      "source": "Engadget",
-     "zh": "The hidden features every Waze user should know about"
+     "zh": "每个位智用户都应该了解的隐藏功能"
     },
     {
      "title": "Report: HomePod mini 2 to release on October 30 with these upgrades",
@@ -2063,7 +2063,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 14:15:00 +0000",
      "summary": "Transferring important files to a thumb drive is brilliant for portability, but not always great for longevity. Here's why you should back them up elsewhere.",
      "source": "Engadget",
-     "zh": "Why it's important to backup data saved on your older thumb drives"
+     "zh": "为什么备份旧拇指驱动器上保存的数据很重要"
     },
     {
      "title": "Report: Apple ‘HomeView’ smart home hub will ship in November, come in four colors, A18 chip",
@@ -2135,7 +2135,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 09:00:44 +0000",
      "summary": "Meta's cute AI agent isn't your only option.",
      "source": "Android Authority",
-     "zh": "5 AI apps you should use instead of Meta Muse"
+     "zh": "您应该使用 5 个人工智能应用程序来代替 Meta Muse"
     },
     {
      "title": "Weekly poll: are you interested in the Samsung Galaxy Tab S12+ or Galaxy Tab S12 Ultra?",
@@ -2175,7 +2175,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 04:46:02 +0200",
      "summary": "As if foldables weren’t expensive enough, the skyrocketing costs of memory chips raised their prices even further – and that’s a problem for the vivo X Fold6. Not just for it, of course, the other foldables that it is competing with are in the same boat. Still, even among those who want a foldable p",
      "source": "GSMArena",
-     "zh": "Weekly poll results: the vivo X Fold6 is hot, but its price can singe your wallet"
+     "zh": "每周投票结果：vivo X Fold6很热，但它的价格却让你的钱包烧焦"
     },
     {
      "title": "Googlebook improving ‘Better Together’ Android sync features, Samsung support rolling out",
@@ -2199,7 +2199,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 20:58:26 +0000",
      "summary": "Samsung is now rolling out its Android 17-based update, One UI 9, to its collection of supported Galaxy smartphones and tablets. Here’s the full list of devices that have been updated so far, and what you should know about the update. more…",
      "source": "9to5Google",
-     "zh": "Samsung has updated these Galaxy devices to Android 17"
+     "zh": "三星已将这些 Galaxy 设备更新至 Android 17"
     },
     {
      "title": "Where Google Wallet state IDs are available on Android",
@@ -2226,12 +2226,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Merck's experimental eye drug meets goal in trial, but raises safety concerns",
+     "link": "https://seekingalpha.com/news/4651934-mercks-experimental-eye-drug-meets-goal-in-trial-but-raises-safety-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 11 Oct 2026 12:42:57 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Merck's experimental eye drug meets goal in trial, but raises safety concerns"
+    },
+    {
+     "title": "胡塞称袭击沙特机场和能源设施",
+     "link": "http://finance.eastmoney.com/news/1351,202610123892132761.html",
+     "pubDate": "Mon, 12 Oct 2026 00:36:06 +0800",
+     "summary": "更新：当地时间10月11日，也门胡塞武装发言人叶海亚·萨雷亚在社交媒体平台发布视频称，“过去24小时内，沙特发起124次空袭，打击也门首都萨那以及塔伊兹、马里卜、焦夫、哈杰、荷台达、萨达等省——自9月初本轮局势升级以来，沙特对也门空袭总数已达2058次，造成包括妇女和儿童在内的人员伤亡。” 萨雷亚称，胡塞武装发射导弹和 无人机 ，在过去24小时内对沙特境内目标实施四轮打击：打击沙特首都利雅得的哈立德国王国际 机场 ，“造成空中交通中断， 机场 全面关闭”；打击沙特阿美石油公司位于沙特东部省的舒加达姆 天然气 设施，“打击精准，目标区域燃起大火”；打击沙特阿美石油公司位于东部省塔纳吉布的炼油厂，",
+     "source": "东方财富股票",
+     "zh": "胡塞称袭击沙特机场和能源设施"
+    },
+    {
+     "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+     "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+     "pubDate": "Sun, 11 Oct 2026 16:35:00 GMT",
+     "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
+     "source": "MarketWatch",
+     "zh": "Millions of Americans will have fewer options during Medicare open enrollment this year"
+    },
+    {
+     "title": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+     "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+     "pubDate": "Sun, 11 Oct 2026 16:29:55 GMT",
+     "summary": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
+     "source": "CNBC",
+     "zh": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike"
+    },
+    {
+     "title": "维斯塔潘获得F1新加坡大奖赛冠军",
+     "link": "http://finance.eastmoney.com/news/1351,202610123892132216.html",
+     "pubDate": "Mon, 12 Oct 2026 00:27:07 +0800",
+     "summary": "2026赛季世界一级方程式赛车锦标赛（F1）新加坡大奖赛正赛11日在新加坡滨海湾街道赛道举行。红牛车队的荷兰车手维斯塔潘夺冠， 法拉利 车队的摩纳哥车手勒克莱尔、梅赛德斯车队的意大利车手安东内利分获亚军和季军。 在炎热潮湿的天气中，杆位发车的维斯塔潘全程领跑。尽管勒克莱尔起初紧追不舍，维斯塔潘仍很快拉开差距，最终以1小时42分0秒785完成62圈的比赛，率先冲线。这是维斯塔潘首次在滨海湾街道赛道夺得分站冠军，也是他职业生涯第73个分站冠军。 本场比赛过后，安东内利以340分领跑车手积分榜，其队友、英国车手拉塞尔以238分排名第二。 法拉利 车队英国车手汉密尔顿以229分排在第三，维斯塔潘、勒克",
+     "source": "东方财富股票",
+     "zh": "维斯塔潘获得F1新加坡大奖赛冠军"
+    },
+    {
+     "title": "独家谈判再起，恒大物业控股权出售再迎关键节点！",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892132368.html",
+     "pubDate": "Mon, 12 Oct 2026 00:25:22 +0800",
+     "summary": "日前， 恒大物业 （HK06666，股价1.205港元，市值130.27亿港元）公告称，清盘人已接获若干潜在买方就潜在交易提交的方案；同时，中国恒大和CEG Holdings（合称潜在卖方）已与一名选定的投标人（称为潜在买方）签订了排他性协议；根据该协议，潜在卖方与潜在买方已同意就潜在交易进行排他性谈判，谈判期限截至2026年10月27日。 此后，市场传出消息称，该潜在买方是太盟投资集团（以下简称太盟投资），双方已就收购 恒大物业 多数股权磋商最终条款。 对此，今日（10月11日），《每日经济新闻》记者联系了太盟投资相关负责人，但对方表示“谢绝评论”。 2024年1月，香港高等法院颁令中国恒大",
+     "source": "东方财富股票",
+     "zh": "独家谈判再起，恒大物业控股权出售再迎关键节点！"
+    },
+    {
      "title": "Marko Kolanovic calls Trump’s energy ceasefire a ‘con,’ Tom Lee sees potential inflation relief",
      "link": "https://seekingalpha.com/news/4651933-marko-kolanovic-calls-trump-s-energy-ceasefire-a-con-tom-lee-sees-potential-inflation-relief?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 11 Oct 2026 12:19:50 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Marko Kolanovic calls Trump’s energy ceasefire a ‘con,’ Tom Lee sees potential inflation relief"
+     "zh": "马尔科·科拉诺维奇称特朗普的能源停火是“骗局”，汤姆·李认为可能缓解通胀"
     },
     {
      "title": "春风动力拿下WorldWCR三年合约，国产摩托从参赛车队走向赛事供车方",
@@ -2255,7 +2303,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 12:09:22 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "BridgeBio reports improved symptoms in Phase 3 trial of rare-disease drug"
+     "zh": "BridgeBio 报告罕见病药物 3 期试验中症状有所改善"
     },
     {
      "title": "Oil chiefs pull out of Riyadh energy congress after airport missile strike",
@@ -2264,30 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "BP and others skip World Petroleum Council meeting after 12 killed in attack blamed on Houthis",
      "source": "Financial Times",
      "zh": "Oil chiefs pull out of Riyadh energy congress after airport missile strike"
-    },
-    {
-     "title": "通信设备“小巨人”通则康威打新中签率公布 周一抽签",
-     "link": "http://finance.eastmoney.com/news/1349,202610113892131597.html",
-     "pubDate": "Mon, 12 Oct 2026 00:03:28 +0800",
-     "summary": "10月11日晚间， 通则康威 （301718）披露了首次公开发行股票并在创业板上市网上申购情况及中签率公告。 公告显示，公司此次IPO网上发行有效申购户数近1396.71万户，有效申购股数近1085.20亿股，网上初步有效申购倍数超过100倍，触发回拨机制后，网上最终中签率仅为0.0162901214%，有效申购倍数约6138.69倍。 通则康威 此次发行价格为26.88元/股，发行总量为3645万股，保荐人（主承销商）为 中信建投 证券。 根据安排，摇号抽签将于10月12日进行，中签结果及缴款于10月13日完成。 回拨后网上发行占比升至48.50% 根据公告， 通则康威 本次发行采用网下向符",
-     "source": "东方财富股票",
-     "zh": "通信设备“小巨人”通则康威打新中签率公布 周一抽签"
-    },
-    {
-     "title": "IMF和世行年会将在曼谷举行 泰国加强安保和城市保障",
-     "link": "http://finance.eastmoney.com/news/1346,202610113892131726.html",
-     "pubDate": "Sun, 11 Oct 2026 23:56:20 +0800",
-     "summary": "中新社曼谷10月11日电 (梁峻祥李映民)2026年国际货币基金组织(IMF)和世界 银行 集团年会将于10月12日至18日在泰国曼谷举行。随着会议临近，泰国政府进一步加强安保、交通、防洪及城市运行等保障工作，以确保会议顺利举行。 本次年会主会场设在曼谷诗丽吉王后国家会议中心。来自世界各地的财政部长、央行行长、经济政策制定者、国际金融机构负责人及企业界人士等将参加会议。泰国方面此前预计将有超过1.5万人参加，最新信息显示，目前注册人数已达约1.8万人。 泰国总理府公共关系部表示，泰方已整合有关部门力量，在安全保障、 交通运输 、礼宾接待等方面做好准备，为与会代表提供便利。 为缓解会议期间曼谷交",
-     "source": "东方财富股票",
-     "zh": "IMF和世行年会将在曼谷举行 泰国加强安保和城市保障"
-    },
-    {
-     "title": "英伟达，被曝“新布局”",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892131695.html",
-     "pubDate": "Sun, 11 Oct 2026 23:56:19 +0800",
-     "summary": "据英国《金融时报》10日报道， 英伟达 正与AI初创公司Reflection AI展开初步谈判，探讨全面收购、追加投资或“收购式招聘”等多种方案。双方可能在未来几周达成协议，但谈判仍存在破裂可能。 值得注意的是， 英伟达 倾向于“人才收购”模式——聘用核心团队、获得技术授权，而不直接收购整家公司。这有望绕开漫长的反垄断审查。 自研、投资、收购 英伟达 在下一盘大棋 盯上Reflection AI，只是英伟达密集出手的缩影。英伟达创始人黄仁勋今年7月在接受采访时表示，“免费的AI应该有利于硬件，有利于芯片，有利于 数据中心 ”。事实也表明，英伟达正用资本和模型，实现其“AI—算力—模型”的生态闭",
-     "source": "东方财富股票",
-     "zh": "英伟达，被曝“新布局”"
     },
     {
      "title": "Zelenskyy says Trump's Russia-Ukraine energy ceasefire deal was a surprise: Axios",
@@ -2338,20 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "Watch big banks' capital markets, commercial banking results in Q3 earnings"
     },
     {
-     "title": "Saudi Arabia’s main airport hit by 2nd attack as regional conflict escalates",
-     "link": "https://seekingalpha.com/news/4651929-saudi-arabia-s-main-airport-hit-by-2nd-attack-as-regional-conflict-escalates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 11 Oct 2026 11:28:25 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Saudi Arabia’s main airport hit by 2nd attack as regional conflict escalates"
-    },
-    {
      "title": "Democrats need a foreign policy",
      "link": "https://www.ft.com/content/dddba87c-3ed9-4cb5-8fe2-1b1dcc71da6f?syn-25a6b1a6=1",
      "pubDate": "Sun, 11 Oct 2026 15:13:30 GMT",
      "summary": "Trump’s approach to the world has left Republicans floundering as the midterms approach. Liberals should plan their own strategy now",
      "source": "Financial Times",
-     "zh": "Democrats need a foreign policy"
+     "zh": "民主党需要外交政策"
     },
     {
      "title": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山",
@@ -2384,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国总统特朗普11日在社交媒体发文称，即刻起，俄乌冲突进入“能源停火”状态，双方均已同意。 （注：“能源停火”核心是俄乌双方暂时停止攻击对方的发电厂、变电站、炼油厂、 天然气 管道等能源设施） （文章来源：央视新闻）",
      "source": "东方财富资讯",
      "zh": "特朗普：俄乌双方同意“能源停火”"
-    },
-    {
-     "title": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-     "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-     "pubDate": "Sun, 11 Oct 2026 14:09:22 GMT",
-     "summary": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
-     "source": "CNBC",
-     "zh": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike"
     },
     {
      "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
@@ -2456,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "The big banks kick off earnings season on Tuesday, to provide a first read on the health of the economy in a rising-yield environment.",
      "source": "MarketWatch",
      "zh": "Bank earnings to shed the first light on how higher yields are affecting the economy"
-    },
-    {
-     "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-     "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 12:00:00 GMT",
-     "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-     "source": "MarketWatch",
-     "zh": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children."
     }
    ]
   },
@@ -2543,7 +2543,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 09:00:00 +0000",
      "summary": "The written word has been revolutionary in preserving ideas from the past, and transmitting new ones in the present. But does it favor tradition or change?",
      "source": "Live Science",
-     "zh": "Does written language speed up or slow down cultural change?"
+     "zh": "书面语言会加速还是减缓文化变革？"
     },
     {
      "title": "'October is the ideal time to get vaccinated': Flu season is kicking off early, experts say",
@@ -2551,7 +2551,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 19:10:00 +0000",
      "summary": "Flu tests are coming back positive at higher rates than is typical for early fall in several Western states, data suggests.",
      "source": "Live Science",
-     "zh": "'October is the ideal time to get vaccinated': Flu season is kicking off early, experts say"
+     "zh": "“十月是接种疫苗的理想时间”：专家称流感季节提前开始"
     },
     {
      "title": "AI disqualification yields new Nikon Small World in Motion winner",
@@ -2599,7 +2599,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 08 Oct 2026 22:37:22 EDT",
      "summary": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting stars from Halley’s Comet and a glowing Hunter’s Moon just before Halloween.",
      "source": "ScienceDaily",
-     "zh": "October’s night sky is full of cosmic tricks and treats"
+     "zh": "十月的夜空充满了宇宙的把戏和款待"
     },
     {
      "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
@@ -2639,7 +2639,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 08 Oct 2026 13:00:00 +0000",
      "summary": "Participants in two small trials lost dangerous fat around their internal organs. This fat is linked to health issues like diabetes and heart problems.",
      "source": "Science News",
-     "zh": "An experimental drug kills fat cells, rather than shrinking them"
+     "zh": "一种实验药物会杀死脂肪细胞，而不是缩小它们"
     },
     {
      "title": "Gene therapy and special goggles give some blind people limited sight",
@@ -2655,7 +2655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 07 Oct 2026 15:55:00 -0400",
      "summary": "MIT researchers built a cloud-based platform to help Massachusetts coastal towns and the state manage shellfishing closures, giving thousands of permit holders a clearer view of where they can fish.",
      "source": "MIT News",
-     "zh": "Turning the tide on Massachusetts shellfishing data"
+     "zh": "扭转马萨诸塞州贝类捕捞数据的潮流"
     },
     {
      "title": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",

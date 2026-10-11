@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 06:59:39",
+ "generated_at": "2026/10/12 07:09:47",
  "recent_days": 7,
  "industries": [
   {
@@ -21,7 +21,7 @@ window.INDUSTRY_DATA = {
      "title": "Will the HomeView be Apple’s first smart home success?",
      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
      "pubDate": "Sun, 11 Oct 2026 21:14:40 +0000",
-     "summary": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date. Gur",
+     "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
      "source": "TechCrunch AI",
      "zh": "HomeView 会成为苹果第一个成功的智能家居产品吗？"
     },
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "3 Stocks To Play The Nuclear Energy Boom",
+     "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/3-Stocks-To-Play-The-Nuclear-Energy-Boom.html",
+     "pubDate": "Sun, 11 Oct 2026 18:00:00 -0500",
+     "summary": "Nuclear energy stocks have suffered heavy losses over the past year, even as technology companies commit billions of dollars to securing nuclear electricity for AI data centers. The Global X Uranium ETF (URA) has lost more than 20% over the past 12 months, compared with gains exceeding 40% for the E",
+     "source": "OilPrice",
+     "zh": "3只股票将推动核能热潮"
+    },
+    {
      "title": "How Low Can the Strategic Petroleum Reserve Actually Go?",
      "link": "https://oilprice.com/Energy/Crude-Oil/How-Low-Can-the-Strategic-Petroleum-Reserve-Actually-Go.html",
      "pubDate": "Sun, 11 Oct 2026 14:00:00 -0500",
@@ -896,14 +904,6 @@ window.INDUSTRY_DATA = {
      "summary": "Earlier this week, the International Energy Agency, after consulting with G7, said it would release another 100 million barrels of diesel, gasoline, and crude oil. The release is part of a plan announced in March to release 400 million barrels of oil in response to the Hormuz squeeze. But there is a",
      "source": "OilPrice",
      "zh": "紧急石油释放风险耗尽世界最后的供应缓冲"
-    },
-    {
-     "title": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
-     "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
-     "pubDate": "Sat, 10 Oct 2026 16:00:00 -0500",
-     "summary": "Mexico is dependent on oil and gas imports for two-thirds of its energy consumption, despite the fact that the country has abundant domestic fossil fuel resources. But instead of exploiting its own producing power to the greatest potential, Mexico relies on its neighbor to the north for the majority",
-     "source": "OilPrice",
-     "zh": "Pemex 需要近 1100 亿美元才能实现墨西哥的产量目标"
     },
     {
      "title": "Brazil’s retail electricity market opening raises credit and liquidity concerns, study finds",
@@ -1322,6 +1322,30 @@ window.INDUSTRY_DATA = {
      "zh": "蓝色起源推进 LC-36 重建工作，以便年底新格伦重返飞行"
     },
     {
+     "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+     "pubDate": "Sun, 11 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wr",
+     "source": "NASA",
+     "zh": "APOD：2026 年 10 月 11 日——冰钓宇宙中微子"
+    },
+    {
+     "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+     "link": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+     "pubDate": "Sat, 10 Oct 2026 14:18:59 +0000",
+     "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience ",
+     "source": "NASA",
+     "zh": "NASA 将在大都会人寿体育场进行天桥飞行，与 NFL 球迷互动"
+    },
+    {
+     "title": "APOD: 2026 October 10 – Lunar Farside",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+     "pubDate": "Sat, 10 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written ",
+     "source": "NASA",
+     "zh": "APOD：2026 年 10 月 10 日 – 月球背面"
+    },
+    {
      "title": "SpaceX launches 21 data satellites for the Space Development Agency",
      "link": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
      "pubDate": "Fri, 09 Oct 2026 21:41:30 +0000",
@@ -1330,12 +1354,36 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX 为太空发展局发射 21 颗数据卫星"
     },
     {
+     "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+     "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+     "pubDate": "Fri, 09 Oct 2026 18:11:44 +0000",
+     "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space station",
+     "source": "NASA",
+     "zh": "NASA 寻求美国商业空间站行业计划"
+    },
+    {
+     "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+     "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+     "pubDate": "Fri, 09 Oct 2026 16:59:24 +0000",
+     "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimen",
+     "source": "NASA",
+     "zh": "NASA 展示下一代隔热罩技术"
+    },
+    {
      "title": "Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing",
      "link": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/",
      "pubDate": "Fri, 09 Oct 2026 14:36:44 +0000",
      "summary": "Ship 42 for Flight 15 has headed back out to Massey’s for more cryo-proof testing… The post Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "40 号船返航，42 号船接受更多低温验证测试"
+    },
+    {
+     "title": "Cosmic House of Mirrors",
+     "link": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
+     "pubDate": "Fri, 09 Oct 2026 13:57:24 +0000",
+     "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, howeve",
+     "source": "NASA",
+     "zh": "宇宙镜之屋"
     },
     {
      "title": "Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload",
@@ -1674,6 +1722,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Steam 同时在线人数超 4350 万，再创历史新高",
+     "link": "https://www.ithome.com/1/011/721.htm",
+     "pubDate": "Sun, 11 Oct 2026 23:05:37 GMT",
+     "summary": "IT之家 10 月 12 日消息，SteamDB 数据显示，北京时间 10 月 11 日晚 22:00 左右，Steam 平台同时在线用户峰值达到 43,505,724 人，创下历史新高。同时，Valve 官方 Steam 统计页面同日也显示峰值约为 43,501,449 人。两套数据相差约 4275 人，但均确认平台峰值首次突破 4350 万。 需要注意的是，“同时在线用户”并不等于所有人都在玩游戏。当这一纪录出现时，实际处于游戏中的用户约为 1446 万，其余用户可能正在浏览商店、聊天或使用平台其他功能。 从更长的时间维度看，Steam 的在线人数峰值呈现逐年攀升的态势。2026 年 10",
+     "source": "IT之家",
+     "zh": "Steam 同时在线人数超 4350 万，再创历史新高"
+    },
+    {
+     "title": "Anthropic 放弃后，消息称亚马逊洽谈收购 AI 初创公司 Decart",
+     "link": "https://www.ithome.com/1/011/720.htm",
+     "pubDate": "Sun, 11 Oct 2026 23:01:49 GMT",
+     "summary": "IT之家 10 月 12 日消息，据华尔街日报消息，据知情人士透露，亚马逊正就收购人工智能初创公司 Decart 展开谈判， 该笔交易的潜在估值约为 70 亿美元 （IT之家注：现汇率约合 469.48 亿元人民币） 。 总部位于旧金山的 Decart 专注于研发跨芯片适配软件，能够帮助开发者在不同 AI 芯片之间无缝切换。随着各大科技巨头纷纷竞逐算力资源，这一底层软件能力正变得愈发关键。 知情人士指出，若谈判进展顺利且未出现新的竞购方，该交易或将很快达成。 研究机构 PitchBook 的数据显示，Decart 此前已从红杉资本、Benchmark 以及 Radical Ventures 等",
+     "source": "IT之家",
+     "zh": "Anthropic 放弃后，消息称亚马逊洽谈收购 AI 初创公司 Decart"
+    },
+    {
      "title": "360 创始人周鸿祎攀岩受伤：左膝粉碎性骨折，未来两三个月取消出差",
      "link": "https://www.ithome.com/1/011/719.htm",
      "pubDate": "Sun, 11 Oct 2026 22:52:16 GMT",
@@ -1701,7 +1765,7 @@ window.INDUSTRY_DATA = {
      "title": "Passkeys are a trap. Do not use them",
      "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
      "pubDate": "Sun, 11 Oct 2026 21:59:48 +0000",
-     "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 53 # Comments: 12",
+     "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 64 # Comments: 19",
      "source": "Hacker News",
      "zh": "万能钥匙是一个陷阱。不要使用它们"
     },
@@ -1717,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
      "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
      "pubDate": "Sun, 11 Oct 2026 21:07:20 +0000",
-     "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 67 # Comments: 37",
+     "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 73 # Comments: 44",
      "source": "Hacker News",
      "zh": "一名远程员工每天拒绝 160 张网络摄像头照片。她的雇主解雇了她"
     },
@@ -1741,15 +1805,23 @@ window.INDUSTRY_DATA = {
      "title": "The gap in shared understanding of LLM capability is widening",
      "link": "https://twitter.com/karpathy/status/2109361546505966046",
      "pubDate": "Sun, 11 Oct 2026 20:20:52 +0000",
-     "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 93 # Comments: 103",
+     "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 103 # Comments: 123",
      "source": "Hacker News",
      "zh": "对 LLM 能力的共识差距正在扩大"
+    },
+    {
+     "title": "Fetching AMD SEV Reports (With Zig)",
+     "link": "https://bschaatsbergen.com/posts/zig-sev-guest/",
+     "pubDate": "Sun, 11 Oct 2026 20:10:55 +0000",
+     "summary": "Article URL: https://bschaatsbergen.com/posts/zig-sev-guest/ Comments URL: https://news.ycombinator.com/item?id=50047323 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "获取 AMD SEV 报告（使用 Zig）"
     },
     {
      "title": "Cartographers of North Korea",
      "link": "https://cartographers-nk.wonyoung.so/",
      "pubDate": "Sun, 11 Oct 2026 19:46:40 +0000",
-     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 110 # Comments: 12",
+     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 114 # Comments: 15",
      "source": "Hacker News",
      "zh": "朝鲜制图师"
     },
@@ -1757,17 +1829,9 @@ window.INDUSTRY_DATA = {
      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
      "link": "https://theonion.com/archivehunt/",
      "pubDate": "Sun, 11 Oct 2026 19:43:32 +0000",
-     "summary": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 195 # Comments: 21",
+     "summary": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 199 # Comments: 22",
      "source": "Hacker News",
      "zh": "那么，您想出售您的《洋葱》印刷版吗？"
-    },
-    {
-     "title": "The Unreasonable Effectiveness of Vex in NixOS",
-     "link": "https://blog.kammel.dev/post/nixos_vex/",
-     "pubDate": "Sun, 11 Oct 2026 19:23:07 +0000",
-     "summary": "Article URL: https://blog.kammel.dev/post/nixos_vex/ Comments URL: https://news.ycombinator.com/item?id=50046864 Points: 39 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "NixOS 中 Vex 的不合理有效性"
     },
     {
      "title": "A look at the economics of Anthropic&apos;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
@@ -1850,22 +1914,6 @@ window.INDUSTRY_DATA = {
      "zh": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到"
     },
     {
-     "title": "曝苹果新一代 Apple TV 4K 内置麦克风、Siri Remote 遥控器将配扬声器便于查找",
-     "link": "https://www.ithome.com/1/011/714.htm",
-     "pubDate": "Sun, 11 Oct 2026 15:20:30 GMT",
-     "summary": "IT之家 10 月 11 日消息，苹果将在本周二举行“欢迎回家”活动，主角预计是 HomeView 智能家庭中枢，除此之外还有新款 HomePod mini 和 Apple TV 4K。 据彭博社记者马克 · 古尔曼今日透露， 新款 Apple TV 4K 将在 10 月 30 日发售 ，苹果已在这款新品中测试内置麦克风，用户直接说出 Siri 就能进行语音交互。 IT之家了解到，现款 Apple TV 4K 仅在 Siri Remote 中带有麦克风，用户必须对着遥控器或 HomePod 说话，才能使用 Siri。 同时，苹果还将重新设计 Siri Remote 遥控器， 这款配件将内置扬声",
-     "source": "IT之家",
-     "zh": "曝苹果新一代 Apple TV 4K 内置麦克风、Siri Remote 遥控器将配扬声器便于查找"
-    },
-    {
-     "title": "消息称 OLED 屏新款 iPad mini 售价将大幅上涨，或接近 799 美元",
-     "link": "https://www.ithome.com/1/011/713.htm",
-     "pubDate": "Sun, 11 Oct 2026 15:12:21 GMT",
-     "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天表示，苹果计划本月晚些时候推出新款 iPad mini。新机的起步存储空间可能会有所提升， 但有意换机的用户得提前做好涨价的准备 。 古尔曼透露，新款 iPad mini 售价相比现款机型将大幅上涨，预计将接近 799 美元 （IT之家注：现汇率约合 5,359 元人民币） 。作为对比，现款 iPad mini 7 价格为 599 美元 （现汇率约合 4,017 元人民币） /4,799 元人民币。 据悉，新款 iPad mini 将首次采用 OLED 屏幕，配备重新设计的机身。预计将拥有全新扬声器系统，搭载性能更强的芯片。目前我",
-     "source": "IT之家",
-     "zh": "消息称 OLED 屏新款 iPad mini 售价将大幅上涨，或接近 799 美元"
-    },
-    {
      "title": "A look at Apple&apos;s smart home strategy, centered on a HomeView display hub, with a new HomePod mini, Apple TV, and second-party accessories from LG and Schneider (Mark Gurman/Bloomberg)",
      "link": "https://www.techmeme.com/261011/p7#a261011p7",
      "pubDate": "Sun, 11 Oct 2026 11:10:01 -0400",
@@ -1922,6 +1970,22 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Why Japan said goodbye to traditional flip phones",
+     "link": "https://www.engadget.com/2281237/why-japan-said-goodbye-flip-phones/",
+     "pubDate": "Sun, 11 Oct 2026 23:00:00 +0000",
+     "summary": "Flip phones endured in Japan longer than the US, but the trend is shifting.",
+     "source": "Engadget",
+     "zh": "日本为何告别传统翻盖手机"
+    },
+    {
+     "title": "Study finds many new cars share your data with third-party companies",
+     "link": "https://www.engadget.com/2281212/new-car-sharing-data-third-party-companies-study-northeastern-university/",
+     "pubDate": "Sun, 11 Oct 2026 22:45:00 +0000",
+     "summary": "A study by Northeastern University and Consumer Reports found that automakers are collecting data to allow advertisers to build in-depth profiles on consumers.",
+     "source": "Engadget",
+     "zh": "研究发现许多新车与第三方公司共享您的数据"
+    },
+    {
      "title": "SpaceXAI's Grok: What's free in 2026 and what isn't?",
      "link": "https://www.engadget.com/2281213/spacexai-grok-free-features-2026/",
      "pubDate": "Sun, 11 Oct 2026 22:30:00 +0000",
@@ -1968,22 +2032,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sure, you can set your iPhone's alarm to any time you choose. But there's a hidden limit to how far your choices will stretch, though most users won't reach it.",
      "source": "Engadget",
      "zh": "iPhone 时钟应用程序有一个鲜为人知的奇怪之处"
-    },
-    {
-     "title": "Steam Frame teardown reveals one problem with its future repairs",
-     "link": "https://www.engadget.com/2281207/steam-frame-teardown-reveals-one-problem-repairs/",
-     "pubDate": "Sun, 11 Oct 2026 18:30:00 +0000",
-     "summary": "In an otherwise repairable device, the cooling fan is hard to reach.",
-     "source": "Engadget",
-     "zh": "Steam Frame 拆解揭示了其未来维修的一个问题"
-    },
-    {
-     "title": "The meaning behind the padlock symbol in your PlayStation 5 game library",
-     "link": "https://www.engadget.com/2281153/playstation-5-game-library-padlock-symbol-meaning-explained/",
-     "pubDate": "Sun, 11 Oct 2026 18:00:00 +0000",
-     "summary": "Digital game licenses aren't perfect, which is why you might see a padlock icon blocking you from PS5 games.",
-     "source": "Engadget",
-     "zh": "PlayStation 5 游戏库中挂锁符号背后的含义"
     },
     {
      "title": "The original Apple TV 4K from 2017 is now officially \"vintage\"",
@@ -2170,52 +2218,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "新华财经早报：10月12日",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892150717.html",
-     "pubDate": "Mon, 12 Oct 2026 06:51:28 +0800",
-     "summary": "三季度高频数据折射我国经济向好态势：线下消费连续三个月上行，增长动能不断积蓄 中国 汽车 工业协会：严守安全底线，摒弃重形式、轻安全的非理性创新模式 特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻” 记者11日从国家发展改革委国家信息中心了解到，三季度，消费、外贸、投资等领域多项高频数据平稳向好，我国经济顶压前行，保持稳中有进、稳中向优态势，增长动能不断积蓄。其中， 线下消费 大数据 显示，三季度，各类消费支付金额同比增长2.6%，增速较二季度提高0.7个百分点。9月线下支付金额同比增长3.1%，增速较8月提高0.5个百分点，连续3个月上行。 （新华社） 记者11日从市场监管总局了解",
-     "source": "东方财富股票",
-     "zh": "新华财经早报：10月12日"
+     "title": "SBI Group and Mesh prep digital asset JV",
+     "link": "https://www.finextra.com/newsarticle/48567/sbi-group-and-mesh-prep-digital-asset-jv?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 12 Oct 2026 00:01:00 GMT",
+     "summary": "Japan's SBI Group is teaming up with crypto infrastructure provider Mesh Connect and Money Forward on a digital asset joint venture.",
+     "source": "Finextra",
+     "zh": "SBI 集团与 Mesh 准备数字资产合资企业"
     },
     {
-     "title": "筹划重要资产收购，今日复牌",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892150517.html",
-     "pubDate": "Mon, 12 Oct 2026 06:42:38 +0800",
-     "summary": "重要新闻提示 北部湾港 ：拟收购恒港码头100%股权，股票10月12日起复牌 工业富联 ：美国337调查涉及公司相关产品处于内部验证评估阶段 哈药股份 ：公司董事、总裁芦传有被立案、实施留置 今日提示 北交所新股 文峰光电 （申购代码：920296）今日申购，发行价为11.45元/股 第二十六届中国国际工业博览会10月12日至16日在上海举办 马士基：紧急燃油附加费（EFS）上调至20%，10月12日起生效 京东 “双11”活动10月12日开启 2026年诺贝尔经济学奖北京时间10月12日17时45分公布 财经新闻 1. 据央视新闻，我国氢能产业进入发展快车道。今年以来，我国氢能产业发展全面提",
-     "source": "东方财富股票",
-     "zh": "筹划重要资产收购，今日复牌"
+     "title": "华尔街见闻早餐FM-Radio | 2026年10月12日",
+     "link": "https://wallstreetcn.com/articles/3783316",
+     "pubDate": "Mon, 12 Oct 2026 07:01:12 +0800",
+     "summary": "华见早安之声 要闻精选 中欧贸易投资磋商 在京举行并公布成果共识： 就混动汽车贸易达成谅解 ，进一步强化出口管制对话， 愿为稀土永磁体出口审批提供便利 。 中国商务部 评美召集部分经济体发布应对所谓“结构性产能和生产过剩”问题联合声明： 反对个别国家以所谓“产能过剩”为名 ， 行贸易保护主义之实 。 中共中央、国务院 发文提出 发展新质生产力 举措， 支持科技企业上市融资 、 优化并购重组 、 民企可牵头重大技术攻关 。 中国证监会 大修公募基金规定： 权益类基金成立门槛 拟 降 至5000万元，建立 迷你基金强制退出 机制，基金管理人等主体 违法罚款上限抬升 至10万元。 证监会 召开座谈会",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年10月12日"
     },
     {
-     "title": "全球顶级企业家们齐聚上海，为的是什么？",
-     "link": "http://finance.eastmoney.com/news/1350,202610123892150694.html",
-     "pubDate": "Mon, 12 Oct 2026 06:42:03 +0800",
-     "summary": "“上海当年作出一个重要决定，请全球顶级企业家们前来，不为听赞美，只要他们告诉这座城市——成功需要什么。” 10月11日，世界会客厅，第38次上海市市长国际企业家咨询会议大会开场，市咨会主席、美国铁狮门公司首席执行官徐瑞柏从多年前说起。在他看来，市咨会体现了上海一以贯之的理念：保持开放、不断学习、不惧改变。 “这一理念，在今天同样重要。”徐瑞柏说，“ 人工智能 以惊人的速度变革各行各业，国家、企业之间的经济关系变得日益复杂，供应链、投资、消费模式也正在转变……面对挑战，我们更需要在这里相聚，在交流中贡献、收获，共同学习成长。” 今年的会议主题是“促进上海服务业创新发展”。特邀演讲嘉宾、 高盛 集",
+     "title": "上证早知道｜603228，第三季度净利润同比预增205%到265%；000420，获机构席位净买入8453.07万元",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892152617.html",
+     "pubDate": "Mon, 12 Oct 2026 06:57:47 +0800",
+     "summary": "今日提示 ·第二十六届中国国际工业博览会将于10月12日至16日举办。 ·2026巴黎车展将于10月12日开幕，约三分之一参展整车品牌来自中国。 ·上期所10月12日起调整燃料油、石油沥青 期货 相关合约涨跌停板幅度和交易保证金比例。 · 北部湾港 10月12日复牌，拟购买恒港码头100%股权。 上证聚焦 ○《关于发展新质生产力的意见》印发 中共中央、国务院印发《关于发展新质生产力的意见》（以下简称《意见》）。《意见》围绕5方面创新，提出19项重点举措。其中包括：全面实施“ 人工智能 +”行动。推进 人工智能 对传统产业的改造，加快推进智能网联 新能源 汽车 、 人工智能 手机和电脑、人形 机",
      "source": "东方财富股票",
-     "zh": "全球顶级企业家们齐聚上海，为的是什么？"
+     "zh": "上证早知道｜603228，第三季度净利润同比预增205%到265%；000420，获机构席位净买入8453.07万元"
     },
     {
-     "title": "纽约期金失守4210美元/盎司，日内跌0.15%",
-     "link": "http://finance.eastmoney.com/news/1361,202610123892150498.html",
-     "pubDate": "Mon, 12 Oct 2026 06:34:05 +0800",
-     "summary": "10月12日，纽约期金失守4210美元/盎司，日内跌0.15%。 （文章来源：每日经济新闻）",
+     "title": "北交所四家IPO企业集中更新问询回复",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892151911.html",
+     "pubDate": "Mon, 12 Oct 2026 06:56:09 +0800",
+     "summary": "● 本报记者杨梓岩 日前，北交所四家IPO企业集中更新审核状态为“已问询”，科麦特科、利星科技、爱思益普披露第一轮问询回复，吉宝股份披露第二轮问询回复。其中，科麦特科就创新特征及竞争优势、收入增长、募投项目等事项作出回复；利星科技回复涉及竞争优势与创新特征、客户集中及业绩稳定性等事项；爱思益普补充披露业务开展信息、技术壁垒、客户构成等内容；吉宝股份就收购多家子公司商业合理性及作价公允性、收入真实准确性、募投项目等事项作出说明。 科麦特科、利星科技 披露产品及业务模式 在第一轮问询中，北交所要求科麦特科进一步披露创新特征及竞争优势，补充披露主要产品对应的上下游客户供应商情况，说明公司在各类产品研",
      "source": "东方财富股票",
-     "zh": "纽约期金失守4210美元/盎司，日内跌0.15%"
+     "zh": "北交所四家IPO企业集中更新问询回复"
     },
     {
-     "title": "皇岗口岸正式开通运行",
-     "link": "http://finance.eastmoney.com/news/11790,202610123892150246.html",
-     "pubDate": "Mon, 12 Oct 2026 06:33:50 +0800",
-     "summary": "今日（12日）上午6时30分，皇岗口岸正式开通运行，为旅客和客运车辆提供24小时通关服务，同时暂停往来深圳皇岗口岸临时旅检楼和香港落马洲管制站的旅检服务。 （文章来源：财联社）",
+     "title": "企业“气候账本”怎么算 配套指南有望给出“操作说明书”",
+     "link": "http://finance.eastmoney.com/news/1352,202610123892152377.html",
+     "pubDate": "Mon, 12 Oct 2026 06:56:08 +0800",
+     "summary": "近日，财政部发布《企业可持续披露准则第1号——气候（试行）》应用指南（征求意见稿）及 电力 等9项行业应用指南（征求意见稿）。相较于2025年底发布的《企业可持续披露准则第1号——气候（试行）》（简称“气候准则”），此次发布的内容将企业气候信息披露落到实操层面，并适配 电力 、 钢铁 、 煤炭 、石油等9大行业特征。 业内人士表示，应用指南提供了气候信息披露方法，降低了企业操作难度，同时提供了气候相关风险与机遇对财务影响的分析路径。随着气候变化对企业经营的影响日益凸显，算清“气候账本”将助其优化决策、获取绿色信贷。同时，企业需补齐数据、制度、人才方面的短板。 让气候信息披露可操作 “气候信息披",
      "source": "东方财富股票",
-     "zh": "皇岗口岸正式开通运行"
+     "zh": "企业“气候账本”怎么算 配套指南有望给出“操作说明书”"
     },
     {
-     "title": "美联邦航空局提醒美航空公司注意沙特领空安全威胁",
-     "link": "http://finance.eastmoney.com/news/1351,202610123892150356.html",
-     "pubDate": "Mon, 12 Oct 2026 06:32:05 +0800",
-     "summary": "当地时间10月11日，美国联邦航空管理局（FAA）通知美国各航空公司，在飞往或飞越沙特阿拉伯时务必保持谨慎，理由是持续的军事活动及导航系统干扰构成了安全威胁。 FAA发布的这份“飞行员通知”（有效期至12月10日）是在利雅得国际 机场 于10日和11日接连遇袭后发布的。10日的袭击造成13人死亡，300多人受伤。 FAA指出，这些威胁可能对处于各种高度的航空器构成潜在风险，涵盖飞越、进场及离场等飞行阶段，并就这一“潜在危险状况”发出了警告。 （文章来源：央视新闻客户端）",
+     "title": "雷神科技董事长路凯林：云边端闭环落地 从电竞硬件厂迈向全栈算力服务商",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892151862.html",
+     "pubDate": "Mon, 12 Oct 2026 06:56:03 +0800",
+     "summary": "北交所“电竞装备第一股” 雷神科技 正迎来重大战略升级，从传统电竞硬件厂商加速向全栈算力服务商转型。 雷神科技 董事长路凯林近日接受中国证券报记者独家专访并披露，公司今年 信创 业务营收有望同比翻倍；为夯实高增长动能，公司已完成组织架构的深度重塑，通过ToC、ToB业务团队完全拆分实现双线独立运营。依托十二年高性能硬件技术积淀， 雷神科技 成功搭建“云—边—端”一体化算力闭环，培育AI算力全新增长引擎，跳出行业单品内卷格局，开启在国产算力赛道的全新成长周期。 算力闭环落地完成关键跨越 “公司战略已从单一的‘电竞+ 信创 ’，升级为‘云—边—端’一体化的算力体系。”路凯林开门见山地向记者勾勒新蓝",
      "source": "东方财富股票",
-     "zh": "美联邦航空局提醒美航空公司注意沙特领空安全威胁"
+     "zh": "雷神科技董事长路凯林：云边端闭环落地 从电竞硬件厂迈向全栈算力服务商"
+    },
+    {
+     "title": "中信信托连续五年发布ESG报告 回答ESG如何真正融入发展逻辑",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892151714.html",
+     "pubDate": "Mon, 12 Oct 2026 06:56:02 +0800",
+     "summary": "中信 信托 近日发布《2025年环境、社会及治理（ESG）报告》，这是该公司连续第五年发布ESG报告。报告显示，截至2025年末，中信 信托 绿色 信托 管理规模392.94亿元， 养老金 融业务资产规模1093.58亿元，公益慈善信托累计备案规模17.6亿元，均位居行业前列。在信托行业步入“三分类”改革深水区的当下，这份报告试图回答一个实质性问题：ESG如何摆脱仅作为披露事项的定位，真正融入信托公司的发展逻辑。 赋能实体经济重点领域 “三分类”新规落地以来，行业的核心思考是：告别融资类业务的旧模式后，信托的立身之本是什么？中信信托的答案是回到受托人本源，立足金融“五篇大文章”，用信托财产独立",
+     "source": "东方财富股票",
+     "zh": "中信信托连续五年发布ESG报告 回答ESG如何真正融入发展逻辑"
+    },
+    {
+     "title": "打造机电液一体化 高端装备系统集成商",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892151669.html",
+     "pubDate": "Mon, 12 Oct 2026 06:55:58 +0800",
+     "summary": "走进位于山东五莲县的 万通液压 生产厂区，试验室里一批油气弹簧样品正在试验台上接受高频冲击耐久测试，每一件产品出厂前都要历经多轮严苛验证。车间、办公楼内，“做就要做好，做就要做强”的标语随处可见。 北交所首批上市企业之一 万通液压 总经理王刚近日接受中国证券报记者专访，详解了企业借助资本市场赋能主业创新、对冲行业周期、布局新兴赛道的成长路径。 资本赋能实现全方位提升 2020年11月， 万通液压 登陆新三板精选层；2021年11月15日北交所开市，公司平移成为首批上市企业。谈及北交所平台带来的变化，王刚感触颇深，上市彻底打破企业过去“挣一分钱才能投一分钱”的发展桎梏。 “北交所给我们带来的不只",
+     "source": "东方财富股票",
+     "zh": "打造机电液一体化 高端装备系统集成商"
+    },
+    {
+     "title": "英国：不支持美俄就俄提供柴油达成一致",
+     "link": "http://www.eeo.com.cn/2026/1012/1061207.shtml",
+     "pubDate": "Mon, 12 Oct 2026 06:52:11 +0800",
+     "summary": "新华财经伦敦10月11日电（记者张枫）英国国防大臣韦斯·斯特里廷11日说，英国不支持美俄两国领导人就俄罗斯向美国及全球市场提供柴油达成一致。 斯特里廷在英国广播公司当天播出的节目中说，美国总统特朗普此举很大程度上是因为其面临中期选举，迫于缓解民众生活成本压力而同俄方就柴油供应达成一致。英国广播公司的报道称，自美国和以色列对伊朗发动军事打击以来，美国的燃油价格高涨，俄向美提供柴油旨在降低美...",
+     "source": "经济观察网",
+     "zh": "英国：不支持美俄就俄提供柴油达成一致"
+    },
+    {
+     "title": "【环球财经】特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻”",
+     "link": "http://www.eeo.com.cn/2026/1012/1061206.shtml",
+     "pubDate": "Mon, 12 Oct 2026 06:52:11 +0800",
+     "summary": "新华财经华盛顿10月11日电（记者黄强 徐剑梅）美国总统特朗普11日称，即刻起，俄乌冲突进入“能源停火”状态。乌克兰总统泽连斯基当天回应说，“能源停火”对他来说也是个新闻。 特朗普当天在社交媒体发文称...",
+     "source": "经济观察网",
+     "zh": "【环球财经】特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻”"
     },
     {
      "title": "AI boom echoes 1997 Asian financial crisis: SocGen's Albert Edwards",
@@ -2376,38 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "■刘钊 10月10日，工业和信息化部等四部门联合发布通知，提出对未按要求进行测试验证、测试验证不充分或提供虚假验证材料的产品不予公告。中国汽车工业协会也发出倡议，要求补齐研发验证短板。这意味着，针对近年来备受争议的“速成车”现象，车企必须把车辆上市前的安全功课做足。 从应急机械拉手相关召回，到零重力座椅、全隐藏式门把手的安全讨论，消费者对于汽车安全的关注度与日俱增。行业需要正视一个问题：...",
      "source": "经济观察网",
      "zh": "岂能让消费者替“速成车”补上测试课"
-    },
-    {
-     "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-     "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 16:35:00 GMT",
-     "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
-     "source": "MarketWatch",
-     "zh": "今年医疗保险公开投保期间，数百万美国人的选择将减少"
-    },
-    {
-     "title": "十大券商策略：市场积极信号逐渐累积 把握好四季度做多窗口期",
-     "link": "http://finance.eastmoney.com/news/1378,202610113892124764.html",
-     "pubDate": "Mon, 12 Oct 2026 00:34:37 +0800",
-     "summary": "中信证券 ：应对全球高利率常态，密切跟踪AI投资周期拐点 油价回稳、非农数据低于预期、美联储加息预期下修，均未改变全球长债利率走高。背后的原因是持续强劲的私人部门投融资需求，在万亿美元投资带动下，北美率先走出了金融危机后低增 长和 低利率的“非常态”，全球高利率环境，在AI投资周期拐点前，是我们必须应对的常态。对海外高利率不敏感的需求只有北美AI以及与中国中央财政扩张相关的领域，而过去几年持股体验极佳的出海、资源板块都存在压力。在弱需求环境下，凸显出供给出清品种的稀缺性，反内卷进程明年依然值得重视。 配置策略上，围绕北美AI、中国“六张网”建设以及反内卷驱动的供给出清品种展开，AI+能化结构在",
-     "source": "东方财富资讯",
-     "zh": "十大券商策略：市场积极信号逐渐累积 把握好四季度做多窗口期"
-    },
-    {
-     "title": "华为被曝将推子品牌“星芒”？回应：以官方信息为准",
-     "link": "http://finance.eastmoney.com/news/1360,202610113892111958.html",
-     "pubDate": "Mon, 12 Oct 2026 00:33:42 +0800",
-     "summary": "10月11日，“华为被曝将推子品牌星芒”话题登上 微博 热搜。消息称，“星芒”定位或对标早年荣耀，主打中端性价比市场，将搭载麒麟8系自研芯片与原生鸿蒙系统，但不配备卫星 通信 等高端旗舰功能。 针对上述传闻，华为相关人士向北京商报记者回应称，请以官方信息为准。 据天眼查显示，华为技术有限公司已于2023年2月1日申请注册“华为星芒”商标，国际分类涵盖09类-科学仪器、14类-珠宝钟表、35类-广告销售、42类-网站服务，注册公告日期为2023年9月14日，目前商标状态均为已注册。 （文章来源：北京商报）",
-     "source": "东方财富资讯",
-     "zh": "华为被曝将推子品牌“星芒”？回应：以官方信息为准"
-    },
-    {
-     "title": "海外浆厂停产潮起 造纸业能否借势走出低谷？",
-     "link": "http://finance.eastmoney.com/news/1355,202610113892111831.html",
-     "pubDate": "Mon, 12 Oct 2026 00:32:58 +0800",
-     "summary": "进入今年第四季度， 造纸 行业各项数据仍持续低迷，但供应端正在酝酿新的变化。今年三季度以来，海外多家纸浆工厂相继宣布临时或永久停产，原料供应端出现收紧迹象。在行业低谷期徘徊多年后，市场开始关注这一变量能否成为本轮周期的转折点。 值得注意的是，本轮停产将集中在今年四季度启动，目前纸浆和下游成品纸价格仍在低位徘徊，多位行业人士受访表示，需求疲软仍是 造纸 业面临的首要难题，预计四季度传统旺季也难有明显改善，至于海外纸浆供应收紧能否成为周期拐点仍有待观察，目前市场对这类消息反应较为平淡，虽然纸浆价格略有回升，但市场基本面并未改变。 2013年至今，中国进口针叶浆、阔叶浆现货市场价格走势图，来源： 卓",
-     "source": "东方财富资讯",
-     "zh": "海外浆厂停产潮起 造纸业能否借势走出低谷？"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/11 23:09:50",
+ "generated_at": "2026/10/11 23:30:04",
  "recent_days": 7,
  "industries": [
   {
@@ -1730,6 +1730,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到",
+     "link": "https://www.ithome.com/1/011/715.htm",
+     "pubDate": "Sun, 11 Oct 2026 15:28:59 GMT",
+     "summary": "IT之家 10 月 11 日消息，一加中国区总裁李杰今日在微博评论区回应关于一加 16 屏幕刷新率相关问题， 据其介绍，一加 16 追求体验优先，不是参数优先。要同时兼顾流畅，功耗，发热，屏幕显示效果，现在的屏幕技术 暂时做不到全局 185Hz 。全局高刷要做到常用常开，目前最佳体验就是全局 165Hz，欢迎大家上手一加 16 去对比其他手机。 IT之家注意到，在 10 月 9 日的第四代东方屏技术沟通会上，一加与京东方联合研发的第四代东方屏正式发布。第四代东方屏采用全新 X4 发光材料，宣称“色彩准、高刷稳、画面亮、功耗低、寿命长”；支持真硬件 1nit，夜间看屏幕，柔和不刺眼。 第四代东方",
+     "source": "IT之家",
+     "zh": "李杰回应一加 16 不支持全局 185Hz：产品追求体验优先，屏幕暂时做不到"
+    },
+    {
+     "title": "曝苹果新一代 Apple TV 4K 内置麦克风、Siri Remote 遥控器将配扬声器便于查找",
+     "link": "https://www.ithome.com/1/011/714.htm",
+     "pubDate": "Sun, 11 Oct 2026 15:20:30 GMT",
+     "summary": "IT之家 10 月 11 日消息，苹果将在本周二举行“欢迎回家”活动，主角预计是 HomeView 智能家庭中枢，除此之外还有新款 HomePod mini 和 Apple TV 4K。 据彭博社记者马克 · 古尔曼今日透露， 新款 Apple TV 4K 将在 10 月 30 日发售 ，苹果已在这款新品中测试内置麦克风，用户直接说出 Siri 就能进行语音交互。 IT之家了解到，现款 Apple TV 4K 仅在 Siri Remote 中带有麦克风，用户必须对着遥控器或 HomePod 说话，才能使用 Siri。 同时，苹果还将重新设计 Siri Remote 遥控器， 这款配件将内置扬声",
+     "source": "IT之家",
+     "zh": "曝苹果新一代 Apple TV 4K 内置麦克风、Siri Remote 遥控器将配扬声器便于查找"
+    },
+    {
+     "title": "消息称 OLED 屏新款 iPad mini 售价将大幅上涨，或接近 799 美元",
+     "link": "https://www.ithome.com/1/011/713.htm",
+     "pubDate": "Sun, 11 Oct 2026 15:12:21 GMT",
+     "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天表示，苹果计划本月晚些时候推出新款 iPad mini。新机的起步存储空间可能会有所提升， 但有意换机的用户得提前做好涨价的准备 。 古尔曼透露，新款 iPad mini 售价相比现款机型将大幅上涨，预计将接近 799 美元 （IT之家注：现汇率约合 5,359 元人民币） 。作为对比，现款 iPad mini 7 价格为 599 美元 （现汇率约合 4,017 元人民币） /4,799 元人民币。 据悉，新款 iPad mini 将首次采用 OLED 屏幕，配备重新设计的机身。预计将拥有全新扬声器系统，搭载性能更强的芯片。目前我",
+     "source": "IT之家",
+     "zh": "消息称 OLED 屏新款 iPad mini 售价将大幅上涨，或接近 799 美元"
+    },
+    {
+     "title": "A look at Apple&apos;s smart home strategy, centered on a HomeView display hub, with a new HomePod mini, Apple TV, and second-party accessories from LG and Schneider (Mark Gurman/Bloomberg)",
+     "link": "https://www.techmeme.com/261011/p7#a261011p7",
+     "pubDate": "Sun, 11 Oct 2026 11:10:01 -0400",
+     "summary": "Mark Gurman / Bloomberg : A look at Apple's smart home strategy, centered on a HomeView display hub, with a new HomePod mini, Apple TV, and second-party accessories from LG and Schneider &nbsp; &mdash;&nbsp; Fresh details on Apple's HomeView, HomePod mini and new Apple TV, including release dates, c",
+     "source": "Techmeme",
+     "zh": "Apple 的智能家居战略以 HomeView 显示中心为中心，包括新款 HomePod mini、Apple TV 以及 LG 和 Schneider 的第二方配件（Mark Gurman/彭博社）"
+    },
+    {
      "title": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机",
      "link": "https://www.ithome.com/1/011/712.htm",
      "pubDate": "Sun, 11 Oct 2026 15:01:19 GMT",
@@ -1778,36 +1810,28 @@ window.INDUSTRY_DATA = {
      "zh": "小岛秀夫确认客串某大型真人电影、某知名动画，坦言不喜欢扮演自己"
     },
     {
-     "title": "古尔曼：苹果首款智能家庭中枢定名 HomeView，搭载 A18 芯片、四种配色可选",
-     "link": "https://www.ithome.com/1/011/709.htm",
-     "pubDate": "Sun, 11 Oct 2026 14:36:10 GMT",
-     "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今日在新一期《Power On》通讯中透露，苹果首款智能家庭中枢名为“HomeView”，预计将在 10 月 13 日的“欢迎回家”活动正式发布，11 月出货。 据介绍，这款产品的外观设计类似 iMac G4“台灯电脑”，采用悬浮式屏幕，下方配有扬声器底座。 该设备将搭载 A18 芯片 ，官方还将推出壁挂安装版本。 IT之家从原报道获悉， 这款新产品将提供深空灰、银色、星光色和粉色四种配色 ，壁挂版仅有深空灰、银色两种配色。 古尔曼表示，这款产品主要使用语音交互， 以 AI Siri 为核心 。用户可以在房间另一端查看设备显示内容，并",
-     "source": "IT之家",
-     "zh": "古尔曼：苹果首款智能家庭中枢定名 HomeView，搭载 A18 芯片、四种配色可选"
-    },
-    {
      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
      "link": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
      "pubDate": "Sun, 11 Oct 2026 14:28:39 +0000",
-     "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 50 # Comments: 11",
+     "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 131 # Comments: 62",
      "source": "Hacker News",
      "zh": "内部文件增加了埃克森美孚气候欺骗活动的证据"
     },
     {
-     "title": "粤芯半导体 10 月 13 日在创业板上市，发行价为 12.01 元 / 股",
-     "link": "https://www.ithome.com/1/011/708.htm",
-     "pubDate": "Sun, 11 Oct 2026 14:27:14 GMT",
-     "summary": "IT之家 10 月 11 日消息，粤芯半导体技术股份有限公司今日宣布，公司将于 2026 年 10 月 13 日（下周二）在深圳证券交易所创业板上市。 本次发行价格为 12.01 元 / 股 ，发行后总股本为 28.78 亿股（超额配售选择权行使前）。 IT之家了解到，粤芯半导体已在 9 月 28 日公开网上摇号中签结果，中签号码共有 358848 个，每个中签号码可认购 500 股粤芯半导体 A 股股票。 本次发行最终战略配售数量为 25632.30 万股，网上最终发行数量为 17942.40 万股，网下最终发行数量为 15379.50 万股。网上投资者放弃认购 468976 股，由广发证券",
-     "source": "IT之家",
-     "zh": "粤芯半导体 10 月 13 日在创业板上市，发行价为 12.01 元 / 股"
+     "title": "英国水果蔬菜营养价值下降最高五成",
+     "link": "https://www.solidot.org/story?sid=85580",
+     "pubDate": "Sun, 11 Oct 2026 22:27:04 +0800",
+     "summary": "Deep Science Ventures 的研究人员的一项研究发现，英国水果和蔬菜的营养价值自 1960 年代以来减少最高五成。英国民众现在需要食用两倍数量的蔬菜，才能摄入与 60 年前同等水平的矿物质如钾、镁或铜。许多农作物中几种关键营养素的含量减少了 20%-50%。营养和维生素含量的下降主要归因于土壤质量的退化，以及作物在育种时过度追求快速生长，而忽视了其营养价值。正使用减肥药物的人群面临的营养匮乏风险可能最大，因为减肥药会导致他们的食物摄入量显著减少。",
+     "source": "Solidot",
+     "zh": "英国水果蔬菜营养价值下降最高五成"
     },
     {
-     "title": "西渝高铁全线建设进入关键攻坚阶段，建成后西安至重庆从 6 小时缩短至 2.5 小时",
-     "link": "https://www.ithome.com/1/011/707.htm",
-     "pubDate": "Sun, 11 Oct 2026 14:20:09 GMT",
-     "summary": "IT之家 10 月 11 日消息，据央视新闻今日报道，记者从京昆高速铁路西昆公司获悉，10 月 11 日，随着最后一次爆破作业顺利完成，西安至重庆高速铁路（以下简称“西渝高铁”）高升二号隧道贯通，为全线按期建成通车奠定坚实基础。 高升二号隧道位于重庆市开州区，由中铁二院设计、中铁七局承建， 全长 7234 米 ，地质条件极为复杂，滑坡、岩堆、采空区、老窖积水、岩溶等不良地质交错分布，为 Ⅰ 级高风险隧道。隧道施工叠加高瓦斯防控、反坡排水、岩溶突水涌泥三大突出难题：瓦斯易积聚爆炸，反坡作业积水难外排，岩溶地段围岩破碎极易失稳。多重风险交织，对施工技术、现场管控提出极高要求。 据了解， 西渝高铁康",
-     "source": "IT之家",
-     "zh": "西渝高铁全线建设进入关键攻坚阶段，建成后西安至重庆从 6 小时缩短至 2.5 小时"
+     "title": "LineageOS 24 释出",
+     "link": "https://www.solidot.org/story?sid=85579",
+     "pubDate": "Sun, 11 Oct 2026 22:16:29 +0800",
+     "summary": "Android 社区发行版项目 LineageOS 释出了基于 Android 17 的 LineageOS 24。2026 年 12 月 24 日，LineageOS 将迎来十周年纪念。开发者表示这是一个重要的里程碑，期望继续走向下一个十年。LineageOS 24 主要变化包括：合并了截至 2026 年 10 月的安全补丁，新的图像编辑器 Canvas 可满足基本的照片编辑需求，Android TV 启动器 Catapult；为移动设备和掌机添加电量指示器；一系列应用更新，等等。",
+     "source": "Solidot",
+     "zh": "LineageOS 24 释出"
     },
     {
      "title": "What to know about the landmark Warner Bros. Discovery sale",
@@ -1837,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Terence Tao: Math 2.0 [pdf]",
      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
      "pubDate": "Sun, 11 Oct 2026 13:16:45 +0000",
-     "summary": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50043026 Points: 62 # Comments: 50",
+     "summary": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf Comments URL: https://news.ycombinator.com/item?id=50043026 Points: 87 # Comments: 104",
      "source": "Hacker News",
      "zh": "陶哲轩：数学 2.0 [pdf]"
     },
@@ -1917,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "The tilde in your PATH may not be your HOME",
      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
      "pubDate": "Sun, 11 Oct 2026 12:13:13 +0000",
-     "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 63 # Comments: 38",
+     "summary": "Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/ Comments URL: https://news.ycombinator.com/item?id=50042425 Points: 74 # Comments: 45",
      "source": "Hacker News",
      "zh": "您的 PATH 中的波形符可能不是您的 HOME"
     },
@@ -1933,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
      "link": "https://verdagon.dev/blog/valen-group-borrowing",
      "pubDate": "Sun, 11 Oct 2026 12:06:22 +0000",
-     "summary": "Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 36 # Comments: 19",
+     "summary": "Article URL: https://verdagon.dev/blog/valen-group-borrowing Comments URL: https://news.ycombinator.com/item?id=50042362 Points: 47 # Comments: 20",
      "source": "Hacker News",
      "zh": "Valen 的内存安全：一种新型的借用检查"
     },
@@ -1941,33 +1965,9 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
      "link": "https://betterwispr.com/",
      "pubDate": "Sun, 11 Oct 2026 12:01:28 +0000",
-     "summary": "Article URL: https://betterwispr.com/ Comments URL: https://news.ycombinator.com/item?id=50042333 Points: 11 # Comments: 2",
+     "summary": "Article URL: https://betterwispr.com/ Comments URL: https://news.ycombinator.com/item?id=50042333 Points: 19 # Comments: 6",
      "source": "Hacker News",
      "zh": "Show HN：BetterWispr – 适用于 Mac 的免费开源听写软件"
-    },
-    {
-     "title": "“不敢”再上49.9元大学生自助了，比格比萨创始人：9月亏了近千万",
-     "link": "https://www.huxiu.com/article/4896631.html?f=rss",
-     "pubDate": "Sun, 11 Oct 2026 19:36:44 +0800",
-     "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：倩君，原文标题：《“不敢”再上49.9元大学生自助了！比格比萨创始人：9月亏了近千万》 比格比萨在低价引流与高成本、扩张盈利压力之间的两难。 大学生还想要49.99元/位的自助优惠，比格比萨创始人却说“不敢了”。 10月7日，比格比萨创始人赵志强在巡店视频评论区回应网友喊话：“敢不敢把49.9的大学生优惠重新上？”他的回答是：“不敢了，九月份大学生活动亏了近千万。” 9月底，比格比萨刚结束一轮大学生开学季优惠活动，49.99元/位的限时自助价格，吸引不少学生关注。如今，面对消费者希望优惠继续的呼声，赵志强却给出了上面的回应。为什么？ △图",
-     "source": "虎嗅",
-     "zh": "“不敢”再上49.9元大学生自助了，比格比萨创始人：9月亏了近千万"
-    },
-    {
-     "title": "I Made Terrible Games With Google’s AI Playground",
-     "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-     "pubDate": "Sun, 11 Oct 2026 11:30:00 +0000",
-     "summary": "A long day’s haul in the video game slop mines.",
-     "source": "WIRED",
-     "zh": "我用 Google 的 AI Playground 制作了糟糕的游戏"
-    },
-    {
-     "title": "13 Best Gifts for Every Traveler Should Have (2026)",
-     "link": "https://www.wired.com/story/best-gifts-for-travelers/",
-     "pubDate": "Sun, 11 Oct 2026 10:33:00 +0000",
-     "summary": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers.",
-     "source": "WIRED",
-     "zh": "每位旅行者都应该拥有的 13 件最佳礼物 (2026)"
     }
    ]
   },
@@ -1978,12 +1978,28 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "The hidden features every Waze user should know about",
+     "link": "https://www.engadget.com/2280999/waze-hidden-features-users-should-know/",
+     "pubDate": "Sun, 11 Oct 2026 15:15:00 +0000",
+     "summary": "There are a load of features tucked away in Google's 'other' mapping app.",
+     "source": "Engadget",
+     "zh": "每个位智用户都应该了解的隐藏功能"
+    },
+    {
      "title": "Report: HomePod mini 2 to release on October 30 with these upgrades",
      "link": "https://9to5mac.com/2026/10/11/apple-homepod-mini-2-release-date/",
      "pubDate": "Sun, 11 Oct 2026 14:56:13 +0000",
      "summary": "In just a couple days, Apple should be unveiling its long-awaited new lineup of new Home products. That includes an updated HomePod mini, Apple TV 4K , the brand-new smart home hub called ‘HomeView’ , as well as a new lineup of smart home accessories, in collaboration with LG. Here’s what to expect ",
      "source": "9to5Mac",
      "zh": "报告：HomePod mini 2 将于 10 月 30 日发布并进行这些升级"
+    },
+    {
+     "title": "We're in the middle of a PS5 Pro shortage and GTA 6 will only make it worse",
+     "link": "https://www.engadget.com/2280934/playstation-5-pro-shortage-gta-6-only-make-worse/",
+     "pubDate": "Sun, 11 Oct 2026 14:45:00 +0000",
+     "summary": "Rockstar's Grand Theft Auto 6 is set to become the most popular game ever and Sony is finding it very difficult to satisfy demand for the PlayStation 5 Pro.",
+     "source": "Engadget",
+     "zh": "PS5 Pro 短缺，GTA 6 只会让情况变得更糟"
     },
     {
      "title": "Apple planning huge iPhone Duo demo experiences at select retail stores: report",
@@ -2072,22 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "The cameras and, more importantly, accessories, that help me do my job.",
      "source": "DPReview",
      "zh": "作为专业相机评论家我旅行时携带的装备"
-    },
-    {
-     "title": "Why CPU overclocking is mostly now a thing of the past",
-     "link": "https://www.engadget.com/2280537/why-overclocking-cpu-mostly-outdated/",
-     "pubDate": "Sun, 11 Oct 2026 12:45:00 +0000",
-     "summary": "The performance gains you get with modern chips aren't as noteworthy as they used to be.",
-     "source": "Engadget",
-     "zh": "为什么CPU超频现在已经成为过去"
-    },
-    {
-     "title": "How to properly clean your solar panels (and why it's important)",
-     "link": "https://www.engadget.com/2280495/how-to-properly-clean-solar-panels-why-its-important-to/",
-     "pubDate": "Sun, 11 Oct 2026 12:30:00 +0000",
-     "summary": "Dirt can cut solar output, but cleaning only pays off when the numbers make sense.",
-     "source": "Engadget",
-     "zh": "如何正确清洁太阳能电池板（以及为什么它很重要）"
     },
     {
      "title": "Deals: Big discounts hit flagship phones from Samsung, Apple and Google",
@@ -2226,6 +2226,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "泽连斯基称对特朗普宣布的俄乌“能源停火”安排不知情",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892128481.html",
+     "pubDate": "Sun, 11 Oct 2026 23:24:26 +0800",
+     "summary": "总台记者当地时间11日获悉，乌克兰总统泽连斯基表示，他此前并不知道美国总统特朗普宣布的乌克兰与俄罗斯之间的“能源停火”安排。泽连斯基说，宣布“能源停火”的消息对他而言是个意外。如果俄罗斯同意“能源停火”，乌克兰也愿意接受。 泽连斯基表示，如果特朗普已与俄罗斯总统普京就此达成协议，应告知乌方停火何时开始。泽连斯基强调，乌克兰已做好准备并愿意接受这一安排。 当天稍早，美国总统特朗普在社交媒体发文称，即刻起，俄乌冲突进入“能源停火”状态，双方均已同意。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "泽连斯基称对特朗普宣布的俄乌“能源停火”安排不知情"
+    },
+    {
+     "title": "重眸科技获近亿元股权融资 北京亦庄种子基金出手",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892127273.html",
+     "pubDate": "Sun, 11 Oct 2026 23:23:41 +0800",
+     "summary": "近日，北京重眸科技有限公司（下称“重眸科技”）完成股权融资，融资金额近亿元，投资方为民银国际、亦庄 种子 基金、远翼投资。 本轮资金将用于0.5米分辨率遥感相机批量投产、标准化产能建设以及更高分辨率遥感相机产品研发。 重眸科技已完成多轮次近亿元融资。 根据财联社 创投 通—执中数据，以2026年10月为预测基准时间，重眸科技后续2年的融资预测概率为50.09%。 重眸科技成立于2024年，总部位于北京市大兴区，是一家智能遥感相机研发商，专注0.5米及优于0.5米分辨率光学遥感相机。 创始人马波曾任职于航天东方红、 中国卫星 ，参与主持多个国家级重点航天项目。核心团队来自航天“国家队”及头部 商",
+     "source": "东方财富股票",
+     "zh": "重眸科技获近亿元股权融资 北京亦庄种子基金出手"
+    },
+    {
+     "title": "吉布提沿海移民船倾覆 已致139人死亡",
+     "link": "http://finance.eastmoney.com/news/11790,202610113892128283.html",
+     "pubDate": "Sun, 11 Oct 2026 23:20:10 +0800",
+     "summary": "国际移民组织11日发布消息，一艘载有305人的移民船在吉布提沿海倾覆，目前死亡人数已上升至139人，仍有84人失踪。消息说，事故发生在当地时间10月8日晚至9日凌晨时段。该船在从吉布提驶往也门的途中发生倾覆。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "吉布提沿海移民船倾覆 已致139人死亡"
+    },
+    {
+     "title": "Volkswagen CEO urges EU support for turnaround as Chinese rivals gain ground",
+     "link": "https://seekingalpha.com/news/4651928-volkswagen-ceo-urges-eu-support-for-turnaround-as-chinese-rivals-gain-ground?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 11 Oct 2026 11:19:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "大众汽车首席执行官敦促欧盟支持中国竞争对手扭转局面"
+    },
+    {
+     "title": "“三条纹”携手“复旦蓝”！阿迪达斯向复旦大学捐赠“未来体育发展基金”",
+     "link": "http://finance.eastmoney.com/news/1354,202610113892128388.html",
+     "pubDate": "Sun, 11 Oct 2026 23:16:28 +0800",
+     "summary": "今年是德国阿迪达斯集团第三次参加上海市市长国际企业家咨询会议。10月10日，阿迪达斯全球首席执行官比约恩·古尔登来到复旦大学参加复旦大学·阿迪达斯“未来体育发展基金”捐赠仪式。复旦大学党委书记裘新、常务副校长许征，阿迪达斯大中华区董事总经理萧家乐等一同出席，共同见证双方合作迈入全新阶段。未来五年，双方将在未来运动科技创新、大学体育文化培育、复合型体育人才培养和高水平健康校园建设等维度开展深度合作，积极响应“健康中国2030”战略，助力 教育 强国、体育强国、科技强国建设，为上海深化全球著名体育城市建设注入澎湃动能。 捐赠仪式开始前，双方在复旦江湾校区月湖畔共同为捐赠鸣谢纪念装置揭幕。据悉，复旦",
+     "source": "东方财富股票",
+     "zh": "“三条纹”携手“复旦蓝”！阿迪达斯向复旦大学捐赠“未来体育发展基金”"
+    },
+    {
      "title": "Goldman Sachs sees $600B U.S. equity issuance in 2027",
      "link": "https://seekingalpha.com/news/4651925-goldman-sachs-sees-record-600b-in-u-s-equity-issuance-in-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 11 Oct 2026 11:09:19 -0400",
@@ -2234,12 +2274,20 @@ window.INDUSTRY_DATA = {
      "zh": "高盛预计 2027 年将发行 600B 美元的美国股票"
     },
     {
-     "title": "俄罗斯国家原子能公司：预计很快将达成能源停火协议",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892126836.html",
-     "pubDate": "Sun, 11 Oct 2026 22:57:40 +0800",
-     "summary": "俄罗斯国家原子能公司表示，预计很快将达成能源停火协议，以便对扎波罗热热电站的设备进行维修。 （文章来源：财联社）",
+     "title": "泽连斯基称对俄乌能源停火不知情",
+     "link": "http://finance.eastmoney.com/news/11790,202610113892127857.html",
+     "pubDate": "Sun, 11 Oct 2026 23:08:55 +0800",
+     "summary": "据美国“阿克西奥斯新闻网（Axios）”报道，乌克兰总统泽连斯基称，他对特朗普稍早前宣布的“俄乌已同意能源停火”一事并不知情。他同时表示，如果俄方同意这一停火，乌方也将接受。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "俄罗斯国家原子能公司：预计很快将达成能源停火协议"
+     "zh": "泽连斯基称对俄乌能源停火不知情"
+    },
+    {
+     "title": "泽连斯基：乌克兰愿意缓和局势 可从“能源停火”开始",
+     "link": "http://finance.eastmoney.com/news/1351,202610113892127093.html",
+     "pubDate": "Sun, 11 Oct 2026 23:06:12 +0800",
+     "summary": "总台记者当地时间11日获悉，乌克兰总统泽连斯基表示，乌克兰愿意缓和局势，并提议从“能源停火”开始。 当天稍早，美国总统特朗普在社交媒体发文称，即刻起，俄乌冲突进入“能源停火”状态，双方均已同意。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "泽连斯基：乌克兰愿意缓和局势 可从“能源停火”开始"
     },
     {
      "title": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山",
@@ -2248,46 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "第1眼TV-华龙网讯（首席记者 陈美西）10月11日晚，中超联赛休赛一个月后战火重燃，重庆铜梁龙坐镇龙兴足球场迎战传统劲旅山东泰山。经过90分钟激战，双方1:1握手言和。这也是重庆铜梁龙本赛季在龙兴主场的收官之战。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/012F11DED5D02A6A5E973877FD2938C0.jpg\" alt=\"重庆铜梁龙首发阵容。\" width=\"1024\" height=\"683\" data-title=\"重庆铜梁龙首发...",
      "source": "经济观察网",
      "zh": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山"
-    },
-    {
-     "title": "10月以来沪市主板120余份回购公告集中披露：已累计实施回购超170亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892126470.html",
-     "pubDate": "Sun, 11 Oct 2026 22:51:27 +0800",
-     "summary": "10月10日Wind统计显示，10月以来（披露日为10月1日及之后），沪市主板公司已发布超120份回购类公告（包括回购计划、回购进展和完成类），上述公告对应回购金额合计约247亿元至464亿元，累计已实施金额超176亿元，其中，进展类公告对应的最新回购金额为166亿元，已锁定整体回购金额（下限）的七成。 上述120余份公告中，包括3份新增计划，对应公司分别为 威尔药业 、 安德利 、 东阳光 。其中， 安德利 拟未来12个月内回购1.2亿元至1.8亿元公司股份，价格不超过100元/股，回购股份用于员工持股计划或 股权激励 。 东阳光 拟通过集中竞价交易方式回购6亿元至12亿元，回购价格不高于4",
-     "source": "东方财富股票",
-     "zh": "10月以来沪市主板120余份回购公告集中披露：已累计实施回购超170亿元"
-    },
-    {
-     "title": "深圳、香港大利好！明日上午，正式开通运行",
-     "link": "http://finance.eastmoney.com/news/1350,202610113892126786.html",
-     "pubDate": "Sun, 11 Oct 2026 22:51:23 +0800",
-     "summary": "历时7年升级建设，皇岗口岸将以崭新面貌迎接旅客。 10月11日，皇岗口岸开通仪式在深圳举行。作为全球最大的陆路口岸单体建筑，其布局为地上5层、地下4层，也是深港之间唯一24小时通关的旅检公路口岸，皇岗口岸将于12日上午6时30分正式开通运行。正式运行后，旅客可以使用皇岗口岸往返港深两地。 在开通仪式上，香港特别行政区行政长官李家超表示，原有皇岗口岸与香港落马洲管制站以跨境桥连接，1989年启用。落马洲管制站旅客流量由开通初期每日数千人次，攀升至近年高峰期的六万多人次；跨境私家车流量由初期每日百余辆次，增加至现时约一万辆次。他指出，口岸开通有三个重要意义。 第一，体现落实国家规划。国家“十五五”",
-     "source": "东方财富股票",
-     "zh": "深圳、香港大利好！明日上午，正式开通运行"
-    },
-    {
-     "title": "3家企业现新进展：映恩生物、羲禾科技已问询 赛克赛斯IPO终止",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892126353.html",
-     "pubDate": "Sun, 11 Oct 2026 22:51:13 +0800",
-     "summary": "本周（10月5日至10月11日），共有3家企业更新科创板IPO审核进展。 其中，映恩生物、羲禾科技已问询，赛克赛斯审核状态更新为终止。 羲禾科技已问询 羲禾科技科创板IPO于今年6月30日获上交所受理，7月7日进入首轮问询；9月28日披露第二轮问询回复并更新招股书，10月8日上交所公告安排其10月14日科创板上市委上会。 该公司是全球最主要的独立第三方硅光集成芯片设计公司之一。据弗若斯特沙利文数据，2025年羲禾科技硅光集成芯片全球市场占有率约为13%，出货量口径约为15%，位列全球第二，在独立第三方厂商中位居首位。截至2026年8月，其硅光集成芯片累计出货量已突破1200万颗，跻身全球极少数",
-     "source": "东方财富股票",
-     "zh": "3家企业现新进展：映恩生物、羲禾科技已问询 赛克赛斯IPO终止"
-    },
-    {
-     "title": "固态电池核心隔膜材料企业源启膜创获天使轮融资 武创投旗下星火种苗基金独家投资",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892126688.html",
-     "pubDate": "Sun, 11 Oct 2026 22:51:00 +0800",
-     "summary": "《科创板日报》11日讯，近日，武汉市源启膜创 新材料 有限公司（下称“源启膜创”）完成天使轮融资，由武 创投 旗下星火种苗基金独家投资。 源启膜创成立于2026年2月，总部位于湖北省武汉市江夏区，是一家聚焦于 新能源 固态电池 核心隔 膜材料 研发生产的公司。 公司自主研发纳米纤维基固态电解质膜，在室温下实现高离子电导率与高 锂 离子迁移数协同突破，攻克 固态电池 产业化痛点。研发的纳米纤维复合隔膜性能对标并有望替代日美垄断特种产品。核心技术已申请及授权专利10余项，承担多项国家级科研课题。 公司2025年11月斩获“创青春”全国大赛 铜 奖，2026年2月落户湖北青创园（光谷）示范园园区。产",
-     "source": "东方财富股票",
-     "zh": "固态电池核心隔膜材料企业源启膜创获天使轮融资 武创投旗下星火种苗基金独家投资"
-    },
-    {
-     "title": "百亿营收只赚2000万 梦金园换掉德勤或为省钱",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892126188.html",
-     "pubDate": "Sun, 11 Oct 2026 22:50:51 +0800",
-     "summary": "续聘仅5个月，港股上市的 黄金 珠宝企业 梦金园 便与四大会计师事务所之一德勤·关黄陈方会计师行（以下简称“德勤”）分道扬镳。日前， 梦金园 发布公告称，德勤辞任集团核数师。然而，就在今年5月的股东周年大会上， 梦金园 刚刚完成对德勤的续聘。 该事项披露后，随即引发市场对梦金园财务审计风险的担忧。公告当日，梦金园股价出现明显波动，收盘报28.14港元，单日跌幅达9.23%。 但从港交所公示文件来看，德勤辞任函中并未提示需要股东关注的重大财务事项，分歧集中在审计服务费报价，德勤预估费用330万元，拟接任的信永中和（香港）报价则为240万元。 对照财报，2026年上半年，梦金园营收101.75亿元",
-     "source": "东方财富股票",
-     "zh": "百亿营收只赚2000万 梦金园换掉德勤或为省钱"
     },
     {
      "title": "Trump announces Russia-Ukraine energy ceasefire amid worries over diesel prices",
@@ -2368,14 +2376,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "美国司法部就可能违反反垄断法的行为调查白宫电视网络"
-    },
-    {
-     "title": "Japan weighs railway upgrades as part of defense spending push",
-     "link": "https://seekingalpha.com/news/4651922-japan-weighs-railway-upgrades-as-part-of-defense-spending-push?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 11 Oct 2026 09:50:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "日本考虑将铁路升级作为国防开支推动的一部分"
     },
     {
      "title": "AI is automating coding. So why are software developer job postings on the rise?",

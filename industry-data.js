@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 03:51:58",
+ "generated_at": "2026/10/12 03:59:28",
  "recent_days": 7,
  "industries": [
   {
@@ -2226,6 +2226,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Stellantis unveils low-cost electric cars in bid to revive European sales",
+     "link": "https://seekingalpha.com/news/4651947-stellantis-unveils-low-cost-electric-cars-in-bid-to-revive-european-sales?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 11 Oct 2026 15:53:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stellantis unveils low-cost electric cars in bid to revive European sales"
+    },
+    {
      "title": "SA Asks: How can Nike get back on track?",
      "link": "https://seekingalpha.com/news/4651946-sa-asks-how-can-nike-get-back-on-track?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 11 Oct 2026 15:44:47 -0400",
@@ -2234,12 +2242,20 @@ window.INDUSTRY_DATA = {
      "zh": "SA Asks: How can Nike get back on track?"
     },
     {
-     "title": "沙特民航总局：东部城市达曼国际机场再遭袭",
+     "title": "美国两党参议员称美俄柴油协议违法 要求政府立即改变立场",
+     "link": "http://finance.eastmoney.com/news/1356,202610123892139061.html",
+     "pubDate": "Mon, 12 Oct 2026 03:41:59 +0800",
+     "summary": "由美国参议院外交关系委员会成员Jeanne Shaheen领衔的一个由七名参议员组成的两党小组发表声明，称美国总统特朗普允许进口俄罗斯柴油的决定违法。这些参议员要求政府就进口俄罗斯柴油立即改变立场。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国两党参议员称美俄柴油协议违法 要求政府立即改变立场"
+    },
+    {
+     "title": "伊朗军方公布一油轮在霍尔木兹海峡触雷爆炸画面",
      "link": "http://finance.eastmoney.com/news/1351,202610123892138983.html",
      "pubDate": "Mon, 12 Oct 2026 03:36:15 +0800",
-     "summary": "沙特阿拉伯民航总局11日晚说，沙特东部城市达曼的法赫德国王国际 机场 于当晚再次遭到袭击。 沙特民航总局在社交媒体上说，针对沙特民航的袭击“仍在继续”。相关部门在开展损失评估，核查设施安全状况，并协调有关机构进行处置。 此前一晚，沙特主导的多国联军发言人图尔基·马利基说，一枚投射物落在法赫德国王国际 机场 附近。 也门胡塞武装11日说，过去24小时内，该组织使用导弹和 无人机 对沙特境内 机场 和能源设施实施4次军事行动，其目标包括法赫德国王国际机场。 （文章来源：新华社）",
+     "summary": "当地时间11日，伊朗伊斯兰革命卫队公布一段视频，显示一艘油轮发生爆炸起火瞬间画面。 革命卫队称，这艘油轮原本准备离开霍尔木兹海峡，却关闭了所有导航系统，违反了霍尔木兹海峡的航行规则，因擅自通过禁航航线而引发事故。 革命卫队称，这是自当地时间10日以来，第三艘在霍尔木兹海峡擅自通过禁航航线触雷并起火的油轮。 （文章来源：央视新闻客户端）",
      "source": "东方财富股票",
-     "zh": "沙特民航总局：东部城市达曼国际机场再遭袭"
+     "zh": "伊朗军方公布一油轮在霍尔木兹海峡触雷爆炸画面"
     },
     {
      "title": "Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine; Zelenskyy is waiting for details",
@@ -2314,14 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "泽连斯基称支持“能源停火” 乌武装部队已收到相关命令"
     },
     {
-     "title": "传统投行“黄昏已至” 产业保代如日方升",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892136190.html",
-     "pubDate": "Mon, 12 Oct 2026 02:26:02 +0800",
-     "summary": "传统投行式微，不仅体现在通道业务的规模收缩上，还体现在行业遭遇的人才困境中。 伴随通道业务收窄、新兴产业崛起，投行对人才的能力要求正在向上变化——懂产业、懂跨境，成为新的能力坐标。 保代吸引力不如从前 据证券时报记者对各家券商的不完全统计，截至目前，今年全行业新注册的保荐代表人至少135名，超六成券商未有新注册保代，而今年以来仅新注册1—2名保代的券商多达23家。 从部分券商的情况来看，新注册保代数量逐年递减的趋势尤为明显。以 中信证券 为例，根据证券时报记者统计，该机构2023年新注册的保代有38人，2024年降至28人，2025年进一步减少至17人，2026年前三季度仅4人。华东某中型券商",
-     "source": "东方财富股票",
-     "zh": "传统投行“黄昏已至” 产业保代如日方升"
-    },
-    {
      "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
      "link": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1",
      "pubDate": "Sun, 11 Oct 2026 18:01:02 GMT",
@@ -2370,28 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "From BJ’s to Lululemon, retailers are trimming assortments to boost business"
     },
     {
-     "title": "岂能让消费者替“速成车”补上测试课",
-     "link": "http://www.eeo.com.cn/2026/1012/1061178.shtml",
-     "pubDate": "Mon, 12 Oct 2026 00:52:07 +0800",
-     "summary": "■刘钊 10月10日，工业和信息化部等四部门联合发布通知，提出对未按要求进行测试验证、测试验证不充分或提供虚假验证材料的产品不予公告。中国汽车工业协会也发出倡议，要求补齐研发验证短板。这意味着，针对近年来备受争议的“速成车”现象，车企必须把车辆上市前的安全功课做足。 从应急机械拉手相关召回，到零重力座椅、全隐藏式门把手的安全讨论，消费者对于汽车安全的关注度与日俱增。行业需要正视一个问题：...",
-     "source": "经济观察网",
-     "zh": "岂能让消费者替“速成车”补上测试课"
-    },
-    {
      "title": "Global equities mixed amid rising yields and oil prices",
      "link": "https://seekingalpha.com/news/4651936-global-equities-mixed-amid-rising-yields-and-oil-prices?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 11 Oct 2026 12:48:24 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Global equities mixed amid rising yields and oil prices"
-    },
-    {
-     "title": "Merck's experimental eye drug meets goal in trial, but raises safety concerns",
-     "link": "https://seekingalpha.com/news/4651934-mercks-experimental-eye-drug-meets-goal-in-trial-but-raises-safety-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 11 Oct 2026 12:42:57 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Merck's experimental eye drug meets goal in trial, but raises safety concerns"
     },
     {
      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
@@ -2410,30 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike"
     },
     {
-     "title": "财险公司保险产品开发迎新规 附加险管理进一步规范",
-     "link": "http://www.eeo.com.cn/2026/1011/1061171.shtml",
-     "pubDate": "Sun, 11 Oct 2026 23:52:11 +0800",
-     "summary": "据国家金融监督管理总局（以下简称“金融监管总局”）官网10月9日消息，为进一步规范财产保险公司保险产品开发行为，保护投保人、被保险人和受益人合法权益，持续释放强监管信号，提升保险产品供给质效，促进财产保险业高质量发展，近日，金融监管总局修订发布《财产保险公司保险产品开发管理规定》（以下简称《规定》）。 受访专家表示，《规定》的发布引导非车险、责任险等业务回归保障本源，切实保障消费者知情权，将...",
-     "source": "经济观察网",
-     "zh": "财险公司保险产品开发迎新规 附加险管理进一步规范"
-    },
-    {
-     "title": "现房销售正以“确定性”提振楼市信心",
-     "link": "http://www.eeo.com.cn/2026/1011/1061170.shtml",
-     "pubDate": "Sun, 11 Oct 2026 23:52:10 +0800",
-     "summary": "■杜雨萌 近期，北京、上海、广州、武汉相继发布商品房销售制度改革实施细则，与国家层面鼓励现房销售的导向形成呼应。 长期以来，我国商品房销售以预售制为主。这一制度诞生于住房市场化改革的初期，彼时房企普遍体量偏小、筹资渠道有限，难以独立扛起长周期、高投入的项目建设压力，“先收款、后交房”的安排由此成为主流，并在相当长时间里支撑了房地产市场在供应端的快速扩容。然而，当行业告别高速扩张、转入...",
-     "source": "经济观察网",
-     "zh": "现房销售正以“确定性”提振楼市信心"
-    },
-    {
-     "title": "中国物流业景气指数连续5个月处于扩张区间",
-     "link": "http://www.eeo.com.cn/2026/1011/1061169.shtml",
-     "pubDate": "Sun, 11 Oct 2026 23:52:05 +0800",
-     "summary": "10月11日，中国物流与采购联合会发布数据显示，2026年9月，中国物流业景气指数为51.5%，较8月回升0.6个百分点，连续5个月处在扩张区间。 中国物流信息中心主任刘宇航认为，景气指数连续5个月处在扩张区间，业务总量指数、新订单指数环比回升，反映出政策和市场联动效应持续显现，促消费、惠民生政策带动物流需求产生积极变化。同时，物流供需市场环境也在稳步改善，高效绿色智能物流供给加快增长，对物流需求的适配性不断...",
-     "source": "经济观察网",
-     "zh": "中国物流业景气指数连续5个月处于扩张区间"
-    },
-    {
      "title": "Democrats need a foreign policy",
      "link": "https://www.ft.com/content/dddba87c-3ed9-4cb5-8fe2-1b1dcc71da6f?syn-25a6b1a6=1",
      "pubDate": "Sun, 11 Oct 2026 15:13:30 GMT",
@@ -2442,28 +2410,60 @@ window.INDUSTRY_DATA = {
      "zh": "Democrats need a foreign policy"
     },
     {
-     "title": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山",
-     "link": "http://www.eeo.com.cn/2026/1011/1061158.shtml",
-     "pubDate": "Sun, 11 Oct 2026 22:52:20 +0800",
-     "summary": "第1眼TV-华龙网讯（首席记者 陈美西）10月11日晚，中超联赛休赛一个月后战火重燃，重庆铜梁龙坐镇龙兴足球场迎战传统劲旅山东泰山。经过90分钟激战，双方1:1握手言和。这也是重庆铜梁龙本赛季在龙兴主场的收官之战。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/012F11DED5D02A6A5E973877FD2938C0.jpg\" alt=\"重庆铜梁龙首发阵容。\" width=\"1024\" height=\"683\" data-title=\"重庆铜梁龙首发...",
-     "source": "经济观察网",
-     "zh": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山"
+     "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+     "link": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+     "pubDate": "Sun, 11 Oct 2026 14:08:44 GMT",
+     "summary": "The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.",
+     "source": "CNBC",
+     "zh": "AI’s quiet safety gatekeepers are stepping into the spotlight"
     },
     {
-     "title": "于子迪，不要只成为天才少女",
-     "link": "http://www.eeo.com.cn/2026/1011/1061153.shtml",
-     "pubDate": "Sun, 11 Oct 2026 22:39:26 +0800",
-     "summary": "0.13秒。 这是13岁的于子迪和16岁叶诗文之间的距离。 9月23日晚，东京水上运动中心，女子400米混合泳决赛，于子迪压轴出场，欢呼声不输日本选手。她游出4分28秒56，打破亚运会纪录夺冠，历史第五...",
-     "source": "经济观察网",
-     "zh": "于子迪，不要只成为天才少女"
+     "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+     "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+     "pubDate": "Sun, 11 Oct 2026 14:00:00 GMT",
+     "summary": "High hopes for third-quarter earnings are outweighing concerns around interest rates and oil prices — but one expert warns markets have gotten “extremely complacent.”",
+     "source": "MarketWatch",
+     "zh": "We’re about to get a huge read on whether earnings can keep propping up the stock market"
     },
     {
-     "title": "特朗普：俄乌双方同意“能源停火”",
-     "link": "http://finance.eastmoney.com/news/1351,202610113892122418.html",
-     "pubDate": "Sun, 11 Oct 2026 22:23:00 +0800",
-     "summary": "美国总统特朗普11日在社交媒体发文称，即刻起，俄乌冲突进入“能源停火”状态，双方均已同意。 （注：“能源停火”核心是俄乌双方暂时停止攻击对方的发电厂、变电站、炼油厂、 天然气 管道等能源设施） （文章来源：央视新闻）",
-     "source": "东方财富资讯",
-     "zh": "特朗普：俄乌双方同意“能源停火”"
+     "title": "Houthis show military reach with deadly missile strikes on Riyadh",
+     "link": "https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e?syn-25a6b1a6=1",
+     "pubDate": "Sun, 11 Oct 2026 13:04:47 GMT",
+     "summary": "Yemen’s Iran-backed militants demonstrate that they are not just ‘guys in flip-flops’",
+     "source": "Financial Times",
+     "zh": "Houthis show military reach with deadly missile strikes on Riyadh"
+    },
+    {
+     "title": "The bull market is turning 4 years old — but yields could crash the party",
+     "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+     "pubDate": "Sun, 11 Oct 2026 13:00:00 GMT",
+     "summary": "For four years, tech has been the answer to almost every question about this bull market.",
+     "source": "MarketWatch",
+     "zh": "The bull market is turning 4 years old — but yields could crash the party"
+    },
+    {
+     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+     "pubDate": "Sun, 11 Oct 2026 12:30:00 GMT",
+     "summary": "“I presume these are sophisticated investors taking a profit.”",
+     "source": "MarketWatch",
+     "zh": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?"
+    },
+    {
+     "title": "大摩相信：市场低估了宁德时代的韧性！",
+     "link": "https://wallstreetcn.com/articles/3783381",
+     "pubDate": "Sun, 11 Oct 2026 19:18:46 +0800",
+     "summary": "投资者当前对宁德时代的盈利预期或许过于悲观。 据追风交易台消息，10月9日，摩根士丹利研报指出，目前市场焦点过度集中在占宁德时代电动车电池总销量约三分之一的中国乘用车市场。然而，该行强调，中国商用车车队的电动化、欧洲电动车普及率的重新加速，以及除美国外全球其他市场电动车需求的拐点，已经构成了不可忽视的庞大收入敞口。市场低估了宁德时代的跨周期韧性。 分析师Jack Lu和Kaylee Xu在报告中基于全生命周期成本（TCO）分析，宁德时代的技术优势可支撑高达0.24元/瓦时的溢价，远高于当前0.09元/瓦时的实际利润溢价，盈利护城河稳固。 针对部分投资者担忧明年电池净利润可能降至0.08元/瓦时",
+     "source": "华尔街见闻",
+     "zh": "大摩相信：市场低估了宁德时代的韧性！"
+    },
+    {
+     "title": "英伟达表外承诺飙升至5300亿美元！SemiAnalysis：未来可能突破1万亿美元",
+     "link": "https://wallstreetcn.com/articles/3783383",
+     "pubDate": "Sun, 11 Oct 2026 18:56:33 +0800",
+     "summary": "英伟达的表外财务承诺规模正以惊人速度膨胀，引发市场对其资产负债表弹性与风险承受能力的高度关注。 据英伟达最新提交的10-Q季报披露，其表外担保总额已达5300亿美元，较上一季度披露的1840亿美元大幅跃升，单季增幅超过180%。 这一数字横跨六个不同科目，涵盖供应承诺、数据中心兜底协议及云服务租约等多类义务。 研究机构SemiAnalysis在对上述数据进行深度拆解后指出， 随着英伟达盈利能力持续增强，其表外义务规模在未来几年有望进一步扩张至1万亿美元以上。 与此同时，该机构也提出核心问题： 一旦行业出现放缓或下行，英伟达能否在兼顾安全边际的前提下，履行全部表内与表外承诺？ 单季激增逾1800",
+     "source": "华尔街见闻",
+     "zh": "英伟达表外承诺飙升至5300亿美元！SemiAnalysis：未来可能突破1万亿美元"
     }
    ]
   },

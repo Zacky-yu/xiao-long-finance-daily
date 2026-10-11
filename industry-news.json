@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/12 03:32:03",
+ "generated_at": "2026/10/12 03:51:58",
  "recent_days": 7,
  "industries": [
   {
@@ -657,6 +657,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Survey Sunday: Electrek readers find the silver lining in high fuel prices",
+     "link": "https://electrek.co/2026/10/11/survey-sunday-electrek-readers-find-the-silver-lining-in-high-fuel-prices/",
+     "pubDate": "Sun, 11 Oct 2026 19:38:37 +0000",
+     "summary": "For the last few weeks, we’ve been running a sidebar survey about whether our Electrek believed there might be some silver lining to the record-breaking fuel prices following the start of the war in Iran. After nearly 2,000 responses, here’s what you told us. more…",
+     "source": "Electrek",
+     "zh": "Survey Sunday: Electrek readers find the silver lining in high fuel prices"
+    },
+    {
      "title": "Citroen Is Finally Bringing Back The 2CV. And I’m Here For It",
      "link": "https://insideevs.com/news/811436/citroen-2cv-electric-reborn-concept/",
      "pubDate": "Sun, 11 Oct 2026 17:00:00 +0000",
@@ -783,14 +791,6 @@
      "summary": "The G9L becomes Xpeng's fourth model to be assembled locally in Europe. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Xpeng completes G9L trial production in Austria ahead of Paris global premiere"
-    },
-    {
-     "title": "Tesla’s next big clean energy source is rising in the Arizona desert",
-     "link": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/",
-     "pubDate": "Sat, 10 Oct 2026 00:05:22 +0000",
-     "summary": "A 450-megawatt (MW) solar farm with a massive battery system is now under construction in Arizona – and Tesla has already lined up about 90% of its expected electricity output. more…",
-     "source": "Electrek",
-     "zh": "Tesla’s next big clean energy source is rising in the Arizona desert"
     },
     {
      "title": "I Tested New York City’s First Lamppost EV Charger. It’s A Game Changer",
@@ -961,12 +961,12 @@
      "zh": "Clean-energy super PAC names its target list for general elections"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -980,7 +980,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1729,10 +1729,18 @@
    "total": 18,
    "items": [
     {
+     "title": "Be The Onion's Hero for Once",
+     "link": "https://mailchi.mp/email.theonion.com/archivehunt",
+     "pubDate": "Sun, 11 Oct 2026 19:43:32 +0000",
+     "summary": "Article URL: https://mailchi.mp/email.theonion.com/archivehunt Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Be The Onion's Hero for Once"
+    },
+    {
      "title": "Chapter 1 of Ways of Seeing by John Berger",
      "link": "https://www.ways-of-seeing.com/ch1",
      "pubDate": "Sun, 11 Oct 2026 18:26:24 +0000",
-     "summary": "Article URL: https://www.ways-of-seeing.com/ch1 Comments URL: https://news.ycombinator.com/item?id=50046241 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://www.ways-of-seeing.com/ch1 Comments URL: https://news.ycombinator.com/item?id=50046241 Points: 12 # Comments: 1",
      "source": "Hacker News",
      "zh": "Chapter 1 of Ways of Seeing by John Berger"
     },
@@ -1748,7 +1756,7 @@
      "title": "Total Annihilation, rebuilt for modern computers",
      "link": "https://nanolathe.gg",
      "pubDate": "Sun, 11 Oct 2026 18:04:47 +0000",
-     "summary": "Article URL: https://nanolathe.gg Comments URL: https://news.ycombinator.com/item?id=50045984 Points: 81 # Comments: 43",
+     "summary": "Article URL: https://nanolathe.gg Comments URL: https://news.ycombinator.com/item?id=50045984 Points: 113 # Comments: 53",
      "source": "Hacker News",
      "zh": "Total Annihilation, rebuilt for modern computers"
     },
@@ -1756,7 +1764,7 @@
      "title": "NYC's \"Click to Cancel\" rule is now in effect",
      "link": "https://www.nyc.gov/main/click-to-cancel",
      "pubDate": "Sun, 11 Oct 2026 18:01:16 +0000",
-     "summary": "Article URL: https://www.nyc.gov/main/click-to-cancel Comments URL: https://news.ycombinator.com/item?id=50045946 Points: 68 # Comments: 16",
+     "summary": "Article URL: https://www.nyc.gov/main/click-to-cancel Comments URL: https://news.ycombinator.com/item?id=50045946 Points: 125 # Comments: 38",
      "source": "Hacker News",
      "zh": "NYC's \"Click to Cancel\" rule is now in effect"
     },
@@ -1767,14 +1775,6 @@
      "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
      "source": "TechCrunch",
      "zh": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know"
-    },
-    {
-     "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit",
-     "link": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
-     "pubDate": "Sun, 11 Oct 2026 17:40:42 +0000",
-     "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns Comments URL: https://news.ycombinator.com/item?id=50045735 Points: 60 # Comments: 21",
-     "source": "Hacker News",
-     "zh": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit"
     },
     {
      "title": "苹果终于要给MacBook加触屏了，这次为什么不一样？",
@@ -1804,7 +1804,7 @@
      "title": "apsw: Another Python SQLite Wrapper",
      "link": "https://github.com/rogerbinns/apsw",
      "pubDate": "Sun, 11 Oct 2026 16:58:22 +0000",
-     "summary": "Article URL: https://github.com/rogerbinns/apsw Comments URL: https://news.ycombinator.com/item?id=50045273 Points: 24 # Comments: 8",
+     "summary": "Article URL: https://github.com/rogerbinns/apsw Comments URL: https://news.ycombinator.com/item?id=50045273 Points: 30 # Comments: 8",
      "source": "Hacker News",
      "zh": "apsw: Another Python SQLite Wrapper"
     },
@@ -1828,7 +1828,7 @@
      "title": "Playgrnd – tiny tools for making weird, beautiful things",
      "link": "https://www.playgrnd.tools/",
      "pubDate": "Sun, 11 Oct 2026 16:31:37 +0000",
-     "summary": "Article URL: https://www.playgrnd.tools/ Comments URL: https://news.ycombinator.com/item?id=50044989 Points: 10 # Comments: 1",
+     "summary": "Article URL: https://www.playgrnd.tools/ Comments URL: https://news.ycombinator.com/item?id=50044989 Points: 19 # Comments: 2",
      "source": "Hacker News",
      "zh": "Playgrnd – tiny tools for making weird, beautiful things"
     },
@@ -2225,6 +2225,54 @@
    "total": 13,
    "items": [
     {
+     "title": "SA Asks: How can Nike get back on track?",
+     "link": "https://seekingalpha.com/news/4651946-sa-asks-how-can-nike-get-back-on-track?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 11 Oct 2026 15:44:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA Asks: How can Nike get back on track?"
+    },
+    {
+     "title": "沙特民航总局：东部城市达曼国际机场再遭袭",
+     "link": "http://finance.eastmoney.com/news/1351,202610123892138983.html",
+     "pubDate": "Mon, 12 Oct 2026 03:36:15 +0800",
+     "summary": "沙特阿拉伯民航总局11日晚说，沙特东部城市达曼的法赫德国王国际 机场 于当晚再次遭到袭击。 沙特民航总局在社交媒体上说，针对沙特民航的袭击“仍在继续”。相关部门在开展损失评估，核查设施安全状况，并协调有关机构进行处置。 此前一晚，沙特主导的多国联军发言人图尔基·马利基说，一枚投射物落在法赫德国王国际 机场 附近。 也门胡塞武装11日说，过去24小时内，该组织使用导弹和 无人机 对沙特境内 机场 和能源设施实施4次军事行动，其目标包括法赫德国王国际机场。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "沙特民航总局：东部城市达曼国际机场再遭袭"
+    },
+    {
+     "title": "Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine; Zelenskyy is waiting for details",
+     "link": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+     "pubDate": "Sun, 11 Oct 2026 19:33:51 GMT",
+     "summary": "Ukrainian President Volodymyr Zelenskyy said he is waiting on details from Washington.",
+     "source": "CNBC",
+     "zh": "Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine; Zelenskyy is waiting for details"
+    },
+    {
+     "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+     "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+     "pubDate": "Sun, 11 Oct 2026 19:32:00 GMT",
+     "summary": "“Both properties will be solely in his name.”",
+     "source": "MarketWatch",
+     "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
+    },
+    {
+     "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+     "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+     "pubDate": "Sun, 11 Oct 2026 19:32:00 GMT",
+     "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+     "source": "MarketWatch",
+     "zh": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?"
+    },
+    {
+     "title": "沙特民航总局：达曼法赫德国王国际机场遭袭",
+     "link": "http://finance.eastmoney.com/news/1351,202610123892138880.html",
+     "pubDate": "Mon, 12 Oct 2026 03:16:28 +0800",
+     "summary": "当地时间10月11日晚，沙特阿拉伯民航总局发布声明称，沙特东部城市达曼的法赫德国王国际 机场 当天晚间遭到袭击。 声明称，近期针对沙特民航设施的袭击持续发生。目前，有关部门正在协调开展 机场 受损情况评估，并对相关设施的安全状况进行检查。 此前一晚，沙特主导的多国联军发言人图尔基·马利基说，一枚投射物落在法赫德国王国际 机场 附近。 也门胡塞武装11日说，过去24小时内，该组织使用导弹和 无人机 对沙特境内机场和能源设施实施4次军事行动，其目标包括法赫德国王国际机场。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "沙特民航总局：达曼法赫德国王国际机场遭袭"
+    },
+    {
      "title": "Justice Department opens antitrust probe as White House press-access fight escalates",
      "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
      "pubDate": "Sun, 11 Oct 2026 19:15:21 GMT",
@@ -2273,22 +2321,6 @@
      "zh": "传统投行“黄昏已至” 产业保代如日方升"
     },
     {
-     "title": "泽连斯基“一再拒绝停止袭击俄炼油厂”触怒特朗普",
-     "link": "http://finance.eastmoney.com/news/1356,202610123892138553.html",
-     "pubDate": "Mon, 12 Oct 2026 02:21:02 +0800",
-     "summary": "据新华社报道，根据英国和美国媒体10日的披露，由于乌克兰总统泽连斯基一再拒绝按照美方要求停止袭击俄罗斯炼油厂，美方随后与俄方就能源供应达成一致，并且警告乌方可能停止美乌情报合作。 据英国《金融时报》报道，美国和乌克兰代表9日在美国佛罗里达州迈阿密举行近8小时的会谈。其间，美国总统特使威特科夫和特朗普女婿库什纳表示，若乌方不按照美方要求停止袭击俄方炼油厂，美方可能中断情报共享。一名参与会谈的乌方人员说，这是特朗普的“坚定要求”。 就在会谈当天，特朗普宣布，他同俄罗斯总统普京就俄向美国及全球市场提供柴油达成一致。俄方当天也宣布，普京同特朗普通话，确认俄将向美国和全球市场提供石油和石油产品。 一名乌",
-     "source": "东方财富股票",
-     "zh": "泽连斯基“一再拒绝停止袭击俄炼油厂”触怒特朗普"
-    },
-    {
-     "title": "苏丹北部矿区遇袭 已致72人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202610123892138255.html",
-     "pubDate": "Mon, 12 Oct 2026 02:16:57 +0800",
-     "summary": "当地时间10月11日，苏丹一个民间组织发表声明称，苏丹北部靠近埃及边境的北瓦迪地区一处金矿矿区10日遭遇大规模空袭，造成72名矿工死亡。 声明称，相关方面仍在对伤亡情况进行进一步统计。声明指责埃及空军实施此次空袭。 截至目前，埃及和苏丹官方均未对此作出回应。 2023年4月15日，苏丹武装部队与快速支援部队在首都喀土穆爆发武装冲突，战火随后蔓延至苏丹其他地区。持续三年多的武装冲突已造成至少5.9万人死亡。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "苏丹北部矿区遇袭 已致72人死亡"
-    },
-    {
      "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
      "link": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1",
      "pubDate": "Sun, 11 Oct 2026 18:01:02 GMT",
@@ -2329,6 +2361,14 @@
      "zh": "Roche's experimental eye drug shows vision improvements in trials"
     },
     {
+     "title": "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
+     "link": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
+     "pubDate": "Sun, 11 Oct 2026 17:08:30 GMT",
+     "summary": "Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products to better curate offerings and stabilize business.",
+     "source": "CNBC",
+     "zh": "From BJ’s to Lululemon, retailers are trimming assortments to boost business"
+    },
+    {
      "title": "岂能让消费者替“速成车”补上测试课",
      "link": "http://www.eeo.com.cn/2026/1012/1061178.shtml",
      "pubDate": "Mon, 12 Oct 2026 00:52:07 +0800",
@@ -2367,14 +2407,6 @@
      "summary": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
      "source": "CNBC",
      "zh": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike"
-    },
-    {
-     "title": "Marko Kolanovic calls Trump’s energy ceasefire a ‘con,’ Tom Lee sees potential inflation relief",
-     "link": "https://seekingalpha.com/news/4651933-marko-kolanovic-calls-trump-s-energy-ceasefire-a-con-tom-lee-sees-potential-inflation-relief?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 11 Oct 2026 12:19:50 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Marko Kolanovic calls Trump’s energy ceasefire a ‘con,’ Tom Lee sees potential inflation relief"
     },
     {
      "title": "财险公司保险产品开发迎新规 附加险管理进一步规范",
@@ -2431,38 +2463,6 @@
      "summary": "美国总统特朗普11日在社交媒体发文称，即刻起，俄乌冲突进入“能源停火”状态，双方均已同意。 （注：“能源停火”核心是俄乌双方暂时停止攻击对方的发电厂、变电站、炼油厂、 天然气 管道等能源设施） （文章来源：央视新闻）",
      "source": "东方财富资讯",
      "zh": "特朗普：俄乌双方同意“能源停火”"
-    },
-    {
-     "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
-     "link": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
-     "pubDate": "Sun, 11 Oct 2026 14:08:44 GMT",
-     "summary": "The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.",
-     "source": "CNBC",
-     "zh": "AI’s quiet safety gatekeepers are stepping into the spotlight"
-    },
-    {
-     "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
-     "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 14:00:00 GMT",
-     "summary": "High hopes for third-quarter earnings are outweighing concerns around interest rates and oil prices — but one expert warns markets have gotten “extremely complacent.”",
-     "source": "MarketWatch",
-     "zh": "We’re about to get a huge read on whether earnings can keep propping up the stock market"
-    },
-    {
-     "title": "Houthis show military reach with deadly missile strikes on Riyadh",
-     "link": "https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 13:04:47 GMT",
-     "summary": "Yemen’s Iran-backed militants demonstrate that they are not just ‘guys in flip-flops’",
-     "source": "Financial Times",
-     "zh": "Houthis show military reach with deadly missile strikes on Riyadh"
-    },
-    {
-     "title": "The bull market is turning 4 years old — but yields could crash the party",
-     "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 13:00:00 GMT",
-     "summary": "For four years, tech has been the answer to almost every question about this bull market.",
-     "source": "MarketWatch",
-     "zh": "The bull market is turning 4 years old — but yields could crash the party"
     }
    ]
   },

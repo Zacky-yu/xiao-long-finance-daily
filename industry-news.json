@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/12 06:49:53",
+ "generated_at": "2026/10/12 06:59:39",
  "recent_days": 7,
  "industries": [
   {
@@ -590,7 +590,7 @@
      "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
      "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
      "source": "Robohub",
-     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
+     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与 Kushant Patel"
     },
     {
      "title": "Cevotec brings robotic composite lamination to South Korea with KCompositeLab partnership",
@@ -718,7 +718,7 @@
      "pubDate": "Sun, 11 Oct 2026 12:16:33 +0000",
      "summary": "Mitusbishi’s North American dealers have been trudging along with an aging, badge-engineered model line for years – but overseas? It’s a different story, and the 459 hp all-wheel drive ASX VR-e electric hot hatch shown here is plug-in proof. more…",
      "source": "Electrek",
-     "zh": "459 马力、3.9 秒内从 0 加速到 60 英里以及全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
+     "zh": "459 马力、3.9 秒内从 0-60 英里加速和全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
     },
     {
      "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
@@ -742,7 +742,7 @@
      "pubDate": "Sat, 10 Oct 2026 14:07:06 +0000",
      "summary": "The limited-time price of the Cruiser 700, including a trade-in subsidy, is 169,800 yuan ($25,220), and firm orders exceeded 10,000 units within the first 12 minutes. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "吉利银河推出漫步者700 挑战比亚迪、长城 越野SUV市场"
+     "zh": "吉利银河推出漫步者700 与比亚迪、长城汽车争夺越野SUV市场"
     },
     {
      "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
@@ -870,7 +870,7 @@
      "pubDate": "Sun, 11 Oct 2026 10:00:00 -0500",
      "summary": "Australia has long been known for its strong coal industry, being one of the world’s largest producers and exporters. While much of the world moves away from coal in favour of cleaner energy sources, Australia is doubling down on its coal production, with plans to extend the life of coal operations ",
      "source": "OilPrice",
-     "zh": "尽管有巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
+     "zh": "尽管巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
     },
     {
      "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
@@ -961,12 +961,12 @@
      "zh": "清洁能源超级政治行动委员会确定大选目标名单"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM 批准 Engie、LS Power 的 2.1 GW 快速互连"
+     "zh": "Engie、LS Power 获得 PJM 快速互联批准 2.1 吉瓦"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -980,7 +980,7 @@
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "第三季度美国电力、天然气公用事业费率请求飙升至 $4.5B：PowerLines"
     },
@@ -1321,52 +1321,12 @@
      "zh": "蓝色起源推进 LC-36 重建工作，以便年底新格伦重返飞行"
     },
     {
-     "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
-     "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
-     "pubDate": "Sun, 11 Oct 2026 04:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wr",
-     "source": "NASA",
-     "zh": "APOD：2026 年 10 月 11 日——冰钓宇宙中微子"
-    },
-    {
-     "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
-     "link": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
-     "pubDate": "Sat, 10 Oct 2026 14:18:59 +0000",
-     "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience ",
-     "source": "NASA",
-     "zh": "NASA 将在大都会人寿体育场进行天桥飞行，与 NFL 球迷互动"
-    },
-    {
-     "title": "APOD: 2026 October 10 – Lunar Farside",
-     "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
-     "pubDate": "Sat, 10 Oct 2026 04:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written ",
-     "source": "NASA",
-     "zh": "APOD：2026 年 10 月 10 日 – 月球背面"
-    },
-    {
      "title": "SpaceX launches 21 data satellites for the Space Development Agency",
      "link": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency/",
      "pubDate": "Fri, 09 Oct 2026 21:41:30 +0000",
      "summary": "Liftoff of the Falcon 9 rocket from Vandenberg Space Force Base in California carrying satellites for the Space Development Agency’s Proliferated Warfighter Space Architecture constellation came at 12:39 a.m. PDT (3:39 EDT / 0739 UTC).",
      "source": "Spaceflight Now",
      "zh": "SpaceX 为太空发展局发射 21 颗数据卫星"
-    },
-    {
-     "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-     "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
-     "pubDate": "Fri, 09 Oct 2026 18:11:44 +0000",
-     "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space station",
-     "source": "NASA",
-     "zh": "NASA 寻求美国商业空间站行业计划"
-    },
-    {
-     "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-     "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
-     "pubDate": "Fri, 09 Oct 2026 16:59:24 +0000",
-     "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimen",
-     "source": "NASA",
-     "zh": "NASA 展示下一代隔热罩技术"
     },
     {
      "title": "Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing",
@@ -1377,20 +1337,12 @@
      "zh": "40 号船返航，42 号船接受更多低温验证测试"
     },
     {
-     "title": "Cosmic House of Mirrors",
-     "link": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
-     "pubDate": "Fri, 09 Oct 2026 13:57:24 +0000",
-     "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, howeve",
-     "source": "NASA",
-     "zh": "宇宙镜之屋"
-    },
-    {
      "title": "Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload",
      "link": "https://payloadspace.com/exclusive-kapta-space-raises-24m-series-a-to-build-moving-target-radar-payload/",
      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
      "summary": "Seattle-based Kapta Space announced a $24M Series A to build next-gen radar payloads designed to track moving targets. The post Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：Kapta Space A 轮融资 2400 万美元，用于构建移动目标雷达有效载荷"
+     "zh": "独家：Kapta Space 筹集了 2400 万美元的 A 轮融资，用于构建移动目标雷达有效载荷"
     },
     {
      "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
@@ -1598,7 +1550,7 @@
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击"
+     "zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击"
     },
     {
      "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -1721,6 +1673,22 @@
    "total": 18,
    "items": [
     {
+     "title": "360 创始人周鸿祎攀岩受伤：左膝粉碎性骨折，未来两三个月取消出差",
+     "link": "https://www.ithome.com/1/011/719.htm",
+     "pubDate": "Sun, 11 Oct 2026 22:52:16 GMT",
+     "summary": "IT之家 10 月 12 日消息，昨日晚间，360 公司创始人周鸿祎发布视频，讲述了自己前一天在抱石攀岩中受伤的经过。 据其在视频中自述，他于 10 月 10 日进行抱石攀岩时，他在约 3 米高处失手坠落，落地瞬间未能做出正确的缓冲动作，左腿单独承受了全部冲击，当场听见膝盖发出异响，左腿随即失去活动能力，事后被诊断为左膝粉碎性骨折。 周鸿祎在视频中表示，自己攀岩已有较长时间，但从未想过会发生这样的事。他还提到，受伤后不到 24 小时仍觉得“跟做梦一样，不敢相信发生在我身上”。 IT之家提醒：抱石攀岩是一种在低矮岩壁进行的攀岩形式，下方通常铺设缓冲垫，但坠落时若落地姿态不当，下肢关节仍可能承受集",
+     "source": "IT之家",
+     "zh": "360 创始人周鸿祎攀岩受伤：左膝粉碎性骨折，未来两三个月取消出差"
+    },
+    {
+     "title": "奇瑞宣布在马来西亚召回 OMODA 5 车型，启动国内及相关市场同批次车型风险专项排查",
+     "link": "https://www.ithome.com/1/011/718.htm",
+     "pubDate": "Sun, 11 Oct 2026 22:51:35 GMT",
+     "summary": "IT之家 10 月 12 日消息，奇瑞汽车昨晚发布说明，近日，马来西亚发生一起 2023 款 OMODA 5 的车辆问题，未涉及人身伤害。 经调查，该批次车辆可能存在后桥纵臂局部焊接位置焊接强度不足，极端情况下存在焊缝撕裂风险。该结构车型此前已停产。奇瑞马来西亚子公司配合 JPJ（马来西亚陆路交通局）的相关安排， 已对受影响的 OMODA 5 车型启动召回 。 奇瑞汽车表示，本着审慎原则， 已启动国内及相关市场同批次 OMODA 5 车型的风险专项排查 ，并与监管机构保持积极沟通。 据介绍，此次排查为预防性主动安排，奇瑞将依据排查结果，以负责任的态度，及时向社会公布。 IT之家附说明全文如下：",
+     "source": "IT之家",
+     "zh": "奇瑞宣布在马来西亚召回 OMODA 5 车型，启动国内及相关市场同批次车型风险专项排查"
+    },
+    {
      "title": "Scale AI 创始人汪滔谈创业管理：从亲自决定细节到学会放手，在 Meta 的任务是招揽人才",
      "link": "https://www.ithome.com/1/011/717.htm",
      "pubDate": "Sun, 11 Oct 2026 22:47:29 GMT",
@@ -1732,17 +1700,9 @@
      "title": "Passkeys are a trap. Do not use them",
      "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
      "pubDate": "Sun, 11 Oct 2026 21:59:48 +0000",
-     "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 48 # Comments: 9",
+     "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 53 # Comments: 12",
      "source": "Hacker News",
      "zh": "万能钥匙是一个陷阱。不要使用它们"
-    },
-    {
-     "title": "An AI agent's $20 Kalshi account, with an exact reward model",
-     "link": "https://github.com/mirabilis-agent/lip-ledger",
-     "pubDate": "Sun, 11 Oct 2026 21:44:24 +0000",
-     "summary": "Article URL: https://github.com/mirabilis-agent/lip-ledger Comments URL: https://news.ycombinator.com/item?id=50048136 Points: 4 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "人工智能代理的 20 美元 Kalshi 账户，具有精确的奖励模型"
     },
     {
      "title": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
@@ -1756,7 +1716,7 @@
      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
      "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
      "pubDate": "Sun, 11 Oct 2026 21:07:20 +0000",
-     "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 65 # Comments: 36",
+     "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 67 # Comments: 37",
      "source": "Hacker News",
      "zh": "一名远程员工每天拒绝 160 张网络摄像头照片。她的雇主解雇了她"
     },
@@ -1780,7 +1740,7 @@
      "title": "The gap in shared understanding of LLM capability is widening",
      "link": "https://twitter.com/karpathy/status/2109361546505966046",
      "pubDate": "Sun, 11 Oct 2026 20:20:52 +0000",
-     "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 90 # Comments: 93",
+     "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 93 # Comments: 103",
      "source": "Hacker News",
      "zh": "对 LLM 能力的共识差距正在扩大"
     },
@@ -1788,7 +1748,7 @@
      "title": "Cartographers of North Korea",
      "link": "https://cartographers-nk.wonyoung.so/",
      "pubDate": "Sun, 11 Oct 2026 19:46:40 +0000",
-     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 109 # Comments: 12",
+     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 110 # Comments: 12",
      "source": "Hacker News",
      "zh": "朝鲜制图师"
     },
@@ -1796,9 +1756,17 @@
      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
      "link": "https://theonion.com/archivehunt/",
      "pubDate": "Sun, 11 Oct 2026 19:43:32 +0000",
-     "summary": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 192 # Comments: 20",
+     "summary": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 195 # Comments: 21",
      "source": "Hacker News",
      "zh": "那么，您想出售您的《洋葱》印刷版吗？"
+    },
+    {
+     "title": "The Unreasonable Effectiveness of Vex in NixOS",
+     "link": "https://blog.kammel.dev/post/nixos_vex/",
+     "pubDate": "Sun, 11 Oct 2026 19:23:07 +0000",
+     "summary": "Article URL: https://blog.kammel.dev/post/nixos_vex/ Comments URL: https://news.ycombinator.com/item?id=50046864 Points: 39 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "NixOS 中 Vex 的不合理有效性"
     },
     {
      "title": "A look at the economics of Anthropic&apos;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
@@ -1905,22 +1873,6 @@
      "zh": "Apple 的智能家居战略以 HomeView 显示中心为中心，包括新款 HomePod mini、Apple TV 以及 LG 和 Schneider 的第二方配件（Mark Gurman/彭博社）"
     },
     {
-     "title": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机",
-     "link": "https://www.ithome.com/1/011/712.htm",
-     "pubDate": "Sun, 11 Oct 2026 15:01:19 GMT",
-     "summary": "IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天在新一期《Power On》通讯透露，苹果正在为其首款折叠屏手机 iPhone Duo 谋划声势浩大的展示活动， 让每一位潜在顾客都能充分体验这款新品 。 古尔曼表示，苹果将在美国各地的 Apple Store 直营店摆出大量样机，供到来的顾客上手体验。 预计纽约第五大道的旗舰店将布置超 150 台体验机 ，分布在上手区和展示设施中。苹果总部 Apple Park 游客中心预计将展出 100 台 iPhone Duo。 同时，芝加哥密歇根大街、洛杉矶葛洛夫购物中心和曼哈顿上西城的 Apple Store 预计将提供 30-40 台",
-     "source": "IT之家",
-     "zh": "古尔曼：苹果计划在多个直营店举办 iPhone Duo 大型体验活动，最多摆出 150 台以上样机"
-    },
-    {
-     "title": "消息称荣耀 WIN Pad 平板搭载 8.4 英寸 240Hz OLED 屏，本月发布",
-     "link": "https://www.ithome.com/1/011/711.htm",
-     "pubDate": "Sun, 11 Oct 2026 14:55:18 GMT",
-     "summary": "IT之家 10 月 11 日消息，据博主 @体验more 爆料，荣耀 WIN Pad 平板搭载第五代骁龙 8 至尊版处理器，配备 8.4 英寸 240Hz OLED 平板、主动散热风扇，和 iQOO Pad Pro 都是本月发布。 据博主 @数码闲聊站 于 9 月 21 日爆料， 荣耀 WIN2 系列 +WIN Pad 小平板确定 10 月发布 。据其爆料，荣耀 WIN2 系列顶配搭载骁龙 8EE6（第六代骁龙 8 超级至尊版处理器）+ 主动散热风扇 + 超高刷 OLED ，今年唯一万级大电池的 2nm 新机。小平板搭载骁龙 8E5（第五代骁龙 8 至尊版处理器）+ 主动散热风扇 +8 英寸级",
-     "source": "IT之家",
-     "zh": "消息称荣耀 WIN Pad 平板搭载 8.4 英寸 240Hz OLED 屏，本月发布"
-    },
-    {
      "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
      "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
      "pubDate": "Sun, 11 Oct 2026 14:50:24 +0000",
@@ -2006,7 +1958,7 @@
      "pubDate": "Sun, 11 Oct 2026 18:54:38 +0000",
      "summary": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3.",
      "source": "Engadget",
-     "zh": "Anbernic 的下一代双屏掌上电脑具有适合 3DS 游戏的完美宽高比"
+     "zh": "Anbernic 的下一代双屏手持设备具有适合 3DS 游戏的完美宽高比"
     },
     {
      "title": "The iPhone clock app has an oddity not many people know about",
@@ -2030,7 +1982,7 @@
      "pubDate": "Sun, 11 Oct 2026 18:00:00 +0000",
      "summary": "Digital game licenses aren't perfect, which is why you might see a padlock icon blocking you from PS5 games.",
      "source": "Engadget",
-     "zh": "PlayStation 5 游戏库中挂锁符号的含义"
+     "zh": "PlayStation 5 游戏库中挂锁符号背后的含义"
     },
     {
      "title": "The original Apple TV 4K from 2017 is now officially \"vintage\"",
@@ -2118,7 +2070,7 @@
      "pubDate": "Sun, 11 Oct 2026 13:31:02 +0200",
      "summary": "While Amazon’s Prime Big Deal Days have wrapped up, discounts are still available on several smartphones. In fact, some devices that received few or no notable discounts during the sale are now available at reduced prices. Samsung’s Galaxy S26 Ultra, Apple’s iPhone 17 Pro lineup, and the entire Goog",
      "source": "GSMArena",
-     "zh": "特惠：三星、苹果、谷歌旗舰手机大优惠"
+     "zh": "特惠：三星、苹果、谷歌旗舰手机大幅折扣"
     },
     {
      "title": "I’ve tried all the major to-do list apps but keep coming back to this one",
@@ -2217,6 +2169,30 @@
    "total": 13,
    "items": [
     {
+     "title": "新华财经早报：10月12日",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892150717.html",
+     "pubDate": "Mon, 12 Oct 2026 06:51:28 +0800",
+     "summary": "三季度高频数据折射我国经济向好态势：线下消费连续三个月上行，增长动能不断积蓄 中国 汽车 工业协会：严守安全底线，摒弃重形式、轻安全的非理性创新模式 特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻” 记者11日从国家发展改革委国家信息中心了解到，三季度，消费、外贸、投资等领域多项高频数据平稳向好，我国经济顶压前行，保持稳中有进、稳中向优态势，增长动能不断积蓄。其中， 线下消费 大数据 显示，三季度，各类消费支付金额同比增长2.6%，增速较二季度提高0.7个百分点。9月线下支付金额同比增长3.1%，增速较8月提高0.5个百分点，连续3个月上行。 （新华社） 记者11日从市场监管总局了解",
+     "source": "东方财富股票",
+     "zh": "新华财经早报：10月12日"
+    },
+    {
+     "title": "筹划重要资产收购，今日复牌",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892150517.html",
+     "pubDate": "Mon, 12 Oct 2026 06:42:38 +0800",
+     "summary": "重要新闻提示 北部湾港 ：拟收购恒港码头100%股权，股票10月12日起复牌 工业富联 ：美国337调查涉及公司相关产品处于内部验证评估阶段 哈药股份 ：公司董事、总裁芦传有被立案、实施留置 今日提示 北交所新股 文峰光电 （申购代码：920296）今日申购，发行价为11.45元/股 第二十六届中国国际工业博览会10月12日至16日在上海举办 马士基：紧急燃油附加费（EFS）上调至20%，10月12日起生效 京东 “双11”活动10月12日开启 2026年诺贝尔经济学奖北京时间10月12日17时45分公布 财经新闻 1. 据央视新闻，我国氢能产业进入发展快车道。今年以来，我国氢能产业发展全面提",
+     "source": "东方财富股票",
+     "zh": "筹划重要资产收购，今日复牌"
+    },
+    {
+     "title": "全球顶级企业家们齐聚上海，为的是什么？",
+     "link": "http://finance.eastmoney.com/news/1350,202610123892150694.html",
+     "pubDate": "Mon, 12 Oct 2026 06:42:03 +0800",
+     "summary": "“上海当年作出一个重要决定，请全球顶级企业家们前来，不为听赞美，只要他们告诉这座城市——成功需要什么。” 10月11日，世界会客厅，第38次上海市市长国际企业家咨询会议大会开场，市咨会主席、美国铁狮门公司首席执行官徐瑞柏从多年前说起。在他看来，市咨会体现了上海一以贯之的理念：保持开放、不断学习、不惧改变。 “这一理念，在今天同样重要。”徐瑞柏说，“ 人工智能 以惊人的速度变革各行各业，国家、企业之间的经济关系变得日益复杂，供应链、投资、消费模式也正在转变……面对挑战，我们更需要在这里相聚，在交流中贡献、收获，共同学习成长。” 今年的会议主题是“促进上海服务业创新发展”。特邀演讲嘉宾、 高盛 集",
+     "source": "东方财富股票",
+     "zh": "全球顶级企业家们齐聚上海，为的是什么？"
+    },
+    {
      "title": "纽约期金失守4210美元/盎司，日内跌0.15%",
      "link": "http://finance.eastmoney.com/news/1361,202610123892150498.html",
      "pubDate": "Mon, 12 Oct 2026 06:34:05 +0800",
@@ -2239,30 +2215,6 @@
      "summary": "当地时间10月11日，美国联邦航空管理局（FAA）通知美国各航空公司，在飞往或飞越沙特阿拉伯时务必保持谨慎，理由是持续的军事活动及导航系统干扰构成了安全威胁。 FAA发布的这份“飞行员通知”（有效期至12月10日）是在利雅得国际 机场 于10日和11日接连遇袭后发布的。10日的袭击造成13人死亡，300多人受伤。 FAA指出，这些威胁可能对处于各种高度的航空器构成潜在风险，涵盖飞越、进场及离场等飞行阶段，并就这一“潜在危险状况”发出了警告。 （文章来源：央视新闻客户端）",
      "source": "东方财富股票",
      "zh": "美联邦航空局提醒美航空公司注意沙特领空安全威胁"
-    },
-    {
-     "title": "育碧宣布《彩虹六号》手游2027年1月停运；前Reddit首席产品官将出任Mojang新CEO｜游戏早参",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892149982.html",
-     "pubDate": "Mon, 12 Oct 2026 06:31:49 +0800",
-     "summary": "｜2026年10月12日星期一｜ NO.1 育碧宣布《彩虹六号》手游2027年1月停运 10月10日消息，育碧宣布《彩虹六号》手游将于2027年1月15日停止运营，距离游戏全球正式上线不到一年。该作于2023年在部分地区开启试运营，2026年2月才面向全球正式推出，至今共走过15个赛季。育碧在公告中表示，这是“艰难的决定”，团队接下来将投入其他长期战略项目。后续安排将于未来几周陆续公布。 点评： 育碧叫停《彩虹六号》手游，反映出经典主机IP（具有商业价值的创意内容或品牌）向移动端迁移并非必然成功，射击品类在移动端面临用户留存与变现的双重压力。对游戏板块而言，此次停运是育碧重组期内收缩产品线的延",
-     "source": "东方财富股票",
-     "zh": "育碧宣布《彩虹六号》手游2027年1月停运；前Reddit首席产品官将出任Mojang新CEO｜游戏早参"
-    },
-    {
-     "title": "早读｜135名俄方人员返回伊朗核电站，此前于2月撤离",
-     "link": "http://finance.eastmoney.com/news/11790,202610123892150013.html",
-     "pubDate": "Mon, 12 Oct 2026 06:31:03 +0800",
-     "summary": "早上好！上观新闻『早读』来啦！今天是2026年10月12日星期一，农历九月初三。 § 昨日今晨 数据向好｜ 三季度，消费、外贸、投资等领域多项高频数据平稳向好。国家发展改革委国家信息中心数据显示，三季度，各类消费支付金额同比增长2.6%，增速较二季度提高0.7个百分点。9月线下支付金额同比增长3.1%，增速较8月提高0.5个百分点，连续3个月上行。三季度主要 港口 货运船舶离港、到港载重同比分别增长43.1%、0.3%，较二季度提高43.0、0.7个百分点。投资方面，相关数据显示，与算力、数据、网络等新型基础设施相关的项目中标金额三季度同比增长34.2%。 绝不应该｜ 人民日报11日文章《超话",
-     "source": "东方财富股票",
-     "zh": "早读｜135名俄方人员返回伊朗核电站，此前于2月撤离"
-    },
-    {
-     "title": "伊朗称美国已接受伊方所提部分条件",
-     "link": "http://finance.eastmoney.com/news/1356,202610123892150196.html",
-     "pubDate": "Mon, 12 Oct 2026 06:28:20 +0800",
-     "summary": "新华社德黑兰10月11日电(记者沙达提)伊朗最高国家安全委员会秘书穆赫辛·雷扎伊11日表示，美国已接受伊朗就重新开放霍尔木兹海峡所提出的部分条件，但就伊朗提出的其他条件，目前情况尚不明朗。 在伊朗新闻电视台11日播放的采访中，雷扎伊作出上述表态并详细阐述了伊美近期沟通情况。 雷扎伊说：“过去两个月里，美方通过巴基斯坦、卡塔尔、伊拉克三个不同渠道，要求伊朗提出提议。伊朗向美方提出7项条件，并明确告知美方，除非满足这些条件，否则不会向其开放霍尔木兹海峡，也不会进行任何谈判。” 雷扎伊说，美方现已作出回应，“但伊朗认为力度不足”。他强调，美方必须澄清一些模糊之处，伊朗需要观察美方能否消除伊方疑虑，以",
-     "source": "东方财富股票",
-     "zh": "伊朗称美国已接受伊方所提部分条件"
     },
     {
      "title": "AI boom echoes 1997 Asian financial crisis: SocGen's Albert Edwards",
@@ -2310,7 +2262,7 @@
      "pubDate": "Sun, 11 Oct 2026 17:15:36 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "GTA 6 泄密者嘲笑 Take-Two 超过 3000 万美元，Cyber​​leek memecoin 飙升"
+     "zh": "《GTA 6》泄密者嘲笑 Take-Two 超过 3000 万美元，Cyber​​leek memecoin 飙升"
     },
     {
      "title": "Justice Department investigates TV networks as White House press-access fight escalates",

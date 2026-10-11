@@ -180,6 +180,7 @@ function refreshNow() {
 // ═══════════════════════════════════════════════
 function render(data) {
   renderIndices(data.indices);
+  renderSectors();
   renderSentiment(data);
   renderRateCutExpectation(data);
   renderETFs(data.etfs);
@@ -702,6 +703,105 @@ async function renderMarketTrend() {
   el.innerHTML = html;
 }
 
+// ─── 🗂 大盘板块总览 ───
+let sectorCache = null;
+function secPctClass(p){ return p > 0 ? 'up' : p < 0 ? 'down' : 'flat'; }
+function secFmtPct(p){ return (p > 0 ? '+' : '') + p.toFixed(2) + '%'; }
+
+async function renderSectors() {
+  const el = document.getElementById('sectorGrid');
+  if (!el) return;
+  let data = null;
+  try {
+    const resp = await fetch('./sectors.json?v=' + Date.now());
+    if (resp.ok) data = await resp.json();
+  } catch(e) { /* ignore */ }
+  if (!data || !data.sectors || !data.sectors.length) {
+    el.innerHTML = '<div style="font-size:0.82em;color:var(--text-dim);padding:12px;">暂无板块数据，请更新 sectors.json</div>';
+    setFresh('freshSectors', '无数据', 'stale');
+    return;
+  }
+  sectorCache = data;
+  renderSectorCards(data.sectors);
+  freshByDate('freshSectors', data.date, '数据 ');
+  refreshSectorQuotes(data.sectors);
+}
+
+function renderSectorCards(sectors) {
+  const el = document.getElementById('sectorGrid');
+  if (!el) return;
+  let html = '';
+  for (const s of sectors) {
+    const cls = secPctClass(s.pct);
+    html += '<div class="sector-card" data-sid="' + escHtml(s.id) + '" onclick="openSectorModal(\'' + escHtml(s.id) + '\')">';
+    html += '<span class="sc-more">分析 ›</span>';
+    html += '<div class="sc-top"><span class="sc-icon">' + (s.icon || '📊') + '</span><span class="sc-name">' + escHtml(s.name) + '</span></div>';
+    html += '<div class="sc-pct ' + cls + '" id="scPct_' + escHtml(s.id) + '">' + secFmtPct(s.pct) + '</div>';
+    if (s.tags && s.tags.length) html += '<div class="sc-tags">' + s.tags.map(function(t){ return '<span class="sc-tag">' + escHtml(t) + '</span>'; }).join('') + '</div>';
+    if (s.driver) html += '<div class="sc-driver">' + escHtml(s.driver) + '</div>';
+    html += '</div>';
+  }
+  el.innerHTML = html;
+}
+
+async function refreshSectorQuotes(sectors) {
+  try {
+    const codes = sectors.map(function(s){ return s.code; }).filter(Boolean);
+    if (!codes.length) return;
+    const raw = await fetchTencent(codes.join(','));
+    const meta = {};
+    for (const line of raw.split('\n')) {
+      const m = line.match(/v_([^=]+)="([^"]+)"/);
+      if (!m) continue;
+      const f = m[2].split('~');
+      if (f.length < 33) continue;
+      meta[m[1]] = f[32];
+    }
+    for (const s of sectors) {
+      if (!(s.code in meta)) continue;
+      const p = parseFloat(meta[s.code]);
+      if (isNaN(p)) continue;
+      s.livePct = p;
+      const pEl = document.getElementById('scPct_' + s.id);
+      if (pEl) { pEl.textContent = secFmtPct(p); pEl.className = 'sc-pct ' + secPctClass(p); }
+    }
+    setFresh('freshSectors', '实时', 'live');
+  } catch(e) { /* keep static values */ }
+}
+
+function openSectorModal(id) {
+  if (!sectorCache) return;
+  const s = (sectorCache.sectors || []).find(function(x){ return x.id === id; });
+  if (!s) return;
+  const pct = (typeof s.livePct === 'number') ? s.livePct : s.pct;
+  const cls = secPctClass(pct);
+  const asof = (typeof s.livePct === 'number') ? '盘中实时' : ('数据 ' + (sectorCache.asOf || sectorCache.date || ''));
+  let h = '<div class="sector-modal" role="dialog" aria-modal="true">';
+  h += '<button class="sm-close" onclick="closeSectorModal()" aria-label="关闭">✕</button>';
+  h += '<div class="sm-head"><span class="sm-icon">' + (s.icon || '📊') + '</span><span class="sm-name">' + escHtml(s.name) + '</span><span class="sm-etf">' + (s.etf ? escHtml(s.etf) : '') + (s.code ? (' · ' + escHtml(String(s.code).toUpperCase())) : '') + '</span></div>';
+  h += '<div class="sm-pctrow"><span class="sm-pct ' + cls + '">' + secFmtPct(pct) + '</span><span class="sm-asof">' + escHtml(asof) + '</span></div>';
+  if (s.summary) h += '<div class="sm-summary">💡 ' + escHtml(s.summary) + '</div>';
+  if (s.driver) h += '<div class="sm-sec">驱动</div><div class="sm-body"><p>' + escHtml(s.driver) + '</p></div>';
+  if (s.analysis && s.analysis.length) h += '<div class="sm-sec">分析</div><div class="sm-body">' + s.analysis.map(function(x){ return '<p>' + escHtml(x) + '</p>'; }).join('') + '</div>';
+  if (s.watch && s.watch.length) h += '<div class="sm-sec">关注点</div><ul class="sm-watch">' + s.watch.map(function(x){ return '<li>' + escHtml(x) + '</li>'; }).join('') + '</ul>';
+  if (s.risk) h += '<div class="sm-risk">⚠️ 风险提示：' + escHtml(s.risk) + '</div>';
+  h += '<div class="sm-foot">AI 生成 · 仅供研究参考，不构成投资建议</div>';
+  h += '</div>';
+  const mask = document.createElement('div');
+  mask.className = 'sector-modal-mask';
+  mask.id = 'sectorModalWrap';
+  mask.setAttribute('onclick', 'if(event.target===this)closeSectorModal()');
+  mask.innerHTML = h;
+  document.body.appendChild(mask);
+  document.body.style.overflow = 'hidden';
+}
+
+function closeSectorModal() {
+  const w = document.getElementById('sectorModalWrap');
+  if (w) w.remove();
+  document.body.style.overflow = '';
+}
+
 // ─── 基金博主今日操作 ───
 async function renderBloggers() {
   const el = document.getElementById('bloggerOps');
@@ -1047,5 +1147,6 @@ function startAutoRefresh() {
 }
 
 // ─── Init ───
+document.addEventListener('keydown', function(e){ if (e.key === 'Escape') closeSectorModal(); });
 fetchAll();
 startAutoRefresh();

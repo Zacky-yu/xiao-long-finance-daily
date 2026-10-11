@@ -719,7 +719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 01:17:40 +0000",
      "summary": "Aito will continue using CATL batteries across its lineup, with total annual capacity set to exceed 20 GWh after a joint project is completed. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "CATL与Seres签署长期战略协议，扩大Aito电池产能"
+     "zh": "CATL与Seres签署长期战略协议扩大Aito电池产能"
     },
     {
      "title": "Geely Galaxy launches Cruiser 700 to take on BYD, GWM in off-road SUV market",
@@ -879,7 +879,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 18:00:00 -0500",
      "summary": "The cost of shipping crude oil soared to record highs last month as the Iran war reshuffled trade routes and patterns and tied up more tankers in inefficient and lengthy voyages. Supertanker rates soared in September to above $1 million per day on the Persian Gulf to China route—a record high. The S",
      "source": "OilPrice",
-     "zh": "随着石油危机演变成航运危机，油轮运价飙升至创纪录水平"
+     "zh": "石油危机演变成航运危机，油轮运价飙升至创纪录水平"
     },
     {
      "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
@@ -962,12 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "清洁能源超级政治行动委员会确定大选目标名单"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie、LS Power 获得 PJM 快速互联批准 2.1 吉瓦"
+     "zh": "PJM 批准 Engie、LS Power 的 2.1 GW 快速互连"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "第三季度美国电力、天然气公用事业费率请求飙升至 $4.5B：PowerLines"
     },
@@ -2327,7 +2327,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 12:42:57 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "默克公司的实验性眼药在试验中达到了目标，但引发了安全性担忧"
+     "zh": "默克公司的实验性眼药在试验中达到了目标，但引发了安全担忧"
     },
     {
      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
@@ -2392,14 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "第1眼TV-华龙网讯（首席记者 陈美西）10月11日晚，中超联赛休赛一个月后战火重燃，重庆铜梁龙坐镇龙兴足球场迎战传统劲旅山东泰山。经过90分钟激战，双方1:1握手言和。这也是重庆铜梁龙本赛季在龙兴主场的收官之战。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/012F11DED5D02A6A5E973877FD2938C0.jpg\" alt=\"重庆铜梁龙首发阵容。\" width=\"1024\" height=\"683\" data-title=\"重庆铜梁龙首发...",
      "source": "经济观察网",
      "zh": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山"
-    },
-    {
-     "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
-     "link": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 14:50:05 GMT",
-     "summary": "UK prime minister calls for European voters to be better informed about efforts to disrupt democratic process",
-     "source": "Financial Times",
-     "zh": "伯纳姆称俄罗斯“干预”了 2016 年英国脱欧公投"
     },
     {
      "title": "于子迪，不要只成为天才少女",

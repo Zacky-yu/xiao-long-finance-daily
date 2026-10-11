@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/12 01:29:56",
+ "generated_at": "2026/10/12 01:49:55",
  "recent_days": 7,
  "industries": [
   {
@@ -590,7 +590,7 @@
      "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
      "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
      "source": "Robohub",
-     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
+     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与 Kushant Patel"
     },
     {
      "title": "Cevotec brings robotic composite lamination to South Korea with KCompositeLab partnership",
@@ -702,7 +702,7 @@
      "pubDate": "Sun, 11 Oct 2026 12:16:33 +0000",
      "summary": "Mitusbishi’s North American dealers have been trudging along with an aging, badge-engineered model line for years – but overseas? It’s a different story, and the 459 hp all-wheel drive ASX VR-e electric hot hatch shown here is plug-in proof. more…",
      "source": "Electrek",
-     "zh": "459 马力、3.9 秒内从 0 加速到 60 英里以及全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
+     "zh": "459 马力、3.9 秒内从 0-60 英里加速和全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
     },
     {
      "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
@@ -726,7 +726,7 @@
      "pubDate": "Sat, 10 Oct 2026 14:07:06 +0000",
      "summary": "The limited-time price of the Cruiser 700, including a trade-in subsidy, is 169,800 yuan ($25,220), and firm orders exceeded 10,000 units within the first 12 minutes. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "吉利银河推出漫步者700 挑战比亚迪、长城 越野SUV市场"
+     "zh": "吉利银河推出漫步者700 与比亚迪、长城汽车争夺越野SUV市场"
     },
     {
      "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
@@ -862,7 +862,7 @@
      "pubDate": "Sun, 11 Oct 2026 10:00:00 -0500",
      "summary": "Australia has long been known for its strong coal industry, being one of the world’s largest producers and exporters. While much of the world moves away from coal in favour of cleaner energy sources, Australia is doubling down on its coal production, with plans to extend the life of coal operations ",
      "source": "OilPrice",
-     "zh": "尽管有巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
+     "zh": "尽管巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
     },
     {
      "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
@@ -1134,7 +1134,7 @@
      "pubDate": "Fri, 09 Oct 2026 21:03:52 +0000",
      "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
      "source": "STAT News",
-     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥首要作用"
+     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥重要作用"
     },
     {
      "title": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
@@ -1382,7 +1382,7 @@
      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
      "summary": "Seattle-based Kapta Space announced a $24M Series A to build next-gen radar payloads designed to track moving targets. The post Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：Kapta Space A 轮融资 2400 万美元，用于构建移动目标雷达有效载荷"
+     "zh": "独家：Kapta Space 筹集了 2400 万美元的 A 轮融资，用于构建移动目标雷达有效载荷"
     },
     {
      "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
@@ -1606,7 +1606,7 @@
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击"
+     "zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击"
     },
     {
      "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -1729,6 +1729,14 @@
    "total": 18,
    "items": [
     {
+     "title": "苹果终于要给MacBook加触屏了，这次为什么不一样？",
+     "link": "https://www.huxiu.com/article/4896654.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 01:40:17 +0800",
+     "summary": "本文来自微信公众号： Linda产业笔记 ，作者：Linda 梁领 苹果有一句流传很广的内部信条，Mac用键盘，iPad用手指，谁也别碰谁的地盘。 蒂姆·库克在公开场合把触屏笔记本比作“把烤面包机和冰箱绑在一起”。这句话说了十年，苹果的产品经理们也执行了十年，直到今年10月。 据彭博社报道，苹果将在10月27日前后发布第一台支持触控操作的MacBook Pro。OLED屏幕、灵动岛、更薄的机身，全部一次性上齐。MacBook Pro自2021年以来最大的一次重新设计。 这条规则，苹果守了十年 苹果拒绝触屏笔记本这么多年，跟技术能力没有关系。 苹果在触屏技术上的专利储备可以追溯到十几年前。iPh",
+     "source": "虎嗅",
+     "zh": "苹果终于要给MacBook加触屏了，这次为什么不一样？"
+    },
+    {
      "title": "华为“造车”，不能只有掌声",
      "link": "https://www.huxiu.com/article/4896653.html?f=rss",
      "pubDate": "Mon, 12 Oct 2026 01:24:47 +0800",
@@ -1737,12 +1745,28 @@
      "zh": "华为“造车”，不能只有掌声"
     },
     {
+     "title": "Why we're watching these climate tech companies",
+     "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+     "pubDate": "Sun, 11 Oct 2026 17:18:21 +0000",
+     "summary": "Article URL: https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/ Comments URL: https://news.ycombinator.com/item?id=50045480 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "为什么我们关注这些气候科技公司"
+    },
+    {
      "title": "足球经济学：英超需要什么样的规则",
      "link": "https://www.huxiu.com/article/4896652.html?f=rss",
      "pubDate": "Mon, 12 Oct 2026 01:16:37 +0800",
      "summary": "本文来自微信公众号： 橙竹洞见 ，作者：竺大炜 再谈谈曼城案。 现在，抗辩已经进入咬文嚼字、死抠规则的阶段，争论这些资金究竟属于政府投资，还是老板自己的投入。 其实我们都知道，钱到底是谁的。 这也正如曼城的9320：阵容里有阿奎罗，教练是曼奇尼。 这些都是明牌。 只是，今天放在规则下面，一条条再来过。 所以，与其纠结违规的过程细节，不如换一个角度，从经济学的角度，来看看规则本身。 美国法学家理查德·波斯纳在《法律的经济分析》中，尝试用经济学的方法审视法律制度。 他不只讨论法律是否公平、正义，还关注法律作为一种社会治理工具，如何改变人的行为、产生什么样的成本，以及有没有更有效的制度安排。 一个典",
      "source": "虎嗅",
      "zh": "足球经济学：英超需要什么样的规则"
+    },
+    {
+     "title": "apsw: Another Python SQLite Wrapper",
+     "link": "https://github.com/rogerbinns/apsw",
+     "pubDate": "Sun, 11 Oct 2026 16:58:22 +0000",
+     "summary": "Article URL: https://github.com/rogerbinns/apsw Comments URL: https://news.ycombinator.com/item?id=50045273 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "apsw：另一个 Python SQLite 包装器"
     },
     {
      "title": "职场不能太积极负责？错！ 正确做法是会挑活、会说不，不要来者不拒",
@@ -1777,26 +1801,10 @@
      "zh": "Yandex 表示，无人机袭击关闭了第三个数据中心，中断了 Yandex Cloud 和 YandexGPT 等 80 多项服务；用户报告银行和出租车应用程序中断（Tymur Dubovyk/基辅邮报）"
     },
     {
-     "title": "16亿拟出售近九成资产，又一环保上市公司陷入经营困局",
-     "link": "https://www.huxiu.com/article/4896648.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 00:09:12 +0800",
-     "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 环保行业这些年有一个很牢固的认识： 工程生意太累，运营才是好生意。 但行业现状与这一认识之间出现了较大偏差。 9月29日，联泰环保披露重大资产出售预案，拟以16.11亿元，将湖南联泰100%股权和汕头联泰100%股权出售给上实晢杰。后者是上海上实（集团）旗下全资企业，实际控制人为上海市国资委。 这不是一次边角资产清理。 按照2025年数据，两家标的公司合计资产87.79亿元，相当于联泰环保同期总资产的88.17%；合计营业收入8.31亿元，占上市公司营收的81.44%。 换句话说，如果交易最终完成，联泰环保相当于把自己过去多年积累下来的大",
-     "source": "虎嗅",
-     "zh": "16亿拟出售近九成资产，又一环保上市公司陷入经营困局"
-    },
-    {
-     "title": "The Corporate Happiness Treadmill and the Case for Doing Less",
-     "link": "https://0xff.nu/corp-burnout/",
-     "pubDate": "Sun, 11 Oct 2026 16:06:02 +0000",
-     "summary": "Article URL: https://0xff.nu/corp-burnout/ Comments URL: https://news.ycombinator.com/item?id=50044733 Points: 39 # Comments: 35",
-     "source": "Hacker News",
-     "zh": "企业幸福跑步机和少做事的理由"
-    },
-    {
      "title": "How to Build Wealth as a Career Person",
      "link": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
      "pubDate": "Sun, 11 Oct 2026 16:03:58 +0000",
-     "summary": "Article URL: https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/ Comments URL: https://news.ycombinator.com/item?id=50044715 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/ Comments URL: https://news.ycombinator.com/item?id=50044715 Points: 12 # Comments: 3",
      "source": "Hacker News",
      "zh": "作为职业人士如何积累财富"
     },
@@ -1820,7 +1828,7 @@
      "title": "How I reverse engineered a commercial spatial audio effect",
      "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
      "pubDate": "Sun, 11 Oct 2026 15:21:58 +0000",
-     "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/ Comments URL: https://news.ycombinator.com/item?id=50044272 Points: 23 # Comments: 9",
+     "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/ Comments URL: https://news.ycombinator.com/item?id=50044272 Points: 26 # Comments: 9",
      "source": "Hacker News",
      "zh": "我如何逆向设计商业空间音频效果"
     },
@@ -1892,7 +1900,7 @@
      "title": "I'm sorry, but you still have to think",
      "link": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
      "pubDate": "Sun, 11 Oct 2026 14:29:07 +0000",
-     "summary": "Article URL: https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/ Comments URL: https://news.ycombinator.com/item?id=50043689 Points: 29 # Comments: 3",
+     "summary": "Article URL: https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/ Comments URL: https://news.ycombinator.com/item?id=50043689 Points: 60 # Comments: 13",
      "source": "Hacker News",
      "zh": "对不起，但你还是要想想"
     },
@@ -1900,9 +1908,9 @@
      "title": "Documents add to evidence in climate deception case against ExxonMobil",
      "link": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
      "pubDate": "Sun, 11 Oct 2026 14:28:39 +0000",
-     "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 320 # Comments: 162",
+     "summary": "Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/ Comments URL: https://news.ycombinator.com/item?id=50043682 Points: 324 # Comments: 167",
      "source": "Hacker News",
-     "zh": "文件增加了针对埃克森美孚的气候欺骗案的证据"
+     "zh": "文件为针对埃克森美孚的气候欺骗案提供了证据"
     },
     {
      "title": "英国水果蔬菜营养价值下降最高五成",
@@ -1959,14 +1967,6 @@
      "summary": "对一家区域银行而言，认识城市的产业，理解企业的经营，陪伴居民的财富需求，仍是最有可能持续积累的能力。",
      "source": "钛媒体",
      "zh": "城商行，走进分化时代"
-    },
-    {
-     "title": "PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes (Rafe Rosner-Uddin/Financial Times)",
-     "link": "https://www.techmeme.com/261011/p6#a261011p6",
-     "pubDate": "Sun, 11 Oct 2026 09:00:51 -0400",
-     "summary": "Rafe Rosner-Uddin / Financial Times : PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes &nbsp; &mdash;&nbsp; &lsquo;Physical AI&rsquo; developers are putting cameras in homes, offices and fa",
-     "source": "Techmeme",
-     "zh": "PitchBook：机器人和物理人工智能公司今年迄今已经筹集了约 48B 美元，因为他们从在工厂、办公室和家庭中完成任务的人们那里收集训练数据（Rafe Rosner-Uddin/金融时报）"
     }
    ]
   },
@@ -1976,6 +1976,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The original Apple TV 4K from 2017 is now officially \"vintage\"",
+     "link": "https://www.gsmarena.com/the_original_apple_tv_4k_from_2017_is_now_officially_vintage-news-74992.php",
+     "pubDate": "Sun, 11 Oct 2026 19:31:02 +0200",
+     "summary": "The smart streaming box/stick market is a bit weird for sure. There are all sorts of options out there, but each with distinct problems and limitations. Generic Android boxes are plentiful and can be powerful, but often offer a suboptimal software experience and format and technology support. There ",
+     "source": "GSMArena",
+     "zh": "2017 年的原版 Apple TV 4K 现在正式“复古”"
+    },
     {
      "title": "Kuxiu’s D5 charger now comes in Burgundy to perfectly match your iPhone 18 Pro",
      "link": "https://9to5mac.com/2026/10/11/kuxius-d5-charger-now-comes-in-burgundy-to-perfectly-match-your-iphone-18-pro/",
@@ -2014,7 +2022,7 @@
      "pubDate": "Sun, 11 Oct 2026 16:15:00 +0000",
      "summary": "If you have a lot of cameras in your home, get ready to pay for more expensive iCloud+ plans.",
      "source": "Engadget",
-     "zh": "Apple Home 针对安全摄像头的新人工智能摘要的成本比你想象的要高"
+     "zh": "Apple Home 针对安全摄像头的新人工智能摘要成本比你想象的要高"
     },
     {
      "title": "Here's how long your Google Pixel phone will get software updates",
@@ -2102,7 +2110,7 @@
      "pubDate": "Sun, 11 Oct 2026 13:31:02 +0200",
      "summary": "While Amazon’s Prime Big Deal Days have wrapped up, discounts are still available on several smartphones. In fact, some devices that received few or no notable discounts during the sale are now available at reduced prices. Samsung’s Galaxy S26 Ultra, Apple’s iPhone 17 Pro lineup, and the entire Goog",
      "source": "GSMArena",
-     "zh": "特惠：三星、苹果、谷歌旗舰手机大优惠"
+     "zh": "特惠：三星、苹果、谷歌旗舰手机大幅折扣"
     },
     {
      "title": "I’ve tried all the major to-do list apps but keep coming back to this one",
@@ -2185,14 +2193,6 @@
      "zh": "Googlebook 改进“Better Together”Android 同步功能，三星支持推出"
     },
     {
-     "title": "Xiaomi Watch S5 review",
-     "link": "https://www.gsmarena.com/xiaomi_watch_s5_review-news-73952.php",
-     "pubDate": "Sun, 11 Oct 2026 02:02:02 +0200",
-     "summary": "Introduction, unboxing People love the Xiaomi Watch S models and with good reason. They're affordable (€150 from Amazon), they're feature-rich and capable, but probably more important than anything else, they're great-looking. Model five is no different and, this editor argues, is even prettier than",
-     "source": "GSMArena",
-     "zh": "小米手表S5评测"
-    },
-    {
      "title": "Samsung has updated these Galaxy devices to Android 17",
      "link": "https://9to5google.com/2026/10/10/samsung-galaxy-android-17-update-list/",
      "pubDate": "Sat, 10 Oct 2026 20:58:26 +0000",
@@ -2225,12 +2225,60 @@
    "total": 13,
    "items": [
     {
+     "title": "防御配置需求升温 红利基金密集限购",
+     "link": "http://fund.eastmoney.com/news/11246,202610123892134851.html",
+     "pubDate": "Mon, 12 Oct 2026 01:37:29 +0800",
+     "summary": "防御配置需求升温 红利基金密集限购 近期，公募红利主题产品热度全面攀升。一方面，多只存量红利基金发布限购公告，也有新产品提前结束募集；另一方面，多款红利主题新品接连申报、启动发行，行业扩容节奏显著提速。部分机构认为，在当前较为震荡的市场环境中，盈利确定性强、现金流充沛的红利资产或成为资金相对稳健的选择，有望在成长与价值风格的再平衡中走强。 红利基金掀起“限购潮” 国庆节过后，红利基金掀起一轮“限购潮”。10月9日，银河基金发布公告，将旗下银河中证红利低波动100指数、银河上证国有企业红利ETF发起式联接基金的单日申购限额设定为100万元，自10月13日起恢复办理大额申购、定期定额投资及转换转入",
+     "source": "东方财富股票",
+     "zh": "防御配置需求升温 红利基金密集限购"
+    },
+    {
+     "title": "‘Other Mommy’ tops weekend box office with $27M, domestic ticket sales cross $8B",
+     "link": "https://seekingalpha.com/news/4651938-other-mommy-tops-weekend-box-office-with-27m-domestic-ticket-sales-cross-8b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 11 Oct 2026 13:35:01 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "《另一个妈妈》周末票房达 2700 万美元，国内票房突破 8B 美元"
+    },
+    {
+     "title": "伊朗高官称美国回应不够充分",
+     "link": "http://finance.eastmoney.com/news/1351,202610123892135482.html",
+     "pubDate": "Mon, 12 Oct 2026 01:25:19 +0800",
+     "summary": "据伊朗媒体当地时间10月11日晚报道，伊朗最高国家安全委员会秘书雷扎伊表示，美国针对伊朗提出的重开霍尔木兹海峡的条件所作出的回应“不够充分”，需要就伊朗仍存疑虑的问题作出澄清。 雷扎伊说：“我们向美方提出了七项条件，并明确表示，在这些条件得到满足之前，霍尔木兹海峡不会开放，伊朗也不会进行任何谈判。”据他说，美方已接受了伊朗的部分条件，但对其他条件仍不明确。 伊朗外长阿拉格齐10月8日曾表示，伊朗向美方提出一项旨在化解分歧的方案，即“七日计划”——若美方采纳该方案并满足相关条件，霍尔木兹海峡可在七天内重新开放，恢复正常海运。阿拉格齐当时称伊朗在评估美方对该提议的回应，并将作出回复。 （文章来源：",
+     "source": "东方财富股票",
+     "zh": "伊朗高官称美国回应不够充分"
+    },
+    {
      "title": "Starknet coin surges as developer weighs Ethereum split over quantum security",
      "link": "https://seekingalpha.com/news/4651937-starknet-coin-surges-as-developer-weighs-ethereum-split-over-quantum-security?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 11 Oct 2026 13:22:27 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "随着开发商权衡以太坊在量子安全问题上的分歧，Starknet 代币飙升"
+    },
+    {
+     "title": "俄罗斯国家原子能公司表示：目前已有135名俄方工作人员返回伊朗布什尔核电站 此前在2月撤离后留守的约有20人",
+     "link": "http://finance.eastmoney.com/news/11790,202610123892135360.html",
+     "pubDate": "Mon, 12 Oct 2026 01:19:41 +0800",
+     "summary": "俄罗斯国家原子能公司表示，目前已有135名俄方工作人员返回伊朗布什尔核电站，此前在2月撤离后留守的约有20人。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "俄罗斯国家原子能公司表示：目前已有135名俄方工作人员返回伊朗布什尔核电站 此前在2月撤离后留守的约有20人"
+    },
+    {
+     "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
+     "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
+     "pubDate": "Sun, 11 Oct 2026 17:19:36 GMT",
+     "summary": "Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin",
+     "source": "Financial Times",
+     "zh": "美国因俄罗斯炼油厂遇袭威胁停止向乌克兰提供武器"
+    },
+    {
+     "title": "Can Russia meet Trump’s diesel demands?",
+     "link": "https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1",
+     "pubDate": "Sun, 11 Oct 2026 17:13:56 GMT",
+     "summary": "Ukrainian strikes have triggered the worst petrol shortages since the collapse of the Soviet Union but diesel is not in short supply",
+     "source": "Financial Times",
+     "zh": "俄罗斯能满足特朗普的柴油需求吗？"
     },
     {
      "title": "Roche's experimental eye drug shows vision improvements in trials",
@@ -2255,46 +2303,6 @@
      "summary": "■机构展望 外部扰动不改A股内在韧性 机构建议聚焦业绩确定性标的 国庆假期后，A股市场出现一定幅度调整。但在10月9日，A股上演“V”形反转，沪指3800点关口失而复得，多只宽基ETF迎来成交大幅放量行情。本周多家券商在策略展望报告中研判，经历连续调整后，当前市场悲观情绪已得到较充分消化，叠加国内政策持续托底，短期扰动不改A股内在韧性。后续随着三季报披露窗口开启，10月A股仍存在结构性修复机会，业绩兑现将成为市场定价的核心锚点。 外部扰动不改A股内在韧性 国庆假期后A股行情震荡走弱，科技板块成为调整重心。对此， 中信建投证券 分析称，外部扰动是调整的直接因素，其根本原因是A股处于第二波杠杆结构",
      "source": "东方财富股票",
      "zh": "外部扰动不改A股内在韧性 机构建议聚焦业绩确定性标的"
-    },
-    {
-     "title": "长端美债收益率高企 机构热议全球科技股后市走向",
-     "link": "http://finance.eastmoney.com/news/1346,202610123892134564.html",
-     "pubDate": "Mon, 12 Oct 2026 00:57:04 +0800",
-     "summary": "长端美债收益率高企 机构热议全球科技股后市走向 在利率与AI盈利相互交织的背景下，市场关注点正从单一叙事转向两者之间的赛跑。业内人士表示，今年二季报显示，美国市场多个大型云厂商出现大额负现金流，为弥补自由现金流不足，企业开始大规模发债。在乐观的情景下，如果AI叙事持续推进，科技公司盈利能力强劲，或能帮助抵消较高利率的压力。 进入10月，全球债券市场遭遇一轮抛售，美债收益率与美元指数同步飙升，双双徘徊于高位。长端利率高企之下，全球科技股后市走向引发机构观点交锋：乐观者认为AI叙事远未结束，行业仍具备强劲的基本面支撑；审慎者则警示高利率、强美元带来的估值压制与去杠杆风险，认为利率高位波动仍是风险资",
-     "source": "东方财富股票",
-     "zh": "长端美债收益率高企 机构热议全球科技股后市走向"
-    },
-    {
-     "title": "Oil chiefs pull out of Riyadh energy congress after airport missile strike",
-     "link": "https://www.ft.com/content/a01776ea-4a12-4195-8820-e43a885ba5fe?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 16:56:50 GMT",
-     "summary": "BP and others skip World Petroleum Council meeting after 12 killed in Houthi attack",
-     "source": "Financial Times",
-     "zh": "机场导弹袭击后石油巨头退出利雅得能源大会"
-    },
-    {
-     "title": "新商圈赋能文商旅融合 这个长假，广州实现“流量”变“留量”",
-     "link": "http://stock.eastmoney.com/news/1437,202610123892135143.html",
-     "pubDate": "Mon, 12 Oct 2026 00:56:23 +0800",
-     "summary": "广州K11打造广州首届超级汉堡节。 2026年国庆假期，广州又双叒上热搜了！多家在线旅游平台数据显示，国庆假期，广州位居热门旅游目的地榜单前列。美团数据显示，广州一举登顶全国夜游搜索热度城市榜首，与此同时，“广州徒步”搜索量同比暴涨80%。 同程旅行 平台数据也印证了这一趋势，主题乐园夜场等夜游项目搜索热度居高不下。飞猪数据显示，广州是旅游预订最为热门的城市之一。去哪儿旅行数据显示，广州上榜“双节”期间 酒店 预订量最高的热门城市之一。这个国庆假期，广州人气、消费双旺，累计接待游客1605万人次，实现文旅消费总额145亿元。 人气旺网友直呼：“感觉有1亿人来广州” 这个国庆假期，广州一口气推出",
-     "source": "东方财富股票",
-     "zh": "新商圈赋能文商旅融合 这个长假，广州实现“流量”变“留量”"
-    },
-    {
-     "title": "安徽合力杨安国：以创新驱动角色重塑 叉车加速转向“智慧物流节点”",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892134347.html",
-     "pubDate": "Mon, 12 Oct 2026 00:56:12 +0800",
-     "summary": "安徽合力 杨安国： 以创新驱动角色重塑 叉车加速转向“ 智慧物流 节点” 1996年10月， 安徽合力 登陆资本市场，成为国内叉车行业首家上市公司。如今，这家拥有近七十年历史的地方国企正站在新的起点上：营收近200亿元，海外收入占比约45%，电动产品销量占比约74%，主要经济指标连续35年位居国内行业首位，产销规模从累计1万台走到月产销超过3万台…… 上市三十年，一家地方国企如何穿越多轮经济周期持续领跑？在新起点上，距离“世界一流”还有多远？近日，上海证券报记者专访了 安徽合力 董事长杨安国。 一件事：三十年不赶风追风 杨安国将公司过去三十年的发展归结为“四个始终”：始终坚守实业、聚焦主业；始",
-     "source": "东方财富股票",
-     "zh": "安徽合力杨安国：以创新驱动角色重塑 叉车加速转向“智慧物流节点”"
-    },
-    {
-     "title": "发挥专业能力赋能实体经济深化跨境服务助力高水平对外开放",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892134241.html",
-     "pubDate": "Mon, 12 Oct 2026 00:56:05 +0800",
-     "summary": "发挥专业能力赋能实体经济 深化跨境服务助力高水平对外开放 □ 平安证券党委书记、董事长何之江 金融是国民经济的血脉，是国家核心竞争力的重要组成部分。证券公司作为资本市场核心中介，始终坚守金融服务实体经济本源，主动服务国家重大战略，坚持把功能性放在首位，以专业能力赋能实体经济，将责任担当融入服务实体经济全流程。 当前，我国资本市场正加速融入全球金融体系，高水平对外开放纵深推进。平安证券深入践行金融工作的政治性、人民性，聚焦主责主业，坚定践行“精品投行”战略，致力于成为有温度的证券平台服务商，积极引导社会资本投向战略性新兴产业，持续助力实体经济提质增效、产业结构优化升级、对外开放纵深推进。 聚焦主",
-     "source": "东方财富股票",
-     "zh": "发挥专业能力赋能实体经济深化跨境服务助力高水平对外开放"
     },
     {
      "title": "岂能让消费者替“速成车”补上测试课",
@@ -2345,14 +2353,6 @@
      "zh": "马尔科·科拉诺维奇称特朗普的能源停火是“骗局”，汤姆·李认为可能缓解通胀"
     },
     {
-     "title": "BridgeBio reports improved symptoms in Phase 3 trial of rare-disease drug",
-     "link": "https://seekingalpha.com/news/4651932-bridgebio-reports-improved-symptoms-in-phase-3-trial-of-rare-disease-drug?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 11 Oct 2026 12:09:22 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BridgeBio 报告罕见病药物 3 期试验中症状有所改善"
-    },
-    {
      "title": "财险公司保险产品开发迎新规 附加险管理进一步规范",
      "link": "http://www.eeo.com.cn/2026/1011/1061171.shtml",
      "pubDate": "Sun, 11 Oct 2026 23:52:11 +0800",
@@ -2391,6 +2391,14 @@
      "summary": "第1眼TV-华龙网讯（首席记者 陈美西）10月11日晚，中超联赛休赛一个月后战火重燃，重庆铜梁龙坐镇龙兴足球场迎战传统劲旅山东泰山。经过90分钟激战，双方1:1握手言和。这也是重庆铜梁龙本赛季在龙兴主场的收官之战。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/012F11DED5D02A6A5E973877FD2938C0.jpg\" alt=\"重庆铜梁龙首发阵容。\" width=\"1024\" height=\"683\" data-title=\"重庆铜梁龙首发...",
      "source": "经济观察网",
      "zh": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山"
+    },
+    {
+     "title": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
+     "link": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1",
+     "pubDate": "Sun, 11 Oct 2026 14:50:05 GMT",
+     "summary": "UK prime minister calls for European voters to be better informed about efforts to disrupt democratic process",
+     "source": "Financial Times",
+     "zh": "伯纳姆称俄罗斯“干预”了 2016 年英国脱欧公投"
     },
     {
      "title": "于子迪，不要只成为天才少女",
@@ -2455,14 +2463,6 @@
      "summary": "Commissioner Adam Silver says the NBA could begin using a new \"smart ball\" in games as soon as next year, potentially transforming how officials make calls.",
      "source": "CNBC",
      "zh": "NBA总裁亚当·萧华表示联盟最早可能在明年引入“智能球”技术"
-    },
-    {
-     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 12:30:00 GMT",
-     "summary": "“I presume these are sophisticated investors taking a profit.”",
-     "source": "MarketWatch",
-     "zh": "“我感觉自己像个失败者”：我的股票投资组合剧烈波动。终于到了担心的时候了吗？"
     }
    ]
   },

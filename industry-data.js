@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 05:49:56",
+ "generated_at": "2026/10/12 06:06:22",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
+     "link": "https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/",
+     "pubDate": "Sun, 11 Oct 2026 21:43:41 +0000",
+     "summary": "vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one call, without generating text. The post What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models appeared fir",
+     "source": "MarkTechPost",
+     "zh": "什么是决策3.0？ vLLM 语义路由器的新开放决策模型"
+    },
     {
      "title": "Will the HomeView be Apple’s first smart home success?",
      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text appeared first on MarkT",
      "source": "MarkTechPost",
      "zh": "Nace AI 开源 Drex 1.5：对选项而不是文本进行评分的 9B 决策模型"
-    },
-    {
-     "title": "王虹攻下的三维挂谷猜想，OpenAI放出175页四维证明稿！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733338&idx=1&sn=58f4348bb905cc6ecbbb4a0b1cfca986",
-     "pubDate": "Sat, 10 Oct 2026 08:55:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "王虹攻下的三维挂谷猜想，OpenAI放出175页四维证明稿！"
     }
    ]
   },
@@ -346,6 +346,14 @@ window.INDUSTRY_DATA = {
      "zh": "Hyper-NA EUV：芯片制造的下一个前沿可能在 2036 年到来"
     },
     {
+     "title": "Jury still out in Qualcomm vs Arm case",
+     "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
+     "pubDate": "Sat, 10 Oct 2026 07:20:41 +0000",
+     "summary": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "高通 vs Arm 案尚无定论"
+    },
+    {
      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
      "pubDate": "Fri, 09 Oct 2026 22:00:00 +0000",
@@ -362,6 +370,14 @@ window.INDUSTRY_DATA = {
      "zh": "固态变压器：加速您的 SST 设计"
     },
     {
+     "title": "Defence satcom revenues to surpass $23bn by 2035",
+     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
+     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
+     "source": "Electronics Weekly",
+     "zh": "到 2035 年，国防卫星通信收入将超过 230 亿美元"
+    },
+    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
@@ -370,12 +386,44 @@ window.INDUSTRY_DATA = {
      "zh": "连接小芯片还不够——解决多芯片系统中的数据移动挑战"
     },
     {
+     "title": "Axiom Space highlights space computing progress",
+     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
+     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
+     "source": "Electronics Weekly",
+     "zh": "Axiom Space 凸显太空计算进展"
+    },
+    {
+     "title": "The Single-Chip PC",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
+     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "单片机"
+    },
+    {
      "title": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge",
      "link": "https://www.eetimes.com/u-s-manufacturing-activity-sustains-growth-in-september-as-backlogs-surge/",
      "pubDate": "Fri, 09 Oct 2026 12:11:04 +0000",
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "由于积压订单激增，美国 9 月份制造业活动持续增长"
+    },
+    {
+     "title": "Failure analysis in the era of 3D integration",
+     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
+     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "3D集成时代的失效分析"
+    },
+    {
+     "title": "Automotive SBRFP devices feature avalanche energy ratings up to 145mJ",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/automotive-sbrfp-devices-feature-avalanche-energy-ratings-up-to-145mj-2026-10/",
+     "pubDate": "Fri, 09 Oct 2026 09:34:19 +0000",
+     "summary": "Diodes has announced its family of field-plated Super Barrier Rectifier (SBRFP) products that are automotive-compliant (AEC-Q101). The family comprises the 2A SBRFP2M60P1Q and SBRFP2M60SAFQ, the 3A SBRFP3M60SAFQ, and the 8A […] The post Automotive SBRFP devices feature avalanche energy ratings up to",
+     "source": "Electronics Weekly",
+     "zh": "汽车 SBRFP 器件的雪崩能量额定值高达 145mJ"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "缩小可见性差距"
-    },
-    {
-     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
-     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
-     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
-     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "从芯片到系统：重新定义竞争优势，第 3 部分"
-    },
-    {
-     "title": "Shift Left Complicates Fab Data Management",
-     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
-     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
-     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "左移使晶圆厂数据管理变得复杂"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design 将 HAROLD QD 量子点激光模拟器的运行时间减半并提高精度"
-    },
-    {
-     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
-     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
-     "source": "Semiconductor Today",
-     "zh": "KnowMade 表示，2026 年第二季度新 RF GaN 专利系列的大部分都在中国"
-    },
-    {
-     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
-     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
-     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "美国刚刚在量子芯片制造上投入 10 亿美元"
-    },
-    {
-     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
-     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
-     "source": "Semiconductor Today",
-     "zh": "KnowMade 报告称，2026 年第二季度由工业受让人主导的功率 GaN 专利申请"
     }
    ]
   },
@@ -591,7 +591,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
      "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
      "source": "Robohub",
-     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
+     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与 Kushant Patel"
     },
     {
      "title": "Cevotec brings robotic composite lamination to South Korea with KCompositeLab partnership",
@@ -719,7 +719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 12:16:33 +0000",
      "summary": "Mitusbishi’s North American dealers have been trudging along with an aging, badge-engineered model line for years – but overseas? It’s a different story, and the 459 hp all-wheel drive ASX VR-e electric hot hatch shown here is plug-in proof. more…",
      "source": "Electrek",
-     "zh": "459 马力、3.9 秒内从 0 加速到 60 英里以及全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
+     "zh": "459 马力、3.9 秒内从 0-60 英里加速和全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
     },
     {
      "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
@@ -735,7 +735,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 01:17:40 +0000",
      "summary": "Aito will continue using CATL batteries across its lineup, with total annual capacity set to exceed 20 GWh after a joint project is completed. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "CATL与Seres签署长期战略协议扩大Aito电池产能"
+     "zh": "CATL与Seres签署长期战略协议，扩大Aito电池产能"
     },
     {
      "title": "Geely Galaxy launches Cruiser 700 to take on BYD, GWM in off-road SUV market",
@@ -962,12 +962,12 @@ window.INDUSTRY_DATA = {
      "zh": "清洁能源超级政治行动委员会确定大选目标名单"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM 批准 Engie、LS Power 的 2.1 GW 快速互连"
+     "zh": "Engie、LS Power 获得 PJM 快速互联批准 2.1 吉瓦"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "第三季度美国电力、天然气公用事业费率请求飙升至 $4.5B：PowerLines"
     },
@@ -1143,7 +1143,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 21:03:52 +0000",
      "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
      "source": "STAT News",
-     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥重要作用"
+     "zh": "STAT+：生物技术领导者、领先的实验室泄漏理论家不再考虑在传染病中发挥首要作用"
     },
     {
      "title": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
@@ -1727,13 +1727,13 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 17:20:01 -0400",
      "summary": "Wall Street Journal : Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September &nbsp; &mdash;&nbsp; San Francisco company's software makes it easier for developers to switch between different AI c",
      "source": "Techmeme",
-     "zh": "消息来源：亚马逊正在洽谈收购人工智能初创公司 Decart，这笔交易的估值可能约为 70 亿美元； Anthropic 决定不于 9 月份以约 6B 美元的价格收购 Decart（华尔街日报）"
+     "zh": "消息来源：亚马逊正在洽谈收购人工智能初创公司 Decart，这笔交易的估值可能约为 7B 美元； Anthropic 决定不于 9 月份以约 6B 美元的价格收购 Decart（华尔街日报）"
     },
     {
      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
      "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
      "pubDate": "Sun, 11 Oct 2026 21:07:20 +0000",
-     "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 29 # Comments: 6",
+     "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 44 # Comments: 18",
      "source": "Hacker News",
      "zh": "一名远程员工每天拒绝 160 张网络摄像头照片。她的雇主解雇了她"
     },
@@ -1757,31 +1757,31 @@ window.INDUSTRY_DATA = {
      "title": "The gap in shared understanding of LLM capability is widening",
      "link": "https://twitter.com/karpathy/status/2109361546505966046",
      "pubDate": "Sun, 11 Oct 2026 20:20:52 +0000",
-     "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 36 # Comments: 9",
+     "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 57 # Comments: 27",
      "source": "Hacker News",
      "zh": "对 LLM 能力的共识差距正在扩大"
+    },
+    {
+     "title": "Fetching AMD SEV Reports (With Zig)",
+     "link": "https://bschaatsbergen.com/posts/zig-sev-guest/",
+     "pubDate": "Sun, 11 Oct 2026 20:10:55 +0000",
+     "summary": "Article URL: https://bschaatsbergen.com/posts/zig-sev-guest/ Comments URL: https://news.ycombinator.com/item?id=50047323 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "获取 AMD SEV 报告（使用 Zig）"
     },
     {
      "title": "Cartographers of North Korea",
      "link": "https://cartographers-nk.wonyoung.so/",
      "pubDate": "Sun, 11 Oct 2026 19:46:40 +0000",
-     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 85 # Comments: 8",
+     "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 93 # Comments: 9",
      "source": "Hacker News",
      "zh": "朝鲜制图师"
-    },
-    {
-     "title": "Artificial Insanity",
-     "link": "https://richwhitehouse.com/index.php?postid=78",
-     "pubDate": "Sun, 11 Oct 2026 19:44:45 +0000",
-     "summary": "Article URL: https://richwhitehouse.com/index.php?postid=78 Comments URL: https://news.ycombinator.com/item?id=50047071 Points: 49 # Comments: 49",
-     "source": "Hacker News",
-     "zh": "人工疯狂"
     },
     {
      "title": "Do You Have Pre-2012 Onion Issues?",
      "link": "https://theonion.com/archivehunt/",
      "pubDate": "Sun, 11 Oct 2026 19:43:32 +0000",
-     "summary": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 160 # Comments: 14",
+     "summary": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 168 # Comments: 17",
      "source": "Hacker News",
      "zh": "2012 年之前的洋葱有问题吗？"
     },
@@ -1789,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "The Unreasonable Effectiveness of Vex in NixOS",
      "link": "https://blog.kammel.dev/post/nixos_vex/",
      "pubDate": "Sun, 11 Oct 2026 19:23:07 +0000",
-     "summary": "Article URL: https://blog.kammel.dev/post/nixos_vex/ Comments URL: https://news.ycombinator.com/item?id=50046864 Points: 28 # Comments: 0",
+     "summary": "Article URL: https://blog.kammel.dev/post/nixos_vex/ Comments URL: https://news.ycombinator.com/item?id=50046864 Points: 34 # Comments: 0",
      "source": "Hacker News",
      "zh": "NixOS 中 Vex 的不合理有效性"
     },
@@ -1970,6 +1970,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Is 3D printing safe to do in your bedroom or home office?",
+     "link": "https://www.engadget.com/2281211/bedroom-home-office-3d-printing-safety-concerns/",
+     "pubDate": "Sun, 11 Oct 2026 22:00:00 +0000",
+     "summary": "3D printers are everywhere, but where one should be placed in your home is something worth looking into.",
+     "source": "Engadget",
+     "zh": "在卧室或家庭办公室进行 3D 打印安全吗？"
+    },
+    {
      "title": "New insider tip claims the Samsung Galaxy S27 Ultra will only be available with a Qualcomm chipset",
      "link": "https://www.gsmarena.com/new_insider_tip_claims_the_samsung_galaxy_s27_ultra_will_only_be_available_with_a_qualcomm_chipset-news-74995.php",
      "pubDate": "Sun, 11 Oct 2026 22:31:02 +0200",
@@ -2050,14 +2058,6 @@ window.INDUSTRY_DATA = {
      "zh": "为什么强磁铁会阻碍 iPhone 的后置摄像头"
     },
     {
-     "title": "Apple's smart home hub will reportedly be called HomeView",
-     "link": "https://www.engadget.com/2283275/apples-smart-home-hub-will-reportedly-be-called-homeview/",
-     "pubDate": "Sun, 11 Oct 2026 16:28:47 +0000",
-     "summary": "Bloomberg reported that the HomeView device will start shipping in November.",
-     "source": "Engadget",
-     "zh": "据报道，苹果的智能家居中心将被称为 HomeView"
-    },
-    {
      "title": "Report: HomePod mini 2 to release on October 30 with these upgrades",
      "link": "https://9to5mac.com/2026/10/11/apple-homepod-mini-2-release-date/",
      "pubDate": "Sun, 11 Oct 2026 14:56:13 +0000",
@@ -2119,7 +2119,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 13:31:02 +0200",
      "summary": "While Amazon’s Prime Big Deal Days have wrapped up, discounts are still available on several smartphones. In fact, some devices that received few or no notable discounts during the sale are now available at reduced prices. Samsung’s Galaxy S26 Ultra, Apple’s iPhone 17 Pro lineup, and the entire Goog",
      "source": "GSMArena",
-     "zh": "特惠：三星、苹果、谷歌旗舰手机大优惠"
+     "zh": "特惠：三星、苹果、谷歌旗舰手机大幅折扣"
     },
     {
      "title": "I’ve tried all the major to-do list apps but keep coming back to this one",
@@ -2218,6 +2218,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "特朗普称俄乌同意“能源停火”；沙特法赫德国王国际机场遭袭；皇岗口岸开通运行，李家超：有三大意义； 尊界汽车回应制动踏板升级方案丨每经早参",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892146083.html",
+     "pubDate": "Mon, 12 Oct 2026 05:50:33 +0800",
+     "summary": "1 皇岗口岸12日正式开通运行！李家超：口岸开通有三大重要意义 10月11日，皇岗口岸开通仪式在深圳举行。 作为深港间唯一24小时通关的旅检公路口岸，皇岗口岸将于12日上午6时30分正式开通运行 。正式运行后，旅客可以使用皇岗口岸往返港深两地。在开通仪式上，香港特别行政区行政长官李家超表示，原有皇岗口岸与香港落马洲管制站以跨境桥连接，1989年启用。落马洲管制站旅客流量由开通初期每日数千人次，攀升至近年高峰期的六万多人次；跨境私家车流量由初期每日百余辆次，增加至现时约一万辆次。他指出， 口岸开通有三个重要意义。第一，体现落实国家规划。第二，实践制度创新。第三，促进跨境流动 。（每日经济新闻） ",
+     "source": "东方财富股票",
+     "zh": "特朗普称俄乌同意“能源停火”；沙特法赫德国王国际机场遭袭；皇岗口岸开通运行，李家超：有三大意义； 尊界汽车回应制动踏板升级方案丨每经早参"
+    },
+    {
+     "title": "Mirum Pharmaceuticals to report Livmarli trial results Monday",
+     "link": "https://seekingalpha.com/news/4651951-mirum-pharmaceuticals-to-report-livmarli-trial-results-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 11 Oct 2026 17:49:11 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mirum Pharmaceuticals 将于周一报告 Livmarli 试验结果"
+    },
+    {
+     "title": "伊朗军方：在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标；泽连斯基称支持“能源停火”丨每经整点",
+     "link": "http://finance.eastmoney.com/news/1356,202610123892145770.html",
+     "pubDate": "Mon, 12 Oct 2026 05:46:13 +0800",
+     "summary": "｜ 2026年10月12日星期一 ｜ NO.1 伊朗军方：在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标 当地时间11日，伊朗伊斯兰革命卫队海军宣布，所有在霍尔木兹海峡关闭导航和识别系统的船只将被视为“敌对目标”，并将受到严厉而果断的处置。 NO.2 伊朗外长：愿为政治解决也门冲突提供一切帮助 当地时间11日晚，伊朗外长阿拉格齐与沙特外交大臣费萨尔通电话，就当前地区局势交换意见。阿拉格齐强调，该地区危机没有军事解决途径，伊朗愿提供一切帮助，旨在促成沙特和也门之间的对话和最终达成政治解决方案。 NO. 3 泽连斯基称支持“能源停火” 乌武装部队已收到相关命令 乌克兰总统泽连斯基当地时间10月",
+     "source": "东方财富股票",
+     "zh": "伊朗军方：在霍尔木兹海峡关闭导航识别系统船只将被视为敌对目标；泽连斯基称支持“能源停火”丨每经整点"
+    },
+    {
+     "title": "数智融合提升全要素生产率 ——加快发展先进制造业①",
+     "link": "http://finance.eastmoney.com/news/1355,202610123892144330.html",
+     "pubDate": "Mon, 12 Oct 2026 05:46:01 +0800",
+     "summary": "近期举办的全国先进制造业大会提出，要顺应新一轮科技革命和产业变革趋势，以新一代智能制造为主攻方向，发展策略上更加注重数智赋能，着力推动制造业智能化、绿色化、融合化发展。其中，智能化是先进制造业的核心引擎，也是培育新质生产力的重要抓手。 智能化是指用数字技术、 人工智能 重构研发、生产、质控、运维全链条，推动制造业从经验驱动转向数据驱动。国研新经济研究院创始院长、智能经济首席专家朱克力认为，智能化是保障产业链自主可控的关键抓手。依托 数字孪生 、工业大模型，可以加快国产装备、工业软件迭代，在关键环节减少外部依赖，筑牢产业安全底座。同时，智能化能联动绿色化、融合化，通过智能调度优化能耗，实现降本减",
+     "source": "东方财富股票",
+     "zh": "数智融合提升全要素生产率 ——加快发展先进制造业①"
+    },
+    {
+     "title": "用好保障人民健康的“大处方”",
+     "link": "http://fund.eastmoney.com/news/11248,202610123892145230.html",
+     "pubDate": "Mon, 12 Oct 2026 05:46:01 +0800",
+     "summary": "国务院近期分别批复《国家残疾预防行动计划（2026—2030年）》和《医疗康复护理扩容提升工程实施方案》。前者体现预防为主、防治结合，着力关口前移、早期干预；后者则明确“扩容、提质、均衡、连续”，统筹增加资源供给，提升服务能力。两份文件直面社会民生短板弱项，要求重点面对基层采取有力措施，更好满足全人群、全方位、全生命周期健康需求。 当前，我国人口发展呈现老龄化、少子化、区域增减分化等趋势，疾病谱发生深刻转变，人民群众对健康服务的需求日益增长。与此同时， 医疗服务 体系与支付能力的不均衡、不匹配，影响卫生健康工作的质效。 建设健康中国，既要靠即时医疗卫生服务的“小处方”，长远看更要靠社会整体联动",
+     "source": "东方财富股票",
+     "zh": "用好保障人民健康的“大处方”"
+    },
+    {
+     "title": "火箭装上“红色引擎”",
+     "link": "http://finance.eastmoney.com/news/1360,202610123892145948.html",
+     "pubDate": "Mon, 12 Oct 2026 05:46:00 +0800",
+     "summary": "成立于2015年的蓝箭航天空间科技股份有限公司，是我国最早布局液氧甲烷运载火箭的民营企业之一。今年7月，公司党委荣获“全国先进基层党组织”称号。从朱雀二号归零到朱雀三号可重复使用技术攻关，再到天鹊发动机批量化研制，公司党委将党建深度融入型号研制、科研攻关和企业发展实践，给火箭装上了“红色引擎”。 蓝箭航天党委书记田耀四说， 商业航天 正处于创新突破、加速发展的关键时期。坚持自主创新，把关键核心技术牢牢掌握在自己手中，才能把握发展主动权，在培育壮大新质生产力中展现更大作为。 田耀四介绍，公司党委把党组织建在科研链、产业链、创新链上。“近年来，新发展的党员全部来自科研生产一线，党员始终活跃在型号攻",
+     "source": "东方财富股票",
+     "zh": "火箭装上“红色引擎”"
+    },
+    {
+     "title": "1月至9月城镇新增就业1052万人—— 积极构建就业友好型发展方式",
+     "link": "http://finance.eastmoney.com/news/1352,202610123892145311.html",
+     "pubDate": "Mon, 12 Oct 2026 05:46:00 +0800",
+     "summary": "本报北京10月11日讯（记者敖蓉）从国务院新闻办日前举行的“开局起步‘十五五’”系列主题新闻发布会上获悉，今年1月至9月，城镇新增就业1052万人、完成全年目标任务的87.7%，前8个月城镇调查失业率均值为5.2%，就业形势总体稳定。 今年6月发布的《实施就业优先战略“十五五”规划》，为未来5年就业工作提供了科学指南和行动纲领。人力资源社会保障部新闻发言人、副部长李忠表示，实现就业保持总体稳定、高质量充分就业取得新进展的总体目标，需要把就业优先导向贯穿经济社会发展各领域各环节，积极构建就业友好型发展方式。人力资源社会保障部将持续推动财政、货币、产业等宏观政策与就业政策协同发力，健全就业影响评估",
+     "source": "东方财富股票",
+     "zh": "1月至9月城镇新增就业1052万人—— 积极构建就业友好型发展方式"
+    },
+    {
      "title": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
      "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
      "pubDate": "Sun, 11 Oct 2026 21:30:45 GMT",
@@ -2240,6 +2296,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "《GTA 6》泄密者嘲笑 Take-Two 超过 3000 万美元，Cyber​​leek memecoin 飙升"
+    },
+    {
+     "title": "10月12日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/11158,202610123892139733.html",
+     "pubDate": "Mon, 12 Oct 2026 04:37:56 +0800",
+     "summary": "10月12日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 科技股承压 公私募发声：结构性机会为主 国庆假期后，A股市场出现调整。公私募机构认为，此次调整既受海外利率等外部因素扰动，也有A股前期涨幅较大、估值与筹码结构承压的内在原因。机构表示，短期市场或仍维持高波动、强分化格局，随着三季报进入业绩验证期，行情有望从交易产业景气逐步转向检验企业盈利。 工业富联紧急回应 继 立讯精密 后，又一家上市公司涉美国337调查。10月11日晚， 工业富联 公告称，公司近日获悉，美国国际贸易委员会（以下简称“ITC”）于当地时间10月9日宣布，就美国 Vicor Corp oration（以下简称“",
+     "source": "东方财富资讯",
+     "zh": "10月12日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     },
     {
      "title": "Justice Department investigates TV networks as White House press-access fight escalates",
@@ -2338,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "《另一个妈妈》周末票房达 2700 万美元，国内票房突破 8B 美元"
     },
     {
-     "title": "Starknet coin surges as developer weighs Ethereum split over quantum security",
-     "link": "https://seekingalpha.com/news/4651937-starknet-coin-surges-as-developer-weighs-ethereum-split-over-quantum-security?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 11 Oct 2026 13:22:27 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "随着开发商权衡以太坊在量子安全问题上的分歧，Starknet 代币飙升"
-    },
-    {
      "title": "Can Russia meet Trump’s diesel demands?",
      "link": "https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1",
      "pubDate": "Sun, 11 Oct 2026 17:13:56 GMT",
@@ -2359,7 +2415,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 17:08:30 GMT",
      "summary": "Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products to better curate offerings and stabilize business.",
      "source": "CNBC",
-     "zh": "从 BJ’s 到 Lululemon，零售商正在削减产品种类以促进业务"
+     "zh": "从 BJ's 到 Lululemon，零售商正在削减产品种类以促进业务"
     },
     {
      "title": "岂能让消费者替“速成车”补上测试课",
@@ -2400,62 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "进入今年第四季度， 造纸 行业各项数据仍持续低迷，但供应端正在酝酿新的变化。今年三季度以来，海外多家纸浆工厂相继宣布临时或永久停产，原料供应端出现收紧迹象。在行业低谷期徘徊多年后，市场开始关注这一变量能否成为本轮周期的转折点。 值得注意的是，本轮停产将集中在今年四季度启动，目前纸浆和下游成品纸价格仍在低位徘徊，多位行业人士受访表示，需求疲软仍是 造纸 业面临的首要难题，预计四季度传统旺季也难有明显改善，至于海外纸浆供应收紧能否成为周期拐点仍有待观察，目前市场对这类消息反应较为平淡，虽然纸浆价格略有回升，但市场基本面并未改变。 2013年至今，中国进口针叶浆、阔叶浆现货市场价格走势图，来源： 卓",
      "source": "东方财富资讯",
      "zh": "海外浆厂停产潮起 造纸业能否借势走出低谷？"
-    },
-    {
-     "title": "万亿市值巨头回应美国337调查：对目前的生产、经营及业绩不造成实质性影响",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892105187.html",
-     "pubDate": "Mon, 12 Oct 2026 00:26:00 +0800",
-     "summary": "又一家A股上市公司回应美国337调查。 10月11日晚间， 工业富联 发布公告称，美国国际贸易委员会（简称“ITC”）就美国 Vicor Corp oration （简称“Vicor”）提出的相关专利侵权主张，正式启动337调查（调查编号：337-TA-1526）。 公告显示，Vicor指控 工业富联 及其控股子公司FII USA Inc.（ 工业富联 美国股份有限公司）、Ingrasys Technology Inc.（鸿佰科技股份有限公司）、Ingrasys Technology USA Inc.（美国鸿佰科技股份有限公司）侵犯其一项“垂直供电系统”的专利权。 工业富联表示，经公司内部核查",
-     "source": "东方财富资讯",
-     "zh": "万亿市值巨头回应美国337调查：对目前的生产、经营及业绩不造成实质性影响"
-    },
-    {
-     "title": "要抢运营商饭碗？SpaceX宣布将收购一组覆盖全美的低频段频谱资源",
-     "link": "http://finance.eastmoney.com/news/1354,202610113892125627.html",
-     "pubDate": "Mon, 12 Oct 2026 00:17:24 +0800",
-     "summary": "这一次，马斯克直白彰显了挑战传统 电信运营商 的野心。近日，其旗下公司 SpaceX 宣布将收购一组覆盖全美的低频段频谱资源，这将让星链有望成为美国主要的移动运营商。据了解，相比于中高频段，800MHz等低频段无线电波传播损耗较小、绕射能力较强，对建筑物和植被的穿透损耗通常较低。这也将使得 SpaceX 能够直接挑战美国无线 通信 “三巨头”，或将转变成为能够取代地面蜂窝网络的商业竞争对手。 补齐低频频段 SpaceX 宣布，已与投资公司Grain Management LLC达成协议，收购一批覆盖全美的800MHz低频段频谱许可证，并计划将其与旗下Starlink（星链）卫星网络整合，打造独",
-     "source": "东方财富资讯",
-     "zh": "要抢运营商饭碗？SpaceX宣布将收购一组覆盖全美的低频段频谱资源"
-    },
-    {
-     "title": "财险公司保险产品开发迎新规 附加险管理进一步规范",
-     "link": "http://www.eeo.com.cn/2026/1011/1061171.shtml",
-     "pubDate": "Sun, 11 Oct 2026 23:52:11 +0800",
-     "summary": "据国家金融监督管理总局（以下简称“金融监管总局”）官网10月9日消息，为进一步规范财产保险公司保险产品开发行为，保护投保人、被保险人和受益人合法权益，持续释放强监管信号，提升保险产品供给质效，促进财产保险业高质量发展，近日，金融监管总局修订发布《财产保险公司保险产品开发管理规定》（以下简称《规定》）。 受访专家表示，《规定》的发布引导非车险、责任险等业务回归保障本源，切实保障消费者知情权，将...",
-     "source": "经济观察网",
-     "zh": "财险公司保险产品开发迎新规 附加险管理进一步规范"
-    },
-    {
-     "title": "现房销售正以“确定性”提振楼市信心",
-     "link": "http://www.eeo.com.cn/2026/1011/1061170.shtml",
-     "pubDate": "Sun, 11 Oct 2026 23:52:10 +0800",
-     "summary": "■杜雨萌 近期，北京、上海、广州、武汉相继发布商品房销售制度改革实施细则，与国家层面鼓励现房销售的导向形成呼应。 长期以来，我国商品房销售以预售制为主。这一制度诞生于住房市场化改革的初期，彼时房企普遍体量偏小、筹资渠道有限，难以独立扛起长周期、高投入的项目建设压力，“先收款、后交房”的安排由此成为主流，并在相当长时间里支撑了房地产市场在供应端的快速扩容。然而，当行业告别高速扩张、转入...",
-     "source": "经济观察网",
-     "zh": "现房销售正以“确定性”提振楼市信心"
-    },
-    {
-     "title": "中国物流业景气指数连续5个月处于扩张区间",
-     "link": "http://www.eeo.com.cn/2026/1011/1061169.shtml",
-     "pubDate": "Sun, 11 Oct 2026 23:52:05 +0800",
-     "summary": "10月11日，中国物流与采购联合会发布数据显示，2026年9月，中国物流业景气指数为51.5%，较8月回升0.6个百分点，连续5个月处在扩张区间。 中国物流信息中心主任刘宇航认为，景气指数连续5个月处在扩张区间，业务总量指数、新订单指数环比回升，反映出政策和市场联动效应持续显现，促消费、惠民生政策带动物流需求产生积极变化。同时，物流供需市场环境也在稳步改善，高效绿色智能物流供给加快增长，对物流需求的适配性不断...",
-     "source": "经济观察网",
-     "zh": "中国物流业景气指数连续5个月处于扩张区间"
-    },
-    {
-     "title": "Democrats need a foreign policy",
-     "link": "https://www.ft.com/content/dddba87c-3ed9-4cb5-8fe2-1b1dcc71da6f?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 15:13:30 GMT",
-     "summary": "Trump’s approach to the world has left Republicans floundering as the midterms approach. Liberals should plan their own strategy now",
-     "source": "Financial Times",
-     "zh": "民主党需要外交政策"
-    },
-    {
-     "title": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山",
-     "link": "http://www.eeo.com.cn/2026/1011/1061158.shtml",
-     "pubDate": "Sun, 11 Oct 2026 22:52:20 +0800",
-     "summary": "第1眼TV-华龙网讯（首席记者 陈美西）10月11日晚，中超联赛休赛一个月后战火重燃，重庆铜梁龙坐镇龙兴足球场迎战传统劲旅山东泰山。经过90分钟激战，双方1:1握手言和。这也是重庆铜梁龙本赛季在龙兴主场的收官之战。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/012F11DED5D02A6A5E973877FD2938C0.jpg\" alt=\"重庆铜梁龙首发阵容。\" width=\"1024\" height=\"683\" data-title=\"重庆铜梁龙首发...",
-     "source": "经济观察网",
-     "zh": "组图丨本赛季龙兴主场收官之战：重庆铜梁龙1:1憾平山东泰山"
     }
    ]
   },

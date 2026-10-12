@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 13:12:10",
+ "generated_at": "2026/10/12 13:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -1722,6 +1722,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "世界首富马斯克发文讽刺印度首富安巴尼：自嘲眼拙没能认出“印度真正的总理”，安巴尼已读不回但印度网友先急了",
+     "link": "https://www.ithome.com/1/011/862.htm",
+     "pubDate": "Mon, 12 Oct 2026 05:28:17 GMT",
+     "summary": "IT之家 10 月 12 日消息，10 月 7 日至 10 日，马斯克在 X 上连续发文，将星链进入印度市场受阻的矛头直指印度首富穆克什 · 安巴尼及其旗下的信实工业与苏尼尔 · 米塔尔旗下的巴蒂电信。 10 月 7 日，马斯克在回复用户时称：“不幸的是，我们正被某些寡头阻挠，以维持他们对印度人民的垄断性扼制。你们能猜到他们是谁……” 10 月 8 日，事态进一步升级措辞，马斯克直接发问：“星链已在超过 165 个国家获得许可，并花费五年时间遵守印度政府的每一项法律和要求，为何仍无牌照？安巴尼是印度真正的总理吗？” 10 月 10 日凌晨，他发布了一封明褒暗讽的“道歉信”，以“亲爱的安巴尼总理",
+     "source": "IT之家",
+     "zh": "世界首富马斯克发文讽刺印度首富安巴尼：自嘲眼拙没能认出“印度真正的总理”，安巴尼已读不回但印度网友先急了"
+    },
+    {
+     "title": "TikTok CEO 周受资：市场对 AI 短期发展的能力可能有所高估，却低估其长期影响",
+     "link": "https://www.ithome.com/1/011/861.htm",
+     "pubDate": "Mon, 12 Oct 2026 05:26:20 GMT",
+     "summary": "IT之家 10 月 12 日消息，据台媒经济日报报道，TikTok CEO 今早参加星展集团 12 日在新加坡举办的首届亚洲未来前瞻论坛，以“Unlocking Human Potential in an AI Era（在人工智能时代释放人类潜能）”为题，和星展集团零售银行及财富管理业务主管许志坤进行对谈。 周受资指出， 人工智能的长期发展潜力仍被低估 ，未来两至三年，AI 有望推动物理学、生物科技等领域出现重大突破。不过，在 AI 快速发展的同时， 人类的判断力、创造力与真实性仍不可或缺 ，企业与个人应积极实际运用 AI 工具，通过人机协作掌握新一波科技变革带来的机会。 周受资表示， 市场对",
+     "source": "IT之家",
+     "zh": "TikTok CEO 周受资：市场对 AI 短期发展的能力可能有所高估，却低估其长期影响"
+    },
+    {
+     "title": "深度｜被叫停的收购，为什么让Manus更贵了",
+     "link": "https://www.huxiu.com/article/4896772.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 13:25:40 +0800",
+     "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《深度｜被叫停的收购，为什么让Manus更贵了》 10月8日，Manus母公司蝴蝶效应宣布完成超5亿美元新一轮融资。博裕投资、IDG资本领投，腾讯、红杉中国、真格基金继续加持。这是国内AI Agent原生创业公司迄今最大的一笔单笔融资。 公司没有披露本轮估值。但据彭博社此前报道，投后估值约40亿美元，相当于五个多月前Meta收购要约作价的两倍。 半年前，这笔20亿美元的收购被国家发改委叫停。五周前，Manus才刚恢复独立运营。五周后，估值翻倍。 这不是一次普通的融资。这是一场关于\"被地缘政治退货的资产，如何被重新定价\"的资本实验。 一笔",
+     "source": "虎嗅",
+     "zh": "深度｜被叫停的收购，为什么让Manus更贵了"
+    },
+    {
+     "title": "An interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI \"super learner\" using RL as an alternative path to LLMs, and more (Madhumita Murgia/Financial Times)",
+     "link": "https://www.techmeme.com/261012/p3#a261012p3",
+     "pubDate": "Mon, 12 Oct 2026 01:25:00 -0400",
+     "summary": "Madhumita Murgia / Financial Times : An interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI &ldquo;super learner&rdquo; using RL as an alternative path to LLMs, and more &nbsp; &mdash;&nbsp; The architect of Google DeepMind's AlphaGo on building machines that c",
+     "source": "Techmeme",
+     "zh": "An interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI \"super learner\" using RL as an alternative path to LLMs, and more (Madhumita Murgia/Financial Times)"
+    },
+    {
+     "title": "光模块大卖，为何光谷众企干不过中际旭创？",
+     "link": "https://www.huxiu.com/article/4896774.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 13:22:38 +0800",
+     "summary": "本文来自微信公众号： 支点财经 ，编辑：吴玲，作者：郑玮 林楠 “全线上调20%以上！” 9月7日，国际知名投行高盛发布研报，对2026年—2028年全球光模块出货量预测进行了上调。其中，800G及以上出货量预测上调31%、39%和36%，1.6T及以上出货量预测上调29%、61%和50%。 9月9日至11日在深圳举行的第27届中国国际光电博览会现场，支点记者现场看到，在800G光模块成为标配的当下，鄂企技术焦点已向1.6T及更高速率产品迁移。华工科技旗下的华工正源展出6.4T NPO近封装光引擎和12.8T XPO超高密度可插拔光模块，光迅科技展出6.4T硅光单模NPO光引擎，吸引众多目光。",
+     "source": "虎嗅",
+     "zh": "光模块大卖，为何光谷众企干不过中际旭创？"
+    },
+    {
+     "title": "全网2.11亿个主播账号，是“赛博工厂”里的新蓝领？",
+     "link": "https://www.huxiu.com/article/4896773.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 13:20:51 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：洞照，编辑：宋爽，原文标题：《全网2.11亿个主播账号，是“赛博工厂”里的新蓝领？丨专访董晨宇》 在董晨宇看来，直播经济影响下的中国当代经济样貌可以用丰富、高效和重置三个关键词来描述。 市场监管总局发展研究中心、中国社会科学院财经战略研究院课题组的调研数据显示，2019年至2024年，直播电商市场规模增长超12倍；2025年，直播电商GMV（商品交易总额）超5万亿元，占网络零售额近三分之一，行业用户规模预计达6.6亿人。 2026中国网络表演（直播与短视频）行业年会上发布的《中国网络表演（直播与短视频）行业发展报告（2025—2026）》显示，2025年行",
+     "source": "虎嗅",
+     "zh": "全网2.11亿个主播账号，是“赛博工厂”里的新蓝领？"
+    },
+    {
+     "title": "曝天猫、京东正面硬刚，同日召开双 11 发布会",
+     "link": "https://www.ithome.com/1/011/860.htm",
+     "pubDate": "Mon, 12 Oct 2026 05:19:48 GMT",
+     "summary": "IT之家 10 月 12 日消息，据新浪科技今日报道，天猫、京东两大电商平台 2026 双 11 新闻发布会都定于 10 月 15 日同日举行 。两大平台在同一天向外界披露大促策略，这在双 11 历史上并不多见。 报道提到，京东选择“抢跑”， 10 月 12 日晚 8 点正式开启全品类现货售卖 ，主打现货直发，不用等待定金尾款。 淘宝则在 10 月 15 日晚 8 点开启预售 ，提前锁价、锁定赠品。两大平台活动一直持续到 11 月 11 日 24 点正式收官。 IT之家查询发现，京东已经官宣京东双 11 于 10 月 12 日晚 8 点开启；天猫官宣 10 月 15 日晚 8 点预售抢 0 元",
+     "source": "IT之家",
+     "zh": "曝天猫、京东正面硬刚，同日召开双 11 发布会"
+    },
+    {
      "title": "具身智能下一轮洗牌：大脑终局不超5家，谁的百亿估值站得住？",
      "link": "https://www.huxiu.com/article/4896758.html?f=rss",
      "pubDate": "Mon, 12 Oct 2026 13:07:02 +0800",
@@ -1736,6 +1792,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 12 日消息，百度官方今日宣布， 百度世界 2026 将于 11 月 12 日在北京 · 国家会议中心二期举办 。目前，大会官网已开启售票通道。 本届大会以“下一幕，智能组织”为主题。十年前，百度创始人李彦宏在百度世界 2016 上提出“互联网的下一幕，是人工智能”。十年后，“下一幕，智能组织”的大会主题与这一判断形成呼应， 将关注点进一步引向 AI 驱动的组织重构 。 根据官方预告，百度世界 2026 将带来： N 个重磅发布 ：重磅嘉宾、企业级 AI 产品集中亮相 12 场分论坛 ：各路专家碰头，把“智能组织”聊透 30+ 公开课 ：大咖齐聚，解锁硬核 AI 技术实战经",
      "source": "IT之家",
      "zh": "“百度世界 2026”定档 11 月 12 日，将有“重磅嘉宾、企业级 AI 产品”集中亮相"
+    },
+    {
+     "title": "Type-safe HTML templating in Zig",
+     "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+     "pubDate": "Mon, 12 Oct 2026 05:02:34 +0000",
+     "summary": "Article URL: https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html Comments URL: https://news.ycombinator.com/item?id=50051573 Points: 16 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Type-safe HTML templating in Zig"
     },
     {
      "title": "李录最新访谈：AI浪潮、中国转型与全球秩序",
@@ -1762,6 +1826,14 @@ window.INDUSTRY_DATA = {
      "zh": "海尔推出 M1 Plus 智能晾衣架：支持 AI 离线语音，689 元"
     },
     {
+     "title": "Yandex bot traffic down 99% after data center attack",
+     "link": "https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic",
+     "pubDate": "Mon, 12 Oct 2026 04:54:12 +0000",
+     "summary": "Article URL: https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic Comments URL: https://news.ycombinator.com/item?id=50051532 Points: 23 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Yandex bot traffic down 99% after data center attack"
+    },
+    {
      "title": "长城坦克 500 车型官宣 10 月 16 日上新：豪华再进阶、聪明再进一步、安全再多一重",
      "link": "https://www.ithome.com/1/011/856.htm",
      "pubDate": "Mon, 12 Oct 2026 04:53:22 GMT",
@@ -1770,36 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "长城坦克 500 车型官宣 10 月 16 日上新：豪华再进阶、聪明再进一步、安全再多一重"
     },
     {
-     "title": "IT之家“拿下”真 · 麒麟 9050 Pro 芯片，华为终端创新技术沟通会彩蛋揭晓",
-     "link": "https://www.ithome.com/1/011/855.htm",
-     "pubDate": "Mon, 12 Oct 2026 04:44:17 GMT",
-     "summary": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖启幕。目前，第一天的技术分享活动已告一段落。 在今天活动的最后，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙准备了一份惊喜彩蛋 —— 采用真正的麒麟 9050 Pro 芯片制作的伴手礼。 IT之家也在第一时间“拿下”了这枚真 · 麒麟 9050 Pro 芯片。",
-     "source": "IT之家",
-     "zh": "IT之家“拿下”真 · 麒麟 9050 Pro 芯片，华为终端创新技术沟通会彩蛋揭晓"
-    },
-    {
-     "title": "349 元雅浚 G6 PRO 风冷散热器上市：六热管双塔，12cm+13cm 双风扇支持 280W 解热",
-     "link": "https://www.ithome.com/1/011/854.htm",
-     "pubDate": "Mon, 12 Oct 2026 04:44:13 GMT",
-     "summary": "IT之家 10 月 12 日消息，雅浚（ProArtist）新上架了一款 G6 PRO 风冷散热器，现已开售，京东显示为 349 元，厂商提供 3 年质保服务。 京东 雅浚（ProArtist）G6 CPU 风冷散热器 双塔 6 热管台式电脑散热风扇 G6 PRO 349 元 直达链接 雅浚 G6 PRO 采用六热管双塔设计，整体尺寸为 125×109×158mm，搭配 12cm 与 13cm 双风扇组合，官方标称整体解热功耗可达 280W（IT之家注：普通版 265W）。 这款散热器能够兼容市面上大部分主流机箱，内存默认最高支持 38mm；散热器顶部带有阳极电镀、喷砂与拉丝金属盖板装饰；热管",
-     "source": "IT之家",
-     "zh": "349 元雅浚 G6 PRO 风冷散热器上市：六热管双塔，12cm+13cm 双风扇支持 280W 解热"
-    },
-    {
-     "title": "尊界换刹车方案出炉，大定用户：不要了，5万定金不退也不要了",
-     "link": "https://www.huxiu.com/article/4896768.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 12:40:45 +0800",
-     "summary": "本文来自微信公众号： 量子位ROBO ，作者：有车有据，原文标题：《尊界换刹车方案出炉！大定用户：不要了！5万定金不退也不要了》 巧合？ 刹车踏板测试，现在出现两个方向的新进展。 第一个，是尊界给出了具体的整改措施，这是近期争议事件的进一步延续。 第二个，是行业规则层面出现新动作。 多部门同时关注“速成车”，在踏板事件热议最高点，出台了一份草案，直指新车创新和验证流程： “汽车开发越来越快，安全验证有没有跟上”，又成为新的讨论焦点。 “18个月开发一款新车”可能要被一块刹车踏板，彻底改变了。 尊界先升级，争议进入“工程整改”阶段 尊界公布了后续整改计划。 此前官方回应中提到，将进一步优化制动踏",
-     "source": "虎嗅",
-     "zh": "尊界换刹车方案出炉，大定用户：不要了，5万定金不退也不要了"
-    },
-    {
-     "title": "海尔浴霸 M1 系列人感除臭版发布：承袭海尔冰箱净味技术，首发 699 元",
-     "link": "https://www.ithome.com/1/011/853.htm",
-     "pubDate": "Mon, 12 Oct 2026 04:34:42 GMT",
-     "summary": "IT之家 10 月 12 日消息，海尔宣布推出新款海尔浴霸 M1 系列人感除臭版，首发到手价 699 元。 据商品页面介绍，该系列产品搭载黑金净味技术，承袭海尔冰箱净味科技，内置一键除臭程序模组和诺奖同源晶态模块，可主动捕捉吸附并全时分解异味分子。 海尔表示，经广东省微生物分析检测中心权威检测，在 1m³ 空间、 2h 的实验条件下，该产品所应用的除臭模块对氨气和硫化氢除臭率平均值均大于 91% ，可让卫生间尤其是暗卫全天候保持清新。 另外，该产品搭配漩吸换气技术，拥有 180m³/h 换气量，换气风速 ≥ 9.2m/s ，可快速抽排浴室空气，将异味整体置换排出室外，应对浓异味场景见效更快，同",
-     "source": "IT之家",
-     "zh": "海尔浴霸 M1 系列人感除臭版发布：承袭海尔冰箱净味技术，首发 699 元"
+     "title": "以财务真相、资本效率与行业定义权重估中国核心资产，2026巴伦中国价值榜单全球启动",
+     "link": "https://www.tmtpost.com/8165046.html",
+     "pubDate": "Mon, 12 Oct 2026 12:51:14 +0800",
+     "summary": "Barron's 巴伦 1921 年由道琼斯创刊，百余年来深刻影响全球投资者、企业管理者与基金经理的决策。如今它以 “全球视野，发现中国价值” 为使命，搭建本土商业价值度量衡，寻找值得全球资本长期配置的中国资产。2026巴伦中国价值榜单覆盖企业、人物、机构三大维度，设置多类细分序列，囊括核心资产、行业标杆、商业领袖与穿越周期的投资力量。",
+     "source": "钛媒体",
+     "zh": "以财务真相、资本效率与行业定义权重估中国核心资产，2026巴伦中国价值榜单全球启动"
     },
     {
      "title": "Sources: TSMC execs in charge of overseas operations met Texas officials and started more serious discussions in H1 2026, after talking on and off for 10+ years (Tim Culpan/Culpium)",
@@ -1810,36 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: TSMC execs in charge of overseas operations met Texas officials and started more serious discussions in H1 2026, after talking on and off for 10+ years (Tim Culpan/Culpium)"
     },
     {
-     "title": "反对Agent，反对RSI，杨立昆新模型反对当下一切AI叙事",
-     "link": "https://www.huxiu.com/article/4896763.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 12:23:26 +0800",
-     "summary": "本文来自微信公众号： 字母AI ，作者：苗正 《复仇者联盟：终局之战》里有这样一幕，美国队长跟神盾局特工们在电梯里小声地说了一句“九头蛇万岁”。 仅仅是这样一句话，伪装成神盾局特工的九头蛇成员就把镶嵌心灵宝石的权杖交给了美国队长。 这还没完，正是由于九头蛇成员把美国队长当成了自己人，这才让同一时间钢铁侠等人偷走空间宝石的计划没有暴露。最终，复仇者们成功消灭灭霸，拯救了宇宙。 你看看，哪怕只是一句话而已，就对整个宇宙产生了影响。而杨立昆的新世界模型H-JEPA，就是想要通过分层推理的底层逻辑，来推理出后续的发展。 一个小小的动作，它在短期内会造成什么结果？到了中期呢？到了后期呢？ 著名的蝴蝶效应",
-     "source": "虎嗅",
-     "zh": "反对Agent，反对RSI，杨立昆新模型反对当下一切AI叙事"
-    },
-    {
-     "title": "内娱进入“大确诊时代”，明星争当“病人”、观众越看越烦",
-     "link": "https://www.huxiu.com/article/4896709.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 12:20:05 +0800",
-     "summary": "本文来自微信公众号： Vista看天下 ，作者：铭钰，题图来自：视觉中国 综艺节目想要火，嘉宾得&ldquo;有病&rdquo;。 诞生于2019年的《我家那闺女》综艺节目，这几年表现一直不温不火，这一季却意外从众多热门综艺节目中突围成功，依靠两位&ldquo;病人&rdquo;成为社交场域上的话题担当。 此前，张家齐妈妈凭借一己之力，盘活了这档7年老节目。原以为节目热度会伴随着张家齐家的故事告一段落，没想到演员代露娃接过了张家齐妈妈的接力棒。 打算走&ldquo;用一生治愈童年&rdquo;剧本的代露娃，被网友扒出&ldquo;只谈误解，不感恩父母托举&rdquo;的另一面&mdash;&m",
-     "source": "虎嗅",
-     "zh": "内娱进入“大确诊时代”，明星争当“病人”、观众越看越烦"
-    },
-    {
      "title": "Sources: PCB maker Dongshan is eyeing to raise $2B to $3B in a Hong Kong listing as soon as this month; Dongshan is listed in Shenzhen with a $39B valuation (Bloomberg)",
      "link": "https://www.techmeme.com/261012/p1#a261012p1",
      "pubDate": "Mon, 12 Oct 2026 00:00:44 -0400",
      "summary": "Bloomberg : Sources: PCB maker Dongshan is eyeing to raise $2B to $3B in a Hong Kong listing as soon as this month; Dongshan is listed in Shenzhen with a $39B valuation &nbsp; &mdash;&nbsp; Printed circuit board maker Suzhou Dongshan Precision Manufacturing Co. has started gauging investor interest ",
      "source": "Techmeme",
      "zh": "Sources: PCB maker Dongshan is eyeing to raise $2B to $3B in a Hong Kong listing as soon as this month; Dongshan is listed in Shenzhen with a $39B valuation (Bloomberg)"
-    },
-    {
-     "title": "X Is Bad, Though",
-     "link": "https://lexontech.org/x-is-bad-though",
-     "pubDate": "Mon, 12 Oct 2026 03:50:58 +0000",
-     "summary": "Article URL: https://lexontech.org/x-is-bad-though Comments URL: https://news.ycombinator.com/item?id=50051172 Points: 30 # Comments: 16",
-     "source": "Hacker News",
-     "zh": "X Is Bad, Though"
     },
     {
      "title": "Hardware wallet maker Ledger says the $86M+ theft from hundreds of its wallets involved devices sold by reseller CryptoBilis and confirms a \"hardware implant\" (Terrence O&apos;Brien/The Verge)",
@@ -1906,22 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "Qualcomm CEO Cristiano Amon says AI companies are \"starting to do phones\" and asking Qualcomm to support running 100B-parameter local LLMs continuously by 2028 (Alex Heath/Sources)"
     },
     {
-     "title": "把一立方公里的南极冰变成望远镜，他38年后拿下诺奖",
-     "link": "https://www.tmtpost.com/8162688.html",
-     "pubDate": "Mon, 12 Oct 2026 10:49:07 +0800",
-     "summary": "一束“幽灵粒子”拿了诺奖，南海3500米深处，中国的答案刚刚下水。",
-     "source": "钛媒体",
-     "zh": "把一立方公里的南极冰变成望远镜，他38年后拿下诺奖"
-    },
-    {
-     "title": "Anchorage Digital buys B2B payments automation startup Routable for an undisclosed sum; Anchorage CEO calls it its largest acquisition by team size and revenue (Ryan Lawler/Axios)",
-     "link": "https://www.techmeme.com/261011/p14#a261011p14",
-     "pubDate": "Sun, 11 Oct 2026 21:40:00 -0400",
-     "summary": "Ryan Lawler / Axios : Anchorage Digital buys B2B payments automation startup Routable for an undisclosed sum; Anchorage CEO calls it its largest acquisition by team size and revenue &nbsp; &mdash;&nbsp; Anchorage Digital has acquired Routable, a startup that helps businesses automate payouts to vend",
-     "source": "Techmeme",
-     "zh": "Anchorage Digital buys B2B payments automation startup Routable for an undisclosed sum; Anchorage CEO calls it its largest acquisition by team size and revenue (Ryan Lawler/Axios)"
-    },
-    {
      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
      "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
      "pubDate": "Mon, 12 Oct 2026 00:59:01 +0000",
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Doory – Open-Source Canva",
      "link": "https://github.com/shaongitbd/doory",
      "pubDate": "Mon, 12 Oct 2026 00:48:27 +0000",
-     "summary": "Article URL: https://github.com/shaongitbd/doory Comments URL: https://news.ycombinator.com/item?id=50049872 Points: 43 # Comments: 6",
+     "summary": "Article URL: https://github.com/shaongitbd/doory Comments URL: https://news.ycombinator.com/item?id=50049872 Points: 54 # Comments: 18",
      "source": "Hacker News",
      "zh": "Doory – Open-Source Canva"
     },
@@ -1941,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Local Indexing to reduce tool calling and token usage",
      "link": "https://tedhaley.ca/pensieve/",
      "pubDate": "Mon, 12 Oct 2026 00:03:53 +0000",
-     "summary": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 47 # Comments: 10",
+     "summary": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 49 # Comments: 12",
      "source": "Hacker News",
      "zh": "Local Indexing to reduce tool calling and token usage"
     },
@@ -1949,17 +1957,9 @@ window.INDUSTRY_DATA = {
      "title": "HashiCorp archives the Boundary open source repo",
      "link": "https://github.com/hashicorp/boundary",
      "pubDate": "Mon, 12 Oct 2026 00:02:45 +0000",
-     "summary": "Article URL: https://github.com/hashicorp/boundary Comments URL: https://news.ycombinator.com/item?id=50049498 Points: 58 # Comments: 12",
+     "summary": "Article URL: https://github.com/hashicorp/boundary Comments URL: https://news.ycombinator.com/item?id=50049498 Points: 61 # Comments: 11",
      "source": "Hacker News",
      "zh": "HashiCorp archives the Boundary open source repo"
-    },
-    {
-     "title": "Whatever became of holography? (2011)",
-     "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
-     "pubDate": "Sun, 11 Oct 2026 23:50:34 +0000",
-     "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 100 # Comments: 47",
-     "source": "Hacker News",
-     "zh": "Whatever became of holography? (2011)"
     }
    ]
   },
@@ -2218,6 +2218,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "四部门收紧汽车新技术监管 新车须测完“两冬一夏”杜绝“速成车”",
+     "link": "http://www.eeo.com.cn/2026/1012/1061415.shtml",
+     "pubDate": "Mon, 12 Oct 2026 13:15:16 +0800",
+     "summary": "三份全新技术文件的启用，意味着针对新能源智能化汽车，全新的行业技术标准已完成初步的体系化构建，进入落地实施周期。",
+     "source": "经济观察网",
+     "zh": "四部门收紧汽车新技术监管 新车须测完“两冬一夏”杜绝“速成车”"
+    },
+    {
+     "title": "商务部新闻发言人就中欧混动汽车、电动汽车磋商共识答记者问",
+     "link": "http://www.eeo.com.cn/2026/1012/1061414.shtml",
+     "pubDate": "Mon, 12 Oct 2026 13:15:03 +0800",
+     "summary": "经济观察网 10月12日，商务部新闻发言人就中欧混动汽车、电动汽车磋商共识答记者问。 问：近日，中欧双方在贸易投资磋商机制下就混动汽车、电动汽车贸易进行了深入讨论，避免了局面升级，一些外媒对混动汽车贸易安排的数量等相关细节进行猜测，请问中方有何评论？ 答：中欧在贸易投资磋商机制下持续对话，达成多项成果共识，有利于维护稳定、平衡的中欧关键贸易伙伴关系。双方本着相互尊重、平等协商的原则，就混动...",
+     "source": "经济观察网",
+     "zh": "商务部新闻发言人就中欧混动汽车、电动汽车磋商共识答记者问"
+    },
+    {
+     "title": "宜信相关公司遭立案侦查，实控人唐宁已被采取刑事强制措施",
+     "link": "http://www.eeo.com.cn/2026/1012/1061413.shtml",
+     "pubDate": "Mon, 12 Oct 2026 13:13:12 +0800",
+     "summary": "本文来源：时代财经 10月12日，北京市公安局朝阳分局通报：近期，该局依法对宜信相关公司涉嫌违法犯罪立案侦查。目前，实际控制人唐某（男，53岁）、赵某（女，51岁）等多名犯罪嫌疑人已被依法采取刑事强制措施。 时代财经了解到，10月11日，宜信集团在瑞承APP、宜人优选APP中向类固收投资者定向推送了一封《关于向类固收产品客户的致歉信》。在致歉信中，宜信集团表示，2026年5月22日，由于宜信集团普惠金融和财...",
+     "source": "经济观察网",
+     "zh": "宜信相关公司遭立案侦查，实控人唐宁已被采取刑事强制措施"
+    },
+    {
+     "title": "华为折叠屏发货量突破2000万台，上半年市场份额超70%",
+     "link": "http://www.eeo.com.cn/2026/1012/1061412.shtml",
+     "pubDate": "Mon, 12 Oct 2026 13:13:11 +0800",
+     "summary": "凤凰网科技讯（作者/于雷）10月12日，华为终端创新技术沟通会在上海练秋湖举行。据官方披露，华为折叠屏手机累计发货量已突破2000万台。同时，数据显示，华为在2026年上半年折叠屏手机市场份额超70%，持续领跑折叠屏市场。 此前，华为常务董事、产品...",
+     "source": "经济观察网",
+     "zh": "华为折叠屏发货量突破2000万台，上半年市场份额超70%"
+    },
+    {
+     "title": "Defense stocks in focus: Anduril unveils Steelfin affordable missile interceptor",
+     "link": "https://seekingalpha.com/news/4651960-defense-stocks-in-focus-anduril-unveils-steelfin-affordable-missile-interceptor?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 12 Oct 2026 01:12:34 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Defense stocks in focus: Anduril unveils Steelfin affordable missile interceptor"
+    },
+    {
+     "title": "2026年诺贝尔文学奖：安妮·卡森的古今相接",
+     "link": "http://www.eeo.com.cn/2026/1012/1061407.shtml",
+     "pubDate": "Mon, 12 Oct 2026 13:07:47 +0800",
+     "summary": "诗人的工作，如同卡森所做的，是日复一日地阅读、翻译与书写，是让世界重新回到充满空缺的、不完美的书中，而非回到AI生成的长篇累牍语料中。",
+     "source": "经济观察网",
+     "zh": "2026年诺贝尔文学奖：安妮·卡森的古今相接"
+    },
+    {
+     "title": "不学苏联，也不学英美：1930年代中国经济构想",
+     "link": "http://www.eeo.com.cn/2026/1012/1061406.shtml",
+     "pubDate": "Mon, 12 Oct 2026 13:07:16 +0800",
+     "summary": "1930年代初，统制经济之所以会突然引起中国知识界和政策当局的高度关注，有两个非常重要的背景：一方面，1929年经济大危机爆发后，中国知识界开始对自由资本主义的前景产生了疑问；另一方面，被苏联大肆宣传的第一个五年计划又还不足以完全消除中国知识界对苏式计划经济的疑虑。于是，作为第三种选择，被认为已经得到德意日实践证明的统制经济便进入了中国知识界的视野。",
+     "source": "经济观察网",
+     "zh": "不学苏联，也不学英美：1930年代中国经济构想"
+    },
+    {
      "title": "Asian markets mixed following Wall Street gains; heavy earnings week ahead",
      "link": "https://seekingalpha.com/news/4651962-asian-markets-mixed-following-wall-street-gains-heavy-earnings-week-ahead?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 12 Oct 2026 01:02:11 -0400",
@@ -2386,14 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "SBI Group and Mesh prep digital asset JV"
     },
     {
-     "title": "Amazon in talks to acquire AI startup Decart for $7B: WSJ",
-     "link": "https://seekingalpha.com/news/4651954-amazon-in-talks-to-acquire-ai-startup-decart-for-7b-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 11 Oct 2026 19:17:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Amazon in talks to acquire AI startup Decart for $7B: WSJ"
-    },
-    {
      "title": "10月12日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
      "link": "http://finance.eastmoney.com/news/11158,202610123892139733.html",
      "pubDate": "Mon, 12 Oct 2026 06:03:56 +0800",
@@ -2408,54 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
      "source": "CNBC",
      "zh": "Trump says he is &apos;going to look at&apos; joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike"
-    },
-    {
-     "title": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
-     "link": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 21:17:58 GMT",
-     "summary": "Lawmakers from both parties say the agreement would finance Putin’s war machine in Ukraine and violate US law",
-     "source": "Financial Times",
-     "zh": "Trump faces Republican opposition to his diesel deal with Russia’s Putin"
-    },
-    {
-     "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-     "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 20:15:00 GMT",
-     "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-     "source": "MarketWatch",
-     "zh": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children."
-    },
-    {
-     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 20:00:00 GMT",
-     "summary": "“I presume these are sophisticated investors taking a profit.”",
-     "source": "MarketWatch",
-     "zh": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?"
-    },
-    {
-     "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-     "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 19:32:00 GMT",
-     "summary": "“Both properties will be solely in his name.”",
-     "source": "MarketWatch",
-     "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
-    },
-    {
-     "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-     "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 19:32:00 GMT",
-     "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-     "source": "MarketWatch",
-     "zh": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?"
-    },
-    {
-     "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
-     "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
-     "pubDate": "Sun, 11 Oct 2026 18:40:51 GMT",
-     "summary": "Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin",
-     "source": "Financial Times",
-     "zh": "US threatens to block arms for Ukraine over attacks on Russian refineries"
     }
    ]
   },

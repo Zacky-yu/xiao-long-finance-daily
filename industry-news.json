@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/12 16:05:38",
+ "generated_at": "2026/10/12 16:09:49",
  "recent_days": 7,
  "industries": [
   {
@@ -598,7 +598,7 @@
      "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
      "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
      "source": "Robohub",
-     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与 Kushant Patel"
+     "zh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
     },
     {
      "title": "Cevotec brings robotic composite lamination to South Korea with KCompositeLab partnership",
@@ -782,7 +782,7 @@
      "pubDate": "Sun, 11 Oct 2026 12:16:33 +0000",
      "summary": "Mitusbishi’s North American dealers have been trudging along with an aging, badge-engineered model line for years – but overseas? It’s a different story, and the 459 hp all-wheel drive ASX VR-e electric hot hatch shown here is plug-in proof. more…",
      "source": "Electrek",
-     "zh": "459 马力、3.9 秒内从 0-60 英里加速和全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
+     "zh": "459 马力、3.9 秒内从 0 加速到 60 英里以及全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
     },
     {
      "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
@@ -1022,7 +1022,7 @@
      "pubDate": "Sun, 11 Oct 2026 10:00:00 -0500",
      "summary": "Australia has long been known for its strong coal industry, being one of the world’s largest producers and exporters. While much of the world moves away from coal in favour of cleaner energy sources, Australia is doubling down on its coal production, with plans to extend the life of coal operations ",
      "source": "OilPrice",
-     "zh": "尽管巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
+     "zh": "尽管有巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
     },
     {
      "title": "Successful Market Launch of the Electric Urban Car Family: CUPRA Raval, Volkswagen ID. Polo, Škoda Epiq, and Volkswagen ID. Cross Together for the First Time at the Paris Motor Show",
@@ -1398,7 +1398,7 @@
      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
      "summary": "Seattle-based Kapta Space announced a $24M Series A to build next-gen radar payloads designed to track moving targets. The post Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：Kapta Space 筹集了 2400 万美元的 A 轮融资，用于构建移动目标雷达有效载荷"
+     "zh": "独家：Kapta Space A 轮融资 2400 万美元，用于构建移动目标雷达有效载荷"
     },
     {
      "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
@@ -1622,7 +1622,7 @@
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击"
+     "zh": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击"
     },
     {
      "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -1729,12 +1729,36 @@
    "total": 18,
    "items": [
     {
+     "title": "How hacked civilian cameras became war tools, as Israel tapped Iranian traffic cameras before Khamenei&apos;s killing and Iran-linked groups hit 250+ Israeli cameras (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261012/p6#a261012p6",
+     "pubDate": "Mon, 12 Oct 2026 04:05:01 -0400",
+     "summary": "Wall Street Journal : How hacked civilian cameras became war tools, as Israel tapped Iranian traffic cameras before Khamenei's killing and Iran-linked groups hit 250+ Israeli cameras &nbsp; &mdash;&nbsp; The highly vulnerable devices have turned into tools for combatants to track, surveil and attack",
+     "source": "Techmeme",
+     "zh": "被黑客入侵的民用摄像机如何成为战争工具，以色列在哈梅内伊被杀之前窃听了伊朗的交通摄像机，以及与伊朗有关的组织攻击了 250 多个以色列摄像机（华尔街日报）"
+    },
+    {
+     "title": "Arena 公布新一轮 AI 大模型周榜：Claude Opus 5.5 Max 首登智能体榜首，国产多模型稳定中上游",
+     "link": "https://www.ithome.com/1/011/948.htm",
+     "pubDate": "Mon, 12 Oct 2026 08:04:09 GMT",
+     "summary": "IT之家 10 月 12 日消息，Arena（ arena.ai ）平台发布 2026 年第 41 周 AI 大模型排行榜，覆盖时间为 2026-10-05 ~ 2026-10-11。本期榜单中，Anthropic 全新 Claude Opus 5.5 Max 首次入榜智能体榜即夺得第一；国产模型 kimi-k3-max 稳居综合榜前 20，qwen3.8-max 等多款国产模型保持稳定排名，整体处于中上游梯队。 IT之家注 ：本榜单基于 Arena（ arena.ai ）平台匿名盲测投票，通过 ELO（智能体榜为百分比信号）计算排名，反映用户主观偏好而非绝对能力测试；不同分榜相互独立，不宜跨",
+     "source": "IT之家",
+     "zh": "Arena 公布新一轮 AI 大模型周榜：Claude Opus 5.5 Max 首登智能体榜首，国产多模型稳定中上游"
+    },
+    {
      "title": "消息称阔屏直板工程机测试天玑旗舰芯，预计为 OPPO 旗下",
      "link": "https://www.ithome.com/1/011/942.htm",
      "pubDate": "Mon, 12 Oct 2026 08:01:17 GMT",
      "summary": "IT之家 10 月 12 日消息，据 @数码闲聊站 今日爆料，某厂阔屏直板机现阶段工程机测试天玑旗舰芯，影像最高测试大底双 2 亿， 配备 6.35 英寸阔屏 ，大概率定位是 Pro。结合该博主的爆料习惯，新机预计为 OPPO 旗下。 该博主此前爆料，OPPO 阔直板工程机是标准 16:9， LIPO 极窄四等边设计 ，目测边框 1mm±，看标准视频会铺满整块屏幕，机身宽度大概是 81mm。 IT之家注意到，除了阔屏直板机，还有爆料显示 OPPO 有望推出搭载 2nm 芯片的阔折叠。该机预计采用 7.6 英寸无痕铰链方案，工程机是三星屏，搭载 200Mp 大底主摄 +50Mp 超广角 +50M",
      "source": "IT之家",
      "zh": "消息称阔屏直板工程机测试天玑旗舰芯，预计为 OPPO 旗下"
+    },
+    {
+     "title": "《最终幻想14》手游之死：MMO的新品诅咒",
+     "link": "https://www.huxiu.com/article/4896827.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 15:59:00 +0800",
+     "summary": "本文来自微信公众号： 游戏广角GameLens ，作者：游戏广角编辑部 MMO为何新王难立？ 9月底，腾讯旗下手游《最终幻想14：水晶世界》（下文简称FF14手游）关掉了它在中国的最后一台服务器。 从2025年6月19日公测算起，这款被寄予厚望的大IP新作仅仅存活了1年零3个月，整个生命周期尚不足500天。 倘若看纸面数据，FF14手游其实有着一手好牌。一边是运营了十多年、全球注册用户超3000万、被玩家称作“MMO口碑天花板”的超长青IP，另一边是腾讯自身团队的研发实力，加上Square Enix原厂监制、吉田直树亲自站台——如此强强联合的组合，放在任何一家公司的立项会上恐怕都意味着“稳稳的",
+     "source": "虎嗅",
+     "zh": "《最终幻想14》手游之死：MMO的新品诅咒"
     },
     {
      "title": "2026 华为终端创新技术沟通会首日十大技术品牌亮相，一图读懂",
@@ -1801,14 +1825,6 @@
      "zh": "王腾称 ISHO 今日宜休在健康科学研究、临床医学验证上已累计投入上千万，今年圣诞节前能买到产品"
     },
     {
-     "title": "特斯拉：今年 9 月，Model Y 在北欧五国拿下全品类乘用车销冠",
-     "link": "https://www.ithome.com/1/011/935.htm",
-     "pubDate": "Mon, 12 Oct 2026 07:47:24 GMT",
-     "summary": "IT之家 10 月 12 日消息，特斯拉今日宣布，今年 9 月，Model Y 在丹麦、芬兰、冰岛、挪威、瑞典北欧五国拿下全品类乘用车销冠。 在挪威，每 4 辆新车就有 1 辆是特斯拉 。 据IT之家此前报道，2026 年第三季度，特斯拉全球生产了超 46.4 万辆电动车，交付了超 48.6 万辆；储能产品装机量达 13.7 吉瓦时。 官方公告显示，2026 年第三季度特斯拉 Model 3/Y 生产 457,387 辆，交付 478,237 辆；其他车型生产 7,004 辆，交付 8,295 辆。 延伸阅读 综合外媒与挪威公路联合会（OFV）的数据，2026 年 9 月挪威共注册 18,73",
-     "source": "IT之家",
-     "zh": "特斯拉：今年 9 月，Model Y 在北欧五国拿下全品类乘用车销冠"
-    },
-    {
      "title": "A look at China&apos;s bid to turn excess wind and solar energy into an AI edge via a $3.9T grid buildout through 2049, as ~9% of renewable output was wasted in 2026 (Bloomberg)",
      "link": "https://www.techmeme.com/261012/p5#a261012p5",
      "pubDate": "Mon, 12 Oct 2026 03:45:00 -0400",
@@ -1839,14 +1855,6 @@
      "summary": "这不是一篇食品安全报道。这是一篇关于“怎么打一场不能还手还要打赢的仗”的记录……",
      "source": "钛媒体",
      "zh": "公关暗战全记录：2000万流量绞杀，4天反转必输局"
-    },
-    {
-     "title": "物理学诺奖的中微子，为何是幽灵粒子？观察它能起到什么作用？",
-     "link": "https://www.huxiu.com/article/4895814.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 15:30:00 +0800",
-     "summary": "中微子被称为宇宙幽灵粒子，每秒有650亿个穿过你的指甲盖，你却毫无感觉。它几乎不与任何物质发生反应，连100光年厚的铅板都拦不住，速度接近光速，是宇宙级穿墙王和信使。",
-     "source": "虎嗅",
-     "zh": "物理学诺奖的中微子，为何是幽灵粒子？观察它能起到什么作用？"
     },
     {
      "title": "全球汽油汽车销量首次低于五成",
@@ -1929,6 +1937,14 @@
      "zh": "Linux 手机会成为 Android/iOS 双头垄断的可行替代品吗？"
     },
     {
+     "title": "以财务真相、资本效率与行业定义权重估中国核心资产，2026巴伦中国价值榜单全球启动",
+     "link": "https://www.tmtpost.com/8165046.html",
+     "pubDate": "Mon, 12 Oct 2026 12:51:00 +0800",
+     "summary": "Barron's 巴伦 1921 年由道琼斯创刊，百余年来深刻影响全球投资者、企业管理者与基金经理的决策。如今它以 “全球视野，发现中国价值” 为使命，搭建本土商业价值度量衡，寻找值得全球资本长期配置的中国资产。2026巴伦中国价值榜单覆盖企业、人物、机构三大维度，设置多类细分序列，囊括核心资产、行业标杆、商业领袖与穿越周期的投资力量。",
+     "source": "钛媒体",
+     "zh": "以财务真相、资本效率与行业定义权重估中国核心资产，2026巴伦中国价值榜单全球启动"
+    },
+    {
      "title": "Sources: TSMC execs in charge of overseas operations met Texas officials and started more serious discussions in H1 2026, after talking on and off for 10+ years (Tim Culpan/Culpium)",
      "link": "https://www.techmeme.com/261012/p2#a261012p2",
      "pubDate": "Mon, 12 Oct 2026 00:25:00 -0400",
@@ -1945,28 +1961,12 @@
      "zh": "消息来源：PCB 制造商东山计划最快本月在香港上市，筹集 20 亿至 30 亿美元资金；东山在深圳上市，估值 39B 美元（彭博社）"
     },
     {
-     "title": "Hardware wallet maker Ledger says the $86M+ theft from hundreds of its wallets involved devices sold by reseller CryptoBilis and confirms a \"hardware implant\" (Terrence O&apos;Brien/The Verge)",
-     "link": "https://www.techmeme.com/261011/p17#a261011p17",
-     "pubDate": "Sun, 11 Oct 2026 23:40:01 -0400",
-     "summary": "Terrence O'Brien / The Verge : Hardware wallet maker Ledger says the $86M+ theft from hundreds of its wallets involved devices sold by reseller CryptoBilis and confirms a &ldquo;hardware implant&rdquo; &nbsp; &mdash;&nbsp; A spy implant in some Ledger crypto wallets may be the root of an $86 million",
-     "source": "Techmeme",
-     "zh": "硬件钱包制造商 Ledger 表示，其数百个钱包被盗的金额超过 8600 万美元，涉及经销商 CryptoBilis 出售的设备，并确认存在“硬件植入”（Terrence O'Brien/The Verge）"
-    },
-    {
      "title": "Crest – an Arc-inspired open-source browser for Mac",
      "link": "https://crestbrowser.com/",
      "pubDate": "Mon, 12 Oct 2026 03:37:09 +0000",
      "summary": "Article URL: https://crestbrowser.com/ Comments URL: https://news.ycombinator.com/item?id=50051097 Points: 12 # Comments: 5",
      "source": "Hacker News",
      "zh": "Crest – 一款受 Arc 启发的 Mac 开源浏览器"
-    },
-    {
-     "title": "Chinese Appliance Brands Gain in Europe, But Share Alone Is Fragile",
-     "link": "https://www.tmtpost.com/8164986.html",
-     "pubDate": "Mon, 12 Oct 2026 11:06:03 +0800",
-     "summary": "Chinese firms dominated exhibitor ranks at IFA Berlin and lifted air-conditioner share in Europe. Much of the jump tracks a severe heat wave and thin local capacity. Lasting advantage will depend less on export volume than on brands, channels and interoperable systems built on the ground.",
-     "source": "钛媒体",
-     "zh": "中国家电品牌在欧洲取得进展，但仅靠市场份额很脆弱"
     }
    ]
   },
@@ -2006,7 +2006,7 @@
      "pubDate": "Mon, 12 Oct 2026 06:09:17 +0000",
      "summary": "You'll have to wait a little longer if you want an Android phone that can also run Windows 11.",
      "source": "Android Authority",
-     "zh": "这款手机运行 Android、Linux 和 Windows，但它只是被推迟了"
+     "zh": "这款手机运行 Android、Linux 和 Windows，但只是被推迟了"
     },
     {
      "title": "Apple could launch its Nest Hub rival tomorrow, alongside two more smart home products",
@@ -2014,7 +2014,7 @@
      "pubDate": "Mon, 12 Oct 2026 05:54:39 +0000",
      "summary": "Apple is preparing to challenge Google and Amazon in the smart home market.",
      "source": "Android Authority",
-     "zh": "苹果可能会在明天推出其竞争对手 Nest Hub，以及另外两款智能家居产品"
+     "zh": "苹果可能会在明天推出其竞争对手 Nest Hub 以及另外两款智能家居产品"
     },
     {
      "title": "A new Google TV Streamer is reportedly coming, and it could be worth the wait",

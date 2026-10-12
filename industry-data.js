@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 12:41:21",
+ "generated_at": "2026/10/12 12:52:04",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "10亿！上海大模型创企拿下新融资",
+     "link": "https://zhidx.com/p/599984.html",
+     "pubDate": "Mon, 12 Oct 2026 12:47:55 +0800",
+     "summary": "智东西 作者 | 江宇 编辑 | 李水青 智东西10月12日报道，今日， 上海大模型公司模思智能 （MOSI）宣布完成 超10亿元 Pre-A轮融资，由华控基金领投，主要投资方包括国开科创、上海科创基金、新微资本、徐汇资本、追光硬科技创投、临港策源基金等，元禾控股、上海国投旗下上海科创集团、星连资本等老股东持续投资。多维资本担任本轮及长期独家财务顾问。 这是模思智能今年第二次官宣融资。 今年3月，模思智能完成数亿元天使轮融资 ，由IDG资本领投，元禾控股、上海国投旗下上海科创及上海未来产业基金、奇绩创坛、智谱系基金星连资本及某头部产业投资方联合投资。 据官方披露，本轮融资资金将主要用于 全模态",
+     "source": "智东西",
+     "zh": "10亿！上海大模型创企拿下新融资"
+    },
     {
      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
      "link": "https://arxiv.org/abs/2610.12493",
@@ -69,7 +77,7 @@ window.INDUSTRY_DATA = {
      "title": "累计43亿！国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿",
      "link": "https://zhidx.com/p/599642.html",
      "pubDate": "Mon, 12 Oct 2026 10:25:34 +0800",
-     "summary": "智东西 作者 | 李水青 编辑 | 漠影 智东西10月12日获悉，国内领先的AI原生基础设施企业 无问芯穹 近日已完成 C轮融资 ，融资额 23亿元 ，累计融资额达 43亿元 ，单轮融资额与累计融资额均创国内AI Infra（人工智能基础设施） 行业新高。 据外媒报道，本轮融资已完成交割，公司正在 筹备IPO。 从2023年成立至今，这家脱胎于清华大学电子工程系的创业公司，已经走到资本市场聚光灯下。背后既有 国资机构 ，也有 产业投资方、市场化财务投资机构 等对AI基础设施赛道的押注。 放眼海外，AI基础设施公司的估值也在快速攀升。 Fireworks AI 最新估值达到175亿美元， Bas",
+     "summary": "智东西 作者 | 李水青 编辑 | 漠影 智东西10月12日获悉，国内领先的AI原生基础设施企业 无问芯穹 近日已完成 C轮融资 ，融资额 23亿元 ，累计融资额达 43亿元 ，单轮融资额与累计融资额均创国内AI Infra（人工智能基础设施） 行业新高。 据外媒报道，公司正在 筹备IPO。 从2023年成立至今，这家脱胎于清华大学电子工程系的创业公司，已经走到资本市场聚光灯下。背后既有 国资机构 ，也有 产业投资方、市场化财务投资机构 等对AI基础设施赛道的押注。 放眼海外，AI基础设施公司的估值也在快速攀升。 Fireworks AI 最新估值达到175亿美元， Baseten 达到130",
      "source": "智东西",
      "zh": "累计43亿！国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿"
     },
@@ -130,30 +138,6 @@ window.INDUSTRY_DATA = {
      "zh": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context"
     },
     {
-     "title": "王的猜想，刚刚扩展到四维",
-     "link": "https://www.qbitai.com/2026/10/502584.html",
-     "pubDate": "Sun, 11 Oct 2026 05:23:47 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "王的猜想，刚刚扩展到四维"
-    },
-    {
-     "title": "硅谷AI现状：谁有算力谁是爹",
-     "link": "https://www.qbitai.com/2026/10/502585.html",
-     "pubDate": "Sun, 11 Oct 2026 05:22:38 +0000",
-     "summary": "马斯克连横A社，硅谷VC开始囤GPU",
-     "source": "量子位",
-     "zh": "硅谷AI现状：谁有算力谁是爹"
-    },
-    {
-     "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-     "link": "https://www.qbitai.com/2026/10/502550.html",
-     "pubDate": "Sun, 11 Oct 2026 05:18:04 +0000",
-     "summary": "初代4o的API快照进入停用倒计时",
-     "source": "量子位",
-     "zh": "下架8个月，GPT-4o的拯救行动居然还在继续"
-    },
-    {
      "title": "ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062101&idx=1&sn=4fa34c4604540b68c52a577eec0cead7",
      "pubDate": "Sun, 11 Oct 2026 12:31:00 +0800",
@@ -202,14 +186,6 @@ window.INDUSTRY_DATA = {
      "zh": "EMNLP'26 Oral | 麻省理工：靠访谈让AI模拟真人，这条路能走多远？"
     },
     {
-     "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-     "link": "https://www.qbitai.com/2026/10/502544.html",
-     "pubDate": "Sun, 11 Oct 2026 03:27:08 +0000",
-     "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
-     "source": "量子位",
-     "zh": "DeepSeek Bot来了！民间版，DSH装个插件就能用"
-    },
-    {
      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
      "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
      "pubDate": "Sat, 10 Oct 2026 22:02:18 +0000",
@@ -248,6 +224,30 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 程茜 编辑 | 漠影 当一台鸿蒙PC，既能跑鸿蒙应用，又能原生开发鸿蒙应用，会发生什么？ 智东西10月10日报道，10月8日，可视化一站式IDE工具DevEco Studio、一站式鸿蒙应用AI开发工具DevEco Code与AI开发能力套件DevEco CLI，同步开启鸿蒙PC版公测。 三者分工明确：DevEco Studio主打集成开发、多端调试，承担基础IDE核心能力；DevEco Code提供端到端一站式Agentic开发体验；DevEco CLI对外输出鸿蒙开发能力，可无缝对接外部各类Agent工作流，让 AI 辅助开发融入鸿蒙 PC 原生环境。 DevEco三件套",
      "source": "智东西",
      "zh": "Agentic开发时代到来！鸿蒙PC三大原生开发工具公测，补齐国产操作系统生态关键短板"
+    },
+    {
+     "title": "编程体验接近Opus 5.5？谷歌Gemini 4新版本曝光",
+     "link": "https://zhidx.com/p/599720.html",
+     "pubDate": "Sat, 10 Oct 2026 19:09:21 +0800",
+     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西10月10日消息，今日，据外媒Business Insider报道，谷歌正在 内部测试Gemini 4的一个新版本 ，代号为 Carbon ，有望进一步缩小其与竞争对手在编程能力上的差距。 目前，Carbon已接入谷歌内部编程平台Jetski。部分员工认为，该模型的编程体验 与Claude Opus 5.5近似 ，但有员工强调，模型实际需要进行更多测试，才能作出更准确的判断。 谷歌已于10月1日发布Gemini 4 Argon ，重点面向 软件工程、企业知识工作、网络安全防御等场景 ，目前该模型尚未面向公众推出。 Carbon可能是Argon训",
+     "source": "智东西",
+     "zh": "编程体验接近Opus 5.5？谷歌Gemini 4新版本曝光"
+    },
+    {
+     "title": "从记忆到自进化：Agent 走向 RSI 的关键一步",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062063&idx=1&sn=f91d6b290b4a38685b85a47415870873",
+     "pubDate": "Sat, 10 Oct 2026 18:23:00 +0800",
+     "summary": "AI 正在从帮助人类完成任务，走向参与自身的研发与改进。",
+     "source": "机器之心",
+     "zh": "从记忆到自进化：Agent 走向 RSI 的关键一步"
+    },
+    {
+     "title": "田渊栋：与GPT-5合写最后一篇论文后，我意识到自己5年内会失业",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062063&idx=2&sn=d05cd2ef38f56306a4226374f53a7aca",
+     "pubDate": "Sat, 10 Oct 2026 18:23:00 +0800",
+     "summary": "与其被动地丢掉工作，不如主动去开一家朝这个方向走的公司。",
+     "source": "机器之心",
+     "zh": "田渊栋：与GPT-5合写最后一篇论文后，我意识到自己5年内会失业"
     }
    ]
   },
@@ -306,14 +306,6 @@ window.INDUSTRY_DATA = {
      "zh": "Commentary: Largan plays defense in phones, presses CPO offensive"
     },
     {
-     "title": "Ed Seeks To Become A Legend",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-looks-to-become-a-legend-2026-10/",
-     "pubDate": "Mon, 12 Oct 2026 00:00:51 +0000",
-     "summary": "I’m scratching the old cranium trying to figure out ways to profit from the expected collapse of the AI boom. At the back of my mind is the lure of […] The post Ed Seeks To Become A Legend appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Ed Seeks To Become A Legend"
-    },
-    {
      "title": "DAC 2027 Opens Call for Contributions as AI Reshapes Chip Design",
      "link": "https://semiwiki.com/events/374512-dac-2027-opens-call-for-contributions-as-ai-reshapes-chip-design/",
      "pubDate": "Sun, 11 Oct 2026 19:00:56 +0000",
@@ -354,14 +346,6 @@ window.INDUSTRY_DATA = {
      "zh": "Hyper-NA EUV: The Next Frontier in Chipmaking Could Arrive in 2036"
     },
     {
-     "title": "Jury still out in Qualcomm vs Arm case",
-     "link": "https://www.electronicsweekly.com/news/business/jury-still-out-in-qualcomm-vs-arm-case-2026-10/",
-     "pubDate": "Sat, 10 Oct 2026 07:20:41 +0000",
-     "summary": "After four hours deliberation yesterday the jury failed to come to a conclusion in the Qualcomm versus Arm law case. It will reassemble to continue is deliberations on Tuesday. The […] The post Jury still out in Qualcomm vs Arm case appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Jury still out in Qualcomm vs Arm case"
-    },
-    {
      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
      "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
      "pubDate": "Fri, 09 Oct 2026 22:00:00 +0000",
@@ -378,14 +362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Solid-State Transformers: Accelerate Your SST Design"
     },
     {
-     "title": "Defence satcom revenues to surpass $23bn by 2035",
-     "link": "https://www.electronicsweekly.com/news/business/defence-satcom-revenues-to-surpass-23-by-2035-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:30:04 +0000",
-     "summary": "Novaspace, the space consulting and market intelligence firm, has released the 2nd Edition of its Satellite Communications for Defense and Security report. This covers the global military satellite communications market, […] The post Defence satcom revenues to surpass $23bn by 2035 appeared first on",
-     "source": "Electronics Weekly",
-     "zh": "Defence satcom revenues to surpass $23bn by 2035"
-    },
-    {
      "title": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems",
      "link": "https://www.eetimes.com/connecting-chiplets-isnt-enough-solving-the-data-movement-challenge-in-multi-die-systems/",
      "pubDate": "Fri, 09 Oct 2026 14:21:07 +0000",
@@ -394,36 +370,12 @@ window.INDUSTRY_DATA = {
      "zh": "Connecting Chiplets Isn’t Enough – Solving the Data Movement Challenge in Multi-Die Systems"
     },
     {
-     "title": "Axiom Space highlights space computing progress",
-     "link": "https://www.electronicsweekly.com/news/axiom-space-highlights-space-computing-progress-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 14:13:03 +0000",
-     "summary": "Axiom Space, which specialises in human spaceflight services and space infrastructure, says it is making progress on its “orbital compute” strategy. Specifically, progress on its Axiom Resilient Compute (ARC) platform. […] The post Axiom Space highlights space computing progress appeared first on El",
-     "source": "Electronics Weekly",
-     "zh": "Axiom Space highlights space computing progress"
-    },
-    {
-     "title": "The Single-Chip PC",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/the-single-chip-pc-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 13:23:25 +0000",
-     "summary": "28 years ago, EW carried this yarn: ‘National Semiconductor’s president and CEO, Brian Halla, said that the company would reduce the chip count of PCs from 12 to one […] The post The Single-Chip PC appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The Single-Chip PC"
-    },
-    {
      "title": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge",
      "link": "https://www.eetimes.com/u-s-manufacturing-activity-sustains-growth-in-september-as-backlogs-surge/",
      "pubDate": "Fri, 09 Oct 2026 12:11:04 +0000",
      "summary": "Manufacturing maintains nine-month growth streak despite soaring costs and trade barriers. The post U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge appeared first on EE Times .",
      "source": "EE Times",
      "zh": "U.S. Manufacturing Activity Sustains Growth in September as Backlogs Surge"
-    },
-    {
-     "title": "Failure analysis in the era of 3D integration",
-     "link": "https://www.electronicsweekly.com/news/business/failure-analysis-in-the-era-of-3d-integration-2026-10/",
-     "pubDate": "Fri, 09 Oct 2026 11:00:13 +0000",
-     "summary": "TSV misalignment revealed with plasma focused ion beam milling Failure analysis has become an integral part of process optimisation and has evolved from a 2D process to a 3D challenge, […] The post Failure analysis in the era of 3D integration appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Failure analysis in the era of 3D integration"
     },
     {
      "title": "Physical AI Needs a Neuromorphic Path from Sensor to Silicon",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "More measurements don’t eliminate blind spots when each view captures only part of the device. The post Closing The Visibility Gap appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Closing The Visibility Gap"
+    },
+    {
+     "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 3",
+     "link": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-3/",
+     "pubDate": "Thu, 08 Oct 2026 07:03:41 +0000",
+     "summary": "The next generation of industry leaders may look very different from the last. The post From Silicon To Systems: Redefining Competitive Advantage, Part 3 appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Silicon To Systems: Redefining Competitive Advantage, Part 3"
+    },
+    {
+     "title": "Shift Left Complicates Fab Data Management",
+     "link": "https://semiengineering.com/shift-left-complicates-fab-data-management/",
+     "pubDate": "Thu, 08 Oct 2026 07:02:25 +0000",
+     "summary": "Streaming sensor data creates new challenges for advanced process control. The post Shift Left Complicates Fab Data Management appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Shift Left Complicates Fab Data Management"
+    },
+    {
+     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
+     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
+    },
+    {
+     "title": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade2-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:01:01 +0100",
+     "summary": "In the latest update of its RF GaN Technology Patent Monitor, KnowMade says that more than 110 new patent families were published during second-quarter 2026...",
+     "source": "Semiconductor Today",
+     "zh": "China comprises majority of new RF GaN patent families in Q2/2026, says KnowMade"
+    },
+    {
+     "title": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+     "link": "https://spectrum.ieee.org/anderon-quantum-fab",
+     "pubDate": "Wed, 07 Oct 2026 13:09:13 +0000",
+     "summary": "The U.S. Department of Commerce has finalized a CHIPS and Science Act R&D award of up to $1 billion for Anderon, a quantum foundry IBM established earlier this year. The 16 September announcement backs a manufacturing service for IBM and other quantum-hardware developers. IBM is matching the award w",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing"
+    },
+    {
+     "title": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/knowmade-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 13:05:31 +0100",
+     "summary": "KnowMade’s latest Lateral Power GaN Patent Monitor update on inventions, patent grants and emerging players across the power gallium nitride (GaN) supply chain shows that second-quarter 2026 was led by industrial patent assignees, while several Chinese universities maintained a strong presence in Ga",
+     "source": "Semiconductor Today",
+     "zh": "Power GaN patenting in Q2/2026 led by industrial assignees, reports KnowMade"
     }
    ]
   },
@@ -1034,12 +1034,12 @@ window.INDUSTRY_DATA = {
      "zh": "Clean-energy super PAC names its target list for general elections"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -1053,7 +1053,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1722,6 +1722,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "IT之家“拿下”真 · 麒麟 9050 Pro 芯片，华为终端创新技术沟通会彩蛋揭晓",
+     "link": "https://www.ithome.com/1/011/855.htm",
+     "pubDate": "Mon, 12 Oct 2026 04:44:17 GMT",
+     "summary": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖启幕。目前，第一天的技术分享活动已告一段落。 在今天活动的最后，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙准备了一份惊喜彩蛋 —— 采用真正的麒麟 9050 Pro 芯片制作的伴手礼。 IT之家也在第一时间“拿下”了这枚真 · 麒麟 9050 Pro 芯片。",
+     "source": "IT之家",
+     "zh": "IT之家“拿下”真 · 麒麟 9050 Pro 芯片，华为终端创新技术沟通会彩蛋揭晓"
+    },
+    {
+     "title": "349 元雅浚 G6 PRO 风冷散热器上市：六热管双塔，12cm+13cm 双风扇支持 280W 解热",
+     "link": "https://www.ithome.com/1/011/854.htm",
+     "pubDate": "Mon, 12 Oct 2026 04:44:13 GMT",
+     "summary": "IT之家 10 月 12 日消息，雅浚（ProArtist）新上架了一款 G6 PRO 风冷散热器，现已开售，京东显示为 349 元，厂商提供 3 年质保服务。 京东 雅浚（ProArtist）G6 CPU 风冷散热器 双塔 6 热管台式电脑散热风扇 G6 PRO 349 元 直达链接 雅浚 G6 PRO 采用六热管双塔设计，整体尺寸为 125×109×158mm，搭配 12cm 与 13cm 双风扇组合，官方标称整体解热功耗可达 280W（IT之家注：普通版 265W）。 这款散热器能够兼容市面上大部分主流机箱，内存默认最高支持 38mm；散热器顶部带有阳极电镀、喷砂与拉丝金属盖板装饰；热管",
+     "source": "IT之家",
+     "zh": "349 元雅浚 G6 PRO 风冷散热器上市：六热管双塔，12cm+13cm 双风扇支持 280W 解热"
+    },
+    {
+     "title": "尊界换刹车方案出炉，大定用户：不要了，5万定金不退也不要了",
+     "link": "https://www.huxiu.com/article/4896768.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 12:40:45 +0800",
+     "summary": "本文来自微信公众号： 量子位ROBO ，作者：有车有据，原文标题：《尊界换刹车方案出炉！大定用户：不要了！5万定金不退也不要了》 巧合？ 刹车踏板测试，现在出现两个方向的新进展。 第一个，是尊界给出了具体的整改措施，这是近期争议事件的进一步延续。 第二个，是行业规则层面出现新动作。 多部门同时关注“速成车”，在踏板事件热议最高点，出台了一份草案，直指新车创新和验证流程： “汽车开发越来越快，安全验证有没有跟上”，又成为新的讨论焦点。 “18个月开发一款新车”可能要被一块刹车踏板，彻底改变了。 尊界先升级，争议进入“工程整改”阶段 尊界公布了后续整改计划。 此前官方回应中提到，将进一步优化制动踏",
+     "source": "虎嗅",
+     "zh": "尊界换刹车方案出炉，大定用户：不要了，5万定金不退也不要了"
+    },
+    {
      "title": "海尔浴霸 M1 系列人感除臭版发布：承袭海尔冰箱净味技术，首发 699 元",
      "link": "https://www.ithome.com/1/011/853.htm",
      "pubDate": "Mon, 12 Oct 2026 04:34:42 GMT",
@@ -1794,22 +1818,6 @@ window.INDUSTRY_DATA = {
      "zh": "尊界V800踏板被踩断：豪华最贵的那部分，恰好是最用不上的那部分，不是么？"
     },
     {
-     "title": "万代南梦宫宣布《火影忍者》手游将面向全球发行，腾讯国服 2016 年上线",
-     "link": "https://www.ithome.com/1/011/848.htm",
-     "pubDate": "Mon, 12 Oct 2026 04:03:03 GMT",
-     "summary": "IT之家 10 月 12 日消息，当地时间 10 月 11 日，万代南梦宫与腾讯在纽约动漫展上联合宣布，由腾讯魔方工作室研发的《火影忍者》手游将推出全球版本，正式面向国际市场发行。 《火影忍者》手游由万代南梦宫正版授权、腾讯魔方工作室研发，最初于 2016 年 5 月 19 日在中国大陆上线，登陆 iOS 和 Android 平台，后于 2025 年 7 月 4 日登陆华为鸿蒙系统。 该游戏以动漫风格的忍术、华丽的奥义大招和快节奏战斗为特色，玩家可收集系列中众多经典忍者角色进行对战。这款游戏此前仅在中国大陆运营，此次全球发行距离游戏首次上线已超过 10 年。 “螺旋丸项目”是万代南梦宫为拓展《",
-     "source": "IT之家",
-     "zh": "万代南梦宫宣布《火影忍者》手游将面向全球发行，腾讯国服 2016 年上线"
-    },
-    {
-     "title": "华为首发星迹定位技术，支持车道亚米级 / 室内车位级导航、专业跑步精准轨迹等",
-     "link": "https://www.ithome.com/1/011/847.htm",
-     "pubDate": "Mon, 12 Oct 2026 04:01:17 GMT",
-     "summary": "IT之家 10 月 12 日现场消息，在今天的华为终端创新技术沟通会上，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙分享了华为星迹定位技术的核心亮点。 随着隧道、跑步、地库、滑雪、室内、高架 / 运动场等场景的拓展，李小龙表示，传统定位技术已无法满足消费者复杂场景需求，因此华为首发了星迹定位技术。 针对高架行驶时没有高精度导航无法及时变道这一痛点，华为采用海思短距芯片 + GNSS 载波相位测量， 实现测距精度提升超 10 倍 。 值得一提的是， 华为星迹定位技术在车道级导航下能实现亚米级的定位精度 。 另外，通过 RTK+AI-PDR 融合，华为 Mate 90",
-     "source": "IT之家",
-     "zh": "华为首发星迹定位技术，支持车道亚米级 / 室内车位级导航、专业跑步精准轨迹等"
-    },
-    {
      "title": "Sources: PCB maker Dongshan is eyeing to raise $2B to $3B in a Hong Kong listing as soon as this month; Dongshan is listed in Shenzhen with a $39B valuation (Bloomberg)",
      "link": "https://www.techmeme.com/261012/p1#a261012p1",
      "pubDate": "Mon, 12 Oct 2026 00:00:44 -0400",
@@ -1824,14 +1832,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 华商韬略 ，作者：华商韬略 2026年9月15日上午，北京国家会议中心二期。 飞书的新一届年度大会被起了一个很长的名字——“2026飞书未来无限大会暨豆包工作开工大会”，并且迎来梁汝波首次出席飞书年度大会并为豆包工作公开站台。 一个月前的8月25日，字节刚发布独立AI办公产品“豆包工作”；再往前，腾讯WorkBuddy于3月9日全量上线，百度搭子3月22日铺开，阿里千问办公8月3日公测。 大模型的军备竞赛还没分出胜负，巨头们已经把主战场推进到了另一个地方：每一个白领的电脑桌面，每一家公司的工作流。 用不了多久，人人都会有个新同事，它干得多，拿得少，态度好，不下班。 飞书的",
      "source": "虎嗅",
      "zh": "互联网巨头大战办公AI"
-    },
-    {
-     "title": "先学后付变先学后债：4880元分12期，一节没上也要还",
-     "link": "https://www.huxiu.com/article/4896756.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 11:51:04 +0800",
-     "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 9月的一个晚上，大三学生林晚在宿舍刷到一条广告，写的是“零基础学剪辑，边学边接单”。 客服告诉她，学费4880元，可以先学后付，分12期，每个月四百出头，接两单就赚回来了。 她填了姓名、身份证号，做了人脸认证。 十分钟后，她名下多了一笔分12期的应收账款。 第一节课，她没打开。 第一个月的账单，准时到了。 这4880元为什么退不掉、停不了、也赖不掉，答案不在课程表里，在一份她以为只是“实名认证”的协议里。 ⑴一节没上，账单照样走 林晚的遭遇不是孤例，而是过去两年投诉量增长最快的一类消费纠纷。 中国消费者协会发布的2025年上半年投诉情况分析显示，",
-     "source": "虎嗅",
-     "zh": "先学后付变先学后债：4880元分12期，一节没上也要还"
     },
     {
      "title": "Hardware wallet maker Ledger says the $86M+ theft from hundreds of its wallets involved devices sold by reseller CryptoBilis and confirms a \"hardware implant\" (Terrence O&apos;Brien/The Verge)",
@@ -1925,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Doory – Open-Source Canva",
      "link": "https://github.com/shaongitbd/doory",
      "pubDate": "Mon, 12 Oct 2026 00:48:27 +0000",
-     "summary": "Article URL: https://github.com/shaongitbd/doory Comments URL: https://news.ycombinator.com/item?id=50049872 Points: 29 # Comments: 3",
+     "summary": "Article URL: https://github.com/shaongitbd/doory Comments URL: https://news.ycombinator.com/item?id=50049872 Points: 38 # Comments: 3",
      "source": "Hacker News",
      "zh": "Doory – Open-Source Canva"
     },
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Local Indexing to reduce tool calling and token usage",
      "link": "https://tedhaley.ca/pensieve/",
      "pubDate": "Mon, 12 Oct 2026 00:03:53 +0000",
-     "summary": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 41 # Comments: 8",
+     "summary": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 44 # Comments: 8",
      "source": "Hacker News",
      "zh": "Local Indexing to reduce tool calling and token usage"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "HashiCorp archives the Boundary open source repo",
      "link": "https://github.com/hashicorp/boundary",
      "pubDate": "Mon, 12 Oct 2026 00:02:45 +0000",
-     "summary": "Article URL: https://github.com/hashicorp/boundary Comments URL: https://news.ycombinator.com/item?id=50049498 Points: 56 # Comments: 12",
+     "summary": "Article URL: https://github.com/hashicorp/boundary Comments URL: https://news.ycombinator.com/item?id=50049498 Points: 57 # Comments: 12",
      "source": "Hacker News",
      "zh": "HashiCorp archives the Boundary open source repo"
     },
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Whatever became of holography? (2011)",
      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
      "pubDate": "Sun, 11 Oct 2026 23:50:34 +0000",
-     "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 96 # Comments: 44",
+     "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 98 # Comments: 47",
      "source": "Hacker News",
      "zh": "Whatever became of holography? (2011)"
     },
@@ -2226,6 +2226,46 @@ window.INDUSTRY_DATA = {
      "zh": "FIS launches agentic AI suite for the office of the CFO"
     },
     {
+     "title": "Verda Healthcare partners with AstranaCare units to expand care options in Arizona and Texas",
+     "link": "https://seekingalpha.com/news/4651963-verda-healthcare-partners-with-astranacare-units-to-expand-care-options-in-arizona-and-texas?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 12 Oct 2026 00:38:52 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Verda Healthcare partners with AstranaCare units to expand care options in Arizona and Texas"
+    },
+    {
+     "title": "香港交易所新增12只每周及月度股票期权类别",
+     "link": "http://hk.eastmoney.com/news/1556,202610123892526453.html",
+     "pubDate": "Mon, 12 Oct 2026 12:37:22 +0800",
+     "summary": "香港交易及结算所有限公司今天（10月12日）宣布，将于2026年11月9日新增12只股票期权类别。是次推出的新股票期权将于首个交易日起同时提供每周及月度到期合约，进一步扩大投资者选择，让市场参与者可按其交易及风险管理需要选择最合适的到期合约。股票期权是 香港交易所 增长最快的衍生产品之一，2026年首9个月的日均成交量为899,056张合约，较去年同期上升1.4%并创出期内纪录新高。其中，每周股票期权亦广受投资者欢迎，自2024年11月推出以来，成交量已超过5,100万张合约，并持续占相关股票期权产品成交量约20%。连同今次新增的产品， 香港交易所 的每周股票期权合约将涵盖66家上市公司及交易",
+     "source": "东方财富股票",
+     "zh": "香港交易所新增12只每周及月度股票期权类别"
+    },
+    {
+     "title": "摩根大通将阿里巴巴目标价从210美元下调至200美元",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892526310.html",
+     "pubDate": "Mon, 12 Oct 2026 12:35:34 +0800",
+     "summary": "摩根大通 将 阿里巴巴 目标价从210美元下调至200美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "摩根大通将阿里巴巴目标价从210美元下调至200美元"
+    },
+    {
+     "title": "天顺风能：已停止向欧盟出口塔筒",
+     "link": "http://stock.eastmoney.com/news/11219,202610123892526590.html",
+     "pubDate": "Mon, 12 Oct 2026 12:34:00 +0800",
+     "summary": "南财智讯10月12日电， 天顺风能 在互动平台表示，自受2021年12月反倾销措施的影响，公司已停止向欧盟出口塔筒。当前公司战略发展业务重心聚焦 海工装备 与零碳实业等高附加值赛道，对公司目前经营无影响。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "天顺风能：已停止向欧盟出口塔筒"
+    },
+    {
+     "title": "力合科技：公司GC-MS设备已用于半导体车间AMC有机物监测",
+     "link": "http://stock.eastmoney.com/news/11219,202610123892526690.html",
+     "pubDate": "Mon, 12 Oct 2026 12:33:00 +0800",
+     "summary": "人民财讯10月12日电， 力合科技 (300800)在互动平台表示，公司气相色谱-质谱联用仪（GC-MS）已应用于 半导体 车间空气AMC挥发性有机物监测。相关 半导体 领域业务尚在拓展阶段。 （文章来源：证券时报网）",
+     "source": "东方财富股票",
+     "zh": "力合科技：公司GC-MS设备已用于半导体车间AMC有机物监测"
+    },
+    {
      "title": "英国政府拟强制前沿人工智能企业报告安全风险并接受监测",
      "link": "http://finance.eastmoney.com/news/1360,202610123892524732.html",
      "pubDate": "Mon, 12 Oct 2026 12:28:34 +0800",
@@ -2290,36 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Judge temporarily halts government-funded Trump midterm ad campaign"
     },
     {
-     "title": "正洽谈收购恒大物业？太盟投资相关负责人“谢绝评论”",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892521512.html",
-     "pubDate": "Mon, 12 Oct 2026 12:14:35 +0800",
-     "summary": "日前， 恒大物业 （HK06666，股价1.205港元，市值130.27亿港元）公告称，清盘人已接获若干潜在买方就潜在交易提交的方案；同时，中国恒大和CEG Holdings（合称潜在卖方）已与一名选定的投标人（称为潜在买方）签订了排他性协议；根据该协议，潜在卖方与潜在买方已同意就潜在交易进行排他性谈判，谈判期限截至2026年10月27日。此后，市场传出消息称，该潜在买方是太盟投资集团（以下简称太盟投资），双方已就收购 恒大物业 多数股权磋商最终条款。对此，10月11日，记者联系了太盟投资相关负责人，但对方表示“谢绝评论”。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "正洽谈收购恒大物业？太盟投资相关负责人“谢绝评论”"
-    },
-    {
-     "title": "北京警方对宜信相关公司立案侦查 对实控人等采取刑事强制措施",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892521682.html",
-     "pubDate": "Mon, 12 Oct 2026 12:14:34 +0800",
-     "summary": "北京市公安局朝阳分局10月12日通报：近期，该局依法对宜信相关公司涉嫌违法犯罪立案侦查。目前，实际控制人唐某（男，53岁）、赵某（女，51岁）等多名犯罪嫌疑人已被依法采取刑事强制措施。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "北京警方对宜信相关公司立案侦查 对实控人等采取刑事强制措施"
-    },
-    {
      "title": "电影《复仇者联盟5：毁灭之日》定档12月16日",
      "link": "http://www.eeo.com.cn/2026/1012/1061387.shtml",
      "pubDate": "Mon, 12 Oct 2026 12:13:20 +0800",
      "summary": "北京商报讯（记者 卢扬 实习记者 张继文）10月12日，据漫威影业官方微博，电影《复仇者联盟5：毁灭之日》官宣定档12月16日。 公开资料显示，该影片由安东尼·罗素、乔·罗素导演，小罗伯特·唐尼、克里斯·埃文斯、克里斯·海姆斯沃斯等人出演。",
      "source": "经济观察网",
      "zh": "电影《复仇者联盟5：毁灭之日》定档12月16日"
-    },
-    {
-     "title": "42只成分股下半年均涨！银行板块多股新高 高股息逻辑持续强化",
-     "link": "http://finance.eastmoney.com/news/11063,202610123892521321.html",
-     "pubDate": "Mon, 12 Oct 2026 12:13:15 +0800",
-     "summary": "10月12日早盘， 银行 板块盘中走强， 工商银行 、 中信银行 、 建设银行 股价均创 历史新高 。截至早间收盘，板块上涨1.55%，涨幅居行业板块前列。 个股方面， 渝农商行 涨超4%， 宁波银行 涨超3%， 招商银行 、 建设银行 、 中信银行 、 中国银行 、 农业银行 、 工商银行 等均涨超2%。 今年下半年以来，随着市场风格“再平衡”， 银行 股持续走强。 据 东方财富 Choice数据，截至10月12日午盘，申万 银行 42只成分股无一下跌。其中， 苏州银行 、 中信银行 涨幅最大，均超30%； 宁波银行 、 齐鲁银行 、 交通银行 、 中国银行 、 杭州银行 、 南京银行 、 ",
-     "source": "东方财富股票",
-     "zh": "42只成分股下半年均涨！银行板块多股新高 高股息逻辑持续强化"
     },
     {
      "title": "第七届上海宠物时装周10月底启幕，首设爬宠专场",
@@ -2440,22 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "Beijing’s push to diversify away from the dollar and Chinese households’ search for a safe place to put their savings has fueled China’s record gold buying.",
      "source": "CNBC",
      "zh": "Why China is importing a record amount of gold — and what it means for prices"
-    },
-    {
-     "title": "SBI Group and Mesh prep digital asset JV",
-     "link": "https://www.finextra.com/newsarticle/48567/sbi-group-and-mesh-prep-digital-asset-jv?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Mon, 12 Oct 2026 00:01:00 GMT",
-     "summary": "Japan's SBI Group is teaming up with crypto infrastructure provider Mesh Connect and Money Forward on a digital asset joint venture.",
-     "source": "Finextra",
-     "zh": "SBI Group and Mesh prep digital asset JV"
-    },
-    {
-     "title": "Amazon in talks to acquire AI startup Decart for $7B: WSJ",
-     "link": "https://seekingalpha.com/news/4651954-amazon-in-talks-to-acquire-ai-startup-decart-for-7b-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 11 Oct 2026 19:17:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Amazon in talks to acquire AI startup Decart for $7B: WSJ"
     }
    ]
   },

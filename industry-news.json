@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/12 15:09:54",
+ "generated_at": "2026/10/12 15:29:53",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Security Becomes a Sign-off Item",
+     "link": "https://www.eetimes.com/security-becomes-a-sign-off-item/",
+     "pubDate": "Mon, 12 Oct 2026 07:10:22 +0000",
+     "summary": "Europe’s CRA turns chip security into auditable sign-off, pushing silicon teams to prove resilience before 2027. The post Security Becomes a Sign-off Item appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "安全性成为签核项目"
+    },
+    {
      "title": "Leadsun Greentech enters EV charging with three DC fast-charging sites",
      "link": "https://www.digitimes.com/news/a20261012PD228/vehicle-taiwan-electricity-demand-equipment.html",
      "pubDate": "Mon, 12 Oct 2026 06:43:53 GMT",
@@ -431,14 +439,6 @@
      "summary": "Physical AI will be limited in the real world if we keep pretending that physical data comes packaged like the digital world. The post Physical AI Needs a Neuromorphic Path from Sensor to Silicon appeared first on EE Times .",
      "source": "EE Times",
      "zh": "物理人工智能需要一条从传感器到芯片的神经形态路径"
-    },
-    {
-     "title": "Worlds First Single Chip Multiturn Position Sensor in Smaller Form Factor",
-     "link": "https://www.eetimes.com/worlds-first-single-chip-multiturn-position-sensor-in-smaller-form-factor/",
-     "pubDate": "Fri, 09 Oct 2026 08:08:26 +0000",
-     "summary": "Join this webinar, where our expert will explore the technology behind the ADMT4000 and how its ability to track multiple rotations and angular movement without power is transforming the design of both linear and rotary actuators. The post Worlds First Single Chip Multiturn Position Sensor in Smalle",
-     "source": "EE Times",
-     "zh": "世界首款尺寸更小的单芯片多圈位置传感器"
     },
     {
      "title": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs",
@@ -657,6 +657,22 @@
    "total": 5,
    "items": [
     {
+     "title": "The Fiat Multipla Is Back—And It’s A Pickup, A Minivan, And An SUV",
+     "link": "https://insideevs.com/news/811536/fiat-multiplay-concept-modular-suv-minivan/",
+     "pubDate": "Mon, 12 Oct 2026 07:21:09 +0000",
+     "summary": "The Multiplay concept has a sliding rear section that transforms the body from SUV to truck in no time.",
+     "source": "InsideEVs",
+     "zh": "菲亚特 Multipla 又回来了——它是一辆皮卡、一辆小型货车和一辆 SUV"
+    },
+    {
+     "title": "China September NEV retail sales fall 16.7% as penetration hits record 67%, CPCA data shows",
+     "link": "https://cnevpost.com/2026/10/12/china-sept-2026-nev-retail-cpca/",
+     "pubDate": "Mon, 12 Oct 2026 07:10:45 +0000",
+     "summary": "China's NEV retail sales totaled 1.084 million in September, down 16.7% year-on-year for a ninth consecutive monthly decline. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "CPCA数据显示，中国9月新能源汽车零售量下降16.7%，渗透率创历史新高67%"
+    },
+    {
      "title": "Xpeng steps up Australia, New Zealand push with Mona L03 launch",
      "link": "https://cnevpost.com/2026/10/12/xpeng-mona-l03-launch-australia-new-zealand/",
      "pubDate": "Mon, 12 Oct 2026 06:20:05 +0000",
@@ -761,14 +777,6 @@
      "zh": "459 马力、3.9 秒内从 0 加速到 60 英里以及全轮驱动 – 认识三菱的新时代电动 EVO [视频]"
     },
     {
-     "title": "Nio reaches 500 swap stations in Guangdong, with over 17 million swaps completed",
-     "link": "https://cnevpost.com/2026/10/11/nio-500-swap-stations-guangdong/",
-     "pubDate": "Sun, 11 Oct 2026 08:24:13 +0000",
-     "summary": "Guangdong accounts for about 13% of Nio's cumulative battery swaps in China. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "蔚来广东换电站已达500座，完成换电站超1700万次"
-    },
-    {
      "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
      "link": "https://insideevs.com/reviews/811410/engineering-explained-mustang-mach-e/",
      "pubDate": "Sat, 10 Oct 2026 14:00:00 +0000",
@@ -799,14 +807,6 @@
      "summary": "The solution to supercharge curbside EV charging might be right above your head.",
      "source": "InsideEVs",
      "zh": "我测试了纽约市的第一个灯柱电动汽车充电器。这是一个游戏规则的改变者"
-    },
-    {
-     "title": "Jaguar And Kia Just Proved That Design Matters Just As Much As Specs",
-     "link": "https://insideevs.com/features/811385/the-jaguar-type-01-proves-that-designs-matter/",
-     "pubDate": "Fri, 09 Oct 2026 16:28:04 +0000",
-     "summary": "Neither can claim technological superiority over their competitors. But they’re both far more compelling because of how they look.",
-     "source": "InsideEVs",
-     "zh": "捷豹和起亚刚刚证明设计与规格一样重要"
     },
     {
      "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
@@ -1721,36 +1721,68 @@
    "total": 18,
    "items": [
     {
-     "title": "小米米家智能腰背按摩仪众筹开启：450mm 加长柔性导轨，509 元",
-     "link": "https://www.ithome.com/1/011/910.htm",
-     "pubDate": "Mon, 12 Oct 2026 07:05:16 GMT",
-     "summary": "IT之家 10 月 12 日消息，米家智能腰背按摩仪今日在小米有品开启众筹，活动截止时间为 10 月 19 日，众筹价 509 元（ 点击前往 ）。 这款产品采用 450mm 加长柔性双导轨 ，按摩头可沿脊柱两侧自动上下移动，覆盖肩胛至腰骶区域。导轨弧度为 R550mm，参考国标设计，可贴合腰背曲线。 按摩仪内置两大两小高韧性按摩头，按摩头高低起伏排布，模拟指压效果。设备预设 7 种模式，并可通过米家 App 自编 3 种按摩模式。 连接米家 App 后，用户可通过手机操控。App 内可开启区域按摩，按摩头在小范围内往返揉按，用于局部按压，缓解肌肉疲劳。除米家 App 远程操控外，其侧边设有实",
+     "title": "唯品会自研 AI 助手“AI 小唯”低调上线，灰度试水商品 AI 对比功能",
+     "link": "https://www.ithome.com/1/011/927.htm",
+     "pubDate": "Mon, 12 Oct 2026 07:22:42 GMT",
+     "summary": "10 月 12 日下午消息，据知情人士向新浪科技独家透露，唯品会近期上线了自研 AI 助手“ AI 小唯 ”，由唯品会大模型团队开发，支持文字与语音对话，可提供找商品、查活动、问优惠等服务能力。 新浪科技检索招聘平台信息发现，唯品会正在高薪招募大模型核心岗位，包括大模型后训练负责人、LLM 数据合版负责人、大模型 SFT 文本数据负责人等， 岗位月薪区间 50K-80K，对应年薪 60 万至 96 万 ，不断加大大模型团队人才密度和建设速度。 据了解，这批 AI 人才的核心任务，就是拆解“AI 小唯”所需能力维度，覆盖导购意图识别、商品理解、推荐生成、多轮对话等模块；针对每一项模型能力定义数据",
      "source": "IT之家",
-     "zh": "小米米家智能腰背按摩仪众筹开启：450mm 加长柔性导轨，509 元"
+     "zh": "唯品会自研 AI 助手“AI 小唯”低调上线，灰度试水商品 AI 对比功能"
     },
     {
-     "title": "联通香港深圳的新皇岗口岸开通：采用“合作查验、一次放行”通关模式，开行多条接驳巴士线路",
-     "link": "https://www.ithome.com/1/011/909.htm",
-     "pubDate": "Mon, 12 Oct 2026 07:04:34 GMT",
-     "summary": "IT之家 10 月 12 日消息，据港媒 HK01 报道，联通香港深圳的新皇岗口岸于今日（10 月 12 日）早上 6 时 30 分正式启用。香港方面安排 7 条专营巴士线路及 6 条专线小巴线路投入运营，过境旅客可从口岸直达港岛、九龙及新界各区。 相应口岸采用“合作查验、一次放行”模式，两地政府在口岸边界线两侧各自的司法管辖区内并排设置自助及人工查验设施。旅客使用自助通道时，只需排一次队、检查一次证件、核验一次身份，即可通过两地出入境查验区域，一次性完成双方的出入境手续。旅客经新皇岗口岸通关的整体时间预计将从原落马洲／皇岗口岸的约 30 分钟大幅缩短至约 5 分钟。 交通方面，新皇岗口岸开通",
-     "source": "IT之家",
-     "zh": "联通香港深圳的新皇岗口岸开通：采用“合作查验、一次放行”通关模式，开行多条接驳巴士线路"
+     "title": "下载破亿，字节短剧出海杀疯了，靠免费再造一头“流量巨兽”",
+     "link": "https://www.huxiu.com/article/4896813.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 15:21:19 +0800",
+     "summary": "本文来自微信公众号： 第一新声 ，作者：第一新声，原文标题：《下载破亿！字节短剧出海杀疯了，靠免费再造一头“流量巨兽”》 上线不到一年，下载量突破1亿，日活约700万，月新增下载超过1700万次。 这是字节跳动旗下短剧App PineDrama交出的成绩单。在Sensor Tower发布的2026年第二季度中国非游戏应用出海下载榜上，它排到第七，成为短剧出海赛道里一股不容忽视的新势力。 更值得关注的是它的增长路径。 过去，海外短剧平台普遍采用“前几集免费、后续付费解锁”的模式，靠用户充值和订阅实现变现。PineDrama却选择了另一条路：把剧集免费开放给用户，再借助TikTok的内容分发能力，",
+     "source": "虎嗅",
+     "zh": "下载破亿，字节短剧出海杀疯了，靠免费再造一头“流量巨兽”"
     },
     {
-     "title": "亚马逊《银翼杀手 2099》正式预告公布：杨紫琼主演，设定在《2049》五十年后",
-     "link": "https://www.ithome.com/1/011/908.htm",
-     "pubDate": "Mon, 12 Oct 2026 07:03:34 GMT",
-     "summary": "IT之家 10 月 12 日消息，亚马逊 Prime Video 在纽约漫展上发布了《银翼杀手 2099》的正式预告片和主视觉海报。 这部剧共 8 集，将于 11 月 25 日一次性上线 Prime Video，覆盖全球 240 多个国家和地区。该剧是《银翼杀手》系列首部真人剧集，由 Amazon MGM Studios 与 Alcon Television Group 联合出品。 据 Prime Video 官方剧情简介，其故事发生在《银翼杀手 2049》事件五十年后的洛杉矶。这座城市已经“重生”，但重塑它的并非人类。 按剧中设定，2049 年至 2099 年间爆发了复制人起义，人类在战争中",
-     "source": "IT之家",
-     "zh": "亚马逊《银翼杀手 2099》正式预告公布：杨紫琼主演，设定在《2049》五十年后"
+     "title": "“县城快餐之王”，吃上了卡戴珊流量",
+     "link": "https://www.huxiu.com/article/4896812.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 15:21:19 +0800",
+     "summary": "本文来自微信公众号： 金角财经 ，作者：麦麦颖 没想到，重新把德克士带进年轻人话题里的，会是卡戴珊。 近日，“欧美话题女王”卡戴珊一家游览上海野生动物园时，被拍到购买德克士冰淇淋，并在社媒引起广泛讨论。 |图源：小红书网友 德克士亦反应很快。先是推出“6元金姐同款冰淇淋”，又发小红书称“年纪轻轻全款拿下金姐同款”“Let’s显化”，并在评论区抽奖，给10名参与者各送出5次香草冰淇淋券。 从照片流出到新品上线，德克士几乎无缝接住了这泼天富贵，连“显化”这个与卡戴珊相关的网络梗也没落下，这次可谓是把互联网玩明白了。 德克士接招这么快，也是不想让这波意外的流量，热闹几天就过去了。 从1994年在成都",
+     "source": "虎嗅",
+     "zh": "“县城快餐之王”，吃上了卡戴珊流量"
     },
     {
-     "title": "devolo 推出 BE9300 规格 Wi-Fi 7 无线路由器，内置天线设计",
-     "link": "https://www.ithome.com/1/011/907.htm",
-     "pubDate": "Mon, 12 Oct 2026 07:00:51 GMT",
-     "summary": "IT之家 10 月 12 日消息，德国网络企业 devolo 当地时间本月 8 日宣布推出 BE9300 规格的 Wi-Fi 7 无线路由器。这一型号 采用内置天线设计 ，可方便融入各类住宅环境。 devolo WiFi 7 BE9300 在 2.4GHz / 5GHz / 6GHz 三个频段均支持 2T2R， 无线速率分别可达 688Mbps / 2882Mbps / 5765Mbps ；有线提供 1 个 2.5GbE RJ-45 WAN / LAN、3 个 1GbE RJ-45 LAN。 该设备支持 MESH 组网，具备防火墙、黑名单流量控制、访客 Wi-Fi 等一系列软件附加功能，后续还",
+     "title": "上汽大众 ID.ERA 8X 增程 SUV 上市，限时权益价 20.68 万元起",
+     "link": "https://www.ithome.com/1/011/923.htm",
+     "pubDate": "Mon, 12 Oct 2026 07:19:24 GMT",
+     "summary": "IT之家 10 月 12 日消息，上汽大众 ID.ERA 8X 增程 SUV 今日正式上市， 限时权益价 20.68 万元起 。 该车长 5020mm、宽 1997mm，高 1750mm，轴距为 2970mm，采用利落短悬设计、4 倍轮轴比、趋近 1:2 的窗身比，还配备机翼式长扰流板，大面积熏黑包围。 前脸配备纤薄环宇贯穿灯带、两侧 L 型日行灯，全新“六核高能格”光阶灯毯循序排列，启闭间，光阶逐步点亮。此外，该车还配备 EA211 黄金增程器、行云智能底盘，提供“毫秒级智控”。 内饰方面，新车搭载云栖智舱，搭载了行业首创的 Smart Surface 魔术屏，配备主副驾超清双联屏以及 W-",
      "source": "IT之家",
-     "zh": "devolo 推出 BE9300 规格 Wi-Fi 7 无线路由器，内置天线设计"
+     "zh": "上汽大众 ID.ERA 8X 增程 SUV 上市，限时权益价 20.68 万元起"
+    },
+    {
+     "title": "坚果 N1 Air 第五代变焦版激光投影上架：0.23\" DMD 芯片、1080P 1800CVIA，国补后 2599.2 元",
+     "link": "https://www.ithome.com/1/011/919.htm",
+     "pubDate": "Mon, 12 Oct 2026 07:18:29 GMT",
+     "summary": "IT之家 10 月 12 日消息，坚果现已在京东上架 N1 Air 第五代变焦版激光投影，该产品配备 0.23\" DMD 显示芯片、主打 1080P 1800CVIA，官方称国补后到手价低至 2599.2 元。 京东 坚果投影 N1 Air 第五代变焦版 点此访问 直达链接 该产品采用了杏仁白配色，机身尺寸为 187x165x191mm，重量 1.9kg。配备“行业首创一体式云台设计”，支持 127° 俯仰调节，能够轻松实现直投天花板。 该产品搭载新一代 MALC 护眼纯三色激光和 Qualas 42 激光器，亮度达到了 1800 CVIA，配备 0.23\" DMD 显示芯片，能够提供 192",
+     "source": "IT之家",
+     "zh": "坚果 N1 Air 第五代变焦版激光投影上架：0.23\" DMD 芯片、1080P 1800CVIA，国补后 2599.2 元"
+    },
+    {
+     "title": "索尼 LinkBuds Clip 耳夹式 TWS 耳机新增“鎏光金”中国限定色，10 月 23 日上市",
+     "link": "https://www.ithome.com/1/011/915.htm",
+     "pubDate": "Mon, 12 Oct 2026 07:17:34 GMT",
+     "summary": "IT之家 10 月 12 日消息，索尼中国本月 9 日宣布，索尼音扣 LinkBuds Clip 耳夹式真无线耳机新增中国限定色“鎏光金”， 这一新款式将于 2026 年 10 月 23 日开售 。 LinkBuds Clip 内置 10mm 驱动单元，搭载数字声音增强引擎；支持 SBC、AAC 编解码器；具备漏音抑制、人声增强、标准 3 种聆听模式；每侧内置 2 颗波束成形麦克风；支持骨声纹识别 VPU 技术。 其单体质量约 6.4g；拥有灵动枕与柔感宽弧桥结构；获得 IP4X 防水认证；本体续航约 9hr，整机续航约 37hr。 相关阅读： 《 1299 元，索尼 LinkBuds Cli",
+     "source": "IT之家",
+     "zh": "索尼 LinkBuds Clip 耳夹式 TWS 耳机新增“鎏光金”中国限定色，10 月 23 日上市"
+    },
+    {
+     "title": "倍思推出新款 10 合 1 扩展坞：自带屏幕、支持双 4K 60Hz 输出",
+     "link": "https://www.ithome.com/1/011/914.htm",
+     "pubDate": "Mon, 12 Oct 2026 07:17:26 GMT",
+     "summary": "IT之家 10 月 12 日消息，倍思现已在海外市场推出 Spacemate RD1 扩展坞新品。这款产品主打 10 合 1 设计，支持双 4K 60Hz 输出， 配备 6 个 USB 接口 ，拥有自带显示屏。 IT之家了解到， 该产品正面配备 2 个 10Gbps USB-C 接口 ，还有 1 个支持 30W 输出的 USB-C PD 充电接口。背面带有 3 个 5Gbps USB-A 接口、2 个最高可输出 4K 60Hz 的 HDMI 接口、1 个千兆以太网口，以及 1 个 120WDC 输入圆孔。 同时，这款扩展坞正面带有一块智能显示屏，可直观展示各接口传输速率、充电功率等，还能够在连",
+     "source": "IT之家",
+     "zh": "倍思推出新款 10 合 1 扩展坞：自带屏幕、支持双 4K 60Hz 输出"
+    },
+    {
+     "title": "赵长江称智界汽车订单数量都不发了，透露 RX 卖得很不错",
+     "link": "https://www.ithome.com/1/011/912.htm",
+     "pubDate": "Mon, 12 Oct 2026 07:16:23 GMT",
+     "summary": "IT之家 10 月 12 日消息，智界汽车执行董事及执行副总裁赵长江今日发文， 谈及了智界 R7（焕新款）的大定用户画像 。 IT之家注意到，评论区有网友询问为何现在还没有发智界 R7、智界 RX 的订单数量。赵长江回复称：“ 我们都不发了。 ”还有网友询问智界 RX 卖得如何，赵长江透露：“ 很不错。 ” 此前鸿蒙智行“五界”品牌常在汽车预售、上市时公布小订、大定数据，此次赵长江称“都不发了”表明将改变策略，用户后续只能各个车企通过每月公布的销量数据以及鸿蒙智行官方公布的交付数据来判断智界汽车的销售情况。 据IT之家此前报道， 智界 R7 焕新款于 9 月 28 日上市 ，号称 5 亿投资升",
+     "source": "IT之家",
+     "zh": "赵长江称智界汽车订单数量都不发了，透露 RX 卖得很不错"
     },
     {
      "title": "川A车牌为什么随处可见？",
@@ -1759,22 +1791,6 @@
      "summary": "成都人不是在旅游，就是在去旅游的路上，川A车无处不在，高速、景区、楼下随处可见。",
      "source": "虎嗅",
      "zh": "川A车牌为什么随处可见？"
-    },
-    {
-     "title": "《GTA6》游戏获美国 ESRB 评级：M（17+）",
-     "link": "https://www.ithome.com/1/011/906.htm",
-     "pubDate": "Mon, 12 Oct 2026 06:59:52 GMT",
-     "summary": "IT之家 10 月 12 日消息，《GTA6》游戏现已获得美国娱乐软件分级委员会（ESRB）评级：Mature， 适合 17 岁以上玩家游玩 。 ESRB 官网显示，《侠盗猎车手 VI》将包含血腥暴力、激烈暴力、成人幽默、裸露内容、粗俗语言、强烈性内容和药物 / 酒精使用， 并包含游戏内购买项目 。从这些描述来看，游戏获得 M 评级可谓是理所当然。 同时，澳大利亚和新西兰将《GTA6》评为 R18+ 级，欧洲分级机构则是将本作评为 PEGI 18。根据 PEGI 提供的信息，游戏将包含斩首、肢解等，玩家可携带可卡因，游戏中还会出现歧视性语言。 IT之家注： 《GTA6》将于 11 月 19 日",
-     "source": "IT之家",
-     "zh": "《GTA6》游戏获美国 ESRB 评级：M（17+）"
-    },
-    {
-     "title": "2K＋185Hz，维信诺 × iQOO × 清华大学屏幕技术沟通会定档 10 月 14 日",
-     "link": "https://www.ithome.com/1/011/905.htm",
-     "pubDate": "Mon, 12 Oct 2026 06:58:19 GMT",
-     "summary": "IT之家 10 月 12 日消息，iQOO 手机今日宣布，维信诺 ×iQOO× 清华大学屏幕技术沟通会，10 月 14 日 19:00 见。据介绍，iQOO Neo12 手机将搭载 2K＋185Hz 显示屏，官方宣称“难度远不止参数相加”。 在此之前，iQOO Neo12 手机已官宣首发搭载 pTSF 技术的 2K 185Hz 超冠屏，超高清与超高刷并发，通透与省电兼得，本月见。 此外，该机还搭载第五代骁龙 8 至尊版处理器 + 冰穹风冷散热系统，配备自研电竞芯片 Q3，支持光追、超分、超帧、滤镜、游戏相机。新机内置 9000mAh 蓝海大电池，采用单电芯设计、第五代硅负极技术，能量密度高达 ",
-     "source": "IT之家",
-     "zh": "2K＋185Hz，维信诺 × iQOO × 清华大学屏幕技术沟通会定档 10 月 14 日"
     },
     {
      "title": "土地财政谢幕之后，谁来接盘？",
@@ -1801,20 +1817,28 @@
      "zh": "租房市场大变天：家具越少，越抢手"
     },
     {
-     "title": "张一鸣又造出一个亿级爆款",
-     "link": "https://www.huxiu.com/article/4896807.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 14:50:42 +0800",
-     "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：怪哥 字节跳动又跑出了一个亿级爆款。 这次，依然是短剧。 根据Sensor Tower披露的数据，字节旗下海外短剧APP PineDrama上线约9个月，累计下载量已经突破1亿，日活跃用户达到约700万。 这个成绩相当夸张。 截至2026年9月，全球累计下载量突破1亿的独立短剧App只有7款，PineDrama是其中唯一一款上线不足一年的新产品。 更有意思的是，这款产品的玩法，跟字节在国内已经做成功的红果短剧非常相似。字节旗下，又一爆款出圈。 字节这是准备把红果在国内跑通的生意，再拿到海外做一遍。 巧合的是，就在字节的海外短剧业务不断传来捷报时，",
-     "source": "虎嗅",
-     "zh": "张一鸣又造出一个亿级爆款"
+     "title": "微软在 Qwen 模型基础上推出决策模型 Microsoft-Decision-1",
+     "link": "https://www.solidot.org/story?sid=85584",
+     "pubDate": "Mon, 12 Oct 2026 14:44:23 +0800",
+     "summary": "微软加入了 Jev 粉丝俱乐部，推出了自己的决策模型。Jev 针对特定问题对大模型进行调优，减少“幻觉”，适用于各种商业应用场景。微软在阿里巴巴的开放权重模型 Qwen3.5-9B 基础上推出了 Microsoft-Decision-1。软件巨人表示未来会用自研模型及 OpenAI 的模型取代 Qwen 模型。微软称，其模型在延迟测试中速度分别是 H2O-Lightning-4B 的 2.5 倍和 Jev 的 2.8 倍；在 36 项基准测试中准确率（83.5%）位居榜首；置信度得分（92.2%）排名第二（仅次于 Quyet-1.0-Large）；在文本分类任务中，其成本不到 OpenAI G",
+     "source": "Solidot",
+     "zh": "微软在 Qwen 模型基础上推出决策模型 Microsoft-Decision-1"
     },
     {
-     "title": "我，速成公司，董事长",
-     "link": "https://www.huxiu.com/article/4896802.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 14:41:59 +0800",
-     "summary": "本文来自微信公众号： 数星星的星哥 ，作者：singsing2020 我是一家AI4S公司的董事长。 现在有人说我的公司叫“速成公司”。 他们说的也不能说是错的，毕竟我从做这家公司，估值20亿美金，1413天，我清楚的记得这个数字。 我还记得20亿美金轮次签约那天。 庆祝晚宴，有个投资人凑过来敬酒：“陆总，教科书级别的速度。” 我笑了笑，没接话。 一个价值百亿的故事 我从来没有想过自己会创业。 毕竟在大厂很舒服的，一年几百万收入，还有股票，旱涝保收。 直到一天，一个FA找到了我，他真的算我人生中的贵人。 他跟我说，陆总，你这个履历，你这个背景，大把投资人追着投。 我有点心动，但是又有点害怕：“",
-     "source": "虎嗅",
-     "zh": "我，速成公司，董事长"
+     "title": "AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware",
+     "link": "https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/",
+     "pubDate": "Mon, 12 Oct 2026 06:43:01 +0000",
+     "summary": "Article URL: https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/ Comments URL: https://news.ycombinator.com/item?id=50052217 Points: 4 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "AI 构建的 Torrent 网站会检查下载内容以发现假货和恶意软件"
+    },
+    {
+     "title": "Attack of the Vibe Coded Photoshop Clones",
+     "link": "https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones",
+     "pubDate": "Mon, 12 Oct 2026 06:35:05 +0000",
+     "summary": "Article URL: https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones Comments URL: https://news.ycombinator.com/item?id=50052156 Points: 23 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Vibe 编码 Photoshop 克隆的攻击"
     },
     {
      "title": "寅家电子：递表前夕突击入股，两月估值暴涨152%，持续亏损造血失灵｜IPO观察",
@@ -1852,7 +1876,7 @@
      "title": "Type-safe HTML templating in Zig",
      "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
      "pubDate": "Mon, 12 Oct 2026 05:02:34 +0000",
-     "summary": "Article URL: https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html Comments URL: https://news.ycombinator.com/item?id=50051573 Points: 51 # Comments: 23",
+     "summary": "Article URL: https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html Comments URL: https://news.ycombinator.com/item?id=50051573 Points: 62 # Comments: 29",
      "source": "Hacker News",
      "zh": "Zig 中的类型安全 HTML 模板"
     },
@@ -1860,17 +1884,9 @@
      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
      "link": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
      "pubDate": "Mon, 12 Oct 2026 04:54:00 +0000",
-     "summary": "Article URL: https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/ Comments URL: https://news.ycombinator.com/item?id=50051530 Points: 73 # Comments: 52",
+     "summary": "Article URL: https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/ Comments URL: https://news.ycombinator.com/item?id=50051530 Points: 83 # Comments: 76",
      "source": "Hacker News",
      "zh": "Linux 手机会成为 Android/iOS 双头垄断的可行替代品吗？"
-    },
-    {
-     "title": "以财务真相、资本效率与行业定义权重估中国核心资产，2026巴伦中国价值榜单全球启动",
-     "link": "https://www.tmtpost.com/8165046.html",
-     "pubDate": "Mon, 12 Oct 2026 12:51:00 +0800",
-     "summary": "Barron's 巴伦 1921 年由道琼斯创刊，百余年来深刻影响全球投资者、企业管理者与基金经理的决策。如今它以 “全球视野，发现中国价值” 为使命，搭建本土商业价值度量衡，寻找值得全球资本长期配置的中国资产。2026巴伦中国价值榜单覆盖企业、人物、机构三大维度，设置多类细分序列，囊括核心资产、行业标杆、商业领袖与穿越周期的投资力量。",
-     "source": "钛媒体",
-     "zh": "以财务真相、资本效率与行业定义权重估中国核心资产，2026巴伦中国价值榜单全球启动"
     },
     {
      "title": "Sources: TSMC execs in charge of overseas operations met Texas officials and started more serious discussions in H1 2026, after talking on and off for 10+ years (Tim Culpan/Culpium)",
@@ -1900,7 +1916,7 @@
      "title": "Crest – an Arc-inspired open-source browser for Mac",
      "link": "https://crestbrowser.com/",
      "pubDate": "Mon, 12 Oct 2026 03:37:09 +0000",
-     "summary": "Article URL: https://crestbrowser.com/ Comments URL: https://news.ycombinator.com/item?id=50051097 Points: 6 # Comments: 1",
+     "summary": "Article URL: https://crestbrowser.com/ Comments URL: https://news.ycombinator.com/item?id=50051097 Points: 7 # Comments: 2",
      "source": "Hacker News",
      "zh": "Crest – 一款受 Arc 启发的 Mac 开源浏览器"
     },
@@ -1943,22 +1959,6 @@
      "summary": "光遗传学拿了诺奖，中国光动力出海",
      "source": "钛媒体",
      "zh": "从诺奖到中国创新药出海，生命科学迎接“光”的时代"
-    },
-    {
-     "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-     "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-     "pubDate": "Mon, 12 Oct 2026 00:59:01 +0000",
-     "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-     "source": "TechCrunch",
-     "zh": "TechCrunch Disrupt 2026 创始人指南：您需要了解的一切"
-    },
-    {
-     "title": "Doory – Open-Source Canva",
-     "link": "https://github.com/shaongitbd/doory",
-     "pubDate": "Mon, 12 Oct 2026 00:48:27 +0000",
-     "summary": "Article URL: https://github.com/shaongitbd/doory Comments URL: https://news.ycombinator.com/item?id=50049872 Points: 82 # Comments: 18",
-     "source": "Hacker News",
-     "zh": "Doory – 开源 Canva"
     }
    ]
   },
@@ -2217,6 +2217,78 @@
    "total": 13,
    "items": [
     {
+     "title": "Trump fails to reverse slide in popularity as voters sour on economy, FT poll shows",
+     "link": "https://seekingalpha.com/news/4651974-trump-fails-to-reverse-slide-in-popularity-as-voters-sour-on-economy-ft-poll-shows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 12 Oct 2026 03:16:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "英国《金融时报》民意调查显示，由于选民对经济感到不满，特朗普未能扭转支持率下滑的局面"
+    },
+    {
+     "title": "科创板收盘播报：科创综指跌2.51% 总成交额大幅缩量",
+     "link": "http://stock.eastmoney.com/news/11134,202610123892642237.html",
+     "pubDate": "Mon, 12 Oct 2026 15:15:50 +0800",
+     "summary": "新华财经北京10月12日电（罗浩）科创50指数和科创综指12日早间分别以0.92%和0.60%的跌幅低开。两股指盘初弱势整理，10时14分至10时26分期间有一波较大幅度拉升，科创50指数早盘盘中最大涨幅达1.11%，科创综指早盘盘中最大涨幅达0.50%，此后两股指整体呈震荡下行态势，收盘时均大幅下跌。 截至收盘，科创50指数报1426.72点，跌幅2.10%，成分股总成交额约646亿元，成交额较上一交易日大幅缩量。科创综指收于1683.30点，跌幅2.51%，总成交额约2032亿元，总成交额较上一交易日大幅缩量。 当日，科创板个股呈涨少跌多态势，94股收涨，占比约15.24%。细分领域中，仅",
+     "source": "东方财富股票",
+     "zh": "科创板收盘播报：科创综指跌2.51% 总成交额大幅缩量"
+    },
+    {
+     "title": "香港交易所11月9日将新增12只股票期权类别",
+     "link": "http://hk.eastmoney.com/news/11223,202610123892645679.html",
+     "pubDate": "Mon, 12 Oct 2026 15:15:30 +0800",
+     "summary": "10月12日，香港交易及结算所有限公司（以下简称“ 香港交易所 ”）宣布，将于2026年11月9日新增12只股票期权类别。 此次推出的新股票期权将于首个交易日起同时提供每周及月度到期合约，进一步扩大投资者选择，让市场参与者可按其交易及风险管理需要选择最合适的到期合约。 股票期权是 香港交易所 增长最快的衍生产品之一，2026年前9个月的日均成交量为89.9056万张合约，较去年同期上升1.4%并创出期内纪录新高。其中，每周股票期权亦广受投资者欢迎，自2024年11月推出以来，成交量已超过5100万张合约，并持续占相关股票期权产品成交量约20%。连同此次新增的产品， 香港交易所 的每周股票期权合",
+     "source": "东方财富股票",
+     "zh": "香港交易所11月9日将新增12只股票期权类别"
+    },
+    {
+     "title": "欧盟呼吁特朗普停止与俄罗斯达成柴油供应协议并实施更严厉制裁",
+     "link": "http://finance.eastmoney.com/news/1351,202610123892641455.html",
+     "pubDate": "Mon, 12 Oct 2026 15:14:41 +0800",
+     "summary": "欧盟最高外交官呼吁特朗普对俄罗斯实施新一轮制裁，而不是与莫斯科达成柴油供应协议。欧盟外交与安全政策高级代表卡拉斯周一在卢森堡出席欧盟外长会议前表示：“我们呼吁美国实施制裁，以便真正结束这场战争，从而消除炼油厂遭袭带来的种种影响。”特朗普上周五表示，他正与俄罗斯总统普京合作，推动俄罗斯柴油供应进入全球市场。此举打破了多年来的制裁政策，旨在美国中期选举前缓解全球燃油价格压力。卡拉斯表示，正确的逻辑恰恰相反：只有对莫斯科施加更多制裁和压力，才能从根本上结束能源供应中断。她表示：“如果美国能够与欧盟对俄制裁政策保持一致，我们就能真正施加压力，迫使俄罗斯结束这场战争。” （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "欧盟呼吁特朗普停止与俄罗斯达成柴油供应协议并实施更严厉制裁"
+    },
+    {
+     "title": "贵州茅台重返A股“第一高价股”",
+     "link": "http://stock.eastmoney.com/news/11215,202610123892645349.html",
+     "pubDate": "Mon, 12 Oct 2026 15:14:00 +0800",
+     "summary": "10月12日， 贵州茅台 (600519)涨1.98%，收盘价报1288元/股，超过 联讯仪器 1277元/股的收盘价，重新成为A股“第一高价股”。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "贵州茅台重返A股“第一高价股”"
+    },
+    {
+     "title": "规格高、热度高、价值高、势能高 2026中国地理信息产业大会将在渝举行",
+     "link": "http://www.eeo.com.cn/2026/1012/1061509.shtml",
+     "pubDate": "Mon, 12 Oct 2026 15:13:27 +0800",
+     "summary": "新闻发布会现场。第1眼TV-华龙网记者 李一鸣 摄 第1眼TV-华龙网讯（首席记者 陈雨）中...",
+     "source": "经济观察网",
+     "zh": "规格高、热度高、价值高、势能高 2026中国地理信息产业大会将在渝举行"
+    },
+    {
+     "title": "三大赛道全新升级 第五届全国ETF菁英挑战赛正式开赛",
+     "link": "http://stock.eastmoney.com/news/1406,202610123892641162.html",
+     "pubDate": "Mon, 12 Oct 2026 15:13:24 +0800",
+     "summary": "为普及ETF投资知识，传播科学投资方法论，引导广大投资者树立长期投资、理性投资、价值投资理念，由深圳证券交易所主办、 东方财富 担任主办平台，多家头部基金公司提供专业支持的第五届全国ETF菁英挑战赛今日正式开赛。本届大赛迭代升级，设置ETF投资赛、ETF研究赛、ETF定投赛三大赛道，让不同投资背景的参与者都能找到契合自身定位的赛道。 其中ETF投资赛面向全体个人投资者开放，比赛时间为2026年10月12日至2027年1月29日，分设高校组、社会组独立评奖。参赛选手将获得百万模拟交易本金，在仿真交易环境下配置大赛指定ETF品种，沉浸式体验指数投资实操过程。 ETF研究赛专为高校学生打造，采用三人",
+     "source": "东方财富股票",
+     "zh": "三大赛道全新升级 第五届全国ETF菁英挑战赛正式开赛"
+    },
+    {
+     "title": "绿色动力：并购工作以垃圾焚烧发电领域同业整合为主",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892642178.html",
+     "pubDate": "Mon, 12 Oct 2026 15:13:00 +0800",
+     "summary": "绿色动力 在10月12日召开的2026年半年度业绩说明会上表示，公司将继续聚焦垃圾焚烧发电主业，持续做大做强核心业务。在收并购方面，公司保持开放态度。现阶段，公司并购工作以垃圾焚烧发电领域同业整合为主，以进一步做强做大垃圾焚烧发电主业。在海外市场方面，公司持续关注海外市场发展机遇，并将持续跟踪、适时参与具备优质投资价值的海外项目招投标工作。 （文章来源：南方财经网）",
+     "source": "东方财富股票",
+     "zh": "绿色动力：并购工作以垃圾焚烧发电领域同业整合为主"
+    },
+    {
+     "title": "市场淡化中东风险，美股期货上扬，韩股收跌3.6%，油价回落，黄金小幅下跌",
+     "link": "https://wallstreetcn.com/articles/3783408",
+     "pubDate": "Mon, 12 Oct 2026 15:09:21 +0800",
+     "summary": "股债期货周一走高，油价从早盘高位回落，投资者整体选择忽视也门胡塞武装袭击沙特首都机场所带来的地缘风险。不过，霍尔木兹海峡危机悬而未决，能源市场的通胀压力或将持续，并成为本周美欧通胀数据公布前的主要不确定因素。 标普500期货上涨0.3%，欧洲斯托克50指数开盘涨0.4%，显示西方市场情绪相对稳定。亚洲市场则明显落后，MSCI亚太指数下跌0.3%，韩国综合股价指数在上周五假期休市后恢复交易，收盘重挫3.6%，报6384.24点。高盛同日宣布，基于盈利增长前景，将美国股票评级上调至增持，期限为三个月。 与此同时，美联储主席沃什本周预计将公开发言，投资者将密切关注其就进一步加息节奏发出的信号。上周，",
+     "source": "华尔街见闻",
+     "zh": "市场淡化中东风险，美股期货上扬，韩股收跌3.6%，油价回落，黄金小幅下跌"
+    },
+    {
      "title": "TotalEnergies and KKR expand U.S. renewable JV with $1.2B solar acquisition",
      "link": "https://seekingalpha.com/news/4651972-totalenergies-and-kkr-expand-us-renewable-jv-with-12b-solar-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 12 Oct 2026 03:03:18 -0400",
@@ -2228,41 +2300,9 @@
      "title": "A股三大指数收跌 成交额1.55万亿 影视板块逆市大涨",
      "link": "http://finance.eastmoney.com/news/1345,202610123892633328.html",
      "pubDate": "Mon, 12 Oct 2026 15:00:42 +0800",
-     "summary": "A股三大指数今日集体回调，截止收盘，沪指跌0.43%，收报3797.24点；深证成指跌2.03%，收报12384.87点；创业板指跌2.61%，收报2963.82点。沪深京三市成交额仅有1.55万亿，较上一交易日缩量3659亿。 行业板块多数收跌，影视院线、 风电设备、 传媒、银行板块涨幅居前，贵金属、房地产服务、能源金属、元件、小金属、石油石化、稀土、有色金属板块跌幅居前。 个股方面，上涨股票数量不足1200只，近50只股票涨停。影视板块逆市大涨，欢瑞世纪、博纳影业、慈文传媒、上海电影涨停。 今日要闻 商务部新闻发言人就中欧混动汽车、电动汽车磋商共识答记者问 问：近日，中欧双方在贸易投资磋商",
-     "source": "东方财富股票",
+     "summary": "A股三大指数今日集体回调，截止收盘，沪指跌0.43%，收报3797.24点；深证成指跌2.03%，收报12384.87点；创业板指跌2.61%，收报2963.82点。沪深京三市成交额仅有1.55万亿，较上一交易日缩量3659亿。 行业板块多数收跌，影视院线、 风电设备、 传媒、银行板块涨幅居前，贵金属、房地产服务、能源金属、元件、小金属、石油石化、稀土、有色金属板块跌幅居前。 个股方面，上涨股票数量不足1200只，近50只股票涨停。影视板块逆市大涨，欢瑞世纪、博纳影业、慈文传媒、上海电影涨停。 行业资金流向：8.68亿净流入 银行 行业资金方面，截至收盘， 银行 、影视 院线 、 风电设备 等",
+     "source": "东方财富资讯",
      "zh": "A股三大指数收跌 成交额1.55万亿 影视板块逆市大涨"
-    },
-    {
-     "title": "沙特能源部长：能源安全与能源转型问题应共同推进",
-     "link": "http://finance.eastmoney.com/news/1351,202610123892633694.html",
-     "pubDate": "Mon, 12 Oct 2026 14:59:05 +0800",
-     "summary": "沙特能源部长：能源安全与能源转型问题应共同推进。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "沙特能源部长：能源安全与能源转型问题应共同推进"
-    },
-    {
-     "title": "花旗维持SpaceX“买入”评级，称星舰技术里程碑比季度业绩更重要",
-     "link": "http://stock.eastmoney.com/news/1611,202610123892633496.html",
-     "pubDate": "Mon, 12 Oct 2026 14:58:59 +0800",
-     "summary": "花旗维持 SpaceX “买入”评级，认为星舰第14次飞行测试成功进一步巩固了公司的发射能力优势，并为更广泛的太空基础设施业务扩张奠定基础。该机构指出，相比太空业务的季度财务表现，投资者更应关注星舰关键技术节点能否持续兑现。第14次飞行首次进入轨道，并通过部署26颗下一代Starlink V3卫星完成首个创收任务；测试期间，一台真空猛禽发动机提前关机，但飞船通过延长其余5台发动机工作时间完成预定飞行轨迹，同时成功执行首次离轨点火，超级重型助推器也完成模拟“筷子夹取”轨迹的软溅落。花旗预计 SpaceX 年底前至少还将进行一次第15次飞行，并可能首次尝试用发射塔机械臂捕获星舰上面级，认为这是实现",
-     "source": "东方财富股票",
-     "zh": "花旗维持SpaceX“买入”评级，称星舰技术里程碑比季度业绩更重要"
-    },
-    {
-     "title": "博通首席执行官：多数企业投入AI算力，但无法获得回报",
-     "link": "http://stock.eastmoney.com/news/1611,202610123892632898.html",
-     "pubDate": "Mon, 12 Oct 2026 14:58:59 +0800",
-     "summary": "博通 首席执行官：多数企业投入AI算力，但无法获得回报。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "博通首席执行官：多数企业投入AI算力，但无法获得回报"
-    },
-    {
-     "title": "前中信证券军工首席高嵩履新建新股份董秘 系董事长女婿",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892625993.html",
-     "pubDate": "Mon, 12 Oct 2026 14:58:33 +0800",
-     "summary": "近日，“女婿出任上市公司董秘”的话题在市场流传并引发广泛关注。 建新股份 最新公告显示，公司董事会同意聘任高嵩担任公司董事会秘书。该人事任命之所以受到关注，原因有二：其一，高嵩曾任 中信证券 军工 行业首席分析师；其二，高嵩系 建新股份 实控人朱守琛的女婿。 前 军工 首席分析师高嵩出任 建新股份 董秘 上周五，建新股份发布公告称，因公司内部工作调整，陈学为申请辞去董事会秘书职务，继续担任公司总经理职务。同时，经董事长提名，公司董事会同意聘任高嵩担任公司董事会秘书。 履历显示，高嵩出生于1984年，拥有清华大学 汽车 工程系学士学位以及德国慕尼黑工业大学机械工程系硕士学位。2007年10月至2",
-     "source": "东方财富股票",
-     "zh": "前中信证券军工首席高嵩履新建新股份董秘 系董事长女婿"
     },
     {
      "title": "Michael Burry adds BYD shares after calling automaker a potential low-cost leader",
@@ -2337,14 +2377,6 @@
      "zh": "地下埋着九代晋侯：天马曲村，晋国六百年的起点"
     },
     {
-     "title": "郑钦文赢了，她身后的品牌如何接住这场胜利？",
-     "link": "http://www.eeo.com.cn/2026/1012/1061466.shtml",
-     "pubDate": "Mon, 12 Oct 2026 14:43:06 +0800",
-     "summary": "作者 戴莉娟 10月11日晚，郑钦文以7比5、6比4击败安德列娃，成为中网首位本土女单冠军，拿下个人首个WTA1000级别赛事冠军。随后，霸王茶姬宣布次日饮品及gelato买一送一；上汽奥迪的“买一送一”传播也进入公众视野，赠送的是同款车模。耐克则用一句“这块地盘，还得她做东”，回应这场主场胜利。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpeg/FDA19E64EE1FF8ADFCDA469C06E9C142.jpeg\" con...",
-     "source": "经济观察网",
-     "zh": "郑钦文赢了，她身后的品牌如何接住这场胜利？"
-    },
-    {
      "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
      "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
      "pubDate": "Mon, 12 Oct 2026 06:42:57 GMT",
@@ -2375,14 +2407,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "马斯克表示，他希望通过定制设备加速芯片设计过程"
-    },
-    {
-     "title": "Vallourec awarded TotalEnergies contract for Absheron gas field development",
-     "link": "https://seekingalpha.com/news/4651968-vallourec-awarded-totalenergies-contract-for-absheron-gas-field-development?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 12 Oct 2026 02:06:27 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "瓦卢瑞克授予TotalEnergies阿布歇隆气田开发合同"
     },
     {
      "title": "Oil falls after Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine",
@@ -2431,30 +2455,6 @@
      "summary": "Scale AI联合创始人Alexandr Wang加入Meta不到一年，带领一支不足200人的团队，打造出Meta押注消费级AI的核心产品Muse——这背后，是一次押注方向的豪赌，一段7个月的打磨，以及一个关于如何让产品真正“破圈”的故事。 10月11日，Meta首席AI官Alexandr Wang在美国知名博客《David Senra》中分享了其团队打造Muse的过程。 Llama 4受挫，扎克伯格亲自出手 2025年，Meta的Llama 4未能达到公司预期。 Wang描述了当时的背景：“Llama 4没有走在Meta作为公司想要的轨道上，这在内部确实是一次失望，而且是在AI变得越来越重",
      "source": "华尔街见闻",
      "zh": "Alexandr Wang谈打造Muse：7个月不足200人，不卷编程不拼参数，Meta豪赌个人AI"
-    },
-    {
-     "title": "Trump battles to save the Senate",
-     "link": "https://www.ft.com/content/62bab2c8-d4e2-4ec2-a911-80439f61f238?syn-25a6b1a6=1",
-     "pubDate": "Mon, 12 Oct 2026 04:00:17 GMT",
-     "summary": "Losing the Republican majority in the chamber would be bruising for the president. A vote in rural Iowa may determine his fate",
-     "source": "Financial Times",
-     "zh": "特朗普为拯救参议院而战"
-    },
-    {
-     "title": "There is a smarter way to tax the rich",
-     "link": "https://www.ft.com/content/e6c9d380-7108-405a-8393-5240771809fe",
-     "pubDate": "Mon, 12 Oct 2026 04:00:16 GMT",
-     "summary": "Increasing US corporate tax raises government revenues without harming the tax base",
-     "source": "Financial Times",
-     "zh": "有一种更明智的方法对富人征税"
-    },
-    {
-     "title": "The huge lurking leverage of AI hyperscalers",
-     "link": "https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1",
-     "pubDate": "Mon, 12 Oct 2026 04:00:07 GMT",
-     "summary": "While equity investors look to sunny futures, creditors are scrutinising liabilities like leases on data centres",
-     "source": "Financial Times",
-     "zh": "人工智能超大规模的巨大潜在影响力"
     }
    ]
   },

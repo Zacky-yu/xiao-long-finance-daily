@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 11:31:59",
+ "generated_at": "2026/10/12 11:51:58",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "累计43亿！国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿",
+     "link": "https://zhidx.com/p/599642.html",
+     "pubDate": "Mon, 12 Oct 2026 10:25:34 +0800",
+     "summary": "智东西 作者 | 李水青 编辑 | 漠影 智东西10月12日获悉，国内领先的AI原生基础设施企业 无问芯穹 近日已完成 C轮融资 ，融资额 23亿元 ，累计融资额达 43亿元 ，单轮融资额与累计融资额均创国内AI Infra（人工智能基础设施） 行业新高。 据了解，本轮融资已完成交割，公司正在 筹备IPO。 从2023年成立至今，这家脱胎于清华大学电子工程系的创业公司，已经走到资本市场聚光灯下。背后既有 国资机构 ，也有 产业投资方、市场化财务投资机构 等对AI基础设施赛道的押注。 放眼海外，AI基础设施公司的估值也在快速攀升。 Fireworks AI 最新估值达到175亿美元， Baset",
+     "source": "智东西",
+     "zh": "累计43亿！国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿"
+    },
     {
      "title": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
      "link": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西10月10日报道，一项来自麻省理工学院（MIT）等机构的研究发现， 只要固定基础模型回答开头的两个Token，就能让模型的数学推理成绩接近对应的强化学习版本 。 以艾伦人工智能研究所（Ai2）的基础模型Olmo-3-7B为例， 将回答固定为“.\\n\\nOkay”开头 后，模型在MATH-500上的 准确率从42%升至78% ， 超过其强化学习版本的75% 。 这个过程没有修改模型参数，也没有给模型增加新的解题示例。模型只是换了一个回答起点，原本没有稳定表现出来的解题能力，似乎就更容易被调用出来。 换句话说，基础模型答错题，有时不一定是完全不会做",
      "source": "智东西",
      "zh": "00后硕士揭开AI推理“黑科技”：两个Token，基模追平强化学习版本"
-    },
-    {
-     "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
-     "link": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
-     "pubDate": "Sat, 10 Oct 2026 06:03:09 +0000",
-     "summary": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that returns a calibrated probability for each fixed answer option instead of generated text. It is post-trained from Alibaba’s ",
-     "source": "MarkTechPost",
-     "zh": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model"
     }
    ]
   },
@@ -658,6 +658,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Huawei-backed Aito plans European expansion next year, report says",
+     "link": "https://cnevpost.com/2026/10/12/aito-plans-european-expansion-2027/",
+     "pubDate": "Mon, 12 Oct 2026 03:38:00 +0000",
+     "summary": "Aito has begun EU whole-vehicle type approval work and will showcase 4 SUVs at the Paris Motor Show. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Huawei-backed Aito plans European expansion next year, report says"
+    },
+    {
      "title": "Chery recalls Omoda 5 in Malaysia after rear axle detachment incident",
      "link": "https://cnevpost.com/2026/10/12/chery-recalls-omoda-5-malaysia/",
      "pubDate": "Mon, 12 Oct 2026 02:35:46 +0000",
@@ -768,14 +776,6 @@ window.INDUSTRY_DATA = {
      "summary": "It may not be as sophisticated as the Lucid, but at least the software works.",
      "source": "InsideEVs",
      "zh": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT"
-    },
-    {
-     "title": "China's September NEV retail sales fall 12% as month-end surge narrows decline, preliminary CPCA data shows",
-     "link": "https://cnevpost.com/2026/10/10/china-sept-nev-retail-preliminary-cpca/",
-     "pubDate": "Sat, 10 Oct 2026 13:12:52 +0000",
-     "summary": "A sales surge in the final 3 days narrowed the year-on-year decline in NEV retail sales from 20% in the first 27 days. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "China's September NEV retail sales fall 12% as month-end surge narrows decline, preliminary CPCA data shows"
     },
     {
      "title": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
@@ -1034,12 +1034,12 @@ window.INDUSTRY_DATA = {
      "zh": "Clean-energy super PAC names its target list for general elections"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -1053,7 +1053,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1722,28 +1722,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Stellantis 集团发布 6 款概念车，覆盖阿尔法 · 罗密欧、雪铁龙等品牌",
+     "link": "https://www.ithome.com/1/011/839.htm",
+     "pubDate": "Mon, 12 Oct 2026 03:47:15 GMT",
+     "summary": "IT之家 10 月 12 日消息，当地时间 10 月 11 日，2026 巴黎车展开幕前夕，Stellantis 集团对其将于 10 月 12 日至 18 日在巴黎车展上进行首次亮相的 9 款概念车中的 6 款，进行了专属预展。 据介绍，这 6 款概念车在 Stellantis 集团欧洲区设计负责人 Gilles Vidal 的带领下所开发，分别属于阿尔法 · 罗密欧、雪铁龙、DS 汽车、菲亚特、欧宝和标致 6 个品牌。 Stellantis 集团欧洲区首席运营官 Emanuele Cappellano 表示，“到 2030 年，我们将推出 50 余款产品，以共同塑造未来出行。基于对战略规划的",
+     "source": "IT之家",
+     "zh": "Stellantis 集团发布 6 款概念车，覆盖阿尔法 · 罗密欧、雪铁龙等品牌"
+    },
+    {
+     "title": "本田宣布下一代混动系统命名 Honda Hybrid，首发车型 2027 年全球推出",
+     "link": "https://www.ithome.com/1/011/838.htm",
+     "pubDate": "Mon, 12 Oct 2026 03:46:00 GMT",
+     "summary": "IT之家 10 月 12 日消息，本田 10 月 9 日宣布其下一代混合动力系统命名为 Honda Hybrid 。 为了快速响应全球对混合动力汽车日益增长的需求，本田已将开发和生产资源重新分配到混合动力业务，以配合公司于 2026 年 5 月宣布的汽车业务重建路线图。作为这一方向的一部分，本田对其混合动力系统进行了改进，并开发了本田混合动力车， 该车型将于 2027 年起在全球范围内推出 。 IT之家从本田官方公告获悉，本田计划在截至 2030 年 3 月 31 日的财年截止前， 在全球范围内推出 15 款配备 Honda Hybrid 的次世代混合动力车型 ，主要在北美地区推广。通过多项改",
+     "source": "IT之家",
+     "zh": "本田宣布下一代混动系统命名 Honda Hybrid，首发车型 2027 年全球推出"
+    },
+    {
+     "title": "Hardware wallet maker Ledger says the $86M+ theft from hundreds of its wallets involved devices sold by reseller CryptoBilis and confirms a \"hardware implant\" (Terrence O&apos;Brien/The Verge)",
+     "link": "https://www.techmeme.com/261011/p17#a261011p17",
+     "pubDate": "Sun, 11 Oct 2026 23:40:01 -0400",
+     "summary": "Terrence O'Brien / The Verge : Hardware wallet maker Ledger says the $86M+ theft from hundreds of its wallets involved devices sold by reseller CryptoBilis and confirms a &ldquo;hardware implant&rdquo; &nbsp; &mdash;&nbsp; A spy implant in some Ledger crypto wallets may be the root of an $86 million",
+     "source": "Techmeme",
+     "zh": "Hardware wallet maker Ledger says the $86M+ theft from hundreds of its wallets involved devices sold by reseller CryptoBilis and confirms a \"hardware implant\" (Terrence O&apos;Brien/The Verge)"
+    },
+    {
+     "title": "数字员工“AI大机遇”的另一面",
+     "link": "https://www.huxiu.com/article/4896754.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 11:39:29 +0800",
+     "summary": "本文来自微信公众号： 巨潮WAVE ，编辑：杨旭然，作者：老鱼儿，原文标题：《数字员工“AI大机遇”的另一面 | 巨潮》 近期，一家没有获得大量关注，但同样也是AI人工智能重要应用方面的企业，正在冲刺资本市场——珠海金智维人工智能股份有限公司，向港交所主板递交了新的上市申请。这是继2025年12月15日首次递表因满6个月失效后的第二次冲刺。 招股书显示，按授权数量计，截至2026年6月底，金智维已部署逾200万名AI数字员工，“涉足金融服务、政务、制造业等十余个行业，累计服务超过1,600家客户（含120余家《财富》全球500强及《财富》中国500强企业）”、“已为超270家银行（覆盖中国六大",
+     "source": "虎嗅",
+     "zh": "数字员工“AI大机遇”的另一面"
+    },
+    {
+     "title": "年轻人为什么开始讨厌办婚礼？",
+     "link": "https://www.huxiu.com/article/4895808.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 11:39:08 +0800",
+     "summary": "选婚礼日子、比菜单、拼场地、奔波于婚庆公司和亲戚名单，20万花下去，流程还比上班做项目累，累到质疑人生。谁还愿意为上一代的面子和旧账继续陪跑？",
+     "source": "虎嗅",
+     "zh": "年轻人为什么开始讨厌办婚礼？"
+    },
+    {
+     "title": "川崎重工成功测试氢燃料航空发动机，氮氧化物排放水平世界顶尖",
+     "link": "https://www.ithome.com/1/011/835.htm",
+     "pubDate": "Mon, 12 Oct 2026 03:36:41 GMT",
+     "summary": "IT之家 10 月 12 日消息，川崎重工 (Kawasaki) 日本当地时间本月 8 日宣布，其成功完成一款氢燃料航空发动机的测试， 在日本首次实现了世界领先的氮氧化物 (NOx) 低排放水平 。 这款小型发动机搭载川崎重工开发的低 NOx 氢燃烧器，将本为燃气轮机开发的专利微混合燃烧技术引入到航空领域， 通过将整体燃烧分为众多微型火焰 ， 抑制局部高温区域的形成 ，阻碍氧气和氮气的化学反应，从而显著降低了氮氧化物的排放。 本次测试验证了发动机在点火、转速提升、巡航、瞬态加减速、关机等全类型工况下的表现，实现了稳定的燃烧和推力输出。",
+     "source": "IT之家",
+     "zh": "川崎重工成功测试氢燃料航空发动机，氮氧化物排放水平世界顶尖"
+    },
+    {
+     "title": "本田中国 9 月汽车销量 25564 辆，同比下降 53.1%",
+     "link": "https://www.ithome.com/1/011/833.htm",
+     "pubDate": "Mon, 12 Oct 2026 03:35:26 GMT",
+     "summary": "IT之家 10 月 12 日消息，据新浪汽车今日报道，本田中国 9 月汽车销量为 25,564 辆，同比下降 53.1%。 据车云报道，本田技研工业（中国）投资有限公司总经理、本田技研科技（中国）有限公司总经理五十岚雅行明确表态，中国市场的意义早已不止于销售，更是推进电动化与智能化变革的重要市场， 立场今后也不会改变，未来本田将一如既往深耕中国 。 据悉，本田在智能化领域已选定 Momenta 与华为，双方分别签署战略合作协议，Momenta 的领航辅助驾驶技术与华为的鸿蒙座舱将从 2027 年上市车型起陆续导入 。 此外，官方计划在 2028 年上市的车型上，大幅提升本土供应商的使用率，现地",
+     "source": "IT之家",
+     "zh": "本田中国 9 月汽车销量 25564 辆，同比下降 53.1%"
+    },
+    {
+     "title": "吉利远程星享 M7E 车型上市：限时 11.39 万元，续航 465km 首搭金砖致远电池",
+     "link": "https://www.ithome.com/1/011/832.htm",
+     "pubDate": "Mon, 12 Oct 2026 03:34:34 GMT",
+     "summary": "IT之家 10 月 12 日消息，吉利远程旗下纯电商务车星享 M7E 昨日正式上市，官方指导价 12.59 万元，2026 年 12 月 31 日 24 点前下定的用户可享限时专享价 11.39 万元。 星享 M7E 是吉利远程旗下首款搭载金砖致远电池的量产车型，吉利远程同步推出首任车主“电池终身质保”权益，12 月 31 日前下定的首任车主还可享受“三电终身质保”。购车用户还可享保险礼、用车礼、金融礼、增换礼等多重限时权益。 星享 M7E 定位介于货运 Van 与乘用 MPV 之间，车身尺寸为 5000×1820×1985mm，轴距 3205mm；车内采用 2+2+3 经典七座布局，第二排和",
+     "source": "IT之家",
+     "zh": "吉利远程星享 M7E 车型上市：限时 11.39 万元，续航 465km 首搭金砖致远电池"
+    },
+    {
+     "title": "目前原生最高档：一加 16 手机官宣支持《王者荣耀》165FPS + 极致画质模式",
+     "link": "https://www.ithome.com/1/011/831.htm",
+     "pubDate": "Mon, 12 Oct 2026 03:32:58 GMT",
+     "summary": "IT之家 10 月 12 日消息，一加中国区总裁李杰今日宣布， 一加 16 手机已支持《王者荣耀》原生 165FPS + 极致画质模式 。这也是目前《王者荣耀》原生支持的最高帧率和最高画质。 在 10 月 9 日的第四代东方屏技术沟通会上，一加与京东方联合研发的第四代东方屏正式发布。第四代东方屏采用全新 X4 发光材料，支持真硬件 1nit、全局 165Hz 超高刷（游戏场景最高可达到 185Hz）。 根据规划，一加 16 手机将于今晚 19:00 发布，IT之家整理新机已曝光配置如下： 6.78 英寸 1.5K+185Hz BOE X4 直屏，支持 165Hz 全局超高刷，1.15mm LI",
+     "source": "IT之家",
+     "zh": "目前原生最高档：一加 16 手机官宣支持《王者荣耀》165FPS + 极致画质模式"
+    },
+    {
      "title": "一图流：英伟达有多自由",
      "link": "https://www.huxiu.com/article/4896748.html?f=rss",
      "pubDate": "Mon, 12 Oct 2026 11:22:57 +0800",
      "summary": "本文来自微信公众号： 小鲜传 ，作者：丁昶 （本文核心内容引自华尔街日报） 英伟达是人类历史上第一家突破5万亿美元市值的公司。按照目前趋势看，6万亿美元的桂冠大概也非它莫属。作为对照，日本2025年的GDP约4.4万亿美元。 2026年上半年，英伟达实现收入1778亿美元，其中净利润1180美元，净利率高达66.3%，可谓惊人。 不过本周末的华尔街日报却出了一篇整版文章来警示其自由现金流的风险。 首先引人注目的是最右边的柱状图。近年来，英伟达的长期债务一直保持在100亿美元以内。这个数字相对英伟达这样的规模来说，可以说几近于无。这是业务爆表，现金流极其强劲的自然表现。 然而就在2026年二季度",
      "source": "虎嗅",
      "zh": "一图流：英伟达有多自由"
-    },
-    {
-     "title": "新规落地后隐藏门把手车主要去换零件吗，专家称硬件无法改造的批次可能只能停产并评估召回方案",
-     "link": "https://www.ithome.com/1/011/827.htm",
-     "pubDate": "Mon, 12 Oct 2026 03:22:52 GMT",
-     "summary": "IT之家 10 月 12 日消息，工业和信息化部等四部门近日联合发布了《 关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿） 》，明确提出创新门把手设计应充分验证极端环境下的功能稳定性和紧急情况下的可操作性，具备机械冗余设计和手部操作空间， 禁止配备全隐藏式门把手 。 据央视新闻今日报道，中国汽车流通协会专家委员会委员章弘指出，新规出台后有助于将新能源汽车的部分炫技设计，拉回安全工具的本质。 《征求意见稿》中提到，自 2027 年 1 月 1 日起 ，涉及创新设计的新申报产品，应增加填报创新设计技术参数，并按照《汽车产品创新设计技术指南》加强安全环保评估；未按要求测试",
-     "source": "IT之家",
-     "zh": "新规落地后隐藏门把手车主要去换零件吗，专家称硬件无法改造的批次可能只能停产并评估召回方案"
-    },
-    {
-     "title": "Ubuntu 计划推出适配 RISC-V 指令集的官方 26.10 桌面镜像",
-     "link": "https://www.ithome.com/1/011/823.htm",
-     "pubDate": "Mon, 12 Oct 2026 03:21:49 GMT",
-     "summary": "IT之家 10 月 12 日消息，Linux 发行版 Ubuntu 官方近日宣布，计划在 Ubuntu 26.10 \"Stonking Stingray\" 本月 15 日发布的同时推出适配 RISC-V 指令集的官方桌面镜像。 Ubuntu 此前已在提供面向 x86-64、Arm64 设备的官方桌面镜像， 新举措意味着 RISC-V 在这一方面被提升到与前两者相当的地位 。RISC-V 官方桌面镜像的推出得益于 Ubuntu 基础架构团队和桌面团队的共同努力，以及大量的底层架构工作。 此外， 对进迭时空 (SpacemiT) K3 Pico-ITX 主板平台的官方支持即将随 Ubuntu 26",
-     "source": "IT之家",
-     "zh": "Ubuntu 计划推出适配 RISC-V 指令集的官方 26.10 桌面镜像"
     },
     {
      "title": "Sources: Bain&apos;s Bridge Data Centres is in talks to upsize an existing loan from $2.8B to ~$6.6B, in what would be one of the largest data center deals in Asia (Kari Soo Lindberg/Bloomberg)",
@@ -1762,44 +1818,12 @@ window.INDUSTRY_DATA = {
      "zh": "你买的司美格鲁肽，可能是“回流药”"
     },
     {
-     "title": "华为 Mate XT 2 三折叠手机为何由初代 Z 型方案切 U 型原因揭秘，李小龙称重量厚度是关键",
-     "link": "https://www.ithome.com/1/011/815.htm",
-     "pubDate": "Mon, 12 Oct 2026 03:16:43 GMT",
-     "summary": "IT之家 10 月 12 日现场消息，在今天的华为终端创新技术沟通会上，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙介绍了如何把三折叠手机从科幻变为现实。 李小龙先是回顾了移动端的主流设备形态，包括直板机、常规折叠机和平板电脑，并分享了自己在 2015 年画的手稿， 证实了此前的爆料 。 李小龙表示，铰链是决定折叠屏使用体验的“灵魂”，其主要面临三大挑战，包括耐用性、尺寸重量限制，以及开合力度控制。 IT之家也从李小龙处了解到了 Mate XT 2 三折叠手机为何由初代内外折方案切 U 型折原因，主要还是基于对手机重量、厚度的考量。 李小龙表示，Mate XT 2",
-     "source": "IT之家",
-     "zh": "华为 Mate XT 2 三折叠手机为何由初代 Z 型方案切 U 型原因揭秘，李小龙称重量厚度是关键"
-    },
-    {
-     "title": "丘成桐数学与人工智能实验室联盟在清华大学成立，推动 AI 与数学深度融合",
-     "link": "https://www.ithome.com/1/011/814.htm",
-     "pubDate": "Mon, 12 Oct 2026 03:15:31 GMT",
-     "summary": "IT之家 10 月 12 日消息，据北京日报报道，10 月 11 日，丘成桐数学与人工智能实验室联盟在清华大学成立，将向数学科学专用大模型研发、AI 辅助数学形式化证明与猜想发现、可解释人工智能及交叉领域智能计算等领域发起攻关，推动 AI 与数学深度融合。 据IT之家此前报道，OpenAI 本月初一次性公开了 722 篇数学研究手稿 ，内容涵盖数论、代数几何、理论计算机科学、流体力学与统计物理等前沿领域，解决了多项长期存在的数学难题，给数学界带来了巨大的冲击。 联盟牵头人、清华求真书院院长丘成桐在联盟成立仪式上谈及了对 AI 时代数学学科发展的看法，“这倒逼我们重新思考数学的本质价值， 也要求",
-     "source": "IT之家",
-     "zh": "丘成桐数学与人工智能实验室联盟在清华大学成立，推动 AI 与数学深度融合"
-    },
-    {
-     "title": "大众 CEO 奥利弗 · 布鲁姆呼吁德法车企抱团，携手应对中国汽车品牌挑战",
-     "link": "https://www.ithome.com/1/011/812.htm",
-     "pubDate": "Mon, 12 Oct 2026 03:10:28 GMT",
-     "summary": "IT之家 10 月 12 日消息，据英国金融时报今日报道，大众汽车集团 CEO 奥利弗 · 布鲁姆（Oliver Blume）于当地时间周日（10 月 11 日）在巴黎车展前表示， 法国和德国应加强合作，携手应对中国汽车业挑战 。 布鲁姆表示，法国和德国应加强合作，提升欧洲汽车业的竞争力。面对中国对手带来的压力，现在行动还不算晚。 布鲁姆表示支持欧盟旨在加强欧洲产业的提案，强调“欧洲制造”规则应奖励欧洲创造真正的价值。 布鲁姆指出，中国品牌在欧洲快速增长，大众汽车是受影响最严重的公司之一。他提到公司计划裁员最多达 10 万人， 称这是其历史上最大规模的转型 。 布鲁姆强调，欧洲需要面对巨大的竞",
-     "source": "IT之家",
-     "zh": "大众 CEO 奥利弗 · 布鲁姆呼吁德法车企抱团，携手应对中国汽车品牌挑战"
-    },
-    {
      "title": "Chinese Appliance Brands Gain in Europe, But Share Alone Is Fragile",
      "link": "https://www.tmtpost.com/8164986.html",
      "pubDate": "Mon, 12 Oct 2026 11:06:03 +0800",
      "summary": "Chinese firms dominated exhibitor ranks at IFA Berlin and lifted air-conditioner share in Europe. Much of the jump tracks a severe heat wave and thin local capacity. Lasting advantage will depend less on export volume than on brands, channels and interoperable systems built on the ground.",
      "source": "钛媒体",
      "zh": "Chinese Appliance Brands Gain in Europe, But Share Alone Is Fragile"
-    },
-    {
-     "title": "华为折叠屏手机累计发货量突破 2000 万台，上半年市场份额超 70%",
-     "link": "https://www.ithome.com/1/011/811.htm",
-     "pubDate": "Mon, 12 Oct 2026 03:03:21 GMT",
-     "summary": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖举行。 IT之家在现场获悉， 华为折叠屏手机累计发货量已突破 2000 万台 。数据显示，华为在 2026 年上半年折叠屏手机市场份额超 70%。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在 9 月 29 日的国际媒体圆桌会议上表示，华为已经在折叠屏手机领域耕耘了八年，在折叠屏创新方面始终是真正的先行者。 在 9 月的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，余承东还宣布， 华为三折叠手机全球发货量突破 100 万台 。",
-     "source": "IT之家",
-     "zh": "华为折叠屏手机累计发货量突破 2000 万台，上半年市场份额超 70%"
     },
     {
      "title": "谁在“撤出”港股：资金从主题交易转向确定性",
@@ -1816,14 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "国庆逛过万象城的，应该都被金粒门的长队堵过吧？真别以为是生意太火爆忙不过来 &mdash;&mdash; 这队，大半是故意排给路人看的。别再拿它跟零食很忙比，金粒门截的是泸溪河、绝味、瑞幸那波逛街解馋的客流。你们逛商场遇过这种越排越火的网红店不？",
      "source": "虎嗅",
      "zh": "金粒门排队真相：它抢的不是零食生意"
-    },
-    {
-     "title": "一群旧时代的人，该怎么培养属于未来的新人？",
-     "link": "https://www.huxiu.com/article/4896706.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 10:58:21 +0800",
-     "summary": "本文来自微信公众号： 正面连接 ，作者：谢梦遥，编辑：于蒙、曾鸣，顾问：王天挺，视觉：pandanap，摄影：苏里，出品人/监制：曾鸣，原文标题：《一小步》，题图来自：正面连接 新的课堂 这是一个关于教育之难的故事。AI逐渐接管生活方方面面的趋势之下，教育面临何等挑战，又该往何处去的故事。所以很自然的，在开头，围绕这所名为探月的学校，我们想让AI梳理核心故事线索，以下来自AI生成：一，创校起源：放弃美国名校后，19岁少年创立全日制创新高中；二，艰难成长史诗：依附北大附中起步，三次关键迁徙，2022年迁入位于北京北五环边上的现址；三，颠覆性创新教育模式：建立素养模型，项目制学习代替灌输式授课..",
-     "source": "虎嗅",
-     "zh": "一群旧时代的人，该怎么培养属于未来的新人？"
     },
     {
      "title": "Meta Muse引爆的这场“代理人战争”，字节和腾讯都坐不住了",
@@ -1866,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "Qualcomm CEO Cristiano Amon says AI companies are \"starting to do phones\" and asking Qualcomm to support running 100B-parameter local LLMs continuously by 2028 (Alex Heath/Sources)"
     },
     {
-     "title": "电力央企的高管“轮转”：一次重组，五年整合！",
-     "link": "https://www.huxiu.com/article/4896731.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 10:53:06 +0800",
-     "summary": "本文来自微信公众号： 北极星电力网 ，作者：铮铮，原文标题：《电力央企的高管“轮转”：一次重组，五年整合！》 2026年9月29日，山东电工电气集团召开安全生产视频会议，主持并讲话的是党委书记、董事长朱琦琦。 第二天，宏盛华源党委书记赵文强到访座谈。朱琦琦说了一句很平常的话：此次座谈正值两家企业领导班子履新之际，双方将持续加强沟通交流。 而在几天前，朱琦琦的身份还是中国西电的董事、总经理。 如果把视野放大，拉到这些企业所属的整个中国电气装备集团，会看到这样一番图景——换人的不止一家，换来的也不止一人，而是一批人在七八个平台之间有序地流转。 一次重组，把竞争对手放在了同一个屋檐下 2021年9月",
-     "source": "虎嗅",
-     "zh": "电力央企的高管“轮转”：一次重组，五年整合！"
-    },
-    {
      "title": "把一立方公里的南极冰变成望远镜，他38年后拿下诺奖",
      "link": "https://www.tmtpost.com/8162688.html",
      "pubDate": "Mon, 12 Oct 2026 10:49:07 +0800",
@@ -1901,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Doory – Open-Source Canva",
      "link": "https://github.com/shaongitbd/doory",
      "pubDate": "Mon, 12 Oct 2026 00:48:27 +0000",
-     "summary": "Article URL: https://github.com/shaongitbd/doory Comments URL: https://news.ycombinator.com/item?id=50049872 Points: 13 # Comments: 0",
+     "summary": "Article URL: https://github.com/shaongitbd/doory Comments URL: https://news.ycombinator.com/item?id=50049872 Points: 16 # Comments: 0",
      "source": "Hacker News",
      "zh": "Doory – Open-Source Canva"
     },
@@ -1917,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Local Indexing to reduce tool calling and token usage",
      "link": "https://tedhaley.ca/pensieve/",
      "pubDate": "Mon, 12 Oct 2026 00:03:53 +0000",
-     "summary": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 37 # Comments: 3",
+     "summary": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 37 # Comments: 4",
      "source": "Hacker News",
      "zh": "Local Indexing to reduce tool calling and token usage"
     },
@@ -1925,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "HashiCorp archives the Boundary open source repo",
      "link": "https://github.com/hashicorp/boundary",
      "pubDate": "Mon, 12 Oct 2026 00:02:45 +0000",
-     "summary": "Article URL: https://github.com/hashicorp/boundary Comments URL: https://news.ycombinator.com/item?id=50049498 Points: 49 # Comments: 10",
+     "summary": "Article URL: https://github.com/hashicorp/boundary Comments URL: https://news.ycombinator.com/item?id=50049498 Points: 52 # Comments: 12",
      "source": "Hacker News",
      "zh": "HashiCorp archives the Boundary open source repo"
     },
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Whatever became of holography? (2011)",
      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
      "pubDate": "Sun, 11 Oct 2026 23:50:34 +0000",
-     "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 86 # Comments: 35",
+     "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 89 # Comments: 38",
      "source": "Hacker News",
      "zh": "Whatever became of holography? (2011)"
     },
@@ -1949,17 +1957,9 @@ window.INDUSTRY_DATA = {
      "title": "Illustration Beyond Proof",
      "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
      "pubDate": "Sun, 11 Oct 2026 23:22:36 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/ Comments URL: https://news.ycombinator.com/item?id=50049133 Points: 40 # Comments: 0",
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/ Comments URL: https://news.ycombinator.com/item?id=50049133 Points: 41 # Comments: 0",
      "source": "Hacker News",
      "zh": "Illustration Beyond Proof"
-    },
-    {
-     "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
-     "link": "https://github.com/ClickHouse/clickhouse-c",
-     "pubDate": "Sun, 11 Oct 2026 23:08:29 +0000",
-     "summary": "Article URL: https://github.com/ClickHouse/clickhouse-c Comments URL: https://news.ycombinator.com/item?id=50049003 Points: 9 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "ClickHouse C – Talk to ClickHouse using its native binary protocol"
     }
    ]
   },
@@ -1969,6 +1969,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Googlebooks finally work with Samsung phones thanks to fresh updates",
+     "link": "https://www.androidauthority.com/googlebook-samsung-phone-support-updates-3721690/",
+     "pubDate": "Mon, 12 Oct 2026 03:40:21 +0000",
+     "summary": "Google has addressed Googlebook launch woes with Samsung support and setup improvements.",
+     "source": "Android Authority",
+     "zh": "Googlebooks finally work with Samsung phones thanks to fresh updates"
+    },
     {
      "title": "LineageOS is getting an early Android 17 upgrade, and there’s plenty more to like",
      "link": "https://www.androidauthority.com/lineageos-24-android-17-3721683/",
@@ -2186,14 +2194,6 @@ window.INDUSTRY_DATA = {
      "zh": "I won’t buy another Galaxy FE until Samsung makes these changes"
     },
     {
-     "title": "5 AI apps you should use instead of Meta Muse",
-     "link": "https://www.androidauthority.com/best-meta-muse-alternatives-3719671/",
-     "pubDate": "Sun, 11 Oct 2026 09:00:44 +0000",
-     "summary": "Meta's cute AI agent isn't your only option.",
-     "source": "Android Authority",
-     "zh": "5 AI apps you should use instead of Meta Muse"
-    },
-    {
      "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
      "link": "https://sspai.com/post/115568",
      "pubDate": "Sun, 11 Oct 2026 15:00:49 +0800",
@@ -2218,54 +2218,6 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "上能电气10月12日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610123892510747.html",
-     "pubDate": "Mon, 12 Oct 2026 11:23:00 +0800",
-     "summary": "以下是 上能电气 在北京时间10月12日11:22分盘口异动快照： 10月12日， 上能电气 盘中涨幅达5%，截至11点22分，报24.69元，成交1.84亿元，换手率1.74%。 分笔 报价 卖五 24.75 29 卖四 24.74 10 卖三 24.73 61 卖二 24.72 4 卖一 24.7 247 买一 24.69 61 买二 24.68 78 买三 24.67 146 买四 24.66 60 买五 24.64 1 最新： 24.69 涨幅： 5.06% 涨跌： 1.19 换手率：1.74% 成交量：7.61万手 成交额：1.84亿元 主力净流入： 2010.79 万元 &emsp",
-     "source": "东方财富股票",
-     "zh": "上能电气10月12日盘中涨幅达5%"
-    },
-    {
-     "title": "晓程科技10月12日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610123892510588.html",
-     "pubDate": "Mon, 12 Oct 2026 11:22:47 +0800",
-     "summary": "以下是 晓程科技 在北京时间10月12日11:22分盘口异动快照： 10月12日， 晓程科技 盘中跌幅达5%，截至11点22分，报42.18元，成交7.59亿元，换手率7.57%。 分笔 报价 卖五 42.23 31 卖四 42.22 145 卖三 42.21 8 卖二 42.2 50 卖一 42.19 9 买一 42.18 54 买二 42.17 16 买三 42.16 35 买四 42.15 24 买五 42.14 12 最新： 42.18 涨幅： -5.00% 涨跌： -2.22 换手率：7.57% 成交量：17.68万手 成交额：7.59亿元 主力净流入： -3967.34万 元 &e",
-     "source": "东方财富股票",
-     "zh": "晓程科技10月12日盘中跌幅达5%"
-    },
-    {
-     "title": "金枫酒业10月12日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610123892510333.html",
-     "pubDate": "Mon, 12 Oct 2026 11:22:03 +0800",
-     "summary": "以下是 金枫酒业 在北京时间10月12日11:21分盘口异动快照： 10月12日， 金枫酒业 盘中跌幅达5%，截至11点21分，报4.89元，成交7150.63万元，换手率2.15%。 分笔 报价 卖五 4.94 417 卖四 4.93 280 卖三 4.92 582 卖二 4.91 428 卖一 4.9 1093 买一 4.89 1222 买二 4.88 1000 买三 4.87 312 买四 4.86 158 买五 4.85 2633 最新： 4.89 涨幅： -5.05% 涨跌： -0.26 换手率：2.15% 成交量：14.38万手 成交额：7150.63万元 主力净流入： -836.",
-     "source": "东方财富股票",
-     "zh": "金枫酒业10月12日盘中跌幅达5%"
-    },
-    {
-     "title": "兴业科技10月12日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610123892510239.html",
-     "pubDate": "Mon, 12 Oct 2026 11:22:03 +0800",
-     "summary": "以下是 兴业科技 在北京时间10月12日11:21分盘口异动快照： 10月12日， 兴业科技 盘中快速上涨，5分钟内涨幅超过2%，截至11点21分，报20.9元，成交1.07亿元，换手率1.81%。 分笔 报价 卖五 20.96 15 卖四 20.95 20 卖三 20.93 17 卖二 20.92 40 卖一 20.91 5 买一 20.86 10 买二 20.84 59 买三 20.81 3 买四 20.79 49 买五 20.77 5 最新： 20.9 涨幅： 2.35% 涨跌： 0.48 换手率：1.81% 成交量：5.31万手 成交额：1.07亿元 主力净流入： 667.02 万元 ",
-     "source": "东方财富股票",
-     "zh": "兴业科技10月12日快速上涨"
-    },
-    {
-     "title": "华阳国际10月12日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610123892510188.html",
-     "pubDate": "Mon, 12 Oct 2026 11:21:55 +0800",
-     "summary": "以下是 华阳国际 在北京时间10月12日11:21分盘口异动快照： 10月12日， 华阳国际 盘中涨幅达5%，截至11点21分，报13.46元，成交6404.63万元，换手率3.31%。 分笔 报价 卖五 13.5 34 卖四 13.48 5 卖三 13.47 61 卖二 13.46 62 卖一 13.44 2 买一 13.4 43 买二 13.39 66 买三 13.38 169 买四 13.37 30 买五 13.36 43 最新： 13.46 涨幅： 5.24% 涨跌： 0.67 换手率：3.31% 成交量：5.02万手 成交额：6404.63万元 主力净流入： 336.90 万元 &e",
-     "source": "东方财富股票",
-     "zh": "华阳国际10月12日盘中涨幅达5%"
-    },
-    {
-     "title": "均胜电子10月12日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610123892509816.html",
-     "pubDate": "Mon, 12 Oct 2026 11:21:31 +0800",
-     "summary": "以下是 均胜电子 在北京时间10月12日11:21分盘口异动快照： 10月12日， 均胜电子 盘中跌幅达5%，截至11点21分，报20.9元，成交7.53亿元，换手率2.54%。 分笔 报价 卖五 20.95 196 卖四 20.94 89 卖三 20.93 159 卖二 20.92 182 卖一 20.91 137 买一 20.9 1804 买二 20.89 175 买三 20.88 894 买四 20.87 212 买五 20.86 142 最新： 20.9 涨幅： -5.00% 涨跌： -1.1 换手率：2.54% 成交量：35.48万手 成交额：7.53亿元 主力净流入： -1.14亿",
-     "source": "东方财富股票",
-     "zh": "均胜电子10月12日盘中跌幅达5%"
-    },
-    {
      "title": "Oil falls after Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine",
      "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
      "pubDate": "Mon, 12 Oct 2026 03:18:11 GMT",
@@ -2274,60 +2226,12 @@ window.INDUSTRY_DATA = {
      "zh": "Oil falls after Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine"
     },
     {
-     "title": "下游MTO装置停车引发负反馈 甲醇期货早盘跳水",
-     "link": "http://www.eeo.com.cn/2026/1012/1061349.shtml",
-     "pubDate": "Mon, 12 Oct 2026 11:13:11 +0800",
-     "summary": "新华财经北京10月12日电（左元） 12日早盘，甲醇期货开盘后快速下跌。主力合约2611自上周五夜盘的3933元／吨直线跳水，盘中跌破3600元／吨，最大跌幅超350元／吨。 <img id=\"image1smv4n8nm8s6k6fz7z1wl4sktc87\" title=\"c9376d32b4464f1680891743df9893af.png\" src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/BC4FC9665ED3CB316D08BC79C8F853F3.png\" alt=\"c9376d32b",
-     "source": "经济观察网",
-     "zh": "下游MTO装置停车引发负反馈 甲醇期货早盘跳水"
-    },
-    {
-     "title": "外交部对伯利兹外交、外贸、教育、文化、科学和技术部长丰塞卡采取反制措施",
-     "link": "http://www.eeo.com.cn/2026/1012/1061348.shtml",
-     "pubDate": "Mon, 12 Oct 2026 11:13:10 +0800",
-     "summary": "外交部10月12日发布《关于对伯利兹外交、外贸、教育、文化、科学和技术部长丰塞卡采取反制措施的决定》。近年来，伯利兹个别反华政客出于一己私利，顽固支持伯利兹同中国台湾地区保持所谓“邦交”关系，在涉华问题上采取一系列恶劣言行，损害中方核心利益。为捍卫国家主权、安全、发展利益，反对“台独”分裂行径，依据《中华人民共和国反外国制裁法》第三条、第四条、第六条、第九条、第十五条之规定，中方决定对伯利兹外交、外贸...",
-     "source": "经济观察网",
-     "zh": "外交部对伯利兹外交、外贸、教育、文化、科学和技术部长丰塞卡采取反制措施"
-    },
-    {
-     "title": "毛晓当选曲靖市市长",
-     "link": "http://www.eeo.com.cn/2026/1012/1061347.shtml",
-     "pubDate": "Mon, 12 Oct 2026 11:13:10 +0800",
-     "summary": "中国经济网曲靖10月12日综合报道 据云南“曲靖人大”微信公众号消息，2026年10月10日，曲靖市第六届人民代表大会第七次会议举行第二次全体会议，毛晓当选为曲靖市人民政府市长；杨庆东当选为曲靖市人民代表大会常务委员会副主任；和云彬当选为曲靖市监察委员会主任。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/361E3422E98BEE8E7E67FFA79E0DDC56.jpg\" width=\"960\" data-uploadpic=\"U...",
-     "source": "经济观察网",
-     "zh": "毛晓当选曲靖市市长"
-    },
-    {
-     "title": "第六届粤港澳大湾区文化艺术节宣传片亮相",
-     "link": "http://www.eeo.com.cn/2026/1012/1061346.shtml",
-     "pubDate": "Mon, 12 Oct 2026 11:13:09 +0800",
-     "summary": "第六届粤港澳大湾区文化艺术节将于10月31日启幕，大湾区11座城市联动，呈现精彩文艺活动。历经五届沉淀，艺术节已是粤港澳三地规格最高、规模最大的文化盛会。本届艺术节汇集75台精品剧目，首演占比近五成，创历届新高。活动设置五大板块，荟聚中外名家佳作，扶持青年原创，联动港澳院团，打造近百场惠民活动，打通演艺资源链路，为粤港澳三地对接海内外文化交流互鉴搭建重要平台。",
-     "source": "经济观察网",
-     "zh": "第六届粤港澳大湾区文化艺术节宣传片亮相"
-    },
-    {
-     "title": "【央行圆桌汇】美联储官员静默期前密集发声（2026年10月12日）",
-     "link": "http://www.eeo.com.cn/2026/1012/1061345.shtml",
-     "pubDate": "Mon, 12 Oct 2026 11:13:07 +0800",
-     "summary": "•贸易优势不靠汇率贬值 中国亮明政策立场 •美联储9月会议纪要：多数官员预计年底前再加息一次 •日本央行或将释放核心通胀已达到2%目标的信号 •印度央行将基准回购利率上调25个基点至5.5% •秘鲁央行将基准利率设定为4.25% 【全球央行动态】 •10月8日，《中国人民银行关于人民币汇率的政策立场》对外发布。中国人民银行强调，坚持让市场在汇率形成中发挥决定性作用，中国没有必要，也...",
-     "source": "经济观察网",
-     "zh": "【央行圆桌汇】美联储官员静默期前密集发声（2026年10月12日）"
-    },
-    {
      "title": "AI重塑中国股市格局！高盛详解中国AI投资双主线",
      "link": "https://wallstreetcn.com/articles/3783403",
      "pubDate": "Mon, 12 Oct 2026 11:12:58 +0800",
      "summary": "AI浪潮正在从根本上改变中国股票市场的结构与投资逻辑。 据追风交易台，高盛最新研究报告显示，自2025年初DeepSeek时刻以来，中国AI相关上市公司已通过股价上涨和IPO合计创造近5万亿美元市值，AI股票目前占A股和H股总市值的42%、成交额的57%，成为主导中国资本市场的核心叙事。 高盛在报告中将中国AI投资机会明确划分为两条主线： 一是出口导向型AI企业，作为西方AI资本开支热潮的受益代理；二是内需驱动型国内AI龙头，受益于中国本土AI生态建设与政策强力支持。 高盛认为，尽管地缘政治与贸易政策风险犹存，两条主线均具备可观的投资价值。 在市场影响层面，高盛数据显示，中国AI出口商自202",
      "source": "华尔街见闻",
      "zh": "AI重塑中国股市格局！高盛详解中国AI投资双主线"
-    },
-    {
-     "title": "Token消耗忽高忽低，Coze用户想找一个解释",
-     "link": "http://www.eeo.com.cn/2026/1012/1061342.shtml",
-     "pubDate": "Mon, 12 Oct 2026 11:11:04 +0800",
-     "summary": "当Agent把调用模型、执行任务、反复重试等拆成一串看不见的动作，用户花钱购买的积分落进了黑箱。",
-     "source": "经济观察网",
-     "zh": "Token消耗忽高忽低，Coze用户想找一个解释"
     },
     {
      "title": "创业板早盘再跌破3000点，银行逆势走强，算力硬件调整，恒科指高开超1%之后一度转跌，新能源汽车拉升",
@@ -2456,6 +2360,102 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M"
+    },
+    {
+     "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+     "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+     "pubDate": "Sun, 11 Oct 2026 20:15:00 GMT",
+     "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+     "source": "MarketWatch",
+     "zh": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children."
+    },
+    {
+     "title": "Treasury yields near 24-yr high as investors await inflation data, Fed signals",
+     "link": "https://seekingalpha.com/news/4651948-treasury-yields-near-24-yr-high-as-investors-await-inflation-data-fed-signals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 11 Oct 2026 16:09:57 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Treasury yields near 24-yr high as investors await inflation data, Fed signals"
+    },
+    {
+     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+     "pubDate": "Sun, 11 Oct 2026 20:00:00 GMT",
+     "summary": "“I presume these are sophisticated investors taking a profit.”",
+     "source": "MarketWatch",
+     "zh": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?"
+    },
+    {
+     "title": "Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine; Zelenskyy is waiting for details",
+     "link": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+     "pubDate": "Sun, 11 Oct 2026 19:33:51 GMT",
+     "summary": "Ukrainian President Volodymyr Zelenskyy said he is waiting on details from Washington.",
+     "source": "CNBC",
+     "zh": "Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine; Zelenskyy is waiting for details"
+    },
+    {
+     "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+     "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+     "pubDate": "Sun, 11 Oct 2026 19:32:00 GMT",
+     "summary": "“Both properties will be solely in his name.”",
+     "source": "MarketWatch",
+     "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
+    },
+    {
+     "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+     "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+     "pubDate": "Sun, 11 Oct 2026 19:32:00 GMT",
+     "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+     "source": "MarketWatch",
+     "zh": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?"
+    },
+    {
+     "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
+     "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
+     "pubDate": "Sun, 11 Oct 2026 18:40:51 GMT",
+     "summary": "Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin",
+     "source": "Financial Times",
+     "zh": "US threatens to block arms for Ukraine over attacks on Russian refineries"
+    },
+    {
+     "title": "证监会召开资本市场和金融形势专家座谈会",
+     "link": "http://stock.eastmoney.com/news/11215,202610123892133510.html",
+     "pubDate": "Mon, 12 Oct 2026 01:53:08 +0800",
+     "summary": "证监会召开资本市场和金融形势专家座谈会 与会专家建议：进一步拓宽中长期资金来源、渠道和入市方式 与会专家建议：推动有条件的上市公司加大分红回购力度，完善投资者回报和权益保护机制；优化发行上市制度，支持不同类型、不同行业、多元化的优质企业发展壮大；强化交易监管，加强跨境风险监测应对；研究储备更多增量政策工具 10月10日，中国证监会党委书记、主席吴清在北京召开座谈会，与部分上市公司负责人、证券基金机构专家深入交流，就当前资本市场和金融形势充分听取意见建议。 座谈会上，大家一致认为，我国宏观经济稳中向好，产业结构转型持续深化，资本市场运行总体稳健，多层次市场功能有效发挥，虽然面临一些风险挑战，但高",
+     "source": "东方财富资讯",
+     "zh": "证监会召开资本市场和金融形势专家座谈会"
+    },
+    {
+     "title": "Can Russia meet Trump’s diesel demands?",
+     "link": "https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1",
+     "pubDate": "Sun, 11 Oct 2026 17:13:56 GMT",
+     "summary": "Ukrainian strikes have triggered the worst petrol shortages since the collapse of the Soviet Union but diesel is not in short supply",
+     "source": "Financial Times",
+     "zh": "Can Russia meet Trump’s diesel demands?"
+    },
+    {
+     "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+     "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+     "pubDate": "Sun, 11 Oct 2026 16:35:00 GMT",
+     "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
+     "source": "MarketWatch",
+     "zh": "Millions of Americans will have fewer options during Medicare open enrollment this year"
+    },
+    {
+     "title": "十大券商策略：市场积极信号逐渐累积 把握好四季度做多窗口期",
+     "link": "http://finance.eastmoney.com/news/1378,202610113892124764.html",
+     "pubDate": "Mon, 12 Oct 2026 00:34:37 +0800",
+     "summary": "中信证券 ：应对全球高利率常态，密切跟踪AI投资周期拐点 油价回稳、非农数据低于预期、美联储加息预期下修，均未改变全球长债利率走高。背后的原因是持续强劲的私人部门投融资需求，在万亿美元投资带动下，北美率先走出了金融危机后低增 长和 低利率的“非常态”，全球高利率环境，在AI投资周期拐点前，是我们必须应对的常态。对海外高利率不敏感的需求只有北美AI以及与中国中央财政扩张相关的领域，而过去几年持股体验极佳的出海、资源板块都存在压力。在弱需求环境下，凸显出供给出清品种的稀缺性，反内卷进程明年依然值得重视。 配置策略上，围绕北美AI、中国“六张网”建设以及反内卷驱动的供给出清品种展开，AI+能化结构在",
+     "source": "东方财富资讯",
+     "zh": "十大券商策略：市场积极信号逐渐累积 把握好四季度做多窗口期"
+    },
+    {
+     "title": "华为被曝将推子品牌“星芒”？回应：以官方信息为准",
+     "link": "http://finance.eastmoney.com/news/1360,202610113892111958.html",
+     "pubDate": "Mon, 12 Oct 2026 00:33:42 +0800",
+     "summary": "10月11日，“华为被曝将推子品牌星芒”话题登上 微博 热搜。消息称，“星芒”定位或对标早年荣耀，主打中端性价比市场，将搭载麒麟8系自研芯片与原生鸿蒙系统，但不配备卫星 通信 等高端旗舰功能。 针对上述传闻，华为相关人士向北京商报记者回应称，请以官方信息为准。 据天眼查显示，华为技术有限公司已于2023年2月1日申请注册“华为星芒”商标，国际分类涵盖09类-科学仪器、14类-珠宝钟表、35类-广告销售、42类-网站服务，注册公告日期为2023年9月14日，目前商标状态均为已注册。 （文章来源：北京商报）",
+     "source": "东方财富资讯",
+     "zh": "华为被曝将推子品牌“星芒”？回应：以官方信息为准"
     }
    ]
   },

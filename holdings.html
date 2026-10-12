@@ -92,7 +92,7 @@
   <div id="app" style="display:none">
     <div class="top">
       <h1>🐉 我的持仓看板 <span style="font-size:12px;color:#7d8590">实时监控 + AI 分析</span></h1>
-      <span class="logout" id="logout">锁定</span>
+      <span><span class="logout" id="btnRefresh" title="拉取最新净值 + 标的实时行情">🔄 实时更新</span> <span class="logout" id="logout" style="margin-left:6px">锁定</span></span>
     </div>
     <div class="sub" id="sub">加载中…</div>
     <div class="cards" id="cards"></div>
@@ -134,7 +134,7 @@ async function fetchDecrypt(pass) {
 }
 
 function render(data, a) {
-  $('sub').textContent = '数据时间：' + data.generatedAt + ' · 每 5 分钟自动刷新';
+  $('sub').textContent = '数据时间：' + data.generatedAt;
   const s = data.summary;
   $('cards').innerHTML = [
     ['总市值','¥'+fmt(s.marketValue),''],
@@ -245,6 +245,7 @@ async function unlock(pass, remember) {
     DATA = d;
     render(d, d.analysis);
     loadSectors();
+    liveUpdate();
     if (remember) localStorage.setItem('hj_pass', pass); else localStorage.removeItem('hj_pass');
   } catch (e) {
     $('err').textContent = '口令错误或数据损坏';
@@ -259,7 +260,64 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') { const m = 
   const saved = localStorage.getItem('hj_pass');
   if (saved) await unlock(saved, true);
 })();
-setInterval(async () => { if (PASS) { try { const d = await fetchDecrypt(PASS); render(d, d.analysis); refreshSectorQuotes(); } catch(e){} } }, 300000);
+// ─── 实时更新（点击）───
+async function tencentQuotes(codes) {
+  const out = {};
+  if (!codes.length) return out;
+  const txt = new TextDecoder('gbk').decode(await (await fetch('https://qt.gtimg.cn/q=' + codes.join(','))).arrayBuffer());
+  for (const line of txt.split('\n')) {
+    const m = line.match(/v_([^=]+)="([^"]+)"/);
+    if (!m) continue;
+    const k = m[1], f = m[2].split('~');
+    if (k.startsWith('hf_')) { const cur = parseFloat(f[1]), prev = parseFloat(f[7]); if (isFinite(cur)) out[k] = { price: cur, pct: prev ? (cur - prev) / prev * 100 : 0 }; }
+    else if (f.length >= 33) { out[k] = { price: parseFloat(f[3]), pct: parseFloat(f[32]) }; }
+  }
+  return out;
+}
+async function fundNavJj(code) {
+  try {
+    const t = new TextDecoder('gbk').decode(await (await fetch('https://qt.gtimg.cn/q=jj' + code + '&_=' + Date.now())).arrayBuffer());
+    const m = t.match(/v_jj\d+="([^"]+)"/); if (!m) return null;
+    const f = m[1].split('~');
+    return { nav: parseFloat(f[5]), chg: parseFloat(f[7]), date: f[8] };
+  } catch (e) { return null; }
+}
+let refreshing = false;
+async function liveUpdate() {
+  if (!DATA || refreshing) return;
+  refreshing = true;
+  const btn = $('btnRefresh');
+  if (btn) { btn.textContent = '⏳ 更新中…'; btn.style.opacity = .6; }
+  try {
+    const proxies = [...new Set(DATA.positions.map(p => p.proxy).filter(Boolean))];
+    const q = await tencentQuotes(proxies);
+    for (const p of DATA.positions) {
+      if (p.type === 'etf') {
+        if (p.proxy && q[p.proxy]) { p.quotePrice = q[p.proxy].price; p.chgPct = q[p.proxy].pct; p.quoteType = 'live'; }
+      } else {
+        const nav = await fundNavJj(p.code);
+        if (nav && isFinite(nav.nav)) { p.nav = nav.nav; p.navDate = nav.date; }
+        const base = isFinite(p.nav) ? p.nav : p.quotePrice;
+        const chg = (p.proxy && q[p.proxy]) ? q[p.proxy].pct : 0;
+        if (isFinite(base)) { p.quotePrice = base * (1 + chg / 100); p.chgPct = chg; p.quoteType = 'estimate'; }
+      }
+      p.mv = p.quotePrice * p.shares;
+      p.costValue = p.cost * p.shares;
+      p.pnl = p.mv - p.costValue;
+      p.pnlPct = p.costValue ? (p.mv / p.costValue - 1) * 100 : 0;
+      p.dayPnl = p.mv - p.mv / (1 + (p.chgPct || 0) / 100);
+    }
+    let mv = 0, cost = 0, dayP = 0, dayBase = 0;
+    for (const p of DATA.positions) { if (isFinite(p.mv)) { mv += p.mv; cost += p.costValue; dayP += p.dayPnl; dayBase += p.mv - p.dayPnl; } }
+    DATA.summary = { marketValue: +mv.toFixed(2), costValue: +cost.toFixed(2), pnl: +(mv - cost).toFixed(2), pnlPct: cost ? +((mv / cost - 1) * 100).toFixed(2) : 0, dayPnl: +dayP.toFixed(2), dayPct: dayBase ? +(dayP / dayBase * 100).toFixed(2) : 0 };
+    render(DATA, DATA.analysis);
+    $('sub').textContent = '数据时间：' + DATA.generatedAt + ' · 行情更新 ' + new Date().toLocaleTimeString('zh-CN', { hour12: false }) + '（场外＝最近净值 × 标的实时涨跌估算）';
+    if (!_sectorsData) await loadSectors(); else await refreshSectorQuotes();
+  } catch (e) { /* keep last */ }
+  if (btn) { btn.textContent = '🔄 实时更新'; btn.style.opacity = 1; }
+  refreshing = false;
+}
+$('btnRefresh').onclick = liveUpdate;
 </script>
 </body>
 </html>

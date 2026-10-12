@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 10:09:46",
+ "generated_at": "2026/10/12 10:29:47",
  "recent_days": 7,
  "industries": [
   {
@@ -287,7 +287,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 12 Oct 2026 01:45:15 GMT",
      "summary": "Tata Electronics has six customers at different stages of engagement with its Dholera semiconductor fab, including three with what a person familiar with the project described as binding offtake commitments, as the company works to secure demand well before production begins.",
      "source": "DIGITIMES",
-     "zh": "塔塔 Dholera 晶圆厂在启动前就已预订，面临将承诺转化为晶圆产量的考验"
+     "zh": "塔塔 Dholera 晶圆厂在启动前就已预订，面临着将承诺转化为晶圆产量的考验"
     },
     {
      "title": "Asian AI server suppliers play down impact of US patent probe",
@@ -743,7 +743,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 01:17:40 +0000",
      "summary": "Aito will continue using CATL batteries across its lineup, with total annual capacity set to exceed 20 GWh after a joint project is completed. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "CATL与Seres签署长期战略协议扩大Aito电池产能"
+     "zh": "CATL与Seres签署长期战略协议，扩大Aito电池产能"
     },
     {
      "title": "Geely Galaxy launches Cruiser 700 to take on BYD, GWM in off-road SUV market",
@@ -751,7 +751,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 10 Oct 2026 14:07:06 +0000",
      "summary": "The limited-time price of the Cruiser 700, including a trade-in subsidy, is 169,800 yuan ($25,220), and firm orders exceeded 10,000 units within the first 12 minutes. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "吉利银河推出漫步者700 与比亚迪、长城汽车争夺越野SUV市场"
+     "zh": "吉利银河推出漫步者700 挑战比亚迪、长城 越野SUV市场"
     },
     {
      "title": "This YouTuber Got Burned By His Lucid Air And Elon Musk. So He Bought A Mustang Mach-E GT",
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Australia’s Waratah Super Battery gets extended term and new revenue model as trading profits flow to consumers",
+     "link": "https://www.energy-storage.news/australias-waratah-super-battery-gets-extended-term-and-new-revenue-model-as-trading-profits-flow-to-consumers/",
+     "pubDate": "Mon, 12 Oct 2026 02:22:56 +0000",
+     "summary": "The Australian Energy Regulator (AER) has remade two revenue determinations for the Waratah Super Battery in New South Wales.",
+     "source": "Energy Storage News",
+     "zh": "随着贸易利润流向消费者，澳大利亚 Waratah Super Battery 获得了延长期限和新的收入模式"
+    },
+    {
      "title": "Australia home battery installations surge 52% to 276,011 in H1 2026, outpacing rooftop solar growth",
      "link": "https://www.energy-storage.news/australia-home-battery-installations-surge-52-to-276011-in-h1-2026-outpacing-rooftop-solar-growth/",
      "pubDate": "Mon, 12 Oct 2026 02:05:09 +0000",
@@ -911,7 +919,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 10:00:00 -0500",
      "summary": "Australia has long been known for its strong coal industry, being one of the world’s largest producers and exporters. While much of the world moves away from coal in favour of cleaner energy sources, Australia is doubling down on its coal production, with plans to extend the life of coal operations ",
      "source": "OilPrice",
-     "zh": "尽管巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
+     "zh": "尽管有巴黎承诺，澳大利亚仍批准大规模煤炭扩建"
     },
     {
      "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
@@ -1018,12 +1026,12 @@ window.INDUSTRY_DATA = {
      "zh": "清洁能源超级政治行动委员会确定大选目标名单"
     },
     {
-     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "PJM 批准 Engie、LS Power 的 2.1 GW 快速互连"
+     "zh": "Engie、LS Power 获得 PJM 快速互联批准 2.1 吉瓦"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -1037,7 +1045,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
+     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
      "source": "Utility Dive",
      "zh": "第三季度美国电力、天然气公用事业费率请求飙升至 $4.5B：PowerLines"
     },
@@ -1088,14 +1096,6 @@ window.INDUSTRY_DATA = {
      "summary": "South Africa’s government has put battery storage and power-to-gas technologies at the heart of the national long-term electricity supply and demand strategy.",
      "source": "Energy Storage News",
      "zh": "南非在综合资源计划中寻求 4.6GW 的电池存储部署"
-    },
-    {
-     "title": "Grenergy secures US$460 million financing for 446MW solar-plus-storage portfolio in Chile",
-     "link": "https://www.pv-tech.org/grenergy-secures-us460-million-financing-for-446mw-solar-plus-storage-portfolio-in-chile/",
-     "pubDate": "Fri, 09 Oct 2026 10:01:08 +0000",
-     "summary": "Spanish IPP Grenergy has secured a US$457 million non-recourse senior financing for a 446MW Chilean solar-plus-storage portfolio.",
-     "source": "PV Tech",
-     "zh": "Grenergy为智利446MW太阳能+储能项目获得4.6亿美元融资"
     }
    ]
   },
@@ -1391,7 +1391,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 13:00:00 +0000",
      "summary": "Seattle-based Kapta Space announced a $24M Series A to build next-gen radar payloads designed to track moving targets. The post Exclusive: Kapta Space Raises $24M Series A to Build Moving Target Radar Payload appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：Kapta Space 筹集了 2400 万美元的 A 轮融资，用于构建移动目标雷达有效载荷"
+     "zh": "独家：Kapta Space A 轮融资 2400 万美元，用于构建移动目标雷达有效载荷"
     },
     {
      "title": "NASA Signs Space Nuclear Pact, Says Moon Base Is Ahead of Schedule",
@@ -1599,7 +1599,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "黑客滥用 Google Ads、Bing 重定向以推送 Claude ClickFix 攻击"
+     "zh": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击"
     },
     {
      "title": "AI Scramble Drives Cybersecurity M&A Boom",
@@ -1722,76 +1722,108 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "漫威《复仇者联盟 5：毁灭之日》内地官宣定档 12 月 16 日",
+     "title": "AI 复兴了CLI，但图形界面不会消亡",
+     "link": "https://www.huxiu.com/article/4896720.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 10:25:42 +0800",
+     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《AI 复兴了 CLI，但图形界面不会消亡》 AI兴盛以来，有许多路线争论，比如是垂类AI vs大而全，比如套壳vs模型，也比如CLI（命令行）vs GUI（图形界面）、 最新的案例是，DeepSeek给Harness做出了桌面版并开放下载。官网首页最醒目的按钮是「Download Desktop」，旁边展示着会话列表、插件、工作区和文件预览：用户可以让Agent整理文档、分析表格、修改代码，再打开结果查看。命令行并没有消失，终端和脚本仍在工具箱里，只是它们被放进了一张更大的桌面。 如果把时间拨回去年，情形可不是这样的。Dee",
+     "source": "虎嗅",
+     "zh": "AI 复兴了CLI，但图形界面不会消亡"
+    },
+    {
+     "title": "华为李小龙详解三代红枫影像能力差异，称构筑了从环境到人像的色彩还原技术体系",
+     "link": "https://www.ithome.com/1/011/777.htm",
+     "pubDate": "Mon, 12 Oct 2026 02:23:16 GMT",
+     "summary": "IT之家 10 月 12 日现场消息，在今天的华为终端创新技术沟通会上，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙介绍了 XMAGE 华为睿影，主打人像、长焦、色彩、视频、智拍五个方向的技术创新。 李小龙还详细讲解了三代红枫影像能力差异，并解答了为什么红枫对色彩准确如此重要这一问题。 据称，红枫影像通过增加多光谱颜色特征，获取环境光谱“指纹”让色彩转换更准确。 主摄负责解析力，红枫重建分区光谱 。 IT之家从沟通会现场了解到，三代红枫持续演进，构筑了从环境到人像的色彩还原技术体系。 第一代红枫：首次引入多光谱通道摄像头，实现对真实环境色彩的还原； 第二代红枫：复",
+     "source": "IT之家",
+     "zh": "华为李小龙详解三代红枫影像能力差异，称构筑了从环境到人像的色彩还原技术体系"
+    },
+    {
+     "title": "小米推出米家扫拖机器人 7 Max：50℃ 热水喷淋定点拖地，4999 元起",
+     "link": "https://www.ithome.com/1/011/775.htm",
+     "pubDate": "Mon, 12 Oct 2026 02:22:15 GMT",
+     "summary": "IT之家 10 月 12 日消息，小米官方宣布，米家扫拖机器人 7 Max 今日 10:00 正式开启预售，提供水箱版与薄嵌上下水版两个版本（下单赠送价值 448 元配件礼包，晒单还可返 20 元京豆）： 水箱版：4999 元，券后叠加国补 4498.96 元 薄嵌上下水版：5299 元，券后叠加国补价 4769.01 元 京东 米家扫拖机器人 7 Max &nbsp;水箱版 AI 全景识别避障 50℃ 热水喷淋定点拖地 三重贴边精细清洁 家用 洗地机 券后 4498.96 元 领 0.9 元券 据小米官方介绍，米家扫拖机器人 7 Max 拥有米家目前最强的 6 cm 越障能力，可以轻松上台阶",
+     "source": "IT之家",
+     "zh": "小米推出米家扫拖机器人 7 Max：50℃ 热水喷淋定点拖地，4999 元起"
+    },
+    {
+     "title": "一边指责中国AI“偷师”，一边用DeepSeek优化自家模型省钱？海外博主点名OpenAI、Anthropic一样不讲武德",
+     "link": "https://www.huxiu.com/article/4896715.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 10:22:05 +0800",
+     "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·Ai 美国的AI公司指责中国厂商“抄袭”，转身又利用中国公开的技术给自己省钱，还继续向用户收费？海外博主的一张评论截图，把这个疑问摆到了人们面前。 X用户xiax的评论截图。图中“使用了DeepSeek技术但是没有致谢”是原作者的质疑，下文会说明其中的证据缺口。 如果这是真的，场面就很难看了。自己创造的东西不可以碰，别人创造的东西可以使用，省下的钱算自己的本事，至于谁先想到这个方法，倒好像并不重要。 我核对了对应的英文原文、技术报告和价格说明。中国技术的进步有据可查，美国公司的降价也确实发生了。可从这两件事跳到“偷偷用不认账”，中间还缺少证据。 ",
+     "source": "虎嗅",
+     "zh": "一边指责中国AI“偷师”，一边用DeepSeek优化自家模型省钱？海外博主点名OpenAI、Anthropic一样不讲武德"
+    },
+    {
+     "title": "马斯克回应“中国分马”：14 亿人里肯定有像我的，想请他一起上台跳舞",
+     "link": "https://www.ithome.com/1/011/774.htm",
+     "pubDate": "Mon, 12 Oct 2026 02:19:49 GMT",
+     "summary": "IT之家 10 月 12 日消息，当地时间 10 月 10 日，美国企业家、亿万富翁埃隆 · 马斯克在 X Takeover 活动中，针对走红网络的“中国版马斯克”（马一龙）相关视频作出回应，“中国 14 亿人口中，肯定有人长得像我”。 马斯克还表示，他希望那个人是真的，但大概率不是真的。如果真的有长相相似的“中国版马斯克”， 自己想邀请他上台一同跳舞 。 综合IT之家此前报道，2021 年 12 月，马一龙因短视频形象与马斯克非常相似，被网友称为“中国版马斯克”，在 TikTok 等平台积累了不少粉丝。2022 年 5 月，马斯克在推特回应网友对比照片，表示想见面，马一龙微博回应表达仰慕。 ",
+     "source": "IT之家",
+     "zh": "马斯克回应“中国分马”：14 亿人里肯定有像我的，想请他一起上台跳舞"
+    },
+    {
+     "title": "“史上最冷清”？南京秋糖成订货会“翻版”，无所事事的销售仿佛身处工作日的商场",
+     "link": "https://www.huxiu.com/article/4896716.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 10:19:21 +0800",
+     "summary": "本文来自微信公众号： 食品内参 ，作者：不浪费读者时间的 10月11日，南京秋糖酒店展已是第二天。几家食品饮料主题酒店里展位虽然都是搭满的，但过道里走动的人不多，有些展位业务员比客户多。 山东经销商老周（化名）在其中一家酒店转了两天，一个新品没签。他做饮料和休闲食品十四年，往年来秋糖，至少带两三个品回去。“今年不是来订货的，是来要账的。”他说，有两个厂家欠着他去年的市场费用还没核销。那么，经销商们，为什么不愿签单了？ 被“霸占”的钱和仓库 最直接的原因是手里没有余钱，仓库里没有空位。 今年夏天饮料卖得很差。一组零售监测机构的数据显示，2026年二季度线下饮料销售额同比下降11.78%，在主要快",
+     "source": "虎嗅",
+     "zh": "“史上最冷清”？南京秋糖成订货会“翻版”，无所事事的销售仿佛身处工作日的商场"
+    },
+    {
+     "title": "硬核解读奥乐齐创始人亲述：硬折扣的底层经营法则",
+     "link": "https://www.huxiu.com/article/4896712.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 10:16:16 +0800",
+     "summary": "本文来自微信公众号： 莹姐商业洞察 ，作者：大渔策划&nbsp;莹姐 300个商品起家，被称为穷鬼超市，在今天却能在全球做到拳打沃尔玛，脚踢山姆、costoc，全球坐拥一万家门店。在国内也是盒马、美团、京东争相学习的对象。那这个跨越百年依然风靡全球的硬折扣模式的底层经营秘密是什么？ 今天就和大家一起看这篇记录了奥乐齐创始人卡尔·阿尔布雷希特唯一亲述硬折扣经营模式的资料，从创始人的第一视角，解读奥乐齐的商业模式。 1 奥乐齐的第一条原则，不是低价，而是少 大约1948年、1949年，卡尔兄弟刚刚创业的时候，并没有一个宏大的商业设计。他们只是遇到了一个非常现实的问题：没钱。因为资金有限，如果他们想",
+     "source": "虎嗅",
+     "zh": "硬核解读奥乐齐创始人亲述：硬折扣的底层经营法则"
+    },
+    {
+     "title": "奥乐齐创始人唯一亲述：硬折扣的底层经营法则是什么？",
+     "link": "https://www.huxiu.com/article/4896713.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 10:16:06 +0800",
+     "summary": "本文来自微信公众号： 莹姐商业洞察 ，作者：大渔策划&nbsp;莹姐 近两年硬折扣成了中国零售圈最热的话题，但我一直在想：奥乐齐的这套模式，创始人是抱着何种经营思想创造出来的？这套能穿越百年周期的硬折扣模式，为什么到现在依旧先进，受人追捧？硬折扣鼻祖奥乐齐的创始人卡尔一生极少公开谈论经营。在查阅众多文献后，我找到了这份德文资料：这份记录了创始人亲述的资料曾经在相当长时间里，被德国称为阿尔布雷希特兄弟“唯一已知的公开经营说明”。那时甚至还没有“ALDI”这个名字，他却已经讲清了硬折扣最核心的经营逻辑。今天，我把这份罕见材料翻译出来，分享给你。 1 奥乐齐创始人--卡尔·阿尔布雷希特: “当我同各",
+     "source": "虎嗅",
+     "zh": "奥乐齐创始人唯一亲述：硬折扣的底层经营法则是什么？"
+    },
+    {
+     "title": "消息称高通 PC 处理器本月起涨价 10%，英特尔 9 月已涨、AMD 也有计划",
+     "link": "https://www.ithome.com/1/011/773.htm",
+     "pubDate": "Mon, 12 Oct 2026 02:15:26 GMT",
+     "summary": "IT之家 10 月 12 日消息，台媒《工商时报》今日报道称， Qualcomm（高通）自本月起针对骁龙 X / X2 Elite 等 PC 处理器上调一成出货价格 。 报道提到，Intel（英特尔）此前已在今年 9 月针对多系列 PC 处理器涨价，其中 \"Panther Lake\" 的大核显版本涨幅最为剧烈，达到 15~20% ；\"Meteor Lake\" \"Arrow Lake\" 涨幅 5~10%；\"Alder Lake\"（此次更可能指 \"Alder Lake N\"） \"Twin Lake\" 涨幅也有 10~20%。 另一方面， AMD 也准备调整部分处理器的价格 ，不过目前尚未确认具体涨",
+     "source": "IT之家",
+     "zh": "消息称高通 PC 处理器本月起涨价 10%，英特尔 9 月已涨、AMD 也有计划"
+    },
+    {
+     "title": "满减退场、国补退坡，今年双11用什么增长",
+     "link": "https://www.tmtpost.com/8164872.html",
+     "pubDate": "Mon, 12 Oct 2026 10:14:11 +0800",
+     "summary": "第18个双11，潮水退去后的精密“算计”",
+     "source": "钛媒体",
+     "zh": "满减退场、国补退坡，今年双11用什么增长"
+    },
+    {
+     "title": "零跑 C 系 24 款及部分 26 款车型 OTA 开始陆续推送，新增城市领航辅助等",
+     "link": "https://www.ithome.com/1/011/771.htm",
+     "pubDate": "Mon, 12 Oct 2026 02:10:11 GMT",
+     "summary": "IT之家 10 月 12 日消息，零跑汽车今日宣布，零跑 C 系 24 款及部分 26 款车型 OTA 开始陆续推送，包含 6 项新增功能、5 项功能优化 。 本次 OTA 涉及的车型有 2024 款 C01、C10、C11、C16 及 2026 款 C10 530 舒享版、C16 六座 580 尊享版 / 200 尊享版。 IT之家附本次更新主要内容： 本次 OTA 新增功能 城市领航辅助（具备激光雷达配置车型）：城区 NAP 支持全国城市使用 泊入辅助：窄车位泊车收起外后视镜后，系统自动将全景鸟瞰图切换为两侧后视影像 后排娱乐屏新增儿童空间应用（具备后排娱乐屏配置车型） 车辆长期离线提醒：",
+     "source": "IT之家",
+     "zh": "零跑 C 系 24 款及部分 26 款车型 OTA 开始陆续推送，新增城市领航辅助等"
+    },
+    {
+     "title": "锂价暴跌，蔚来、比亚迪、邦普，谁真正赚到“电池后半生”的钱？",
+     "link": "https://www.huxiu.com/article/4896707.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 10:06:47 +0800",
+     "summary": "本文来自微信公众号： 芯流新能源 ，作者：杨雅琪 【摘要】碳酸锂价格暴跌，曾经火热的动力电池回收行业被打回现实。不少回收企业在锂价周期中大起大落，高价囤货巨亏，万亿回收市场背后，却是正规企业干不过小作坊的行业困局：白名单产能严重过剩，货源才是核心，外购磷酸铁锂废料甚至出现“收一吨亏一吨”的窘境。 叠加欧盟新电池法落地，电池回收早已不是一门单纯赚金属差价的生意，既成为出海欧洲的合规门票，也倒逼行业重新审视V2G、梯次利用的真实商业价值。 蔚来、比亚迪、宁德时代邦普、国轩、格林美等企业走出了截然不同的突围路径：车企依靠资产运营锁定电池全生命周期残值；电池厂借助定向循环与数据闭环打通海外合规关卡；第",
+     "source": "虎嗅",
+     "zh": "锂价暴跌，蔚来、比亚迪、邦普，谁真正赚到“电池后半生”的钱？"
+    },
+    {
+     "title": "漫威《复仇者联盟 5：毁灭之日》内地官宣定档 12 月 16 日，领先北美两天",
      "link": "https://www.ithome.com/1/011/769.htm",
      "pubDate": "Mon, 12 Oct 2026 02:05:24 GMT",
-     "summary": "IT之家 10 月 12 日消息，漫威影业今日宣布，《复仇者联盟 5：毁灭之日》官宣定档 12 月 16 日全球领先上映，领先北美两天。 该片聚焦“三个宇宙的巨大危机”，X 战警等加入，小罗伯特 · 唐尼从“钢铁侠”变反派“毁灭博士”，已公布的演员 / 角色还有： 克里斯 · 海姆斯沃斯 / 雷神 凡妮莎 · 柯比 / 隐形女 安东尼 · 麦凯 / 美国队长 塞巴斯蒂安 · 斯坦 / 巴基 · 巴恩斯 莱蒂希娅 · 赖特 / 黑豹 保罗 · 路德 / 蚁人 怀亚特 · 拉塞尔 / 美国特工 特诺切 · 韦尔塔 / 纳摩 爱波 · 莫斯-巴克拉赫 / 石头人 刘思慕 / 尚气 弗洛伦斯 · 皮尤",
+     "summary": "IT之家 10 月 12 日消息，漫威影业今日宣布，《复仇者联盟 5：毁灭之日》官宣定档 12 月 16 日全球领先上映，领先北美两天。 《复仇者联盟 5：毁灭之日》将讲述多元宇宙的故事，会链接 X 战警、神奇四侠等超级英雄的世界。而毁灭博士在故事里将执行他的计划 —— 多元宇宙碰撞导致了他的家庭破碎，因此他决定创造一个全新秩序的宇宙。 本片将由罗素兄弟回归执导，小罗伯特・唐尼、克里斯・埃文斯、克里斯・海姆斯沃斯、佩德罗・帕斯卡、凡妮莎・柯比、汤姆・希德勒斯顿、安东尼・麦凯、塞巴斯蒂安・斯坦等人主演，将于 2026 年 12 月 18 日北美上映。 该片聚焦“三个宇宙的巨大危机”，X 战警等加",
      "source": "IT之家",
-     "zh": "漫威《复仇者联盟 5：毁灭之日》内地官宣定档 12 月 16 日"
-    },
-    {
-     "title": "安全工具变武器——ARTEX AI击穿韩国9家银行事件分析和教训",
-     "link": "https://www.huxiu.com/article/4896703.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 10:05:02 +0800",
-     "summary": "本文来自微信公众号： Internet Law Review ，作者：张颖，原文标题：《安全工具变武器——ARTEX AI击穿韩国9家银行事件分析和教训》 2026年9月底到10月初，韩国9家金融机构接连发生客户数据外泄，据称目前包含至少65,000条个人信息和信贷数据被盗取。韩国政府已经启动了全天候网络安全紧急状态，总统下令彻查。 根据CrowdStrike的报告，此次网络攻击事件的核心工具是一个开源的AI渗透测试代理ARTEX，其背后搭载了DeepSeek、Claude Code、Grok等多款大模型，并很可能是仅在1名人类黑客指挥下实施了这次大规模攻击。事件被披露之后，ARTEX的中国开",
-     "source": "虎嗅",
-     "zh": "安全工具变武器——ARTEX AI击穿韩国9家银行事件分析和教训"
-    },
-    {
-     "title": "日本亚运会经济账：大会翻车，法国全责？日本人这次这么缺钱吗？",
-     "link": "https://www.huxiu.com/article/4895272.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 10:00:00 +0800",
-     "summary": "住集装箱，场馆漏雨，大妈颁奖，这届日本亚运到底是法国人准备不足，还是哪里出了问题？这届亚运会是赚了还是亏了？一口气给大家捋清楚日本亚运会的账本问题。",
-     "source": "虎嗅",
-     "zh": "日本亚运会经济账：大会翻车，法国全责？日本人这次这么缺钱吗？"
-    },
-    {
-     "title": "abxylute 推出 P5 无线手柄：面向 PS5 平台，霍尔效应传感器摇杆",
-     "link": "https://www.ithome.com/1/011/768.htm",
-     "pubDate": "Mon, 12 Oct 2026 01:59:27 GMT",
-     "summary": "IT之家 10 月 12 日消息，游戏外设制造商 abxylute 近日宣布面向 Sony PlayStation 5 平台推出 P5 手柄控制器。这一型号 配备霍尔效应传感器摇杆、自适应扳机、音圈马达 ，支持 Turbo 连击输入。 abxylute P5 采用对称式布局，肩键、方向键、功能键均采用导电胶开关，内置六轴陀螺仪，配备可点击的两点式电容式触控板，摇杆拥有两种可选输出模式， 背部集成一对可编程背键 。 其支持 PS5 / PC / Android / iOS，有线模式回报率 250Hz、蓝牙模式回报率 700Hz， 内置 8hr 续航 1500mAh 电池 ，质量约 285g。 I",
-     "source": "IT之家",
-     "zh": "abxylute 推出 P5 无线手柄：面向 PS5 平台，霍尔效应传感器摇杆"
-    },
-    {
-     "title": "华为李小龙：2026 上半年华为集团研发投入 1,214 亿元创历史同期新高，同比增长 25.2%",
-     "link": "https://www.ithome.com/1/011/767.htm",
-     "pubDate": "Mon, 12 Oct 2026 01:49:44 GMT",
-     "summary": "IT之家 10 月 12 日现场消息，在今天的华为终端创新技术沟通会上，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙分享了华为在研发方面的最新进展。 李小龙在现场宣布， 2026 上半年，华为集团研发投入创历史同期新高 —— 研发投入 1,214 亿元，研发费用率 25.9%，同比增长 25.2%。 他表示，华为保持强研发投入，技术创新是核心护城河。 IT之家从现场了解到，华为面向五个方向，拥有九大技术品牌： 影像：华为睿影 XMAGE 屏幕：灵珑屏、灵盾防窥屏 可靠：昆仑玻璃、玄武架构、天工铰链系统 定位：华为星迹 声音：华为悦彰、静谧通话",
-     "source": "IT之家",
-     "zh": "华为李小龙：2026 上半年华为集团研发投入 1,214 亿元创历史同期新高，同比增长 25.2%"
-    },
-    {
-     "title": "荣耀官宣 WIN 耳机，10 月 21 日随平板电脑、智能手机新品一道发布",
-     "link": "https://www.ithome.com/1/011/766.htm",
-     "pubDate": "Mon, 12 Oct 2026 01:47:30 GMT",
-     "summary": "IT之家 10 月 12 日消息，@荣耀智慧生活 官方稍早前确认， 荣耀 WIN 耳机 将作为系列新品阵容的一部分在 10 月 21 日随荣耀 WIN 平板、荣耀 WIN2 系列智能手机一道发布。 这款无线耳机宣传口号为“ 听见先机，赢在开局 ”，荣耀官方人士 @林林-一枝小白兔 提到该产品将提供低延迟表现。",
-     "source": "IT之家",
-     "zh": "荣耀官宣 WIN 耳机，10 月 21 日随平板电脑、智能手机新品一道发布"
-    },
-    {
-     "title": "马化腾带 28 岁青年与广东省委书记黄坤明座谈，腾讯首席 AI 科学家姚顺雨露面",
-     "link": "https://www.ithome.com/1/011/765.htm",
-     "pubDate": "Mon, 12 Oct 2026 01:46:22 GMT",
-     "summary": "IT之家 10 月 12 日消息，据中国新闻网“三里河”公众号报道，10 月 8 日，国庆假期后首个工作日，广东省委书记黄坤明到深圳调研，走进腾讯总部。在座谈交流环节，腾讯董事会主席兼首席执行官马化腾发言， 在他旁边还坐着一个仅 28 岁的年轻人，此人是腾讯首席 AI 科学家姚顺雨 。 报道称，省委书记走进腾讯总部，马化腾带着集团“AI 一号位”并排坐， 这背后是广东和腾讯押注人工智能的决心 。 2025 年广东全省人工智能核心产业规模突破 3000 亿元， 约占全国四分之一 。10 月 9 日，广东召开全省先进制造业大会，其中提到“大力推动人工智能全方位、深层次、高水平赋能先进制造业发展”。",
-     "source": "IT之家",
-     "zh": "马化腾带 28 岁青年与广东省委书记黄坤明座谈，腾讯首席 AI 科学家姚顺雨露面"
-    },
-    {
-     "title": "宝马保时捷集体跑路，中国品牌在巴黎车展“反客为主”",
-     "link": "https://www.huxiu.com/article/4896693.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 09:40:50 +0800",
-     "summary": "本文来自微信公众号： BusinessCars ，作者：匹诺 飘了一百多年汽油味的巴黎车展，如今正在成为新旧两代汽车王国的交接台。 1898年，巴黎杜乐丽花园里，全球第一场国际车展正式诞生。 彼时的欧洲，正是现代汽车工业的摇篮，从戴姆勒、奔驰的发动机轰鸣，到雪铁龙、雷诺的生产线落地，整个世界的汽车规则都由这里书写。 一个多世纪以来，巴黎车展始终是全球汽车产业的风向标，它见证了燃油车时代的崛起、日本车企的出海浪潮，也见证了无数经典车型从概念图纸走向千家万户。 而在2026年10月12日的凡尔赛门展览中心，这个飘了一百多年汽油味的汽车发源地，正在上演一场前所未有的产业变局。 第91届巴黎车展的大幕",
-     "source": "虎嗅",
-     "zh": "宝马保时捷集体跑路，中国品牌在巴黎车展“反客为主”"
-    },
-    {
-     "title": "李小龙：华为是全球最大的专利持有企业之一，终端技术品牌背后是覆盖全球的专利网络",
-     "link": "https://www.ithome.com/1/011/764.htm",
-     "pubDate": "Mon, 12 Oct 2026 01:40:23 GMT",
-     "summary": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖启幕。 华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙今日也来到了沟通会现场。 李小龙表示，华为保持强研发投入，技术创新是核心护城河。 华为是全球最大的专利持有企业之一 ，终端技术品牌背后是这张覆盖全球的专利网络。 IT之家从李小龙的分享中了解到，华为在 2025 年的研发投入达到了 1,923 亿元、研发费用率为 21.8%； 近十年研发总投入达到 13,820 亿元，全球研发投资排名连续 9 年 Top 6 ；全球持有有效授权专利数量超 16.5 万（截至 2025 年底）、专利许可协议",
-     "source": "IT之家",
-     "zh": "李小龙：华为是全球最大的专利持有企业之一，终端技术品牌背后是覆盖全球的专利网络"
+     "zh": "漫威《复仇者联盟 5：毁灭之日》内地官宣定档 12 月 16 日，领先北美两天"
     },
     {
      "title": "Anchorage Digital buys B2B payments automation startup Routable for an undisclosed sum; Anchorage CEO calls it its largest acquisition by team size and revenue (Ryan Lawler/Axios)",
@@ -1802,28 +1834,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anchorage Digital 收购 B2B 支付自动化初创公司 Routable，收购金额未公开； Anchorage 首席执行官称这是按团队规模和收入计算的最大一笔收购（Ryan Lawler/Axios）"
     },
     {
-     "title": "宁王的资本局，神似英伟达",
-     "link": "https://www.huxiu.com/article/4896691.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 09:39:34 +0800",
-     "summary": "本文来自微信公众号： 降噪NoNoise ，编辑：孙静，作者：刘诗雨 日赚2.4亿，宁德时代仍嫌卖电池这门生意不够大。 在今年6月斥资50亿元成为Deepseek第二大外部投资人以后，宁德时代近日被曝出再次领投DeepSeek新一轮近千亿元融资。 而这仅是宁德时代跨界投资的冰山一角。2026年以来，宁德时代已经砸下超过百亿元，覆盖了AI大模型、数据中心、HVDC供电与储能系统，甚至还将触角伸向了核聚变。 宁德时代的创始人曾毓群曾直白表达野心：要搭起新能源时代的「四梁八柱」，电池只是其中一根柱子；一些能力内生没那么快，所以会通过并购补齐。 这让「宁王」越来越像新能源时代的英伟达。 在AI产业，英",
-     "source": "虎嗅",
-     "zh": "宁王的资本局，神似英伟达"
-    },
-    {
      "title": "电脑卖不动，但联想们更赚钱了",
      "link": "https://www.tmtpost.com/8164778.html",
      "pubDate": "Mon, 12 Oct 2026 09:38:54 +0800",
      "summary": "利润和供应链话语权都在重新分配。",
      "source": "钛媒体",
      "zh": "电脑卖不动，但联想们更赚钱了"
-    },
-    {
-     "title": "加速还是乏力？拆解妙可蓝多业绩快报",
-     "link": "https://www.huxiu.com/article/4896687.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 09:34:21 +0800",
-     "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清，编辑：封飚 10月8日晚间，妙可蓝多（600882）披露2026年前三季度业绩快报（公告编号2026-082）。前三季度营业总收入48.66亿元，同比增长22.97%；归属于上市公司股东的净利润2.12亿元，增长20.37%；扣除非经常性损益后的净利润1.53亿元，增长28.15%。 10月9日，快报披露后的首个交易日，公司股价收于21.13元，涨停，总市值约107.4亿元。 三个数都是正的。但是收入在哪一季慢了下来，利润的增速从哪来？ 其实不复杂。快报减半年报，得到第三季度；半年报减一季报，得到第二季度；再拿2025年年报的分季度数字做对照。 单",
-     "source": "虎嗅",
-     "zh": "加速还是乏力？拆解妙可蓝多业绩快报"
     },
     {
      "title": "基金市场概况与资产配置观点（09.28—10.07）",
@@ -1858,22 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "一家公司到底归哪个行业？分类师手里那把\"实质\"的刀"
     },
     {
-     "title": "价值判断：涨停板的投资机会和风险提示（10月9日）｜上市公司观察",
-     "link": "https://www.tmtpost.com/8164822.html",
-     "pubDate": "Mon, 12 Oct 2026 09:29:45 +0800",
-     "summary": "三只溢价标的估值均显著高于济安定价，上行主要由情绪与预期推动，仍宜规避高位博弈，避免以题材预期替代基本面验证。",
-     "source": "钛媒体",
-     "zh": "价值判断：涨停板的投资机会和风险提示（10月9日）｜上市公司观察"
-    },
-    {
-     "title": "手机涨价的真相：秋天过去仍会继续？",
-     "link": "https://www.huxiu.com/article/4896685.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 09:29:09 +0800",
-     "summary": "本文来自微信公众号： 陆玖商业评论 ，作者：锦俊 这一轮涨价的本质，不是厂商在借机收割，而是厂商从“定价者”变成了“价格接受者”。它们面对存储原厂时的谈判地位，和面对消费者时的强势，互换了位置。消费者觉得手机贵了，但厂商比消费者更难受。 十一假期后，小曾打开了小米商城。 和过去五年一样，他没有去看刚发布的小米18Pro。作为一个资深“等等党”，他有自己的一套方法论：新一代旗舰发布，上一代必然跳水。小米17是去年9月发的，12GB+256GB首发价4499元。他当时没买，想着等一年，总该便宜了。 但这一次，他盯着屏幕看了很久。小米17的页面价格是5099元起。 他以为自己记错了，查阅相关资料才知",
-     "source": "虎嗅",
-     "zh": "手机涨价的真相：秋天过去仍会继续？"
-    },
-    {
      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
      "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
      "pubDate": "Mon, 12 Oct 2026 00:59:01 +0000",
@@ -1890,10 +1890,18 @@ window.INDUSTRY_DATA = {
      "zh": "Vitalize 是一个帮助医院实时管理劳动力和产能的人工智能平台，筹集了 3100 万美元的 A 轮融资，由 Oak HC/FT 领投，YC 和其他公司参与（Heather Landi/Fierce Healthcare）"
     },
     {
+     "title": "Yes I Understand How LLMs Work",
+     "link": "https://kemendo.com/yes-i-understand-how-llms-work.html",
+     "pubDate": "Mon, 12 Oct 2026 00:16:28 +0000",
+     "summary": "Article URL: https://kemendo.com/yes-i-understand-how-llms-work.html Comments URL: https://news.ycombinator.com/item?id=50049596 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "是的，我了解法学硕士的工作原理"
+    },
+    {
      "title": "Local Indexing to reduce tool calling and token usage",
      "link": "https://tedhaley.ca/pensieve/",
      "pubDate": "Mon, 12 Oct 2026 00:03:53 +0000",
-     "summary": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 20 # Comments: 3",
+     "summary": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 26 # Comments: 3",
      "source": "Hacker News",
      "zh": "本地索引以减少工具调用和令牌使用"
     },
@@ -1901,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "HashiCorp archives the Boundary open source repo",
      "link": "https://github.com/hashicorp/boundary",
      "pubDate": "Mon, 12 Oct 2026 00:02:45 +0000",
-     "summary": "Article URL: https://github.com/hashicorp/boundary Comments URL: https://news.ycombinator.com/item?id=50049498 Points: 32 # Comments: 2",
+     "summary": "Article URL: https://github.com/hashicorp/boundary Comments URL: https://news.ycombinator.com/item?id=50049498 Points: 42 # Comments: 5",
      "source": "Hacker News",
      "zh": "HashiCorp 归档 Boundary 开源存储库"
     },
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM",
      "link": "https://github.com/moral666/QT",
      "pubDate": "Sun, 11 Oct 2026 23:52:23 +0000",
-     "summary": "Article URL: https://github.com/moral666/QT Comments URL: https://news.ycombinator.com/item?id=50049425 Points: 8 # Comments: 1",
+     "summary": "Article URL: https://github.com/moral666/QT Comments URL: https://news.ycombinator.com/item?id=50049425 Points: 10 # Comments: 2",
      "source": "Hacker News",
      "zh": "Qt Rust 中的 E2EE 后量子信使核心（124MB RAM 上的 10k 连接"
     },
@@ -1917,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Whatever became of holography? (2011)",
      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
      "pubDate": "Sun, 11 Oct 2026 23:50:34 +0000",
-     "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 67 # Comments: 22",
+     "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 75 # Comments: 27",
      "source": "Hacker News",
      "zh": "全息术变成了什么？ (2011)"
     },
@@ -1930,18 +1938,10 @@ window.INDUSTRY_DATA = {
      "zh": "Palantir 首席技术官 Shyam Sankar 就伊朗学校罢工和人工智能目标、国防部放弃人为、人工智能责任、有效利他主义等问题进行问答（哥伦比亚广播公司新闻）"
     },
     {
-     "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-     "link": "https://github.com/plimsollmark/plimsoll",
-     "pubDate": "Sun, 11 Oct 2026 23:47:59 +0000",
-     "summary": "Article URL: https://github.com/plimsollmark/plimsoll Comments URL: https://news.ycombinator.com/item?id=50049388 Points: 11 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "显示 HN：Plimsoll，一个用于 AI 代理编写的代码的自托管沙箱"
-    },
-    {
      "title": "Governments are mishandling the affordability crisis",
      "link": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
      "pubDate": "Sun, 11 Oct 2026 23:40:06 +0000",
-     "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis Comments URL: https://news.ycombinator.com/item?id=50049302 Points: 59 # Comments: 56",
+     "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis Comments URL: https://news.ycombinator.com/item?id=50049302 Points: 66 # Comments: 63",
      "source": "Hacker News",
      "zh": "政府对负担能力危机处理不当"
     },
@@ -1951,7 +1951,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 17:20:01 -0400",
      "summary": "Wall Street Journal : Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September &nbsp; &mdash;&nbsp; San Francisco company's software makes it easier for developers to switch between different AI c",
      "source": "Techmeme",
-     "zh": "消息来源：亚马逊正在洽谈收购人工智能初创公司 Decart，这笔交易的估值可能约为 70 亿美元； Anthropic 决定不于 9 月份以约 6B 美元的价格收购 Decart（华尔街日报）"
+     "zh": "消息来源：亚马逊正在洽谈收购人工智能初创公司 Decart，这笔交易的估值可能约为 7B 美元； Anthropic 决定不于 9 月份以约 6B 美元的价格收购 Decart（华尔街日报）"
     },
     {
      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
@@ -1969,6 +1969,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Oppo F35 and F35 Pro debut, we handle the Find X10 series, Week 41 in review",
+     "link": "https://www.gsmarena.com/oppo_f35_and_f35_pro_debut_we_handle_the_find_x10_series_week_41_in_review-news-74983.php",
+     "pubDate": "Mon, 12 Oct 2026 04:17:02 +0200",
+     "summary": "Another week over, so let's do a recap. We unboxed the Oppo Find X10 and Find X10 Pro Max - Oppo's latest Dimensity-equipped flagships. Both are still China-exclusive, but are going global on October 21. We also handled the freshly announced vivo V80. Our impressions span a few days with the phone, ",
+     "source": "GSMArena",
+     "zh": "Oppo F35 和 F35 Pro 首次亮相，我们处理 Find X10 系列，第 41 周回顾"
+    },
     {
      "title": "The pros and cons of importing foreign phones to the US",
      "link": "https://www.engadget.com/2281332/pros-cons-import-foreign-phone-us/",
@@ -2178,14 +2186,6 @@ window.INDUSTRY_DATA = {
      "zh": "您应该使用 5 个人工智能应用程序来代替 Meta Muse"
     },
     {
-     "title": "Weekly poll: are you interested in the Samsung Galaxy Tab S12+ or Galaxy Tab S12 Ultra?",
-     "link": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_samsung_galaxy_tab_s12_or_galaxy_tab_s12_ultra-news-74958.php",
-     "pubDate": "Sun, 11 Oct 2026 10:31:02 +0200",
-     "summary": "Last year, the global tablet market was up 8.5% in Q1 as people started to replace devices they bought during the pandemic. Apple led the quarter with 13.7 million units shipped, up 14.0%, while Samsung was around half that with 6.6 million units shipped, down 5.2%. Samsung usually starts shipping i",
-     "source": "GSMArena",
-     "zh": "每周投票：您对三星 Galaxy Tab S12+ 还是 Galaxy Tab S12 Ultra 感兴趣？"
-    },
-    {
      "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
      "link": "https://sspai.com/post/115568",
      "pubDate": "Sun, 11 Oct 2026 15:00:49 +0800",
@@ -2217,6 +2217,70 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
+     "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
+     "pubDate": "Mon, 12 Oct 2026 02:28:54 GMT",
+     "summary": "The ads featuring President Trump have been criticized as government propaganda and as aimed at influencing the outcome of the midterm election.",
+     "source": "CNBC",
+     "zh": "法官命令特朗普政府立即停止纳税人资助的电视广告"
+    },
+    {
+     "title": "鹏鼎控股10月12日盘中涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610123892463586.html",
+     "pubDate": "Mon, 12 Oct 2026 10:22:34 +0800",
+     "summary": "以下是 鹏鼎控股 在北京时间10月12日10:22分盘口异动快照： 10月12日10点22分， 鹏鼎控股 盘中涨停，报82.12元，目前封单95988手，折合7.88亿元。截至目前，成交19.37亿元，换手率1.07%。 分笔 报价 卖五 - 0 卖四 - 0 卖三 - 0 卖二 - 0 卖一 - 0 买一 82.12 95988 买二 82.05 1 买三 81.71 4 买四 81.68 3 买五 81.61 4 最新： 82.12 涨幅： 10.01% 涨跌： 7.47 换手率：1.07% 成交量：24.66万手 成交额：19.37亿元 主力净流入： 3.70 亿元 &emsp;&ems",
+     "source": "东方财富股票",
+     "zh": "鹏鼎控股10月12日盘中涨停"
+    },
+    {
+     "title": "海峡创新10月12日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610123892463427.html",
+     "pubDate": "Mon, 12 Oct 2026 10:22:34 +0800",
+     "summary": "以下是 海峡创新 在北京时间10月12日10:22分盘口异动快照： 10月12日， 海峡创新 盘中快速反弹，5分钟内涨幅超过2%，截至10点22分，报10.3元，成交7.72亿元，换手率10.71%。 分笔 报价 卖五 10.35 41 卖四 10.34 50 卖三 10.33 45 卖二 10.31 334 卖一 10.3 91 买一 10.29 57 买二 10.28 317 买三 10.27 803 买四 10.26 436 买五 10.25 476 最新： 10.3 涨幅： -4.63% 涨跌： -0.5 换手率：10.71% 成交量：71.39万手 成交额：7.72亿元 主力净流入：",
+     "source": "东方财富股票",
+     "zh": "海峡创新10月12日快速反弹"
+    },
+    {
+     "title": "兴发集团10月12日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610123892463386.html",
+     "pubDate": "Mon, 12 Oct 2026 10:22:34 +0800",
+     "summary": "以下是 兴发集团 在北京时间10月12日10:22分盘口异动快照： 10月12日， 兴发集团 盘中跌幅达5%，截至10点22分，报25.93元，成交3.59亿元，换手率1.14%。 分笔 报价 卖五 25.99 53 卖四 25.97 48 卖三 25.96 50 卖二 25.95 20 卖一 25.94 18 买一 25.93 86 买二 25.92 189 买三 25.91 240 买四 25.9 367 买五 25.89 110 最新： 25.93 涨幅： -5.02% 涨跌： -1.37 换手率：1.14% 成交量：13.64万手 成交额：3.59亿元 主力净流入： -5033.12万",
+     "source": "东方财富股票",
+     "zh": "兴发集团10月12日盘中跌幅达5%"
+    },
+    {
+     "title": "10月12日传媒板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610123892463255.html",
+     "pubDate": "Mon, 12 Oct 2026 10:22:25 +0800",
+     "summary": "&emsp;&emsp;10月12日10点22分， 传媒 板块指数报10410.42点，涨幅达2%，成交380.40亿元，换手率2.72%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 果麦文化 报30.47元，涨20.01%； 广电网络 报3.91元，涨10.14%； 博纳影业 报7.67元，涨10.04%； 慈文传媒 报6.69元，涨10.03%； 龙版传媒 报17.82元，涨10.00%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月12日传媒板块涨幅达2%"
+    },
+    {
+     "title": "多瑞医药10月12日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610123892462957.html",
+     "pubDate": "Mon, 12 Oct 2026 10:22:15 +0800",
+     "summary": "以下是 多瑞医药 在北京时间10月12日10:22分盘口异动快照： 10月12日， 多瑞医药 盘中快速反弹，5分钟内涨幅超过2%，截至10点22分，报59元，成交2173.73万元，换手率0.66%。 分笔 报价 卖五 59.2 16 卖四 59.19 2 卖三 59.18 1 卖二 59.17 2 卖一 59.16 1 买一 58.97 2 买二 58.96 2 买三 58.95 5 买四 58.91 1 买五 58.9 1 最新： 59 涨幅： -1.32% 涨跌： -0.95 换手率：0.66% 成交量：3717手 成交额：2173.73万元 主力净流入： -143.43万 元 &ems",
+     "source": "东方财富股票",
+     "zh": "多瑞医药10月12日快速反弹"
+    },
+    {
+     "title": "爱丽家居10月12日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610123892462829.html",
+     "pubDate": "Mon, 12 Oct 2026 10:22:15 +0800",
+     "summary": "以下是 爱丽家居 在北京时间10月12日10:22分盘口异动快照： 10月12日， 爱丽家居 盘中快速反弹，5分钟内涨幅超过2%，截至10点22分，报24.73元，成交1.27亿元，换手率2.13%。 分笔 报价 卖五 24.78 152 卖四 24.77 14 卖三 24.76 10 卖二 24.75 11 卖一 24.74 12 买一 24.68 35 买二 24.67 12 买三 24.66 2 买四 24.62 29 买五 24.6 15 最新： 24.73 涨幅： -2.75% 涨跌： -0.7 换手率：2.13% 成交量：5.17万手 成交额：1.27亿元 主力净流入： 531.6",
+     "source": "东方财富股票",
+     "zh": "爱丽家居10月12日快速反弹"
+    },
+    {
+     "title": "解决问题的维度，必定高于产生问题的维度",
+     "link": "http://www.eeo.com.cn/2026/1012/1061125.shtml",
+     "pubDate": "Mon, 12 Oct 2026 10:07:01 +0800",
+     "summary": "作者 韩明丽 你有没有过这样的时刻， 面对一个棘手的问题，拼尽全力，耗尽人脉、资源、时间，却依然找不到出口。于是，焦虑、失眠，甚至开始怀疑自己。 这时候，如果有人告诉你：“你解决不了，是因为力量不够。” 你大概率会反驳：“废话！我要是有钱、有人、有资源，我早就解决了，还用你说？” <...",
+     "source": "经济观察网",
+     "zh": "解决问题的维度，必定高于产生问题的维度"
+    },
     {
      "title": "黄金利空已大部分被定价！瑞银：美债收益率回落将让黄金复苏",
      "link": "https://wallstreetcn.com/articles/3783397",
@@ -2282,14 +2346,6 @@ window.INDUSTRY_DATA = {
      "zh": "国际油价直线跳水，美油跌破91美元，黄金拉升逼近4200美元，伊朗称美国已接受伊方所提部分条件"
     },
     {
-     "title": "国际油价直线跳水，美油跌破91美元，黄金拉升逼近4200美元",
-     "link": "http://www.eeo.com.cn/2026/1012/1061261.shtml",
-     "pubDate": "Mon, 12 Oct 2026 08:52:05 +0800",
-     "summary": "10月12日，国际油价高开后快速跳水，截至北京时间7:50，布油、美油双双跌超1%，现货黄金一度由跌转涨，逼近4200美元关口，最新微跌0.04%。 据新华社报道，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊11日表示，美国已接受伊朗就重新开放霍尔木兹海峡所提出的部分条件，但就伊朗提出的其他条件，目前情况尚不明朗。 据央视新闻报道，美国总统特朗普11日称，即刻起，俄乌冲突进入“能源停火”状态。乌克兰总统泽连斯基...",
-     "source": "经济观察网",
-     "zh": "国际油价直线跳水，美油跌破91美元，黄金拉升逼近4200美元"
-    },
-    {
      "title": "Jefferies警告“2008时刻”：AI或致美国“资本大毁灭”，份额流向中国开源模型",
      "link": "https://wallstreetcn.com/articles/3783393",
      "pubDate": "Mon, 12 Oct 2026 08:52:04 +0800",
@@ -2304,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "Beijing’s push to diversify away from the dollar and Chinese households’ search for a safe place to put their savings has fueled China’s record gold buying.",
      "source": "CNBC",
      "zh": "为什么中国进口黄金数量创历史新高——这对金价意味着什么"
-    },
-    {
-     "title": "Judge orders Trump admin to stop airing challenged government-funded ads immediately",
-     "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
-     "pubDate": "Mon, 12 Oct 2026 00:29:50 GMT",
-     "summary": "The ads have been criticized as government propaganda and as aimed at influencing the outcome of the midterm election, which will determine control of Congress.",
-     "source": "CNBC",
-     "zh": "法官命令特朗普政府立即停止播放受质疑的政府资助广告"
     },
     {
      "title": "特朗普强推“俄乌能源停火”，泽连斯基起初称“不知情”但随后表态“支持”",
@@ -2351,7 +2399,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 19:11:36 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "胡塞武装袭击沙特阿拉伯引发通胀担忧，油价突破 105 美元"
+     "zh": "胡塞武装袭击沙特阿拉伯引发通胀担忧，油价突破105美元"
     },
     {
      "title": "AI boom echoes 1997 Asian financial crisis: SocGen's Albert Edwards",
@@ -2399,7 +2447,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sun, 11 Oct 2026 17:15:36 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "《GTA 6》泄密者嘲笑 Take-Two 超过 3000 万美元，Cyber​​leek memecoin 飙升"
+     "zh": "GTA 6 泄密者嘲笑 Take-Two 超过 3000 万美元，Cyber​​leek memecoin 飙升"
     },
     {
      "title": "Justice Department investigates TV networks as White House press-access fight escalates",
@@ -2408,54 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Justice Department said in a statement that it is examining whether the White House TV press pool violated the Sherman Act.",
      "source": "CNBC",
      "zh": "随着白宫新闻采访斗争升级，司法部调查电视网络"
-    },
-    {
-     "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-     "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 20:15:00 GMT",
-     "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-     "source": "MarketWatch",
-     "zh": "“我没有孩子”：我阿姨给了我 5 万美元作为首付。现在她要我把家留给她的两个孩子。"
-    },
-    {
-     "title": "Treasury yields near 24-yr high as investors await inflation data, Fed signals",
-     "link": "https://seekingalpha.com/news/4651948-treasury-yields-near-24-yr-high-as-investors-await-inflation-data-fed-signals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 11 Oct 2026 16:09:57 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "美联储表示，投资者等待通胀数据，国债收益率接近24年高点"
-    },
-    {
-     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 20:00:00 GMT",
-     "summary": "“I presume these are sophisticated investors taking a profit.”",
-     "source": "MarketWatch",
-     "zh": "“我感觉自己像个失败者”：我的股票投资组合剧烈波动。终于到了担心的时候了吗？"
-    },
-    {
-     "title": "Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine; Zelenskyy is waiting for details",
-     "link": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
-     "pubDate": "Sun, 11 Oct 2026 19:33:51 GMT",
-     "summary": "Ukrainian President Volodymyr Zelenskyy said he is waiting on details from Washington.",
-     "source": "CNBC",
-     "zh": "特朗普宣布俄罗斯和乌克兰之间“能源停火”；泽伦斯基正在等待细节"
-    },
-    {
-     "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-     "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 19:32:00 GMT",
-     "summary": "“Both properties will be solely in his name.”",
-     "source": "MarketWatch",
-     "zh": "我的姐夫说服他的父母签下他们的房屋和毕生积蓄购买价值 300 万美元的大院。我干预吗？"
-    },
-    {
-     "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-     "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 19:32:00 GMT",
-     "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-     "source": "MarketWatch",
-     "zh": "我是一名 68 岁的寡妇，给我的两个成年孩子捐钱。我的退休生活是否面临风险？"
     }
    ]
   },

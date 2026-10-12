@@ -9,6 +9,14 @@
    "total": 16,
    "items": [
     {
+     "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
+     "link": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
+     "pubDate": "Mon, 12 Oct 2026 08:20:49 +0000",
+     "summary": "We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing. The post Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing appeared first on Mark",
+     "source": "MarkTechPost",
+     "zh": "2026 年 12 大人工智能实时翻译工具：延迟、语言、定价"
+    },
+    {
      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
      "link": "https://www.qbitai.com/2026/10/502654.html",
      "pubDate": "Mon, 12 Oct 2026 05:48:36 +0000",
@@ -70,7 +78,7 @@
      "pubDate": "Mon, 12 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.12542v1 Announce Type: new Abstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that could refute it - giving a much simpler method the same search effort. We run that comparison under a",
      "source": "arXiv cs.AI",
-     "zh": "DAG 工作流的等预算蒙特卡罗树搜索与随机重启列表调度：受控等预算计算研究"
+     "zh": "DAG 工作流的等预算蒙特卡洛树搜索与随机重启列表调度：受控等预算计算研究"
     },
     {
      "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
@@ -239,14 +247,6 @@
      "summary": "想象你站在一条产线旁边。纸箱一个接一个地往前走。有的歪了，有的少装了一件，有的日期打码印错了。线边的机械臂要",
      "source": "机器之心",
      "zh": "中科大团队把会「倒推」的世界模型塞进了机器人，成立三个月拿下数千万融资！"
-    },
-    {
-     "title": "比Jev更爆火！逆向灭霸 REA 一天登顶GitHub",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733514&idx=1&sn=e28255085a6acb816e2a9316390d6b6e",
-     "pubDate": "Sun, 11 Oct 2026 12:25:00 +0800",
-     "summary": "每天暴涨数万颗 GitHub Star",
-     "source": "新智元",
-     "zh": "比Jev更爆火！逆向灭霸 REA 一天登顶GitHub"
     }
    ]
   },

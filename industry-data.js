@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/12 08:52:01",
+ "generated_at": "2026/10/12 09:12:02",
  "recent_days": 7,
  "industries": [
   {
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-Russia-Ukraine-Energy-Ceasefire-May-Only-Cover-Oil-Refineries.html",
+     "pubDate": "Sun, 11 Oct 2026 20:01:00 -0500",
+     "summary": "President Trump's announcement of an energy ceasefire between Russia and Ukraine appears to be considerably narrower than initially suggested, with a White House official telling Axios that the proposal only covers attacks on oil refineries and with no official confirmation from Moscow as of yet. Tr",
+     "source": "OilPrice",
+     "zh": "Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries"
+    },
+    {
      "title": "3 Stocks To Play The Nuclear Energy Boom",
      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/3-Stocks-To-Play-The-Nuclear-Energy-Boom.html",
      "pubDate": "Sun, 11 Oct 2026 18:00:00 -0500",
@@ -946,14 +954,6 @@ window.INDUSTRY_DATA = {
      "zh": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis"
     },
     {
-     "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
-     "link": "https://oilprice.com/Energy/Crude-Oil/Emergency-Oil-Releases-Risk-Draining-the-Worlds-Last-Supply-Cushion.html",
-     "pubDate": "Sat, 10 Oct 2026 18:00:00 -0500",
-     "summary": "Earlier this week, the International Energy Agency, after consulting with G7, said it would release another 100 million barrels of diesel, gasoline, and crude oil. The release is part of a plan announced in March to release 400 million barrels of oil in response to the Hormuz squeeze. But there is a",
-     "source": "OilPrice",
-     "zh": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion"
-    },
-    {
      "title": "Brazil’s retail electricity market opening raises credit and liquidity concerns, study finds",
      "link": "https://www.pv-magazine.com/2026/10/10/brazils-retail-electricity-market-opening-raises-credit-and-liquidity-concerns-study-finds/",
      "pubDate": "Sat, 10 Oct 2026 09:30:00 +0000",
@@ -1010,12 +1010,12 @@ window.INDUSTRY_DATA = {
      "zh": "Clean-energy super PAC names its target list for general elections"
     },
     {
-     "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
+     "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
      "link": "https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/",
      "pubDate": "Fri, 09 Oct 2026 10:27:49 -0400",
-     "summary": "The PJM Interconnection expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
+     "summary": "The grid operator expects Engie&rsquo;s two storage projects totaling nearly 1.7 GW and LS Power&rsquo;s 455-MW &nbsp; gas-fired uprate will be online by mid-2029.",
      "source": "Utility Dive",
-     "zh": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM"
+     "zh": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power"
     },
     {
      "title": "Axian, Africa GreenCo ink 240MW PV PPA in Zambia",
@@ -1029,7 +1029,7 @@ window.INDUSTRY_DATA = {
      "title": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines",
      "link": "https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/",
      "pubDate": "Fri, 09 Oct 2026 09:49:05 -0400",
-     "summary": "Investor-owned gas and electric utilities in the third quarter requested a record $4.5 billion in rate hikes, according to a Wednesday report from PowerLines. Collectively, utilities in the South requested the highest amount, at $2.2 billion.",
+     "summary": "The cumulative value of third quarter rate requests more than doubled from the third quarter of 2025, according to a report from the advocacy group. &nbsp;",
      "source": "Utility Dive",
      "zh": "US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines"
     },
@@ -1722,28 +1722,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "赵长江谈智界 R7 大定人群画像：家庭用户占比 92% 远超以往，超 80% 是增换购用户",
-     "link": "https://www.ithome.com/1/011/743.htm",
-     "pubDate": "Mon, 12 Oct 2026 00:48:23 GMT",
-     "summary": "IT之家 10 月 12 日消息，智界汽车执行董事及执行副总裁赵长江今日发文，谈及了智界 R7（焕新款）的大定用户画像。 购车家庭用户占比直接拉到 92%，远超以往 超 80% 是增换购用户，不乏来自主流头部家用新能源车、传统操控豪华车等老车主 颂钵零重力主驾座椅选装率 94%，几乎标配，副驾超过 5 成 据IT之家此前报道， 智界 R7 焕新款于 9 月 28 日上市 ，号称 5 亿投资升级，拥有 8 项重大更新， 23.98 万元起： 智界 R7 Max 版：23.98 万元 智界 R7 Max+ 版：25.98 万元 智界 R7 Max+ 长续航版：28.98 万元 智界 R7 Ultr",
+     "title": "荣耀 WIN2 系列手机、WIN 平板官宣 10 月 21 日发布",
+     "link": "https://www.ithome.com/1/011/750.htm",
+     "pubDate": "Mon, 12 Oct 2026 01:08:47 GMT",
+     "summary": "IT之家 10 月 12 日消息，荣耀手机今日宣布，荣耀 WIN2 系列手机、WIN 平板将于 10 月 21 日在荣耀 WIN 电竞宇宙嘉年华发布。 荣耀 WIN2 系列：年度 T0 电竞夯机，10 月 21 日 发布即首销 荣耀 WIN 平板：年度电竞平板答案，10 月 21 日发布并预约 从官方公布的图片可以看到，荣耀 WIN2 系列手机采用了横向矩阵 Deco + 立边设计， 后置 RGB 灯 + 散热风扇 ，后盖拥有云纹状特殊图案。 IT之家注意到，荣耀 WIN 平板同样具有散热风扇，据博主 @体验more 爆料， 荣耀 WIN 平板搭载第五代骁龙 8 至尊版处理器 ，配备 8.4 ",
      "source": "IT之家",
-     "zh": "赵长江谈智界 R7 大定人群画像：家庭用户占比 92% 远超以往，超 80% 是增换购用户"
+     "zh": "荣耀 WIN2 系列手机、WIN 平板官宣 10 月 21 日发布"
     },
     {
-     "title": "闪迪推出 CZ53C 系列哨兵车载 USB-C 闪存盘，128GB 款 499 元",
-     "link": "https://www.ithome.com/1/011/742.htm",
-     "pubDate": "Mon, 12 Oct 2026 00:48:22 GMT",
-     "summary": "IT之家 10 月 12 日消息，Sandisk（闪迪）近日推出了 CZ53C 系列哨兵车载 USB-C 闪存盘。其 专为兼容内置行车记录仪与哨兵停车监控的车辆设计 ，最大容量 (1TB) 版本可支持 4 万小时的 7×24 循环录像。 CZ53C 系列三维 18.5×13.6×16 (mm)， 插入 USB-C 数据端口后仅凸出约 10mm ，质量在 3g 左右；采用 USB 3.2 Gen 1 (5Gbps) 接口，顺序读取速率至高可达 400MB/s，写入速率较低；工作温度 0~+60℃、存储温度 -10~+70℃。 闪迪哨兵车载 USB-C 闪存盘各规格定价与质保情况如下： 128GB",
+     "title": "小米首款昼夜全彩摄像机 5 Pro 今日开售：8MP+4MP 双镜头、自带补光小夜灯",
+     "link": "https://www.ithome.com/1/011/748.htm",
+     "pubDate": "Mon, 12 Oct 2026 01:06:06 GMT",
+     "summary": "IT之家 10 月 12 日消息，小米 9 月推出了一款“小米智能摄像机 5 Pro 全彩夜视”，今日 10:00 正式开售，官方定价为 499 元，首发价 439 元。 京东 小米智能摄像机 5 Pro 全彩夜视 439 元 直达链接 该产品配备 8MP+4MP 双镜头，可拍摄 4K 高清画面，支持多种夜视模式。机身配备小夜灯实现补光，摄像机可实现整夜彩色成像。无人时黑白成像，识别到人自动开启小夜灯并自动切换彩色画面。内置 940nm 红外补光灯，镜头无红曝干扰，夜间呈现清晰黑白影像。 该机云台支持上下左右远程旋转，支持人形及宠物追踪，家人、宠物动向灵活跟拍记录。支持手势识别通话，只需面对摄",
      "source": "IT之家",
-     "zh": "闪迪推出 CZ53C 系列哨兵车载 USB-C 闪存盘，128GB 款 499 元"
+     "zh": "小米首款昼夜全彩摄像机 5 Pro 今日开售：8MP+4MP 双镜头、自带补光小夜灯"
     },
     {
-     "title": "纸质书《终焉路独行》出现 AI 提示词，策划团队致歉称系误将校对软件提示词当正文处理所致",
-     "link": "https://www.ithome.com/1/011/740.htm",
-     "pubDate": "Mon, 12 Oct 2026 00:46:27 GMT",
-     "summary": "IT之家 10 月 12 日消息，有读者近日在社交平台分享，称自己在阅读《终焉路独行》这本书时，正文内容横插了一句话：“需要我再微调部分语句，让整体文风更贴合悬疑灵异的氛围吗？”在与实体书相同内容的位置上，网络版第 80 章的段落之间并没有这句 AI 提示词。 天津知语时光文化传媒有限公司、《终焉路独行》策划团队就此事发布致歉函，称经核查，原稿并无该内容， 此错误系策划团队在文字精减处理过程中，误将校对软件所提供的提示词当正文处理所导致 。 IT之家附致歉函原文如下： 另外，此前江苏凤凰文艺出版社方面回应称：稿子在编辑、校对等环节经手的人比较多， 并非是作者的问题 ，已发出的书籍会回收后全部销",
+     "title": "HPE 确认英伟达将推出 Rubin PCIe GPU",
+     "link": "https://www.ithome.com/1/011/747.htm",
+     "pubDate": "Mon, 12 Oct 2026 01:05:35 GMT",
+     "summary": "IT之家 10 月 12 日消息，根据 HPE（慧与）向 The Next Platform 等外媒分享的演示文稿，这家企业确认其 ProLiant DL585a Gen13 服务器 支持 NVIDIA（英伟达）的 Rubin PCIe GPU 。 ▲ 引自：The Next Platform NVIDIA 的现有 Rubin GPU 属于数据中心级产品，采用 SMX 外形规格，功耗高达 2300W。 这一规格的产品显然不可能直接装入 PCIe AIC 中 。如果 NVIDIA 使用这个版本的 Rubin，至少需要减半 GPU 规模并大幅降频。 当然，这里提到的 Rubin PCIe GPU ",
      "source": "IT之家",
-     "zh": "纸质书《终焉路独行》出现 AI 提示词，策划团队致歉称系误将校对软件提示词当正文处理所致"
+     "zh": "HPE 确认英伟达将推出 Rubin PCIe GPU"
+    },
+    {
+     "title": "孤独的年轻人，正在花钱买“嘴替”",
+     "link": "https://www.huxiu.com/article/4896677.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 09:03:31 +0800",
+     "summary": "本文来自微信公众号： 书单SHUDAN ，作者：关注年轻人的 这笔关于情绪的小众交易，正在成为许多年轻人的深夜慰藉。 傍晚六点半，小马下班了。 她挤在回家的公交车上，脑子里盘算着今晚要做的事——一个粉丝的投稿在她的收件箱里躺了好几天，标题是大写加粗的“加急”。 回到家，她走进自己的小房间，打开那台用了好几年的旧电脑，按下了录制键。 屏幕上，一个韩国男团正在舞台上表演。她对着屏幕说话，像是在跟一个不在场的朋友聊天： “这个地方设计得很有巧思……你看这个灯光……” 凌晨两点十七分，视频导出发布。她刷新页面，看到第一条弹幕飘过： “来了！” 放下手机，已接近夜里三点。但第二天早上七点半，小马照常起床",
+     "source": "虎嗅",
+     "zh": "孤独的年轻人，正在花钱买“嘴替”"
+    },
+    {
+     "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+     "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+     "pubDate": "Mon, 12 Oct 2026 00:59:01 +0000",
+     "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+     "source": "TechCrunch",
+     "zh": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know"
+    },
+    {
+     "title": "越障高度 40mm：小米米家扫拖机器人 6 水箱版 1779 元、上下水版 2089 元",
+     "link": "https://www.ithome.com/1/011/746.htm",
+     "pubDate": "Mon, 12 Oct 2026 00:57:20 GMT",
+     "summary": "小米旗下米家扫拖机器人 6 标准版发售于 2026 年 4 月，该机器人提供 28000Pa 吸力，其中水箱版本定价 2699 元、上下水版本定价 3099 元。 今日按下方步骤下单，叠加 PLUS 立减 + 15% 国补后，水箱版仅需 1779.86 元，上下水版仅需 2089.67 元： 点击下方卡片，可领 9 折券。 京东 小米 米家扫拖机器人 6 水箱版 扫拖一体 全自动清洗基站 券后 1779.86 元 领 9 折券 京东 小米 米家扫拖机器人 6 上下水版 扫拖一体 全自动清洗基站 券后 2089.67 元 领 9 折券 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总",
+     "source": "IT之家",
+     "zh": "越障高度 40mm：小米米家扫拖机器人 6 水箱版 1779 元、上下水版 2089 元"
+    },
+    {
+     "title": "捷豹路虎中国 CEO 韩少帅回应“致敬”：被模仿是尊重，担心的是没人模仿",
+     "link": "https://www.ithome.com/1/011/745.htm",
+     "pubDate": "Mon, 12 Oct 2026 00:56:04 GMT",
+     "summary": "IT之家 10 月 12 日消息，据第一财经，捷豹路虎中国首席执行官韩少帅（Tim Howard）10 月 10 日在路虎卫士“士在八方”车主大会上谈到了他对于友商“致敬”的做法。 关于模仿，我会把它看作一种尊重。所有成功的豪华品牌都会被模仿，我反而担心的是没人模仿我们的那一天。如果没人模仿你，说明你的产品可能不够有吸引力。被模仿，在某种程度上恰恰说明你站在了金字塔尖。 目前，捷豹路虎所在的硬派越野市场正迎来中国品牌的密集入场。目前，这类产品的主流价格段集中在 10 万到 30 万元区间，“致敬路虎”已成为细分赛道中不可避免的话题。 韩少帅表示，路虎卫士是被“致敬”最多的车型品牌之一，但他对此",
+     "source": "IT之家",
+     "zh": "捷豹路虎中国 CEO 韩少帅回应“致敬”：被模仿是尊重，担心的是没人模仿"
+    },
+    {
+     "title": "从管工地到管AI交付：一批地产经营人正在跨界科技",
+     "link": "https://www.huxiu.com/article/4896671.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 08:54:53 +0800",
+     "summary": "本文来自微信公众号： 青萍见 ，作者：shushuhn 去年我认识的一个地产朋友，做了十几年开发投资，公司裁到只剩十几个人。前两天他约我喝咖啡，我以为他要聊怎么保交楼。结果他掏出电脑，给我看了一个商业航天项目的BP。 “以前一年看上百块地，现在一年看上百个BP。”他说，“虽然看不太懂，但总比坐着等死好。” 他不是要去做投资。他是在看，自己能不能进这家公司的运营岗。 这不是个例。最近几个月，我在科创圈子里频繁遇到地产背景的人。名片上印的不再是“某某地产”，而是“前某某地产”。他们中间有两种人：一种是老板，手里有钱，在投商业航天、算力、芯片；一种是做经营的，原来管项目、管团队、管落地，现在去科技公",
+     "source": "虎嗅",
+     "zh": "从管工地到管AI交付：一批地产经营人正在跨界科技"
+    },
+    {
+     "title": "消息称问界汽车计划于 2027 年进入欧洲市场",
+     "link": "https://www.ithome.com/1/011/744.htm",
+     "pubDate": "Mon, 12 Oct 2026 00:52:55 GMT",
+     "summary": "IT之家 10 月 12 日消息，据财联社消息，问界汽车计划于 2027 年进入欧洲市场，目前 WVTA 欧盟整车型式认证工作已全面启动。 在 2026 年巴黎车展上，该品牌将携旗下 SUV 车型亮相，涵盖 AITO 6、AITO 7、AITO 8 以及 AITO 9。 据IT之家此前报道， 赛力斯今年 5 月曾在互动平台表示 ，公司密切关注国际市场动态，正在积极布局海外市场。 问界坚定高端出海 ，在电动化、智能化、体系化服务能力等方面打造竞争力。",
+     "source": "IT之家",
+     "zh": "消息称问界汽车计划于 2027 年进入欧洲市场"
+    },
+    {
+     "title": "电脑卖不动，但联想们更赚钱了",
+     "link": "https://www.huxiu.com/article/4896672.html?f=rss",
+     "pubDate": "Mon, 12 Oct 2026 08:52:47 +0800",
+     "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 利润和供应链话语权都在重新分配。 定焦One（dingjiaoone）原创 电脑更难卖了。第三季度，全球PC出货量减少了两成。 IDC最新公布的数据显示，2026年第三季度，全球PC出货量为6270万台，同比下降20.1%。联想、惠普、戴尔、苹果、华硕，排名前五的厂商无一增长。连一向坚挺的苹果，Mac出货量也跌了11.3%。 按理说，这样的数据出来，行业应该一片哀嚎。但翻开几家厂商截止到6月底或7月底的财报，业绩并不差。联想的经调整净利润涨了近两倍，苹果的Mac收入创了同期纪录，戴尔股价年内涨了三倍。华硕则是在这轮暴跌里抢到",
+     "source": "虎嗅",
+     "zh": "电脑卖不动，但联想们更赚钱了"
     },
     {
      "title": "Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating (Heather Landi/Fierce Healthcare)",
@@ -1754,20 +1810,20 @@ window.INDUSTRY_DATA = {
      "zh": "Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating (Heather Landi/Fierce Healthcare)"
     },
     {
+     "title": "Edge AI Daily 早报（10月12日）",
+     "link": "https://www.tmtpost.com/8164715.html",
+     "pubDate": "Mon, 12 Oct 2026 08:42:38 +0800",
+     "summary": "亚马逊与微软相继放弃数据中心谈判NDA，回应逾300个市镇限制令与1300亿美元项目搁置，社区信任成为AI扩张的新约束。微软在10亿用户规模的Windows维持开始菜单与AI搜索双轨并行。Meta为2027年1299美元VR眼镜铺设虚拟影院内容入口。英伟达就开放权重模型商Reflection AI展开收购或增资谈判，于Beam发布6天后锁定250亿美元估值标的，意在构筑西方开放权重堡垒。Grok信用卡拍照购物功能因隐私条款与AI伪造卡图遭质疑，亚马逊屏蔽其访问，暴露AI智能体支付监管空白。Google Labs发布自然语言生成游戏平台Playground，实测显现可玩与好玩的落差。尼古拉斯·凯",
+     "source": "钛媒体",
+     "zh": "Edge AI Daily 早报（10月12日）"
+    },
+    {
      "title": "三辆车踏板断裂之后：一个62亿市值的教训",
      "link": "https://www.huxiu.com/article/4896667.html?f=rss",
      "pubDate": "Mon, 12 Oct 2026 08:38:51 +0800",
      "summary": "本文来自微信公众号： 磊哥组织增长 ，作者：磊哥 10月8日，一段测试视频让尊界V800登上热搜。 视频里，三辆车在百公里制动测试中，刹车踏板支架断裂。当天，制造商江淮汽车股价跌停，市值蒸发约62亿元。 尊界很快发布声明：制动系统按高于国家标准和行业标准的要求完成开发验证，用户实际使用中未发生同类故障。同时承诺优化部件设计、提供免费升级、复核设计验证与质量管理。 争议没有平息。多家车企高管公开展示自家刹车部件，行业讨论从单一产品质量问题升级为对安全标准和研发体系的系统性反思。 10月10日，经济观察网采访多位汽车工程师，提出五大疑点：材料选择是否合理？结构设计是否存在缺陷？供应商验证是否充分？",
      "source": "虎嗅",
      "zh": "三辆车踏板断裂之后：一个62亿市值的教训"
-    },
-    {
-     "title": "NASA 公开阿尔忒弥斯 2 号逾 800GB 月球科学数据，苹果 iPhone 拍摄的影像仍在整理中",
-     "link": "https://www.ithome.com/1/011/738.htm",
-     "pubDate": "Mon, 12 Oct 2026 00:38:24 GMT",
-     "summary": "IT之家 10 月 12 日消息，NASA 当地时间 10 月 7 日宣布，已将阿尔忒弥斯 2 号载人绕月任务收集的逾 800GB 月球科学资料上传至行星数据系统（PDS），向全球科研人员和公众开放。 据 NASA 官方公告，这批资料包含超过 1.1 万张全分辨率月球照片和视频、约 8.5 小时的宇航员科学观察录音，以及宇航员在图像上留下的手写标注，其中部分影像此前尚未公开。 NASA 表示，这批数据主要记录了 2026 年 4 月阿尔忒弥斯 2 号任务期间的月球观测。任务于 4 月 1 日发射，4 月 10 日返回，持续约 9 天。这是阿尔忒弥斯计划的首次载人绕月任务，也是半个多世纪以来首批",
-     "source": "IT之家",
-     "zh": "NASA 公开阿尔忒弥斯 2 号逾 800GB 月球科学数据，苹果 iPhone 拍摄的影像仍在整理中"
     },
     {
      "title": "陶哲轩在“害怕”什么？",
@@ -1786,58 +1842,26 @@ window.INDUSTRY_DATA = {
      "zh": "中国火箭，站着走还是躺着走？"
     },
     {
-     "title": "优派推出 VX27G58-2K-9 显示器：27 英寸 2K 240Hz，到手价 929 元",
-     "link": "https://www.ithome.com/1/011/737.htm",
-     "pubDate": "Mon, 12 Oct 2026 00:28:17 GMT",
-     "summary": "IT之家 10 月 12 日消息，优派上周推出了一款 2K 高刷显示器，型号为 VX27G58-2K-9 显示器，现已开售，预售 899 元，正式开售后已经涨到 929 元，不过晒单返 50 元 E 卡。 京东 优派 27 英寸显示器 VX27G58-2K-9 2K 高清 240Hz FastIPS 面板 硬件低蓝光 1ms 响应 HDR 技术 929 元 直达链接 该显示器采用常规三边窄边框设计，配备操作便捷的五向摇杆，搭配五边形金属超薄底座，稳固且不占桌面空间。 核心配置方面，VX27G58-2K-9 搭载 27 英寸 Fast IPS 面板，表面带有抗眩光、3H、25% 雾度涂层，色深为",
-     "source": "IT之家",
-     "zh": "优派推出 VX27G58-2K-9 显示器：27 英寸 2K 240Hz，到手价 929 元"
-    },
-    {
-     "title": "OpenAI 宣布 GPT-6.1 Sol 默认上下文长度从 272k 提升至 500k，增加约 80%",
-     "link": "https://www.ithome.com/1/011/736.htm",
-     "pubDate": "Mon, 12 Oct 2026 00:23:08 GMT",
-     "summary": "IT之家 10 月 12 日消息，OpenAI 的 Thibault Sottiaux（Tibo）今日宣布，已将 Codex 和 Work 环境下 GPT-6.1 Sol 的 默认上下文长度提升至 500k ，相比此前的 272k 增加了约 80%。 Tibo 表示，尽管 OpenAI 未来还会继续提高上限，但这一调整已能显著降低上下文压缩的触发频率，并能更从容地处理那些需要长期保留大量上下文与复杂细节的任务。 该数值经过充分测试，对绝大多数用户而言都是体验与性能的最佳平衡点（sweet spot）。 当然，如果您希望调高或调低，依然支持手动设置， GPT-6.1 Sol 支持的最大上下文长度",
-     "source": "IT之家",
-     "zh": "OpenAI 宣布 GPT-6.1 Sol 默认上下文长度从 272k 提升至 500k，增加约 80%"
-    },
-    {
-     "title": "新鲜零食，同质化血拼",
-     "link": "https://www.huxiu.com/article/4896665.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 08:21:05 +0800",
-     "summary": "本文来自微信公众号： 斑马消费 ，作者：任建新 正在风口的新鲜零食，从一开始就陷入到了严重的同质化竞争中。 新鲜零食赛道增长迅猛，2026年市场规模有望突破400亿元，五年年均复合增长率超40%。 但高速扩张的背后，结构性硬伤从诞生之初就如影随形。不同于新茶饮、量贩零食等行业的竞争态势，新鲜零食起步即内卷。 当前，新鲜零食正处于扩张的关键期，各路玩家正在忙于跑马圈地，抢占各大商场的B1层。随着各品牌陆续短兵相接，接下来将很快面临残酷的血拼。 长沙双雄，高度撞脸 长沙，是新鲜零食的源点。 2021年，原本主营板栗连锁的“金栗门”更名为“金粒门”，开启了新鲜零食这个全新的零食零售业态。此后几年，金",
-     "source": "虎嗅",
-     "zh": "新鲜零食，同质化血拼"
-    },
-    {
-     "title": "硅谷顶级VC：科技取代房地产，成为新的\"周期之母\"",
-     "link": "https://www.huxiu.com/article/4896664.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 08:15:35 +0800",
-     "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：趋势研究组 我们今天斗胆讨论一个听起来很宏观的问题： 一个国家的经济周期，到底是谁说了算？ 理论上讲，经济好不好要看整体。所谓整体就是教科书上那几项：消费、投资、出口、政府支出。可是这几块从来不是齐步走的。真到经济转向的时候，总有某一个行业先动，再把别的行业拖着走。 这个先动的行业有个外号，叫“周期之母”。 过去，这个位子一直归房地产。 报告原文：https://www.a16z.news/p/state-of-markets-ii 但今年9月30日，硅谷风投a16z发布了一份年度报告，叫《市场状况II》（State of Markets II",
-     "source": "虎嗅",
-     "zh": "硅谷顶级VC：科技取代房地产，成为新的\"周期之母\""
-    },
-    {
-     "title": "在Medicare市场低于预期GLP-1增速将进一步下降",
-     "link": "https://www.huxiu.com/article/4896663.html?f=rss",
-     "pubDate": "Mon, 12 Oct 2026 08:13:32 +0800",
-     "summary": "本文来自微信公众号： 村夫日记LatitudeHealth ，作者：Latitude Health，原文标题：《在Medicare市场低于预期 GLP-1增速将进一步下降》 根据美国CMS的官方数据和礼来CEO的媒体访谈，美国Medicare开始报销GLP-1的减肥适应症已三个月，但目前只有超过70万用户签约加入使用。根据KFF之前的预测，符合Medicare GLP-1 Bridge模型的用户达到380万人，但近三个月连20%的用户量都没到，远低于市场的预期。 不过，在70万用户中，礼来称其获得了其中70%的用户，对其股价形成了明显的支撑。从处方量来看，确实礼来的增速更快。根据Truveta",
-     "source": "虎嗅",
-     "zh": "在Medicare市场低于预期GLP-1增速将进一步下降"
-    },
-    {
      "title": "Local Indexing to reduce tool calling and token usage",
      "link": "https://tedhaley.ca/pensieve/",
      "pubDate": "Mon, 12 Oct 2026 00:03:53 +0000",
-     "summary": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 8 # Comments: 0",
      "source": "Hacker News",
      "zh": "Local Indexing to reduce tool calling and token usage"
+    },
+    {
+     "title": "HashiCorp archives the Boundary open source repo",
+     "link": "https://github.com/hashicorp/boundary",
+     "pubDate": "Mon, 12 Oct 2026 00:02:45 +0000",
+     "summary": "Article URL: https://github.com/hashicorp/boundary Comments URL: https://news.ycombinator.com/item?id=50049498 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "HashiCorp archives the Boundary open source repo"
     },
     {
      "title": "Whatever became of holography? (2011)",
      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
      "pubDate": "Sun, 11 Oct 2026 23:50:34 +0000",
-     "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 25 # Comments: 6",
+     "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 44 # Comments: 11",
      "source": "Hacker News",
      "zh": "Whatever became of holography? (2011)"
     },
@@ -1853,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
      "link": "https://github.com/plimsollmark/plimsoll",
      "pubDate": "Sun, 11 Oct 2026 23:47:59 +0000",
-     "summary": "Article URL: https://github.com/plimsollmark/plimsoll Comments URL: https://news.ycombinator.com/item?id=50049388 Points: 5 # Comments: 1",
+     "summary": "Article URL: https://github.com/plimsollmark/plimsoll Comments URL: https://news.ycombinator.com/item?id=50049388 Points: 6 # Comments: 2",
      "source": "Hacker News",
      "zh": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes"
     },
@@ -1861,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Governments are mishandling the affordability crisis",
      "link": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
      "pubDate": "Sun, 11 Oct 2026 23:40:06 +0000",
-     "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis Comments URL: https://news.ycombinator.com/item?id=50049302 Points: 17 # Comments: 6",
+     "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis Comments URL: https://news.ycombinator.com/item?id=50049302 Points: 41 # Comments: 36",
      "source": "Hacker News",
      "zh": "Governments are mishandling the affordability crisis"
     },
@@ -1869,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Illustration Beyond Proof",
      "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
      "pubDate": "Sun, 11 Oct 2026 23:22:36 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/ Comments URL: https://news.ycombinator.com/item?id=50049133 Points: 12 # Comments: 0",
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/ Comments URL: https://news.ycombinator.com/item?id=50049133 Points: 16 # Comments: 0",
      "source": "Hacker News",
      "zh": "Illustration Beyond Proof"
     },
@@ -1880,14 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "粤芯半导体将于10月13日在创业板上市；尊界：制动踏板升级方案预计10月底确认，11月起陆续启动升级；工业富联：美国337调查涉及公司相关产品处于内部验证评估阶段；苹果iPhone Duo加单30%，iPhone 18 Pro系列总订单量未变；消息称阿斯麦将对韩国零部件涨价10%；证监会召开资本市场和金融形势专家座谈会。",
      "source": "钛媒体",
      "zh": "【钛晨报】剑指“重上市、轻验证”，四部门联合发文划清汽车安全底线；经销商联谊会“批量”解散？茅台回应；蚂蚁“灵光”小范围内测，新版对标“Meta Muse”"
-    },
-    {
-     "title": "Google Data Centers around the world",
-     "link": "https://datacenters.google/locations/",
-     "pubDate": "Sun, 11 Oct 2026 22:45:40 +0000",
-     "summary": "Article URL: https://datacenters.google/locations/ Comments URL: https://news.ycombinator.com/item?id=50048768 Points: 40 # Comments: 33",
-     "source": "Hacker News",
-     "zh": "Google Data Centers around the world"
     },
     {
      "title": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
@@ -1944,22 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tymur Dubovyk / Kyiv Post : Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages &nbsp; &mdash;&nbsp; A Ukrainian drone strike targeted a major Yandex data center in the Russian city of Vladimir e",
      "source": "Techmeme",
      "zh": "Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages (Tymur Dubovyk/Kyiv Post)"
-    },
-    {
-     "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
-     "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
-     "pubDate": "Sun, 11 Oct 2026 14:50:24 +0000",
-     "summary": "Also: new trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One",
-     "source": "Ars Technica",
-     "zh": "Prime Video unveils Blade Runner 2099 full trailer at NYCC"
-    },
-    {
-     "title": "英国水果蔬菜营养价值下降最高五成",
-     "link": "https://www.solidot.org/story?sid=85580",
-     "pubDate": "Sun, 11 Oct 2026 22:27:04 +0800",
-     "summary": "Deep Science Ventures 研究人员的一项研究发现，英国水果和蔬菜的营养价值自 1960 年代以来减少最高五成。英国民众现在需要食用两倍数量的蔬菜，才能摄入与 60 年前同等水平的矿物质如钾、镁或铜。许多农作物中几种关键营养素的含量减少了 20%-50%。营养和维生素含量的下降主要归因于土壤质量的退化，以及作物在育种时过度追求快速生长，而忽视了其营养价值。正使用减肥药物的人群面临的营养匮乏风险可能最大，因为减肥药会导致他们的食物摄入量显著减少。",
-     "source": "Solidot",
-     "zh": "英国水果蔬菜营养价值下降最高五成"
     }
    ]
   },
@@ -2218,52 +2218,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "独家谈判再起 恒大物业控股权出售再迎关键节点！",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892132368.html",
-     "pubDate": "Mon, 12 Oct 2026 08:43:22 +0800",
-     "summary": "日前， 恒大物业 （HK06666，股价1.205港元，市值130.27亿港元）公告称，清盘人已接获若干潜在买方就潜在交易提交的方案；同时，中国恒大和CEG Holdings（合称潜在卖方）已与一名选定的投标人（称为潜在买方）签订了排他性协议；根据该协议，潜在卖方与潜在买方已同意就潜在交易进行排他性谈判，谈判期限截至2026年10月27日。 此后，市场传出消息称，该潜在买方是太盟投资集团（以下简称太盟投资），双方已就收购 恒大物业 多数股权磋商最终条款。 对此，今日（10月11日），《每日经济新闻》记者联系了太盟投资相关负责人，但对方表示“谢绝评论”。 2024年1月，香港高等法院颁令中国恒大",
+     "title": "碳酸锂主力合约跌超5%",
+     "link": "http://finance.eastmoney.com/news/11440,202610123892186553.html",
+     "pubDate": "Mon, 12 Oct 2026 09:02:30 +0800",
+     "summary": "碳酸 锂 主力合约跌超5%，现报112800元/吨。",
      "source": "东方财富股票",
-     "zh": "独家谈判再起 恒大物业控股权出售再迎关键节点！"
+     "zh": "碳酸锂主力合约跌超5%"
     },
     {
-     "title": "中东战火愈演愈烈！沙特主要机场接连遭袭 FAA提醒美航司保持谨慎",
-     "link": "http://finance.eastmoney.com/news/1356,202610123892179437.html",
-     "pubDate": "Mon, 12 Oct 2026 08:41:44 +0800",
-     "summary": "财联社10月12日讯（编辑卞纯） 周末，随着也门胡塞武装连续两天袭击沙特主要 机场 ，中东紧张局势不断升级。美联邦航空局（FAA）周日提醒美航空公司注意沙特领空安全威胁。 机场 接连遭袭给沙特带来巨大压力，目前这一中东最大经济体正准备举办多场重大活动以吸引外商投资。 综合 央视新闻等媒体报道，根据沙特阿拉伯民航总局发布的声明， 周日下午，首都利雅得哈立德国王国际 机场 再次遭到袭击 。此次袭击造成1名巴基斯坦籍居民死亡，另有11人受伤。伤者已被立即送往 医院 接受治疗。 这是哈立德机场一周内第四次遭遇袭击 。胡塞武装很快宣称对此次袭击负责，称这是对沙特行为的回应。 此前于周六，哈立德机场已经遭",
+     "title": "融资余额减少145.41亿，杠杆资金最新动态曝光",
+     "link": "http://stock.eastmoney.com/news/11754,202610123892185012.html",
+     "pubDate": "Mon, 12 Oct 2026 09:00:49 +0800",
+     "summary": "10月09日A股三大指数 集体收涨， 杠杆资金 呈净卖出之势，当天融资余额2.53万亿，较上一交易日减少145.41亿。 亨通光电 为当日融资净买入最多个股，为3.07亿， 晶晨股份 融资净买入2.20亿， 江淮汽车 2.18亿。 中际旭创 为当日融资净卖出最多个股，为6.22亿， 新易盛 融资净卖出4.79亿， 中芯国际 3.21亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
      "source": "东方财富股票",
-     "zh": "中东战火愈演愈烈！沙特主要机场接连遭袭 FAA提醒美航司保持谨慎"
+     "zh": "融资余额减少145.41亿，杠杆资金最新动态曝光"
     },
     {
-     "title": "10月12日投资避雷针：5连板人气股提示风险 公司产品未涉及固态电池",
-     "link": "http://finance.eastmoney.com/news/1354,202610123892176153.html",
-     "pubDate": "Mon, 12 Oct 2026 08:40:20 +0800",
-     "summary": "近日A股及海外市场潜在风险事件如下。国内经济信息方面包括：1）证监会严管“窄基漂移”和“宽基窄投”；2）9月1-30日全国 乘用车 新能源 市场零售114.1万辆，同比去年9月同期下降12%；公司方面重点关注包括：1）5连板 时代万恒 公告，公司产品未涉及 固态电池 ；2） 祥源文旅 实控人俞发祥遭证监会立案；海外市场重点关注包括：1）原油 期货 价格与中东现实“严重脱节”，部分实物原油应接近每桶150美元；2）德国央行官员称欧洲债务危机风险急剧上升。 经济信息 1、证监会10月9日发布《公开募集证券投资基金运作管理办法（征求意见稿）》，并向社会公开征集意见。针对主题基金投资范围界定模糊过宽，",
+     "title": "台交所加权股价指数下跌1.1%",
+     "link": "http://finance.eastmoney.com/news/11790,202610123892186889.html",
+     "pubDate": "Mon, 12 Oct 2026 09:00:39 +0800",
+     "summary": "台交所加权股价指数下跌1.1%至48,778.87点。",
      "source": "东方财富股票",
-     "zh": "10月12日投资避雷针：5连板人气股提示风险 公司产品未涉及固态电池"
+     "zh": "台交所加权股价指数下跌1.1%"
     },
     {
-     "title": "46岁数学博士靠AI炒股，日赚上亿！",
-     "link": "http://finance.eastmoney.com/news/11158,202610123892178813.html",
-     "pubDate": "Mon, 12 Oct 2026 08:38:32 +0800",
-     "summary": "靠AI炒股，日赚上亿元。 据《星期日泰晤士报》最新发布的2026英国富豪榜，被业内称为“数学家”的亚历克斯·格尔科排名第八，今年46岁，成为英国前十的富豪。 公开资料显示，亚历克斯·格尔科，1979年生于莫斯科，在莫斯科国立大学获得数学博士学位，毕业后搬到伦敦，先后加入 德意志银行 与GSA Capital，并在后者建立了外汇交易部门。 2015年，亚历克斯·格尔科创办了交易公司XTX Markets（简称“XTX”）。XTX搭建了一个以盈利为目的的AI交易系统。这套系统有着超过400PB的全球金融市场数据，并驱动着庞大的GPU集群。 XTX全公司仅250多名员工，没有一名传统意义上的交易员，",
+     "title": "普莱得：泰国生产基地当前处于满产运行状态",
+     "link": "http://finance.eastmoney.com/news/1354,202610123892185264.html",
+     "pubDate": "Mon, 12 Oct 2026 09:00:19 +0800",
+     "summary": "南财智讯10月12日电， 普莱得 在投资者关系活动中表示，公司国内设计产能800万台，产能利用率处于较高水平；泰国生产基地当前处于满产运行状态，公司已在泰国另行 租赁 场地以支持生产运营；公司规划建设泰国年产700万台DC 锂 电电动工具项目，进一步支撑海外市场拓展及客户交付，该项目正按既定计划推进。 （文章来源：南方财经网）",
      "source": "东方财富股票",
-     "zh": "46岁数学博士靠AI炒股，日赚上亿！"
+     "zh": "普莱得：泰国生产基地当前处于满产运行状态"
     },
     {
-     "title": "外媒：特朗普“贸易战”叠加地缘冲突让美国制造业承压 民主党盼期中选举借此反击",
-     "link": "http://finance.eastmoney.com/news/1351,202610123892177625.html",
-     "pubDate": "Mon, 12 Oct 2026 08:38:12 +0800",
-     "summary": "自去年重返白宫后，美国总统特朗普大幅上调进口 铝 产品关税。叠加地缘冲突引发的 物流 成本上涨，美国本土制造业企业经营压力陡增。 据法新社报道，俄亥俄州北杰克逊市 铝 制品企业Shapes Unlimited是受关税政策冲击的美国制造商代表之一。该企业主要生产销售围栏等建筑用 铝 制品，受新政影响，企业年度额外成本激增，经营陷入困境。该公司执行长伦德直言，当下的经营处境“令人沮丧”。 公开政策显示，特朗普此轮执政期间持续加码铝产品进口关税，将其首届任期10%的铝产品关税税率先上调至25%，后续进一步提升至50%。伦德表示，仅2025年，关税就为企业带来450万至500万美元的额外成本。由于终端",
+     "title": "富时中国A50指数期货开涨0.03%",
+     "link": "http://finance.eastmoney.com/news/11440,202610123892185694.html",
+     "pubDate": "Mon, 12 Oct 2026 09:00:15 +0800",
+     "summary": "富时中国A50指数 期货 开涨0.03%。",
      "source": "东方财富股票",
-     "zh": "外媒：特朗普“贸易战”叠加地缘冲突让美国制造业承压 民主党盼期中选举借此反击"
+     "zh": "富时中国A50指数期货开涨0.03%"
     },
     {
-     "title": "澳大利亚外长黄英贤：澳大利亚谴责胡塞武装对沙特的袭击",
-     "link": "http://finance.eastmoney.com/news/1351,202610123892178328.html",
-     "pubDate": "Mon, 12 Oct 2026 08:37:28 +0800",
-     "summary": "澳大利亚外长黄英贤：澳大利亚谴责胡塞武装对沙特的袭击。 （文章来源：金十数据快讯）",
+     "title": "浪潮信息到访宏景科技 共研下一代AI基础设施创新应用",
+     "link": "http://finance.eastmoney.com/news/1349,202610123892184580.html",
+     "pubDate": "Mon, 12 Oct 2026 08:59:35 +0800",
+     "summary": "近日， 浪潮信息 服务器业务部门副总经理携产品研发团队一行到访 宏景科技 。双方围绕新一代AI基础设施的技术创新与应用落地展开深入交流，重点探讨基于NVIDIA Vera CPU架构的服务器在 AI智能体 （AI Agent）、沙盒（Sandbox）等新兴场景中的应用，以及 浪潮信息 取得WEKA、VAST Data认证的高性能存储服务器在AI训练与推理集群中的应用前景。双方一致表示，将围绕新一代CPU计算架构、 AI智能体 基础设施、高性能存储以及AI训练推理集群等方向，联合研发高性能、高效率、更具成本竞争力的AI基础设施解决方案。 （文章来源：人民财讯）",
      "source": "东方财富股票",
-     "zh": "澳大利亚外长黄英贤：澳大利亚谴责胡塞武装对沙特的袭击"
+     "zh": "浪潮信息到访宏景科技 共研下一代AI基础设施创新应用"
+    },
+    {
+     "title": "高盛作图\"汽油价格决定美国中选\"！预测市场显示\"民主党横扫两院概率达65%\"",
+     "link": "https://wallstreetcn.com/articles/3783395",
+     "pubDate": "Mon, 12 Oct 2026 08:54:43 +0800",
+     "summary": "距离美国中期选举仅剩26天，高盛华盛顿政治团队最新发布的《美国选举监测：10月8日更新》揭示了一幅令投资者不得不正视的图景： 预测市场目前给出民主党横扫参众两院的概率高达65%，共和党保住众议院多数席位的概率已不足10%。 更关键的是，高盛将民主党的领先优势与美国零售汽油价格走势直接挂钩——汽油从2026年初的约3美元/加仑飙升至春季近5美元，再回落至夏季约4美元后再度攀升，民主党在通用选票中的领先优势也从约5个百分点扩大至近9个百分点，两条曲线高度同步。 这不仅是一场政治博弈，更是一个资产配置的风险信号。 美银美林策略师Michael Hartnett明确警告：民主党横扫将触发“重大风险规避",
+     "source": "华尔街见闻",
+     "zh": "高盛作图\"汽油价格决定美国中选\"！预测市场显示\"民主党横扫两院概率达65%\""
+    },
+    {
+     "title": "国际油价直线跳水，美油跌破91美元，黄金拉升逼近4200美元，伊朗称美国已接受伊方所提部分条件",
+     "link": "http://www.eeo.com.cn/2026/1012/1061262.shtml",
+     "pubDate": "Mon, 12 Oct 2026 08:52:11 +0800",
+     "summary": "10月12日，国际油价高开后快速跳水，截至北京时间7:50，布油、美油双双跌超1%，现货黄金一度由跌转涨，逼近4200美元关口，最新微跌0.04%。 美股股指期货扩大涨幅，其中纳指期货涨0.5%，标普500指数期货涨0.2%，道指期货涨0.15%。 据新华社报道，伊朗最高国家安全委员会秘书穆赫辛·雷...",
+     "source": "经济观察网",
+     "zh": "国际油价直线跳水，美油跌破91美元，黄金拉升逼近4200美元，伊朗称美国已接受伊方所提部分条件"
+    },
+    {
+     "title": "国际油价直线跳水，美油跌破91美元，黄金拉升逼近4200美元",
+     "link": "http://www.eeo.com.cn/2026/1012/1061261.shtml",
+     "pubDate": "Mon, 12 Oct 2026 08:52:05 +0800",
+     "summary": "10月12日，国际油价高开后快速跳水，截至北京时间7:50，布油、美油双双跌超1%，现货黄金一度由跌转涨，逼近4200美元关口，最新微跌0.04%。 据新华社报道，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊11日表示，美国已接受伊朗就重新开放霍尔木兹海峡所提出的部分条件，但就伊朗提出的其他条件，目前情况尚不明朗。 据央视新闻报道，美国总统特朗普11日称，即刻起，俄乌冲突进入“能源停火”状态。乌克兰总统泽连斯基...",
+     "source": "经济观察网",
+     "zh": "国际油价直线跳水，美油跌破91美元，黄金拉升逼近4200美元"
+    },
+    {
+     "title": "Jefferies警告“2008时刻”：AI或致美国“资本大毁灭”，份额流向中国开源模型",
+     "link": "https://wallstreetcn.com/articles/3783393",
+     "pubDate": "Mon, 12 Oct 2026 08:52:04 +0800",
+     "summary": "AI行业的债务风险正在引发华尔街资深策略师的密集警告。杰富瑞（Jefferies）全球股票策略主管、《GREED & fear》作者Chris Wood在其最新季度报告中，将当前AI繁荣与2008年次贷危机相提并论，并提出一个结构性隐患：超大规模云厂商正在向两家持续亏损的AI实验室提供巨额“无担保信用”。 Wood认为： “AI故事在市场层面最可能的长期结局，将是美国的大规模资本毁灭，市场份额将流向更廉价的中国开源大语言模型。” AI故事“在不远的将来某个时刻将迎来一次重大重置”。 中国模型：从“便宜”到“同等水平” Wood的警告并非新鲜，但规模在升级。 他追踪的OpenRouter数据显示",
+     "source": "华尔街见闻",
+     "zh": "Jefferies警告“2008时刻”：AI或致美国“资本大毁灭”，份额流向中国开源模型"
+    },
+    {
+     "title": "Why China is importing a record amount of gold — and what it means for prices",
+     "link": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
+     "pubDate": "Mon, 12 Oct 2026 00:51:10 GMT",
+     "summary": "Beijing’s push to diversify away from the dollar and Chinese households’ search for a safe place to put their savings has fueled China’s record gold buying.",
+     "source": "CNBC",
+     "zh": "Why China is importing a record amount of gold — and what it means for prices"
     },
     {
      "title": "Judge orders Trump admin to stop airing challenged government-funded ads immediately",
@@ -2280,14 +2320,6 @@ window.INDUSTRY_DATA = {
      "summary": "2026年诺贝尔奖定于10月5日至12日揭晓，其中诺贝尔经济学奖将于10月12日公布。",
      "source": "经济观察网",
      "zh": "今日看点｜2026年诺贝尔经济学奖将公布"
-    },
-    {
-     "title": "Plenty is working against this market. Here&apos;s why I&apos;m staying invested anyway",
-     "link": "https://www.cnbc.com/investingclub/2026/10/11/plenty-is-working-against-this-market-why-im-staying-invested-anyway.html",
-     "pubDate": "Mon, 12 Oct 2026 00:23:07 GMT",
-     "summary": "The fact is, I don't have a strong case for owning stocks at the moment.",
-     "source": "CNBC",
-     "zh": "Plenty is working against this market. Here&apos;s why I&apos;m staying invested anyway"
     },
     {
      "title": "特朗普强推“俄乌能源停火”，泽连斯基起初称“不知情”但随后表态“支持”",
@@ -2352,14 +2384,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Oil tops $105 as Houthi attacks on Saudi Arabia raise inflation fears"
-    },
-    {
-     "title": "华尔街见闻早餐FM-Radio | 2026年10月12日",
-     "link": "https://wallstreetcn.com/articles/3783316",
-     "pubDate": "Mon, 12 Oct 2026 07:01:12 +0800",
-     "summary": "华见早安之声 要闻精选 中欧贸易投资磋商 在京举行并公布成果共识： 就混动汽车贸易达成谅解 ，进一步强化出口管制对话， 愿为稀土永磁体出口审批提供便利 。 中国商务部 评美召集部分经济体发布应对所谓“结构性产能和生产过剩”问题联合声明： 反对个别国家以所谓“产能过剩”为名 ， 行贸易保护主义之实 。 中共中央、国务院 发文提出 发展新质生产力 举措， 支持科技企业上市融资 、 优化并购重组 、 民企可牵头重大技术攻关 。 中国证监会 大修公募基金规定： 权益类基金成立门槛 拟 降 至5000万元，建立 迷你基金强制退出 机制，基金管理人等主体 违法罚款上限抬升 至10万元。 证监会 召开座谈会",
-     "source": "华尔街见闻",
-     "zh": "华尔街见闻早餐FM-Radio | 2026年10月12日"
     },
     {
      "title": "AI boom echoes 1997 Asian financial crisis: SocGen's Albert Edwards",
@@ -2432,30 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Treasury yields near 24-yr high as investors await inflation data, Fed signals"
-    },
-    {
-     "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-     "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 20:00:00 GMT",
-     "summary": "“I presume these are sophisticated investors taking a profit.”",
-     "source": "MarketWatch",
-     "zh": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?"
-    },
-    {
-     "title": "Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine; Zelenskyy is waiting for details",
-     "link": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
-     "pubDate": "Sun, 11 Oct 2026 19:33:51 GMT",
-     "summary": "Ukrainian President Volodymyr Zelenskyy said he is waiting on details from Washington.",
-     "source": "CNBC",
-     "zh": "Trump declares &apos;energy ceasefire&apos; between Russia and Ukraine; Zelenskyy is waiting for details"
-    },
-    {
-     "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-     "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-     "pubDate": "Sun, 11 Oct 2026 19:32:00 GMT",
-     "summary": "“Both properties will be solely in his name.”",
-     "source": "MarketWatch",
-     "zh": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/13 16:35:28",
+ "generated_at": "2026/10/13 16:52:17",
  "recent_days": 7,
  "industries": [
   {
@@ -277,7 +277,7 @@ window.INDUSTRY_DATA = {
      "title": "Miniature modules open up in-fixture functional testing",
      "link": "https://www.electronicsweekly.com/news/business/miniature-modules-open-up-in-fixture-functional-testing-2026-10/",
      "pubDate": "Tue, 13 Oct 2026 07:33:28 +0000",
-     "summary": "Swedish PCB test company, Wireflow has partnered with the UK’s Pickering Interfaces, to create Testblox AB, offering automated test that does not need reconfiguration and which is easy to replicate, […] The post Miniature modules open up in-fixture functional testing appeared first on Electronics We",
+     "summary": "Swedish PCB test company Wireflow has partnered with the UK’s Pickering Interfaces to create Testblox AB, offering automated test that does not need reconfiguration and which is easy to replicate, […] The post Miniature modules open up in-fixture functional testing appeared first on Electronics Week",
      "source": "Electronics Weekly",
      "zh": "Miniature modules open up in-fixture functional testing"
     },
@@ -538,6 +538,14 @@ window.INDUSTRY_DATA = {
      "zh": "Closing the reality gap: Why real-time execution has become the new competitive advantage"
     },
     {
+     "title": "Humanoid robots can sprint and box – but the real test is doing the laundry",
+     "link": "https://robohub.org/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/",
+     "pubDate": "Mon, 12 Oct 2026 07:51:21 +0000",
+     "summary": "By Wai-keung Fung, Cardiff Metropolitan University At the recent World Humanoid Robot Games 2026 in Beijing, robots sprinted, boxed, played football and tackled tasks inspired by factories, restaurants and emergency situations. The robot Tiangong Ultra even completed the 100 metres in 8.64 seconds, ",
+     "source": "Robohub",
+     "zh": "Humanoid robots can sprint and box – but the real test is doing the laundry"
+    },
+    {
      "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
      "link": "https://www.therobotreport.com/will-boring-robots-win-in-the-real-world-why-robotic-form-should-follow-workflow/",
      "pubDate": "Sun, 11 Oct 2026 12:36:24 +0000",
@@ -610,6 +618,14 @@ window.INDUSTRY_DATA = {
      "zh": "Groceryshop 2026 shows that retail robots are ready to scale, use AI"
     },
     {
+     "title": "Robot Talk Episode 165 – Robots behind the research, with Kushant Patel",
+     "link": "https://robohub.org/robot-talk-episode-165-robots-behind-the-research-with-kushant-patel/",
+     "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
+     "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
+     "source": "Robohub",
+     "zh": "Robot Talk Episode 165 – Robots behind the research, with Kushant Patel"
+    },
+    {
      "title": "This Disembodied Hand Is All the Robot You Need",
      "link": "https://spectrum.ieee.org/walking-robotic-hand",
      "pubDate": "Thu, 08 Oct 2026 12:00:02 +0000",
@@ -624,6 +640,14 @@ window.INDUSTRY_DATA = {
      "summary": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot. What you will learn about: Why humanoid",
      "source": "IEEE Spectrum 机器人",
      "zh": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction"
+    },
+    {
+     "title": "What three days building a robot taught me",
+     "link": "https://robohub.org/what-three-days-building-a-robot-taught-me/",
+     "pubDate": "Wed, 07 Oct 2026 07:12:39 +0000",
+     "summary": "Last month, I went to York to build a robot. I came back with a robot, a tiny trophy-shaped sense of achievement, and somehow a few new friends. From 25th-27th August, I joined the UK RAS STEPS MicroMaze Robot Hackathon at the Institute for Safe Autonomy, University of York. The brief sounded simple",
+     "source": "Robohub",
+     "zh": "What three days building a robot taught me"
     }
    ]
   },
@@ -1066,12 +1090,12 @@ window.INDUSTRY_DATA = {
      "zh": "FERC rejects most of PJM’s large load interconnection plan"
     },
     {
-     "title": "120K customers without power in Southeastern US as Hurricane Isaias recovery enters third day",
+     "title": "160K customers without power in Southeastern US as Hurricane Isaias recovery enters third day",
      "link": "https://www.utilitydive.com/news/isaias-recovery-enters-third-day-120k-remain-without-power/832698/",
      "pubDate": "Mon, 12 Oct 2026 08:29:53 -0400",
-     "summary": "Peak outages numbered approximately 950,000. Utilities said grid modernization efforts kept more customers from losing power, and sped service restoration for those who did. FPL said its underground lines performed eight times better than overhead ones.",
+     "summary": "Peak outages numbered approximately 950,000. Utilities said grid modernization efforts kept more customers from losing power and sped service restoration for those who did. FPL said its underground lines performed eight times better than overhead ones.",
      "source": "Utility Dive",
-     "zh": "120K customers without power in Southeastern US as Hurricane Isaias recovery enters third day"
+     "zh": "160K customers without power in Southeastern US as Hurricane Isaias recovery enters third day"
     }
    ]
   },
@@ -1107,7 +1131,7 @@ window.INDUSTRY_DATA = {
     },
     {
      "title": "First Tracks climbs on ‘impressive’ celiac study data",
-     "link": "https://www.biopharmadive.com/news/first-tracks-biotherapeutics-scores-on-celiac-disease-study/832726/",
+     "link": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
      "pubDate": "Mon, 12 Oct 2026 17:26:00 -0400",
      "summary": "Initial study findings strengthened some analysts&rsquo; belief that First Tracks&rsquo; drug, one of a few in development aimed at the protein CD122, might have &ldquo;pipeline-in-a-product&rdquo; potential.&nbsp;",
      "source": "BioPharma Dive",
@@ -1746,20 +1770,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "JR 东日本、京成、京急等 7 家日本铁路公司明年废除磁票，改用二维码车票",
+     "link": "https://www.ithome.com/1/012/473.htm",
+     "pubDate": "Tue, 13 Oct 2026 08:47:55 GMT",
+     "summary": "IT之家 10 月 13 日消息，东日本旅客铁道（JR 东日本）、京成电铁、京滨急行电铁、东武铁道等 7 家日本铁路公司今天宣布，将在明年春季开始使用二维码车票取代磁性车票。 据介绍，此次调整针对自动售票机发售的短途车票。 由于各家公司将通过统一系统管理车票信息 ， 未来将可以发行跨公司乘车的二维码车票 。 同时，二维码短途车票的尺寸将发生变化，由原本磁票的 30*57.5mm 改为 57.5*85mm，面积约为原本的 2.8 倍。旅客进站时只需要将车票对准闸机的扫描口，出站时将车票投入闸机的回收箱。对于未配备二维码车票专用闸机的车站，旅客可以通过人工窗口办理出站手续。 由于磁性车票专用闸机和",
+     "source": "IT之家",
+     "zh": "JR 东日本、京成、京急等 7 家日本铁路公司明年废除磁票，改用二维码车票"
+    },
+    {
+     "title": "开发者魔改诺基亚经典 3310 功能机，设计定制 PCB 主板令其成功运行自制游戏《Trick Shot II》",
+     "link": "https://www.ithome.com/1/012/469.htm",
+     "pubDate": "Tue, 13 Oct 2026 08:44:03 GMT",
+     "summary": "IT之家 10 月 13 日消息，据外媒 XDA 报道，近期一名开发者 Hoani Bryson 对诺基亚经典 3310 功能机进行魔改，其基于树莓派 Pico 微控制器设置了一款专用定制电路板，在保留 3310 手机原机屏幕和实体键盘的同时，为设备带来更强的计算能力。 IT之家获悉，相应改造计划源于 Nokia 3310 Jam 8 游戏开发活动。该活动鼓励参赛者制作“具有诺基亚 3310 经典游戏风格的作品”，参赛作品实际上“并不需要真正运行在诺基亚 3310 上，只要在画面、音效和操作方式上呈现出类似经典手机游戏的体验即可”。 开发者 Hoani Bryson 凭借作品《Trick Sh",
+     "source": "IT之家",
+     "zh": "开发者魔改诺基亚经典 3310 功能机，设计定制 PCB 主板令其成功运行自制游戏《Trick Shot II》"
+    },
+    {
+     "title": "新茶饮咖啡品牌“围猎”高校，错位竞争成为生存法则",
+     "link": "https://www.tmtpost.com/8166920.html",
+     "pubDate": "Tue, 13 Oct 2026 16:42:36 +0800",
+     "summary": "瑞幸门店日销800杯！大学校园，成为咖啡茶饮巨头最后的避风港？",
+     "source": "钛媒体",
+     "zh": "新茶饮咖啡品牌“围猎”高校，错位竞争成为生存法则"
+    },
+    {
+     "title": "谷歌给Agent发工牌：企业AI的下一站不是AGI，是\"标准主权\"",
+     "link": "https://www.tmtpost.com/8166905.html",
+     "pubDate": "Tue, 13 Oct 2026 16:42:30 +0800",
+     "summary": "企业Agent市场的注意力都在模型强弱上，这是共识性误读。10月8日谷歌云发布企业级Gemini Agent，动的不是模型层，而是委派层：工牌、权限、审计、验收。用\"路径—标准—迭代方向\"三把尺子量，它的真实坐标不是AGI前夜，是企业软件四十年来的第一次换房本。",
+     "source": "钛媒体",
+     "zh": "谷歌给Agent发工牌：企业AI的下一站不是AGI，是\"标准主权\""
+    },
+    {
+     "title": "《柳叶刀》警告 ：AI比核武器更可能毁灭人类",
+     "link": "https://www.tmtpost.com/8166901.html",
+     "pubDate": "Tue, 13 Oct 2026 16:42:27 +0800",
+     "summary": "《柳叶刀》最新报告称，2100年前AI或将导致人类灭亡。",
+     "source": "钛媒体",
+     "zh": "《柳叶刀》警告 ：AI比核武器更可能毁灭人类"
+    },
+    {
+     "title": "华为钱包畅行无忧卡乘车信用额度由 20 元升至 50 元，通用全国 330+ 城市",
+     "link": "https://www.ithome.com/1/012/455.htm",
+     "pubDate": "Tue, 13 Oct 2026 08:36:42 GMT",
+     "summary": "IT之家 10 月 13 日消息，华为终端云服务今日宣布，华为钱包畅行无忧卡的乘车信用额度将升级至 50 元（ 此前乘车信用额度为 20 元 ）。 据介绍，华为钱包畅行无忧卡无需预充值，先乘车后付款， 全国 330+ 城市通用 ，支持地铁、公交、机场快线等线路。此次升级后，新用户开通即支持 50 元先乘后付额度，老用户可在刷卡页面提额。 IT之家了解到，此次华为钱包畅行无忧卡提升乘车信用额度，预计是为了应对市域铁等额度不够用的场景。此前有用户反馈，上海市域铁单程 26 元，而畅行无忧卡因为只有 20 元额度，导致自己抵达目的地后无法出站。 华为钱包显示，此前已开卡的老用户（乘车额度 20 元）",
+     "source": "IT之家",
+     "zh": "华为钱包畅行无忧卡乘车信用额度由 20 元升至 50 元，通用全国 330+ 城市"
+    },
+    {
+     "title": "小米智能摄像机 4 Pro 开售：800 万像素摄像头 + 微信通话，首销 329 元",
+     "link": "https://www.ithome.com/1/012/452.htm",
+     "pubDate": "Tue, 13 Oct 2026 08:35:21 GMT",
+     "summary": "IT之家 10 月 13 日消息，小米官方今日宣布，小米智能摄像机 4 Pro 已正式开售，首发价为 329 元，活动期（IT之家注：10 月 12 日 - 11 月 13 日）下单并晒单评价有机会赢取 1000 京豆（限量 500 份）。 据小米官方介绍，这款摄像机新品新增实体通话按键，轻触按键即可快速呼叫，操作门槛低；还支持一键微信通话，支持 OK 手势呼叫，可在摄像机与手机微信、米家 App 之间实现双向通话。 新品搭载 800 万像素 4K 传感器，分辨率达到 3840×2160，配备 4P 光学镜片与 f/1.6 大光圈；配备大直径 BOX 扬声器与降噪麦克风，语音清晰洪亮。 它还支",
+     "source": "IT之家",
+     "zh": "小米智能摄像机 4 Pro 开售：800 万像素摄像头 + 微信通话，首销 329 元"
+    },
+    {
+     "title": "打入宁德时代、台积电的供应链：这家公司凭什么价值数十亿",
+     "link": "https://www.huxiu.com/article/4894884.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 16:35:20 +0800",
+     "summary": "出品｜虎嗅科技组 作者｜陈伊凡、刘煊琦 编辑｜苗正卿 头图｜AI生成 &ldquo;AI原生100&rdquo;是虎嗅科技组推出针对AI原生创新栏目，这是本系列的第「66」篇文章。 全球智算中心，进入了一场前所未有的建设狂潮。 根据高盛报告，亚马逊、微软、谷歌等大型云服务商2025年AI资本支出为&zwnj;3000亿至3800亿美元&zwnj;，2026年可能超过&zwnj;5000亿美元&zwnj;。 但上千亿的美元投资，却困在了能耗里。 &ldquo;智算中心本质上是一座把能源转化为算力和智能的工厂。&rdquo;深度智控创始人兼CEO李辉说，未来不能只考虑算力如何调度，也要同时看电力供",
+     "source": "虎嗅",
+     "zh": "打入宁德时代、台积电的供应链：这家公司凭什么价值数十亿"
+    },
+    {
+     "title": "索尼玻璃紫款 INZONE E9、Fnatic 款 INZONE H9 II 游戏耳机上市，799 / 1699 元",
+     "link": "https://www.ithome.com/1/012/451.htm",
+     "pubDate": "Tue, 13 Oct 2026 08:35:09 GMT",
+     "summary": "IT之家 10 月 13 日消息，Sony（索尼）今日正式在中国大陆市场推出了玻璃紫款 INZONE E9 和 Fnatic 联名款 INZONE H9 II 游戏耳机。这两件新电竞音频设备的 到手价格分别为 799 元和 1,699 元 。 INZONE E9 内置 5mm 驱动单元，采用密封式声学结构，搭配 USB-C 音讯盒支持游戏全景声及 EQ 调校。 京东 索尼 INZONE E9 耳机 玻璃紫 798.3 元 直达链接 INZONE H9 II 采用 WH-1000XM6 同款驱动器单元，配备可调式心型指向麦克风，支持降噪技术，搭载 Fnatic EQ 预设，拥有自由调节头带，总质",
+     "source": "IT之家",
+     "zh": "索尼玻璃紫款 INZONE E9、Fnatic 款 INZONE H9 II 游戏耳机上市，799 / 1699 元"
+    },
+    {
      "title": "鑫谷推出数智 DM-850G Ultra 电源：标配 12V-2x6 显卡强流供电线、十年质保，黑白双色均售 659 元",
      "link": "https://www.ithome.com/1/012/445.htm",
      "pubDate": "Tue, 13 Oct 2026 08:32:55 GMT",
      "summary": "IT之家 10 月 13 日消息，鑫谷现已在京东上架数智 DM-850G Ultra 电源，该产品主打全数字化控制技术，标配 12V-2x6 PCIe5.1 TIANLOAD EVO 强流线，极限承载可达 13A 936W， 定价为 659 元，提供十年质保 。 该电源提供黑白双色，整体尺寸为 125x150x86mm，其 12V-2×6 供电接口支持高达 600W 功率，可承受高达两倍整机功耗和三倍显卡功耗的峰值功率，同时也获得了 PPLP ATX3+ 星级。 该电源使用“主动式 PFC+ 半桥 LLC 谐振 + 同步整流 +DC-DC”结构，使用全日系固态 / 电解电容。电源内部控制采用了",
      "source": "IT之家",
      "zh": "鑫谷推出数智 DM-850G Ultra 电源：标配 12V-2x6 显卡强流供电线、十年质保，黑白双色均售 659 元"
-    },
-    {
-     "title": "雅思主办方回应：受影响考生增设两天免费专场考试，异地考生可报销交通住宿费",
-     "link": "https://www.ithome.com/1/012/425.htm",
-     "pubDate": "Tue, 13 Oct 2026 08:26:22 GMT",
-     "summary": "IT之家 10 月 13 日消息， 多地考生 10 月 10 日反映 ，他们报名的当天雅思考试临时被取消，甚至有考生在进行听力考试过程中，也突然被通知停考。而在连续三天停考之后， 原本应该在 10 月 13 日进行的雅思单科重考， 也在前一天晚上被临时取消 。 据中央广播电视总台中国之声今日报道，10 月 13 日下午，英国文化教育协会发布近日雅思考试临时取消后续安排。英国文化教育协会表示，10 月 10 日、11 日中国大陆地区雅思机考和 10 月 10 日、12 日及 13 日中国大陆地区雅思单科重考均 因技术原因临时取消 。 鉴于此次技术故障可能影响考试安全，为切实维护考试的公平、公正和",
-     "source": "IT之家",
-     "zh": "雅思主办方回应：受影响考生增设两天免费专场考试，异地考生可报销交通住宿费"
     },
     {
      "title": "从27亿美元到2000万美元，Character.AI的葬礼告诉我们三件事",
@@ -1770,44 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "从27亿美元到2000万美元，Character.AI的葬礼告诉我们三件事"
     },
     {
-     "title": "华硕发布 NVIDIA MGX 服务器 XA P2N-E2，支持 RTX PRO 6000 Blackwell 双卡",
-     "link": "https://www.ithome.com/1/012/422.htm",
-     "pubDate": "Tue, 13 Oct 2026 08:25:03 GMT",
-     "summary": "IT之家 10 月 13 日消息，华硕 (ASUS) 当地时间昨日在 2026 OCP 全球峰会上发布了 2U 服务器 XA P2N-E2。 这一产品基于 NVIDIA（英伟达）MGX 架构， 配备 Vera CPU 和最多 2 块 RTX PRO 6000 Blackwell 服务器版本 GPU ，专为代理式 AI 与强化学习工作负载打造，可应对代码执行、工具调用、沙盒运算等任务。 华硕还展示了一系列其它服务器产品，包括 Vera Rubin NVL72 平台的 XA VR721-E3、 结合气冷 CPU 与液冷 GPU 系统 的 XR R1I12B-M1BHFS、双路 EPYC 9006 ",
-     "source": "IT之家",
-     "zh": "华硕发布 NVIDIA MGX 服务器 XA P2N-E2，支持 RTX PRO 6000 Blackwell 双卡"
-    },
-    {
      "title": "IDC: China&apos;s Q3 smartphone shipments fell 15.4% YoY to 57.9M units, the sixth straight quarter of decline; Huawei led with a 21% share and Apple had 17.8% (Reuters)",
      "link": "https://www.techmeme.com/261013/p7#a261013p7",
      "pubDate": "Tue, 13 Oct 2026 04:25:01 -0400",
      "summary": "Reuters : IDC: China's Q3 smartphone shipments fell 15.4% YoY to 57.9M units, the sixth straight quarter of decline; Huawei led with a 21% share and Apple had 17.8% &nbsp; &mdash;&nbsp; China's third-quarter smartphone shipments fell 15.4% from a year earlier to 57.9 million units, research firm IDC",
      "source": "Techmeme",
      "zh": "IDC: China&apos;s Q3 smartphone shipments fell 15.4% YoY to 57.9M units, the sixth straight quarter of decline; Huawei led with a 21% share and Apple had 17.8% (Reuters)"
-    },
-    {
-     "title": "消息称 OPPO 阔屏直板新机命名为 Reno X：金属边框、搭 6.35 英寸 120Hz 面板",
-     "link": "https://www.ithome.com/1/012/421.htm",
-     "pubDate": "Tue, 13 Oct 2026 08:24:41 GMT",
-     "summary": "IT之家 10 月 13 日消息，消息源 Debayan Roy 在 X 平台发文，曝光了 OPPO 旗下阔屏直板新机可能命名为 Reno X。 据其介绍，该机采用金属边框，配备一块 6.35 英寸 16:9 或 16:10 尺寸 120Hz 面板，搭载联发科天玑 9000 系列芯片（具体型号未公布），据称将配备一颗 200Mp 主摄（支持 OIS 光学防抖）、一颗 50Mp 超广角和一颗 200Mp 潜望式长焦，内置 7000mAh 电池。 IT之家注意到，除了阔屏直板机，还有爆料显示 OPPO 有望推出搭载 2nm 芯片的阔折叠。该机预计采用 7.6 英寸无痕铰链方案，工程机是三星屏，搭载",
-     "source": "IT之家",
-     "zh": "消息称 OPPO 阔屏直板新机命名为 Reno X：金属边框、搭 6.35 英寸 120Hz 面板"
-    },
-    {
-     "title": "Character.AI 申请破产，同意以 2000 万美元向迪士尼出售部分资产",
-     "link": "https://www.ithome.com/1/012/420.htm",
-     "pubDate": "Tue, 13 Oct 2026 08:22:30 GMT",
-     "summary": "IT之家 10 月 13 日消息，据路透社报道， Character.AI 公司于当地时间周一表示，公司已在美国申请破产保护， 同意以 2,000 万美元 （IT之家注：现汇率约合 1.34 亿元人民币） 价格向华特迪士尼出售部分资产 。 Character.AI 表示，公司已正式启动第 11 章破产程序下的资产出售流程，卖出部分知识产权。该公司正申请法院批准拍卖规则，将迪士尼指定为首席竞标方。 同时，迪士尼的报价将作为竞标底价，其他竞标者仍可提出更高报价。 Character.AI 预计，资产出售预计将在 2026 年 11 月下旬或 12 月初完成。 Character.AI 将在资产出售",
-     "source": "IT之家",
-     "zh": "Character.AI 申请破产，同意以 2000 万美元向迪士尼出售部分资产"
-    },
-    {
-     "title": "曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局具身智能",
-     "link": "https://www.ithome.com/1/012/419.htm",
-     "pubDate": "Tue, 13 Oct 2026 08:16:45 GMT",
-     "summary": "10 月 13 日消息，据报道，DeepSeek 创始人梁文锋近期密集关注具身智能领域，并与多位该领域创业者交流，探讨机器人、大模型与现实世界交互等方向。 据知情人士透露， 梁文锋正在考虑 DeepSeek 进入具身智能领域的可能性 ，可能会亲自组建团队下场研发，也可能通过投资相关企业切入。 此前，梁文锋已投资宇树科技，另据彭博社报道， DeepSeek 计划领投腾讯前 AI 科学家胡瀚创立的机器人公司 Winverse AI 。 对于 DeepSeek 布局具身智能一事，截至发稿 DeepSeek 方面并未回应。",
-     "source": "IT之家",
-     "zh": "曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局具身智能"
     },
     {
      "title": "郑钦文夺冠，为什么奢侈品牌比谁都兴奋？",
@@ -1874,38 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "景区“冤种三件套”卖不动了：六成嫌贵，五嫌雷同"
     },
     {
-     "title": "梁文锋和Winverse之间，早就搭好了一座桥",
-     "link": "https://www.tmtpost.com/8166680.html",
-     "pubDate": "Tue, 13 Oct 2026 15:49:10 +0800",
-     "summary": "DeepSeek计划领投前腾讯混元技术负责人初创公司Winverse AI。",
-     "source": "钛媒体",
-     "zh": "梁文锋和Winverse之间，早就搭好了一座桥"
-    },
-    {
-     "title": "AI批量造星，真人明星还有何价值？",
-     "link": "https://www.tmtpost.com/8166891.html",
-     "pubDate": "Tue, 13 Oct 2026 15:49:04 +0800",
-     "summary": "如何不可替代？",
-     "source": "钛媒体",
-     "zh": "AI批量造星，真人明星还有何价值？"
-    },
-    {
-     "title": "亚马逊开出500亿，买这家给算力当“翻译”的公司",
-     "link": "https://www.huxiu.com/article/4897111.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 15:47:27 +0800",
-     "summary": "本文来自微信公众号： 字母AI ，作者：思博 10月11日，据《华尔街日报》报道，亚马逊正洽购以色列AI公司Decart，潜在价格约70亿美元。若成交，按目前公开的交易金额计算，它在2026年AI模型及软件公司收购案中上榜，排在前面的有Cursor、Hugging Face、World Labs和OpenRouter。 Decart只有100多名员工，做的是一门连接模型与芯片的生意，核心产品DOS（Decart Optimization Stack）是一套算力“翻译层”，帮助模型适配不同的GPU、TPU和Trainium，让不同硬件上的运行更快、更省钱。它同时也在开发实时视频和世界模型，将模型",
-     "source": "虎嗅",
-     "zh": "亚马逊开出500亿，买这家给算力当“翻译”的公司"
-    },
-    {
-     "title": "分众传媒收购新潮传媒落地 梯媒竞争格局将重塑",
-     "link": "https://www.tmtpost.com/8164658.html",
-     "pubDate": "Tue, 13 Oct 2026 15:38:15 +0800",
-     "summary": "这笔交易的成功，也意味着智能屏广告或将迎来进一步的发展。",
-     "source": "钛媒体",
-     "zh": "分众传媒收购新潮传媒落地 梯媒竞争格局将重塑"
-    },
-    {
      "title": "巨龟乔纳森长寿的秘密",
      "link": "https://www.solidot.org/story?sid=85595",
      "pubDate": "Tue, 13 Oct 2026 14:55:46 +0800",
@@ -1933,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Denmark set to allow return of 'physical force' in school",
      "link": "https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html",
      "pubDate": "Tue, 13 Oct 2026 06:27:03 +0000",
-     "summary": "Article URL: https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html Comments URL: https://news.ycombinator.com/item?id=50067570 Points: 50 # Comments: 24",
+     "summary": "Article URL: https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html Comments URL: https://news.ycombinator.com/item?id=50067570 Points: 54 # Comments: 30",
      "source": "Hacker News",
      "zh": "Denmark set to allow return of 'physical force' in school"
     },
@@ -1993,6 +2017,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "X bundles Premium, Grok and Cursor under a single monthly subscription",
+     "link": "https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor/",
+     "pubDate": "Tue, 13 Oct 2026 08:44:18 +0000",
+     "summary": "SpaceXSI has announced a new subscription scheme that gives you access to Grok, Grok Bot, Cursor and X Premium.",
+     "source": "Engadget",
+     "zh": "X bundles Premium, Grok and Cursor under a single monthly subscription"
+    },
+    {
+     "title": "One UI 9 fixes one of Samsung DeX’s most annoying taskbar regressions",
+     "link": "https://www.androidauthority.com/one-ui-9-galaxy-tablet-taskbar-dex-controls-3722429/",
+     "pubDate": "Tue, 13 Oct 2026 08:41:51 +0000",
+     "summary": "You can finally hide it again on Galaxy tablets, or move it out of the way entirely.",
+     "source": "Android Authority",
+     "zh": "One UI 9 fixes one of Samsung DeX’s most annoying taskbar regressions"
+    },
     {
      "title": "The iPhone Duo’s hinge cooling is the breakthrough Android foldables need",
      "link": "https://www.androidauthority.com/iphone-duo-hinge-cooling-breakthrough-3722435/",
@@ -2064,14 +2104,6 @@ window.INDUSTRY_DATA = {
      "summary": "Counterpoint Research (CR) has just published its report regarding the global smartphone market for the third quarter of the year (July to September). And it was a terrible one. Shipments dropped 20% compared to Q3 2025. The only winners in terms of growing their market shares were Samsung and Apple",
      "source": "GSMArena",
      "zh": "Samsung and Apple were the winners in a Q3 smartphone market that dropped 20%"
-    },
-    {
-     "title": "Google could soon let you publish your Gemini creations as reusable styles",
-     "link": "https://www.androidauthority.com/gemini-publish-image-video-styles-apk-teardown-3722379/",
-     "pubDate": "Tue, 13 Oct 2026 05:10:53 +0000",
-     "summary": "It's also working on a redesigned UI for Gemini's \"Images\" and \"Videos\" sections.",
-     "source": "Android Authority",
-     "zh": "Google could soon let you publish your Gemini creations as reusable styles"
     },
     {
      "title": "Gemini ‘Task’ redesign integrates Spark into the main chat app",
@@ -2224,14 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple is kicking off a new campaign today to promote Safari’s benefits over Chrome. With a new “Switch to Safari” page on its website and a pair of new YouTube videos, Apple wants everyone to know Safari is “a more powerful and private browser than Chrome.” more…",
      "source": "9to5Mac",
      "zh": "Apple’s new ‘Switch to Safari’ campaign details why you should ditch Chrome"
-    },
-    {
-     "title": "Epic reportedly delays its Disney video game so it can be made using more AI",
-     "link": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
-     "pubDate": "Mon, 12 Oct 2026 20:48:19 +0000",
-     "summary": "Developers were apparently ordered to use AI for both code and asset creation.",
-     "source": "Engadget",
-     "zh": "Epic reportedly delays its Disney video game so it can be made using more AI"
     }
    ]
   },
@@ -2241,6 +2265,38 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "In charts: How one of the world&apos;s biggest economies got trapped by debt",
+     "link": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
+     "pubDate": "Tue, 13 Oct 2026 08:45:40 GMT",
+     "summary": "France opens debate on its 2027 budget as high deficits, rising debt and student protests intensify pressure on lawmakers.",
+     "source": "CNBC",
+     "zh": "In charts: How one of the world&apos;s biggest economies got trapped by debt"
+    },
+    {
+     "title": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
+     "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+     "pubDate": "Tue, 13 Oct 2026 08:42:55 GMT",
+     "summary": "Technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
+     "source": "CNBC",
+     "zh": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads"
+    },
+    {
+     "title": "四年上涨131%，美股牛市时候结束了吗？",
+     "link": "https://wallstreetcn.com/articles/3783527",
+     "pubDate": "Tue, 13 Oct 2026 16:40:25 +0800",
+     "summary": "本轮美股牛市，正站在一个微妙的十字路口。它经历了激进加息、银行业危机、地缘冲突与债券市场动荡，却依然屹立不倒，四年累计涨幅高达131%。然而，表面光鲜的指数之下，一个令人不安的结构性裂痕正在扩大——牛市的根基，正被越来越少的公司所支撑。 自2022年10月12日触底以来，标普500指数累计总回报达131%，折合年化约23.3%，约为市场历史均值的三倍。英伟达在此期间暴涨约1875%，Meta涨幅约488%。然而，据Ned Davis Research数据， 当前标普500指数市场宽度——即指数成分股中上涨股票占比——已跌至历史性低点，且此前每当市场宽度与指数走势出现背离，标普500往往在随后数",
+     "source": "华尔街见闻",
+     "zh": "四年上涨131%，美股牛市时候结束了吗？"
+    },
+    {
+     "title": "Stock futures mixed as investors as big bank earnings loom",
+     "link": "https://seekingalpha.com/news/4652329-stock-futures-mixed-as-investors-as-big-bank-earnings-loom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 04:35:16 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stock futures mixed as investors as big bank earnings loom"
+    },
     {
      "title": "Equinor signs third long-term gas deal with Eneco this year",
      "link": "https://seekingalpha.com/news/4652321-equinor-signs-third-long-term-gas-deal-with-eneco-this-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2282,60 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic warns AI models could soon copy themselves across home devices"
     },
     {
-     "title": "绿控传动(301655)龙虎榜数据(10-13)",
-     "link": "http://stock.eastmoney.com/news/1696,202610133894170763.html",
-     "pubDate": "Tue, 13 Oct 2026 16:26:23 +0800",
-     "summary": "交易所2026年10月13日公布的交易公开信息显示， 绿控传动 因成为 日换手率达到30%的前5只证券 上榜。 绿控传动 当日收报 24.19元，涨跌幅6.56%， 偏离值35.30%， 换手率35.30%，成交额3.94亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "绿控传动(301655)龙虎榜数据(10-13)"
-    },
-    {
      "title": "获批入场！央行批准Visa在华筹备银行卡清算机构",
      "link": "http://www.eeo.com.cn/2026/1013/1062784.shtml",
      "pubDate": "Tue, 13 Oct 2026 16:26:11 +0800",
      "summary": "本文来源：时代财经 10月13日，据中国人民银行公示，威士信息技术（北京）有限公司准予筹备银行卡清算机构。威士信息技术（北京）有限公司是维萨公司（Visa）在我国境内成立的企业法人。 同日，Visa在其官方微信公众号上宣布，已正式获中国人民银行批准在中国境内筹备银行卡清算机构。后续期待按照中国人民银行的相关监管规定，积极开展后续工作，以争取早日在国内展业。",
      "source": "经济观察网",
      "zh": "获批入场！央行批准Visa在华筹备银行卡清算机构"
-    },
-    {
-     "title": "九阳股份(002242)龙虎榜数据(10-13)",
-     "link": "http://stock.eastmoney.com/news/1696,202610133894170652.html",
-     "pubDate": "Tue, 13 Oct 2026 16:26:09 +0800",
-     "summary": "交易所2026年10月13日公布的交易公开信息显示， 九阳股份 因成为 日振幅值达到15%的前5只证券 上榜。 九阳股份 当日收报 17.67元，涨跌幅6.19%， 偏离值17.35%， 换手率18.34%，成交额23.31亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "九阳股份(002242)龙虎榜数据(10-13)"
-    },
-    {
-     "title": "*ST威领(002667)龙虎榜数据(10-13)",
-     "link": "http://stock.eastmoney.com/news/1696,202610133894170550.html",
-     "pubDate": "Tue, 13 Oct 2026 16:26:09 +0800",
-     "summary": "交易所2026年10月13日公布的交易公开信息显示， *ST威领 因成为 连续三个交易日内，涨幅偏离值累计达到20%的证券 上榜。 *ST威领 当日收报 26.85元，涨跌幅10.00%，换手率13.76%，成交额8.54亿。 异常期间10月12日至10月13日，期间涨幅21.00%， 累计偏离值22.71%， 区间成交额8.72亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内",
-     "source": "东方财富股票",
-     "zh": "*ST威领(002667)龙虎榜数据(10-13)"
-    },
-    {
-     "title": "远程股份(002692)龙虎榜数据(10-13)",
-     "link": "http://stock.eastmoney.com/news/1696,202610133894170452.html",
-     "pubDate": "Tue, 13 Oct 2026 16:26:09 +0800",
-     "summary": "交易所2026年10月13日公布的交易公开信息显示， 远程股份 因成为 日振幅值达到15%的前5只证券 上榜。 远程股份 当日收报 4.93元，涨跌幅-5.92%， 偏离值17.79%， 换手率21.53%，成交额8.36亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "远程股份(002692)龙虎榜数据(10-13)"
-    },
-    {
-     "title": "郑中设计(002811)龙虎榜数据(10-13)",
-     "link": "http://stock.eastmoney.com/news/1696,202610133894170349.html",
-     "pubDate": "Tue, 13 Oct 2026 16:26:09 +0800",
-     "summary": "交易所2026年10月13日公布的交易公开信息显示， 郑中设计 因成为 连续三个交易日内，涨幅偏离值累计达到20%的证券 上榜。 郑中设计 当日收报 20.27元，涨跌幅9.98%，换手率9.10%，成交额4.95亿。 异常期间10月9日至10月13日，期间涨幅21.16%， 累计偏离值22.69%， 区间成交额14.27亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致",
-     "source": "东方财富股票",
-     "zh": "郑中设计(002811)龙虎榜数据(10-13)"
-    },
-    {
-     "title": "农心科技(001231)龙虎榜数据(10-13)",
-     "link": "http://stock.eastmoney.com/news/1696,202610133894170252.html",
-     "pubDate": "Tue, 13 Oct 2026 16:26:09 +0800",
-     "summary": "交易所2026年10月13日公布的交易公开信息显示， 农心科技 因成为 连续三个交易日内，涨幅偏离值累计达到20%的证券 上榜。 农心科技 当日收报 28.17元，涨跌幅10.00%，换手率19.19%，成交额2.69亿。 异常期间10月12日至10月13日，期间涨幅21.01%， 累计偏离值22.72%， 区间成交额4.62亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而",
-     "source": "东方财富股票",
-     "zh": "农心科技(001231)龙虎榜数据(10-13)"
     },
     {
      "title": "老板和打工人都要注意！用人单位欠缴社保最高罚3倍",
@@ -2362,6 +2370,14 @@ window.INDUSTRY_DATA = {
      "zh": "IMF警告：发达经济体赤字创2021年来新高，财政整顿迫在眉睫"
     },
     {
+     "title": "会有欧债危机2.0吗？",
+     "link": "https://wallstreetcn.com/articles/3783511",
+     "pubDate": "Tue, 13 Oct 2026 16:21:50 +0800",
+     "summary": "法国国债收益率飙升至逾二十年高位，引发市场对欧债危机重演的担忧。 中信建投钱伟团队分析认为， 本轮法债承压由全球利率上行、法国自身财政政治风险及拥挤交易三重因素叠加驱动，但演变为系统性欧债危机的可能性较低。 与2010至2012年危机时期相比，欧元区经济基本面、银行体系韧性及主权债风险救助机制均有明显改善，风险扩散基础已明显弱化。 10月1日，法国政府公布2027年财政预算草案及国债发行计划，未能缓解市场对财政可持续性的担忧，反而成为新一轮收益率上行的催化剂。10年期法国国债收益率随后一度升至4.95%左右，创2002年以来新高；法德利差扩大至150个基点以上，为2011年底以来首次。 法债风",
+     "source": "华尔街见闻",
+     "zh": "会有欧债危机2.0吗？"
+    },
+    {
      "title": "午后大逆转！A股三大指数探底回升，沪指重新站上3800点，PCB、覆铜板掀涨停潮，军工爆发，恒指转涨",
      "link": "https://wallstreetcn.com/articles/3783494",
      "pubDate": "Tue, 13 Oct 2026 16:17:08 +0800",
@@ -2384,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "7%按揭利率的强势回归，正将美国房地产市场推入近12年来最深的寒冬。 据房产经纪公司Redfin数据，9月份美国待完成房屋销售环比骤降4%，创逾三年来最大单月跌幅，触及2014年以来最低水平（剔除2020年新冠疫情初期）。与此同时，市场挂牌房源供应量攀升至2020年3月以来最高。 50个主要都市区待售成交量全线下滑，为2023年9月以来首次出现全面回落。 利率冲击的破坏力已蔓延至整个交易链条。 Redfin数据显示，9月份近五分之一的卖家被迫下调要价， 14.5%的购房合同在签约后告吹，创该公司有记录以来最高比例 ，折射出买家信心的急剧恶化。Redfin首席经济学家Daryl Fairweat",
      "source": "华尔街见闻",
      "zh": "按揭利率飙升，美国楼市冰冻"
-    },
-    {
-     "title": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
-     "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-     "pubDate": "Tue, 13 Oct 2026 08:14:01 GMT",
-     "summary": "Technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
-     "source": "CNBC",
-     "zh": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads"
     },
     {
      "title": "懂车帝测试员回应尊界：“静态载荷和动态能一样吗”",
@@ -2442,44 +2450,60 @@ window.INDUSTRY_DATA = {
      "zh": "Cathie Wood warns of ‘vicious’ memory chip cycles as China adds capacity"
     },
     {
-     "title": "Bellway p.l.c. Non-GAAP EPS of 187.80p, revenue of £3.16B",
-     "link": "https://seekingalpha.com/news/4652326-bellway-plc-non-gaap-eps-of-18780p-revenue-of-316b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 04:03:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bellway p.l.c. Non-GAAP EPS of 187.80p, revenue of £3.16B"
-    },
-    {
-     "title": "全球AI交易再重挫，美股盘前存储普跌、SK海力士跌约5%，韩股收跌5.47%，现货黄金突破4200",
-     "link": "https://wallstreetcn.com/articles/3783492",
-     "pubDate": "Tue, 13 Oct 2026 16:03:33 +0800",
-     "summary": "全球股市抛售潮持续蔓延，市场对人工智能交易的热情急剧降温，投资者纷纷撤离这一年内最炙手可热的板块。避险需求同步推动美债价格走高。 美股盘前，存储芯片股普跌，SK海力士跌约5%，西部数据跌约4%，闪迪跌约4%，美光科技跌约3%，希捷科技跌约3%。欧洲斯托克50指数开盘跌0.1%，德国DAX指数涨0.2%。韩国KOSPI指数周二收跌5.47%，报6035.34点，成为本轮AI交易退潮中跌幅最惨烈的主要市场。与此同时，美国和欧洲股指期货亦同步回落，指向全球股市的进一步承压。 现货黄金突破4200美元/盎司，避险情绪全面升温。债券市场全面受益于避险资金流入。基准10年期美债收益率下行4个基点至5.20",
-     "source": "华尔街见闻",
-     "zh": "全球AI交易再重挫，美股盘前存储普跌、SK海力士跌约5%，韩股收跌5.47%，现货黄金突破4200"
-    },
-    {
-     "title": "大摩：存储股在周期顶部往往看似最便宜，但也最危险",
-     "link": "https://wallstreetcn.com/articles/3783520",
-     "pubDate": "Tue, 13 Oct 2026 15:59:40 +0800",
-     "summary": "AI驱动的存储芯片超级周期仍在延续，但存储股的投资逻辑正在发生变化。 摩根士丹利最新报告指出，尽管供需紧张、价格上涨和盈利改善仍为行业提供强劲支撑，但随着股价大幅上涨、盈利预期集中上修，存储股的乐观预期已得到充分定价，进一步上涨的空间面临考验。 核心矛盾在于，存储行业基本面越强，周期顶部的风险反而越容易被低估。 历史上，存储股往往在盈利达到峰值之前见顶，因为市场习惯将当期的高盈利水平外推至未来，导致股票在行业景气度最高时，估值看起来反而最便宜。 在此背景下，大摩认为，存储行业的高景气未必能转化为存储股的持续超额回报。随着市场对盈利增长的预期不断抬高，AI算力与网络供应链的相对投资吸引力正逐渐超",
-     "source": "华尔街见闻",
-     "zh": "大摩：存储股在周期顶部往往看似最便宜，但也最危险"
-    },
-    {
-     "title": "A股三大指数震荡整理 电子元件板块掀涨停潮",
-     "link": "http://finance.eastmoney.com/news/1345,202610133894110332.html",
-     "pubDate": "Tue, 13 Oct 2026 15:00:31 +0800",
-     "summary": "A股三大指数今日震荡整理，截止收盘，沪指涨0.10%，收报3800.86点；深证成指跌0.25%，收报12353.70点；创业板指跌0.18%，收报2958.34点。沪深京三市成交额1.69万亿，较昨日放量1382亿。 行业板块涨多跌少，元件、地面兵装、航海装备、互联网电商、航空装备、旅游及景区板块涨幅居前，保险、电池、风电设备板块跌幅居前。 个股方面，上涨股票数量超过2900只，70只股票涨停。电子元件板块掀涨停潮，迅捷兴、金百泽20cm涨停，协和电子、超声电子、铜峰电子等近10只股票涨停。 行业资金流向：13.67亿净流入 元件 行业资金方面，截至收盘， 元件 、航海装备、航空装备等净流入",
-     "source": "东方财富资讯",
-     "zh": "A股三大指数震荡整理 电子元件板块掀涨停潮"
-    },
-    {
      "title": "IMF warns bond yields could see a &apos;disorderly&apos; spike as debt, inflation risks worsen",
      "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
      "pubDate": "Tue, 13 Oct 2026 04:54:07 GMT",
      "summary": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
      "source": "CNBC",
      "zh": "IMF warns bond yields could see a &apos;disorderly&apos; spike as debt, inflation risks worsen"
+    },
+    {
+     "title": "The elections that could remake Europe",
+     "link": "https://www.ft.com/content/ec433e1f-bdb4-4a1c-868e-e1c7c4121f45?syn-25a6b1a6=1",
+     "pubDate": "Tue, 13 Oct 2026 04:00:19 GMT",
+     "summary": "In the space of 12 months, four of the five biggest EU member states will go to the ballot box. The bloc may never be the same",
+     "source": "Financial Times",
+     "zh": "The elections that could remake Europe"
+    },
+    {
+     "title": "Why Trump is going for Zelenskyy’s jugular",
+     "link": "https://www.ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1",
+     "pubDate": "Tue, 13 Oct 2026 04:00:19 GMT",
+     "summary": "No matter how much America’s allies urge the president to back Ukraine, he cannot forgive its leader for showing up his dealmaking impotence",
+     "source": "Financial Times",
+     "zh": "Why Trump is going for Zelenskyy’s jugular"
+    },
+    {
+     "title": "HR doesn’t need to be the CIA",
+     "link": "https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1",
+     "pubDate": "Tue, 13 Oct 2026 04:00:19 GMT",
+     "summary": "Fraudulent use of AI in the jobs process is forcing the warm and fuzzy realms of the former to work with the suspicious minds of the latter",
+     "source": "Financial Times",
+     "zh": "HR doesn’t need to be the CIA"
+    },
+    {
+     "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+     "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+     "pubDate": "Tue, 13 Oct 2026 03:49:23 GMT",
+     "summary": "Oil prices fell as investors assess potential supply disruptions against prospects of more Russian diesel entering global markets.",
+     "source": "CNBC",
+     "zh": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict"
+    },
+    {
+     "title": "Top economies heading for biggest budget deficits since Covid, IMF warns",
+     "link": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1",
+     "pubDate": "Tue, 13 Oct 2026 03:35:04 GMT",
+     "summary": "At its annual meeting, the fund calls for ‘urgent’ action to rebuild public finances",
+     "source": "Financial Times",
+     "zh": "Top economies heading for biggest budget deficits since Covid, IMF warns"
+    },
+    {
+     "title": "Asia warned over zombie companies",
+     "link": "https://www.ft.com/content/ee4105fc-aa85-47ef-aa64-1fc3f344d740?syn-25a6b1a6=1",
+     "pubDate": "Tue, 13 Oct 2026 03:19:11 GMT",
+     "summary": "Share of groups unable to service debt in region has doubled since 2008, IMF says",
+     "source": "Financial Times",
+     "zh": "Asia warned over zombie companies"
     }
    ]
   },

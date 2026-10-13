@@ -2426,6 +2426,14 @@ window.INDUSTRY_DATA = {
      "zh": "Cyber attack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires"
     },
     {
+     "title": "Cyber attack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
+     "link": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
+     "pubDate": "Tue, 13 Oct 2026 06:44:00 GMT",
+     "summary": "Hackers targeted hundreds of French supermarkets in a large-scale cyberattack, causing refrigerators to overheat, spoiling food, and sparking fires.",
+     "source": "CNBC",
+     "zh": "Cyber attack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires"
+    },
+    {
      "title": "茶百道突遭香港证监会勒令停牌，上市两年半市值缩水近八成",
      "link": "https://wallstreetcn.com/articles/3783516",
      "pubDate": "Tue, 13 Oct 2026 14:42:04 +0800",

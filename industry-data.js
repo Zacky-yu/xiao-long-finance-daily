@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/13 14:12:08",
+ "generated_at": "2026/10/13 14:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -658,6 +658,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Xiaomi Auto September deliveries hit 2026 high of 40,015, still down year-on-year",
+     "link": "https://cnevpost.com/2026/10/13/xiaomi-auto-sept-2026-deliveries-2/",
+     "pubDate": "Tue, 13 Oct 2026 06:28:09 +0000",
+     "summary": "Xiaomi Auto's September deliveries rose 32.71% from August but fell 4.61% from a year earlier, marking a second consecutive year-on-year decline. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Xiaomi Auto September deliveries hit 2026 high of 40,015, still down year-on-year"
+    },
+    {
      "title": "Leapmotor starts B10 production in Spain, gives A05 European debut",
      "link": "https://cnevpost.com/2026/10/13/leapmotor-starts-b10-production-spain-a05-european-debut/",
      "pubDate": "Tue, 13 Oct 2026 05:15:05 +0000",
@@ -776,14 +784,6 @@ window.INDUSTRY_DATA = {
      "summary": "The European version of the Li i6, named Li 6, was originally scheduled to go on sale in the fourth quarter of this year. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Li Auto i6 makes European debut ahead of Q1 2027 launch in Norway and Netherlands"
-    },
-    {
-     "title": "Aito confirms 2027 European entry at Paris Motor Show",
-     "link": "https://cnevpost.com/2026/10/12/aito-confirms-2027-european-entry-paris-show/",
-     "pubDate": "Mon, 12 Oct 2026 15:23:35 +0000",
-     "summary": "Aito showcased 4 SUVs — the Aito 9, Aito 8, Aito 7 and Aito 6 — at the 2026 Paris Motor Show. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Aito confirms 2027 European entry at Paris Motor Show"
     },
     {
      "title": "The New Citroen 2CV Van Is The Perfect Match For Trendy Baristas",
@@ -1107,7 +1107,7 @@ window.INDUSTRY_DATA = {
    "items": [
     {
      "title": "First Tracks climbs on ‘impressive’ celiac study data",
-     "link": "https://www.biopharmadive.com/news/first-tracks-biotherapeutics-scores-on-celiac-disease-study/832726/",
+     "link": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
      "pubDate": "Mon, 12 Oct 2026 17:26:00 -0400",
      "summary": "Initial study findings strengthened some analysts&rsquo; belief that First Tracks&rsquo; drug, one of a few in development aimed at the protein CD122, might have &ldquo;pipeline-in-a-product&rdquo; potential.&nbsp;",
      "source": "BioPharma Dive",
@@ -1306,22 +1306,6 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
-     "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
-     "link": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/",
-     "pubDate": "Tue, 13 Oct 2026 04:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 October 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte",
-     "source": "NASA",
-     "zh": "APOD: 2026 October 13 – Desert Stairway to Heaven"
-    },
-    {
-     "title": "An Impact Structure With Legs",
-     "link": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
-     "pubDate": "Tue, 13 Oct 2026 04:01:00 +0000",
-     "summary": "If the thought of extraterrestrial objects crashing into Earth weren’t creepy enough, behold Australia’s Spider Crater.",
-     "source": "NASA",
-     "zh": "An Impact Structure With Legs"
-    },
-    {
      "title": "SpaceX launches Falcon 9 Starlink mission for 1st time in more than 3 weeks (photos)",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-falcon-9-starlink-mission-for-1st-time-in-more-than-3-weeks-photo",
      "pubDate": "Tue, 13 Oct 2026 03:15:45 +0000",
@@ -1378,14 +1362,6 @@ window.INDUSTRY_DATA = {
      "zh": "The moon could turn astronauts into 'walking, high voltage capacitors' that accidentally zap spacecraft"
     },
     {
-     "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
-     "link": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
-     "pubDate": "Mon, 12 Oct 2026 17:45:27 +0000",
-     "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth a",
-     "source": "NASA",
-     "zh": "NASA’s SpaceX CRS-35 Mission to Launch Health Research"
-    },
-    {
      "title": "The 'Halloween Fireballs' are coming. Here's what to expect from the Taurids this year",
      "link": "https://www.space.com/stargazing/meteor-showers/the-halloween-fireballs-are-coming-heres-what-to-expect-from-the-taurids-this-year",
      "pubDate": "Mon, 12 Oct 2026 16:00:00 +0000",
@@ -1410,22 +1386,6 @@ window.INDUSTRY_DATA = {
      "zh": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission."
     },
     {
-     "title": "APOD: 2026 October 12 – Jupiter and the Moons",
-     "link": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
-     "pubDate": "Mon, 12 Oct 2026 04:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte",
-     "source": "NASA",
-     "zh": "APOD: 2026 October 12 – Jupiter and the Moons"
-    },
-    {
-     "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
-     "link": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
-     "pubDate": "Mon, 12 Oct 2026 04:00:00 +0000",
-     "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
-     "source": "NASA",
-     "zh": "Antarctic Sea Ice Grows to Its 2026 Maximum"
-    },
-    {
      "title": "Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images",
      "link": "https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/",
      "pubDate": "Sun, 11 Oct 2026 21:47:31 +0000",
@@ -1440,14 +1400,6 @@ window.INDUSTRY_DATA = {
      "summary": "Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company… The post Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight"
-    },
-    {
-     "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
-     "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
-     "pubDate": "Sun, 11 Oct 2026 04:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wr",
-     "source": "NASA",
-     "zh": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos"
     },
     {
      "title": "SpaceX launches 21 data satellites for the Space Development Agency",
@@ -1544,6 +1496,14 @@ window.INDUSTRY_DATA = {
      "summary": "Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […] The post Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format"
+    },
+    {
+     "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
+     "link": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/",
+     "pubDate": "Tue, 06 Oct 2026 12:35:41 +0000",
+     "summary": "NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile… The post NASA progress with SLS vehicles for upcoming Artemis missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "NASA progress with SLS vehicles for upcoming Artemis missions"
     }
    ]
   },
@@ -1770,20 +1730,76 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "德晟达英特尔 B960 / Q970 主板 M26-NVLS-ATX09 现身",
-     "link": "https://www.ithome.com/1/012/330.htm",
-     "pubDate": "Tue, 13 Oct 2026 06:00:39 GMT",
-     "summary": "IT之家 10 月 13 日消息，嵌入式与 AI 算力硬件企业德晟达 (Decenta) 已在官网公开了基于英特尔 FCLGA1954 平台的 M26-NVLS-ATX09 主板。该型号采用标准 ATX 板型， 可选 B960 / Q970 芯片组变体 。 这款主板拥有 4 条 DDR5-6400 U-DIMM 内存插槽、至多 2 条全长 PCIe Gen5 插槽 (1×16 / 2×8)、2 条 PCIe ×4 插槽、2 条 PCIe×2 插槽、1 条 PCI 插槽，2 个 M.2 盘位（其中 1 个支持 PCIe Gen5 ×4）。 其支持 HDMI、DisplayPort、VGA 视频信",
+     "title": "惠普推出 EliteBoard G2a 键盘 PC，升级锐龙 AI PRO 400 处理器",
+     "link": "https://www.ithome.com/1/012/349.htm",
+     "pubDate": "Tue, 13 Oct 2026 06:29:20 GMT",
+     "summary": "IT之家 10 月 13 日消息，HP（惠普）现已在其官网列出第二代键盘 PC 产品 EliteBoard G2a。新品处理器升级到 AMD \"Gorgon Point\"， 可选锐龙 AI 7 PRO 450 / 锐龙 AI 5 PRO 435 。 EliteBoard G2a 延续了上代的模具设计 ，依旧随附预配对无线鼠标，能连接至任意尺寸的 USB-C 显示屏，可选配 32Wh 电池、集成指纹识别器。 其拥有 2 个 DDR5-5600 SO-DIMM 内存插槽，提供 M.2 (PCIe Gen4 ×4) SSD 盘位，支持无线网络，提供多个全功能 USB-C，集成 2 个 1W 立体声扬",
      "source": "IT之家",
-     "zh": "德晟达英特尔 B960 / Q970 主板 M26-NVLS-ATX09 现身"
+     "zh": "惠普推出 EliteBoard G2a 键盘 PC，升级锐龙 AI PRO 400 处理器"
     },
     {
-     "title": "DPReview 称苹果 iPhone 18 Pro/Max 手动快门仅拍单帧，弱光环境下噪点增加",
-     "link": "https://www.ithome.com/1/012/329.htm",
-     "pubDate": "Tue, 13 Oct 2026 06:00:13 GMT",
-     "summary": "IT之家 10 月 13 日消息，科技媒体 DPReview 今天（10 月 13 日）发布博文，报道称在苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 上， 用户手动设置快门速度后会停止多帧堆叠，仅拍摄单帧照片，夜间模式也会失效。 该媒体测试指出，iPhone 18 Pro 和 iPhone 18 Pro Max 上通过 Pro 级控制选项（Pro Controls），手动设置快门速度后，会停止多帧堆叠（frame stacking）。 iPhone 18 Pro 系列于 9 月发布，主摄像头首次配备机械可变光圈，并新增手动设置光圈、快门速度和白平衡的 Pro 控制",
+     "title": "荣耀 WIN 平板真机亮相，官方称“一个小手包就能装下所有”",
+     "link": "https://www.ithome.com/1/012/343.htm",
+     "pubDate": "Tue, 13 Oct 2026 06:25:55 GMT",
+     "summary": "IT之家 10 月 13 日消息，荣耀手机昨日宣布，荣耀 WIN 2 系列手机、WIN 平板将于 10 月 21 日在荣耀 WIN 电竞宇宙嘉年华发布。 荣耀全场景产品线总裁 @荣耀潇哥 今日放出了荣耀 WIN 平板的真机图。他表示， 该平板一个小手包就能装下所有，是出差路上的福音 。 据IT之家此前报道，消息称荣耀 WIN 平板搭载第五代骁龙 8 至尊版处理器，配备 8.4 英寸 240Hz OLED 平板、主动散热风扇。 目前，荣耀 WIN 电竞全家桶新品已亮相， 包含手机、平板、游戏本、耳机、手柄等 。据荣耀终端股份有限公司产品线总裁方飞介绍，除了这些电竞数码新品，还会有散热背夹、鼠标、",
      "source": "IT之家",
-     "zh": "DPReview 称苹果 iPhone 18 Pro/Max 手动快门仅拍单帧，弱光环境下噪点增加"
+     "zh": "荣耀 WIN 平板真机亮相，官方称“一个小手包就能装下所有”"
+    },
+    {
+     "title": "美国核反应堆开始陆续接入 AI",
+     "link": "https://www.ithome.com/1/012/338.htm",
+     "pubDate": "Tue, 13 Oct 2026 06:24:23 GMT",
+     "summary": "IT之家 10 月 13 日消息，核能行业历来是非常谨慎且极力规避风险的行业，因为事故或失误可能带来灾难性后果，按照常理来说并不适合部署未知风险的新技术，然而现实却讲述了一个截然不同的故事。 据 IEEE Spectrum 上周报道，多家公司已开始为核电提供 AI 解决方案。 今年来，几乎所有 94 座美国核反应堆都获得了将 AI 整合进运营的机会，且大多数都接受了部署 。 今年八月，总部位于美国加利福尼亚的 Atomic Canyon 公司推出了 NIVA 核工业虚拟助手，该系统与核工业团体合作开发。该虚拟助手曾在 Constellation Energy 运营的核电厂进行试点，现已供美国所",
+     "source": "IT之家",
+     "zh": "美国核反应堆开始陆续接入 AI"
+    },
+    {
+     "title": "限前 5000 名：WPS 京东 PLUS 联合会员 11.11 预售，仅需 59 元 / 年",
+     "link": "https://www.ithome.com/1/012/335.htm",
+     "pubDate": "Tue, 13 Oct 2026 06:24:02 GMT",
+     "summary": "WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年，预售券后价为 268 元； 前 5000 名返 30 元京东 E 卡，到手价为 238 元（ 下单页面可见赠品，没有就是送完了 ）； 联合会员可选： 京东 PLUS / 喜马拉雅 / 优酷视频 / 网易云音乐： 京东 WPS 超级会员 3 年卡 + 京东 plus 会员年卡 券后 238 元 领 30 元券 京东 WPS 超级会员 3 年卡 + 喜马拉雅会员年卡 券后 238 元 领 30 元券 京东 WPS 超级会员 3 年卡 + 网易云黑胶会员年卡 券后 238 元 领 30 元券 京东 WPS 超级会员 3 ",
+     "source": "IT之家",
+     "zh": "限前 5000 名：WPS 京东 PLUS 联合会员 11.11 预售，仅需 59 元 / 年"
+    },
+    {
+     "title": "特斯拉 Cybercab 无人驾驶出租车将换装新座椅，达拉斯为下一落地城市",
+     "link": "https://www.ithome.com/1/012/334.htm",
+     "pubDate": "Tue, 13 Oct 2026 06:23:37 GMT",
+     "summary": "IT之家 10 月 13 日消息，Cybercab（特斯拉无人出租车）将更换新款座椅。据 X 平台 @teslawelt 消息，当地时间上周六在得州超级工厂举办的 X Takeover 活动中，Cybercab 首席工程师埃里克 · 厄利（Eric Earley）在“Cybercab 内部解析”分享会上证实了这项改动。 而且座椅并不是唯一即将更新的地方。根据 @nikkharris 的消息，厄利向现场观众表示：“Cybercab 的乘坐体验很快会迎来一些非常酷的升级。”他没有透露升级的具体内容以及上线时间。 IT之家注意到，Cybercab 拥有双人座，但座椅更像是一体式长凳。两个座椅支持同步",
+     "source": "IT之家",
+     "zh": "特斯拉 Cybercab 无人驾驶出租车将换装新座椅，达拉斯为下一落地城市"
+    },
+    {
+     "title": "《市场是一面镜子》09 薄肌理论：年轻人不接盘了，他们决定自己开盘",
+     "link": "https://www.huxiu.com/article/4897076.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 14:18:57 +0800",
+     "summary": "本文来自微信公众号： 0xAI机器学习 ，作者：0xAI机器学习，原文标题：《《市场是一面镜子》09 薄肌理论：年轻人不接盘了，他们决定自己开盘》 大家好，我是X，INTJ，AI算法交易员。长期对照人类与算法的投资行为，这里我们透过真实交易，带你理解真正的自己。 最近，备受当代年轻人追捧的三套理论火了。 大水理论。少喝奶茶、汽水，改喝白水。网上有人拎着两升矿泉水出门，配文：“弱者喝饮料，强者喝大水。”关键词：低成本，简单，回归基本需求。 大睡理论。熬夜和拼命不再是勋章。睡够，规律，把精力要回来。以前通宵叫奋斗，现在通宵叫回撤。你以为你在加班，身体以为你在爆仓。 薄肌理论。不追求大块肌肉，追求低",
+     "source": "虎嗅",
+     "zh": "《市场是一面镜子》09 薄肌理论：年轻人不接盘了，他们决定自己开盘"
+    },
+    {
+     "title": "消息称 Anthropic 即将谈妥其首座日本数据中心：500MW 规模，落地大阪",
+     "link": "https://www.ithome.com/1/012/333.htm",
+     "pubDate": "Tue, 13 Oct 2026 06:18:39 GMT",
+     "summary": "IT之家 10 月 13 日消息，《日经亚洲》当地时间今日报道称， Anthropic 与 NTT DATA 之间有关前者首座在日数据中心项目的谈判已进入最后阶段 。双方预计将在本财年内达成最终协议，最早 2028 年部分投运。 这座 AI 算力设施将 落户大阪 ，预计规模将达 500MW，仅建设成本即超 1 万亿日元 （IT之家注：现汇率约合 422.91 亿元人民币） ，后续还将装备大量高价值的芯片。 报道提到该 AI 数据中心 初期将采用表后供电 （如燃料电池等现场发电方式），为配套电力基础设施的就位留出更多时间。 相关阅读： 《 日本电力巨头 JERA 牵手戴尔等伙伴，将在千叶建设该国",
+     "source": "IT之家",
+     "zh": "消息称 Anthropic 即将谈妥其首座日本数据中心：500MW 规模，落地大阪"
+    },
+    {
+     "title": "中国车企反攻德系车心脏，巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
+     "link": "https://www.huxiu.com/article/4897074.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 14:11:43 +0800",
+     "summary": "本文来自微信公众号： 量子位ROBO ，作者：有据无车，原文标题：《中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战》 中国车企组团，浩浩荡荡打到了德系车的家门口。 刚刚开幕的2026年巴黎车展，比亚迪、奇瑞、吉利、长安、理想、问界、阿维塔……中国车企带着纯电、插混、高端智能汽车纷纷登场，参展数量甚至占到巴黎车展整车品牌的三成，阵容之盛，前所未有。 然而另一边，宝马、MINI、保时捷这些德国汽车工业的老牌巨头，反倒缺席了今年的巴黎车展。 放在20年前，这一幕或许很难想象。 2006年，同样是巴黎车展。中国汽车首次登场，只有长城、陆风带着几款SUV和皮卡远渡重洋，为进",
+     "source": "虎嗅",
+     "zh": "中国车企反攻德系车心脏，巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战"
+    },
+    {
+     "title": "高市早苗顶回特朗普的一句话, 暴露美安全叙事最心虚的一环",
+     "link": "https://www.huxiu.com/article/4897068.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 14:04:29 +0800",
+     "summary": "本文来自微信公众号： 文化纵横 ，作者：黄靖洋 【导读】10月8日，日本首相高市早苗在众议院明确表态，反对把“人工智能(AI)”改称“超级智能(SI)”，并称政府文件、学术论文早已普遍使用AI，很难进行替换。此番回应针对的，是同日特朗普在社交媒体上的宣告：凡继续使用“人工智能”、而不改用他力推的“超级智能”这一新称谓者，白宫将视其为“敌人”。但“超级智能”在学界本有特定含义，指能力全面超越人类的智能系统，而现在的AI并未达到此程度。有分析认为，特朗普此举改名在方便监管的同时，也是在反对如今美国国内盛行的“AI减速潮”。 近期，Anthropic的CEO阿莫迪呼吁放缓前沿大模型迭代速度，以应对潜",
+     "source": "虎嗅",
+     "zh": "高市早苗顶回特朗普的一句话, 暴露美安全叙事最心虚的一环"
     },
     {
      "title": "Q3财报季将至，奢侈品又要熬一季了",
@@ -1794,50 +1810,18 @@ window.INDUSTRY_DATA = {
      "zh": "Q3财报季将至，奢侈品又要熬一季了"
     },
     {
-     "title": "华为：2023 年以来，基于麒麟芯片的终端产品累计发货已经过亿",
-     "link": "https://www.ithome.com/1/012/327.htm",
-     "pubDate": "Tue, 13 Oct 2026 05:58:18 GMT",
-     "summary": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。 徐松余谈到了麒麟 9050 系列的一些性能规格，并首次公布麒麟 9050 Pro 芯片详细架构图。他表示，首款逻辑折叠韬芯片 —— 麒麟 9050 系列在中国半导体产业界的支持下成功量产，但韬路径未来的发展还有众多挑战，包括工具链和方法论、工艺差异补偿、跨层互联开销优化、能耗控制、基准测试方法等。 华为官方称，麒麟近年走过了一段并不平坦的路。2023 年 8 月，在半导体产业界的支持下，麒麟重新回到消费者身边，并持续支撑 Ma",
-     "source": "IT之家",
-     "zh": "华为：2023 年以来，基于麒麟芯片的终端产品累计发货已经过亿"
-    },
-    {
      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
      "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
      "pubDate": "Tue, 13 Oct 2026 05:57:32 +0000",
-     "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 8 # Comments: 3",
      "source": "Hacker News",
      "zh": "Threat of AI share crash puts world financial stability at risk, says IMF"
-    },
-    {
-     "title": "江淮汽车今日股价直线拉升，最高涨超 9%",
-     "link": "https://www.ithome.com/1/012/326.htm",
-     "pubDate": "Tue, 13 Oct 2026 05:55:20 GMT",
-     "summary": "IT之家 10 月 13 日消息，江淮汽车直线拉升， 迅速翻红后最高涨超 9% 。截至IT之家发文，江淮汽车股价涨超 5%，总市值约 525 亿元。 尊界事件发酵后， 江淮汽车上周曾遭遇股价两连跌停 。根据江淮汽车官方公告，该公司 9 月汽车销量 27,201 辆，同比下降 18.69%；新能源乘用车销量 2,932 辆，同比下降 18.85%。 《 尊界 V800 制动踏板检测情况说明 》于今日公布，该说明显示，2026 年 10 月 11 日，国家认可的第三方检测机构对尊界 V800 制动踏板进行检验，尊界 V800 符合行标 QC/T 788-2018 要求 (纵向力 1500N，位移量",
-     "source": "IT之家",
-     "zh": "江淮汽车今日股价直线拉升，最高涨超 9%"
-    },
-    {
-     "title": "中国汽研回应尊界 V800 检测报告：只对企业送来样品或样车负责，对后续批量生产产品不做任何保证",
-     "link": "https://www.ithome.com/1/012/320.htm",
-     "pubDate": "Tue, 13 Oct 2026 05:51:11 GMT",
-     "summary": "IT之家 10 月 13 日消息，针对制动踏板争议，第一财经今日从尊界汽车处获悉《 尊界 V800 制动踏板检测情况说明 》。 该说明显示，2026 年 10 月 11 日，国家认可的第三方检测机构对尊界 V800 制动踏板进行检验，尊界 V800 符合行标 QC/T 788-2018 要求（纵向力 1500N，位移量 ＜ 5mm），并做加严检验至纵向力 3000N 后，未出现裂纹和损坏。 随后，中国汽车工程研究院股份有限公司检测中心档案室人员也向第一财经记者确认了这份报告的存在。但该人员表示：“ 我们的报告只对企业送来的样品或者样车负责，对于企业后续批量生产的产品，我们不做任何保证。 ” 另",
-     "source": "IT之家",
-     "zh": "中国汽研回应尊界 V800 检测报告：只对企业送来样品或样车负责，对后续批量生产产品不做任何保证"
-    },
-    {
-     "title": "零跑 B01 累计交付突破 10 万台：定位紧凑型纯电轿车，官方指导价 9.58 万元起",
-     "link": "https://www.ithome.com/1/012/317.htm",
-     "pubDate": "Tue, 13 Oct 2026 05:45:06 GMT",
-     "summary": "IT之家 10 月 13 日消息，零跑汽车官方今日宣布，零跑 B01 汽车自 2025 年 7 月上市至今， 累计交付突破 100,000 台 。 据零跑汽车官方介绍，零跑连续三个月月销超十万台，国庆销量创新高，10 月 7 日单日突破 7,600 台。 IT之家注意到，今年 9 月，零跑汽车官方宣布，旗下 B 系双子星 —— 零跑 B01 和零跑 B10 量产下线突破 30 万台。此次 30 万台的量产下线仅用时 1 年 6 个月，创零跑车系最快量产 30 万台新纪录。同时，零跑 B10 创零跑海外最快 6 万台出口纪录。 作为参考，今年 7 月， 零跑汽车旗下新款零跑 B01 与新款零跑 ",
-     "source": "IT之家",
-     "zh": "零跑 B01 累计交付突破 10 万台：定位紧凑型纯电轿车，官方指导价 9.58 万元起"
     },
     {
      "title": "Vi Hart's Big Navier-Stokes Post",
      "link": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
      "pubDate": "Tue, 13 Oct 2026 05:22:28 +0000",
-     "summary": "Article URL: https://www.patreon.com/vihart/posts/vi-harts-big-171939430 Comments URL: https://news.ycombinator.com/item?id=50067098 Points: 7 # Comments: 2",
+     "summary": "Article URL: https://www.patreon.com/vihart/posts/vi-harts-big-171939430 Comments URL: https://news.ycombinator.com/item?id=50067098 Points: 15 # Comments: 3",
      "source": "Hacker News",
      "zh": "Vi Hart's Big Navier-Stokes Post"
     },
@@ -1874,12 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "A global chip stock sell-off deepens after Broadcom&apos;s CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4% (Financial Times)"
     },
     {
-     "title": "字节掘金者：最贵的是光环",
-     "link": "https://www.huxiu.com/article/4897049.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 13:00:42 +0800",
-     "summary": "本文来自微信公众号： AI闹 ，作者：AI闹，题图来自：视觉中国 围猎 2026年，字节系创业者的估值&ldquo;腰斩&rdquo;。 一个字节系 4-1 （总监级） 的天使轮融资额度是 200 万美元&mdash;&mdash;而一年前是 400 万美元起。一方面源于 AI 应用遇冷 （字节系绝大部分创业者方向是 AI 应用） ，一方面竞争窗口也在急速关闭， &ldquo;该出来的都出来了，资本开始反向排查创业动机，到底是主动想创业，还是内部发展不顺才离开。&rdquo; 某一线机构的投资人说。 过去两年，作为全球最大的独角兽公司，字节正在向全球批量输出 AI 创业者。 根据公开融资信息统",
-     "source": "虎嗅",
-     "zh": "字节掘金者：最贵的是光环"
+     "title": "B&H Photo Promo Codes and Deals This October 2026",
+     "link": "https://www.wired.com/story/bh-photo-coupon/",
+     "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000",
+     "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+     "source": "WIRED",
+     "zh": "B&H Photo Promo Codes and Deals This October 2026"
     },
     {
      "title": "Wayfair Coupons: Up to 80% Off October 2026",
@@ -1922,36 +1906,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nike Promo Codes and Discounts: 30% for October 2026"
     },
     {
-     "title": "Booking.com Promo Codes: 20% Off | October 2026",
-     "link": "https://www.wired.com/story/booking-com-promo-code/",
-     "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000",
-     "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-     "source": "WIRED",
-     "zh": "Booking.com Promo Codes: 20% Off | October 2026"
-    },
-    {
-     "title": "锐评中国、美国、韩国娱乐商业模式及核心问题",
-     "link": "https://www.huxiu.com/article/4897057.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 12:58:27 +0800",
-     "summary": "本文来自微信公众号： 赵先生的事务所 ，作者：赵智功，原文标题：《【音乐角度】锐评中国、美国、韩国娱乐商业模式及核心问题》 根据IFPI《2026全球音乐报告》，2025年全球录制音乐市场总收入达317亿美元，同比增长6.4%。 美国以38.7%的全球收入份额稳居第一，中国以20.1%的增速超越德国跃升至全球第四，韩国位列全球第七。 中国的增速在主要市场中最高，韩国则出现了5.7%的收入下滑，是前十中唯一负增长的市场。 这揭示了\"K-pop看起来很厉害\"与\"实际经济规模\"之间的落差。 中美音乐市场，由于发展历史、市场制度和本国文化不同，具备极大的差异。 而韩国则正好位于中美市场的中间地带。由于",
-     "source": "虎嗅",
-     "zh": "锐评中国、美国、韩国娱乐商业模式及核心问题"
-    },
-    {
      "title": "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)",
      "link": "https://www.techmeme.com/261013/p3#a261013p3",
      "pubDate": "Tue, 13 Oct 2026 00:55:02 -0400",
      "summary": "Rhea Rose Abraham / Reuters : Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale &nbsp; &mdash;&nbsp; Character.AI said on Monday it had filed for Chapter 11 bankruptcy in the US and agreed to se",
      "source": "Techmeme",
      "zh": "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)"
-    },
-    {
-     "title": "断踏板、掉后轮，“速成车”后遗症正在爆发",
-     "link": "https://www.huxiu.com/article/4897055.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 12:49:56 +0800",
-     "summary": "本文来自微信公众号： 冰川思享号 ，作者：关不羽，原文标题：《断踏板、掉后轮！“速成车”后遗症正在爆发》 造车的背后，是对安全的关注，是对生命的尊重。车子的各种性能，满足的是用户需求，但其底层架构永远只能是“安全第一”的品控体系。 国内网民还在围观新能源车尊界V800刹车踏板支架断裂事件时，奇瑞的燃油车OMODA 5在马来西亚又创“奇迹”——开着开着后轮掉了。 据奇瑞官方数据，OMODA 5从油泥模型冻结，到首台车下线，用时仅18个月。快速开发匆匆上市，极易留下安全隐患。 国内车企各类离奇故障频发，速成造车背后的问题值得深思。 01 10月6日，一辆2023款OMODA 5于马来西亚柔佛新山行",
-     "source": "虎嗅",
-     "zh": "断踏板、掉后轮，“速成车”后遗症正在爆发"
     },
     {
      "title": "IDC: Nvidia&apos;s AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition (Reuters)",
@@ -2266,6 +2226,126 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "胆囊里取出270枚结石！胆结石为何“盯上”年轻人？",
+     "link": "http://www.eeo.com.cn/2026/1013/1062519.shtml",
+     "pubDate": "Tue, 13 Oct 2026 14:26:17 +0800",
+     "summary": "21世纪经济报道记者 韩利明 近日，四川成都一名56岁女性因反复右上腹疼痛就诊，被诊断为胆囊结石伴急性胆囊炎，转入四川大学华西医院。手术中，医生竟从她的胆囊内取出了超过270枚结石。该患者彩超和CT显示，结石几乎占满胆囊，剩余胆汁极少。 这则新闻让不少网友感到震惊。270枚结石是什么概念？是不是结石越多，病情就越重？年轻人体检发现胆囊结石又该怎么办？ “结石数量多不等于风险高。”某三甲医院临...",
+     "source": "经济观察网",
+     "zh": "胆囊里取出270枚结石！胆结石为何“盯上”年轻人？"
+    },
+    {
+     "title": "华丰股份10月13日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610133894086588.html",
+     "pubDate": "Tue, 13 Oct 2026 14:25:05 +0800",
+     "summary": "以下是 华丰股份 在北京时间10月13日14:24分盘口异动快照： 10月13日， 华丰股份 盘中快速回调，5分钟内跌幅超过2%，截至14点24分，报41.23元，成交2.93亿元，换手率3.03%。 分笔 14:24:55 41.23 48↓ 14:24:52 41.40 39↑ 14:24:49 41.40 122↓ 14:24:46 41.44 21↓ 14:24:43 41.50 99↓ 14:24:40 41.66 84↑ 14:24:37 41.66 108↓ 14:24:34 41.80 32↓ 14:24:31 41.80 26↓ 14:24:28 41.83 27↓ 报价 卖",
+     "source": "东方财富股票",
+     "zh": "华丰股份10月13日快速回调"
+    },
+    {
+     "title": "Germany's inflation climbs to 3.3% as energy costs jump",
+     "link": "https://seekingalpha.com/news/4652313-germanys-inflation-climbs-to-33-as-energy-costs-jump?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 02:24:34 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Germany's inflation climbs to 3.3% as energy costs jump"
+    },
+    {
+     "title": "普莱柯“非洲猪瘟亚单位疫苗”获批临床试验",
+     "link": "http://stock.eastmoney.com/news/11215,202610133894086728.html",
+     "pubDate": "Tue, 13 Oct 2026 14:22:00 +0800",
+     "summary": "上证报中国证券网讯（记者王乔琪） 普莱柯 10月12日晚间发布公告，其与中国农业科学院兰州兽医研究所、中农威特生物科技股份有限公司、山东信得动物 疫苗 有限公司等3家单位已经获批农业农村部颁发的非洲猪瘟亚单位 疫苗 临床试验批件，有效期限为2026年9月29日至2028年9月28日。 公告称，非洲猪瘟是由非洲猪瘟病毒感染引起的一种急性、热性、高度接触性传染病，为我国一类动物疫病。非洲猪瘟亚单位 疫苗 用于预防非洲猪瘟病毒感染， 普莱柯 于2019年与科研院所合作研究开发该疫苗。截至目前，该产品累计研发投入金额约9200万元。 根据《兽药管理条例》《兽药注册办法》相关规定，兽用 生物制品 获得临",
+     "source": "东方财富股票",
+     "zh": "普莱柯“非洲猪瘟亚单位疫苗”获批临床试验"
+    },
+    {
+     "title": "华丰股份10月13日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610133894085011.html",
+     "pubDate": "Tue, 13 Oct 2026 14:21:24 +0800",
+     "summary": "以下是 华丰股份 在北京时间10月13日14:21分盘口异动快照： 10月13日， 华丰股份 盘中涨幅达5%，截至14点21分，报42.5元，成交2.66亿元，换手率2.76%。 分笔 14:21:16 42.50 254↑ 14:21:13 42.46 288↑ 14:21:10 42.38 172↑ 14:21:07 42.35 46↓ 14:21:04 42.35 86↑ 14:21:01 42.20 51↑ 14:20:58 42.18 202↑ 14:20:55 42.15 395↑ 14:20:52 42.02 148↓ 14:20:49 42.04 812↑ 报价 卖五 42.5",
+     "source": "东方财富股票",
+     "zh": "华丰股份10月13日盘中涨幅达5%"
+    },
+    {
+     "title": "高盛：上调比亚迪电子目标价至22港元，2027年收入增长将复苏",
+     "link": "http://hk.eastmoney.com/news/1535,202610133894085347.html",
+     "pubDate": "Tue, 13 Oct 2026 14:21:21 +0800",
+     "summary": "高盛 发表研报， 比亚迪电子 2027年收入增长将复苏，受惠于在存储器成本相对稳定下，智能手机及个人 计算机 需求企稳，以及公司产品组合升级；来自 苹果 及 比亚迪 的收入敞口增加，并扩展至AI服务器供应链(液冷、供电)。该行继续预期 比亚迪电子 毛利率至2028年将复苏，以2027年目标市盈率10倍计，目标价由21港元上调至22港元，维持“沽售”评级。 高盛 表示，终端需求在高存储器成本下偏温和，同时已把AI运算基础设施纳入预测，反映公司向AI 数据中心 扩张，并下调 消费电子 收入预测，相应将 比亚迪电子 2026至2028年净利润预测相应分别下调40%、3%及32%，仍预期2026年下半",
+     "source": "东方财富股票",
+     "zh": "高盛：上调比亚迪电子目标价至22港元，2027年收入增长将复苏"
+    },
+    {
+     "title": "Visa gets Beijing&apos;s green light for bank card business after 40 years of working with China",
+     "link": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+     "pubDate": "Tue, 13 Oct 2026 06:20:55 GMT",
+     "summary": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
+     "source": "CNBC",
+     "zh": "Visa gets Beijing&apos;s green light for bank card business after 40 years of working with China"
+    },
+    {
+     "title": "常友科技10月13日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610133894084834.html",
+     "pubDate": "Tue, 13 Oct 2026 14:20:23 +0800",
+     "summary": "以下是 常友科技 在北京时间10月13日14:20分盘口异动快照： 10月13日， 常友科技 盘中快速上涨，5分钟内涨幅超过2%，截至14点20分，报78.48元，成交5027.69万元，换手率2.70%。 分笔 14:20:09 78.48 1↑ 14:20:06 78.27 4↑ 14:20:03 77.95 15↑ 14:19:51 77.91 6↓ 14:19:48 78.06 54↑ 14:19:42 77.91 6↓ 14:19:39 77.99 3↑ 14:19:33 77.88 27↑ 14:19:30 77.88 14↑ 14:19:21 77.58 23↑ 报价 卖五 78",
+     "source": "东方财富股票",
+     "zh": "常友科技10月13日快速上涨"
+    },
+    {
+     "title": "常友科技10月13日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610133894084746.html",
+     "pubDate": "Tue, 13 Oct 2026 14:20:14 +0800",
+     "summary": "以下是 常友科技 在北京时间10月13日14:20分盘口异动快照： 10月13日， 常友科技 盘中涨幅达5%，截至14点20分，报78.27元，成交5026.90万元，换手率2.70%。 分笔 14:20:06 78.27 4↑ 14:20:03 77.95 15↑ 14:19:51 77.91 6↓ 14:19:48 78.06 54↑ 14:19:42 77.91 6↓ 14:19:39 77.99 3↑ 14:19:33 77.88 27↑ 14:19:30 77.88 14↑ 14:19:21 77.58 23↑ 14:19:15 77.47 2↑ 报价 卖五 78.85 1 卖四 7",
+     "source": "东方财富股票",
+     "zh": "常友科技10月13日盘中涨幅达5%"
+    },
+    {
+     "title": "Tencent prepares $4.5B+ dollar and yuan bond offering for AI capex",
+     "link": "https://seekingalpha.com/news/4652298-tencent-prepares-45b-dollar-and-yuan-bond-offering-for-ai-capex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 02:16:36 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tencent prepares $4.5B+ dollar and yuan bond offering for AI capex"
+    },
+    {
+     "title": "零食怎么挑才安心？河南省许昌市魏都区市场监管局开展量贩零食专项整治",
+     "link": "http://www.eeo.com.cn/2026/1013/1062506.shtml",
+     "pubDate": "Tue, 13 Oct 2026 14:13:16 +0800",
+     "summary": "中国质量新闻网讯 “量贩零食性价比高、种类多，家里孩子特别爱吃，但总担心买到临期、来路不明的零食，也怕称重不准。”这是不少消费者选购零食时的顾虑。近期，河南省许昌市市场监督管理局魏都区分局对辖区连锁零食门店开展全覆盖拉网式专项整治，双线筑牢食品安全、消费安全防护屏障。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/D7D4EEA466CF5146EC10F87DEEC0C39A.png\" title=\"im...",
+     "source": "经济观察网",
+     "zh": "零食怎么挑才安心？河南省许昌市魏都区市场监管局开展量贩零食专项整治"
+    },
+    {
+     "title": "日元兑美元贬值至158.5附近",
+     "link": "http://www.eeo.com.cn/2026/1013/1062505.shtml",
+     "pubDate": "Tue, 13 Oct 2026 14:13:14 +0800",
+     "summary": "【日元兑美元贬值至158.5附近】据日本共同社报道，东京外汇市场13日上午迎来新的一周，日元汇率报1美元兑158.5日元附近。截至上午10点，日元汇率为1美元兑158.51至158.52日元，日元较上周五贬值0.18。欧元方面为1欧元兑176.85至176.87日元，日元升值0.98。受原油价格上涨影响，依赖进口的日本经济堪忧使得买入美元的势头占优。（中新经纬APP）",
+     "source": "经济观察网",
+     "zh": "日元兑美元贬值至158.5附近"
+    },
+    {
+     "title": "直播间言论引发争议 服装品牌CHUU两度道歉仍掉粉",
+     "link": "http://www.eeo.com.cn/2026/1013/1062503.shtml",
+     "pubDate": "Tue, 13 Oct 2026 14:13:07 +0800",
+     "summary": "北京商报讯（记者 石春晖）10月12日晚，服装品牌CHUU因直播间女主播议论品牌合作艺人孙政、吕思曈引发粉丝强烈不满，品牌方两度道歉依旧未能平息风波，目前其官方旗舰店短视频账号仍在掉粉。 10月12日晚，孙政、吕思曈原定空降CHUU直播间与粉丝互动，开播前，一名女主播在镜头前议论：“怎么想到请他们去的，不怕塌房吗？”被提醒已经开播后，随即补充“还好没人听到。” 该言论被粉丝录屏后迅速扩散，被看做对合作...",
+     "source": "经济观察网",
+     "zh": "直播间言论引发争议 服装品牌CHUU两度道歉仍掉粉"
+    },
+    {
+     "title": "四大股指午后全线翻红 全市场超3600股飘红",
+     "link": "http://www.eeo.com.cn/2026/1013/1062504.shtml",
+     "pubDate": "Tue, 13 Oct 2026 14:13:06 +0800",
+     "summary": "10月13日，A股四大股指午后全线翻红，创业板指早盘一度跌近3.5%。截至13时21分，沪指涨0.34%，深证成指涨0.24%，创业板指涨0.45%，科创综指涨0.45%。全市场超3600只个股飘红。",
+     "source": "经济观察网",
+     "zh": "四大股指午后全线翻红 全市场超3600股飘红"
+    },
+    {
+     "title": "SpaceXAI bundles Grok, Cursor, and X features into unified subscription tiers",
+     "link": "https://seekingalpha.com/news/4652294-spacexai-bundles-grok-cursor-and-x-features-into-unified-subscription-tiers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 02:08:46 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SpaceXAI bundles Grok, Cursor, and X features into unified subscription tiers"
+    },
+    {
      "title": "GM's Mary Barra reaffirms 2028 target for 'eyes-off, hands-off' tech",
      "link": "https://seekingalpha.com/news/4652308-gms-mary-barra-reaffirms-2028-target-for-eyes-off-hands-off-tech?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 13 Oct 2026 02:01:01 -0400",
@@ -2280,54 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Broadcom CEO sees viable OpenAI business but warns of AI funding constraints"
-    },
-    {
-     "title": "恒林股份10月13日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610133894067320.html",
-     "pubDate": "Tue, 13 Oct 2026 13:58:18 +0800",
-     "summary": "以下是 恒林股份 在北京时间10月13日13:58分盘口异动快照： 10月13日， 恒林股份 盘中涨幅达5%，截至13点58分，报35.5元，成交1.77亿元，换手率3.69%。 分笔 13:58:08 35.50 20↑ 13:58:05 35.40 5↓ 13:58:02 35.40 102↓ 13:57:59 35.40 132↓ 13:57:56 35.40 85↑ 13:57:50 35.40 18↑ 13:57:47 35.39 205↑ 13:57:44 35.37 118↑ 13:57:41 35.32 3↑ 13:57:38 35.32 10↑ 报价 卖五 35.6 1 卖四",
-     "source": "东方财富股票",
-     "zh": "恒林股份10月13日盘中涨幅达5%"
-    },
-    {
-     "title": "安泰集团10月13日打开涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202610133894067187.html",
-     "pubDate": "Tue, 13 Oct 2026 13:58:10 +0800",
-     "summary": "以下是 安泰集团 在北京时间10月13日13:58分盘口异动快照： 10月13日13点58分， 安泰集团 盘中打开涨停，现报3.84元，成交6.31亿元，换手率16.67%。该股之前于9点39分涨停。 分笔 13:58:01 3.84 12541↓ 13:57:58 3.88 4962↓ 13:57:55 3.88 1236↓ 13:57:52 3.88 1619↓ 13:57:49 3.88 4059↓ 13:57:46 3.88 14610↓ 13:57:43 3.88 8757↓ 13:57:40 3.88 5324↓ 13:57:37 3.88 6119↓ 13:57:34 3.88 ",
-     "source": "东方财富股票",
-     "zh": "安泰集团10月13日打开涨停"
-    },
-    {
-     "title": "彩虹集团10月13日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610133894066083.html",
-     "pubDate": "Tue, 13 Oct 2026 13:57:26 +0800",
-     "summary": "以下是 彩虹集团 在北京时间10月13日13:57分盘口异动快照： 10月13日， 彩虹集团 盘中快速上涨，5分钟内涨幅超过2%，截至13点57分，报26.48元，成交9186.4万元，换手率3.44%。 分笔 13:57:21 26.48 6↑ 13:57:18 26.43 8↑ 13:57:15 26.42 28↑ 13:57:12 26.42 18↑ 13:57:09 26.41 20↑ 13:57:06 26.41 33↓ 13:57:03 26.41 37↓ 13:57:00 26.43 30↑ 13:56:57 26.37 51↓ 13:56:54 26.41 4↑ 报价 卖五 2",
-     "source": "东方财富股票",
-     "zh": "彩虹集团10月13日快速上涨"
-    },
-    {
-     "title": "中国海防10月13日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610133894065696.html",
-     "pubDate": "Tue, 13 Oct 2026 13:56:44 +0800",
-     "summary": "以下是 中国海防 在北京时间10月13日13:56分盘口异动快照： 10月13日， 中国海防 盘中涨幅达5%，截至13点56分，报19.05元，成交1.83亿元，换手率1.39%。 分笔 13:56:35 19.05 3670↑ 13:56:32 18.89 27↑ 13:56:29 18.88 4↑ 13:56:26 18.88 24↓ 13:56:23 18.89 2↑ 13:56:20 18.88 3↓ 13:56:17 18.89 15↑ 13:56:14 18.89 15↑ 13:56:11 18.89 19↑ 13:56:05 18.88 4↓ 报价 卖五 19.09 3 卖四 1",
-     "source": "东方财富股票",
-     "zh": "中国海防10月13日盘中涨幅达5%"
-    },
-    {
-     "title": "彩虹集团10月13日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610133894065596.html",
-     "pubDate": "Tue, 13 Oct 2026 13:56:44 +0800",
-     "summary": "以下是 彩虹集团 在北京时间10月13日13:56分盘口异动快照： 10月13日， 彩虹集团 盘中涨幅达5%，截至13点56分，报26.33元，成交9095.07万元，换手率3.41%。 分笔 13:56:33 26.33 65↑ 13:56:30 26.26 4↓ 13:56:27 26.28 9↑ 13:56:24 26.28 4↑ 13:56:21 26.27 32↓ 13:56:18 26.29 59↓ 13:56:15 26.29 5↓ 13:56:12 26.30 56↑ 13:56:09 26.26 119↑ 13:56:06 26.18 9↑ 报价 卖五 26.5 28 卖四 ",
-     "source": "东方财富股票",
-     "zh": "彩虹集团10月13日盘中涨幅达5%"
-    },
-    {
-     "title": "福莱新材10月13日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610133894064438.html",
-     "pubDate": "Tue, 13 Oct 2026 13:56:06 +0800",
-     "summary": "以下是 福莱新材 在北京时间10月13日13:55分盘口异动快照： 10月13日， 福莱新材 盘中快速上涨，5分钟内涨幅超过2%，截至13点55分，报27.53元，成交1.34亿元，换手率1.71%。 分笔 13:55:57 27.53 6↑ 13:55:54 27.52 126↑ 13:55:51 27.45 5↓ 13:55:48 27.48 4↑ 13:55:45 27.47 15↑ 13:55:42 27.45 13↓ 13:55:39 27.45 49↓ 13:55:30 27.48 12↑ 13:55:27 27.48 11↑ 13:55:24 27.45 34↓ 报价 卖五 27",
-     "source": "东方财富股票",
-     "zh": "福莱新材10月13日快速上涨"
     },
     {
      "title": "Publicis Groupe S.A. reports Q3 results; reaffirms FY2026 guidance",
@@ -2346,22 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "酩悦轩尼诗营收修复加速  中国市场回暖"
     },
     {
-     "title": "字节跳动Seed单独设立大模型安全与对齐部门",
-     "link": "http://www.eeo.com.cn/2026/1013/1062469.shtml",
-     "pubDate": "Tue, 13 Oct 2026 13:52:07 +0800",
-     "summary": "10月13日，记者获悉，字节跳动Seed近日发出内部邮件，宣布将成立 “Seed Model-Alignment&Preparedness”部门，由严林负责，汇报给Seed负责人吴永辉。原Responsible AI团队及部分Chat团队成员将转入新部门。",
-     "source": "经济观察网",
-     "zh": "字节跳动Seed单独设立大模型安全与对齐部门"
-    },
-    {
-     "title": "MDA Space gains Czech arms maker CSG as largest shareholder in 9.5% deal",
-     "link": "https://seekingalpha.com/news/4652310-mda-space-gains-czech-arms-maker-csg-as-largest-shareholder-in-95-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 01:48:48 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "MDA Space gains Czech arms maker CSG as largest shareholder in 9.5% deal"
-    },
-    {
      "title": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss",
      "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
      "pubDate": "Tue, 13 Oct 2026 05:44:06 GMT",
@@ -2370,36 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss"
     },
     {
-     "title": "Asian markets mixed as tech sell-off and AI concerns weigh; RBA minutes and IMF outlook in focus",
-     "link": "https://seekingalpha.com/news/4652300-asian-markets-mixed-as-tech-sell-off-and-ai-concerns-weigh-rba-minutes-and-imf-outlook-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 01:39:37 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Asian markets mixed as tech sell-off and AI concerns weigh; RBA minutes and IMF outlook in focus"
-    },
-    {
      "title": "午后大逆转！A股三大指数集体翻红，双创指数均涨超1%，PCB、覆铜板掀涨停潮，军工爆发，恒指拉升",
      "link": "https://wallstreetcn.com/articles/3783494",
      "pubDate": "Tue, 13 Oct 2026 13:39:08 +0800",
      "summary": "华尔街见闻文章 写道，韩国假日后补跌、三星与SK海力士史上最大规模回购（约400亿美元）提前终止，叠加长鑫科技宣布4F²架构突破,在单元架构上或领先韩国巨头两年等三重冲击叠加，隔夜 美股存储芯片重挫 ，叠加周二韩国KOSPI指数跌5%，芯片巨头三星电子、SK海力士大跌，A股和港股芯片、算力硬件盘初一度集体杀跌，午后持续回暖。联讯仪器强势反弹，重夺“股王”宝座。江淮汽车盘中拉升9%，尊界V800检测报告出炉。 10月13日，A股午后继续拉升，三大股指集体翻红，创业板早盘一度跌超3%，AI硬件侧继续反弹，覆铜板指数涨超4%。天孚通信涨近8%，中际旭创、新易盛跟随，创业板指收复日内失地。白酒、煤炭、",
      "source": "华尔街见闻",
      "zh": "午后大逆转！A股三大指数集体翻红，双创指数均涨超1%，PCB、覆铜板掀涨停潮，军工爆发，恒指拉升"
-    },
-    {
-     "title": "星尘智能完成新一轮融资，公司估值达150亿元",
-     "link": "http://www.eeo.com.cn/2026/1013/1062427.shtml",
-     "pubDate": "Tue, 13 Oct 2026 13:26:11 +0800",
-     "summary": "本文来源：时代财经 时代财经获悉，近日，具身智能公司星尘智能已完成10亿元规模新一轮融资，公司估值达150亿元。本轮融资由投控东海（深投控）领投，洪泰基金、光华阳光管理的宁海兴泰合基金、善恒资本等重要国资及财务投资人参与投资，老股东先沐追投。 这是星尘智能近半年内完成的第4轮融资。公开信息显示，自2026年3月以来，星尘智能已先后完成A+轮、A++轮、B轮及本轮融资。 据悉，本轮融资资金计划将用...",
-     "source": "经济观察网",
-     "zh": "星尘智能完成新一轮融资，公司估值达150亿元"
-    },
-    {
-     "title": "Anthropic explores Australia expansion with focus on regional data center sites - report",
-     "link": "https://seekingalpha.com/news/4652304-anthropic-explores-australia-expansion-with-focus-on-regional-data-center-sites---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 01:22:10 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anthropic explores Australia expansion with focus on regional data center sites - report"
     },
     {
      "title": "长鑫4F²架构吓崩海外存储股，马斯克：中国规模化制造能力往往超过全球其他地区总和",
@@ -2418,36 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "IMF warns bond yields could see a &apos;disorderly&apos; spike as debt, inflation risks worsen"
     },
     {
-     "title": "上海嘉定民生村镇银行被罚款60万元 两人被警告",
-     "link": "http://www.eeo.com.cn/2026/1013/1062307.shtml",
-     "pubDate": "Tue, 13 Oct 2026 12:26:07 +0800",
-     "summary": "上证报中国证券网讯（记者 王远）近日，国家金融监督管理总局上海监管局披露的行政处罚信息公开表显示，上海嘉定民生村镇银行被罚款60万元，被罚原因涉及贷款管理严重违反审慎经营规则。同时，时任上海嘉定民生村镇银行业务二部总经理助理的李伟锋、时任上海嘉定民生村镇银行南翔支行副行长的葛晓晨被警告。",
-     "source": "经济观察网",
-     "zh": "上海嘉定民生村镇银行被罚款60万元 两人被警告"
-    },
-    {
-     "title": "ETF午盘：创业板算力ETF涨2.02% 创业板新能源ETF跌4.5%",
-     "link": "http://www.eeo.com.cn/2026/1013/1062306.shtml",
-     "pubDate": "Tue, 13 Oct 2026 12:26:05 +0800",
-     "summary": "10月13日，ETF午间收盘涨跌不一，创业板算力ETF(158061)领涨2.02%，油气ETF(563150)涨1.80%，创业板算力ETF(158049)涨1.77%，创业板新能源ETF(159261)领跌4.5%，科创新能源ETF(588830)跌4.25%，电池ETF(560410)跌4.11%。",
-     "source": "经济观察网",
-     "zh": "ETF午盘：创业板算力ETF涨2.02% 创业板新能源ETF跌4.5%"
-    },
-    {
      "title": "家族信托减持27.5亿港元股份后，张勇又向海底捞借了1亿元",
      "link": "https://wallstreetcn.com/articles/3783507",
      "pubDate": "Tue, 13 Oct 2026 12:21:42 +0800",
      "summary": "海底捞创始人张勇的个人财务安排，再次引发市场关注。 10月12日晚间，海底捞公告称，公司与控股股东、董事会主席兼首席执行官张勇签订贷款协议，同意向其提供本金上限相当于人民币1亿元的港元贷款，期限仅30天。 这笔贷款将用于张勇的个人财务安排，利率为一个月期香港银行同业拆息（HIBOR）加60个基点，不设任何担保。张勇须在贷款到期时偿还本金及利息。 一个多月前，张勇家族刚刚通过减持海底捞股份，回笼资金约27.5亿港元。 9月8日，张勇妻子舒萍设立的家族信托旗下公司SP NP Ltd.，以每股10.62港元的价格出售2.59亿股海底捞股票，占总股本约4.65%。 当时，海底捞解释称，减持纯粹出于股东",
      "source": "华尔街见闻",
      "zh": "家族信托减持27.5亿港元股份后，张勇又向海底捞借了1亿元"
-    },
-    {
-     "title": "A股午评：近3500只个股飘绿，三大指数集体收跌；锂电池概念股重挫，医药、半导体下跌；通信设备低开高走翻红，冰雪旅游、白酒走强",
-     "link": "http://www.eeo.com.cn/2026/1013/1062282.shtml",
-     "pubDate": "Tue, 13 Oct 2026 12:13:08 +0800",
-     "summary": "中新经纬10月13日电 13日，A股三大指数低开，临近午盘跌幅收窄。截至午间收盘，沪指跌0.27%，深证成指跌0.78%，创业板指跌0.95%。 全市半日成交额1.02万亿，近3500只个股下跌。 板块方面，锂电池概念股重挫，生物科技、发电设备、电工电网、半导体、电脑硬件、汽车、石化、制药、医疗保健等下跌。 冰雪旅游、白酒概念股走强，通信设备低开高走翻红，油气、海运、机场、餐饮旅游、煤炭等板块上涨。(中新经纬AP...",
-     "source": "经济观察网",
-     "zh": "A股午评：近3500只个股飘绿，三大指数集体收跌；锂电池概念股重挫，医药、半导体下跌；通信设备低开高走翻红，冰雪旅游、白酒走强"
     },
     {
      "title": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴",
@@ -2496,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "Oil prices fell as investors assess potential supply disruptions against prospects of more Russian diesel entering global markets.",
      "source": "CNBC",
      "zh": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict"
-    },
-    {
-     "title": "本轮AI狂潮：身兼“科网”与“地产”泡沫特色，神似2008国际资本大循环",
-     "link": "https://wallstreetcn.com/articles/3783491",
-     "pubDate": "Tue, 13 Oct 2026 11:43:03 +0800",
-     "summary": "二十年前，华盛顿郊外弗吉尼亚州的劳登县是全美房地产泡沫最狂热的中心之一，随后在全球储蓄退潮与2008年次贷违约中遭遇重创。二十年后，这里被成片的数据中心覆盖，来自加拿大养老金、日本软银等全球资本涌入这里大搞AI基建，成为全球互联网与AI算力最密集的节点。 截至2026财年，该县超过40%的税收（12亿美元）直接来自数据中心。 这种对单一资产极度依赖的场景， 让当地官员再次产生了2008年危机前夕的恐惧 ——劳登县不仅在近期叫停了新数据中心审批，还专门设立了1.2亿美元的“财政稳定基金”，并要求运营商缴纳清算保证金，以防算力泡沫破裂后重演当年的财政崩盘。 劳登县的焦虑，正是全球宏观资金失衡的一个",
-     "source": "华尔街见闻",
-     "zh": "本轮AI狂潮：身兼“科网”与“地产”泡沫特色，神似2008国际资本大循环"
     }
    ]
   },

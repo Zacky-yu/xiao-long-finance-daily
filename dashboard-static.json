@@ -1,102 +1,163 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "fed": {
     "currentRate": "3.75%-4.00%",
-    "rateNote": "2026-09-16 会议加息 25bp，9/17 起生效（2025-12 月以来首次利率调整）；目标上限 FRED DFEDTARU 最新仍为 4.00%（截至 2026-10-11 未变）",
-    "nextMeeting": { "label": "10月FOMC（10/27-28）", "date": "2026-10-27" },
+    "rateNote": "2026-09-16 会议加息 25bp（9/17 起生效，2025-12 月以来首次利率调整）；目标上限 FRED DFEDTARU 最新仍为 4.00%（截至 2026-10-13 未变）",
+    "nextMeeting": {
+      "label": "10月FOMC（10/27-28）",
+      "date": "2026-10-27"
+    },
     "schedule": [
-      { "date": "2026-01-28", "label": "1月FOMC", "type": "决议+纪要", "status": "已结束" },
-      { "date": "2026-03-18", "label": "3月FOMC", "type": "决议+SEP", "status": "已结束" },
-      { "date": "2026-04-29", "label": "4月FOMC", "type": "决议+纪要", "status": "已结束" },
-      { "date": "2026-06-17", "label": "6月FOMC", "type": "决议+SEP", "status": "已结束" },
-      { "date": "2026-07-29", "label": "7月FOMC", "type": "决议+纪要", "status": "已结束" },
-      { "date": "2026-09-16", "label": "9月FOMC", "type": "决议+SEP", "status": "已结束" },
-      { "date": "2026-10-27", "label": "10月FOMC（10/27-28）", "type": "决议+纪要", "status": "待召开", "cutProb": "约10%" },
-      { "date": "2026-12-08", "label": "12月FOMC（12/8-9）", "type": "决议+SEP", "status": "待召开", "cutProb": "约25%" }
+      {
+        "date": "2026-01-28",
+        "label": "1月FOMC",
+        "type": "决议+纪要",
+        "status": "已结束"
+      },
+      {
+        "date": "2026-03-18",
+        "label": "3月FOMC",
+        "type": "决议+SEP",
+        "status": "已结束"
+      },
+      {
+        "date": "2026-04-29",
+        "label": "4月FOMC",
+        "type": "决议+纪要",
+        "status": "已结束"
+      },
+      {
+        "date": "2026-06-17",
+        "label": "6月FOMC",
+        "type": "决议+SEP",
+        "status": "已结束"
+      },
+      {
+        "date": "2026-07-29",
+        "label": "7月FOMC",
+        "type": "决议+纪要",
+        "status": "已结束"
+      },
+      {
+        "date": "2026-09-16",
+        "label": "9月FOMC",
+        "type": "决议+SEP",
+        "status": "已结束"
+      },
+      {
+        "date": "2026-10-27",
+        "label": "10月FOMC（10/27-28）",
+        "type": "决议+纪要",
+        "status": "待召开",
+        "cutProb": "约10%"
+      },
+      {
+        "date": "2026-12-08",
+        "label": "12月FOMC（12/8-9）",
+        "type": "决议+SEP",
+        "status": "待召开",
+        "cutProb": "约15%"
+      }
     ],
     "analysis": [
       "9月16日会议加息25bp至3.75%-4.00%（9/17生效），为2025-12月以来首次利率调整，会后基调偏鹰",
-      "下次会议10月27-28日临近；市场对10月再度调整预期不高，关注通胀与就业数据",
-      "美债长端收益率自二十余年高位回落、10年期拍卖需求旺盛，利率预期边际转松，利好贵金属与成长股",
-      "官方日历确认2026年剩余两次会议：10/27-28、12/8-9（12月含经济预测SEP）；今晚美国哥伦布日债市休市"
+      "下次会议10月27-28日临近；掉期交易员认为本月加息概率较低，市场等待本周晚些公布的美国CPI数据",
+      "美债长端收益率自二十余年高位回落，利率预期边际转松，利好贵金属与成长股",
+      "官方日历确认2026年剩余两次会议：10/27-28、12/8-9（12月含经济预测SEP）"
     ],
     "events": [
-      { "title": "FOMC会议纪要（9月15-16日会议）", "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm", "date": "2026-10-07" },
-      { "title": "FOMC声明（9月会议）", "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm", "date": "2026-09-16" },
-      { "title": "FOMC经济预测（9月会议 SEP）", "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm", "date": "2026-09-16" },
-      { "title": "FOMC会议纪要（7月28-29日会议）", "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm", "date": "2026-08-19" }
+      {
+        "title": "FOMC会议纪要（9月15-16日会议）",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "FOMC声明（9月会议）",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "FOMC经济预测（9月会议 SEP）",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+        "date": "2026-09-16"
+      },
+      {
+        "title": "FOMC会议纪要（7月28-29日会议）",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+        "date": "2026-08-19"
+      }
     ]
   },
   "strategy": {
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "strategies": [
       {
-        "sector": "银行 · 红利",
-        "icon": "🏦",
-        "color": "#E8A33D",
-        "bg": "rgba(232,163,61,0.15)",
+        "sector": "军工 · 地缘",
+        "icon": "🛡️",
+        "color": "#FF8A5B",
+        "bg": "rgba(255,138,91,0.15)",
         "signal": "关注配置",
         "signalClass": "hold",
-        "signalIcon": "🛡️",
-        "risk": "较低",
-        "riskPct": 30,
-        "riskColor": "#2EC4B6",
-        "logic": "今日普跌中银行ETF逆势收涨2.12%，领涨防御。资金高低切换、成长杀跌，低估值高分红板块避风港属性凸显；高盛发布报告看好银行息差与稳健性（预期汇丰净利息收入受资产负值表扩张及较高利率环境支撑）。震荡市可作为底仓配置，注意与成长风格跷跷板。",
-        "border": "sector-bank"
+        "signalIcon": "📍",
+        "risk": "中高",
+        "riskPct": 60,
+        "riskColor": "#F5A623",
+        "logic": "今日军工ETF盘中+2.27%领涨。催化来自地缘：葫芦岛海事局发布航行警告，10/13 14-24时渤海部分海域军事演习；莫斯科遭417架无人机袭击、保加利亚货船遇袭、沙特就机场拦截失败启动调查。盘面上军工装备午后冲高、航发科技涨停，中航系（洪都航空涨停、中航沈飞/中航成飞等）跟进。地缘事件驱动弹性大，但事件退潮后或有回吐，宜关注、不宜追高。",
+        "border": "sector-defense"
       },
       {
         "sector": "黄金 · 白银",
-        "icon": "🥇",
+        "icon": "🏆",
         "color": "#E8D48B",
         "bg": "rgba(201,168,76,0.15)",
         "signal": "持有/配置",
         "signalClass": "hold",
-        "signalIcon": "📈",
+        "signalIcon": "📍",
         "risk": "中等",
         "riskPct": 50,
         "riskColor": "#F5A623",
-        "logic": "伦敦金现4185美元(-0.21%)、白银60.90(+0.18%)高位整固，上周五大涨后消化涨幅。中东地缘未平+美债长端收益率回落+央行购金构成中期支撑；今晚美债休市交投清淡。持有为主，急跌是配置窗口，追高需谨慎。",
+        "logic": "伦敦金现4185美元(+0.33%)、日内一度突破4200，白银60.35(+0.12%)。地缘未平（俄乌、中东）+央行购金+美债长端收益率回落构成中期支撑；掉期交易员认为本月FOMC加息概率较低，市场等待本周晚些美国CPI。持有为主，急跌是配置窗口，追高需谨慎。",
         "border": "sector-gold"
       },
       {
-        "sector": "半导体设备 · 存储",
-        "icon": "🔧",
+        "sector": "通信 · 光模块",
+        "icon": "📡",
         "color": "#5B8DEF",
         "bg": "rgba(91,141,239,0.15)",
-        "signal": "谨慎关注",
-        "signalClass": "watch",
-        "signalIcon": "👀",
+        "signal": "积极关注",
+        "signalClass": "buy",
+        "signalIcon": "⬆️",
         "risk": "较高",
         "riskPct": 65,
         "riskColor": "#F05A5A",
-        "logic": "今日芯片ETF收跌2.60%，受韩国存储链重挫（SK海力士-4.52%、三星-2.38%）情绪传导拖累。产业逻辑未变：韩半导体展10/14聚焦HBM/物理AI芯片、博通称AI算力需求将超供给。短期亚太科技股波动大，宜等情绪企稳、逢回调分批，不追高。",
-        "border": "sector-semi"
+        "logic": "今日通信ETF盘中+1.60%逆势领涨，光通信获主力资金净流入48.59亿元，中际旭创成交超200亿元、现涨1.61%，CPO概念活跃。催化：村田称AI投资强劲、MLCC订单出货比近1.5；阿里云业务高增预期。AI算力capex逻辑强化，但板块位置偏高、波动大，宜分批参与、注意获利回吐。",
+        "border": "sector-comm"
       },
       {
-        "sector": "传媒 · AI应用",
-        "icon": "🎬",
-        "color": "#F05A8A",
-        "bg": "rgba(240,90,138,0.15)",
+        "sector": "半导体设备 · 存储",
+        "icon": "🔬",
+        "color": "#E8B54B",
+        "bg": "rgba(232,181,75,0.15)",
         "signal": "谨慎关注",
         "signalClass": "watch",
         "signalIcon": "👀",
         "risk": "较高",
-        "riskPct": 70,
+        "riskPct": 68,
         "riskColor": "#F05A5A",
-        "logic": "传媒ETF逆势收涨0.99%、影视ETF+2.65%，普跌中相对抗跌，AI视频/影视/游戏行情延续。题材热度高但拥挤度上升、高位波动大；在存量博弈下建议控制仓位、关注有业绩与内容储备的影视/游戏龙头，避免情绪高点追入。",
-        "border": "sector-media"
+        "logic": "芯片ETF盘中-0.31%、科创50 -0.14%，较上周五明显回稳但仍受韩国存储链重挫（KOSPI-5.46%）情绪压制。产业面偏强：村田拟追加MLCC产能、粤芯半导体今日登陆创业板、韩国半导体展10/14开幕聚焦HBM/物理AI芯片。短线等情绪企稳、逢回调分批，不追高。",
+        "border": "sector-storage"
       }
     ]
   },
   "tomorrow": {
-    "date": "2026-10-13",
-    "headline": "缩量普跌后关注情绪修复与量能，苹果发布会、韩国半导体展为主要催化",
+    "date": "2026-10-14",
+    "headline": "等待美国CPI指引，关注冲高回落后情绪修复与算力/军工主线延续",
     "items": [
-      "10/13（周二）A股：关注今日缩量杀跌后能否止跌企稳、成交能否重回1.9万亿上方，指数能否守住3800点一线",
-      "科技股情绪：韩国KOSPI大跌3.65%后亚太科技链能否企稳；美股今晚正常交易、债市因哥伦布日休市，留意纳指与芯片股表现",
-      "苹果催化：苹果10/13“Welcome home”发布会（或携ADT推智能家居中枢），跟踪消费电子/果链、AI终端",
-      "半导体：韩国半导体展10/14开幕，HBM与物理AI芯片为核心看点，关注存储/设备产业链情绪修复",
-      "贵金属与地缘：金银高位整固，跟踪中东局势、美债长端收益率与美元；王毅10/14-20访问东盟四国，关注区域外交动向"
+      "10/14（周三）A股：关注今日冲高回落后能否企稳、成交能否续放量至1.5万亿上方，上证3800点一线得失",
+      "美国CPI：本周晚些公布，市场等待通胀数据判断美联储路径，关注其对美债收益率、美元与贵金属的影响",
+      "半导体：韩国半导体展10/14开幕，聚焦HBM与物理AI芯片；村田MLCC订单出货比近1.5，关注被动元件/存储链",
+      "地缘：莫斯科遭417架无人机袭击、保加利亚货船遇袭、中东局势与渤海军演，关注军工/贵金属避险与油价",
+      "算力/光通信：主力资金净流入光通信48.59亿、中际旭创成交超200亿，关注算力链与CPO概念的延续性"
     ]
   }
 }

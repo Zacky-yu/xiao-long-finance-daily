@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/13 21:32:07",
+ "generated_at": "2026/10/13 21:52:15",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "The Process of Buying Global IPv4 Through Each RIR for Industrial Networks",
+     "link": "https://roboticsandautomationnews.com/2026/10/13/the-process-of-buying-global-ipv4-through-each-rir-for-industrial-networks/105857/",
+     "pubDate": "Tue, 13 Oct 2026 13:46:40 +0000",
+     "summary": "To buy global IPv4, you acquire the registration rights to an address block through a transfer recorded by a Regional Internet Registry (RIR), such as ARIN, RIPE NCC or APNIC. The purchase agreement sets the terms, but the block only becomes yours once the registry records the transfer under its own",
+     "source": "Robotics & Automation",
+     "zh": "The Process of Buying Global IPv4 Through Each RIR for Industrial Networks"
+    },
+    {
      "title": "Why Route Planning Sits at the Heart of Last-mile Transformation",
      "link": "https://roboticsandautomationnews.com/2026/10/13/why-route-planning-sits-at-the-heart-of-last-mile-transformation-2/105850/",
      "pubDate": "Tue, 13 Oct 2026 13:28:11 +0000",
@@ -583,14 +591,6 @@
      "summary": "As humanoid robot developers race to move their machines from demonstrations and pilot projects into factories and other working environments, another challenge is rapidly coming into focus: how to manufacture these highly complex machines at scale. Building a handful of working humanoids is one thi",
      "source": "Robotics & Automation",
      "zh": "Interview: Humanoid robots are advancing fast. Manufacturing them at scale is the next challenge"
-    },
-    {
-     "title": "New York extends AI companion program in partnership with Intuition Robotics",
-     "link": "https://roboticsandautomationnews.com/2026/10/10/new-york-extends-ai-companion-program-in-partnership-with-intuition-robotics/105806/",
-     "pubDate": "Sat, 10 Oct 2026 11:50:18 +0000",
-     "summary": "The New York State Office for the Aging (NYSOFA) has extended its partnership with Intuition Robotics to continue bringing the ElliQ proactive AI companion to aging New Yorkers at risk of loneliness and social isolation. The partnership extension follows three years of measurable outcomes demonstrat",
-     "source": "Robotics & Automation",
-     "zh": "New York extends AI companion program in partnership with Intuition Robotics"
     },
     {
      "title": "Why humanoid robot demos still fail the generalization test",
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Super El Niño Could Ease Asia’s LNG Supply Concerns",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Super-El-Nio-Could-Ease-Asias-LNG-Supply-Concerns.html",
+     "pubDate": "Tue, 13 Oct 2026 08:30:00 -0500",
+     "summary": "The super El Niño is expected to raise the winter temperatures in South Korea, Japan, and parts of China, potentially easing the gas supply needs in these key Asian LNG importers and leaving more cargoes for Europe, which struggles to fill its gas storage sites to adequate levels for this time of ye",
+     "source": "OilPrice",
+     "zh": "Super El Niño Could Ease Asia’s LNG Supply Concerns"
+    },
+    {
      "title": "Sales Of Used EVs Surge In US",
      "link": "https://cleantechnica.com/2026/10/13/sales-of-used-evs-surge-in-us/",
      "pubDate": "Tue, 13 Oct 2026 13:00:34 +0000",
@@ -1009,14 +1017,6 @@
      "zh": "IMF Warns Middle East War Could Derail Global Economic Growth"
     },
     {
-     "title": "Shell Slams Australia's Plan to Force LNG Producers to Supply Domestic Market",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Slams-Australias-Plan-to-Force-LNG-Producers-to-Supply-Domestic-Market.html",
-     "pubDate": "Tue, 13 Oct 2026 02:00:00 -0500",
-     "summary": "Shell has spoken out against a plan by the Australian government to ensure domestic gas supply by mandating LNG producers to reserve certain volumes of their output for domestic use. “Fundamentally, it's a sledgehammer to crack a nut. And it is an extraordinarily heavy-handed intervention into a mar",
-     "source": "OilPrice",
-     "zh": "Shell Slams Australia's Plan to Force LNG Producers to Supply Domestic Market"
-    },
-    {
      "title": "Qcells aims to build a giant factory for next-gen tandem solar",
      "link": "https://www.canarymedia.com/articles/solar/qcells-aims-to-build-worlds-first-big-factory-for-next-gen-tandem-solar",
      "pubDate": "Tue, 13 Oct 2026 03:00:00 -0400",
@@ -1104,6 +1104,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "STAT+: Pharmalittle: We’re reading about concerns over a rare disease drug, pharma payments to docs, and more",
+     "link": "https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/?utm_campaign=rss",
+     "pubDate": "Tue, 13 Oct 2026 13:29:22 +0000",
+     "summary": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a Neurocrine Biosciences rare disease drug",
+     "source": "STAT News",
+     "zh": "STAT+: Pharmalittle: We’re reading about concerns over a rare disease drug, pharma payments to docs, and more"
+    },
     {
      "title": "STAT+: Takeaways from an evaluation of Google’s diagnostic chatbot, AMIE",
      "link": "https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/?utm_campaign=rss",
@@ -1241,14 +1249,6 @@
      "zh": "Bausch + Lomb swaps CEOs; Merck reveals anticipated eye drug data"
     },
     {
-     "title": "Americans trust science more than peers around the world, survey shows",
-     "link": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
-     "pubDate": "Sat, 10 Oct 2026 23:01:00 +0000",
-     "summary": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
-     "source": "STAT News",
-     "zh": "Americans trust science more than peers around the world, survey shows"
-    },
-    {
      "title": "Sickle Cell Trait Linked to Distinct Malaria Parasite Variants",
      "link": "https://www.genengnews.com/topics/infectious-diseases/sickle-cell-trait-linked-to-distinct-malaria-parasite-variants/",
      "pubDate": "Fri, 09 Oct 2026 18:43:12 +0000",
@@ -1304,6 +1304,14 @@
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+     "link": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+     "pubDate": "Tue, 13 Oct 2026 13:00:00 +0000",
+     "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and vacuum of space, as w",
+     "source": "NASA",
+     "zh": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission"
+    },
     {
      "title": "Anna Shaposhnik, ORBES",
      "link": "https://payloadspace.com/anna-shaposhnik-orbes/",
@@ -1380,7 +1388,7 @@
      "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
      "link": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/",
      "pubDate": "Tue, 13 Oct 2026 04:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 October 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte",
+     "summary": "APODScienceAPODAPOD: 2026 October 13 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a profes",
      "source": "NASA",
      "zh": "APOD: 2026 October 13 – Desert Stairway to Heaven"
     },
@@ -1468,17 +1476,9 @@
      "title": "APOD: 2026 October 12 – Jupiter and the Moons",
      "link": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
      "pubDate": "Mon, 12 Oct 2026 04:05:00 +0000",
-     "summary": "APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte",
+     "summary": "APODScienceAPODAPOD: 2026 October 12 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a profes",
      "source": "NASA",
      "zh": "APOD: 2026 October 12 – Jupiter and the Moons"
-    },
-    {
-     "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
-     "link": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
-     "pubDate": "Mon, 12 Oct 2026 04:00:00 +0000",
-     "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
-     "source": "NASA",
-     "zh": "Antarctic Sea Ice Grows to Its 2026 Maximum"
     },
     {
      "title": "Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images",
@@ -1769,12 +1769,84 @@
    "total": 18,
    "items": [
     {
+     "title": "Apple says the HomeView will not be available in the EU because Siri AI is currently unavailable on iOS there and it is \"working constructively with the EU\" (Hartley Charlton/MacRumors)",
+     "link": "https://www.techmeme.com/261013/p24#a261013p24",
+     "pubDate": "Tue, 13 Oct 2026 09:46:17 -0400",
+     "summary": "Hartley Charlton / MacRumors : Apple says the HomeView will not be available in the EU because Siri AI is currently unavailable on iOS there and it is &ldquo;working constructively with the EU&rdquo; &nbsp; &mdash;&nbsp; Apple's new HomeView smart home hub will not be available in the European Union",
+     "source": "Techmeme",
+     "zh": "Apple says the HomeView will not be available in the EU because Siri AI is currently unavailable on iOS there and it is \"working constructively with the EU\" (Hartley Charlton/MacRumors)"
+    },
+    {
+     "title": "真正的出海，不是把产品卖到海外，而是把企业重做成全球组织",
+     "link": "https://www.huxiu.com/article/4897255.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 21:38:56 +0800",
+     "summary": "本文来自微信公众号： ToB产品创新研习社 ，作者：大D 一个海外采购商想开发一款新的家居产品。 过去，他可能需要先找设计师，再找供应商，再发询盘，再比较报价，最后把样品、合规文件和交付周期一项项核对。 现在，他只需要把一个模糊的想法输入AI：产品面向谁、准备在哪个国家销售、希望控制在什么价格区间。 几分钟后，系统可以给出产品方案、市场信息、供应商候选、合规提示，甚至生成一批询盘。 但有一个动作，AI还没有替他完成：替他决定向谁下单，以及是否接受这个供应商的承诺。 这不是技术还不够先进。 恰恰相反，这是一个更重要的信号： 真正的出海，不是把更多工作交给AI，而是重新划分哪些工作可以自动化，哪些",
+     "source": "虎嗅",
+     "zh": "真正的出海，不是把产品卖到海外，而是把企业重做成全球组织"
+    },
+    {
+     "title": "Apple refreshes its Homepod mini with a new chip and $149 price tag",
+     "link": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+     "pubDate": "Tue, 13 Oct 2026 13:38:03 +0000",
+     "summary": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
+     "source": "TechCrunch",
+     "zh": "Apple refreshes its Homepod mini with a new chip and $149 price tag"
+    },
+    {
+     "title": "Apple’s new smart home line-up includes a smart lock, thermostat and video doorbells",
+     "link": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+     "pubDate": "Tue, 13 Oct 2026 13:37:19 +0000",
+     "summary": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
+     "source": "TechCrunch",
+     "zh": "Apple’s new smart home line-up includes a smart lock, thermostat and video doorbells"
+    },
+    {
+     "title": "一只18A“超购王”的停摆：停牌半年、调出港股通，中慧生物年内第三位董事辞任",
+     "link": "https://www.tmtpost.com/8167657.html",
+     "pubDate": "Tue, 13 Oct 2026 21:37:12 +0800",
+     "summary": "密集人事迭代，全部发生在年报难产、独立法证调查推进、复牌遥遥无期的特殊窗口期。",
+     "source": "钛媒体",
+     "zh": "一只18A“超购王”的停摆：停牌半年、调出港股通，中慧生物年内第三位董事辞任"
+    },
+    {
+     "title": "宝可梦联名版 Beats Pill 蓝牙音箱公布，10 月 15 日苹果官网发售",
+     "link": "https://www.ithome.com/1/012/574.htm",
+     "pubDate": "Tue, 13 Oct 2026 13:35:09 GMT",
+     "summary": "IT之家 10 月 13 日消息，宝可梦公司今天宣布，全新 Pokémon × Beats Pill 无线蓝牙音箱即将登场。这款联名产品将于太平洋夏令时 10 月 15 日 8:00（北京时间 23:00）， 在苹果官网等渠道开售 。 IT之家了解到，这款音箱以惹人喜爱的皮卡丘和神秘又可爱的谜拟丘为设计元素，其中皮卡丘看起来有几分担忧。产品自带呼应机身配色的挂绳， 配备独特精灵球配饰 ，让您随时随地享受音乐乐趣。 同时，这款音箱拥有较为出色的音质， 最长续航可达 24 小时 ，内部采用密封设计，具备防尘防水能力，适合居家、外出使用。",
+     "source": "IT之家",
+     "zh": "宝可梦联名版 Beats Pill 蓝牙音箱公布，10 月 15 日苹果官网发售"
+    },
+    {
+     "title": "Uber&apos;s head of autonomous mobility and delivery, Sarfraz Maredia, is leaving on November 16 after 12+ years at Uber, the latest exit from its autonomous unit (Natalie Lung/Bloomberg)",
+     "link": "https://www.techmeme.com/261013/p23#a261013p23",
+     "pubDate": "Tue, 13 Oct 2026 09:35:01 -0400",
+     "summary": "Natalie Lung / Bloomberg : Uber's head of autonomous mobility and delivery, Sarfraz Maredia, is leaving on November 16 after 12+ years at Uber, the latest exit from its autonomous unit &nbsp; &mdash;&nbsp; An Uber Technologies Inc. executive overseeing the company's global autonomous efforts across ",
+     "source": "Techmeme",
+     "zh": "Uber&apos;s head of autonomous mobility and delivery, Sarfraz Maredia, is leaving on November 16 after 12+ years at Uber, the latest exit from its autonomous unit (Natalie Lung/Bloomberg)"
+    },
+    {
+     "title": "The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds",
+     "link": "https://www.wired.com/story/new-york-comic-con-panel/",
+     "pubDate": "Tue, 13 Oct 2026 13:30:00 +0000",
+     "summary": "The team behind director Takashi Yamazaki’s new film created their kaiju roars by setting up speakers on top of an outdoor dam. The people walking by weren’t prepared for what they heard.",
+     "source": "WIRED",
+     "zh": "The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds"
+    },
+    {
      "title": "苹果：Siri AI 将支持 Apple TV 4K 第二代、第三代",
      "link": "https://www.ithome.com/1/012/573.htm",
      "pubDate": "Tue, 13 Oct 2026 13:26:40 GMT",
      "summary": "IT之家 10 月 13 日消息，苹果今天宣布推出第四代 Apple TV 4K，采用 A19 芯片，支持 Siri AI。 IT之家注意到，苹果今天还为老机用户带来了好消息：第二代、第三代的 Apple TV 4K 也能用上 Siri AI。 苹果官方在新闻稿表示：“ Siri AI 将以测试版形式登陆第二代及更新款 Apple TV 4K ，正式推出时支持美国、澳大利亚、加拿大、印度、新西兰、新加坡、南非和英国的英语用户。” 作为参考，Apple TV 4K （第二代）发布于 2021 年，采用 A12 仿生芯片，提供 32GB/64GB 容量；Apple TV 4K（第三代）发布于 20",
      "source": "IT之家",
      "zh": "苹果：Siri AI 将支持 Apple TV 4K 第二代、第三代"
+    },
+    {
+     "title": "汽车公司不愿降价促销了",
+     "link": "https://www.huxiu.com/article/4897252.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 21:26:22 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：武凯 汽车市场传统的“金九”销售旺季在今年有些哑火。乘联分会数据显示，2026年9月全国乘用车市场零售161.8万辆，同比下降28%，创年内最大单月同比降幅。 燃油车和新能源汽车同步承压。9月国内燃油车零售同比下降43%，其中纯燃油车同比下降49%，普通混合动力车同比增长25%。新能源汽车9月零售渗透率增至67%，再创历史新高，但销量同比下降16.7%。 乘联分会负责人崔东树在接受界面新闻等媒体采访时表示，去年同期汽车销量基数较高，今年较难实现突破。去年9月，国内乘用车市场零售224.1万辆，同比增长6.3%，环比增长11%，是2021年至2025年同期",
+     "source": "虎嗅",
+     "zh": "汽车公司不愿降价促销了"
     },
     {
      "title": "Apple HomeView demo: a square screen with a personalized, iPhone-like experience based on facial recognition, up to six users, Siri AI, and a closed ecosystem (Nicole Nguyen/Wall Street Journal)",
@@ -1833,17 +1905,9 @@
      "zh": "Apple makes another push into the smart home market with HomeView"
     },
     {
-     "title": "苹果 HomePod mini 2 智能音箱发布后突然提价：国行 999 元涨至 1099 元",
-     "link": "https://www.ithome.com/1/012/570.htm",
-     "pubDate": "Tue, 13 Oct 2026 13:14:07 GMT",
-     "summary": "IT之家 10 月 13 日消息，苹果在今天的活动中正式推出了 HomePod mini 2 音箱，IT之家注意到，苹果官网在今天 21:00 发布产品时，显示该机国行价格为 999 元，但目前苹果悄悄修改了价格，调整为 1099 元。IT之家附苹果官网商品页（ 点此访问 ）。 系列音箱可选蓝色、午夜色、白色、黄色、橙色五种配色，采用全频驱动单元和双无源辐射器，可呈现浑厚低音和清澈高音，支持立体声组合，支持声音识别、温湿度传感，无线连接升级到 Wi-Fi 6E，在海外支持苹果 Siri AI 功能。音箱附带 20W 适配器。",
-     "source": "IT之家",
-     "zh": "苹果 HomePod mini 2 智能音箱发布后突然提价：国行 999 元涨至 1099 元"
-    },
-    {
      "title": "澳洲经济，双速已死",
      "link": "https://www.huxiu.com/article/4897240.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 21:12:17 +0800",
+     "pubDate": "Tue, 13 Oct 2026 21:12:18 +0800",
      "summary": "本文来自微信公众号： 东针商略 ，作者：东针商略 如果你还把澳大利亚经济看成两列火车，一列矿车，一列普通车，那你手里的信息大概已经过期了。 2025年，西澳贡献了全国45.4%的商品出口，采矿业周中位收入2761澳元，全国所有员工只有1425澳元。可同年12月，全国房价收入比冲到8.4，首付要攒11.2年，25到34岁家庭的住房拥有率从1981年的61%掉到43%。 这几组数字，其实已经说明了澳大利亚的经济分化换坐标了，州与行业的旧边界还在，但家庭命运越来越多由资产、地点、代际和平台决定。 双速经济可以解释过去二十年的资源繁荣，却解释不了今天一个高薪矿工、一个悉尼租户、一个区域小城家庭为什么可",
      "source": "虎嗅",
      "zh": "澳洲经济，双速已死"
@@ -1860,7 +1924,7 @@
      "title": "苹果新款 Apple TV 4K 发布：2399 港元，A19 芯片、Siri AI、内置麦克风",
      "link": "https://www.ithome.com/1/012/569.htm",
      "pubDate": "Tue, 13 Oct 2026 13:06:34 GMT",
-     "summary": "IT之家 10 月 13 日消息，苹果新款 Apple TV 4K 今日正式发布。该产品将于 11 月 13 日起正式发售， 售价 2,399 港元 （IT之家注：现汇率约合 2,050 元人民币） 。 据官方介绍，Apple TV 4K 支持杜比视界和 HDR10+，可呈现生动逼真的 4K 画面，让每一个细节都栩栩如生。该机支持空间音频和杜比全景声功能，营造宛如四面八方而来的环绕立体声。 规格方面，Apple TV 4K 搭载 A19 芯片，CPU 性能相比上一代提升 50%，GPU 性能提升最高 2 倍，带来更快的响应速度和流畅播放体验。当然最重要的是， 现在 AppleTV 终于支持了 ",
+     "summary": "IT之家 10 月 13 日消息，苹果新款 Apple TV 4K 今日正式发布。该产品将于 11 月 13 日起正式发售， 售价 2,399 港元 （IT之家注：现汇率约合 2,050 元人民币） 。 据官方介绍，Apple TV 4K 支持杜比视界和 HDR10+，可呈现生动逼真的 4K 画面，让每一个细节都栩栩如生。该机支持空间音频和杜比全景声功能，营造宛如四面八方而来的环绕立体声。 规格方面，Apple TV 4K 搭载 A19 芯片，CPU 性能相比上一代提升 50%，GPU 性能提升最高 2 倍，带来更快的响应速度和流畅播放体验。当然最重要的是， 现在 Apple TV 终于支持了",
      "source": "IT之家",
      "zh": "苹果新款 Apple TV 4K 发布：2399 港元，A19 芯片、Siri AI、内置麦克风"
     },
@@ -1879,14 +1943,6 @@
      "summary": "Apple : Apple unveils the $149 HomePod mini 2, with an S10 chip, &ldquo;Sound Glow&rdquo; interactive lighting, and Siri AI via a future update, in five colors, shipping October 30 &nbsp; &mdash;&nbsp; With a profoundly more capable and conversational Siri AI, new ways to enjoy music, and a more imm",
      "source": "Techmeme",
      "zh": "Apple unveils the $149 HomePod mini 2, with an S10 chip, \"Sound Glow\" interactive lighting, and Siri AI via a future update, in five colors, shipping October 30 (Apple)"
-    },
-    {
-     "title": "Sqlthon – A lightweight Pythonic layer for SQLite",
-     "link": "https://github.com/saums-1391/sqlthon",
-     "pubDate": "Tue, 13 Oct 2026 13:03:48 +0000",
-     "summary": "Article URL: https://github.com/saums-1391/sqlthon Comments URL: https://news.ycombinator.com/item?id=50071041 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Sqlthon – A lightweight Pythonic layer for SQLite"
     },
     {
      "title": "苹果 HomePod mini 2 智能音箱发布：五种配色可选，海外支持 Siri AI，1099 元",
@@ -1908,7 +1964,7 @@
      "title": "Apple HomeView",
      "link": "https://www.apple.com/apple-homeview/",
      "pubDate": "Tue, 13 Oct 2026 13:02:12 +0000",
-     "summary": "Article URL: https://www.apple.com/apple-homeview/ Comments URL: https://news.ycombinator.com/item?id=50071017 Points: 57 # Comments: 52",
+     "summary": "Article URL: https://www.apple.com/apple-homeview/ Comments URL: https://news.ycombinator.com/item?id=50071017 Points: 75 # Comments: 80",
      "source": "Hacker News",
      "zh": "Apple HomeView"
     },
@@ -1916,17 +1972,9 @@
      "title": "苹果首款智能家庭中枢 HomeView 发布：售价 299 美元，11 月 13 日开售",
      "link": "https://www.ithome.com/1/012/566.htm",
      "pubDate": "Tue, 13 Oct 2026 13:00:02 GMT",
-     "summary": "IT之家 10 月 13 日消息，苹果刚刚推出了全新的 Apple HomeView 智能家居管理设备，标准版与壁挂版定价均为 299 美元 （IT之家注：现汇率约合 2,005 元人民币） ，首批上市国家（澳大利亚、加拿大、印度、新西兰、英国和美国）今日开启预购，后续新加坡于 10 月 15 日开启预购，均于 11 月 13 日正式开售。 该产品配备 7 英寸 Liquid Retina 显示屏，整合音乐播放、FaceTime 视频通话、家庭监控和智能家居控制等功能，并搭载基于 Apple Intelligence 的 Siri AI。 苹果表示，该设备支持面部识别，可根据不同家庭成员切换个",
+     "summary": "IT之家 10 月 13 日消息，苹果刚刚推出了全新的 Apple HomeView 智能家居管理设备，标准版与壁挂版定价均为 299 美元 （IT之家注：现汇率约合 2,005 元人民币） ，首批上市国家（澳大利亚、加拿大、印度、新西兰、英国和美国）今日开启预购，后续新加坡于 10 月 15 日开启预购，均于 11 月 13 日正式开售。 该产品搭载 A18 芯片，配备 7 英寸（实际 6.98 英寸）Liquid Retina 显示屏（IPS 面板，1088×1088 像素分辨率，220ppi，支持原彩显示，自带防指纹疏油层），还配备了一颗 1200 万像素摄像头（ƒ/2.4 光圈），整合",
      "source": "IT之家",
      "zh": "苹果首款智能家庭中枢 HomeView 发布：售价 299 美元，11 月 13 日开售"
-    },
-    {
-     "title": "Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’",
-     "link": "https://www.wired.com/story/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/",
-     "pubDate": "Tue, 13 Oct 2026 13:00:00 +0000",
-     "summary": "I got an early glimpse of Apple’s biggest push into the smart home in years.",
-     "source": "WIRED",
-     "zh": "Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’"
     },
     {
      "title": "The Apple HomeView Is Like a Giant Apple Watch for the Home",
@@ -1937,28 +1985,12 @@
      "zh": "The Apple HomeView Is Like a Giant Apple Watch for the Home"
     },
     {
-     "title": "24岁吃播之死：把暴食症做成生意，就再也没停下来",
-     "link": "https://www.huxiu.com/article/4897233.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 20:55:57 +0800",
-     "summary": "本文来自微信公众号： 识格 ，作者：识格 前两天，大家可能都刷到一条新闻：一个24岁的吃播博主走了。 她叫陈紫怡，网名“干饭莹”，120多万粉丝，做吃播第六年。 8月14日，她发了最后一条视频：反复吃，钾流失，住院了。 三天后，心脏停了。 讣告里没写死因，据媒体报道，长期低钾引发心搏骤停。 这个死因听着挺陌生。一个人，怎么会被“吃”这件事送走？ 今天跟大家讲讲，不是追热点，而是这里有个死结，我觉得值得所有人看一眼，哪怕你从来不看吃播。 先说说“低钾”是个啥。 医学上有个标准：正常人血钾浓度是3.5到5.5，低于2.5，就是重度低钾，属于急症，可以直接引发心搏骤停。 她生前在直播里自己说过，钾低",
-     "source": "虎嗅",
-     "zh": "24岁吃播之死：把暴食症做成生意，就再也没停下来"
-    },
-    {
-     "title": "Apple unveils the $299 Apple HomeView, a 7\" smart display with an A18 chip, tabletop and wall-mounted versions, and \"HomeView software\", shipping November 13 (Julian Chokkattu/Wired)",
-     "link": "https://www.techmeme.com/261013/p18#a261013p18",
-     "pubDate": "Tue, 13 Oct 2026 08:55:05 -0400",
-     "summary": "Julian Chokkattu / Wired : Apple unveils the $299 Apple HomeView, a 7\" smart display with an A18 chip, tabletop and wall-mounted versions, and &ldquo;HomeView software&rdquo;, shipping November 13 &nbsp; &mdash;&nbsp; With customizable &ldquo;faces,&rdquo; this 7-inch smart display is a unique hybri",
-     "source": "Techmeme",
-     "zh": "Apple unveils the $299 Apple HomeView, a 7\" smart display with an A18 chip, tabletop and wall-mounted versions, and \"HomeView software\", shipping November 13 (Julian Chokkattu/Wired)"
-    },
-    {
-     "title": "美银：美联储10月加息，将成美股最大利好",
-     "link": "https://www.huxiu.com/article/4897232.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 20:50:32 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：刘蕊 当全球股票市场投资者仍对“加息”二字避之不及之时，美国银行策略师迈克尔·哈特尼特（Michael Hartnett）却抛出了一个反直觉的判断：若美联储选择在10月主动加息，这非但不是利空，反而可能成为支撑风险资产、托底美股的最大利好。 市场的病根并非短期利率 通常来说，美联储加息意味着货币政策收紧，这被普遍认为是对风险资产的利空。 然而哈特尼特的逻辑核心在于：当下市场最棘手的问题并非短期利率本身，而是美国长期国债收益率的持续攀升。 在过去一周，美国10年期国债收益率一度触及5.36%，30年期收益率更是创下2002年以来新高。在一片恐慌情绪中，市场甚",
-     "source": "虎嗅",
-     "zh": "美银：美联储10月加息，将成美股最大利好"
+     "title": "Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’",
+     "link": "https://www.wired.com/story/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/",
+     "pubDate": "Tue, 13 Oct 2026 13:00:00 +0000",
+     "summary": "I got an early glimpse of Apple’s biggest push into the smart home in years.",
+     "source": "WIRED",
+     "zh": "Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’"
     },
     {
      "title": "天价离婚落定，猪周期未醒：神农集团站上关口",
@@ -1969,44 +2001,12 @@
      "zh": "天价离婚落定，猪周期未醒：神农集团站上关口"
     },
     {
-     "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
-     "link": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
-     "pubDate": "Tue, 13 Oct 2026 12:40:00 +0000",
-     "summary": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
-     "source": "TechCrunch",
-     "zh": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage"
-    },
-    {
      "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
      "link": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
      "pubDate": "Tue, 13 Oct 2026 12:26:36 +0000",
-     "summary": "Article URL: https://machinelearning.apple.com/research/distributed-gpu-cloud Comments URL: https://news.ycombinator.com/item?id=50070593 Points: 10 # Comments: 3",
+     "summary": "Article URL: https://machinelearning.apple.com/research/distributed-gpu-cloud Comments URL: https://news.ycombinator.com/item?id=50070593 Points: 30 # Comments: 8",
      "source": "Hacker News",
      "zh": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs"
-    },
-    {
-     "title": "科瑞思跨界收购宏钢封装押注光电子，深创投停牌前一月蹊跷减资退场｜并购一线",
-     "link": "https://www.tmtpost.com/8167551.html",
-     "pubDate": "Tue, 13 Oct 2026 20:03:14 +0800",
-     "summary": "停牌前一个月，标的唯一外部机构股东深创投蹊跷减资退场。",
-     "source": "钛媒体",
-     "zh": "科瑞思跨界收购宏钢封装押注光电子，深创投停牌前一月蹊跷减资退场｜并购一线"
-    },
-    {
-     "title": "Mozilla Introduces Firefox Enterprise",
-     "link": "https://www.firefox.com/en-US/enterprise/",
-     "pubDate": "Tue, 13 Oct 2026 12:00:42 +0000",
-     "summary": "Article URL: https://www.firefox.com/en-US/enterprise/ Comments URL: https://news.ycombinator.com/item?id=50070302 Points: 96 # Comments: 51",
-     "source": "Hacker News",
-     "zh": "Mozilla Introduces Firefox Enterprise"
-    },
-    {
-     "title": "Sources: Anthropic and OpenAI have pushed for substantial control over what external AI evaluators can publish, out of concern that trade secrets could leak (Aditya Soni/Reuters)",
-     "link": "https://www.techmeme.com/261013/p17#a261013p17",
-     "pubDate": "Tue, 13 Oct 2026 07:45:00 -0400",
-     "summary": "Aditya Soni / Reuters : Sources: Anthropic and OpenAI have pushed for substantial control over what external AI evaluators can publish, out of concern that trade secrets could leak &nbsp; &mdash;&nbsp; Anthropic and OpenAI have sought significant control over what outside evaluators can publish, con",
-     "source": "Techmeme",
-     "zh": "Sources: Anthropic and OpenAI have pushed for substantial control over what external AI evaluators can publish, out of concern that trade secrets could leak (Aditya Soni/Reuters)"
     }
    ]
   },
@@ -2016,6 +2016,54 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "You can buy the new, improved Siri Remote for your existing Apple TV 4K",
+     "link": "https://9to5mac.com/2026/10/13/you-can-buy-the-new-improved-siri-remote-for-your-existing-apple-tv-4k/",
+     "pubDate": "Tue, 13 Oct 2026 13:46:26 +0000",
+     "summary": "Today Apple unveiled the long-awaited new Apple TV 4K model , which includes an updated Siri Remote with a built-in speaker as part of its Find My and Precision Finding support. But even if you’re not upgrading, you can still buy the new Siri Remote for your current Apple TV. more…",
+     "source": "9to5Mac",
+     "zh": "You can buy the new, improved Siri Remote for your existing Apple TV 4K"
+    },
+    {
+     "title": "Apple HomeView hands-on: Siri AI is your new roommate",
+     "link": "https://www.engadget.com/2285178/apple-homeview-hands-on-siri-ai/",
+     "pubDate": "Tue, 13 Oct 2026 13:46:19 +0000",
+     "summary": "It's more than just an enlarged Apple Watch.",
+     "source": "Engadget",
+     "zh": "Apple HomeView hands-on: Siri AI is your new roommate"
+    },
+    {
+     "title": "Character.AI just filed for bankruptcy, and former foe Disney may buy it for parts",
+     "link": "https://www.engadget.com/2285177/character-ai-just-filed-for-bankruptcy-and-former-foe-disney-may-buy-it-for-parts/",
+     "pubDate": "Tue, 13 Oct 2026 13:45:10 +0000",
+     "summary": "Character.AI, a controversial generative AI startup that lets users create their own chatbot characters, has filed for Chapter 11 bankruptcy",
+     "source": "Engadget",
+     "zh": "Character.AI just filed for bankruptcy, and former foe Disney may buy it for parts"
+    },
+    {
+     "title": "How to use a ChatGPT Dot when it rolls out to you",
+     "link": "https://www.engadget.com/2281998/how-to-use-opeai-dot-rollout-schedule/",
+     "pubDate": "Tue, 13 Oct 2026 13:45:00 +0000",
+     "summary": "OpenAI is hoping that Dots will make automating online tasks a lot easier. Here's what you'll need to use them, how to set them up and what they're capable of.",
+     "source": "Engadget",
+     "zh": "How to use a ChatGPT Dot when it rolls out to you"
+    },
+    {
+     "title": "Apple reveals its Nest Hub rival: meet the HomeView",
+     "link": "https://www.androidauthority.com/apple-homeview-3722625/",
+     "pubDate": "Tue, 13 Oct 2026 13:33:03 +0000",
+     "summary": "After years of sitting on the sidelines, Apple is coming for Google's smart home lunch.",
+     "source": "Android Authority",
+     "zh": "Apple reveals its Nest Hub rival: meet the HomeView"
+    },
+    {
+     "title": "Apple unveils Apple Home Collection smart home accessories developed with LG and Schneider",
+     "link": "https://9to5mac.com/2026/10/13/apple-unveils-apple-home-collection-smart-home-accessories-developed-with-lg-and-schneider/",
+     "pubDate": "Tue, 13 Oct 2026 13:30:06 +0000",
+     "summary": "Apple today confirmed that it is working with at least two third-party companies to develop a new lineup of smart home accessories, including cameras, thermostats, and a smart lock. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Apple unveils Apple Home Collection smart home accessories developed with LG and Schneider"
+    },
     {
      "title": "Why is your phone overheating while using CarPlay or Android Auto?",
      "link": "https://www.engadget.com/2281992/why-phone-overheating-while-using-android-auto-carplay/",
@@ -2057,6 +2105,14 @@
      "zh": "Everything announced at Apple's 'Welcome Home' event"
     },
     {
+     "title": "If a Chromebook wasn’t for you, Googlebook isn’t either",
+     "link": "https://9to5google.com/2026/10/13/googlebook-chromebook-not-for-you/",
+     "pubDate": "Tue, 13 Oct 2026 13:05:00 +0000",
+     "summary": "Let’s not pretend; if you weren’t sold on a Chromebook, Googlebook isn’t for you either. more…",
+     "source": "9to5Google",
+     "zh": "If a Chromebook wasn’t for you, Googlebook isn’t either"
+    },
+    {
      "title": "Apple announces new Apple TV 4K with upgraded Siri Remote, A19 chip, more",
      "link": "https://9to5mac.com/2026/10/13/apple-announces-new-apple-tv-4k/",
      "pubDate": "Tue, 13 Oct 2026 13:02:28 +0000",
@@ -2073,30 +2129,6 @@
      "zh": "Apple debuts the Apple Home Collection of smart devices, including cameras, thermostats and door locks"
     },
     {
-     "title": "Apple updates the HomePod mini with more audio features and new colors",
-     "link": "https://www.engadget.com/2285033/apple-homepod-mini-2-launch-siri-ai-later/",
-     "pubDate": "Tue, 13 Oct 2026 13:00:00 +0000",
-     "summary": "The new model arrives on October 30, but its Siri AI features are coming later.",
-     "source": "Engadget",
-     "zh": "Apple updates the HomePod mini with more audio features and new colors"
-    },
-    {
-     "title": "Apple refreshes the Apple TV 4K for Siri AI",
-     "link": "https://www.engadget.com/2285043/new-apple-tv-4k-with-siri-ai/",
-     "pubDate": "Tue, 13 Oct 2026 13:00:00 +0000",
-     "summary": "New microphones, a new remote and the new Siri AI are on the company's streaming box.",
-     "source": "Engadget",
-     "zh": "Apple refreshes the Apple TV 4K for Siri AI"
-    },
-    {
-     "title": "Apple unveils HomeView, the company's smart display built for Siri AI",
-     "link": "https://www.engadget.com/2285072/apple-launch-homeview-smart-display-siri-ai/",
-     "pubDate": "Tue, 13 Oct 2026 13:00:00 +0000",
-     "summary": "Two versions will be available in November for $299.",
-     "source": "Engadget",
-     "zh": "Apple unveils HomeView, the company's smart display built for Siri AI"
-    },
-    {
      "title": "Beats and Pokémon team up for new special-edition Beats Pill",
      "link": "https://9to5mac.com/2026/10/13/beats-and-pokemon-team-up-for-new-special-edition-beats-pill/",
      "pubDate": "Tue, 13 Oct 2026 13:00:00 +0000",
@@ -2111,14 +2143,6 @@
      "summary": "The company's latest firmware update for its premium cameras with Type 1 sensors focuses on photography features, while adding anamorphic support for video shooters.",
      "source": "DPReview",
      "zh": "GoPro wants the Mission 1 to be a serious stills camera"
-    },
-    {
-     "title": "Apple unveils new HomeView smart display: pre-order today for $299",
-     "link": "https://9to5mac.com/2026/10/13/apple-homeview-announced-features-price-release-date/",
-     "pubDate": "Tue, 13 Oct 2026 12:59:34 +0000",
-     "summary": "Apple today officially unveiled its new HomeView smart display. HomeView features a 7-inch square display and comes in two versions: one with a speaker base and another for wall mounting. You can pre-order HomeView today for $299 . It will start arriving to customers on November 13. Here’s everythin",
-     "source": "9to5Mac",
-     "zh": "Apple unveils new HomeView smart display: pre-order today for $299"
     },
     {
      "title": "Tired of slow Galaxy Watch 9 charging speeds? This DIY air-cooled charging cradle could do the trick",
@@ -2177,28 +2201,12 @@
      "zh": "Survey shows Google’s recent Gemini downgrade isn’t going down well"
     },
     {
-     "title": "Thinking of upgrading your Charge 6? The $179 Fitbit Edge has a major dealbreaker",
-     "link": "https://www.androidauthority.com/fitbit-edge-vs-charge-6-3721779/",
-     "pubDate": "Tue, 13 Oct 2026 10:30:21 +0000",
-     "summary": "Do Charge 6 owners finally have a viable step up the Google wearable ladder?",
-     "source": "Android Authority",
-     "zh": "Thinking of upgrading your Charge 6? The $179 Fitbit Edge has a major dealbreaker"
-    },
-    {
      "title": "ColorOS 17 starts its global rollout next week, here is the full schedule",
      "link": "https://www.gsmarena.com/coloros_17_starts_its_global_rollout_next_week_here_is_the_full_schedule-news-75018.php",
      "pubDate": "Tue, 13 Oct 2026 12:09:02 +0200",
      "summary": "ColorOS 17 made its debut with the Find X10 Pro Max series in China and now it is ready to follow the phones as they set off on their global journey – the global launch for the Find X10 and Find X10 Pro Max is scheduled for October 21 (Wednesday next week). Obviously, the X10 models will come with v",
      "source": "GSMArena",
      "zh": "ColorOS 17 starts its global rollout next week, here is the full schedule"
-    },
-    {
-     "title": "Apple @ Work Podcast: Addigy announces Intelligence Suite, aimed at bringing AI control to Apple devices",
-     "link": "https://9to5mac.com/2026/10/13/addigy-intelligence-suite/",
-     "pubDate": "Tue, 13 Oct 2026 10:00:00 +0000",
-     "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organiza",
-     "source": "9to5Mac",
-     "zh": "Apple @ Work Podcast: Addigy announces Intelligence Suite, aimed at bringing AI control to Apple devices"
     },
     {
      "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
@@ -2247,14 +2255,6 @@
      "summary": "为成熟的开发者、设计师和创业者，提供一片走向广阔商业市场的沃土。 查看全文",
      "source": "少数派",
      "zh": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官"
-    },
-    {
-     "title": "高端，不只是材质而已：Apple Watch Edition 的前世今生",
-     "link": "https://sspai.com/post/114561",
-     "pubDate": "Tue, 13 Oct 2026 11:09:17 +0800",
-     "summary": "Apple Watch Edition 留下来的，不是一种材料，而是一套做材料的方式。 查看全文",
-     "source": "少数派",
-     "zh": "高端，不只是材质而已：Apple Watch Edition 的前世今生"
     }
    ]
   },
@@ -2265,76 +2265,156 @@
    "total": 13,
    "items": [
     {
+     "title": "Speculative dollar positioning rebounds after midyear pullback",
+     "link": "https://seekingalpha.com/news/4652485-speculative-dollar-positioning-rebounds-after-midyear-pullback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 09:46:19 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Speculative dollar positioning rebounds after midyear pullback"
+    },
+    {
+     "title": "ServiceNow could be the next software 'accelerator,' BNP Paribas says",
+     "link": "https://seekingalpha.com/news/4652484-servicenow-could-be-the-next-software-accelerator-bnp-paribas-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 09:45:53 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ServiceNow could be the next software 'accelerator,' BNP Paribas says"
+    },
+    {
+     "title": "The Cass Index signals a minor freight rebound even as economic headwinds remain",
+     "link": "https://seekingalpha.com/news/4652459-the-cass-index-signals-minor-freight-rebound-even-as-economic-headwinds-remain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 09:44:36 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "The Cass Index signals a minor freight rebound even as economic headwinds remain"
+    },
+    {
+     "title": "First Majestic says agrees in principle with Mexico on tax settlement framework",
+     "link": "https://seekingalpha.com/news/4652467-first-majestic-says-agrees-in-principle-with-mexico-on-tax-settlement-framework?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 09:41:21 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "First Majestic says agrees in principle with Mexico on tax settlement framework"
+    },
+    {
+     "title": "2027 has the ‘most negative flow picture’ for equities since 2002 – Paul Tudor Jones",
+     "link": "https://seekingalpha.com/news/4652482-2027-has-the-most-negative-flow-picture-for-equities-since-2002-paul-tudor-jones?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 09:40:33 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "2027 has the ‘most negative flow picture’ for equities since 2002 – Paul Tudor Jones"
+    },
+    {
+     "title": "美股三大指数走势分化 存储板块延续跌势",
+     "link": "http://finance.eastmoney.com/news/1345,202610133894391137.html",
+     "pubDate": "Tue, 13 Oct 2026 21:40:28 +0800",
+     "summary": "10月13日，美股三大指数走势分化，截至发稿，道指涨0.55%，纳指跌0.11%，标普500指数涨0.05%。 存储板块延续跌势 ，截至发稿， 美光科技 、 SK海力士 跌超4%， 西部数据 跌超6%。 全球要闻 取消20年期美债发行？华尔街猜测：贝森特要“动真格”！ 2001年，美国财政部曾一度因叫停30年期美债发行而令投资者大为震惊；而如今，整整25年的时光过去，美债市场正再度热议：20年期美债是否也将难逃“被砍”的命运。 德意志银行 策略师George Saravelos近日在结束纽约客户拜访后表示，业内“已在私下议论20年期国债即将暂停发售的传闻”。 通胀风险仍在环伺？美联储票委“放鹰",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数走势分化 存储板块延续跌势"
+    },
+    {
+     "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+     "link": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
+     "pubDate": "Tue, 13 Oct 2026 13:40:00 GMT",
+     "summary": "The iPhone maker also announced the new Apple TV 4K and HomePod Mini.",
+     "source": "CNBC",
+     "zh": "Apple releases HomeView smart home hub with screen as showcase for Siri AI"
+    },
+    {
+     "title": "Micron’s stock extends declines as China competition heats up",
+     "link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
+     "pubDate": "Tue, 13 Oct 2026 13:40:00 GMT",
+     "summary": "Even Elon Musk says Chinese memory-chip makers are catching up.",
+     "source": "MarketWatch",
+     "zh": "Micron’s stock extends declines as China competition heats up"
+    },
+    {
      "title": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
      "link": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html",
-     "pubDate": "Tue, 13 Oct 2026 13:29:06 GMT",
+     "pubDate": "Tue, 13 Oct 2026 13:39:37 GMT",
      "summary": "Shkreli was banned from the pharmaceutical industry after a trial found that he organized an illegal scheme to perpetuate a monopoly for the drug Daraprim.",
      "source": "CNBC",
      "zh": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim"
     },
     {
+     "title": "Apple brings it home with new HomeView and Apple TV in time for holidays",
+     "link": "https://seekingalpha.com/news/4652451-apple-brings-it-home-with-new-homeview-and-apple-tv-in-time-for-holidays?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 09:38:48 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Apple brings it home with new HomeView and Apple TV in time for holidays"
+    },
+    {
+     "title": "全球AI交易重挫，费城半导体指数跌超2%，苹果股价再创新高，布油跌超1%",
+     "link": "https://wallstreetcn.com/articles/3783492",
+     "pubDate": "Tue, 13 Oct 2026 21:38:10 +0800",
+     "summary": "全球股市抛售潮持续蔓延，市场对人工智能交易的热情急剧降温，投资者纷纷撤离这一年内最炙手可热的板块。与此同时，华尔街大型银行公布三季度业绩，拉开美国财报季序幕。 周二，美股盘初，纳指跌0.4%，道指涨0.8%，标普500指数跌0.1%，费城半导体指数跌超2%。 存储芯片股普跌，SK海力士跌约6%。高盛涨约3%，公司Q3净营收186.8亿美元，股票交易收入大增72%。苹果股价盘初上涨1.74% 再创历史新高。 现货黄金一度突破4200美元/盎司，避险情绪有所升温。债券市场全面受益于避险资金流入。基准10年期美债收益率下行4个基点至5.20%，布伦特原油跌1.46%至约每桶105美元。 Saxo M",
+     "source": "华尔街见闻",
+     "zh": "全球AI交易重挫，费城半导体指数跌超2%，苹果股价再创新高，布油跌超1%"
+    },
+    {
+     "title": "苹果股价盘初上涨近2% 再创历史新高",
+     "link": "http://finance.eastmoney.com/news/1345,202610133894395676.html",
+     "pubDate": "Tue, 13 Oct 2026 21:35:27 +0800",
+     "summary": "苹果 股价盘初上涨1.74%，报346.89美元/股，总市值报5.06万亿美元，再创 历史新高 。",
+     "source": "东方财富资讯",
+     "zh": "苹果股价盘初上涨近2% 再创历史新高"
+    },
+    {
+     "title": "This one move will save $20,000 on our wedding",
+     "link": "https://www.marketwatch.com/story/this-one-move-will-save-20-000-on-our-wedding-d22e4d24?mod=mw_rss_topstories",
+     "pubDate": "Tue, 13 Oct 2026 13:35:00 GMT",
+     "summary": "Plus: Where we’re cutting back to free up space in our wedding budget for the things we really want on our big day",
+     "source": "MarketWatch",
+     "zh": "This one move will save $20,000 on our wedding"
+    },
+    {
      "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
      "link": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
-     "pubDate": "Tue, 13 Oct 2026 13:27:28 GMT",
+     "pubDate": "Tue, 13 Oct 2026 13:33:24 GMT",
      "summary": "The billionaire investor said that corporate buybacks, along with mergers and acquisitions, that have been a tailwind for the bull market is about to turn.",
      "source": "CNBC",
      "zh": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market"
     },
     {
-     "title": "Long semiconductors are still the most crowded trade as conviction cools",
-     "link": "https://seekingalpha.com/news/4652462-long-semiconductors-is-still-the-most-crowded-trade-as-conviction-cools?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 09:26:55 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Long semiconductors are still the most crowded trade as conviction cools"
+     "title": "高盛：AI资本开支周期逼近拐点，美股三大风险信号已亮两盏",
+     "link": "https://wallstreetcn.com/articles/3783549",
+     "pubDate": "Tue, 13 Oct 2026 21:27:04 +0800",
+     "summary": "标普500指数屡创新高，但市场内部的分化、融资成本上升与AI资本开支增速放缓风险正在累积。高盛资深宏观交易员Bobby Molavi警告，当前美股越来越依赖少数大型科技股的强势表现，专业投资者却难以从指数上涨中获利，市场脆弱性正在上升。 Molavi在最新报告中指出，整个AI生态系统的相关资产规模已达25万亿至30万亿美元，而历史经验显示，股价见顶通常早于资本开支见顶。 判断AI投资周期是否接近拐点，可以观察三大信号：股价与实际盈利背离、信贷市场对AI借款方重新定价，以及资本开支增速实际放缓。目前，前两项信号已经出现。 高盛预测， 超大规模云服务商的资本开支增速可能于2026年三季度见顶，此后",
+     "source": "华尔街见闻",
+     "zh": "高盛：AI资本开支周期逼近拐点，美股三大风险信号已亮两盏"
     },
     {
-     "title": "S&P 500 gainers: Today’s top performers ranked by Quant",
-     "link": "https://seekingalpha.com/news/4652466-sp-500-gainers-todays-top-performers-ranked-by-quant?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 09:24:45 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "S&P 500 gainers: Today’s top performers ranked by Quant"
+     "title": "乐心股份：第五届董事会第十九次会议决议公告",
+     "link": "http://www.eeo.com.cn/2026/1013/1063171.shtml",
+     "pubDate": "Tue, 13 Oct 2026 21:26:45 +0800",
+     "summary": "证券日报网讯10月13日，乐心股份发布公告称，公司于2026年10月13日召开第五届董事会第十九次会议，审议通过《关于补选第五届董事会独立董事的议案》《关于调整部分董事会专门委员会委员的议案》《关于提请召开2026年第五次临时股东会的议案》。 （编辑 赵思卓）",
+     "source": "经济观察网",
+     "zh": "乐心股份：第五届董事会第十九次会议决议公告"
     },
     {
-     "title": "FS Credit Opportunities declares $0.0594 dividend",
-     "link": "https://seekingalpha.com/news/4652470-fs-credit-opportunities-declares-0_0594-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 09:24:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FS Credit Opportunities declares $0.0594 dividend"
+     "title": "微软再推自研AI芯片，算力提高40%，2027年问世",
+     "link": "http://www.eeo.com.cn/2026/1013/1063168.shtml",
+     "pubDate": "Tue, 13 Oct 2026 21:26:06 +0800",
+     "summary": "中新经纬10月13日电 当地时间10月12日，微软公司在企业网站发文宣布，公司下一代自研AI芯片Azure Maia 300将于2027年推出。 微软表示，Azure Maia 200现已投入生产。从2027年起，将扩展Azure Maia系列，实现多吉瓦级部署，使Maia成为微软产品与服务的主要推理系统。 据微软介绍，Azure Maia 300是一款专为当前新兴的AI工作负载而设计的完整智能系统。通过提升系统的整体效率，与通用图像处理芯片(GPU)相比，预计Azu...",
+     "source": "经济观察网",
+     "zh": "微软再推自研AI芯片，算力提高40%，2027年问世"
     },
     {
-     "title": "ClearBridge Growth Strategy adds ALAB; it exits GWW and CNS",
-     "link": "https://seekingalpha.com/news/4652450-clearbridge-growth-strategy-adds-alab-exits-gww-and-cns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 09:21:41 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ClearBridge Growth Strategy adds ALAB; it exits GWW and CNS"
+     "title": "京蓝科技：2026年第五次临时股东会决议公告",
+     "link": "http://www.eeo.com.cn/2026/1013/1063167.shtml",
+     "pubDate": "Tue, 13 Oct 2026 21:23:42 +0800",
+     "summary": "证券日报网讯10月13日，京蓝科技发布公告称，公司于2026年10月13日召开2026年第五次临时股东会，审议通过《关于拟以公开网络拍卖方式转让中科鼎实环境工程有限公司77.7152％股权及相关债权的议案》等多项议案。 （编辑 吴越）",
+     "source": "经济观察网",
+     "zh": "京蓝科技：2026年第五次临时股东会决议公告"
     },
     {
-     "title": "BlackRock heads into Q3 earnings with strong inflows and growth expectations",
-     "link": "https://seekingalpha.com/news/4652430-blackrock-heads-into-q3-earnings-with-strong-inflows-and-growth-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 09:21:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BlackRock heads into Q3 earnings with strong inflows and growth expectations"
-    },
-    {
-     "title": "Micron’s stock extends declines as China competition heats up",
-     "link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
-     "pubDate": "Tue, 13 Oct 2026 13:21:00 GMT",
-     "summary": "Even Elon Musk says Chinese memory chip makers are catching up.",
-     "source": "MarketWatch",
-     "zh": "Micron’s stock extends declines as China competition heats up"
-    },
-    {
-     "title": "David Einhorn’s Greenlight Capital Adds PayPal and Comcast in Q2, Exits VSXY",
-     "link": "https://seekingalpha.com/news/4652339-david-einhorns-greenlight-capital-adds-paypal-and-comcast-in-q2-exits-vsxy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 09:20:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "David Einhorn’s Greenlight Capital Adds PayPal and Comcast in Q2, Exits VSXY"
+     "title": "乐心股份：关于召开2026年第五次临时股东会的通知",
+     "link": "http://www.eeo.com.cn/2026/1013/1063166.shtml",
+     "pubDate": "Tue, 13 Oct 2026 21:23:36 +0800",
+     "summary": "证券日报网讯10月13日，乐心股份发布公告称，公司将于2026年10月29日召开2026年第五次临时股东会。 （编辑 吴越）",
+     "source": "经济观察网",
+     "zh": "乐心股份：关于召开2026年第五次临时股东会的通知"
     },
     {
      "title": "Micron drops 5% as tech stocks rattled by China chip breakthrough claims",
@@ -2343,6 +2423,22 @@
      "summary": "Technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
      "source": "CNBC",
      "zh": "Micron drops 5% as tech stocks rattled by China chip breakthrough claims"
+    },
+    {
+     "title": "回购增持不断 沪市主板公司喜报频传",
+     "link": "http://www.eeo.com.cn/2026/1013/1063163.shtml",
+     "pubDate": "Tue, 13 Oct 2026 21:13:11 +0800",
+     "summary": "10月13日，沪市主板公司合计披露回购进展2家次、增持进展1家次。除回购增持相关利好外，4家沪市主板公司提交三季度业绩预增、签订重大合同等其他利好公告。",
+     "source": "经济观察网",
+     "zh": "回购增持不断 沪市主板公司喜报频传"
+    },
+    {
+     "title": "每日机构分析：10月13日",
+     "link": "http://www.eeo.com.cn/2026/1013/1063162.shtml",
+     "pubDate": "Tue, 13 Oct 2026 21:13:09 +0800",
+     "summary": "德商银行：英国经济韧性凸显 预计11月、2027年2月连续加息至4.25% 巴克莱银行：菲律宾通胀反弹但经济走弱 预计10月、12月各加息25基点 新韩银行：印度出台外汇新规抑制衍生品交易 缓解卢比贬值压力 【机构分析】 •日生基础研究所分析师表示，日本企业商品价格预计维持约6%的涨幅。中东地缘风险、AI需求支撑推升存储芯片价格，石油、煤炭、化工品成本抬升并传导至塑料制品，共同推高批发价格。食品饮料...",
+     "source": "经济观察网",
+     "zh": "每日机构分析：10月13日"
     },
     {
      "title": "10月13日东方财富财经晚报（附新闻联播）",
@@ -2407,102 +2503,6 @@
      "summary": "近日，香港证监会发表关于修订《证券市场上市规则》（SMLR）的市场咨询总结。 香港证监会方面表示，鉴于市场于咨询期内普遍支持，拟修订《证券市场上市规则》条例。其中涉及容许对港股上市申请人施加可在上市后持续适用的条件，即监管之手从上市前把关延伸至上市后持续监管。 有关修订将取决于立法程序进度，暂时预计于2027年第一季生效。 此外，香港证监会将引入一项新机制，由证券及 期货 事务上诉审裁处对证监会根据《证券市场上市规则》所作出的决定（包括与施加条件、暂停及恢复交易相关的决定）进行独立覆核，借以加强程序公义和提高透明度。 据了解，新规则下，若上市申请存在需要关注但未致于构成法定反对理由的情况，申请",
      "source": "东方财富资讯",
      "zh": "香港证监会拟修订规则加强新股监管 预计最快2027年生效"
-    },
-    {
-     "title": "LHV Bank names CEO",
-     "link": "https://www.finextra.com/newsarticle/48574/lhv-bank-names-ceo?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 13 Oct 2026 12:23:00 GMT",
-     "summary": "UK-based digital banking app LHV Bank has appointed former NatWest executive Damian Thompson as its chief executive officer and executive director.",
-     "source": "Finextra",
-     "zh": "LHV Bank names CEO"
-    },
-    {
-     "title": "小鹏G9L欧洲开订，智驾走向公众道路体验",
-     "link": "https://wallstreetcn.com/articles/3783547",
-     "pubDate": "Tue, 13 Oct 2026 20:16:56 +0800",
-     "summary": "小鹏在欧洲的布局，正从新车销售和本地生产，延伸到智驾能力的公开体验。 当地时间10月12日，小鹏在巴黎车展发布旗舰SUV G9L，开启欧洲订购，法国市场起售价为74990欧元。同场，小鹏首次在欧洲面向公众开展大规模NGP公开道路体验。新车进入销售环节，辅助驾驶能力走上当地道路，小鹏在欧洲推进的不只是车型扩张，也包括其智能化卖点。 G9L是小鹏面向欧洲高端市场的新车型。新车车长超过5.1米、轴距3.1米，配备800V高压平台、智能泊车等功能。小鹏称，这款车研发历时三年，在26个国家和地区累计完成674万公里道路测试。车身尺寸、补能速度和智能化配置共同构成其产品卖点，法国定价则让这款旗舰车型正式接",
-     "source": "华尔街见闻",
-     "zh": "小鹏G9L欧洲开订，智驾走向公众道路体验"
-    },
-    {
-     "title": "重大突发！IPO涉嫌人为操纵！这只股票紧急暂停交易",
-     "link": "http://finance.eastmoney.com/news/1354,202610133894330944.html",
-     "pubDate": "Tue, 13 Oct 2026 20:08:20 +0800",
-     "summary": "港股IPO大案爆发！ 今日（10月13日）下午，香港证监会公告，已对两个涉嫌参与欺诈计划，意图就IPO股份需求营造虚假或非真实的表象的集团采取行动，并指示港交所自当天上午9时正起，暂停港股上市公司 茶百道 （02555.HK）的股份交易。 香港证监会高度关注，认为 茶百道 的IPO可能曾被人为操纵，意图就其股份需求营造非真实的表象。因此在继续调查期间，有必要暂停 茶百道 的股份交易，以维持有秩序和公平的市场，维护投资大众的利益。 香港证监会行政总裁梁凤仪女士表示：“市场的廉洁稳健是维护公平资本市场和真正投资者信心的基石。我们对任何形式的操纵首次公开招股、操控价格或制造虚假市场的行为奉行零容忍政",
-     "source": "东方财富资讯",
-     "zh": "重大突发！IPO涉嫌人为操纵！这只股票紧急暂停交易"
-    },
-    {
-     "title": "Why the world’s No. 1 fund manager has just changed its mind on bonds for the first time in six years",
-     "link": "https://www.marketwatch.com/story/why-the-worlds-number-one-fund-manager-has-just-changed-its-mind-on-bonds-for-the-first-time-in-six-years-4b1b5490?mod=mw_rss_topstories",
-     "pubDate": "Tue, 13 Oct 2026 12:04:00 GMT",
-     "summary": "After six years, BlackRock finds opportunities in government bonds.",
-     "source": "MarketWatch",
-     "zh": "Why the world’s No. 1 fund manager has just changed its mind on bonds for the first time in six years"
-    },
-    {
-     "title": "分歧加剧！一边大额限购 一边百亿资金出逃 红利基金怎么了？",
-     "link": "http://finance.eastmoney.com/news/1354,202610133894332787.html",
-     "pubDate": "Tue, 13 Oct 2026 20:04:00 +0800",
-     "summary": "市场持续震荡之下，红利资产再度受到关注。 10月伊始，多只红利基金密集发布限购公告，但另一边，红利主题ETF却出现明显资金净流出。指数在涨，资金却在卖，红利资产究竟迎来新一轮配置热潮，还是已经出现阶段性获利了结？ 红利基金密集限购 10月9日，富国基金公告，暂停接受单个基金账户对富国恒生港股通红利低波动ETF发起式联接基金单个基金份额日累计金额超过1000 万元（不含1000 万元）的申购、转换转入及定期定额投资业务申请。 同日，天弘基金也对旗下两只红利基金天弘中证红利低波动100ETF联接、天弘中证央企红利 50指数发起发布限购公告，单日单账户限购金额均为500万元。 银河基金也在10月9日",
-     "source": "东方财富资讯",
-     "zh": "分歧加剧！一边大额限购 一边百亿资金出逃 红利基金怎么了？"
-    },
-    {
-     "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
-     "link": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
-     "pubDate": "Tue, 13 Oct 2026 11:53:45 GMT",
-     "summary": "A Saudi-led coalition fighting the Houthis – a Yemeni militant group backed by Tehran – said it had intercepted another attack on Riyadh.",
-     "source": "CNBC",
-     "zh": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms"
-    },
-    {
-     "title": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss",
-     "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
-     "pubDate": "Tue, 13 Oct 2026 11:50:09 GMT",
-     "summary": "Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment",
-     "source": "Financial Times",
-     "zh": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss"
-    },
-    {
-     "title": "A股再现三季报业绩“预增潮”：3家公司净利预增超5倍",
-     "link": "http://finance.eastmoney.com/news/1354,202610133894313423.html",
-     "pubDate": "Tue, 13 Oct 2026 19:49:39 +0800",
-     "summary": "今日又有多家上市公司披露三季度业绩预告，其中，有3家公司预计前三季度净利增长5倍以上。 富春染织 ：预计前三季度净利润同比增长1348%-1519% 富春染织 公告称，预计2026年前三季度归属于上市公司股东的净利润为3.38亿元-3.78亿元，同比增长1348%-1519%。公司Q3净利润预计1.58亿-1.98亿，Q2净利润1.06亿，据此计算，Q3净利润预计环比增长48%-86%。 公告指出，业绩变动主要系公司持续深化全产业链布局，智能工厂充分释放效能，单位产品能耗和成本明显降低，产品产销量与价格协同攀升所致。 星宸科技 ：预计2026年前三季度净利润同比增长663.13%-697.75",
-     "source": "东方财富资讯",
-     "zh": "A股再现三季报业绩“预增潮”：3家公司净利预增超5倍"
-    },
-    {
-     "title": "The South Korean stock market is in free fall, and these are the reasons",
-     "link": "https://www.marketwatch.com/story/the-korean-stock-markets-in-freefall-and-these-are-the-reasons-why-9615ac8d?mod=mw_rss_topstories",
-     "pubDate": "Tue, 13 Oct 2026 11:44:00 GMT",
-     "summary": "The Korean market rises on falls on expectations for profitability of the semiconductor industry and how long it can be sustained. Sentiment is cyclical, and right now the skepticism is rising.",
-     "source": "MarketWatch",
-     "zh": "The South Korean stock market is in free fall, and these are the reasons"
-    },
-    {
-     "title": "高盛Q3净营收186.8亿美元，股票交易收入大增72%，固收收入同比下滑近1%｜财报见闻",
-     "link": "https://wallstreetcn.com/articles/3783543",
-     "pubDate": "Tue, 13 Oct 2026 19:26:32 +0800",
-     "summary": "高盛第三季度业绩整体向好，股票交易与投行业务成为主要增长引擎，但固定收益与大宗商品（FICC）交易收入不及预期，限制了整体表现。财报公布后，高盛美股盘前涨超3%。 周二公布的财报显示 ，高盛第三季度净营收为186.8亿美元，同比增长23%；净利润为53亿美元，同比增长29%；摊薄每股收益为17.01美元，高于去年同期的12.25美元。有形股本回报率达到20.5%。 股票交易收入达到64.4亿美元，同比增长72%，虽低于第二季度创下的74.2亿美元历史纪录，但仍超出分析师预期。投资银行手续费收入升至32.3亿美元，高于彭博汇总的28.6亿美元预期，资产管理部门管理费收入也创下历史新高。 相比之下",
-     "source": "华尔街见闻",
-     "zh": "高盛Q3净营收186.8亿美元，股票交易收入大增72%，固收收入同比下滑近1%｜财报见闻"
-    },
-    {
-     "title": "Market data costs to rise by up to 50% thanks to AI",
-     "link": "https://www.finextra.com/newsarticle/48573/market-data-costs-to-rise-by-up-to-50-thanks-to-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 13 Oct 2026 11:26:00 GMT",
-     "summary": "Capital markets firms could see the cost of market data provision increase by more than 50% in 2027, partly as a result of the use of AI, according to newly published research.",
-     "source": "Finextra",
-     "zh": "Market data costs to rise by up to 50% thanks to AI"
-    },
-    {
-     "title": "摩根大通Q3调整后营收509亿美元不及预期，固收交易收入意外下滑4%，美股盘前跌逾2%｜财报见闻",
-     "link": "https://wallstreetcn.com/articles/3783540",
-     "pubDate": "Tue, 13 Oct 2026 18:51:33 +0800",
-     "summary": "摩根大通第三季度业绩喜忧参半：股票交易收入创历史新高，但固定收益交易收入两年多来首次同比下滑，整体交易收入低于市场预期。 周二公布的财报显示， 摩根大通第三季度调整后营收为509.1亿美元，低于市场预期的513.7亿美元；总交易收入为103亿美元，也低于分析师预期的105亿美元。 财报公布后，摩根大通股价盘前下跌逾2%，随后在公布收入指引后转涨。 分业务来看，固定收益交易收入同比下降4%，股票交易收入则同比大涨49%，达到49.5亿美元，创历史最佳季度表现。 第三季度每股收益为5.57美元，净利息收入达到270亿美元，高于市场预期。不过，总支出超出预估，公司还录得6.58亿美元净投资证券亏损。",
-     "source": "华尔街见闻",
-     "zh": "摩根大通Q3调整后营收509亿美元不及预期，固收交易收入意外下滑4%，美股盘前跌逾2%｜财报见闻"
     }
    ]
   },
@@ -2561,20 +2561,20 @@
      "zh": "The secret to handling stress better may start at breakfast"
     },
     {
-     "title": "'The back of her head had been removed by a single blow from a sharp blade': Archaeological clues are revealing the horrific lives and deaths of the people enslaved by Vikings",
-     "link": "https://www.livescience.com/archaeology/vikings/the-back-of-her-head-had-been-removed-by-a-single-blow-from-a-sharp-blade-archaeological-clues-are-revealing-the-horrific-lives-and-deaths-of-the-people-enslaved-by-vikings",
-     "pubDate": "Tue, 13 Oct 2026 09:00:00 +0000",
-     "summary": "In this excerpt from \"The Sea-King and the Sorceress,\" author Neil Price looks at the lesser known lives of the people enslaved by Vikings: the thralls.",
-     "source": "Live Science",
-     "zh": "'The back of her head had been removed by a single blow from a sharp blade': Archaeological clues are revealing the horrific lives and deaths of the people enslaved by Vikings"
-    },
-    {
      "title": "'It gives us a glimpse of a different kind of Viking life': Archaeologist Neil Price on the sea-kings, sorcerers and Sámi who lived during the Viking Age",
      "link": "https://www.livescience.com/archaeology/vikings/it-gives-us-a-glimpse-of-a-different-kind-of-viking-life-archaeologist-neil-price-on-the-sea-kings-sorcerers-and-sami-who-lived-during-the-viking-age",
      "pubDate": "Tue, 13 Oct 2026 09:00:00 +0000",
      "summary": "Archaeologist Neil Price delves into the lives and deaths of Viking Age people, including warriors, traders, thralls, sorcerers and children.",
      "source": "Live Science",
      "zh": "'It gives us a glimpse of a different kind of Viking life': Archaeologist Neil Price on the sea-kings, sorcerers and Sámi who lived during the Viking Age"
+    },
+    {
+     "title": "'The back of her head had been removed by a single blow from a sharp blade': Archaeological clues are revealing the horrific lives and deaths of the people enslaved by Vikings",
+     "link": "https://www.livescience.com/archaeology/vikings/the-back-of-her-head-had-been-removed-by-a-single-blow-from-a-sharp-blade-archaeological-clues-are-revealing-the-horrific-lives-and-deaths-of-the-people-enslaved-by-vikings",
+     "pubDate": "Tue, 13 Oct 2026 09:00:00 +0000",
+     "summary": "In this excerpt from \"The Sea-King and the Sorceress,\" author Neil Price looks at the lesser known lives of the people enslaved by Vikings: the thralls.",
+     "source": "Live Science",
+     "zh": "'The back of her head had been removed by a single blow from a sharp blade': Archaeological clues are revealing the horrific lives and deaths of the people enslaved by Vikings"
     },
     {
      "title": "Reprogrammed NK immune cells target cancer and autoimmune disorders",

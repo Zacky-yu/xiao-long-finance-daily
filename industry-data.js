@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/13 10:12:09",
+ "generated_at": "2026/10/13 10:32:06",
  "recent_days": 7,
  "industries": [
   {
@@ -32,14 +32,6 @@ window.INDUSTRY_DATA = {
      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
      "source": "TechCrunch AI",
      "zh": "WindBorne wins a hefty US Air Force contract for its balloon data"
-    },
-    {
-     "title": "The Rise of AI Software Clones: Why REA and ArtCraft Are Going Viral",
-     "link": "https://www.kdnuggets.com/the-rise-of-ai-software-clones-why-rea-and-artcraft-are-going-viral",
-     "pubDate": "Mon, 12 Oct 2026 16:00:00 +0000",
-     "summary": "REA and ArtCraft are two projects driving a wave of AI-built clones that attempt to recreate Adobe and Microsoft software, letting developers reverse-engineer and rebuild commercial tools without access to the original source code.",
-     "source": "KDnuggets",
-     "zh": "The Rise of AI Software Clones: Why REA and ArtCraft Are Going Viral"
     },
     {
      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
@@ -80,22 +72,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $10",
      "source": "TechCrunch AI",
      "zh": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings"
-    },
-    {
-     "title": "ChatGPT vs. Claude vs. Gemini for Data Science Work: Here’s What I Found",
-     "link": "https://www.kdnuggets.com/chatgpt-vs-claude-vs-gemini-for-data-science-work-heres-what-i-found",
-     "pubDate": "Mon, 12 Oct 2026 14:00:00 +0000",
-     "summary": "Compare ChatGPT, Claude, and Gemini across the data science tasks that matter most to statisticians and analysts.",
-     "source": "KDnuggets",
-     "zh": "ChatGPT vs. Claude vs. Gemini for Data Science Work: Here’s What I Found"
-    },
-    {
-     "title": "10 Hugging Face Models Worth Knowing in 2026",
-     "link": "https://www.kdnuggets.com/10-hugging-face-models-worth-knowing-in-2026",
-     "pubDate": "Mon, 12 Oct 2026 12:00:00 +0000",
-     "summary": "Explore 10 Hugging Face models used across text, vision, audio, and retrieval in 2026.",
-     "source": "KDnuggets",
-     "zh": "10 Hugging Face Models Worth Knowing in 2026"
     },
     {
      "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
@@ -248,6 +224,30 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "新智元",
      "zh": "6个月引爆重大AI灾难！OpenAI与Anthropic秘密推演「末日第二天」"
+    },
+    {
+     "title": "注意力也是FFN？从快权重出发，重新理解高效注意力 |NeurIPS'26",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733619&idx=3&sn=ef711aeeff95c974783359065abac1ec",
+     "pubDate": "Mon, 12 Oct 2026 08:41:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "注意力也是FFN？从快权重出发，重新理解高效注意力 |NeurIPS'26"
+    },
+    {
+     "title": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
+     "link": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
+     "pubDate": "Sun, 11 Oct 2026 23:15:52 +0000",
+     "summary": "Cloudflare released Clef-omni, an Apache-2.0 multimodal decision model built on Qwen3-Omni-30B-A3B. It scores text, images, audio and video in one call for $0.15 per million input tokens, while Clef-flash drops to $0.038. The post Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Au",
+     "source": "MarkTechPost",
+     "zh": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text"
+    },
+    {
+     "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
+     "link": "https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/",
+     "pubDate": "Sun, 11 Oct 2026 21:43:41 +0000",
+     "summary": "vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one call, without generating text. The post What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models appeared fir",
+     "source": "MarkTechPost",
+     "zh": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models"
     }
    ]
   },
@@ -1770,6 +1770,102 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Jev 引爆决策 AI 模型新赛道，爆红后被卷入原创争议",
+     "link": "https://www.ithome.com/1/012/193.htm",
+     "pubDate": "Tue, 13 Oct 2026 02:27:08 GMT",
+     "summary": "IT之家 10 月 13 日消息，科技媒体 Tom's Hardware 今天（10 月 13 日）发布博文，报道称 TypeSafe 发布 Jev 模型后引爆“决策 AI 模型”赛道， 在微软、OpenAI、Cloudflare、Perplexity 等厂商加入战局同时，Jev 也面临“抄袭”风波。 IT之家援引博文介绍， TypeSafe 发布 Jev 后 ，AI 行业迅速出现一批同类决策模型。微软推出 Microsoft Decision，OpenAI 推出 Decisions API，Fastino 发布 Glide；Cloudflare Clef 与 Perplexity Decid",
+     "source": "IT之家",
+     "zh": "Jev 引爆决策 AI 模型新赛道，爆红后被卷入原创争议"
+    },
+    {
+     "title": "MONTECH 推出 CyberFlow 液冷：32mm 厚排，磁吸 VRM 风扇",
+     "link": "https://www.ithome.com/1/012/192.htm",
+     "pubDate": "Tue, 13 Oct 2026 02:27:03 GMT",
+     "summary": "IT之家 10 月 13 日消息，MONTECH（君主科技 / 蒙泰克）昨日宣布推出 CyberFlow 系列处理器 AIO 液冷散热器。其分为 Core（无光）和 ARGB 两个版本， 均配备 32mm 厚排、磁吸固定 VRM 风扇 。 相较此前的 HyperFlow 液冷，CyberFlow 实现了 25.9% 的冷头底座面积提升、31.9% 的微水道热交换面积提升、85.3% 的冷却液循环流速提升。 其配备 3,500 RPM 水泵，噪声 28 dB(A)；VRM 风扇同样转速可达 3,500 RPM；搭配 20FPI 铝制冷排；风扇为 E25 PWM 系列，尺寸 12025，搭载 FD",
+     "source": "IT之家",
+     "zh": "MONTECH 推出 CyberFlow 液冷：32mm 厚排，磁吸 VRM 风扇"
+    },
+    {
+     "title": "微软推出 Maia 300 自研 AI 芯片，明年拟部署超百万颗以降低算力成本",
+     "link": "https://www.ithome.com/1/012/191.htm",
+     "pubDate": "Tue, 13 Oct 2026 02:25:31 GMT",
+     "summary": "IT之家 10 月 13 日消息， 微软于当地时间周一发布了新一代自研 AI 芯片 ，并计划在明年部署超百万颗该芯片，用于支撑自身内部 AI 业务。 这款芯片名为 Maia 300，是微软第三代自研芯片，专门用于 AI 数据运算，例如代码生成、代表用户执行复杂商业任务。上一代 Maia 芯片已经用于运行微软自研模型，以及微软 Azure 云平台上承载的 OpenAI 模型。 就在这款新品推出之际，各大云厂商、OpenAI 等 AI 企业都在密集推出自研芯片，目标是打破英伟达在 AI 计算市场的主导地位。 在芯片架构上，微软选择了和英伟达不同的技术路线。英伟达 AI 加速器采用一颗巨型主计算芯片",
+     "source": "IT之家",
+     "zh": "微软推出 Maia 300 自研 AI 芯片，明年拟部署超百万颗以降低算力成本"
+    },
+    {
+     "title": "小米米家桌面学习灯 Max 开售：双反射控光结构、防眩不刺眼，799 元",
+     "link": "https://www.ithome.com/1/012/187.htm",
+     "pubDate": "Tue, 13 Oct 2026 02:21:36 GMT",
+     "summary": "IT之家 10 月 13 日消息，小米米家桌面学习灯 Max 现已开售，售价 799 元 。 这款台灯采用 双反射控光 结构，有效削减直射光线，减少眩光干扰，实现精准控光，防眩不刺眼；采用广域出光方案，可均匀覆盖 1.6m×0.6m 宽大桌面，平均照度 > 950lx；开启观屏模式时，前向投光仅照射桌面区域，可减少屏幕反光带来的视觉干扰。 这款新品是米家首款配备背光设计的台灯，采用全新背景补偿光设计，通过光线漫反射提高环境亮度，降低视野内明暗差；升级单芯多峰全光谱灯珠，GFC（太阳光谱拟合度系数）> 0.985，Ra 一般显色指数 97。 光学品质方面，其照明效果超越读写作业台灯 AA 级光度",
+     "source": "IT之家",
+     "zh": "小米米家桌面学习灯 Max 开售：双反射控光结构、防眩不刺眼，799 元"
+    },
+    {
+     "title": "华为徐松余：麒麟 9050 Pro 马良 GPU 性能提升 40%，搭载业界首个 2 亿高像素融合 ISP",
+     "link": "https://www.ithome.com/1/012/186.htm",
+     "pubDate": "Tue, 13 Oct 2026 02:15:44 GMT",
+     "summary": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。 徐松余介绍， 麒麟 9050 Pro 搭载 9 核 16 线程灵犀 CPU ，搭配鸿蒙应用并行化优化，实现用户典型场景卡顿降低 31%。 麒麟 9050 Pro 的马良 GPU 采用第四代 GPU 微架构，带来第二代光线追踪硬加速技术， 实现 GPU 性能提升 40%、功耗降低 45%、光追性能提升 78% 。 IT之家在沟通会现场获悉，XEngine 引擎加持下，麒麟 9050 Pro 支持分布式 AI 超分技术，控显分离技",
+     "source": "IT之家",
+     "zh": "华为徐松余：麒麟 9050 Pro 马良 GPU 性能提升 40%，搭载业界首个 2 亿高像素融合 ISP"
+    },
+    {
+     "title": "AI剪辑混战，钱从剪辑师流向了谁？",
+     "link": "https://www.huxiu.com/article/4897008.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 10:14:57 +0800",
+     "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 剪辑变便宜了，钱却流向了算力。 定焦One（dingjiaoone）原创 一条视频里，究竟有多少工作可以交给AI？ 最近，一位剪辑师做了一次测试，让Claude Opus 5.5独立制作一条短视频。 AI先调用Fish Audio（一款AI语音合成工具），用他的声音生成口播，再通过HeyGen（一款数字人视频生成工具）驱动数字分身说话。真正复杂的是后面的剪辑。 动手之前，AI逐帧分析了两条参考视频，总结出三条规律：每句话都有对应的视觉画面，每个动作都踩在节拍上，整条视频由一条线索贯穿。随后，它将这些规律写成代码，自动完成动效",
+     "source": "虎嗅",
+     "zh": "AI剪辑混战，钱从剪辑师流向了谁？"
+    },
+    {
+     "title": "AI的合理使用与蒸馏模型有区别吗？——定义“学习”的权力",
+     "link": "https://www.huxiu.com/article/4897006.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 10:13:52 +0800",
+     "summary": "本文来自微信公众号： Internet Law Review ，作者：Lisa&nbsp;Klaassen，原文标题：《AI的合理使用与蒸馏模型有区别吗？——定义“学习”的权力》 2026年9月，美国政府分别在两件AI数据法律事件中给出了两种截然不同的立场： 9月1日，美国司法部向纽约南区联邦法院提交了一份“利益声明”，用以支持OpenAI在《纽约时报》等出版商版权诉讼中的主张——OpenAI的培训“极具变革性”，鉴于美国向来所珍视“技术创新和国家安全”，因此使用受版权保护文本训练大模型属于“高度转换性”的“合理使用”，进而要求AI公司对其训练版权内容申请授权或许可是“不可接受”的。 然而在9",
+     "source": "虎嗅",
+     "zh": "AI的合理使用与蒸馏模型有区别吗？——定义“学习”的权力"
+    },
+    {
+     "title": "AI 工厂建设迎来统一蓝图：英伟达开放 Vera Rubin 机架设计",
+     "link": "https://www.ithome.com/1/012/120.htm",
+     "pubDate": "Tue, 13 Oct 2026 02:12:40 GMT",
+     "summary": "IT之家 10 月 12 日消息，英伟达昨日（10 月 12 日）发布公告，在开放计算项目（OCP）全球峰会上，英伟达宣布开放 Vera Rubin 机架与计算托架设计， 并与 Cisco、Google、Meta、Microsoft、Visionbay 等发布多项 AI 基础设施开放标准。 在本次 OPC 全球峰会上，英伟达宣布通过开放 NVIDIA MGX 架构，向 Open Compute Project（OCP）贡献 Vera Rubin 机架和计算托架设计。系统厂商可据此开发面向下一代 AI 工厂的基础设施。 更新后的 MGX 1.2 规范新增机架级盲插式液冷、可互操作机架互连、液冷 ",
+     "source": "IT之家",
+     "zh": "AI 工厂建设迎来统一蓝图：英伟达开放 Vera Rubin 机架设计"
+    },
+    {
+     "title": "Muse Wonder肘击Astra，Meta杀回模型前沿",
+     "link": "https://www.tmtpost.com/8166180.html",
+     "pubDate": "Tue, 13 Oct 2026 10:12:00 +0800",
+     "summary": "Llama4之后，Meta终于拿出了新旗舰。",
+     "source": "钛媒体",
+     "zh": "Muse Wonder肘击Astra，Meta杀回模型前沿"
+    },
+    {
+     "title": "人均代码产出提升 14.6%，亚信科技万人 AI Coding 跃迁之路",
+     "link": "https://www.tmtpost.com/8164914.html",
+     "pubDate": "Tue, 13 Oct 2026 10:10:35 +0800",
+     "summary": "亚信科技深耕通信行业 30 余年，面临核心系统复杂、海量知识难以复用的挑战。通过引入 Qoder，将隐性专家经验转化为显性团队能力，构建 Agent 协同范式，实现近万名研发人员规模化 AI Coding 转型与效率提升。",
+     "source": "钛媒体",
+     "zh": "人均代码产出提升 14.6%，亚信科技万人 AI Coding 跃迁之路"
+    },
+    {
+     "title": "小扎打赢AI翻身仗？空降新模型长程编程夺冠，3D实测却惨遭打脸",
+     "link": "https://www.huxiu.com/article/4897005.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 10:10:01 +0800",
+     "summary": "本文来自微信公众号： AI前线 ，作者：青和，编辑：四月 在被OpenAI、Anthropic轮番甩开之后，扎克伯格终于有底气宣布：Meta重新回到了AI技术前沿。 北京时间10月13日凌晨，Meta Superintelligence Labs（MSL）正式推出新一代旗舰模型系列Muse Wonder和Muse Wonder Full，直接向GPT-6 Astra、Claude Opus 5.5等顶级模型发起挑战。 第三方评测机构Artificial Analysis同步公布的数据显示，Muse Wonder Full在综合智能指数中拿下56分，距离目前58分的Claude Opus 5.5",
+     "source": "虎嗅",
+     "zh": "小扎打赢AI翻身仗？空降新模型长程编程夺冠，3D实测却惨遭打脸"
+    },
+    {
+     "title": "他把南极冰层变成“闪光灯”，独享诺贝尔物理学奖",
+     "link": "https://www.huxiu.com/article/4896612.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 10:07:02 +0800",
+     "summary": "今年诺贝尔物理学奖由弗朗西斯&middot;哈尔岑(Francis Halzen)一人独享，这是34年来首次。在哈尔岑的主导下，人类把南极地下的冰，变成了观测宇宙的&ldquo;闪光灯&rdquo;，可以看到宇宙深处发射的中微子。 什么是中微子？科学家是如何用&ldquo;冰立方&rdquo;观测中微子的？",
+     "source": "虎嗅",
+     "zh": "他把南极冰层变成“闪光灯”，独享诺贝尔物理学奖"
+    },
+    {
      "title": "电网设备掀涨停潮，金冠电气20cm涨停只是前菜，5万亿投资落地，真正的金矿在海外",
      "link": "https://www.tmtpost.com/8166021.html",
      "pubDate": "Tue, 13 Oct 2026 10:07:00 +0800",
@@ -1778,20 +1874,20 @@ window.INDUSTRY_DATA = {
      "zh": "电网设备掀涨停潮，金冠电气20cm涨停只是前菜，5万亿投资落地，真正的金矿在海外"
     },
     {
+     "title": "没有人愿意慢慢地变富",
+     "link": "https://www.huxiu.com/article/4896989.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 10:06:00 +0800",
+     "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧，题图来自：视觉中国 先打个赌问问，这个股票过去10年的走势图，是不是一个中国普通公民能够买到的股票？你猜这个票是中国的，还是美国的，还是其他哪个国家的呢？ 揭晓答案吧：其实还真就是大A的： 都说中国没有价值投资，但是其实给你个价值投资的品种，多数人反而是不乐意的。就比如图里面这个线是一条赏心悦目的好线，但是我打赌从头到尾拿住的人，十中无一。 这个票，行业不是热门行业，公司不是热门公司，股吧雪球没有啥讨论点，各个投资者群没有讨论热度，甚至研究报告也没几篇，但是不妨碍它一点点涨上去。 好看是不好看，但是不耽误能挣钱。 没有人会愿意慢慢的变富&md",
+     "source": "虎嗅",
+     "zh": "没有人愿意慢慢地变富"
+    },
+    {
      "title": "哈药转型突遇不测，临危受命老将遭调查",
      "link": "https://www.tmtpost.com/8166034.html",
      "pubDate": "Tue, 13 Oct 2026 10:02:00 +0800",
      "summary": "股价一字跌停。",
      "source": "钛媒体",
      "zh": "哈药转型突遇不测，临危受命老将遭调查"
-    },
-    {
-     "title": "华为徐松余：麒麟 9050 系列开启未来 10 年新征程，实现业界首个 30B MoE 大模型入端",
-     "link": "https://www.ithome.com/1/012/176.htm",
-     "pubDate": "Tue, 13 Oct 2026 01:59:42 GMT",
-     "summary": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。 徐松余谈到了华为最新的韬定律和逻辑折叠路线，韬定律首次应用于麒麟 9050 系列，在性能 / 能效上获得了可观的收益。 徐松余表示，麒麟 9050 系列作为首款逻辑折叠的韬芯片， 开启未来 10 年新征程 。从 PPT 可以看到，华为目标在 2031 年实现 P 核频率突破 5GHz。 IT之家在沟通会现场获悉，麒麟 9050 系列在 AI 方面也取得了进步，是麒麟首个原生 AI Phone 平台。麒麟 9050 Pro 搭载",
-     "source": "IT之家",
-     "zh": "华为徐松余：麒麟 9050 系列开启未来 10 年新征程，实现业界首个 30B MoE 大模型入端"
     },
     {
      "title": "当潮水退去之后，谁是中国真正的“价值领军”？",
@@ -1810,62 +1906,6 @@ window.INDUSTRY_DATA = {
      "zh": "钠电的商业化拐点真来了，宁德时代签下70GWh钠电订单，欧洲集成商不再观望"
     },
     {
-     "title": "尊界公布 V800 制动踏板第三方检测结果：符合行业标准，加严检验至 3000N 也无裂纹损坏",
-     "link": "https://www.ithome.com/1/012/175.htm",
-     "pubDate": "Tue, 13 Oct 2026 01:56:58 GMT",
-     "summary": "IT之家 10 月 13 日消息，针对制动踏板争议，第一财经今日从尊界汽车处获悉《尊界 V800 制动踏板检测情况说明》。 该说明显示，2026 年 10 月 11 日，国家认可的第三方检测机构对尊界 V800 制动踏板进行检验，尊界 V800 符合行标 QC/T 788-2018 要求 (纵向力 1500N，位移量 IT之家注：尊界 V800 是鸿蒙智行与江淮汽车联合打造的百万级超豪华 MPV，于 2026 年 8 月 5 日正式上市。新车推出尊享版、行政版和领航版三款配置，售价分别为 76.6 万元、86.6 万元和 101.6 万元起。 本月早些时候，懂车帝实测 3 台尊界 V800，称",
-     "source": "IT之家",
-     "zh": "尊界公布 V800 制动踏板第三方检测结果：符合行业标准，加严检验至 3000N 也无裂纹损坏"
-    },
-    {
-     "title": "民间新项目：让破解版索尼 PS5 运行微软 XBOX 云游戏，支持 1080P@60FPS 串流",
-     "link": "https://www.ithome.com/1/012/174.htm",
-     "pubDate": "Tue, 13 Oct 2026 01:53:07 GMT",
-     "summary": "IT之家 10 月 13 日消息，科技媒体 Wccftech 昨日（10 月 12 日）发布博文，报道称开发者 RafaelNGP 在 GitHub 发布 PSBOX Cloud Gaming，这个非官方客户端可以在已破解的 PlayStation 5 游戏主机上，首次成功运行微软 XBOX Cloud Gaming，并支持最高 1080P@60FPS 串流。 IT之家援引博文介绍，玩家通过 PSBOX Cloud Gaming 非官方客户端，可以在已破解的 PlayStation 5 游戏主机上，浏览 XBOX 云端游戏库，并以 1080p60 分辨率串流游戏。 软件支持将最多 4 个 Du",
-     "source": "IT之家",
-     "zh": "民间新项目：让破解版索尼 PS5 运行微软 XBOX 云游戏，支持 1080P@60FPS 串流"
-    },
-    {
-     "title": "赌报价赚快钱时代落幕，售电行业迎来强制性能力筛查",
-     "link": "https://www.tmtpost.com/8166020.html",
-     "pubDate": "Tue, 13 Oct 2026 09:51:00 +0800",
-     "summary": "售电行业深度调整，需靠风控与服务转型发展。",
-     "source": "钛媒体",
-     "zh": "赌报价赚快钱时代落幕，售电行业迎来强制性能力筛查"
-    },
-    {
-     "title": "消息称 DeepSeek 将完成 1000 亿元融资，投前估值仍为约 5000 亿元",
-     "link": "https://www.ithome.com/1/012/172.htm",
-     "pubDate": "Tue, 13 Oct 2026 01:47:22 GMT",
-     "summary": "IT之家 10 月 13 日消息，据《财经》报道，多位参与本轮交易的人士透露，大模型公司 DeepSeek 的最新一轮融资已临近完成，融资金额从此前计划的 500 亿元增至约 1000 亿元，不到半个月拟融资金额翻了一倍。 据IT之家了解，本轮融资为 DeepSeek 的第二轮融资。据报道，新老股东的拟投资金额约各占一半。值得注意的是，融资金额的翻倍并未推高公司整体估值，DeepSeek 目前投前估值仍为约 5000 亿元。 据多名独立信源的交易人士称，本轮新进投资方包括石溪资本、中芯聚源、CPE 源峰、君联资本、吉利等，以产业投资方为主。此外，首轮入局的老股东们也在本轮交易名单中，包括宁德时",
-     "source": "IT之家",
-     "zh": "消息称 DeepSeek 将完成 1000 亿元融资，投前估值仍为约 5000 亿元"
-    },
-    {
-     "title": "TikTok CEO 周受资的新判断：AI 将在三年内改写科学，字节的筹码是什么",
-     "link": "https://www.tmtpost.com/8166003.html",
-     "pubDate": "Tue, 13 Oct 2026 09:47:00 +0800",
-     "summary": "周受资给出了AI改写科学的三年时间表。",
-     "source": "钛媒体",
-     "zh": "TikTok CEO 周受资的新判断：AI 将在三年内改写科学，字节的筹码是什么"
-    },
-    {
-     "title": "Marvell 发布第二代 CXL 内存扩展控制器，率先支持 6 通道、4 主机",
-     "link": "https://www.ithome.com/1/012/170.htm",
-     "pubDate": "Tue, 13 Oct 2026 01:44:27 GMT",
-     "summary": "IT之家 10 月 13 日消息，Marvell（美满）当地时间本月 12 日发布了第二代 Structera X 系列 CXL 内存扩展控制器，包括 3406 和 3506 两款产品。 Structera X 3406 / 3506 上行侧支持 CXL 3.2 / PCIe Gen 6； 下行侧则在行业内率先配备 6 个内存通道 ，3406 支持 18 个 DDR4 RDIMM 上的 9TB 内存、3506 支持 12 个 DDR5 RDIMM 上的 6TB 内存。 这两款芯片的另一业界首创则是 可在最多 4 台主机间共享这一庞大的内存池 。此外，Structera X 3406 / 350",
-     "source": "IT之家",
-     "zh": "Marvell 发布第二代 CXL 内存扩展控制器，率先支持 6 通道、4 主机"
-    },
-    {
-     "title": "华为徐松余：麒麟 9030 系列是中国半导体产业的一座“高峰”，是各方努力的大成之作",
-     "link": "https://www.ithome.com/1/012/169.htm",
-     "pubDate": "Tue, 13 Oct 2026 01:42:43 GMT",
-     "summary": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。 IT之家在发布会现场获悉，徐松余首先谈到了华为麒麟处理器的过往，从 2012 年的 K3V2 开始，一直到 2020 年的全球首款 5nm 5G SoC 麒麟 9000。 之后，麒麟 9030 系列于 2025 年 11 月 25 日随华为 Mate 80 系列手机首次亮相。徐松余表示， 麒麟 9030 系列是中国半导体产业的一座“高峰”，是各方努力的大成之作 ，CPU 性能提升 25%、GPU 性能提升 40%、NPU 算力",
-     "source": "IT之家",
-     "zh": "华为徐松余：麒麟 9030 系列是中国半导体产业的一座“高峰”，是各方努力的大成之作"
-    },
-    {
      "title": "东百集团3.16亿跨界收购收监管函：钱归谁，责归谁",
      "link": "https://www.huxiu.com/article/4896997.html?f=rss",
      "pubDate": "Tue, 13 Oct 2026 09:39:00 +0800",
@@ -1882,46 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its \"physical AI\" efforts (Anton Bridge/Reuters)"
     },
     {
-     "title": "根本不需要减肥的人，正在排队打“减肥针”",
-     "link": "https://www.huxiu.com/article/4896996.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 09:27:59 +0800",
-     "summary": "本文来自微信公众号： 显微故事 ，编辑：卓然，作者：显微故事编辑部 你身边有没有这样的人：朋友圈里几个月没动静，再出现时瘦了一大圈，脸颊却塌了下去。 他们中的一部分人，并没有去健身房，而是悄悄去打针了。 两年前，原本用来治疗糖尿病的注射剂（司美格鲁肽、替尔泊肽、玛仕度肽），从诊室流向了社交平台，被包装成“减肥针”、“瘦瘦针”。 最先打的是医生和明星，接着是主播、白领，最后一路传到县城。 但真正在打针的人里，很多并不符合用药标准。为了那个理想中的体重数字，他们绕过医院，自己在网上下单，自己往身上扎。 2025年，仅诺和诺德旗下的司美格鲁肽系列，在中国就卖了74.88亿元。 与此同时，在一些社交平",
-     "source": "虎嗅",
-     "zh": "根本不需要减肥的人，正在排队打“减肥针”"
-    },
-    {
-     "title": "没成为中产的人们，重新穿上班尼路",
-     "link": "https://www.huxiu.com/article/4896994.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 09:26:10 +0800",
-     "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 最近，一些80后、90后，又重新穿起了班尼路。 这个牌子，周润发、张曼玉代过言，整个80、90的青春里都有它。当年穿班尼路是体面，现在穿它，有人说是“爷青回”。有人心里清楚，是“爷青结”——它便宜，满淘宝都是它的店，设计有新有老。买它的人，很多人觉得自己也没混得多么风生水起，但也到了不再讲究牌子的年纪。 双方像是在共享同一段情绪：经历过沧海桑田，彼此的人生，估计也就这样“普通”了。 但其实班尼路还在奔，正在从当年一个意大利品牌，转向“淘漂”。班尼路背后，一家港资上市公司正在期许重新盘活它，带来新的业绩回报。 从爷青回到爷青结 一件纯棉长袖T恤，",
-     "source": "虎嗅",
-     "zh": "没成为中产的人们，重新穿上班尼路"
-    },
-    {
-     "title": "用AI 拆软件，怎么不算给文科生准备的“抄袭大法”？",
-     "link": "https://www.huxiu.com/article/4896995.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 09:23:54 +0800",
-     "summary": "本文来自微信公众号： 果壳 ，作者：本一，编辑：马文，原文标题：《用 AI 拆软件，怎么不算给文科生准备的“抄袭大法”？》 假如你在别人开发的App里看到一个很好用的功能，想在自己的产品里也做一个，过去大概只有两条路。要么自己边琢磨边从头写，要么找一个懂逆向的工程师，花上几天把这个功能拆开来研究。 本周，在开发者圈爆火刷屏的开源项目REA，给出了第三条路，也就是把“逆向”这件事交给AI去做。 REA是“Reverse Engineer Anything”的缩写，意思是“逆向一切”。它的GitHub主页的介绍写着： \"See a feature in an app that you want i",
-     "source": "虎嗅",
-     "zh": "用AI 拆软件，怎么不算给文科生准备的“抄袭大法”？"
-    },
-    {
-     "title": "疯狂时刻，一艘油轮一天赚100万美元，二手船比新船还贵",
-     "link": "https://www.huxiu.com/article/4896992.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 09:20:28 +0800",
-     "summary": "本文来自微信公众号： 物流沙龙 ，作者：物流麻将胡，原文标题：《疯狂时刻！一艘油轮一天赚100万美元，二手船比新船还贵》 9月以来，国际油轮运费飙升，一艘油轮甚至一天能赚100多万美元；二手船也抢手，部分报价竟然比新船还贵。 航运业真进入超级周期了？ 01 运费破百万美元，旧船比新船还贵 有船舶经纪商说，这是1960年代超级油轮问世以来都没见过的高价。今年9月，VLCC（超大型原油运输船）中东湾至中国的TD3C基准航线等效日收益首次突破100万美元。 10月9日路透社报道，美国墨西哥湾到中国的航线上，一艘运输约200万桶原油的VLCC，租船费用一度到8000万美元。而2025年全年均值才920",
-     "source": "虎嗅",
-     "zh": "疯狂时刻，一艘油轮一天赚100万美元，二手船比新船还贵"
-    },
-    {
-     "title": "全球菌子互联网第一次揭晓，菌丝连起来可以到太阳7000万次",
-     "link": "https://www.huxiu.com/article/4896990.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 09:17:35 +0800",
-     "summary": "本文来自微信公众号： 果壳 ，作者：猫吞，编辑：翻翻，原文标题：《全球菌子互联网第一次揭晓！菌丝连起来可以到太阳7000万次》 在一块健康的土地上，随手挖起一小勺子泥土，里面藏着的真菌菌丝，大约有10米长。 2026年6月发表在《科学》杂志上的一项研究里，科学家第一次在全球尺度上，估算了丛枝菌根真菌（Arbuscular Mycorrhizal Fungi,AMF）的菌丝网络到底有多大。 根据他们的计算，全球表层土壤中，活体菌丝的总长度约为11亿亿公里（此处没有多打一个“亿”），这个长度相当于从地球到太阳距离的7400万倍。这些菌丝所含的碳约为3亿吨，是全球人类身体所含碳总量的4到6倍。 真菌",
-     "source": "虎嗅",
-     "zh": "全球菌子互联网第一次揭晓，菌丝连起来可以到太阳7000万次"
-    },
-    {
      "title": "Leading Chinese mathematicians launch an alliance, including eight orgs and aiming for 1,000+ scientists, to focus on developing specialized AI models for math (Chao Kong/South China Morning Post)",
      "link": "https://www.techmeme.com/261012/p42#a261012p42",
      "pubDate": "Mon, 12 Oct 2026 20:15:02 -0400",
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
      "link": "https://doi.org/10.1111/acel.70751",
      "pubDate": "Mon, 12 Oct 2026 23:34:22 +0000",
-     "summary": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/ Comments URL: https://news.ycombinator.com/item?id=50064536 Points: 95 # Comments: 64",
+     "summary": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/ Comments URL: https://news.ycombinator.com/item?id=50064536 Points: 101 # Comments: 68",
      "source": "Hacker News",
      "zh": "Blood cells from 80-year-old donor become stem cells with molecular age under 20"
     },
@@ -1941,23 +1941,23 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
      "link": "https://github.com/andrewfader/blokkily",
      "pubDate": "Mon, 12 Oct 2026 23:21:12 +0000",
-     "summary": "Article URL: https://github.com/andrewfader/blokkily Comments URL: https://news.ycombinator.com/item?id=50064438 Points: 12 # Comments: 6",
+     "summary": "Article URL: https://github.com/andrewfader/blokkily Comments URL: https://news.ycombinator.com/item?id=50064438 Points: 17 # Comments: 6",
      "source": "Hacker News",
      "zh": "Show HN: An experimental pattern-first DAW that supports MCP"
     },
     {
-     "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+     "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
      "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
      "pubDate": "Mon, 12 Oct 2026 23:07:25 +0000",
-     "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 112 # Comments: 66",
+     "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 123 # Comments: 79",
      "source": "Hacker News",
-     "zh": "GPT-6 Astra Helped Me Jailbreak My Kindle"
+     "zh": "I turned my unused Kindle into a photo frame with GPT-6 Astra"
     },
     {
      "title": "RJ Mitte has died",
      "link": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
      "pubDate": "Mon, 12 Oct 2026 22:15:29 +0000",
-     "summary": "Article URL: https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332 Comments URL: https://news.ycombinator.com/item?id=50063831 Points: 150 # Comments: 47",
+     "summary": "Article URL: https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332 Comments URL: https://news.ycombinator.com/item?id=50063831 Points: 157 # Comments: 49",
      "source": "Hacker News",
      "zh": "RJ Mitte has died"
     },
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
      "link": "https://github.com/prabanta-dev/janas",
      "pubDate": "Mon, 12 Oct 2026 22:05:43 +0000",
-     "summary": "Article URL: https://github.com/prabanta-dev/janas Comments URL: https://news.ycombinator.com/item?id=50063717 Points: 33 # Comments: 15",
+     "summary": "Article URL: https://github.com/prabanta-dev/janas Comments URL: https://news.ycombinator.com/item?id=50063717 Points: 39 # Comments: 19",
      "source": "Hacker News",
      "zh": "Janas: Run LLMs larger than RAM by streaming experts from SSD"
     },
@@ -1997,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "AI is a tool and using it well takes skill",
      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
      "pubDate": "Mon, 12 Oct 2026 21:40:18 +0000",
-     "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 234 # Comments: 211",
+     "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 241 # Comments: 214",
      "source": "Hacker News",
      "zh": "AI is a tool and using it well takes skill"
     },
@@ -2266,12 +2266,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "2026智慧康养产业发展沙龙在京举行，破解养老服务落地难 共议智慧康养“最后一公里”",
+     "link": "http://www.eeo.com.cn/2026/1013/1062080.shtml",
+     "pubDate": "Tue, 13 Oct 2026 10:25:16 +0800",
+     "summary": "10月11日上午，2026智慧康养产业发展沙龙在国家会议中心二期举办。本次活动指导单位为北京市老龄产业协会，主办单位为北京商报社，活动主题为&ldquo;新融合新场景：智慧康养最后一公里&rdquo;。活动汇聚政府、学界、协会学会、康养产业代表等多方力量，聚焦智慧康养&ldquo;最后一公里&rdquo;，破解养老服务落地难题。 在致辞环节，主办方北京商报社社长助理、西街传媒总经理王海岩表示，深蓝智库持续关注银发经济发展，...",
+     "source": "经济观察网",
+     "zh": "2026智慧康养产业发展沙龙在京举行，破解养老服务落地难 共议智慧康养“最后一公里”"
+    },
+    {
+     "title": "海欣食品10月13日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893880395.html",
+     "pubDate": "Tue, 13 Oct 2026 10:24:28 +0800",
+     "summary": "以下是 海欣食品 在北京时间10月13日10:13分盘口异动快照： 10月13日， 海欣食品 盘中快速反弹，5分钟内涨幅超过2%，截至10点13分，报5.98元，成交1.85亿元，换手率6.96%。 分笔 10:13:09 5.98 5199↑ 10:13:06 5.94 331↓ 10:13:03 5.94 732↓ 10:13:00 5.95 543↑ 10:12:57 5.95 792↑ 10:12:54 5.95 1839↑ 10:12:51 5.95 1286↓ 10:12:48 5.95 1476↑ 10:12:45 5.94 1765↑ 10:12:42 5.94 850↑ 报价",
+     "source": "东方财富股票",
+     "zh": "海欣食品10月13日快速反弹"
+    },
+    {
+     "title": "汇绿生态10月13日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893877952.html",
+     "pubDate": "Tue, 13 Oct 2026 10:24:05 +0800",
+     "summary": "以下是 汇绿生态 在北京时间10月13日10:12分盘口异动快照： 10月13日， 汇绿生态 盘中快速反弹，5分钟内涨幅超过2%，截至10点12分，报29.79元，成交3.07亿元，换手率1.77%。 分笔 10:12:21 29.79 206↑ 10:12:18 29.73 430↑ 10:12:15 29.62 191↑ 10:12:12 29.59 93↑ 10:12:09 29.56 460↑ 10:12:06 29.50 11↓ 10:12:03 29.50 151↓ 10:12:00 29.50 29↑ 10:11:57 29.50 20↑ 10:11:54 29.50 26↑ 报",
+     "source": "东方财富股票",
+     "zh": "汇绿生态10月13日快速反弹"
+    },
+    {
+     "title": "创业板指跌逾2%",
+     "link": "http://www.eeo.com.cn/2026/1013/1062063.shtml",
+     "pubDate": "Tue, 13 Oct 2026 10:13:19 +0800",
+     "summary": "【创业板指跌逾2%】指数开盘走弱，沪指跌0.92%，深成指跌1.77%，创业板指跌2.37%。盘面上，MLCC概念、电子化学品、光刻机、半导体等方向跌幅居前。（中新经纬APP）",
+     "source": "经济观察网",
+     "zh": "创业板指跌逾2%"
+    },
+    {
+     "title": "A股开盘：超4800只个股飘绿，三大指数集体低开；通信设备、半导体大跌，农业、电脑硬件下跌；海运飘红",
+     "link": "http://www.eeo.com.cn/2026/1013/1062062.shtml",
+     "pubDate": "Tue, 13 Oct 2026 10:13:17 +0800",
+     "summary": "中新经纬10月13日电 13日，A股三大指数集体低开。Wind数据显示，沪指跌0.96%，深证成指跌1.79%，创业板指跌2.18%。超4800只个股下跌。 板块方面，通信设备大跌，半导体、农业、电脑硬件、电子元器件、互联网、能源设备等下跌。海运等少数板块上涨。(中新经纬APP) 编辑：李晓萱 责编：魏薇",
+     "source": "经济观察网",
+     "zh": "A股开盘：超4800只个股飘绿，三大指数集体低开；通信设备、半导体大跌，农业、电脑硬件下跌；海运飘红"
+    },
+    {
+     "title": "21社论丨发展新质生产力需强化因地制宜",
+     "link": "http://www.eeo.com.cn/2026/1013/1062060.shtml",
+     "pubDate": "Tue, 13 Oct 2026 10:13:12 +0800",
+     "summary": "近日，中共中央、国务院印发《关于发展新质生产力的意见》（以下简称《意见》），围绕科技创新、产业创新、发展方式创新、体制机制创新、人才工作机制创新五个方面作出顶层设计，为加快发展新质生产力划定路线图。 过去三年，我国积极推动新质生产力发展，并取得一定成效。但也要注意到，在实践探索过程中也出现了一些问题，如认识片面、执行偏颇、布局缺乏因地制宜等，亟需进一步理解、规范和指导。另一方面，以推动高质...",
+     "source": "经济观察网",
+     "zh": "21社论丨发展新质生产力需强化因地制宜"
+    },
+    {
+     "title": "贷款额度最高上浮100% 多地优化公积金政策助力多孩家庭安居",
+     "link": "http://www.eeo.com.cn/2026/1013/1062061.shtml",
+     "pubDate": "Tue, 13 Oct 2026 10:13:11 +0800",
+     "summary": "新版《住房公积金管理条例》于9月20日发布后，公积金政策继续迎来优化。其中，与生育支持政策挂钩成为政策调整的显著特点。 近期，济南、湛江、铜仁、湘潭、湖州等城市相继提高了多孩家庭公积金贷款额度，湖州针对三孩及以上家庭的公积金贷款额度最高可上浮100%。另有不少城市提高了初婚初育家庭的公积金支持力度。 近年来，住房政策已不再仅仅是解决居住问题的手段，而是被纳入国家人口发展战略的“工具箱”。作为...",
+     "source": "经济观察网",
+     "zh": "贷款额度最高上浮100% 多地优化公积金政策助力多孩家庭安居"
+    },
+    {
+     "title": "职教出海将进入“标准引领”3.0阶段",
+     "link": "http://www.eeo.com.cn/2026/1013/1062059.shtml",
+     "pubDate": "Tue, 13 Oct 2026 10:13:07 +0800",
+     "summary": "技能大赛刚收官，职教大会又将启幕。上个月，我国刚刚成功举办第48届世界技能大赛，68个国家和地区的1385名选手参赛，创历史之最。不到一个月的时间，我国又将召开世界职业技术教育发展大会，截至目前，有来自41个国家的51位部长级以上外宾确认参会，充分彰显中国职业教育的影响力和感召力。 教育部10月12日举行新闻发布会，介绍2026年世界职业技术教育发展大会及职业教育国际合作有关情况。 教育部职业教育与成人...",
+     "source": "经济观察网",
+     "zh": "职教出海将进入“标准引领”3.0阶段"
+    },
+    {
+     "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+     "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+     "pubDate": "Tue, 13 Oct 2026 02:11:41 GMT",
+     "summary": "Asian technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into regional markets.",
+     "source": "CNBC",
+     "zh": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off"
+    },
+    {
      "title": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF",
      "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
-     "pubDate": "Tue, 13 Oct 2026 02:08:34 GMT",
+     "pubDate": "Tue, 13 Oct 2026 02:09:34 GMT",
      "summary": "The IMF raised its 2026 global growth forecast to 3.1%, as AI investment helped offset the war’s energy shock.",
      "source": "CNBC",
      "zh": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF"
+    },
+    {
+     "title": "Pakistan’s hard choice on Saudi Arabia’s war in Yemen",
+     "link": "https://www.ft.com/content/7da76744-99d0-43b0-8682-b927a82096f7?syn-25a6b1a6=1",
+     "pubDate": "Tue, 13 Oct 2026 02:02:52 GMT",
+     "summary": "Defence pacts and financial reliance on Riyadh give Islamabad little leeway to avoid Houthi conflict",
+     "source": "Financial Times",
+     "zh": "Pakistan’s hard choice on Saudi Arabia’s war in Yemen"
+    },
+    {
+     "title": "Top economies heading for biggest budget deficits since Covid, IMF warns",
+     "link": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1",
+     "pubDate": "Tue, 13 Oct 2026 02:00:07 GMT",
+     "summary": "At its annual meeting, the fund calls for ‘urgent’ action to rebuild public finances",
+     "source": "Financial Times",
+     "zh": "Top economies heading for biggest budget deficits since Covid, IMF warns"
     },
     {
      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
@@ -2290,92 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "首发｜升级个人AI助理，千问将推出Personal Agent「千问Go！」"
     },
     {
-     "title": "10月13日医院板块跌幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610133893710376.html",
-     "pubDate": "Tue, 13 Oct 2026 09:58:19 +0800",
-     "summary": "&emsp;&emsp;10月13日9点43分， 医院 板块指数报6262.482点，跌幅达2%，成交7.42亿元，换手率0.55%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 美年健康 报4.66元，跌4.51%； 创新医疗 报16.17元，跌4.32%； 三博脑科 报47.01元，跌3.47%； 皓宸医疗 报2.36元，跌2.88%； 普瑞眼科 报30.89元，跌2.77%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月13日医院板块跌幅达2%"
-    },
-    {
-     "title": "10月13日钙钛矿电池板块跌幅达3%",
-     "link": "http://stock.eastmoney.com/news/1944,202610133893710256.html",
-     "pubDate": "Tue, 13 Oct 2026 09:58:18 +0800",
-     "summary": "&emsp;&emsp;10月13日9点43分，钙钛矿 电池 板块指数报915.329点，跌幅达3%，成交31.00亿元，换手率0.38%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 聚石化学 报55.32元，跌11.20%； 迈为股份 报148.83元，跌6.72%； 德龙激光 报48.33元，跌6.70%； 莱特光电 报31.59元，跌6.34%； 逸飞激光 报64.47元，跌5.86%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月13日钙钛矿电池板块跌幅达3%"
-    },
-    {
-     "title": "多氟多10月13日加速下跌",
-     "link": "http://stock.eastmoney.com/news/1944,202610133893710130.html",
-     "pubDate": "Tue, 13 Oct 2026 09:58:18 +0800",
-     "summary": "以下是 多氟多 在北京时间10月13日09:43分盘口异动快照： 10月13日， 多氟多 盘中加速下跌，5分钟内跌幅超过2%，截至9点43分，报27.18元，成交5.38亿元，换手率1.81%。 分笔 09:43:15 27.18 625↓ 09:43:12 27.20 1017↓ 09:43:09 27.20 1293↓ 09:43:06 27.21 361↑ 09:43:03 27.21 570↓ 09:43:00 27.21 374↓ 09:42:57 27.22 628↓ 09:42:54 27.23 165↑ 09:42:51 27.23 371↓ 09:42:48 27.24 68",
-     "source": "东方财富股票",
-     "zh": "多氟多10月13日加速下跌"
-    },
-    {
-     "title": "广田集团10月13日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610133893709919.html",
-     "pubDate": "Tue, 13 Oct 2026 09:58:17 +0800",
-     "summary": "以下是 广田集团 在北京时间10月13日09:43分盘口异动快照： 10月13日， 广田集团 盘中快速回调，5分钟内跌幅超过2%，截至9点43分，报1.32元，成交1908.50万元，换手率0.38%。 分笔 09:43:15 1.32 12444↓ 09:43:09 1.34 400↑ 09:43:06 1.33 74↓ 09:43:03 1.34 2↑ 09:43:00 1.33 1↓ 09:42:57 1.34 9↑ 09:42:42 1.34 171↑ 09:42:39 1.33 92↓ 09:42:36 1.34 20↑ 09:42:33 1.33 6↓ 报价 卖五 1.37 192",
-     "source": "东方财富股票",
-     "zh": "广田集团10月13日快速回调"
-    },
-    {
-     "title": "10月13日分立器件板块跌幅达4%",
-     "link": "http://stock.eastmoney.com/news/1944,202610133893709853.html",
-     "pubDate": "Tue, 13 Oct 2026 09:58:16 +0800",
-     "summary": "&emsp;&emsp;10月13日9点43分， 分立器件 板块指数报13004.34点，跌幅达4%，成交41.31亿元，换手率0.67%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为：ST闻泰报13.80元，跌7.32%； 宏微科技 报21.07元，跌5.94%； 银河微电 报33.90元，跌5.23%； 炬光科技 报223.23元，跌5.19%； 锴威特 报60.43元，跌5.10%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月13日分立器件板块跌幅达4%"
-    },
-    {
-     "title": "朗威股份10月13日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610133893709754.html",
-     "pubDate": "Tue, 13 Oct 2026 09:58:16 +0800",
-     "summary": "以下是 朗威股份 在北京时间10月13日09:43分盘口异动快照： 10月13日， 朗威股份 盘中跌幅达5%，截至9点43分，报31.26元，成交1233.04万元，换手率0.49%。 分笔 09:43:12 31.26 14↓ 09:43:09 31.28 12↓ 09:43:03 31.28 1↓ 09:43:00 31.28 5↓ 09:42:57 31.31 15↓ 09:42:54 31.31 8↓ 09:42:51 31.33 16↑ 09:42:48 31.31 1↓ 09:42:45 31.31 3↓ 09:42:42 31.31 8↓ 报价 卖五 31.31 1 卖四 31.",
-     "source": "东方财富股票",
-     "zh": "朗威股份10月13日盘中跌幅达5%"
-    },
-    {
-     "title": "四大指数集体低开 创业板指跌超2%",
-     "link": "http://www.eeo.com.cn/2026/1013/1062021.shtml",
-     "pubDate": "Tue, 13 Oct 2026 09:52:14 +0800",
-     "summary": "10月13日，A股四大指数集体低开，沪指跌0.96%，深成指跌1.79%，创业板指跌2.18%，科创综指跌2.19%。算力硬件、半导体芯片、锂电池、农业等板块跌幅居前。",
-     "source": "经济观察网",
-     "zh": "四大指数集体低开 创业板指跌超2%"
-    },
-    {
-     "title": "央行开展650亿元7天期逆回购操作",
-     "link": "http://www.eeo.com.cn/2026/1013/1062020.shtml",
-     "pubDate": "Tue, 13 Oct 2026 09:52:12 +0800",
-     "summary": "央行网站截图 【央行开展650亿元7天期逆回购操作】央行公告，2026年10月13日中国人民银行以固定利率、数量招标方式开展了650亿元7天期逆回购操作，操作利率1.40%，全额满足了一级交易商需求。（中新经纬APP）",
-     "source": "经济观察网",
-     "zh": "央行开展650亿元7天期逆回购操作"
-    },
-    {
-     "title": "恒生指数低开0.41% 恒生科技指数跌0.96%",
-     "link": "http://www.eeo.com.cn/2026/1013/1062019.shtml",
-     "pubDate": "Tue, 13 Oct 2026 09:52:09 +0800",
-     "summary": "10月13日，恒生指数低开0.41%，恒生科技指数跌0.96%。",
-     "source": "经济观察网",
-     "zh": "恒生指数低开0.41% 恒生科技指数跌0.96%"
-    },
-    {
      "title": "AH股齐跌：A股双创指数均跌3%，算力硬件下挫，恒科指跌2%，权重科网股集体走低",
      "link": "https://wallstreetcn.com/articles/3783494",
      "pubDate": "Tue, 13 Oct 2026 09:51:14 +0800",
      "summary": "华尔街见闻文章 写道，韩国假日后补跌、三星与SK海力士史上最大规模回购（约400亿美元）提前终止，叠加长鑫科技宣布4F²架构突破,在单元架构上或领先韩国巨头两年等三重冲击叠加，隔夜 美股存储芯片重挫 ，叠加周二亚太市场跟随下挫，韩国KOSPI指数跌5%，芯片巨头三星电子、SK海力士亦大跌，A股和港股的芯片、算力硬件股集体陷入调整。 10月13日，A股早盘集体低开，三大股指盘初下跌，创业板跌3%，失守2900点，在AI硬件、芯片半导体等普遍下挫之际，科创综指、科创50也大幅下挫，中芯国际、海光信息、中微公司均跌4%左右。白酒、煤炭、海运等板块逆势走强。 港股低开低走，恒指、恒科指全线走低，恒科指",
      "source": "华尔街见闻",
      "zh": "AH股齐跌：A股双创指数均跌3%，算力硬件下挫，恒科指跌2%，权重科网股集体走低"
-    },
-    {
-     "title": "营收三连增，这些企业凭什么？",
-     "link": "http://www.eeo.com.cn/2026/1013/1062014.shtml",
-     "pubDate": "Tue, 13 Oct 2026 09:48:55 +0800",
-     "summary": "营收连续三年增长，不只是规模数字的扩张，更是企业穿越周期、持续投入研发、稳定就业和履行社会责任的能力体现。从AI+算力到新能源出海，从数字化转型到储能氢能布局，这些企业既守住基本盘，又打开新增量。",
-     "source": "经济观察网",
-     "zh": "营收三连增，这些企业凭什么？"
     },
     {
      "title": "受美股存储大跌影响，韩股跌超5%，连续第二日重挫，SK海力士跌近8%",
@@ -2392,22 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴"
-    },
-    {
-     "title": "梁铮任安顺市委副书记、市政府党组书记",
-     "link": "http://www.eeo.com.cn/2026/1013/1062000.shtml",
-     "pubDate": "Tue, 13 Oct 2026 09:39:12 +0800",
-     "summary": "中国经济网安顺10月13日综合报道 据贵州安顺市政府网站“政府领导”栏目更新显示，梁铮任安顺市委副书记、市政府党组书记。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/5473D9C116A39BA7368BFE63642E461F.png\" width=\"483\" data-uploadpic=\"U020261013314138005060_ORIGIN.png\" needdownload=\"true\" data-needdownload=\"true\" title=\"梁铮.png\" al",
-     "source": "经济观察网",
-     "zh": "梁铮任安顺市委副书记、市政府党组书记"
-    },
-    {
-     "title": "尹恒斌任贵州省委统战部副部长，省工商联党组书记 此前担任安顺市市长",
-     "link": "http://www.eeo.com.cn/2026/1013/1061999.shtml",
-     "pubDate": "Tue, 13 Oct 2026 09:39:12 +0800",
-     "summary": "中国经济网贵阳10月13日综合报道 据贵州省工商联网站“工商联领导”栏目更新显示，尹恒斌任贵州省委统战部副部长，省工商联党组书记，省工商联（总商会）常务副主席（副会长）提名人选，省委非公有制经济组织和社会组织工作委员会副书记（兼）。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/8BE48EF3158406DD2B13D3BED089B902.png\" width=\"483\" data-uploadpic=\"U02026101332228009315...",
-     "source": "经济观察网",
-     "zh": "尹恒斌任贵州省委统战部副部长，省工商联党组书记 此前担任安顺市市长"
     },
     {
      "title": "印度重启“货币保卫战”：央行接管石油巨头购汇，投机炒汇的空间被砍掉95%",
@@ -2504,6 +2496,14 @@ window.INDUSTRY_DATA = {
      "summary": "Contrary to a widespread current worry among some on Wall Street, bull markets do not die of old age,",
      "source": "MarketWatch",
      "zh": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully."
+    },
+    {
+     "title": "Trump &apos;not happy&apos; with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
+     "link": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
+     "pubDate": "Mon, 12 Oct 2026 22:26:59 GMT",
+     "summary": "The former Fox News personality Guilfoyle was previously engaged to the president's son, Donald Trump Jr.",
+     "source": "CNBC",
+     "zh": "Trump &apos;not happy&apos; with Kimberly Guilfoyle, weighs firing her as ambassador to Greece"
     }
    ]
   },

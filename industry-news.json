@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/13 13:11:58",
+ "generated_at": "2026/10/13 13:32:01",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "干掉Fable 5.1！Meta甩出最强模型，即将上线Muse",
+     "link": "https://zhidx.com/p/600299.html",
+     "pubDate": "Tue, 13 Oct 2026 13:05:22 +0800",
+     "summary": "智东西 作者 | 毕伟豪 编辑｜李水青 智东西10月13日报道，昨夜，Meta发布了首个 前沿模型系列Muse Wonder ，包括Muse Wonder和Muse Wonder Full两个型号，重点面向 个人与专业智能体任务 。 Meta CEO马克·扎克伯格发文称，Meta超级智能实验室成立至今已一年多，Muse Spark是团队推出的首个模型系列，此次推出的Muse Wonder系列规模更大、能力更先进，引领着Meta的模型能力迈入前沿水平。 2025年6月，扎克伯格重金组建超级智能团队，投百亿美元并购AI创企、狂揽顶尖AI人才，今日终于放出“大招”。今年4月份亮相的Muse Spar",
+     "source": "智东西",
+     "zh": "干掉Fable 5.1！Meta甩出最强模型，即将上线Muse"
+    },
     {
      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
      "link": "https://arxiv.org/abs/2610.12493",
@@ -239,14 +247,6 @@
      "summary": "",
      "source": "新智元",
      "zh": "Karpathy撕开AI折叠真相！全球20亿人被蒙骗，2000万人陷入智能体眩晕"
-    },
-    {
-     "title": "6个月引爆重大AI灾难！OpenAI与Anthropic秘密推演「末日第二天」",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733619&idx=2&sn=24bade75f46286db80448f22ab9f7cef",
-     "pubDate": "Mon, 12 Oct 2026 08:41:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "6个月引爆重大AI灾难！OpenAI与Anthropic秘密推演「末日第二天」"
     }
    ]
   },
@@ -657,6 +657,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Leapmotor starts B10 production in Spain, gives A05 European debut",
+     "link": "https://cnevpost.com/2026/10/13/leapmotor-starts-b10-production-spain-a05-european-debut/",
+     "pubDate": "Tue, 13 Oct 2026 05:15:05 +0000",
+     "summary": "The B10 has rolled off the assembly line at Stellantis' Zaragoza plant, marking a major milestone in Leapmotor's European localization efforts. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Leapmotor starts B10 production in Spain, gives A05 European debut"
+    },
+    {
      "title": "Nio ES9 deliveries reach 7,706 in September, second-highest this year",
      "link": "https://cnevpost.com/2026/10/13/nio-es9-deliveries-sept-2026/",
      "pubDate": "Tue, 13 Oct 2026 03:48:44 +0000",
@@ -777,14 +785,6 @@
      "zh": "Aito confirms 2027 European entry at Paris Motor Show"
     },
     {
-     "title": "China cuts NEV export tax rebates, testing profitability of automakers' overseas growth",
-     "link": "https://cnevpost.com/2026/10/12/china-cuts-nev-export-tax-rebates/",
-     "pubDate": "Mon, 12 Oct 2026 13:50:08 +0000",
-     "summary": "The export VAT rebate rate for NEVs will fall from 13% to 9% starting April 1, 2027. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "China cuts NEV export tax rebates, testing profitability of automakers' overseas growth"
-    },
-    {
      "title": "The New Citroen 2CV Van Is The Perfect Match For Trendy Baristas",
      "link": "https://insideevs.com/news/811618/citroen-2cv-van-ev-concept-fourgonette/",
      "pubDate": "Mon, 12 Oct 2026 13:10:33 +0000",
@@ -856,6 +856,22 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Italy’s solar capacity could reach 137 GW by 2040, grid operators say",
+     "link": "https://www.pv-magazine.com/2026/10/13/italys-solar-capacity-could-reach-137-gw-by-2040-grid-operators-say/",
+     "pubDate": "Tue, 13 Oct 2026 05:19:16 +0000",
+     "summary": "Italy's installed solar PV capacity is expected to increase from 43.5 GW at the end of 2025 to 82.3 GW by 2030, before reaching between 114 GW and 137 GW by 2040, according to new scenarios published by grid operators Terna and Snam. The projections also point to significant growth in energy storage",
+     "source": "pv magazine",
+     "zh": "Italy’s solar capacity could reach 137 GW by 2040, grid operators say"
+    },
+    {
+     "title": "Distributed solar expected to reach 92 GW by 2036",
+     "link": "https://www.pv-magazine.com/2026/10/13/distributed-solar-expected-to-reach-92-gw-by-2036/",
+     "pubDate": "Tue, 13 Oct 2026 05:11:39 +0000",
+     "summary": "The growth of decentralized generation is also expected to create operational challenges, particularly in integrating distributed energy resources, coordinating generation and demand, and maintaining system flexibility. The post Distributed solar expected to reach 92 GW by 2036 appeared first on pv ",
+     "source": "pv magazine",
+     "zh": "Distributed solar expected to reach 92 GW by 2036"
+    },
     {
      "title": "Australian-made PV installation and piling robots moving towards commercial-scale production",
      "link": "https://www.pv-magazine.com/2026/10/13/arena-pumps-32-3-million-into-solar-robotics-manufacturing-projects/",
@@ -1079,22 +1095,6 @@
      "summary": "South African utility Eskom has launched a qualification process to select strategic partners for up to 6 GW of renewable energy and storage projects. The portfolio will include at least 2 GW of solar and 1 GW/4 GWh of battery storage, with selected developers joining a five-year co-development and ",
      "source": "pv magazine",
      "zh": "Eskom kicks off tender for 6 GW of renewables-plus-storage"
-    },
-    {
-     "title": "Multiple grounding points cut lightning-induced overvoltage in solar panels by up to 55%",
-     "link": "https://www.pv-magazine.com/2026/10/12/multiple-grounding-points-cut-lightning-induced-overvoltage-in-solar-panels-by-up-to-55/",
-     "pubDate": "Mon, 12 Oct 2026 11:10:12 +0000",
-     "summary": "Researchers in Indonesia found that higher soil resistivity significantly increases lightning-induced overvoltage in PV systems. Their simulations also showed that multiple grounding points and connections closer to the lightning strike location can substantially reduce transient voltages. The post ",
-     "source": "pv magazine",
-     "zh": "Multiple grounding points cut lightning-induced overvoltage in solar panels by up to 55%"
-    },
-    {
-     "title": "Energy Dome opens CO2 battery manufacturing plant in Italy",
-     "link": "https://www.pv-magazine.com/2026/10/12/energy-dome-opens-co2-battery-manufacturing-plant-in-italy/",
-     "pubDate": "Mon, 12 Oct 2026 10:08:29 +0000",
-     "summary": "Energy Dome’s new manufacturing plant will supply components for long-duration energy storage (LDES) projects in India, the United States and Ireland. The post Energy Dome opens CO2 battery manufacturing plant in Italy appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Energy Dome opens CO2 battery manufacturing plant in Italy"
     }
    ]
   },
@@ -1769,6 +1769,46 @@
    "total": 18,
    "items": [
     {
+     "title": "华为徐松余：下一代麒麟 2027 芯片就绪，未来 10 年（逻辑折叠）演进可持续",
+     "link": "https://www.ithome.com/1/012/289.htm",
+     "pubDate": "Tue, 13 Oct 2026 05:26:06 GMT",
+     "summary": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。 徐松余今日首次公布逻辑折叠韬芯片麒麟 9050 Pro 详细架构图，包括新一代灵犀 CPU、马良 GPU、达芬奇架构 NPU、麒麟 AI ISP、Balong AI Modem、FFTS 函数流任务调度器、音视频处理器、安全处理器和灵犀微核协同工作。 IT之家注意到，徐松余还透露， 下一代麒麟 2027 芯片也已经就绪，到目前为止，所有的测试结果都符合预期 ，因此在未来 10 年（逻辑折叠）的演进是可持续的。至于具体到哪个阶段",
+     "source": "IT之家",
+     "zh": "华为徐松余：下一代麒麟 2027 芯片就绪，未来 10 年（逻辑折叠）演进可持续"
+    },
+    {
+     "title": "只要踩得够慢，踏板就断不了",
+     "link": "https://www.huxiu.com/article/4897060.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 13:21:36 +0800",
+     "summary": "本文来自微信公众号： 玖峰投研 ，作者：玖峰 10月13日，尊界发布了《尊界V800制动踏板检测情况说明》。事情做得挺足，18台车送去检验，出报告的是中国汽研的检测中心。按行业标准QC/T 788-2018来，1500牛的纵向力压上去，踏板位移量均值2.61毫米，标准要求是不超过5毫米。够用，而且富余不少。 还没完。 报告说它还做了加严，把力一路加到3000牛，保压5秒再卸掉，来回做了5次，一共验了14个制动踏板总成，事后逐个看，没有一个出现裂纹，也没有一个损坏。 你要光看这一段，符合行标，加严的部分还比标准翻了一倍，样本数也不是个把两个。 问题就出在这儿。 大伙这几天吵的，压根不是这件事。 ",
+     "source": "虎嗅",
+     "zh": "只要踩得够慢，踏板就断不了"
+    },
+    {
+     "title": "AI批量造星，真人明星还有何价值？",
+     "link": "https://www.huxiu.com/article/4897059.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 13:18:05 +0800",
+     "summary": "本文来自微信公众号： 深响 ，作者：深响 直播中，演员韩栋哭诉无戏可拍，直播带货收入连每月两万多的房贷都覆盖不了，生活压力极大。微博电影之夜上，刘昊然、文淇站在领奖台上讲的更多不是获奖感言，而是公开求工作。就连沈腾都在综艺里自嘲：“休息半年的愿望达成了”。 内娱明星“集体失业”，而另一批“明星”却正在批量出道。 他们不需要试镜，不需要跑组，也不需要经历漫长的新人期。只要一部AI漫剧走红，角色就可能迅速拥有自己的社交账号、颜值排行、“站姐”、CP和商务合作。粉丝为他们出图、做物料、嗑生嗑死，追星的流程丝毫不输真人。 显然，AI造星已不只是一个概念。今年前8个月，全国上线微短剧43万部，其中AI剧",
+     "source": "虎嗅",
+     "zh": "AI批量造星，真人明星还有何价值？"
+    },
+    {
+     "title": "微软调整 Win10/Win11 新版 Outlook AI 功能，10 月全球停用 Copilot 主题",
+     "link": "https://www.ithome.com/1/012/288.htm",
+     "pubDate": "Tue, 13 Oct 2026 05:17:43 GMT",
+     "summary": "IT之家 10 月 13 日消息，科技媒体 Windows Latest 今天（10 月 13 日）发布博文， 报道称微软将于 2026 年 10 月中下旬在全球停用 Microsoft Outlook 中的 Copilot 主题功能， 覆盖 macOS 和 Windows 新版 Outlook，以及网页版 Outlook.com 。 IT之家援引博文介绍，Copilot 主题是微软为新版 Outlook 引入的 AI 界面定制功能，用户可让 Copilot 根据提示生成主题，用于改变 Outlook 界面的视觉风格。 用户在 Outlook 中选择 Copilot 主题入口后，可输入描述或选",
+     "source": "IT之家",
+     "zh": "微软调整 Win10/Win11 新版 Outlook AI 功能，10 月全球停用 Copilot 主题"
+    },
+    {
+     "title": "Counterpoint 调研称全球超 7 成消费者推迟购买手机或寻找替代机型",
+     "link": "https://www.ithome.com/1/012/287.htm",
+     "pubDate": "Tue, 13 Oct 2026 05:14:33 GMT",
+     "summary": "IT之家 10 月 13 日消息，Counterpoint Research 今日发布年度全球智能手机消费者调研报告，在未来六个月内有购机计划的消费者中， 63% 已注意到智能手机价格上涨 。 报告称，在日常消费的各类产品和服务中，智能手机是消费者感受到价格明显上涨的两大品类之一，与燃油 / 汽油、食品杂货及日常必需品并列。 中国消费者对智能手机价格上涨的认知比例最高 ，达 81%，其次为德国（70%）、印度（66%），美国和英国（均为 50%）。 Counterpoint Research 研究总监 Tarun Pathak 表示：“存储成本上涨正在推高智能手机价格，OEM 厂商吸收成本上涨",
+     "source": "IT之家",
+     "zh": "Counterpoint 调研称全球超 7 成消费者推迟购买手机或寻找替代机型"
+    },
+    {
      "title": "传统豪华车降价，中国新豪华向上，阿维塔T09想争的不只是50万元市场",
      "link": "https://www.tmtpost.com/8165939.html",
      "pubDate": "Tue, 13 Oct 2026 13:07:37 +0800",
@@ -1849,12 +1889,12 @@
      "zh": "Nike Promo Codes and Discounts: 30% for October 2026"
     },
     {
-     "title": "B&H Photo Promo Codes and Deals This October 2026",
-     "link": "https://www.wired.com/story/bh-photo-coupon/",
+     "title": "Booking.com Promo Codes: 20% Off | October 2026",
+     "link": "https://www.wired.com/story/booking-com-promo-code/",
      "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000",
-     "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+     "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
      "source": "WIRED",
-     "zh": "B&H Photo Promo Codes and Deals This October 2026"
+     "zh": "Booking.com Promo Codes: 20% Off | October 2026"
     },
     {
      "title": "锐评中国、美国、韩国娱乐商业模式及核心问题",
@@ -1881,14 +1921,6 @@
      "zh": "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)"
     },
     {
-     "title": "中国市场率先落地后，特斯拉 Automations 自动化功能现身海外版固件",
-     "link": "https://www.ithome.com/1/012/281.htm",
-     "pubDate": "Tue, 13 Oct 2026 04:54:36 GMT",
-     "summary": "IT之家 10 月 13 日消息，特斯拉的 Automations 自动化功能看样子已准备在中国大陆以外市场上线。网友 Maciej Wilczyński（@maciej）在 X 平台发布了一段英文界面的演示视频，称该功能“在最新固件版本里已经完全打磨完毕，只是被功能开关隐藏”。在 @CoilShift 协助下，他直接启用了该功能并进行了演示，没有做任何修改。 与 Wilczyński 合作、特斯拉安卓项目的创作者米哈乌 · 加平斯基（Michał Gapiński，@mikegapinski）也在另一台车上开启了 Automations 并放出演示视频。他把这个功能比作“iOS 初代快捷指令",
-     "source": "IT之家",
-     "zh": "中国市场率先落地后，特斯拉 Automations 自动化功能现身海外版固件"
-    },
-    {
      "title": "断踏板、掉后轮，“速成车”后遗症正在爆发",
      "link": "https://www.huxiu.com/article/4897055.html?f=rss",
      "pubDate": "Tue, 13 Oct 2026 12:49:56 +0800",
@@ -1905,22 +1937,6 @@
      "zh": "从电视到AI短剧，争夺时间的生意有什么变化？"
     },
     {
-     "title": "《自然》独家：这几个欧美科学院竟是“草台班子”？知名科学家也纷纷上当",
-     "link": "https://www.huxiu.com/article/4897054.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 12:49:03 +0800",
-     "summary": "本文来自微信公众号： 自然系列 ，作者：Nature Portfolio 本篇《自然》长文共6121字，干货满满，预计阅读时间19分钟，时间不够建议可以先“浮窗”或者收藏哦。 原文作者：Max Kozlov 《自然》开展的调查显示，一个机构网络通过欺诈手段做大自己的规模。 Julia Hirschberg以为她终于能庆祝一番了。7月，她当选欧洲工程院（European Academy of Engineering，缩写EAE）院士，该机构在其官网上以“代表工程界最高专业荣誉的顶级机构”自居，其400多名院士中有35名诺奖得主。 就在听到这个好消息的几天前，另一个荣誉也从天而降：她当选了奥地利工",
-     "source": "虎嗅",
-     "zh": "《自然》独家：这几个欧美科学院竟是“草台班子”？知名科学家也纷纷上当"
-    },
-    {
-     "title": "闲鱼实体店，没活硬整？",
-     "link": "https://www.huxiu.com/article/4897053.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 12:47:24 +0800",
-     "summary": "本文来自微信公众号： 惊蛰研究所 ，作者：惊蛰研究所消费组 10月6日傍晚6点，上海长宁区闲鱼循环商店荟聚店内。或许因为正值餐饮晚市高峰期，店内顾客并不多：两名工作人员在岗，另有两人在寄卖电器产品，正在柜台前跟店员交谈。走进店内，货架覆盖服装鞋帽、户外运动、模型玩具、箱包配饰、数码家电、书籍等诸多品类。 这样的全品类门店，只是闲鱼线下尝试的一种。今年8月1日，闲鱼又在上海开出了首家二次元潮玩集合店。而自2024年正式布局线下至今，两年多过去，闲鱼的线下之路似乎仍处于边开边试的状态。一个靠C2C轻模式起家的二手交易平台，为何执着于开实体店？实体二手交易，真的是门好生意吗？ 理想目标与骨感现实 2",
-     "source": "虎嗅",
-     "zh": "闲鱼实体店，没活硬整？"
-    },
-    {
      "title": "IDC: Nvidia&apos;s AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition (Reuters)",
      "link": "https://www.techmeme.com/261013/p2#a261013p2",
      "pubDate": "Tue, 13 Oct 2026 00:45:01 -0400",
@@ -1929,28 +1945,12 @@
      "zh": "IDC: Nvidia&apos;s AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition (Reuters)"
     },
     {
-     "title": "IDC：第三季度中国手机出货同比下滑 15.4%，华为逆势同比增长、荣耀逆势环比增长",
-     "link": "https://www.ithome.com/1/012/280.htm",
-     "pubDate": "Tue, 13 Oct 2026 04:36:45 GMT",
-     "summary": "IT之家 10 月 13 日消息，国际数据公司（IDC）今日发布最新手机季度跟踪报告初版数据，2026 年第三季度中国智能手机市场出货量约为 5,790 万台，同比下降 15.4%。 华为是头部厂商中唯一实现同比双位数增长的品牌 。 报告称，相较上半年约 4% 的同比降幅，下半年整体市场规模下滑速度进一步加快。存储及其他元器件成本大幅上升所引发的终端价格上涨与产品配置方案调整，已开始明显抑制消费需求，其中安卓厂商与长尾品牌承受的压力尤为突出。 本季度市场呈现“量跌价升”的典型特征。上游成本压力持续向终端传导，导致新品定价普遍上浮，同时厂商不得不调整产品配置组合以平衡成本。消费者面对价格上涨仍需",
-     "source": "IT之家",
-     "zh": "IDC：第三季度中国手机出货同比下滑 15.4%，华为逆势同比增长、荣耀逆势环比增长"
-    },
-    {
      "title": "20个中国品牌挤进巴黎车展，欧洲车企坐不住了",
      "link": "https://www.tmtpost.com/8166039.html",
      "pubDate": "Tue, 13 Oct 2026 12:21:14 +0800",
      "summary": "20个中国品牌杀进巴黎，欧洲车企终于发现，主场优势正在变得不那么可靠。",
      "source": "钛媒体",
      "zh": "20个中国品牌挤进巴黎车展，欧洲车企坐不住了"
-    },
-    {
-     "title": "领克 10 EM-P 翻滚坠落百米崖底，官方回应称乘员舱结构完整、电池无冒烟起火",
-     "link": "https://www.ithome.com/1/012/279.htm",
-     "pubDate": "Tue, 13 Oct 2026 04:20:49 GMT",
-     "summary": "IT之家 10 月 13 日消息，今日，领克汽车官微发布《关于四川泸州领克 10 EM-P 车辆交通事故的说明》，说明称，10 月 9 日清晨四川泸州国道上一领克 10 EM-P 翻滚坠落至近百米崖底，事故中车辆安全气囊弹出，紧急救援系统自动触发并语音呼叫车主；车辆多次撞击翻滚后乘员舱完好，A/B/C 柱未变形、车门可正常打开，电池没有冒烟、起火、爆炸、漏电情况。经医院检查，车主轻微擦伤及局部骨裂，精神状态良好。 IT之家附声明原文如下： 10 月 9 日清晨 6 时左右，一辆领克 10 EM-P 在四川泸州国道行驶途中，因车主不熟悉路段情况，车辆偏离路面，翻滚、坠落至近百米落差崖底。 车辆坠",
-     "source": "IT之家",
-     "zh": "领克 10 EM-P 翻滚坠落百米崖底，官方回应称乘员舱结构完整、电池无冒烟起火"
     },
     {
      "title": "企业级AI离深度应用还有很多路要走丨ToB产业观察",
@@ -2016,6 +2016,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google could soon let you publish your Gemini creations as reusable styles",
+     "link": "https://www.androidauthority.com/gemini-publish-image-video-styles-apk-teardown-3722379/",
+     "pubDate": "Tue, 13 Oct 2026 05:10:53 +0000",
+     "summary": "It's also working on a redesigned UI for Gemini's \"Images\" and \"Videos\" sections.",
+     "source": "Android Authority",
+     "zh": "Google could soon let you publish your Gemini creations as reusable styles"
+    },
     {
      "title": "Gemini ‘Task’ redesign integrates Spark into the main chat app",
      "link": "https://9to5google.com/2026/10/12/gemini-spark-task-redesign/",
@@ -2241,14 +2249,6 @@
      "zh": "The best cameras for travel in late 2026"
     },
     {
-     "title": "Meta wants Muse to keep up with ChatGPT and Gemini, and Wonder is how",
-     "link": "https://www.androidauthority.com/meta-muse-wonder-ai-models-3722247/",
-     "pubDate": "Mon, 12 Oct 2026 20:16:09 +0000",
-     "summary": "Meta's latest AI models are built to make Muse far more capable.",
-     "source": "Android Authority",
-     "zh": "Meta wants Muse to keep up with ChatGPT and Gemini, and Wonder is how"
-    },
-    {
      "title": "JP Morgan: demand for iPhone 18 Pro models is stronger than for the 17 Pro models last year",
      "link": "https://www.gsmarena.com/jp_morgan_demand_for_iphone_18_pro_models_is_stronger_than_for_the_17_pro_models_last_year-news-75005.php",
      "pubDate": "Mon, 12 Oct 2026 21:31:02 +0200",
@@ -2265,52 +2265,76 @@
    "total": 13,
    "items": [
     {
-     "title": "中谷物流10月13日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610133893988955.html",
-     "pubDate": "Tue, 13 Oct 2026 13:04:24 +0800",
-     "summary": "以下是 中谷物流 在北京时间10月13日13:04分盘口异动快照： 10月13日， 中谷物流 盘中涨幅达5%，截至13点04分，报12.31元，成交2.28亿元，换手率0.91%。 分笔 13:04:12 12.31 96↑ 13:04:09 12.29 113↓ 13:04:06 12.29 212↑ 13:04:03 12.29 142↑ 13:04:00 12.28 125↑ 13:03:57 12.27 257↓ 13:03:54 12.28 477↓ 13:03:51 12.29 261↑ 13:03:48 12.29 908↑ 13:03:45 12.27 1393↓ 报价 卖五 ",
+     "title": "天通股份10月13日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610133894025610.html",
+     "pubDate": "Tue, 13 Oct 2026 13:25:14 +0800",
+     "summary": "以下是 天通股份 在北京时间10月13日13:25分盘口异动快照： 10月13日， 天通股份 盘中涨幅达5%，截至13点25分，报23.42元，成交12.77亿元，换手率4.73%。 分笔 13:25:08 23.42 66↑ 13:25:05 23.41 141↑ 13:25:02 23.41 746↑ 13:24:59 23.37 240↑ 13:24:56 23.36 30↑ 13:24:53 23.36 205↑ 13:24:50 23.33 54↓ 13:24:47 23.33 66↓ 13:24:44 23.33 45↓ 13:24:41 23.33 118↑ 报价 卖五 23.4",
      "source": "东方财富股票",
-     "zh": "中谷物流10月13日盘中涨幅达5%"
+     "zh": "天通股份10月13日盘中涨幅达5%"
     },
     {
-     "title": "景旺电子10月13日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610133893988855.html",
-     "pubDate": "Tue, 13 Oct 2026 13:04:24 +0800",
-     "summary": "以下是 景旺电子 在北京时间10月13日13:04分盘口异动快照： 10月13日， 景旺电子 盘中快速回调，5分钟内跌幅超过2%，截至13点04分，报97.87元，成交28.29亿元，换手率3.06%。 分笔 13:04:10 97.87 165↓ 13:04:07 97.97 139↓ 13:04:04 97.98 493↓ 13:04:01 98.00 47↓ 13:03:58 98.03 9↑ 13:03:55 98.00 28↓ 13:03:52 98.01 123↑ 13:03:49 97.98 96↓ 13:03:46 98.00 342↓ 13:03:43 98.09 85↓ 报",
+     "title": "爱丽家居10月13日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610133894024792.html",
+     "pubDate": "Tue, 13 Oct 2026 13:24:59 +0800",
+     "summary": "以下是 爱丽家居 在北京时间10月13日13:24分盘口异动快照： 10月13日， 爱丽家居 盘中快速上涨，5分钟内涨幅超过2%，截至13点24分，报25.95元，成交2.16亿元，换手率3.65%。 分笔 13:24:49 25.95 87↑ 13:24:46 25.92 668↑ 13:24:43 25.90 105↓ 13:24:40 25.90 10↓ 13:24:37 25.90 603↑ 13:24:34 25.86 56↓ 13:24:31 25.86 108↓ 13:24:28 25.86 131↑ 13:24:25 25.87 479↓ 13:24:22 25.91 130↑",
      "source": "东方财富股票",
-     "zh": "景旺电子10月13日快速回调"
+     "zh": "爱丽家居10月13日快速上涨"
     },
     {
-     "title": "威尔高10月13日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610133893988525.html",
-     "pubDate": "Tue, 13 Oct 2026 13:04:13 +0800",
-     "summary": "以下是 威尔高 在北京时间10月13日13:04分盘口异动快照： 10月13日， 威尔高 盘中快速回调，5分钟内跌幅超过2%，截至13点04分，报74.83元，成交5.19亿元，换手率4.12%。 分笔 13:04:03 74.83 49↓ 13:04:00 75.00 80↑ 13:03:57 74.87 228↓ 13:03:54 75.17 13↑ 13:03:51 75.12 10↑ 13:03:48 75.12 25↓ 13:03:45 75.13 28↓ 13:03:42 75.20 11↓ 13:03:39 75.21 2↑ 13:03:36 75.18 8↓ 报价 卖五 74.",
+     "title": "华如科技10月13日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610133894024622.html",
+     "pubDate": "Tue, 13 Oct 2026 13:24:51 +0800",
+     "summary": "以下是 华如科技 在北京时间10月13日13:24分盘口异动快照： 10月13日， 华如科技 盘中涨幅达5%，截至13点24分，报21.54元，成交7251.37万元，换手率2.55%。 分笔 13:24:42 21.54 348↑ 13:24:39 21.40 6↑ 13:24:36 21.40 33↓ 13:24:33 21.40 50↓ 13:24:30 21.40 4↓ 13:24:27 21.40 10↓ 13:24:24 21.40 24↓ 13:24:21 21.43 19↑ 13:24:18 21.40 37↑ 13:24:15 21.40 66↓ 报价 卖五 21.62 1 ",
      "source": "东方财富股票",
-     "zh": "威尔高10月13日快速回调"
+     "zh": "华如科技10月13日盘中涨幅达5%"
     },
     {
-     "title": "德尔未来10月13日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610133893988369.html",
-     "pubDate": "Tue, 13 Oct 2026 13:04:13 +0800",
-     "summary": "以下是 德尔未来 在北京时间10月13日13:04分盘口异动快照： 10月13日， 德尔未来 盘中快速上涨，5分钟内涨幅超过2%，截至13点04分，报11.93元，成交2.45亿元，换手率2.76%。 分笔 13:04:06 11.93 280↑ 13:04:03 11.89 206↓ 13:04:00 11.91 258↑ 13:03:57 11.89 135↑ 13:03:54 11.90 387↑ 13:03:51 11.89 210↓ 13:03:48 11.90 26↑ 13:03:45 11.90 101↑ 13:03:42 11.90 470↑ 13:03:39 11.86 49",
+     "title": "铭科精技10月13日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610133894024446.html",
+     "pubDate": "Tue, 13 Oct 2026 13:24:42 +0800",
+     "summary": "以下是 铭科精技 在北京时间10月13日13:24分盘口异动快照： 10月13日， 铭科精技 盘中快速上涨，5分钟内涨幅超过2%，截至13点24分，报20.99元，成交2324.67万元，换手率1.40%。 分笔 13:24:39 20.99 310↑ 13:24:36 20.83 56↓ 13:24:33 20.83 14↓ 13:24:30 20.86 8↓ 13:24:15 20.92 10↑ 13:24:12 20.90 6↑ 13:24:09 20.84 15↓ 13:24:03 20.92 28↑ 13:24:00 20.87 2↓ 13:23:57 20.87 4↓ 报价 卖五 ",
      "source": "东方财富股票",
-     "zh": "德尔未来10月13日快速上涨"
+     "zh": "铭科精技10月13日快速上涨"
     },
     {
-     "title": "海通发展10月13日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610133893988461.html",
-     "pubDate": "Tue, 13 Oct 2026 13:04:13 +0800",
-     "summary": "以下是 海通发展 在北京时间10月13日13:04分盘口异动快照： 10月13日， 海通发展 盘中快速反弹，5分钟内涨幅超过2%，截至13点04分，报11.69元，成交3.83亿元，换手率2.47%。 分笔 13:04:04 11.69 154↑ 13:04:01 11.67 62↑ 13:03:58 11.66 88↑ 13:03:55 11.65 16↑ 13:03:52 11.64 128↑ 13:03:49 11.63 18↓ 13:03:46 11.63 25↓ 13:03:43 11.63 137↓ 13:03:40 11.65 93↓ 13:03:37 11.65 134↑ 报价",
+     "title": "宣亚国际10月13日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610133894024138.html",
+     "pubDate": "Tue, 13 Oct 2026 13:24:20 +0800",
+     "summary": "以下是 宣亚国际 在北京时间10月13日13:24分盘口异动快照： 10月13日， 宣亚国际 盘中涨幅达5%，截至13点24分，报13.07元，成交1.26亿元，换手率5.53%。 分笔 13:24:03 13.07 427↑ 13:24:00 13.04 86↓ 13:23:54 13.04 31↑ 13:23:51 13.03 10↓ 13:23:48 13.04 58↑ 13:23:45 13.04 35↓ 13:23:42 13.05 517↑ 13:23:39 13.03 180↓ 13:23:36 13.05 552↑ 13:23:33 13.05 51↑ 报价 卖五 13.14 ",
      "source": "东方财富股票",
-     "zh": "海通发展10月13日快速反弹"
+     "zh": "宣亚国际10月13日盘中涨幅达5%"
     },
     {
-     "title": "崇达技术10月13日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610133893988210.html",
-     "pubDate": "Tue, 13 Oct 2026 13:04:13 +0800",
-     "summary": "以下是 崇达技术 在北京时间10月13日13:04分盘口异动快照： 10月13日， 崇达技术 盘中快速回调，5分钟内跌幅超过2%，截至13点04分，报21.3元，成交11.14亿元，换手率6.89%。 分笔 13:04:03 21.30 277↓ 13:04:00 21.31 663↑ 13:03:57 21.31 519↓ 13:03:54 21.36 116↑ 13:03:51 21.36 128↓ 13:03:48 21.36 234↓ 13:03:45 21.38 224↓ 13:03:42 21.40 41↑ 13:03:39 21.39 50↓ 13:03:36 21.40 57↑",
+     "title": "天和防务10月13日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610133894023910.html",
+     "pubDate": "Tue, 13 Oct 2026 13:24:20 +0800",
+     "summary": "以下是 天和防务 在北京时间10月13日13:24分盘口异动快照： 10月13日， 天和防务 盘中涨幅达5%，截至13点24分，报10.45元，成交1.30亿元，换手率3.21%。 分笔 13:24:09 10.45 32↑ 13:24:06 10.43 80↓ 13:24:03 10.43 897↑ 13:24:00 10.41 21↑ 13:23:57 10.40 29↓ 13:23:54 10.40 164↓ 13:23:51 10.40 1735↑ 13:23:48 10.36 67↓ 13:23:45 10.36 61↑ 13:23:42 10.35 160↓ 报价 卖五 10.48",
      "source": "东方财富股票",
-     "zh": "崇达技术10月13日快速回调"
+     "zh": "天和防务10月13日盘中涨幅达5%"
+    },
+    {
+     "title": "Anthropic explores Australia expansion with focus on regional data center sites - report",
+     "link": "https://seekingalpha.com/news/4652304-anthropic-explores-australia-expansion-with-focus-on-regional-data-center-sites---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 01:22:10 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Anthropic explores Australia expansion with focus on regional data center sites - report"
+    },
+    {
+     "title": "Character.ai files Chapter 11; Disney steps in as stalking horse bidder",
+     "link": "https://seekingalpha.com/news/4652309-characterai-files-chapter-11-disney-steps-in-as-stalking-horse-bidder?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 01:17:14 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Character.ai files Chapter 11; Disney steps in as stalking horse bidder"
+    },
+    {
+     "title": "A股三大股指集体翻红，PCB、覆铜板掀涨停潮，江淮汽车盘中大涨9%，恒科指跌1%，权重科网股多数走低",
+     "link": "https://wallstreetcn.com/articles/3783494",
+     "pubDate": "Tue, 13 Oct 2026 13:15:40 +0800",
+     "summary": "华尔街见闻文章 写道，韩国假日后补跌、三星与SK海力士史上最大规模回购（约400亿美元）提前终止，叠加长鑫科技宣布4F²架构突破,在单元架构上或领先韩国巨头两年等三重冲击叠加，隔夜 美股存储芯片重挫 ，叠加周二韩国KOSPI指数跌5%，芯片巨头三星电子、SK海力士大跌，A股和港股芯片、算力硬件盘初一度集体杀跌，午后持续回暖。联讯仪器强势反弹，重夺“股王”宝座。江淮汽车盘中拉升9%，尊界V800检测报告出炉。 10月13日，A股午后继续拉升，三大股指集体翻红，创业板早盘一度跌超3%，AI硬件侧继续反弹，覆铜板指数涨超4%。天孚通信涨近8%，中际旭创、新易盛跟随，创业板指收复日内失地。白酒、煤炭、",
+     "source": "华尔街见闻",
+     "zh": "A股三大股指集体翻红，PCB、覆铜板掀涨停潮，江淮汽车盘中大涨9%，恒科指跌1%，权重科网股多数走低"
     },
     {
      "title": "Kroger to eliminate 3,000 corporate jobs in three-year AI restructuring",
@@ -2361,14 +2385,6 @@
      "zh": "RBA September Minutes: Unanimous 25bps rate hike to 4.6%, hawkish stance maintained"
     },
     {
-     "title": "Japan's producer price inflation slows to 6.8% in September, below market expectations",
-     "link": "https://seekingalpha.com/news/4652307-japan-producer-price-inflation-slows-to-68-in-september-below-market-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 00:31:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Japan's producer price inflation slows to 6.8% in September, below market expectations"
-    },
-    {
      "title": "上海嘉定民生村镇银行被罚款60万元 两人被警告",
      "link": "http://www.eeo.com.cn/2026/1013/1062307.shtml",
      "pubDate": "Tue, 13 Oct 2026 12:26:07 +0800",
@@ -2409,28 +2425,12 @@
      "zh": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴"
     },
     {
-     "title": "Micron authorizes record $35.16B share buyback program starting Dec. 9",
-     "link": "https://seekingalpha.com/news/4652296-micron-authorizes-record-3516b-share-buyback-program-starting-dec-9?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 00:12:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Micron authorizes record $35.16B share buyback program starting Dec. 9"
-    },
-    {
      "title": "AI时代，每个新产品“不做Agent入口，就沦为其他Agent的数据”",
      "link": "https://wallstreetcn.com/articles/3783496",
      "pubDate": "Tue, 13 Oct 2026 12:04:09 +0800",
      "summary": "在斯坦福大学的课堂上，SpaceX的Lee Robinson揭示了AI代理正从被动响应向“全天候待命”进化，而在这个万亿级的新赛道中，任何未能掌握Agent入口的产品，终将彻底沦为其他AI系统的数据“养料”。 近日，在斯坦福大学CS146S课程上，SpaceX技术骨干（前Cursor核心成员）Lee Robinson发表了关于“全天候代理（Always-on Agent）工作原理”的主题演讲。 在当前市场高度关注AI商业化落地、算力成本控制以及应用层爆发节点的背景下，Robinson的演讲不仅拆解了前沿AI架构的底层逻辑，更向业界抛出了一个极具冲击力的商业论断：未来的SaaS和软件生态将被彻底",
      "source": "华尔街见闻",
      "zh": "AI时代，每个新产品“不做Agent入口，就沦为其他Agent的数据”"
-    },
-    {
-     "title": "创业板半日跌近1%，PCB、覆铜板掀涨停潮，江淮汽车盘中大涨9%，恒科指跌超1%，权重科网股集体走低",
-     "link": "https://wallstreetcn.com/articles/3783494",
-     "pubDate": "Tue, 13 Oct 2026 12:01:32 +0800",
-     "summary": "华尔街见闻文章 写道，韩国假日后补跌、三星与SK海力士史上最大规模回购（约400亿美元）提前终止，叠加长鑫科技宣布4F²架构突破,在单元架构上或领先韩国巨头两年等三重冲击叠加，隔夜 美股存储芯片重挫 ，叠加周二韩国KOSPI指数跌5%，芯片巨头三星电子、SK海力士大跌，A股和港股芯片、算力硬件盘初一度集体杀跌。联讯仪器强势反弹，重夺“股王”宝座。江淮汽车盘中拉升9%，尊界V800检测报告出炉。 10月13日，A股早盘集体低开，三大股指盘初进一步下跌，创业板一度跌超3%，随后收窄跌幅，临近午盘，创业板跌1%，在AI硬件、芯片半导体等普遍下挫之际，科创综指、科创50盘初亦大幅下挫。电路板、覆铜板逆",
-     "source": "华尔街见闻",
-     "zh": "创业板半日跌近1%，PCB、覆铜板掀涨停潮，江淮汽车盘中大涨9%，恒科指跌超1%，权重科网股集体走低"
     },
     {
      "title": "The election supercycle set to drag Europe right",

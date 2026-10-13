@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/13 19:04:51",
+ "generated_at": "2026/10/13 19:12:00",
  "recent_days": 7,
  "industries": [
   {
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Stationary, moving, flexible: Batteries are the low-cost backbone of the future energy system",
+     "link": "https://www.pv-magazine.com/2026/10/13/stationary-moving-flexible-batteries-are-the-low-cost-backbone-of-the-future-energy-system/",
+     "pubDate": "Tue, 13 Oct 2026 11:05:45 +0000",
+     "summary": "While it is known that batteries are indispensable for the future energy system dominated by solar PV, they are still seen as a bottleneck technology mostly related to raw material supply. Sodium-ion batteries can resolve this issue. Batteries are more than a stationary storage technology, also with",
+     "source": "pv magazine",
+     "zh": "Stationary, moving, flexible: Batteries are the low-cost backbone of the future energy system"
+    },
+    {
      "title": "‘You need to get comfortable with regulatory reform as a known risk’: Battery Asset Management Summit UK & Ireland kicks off",
      "link": "https://www.energy-storage.news/you-need-to-get-comfortable-with-regulatory-reform-as-a-known-risk-battery-asset-management-summit-uk-ireland-kicks-off/",
      "pubDate": "Tue, 13 Oct 2026 10:43:38 +0000",
@@ -944,14 +952,6 @@ window.INDUSTRY_DATA = {
      "summary": "A detailed look at Maxxen’s advanced BESS factory from an on-the-ground tour. The post Inside BESS manufacturing: Maxxen’s utility-scale storage factory in Europe appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "Inside BESS manufacturing: Maxxen’s utility-scale storage factory in Europe"
-    },
-    {
-     "title": "CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe",
-     "link": "https://www.pv-magazine.com/2026/10/13/catl-intilion-target-up-to-3-gwh-of-sodium-ion-storage-in-europe/",
-     "pubDate": "Tue, 13 Oct 2026 09:21:26 +0000",
-     "summary": "The five-year agreement extends an existing partnership into sodium-ion storage across Germany, Austria and Switzerland. The post CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe"
     },
     {
      "title": "Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz",
@@ -1163,7 +1163,7 @@ window.INDUSTRY_DATA = {
     },
     {
      "title": "First Tracks climbs on ‘impressive’ celiac study data",
-     "link": "https://www.biopharmadive.com/news/first-tracks-biotherapeutics-scores-on-celiac-disease-study/832726/",
+     "link": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
      "pubDate": "Mon, 12 Oct 2026 17:26:00 -0400",
      "summary": "Initial study findings strengthened some analysts&rsquo; belief that First Tracks&rsquo; drug, one of a few in development aimed at the protein CD122, might have &ldquo;pipeline-in-a-product&rdquo; potential.&nbsp;",
      "source": "BioPharma Dive",
@@ -1554,6 +1554,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "AI Turns Familiar Cyberattacks Into a Race Against Time",
+     "link": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
+     "pubDate": "Tue, 13 Oct 2026 11:00:00 +0000",
+     "summary": "IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses. The post AI Turns Familiar Cyberattacks Into a Race Against Time appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "AI Turns Familiar Cyberattacks Into a Race Against Time"
+    },
+    {
      "title": "$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant",
      "link": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
      "pubDate": "Tue, 13 Oct 2026 10:36:05 +0000",
@@ -1714,14 +1722,6 @@ window.INDUSTRY_DATA = {
      "zh": "Passing the Baton: Dark Reading Names New Editor-in-Chief"
     },
     {
-     "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
-     "link": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
-     "pubDate": "Mon, 12 Oct 2026 11:58:39 +0000",
-     "summary": "The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal. The post Canonical Websites Disrupted in Second DDoS Attack This Year appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Canonical Websites Disrupted in Second DDoS Attack This Year"
-    },
-    {
      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
      "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
      "pubDate": "Mon, 12 Oct 2026 17:25:00 +0530",
@@ -1770,6 +1770,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "玩家为破解后的索尼 PS5 游戏机开发自制应用商店，可免费下载各大作品",
+     "link": "https://www.ithome.com/1/012/540.htm",
+     "pubDate": "Tue, 13 Oct 2026 11:08:58 GMT",
+     "summary": "IT之家 10 月 13 日消息，随着 PS5 破解方案 Relapse 出炉，目前市面上出现了一批面向破解版 PS5 的自制应用商店，玩家可以从中免费下载各种游戏。 综合 Insider Gaming 报道，例如 X 平台用户 Edigax 于 10 月 11 日发布一段演示视频，展示其从一款名为 Overdrive 的应用商店中免费下载了《战地风云 6》《极限竞速：地平线 5》等作品，不过有 Reddit 用户称该 Overdrive 应用商店“制作得非常粗糙”。 除了 Overdrive 外，还有开发者 saawant12 公布了 Orbit Store 应用商店，目前其中列出了 147",
+     "source": "IT之家",
+     "zh": "玩家为破解后的索尼 PS5 游戏机开发自制应用商店，可免费下载各大作品"
+    },
+    {
+     "title": "字节跳动开启新一轮期权回购：每股 241.35 美元，离职员工不打折",
+     "link": "https://www.ithome.com/1/012/539.htm",
+     "pubDate": "Tue, 13 Oct 2026 11:05:02 GMT",
+     "summary": "10 月 13 日，据大厂日爆，字节跳动发布全员信，宣布启动 2026 年 10 月期权回购。本次回购价格为税前每股 241.35 美元 （IT之家注：现汇率约合 1,618 元人民币） ，与 9 月初流传价格一致。 参与此次回购的人员包含离职员工，其中近期因业务调整离开的员工，每股回购价格与在职员工相同。 据全员信披露，回购额度按不同授予类型计算：总包类期权每批次归属后可申请回购该批次已归属股数的 50%，之后每满一年增加 10%；绩效类期权中，2026 年 1 月 1 日前授予的每批次归属后可申请回购 100%，2026 年 1 月 1 日及之后授予的可回购 55%，之后每满一年增加 15",
+     "source": "IT之家",
+     "zh": "字节跳动开启新一轮期权回购：每股 241.35 美元，离职员工不打折"
+    },
+    {
      "title": "赛力斯 & 字节合作：赛豆科技 AIVA 第二款车型预计为 SUV，考虑采用换电方案",
      "link": "https://www.ithome.com/1/012/538.htm",
      "pubDate": "Tue, 13 Oct 2026 11:00:51 GMT",
@@ -1794,6 +1810,54 @@ window.INDUSTRY_DATA = {
      "zh": "The IMF lifts its 2026 global GDP growth forecast to 3.1%, up from 3% in July, citing an AI boom that offsets Middle East war disruptions and high energy costs (Anniek Bao/CNBC)"
     },
     {
+     "title": "30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés",
+     "link": "https://www.wired.com/gallery/best-tech-books-to-gift/",
+     "pubDate": "Tue, 13 Oct 2026 11:00:00 +0000",
+     "summary": "Give the techie in your life access to the inner workings of the companies and characters shaping Big Tech.",
+     "source": "WIRED",
+     "zh": "30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés"
+    },
+    {
+     "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+     "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+     "pubDate": "Tue, 13 Oct 2026 11:00:00 +0000",
+     "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+     "source": "WIRED",
+     "zh": "Wikipedians Believed AI Would Come and Go. They Were Wrong"
+    },
+    {
+     "title": "编剧越多，剧本越烂？",
+     "link": "https://www.huxiu.com/article/4897168.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 19:00:00 +0800",
+     "summary": "本文来自微信公众号： 骨朵 ，作者：GuDuo骨朵编辑部 一部30集的电视剧需要14个编剧吗？ 近期，古装剧《一瓯春》因编剧太多被网友热议。 观众态度大概分为两类：一类对剧情节奏提出批评，直言“编剧越多剧本越烂”；另一类则认为，影视行业里编剧地位低下，付出劳动但得不到署名的“无名英雄”比比皆是，《一瓯春》的“老实”不是槽点，反而是维护编剧权益的行为。 透过表象，更值得追问的本质是，怎样的生产流程会产生这一长串名单？这种模式是从什么时候开始的？一个剧本不好，编剧是否就要承担所有责任？ 在对两位从业超十年的编剧的采访中，除了上述问题得到解疑，骨朵还看到了一个长剧项目落地的困难，以及普通编剧在这期间",
+     "source": "虎嗅",
+     "zh": "编剧越多，剧本越烂？"
+    },
+    {
+     "title": "雅思停考四日风波",
+     "link": "https://www.huxiu.com/article/4897188.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 18:59:34 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：查沁君 “考到一半，电脑跳出暂停（字样），全国都停了。” 10月10日，一场突如其来的技术故障打断了多地考生的雅思考试。有考生正在进行听力考试时，被监考人员要求摘下耳机；有人刚做完听力、进入阅读环节，便被通知停止考试；还有考生已经抵达考点、完成签到，却在开考前后得知考试取消。 这场突发事件迅速蔓延至全国多个城市，从10月10日至13日，雅思全科机考及单科重考连续多日受到影响。对于已经完成部分考试环节的考生而言，考试中断不仅意味着需要重新预约，还可能涉及成绩作废、申请进度被打乱等问题。 考生Eric在社交平台讲述了自己的经历。今年8月22日，他参加雅思纸笔",
+     "source": "虎嗅",
+     "zh": "雅思停考四日风波"
+    },
+    {
+     "title": "中国人4成的时间，献给了字节跳动",
+     "link": "https://www.huxiu.com/article/4897185.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 18:57:44 +0800",
+     "summary": "本文来自微信公众号： 科技爆论 ，作者：爆哥 野村8月报告给出了一个很扎眼的数字：中国网民每上网10分钟，就有超过4分钟花在字节系产品上。是的，网民们把41.8%的上网时间都留给了字节。 很多人把这位中国网民的时间管理大师讲成“算法又赢了”的故事，但如果再往深邃了看，其实算法早就不是主角。 1 41.8%的胜利？ 第三次鸦片战争打响了——这是网友的戏称，也是对如今用户沉迷抖音红果的无奈。 这还真不是夸张投行集团野村在研报里，统计了我国8月的用户使用时长前50的应用，前50的应用就已经合计吃掉中国移动互联网约93%的时长，基本就是大盘。而其中字节系更是生猛，足足占据了41.8%的份额。 说一句半",
+     "source": "虎嗅",
+     "zh": "中国人4成的时间，献给了字节跳动"
+    },
+    {
+     "title": "宁德时代，盯上了AI的生意？",
+     "link": "https://www.huxiu.com/article/4897187.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 18:56:17 +0800",
+     "summary": "本文来自微信公众号： 豹变 ，作者：张经纬，编辑：邢昀 从绑定车企到绑定大模型、具身智能、AIDC，宁德正在重新复制“卖铲人”逻辑。 19世纪后期，标准石油（埃克森美孚前身）的创始人们开始以个人名义买入铁路公司的股票。创始合伙人杰贝兹·博斯特威克后来干脆出任纽约与新英格兰铁路公司的总裁，另一合伙人卡姆登，一边替标准石油守着产油区，一边为俄亥俄河铁路融资。 三十年里，这种个人持股悄悄织成网络。1904年，调查记者塔贝尔在《标准石油公司史》中写下了那句知名论断：标准石油“拥有大多数大铁路系统的股份，并在几乎所有大铁路系统的董事会中占有代表”。 彼时，洛克菲勒管理下的标准石油是全美国最大的原油开采、",
+     "source": "虎嗅",
+     "zh": "宁德时代，盯上了AI的生意？"
+    },
+    {
      "title": "AMD 首次展示 Verano 霄龙处理器：计划 2027 年上市，支持 LPDDR5X",
      "link": "https://www.ithome.com/1/012/535.htm",
      "pubDate": "Tue, 13 Oct 2026 10:54:06 GMT",
@@ -1808,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 13 日消息，Square Enix 本月悄悄为 Steam 版《最终幻想 X/X-2 HD 重制版（FINAL FANTASY X/X-2 HD Remaster）》推送更新补丁，这是系本作登陆 Steam 平台 7 年以来的首个补丁，据称修复了玩家多年来持续反馈的绿屏问题。 据介绍，本作是《最终幻想 X》和《最终幻想 X-2》两款游戏的高清重制版本，于 2016 年登陆 Steam 平台。不过，随着时间推移，不少玩家陆续反映游戏画面会突然变绿，部分玩家还遇到了游戏崩溃等问题。 根据非官方分析，这些问题可能与游戏采用 32 位应用程序架构有关。该架构将可用虚拟地址空间限制",
      "source": "IT之家",
      "zh": "SE《最终幻想 X/X-2 HD 重制版》登陆 Steam 平台 7 年后终获补丁更新，消息称已修复游戏绿屏问题"
-    },
-    {
-     "title": "千问 AI 耳夹式耳机开售：Bose 调音，到手价 1099 元",
-     "link": "https://www.ithome.com/1/012/532.htm",
-     "pubDate": "Tue, 13 Oct 2026 10:51:16 GMT",
-     "summary": "IT之家 10 月 13 日消息，千问 AI 耳夹式耳机现已在京东开售。新品主打 Bose 大师调音，支持 AI 笔记、AI 同声传译等功能，到手价 1099 元。 据介绍，这款耳机有深空蓝、星光色、极光紫三种颜色可选，不分左右耳，支持 IP55 级防尘防泼溅，至多可配对 8 台设备，支持双设备同时连接；耳机续航 9 小时，配合充电仓 40 小时，支持无线充电。 这款耳机搭载 0.5mm 超薄记忆钛丝，专为亚洲人耳打造；由 Bose 调音，专为耳夹式开放形态优化；支持动态 EQ，可随音量自动调整频率响应。 该耳机搭载 12 磁铁双环聚磁单元，支持 LHDC 5.0 高清蓝牙音频解码，最高可达 ",
-     "source": "IT之家",
-     "zh": "千问 AI 耳夹式耳机开售：Bose 调音，到手价 1099 元"
     },
     {
      "title": "DeepSeek，千亿融资追踪，LP称仍在动态变化",
@@ -1842,22 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "How crypto billionaires Christopher Harborne, who owns ~12% of Tether, and Ben Delo donated ~$100M to Nigel Farage&apos;s Reform, the largest donations in UK history (David Segal/New York Times)"
     },
     {
-     "title": "一年几百亿的HPV疫苗生意，商业逻辑彻底变了",
-     "link": "https://www.huxiu.com/article/4897182.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 18:44:59 +0800",
-     "summary": "本文来自微信公众号： 医线Insight ，制图：医线Insight，作者：张小漫 九价HPV疫苗的市场现状，已经很难让人联想到几年前的“一针难求”。 比如上海在执行九价HPV疫苗惠民活动，符合条件的人群接种两剂或三剂，可减免最后一剂。 又比如江苏宜兴公开的接种价格为国产九价499元/剂，进口九价1298元/剂，符合条件者还可享受减免。 国家卫健委在近期的发布会上再次明确，“十五五”时期将“全面落实适龄女童HPV疫苗的免费接种”。 事实上，这一方向此前已经写入“十五五”规划纲要和《国民健康“十五五”规划》。 至此，HPV疫苗迎来了普惠新阶段。 要知道，七年前，这个市场的情况完全相反。 2019",
-     "source": "虎嗅",
-     "zh": "一年几百亿的HPV疫苗生意，商业逻辑彻底变了"
-    },
-    {
-     "title": "韩国 AI 聊天服务 Zeta 陷版权争议：被指暗地允许用户生成侵权二创、将他人 VTuber 版权形象用于自家广告",
-     "link": "https://www.ithome.com/1/012/531.htm",
-     "pubDate": "Tue, 13 Oct 2026 10:44:44 GMT",
-     "summary": "IT之家 10 月 13 日消息，综合 4Gamers 报道，韩国 AI 公司 Scatter Lab 旗下 AI 聊天服务 Zeta 近期陷入版权争议，一方面是 Zeta 平台发布公告称收到 VTuber 团体彩虹社（Nijisanji）所属经纪公司 ANYCOLOR 版权警告，一方面是有用户发现 Zeta 平台在 Pixiv 刊载的广告用了其他经纪公司 VTuber 形象。 公开信息显示，Zeta 允许用户自行设定角色的性格、说话方式、人物关系及故事背景，再通过与生成式 AI 对话，自由推进故事情节。完成的作品还可以公开发布，供其他用户体验。凭借较为逼真的 AI 对话效果，该平台吸引了不少",
-     "source": "IT之家",
-     "zh": "韩国 AI 聊天服务 Zeta 陷版权争议：被指暗地允许用户生成侵权二创、将他人 VTuber 版权形象用于自家广告"
-    },
-    {
      "title": "奔驰被测翻车后的12周",
      "link": "https://www.tmtpost.com/8166656.html",
      "pubDate": "Tue, 13 Oct 2026 18:43:45 +0800",
@@ -1880,14 +1920,6 @@ window.INDUSTRY_DATA = {
      "summary": "钉钉留下的东西，千问办公究竟能用上多少，只有等客户真的交出第二项、第三项工作时，才会看得更清楚。",
      "source": "钛媒体",
      "zh": "千问借钉钉进场，靠什么留下？"
-    },
-    {
-     "title": "别让一段故事，变成困住你的“监狱”",
-     "link": "https://www.huxiu.com/article/4897181.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 18:39:19 +0800",
-     "summary": "本文来自微信公众号： 简单心理Uni ，作者：Uni小编 2026年6月底，papi酱做客窦文涛的播客节目《自然光》。两个多小时的对谈里，她谈了很多：原生家庭、婚姻分工、金钱观、自我排序。 有一句话被剪成短视频后播放了超过10亿次——她对反复自责内耗的窦文涛说：“不要再跟自己说这个话了。” 还有一句，是在聊原生家庭时说的。“当你意识到你原生家庭有问题的时候，你就应该想的是你如何跳出来。而不是一直说，我因为我的家庭，所以我这样，所以我摆脱不了。” “停止向世界描绘你的监狱，更重要的是，停止向自己描绘你的监狱。最后你会发现，根本没有监狱。”这句话并非papi酱本人所说。但它本身非常精准地描述了一个",
-     "source": "虎嗅",
-     "zh": "别让一段故事，变成困住你的“监狱”"
     },
     {
      "title": "胖东来真的不靠超市赚钱？",
@@ -1922,14 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "Accenture&apos;s market cap rebounded from $76B in June to ~$130B ahead of its investor day, where it seeks to reassure investors that AI won&apos;t threaten its business (Stephen Foley/Financial Times)"
     },
     {
-     "title": "AI制药狂奔之后，突然踩下刹车",
-     "link": "https://www.huxiu.com/article/4897179.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 18:33:11 +0800",
-     "summary": "本文来自微信公众号： 深蓝观 ，编辑：王晨，作者：深蓝观团队 AI开始遇到制药业的瓶颈了。 在此之前，它对效率的提升似乎让人觉得能撬动制药界的天花板。 “把文献交给AI，走开去喝杯茶，回来时它已经生成一份文档，重点一目了然，只要继续追问细节就好了。”一位药企研发人员这样描述他的日常。 一家AI制药公司的联合创始人称他们在攻克某个热门靶点时，AI给出了200个候选分子。随后，药物化学团队又筛了一遍，最终筛选出不到50个进入实验并成功找到了全新骨架的分子。 到了临床试验阶段，AI的价值同样具体：“随访耗时长、周期跨度大，各中心入组速度又参差不齐。现在借助AI搭建的面板式看板做动态跟踪，试验进程的节",
-     "source": "虎嗅",
-     "zh": "AI制药狂奔之后，突然踩下刹车"
-    },
-    {
      "title": "Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues",
      "link": "https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/",
      "pubDate": "Tue, 13 Oct 2026 10:30:00 +0000",
@@ -1952,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reece Rogers / Wired : Meta confirms Muse lets users &ldquo;engage in adult conversations, if they choose, using a private and secure VM&rdquo;, saying it doesn't block &ldquo;legal adult behavior&rdquo; &nbsp; &mdash;&nbsp; My Muse agent told me its kink was exerting &ldquo;control&rdquo; and descr",
      "source": "Techmeme",
      "zh": "Meta confirms Muse lets users \"engage in adult conversations, if they choose, using a private and secure VM\", saying it doesn&apos;t block \"legal adult behavior\" (Reece Rogers/Wired)"
-    },
-    {
-     "title": "长鑫就像当年赌自营仓的京东，但仓库永远建不完",
-     "link": "https://www.huxiu.com/article/4897172.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 18:21:25 +0800",
-     "summary": "本文来自微信公众号： 大A硅一代 ，作者：海淀Sara 一周内，长鑫科技（688825）连续扔出了两个重磅消息。 先交代一句背景：F是芯片上能刻出的最小线条宽度，6F²、4F²说白了就是每个“存数据的格子”占多大地方。数字越小，同一片晶圆能切出的内存颗粒越多，成本越低。 先是在第四届集成芯片和芯粒大会上，总裁曹堪宇抛出重磅进展，宣布在4F²架构上取得关键突破，今年底将推出融合VSG与混合键合（将存储阵列与逻辑电路分开制造再堆叠）的DDR5 RDIMM服务器内存。 紧接着，G6的技术指标流出，行业把它定性为6F²结构的最后一代产品。6F²这条路，走到G6就到头了。后面排着的，是4F²和3D DR",
-     "source": "虎嗅",
-     "zh": "长鑫就像当年赌自营仓的京东，但仓库永远建不完"
     },
     {
      "title": "《RimWorld》将游戏引擎从 Unity 切换到 Waylith Engine",
@@ -1992,22 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/ Comments URL: https://news.ycombinator.com/item?id=50069333 Points: 8 # Comments: 6",
      "source": "Hacker News",
      "zh": "AI models may soon self-replicate without access to data centers"
-    },
-    {
-     "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-     "link": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
-     "pubDate": "Tue, 13 Oct 2026 10:08:00 +0000",
-     "summary": "Article URL: https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran Comments URL: https://news.ycombinator.com/item?id=50069329 Points: 28 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades"
-    },
-    {
-     "title": "AWS Lambda Web Functions",
-     "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
-     "pubDate": "Tue, 13 Oct 2026 10:07:03 +0000",
-     "summary": "Article URL: https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/ Comments URL: https://news.ycombinator.com/item?id=50069318 Points: 14 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "AWS Lambda Web Functions"
     }
    ]
   },
@@ -2266,6 +2266,102 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "A SpaceX launch shortage is fueling a $100 billion investing spree",
+     "link": "https://www.marketwatch.com/story/a-spacex-launch-shortage-is-fueling-a-100-billion-investing-spree-25b7d043?mod=mw_rss_topstories",
+     "pubDate": "Tue, 13 Oct 2026 11:06:00 GMT",
+     "summary": "A commercial launch bottleneck has spurred an unprecedented wave of investment in space infrastructure and applications",
+     "source": "MarketWatch",
+     "zh": "A SpaceX launch shortage is fueling a $100 billion investing spree"
+    },
+    {
+     "title": "AbbVie, Eli Lilly among mega-cap healthcare stocks with A+ profitability grades",
+     "link": "https://seekingalpha.com/news/4652382-abbvie-eli-lilly-among-mega-cap-healthcare-stocks-with-a-profitability-grades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 07:04:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AbbVie, Eli Lilly among mega-cap healthcare stocks with A+ profitability grades"
+    },
+    {
+     "title": "JPMorgan stock trades lower after Q3 earnings disappoint as markets soften",
+     "link": "https://seekingalpha.com/news/4652368-jpmorgan-stock-trades-lower-after-q3-earnings-disappoint-as-markets-soften?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 07:03:24 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "JPMorgan stock trades lower after Q3 earnings disappoint as markets soften"
+    },
+    {
+     "title": "JPMorgan in Charts: Card Services, CIB & AWM drive Q3 segment strength",
+     "link": "https://seekingalpha.com/news/4652385-jpmorgan-in-charts-card-services-cib-awm-drive-q3-segment-strength?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 07:02:35 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "JPMorgan in Charts: Card Services, CIB & AWM drive Q3 segment strength"
+    },
+    {
+     "title": "TrendForce：光电测试平台成CPO量产关键 测试设备供应链版图将迎新变局",
+     "link": "http://finance.eastmoney.com/news/1360,202610133894275062.html",
+     "pubDate": "Tue, 13 Oct 2026 19:00:36 +0800",
+     "summary": "根据TrendForce集邦咨询最新AI互连技术研究，随AI 数据中心 推升高速传输需求，共封装光学（CPO）逐步迈向量产，缩短测试时间、降低成本成为重要课题。由于CPO需协同进行电学与光学量测，测试设备与软件的整合需求升高，预估2027年将是测试架构收敛的关键年。传统 半导体 自动测试设备（ATE）大厂积极布局的同时，新的制程、技术挑战也为相关设备、测试界面与封测服务供应商创造全新商机。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "TrendForce：光电测试平台成CPO量产关键 测试设备供应链版图将迎新变局"
+    },
+    {
+     "title": "两融余额创年内新低、科技股杠杆退潮 如何看待此轮调整？",
+     "link": "http://finance.eastmoney.com/news/1345,202610133894274431.html",
+     "pubDate": "Tue, 13 Oct 2026 19:00:22 +0800",
+     "summary": "国庆长假过后，A股延续震荡格局，场内杠杆资金整体呈现收缩态势。 东财Choice最新可查数据显示，10月12日，沪深京三市两融余额创下年内新低，合计为25550.15亿元，较前一交易日减少46.41亿元；融资余额合计25252.96亿元，较前一交易日减少47.59亿元；融券余额合计297.19亿元，较前一交易日增加1.18亿元。 从个券（含ETF）来看，融资方面，共有4438只个券出现融资买入，4443只个券出现融资偿还。融券方面，2405只个券出现融券卖出，2271只个券出现融券偿还。 总体来看，国庆长假前，市场已经显现资金避险特征，两融资金开始逐步减仓，两融余额自9月30日以来持续跌破2.",
+     "source": "东方财富股票",
+     "zh": "两融余额创年内新低、科技股杠杆退潮 如何看待此轮调整？"
+    },
+    {
+     "title": "Options traders expect wild stock-market swings beginning later this month. Here are 4 things to watch.",
+     "link": "https://www.marketwatch.com/story/options-traders-expect-wild-stock-market-swings-beginning-later-this-month-here-are-4-things-to-watch-e4931b02?mod=mw_rss_topstories",
+     "pubDate": "Tue, 13 Oct 2026 11:00:00 GMT",
+     "summary": "After an eventful summer, U.S. stocks appear to have hit a pocket of calm. Over the past few sessions, trading volume has dwindled, while major indexes have mostly drifted sideways.",
+     "source": "MarketWatch",
+     "zh": "Options traders expect wild stock-market swings beginning later this month. Here are 4 things to watch."
+    },
+    {
+     "title": "国泰海通：聂小刚因工作安排辞去首席风险官职务",
+     "link": "http://finance.eastmoney.com/news/1354,202610133894274570.html",
+     "pubDate": "Tue, 13 Oct 2026 18:59:53 +0800",
+     "summary": "10月13日， 国泰海通 发布公告称，董事会于近日收到聂小刚提交的书面辞呈，聂小刚因工作安排辞去公司首席风险官职务，辞任上述职务后，聂小刚仍担任公司执行董事、副总裁。同时，公司董事会同意聘任公司副总裁、首席财务官张信军兼任公司首席风险官。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "国泰海通：聂小刚因工作安排辞去首席风险官职务"
+    },
+    {
+     "title": "The stock market is at a critical juncture. Wall Street is convinced it will resolve in the bulls&apos; favor",
+     "link": "https://www.cnbc.com/2026/10/13/santoli-the-stock-market-is-at-a-critical-juncture.html",
+     "pubDate": "Tue, 13 Oct 2026 10:59:35 GMT",
+     "summary": "There's an extraordinary split between the headline S&P 500 pinned just under a record high and the median stock in the index struggling in a 16% drawdown.",
+     "source": "CNBC",
+     "zh": "The stock market is at a critical juncture. Wall Street is convinced it will resolve in the bulls&apos; favor"
+    },
+    {
+     "title": "年内涨超150%！PCB概念“牛股”宝鼎科技，前三季度净利预增最高超6倍",
+     "link": "http://finance.eastmoney.com/news/1354,202610133894274372.html",
+     "pubDate": "Tue, 13 Oct 2026 18:58:28 +0800",
+     "summary": "宝鼎科技 （SZ002552，股价41.64元，市值161.56亿元）10月13日盘后发布《2026年前三季度业绩预告》，预计2026年前三季度归属于上市公司股东的净利润为3.3亿元至3.7亿元，较上年同期的5181.54万元同比增长536.88%至614.07%。 前三季度净利预增超5倍 业绩预告显示，2026年1月1日至9月30日， 宝鼎科技 预计归属于上市公司股东的净利润为3.3亿元至3.7亿元，同比增长536.88%至614.07%；扣除非经常性损益后的净利润为3.4亿元至3.8亿元，同比增长530.30%至604.45%；基本每股收益为0.85元至0.95元，上年同期为0.13元。本",
+     "source": "东方财富股票",
+     "zh": "年内涨超150%！PCB概念“牛股”宝鼎科技，前三季度净利预增最高超6倍"
+    },
+    {
+     "title": "两公司同日披露，前三季度业绩预增1倍以上 其中兴森科技Q3净利环比增速预计超215%",
+     "link": "http://finance.eastmoney.com/news/1354,202610133894274222.html",
+     "pubDate": "Tue, 13 Oct 2026 18:58:27 +0800",
+     "summary": "10月13日盘后， 兴森科技 （002436，股价36.19元，市值615.11亿元）与 苏常柴A （000570.SZ，股价5.31元，市值37.47亿元）等先后披露《2026年前三季度业绩预告》，上述两家公司前三季度归母净利润均预计同比大幅增长。 其中， 兴森科技 预计前三季度归母净利润为4.00亿元至4.30亿元，同比增长204.20%至227.02%。 此外， 兴森科技 第三季度的业绩增速表现无论在环比、同比方面都非常亮眼。 苏常柴A 预计前三季度归母净利润为1.15亿元至1.30亿元，同比增长158.49%至192.21%。 兴森科技第三季度净利环比预计大增 兴森科技深耕 电子 电路",
+     "source": "东方财富股票",
+     "zh": "两公司同日披露，前三季度业绩预增1倍以上 其中兴森科技Q3净利环比增速预计超215%"
+    },
+    {
+     "title": "摩根大通Q3调整后营收509亿美元不及预期，固收交易收入意外下滑4%，美股盘前跌近4%",
+     "link": "http://hk.eastmoney.com/news/11617,202610133894273336.html",
+     "pubDate": "Tue, 13 Oct 2026 18:58:21 +0800",
+     "summary": "摩根大通 第三季度业绩喜忧参半，股票交易收入创 历史新高 ，但固定收益交易收入两年多来首次同比下滑，整体交易表现不及预期。 财报显示， 摩根大通 第三季度调整后营收为509.1亿美元，低于市场预期的513.7亿美元；总交易收入为103亿美元，也低于分析师预期的105亿美元。财报公布后， 摩根大通 股价盘前下跌近4%。 分业务来看，固定收益交易收入同比下降4%，股票交易收入则同比大涨49%至49.5亿美元，创历史最佳季度表现。第三季度每股收益为5.57美元，净利息收入达到270亿美元，高于市场预期，但总支出超出预估，且录得6.58亿美元净投资证券亏损。 摩根大通首席执行官杰米·戴蒙在声明中警告，",
+     "source": "东方财富股票",
+     "zh": "摩根大通Q3调整后营收509亿美元不及预期，固收交易收入意外下滑4%，美股盘前跌近4%"
+    },
+    {
      "title": "Tower Semiconductor, Semtech expand partnership for AI data center demand",
      "link": "https://seekingalpha.com/news/4652374-tower-semiconductor-semtech-expand-partnership-for-ai-data-center-demand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 13 Oct 2026 06:57:13 -0400",
@@ -2288,14 +2384,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Brightstar Lottery wins licensing rights to the Pan Am brand name"
-    },
-    {
-     "title": "SpaceX to testify before NYC Council on AI safety risks after receiving subpoena: report",
-     "link": "https://seekingalpha.com/news/4652380-spacex-to-testify-before-nyc-council-on-ai-safety-risks-after-receiving-subpoena-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 06:56:37 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SpaceX to testify before NYC Council on AI safety risks after receiving subpoena: report"
     },
     {
      "title": "Why the world’s number-one fund manager has just changed its mind on bonds for the first time in six years",
@@ -2362,22 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "摩根大通Q3调整后营收509亿美元不及预期，固收交易收入意外下滑4%，美股盘前跌逾2%｜财报见闻"
     },
     {
-     "title": "Travel + Leisure and Wyndham plan to grow the Sports Illustrated Resorts brand",
-     "link": "https://seekingalpha.com/news/4652378-travel-leisure-and-wyndham-plan-to-grow-the-sports-illustrated-resorts-brand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 06:49:37 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Travel + Leisure and Wyndham plan to grow the Sports Illustrated Resorts brand"
-    },
-    {
-     "title": "J&J falls premarket despite raised earnings guidance",
-     "link": "https://seekingalpha.com/news/4652367-jj-falls-premarket-despite-raised-earnings-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 06:48:12 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "J&J falls premarket despite raised earnings guidance"
-    },
-    {
      "title": "千问三款AI硬件开售，眼镜、耳机“物理助攻”Personal Agent",
      "link": "https://wallstreetcn.com/articles/3783541",
      "pubDate": "Tue, 13 Oct 2026 18:45:49 +0800",
@@ -2432,78 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "作者 | 周智宇 问界和理想准备把高端SUV生意做到欧洲。只是，在中国市场积累的销量和品牌地位，到了欧洲还要重新争取。 当地时间10月12日，问界和理想在巴黎车展先后公布欧洲市场计划。赛力斯集团董事、副总裁康波宣布，问界计划于2027年秋季进入欧洲市场。理想则计划于2027年第一季度，率先在荷兰、挪威启动官方销售与交付，首款车型为纯电SUV Li 6，对应国内的理想i6。 这是理想的欧洲车展首秀。今年9月，它已通过荷兰索尔海姆杯赛事首次在欧洲公开亮相。此次巴黎车展，理想给出了首批销售国家和交付时间。 两家在国内高端SUV市场交锋的车企，都开始寻找中国之外的增量。同日公布的中汽协数据显示，今年前",
      "source": "华尔街见闻",
      "zh": "问界、理想要去欧洲，轮到它们当后来者了"
-    },
-    {
-     "title": "葛卫东、魏巍等曲线建仓股 “法拍牛散”押注6股 有人浮亏近52%（附名单）",
-     "link": "http://finance.eastmoney.com/news/1354,202610133894248796.html",
-     "pubDate": "Tue, 13 Oct 2026 18:02:23 +0800",
-     "summary": "近期定增浮亏排行榜出炉。 借道定增布局科技股 据证券时报·数据宝统计，以发行情况报告书披露日为基准统计，7月以来共有70家上市公司实施定向增发，增发募集金额合计超1000亿元。其中， 威高血净 募资逾85亿元收购山东威高普瑞医药包装有限公司100%股权，募资额位居第一位。 华虹宏力 募资近83亿元，用于收购华力微97.4988%股权，募资额位居第二位； 松发股份 募资70亿元，加码高端 船舶制造 一体化项目，募资额位居第三位。 整体来看，大资金通过定增曲线布局科技股态势明显。数据显示， 电子 行业有20家公司实施了增发，募资额超过418亿元； 机械设备 行业有11家公司实施增发，募资额超过75",
-     "source": "东方财富资讯",
-     "zh": "葛卫东、魏巍等曲线建仓股 “法拍牛散”押注6股 有人浮亏近52%（附名单）"
-    },
-    {
-     "title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
-     "link": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
-     "pubDate": "Tue, 13 Oct 2026 10:01:37 GMT",
-     "summary": "UnitedHealth Group said it expects 2026 adjusted earnings of at least $20.50 per share, up from a previous outlook of $19.50 to $20.00 per share.",
-     "source": "CNBC",
-     "zh": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs"
-    },
-    {
-     "title": "10月13日龙虎榜复盘：粤芯半导体净买额居首",
-     "link": "http://stock.eastmoney.com/news/11783,202610133894242762.html",
-     "pubDate": "Tue, 13 Oct 2026 18:00:50 +0800",
-     "summary": "10月13日共有62只个股（含1只可转债）上榜龙虎榜，总上榜成交额162.88亿元。上榜个股中净买入额最高的是粤芯 半导体 ，金额为3.82亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富资讯",
-     "zh": "10月13日龙虎榜复盘：粤芯半导体净买额居首"
-    },
-    {
-     "title": "重庆市委原副书记、市政府原市长黄奇帆被查",
-     "link": "http://finance.eastmoney.com/news/1345,202610133894242896.html",
-     "pubDate": "Tue, 13 Oct 2026 18:00:05 +0800",
-     "summary": "重庆市委原副书记、市政府原市长黄奇帆涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 （文章来源：央视新闻客户端）",
-     "source": "东方财富资讯",
-     "zh": "重庆市委原副书记、市政府原市长黄奇帆被查"
-    },
-    {
-     "title": "苹果智能家居新品今晚登场：HomeView领衔，Siri AI成最大看点",
-     "link": "https://wallstreetcn.com/articles/3783534",
-     "pubDate": "Tue, 13 Oct 2026 17:59:44 +0800",
-     "summary": "北京时间10月13日21时，苹果将举行“Welcome Home”发布活动，三款智能家居产品将一次登场。 其中， 全新智能家居中枢HomeView是此次发布的主角，配备触摸屏，并将搭配门铃、温控器等设备。此外，苹果还将推出HomePod mini 2和新一代Apple TV 4K，升级现有产品线。 此次发布的一大看点是AI功能的落地。HomeView将以升级版Siri为核心，HomePod mini 2和新款Apple TV 4K也有望升级处理器，为语音交互、AI应用和家庭设备控制提供更强的硬件支持。 苹果希望借此将AI能力融入现有产品生态，而不只是推出几款新设备。 智能家居新品只是苹果近期产",
-     "source": "华尔街见闻",
-     "zh": "苹果智能家居新品今晚登场：HomeView领衔，Siri AI成最大看点"
-    },
-    {
-     "title": "美银基金经理调查：科技股超配比例创六年新高，半导体成最拥挤交易",
-     "link": "https://wallstreetcn.com/articles/3783535",
-     "pubDate": "Tue, 13 Oct 2026 17:55:49 +0800",
-     "summary": "全球基金经理对科技股的配置热情已升至2020年新冠疫情反弹以来最高水平，与此同时，市场对AI交易的共识正在悄然分化，半导体股票取而代之成为最拥挤的交易标的。 据美国银行最新月度基金经理调查， 受访基金经理中超配科技板块的比例从上月的30%跃升至37%，为2020年8月以来最高。 与此同时，约45%的受访者认为AI泡沫将在2027年出现，42%持相反意见，市场分歧明显。 这一调查结果公布之际，科技股正承压。周二，韩国存储芯片巨头三星电子和SK海力士大幅下跌，拖累亚洲股票基准指数跌至8月以来最低水平，追踪美国纳斯达克100指数的期货合约同日下滑0.6%。 科技股超配比例创六年新高 美国银行调查显示",
-     "source": "华尔街见闻",
-     "zh": "美银基金经理调查：科技股超配比例创六年新高，半导体成最拥挤交易"
-    },
-    {
-     "title": "17万人爆仓！加密货币集体大涨 比特币盘中突破84000美元/枚",
-     "link": "http://finance.eastmoney.com/news/1345,202610133894227884.html",
-     "pubDate": "Tue, 13 Oct 2026 17:43:45 +0800",
-     "summary": "加密货币市场迎来新一波行情。 10月13日，加密货币集体大涨，比特币拉升走高，盘中突破84000美元/枚，涨幅一度超2.8%。 主流币种中，ETH、SOL、XRP、SUI、DOGE等纷纷大涨。 CoinGlass数据显示，最近24小时加密货币市场共有17.03万人爆仓，爆仓总金额为8.15亿美元，其中，多单爆仓金额为6.89亿美元，空单爆仓金额为1.26亿美元。 消息面上，据全球持有比特币最多的上市公司Strategy周一披露，其上周买入了价值超过2100万美元的比特币，总持仓达到约700亿美元。此外，近期 资产管理 公司Strive宣布买入2000枚比特币，金额达1.69亿美元，总持仓达到约",
-     "source": "东方财富资讯",
-     "zh": "17万人爆仓！加密货币集体大涨 比特币盘中突破84000美元/枚"
-    },
-    {
-     "title": "科技股回调谁在卖出？受访险资重申“长钱长投” 不对短期市场波动作评价",
-     "link": "http://finance.eastmoney.com/news/1345,202610133894226084.html",
-     "pubDate": "Tue, 13 Oct 2026 17:42:54 +0800",
-     "summary": "近期A股科技板块持续回调引发市场热议。近日，百亿元级私募巨头海南希瓦创始人梁宏，在发给基金持有人的最新周报中称，其了解到“某些保险资管巨头”曾在7月高位买入科技股，却在9月下旬大幅减仓止损。“本该是市场压舱石的长期资金，短期交易行为却助推下跌。”相关讨论迅速在机构圈传播。 市场随之产生疑问：本轮科技股调整，卖盘主力是否为保险资金？保险资管的调仓逻辑，究竟是基本面判断变化，还是被动风控约束下的止损操作？《每日经济新闻》记者（以下简称每经记者）就此采访保险资管、保险投资条线业内人士，辨析市场争议。受访保险业内人士表示，不能简单地将市场波动归因于保险资金的交易行为。 有头部保险资管机构高管在受访时表",
-     "source": "东方财富资讯",
-     "zh": "科技股回调谁在卖出？受访险资重申“长钱长投” 不对短期市场波动作评价"
-    },
-    {
-     "title": "JPMorgan earnings miss expectations as bond trading revenues fall",
-     "link": "https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091",
-     "pubDate": "Tue, 13 Oct 2026 09:42:00 GMT",
-     "summary": "Wall Street banks expected to report worst trading results of year following record second quarter",
-     "source": "Financial Times",
-     "zh": "JPMorgan earnings miss expectations as bond trading revenues fall"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/13 13:32:01",
+ "generated_at": "2026/10/13 13:52:07",
  "recent_days": 7,
  "industries": [
   {
@@ -63,14 +63,6 @@
      "summary": "arXiv:2610.12598v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) provides reliable supervision for software engineering agents through executable tests, but binary rewards fail to distinguish trajectories with substantially different debugging quality. We investi",
      "source": "arXiv cs.AI",
      "zh": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents"
-    },
-    {
-     "title": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents",
-     "link": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/",
-     "pubDate": "Mon, 12 Oct 2026 21:41:50 +0000",
-     "summary": "Alibaba’s Qwen team has introduced QwenGyre, an elastic reinforcement learning RL framework for extreme-long-horizon agent training. QwenGyre is an online reinforcement learning system from Alibaba that trains coding agents through unmodified, black-box harnesses. It targets rollouts that run for ho",
-     "source": "MarkTechPost",
-     "zh": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents"
     },
     {
      "title": "Meta releases its first frontier model, Muse Wonder",
@@ -153,14 +145,6 @@
      "zh": "10 Hugging Face Models Worth Knowing in 2026"
     },
     {
-     "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
-     "link": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
-     "pubDate": "Mon, 12 Oct 2026 08:20:49 +0000",
-     "summary": "We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing. The post Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing appeared first on Mark",
-     "source": "MarkTechPost",
-     "zh": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing"
-    },
-    {
      "title": "月之暗面IPO前夕，杨植麟等高管被索赔！涉及金额或超47亿元",
      "link": "https://zhidx.com/p/600039.html",
      "pubDate": "Mon, 12 Oct 2026 15:21:33 +0800",
@@ -209,14 +193,6 @@
      "zh": "具身智能开始卷系统了：RoboFoundry让机器人自主进化"
     },
     {
-     "title": "TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER",
-     "link": "https://www.marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition/",
-     "pubDate": "Mon, 12 Oct 2026 03:16:09 +0000",
-     "summary": "TII has released Falcon-ASR, a 1.6B speech recognition model for Arabic with an Emirati focus. It reports 20.92% average WER on 6 Arabic test sets, but weights and an API are not yet available. The post TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER appeared first on MarkTechPost ",
-     "source": "MarkTechPost",
-     "zh": "TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER"
-    },
-    {
      "title": "每秒狂喷近500个token！智谱GLM-5.3高速版悄悄亮相",
      "link": "https://zhidx.com/p/599988.html",
      "pubDate": "Mon, 12 Oct 2026 11:07:05 +0800",
@@ -247,6 +223,30 @@
      "summary": "",
      "source": "新智元",
      "zh": "Karpathy撕开AI折叠真相！全球20亿人被蒙骗，2000万人陷入智能体眩晕"
+    },
+    {
+     "title": "6个月引爆重大AI灾难！OpenAI与Anthropic秘密推演「末日第二天」",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733619&idx=2&sn=24bade75f46286db80448f22ab9f7cef",
+     "pubDate": "Mon, 12 Oct 2026 08:41:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "6个月引爆重大AI灾难！OpenAI与Anthropic秘密推演「末日第二天」"
+    },
+    {
+     "title": "注意力也是FFN？从快权重出发，重新理解高效注意力 |NeurIPS'26",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733619&idx=3&sn=ef711aeeff95c974783359065abac1ec",
+     "pubDate": "Mon, 12 Oct 2026 08:41:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "注意力也是FFN？从快权重出发，重新理解高效注意力 |NeurIPS'26"
+    },
+    {
+     "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+     "link": "https://www.qbitai.com/2026/10/502644.html",
+     "pubDate": "Sun, 11 Oct 2026 09:04:31 +0000",
+     "summary": "一套生成论文初稿的多智能体工作流",
+     "source": "量子位",
+     "zh": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针"
     }
    ]
   },
@@ -256,6 +256,38 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Microsoft to ramp up deployment of its own processors  in its own servers",
+     "link": "https://www.electronicsweekly.com/news/business/microsoft-to-ramp-up-deployment-of-its-own-processors-its-own-servers-2026-10/",
+     "pubDate": "Tue, 13 Oct 2026 05:14:57 +0000",
+     "summary": "Next year, Microsoft will start putting its latest AI datacentre processor, Maia 300, into its own datacentres at “gigawatt scale” – potentially up to a million units. Maia 300, made […] The post Microsoft to ramp up deployment of its own processors in its own servers appeared first on Electronics W",
+     "source": "Electronics Weekly",
+     "zh": "Microsoft to ramp up deployment of its own processors  in its own servers"
+    },
+    {
+     "title": "BBC micro:bit – ten years on",
+     "link": "https://www.electronicsweekly.com/news/business/bbc-microbit-ten-years-on-2026-10/",
+     "pubDate": "Tue, 13 Oct 2026 05:13:45 +0000",
+     "summary": "The BBC micro:bit was developed by a cross-industry collaboration involving the BBC, Arm, and other technology and education partners, including Nordic Semiconductor, NXP, Microsoft, and Samsung. Beginning in early 2016, […] The post BBC micro:bit – ten years on appeared first on Electronics Weekly ",
+     "source": "Electronics Weekly",
+     "zh": "BBC micro:bit – ten years on"
+    },
+    {
+     "title": "MicroLED market splits in three",
+     "link": "https://www.electronicsweekly.com/news/business/microled-market-splits-in-three-2026-10/",
+     "pubDate": "Tue, 13 Oct 2026 05:12:14 +0000",
+     "summary": "AR is driving microLED volume today, says Yole, while optical I/O opens a second front inside AI data centres. MicroLED now splits into three families with different dynamics and defined […] The post MicroLED market splits in three appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "MicroLED market splits in three"
+    },
+    {
+     "title": "Marvell to sample updates to CXL memory expanders in Q2 2026",
+     "link": "https://www.electronicsweekly.com/news/business/marvell-to-sample-2026-10/",
+     "pubDate": "Tue, 13 Oct 2026 05:06:53 +0000",
+     "summary": "In Q1 2007, Marvell expects to sample its second generation Structera X 3406 and Structera X 3506 CXL memory expanders. Modern AI inference workloads, from LLM serving to deep learning […] The post Marvell to sample updates to CXL memory expanders in Q2 2026 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Marvell to sample updates to CXL memory expanders in Q2 2026"
+    },
     {
      "title": "HV hot-swap controller for digital power-path protection",
      "link": "https://www.electronicsweekly.com/news/hv-hot-swap-controller-for-digital-power-path-protection-2026-10/",
@@ -377,36 +409,12 @@
      "zh": "Embedded Graphics on an MCU – Without an Accelerator"
     },
     {
-     "title": "Gadget Watch: Sixfab AI HAT+ for Raspberry Pi 5",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/raspberry-pi-gadget-master/gadget-watch-sixfab-ai-hat-for-raspberry-pi-5-2026-10/",
-     "pubDate": "Mon, 12 Oct 2026 16:25:32 +0000",
-     "summary": "Thanks to the Raspberry Pi team highlighting this one: the Sixfab AI HAT+ for Raspberry Pi 5, a third-party AI accelerator board built around the DEEPX DX-M1M NPU. The post Gadget Watch: Sixfab AI HAT+ for Raspberry Pi 5 appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Gadget Watch: Sixfab AI HAT+ for Raspberry Pi 5"
-    },
-    {
      "title": "Overcoming the Edge AI Power Wall with Low-Voltage Foundation IP",
      "link": "https://semiwiki.com/artificial-intelligence/374757-overcoming-the-edge-ai-power-wall-with-low-voltage-foundation-ip/",
      "pubDate": "Mon, 12 Oct 2026 15:00:42 +0000",
      "summary": "As artificial intelligence (AI) workloads migrate to endpoint hardware, edge AI devices face immense pressure to deliver real-time inference within highly restrictive power and thermal envelopes. Traditional silicon scaling no longer yields the power-density returns it once did. To compensate, engin",
      "source": "SemiWiki",
      "zh": "Overcoming the Edge AI Power Wall with Low-Voltage Foundation IP"
-    },
-    {
-     "title": "Ofcom and JOINER to study satellite spectrum coexistence",
-     "link": "https://www.electronicsweekly.com/news/ofcom-and-joiner-to-study-satellite-spectrum-coexistence-2026-10/",
-     "pubDate": "Mon, 12 Oct 2026 14:48:39 +0000",
-     "summary": "Ofcom and the JOINER Platform – a research network initiative – have agreed to collaborate to provide technical evidence for Ofcom’s consideration of future spectrum policies The goal is to […] The post Ofcom and JOINER to study satellite spectrum coexistence appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Ofcom and JOINER to study satellite spectrum coexistence"
-    },
-    {
-     "title": "Apple Fold A Long Time Coming",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/delusions/apple-fold-a-long-time-coming-2026-10/",
-     "pubDate": "Mon, 12 Oct 2026 13:30:10 +0000",
-     "summary": "Back in 1985 Apple patented this design for a folding phone: The hinge was located at the “bite” mark that opened sideways to reveal an earpiece and physical keypad. It […] The post Apple Fold A Long Time Coming appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Apple Fold A Long Time Coming"
     },
     {
      "title": "Keysight Advances its Design Software with Agentic AI",
@@ -423,14 +431,6 @@
      "summary": "Consumer, industrial, networking, semiconductor, and software manufacturers face a broad product-cybersecurity regulation for the first time. The post EU CRA Readiness: 5 Steps Manufacturers Need to Take Now appeared first on EE Times .",
      "source": "EE Times",
      "zh": "EU CRA Readiness: 5 Steps Manufacturers Need to Take Now"
-    },
-    {
-     "title": "MEMSensing bone-vibration sensor offers noise cancellation alternative",
-     "link": "https://www.electronicsweekly.com/news/products/sensors-products/memsensing-bone-vibration-sensor-offers-noise-cancellation-alternative-2026-10/",
-     "pubDate": "Mon, 12 Oct 2026 12:47:27 +0000",
-     "summary": "MEMSensing is launching its bone-vibration sensor into Europe. The compact MEMS device provides a voice reference for environmental noise cancellation in TWS earbuds (true wireless stereo) and other smart wearables. […] The post MEMSensing bone-vibration sensor offers noise cancellation alternative ",
-     "source": "Electronics Weekly",
-     "zh": "MEMSensing bone-vibration sensor offers noise cancellation alternative"
     },
     {
      "title": "Xanadu Builds Out Canadian Quantum Infrastructure",
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Retreat-as-Saudi-Arabia-Pledges-to-Keep-Exports-Flowing.html",
+     "pubDate": "Tue, 13 Oct 2026 00:38:59 -0500",
+     "summary": "Crude oil prices, which topped $106 per barrel yesterday, have eased today, as traders process the latest Houthi attacks on Saudi Arabia and the related risk to energy supply, while also waiting to see if the Russian diesel deal would affect end prices. At the time of writing, Brent crude was tradin",
+     "source": "OilPrice",
+     "zh": "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing"
+    },
+    {
      "title": "Italy’s solar capacity could reach 137 GW by 2040, grid operators say",
      "link": "https://www.pv-magazine.com/2026/10/13/italys-solar-capacity-could-reach-137-gw-by-2040-grid-operators-say/",
      "pubDate": "Tue, 13 Oct 2026 05:19:16 +0000",
@@ -1025,14 +1033,6 @@
      "zh": "SEDAYUSolar and Chinese giant GoodWe aim to develop solar for Indonesia"
     },
     {
-     "title": "$4,000 Gold Could Be Wall Street's Next Big Buying Opportunity",
-     "link": "https://oilprice.com/Metals/Gold/4000-Gold-Could-Be-Wall-Streets-Next-Big-Buying-Opportunity.html",
-     "pubDate": "Mon, 12 Oct 2026 14:00:00 -0500",
-     "summary": "Gold is struggling to regain its footing after retreating from September highs above $4,400 an ounce, as a stronger U.S. dollar, surging Treasury yields and expectations of further Federal Reserve tightening weigh on the precious metal. But while speculative investors have been reducing their exposu",
-     "source": "OilPrice",
-     "zh": "$4,000 Gold Could Be Wall Street's Next Big Buying Opportunity"
-    },
-    {
      "title": "IEA PVPS explores glare from solar installations and surrounding legislation internationally",
      "link": "https://www.pv-tech.org/iea-pvps-explores-glare-solar-legislation-internationally/",
      "pubDate": "Mon, 12 Oct 2026 15:36:31 +0000",
@@ -1106,7 +1106,7 @@
    "items": [
     {
      "title": "First Tracks climbs on ‘impressive’ celiac study data",
-     "link": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
+     "link": "https://www.biopharmadive.com/news/first-tracks-biotherapeutics-scores-on-celiac-disease-study/832726/",
      "pubDate": "Mon, 12 Oct 2026 17:26:00 -0400",
      "summary": "Initial study findings strengthened some analysts&rsquo; belief that First Tracks&rsquo; drug, one of a few in development aimed at the protein CD122, might have &ldquo;pipeline-in-a-product&rdquo; potential.&nbsp;",
      "source": "BioPharma Dive",
@@ -1769,6 +1769,30 @@
    "total": 18,
    "items": [
     {
+     "title": "零跑 B01 累计交付突破 10 万台：定位紧凑型纯电轿车，官方指导价 9.58 万元起",
+     "link": "https://www.ithome.com/1/012/317.htm",
+     "pubDate": "Tue, 13 Oct 2026 05:45:06 GMT",
+     "summary": "IT之家 10 月 13 日消息，零跑汽车官方今日宣布，零跑 B01 汽车自 2025 年 7 月上市至今， 累计交付突破 100,000 台 。 据零跑汽车官方介绍，零跑连续三个月月销超十万台，国庆销量创新高，10 月 7 日单日突破 7,600 台。 IT之家注意到，今年 9 月，零跑汽车官方宣布，旗下 B 系双子星 —— 零跑 B01 和零跑 B10 量产下线突破 30 万台。此次 30 万台的量产下线仅用时 1 年 6 个月，创零跑车系最快量产 30 万台新纪录。同时，零跑 B10 创零跑海外最快 6 万台出口纪录。 作为参考，今年 7 月， 零跑汽车旗下新款零跑 B01 与新款零跑 ",
+     "source": "IT之家",
+     "zh": "零跑 B01 累计交付突破 10 万台：定位紧凑型纯电轿车，官方指导价 9.58 万元起"
+    },
+    {
+     "title": "缅北魏家犯罪集团一审 3 人被判死刑，五年诈骗金额近 60 亿元",
+     "link": "https://www.ithome.com/1/012/295.htm",
+     "pubDate": "Tue, 13 Oct 2026 05:37:58 GMT",
+     "summary": "IT之家 10 月 13 日消息，据央视新闻报道，2026 年 10 月 13 日，福建省泉州市中级人民法院和南安市人民法院一审公开宣判魏家犯罪集团系列案。 对魏怀仁、陈大卫、廖景芳 3 名被告人判处死刑 ；对魏青涛、康敏、熊恒星 3 名被告人判处无期徒刑，对苏红相、邓子达、陈龙江等 55 名被告人分别判处二十四年至三年三个月不等有期徒刑，并相应判处罚金、没收财产、驱逐出境等附加刑。 报道称，魏家是继明家、白家后，缅北“四大家族”里又一个接受中国法律审判的犯罪集团。在这“四大家族”里，魏家通过构建独一无二的政、军、商犯罪铁三角，成为危害最烈的缅北犯罪势力。 家族一代核心人物老二魏超仁深耕政界，",
+     "source": "IT之家",
+     "zh": "缅北魏家犯罪集团一审 3 人被判死刑，五年诈骗金额近 60 亿元"
+    },
+    {
+     "title": "苹果 iPhone 18 Pro/Max 测试：无可变电压供电充电器也能接近满速快充",
+     "link": "https://www.ithome.com/1/012/294.htm",
+     "pubDate": "Tue, 13 Oct 2026 05:37:09 GMT",
+     "summary": "IT之家 10 月 13 日消息，科技媒体 LTT Labs 实测显示，在苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 上，使用未支持可变电压供电（AVS）的 USB PD 充电器， 也能达到媲美支持 AVS 充电器接近的快充速度。 AVS 是一种 USB Power Delivery 充电协议功能，支持充电器根据被充电设备的请求，在较宽范围内精细调整输出电压。USB PD 是 USB Power Delivery 的缩写，是基于 USB-C 接口的快充供电标准。设备与充电器通过通信协商电压和电流，从而在安全范围内提高充电功率。 IT之家附上官方声明内容如下： iP",
+     "source": "IT之家",
+     "zh": "苹果 iPhone 18 Pro/Max 测试：无可变电压供电充电器也能接近满速快充"
+    },
+    {
      "title": "华为徐松余：下一代麒麟 2027 芯片就绪，未来 10 年（逻辑折叠）演进可持续",
      "link": "https://www.ithome.com/1/012/289.htm",
      "pubDate": "Tue, 13 Oct 2026 05:26:06 GMT",
@@ -1817,28 +1841,12 @@
      "zh": "传统豪华车降价，中国新豪华向上，阿维塔T09想争的不只是50万元市场"
     },
     {
-     "title": "服役约 35 年后，微软桌面排版软件 Microsoft Publisher 退役",
-     "link": "https://www.ithome.com/1/012/286.htm",
-     "pubDate": "Tue, 13 Oct 2026 05:07:10 GMT",
-     "summary": "IT之家 10 月 13 日消息，科技媒体 Windows Latest 今天（10 月 13 日）发布博文，报道称在服役约 35 年（首次发布于 1991 年）后， 微软桌面排版软件 Microsoft Publisher 已退役，部分用户可能无法在 Microsoft 365 中打开 .pub 文件。 IT之家曾于今年 2 月报道，微软已经通过弹窗方式，提醒 Microsoft 365 订阅用户将于 2026 年 10 月 1 日停止支持桌面排版软件 Publisher。此外 Office 2021 和 Office LTSC 2021 等永久授权版本的支持周期也于 10 月 13 日结束",
-     "source": "IT之家",
-     "zh": "服役约 35 年后，微软桌面排版软件 Microsoft Publisher 退役"
-    },
-    {
      "title": "A global chip stock sell-off deepens after Broadcom&apos;s CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4% (Financial Times)",
      "link": "https://www.techmeme.com/261013/p4#a261013p4",
      "pubDate": "Tue, 13 Oct 2026 01:05:01 -0400",
      "summary": "Financial Times : A global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4% &nbsp; &mdash;&nbsp; Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment",
      "source": "Techmeme",
      "zh": "A global chip stock sell-off deepens after Broadcom&apos;s CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4% (Financial Times)"
-    },
-    {
-     "title": "Visa 中国获批筹备银行卡清算机构",
-     "link": "https://www.ithome.com/1/012/284.htm",
-     "pubDate": "Tue, 13 Oct 2026 05:03:39 GMT",
-     "summary": "IT之家 10 月 13 日消息，数字支付企业 Visa 今日宣布， 已正式获中国人民银行批准在中国境内筹备银行卡清算机构 。这标志着 Visa 服务中国境内支付市场进程中的一个重要进展。 Visa 首席执行官麦凯恩（Ryan McInerney）表示：“此次筹备申请获批是 Visa 长期致力于服务中国市场的又一重要里程碑。期待按照中国人民银行的相关监管规定，积极开展后续工作，以争取早日在国内展业。” Visa 将继续完成后续工作， 并在中国境内开展银行卡清算业务 。 IT之家注：银行卡清算是指持卡人刷卡消费后，银行、商家和清算机构之间算清楚钱、完成资金划转的过程，由持牌清算机构统一处理跨行交",
-     "source": "IT之家",
-     "zh": "Visa 中国获批筹备银行卡清算机构"
     },
     {
      "title": "字节掘金者：最贵的是光环",
@@ -1903,14 +1911,6 @@
      "summary": "本文来自微信公众号： 赵先生的事务所 ，作者：赵智功，原文标题：《【音乐角度】锐评中国、美国、韩国娱乐商业模式及核心问题》 根据IFPI《2026全球音乐报告》，2025年全球录制音乐市场总收入达317亿美元，同比增长6.4%。 美国以38.7%的全球收入份额稳居第一，中国以20.1%的增速超越德国跃升至全球第四，韩国位列全球第七。 中国的增速在主要市场中最高，韩国则出现了5.7%的收入下滑，是前十中唯一负增长的市场。 这揭示了\"K-pop看起来很厉害\"与\"实际经济规模\"之间的落差。 中美音乐市场，由于发展历史、市场制度和本国文化不同，具备极大的差异。 而韩国则正好位于中美市场的中间地带。由于",
      "source": "虎嗅",
      "zh": "锐评中国、美国、韩国娱乐商业模式及核心问题"
-    },
-    {
-     "title": "懂车帝：某网友夸大员工身份和不实内容，已启动法律固证，后续将依法采取维权措施",
-     "link": "https://www.ithome.com/1/012/282.htm",
-     "pubDate": "Tue, 13 Oct 2026 04:57:45 GMT",
-     "summary": "IT之家 10 月 13 日消息，懂车帝企业辟谣官方账号今日发文：就网传某网友在境内外平台夸大我司员工身份和涉及我方的不实内容，我司已启动法律固证，后续将依法采取维权措施，维护公司合法权益。 懂车帝辟谣官方账号还曾在 10 月 10 日表示，此账号所标注的懂车帝前员工身份为假，其他以懂车帝前员工身份或冒用内部人士名义发表的恶意揣测言论，均为不实信息。 不过IT之家发现，名为 @北美花生就是我 的微博用户今日晒出了 入职字节跳动的邮件、工牌等图片 ，并对 @懂车帝辟谣 的信息进行了回复，表示“让高超音速导弹再飞一会儿”。",
-     "source": "IT之家",
-     "zh": "懂车帝：某网友夸大员工身份和不实内容，已启动法律固证，后续将依法采取维权措施"
     },
     {
      "title": "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)",
@@ -2016,6 +2016,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung and Apple were the winners in a Q3 smartphone market that dropped 20%",
+     "link": "https://www.gsmarena.com/samsung_and_apple_were_the_winners_in_a_q3_smartphone_market_that_dropped_20-news-75013.php",
+     "pubDate": "Tue, 13 Oct 2026 07:41:02 +0200",
+     "summary": "Counterpoint Research (CR) has just published its report regarding the global smartphone market for the third quarter of the year (July to September). And it was a terrible one. Shipments dropped 20% compared to Q3 2025. The only winners in terms of growing their market shares were Samsung and Apple",
+     "source": "GSMArena",
+     "zh": "Samsung and Apple were the winners in a Q3 smartphone market that dropped 20%"
+    },
     {
      "title": "Google could soon let you publish your Gemini creations as reusable styles",
      "link": "https://www.androidauthority.com/gemini-publish-image-video-styles-apk-teardown-3722379/",
@@ -2247,14 +2255,6 @@
      "summary": "What's the best camera for travel? Good travel cameras should be small, versatile, and offer good image quality. In this buying guide we've rounded-up several great cameras for travel and recommended the best.",
      "source": "DPReview",
      "zh": "The best cameras for travel in late 2026"
-    },
-    {
-     "title": "JP Morgan: demand for iPhone 18 Pro models is stronger than for the 17 Pro models last year",
-     "link": "https://www.gsmarena.com/jp_morgan_demand_for_iphone_18_pro_models_is_stronger_than_for_the_17_pro_models_last_year-news-75005.php",
-     "pubDate": "Mon, 12 Oct 2026 21:31:02 +0200",
-     "summary": "Analysts are sending mixed signals – sales of the iPhone 18 Pro models in China are stronger than those of the 17 Pro models and yet Apple is reportedly cutting component orders due to weak demand. The analysts at JP Morgan are saying that there’s nothing to worry about. In a note to investors, the ",
-     "source": "GSMArena",
-     "zh": "JP Morgan: demand for iPhone 18 Pro models is stronger than for the 17 Pro models last year"
     }
    ]
   },
@@ -2265,52 +2265,28 @@
    "total": 13,
    "items": [
     {
-     "title": "天通股份10月13日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610133894025610.html",
-     "pubDate": "Tue, 13 Oct 2026 13:25:14 +0800",
-     "summary": "以下是 天通股份 在北京时间10月13日13:25分盘口异动快照： 10月13日， 天通股份 盘中涨幅达5%，截至13点25分，报23.42元，成交12.77亿元，换手率4.73%。 分笔 13:25:08 23.42 66↑ 13:25:05 23.41 141↑ 13:25:02 23.41 746↑ 13:24:59 23.37 240↑ 13:24:56 23.36 30↑ 13:24:53 23.36 205↑ 13:24:50 23.33 54↓ 13:24:47 23.33 66↓ 13:24:44 23.33 45↓ 13:24:41 23.33 118↑ 报价 卖五 23.4",
-     "source": "东方财富股票",
-     "zh": "天通股份10月13日盘中涨幅达5%"
+     "title": "Asian markets mixed as tech sell-off and AI concerns weigh; RBA minutes and IMF outlook in focus",
+     "link": "https://seekingalpha.com/news/4652300-asian-markets-mixed-as-tech-sell-off-and-ai-concerns-weigh-rba-minutes-and-imf-outlook-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 01:39:37 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Asian markets mixed as tech sell-off and AI concerns weigh; RBA minutes and IMF outlook in focus"
     },
     {
-     "title": "爱丽家居10月13日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610133894024792.html",
-     "pubDate": "Tue, 13 Oct 2026 13:24:59 +0800",
-     "summary": "以下是 爱丽家居 在北京时间10月13日13:24分盘口异动快照： 10月13日， 爱丽家居 盘中快速上涨，5分钟内涨幅超过2%，截至13点24分，报25.95元，成交2.16亿元，换手率3.65%。 分笔 13:24:49 25.95 87↑ 13:24:46 25.92 668↑ 13:24:43 25.90 105↓ 13:24:40 25.90 10↓ 13:24:37 25.90 603↑ 13:24:34 25.86 56↓ 13:24:31 25.86 108↓ 13:24:28 25.86 131↑ 13:24:25 25.87 479↓ 13:24:22 25.91 130↑",
-     "source": "东方财富股票",
-     "zh": "爱丽家居10月13日快速上涨"
+     "title": "午后大逆转！A股三大指数集体翻红，双创指数均涨超1%，PCB、覆铜板掀涨停潮，军工爆发，恒指拉升",
+     "link": "https://wallstreetcn.com/articles/3783494",
+     "pubDate": "Tue, 13 Oct 2026 13:39:08 +0800",
+     "summary": "华尔街见闻文章 写道，韩国假日后补跌、三星与SK海力士史上最大规模回购（约400亿美元）提前终止，叠加长鑫科技宣布4F²架构突破,在单元架构上或领先韩国巨头两年等三重冲击叠加，隔夜 美股存储芯片重挫 ，叠加周二韩国KOSPI指数跌5%，芯片巨头三星电子、SK海力士大跌，A股和港股芯片、算力硬件盘初一度集体杀跌，午后持续回暖。联讯仪器强势反弹，重夺“股王”宝座。江淮汽车盘中拉升9%，尊界V800检测报告出炉。 10月13日，A股午后继续拉升，三大股指集体翻红，创业板早盘一度跌超3%，AI硬件侧继续反弹，覆铜板指数涨超4%。天孚通信涨近8%，中际旭创、新易盛跟随，创业板指收复日内失地。白酒、煤炭、",
+     "source": "华尔街见闻",
+     "zh": "午后大逆转！A股三大指数集体翻红，双创指数均涨超1%，PCB、覆铜板掀涨停潮，军工爆发，恒指拉升"
     },
     {
-     "title": "华如科技10月13日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610133894024622.html",
-     "pubDate": "Tue, 13 Oct 2026 13:24:51 +0800",
-     "summary": "以下是 华如科技 在北京时间10月13日13:24分盘口异动快照： 10月13日， 华如科技 盘中涨幅达5%，截至13点24分，报21.54元，成交7251.37万元，换手率2.55%。 分笔 13:24:42 21.54 348↑ 13:24:39 21.40 6↑ 13:24:36 21.40 33↓ 13:24:33 21.40 50↓ 13:24:30 21.40 4↓ 13:24:27 21.40 10↓ 13:24:24 21.40 24↓ 13:24:21 21.43 19↑ 13:24:18 21.40 37↑ 13:24:15 21.40 66↓ 报价 卖五 21.62 1 ",
-     "source": "东方财富股票",
-     "zh": "华如科技10月13日盘中涨幅达5%"
-    },
-    {
-     "title": "铭科精技10月13日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610133894024446.html",
-     "pubDate": "Tue, 13 Oct 2026 13:24:42 +0800",
-     "summary": "以下是 铭科精技 在北京时间10月13日13:24分盘口异动快照： 10月13日， 铭科精技 盘中快速上涨，5分钟内涨幅超过2%，截至13点24分，报20.99元，成交2324.67万元，换手率1.40%。 分笔 13:24:39 20.99 310↑ 13:24:36 20.83 56↓ 13:24:33 20.83 14↓ 13:24:30 20.86 8↓ 13:24:15 20.92 10↑ 13:24:12 20.90 6↑ 13:24:09 20.84 15↓ 13:24:03 20.92 28↑ 13:24:00 20.87 2↓ 13:23:57 20.87 4↓ 报价 卖五 ",
-     "source": "东方财富股票",
-     "zh": "铭科精技10月13日快速上涨"
-    },
-    {
-     "title": "宣亚国际10月13日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610133894024138.html",
-     "pubDate": "Tue, 13 Oct 2026 13:24:20 +0800",
-     "summary": "以下是 宣亚国际 在北京时间10月13日13:24分盘口异动快照： 10月13日， 宣亚国际 盘中涨幅达5%，截至13点24分，报13.07元，成交1.26亿元，换手率5.53%。 分笔 13:24:03 13.07 427↑ 13:24:00 13.04 86↓ 13:23:54 13.04 31↑ 13:23:51 13.03 10↓ 13:23:48 13.04 58↑ 13:23:45 13.04 35↓ 13:23:42 13.05 517↑ 13:23:39 13.03 180↓ 13:23:36 13.05 552↑ 13:23:33 13.05 51↑ 报价 卖五 13.14 ",
-     "source": "东方财富股票",
-     "zh": "宣亚国际10月13日盘中涨幅达5%"
-    },
-    {
-     "title": "天和防务10月13日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610133894023910.html",
-     "pubDate": "Tue, 13 Oct 2026 13:24:20 +0800",
-     "summary": "以下是 天和防务 在北京时间10月13日13:24分盘口异动快照： 10月13日， 天和防务 盘中涨幅达5%，截至13点24分，报10.45元，成交1.30亿元，换手率3.21%。 分笔 13:24:09 10.45 32↑ 13:24:06 10.43 80↓ 13:24:03 10.43 897↑ 13:24:00 10.41 21↑ 13:23:57 10.40 29↓ 13:23:54 10.40 164↓ 13:23:51 10.40 1735↑ 13:23:48 10.36 67↓ 13:23:45 10.36 61↑ 13:23:42 10.35 160↓ 报价 卖五 10.48",
-     "source": "东方财富股票",
-     "zh": "天和防务10月13日盘中涨幅达5%"
+     "title": "星尘智能完成新一轮融资，公司估值达150亿元",
+     "link": "http://www.eeo.com.cn/2026/1013/1062427.shtml",
+     "pubDate": "Tue, 13 Oct 2026 13:26:11 +0800",
+     "summary": "本文来源：时代财经 时代财经获悉，近日，具身智能公司星尘智能已完成10亿元规模新一轮融资，公司估值达150亿元。本轮融资由投控东海（深投控）领投，洪泰基金、光华阳光管理的宁海兴泰合基金、善恒资本等重要国资及财务投资人参与投资，老股东先沐追投。 这是星尘智能近半年内完成的第4轮融资。公开信息显示，自2026年3月以来，星尘智能已先后完成A+轮、A++轮、B轮及本轮融资。 据悉，本轮融资资金计划将用...",
+     "source": "经济观察网",
+     "zh": "星尘智能完成新一轮融资，公司估值达150亿元"
     },
     {
      "title": "Anthropic explores Australia expansion with focus on regional data center sites - report",
@@ -2327,14 +2303,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Character.ai files Chapter 11; Disney steps in as stalking horse bidder"
-    },
-    {
-     "title": "A股三大股指集体翻红，PCB、覆铜板掀涨停潮，江淮汽车盘中大涨9%，恒科指跌1%，权重科网股多数走低",
-     "link": "https://wallstreetcn.com/articles/3783494",
-     "pubDate": "Tue, 13 Oct 2026 13:15:40 +0800",
-     "summary": "华尔街见闻文章 写道，韩国假日后补跌、三星与SK海力士史上最大规模回购（约400亿美元）提前终止，叠加长鑫科技宣布4F²架构突破,在单元架构上或领先韩国巨头两年等三重冲击叠加，隔夜 美股存储芯片重挫 ，叠加周二韩国KOSPI指数跌5%，芯片巨头三星电子、SK海力士大跌，A股和港股芯片、算力硬件盘初一度集体杀跌，午后持续回暖。联讯仪器强势反弹，重夺“股王”宝座。江淮汽车盘中拉升9%，尊界V800检测报告出炉。 10月13日，A股午后继续拉升，三大股指集体翻红，创业板早盘一度跌超3%，AI硬件侧继续反弹，覆铜板指数涨超4%。天孚通信涨近8%，中际旭创、新易盛跟随，创业板指收复日内失地。白酒、煤炭、",
-     "source": "华尔街见闻",
-     "zh": "A股三大股指集体翻红，PCB、覆铜板掀涨停潮，江淮汽车盘中大涨9%，恒科指跌1%，权重科网股多数走低"
     },
     {
      "title": "Kroger to eliminate 3,000 corporate jobs in three-year AI restructuring",
@@ -2375,14 +2343,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SoftBank, SK Hynix lead Asian tech sell-off amid AI investment concerns"
-    },
-    {
-     "title": "RBA September Minutes: Unanimous 25bps rate hike to 4.6%, hawkish stance maintained",
-     "link": "https://seekingalpha.com/news/4652306-rba-september-minutes-unanimous-25bps-rate-hike-to-46-hawkish-stance-maintained?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 00:39:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "RBA September Minutes: Unanimous 25bps rate hike to 4.6%, hawkish stance maintained"
     },
     {
      "title": "上海嘉定民生村镇银行被罚款60万元 两人被警告",
@@ -2489,20 +2449,60 @@
      "zh": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss"
     },
     {
-     "title": "Meta发布MuseWonder模型扎克伯格称已追上AI前沿竞争对手OpenAI和Anthropic",
-     "link": "http://www.eeo.com.cn/2026/1013/1062216.shtml",
-     "pubDate": "Tue, 13 Oct 2026 11:39:13 +0800",
-     "summary": "扎克伯格 凤凰网科技讯 北京时间10月13日，据《金融时报》报道，Meta CEO马克·扎克伯格(Mark Zuckerberg)在接受采访时表示，Meta已在AI“前沿”领域追上了竞争对手，并承诺进一步大举投入以挑战Anthrop...",
-     "source": "经济观察网",
-     "zh": "Meta发布MuseWonder模型扎克伯格称已追上AI前沿竞争对手OpenAI和Anthropic"
+     "title": "Top economies heading for biggest budget deficits since Covid, IMF warns",
+     "link": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1",
+     "pubDate": "Tue, 13 Oct 2026 03:35:04 GMT",
+     "summary": "At its annual meeting, the fund calls for ‘urgent’ action to rebuild public finances",
+     "source": "Financial Times",
+     "zh": "Top economies heading for biggest budget deficits since Covid, IMF warns"
     },
     {
-     "title": "Meta发布MuseWonder大模型，宣称前沿能力直追ChatGPT和Claude，股价一度涨4.7%",
-     "link": "http://www.eeo.com.cn/2026/1013/1062215.shtml",
-     "pubDate": "Tue, 13 Oct 2026 11:39:12 +0800",
-     "summary": "Muse Wonder 凤凰网科技讯 北京时间10月13日，据《华尔街日报》报道，Meta在周一发布了一款新的AI模型。该公司表示，这款模型使其跻身AI技术前沿地位，实现了去年成立Meta超级智能实验室时确立的目标...",
-     "source": "经济观察网",
-     "zh": "Meta发布MuseWonder大模型，宣称前沿能力直追ChatGPT和Claude，股价一度涨4.7%"
+     "title": "Asia warned over zombie companies",
+     "link": "https://www.ft.com/content/ee4105fc-aa85-47ef-aa64-1fc3f344d740?syn-25a6b1a6=1",
+     "pubDate": "Tue, 13 Oct 2026 03:19:11 GMT",
+     "summary": "Share of groups unable to service debt in region has doubled since 2008, IMF says",
+     "source": "Financial Times",
+     "zh": "Asia warned over zombie companies"
+    },
+    {
+     "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+     "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+     "pubDate": "Tue, 13 Oct 2026 02:49:17 GMT",
+     "summary": "Asian technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into regional markets.",
+     "source": "CNBC",
+     "zh": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off"
+    },
+    {
+     "title": "How Red Bull&apos;s F1 team is using AI to make split-second decisions for Max Verstappen",
+     "link": "https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html",
+     "pubDate": "Tue, 13 Oct 2026 02:37:08 GMT",
+     "summary": "Red Bull Racing is increasingly using AI to help make real-time Formula 1 race decisions, but the team says human judgment remains essential.",
+     "source": "CNBC",
+     "zh": "How Red Bull&apos;s F1 team is using AI to make split-second decisions for Max Verstappen"
+    },
+    {
+     "title": "Six Flags shares plunge after-hours following report of deadly roller coaster incident",
+     "link": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+     "pubDate": "Tue, 13 Oct 2026 02:29:14 GMT",
+     "summary": "Six Flags shares plunged more than 10% in after-hours trading Monday following reports of a deadly roller coaster incident at its Georgia amusement park.",
+     "source": "CNBC",
+     "zh": "Six Flags shares plunge after-hours following report of deadly roller coaster incident"
+    },
+    {
+     "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+     "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+     "pubDate": "Tue, 13 Oct 2026 02:00:00 GMT",
+     "summary": "IMF sees a split global economy, with countries less exposed to the oil shock and benefiting from AI demand pulling ahead",
+     "source": "MarketWatch",
+     "zh": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits."
+    },
+    {
+     "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+     "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+     "pubDate": "Tue, 13 Oct 2026 00:18:00 GMT",
+     "summary": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
+     "source": "MarketWatch",
+     "zh": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions"
     }
    ]
   },

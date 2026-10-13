@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/14 06:23:27",
+ "generated_at": "2026/10/14 07:08:06",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,30 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
+     "link": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
+     "pubDate": "Tue, 13 Oct 2026 22:53:44 +0000",
+     "summary": "Meta released Muse Wonder and Muse Wonder Full, 1M-context agent models. Muse Wonder costs $4/$20 per million tokens on Meta Model API. Wonder Full, on Muse Code plans, leads DeepSWE and SWE-Marathon. The post Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It appe",
+     "source": "MarkTechPost",
+     "zh": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It"
+    },
+    {
+     "title": "Cerebras CEO pushes back on AI doomsday warnings",
+     "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+     "pubDate": "Tue, 13 Oct 2026 22:36:59 +0000",
+     "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+     "source": "TechCrunch AI",
+     "zh": "Cerebras CEO pushes back on AI doomsday warnings"
+    },
+    {
+     "title": "How to Use Meta’s Rebalancer for Task Placement & Optimization",
+     "link": "https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/",
+     "pubDate": "Tue, 13 Oct 2026 22:14:20 +0000",
+     "summary": "In this comprehensive coding tutorial, we explore Meta's Rebalancer assignment solver using its C++ core and Python bindings. Learn how to build datacenters, manage task placements across racks, handle constraints and goal priorities, and compare local search against the exact HiGHS solver using pub",
+     "source": "MarkTechPost",
+     "zh": "How to Use Meta’s Rebalancer for Task Placement & Optimization"
+    },
     {
      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
@@ -64,14 +88,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Hugging Face",
      "zh": "Run fast, private agents on-device with LFM2.5-24B-A2B"
-    },
-    {
-     "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-     "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-     "pubDate": "Tue, 13 Oct 2026 17:00:00 +0000",
-     "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-     "source": "TechCrunch AI",
-     "zh": "Google Play now lets anyone build private, vibe-coded apps that run on Android"
     },
     {
      "title": "Gemini 4 Argon for Robotics",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2610.12536v1 Announce Type: new Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutions to guide new proposals, edits of existing solutions, and remixes of several solutions. Performance",
      "source": "arXiv cs.AI",
      "zh": "EliteTable: Self-Improving Program Search for Executable Control Policies"
-    },
-    {
-     "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
-     "link": "https://arxiv.org/abs/2610.12542",
-     "pubDate": "Tue, 13 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.12542v1 Announce Type: new Abstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that could refute it - giving a much simpler method the same search effort. We run that comparison under a",
-     "source": "arXiv cs.AI",
-     "zh": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study"
-    },
-    {
-     "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
-     "link": "https://arxiv.org/abs/2610.12593",
-     "pubDate": "Tue, 13 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.12593v1 Announce Type: new Abstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents requires not only executable and verifiable trajectories, but also interactions that provide learning v",
-     "source": "arXiv cs.AI",
-     "zh": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning"
     }
    ]
   },
@@ -405,7 +405,7 @@ window.INDUSTRY_DATA = {
      "title": "U.S. Chip Firms Bet Big on R&D",
      "link": "https://spectrum.ieee.org/semiconductor-research",
      "pubDate": "Tue, 13 Oct 2026 11:00:05 +0000",
-     "summary": "On 12 October Applied Materials unveiled a multi-billion dollar research facility in Sunnyvale, California, at the heart of Silicon Valley . The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercialization (EPIC) Center, but now says it ",
+     "summary": "On 12 October, Applied Materials unveiled a multibillion-dollar research facility in Sunnyvale, Calif., in the heart of Silicon Valley . The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercialization (EPIC) Center, but now says it will",
      "source": "IEEE Spectrum 半导体",
      "zh": "U.S. Chip Firms Bet Big on R&D"
     },
@@ -666,6 +666,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Electric cars saved $20B in oil – and the US is falling behind",
+     "link": "https://electrek.co/2026/10/13/electric-cars-saved-20b-in-oil-and-the-us-is-falling-behind/",
+     "pubDate": "Tue, 13 Oct 2026 23:01:00 +0000",
+     "summary": "EVs are giving oil-importing countries some breathing room during the Hormuz energy crisis. Between March and August, their EV fleets displaced an estimated $20 billion worth of crude oil, according to new analysis from energy think tank Ember. more…",
+     "source": "Electrek",
+     "zh": "Electric cars saved $20B in oil – and the US is falling behind"
+    },
+    {
      "title": "The BMW i3 is nearly $80 less a month to lease than the new iX3, but it’s the same price",
      "link": "https://electrek.co/2026/10/13/bmw-i3-nearly-80-less-a-month-to-lease-than-new-ix3/",
      "pubDate": "Tue, 13 Oct 2026 21:08:52 +0000",
@@ -728,14 +736,6 @@ window.INDUSTRY_DATA = {
      "summary": "EcoFlow is dominating our Tuesday Green Deals edition this week, as the brand is offering an early-bird $50 “lock in” deposit for its latest TITAN Series Whole-Home Backup System that will be officially launched in November. Right behind that is the latest 48-hour flash sale lineup , with options li",
      "source": "Electrek",
      "zh": "EcoFlow early-bird TITAN series whole-home backup system deal, Mars 3.0 e-bike at new $1,099 low, Anker solar wall light cam, more"
-    },
-    {
-     "title": "BMW’s new iX1 looks like a baby iX3 [Images]",
-     "link": "https://electrek.co/2026/10/13/bmws-new-ix1-spotted-baby-ix3-images/",
-     "pubDate": "Tue, 13 Oct 2026 17:32:44 +0000",
-     "summary": "BMW’s entry-level EV was spotted testing with a Neue Klasse design that looks more like the new iX3, just smaller. more…",
-     "source": "Electrek",
-     "zh": "BMW’s new iX1 looks like a baby iX3 [Images]"
     },
     {
      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Leave-Heavy-Crude-Stranded-in-the-Americas.html",
+     "pubDate": "Tue, 13 Oct 2026 18:00:00 -0500",
+     "summary": "The Middle East crisis has driven tanker rates to all-time highs and created a shortage of vessels. This oil logistics problem is now causing a ripple effect, tipping the heavy crude market in North and South America into oversupply—while Asia and Europe grapple with a shortage of heavy grades. Cana",
+     "source": "OilPrice",
+     "zh": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas"
+    },
+    {
      "title": "Stranded Middle East LNG Supply Upends Gas Markets",
      "link": "https://oilprice.com/Energy/Natural-Gas/Stranded-Middle-East-LNG-Supply-Upends-Gas-Markets.html",
      "pubDate": "Tue, 13 Oct 2026 17:00:00 -0500",
@@ -912,14 +920,6 @@ window.INDUSTRY_DATA = {
      "summary": "Guyana, one of the world's newest oil exporters, is poised to surpass one million barrels per day in crude oil exports for the first time this December, marking another extraordinary milestone for the small South American country. According to Bloomberg, December's preliminary loading schedule inclu",
      "source": "OilPrice",
      "zh": "Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time"
-    },
-    {
-     "title": "Trump's Middle Corridor Plans Face Russian and Iranian Roadblocks",
-     "link": "https://oilprice.com/Geopolitics/Asia/Trumps-Middle-Corridor-Plans-Face-Russian-and-Iranian-Roadblocks.html",
-     "pubDate": "Tue, 13 Oct 2026 13:00:00 -0500",
-     "summary": "More than a year has passed since Armenia and Azerbaijan signed the Washington agreement under the direct mediation of President Trump. Nevertheless, the TRIPP project, an approximately 40-kilometer route that would constitute the shortest segment of the Middle Corridor, has yet to be implemented, l",
-     "source": "OilPrice",
-     "zh": "Trump's Middle Corridor Plans Face Russian and Iranian Roadblocks"
     },
     {
      "title": "Battery system failures fell 98% in 7 years, but older systems need special care: report",
@@ -1506,6 +1506,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+     "pubDate": "Tue, 13 Oct 2026 18:33:02 -0400",
+     "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+     "source": "BleepingComputer",
+     "zh": "OpenAI engineer arrested for allegedly planting spy device in office"
+    },
+    {
+     "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+     "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+     "pubDate": "Tue, 13 Oct 2026 22:29:57 GMT",
+     "summary": "The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.",
+     "source": "Dark Reading",
+     "zh": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday"
+    },
+    {
      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
      "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
      "pubDate": "Tue, 13 Oct 2026 17:33:26 -0400",
@@ -1568,14 +1584,6 @@ window.INDUSTRY_DATA = {
      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm bot",
      "source": "The Hacker News",
      "zh": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets"
-    },
-    {
-     "title": "UK Housing Ombudsman Service investigates 'security incident'",
-     "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-     "pubDate": "Tue, 13 Oct 2026 14:19:44 -0400",
-     "summary": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
-     "source": "BleepingComputer",
-     "zh": "UK Housing Ombudsman Service investigates 'security incident'"
     },
     {
      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
@@ -1642,14 +1650,6 @@ window.INDUSTRY_DATA = {
      "zh": "No Identity, No Recovery: Cyber Resilience Starts With IAM"
     },
     {
-     "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
-     "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-     "pubDate": "Mon, 12 Oct 2026 12:30:58 GMT",
-     "summary": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.",
-     "source": "Dark Reading",
-     "zh": "Passing the Baton: Dark Reading Names New Editor-in-Chief"
-    },
-    {
      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
      "pubDate": "Sat, 10 Oct 2026 00:17:42 +0000",
@@ -1674,12 +1674,76 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B (Reuters)",
+     "link": "https://www.techmeme.com/261013/p46#a261013p46",
+     "pubDate": "Tue, 13 Oct 2026 19:00:39 -0400",
+     "summary": "Reuters : Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B &nbsp; &mdash;&nbsp; Tencent Holdings (0700.HK) has raised about $5.7 billion through US dollar and offshore yuan debt offerings on ",
+     "source": "Techmeme",
+     "zh": "Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B (Reuters)"
+    },
+    {
+     "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+     "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+     "pubDate": "Tue, 13 Oct 2026 23:00:00 +0000",
+     "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+     "source": "TechCrunch",
+     "zh": "Industrial Next wants factory robots to switch tasks in minutes, not weeks"
+    },
+    {
+     "title": "在高管会议室偷偷安装录音设备，OpenAI 一沙特籍工程师被 FBI 逮捕",
+     "link": "https://www.ithome.com/1/012/629.htm",
+     "pubDate": "Tue, 13 Oct 2026 22:59:27 GMT",
+     "summary": "IT之家 10 月 14 日消息，据路透社报道，美国司法部当地时间周二表示，美国联邦探员逮捕了一名任职于 OpenAI 的沙特籍工程师，指控他在这家人工智能企业的高管会议室安装隐蔽录音设备。 美国司法部在声明中称，35 岁的阿卜杜勒拉赫曼 · 阿尔福赞（Abdulrahman Alfozan）自 2025 年 7 月起担任 OpenAI 工程师。 美国司法部介绍，9 月 30 日，OpenAI 在其旧金山一处办公楼的高管会议室里，发现一台电视后方 USB 接口上插着该录音设备。 美国联邦调查局的诉状显示，这个 U 盘大小的设备带有麦克风，还可外接摄像头，被藏在卫生纸之中。设备大约在 9 月 2",
+     "source": "IT之家",
+     "zh": "在高管会议室偷偷安装录音设备，OpenAI 一沙特籍工程师被 FBI 逮捕"
+    },
+    {
+     "title": "陪审团认定 Arm 违反许可协议，高通获 2 美元象征性赔偿",
+     "link": "https://www.ithome.com/1/012/617.htm",
+     "pubDate": "Tue, 13 Oct 2026 22:47:10 GMT",
+     "summary": "IT之家 10 月 14 日消息，据路透社报道，美国特拉华州一个陪审团于当地时间周二认定，芯片技术供应商 Arm Holdings 违反了与高通（Qualcomm）的许可协议，还故意干扰这家芯片厂商与 Meta 公司的业务往来，但仅裁定 2 美元 （IT之家注：现汇率约合 13.4 元人民币） 的象征性赔偿金。 这项判决出自上周为期五天的庭审，这也是两家企业两年内的第二次诉讼，案件凸显双方业务关系持续恶化。软银集团在 2016 年取得 Arm 控制权之后，Arm 的业务重心从授权芯片制造所需技术，转向自研芯片销售，双方矛盾随之加剧。 判决出炉后，Arm 股价下跌 1%，高通股价上涨 1%，不过",
+     "source": "IT之家",
+     "zh": "陪审团认定 Arm 违反许可协议，高通获 2 美元象征性赔偿"
+    },
+    {
+     "title": "苹果 watchOS 27.2 开发者预览版 Beta 4 发布",
+     "link": "https://www.ithome.com/1/012/609.htm",
+     "pubDate": "Tue, 13 Oct 2026 22:33:08 GMT",
+     "summary": "【 点此直达升级教程 】 IT之家 10 月 14 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 4 更新（内部版本号：24S5112a），本次更新距离上次发布 Beta / RC 间隔 7 天。 watchOS 27.2 与 iOS 27.2 一同测试苹果在 9 月发布会展示的新版健康 App，包括 Insights 和 Longevity 标签页，以及基于 Apple Watch 数据的 Readiness Score（准备度评分）。临近正式版发布，Beta 4 预计没有大规模新功能，重点应是修正问题、提升稳定性与性能。 iOS ",
+     "source": "IT之家",
+     "zh": "苹果 watchOS 27.2 开发者预览版 Beta 4 发布"
+    },
+    {
+     "title": "苹果 visionOS 27.2 开发者预览版 Beta 4 发布",
+     "link": "https://www.ithome.com/1/012/608.htm",
+     "pubDate": "Tue, 13 Oct 2026 22:33:07 GMT",
+     "summary": "IT之家 10 月 14 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 4 更新（内部版本号：24N5114a），本次更新距离上次发布 Beta / RC 间隔 7 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本次更新主要修复此前测试版中的问题并提升系统稳定性，属于正式版发布前的常规迭代。截至目前，苹果与媒体均未列出 Beta 4 新增的显著界面或功能变化。 visionOS 27.2 SDK 供开发者为运行该测试版的 Apple Vision Pro 构",
+     "source": "IT之家",
+     "zh": "苹果 visionOS 27.2 开发者预览版 Beta 4 发布"
+    },
+    {
+     "title": "苹果 macOS 27.2 开发者预览版 Beta 4 发布",
+     "link": "https://www.ithome.com/1/012/607.htm",
+     "pubDate": "Tue, 13 Oct 2026 22:33:07 GMT",
+     "summary": "IT之家 10 月 14 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 4 更新（内部版本号：26B5112a），本次更新距离上次发布 Beta/RC 间隔 7 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？ • 公开测试版 ：需注册&nbsp; Apple Beta 版软件计划 ，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级； • 开发预览版 ：需登录注册 苹果开发者计划 ，之后通过【设置】【通用】【软件更新】来升级。 附苹果 iOS 历史固件下载大全： 《 苹果 iOS / iPa",
+     "source": "IT之家",
+     "zh": "苹果 macOS 27.2 开发者预览版 Beta 4 发布"
+    },
+    {
      "title": "Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie",
      "link": "https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/",
      "pubDate": "Tue, 13 Oct 2026 22:08:44 +0000",
      "summary": "The deeply uncomfortable film forces audiences to confront what types of stories we tell ourselves about who has economic and political power.",
      "source": "WIRED",
      "zh": "Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie"
+    },
+    {
+     "title": "AlphaNIST",
+     "link": "https://alpha-nist.github.io/",
+     "pubDate": "Tue, 13 Oct 2026 21:57:29 +0000",
+     "summary": "Article URL: https://alpha-nist.github.io/ Comments URL: https://news.ycombinator.com/item?id=50079464 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "AlphaNIST"
     },
     {
      "title": "A look at OpenAI&apos;s safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)",
@@ -1696,6 +1760,14 @@ window.INDUSTRY_DATA = {
      "summary": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
      "source": "Ars Technica",
      "zh": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers"
+    },
+    {
+     "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+     "link": "https://www.pi.website/blog/api-beta",
+     "pubDate": "Tue, 13 Oct 2026 21:55:25 +0000",
+     "summary": "Article URL: https://www.pi.website/blog/api-beta Comments URL: https://news.ycombinator.com/item?id=50079437 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Physical Intelligence API Beta: Frontier Models for Every Robot"
     },
     {
      "title": "Topgolf saved over $11.3 million after leaving VMware",
@@ -1765,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "OpenAI engineer arrested in bugging of executive conference room",
      "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
      "pubDate": "Tue, 13 Oct 2026 20:23:55 +0000",
-     "summary": "https://x.com/OpenAINewsroom/status/2110095403198849132 Comments URL: https://news.ycombinator.com/item?id=50078141 Points: 109 # Comments: 123",
+     "summary": "https://x.com/OpenAINewsroom/status/2110095403198849132 Comments URL: https://news.ycombinator.com/item?id=50078141 Points: 236 # Comments: 223",
      "source": "Hacker News",
      "zh": "OpenAI engineer arrested in bugging of executive conference room"
     },
@@ -1776,22 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
      "source": "TechCrunch",
      "zh": "Cambridge Heavy Industries has been quietly building a desktop fusion device"
-    },
-    {
-     "title": "OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device (@openainewsroom)",
-     "link": "https://www.techmeme.com/261013/p40#a261013p40",
-     "pubDate": "Tue, 13 Oct 2026 16:02:14 -0400",
-     "summary": "@openainewsroom : OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device &nbsp; &mdash;&nbsp; We discovered a sophisticated recording device that was hidden inside one of our offices. We used our ",
-     "source": "Techmeme",
-     "zh": "OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device (@openainewsroom)"
-    },
-    {
-     "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
-     "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
-     "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
-     "summary": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
-     "source": "TechCrunch",
-     "zh": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt"
     },
     {
      "title": "Trump commercial railing against his enemies kept airing after court blocked it",
@@ -1821,25 +1877,9 @@ window.INDUSTRY_DATA = {
      "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
      "link": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
      "pubDate": "Tue, 13 Oct 2026 19:17:19 +0000",
-     "summary": "https://celebratio.org/Appel_KI/article/796/#sender Comments URL: https://news.ycombinator.com/item?id=50077096 Points: 13 # Comments: 14",
+     "summary": "https://celebratio.org/Appel_KI/article/796/#sender Comments URL: https://news.ycombinator.com/item?id=50077096 Points: 18 # Comments: 16",
      "source": "Hacker News",
      "zh": "The Four Colour Theorem: The first time machines mogged mathematicians"
-    },
-    {
-     "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-     "link": "https://guitoro.com/",
-     "pubDate": "Tue, 13 Oct 2026 19:11:48 +0000",
-     "summary": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners.",
-     "source": "Hacker News",
-     "zh": "Show HN: Guitoro, a virtual guitar you strum with your keyboard"
-    },
-    {
-     "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
-     "link": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
-     "pubDate": "Tue, 13 Oct 2026 19:00:00 +0000",
-     "summary": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
-     "source": "TechCrunch",
-     "zh": "Niobia takes the guesswork out of some of tech’s most expensive mistakes"
     },
     {
      "title": "The 9 Best Movies to Stream This Month (October 2026)",
@@ -1872,46 +1912,6 @@ window.INDUSTRY_DATA = {
      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "GitHub’s model for secret detection: Finding more secrets with less noise"
-    },
-    {
-     "title": "Show HN: XY Music Notation",
-     "link": "https://music.xy.dev/",
-     "pubDate": "Tue, 13 Oct 2026 17:43:05 +0000",
-     "summary": "I've been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it. The idea is to represent each note in 12-TET as a number, so N ∈ (0,1,2,3,4,5,6,7,8,9,X,Y). I used codex to build a music score rendering ba",
-     "source": "Hacker News",
-     "zh": "Show HN: XY Music Notation"
-    },
-    {
-     "title": "The Paris Auto Show is full of interesting cars Americans can’t have",
-     "link": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/",
-     "pubDate": "Tue, 13 Oct 2026 17:33:20 +0000",
-     "summary": "Small EVs and efficient people carriers update familiar names for the modern age.",
-     "source": "Ars Technica",
-     "zh": "The Paris Auto Show is full of interesting cars Americans can’t have"
-    },
-    {
-     "title": "苹果 Apple Watch 睡眠呼吸暂停功能正式上线，先一步读懂你的呼吸",
-     "link": "https://www.ithome.com/1/012/602.htm",
-     "pubDate": "Tue, 13 Oct 2026 17:01:14 GMT",
-     "summary": "IT之家 10 月 13 日消息，10 月 14 日凌晨 1 点，苹果通过 OTA 向用户推送新系统。升级 iOS 与 watchOS 之后，Apple Watch 用户即可开通睡眠呼吸暂停功能。这项功能此前已通过国家药品监督管理局批准，以“睡眠呼吸暂停迹象提示”应用的二类医疗器械身份进入国内，成为 Apple Watch 上又一个受医疗监管的健康功能。 睡眠呼吸暂停功能目前支持 Apple Watch Series 9、Ultra 2 和 SE 3 及后续表款，面向年满 18 岁、此前未被诊断过睡眠呼吸暂停的成年用户。 今年是 Apple Watch 上市第十一个年头，其健康功能已覆盖 18",
-     "source": "IT之家",
-     "zh": "苹果 Apple Watch 睡眠呼吸暂停功能正式上线，先一步读懂你的呼吸"
-    },
-    {
-     "title": "茶百道停牌：新茶饮的两本账",
-     "link": "https://www.huxiu.com/article/4897283.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 00:20:38 +0800",
-     "summary": "本文来自微信公众号： 奇点湃 ，作者：李喆 2026年10月13日，香港证监会依据《证券及期货（在证券市场上市）规则》第8(1)条，要求联交所暂停茶百道股份交易。理由很明确：茶百道2024年的首次公开招股，可能曾被人为操纵，以营造股份需求的虚假表象。 这件事需要先划清边界。香港证监会目前的调查对象是两个疑似操纵IPO的集团，并未认定茶百道公司或其管理层参与违规。收到限制通知书的经纪行，也被明确排除在调查对象之外。 但监管公告里的细节，已经超出一次普通停牌的重量。 针对第一个可疑集团，香港证监会向六家经纪行发出限制通知书，冻结孙然及八家相关公司账户内的资产，上限约43.79亿港元。这是香港证监会",
-     "source": "虎嗅",
-     "zh": "茶百道停牌：新茶饮的两本账"
-    },
-    {
-     "title": "霍尔和伍德福德，两人究竟干了什么得了诺贝尔经济学奖？",
-     "link": "https://www.huxiu.com/article/4897286.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 00:11:28 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：水姐 瑞典皇家科学院宣布今年的诺贝尔经济学奖，给两个美国人，罗伯特·霍尔和迈克尔·伍德福德。 那会儿纽约天刚亮，加州还是半夜。伍德福德在纽约接到电话，说这是莫大的荣幸，是个惊喜。他心情很好。记者问他的理论有没有政治立场，他说他的东西从来不为哪一派的主张服务，他想做的只是给经济政策的讨论打一个更结实的地基，去理解市场里那些在做决定、在花钱的人。 他在新闻发布会上说，管经济的人，别把稳定经济当成几个人在那儿拉拉杆子就能办成的事。 他还说，2009年以后，央行把将来的利率打算讲得更明白了，这是那几年应对危机里很要紧的一招。 杆子那头连着千百万个脑子，脑子拉不",
-     "source": "虎嗅",
-     "zh": "霍尔和伍德福德，两人究竟干了什么得了诺贝尔经济学奖？"
     }
    ]
   },
@@ -1921,6 +1921,46 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "How to improve your online privacy and security in Google Chrome",
+     "link": "https://www.engadget.com/2282288/how-to-improve-online-privacy-security-google-chrome/",
+     "pubDate": "Tue, 13 Oct 2026 23:00:00 +0000",
+     "summary": "Google has much to gain by collecting data from you through your activity on Chrome, but you can make it harder.",
+     "source": "Engadget",
+     "zh": "How to improve your online privacy and security in Google Chrome"
+    },
+    {
+     "title": "Apple TV 4K 2022 vs. 2026: What's new and is it worth the $100 jump?",
+     "link": "https://www.engadget.com/2286141/apple-tv-4k-2022-vs-2026-whats-new-worth-100-price-increase/",
+     "pubDate": "Tue, 13 Oct 2026 23:00:00 +0000",
+     "summary": "The 2026 model is faster and can hear you from afar, but the 2022 box gets Siri AI as well.",
+     "source": "Engadget",
+     "zh": "Apple TV 4K 2022 vs. 2026: What's new and is it worth the $100 jump?"
+    },
+    {
+     "title": "Are Chromebooks still worth buying after the Googlebooks release?",
+     "link": "https://www.engadget.com/2282244/are-chromebooks-worth-buying-after-googlebooks-release/",
+     "pubDate": "Tue, 13 Oct 2026 22:30:00 +0000",
+     "summary": "Googlebooks represent a huge upgrade over Chromebooks, but the older devices still have their place.",
+     "source": "Engadget",
+     "zh": "Are Chromebooks still worth buying after the Googlebooks release?"
+    },
+    {
+     "title": "This year’s Wildlife Photographer winners deliver striking images of our natural world",
+     "link": "https://www.dpreview.com/photography/wildlife-photographer-of-the-year-2026-winners/",
+     "pubDate": "Tue, 13 Oct 2026 22:30:00 +0000",
+     "summary": "See the photos that shed light on animal and human behavior in new ways.",
+     "source": "DPReview",
+     "zh": "This year’s Wildlife Photographer winners deliver striking images of our natural world"
+    },
+    {
+     "title": "Google gets ready to make the Play Store wishlist a whole lot more useful",
+     "link": "https://www.androidauthority.com/play-store-wishlist-filters-3722752/",
+     "pubDate": "Tue, 13 Oct 2026 22:25:18 +0000",
+     "summary": "It's everything we ever wished for!",
+     "source": "Android Authority",
+     "zh": "Google gets ready to make the Play Store wishlist a whole lot more useful"
+    },
     {
      "title": "5 clever ways Gemini can automate everyday tasks",
      "link": "https://www.engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks/",
@@ -2098,30 +2138,6 @@ window.INDUSTRY_DATA = {
      "zh": "What is NVIDIA DLSS and how does it work?"
     },
     {
-     "title": "Apple TV 4K and HomePod mini 2 hands-on: A look at the audio updates and Siri AI",
-     "link": "https://www.engadget.com/2285699/apple-tv-4k-2026-and-homepod-mini-2-hands-on-siri-ai-audio-upgrade/",
-     "pubDate": "Tue, 13 Oct 2026 18:18:54 +0000",
-     "summary": "Listening to Apple's new audio features with Siri as our binge-watching companion.",
-     "source": "Engadget",
-     "zh": "Apple TV 4K and HomePod mini 2 hands-on: A look at the audio updates and Siri AI"
-    },
-    {
-     "title": "Ryan Coogler's X-Files reboot gets a full series order from Hulu",
-     "link": "https://www.engadget.com/2285678/ryan-cooglers-x-files-reboot-gets-a-full-series-order-from-hulu/",
-     "pubDate": "Tue, 13 Oct 2026 18:10:08 +0000",
-     "summary": "It stars two new FBI agents that aren't named Mulder and Scully.",
-     "source": "Engadget",
-     "zh": "Ryan Coogler's X-Files reboot gets a full series order from Hulu"
-    },
-    {
-     "title": "Don't like your Facebook feed? Meta wants to know what you want to see instead",
-     "link": "https://www.engadget.com/2285674/dont-like-your-facebook-feed-meta-wants-to-know-what-you-want-to-see-instead/",
-     "pubDate": "Tue, 13 Oct 2026 18:06:44 +0000",
-     "summary": "Within reason, of course.",
-     "source": "Engadget",
-     "zh": "Don't like your Facebook feed? Meta wants to know what you want to see instead"
-    },
-    {
      "title": "YouTube bringing automatic background play to Android Automotive cars",
      "link": "https://9to5google.com/2026/10/13/youtube-bringing-automatic-background-play-to-android-automotive-cars/",
      "pubDate": "Tue, 13 Oct 2026 17:55:00 +0000",
@@ -2138,28 +2154,12 @@ window.INDUSTRY_DATA = {
      "zh": "Meta launches Muse Wonder and Muse Wonder Full, its most capable AI models yet"
     },
     {
-     "title": "Google is making it easier to find the apps you need, even outside the Play Store",
-     "link": "https://www.androidauthority.com/google-play-discovery-ask-play-features-3722579/",
-     "pubDate": "Tue, 13 Oct 2026 17:00:47 +0000",
-     "summary": "It's also expanding Sports Topics Pages to display soccer content.",
-     "source": "Android Authority",
-     "zh": "Google is making it easier to find the apps you need, even outside the Play Store"
-    },
-    {
      "title": "Apple Home Collection launches with LG and Schneider cameras, thermostats, and sensors",
      "link": "https://www.gsmarena.com/apple_home_collection_launches_with_lg_and_schneider_cameras_thermostats_and_sensors-news-75026.php",
      "pubDate": "Tue, 13 Oct 2026 17:41:02 +0200",
      "summary": "Apple had a busy day today. The company introduced its HomeView smart display, the next-generation Apple TV 4K, and the HomePod mini 2, all with Siri AI. Alongside those, it also announced the Apple Home Collection, a range of smart home accessories co-developed with LG Electronics and Schneider Ele",
      "source": "GSMArena",
      "zh": "Apple Home Collection launches with LG and Schneider cameras, thermostats, and sensors"
-    },
-    {
-     "title": "Apple announces HomeView with a 7-inch touchscreen and Siri with Apple Intelligence",
-     "link": "https://www.gsmarena.com/apple_announces_homeview_with_a_7inch_touchscreen_and_siri_with_apple_intelligence-news-75027.php",
-     "pubDate": "Tue, 13 Oct 2026 17:01:03 +0200",
-     "summary": "Apple today announced the HomeView, the company's upcoming smart home hub powered by the new Siri. It will be available in desktop and wall-mounted designs and will be available next month. The standard HomeView model features a floating display design with a rounded aluminum base. The display is hi",
-     "source": "GSMArena",
-     "zh": "Apple announces HomeView with a 7-inch touchscreen and Siri with Apple Intelligence"
     }
    ]
   },
@@ -2170,52 +2170,140 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "券商“注销式回购”密集落地",
-     "link": "http://finance.eastmoney.com/news/1354,202610143894551381.html",
-     "pubDate": "Wed, 14 Oct 2026 06:10:09 +0800",
-     "summary": "2026年下半年，券商板块回购动作频频，且呈现出鲜明的“注销化”特征。与过去多用于员工持股激励或市值维护的回购不同，本轮券商回购中，越来越多的公司选择将回购股份直接注销，缩减注册资本。 9月以来， 国金证券 、 红塔证券 、 中泰证券 等多家券商相继推进或完成“注销式回购”， 国泰海通 、 浙商证券 、 华创云信 等则集中清退历史库存股。业内人士指出，“注销式回购”直接增厚每股收益和每股净资产，是上市公司拿出“真金 白银 ”回馈股东的实质性举措，对稳定市场预期、推动估值修复具有长效作用。 从“库存”到“注销” 真金 白银 回馈股东 据了解，“注销式回购”对投资者的意义在于直接缩减总股本，在利润",
-     "source": "东方财富股票",
-     "zh": "券商“注销式回购”密集落地"
+     "title": "SBS unveils sovereign AI platform for core banking",
+     "link": "https://www.finextra.com/newsarticle/48577/sbs-unveils-sovereign-ai-platform-for-core-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 13 Oct 2026 23:08:00 GMT",
+     "summary": "French software firm SBS has launched what it claims the world's first sovereign AI platform to be developed for the banking market.",
+     "source": "Finextra",
+     "zh": "SBS unveils sovereign AI platform for core banking"
     },
     {
-     "title": "市场消息：OpenAI 正就收购网络安全初创企业 Trail of Bits 展开初步洽谈",
-     "link": "http://finance.eastmoney.com/news/1351,202610143894561584.html",
-     "pubDate": "Wed, 14 Oct 2026 06:09:24 +0800",
-     "summary": "市场消息：OpenAI 正就收购 网络安全 初创企业 Trail of Bits 展开初步洽谈。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "市场消息：OpenAI 正就收购网络安全初创企业 Trail of Bits 展开初步洽谈"
+     "title": "谷歌Gemini 4 Argon全球上线，推广价截至11月底，Pro用户可在搜索AI模式体验",
+     "link": "https://wallstreetcn.com/articles/3783572",
+     "pubDate": "Wed, 14 Oct 2026 07:03:30 +0800",
+     "summary": "谷歌将旗舰AI模型Gemini 4 Argon推向全球用户。在此前近三周仅向网络安全防御合作伙伴开放后，这款模型周二正式扩大开放范围，面向普通用户、开发者和企业提供服务。谷歌希望借助其在编程、复杂推理和网络安全领域的能力，进一步巩固在前沿AI竞争中的位置。 美东时间10月13日周二，谷歌宣布，Gemini 4 Argon已在全球范围内上线。Google AI Pro和Ultra订阅用户可以在Gemini应用及谷歌搜索的AI模式（AI Mode）中体验该模型；开发者和企业用户可通过付费版Gemini API调用。Ultra订阅用户还可在Google AI Studio和Antigravity中使",
+     "source": "华尔街见闻",
+     "zh": "谷歌Gemini 4 Argon全球上线，推广价截至11月底，Pro用户可在搜索AI模式体验"
     },
     {
-     "title": "现代汽车集团（首尔公告）未来七年将在印度投资155亿美元",
-     "link": "http://finance.eastmoney.com/news/1351,202610143894561461.html",
-     "pubDate": "Wed, 14 Oct 2026 06:09:23 +0800",
-     "summary": "现代 汽车 集团（首尔公告）未来七年将在印度投资155亿美元。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "现代汽车集团（首尔公告）未来七年将在印度投资155亿美元"
+     "title": "机构揭示供油格局生变：美封锁令伊朗海上原油出口“清零”，俄罗斯出口环比增6%",
+     "link": "https://wallstreetcn.com/articles/3783570",
+     "pubDate": "Wed, 14 Oct 2026 07:01:07 +0800",
+     "summary": "美国对伊朗的封锁正在直接切断其海运原油出口。能源情报机构Vortexa数据显示，伊朗原油海运出口自9月第二周降至零后，截至10月5日仍未恢复；与此同时，俄罗斯原油出口逆势增长，9月环比增加6%至每日379万桶。伊朗与俄罗斯的出口走势分化，正重塑受制裁原油的供应格局。 Vortexa数据显示，9月初伊朗原油海运出口的14日平均水平仍为每日23万桶，随后迅速降至零。该机构海上风险与情报主管Claire Jungman表示，美国的封锁在物理层面阻止了伊朗原油离开波斯湾，达到多年制裁未能实现的效果。 与此同时，俄罗斯原油出口保持增长。Vortexa统计显示，剔除里海管道联盟（CPC）原油和KEBCO原",
+     "source": "华尔街见闻",
+     "zh": "机构揭示供油格局生变：美封锁令伊朗海上原油出口“清零”，俄罗斯出口环比增6%"
     },
     {
-     "title": "人工智能重塑软件业竞争格局",
-     "link": "http://finance.eastmoney.com/news/1354,202610143894561797.html",
-     "pubDate": "Wed, 14 Oct 2026 06:09:02 +0800",
-     "summary": "工业和信息化部日前公布的数据显示，今年前8个月，我国软件业务收入超过10万亿元，同比增长8.8%。利润总额增势平稳，软件业务出口保持较快增长。 当前， 人工智能 正在重塑软件产业，且变革速度前所未有。工业和信息化部近期印发《“ 人工智能 +软件”专项行动实施方案》（以下简称《实施方案》），提出到2028年，软件和信息技术服务业智能化水平显著提升，推广应用覆盖2万家规模以上软件企业，累计组织实施100项软件企业智能化技改项目，在重点行业打造100个智能体软件标杆应用，孵化5个以上优质开源项目。 专家表示，《实施方案》将加快以 人工智能 重塑软件和信息技术服务，以智能编程驱动产业效能变革，协同推进",
-     "source": "东方财富股票",
-     "zh": "人工智能重塑软件业竞争格局"
+     "title": "华尔街见闻早餐FM-Radio | 2026年10月14日",
+     "link": "https://wallstreetcn.com/articles/3783569",
+     "pubDate": "Wed, 14 Oct 2026 07:00:17 +0800",
+     "summary": "华见早安之声 要闻精选 重庆市委原副书记、市政府原市长黄奇帆 涉嫌严重违纪违法 ，目前正接受中央纪委国家监委纪律审查和监察调查。 美联储三把手威廉姆斯 称， 今年可能再加息一次，但2027年没有必要继续加息 。 美联储理事沃勒 ：收益率上升帮助美联储抑制需求。 报道称 日本央行 官员 倾向本月不再加息，避免罕见的连续加息 ，12月行动仍在考虑。 霍尔木兹海峡 两周24艘船遭袭 ， 胡塞武装 将沙特阿美设施列为目标，其总部据称在袭击中被击中起火 。以媒： 内塔尼亚胡 “想选举前袭击”、与特朗普讨论重启对伊战争可能性。 莫斯科 一夜遭417架无人机袭击， 俄军 打击乌境内目标，特朗普力推的“能源停",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年10月14日"
     },
     {
-     "title": "谷歌：Google Play 在部分市场面向 18 岁及以上用户上线 AI Studio 自定义应用创建功能",
-     "link": "http://finance.eastmoney.com/news/1351,202610143894561319.html",
-     "pubDate": "Wed, 14 Oct 2026 06:06:47 +0800",
-     "summary": "谷歌：Google Play 在部分市场面向 18 岁及以上用户上线 AI Studio 自定义应用创建功能。 （文章来源：新浪财经快讯）",
+     "title": "IMF小幅上调全球增长预期 AI投资支撑经济韧性",
+     "link": "http://finance.eastmoney.com/news/1346,202610143894571124.html",
+     "pubDate": "Wed, 14 Oct 2026 06:56:48 +0800",
+     "summary": "10月13日，国际货币基金组织（IMF）发布最新《世界经济展望》报告，将2026年全球经济增长预期小幅上调至3.1%，预计2027年增长3.4%。与7月的预测相比，IMF对今年增长预期上调了0.1个百分点，明年预测保持不变。 报告称，强劲的AI投资为需求提供了动力，帮助部分经济体抵御冲击。中国和美国在AI相关计算硬件进口及 数据中心 建设中占据重要份额。不过，能源和食品价格上涨以及AI相关预期调整等风险，仍可能削弱全球增长。 全球经济展现韧性 尽管地缘冲突持续，但2026年上半年全球经济活动表现好于预期。《世界经济展望》报告显示，地缘局势变化与技术发展共同影响全球经济，各国受到的影响有所不同。",
      "source": "东方财富股票",
-     "zh": "谷歌：Google Play 在部分市场面向 18 岁及以上用户上线 AI Studio 自定义应用创建功能"
+     "zh": "IMF小幅上调全球增长预期 AI投资支撑经济韧性"
     },
     {
-     "title": "澳洲联储：展望后市，澳大利亚经济增长正在放缓，通胀水平依旧过高",
-     "link": "http://finance.eastmoney.com/news/1351,202610143894561268.html",
-     "pubDate": "Wed, 14 Oct 2026 06:06:47 +0800",
-     "summary": "澳洲联储：展望后市，澳大利亚经济增长正在放缓，通胀水平依旧过高。 （文章来源：新浪财经快讯）",
+     "title": "美国银行因反洗钱合规疏漏面临12亿美元罚款",
+     "link": "http://finance.eastmoney.com/news/1351,202610143894571022.html",
+     "pubDate": "Wed, 14 Oct 2026 06:56:45 +0800",
+     "summary": "美国银行 因违反反洗钱及制裁规定被美国监管机构处以逾12.1亿美元罚款。监管机构称，该行为保护自身营收，“实际上外包了”合规工作的关键环节。美国财政部周二宣布的执法行动包括美国货币监理署(OCC)处以创纪录的7.5亿美元民事罚款。财政部外国资产控制办公室(OFAC)表示，与 美国银行 达成的和解涉及475起明显违反制裁规定的行为，涉及俄罗斯和伊朗等国家。监管机构还对该行下达同意令。 美国银行 定于周三开盘前公布第三季度业绩。该行表示，预计业绩中将计入12亿美元不可抵税的费用，使净利润折合每股减少约0.17美元。监管机构称，该行“优先考虑自身营收，并尽量压低履行合规要求所需的资源投入”，转而依靠",
      "source": "东方财富股票",
-     "zh": "澳洲联储：展望后市，澳大利亚经济增长正在放缓，通胀水平依旧过高"
+     "zh": "美国银行因反洗钱合规疏漏面临12亿美元罚款"
+    },
+    {
+     "title": "资本市场全链条护航新质生产力发展",
+     "link": "http://finance.eastmoney.com/news/1354,202610143894571480.html",
+     "pubDate": "Wed, 14 Oct 2026 06:56:42 +0800",
+     "summary": "10月13日，粤芯 半导体 上市，成为创业板首家晶圆制造企业；10月14日，羲禾科技将接受科创板上市委审议；10月15日，季丰 电子 将接受创业板上市委审议……硬科技企业密集冲刺资本市场的节奏，与政策面的部署形成共振。 近日，中共中央、国务院印发《关于发展新质生产力的意见》（下称《意见》），对以科技创新引领产业创新、加快发展新质生产力作出系统部署。在市场人士看来，从上市融资的“拓宽跑道”，到并购重组的“优化效能”，再到耐心资本的“长期陪跑”，资本市场正以系统性的制度供给，构建适配新质生产力发展的创新生态。 拓宽跑道：上市融资渠道更畅通 制度的包容性，首先体现在上市标准的适配性增强。今年以来，监",
+     "source": "东方财富股票",
+     "zh": "资本市场全链条护航新质生产力发展"
+    },
+    {
+     "title": "港股震荡反弹如何配置 关注红利与成长机会",
+     "link": "http://finance.eastmoney.com/news/1378,202610143894571382.html",
+     "pubDate": "Wed, 14 Oct 2026 06:56:36 +0800",
+     "summary": "近期港股震荡反复，恒生指数收复24000点后，市场反弹的持续性与配置方向成为机构关注的焦点。 分析人士认为，南向资金回流、市场情绪修复为短期反弹提供支撑，但海外利率和基本面约束仍待缓解，配置上宜保持均衡，以红利资产作为底仓，同时结合产业催化和业绩兑现，把握科技、 创新药 等方向的结构性机会。 24000点关口仍有反复 10月13日，港股延续震荡走势。当日，恒生科技指数下跌0.79%，报4136.63点；恒生指数上涨0.30%，报24345.22点。恒生指数早盘一度跌破24000点，随后反弹，重新站上这一关口。 回顾近期走势，港股在调整中出现反弹。10月8日，恒生指数收报23785.79点，失守",
+     "source": "东方财富股票",
+     "zh": "港股震荡反弹如何配置 关注红利与成长机会"
+    },
+    {
+     "title": "黑色产业链供需格局调整 期现结合助力企业稳健经营",
+     "link": "http://finance.eastmoney.com/news/1354,202610143894570998.html",
+     "pubDate": "Wed, 14 Oct 2026 06:56:22 +0800",
+     "summary": "2026年以来，黑色产业链供需格局呈现明显分化态势。 钢铁 需求整体偏弱， 铁矿石 供应持续增加， 焦煤 供给约束不断增强，推动主要原料价格运行逻辑和产业链利润分配格局发生变化。与此同时，全球 铁矿石 资源供应趋向多元化，国内 铁矿石 人民币现货交易规模持续扩大，产业企业面临的价格波动风险也日趋复杂。 在10月13日举行的第19届国际油脂油料大会暨农畜产业（衍生品）大会衍生品与黑色产业论坛上，多位与会嘉宾表示，面对产业链结构调整和市场波动，企业需要从关注价格涨跌转向更加重视基差、库存、利润及整体经营敞口管理，通过深化期现结合，提升经营稳定性和风险管理能力。 产业链商品供需结构分化加剧 今年以来",
+     "source": "东方财富股票",
+     "zh": "黑色产业链供需格局调整 期现结合助力企业稳健经营"
+    },
+    {
+     "title": "北交所产品迎来低位逆向布局窗口",
+     "link": "http://stock.eastmoney.com/news/1426,202610143894570815.html",
+     "pubDate": "Wed, 14 Oct 2026 06:56:08 +0800",
+     "summary": "今年以来，北证50指数从高位回落，估值持续消化。与此同时，北交所的资金生态更加健康，存量指数基金及北交所主题基金稳固流动性“基本盘”的同时，公司回购规模明显增长，政策红利也从预期走向逐步落地。在华夏基金的基金经理顾鑫峰看来，北交所市场经历充分调整后，风险与机会的天平正在发生倾斜，当下时点发行北交所主题基金处于相对市场低位，适合寻找估值、政策与增量资金共振下的中长期机会。 当前位置风险小于机遇 2022年，北证50指数从1000点出发，如今又回到1000点附近，期间经历了大幅波动。近期，首批北交所3个月持有期基金开启“逆向发行”。10月12日，华夏北交所优选3个月持有期混合型基金正式发售，由具有",
+     "source": "东方财富股票",
+     "zh": "北交所产品迎来低位逆向布局窗口"
+    },
+    {
+     "title": "【环球财经】欧佩克上调2027年全球石油需求增长预期",
+     "link": "http://www.eeo.com.cn/2026/1014/1063302.shtml",
+     "pubDate": "Wed, 14 Oct 2026 06:52:10 +0800",
+     "summary": "新华财经维也纳10月14日电（记者孟凡宇）石油输出国组织（欧佩克）13日发布月度石油市场报告，连续第六个月上调2027年全球石油需求增长预测，同时继续下调2026年全球石油需求增长预测。 报告预计，2027年全球...",
+     "source": "经济观察网",
+     "zh": "【环球财经】欧佩克上调2027年全球石油需求增长预期"
+    },
+    {
+     "title": "特朗普指责胡塞武装蓄意在美中期选举前推高油价",
+     "link": "http://www.eeo.com.cn/2026/1014/1063301.shtml",
+     "pubDate": "Wed, 14 Oct 2026 06:52:05 +0800",
+     "summary": "新华财经华盛顿10月13日电（记者黄强 徐剑梅）美国总统特朗普13日在社交媒体发文，指责也门胡塞武装在美国中期选举前蓄意推高油价。 特朗普说，胡塞武装以“非常恶劣”的手段打击沙特阿拉伯，并很可能蓄意在美国选举前推高油价。 当天早些时候，特朗普在离开白宫前往阿拉斯加州前对媒体说，他已与沙特阿拉伯王储兼首相穆罕默德通话，但拒绝透露是否已决定加入沙特打击胡塞武装的行动。他还说，将很快就伊朗问题作出...",
+     "source": "经济观察网",
+     "zh": "特朗普指责胡塞武装蓄意在美中期选举前推高油价"
+    },
+    {
+     "title": "美国三大银行净利息收入连续五季创新高，但息差承压、交易与承销业务降温",
+     "link": "https://wallstreetcn.com/articles/3783567",
+     "pubDate": "Wed, 14 Oct 2026 06:43:19 +0800",
+     "summary": "美国大型银行的贷款业务迎来罕见盛景，但高利率环境正同时催生新的压力。 摩根大通、花旗集团和富国银行第三季度合计净利息收入达565亿美元，连续第五个季度刷新历史纪录。摩根大通进一步预测，净利息收入将在2027年继续攀升。 今年早些时候，市场普遍预判利率将下行，交易业务的亮眼表现一度盖过传统贷款业务。 然而，高利率在推升银行利息收入的同时，也迫使各行大幅提高存款利率以留住客户，导致净息差承压。 富国银行应税净息差从去年同期的2.61%收窄至2.43%，摩根大通存款利差亦小幅下滑。 同时，全球债券市场持续抛售、股票市场波动，以及伊朗冲突推高能源价格和通胀，都对美国大型银行的第三季度业务产生影响。 固",
+     "source": "华尔街见闻",
+     "zh": "美国三大银行净利息收入连续五季创新高，但息差承压、交易与承销业务降温"
+    },
+    {
+     "title": "美联储三把手威廉姆斯：今年或再加息一次，目前认为2027年没有必要加息",
+     "link": "https://wallstreetcn.com/articles/3783560",
+     "pubDate": "Wed, 14 Oct 2026 06:40:41 +0800",
+     "summary": "美联储“三把手”、纽约联储主席威廉姆斯最新表态指出，尽管AI基建狂潮和能源冲击在短期内构成了新的通胀变量，但美国经济并未全面过热，年内再加息一次后，预计到2027年无需进一步加息。 周二，享有联邦公开市场委员会（FOMC）永久投票权、被称为美联储“三把手”的纽约联储主席约翰·威廉姆斯（John Williams）在纽约联储总部接受了彭博社的深度专访。 威廉姆斯详细拆解了支撑其支持9月加息的底层逻辑，并对市场高度关注的利率路径指引、中性利率（R-star）变化，以及“AI基建狂潮”对宏观通胀的真实影响给出了清晰的解答。 威廉姆斯发言前，美国两年期国债收益率周二上涨2个基点；其发言后，两年期美债收",
+     "source": "华尔街见闻",
+     "zh": "美联储三把手威廉姆斯：今年或再加息一次，目前认为2027年没有必要加息"
+    },
+    {
+     "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
+     "link": "https://wallstreetcn.com/articles/3783492",
+     "pubDate": "Wed, 14 Oct 2026 06:30:05 +0800",
+     "summary": "美股周二在多重压力下收盘分化，科技股持续落后于大盘，AI板块信贷成本上升的隐忧正从债券市场蔓延至权益市场。与此同时，中东局势升温推动油价反弹，叠加美联储官员立场分歧，令市场在明日CPI数据公布前夜保持高度警惕。 纽约联储主席John Williams表示，他仍认为今年再加息一次是合适的，但目前没有理由相信2027年之前需要进一步收紧政策。这一表态推动12月加息概率升至本轮周期高点约90%。 与此同时，美联储理事沃勒指出，长端国债收益率上升正在替代货币政策发挥紧缩作用，对房地产、汽车等利率敏感行业产生明显压制。 周二道指跌0.35%，标普500指数跌0.02%，纳指跌0.15%。十一大板块六跌五",
+     "source": "华尔街见闻",
+     "zh": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿"
+    },
+    {
+     "title": "Wells Fargo outlines $50B ± 2026 net interest income and ~$13B Q4 net interest income while planning stablecoins in H1 2027",
+     "link": "https://seekingalpha.com/news/4652721-wells-fargo-outlines-50b-2026-net-interest-income-and-13b-q4-net-interest-income-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 18:23:32 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Wells Fargo outlines $50B ± 2026 net interest income and ~$13B Q4 net interest income while planning stablecoins in H1 2027"
+    },
+    {
+     "title": "Enovix surges on 100K-unit drone battery order",
+     "link": "https://seekingalpha.com/news/4652720-enovix-surges-on-100k-unit-drone-battery-order?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 18:22:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Enovix surges on 100K-unit drone battery order"
     },
     {
      "title": "PG&E says fire conditions threaten power shutoffs this week across northern California",
@@ -2274,30 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "BAE System wins $106.8M potential Navy deal for USS Hudner repairs"
     },
     {
-     "title": "Lockheed Martin wins $117M deal for Apache radar support",
-     "link": "https://seekingalpha.com/news/4652716-lockheed-martin-wins-117m-deal-for-apache-radar-support?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 17:53:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lockheed Martin wins $117M deal for Apache radar support"
-    },
-    {
-     "title": "Gold futures tick lower ahead of key U.S. inflation data",
-     "link": "https://seekingalpha.com/news/4652710-gold-futures-tick-lower-ahead-of-key-u-s-inflation-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 17:50:50 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gold futures tick lower ahead of key U.S. inflation data"
-    },
-    {
-     "title": "中东能源设施风险升级，沙特阿美总部据称被胡塞武装击中起火",
-     "link": "https://wallstreetcn.com/articles/3783565",
-     "pubDate": "Wed, 14 Oct 2026 05:45:52 +0800",
-     "summary": "中东能源设施安全风险进一步升级。 据媒体援引知情人士消息，也门胡塞武装于当地时间13日周二对沙特发动导弹袭击期间，沙特阿美位于沙特东部城市Dhahran的总部被击中，园区部分区域一度起火，火势随后被扑灭。目前尚不清楚具体损失，也无法确认起火是否由导弹直接命中引发，或是拦截来袭弹药后产生的碎片所致。 截至发稿，沙特阿美及沙特能源部均未回应媒体的置评请求，沙特阿美也未公开确认总部遭袭。沙特主导的也门联军曾表示，胡塞武装周二向沙特多个城市发射导弹，其中包括首都利雅得和阿美总部所在地宰赫兰；联军称，拦截行动产生的弹片落入宰赫兰一处居民区。 此次事件发生之际，胡塞武装已将沙特阿美能源设施公开列为“合法打",
-     "source": "华尔街见闻",
-     "zh": "中东能源设施风险升级，沙特阿美总部据称被胡塞武装击中起火"
-    },
-    {
      "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
      "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
      "pubDate": "Tue, 13 Oct 2026 21:44:46 GMT",
@@ -2306,20 +2370,20 @@ window.INDUSTRY_DATA = {
      "zh": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room"
     },
     {
+     "title": "高盛Q3业绩超预期：股票业务收入大增72% 营收创历史第二高",
+     "link": "http://stock.eastmoney.com/news/11228,202610133894413460.html",
+     "pubDate": "Wed, 14 Oct 2026 05:41:45 +0800",
+     "summary": "美东时间周二（10月13日）盘前， 高盛 公布了一份超出华尔街预期的三季度成绩单。股票交易和投行业务强劲增长，推动其季度营收创下历史第二高水平，但固定收益、外汇及大宗商品交易业务表现相对疲弱。 业绩公布后， 高盛 周二美股盘初股价一度涨近4%，但随后高开低走，截至收盘， 高盛 下跌0.23%。 财报显示，高盛三季度（截至9月30日）净营收同比增长23%，至186.79亿美元；净利润同比增长29%，至52.94亿美元；摊薄每股收益同比增长39%，至17.01美元，去年同期为12.25美元。 （来源：公司官网） 据FactSet调查，分析师此前预计高盛三季度营收为168.3亿美元，每股收益为12.",
+     "source": "东方财富资讯",
+     "zh": "高盛Q3业绩超预期：股票业务收入大增72% 营收创历史第二高"
+    },
+    {
      "title": "以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性",
      "link": "http://finance.eastmoney.com/news/1351,202610143894555677.html",
      "pubDate": "Wed, 14 Oct 2026 05:26:51 +0800",
      "summary": "据以色列第12频道电视台13日报道，以色列总理内塔尼亚胡上周与美国总统特朗普通话，讨论在11月初美国国会中期选举前甚至10月27日以色列议会选举前重启对伊朗战争的可能性。 该报道援引美方知情官员的话称，其认为内塔尼亚胡“想在选举前发动袭击”。 特朗普已公开表示中期选举前不打击伊朗。按匿名消息人士的说法，以色列国防军和美军中央司令部都处于“高度戒备状态”并正在完成准备工作，以防特朗普“改变主意”。 但以色列总理办公室否认内塔尼亚胡敦促特朗普在选举前打伊朗，称内塔尼亚胡正与特朗普和美政府高级官员保持对话。 报道还援引一名美国消息人士的话称，内塔尼亚胡与特朗普曾“多次讨论”恢复打击伊朗的问题，特朗普",
      "source": "东方财富资讯",
      "zh": "以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性"
-    },
-    {
-     "title": "腾讯发债逾57亿美元，为AI投资扩张筹集资金",
-     "link": "https://wallstreetcn.com/articles/3783564",
-     "pubDate": "Wed, 14 Oct 2026 05:18:43 +0800",
-     "summary": "腾讯控股将通过发行人民币和美元债券融资57亿美元，用于支持其在人工智能领域不断增加的投资。 10月13日据报道， 腾讯控股已为260亿元人民币（38.8亿美元）离岸债券完成定价，并已启动18亿美元美元债的发行。 此次发行吸引投资者合计认购逾230亿美元，为最终发行规模的四倍以上 ，显示出市场对腾讯信用资质的强烈认可。据报道，腾讯最初预计融资至少45亿美元，最终规模超出预期。 此次发行将是腾讯自2020年以来规模最大的离岸债券发行。 该公司今年6月刚刚完成47亿美元的债券发行。随着全球科技公司为AI相关项目寻求资金，发债融资正在激增，腾讯此次发行也是其中一例。 发行结构与定价 据更新后的条款说明",
-     "source": "华尔街见闻",
-     "zh": "腾讯发债逾57亿美元，为AI投资扩张筹集资金"
     },
     {
      "title": "游戏行业的“GPT时刻”又进一步？英伟达发布DLSS 5新模型 半年性能暴涨10倍",
@@ -2333,7 +2397,7 @@ window.INDUSTRY_DATA = {
      "title": "全球市场：美股三大指数收跌 微软创历史新高 SK海力士、美光科技跌超3%",
      "link": "http://stock.eastmoney.com/news/11784,202610143894553783.html",
      "pubDate": "Wed, 14 Oct 2026 05:15:57 +0800",
-     "summary": "美股市场： 美股三大指数10月13日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌180.45点，收于51670.1点，跌幅为0.35%； 标准普尔 500种股票指数下跌1.79点，收于7805.45点，跌幅为0.02%； 纳斯达克 综合 指数下跌41.52点，收于27204.38点，跌幅为0.15%。 大型科技股涨跌不一，Meta涨2.63%、 英伟达 涨0.97%、 微软 涨0.43%创 历史新高 、 谷歌-A 涨0.30%、 苹果 涨0.09%、 亚马逊 跌0.37%、 特斯拉 跌0.74%。 存储概念股普跌， 闪迪 跌0.34%、 希捷科技 跌0.80%、 西部数据 跌1.",
+     "summary": "美股市场： 美股三大指数10月13日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌180.45点，收于51670.1点，跌幅为0.35%； 标准普尔 500种股票指数下跌1.79点，收于7805.45点，跌幅为0.02%； 纳斯达克 综合 指数下跌41.52点，收于27204.38点，跌幅为0.15%。 大型科技股涨跌不一，Meta涨2.63%、 英伟达 涨0.97%、 微软 涨0.43%创 历史新高 、 谷歌-A 涨0.30%、 苹果 涨0.09%创收盘 历史新高 、 亚马逊 跌0.37%、 特斯拉 跌0.74%。 存储概念股普跌， 闪迪 跌0.34%、 希捷科技 跌0.80%、",
      "source": "东方财富资讯",
      "zh": "全球市场：美股三大指数收跌 微软创历史新高 SK海力士、美光科技跌超3%"
     },
@@ -2344,70 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ex-FEMA CFO Mary Comans' name was cleared by a federal judge after Elon Musk and other government officials falsely accused her of criminal actions in 2025.",
      "source": "CNBC",
      "zh": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name"
-    },
-    {
-     "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
-     "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
-     "pubDate": "Tue, 13 Oct 2026 21:02:00 GMT",
-     "summary": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
-     "source": "MarketWatch",
-     "zh": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market"
-    },
-    {
-     "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-     "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-     "pubDate": "Tue, 13 Oct 2026 21:01:00 GMT",
-     "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
-     "source": "MarketWatch",
-     "zh": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?"
-    },
-    {
-     "title": "摩根大通Q3调整后营收509亿美元不及预期，固收交易收入意外下滑4%，削减回购近九成｜财报见闻",
-     "link": "https://wallstreetcn.com/articles/3783540",
-     "pubDate": "Wed, 14 Oct 2026 05:00:35 +0800",
-     "summary": "摩根大通第三季度业绩喜忧参半：股票交易收入创历史新高，但固定收益交易收入两年多来首次同比下滑，整体交易收入低于市场预期。 周二公布的财报显示， 摩根大通第三季度调整后营收为509.1亿美元，低于市场预期的513.7亿美元；总交易收入为103亿美元，也低于分析师预期的105亿美元。 财报公布后，摩根大通股价盘前下跌逾2%，随后在公布收入指引后转涨。 分业务来看，固定收益交易收入同比下降4%，股票交易收入则同比大涨49%，达到49.5亿美元，创历史最佳季度表现。 第三季度每股收益为5.57美元，净利息收入达到270亿美元，高于市场预期。不过，总支出超出预估，公司还录得6.58亿美元净投资证券亏损。",
-     "source": "华尔街见闻",
-     "zh": "摩根大通Q3调整后营收509亿美元不及预期，固收交易收入意外下滑4%，削减回购近九成｜财报见闻"
-    },
-    {
-     "title": "US indicts Saudi employee of OpenAI for allegedly bugging its offices",
-     "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
-     "pubDate": "Tue, 13 Oct 2026 20:54:58 GMT",
-     "summary": "AI lab discovered a recording device and reported it to the FBI",
-     "source": "Financial Times",
-     "zh": "US indicts Saudi employee of OpenAI for allegedly bugging its offices"
-    },
-    {
-     "title": "Don&apos;t let inflation bite — how to hedge with TIPS, commodities and infrastructure funds",
-     "link": "https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html",
-     "pubDate": "Tue, 13 Oct 2026 20:52:22 GMT",
-     "summary": "TIPS are looking attractive but they aren't the only way to get inflation protection.",
-     "source": "CNBC",
-     "zh": "Don&apos;t let inflation bite — how to hedge with TIPS, commodities and infrastructure funds"
-    },
-    {
-     "title": "Bank of America fined $1.2 billion over money-laundering violations",
-     "link": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
-     "pubDate": "Tue, 13 Oct 2026 20:45:01 GMT",
-     "summary": "The action by the Treasury Department was announced less than a day before Bank of America reports quarterly earnings.",
-     "source": "CNBC",
-     "zh": "Bank of America fined $1.2 billion over money-laundering violations"
-    },
-    {
-     "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
-     "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
-     "pubDate": "Tue, 13 Oct 2026 20:42:00 GMT",
-     "summary": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
-     "source": "MarketWatch",
-     "zh": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions"
-    },
-    {
-     "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
-     "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-     "pubDate": "Tue, 13 Oct 2026 20:41:00 GMT",
-     "summary": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator tumbling.",
-     "source": "MarketWatch",
-     "zh": "Six Flags’ stock slumps near 17-year low after fatal incident"
     }
    ]
   },

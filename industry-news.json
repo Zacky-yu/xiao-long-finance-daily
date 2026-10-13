@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/13 12:52:05",
+ "generated_at": "2026/10/13 13:11:58",
  "recent_days": 7,
  "industries": [
   {
@@ -257,52 +257,60 @@
    "total": 9,
    "items": [
     {
-     "title": "Taiwan optical suppliers post record sales as Lumentum warns of shortages",
-     "link": "https://www.digitimes.com/news/a20261013PD215/revenue-taiwan-sales-demand-growth.html",
-     "pubDate": "Tue, 13 Oct 2026 03:56:33 GMT",
-     "summary": "Taiwanese optical networking suppliers reported strong September and third-quarter 2026 revenue growth, with EZconn and LuxNet posting record monthly sales as demand for high-speed connectivity in AI data centers continued to rise. The results come as US optical component maker Lumentum warns that i",
-     "source": "DIGITIMES",
-     "zh": "Taiwan optical suppliers post record sales as Lumentum warns of shortages"
+     "title": "HV hot-swap controller for digital power-path protection",
+     "link": "https://www.electronicsweekly.com/news/hv-hot-swap-controller-for-digital-power-path-protection-2026-10/",
+     "pubDate": "Tue, 13 Oct 2026 05:04:17 +0000",
+     "summary": "Infineon has introduced the XDP8HD40S-1, a high-voltage hot-swap controller designed for digital power-path protection and monitoring in next-generation AI server power architectures operating at ±400 Volt and 800 VDC. As […] The post HV hot-swap controller for digital power-path protection appeared",
+     "source": "Electronics Weekly",
+     "zh": "HV hot-swap controller for digital power-path protection"
     },
     {
-     "title": "Malaysian states team up to back homegrown chip firms",
-     "link": "https://www.digitimes.com/news/a20261013VL207/government-investment-ic-design-2027-growth.html",
-     "pubDate": "Tue, 13 Oct 2026 03:50:00 GMT",
-     "summary": "The Selangor state government has committed MYR50 million (US$12.24 million) to the National Strategic Investment Fund, joining Khazanah Nasional Bhd and the Penang government in a MYR150 million vehicle to accelerate the growth of Malaysian semiconductor and advanced technology companies, Bernama r",
+     "title": "Hua Hong deepens China chip equipment partnerships, targets stronger specialty foundry share by 2030",
+     "link": "https://www.digitimes.com/news/a20261013VL216/equipment-2030-production-wafer-manufacturing.html",
+     "pubDate": "Tue, 13 Oct 2026 04:29:33 GMT",
+     "summary": "China's Hua Hong Group has signed strategic agreements with four domestic semiconductor equipment suppliers to accelerate the adoption of locally developed wafer fabrication tools, reinforcing China's chipmaking self-sufficiency efforts. The partnerships coincide with Hua Hong's ambitious 2030 marke",
      "source": "DIGITIMES",
-     "zh": "Malaysian states team up to back homegrown chip firms"
+     "zh": "Hua Hong deepens China chip equipment partnerships, targets stronger specialty foundry share by 2030"
     },
     {
-     "title": "AI server tracker: Taiwan's CCL, PCB and IC substrate suppliers see widening growth gap despite AI boom",
-     "link": "https://www.digitimes.com/news/a20261013VL214/pcb-ccl-ic-substrate-laminate-revenue-taiwan.html",
-     "pubDate": "Tue, 13 Oct 2026 03:47:03 GMT",
-     "summary": "Taiwan's copper-clad laminate (CCL), printed circuit board (PCB) and IC substrate suppliers are seeing uneven returns from AI infrastructure spending. All 10 tracked companies recorded nine-month year-over-year revenue growth, and seven generated more revenue by September 2026 than in all of 2025, a",
+     "title": "Omron to buy US industrial PC maker OnLogic for US$675 million",
+     "link": "https://www.digitimes.com/news/a20261013VL217/omron-acquisition-ipc-revenue.html",
+     "pubDate": "Tue, 13 Oct 2026 04:25:49 GMT",
+     "summary": "Japan's Omron has agreed to acquire US industrial computer (IPC) maker OnLogic and its parent company, Interlogic, at an enterprise value of US$675 million, seeking to expand its presence in Western markets and combine rugged edge computing with its factory automation and control technologies.",
      "source": "DIGITIMES",
-     "zh": "AI server tracker: Taiwan's CCL, PCB and IC substrate suppliers see widening growth gap despite AI boom"
+     "zh": "Omron to buy US industrial PC maker OnLogic for US$675 million"
     },
     {
-     "title": "Foxconn's Vietnam unit Fukang Technology more than doubles registered capital to US$710.4 million",
-     "link": "https://www.digitimes.com/news/a20261013VL202/foxconn-taiwan-subsidiary-investment-2026.html",
-     "pubDate": "Tue, 13 Oct 2026 03:45:00 GMT",
-     "summary": "Fukang Technology, a northern Vietnam subsidiary of Taiwan's Hon Hai Precision Industry (Foxconn), has raised its registered capital by more than 109% to nearly VND17.47 trillion (US$710.4 million), according to business registration records reported by The Investor on October 12, 2026. The update, ",
+     "title": "Huawei foldable phone shipments top 20 million, claims over 70% China market share in 1H26",
+     "link": "https://www.digitimes.com/news/a20261013PD224/huawei-foldable-shipments-foldable-smartphone-market-share.html",
+     "pubDate": "Tue, 13 Oct 2026 04:23:00 GMT",
+     "summary": "Huawei's cumulative global foldable smartphone shipments have exceeded 20 million units, with the company capturing more than 70% of China's foldable phone market in the first half of 2026, according to Huawei Terminal BG CTO Li Xiaolong.",
      "source": "DIGITIMES",
-     "zh": "Foxconn's Vietnam unit Fukang Technology more than doubles registered capital to US$710.4 million"
+     "zh": "Huawei foldable phone shipments top 20 million, claims over 70% China market share in 1H26"
     },
     {
-     "title": "Global PC shipments plunge 20% in 3Q26",
-     "link": "https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html",
-     "pubDate": "Tue, 13 Oct 2026 03:42:37 GMT",
-     "summary": "Global PC shipments, including desktops, notebooks, and workstations, fell more than 20% year-over-year in the third quarter of 2026 as inventory pressure and weak demand hit the market. The decline reflects how the AI infrastructure boom is squeezing component supplies for consumer electronics whil",
+     "title": "Taiwan seeks new grid, renewable energy solutions as AI computing hubs hit power constraints",
+     "link": "https://www.digitimes.com/news/a20261013PD220/renewable-energy-taiwan-taiwan-power-company-data-demand.html",
+     "pubDate": "Tue, 13 Oct 2026 04:20:41 GMT",
+     "summary": "As the global AI industry and AI data centers (AIDCs) experience explosive growth, developing compute hubs presents severe power supply challenges alongside stringent international supply chain mandates for carbon reduction and renewable energy usage. Amid grid transition friction and resilience tes",
      "source": "DIGITIMES",
-     "zh": "Global PC shipments plunge 20% in 3Q26"
+     "zh": "Taiwan seeks new grid, renewable energy solutions as AI computing hubs hit power constraints"
     },
     {
-     "title": "AI server tracker: Supply, not demand, caps BMC growth as Aspeed's 2027 orders top this year's revenue",
-     "link": "https://www.digitimes.com/news/a20261013VL206/aspeed-ai-server-demand-growth.html",
-     "pubDate": "Tue, 13 Oct 2026 03:29:18 GMT",
-     "summary": "Taiwan-based server management chip supplier Aspeed Technology reported consolidated revenue of NT$1.636 billion (approx. US$51.16 million) for September 2026, up 100.93% year-over-year and 0.64% from August. It was the company's 11th consecutive month of record revenue.",
+     "title": "Nvidia and Cisco unveil new optics design to help scale AI factories",
+     "link": "https://www.digitimes.com/news/a20261013PR201/nvidia-cisco-optics-design-infrastructure.html",
+     "pubDate": "Tue, 13 Oct 2026 04:15:00 GMT",
+     "summary": "Nvidia and Cisco have introduced a new pluggable optics form factor to expand AI infrastructure without sharply increasing power use or network complexity. For global cloud operators, enterprises, and sovereign AI projects, the design could support denser, more efficient data center builds as demand",
      "source": "DIGITIMES",
-     "zh": "AI server tracker: Supply, not demand, caps BMC growth as Aspeed's 2027 orders top this year's revenue"
+     "zh": "Nvidia and Cisco unveil new optics design to help scale AI factories"
+    },
+    {
+     "title": "Column: From 3D NAND to 3D DRAM &mdash; how vertical stacking is reshaping memory chip manufacturing",
+     "link": "https://www.digitimes.com/news/a20261013PD211/3d-dram-nand-manufacturing.html",
+     "pubDate": "Tue, 13 Oct 2026 04:06:44 GMT",
+     "summary": "After 2013, planar NAND flash memory began reaching its scaling limits at the 15&ndash;16nm process node. Capacitive coupling between the floating gates of adjacent memory cells increasingly disrupted their threshold voltages, making stored data harder to read reliably. The problem became particular",
+     "source": "DIGITIMES",
+     "zh": "Column: From 3D NAND to 3D DRAM &mdash; how vertical stacking is reshaping memory chip manufacturing"
     },
     {
      "title": "Baddow Researchers Develop Germanium Mesa Transistors",
@@ -431,14 +439,6 @@
      "summary": "Manufacturing partnerships and public sector funding are moving Xanadu’s quantum technology toward manufacturable, utility-scale systems. The post Xanadu Builds Out Canadian Quantum Infrastructure appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Xanadu Builds Out Canadian Quantum Infrastructure"
-    },
-    {
-     "title": "UK’s Drone Test Centre gets new NADIC facility",
-     "link": "https://www.electronicsweekly.com/news/design/test-and-measurement-2/uks-drone-test-centre-gets-new-nadic-facility-2026-10/",
-     "pubDate": "Mon, 12 Oct 2026 09:16:42 +0000",
-     "summary": "The UK’s Drone Test and Development Centre (DTDC) – at Westcott Venture Park near Aylesbury – is getting a new facility dubbed the National Autonomy and Drone Innovation Centre (NADIC). […] The post UK’s Drone Test Centre gets new NADIC facility appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "UK’s Drone Test Centre gets new NADIC facility"
     },
     {
      "title": "Security Becomes a Sign-off Item",
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Australian-made PV installation and piling robots moving towards commercial-scale production",
+     "link": "https://www.pv-magazine.com/2026/10/13/arena-pumps-32-3-million-into-solar-robotics-manufacturing-projects/",
+     "pubDate": "Tue, 13 Oct 2026 05:02:33 +0000",
+     "summary": "Australian-made solar panel installation and piling robots are moving towards commercial-scale production with the federal government committing more than $32 million to establish new manufacturing facilities in Victoria and Queensland. The post Australian-made PV installation and piling robots movi",
+     "source": "pv magazine",
+     "zh": "Australian-made PV installation and piling robots moving towards commercial-scale production"
+    },
+    {
      "title": "Design for all climates",
      "link": "https://www.pv-magazine.com/2026/10/13/design-for-all-climates/",
      "pubDate": "Tue, 13 Oct 2026 04:00:00 +0000",
@@ -1087,14 +1095,6 @@
      "summary": "Energy Dome’s new manufacturing plant will supply components for long-duration energy storage (LDES) projects in India, the United States and Ireland. The post Energy Dome opens CO2 battery manufacturing plant in Italy appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "Energy Dome opens CO2 battery manufacturing plant in Italy"
-    },
-    {
-     "title": "Voltus raises US$225 million in Series D funding round to expand VPP service in US and Canada",
-     "link": "https://www.energy-storage.news/voltus-raises-us225-million-in-series-d-funding-round-to-expand-vpp-service-in-us-and-canada/",
-     "pubDate": "Mon, 12 Oct 2026 10:04:13 +0000",
-     "summary": "Distributed energy resource (DER) platform Voltus has raised US$225 million in an oversubscribed Series D financing round and is looking to expand in the US and Canada.",
-     "source": "Energy Storage News",
-     "zh": "Voltus raises US$225 million in Series D funding round to expand VPP service in US and Canada"
     }
    ]
   },
@@ -1305,6 +1305,22 @@
    "total": 6,
    "items": [
     {
+     "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/",
+     "pubDate": "Tue, 13 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte",
+     "source": "NASA",
+     "zh": "APOD: 2026 October 13 – Desert Stairway to Heaven"
+    },
+    {
+     "title": "An Impact Structure With Legs",
+     "link": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
+     "pubDate": "Tue, 13 Oct 2026 04:01:00 +0000",
+     "summary": "If the thought of extraterrestrial objects crashing into Earth weren’t creepy enough, behold Australia’s Spider Crater.",
+     "source": "NASA",
+     "zh": "An Impact Structure With Legs"
+    },
+    {
      "title": "SpaceX launches Falcon 9 Starlink mission for 1st time in more than 3 weeks (photos)",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-falcon-9-starlink-mission-for-1st-time-in-more-than-3-weeks-photo",
      "pubDate": "Tue, 13 Oct 2026 03:15:45 +0000",
@@ -1361,6 +1377,14 @@
      "zh": "The moon could turn astronauts into 'walking, high voltage capacitors' that accidentally zap spacecraft"
     },
     {
+     "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+     "link": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+     "pubDate": "Mon, 12 Oct 2026 17:45:27 +0000",
+     "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth a",
+     "source": "NASA",
+     "zh": "NASA’s SpaceX CRS-35 Mission to Launch Health Research"
+    },
+    {
      "title": "The 'Halloween Fireballs' are coming. Here's what to expect from the Taurids this year",
      "link": "https://www.space.com/stargazing/meteor-showers/the-halloween-fireballs-are-coming-heres-what-to-expect-from-the-taurids-this-year",
      "pubDate": "Mon, 12 Oct 2026 16:00:00 +0000",
@@ -1385,6 +1409,22 @@
      "zh": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission."
     },
     {
+     "title": "APOD: 2026 October 12 – Jupiter and the Moons",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
+     "pubDate": "Mon, 12 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte",
+     "source": "NASA",
+     "zh": "APOD: 2026 October 12 – Jupiter and the Moons"
+    },
+    {
+     "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+     "link": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+     "pubDate": "Mon, 12 Oct 2026 04:00:00 +0000",
+     "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
+     "source": "NASA",
+     "zh": "Antarctic Sea Ice Grows to Its 2026 Maximum"
+    },
+    {
      "title": "Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images",
      "link": "https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/",
      "pubDate": "Sun, 11 Oct 2026 21:47:31 +0000",
@@ -1399,6 +1439,14 @@
      "summary": "Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company… The post Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight"
+    },
+    {
+     "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+     "pubDate": "Sun, 11 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wr",
+     "source": "NASA",
+     "zh": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos"
     },
     {
      "title": "SpaceX launches 21 data satellites for the Space Development Agency",
@@ -1495,14 +1543,6 @@
      "summary": "Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […] The post Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format"
-    },
-    {
-     "title": "NASA progress with SLS vehicles for upcoming Artemis missions",
-     "link": "https://www.nasaspaceflight.com/2026/10/nasa-progress-sls-artemis/",
-     "pubDate": "Tue, 06 Oct 2026 12:35:41 +0000",
-     "summary": "NASA has stacked the center segments of both Artemis III solid rocket boosters on Mobile… The post NASA progress with SLS vehicles for upcoming Artemis missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "NASA progress with SLS vehicles for upcoming Artemis missions"
     }
    ]
   },
@@ -1729,6 +1769,158 @@
    "total": 18,
    "items": [
     {
+     "title": "传统豪华车降价，中国新豪华向上，阿维塔T09想争的不只是50万元市场",
+     "link": "https://www.tmtpost.com/8165939.html",
+     "pubDate": "Tue, 13 Oct 2026 13:07:37 +0800",
+     "summary": "阿维塔T09冲击50万元以上市场，也进一步抬高了品牌向上与全球化的想象空间。",
+     "source": "钛媒体",
+     "zh": "传统豪华车降价，中国新豪华向上，阿维塔T09想争的不只是50万元市场"
+    },
+    {
+     "title": "服役约 35 年后，微软桌面排版软件 Microsoft Publisher 退役",
+     "link": "https://www.ithome.com/1/012/286.htm",
+     "pubDate": "Tue, 13 Oct 2026 05:07:10 GMT",
+     "summary": "IT之家 10 月 13 日消息，科技媒体 Windows Latest 今天（10 月 13 日）发布博文，报道称在服役约 35 年（首次发布于 1991 年）后， 微软桌面排版软件 Microsoft Publisher 已退役，部分用户可能无法在 Microsoft 365 中打开 .pub 文件。 IT之家曾于今年 2 月报道，微软已经通过弹窗方式，提醒 Microsoft 365 订阅用户将于 2026 年 10 月 1 日停止支持桌面排版软件 Publisher。此外 Office 2021 和 Office LTSC 2021 等永久授权版本的支持周期也于 10 月 13 日结束",
+     "source": "IT之家",
+     "zh": "服役约 35 年后，微软桌面排版软件 Microsoft Publisher 退役"
+    },
+    {
+     "title": "A global chip stock sell-off deepens after Broadcom&apos;s CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4% (Financial Times)",
+     "link": "https://www.techmeme.com/261013/p4#a261013p4",
+     "pubDate": "Tue, 13 Oct 2026 01:05:01 -0400",
+     "summary": "Financial Times : A global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4% &nbsp; &mdash;&nbsp; Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment",
+     "source": "Techmeme",
+     "zh": "A global chip stock sell-off deepens after Broadcom&apos;s CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4% (Financial Times)"
+    },
+    {
+     "title": "Visa 中国获批筹备银行卡清算机构",
+     "link": "https://www.ithome.com/1/012/284.htm",
+     "pubDate": "Tue, 13 Oct 2026 05:03:39 GMT",
+     "summary": "IT之家 10 月 13 日消息，数字支付企业 Visa 今日宣布， 已正式获中国人民银行批准在中国境内筹备银行卡清算机构 。这标志着 Visa 服务中国境内支付市场进程中的一个重要进展。 Visa 首席执行官麦凯恩（Ryan McInerney）表示：“此次筹备申请获批是 Visa 长期致力于服务中国市场的又一重要里程碑。期待按照中国人民银行的相关监管规定，积极开展后续工作，以争取早日在国内展业。” Visa 将继续完成后续工作， 并在中国境内开展银行卡清算业务 。 IT之家注：银行卡清算是指持卡人刷卡消费后，银行、商家和清算机构之间算清楚钱、完成资金划转的过程，由持牌清算机构统一处理跨行交",
+     "source": "IT之家",
+     "zh": "Visa 中国获批筹备银行卡清算机构"
+    },
+    {
+     "title": "字节掘金者：最贵的是光环",
+     "link": "https://www.huxiu.com/article/4897049.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 13:00:42 +0800",
+     "summary": "本文来自微信公众号： AI闹 ，作者：AI闹，题图来自：视觉中国 围猎 2026年，字节系创业者的估值&ldquo;腰斩&rdquo;。 一个字节系 4-1 （总监级） 的天使轮融资额度是 200 万美元&mdash;&mdash;而一年前是 400 万美元起。一方面源于 AI 应用遇冷 （字节系绝大部分创业者方向是 AI 应用） ，一方面竞争窗口也在急速关闭， &ldquo;该出来的都出来了，资本开始反向排查创业动机，到底是主动想创业，还是内部发展不顺才离开。&rdquo; 某一线机构的投资人说。 过去两年，作为全球最大的独角兽公司，字节正在向全球批量输出 AI 创业者。 根据公开融资信息统",
+     "source": "虎嗅",
+     "zh": "字节掘金者：最贵的是光环"
+    },
+    {
+     "title": "Wayfair Coupons: Up to 80% Off October 2026",
+     "link": "https://www.wired.com/story/wayfair-promo-code/",
+     "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000",
+     "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+     "source": "WIRED",
+     "zh": "Wayfair Coupons: Up to 80% Off October 2026"
+    },
+    {
+     "title": "Lego Promo Code | 20% Off October 2026",
+     "link": "https://www.wired.com/story/lego-promo-code/",
+     "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000",
+     "summary": "Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.",
+     "source": "WIRED",
+     "zh": "Lego Promo Code | 20% Off October 2026"
+    },
+    {
+     "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
+     "link": "https://www.wired.com/story/nordvpn-coupon/",
+     "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000",
+     "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+     "source": "WIRED",
+     "zh": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026"
+    },
+    {
+     "title": "Google Workspace Promo Codes: 14% Off for October 2026",
+     "link": "https://www.wired.com/story/google-workspace-promo-code/",
+     "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000",
+     "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+     "source": "WIRED",
+     "zh": "Google Workspace Promo Codes: 14% Off for October 2026"
+    },
+    {
+     "title": "Nike Promo Codes and Discounts: 30% for October 2026",
+     "link": "https://www.wired.com/story/nike-promo-code/",
+     "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000",
+     "summary": "Check out our deals for Nike this October 2026, including 15% off select purchases.",
+     "source": "WIRED",
+     "zh": "Nike Promo Codes and Discounts: 30% for October 2026"
+    },
+    {
+     "title": "B&H Photo Promo Codes and Deals This October 2026",
+     "link": "https://www.wired.com/story/bh-photo-coupon/",
+     "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000",
+     "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+     "source": "WIRED",
+     "zh": "B&H Photo Promo Codes and Deals This October 2026"
+    },
+    {
+     "title": "锐评中国、美国、韩国娱乐商业模式及核心问题",
+     "link": "https://www.huxiu.com/article/4897057.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 12:58:27 +0800",
+     "summary": "本文来自微信公众号： 赵先生的事务所 ，作者：赵智功，原文标题：《【音乐角度】锐评中国、美国、韩国娱乐商业模式及核心问题》 根据IFPI《2026全球音乐报告》，2025年全球录制音乐市场总收入达317亿美元，同比增长6.4%。 美国以38.7%的全球收入份额稳居第一，中国以20.1%的增速超越德国跃升至全球第四，韩国位列全球第七。 中国的增速在主要市场中最高，韩国则出现了5.7%的收入下滑，是前十中唯一负增长的市场。 这揭示了\"K-pop看起来很厉害\"与\"实际经济规模\"之间的落差。 中美音乐市场，由于发展历史、市场制度和本国文化不同，具备极大的差异。 而韩国则正好位于中美市场的中间地带。由于",
+     "source": "虎嗅",
+     "zh": "锐评中国、美国、韩国娱乐商业模式及核心问题"
+    },
+    {
+     "title": "懂车帝：某网友夸大员工身份和不实内容，已启动法律固证，后续将依法采取维权措施",
+     "link": "https://www.ithome.com/1/012/282.htm",
+     "pubDate": "Tue, 13 Oct 2026 04:57:45 GMT",
+     "summary": "IT之家 10 月 13 日消息，懂车帝企业辟谣官方账号今日发文：就网传某网友在境内外平台夸大我司员工身份和涉及我方的不实内容，我司已启动法律固证，后续将依法采取维权措施，维护公司合法权益。 懂车帝辟谣官方账号还曾在 10 月 10 日表示，此账号所标注的懂车帝前员工身份为假，其他以懂车帝前员工身份或冒用内部人士名义发表的恶意揣测言论，均为不实信息。 不过IT之家发现，名为 @北美花生就是我 的微博用户今日晒出了 入职字节跳动的邮件、工牌等图片 ，并对 @懂车帝辟谣 的信息进行了回复，表示“让高超音速导弹再飞一会儿”。",
+     "source": "IT之家",
+     "zh": "懂车帝：某网友夸大员工身份和不实内容，已启动法律固证，后续将依法采取维权措施"
+    },
+    {
+     "title": "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)",
+     "link": "https://www.techmeme.com/261013/p3#a261013p3",
+     "pubDate": "Tue, 13 Oct 2026 00:55:02 -0400",
+     "summary": "Rhea Rose Abraham / Reuters : Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale &nbsp; &mdash;&nbsp; Character.AI said on Monday it had filed for Chapter 11 bankruptcy in the US and agreed to se",
+     "source": "Techmeme",
+     "zh": "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)"
+    },
+    {
+     "title": "中国市场率先落地后，特斯拉 Automations 自动化功能现身海外版固件",
+     "link": "https://www.ithome.com/1/012/281.htm",
+     "pubDate": "Tue, 13 Oct 2026 04:54:36 GMT",
+     "summary": "IT之家 10 月 13 日消息，特斯拉的 Automations 自动化功能看样子已准备在中国大陆以外市场上线。网友 Maciej Wilczyński（@maciej）在 X 平台发布了一段英文界面的演示视频，称该功能“在最新固件版本里已经完全打磨完毕，只是被功能开关隐藏”。在 @CoilShift 协助下，他直接启用了该功能并进行了演示，没有做任何修改。 与 Wilczyński 合作、特斯拉安卓项目的创作者米哈乌 · 加平斯基（Michał Gapiński，@mikegapinski）也在另一台车上开启了 Automations 并放出演示视频。他把这个功能比作“iOS 初代快捷指令",
+     "source": "IT之家",
+     "zh": "中国市场率先落地后，特斯拉 Automations 自动化功能现身海外版固件"
+    },
+    {
+     "title": "断踏板、掉后轮，“速成车”后遗症正在爆发",
+     "link": "https://www.huxiu.com/article/4897055.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 12:49:56 +0800",
+     "summary": "本文来自微信公众号： 冰川思享号 ，作者：关不羽，原文标题：《断踏板、掉后轮！“速成车”后遗症正在爆发》 造车的背后，是对安全的关注，是对生命的尊重。车子的各种性能，满足的是用户需求，但其底层架构永远只能是“安全第一”的品控体系。 国内网民还在围观新能源车尊界V800刹车踏板支架断裂事件时，奇瑞的燃油车OMODA 5在马来西亚又创“奇迹”——开着开着后轮掉了。 据奇瑞官方数据，OMODA 5从油泥模型冻结，到首台车下线，用时仅18个月。快速开发匆匆上市，极易留下安全隐患。 国内车企各类离奇故障频发，速成造车背后的问题值得深思。 01 10月6日，一辆2023款OMODA 5于马来西亚柔佛新山行",
+     "source": "虎嗅",
+     "zh": "断踏板、掉后轮，“速成车”后遗症正在爆发"
+    },
+    {
+     "title": "从电视到AI短剧，争夺时间的生意有什么变化？",
+     "link": "https://www.huxiu.com/article/4897051.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 12:49:27 +0800",
+     "summary": "本文来自微信公众号： 防冷涂的蜡书斋 ，作者：防冷涂的蜡 一部AI短剧，788集，17.8亿播放量。 据DataEye相关报告，抖音平台上的《谁说纨绔不能当状元》采用付费模式，累计播放量超过17.8亿次。每集不到一分钟，故事却能连续展开数百集。 过去，一部电视剧播上几十集，就足以让观众追上几个月；现在，一部短剧可以把一个故事拆成几百个片段，塞进等电梯、坐地铁、吃午饭的间隙。 从电视到手机，再到AI短剧，媒介形态已经换了好几轮。但有一件事始终没有改变：人的一天只有24小时。 那么，当内容越来越容易生产，争夺时间的生意究竟发生了什么变化？ 媒介一直在争夺时间，但争夺的方式变了 媒介史上，每一种新媒",
+     "source": "虎嗅",
+     "zh": "从电视到AI短剧，争夺时间的生意有什么变化？"
+    },
+    {
+     "title": "《自然》独家：这几个欧美科学院竟是“草台班子”？知名科学家也纷纷上当",
+     "link": "https://www.huxiu.com/article/4897054.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 12:49:03 +0800",
+     "summary": "本文来自微信公众号： 自然系列 ，作者：Nature Portfolio 本篇《自然》长文共6121字，干货满满，预计阅读时间19分钟，时间不够建议可以先“浮窗”或者收藏哦。 原文作者：Max Kozlov 《自然》开展的调查显示，一个机构网络通过欺诈手段做大自己的规模。 Julia Hirschberg以为她终于能庆祝一番了。7月，她当选欧洲工程院（European Academy of Engineering，缩写EAE）院士，该机构在其官网上以“代表工程界最高专业荣誉的顶级机构”自居，其400多名院士中有35名诺奖得主。 就在听到这个好消息的几天前，另一个荣誉也从天而降：她当选了奥地利工",
+     "source": "虎嗅",
+     "zh": "《自然》独家：这几个欧美科学院竟是“草台班子”？知名科学家也纷纷上当"
+    },
+    {
+     "title": "闲鱼实体店，没活硬整？",
+     "link": "https://www.huxiu.com/article/4897053.html?f=rss",
+     "pubDate": "Tue, 13 Oct 2026 12:47:24 +0800",
+     "summary": "本文来自微信公众号： 惊蛰研究所 ，作者：惊蛰研究所消费组 10月6日傍晚6点，上海长宁区闲鱼循环商店荟聚店内。或许因为正值餐饮晚市高峰期，店内顾客并不多：两名工作人员在岗，另有两人在寄卖电器产品，正在柜台前跟店员交谈。走进店内，货架覆盖服装鞋帽、户外运动、模型玩具、箱包配饰、数码家电、书籍等诸多品类。 这样的全品类门店，只是闲鱼线下尝试的一种。今年8月1日，闲鱼又在上海开出了首家二次元潮玩集合店。而自2024年正式布局线下至今，两年多过去，闲鱼的线下之路似乎仍处于边开边试的状态。一个靠C2C轻模式起家的二手交易平台，为何执着于开实体店？实体二手交易，真的是门好生意吗？ 理想目标与骨感现实 2",
+     "source": "虎嗅",
+     "zh": "闲鱼实体店，没活硬整？"
+    },
+    {
      "title": "IDC: Nvidia&apos;s AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition (Reuters)",
      "link": "https://www.techmeme.com/261013/p2#a261013p2",
      "pubDate": "Tue, 13 Oct 2026 00:45:01 -0400",
@@ -1777,92 +1969,12 @@
      "zh": "China-based Transsion, which dominates the market for smartphones in Africa, raised $390M from a Hong Kong share sale after pricing the deal near the top end (Sangmi Cha/Bloomberg)"
     },
     {
-     "title": "一加 16 拿下今年安卓旗舰首销同期销量 Top1，首销销量已突破 7 万台",
-     "link": "https://www.ithome.com/1/012/277.htm",
-     "pubDate": "Tue, 13 Oct 2026 04:13:26 GMT",
-     "summary": "IT之家 10 月 13 日消息， 一加 16 手机今日正式开售。该机是首批搭载高通第六代骁龙 8 超级至尊版移动平台的旗舰手机，全球首发 185Hz 极速高刷，拥有全自研「电竞三芯」，带来全新电竞游戏体验，定价 5999 元起，国补后 5199 元起。 一加中国区总裁李杰今日发文宣布， 截至上午 11 点，首销销量已突破 7 万台 ，一加 16 拿下今年安卓旗舰首销同期销量 Top1， 实现了行业罕见的大幅上涨 。 IT之家附一加 16 手机一图知如下： 相关阅读： 《 5999 元起：一加 16 手机正式发布，第六代骁龙 8 超级至尊版芯片、全球首发 185Hz 极速高刷 》",
-     "source": "IT之家",
-     "zh": "一加 16 拿下今年安卓旗舰首销同期销量 Top1，首销销量已突破 7 万台"
-    },
-    {
-     "title": "给00后讲个故事：从前的电脑会中毒",
-     "link": "https://www.huxiu.com/article/4897048.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 12:11:05 +0800",
-     "summary": "本文来自微信公众号： 果壳 ，作者：李小葵，编辑：luna 我跟00后同事说起“熊猫烧香”，TA一脸茫然：熊猫为什么要烧香？ 对于80后、90后来说，电脑病毒几乎是上网时绕不开的一关：电脑里得装杀毒软件，U盘不能乱插，下载软件也得留个心眼。电脑一旦“中毒”，轻则弹窗、变慢，重则文件打不开、系统出问题。 但现在似乎很久没有听说过电脑病毒了，更年轻的人甚至对其闻所未闻。 电脑病毒真的越来越少，甚至快要灭亡了吗？ 过去的电脑，太容易中毒了 80后、90后用电脑，对病毒一度严防死守：新电脑买回来，先装杀毒软件，定期更新病毒库；U盘不能随便插，尤其是从别人电脑拷东西回来，必须先扫描杀毒再打开；网上下载软",
-     "source": "虎嗅",
-     "zh": "给00后讲个故事：从前的电脑会中毒"
-    },
-    {
-     "title": "2026年，日本翻盖手机终于过气了",
-     "link": "https://www.huxiu.com/article/4897047.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 12:08:01 +0800",
-     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《2026 年，日本翻盖手机终于过气了》 我怎么才能确定，电话真的已经挂断了？ 2026年4月，在日本东京西北郊练马区的一间老年人活动室里，几位七十多岁的学员坐在课桌旁，指着手中的新屏幕向老师发问。 面对刚换上的智能手机，学员神田广子看着满屏密密麻麻的图标叹了口气： 买回来一开机，上面全是各种图标，我完全不知道该做什么。 他们理解的「挂电话」，是一个看得见、摸得着的动作——大拇指按一下红色的挂机键，或是「啪嗒」一声把翻盖合上，简单且不失仪式感。 但在眼前的这块「玻璃」上，什么物理反馈都没有，老人得在复杂的图形界面里，",
-     "source": "虎嗅",
-     "zh": "2026年，日本翻盖手机终于过气了"
-    },
-    {
      "title": "AI进展观察｜研发AI Agent四象限：个人与企业、国内与国际",
      "link": "https://www.tmtpost.com/8166418.html",
      "pubDate": "Tue, 13 Oct 2026 12:06:06 +0800",
      "summary": "比起追逐每一个新工具，更重要的是看清自己所处的象限，以及这场竞争真正的方向。",
      "source": "钛媒体",
      "zh": "AI进展观察｜研发AI Agent四象限：个人与企业、国内与国际"
-    },
-    {
-     "title": "鸿蒙智行：智界 V9 连续四个月获 40 万以上 MPV 市场销量冠军",
-     "link": "https://www.ithome.com/1/012/276.htm",
-     "pubDate": "Tue, 13 Oct 2026 04:05:17 GMT",
-     "summary": "IT之家 10 月 13 日消息，鸿蒙智行官方今日宣布，智界 V9 连续四个月获 40 万以上 MPV 市场销量冠军。 据IT之家此前报道， 鸿蒙智行智界 V9 旗舰 MPV 在 8 月的零售交付量为 8312 台、 7 月销量为 10101 台 。智界汽车执行董事及执行副总裁赵长江表示，智界未来的增长，来自完整体系的持续生长。智界汽车不追求短期单品的爆发，而是做长期稳定经营的长跑品牌。 作为参考，汽车销量数据追踪和分析团队 ECC 情报局的博主 @嗨大星_ECC 今日分享了鸿蒙智行 9 月细分车型销量情况（数据来源为上险量）。其中， 智界 V9 的销量为 4,280 台 。 该车于今年 5 ",
-     "source": "IT之家",
-     "zh": "鸿蒙智行：智界 V9 连续四个月获 40 万以上 MPV 市场销量冠军"
-    },
-    {
-     "title": "彭博行业研究分析 AI 数据中心成本：1GW 容量恐超 300 亿美元",
-     "link": "https://www.ithome.com/1/012/275.htm",
-     "pubDate": "Tue, 13 Oct 2026 04:04:16 GMT",
-     "summary": "IT之家 10 月 13 日消息，Bloomberg Intelligence（彭博行业研究）近日发布了一份 AI 数据中心成本简报：综合 Cushman &amp; Wakefield 提供的数据和其内部分析， 在美国得克萨斯州阿比林市建设一座 1GW 数据中心的开销可达 307 亿美元 （IT之家注：现汇率约合 2,058.69 亿元人民币） 。 图源：Pexels 这 307 亿美元可划分为十大部分，其中 核心的芯片和服务器硬件设备占据过半的 171 亿美元 ，电力供应基础设施消耗 30 亿美元、冷却系统占到 16.6 亿美元、网络布线方面则是 10.7 亿美元。 此外，土地购买价格达到",
-     "source": "IT之家",
-     "zh": "彭博行业研究分析 AI 数据中心成本：1GW 容量恐超 300 亿美元"
-    },
-    {
-     "title": "博主称收到通知，尊界 S800 典藏大观也可以免费更换刹车踏板",
-     "link": "https://www.ithome.com/1/012/274.htm",
-     "pubDate": "Tue, 13 Oct 2026 04:00:59 GMT",
-     "summary": "IT之家 10 月 13 日消息，懂车帝测试尊界 V800 刹车踏板相关事件持续引发关注， 尊界汽车官方 10 月 8 日晚发布情况说明 ，表示尊界汽车的制动系统按照高于国家标准、高于行业标准的要求完成全流程开发与验证；但也表示将进一步优化该部件设计， 并为已交付用户提供免费升级选择 。 根据最新消息，此次免费升级不仅限于尊界 V800 车型。博主 @李杰灵 今日表示收到通知， 他的尊界 S800 典藏大观车型也可以免费更换刹车踏板，大概 11 月完成 。 评论区有网友询问博主是否要去更换刹车踏板，博主表示“ 换 ”。 根据今日公布的《 尊界 V800 制动踏板检测情况说明 》，2026 年 ",
-     "source": "IT之家",
-     "zh": "博主称收到通知，尊界 S800 典藏大观也可以免费更换刹车踏板"
-    },
-    {
-     "title": "史上最大现金收购案，富二代如何正确拼爹？",
-     "link": "https://www.huxiu.com/article/4896383.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 12:00:00 +0800",
-     "summary": "全球最大现金收购案来了：派拉蒙用1,109亿美元买下华纳兄弟，好莱坞五大制片厂变四大。",
-     "source": "虎嗅",
-     "zh": "史上最大现金收购案，富二代如何正确拼爹？"
-    },
-    {
-     "title": "Meta 每服务一个用户每月最高烧130美元，Muse 这盘棋到底图什么？",
-     "link": "https://www.huxiu.com/article/4897046.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 11:54:52 +0800",
-     "summary": "本文来自微信公众号： 运营官张沐 ，作者：张沐，原文标题：《【万字长文】Meta 每服务一个用户每月最高烧 130 美元，Muse 这盘棋到底图什么？》 你有没有想过一个问题：一个东西，首周90万人下载，三周冲到500万下载，直接干到美区App Store第一——但投行掐指一算，它每服务你一个月，最高要烧130美元。 它对你免费。 这事放任何一家公司身上都是自杀，但放在Meta身上，你得琢磨琢磨：扎克伯格到底在买什么？ 这个产品叫Muse，Meta九月八号发的个人AI agent。我把它发布一个月来的海外拆解、数据报告、用户实测翻了个遍——从Contrary Research的深度报告到Len",
-     "source": "虎嗅",
-     "zh": "Meta 每服务一个用户每月最高烧130美元，Muse 这盘棋到底图什么？"
-    },
-    {
-     "title": "阿里系、宁德时代、明阳智能，一批核电“新股东”已跑步进场！",
-     "link": "https://www.huxiu.com/article/4897045.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 11:53:31 +0800",
-     "summary": "本文来自微信公众号： 北极星电力网 ，作者：铮铮，原文标题：《阿里系、宁德时代、明阳智能，一批核电“新股东”已跑步进场！》 2026年10月9日，中国广核公告，新设立的合资公司——中广核粤汕（陆丰）核电有限公司已完成工商注册登记手续，并取得《营业执照》。公司成立于9月29日，注册资本1亿元，法定代表人李乐晓。 中国广核持股70%，其余30%由六家分摊：中国一重10%，陆丰市投资控股5%，宁德时代（肇庆）新能源科技5%，明阳智慧能源5%，浙江久立特材与久立集团各2.5%。 动力电池龙头、风电整机商、不锈钢管供应商出现在同一家核电项目公司的股东名单里。类似的组合，今年以来已出现多次。 PART 0",
-     "source": "虎嗅",
-     "zh": "阿里系、宁德时代、明阳智能，一批核电“新股东”已跑步进场！"
-    },
-    {
-     "title": "梁文锋和Winverse之间，早就搭好了一座桥",
-     "link": "https://www.huxiu.com/article/4897041.html?f=rss",
-     "pubDate": "Tue, 13 Oct 2026 11:47:32 +0800",
-     "summary": "本文来自微信公众号： 字母AI ，作者：苗正 公开资料里，DeepSeek投资的公司只有两家，一家是已经落地的宇树，另外一家就是刚刚传出计划领投消息的初创公司Winverse AI。 这家公司的创始人叫做胡瀚，此前曾加入过微软亚洲研究院，也曾担任过腾讯混元语言模型的技术负责人。 外媒称，Winverse AI是一家隐身模式初创公司（stealth startup），即它不对外公布公司的具体产品。不过7月下旬胡瀚从腾讯离职时曾对外称，自己的创业方向为具身智能和世界模型。 梁文锋曾对投资人亲口表示，世界模型不重要，结果还没到半年，梁文锋就“破戒”了。 所以，梁文锋为什么会选择在这个时间点投资Win",
-     "source": "虎嗅",
-     "zh": "梁文锋和Winverse之间，早就搭好了一座桥"
     },
     {
      "title": "Anthropic says new measures like preserved thinking in Fable 5.1 and Opus 5.5 have reduced data harvesting through distillation attacks by about 90% to 99% (Anthropic)",
@@ -1889,84 +2001,12 @@
      "zh": "酒店早餐月卡，为什么反复走红？"
     },
     {
-     "title": "当AI开始替品牌“胡说八道”，谁在为失控的算法买单？",
-     "link": "https://www.tmtpost.com/8166502.html",
-     "pubDate": "Tue, 13 Oct 2026 11:29:00 +0800",
-     "summary": "你以为的AI降本，正在变成品牌的“隐形炸弹”。",
-     "source": "钛媒体",
-     "zh": "当AI开始替品牌“胡说八道”，谁在为失控的算法买单？"
-    },
-    {
      "title": "Sources: NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan&apos;s largest, potentially costing $6.3B (Nikkei Asia)",
      "link": "https://www.techmeme.com/261012/p45#a261012p45",
      "pubDate": "Mon, 12 Oct 2026 23:15:01 -0400",
      "summary": "Nikkei Asia : Sources: NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan's largest, potentially costing $6.3B &nbsp; &mdash;&nbsp; TOKYO/OSAKA &mdash; NTT Data Group is in the final stages of talks to build a data center in western Japan for U.S",
      "source": "Techmeme",
      "zh": "Sources: NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan&apos;s largest, potentially costing $6.3B (Nikkei Asia)"
-    },
-    {
-     "title": "Q&A with Mark Zuckerberg and Alexandr Wang on the Muse app, Muse Wonder, the risks of committing $100B+ to AI, rebooting Meta&apos;s AI team, agentic commerce, more (Cheeky Pint)",
-     "link": "https://www.techmeme.com/261012/p44#a261012p44",
-     "pubDate": "Mon, 12 Oct 2026 22:50:01 -0400",
-     "summary": "Cheeky Pint : Q&A with Mark Zuckerberg and Alexandr Wang on the Muse app, Muse Wonder, the risks of committing $100B+ to AI, rebooting Meta's AI team, agentic commerce, more &nbsp; &mdash;&nbsp; As Meta scales its AI infrastructure past five gigawatts, Mark Zuckerberg (founder and CEO, Meta) and Ale",
-     "source": "Techmeme",
-     "zh": "Q&A with Mark Zuckerberg and Alexandr Wang on the Muse app, Muse Wonder, the risks of committing $100B+ to AI, rebooting Meta&apos;s AI team, agentic commerce, more (Cheeky Pint)"
-    },
-    {
-     "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
-     "link": "https://www.argmin.net/p/faster-fourier-transforms",
-     "pubDate": "Tue, 13 Oct 2026 02:46:43 +0000",
-     "summary": "Article URL: https://www.argmin.net/p/faster-fourier-transforms Comments URL: https://news.ycombinator.com/item?id=50065932 Points: 53 # Comments: 34",
-     "source": "Hacker News",
-     "zh": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms"
-    },
-    {
-     "title": "Leaving Tech",
-     "link": "https://ryanbigg.com/2026/10/leaving-tech",
-     "pubDate": "Tue, 13 Oct 2026 02:39:35 +0000",
-     "summary": "Article URL: https://ryanbigg.com/2026/10/leaving-tech Comments URL: https://news.ycombinator.com/item?id=50065892 Points: 137 # Comments: 128",
-     "source": "Hacker News",
-     "zh": "Leaving Tech"
-    },
-    {
-     "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
-     "link": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
-     "pubDate": "Tue, 13 Oct 2026 02:25:00 +0000",
-     "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/ Comments URL: https://news.ycombinator.com/item?id=50065805 Points: 81 # Comments: 75",
-     "source": "Hacker News",
-     "zh": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024"
-    },
-    {
-     "title": "The Dock on Mac, from OS 10 to macOS 27",
-     "link": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
-     "pubDate": "Tue, 13 Oct 2026 02:09:19 +0000",
-     "summary": "Article URL: https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/ Comments URL: https://news.ycombinator.com/item?id=50065713 Points: 14 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "The Dock on Mac, from OS 10 to macOS 27"
-    },
-    {
-     "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-     "link": "https://arxiv.org/abs/2610.13928",
-     "pubDate": "Tue, 13 Oct 2026 02:07:08 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 40 # Comments: 19",
-     "source": "Hacker News",
-     "zh": "AI Models Can Provably Hide Arbitrary Capabilities"
-    },
-    {
-     "title": "Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its \"physical AI\" efforts (Anton Bridge/Reuters)",
-     "link": "https://www.techmeme.com/261012/p43#a261012p43",
-     "pubDate": "Mon, 12 Oct 2026 21:35:00 -0400",
-     "summary": "Anton Bridge / Reuters : Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its &ldquo;physical AI&rdquo; efforts &nbsp; &mdash;&nbsp; Japanese manufacturer Omron (6645.T) will buy US industrial PC firm Onlogic and i",
-     "source": "Techmeme",
-     "zh": "Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its \"physical AI\" efforts (Anton Bridge/Reuters)"
-    },
-    {
-     "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-     "link": "https://doi.org/10.1111/acel.70751",
-     "pubDate": "Mon, 12 Oct 2026 23:34:22 +0000",
-     "summary": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/ Comments URL: https://news.ycombinator.com/item?id=50064536 Points: 126 # Comments: 83",
-     "source": "Hacker News",
-     "zh": "Blood cells from 80-year-old donor become stem cells with molecular age under 20"
     }
    ]
   },
@@ -2225,28 +2265,92 @@
    "total": 13,
    "items": [
     {
+     "title": "中谷物流10月13日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893988955.html",
+     "pubDate": "Tue, 13 Oct 2026 13:04:24 +0800",
+     "summary": "以下是 中谷物流 在北京时间10月13日13:04分盘口异动快照： 10月13日， 中谷物流 盘中涨幅达5%，截至13点04分，报12.31元，成交2.28亿元，换手率0.91%。 分笔 13:04:12 12.31 96↑ 13:04:09 12.29 113↓ 13:04:06 12.29 212↑ 13:04:03 12.29 142↑ 13:04:00 12.28 125↑ 13:03:57 12.27 257↓ 13:03:54 12.28 477↓ 13:03:51 12.29 261↑ 13:03:48 12.29 908↑ 13:03:45 12.27 1393↓ 报价 卖五 ",
+     "source": "东方财富股票",
+     "zh": "中谷物流10月13日盘中涨幅达5%"
+    },
+    {
+     "title": "景旺电子10月13日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893988855.html",
+     "pubDate": "Tue, 13 Oct 2026 13:04:24 +0800",
+     "summary": "以下是 景旺电子 在北京时间10月13日13:04分盘口异动快照： 10月13日， 景旺电子 盘中快速回调，5分钟内跌幅超过2%，截至13点04分，报97.87元，成交28.29亿元，换手率3.06%。 分笔 13:04:10 97.87 165↓ 13:04:07 97.97 139↓ 13:04:04 97.98 493↓ 13:04:01 98.00 47↓ 13:03:58 98.03 9↑ 13:03:55 98.00 28↓ 13:03:52 98.01 123↑ 13:03:49 97.98 96↓ 13:03:46 98.00 342↓ 13:03:43 98.09 85↓ 报",
+     "source": "东方财富股票",
+     "zh": "景旺电子10月13日快速回调"
+    },
+    {
+     "title": "威尔高10月13日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893988525.html",
+     "pubDate": "Tue, 13 Oct 2026 13:04:13 +0800",
+     "summary": "以下是 威尔高 在北京时间10月13日13:04分盘口异动快照： 10月13日， 威尔高 盘中快速回调，5分钟内跌幅超过2%，截至13点04分，报74.83元，成交5.19亿元，换手率4.12%。 分笔 13:04:03 74.83 49↓ 13:04:00 75.00 80↑ 13:03:57 74.87 228↓ 13:03:54 75.17 13↑ 13:03:51 75.12 10↑ 13:03:48 75.12 25↓ 13:03:45 75.13 28↓ 13:03:42 75.20 11↓ 13:03:39 75.21 2↑ 13:03:36 75.18 8↓ 报价 卖五 74.",
+     "source": "东方财富股票",
+     "zh": "威尔高10月13日快速回调"
+    },
+    {
+     "title": "德尔未来10月13日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893988369.html",
+     "pubDate": "Tue, 13 Oct 2026 13:04:13 +0800",
+     "summary": "以下是 德尔未来 在北京时间10月13日13:04分盘口异动快照： 10月13日， 德尔未来 盘中快速上涨，5分钟内涨幅超过2%，截至13点04分，报11.93元，成交2.45亿元，换手率2.76%。 分笔 13:04:06 11.93 280↑ 13:04:03 11.89 206↓ 13:04:00 11.91 258↑ 13:03:57 11.89 135↑ 13:03:54 11.90 387↑ 13:03:51 11.89 210↓ 13:03:48 11.90 26↑ 13:03:45 11.90 101↑ 13:03:42 11.90 470↑ 13:03:39 11.86 49",
+     "source": "东方财富股票",
+     "zh": "德尔未来10月13日快速上涨"
+    },
+    {
+     "title": "海通发展10月13日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893988461.html",
+     "pubDate": "Tue, 13 Oct 2026 13:04:13 +0800",
+     "summary": "以下是 海通发展 在北京时间10月13日13:04分盘口异动快照： 10月13日， 海通发展 盘中快速反弹，5分钟内涨幅超过2%，截至13点04分，报11.69元，成交3.83亿元，换手率2.47%。 分笔 13:04:04 11.69 154↑ 13:04:01 11.67 62↑ 13:03:58 11.66 88↑ 13:03:55 11.65 16↑ 13:03:52 11.64 128↑ 13:03:49 11.63 18↓ 13:03:46 11.63 25↓ 13:03:43 11.63 137↓ 13:03:40 11.65 93↓ 13:03:37 11.65 134↑ 报价",
+     "source": "东方财富股票",
+     "zh": "海通发展10月13日快速反弹"
+    },
+    {
+     "title": "崇达技术10月13日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893988210.html",
+     "pubDate": "Tue, 13 Oct 2026 13:04:13 +0800",
+     "summary": "以下是 崇达技术 在北京时间10月13日13:04分盘口异动快照： 10月13日， 崇达技术 盘中快速回调，5分钟内跌幅超过2%，截至13点04分，报21.3元，成交11.14亿元，换手率6.89%。 分笔 13:04:03 21.30 277↓ 13:04:00 21.31 663↑ 13:03:57 21.31 519↓ 13:03:54 21.36 116↑ 13:03:51 21.36 128↓ 13:03:48 21.36 234↓ 13:03:45 21.38 224↓ 13:03:42 21.40 41↑ 13:03:39 21.39 50↓ 13:03:36 21.40 57↑",
+     "source": "东方财富股票",
+     "zh": "崇达技术10月13日快速回调"
+    },
+    {
+     "title": "Kroger to eliminate 3,000 corporate jobs in three-year AI restructuring",
+     "link": "https://seekingalpha.com/news/4652297-kroger-to-eliminate-3000-corporate-jobs-in-three-year-ai-restructuring?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 01:04:05 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Kroger to eliminate 3,000 corporate jobs in three-year AI restructuring"
+    },
+    {
+     "title": "PepsiCo cuts Poppi payout estimate to $12M amid U.S. soda sales slump",
+     "link": "https://seekingalpha.com/news/4652305-pepsico-cuts-poppi-payout-estimate-to-12m-amid-us-soda-sales-slump?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 13 Oct 2026 00:59:27 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "PepsiCo cuts Poppi payout estimate to $12M amid U.S. soda sales slump"
+    },
+    {
+     "title": "长鑫4F²架构吓崩海外存储股，马斯克：中国规模化制造能力往往超过全球其他地区总和",
+     "link": "https://wallstreetcn.com/articles/3783500",
+     "pubDate": "Tue, 13 Oct 2026 12:57:14 +0800",
+     "summary": "马斯克对中国制造业规模化能力的最新表态，在芯片行业已引发的竞争焦虑上再添一把火。 隔夜，中国存储芯片厂商长鑫存储的最新技术突破消息，冲击了美股芯片板块——费城半导体指数周一下跌2.7%，创三周新低。美光、闪迪、SK海力士ADR等内存芯片相关个股领跌，市场对中国厂商加速切入高毛利AI服务器内存市场的担忧情绪明显升温。 针对这一走势，AI分析师Melvin表示他完全无法理解这波内存股的抛售潮，认为市场反应过度，这波抛售并不合理。 随后，马斯克在社交平台X上发文回应称， 一旦中国掌握某种产品的制造方法，其规模化能力往往超过全球其他地区的总和，并以锂电池和太阳能为例加以佐证。 他同时对中国在内存芯片领",
+     "source": "华尔街见闻",
+     "zh": "长鑫4F²架构吓崩海外存储股，马斯克：中国规模化制造能力往往超过全球其他地区总和"
+    },
+    {
+     "title": "IMF warns bond yields could see a &apos;disorderly&apos; spike as debt, inflation risks worsen",
+     "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+     "pubDate": "Tue, 13 Oct 2026 04:54:07 GMT",
+     "summary": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
+     "source": "CNBC",
+     "zh": "IMF warns bond yields could see a &apos;disorderly&apos; spike as debt, inflation risks worsen"
+    },
+    {
      "title": "SoftBank, SK Hynix lead Asian tech sell-off amid AI investment concerns",
      "link": "https://seekingalpha.com/news/4652303-softbank-sk-hynix-lead-asian-tech-sell-off-amid-ai-investment-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 13 Oct 2026 00:45:03 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SoftBank, SK Hynix lead Asian tech sell-off amid AI investment concerns"
-    },
-    {
-     "title": "应用材料在硅谷揭幕EPIC中心 计划投资约50亿美元",
-     "link": "http://finance.eastmoney.com/news/1354,202610133893967984.html",
-     "pubDate": "Tue, 13 Oct 2026 12:42:21 +0800",
-     "summary": "当地时间10月12日， 应用材料 公司在美国加州硅谷揭幕“设备与工艺创新及商业化中心”（EPIC），旨在打造全球规模最大的协作式 半导体 工艺技术与制造设备研发设施之一。该中心计划随着客户项目启动逐步投入约50亿美元，主要开展下一代 半导体 材料、设备及制造工艺研发。 台积电 、 英特尔 、三星 电子 、美光和 SK海力士 等为创始合作伙伴。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "应用材料在硅谷揭幕EPIC中心 计划投资约50亿美元"
-    },
-    {
-     "title": "NTT Data考虑为Anthropic在日本建设数据中心",
-     "link": "http://finance.eastmoney.com/news/1360,202610133893967619.html",
-     "pubDate": "Tue, 13 Oct 2026 12:40:21 +0800",
-     "summary": "据报道，日本电信巨头NTT旗下NTT Data正处于同Anthropic洽谈的最后阶段，计划在日本大阪建设一座 数据中心 ，成本最高可达1万亿日元（约合63亿美元）。该 数据中心 的 电力 接入容量最高可达500兆瓦，预计最早于2028年开始部分运营。报道称，双方计划在2026财年结束前签署协议。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "NTT Data考虑为Anthropic在日本建设数据中心"
     },
     {
      "title": "RBA September Minutes: Unanimous 25bps rate hike to 4.6%, hawkish stance maintained",
@@ -2257,44 +2361,12 @@
      "zh": "RBA September Minutes: Unanimous 25bps rate hike to 4.6%, hawkish stance maintained"
     },
     {
-     "title": "懂车帝测试人回应尊界刹车检测结果：静态加载与动态加载不一样",
-     "link": "http://finance.eastmoney.com/news/1354,202610133893967262.html",
-     "pubDate": "Tue, 13 Oct 2026 12:38:37 +0800",
-     "summary": "10月13日，尊界发布《尊界V800制动踏板检测情况说明》后，懂车帝测试当事人“懂车大柯基东门”连续4次发文进行了回应。 针对尊界V800制动踏板没有问题的报告，“懂车大柯基东门”提出质疑：请问静态加载和动态加载一样么？PP 聚丙烯+GF40 面对静态载荷与瞬间动态载荷是一回事吗，1分钟20mm的加载，那既然都合格，就别升级了，还有既然是检测机构检验章呢。 “懂车大柯基东门”还表示，样品01002，1500N永久变形4.07mm，限值 5mm，真就卡着限值来啊，这还是精挑出来的送检件，做 汽车 工程的都明白，无语了，不知道该说什么，就这样吧。 此外，“懂车大柯基东门”还指出，报告里样品照片没有",
-     "source": "东方财富股票",
-     "zh": "懂车帝测试人回应尊界刹车检测结果：静态加载与动态加载不一样"
-    },
-    {
      "title": "Japan's producer price inflation slows to 6.8% in September, below market expectations",
      "link": "https://seekingalpha.com/news/4652307-japan-producer-price-inflation-slows-to-68-in-september-below-market-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 13 Oct 2026 00:31:33 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Japan's producer price inflation slows to 6.8% in September, below market expectations"
-    },
-    {
-     "title": "元件突发拉升！AI引发结构性紧缺 国产替代加速",
-     "link": "http://finance.eastmoney.com/news/11139,202610133893965138.html",
-     "pubDate": "Tue, 13 Oct 2026 12:30:31 +0800",
-     "summary": "周二 元件 概念突发大涨， 迅捷兴 、 金百泽 等20CM涨停， 则成电子 、 本川智能 等涨超10%。 国产替代进入加速期 电子 元件 这波领涨品种 MLCC 又有大消息。10月6日，三星电机在提交的监管文件中披露，公司与一家全球大型企业签订AI服务器用 MLCC 供货合同，合同金额约 2856.11亿韩元 （约合2.10亿美元），合同期限为2027年1月1日至12月31日。 这是三星电机近期披露的又一笔长协大单。9月29日，公司披露与一家全球大型企业签署总额超2850亿韩元的供货合同，相关产品同样用于AI服务器；9月1日，公司还与某全球知名客户签订价值 1.07万亿韩元 的 MLCC 供应",
-     "source": "东方财富股票",
-     "zh": "元件突发拉升！AI引发结构性紧缺 国产替代加速"
-    },
-    {
-     "title": "道指涨、纳指跌！存储芯片重挫，闪迪跌近6%，SK海力士、ARM跌超4%，美光科技跌超3%",
-     "link": "http://finance.eastmoney.com/news/1354,202610133893967158.html",
-     "pubDate": "Tue, 13 Oct 2026 12:26:44 +0800",
-     "summary": "北京时间10月13日凌晨，美股三大指数收盘涨跌不一。道琼斯工业平均指数收报51850.55点，涨0.38%； 纳斯达克 指数收报27245.90点，跌0.44%；标普500指数收报7807.24点，跌0.06%。存储和 半导体 板块表现疲软，对 纳斯达克 指数构成压力。 半导体 板块走低，费城 半导体 指数跌2.67%。COHERENT跌7.87%，CREDO跌7.25%，MACOM跌7.18%，SITIME跌6.91%，TOWER半导体跌5.34%，ASTERA LABS跌5.29%， 泰瑞达 跌4.68%，ARM跌4.15%， 英特格 跌3.49%， 迈威尔科技 跌3.42%， 英特尔 跌",
-     "source": "东方财富股票",
-     "zh": "道指涨、纳指跌！存储芯片重挫，闪迪跌近6%，SK海力士、ARM跌超4%，美光科技跌超3%"
-    },
-    {
-     "title": "300107，“20cm”涨停！量子科技重大突破，产业落地提速，多只“超跌”概念股获机构青睐",
-     "link": "http://finance.eastmoney.com/news/1344,202610133893963832.html",
-     "pubDate": "Tue, 13 Oct 2026 12:26:36 +0800",
-     "summary": "量子科技 被认为是通向下一代信息技术革命的“钥匙”。 分散染料逆势走强 4股收获涨停板 10月13日早盘，A股主要股指再次调整，深证成指、沪深300指数、创业板指盘中均创今年以来新低。截至上午收盘，超3500股飘绿。 钠 电池 、 固态电池 、 风电设备 、 医疗服务 、 重组蛋白 等题材指数跌幅靠前；分散染料、供销社、 CPO概念 等指数逆势飘红。 分散染料表现最抢眼，板块指数涨幅超4%，概念股 建新股份 （300107） 收获“20cm”涨停板， 醋化股份 、 世龙实业 、 亚邦股份 收获“10cm”涨停板。 公开资料显示， 建新股份 已形成“一链三体”主营业务结构，以间氨基苯磺酸为基础，",
-     "source": "东方财富股票",
-     "zh": "300107，“20cm”涨停！量子科技重大突破，产业落地提速，多只“超跌”概念股获机构青睐"
     },
     {
      "title": "上海嘉定民生村镇银行被罚款60万元 两人被警告",
@@ -2361,14 +2433,6 @@
      "zh": "创业板半日跌近1%，PCB、覆铜板掀涨停潮，江淮汽车盘中大涨9%，恒科指跌超1%，权重科网股集体走低"
     },
     {
-     "title": "Epic reportedly delays Disney video game project as it mandates AI workflows",
-     "link": "https://seekingalpha.com/news/4652295-epic-reportedly-delays-disney-video-game-project-as-it-mandates-ai-workflows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 00:00:31 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Epic reportedly delays Disney video game project as it mandates AI workflows"
-    },
-    {
      "title": "The election supercycle set to drag Europe right",
      "link": "https://www.ft.com/content/ec433e1f-bdb4-4a1c-868e-e1c7c4121f45?syn-25a6b1a6=1",
      "pubDate": "Tue, 13 Oct 2026 04:00:19 GMT",
@@ -2393,14 +2457,6 @@
      "zh": "Who’s really hiring you — HR or cyber security?"
     },
     {
-     "title": "Tuesday’s Economic Calendar",
-     "link": "https://seekingalpha.com/news/4652076-tuesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 00:00:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tuesday’s Economic Calendar"
-    },
-    {
      "title": "【环球财经】巴西生物投入品市场预计今年增长最高达7%",
      "link": "http://www.eeo.com.cn/2026/1013/1062241.shtml",
      "pubDate": "Tue, 13 Oct 2026 11:52:11 +0800",
@@ -2415,14 +2471,6 @@
      "summary": "Oil prices fell as investors assess potential supply disruptions against prospects of more Russian diesel entering global markets.",
      "source": "CNBC",
      "zh": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict"
-    },
-    {
-     "title": "马斯克谈芯片生产：中国规模化制造能力往往超过全球其他地区总和",
-     "link": "https://wallstreetcn.com/articles/3783500",
-     "pubDate": "Tue, 13 Oct 2026 11:48:49 +0800",
-     "summary": "马斯克对中国制造业规模化能力的最新表态，在芯片行业已引发的竞争焦虑上再添一把火。 隔夜，中国存储芯片厂商长鑫存储的最新技术突破消息，冲击了美股芯片板块——费城半导体指数周一下跌2.7%，创三周新低。美光、闪迪、SK海力士ADR等内存芯片相关个股领跌，市场对中国厂商加速切入高毛利AI服务器内存市场的担忧情绪明显升温。 针对这一走势，AI分析师Melvin表示他完全无法理解这波内存股的抛售潮，认为市场反应过度，这波抛售并不合理。 随后，马斯克在社交平台X上发文回应称， 一旦中国掌握某种产品的制造方法，其规模化能力往往超过全球其他地区的总和，并以锂电池和太阳能为例加以佐证。 他同时对中国在内存芯片领",
-     "source": "华尔街见闻",
-     "zh": "马斯克谈芯片生产：中国规模化制造能力往往超过全球其他地区总和"
     },
     {
      "title": "本轮AI狂潮：身兼“科网”与“地产”泡沫特色，神似2008国际资本大循环",
@@ -2455,14 +2503,6 @@
      "summary": "Muse Wonder 凤凰网科技讯 北京时间10月13日，据《华尔街日报》报道，Meta在周一发布了一款新的AI模型。该公司表示，这款模型使其跻身AI技术前沿地位，实现了去年成立Meta超级智能实验室时确立的目标...",
      "source": "经济观察网",
      "zh": "Meta发布MuseWonder大模型，宣称前沿能力直追ChatGPT和Claude，股价一度涨4.7%"
-    },
-    {
-     "title": "Top economies heading for biggest budget deficits since Covid, IMF warns",
-     "link": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1",
-     "pubDate": "Tue, 13 Oct 2026 03:35:04 GMT",
-     "summary": "At its annual meeting, the fund calls for ‘urgent’ action to rebuild public finances",
-     "source": "Financial Times",
-     "zh": "Top economies heading for biggest budget deficits since Covid, IMF warns"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/13 09:52:07",
+ "generated_at": "2026/10/13 10:12:09",
  "recent_days": 7,
  "industries": [
   {
@@ -257,52 +257,52 @@
    "total": 9,
    "items": [
     {
-     "title": "China's rare-earth concentrate prices stay 48% higher, but downstream demand remains weak",
-     "link": "https://www.digitimes.com/news/a20261012VL218/demand-price-2026.html",
-     "pubDate": "Tue, 13 Oct 2026 00:16:56 GMT",
-     "summary": "China's rare-earth concentrate prices remain nearly 50% above year-earlier levels despite a marginal fourth-quarter increase, underscoring persistent raw material cost pressures even as downstream buyers resist higher prices.",
+     "title": "AMD Helion aims to reshape data center design for agentic AI",
+     "link": "https://www.digitimes.com/news/a20261013PD214/amd-design-cooling-infrastructure-data.html",
+     "pubDate": "Tue, 13 Oct 2026 01:55:28 GMT",
+     "summary": "AMD has introduced Helion, an open rack architecture designed for agentic AI workloads that could change how data centers allocate compute, power, and cooling. The system targets hyperscale and enterprise customers building AI agents that need continuous execution, tool use, and workflow coordinatio",
      "source": "DIGITIMES",
-     "zh": "China's rare-earth concentrate prices stay 48% higher, but downstream demand remains weak"
+     "zh": "AMD Helion aims to reshape data center design for agentic AI"
     },
     {
-     "title": "Podcast highlights: Is Elon Musk using TSMC talks as leverage against Intel and Samsung?",
-     "link": "https://www.digitimes.com/news/a20261012PD238/tsmc-intel-samsung-capacity-fab.html",
-     "pubDate": "Tue, 13 Oct 2026 00:14:30 GMT",
-     "summary": "Elon Musk's recent confirmation that his \"TeraFab\" initiative is in talks with Taiwan Semiconductor Manufacturing Co. (TSMC) signals that a project originally framed as a challenge to the established foundry model is pivoting toward a more pragmatic industrial path, according to DIGITIMES analyst Lu",
+     "title": "Unexpected Claude test behavior prompts US govt to mandate AI incident reporting",
+     "link": "https://www.digitimes.com/news/a20261013PD203/anthropic-claude-testing-government-security.html",
+     "pubDate": "Tue, 13 Oct 2026 01:54:03 GMT",
+     "summary": "Unexpected behavior during Anthropic model testing&mdash;including models mistakenly submitting visa applications and sending false murder-case leads to police&mdash;has prompted the Trump administration to require AI companies to fulfill \"national security obligations\" by reporting related incident",
      "source": "DIGITIMES",
-     "zh": "Podcast highlights: Is Elon Musk using TSMC talks as leverage against Intel and Samsung?"
+     "zh": "Unexpected Claude test behavior prompts US govt to mandate AI incident reporting"
     },
     {
-     "title": "Terafab and beyond: Musk's push to fuse silicon, robotics, space into one AI system",
-     "link": "https://www.digitimes.com/news/a20261012VL208/silicon-robotics-tesla-spacex-equipment.html",
-     "pubDate": "Tue, 13 Oct 2026 00:10:55 GMT",
-     "summary": "As plans for the Terafab project begin to take shape, the emergence of a scaled chipmaking initiative increasingly reflects Elon Musk's broader ambition to push vertical AI integration across his expanding industrial stack.",
+     "title": "Applied Materials opens R&D center to speed chipmaking for the AI era",
+     "link": "https://www.digitimes.com/news/a20261013PD213/applied-materials-development-equipment-california-materials.html",
+     "pubDate": "Tue, 13 Oct 2026 01:48:12 GMT",
+     "summary": "Applied Materials has opened its Equipment and Process Innovation and Commercialization (EPIC) Center in Sunnyvale, California, positioning the Silicon Valley site as a new hub for semiconductor research and manufacturing development. The company expects spending at the facility to rise over time to",
      "source": "DIGITIMES",
-     "zh": "Terafab and beyond: Musk's push to fuse silicon, robotics, space into one AI system"
+     "zh": "Applied Materials opens R&D center to speed chipmaking for the AI era"
     },
     {
-     "title": "Foxconn partners on Taiwan-made battery storage systems for 2027 rollout",
-     "link": "https://www.digitimes.com/news/a20261012PD245/foxconn-2027-lithium-battery-taiwan-energy-management.html",
-     "pubDate": "Tue, 13 Oct 2026 00:09:58 GMT",
-     "summary": "Tun Green Power partnered with Foxconn, Billion Watts, NoonSpare Energy Technology, and Rich Electric to develop behind-the-meter energy storage systems (ESS) using Taiwan-made lithium battery cells. The companies signed a cooperation agreement in Taiwan on October 12, 2026, targeting mass productio",
+     "title": "Microsoft's 2nm Maia 300 completes cloud AI ASIC lineup, setting up 2027 server supply-chain boom",
+     "link": "https://www.digitimes.com/news/a20261013PD206/microsoft-asic-2027-2nm-cloud-ai.html",
+     "pubDate": "Tue, 13 Oct 2026 01:43:49 GMT",
+     "summary": "Microsoft has unveiled its latest in-house AI application-specific integrated circuit (ASIC), Maia 300, and accompanying server rack, with its compute chiplets manufactured using TSMC's advanced N2P process (an enhanced, extended version of the company's baseline 2nm, or N2). Supply-chain sources in",
      "source": "DIGITIMES",
-     "zh": "Foxconn partners on Taiwan-made battery storage systems for 2027 rollout"
+     "zh": "Microsoft's 2nm Maia 300 completes cloud AI ASIC lineup, setting up 2027 server supply-chain boom"
     },
     {
-     "title": "AUO enters next chapter as David Chang takes president role to reshape group operating model",
-     "link": "https://www.digitimes.com/news/a20261012PD230/auo-panel-market-demand-2026.html",
-     "pubDate": "Tue, 13 Oct 2026 00:09:00 GMT",
-     "summary": "Amid ongoing shifts in panel market cycles and end-market demand, AUO continues to press forward with its strategic corporate transformation. Marking its 30th anniversary in 2026, the company will host its \"30 Years of Excellence, Co-Creating the Future\" sports day on October 17. chairman and CEO Pa",
+     "title": "Nanya Technology's LTAs cover up to 70% of capacity as Pingtung 3D IC plant targets 2H28 production",
+     "link": "https://www.digitimes.com/news/a20261013PD205/nanya-technology-capacity-3d-ic-production-plant.html",
+     "pubDate": "Tue, 13 Oct 2026 01:36:50 GMT",
+     "summary": "Nanya Technology reported record profits in the third quarter of 2026, with president Pei-Ing Lee saying long-term agreements (LTAs) now cover approximately 50&ndash;70% of the company's production capacity. Some customers are seeking to extend contracts to three years or longer.",
      "source": "DIGITIMES",
-     "zh": "AUO enters next chapter as David Chang takes president role to reshape group operating model"
+     "zh": "Nanya Technology's LTAs cover up to 70% of capacity as Pingtung 3D IC plant targets 2H28 production"
     },
     {
-     "title": "Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand",
-     "link": "https://www.digitimes.com/news/a20261012VL227/nand-samsung-sk-hynix-demand-ssd.html",
-     "pubDate": "Tue, 13 Oct 2026 00:08:27 GMT",
-     "summary": "Samsung Electronics and SK Hynix are expected to see a sharp increase in NAND flash profits in 2026 as surging demand for enterprise solid-state drives (SSDs) drives up memory prices and improves profitability, adding another earnings boost beyond high-bandwidth memory (HBM).",
+     "title": "Nvidia reportedly may halt RTX 5090 production to favor RTX PRO cards, leakers claim",
+     "link": "https://www.digitimes.com/news/a20261013VL205/nvidia-rtx-flagship-geforce-graphics-card.html",
+     "pubDate": "Tue, 13 Oct 2026 01:28:32 GMT",
+     "summary": "Nvidia may be preparing to stop making its flagship GeForce RTX 5090 graphics card and reserve the GB202 chip inside it for professional RTX PRO products, according to unconfirmed claims by two hardware leakers. Nvidia has not confirmed the plan or announced an end-of-production date, VideoCardz rep",
      "source": "DIGITIMES",
-     "zh": "Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand"
+     "zh": "Nvidia reportedly may halt RTX 5090 production to favor RTX PRO cards, leakers claim"
     },
     {
      "title": "Baddow Researchers Develop Germanium Mesa Transistors",
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "40% of Volkswagen Group’s European Orders Were 100% Electrics Last Month",
+     "link": "https://cleantechnica.com/2026/10/12/40-of-volkswagen-groups-european-orders-were-100-electrics-last-month/",
+     "pubDate": "Tue, 13 Oct 2026 01:55:58 +0000",
+     "summary": "Volkswagen Group gets a lot of stick for not doing a better job of electrifying and leading the EV revolution. However, it’s doing better than most (or all?) other legacy automakers, especially in its home market of Europe. Of course, Volkswagen has been losing sales in China rapidly. Even auto ... ",
+     "source": "CleanTechnica",
+     "zh": "40% of Volkswagen Group’s European Orders Were 100% Electrics Last Month"
+    },
+    {
      "title": "This Ultra-Rare Gas Could Become An Ace In Canada’s Hands",
      "link": "https://oilprice.com/Energy/Energy-General/This-Ultra-Rare-Gas-Could-Become-An-Ace-In-Canadas-Hands.html",
      "pubDate": "Mon, 12 Oct 2026 19:00:00 -0500",
@@ -1087,14 +1095,6 @@
      "summary": "Regulators are raising the bar on what an inspection has to prove.",
      "source": "Utility Dive",
      "zh": "Beyond the checklist: How connected asset data is reshaping grid risk"
-    },
-    {
-     "title": "Private LTE: How utilities should think about cost, control and tradeoffs",
-     "link": "https://www.utilitydive.com/spons/private-lte-how-utilities-should-think-about-cost-control-and-tradeoffs/832291/",
-     "pubDate": "Mon, 12 Oct 2026 05:00:00 -0400",
-     "summary": "Compare spectrum, carrier and satellite options before choosing a connectivity model.",
-     "source": "Utility Dive",
-     "zh": "Private LTE: How utilities should think about cost, control and tradeoffs"
     }
    ]
   },
@@ -1769,6 +1769,70 @@
    "total": 18,
    "items": [
     {
+     "title": "电网设备掀涨停潮，金冠电气20cm涨停只是前菜，5万亿投资落地，真正的金矿在海外",
+     "link": "https://www.tmtpost.com/8166021.html",
+     "pubDate": "Tue, 13 Oct 2026 10:07:00 +0800",
+     "summary": "A股5万亿新型电网投资行情，需甄别真受益企业。",
+     "source": "钛媒体",
+     "zh": "电网设备掀涨停潮，金冠电气20cm涨停只是前菜，5万亿投资落地，真正的金矿在海外"
+    },
+    {
+     "title": "哈药转型突遇不测，临危受命老将遭调查",
+     "link": "https://www.tmtpost.com/8166034.html",
+     "pubDate": "Tue, 13 Oct 2026 10:02:00 +0800",
+     "summary": "股价一字跌停。",
+     "source": "钛媒体",
+     "zh": "哈药转型突遇不测，临危受命老将遭调查"
+    },
+    {
+     "title": "华为徐松余：麒麟 9050 系列开启未来 10 年新征程，实现业界首个 30B MoE 大模型入端",
+     "link": "https://www.ithome.com/1/012/176.htm",
+     "pubDate": "Tue, 13 Oct 2026 01:59:42 GMT",
+     "summary": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。 徐松余谈到了华为最新的韬定律和逻辑折叠路线，韬定律首次应用于麒麟 9050 系列，在性能 / 能效上获得了可观的收益。 徐松余表示，麒麟 9050 系列作为首款逻辑折叠的韬芯片， 开启未来 10 年新征程 。从 PPT 可以看到，华为目标在 2031 年实现 P 核频率突破 5GHz。 IT之家在沟通会现场获悉，麒麟 9050 系列在 AI 方面也取得了进步，是麒麟首个原生 AI Phone 平台。麒麟 9050 Pro 搭载",
+     "source": "IT之家",
+     "zh": "华为徐松余：麒麟 9050 系列开启未来 10 年新征程，实现业界首个 30B MoE 大模型入端"
+    },
+    {
+     "title": "当潮水退去之后，谁是中国真正的“价值领军”？",
+     "link": "https://www.tmtpost.com/8166426.html",
+     "pubDate": "Tue, 13 Oct 2026 09:59:17 +0800",
+     "summary": "“Value Alpha 30·中国价值领军30强”榜单发布：三十家中国核心资产的资本效率答卷。",
+     "source": "钛媒体",
+     "zh": "当潮水退去之后，谁是中国真正的“价值领军”？"
+    },
+    {
+     "title": "钠电的商业化拐点真来了，宁德时代签下70GWh钠电订单，欧洲集成商不再观望",
+     "link": "https://www.tmtpost.com/8166022.html",
+     "pubDate": "Tue, 13 Oct 2026 09:58:00 +0800",
+     "summary": "宁德时代70GWh钠电订单落地欧洲，备胎标签撕掉，规模化拐点已至。",
+     "source": "钛媒体",
+     "zh": "钠电的商业化拐点真来了，宁德时代签下70GWh钠电订单，欧洲集成商不再观望"
+    },
+    {
+     "title": "尊界公布 V800 制动踏板第三方检测结果：符合行业标准，加严检验至 3000N 也无裂纹损坏",
+     "link": "https://www.ithome.com/1/012/175.htm",
+     "pubDate": "Tue, 13 Oct 2026 01:56:58 GMT",
+     "summary": "IT之家 10 月 13 日消息，针对制动踏板争议，第一财经今日从尊界汽车处获悉《尊界 V800 制动踏板检测情况说明》。 该说明显示，2026 年 10 月 11 日，国家认可的第三方检测机构对尊界 V800 制动踏板进行检验，尊界 V800 符合行标 QC/T 788-2018 要求 (纵向力 1500N，位移量 IT之家注：尊界 V800 是鸿蒙智行与江淮汽车联合打造的百万级超豪华 MPV，于 2026 年 8 月 5 日正式上市。新车推出尊享版、行政版和领航版三款配置，售价分别为 76.6 万元、86.6 万元和 101.6 万元起。 本月早些时候，懂车帝实测 3 台尊界 V800，称",
+     "source": "IT之家",
+     "zh": "尊界公布 V800 制动踏板第三方检测结果：符合行业标准，加严检验至 3000N 也无裂纹损坏"
+    },
+    {
+     "title": "民间新项目：让破解版索尼 PS5 运行微软 XBOX 云游戏，支持 1080P@60FPS 串流",
+     "link": "https://www.ithome.com/1/012/174.htm",
+     "pubDate": "Tue, 13 Oct 2026 01:53:07 GMT",
+     "summary": "IT之家 10 月 13 日消息，科技媒体 Wccftech 昨日（10 月 12 日）发布博文，报道称开发者 RafaelNGP 在 GitHub 发布 PSBOX Cloud Gaming，这个非官方客户端可以在已破解的 PlayStation 5 游戏主机上，首次成功运行微软 XBOX Cloud Gaming，并支持最高 1080P@60FPS 串流。 IT之家援引博文介绍，玩家通过 PSBOX Cloud Gaming 非官方客户端，可以在已破解的 PlayStation 5 游戏主机上，浏览 XBOX 云端游戏库，并以 1080p60 分辨率串流游戏。 软件支持将最多 4 个 Du",
+     "source": "IT之家",
+     "zh": "民间新项目：让破解版索尼 PS5 运行微软 XBOX 云游戏，支持 1080P@60FPS 串流"
+    },
+    {
+     "title": "赌报价赚快钱时代落幕，售电行业迎来强制性能力筛查",
+     "link": "https://www.tmtpost.com/8166020.html",
+     "pubDate": "Tue, 13 Oct 2026 09:51:00 +0800",
+     "summary": "售电行业深度调整，需靠风控与服务转型发展。",
+     "source": "钛媒体",
+     "zh": "赌报价赚快钱时代落幕，售电行业迎来强制性能力筛查"
+    },
+    {
      "title": "消息称 DeepSeek 将完成 1000 亿元融资，投前估值仍为约 5000 亿元",
      "link": "https://www.ithome.com/1/012/172.htm",
      "pubDate": "Tue, 13 Oct 2026 01:47:22 GMT",
@@ -1801,36 +1865,12 @@
      "zh": "华为徐松余：麒麟 9030 系列是中国半导体产业的一座“高峰”，是各方努力的大成之作"
     },
     {
-     "title": "AI喂养，正在成为一条产业链",
-     "link": "https://www.tmtpost.com/8165995.html",
-     "pubDate": "Tue, 13 Oct 2026 09:42:00 +0800",
-     "summary": "机器人还没进家门，普通人先成了“数据工人”。",
-     "source": "钛媒体",
-     "zh": "AI喂养，正在成为一条产业链"
-    },
-    {
      "title": "东百集团3.16亿跨界收购收监管函：钱归谁，责归谁",
      "link": "https://www.huxiu.com/article/4896997.html?f=rss",
      "pubDate": "Tue, 13 Oct 2026 09:39:00 +0800",
      "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清，编辑：封飚 企业公告还是得看，挺有意思的。 2026年10月11日晚间，以商业零售和仓储物流为主业的东百集团（600693）披露公告（临2026-045）：全资子公司福建东百创智投资有限公司拟以暂定3.16亿元，收购杭州快灵光电科技有限公司52.6667%的股权。 标的公司股东全部权益的评估值为6.117亿元，较账面净资产7,076.97万元增值764.35%；双方以此为基础协商确定100%股权整体综合估值为6亿元，对应52.6667%股权的暂定对价为3.16亿元。 快灵光电做的是光探测器芯片，主要产品为PIN-PD、APD及MPD等，应用于激光雷",
      "source": "虎嗅",
      "zh": "东百集团3.16亿跨界收购收监管函：钱归谁，责归谁"
-    },
-    {
-     "title": "消息称 OpenAI 计划“复活”Sora：换赛道进军 AI 专业影视工具",
-     "link": "https://www.ithome.com/1/012/168.htm",
-     "pubDate": "Tue, 13 Oct 2026 01:38:41 GMT",
-     "summary": "IT之家 10 月 13 日消息，科技媒体《The Information》昨日（10 月 12 日）报道，OpenAI 正与一家专注于电影制作 AI 视频技术的隐身初创公司谈判， 计划将此前已停运的视频生成模型 Sora 移交给该公司，让其以专业影视工具的形式重新进入市场。 IT之家援引博文介绍，这家初创公司由好莱坞制片人杰弗里 · 卡岑伯格（Jeffrey Katzenberg）、Sora 前研究负责人比尔 · 皮布尔斯（Bill Peebles）以及 Dropbox 前首席财务官苏杰 · 贾斯瓦（Sujay Jaswa）于数月前创立，公司名称尚未公开。 合作方面，根据博文披露的细节，这家",
-     "source": "IT之家",
-     "zh": "消息称 OpenAI 计划“复活”Sora：换赛道进军 AI 专业影视工具"
-    },
-    {
-     "title": "珠宝大王倒在黄金牛市，金价越涨金店活得越难",
-     "link": "https://www.tmtpost.com/8166008.html",
-     "pubDate": "Tue, 13 Oct 2026 09:37:00 +0800",
-     "summary": "明星珠宝店被行情拖垮，黄金饰品遇冷、金条成消费主流。",
-     "source": "钛媒体",
-     "zh": "珠宝大王倒在黄金牛市，金价越涨金店活得越难"
     },
     {
      "title": "Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its \"physical AI\" efforts (Anton Bridge/Reuters)",
@@ -1841,36 +1881,12 @@
      "zh": "Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its \"physical AI\" efforts (Anton Bridge/Reuters)"
     },
     {
-     "title": "AI办公正在形成“三足鼎立”局面",
-     "link": "https://www.tmtpost.com/8166000.html",
-     "pubDate": "Tue, 13 Oct 2026 09:32:00 +0800",
-     "summary": "AI办公，热闹过了吗？",
-     "source": "钛媒体",
-     "zh": "AI办公正在形成“三足鼎立”局面"
-    },
-    {
-     "title": "英特尔 SGX 时代进入倒计时，Diamond Rapids 成最后一代支持的至强处理器",
-     "link": "https://www.ithome.com/1/012/167.htm",
-     "pubDate": "Tue, 13 Oct 2026 01:31:26 GMT",
-     "summary": "IT之家 10 月 13 日消息，科技媒体 Tom's Hardware 昨日（10 月 12 日）发布博文，报道称英特尔 Xeon Diamond Rapids 将成为最后一代支持 SGX 的至强处理器， 此后机密计算重心转向 TDX。 IT之家注：SGX 全称为 Software Guard Extensions，直译为软件防护扩展，是英特尔的硬件安全功能，可在应用程序内部建立受保护隔离区。 它能将特定代码与数据同操作系统、虚拟机监控程序及其他软件隔离，常用于保护密钥、用户数据或敏感业务逻辑。 现有 SGX 平台将获得安全更新与支持，直至 2030 年代初，客户仍有时间迁移。 而 TDX ",
-     "source": "IT之家",
-     "zh": "英特尔 SGX 时代进入倒计时，Diamond Rapids 成最后一代支持的至强处理器"
-    },
-    {
      "title": "根本不需要减肥的人，正在排队打“减肥针”",
      "link": "https://www.huxiu.com/article/4896996.html?f=rss",
      "pubDate": "Tue, 13 Oct 2026 09:27:59 +0800",
      "summary": "本文来自微信公众号： 显微故事 ，编辑：卓然，作者：显微故事编辑部 你身边有没有这样的人：朋友圈里几个月没动静，再出现时瘦了一大圈，脸颊却塌了下去。 他们中的一部分人，并没有去健身房，而是悄悄去打针了。 两年前，原本用来治疗糖尿病的注射剂（司美格鲁肽、替尔泊肽、玛仕度肽），从诊室流向了社交平台，被包装成“减肥针”、“瘦瘦针”。 最先打的是医生和明星，接着是主播、白领，最后一路传到县城。 但真正在打针的人里，很多并不符合用药标准。为了那个理想中的体重数字，他们绕过医院，自己在网上下单，自己往身上扎。 2025年，仅诺和诺德旗下的司美格鲁肽系列，在中国就卖了74.88亿元。 与此同时，在一些社交平",
      "source": "虎嗅",
      "zh": "根本不需要减肥的人，正在排队打“减肥针”"
-    },
-    {
-     "title": "铠侠推出 DLC 版本 CM9 企业级固态硬盘，支持冷板液冷",
-     "link": "https://www.ithome.com/1/012/166.htm",
-     "pubDate": "Tue, 13 Oct 2026 01:27:37 GMT",
-     "summary": "IT之家 10 月 13 日消息，KIOXIA（铠侠）美国当地时间昨日宣布推出 CM9-DLC 固态硬盘。这一企业级 SSD 采用 EDSFF E3.S 外形规格， 在常规版本 CM9 的基础上添加了对 DLC（直接液体冷却，冷板液冷）的支持 。 CM9-DLC 意味着客户可在单一服务器机架上完全采用液体冷却，用一套散热系统同时覆盖算力与存力组件。 CM9-DLC eSSD 符合 PCIe 5.0、NVMe 2.0、NVMe-MI 1.2c 规范，支持 OCP 数据中心 NVMe SSD v2.5 规范，支持双端口配置。 其容量可达 32TB 级，提供 1DWPD 读取密集型和 3DWPD 混",
-     "source": "IT之家",
-     "zh": "铠侠推出 DLC 版本 CM9 企业级固态硬盘，支持冷板液冷"
     },
     {
      "title": "没成为中产的人们，重新穿上班尼路",
@@ -1887,22 +1903,6 @@
      "summary": "本文来自微信公众号： 果壳 ，作者：本一，编辑：马文，原文标题：《用 AI 拆软件，怎么不算给文科生准备的“抄袭大法”？》 假如你在别人开发的App里看到一个很好用的功能，想在自己的产品里也做一个，过去大概只有两条路。要么自己边琢磨边从头写，要么找一个懂逆向的工程师，花上几天把这个功能拆开来研究。 本周，在开发者圈爆火刷屏的开源项目REA，给出了第三条路，也就是把“逆向”这件事交给AI去做。 REA是“Reverse Engineer Anything”的缩写，意思是“逆向一切”。它的GitHub主页的介绍写着： \"See a feature in an app that you want i",
      "source": "虎嗅",
      "zh": "用AI 拆软件，怎么不算给文科生准备的“抄袭大法”？"
-    },
-    {
-     "title": "每秒钟烧1块钱，AI短剧成算力时代最大的“印钞机”",
-     "link": "https://www.tmtpost.com/8165999.html",
-     "pubDate": "Tue, 13 Oct 2026 09:23:14 +0800",
-     "summary": "AI短剧竟然是算力最大消耗者。",
-     "source": "钛媒体",
-     "zh": "每秒钟烧1块钱，AI短剧成算力时代最大的“印钞机”"
-    },
-    {
-     "title": "谷歌对 Gemini 的用法变了",
-     "link": "https://www.tmtpost.com/8166223.html",
-     "pubDate": "Tue, 13 Oct 2026 09:22:01 +0800",
-     "summary": "模型本身越来越像同质化的商品。",
-     "source": "钛媒体",
-     "zh": "谷歌对 Gemini 的用法变了"
     },
     {
      "title": "疯狂时刻，一艘油轮一天赚100万美元，二手船比新船还贵",
@@ -1932,7 +1932,7 @@
      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
      "link": "https://doi.org/10.1111/acel.70751",
      "pubDate": "Mon, 12 Oct 2026 23:34:22 +0000",
-     "summary": "Article URL: https://doi.org/10.1111/acel.70751 Comments URL: https://news.ycombinator.com/item?id=50064536 Points: 89 # Comments: 49",
+     "summary": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/ Comments URL: https://news.ycombinator.com/item?id=50064536 Points: 95 # Comments: 64",
      "source": "Hacker News",
      "zh": "Blood cells from 80-year-old donor become stem cells with molecular age under 20"
     },
@@ -1940,7 +1940,7 @@
      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
      "link": "https://github.com/andrewfader/blokkily",
      "pubDate": "Mon, 12 Oct 2026 23:21:12 +0000",
-     "summary": "Article URL: https://github.com/andrewfader/blokkily Comments URL: https://news.ycombinator.com/item?id=50064438 Points: 11 # Comments: 6",
+     "summary": "Article URL: https://github.com/andrewfader/blokkily Comments URL: https://news.ycombinator.com/item?id=50064438 Points: 12 # Comments: 6",
      "source": "Hacker News",
      "zh": "Show HN: An experimental pattern-first DAW that supports MCP"
     },
@@ -1948,7 +1948,7 @@
      "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
      "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
      "pubDate": "Mon, 12 Oct 2026 23:07:25 +0000",
-     "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 100 # Comments: 55",
+     "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 112 # Comments: 66",
      "source": "Hacker News",
      "zh": "GPT-6 Astra Helped Me Jailbreak My Kindle"
     },
@@ -1956,7 +1956,7 @@
      "title": "RJ Mitte has died",
      "link": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
      "pubDate": "Mon, 12 Oct 2026 22:15:29 +0000",
-     "summary": "Article URL: https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332 Comments URL: https://news.ycombinator.com/item?id=50063831 Points: 141 # Comments: 44",
+     "summary": "Article URL: https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332 Comments URL: https://news.ycombinator.com/item?id=50063831 Points: 150 # Comments: 47",
      "source": "Hacker News",
      "zh": "RJ Mitte has died"
     },
@@ -1972,7 +1972,7 @@
      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
      "link": "https://github.com/prabanta-dev/janas",
      "pubDate": "Mon, 12 Oct 2026 22:05:43 +0000",
-     "summary": "Article URL: https://github.com/prabanta-dev/janas Comments URL: https://news.ycombinator.com/item?id=50063717 Points: 29 # Comments: 13",
+     "summary": "Article URL: https://github.com/prabanta-dev/janas Comments URL: https://news.ycombinator.com/item?id=50063717 Points: 33 # Comments: 15",
      "source": "Hacker News",
      "zh": "Janas: Run LLMs larger than RAM by streaming experts from SSD"
     },
@@ -1996,7 +1996,7 @@
      "title": "AI is a tool and using it well takes skill",
      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
      "pubDate": "Mon, 12 Oct 2026 21:40:18 +0000",
-     "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 232 # Comments: 208",
+     "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 234 # Comments: 211",
      "source": "Hacker News",
      "zh": "AI is a tool and using it well takes skill"
     },
@@ -2265,6 +2265,126 @@
    "total": 13,
    "items": [
     {
+     "title": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF",
+     "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+     "pubDate": "Tue, 13 Oct 2026 02:08:34 GMT",
+     "summary": "The IMF raised its 2026 global growth forecast to 3.1%, as AI investment helped offset the war’s energy shock.",
+     "source": "CNBC",
+     "zh": "Global economy to slow less than expected in 2026 as AI boom offsets war hit: IMF"
+    },
+    {
+     "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+     "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+     "pubDate": "Tue, 13 Oct 2026 02:00:00 GMT",
+     "summary": "IMF sees a split global economy, with countries less exposed to the oil shock and benefiting from AI demand pulling ahead",
+     "source": "MarketWatch",
+     "zh": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits."
+    },
+    {
+     "title": "首发｜升级个人AI助理，千问将推出Personal Agent「千问Go！」",
+     "link": "https://wallstreetcn.com/articles/3783466",
+     "pubDate": "Tue, 13 Oct 2026 10:00:00 +0800",
+     "summary": "硬AI独家获悉， 千问Personal Agent「千问Go！」即将发布 。 在用户分享的体验视频中，它进入机票预订平台查找延误航班，与客服交涉后争取到70元现金赔付；也在淘宝中翻找满足价保条件的订单，为用户追回52元差价。 Muse的走红，让市场开始重新计算个人Agent的商业价值。Coding Agent之后，购物、出行和日常事务面向更广泛的用户。模型具备完成任务的能力，产品能处理真实App中的操作和沟通，个人AI助理就有机会贡献新的商业与算力增量。 01 用户说目标，千问Go跑流程 “我之前订的兰州杭州往返机票，出发有延误，我不记得是哪趟了，帮我在App上和客服沟通赔偿。”用户并没有给出",
+     "source": "华尔街见闻",
+     "zh": "首发｜升级个人AI助理，千问将推出Personal Agent「千问Go！」"
+    },
+    {
+     "title": "10月13日医院板块跌幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893710376.html",
+     "pubDate": "Tue, 13 Oct 2026 09:58:19 +0800",
+     "summary": "&emsp;&emsp;10月13日9点43分， 医院 板块指数报6262.482点，跌幅达2%，成交7.42亿元，换手率0.55%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 美年健康 报4.66元，跌4.51%； 创新医疗 报16.17元，跌4.32%； 三博脑科 报47.01元，跌3.47%； 皓宸医疗 报2.36元，跌2.88%； 普瑞眼科 报30.89元，跌2.77%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月13日医院板块跌幅达2%"
+    },
+    {
+     "title": "10月13日钙钛矿电池板块跌幅达3%",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893710256.html",
+     "pubDate": "Tue, 13 Oct 2026 09:58:18 +0800",
+     "summary": "&emsp;&emsp;10月13日9点43分，钙钛矿 电池 板块指数报915.329点，跌幅达3%，成交31.00亿元，换手率0.38%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 聚石化学 报55.32元，跌11.20%； 迈为股份 报148.83元，跌6.72%； 德龙激光 报48.33元，跌6.70%； 莱特光电 报31.59元，跌6.34%； 逸飞激光 报64.47元，跌5.86%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月13日钙钛矿电池板块跌幅达3%"
+    },
+    {
+     "title": "多氟多10月13日加速下跌",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893710130.html",
+     "pubDate": "Tue, 13 Oct 2026 09:58:18 +0800",
+     "summary": "以下是 多氟多 在北京时间10月13日09:43分盘口异动快照： 10月13日， 多氟多 盘中加速下跌，5分钟内跌幅超过2%，截至9点43分，报27.18元，成交5.38亿元，换手率1.81%。 分笔 09:43:15 27.18 625↓ 09:43:12 27.20 1017↓ 09:43:09 27.20 1293↓ 09:43:06 27.21 361↑ 09:43:03 27.21 570↓ 09:43:00 27.21 374↓ 09:42:57 27.22 628↓ 09:42:54 27.23 165↑ 09:42:51 27.23 371↓ 09:42:48 27.24 68",
+     "source": "东方财富股票",
+     "zh": "多氟多10月13日加速下跌"
+    },
+    {
+     "title": "广田集团10月13日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893709919.html",
+     "pubDate": "Tue, 13 Oct 2026 09:58:17 +0800",
+     "summary": "以下是 广田集团 在北京时间10月13日09:43分盘口异动快照： 10月13日， 广田集团 盘中快速回调，5分钟内跌幅超过2%，截至9点43分，报1.32元，成交1908.50万元，换手率0.38%。 分笔 09:43:15 1.32 12444↓ 09:43:09 1.34 400↑ 09:43:06 1.33 74↓ 09:43:03 1.34 2↑ 09:43:00 1.33 1↓ 09:42:57 1.34 9↑ 09:42:42 1.34 171↑ 09:42:39 1.33 92↓ 09:42:36 1.34 20↑ 09:42:33 1.33 6↓ 报价 卖五 1.37 192",
+     "source": "东方财富股票",
+     "zh": "广田集团10月13日快速回调"
+    },
+    {
+     "title": "10月13日分立器件板块跌幅达4%",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893709853.html",
+     "pubDate": "Tue, 13 Oct 2026 09:58:16 +0800",
+     "summary": "&emsp;&emsp;10月13日9点43分， 分立器件 板块指数报13004.34点，跌幅达4%，成交41.31亿元，换手率0.67%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为：ST闻泰报13.80元，跌7.32%； 宏微科技 报21.07元，跌5.94%； 银河微电 报33.90元，跌5.23%； 炬光科技 报223.23元，跌5.19%； 锴威特 报60.43元，跌5.10%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月13日分立器件板块跌幅达4%"
+    },
+    {
+     "title": "朗威股份10月13日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610133893709754.html",
+     "pubDate": "Tue, 13 Oct 2026 09:58:16 +0800",
+     "summary": "以下是 朗威股份 在北京时间10月13日09:43分盘口异动快照： 10月13日， 朗威股份 盘中跌幅达5%，截至9点43分，报31.26元，成交1233.04万元，换手率0.49%。 分笔 09:43:12 31.26 14↓ 09:43:09 31.28 12↓ 09:43:03 31.28 1↓ 09:43:00 31.28 5↓ 09:42:57 31.31 15↓ 09:42:54 31.31 8↓ 09:42:51 31.33 16↑ 09:42:48 31.31 1↓ 09:42:45 31.31 3↓ 09:42:42 31.31 8↓ 报价 卖五 31.31 1 卖四 31.",
+     "source": "东方财富股票",
+     "zh": "朗威股份10月13日盘中跌幅达5%"
+    },
+    {
+     "title": "四大指数集体低开 创业板指跌超2%",
+     "link": "http://www.eeo.com.cn/2026/1013/1062021.shtml",
+     "pubDate": "Tue, 13 Oct 2026 09:52:14 +0800",
+     "summary": "10月13日，A股四大指数集体低开，沪指跌0.96%，深成指跌1.79%，创业板指跌2.18%，科创综指跌2.19%。算力硬件、半导体芯片、锂电池、农业等板块跌幅居前。",
+     "source": "经济观察网",
+     "zh": "四大指数集体低开 创业板指跌超2%"
+    },
+    {
+     "title": "央行开展650亿元7天期逆回购操作",
+     "link": "http://www.eeo.com.cn/2026/1013/1062020.shtml",
+     "pubDate": "Tue, 13 Oct 2026 09:52:12 +0800",
+     "summary": "央行网站截图 【央行开展650亿元7天期逆回购操作】央行公告，2026年10月13日中国人民银行以固定利率、数量招标方式开展了650亿元7天期逆回购操作，操作利率1.40%，全额满足了一级交易商需求。（中新经纬APP）",
+     "source": "经济观察网",
+     "zh": "央行开展650亿元7天期逆回购操作"
+    },
+    {
+     "title": "恒生指数低开0.41% 恒生科技指数跌0.96%",
+     "link": "http://www.eeo.com.cn/2026/1013/1062019.shtml",
+     "pubDate": "Tue, 13 Oct 2026 09:52:09 +0800",
+     "summary": "10月13日，恒生指数低开0.41%，恒生科技指数跌0.96%。",
+     "source": "经济观察网",
+     "zh": "恒生指数低开0.41% 恒生科技指数跌0.96%"
+    },
+    {
+     "title": "AH股齐跌：A股双创指数均跌3%，算力硬件下挫，恒科指跌2%，权重科网股集体走低",
+     "link": "https://wallstreetcn.com/articles/3783494",
+     "pubDate": "Tue, 13 Oct 2026 09:51:14 +0800",
+     "summary": "华尔街见闻文章 写道，韩国假日后补跌、三星与SK海力士史上最大规模回购（约400亿美元）提前终止，叠加长鑫科技宣布4F²架构突破,在单元架构上或领先韩国巨头两年等三重冲击叠加，隔夜 美股存储芯片重挫 ，叠加周二亚太市场跟随下挫，韩国KOSPI指数跌5%，芯片巨头三星电子、SK海力士亦大跌，A股和港股的芯片、算力硬件股集体陷入调整。 10月13日，A股早盘集体低开，三大股指盘初下跌，创业板跌3%，失守2900点，在AI硬件、芯片半导体等普遍下挫之际，科创综指、科创50也大幅下挫，中芯国际、海光信息、中微公司均跌4%左右。白酒、煤炭、海运等板块逆势走强。 港股低开低走，恒指、恒科指全线走低，恒科指",
+     "source": "华尔街见闻",
+     "zh": "AH股齐跌：A股双创指数均跌3%，算力硬件下挫，恒科指跌2%，权重科网股集体走低"
+    },
+    {
+     "title": "营收三连增，这些企业凭什么？",
+     "link": "http://www.eeo.com.cn/2026/1013/1062014.shtml",
+     "pubDate": "Tue, 13 Oct 2026 09:48:55 +0800",
+     "summary": "营收连续三年增长，不只是规模数字的扩张，更是企业穿越周期、持续投入研发、稳定就业和履行社会责任的能力体现。从AI+算力到新能源出海，从数字化转型到储能氢能布局，这些企业既守住基本盘，又打开新增量。",
+     "source": "经济观察网",
+     "zh": "营收三连增，这些企业凭什么？"
+    },
+    {
+     "title": "受美股存储大跌影响，韩股跌超5%，连续第二日重挫，SK海力士跌近8%",
+     "link": "https://wallstreetcn.com/articles/3783492",
+     "pubDate": "Tue, 13 Oct 2026 09:45:53 +0800",
+     "summary": "亚太股市周二大幅下挫，AI交易热情消退与存储芯片竞争压力双重夹击，韩国和日本科技股首当其冲，MSCI亚太指数创逾两个月新低。 中国内存芯片厂商长鑫科技在新型内存架构方面取得进展；与此同时，美国国债收益率维持高位，令市场对AI资本支出前景愈发担忧。 由于市场情绪疲软，周二 韩国综合指数 跌幅一度扩大至5.1%，触发交易所Sidecar熔断机制，暂停程序化卖盘五分钟； 三星电子 与 SK海力士 双双跌逾6%，走向五连跌。 日本方面， 软银集团 跌超8%， 东京电子 、 爱德万测试 等AI产业链个股均下跌超5%。 MSCI亚太指数 跌0.9%至270.78点，逼近8月中旬以来低点。 美国股指期货在亚",
+     "source": "华尔街见闻",
+     "zh": "受美股存储大跌影响，韩股跌超5%，连续第二日重挫，SK海力士跌近8%"
+    },
+    {
      "title": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Tue, 13 Oct 2026 09:43:30 +0800",
@@ -2289,14 +2409,6 @@
      "zh": "尹恒斌任贵州省委统战部副部长，省工商联党组书记 此前担任安顺市市长"
     },
     {
-     "title": "&apos;Boring is not bad&apos;: CEO of Southeast Asia&apos;s largest bank pitches Singapore as a haven amid global turmoil",
-     "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
-     "pubDate": "Tue, 13 Oct 2026 01:26:41 GMT",
-     "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
-     "source": "CNBC",
-     "zh": "&apos;Boring is not bad&apos;: CEO of Southeast Asia&apos;s largest bank pitches Singapore as a haven amid global turmoil"
-    },
-    {
      "title": "印度重启“货币保卫战”：央行接管石油巨头购汇，投机炒汇的空间被砍掉95%",
      "link": "https://wallstreetcn.com/articles/3783483",
      "pubDate": "Tue, 13 Oct 2026 09:15:44 +0800",
@@ -2305,60 +2417,12 @@
      "zh": "印度重启“货币保卫战”：央行接管石油巨头购汇，投机炒汇的空间被砍掉95%"
     },
     {
-     "title": "直指程序化交易，四家期货交易所出手！",
-     "link": "http://www.eeo.com.cn/2026/1013/1061967.shtml",
-     "pubDate": "Tue, 13 Oct 2026 09:13:14 +0800",
-     "summary": "据《上海证券报》报道，10月12日，上海期货交易所（含子公司上期能源）、郑州商品交易所、大连商品交易所、广州期货交易所同时发布公告，就修订交易所违规处理办法公开征求意见。 上述四家交易所本次均拟在违规处理办法中新增条款，直指六类违反程序化交易管理的具体情形。这六类情形包括： 一、未按规定报告或者核查客户程序化交易报告信息的； 二、非期货公司会员、境外特殊非经纪参与者违反规定开展高频交...",
-     "source": "经济观察网",
-     "zh": "直指程序化交易，四家期货交易所出手！"
-    },
-    {
-     "title": "两市融资余额减少46.96亿元",
-     "link": "http://www.eeo.com.cn/2026/1013/1061966.shtml",
-     "pubDate": "Tue, 13 Oct 2026 09:13:06 +0800",
-     "summary": "【两市融资余额减少46.96亿元】截至10月12日，上交所融资余额报12891.67亿元，较前一交易日减少22.71亿元；深交所融资余额报12280.22亿元，较前一交易日减少24.25亿元；两市合计25171.89亿元，较前一交易日减少46.96亿元。（中新经纬APP）",
-     "source": "经济观察网",
-     "zh": "两市融资余额减少46.96亿元"
-    },
-    {
-     "title": "卡奥斯探索工业AI新革命：从“工业大脑”向“智能伙伴”升级｜山东人工智能垂域大模型系列报道",
-     "link": "http://www.eeo.com.cn/2026/1013/1061951.shtml",
-     "pubDate": "Tue, 13 Oct 2026 09:03:32 +0800",
-     "summary": "山东工业门类齐全、应用场景丰富，正推动人工智能全方位、深层次赋能制造业，探索“山东制造”向“山东智造”的跨越。由此，山东涌现出一批颇具代表性的工业垂域大模型。 近日，卡奥斯物联科技股份有限公司（下称“卡奥斯”）面向全球首发了工业世界模型与全栈式智能体矩阵，欲打通工业AI规模化落地的“最后一公里”，发起了一场从“AI赋能产业”迈向“工业AI原生”的范式革命。",
-     "source": "经济观察网",
-     "zh": "卡奥斯探索工业AI新革命：从“工业大脑”向“智能伙伴”升级｜山东人工智能垂域大模型系列报道"
-    },
-    {
-     "title": "每天正常去学校，是否代表已经适应开学？",
-     "link": "http://www.eeo.com.cn/2026/1013/1061948.shtml",
-     "pubDate": "Tue, 13 Oct 2026 09:00:00 +0800",
-     "summary": "要读懂孩子身心发出的信号，区分“表面配合”和“真正适应”的差异，才能帮助孩子真正平稳地开启新学期。",
-     "source": "经济观察网",
-     "zh": "每天正常去学校，是否代表已经适应开学？"
-    },
-    {
      "title": "美股现疫情以来未见之情景！高盛：机构“恐慌性涌向价值股”，科技股资金流“急剧逆转”",
      "link": "https://wallstreetcn.com/articles/3783486",
      "pubDate": "Tue, 13 Oct 2026 08:31:55 +0800",
      "summary": "美股表面平静之下，暗流汹涌。标普500指数虽距历史高点不足1%，但市场内部的分化程度已触及互联网泡沫破裂以来最差水平，机构投资者正以新冠疫情冲击以来从未有过的速度，争相涌入\"安全资产\"。 据高盛资金流向策略师Lee Coppersmith最新报告， 高盛质量因子（GS Quality Factor）过去8周累计涨幅超过16%，这一量级的走势自2020年新冠疫情冲击以来从未出现。 与此同时，科技股资金流向出现急剧逆转——此前连续数周蝉联净买入榜首的科技板块，上周骤然转变为净卖出幅度最大的板块，多空比率跌至五年来第17百分位。 高盛认为，尽管市场内部风险规避情绪显著升温，但极度集中的市场结构历史上",
      "source": "华尔街见闻",
      "zh": "美股现疫情以来未见之情景！高盛：机构“恐慌性涌向价值股”，科技股资金流“急剧逆转”"
-    },
-    {
-     "title": "全球最大资管“转向”：看多短期美债，下调美股",
-     "link": "https://wallstreetcn.com/articles/3783488",
-     "pubDate": "Tue, 13 Oct 2026 08:31:19 +0800",
-     "summary": "全球最大资产管理公司贝莱德（BlackRock）宣布对美国国债和股票的核心配置立场作出重大调整，标志着其坚守近六年的低配美债策略正式终结。 据彭博报道，贝莱德投资研究院将短期美国国债上调至超配，将长期美债由低配上调至中性，理由是当前收益率水平已具吸引力，且市场对美联储加息的预期可能“过度”。与此同时，该机构将美国股票由长期持有的超配下调至中性，并将美国机构抵押贷款支持证券（MBS）同步下调至中性，以为上述转变提供资金来源。 此次调整发生在10年期美债收益率突破5.2%的背景下，较贝莱德2020年10月首次低配美债时的约0.9%大幅攀升。贝莱德策略师Jean Boivin、Wei Li及全球固定",
-     "source": "华尔街见闻",
-     "zh": "全球最大资管“转向”：看多短期美债，下调美股"
-    },
-    {
-     "title": "英特尔和博通CEO同日警告：资本已成AI最大瓶颈，ROI比芯片更短缺！马斯克回应：在赌场就别哭",
-     "link": "https://wallstreetcn.com/articles/3783487",
-     "pubDate": "Tue, 13 Oct 2026 08:29:05 +0800",
-     "summary": "两家芯片巨头的掌门人同日在新加坡发出警告，AI行业最大的瓶颈，从“造不出芯片”变成了“借不到钱”。 10月12日，博通CEO陈福阳（Hock Tan）与英特尔CEO陈立武（Lip-Bu Tan）同台出席新加坡星展银行（DBS）亚洲未来前沿大会。 陈福阳表示：“ 我认为最大的制约因素是资本。 ”他指出，过去两年AI行业接连遭遇供应瓶颈——内存短缺、晶圆不足、电力紧张——但一一克服。然而资本问题的性质不同。他警告，随着AI基础设施建设持续扩张，融资难度可能超过任何一种硬件短缺。 陈立武随即附议，将资本成本上升和ROI不确定性列为AI行业当前最核心的挑战。 如果说前方有什么挑战，那就是资本和资本成本",
-     "source": "华尔街见闻",
-     "zh": "英特尔和博通CEO同日警告：资本已成AI最大瓶颈，ROI比芯片更短缺！马斯克回应：在赌场就别哭"
     },
     {
      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
@@ -2375,14 +2439,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Six Flags shares plunge as one person dies, several injured in Georgia roller coaster incident"
-    },
-    {
-     "title": "美光闪迪领跌，存储连续调整，发生了什么？",
-     "link": "https://wallstreetcn.com/articles/3783485",
-     "pubDate": "Tue, 13 Oct 2026 08:05:02 +0800",
-     "summary": "存储板块正经历一场由多重压力叠加引发的集中抛售。美光周一收跌3.88%，闪迪跌幅更深至5.97%，两只标杆股已连续七个交易日中六个交易日下跌，美光距6月高点跌幅接近20%，濒临技术性熊市。 此轮调整的导火索来自三重冲击： 韩国市场在假日后补跌、三星与SK海力士史上最大规模回购计划提前结束，以及长鑫科技（CXMT）在上海宣布4F²新一代DRAM架构取得关键进展并计划年底推出服务器内存产品。 高盛EMEA交易主管Rich Privorotsky将这一局面概括为“存储仍是震中”，并直指市场核心忧虑： 尽管近期基本面极为亮眼，但峰值盈利的担忧正在压制估值 。 然而，市场的悖论在于，存储行业的基本面从未",
-     "source": "华尔街见闻",
-     "zh": "美光闪迪领跌，存储连续调整，发生了什么？"
     },
     {
      "title": "Trumps' Russia diesel deal will do little for U.S. prices, analysts say",
@@ -2447,62 +2503,6 @@
      "summary": "Contrary to a widespread current worry among some on Wall Street, bull markets do not die of old age,",
      "source": "MarketWatch",
      "zh": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully."
-    },
-    {
-     "title": "Trump &apos;not happy&apos; with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
-     "link": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
-     "pubDate": "Mon, 12 Oct 2026 22:26:59 GMT",
-     "summary": "The former Fox News personality Guilfoyle was previously engaged to the president's son, Donald Trump Jr.",
-     "source": "CNBC",
-     "zh": "Trump &apos;not happy&apos; with Kimberly Guilfoyle, weighs firing her as ambassador to Greece"
-    },
-    {
-     "title": "10月13日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/11158,202610133893064587.html",
-     "pubDate": "Tue, 13 Oct 2026 06:03:30 +0800",
-     "summary": "10月13日(星期二)，今日报刊头条主要内容精华如下： 中国证券报 一天两起“天价离婚”！“分手费”25亿元 10月12日晚， 神农集团 、 朗坤科技 分别披露实际控制人离婚及股份分割相关公告。两家公司此次拟分割股份对应市值合计约25亿元。 神农集团 公告称，公司控股股东、实际控制人何祖训与罗婉瑜的离婚诉讼达成调解，何祖训所持7830.5万股公司股份归罗婉瑜所有，以今日收盘价计算，对应市值约23.83亿元。 东兴证券、信达证券将告别A股 历时近一年的“汇金系”券商整合，进入最后阶段。10月12日晚， 中金公司 公告称， 东兴证券 、 信达证券 已获上交所终止上市批准，将于10月19日终止上市，",
-     "source": "东方财富资讯",
-     "zh": "10月13日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-     "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-     "pubDate": "Mon, 12 Oct 2026 22:00:00 GMT",
-     "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-     "source": "MarketWatch",
-     "zh": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children."
-    },
-    {
-     "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
-     "link": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
-     "pubDate": "Mon, 12 Oct 2026 22:00:00 GMT",
-     "summary": "Brazil’s presidential election is powering optimism in the country’s stock market — and capturing the attention of investors wary of having too much exposure to U.S. stocks.",
-     "source": "MarketWatch",
-     "zh": "Brazilian stocks are breaking out as investors look for opportunities beyond tech"
-    },
-    {
-     "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
-     "link": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
-     "pubDate": "Mon, 12 Oct 2026 21:17:58 GMT",
-     "summary": "Musk’s record midterm election spending comes as the Tesla and SpaceX CEO rebuilds his relationship with Trump and has business ties to the federal government.",
-     "source": "CNBC",
-     "zh": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor"
-    },
-    {
-     "title": "Earnings beats are now the norm. What the stock market needs to keep rallying",
-     "link": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
-     "pubDate": "Mon, 12 Oct 2026 20:35:51 GMT",
-     "summary": "Blockbuster profits are coming for the S&P 500. It may not be enough to keep fueling the rally.",
-     "source": "CNBC",
-     "zh": "Earnings beats are now the norm. What the stock market needs to keep rallying"
-    },
-    {
-     "title": "Trump defends Russia diesel deal after bipartisan pushback: &apos;I made the right choice&apos;",
-     "link": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
-     "pubDate": "Mon, 12 Oct 2026 18:32:03 GMT",
-     "summary": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-     "source": "CNBC",
-     "zh": "Trump defends Russia diesel deal after bipartisan pushback: &apos;I made the right choice&apos;"
     }
    ]
   },

@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Software translates test patterns and applies them to interfaces and protocols.",
+     "link": "https://www.electronicsweekly.com/news/business/software-translates-test-patterns-and-applies-them-to-interfaces-and-protocols-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 05:02:39 +0000",
+     "summary": "Siemens’ Tessent Silicon Executable software is designed to translate test patterns and apply them directly onto high-speed interfaces and protocols. Test provider partners will embed the Tessent software within automated […] The post Software translates test patterns and applies them to interfaces ",
+     "source": "Electronics Weekly",
+     "zh": "Software translates test patterns and applies them to interfaces and protocols."
+    },
+    {
      "title": "Google unveils Gemini 4 Argon, balancing frontier capabilities with rigorous safety standards",
      "link": "https://www.digitimes.com/news/a20261014VL206/google-gemini-ai-agent-cybersecurity-launch.html",
      "pubDate": "Wed, 14 Oct 2026 04:44:44 GMT",
@@ -303,6 +311,14 @@
      "summary": "LG Electronics is reportedly working with Bosch to develop automotive chiplets, a move that would mark LG's formal entry into the automotive semiconductor market if the technology reaches production and wins customers. The business could also create synergies with the LG Group's broad automotive ele",
      "source": "DIGITIMES",
      "zh": "LG, Bosch team up on automotive chiplets"
+    },
+    {
+     "title": "Top Ten IP Semiconductor Suppliers",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-ip-semiconductor-suppliers-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 00:01:41 +0000",
+     "summary": "Thanks to IPNest for this one – the top ten semiconductor IP vendors: Arm. Synopsys Cadence . Alphawave Semi Imagination Technologies Rambus VeriSilicon CEva Arteris Silicon Creations The post Top Ten IP Semiconductor Suppliers appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Top Ten IP Semiconductor Suppliers"
     },
     {
      "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
@@ -353,12 +369,36 @@
      "zh": "VSORA’s Sandra Rivera on the Inference Era: Demand Is Real, But Not Everyone Survives"
     },
     {
+     "title": "10 years of TME Education – a decade of supporting technical education",
+     "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/10-years-of-tme-education-a-decade-of-supporting-technical-education-2026-10/",
+     "pubDate": "Tue, 13 Oct 2026 14:16:21 +0000",
+     "summary": "Learn more about TME Education – an educational project based on practical learning and collaboration with local communities. The post 10 years of TME Education – a decade of supporting technical education appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "10 years of TME Education – a decade of supporting technical education"
+    },
+    {
+     "title": "Pathways into Electronics reports on women’s route to study electronics",
+     "link": "https://www.electronicsweekly.com/news/design/stem/pathways-into-electronics-reports-on-womens-route-to-study-electronics-2026-10/",
+     "pubDate": "Tue, 13 Oct 2026 14:11:45 +0000",
+     "summary": "The UK Electronics Skills Foundation’s (UKESF) new report examines the routes women take to study electronics in further education: Pathways into Electronics: Women EEE Students. It shares findings into the […] The post Pathways into Electronics reports on women’s route to study electronics appeared",
+     "source": "Electronics Weekly",
+     "zh": "Pathways into Electronics reports on women’s route to study electronics"
+    },
+    {
      "title": "CASPA CEO Summit Preview with President Jimmy Cheng",
      "link": "https://www.eetimes.com/caspa-ceo-summit-preview-with-president-jimmy-cheng/",
      "pubDate": "Tue, 13 Oct 2026 14:04:30 +0000",
      "summary": "CASPA’s annual conference celebrates its 35th anniversary with a lineup of more than 35 CEOs from Silicon Valley, including Intel’s Lip-Bu Tan and Cerebras’s Andrew Feldman. The post CASPA CEO Summit Preview with President Jimmy Cheng appeared first on EE Times .",
      "source": "EE Times",
      "zh": "CASPA CEO Summit Preview with President Jimmy Cheng"
+    },
+    {
+     "title": "How Can Users Who Seek Mental Health Support From AI Be Protected?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/dangers-of-relying-on-chatbots-2026-10/",
+     "pubDate": "Tue, 13 Oct 2026 13:22:17 +0000",
+     "summary": "As more and more people lean on chatbots for comfort and guidance, experts have raised alarms over the potential pitfalls: erosion of social skills, unhealthy attachment to digital companions offering […] The post How Can Users Who Seek Mental Health Support From AI Be Protected? appeared first on E",
+     "source": "Electronics Weekly",
+     "zh": "How Can Users Who Seek Mental Health Support From AI Be Protected?"
     },
     {
      "title": "Intel’s Open Software Blueprint: Why Production AI Needs More Than GPUs",
@@ -375,6 +415,14 @@
      "summary": "Honya Europe's Robert Tarantowicz shares 17 years of lessons on PCB sourcing in China, quality, trust, and risk management. The post 17 Years with China: What Really Makes a Partnership Work appeared first on EE Times .",
      "source": "EE Times",
      "zh": "17 Years with China: What Really Makes a Partnership Work"
+    },
+    {
+     "title": "Linking functional safety with cybersecurity in the automotive industry",
+     "link": "https://www.electronicsweekly.com/news/business/linking-functional-safety-with-cybersecurity-in-the-automotive-industry-2026-10/",
+     "pubDate": "Tue, 13 Oct 2026 11:00:17 +0000",
+     "summary": "Adding cybersecurity to a car alongside existing protection against technical failures may disrupt critical reaction times for preventing an accident. Engineers can balance this through combined risk analysis, writes Diego […] The post Linking functional safety with cybersecurity in the automotive i",
+     "source": "Electronics Weekly",
+     "zh": "Linking functional safety with cybersecurity in the automotive industry"
     },
     {
      "title": "U.S. Chip Firms Bet Big on R&D",
@@ -447,54 +495,6 @@
      "summary": "Applied Materials’ $5 billion EPIC Center brings chipmakers, equipment suppliers, and researchers together to accelerate semiconductor R&D and commercialization. The post Applied Materials Bets $5B on a New Model for Chip Innovation appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Applied Materials Bets $5B on a New Model for Chip Innovation"
-    },
-    {
-     "title": "Embedded Graphics on an MCU – Without an Accelerator",
-     "link": "https://www.eetimes.com/embedded-graphics-on-an-mcu-without-an-accelerator/",
-     "pubDate": "Mon, 12 Oct 2026 16:49:28 +0000",
-     "summary": "Join this webinar and learn how to add LCD graphics to MCU projects without a display controller, accelerator, or external DRAM. The post Embedded Graphics on an MCU – Without an Accelerator appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Embedded Graphics on an MCU – Without an Accelerator"
-    },
-    {
-     "title": "Startup Funding: Q3 2026",
-     "link": "https://semiengineering.com/startup-funding-q3-2026/",
-     "pubDate": "Mon, 12 Oct 2026 07:01:27 +0000",
-     "summary": "80 startups raised $8.5B in Q3, with big hauls by companies tackling data movement and memory. The post Startup Funding: Q3 2026 appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Startup Funding: Q3 2026"
-    },
-    {
-     "title": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/cmlmicro-091026.shtml",
-     "pubDate": "Fri, 9 Oct 2026 08:59:05 +0100",
-     "summary": "CML Microsystems Plc of Maldon, UK — a designer and fabless manufacturer of mixed-signal, RF and microwave semiconductors for communications applications — has launched the CMX90A002, a compact power amplifier for next-generation ISM-band radio designs...",
-     "source": "Semiconductor Today",
-     "zh": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs"
-    },
-    {
-     "title": "Infineon launches 27kW three-phase PSU for AI server power architectures",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/infineon-081026.shtml",
-     "pubDate": "Thu, 8 Oct 2026 15:28:51 +0100",
-     "summary": "As artificial intelligence workloads are redefining the power requirements of modern data centers, increasing GPU performance and rising rack densities are driving a shift toward 800VDC or ±400VDC power supply architectures. To address these requirements, Infineon Technologies AG of Munich, Germany ",
-     "source": "Semiconductor Today",
-     "zh": "Infineon launches 27kW three-phase PSU for AI server power architectures"
-    },
-    {
-     "title": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/wolfspeed-081026.shtml",
-     "pubDate": "Thu, 8 Oct 2026 10:27:41 +0100",
-     "summary": "Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has received a conditional loan commitment letter from the US Department of War (DoW), through its Office of Strategic Capital (OSC), for up to $1.5bn of long-term (30-year) financing to ",
-     "source": "Semiconductor Today",
-     "zh": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
     }
    ]
   },
@@ -2471,54 +2471,6 @@
      "summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
      "source": "CNBC",
      "zh": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia"
-    },
-    {
-     "title": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Wed, 14 Oct 2026 12:01:00 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴"
-    },
-    {
-     "title": "France’s Marine Le Pen gears up for fight with EU",
-     "link": "https://www.ft.com/content/60d09841-052a-44f3-a8ae-52c38fdbb5ab?syn-25a6b1a6=1",
-     "pubDate": "Wed, 14 Oct 2026 04:00:21 GMT",
-     "summary": "Far-right leader promises a ‘trial of strength’ in FT interview even as she tries to reassure voters over her pragmatism",
-     "source": "Financial Times",
-     "zh": "France’s Marine Le Pen gears up for fight with EU"
-    },
-    {
-     "title": "The global economy and the art of living dangerously",
-     "link": "https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1",
-     "pubDate": "Wed, 14 Oct 2026 04:00:21 GMT",
-     "summary": "It would be nice to think that the world will become less shock-prone, but it probably won’t",
-     "source": "Financial Times",
-     "zh": "The global economy and the art of living dangerously"
-    },
-    {
-     "title": "Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal",
-     "link": "https://www.ft.com/content/afa0a322-ad2a-4d49-aa0e-81f15a01c3a7?syn-25a6b1a6=1",
-     "pubDate": "Wed, 14 Oct 2026 04:00:12 GMT",
-     "summary": "The kingdom is one of the world’s top arms buyers but has struggled to keep pace with the Iranian-backed rebels’ tactics",
-     "source": "Financial Times",
-     "zh": "Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal"
-    },
-    {
-     "title": "How I used AI to become a chess grandmaster at 16",
-     "link": "https://www.ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94",
-     "pubDate": "Wed, 14 Oct 2026 04:00:03 GMT",
-     "summary": "Ignore the doomsayers, this technology has transformed the game for the better and it can do the same for education",
-     "source": "Financial Times",
-     "zh": "How I used AI to become a chess grandmaster at 16"
-    },
-    {
-     "title": "China’s exports surge 36% as AI-related shipments boom",
-     "link": "https://www.ft.com/content/4eab6c20-60d6-46b6-accd-2e04edfa541d?syn-25a6b1a6=1",
-     "pubDate": "Wed, 14 Oct 2026 03:56:03 GMT",
-     "summary": "Imports soar by a third as high oil prices from Middle East conflict push up energy bill",
-     "source": "Financial Times",
-     "zh": "China’s exports surge 36% as AI-related shipments boom"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/14 09:22:20",
+ "generated_at": "2026/10/14 09:32:08",
  "recent_days": 7,
  "industries": [
   {
@@ -258,52 +258,52 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "China's AI chipmakers target 3D packaging, optical interconnects and software ecosystems",
-     "link": "https://www.digitimes.com/news/a20261014PD209/software-chipmakers-3d-packaging-performance-efficiency.html",
-     "pubDate": "Wed, 14 Oct 2026 01:01:21 GMT",
-     "summary": "China's domestic AI chipmakers are shifting their competitive focus from individual GPU performance to system-level integration as AI models grow increasingly complex. Three priorities&mdash;3D packaging for greater power efficiency, optical interconnects for faster data transmission, and open softw",
+     "title": "AP Memory completes US$415.5M GDR offering, boosts three product lines",
+     "link": "https://www.digitimes.com/news/a20261013PD231/ap-memory-ic-design-gdr-revenue-growth.html",
+     "pubDate": "Wed, 14 Oct 2026 01:16:42 GMT",
+     "summary": "Memory IC design house AP Memory Technology has successfully priced its global depositary receipt (GDR) offering, raising a total of US$415.5 million. The GDRs were priced at US$56.15 per unit, representing approximately NT$897.61 per common share based on an exchange rate of NT$31.972 per US dollar",
      "source": "DIGITIMES",
-     "zh": "China's AI chipmakers target 3D packaging, optical interconnects and software ecosystems"
+     "zh": "AP Memory completes US$415.5M GDR offering, boosts three product lines"
     },
     {
-     "title": "GlobalFoundries revives 7nm-class ambitions with an EUV-free FD-SOI bet on physical AI",
-     "link": "https://www.digitimes.com/news/a20261014VL203/globalfoundries-fd-soi-euv-2025-esmc.html",
-     "pubDate": "Wed, 14 Oct 2026 00:59:27 GMT",
-     "summary": "GlobalFoundries' plan to build a 7nm-class chip process in Dresden without extreme ultraviolet (EUV) lithography tests how a second-tier foundry can stay relevant while TSMC holds most of the AI data center market. Instead of competing on transistor size, GF is competing on integration, power effici",
+     "title": "Chinese automakers face three hidden barriers in European expansion",
+     "link": "https://www.digitimes.com/news/a20261013PD235/automakers-expansion-europe-development-market.html",
+     "pubDate": "Wed, 14 Oct 2026 01:16:23 GMT",
+     "summary": "China-based automakers are mounting an aggressive push into Europe, enjoying rapid early momentum. However, supply chain analysts note that the ultra-fast development model perfected in their domestic market cannot be seamlessly replicated in Europe. Currently, at least three hidden barriers test th",
      "source": "DIGITIMES",
-     "zh": "GlobalFoundries revives 7nm-class ambitions with an EUV-free FD-SOI bet on physical AI"
+     "zh": "Chinese automakers face three hidden barriers in European expansion"
     },
     {
-     "title": "Applied Materials lifts 2030 margin goals, but a missing industry forecast sends a disappointing signal",
-     "link": "https://www.digitimes.com/news/a20261014VL202/applied-materials-2030-forecast-equipment-revenue.html",
-     "pubDate": "Wed, 14 Oct 2026 00:58:17 GMT",
-     "summary": "Applied Materials used its investor day to argue that AI will let it outgrow the chip equipment market through 2030. Investors, however, focused on what the company left out: a forecast for wafer fab equipment (WFE) spending, the industry-wide figure that drives demand for its tools.",
+     "title": "Apple's new home devices tie Siri AI to subscriptions and newer iPhones",
+     "link": "https://www.digitimes.com/news/a20261014VL201/apple-siri-smart-home-hardware-iphone.html",
+     "pubDate": "Wed, 14 Oct 2026 01:15:00 GMT",
+     "summary": "The smart home hardware Apple unveiled on October 13 is priced as premium equipment, but the fine print points to two larger goals. The first is to put Siri AI, Apple's new generative assistant, on more screens and speakers around the home. The second is to turn those devices into a channel for recu",
      "source": "DIGITIMES",
-     "zh": "Applied Materials lifts 2030 margin goals, but a missing industry forecast sends a disappointing signal"
+     "zh": "Apple's new home devices tie Siri AI to subscriptions and newer iPhones"
     },
     {
-     "title": "Analysis: China's EV rebate cut pushes exporters from volume to value",
-     "link": "https://www.digitimes.com/news/a20261014PD215/price-policy-2026-vehicle-automakers.html",
-     "pubDate": "Wed, 14 Oct 2026 00:56:53 GMT",
-     "summary": "China's planned cut to export tax rebates for new energy vehicles could ripple through global auto markets, intensifying pressure on low-cost exporters while reshaping trade tensions with Europe. The move signals a wider rollback of industry support and may accelerate consolidation among weaker carm",
+     "title": "LGES diversifies ESS equipment suppliers after Daejin Machinery default, court rehabilitation",
+     "link": "https://www.digitimes.com/news/a20261013PD236/lges-equipment-supply-chain-lg-electronics-2026.html",
+     "pubDate": "Wed, 14 Oct 2026 01:14:30 GMT",
+     "summary": "LG Energy Solution (LGES) is reportedly restructuring its energy storage system (ESS) battery equipment supply chain after major partner Daejin Machinery entered financial difficulties and began court-led rehabilitation proceedings. LGES is transferring some orders to existing equipment suppliers wh",
      "source": "DIGITIMES",
-     "zh": "Analysis: China's EV rebate cut pushes exporters from volume to value"
+     "zh": "LGES diversifies ESS equipment suppliers after Daejin Machinery default, court rehabilitation"
     },
     {
-     "title": "Foxconn unveils Vera Rubin AI racks, liquid-cooling systems at OCP Summit",
-     "link": "https://www.digitimes.com/news/a20261013PD245/foxconn-rubin-fit-infrastructure-liquid-cooling.html",
-     "pubDate": "Wed, 14 Oct 2026 00:55:34 GMT",
-     "summary": "Foxconn Technology Group showcased rack-scale artificial intelligence infrastructure at the Open Compute Project (OCP) Global Summit 2026 in San Jose, California, combining computing platforms, high-speed interconnects, power delivery, and liquid cooling. The portfolio included Ingrasys Technology's",
+     "title": "China&rsquo;s NEV export rebate cut puts budget EV makers under margin pressure",
+     "link": "https://www.digitimes.com/news/a20261013PD237/nev-production-automakers-cost-profit.html",
+     "pubDate": "Wed, 14 Oct 2026 01:13:06 GMT",
+     "summary": "China will reduce its export tax rebate for new energy vehicles (NEVs) from 13% to 9% on April 1, 2027, increasing cost pressure on automakers, particularly those selling lower-priced models with thin profit margins. The Ministry of Finance and State Taxation Administration announced the four-percen",
      "source": "DIGITIMES",
-     "zh": "Foxconn unveils Vera Rubin AI racks, liquid-cooling systems at OCP Summit"
+     "zh": "China&rsquo;s NEV export rebate cut puts budget EV makers under margin pressure"
     },
     {
-     "title": "NTT Data, Anthropic negotiate Japan data center with up to 500MW",
-     "link": "https://www.digitimes.com/news/a20261013PD246/anthropic-ntt-data-center-2026-infrastructure.html?chid=10",
-     "pubDate": "Wed, 14 Oct 2026 00:55:20 GMT",
-     "summary": "NTT Data and Anthropic are in final-stage negotiations to develop a data center in Osaka, Japan, with power capacity of up to 500MW, according to Nikkei . The project would be Anthropic's first dedicated data center in Japan and one of the country's largest facilities, supporting the AI model develo",
+     "title": "Apple launches HomeView display, rebuilding home lineup around Siri AI",
+     "link": "https://www.digitimes.com/news/a20261014VL200/apple-siri-display-tv-launch.html",
+     "pubDate": "Wed, 14 Oct 2026 01:12:27 GMT",
+     "summary": "Apple is betting that its new Siri AI assistant can revive a business in which, according to Reuters , the company \"has tinkered for a decade without major success.\" At its \"Welcome Home\" launch in New York on October 13, 2026, Apple introduced HomeView, a new smart display, alongside a new HomePod ",
      "source": "DIGITIMES",
-     "zh": "NTT Data, Anthropic negotiate Japan data center with up to 500MW"
+     "zh": "Apple launches HomeView display, rebuilding home lineup around Siri AI"
     },
     {
      "title": "Top Ten IP Semiconductor Suppliers",
@@ -1786,6 +1786,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "富士胶片在美投资 1800 万美元，建设多类型 CMP 浆料产能",
+     "link": "https://www.ithome.com/1/012/667.htm",
+     "pubDate": "Wed, 14 Oct 2026 01:28:54 GMT",
+     "summary": "IT之家 10 月 14 日消息，富士胶片 (FUJIFILM) 日本当地时间今日宣布将在美国投资 1,800 万美元 （现汇率约合 1.21 亿元人民币） ，用于 扩大现有铜互连 CMP （IT之家注：化学机械抛光） 浆料产能、新建多类型 CMP 浆料产线 。 此次投资的生产基地位于美国亚利桑那州 Mesa，预计 2027 年开始运营。该基地生产的 CMP 浆料 未来将覆盖前端、中间、后端以及先进封装应用 ，进一步支持先进芯片对 CMP 浆料需求的中长期增长。 富士胶片在亚利桑那州设有全球 CMP 浆料研发中心，新产能的建设也能加速实验室研发成果的商业化进程。",
+     "source": "IT之家",
+     "zh": "富士胶片在美投资 1800 万美元，建设多类型 CMP 浆料产能"
+    },
+    {
+     "title": "小米 REDMI K100 标准版手机入网，支持 100W 快充",
+     "link": "https://www.ithome.com/1/012/666.htm",
+     "pubDate": "Wed, 14 Oct 2026 01:25:57 GMT",
+     "summary": "IT之家 10 月 14 日消息，小米旗下一款型号为 M786BC 的 5G 新机于 10 月 12 日通过 3C 认证， 支持 100W 快充 。博主 @数码闲聊站 表示这是 REDMI K100 标准版手机。 IT之家注意到，在 8 月 11 日的 REDMI K100 Pro 系列新品发布会上，小米中国区市场部总经理魏思琪公开了 REDMI K100 系列手机的产品矩阵。除了 K100 Pro Max 和 K100 Pro 外， REDMI K100 系列还规划了标准版和一款游戏旗舰 。 小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰曾在微博表示， 今年很多旗舰产品会用 n-",
+     "source": "IT之家",
+     "zh": "小米 REDMI K100 标准版手机入网，支持 100W 快充"
+    },
+    {
+     "title": "全国持证的就70多个人，这门手艺凭啥这么值钱?",
+     "link": "https://www.huxiu.com/article/4897321.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 09:23:13 +0800",
+     "summary": "本文来自微信公众号： 识格 ，作者：识格 一个男生高考522分，本来想学运动康复，结果被调剂到了马业科学专业。再往后分流，他又挑了个更冷的方向：钉蹄。 说白了，就是给马修蹄子、钉马掌。 这哥们叫付华东，武汉商学院大四学生。今年6月，他考下了中国马业协会的钉蹄师证。 这个证，全国持证的一共70多个人。 他是里面最年轻的，也是唯一一个还在读本科的。 我特意去看了下前情，他当初填志愿的时候，压根没勾“服从调剂”，差点滑档到没学上。是学校招生办打了个电话，他才松的口。 也就是说，这一步他是被推过去的。 评论区大概两种声音。一拨说这孩子被调剂毁了，另一拨说，人家月薪保底五位数。 我先不站队。先看看一门听",
+     "source": "虎嗅",
+     "zh": "全国持证的就70多个人，这门手艺凭啥这么值钱?"
+    },
+    {
+     "title": "不兼容 VESA：苹果壁挂版智能家居中枢 HomeView 需配专属支架",
+     "link": "https://www.ithome.com/1/012/665.htm",
+     "pubDate": "Wed, 14 Oct 2026 01:19:49 GMT",
+     "summary": "IT之家 10 月 14 日消息，科技媒体 AppleInsider 昨日（10 月 13 日）发布博文，报道称由于没有配套的螺丝孔， 苹果壁挂版智能家居中枢 HomeView 并不支持 VESA 标准。 IT之家注：VESA 是视频电子标准协会制定的显示设备安装接口标准，常见于显示器、电视及部分平板设备。符合该标准的设备背部设有标准化螺丝孔，可搭配通用壁挂支架、悬臂支架或桌面支架使用。 HomeView 未设置 VESA 螺丝孔，因此不兼容市面上常见的 VESA 壁挂支架。设备背部配备 USB-C 接口和一个小型凸起结构，可能对应苹果指定的专用安装点。 网友使用 Grok 生成的背面图 壁挂",
+     "source": "IT之家",
+     "zh": "不兼容 VESA：苹果壁挂版智能家居中枢 HomeView 需配专属支架"
+    },
+    {
      "title": "当AI已经开始造AI",
      "link": "https://www.huxiu.com/article/4897320.html?f=rss",
      "pubDate": "Wed, 14 Oct 2026 09:14:41 +0800",
@@ -1842,14 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果请求法院撤销 57 亿美元专利侵权赔偿判决，称该天价赔偿金基于猜测"
     },
     {
-     "title": "苹果库克现身清华大学：参加经管学院顾问委员会年会，目前担任主席",
-     "link": "https://www.ithome.com/1/012/659.htm",
-     "pubDate": "Wed, 14 Oct 2026 01:06:22 GMT",
-     "summary": "IT之家 10 月 14 日消息，多位网友 10 月 13 日晒出图片和视频，在清华大学经济管理学院看到了 苹果执行董事长蒂姆 · 库克 。 还有网友晒图，清华大学当日举办了清华大学经济管理学院顾问委员会 2026 年会议。 IT之家查询清华大学经济管理学院官网获悉，清华大学经济管理学院顾问委员会成立于 2000 年 10 月，委员大多是国际著名跨国公司董事长，也包括世界一流大学商学院院长和诺贝尔经济学奖获得者， 现有 69 位委员，共 71 位成员 。境外委员中有国际知名企业家 53 位，国际顶尖大学校长两位、海外知名商学院院长 4 位、诺贝尔经济学奖获得者两位。 该顾问委员会的使命是加强学",
-     "source": "IT之家",
-     "zh": "苹果库克现身清华大学：参加经管学院顾问委员会年会，目前担任主席"
-    },
-    {
      "title": "星巴克，重新学做中国生意",
      "link": "https://www.tmtpost.com/8167760.html",
      "pubDate": "Wed, 14 Oct 2026 09:03:32 +0800",
@@ -1882,36 +1906,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sam Altman专访：我希望美国领先，但反对只有美国人受益"
     },
     {
-     "title": "CDPR 向玩家保证，《巫师 3：重制版》Switch 2 版补丁即将到来",
-     "link": "https://www.ithome.com/1/012/658.htm",
-     "pubDate": "Wed, 14 Oct 2026 01:01:10 GMT",
-     "summary": "IT之家 10 月 14 日消息，CDPR 为 PS5 和 PS5 Pro 版《巫师 3：重制版》推出了 5.01b 热修复补丁。更新说明只有一项内容：改善游戏稳定性，让玩家获得更加可靠的游戏体验。 补丁发布后，部分等待任天堂 Switch 2 版《巫师 3》更新的玩家表达了担忧。对此，CDPR 在 X 上回应：“我们正努力尽快向所有用户推送 Switch 2 版补丁。” 据悉，该补丁将提升游戏画面的清晰度和锐度。 《巫师 3：重制版》推出两周以来，CDPR 持续修复游戏中的各种问题。重制版的升级幅度相当大，除了画面明显提升，动画、技能系统乃至部分玩法也经过调整。 据IT之家了解，《巫师 3：",
-     "source": "IT之家",
-     "zh": "CDPR 向玩家保证，《巫师 3：重制版》Switch 2 版补丁即将到来"
-    },
-    {
-     "title": "无 AppleCare 维修约占新机价 93%：苹果公布智能家居中枢 HomeView 维修费用",
-     "link": "https://www.ithome.com/1/012/657.htm",
-     "pubDate": "Wed, 14 Oct 2026 00:54:10 GMT",
-     "summary": "IT之家 10 月 14 日消息，苹果美国官网公布新款 HomeView 智能家居中枢维修价格， 在没有购买 AppleCare 保障的情况下，“其他损坏”服务费为 279 美元 （IT之家注：现汇率约合 1,871 元人民币） ，接近 299 美元 （现汇率约合 2,005 元人民币） 的整机售价 ；而 AppleCare 用户意外损坏服务费为 39 美元 （现汇率约合 261.5 元人民币） 。 苹果公司昨日（10 月 13 日）发布 7 英寸智能显示屏 HomeView，目前已在美国等地开放预订，计划于 11 月 13 日开始发货，标准版与壁挂版售价均为 299 美元 （现汇率约合 2,",
-     "source": "IT之家",
-     "zh": "无 AppleCare 维修约占新机价 93%：苹果公布智能家居中枢 HomeView 维修费用"
-    },
-    {
      "title": "Edge AI Daily 早报（10月14日）",
      "link": "https://www.tmtpost.com/8167796.html",
      "pubDate": "Wed, 14 Oct 2026 08:51:50 +0800",
      "summary": "谷歌 Gemini 4 Argon 以对手半价全球开放，凭自研 TPU 与云渠道发起结构性价格战，Alphabet 当日逆市跌约 2%。Meta 未验证即押注最高 2000 亿美元算力并发布 Muse Wonder 叫板 Anthropic；微软 Maia 300 推进多吉瓦推理去 NVIDIA 化、重组 Azure；OpenAI 将 GPT-6 经 AWS 全球路由、上线 ChatGPT Intelligent UI。",
      "source": "钛媒体",
      "zh": "Edge AI Daily 早报（10月14日）"
-    },
-    {
-     "title": "植入脑机接口一年后",
-     "link": "https://www.huxiu.com/article/4897304.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 08:42:36 +0800",
-     "summary": "本文来自微信公众号： 健闻咨询 ，编辑：李琳，作者：程舟，原文标题：《植入脑机接口一年后：褪去科幻光环，离自理还很远，康复是一场漫长的日常试炼》，题图来自：视觉中国 第一次在患者群里看到脑机接口的招募，小远以为用上这个技术，能让人很快完全恢复。但医生告诉他，可能只是改善功能。 6年前，一场意外导致了小远脊髓损伤，此后他四肢瘫痪，胸口下失去知觉。2025年6月，小远在首都医科大学宣武医院做了半侵入式脑机接口植入手术，硬币大小的装置贴在颅骨外头皮下，电极片置于大脑硬膜外，调控右手运动。 脑机康复系统一个月后开机，他什么感觉也没有。当他&ldquo;想&rdquo;抓握、松开、保持, 脑电信号被捕捉",
-     "source": "虎嗅",
-     "zh": "植入脑机接口一年后"
     },
     {
      "title": "Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 (Bloomberg)",
@@ -1989,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "Recreational Programming",
      "link": "https://www.cphiri.dev/presentations/recreational-programming",
      "pubDate": "Tue, 13 Oct 2026 22:33:33 +0000",
-     "summary": "Article URL: https://www.cphiri.dev/presentations/recreational-programming Comments URL: https://news.ycombinator.com/item?id=50079865 Points: 38 # Comments: 9",
+     "summary": "Article URL: https://www.cphiri.dev/presentations/recreational-programming Comments URL: https://news.ycombinator.com/item?id=50079865 Points: 45 # Comments: 11",
      "source": "Hacker News",
      "zh": "Recreational Programming"
     },
@@ -2005,7 +2005,7 @@ window.INDUSTRY_DATA = {
      "title": "AlphaNIST",
      "link": "https://alpha-nist.github.io/",
      "pubDate": "Tue, 13 Oct 2026 21:57:29 +0000",
-     "summary": "Article URL: https://alpha-nist.github.io/ Comments URL: https://news.ycombinator.com/item?id=50079464 Points: 35 # Comments: 10",
+     "summary": "Article URL: https://alpha-nist.github.io/ Comments URL: https://news.ycombinator.com/item?id=50079464 Points: 37 # Comments: 11",
      "source": "Hacker News",
      "zh": "AlphaNIST"
     },
@@ -2040,14 +2040,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple is asking a federal judge to overturn a $5.7 billion verdict in a patent infringement lawsuit brought by Taction Technology over the Taptic Engine used in iPhones and Apple Watches. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "Apple challenges Taction’s $5.7B patent verdict, says damages were based on ‘guesswork’"
-    },
-    {
-     "title": "Yeti’s new roller case is designed to keep your camera safe, no matter what",
-     "link": "https://www.dpreview.com/news/yeti-loadout-gobox-28-hard-case-camera/",
-     "pubDate": "Wed, 14 Oct 2026 00:55:01 +0000",
-     "summary": "The Loadout GoBox 28 is a direct competitor to Pelican's stalwart Protector 1510.",
-     "source": "DPReview",
-     "zh": "Yeti’s new roller case is designed to keep your camera safe, no matter what"
     },
     {
      "title": "Apple starts App Store Indie Games Week with seven new arrivals",
@@ -2136,14 +2128,6 @@ window.INDUSTRY_DATA = {
      "summary": "Googlebooks represent a huge upgrade over Chromebooks, but the older devices still have their place.",
      "source": "Engadget",
      "zh": "Are Chromebooks still worth buying after the Googlebooks release?"
-    },
-    {
-     "title": "This year’s Wildlife Photographer winners deliver striking images of our natural world",
-     "link": "https://www.dpreview.com/photography/wildlife-photographer-of-the-year-2026-winners/",
-     "pubDate": "Tue, 13 Oct 2026 22:30:00 +0000",
-     "summary": "See the photos that shed light on animal and human behavior in new ways.",
-     "source": "DPReview",
-     "zh": "This year’s Wildlife Photographer winners deliver striking images of our natural world"
     },
     {
      "title": "Google gets ready to make the Play Store wishlist a whole lot more useful",
@@ -2272,6 +2256,22 @@ window.INDUSTRY_DATA = {
      "summary": "Today’s best Google Play app and game deals are ready to go, including Balatro, BAD END, Seoul Exorcist 1111, Servant of the Lake, Terraria, Conquistadorio, The Game of Life 2, Drop Duchy, and more. Just be sure to dive into Nothing Phone (3) up to $280 off , Google Pixel 11 deals at up to $365 off ",
      "source": "9to5Google",
      "zh": "Today’s Android app deals and freebies: Balatro, BAD END, Seoul Exorcist 1111, more"
+    },
+    {
+     "title": "Apple's HomePod mini 2 is here with Siri AI, new colors and improved sound",
+     "link": "https://www.gsmarena.com/apples_homepod_mini_2_is_here_with_siri_ai_new_colors_and_improved_sound-news-75028.php",
+     "pubDate": "Tue, 13 Oct 2026 20:31:02 +0200",
+     "summary": "Alongside the new Apple HomeView, upgraded Apple TV 4K, and Apple Home Collection, the company also unveiled the HomePod mini 2. The updated smart speaker brings Siri AI, a new Sound Glow feature, support for pairing up to 4 speakers, and new color options. The HomePod mini 2 is powered by the compa",
+     "source": "GSMArena",
+     "zh": "Apple's HomePod mini 2 is here with Siri AI, new colors and improved sound"
+    },
+    {
+     "title": "Meta launches Muse Wonder and Muse Wonder Full, its most capable AI models yet",
+     "link": "https://www.gsmarena.com/meta_launches_muse_wonder_and_muse_wonder_full_its_most_capable_ai_models_yet-news-75021.php",
+     "pubDate": "Tue, 13 Oct 2026 19:01:03 +0200",
+     "summary": "Meta started a ground-up overhaul of its AI efforts 14 months ago, and the first result was Muse Spark, which the company used to lay out its approach to \"predictable, rigorous scaling\". Now, Meta has taken what it calls \"the next step\" on its \"scaling ladder\" with the Muse Wonder series, made up of",
+     "source": "GSMArena",
+     "zh": "Meta launches Muse Wonder and Muse Wonder Full, its most capable AI models yet"
     }
    ]
   },
@@ -2282,12 +2282,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+     "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 01:25:00 GMT",
+     "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+     "source": "MarketWatch",
+     "zh": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?"
+    },
+    {
+     "title": "兑吧涨超8%",
+     "link": "http://hk.eastmoney.com/news/1535,202610143895011130.html",
+     "pubDate": "Wed, 14 Oct 2026 09:23:59 +0800",
+     "summary": "兑吧 (01753.HK)涨超8%；公司预期AI短剧业务将于2026年7月、8月及9月连续三个月取得纯利。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "兑吧涨超8%"
+    },
+    {
+     "title": "10月14日港股开盘：恒指低开0.26% 百济神州领跌成分股",
+     "link": "http://stock.eastmoney.com/news/11770,202610143895009152.html",
+     "pubDate": "Wed, 14 Oct 2026 09:23:16 +0800",
+     "summary": "港股10月14日低开，恒生指数开盘报24282.25点，跌62.97点，跌幅0.26%；恒生科技指数开盘报4135.9点，跌0.73点，跌幅0.02%。恒生指数成分股中 康师傅控股 、 联想集团 、 百威亚太 涨幅居前， 百济神州 、 金沙中国有限公司 、 紫金矿业 跌幅靠前。恒生科技指数成分股中 蔚来-SW 、 联想集团 、 阿里巴巴-W 涨幅居前， 携程集团-S 、 哔哩哔哩-W 、 京东健康 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。",
+     "source": "东方财富股票",
+     "zh": "10月14日港股开盘：恒指低开0.26% 百济神州领跌成分股"
+    },
+    {
+     "title": "港股开盘：恒指低开0.26% 百济神州领跌成分股",
+     "link": "http://stock.eastmoney.com/news/11771,202610143895009083.html",
+     "pubDate": "Wed, 14 Oct 2026 09:23:09 +0800",
+     "summary": "&nbsp; 港股10月14日 低开 ，恒生指数开盘报24282.25点，跌62.97点，跌幅0.26%； 恒生科技指数 开盘报4135.9点，跌0.73点，跌幅0.02%。 恒生指数成分股中 康师傅控股 、 联想集团 、 百威亚太 涨幅居前 ， 百济神州 、 金沙中国有限公司 、 紫金矿业 跌幅靠前 。 恒生科技指数成分股中 蔚来-SW 、 联想集团 、 阿里巴巴-W 涨幅居前 ， 携程集团-S 、 哔哩哔哩-W 、 京东健康 跌幅靠前 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但",
+     "source": "东方财富股票",
+     "zh": "港股开盘：恒指低开0.26% 百济神州领跌成分股"
+    },
+    {
+     "title": "【调研快报】中色股份接待英大保险资管调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610143895008487.html",
+     "pubDate": "Wed, 14 Oct 2026 09:22:22 +0800",
+     "summary": "中色股份 10月14日公告称， 10月13日 接待英大保险资管 调研。 接待人员包括董事会秘书 朱国祥,证券事务部(董事会办公室)工作人员。 公司就以下问题进行了回复： 1. 请介绍公司基本业务情况? 公司坚持“资源+工程”双轮驱动战略。资源板块聚焦“增储上产”,资源储备规模稳步扩容,以锌铅银为主,同时也将抓住其他元素发展机遇,拓展矿种开发。截至 2026 年 6 月 30 日,公司拥有白音诺尔 铅锌 矿、敖包锌矿、达瑞 铅锌 矿、Raura 锌多金属矿合计 16 宗... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨",
+     "source": "东方财富股票",
+     "zh": "【调研快报】中色股份接待英大保险资管调研"
+    },
+    {
+     "title": "北京利尔：正全力推进硅碳负极材料量产产线投产",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895009884.html",
+     "pubDate": "Wed, 14 Oct 2026 09:22:00 +0800",
+     "summary": "北京利尔 (002392)10月14日在互动平台表示，公司正在全力推进硅碳负极材料量产产线投产工作，宜昌基地计划于年底前投产。当前硅碳负极材料下游应用渗透率提升明显，公司将努力把握市场机遇。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "北京利尔：正全力推进硅碳负极材料量产产线投产"
+    },
+    {
+     "title": "市场消息：乌克兰无人机袭击俄罗斯萨拉托夫州巴拉科沃，造成一人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895010870.html",
+     "pubDate": "Wed, 14 Oct 2026 09:21:58 +0800",
+     "summary": "市场消息：乌克兰 无人机 袭击俄罗斯萨拉托夫州巴拉科沃，造成一人死亡。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "市场消息：乌克兰无人机袭击俄罗斯萨拉托夫州巴拉科沃，造成一人死亡"
+    },
+    {
      "title": "China&apos;s exports likely grew by double-digits in September",
      "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
      "pubDate": "Wed, 14 Oct 2026 01:16:02 GMT",
      "summary": "The country's customs agency is due to release September trade data on Wednesday.",
      "source": "CNBC",
      "zh": "China&apos;s exports likely grew by double-digits in September"
+    },
+    {
+     "title": "【环球财经】人工智能技术介入阿根廷瓦卡穆埃尔塔油田开采",
+     "link": "http://www.eeo.com.cn/2026/1014/1063386.shtml",
+     "pubDate": "Wed, 14 Oct 2026 09:13:12 +0800",
+     "summary": "新华财经布宜诺斯艾利斯10月13日电（记者张铎）阿根廷瓦卡穆埃尔塔油田日前在非常规油气开发项目中采用了人工智能技术。 科技企业Impronta IT日前宣布将人工智能模型Claud...",
+     "source": "经济观察网",
+     "zh": "【环球财经】人工智能技术介入阿根廷瓦卡穆埃尔塔油田开采"
     },
     {
      "title": "微观交换：一次碳硅交易的全景解剖",
@@ -2410,14 +2474,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果HomeView发布！机构紧盯多只智能家居概念股(名单)"
     },
     {
-     "title": "2027年公务员国考缩招约2400人",
-     "link": "http://www.eeo.com.cn/2026/1014/1063341.shtml",
-     "pubDate": "Wed, 14 Oct 2026 08:26:12 +0800",
-     "summary": "21世纪经济报道记者王峰 北京报道 2027年国考公告10月13日发布，共计划招录3.57万人，比上年减少约2400人。专家认为，招录人数小幅调整，是根据队伍建设需要进行的动态优化，并不意味公务员招录需求出现收缩。",
-     "source": "经济观察网",
-     "zh": "2027年公务员国考缩招约2400人"
-    },
-    {
      "title": "美国9月CPI今晚来袭 本月加息可能性或“死灰复燃”？一文读懂",
      "link": "http://finance.eastmoney.com/news/1344,202610143894799951.html",
      "pubDate": "Wed, 14 Oct 2026 08:26:00 +0800",
@@ -2464,62 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "U.S. diesel futures jump while crude oil closes mixed"
-    },
-    {
-     "title": "SBS unveils sovereign AI platform for core banking",
-     "link": "https://www.finextra.com/newsarticle/48577/sbs-unveils-sovereign-ai-platform-for-core-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 13 Oct 2026 23:08:00 GMT",
-     "summary": "French software firm SBS has launched what it claims the world's first sovereign AI platform to be developed for the banking market.",
-     "source": "Finextra",
-     "zh": "SBS unveils sovereign AI platform for core banking"
-    },
-    {
-     "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
-     "link": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
-     "pubDate": "Tue, 13 Oct 2026 22:54:21 GMT",
-     "summary": "Anthropic is asking a federal court in Washington, D.C. to rehear its appeal in a case concerning the Pentagon's blacklisting of the company's AI models.",
-     "source": "CNBC",
-     "zh": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting"
-    },
-    {
-     "title": "Wells Fargo outlines $50B ± 2026 net interest income and ~$13B Q4 net interest income while planning stablecoins in H1 2027",
-     "link": "https://seekingalpha.com/news/4652721-wells-fargo-outlines-50b-2026-net-interest-income-and-13b-q4-net-interest-income-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 18:23:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Wells Fargo outlines $50B ± 2026 net interest income and ~$13B Q4 net interest income while planning stablecoins in H1 2027"
-    },
-    {
-     "title": "Enovix surges on 100K-unit drone battery order",
-     "link": "https://seekingalpha.com/news/4652720-enovix-surges-on-100k-unit-drone-battery-order?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 18:22:47 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Enovix surges on 100K-unit drone battery order"
-    },
-    {
-     "title": "PG&E says fire conditions threaten power shutoffs this week across northern California",
-     "link": "https://seekingalpha.com/news/4652718-pg-and-e-says-fire-conditions-threaten-power-shutoffs-this-week-across-northern-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 13 Oct 2026 18:06:19 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PG&E says fire conditions threaten power shutoffs this week across northern California"
-    },
-    {
-     "title": "Saudi Aramco HQ attacked in suspected Houthi strike",
-     "link": "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1",
-     "pubDate": "Tue, 13 Oct 2026 22:00:20 GMT",
-     "summary": "Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital",
-     "source": "Financial Times",
-     "zh": "Saudi Aramco HQ attacked in suspected Houthi strike"
-    },
-    {
-     "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
-     "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
-     "pubDate": "Tue, 13 Oct 2026 21:02:00 GMT",
-     "summary": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
-     "source": "MarketWatch",
-     "zh": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market"
     }
    ]
   },

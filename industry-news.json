@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/15 05:38:53",
+ "generated_at": "2026/10/15 05:52:15",
  "recent_days": 7,
  "industries": [
   {
@@ -9,12 +9,12 @@
    "total": 16,
    "items": [
     {
-     "title": "Flock CEO says its microphones detect ‘just gunshots.’ Its website says different",
+     "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
      "pubDate": "Wed, 14 Oct 2026 21:30:33 +0000",
      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
      "source": "TechCrunch AI",
-     "zh": "Flock CEO says its microphones detect ‘just gunshots.’ Its website says different"
+     "zh": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different"
     },
     {
      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "US Crude Oil Inventories See Massive Drop Off",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-See-Massive-Drop-Off.html",
+     "pubDate": "Wed, 14 Oct 2026 16:43:47 -0500",
+     "summary": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States fell by a massive 11.12 million barrels in the week ending October 9. In the week prior, US crude oil inventories fell by 2.09 million barrels. Commercial crude oil inventories excluding the SPR have los",
+     "source": "OilPrice",
+     "zh": "US Crude Oil Inventories See Massive Drop Off"
+    },
+    {
      "title": "Trump Announces $80 Billion Taiwan LNG Deal",
      "link": "https://oilprice.com/Energy/Natural-Gas/Trump-Announces-80-Billion-Taiwan-LNG-Deal.html",
      "pubDate": "Wed, 14 Oct 2026 16:00:00 -0500",
@@ -903,14 +911,6 @@
      "summary": "Yemen's Houthis said Wednesday they will resume attacks on Saudi airports and oil facilities \"in the coming days,\" after Saudi authorities reported a limited fire at Aramco's office complex in Dhahran during a Houthi missile attack Tuesday night. The Houthis claimed strikes on Aramco facilities in D",
      "source": "OilPrice",
      "zh": "Houthis Vow More Attacks After Strike on Aramco Headquarters"
-    },
-    {
-     "title": "5 Challenges Facing South America’s Copper Boom",
-     "link": "https://oilprice.com/Metals/Commodities/5-Challenges-Facing-South-Americas-Copper-Boom.html",
-     "pubDate": "Wed, 14 Oct 2026 12:00:00 -0500",
-     "summary": "Supervisors at BHP’s Escondida, the world’s largest copper mine, said they would strike at 8 a.m. local time Wednesday after government-led mediation failed to produce a contract. The union represents about 1,020 workers at a mine that supplies roughly a quarter of Chile’s copper, and the stoppage f",
-     "source": "OilPrice",
-     "zh": "5 Challenges Facing South America’s Copper Boom"
     },
     {
      "title": "Another Sign That Gasmobiles Are Toast: Honda Adds Muscle To The Wireless EV Charging Movement",
@@ -1553,6 +1553,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
+     "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
+     "pubDate": "Wed, 14 Oct 2026 21:20:13 GMT",
+     "summary": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
+     "source": "Dark Reading",
+     "zh": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles"
+    },
+    {
      "title": "Yam Store: The Phishing Network Behind a Billion Messages",
      "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
      "pubDate": "Wed, 14 Oct 2026 20:57:16 GMT",
@@ -1753,14 +1761,6 @@
      "zh": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday"
     },
     {
-     "title": "North Korea Phishes Ukrainians for War Intel",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
-     "pubDate": "Tue, 13 Oct 2026 21:24:45 GMT",
-     "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
-     "source": "Dark Reading",
-     "zh": "North Korea Phishes Ukrainians for War Intel"
-    },
-    {
      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
      "pubDate": "Sat, 10 Oct 2026 00:17:42 +0000",
@@ -1777,6 +1777,22 @@
    "total": 18,
    "items": [
     {
+     "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+     "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+     "pubDate": "Wed, 14 Oct 2026 21:48:20 +0000",
+     "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+     "source": "TechCrunch",
+     "zh": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO"
+    },
+    {
+     "title": "Zenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others (Ivan Mehta/TechCrunch)",
+     "link": "https://www.techmeme.com/261014/p42#a261014p42",
+     "pubDate": "Wed, 14 Oct 2026 17:40:01 -0400",
+     "summary": "Ivan Mehta / TechCrunch : Zenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others &nbsp; &mdash;&nbsp; Many businesses around the world use consumer-facing chat apps like WhatsApp, Telegram, Discord, or iM",
+     "source": "Techmeme",
+     "zh": "Zenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others (Ivan Mehta/TechCrunch)"
+    },
+    {
      "title": "YouTube Music rolls out labels for songs created with the help of AI; Spotify has AI labels, and Apple Music plans to add \"Made With AI\" labels later this year (Lauren Forristal/TechCrunch)",
      "link": "https://www.techmeme.com/261014/p41#a261014p41",
      "pubDate": "Wed, 14 Oct 2026 17:15:03 -0400",
@@ -1785,12 +1801,12 @@
      "zh": "YouTube Music rolls out labels for songs created with the help of AI; Spotify has AI labels, and Apple Music plans to add \"Made With AI\" labels later this year (Lauren Forristal/TechCrunch)"
     },
     {
-     "title": "Jev 1.14: For the Builders and Dreamers",
+     "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
      "link": "https://typesafe.ai/blog/jev-1-14",
      "pubDate": "Wed, 14 Oct 2026 21:11:03 +0000",
-     "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 29 # Comments: 11",
      "source": "Hacker News",
-     "zh": "Jev 1.14: For the Builders and Dreamers"
+     "zh": "We’re releasing Jev 1.14.0 along with experimental features for dreamers"
     },
     {
      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
@@ -1812,7 +1828,7 @@
      "title": "OpenCode 2.0",
      "link": "https://anoma.ly/notes/opencode-2-0/",
      "pubDate": "Wed, 14 Oct 2026 20:48:24 +0000",
-     "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 26 # Comments: 5",
+     "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 58 # Comments: 13",
      "source": "Hacker News",
      "zh": "OpenCode 2.0"
     },
@@ -1836,7 +1852,7 @@
      "title": "Anthropic's Scion is heavily inspired by Mononoke",
      "link": "https://sunshowers.io/posts/anthropic-mononoke/",
      "pubDate": "Wed, 14 Oct 2026 20:30:54 +0000",
-     "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 104 # Comments: 17",
+     "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 130 # Comments: 31",
      "source": "Hacker News",
      "zh": "Anthropic's Scion is heavily inspired by Mononoke"
     },
@@ -1844,7 +1860,7 @@
      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
      "link": "https://blog.cloudflare.com/yandex-outage/",
      "pubDate": "Wed, 14 Oct 2026 20:29:13 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 86 # Comments: 30",
+     "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 104 # Comments: 36",
      "source": "Hacker News",
      "zh": "Yandex outage: data shows that instead of going dark, malicious bots moved"
     },
@@ -1897,14 +1913,6 @@
      "zh": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation"
     },
     {
-     "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
-     "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
-     "pubDate": "Wed, 14 Oct 2026 19:51:34 +0000",
-     "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
-     "source": "TechCrunch",
-     "zh": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers"
-    },
-    {
      "title": "Software development and rules stability: Prototype racing in 2030",
      "link": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
      "pubDate": "Wed, 14 Oct 2026 19:44:26 +0000",
@@ -1916,7 +1924,7 @@
      "title": "Fancy Curl Sites",
      "link": "https://nytpu.com/gemlog/2026-03-18",
      "pubDate": "Wed, 14 Oct 2026 19:29:12 +0000",
-     "summary": "Article URL: https://nytpu.com/gemlog/2026-03-18 Comments URL: https://news.ycombinator.com/item?id=50093612 Points: 30 # Comments: 7",
+     "summary": "Article URL: https://nytpu.com/gemlog/2026-03-18 Comments URL: https://news.ycombinator.com/item?id=50093612 Points: 35 # Comments: 9",
      "source": "Hacker News",
      "zh": "Fancy Curl Sites"
     },
@@ -1924,7 +1932,7 @@
      "title": "Things to know when you get cancer – 2026 Edition",
      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
      "pubDate": "Wed, 14 Oct 2026 19:26:30 +0000",
-     "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 340 # Comments: 66",
+     "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 387 # Comments: 83",
      "source": "Hacker News",
      "zh": "Things to know when you get cancer – 2026 Edition"
     },
@@ -1985,14 +1993,6 @@
      "zh": "研究估计到 2050 年每年新增痴呆症人数将会翻倍"
     },
     {
-     "title": "CoreWeave stock drops 15%+ and its bond yields near 15%, over concerns that some tech companies are borrowing too heavily for the AI build-out; ORCL drops 8%+ (Michelle Fox/CNBC)",
-     "link": "https://www.techmeme.com/261014/p36#a261014p36",
-     "pubDate": "Wed, 14 Oct 2026 12:45:02 -0400",
-     "summary": "Michelle Fox / CNBC : CoreWeave stock drops 15%+ and its bond yields near 15%, over concerns that some tech companies are borrowing too heavily for the AI build-out; ORCL drops 8%+ &nbsp; &mdash;&nbsp; CoreWeave's stock and bonds were both hit on Wednesday as investor fear grew that some technology ",
-     "source": "Techmeme",
-     "zh": "CoreWeave stock drops 15%+ and its bond yields near 15%, over concerns that some tech companies are borrowing too heavily for the AI build-out; ORCL drops 8%+ (Michelle Fox/CNBC)"
-    },
-    {
      "title": "GTA 6 可能提前发布 PC 版本",
      "link": "https://www.solidot.org/story?sid=85614",
      "pubDate": "Thu, 15 Oct 2026 00:32:07 +0800",
@@ -2024,6 +2024,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple just closed the day above $5 trillion for the first time",
+     "link": "https://9to5mac.com/2026/10/14/apple-just-closed-the-day-above-5-trillion-for-the-first-time/",
+     "pubDate": "Wed, 14 Oct 2026 21:47:28 +0000",
+     "summary": "Apple today became the second company ever to close with a market valuation north of $5 trillion, following NVIDIA’s landmark achievement in October 2025. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "Apple just closed the day above $5 trillion for the first time"
+    },
     {
      "title": "Gemini AI Plus subscribers will lose access to Pro models next month",
      "link": "https://9to5google.com/2026/10/14/gemini-ai-plus-loses-pro-november/",
@@ -2143,14 +2151,6 @@
      "summary": "Google is starting to sell hardware on its Play Store. In some regions, the company has quietly added a new \"Shop devices\" tab in the Play Store's account switcher. The interesting bit is that Google is listing not only Pixel devices, but Samsung's too. Users can buy the Galaxy S26 lineup and some G",
      "source": "GSMArena",
      "zh": "Google's Play Store is now selling Pixel and Samsung devices in some regions"
-    },
-    {
-     "title": "ElevationLab pulls AirTag Silencer after backlash over stalking concerns",
-     "link": "https://9to5mac.com/2026/10/14/elevationlab-pulls-airtag-silencer-after-backlash-over-stalking-concerns/",
-     "pubDate": "Wed, 14 Oct 2026 19:55:29 +0000",
-     "summary": "Following intense criticism over the obvious fact that its AirTag Silencer could facilitate stalking and other forms of misuse of Apple’s AirTag, ElevationLab has now pulled the accessory. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "ElevationLab pulls AirTag Silencer after backlash over stalking concerns"
     },
     {
      "title": "YouTube Music rolling out AI labels in the Now Playing screen",
@@ -2273,76 +2273,116 @@
    "total": 13,
    "items": [
     {
-     "title": "Nebius Group declines 10% amid tech sell-off",
-     "link": "https://seekingalpha.com/news/4653199-nebius-group-declines-10-amid-tech-sell-off?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:32:06 -0400",
+     "title": "Bank of America expects 2027 NII to rise 8% or more as it embeds $1.2B regulatory settlement costs",
+     "link": "https://seekingalpha.com/news/4653213-bank-of-america-expects-2027-nii-to-rise-8-percent-or-more-as-it-embeds-1_2b-regulatory?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 17:45:45 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Nebius Group declines 10% amid tech sell-off"
+     "zh": "Bank of America expects 2027 NII to rise 8% or more as it embeds $1.2B regulatory settlement costs"
     },
     {
-     "title": "Oracle slumps 9% amid tech selloff, AI buildout concerns",
-     "link": "https://seekingalpha.com/news/4653200-oracle-slumps-9-amid-tech-selloff-ai-buildout-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:28:25 -0400",
+     "title": "苹果中国版AI定档12月上线",
+     "link": "https://wallstreetcn.com/articles/3783649",
+     "pubDate": "Thu, 15 Oct 2026 05:45:30 +0800",
+     "summary": "苹果公司即将在中国大陆推出其人工智能平台Apple Intelligence。 10月14日据彭博援引知情人士报道，苹果计划于12月通过iOS 27.3更新在中国大陆正式上线Apple Intelligence，此次发布将涵盖两年前率先在美国推出的AI功能套件。 此次上线将排除今年发布的全新Siri AI助手及其他新功能，该版Siri基于谷歌Gemini模型重构。 据报道，苹果与阿里巴巴联合开发合规防护机制。此外，苹果还与百度合作，推进搜索及Siri相关功能的本地化落地。 苹果一度预计于2025年5月完成中国上线，随后推迟至2025年底，后又延至今年春季。今年9月29日，苹果获得相关许可，允许",
+     "source": "华尔街见闻",
+     "zh": "苹果中国版AI定档12月上线"
+    },
+    {
+     "title": "Gold and silver sink as U.S. inflation data tops expectations, boosting Fed rate hike bets",
+     "link": "https://seekingalpha.com/news/4653193-gold-and-silver-sink-as-us-inflation-data-tops-expectations-boosting-fed-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 17:45:23 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Oracle slumps 9% amid tech selloff, AI buildout concerns"
+     "zh": "Gold and silver sink as U.S. inflation data tops expectations, boosting Fed rate hike bets"
     },
     {
-     "title": "希腊多地遭暴风雨袭击致一人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895888753.html",
-     "pubDate": "Thu, 15 Oct 2026 05:27:20 +0800",
-     "summary": "据希腊方面14日消息，希腊多地连续两天遭暴风雨袭击，持续强降雨引发洪水等灾害，已造成一人死亡。 消息称，位于爱琴海东南部的罗德岛和首都雅典以北埃维亚岛灾情较严重。其中，罗德岛14日数小时内降雨量近300毫米，多条道路被洪水淹没，部分路段因巨石坠落受损而封闭， 电力 供应和 通信 也受到影响。洪水冲走多辆 汽车 ，一名62岁男子所乘的 汽车 被洪水冲入海中，该男子后经确认死亡。此外，持续强降雨致埃维亚岛河水漫溢，多处道路路面被冲毁，交通中断。 恶劣天气还影响希腊航空和海上交通。报道称，当天至少有7个航班取消，多地 港口 部分渡轮航线因强风取消或临时调整。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "希腊多地遭暴风雨袭击致一人死亡"
-    },
-    {
-     "title": "美国总统特朗普：糟糕的美联储故意让利率偏高",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895888958.html",
-     "pubDate": "Thu, 15 Oct 2026 05:26:37 +0800",
-     "summary": "美国总统特朗普：糟糕的美联储故意让利率偏高。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国总统特朗普：糟糕的美联储故意让利率偏高"
-    },
-    {
-     "title": "胡塞武装称击中一架沙特“台风”战斗机",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895888682.html",
-     "pubDate": "Thu, 15 Oct 2026 05:26:16 +0800",
-     "summary": "当地时间15日凌晨，也门胡塞武装称击中一架沙特“台风”战斗机。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "胡塞武装称击中一架沙特“台风”战斗机"
-    },
-    {
-     "title": "特朗普： 我们的国家正在赚取比以往更多的钱，因为石油价格如此之高",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895888475.html",
-     "pubDate": "Thu, 15 Oct 2026 05:26:15 +0800",
-     "summary": "特朗普： 我们的国家正在赚取比以往更多的钱，因为石油价格如此之高。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普： 我们的国家正在赚取比以往更多的钱，因为石油价格如此之高"
-    },
-    {
-     "title": "特朗普：糟糕的美联储故意让利率偏高",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895888388.html",
-     "pubDate": "Thu, 15 Oct 2026 05:25:50 +0800",
-     "summary": "特朗普：糟糕的美联储故意让利率偏高。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：糟糕的美联储故意让利率偏高"
-    },
-    {
-     "title": "马自达通过改造线束产品适配机器人 将线束生产迁回本土",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895888517.html",
-     "pubDate": "Thu, 15 Oct 2026 05:24:53 +0800",
-     "summary": "马自达通过改造线束产品适配 机器人 ，将线束生产迁回本土。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "马自达通过改造线束产品适配机器人 将线束生产迁回本土"
-    },
-    {
-     "title": "Select Water prices upsized $900M notes offering at 7.625%",
-     "link": "https://seekingalpha.com/news/4653204-select-water-prices-upsized-900m-notes-offering-at-7625?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:19:38 -0400",
+     "title": "Regeneron a new Buy at UBS as Street undervalues Dupixent's future",
+     "link": "https://seekingalpha.com/news/4653206-regeneron-new-buy-ubs-street-undervaluing-dupixent-future?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 17:42:05 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Select Water prices upsized $900M notes offering at 7.625%"
+     "zh": "Regeneron a new Buy at UBS as Street undervalues Dupixent's future"
+    },
+    {
+     "title": "Fairfax named strategic buyer for 60.72% stake in India's IDBI Bank",
+     "link": "https://seekingalpha.com/news/4653208-fairfax-named-strategic-buyer-for-6072-stake-in-idbi-bank?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 17:40:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fairfax named strategic buyer for 60.72% stake in India's IDBI Bank"
+    },
+    {
+     "title": "美联储戴利：大概率还需要进一步加息，但仍在斟酌加息时机",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895890626.html",
+     "pubDate": "Thu, 15 Oct 2026 05:40:55 +0800",
+     "summary": "美联储戴利：大概率还需要进一步加息，但仍在斟酌加息时机。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储戴利：大概率还需要进一步加息，但仍在斟酌加息时机"
+    },
+    {
+     "title": "美联储戴利：目前不存在紧急施策的紧迫性，最好花时间深思熟虑、审慎行事",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895890466.html",
+     "pubDate": "Thu, 15 Oct 2026 05:40:54 +0800",
+     "summary": "美联储戴利：目前不存在紧急施策的紧迫性，最好花时间深思熟虑、审慎行事。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储戴利：目前不存在紧急施策的紧迫性，最好花时间深思熟虑、审慎行事"
+    },
+    {
+     "title": "美联储戴利：市场在对 CPI 数据最初做出强烈反应之后趋于平稳，这一点令人安心",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895890386.html",
+     "pubDate": "Thu, 15 Oct 2026 05:40:54 +0800",
+     "summary": "美联储戴利：市场在对 CPI 数据最初做出强烈反应之后趋于平稳，这一点令人安心。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储戴利：市场在对 CPI 数据最初做出强烈反应之后趋于平稳，这一点令人安心"
+    },
+    {
+     "title": "美联储戴利：CPI 数据显示，汽油价格推升整体通胀，核心通胀一如预期，具备粘性",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895890222.html",
+     "pubDate": "Thu, 15 Oct 2026 05:40:53 +0800",
+     "summary": "美联储戴利：CPI 数据显示，汽油价格推升整体通胀，核心通胀一如预期，具备粘性。市场理解美联储的政策应对逻辑。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储戴利：CPI 数据显示，汽油价格推升整体通胀，核心通胀一如预期，具备粘性"
+    },
+    {
+     "title": "美联储戴利：尚有充足时间审慎决策，此时仓促行动并不明智",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895890179.html",
+     "pubDate": "Thu, 15 Oct 2026 05:40:53 +0800",
+     "summary": "美联储戴利：尚有充足时间审慎决策，此时仓促行动并不明智。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储戴利：尚有充足时间审慎决策，此时仓促行动并不明智"
+    },
+    {
+     "title": "美联储戴利：目前尚不清楚，冲击消退后通胀是否会回落；若冲击持续，通胀则可能进一步恶化",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895890098.html",
+     "pubDate": "Thu, 15 Oct 2026 05:40:52 +0800",
+     "summary": "美联储戴利：目前尚不清楚，冲击消退后通胀是否会回落；若冲击持续，通胀则可能进一步恶化。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储戴利：目前尚不清楚，冲击消退后通胀是否会回落；若冲击持续，通胀则可能进一步恶化"
+    },
+    {
+     "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+     "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 21:40:00 GMT",
+     "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
+     "source": "MarketWatch",
+     "zh": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine"
+    },
+    {
+     "title": "J.B. Hunt Transport Services Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4653095-j-b-hunt-transport-services-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 17:35:57 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "J.B. Hunt Transport Services Q3 2026 Earnings Preview"
+    },
+    {
+     "title": "Interactive Brokers Group Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4653094-interactive-brokers-group-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 17:35:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Interactive Brokers Group Q3 2026 Earnings Preview"
     },
     {
      "title": "The COLA wars are coming for Social Security",
@@ -2369,44 +2409,12 @@
      "zh": "CoreWeave’s AI bonds tumble, raising red flags for the wider market"
     },
     {
-     "title": "Orchid Island Capital declares $0.10 dividend",
-     "link": "https://seekingalpha.com/news/4653207-orchid-island-capital-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:17:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Orchid Island Capital declares $0.10 dividend"
-    },
-    {
-     "title": "Stellus Capital Investment declares $0.0833 dividend",
-     "link": "https://seekingalpha.com/news/4653205-stellus-capital-investment-declares-0_0833-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:15:12 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Stellus Capital Investment declares $0.0833 dividend"
-    },
-    {
-     "title": "Lakefront sells early-stage CAR-T programs to Armed Cell Therapeutics",
-     "link": "https://seekingalpha.com/news/4653201-lakefront-sells-early-stage-car-t-programs-armed-cell-therapeutics?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:14:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lakefront sells early-stage CAR-T programs to Armed Cell Therapeutics"
-    },
-    {
      "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
      "link": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
      "pubDate": "Wed, 14 Oct 2026 21:09:20 GMT",
      "summary": "OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children.",
      "source": "CNBC",
      "zh": "OpenAI sued by 8 states over ChatGPT safety concerns"
-    },
-    {
-     "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-     "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 21:03:00 GMT",
-     "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
-     "source": "MarketWatch",
-     "zh": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine"
     },
     {
      "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
@@ -2417,12 +2425,12 @@
      "zh": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth"
     },
     {
-     "title": "CoreWeave股债双杀！股价暴跌15%债券入困境，马斯克惊呼“吓人”",
+     "title": "CoreWeave股价暴跌15%债券入困境，马斯克惊呼“吓人”，CEO称订单储备强劲",
      "link": "https://wallstreetcn.com/articles/3783644",
      "pubDate": "Thu, 15 Oct 2026 04:47:22 +0800",
-     "summary": "AI基础设施融资模式的裂缝正在加速扩大。 在通胀数据意外走热、美债收益率上行的双重压力下，数据中心运营商CoreWeave股价周三重挫逾15%，创下历史第三大单日跌幅，距历史低点仅一步之遥。 与此同时，该公司2032年到期债券收益率突破15%，正式进入困境区间。这场暴跌使包括CoreWeave在内的多只AI基础设施股票单日合计蒸发市值约800亿美元。 D.A. Davidson分析师Gil Luria在播客中发出警告，称若CoreWeave无力偿还高成本债务，公司\"股权价值将归零\"。 据彭博报道，CoreWeave首席执行官Mike Intrator随即发出内部备忘录，将股价重挫定性为市场\"非",
+     "summary": "AI基础设施融资模式的裂缝正在加速扩大。 在通胀数据意外走热、美债收益率上行的双重压力下，数据中心运营商CoreWeave股价周三重挫逾15%，创下历史第三大单日跌幅，距历史低点仅一步之遥。 根据Trace报价数据，这家AI云计算服务商2032年到期的无担保债券周三跌至不足面值的80%。按这一价格计算，该债券收益率超过15%。硅谷领袖Chamath Palihapitiya在社交媒体上提及这一数字后，马斯克回应称“吓人”。 D.A. Davidson分析师Gil Luria在播客中发出警告，称若CoreWeave无力偿还高成本债务，公司\"股权价值将归零\"。 据彭博报道， CoreWeave首席",
      "source": "华尔街见闻",
-     "zh": "CoreWeave股债双杀！股价暴跌15%债券入困境，马斯克惊呼“吓人”"
+     "zh": "CoreWeave股价暴跌15%债券入困境，马斯克惊呼“吓人”，CEO称订单储备强劲"
     },
     {
      "title": "黑石AirTrunk推迟15亿美元REIT IPO：收益率让到6%仍无人接盘，AI基建融资撞上5.2%美债利率",
@@ -2503,14 +2511,6 @@
      "summary": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
      "source": "CNBC",
      "zh": "Container ship sinks in Strait of Hormuz as Iran steps up attacks"
-    },
-    {
-     "title": "美联储褐皮书示警油价“凶猛”：半数地区价格压力强劲或加剧，企业面临涨价与利润挤压",
-     "link": "https://wallstreetcn.com/articles/3783643",
-     "pubDate": "Thu, 15 Oct 2026 03:05:20 +0800",
-     "summary": "美联储最新褐皮书显示，美国企业面临的价格压力正在加剧，高油价带来的成本上涨已渗透至多个地区，柴油附加费正沿供应链传导，关税、其他大宗商品及保险成本也持续推高企业支出。与此同时，美国经济整体增长温和，就业市场变化有限，消费者对价格上涨愈发敏感。 美东时间10月14日周三，美联储公布基于截至10月5日所收集信息编制的褐皮书。褐皮书显示，在12个地区联储的辖区中，半数地区都报告价格上涨强劲或是价格涨势加剧。 其中，三个地区的整体价格涨幅强劲，另有八个地区的价格涨幅处于温和水平，其中三个地区的投入成本压力正在加剧或已达到强劲水平；还有一个地区的价格涨幅温和。四个地区报告称，价格上涨速度较9月2日所发布",
-     "source": "华尔街见闻",
-     "zh": "美联储褐皮书示警油价“凶猛”：半数地区价格压力强劲或加剧，企业面临涨价与利润挤压"
     }
    ]
   },

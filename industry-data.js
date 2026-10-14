@@ -1338,20 +1338,20 @@ window.INDUSTRY_DATA = {
      "zh": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer"
     },
     {
-     "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
-     "link": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
-     "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
-     "summary": "This iconic spaceship will now live long and prosper in its brand-new Star Trek Tour home.",
-     "source": "Space.com",
-     "zh": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York"
-    },
-    {
      "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
      "link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
      "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
      "summary": "The sophomore season of \"Star Trek: Starfleet Academy\" will warp back to the small screen in March 2027 when the limited series returns for its final season on Paramount+.",
      "source": "Space.com",
      "zh": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier"
+    },
+    {
+     "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
+     "link": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
+     "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
+     "summary": "This iconic spaceship will now live long and prosper in its brand-new Star Trek Tour home.",
+     "source": "Space.com",
+     "zh": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York"
     },
     {
      "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
@@ -2346,20 +2346,28 @@ window.INDUSTRY_DATA = {
      "zh": "China&apos;s exports likely grew by double-digits in September"
     },
     {
-     "title": "【环球财经】人工智能技术介入阿根廷瓦卡穆埃尔塔油田开采",
-     "link": "http://www.eeo.com.cn/2026/1014/1063386.shtml",
-     "pubDate": "Wed, 14 Oct 2026 09:13:12 +0800",
-     "summary": "新华财经布宜诺斯艾利斯10月13日电（记者张铎）阿根廷瓦卡穆埃尔塔油田日前在非常规油气开发项目中采用了人工智能技术。 科技企业Impronta IT日前宣布将人工智能模型Claud...",
-     "source": "经济观察网",
-     "zh": "【环球财经】人工智能技术介入阿根廷瓦卡穆埃尔塔油田开采"
+     "title": "OpenAI上演“窃听风云”：一沙特籍员工在会议室藏匿录音设备被捕",
+     "link": "http://stock.eastmoney.com/news/1416,202610143895010454.html",
+     "pubDate": "Wed, 14 Oct 2026 09:15:59 +0800",
+     "summary": "在OpenAI担任工程师的沙特籍男子Abdulrahman Alfozan，因涉嫌在该公司旧 金山办公 室内藏匿一台加密录音设备而被捕，并受到刑事指控。事发后，OpenAI已解雇Alfozan。 美国联邦检察官周二指控称，今年9月下旬，这名35岁的男子将一个黑色小型录音设备藏在卫生纸里，随后将其隐藏在OpenAI一间会议室的电视机后方。 OpenAI发现这台设备后向联邦调查局(FBI)报了案。Alfozan于上周被捕。 检察官称， Alfozan在OpenAI产品团队工作一年多，目前被控使用或试图使用设备截取口头 通信 内容。 OpenAI表示，公司掌握的证据显示，该员工意图在办公室内其他敏感",
+     "source": "东方财富资讯",
+     "zh": "OpenAI上演“窃听风云”：一沙特籍员工在会议室藏匿录音设备被捕"
     },
     {
-     "title": "微观交换：一次碳硅交易的全景解剖",
-     "link": "http://www.eeo.com.cn/2026/1014/1061121.shtml",
-     "pubDate": "Wed, 14 Oct 2026 09:00:01 +0800",
-     "summary": "本文以“解剖一次具体交易”为方法，系统拆解碳硅交换的内在结构。文章指出，碳基向硅基出售目的、约束与评价，硅基向碳基交付方案空间、优化路径与自动执行；定价环节因碳基高阶判断力难以工时度量、硅基贡献归因困难而处于混沌，正从按量收费走向按效果分成，联合产出需以创意方向、过程穷举、终审否决三层权属厘清产权。交易质量取决于可解释性、界面设计与协作增量，其中“比纯人类快多少、比纯AI安全多少”的协作差值构成共生系统的全部经济租金。微观交换的质量加总，即碳硅共生系统的健康度，桥搭在每一次具体的“说不对—重跑—再确认”之",
-     "source": "经济观察网",
-     "zh": "微观交换：一次碳硅交易的全景解剖"
+     "title": "沙特阿美总部遭袭！特朗普指责胡塞武装：中期选举前蓄意推高油价",
+     "link": "http://finance.eastmoney.com/news/1356,202610143894907527.html",
+     "pubDate": "Wed, 14 Oct 2026 09:01:43 +0800",
+     "summary": "美国总统特朗普周二指责也门胡塞武装蓄意在美国中期选举前推高油价，并警告称，自己“永远不会忘记”他们对沙特阿拉伯的袭击。在他发表此番言论之际，中东冲突正愈演愈烈，继利雅得国际 机场 接连遭袭后，周二沙特阿美总部也受到袭击。 综合 央视新闻等媒体报道，美国总统特朗普当地时间13日在社交媒体发文，指责也门胡塞武装在美国中期选举前蓄意推高油价。 特朗普称， 胡塞武装以“非常恶劣”的手段打击沙特阿拉伯，并很可能蓄意在美国中期选举前推高油价 。 特朗普表示，胡塞武装在去年美国空袭后曾沉寂了一段时间，但最近又在伊朗的授意下恢复了袭击。特朗普还明确表示，他的这番警告不会随着 11 月 3 日中期选举结束而失效",
+     "source": "东方财富资讯",
+     "zh": "沙特阿美总部遭袭！特朗普指责胡塞武装：中期选举前蓄意推高油价"
+    },
+    {
+     "title": "分析师：美俄柴油协议杯水车薪 难缓解美国高油价",
+     "link": "http://futures.eastmoney.com/news/11233,202610143894921014.html",
+     "pubDate": "Wed, 14 Oct 2026 08:59:25 +0800",
+     "summary": "为赶在11月中期选举前压低居高不下的柴油价格，特朗普政府上周宣布解除对俄罗斯相关燃料的制裁，换取俄方出口柴油以缓解全球供应短缺。 然而，多位分析师指出，这份协议的供应规模有限，实际效果恐怕难遂特朗普心愿 —— 在中期选举前，美国加油站的零售油价几乎不会受到实质性影响。 首批供应仅够美方一天用量 根据特朗普公布的信息，首批柴油定于本月交付，规模约225万桶；而俄方承诺现阶段投放约375万桶，但并未明确发货时间及后续供应的获批节点。 能源咨询机构拉皮丹能源的报告显示，即便按上限估算、假设所有货轮全部驶向美国，这批柴油也仅能满足美国略超一天的柴油需求。 此后供应量的测算则愈发模糊。特朗普称，首批货物",
+     "source": "东方财富资讯",
+     "zh": "分析师：美俄柴油协议杯水车薪 难缓解美国高油价"
     },
     {
      "title": "报道：Anthropic今天将公布Q3财务数据",

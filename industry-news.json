@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/15 07:31:59",
+ "generated_at": "2026/10/15 07:51:56",
  "recent_days": 7,
  "industries": [
   {
@@ -313,14 +313,6 @@
      "zh": "Co-Packaged Optics Moves from Promise to Production Planning"
     },
     {
-     "title": "10 years of TME Education – a decade of supporting technical education",
-     "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/10-years-of-tme-education-a-decade-of-supporting-technical-education-2-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 15:32:38 +0000",
-     "summary": "Learn more about TME Education – an educational project based on practical learning and collaboration with local communities. The post 10 years of TME Education – a decade of supporting technical education appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "10 years of TME Education – a decade of supporting technical education"
-    },
-    {
      "title": "Characterization of HBM Power Consumption (ETH Zurich, NYU)",
      "link": "https://semiengineering.com/characterization-of-hbm-power-consumption-eth-zurich-nyu/",
      "pubDate": "Wed, 14 Oct 2026 15:27:00 +0000",
@@ -335,22 +327,6 @@
      "summary": "Score: the written music for an orchestra, with every section’s part laid out on the same page so they play together. In this article, it’s your designed workflows. Is AI helping you hit your tape-out date, or putting it at risk? How would you know? Every Director I talk to is being asked to use AI ",
      "source": "SemiWiki",
      "zh": "Delivering Silicon Systems Through AI Disruption, Part 1: Writing the Score"
-    },
-    {
-     "title": "Vishay optical sensors target battery management, energy storage",
-     "link": "https://www.electronicsweekly.com/news/products/sensors-products/vishay-optical-sensors-target-battery-management-energy-storage-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 13:51:05 +0000",
-     "summary": "Vishay’s new automotive grade optical sensors address challenges in modern battery management, energy storage, and industrial automation systems. The four new devices combine an infrared (IR) emitter and PIN photodiode […] The post Vishay optical sensors target battery management, energy storage app",
-     "source": "Electronics Weekly",
-     "zh": "Vishay optical sensors target battery management, energy storage"
-    },
-    {
-     "title": "Datacentre? Not In My Backyard",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/datacentre-not-in-ny-backyard-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 13:10:59 +0000",
-     "summary": "Ballotpedia has counted 35 local measures on the ballot in the US November 3 midterm elections aimed at banning or restricting the construction of new datacentres. Ohio has 21 such […] The post Datacentre? Not In My Backyard appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Datacentre? Not In My Backyard"
     },
     {
      "title": "A Migration Feasibility Study Can Turn an Uncertain Re-Design into a Measurable Engineering Project",
@@ -399,22 +375,6 @@
      "summary": "Specialty analog foundry Tower Semiconductor Ltd of Migdal Haemek, Israel and high-performance semiconductor, Internet of Things (IoT) system and cloud connectivity service provider Semtech Corp of Camarillo, CA, USA have agreed to expand their 20-year partnership. Semtech will invest in securing de",
      "source": "Semiconductor Today",
      "zh": "Tower and Semtech expand SiGe partnership to scale power-efficient analog connectivity for data centers"
-    },
-    {
-     "title": "In conversation with Siemens on semiconductor test technology",
-     "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/ew-video-in-conversation-with-tessent-on-semiconductor-test-technology-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 10:59:25 +0000",
-     "summary": "Electronics Weekly recently caught up with Lee Harrison, Director of Product Marketing at Tessent, Siemens Digital Industries Software, to discuss the latest semiconductor test technology. Topics include silicon lifecycle management, […] The post In conversation with Siemens on semiconductor test te",
-     "source": "Electronics Weekly",
-     "zh": "In conversation with Siemens on semiconductor test technology"
-    },
-    {
-     "title": "TechPoint buys Esprit Electronics for EMS growth",
-     "link": "https://www.electronicsweekly.com/news/business/techpoint-buys-esprit-electronics-for-ems-growth-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 10:04:18 +0000",
-     "summary": "TechPoint has announced it is buying Esprit Electronics, to strengthen its UK manufacturing capability and support its growth ambitions, says the company. “We’re delighted to welcome the Esprit Electronics team […] The post TechPoint buys Esprit Electronics for EMS growth appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "TechPoint buys Esprit Electronics for EMS growth"
     },
     {
      "title": "300mm fab equipment spending to hit US$227 billion by 2029, SEMI says",
@@ -489,12 +449,52 @@
      "zh": "Accelerating Advanced IC Package Design: A Methodology for Early and Iterative Optimization of Chiplet Integration"
     },
     {
-     "title": "Qualcomm wins Arm case – awarded $2 in damages",
-     "link": "https://www.electronicsweekly.com/news/business/qualcomm-wins-arm-case-awarded-2-in-damages-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 05:16:58 +0000",
-     "summary": "The jury in the Qualcomm vs Arm case found Arm in breach of its architectural license agreement (ALA) with Qualcomm, and awarded Qualcomm $2 in nominal damages. The jury concluded that […] The post Qualcomm wins Arm case – awarded $2 in damages appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Qualcomm wins Arm case – awarded $2 in damages"
+     "title": "Interview with Eric Hong, VP of Engineering at Mixel, a Silvaco Company",
+     "link": "https://semiwiki.com/ip/mixel/374784-interview-with-erich-hong-vp-of-engineering-at-mixel-a-silvaco-company/",
+     "pubDate": "Tue, 13 Oct 2026 19:00:52 +0000",
+     "summary": "Eric Hong is Vice President of Engineering at Mixel, a Silvaco company, where he leads the development of analog and mixed-signal IP, including high-speed PHY and SerDes solutions. Prior to Mixel, he held engineering leadership and technical roles at Nvidia, eSilicon, Samsung Electro-Mechanics, and ",
+     "source": "SemiWiki",
+     "zh": "Interview with Eric Hong, VP of Engineering at Mixel, a Silvaco Company"
+    },
+    {
+     "title": "Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over-optics for AI rack-scale connectivity at OCP Global Summit",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/lumentum-131026.shtml",
+     "pubDate": "Tue, 13 Oct 2026 18:14:35 +0100",
+     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers), Astera Labs Inc (which provides rack-scale AI infrastructure through purpose-built connectivity solutions) and Corning Inc are giving a joint demonstration of PCIe-over",
+     "source": "Semiconductor Today",
+     "zh": "Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over-optics for AI rack-scale connectivity at OCP Global Summit"
+    },
+    {
+     "title": "U.S. Chip Firms Bet Big on R&D",
+     "link": "https://spectrum.ieee.org/semiconductor-research",
+     "pubDate": "Tue, 13 Oct 2026 11:00:05 +0000",
+     "summary": "On 12 October, Applied Materials unveiled a multibillion-dollar research facility in Sunnyvale, Calif., in the heart of Silicon Valley . The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercialization (EPIC) Center, but now says it will",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "U.S. Chip Firms Bet Big on R&D"
+    },
+    {
+     "title": "Polar collaborates with IC-Link by imec on 8-inch manufacturing of e-mode GaN devices",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/polar-iclink-131026.shtml",
+     "pubDate": "Tue, 13 Oct 2026 10:33:34 +0100",
+     "summary": "Polar Semiconductor LLC of Bloomington, MN, USA (the only US-owned foundry specializing in high-voltage, power and sensor semiconductors) and IC-Link by imec (the design and manufacturing division of nanoelectronics research center imec of Leuven, Belgium) are collaborating to provide 8-inch product",
+     "source": "Semiconductor Today",
+     "zh": "Polar collaborates with IC-Link by imec on 8-inch manufacturing of e-mode GaN devices"
+    },
+    {
+     "title": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/cmlmicro-091026.shtml",
+     "pubDate": "Fri, 9 Oct 2026 08:59:05 +0100",
+     "summary": "CML Microsystems Plc of Maldon, UK — a designer and fabless manufacturer of mixed-signal, RF and microwave semiconductors for communications applications — has launched the CMX90A002, a compact power amplifier for next-generation ISM-band radio designs...",
+     "source": "Semiconductor Today",
+     "zh": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs"
+    },
+    {
+     "title": "Infineon launches 27kW three-phase PSU for AI server power architectures",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/infineon-081026.shtml",
+     "pubDate": "Thu, 8 Oct 2026 15:28:51 +0100",
+     "summary": "As artificial intelligence workloads are redefining the power requirements of modern data centers, increasing GPU performance and rising rack densities are driving a shift toward 800VDC or ±400VDC power supply architectures. To address these requirements, Infineon Technologies AG of Munich, Germany ",
+     "source": "Semiconductor Today",
+     "zh": "Infineon launches 27kW three-phase PSU for AI server power architectures"
     }
    ]
   },
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Misleading Plug-in Hybrid Emissions Figures Risk Cheating Consumers, T&E Warns",
+     "link": "https://cleantechnica.com/2026/10/14/misleading-plug-in-hybrid-emissions-figures-risk-cheating-consumers-te-warns/",
+     "pubDate": "Wed, 14 Oct 2026 23:31:58 +0000",
+     "summary": "T&E urges governments to uphold the next correction of the PHEV CO2 accounting rules to drive PHEV improvements and avoid cheating consumers. Powering a PHEV costs drivers up to €680 more a year than carmakers claim. The gap between plug-in hybrids’ official CO₂ figures and their real-world emission",
+     "source": "CleanTechnica",
+     "zh": "Misleading Plug-in Hybrid Emissions Figures Risk Cheating Consumers, T&E Warns"
+    },
+    {
      "title": "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Market-Tightens-as-Tanker-Attacks-and-Inventory-Draws-Mount.html",
      "pubDate": "Wed, 14 Oct 2026 18:00:00 -0500",
@@ -945,12 +953,12 @@
      "zh": "Trump Administration Wants to Stop an Almost-Complete Offshore Wind Project"
     },
     {
-     "title": "Fossil generation pipeline rebounds while new clean generation slows: EDF",
+     "title": "Fossil fuel generation pipeline rebounds while new clean generation slows: EDF",
      "link": "https://www.utilitydive.com/news/fossil-generation-pipeline-rebounds-while-new-clean-generation-slows-edf/832978/",
      "pubDate": "Wed, 14 Oct 2026 10:55:47 -0400",
      "summary": "However, &ldquo;rising gas turbine costs and supply shortages are already making new gas plants more expensive and slower to build,&rdquo; David Villagrana, EDF&rsquo;s lead counsel for clean energy tax solutions, told Utility Dive.",
      "source": "Utility Dive",
-     "zh": "Fossil generation pipeline rebounds while new clean generation slows: EDF"
+     "zh": "Fossil fuel generation pipeline rebounds while new clean generation slows: EDF"
     },
     {
      "title": "Becquerel: AI and robotics can deliver 3-4% energy yield improvement in solar PV projects",
@@ -969,12 +977,20 @@
      "zh": "Energy Storage Awards 2026: Shortlist reveal kicks off countdown to the industry’s big night out"
     },
     {
-     "title": "Bus Electrification Turns Governance Into Infrastructure",
-     "link": "https://cleantechnica.com/2026/10/14/bus-transit-governance-electrification/",
-     "pubDate": "Wed, 14 Oct 2026 14:40:43 +0000",
-     "summary": "Britain’s bus reforms are usually discussed as a privatization story. Outside London, the 1980s reforms deregulated local bus markets and gave commercial operators far more freedom over routes and timetables. London kept public control of the passenger network while private companies competed to ope",
-     "source": "CleanTechnica",
-     "zh": "Bus Electrification Turns Governance Into Infrastructure"
+     "title": "Battery-powered trains coming to Chicago: a first look",
+     "link": "https://www.utilitydive.com/news/stadler-metra-chicago-battery-electric-train/832993/",
+     "pubDate": "Wed, 14 Oct 2026 10:17:00 -0400",
+     "summary": "Commuter rail systems like Chicago's Metra are exploring battery-electric trains to increase service while reducing diesel exhaust pollution and noise.",
+     "source": "Utility Dive",
+     "zh": "Battery-powered trains coming to Chicago: a first look"
+    },
+    {
+     "title": "PJM plans to study SoftBank’s Ohio AI project under state agreement approach",
+     "link": "https://www.utilitydive.com/news/pjm-softbank-ohio-ai-flagship-state-agreement-approach/832962/",
+     "pubDate": "Wed, 14 Oct 2026 10:13:00 -0400",
+     "summary": "The project, dubbed &ldquo;Flagship,&rdquo;&nbsp;includes 765-kV transmission lines to be built by AEP Ohio, roughly 10 GW in data center load and about 10.2 GW in gas-fired generation.",
+     "source": "Utility Dive",
+     "zh": "PJM plans to study SoftBank’s Ohio AI project under state agreement approach"
     },
     {
      "title": "Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS",
@@ -983,6 +999,14 @@
      "summary": "The deadline to submit project proposals is December 10. The post Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS"
+    },
+    {
+     "title": "Scaling residential VPPs could cut electric bill increases by half: Brattle",
+     "link": "https://www.utilitydive.com/news/scaling-vpps-could-cut-electric-bill-increases-by-half-brattle/832956/",
+     "pubDate": "Wed, 14 Oct 2026 09:27:40 -0400",
+     "summary": "Utilities should look to OEM-led enrollment strategies to expand residential virtual power plants utilizing thermostats, batteries and EV chargers, according to The Brattle Group.",
+     "source": "Utility Dive",
+     "zh": "Scaling residential VPPs could cut electric bill increases by half: Brattle"
     },
     {
      "title": "Europe’s second energy crisis largely skipped the solar hours",
@@ -1071,30 +1095,6 @@
      "summary": "Leon Zhang, President of Utility Europe, LONGi, discusses the changing economics of European solar and the strategic role of storage.",
      "source": "PV Tech",
      "zh": "From higher efficiency to higher asset value: LONGi’s strategy to lead Europe’s clean energy transition"
-    },
-    {
-     "title": "India’s solar generation rises 39% in Q2—CREA",
-     "link": "https://www.pv-tech.org/indias-solar-generation-rises-39-in-q2-crea/",
-     "pubDate": "Wed, 14 Oct 2026 10:24:42 +0000",
-     "summary": "India’s solar generation rose 39% year-on-year to a record 705MU on 30 September, CREA’s latest snapshot reported.",
-     "source": "PV Tech",
-     "zh": "India’s solar generation rises 39% in Q2—CREA"
-    },
-    {
-     "title": "South Africa’s state utility Eskom opens selection process for 1.5GW/21GWh pumped hydro plant",
-     "link": "https://www.energy-storage.news/south-africas-state-utility-eskom-opens-selection-process-for-1-5gw-21gwh-pumped-hydro-plant/",
-     "pubDate": "Wed, 14 Oct 2026 08:48:46 +0000",
-     "summary": "South Africa continues its push for energy storage capacity, with utility and grid operator Eskom issuing a call to work on a 21GWh pumped hydro energy storage (PHES) project.",
-     "source": "Energy Storage News",
-     "zh": "South Africa’s state utility Eskom opens selection process for 1.5GW/21GWh pumped hydro plant"
-    },
-    {
-     "title": "Nuclear-powered data centers? It’s a tough sell in Utah coal country.",
-     "link": "https://www.canarymedia.com/articles/data-centers/utah-carbon-county-opposition-nuclear-gas-valar",
-     "pubDate": "Wed, 14 Oct 2026 03:30:00 -0400",
-     "summary": "This story was originally published by Grist . Sign up for Grist's weekly newsletter . Cindy O’Neil understands the boom-and-bust cycles of industry. Her husband spent years working in Carbon County’s namesake coal mines. In this pocket of central Utah, energy and the economy have long been intrinsi",
-     "source": "Canary Media",
-     "zh": "Nuclear-powered data centers? It’s a tough sell in Utah coal country."
     }
    ]
   },
@@ -1225,6 +1225,14 @@
      "zh": "Verastem cancer drug shows early promise in small study"
     },
     {
+     "title": "CVS to pay $315M to settle opioid prescribing allegations",
+     "link": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
+     "pubDate": "Wed, 14 Oct 2026 10:45:52 -0400",
+     "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and &ldquo;strongly disagreed&rdquo; with the case&rsquo;s claims.",
+     "source": "BioPharma Dive",
+     "zh": "CVS to pay $315M to settle opioid prescribing allegations"
+    },
+    {
      "title": "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump",
      "link": "https://endpoints.news/ultragenyxs-second-prv-sale-biomeas-oral-glp-1-data-leads-to-stock-slump/",
      "pubDate": "Wed, 14 Oct 2026 14:24:20 +0000",
@@ -1287,14 +1295,6 @@
      "summary": "One lawyer involved noted how it's yet another example of Paragon and key investor Fairmount &mdash; which have helped transform the reputation for reverse mergers &mdash; quickly executing on a complicated deal.",
      "source": "BioPharma Dive",
      "zh": "Another Paragon spinout goes public through reverse merger"
-    },
-    {
-     "title": "BioNTech mRNA cancer immunotherapy misses first objective in key study",
-     "link": "https://www.biopharmadive.com/news/biontech-mrna-immunotherapy-hpv16-head-neck-cancer/832854/",
-     "pubDate": "Tue, 13 Oct 2026 12:24:00 -0400",
-     "summary": "An early data check showed the shot didn&rsquo;t delay tumor progression in a form of head and neck cancer, though BioNTech is holding out hope it might eventually extend survival.",
-     "source": "BioPharma Dive",
-     "zh": "BioNTech mRNA cancer immunotherapy misses first objective in key study"
     }
    ]
   },
@@ -1777,20 +1777,68 @@
    "total": 18,
    "items": [
     {
-     "title": "OpenAI 承诺不使用苹果商业秘密，双方诉讼互指对方窃取机密",
+     "title": "彭博社：苹果有望 12 月随 iOS 27.3 在国内推出首波 Apple Intelligence 功能",
+     "link": "https://www.ithome.com/1/013/162.htm",
+     "pubDate": "Wed, 14 Oct 2026 23:45:18 GMT",
+     "summary": "IT之家 10 月 15 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（10 月 15 日）在 X 平台发布推文， 报道称苹果公司计划于 12 月通过 iOS 27.3 更新，在中国大陆首次推出 Apple Intelligence，这是该 AI 平台首度落地中国市场。 IT之家附上相关截图如下： 首波功能包括 Genmoji 自定义表情、通知摘要、写作工具，以及照片应用中的 Clean Up 功能（支持用户从照片中移除特定物体）。新版 Siri AI 助手、图乐园生成工具及较新版本 Genmoji 均不在首波范围内。 中国大陆版本将接入阿里巴巴的 AI 模型，包括通义千问（",
+     "source": "IT之家",
+     "zh": "彭博社：苹果有望 12 月随 iOS 27.3 在国内推出首波 Apple Intelligence 功能"
+    },
+    {
+     "title": "Colossal 推出 AI 平台 GenoMorph，助力加快复活灭绝物种研究",
+     "link": "https://www.ithome.com/1/013/161.htm",
+     "pubDate": "Wed, 14 Oct 2026 23:44:26 GMT",
+     "summary": "IT之家 10 月 15 日消息，据 TechCrunch 报道，Colossal Biosciences 于当地时间周三发布了一款全新人工智能平台，助力加快复活灭绝物种的相关研究。 据IT之家了解，这款名为 GenoMorph 的平台结合先进三维形态学、比较基因组学与发育生物学技术，在基因数据有限的复活项目中， 筛选出可用于基因编辑的目标基因 。该公司正借助这个平台推进渡渡鸟复活计划，而渡渡鸟可用的基因组资料十分匮乏。 举例来说，公司在猛犸象复活项目中获取了 100 份基因组样本，但渡渡鸟项目仅有一份基因组可用。公司表示，猛犸象生存的寒冷环境更利于保存 DNA，而渡渡鸟栖息在热带地区，因此留",
+     "source": "IT之家",
+     "zh": "Colossal 推出 AI 平台 GenoMorph，助力加快复活灭绝物种研究"
+    },
+    {
+     "title": "Sources: YouTube has held talks with publishers in recent months about an audiobook feature that could be ready next year and may be bundled in YouTube Premium (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261014/p48#a261014p48",
+     "pubDate": "Wed, 14 Oct 2026 19:40:01 -0400",
+     "summary": "Wall Street Journal : Sources: YouTube has held talks with publishers in recent months about an audiobook feature that could be ready next year and may be bundled in YouTube Premium &nbsp; &mdash;&nbsp; The Alphabet-owned streamer is working on a feature for audiobooks, a bid to compete with offerin",
+     "source": "Techmeme",
+     "zh": "Sources: YouTube has held talks with publishers in recent months about an audiobook feature that could be ready next year and may be bundled in YouTube Premium (Wall Street Journal)"
+    },
+    {
+     "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年如何自伤或伤害他人",
+     "link": "https://www.ithome.com/1/013/160.htm",
+     "pubDate": "Wed, 14 Oct 2026 23:39:08 GMT",
+     "summary": "IT之家 10 月 15 日消息，据路透社报道，当地时间 14 日，美国 8 个州宣布 分别在各自州法院起诉 OpenAI ，指控 ChatGPT 伤害当地居民，甚至指导包括青少年在内的用户 如何伤害自己或他人 。 艾奥瓦州、堪萨斯州和亚利桑那州等 8 个州的总检察长分别提起诉讼，指控 ChatGPT 刻意迎合用户、吸引他们持续互动，以获取信任 。诉讼文件称，ChatGPT 不仅会强化用户的妄想、鼓励危险行为，还会帮助用户策划大规模枪击等暴力活动。 除艾奥瓦州、堪萨斯州和亚利桑那州外，参与诉讼的还有阿肯色州、爱达荷州、蒙大拿州、内布拉斯加州和西弗吉尼亚州。各州还要求对 OpenAI 涉嫌违反州",
+     "source": "IT之家",
+     "zh": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年如何自伤或伤害他人"
+    },
+    {
+     "title": "SpaceXAI 发布 Grok Voice 3.0：号称全球最智能的语音模型，延迟低于 1 秒",
+     "link": "https://www.ithome.com/1/013/159.htm",
+     "pubDate": "Wed, 14 Oct 2026 23:35:09 GMT",
+     "summary": "IT之家 10 月 15 日消息，SpaceXAI 今日发布了 Grok Voice 3.0， 官方称这是全球智能水平最高的语音转语音模型 。该模型在客服电话处理任务上创下新纪录，拥有业界领先的低于 1 秒延迟，运行成本也低于其他前沿模型。Grok Voice 每天在特斯拉和 SpaceX 支撑数百万次对话，现已通过应用程序接口上线，定价与上一代产品保持一致。 在 Artificial Analysis 的独立测试中，Grok Voice 3.0 在语音转语音综合榜单中排名第一，得分 86.9。该榜单综合评估语音推理能力、τ-Voice 指标，以及盲测通话对比下的偏好度与任务完成率。Grok ",
+     "source": "IT之家",
+     "zh": "SpaceXAI 发布 Grok Voice 3.0：号称全球最智能的语音模型，延迟低于 1 秒"
+    },
+    {
+     "title": "入职约 1 年：OpenAI 基础设施与 AI 算力负责人卡蒂离职，曾主导“星际之门”计划",
+     "link": "https://www.ithome.com/1/013/158.htm",
+     "pubDate": "Wed, 14 Oct 2026 23:30:06 GMT",
+     "summary": "IT之家 10 月 15 日消息， OpenAI 基础设施与算力负责人萨钦 · 卡蒂（Sachin Katti）昨日（10 月 14 日）在 X 平台宣布辞职，其空缺将由乌代 · 鲁达拉朱（Uday Ruddarraju）接替。 知情人士透露，卡蒂离职后预计将 继续转任顾问 ，与公司保持合作。 IT之家查询公开资料，卡蒂于 2025 年 11 月由英特尔公司（Intel）CTO 转投 OpenAI，在职期间主导推进了雄心勃勃的“星际之门”（Stargate）数据中心计划，并成功与软银、甲骨文以及亚马逊 AWS 等主要供应商达成了计算资源合作。 图右为萨钦 · 卡蒂（Sachin Katti） ",
+     "source": "IT之家",
+     "zh": "入职约 1 年：OpenAI 基础设施与 AI 算力负责人卡蒂离职，曾主导“星际之门”计划"
+    },
+    {
+     "title": "吉利脚踏两只船",
+     "link": "https://www.huxiu.com/article/4896859.html?f=rss",
+     "pubDate": "Thu, 15 Oct 2026 07:27:16 +0800",
+     "summary": "作者｜Eastland 头图｜视觉中国 2026年1~9月，吉利汽车控股（ HK：00175 ）总销量达223.5万辆（ 不包括沃尔沃、路特斯、宝腾等 ）。其中，吉利、领克、极氪三大品牌销量分别为175万辆、19.6万辆、28.8万辆。 在全球竞争最激烈的市场，吉利汽车销量稳居第三（ 仅次于上汽、比亚迪 ），必有过人之处。想来想去，吉利汽车的过人之处竟然是&mdash;&mdash;脚踏两只船。通俗讲就是：看准方向才迈步，尽可能两头押注，永远不在一棵树上吊死。 本来，这是资本最看中的品质。但吉利汽车1600亿港元市值对应的市盈率仅为7.8倍，说明资本没有真正看透这家公司。 &ldquo;三巨头",
+     "source": "虎嗅",
+     "zh": "吉利脚踏两只船"
+    },
+    {
+     "title": "OpenAI 承诺不使用苹果所称被窃商业秘密，双方诉讼互指对方窃取机密",
      "link": "https://www.ithome.com/1/013/157.htm",
      "pubDate": "Wed, 14 Oct 2026 23:26:41 GMT",
      "summary": "IT之家 10 月 15 日消息，据彭博社报道，在两家公司的法律纠纷审理期间，OpenAI 同意不使用苹果公司所称、由从苹果跳槽至这家人工智能初创企业的员工盗取的商业秘密。 这家 ChatGPT 开发商在当地时间周三的法庭听证会上主动做出上述承诺。联邦法官在听证会上表示，他“极有可能”支持苹果，向 OpenAI 发布禁令。美国地区法官爱德华 · 达维拉（Edward Davila）有权执行这份协议，协议还要求 OpenAI 收集 14 名员工设备中可能包含苹果机密信息的取证图像。 对 OpenAI 而言，这份协议使其避免了在与苹果的首次实质性法庭交锋中直接败诉带来的负面影响。萨姆 · 奥尔特曼",
      "source": "IT之家",
-     "zh": "OpenAI 承诺不使用苹果商业秘密，双方诉讼互指对方窃取机密"
-    },
-    {
-     "title": "马斯克自曝：过去一年里，我大概经历了六次“赛博精神病”",
-     "link": "https://www.ithome.com/1/013/156.htm",
-     "pubDate": "Wed, 14 Oct 2026 23:24:51 GMT",
-     "summary": "IT之家 10 月 15 日消息，当地时间 14 日，据《商业内幕》报道，马斯克出席上周六的 X Takeover 活动，在访谈中大谈 AI 的神奇之处，随后却少有地谈起自己的感受：“我有点‘赛博精神错乱’，其实可能还挺严重。” 他称，过去一年里，自己大概经历了六次“AI / SI 精神错乱”（IT之家注：SI 指的是美国总统特朗普将人工智能改称的“超级智能”）。 “AI 精神错乱”并非正式医学术语，也没有公认的定义。通常指人们 反复使用 AI 后，原有的妄想变得更加严重 。 这个词也曾被用来讽刺 对 AI 深信不疑、使用起来近乎痴迷的科技圈人士 。一些精神科医生则认为，如果使用 AI 加重了",
-     "source": "IT之家",
-     "zh": "马斯克自曝：过去一年里，我大概经历了六次“赛博精神病”"
+     "zh": "OpenAI 承诺不使用苹果所称被窃商业秘密，双方诉讼互指对方窃取机密"
     },
     {
      "title": "【钛晨报】中国最新金融数据出炉，债券和股票融资在社融增量中占比近半；含DeepSeek、微信等，151款应用拒绝接入豆包手机助手；恒生指数公司出手，茶百道遭多个指数剔除",
@@ -1801,36 +1849,12 @@
      "zh": "【钛晨报】中国最新金融数据出炉，债券和股票融资在社融增量中占比近半；含DeepSeek、微信等，151款应用拒绝接入豆包手机助手；恒生指数公司出手，茶百道遭多个指数剔除"
     },
     {
-     "title": "麦肯锡面试新花样：先和 AI 客户对线十分钟",
-     "link": "https://www.ithome.com/1/013/155.htm",
-     "pubDate": "Wed, 14 Oct 2026 23:15:50 GMT",
-     "summary": "IT之家 10 月 15 日消息，据华尔街日报报道，想在麦肯锡拿到工作？你或许先要成功和人工智能虚拟对手对线。 这家顶尖咨询公司将于今年秋季调整部分初级咨询岗位候选人的面试流程，新增一类客户模拟环节。该环节旨在测试应聘者的临场应变能力，以及和麦肯锡客户沟通的水平，其中部分客户会更加刨根问底、难以应对。 尽管全程都是模拟场景，但这场时长约十分钟的 AI 对话，会安排在麦肯锡真实的办公室内进行，合伙人或面试考官会在现场观察候选人的表现。 麦肯锡的合伙人表示，这套 AI 工具不会自行对候选人的表现打分或给出评价。这个虚拟形象学习了多种客户性格类型，例如那种像学者一样、希望深入理解公司方案建议的客户。",
-     "source": "IT之家",
-     "zh": "麦肯锡面试新花样：先和 AI 客户对线十分钟"
-    },
-    {
      "title": "Jio Platforms seeks to raise up to $3.2B in India&apos;s largest IPO, which would value it at as much as $108.3B; the offering opens October 21 and closes October 23 (Reuters)",
      "link": "https://www.techmeme.com/261014/p47#a261014p47",
      "pubDate": "Wed, 14 Oct 2026 19:15:00 -0400",
      "summary": "Reuters : Jio Platforms seeks to raise up to $3.2B in India's largest IPO, which would value it at as much as $108.3B; the offering opens October 21 and closes October 23 &nbsp; &mdash;&nbsp; Jio Platforms is set to raise up to $3.2 billion in India's largest IPO to date, which will value the group ",
      "source": "Techmeme",
      "zh": "Jio Platforms seeks to raise up to $3.2B in India&apos;s largest IPO, which would value it at as much as $108.3B; the offering opens October 21 and closes October 23 (Reuters)"
-    },
-    {
-     "title": "OpenAI 和 Anthropic 被欧盟调查，若认定违反 AI 法案最高罚全球 3% 营业额",
-     "link": "https://www.ithome.com/1/013/154.htm",
-     "pubDate": "Wed, 14 Oct 2026 23:13:18 GMT",
-     "summary": "IT之家 10 月 15 日消息， 欧盟委员会人工智能办公室已向 OpenAI 和 Anthropic 发出信息调取请求，正式对两家公司在前沿模型测试期间发生的“模型越狱”及入侵外部真实系统事件展开调查 。这是欧盟《人工智能法案》（EU AI Act）自实施以来，面对前沿人工智能实验室安全事故的 首次重要执法考验 。 IT之家查询相关资料，此次调查源于数月前发生的两起 AI 安全事件： OpenAI 模型越狱 ：在 ExploitGym 内部评测中，OpenAI 的测试模型为破解测试题，利用了一个此前未知的软件包缓存智能体漏洞取得互联网访问能力，继而在内部测试网络中提升权限、横向移动，最终“逃",
-     "source": "IT之家",
-     "zh": "OpenAI 和 Anthropic 被欧盟调查，若认定违反 AI 法案最高罚全球 3% 营业额"
-    },
-    {
-     "title": "消息称 Anthropic 第三季度营收达 168 亿美元，已实现调整后盈利",
-     "link": "https://www.ithome.com/1/013/153.htm",
-     "pubDate": "Wed, 14 Oct 2026 23:10:11 GMT",
-     "summary": "IT之家 10 月 15 日消息，据彭博社报道，知情人士透露，人工智能模型企业 Anthropic PBC 向潜在投资者表示，公司第三季度营收达到 168 亿美元 （IT之家注：现汇率约合 1,126.44 亿元人民币） ，这家企业正继续推进上市计划。 知情人士称，开发 Claude 的 Anthropic 于当地时间周三在旧金山总部举办了推介会，向投资者说明，公司在该季度实现了调整后盈利。 知情人士表示，截至第三季度，Anthropic 已经实现正向自由现金流，调整后毛利率为 85%，调整后营业利润率超过 11%。 Anthropic 预计最早在 11 月 9 日那一周正式启动首次公开募股的",
-     "source": "IT之家",
-     "zh": "消息称 Anthropic 第三季度营收达 168 亿美元，已实现调整后盈利"
     },
     {
      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
@@ -1876,7 +1900,7 @@
      "title": "Tiny Little Office",
      "link": "https://tinylittleoffice.com/",
      "pubDate": "Wed, 14 Oct 2026 22:10:08 +0000",
-     "summary": "Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 55 # Comments: 8",
+     "summary": "Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 65 # Comments: 9",
      "source": "Hacker News",
      "zh": "Tiny Little Office"
     },
@@ -1895,14 +1919,6 @@
      "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
      "source": "TechCrunch",
      "zh": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO"
-    },
-    {
-     "title": "Zenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others (Ivan Mehta/TechCrunch)",
-     "link": "https://www.techmeme.com/261014/p42#a261014p42",
-     "pubDate": "Wed, 14 Oct 2026 17:40:01 -0400",
-     "summary": "Ivan Mehta / TechCrunch : Zenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others &nbsp; &mdash;&nbsp; Many businesses around the world use consumer-facing chat apps like WhatsApp, Telegram, Discord, or iM",
-     "source": "Techmeme",
-     "zh": "Zenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others (Ivan Mehta/TechCrunch)"
     },
     {
      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -1924,7 +1940,7 @@
      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
      "link": "https://typesafe.ai/blog/jev-1-14",
      "pubDate": "Wed, 14 Oct 2026 21:11:03 +0000",
-     "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 124 # Comments: 45",
+     "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 129 # Comments: 49",
      "source": "Hacker News",
      "zh": "We’re releasing Jev 1.14.0 along with experimental features for dreamers"
     },
@@ -1956,7 +1972,7 @@
      "title": "OpenCode 2.0",
      "link": "https://anoma.ly/notes/opencode-2-0/",
      "pubDate": "Wed, 14 Oct 2026 20:48:24 +0000",
-     "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 195 # Comments: 70",
+     "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 209 # Comments: 77",
      "source": "Hacker News",
      "zh": "OpenCode 2.0"
     },
@@ -1972,7 +1988,7 @@
      "title": "Anthropic's Scion is heavily inspired by Mononoke",
      "link": "https://sunshowers.io/posts/anthropic-mononoke/",
      "pubDate": "Wed, 14 Oct 2026 20:30:54 +0000",
-     "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 201 # Comments: 89",
+     "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 206 # Comments: 93",
      "source": "Hacker News",
      "zh": "Anthropic's Scion is heavily inspired by Mononoke"
     },
@@ -1980,7 +1996,7 @@
      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
      "link": "https://blog.cloudflare.com/yandex-outage/",
      "pubDate": "Wed, 14 Oct 2026 20:29:13 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 178 # Comments: 55",
+     "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 184 # Comments: 57",
      "source": "Hacker News",
      "zh": "Yandex outage: data shows that instead of going dark, malicious bots moved"
     },
@@ -1999,22 +2015,6 @@
      "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
      "source": "Ars Technica",
      "zh": "Schools across US protest FCC plan that could disconnect kids from Internet"
-    },
-    {
-     "title": "GitHub availability report: September 2026",
-     "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
-     "pubDate": "Wed, 14 Oct 2026 20:01:35 +0000",
-     "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
-     "source": "GitHub Blog",
-     "zh": "GitHub availability report: September 2026"
-    },
-    {
-     "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
-     "link": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
-     "pubDate": "Wed, 14 Oct 2026 19:53:01 +0000",
-     "summary": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
-     "source": "Ars Technica",
-     "zh": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation"
     }
    ]
   },
@@ -2289,12 +2289,100 @@
      "zh": "NatWest enlists Nvidia to help its AI spending tool understand regional accents"
     },
     {
-     "title": "“金主”包票、人头认购、借投资回流——港股IPO“围飞”乱象大起底",
-     "link": "http://finance.eastmoney.com/news/1354,202610153895872728.html",
-     "pubDate": "Thu, 15 Oct 2026 07:21:28 +0800",
-     "summary": "10月13日，香港证监会对两大涉嫌操纵首次公开招股（IPO）的集团采取行动并暂停 茶百道 的股份交易，合计冻结两大集团逾46.6亿港元资产，涉及金额为历年来同类案件中规模最大。 香港证监会称， 茶百道 、拨康视云的IPO可能曾被人为操纵，意图就股份需求营造非真实的表象。监管层的这一记重拳，直接让港股资本市场圈中的“围飞”现象再次摆到了市场的聚光灯下。 “围飞”套路由来已久 作为香港监管术语，所谓“围飞”是指欺诈集团在IPO阶段安排代理承配人认购国际配售股份、安排认购资金，人为制造虚假股份需求。早在2019年时，香港监管部门就曾严打过“围飞”乱象，彼时一些中小型新股存在认购不足额导致无法上市的可",
+     "title": "“A+H”扩容打开的不只是融资通道",
+     "link": "http://finance.eastmoney.com/news/1354,202610153895871726.html",
+     "pubDate": "Thu, 15 Oct 2026 07:45:00 +0800",
+     "summary": "今年以来，“A+H”上市公司加速扩容。万得数据显示，前三季度共有38家A股公司成功实现H股上市，数量达2025年全年的两倍。与此同时，H股公司“回A”也取得新进展，继近日 力勤资源 登陆深交所后， 智谱 、映恩生物等企业正陆续推进“回A”进程，内地与香港资本市场双向互动的态势愈发清晰。 这一现象背后，是企业内生发展需求与监管制度优化形成的合力。随着科技创新提速、产业结构升级，我国企业正加速迈向全球化经营，对长期资金、跨境金融服务以及全球资源整合能力提出了更高要求。同时，两地跨境上市制度的持续完善，也为企业统筹利用两个市场、两种资源提供了顺畅渠道。 “A+H”扩容的意义，远不止于多一个上市挂牌地",
      "source": "东方财富股票",
-     "zh": "“金主”包票、人头认购、借投资回流——港股IPO“围飞”乱象大起底"
+     "zh": "“A+H”扩容打开的不只是融资通道"
+    },
+    {
+     "title": "汽车行业该摆脱销量焦虑了",
+     "link": "http://finance.eastmoney.com/news/1355,202610153895874755.html",
+     "pubDate": "Thu, 15 Oct 2026 07:44:00 +0800",
+     "summary": "今年前三季度，中国 汽车 市场交出了一份“冷热不均”的成绩单。中国 汽车 工业协会数据显示，前三季度我国 汽车 销量2327.1万辆，同比下降4.5%。其中，国内销量1506.6万辆，同比下降22.4%；出口820.5万辆，同比增长65.8%。国内市场承压与海外市场销量增长并存，成为当前汽车产业运行的突出特点。值得注意的是，9月汽车销量环比增长9%，但同比仍下降8.4%，其中国内销量同比降幅达到26%。这表明受传统销售旺季带动，市场出现回暖，但需求不足的问题仍然存在。 国内市场承压既是消费需求变化的结果，也是产业走向成熟必须经历的过程。中国汽车产业经历多年快速扩张，正在进入由规模增长向质量提升",
+     "source": "东方财富股票",
+     "zh": "汽车行业该摆脱销量焦虑了"
+    },
+    {
+     "title": "方大炭素：融资净买入40.53万元，融资余额8.03亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610153895984561.html",
+     "pubDate": "Thu, 15 Oct 2026 07:43:52 +0800",
+     "summary": "交易所最新数据显示，方大炭素于2026年10月14日获融资买入1705.45万元，融资偿还1664.92万元， 当日融资净买入40.53万元。 目前，该股融资余额8.03亿，占流通市值比例为3.79%。 该股当日融券卖出15.03万股，融券偿还4000股， 融券净卖出14.63万股。 目前，该股融券余量199.17万股，融券余额1047.63万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分",
+     "source": "东方财富股票",
+     "zh": "方大炭素：融资净买入40.53万元，融资余额8.03亿元"
+    },
+    {
+     "title": "金冠电气：融资净偿还784.29万元，融资余额1.16亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610153895984160.html",
+     "pubDate": "Thu, 15 Oct 2026 07:43:50 +0800",
+     "summary": "交易所最新数据显示，金冠电气于2026年10月14日获融资买入2106.20万元，融资偿还2890.50万元， 当日融资净偿还784.29万元。 目前，该股融资余额1.16亿，占流通市值比例为4.23%。 该股当日无融券交易，融券余额为0。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "金冠电气：融资净偿还784.29万元，融资余额1.16亿元"
+    },
+    {
+     "title": "渤海轮渡：融资净买入39.62万元，融资余额8620.42万元",
+     "link": "http://stock.eastmoney.com/news/1697,202610153895984059.html",
+     "pubDate": "Thu, 15 Oct 2026 07:43:50 +0800",
+     "summary": "交易所最新数据显示，渤海轮渡于2026年10月14日获融资买入112.05万元，融资偿还72.43万元， 当日融资净买入39.62万元。 目前，该股融资余额8620.42万，占流通市值比例为2.29%。 该股当日融券卖出100股，融券偿还0股， 融券净卖出100股。 目前，该股融券余量4.28万股，融券余额34.41万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责",
+     "source": "东方财富股票",
+     "zh": "渤海轮渡：融资净买入39.62万元，融资余额8620.42万元"
+    },
+    {
+     "title": "伊利股份：融资净偿还1947.49万元，融资余额19.27亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610153895983444.html",
+     "pubDate": "Thu, 15 Oct 2026 07:43:44 +0800",
+     "summary": "交易所最新数据显示， 伊利股份 于2026年10月14日获融资买入4180.79万元，融资偿还6128.28万元， 当日融资净偿还1947.49万元。 目前，该股融资余额19.27亿，占流通市值比例为1.09%。 该股当日融券卖出58.11万股，融券偿还2.26万股， 融券净卖出55.85万股。 目前，该股融券余量1008.6万股，融券余额2.84亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对",
+     "source": "东方财富股票",
+     "zh": "伊利股份：融资净偿还1947.49万元，融资余额19.27亿元"
+    },
+    {
+     "title": "“平台+养老”为银龄生活打开更多可能",
+     "link": "http://www.eeo.com.cn/2026/1015/1064670.shtml",
+     "pubDate": "Thu, 15 Oct 2026 07:39:13 +0800",
+     "summary": "银发经济正青春。2025年我国银发经济产业规模达9万亿元，预计到2035年将突破30万亿元。近来，不少互联网平台企业纷纷入局养老领域，推动养老...",
+     "source": "经济观察网",
+     "zh": "“平台+养老”为银龄生活打开更多可能"
+    },
+    {
+     "title": "第33届世界大学生冬季运动会火种欢迎仪式举行",
+     "link": "http://www.eeo.com.cn/2026/1015/1064669.shtml",
+     "pubDate": "Thu, 15 Oct 2026 07:39:13 +0800",
+     "summary": "这是10月14日拍摄的火种欢迎仪式上的火种盆。当日上午，第33届世界大学生冬季运动会火种欢迎仪式在长春举行。新华社记者 颜麟蕴/摄 本报长春10月14日电（中青报·中青网记者 王培莲）今天，长春2027第33届世界大学生冬季运动会（...",
+     "source": "经济观察网",
+     "zh": "第33届世界大学生冬季运动会火种欢迎仪式举行"
+    },
+    {
+     "title": "炸串摊主被差评后跳河轻生，律师解析“避雷帖”边界｜法律顾问在身边",
+     "link": "http://www.eeo.com.cn/2026/1015/1064668.shtml",
+     "pubDate": "Thu, 15 Oct 2026 07:39:13 +0800",
+     "summary": "中新网10月14日电 (记者 范丰辉)近日，媒体报道“一女摊主被顾客差评后跳河轻生”引发关注。此事也再度引发网友对“避雷帖”的讨论。那么，网络用户在发布“避雷帖”时应有何边界？平台对引发不良后果的“避雷帖”是否有管理义务？此事件中，涉事方该承担什么责任？ 对此，北京岳成律师事务所副主任岳屾山分析称，网络用户在社交媒体发布“避雷帖”，应基于自身的真实经历，不能凭空捏造，描述的内容应基于客观事实，不能...",
+     "source": "经济观察网",
+     "zh": "炸串摊主被差评后跳河轻生，律师解析“避雷帖”边界｜法律顾问在身边"
+    },
+    {
+     "title": "摩根士丹利CEO对AI建设“双倍超配”，预计行业年支出或维持1万亿美元",
+     "link": "http://www.eeo.com.cn/2026/1015/1064667.shtml",
+     "pubDate": "Thu, 15 Oct 2026 07:39:12 +0800",
+     "summary": "当地时间10月14日，摩根士丹利首席执行官泰德·皮克（Ted Pick）表示，该行对人工智能基础设施建设已经达到“双倍超配”，但他同时警告，AI支出增长势头将开始趋缓。 皮克表示：“我们从早期开始就超配AI。考虑到AI不仅对我们的客户很重要，对我们自己也很重要，我会说我们现在是双倍超配。” 皮克表示，目前AI基础设施建设的支出平均每年约1万亿美元，“这是非常大的一笔钱”。他认为支出未必会从这一水平继续加速...",
+     "source": "经济观察网",
+     "zh": "摩根士丹利CEO对AI建设“双倍超配”，预计行业年支出或维持1万亿美元"
+    },
+    {
+     "title": "新闻1+1丨从陆勇即将停药中，我们看到了什么？",
+     "link": "http://www.eeo.com.cn/2026/1015/1064666.shtml",
+     "pubDate": "Thu, 15 Oct 2026 07:39:10 +0800",
+     "summary": "从买不起药，到吃得起药，再到即将停药，《我不是药神》电影原型陆勇说，没想过会有今天。从医保覆盖，到药品迭代，陆勇这些年与疾病的抗争之路，也折射出我国重大疾病防治和医疗保障体系的持续进步。推进健康中国建设，如何让更多重大疾病患者，不仅能够更长时间生存，还能更有质量生活？《新闻1+1》带来分析解读。 作为医生，怎么评估陆勇的临床治疗效果，怎么看待他能够走到“尝试停药”的这一步？ 苏州大学附属...",
+     "source": "经济观察网",
+     "zh": "新闻1+1丨从陆勇即将停药中，我们看到了什么？"
+    },
+    {
+     "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+     "link": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 23:36:00 GMT",
+     "summary": "Investors are wondering if steep inflation and increased borrowing costs could derail the AI buildout.",
+     "source": "MarketWatch",
+     "zh": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks"
     },
     {
      "title": "OpenAI指控前员工携逾百份硬件机密返苹果，反击苹果7月发起的诉讼",
@@ -2313,44 +2401,12 @@
      "zh": "通胀超预期冲击小盘股，罗素2000跌近2%，确认技术性回调"
     },
     {
-     "title": "美国股指期货亚洲早盘下跌 CPI数据超预期加剧美联储加息担忧",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895915341.html",
-     "pubDate": "Thu, 15 Oct 2026 07:20:04 +0800",
-     "summary": "继隔夜美股大盘重挫后，美国股指 期货 周四亚洲早盘继续下跌，此前公布的9月CPI数据高于预期，加剧了市场对于美联储进一步加息的担忧。标普500指数 期货 一度下跌0.3%； 纳斯达克 100指数 期货 一度下跌0.7%。标普500指数周三收跌1.1%，创下7月29日以来最大单日跌幅。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国股指期货亚洲早盘下跌 CPI数据超预期加剧美联储加息担忧"
-    },
-    {
-     "title": "Coinbase：印度部分用户或在法币入金设置环节遭遇延迟，或无法完成该设置",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895915152.html",
-     "pubDate": "Thu, 15 Oct 2026 07:20:03 +0800",
-     "summary": "Coinbase：印度部分用户或在法币入金设置环节遭遇延迟，或无法完成该设置。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "Coinbase：印度部分用户或在法币入金设置环节遭遇延迟，或无法完成该设置"
-    },
-    {
-     "title": "内地与香港绿电证书集中交易完成",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895914984.html",
-     "pubDate": "Thu, 15 Oct 2026 07:19:29 +0800",
-     "summary": "从南方电网了解到，昨天（14日）我国内地与香港的可再生能源绿色 电力 证书集中交易完成，所成交绿证对应的电量近1亿度。本次绿证集中交易由广州 电力 交易中心和 香港交易所 联合组织开展，共有6家内地 新能源 发电企业与9家香港用户参与交易，覆盖 银行 金融、地产物业、 教育 服务等多个行业，共成交绿证9.6万个，对应可再生能源电量近1亿度。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "内地与香港绿电证书集中交易完成"
-    },
-    {
-     "title": "xAI发布Grok Voice 3.0语音模型",
-     "link": "http://finance.eastmoney.com/news/1354,202610153895916098.html",
-     "pubDate": "Thu, 15 Oct 2026 07:18:03 +0800",
-     "summary": "当地时间10月14日，马斯克旗下 人工智能 公司xAI宣布推出Grok Voice 3.0语音模型，并已通过语音代理API开放使用，定价为每分钟0.08美元，与上一代产品相同。xAI表示，Grok Voice已用于 特斯拉 车辆语音交互及 SpaceX 旗下星链客服中心，后者每天处理约2万通多语言客户来电，约70%的来电无需人工介入即可解决。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "xAI发布Grok Voice 3.0语音模型"
-    },
-    {
-     "title": "小鹏汽车董事长何小鹏在2026巴黎汽车峰会上呼吁深化全球合作，重点推介“小鹏AI工程”",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895914754.html",
-     "pubDate": "Thu, 15 Oct 2026 07:17:36 +0800",
-     "summary": "小鹏 汽车 董事长何小鹏在2026巴黎 汽车 峰会上呼吁深化全球合作，重点推介\"小鹏AI工程\"。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "小鹏汽车董事长何小鹏在2026巴黎汽车峰会上呼吁深化全球合作，重点推介“小鹏AI工程”"
+     "title": "清晨跳水超500点！英伟达、甲骨文、美光、海力士集体大跌！",
+     "link": "http://finance.eastmoney.com/news/1354,202610153895915713.html",
+     "pubDate": "Thu, 15 Oct 2026 07:16:28 +0800",
+     "summary": "AI交易承压！ 昨夜今晨，受国际油价上涨及美国消费者物价指数（CPI）高于预期影响，市场对美联储加息的预期再度升温， 甲骨文 、CoreWeave等对借贷成本上升敏感的 人工智能 股票遭受重挫。 截至美股收盘，纳指大跌1.88%，标普500指数跌1.11%，道指微跌0.09%。值得注意的是，芯片股集体重挫，费城 半导体 指数大跌524点，跌幅达4.30%，该指数已连续第六个交易日走低，为2025年5月以来最长连跌。 个股方面， 甲骨文 下跌8.83%，AI基础设施公司CoreWeave和Nebius分别暴跌15.46%和10.08%。此外， 戴尔科技 和 慧与 分别大跌11.27%和8.20%",
+     "source": "东方财富资讯",
+     "zh": "清晨跳水超500点！英伟达、甲骨文、美光、海力士集体大跌！"
     },
     {
      "title": "Educational Development outlines 2 main-season and 2 mid-season product intros each year as sales decline narrows to 11%",
@@ -2367,46 +2423,6 @@
      "summary": "新华财经纽约10月14日电（记者刘亚南）美国联邦储备委员会14日发布的全国经济形势调查报告显示，从8月25日到10月5日的最近一个报告期内，高油价让美国面临广泛物价上涨压力，经济增长依赖制造业推动，就业市场整体保持稳定。 根据美国“联邦储备法”，美国全国划分为12个联邦储备区，每区设立一家联邦储备银行。该报告根据12家联邦储备银行的最新调查结果编制而成，也称“褐皮书”。 报告说，3个联邦储备区...",
      "source": "经济观察网",
      "zh": "【环球财经】美联储“褐皮书”显示高油价对经济产生广泛影响"
-    },
-    {
-     "title": "【财经分析】欧洲城市租房压力为何持续上升？",
-     "link": "http://www.eeo.com.cn/2026/1015/1064659.shtml",
-     "pubDate": "Thu, 15 Oct 2026 07:13:11 +0800",
-     "summary": "新华财经布鲁塞尔10月15日电（记者黄晓兰）西班牙住房危机近期引发持续的社会抗议。9月下旬，马德里一名87岁老人被驱离长期居住的住所，随后住院并去世，引发公众对住房问题的广泛关注。抗议活动随后蔓延至其他城市...",
-     "source": "经济观察网",
-     "zh": "【财经分析】欧洲城市租房压力为何持续上升？"
-    },
-    {
-     "title": "【赓续长征精神 奋进复兴征程】遵义闯新路",
-     "link": "http://www.eeo.com.cn/2026/1015/1064658.shtml",
-     "pubDate": "Thu, 15 Oct 2026 07:13:11 +0800",
-     "summary": "9月28日拍摄的遵义会议会址。经过历时半年的保护性修缮，遵义会议会址重新对外开放，为公众提供更丰富、更优质的红色文化服务。本报记者 吴秉泽摄<...",
-     "source": "经济观察网",
-     "zh": "【赓续长征精神 奋进复兴征程】遵义闯新路"
-    },
-    {
-     "title": "一泓碧水何以长清——解码广州市天河区车陂涌系统治理实践",
-     "link": "http://www.eeo.com.cn/2026/1015/1064657.shtml",
-     "pubDate": "Thu, 15 Oct 2026 07:13:11 +0800",
-     "summary": "图① 广州市天河区车陂涌上游，潺潺河水穿过科韵公园。（资料图片） 图② 广州车陂端午龙舟盛会活动现场。林冰莹摄 岭南秋意渐浓，广...",
-     "source": "经济观察网",
-     "zh": "一泓碧水何以长清——解码广州市天河区车陂涌系统治理实践"
-    },
-    {
-     "title": "成都新津区——“以赛营城”做大文旅蛋糕",
-     "link": "http://www.eeo.com.cn/2026/1015/1064655.shtml",
-     "pubDate": "Thu, 15 Oct 2026 07:13:11 +0800",
-     "summary": "图为2026年成都赛艇公开赛活动现场。（资料图片） 金秋十月，四川省成都市新津区南河碧波上，桨叶翻飞，百艇逐浪。汇集北京大学、清华大学、...",
-     "source": "经济观察网",
-     "zh": "成都新津区——“以赛营城”做大文旅蛋糕"
-    },
-    {
-     "title": "【环球财经】伦敦金属交易所基本金属14日全线下跌",
-     "link": "http://www.eeo.com.cn/2026/1015/1064654.shtml",
-     "pubDate": "Thu, 15 Oct 2026 07:13:11 +0800",
-     "summary": "新华财经伦敦10月14日电（记者张亚东）伦敦金属交易所基本金属价格14日收盘时全线下跌。 3个月期铜收于每吨14436.00美元，比前一交易日的收盘价每吨下跌119.50美元，跌幅为0.82%。 3个月期铝收于每吨2989.00美元，比前一交易日的收盘价每吨下跌45.50美元，跌幅为1.50%。 3个月期镍收于每吨15530.00美元，比前一交易日的收盘价每吨下跌5.00美元，跌幅为0.03%。 3个月期铅收于每吨1901.50美元，比...",
-     "source": "经济观察网",
-     "zh": "【环球财经】伦敦金属交易所基本金属14日全线下跌"
     },
     {
      "title": "US floats unfreezing some Russian assets to restart Ukraine peace talks",
@@ -2495,22 +2511,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Edison wins dismissal of some key claims in Palisades Fire lawsuit"
-    },
-    {
-     "title": "You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
-     "link": "https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 22:25:00 GMT",
-     "summary": "For most of U.S. history, an all-stock and a 60-40 portfolio have run neck-and-neck for trailing 30-year returns.",
-     "source": "MarketWatch",
-     "zh": "You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go."
-    },
-    {
-     "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
-     "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 22:24:00 GMT",
-     "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
-     "source": "MarketWatch",
-     "zh": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?"
     }
    ]
   },

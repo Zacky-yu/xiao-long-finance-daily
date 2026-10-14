@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/14 21:51:59",
+ "generated_at": "2026/10/14 22:12:04",
  "recent_days": 7,
  "industries": [
   {
@@ -15,14 +15,6 @@
      "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 腾讯，终于还是迈出了这一步。 智东西10月14日报道，今天，腾讯宣布企业微信与旗下AI办公产品WorkBuddy联合发布新版本，双方完成深度融合。 升级后，WorkBuddy客户端可在企业授权范围内调用企业微信的消息、文档、会议、微盘等多项能力，完成深度分析、复杂文档处理等任务。 同时，WorkBuddy也以对话机器人的身份进入企业微信通讯录列表，用户在企业微信中即可调用WorkBuddy的相关能力，并可以结合企微AI助手“大圆”完成各类任务。 智东西也是第一时间更新了版本，并对新功能进行了测试。 实测发现，WorkBu",
      "source": "智东西",
      "zh": "腾讯WorkBuddy、企业微信联手了！实测后：爽！"
-    },
-    {
-     "title": "5 Fun Projects for LLM Inference Engineering",
-     "link": "https://www.kdnuggets.com/5-fun-projects-for-llm-inference-engineering",
-     "pubDate": "Wed, 14 Oct 2026 12:00:00 +0000",
-     "summary": "Want to understand what makes LLMs fast? Build the systems yourself.",
-     "source": "KDnuggets",
-     "zh": "5 Fun Projects for LLM Inference Engineering"
     },
     {
      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
@@ -247,6 +239,14 @@
      "summary": "智东西 作者 | 王涵 编辑 | 漠影 国庆前后，Seedance、可灵和Vidu的连续动作，让中国视频模型的竞争除了一如既往全球遥遥领先，还以三足鼎立之势走出几条路径： 有人把重点放在内容生产的工业化效率，有人押注专业制作所需要的控制力，也有人试图把人物、镜头、视效的表现力，和更低的试错成本放进同一件产品里。 这种路径分化，很快体现在具体产品发布上。 9月28日，可灵AI官宣新一代视频生成模型Kling 4.0；10月8日，生数发布新一代视频生成旗舰模型首个预览版本Vidu Q4 Preview，0.09元/秒起，进一步把生成效果和性价比推到极致。 模型发布之后，不少专业的视频导演进行了深度",
      "source": "智东西",
      "zh": "中国视频模型Top 3，开始分道而战"
+    },
+    {
+     "title": "刚刚，全球首台「真·大模型原生Agent手机」来了！",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652734258&idx=1&sn=fa8d7682a4ed1cd7c18bdb623dc74769",
+     "pubDate": "Tue, 13 Oct 2026 21:22:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "刚刚，全球首台「真·大模型原生Agent手机」来了！"
     }
    ]
   },
@@ -647,14 +647,6 @@
      "summary": "A hand attached to the end of an arm is a given for most humans, but what if robots didn’t have to play by the same rules as we do? Researchers from ETH Zurich have turned an off-the-shelf robotic hand into a completely self-contained robot that walks on its fingertips while using those same fingers",
      "source": "IEEE Spectrum 机器人",
      "zh": "This Disembodied Hand Is All the Robot You Need"
-    },
-    {
-     "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
-     "link": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
-     "pubDate": "Wed, 07 Oct 2026 13:49:48 +0000",
-     "summary": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot. What you will learn about: Why humanoid",
-     "source": "IEEE Spectrum 机器人",
-     "zh": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction"
     }
    ]
   },
@@ -865,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Nord Stream Sabotage Trial Begins With Explosive Allegations Against Ukraine",
+     "link": "https://oilprice.com/Geopolitics/Europe/Nord-Stream-Sabotage-Trial-Begins-With-Explosive-Allegations-Against-Ukraine.html",
+     "pubDate": "Wed, 14 Oct 2026 09:00:00 -0500",
+     "summary": "After four years of speculation, leaks, and briefings by anonymous sources, the world is finally about to hear evidence given publicly under oath in a German courtroom about how the Nord Stream gas pipelines were blown up -- in a case that could prove politically explosive. German prosecutors have i",
+     "source": "OilPrice",
+     "zh": "Nord Stream Sabotage Trial Begins With Explosive Allegations Against Ukraine"
+    },
+    {
      "title": "Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS",
      "link": "https://www.pv-magazine.com/2026/10/14/tunisia-launches-tender-for-50-mw-solar-pv-plant-with-10-mw-20-mwh-bess/",
      "pubDate": "Wed, 14 Oct 2026 13:42:24 +0000",
@@ -1015,14 +1015,6 @@
      "summary": "South Africa continues its push for energy storage capacity, with utility and grid operator Eskom issuing a call to work on a 21GWh pumped hydro energy storage (PHES) project.",
      "source": "Energy Storage News",
      "zh": "South Africa’s state utility Eskom opens selection process for 1.5GW/21GWh pumped hydro plant"
-    },
-    {
-     "title": "Taiwan Commits Up to $4.4 Billion to Alaska LNG Megaproject",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Taiwan-Commits-Up-to-44-Billion-to-Alaska-LNG-Megaproject.html",
-     "pubDate": "Wed, 14 Oct 2026 03:15:00 -0500",
-     "summary": "Taiwan has agreed to invest up to $4.4 billion in the Alaska LNG project and commit to buying 30% of its output over a period of 20 years, President Trump said, as quoted by AFP, during a campaign rally in Alaska. Earlier today, Taiwan confirmed its intention to spend over $4 billion on the Alaska L",
-     "source": "OilPrice",
-     "zh": "Taiwan Commits Up to $4.4 Billion to Alaska LNG Megaproject"
     },
     {
      "title": "Nuclear-powered data centers? It’s a tough sell in Utah coal country.",
@@ -1313,6 +1305,14 @@
    "total": 6,
    "items": [
     {
+     "title": "Cosmic 'jellyfish' wows skywatchers after SpaceX launch | Space photo of the day for Oct. 14, 2026",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/cosmic-jellyfish-wows-skywatchers-after-spacex-launch-space-photo-of-the-day-for-oct-14-2026",
+     "pubDate": "Wed, 14 Oct 2026 14:00:00 +0000",
+     "summary": "A \"jellyfish\" in the early-morning sky created by SpaceX's launch of the CRS-35 cargo mission on Oct. 13, 2026.",
+     "source": "Space.com",
+     "zh": "Cosmic 'jellyfish' wows skywatchers after SpaceX launch | Space photo of the day for Oct. 14, 2026"
+    },
+    {
      "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
      "link": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
      "pubDate": "Wed, 14 Oct 2026 13:32:25 +0000",
@@ -1423,14 +1423,6 @@
      "summary": "This iconic spaceship will now live long and prosper in its brand-new Star Trek Tour home.",
      "source": "Space.com",
      "zh": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York"
-    },
-    {
-     "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
-     "link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
-     "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
-     "summary": "The sophomore season of \"Star Trek: Starfleet Academy\" will warp back to the small screen in March 2027 when the limited series returns for its final season on Paramount+.",
-     "source": "Space.com",
-     "zh": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier"
     },
     {
      "title": "Comparing Off-World Rover Driving Distances",
@@ -1561,6 +1553,22 @@
    "total": 5,
    "items": [
     {
+     "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
+     "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
+     "pubDate": "Wed, 14 Oct 2026 10:00:10 -0400",
+     "summary": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and breach simulation can help close these gaps. [...]",
+     "source": "BleepingComputer",
+     "zh": "The Blind Spots of Agentic Pentesting and How to Close Them"
+    },
+    {
+     "title": "Virtual Event Today: Zero Trust Strategies Summit",
+     "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
+     "pubDate": "Wed, 14 Oct 2026 13:56:36 +0000",
+     "summary": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Virtual Event Today: Zero Trust Strategies Summit appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Virtual Event Today: Zero Trust Strategies Summit"
+    },
+    {
      "title": "Global takedown hits network behind 1 billion phishing messages",
      "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
      "pubDate": "Wed, 14 Oct 2026 09:12:52 -0400",
@@ -1689,14 +1697,6 @@
      "zh": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day"
     },
     {
-     "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
-     "link": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
-     "pubDate": "Wed, 14 Oct 2026 06:12:10 +0000",
-     "summary": "The bugs could allow attackers to invoke internal operations and execute code, completely compromising the system. The post SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities"
-    },
-    {
      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
      "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
      "pubDate": "Wed, 14 Oct 2026 05:00:00 GMT",
@@ -1727,14 +1727,6 @@
      "summary": "The scary surprises in the largest security update ever include security bypasses and unauthenticated RCEs.",
      "source": "Dark Reading",
      "zh": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday"
-    },
-    {
-     "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
-     "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-     "pubDate": "Tue, 13 Oct 2026 17:33:26 -0400",
-     "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
-     "source": "BleepingComputer",
-     "zh": "Ghostscript flaw lets hackers hijack servers via PDF uploads"
     },
     {
      "title": "North Korea Phishes Ukrainians for War Intel",
@@ -1776,6 +1768,54 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Sources: the EU is negotiating with China to lift sanctions on an unnamed Chinese company in exchange for China lifting sanctions on a German ASML supplier (Bloomberg)",
+     "link": "https://www.techmeme.com/261014/p26#a261014p26",
+     "pubDate": "Wed, 14 Oct 2026 10:05:01 -0400",
+     "summary": "Bloomberg : Sources: the EU is negotiating with China to lift sanctions on an unnamed Chinese company in exchange for China lifting sanctions on a German ASML supplier &nbsp; &mdash;&nbsp; The European Union is in talks with China to secure relief from sanctions that threatened the survival of Sindl",
+     "source": "Techmeme",
+     "zh": "Sources: the EU is negotiating with China to lift sanctions on an unnamed Chinese company in exchange for China lifting sanctions on a German ASML supplier (Bloomberg)"
+    },
+    {
+     "title": "消息称 Nothing 将推两款智能眼镜：音频版、摄像头版，后者支持 ChatGPT",
+     "link": "https://www.ithome.com/1/013/112.htm",
+     "pubDate": "Wed, 14 Oct 2026 14:01:41 GMT",
+     "summary": "IT之家 10 月 14 日消息，据消息人士 Roland Quandt 今日透露，Nothing 将推出两款智能眼镜。其中一款主打音频功能，另一款配备摄像头。 据介绍，Nothing 的音频版智能眼镜支持播放音乐、通话，用户可通过眼镜与手机的语音助手交互。该产品将配备光致变色镜片，可在阳光下自动变暗、室内自动变亮。 同时，该公司还计划推出另一款智能眼镜。该产品将拥有摄像头， 支持 ChatGPT 、 翻译功能 。 IT之家了解到，彭博社此前报道称，Nothing 的智能眼镜将通过手机和云端处理 AI 任务，不会配备 AR 显示屏。",
+     "source": "IT之家",
+     "zh": "消息称 Nothing 将推两款智能眼镜：音频版、摄像头版，后者支持 ChatGPT"
+    },
+    {
+     "title": "AI infrastructure startup Modal raised a $750M Series D led by Accel at a $15.75B post-money valuation, taking its total funding to $1.2B, and passes $1B ARR (Chris Metinko/Axios)",
+     "link": "https://www.techmeme.com/261014/p25#a261014p25",
+     "pubDate": "Wed, 14 Oct 2026 10:00:41 -0400",
+     "summary": "Chris Metinko / Axios : AI infrastructure startup Modal raised a $750M Series D led by Accel at a $15.75B post-money valuation, taking its total funding to $1.2B, and passes $1B ARR &nbsp; &mdash;&nbsp; AI infrastructure startup Modal raised a $750 million Series D at a $15.75 billion post-money val",
+     "source": "Techmeme",
+     "zh": "AI infrastructure startup Modal raised a $750M Series D led by Accel at a $15.75B post-money valuation, taking its total funding to $1.2B, and passes $1B ARR (Chris Metinko/Axios)"
+    },
+    {
+     "title": "PS5 越狱商店 Overdrive 被索尼勒令关停后，克隆版本数小时内重新上线",
+     "link": "https://www.ithome.com/1/013/111.htm",
+     "pubDate": "Wed, 14 Oct 2026 14:00:12 GMT",
+     "summary": "IT之家 10 月 14 日消息，索尼 SIE 已开始对 PS5 越狱开发者采取法律行动，一个名为 Overdrive 的游戏商店已被关闭。不过，原项目关闭后，GitHub 上随即又出现了两个新的仓库，分别为原项目的分支版本和使用不同账号发布的克隆版本。 X 用户 Oliver Darko 反馈称，索尼互动娱乐的律师已向 Overdrive 开发者发送停止侵权函，该商店目前已下架，其 GitHub 页面显示 404 错误。 IT之家注：Overdrive 是一个面向已越狱 PS5 主机的非官方游戏商店，于 10 月 9 日在 GitHub 上发布，提供超过 1600 款 PS4 和 PS5 游",
+     "source": "IT之家",
+     "zh": "PS5 越狱商店 Overdrive 被索尼勒令关停后，克隆版本数小时内重新上线"
+    },
+    {
+     "title": "NTangible bets it can predict how athletes will perform under pressure",
+     "link": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
+     "pubDate": "Wed, 14 Oct 2026 14:00:00 +0000",
+     "summary": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
+     "source": "TechCrunch",
+     "zh": "NTangible bets it can predict how athletes will perform under pressure"
+    },
+    {
+     "title": "Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies",
+     "link": "https://www.wired.com/story/climate-change-is-getting-worse-el-nino-looms/",
+     "pubDate": "Wed, 14 Oct 2026 14:00:00 +0000",
+     "summary": "Seven of 16 planetary vital signs are in their most extreme state ever recorded, and El Niño is here to make matters even worse.",
+     "source": "WIRED",
+     "zh": "Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies"
+    },
     {
      "title": "奇瑞捷途全新旅行者 7 上市 30 分钟大定订单突破 1 万台，超级焕新价 12.59 万元起",
      "link": "https://www.ithome.com/1/013/110.htm",
@@ -1889,14 +1929,6 @@
      "zh": "想退费却收到一个850元的炒锅？中公教育被曝“以物抵债”，学员怒了：一堆标了高价的破烂"
     },
     {
-     "title": "消息称苹果 AirPods Pro 4 耳机将提供双版本，金属高端款首发美国",
-     "link": "https://www.ithome.com/1/013/105.htm",
-     "pubDate": "Wed, 14 Oct 2026 13:26:33 GMT",
-     "summary": "IT之家 10 月 14 日消息，X 平台爆料人士 Early Apple 今日发文称，苹果考虑为 AirPods Pro 4 耳机采用双版本策略，类似 AirPods 4 和 AirPods 5 定价结构。 其中高端版本将采用金属质感外壳 ，与历代产品有所不同， 且首发仅在美国上市 。 作为参考， 苹果历代 AirPods Pro 耳机推出时通常仅有一个版本 。此外IT之家注意到，AirPods 4 拥有两个版本：不支持主动降噪、定价 999 元；支持主动降噪，1399 元。 而到了 AirPods 5，两个版本都支持主动降噪，区别在于无线充电支持、轻扫调节音量，价格也来到 999 元 / ",
-     "source": "IT之家",
-     "zh": "消息称苹果 AirPods Pro 4 耳机将提供双版本，金属高端款首发美国"
-    },
-    {
      "title": "Booking Holdings launches Vayo, a travel startup that uses AI agents to track booking confirmations, price drops, and more, with a planned $100M investment (Todd Bishop/GeekWire)",
      "link": "https://www.techmeme.com/261014/p21#a261014p21",
      "pubDate": "Wed, 14 Oct 2026 09:25:01 -0400",
@@ -1905,18 +1937,10 @@
      "zh": "Booking Holdings launches Vayo, a travel startup that uses AI agents to track booking confirmations, price drops, and more, with a planned $100M investment (Todd Bishop/GeekWire)"
     },
     {
-     "title": "2022 年以来最大一轮裁员：Netflix 宣布全球裁员约 6%，涉及约 1000 个岗位",
-     "link": "https://www.ithome.com/1/013/104.htm",
-     "pubDate": "Wed, 14 Oct 2026 13:22:38 GMT",
-     "summary": "IT之家 10 月 14 日消息，据华尔街日报消息， Netflix 宣布在全球范围内裁员约 6% ，涉及约 1000 个岗位。 Netflix 联席 CEO 格雷格 · 彼得斯（Greg Peters）与泰德 · 萨兰多斯（Ted Sarandos）在当地时间周三（10 月 14 日）早间致员工的内部邮件中透露，此次裁减将主要集中在公司的产品、技术、法务以及人力资源部门。 IT之家注意到，这是该公司自 2022 年以来规模最大的一轮裁员，当时该公司受业务增速放缓及订阅用户流失影响，削减约 150 个岗位（约占当时员工总数的 2%）。 自去年竞购华纳兄弟失利后，Netflix 面临增长放缓及用",
-     "source": "IT之家",
-     "zh": "2022 年以来最大一轮裁员：Netflix 宣布全球裁员约 6%，涉及约 1000 个岗位"
-    },
-    {
      "title": "Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff",
      "link": "https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/",
      "pubDate": "Wed, 14 Oct 2026 13:20:39 +0000",
-     "summary": "Article URL: https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/ Comments URL: https://news.ycombinator.com/item?id=50087336 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/ Comments URL: https://news.ycombinator.com/item?id=50087336 Points: 22 # Comments: 4",
      "source": "Hacker News",
      "zh": "Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff"
     },
@@ -1924,25 +1948,9 @@
      "title": "Switzerland proposes banning profiling-based ads to minors",
      "link": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
      "pubDate": "Wed, 14 Oct 2026 13:20:02 +0000",
-     "summary": "Article URL: https://www.admin.ch/en/newnsb/NMn5s24l8NjQ Comments URL: https://news.ycombinator.com/item?id=50087328 Points: 51 # Comments: 26",
+     "summary": "Article URL: https://www.admin.ch/en/newnsb/NMn5s24l8NjQ Comments URL: https://news.ycombinator.com/item?id=50087328 Points: 107 # Comments: 57",
      "source": "Hacker News",
      "zh": "Switzerland proposes banning profiling-based ads to minors"
-    },
-    {
-     "title": "Amazon Alexa Tablet 12 Pro review: gorgeous screen, Android apps, and nice design and build quality, but Amazon&apos;s bloatware is pervasive and Alexa+ is subpar (David Pierce/The Verge)",
-     "link": "https://www.techmeme.com/261014/p20#a261014p20",
-     "pubDate": "Wed, 14 Oct 2026 09:20:02 -0400",
-     "summary": "David Pierce / The Verge : Amazon Alexa Tablet 12 Pro review: gorgeous screen, Android apps, and nice design and build quality, but Amazon's bloatware is pervasive and Alexa+ is subpar &nbsp; &mdash;&nbsp; We have to talk about this screen.&nbsp; It's the first thing you notice, and maybe the only t",
-     "source": "Techmeme",
-     "zh": "Amazon Alexa Tablet 12 Pro review: gorgeous screen, Android apps, and nice design and build quality, but Amazon&apos;s bloatware is pervasive and Alexa+ is subpar (David Pierce/The Verge)"
-    },
-    {
-     "title": "Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261014/p19#a261014p19",
-     "pubDate": "Wed, 14 Oct 2026 09:11:39 -0400",
-     "summary": "Wall Street Journal : Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth &nbsp; &mdash;&nbsp; Job cuts affect about 1,000 positions and come as the company struggles with slowing growth&nbsp; &mda",
-     "source": "Techmeme",
-     "zh": "Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth (Wall Street Journal)"
     },
     {
      "title": "Formlabs Has a 3D Printer for Normies",
@@ -1956,7 +1964,7 @@
      "title": "RIP Eric Binnion",
      "link": "https://ma.tt/2026/10/rip-eric/",
      "pubDate": "Wed, 14 Oct 2026 12:58:32 +0000",
-     "summary": "Article URL: https://ma.tt/2026/10/rip-eric/ Comments URL: https://news.ycombinator.com/item?id=50087044 Points: 20 # Comments: 5",
+     "summary": "Article URL: https://ma.tt/2026/10/rip-eric/ Comments URL: https://news.ycombinator.com/item?id=50087044 Points: 30 # Comments: 12",
      "source": "Hacker News",
      "zh": "RIP Eric Binnion"
     },
@@ -1972,7 +1980,7 @@
      "title": "The Aaronson Oracle",
      "link": "https://aaronsonoracle.com/",
      "pubDate": "Wed, 14 Oct 2026 12:16:35 +0000",
-     "summary": "Article URL: https://aaronsonoracle.com/ Comments URL: https://news.ycombinator.com/item?id=50086484 Points: 17 # Comments: 17",
+     "summary": "Article URL: https://aaronsonoracle.com/ Comments URL: https://news.ycombinator.com/item?id=50086484 Points: 20 # Comments: 20",
      "source": "Hacker News",
      "zh": "The Aaronson Oracle"
     },
@@ -1980,7 +1988,7 @@
      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
      "link": "https://github.com/timescale/pg_vectorsearch",
      "pubDate": "Wed, 14 Oct 2026 11:47:53 +0000",
-     "summary": "Article URL: https://github.com/timescale/pg_vectorsearch Comments URL: https://news.ycombinator.com/item?id=50086165 Points: 52 # Comments: 18",
+     "summary": "Article URL: https://github.com/timescale/pg_vectorsearch Comments URL: https://news.ycombinator.com/item?id=50086165 Points: 62 # Comments: 21",
      "source": "Hacker News",
      "zh": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW"
     },
@@ -1999,22 +2007,6 @@
      "summary": "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure.",
      "source": "Ars Technica",
      "zh": "The Internet’s undersea backbone is slipping into the danger zone"
-    },
-    {
-     "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-     "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-     "pubDate": "Wed, 14 Oct 2026 11:00:30 +0000",
-     "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
-     "source": "Ars Technica",
-     "zh": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say"
-    },
-    {
-     "title": "My Friend Has No Soul",
-     "link": "https://www.wired.com/story/my-friend-has-no-soul/",
-     "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
-     "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-     "source": "WIRED",
-     "zh": "My Friend Has No Soul"
     }
    ]
   },
@@ -2024,6 +2016,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Nothing reportedly launching two pairs of smart glasses, one with barely any AI",
+     "link": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
+     "pubDate": "Wed, 14 Oct 2026 14:05:00 +0000",
+     "summary": "A reliable source says that Nothing is building out its own AI smart glasses that feature ChatGPT integration, a camera, and two very different models. more…",
+     "source": "9to5Google",
+     "zh": "Nothing reportedly launching two pairs of smart glasses, one with barely any AI"
+    },
+    {
+     "title": "Wallpaper Wednesday: More great phone wallpapers for all to share (October 14)",
+     "link": "https://www.androidauthority.com/wallpaper-wednesday-october-14-2026-3722206/",
+     "pubDate": "Wed, 14 Oct 2026 14:00:22 +0000",
+     "summary": "Here is a weekly selection of Android wallpapers created by our readers and members of the Android Authority team!",
+     "source": "Android Authority",
+     "zh": "Wallpaper Wednesday: More great phone wallpapers for all to share (October 14)"
+    },
+    {
+     "title": "WhatsApp adds a guest option for joining calls without an account",
+     "link": "https://www.engadget.com/2286108/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/",
+     "pubDate": "Wed, 14 Oct 2026 14:00:00 +0000",
+     "summary": "It's also working on calendar integrations for later this year.",
+     "source": "Engadget",
+     "zh": "WhatsApp adds a guest option for joining calls without an account"
+    },
     {
      "title": "Google’s new ‘Shop devices’ tab sells Pixel and Samsung Galaxy devices side by side",
      "link": "https://9to5google.com/2026/10/14/google-store-shop-devices-pixel-samsung-galaxy/",
@@ -2153,14 +2169,6 @@
      "zh": "8BitDo Ultimate 2C review: A fabulous Switch 2 controller at a fraction of the price"
     },
     {
-     "title": "Here’s your first look at smarter album browsing in Google Photos",
-     "link": "https://www.androidauthority.com/google-photos-filter-album-people-pet-first-look-3723123/",
-     "pubDate": "Wed, 14 Oct 2026 11:23:53 +0000",
-     "summary": "Your favorite faces might soon be just a few taps away.",
-     "source": "Android Authority",
-     "zh": "Here’s your first look at smarter album browsing in Google Photos"
-    },
-    {
      "title": "Beat the iPhone Duo pre-order rush with Apple's Get Ready tool",
      "link": "https://www.engadget.com/2284584/beat-preorder-iphone-duo-rush-apple-get-ready-tool/",
      "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
@@ -2175,14 +2183,6 @@
      "summary": "Last week, we spotted the vivo X500 E on Bluetooth SIG's website with model designation V2656. Now, it has appeared on Google Play Console with key specs and an image. The image included in the Google Play Console listing reveals the vivo X500 E has a flat display with a 2,750x1,260-pixel resolution",
      "source": "GSMArena",
      "zh": "vivo X500 E's design and key specs revealed through Google Play Console listing"
-    },
-    {
-     "title": "People are hating on Apple Music's redesigned black-and-white logo",
-     "link": "https://www.engadget.com/2286289/people-are-hating-on-apple-music-redesigned-black-and-white-logo/",
-     "pubDate": "Wed, 14 Oct 2026 10:06:55 +0000",
-     "summary": "Apple Music may be changing its iconic logo to a more basic black and white version.",
-     "source": "Engadget",
-     "zh": "People are hating on Apple Music's redesigned black-and-white logo"
     },
     {
      "title": "Samsung Health update improves Sleep Coaching and Running Coach",
@@ -2255,14 +2255,6 @@
      "summary": "There's also a new \"Soft Haze\" film to go alongside it for even dreamier vibes.",
      "source": "DPReview",
      "zh": "The Instax Square 2 gives instant film shooters a switch to change the mood"
-    },
-    {
-     "title": "Apple challenges Taction’s $5.7B patent verdict, says damages were based on ‘guesswork’",
-     "link": "https://9to5mac.com/2026/10/13/apple-challenges-tactions-5-7b-patent-verdict-says-damages-were-based-on-guesswork/",
-     "pubDate": "Wed, 14 Oct 2026 00:56:57 +0000",
-     "summary": "Apple is asking a federal judge to overturn a $5.7 billion verdict in a patent infringement lawsuit brought by Taction Technology over the Taptic Engine used in iPhones and Apple Watches. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple challenges Taction’s $5.7B patent verdict, says damages were based on ‘guesswork’"
     }
    ]
   },
@@ -2273,6 +2265,14 @@
    "total": 13,
    "items": [
     {
+     "title": "LSEG in talks over $3.5bn deal for credit specialist Octus",
+     "link": "https://www.finextra.com/newsarticle/48582/lseg-in-talks-over-35bn-deal-for-credit-specialist-octus?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 14 Oct 2026 14:53:00 GMT",
+     "summary": "The London Stock Exchange Group has confirmed that it is in talks to buy credit specialist Octus from private equity group Permira in a $3.5 billion deal.",
+     "source": "Finextra",
+     "zh": "LSEG in talks over $3.5bn deal for credit specialist Octus"
+    },
+    {
      "title": "Kraken parent to buy European bank Saldo",
      "link": "https://www.finextra.com/newsarticle/48581/kraken-parent-to-buy-european-bank-saldo?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Wed, 14 Oct 2026 14:35:00 GMT",
@@ -2281,12 +2281,172 @@
      "zh": "Kraken parent to buy European bank Saldo"
     },
     {
-     "title": "Honeywell launches AI platform with Nvidia, Dell for building automation",
-     "link": "https://seekingalpha.com/news/4652939-honeywell-launches-ai-platform-with-nvidia-dell-for-building-automation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 09:46:27 -0400",
+     "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+     "pubDate": "Wed, 14 Oct 2026 14:07:44 GMT",
+     "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+     "source": "CNBC",
+     "zh": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty"
+    },
+    {
+     "title": "Social Security’s COLA will be 3.6% in 2027 as inflation persists",
+     "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 14:07:00 GMT",
+     "summary": "The increase is aimed at helping about 68 million beneficiaries keep pace with inflation.",
+     "source": "MarketWatch",
+     "zh": "Social Security’s COLA will be 3.6% in 2027 as inflation persists"
+    },
+    {
+     "title": "Netflix is laying off roughly 6% of its workforce",
+     "link": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+     "pubDate": "Wed, 14 Oct 2026 14:06:57 GMT",
+     "summary": "Netflix will lay off roughly 6% of its workforce, according to a memo obtained by CNBC.",
+     "source": "CNBC",
+     "zh": "Netflix is laying off roughly 6% of its workforce"
+    },
+    {
+     "title": "AI costs fall faster than transformative technologies",
+     "link": "https://seekingalpha.com/news/4652946-ai-costs-fall-faster-than-transformative-technologies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 10:05:37 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Honeywell launches AI platform with Nvidia, Dell for building automation"
+     "zh": "AI costs fall faster than transformative technologies"
+    },
+    {
+     "title": "Here are the major earnings after the close Wednesday",
+     "link": "https://seekingalpha.com/news/4652542-here-are-the-major-earnings-after-the-close-wednesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 10:00:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Here are the major earnings after the close Wednesday"
+    },
+    {
+     "title": "美股三大指数走势分化 纳指跌近1% 现货黄金失守4100美元/盎司",
+     "link": "http://finance.eastmoney.com/news/1345,202610143895720794.html",
+     "pubDate": "Wed, 14 Oct 2026 21:59:14 +0800",
+     "summary": "10月14日，美股三大指数走势分化，截至发稿，道指涨0.10%，纳指跌0.82%，标普500指数跌0.58%。 商品市场方面，国际金价走低，截至发稿，现货 黄金 跌近2%，失守4100美元/盎司。 全球要闻 美国9月CPI高于预期 10月加息押注升温！ 美国9月消费者价格指数（CPI）同比增长3.7%，预估为3.6%，前值为3.4%。9月CPI环比增长0.6%，预估0.6%。美国9月核心CPI同比增长2.6%，预估为2.5%，前值为2.4%。9月核心CPI环比增长0.3%，预估为0.2%，前值为0.3%。 以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性 据以色列第12频道电视台13日报道，以色",
+     "source": "东方财富股票",
+     "zh": "美股三大指数走势分化 纳指跌近1% 现货黄金失守4100美元/盎司"
+    },
+    {
+     "title": "标普500银行指数触及四个多月低点",
+     "link": "http://finance.eastmoney.com/news/11440,202610143895757264.html",
+     "pubDate": "Wed, 14 Oct 2026 21:59:14 +0800",
+     "summary": "标普500 银行 指数触及四个多月低点，最新下跌1.3%。",
+     "source": "东方财富股票",
+     "zh": "标普500银行指数触及四个多月低点"
+    },
+    {
+     "title": "PC Connection names Matt Zafirovski president and COO",
+     "link": "https://seekingalpha.com/news/4652942-pc-connection-names-matt-zafirovski-president-and-coo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 09:58:58 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "PC Connection names Matt Zafirovski president and COO"
+    },
+    {
+     "title": "U.S. equities trade lower after the latest CPI inflation report",
+     "link": "https://seekingalpha.com/news/4652940-us-equities-trade-lower-after-the-latest-cpi-inflation-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 09:58:42 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "U.S. equities trade lower after the latest CPI inflation report"
+    },
+    {
+     "title": "ESG典型案例|研发投入连续多年增长 华工科技打造激光行业可持续发展样本",
+     "link": "http://stock.eastmoney.com/news/11219,202610143895756866.html",
+     "pubDate": "Wed, 14 Oct 2026 21:58:20 +0800",
+     "summary": "当 人工智能 正在加速重塑人类工作生活的方方面面，中国科技企业任重道远。 近年来， 华工科技 将ESG深度融入“创新驱动+全球化”两大战略，沿着“装备智能化、产线自动化、工厂智慧化”路径，把环境、社会与治理责任嵌入研发、制造、运营全链条。 华工科技 董事长马新强在《2025年度ESG年度报告》中表示，“十五五”开局之年， 华工科技 在新阶段中坚持树立起系统思维、逻辑思维、数字思维，坚守“清晰目标+落地路径+实在成效”的执行准则，紧扣“创新驱动”与“全球化”两大核心战略，通过持续技术创新促进可持续发展，将业务可持续发展作为重中之重，一如既往融入AI潮流、践行ESG管治要求，为构建更加智能、美好的",
+     "source": "东方财富股票",
+     "zh": "ESG典型案例|研发投入连续多年增长 华工科技打造激光行业可持续发展样本"
+    },
+    {
+     "title": "清越科技欺诈发行、信披违法被罚1.7亿元！相关方先行赔付事项正在推进中",
+     "link": "http://stock.eastmoney.com/news/11134,202610143895756765.html",
+     "pubDate": "Wed, 14 Oct 2026 21:57:59 +0800",
+     "summary": "清越科技（ *ST清越 ，688496.SH）10月14日披露，公司于10月13日收到中国证监会下发的《行政处罚决定书》。证监会认定公司存在欺诈发行、信息披露违法行为，决定对公司罚款17188万元。 公司同日公告，经与相关方确认，先行赔付事项正在有序推进中。今年5月，其IPO保荐人及主承销商 广发证券 、审计机构立信会计师事务所、公司实际控制人高裕弟已公开声明，拟共同出资设立先行赔付专项基金，用于先行赔付适格投资者的投资损失。 此外，因公司股票连续20个交易日每日股票收盘价均低于1元，已于2026年9月10日触及交易类强制退市情形，公司股票自9月11日起停牌。同日公司收到上交所下发的《关于苏州",
+     "source": "东方财富股票",
+     "zh": "清越科技欺诈发行、信披违法被罚1.7亿元！相关方先行赔付事项正在推进中"
+    },
+    {
+     "title": "紫光股份预计前三季度归母净利润超过24.2亿元 同比增长逾72.38%",
+     "link": "http://stock.eastmoney.com/news/11215,202610143895756627.html",
+     "pubDate": "Wed, 14 Oct 2026 21:57:47 +0800",
+     "summary": "14日， 紫光股份 有限公司（ 紫光股份 ，000938.SZ）披露2026年前三季度业绩预告，公司预计期内核心盈利质量同比提升，股东回报能力增强。 紫光股份 披露，2026年前三季度，公司归属于上市公司股东的净利润预计达24.2亿元至30.6亿元，同比增长72.38%至117.97%；扣非后归母净利润为21.0亿元至27.4亿元，同比增长43.84%至87.68%；基本每股收益由上年同期的0.4908元提升至0.85至1.07元。 针对业绩变动原因，紫光股份解释称，预计前三季度归属于上市公司股东的净利润较上年同期大幅增长，主要基于以下多方面原因： 随着 人工智能 需求持续释放和应用场景加快渗",
+     "source": "东方财富股票",
+     "zh": "紫光股份预计前三季度归母净利润超过24.2亿元 同比增长逾72.38%"
+    },
+    {
+     "title": "美政府限制中国无人机 美警方先急了！下一个“烦恼”的会是谁？",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895756174.html",
+     "pubDate": "Wed, 14 Oct 2026 21:57:22 +0800",
+     "summary": "据美国全国公共广播电台（NPR）10月12日报道，美国对中国 无人机 的限制正在损害资金短缺的警察部门，由于预算紧张，一些部门不得不四处奔走，寻找途径来购买更昂贵的本土 无人机 。 报道援引美国执法 无人机 协会（ LED A）主席乔恩·比尔的观点写道，中国制造的无人机比美国无人机“领先几光年”。比尔介绍，大疆创新（DJI）的一款配备高分辨率热成像摄像头的无人机售价不到1万美元，美国无人机价格通常在2万到5万美元之间，性能还要逊色不少。 近年来，美国不断对中国无人机的进口和销售设置壁垒。去年12月，美国联邦 通信 委员会（FCC）将所有外国生产的无人机及关键部件纳入“受管制清单”。今年7月，F",
+     "source": "东方财富股票",
+     "zh": "美政府限制中国无人机 美警方先急了！下一个“烦恼”的会是谁？"
+    },
+    {
+     "title": "Entegris receives Buy rating on higher content in advanced semiconductor nodes: Truist",
+     "link": "https://seekingalpha.com/news/4652934-entegris-receives-buy-rating-on-higher-content-in-advanced-semiconductor-nodes-truist?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 09:54:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Entegris receives Buy rating on higher content in advanced semiconductor nodes: Truist"
+    },
+    {
+     "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+     "link": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
+     "pubDate": "Wed, 14 Oct 2026 13:54:42 GMT",
+     "summary": "With a 3.6% COLA for 2027, Social Security retirement benefit checks will go up by $75 per month, on average, the agency said.",
+     "source": "CNBC",
+     "zh": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027"
+    },
+    {
+     "title": "Equinor discovers oil near Oseberg field in North Sea",
+     "link": "https://seekingalpha.com/news/4652900-equinor-discovers-oil-near-oseberg-field-in-north-sea?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 09:54:22 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Equinor discovers oil near Oseberg field in North Sea"
+    },
+    {
+     "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+     "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+     "pubDate": "Wed, 14 Oct 2026 13:53:28 GMT",
+     "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
+     "source": "CNBC",
+     "zh": "Consumer prices rose 3.7% annually in September as gas prices skyrocket"
+    },
+    {
+     "title": "亿通科技：关于完成补选公司独立董事暨调整专门委员会委员的公告",
+     "link": "http://www.eeo.com.cn/2026/1014/1064548.shtml",
+     "pubDate": "Wed, 14 Oct 2026 21:52:25 +0800",
+     "summary": "证券日报网讯10月14日，亿通科技发布公告称，马津先生的任职资格和独立性经深圳证券交易所审核无异议后，公司于2026年10月14日召开2026年第二次临时股东会，审议通过了《关于补选马津先生为第九届董事会独立董事》的议案，同意选举马津先生为公司第九届董事会独立董事，同时，公司对部分专门委员会成员的调整正式生效，调整后的专门委员会委员任期自公司股东会审议通过之日起至第九届董事会任期届满之日止。 （编辑 吴越...",
+     "source": "经济观察网",
+     "zh": "亿通科技：关于完成补选公司独立董事暨调整专门委员会委员的公告"
+    },
+    {
+     "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+     "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 13:52:00 GMT",
+     "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
+     "source": "MarketWatch",
+     "zh": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine"
+    },
+    {
+     "title": "US inflation jumps to 3.7% as Iran war drives up prices",
+     "link": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
+     "pubDate": "Wed, 14 Oct 2026 13:51:24 GMT",
+     "summary": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
+     "source": "Financial Times",
+     "zh": "US inflation jumps to 3.7% as Iran war drives up prices"
+    },
+    {
+     "title": "10-year Treasury yield jumps as September core inflation comes in hotter than expected",
+     "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+     "pubDate": "Wed, 14 Oct 2026 13:48:01 GMT",
+     "summary": "Treasury yields moved higher after the latest inflation reading.",
+     "source": "CNBC",
+     "zh": "10-year Treasury yield jumps as September core inflation comes in hotter than expected"
     },
     {
      "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
@@ -2297,22 +2457,6 @@
      "zh": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth"
     },
     {
-     "title": "Consumer prices rose 3.7% annually in September as gas costs skyrocket",
-     "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-     "pubDate": "Wed, 14 Oct 2026 13:45:40 GMT",
-     "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
-     "source": "CNBC",
-     "zh": "Consumer prices rose 3.7% annually in September as gas costs skyrocket"
-    },
-    {
-     "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-     "link": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
-     "pubDate": "Wed, 14 Oct 2026 13:45:13 GMT",
-     "summary": "The Social Security Administration has announced a 3.6% cost-of-living adjustment for 2027.",
-     "source": "CNBC",
-     "zh": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027"
-    },
-    {
      "title": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
      "pubDate": "Wed, 14 Oct 2026 13:45:00 GMT",
@@ -2321,76 +2465,12 @@
      "zh": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?"
     },
     {
-     "title": "Netflix cutting workforce as engagement slows, competition grows -- WSJ",
-     "link": "https://seekingalpha.com/news/4652902-netflix-cutting-workforce-as-engagement-slows-competition-grows---wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 09:44:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Netflix cutting workforce as engagement slows, competition grows -- WSJ"
-    },
-    {
-     "title": "TSMC Q3 Earnings Preview: Investors eye margins as AI demand drives 50% revenue growth",
-     "link": "https://seekingalpha.com/news/4652468-tsmc-q3-earnings-preview-investors-eye-margins-as-ai-demand-drives-50-revenue-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 09:43:34 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "TSMC Q3 Earnings Preview: Investors eye margins as AI demand drives 50% revenue growth"
-    },
-    {
-     "title": "RBC Capital downgrades tech to market weight as valuations appear stretched",
-     "link": "https://seekingalpha.com/news/4652936-rbc-capital-downgrades-tech-to-market-weight-as-valuations-appear-stretched?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 09:42:12 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "RBC Capital downgrades tech to market weight as valuations appear stretched"
-    },
-    {
-     "title": "美股三大指数走势分化 现货黄金失守4100美元/盎司",
-     "link": "http://finance.eastmoney.com/news/1345,202610143895720794.html",
-     "pubDate": "Wed, 14 Oct 2026 21:41:08 +0800",
-     "summary": "10月14日，美股三大指数走势分化，截至发稿，道指涨0.30%，纳指跌0.42%，标普500指数跌0.33%。 商品市场方面，国际金价走低，截至发稿，现货 黄金 跌逾1%，失守4100美元/盎司。 全球要闻 美国9月CPI高于预期 10月加息押注升温！ 美国9月消费者价格指数（CPI）同比增长3.7%，预估为3.6%，前值为3.4%。9月CPI环比增长0.6%，预估0.6%。美国9月核心CPI同比增长2.6%，预估为2.5%，前值为2.4%。9月核心CPI环比增长0.3%，预估为0.2%，前值为0.3%。 以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性 据以色列第12频道电视台13日报道，以色",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数走势分化 现货黄金失守4100美元/盎司"
-    },
-    {
-     "title": "Medtronic reports final results of MiniMed share swap, exits stake",
-     "link": "https://seekingalpha.com/news/4652907-medtronic-reports-final-results-of-minimed-share-swap-exits-stake?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 09:40:53 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Medtronic reports final results of MiniMed share swap, exits stake"
-    },
-    {
-     "title": "东百集团：终止收购杭州快灵光电部分股权",
-     "link": "http://finance.eastmoney.com/news/1354,202610143895733039.html",
-     "pubDate": "Wed, 14 Oct 2026 21:37:31 +0800",
-     "summary": "东百集团 (600693.SH)公告称，公司全资子公司福建东百创智投资有限公司原拟收购杭州快灵光电科技有限公司部分股权，因各方未能就关键条款达成一致，公司决定终止本次股权收购。本次交易未签订正式协议，终止不会对公司财务状况和经营产生重大影响。 注： 东百集团 10月11日公告称，公司全资子公司东百创智拟收购杭州快灵光电科技有限公司52.6667%股权，此前转让对价为3.16亿元。标的公司主要从事光探测芯片研发生产销售。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "东百集团：终止收购杭州快灵光电部分股权"
-    },
-    {
      "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
      "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
      "pubDate": "Wed, 14 Oct 2026 13:36:00 GMT",
      "summary": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
      "source": "MarketWatch",
      "zh": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher"
-    },
-    {
-     "title": "ClearBridge Dividend Strategy exits RTX, Honeywell International in Q3, adds Otis, T-Mobile, and Kinder Morgan",
-     "link": "https://seekingalpha.com/news/4652877-clearbridge-dividend-strategy-exits-rtx-honeywell-international-in-q3-adds-otis-t-mobile-and-kinder-morgan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 09:35:20 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ClearBridge Dividend Strategy exits RTX, Honeywell International in Q3, adds Otis, T-Mobile, and Kinder Morgan"
-    },
-    {
-     "title": "Bank of America shares drop 7% after third-quarter revenue miss and regulatory penalty",
-     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-     "pubDate": "Wed, 14 Oct 2026 13:33:39 GMT",
-     "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-     "source": "CNBC",
-     "zh": "Bank of America shares drop 7% after third-quarter revenue miss and regulatory penalty"
     },
     {
      "title": "美国CPI超预期加剧加息押注，美股低开，存储芯片股、光通信股普跌，美国银行跌约8%",
@@ -2409,22 +2489,6 @@
      "zh": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties"
     },
     {
-     "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
-     "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 13:28:00 GMT",
-     "summary": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
-     "source": "MarketWatch",
-     "zh": "Gen Z renters are the only group more likely to feel successful by investing than buying a house"
-    },
-    {
-     "title": "Social Security’s COLA will be 3.6% in 2027 as inflation persists",
-     "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 13:27:00 GMT",
-     "summary": "The increase is aimed at helping about 68 million beneficiaries keep pace with inflation.",
-     "source": "MarketWatch",
-     "zh": "Social Security’s COLA will be 3.6% in 2027 as inflation persists"
-    },
-    {
      "title": "2026世界储能大会举办 共探储能产业前沿",
      "link": "http://www.eeo.com.cn/2026/1014/1064537.shtml",
      "pubDate": "Wed, 14 Oct 2026 21:26:27 +0800",
@@ -2439,78 +2503,6 @@
      "summary": "AI技能正在成为华尔街员工薪酬与晋升的硬指标。 金融服务招聘公司Selby Jennings的最新调查显示， 近四分之一的金融机构已将员工的AI技能熟练程度与加薪、奖金或晋升直接挂钩。另有30%的机构要求员工在正式绩效评估中披露其使用AI工具的情况。 这一趋势折射出华尔街的深层转变——金融机构正加速寻求AI投资的可量化回报，员工能否有效运用AI、并将其转化为实际业绩，已成为人才考核的新维度。 AI熟练度纳入绩效考核体系 调查结果显示，42%的受访机构已引入正式标准来评估员工的AI技能，30%则专门组建了团队或设立了职能角色，专注追踪AI投资是否切实产生效益。 Selby Jennings执行董",
      "source": "华尔街见闻",
      "zh": "想要升职加薪走向人生巅峰？在华尔街，你得先懂AI!"
-    },
-    {
-     "title": "沪指失守3800点 超700股跌破“924”",
-     "link": "http://finance.eastmoney.com/news/11137,202610143895712378.html",
-     "pubDate": "Wed, 14 Oct 2026 21:13:26 +0800",
-     "summary": "10月14日，A股延续调整。上证指数收报3767.23点，失守3800点整数关口。以今年5月的高点4258.86点计算，指数已累计回落11.54%。“924”行情走过两年，市场再度站在十字路口。 据 东方财富 Choice数据，自2024年9月24日至今，全市场5344只个股中有740只累计涨跌幅为负，即约14%的个股已跌破“924”行情启动时的价位，如果加上期间强制退市的46股，则跌破“924”的个股数量达到了786只。 考虑到很多股民是在2024年国庆节后入市，即以2024年国庆后的首个交易日10月8日为基准，则有1977只个股累计涨幅为负，加上退市股数量高达2023只。 交易所数据显示，",
-     "source": "东方财富资讯",
-     "zh": "沪指失守3800点 超700股跌破“924”"
-    },
-    {
-     "title": "AI需求领涨9月物价：消费电子“狂飙”，PPI超预期上行",
-     "link": "http://www.eeo.com.cn/2026/1014/1064535.shtml",
-     "pubDate": "Wed, 14 Oct 2026 21:13:08 +0800",
-     "summary": "21世纪经济报道记者冉黎黎 报道 10月14日，国家统计局发布9月物价数据。数据显示，9月CPI同比上涨0.9%，环比上涨0.2%；PPI同比上涨5.0%，环比上涨1.2%。 从CPI数据看，消费电子表现亮眼。9月，数据存储设备、平板电脑、计算机和移动电话机价格分别上涨46.7%、23.6%、21.8%和14.9%，涨幅均有扩大，合计影响CPI同比上涨约0.23个百分点。PPI方面，能源、算力供需变化是驱动其实现同比超预期上涨的关键因素。 ...",
-     "source": "经济观察网",
-     "zh": "AI需求领涨9月物价：消费电子“狂飙”，PPI超预期上行"
-    },
-    {
-     "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-     "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-     "pubDate": "Wed, 14 Oct 2026 13:11:07 GMT",
-     "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
-     "source": "CNBC",
-     "zh": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million"
-    },
-    {
-     "title": "沙特加速布局霍尔木兹绕行方案，东西管道扩容计划浮出水面",
-     "link": "https://wallstreetcn.com/articles/3783635",
-     "pubDate": "Wed, 14 Oct 2026 21:07:57 +0800",
-     "summary": "沙特阿拉伯正全力推进石油出口基础设施的战略重组。在霍尔木兹海峡封闭的背景下，沙特能源大臣Prince Abdulaziz bin Salman宣布， 计划在两至三年内将东西管道输送能力从目前的700万桶/日大幅提升至1000万桶/日，增幅达43%。 这一扩容计划在利雅得举行的WPC能源大会上公布。该管道在霍尔木兹海峡封闭后已成为沙特原油出口的核心通道，目前每日通过红海港口延布转运约400万桶原油。然而，这条战略要道并非无懈可击——9月11日，沙特将其归咎于伊拉克民兵武装的无人机袭击，迫使管道被迫关闭。 管道中断对市场供应造成直接冲击。能源大臣表示，截至10月6日，管道流量已恢复至580万桶/日",
-     "source": "华尔街见闻",
-     "zh": "沙特加速布局霍尔木兹绕行方案，东西管道扩容计划浮出水面"
-    },
-    {
-     "title": "10月14日东方财富财经晚报（附新闻联播）",
-     "link": "http://finance.eastmoney.com/news/1353,202610143895653464.html",
-     "pubDate": "Wed, 14 Oct 2026 21:00:00 +0800",
-     "summary": "热点聚焦 央行数据 ： 据央行数据，9月末，广义货币（M2）余额359.63万亿元，同比增长7.2%。狭义货币（M1）余额116.76万亿元，同比增长3.2%。流通中货币（M0）余额15.02万亿元，同比增长10.6%。前三季度净投放现金9221亿元。 2026年前三季度社会融资规模增量累计为27.46万亿元，比上年同期少2.63万亿元 。前三季度人民币贷款增加11.52万亿元。 美国CPI高于预期 ： 美国9月消费者价格指数（CPI）同比增长3.7%，预估为3.6%，前值为3.4%。9月CPI环比增长0.6%，预估0.6%。美国9月核心CPI同比增长2.6%，预估为2.5%，前值为2.4%。",
-     "source": "东方财富资讯",
-     "zh": "10月14日东方财富财经晚报（附新闻联播）"
-    },
-    {
-     "title": "US inflation jumps to 3.7% as Iran war drives up prices",
-     "link": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
-     "pubDate": "Wed, 14 Oct 2026 12:56:18 GMT",
-     "summary": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
-     "source": "Financial Times",
-     "zh": "US inflation jumps to 3.7% as Iran war drives up prices"
-    },
-    {
-     "title": "中国人民银行征信中心发布声明",
-     "link": "http://www.eeo.com.cn/2026/1014/1064527.shtml",
-     "pubDate": "Wed, 14 Oct 2026 20:52:19 +0800",
-     "summary": "中国人民银行征信中心10月14日发布关于动产融资统一登记服务的声明称，近日发现有市场机构通过“智*中登查询”“智*中登系统”等信息服务产品，宣称提供动产和权利担保登记、查询服务，相关产品或服务名称包含“中登”字样。",
-     "source": "经济观察网",
-     "zh": "中国人民银行征信中心发布声明"
-    },
-    {
-     "title": "【环球财经】阿斯麦公司第三季度总销售额环比增长25%",
-     "link": "http://www.eeo.com.cn/2026/1014/1064526.shtml",
-     "pubDate": "Wed, 14 Oct 2026 20:52:17 +0800",
-     "summary": "新华财经海牙10月14日电（记者邵海军 李弘）荷兰半导体设备制造商阿斯麦公司14日说，今年第三季度该公司总销售额达117亿欧元，环比增长25%。 阿斯麦公司当天发布的季报显示，第三季度公司净利润约50亿欧元，...",
-     "source": "经济观察网",
-     "zh": "【环球财经】阿斯麦公司第三季度总销售额环比增长25%"
-    },
-    {
-     "title": "光刻机供需持续紧张，ASML单季业绩创新高",
-     "link": "http://www.eeo.com.cn/2026/1014/1064525.shtml",
-     "pubDate": "Wed, 14 Oct 2026 20:52:14 +0800",
-     "summary": "21世纪经济报道 彭新 “客户普遍认为短期市场需求将继续增长，且需求周期正在进一步延长，预计至少到2028年，行业仍将处于供不应求的状态。”10月14日，荷兰光刻机巨头ASML总裁兼首席执行官傅恪礼（Christophe Fouquet）在2026年第三季度财报视频访谈中表示，基于对人工智能（AI）相关投资规模及扩产周期的判断，客户正加快包括新建晶圆厂在内的产能扩张计划。 受益于AI驱动的先进逻辑与存储芯片扩产潮，ASM...",
-     "source": "经济观察网",
-     "zh": "光刻机供需持续紧张，ASML单季业绩创新高"
     }
    ]
   },
@@ -2520,6 +2512,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t",
+     "link": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+     "pubDate": "Wed, 14 Oct 2026 14:04:05 +0000",
+     "summary": "A collision may have left these galaxies without dark matter. That spells trouble for alternative gravity theories. The post Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t first appeared on Quanta Magazine",
+     "source": "Quanta Magazine",
+     "zh": "Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t"
+    },
     {
      "title": "One of America's biggest meteor craters is 100 million years younger than we thought — and coincided with a global extinction event",
      "link": "https://www.livescience.com/planet-earth/geology/one-of-americas-biggest-meteor-craters-is-100-million-years-younger-than-we-thought-and-coincided-with-a-global-extinction-event",
@@ -2751,14 +2751,6 @@
      "summary": "Developed by MIT engineers, this flexible material could be used as a wearable, motion-monitoring “skin” in physical therapy, virtual reality, and gaming.",
      "source": "MIT News",
      "zh": "Shape-sensing sheet digitally tracks its movement as it bends and twists"
-    },
-    {
-     "title": "Turning the tide on Massachusetts shellfishing data",
-     "link": "https://news.mit.edu/2026/turning-tide-massachusetts-shellfishing-data-1007",
-     "pubDate": "Wed, 07 Oct 2026 15:55:00 -0400",
-     "summary": "MIT researchers built a cloud-based platform to help Massachusetts coastal towns and the state manage shellfishing closures, giving thousands of permit holders a clearer view of where they can fish.",
-     "source": "MIT News",
-     "zh": "Turning the tide on Massachusetts shellfishing data"
     }
    ]
   }

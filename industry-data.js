@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/14 20:43:21",
+ "generated_at": "2026/10/14 20:52:41",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "5 Fun Projects for LLM Inference Engineering",
+     "link": "https://www.kdnuggets.com/5-fun-projects-for-llm-inference-engineering",
+     "pubDate": "Wed, 14 Oct 2026 12:00:00 +0000",
+     "summary": "Want to understand what makes LLMs fast? Build the systems yourself.",
+     "source": "KDnuggets",
+     "zh": "5 Fun Projects for LLM Inference Engineering"
+    },
     {
      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
@@ -234,20 +242,12 @@ window.INDUSTRY_DATA = {
      "zh": "中国视频模型Top 3，开始分道而战"
     },
     {
-     "title": "突发，明星AI独角兽宣布破产",
-     "link": "https://zhidx.com/p/600573.html",
-     "pubDate": "Tue, 13 Oct 2026 21:43:55 +0800",
-     "summary": "智东西 编译 | 程茜 编辑 | 李水青 智东西10月13日消息，今日，硅谷明星AI独角兽 Character.AI宣布已启动破产程序 。迪士尼是其关键资产的第一顺位收购方，已出价 2000万美元（约合人民币1.34亿元） 竞拍部分知识产权和特定债权的非独占永久许可。 这是ChatGPT带动的生成式AI热潮下， 首家走到破产出售阶段的生成式AI独角兽 。去年5月破产的无代码AI生成平台Builder.ai因被曝出大量依靠人工交付，所以不被视作严格意义上的生成式AI企业。 Character.AI在公告中称，其已在美国特拉华州自愿启动《美国破产法》第11章下的破产程序，以便在法院监督下出售公司。",
-     "source": "智东西",
-     "zh": "突发，明星AI独角兽宣布破产"
-    },
-    {
-     "title": "刚刚，全球首台「真·大模型原生Agent手机」来了！",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652734258&idx=1&sn=fa8d7682a4ed1cd7c18bdb623dc74769",
-     "pubDate": "Tue, 13 Oct 2026 21:22:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "刚刚，全球首台「真·大模型原生Agent手机」来了！"
+     "title": "The Roadmap to Mastering Agentic AI Systems in 2026",
+     "link": "https://www.kdnuggets.com/the-roadmap-to-mastering-agentic-ai-systems-in-2026",
+     "pubDate": "Tue, 13 Oct 2026 14:00:00 +0000",
+     "summary": "A four-level technical roadmap for building agentic AI systems, from single cognitive loops and stateful memory through multi-agent swarms and production observability.",
+     "source": "KDnuggets",
+     "zh": "The Roadmap to Mastering Agentic AI Systems in 2026"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "ASML’s EUV Expansion Runs Through Zeiss",
+     "link": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/",
+     "pubDate": "Wed, 14 Oct 2026 12:49:10 +0000",
+     "summary": "ASML’s plans to expand EUV production depend partly on Zeiss’s ability to increase qualified precision-optics output. The post ASML’s EUV Expansion Runs Through Zeiss appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "ASML’s EUV Expansion Runs Through Zeiss"
+    },
     {
      "title": "AVL and VisIC extend collaboration to high-power GaN traction inverter technology",
      "link": "https://semiconductor-today.com/news_items/2026/oct/visic-141026.shtml",
@@ -272,6 +280,22 @@ window.INDUSTRY_DATA = {
      "summary": "Specialty analog foundry Tower Semiconductor Ltd of Migdal Haemek, Israel and high-performance semiconductor, Internet of Things (IoT) system and cloud connectivity service provider Semtech Corp of Camarillo, CA, USA have agreed to expand their 20-year partnership. Semtech will invest in securing de",
      "source": "Semiconductor Today",
      "zh": "Tower and Semtech expand SiGe partnership to scale power-efficient analog connectivity for data centers"
+    },
+    {
+     "title": "EW Video: In conversation with Tessent on semiconductor test technology",
+     "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/ew-video-in-conversation-with-tessent-on-semiconductor-test-technology-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 10:59:25 +0000",
+     "summary": "Electronics Weekly recently caught up with Lee Harrison, Director of Product Marketing at Tessent, Siemens Digital Industries Software, to discuss the latest semiconductor test technology. Topics include silicon lifecycle management, […] The post EW Video: In conversation with Tessent on semiconduct",
+     "source": "Electronics Weekly",
+     "zh": "EW Video: In conversation with Tessent on semiconductor test technology"
+    },
+    {
+     "title": "TechPoint buys Esprit Electronics for EMS growth",
+     "link": "https://www.electronicsweekly.com/news/business/techpoint-buys-esprit-electronics-for-ems-growth-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 10:04:18 +0000",
+     "summary": "TechPoint has announced it is buying Esprit Electronics, to strengthen its UK manufacturing capability and support its growth ambitions, says the company. “We’re delighted to welcome the Esprit Electronics team […] The post TechPoint buys Esprit Electronics for EMS growth appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "TechPoint buys Esprit Electronics for EMS growth"
     },
     {
      "title": "300mm fab equipment spending to hit US$227 billion by 2029, SEMI says",
@@ -378,6 +402,38 @@ window.INDUSTRY_DATA = {
      "zh": "Blog Review: Oct. 14"
     },
     {
+     "title": "Qualcomm wins Arm case – awarded $2 in damages",
+     "link": "https://www.electronicsweekly.com/news/business/qualcomm-wins-arm-case-awarded-2-in-damages-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 05:16:58 +0000",
+     "summary": "The jury in the Qualcomm vs Arm case found Arm in breach of its architectural license agreement (ALA) with Qualcomm, and awarded Qualcomm $2 in nominal damages. The jury concluded that […] The post Qualcomm wins Arm case – awarded $2 in damages appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Qualcomm wins Arm case – awarded $2 in damages"
+    },
+    {
+     "title": "UK tech companies raise $25.7bn this year",
+     "link": "https://www.electronicsweekly.com/news/business/uk-tech-has-raised-25-7bn-this-year-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 05:12:57 +0000",
+     "summary": "UK Tech companies raised $25.7 billion in the first nine months of 2026, up 88% from $13.7 billion in 9M 2025, across 816 rounds, down 17% from 984, according to […] The post UK tech companies raise $25.7bn this year appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "UK tech companies raise $25.7bn this year"
+    },
+    {
+     "title": "This time it’s different",
+     "link": "https://www.electronicsweekly.com/news/business/this-time-its-different-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 05:11:09 +0000",
+     "summary": "The overall chip market continues to show treble-digit monthly annualised growth rates, more than twice as large as the industry’s two previous record highs in June 2000 (59.3 percent) and […] The post This time it’s different appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "This time it’s different"
+    },
+    {
+     "title": "Apple bids for home electronics market",
+     "link": "https://www.electronicsweekly.com/news/business/apple-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 05:09:23 +0000",
+     "summary": "Apple made a statement yesterday that it is still in the home electronics market. It launched a new $200 HomePod smart speaker (pictured above) and a $299 HomeView hub (pictured […] The post Apple bids for home electronics market appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Apple bids for home electronics market"
+    },
+    {
      "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
      "link": "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/",
      "pubDate": "Tue, 13 Oct 2026 22:00:00 +0000",
@@ -440,62 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Honya Europe's Robert Tarantowicz shares 17 years of lessons on PCB sourcing in China, quality, trust, and risk management. The post 17 Years with China: What Really Makes a Partnership Work appeared first on EE Times .",
      "source": "EE Times",
      "zh": "17 Years with China: What Really Makes a Partnership Work"
-    },
-    {
-     "title": "U.S. Chip Firms Bet Big on R&D",
-     "link": "https://spectrum.ieee.org/semiconductor-research",
-     "pubDate": "Tue, 13 Oct 2026 11:00:05 +0000",
-     "summary": "On 12 October, Applied Materials unveiled a multibillion-dollar research facility in Sunnyvale, Calif., in the heart of Silicon Valley . The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercialization (EPIC) Center, but now says it will",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "U.S. Chip Firms Bet Big on R&D"
-    },
-    {
-     "title": "Polar collaborates with IC-Link by imec on 8-inch manufacturing of e-mode GaN devices",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/polar-iclink-131026.shtml",
-     "pubDate": "Tue, 13 Oct 2026 10:33:34 +0100",
-     "summary": "Polar Semiconductor LLC of Bloomington, MN, USA (the only US-owned foundry specializing in high-voltage, power and sensor semiconductors) and IC-Link by imec (the design and manufacturing division of nanoelectronics research center imec of Leuven, Belgium) are collaborating to provide 8-inch product",
-     "source": "Semiconductor Today",
-     "zh": "Polar collaborates with IC-Link by imec on 8-inch manufacturing of e-mode GaN devices"
-    },
-    {
-     "title": "Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle",
-     "link": "https://www.eetimes.com/europe-advanced-packaging-gap-fraunhofer-swissbit-target-the-missing-middle/",
-     "pubDate": "Tue, 13 Oct 2026 09:06:10 +0000",
-     "summary": "Low-volume production sits between research and mass manufacturing. Europe needs an industrial model to fill the gap. The post Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle"
-    },
-    {
-     "title": "CTO Interview with Dr. Zakir Syed of ClockEdge",
-     "link": "https://semiwiki.com/eda/clockedge/374633-cto-interview-with-dr-zakir-syed-of-clockedge/",
-     "pubDate": "Mon, 12 Oct 2026 19:00:28 +0000",
-     "summary": "Dr. Zakir Syed is Co-founder and Chief Technology Officer of ClockEdge, where he has played a central role in developing specialized simulation technology for advanced semiconductor clock networks. He brings more than 30 years of experience in electronic design automation and semiconductor verificat",
-     "source": "SemiWiki",
-     "zh": "CTO Interview with Dr. Zakir Syed of ClockEdge"
-    },
-    {
-     "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
-     "link": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/",
-     "pubDate": "Mon, 12 Oct 2026 16:59:01 +0000",
-     "summary": "Applied Materials’ $5 billion EPIC Center brings chipmakers, equipment suppliers, and researchers together to accelerate semiconductor R&D and commercialization. The post Applied Materials Bets $5B on a New Model for Chip Innovation appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Applied Materials Bets $5B on a New Model for Chip Innovation"
-    },
-    {
-     "title": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/cmlmicro-091026.shtml",
-     "pubDate": "Fri, 9 Oct 2026 08:59:05 +0100",
-     "summary": "CML Microsystems Plc of Maldon, UK — a designer and fabless manufacturer of mixed-signal, RF and microwave semiconductors for communications applications — has launched the CMX90A002, a compact power amplifier for next-generation ISM-band radio designs...",
-     "source": "Semiconductor Today",
-     "zh": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs"
-    },
-    {
-     "title": "Infineon launches 27kW three-phase PSU for AI server power architectures",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/infineon-081026.shtml",
-     "pubDate": "Thu, 8 Oct 2026 15:28:51 +0100",
-     "summary": "As artificial intelligence workloads are redefining the power requirements of modern data centers, increasing GPU performance and rising rack densities are driving a shift toward 800VDC or ±400VDC power supply architectures. To address these requirements, Infineon Technologies AG of Munich, Germany ",
-     "source": "Semiconductor Today",
-     "zh": "Infineon launches 27kW three-phase PSU for AI server power architectures"
     }
    ]
   },
@@ -624,14 +624,6 @@ window.INDUSTRY_DATA = {
      "summary": "If we want to move physical AI from social media feeds to a sustained commercial level, we must reverse our current approach. The post Will ‘boring’ robots win in the real world? Why robotic form should follow workflow appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow"
-    },
-    {
-     "title": "Why dexterity is physical AI’s real bottleneck",
-     "link": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
-     "pubDate": "Sat, 10 Oct 2026 12:45:15 +0000",
-     "summary": "The next major challenge in robotic dexterity is making the entire system reliable enough to turn capabilities into useful work. The post Why dexterity is physical AI’s real bottleneck appeared first on The Robot Report .",
-     "source": "Robotics Business Review",
-     "zh": "Why dexterity is physical AI’s real bottleneck"
     },
     {
      "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
@@ -874,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Modi Energy launches zero-upfront solar-plus-storage offer in Denmark",
+     "link": "https://www.pv-magazine.com/2026/10/14/modi-energy-launches-zero-upfront-solar-plus-storage-offer-in-denmark/",
+     "pubDate": "Wed, 14 Oct 2026 12:48:06 +0000",
+     "summary": "Emaldo-backed Modi Energy says it will install, own, and operate rooftop solar and home batteries at no upfront cost to Danish households, funding a guaranteed 20% bill reduction through energy optimization and participation in power and flexibility markets. The post Modi Energy launches zero-upfron",
+     "source": "pv magazine",
+     "zh": "Modi Energy launches zero-upfront solar-plus-storage offer in Denmark"
+    },
+    {
      "title": "Magenta CdTe solar panels support broccoli cultivation in agrivoltaic trial",
      "link": "https://www.pv-magazine.com/2026/10/14/magenta-cdte-solar-panels-support-broccoli-cultivation-in-agrivoltaic-trial/",
      "pubDate": "Wed, 14 Oct 2026 12:39:59 +0000",
@@ -1000,14 +1000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Saudi Aramco’s administrative building in Dharan, eastern Saudi Arabia, was hit in attacks by the Iran-aligned Houthis on Tuesday night and Wednesday morning, amid an escalation of the Saudi-Houthi standoff in recent days. Limited fire was reported at Aramco’s headquarters as Saudi Arabia continued ",
      "source": "OilPrice",
      "zh": "Saudi Aramco Headquarters Hit as Houthi Attacks Escalate"
-    },
-    {
-     "title": "Oswal Pumps to set up 1.2 GW TOPCon solar cell factory in India",
-     "link": "https://www.pv-magazine.com/2026/10/14/oswal-pumps-to-set-up-1-2-gw-topcon-solar-cell-manufacturing-facility/",
-     "pubDate": "Wed, 14 Oct 2026 09:12:04 +0000",
-     "summary": "Oswal Pumps plans to invest $48 million in a TOPCon solar cell manufacturing facility in Karnal, in the Indian state of Haryana. Commercial production is expected to begin by April 2028, with the entire output earmarked for captive solar module manufacturing. The post Oswal Pumps to set up 1.2 GW TO",
-     "source": "pv magazine",
-     "zh": "Oswal Pumps to set up 1.2 GW TOPCon solar cell factory in India"
     },
     {
      "title": "South Africa’s state utility Eskom opens selection process for 1.5GW/21GWh pumped hydro plant",
@@ -1570,6 +1562,30 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+     "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+     "pubDate": "Wed, 14 Oct 2026 18:00:42 +0530",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. The security flaw, t",
+     "source": "The Hacker News",
+     "zh": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts"
+    },
+    {
+     "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+     "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+     "pubDate": "Wed, 14 Oct 2026 17:43:36 +0530",
+     "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in&nbsp;curl 8.23.0. Taking over a client needs exac",
+     "source": "The Hacker News",
+     "zh": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution"
+    },
+    {
+     "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+     "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+     "pubDate": "Wed, 14 Oct 2026 17:20:00 +0530",
+     "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:40 on a Friday. It's the CFO, or it sounds exactly like her, ",
+     "source": "The Hacker News",
+     "zh": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team"
+    },
+    {
      "title": "Hirudo Android malware replaces banking apps to evade security checks",
      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
      "pubDate": "Wed, 14 Oct 2026 07:41:20 -0400",
@@ -1618,14 +1634,6 @@ window.INDUSTRY_DATA = {
      "zh": "Microsoft: Recent Windows updates may trigger Remote Desktop failures"
     },
     {
-     "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-     "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-     "pubDate": "Wed, 14 Oct 2026 13:16:57 +0530",
-     "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine. The b",
-     "source": "The Hacker News",
-     "zh": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host"
-    },
-    {
      "title": "Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise",
      "link": "https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/",
      "pubDate": "Wed, 14 Oct 2026 07:38:51 +0000",
@@ -1658,28 +1666,12 @@ window.INDUSTRY_DATA = {
      "zh": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities"
     },
     {
-     "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-     "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-     "pubDate": "Wed, 14 Oct 2026 11:22:28 +0530",
-     "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one they broke into handl",
-     "source": "The Hacker News",
-     "zh": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave"
-    },
-    {
      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
      "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
      "pubDate": "Wed, 14 Oct 2026 05:00:00 GMT",
      "summary": "Organizations are reporting that employees face threats to their families, stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
      "source": "Dark Reading",
      "zh": "Ransomware Gangs Embrace Physical Threats, Family Stalking?"
-    },
-    {
-     "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-     "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-     "pubDate": "Wed, 14 Oct 2026 10:04:43 +0530",
-     "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Serv",
-     "source": "The Hacker News",
-     "zh": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug"
     },
     {
      "title": "Microsoft Patches More Than 1,400 Security Flaws",
@@ -1794,6 +1786,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "格芯获选在纽约建设两座晶圆厂，与美国商务部达成协议调整 9.55 亿美元资助并为其分配约 4% 股权",
+     "link": "https://www.ithome.com/1/013/091.htm",
+     "pubDate": "Wed, 14 Oct 2026 12:48:25 GMT",
+     "summary": "IT之家 10 月 14 日消息，格芯（GlobalFoundries，GF）刚刚宣布，公司已被选定为美国纽约州马耳他市两座新半导体制造工厂的技术提供商和运营方。 该项目由美国与日本之间的贸易和投资协议推动，日本将提供最高 210 亿美元 （IT之家注：现汇率约合 1,408.06 亿元人民币） 投资，用于扩大美国本土半导体制造能力。 根据格芯公告，首期约 100 亿美元 （现汇率约合 670.5 亿元人民币） 投资将用于加快一座全新 300 毫米晶圆厂的建设，该工厂预计于 2029 年投产。另有约 100 亿美元投资将用于建设第二座晶圆厂。两座工厂全部建成投产后，将为美国增加大量半导体制造产",
+     "source": "IT之家",
+     "zh": "格芯获选在纽约建设两座晶圆厂，与美国商务部达成协议调整 9.55 亿美元资助并为其分配约 4% 股权"
+    },
+    {
+     "title": "美国《超级智能协议》：签了等于没签？",
+     "link": "https://www.huxiu.com/article/4897557.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 20:44:41 +0800",
+     "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 美国外交关系协会（CFR）专家康纳·马丁近日发文，分析特朗普政府与六家美国AI企业签署的《超级智能安全协议》。作者认为，协议虽提出内部安全控制、独立第三方评估和董事会监督等措施，但缺乏法律约束力、明确责任和违规惩罚，难以改变企业竞相提升模型能力的商业动机。AI企业面临巨额投入、激烈竞争和资本市场压力，即使认同安全优先，也未必愿意放慢技术迭代。作者提出，真正有效的AI安全治理，需要赋予独立评估者充分权限和保障，明确企业责任，并通过法律、监管或司法诉讼提高安全违规成本，使企业有动力将安全置于竞争优势之前。 原文标题：Trump",
+     "source": "虎嗅",
+     "zh": "美国《超级智能协议》：签了等于没签？"
+    },
+    {
+     "title": "奇瑞捷途全新旅行者 7 上市：燃油 / 插混版可选，超级焕新价 12.59 万元起",
+     "link": "https://www.ithome.com/1/013/089.htm",
+     "pubDate": "Wed, 14 Oct 2026 12:43:06 GMT",
+     "summary": "IT之家 10 月 14 日消息，在今晚举行的发布会上，奇瑞捷途全新旅行者 7 上市，共提供 8 款车型，提供 1.5T 汽油、2.0T 汽油以及 1.5T 插混三种动力， 超级焕新价 12.59 万元起 。 1.5TD 两驱探索：上市指导价 13.99 万元，超级焕新价 12.59 万元 1.5TD 两驱探索 +：上市指导价 14.99 万元，超级焕新价 13.59 万元 2.0TD XWD 四驱发现：上市指导价 15.99 万元，超级焕新价 14.59 万元 2.0TD XWD 四驱穿越：上市指导价 16.99 万元，超级焕新价 15.59 万元 2.0TD XWD 四驱征服：上市指导价 ",
+     "source": "IT之家",
+     "zh": "奇瑞捷途全新旅行者 7 上市：燃油 / 插混版可选，超级焕新价 12.59 万元起"
+    },
+    {
+     "title": "Harmonic Security, which uses small language models to inspect employee interactions with AI tools, raised a $50M Series B, taking its total funding to $76M (Duncan Riley/SiliconANGLE)",
+     "link": "https://www.techmeme.com/261014/p17#a261014p17",
+     "pubDate": "Wed, 14 Oct 2026 08:40:01 -0400",
+     "summary": "Duncan Riley / SiliconANGLE : Harmonic Security, which uses small language models to inspect employee interactions with AI tools, raised a $50M Series B, taking its total funding to $76M &nbsp; &mdash;&nbsp; Workplace artificial intelligence security startup Harmonic Security Inc. today announced it",
+     "source": "Techmeme",
+     "zh": "Harmonic Security, which uses small language models to inspect employee interactions with AI tools, raised a $50M Series B, taking its total funding to $76M (Duncan Riley/SiliconANGLE)"
+    },
+    {
      "title": "苹果HomeView 上手汇总：“果家”首秀小惊艳，SiriAI 很聪明",
      "link": "https://www.huxiu.com/article/4897556.html?f=rss",
      "pubDate": "Wed, 14 Oct 2026 20:36:11 +0800",
@@ -1874,6 +1898,14 @@ window.INDUSTRY_DATA = {
      "zh": "自掏工资悬赏解题，这位南大教授提了上千个数学猜想"
     },
     {
+     "title": "The Aaronson Oracle",
+     "link": "https://aaronsonoracle.com/",
+     "pubDate": "Wed, 14 Oct 2026 12:16:35 +0000",
+     "summary": "Article URL: https://aaronsonoracle.com/ Comments URL: https://news.ycombinator.com/item?id=50086484 Points: 4 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "The Aaronson Oracle"
+    },
+    {
      "title": "The EU Commission&apos;s AI Office launches formal AI Act probes into OpenAI and Anthropic over AI agent hacks; experts say the AI Act includes an R&D exemption (Luca Bertuzzi/Euronews)",
      "link": "https://www.techmeme.com/261014/p15#a261014p15",
      "pubDate": "Wed, 14 Oct 2026 08:15:14 -0400",
@@ -1882,20 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "The EU Commission&apos;s AI Office launches formal AI Act probes into OpenAI and Anthropic over AI agent hacks; experts say the AI Act includes an R&D exemption (Luca Bertuzzi/Euronews)"
     },
     {
-     "title": "大疆机场 4 发布：首款换电无人值守平台、25 秒自动换电，套装 167,999 元",
-     "link": "https://www.ithome.com/1/013/083.htm",
-     "pubDate": "Wed, 14 Oct 2026 12:11:59 GMT",
-     "summary": "IT之家 10 月 14 日消息，DJI 大疆今日正式发布首款换电无人值守平台 —— 大疆机场 4。 包含 DJI Matrice 5TD 无人机、DJI O4 地面站的大疆机场 4 套装， 国内官方售价为 167,999 元 ，该价格为产品硬件售价，软件订阅、标准外场景部署及其他选购的保障服务费用等，均需额外支付。即日起，大疆行业官方合作伙伴均可接受用户预订。 大疆机场 4 支持“开盖即飞”功能，无需飞手到场即可自动响应。在突发紧急事件时，无人机最高可以 21 米 / 秒的速度直线奔赴现场，实现夜间及节假日的秒级响应，先于地面救援力量抵达并第一时间回传空中态势。 据介绍， 无人机降落后仅需 ",
-     "source": "IT之家",
-     "zh": "大疆机场 4 发布：首款换电无人值守平台、25 秒自动换电，套装 167,999 元"
-    },
-    {
-     "title": "教培名师，批量出厂",
-     "link": "https://www.huxiu.com/article/4897546.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 20:11:09 +0800",
-     "summary": "本文来自微信公众号： T 中文版 ，作者：T China 入行3个月，卢木妍已经是上海一家线上教培机构的小班主讲。每班30多个孩子，都管她叫「小熊老师」。 她有一张属于自己的海报。淡黄色底的背景上，她穿着剪裁利落的西装，妆容精致，旁边另有一张她戴着拳击手套的照片。高考670分、数学单科143分，被加红、加粗，放在最显眼的位置。教学风格写着「亲和力强、逻辑严谨、传授高分秘籍」。跆拳道黑带、泰拳、半马完赛也列进了特长栏。最底下还写着「拥有两三年家教经验」——即使，她从未做过家教。但带教老师告诉她：「没关系，家长不会去深究。」 「荒谬」，这是卢木妍对教培行业的第一印象。 2025年，卢木妍从一所98",
-     "source": "虎嗅",
-     "zh": "教培名师，批量出厂"
+     "title": "Smart people don't think others are stupid",
+     "link": "https://sive.rs/ss",
+     "pubDate": "Wed, 14 Oct 2026 12:01:16 +0000",
+     "summary": "Article URL: https://sive.rs/ss Comments URL: https://news.ycombinator.com/item?id=50086313 Points: 36 # Comments: 11",
+     "source": "Hacker News",
+     "zh": "Smart people don't think others are stupid"
     },
     {
      "title": "Bengaluru-based Scimplify, which uses AI agents and 500+ partner manufacturing facilities to accelerate chemical production, raised $25M led by Hitachi Ventures (Jagmeet Singh/TechCrunch)",
@@ -1904,6 +1928,14 @@ window.INDUSTRY_DATA = {
      "summary": "Jagmeet Singh / TechCrunch : Bengaluru-based Scimplify, which uses AI agents and 500+ partner manufacturing facilities to accelerate chemical production, raised $25M led by Hitachi Ventures &nbsp; &mdash;&nbsp; As manufacturers across industries strive to reduce their reliance on Chinese suppliers, ",
      "source": "Techmeme",
      "zh": "Bengaluru-based Scimplify, which uses AI agents and 500+ partner manufacturing facilities to accelerate chemical production, raised $25M led by Hitachi Ventures (Jagmeet Singh/TechCrunch)"
+    },
+    {
+     "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+     "link": "https://github.com/timescale/pg_vectorsearch",
+     "pubDate": "Wed, 14 Oct 2026 11:47:53 +0000",
+     "summary": "Article URL: https://github.com/timescale/pg_vectorsearch Comments URL: https://news.ycombinator.com/item?id=50086165 Points: 20 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW"
     },
     {
      "title": "片仔癀五年四换帅，提价驱动失效，业绩失速",
@@ -1962,14 +1994,6 @@ window.INDUSTRY_DATA = {
      "zh": "Breville Eye Q Toaster Review: Neat Sensors, but Less-Than-Perfect Toast"
     },
     {
-     "title": "上汽集团、东风汽车等发布声明，对本次中欧经贸磋商取得的积极成果表示完全支持（实时更新）",
-     "link": "https://www.ithome.com/1/013/065.htm",
-     "pubDate": "Wed, 14 Oct 2026 10:55:30 GMT",
-     "summary": "IT之家 10 月 14 日消息，2026 年 10 月 8-9 日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什 · 谢夫乔维奇在北京举行中欧贸易投资磋商机制（以下简称机制）第二次例会。经密集磋商， 中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解 。 各大车企今日陆续发布声明，表达了对此次中欧经贸磋商取得的积极成果的支持。IT之家为大家实时更新和汇总如下，内容按照数据发布时间倒序排列。 本文最后更新时间为 10 月 14 日 20:11 上汽集团：近期，中欧贸易投资磋商机制第二次例会成功举行，双方形成多项成果共识，上汽集团对此次磋商取得的积极成果表示高度赞赏。 长城汽车：",
-     "source": "IT之家",
-     "zh": "上汽集团、东风汽车等发布声明，对本次中欧经贸磋商取得的积极成果表示完全支持（实时更新）"
-    },
-    {
      "title": "今年双11，告别算数题？",
      "link": "https://www.tmtpost.com/8168500.html",
      "pubDate": "Wed, 14 Oct 2026 18:52:21 +0800",
@@ -2000,38 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "还没等港股开盘，康方生物的投资者就遭遇“当头棒喝”。",
      "source": "钛媒体",
      "zh": "康方生物折价配股：钱拿到了，股价却砸了"
-    },
-    {
-     "title": "The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA",
-     "link": "https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga/",
-     "pubDate": "Wed, 14 Oct 2026 10:30:00 +0000",
-     "summary": "A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.",
-     "source": "WIRED",
-     "zh": "The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA"
-    },
-    {
-     "title": "JackRabbit MG Cargo Bike Review (2026): Compact and Powerful",
-     "link": "https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle/",
-     "pubDate": "Wed, 14 Oct 2026 10:30:00 +0000",
-     "summary": "This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.",
-     "source": "WIRED",
-     "zh": "JackRabbit MG Cargo Bike Review (2026): Compact and Powerful"
-    },
-    {
-     "title": "Ukraine&apos;s drone strikes on Yandex data centers disrupted Yandex&apos;s web crawlers, not Russian political bot operations, as Zelenskyy celebrated \"less division\" (Gaby Del Valle/The Verge)",
-     "link": "https://www.techmeme.com/261014/p11#a261014p11",
-     "pubDate": "Wed, 14 Oct 2026 06:30:00 -0400",
-     "summary": "Gaby Del Valle / The Verge : Ukraine's drone strikes on Yandex data centers disrupted Yandex's web crawlers, not Russian political bot operations, as Zelenskyy celebrated &ldquo;less division&rdquo; &nbsp; &mdash;&nbsp; Zelenskyy celebrated &lsquo;less division&rsquo; on social media after the strik",
-     "source": "Techmeme",
-     "zh": "Ukraine&apos;s drone strikes on Yandex data centers disrupted Yandex&apos;s web crawlers, not Russian political bot operations, as Zelenskyy celebrated \"less division\" (Gaby Del Valle/The Verge)"
-    },
-    {
-     "title": "荷兰税务与海关总署放弃部署微软公有云，采用开源替代",
-     "link": "https://www.solidot.org/story?sid=85611",
-     "pubDate": "Wed, 14 Oct 2026 18:07:45 +0800",
-     "summary": "荷兰税务与海关总署放弃了部署微软 Microsoft 365 公有云的计划，改为采用本地部署/开源替代方案。根据 Linux 基金会在欧洲开源峰会上发布的报告，94% 的欧盟组织认为数字主权重要，其中 61% 认为非常重要。除了税务机关，荷兰还在探索全面从 Windows 和私有软件转向 Linux 和开源软件。荷兰原计划于 2025 年转向 Microsoft 365，计划在 2026 年底前完成全面部署。但 Dutch Advisory Council on ICT Assessment 在今年 6 月建议叫停部署。政府于 7 月暂停了该计划，现在决定转向开源方案。税务与海关总署目前还不会",
-     "source": "Solidot",
-     "zh": "荷兰税务与海关总署放弃部署微软公有云，采用开源替代"
     }
    ]
   },
@@ -2041,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Honor confirms massive batteries for Win2 and Win RT2",
+     "link": "https://www.gsmarena.com/honor_win2_and_win_rt2_battery_capacities_revealed_and_theyre_massive-news-75033.php",
+     "pubDate": "Wed, 14 Oct 2026 14:43:02 +0200",
+     "summary": "The Honor Win2 series, comprising the Win2, Win RT2, and Win Turbo 2, is set to launch in China next week. After revealing the designs and color options of all three phones yesterday, Honor has now confirmed some of their key specifications. Honor has confirmed that the Win2 will be powered by the S",
+     "source": "GSMArena",
+     "zh": "Honor confirms massive batteries for Win2 and Win RT2"
+    },
     {
      "title": "Apple website suggested Siri AI may be coming to full size HomePods",
      "link": "https://9to5mac.com/2026/10/14/apple-website-suggested-siri-ai-may-be-coming-to-full-size-homepods/",
@@ -2210,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验"
     },
     {
-     "title": "Infinix Note 70 Pro certification helps confirm its major upgrade",
-     "link": "https://www.gsmarena.com/infinix_note_70_pro_certification_helps_confirm_its_major_upgrade-news-75031.php",
-     "pubDate": "Wed, 14 Oct 2026 08:32:02 +0200",
-     "summary": "Infinix launched the Note 60 Pro back in February, and its successor is already starting to show up in certification databases. Today, an Infinix phone with the model number X6766 has appeared in the Eurasian Economic Commission (EEC) database, and the listing also reveals its full marketing name: N",
-     "source": "GSMArena",
-     "zh": "Infinix Note 70 Pro certification helps confirm its major upgrade"
-    },
-    {
      "title": "家中、这里、那里——Sonos Play 体验",
      "link": "https://sspai.com/post/115382",
      "pubDate": "Wed, 14 Oct 2026 12:10:30 +0800",
@@ -2290,6 +2282,158 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+     "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+     "pubDate": "Wed, 14 Oct 2026 12:49:45 GMT",
+     "summary": "Morgan Stanley is expected to benefit from robust investment banking and equities trading revenue.",
+     "source": "CNBC",
+     "zh": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million"
+    },
+    {
+     "title": "Stock futures fall as investors digest CPI report",
+     "link": "https://seekingalpha.com/news/4652763-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 08:48:33 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stock futures fall as investors digest CPI report"
+    },
+    {
+     "title": "Treasury yields jump across the curve on sticky inflation data",
+     "link": "https://seekingalpha.com/news/4652881-treasury-yields-jump-across-the-curve-on-sticky-inflation-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 08:48:26 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Treasury yields jump across the curve on sticky inflation data"
+    },
+    {
+     "title": "Corporación América Airports raises stake in Toscana Aeroporti to 68.07%",
+     "link": "https://seekingalpha.com/news/4652884-corporacion-america-airports-raises-stake-in-toscana-aeroporti-to-68_07-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 08:46:24 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Corporación América Airports raises stake in Toscana Aeroporti to 68.07%"
+    },
+    {
+     "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+     "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 12:45:00 GMT",
+     "summary": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
+     "source": "MarketWatch",
+     "zh": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher"
+    },
+    {
+     "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+     "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 12:45:00 GMT",
+     "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
+     "source": "MarketWatch",
+     "zh": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine"
+    },
+    {
+     "title": "Arrowhead spikes after early-stage trial data for Alzheimer’s disease",
+     "link": "https://seekingalpha.com/news/4652880-arrowhead-stock-gains-trial-data-alzheimers-drug?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 08:44:30 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Arrowhead spikes after early-stage trial data for Alzheimer’s disease"
+    },
+    {
+     "title": "Bank of America shares drop 5% after third-quarter revenue miss and regulatory penalty",
+     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+     "pubDate": "Wed, 14 Oct 2026 12:43:55 GMT",
+     "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+     "source": "CNBC",
+     "zh": "Bank of America shares drop 5% after third-quarter revenue miss and regulatory penalty"
+    },
+    {
+     "title": "Iran says it’s ‘counting the moments’ until it can attack U.S. warships; Saudi Aramco facilities attacked",
+     "link": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+     "pubDate": "Wed, 14 Oct 2026 12:43:45 GMT",
+     "summary": "Meanwhile, Saudi Arabia's Aramco reportedly came under fresh attack overnight.",
+     "source": "CNBC",
+     "zh": "Iran says it’s ‘counting the moments’ until it can attack U.S. warships; Saudi Aramco facilities attacked"
+    },
+    {
+     "title": "CPI read: Coffee prices rise 7% in September",
+     "link": "https://seekingalpha.com/news/4652882-cpi-read-coffee-prices-rise-7-percent-in-september?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 08:43:17 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CPI read: Coffee prices rise 7% in September"
+    },
+    {
+     "title": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket",
+     "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+     "pubDate": "Wed, 14 Oct 2026 12:41:39 GMT",
+     "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
+     "source": "CNBC",
+     "zh": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket"
+    },
+    {
+     "title": "出口大增，中国电池厂的海外生意越做越重",
+     "link": "https://wallstreetcn.com/articles/3783636",
+     "pubDate": "Wed, 14 Oct 2026 20:40:32 +0800",
+     "summary": "作者 | 周智宇 中国锂电池出口仍在增长。 10月14日，海关总署公布，前三季度我国锂电池出口同比增长36.4%。此前的分市场数据已经显示出变化：根据动力电池应用分会整理的海关数据，前8个月对美锂电池出口额下降24%；按同口径金额测算，对美国以外市场的出口额增长约53%。其他市场补上了美国留下的缺口。 几家头部企业因此呈现出不同的增长面貌。宁德时代在欧洲、亚洲继续扩大业务，比亚迪的电池跟随汽车进入更多海外市场，亿纬锂能、海辰储能等厂商则在储能市场争取订单。供货之外，与客户共同建厂、承担当地服务的合作越来越多，电池厂也把更多投入留在了海外。 宁德时代与韩国同行的份额变化，最能看出区域需求分化的影",
+     "source": "华尔街见闻",
+     "zh": "出口大增，中国电池厂的海外生意越做越重"
+    },
+    {
+     "title": "美国CPI超预期加剧加息押注，美股美债双双下挫，美元上涨，现货黄金走低",
+     "link": "https://wallstreetcn.com/articles/3783586",
+     "pubDate": "Wed, 14 Oct 2026 20:40:08 +0800",
+     "summary": "美国9月通胀数据超出预期，重燃市场对美联储维持高利率的担忧，推动美股期货抹去早盘涨幅、美债收益率走高。 美国劳工统计局周三公布的数据显示，9月消费者价格指数（CPI）环比上涨0.6%，创五个月来最快升速，年率升幅为3.7%。数据公布后，美股期货迅速转跌，标普500指数将录得连续第三个交易日下跌，10年期美国国债收益率上行6个基点至5.27%。现货黄金短线走低约30美元，现报4128.60美元/盎司。 在通胀压力下，油价居高不下进一步加剧市场不安情绪。布伦特原油徘徊在每桶106美元附近，交易员持续权衡中东地区最新紧张局势及市场前景的不确定性。与此同时，美联储监管副主席Michelle Bowma",
+     "source": "华尔街见闻",
+     "zh": "美国CPI超预期加剧加息押注，美股美债双双下挫，美元上涨，现货黄金走低"
+    },
+    {
+     "title": "美银CEO莫伊尼汉：（关于12亿美元罚款）我们理解合规的重要性",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895663642.html",
+     "pubDate": "Wed, 14 Oct 2026 20:40:04 +0800",
+     "summary": "美银CEO莫伊尼汉：（关于12亿美元罚款）我们理解合规的重要性。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "美银CEO莫伊尼汉：（关于12亿美元罚款）我们理解合规的重要性"
+    },
+    {
+     "title": "美国2至5年期国债收益率日内均上涨至少10个基点",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895663779.html",
+     "pubDate": "Wed, 14 Oct 2026 20:40:03 +0800",
+     "summary": "美国2至5年期国债收益率日内均上涨至少10个基点。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "美国2至5年期国债收益率日内均上涨至少10个基点"
+    },
+    {
+     "title": "意大利10年期国债收益率上升4个基点，至4.597%；法国10年期国债收益率上升4.5个基点，至4.89%",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895663578.html",
+     "pubDate": "Wed, 14 Oct 2026 20:40:03 +0800",
+     "summary": "意大利10年期国债收益率上升4个基点，至4.597%；法国10年期国债收益率上升4.5个基点，至4.89%。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "意大利10年期国债收益率上升4个基点，至4.597%；法国10年期国债收益率上升4.5个基点，至4.89%"
+    },
+    {
+     "title": "美国通胀全线升温 市场加大对美联储加息预期",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895663462.html",
+     "pubDate": "Wed, 14 Oct 2026 20:40:03 +0800",
+     "summary": "受伊朗战争推动燃油价格反弹影响，美国9月未季调CPI年率升至3.7%，在11月中期选举临近之际进一步加重美国民众的生活成本压力。未季调核心CPI年率则从8月的2.4%升至2.6%。数据公布后，美国国债收益率跳升，国际金银价格大跌，美元指数走高，同时市场增加2027年底前美联储再加息三次的押注。美国劳工统计局公布的数据标志着美国通胀率自5月以来首次回升，凸显中东战争引发的能源价格冲击仍在持续影响全球最大经济体。战争爆发后，汽油和柴油价格一度飙升，随后在夏季有所回落，但近几个月随着紧张局势升级，燃油价格再次上涨，推动柴油价格创下 历史新高 。美国总统特朗普一直试图控制能源价格上涨带来的冲击。民调显",
+     "source": "东方财富股票",
+     "zh": "美国通胀全线升温 市场加大对美联储加息预期"
+    },
+    {
+     "title": "美银CEO莫伊尼汉：消费者支出强劲，经济韧性十足",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895663270.html",
+     "pubDate": "Wed, 14 Oct 2026 20:40:03 +0800",
+     "summary": "美银CEO莫伊尼汉：消费者支出强劲，经济韧性十足。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "美银CEO莫伊尼汉：消费者支出强劲，经济韧性十足"
+    },
+    {
+     "title": "美国9月实际平均周薪同比下降0.1%",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895663819.html",
+     "pubDate": "Wed, 14 Oct 2026 20:39:42 +0800",
+     "summary": "美国9月实际平均周薪同比下降0.1%，实际平均时薪同比下降0.7%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国9月实际平均周薪同比下降0.1%"
+    },
+    {
      "title": "三季报集体预喜，PCB公司的“好业绩”还能持续多久？",
      "link": "http://www.eeo.com.cn/2026/1014/1064521.shtml",
      "pubDate": "Wed, 14 Oct 2026 20:39:02 +0800",
@@ -2306,12 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "BoE and IMF warn of cyber threat to banking system"
     },
     {
-     "title": "BHP's Escondida workers reach preliminary deal with supervisors union, likely averting strike",
+     "title": "BHP reaches preliminary deal with Escondida mine supervisors union, likely averting strike",
      "link": "https://seekingalpha.com/news/4652868-bhps-escondida-workers-reach-preliminary-deal-with-supervisors-union-likely-averting-strike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 14 Oct 2026 08:38:40 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "BHP's Escondida workers reach preliminary deal with supervisors union, likely averting strike"
+     "zh": "BHP reaches preliminary deal with Escondida mine supervisors union, likely averting strike"
     },
     {
      "title": "US inflation jumps to 3.7% as Iran war drives up prices",
@@ -2322,60 +2466,20 @@ window.INDUSTRY_DATA = {
      "zh": "US inflation jumps to 3.7% as Iran war drives up prices"
     },
     {
-     "title": "CPI read: Airfares jump 22% in September as hot steak extends",
-     "link": "https://seekingalpha.com/news/4652876-cpi-read-airfares-jump-22-in-september-as-hot-steak-extends?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 08:37:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CPI read: Airfares jump 22% in September as hot steak extends"
+     "title": "市场加大对10月美联储加息的押注",
+     "link": "http://finance.eastmoney.com/news/1345,202610143895660552.html",
+     "pubDate": "Wed, 14 Oct 2026 20:34:57 +0800",
+     "summary": "交易员增加对10月美联储加息的押注，同时预计到2027年底美联储还将加息三次。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "市场加大对10月美联储加息的押注"
     },
     {
-     "title": "Bank of America shares drop 5% after third-quarter revenue miss and regulatory penalty",
-     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-     "pubDate": "Wed, 14 Oct 2026 12:36:54 GMT",
-     "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-     "source": "CNBC",
-     "zh": "Bank of America shares drop 5% after third-quarter revenue miss and regulatory penalty"
-    },
-    {
-     "title": "美国通胀反弹，美股期货短线走低，美债收益率短线拉升，现货黄金短线走低",
-     "link": "https://wallstreetcn.com/articles/3783586",
-     "pubDate": "Wed, 14 Oct 2026 20:35:04 +0800",
-     "summary": "美国通胀反弹，市场增加2027年底前美联储再加息三次的押注。 美国9月CPI同比3.7%，预期 3.6%，前值 3.4%。数据公布后，美元指数短线拉升约30点，现报102.52。美股期货短线走低，三大股指期货均转跌。美国10年期国债收益率短线拉升，现报5.189%。现货黄金短线走低约30美元，现报4128.60美元/盎司。 美联储纽约联储主席John Williams周二表示，今年再加息一次是合适的，2027年将不再进一步收紧货币政策。然而，货币市场目前定价显示，未来12个月内至少还有三次利率调整，与官员表态存在明显分歧。 美股期货短线走低，三大股指期货均转跌。 美国10年期国债收益率短线拉升",
-     "source": "华尔街见闻",
-     "zh": "美国通胀反弹，美股期货短线走低，美债收益率短线拉升，现货黄金短线走低"
-    },
-    {
-     "title": "Consumer prices rose 0.6% in September, putting annual inflation rate at 3.7%",
-     "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-     "pubDate": "Wed, 14 Oct 2026 12:34:44 GMT",
-     "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
-     "source": "CNBC",
-     "zh": "Consumer prices rose 0.6% in September, putting annual inflation rate at 3.7%"
-    },
-    {
-     "title": "Mesoblast GAAP EPS of -$0.04 beats by $0.08, revenue of $120.25M misses by $65.62M",
-     "link": "https://seekingalpha.com/news/4652875-mesoblast-gaap-eps-of-0_04-beats-by-0_08-revenue-of-120_25m-misses-by-65_62m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 08:34:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Mesoblast GAAP EPS of -$0.04 beats by $0.08, revenue of $120.25M misses by $65.62M"
-    },
-    {
-     "title": "CPI inflation heats up in September, in line with expectations",
-     "link": "https://seekingalpha.com/news/4652866-cpi-inflation-heats-up-in-september-in-line-with-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 08:32:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CPI inflation heats up in September, in line with expectations"
-    },
-    {
-     "title": "Scinai Immunotherapeutics announces $4M financing deal; shares tumble",
-     "link": "https://seekingalpha.com/news/4652871-scinai-immunotherapeutics-announces-4m-financing-deal-shares-tumble?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 08:27:39 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Scinai Immunotherapeutics announces $4M financing deal; shares tumble"
+     "title": "美国9月CPI同比增长3.7% 高于市场预期",
+     "link": "http://finance.eastmoney.com/news/1345,202610143895658536.html",
+     "pubDate": "Wed, 14 Oct 2026 20:30:40 +0800",
+     "summary": "美国9月消费者价格指数（CPI）同比增长3.7%，预估为3.6%，前值为3.4%。9月CPI环比增长0.6%，预估0.6%。 美国9月核心CPI同比增长2.6%，预估为2.5%，前值为2.4%。9月核心CPI环比增长0.3%，预估为0.2%，前值为0.3%。 交易员增加对10月美联储加息的押注，同时预计到2027年底美联储还将加息三次。 数据发布后，现货 黄金 日内跌幅扩大至1%，报4119.03美元/盎司。现货 白银 日内跌幅扩大至2%，报57.81美元/盎司。 美元指数短线拉升约30点，现报102.52。美股 期货 短线走低，三大股指 期货 均转跌。美国10年期国债收益率短线拉升，现报5.",
+     "source": "东方财富资讯",
+     "zh": "美国9月CPI同比增长3.7% 高于市场预期"
     },
     {
      "title": "2026“险资入蒙”暨算电协同产融对接会在内蒙古呼和浩特市开幕",
@@ -2384,22 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "本报讯 （记者马宇薇）10月14日，2026“险资入蒙”暨算电协同产融对接会在内蒙古呼和浩特市开幕。本次活动旨在深入落实国家“东数西算”工程与内蒙古自治区党委“1571”工作部署，引导保险长期资本精准投向算力新基建等重点领域，是内蒙古首次纳入全国“险资入省”序列的专项产融对接活动。该活动由内蒙古自治区党委金融办联合呼和浩特、包头、乌兰察布三市主办，全国40余家保险机构、内蒙古区内40余家重点企业负责人参会。 ...",
      "source": "经济观察网",
      "zh": "2026“险资入蒙”暨算电协同产融对接会在内蒙古呼和浩特市开幕"
-    },
-    {
-     "title": "Citi places Procter & Gamble on positive catalyst watch ahead of FQ1 gains",
-     "link": "https://seekingalpha.com/news/4652855-citi-places-procter-gamble-on-positive-catalyst-watch-ahead-of-fq1-gains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 08:24:28 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Citi places Procter & Gamble on positive catalyst watch ahead of FQ1 gains"
-    },
-    {
-     "title": "Iran says it’s ‘counting the moments’ until it can attack American warships; Saudi Aramco facilities attacked as Houthi attacks escalate",
-     "link": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
-     "pubDate": "Wed, 14 Oct 2026 12:20:05 GMT",
-     "summary": "Meanwhile, Saudi Arabia's Aramco reportedly came under fresh attack overnight.",
-     "source": "CNBC",
-     "zh": "Iran says it’s ‘counting the moments’ until it can attack American warships; Saudi Aramco facilities attacked as Houthi attacks escalate"
     },
     {
      "title": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?",
@@ -2432,102 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "美银证券：新加坡通胀存上行风险 维持2027年1月适度收紧政策预期 三菱日联：印度央行政策抑制卢比投机 托底即期汇率但抬升对冲成本 德商银行：德国中小企业信贷需求尚未回暖 制约因素并非利率 【机构分析】 •杰富瑞全球经济学家指出，地缘政治局势与人工智能仍是当前全球金融市场两大主导驱动因素。地缘政治不确定性将持续影响全球金融市场。 •美银证券分析师指出，新加坡持续存在的成本...",
      "source": "经济观察网",
      "zh": "每日机构分析：10月14日"
-    },
-    {
-     "title": "内存崩溃，高盛：谁高位接盘了美股科技？",
-     "link": "https://wallstreetcn.com/articles/3783632",
-     "pubDate": "Wed, 14 Oct 2026 20:10:13 +0800",
-     "summary": "长鑫科技的技术突破，在四个交易日内引爆了全球半导体市场，将一场拥挤的AI内存交易推向清算时刻。 高盛策略师Robert Quinn在最新报告《纳斯达克期货：内存崩溃》中，通过持仓数据还原了这场抛售的结构 ：投机性\"快钱\"在行情见顶的那一周将纳斯达克期货多头仓位推至一年高位，随后遭到止损出局；而规模约700亿美元的资产管理机构多头仓位，至今未见任何松动迹象。 高盛指出， 这一庞大的\"慢钱\"头寸，才是市场下一个潜在的抛售来源。 此次冲击波已在全球市场留下明显痕迹。高盛内存及AI半导体篮子在10月5日至12日期间分别下跌9.3%和6.7%，韩国综合股价指数（Kospi）遭受重创，铠侠（Kioxia）",
-     "source": "华尔街见闻",
-     "zh": "内存崩溃，高盛：谁高位接盘了美股科技？"
-    },
-    {
-     "title": "Delta&apos;s business-class revamp: New seats, menus, plates and more Porsches",
-     "link": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
-     "pubDate": "Wed, 14 Oct 2026 12:10:03 GMT",
-     "summary": "Delta is upgrading its top-tier Delta One cabin with new suites for its largest A350 plane, starting next year.",
-     "source": "CNBC",
-     "zh": "Delta&apos;s business-class revamp: New seats, menus, plates and more Porsches"
-    },
-    {
-     "title": "英伟达开放Vera Rubin机架设计，AI数据中心标准之争提前打响",
-     "link": "https://wallstreetcn.com/articles/3783629",
-     "pubDate": "Wed, 14 Oct 2026 20:08:05 +0800",
-     "summary": "英伟达向外部厂商开放其下一代AI平台Vera Rubin的服务器设计规范，并发布专为AI智能体打造的CPU机架系统，意在将自身技术标准植入整个AI数据中心生态，进一步巩固其在GPU市场之外的行业影响力。 此次披露发生于13日在加利福尼亚州圣何塞举行的开放计算项目（OCP）全球峰会。 英伟达副总裁Ian Buck在演讲中宣布，公司将向外部合作方开放Vera Rubin平台的服务器机架及计算托盘设计蓝图，涵盖供电、液冷和网络连接的通用规范。 英伟达表示，此举将降低服务器制造商的研发门槛，并缩短数据中心的建设周期与成本。 行业分析人士认为，此举背后存在明确的战略意图——随着AI智能体时代到来，基础设",
-     "source": "华尔街见闻",
-     "zh": "英伟达开放Vera Rubin机架设计，AI数据中心标准之争提前打响"
-    },
-    {
-     "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
-     "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 12:03:00 GMT",
-     "summary": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
-     "source": "MarketWatch",
-     "zh": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher"
-    },
-    {
-     "title": "订单爆满、产能告急，ASML打脸空头",
-     "link": "https://wallstreetcn.com/articles/3783630",
-     "pubDate": "Wed, 14 Oct 2026 20:01:21 +0800",
-     "summary": "ASML交出一份全面超预期的三季度成绩单，同时以爆棚的订单需求和主动扩产计划，正面回击了市场长期以来对光刻强度下滑的悲观预期。 据摩根大通和瑞银10月14日发布的研报，ASML三季度每股收益较市场预期高出逾20%，毛利率显著超出公司自身指引上限。更关键的是，公司披露当前订单积压已超出2027年和2028年的既有产能上限，客户甚至已开始争抢2029年乃至2030年的交货窗口，公司正研究在2028年将产能扩张幅度提升至此前规划的30%增速以上。 上述信号直接击穿了空头的核心逻辑。摩根大通指出， ASML 2026年全年收入增速中值达36.2%，高于该行预测的全球晶圆厂设备（WFE）市场31%的增速",
-     "source": "华尔街见闻",
-     "zh": "订单爆满、产能告急，ASML打脸空头"
-    },
-    {
-     "title": "How to read your body’s warning signs years before you get sick",
-     "link": "https://www.marketwatch.com/story/how-to-read-your-bodys-warning-signs-years-before-you-get-sick-3fb8c82d?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
-     "summary": "Most of us don’t just want to live longer lives. We want to live longer and healthier lives.",
-     "source": "MarketWatch",
-     "zh": "How to read your body’s warning signs years before you get sick"
-    },
-    {
-     "title": "Europe’s defence stocks send a geopolitical distress signal",
-     "link": "https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971?syn-25a6b1a6=1",
-     "pubDate": "Wed, 14 Oct 2026 11:59:38 GMT",
-     "summary": "Even when governments do sign big cheques, it takes a while for defence contractors to ramp up production",
-     "source": "Financial Times",
-     "zh": "Europe’s defence stocks send a geopolitical distress signal"
-    },
-    {
-     "title": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million",
-     "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-     "pubDate": "Wed, 14 Oct 2026 11:58:05 GMT",
-     "summary": "Morgan Stanley is expected to benefit from robust investment banking and equities trading revenue.",
-     "source": "CNBC",
-     "zh": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million"
-    },
-    {
-     "title": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Wed, 14 Oct 2026 19:57:40 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴"
-    },
-    {
-     "title": "盘活存量土地 又有积极政策信号",
-     "link": "http://www.eeo.com.cn/2026/1014/1064509.shtml",
-     "pubDate": "Wed, 14 Oct 2026 19:52:21 +0800",
-     "summary": "21世纪经济报道记者 张敏 在盘活存量土地方面，积极的政策信号正在连续释放。 10月9日，湖南省人民政府新闻办公室召开新闻发布会，对《支持存量土地盘活增效促进高质量发展的若干措施》（以下简称《若干措施》）进行解读，多个政府部门的相关负责人参加发布会。 这份文件于今年8月印发，是全国首份以省人民政府办公厅名义出台的存量土地盘活政策文件。文件共涵盖18条措施，其中提及的允许分割转让、支持带押...",
-     "source": "经济观察网",
-     "zh": "盘活存量土地 又有积极政策信号"
-    },
-    {
-     "title": "What analysts are watching with key semiconductor maker TSMC set to report results",
-     "link": "https://www.marketwatch.com/story/what-analysts-are-watching-with-key-semiconductor-maker-tsmc-set-to-report-results-c161e86b?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 11:36:00 GMT",
-     "summary": "Analysts at JPMorgan and Citigroup see further revenue growth for the semiconductor foundry, even after already posting a record-breaking figure for the third quarter.",
-     "source": "MarketWatch",
-     "zh": "What analysts are watching with key semiconductor maker TSMC set to report results"
-    },
-    {
-     "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-     "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 11:28:00 GMT",
-     "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
-     "source": "MarketWatch",
-     "zh": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine"
     }
    ]
   },

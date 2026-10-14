@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/15 06:32:03",
+ "generated_at": "2026/10/15 06:45:44",
  "recent_days": 7,
  "industries": [
   {
@@ -505,14 +505,6 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
-    {
-     "title": "How ADI is helping robotics startups scale",
-     "link": "https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale/",
-     "pubDate": "Wed, 14 Oct 2026 20:29:21 +0000",
-     "summary": "Robotics businesses need help keeping up with innovations as they scale. Analog Devices Inc. or ADI is offering its Emerging Tech Hub. The post How ADI is helping robotics startups scale appeared first on The Robot Report .",
-     "source": "Robotics Business Review",
-     "zh": "How ADI is helping robotics startups scale"
-    },
     {
      "title": "Dubai Police adds 920-horsepower hybrid Lamborghini Temerario to patrol fleet",
      "link": "https://roboticsandautomationnews.com/2026/10/14/dubai-police-adds-920-horsepower-hybrid-lamborghini-temerario-to-patrol-fleet/105932/",
@@ -1314,6 +1306,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Artemis III SLS teams prepare short stack for pad tanking test",
+     "link": "https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/",
+     "pubDate": "Wed, 14 Oct 2026 22:36:14 +0000",
+     "summary": "With both solid rocket boosters fully stacked and all four RS-25 engines now installed on… The post Artemis III SLS teams prepare short stack for pad tanking test appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Artemis III SLS teams prepare short stack for pad tanking test"
+    },
+    {
      "title": "Planetary genealogy: Milky Way worlds belong to 1 of 2 ‘families,’ scientists find",
      "link": "https://www.space.com/astronomy/exoplanets/planetary-genealogy-milky-way-worlds-belong-to-1-of-2-families-scientists-find",
      "pubDate": "Wed, 14 Oct 2026 21:00:00 +0000",
@@ -1544,14 +1544,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ship 42 for Flight 15 has headed back out to Massey’s for more cryo-proof testing… The post Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "Ship 40 Returns Home as Ship 42 gets more Cryo Proof Testing"
-    },
-    {
-     "title": "What will it take to build a moon base?",
-     "link": "https://spacenews.com/what-will-it-take-to-build-a-moon-base/",
-     "pubDate": "Thu, 08 Oct 2026 13:57:38 +0000",
-     "summary": "In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […] The post What will it take to build a moon base? appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "What will it take to build a moon base?"
     }
    ]
   },
@@ -1786,12 +1778,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Shareholders for both Fox Corp. and Roku approve Fox&apos;s $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance (Todd Spangler/Variety)",
+     "link": "https://www.techmeme.com/261014/p45#a261014p45",
+     "pubDate": "Wed, 14 Oct 2026 18:40:01 -0400",
+     "summary": "Todd Spangler / Variety : Shareholders for both Fox Corp. and Roku approve Fox's $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance &nbsp; &mdash;&nbsp; At separate special meetings of shareholders Wednesday to vote on the deal, the majority of ",
+     "source": "Techmeme",
+     "zh": "Shareholders for both Fox Corp. and Roku approve Fox&apos;s $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance (Todd Spangler/Variety)"
+    },
+    {
+     "title": "Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 (Financial Times)",
+     "link": "https://www.techmeme.com/261014/p44#a261014p44",
+     "pubDate": "Wed, 14 Oct 2026 18:30:03 -0400",
+     "summary": "Financial Times : Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 &nbsp; &mdash;&nbsp; AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its anticipat",
+     "source": "Techmeme",
+     "zh": "Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 (Financial Times)"
+    },
+    {
      "title": "Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously (Rolfe Winkler/Wall Street Journal)",
      "link": "https://www.techmeme.com/261014/p43#a261014p43",
      "pubDate": "Wed, 14 Oct 2026 18:15:02 -0400",
      "summary": "Rolfe Winkler / Wall Street Journal : Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously &nbsp; &mdash;&nbsp; To power Apple's next phase, CEO John Ternus needs to raise Apple's AI game&nbsp; &mdash;&n",
      "source": "Techmeme",
      "zh": "Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously (Rolfe Winkler/Wall Street Journal)"
+    },
+    {
+     "title": "Tiny Little Office",
+     "link": "https://tinylittleoffice.com/",
+     "pubDate": "Wed, 14 Oct 2026 22:10:08 +0000",
+     "summary": "Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 19 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Tiny Little Office"
     },
     {
      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
@@ -1818,6 +1834,22 @@ window.INDUSTRY_DATA = {
      "zh": "Zenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others (Ivan Mehta/TechCrunch)"
     },
     {
+     "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+     "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+     "pubDate": "Wed, 14 Oct 2026 21:35:09 +0000",
+     "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+     "source": "Ars Technica",
+     "zh": "Fridge hack costing millions and sparking fires stemmed from poor security"
+    },
+    {
+     "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+     "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+     "pubDate": "Wed, 14 Oct 2026 21:15:56 +0000",
+     "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+     "source": "Ars Technica",
+     "zh": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam"
+    },
+    {
      "title": "YouTube Music rolls out labels for songs created with the help of AI; Spotify has AI labels, and Apple Music plans to add \"Made With AI\" labels later this year (Lauren Forristal/TechCrunch)",
      "link": "https://www.techmeme.com/261014/p41#a261014p41",
      "pubDate": "Wed, 14 Oct 2026 17:15:03 -0400",
@@ -1829,9 +1861,17 @@ window.INDUSTRY_DATA = {
      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
      "link": "https://typesafe.ai/blog/jev-1-14",
      "pubDate": "Wed, 14 Oct 2026 21:11:03 +0000",
-     "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 74 # Comments: 29",
+     "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 83 # Comments: 36",
      "source": "Hacker News",
      "zh": "We’re releasing Jev 1.14.0 along with experimental features for dreamers"
+    },
+    {
+     "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+     "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+     "pubDate": "Wed, 14 Oct 2026 21:03:11 +0000",
+     "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+     "source": "Ars Technica",
+     "zh": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping"
     },
     {
      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
@@ -1853,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "OpenCode 2.0",
      "link": "https://anoma.ly/notes/opencode-2-0/",
      "pubDate": "Wed, 14 Oct 2026 20:48:24 +0000",
-     "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 124 # Comments: 42",
+     "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 143 # Comments: 47",
      "source": "Hacker News",
      "zh": "OpenCode 2.0"
     },
@@ -1877,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Anthropic's Scion is heavily inspired by Mononoke",
      "link": "https://sunshowers.io/posts/anthropic-mononoke/",
      "pubDate": "Wed, 14 Oct 2026 20:30:54 +0000",
-     "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 164 # Comments: 60",
+     "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 174 # Comments: 67",
      "source": "Hacker News",
      "zh": "Anthropic's Scion is heavily inspired by Mononoke"
     },
@@ -1885,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
      "link": "https://blog.cloudflare.com/yandex-outage/",
      "pubDate": "Wed, 14 Oct 2026 20:29:13 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 141 # Comments: 44",
+     "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 151 # Comments: 46",
      "source": "Hacker News",
      "zh": "Yandex outage: data shows that instead of going dark, malicious bots moved"
     },
@@ -1906,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "Schools across US protest FCC plan that could disconnect kids from Internet"
     },
     {
-     "title": "Sources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won&apos;t include Siri AI (Mark Gurman/Bloomberg)",
-     "link": "https://www.techmeme.com/261014/p39#a261014p39",
-     "pubDate": "Wed, 14 Oct 2026 16:05:02 -0400",
-     "summary": "Mark Gurman / Bloomberg : Sources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI &nbsp; &mdash;&nbsp; Apple Inc. is gearing up to release its artificial intelligence platform in mainland China, fol",
-     "source": "Techmeme",
-     "zh": "Sources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won&apos;t include Siri AI (Mark Gurman/Bloomberg)"
-    },
-    {
      "title": "GitHub availability report: September 2026",
      "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
      "pubDate": "Wed, 14 Oct 2026 20:01:35 +0000",
@@ -1930,36 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation"
     },
     {
-     "title": "Software development and rules stability: Prototype racing in 2030",
-     "link": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
-     "pubDate": "Wed, 14 Oct 2026 19:44:26 +0000",
-     "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
-     "source": "Ars Technica",
-     "zh": "Software development and rules stability: Prototype racing in 2030"
-    },
-    {
      "title": "Fancy Curl Sites",
      "link": "https://nytpu.com/gemlog/2026-03-18",
      "pubDate": "Wed, 14 Oct 2026 19:29:12 +0000",
-     "summary": "Article URL: https://nytpu.com/gemlog/2026-03-18 Comments URL: https://news.ycombinator.com/item?id=50093612 Points: 48 # Comments: 10",
+     "summary": "Article URL: https://nytpu.com/gemlog/2026-03-18 Comments URL: https://news.ycombinator.com/item?id=50093612 Points: 51 # Comments: 12",
      "source": "Hacker News",
      "zh": "Fancy Curl Sites"
-    },
-    {
-     "title": "Things to know when you get cancer – 2026 Edition",
-     "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-     "pubDate": "Wed, 14 Oct 2026 19:26:30 +0000",
-     "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 488 # Comments: 125",
-     "source": "Hacker News",
-     "zh": "Things to know when you get cancer – 2026 Edition"
-    },
-    {
-     "title": "SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis&apos; speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min (SpaceXSI)",
-     "link": "https://www.techmeme.com/261014/p38#a261014p38",
-     "pubDate": "Wed, 14 Oct 2026 15:25:03 -0400",
-     "summary": "SpaceXSI : SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis' speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min &nbsp; &mdash;&nbsp; The world's most intelligent voice model. &hellip; Today, we're announcing Grok Voice 3.0, the world's most",
-     "source": "Techmeme",
-     "zh": "SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis&apos; speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min (SpaceXSI)"
     },
     {
      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
@@ -1970,28 +1978,12 @@ window.INDUSTRY_DATA = {
      "zh": "From 2,500 requests to 24: Rebuilding star history without the stargazers"
     },
     {
-     "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
-     "link": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
-     "pubDate": "Wed, 14 Oct 2026 19:10:58 +0000",
-     "summary": "\"Have you ever seen a world born?\"",
-     "source": "Ars Technica",
-     "zh": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer"
-    },
-    {
      "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
      "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
      "pubDate": "Wed, 14 Oct 2026 18:15:00 +0000",
      "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
      "source": "WIRED",
      "zh": "AI Came for Math. Now It’s Chasing the Rest of Science"
-    },
-    {
-     "title": "Researchers use AI to design proteins that cut up other proteins",
-     "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-     "pubDate": "Wed, 14 Oct 2026 17:10:15 +0000",
-     "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
-     "source": "Ars Technica",
-     "zh": "Researchers use AI to design proteins that cut up other proteins"
     },
     {
      "title": "研究估计到 2050 年每年新增痴呆症人数将会翻倍",
@@ -2033,6 +2025,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "WhatsApp takes on Zoom and Google Meet with guest calling",
+     "link": "https://9to5mac.com/2026/10/14/whatsapp-takes-on-zoom-and-google-meet-with-guest-calling/",
+     "pubDate": "Wed, 14 Oct 2026 22:39:29 +0000",
+     "summary": "WhatsApp users can now invite others to join group and one-on-one calls even if they don’t have an account. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "WhatsApp takes on Zoom and Google Meet with guest calling"
+    },
+    {
+     "title": "Old Google Home and Nest speakers getting big firmware update",
+     "link": "https://9to5google.com/2026/10/14/google-home-nest-speaker-update/",
+     "pubDate": "Wed, 14 Oct 2026 22:35:53 +0000",
+     "summary": "Google is testing a big firmware update for the Google Home, Home Mini, Nest Mini, and Nest Audio. more…",
+     "source": "9to5Google",
+     "zh": "Old Google Home and Nest speakers getting big firmware update"
+    },
     {
      "title": "YouTube begins rolling out GIF support for comments very slowly; it’s for a reason",
      "link": "https://9to5google.com/2026/10/14/youtube-begins-rolling-out-gif-support/",
@@ -2146,14 +2154,6 @@ window.INDUSTRY_DATA = {
      "zh": "Verizon customers just got a free Google AI Pro perk"
     },
     {
-     "title": "Apple Intelligence reportedly coming to China in December, but without Siri AI",
-     "link": "https://9to5mac.com/2026/10/14/apple-intelligence-reportedly-coming-to-china-in-december-but-without-siri-ai/",
-     "pubDate": "Wed, 14 Oct 2026 20:20:14 +0000",
-     "summary": "Bloomberg reports that Apple plans to finally launch Apple Intelligence in China in December, although some important features could still be missing. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple Intelligence reportedly coming to China in December, but without Siri AI"
-    },
-    {
      "title": "Fitbit Edge vs Fitbit Air: The differences beyond a screen",
      "link": "https://www.engadget.com/2287042/fitbit-edge-vs-air-differences-compared/",
      "pubDate": "Wed, 14 Oct 2026 20:13:18 +0000",
@@ -2192,14 +2192,6 @@ window.INDUSTRY_DATA = {
      "summary": "Cuts are coming to RedLynx and Ubisoft Singapore.",
      "source": "Engadget",
      "zh": "Ubisoft plans to close another studio and lay off up to 122 workers"
-    },
-    {
-     "title": "Google Fitbit Edge hands-on: Pixel Watch Lite, take two",
-     "link": "https://9to5google.com/2026/10/14/google-fitbit-edge-hands-on-pixel-watch-lite-take-two/",
-     "pubDate": "Wed, 14 Oct 2026 19:30:00 +0000",
-     "summary": "Google’s new Fitbit Edge tracker launches later this month and, as we get our review together, here’s a quick hands-on look at the new middle child of Google’s wearable lineup. more…",
-     "source": "9to5Google",
-     "zh": "Google Fitbit Edge hands-on: Pixel Watch Lite, take two"
     },
     {
      "title": "Even Google’s own support pages aren’t safe from the Gemini takeover",
@@ -2282,60 +2274,132 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
+     "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 22:33:00 GMT",
+     "summary": "Neutron, a medium-lift rocket meant to rival SpaceX’s Falcon 9, will no longer launch this year.",
+     "source": "MarketWatch",
+     "zh": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch"
+    },
+    {
+     "title": "【环球财经】伦敦金属交易所基本金属14日全线下跌",
+     "link": "http://stock.eastmoney.com/news/11784,202610153895902347.html",
+     "pubDate": "Thu, 15 Oct 2026 06:32:25 +0800",
+     "summary": "新华财经伦敦10月14日电（记者张亚东）伦敦金属交易所基本金属价格14日收盘时全线下跌。 3个月期 铜 收于每吨14436.00美元，比前一交易日的收盘价每吨下跌119.50美元，跌幅为0.82%。 3个月期 铝 收于每吨2989.00美元，比前一交易日的收盘价每吨下跌45.50美元，跌幅为1.50%。 3个月期 镍 收于每吨15530.00美元，比前一交易日的收盘价每吨下跌5.00美元，跌幅为0.03%。 3个月期铅收于每吨1901.50美元，比前一交易日的收盘价每吨下跌1.50美元，跌幅为0.08%。 3个月期锡收于每吨50215.00美元，比前一交易日的收盘价每吨下跌1185.00美元，",
+     "source": "东方财富股票",
+     "zh": "【环球财经】伦敦金属交易所基本金属14日全线下跌"
+    },
+    {
+     "title": "Burnham wants to ‘repair bridges’ between Trump and Zelenskyy",
+     "link": "https://www.ft.com/content/16ceb1fb-662c-4379-8187-0a51a7f4106f?syn-25a6b1a6=1",
+     "pubDate": "Wed, 14 Oct 2026 22:31:26 GMT",
+     "summary": "UK prime minister holds talks with Ukraine’s president in Downing Street following US diesel deal with Russia",
+     "source": "Financial Times",
+     "zh": "Burnham wants to ‘repair bridges’ between Trump and Zelenskyy"
+    },
+    {
+     "title": "最强语音模型来了：Grok Voice 3.0登顶测评榜单 SpaceX称可自主处理七成星链客服",
+     "link": "http://stock.eastmoney.com/news/1768,202610153895902070.html",
+     "pubDate": "Thu, 15 Oct 2026 06:31:16 +0800",
+     "summary": "美东时间14日周三， SpaceX 旗下AI业务 SpaceX AI发布新一代语音模型Grok Voice 3.0，主打低延迟、高任务成功率和企业级语音智能体应用。 SpaceX 将Grok Voice 3.0誉为“全球最智能的语音到语音模型”，称它擅长处理客户来电，可在不到1秒内响应客户，成本低于业内前沿模型，并已能自主解决SpaceX旗下星链（Starlink）业务70%的客服来电。开发者即日起可通过API和语音智能体构建工具调用该模型，定价为每分钟0.08美元。 独立AI评测平台Artificial Analysis的测试进一步显示，Grok Voice 3.0在其语音到语音模型 综合 ",
+     "source": "东方财富股票",
+     "zh": "最强语音模型来了：Grok Voice 3.0登顶测评榜单 SpaceX称可自主处理七成星链客服"
+    },
+    {
+     "title": "欧盟进口纯电车逾四成来自中国；东风汽车与兵器工业集团展开战略合作 | 汽车早参",
+     "link": "http://finance.eastmoney.com/news/1354,202610153895902119.html",
+     "pubDate": "Thu, 15 Oct 2026 06:30:41 +0800",
+     "summary": "| 2026年10月15日星期四 | NO.1 乘联分会：10月前11日，全国 乘用车 市场零售同比下降24% 10月14日，乘联分会发布最新数据显示，10月1日至11日，全国 乘用车 市场零售45.9万辆，同比下降24%，环比增长7%。同期，全国 乘用车 新能源 市场零售28.1万辆，同比下降13%，环比下降7%；全国乘用车市场 新能源 零售渗透率61.2%；全国乘用车厂商 新能源 批发渗透率78.1%。 点评： 10月前11日国内乘用车零售同比明显走弱，新能源板块韧性凸显，渗透率保持高位。国内终端需求承压，海外市场的增长价值进一步凸显。 NO.2 奇瑞与首钢联合研发55%再生钢零部件下线 ",
+     "source": "东方财富股票",
+     "zh": "欧盟进口纯电车逾四成来自中国；东风汽车与兵器工业集团展开战略合作 | 汽车早参"
+    },
+    {
+     "title": "上海房车消费，如何走向大众新赛道？",
+     "link": "http://finance.eastmoney.com/news/1354,202610153895902444.html",
+     "pubDate": "Thu, 15 Oct 2026 06:30:04 +0800",
+     "summary": "今年国庆假期，上海普陀区TOP中央公园的房车音乐嘉年华中，近百辆房车一字排开，舞台上老狼、品冠、许茹芸唱着经典歌曲，草坪边是近50个市集摊位。两天时间，近两万名市民游客涌入这片绿地，在房车旁听音乐、逛市集、喝咖啡。 一个多月前，嘉定安亭，第27届上海国际房车展落幕，三天展期累计接待观众近7万人次，现场成交金额达1.67亿元，意向成交金额达4亿元。28岁的互联网从业者林澈手里捏着卷尺，弯腰比对一台升顶露营车的尺寸，肩上背着双肩包，脚边牵着一只戴着防风墨镜的小柴犬。他算了一笔账：20多万元的总价，挂 新能源 绿牌，工作日通勤代步，周末开进山里看星星，“相当于把 酒店 钱省了，还能当移动第三空间。”",
+     "source": "东方财富股票",
+     "zh": "上海房车消费，如何走向大众新赛道？"
+    },
+    {
+     "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+     "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 22:30:00 GMT",
+     "summary": "”I earn $110,000 a year.”",
+     "source": "MarketWatch",
+     "zh": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
+    },
+    {
+     "title": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高",
+     "link": "https://wallstreetcn.com/articles/3783586",
+     "pubDate": "Thu, 15 Oct 2026 06:29:03 +0800",
+     "summary": "通胀顽固、AI信贷裂缝扩大、油价上涨三重压力同时袭来，美股周三遭遇重挫，科技与半导体股领跌，美元升至18个月高位，市场对美联储加息预期急剧重新定价。 美国9月CPI超预期上涨，令市场对美联储将在更长时间内维持高利率的押注骤然升温。标普500指数下跌1.1%，以科技股为重的纳斯达克100指数下挫2%，创三个月来最大单日跌幅。 小盘股指数罗素2000进入技术性调整区间。芯片指数单日暴跌4.3%，连续第六个交易日收跌，创下近两年来最长连跌纪录。 与此同时，AI相关企业债市场出现明显裂缝，云计算公司CoreWeave债券价格跌至通常预示财务困境的水平，该公司股价单日重挫逾15%。 美元指数刷新2025",
+     "source": "华尔街见闻",
+     "zh": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高"
+    },
+    {
+     "title": "影响市场重大事件：2026物理AI与世界模型大会将于10月19日至22日在南京举行；美政府开始审理SpaceX星舰扩张提案；交通运输部印发《水运领域人工智能应用场景指引》",
+     "link": "http://finance.eastmoney.com/news/1354,202610153895901482.html",
+     "pubDate": "Thu, 15 Oct 2026 06:26:41 +0800",
+     "summary": "｜2026年10月15日星期四｜ NO.1 2026物理AI与世界模型大会将于10月19日至22日在南京举行 2026物理AI与世界模型大会将于10月19日至22日在南京国际博览中心举行。据了解，此次大会是国内首个聚焦该领域的高规格 综合 性行业大会，旨在搭建世界模型理论研究与产业发展的交流平台。江苏在数据采集、高质量数据集建设、模型训练、场景应用等环节具备良好基础，“数据供给—模型训练—场景验证—规模推广”的闭环已基本形成。研讨分会场将围绕医疗健康世界模型、工业世界模型、数据开发、自动驾驶、具身智能等方向展开，从基础科学问题到行业落地路径，再到产融协同，构成一条完整的技术演进和产业转化链条。",
+     "source": "东方财富股票",
+     "zh": "影响市场重大事件：2026物理AI与世界模型大会将于10月19日至22日在南京举行；美政府开始审理SpaceX星舰扩张提案；交通运输部印发《水运领域人工智能应用场景指引》"
+    },
+    {
      "title": "证监会开出1.72亿元罚单！*ST清越涉欺诈发行、财务造假案",
      "link": "http://finance.eastmoney.com/news/1354,202610143895715056.html",
      "pubDate": "Thu, 15 Oct 2026 06:26:17 +0800",
-     "summary": "【大河财立方消息】 10月14日晚间，苏州清越光电科技股份有限公司（证券简称： *ST清越 ）公告，收到证监会下发的《行政处罚决定书》：针对公司欺诈发行违法行为、信息披露违法行为，证监会决定对公司处以1.72亿元罚款。 经证监会查明， *ST清越 存在以下违法事实： 首先是证券发行文件编造重大虚假内容， *ST清越 披露的《招股说明书》涉及财务数据存在虚假记载。 2020年至2022年上半年，*ST清越通过故意少计存货跌价准备、虚假销售芯片分别虚增利润总额337.40万元、764.53万元、2358.16万元，占《招股说明书》披露的各当期利润总额的5.56%、15.58%、131.74%。 其",
-     "source": "东方财富资讯",
+     "summary": "10月14日晚间，苏州清越光电科技股份有限公司（证券简称： *ST清越 ）公告，收到证监会下发的《行政处罚决定书》：针对公司欺诈发行违法行为、信息披露违法行为，证监会决定对公司处以1.72亿元罚款。 经证监会查明， *ST清越 存在以下违法事实： 首先是证券发行文件编造重大虚假内容， *ST清越 披露的《招股说明书》涉及财务数据存在虚假记载。 2020年至2022年上半年，*ST清越通过故意少计存货跌价准备、虚假销售芯片分别虚增利润总额337.40万元、764.53万元、2358.16万元，占《招股说明书》披露的各当期利润总额的5.56%、15.58%、131.74%。 其次是未按规定披露重大",
+     "source": "东方财富股票",
      "zh": "证监会开出1.72亿元罚单！*ST清越涉欺诈发行、财务造假案"
+    },
+    {
+     "title": "Edison wins dismissal of some key claims in Palisades Fire lawsuit",
+     "link": "https://seekingalpha.com/news/4653217-edison-wins-dismissal-of-key-claims-in-palisades-fire-lawsuit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 18:26:12 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Edison wins dismissal of some key claims in Palisades Fire lawsuit"
+    },
+    {
+     "title": "You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
+     "link": "https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 22:25:00 GMT",
+     "summary": "For most of U.S. history, an all-stock and a 60-40 portfolio have run neck-and-neck for trailing 30-year returns.",
+     "source": "MarketWatch",
+     "zh": "You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go."
+    },
+    {
+     "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+     "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 22:24:00 GMT",
+     "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
+     "source": "MarketWatch",
+     "zh": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?"
+    },
+    {
+     "title": "Big banks see risks in financing the AI boom, but are happy to keep writing the checks",
+     "link": "https://www.marketwatch.com/story/big-banks-see-risks-in-financing-the-ai-boom-but-are-happy-to-keep-writing-the-checks-e459a206?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 22:23:00 GMT",
+     "summary": "The CEO’s the U.S.’s biggest banks all chimed in on the risks of related to the massive AI buildout, but how there’s still no sign that investments need to slow down.",
+     "source": "MarketWatch",
+     "zh": "Big banks see risks in financing the AI boom, but are happy to keep writing the checks"
     },
     {
      "title": "美银Q3净利润下降17% 营收不及预期股价跌逾7%",
      "link": "http://stock.eastmoney.com/news/1768,202610143895796974.html",
      "pubDate": "Thu, 15 Oct 2026 06:18:09 +0800",
      "summary": "美东时间周三（10月14日）盘前， 美国银行 公布了2026年第三季度财报。受12亿美元监管和解费用及华尔街交易业务疲软拖累，该行净利润同比下降约17%，营收也低于市场预期。 财报公布后，美银股价开盘一度下跌超过7%，截至收盘，美银下跌4.76%。 财报显示，美银三季度营收为299.58亿美元，同比增长3.2%；净利润为69.33亿美元，低于去年同期的83.32亿美元；摊薄每股收益从1.04美元降至0.91美元。按照完全应税等值（FTE）口径，营收为301.2亿美元，低于LSEG调查的分析师预期306.9亿美元，差额约5.7亿美元。 （来源：公司官网） 美银三季度计提了12亿美元监管和解费用，",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "美银Q3净利润下降17% 营收不及预期股价跌逾7%"
-    },
-    {
-     "title": "朝鲜试射两种潜射战略巡航导弹",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895899633.html",
-     "pubDate": "Thu, 15 Oct 2026 06:16:17 +0800",
-     "summary": "据朝中社15日报道，朝鲜导弹总局14日在朝鲜东部海域进行两种潜射战略巡航导弹试射。据报道，试射旨在检查朝鲜水下战斗系统的常态化动员状态，提升海军执行战略任务能力，并有效展示战争遏制手段的可靠性和能力。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "朝鲜试射两种潜射战略巡航导弹"
-    },
-    {
-     "title": "特朗普谈及通胀报告：我们目前情况不错",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895899591.html",
-     "pubDate": "Thu, 15 Oct 2026 06:15:57 +0800",
-     "summary": "特朗普谈及通胀报告：我们目前情况不错。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普谈及通胀报告：我们目前情况不错"
-    },
-    {
-     "title": "周四你需要知道的隔夜全球要闻",
-     "link": "http://finance.eastmoney.com/news/11790,202610153895899722.html",
-     "pubDate": "Thu, 15 Oct 2026 06:15:52 +0800",
-     "summary": "1、美国9月消费者价格指数（CPI）同比增长3.7%，预估为3.6%，前值为3.4%。9月CPI环比增长0.6%，预估0.6%。数据公布后，交易员增加对10月美联储加息的押注。 2、美联储褐皮书显示，许多辖区企业提到其他大宗商品、关税和保险带来的通胀压力。报告称：“企业表示柴油价格处于高位，燃油附加费正在将上涨的成本传导至整个供应链。” 3、美联储古尔斯比表示，美国9月通胀数据高于预期令人失望，如果核心通胀持续维持在月度涨幅年化约4%的水平，将完全不可接受，美联储必须采取政策行动。 4、美国中央司令部发布消息称，10月6日，美军在阿曼湾摧毁了一艘与伊朗有关联的独桅帆船，该船当时正在对美国海军舰",
-     "source": "东方财富股票",
-     "zh": "周四你需要知道的隔夜全球要闻"
     },
     {
      "title": "全球市场：美股三大指数收跌 纳指、标普500跌超1% 费城半导体指数跌超4%",
      "link": "http://stock.eastmoney.com/news/11784,202610153895886595.html",
      "pubDate": "Thu, 15 Oct 2026 06:15:18 +0800",
      "summary": "美股市场： 美股三大指数10月14日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌48.62点，收于51621.48点，跌幅为0.09%； 标准普尔 500种股票指数下跌86.51点，收于7718.94点，跌幅为1.11%； 纳斯达克 综合 指数下跌511.51点，收于26692.87点，跌幅为1.88%。 “科技七巨头”多数下跌，Meta、 英伟达 跌超3%， 特斯拉 跌超2%，谷歌、 微软 、 亚马逊 均跌超1%； 苹果 逆市上涨0.5%，以5万亿美元的市值收盘，成为继 英伟达 之后第二家市值突破5万亿美元的上市公司。 存储、 半导体 板块走低，费城 半导体 指数跌4.3%。个",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "全球市场：美股三大指数收跌 纳指、标普500跌超1% 费城半导体指数跌超4%"
-    },
-    {
-     "title": "订单谈到2030年！国际巨头，业绩爆发",
-     "link": "http://finance.eastmoney.com/news/1354,202610153895899898.html",
-     "pubDate": "Thu, 15 Oct 2026 06:14:41 +0800",
-     "summary": "当地时间14日，荷兰 光刻机 企业 阿斯麦 发布2026年第三季度财报。财报显示，该公司第三季度净销售额达116.62亿欧元，环比上涨25%，单季销售额创 历史新高 ；净利润达49.6亿欧元，环比上涨70%；毛利率57.5%，高于此前指引。 阿斯麦 总裁兼首席执行官傅恪礼表示，三季度表现超预期，反映出公司在产能爬坡阶段的强劲执行力。 △ 阿斯麦 公司总裁兼首席执行官傅恪礼 财报显示，阿斯麦三季度装机售后服务销售额达到32.89亿欧元，是拉动毛利率走高的主要原因，这主要得益于客户对生产效率升级方案的持续强劲需求。此外，财报还预计今年第四季度净销售额将在142亿至152亿欧元之间，2026年全年净",
-     "source": "东方财富股票",
-     "zh": "订单谈到2030年！国际巨头，业绩爆发"
     },
     {
      "title": "健康中国建设重在固底色提成色",
@@ -2386,6 +2450,14 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋：对开发不安全AI软件的客户断供芯片，AI基础设施短缺将持续数年"
     },
     {
+     "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+     "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 22:03:00 GMT",
+     "summary": "CoreWeave’s bonds issued a few months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
+     "source": "MarketWatch",
+     "zh": "CoreWeave’s AI bonds tumble, raising red flags for the wider market"
+    },
+    {
      "title": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
      "link": "http://bond.eastmoney.com/news/1332,202610143895735585.html",
      "pubDate": "Thu, 15 Oct 2026 06:01:52 +0800",
@@ -2434,92 +2506,12 @@ window.INDUSTRY_DATA = {
      "zh": "Azz raises fiscal 2027 outlook to $1.825B-$1.875B sales and $7-$7.30 adjusted EPS following record Q2"
     },
     {
-     "title": "Bank of America expects 2027 NII to rise 8% or more as it embeds $1.2B regulatory settlement costs",
-     "link": "https://seekingalpha.com/news/4653213-bank-of-america-expects-2027-nii-to-rise-8-percent-or-more-as-it-embeds-1_2b-regulatory?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:45:45 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Bank of America expects 2027 NII to rise 8% or more as it embeds $1.2B regulatory settlement costs"
-    },
-    {
      "title": "苹果中国版AI定档12月上线",
      "link": "https://wallstreetcn.com/articles/3783649",
      "pubDate": "Thu, 15 Oct 2026 05:45:30 +0800",
      "summary": "苹果公司即将在中国大陆推出其人工智能平台Apple Intelligence。 10月14日据彭博援引知情人士报道，苹果计划于12月通过iOS 27.3更新在中国大陆正式上线Apple Intelligence，此次发布将涵盖两年前率先在美国推出的AI功能套件。 此次上线将排除今年发布的全新Siri AI助手及其他新功能，该版Siri基于谷歌Gemini模型重构。 据报道，苹果与阿里巴巴联合开发合规防护机制。此外，苹果还与百度合作，推进搜索及Siri相关功能的本地化落地。 苹果一度预计于2025年5月完成中国上线，随后推迟至2025年底，后又延至今年春季。今年9月29日，苹果获得相关许可，允许",
      "source": "华尔街见闻",
      "zh": "苹果中国版AI定档12月上线"
-    },
-    {
-     "title": "Ukraine blindsided by Starlink restrictions and intelligence gaps",
-     "link": "https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1",
-     "pubDate": "Wed, 14 Oct 2026 21:37:16 GMT",
-     "summary": "Moscow ignores Donald Trump’s ‘energy ceasefire’ while Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network",
-     "source": "Financial Times",
-     "zh": "Ukraine blindsided by Starlink restrictions and intelligence gaps"
-    },
-    {
-     "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
-     "link": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
-     "pubDate": "Wed, 14 Oct 2026 21:18:13 GMT",
-     "summary": "\"Like countless Americans, Mr. Alfozan came to this country years ago as a young person with a dream,\" his criminal defense lawyer said Wednesday.",
-     "source": "CNBC",
-     "zh": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest"
-    },
-    {
-     "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
-     "link": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
-     "pubDate": "Wed, 14 Oct 2026 21:09:20 GMT",
-     "summary": "OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children.",
-     "source": "CNBC",
-     "zh": "OpenAI sued by 8 states over ChatGPT safety concerns"
-    },
-    {
-     "title": "CoreWeave股价暴跌15%债券入困境，马斯克惊呼“吓人”，CEO称订单储备强劲",
-     "link": "https://wallstreetcn.com/articles/3783644",
-     "pubDate": "Thu, 15 Oct 2026 04:47:22 +0800",
-     "summary": "AI基础设施融资模式的裂缝正在加速扩大。 在通胀数据意外走热、美债收益率上行的双重压力下，数据中心运营商CoreWeave股价周三重挫逾15%，创下历史第三大单日跌幅，距历史低点仅一步之遥。 根据Trace报价数据，这家AI云计算服务商2032年到期的无担保债券周三跌至不足面值的80%。按这一价格计算，该债券收益率超过15%。硅谷领袖Chamath Palihapitiya在社交媒体上提及这一数字后，马斯克回应称“吓人”。 D.A. Davidson分析师Gil Luria在播客中发出警告，称若CoreWeave无力偿还高成本债务，公司\"股权价值将归零\"。 据彭博报道， CoreWeave首席",
-     "source": "华尔街见闻",
-     "zh": "CoreWeave股价暴跌15%债券入困境，马斯克惊呼“吓人”，CEO称订单储备强劲"
-    },
-    {
-     "title": "黑石AirTrunk推迟15亿美元REIT IPO：收益率让到6%仍无人接盘，AI基建融资撞上5.2%美债利率",
-     "link": "https://wallstreetcn.com/articles/3783645",
-     "pubDate": "Thu, 15 Oct 2026 04:47:11 +0800",
-     "summary": "一周之内，亚太地区三宗数据中心上市计划相继折戟，揭示出一个更深层的结构性矛盾：AI基础设施的扩张热潮建立在2024年的低利率假设之上，而当前的融资成本已回到2007年水平。 据媒体报道，因 \"利率走高与市场波动压制了投资者需求\" ，黑石集团旗下数据中心运营商AirTrunk已决定推迟其新加坡房地产投资信托（REIT）上市计划至2027年第一或第二季度，具体视市场条件而定。原定规模约15亿美元（约合20亿新加坡元）。 此次推迟的影响不仅限于一家发行人。上周英伟达支持的澳大利亚数据中心企业Firmus刚刚撤回ASX上市计划，菲律宾电信运营商PLDT旗下数据中心业务Vitro亦将其菲律宾REIT I",
-     "source": "华尔街见闻",
-     "zh": "黑石AirTrunk推迟15亿美元REIT IPO：收益率让到6%仍无人接盘，AI基建融资撞上5.2%美债利率"
-    },
-    {
-     "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-     "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-     "pubDate": "Wed, 14 Oct 2026 20:46:32 GMT",
-     "summary": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
-     "source": "CNBC",
-     "zh": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge"
-    },
-    {
-     "title": "ASML强劲财报也救不了！美芯片股跌势加剧，行业指数市值蒸发万亿美元",
-     "link": "https://wallstreetcn.com/articles/3783642",
-     "pubDate": "Thu, 15 Oct 2026 04:45:20 +0800",
-     "summary": "周二盘中刚刚缓和的芯片股抛售潮周三再度加剧，美光科技、SK海力士等存储芯片股重新走弱，行业指标费城半导体指数（SOX）到收盘跌超4%，连续第六个交易日收跌。 媒体指出，随着利率上升、估值偏高和AI基础设施建设成本高企等担忧不断累积，SOX成分股的总市值一周来蒸发超过1万亿美元。美东时间14日周三盘中，SOX跌幅超过3%时，该指数过去六个交易日的累计跌幅已达到10%，超过一半的SOX成分股六日内跌幅至少达10%。 这轮调整正在从短期获利了结演变为对AI投资逻辑的全面检验。9月美国CPI通胀强于预期，进一步强化了市场对美联储可能继续加息的担忧；博通CEO陈福阳此前警告AI行业可能受到资金约束；而即",
-     "source": "华尔街见闻",
-     "zh": "ASML强劲财报也救不了！美芯片股跌势加剧，行业指数市值蒸发万亿美元"
-    },
-    {
-     "title": "US chip stocks slide as inflation and AI debt fears unsettle investors",
-     "link": "https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1",
-     "pubDate": "Wed, 14 Oct 2026 20:36:40 GMT",
-     "summary": "Investors rush into Treasuries as sell-off triggers demand for haven assets",
-     "source": "Financial Times",
-     "zh": "US chip stocks slide as inflation and AI debt fears unsettle investors"
-    },
-    {
-     "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about &apos;enterprise AI timing&apos;",
-     "link": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
-     "pubDate": "Wed, 14 Oct 2026 20:19:25 GMT",
-     "summary": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
-     "source": "CNBC",
-     "zh": "Dell stock plunges 11%, leading data center sell-off as fears mount about &apos;enterprise AI timing&apos;"
     }
    ]
   },
@@ -2560,6 +2552,14 @@ window.INDUSTRY_DATA = {
      "summary": "Researchers have revealed the climate that some of the first people in North America experienced around 23,000 years ago, during the Last Glacial Maximum.",
      "source": "Live Science",
      "zh": "Ancient Indigenous people in New Mexico lived through extreme climate change 23,000 years ago, study suggests"
+    },
+    {
+     "title": "Researchers use AI to design proteins that cut up other proteins",
+     "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+     "pubDate": "Wed, 14 Oct 2026 17:10:15 +0000",
+     "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+     "source": "Ars Technica Science",
+     "zh": "Researchers use AI to design proteins that cut up other proteins"
     },
     {
      "title": "Can math stay human in the age of AI?",

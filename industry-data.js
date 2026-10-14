@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/14 14:34:48",
+ "generated_at": "2026/10/14 14:51:56",
  "recent_days": 7,
  "industries": [
   {
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Rising-Gasoline-Prices-Fuel-Fresh-Inflation-Fears-in-the-US.html",
+     "pubDate": "Wed, 14 Oct 2026 01:45:00 -0500",
+     "summary": "A surge in energy costs is expected to drive overall U.S. consumer inflation higher, with September numbers seen at 0.6% on a monthly basis by economists polled by Reuters. The official CPI data for September is due out later today. Gasoline prices in the United States went up by 7.1% last month, wi",
+     "source": "OilPrice",
+     "zh": "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S."
+    },
+    {
      "title": "EVX unveils Australian-made DC fast charger for EVs",
      "link": "https://www.pv-magazine.com/2026/10/14/evx-unveils-australian-made-dc-fast-charger-for-evs/",
      "pubDate": "Wed, 14 Oct 2026 06:00:06 +0000",
@@ -1008,14 +1016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Heliene has announced the sale of Section 45X PTCs, facilitated by U.S. Bank's community development and infrastructure finance subsidiary.",
      "source": "PV Tech",
      "zh": "Heliene completes third consecutive annual 45X tax credit transfer"
-    },
-    {
-     "title": "Five Shale Stocks to Watch Before Third-Quarter Earnings",
-     "link": "https://oilprice.com/Energy/Energy-General/Five-Shale-Stocks-to-Watch-Before-Third-Quarter-Earnings.html",
-     "pubDate": "Tue, 13 Oct 2026 16:00:00 -0500",
-     "summary": "Permian producers spent much of this year paying buyers to haul away the natural gas that comes up with their oil. Waha Hub spot prices stayed below zero for a record 90 days in a row before turning positive on June 16, Reuters reported, and the hub had averaged minus $2.19 per million British therm",
-     "source": "OilPrice",
-     "zh": "Five Shale Stocks to Watch Before Third-Quarter Earnings"
     },
     {
      "title": "Trump goes after an offshore wind farm that’s already up and running",
@@ -1786,6 +1786,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "比亚迪第二代海鸥车型 10 月 20 日上市：尺寸动力底盘全面升级",
+     "link": "https://www.ithome.com/1/012/865.htm",
+     "pubDate": "Wed, 14 Oct 2026 06:47:58 GMT",
+     "summary": "IT之家 10 月 14 日消息，比亚迪发布媒体邀请函，确认第二代海鸥将于 10 月 20 日在郑州赛车场正式上市。新车在内饰质感、空间表现与智能化配置上均进行了全面升级。 此前 10 月 9 日，比亚迪汽车海洋网销售事业部总经理张卓宣布该车开启盲订，提供青柠绿、莓莓粉、芒芒橙、冰椰蓝、奶油白及芝麻灰六款外观配色。 据工信部申报信息，第二代海鸥长宽高为 4205/1810/1570mm，轴距 2650mm，较现款车长增加 425mm、轴距加长 150mm，整体体量已接近比亚迪海豚。 同时，其座椅布局由 4 座升级为 5 座，后排横向空间和腿部空间均有所改善。储物方面，新车新增 94L 前备箱，",
+     "source": "IT之家",
+     "zh": "比亚迪第二代海鸥车型 10 月 20 日上市：尺寸动力底盘全面升级"
+    },
+    {
+     "title": "7999 元：苹果 iPhone Duo 京东早鸟先享权益包开售，赠 999 元官方手机壳",
+     "link": "https://www.ithome.com/1/012/862.htm",
+     "pubDate": "Wed, 14 Oct 2026 06:47:02 GMT",
+     "summary": "iPhone Duo 定价 15999 元起，国行 10 月 16 日晚 8 点接受预购。 京东今日开售“早鸟先享权益包”，价格 7999 元。 除早鸟先享资格外 + 4 项补贴服务外，加赠 999 元原厂手机壳 + 329 元原厂充电头。 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 京东 京东 iPhone Duo 早鸟先享权益包 不支持退换 手机需另付款 7999 元 直达链接 需要注意的是： 此权益下单后不支持退换 iPhone Duo 仅支持 eSIM 早鸟机需激活后签收 早鸟权益支持 256G 与 512G 机型 下单权益包后，手机仍需 支付全",
+     "source": "IT之家",
+     "zh": "7999 元：苹果 iPhone Duo 京东早鸟先享权益包开售，赠 999 元官方手机壳"
+    },
+    {
+     "title": "日月光推出 3D 垂直整合 PowerSiP 解决方案，可减半寄生布线损耗",
+     "link": "https://www.ithome.com/1/012/861.htm",
+     "pubDate": "Wed, 14 Oct 2026 06:46:53 GMT",
+     "summary": "IT之家 10 月 14 日消息，OSAT 龙头日月光半导体 (ASE) 昨日宣布推出基于 PowerSiP 平台的 3D 系统级封装解决方案。这一方案可实现 VRM（电压调节模块）的垂直整合，大幅缩短电流传输路径， 降低超半数寄生布线损耗 。 日月光表示，先进的高性能 AI SoC 功耗已突破 1000W， 这意味着需要 1V 以下电压传输超 1000A 的峰值电流 ，传统的横向架构在电力通过 PCB、封装基板、互连结构到达处理器的过程中可能产生严重的布线损耗。 该企业的 PowerSiP 垂直整合工具箱包括夹在无芯基板之间的双面连接电容、具备外露端子的电容阵列模块、4:1 高纵横比铜柱整合",
+     "source": "IT之家",
+     "zh": "日月光推出 3D 垂直整合 PowerSiP 解决方案，可减半寄生布线损耗"
+    },
+    {
+     "title": "索尼 ECM-AX10 手机空间音频麦克风开售，1499 元",
+     "link": "https://www.ithome.com/1/012/854.htm",
+     "pubDate": "Wed, 14 Oct 2026 06:43:03 GMT",
+     "summary": "IT之家 10 月 14 日消息，索尼 ECM-AX10 手机空间音频麦克风现已在京东开售，定价 1499 元。新品采用 Type-C 接口与手机连接，可带来真实的空间音频采集与编辑功能。 据介绍，这款产品采用 24g 轻量化设计，尺寸与手机相匹配，可为视频注入真实临场感。内置 6 轴运动传感器，可感应麦克风状态并自动调节横屏 / 竖屏模式。 同时，这款产品搭载四颗全指向性麦克风拾音头，均匀捕捉从低频到高频的细节，并以 3D 声像定位编码出清晰音频。拥有专业调音参数，号称“开箱即是好声音”。 此外，这款产品带有防风罩、冷靴麦克风支架、Type-C 延长线、垫片等配件，机身带有实体按键，可快速切",
+     "source": "IT之家",
+     "zh": "索尼 ECM-AX10 手机空间音频麦克风开售，1499 元"
+    },
+    {
+     "title": "卫星数据揭示：全球多个大城市正发生地面沉降",
+     "link": "https://www.ithome.com/1/012/853.htm",
+     "pubDate": "Wed, 14 Oct 2026 06:39:49 GMT",
+     "summary": "IT之家 10 月 14 日消息，地面沉降指地表缓慢下沉的现象，会损毁建筑物、地基、排水与污水管网，还会加剧洪涝风险。但目前关于地面沉降动态变化的相关资料仍然有限，政策制定者难以定位风险加剧区域，无法判断哪里需要紧急治理。以往各类评估所采用的方法、监测时段各不相同，或是仅针对少数城市开展研究，难以进行全球横向对比。 陶胜利（Shengli Tao，音译）、胡谢（Xie Hu，音译）及其团队分析了 2014 至 2023 年间采集的高分辨率卫星数据，以此测量 107 个国家 465 座城市的地表形变情况。研究成果发表于《自然・城市》（Nature Cities）期刊。 IT之家注意到，墨西哥城部",
+     "source": "IT之家",
+     "zh": "卫星数据揭示：全球多个大城市正发生地面沉降"
+    },
+    {
+     "title": "华为 Freebuds Neo × 王者荣耀朵莉亚 · 限定款无线耳机开售，优惠价 749 元",
+     "link": "https://www.ithome.com/1/012/852.htm",
+     "pubDate": "Wed, 14 Oct 2026 06:38:50 GMT",
+     "summary": "IT之家 10 月 14 日消息，华为 Freebuds Neo × 王者荣耀朵莉亚 · 限定款无线耳机今日正式开售，内含专属保护壳、限定手办等， 定价 799 元、优惠价 749 元 。 京东 华为 FreeBuds Neo【王者荣耀 朵莉亚 · 限定款】 749 元 直达链接 据介绍，华为 FreeBuds Neo 搭载鸿蒙 HarmonyOS 7 操作系统，耳机舱采用“星际小飞碟”全曲面飞梭设计，灵感源自黄金分割比例，人体工学流线造型贴合掌心；耳机本体采用“流光小灵杆”全新设计形态，单只耳机轻至 4.8 克、触控区域占比达 60%。 该耳机搭载自研第三代音频 AI 芯片，双 DSP 架构",
+     "source": "IT之家",
+     "zh": "华为 Freebuds Neo × 王者荣耀朵莉亚 · 限定款无线耳机开售，优惠价 749 元"
+    },
+    {
      "title": "Ukraine&apos;s drone attacks severely damaged three of Yandex&apos;s six data centers, disrupting Russia&apos;s tech ecosystem, centered on one vast, state-aligned company (Financial Times)",
      "link": "https://www.techmeme.com/261014/p5#a261014p5",
      "pubDate": "Wed, 14 Oct 2026 02:30:01 -0400",
@@ -1794,52 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "Ukraine&apos;s drone attacks severely damaged three of Yandex&apos;s six data centers, disrupting Russia&apos;s tech ecosystem, centered on one vast, state-aligned company (Financial Times)"
     },
     {
-     "title": "有钱任性：消息称《GTA 6》营销预算超 1.5 亿美元",
-     "link": "https://www.ithome.com/1/012/836.htm",
-     "pubDate": "Wed, 14 Oct 2026 06:27:18 GMT",
-     "summary": "IT之家 10 月 14 日消息，据称《GTA 6》是 3A 游戏行业迄今为止投入成本最高的作品。该作几乎肯定也会成为史上最成功的游戏，在发售不久后就能创造数十亿美元营收。 关于本作的预算，一份新报道显示，仅宣传推广费用就高达 1.5 亿美元 （IT之家注：现汇率约合 10.06 亿元人民币） 以上。 作为《GTA 6》宣传工作的一环，R 星与母公司 Take-Two 已经和 Netflix 等平台达成合作。R 星原本还计划和迈阿密方面合作，在迈阿密市中心全域投放《GTA 6》广告，但该计划目前面临变数。 《迈阿密人报》报道，迈阿密-戴德县多名县议员公开反对《GTA 6》广告投放。县议员勒内 ",
-     "source": "IT之家",
-     "zh": "有钱任性：消息称《GTA 6》营销预算超 1.5 亿美元"
-    },
-    {
-     "title": "华为畅享 100 系列手机前瞻爆料：消息称 Pro 延续麒麟 8 系平台 + 6.84 英寸 1.5K LTPS 直屏方案",
-     "link": "https://www.ithome.com/1/012/835.htm",
-     "pubDate": "Wed, 14 Oct 2026 06:25:47 GMT",
-     "summary": "IT之家 10 月 14 日消息，博主 @数码闲聊站 今日放出了华为畅享 100 系列手机的前瞻爆料。据称，Pro 有曜金黑 / 雪域白 / 流沙金 / 蔚蓝海四种配色， 屏幕还是 6.84 英寸 1.5K LTPS 直屏，采用麒麟 8 系平台打造 ，电池容量超 8000mAh。 而标准版和低配版有幻夜黑 / 冰川白 / 云水蓝三种配色， 会做运营商渠道机，包括移动 AI 定制版 ，用来继续冲量。 有网友询问畅享系列能否出阔直板机型，博主表示：“ nova 先做了再说吧，一步步均摊成本。 ”还有网友询问华为何时推出 10000mAh 电池的机型，博主称：“ 在做，明年应该能见到。 ” ▲ IT",
-     "source": "IT之家",
-     "zh": "华为畅享 100 系列手机前瞻爆料：消息称 Pro 延续麒麟 8 系平台 + 6.84 英寸 1.5K LTPS 直屏方案"
-    },
-    {
-     "title": "映泰推出基于英特尔 \"Wildcat Lake\" 处理器的 BIWCL-PAT 工业单板计算机",
-     "link": "https://www.ithome.com/1/012/831.htm",
-     "pubDate": "Wed, 14 Oct 2026 06:24:54 GMT",
-     "summary": "IT之家 10 月 14 日消息，映泰 (BIOSTAR) 昨日宣布推出基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\" 的 BIWCL-PAT 工业单板计算机 (SBC)。 这一 SBC 尺寸为 148×102 (mm)，拥有 1 个 DDR5 SO-DIMM 内存模组插槽， 3 个 M.2 插槽分别扩展 SSD 存储、蜂窝网络、WLAN 连接 ，配备 2 个 2.5GbE RJ-45，通过 HDMI 2.1、DisplayPort 1.4、LVDS 支持三路视频信号输出。 其还具备 2 组 USB 10Gbps、4 组 USB 480Mbps、2 组 RS232/422/485",
-     "source": "IT之家",
-     "zh": "映泰推出基于英特尔 \"Wildcat Lake\" 处理器的 BIWCL-PAT 工业单板计算机"
-    },
-    {
-     "title": "威马汽车公众号喊话“B 能汽车”讨薪，消息称 App 再次无法使用",
-     "link": "https://www.ithome.com/1/012/830.htm",
-     "pubDate": "Wed, 14 Oct 2026 06:23:20 GMT",
-     "summary": "IT之家 10 月 14 日消息，威马汽车官方微信公众号号今日发文“ 第一天：B 能汽车，请发我们工资 ”，但不久后便删除了文章。 据蓝鲸新闻报道，威马汽车官方 App“小威随行 App”在苹果商店已无法搜索到。从今年 6 月底开始，有车主反映 小威随行 App 无法使用 。 2025 年 9 月，威马汽车发布《 关于“新威马汽车”重组情况的说明 》，根据 2025 年 4 月 3 日法院裁定批准的重整计划， 深圳翔飞汽车销售有限公司 已接管威马四公司，正在全力以赴推动威马 EX5 和 E5 车型在温州基地快速恢复量产。 新威马制定了分三步走的 2025~2030 经营发展规划： 复兴阶段（2",
-     "source": "IT之家",
-     "zh": "威马汽车公众号喊话“B 能汽车”讨薪，消息称 App 再次无法使用"
-    },
-    {
-     "title": "R 星联合创始人丹 · 豪瑟：《GTA 3》经典封面因“9·11”事件仓促诞生",
-     "link": "https://www.ithome.com/1/012/829.htm",
-     "pubDate": "Wed, 14 Oct 2026 06:22:11 GMT",
-     "summary": "IT之家 10 月 14 日消息，2020 年离开 R 星的联合创始人丹 · 豪瑟近日接受 IGN 专访，回顾了“9·11”事件后《GTA 3》封面的修改过程。 《GTA 3》那张经典封面，竟然是在临近发售时赶制出来的。此后，《侠盗猎车手》系列历代作品都沿用了相同的设计风格，就连最新的《GTA 6》也不例外。“说来有趣，后来成为系列标志的封面，斯蒂芬 · 布利斯只花了大约两个晚上就画好了。 原版封面上有燃烧的建筑，在‘9·11’事件后推出，很可能会让人觉得不合适 。要不是刚发生了‘9·11’事件，原来的封面其实完全可以用。所以，后来成为 经典的碎片式、方格拼贴设计 ，恰恰是因为‘9·11’事件",
-     "source": "IT之家",
-     "zh": "R 星联合创始人丹 · 豪瑟：《GTA 3》经典封面因“9·11”事件仓促诞生"
-    },
-    {
-     "title": "消息称非 BFC 后缀的英特尔 Nova Lake 处理器游戏性能和 Arrow Lake 相近",
-     "link": "https://www.ithome.com/1/012/828.htm",
-     "pubDate": "Wed, 14 Oct 2026 06:20:39 GMT",
-     "summary": "IT之家 10 月 14 日消息，消息源 @kopite7kimi 昨日（10 月 13 日）在 X 平台发布推文， 爆料称英特尔非 BFC 后缀的 Nova Lake 处理器游戏性能和 Arrow Lake 芯片相近。 命名方面， 基于 8.40.8510 Beta 版 AIDA64 Extreme 更新等诸多线索 ，英特尔 Nova Lake-S 处理器采用酷睿 Ultra 4000 四位数命名方案。 英特尔 Nova Lake 处理器分为 BFC 和非 BFC 型号，BFC 代表配备额外缓存的 Nova Lake 芯片。该设计被指用于提升游戏场景表现，定位接近 AMD Ryzen X3D",
-     "source": "IT之家",
-     "zh": "消息称非 BFC 后缀的英特尔 Nova Lake 处理器游戏性能和 Arrow Lake 相近"
+     "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+     "link": "https://github.com/android/ndk/issues/2260",
+     "pubDate": "Wed, 14 Oct 2026 06:18:01 +0000",
+     "summary": "Article URL: https://github.com/android/ndk/issues/2260 Comments URL: https://news.ycombinator.com/item?id=50083130 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs"
     },
     {
      "title": "账上躺着2000亿现金，腾讯、字节为啥还要借钱？",
@@ -1877,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
      "link": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
      "pubDate": "Wed, 14 Oct 2026 05:53:36 +0000",
-     "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866 Comments URL: https://news.ycombinator.com/item?id=50082962 Points: 15 # Comments: 6",
+     "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866 Comments URL: https://news.ycombinator.com/item?id=50082962 Points: 52 # Comments: 39",
      "source": "Hacker News",
      "zh": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse"
     },
@@ -1938,6 +1946,14 @@ window.INDUSTRY_DATA = {
      "zh": "ASML reports Q3 net sales of €11.66B, vs. €11.72B est., a €4.96B net profit, vs. €4.1B est., and raises its 2026 net sales forecast from €43B-€45B to €44B-€45B (Arjun Kharpal/CNBC)"
     },
     {
+     "title": "Peacock Promo Codes: 40% Off October 2026",
+     "link": "https://www.wired.com/story/peacock-promo-code/",
+     "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+     "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+     "source": "WIRED",
+     "zh": "Peacock Promo Codes: 40% Off October 2026"
+    },
+    {
      "title": "Dell Coupon Codes: 20% Off for October 2026",
      "link": "https://www.wired.com/story/dell-coupon-code/",
      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
@@ -1960,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
      "source": "WIRED",
      "zh": "Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026"
-    },
-    {
-     "title": "Peacock Promo Codes: 40% Off October 2026",
-     "link": "https://www.wired.com/story/peacock-promo-code/",
-     "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
-     "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-     "source": "WIRED",
-     "zh": "Peacock Promo Codes: 40% Off October 2026"
     },
     {
      "title": "HBO Max Promo Code: 50% Off | October 2026",
@@ -2016,14 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "房子降温以后，每月到账的钱更受重视",
      "source": "钛媒体",
      "zh": "年轻人相亲，迎来了“拼爹妈退休金”的时代"
-    },
-    {
-     "title": "Felix Rieseberg Homepage",
-     "link": "https://felixrieseberg.com/",
-     "pubDate": "Wed, 14 Oct 2026 04:42:33 +0000",
-     "summary": "Article URL: https://felixrieseberg.com/ Comments URL: https://news.ycombinator.com/item?id=50082470 Points: 86 # Comments: 27",
-     "source": "Hacker News",
-     "zh": "Felix Rieseberg Homepage"
     }
    ]
   },
@@ -2033,6 +2033,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Googlebook OS just fixed one of its biggest early app annoyances",
+     "link": "https://www.androidauthority.com/googlebook-chrome-155-install-any-webpage-web-app-3722942/",
+     "pubDate": "Wed, 14 Oct 2026 06:41:48 +0000",
+     "summary": "Googlebooks can now turn practically any website into an app.",
+     "source": "Android Authority",
+     "zh": "Googlebook OS just fixed one of its biggest early app annoyances"
+    },
+    {
+     "title": "Struggling with calls and connectivity on your Pixel? The latest Android beta has tools for you",
+     "link": "https://www.androidauthority.com/android-17-qpr3-beta-1-more-diagnostic-tools-3722950/",
+     "pubDate": "Wed, 14 Oct 2026 06:32:33 +0000",
+     "summary": "The latest Android beta introduces new diagnostic tools for calls and connectivity.",
+     "source": "Android Authority",
+     "zh": "Struggling with calls and connectivity on your Pixel? The latest Android beta has tools for you"
+    },
+    {
+     "title": "Infinix Note 70 Pro certification helps confirm its major upgrade",
+     "link": "https://www.gsmarena.com/infinix_note_70_pro_certification_helps_confirm_its_major_upgrade-news-75031.php",
+     "pubDate": "Wed, 14 Oct 2026 08:32:02 +0200",
+     "summary": "Infinix launched the Note 60 Pro back in February, and its successor is already starting to show up in certification databases. Today, an Infinix phone with the model number X6766 has appeared in the Eurasian Economic Commission (EEC) database, and the listing also reveals its full marketing name: N",
+     "source": "GSMArena",
+     "zh": "Infinix Note 70 Pro certification helps confirm its major upgrade"
+    },
     {
      "title": "POCO X8 Pro Series: Built for People Who Expect More From Their Smartphones",
      "link": "https://www.gsmarena.com/poco_x8_pro_series_built_for_people_who_expect_more_from_their_smartphones-news-74937.php",
@@ -2248,30 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "If you're not using some of these skills, you're missing out on a chance to streamline your days, keep up to date and more.",
      "source": "Engadget",
      "zh": "5 clever ways Gemini can automate everyday tasks"
-    },
-    {
-     "title": "Sorry, audiophiles — Spotify is crashing when playback quality is set to lossless",
-     "link": "https://www.androidauthority.com/spotify-lossless-audio-bug-3722831/",
-     "pubDate": "Tue, 13 Oct 2026 21:44:22 +0000",
-     "summary": "The issue is on its second day, but Spotify is looking into it.",
-     "source": "Android Authority",
-     "zh": "Sorry, audiophiles — Spotify is crashing when playback quality is set to lossless"
-    },
-    {
-     "title": "Apple's Get Ready service is now available for iPhone Duo pre-orders",
-     "link": "https://www.gsmarena.com/apples_get_ready_service_is_now_available_for_iphone_duo_preorders-news-75012.php",
-     "pubDate": "Tue, 13 Oct 2026 23:31:03 +0200",
-     "summary": "Apple unveiled the iPhone Duo, its first foldable smartphone, at its September launch event alongside the iPhone 18 Pro and iPhone 18 Pro Max. The company will start taking pre-orders for the iPhone Duo on October 16, which is this coming Friday. Shipping will then start on October 23, exactly one w",
-     "source": "GSMArena",
-     "zh": "Apple's Get Ready service is now available for iPhone Duo pre-orders"
-    },
-    {
-     "title": "PSA: Wall-mounted HomeView may not work if you buy the wrong power adapter",
-     "link": "https://9to5mac.com/2026/10/13/psa-wall-mounted-homeview-may-not-work-if-you-buy-the-wrong-power-adapter/",
-     "pubDate": "Tue, 13 Oct 2026 21:29:20 +0000",
-     "summary": "Earlier today, Apple confirmed that the wall-mounted HomeView does not come with a power adapter in the box. Now, the company has published a support document detailing the device’s power requirements, including what to look for when purchasing a compatible adapter. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "PSA: Wall-mounted HomeView may not work if you buy the wrong power adapter"
     }
    ]
   },
@@ -2282,6 +2282,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "ASML Holding in charts: Q3 net sales and gross profit surges backed by 121 total systems sold",
+     "link": "https://seekingalpha.com/news/4652737-asml-holding-in-charts-q3-net-sales-and-gross-profit-surges-backed-by-121-total-systems-sold?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 02:43:38 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ASML Holding in charts: Q3 net sales and gross profit surges backed by 121 total systems sold"
+    },
+    {
+     "title": "*ST集友10月14日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895399369.html",
+     "pubDate": "Wed, 14 Oct 2026 14:43:13 +0800",
+     "summary": "以下是 *ST集友 在北京时间10月14日14:43分盘口异动快照： 10月14日， *ST集友 盘中快速反弹，5分钟内涨幅超过2%，截至14点43分，报8.3元，成交1868.64万元，换手率0.43%。 分笔 14:43:01 8.30 4↓ 14:42:58 8.30 200↑ 14:42:49 8.30 391↓ 14:42:40 8.30 22↑ 14:42:31 8.28 2↓ 14:42:28 8.28 100↓ 14:42:22 8.28 10↑ 14:42:04 8.24 100↓ 14:42:01 8.24 100↑ 14:41:49 8.20 73↑ 报价 卖五 8.35",
+     "source": "东方财富股票",
+     "zh": "*ST集友10月14日快速反弹"
+    },
+    {
+     "title": "梦天家居10月14日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895398637.html",
+     "pubDate": "Wed, 14 Oct 2026 14:42:55 +0800",
+     "summary": "以下是 梦天家居 在北京时间10月14日14:42分盘口异动快照： 10月14日， 梦天家居 盘中涨幅达5%，截至14点42分，报26.14元，成交3.45亿元，换手率6.11%。 分笔 14:42:48 26.14 52↑ 14:42:45 26.11 215↑ 14:42:42 26.10 60↑ 14:42:39 26.10 128↑ 14:42:36 26.08 4↑ 14:42:33 26.06 251↑ 14:42:30 26.05 90↑ 14:42:27 26.05 179↑ 14:42:24 26.04 62↑ 14:42:21 26.03 46↑ 报价 卖五 26.18 3",
+     "source": "东方财富股票",
+     "zh": "梦天家居10月14日盘中涨幅达5%"
+    },
+    {
+     "title": "新宁物流10月14日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895397496.html",
+     "pubDate": "Wed, 14 Oct 2026 14:41:27 +0800",
+     "summary": "以下是 新宁物流 在北京时间10月14日14:41分盘口异动快照： 10月14日， 新宁物流 盘中快速上涨，5分钟内涨幅超过2%，截至14点41分，报4.2元，成交7453.38万元，换手率3.29%。 分笔 14:41:21 4.20 94↑ 14:41:18 4.19 558↑ 14:41:15 4.17 604↑ 14:41:12 4.17 339↑ 14:41:09 4.17 100↑ 14:41:06 4.17 186↑ 14:41:03 4.17 267↑ 14:41:00 4.16 161↓ 14:40:57 4.17 538↑ 14:40:54 4.17 411↑ 报价 卖五 ",
+     "source": "东方财富股票",
+     "zh": "新宁物流10月14日快速上涨"
+    },
+    {
+     "title": "10月14日医院板块跌幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895397017.html",
+     "pubDate": "Wed, 14 Oct 2026 14:41:04 +0800",
+     "summary": "&emsp;&emsp;10月14日14点40分， 医院 板块指数报6281.005点，跌幅达2%，成交25.48亿元，换手率1.73%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 澳洋健康 报5.55元，跌6.25%； 皓宸医疗 报2.38元，跌3.64%； 何氏眼科 报16.38元，跌2.96%； ST中珠 报2.20元，跌2.65%； 光正眼科 报4.03元，跌2.18%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月14日医院板块跌幅达2%"
+    },
+    {
+     "title": "中证协把卖方研究的最突出问题都提到了 行业或迎一轮“业务校正”",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895389956.html",
+     "pubDate": "Wed, 14 Oct 2026 14:41:00 +0800",
+     "summary": "作为公募基金费率改革落地后的首个完整年度，2025年成为观察卖方研究业务变化的重要年份。近日，中证协最新发布了《2025年证券公司发布证券研究报告业务经营情况统计报告》，全面分析了研究业务的现状与问题所在。 报告显示，证券研究行业人员规模有所下降，人员流动增加，研报发布总量有所回落，业务集中度进一步提高，行业已进入研报业务发展战略调整期。 出现个别分析师为追求流量发表片面化、争议性观点 相较于往年，中证协今年重点提及了研究业务中存在的三个合规问题。 第一是券商对分析师个人行为存在管控不到位的问题。部分券商对社交发言、公开调研、对外观点输出的管控不到位，已经出现个别分析师为追求流量发表片面化、争",
+     "source": "东方财富股票",
+     "zh": "中证协把卖方研究的最突出问题都提到了 行业或迎一轮“业务校正”"
+    },
+    {
+     "title": "天域生物10月14日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895395442.html",
+     "pubDate": "Wed, 14 Oct 2026 14:39:53 +0800",
+     "summary": "以下是 天域生物 在北京时间10月14日14:39分盘口异动快照： 10月14日， 天域生物 盘中跌幅达5%，截至14点39分，报5.72元，成交3350.86万元，换手率1.96%。 分笔 14:39:47 5.72 479↓ 14:39:41 5.78 16↑ 14:39:35 5.78 7↑ 14:39:29 5.76 39↓ 14:39:26 5.77 20↑ 14:39:23 5.77 18↑ 14:39:11 5.77 6↑ 14:39:08 5.77 10↑ 14:39:05 5.76 35↓ 14:38:56 5.78 1↑ 报价 卖五 5.8 63 卖四 5.79 35 卖三",
+     "source": "东方财富股票",
+     "zh": "天域生物10月14日盘中跌幅达5%"
+    },
+    {
      "title": "Distribution Solutions to acquire GradeEight; transaction accretive to EBITDA",
      "link": "https://seekingalpha.com/news/4652735-distribution-solutions-to-acquire-gradeeight-transaction-accretive-to-ebitda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 14 Oct 2026 02:26:11 -0400",
@@ -2290,76 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "Distribution Solutions to acquire GradeEight; transaction accretive to EBITDA"
     },
     {
-     "title": "10月14日装配建筑板块跌幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895373459.html",
-     "pubDate": "Wed, 14 Oct 2026 14:24:49 +0800",
-     "summary": "&emsp;&emsp;10月14日14点24分， 装配建筑 板块指数报1049.736点，跌幅达2%，成交111.99亿元，换手率0.96%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 华阳国际 报13.18元，跌7.96%； 金银河 报24.74元，跌6.57%； 山东路桥 报6.41元，跌5.18%； 硅宝科技 报14.63元，跌5.12%； 国统股份 报11.28元，跌4.81%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月14日装配建筑板块跌幅达2%"
-    },
-    {
-     "title": "10月14日综合板块跌幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895373350.html",
-     "pubDate": "Wed, 14 Oct 2026 14:24:39 +0800",
-     "summary": "&emsp;&emsp;10月14日14点24分， 综合 板块指数报11858.59点，跌幅达2%，成交35.53亿元，换手率2.13%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 红棉股份 报3.37元，跌5.07%； 漳州发展 报5.02元，跌4.92%； 综艺股份 报5.70元，跌3.23%； 亚联发展 报4.55元，跌3.19%； 毅昌科技 报5.77元，跌3.19%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月14日综合板块跌幅达2%"
-    },
-    {
-     "title": "10月14日综合Ⅱ板块跌幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895373252.html",
-     "pubDate": "Wed, 14 Oct 2026 14:24:39 +0800",
-     "summary": "&emsp;&emsp;10月14日14点24分， 综合Ⅱ 板块指数报11858.59点，跌幅达2%，成交35.53亿元，换手率2.13%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 红棉股份 报3.37元，跌5.07%； 漳州发展 报5.02元，跌4.92%； 综艺股份 报5.70元，跌3.23%； 亚联发展 报4.55元，跌3.19%； 毅昌科技 报5.77元，跌3.19%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月14日综合Ⅱ板块跌幅达2%"
-    },
-    {
-     "title": "10月14日综合Ⅲ板块跌幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895373151.html",
-     "pubDate": "Wed, 14 Oct 2026 14:24:39 +0800",
-     "summary": "&emsp;&emsp;10月14日14点24分， 综合Ⅲ 板块指数报11858.59点，跌幅达2%，成交35.53亿元，换手率2.13%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 红棉股份 报3.37元，跌5.07%； 漳州发展 报5.02元，跌4.92%； 综艺股份 报5.70元，跌3.23%； 亚联发展 报4.55元，跌3.19%； 毅昌科技 报5.77元，跌3.19%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月14日综合Ⅲ板块跌幅达2%"
-    },
-    {
-     "title": "佩蒂股份10月14日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895372932.html",
-     "pubDate": "Wed, 14 Oct 2026 14:24:30 +0800",
-     "summary": "以下是 佩蒂股份 在北京时间10月14日14:24分盘口异动快照： 10月14日， 佩蒂股份 盘中跌幅达5%，截至14点24分，报13.65元，成交3897.23万元，换手率1.74%。 分笔 14:24:21 13.65 100↓ 14:24:18 13.66 14↓ 14:24:15 13.66 97↓ 14:24:03 13.67 26↓ 14:24:00 13.67 29↓ 14:23:57 13.67 56↓ 14:23:54 13.68 4↓ 14:23:51 13.68 17↓ 14:23:24 13.69 6↓ 14:23:15 13.69 7↓ 报价 卖五 13.72 7 卖",
-     "source": "东方财富股票",
-     "zh": "佩蒂股份10月14日盘中跌幅达5%"
-    },
-    {
-     "title": "源飞宠物10月14日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895372653.html",
-     "pubDate": "Wed, 14 Oct 2026 14:24:16 +0800",
-     "summary": "以下是 源飞宠物 在北京时间10月14日14:24分盘口异动快照： 10月14日， 源飞宠物 盘中跌幅达5%，截至14点24分，报14.93元，成交8160.60万元，换手率4.73%。 分笔 14:24:12 14.93 25↓ 14:24:09 14.94 25↓ 14:24:06 14.95 162↓ 14:23:48 14.95 6↓ 14:23:39 14.95 1↓ 14:23:33 14.96 1↑ 14:23:30 14.95 2↓ 14:23:27 14.96 40↓ 14:23:24 14.96 11↓ 14:23:15 14.97 15↑ 报价 卖五 14.99 12 卖",
-     "source": "东方财富股票",
-     "zh": "源飞宠物10月14日盘中跌幅达5%"
-    },
-    {
      "title": "Glencore makes Australian debut, eyes potential ASX 200 inclusion",
      "link": "https://seekingalpha.com/news/4652745-glencore-makes-australian-debut-eyes-potential-asx-200-inclusion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 14 Oct 2026 02:23:17 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Glencore makes Australian debut, eyes potential ASX 200 inclusion"
-    },
-    {
-     "title": "重庆出发，2.5小时到西安 这条高铁有新进展→",
-     "link": "http://www.eeo.com.cn/2026/1014/1063942.shtml",
-     "pubDate": "Wed, 14 Oct 2026 14:13:12 +0800",
-     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/83349C224AF01A7A68440DB5EDF50D5C.jpg\" alt=\"西渝高铁四方山隧道出口。中铁十一局供图\" data-title=\"西渝高铁四方山隧道出口。中铁十一局供图\" data-target=\"2110234693886283778\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/REPRINT/MEDIA/PICTURE/2026/10/14/bc9457773a5",
-     "source": "经济观察网",
-     "zh": "重庆出发，2.5小时到西安 这条高铁有新进展→"
-    },
-    {
-     "title": "秘勇任北京首创集团党委书记、董事长",
-     "link": "http://www.eeo.com.cn/2026/1014/1063940.shtml",
-     "pubDate": "Wed, 14 Oct 2026 14:13:05 +0800",
-     "summary": "首创集团官方公众号10月14日发布消息，10月13日，首创集团召开干部大会，宣布北京市委、市政府关于首创集团主要领导任免的决定：秘勇同志任北京首都创业集团有限公司党委书记、董事长，不再担任北京首都创业集团有限公司总经理职务。",
-     "source": "经济观察网",
-     "zh": "秘勇任北京首创集团党委书记、董事长"
     },
     {
      "title": "SK海力士HBM4后道设备订单推迟至明年，扩产节奏低于预期",
@@ -2426,52 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "创业板跌近2%，“易中天”下挫，AI漫剧概念再爆发，恒科指午后拉升涨超2%，美团、阿里大涨"
     },
     {
-     "title": "时代锐评｜郑钦文夺冠后品牌营销众生相：蹭冠军热度可以，但别没底线",
-     "link": "http://www.eeo.com.cn/2026/1014/1063913.shtml",
-     "pubDate": "Wed, 14 Oct 2026 13:52:20 +0800",
-     "summary": "本文来源：时代财经 作者：赵姝婵 庞宇 10月11日晚，郑钦文以2-0击败安德列娃，夺得中网女单冠军，成为中网举办二十届历史以来首位本土女单冠军。夺冠的喜悦还未在社媒上消散，一场“赞助商大型团建现场”已经开演：十几个代言品牌连夜下场，抢着把“恭喜郑钦文”变成“我们的活动”。 <img class=\"lazyload\" src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/07FD5D7E456B7C763B35208688F...",
-     "source": "经济观察网",
-     "zh": "时代锐评｜郑钦文夺冠后品牌营销众生相：蹭冠军热度可以，但别没底线"
-    },
-    {
-     "title": "海关总署：前三季度我国跨境电商进出口约2.18万亿元",
-     "link": "http://www.eeo.com.cn/2026/1014/1063911.shtml",
-     "pubDate": "Wed, 14 Oct 2026 13:52:06 +0800",
-     "summary": "海关总署新闻发言人、统计分析司司长吕大良14日在国新办新闻发布会上表示，据海关初步测算，前三季度，我国跨境电商进出口约2.18万亿元，增长4.4%，其中出口约1.75万亿元，增长4.6%，进口约4340.5亿元，增长3.3%。",
-     "source": "经济观察网",
-     "zh": "海关总署：前三季度我国跨境电商进出口约2.18万亿元"
-    },
-    {
-     "title": "Earnings Snapshot: ASML Q3 GAAP EPS beats at €12.93; raises Q4 guidance above estimates and updates FY26 sales outlook",
-     "link": "https://seekingalpha.com/news/4652736-earnings-snapshot-asml-q3-gaap-eps-beats-at-1293-raises-q4-guidance-above-estimates-and-updates-fy26-sales-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 01:43:15 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Earnings Snapshot: ASML Q3 GAAP EPS beats at €12.93; raises Q4 guidance above estimates and updates FY26 sales outlook"
-    },
-    {
      "title": "阿斯麦Q3利润49.6亿欧元大超预期，上调全年展望，订单排至2030年并正评估扩产 | 财报见闻",
      "link": "https://wallstreetcn.com/articles/3783594",
      "pubDate": "Wed, 14 Oct 2026 13:39:22 +0800",
      "summary": "人工智能基础设施投资持续升温，正将芯片设备巨头阿斯麦（ASML）的订单需求推向更远的未来。 阿斯麦周三公布三季度业绩，净利润大幅超出市场预期，并再度上调全年业绩指引—— 这已是该公司连续第三个季度提升展望。 更值得关注的是， 部分客户已开始就2029年乃至2030年的设备采购表达订购意向，而该公司现有的2027年和2028年供应计划已无法完全满足市场需求。 面对日益紧张的供需缺口，首席执行官Christophe Fouquet表示， 公司正在评估将2028年产能提升幅度进一步超越此前宣布的30%扩产计划，以应对持续攀升的需求。 市场对上述业绩与展望的反应将成为近期半导体板块情绪的重要参照。本周",
      "source": "华尔街见闻",
      "zh": "阿斯麦Q3利润49.6亿欧元大超预期，上调全年展望，订单排至2030年并正评估扩产 | 财报见闻"
-    },
-    {
-     "title": "【安徽省】祁门县徽红叶纸厂召回部分徽红叶牌纯木浆卫生纸",
-     "link": "http://www.eeo.com.cn/2026/1014/1063887.shtml",
-     "pubDate": "Wed, 14 Oct 2026 13:39:11 +0800",
-     "summary": "中国质量新闻网讯据安徽省缺陷产品召回管理技术中心消息，近日，祁门县徽红叶纸厂按照《消费品召回管理暂行规定》的要求，向安徽省市场监督管理局、黄山市市场监督管理局报告了召回计划，将自即日起，召回2026年3月22日生产的徽红叶牌纯木浆卫生纸（规格型号155...",
-     "source": "经济观察网",
-     "zh": "【安徽省】祁门县徽红叶纸厂召回部分徽红叶牌纯木浆卫生纸"
-    },
-    {
-     "title": "女子高铁上和男友开免提打1小时电话？官方通报",
-     "link": "http://www.eeo.com.cn/2026/1014/1063885.shtml",
-     "pubDate": "Wed, 14 Oct 2026 13:39:06 +0800",
-     "summary": "10月14日，话题“女子高铁上和男友开免提打1小时电话”登上微博热搜，引发关注。 对此，@上铁南京客运段官微 发布情况说明称，2026年10月12日13时许，由上铁南京客运段值乘、北京南开往上海虹桥站的G735次列车从济南西站发车后，列车工作人员例行巡视时，发现10号车厢的两名女性旅客发生争吵，了解原因后进行了处置调解，平息了争吵；经提醒劝阻，开手机免提打电话的女性旅客挂掉了电话，后续未再发生类似情况。</...",
-     "source": "经济观察网",
-     "zh": "女子高铁上和男友开免提打1小时电话？官方通报"
     },
     {
      "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
@@ -2520,6 +2472,54 @@ window.INDUSTRY_DATA = {
      "summary": "周三核电概念走强， 华能国际 、 中国核电 等涨超3%； 中国广核 、 华电国际 等涨超2%。 IAEA：核电或具长期增长潜力 据上观新闻，截至今年7月底，我国在运及核准在建的核电机组合计达120台，总装机1.35亿千瓦，总体规模居世界第一，“华龙一号”、高温气冷堆、快堆、SMR（小型模块化反应堆）等多元技术路线并行攻关，完整的核电产业链正持续夯实核能新质生产力的根基。 国际方面，2026年9月14日，国际原子能机构（IAEA）发布年度展望报告《能源、 电力 与核电估算2060》，第六次上调全球核电装机容量预期。根据NEA2026年8月14日发布的《核能展望：2050年及以后全球装机容量》，在",
      "source": "东方财富资讯",
      "zh": "核电概念逆势走强！今年已进入装机投产高峰(附股)"
+    },
+    {
+     "title": "“三桶油”集体阶段新高！石油石化走强 融资客抢筹股曝光",
+     "link": "http://finance.eastmoney.com/news/11139,202610143895259549.html",
+     "pubDate": "Wed, 14 Oct 2026 12:17:09 +0800",
+     "summary": "石油石化 板块10月14日早盘表现强势，板块中 博迈科 涨停； 新潮能源 、 中海油服 、 润贝航科 跟涨。“三桶油” 中国海油 、 中国石化 、 中国石油 集体阶段新高。 国际油价持续走高 市场人士表示， 石油石化 板块的走强，核心因素在于近期国际油价的持续走高。目前布伦特原油已回到105美元/桶上方，9月23日以来上涨超过10%。而和7月初最低的70.14美元/桶相比，涨幅超过50%。 NYMEX原油则是回到了95美元/桶的水平，10月6日触底反弹以来涨幅超过6%。和7月初最低的67.04美元/桶相比，涨幅超过40%。 地缘冲突风险高企 而油价的走强，当下市场的焦点在于也门胡塞武装和沙特之",
+     "source": "东方财富资讯",
+     "zh": "“三桶油”集体阶段新高！石油石化走强 融资客抢筹股曝光"
+    },
+    {
+     "title": "印度央行救卢比掏空家底：外储骤降500亿美元，2000亿远期美元负债成定时炸弹",
+     "link": "https://wallstreetcn.com/articles/3783585",
+     "pubDate": "Wed, 14 Oct 2026 12:10:36 +0800",
+     "summary": "印度央行正在为捍卫卢比付出越来越沉重的代价。外汇储备自9月初以来已蒸发500亿美元，账面上高达2000亿美元的负美元远期头寸叠加银行体系约350亿美元的额外远期美元敞口，正将这场汇率保卫战推向可持续性的临界点。 印度央行此轮干预手段层层加码： 从动员侨民在不足三个月内借入1330亿美元，到直接开设专项窗口将国有石油公司每日高达2.5亿至4亿美元的购汇需求转移至央行资产负债表，再到重启衍生品管制、大幅压缩市场参与者的投机性购汇空间。 卢比暂时从历史低位回稳至95附近，但 油价高企、通胀升温与美债收益率飙升的三重外部压力 ，令这场救市行动的前景愈发脆弱。 更深层的隐患在于，印度与美国之间的10年期",
+     "source": "华尔街见闻",
+     "zh": "印度央行救卢比掏空家底：外储骤降500亿美元，2000亿远期美元负债成定时炸弹"
+    },
+    {
+     "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+     "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+     "pubDate": "Wed, 14 Oct 2026 04:07:00 GMT",
+     "summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+     "source": "CNBC",
+     "zh": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia"
+    },
+    {
+     "title": "France’s Marine Le Pen gears up for fight with EU",
+     "link": "https://www.ft.com/content/60d09841-052a-44f3-a8ae-52c38fdbb5ab?syn-25a6b1a6=1",
+     "pubDate": "Wed, 14 Oct 2026 04:00:21 GMT",
+     "summary": "Far-right leader promises a ‘trial of strength’ in FT interview even as she tries to reassure voters over her pragmatism",
+     "source": "Financial Times",
+     "zh": "France’s Marine Le Pen gears up for fight with EU"
+    },
+    {
+     "title": "The global economy and the art of living dangerously",
+     "link": "https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1",
+     "pubDate": "Wed, 14 Oct 2026 04:00:21 GMT",
+     "summary": "It would be nice to think that the world will become less shock-prone, but it probably won’t",
+     "source": "Financial Times",
+     "zh": "The global economy and the art of living dangerously"
+    },
+    {
+     "title": "Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal",
+     "link": "https://www.ft.com/content/afa0a322-ad2a-4d49-aa0e-81f15a01c3a7?syn-25a6b1a6=1",
+     "pubDate": "Wed, 14 Oct 2026 04:00:12 GMT",
+     "summary": "The kingdom is one of the world’s top arms buyers but has struggled to keep pace with the Iranian-backed rebels’ tactics",
+     "source": "Financial Times",
+     "zh": "Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal"
     }
    ]
   },

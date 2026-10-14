@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/15 05:32:00",
+ "generated_at": "2026/10/15 05:38:53",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Flock CEO says its microphones detect ‘just gunshots.’ Its website says different",
+     "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+     "pubDate": "Wed, 14 Oct 2026 21:30:33 +0000",
+     "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+     "source": "TechCrunch AI",
+     "zh": "Flock CEO says its microphones detect ‘just gunshots.’ Its website says different"
+    },
     {
      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
      "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
@@ -87,14 +95,6 @@
      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
      "source": "TechCrunch AI",
      "zh": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace"
-    },
-    {
-     "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-     "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-     "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
-     "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-     "source": "TechCrunch AI",
-     "zh": "Floqer’s AI agents research sales prospects so teams don’t have to"
     },
     {
      "title": "智能体长任务总“失忆”？国产开源破局，类Jev模型接管Agent调度",
@@ -478,7 +478,7 @@
      "pubDate": "Wed, 14 Oct 2026 07:02:41 +0000",
      "summary": "The natural evolution of EDA, extending proven design methodologies to include photonic devices, circuits, and systems. The post Simplify Electronic-Photonic Design Workflows: eBook appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
-     "zh": "简化电子光子设计工作流程：电子书"
+     "zh": "Simplify Electronic-Photonic Design Workflows: eBook"
     },
     {
      "title": "Accelerating Advanced IC Package Design: A Methodology for Early and Iterative Optimization of Chiplet Integration",
@@ -526,7 +526,7 @@
      "pubDate": "Wed, 14 Oct 2026 18:19:04 +0000",
      "summary": "AutoStore has unveiled a series of new and upgraded hardware and software products designed to reduce manual intervention in warehouse operations and move its automated storage systems closer to “lights-out” fulfillment. The company’s Fall 2026 product announcement includes new technology for handli",
      "source": "Robotics & Automation",
-     "zh": "AutoStore 扩展硬件和人工智能软件产品组合，推动自主履行"
+     "zh": "AutoStore expands hardware and AI software portfolio in push toward autonomous fulfillment"
     },
     {
      "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
@@ -790,7 +790,7 @@
      "pubDate": "Wed, 14 Oct 2026 03:01:49 +0000",
      "summary": "The redesigned model is 425 mm longer, bringing it closer in size to the larger BYD Dolphin. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "比亚迪二代海鸥将于10月20日上市"
+     "zh": "BYD to launch second-gen Seagull on October 20"
     },
     {
      "title": "BYD Tang L debuts as Atto 8 at Paris Motor Show with flash charging",
@@ -902,7 +902,7 @@
      "pubDate": "Wed, 14 Oct 2026 12:30:00 -0500",
      "summary": "Yemen's Houthis said Wednesday they will resume attacks on Saudi airports and oil facilities \"in the coming days,\" after Saudi authorities reported a limited fire at Aramco's office complex in Dhahran during a Houthi missile attack Tuesday night. The Houthis claimed strikes on Aramco facilities in D",
      "source": "OilPrice",
-     "zh": "胡塞武装誓言在沙特阿美总部遭到袭击后发动更多袭击"
+     "zh": "Houthis Vow More Attacks After Strike on Aramco Headquarters"
     },
     {
      "title": "5 Challenges Facing South America’s Copper Boom",
@@ -937,12 +937,12 @@
      "zh": "Trump Administration Wants to Stop an Almost-Complete Offshore Wind Project"
     },
     {
-     "title": "Fossil generation pipeline rebounds while new clean generation slows: EDF",
+     "title": "Fossil fuel generation pipeline rebounds while new clean generation slows: EDF",
      "link": "https://www.utilitydive.com/news/fossil-generation-pipeline-rebounds-while-new-clean-generation-slows-edf/832978/",
      "pubDate": "Wed, 14 Oct 2026 10:55:47 -0400",
      "summary": "However, &ldquo;rising gas turbine costs and supply shortages are already making new gas plants more expensive and slower to build,&rdquo; David Villagrana, EDF&rsquo;s lead counsel for clean energy tax solutions, told Utility Dive.",
      "source": "Utility Dive",
-     "zh": "Fossil generation pipeline rebounds while new clean generation slows: EDF"
+     "zh": "Fossil fuel generation pipeline rebounds while new clean generation slows: EDF"
     },
     {
      "title": "Becquerel: AI and robotics can deliver 3-4% energy yield improvement in solar PV projects",
@@ -977,12 +977,36 @@
      "zh": "The People Speak: We Want Energy Storage, Not Data Centers"
     },
     {
+     "title": "Battery-powered trains coming to Chicago: a first look",
+     "link": "https://www.utilitydive.com/news/stadler-metra-chicago-battery-electric-train/832993/",
+     "pubDate": "Wed, 14 Oct 2026 10:17:00 -0400",
+     "summary": "Commuter rail systems like Chicago's Metra are exploring battery-electric trains to increase service while reducing diesel exhaust pollution and noise.",
+     "source": "Utility Dive",
+     "zh": "Battery-powered trains coming to Chicago: a first look"
+    },
+    {
+     "title": "PJM plans to study SoftBank’s Ohio AI project under state agreement approach",
+     "link": "https://www.utilitydive.com/news/pjm-softbank-ohio-ai-flagship-state-agreement-approach/832962/",
+     "pubDate": "Wed, 14 Oct 2026 10:13:00 -0400",
+     "summary": "The project, dubbed &ldquo;Flagship,&rdquo;&nbsp;includes 765-kV transmission lines to be built by AEP Ohio, roughly 10 GW in data center load and about 10.2 GW in gas-fired generation.",
+     "source": "Utility Dive",
+     "zh": "PJM plans to study SoftBank’s Ohio AI project under state agreement approach"
+    },
+    {
      "title": "Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS",
      "link": "https://www.pv-magazine.com/2026/10/14/tunisia-launches-tender-for-50-mw-solar-pv-plant-with-10-mw-20-mwh-bess/",
      "pubDate": "Wed, 14 Oct 2026 13:42:24 +0000",
      "summary": "The deadline to submit project proposals is December 10. The post Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS"
+    },
+    {
+     "title": "Scaling residential VPPs could cut electric bill increases by half: Brattle",
+     "link": "https://www.utilitydive.com/news/scaling-vpps-could-cut-electric-bill-increases-by-half-brattle/832956/",
+     "pubDate": "Wed, 14 Oct 2026 09:27:40 -0400",
+     "summary": "Utilities should look to OEM-led enrollment strategies to expand residential virtual power plants utilizing thermostats, batteries and EV chargers, according to The Brattle Group.",
+     "source": "Utility Dive",
+     "zh": "Scaling residential VPPs could cut electric bill increases by half: Brattle"
     },
     {
      "title": "Europe’s second energy crisis largely skipped the solar hours",
@@ -1062,7 +1086,7 @@
      "pubDate": "Wed, 14 Oct 2026 11:27:37 +0000",
      "summary": "A panel of BESS industry experts discussed the ins and outs of long-term service agreements (LTSAs) at the Battery Asset Management Summit UK & Ireland 2026 yesterday.",
      "source": "Energy Storage News",
-     "zh": "LTSA 受到审查：BESS 所有者真正需要从合同中获得什么"
+     "zh": "LTSAs under scrutiny: what BESS owners really need from their contracts"
     },
     {
      "title": "From higher efficiency to higher asset value: LONGi’s strategy to lead Europe’s clean energy transition",
@@ -1071,30 +1095,6 @@
      "summary": "Leon Zhang, President of Utility Europe, LONGi, discusses the changing economics of European solar and the strategic role of storage.",
      "source": "PV Tech",
      "zh": "From higher efficiency to higher asset value: LONGi’s strategy to lead Europe’s clean energy transition"
-    },
-    {
-     "title": "India’s solar generation rises 39% in Q2—CREA",
-     "link": "https://www.pv-tech.org/indias-solar-generation-rises-39-in-q2-crea/",
-     "pubDate": "Wed, 14 Oct 2026 10:24:42 +0000",
-     "summary": "India’s solar generation rose 39% year-on-year to a record 705MU on 30 September, CREA’s latest snapshot reported.",
-     "source": "PV Tech",
-     "zh": "India’s solar generation rises 39% in Q2—CREA"
-    },
-    {
-     "title": "South Africa’s state utility Eskom opens selection process for 1.5GW/21GWh pumped hydro plant",
-     "link": "https://www.energy-storage.news/south-africas-state-utility-eskom-opens-selection-process-for-1-5gw-21gwh-pumped-hydro-plant/",
-     "pubDate": "Wed, 14 Oct 2026 08:48:46 +0000",
-     "summary": "South Africa continues its push for energy storage capacity, with utility and grid operator Eskom issuing a call to work on a 21GWh pumped hydro energy storage (PHES) project.",
-     "source": "Energy Storage News",
-     "zh": "南非国家公用事业公司 Eskom 启动 1.5GW/21GWh 抽水电站选型流程"
-    },
-    {
-     "title": "Nuclear-powered data centers? It’s a tough sell in Utah coal country.",
-     "link": "https://www.canarymedia.com/articles/data-centers/utah-carbon-county-opposition-nuclear-gas-valar",
-     "pubDate": "Wed, 14 Oct 2026 03:30:00 -0400",
-     "summary": "This story was originally published by Grist . Sign up for Grist's weekly newsletter . Cindy O’Neil understands the boom-and-bust cycles of industry. Her husband spent years working in Carbon County’s namesake coal mines. In this pocket of central Utah, energy and the economy have long been intrinsi",
-     "source": "Canary Media",
-     "zh": "Nuclear-powered data centers? It’s a tough sell in Utah coal country."
     }
    ]
   },
@@ -1209,6 +1209,14 @@
      "zh": "Verastem cancer drug shows early promise in small study"
     },
     {
+     "title": "CVS to pay $315M to settle opioid prescribing allegations",
+     "link": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
+     "pubDate": "Wed, 14 Oct 2026 10:45:52 -0400",
+     "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and &ldquo;strongly disagreed&rdquo; with the case&rsquo;s claims.",
+     "source": "BioPharma Dive",
+     "zh": "CVS to pay $315M to settle opioid prescribing allegations"
+    },
+    {
      "title": "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump",
      "link": "https://endpoints.news/ultragenyxs-second-prv-sale-biomeas-oral-glp-1-data-leads-to-stock-slump/",
      "pubDate": "Wed, 14 Oct 2026 14:24:20 +0000",
@@ -1262,7 +1270,7 @@
      "pubDate": "Wed, 14 Oct 2026 12:17:35 +0000",
      "summary": "E.U. antitrust regulators accepted concessions from Sanofi to settle a probe into an allegedly “misleading” campaign that disparaged a rival flu vaccine.",
      "source": "STAT News",
-     "zh": "STAT+：欧盟接受结束针对贬低竞争对手疫苗的反垄断调查的提议，赛诺菲避免罚款"
+     "zh": "STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine"
     },
     {
      "title": "Arrowhead’s brain-targeting RNA drug lowers Alzheimer’s protein in early study",
@@ -1287,14 +1295,6 @@
      "summary": "One lawyer involved noted how it's yet another example of Paragon and key investor Fairmount &mdash; which have helped transform the reputation for reverse mergers &mdash; quickly executing on a complicated deal.",
      "source": "BioPharma Dive",
      "zh": "Another Paragon spinout goes public through reverse merger"
-    },
-    {
-     "title": "BioNTech mRNA cancer immunotherapy misses first objective in key study",
-     "link": "https://www.biopharmadive.com/news/biontech-mrna-immunotherapy-hpv16-head-neck-cancer/832854/",
-     "pubDate": "Tue, 13 Oct 2026 12:24:00 -0400",
-     "summary": "An early data check showed the shot didn&rsquo;t delay tumor progression in a form of head and neck cancer, though BioNTech is holding out hope it might eventually extend survival.",
-     "source": "BioPharma Dive",
-     "zh": "BioNTech mRNA 癌症免疫疗法未能实现关键研究的第一个目标"
     }
    ]
   },
@@ -1310,7 +1310,7 @@
      "pubDate": "Wed, 14 Oct 2026 21:00:00 +0000",
      "summary": "Scientists have performed a cosmic genealogy on planetary systems in the Milky Way, finding two distinct families that influence the evolution and fate of these systems.",
      "source": "Space.com",
-     "zh": "行星谱系：科学家发现，银河系世界属于两个“家族”之一"
+     "zh": "Planetary genealogy: Milky Way worlds belong to 1 of 2 ‘families,’ scientists find"
     },
     {
      "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
@@ -1542,7 +1542,7 @@
      "pubDate": "Thu, 08 Oct 2026 13:57:38 +0000",
      "summary": "In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […] The post What will it take to build a moon base? appeared first on SpaceNews .",
      "source": "SpaceNews",
-     "zh": "建造月球基地需要什么？"
+     "zh": "What will it take to build a moon base?"
     }
    ]
   },
@@ -1801,12 +1801,12 @@
      "zh": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts"
     },
     {
-     "title": "Trump Aides Admit the House is a Lost Cause",
+     "title": "Trump Aides Admit the House Is a Lost Cause",
      "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
      "pubDate": "Wed, 14 Oct 2026 21:00:00 +0000",
      "summary": "With the midterm elections just a few weeks away, the White House knows it has to go all in on Senate races—while virtually forfeiting the House.",
      "source": "WIRED",
-     "zh": "Trump Aides Admit the House is a Lost Cause"
+     "zh": "Trump Aides Admit the House Is a Lost Cause"
     },
     {
      "title": "OpenCode 2.0",
@@ -1953,14 +1953,6 @@
      "zh": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer"
     },
     {
-     "title": "Hiyd is a health tracker that attaches to the watch you already wear",
-     "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
-     "pubDate": "Wed, 14 Oct 2026 19:00:00 +0000",
-     "summary": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
-     "source": "TechCrunch",
-     "zh": "Hiyd is a health tracker that attaches to the watch you already wear"
-    },
-    {
      "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
      "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
      "pubDate": "Wed, 14 Oct 2026 18:15:00 +0000",
@@ -2015,6 +2007,14 @@
      "summary": "如何吸引 Chrome 的用户改用其它浏览器？Chrome 是目前市场份额最高的浏览器。苹果推出了一个广告页（无中文）：Switch to Safari。苹果列举了一系列 Safari 的优点，称在 Mac 设备上，相比 Chrome，使用 Safari 播放流视频，续航时间最长可多出 5 个小时；常用网站的页面加载速度更快；单次充电即可全天播放流视频；动画内容渲染性能更出色；复杂 Web 应用 JavaScript 运行速度更快；默认阻止第三方 Cookie 追踪；屏蔽恼人的干扰内容，等等。苹果称，Safari 在速度、电池续航以及隐私上都超过 Chrome。",
      "source": "Solidot",
      "zh": "苹果推出广告鼓励 Chrome 用户切换到 Safari"
+    },
+    {
+     "title": "中国老板要重新学习赚钱这件事",
+     "link": "https://www.huxiu.com/article/4897605.html?f=rss",
+     "pubDate": "Thu, 15 Oct 2026 00:10:09 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展 很多年前，万通地产创始人冯仑提出过一个在中国企业家群体中广为流传的观点：伟大是熬出来的。 他后来还出版了一本同名著作，讲人生，也讲企业经营，强调坚持、耐心和面对困难时的韧性。这种认识并不是当下市面流行的那种空洞的励志和鸡汤，它是来自中国第一代民营企业家真实的生存经验。 过去几十年，中国企业家经历过数不清的困难。宏观调控、行业低谷、金融危机、资金链紧张，以及不断变化的宏观和市场环境，这些都曾经让许多企业陷入困境，甚至一蹶不振。 但事实也反复证明，只要方向没有根本问题，企业能够尊重常识、守住现金流、保持竞争力，挺过最困难的时期，往往就有机会等来新一",
+     "source": "虎嗅",
+     "zh": "中国老板要重新学习赚钱这件事"
     }
    ]
   },
@@ -2024,6 +2024,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Gemini AI Plus subscribers will lose access to Pro models next month",
+     "link": "https://9to5google.com/2026/10/14/gemini-ai-plus-loses-pro-november/",
+     "pubDate": "Wed, 14 Oct 2026 21:34:22 +0000",
+     "summary": "Google has begun emailing Gemini AI Plus members to inform them when their Gemini subscription will no longer include access to the advanced models – just Flash. more…",
+     "source": "9to5Google",
+     "zh": "Gemini AI Plus subscribers will lose access to Pro models next month"
+    },
+    {
+     "title": "Gemini for Home is finally learning that ‘stop’ means stop",
+     "link": "https://www.androidauthority.com/google-home-october-update-gemini-voice-commands-3723503/",
+     "pubDate": "Wed, 14 Oct 2026 21:32:00 +0000",
+     "summary": "Learning some manners.",
+     "source": "Android Authority",
+     "zh": "Gemini for Home is finally learning that ‘stop’ means stop"
+    },
+    {
+     "title": "AT&T is selling its Mexican business for $2 billion",
+     "link": "https://www.gsmarena.com/at_t_is_selling_its_mexican_business_for_2_billion-news-75051.php",
+     "pubDate": "Wed, 14 Oct 2026 23:31:02 +0200",
+     "summary": "AT&T has been one of Mexico's biggest carriers for over a decade, but that's about to come to an end. The company has announced that it has reached an agreement to sell AT&T Mexico to Grupo Televisa and Fintech Holdings for $2 billion in cash at closing, \"subject to certain adjustments\", plus \"addit",
+     "source": "GSMArena",
+     "zh": "AT&T is selling its Mexican business for $2 billion"
+    },
     {
      "title": "Iowa, Nebraska and six other states are suing OpenAI for endangering children",
      "link": "https://www.engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children/",
@@ -2078,7 +2102,7 @@
      "pubDate": "Wed, 14 Oct 2026 20:35:00 +0000",
      "summary": "Google Home is getting a fresh update with improvements to reordering your favorite devices, redesigned controls for third-party smart home devices, and some much-needed fixes for Gemini commands. more…",
      "source": "9to5Google",
-     "zh": "Google Home 更新推出，改进了收藏夹、更多应用程序和 Gemini 修复"
+     "zh": "Google Home update rolling out with improved Favorites, more app & Gemini fixes"
     },
     {
      "title": "Verizon customers just got a free Google AI Pro perk",
@@ -2206,7 +2230,7 @@
      "pubDate": "Wed, 14 Oct 2026 20:35:02 +0200",
      "summary": "",
      "source": "GSMArena",
-     "zh": "Galaxy Tab S12 Ultra 评测"
+     "zh": "Galaxy Tab S12 Ultra review"
     },
     {
      "title": "Jury sides with Qualcomm in its legal fight with Arm and awards it $2 in damages",
@@ -2225,14 +2249,6 @@
      "zh": "This NETGEAR Nighthawk Wi-Fi 7 router just dropped to $149.88 on Amazon"
     },
     {
-     "title": "Deal drops Anker’s 20,000mAh Travel Essential power bank to just $59.99",
-     "link": "https://www.androidauthority.com/anker-travel-essential-power-deal-3723429/",
-     "pubDate": "Wed, 14 Oct 2026 17:51:27 +0000",
-     "summary": "Save 14% on the Anker Travel Essential power bank, a 20,000mAh charger with 87W output and a built-in USB-C cable.",
-     "source": "Android Authority",
-     "zh": "Deal drops Anker’s 20,000mAh Travel Essential power bank to just $59.99"
-    },
-    {
      "title": "You can now join a WhatsApp call without an account",
      "link": "https://9to5google.com/2026/10/14/you-can-now-join-a-whatsapp-call-without-an-account/",
      "pubDate": "Wed, 14 Oct 2026 17:25:00 +0000",
@@ -2241,28 +2257,12 @@
      "zh": "You can now join a WhatsApp call without an account"
     },
     {
-     "title": "Samsung rolling out major Health update with Sleep & Running coach, meal scanning",
-     "link": "https://9to5google.com/2026/10/14/samsung-rolling-out-major-health-update-with-sleep-running-coach-meal-scanning/",
-     "pubDate": "Wed, 14 Oct 2026 17:10:00 +0000",
-     "summary": "The Samsung Health app is getting a pretty major update this week with support for new coaches for sleep and running, as well as support for scanning meals to track calories and macros. more…",
-     "source": "9to5Google",
-     "zh": "Samsung rolling out major Health update with Sleep & Running coach, meal scanning"
-    },
-    {
      "title": "Samsung Galaxy A58's camera details surface, and they are nothing to get excited about",
      "link": "https://www.gsmarena.com/samsung_galaxy_a58_camera_specs_surface-news-75041.php",
      "pubDate": "Wed, 14 Oct 2026 19:01:02 +0200",
      "summary": "Samsung unveiled the Galaxy A57 in March, and it is already working on the Galaxy A58, which could arrive in March or April next year. There is no word from Samsung about the Galaxy A58, but a new report from GalaxyClub shares its camera details, and they are nothing to get excited about. According ",
      "source": "GSMArena",
      "zh": "Samsung Galaxy A58's camera details surface, and they are nothing to get excited about"
-    },
-    {
-     "title": "Nothing is reportedly working on smart glasses - ones with a camera and ones without",
-     "link": "https://www.gsmarena.com/nothing_is_reportedly_working_on_smart_glasses__ones_with_a_camera_and_ones_without-news-75040.php",
-     "pubDate": "Wed, 14 Oct 2026 17:51:02 +0200",
-     "summary": "Nothing, the smartphone company that has only launched three mid-rangers this year ((4a), (4a) Pro and (4b)), has been distracting itself with other gadgets. Earlier this week, it unveiled new Bluetooth speakers. And now Roland Quandt says that Carl Pei & co. are working on not one but two kinds of ",
-     "source": "GSMArena",
-     "zh": "Nothing is reportedly working on smart glasses - ones with a camera and ones without"
     }
    ]
   },
@@ -2273,20 +2273,68 @@
    "total": 13,
    "items": [
     {
-     "title": "市场消息：马自达通过改造线束产品适配机器人，将线束生产迁回本土",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895887542.html",
-     "pubDate": "Thu, 15 Oct 2026 05:21:02 +0800",
-     "summary": "市场消息：马自达通过改造线束产品适配 机器人 ，将线束生产迁回本土。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "市场消息：马自达通过改造线束产品适配机器人，将线束生产迁回本土"
+     "title": "Nebius Group declines 10% amid tech sell-off",
+     "link": "https://seekingalpha.com/news/4653199-nebius-group-declines-10-amid-tech-sell-off?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 17:32:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nebius Group declines 10% amid tech sell-off"
     },
     {
-     "title": "胡塞武装：我方武装部队近日成功锁定一架自塔伊夫空军基地起飞的沙特 “台风” 战机",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895887486.html",
-     "pubDate": "Thu, 15 Oct 2026 05:21:01 +0800",
-     "summary": "胡塞武装：我方武装部队近日成功锁定一架自塔伊夫空军基地起飞的沙特 “台风” 战机。该战机在萨达省空域遭地对空导弹打击，被直接命中，面临坠毁风险。 （文章来源：新浪财经快讯）",
+     "title": "Oracle slumps 9% amid tech selloff, AI buildout concerns",
+     "link": "https://seekingalpha.com/news/4653200-oracle-slumps-9-amid-tech-selloff-ai-buildout-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 17:28:25 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Oracle slumps 9% amid tech selloff, AI buildout concerns"
+    },
+    {
+     "title": "希腊多地遭暴风雨袭击致一人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895888753.html",
+     "pubDate": "Thu, 15 Oct 2026 05:27:20 +0800",
+     "summary": "据希腊方面14日消息，希腊多地连续两天遭暴风雨袭击，持续强降雨引发洪水等灾害，已造成一人死亡。 消息称，位于爱琴海东南部的罗德岛和首都雅典以北埃维亚岛灾情较严重。其中，罗德岛14日数小时内降雨量近300毫米，多条道路被洪水淹没，部分路段因巨石坠落受损而封闭， 电力 供应和 通信 也受到影响。洪水冲走多辆 汽车 ，一名62岁男子所乘的 汽车 被洪水冲入海中，该男子后经确认死亡。此外，持续强降雨致埃维亚岛河水漫溢，多处道路路面被冲毁，交通中断。 恶劣天气还影响希腊航空和海上交通。报道称，当天至少有7个航班取消，多地 港口 部分渡轮航线因强风取消或临时调整。 （文章来源：央视新闻）",
      "source": "东方财富股票",
-     "zh": "胡塞武装：我方武装部队近日成功锁定一架自塔伊夫空军基地起飞的沙特 “台风” 战机"
+     "zh": "希腊多地遭暴风雨袭击致一人死亡"
+    },
+    {
+     "title": "美国总统特朗普：糟糕的美联储故意让利率偏高",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895888958.html",
+     "pubDate": "Thu, 15 Oct 2026 05:26:37 +0800",
+     "summary": "美国总统特朗普：糟糕的美联储故意让利率偏高。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "美国总统特朗普：糟糕的美联储故意让利率偏高"
+    },
+    {
+     "title": "胡塞武装称击中一架沙特“台风”战斗机",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895888682.html",
+     "pubDate": "Thu, 15 Oct 2026 05:26:16 +0800",
+     "summary": "当地时间15日凌晨，也门胡塞武装称击中一架沙特“台风”战斗机。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "胡塞武装称击中一架沙特“台风”战斗机"
+    },
+    {
+     "title": "特朗普： 我们的国家正在赚取比以往更多的钱，因为石油价格如此之高",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895888475.html",
+     "pubDate": "Thu, 15 Oct 2026 05:26:15 +0800",
+     "summary": "特朗普： 我们的国家正在赚取比以往更多的钱，因为石油价格如此之高。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普： 我们的国家正在赚取比以往更多的钱，因为石油价格如此之高"
+    },
+    {
+     "title": "特朗普：糟糕的美联储故意让利率偏高",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895888388.html",
+     "pubDate": "Thu, 15 Oct 2026 05:25:50 +0800",
+     "summary": "特朗普：糟糕的美联储故意让利率偏高。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普：糟糕的美联储故意让利率偏高"
+    },
+    {
+     "title": "马自达通过改造线束产品适配机器人 将线束生产迁回本土",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895888517.html",
+     "pubDate": "Thu, 15 Oct 2026 05:24:53 +0800",
+     "summary": "马自达通过改造线束产品适配 机器人 ，将线束生产迁回本土。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "马自达通过改造线束产品适配机器人 将线束生产迁回本土"
     },
     {
      "title": "Select Water prices upsized $900M notes offering at 7.625%",
@@ -2313,14 +2361,6 @@
      "zh": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest"
     },
     {
-     "title": "美股ETF追踪 | 金银重挫 二倍做空白银ETF涨超12%",
-     "link": "http://stock.eastmoney.com/news/1768,202610153895887740.html",
-     "pubDate": "Thu, 15 Oct 2026 05:18:06 +0800",
-     "summary": "周三美股三大指数集体收跌，道琼斯指数跌0.09%， 纳斯达克 综合 指数跌1.88%，标普500指数跌1.11%。大型科技股普跌， 苹果 涨0.5%， 英伟达 跌3.16%，Meta跌3.27%， 特斯拉 跌2.15%。 消息面上，美国9月CPI同比上涨3.7%，高于市场预期的3.6%，核心CPI同比上涨2.6%亦高于预期，推升了市场对美联储10月再度加息的押注，CME FedWatch显示加息概率升至约44%。美元指数走强、美债收益率攀升，美股科技股、 贵金属 与加密货币同步承压。现货 黄金 跌破4100美元/盎司， 白银 重挫逾4%并失守57美元，创7月以来新低。 美股ETF升幅榜Top5",
-     "source": "东方财富股票",
-     "zh": "美股ETF追踪 | 金银重挫 二倍做空白银ETF涨超12%"
-    },
-    {
      "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
      "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
      "pubDate": "Wed, 14 Oct 2026 21:18:00 GMT",
@@ -2334,31 +2374,7 @@
      "pubDate": "Wed, 14 Oct 2026 17:17:23 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Orchid Island Capital 宣布派息 0.10 美元"
-    },
-    {
-     "title": "美国总统特朗普：我们攻击伊朗的原因其实是出于防御",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895887091.html",
-     "pubDate": "Thu, 15 Oct 2026 05:16:37 +0800",
-     "summary": "美国总统特朗普：我们攻击伊朗的原因其实是出于防御，因为我们不想让他们拥有能一击炸死数百万人的武器。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国总统特朗普：我们攻击伊朗的原因其实是出于防御"
-    },
-    {
-     "title": "富时A50期指连续夜盘收跌0.86%，报13397点",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895886867.html",
-     "pubDate": "Thu, 15 Oct 2026 05:16:35 +0800",
-     "summary": "富时A50期指连续夜盘收跌0.86%，报13397点。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "富时A50期指连续夜盘收跌0.86%，报13397点"
-    },
-    {
-     "title": "特朗普：刚和台积电董事长交谈",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895886770.html",
-     "pubDate": "Thu, 15 Oct 2026 05:16:34 +0800",
-     "summary": "特朗普：刚和 台积电 董事长交谈。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：刚和台积电董事长交谈"
+     "zh": "Orchid Island Capital declares $0.10 dividend"
     },
     {
      "title": "Stellus Capital Investment declares $0.0833 dividend",
@@ -2366,7 +2382,7 @@
      "pubDate": "Wed, 14 Oct 2026 17:15:12 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Stellus Capital Investment 宣布股息 0.0833 美元"
+     "zh": "Stellus Capital Investment declares $0.0833 dividend"
     },
     {
      "title": "Lakefront sells early-stage CAR-T programs to Armed Cell Therapeutics",
@@ -2377,28 +2393,12 @@
      "zh": "Lakefront sells early-stage CAR-T programs to Armed Cell Therapeutics"
     },
     {
-     "title": "MSC Industrial Direct raises dividend to $0.89, up 2.3%",
-     "link": "https://seekingalpha.com/news/4653202-msc-industrial-direct-raises-dividend-to-089-up-23?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:11:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "MSC Industrial Direct raises dividend to $0.89, up 2.3%"
-    },
-    {
      "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
      "link": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
      "pubDate": "Wed, 14 Oct 2026 21:09:20 GMT",
      "summary": "OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children.",
      "source": "CNBC",
-     "zh": "OpenAI 因 ChatGPT 安全问题被 8 个州起诉"
-    },
-    {
-     "title": "RedCloud receives Nasdaq staff delisting determination",
-     "link": "https://seekingalpha.com/news/4653197-redcloud-receives-nasdaq-staff-delisting-determination?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:09:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "RedCloud receives Nasdaq staff delisting determination"
+     "zh": "OpenAI sued by 8 states over ChatGPT safety concerns"
     },
     {
      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
@@ -2414,7 +2414,7 @@
      "pubDate": "Wed, 14 Oct 2026 20:57:00 GMT",
      "summary": "Fund-management giant BlackRock said Wednesday that assets under management are nearly $15.5 trillion after growth of 15%.",
      "source": "MarketWatch",
-     "zh": "增长 15% 后，贝莱德目前管理的资产相当于美国经济规模的一半"
+     "zh": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth"
     },
     {
      "title": "CoreWeave股债双杀！股价暴跌15%债券入困境，马斯克惊呼“吓人”",
@@ -2478,7 +2478,7 @@
      "pubDate": "Wed, 14 Oct 2026 20:19:25 GMT",
      "summary": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
      "source": "CNBC",
-     "zh": "由于对“企业人工智能时机”的担忧加剧，戴尔股价暴跌 11%，引领数据中心抛售"
+     "zh": "Dell stock plunges 11%, leading data center sell-off as fears mount about &apos;enterprise AI timing&apos;"
     },
     {
      "title": "US inflation jumps to 3.7% as Iran war drives up prices",
@@ -2526,7 +2526,7 @@
      "pubDate": "Wed, 14 Oct 2026 20:35:40 +0000",
      "summary": "Movement-induced flares in chronic back pain activate brain regions involved in self-reflection, suggesting chronic pain may be processed differently than acute pain.",
      "source": "Live Science",
-     "zh": "研究发现慢性背痛可能会激活意想不到的大脑网络"
+     "zh": "Chronic back pain may activate an unexpected brain network, study finds"
     },
     {
      "title": "DNA from centuries-old skeletons buried in Montreal reveals no genetic mixing between Indigenous people and French colonists",
@@ -2558,7 +2558,7 @@
      "pubDate": "Wed, 14 Oct 2026 17:00:00 +0000",
      "summary": "As AI churns out mathematical proofs, a DeepMind study raises a bigger question: What do we lose when we focus only on the answers?",
      "source": "Science News",
-     "zh": "人工智能时代，数学还能保持人性吗？"
+     "zh": "Can math stay human in the age of AI?"
     },
     {
      "title": "Physicists claim they can predict when AI will turn dangerous",
@@ -2574,7 +2574,7 @@
      "pubDate": "Wed, 14 Oct 2026 16:22:59 +0000",
      "summary": "In this excerpt from \"Every Last Fish,\" author Rose George examines the deep-rooted problems of the regulations surrounding fish meal.",
      "source": "Live Science",
-     "zh": "“他们无法与鱼厂支付的价格竞争”：鱼粉的需求如何优先于人们的食物"
+     "zh": "'They cannot compete with the prices that fish factories will pay': How demand for fish meal takes priority over feeding people"
     },
     {
      "title": "Researchers improve weather forecasts looking two to six weeks out",
@@ -2654,7 +2654,7 @@
      "pubDate": "Wed, 14 Oct 2026 00:39:11 EDT",
      "summary": "A promising new treatment for knee arthritis uses tiny, dissolvable particles to block abnormal blood vessels, easing inflammation and pain without joint replacement surgery. In a study of 194 patients, 80% experienced clinically meaningful pain relief lasting at least 12 months.",
      "source": "ScienceDaily",
-     "zh": "新的膝关节炎治疗无需手术即可持久缓解疼痛"
+     "zh": "New knee arthritis treatment delivers lasting pain relief without surgery"
     },
     {
      "title": "How artificial neural networks build their own learning machinery",

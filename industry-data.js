@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/14 10:11:55",
+ "generated_at": "2026/10/14 10:31:57",
  "recent_days": 7,
  "industries": [
   {
@@ -866,6 +866,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "‘Mexico’s mixed investment scheme provides clean energy investors with certainty’",
+     "link": "https://www.energy-storage.news/mexicos-mixed-investment-scheme-provides-clean-energy-investors-with-certainty/",
+     "pubDate": "Wed, 14 Oct 2026 02:15:05 +0000",
+     "summary": "Alberto Valenzuela discusses ahead of Energy Storage Summit Latin America about Mexico's growing interest in renewables and energy storage, and the factors driving this growth.",
+     "source": "Energy Storage News",
+     "zh": "‘Mexico’s mixed investment scheme provides clean energy investors with certainty’"
+    },
+    {
+     "title": "Sober Drivers Still Face Nearly 4x Nighttime Risk: Why Road Safety Demands a Safe System Approach",
+     "link": "https://cleantechnica.com/2026/10/13/sober-drivers-still-face-nearly-4x-nighttime-risk-why-road-safety-demands-a-safe-system-approach/",
+     "pubDate": "Wed, 14 Oct 2026 02:10:42 +0000",
+     "summary": "Imagine a world where we successfully remove every single drunk driver from the road. Achieving this would be a monumental victory. Alcohol impairment remains a massive, critical crisis on public roads, directly contributing to over 30% of all traffic deaths in the U.S. Eliminating it is a mission w",
+     "source": "CleanTechnica",
+     "zh": "Sober Drivers Still Face Nearly 4x Nighttime Risk: Why Road Safety Demands a Safe System Approach"
+    },
+    {
      "title": "Merchant exposure divides BESS investors in Japan, Singapore and Australia, DLA Piper finds",
      "link": "https://www.energy-storage.news/merchant-exposure-divides-bess-investors-in-japan-singapore-and-australia-dla-piper-finds/",
      "pubDate": "Wed, 14 Oct 2026 01:44:03 +0000",
@@ -1034,14 +1050,6 @@ window.INDUSTRY_DATA = {
      "zh": "ESMC calls for EU policy support to ‘rebuild the full PV value chain’"
     },
     {
-     "title": "Sales Of Used EVs Surge In US",
-     "link": "https://cleantechnica.com/2026/10/13/sales-of-used-evs-surge-in-us/",
-     "pubDate": "Tue, 13 Oct 2026 13:00:34 +0000",
-     "summary": "Let’s face it. At the beginning of the EV revolution, electric cars were just too damn expensive. A Tesla Model Y cost $66,000 at one point, as the company leveraged strong demand to increase prices. In 2012, the Chevy Volt cost more than $40,000. Even though it was a decent ... [continued] The post",
-     "source": "CleanTechnica",
-     "zh": "Sales Of Used EVs Surge In US"
-    },
-    {
      "title": "US power prices fall with utility-scale solar, rise with rooftop",
      "link": "https://www.pv-magazine.com/2026/10/13/us-power-prices-fall-with-utility-scale-solar-rise-with-rooftop/",
      "pubDate": "Tue, 13 Oct 2026 12:50:00 +0000",
@@ -1096,14 +1104,6 @@ window.INDUSTRY_DATA = {
      "summary": "European PPA prices rose 5% in September, driven by higher forward electricity and gas prices, while Spain and Portugal recorded declines. Contracting activity rebounded, with 25 deals totaling 1.2 GW, alongside growing interest in hybrid PPAs and battery storage agreements. The post European PPA pr",
      "source": "pv magazine",
      "zh": "European PPA prices rise 5% in September"
-    },
-    {
-     "title": "Foss & Company closes US$58 million tax equity deal for GridStor’s Texas BESS project",
-     "link": "https://www.energy-storage.news/foss-company-closes-us58-million-tax-equity-deal-for-gridstors-texas-bess-project/",
-     "pubDate": "Tue, 13 Oct 2026 10:18:18 +0000",
-     "summary": "US tax equity syndicator Foss & Company has closed a US$58 million partnership flip transaction to finance an energy storage project in Hidalgo County, Texas, developed by GridStor.",
-     "source": "Energy Storage News",
-     "zh": "Foss & Company closes US$58 million tax equity deal for GridStor’s Texas BESS project"
     }
    ]
   },
@@ -1786,28 +1786,92 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "新作者必须完本才能签约，番茄小说被曝大幅抬高签约门槛",
-     "link": "https://www.ithome.com/1/012/681.htm",
-     "pubDate": "Wed, 14 Oct 2026 02:06:24 GMT",
-     "summary": "IT之家 10 月 14 日消息，据界面新闻报道，10 月 12 日，番茄小说发布签约模式调整通知， 因大幅抬高签约门槛，引发争议 。 根据最新调整，自 2026 年 10 月 12 日起， Lv.0 与 Lv.1 作者的新作品只能选择“完本签约模式” ，Lv.2 及以上作者才可在连载签约与完本签约间自由选择。 番茄小说称，为帮助作者更好的适应新版签约机制，所有作者名下已创建作品均可继续连载，不受作者等级影响。 IT之家注意到，番茄小说还一同发布了 作家等级 3.0 体系改版上线通知 ，表示为了更好地服务广大番茄小说创作者，树立更清晰的成长里程碑，更准确地体现作者的创作质量与专业水平，平台将对",
-     "source": "IT之家",
-     "zh": "新作者必须完本才能签约，番茄小说被曝大幅抬高签约门槛"
+     "title": "Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September&apos;s record of 972, which was already ~10x the normal monthly patch load (Brian Krebs/Krebs on Security)",
+     "link": "https://www.techmeme.com/261013/p51#a261013p51",
+     "pubDate": "Tue, 13 Oct 2026 22:25:01 -0400",
+     "summary": "Brian Krebs / Krebs on Security : Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September's record of 972, which was already ~10x the normal monthly patch load &nbsp; &mdash;&nbsp; Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its W",
+     "source": "Techmeme",
+     "zh": "Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September&apos;s record of 972, which was already ~10x the normal monthly patch load (Brian Krebs/Krebs on Security)"
     },
     {
-     "title": "SEMI 预测：半导体市场规模 2035 年有望达 2~3 万亿美元",
-     "link": "https://www.ithome.com/1/012/678.htm",
-     "pubDate": "Wed, 14 Oct 2026 02:00:32 GMT",
-     "summary": "IT之家 10 月 14 日消息，据韩媒 THE ELEC 报道，SEMI（国际半导体产业协会）总裁兼首席执行官 Ajit Manocha 在当地时间昨日于美国旧金山开幕的 SEMICON West 2026 展览会上发表了演讲。 Ajit Manocha 在 2017 年上任伊始曾预测半导体市场规模有望在 2030 年达到 1 万亿美元，当时这一观点鲜有人认同。而实际情况是， 2026 年仅用时 8 个月就跨越了这一重大关口 ，增长速度远超早期预期。 Ajit Manocha 进一步大胆预测， 半导体市场规模在 2035 年有望达 2~3 万亿美元 （IT之家注：现汇率约合 13.41 ~ ",
+     "title": "豆包手机助手宣布陆续放开第三方应用屏幕自动化操作权限，阿里、腾讯系等 App 明确拒绝",
+     "link": "https://www.ithome.com/1/012/704.htm",
+     "pubDate": "Wed, 14 Oct 2026 02:22:35 GMT",
+     "summary": "IT之家 10 月 14 日消息，豆包手机助手今日发文宣布，豆包手机助手推出的《屏幕自动化操作声明协议》（SAEP，Screen Automation Execution Protocol）30 天公示期已结束， 现将逐步放开第三方应用的屏幕自动化操作权限 。 豆包手机助手表示，公示期结束后， 开发者仍可随时声明拒绝 ，豆包手机助手也会及时关闭相关操作。已明确声明拒绝的应用，智能体将不会对其进行操作。 IT之家附最新拒绝操作应用清单如下：",
      "source": "IT之家",
-     "zh": "SEMI 预测：半导体市场规模 2035 年有望达 2~3 万亿美元"
+     "zh": "豆包手机助手宣布陆续放开第三方应用屏幕自动化操作权限，阿里、腾讯系等 App 明确拒绝"
     },
     {
-     "title": "国家统计局：9 月数据存储设备、平板电脑、计算机和移动电话机价格分别同比上涨 46.7%、23.6%、21.8% 和 14.9%",
-     "link": "https://www.ithome.com/1/012/677.htm",
-     "pubDate": "Wed, 14 Oct 2026 01:59:57 GMT",
-     "summary": "IT之家 10 月 14 日消息，据央视新闻报道，国家统计局公布的数据显示，9 月份，居民消费价格指数（CPI）环比上涨 0.2%，涨幅比上月回落 0.2 个百分点；同比上涨 0.9%，涨幅比上月扩大 0.1 个百分点；扣除食品和能源价格的核心 CPI 同比上涨 1.0%，涨幅与上月相同。 IT之家从数据中获悉，工业生产者出厂价格指数（PPI）环比上涨 1.2%，涨幅比上月扩大 0.8 个百分点；同比上涨 5.0%，涨幅比上月扩大 1.2 个百分点。 从环比看 全国 CPI 上涨 0.2%，涨幅比上月回落 0.2 个百分点。 其中，服务价格由上月上涨 0.1% 转为下降 0.2%，对 CPI ",
+     "title": "众筹到手价 1699 元，小米米家金属旅行箱上架",
+     "link": "https://www.ithome.com/1/012/703.htm",
+     "pubDate": "Wed, 14 Oct 2026 02:21:42 GMT",
+     "summary": "IT之家 10 月 14 日消息，小米米家金属旅行箱已经上架有品，将于 10 月 21 日开启众筹，众筹到手价为 1699 元，提供银色与钛金色两种配色。 IT之家注意到，新品箱体沿用米家行李箱标志性的横向条纹设计，箱体由高性能 6 系铝镁硅合金框体与 5 系铝镁合金箱壳组合而成，并采用无铆钉框体工艺。官方称，金属旅行箱制作流程复杂，对材质与工艺成熟度要求较高，整箱需经过约 150 道工序。 米家称其与 HINOMOTO 联合研发了静音万向轮，内部采用金属独立减震结构，并宣称获得 SGS 静音轮认证。页面给出的实验室口径数据为：行走 72 公里后轮皮磨损小于 2 毫米，行走噪音低于 43 分贝",
      "source": "IT之家",
-     "zh": "国家统计局：9 月数据存储设备、平板电脑、计算机和移动电话机价格分别同比上涨 46.7%、23.6%、21.8% 和 14.9%"
+     "zh": "众筹到手价 1699 元，小米米家金属旅行箱上架"
+    },
+    {
+     "title": "这届毕业生，卡在AI 率里",
+     "link": "https://www.huxiu.com/article/4897336.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 10:18:52 +0800",
+     "summary": "本文来自微信公众号： 人间像素 ，作者：刘曳，编辑：唐云路，原文标题：《这届毕业生，卡在 AI 率里》 乔胜南终于不用再打开那篇毕业论文了。 她离开校园已经一年时间，还在适应职场生活。按理说，论文早该停留在学校档案里：它通过了查重、评阅和答辩，换来了毕业证和学位证。可今年5月，一个辅导员电话又把她叫回学校。论文抽检结果显示，她的论文AI疑似率达到47%。电话那头，辅导员告诉她，这可能影响她已经拿到的毕业证和学位证。 那一刻，她觉得荒唐。 她毕业那年，生成式AI还没有现在成熟，身边同学最多让AI帮忙整理思路，很少有人敢让它直接写论文。可一年后，一套新的检测标准追了上来。她必须重新解释那篇已经完成",
+     "source": "虎嗅",
+     "zh": "这届毕业生，卡在AI 率里"
+    },
+    {
+     "title": "9 月“AI 魔改”视频治理成果：清理违规视频近 1.3 万条、处置违规账号 30 余个",
+     "link": "https://www.ithome.com/1/012/701.htm",
+     "pubDate": "Wed, 14 Oct 2026 02:12:34 GMT",
+     "summary": "IT之家 10 月 14 日消息，据央视新闻报道，国家广播电视总局消息称，2026 年 1 月开展的“AI 魔改”视频专项治理工作已取得实效。部分重点网络视听平台近期公布了 9 月的处置情况， 共清理违规视频近 13000 条、处置违规账号 30 余个 。 截至IT之家发稿，具体平台清理信息暂未公布。 据了解，为进一步巩固治理成果，自 2026 年 2 月 1 日起，“AI 魔改”视频治理工作通过常态化、制度化长效机制持续开展。广电总局督导各主要网络视听平台进一步深化落实主体责任，加强日常排查，重点清理基于四大名著、历史题材、革命题材、英模人物等经典影视作品进行“AI 魔改”的违规视频，并同步",
+     "source": "IT之家",
+     "zh": "9 月“AI 魔改”视频治理成果：清理违规视频近 1.3 万条、处置违规账号 30 余个"
+    },
+    {
+     "title": "尽管部分官员抗议，R 星《GTA 6》迈阿密营销活动持续加码",
+     "link": "https://www.ithome.com/1/012/699.htm",
+     "pubDate": "Wed, 14 Oct 2026 02:10:55 GMT",
+     "summary": "IT之家 10 月 14 日消息，R 星（Rockstar Games）正持续加码《GTA 6》的大规模营销活动，推出罪恶都市主题飞艇、美国国家橄榄球联盟（NFL）联动宣传等多个推广项目，尽管部分迈阿密官员对此提出抗议。 过去两个月，R 星一直在为这款作品展开营销。宣传攻势从 Netflix 上的大型实机演示揭开序幕，随后推出海量周边商品与附加内容，其中包含一张专为《GTA 6》打造原创配乐的专辑。如今，R 星将宣传延伸至现实世界，为 11 月 19 日的游戏发售造势。 R 星当前把宣传重心放在迈阿密。《GTA 6》的故事舞台是迈阿密的虚构版本 —— 罪恶都市（Vice City），因此 R ",
+     "source": "IT之家",
+     "zh": "尽管部分官员抗议，R 星《GTA 6》迈阿密营销活动持续加码"
+    },
+    {
+     "title": "沙特：一个能帮忙的都没有",
+     "link": "https://www.huxiu.com/article/4897334.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 10:09:34 +0800",
+     "summary": "本文来自微信公众号： 江宁知府 ，作者：印闲生 知名中东问题专家牛新春用了八个字点评近期沙特的处境——“四处求援，八面碰壁”。 自十年前沙特王储小萨勒曼掌权以来，提出了所谓的“2030愿景”，希望降低对石油出口的依赖，把王国打造成投资、旅游、房地产及各大体育赛事的热土。 然而这些愿景正一个个破灭，多个重大建设项目被取消，石油出口航路遭封锁，连境内机场都轮番被导弹袭击。 战争阴云对沙特的影响已经不仅仅是财政层面，而是直接影响安全与社会运转，原本计划举行电影节、音乐会、体育赛事和商界领袖峰会等纷纷取消或延迟。 沙特为什么会掉入地缘危机陷阱呢？这就不得不提小萨勒曼的一系列误判。 自2014年也门爆发",
+     "source": "虎嗅",
+     "zh": "沙特：一个能帮忙的都没有"
+    },
+    {
+     "title": "支持 Wi-Fi 6E/7 的苹果 Mac 可设置 HomePod mini 2 为默认扬声器",
+     "link": "https://www.ithome.com/1/012/698.htm",
+     "pubDate": "Wed, 14 Oct 2026 02:09:33 GMT",
+     "summary": "IT之家 10 月 14 日消息，苹果公司昨日（10 月 13 日）发布博文， 宣布在所有配备 Wi-Fi 6E 或更高版本系统的 Mac 机型上，HomePod mini 2 可以作为其默认扬声器。 IT之家附上苹果官方博文内容如下： 新款 HomePod mini 可用作 Mac 的扬声器，为电影、游戏、FaceTime 通话和视频通话等各种体验带来丰富饱满的声音。新款 HomePod mini 还提供与 Mac 相得益彰的同系配色，可与之共同打造美观统一的桌面环境。 苹果公司后续补充写道： 所有配备 Wi-Fi 6E 或更高版本的 Mac 电脑都支持此功能，可搭配单部 HomePod 或",
+     "source": "IT之家",
+     "zh": "支持 Wi-Fi 6E/7 的苹果 Mac 可设置 HomePod mini 2 为默认扬声器"
+    },
+    {
+     "title": "比“大公司”更稀缺的，是定义规则的人——30家中国行业先锋",
+     "link": "https://www.tmtpost.com/8167920.html",
+     "pubDate": "Wed, 14 Oct 2026 10:08:49 +0800",
+     "summary": "“Value Industry Benchmark 30·中国行业先锋30强”榜单发布：30家细分领域领军者。",
+     "source": "钛媒体",
+     "zh": "比“大公司”更稀缺的，是定义规则的人——30家中国行业先锋"
+    },
+    {
+     "title": "Counterpoint：到 2030 年全球处方助听器销量将超 3100 万台，近半支持端侧 AI",
+     "link": "https://www.ithome.com/1/012/696.htm",
+     "pubDate": "Wed, 14 Oct 2026 02:07:47 GMT",
+     "summary": "IT之家 10 月 14 日消息，Counterpoint 《全球端侧 AI 可穿戴设备预测》报告指出， 到 2030 年，全球处方助听器销量预计将突破 3100 万台，2025 至 2030 年的年复合增长率为 4% 。随着 AI 在助听器领域的应用普及， 预计到 2030 年，近 50% 的助听器产品将搭载端侧 AI 能力 。 多年来，助听器在小型化、连接性、续航方面持续进步，但核心难题始终存在：用户在嘈杂环境中难以听清对话。传统助听器主要依赖数字信号处理（DSP）：麦克风采集环境声音，处理器分析频率、音量等特征，再通过预设算法决定放大或降低哪些声音。这套方案对空调、发动机这类稳定噪音有效",
+     "source": "IT之家",
+     "zh": "Counterpoint：到 2030 年全球处方助听器销量将超 3100 万台，近半支持端侧 AI"
+    },
+    {
+     "title": "2026年秋招，要求应届生人均“3年工作经验”？",
+     "link": "https://www.huxiu.com/article/4897326.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 10:06:43 +0800",
+     "summary": "本文来自微信公众号： 凤凰WEEKLY ，作者：凯斯，编辑：章鱼，题图来自：视觉中国 又是一年&ldquo;金九银十&rdquo;，又是一年秋招大战。 如今学啥找工作最吃香？答案大多都绕不开&ldquo;AI&rdquo;。 但AI人才抢手，并不意味着应届生的工作都好找了。细看2026年的秋招，就会发现一种残酷的割裂。 有人还没毕业，就被开出百万年薪；有人想找份实习，却被要求先有3年编程经验。 同样是找第一份工作，有人被大厂轮番加价争抢，短短几周身价就涨了41万，有人却连一个&ldquo;慢慢学&rdquo;的基础岗都难找到。 极少数人的起薪越来越高，普通人入职的机会却越来越少。 过去专家嘴里",
+     "source": "虎嗅",
+     "zh": "2026年秋招，要求应届生人均“3年工作经验”？"
     },
     {
      "title": "一年揽收1.5亿，起底郑钦文的商业帝国",
@@ -1824,30 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 新消费财研社 ，作者：行业都在关注的，原文标题：《瑞幸门店日销800杯！大学校园，成为咖啡茶饮巨头最后的避风港？》 导读：我们调研了大学里的茶咖店，发现瑞幸日销高达800杯，出杯量堪比一线写字楼门店，终于明白为啥茶咖品牌都要扎堆进校园了！ 2026年9月，开学季的喧嚣不仅属于大一新生，也属于那些急于抢占年轻人味蕾的新茶饮连锁品牌。 在华中科技大学军山校区的邻里中心，瑞幸与古茗即将揭开面纱。在遥远的新疆阿克苏，瑞幸甚至将当地首店直接开在了新疆理工学院校内，而非繁华商圈。与此同时，河北科技学院焕新食堂里，蜜雪、瑞幸、益禾堂正以档口形式高密度集结，校内小吃街甚至罕见地出现了两家",
      "source": "虎嗅",
      "zh": "瑞幸门店日销800杯！大学校园，成为咖啡茶饮巨头最后的避风港？"
-    },
-    {
-     "title": "苹果智能家居中枢 HomeView 扬声器细节：桌面版低音表现优于壁挂版",
-     "link": "https://www.ithome.com/1/012/676.htm",
-     "pubDate": "Wed, 14 Oct 2026 01:55:01 GMT",
-     "summary": "IT之家 10 月 14 日消息，科技媒体 9to5Mac 昨日（10 月 13 日）发布博文，报道称苹果首款智能家居中枢 HomeView 的桌面版和壁挂版存在扬声器差异， 桌面版还额外配备向下发声低音单元和双力抵消被动辐射器，音效配置显著强于壁挂版。 根据苹果官网规格信息，桌面版和壁挂版 HomeView 均配备 2 个定制全频驱动单元，均支持空间音频，但桌面版额外搭载 1 个定制向下发声低音单元和 2 个双力抵消被动辐射器，可输出更深沉的低音和更清晰的高音。 IT之家注：向下发声低音单元是指朝设备底部或桌面方向发声的低音扬声器，可借助反射面增强低频扩散。而双力抵消被动辐射器不主动发声、但",
-     "source": "IT之家",
-     "zh": "苹果智能家居中枢 HomeView 扬声器细节：桌面版低音表现优于壁挂版"
-    },
-    {
-     "title": "何小鹏预热小鹏 MONA L05：一台有“少年感”的大五座 SUV",
-     "link": "https://www.ithome.com/1/012/675.htm",
-     "pubDate": "Wed, 14 Oct 2026 01:52:47 GMT",
-     "summary": "IT之家 10 月 14 日消息，今天上午，小鹏汽车官微宣布，将于 15 日（明天）预售的新车 MONA L05 展车已到店。 随后，官方还公布了新车的部分配置：前排座椅支持通风、加热、按摩，主驾座椅支持 AI 主动贴合、副驾拥有零重力座椅。新车还配有 17.3 英寸中控大屏、17.3 英寸护眼娱乐屏、26.8 英寸 W-HUD，搭配 20 扬声器 AI 音响。 小鹏汽车创始人何小鹏也在微博发文，进一步介绍 MONA 05。他表示，新车是一台有“少年感”的大五座 SUV。在保留大空间座舱的前提下，小鹏换了一种设计思路，体现当下年轻人所需的“精致”“越级”“智能”。 何小鹏透露，MONA L05",
-     "source": "IT之家",
-     "zh": "何小鹏预热小鹏 MONA L05：一台有“少年感”的大五座 SUV"
-    },
-    {
-     "title": "消息称具身智能独角兽公司智元启动新一轮融资，估值约 500 亿元",
-     "link": "https://www.ithome.com/1/012/674.htm",
-     "pubDate": "Wed, 14 Oct 2026 01:51:00 GMT",
-     "summary": "IT之家 10 月 14 日消息，据财经杂志 10 月 13 日报道，具身智能独角兽公司智元创新近期启动了新一轮融资， 融资额约 10 亿元 —15 亿元 ，本轮融资已接近收尾，最新估值约 500 亿元。 报道提到，根据港交所的相关要求，上市申请公司如果在递表后、上市前完成新融资，除非获得特殊豁免，上市申请公司需要等到融资完成后满 120 日，才可挂牌交易。投资人称， 新一轮融资意味着智元在今年内无法完成 IPO（首次公开募股） 。 智元是一家以具身智能为核心技术方向的通用 AI 机器人公司，于 2023 年成立。9 月 24 日， 智元第 2 万台具身智能机器人宣布下线 ，刷新全球量产纪录。",
-     "source": "IT之家",
-     "zh": "消息称具身智能独角兽公司智元启动新一轮融资，估值约 500 亿元"
     },
     {
      "title": "当二十年老牌行情软件遇上 AI：大智慧的智能化跃迁之路",
@@ -1882,28 +1922,20 @@ window.INDUSTRY_DATA = {
      "zh": "Justice Department says North Koreans have infiltrated dozens of U.S. companies"
     },
     {
-     "title": "全国持证的就70多个人，这门手艺凭啥这么值钱?",
-     "link": "https://www.huxiu.com/article/4897321.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 09:23:13 +0800",
-     "summary": "本文来自微信公众号： 识格 ，作者：识格 一个男生高考522分，本来想学运动康复，结果被调剂到了马业科学专业。再往后分流，他又挑了个更冷的方向：钉蹄。 说白了，就是给马修蹄子、钉马掌。 这哥们叫付华东，武汉商学院大四学生。今年6月，他考下了中国马业协会的钉蹄师证。 这个证，全国持证的一共70多个人。 他是里面最年轻的，也是唯一一个还在读本科的。 我特意去看了下前情，他当初填志愿的时候，压根没勾“服从调剂”，差点滑档到没学上。是学校招生办打了个电话，他才松的口。 也就是说，这一步他是被推过去的。 评论区大概两种声音。一拨说这孩子被调剂毁了，另一拨说，人家月薪保底五位数。 我先不站队。先看看一门听",
-     "source": "虎嗅",
-     "zh": "全国持证的就70多个人，这门手艺凭啥这么值钱?"
+     "title": "I built a tool to track what AI leaders say and how their views change on video",
+     "link": "https://blumify.io/people",
+     "pubDate": "Wed, 14 Oct 2026 01:09:13 +0000",
+     "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 10 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "I built a tool to track what AI leaders say and how their views change on video"
     },
     {
-     "title": "当AI已经开始造AI",
-     "link": "https://www.huxiu.com/article/4897320.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 09:14:41 +0800",
-     "summary": "本文来自微信公众号： 摩登中产 ，作者：摩登中产 引线已燃。 一 或许多年以后，我们才明白那条淹没在国庆长假的新闻，是真正的世界节点。 9月28日，22位AI大佬联手发了篇论文。 22人中，包含三位图灵奖得主，微软和OpenAI首席科学家，以及Claude母公司A社的联合创始人。 论文主题是RSI，AI自我进化，而一切的伏笔，指向大半个世纪前。 1940年，英国布莱切利庄园，天才云集于此，破解德军密码。天才中最耀眼的，是数学家图灵。 图灵痴迷计算，偏爱象棋，只是人菜瘾大，屡败屡战，后来找不到人下棋，便开发了个下棋程序。 然而，机器要破解密码，没空供他游戏，他便喊年轻人，用纸笔模拟算法，陪他下棋",
-     "source": "虎嗅",
-     "zh": "当AI已经开始造AI"
-    },
-    {
-     "title": "茶百道涉嫌IPO操纵，“可疑集团”浮出水面",
-     "link": "https://www.huxiu.com/article/4897319.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 09:10:45 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：沈娇娇 香港证监会称，已对两个集团采取行动，因它们涉嫌参与欺诈计划，意图就首次公开招股的股份需求营造虚假或非真实的表象。证监会亦已指示香港联合交易所，自昨天上午9时，暂停茶百道（02555.HK）的股份买卖。茶百道公司向财联社记者表示，暂时无法回应此事。 香港证监会还表示，上述欺诈计划旨在为首次公开招股的股份需求营造虚假或非真实的表象，证监会高度关注，茶百道的首次公开招股可能曾被人为操纵。在调查继续进行期间，暂停该股交易，对维持茶百道有秩序和公平的市场、维护投资大众利益属必要或合宜。 这场调查涉及一个由孙然及八家相关公司（包括Avant Team Limi",
-     "source": "虎嗅",
-     "zh": "茶百道涉嫌IPO操纵，“可疑集团”浮出水面"
+     "title": "High-speed video reveals how honey bee stingers pump venom",
+     "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+     "pubDate": "Wed, 14 Oct 2026 01:05:23 +0000",
+     "summary": "Article URL: https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/ Comments URL: https://news.ycombinator.com/item?id=50081133 Points: 13 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "High-speed video reveals how honey bee stingers pump venom"
     },
     {
      "title": "星巴克，重新学做中国生意",
@@ -1962,14 +1994,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees (The Information)"
     },
     {
-     "title": "【钛晨报】“求索”4.0上线！国内首个人工智能全产业链评测基准发布；重庆市委原副书记、市政府原市长黄奇帆被查；DeepSeek据称将完成1000亿元融资",
-     "link": "https://www.tmtpost.com/8167674.html",
-     "pubDate": "Wed, 14 Oct 2026 07:20:00 +0800",
-     "summary": "字节跳动Seed单设安全与对齐部门，严林负责向吴永辉汇报；尊界V800公布制动踏板第三方检测结果；智元启动新融资，估值500亿元，IPO暂缓；马斯克披露Terafab芯片工厂规划：每年制造和测试10款芯片；苹果推出智能家居中枢HomeView，售价299美元；中证协明确券商跨境风险数据管理要求，个人信息出境须评估影响；外资持续撤出韩股，分析师警告：这比半导体基本面更令人担忧",
-     "source": "钛媒体",
-     "zh": "【钛晨报】“求索”4.0上线！国内首个人工智能全产业链评测基准发布；重庆市委原副书记、市政府原市长黄奇帆被查；DeepSeek据称将完成1000亿元融资"
-    },
-    {
      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
      "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
      "pubDate": "Tue, 13 Oct 2026 23:17:59 +0000",
@@ -2000,30 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reuters : Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B &nbsp; &mdash;&nbsp; Tencent Holdings (0700.HK) has raised about $5.7 billion through US dollar and offshore yuan debt offerings on ",
      "source": "Techmeme",
      "zh": "Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B (Reuters)"
-    },
-    {
-     "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
-     "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
-     "pubDate": "Tue, 13 Oct 2026 22:48:12 +0000",
-     "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
-     "source": "Ars Technica",
-     "zh": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says"
-    },
-    {
-     "title": "Recreational Programming",
-     "link": "https://www.cphiri.dev/presentations/recreational-programming",
-     "pubDate": "Tue, 13 Oct 2026 22:33:33 +0000",
-     "summary": "Article URL: https://www.cphiri.dev/presentations/recreational-programming Comments URL: https://news.ycombinator.com/item?id=50079865 Points: 61 # Comments: 17",
-     "source": "Hacker News",
-     "zh": "Recreational Programming"
-    },
-    {
-     "title": "Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie",
-     "link": "https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/",
-     "pubDate": "Tue, 13 Oct 2026 22:08:44 +0000",
-     "summary": "The deeply uncomfortable film forces audiences to confront what types of stories we tell ourselves about who has economic and political power.",
-     "source": "WIRED",
-     "zh": "Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie"
     }
    ]
   },
@@ -2033,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Poco X8s receives another certification ahead of its launch",
+     "link": "https://www.gsmarena.com/poco_x8s_receives_another_certification_ahead_of_its_launch-news-75029.php",
+     "pubDate": "Wed, 14 Oct 2026 04:16:02 +0200",
+     "summary": "Poco has already launched four phones in its X8 family this year: the X8 Pro and X8 Pro Max in March, then the vanilla X8 and the X8 Power in early September. A fifth one is reportedly coming, and today it moved a step closer to launch. A phone with the model number 2609CPC5FG has been approved by S",
+     "source": "GSMArena",
+     "zh": "Poco X8s receives another certification ahead of its launch"
+    },
     {
      "title": "The Instax Square 2 gives instant film shooters a switch to change the mood",
      "link": "https://www.dpreview.com/news/the-instax-square-2-gives-instant-film-shooters-a-switch-to-change-the-mood/",
@@ -2264,14 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple’s long-rumored smart home display is finally here and it begs the question – why hasn’t Google released a new Nest Hub in half a decade? more…",
      "source": "9to5Google",
      "zh": "Hey Google, where is the next Nest Hub?"
-    },
-    {
-     "title": "Samsung survey reveals how Europeans pick their smartphones",
-     "link": "https://www.gsmarena.com/samsung_survey_reveals_how_europeans_pick_their_smartphones-news-75030.php",
-     "pubDate": "Tue, 13 Oct 2026 22:01:02 +0200",
-     "summary": "Samsung has just published the results of a survey on how Europeans choose which smartphone to buy. It covered 5,001 consumers aged 18 and over in France, Germany, Italy, Spain, and the UK. According to the findings, people pick a phone based on what they do today, but also on what they'd like to be",
-     "source": "GSMArena",
-     "zh": "Samsung survey reveals how Europeans pick their smartphones"
     }
    ]
   },
@@ -2281,6 +2281,118 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "重庆新增2个市级历史文化名村：巴南荷花村、武隆天生村",
+     "link": "http://www.eeo.com.cn/2026/1014/1063526.shtml",
+     "pubDate": "Wed, 14 Oct 2026 10:26:12 +0800",
+     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/3CC0F803A7FCFF703E8EE3147779E53C.png\" alt=\"荷花村梯田风光。重庆市规划和自然资源局供图\" data-title=\"荷花村梯田风光。重庆市规划和自然资源局供图\" data-target=\"2110177563240005634\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/REPRINT/MEDIA/PICTURE/2026/10/14/ee9705b",
+     "source": "经济观察网",
+     "zh": "重庆新增2个市级历史文化名村：巴南荷花村、武隆天生村"
+    },
+    {
+     "title": "出行注意！重庆北站调整网约车上车点",
+     "link": "http://www.eeo.com.cn/2026/1014/1063525.shtml",
+     "pubDate": "Wed, 14 Oct 2026 10:26:12 +0800",
+     "summary": "第1眼TV-华龙网讯（首席记者 刘艳）10月14日，重庆交通执法总队发布消息，为提升旅客出行体验与网约车通行效率，14日凌晨2时起，重庆北站北广场网约车启用新运行模式试运行。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/65BFE0FBB69BC17BBC5C6BC3D5B86DA8.jpg\" alt=\"重庆北站北广场网约车候车点。第1眼TV-华龙网记者 陈洋 摄\" data-title=\"重庆北站北广场网约车候车点。第1眼TV-华龙网记...",
+     "source": "经济观察网",
+     "zh": "出行注意！重庆北站调整网约车上车点"
+    },
+    {
+     "title": "德才股份10月14日盘中涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895201946.html",
+     "pubDate": "Wed, 14 Oct 2026 10:25:28 +0800",
+     "summary": "以下是 德才股份 在北京时间10月14日10:25分盘口异动快照： 10月14日10点25分， 德才股份 盘中涨停，报50.38元，目前封单10907手，折合5495.39万元。截至目前，成交10.40亿元，换手率16.02%。 分笔 10:25:21 50.38 7451↑ 10:25:18 49.36 30↑ 10:25:15 49.33 97↑ 10:25:12 49.28 33↑ 10:25:09 49.24 98↑ 10:25:06 49.20 86↑ 10:25:03 49.10 956↑ 10:25:00 49.00 120↑ 10:24:57 48.98 31↑ 10:24:5",
+     "source": "东方财富股票",
+     "zh": "德才股份10月14日盘中涨停"
+    },
+    {
+     "title": "博纳影业10月14日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895201889.html",
+     "pubDate": "Wed, 14 Oct 2026 10:25:28 +0800",
+     "summary": "以下是 博纳影业 在北京时间10月14日10:25分盘口异动快照： 10月14日， 博纳影业 盘中快速上涨，5分钟内涨幅超过2%，截至10点25分，报7.57元，成交9.62亿元，换手率11.48%。 分笔 10:25:21 7.57 979↓ 10:25:18 7.56 1619↓ 10:25:15 7.56 1071↓ 10:25:12 7.56 1113↑ 10:25:09 7.55 356↓ 10:25:06 7.55 1631↑ 10:25:03 7.55 2036↑ 10:25:00 7.55 1732↑ 10:24:57 7.54 1507↑ 10:24:54 7.54 701↑",
+     "source": "东方财富股票",
+     "zh": "博纳影业10月14日快速上涨"
+    },
+    {
+     "title": "10月14日视频媒体板块涨幅达3%",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895201524.html",
+     "pubDate": "Wed, 14 Oct 2026 10:24:55 +0800",
+     "summary": "&emsp;&emsp;10月14日10点24分， 视频媒体 板块指数报1195.027点，涨幅达3%，成交14.11亿元，换手率5.87%。 &emsp;&emsp;板块个股中，涨幅最大的前1个股为： 芒果超媒 报24.74元，涨3.08%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月14日视频媒体板块涨幅达3%"
+    },
+    {
+     "title": "10月14日文字媒体板块涨幅达8%",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895201329.html",
+     "pubDate": "Wed, 14 Oct 2026 10:24:48 +0800",
+     "summary": "&emsp;&emsp;10月14日10点24分， 文字媒体 板块指数报3220.242点，涨幅达8%，成交40.99亿元，换手率13.64%。 &emsp;&emsp;板块个股中，涨幅最大的前2个股为： 掌阅科技 报29.92元，涨10.00%； 中文在线 报27.25元，涨6.07%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月14日文字媒体板块涨幅达8%"
+    },
+    {
+     "title": "国际货币基金组织官员：各国改善税收管理和提高征收效率的举措有助于促进经济增长",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895202138.html",
+     "pubDate": "Wed, 14 Oct 2026 10:24:43 +0800",
+     "summary": "国际货币基金组织官员：各国改善税收管理和提高征收效率的举措有助于促进经济增长。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "国际货币基金组织官员：各国改善税收管理和提高征收效率的举措有助于促进经济增长"
+    },
+    {
+     "title": "文投控股10月14日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895201144.html",
+     "pubDate": "Wed, 14 Oct 2026 10:24:38 +0800",
+     "summary": "以下是 文投控股 在北京时间10月14日10:24分盘口异动快照： 10月14日， 文投控股 盘中快速上涨，5分钟内涨幅超过2%，截至10点24分，报1.82元，成交9791.49万元，换手率1.93%。 分笔 10:24:33 1.82 29865↑ 10:24:27 1.80 112↑ 10:24:24 1.80 118↑ 10:24:21 1.79 85↓ 10:24:18 1.80 115↑ 10:24:15 1.80 1036↑ 10:24:12 1.79 12↓ 10:24:06 1.79 155↓ 10:24:03 1.79 600↓ 10:24:00 1.80 6↑ 报价 卖五",
+     "source": "东方财富股票",
+     "zh": "文投控股10月14日快速上涨"
+    },
+    {
+     "title": "Saudi Aramco HQ attacked in suspected Houthi strike",
+     "link": "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1",
+     "pubDate": "Wed, 14 Oct 2026 02:20:48 GMT",
+     "summary": "Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital",
+     "source": "Financial Times",
+     "zh": "Saudi Aramco HQ attacked in suspected Houthi strike"
+    },
+    {
+     "title": "A股开盘：超3400只个股飘绿，三大指数集体低开；贵金属、通信设备、半导体下跌；石化、油气上涨",
+     "link": "http://www.eeo.com.cn/2026/1014/1063505.shtml",
+     "pubDate": "Wed, 14 Oct 2026 10:13:23 +0800",
+     "summary": "中新经纬10月14日电 14日，A股三大指数集体低开。Wind数据显示，沪指跌0.27%，深证成指跌0.36%，创业板指跌0.52%。超3400只个股下跌。 板块方面，文化传媒、电脑硬件、贵金属、生物科技、通信设备、半导体等下跌。石化、油气等上涨。(中新经纬APP) 编辑：李晓萱 责编：薛宇飞",
+     "source": "经济观察网",
+     "zh": "A股开盘：超3400只个股飘绿，三大指数集体低开；贵金属、通信设备、半导体下跌；石化、油气上涨"
+    },
+    {
+     "title": "Meta的“Wonder”时刻 扎克伯格追上来了吗？",
+     "link": "http://www.eeo.com.cn/2026/1014/1063504.shtml",
+     "pubDate": "Wed, 14 Oct 2026 10:13:20 +0800",
+     "summary": "10月12日，Meta CEO马克·扎克伯格在社交媒体上晒出了一张西瓜的照片，配文“Muse给我订了个西瓜，真贴心”。几个小时之后，Meta正式发布了Muse Wonder，内部代号正是“Watermelon”（西瓜）。 这是Llama 4失利之后，Meta第一次拿出自称达到“前沿水平”的旗舰模型。扎克伯格在接受采访时说：“Meta已经在人工智能的前沿领域追上竞争对手。” 当天美股收盘，Meta涨3.38%，报742.96美元/股；从9月初其个人AI智能体Mu...",
+     "source": "经济观察网",
+     "zh": "Meta的“Wonder”时刻 扎克伯格追上来了吗？"
+    },
+    {
+     "title": "中国9月CPI同比涨0.9%，黄金饰品价格涨22.5%，数据存储设备价格涨46.7%",
+     "link": "http://www.eeo.com.cn/2026/1014/1063503.shtml",
+     "pubDate": "Wed, 14 Oct 2026 10:13:19 +0800",
+     "summary": "中新经纬10月14日电 据国家统计局网站14日消息，2026年9月份，全国居民消费价格同比上涨0.9%。其中，城市上涨0.9%，农村上涨0.8%；食品价格下降1.7%，非食品价格上涨1.5%；消费品价格上涨1.0%，服务价格上涨0.8%。1­­—9月平均，全国居民消费价格比上年同期上涨0.9%。 9月份，全国居民消费价格环比上涨0.2%。其中，城市上涨0.2%，农村上涨0.4%；食品价格上涨0.4%，非食品价格上涨0.2%；消费品价格上涨0.5%，服务价格下...",
+     "source": "经济观察网",
+     "zh": "中国9月CPI同比涨0.9%，黄金饰品价格涨22.5%，数据存储设备价格涨46.7%"
+    },
+    {
+     "title": "苹果押注将Siri带入智能家居，挑战亚马逊和谷歌",
+     "link": "http://www.eeo.com.cn/2026/1014/1063502.shtml",
+     "pubDate": "Wed, 14 Oct 2026 10:13:16 +0800",
+     "summary": "中新经纬10月14日电 据路透社报道，苹果当地时间周二推出了一系列智能产品，包括一款名为HomeView的类iPad设备，押注其AI升级的Siri虚拟助理能帮助其在竞争激烈的联网家庭市场中占据更大份额。 HomeView设备起价为299美元，下个月开始发货，是苹果最新进入竞争激烈的联网家庭设备市场的产品。它将配备7英寸屏幕和面部识别功能，帮助用户控制门铃、恒温器和智能锁，而苹果十年来一直在尝试，但未能取得重大成功。 报...",
+     "source": "经济观察网",
+     "zh": "苹果押注将Siri带入智能家居，挑战亚马逊和谷歌"
+    },
+    {
+     "title": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+     "link": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
+     "pubDate": "Wed, 14 Oct 2026 02:09:00 GMT",
+     "summary": "U.S. President Donald Trump said Tuesday that Taiwan had agreed to buy 30% of the gas from a pipeline project in Alaska.",
+     "source": "CNBC",
+     "zh": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says"
+    },
     {
      "title": "Producer prices in China rise at fastest pace since June 2022, beating expectations",
      "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
@@ -2314,60 +2426,28 @@ window.INDUSTRY_DATA = {
      "zh": "South Korean carmaker Hyundai plans &apos;strategic&apos; investment of $15.5 billion in India by 2032"
     },
     {
-     "title": "尚智大模型｜山东人工智能垂域大模型之智睿尚新",
-     "link": "http://www.eeo.com.cn/2026/1014/1063462.shtml",
-     "pubDate": "Wed, 14 Oct 2026 10:00:20 +0800",
-     "summary": "尚智大模型构建了冶金垂类与经营管理双赛道体系，打通了用大模型与冶金细分场景的适配通道，形成了覆盖生产、质量、设备、安全、经营全链条的智能能力。",
-     "source": "经济观察网",
-     "zh": "尚智大模型｜山东人工智能垂域大模型之智睿尚新"
+     "title": "9月份我国货物贸易进出口首破5万亿元 增长27.5%",
+     "link": "http://finance.eastmoney.com/news/1345,202610143895166015.html",
+     "pubDate": "Wed, 14 Oct 2026 10:00:40 +0800",
+     "summary": "今年以来，我国经济保持总体平稳、向新向优发展态势，外贸高质量发展和贸易强国建设持续推进，进出口快速增长、量质齐升。 据海关统计，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中，出口23.2万亿元，增长16.4%，进口16.74万亿元，增长22.3%。月度增速连续6个月保持两位数增长，9月份进出口5.16万亿元，首次突破了5万亿元，增长27.5%。其中，出口3.03万亿元，增长29.6%；进口2.13万亿元，增长24.6%。 （文章来源：央视新闻客户端）",
+     "source": "东方财富资讯",
+     "zh": "9月份我国货物贸易进出口首破5万亿元 增长27.5%"
     },
     {
-     "title": "光华科技10月14日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895156945.html",
-     "pubDate": "Wed, 14 Oct 2026 09:58:26 +0800",
-     "summary": "以下是 光华科技 在北京时间10月14日09:58分盘口异动快照： 10月14日， 光华科技 盘中快速上涨，5分钟内涨幅超过2%，截至9点58分，报22.2元，成交1.68亿元，换手率1.79%。 分笔 09:58:09 22.20 55↑ 09:58:06 22.16 420↓ 09:58:03 22.19 689↑ 09:58:00 22.08 252↓ 09:57:57 22.08 34↓ 09:57:54 22.09 66↓ 09:57:51 22.10 60↑ 09:57:48 22.08 23↓ 09:57:45 22.08 25↓ 09:57:42 22.10 56↓ 报价 卖五",
-     "source": "东方财富股票",
-     "zh": "光华科技10月14日快速上涨"
+     "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
+     "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+     "pubDate": "Wed, 14 Oct 2026 01:59:24 GMT",
+     "summary": "AI lab discovered a recording device concealed behind a television in a conference room",
+     "source": "Financial Times",
+     "zh": "US arrests Saudi employee of OpenAI for allegedly bugging its offices"
     },
     {
-     "title": "宇顺电子10月14日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895156813.html",
-     "pubDate": "Wed, 14 Oct 2026 09:58:12 +0800",
-     "summary": "以下是 宇顺电子 在北京时间10月14日09:58分盘口异动快照： 10月14日， 宇顺电子 盘中涨幅达5%，截至9点58分，报33.15元，成交6381.91万元，换手率0.71%。 分笔 09:58:09 33.15 80↑ 09:58:06 33.11 89↑ 09:58:03 33.09 30↑ 09:57:57 33.10 6↑ 09:57:54 33.09 97↓ 09:57:51 33.10 37↑ 09:57:48 33.10 1557↑ 09:57:45 32.95 6↓ 09:57:42 32.97 1↑ 09:57:39 32.95 3↓ 报价 卖五 33.19 11 卖",
-     "source": "东方财富股票",
-     "zh": "宇顺电子10月14日盘中涨幅达5%"
-    },
-    {
-     "title": "大业股份10月14日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895156714.html",
-     "pubDate": "Wed, 14 Oct 2026 09:58:12 +0800",
-     "summary": "以下是 大业股份 在北京时间10月14日09:58分盘口异动快照： 10月14日， 大业股份 盘中快速反弹，5分钟内涨幅超过2%，截至9点58分，报9.94元，成交6060.17万元，换手率1.83%。 分笔 09:58:04 9.94 213↑ 09:58:01 9.94 230↓ 09:57:58 9.94 227↑ 09:57:55 9.94 801↑ 09:57:52 9.87 138↓ 09:57:49 9.89 295↑ 09:57:46 9.88 314↑ 09:57:43 9.87 284↑ 09:57:40 9.86 196↑ 09:57:37 9.84 66↑ 报价 卖五 ",
-     "source": "东方财富股票",
-     "zh": "大业股份10月14日快速反弹"
-    },
-    {
-     "title": "金力泰10月14日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895156614.html",
-     "pubDate": "Wed, 14 Oct 2026 09:58:12 +0800",
-     "summary": "以下是 金力泰 在北京时间10月14日09:58分盘口异动快照： 10月14日， 金力泰 盘中快速上涨，5分钟内涨幅超过2%，截至9点58分，报8.86元，成交7094.24万元，换手率1.74%。 分笔 09:58:03 8.86 2491↑ 09:58:00 8.84 362↓ 09:57:57 8.84 398↓ 09:57:54 8.84 85↓ 09:57:51 8.84 664↑ 09:57:48 8.82 132↓ 09:57:45 8.83 79↓ 09:57:42 8.84 15↑ 09:57:39 8.83 144↑ 09:57:36 8.83 73↓ 报价 卖五 8.9 ",
-     "source": "东方财富股票",
-     "zh": "金力泰10月14日快速上涨"
-    },
-    {
-     "title": "强达电路10月14日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895156534.html",
-     "pubDate": "Wed, 14 Oct 2026 09:58:12 +0800",
-     "summary": "以下是 强达电路 在北京时间10月14日09:58分盘口异动快照： 10月14日， 强达电路 盘中快速上涨，5分钟内涨幅超过2%，截至9点58分，报102.35元，成交1.05亿元，换手率3.61%。 分笔 09:58:03 102.35 7↑ 09:58:00 102.28 21↑ 09:57:57 102.19 7↑ 09:57:54 102.13 5↑ 09:57:51 102.12 2↓ 09:57:45 102.04 1↓ 09:57:42 102.04 7↑ 09:57:39 102.01 3↓ 09:57:36 102.17 23↑ 09:57:33 102.03 11↓ 报价 ",
-     "source": "东方财富股票",
-     "zh": "强达电路10月14日快速上涨"
-    },
-    {
-     "title": "快意电梯10月14日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895156424.html",
-     "pubDate": "Wed, 14 Oct 2026 09:58:12 +0800",
-     "summary": "以下是 快意电梯 在北京时间10月14日09:58分盘口异动快照： 10月14日， 快意电梯 盘中快速反弹，5分钟内涨幅超过2%，截至9点58分，报18.15元，成交7156.96万元，换手率1.41%。 分笔 09:58:03 18.15 573↑ 09:58:00 17.97 27↓ 09:57:57 17.99 19↑ 09:57:48 17.98 23↑ 09:57:45 17.95 6↓ 09:57:42 18.01 66↓ 09:57:39 18.03 18↓ 09:57:36 18.10 124↑ 09:57:30 18.10 336↑ 09:57:27 18.07 2↓ 报价 ",
-     "source": "东方财富股票",
-     "zh": "快意电梯10月14日快速反弹"
+     "title": "美联储官员接连强化“鹰派立场”：抗通胀之战未完 年内应需再加息！",
+     "link": "http://stock.eastmoney.com/news/11722,202610143895168017.html",
+     "pubDate": "Wed, 14 Oct 2026 09:56:19 +0800",
+     "summary": "美东时间周二，两位美联储官员放出“鹰声”称，对抗通胀的战斗尚未结束，年内或需进一步加息。 波士顿联储主席柯林斯（Susan Collins）当天表示，她赞成今年再次提高利率以应对通货膨胀。 她在波士顿的一次演讲中表示：“我目前预计，在年底前小幅加息是合适的，以确保通胀率及时、持久地回归委员会2%的目标。然而，我对是否需要采取进一步政策行动以及何时采取适当行动的看法，将很大程度上取决于所有新近公布的数据如何影响我的预期以及相关的风险平衡。” 柯林斯指出，剔除波动较大的食品和能源价格后，以个人消费支出指数（PCE）衡量的三个月年化通胀率仅为2%。但她预计，鉴于近期精炼能源产品（如航空煤油、柴油以及",
+     "source": "东方财富资讯",
+     "zh": "美联储官员接连强化“鹰派立场”：抗通胀之战未完 年内应需再加息！"
     },
     {
      "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
@@ -2384,46 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "高盛策略师Tony Pasquariello于10月12日周一发布报告，力证美股市场广度“没有外界描述的那么糟糕”。 但这份报告在为多头辩护的同时，两度援引互联网泡沫作类比。其一，报告提及标普500中位股距52周高点下跌15%，为互联网泡沫以来最差读数；其二，2027年美股潜在净股票供给规模或创2000年互联网时期以来最高。 报告发布当天，纳斯达克期货下跌，美债收益率走低，报告中推荐的两个核心方向——做空固定收益、做多纳指，在开盘前双双走反。 与此同时，隔夜美股费城半导体指数一度跌逾2%，较6月创下的历史高点已回落近18%。道指跌0.35%，纳指跌0.15%。 “没那么糟”，但中位股创下200",
      "source": "华尔街见闻",
      "zh": "科技股暴跌之际，高盛出了一份美股看多报告，但读完后人们更担心了……"
-    },
-    {
-     "title": "央行开展560亿元7天期逆回购操作",
-     "link": "http://www.eeo.com.cn/2026/1014/1063448.shtml",
-     "pubDate": "Wed, 14 Oct 2026 09:52:11 +0800",
-     "summary": "央行网站截图 【央行开展560亿元7天期逆回购操作】央行公告，2026年10月14日中国人民银行以固定利率、数量招标方式开展了560亿元7天期逆回购操作，操作利率1.40%，全额满足了一级交易商需求。（中新经纬APP）",
-     "source": "经济观察网",
-     "zh": "央行开展560亿元7天期逆回购操作"
-    },
-    {
-     "title": "美国银行因反洗钱违规被罚超12亿美元",
-     "link": "http://www.eeo.com.cn/2026/1014/1063447.shtml",
-     "pubDate": "Wed, 14 Oct 2026 09:52:09 +0800",
-     "summary": "中新经纬10月14日电 据美国消费者新闻与商业频道(CNBC) 报道，当地时间周二，因反洗钱违规，美国第二大银行美国银行收到逾12亿美元联邦罚单。监管机构指出，该行多年来未上报超过50亿美元可疑交易，且未能整改长期存在的反洗钱漏洞。 消息公布后，美国银行盘后股价下跌约2%。 负责执行反洗钱法规的美国财政部金融犯罪执法网络(FinCEN)表示，这笔12亿美元罚款是美国财政部史上第三大处罚金额。美国财政部还另行宣布...",
-     "source": "经济观察网",
-     "zh": "美国银行因反洗钱违规被罚超12亿美元"
-    },
-    {
-     "title": "两市融资余额减少90.66亿元",
-     "link": "http://www.eeo.com.cn/2026/1014/1063446.shtml",
-     "pubDate": "Wed, 14 Oct 2026 09:52:06 +0800",
-     "summary": "【两市融资余额减少90.66亿元】截至10月13日，上交所融资余额报12860.65亿元，较前一交易日减少31.02亿元；深交所融资余额报12220.58亿元，较前一交易日减少59.64亿元；两市合计25081.23亿元，较前一交易日减少90.66亿元。（中新经纬APP）",
-     "source": "经济观察网",
-     "zh": "两市融资余额减少90.66亿元"
-    },
-    {
-     "title": "主旋律影视创作从“取景”走向“入景”",
-     "link": "http://www.eeo.com.cn/2026/1014/1063430.shtml",
-     "pubDate": "Wed, 14 Oct 2026 09:39:12 +0800",
-     "summary": "作者：陈金慧（浙大城市学院马克思主义学院副教授） 近年来，主旋律影视创作在空间质感打磨上愈发用心。曾经那种棚内搭景的“舞台感”，正被扎进实景的“真实感”“在地感”取代。剧组进深山、进戈壁、进老城，一砖一瓦地复原，一沟一坎地还原，打造出有呼吸、有脉搏的历史现场。这一转变，表面看是拍摄地点从棚内移到了实地，更深层的差别在于“取景”与“入景”。前者将空间视为拍摄场地，后者将空间视为自带历史温度、...",
-     "source": "经济观察网",
-     "zh": "主旋律影视创作从“取景”走向“入景”"
-    },
-    {
-     "title": "好评中国·经”彩开局丨向改革要活力，为发展新质生产力蓄势",
-     "link": "http://www.eeo.com.cn/2026/1014/1063429.shtml",
-     "pubDate": "Wed, 14 Oct 2026 09:39:12 +0800",
-     "summary": "发展新质生产力是推动高质量发展的内在要求和重要着力点。日前，中共中央、国务院印发《关于发展新质生产力的意见》（以下简称《意见》），将...",
-     "source": "经济观察网",
-     "zh": "好评中国·经”彩开局丨向改革要活力，为发展新质生产力蓄势"
     },
     {
      "title": "填补空白！国内首创脑机接口康复系统 产业落地有望提速(附股)",
@@ -2474,52 +2514,12 @@ window.INDUSTRY_DATA = {
      "zh": "突发！全球超级龙头遭袭！"
     },
     {
-     "title": "China&apos;s exports likely grew by double-digits in September",
-     "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
-     "pubDate": "Wed, 14 Oct 2026 01:16:02 GMT",
-     "summary": "The country's customs agency is due to release September trade data on Wednesday.",
-     "source": "CNBC",
-     "zh": "China&apos;s exports likely grew by double-digits in September"
-    },
-    {
-     "title": "OpenAI上演“窃听风云”：一沙特籍员工在会议室藏匿录音设备被捕",
-     "link": "http://stock.eastmoney.com/news/1416,202610143895010454.html",
-     "pubDate": "Wed, 14 Oct 2026 09:15:59 +0800",
-     "summary": "在OpenAI担任工程师的沙特籍男子Abdulrahman Alfozan，因涉嫌在该公司旧 金山办公 室内藏匿一台加密录音设备而被捕，并受到刑事指控。事发后，OpenAI已解雇Alfozan。 美国联邦检察官周二指控称，今年9月下旬，这名35岁的男子将一个黑色小型录音设备藏在卫生纸里，随后将其隐藏在OpenAI一间会议室的电视机后方。 OpenAI发现这台设备后向联邦调查局(FBI)报了案。Alfozan于上周被捕。 检察官称， Alfozan在OpenAI产品团队工作一年多，目前被控使用或试图使用设备截取口头 通信 内容。 OpenAI表示，公司掌握的证据显示，该员工意图在办公室内其他敏感",
-     "source": "东方财富资讯",
-     "zh": "OpenAI上演“窃听风云”：一沙特籍员工在会议室藏匿录音设备被捕"
-    },
-    {
-     "title": "沙特阿美总部遭袭！特朗普指责胡塞武装：中期选举前蓄意推高油价",
-     "link": "http://finance.eastmoney.com/news/1356,202610143894907527.html",
-     "pubDate": "Wed, 14 Oct 2026 09:01:43 +0800",
-     "summary": "美国总统特朗普周二指责也门胡塞武装蓄意在美国中期选举前推高油价，并警告称，自己“永远不会忘记”他们对沙特阿拉伯的袭击。在他发表此番言论之际，中东冲突正愈演愈烈，继利雅得国际 机场 接连遭袭后，周二沙特阿美总部也受到袭击。 综合 央视新闻等媒体报道，美国总统特朗普当地时间13日在社交媒体发文，指责也门胡塞武装在美国中期选举前蓄意推高油价。 特朗普称， 胡塞武装以“非常恶劣”的手段打击沙特阿拉伯，并很可能蓄意在美国中期选举前推高油价 。 特朗普表示，胡塞武装在去年美国空袭后曾沉寂了一段时间，但最近又在伊朗的授意下恢复了袭击。特朗普还明确表示，他的这番警告不会随着 11 月 3 日中期选举结束而失效",
-     "source": "东方财富资讯",
-     "zh": "沙特阿美总部遭袭！特朗普指责胡塞武装：中期选举前蓄意推高油价"
-    },
-    {
      "title": "报道：Anthropic今天将公布Q3财务数据",
      "link": "https://wallstreetcn.com/articles/3783580",
      "pubDate": "Wed, 14 Oct 2026 08:55:33 +0800",
      "summary": "Anthropic将于本周三向机构投资者披露第三季度财务数据，此举标志着这家AI巨头正式迈出史上最大规模IPO的关键一步。 周三，据CNBC援引两位知情人士消息， Anthropic将在旧金山总部召集一批潜在机构投资者，首次公开其第三季度营收数字。 此次披露将帮助公司高管和承销银行评估投资者兴趣，并检验市场对其最新财务数据的反应。 这一时机颇为敏感。就在上周，OpenAI向现有投资者披露的最新年化营收为500亿美元，低于此前市场广泛流传的700亿美元，引发混乱，拖累半导体股票及纳斯达克指数整体下挫。与此同时，博通CEO Hock Tan本周一在一场会议上表示， 随着利率攀升，资本获取能力可能成",
      "source": "华尔街见闻",
      "zh": "报道：Anthropic今天将公布Q3财务数据"
-    },
-    {
-     "title": "六成股票已跌入熊市，科技七巨头独撑标普！BTIG：美股距倒下也许只差“轻轻一推”",
-     "link": "https://wallstreetcn.com/articles/3783578",
-     "pubDate": "Wed, 14 Oct 2026 08:55:27 +0800",
-     "summary": "标普500指数距历史高点仅一步之遥，但这一平静表象之下，市场内部已严重分化。当前支撑指数的，几乎只剩下\"科技七巨头\"这一个支柱——而这恰恰也是市场最大的风险所在。 技术分析机构BTIG的Jonathan Krinsky在最新报告《最后的守门人》（Last Man Standing）中警告，科技七巨头是标普500中唯一尚未出现明显疲态的板块，也是当前市场持仓最为拥挤的板块。他指出， 一旦这一趋势开始逆转，将很可能成为标普500最终出现持续性下跌的导火索。 与此同时，摩根大通资产管理的Michael Cembalest数据显示，标普500中已有60%的成分股较各自历史高点下跌逾20%，陷入技术性熊",
-     "source": "华尔街见闻",
-     "zh": "六成股票已跌入熊市，科技七巨头独撑标普！BTIG：美股距倒下也许只差“轻轻一推”"
-    },
-    {
-     "title": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空",
-     "link": "https://wallstreetcn.com/articles/3783579",
-     "pubDate": "Wed, 14 Oct 2026 08:48:52 +0800",
-     "summary": "Tudor Investment创始人、对冲基金传奇人物Paul Tudor Jones周二在CNBC《Squawk Box》节目中发出罕见的全面看空美股信号。 他警告： “2027年对股市来说将会非常、非常艰难。” 当前美股的供需格局是“自2002年以来最糟糕的”，类似于1999年科网股泡沫破裂前夕，并宣布自己明年将全年做空美股。 与此同时，他看多原油，预计油价还有20至25美元的上涨空间。他警告，一旦油价大涨，股市将“极度厌恶”这一局面。 类比2002年：IPO供给潮将压垮牛市 Jones认为，当前市场状况类似于1999年，也就是2000年互联网泡沫破裂前一年左右。 他表示，过去四年牛市的",
-     "source": "华尔街见闻",
-     "zh": "传奇投资者Paul Tudor Jones：当前美股类似2000年科网泡沫破灭前夕，我明年将全年做空"
     }
    ]
   },
@@ -2584,14 +2584,6 @@ window.INDUSTRY_DATA = {
      "summary": "Theories that aquatic foraging drove human evolution have a fraught past. But the pair argue it granted stamina that other primates lack.",
      "source": "Science News",
      "zh": "A duo goes against the tide to explain an origin of human endurance"
-    },
-    {
-     "title": "High-speed video reveals how honey bee stingers pump venom",
-     "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
-     "pubDate": "Tue, 13 Oct 2026 13:03:45 +0000",
-     "summary": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
-     "source": "Ars Technica Science",
-     "zh": "High-speed video reveals how honey bee stingers pump venom"
     },
     {
      "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
@@ -2768,6 +2760,14 @@ window.INDUSTRY_DATA = {
      "summary": "MIT researchers built a cloud-based platform to help Massachusetts coastal towns and the state manage shellfishing closures, giving thousands of permit holders a clearer view of where they can fish.",
      "source": "MIT News",
      "zh": "Turning the tide on Massachusetts shellfishing data"
+    },
+    {
+     "title": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
+     "link": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+     "pubDate": "Wed, 07 Oct 2026 15:08:46 +0000",
+     "summary": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result. The post As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines first appeared on Quanta Magazine",
+     "source": "Quanta Magazine",
+     "zh": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines"
     }
    ]
   }

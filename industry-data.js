@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/14 13:11:58",
+ "generated_at": "2026/10/14 13:34:57",
  "recent_days": 7,
  "industries": [
   {
@@ -146,6 +146,14 @@ window.INDUSTRY_DATA = {
      "zh": "Gemini 4 Argon: Built to solve your hardest problems"
     },
     {
+     "title": "The Roadmap to Mastering Agentic AI Systems in 2026",
+     "link": "https://www.kdnuggets.com/the-roadmap-to-mastering-agentic-ai-systems-in-2026",
+     "pubDate": "Tue, 13 Oct 2026 14:00:00 +0000",
+     "summary": "A four-level technical roadmap for building agentic AI systems, from single cognitive loops and stateful memory through multi-agent swarms and production observability.",
+     "source": "KDnuggets",
+     "zh": "The Roadmap to Mastering Agentic AI Systems in 2026"
+    },
+    {
      "title": "突发，明星AI独角兽宣布破产",
      "link": "https://zhidx.com/p/600573.html",
      "pubDate": "Tue, 13 Oct 2026 21:43:55 +0800",
@@ -168,6 +176,14 @@ window.INDUSTRY_DATA = {
      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
      "source": "OpenAI",
      "zh": "Higgsfield takes AI video from 1 minute to over 10"
+    },
+    {
+     "title": "5 AutoHotkey Scripts for Data Scientists",
+     "link": "https://www.kdnuggets.com/5-autohotkey-scripts-for-data-scientists",
+     "pubDate": "Tue, 13 Oct 2026 12:00:00 +0000",
+     "summary": "Five AutoHotkey v2 scripts that handle repetitive Windows desktop work around data analysis: launching a project workspace, converting clipboard IDs to Python or SQL lists, fixing file paths, and snapping windows into place.",
+     "source": "KDnuggets",
+     "zh": "5 AutoHotkey Scripts for Data Scientists"
     },
     {
      "title": "阿里千问上新AI眼镜！实测用眼睛 “硬控”，2218元起",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "让材料感知压力，造出超薄高密度电子皮肤",
      "source": "量子位",
      "zh": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁"
-    },
-    {
-     "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-     "link": "https://www.qbitai.com/2026/10/502920.html",
-     "pubDate": "Tue, 13 Oct 2026 06:19:10 +0000",
-     "summary": "拉马克进化的幽灵",
-     "source": "量子位",
-     "zh": "Claude团队又搞事：实测AI全自主复制进智能家电"
-    },
-    {
-     "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
-     "link": "https://www.qbitai.com/2026/10/502907.html",
-     "pubDate": "Tue, 13 Oct 2026 06:00:20 +0000",
-     "summary": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
-     "source": "量子位",
-     "zh": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档"
     }
    ]
   },
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Above-106-as-Iran-Threatens-More-Tanker-Attacks.html",
+     "pubDate": "Wed, 14 Oct 2026 00:31:31 -0500",
+     "summary": "Crude oil prices moved higher earlier today, after Iranian officials told Reuters the country’s forces were planning to further intensify strikes on tankers in the Strait of Hormuz, deploying new tactics. Brent crude was trading at $106.37 per barrel, and West Texas Intermediate was trading at $94.7",
+     "source": "OilPrice",
+     "zh": "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks"
+    },
+    {
      "title": "Smart connections",
      "link": "https://www.pv-magazine.com/2026/10/14/smart-connections/",
      "pubDate": "Wed, 14 Oct 2026 04:00:00 +0000",
@@ -984,14 +992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Permian producers spent much of this year paying buyers to haul away the natural gas that comes up with their oil. Waha Hub spot prices stayed below zero for a record 90 days in a row before turning positive on June 16, Reuters reported, and the hub had averaged minus $2.19 per million British therm",
      "source": "OilPrice",
      "zh": "Five Shale Stocks to Watch Before Third-Quarter Earnings"
-    },
-    {
-     "title": "Princeton Researchers Find a Lower-Energy Route to Fusion Ignition",
-     "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Princeton-Researchers-Find-a-Lower-Energy-Route-to-Fusion-Ignition.html",
-     "pubDate": "Tue, 13 Oct 2026 15:00:00 -0500",
-     "summary": "A new model for nuclear fusion has potentially discovered a significantly more energy-efficient way to achieve nuclear fusion, and flipped everything we thought we knew about the fusion process. The scientists’ modelling also flips the traditional order of operations for managing and sustaining plas",
-     "source": "OilPrice",
-     "zh": "Princeton Researchers Find a Lower-Energy Route to Fusion Ignition"
     },
     {
      "title": "Trump goes after an offshore wind farm that’s already up and running",
@@ -1786,6 +1786,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "明年 1 月默认阻止：微软 Win10/Win11 收紧可移动介质上的 ReFS 卷",
+     "link": "https://www.ithome.com/1/012/812.htm",
+     "pubDate": "Wed, 14 Oct 2026 05:20:48 GMT",
+     "summary": "IT之家 10 月 14 日消息，在本月补丁星期二活动日（10 月 13 日）中，微软为提升其可见性、降低风险，并推动用户转向受支持的存储方案， 宣布在 Windows 11、Windows 10 系统上，收紧对可移动介质上 ReFS 卷的支持，并计划于 2027 年 1 月默认阻止其挂载。 IT之家注：ReFS 全称为 Resilient File System，直译为弹性文件系统，是微软面向数据完整性与大规模存储场景设计的文件系统，它常用于 Windows Server 中的存储空间、备份与数据密集型工作负载。 根据微软公告内容，自 10 月累积更新开始，外置 USB 硬盘、U 盘与外置固",
+     "source": "IT之家",
+     "zh": "明年 1 月默认阻止：微软 Win10/Win11 收紧可移动介质上的 ReFS 卷"
+    },
+    {
+     "title": "中国汽车出口龙头厂商奇瑞：支持中欧贸易投资磋商机制取得积极成果",
+     "link": "https://www.ithome.com/1/012/811.htm",
+     "pubDate": "Wed, 14 Oct 2026 05:19:32 GMT",
+     "summary": "IT之家 10 月 14 日消息，奇瑞今日发文， 支持中欧贸易投资磋商机制取得积极成果 。IT之家附全文如下： 近日，中欧贸易投资磋商机制第二次例会在北京举行。中欧双方围绕混动汽车、电动汽车贸易等议题形成多项成果共识，为中欧汽车产业进一步深化合作创造了稳定、公平、可预期的环境，有助于双方经贸合作在稳的基础上，向着更加均衡、更可持续的方向发展。 开放合作、互利共赢是全球汽车产业发展的共同方向。中欧汽车产业互补性强、合作空间广阔，双方保持深度合作，有利于中欧产业界和消费者，也有利于全球汽车产业链供应链稳定。奇瑞汽车欢迎并支持中欧双方继续相向而行，通过对话磋商妥善处理分歧，共同推动中欧汽车产业合作行",
+     "source": "IT之家",
+     "zh": "中国汽车出口龙头厂商奇瑞：支持中欧贸易投资磋商机制取得积极成果"
+    },
+    {
+     "title": "苹果六年憋一个大招，就这？",
+     "link": "https://www.huxiu.com/article/4897357.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 13:15:09 +0800",
+     "summary": "出品 | 虎嗅科技组 作者 | 梁卡尔 编辑 | 苗正卿 头图 | 苹果官网 北京时间10月13日晚间9点，苹果拿出了一揽子十多款智能家居产品。 苹果没有召开一场典型的发布会，而是在纽约线下举办了一场活动。没有视频直播，没有新任CEO约翰&middot;特努斯（ John Ternus ）的舞台宣讲，甚至没有开始的&ldquo;发令枪响&rdquo;。 时间一到，苹果官网陆续释放了四篇产品新闻稿，随后才由高管在社交媒体上放出产品短片。约翰&middot;特努斯也发布了一支11秒的产品短片，并配文&ldquo;Welcome HomeView&rdquo;。 首款带屏家庭中枢Apple Hom",
+     "source": "虎嗅",
+     "zh": "苹果六年憋一个大招，就这？"
+    },
+    {
+     "title": "光刻机巨头 ASML 阿斯麦第三季度营收 116.6 亿欧元创新高：净利润 50 亿欧元，需求排到 2030 年",
+     "link": "https://www.ithome.com/1/012/809.htm",
+     "pubDate": "Wed, 14 Oct 2026 05:12:51 GMT",
+     "summary": "IT之家 10 月 14 日消息，光刻机巨头 ASML 阿斯麦今日发布公告，2026 年第三季度实现创纪录的 116.6 亿欧元 （IT之家注：现汇率约合 874.01 亿元人民币） 净销售额，毛利率为 57.5%， 净利润为 50 亿欧元 （现汇率约合 374.79 亿元人民币） 。 ASML 预计 2026 年第四季度净销售额在 142 亿至 152 亿欧元 （现汇率约合 1,064.4 亿至 1,139.36 亿元人民币） 之间，毛利率约为 57%。 ASML 预计 2026 年全年净销售额预计在 440 亿至 450 亿欧元 （现汇率约合 3,298.16 亿至 3,373.11 亿元",
+     "source": "IT之家",
+     "zh": "光刻机巨头 ASML 阿斯麦第三季度营收 116.6 亿欧元创新高：净利润 50 亿欧元，需求排到 2030 年"
+    },
+    {
      "title": "Peacock Promo Codes: 40% Off October 2026",
      "link": "https://www.wired.com/story/peacock-promo-code/",
      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
@@ -1818,20 +1850,20 @@ window.INDUSTRY_DATA = {
      "zh": "Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026"
     },
     {
-     "title": "Corsair Discount Code: Up to 50% Off for October 2026",
-     "link": "https://www.wired.com/story/corsair-coupon/",
-     "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
-     "summary": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
-     "source": "WIRED",
-     "zh": "Corsair Discount Code: Up to 50% Off for October 2026"
-    },
-    {
      "title": "HBO Max Promo Code: 50% Off | October 2026",
      "link": "https://www.wired.com/story/max-promo-code/",
      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
      "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
      "source": "WIRED",
      "zh": "HBO Max Promo Code: 50% Off | October 2026"
+    },
+    {
+     "title": "Uber Eats Promo Codes: $15 Off│October 2026",
+     "link": "https://www.wired.com/story/uber-eats-promo-code/",
+     "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+     "summary": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
+     "source": "WIRED",
+     "zh": "Uber Eats Promo Codes: $15 Off│October 2026"
     },
     {
      "title": "豆包工作上线数据导入与同步功能：支持从 ChatGPT 等一键导入对话与记忆",
@@ -1890,6 +1922,14 @@ window.INDUSTRY_DATA = {
      "zh": "年轻人相亲，迎来了“拼爹妈退休金”的时代"
     },
     {
+     "title": "Felix Rieseberg Homepage",
+     "link": "https://felixrieseberg.com/",
+     "pubDate": "Wed, 14 Oct 2026 04:42:33 +0000",
+     "summary": "Article URL: https://felixrieseberg.com/ Comments URL: https://news.ycombinator.com/item?id=50082470 Points: 9 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Felix Rieseberg Homepage"
+    },
+    {
      "title": "麻省理工学院创企 LNK 研发新技术，可让柴油重卡变身氢动力重卡",
      "link": "https://www.ithome.com/1/012/805.htm",
      "pubDate": "Wed, 14 Oct 2026 04:36:02 GMT",
@@ -1912,14 +1952,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《热点｜人社部推动“适应AI就业行动”：对普通就业者来说，意味着什么？》 我有个朋友，在一家互联网公司做内容编辑。上个月部门优化，她是留下来的那一个。 留下来的原因不是她写得比别人好，是她会用AI做选题策划和数据可视化。她说了一句话：“以前是跟同事竞争，现在是跟会用AI的同事竞争。” 人社部最近出了个新词，叫“适应人工智能发展促就业行动”。 这个词的出现本身就是一个信号。过去政策文件里的关键词是“稳就业”——稳总量、稳基本盘。现在加上了“适应人工智能”——说明决策层已经承认，AI对就业的冲击不再是“未来可能发生的事”，而是正在发生的事。",
      "source": "虎嗅",
      "zh": "热点｜人社部推动“适应AI就业行动”：对普通就业者来说，意味着什么？"
-    },
-    {
-     "title": "为支付离婚补偿金，SK 集团会长崔泰源向戴尔创始人基金出售 5440 亿韩元 SK Inc 股权",
-     "link": "https://www.ithome.com/1/012/803.htm",
-     "pubDate": "Wed, 14 Oct 2026 04:29:40 GMT",
-     "summary": "IT之家 10 月 14 日消息，据路透社报道，当地时间周三披露的监管申报文件显示，SK 集团会长崔泰源已达成交易，将控股公司 SK Inc 1.34% 的股份出售给与戴尔科技（Dell Technologies）创始人迈克尔 · 戴尔相关联的投资基金，交易金额为 5,440 亿韩元 （IT之家注：现汇率约合 27.31 亿元人民币） 。 本次交易是崔泰源股份减持筹资计划的一部分，他计划通过出售股票总共筹集 9,440 亿韩元 （现汇率约合 47.4 亿元人民币） ，用于向前妻支付离婚补偿金。 申报文件以及 DFO 管理公司官网信息显示，本次 972493 股 SK Inc 股份的买方为 DF",
-     "source": "IT之家",
-     "zh": "为支付离婚补偿金，SK 集团会长崔泰源向戴尔创始人基金出售 5440 亿韩元 SK Inc 股权"
     },
     {
      "title": "年轻人扮成熟，中年人却疯抢“奶味时尚”？",
@@ -1946,36 +1978,12 @@ window.INDUSTRY_DATA = {
      "zh": "机器人看人类视频，究竟能学到哪一步？"
     },
     {
-     "title": "腾龙 APS-C 画幅 16-50mm F2.8 A 镜头发布：重 305g，宣称“挂机之选”",
-     "link": "https://www.ithome.com/1/012/802.htm",
-     "pubDate": "Wed, 14 Oct 2026 04:23:31 GMT",
-     "summary": "IT之家 10 月 14 日消息，腾龙公司今日宣布将推出适用于 APS-C 画幅无反相机的大光圈标准变焦镜头 16-50mm F2.8 A（型号 B091） （以下称 16-50mm F2.8），此次上市包含索尼 E 卡口、尼康 Z 卡口、富士 X 卡口及佳能 RF 卡口。 索尼 E 卡口：2026 年 10 月 29 日上市 佳能 RF 卡口：2026 年 10 月 29 日上市 尼康 Z 卡口：2026 年 11 月 19 日上市 富士 X 卡口：2026 年 12 月 17 日上市 该镜头实现全焦段恒定 F2.8 光圈，实现了 长 79.6mm、重 305g、滤镜口径 φ55mm 的轻量",
-     "source": "IT之家",
-     "zh": "腾龙 APS-C 画幅 16-50mm F2.8 A 镜头发布：重 305g，宣称“挂机之选”"
-    },
-    {
-     "title": "“闯入荒野”的一抹银：五菱星光 L 官方改装电镀银车型亮相",
-     "link": "https://www.ithome.com/1/012/801.htm",
-     "pubDate": "Wed, 14 Oct 2026 04:19:33 GMT",
-     "summary": "IT之家 10 月 14 日消息，今天（14 日）上午，五菱汽车公布了五菱星光 L 的“电镀银”官方改装车型外观。该车从车身到轮毂都采用了亮银色涂装，全车大部分区域保持了一致的配色，官方称其为“闯入荒野的一抹银色”。 作为参考，在售的五菱星光 L 搭载插混系统，CLTC 纯电续航 260km，CLTC 综合续航 1260km。同时，现款共有 3 款车型，上市指导价 11.28-13.58 万元。 该车定位中大型 SUV，采用六座布局；可选苍松绿、沁湖蓝、墨竹黑、山岩银、晨霜白五种配色；新车长宽高分别为 4980/1930/1760mm， 轴距 2950mm 。 座舱方面，该车搭载 8.8 英寸",
-     "source": "IT之家",
-     "zh": "“闯入荒野”的一抹银：五菱星光 L 官方改装电镀银车型亮相"
-    },
-    {
      "title": "日本人最爱的企鹅，要退休了",
      "link": "https://www.huxiu.com/article/4897383.html?f=rss",
      "pubDate": "Wed, 14 Oct 2026 12:18:56 +0800",
      "summary": "本文来自微信公众号： CITY来不 ，作者：FOMO中的 工作日的东京站，午间通勤人流中不时出现一股逆向而行的人流。购物者步履匆匆，目标明确地走进Trainiart，一家专卖特色铁路周边商品的小店。店铺后墙上，几十张小小的面孔正望向外面，神情平静，眼睛一眨不眨。 它们都属于Suica企鹅——日本铁路公司JR East（JR东日本）那只神情安详、没有明确性别、长着一双圆眼睛的吉祥物。经过25年的职业生涯，这只企鹅即将退休，引发了日本全国范围内的惋惜，也让忠实粉丝们掀起了一阵抢购周边商品的热潮。 54岁的金子和美（Kazumi Kaneko）也是其中一员。她正打算继续扩充自己的收藏，其中包括一只罕",
      "source": "虎嗅",
      "zh": "日本人最爱的企鹅，要退休了"
-    },
-    {
-     "title": "AI 人想成精，先别乱脸红",
-     "link": "https://www.huxiu.com/article/4897382.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 12:17:53 +0800",
-     "summary": "本文来自微信公众号： 潜水鱼X ，作者：何润萱 最近小鱼看各种AI剧有个很大的疑惑，无论男频女频主角配角，上来总是一通可疑的脸红，不知道是害羞还是生气，堪比河豚鼓嘴之后第二个AI经典的伪人动作。说得刻薄点，AI剧里的人顶着一脸红晕说话，也很像黄皮子在讨封，“你看我像人吗？” 至于为什么提到黄皮子，想必各位也不陌生了，最近的热门中剧《余红旧事》里就有这么一只。其中男主角刘阳开场就霍霍了几条人命，但因为他的反杀来得太突然，剧情本身很有点东北聊斋的味道，观众们因此产生了一波大讨论：真刘阳早就死在林场里了，后来的刘阳是被黄皮子附身的傀儡。 你说这是观众们的过度解读吧也不对，毕竟刘阳自己都说了：我那天压",
-     "source": "虎嗅",
-     "zh": "AI 人想成精，先别乱脸红"
     },
     {
      "title": "今年的诺贝尔经济学奖，其实在讲一件很“人”的事",
@@ -1997,7 +2005,7 @@ window.INDUSTRY_DATA = {
      "title": "Is 'Attention' the Essence of Intelligence?",
      "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
      "pubDate": "Wed, 14 Oct 2026 03:10:25 +0000",
-     "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 26 # Comments: 11",
+     "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 34 # Comments: 11",
      "source": "Hacker News",
      "zh": "Is 'Attention' the Essence of Intelligence?"
     },
@@ -2016,14 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "Brian Krebs / Krebs on Security : Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September's record of 972, which was already ~10x the normal monthly patch load &nbsp; &mdash;&nbsp; Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its W",
      "source": "Techmeme",
      "zh": "Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September&apos;s record of 972, which was already ~10x the normal monthly patch load (Brian Krebs/Krebs on Security)"
-    },
-    {
-     "title": "Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains (Bloomberg)",
-     "link": "https://www.techmeme.com/261013/p50#a261013p50",
-     "pubDate": "Tue, 13 Oct 2026 21:35:02 -0400",
-     "summary": "Bloomberg : Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains &nbsp; &mdash;&nbsp; Advanced humanoid hardware is one of the strategic high-tech fields where China has an early lead over the US.",
-     "source": "Techmeme",
-     "zh": "Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains (Bloomberg)"
     }
    ]
   },
@@ -2033,6 +2033,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "First Look: Google Photos could soon end the hassle of collecting party photos",
+     "link": "https://www.androidauthority.com/google-photos-group-camera-first-look-3722917/",
+     "pubDate": "Wed, 14 Oct 2026 05:28:59 +0000",
+     "summary": "Tired of chasing friends for photos? Google Photos has a plan.",
+     "source": "Android Authority",
+     "zh": "First Look: Google Photos could soon end the hassle of collecting party photos"
+    },
+    {
+     "title": "家中、这里、那里——Sonos Play 体验",
+     "link": "https://sspai.com/post/115382",
+     "pubDate": "Wed, 14 Oct 2026 12:10:30 +0800",
+     "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ... 查看全文",
+     "source": "少数派",
+     "zh": "家中、这里、那里——Sonos Play 体验"
+    },
     {
      "title": "OnePlus 16R said to offer a triple 50MP rear camera setup",
      "link": "https://www.gsmarena.com/oneplus_16r_said_to_offer_a_triple_50mp_rear_camera_setup-news-75022.php",
@@ -2256,22 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "Your Google Home setup may look like someone hit shuffle.",
      "source": "Android Authority",
      "zh": "Google Home users are watching their carefully organized rooms fall apart"
-    },
-    {
-     "title": "OnePlus 16 goes official with 9,000 mAh battery, and it just makes me sad",
-     "link": "https://9to5google.com/2026/10/13/oneplus-16-goes-official-with-9000-mah-battery-and-it-just-makes-me-sad/",
-     "pubDate": "Tue, 13 Oct 2026 21:05:00 +0000",
-     "summary": "The OnePlus 16 is official this week and looks beastly – too bad most of the world won’t be able to buy it. more…",
-     "source": "9to5Google",
-     "zh": "OnePlus 16 goes official with 9,000 mAh battery, and it just makes me sad"
-    },
-    {
-     "title": "The Sideload 047: The highs and lows of Pixel at 10",
-     "link": "https://9to5google.com/2026/10/13/the-sideload-047-the-highs-and-lows-of-pixel-at-10/",
-     "pubDate": "Tue, 13 Oct 2026 21:00:00 +0000",
-     "summary": "Welcome to episode 47 of The Sideload, a 9to5Google podcast. This week, Will is joined by 9to5Google’s own Ben Schoon and Android Authority’s Joe Maring for a roundtable discussion on a decade of Pixel phones and some speculation on what’s to come. Plus, we play a rapid-fire quiz game to see who can",
-     "source": "9to5Google",
-     "zh": "The Sideload 047: The highs and lows of Pixel at 10"
     }
    ]
   },
@@ -2282,20 +2282,108 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "ASML says it&apos;s getting order interest through 2030 as profit smashes expectations",
+     "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+     "pubDate": "Wed, 14 Oct 2026 05:28:18 GMT",
+     "summary": "",
+     "source": "CNBC",
+     "zh": "ASML says it&apos;s getting order interest through 2030 as profit smashes expectations"
+    },
+    {
+     "title": "创业板跌近2%，AI漫剧概念再爆发，电力、煤炭活跃，恒科指午后拉升涨超2%，权重科网股集体反弹",
+     "link": "https://wallstreetcn.com/articles/3783588",
+     "pubDate": "Wed, 14 Oct 2026 13:27:45 +0800",
+     "summary": "10月14日，A股午后回落，三大股指集体下跌，创业板跌近2%，科创50跌超1.5%，北证50涨幅显著收窄，盘中一度涨超2%。AI漫剧概念掀起连板潮，PCB延续强势，煤炭油气逆势领涨。玻璃纤维、风力发电、半导体设备等概念股集体陷入调整。 港股午后进一步上涨，恒指、恒科指双双拉升，恒科指涨超2%，盘初曾跌近1%，权重科网股大反弹，美团、阿里、小米等大幅上涨，芯片半导体等整体仍然承压。债市方面，国债期货全线上涨。商品方面，国内商品期货多数下跌。核心市场走势： A股 ：截至发稿，沪指跌0.34%，深成指跌0.95%，创业板指跌1.85%。 港股 ：截至发稿，恒指涨0.30%，恒科指涨1.55%。 债市",
+     "source": "华尔街见闻",
+     "zh": "创业板跌近2%，AI漫剧概念再爆发，电力、煤炭活跃，恒科指午后拉升涨超2%，权重科网股集体反弹"
+    },
+    {
+     "title": "美邦服饰10月14日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895286244.html",
+     "pubDate": "Wed, 14 Oct 2026 13:25:12 +0800",
+     "summary": "以下是 美邦服饰 在北京时间10月14日13:25分盘口异动快照： 10月14日， 美邦服饰 盘中快速回调，5分钟内跌幅超过2%，截至13点25分，报1.42元，成交1.15亿元，换手率3.50%。 分笔 13:25:03 1.42 2280↑ 13:25:00 1.42 718↑ 13:24:57 1.42 2839↑ 13:24:51 1.42 55↑ 13:24:48 1.41 77↓ 13:24:45 1.41 2378↑ 13:24:42 1.41 1619↓ 13:24:39 1.41 4307↓ 13:24:36 1.41 4397↑ 13:24:33 1.41 164↑ 报价 ",
+     "source": "东方财富股票",
+     "zh": "美邦服饰10月14日快速回调"
+    },
+    {
+     "title": "10月14日昨日打二板以上表现板块涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895286068.html",
+     "pubDate": "Wed, 14 Oct 2026 13:24:44 +0800",
+     "summary": "&emsp;&emsp;10月14日13点24分， 昨日打二板以上表现 板块指数报33530.14点，涨幅达5%，成交49.54亿元，换手率12.88%。 &emsp;&emsp;板块个股中，涨幅最大的前5个股为： 慈文传媒 报8.10元，涨10.05%； 百洋股份 报9.75元，涨10.05%； 新经典 报23.07元，涨10.01%； 德才股份 报49.62元，涨8.34%； 龙版传媒 报20.58元，涨5.00%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月14日昨日打二板以上表现板块涨幅达5%"
+    },
+    {
+     "title": "10月14日磨具磨料板块跌幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895285918.html",
+     "pubDate": "Wed, 14 Oct 2026 13:24:44 +0800",
+     "summary": "&emsp;&emsp;10月14日13点24分， 磨具磨料 板块指数报8166.439点，跌幅达2%，成交21.45亿元，换手率1.86%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 金太阳 报30.01元，跌4.03%； 三超新材 报20.93元，跌3.33%； 凤形股份 报17.41元，跌2.90%； 沃尔德 报92.57元，跌2.56%； 惠丰钻石 报78.12元，跌2.50%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月14日磨具磨料板块跌幅达2%"
+    },
+    {
+     "title": "德固特10月14日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895285797.html",
+     "pubDate": "Wed, 14 Oct 2026 13:24:34 +0800",
+     "summary": "以下是 德固特 在北京时间10月14日13:24分盘口异动快照： 10月14日， 德固特 盘中跌幅达5%，截至13点24分，报18.43元，成交3763.27万元，换手率2.04%。 分笔 13:24:30 18.43 13↓ 13:24:27 18.44 50↓ 13:24:15 18.45 2↓ 13:24:12 18.49 148↓ 13:24:09 18.50 3↓ 13:24:06 18.50 64↓ 13:24:03 18.50 1↓ 13:23:57 18.51 117↓ 13:23:54 18.52 45↓ 13:23:33 18.52 2↓ 报价 卖五 18.54 55 卖四",
+     "source": "东方财富股票",
+     "zh": "德固特10月14日盘中跌幅达5%"
+    },
+    {
+     "title": "和泰机电10月14日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895285669.html",
+     "pubDate": "Wed, 14 Oct 2026 13:24:34 +0800",
+     "summary": "以下是 和泰机电 在北京时间10月14日13:24分盘口异动快照： 10月14日， 和泰机电 盘中跌幅达5%，截至13点24分，报32.2元，成交1.39亿元，换手率4.58%。 分笔 13:24:24 32.20 39↓ 13:24:15 32.23 2↓ 13:24:12 32.27 3↓ 13:24:00 32.27 5↓ 13:23:54 32.27 1↓ 13:23:45 32.27 1↓ 13:23:36 32.28 1↓ 13:23:33 32.29 65↓ 13:23:15 32.30 4↓ 13:22:54 32.31 5↓ 报价 卖五 32.27 12 卖四 32.26 2",
+     "source": "东方财富股票",
+     "zh": "和泰机电10月14日盘中跌幅达5%"
+    },
+    {
+     "title": "10月14日电网设备板块跌幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895285412.html",
+     "pubDate": "Wed, 14 Oct 2026 13:24:27 +0800",
+     "summary": "&emsp;&emsp;10月14日13点24分， 电网设备 板块指数报33947.85点，跌幅达2%，成交169.24亿元，换手率1.31%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 申昊科技 报28.02元，跌13.92%； 远程股份 报4.53元，跌8.11%； 长高电气 报9.89元，跌8.17%； 双杰电气 报8.77元，跌5.60%； 华自科技 报10.07元，跌5.36%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月14日电网设备板块跌幅达2%"
+    },
+    {
+     "title": "Rio Tinto on track to unlock $5B as Q3 iron ore sales beat estimates",
+     "link": "https://seekingalpha.com/news/4652748-rio-tinto-on-track-to-unlock-5b-as-q3-iron-ore-sales-beat-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 01:20:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Rio Tinto on track to unlock $5B as Q3 iron ore sales beat estimates"
+    },
+    {
+     "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
+     "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
+     "pubDate": "Wed, 14 Oct 2026 05:19:36 GMT",
+     "summary": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
+     "source": "CNBC",
+     "zh": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico"
+    },
+    {
+     "title": "Asian equities stabilize following Wall Street tech selloff; oil nears $95, China trade data beats",
+     "link": "https://seekingalpha.com/news/4652734-asian-equities-stabilize-following-wall-street-tech-selloff-oil-nears-95-china-trade-data-beats?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 01:15:43 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Asian equities stabilize following Wall Street tech selloff; oil nears $95, China trade data beats"
+    },
+    {
+     "title": "Liquidia rockets 42% as $380.7M deal ends United Therapeutics legal battle",
+     "link": "https://seekingalpha.com/news/4652729-liquidia-rockets-42-as-3807m-deal-ends-united-therapeutics-legal-battle?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 01:06:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Liquidia rockets 42% as $380.7M deal ends United Therapeutics legal battle"
+    },
+    {
      "title": "ASML Holding reports mixed Q3 results; gives Q4 and full-year outlook",
      "link": "https://seekingalpha.com/news/4652746-asml-holding-reports-mixed-q3-results-gives-q4-and-full-year-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 14 Oct 2026 01:04:15 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "ASML Holding reports mixed Q3 results; gives Q4 and full-year outlook"
-    },
-    {
-     "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
-     "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
-     "pubDate": "Wed, 14 Oct 2026 05:04:05 GMT",
-     "summary": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
-     "source": "CNBC",
-     "zh": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico"
     },
     {
      "title": "BofA drops out of talks to arrange Moonshot AI's Hong Kong listing: report",
@@ -2314,52 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "Targa Resources declares $1.25 dividend"
     },
     {
-     "title": "Thor raises dividend by 4% to $0.54",
-     "link": "https://seekingalpha.com/news/4652743-thor-raises-dividend-by-4-to-054?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 00:57:55 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Thor raises dividend by 4% to $0.54"
-    },
-    {
-     "title": "国家医保局：加强医保目录和支付管理，强化医药价格管理",
-     "link": "http://www.eeo.com.cn/2026/1014/1063817.shtml",
-     "pubDate": "Wed, 14 Oct 2026 12:52:10 +0800",
-     "summary": "【国家医保局：加强医保目录和支付管理，强化医药价格管理】“国家医保局”微信号消息，2026年10月13日下午，国家医疗保障局党组召开会议。会议要求，要抓好各项重点工作。一要健全多层次医疗保障体系。二要为人民群众提供全生命周期保障。三要加强医保目录和支付管理。四要强化医药价格管理。五要提升医保服务管理质效。六要积极支持医药科技创新。（中新经纬APP）",
-     "source": "经济观察网",
-     "zh": "国家医保局：加强医保目录和支付管理，强化医药价格管理"
-    },
-    {
-     "title": "商务部：2027年化肥进口关税配额总量为1365万吨",
-     "link": "http://www.eeo.com.cn/2026/1014/1063816.shtml",
-     "pubDate": "Wed, 14 Oct 2026 12:52:10 +0800",
-     "summary": "【商务部：2027年化肥进口关税配额总量为1365万吨】商务部网站公布2027年化肥进口关税配额总量、分配原则及相关程序。2027年化肥进口关税配额总量为1365万吨。其中，尿素330万吨；磷酸氢二铵690万吨；复合肥345万吨。2027年化肥进口关税配额实行先来先领的分配方式。凡在工商行政管理部门登记注册的企业，在其经营范围内均可申请化肥进口关税配额。（中新经纬APP）",
-     "source": "经济观察网",
-     "zh": "商务部：2027年化肥进口关税配额总量为1365万吨"
-    },
-    {
-     "title": "海关总署：中国造“预制房”走红海外",
-     "link": "http://www.eeo.com.cn/2026/1014/1063815.shtml",
-     "pubDate": "Wed, 14 Oct 2026 12:52:08 +0800",
-     "summary": "10月14日，海关总署副署长王军在国新办新闻发布会上表示，精准洞察市场需求是民营企业开拓市场的制胜法宝之一。他举例指出，近年来，全球精致露营、户外度假热潮持续升温。我国民营企业开发出新型预制式帐篷房屋，以模块化组建，分批打包出口，运抵后简单拼装即可投入使用。产品设计新颖、质量过硬，走红海外。前三季度民营企业出口各类活动房屋，增长近三成。",
-     "source": "经济观察网",
-     "zh": "海关总署：中国造“预制房”走红海外"
-    },
-    {
-     "title": "China's September CPI rises 0.9% Y/Y, PPI accelerates to 5.0% above expectations",
-     "link": "https://seekingalpha.com/news/4652740-chinas-september-cpi-rises-09-yy-ppi-accelerates-to-50-above-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 00:48:11 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "China's September CPI rises 0.9% Y/Y, PPI accelerates to 5.0% above expectations"
-    },
-    {
-     "title": "Microsoft’s Azure chief seeks at least 20% cost cuts - report",
-     "link": "https://seekingalpha.com/news/4652728-microsofts-azure-chief-seeks-at-least-20-cost-cuts---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 00:42:11 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Microsoft’s Azure chief seeks at least 20% cost cuts - report"
+     "title": "AMD苏姿丰：2026将是“AI推理元年” CPU市场需求将爆发式增长",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895255264.html",
+     "pubDate": "Wed, 14 Oct 2026 12:47:06 +0800",
+     "summary": "美东时间周一，AMD首席执行官苏姿丰在公开讲话中表示，AI推理将驱动新一轮增长浪潮，预计到2030年， 数据中心 AI加速器市场规模有望达到1.5万亿美元。而今年，将会是全球的“推理元年”。 AI推理将推动CPU需求爆发式增长 在2026年开放计算项目全球峰会 (OCP Global Summit)上，苏姿丰表示，随着 AI智能体 工作负载拉动算力需求，推理业务或将占据AI市场总量的60%。 “今年真正属于推理时代。我们判断，推理业务未来将占到整体市场的60%。不只是推理本身，真正爆发的是 AI智能体 工作负载。” 苏姿丰称，AMD预计，2030年 数据中心 AI加速器市场规模将接近1.5万亿",
+     "source": "东方财富资讯",
+     "zh": "AMD苏姿丰：2026将是“AI推理元年” CPU市场需求将爆发式增长"
     },
     {
      "title": "9月重点商品出海数据出炉：集成电路同比暴增136% 手机环比大涨超九成",
@@ -2376,14 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "A股文化 传媒 板块的热度仍在持续！ 今日（10月14日），在A股主要指数走势分化的背景下，文化 传媒 板块再度爆发涨停潮。截至中午收盘，文化 传媒 板块整体涨幅接近3%，领涨两市。个股方面， 文投控股 、 慈文传媒 、 新经典 、 中国科传 等直线涨停； 新华文轩 也涨停，盘中上演“准地天板”，近13个交易日录得9个涨停板。 此外，临近午盘时分，资金再度涌入， 果麦文化 直线拉升至20%涨停。其他个股方面， 海看股份 涨超13%， 芒果超媒 涨近10%， 无线传媒 涨超9%， 粤传媒 、 中文在线 涨超7%， 龙版传媒 、 中广天择 、 上海电影 等涨超6%。 据Sensor Tower数据",
      "source": "东方财富资讯",
      "zh": "20%涨停！资金突然涌入！文化传媒板块再度爆发涨停潮"
-    },
-    {
-     "title": "&apos;Godzilla El Niño&apos; is wreaking havoc with Philippine central bank&apos;s inflation forecasts",
-     "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
-     "pubDate": "Wed, 14 Oct 2026 04:24:28 GMT",
-     "summary": "The Philippine central bank is running policy scenarios for a severe El Niño on top of the oil shock, with inflation at a three-year high.",
-     "source": "CNBC",
-     "zh": "&apos;Godzilla El Niño&apos; is wreaking havoc with Philippine central bank&apos;s inflation forecasts"
     },
     {
      "title": "4连阳！影视院线早盘大涨 电影领域AI加速渗透",
@@ -2410,52 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "“三桶油”集体阶段新高！石油石化走强 融资客抢筹股曝光"
     },
     {
-     "title": "科技+科技，21股上榜，哪些并购被看好？机构大手笔增持股揭秘（附名单）",
-     "link": "http://finance.eastmoney.com/news/1354,202610143895263367.html",
-     "pubDate": "Wed, 14 Oct 2026 12:16:20 +0800",
-     "summary": "科技股并购科技资产大盘点。 机构看好10月科技板块表现 今年以来，科技股出现大幅波动， 电子 、 通信 两大指数年内涨幅一度均涨超80%，但截至10月13日收盘涨幅均回落至20%以下。 展望四季度，科技股依然被部分机构看好。华金证券表示， 10月科技成 长和 部分周期等行业可能是配置主线。复盘历史，高景气和政策导向的行业10月表现相对占优。一是产业趋势上行或景气度较高的行业10月表现相对占优；二是政策支持的行业10月表现也相对偏强；三是三季报表现较好的行业10月表现也可能偏强。今年10月科技和部分周期行业可能相对占优。一是10月科技和部分周期行业景气可能较高；二是10月科技和部分周期行业政策支",
-     "source": "东方财富资讯",
-     "zh": "科技+科技，21股上榜，哪些并购被看好？机构大手笔增持股揭秘（附名单）"
-    },
-    {
-     "title": "黑龙江省友谊县市场监管局创新监管模式纵深推进食品安全专项整治",
-     "link": "http://www.eeo.com.cn/2026/1014/1063754.shtml",
-     "pubDate": "Wed, 14 Oct 2026 12:13:13 +0800",
-     "summary": "中国质量新闻网讯 近日，黑龙江省友谊县市场监督管理局立足职能，创新监管执法方式，打破属地监管壁垒，切实筑牢食品安全民生防线。 实施交叉互检，破除属地监管壁垒。针对属地监管“熟人宽松、排查走过场、隐患漏查”等短板，友谊县市场监督管理局统筹调...",
-     "source": "经济观察网",
-     "zh": "黑龙江省友谊县市场监管局创新监管模式纵深推进食品安全专项整治"
-    },
-    {
-     "title": "存储设备涨超四成，黄金饰品降温！9月物价数据出炉",
-     "link": "http://www.eeo.com.cn/2026/1014/1063753.shtml",
-     "pubDate": "Wed, 14 Oct 2026 12:13:06 +0800",
-     "summary": "21世纪经济报道记者冉黎黎 报道 10月14日，国家统计局发布数据显示，9月份，居民消费价格指数（CPI）环比上涨0.2%，同比上涨0.9%，扣除食品和能源价格的核心CPI同比上涨1.0%，涨幅与上月相同。工业生产者出厂价格指数（PPI）环比上涨1.2%，同比上涨5.0%。 值得注意的是，从同比看，全国CPI上涨0.9%，涨幅比上月扩大0.1个百分点。其中，黄金饰品价格上涨22.5%，涨幅回落11.1个百分点，影响CPI同比上涨约0.11个百分...",
-     "source": "经济观察网",
-     "zh": "存储设备涨超四成，黄金饰品降温！9月物价数据出炉"
-    },
-    {
-     "title": "海关总署：我国对美国贸易持续回升",
-     "link": "http://www.eeo.com.cn/2026/1014/1063752.shtml",
-     "pubDate": "Wed, 14 Oct 2026 12:13:06 +0800",
-     "summary": "10月14日，海关总署副署长王军在国新办新闻发布会上表示，今年前三季度，我国对美国贸易持续回升，进出口3.18万亿元，增长4.1%。",
-     "source": "经济观察网",
-     "zh": "海关总署：我国对美国贸易持续回升"
-    },
-    {
      "title": "印度央行救卢比掏空家底：外储骤降500亿美元，2000亿远期美元负债成定时炸弹",
      "link": "https://wallstreetcn.com/articles/3783585",
      "pubDate": "Wed, 14 Oct 2026 12:10:36 +0800",
      "summary": "印度央行正在为捍卫卢比付出越来越沉重的代价。外汇储备自9月初以来已蒸发500亿美元，账面上高达2000亿美元的负美元远期头寸叠加银行体系约350亿美元的额外远期美元敞口，正将这场汇率保卫战推向可持续性的临界点。 印度央行此轮干预手段层层加码： 从动员侨民在不足三个月内借入1330亿美元，到直接开设专项窗口将国有石油公司每日高达2.5亿至4亿美元的购汇需求转移至央行资产负债表，再到重启衍生品管制、大幅压缩市场参与者的投机性购汇空间。 卢比暂时从历史低位回稳至95附近，但 油价高企、通胀升温与美债收益率飙升的三重外部压力 ，令这场救市行动的前景愈发脆弱。 更深层的隐患在于，印度与美国之间的10年期",
      "source": "华尔街见闻",
      "zh": "印度央行救卢比掏空家底：外储骤降500亿美元，2000亿远期美元负债成定时炸弹"
-    },
-    {
-     "title": "创业板、科创50均跌超1%，AI漫剧概念再爆发，电力、煤炭活跃，恒科指低开高走涨超1%，权重科网股集体反弹",
-     "link": "https://wallstreetcn.com/articles/3783588",
-     "pubDate": "Wed, 14 Oct 2026 12:10:11 +0800",
-     "summary": "10月14日，A股早盘低开后窄幅震荡，沪指徘徊于3800点附近，北证50盘中一度涨超2%，创业板指、科创50双双走弱，且跌幅均超过1%。AI漫剧概念掀起连板潮，PCB延续强势，煤炭油气逆势领涨。玻璃纤维、风力发电、半导体设备等概念股集体陷入调整。 港股低开高走，恒指、恒科指早盘双双拉升，恒科指涨超1%，盘初曾跌近1%，权重科网股反弹，美团、阿里、小米、京东等纷纷走高，芯片半导体等整体仍然承压。债市方面，国债期货全线上涨。商品方面，国内商品期货多数下跌。核心市场走势： A股 ：截至发稿，沪指涨0.01%，深成指跌0.51%，创业板指跌1.15%。 港股 ：截至发稿，恒指涨0.30%，恒科指涨1.",
-     "source": "华尔街见闻",
-     "zh": "创业板、科创50均跌超1%，AI漫剧概念再爆发，电力、煤炭活跃，恒科指低开高走涨超1%，权重科网股集体反弹"
     },
     {
      "title": "中国9月出口同比增长36%，集成电路出口暴涨136%",

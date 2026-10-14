@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/15 03:47:29",
+ "generated_at": "2026/10/15 03:53:36",
  "recent_days": 7,
  "industries": [
   {
@@ -2274,6 +2274,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+     "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+     "pubDate": "Wed, 14 Oct 2026 19:49:29 GMT",
+     "summary": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
+     "source": "CNBC",
+     "zh": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge"
+    },
+    {
+     "title": "US chip stocks slide as inflation and AI debt fears unsettle investors",
+     "link": "https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1",
+     "pubDate": "Wed, 14 Oct 2026 19:33:09 GMT",
+     "summary": "Nvidia, Oracle and CoreWeave fall as fervour around the technology cools",
+     "source": "Financial Times",
+     "zh": "US chip stocks slide as inflation and AI debt fears unsettle investors"
+    },
+    {
      "title": "Alcoa, Kaiser Aluminum started Overweight at Barclays in a positive near-term aluminum outlook",
      "link": "https://seekingalpha.com/news/4653096-alcoa-kaiser-aluminum-started-overweight-at-barclays-in-positive-near-term-aluminum-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 14 Oct 2026 15:31:47 -0400",
@@ -2336,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "美联储最新褐皮书显示，美国企业面临的价格压力正在加剧，高油价带来的成本上涨已渗透至多个地区，柴油附加费正沿供应链传导，关税、其他大宗商品及保险成本也持续推高企业支出。与此同时，美国经济整体增长温和，就业市场变化有限，消费者对价格上涨愈发敏感。 美东时间10月14日周三，美联储公布基于截至10月5日所收集信息编制的褐皮书。褐皮书显示，在12个地区联储的辖区中，半数地区都报告价格上涨强劲或是价格涨势加剧。 其中，三个地区的整体价格涨幅强劲，另有八个地区的价格涨幅处于温和水平，其中三个地区的投入成本压力正在加剧或已达到强劲水平；还有一个地区的价格涨幅温和。四个地区报告称，价格上涨速度较9月2日所发布",
      "source": "华尔街见闻",
      "zh": "美联储褐皮书示警油价“凶猛”：半数地区价格压力强劲或加剧，企业面临涨价与利润挤压"
-    },
-    {
-     "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-     "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-     "pubDate": "Wed, 14 Oct 2026 19:04:29 GMT",
-     "summary": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
-     "source": "CNBC",
-     "zh": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge"
     },
     {
      "title": "What to expect at the next Fed meeting now that rate-hike odds are rising",
@@ -2504,14 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "新华社广州10月14日电（记者温馨、丁乐）国务院总理李强10月14日下午在广州出席第140届中国进出口商品交易会（广交会）开幕式并发表主旨演讲。 李强表示，今年是广交会创办70周年。习近平主席专门发来贺信，充分肯定广交会取得的成绩，重申中国扩大高水平开放的坚定决心。透过广交会这扇“窗”，世人看到了中国经济社会蕴藏的巨大活力，见证了中国亿万民众一路奋发进取的壮阔历程，更感受到中国和世界与日俱增的深厚联结...",
      "source": "经济观察网",
      "zh": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲"
-    },
-    {
-     "title": "加大住房消费支持力度 多地落实住房公积金新政",
-     "link": "http://www.eeo.com.cn/2026/1015/1064610.shtml",
-     "pubDate": "Thu, 15 Oct 2026 01:52:06 +0800",
-     "summary": "9月20日，新修订的《住房公积金管理条例》（以下简称《条例》）正式施行。《条例》落地以来，多地因地制宜优化住房公积金政策，明确开展自住住房装修提取住房公积金等业务。 例如，10月12日，长春市住房公积金管理委员会发布《关于调整住房公积金使用政策的通知》，贯彻落实《条例》，明确支持提取住房公积金装修自住住房等举措。 广西区直住房公积金管理中心10月10日发布《关于调整进一步加大住房公积金缴存使用支...",
-     "source": "经济观察网",
-     "zh": "加大住房消费支持力度 多地落实住房公积金新政"
     }
    ]
   },

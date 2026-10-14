@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/14 18:45:00",
+ "generated_at": "2026/10/14 18:51:55",
  "recent_days": 7,
  "industries": [
   {
@@ -1554,6 +1554,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+     "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+     "pubDate": "Wed, 14 Oct 2026 06:48:09 -0400",
+     "summary": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+     "source": "BleepingComputer",
+     "zh": "Microsoft: Recent Windows updates may trigger Remote Desktop failures"
+    },
+    {
      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
      "pubDate": "Wed, 14 Oct 2026 13:16:57 +0530",
@@ -1706,14 +1714,6 @@ window.INDUSTRY_DATA = {
      "zh": "Microsoft releases Windows 10 KB5126657 extended security update"
     },
     {
-     "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
-     "pubDate": "Tue, 13 Oct 2026 15:04:38 -0400",
-     "summary": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
-     "source": "BleepingComputer",
-     "zh": "Microsoft: Windows 11 24H2 Home and Pro reached end of support"
-    },
-    {
      "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
      "link": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
      "pubDate": "Tue, 13 Oct 2026 18:43:43 +0000",
@@ -1777,6 +1777,30 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "海外瑜伽品牌在中国的“抢椅子” 游戏",
+     "link": "https://www.huxiu.com/article/4897522.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 18:45:48 +0800",
+     "summary": "本文来自微信公众号： Vogue Business ，作者：Magic Li，编辑：EvelynWang，原文标题：《海外瑜伽品牌在中国的 “抢椅子” 游戏》 刚刚过去的九月，Alo正式进入中国市场，紧随其后，Nike SKIMS也登陆国内，运动与贴身时尚的赛道迎来新玩家。 8月，品牌上线天猫官方旗舰店，开售后迅速引发关注：目前销量靠前的单品中，多款为赵露思同款，其中一条售价1,150元的直筒裤销量已超过1万件。相比Lululemon，Alo在中国的定价普遍更高，甚至已经将产品边界延伸至高端皮具——去年9月推出的首个高端皮具系列，售价最高达到3,600美元。 Alo想卖的显然已经不只是瑜伽服。",
+     "source": "虎嗅",
+     "zh": "海外瑜伽品牌在中国的“抢椅子” 游戏"
+    },
+    {
+     "title": "AOC“U27U4D”显示器开售：26.5 英寸 4K 120Hz QD-OLED，券后到手价 4699 元",
+     "link": "https://www.ithome.com/1/013/059.htm",
+     "pubDate": "Wed, 14 Oct 2026 10:45:27 GMT",
+     "summary": "IT之家 10 月 14 日消息，AOC“U27U4D”显示器现已开售，定价 4999 元，券后到手价 4699 元，政府补贴后到手价 4229 元。 这款显示器搭载了一块 26.5 英寸 4K 120Hz QD-OLED 面板，支持 DarkShield（Black AGLR）雾面抗反射，拥有 1,500,000:1 高静态对比度，暗场亮度趋近 0nit，黑色画面不漏光不发灰；色域覆盖 100% sRGB、99% DCI-P3、97% AdobeRGB，色准 Delta E 这款显示器配备全功能 USB-C 上行接口，最高支持 96W 反向充电；此外还有 HDMI 2.1、DP 1.4、US",
+     "source": "IT之家",
+     "zh": "AOC“U27U4D”显示器开售：26.5 英寸 4K 120Hz QD-OLED，券后到手价 4699 元"
+    },
+    {
+     "title": "国产“原子级放大镜”问世：中国科大利用拓扑探针首次实现交错磁体原子尺度自旋成像",
+     "link": "https://www.ithome.com/1/013/056.htm",
+     "pubDate": "Wed, 14 Oct 2026 10:43:58 GMT",
+     "summary": "IT之家 10 月 14 日消息，中国科学技术大学科研团队将拓扑材料制成扫描隧道显微镜针尖，发展出原子尺度自旋探测新方法，并获得钾钒硒氧表面存在二维 d 波交错磁序的直接实验证据。这一针尖在未来有望成为观察电子自旋的“原子级放大镜”。 该研究由中国科学技术大学物理学院陈仙辉院士、王震宇教授团队联合该校化学与材料科学学院向斌教授、香港科技大学刘军伟教授等合作者共同完成，陈仙辉、王震宇、刘军伟和向斌为共同通讯作者。相关成果于 10 月 13 日发表于刊《自然》。 ▲ 基于一维螺旋边界态的原子尺度自旋探测 自旋是电子的基本属性，与材料的磁性密切相关。在原子尺度辨识自旋相关电子态，是研究量子材料中演生",
+     "source": "IT之家",
+     "zh": "国产“原子级放大镜”问世：中国科大利用拓扑探针首次实现交错磁体原子尺度自旋成像"
+    },
     {
      "title": "育碧计划关闭芬兰 RedLynx 工作室，新加坡工作室也面临大幅裁员",
      "link": "https://www.ithome.com/1/013/055.htm",
@@ -1890,14 +1914,6 @@ window.INDUSTRY_DATA = {
      "zh": "现代汽车印度新工厂投产：总年产能接近 100 万辆，计划 2032 年前对印度投资 155 亿美元"
     },
     {
-     "title": "到手价 999 元：飞利浦 EVNIA 弈威 27 英寸显示器 27M2N3500PF 开售，2K 260Hz Fast IPS",
-     "link": "https://www.ithome.com/1/013/051.htm",
-     "pubDate": "Wed, 14 Oct 2026 10:19:14 GMT",
-     "summary": "IT之家 10 月 14 日消息，飞利浦 EVNIA 弈威 27 英寸显示器 27M2N3500PF 现已在京东开售，新品采用 Fast IPS 面板，2K 分辨率下刷新率最高可达 260Hz， 到手价 999 元 。 IT之家了解到，这款显示器采用 27 英寸 Fast IPS 面板，分辨率为 2560*1440，对比度 1000:1，响应时间为 0.3ms，覆盖 100% sRGB、90% Adobe RGB 和 95% DCI-P3 色域，ΔE＜2。 同时，该显示器最高亮度为 300nits，支持 HDR 技术，可带来高动态范围视觉体验。支持低蓝光模式、智能准星、暗部增强、放大镜等电竞功",
-     "source": "IT之家",
-     "zh": "到手价 999 元：飞利浦 EVNIA 弈威 27 英寸显示器 27M2N3500PF 开售，2K 260Hz Fast IPS"
-    },
-    {
      "title": "常温奶撑起中国乳业30年，如今，这套增长逻辑不灵了",
      "link": "https://www.huxiu.com/article/4897509.html?f=rss",
      "pubDate": "Wed, 14 Oct 2026 18:12:58 +0800",
@@ -1930,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "China&apos;s industrial dominance is driven by competitive local governments that act like venture capital firms, making it a continent-sized Silicon Valley (Works in Progress Magazine)"
     },
     {
-     "title": "AI 挖掘的漏洞报告存在误报，华为终端安全奖励计划要求提交前进行人工分析和验证",
-     "link": "https://www.ithome.com/1/013/049.htm",
-     "pubDate": "Wed, 14 Oct 2026 10:09:54 GMT",
-     "summary": "IT之家 10 月 14 日消息，华为安全应急响应中心今日发布华为终端安全奖励计划关于后续漏洞报告处置规则的公告。 官方表示，今年收到了大量利用 AI 工具辅助挖掘的漏洞报告，其中大多数报告都提供了 PoC（IT之家注：概念验证，证明某个安全漏洞确实存在且可被触发的代码、脚本、请求数据包或详细复现步骤）， 但仍不可避免地存在因 AI“幻觉”误导而产生的误报 。 为了合理分配有限的审核资源，确保华为终端安全奖励计划审核团队能聚焦于真实有效的漏洞，同时维护健康有序的社区生态，现提出如下要求： 一、漏洞报告要求 对于 AI 辅助或自动化发现的漏洞报告，提交前务必进行人工分析和验证 。我们鼓励白帽子提",
-     "source": "IT之家",
-     "zh": "AI 挖掘的漏洞报告存在误报，华为终端安全奖励计划要求提交前进行人工分析和验证"
-    },
-    {
      "title": "Apple: Switch to Safari (From Chrome)",
      "link": "https://www.apple.com/safari/switch/",
      "pubDate": "Wed, 14 Oct 2026 10:08:57 +0000",
@@ -1954,12 +1962,12 @@ window.INDUSTRY_DATA = {
      "zh": "荷兰税务与海关总署放弃部署微软公有云，采用开源替代"
     },
     {
-     "title": "“百果园2年亏7亿”冲上热搜，要“教育消费者”的老板，被市场教育了",
-     "link": "https://www.huxiu.com/article/4897504.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 18:00:52 +0800",
-     "summary": "本文来自微信公众号： 大橘财经 ，作者：周琦 曾喊出“万店千亿”，如今却因“两年亏掉7个亿”登上热搜，最近，百果园又一次成了舆论场的焦点。 翻看财报，网友的调侃并不夸张。 2024年，百果园归母净亏损3.86亿元，2025年再亏3.17亿元，两年下来，亏损合计超过7亿元。 比亏损更扎眼的是门店数，2023年底还有6093家，2025年底只剩4468家。两年之间，超过1600家百果园悄悄消失在街头巷尾。 要知道，2023年1月百果园才顶着“中国水果连锁零售第一股”的名头登陆港交所。 谁也没想到，高光转瞬即逝。 尽管2026年上半年公司终于扭亏，报告期内，其营收约50.1亿元，同比增长14.5%，",
-     "source": "虎嗅",
-     "zh": "“百果园2年亏7亿”冲上热搜，要“教育消费者”的老板，被市场教育了"
+     "title": "cool kids are writing in all lowercase now. does that make you mad?",
+     "link": "https://www.wired.com/story/the-case-for-lowercase/",
+     "pubDate": "Wed, 14 Oct 2026 10:00:00 +0000",
+     "summary": "a certain kind of person writes in all lowercase now. why?",
+     "source": "WIRED",
+     "zh": "cool kids are writing in all lowercase now. does that make you mad?"
     },
     {
      "title": "Nothing Headphone (1) Pro: Studio Quality",
@@ -1968,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.",
      "source": "WIRED",
      "zh": "Nothing Headphone (1) Pro: Studio Quality"
-    },
-    {
-     "title": "cool kids are writing in all lowercase now. does that make you mad?",
-     "link": "https://www.wired.com/story/the-case-for-lowercase/",
-     "pubDate": "Wed, 14 Oct 2026 10:00:00 +0000",
-     "summary": "a certain kind of person writes in all lowercase now. why?",
-     "source": "WIRED",
-     "zh": "cool kids are writing in all lowercase now. does that make you mad?"
     },
     {
      "title": "Apple HomeView, The New Apple TV, The App Story",
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "vivo X500 E's design and key specs revealed through Google Play Console listing",
+     "link": "https://www.gsmarena.com/vivo_x500_e_specs_design_google_play_console-news-75034.php",
+     "pubDate": "Wed, 14 Oct 2026 12:39:03 +0200",
+     "summary": "Last week, we spotted the vivo X500 E on Bluetooth SIG's website with model designation V2656. Now, it has appeared on Google Play Console with key specs and an image. The image included in the Google Play Console listing reveals the vivo X500 E has a flat display with a 2,750x1,260-pixel resolution",
+     "source": "GSMArena",
+     "zh": "vivo X500 E's design and key specs revealed through Google Play Console listing"
+    },
     {
      "title": "The new Alexa Tablets prove it’s time for Amazon to make another Android phone",
      "link": "https://www.androidauthority.com/new-alexa-tablets-prove-amazon-should-make-another-android-phone-3722557/",
@@ -2154,14 +2162,6 @@ window.INDUSTRY_DATA = {
      "zh": "家中、这里、那里——Sonos Play 体验"
     },
     {
-     "title": "OnePlus 16R said to offer a triple 50MP rear camera setup",
-     "link": "https://www.gsmarena.com/oneplus_16r_said_to_offer_a_triple_50mp_rear_camera_setup-news-75022.php",
-     "pubDate": "Wed, 14 Oct 2026 06:01:02 +0200",
-     "summary": "The OnePlus 16 recently launched in China, but a leak from September suggested that the flagship may not debut in India. Instead, OnePlus is rumored to launch the 16R in the country, with a new leak now revealing the phone’s key specs. According to the leak, the OnePlus 16R is currently in the Produ",
-     "source": "GSMArena",
-     "zh": "OnePlus 16R said to offer a triple 50MP rear camera setup"
-    },
-    {
      "title": "Tamron’s 16-50mm F2.8 is a fast, sub-$550 kit lens replacement for every APS-C system",
      "link": "https://www.dpreview.com/news/tamrons-16-50mm-f2-8-is-a-fast-sub-550-kit-lens-replacement-for-every-aps-c-system/",
      "pubDate": "Wed, 14 Oct 2026 04:01:00 +0000",
@@ -2274,12 +2274,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Kurv Yield Premium Strategy Amazon AMZN ETF declares $0.35 dividend",
-     "link": "https://seekingalpha.com/news/4652823-kurv-yield-premium-strategy-amazon-amzn-etf-declares-035-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 06:37:12 -0400",
+     "title": "Bank of America earnings are out – Here are the numbers",
+     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+     "pubDate": "Wed, 14 Oct 2026 10:48:59 GMT",
+     "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
+     "source": "CNBC",
+     "zh": "Bank of America earnings are out – Here are the numbers"
+    },
+    {
+     "title": "Brinker gains after Jefferies says the Chili's momentum will sustain",
+     "link": "https://seekingalpha.com/news/4652815-brinker-gains-after-jefferies-says-the-chilis-momentum-will-sustain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 06:44:44 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Kurv Yield Premium Strategy Amazon AMZN ETF declares $0.35 dividend"
+     "zh": "Brinker gains after Jefferies says the Chili's momentum will sustain"
+    },
+    {
+     "title": "T-Strive Digital Credit Preferred Income ETF declares $0.0555 weekly dividend",
+     "link": "https://seekingalpha.com/news/4652828-t-strive-digital-credit-preferred-income-etf-declares-00555-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 06:44:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "T-Strive Digital Credit Preferred Income ETF declares $0.0555 weekly dividend"
+    },
+    {
+     "title": "Roundhill Ether Covered Call Strategy ETF declares $0.0738 weekly dividend",
+     "link": "https://seekingalpha.com/news/4652827-roundhill-ether-covered-call-strategy-etf-declares-00738-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 06:42:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Roundhill Ether Covered Call Strategy ETF declares $0.0738 weekly dividend"
+    },
+    {
+     "title": "BlackRock Q3 earnings top consensus on strong performance fees, technology revenue growth",
+     "link": "https://seekingalpha.com/news/4652807-blackrock-q3-earnings-top-consensus-on-strong-performance-fees-technology-revenue-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 06:41:32 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BlackRock Q3 earnings top consensus on strong performance fees, technology revenue growth"
+    },
+    {
+     "title": "【调研快报】安乃达接待投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610143895588220.html",
+     "pubDate": "Wed, 14 Oct 2026 18:41:32 +0800",
+     "summary": "安乃达 10月14日公告称， 10月13日 接待投资者 调研。 接待人员包括董事长 黄洪岳,董事会秘书、财务总监 李进,独立董事 卢建波。 公司就以下问题进行了回复： 投资者关系活动主要内容 1、上半年公司研发费用达4406.95万元,重点投向了哪些下一代电驱动相关的技术方向,目前有没有已经落地的产业化成果? 答:尊敬的投资者,您好!公司始终坚持以技术创新为发展核心动力。2026年上半年,公司研发费用4,406.95万元,同比增长20%,报告期内,公司推出R9... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更",
+     "source": "东方财富股票",
+     "zh": "【调研快报】安乃达接待投资者调研"
+    },
+    {
+     "title": "BlackRock now has assets equal to half the size of the U.S. economy after 15% growth",
+     "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 10:41:00 GMT",
+     "summary": "Fund-management giant BlackRock on Wednesday said assets under management are nearly $15.5 trillion after growth of 15%.",
+     "source": "MarketWatch",
+     "zh": "BlackRock now has assets equal to half the size of the U.S. economy after 15% growth"
+    },
+    {
+     "title": "NEOS Enhanced Income 20+ Year Treasury Bond ETF declares $0.2158 dividend",
+     "link": "https://seekingalpha.com/news/4652826-neos-enhanced-income-20-year-treasury-bond-etf-declares-02158-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 06:38:41 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NEOS Enhanced Income 20+ Year Treasury Bond ETF declares $0.2158 dividend"
+    },
+    {
+     "title": "Alibaba selects Himax’s WiseEye chip for next-generation AI glasses",
+     "link": "https://seekingalpha.com/news/4652812-alibaba-selects-himax-s-wiseeye-chip-for-next-generation-ai-glasses?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 06:38:17 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Alibaba selects Himax’s WiseEye chip for next-generation AI glasses"
+    },
+    {
+     "title": "【调研快报】龙蟠科技接待投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610143895586449.html",
+     "pubDate": "Wed, 14 Oct 2026 18:37:36 +0800",
+     "summary": "龙蟠科技 10月15日公告称， 10月14日 接待投资者 调研。 接待人员包括公司董事长、总经理 石俊峰,财务负责人 沈志勇,独立董事 张金龙,董事会秘书 张羿。 公司就以下问题进行了回复： 在说明会上,公司与投资者进行互动交流和沟通,对投资者提出的问题给予了回答,主要问题及回复如下: 1、投资者问:尊敬的领导,下午好!作为中小投资者,有以下问题:1、可视化半年报显示,公司业绩较去年同期大幅增长,各项费用率均大幅下降,毛利率激增,净资产收益率由负转正,经营性和筹资性现金流均告负,能... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富",
+     "source": "东方财富股票",
+     "zh": "【调研快报】龙蟠科技接待投资者调研"
     },
     {
      "title": "BoA fined $1.2bn over \"egregious\" AML deficiencies",
@@ -2290,52 +2362,36 @@ window.INDUSTRY_DATA = {
      "zh": "BoA fined $1.2bn over \"egregious\" AML deficiencies"
     },
     {
-     "title": "Kurv High Income ETF declares $0.10 weekly dividend",
-     "link": "https://seekingalpha.com/news/4652822-kurv-high-income-etf-declares-010-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 06:36:34 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Kurv High Income ETF declares $0.10 weekly dividend"
-    },
-    {
-     "title": "At a glance: stocks gapping down premarket",
-     "link": "https://seekingalpha.com/news/4652817-at-a-glance-stocks-gapping-down-premarket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 06:36:02 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "概览：股市盘前跳空低开"
-    },
-    {
-     "title": "Kurv Equity Option Income ETF declares $0.083 weekly dividend",
-     "link": "https://seekingalpha.com/news/4652821-kurv-equity-option-income-etf-declares-0083-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 06:36:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Kurv Equity Option Income ETF declares $0.083 weekly dividend"
-    },
-    {
-     "title": "REX TSLA Growth & Income ETF declares $0.1151 weekly dividend",
-     "link": "https://seekingalpha.com/news/4652820-rex-tsla-growth-income-etf-declares-01151-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 06:35:19 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "REX TSLA Growth & Income ETF declares $0.1151 weekly dividend"
-    },
-    {
-     "title": "Verastem drug shows strong anti-tumor activity across advanced KRAS G12D-mutant cancers",
-     "link": "https://seekingalpha.com/news/4652808-verastem-drug-shows-strong-anti-tumor-activity-across-advanced-kras-g12d-mutant-cancers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 06:35:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Verastem drug shows strong anti-tumor activity across advanced KRAS G12D-mutant cancers"
-    },
-    {
-     "title": "【调研快报】悦达投资接待投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610143895584548.html",
-     "pubDate": "Wed, 14 Oct 2026 18:33:31 +0800",
-     "summary": "悦达投资 10月15日公告称， 10月13日 接待投资者 调研。 接待人员包括董事长 张乃文,副总经理、董事会秘书 秦大刚,总会计师 李正明,独立董事 蔡柏良。 公司就以下问题进行了回复： 1.上半年公司研发费用、销售费用同比有所增长,如何看待费用投入与中长期发展之间的关系? 答:尊敬的投资者您好!上半年公司研发费用同比增长20.99%,销售费用同比增长21.36%。相关投入主要投向公司新产品开发、海内外市场渠道开拓,属于面向中长期竞争力的战略性投入。 短期来看费用增长会对... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此",
+     "title": "恒星科技：预计前三季度归母净利润同比增长58.87%-138.31%",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895588398.html",
+     "pubDate": "Wed, 14 Oct 2026 18:36:41 +0800",
+     "summary": "恒星科技 10月14日公告，预计前三季度归母净利润3200万元-4800万元，同比增长58.87%-138.31%，上年同期盈利2014.17万元。 该公司称，报告期内业绩变化的主要原因是受行业供需格局的影响， 有机硅 产品的毛利较上年同期有所增加，在一定程度上增强了公司在报告期内的盈利能力。此外，公司依据《企业会计准则》的要求，对相关资产进行了初步减值测试，将计提相应的减值准备，对公司前三季度利润产生一定的影响（最终计提减值准备金额以相关公告为准）。 （文章来源：界面新闻）",
      "source": "东方财富股票",
-     "zh": "【调研快报】悦达投资接待投资者调研"
+     "zh": "恒星科技：预计前三季度归母净利润同比增长58.87%-138.31%"
+    },
+    {
+     "title": "加仓银行减持科技 三季度北向资金调仓路径曝光",
+     "link": "http://finance.eastmoney.com/news/11137,202610143895588563.html",
+     "pubDate": "Wed, 14 Oct 2026 18:35:10 +0800",
+     "summary": "北向资金2026年三季度持仓数据出炉。 据 东方财富 Choice数据，截至2026年三季度末，北向资金共持有3974只个股，持仓总规模回落至2.58万亿元，较上季度末的3.13万亿元大幅下降17.57%，同期上证指数下跌6.16%。 买入金额来看（按区间成交均价与持股数变化计算，下同），沪市净买入519亿元，深市净买入-1405亿元，三季度合计净买入-886亿元，而上半年净买入共计1995亿元。 个股层面，截至三季度末， 宁德时代 仍是北向资金第一大持仓股，持股市值达2331亿元，但较上季度大幅下降1183亿元，环比下降33.67%，同期股价下跌25.66%。此外， 美的集团 和 贵州茅台 ",
+     "source": "东方财富股票",
+     "zh": "加仓银行减持科技 三季度北向资金调仓路径曝光"
+    },
+    {
+     "title": "上汽集团：支持中欧汽车贸易磋商共识 将继续与全球合作伙伴保持开放沟通和积极合作",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895586268.html",
+     "pubDate": "Wed, 14 Oct 2026 18:34:41 +0800",
+     "summary": "10月14日， 上汽集团 发布关于支持中欧 汽车 贸易磋商共识的声明：此次磋商成果有助于维护稳定、平衡的中欧关键贸易伙伴关系，也为中欧 汽车 贸易的健康稳定发展奠定了坚实基础。 上汽集团 将继续与全球合作伙伴保持开放沟通和积极合作，加快凝聚创新力量，共建绿色低碳经济，为全球 汽车 产业高质量发展积极贡献力量。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "上汽集团：支持中欧汽车贸易磋商共识 将继续与全球合作伙伴保持开放沟通和积极合作"
+    },
+    {
+     "title": "山东：加大政府投资基金对数据产业项目的支持力度",
+     "link": "http://finance.eastmoney.com/news/1355,202610143895588829.html",
+     "pubDate": "Wed, 14 Oct 2026 18:34:00 +0800",
+     "summary": "山东省人民政府办公厅发布关于加快推进数据产业高质量发展的实施意见。意见指出，加大资金扶持力度。统筹省级财政资金支持数据企业、数据产业和相关试点建设，积极推荐符合条件的数据产业重点项目申报中央预算内投资。支持符合条件的数据企业通过上市融资、发行科技创新债券、依法合规开展数据资产证券化（ABS）等方式拓宽融资渠道，加大政府投资基金对数据产业项目的支持力度。用好科技创新和技术改造再贷款政策，在依法合规、风险可控的前提下引导金融机构创新符合数据企业发展特征的金融产品。 （文章来源：人民财讯）",
+     "source": "东方财富股票",
+     "zh": "山东：加大政府投资基金对数据产业项目的支持力度"
     },
     {
      "title": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
@@ -2344,46 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
      "source": "CNBC",
      "zh": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked"
-    },
-    {
-     "title": "行业首条 吉瓦时级全固态电池产线投产 产业化元年渐近",
-     "link": "http://finance.eastmoney.com/news/1345,202610143895585065.html",
-     "pubDate": "Wed, 14 Oct 2026 18:31:56 +0800",
-     "summary": "业界普遍认为，2027年有望成为 固态电池 产业化元年。 今日（10月14日），A股主要股指集体回调，沪指跌0.88%，深证成指跌1.97%，创业板指跌3.1%，红利指数逆市上涨，中证红利指数、上证红利指数分别上涨0.67%、0.62%。 分板块来看，具有红利属性的板块表现较好， 石油石化 、 煤炭 行业涨幅居前， 半导体 、光 通信 、发电设备概念回调明显。 沪电股份 前三季度归母净利润预增超100% 10月14日盘后，A股 PCB 龙头 沪电股份 发布前三季度业绩预告，预计实现归母净利润54.5亿元至57亿元，同比增长100.54%至109.74%。结合半年报计算，公司第三季度预计实现归母",
-     "source": "东方财富股票",
-     "zh": "行业首条 吉瓦时级全固态电池产线投产 产业化元年渐近"
-    },
-    {
-     "title": "台积电有望提前完成明年产能目标",
-     "link": "http://finance.eastmoney.com/news/1354,202610143895584064.html",
-     "pubDate": "Wed, 14 Oct 2026 18:30:25 +0800",
-     "summary": "据悉，由于市场对 台积电 2纳米工艺的需求十分旺盛，该公司有望提前完成2027年的生产目标。2纳米制程技术是 台积电 目前量产的最先进的制造技术，也是高性能 人工智能 芯片需要的成熟工艺。 台积电 此前的产能估计到2026年底最高约为每月10万片晶圆，但有报道指出，最新的估计将产量提高了20%，达到每月12万片晶圆。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "台积电有望提前完成明年产能目标"
-    },
-    {
-     "title": "3天2板莱美药业：纳米炭铁联合放疗仍处于II期临床试验阶段",
-     "link": "http://finance.eastmoney.com/news/1354,202610143895584985.html",
-     "pubDate": "Wed, 14 Oct 2026 18:29:57 +0800",
-     "summary": "莱美药业 (300006.SZ)发布股票交易异常波动的公告，公司关注到近期市场和媒体对公司纳米炭铁混悬注射液（CNSI-Fe）（简称纳米炭铁）临床试验事项有所关注。该事项主要源于公司控股子公司瀛瑞医药近期在相关学术期刊上发表了其自主研发的纳米炭铁I期临床试验学术论文以及相关合作 医院 披露的临床试验结果解读或个别病例结果。截至目前，纳米炭铁联合放疗仍处于II期临床试验阶段，后续仍需根据联合放疗II期临床试验结果，才能推进申请突破性治疗认定，或进行III期临床试验、申请药品上市许可（NDA）等核心环节。上述核心环节均存在重大不确定性，存在II期临床试验结果不及预期、无法申请或获批突破性治疗认定、",
-     "source": "东方财富股票",
-     "zh": "3天2板莱美药业：纳米炭铁联合放疗仍处于II期临床试验阶段"
-    },
-    {
-     "title": "【调研快报】华微电子接待南方工业资产管理有限责任公司调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610143895583425.html",
-     "pubDate": "Wed, 14 Oct 2026 18:28:29 +0800",
-     "summary": "华微电子 10月14日公告称， 10月13日 接待投资者 等2家机构 调研。 接待人员包括董事长、总经理 于胜东,副总经理 孟鹤,李斌晖,李强,钮立君,副总经理、财务负责人、董事会秘书 李娟娟,独立董事 徐克哲。 公司就以下问题进行了回复： 1、李总您好:很多功率 半导体 公司的产品都有提价,请问贵公司的产品有无提价? 尊敬的投资者您好,公司作为功率 半导体 器件的 IDM 公司,产品价格调整会根据市场供需、原材料成本、市场竞争状况等多种因素 综合 考虑。公司会持续关注市场动态,并根据实际情况采取相应的策略以保持竞争力和盈利能力。感谢您对公司的关... 点击查看PDF原文 免责声明：本文基于A",
-     "source": "东方财富股票",
-     "zh": "【调研快报】华微电子接待南方工业资产管理有限责任公司调研"
-    },
-    {
-     "title": "贝莱德股价盘前大涨4%",
-     "link": "http://finance.eastmoney.com/news/1354,202610143895583813.html",
-     "pubDate": "Wed, 14 Oct 2026 18:28:15 +0800",
-     "summary": "贝莱德 股价盘前大涨4%，公司三季度营收77.52亿美元同比增长19%，调整后每股收益15.93美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "贝莱德股价盘前大涨4%"
     },
     {
      "title": "英伟达“新王炸”！游戏“GPT时刻”或至",
@@ -2400,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
      "source": "MarketWatch",
      "zh": "My wife says we can’t afford to retire, so I vetoed her $8,000 trip to Italy. We have $4 million saved. Do I keep working?"
-    },
-    {
-     "title": "Bank of America is set to report third-quarter earnings – here’s what the Street expects",
-     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-     "pubDate": "Wed, 14 Oct 2026 10:15:01 GMT",
-     "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
-     "source": "CNBC",
-     "zh": "Bank of America is set to report third-quarter earnings – here’s what the Street expects"
     },
     {
      "title": "10月14日龙虎榜复盘：会稽山净买额居首",
@@ -2504,14 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "国务院总理李强10月14日下午在广州出席第140届中国进出口商品交易会（广交会）开幕式并发表主旨演讲。 李强表示，今年是广交会创办70周年。习近平主席专门发来贺信，充分肯定广交会取得的成绩，重申中国扩大高水平开放的坚定决心。透过广交会这扇“窗”，世人看到了中国经济社会蕴藏的巨大活力，见证了中国亿万民众一路奋发进取的壮阔历程，更感受到中国和世界与日俱增的深厚联结。一个日益开放、持续创新、重信守诺的中国，为世界带来新机遇、提供新动能、注入确定性。 李强指出，广交会历经国际风云变幻考验，不断焕发新的生机活力，其中蕴含着朴素而深刻的启示。其一，市场联通不是博弈工具，而是创造增量的有效举措。中国致力于推",
      "source": "东方财富资讯",
      "zh": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲"
-    },
-    {
-     "title": "‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?",
-     "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 09:15:00 GMT",
-     "summary": "“I lost my job and eventually my home — and it’s still hard.”",
-     "source": "MarketWatch",
-     "zh": "‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?"
     }
    ]
   },

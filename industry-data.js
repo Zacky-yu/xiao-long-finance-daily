@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/14 12:52:01",
+ "generated_at": "2026/10/14 13:11:58",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
+     "link": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
+     "pubDate": "Wed, 14 Oct 2026 05:03:34 +0000",
+     "summary": "Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%. The post Google Releases Gemini 4 Argon API With 1M Token Output Limit appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "Google Releases Gemini 4 Argon API With 1M Token Output Limit"
+    },
     {
      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
@@ -138,14 +146,6 @@ window.INDUSTRY_DATA = {
      "zh": "Gemini 4 Argon: Built to solve your hardest problems"
     },
     {
-     "title": "The Roadmap to Mastering Agentic AI Systems in 2026",
-     "link": "https://www.kdnuggets.com/the-roadmap-to-mastering-agentic-ai-systems-in-2026",
-     "pubDate": "Tue, 13 Oct 2026 14:00:00 +0000",
-     "summary": "A four-level technical roadmap for building agentic AI systems, from single cognitive loops and stateful memory through multi-agent swarms and production observability.",
-     "source": "KDnuggets",
-     "zh": "The Roadmap to Mastering Agentic AI Systems in 2026"
-    },
-    {
      "title": "突发，明星AI独角兽宣布破产",
      "link": "https://zhidx.com/p/600573.html",
      "pubDate": "Tue, 13 Oct 2026 21:43:55 +0800",
@@ -168,14 +168,6 @@ window.INDUSTRY_DATA = {
      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
      "source": "OpenAI",
      "zh": "Higgsfield takes AI video from 1 minute to over 10"
-    },
-    {
-     "title": "5 AutoHotkey Scripts for Data Scientists",
-     "link": "https://www.kdnuggets.com/5-autohotkey-scripts-for-data-scientists",
-     "pubDate": "Tue, 13 Oct 2026 12:00:00 +0000",
-     "summary": "Five AutoHotkey v2 scripts that handle repetitive Windows desktop work around data analysis: launching a project workspace, converting clipboard IDs to Python or SQL lists, fixing file paths, and snapping windows into place.",
-     "source": "KDnuggets",
-     "zh": "5 AutoHotkey Scripts for Data Scientists"
     },
     {
      "title": "阿里千问上新AI眼镜！实测用眼睛 “硬控”，2218元起",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "拉马克进化的幽灵",
      "source": "量子位",
      "zh": "Claude团队又搞事：实测AI全自主复制进智能家电"
+    },
+    {
+     "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+     "link": "https://www.qbitai.com/2026/10/502907.html",
+     "pubDate": "Tue, 13 Oct 2026 06:00:20 +0000",
+     "summary": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
+     "source": "量子位",
+     "zh": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档"
     }
    ]
   },
@@ -258,60 +258,52 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Google unveils Gemini 4 Argon, balancing frontier capabilities with rigorous safety standards",
+     "link": "https://www.digitimes.com/news/a20261014VL206/google-gemini-ai-agent-cybersecurity-launch.html",
+     "pubDate": "Wed, 14 Oct 2026 04:44:44 GMT",
+     "summary": "The debut of Google's Gemini 4 family marks a major milestone in frontier artificial intelligence, and Gemini 4 Argon is set to lead this next-generation launch. As autonomous AI capabilities scale rapidly, security incidents across the tech landscape highlight why robust containment controls have b",
+     "source": "DIGITIMES",
+     "zh": "Google unveils Gemini 4 Argon, balancing frontier capabilities with rigorous safety standards"
+    },
+    {
+     "title": "OpenAI in talks to buy cybersecurity firm Trail of Bits, report says",
+     "link": "https://www.digitimes.com/news/a20261014VL209/openai-cybersecurity-acquisition-software.html",
+     "pubDate": "Wed, 14 Oct 2026 04:34:36 GMT",
+     "summary": "OpenAI is in early talks to acquire Trail of Bits, a cybersecurity research firm specializing in software vulnerabilities and open-source security, The Information reported on October 13, as the ChatGPT maker expands its push into enterprise cybersecurity.",
+     "source": "DIGITIMES",
+     "zh": "OpenAI in talks to buy cybersecurity firm Trail of Bits, report says"
+    },
+    {
+     "title": "AI chip competition shifts to data-center efficiency as memory, interconnect limits bite",
+     "link": "https://www.digitimes.com/news/a20261014PD212/demand-efficiency-data-bandwidth-semiconductors.html",
+     "pubDate": "Wed, 14 Oct 2026 04:14:35 GMT",
+     "summary": "As demand for artificial intelligence computing accelerates, the competitive focus in semiconductors is shifting beyond single-chip speed to the efficiency of entire data centers. Nvidia, Broadcom, and Qualcomm executives said memory bandwidth, chip interconnects, power use, and heat management are ",
+     "source": "DIGITIMES",
+     "zh": "AI chip competition shifts to data-center efficiency as memory, interconnect limits bite"
+    },
+    {
+     "title": "Broadcom executive says chipmakers must tackle packaging, power limits together",
+     "link": "https://www.digitimes.com/news/a20261014PD210/broadcom-packaging-materials-asic-performance.html",
+     "pubDate": "Wed, 14 Oct 2026 04:11:30 GMT",
+     "summary": "Broadcom's Frank Ostojic said semiconductor firms need joint innovation across equipment, materials, and design to overcome bottlenecks that affect AI chips worldwide. He warned that die size, packaging, power delivery, and cooling are becoming major constraints as workloads evolve, making faster co",
+     "source": "DIGITIMES",
+     "zh": "Broadcom executive says chipmakers must tackle packaging, power limits together"
+    },
+    {
+     "title": "Samsung, AMD validate CXL memory for AI servers",
+     "link": "https://www.digitimes.com/news/a20261014VL208/samsung-amd-cxl-ai-server-bandwidth.html",
+     "pubDate": "Wed, 14 Oct 2026 04:04:18 GMT",
+     "summary": "Samsung Electronics and AMD have collaborated to validate Compute Express Link (CXL) memory technology designed to expand capacity and bandwidth for AI servers, as Samsung broadens its AI infrastructure strategy beyond high-bandwidth memory (HBM) to memory pooling and enterprise storage.",
+     "source": "DIGITIMES",
+     "zh": "Samsung, AMD validate CXL memory for AI servers"
+    },
+    {
      "title": "LG, Bosch team up on automotive chiplets",
      "link": "https://www.digitimes.com/news/a20261014PD208/lg-automotive-bosch-lg-electronics-soc.html",
      "pubDate": "Wed, 14 Oct 2026 03:58:43 GMT",
      "summary": "LG Electronics is reportedly working with Bosch to develop automotive chiplets, a move that would mark LG's formal entry into the automotive semiconductor market if the technology reaches production and wins customers. The business could also create synergies with the LG Group's broad automotive ele",
      "source": "DIGITIMES",
      "zh": "LG, Bosch team up on automotive chiplets"
-    },
-    {
-     "title": "LGD's KRW104.1B auto LCD module sale collapses",
-     "link": "https://www.digitimes.com/news/a20261014PD207/lg-display-automotive-lcd-module-business-nanjing.html",
-     "pubDate": "Wed, 14 Oct 2026 03:46:49 GMT",
-     "summary": "LG Display (LGD) has canceled the planned sale of its automotive LCD module business at its Nanjing subsidiary, losing a potential KRW104.1 billion (about US$72 million) payment and delaying plans to improve production efficiency.",
-     "source": "DIGITIMES",
-     "zh": "LGD's KRW104.1B auto LCD module sale collapses"
-    },
-    {
-     "title": "TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups",
-     "link": "https://www.digitimes.com/news/a20261013VL226/taiwan-startup-tsmc-mediatek-data.html",
-     "pubDate": "Wed, 14 Oct 2026 03:39:39 GMT",
-     "summary": "At Plug and Play Taiwan's Batch 4 Selection Day, 21 startups made the case that Taiwan's next wave of innovation is being built by chip-industry veterans who are tackling problems faced by the world's biggest tech companies.",
-     "source": "DIGITIMES",
-     "zh": "TSMC and MediaTek alumni lead Taiwan's new wave of deep tech startups"
-    },
-    {
-     "title": "Cisco expands AI networking with new chips, SONiC, cross-site deployment",
-     "link": "https://www.digitimes.com/news/a20261014PD206/cisco-chips-capacity-technology-cooling.html",
-     "pubDate": "Wed, 14 Oct 2026 03:30:49 GMT",
-     "summary": "As AI cluster sizes grow, networking systems face challenges beyond higher bandwidth, including power consumption, cooling, cross-site coordination, and large-scale device operations. Cisco is expanding its AI data center technology strategy from high-bandwidth switch chips to cross-site networking,",
-     "source": "DIGITIMES",
-     "zh": "Cisco expands AI networking with new chips, SONiC, cross-site deployment"
-    },
-    {
-     "title": "Cisco, Nvidia target high-speed optical interconnects with 4x USFP density",
-     "link": "https://www.digitimes.com/news/a20261014PD205/cisco-nvidia-2026-bandwidth-design.html",
-     "pubDate": "Wed, 14 Oct 2026 03:25:27 GMT",
-     "summary": "Cisco and Nvidia announced at the 2026 OCP Global Summit that they are jointly developing an ultra-dense small form factor pluggable (USFP) optical module designed to support 400Gb/s electrical signals per lane, targeting AI data centers' demand for higher bandwidth density, greater energy efficienc",
-     "source": "DIGITIMES",
-     "zh": "Cisco, Nvidia target high-speed optical interconnects with 4x USFP density"
-    },
-    {
-     "title": "AI accelerator growth shifts toward value as custom ASICs move upmarket",
-     "link": "https://www.digitimes.com/news/a20261014PD225/accelerator-market-growth-hbm-revenue.html",
-     "pubDate": "Wed, 14 Oct 2026 03:11:19 GMT",
-     "summary": "The AI accelerator market is set to reach US$1.4 trillion by 2030, up 150% from Bloomberg Intelligence's January 2026 estimate of US$560 billion, as higher prices&mdash;not just shipment growth&mdash;drive the market. Annual revenue is expected to surpass US$1 trillion in 2028, growing at a compound",
-     "source": "DIGITIMES",
-     "zh": "AI accelerator growth shifts toward value as custom ASICs move upmarket"
-    },
-    {
-     "title": "Top Ten IP Semiconductor Suppliers",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-ip-semiconductor-suppliers-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 00:01:41 +0000",
-     "summary": "Thanks to IPNest for this one – the top ten semiconductor IP vendors: Arm. Synopsys Cadence . Alphawave Semi Imagination Technologies Rambus VeriSilicon CEva Arteris Silicon Creations The post Top Ten IP Semiconductor Suppliers appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Top Ten IP Semiconductor Suppliers"
     },
     {
      "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
@@ -362,36 +354,12 @@ window.INDUSTRY_DATA = {
      "zh": "VSORA’s Sandra Rivera on the Inference Era: Demand Is Real, But Not Everyone Survives"
     },
     {
-     "title": "10 years of TME Education – a decade of supporting technical education",
-     "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/10-years-of-tme-education-a-decade-of-supporting-technical-education-2026-10/",
-     "pubDate": "Tue, 13 Oct 2026 14:16:21 +0000",
-     "summary": "Learn more about TME Education – an educational project based on practical learning and collaboration with local communities. The post 10 years of TME Education – a decade of supporting technical education appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "10 years of TME Education – a decade of supporting technical education"
-    },
-    {
-     "title": "Pathways into Electronics reports on women’s route to study electronics",
-     "link": "https://www.electronicsweekly.com/news/design/stem/pathways-into-electronics-reports-on-womens-route-to-study-electronics-2026-10/",
-     "pubDate": "Tue, 13 Oct 2026 14:11:45 +0000",
-     "summary": "The UK Electronics Skills Foundation’s (UKESF) new report examines the routes women take to study electronics in further education: Pathways into Electronics: Women EEE Students. It shares findings into the […] The post Pathways into Electronics reports on women’s route to study electronics appeared",
-     "source": "Electronics Weekly",
-     "zh": "Pathways into Electronics reports on women’s route to study electronics"
-    },
-    {
      "title": "CASPA CEO Summit Preview with President Jimmy Cheng",
      "link": "https://www.eetimes.com/caspa-ceo-summit-preview-with-president-jimmy-cheng/",
      "pubDate": "Tue, 13 Oct 2026 14:04:30 +0000",
      "summary": "CASPA’s annual conference celebrates its 35th anniversary with a lineup of more than 35 CEOs from Silicon Valley, including Intel’s Lip-Bu Tan and Cerebras’s Andrew Feldman. The post CASPA CEO Summit Preview with President Jimmy Cheng appeared first on EE Times .",
      "source": "EE Times",
      "zh": "CASPA CEO Summit Preview with President Jimmy Cheng"
-    },
-    {
-     "title": "How Can Users Who Seek Mental Health Support From AI Be Protected?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/dangers-of-relying-on-chatbots-2026-10/",
-     "pubDate": "Tue, 13 Oct 2026 13:22:17 +0000",
-     "summary": "As more and more people lean on chatbots for comfort and guidance, experts have raised alarms over the potential pitfalls: erosion of social skills, unhealthy attachment to digital companions offering […] The post How Can Users Who Seek Mental Health Support From AI Be Protected? appeared first on E",
-     "source": "Electronics Weekly",
-     "zh": "How Can Users Who Seek Mental Health Support From AI Be Protected?"
     },
     {
      "title": "Intel’s Open Software Blueprint: Why Production AI Needs More Than GPUs",
@@ -410,28 +378,12 @@ window.INDUSTRY_DATA = {
      "zh": "17 Years with China: What Really Makes a Partnership Work"
     },
     {
-     "title": "Linking functional safety with cybersecurity in the automotive industry",
-     "link": "https://www.electronicsweekly.com/news/business/linking-functional-safety-with-cybersecurity-in-the-automotive-industry-2026-10/",
-     "pubDate": "Tue, 13 Oct 2026 11:00:17 +0000",
-     "summary": "Adding cybersecurity to a car alongside existing protection against technical failures may disrupt critical reaction times for preventing an accident. Engineers can balance this through combined risk analysis, writes Diego […] The post Linking functional safety with cybersecurity in the automotive i",
-     "source": "Electronics Weekly",
-     "zh": "Linking functional safety with cybersecurity in the automotive industry"
-    },
-    {
      "title": "U.S. Chip Firms Bet Big on R&D",
      "link": "https://spectrum.ieee.org/semiconductor-research",
      "pubDate": "Tue, 13 Oct 2026 11:00:05 +0000",
      "summary": "On 12 October, Applied Materials unveiled a multibillion-dollar research facility in Sunnyvale, Calif., in the heart of Silicon Valley . The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercialization (EPIC) Center, but now says it will",
      "source": "IEEE Spectrum 半导体",
      "zh": "U.S. Chip Firms Bet Big on R&D"
-    },
-    {
-     "title": "Knowles ATT A-Series of attenuators in compact SMT package",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/knowles-att-a-series-of-attenuators-in-compact-smt-package-2026-10/",
-     "pubDate": "Tue, 13 Oct 2026 10:50:51 +0000",
-     "summary": "Knowles is introducing its ATT A-Series of wideband, surface mount attenuators, broadening its high-performance RF component portfolio. The company highlights the series’ attenuation accuracy and high power handling in a compact […] The post Knowles ATT A-Series of attenuators in compact SMT package",
-     "source": "Electronics Weekly",
-     "zh": "Knowles ATT A-Series of attenuators in compact SMT package"
     },
     {
      "title": "Polar collaborates with IC-Link by imec on 8-inch manufacturing of e-mode GaN devices",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Applied Materials’ $5 billion EPIC Center brings chipmakers, equipment suppliers, and researchers together to accelerate semiconductor R&D and commercialization. The post Applied Materials Bets $5B on a New Model for Chip Innovation appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Applied Materials Bets $5B on a New Model for Chip Innovation"
+    },
+    {
+     "title": "Embedded Graphics on an MCU – Without an Accelerator",
+     "link": "https://www.eetimes.com/embedded-graphics-on-an-mcu-without-an-accelerator/",
+     "pubDate": "Mon, 12 Oct 2026 16:49:28 +0000",
+     "summary": "Join this webinar and learn how to add LCD graphics to MCU projects without a display controller, accelerator, or external DRAM. The post Embedded Graphics on an MCU – Without an Accelerator appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Embedded Graphics on an MCU – Without an Accelerator"
+    },
+    {
+     "title": "Startup Funding: Q3 2026",
+     "link": "https://semiengineering.com/startup-funding-q3-2026/",
+     "pubDate": "Mon, 12 Oct 2026 07:01:27 +0000",
+     "summary": "80 startups raised $8.5B in Q3, with big hauls by companies tackling data movement and memory. The post Startup Funding: Q3 2026 appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Startup Funding: Q3 2026"
+    },
+    {
+     "title": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/cmlmicro-091026.shtml",
+     "pubDate": "Fri, 9 Oct 2026 08:59:05 +0100",
+     "summary": "CML Microsystems Plc of Maldon, UK — a designer and fabless manufacturer of mixed-signal, RF and microwave semiconductors for communications applications — has launched the CMX90A002, a compact power amplifier for next-generation ISM-band radio designs...",
+     "source": "Semiconductor Today",
+     "zh": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs"
+    },
+    {
+     "title": "Infineon launches 27kW three-phase PSU for AI server power architectures",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/infineon-081026.shtml",
+     "pubDate": "Thu, 8 Oct 2026 15:28:51 +0100",
+     "summary": "As artificial intelligence workloads are redefining the power requirements of modern data centers, increasing GPU performance and rising rack densities are driving a shift toward 800VDC or ±400VDC power supply architectures. To address these requirements, Infineon Technologies AG of Munich, Germany ",
+     "source": "Semiconductor Today",
+     "zh": "Infineon launches 27kW three-phase PSU for AI server power architectures"
+    },
+    {
+     "title": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/wolfspeed-081026.shtml",
+     "pubDate": "Thu, 8 Oct 2026 10:27:41 +0100",
+     "summary": "Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has received a conditional loan commitment letter from the US Department of War (DoW), through its Office of Strategic Capital (OSC), for up to $1.5bn of long-term (30-year) financing to ",
+     "source": "Semiconductor Today",
+     "zh": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War"
+    },
+    {
+     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
+     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
+     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
     }
    ]
   },
@@ -1562,6 +1562,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
+     "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
+     "pubDate": "Wed, 14 Oct 2026 05:00:00 GMT",
+     "summary": "Organizations are reporting that employees face threats to their families, stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
+     "source": "Dark Reading",
+     "zh": "Ransomware Gangs Embrace Physical Threats, Family Stalking?"
+    },
+    {
+     "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+     "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+     "pubDate": "Wed, 14 Oct 2026 10:04:43 +0530",
+     "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Serv",
+     "source": "The Hacker News",
+     "zh": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug"
+    },
+    {
      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
      "pubDate": "Wed, 14 Oct 2026 07:29:25 +0530",
@@ -1714,14 +1730,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google Partially Reverses Chrome Bug Bounty Cuts"
     },
     {
-     "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-     "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-     "pubDate": "Tue, 13 Oct 2026 21:48:18 +0530",
-     "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials. \"Your configuration becomes valid",
-     "source": "The Hacker News",
-     "zh": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking"
-    },
-    {
      "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
      "link": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
      "pubDate": "Tue, 13 Oct 2026 16:01:00 +0000",
@@ -1754,14 +1762,6 @@ window.INDUSTRY_DATA = {
      "zh": "Prominent Ransomware Negotiator Faces Extortion Charges"
     },
     {
-     "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
-     "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-     "pubDate": "Mon, 12 Oct 2026 18:27:25 GMT",
-     "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
-     "source": "Dark Reading",
-     "zh": "No Identity, No Recovery: Cyber Resilience Starts With IAM"
-    },
-    {
      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
      "pubDate": "Sat, 10 Oct 2026 00:17:42 +0000",
@@ -1786,6 +1786,78 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Peacock Promo Codes: 40% Off October 2026",
+     "link": "https://www.wired.com/story/peacock-promo-code/",
+     "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+     "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+     "source": "WIRED",
+     "zh": "Peacock Promo Codes: 40% Off October 2026"
+    },
+    {
+     "title": "Dell Coupon Codes: 20% Off for October 2026",
+     "link": "https://www.wired.com/story/dell-coupon-code/",
+     "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+     "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+     "source": "WIRED",
+     "zh": "Dell Coupon Codes: 20% Off for October 2026"
+    },
+    {
+     "title": "Expedia Coupons: 40% Off",
+     "link": "https://www.wired.com/story/expedia-coupon/",
+     "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+     "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
+     "source": "WIRED",
+     "zh": "Expedia 优惠券：40% 折扣"
+    },
+    {
+     "title": "Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026",
+     "link": "https://www.wired.com/story/vimeo-promo-code/",
+     "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+     "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
+     "source": "WIRED",
+     "zh": "Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026"
+    },
+    {
+     "title": "Corsair Discount Code: Up to 50% Off for October 2026",
+     "link": "https://www.wired.com/story/corsair-coupon/",
+     "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+     "summary": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
+     "source": "WIRED",
+     "zh": "Corsair Discount Code: Up to 50% Off for October 2026"
+    },
+    {
+     "title": "HBO Max Promo Code: 50% Off | October 2026",
+     "link": "https://www.wired.com/story/max-promo-code/",
+     "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+     "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
+     "source": "WIRED",
+     "zh": "HBO Max Promo Code: 50% Off | October 2026"
+    },
+    {
+     "title": "豆包工作上线数据导入与同步功能：支持从 ChatGPT 等一键导入对话与记忆",
+     "link": "https://www.ithome.com/1/012/807.htm",
+     "pubDate": "Wed, 14 Oct 2026 04:50:45 GMT",
+     "summary": "IT之家 10 月 14 日消息，今日豆包工作宣布上线数据导入与同步功能，支持用户将已有对话、技能和记忆迁移至豆包工作继续使用。 用户可一键导入任务偏好指令、技能、连接器、工作记忆、项目及历史会话，支持从 ChatGPT、Claude Code、Trae Work 等产品迁移。导入内容将自动归档至对应入口或列表，历史会话保留原有上下文，用户可直接在豆包工作内继续对话，无需重复配置或重新交代背景。 此外IT之家注意到，豆包工作同步优化多项体验：支持在对应消息上选择“在新对话中继续”，已有上下文自动带入新对话，原对话保留方便回看；新增消息注释与对话摘要侧栏，进一步提升工作场景下的信息管理与检索效率",
+     "source": "IT之家",
+     "zh": "豆包工作上线数据导入与同步功能：支持从 ChatGPT 等一键导入对话与记忆"
+    },
+    {
+     "title": "US defense companies and startups have signed at least 13 deals with Taiwanese hardware companies since September 2025 to build a secure drone tech supply chain (Joyu Wang/Wall Street Journal)",
+     "link": "https://www.techmeme.com/261014/p1#a261014p1",
+     "pubDate": "Wed, 14 Oct 2026 00:50:01 -0400",
+     "summary": "Joyu Wang / Wall Street Journal : US defense companies and startups have signed at least 13 deals with Taiwanese hardware companies since September 2025 to build a secure drone tech supply chain &nbsp; &mdash;&nbsp; American tech meets Taiwanese hardware in push to assemble uncrewed boats and aircra",
+     "source": "Techmeme",
+     "zh": "US defense companies and startups have signed at least 13 deals with Taiwanese hardware companies since September 2025 to build a secure drone tech supply chain (Joyu Wang/Wall Street Journal)"
+    },
+    {
+     "title": "周鸿祎谈AI：尽头不是能源，是安全 | 钛媒体刘湘明×360集团周鸿祎",
+     "link": "https://www.tmtpost.com/8167924.html",
+     "pubDate": "Wed, 14 Oct 2026 12:48:00 +0800",
+     "summary": "AI背叛人类，并不需要等到它产生意识。",
+     "source": "钛媒体",
+     "zh": "周鸿祎谈AI：尽头不是能源，是安全 | 钛媒体刘湘明×360集团周鸿祎"
+    },
+    {
      "title": "设局签字背贷担保，盯上农村老年人",
      "link": "https://www.huxiu.com/article/4897389.html?f=rss",
      "pubDate": "Wed, 14 Oct 2026 12:45:08 +0800",
@@ -1794,12 +1866,28 @@ window.INDUSTRY_DATA = {
      "zh": "设局签字背贷担保，盯上农村老年人"
     },
     {
+     "title": "一群东亚做题家，用 AI 反向输出 \"卷\"：韩国第一、越南第一、北美前五",
+     "link": "https://www.tmtpost.com/8167704.html",
+     "pubDate": "Wed, 14 Oct 2026 12:42:49 +0800",
+     "summary": "当一套被本土内卷折磨了几十年的方法论，遇上 AI 的冲击与重组，会发生什么商业变局？ 答案是 —— 它不再内耗，而是开始输出“卷”。",
+     "source": "钛媒体",
+     "zh": "一群东亚做题家，用 AI 反向输出 \"卷\"：韩国第一、越南第一、北美前五"
+    },
+    {
      "title": "国产光刻机出海，江苏海思第 17 台出口欧洲产品整装待发",
      "link": "https://www.ithome.com/1/012/806.htm",
      "pubDate": "Wed, 14 Oct 2026 04:42:46 GMT",
      "summary": "IT之家 10 月 14 日消息，江苏海思半导体科技有限公司（以下简称“HISIGK”）官宣，2026 年 10 月 12 日来自境外的客户验收代表团走进 HISIGK 的洁净车间，对一台即将出口的全自动光刻机进行出厂验收。 按照双方约定，验收通过后，这台设备将随即启程发运 —— 这是自 2024 年以来，HISIGK 出口境外市场的第 17 台光刻设备 。 此外，10 月 13 日，一台 8 英寸全自动光刻机在 HISIGK 完成出厂调试与客户验收，正式装车发运。这台设备将承担硅基 Micro LED 晶圆的图形化制程。本次发运的设备为 面向 8 英寸（200mm）晶圆的全自动掩模对准光刻机",
      "source": "IT之家",
      "zh": "国产光刻机出海，江苏海思第 17 台出口欧洲产品整装待发"
+    },
+    {
+     "title": "年轻人相亲，迎来了“拼爹妈退休金”的时代",
+     "link": "https://www.tmtpost.com/8167744.html",
+     "pubDate": "Wed, 14 Oct 2026 12:42:45 +0800",
+     "summary": "房子降温以后，每月到账的钱更受重视",
+     "source": "钛媒体",
+     "zh": "年轻人相亲，迎来了“拼爹妈退休金”的时代"
     },
     {
      "title": "麻省理工学院创企 LNK 研发新技术，可让柴油重卡变身氢动力重卡",
@@ -1890,36 +1978,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI 人想成精，先别乱脸红"
     },
     {
-     "title": "米哈游法务部：《原神》线下测试人员泄密至境外终被追责，被判赔偿 50 万",
-     "link": "https://www.ithome.com/1/012/799.htm",
-     "pubDate": "Wed, 14 Oct 2026 04:14:30 GMT",
-     "summary": "IT之家 10 月 14 日消息，米哈游法务部今日发文披露， 《原神》线下测试人员泄密至境外终被追责，被判赔偿 50 万。 近日，《原神》线下测试泄密未公开角色、活动信息商业秘密侵权案件迎来终审结果。法院二审驳回上诉，维持一审判决， 认定测试人员金某侵犯商业秘密，判令其停止侵权并赔偿米哈游经济损失及合理开支共计 50 万元 。 此前米哈游法务巡查发现，网络上出现了涉及《原神》4.4 版本多个未公开角色、道具、活动信息的相关图片，图片的标注为 Telegram 电报群“Chalice_Leaks”（现已关停）。 经调查，系游戏测试人员金某，在签署保密协议后受邀参与《原神》线下测试，协议明确约定不",
-     "source": "IT之家",
-     "zh": "米哈游法务部：《原神》线下测试人员泄密至境外终被追责，被判赔偿 50 万"
-    },
-    {
      "title": "今年的诺贝尔经济学奖，其实在讲一件很“人”的事",
      "link": "https://www.tmtpost.com/8167563.html",
      "pubDate": "Wed, 14 Oct 2026 12:13:16 +0800",
      "summary": "今年的诺贝尔经济学奖，其实在讲一件很“人”的事",
      "source": "钛媒体",
      "zh": "今年的诺贝尔经济学奖，其实在讲一件很“人”的事"
-    },
-    {
-     "title": "航班爆满、机票涨价，南航为什么还亏37亿？",
-     "link": "https://www.tmtpost.com/8167613.html",
-     "pubDate": "Wed, 14 Oct 2026 12:13:12 +0800",
-     "summary": "南航背后的矛盾生意经",
-     "source": "钛媒体",
-     "zh": "航班爆满、机票涨价，南航为什么还亏37亿？"
-    },
-    {
-     "title": "银行分化了",
-     "link": "https://www.tmtpost.com/8167559.html",
-     "pubDate": "Wed, 14 Oct 2026 12:02:08 +0800",
-     "summary": "利好大行的新规则",
-     "source": "钛媒体",
-     "zh": "银行分化了"
     },
     {
      "title": "Open letter: Geoffrey Hinton, Yoshua Bengio, and over 400 scientists call for an international body to oversee AI containment standards and incident reporting (Leo Marchandon/Reuters)",
@@ -1933,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "Is 'Attention' the Essence of Intelligence?",
      "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
      "pubDate": "Wed, 14 Oct 2026 03:10:25 +0000",
-     "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 19 # Comments: 4",
+     "summary": "Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/ Comments URL: https://news.ycombinator.com/item?id=50081930 Points: 26 # Comments: 11",
      "source": "Hacker News",
      "zh": "Is 'Attention' the Essence of Intelligence?"
     },
@@ -1954,76 +2018,12 @@ window.INDUSTRY_DATA = {
      "zh": "Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September&apos;s record of 972, which was already ~10x the normal monthly patch load (Brian Krebs/Krebs on Security)"
     },
     {
-     "title": "比“大公司”更稀缺的，是定义规则的人——30家中国行业先锋",
-     "link": "https://www.tmtpost.com/8167920.html",
-     "pubDate": "Wed, 14 Oct 2026 10:08:49 +0800",
-     "summary": "“Value Industry Benchmark 30·中国行业先锋30强”榜单发布：30家细分领域领军者。",
-     "source": "钛媒体",
-     "zh": "比“大公司”更稀缺的，是定义规则的人——30家中国行业先锋"
-    },
-    {
      "title": "Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains (Bloomberg)",
      "link": "https://www.techmeme.com/261013/p50#a261013p50",
      "pubDate": "Tue, 13 Oct 2026 21:35:02 -0400",
      "summary": "Bloomberg : Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains &nbsp; &mdash;&nbsp; Advanced humanoid hardware is one of the strategic high-tech fields where China has an early lead over the US.",
      "source": "Techmeme",
      "zh": "Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains (Bloomberg)"
-    },
-    {
-     "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-     "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-     "pubDate": "Wed, 14 Oct 2026 01:30:42 +0000",
-     "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-     "source": "TechCrunch",
-     "zh": "Justice Department says North Koreans have infiltrated dozens of U.S. companies"
-    },
-    {
-     "title": "I built a tool to track what AI leaders say and how their views change on video",
-     "link": "https://blumify.io/people",
-     "pubDate": "Wed, 14 Oct 2026 01:09:13 +0000",
-     "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 47 # Comments: 27",
-     "source": "Hacker News",
-     "zh": "I built a tool to track what AI leaders say and how their views change on video"
-    },
-    {
-     "title": "High-speed video reveals how honey bee stingers pump venom",
-     "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
-     "pubDate": "Wed, 14 Oct 2026 01:05:23 +0000",
-     "summary": "Article URL: https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/ Comments URL: https://news.ycombinator.com/item?id=50081133 Points: 39 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "High-speed video reveals how honey bee stingers pump venom"
-    },
-    {
-     "title": "Do Frameworks Matter Anymore?",
-     "link": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
-     "pubDate": "Wed, 14 Oct 2026 01:01:08 +0000",
-     "summary": "Article URL: https://brookslybrand.com/posts/do-frameworks-matter-anymore/ Comments URL: https://news.ycombinator.com/item?id=50081092 Points: 15 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Do Frameworks Matter Anymore?"
-    },
-    {
-     "title": "Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 (Bloomberg)",
-     "link": "https://www.techmeme.com/261013/p49#a261013p49",
-     "pubDate": "Tue, 13 Oct 2026 20:35:02 -0400",
-     "summary": "Bloomberg : Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 &nbsp; &mdash;&nbsp; An employee at OpenAI was arrested and charged with using a hidden recording device in one of the company's ",
-     "source": "Techmeme",
-     "zh": "Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 (Bloomberg)"
-    },
-    {
-     "title": "Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation (Rashi Shrivastava/Forbes)",
-     "link": "https://www.techmeme.com/261013/p48#a261013p48",
-     "pubDate": "Tue, 13 Oct 2026 20:05:01 -0400",
-     "summary": "Rashi Shrivastava / Forbes : Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation &nbsp; &mdash;&nbsp; Scientists at manufacturing conglomerates like Kenvue and Henkel use Albert Invent's AI too",
-     "source": "Techmeme",
-     "zh": "Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation (Rashi Shrivastava/Forbes)"
-    },
-    {
-     "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-     "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-     "pubDate": "Tue, 13 Oct 2026 23:17:59 +0000",
-     "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
-     "source": "WIRED",
-     "zh": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office"
     }
    ]
   },
@@ -2048,6 +2048,14 @@ window.INDUSTRY_DATA = {
      "summary": "Fast new lens adds a wider alternative to Sigma or Tamron's 17-70mm VS, while less expensive than own-brand optics.",
      "source": "DPReview",
      "zh": "Tamron’s 16-50mm F2.8 is a fast, sub-$550 kit lens replacement for every APS-C system"
+    },
+    {
+     "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
+     "link": "https://sspai.com/post/116109",
+     "pubDate": "Wed, 14 Oct 2026 11:57:01 +0800",
+     "summary": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ... 查看全文",
+     "source": "少数派",
+     "zh": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验"
     },
     {
      "title": "Android Auto 18 beta reveals Google’s next big car makeover",
@@ -2264,14 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "Welcome to episode 47 of The Sideload, a 9to5Google podcast. This week, Will is joined by 9to5Google’s own Ben Schoon and Android Authority’s Joe Maring for a roundtable discussion on a decade of Pixel phones and some speculation on what’s to come. Plus, we play a rapid-fire quiz game to see who can",
      "source": "9to5Google",
      "zh": "The Sideload 047: The highs and lows of Pixel at 10"
-    },
-    {
-     "title": "Gemini 4 Argon is finally here, and it’s not just for coders and developers",
-     "link": "https://www.androidauthority.com/gemini-4-argon-ai-model-launch-availability-3722792/",
-     "pubDate": "Tue, 13 Oct 2026 20:48:57 +0000",
-     "summary": "The new model promises better writing, less repetition, and fewer clichés.",
-     "source": "Android Authority",
-     "zh": "Gemini 4 Argon is finally here, and it’s not just for coders and developers"
     }
    ]
   },
@@ -2282,12 +2282,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Judge indefinitely extends block on Trump White House ban of three media outlets",
+     "title": "ASML Holding reports mixed Q3 results; gives Q4 and full-year outlook",
+     "link": "https://seekingalpha.com/news/4652746-asml-holding-reports-mixed-q3-results-gives-q4-and-full-year-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 01:04:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ASML Holding reports mixed Q3 results; gives Q4 and full-year outlook"
+    },
+    {
+     "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
      "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
-     "pubDate": "Wed, 14 Oct 2026 04:47:04 GMT",
+     "pubDate": "Wed, 14 Oct 2026 05:04:05 GMT",
      "summary": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
      "source": "CNBC",
-     "zh": "Judge indefinitely extends block on Trump White House ban of three media outlets"
+     "zh": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico"
+    },
+    {
+     "title": "BofA drops out of talks to arrange Moonshot AI's Hong Kong listing: report",
+     "link": "https://seekingalpha.com/news/4652741-bofa-drops-out-of-talks-to-arrange-moonshot-ais-hong-kong-listing-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 00:58:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BofA drops out of talks to arrange Moonshot AI's Hong Kong listing: report"
+    },
+    {
+     "title": "Targa Resources declares $1.25 dividend",
+     "link": "https://seekingalpha.com/news/4652742-targa-resources-declares-1_25-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 00:58:02 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Targa Resources declares $1.25 dividend"
+    },
+    {
+     "title": "Thor raises dividend by 4% to $0.54",
+     "link": "https://seekingalpha.com/news/4652743-thor-raises-dividend-by-4-to-054?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 00:57:55 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Thor raises dividend by 4% to $0.54"
+    },
+    {
+     "title": "国家医保局：加强医保目录和支付管理，强化医药价格管理",
+     "link": "http://www.eeo.com.cn/2026/1014/1063817.shtml",
+     "pubDate": "Wed, 14 Oct 2026 12:52:10 +0800",
+     "summary": "【国家医保局：加强医保目录和支付管理，强化医药价格管理】“国家医保局”微信号消息，2026年10月13日下午，国家医疗保障局党组召开会议。会议要求，要抓好各项重点工作。一要健全多层次医疗保障体系。二要为人民群众提供全生命周期保障。三要加强医保目录和支付管理。四要强化医药价格管理。五要提升医保服务管理质效。六要积极支持医药科技创新。（中新经纬APP）",
+     "source": "经济观察网",
+     "zh": "国家医保局：加强医保目录和支付管理，强化医药价格管理"
+    },
+    {
+     "title": "商务部：2027年化肥进口关税配额总量为1365万吨",
+     "link": "http://www.eeo.com.cn/2026/1014/1063816.shtml",
+     "pubDate": "Wed, 14 Oct 2026 12:52:10 +0800",
+     "summary": "【商务部：2027年化肥进口关税配额总量为1365万吨】商务部网站公布2027年化肥进口关税配额总量、分配原则及相关程序。2027年化肥进口关税配额总量为1365万吨。其中，尿素330万吨；磷酸氢二铵690万吨；复合肥345万吨。2027年化肥进口关税配额实行先来先领的分配方式。凡在工商行政管理部门登记注册的企业，在其经营范围内均可申请化肥进口关税配额。（中新经纬APP）",
+     "source": "经济观察网",
+     "zh": "商务部：2027年化肥进口关税配额总量为1365万吨"
+    },
+    {
+     "title": "海关总署：中国造“预制房”走红海外",
+     "link": "http://www.eeo.com.cn/2026/1014/1063815.shtml",
+     "pubDate": "Wed, 14 Oct 2026 12:52:08 +0800",
+     "summary": "10月14日，海关总署副署长王军在国新办新闻发布会上表示，精准洞察市场需求是民营企业开拓市场的制胜法宝之一。他举例指出，近年来，全球精致露营、户外度假热潮持续升温。我国民营企业开发出新型预制式帐篷房屋，以模块化组建，分批打包出口，运抵后简单拼装即可投入使用。产品设计新颖、质量过硬，走红海外。前三季度民营企业出口各类活动房屋，增长近三成。",
+     "source": "经济观察网",
+     "zh": "海关总署：中国造“预制房”走红海外"
+    },
+    {
+     "title": "China's September CPI rises 0.9% Y/Y, PPI accelerates to 5.0% above expectations",
+     "link": "https://seekingalpha.com/news/4652740-chinas-september-cpi-rises-09-yy-ppi-accelerates-to-50-above-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 00:48:11 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "China's September CPI rises 0.9% Y/Y, PPI accelerates to 5.0% above expectations"
     },
     {
      "title": "Microsoft’s Azure chief seeks at least 20% cost cuts - report",
@@ -2298,44 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "Microsoft’s Azure chief seeks at least 20% cost cuts - report"
     },
     {
-     "title": "Federal judge indefinitely blocks Trump’s ban on three media outlets",
-     "link": "https://seekingalpha.com/news/4652730-federal-judge-indefinitely-blocks-trumps-ban-on-three-media-outlets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 00:42:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Federal judge indefinitely blocks Trump’s ban on three media outlets"
-    },
-    {
-     "title": "China's September trade surplus widens to $133.53B; exports up 36.3%, imports up 31.0%",
-     "link": "https://seekingalpha.com/news/4652733-chinas-september-trade-surplus-widens-to-13353b-exports-up-363-imports-up-310?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 00:40:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "China's September trade surplus widens to $133.53B; exports up 36.3%, imports up 31.0%"
-    },
-    {
      "title": "9月重点商品出海数据出炉：集成电路同比暴增136% 手机环比大涨超九成",
      "link": "http://finance.eastmoney.com/news/1344,202610143895264117.html",
      "pubDate": "Wed, 14 Oct 2026 12:36:36 +0800",
      "summary": "海关总署今日公布的外贸数据显示，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。9月份进出口5.16万亿元，首次突破了5万亿元，增长27.5%。 从出口角度来看，以美元计，今年前三季度，我国出口总额为33707亿美元，同比增长21.3%。9月我国出口总额为4471.8亿美元，同比增长36.3%。 财联社整理重点商品出口金额变化情况发现： 9月，我国外贸出口在高端制造领域高景气度进一步延续，机电产品、高新技术产品增速再上台阶，集成电路、 自动数据处理 设备、 汽车 维持同比高增，手机环比大幅走强，多品类协同发力，持续成为拉动出口增长的核心引擎。 具体来看，机电产品出口298",
      "source": "东方财富资讯",
      "zh": "9月重点商品出海数据出炉：集成电路同比暴增136% 手机环比大涨超九成"
-    },
-    {
-     "title": "Saudi Aramco Dhahran HQ attacked; limited fire reported",
-     "link": "https://seekingalpha.com/news/4652738-saudi-aramco-dhahran-hq-attacked-limited-fire-reported?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 00:36:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Saudi Aramco Dhahran HQ attacked; limited fire reported"
-    },
-    {
-     "title": "AZZ beats top-line and bottom-line estimates; raises FY27 outlook",
-     "link": "https://seekingalpha.com/news/4652739-azz-beats-top-line-and-bottom-line-estimates-raises-fy27-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 00:32:53 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AZZ beats top-line and bottom-line estimates; raises FY27 outlook"
     },
     {
      "title": "20%涨停！资金突然涌入！文化传媒板块再度爆发涨停潮",
@@ -2368,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "周三核电概念走强， 华能国际 、 中国核电 等涨超3%； 中国广核 、 华电国际 等涨超2%。 IAEA：核电或具长期增长潜力 据上观新闻，截至今年7月底，我国在运及核准在建的核电机组合计达120台，总装机1.35亿千瓦，总体规模居世界第一，“华龙一号”、高温气冷堆、快堆、SMR（小型模块化反应堆）等多元技术路线并行攻关，完整的核电产业链正持续夯实核能新质生产力的根基。 国际方面，2026年9月14日，国际原子能机构（IAEA）发布年度展望报告《能源、 电力 与核电估算2060》，第六次上调全球核电装机容量预期。根据NEA2026年8月14日发布的《核能展望：2050年及以后全球装机容量》，在",
      "source": "东方财富资讯",
      "zh": "核电概念逆势走强！今年已进入装机投产高峰(附股)"
-    },
-    {
-     "title": "Trump claims Taiwan agreed to massive 20-year Alaska LNG deal",
-     "link": "https://seekingalpha.com/news/4652731-trump-claims-taiwan-agreed-to-massive-20-year-alaska-lng-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 00:18:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Trump claims Taiwan agreed to massive 20-year Alaska LNG deal"
     },
     {
      "title": "“三桶油”集体阶段新高！石油石化走强 融资客抢筹股曝光",
@@ -2416,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "10月14日，海关总署副署长王军在国新办新闻发布会上表示，今年前三季度，我国对美国贸易持续回升，进出口3.18万亿元，增长4.1%。",
      "source": "经济观察网",
      "zh": "海关总署：我国对美国贸易持续回升"
-    },
-    {
-     "title": "从大迫杰到基普乔格，马拉松赛场上还有另一场较量",
-     "link": "http://www.eeo.com.cn/2026/1014/1063750.shtml",
-     "pubDate": "Wed, 14 Oct 2026 12:12:48 +0800",
-     "summary": "当运动员冲向终点，运动品牌也在书写自己的故事。",
-     "source": "经济观察网",
-     "zh": "从大迫杰到基普乔格，马拉松赛场上还有另一场较量"
     },
     {
      "title": "印度央行救卢比掏空家底：外储骤降500亿美元，2000亿远期美元负债成定时炸弹",
@@ -2504,22 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "Imports soar by a third as high oil prices from Middle East conflict push up energy bill",
      "source": "Financial Times",
      "zh": "China’s exports surge 36% as AI-related shipments boom"
-    },
-    {
-     "title": "1393个岗位送到校门口 九龙坡区这场就业创业对接服务活动助力青年留渝来渝",
-     "link": "http://www.eeo.com.cn/2026/1014/1063706.shtml",
-     "pubDate": "Wed, 14 Oct 2026 11:52:11 +0800",
-     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/37432FB82351F788A6AF60600ABAA07A.png\" alt=\"活动现场。主办方 供图\" data-title=\"活动现场。主办方 供图\" data-target=\"2110201576523112449\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/ORIGINAL/MEDIA/PICTURE/2026/10/14/7a32f696aef24280b502a42bec",
-     "source": "经济观察网",
-     "zh": "1393个岗位送到校门口 九龙坡区这场就业创业对接服务活动助力青年留渝来渝"
-    },
-    {
-     "title": "首批俄柴油仅够美国一天需求，特朗普压油价交易遭现实检验",
-     "link": "https://wallstreetcn.com/articles/3783583",
-     "pubDate": "Wed, 14 Oct 2026 11:26:47 +0800",
-     "summary": "特朗普试图借俄罗斯柴油供应为美国燃料价格降温，但首批数量相对于美国需求几乎微不足道。这笔交易的市场意义，正在被供给规模，执行风险和价格反应同时检验。 据CNBC报道，特朗普上周五在Truth Social上称，俄罗斯将立即向全球市场供应30万吨柴油。按S&P Global Platts换算， 首批到货量约225万桶，只够覆盖美国一天多的柴油需求。 市场反应显示，交易员并未将其视为足以改变供需格局的增量供应。高盛周一估计，俄罗斯计划在10月和11月释放的柴油，只会令美国墨西哥湾沿岸和欧洲批发柴油价格每桶下降1至2美元。美国柴油期货周一仅收低约1美分，周二转而走高。 执行层面的不确定性同样突出。俄",
-     "source": "华尔街见闻",
-     "zh": "首批俄柴油仅够美国一天需求，特朗普压油价交易遭现实检验"
     }
    ]
   },

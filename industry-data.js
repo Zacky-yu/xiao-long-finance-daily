@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/14 21:06:41",
+ "generated_at": "2026/10/14 21:12:01",
  "recent_days": 7,
  "industries": [
   {
@@ -1314,6 +1314,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
+     "link": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/",
+     "pubDate": "Wed, 14 Oct 2026 13:09:21 +0000",
+     "summary": "When the European thermal-imagery company constellr began working with Space Inventor on its next generation of satellites, some of the most important details of the spacecraft had yet to be […] The post How mini-constellations could more quickly bring new tech to Europe, and to orbit appeared first",
+     "source": "SpaceNews",
+     "zh": "How mini-constellations could more quickly bring new tech to Europe, and to orbit"
+    },
+    {
      "title": "The 1st SpaceX Starship to survive a launch to space just came home to its launch site",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-1st-spacex-starship-to-survive-a-launch-to-space-just-came-home-to-its-launch-site",
      "pubDate": "Wed, 14 Oct 2026 13:00:00 +0000",
@@ -1402,20 +1410,20 @@ window.INDUSTRY_DATA = {
      "zh": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer"
     },
     {
-     "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
-     "link": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
-     "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
-     "summary": "This iconic spaceship will now live long and prosper in its brand-new Star Trek Tour home.",
-     "source": "Space.com",
-     "zh": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York"
-    },
-    {
      "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
      "link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
      "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
      "summary": "The sophomore season of \"Star Trek: Starfleet Academy\" will warp back to the small screen in March 2027 when the limited series returns for its final season on Paramount+.",
      "source": "Space.com",
      "zh": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier"
+    },
+    {
+     "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
+     "link": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
+     "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
+     "summary": "This iconic spaceship will now live long and prosper in its brand-new Star Trek Tour home.",
+     "source": "Space.com",
+     "zh": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York"
     },
     {
      "title": "Comparing Off-World Rover Driving Distances",
@@ -1544,14 +1552,6 @@ window.INDUSTRY_DATA = {
      "summary": "In this episode, a panel of industry experts discuss what’s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly […] The post What will it take to build a moon base? appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "What will it take to build a moon base?"
-    },
-    {
-     "title": "Crew-12 completes eight months mission at the ISS",
-     "link": "https://www.nasaspaceflight.com/2026/10/crew-12-return/",
-     "pubDate": "Wed, 07 Oct 2026 23:43:49 +0000",
-     "summary": "After eight months aboard the International Space Station, NASA and SpaceX’s Crew-12 mission undocked from… The post Crew-12 completes eight months mission at the ISS appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Crew-12 completes eight months mission at the ISS"
     }
    ]
   },
@@ -1786,12 +1786,76 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "科学家在虚拟细胞中为“最毒乳腺癌”患者试药……个性化医疗新范式雏形初显？",
+     "link": "https://www.huxiu.com/article/4897573.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 21:07:36 +0800",
+     "summary": "本文来自微信公众号： 世界科学 ，作者：编译 希区客 癌症治疗作为一门科学实践，目前仍欠缺精确性和可预测性，要求大量试错。 长在不同病人体内的同一类型肿瘤，可能表现得天差地别。对A患者有效的抗癌药物，用到B患者身上可能完全失灵。若有多种药物联合使用，不确定性还会叠加。另一方面，在试错过程中不断累积的副作用，会与持续增殖的肿瘤一起折磨病人身体。 正因治疗缺少精准度，患者才需要精准治疗，需要个性化、定制化的治疗。 医学界总在追求以更快速度定制癌症个性化治疗方案，如今，人工智能有望带来更快更好的方案。 今年9月，杭州西湖大学的研究团队于《自然》（Nature）杂志撰文，介绍了一款针对三阴性乳腺癌的A",
+     "source": "虎嗅",
+     "zh": "科学家在虚拟细胞中为“最毒乳腺癌”患者试药……个性化医疗新范式雏形初显？"
+    },
+    {
+     "title": "新黑马狂奔，Aritzia凭什么收入大涨44%？",
+     "link": "https://www.huxiu.com/article/4897572.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 21:05:25 +0800",
+     "summary": "本文来自微信公众号： LADYMAX ，作者：Drizzie，原文标题：《深度 | 新黑马狂奔，Aritzia凭什么收入大涨44%？》 任何寒冬下总有赢家。 据时尚商业快讯，截至8月30日的第二季度，加拿大时尚零售商Aritzia收入大涨44%至11.7亿加元，可比销售额增长34.5%，调整后EBITDA暴涨99.7%至2.46亿加元。 在全球服饰市场的艰难环境下，如此出色的高双位数增长业绩已经令人难以忽视，财报发布后该公司股价单日暴涨20%。 即使对中国市场而言，这个还未进入中国的海外品牌，也并非看不见的竞争，Alo已经提供了先例。虽然其对中国市场的扩张一直被视为迟缓，但该品牌在过去几个月密",
+     "source": "虎嗅",
+     "zh": "新黑马狂奔，Aritzia凭什么收入大涨44%？"
+    },
+    {
+     "title": "GlobalFoundries plans to build two \"essential chip\" plants in Malta, New York, backed by up to $21B from Japan; the US will take a 4% stake in GlobalFoundries (Bloomberg)",
+     "link": "https://www.techmeme.com/261014/p18#a261014p18",
+     "pubDate": "Wed, 14 Oct 2026 09:05:01 -0400",
+     "summary": "Bloomberg : GlobalFoundries plans to build two &ldquo;essential chip&rdquo; plants in Malta, New York, backed by up to $21B from Japan; the US will take a 4% stake in GlobalFoundries &nbsp; &mdash;&nbsp; GlobalFoundries Inc. plans to build two new chip plants with the backing of as much as $21 billi",
+     "source": "Techmeme",
+     "zh": "GlobalFoundries plans to build two \"essential chip\" plants in Malta, New York, backed by up to $21B from Japan; the US will take a 4% stake in GlobalFoundries (Bloomberg)"
+    },
+    {
+     "title": "技嘉 Z790/B760/H610 全系主板获 BIOS 更新：支持英特尔新一代 LGA1700 处理器 Raptor Lake Next",
+     "link": "https://www.ithome.com/1/013/097.htm",
+     "pubDate": "Wed, 14 Oct 2026 13:04:11 GMT",
+     "summary": "IT之家 10 月 14 日消息，技嘉今日宣布面向旗下全部 Z790、B760 及 H610 主板推出新版 BIOS，为英特尔即将推出的 LGA1700 处理器提供支持，涵盖 DDR4 与 DDR5 两种内存版本。 IT之家此前报道，技嘉已于 10 月 9 日宣布 B760 和 H610 系列获得支持，但当时 Z790 的缺席曾引发市场猜测，认为新处理器可能仅面向入门或工业级系统。 随着 Z790 被纳入支持名单，技嘉宣布成为业内首家在三大 700 系列芯片组上实现全面兼容的主板厂商（这一说法来自技嘉官方新闻稿）。 对于现有 LGA1700 平台的用户而言，此次更新的实际意义在于无需更换主板或",
+     "source": "IT之家",
+     "zh": "技嘉 Z790/B760/H610 全系主板获 BIOS 更新：支持英特尔新一代 LGA1700 处理器 Raptor Lake Next"
+    },
+    {
+     "title": "既接一单万件，也接一单一件：同一条产线的调度秘密",
+     "link": "https://www.huxiu.com/article/4897568.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 21:02:37 +0800",
+     "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 晚上十点半，你在手机上填完一组身体数据。 肩宽、胸围、后腰节、袖长、裤口，还有一个不确定该怎么量的部位。 十九个部位，二十二个数据。 七天后，一件只属于你的西装挂在门把手上，唛头上绣着姓氏。 同一条产线在上周刚下线三千件一模一样的衬衫。 这件事在过去是不成立的。 做大货和做定制，过去是两种相反的组织方式。 现在它们挤在同一条吊挂线上。 答案不在缝纫机上，在排产系统里。 ⑴贵的从来不是缝，是打版 一件定制衣服贵在哪里，多数人的第一反应是手工。 这个直觉是错的。 传统定制从量体到交付，通常要二十到五十个工作日。 这几十天里，真正用于缝制的时间只有几个",
+     "source": "虎嗅",
+     "zh": "既接一单万件，也接一单一件：同一条产线的调度秘密"
+    },
+    {
      "title": "R 星驳斥《GTA6》游戏制作成本超 15 亿美元传闻，但员工规模相比 2018 年已翻倍",
      "link": "https://www.ithome.com/1/013/096.htm",
      "pubDate": "Wed, 14 Oct 2026 13:02:30 GMT",
      "summary": "IT之家 10 月 14 日消息，据彭博社报道，Rockstar 发行部门负责人 Jennifer Kolbe 否认《GTA6》开发预算超 15 亿美元 （IT之家注：现汇率约合 100.58 亿元人民币） 的传闻。作为参考，这个数字是迪拜地标建筑哈利法塔的建造成本。 不过，R 星并没有真正说出《GTA6》的开发预算。据IT之家此前报道，《商业内幕》今年采访 R 星母公司 T2 首席执行官泽尔尼克时认为，本作开发预算大约在 10 亿美元-15 亿美元 （现汇率约合 67.05 亿元- 100.58 亿元人民币） 之间。 泽尔尼克拒绝说出这款游戏的投入成本， 只是说“很贵” 。 虽然官方并没有给",
      "source": "IT之家",
      "zh": "R 星驳斥《GTA6》游戏制作成本超 15 亿美元传闻，但员工规模相比 2018 年已翻倍"
+    },
+    {
+     "title": "失控的实习：从大一卷到毕业，为何依旧找不到工作",
+     "link": "https://www.huxiu.com/article/4897571.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 21:02:12 +0800",
+     "summary": "本文来自微信公众号： BeBeyond ，作者：关注你职业发展的 对今天的大学生来说，实习可能是大学期间最重要的一件事，甚至比上课还重要。 可能自己的未来过得好不好，都取决于大学做了几段实习、做了什么岗位的实习。 于是，大一就要开始规划职业发展，大二最好拥有一段像样的实习，大三、大四、研究生阶段要争取进入更有竞争力的平台。 甚至有新闻报道，一些刚刚结束高考的学生，已经在\"大零\"的暑假开启了自己的第一段实习。 当所有人都在往前跑时，没人敢停下来。 你可能并不确定自己喜欢什么行业，也不清楚不同岗位的日常工作究竟有什么区别，但你知道，如果现在什么都不做，简历上可能就会少一段经历。 于是，先找一份实习",
+     "source": "虎嗅",
+     "zh": "失控的实习：从大一卷到毕业，为何依旧找不到工作"
+    },
+    {
+     "title": "Formlabs Has a 3D Printer for Normies",
+     "link": "https://www.wired.com/story/formlabs-has-a-3d-printer-for-normies/",
+     "pubDate": "Wed, 14 Oct 2026 13:00:00 +0000",
+     "summary": "The Form Studio 1 is a $699 desktop-sized printer that fits on a desk and only stinks a little bit.",
+     "source": "WIRED",
+     "zh": "Formlabs Has a 3D Printer for Normies"
+    },
+    {
+     "title": "字节租下的那些机房，撑起了一家200亿美元的公司",
+     "link": "https://www.huxiu.com/article/4897569.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 20:58:04 +0800",
+     "summary": "本文来自微信公众号： 玖峰投研 ，作者：玖峰 2026年10月5日，一家总部在新加坡的公司向美国证券交易委员会递交了F-1注册文件，股票代码定为DODC，承销团是大摩、摩根大通、美银、花旗和法巴。 据彭博社和路透社引述知情人士的说法，这次上市计划募资约50亿美元，对应估值大约200亿美元。 公司名叫DayOne，做的是数据中心。 这个行业这两年在美国股市上很热，但真正让我停下来看这份招股书的，是另外几个数字。 截至2026年9月20日，DayOne已经通电的容量是962兆瓦，而在2023年底这个数字只有49兆瓦，三年不到翻了将近20倍。客户已经签下合同的容量约2.3吉瓦，来自7家全球超大规模客",
+     "source": "虎嗅",
+     "zh": "字节租下的那些机房，撑起了一家200亿美元的公司"
     },
     {
      "title": "茶百道，拿了瑞幸的剧本？",
@@ -1818,28 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "iQOO Neo12 手机官宣“十月底见”：pTSF 技术 2K 185Hz 超冠屏、第五代骁龙 8 至尊版芯片"
     },
     {
-     "title": "老百姓纯过日子，影响了谁的生意？",
-     "link": "https://www.huxiu.com/article/4897560.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 20:49:19 +0800",
-     "summary": "本文来自微信公众号： 灵兽 ，作者：十里 普通人不是不消费，而是拒绝为包装、故事和溢价买单。 1 消费祛魅 今年中秋，月饼的货架有些不一样。节前四五天，不少商超已经把月饼打到6到9折。美心那款双黄白莲蓉礼盒（740g），原价318，促销价238，降了快三成。 往年这个时候，高端礼盒还在争主陈列位。 从勤策消费研究的数据来看，2026年中秋期间，上千元的月饼礼盒销量同比下滑约76%；500元以上礼盒在常规渠道的占比，从2023年的7.2%一路掉到了1.8%。 但另一边，山姆、胖东来的自营月饼却要靠抢。 一边是高端礼盒清仓，一边是部分平价产品热销，说明遇冷的未必是月饼本身，而可能是某些产品的定价与",
-     "source": "虎嗅",
-     "zh": "老百姓纯过日子，影响了谁的生意？"
-    },
-    {
      "title": "格芯获选在纽约建设两座晶圆厂，与美国商务部达成协议调整 9.55 亿美元资助并为其额外分配约 4% 股权",
      "link": "https://www.ithome.com/1/013/091.htm",
      "pubDate": "Wed, 14 Oct 2026 12:48:25 GMT",
      "summary": "IT之家 10 月 14 日消息，格芯（GlobalFoundries，GF）刚刚宣布，公司已被选定为美国纽约州马耳他市两座新半导体制造工厂的技术提供商和运营方。 该项目是美日此前达成的 5,500 亿美元 （现汇率约合 3.69 万亿元人民币） 投资协议的一部分。除新工厂外，格芯还与美国商务部达成协议，重新调整其《芯片与科学法案》获得 9.55 亿美元资金，并为美国商务部分配约 4% 的格芯股权，使其在格芯的总持股比例升至约 7%。 该项目由美国与日本之间的贸易和投资协议推动，日本将提供最高 210 亿美元 （IT之家注：现汇率约合 1,408.06 亿元人民币） 投资，用于扩大美国本土半导",
      "source": "IT之家",
      "zh": "格芯获选在纽约建设两座晶圆厂，与美国商务部达成协议调整 9.55 亿美元资助并为其额外分配约 4% 股权"
-    },
-    {
-     "title": "美国《超级智能协议》：签了等于没签？",
-     "link": "https://www.huxiu.com/article/4897557.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 20:44:41 +0800",
-     "summary": "本文来自微信公众号： 数字经济发展评论 ，作者：数字经济发展评论 导语 美国外交关系协会（CFR）专家康纳·马丁近日发文，分析特朗普政府与六家美国AI企业签署的《超级智能安全协议》。作者认为，协议虽提出内部安全控制、独立第三方评估和董事会监督等措施，但缺乏法律约束力、明确责任和违规惩罚，难以改变企业竞相提升模型能力的商业动机。AI企业面临巨额投入、激烈竞争和资本市场压力，即使认同安全优先，也未必愿意放慢技术迭代。作者提出，真正有效的AI安全治理，需要赋予独立评估者充分权限和保障，明确企业责任，并通过法律、监管或司法诉讼提高安全违规成本，使企业有动力将安全置于竞争优势之前。 原文标题：Trump",
-     "source": "虎嗅",
-     "zh": "美国《超级智能协议》：签了等于没签？"
     },
     {
      "title": "奇瑞捷途全新旅行者 7 上市：燃油 / 插混版可选，超级焕新价 12.59 万元起",
@@ -1856,38 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "Duncan Riley / SiliconANGLE : Harmonic Security, which uses small language models to inspect employee interactions with AI tools, raised a $50M Series B, taking its total funding to $76M &nbsp; &mdash;&nbsp; Workplace artificial intelligence security startup Harmonic Security Inc. today announced it",
      "source": "Techmeme",
      "zh": "Harmonic Security, which uses small language models to inspect employee interactions with AI tools, raised a $50M Series B, taking its total funding to $76M (Duncan Riley/SiliconANGLE)"
-    },
-    {
-     "title": "苹果HomeView 上手汇总：“果家”首秀小惊艳，SiriAI 很聪明",
-     "link": "https://www.huxiu.com/article/4897556.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 20:36:11 +0800",
-     "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《苹果 HomeView 上手汇总：「果家」首秀小惊艳，SiriAI 很聪明》 就在昨天晚上，苹果一口气发布了一大堆「果家」新产品。 爱范儿也在第一时间给大家做了详细的新品汇总，刚刚，苹果HomeView发布！10+款「果家」新品，你能买到的只有一个，感兴趣可以自行跳转阅读。 但相信和我一样，最关注的一定是这个苹果从未有过的新产品形态——HomeView。 目前，这款产品并没有在中国大陆发售的上市的计划，不少朋友在看得眼馋的同时，肯定也跟我一样有同样的疑惑： 这东西跟iPad到底有啥区别？ HomeView，不是一台",
-     "source": "虎嗅",
-     "zh": "苹果HomeView 上手汇总：“果家”首秀小惊艳，SiriAI 很聪明"
-    },
-    {
-     "title": "半价 4999 元：海尔云溪 4.0 顶配版 77E 洗烘套装 11.11 官方直降",
-     "link": "https://www.ithome.com/1/013/088.htm",
-     "pubDate": "Wed, 14 Oct 2026 12:33:23 GMT",
-     "summary": "海尔 77E 洗烘套装（云溪 4.0 顶配版）定价 9998 元，今日官方旗舰店 11.11 五折仅需 4999 元即可入手。 下单前 需咨询客服“是 4999 元吗” ，客服可能会让下单待支付（选择微信支付 不付款 即可），然后把订单发给客服，客服登记后到货返差价。 京东 海尔 77E 洗烘套装 云溪 4.0 顶配版 返差价后 4999 元 领 500 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 官方对比： 产品参数 京东 海尔 77E 洗烘套装 云溪 4.0 顶配版 返差价后 4999 元 领 500 元券",
-     "source": "IT之家",
-     "zh": "半价 4999 元：海尔云溪 4.0 顶配版 77E 洗烘套装 11.11 官方直降"
-    },
-    {
-     "title": "快递“反内卷”这一年：向钱看、向人看、向前看",
-     "link": "https://www.huxiu.com/article/4897555.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 20:32:41 +0800",
-     "summary": "本文来自微信公众号： 驿站 ，作者：驿站老鬼 这场自上而下的反内卷，究竟改变了什么，又还有哪些东西没被改变？最终会走向何处？ 2026.10.14 热词是时代的印记，也印着行业的伤疤。 过去，在快递行业的痛点之上，蹦得最欢的热词是“价格战”。现如今，最热的一个词，也是众望所归的主题，莫过于“反内卷”。 一年多前的那个7月，一场声势浩大的“反内卷”浪潮在快递江湖快速席卷，激起了一连串的连锁反应。彼时，从高层定调到监管亮剑，从快递企业总部到末端网点，一场前所未有的“反内卷大会战”全面打响。紧随而至的，是中国快递行业十年未有之大变局。 当内卷的怨念持续厚积，反内卷的势能也会越来越高。在当下，一个显见",
-     "source": "虎嗅",
-     "zh": "快递“反内卷”这一年：向钱看、向人看、向前看"
-    },
-    {
-     "title": "净息差刚刚回稳，部分中小银行开始提高大额存单利率",
-     "link": "https://www.huxiu.com/article/4897553.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 20:30:05 +0800",
-     "summary": "本文来自微信公众号： 经济观察报 ，作者：陈植 中小银行调高大额存单发行利率，还有一个深层次原因——中小银行在拓展企业工资代发、资金结算业务方面遇阻，导致存款结构优化与低息活期存款占比提升步伐缓慢，便选择发行高息存款产品稳住负债端资金。 近日，唐玮多次与计划财务部讨论，是否将四季度拟发的3年期大额存单利率从1.8%调高至2%。 作为一家华东地区农商行的存款业务负责人，唐玮此前忙于压降存款利率，维护净息差触底回升的局面。 “若不跟进调高3年期大额存单发行利率，客户存款又将面临流失压力。”唐玮告诉记者。 唐玮说，调高大额存单发行利率势必拖累净息差，但目前更要关注存款流失风险。受8月大型银行相继发行",
-     "source": "虎嗅",
-     "zh": "净息差刚刚回稳，部分中小银行开始提高大额存单利率"
     },
     {
      "title": "US law enforcement and intel agency docs: since 2021, the FBI, DHS, and NYPD have viewed AI as both a facilitator of violent extremism and a target for attacks (The Guardian)",
@@ -1962,14 +1978,6 @@ window.INDUSTRY_DATA = {
      "zh": "Inside the making of Rockstar&apos;s GTA VI, which analysts expect to sell 40M copies and make $3B+ in revenue in its first four months; Rockstar now has 4,711 staff (Jason Schreier/Bloomberg)"
     },
     {
-     "title": "Analysis: AI safety groups and individual donors have spent $48M in the midterm election cycle across bipartisan races to back candidates favoring AI regulation (Maria Curi/Axios)",
-     "link": "https://www.techmeme.com/261014/p12#a261014p12",
-     "pubDate": "Wed, 14 Oct 2026 07:00:43 -0400",
-     "summary": "Maria Curi / Axios : Analysis: AI safety groups and individual donors have spent $48M in the midterm election cycle across bipartisan races to back candidates favoring AI regulation &nbsp; &mdash;&nbsp; Advocates for AI safety and regulation are emerging as a force in U.S. elections, spending nearly",
-     "source": "Techmeme",
-     "zh": "Analysis: AI safety groups and individual donors have spent $48M in the midterm election cycle across bipartisan races to back candidates favoring AI regulation (Maria Curi/Axios)"
-    },
-    {
      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
      "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
      "pubDate": "Wed, 14 Oct 2026 11:00:30 +0000",
@@ -2016,14 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "一张通往未来的门票",
      "source": "钛媒体",
      "zh": "万元级人形机器人，只是“赛博玩具”？"
-    },
-    {
-     "title": "康方生物折价配股：钱拿到了，股价却砸了",
-     "link": "https://www.tmtpost.com/8168521.html",
-     "pubDate": "Wed, 14 Oct 2026 18:30:39 +0800",
-     "summary": "还没等港股开盘，康方生物的投资者就遭遇“当头棒喝”。",
-     "source": "钛媒体",
-     "zh": "康方生物折价配股：钱拿到了，股价却砸了"
     }
    ]
   },
@@ -2033,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The Legend of Zelda: Ocarina of Time remake plays even better than it looks",
+     "link": "https://www.engadget.com/2285785/the-legend-of-zelda-ocarina-of-time-preview/",
+     "pubDate": "Wed, 14 Oct 2026 13:00:00 +0000",
+     "summary": "Link is getting a lot more than just a visual glow up for the new Switch 2 version.",
+     "source": "Engadget",
+     "zh": "The Legend of Zelda: Ocarina of Time remake plays even better than it looks"
+    },
     {
      "title": "Honor confirms massive batteries for Win2 and Win RT2",
      "link": "https://www.gsmarena.com/honor_win2_and_win_rt2_battery_capacities_revealed_and_theyre_massive-news-75033.php",
@@ -2162,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "People are hating on Apple Music's redesigned black-and-white logo"
     },
     {
-     "title": "Qualcomm wins lawsuit against Arm but will only receive two bucks",
-     "link": "https://www.engadget.com/2286281/arm-must-pay-qualcomm-2-license-breach-lawsuit/",
-     "pubDate": "Wed, 14 Oct 2026 09:42:14 +0000",
-     "summary": "A jury found that Arm breached its agreement with Qualcomm and interfered with its business, but Arm only has to pay $2 in damages.",
-     "source": "Engadget",
-     "zh": "Qualcomm wins lawsuit against Arm but will only receive two bucks"
-    },
-    {
      "title": "Samsung Health update improves Sleep Coaching and Running Coach",
      "link": "https://www.gsmarena.com/samsung_health_update_improves_sleep_coaching_and_running_coach-news-75037.php",
      "pubDate": "Wed, 14 Oct 2026 11:37:02 +0200",
@@ -2284,10 +2284,74 @@ window.INDUSTRY_DATA = {
     {
      "title": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket",
      "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-     "pubDate": "Wed, 14 Oct 2026 13:02:35 GMT",
+     "pubDate": "Wed, 14 Oct 2026 13:06:23 GMT",
      "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
      "source": "CNBC",
      "zh": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket"
+    },
+    {
+     "title": "Bassett Furniture declares $0.20 dividend",
+     "link": "https://seekingalpha.com/news/4652892-bassett-furniture-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 09:02:55 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bassett Furniture declares $0.20 dividend"
+    },
+    {
+     "title": "AEP to spend $4B on Wyoming fuel cell project under 20-year Google PPA",
+     "link": "https://seekingalpha.com/news/4652886-aep-to-spend-4b-on-wyoming-fuel-cell-project-under-20-year-google-ppa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 09:01:55 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AEP to spend $4B on Wyoming fuel cell project under 20-year Google PPA"
+    },
+    {
+     "title": "美元指数触及18个月来新高",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895697511.html",
+     "pubDate": "Wed, 14 Oct 2026 21:01:47 +0800",
+     "summary": "美元指数触及18个月来新高，最新上涨0.57%，报102.75点。",
+     "source": "东方财富股票",
+     "zh": "美元指数触及18个月来新高"
+    },
+    {
+     "title": "空客首席执行官：市场显然对A220和A350飞机的加长版有需求",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895699428.html",
+     "pubDate": "Wed, 14 Oct 2026 21:01:38 +0800",
+     "summary": "空客首席执行官：市场显然对A220和A350飞机的加长版有需求。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "空客首席执行官：市场显然对A220和A350飞机的加长版有需求"
+    },
+    {
+     "title": "分析师：美联储主席沃什的渐进加息策略受考验",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895698352.html",
+     "pubDate": "Wed, 14 Oct 2026 21:01:37 +0800",
+     "summary": "分析师Colby Smith表示，在9月CPI报告公布之前，美联储官员们似乎一致认为，目前没有必要连续加息。在9月如期加息后，这表明他们可能会推迟在10月的会议上加息，而10月会议正值政治敏感时期，距离中期选举仅剩几天。但在这份通胀报告发布后，美联储主席沃什将面临压力，需要解释为何在物价压力不断上升之际，美联储仍采取渐进式加息策略。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "分析师：美联储主席沃什的渐进加息策略受考验"
+    },
+    {
+     "title": "美国银行首席财务官：银行将继续投资于技术现代化、人工智能、市场营销和增长",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895698030.html",
+     "pubDate": "Wed, 14 Oct 2026 21:01:37 +0800",
+     "summary": "美国银行 首席财务官： 银行 将继续投资于技术现代化、 人工智能 、市场营销和增长。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "美国银行首席财务官：银行将继续投资于技术现代化、人工智能、市场营销和增长"
+    },
+    {
+     "title": "现货白银日内跌幅扩大至3%",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895698138.html",
+     "pubDate": "Wed, 14 Oct 2026 21:01:30 +0800",
+     "summary": "现货 白银 日内跌幅扩大至3%，报57.36美元/盎司。",
+     "source": "东方财富股票",
+     "zh": "现货白银日内跌幅扩大至3%"
+    },
+    {
+     "title": "斩获二连板！航发科技提示风险",
+     "link": "http://stock.eastmoney.com/news/11215,202610143895696871.html",
+     "pubDate": "Wed, 14 Oct 2026 21:01:00 +0800",
+     "summary": "10月14日晚间，在二级市场斩获两连板的 航发科技 （600391）发布股票交易异常波动公告，其中显示，公司股票于10月13日、10月14日连续两个交易日收盘价格涨幅偏离值累计达到20%，属于股票交易异常波动情形。 交易行情显示，10月13日、14日， 航发科技 接连两个交易日涨停收盘。截至10月14日收盘， 航发科技 股价收于涨停价42.66元/股，总市值140.8亿元。 航发科技表示，经公司自查，公司日常经营情况正常，市场环境、行业政策不存在重大调整。公司未出现其他可能对公司股价产生较大影响的重大事件；未发现需要澄清或回应的媒体报道或市场传闻。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "斩获二连板！航发科技提示风险"
     },
     {
      "title": "Implanet S.A. reports Q3 results",
@@ -2306,60 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "4 stocks to watch on Wednesday: PG, MS, NFLX, and ASML"
     },
     {
-     "title": "【调研快报】云意电气接待宏利基金管理有限公司等25家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610143895693434.html",
-     "pubDate": "Wed, 14 Oct 2026 20:56:33 +0800",
-     "summary": "云意电气 10月14日公告称， 10月12日 接待宏利基金管理有限公司 等25家机构 调研。 接待人员包括董事 李成忠,董事会秘书 梁超,技术研发负责人 杨梓,证券事务代表 夏伊彤。 公司就以下问题进行了回复： 本次交流活动的主要问答整理如下: Q1:SOFC的产业价值与需求来源是什么? 答: 电力 已成为算力发展的核心约束,传统集中式供电难以匹配 数据中心 (AIDC)爆发式增长的用电需求,分布式增量电源成为重要补充。AIDC建设呈现深度直流化、一体化建设及通电时效重要性提升等结构性变化,为SOFC创... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操",
-     "source": "东方财富股票",
-     "zh": "【调研快报】云意电气接待宏利基金管理有限公司等25家机构调研"
-    },
-    {
      "title": "US inflation jumps to 3.7% as Iran war drives up prices",
      "link": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
      "pubDate": "Wed, 14 Oct 2026 12:56:18 GMT",
      "summary": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
      "source": "Financial Times",
      "zh": "US inflation jumps to 3.7% as Iran war drives up prices"
-    },
-    {
-     "title": "陕西煤业：每10股派0.58元，股权登记日为10月21日",
-     "link": "http://stock.eastmoney.com/news/11215,202610143895695049.html",
-     "pubDate": "Wed, 14 Oct 2026 20:56:00 +0800",
-     "summary": "上证智讯 10月14日， 陕西煤业 发布2026年半年度权益分派实施公告称，本次利润分配以方案实施前的公司总股本96.95亿股为基数，每股派发现金红利0.058元（含税），共计派发现金红利约5.62亿元。本次权益分派不涉及差异化分红送转。股权登记日为2026年10月21日，除权（息）日为2026年10月22日，现金红利发放日为2026年10月22日。 （文章来源：上海证券报·中国证券网）",
-     "source": "东方财富股票",
-     "zh": "陕西煤业：每10股派0.58元，股权登记日为10月21日"
-    },
-    {
-     "title": "分析师：核心通胀超预期 通胀或已根深蒂固",
-     "link": "http://finance.eastmoney.com/news/1351,202610143895694071.html",
-     "pubDate": "Wed, 14 Oct 2026 20:55:38 +0800",
-     "summary": "First Citizens Bank Wealth Management市场与经济研究主管菲利普·诺伊哈特表示，今天强于预期的核心通胀数据让10月FOMC利率决定重新成为焦点，出人意料的高核心通胀使讨论从能源驱动的暂时性飙升转向根深蒂固的通胀。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "分析师：核心通胀超预期 通胀或已根深蒂固"
-    },
-    {
-     "title": "CPI公布后美联储10月加息概率升至43.7%",
-     "link": "http://finance.eastmoney.com/news/1351,202610143895693931.html",
-     "pubDate": "Wed, 14 Oct 2026 20:55:37 +0800",
-     "summary": "美国9月CPI数据公布后，据CME“美联储观察”：美联储到10月维持利率不变的概率为56.3%，累计加息25个基点的概率为43.7%。美联储到12月维持利率不变的概率为4.3%，累计加息25个基点的概率55.3%，累计加息50个基点的概率为40.4%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "CPI公布后美联储10月加息概率升至43.7%"
-    },
-    {
-     "title": "【调研快报】鲁西化工接待淡水泉投资调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610143895692727.html",
-     "pubDate": "Wed, 14 Oct 2026 20:55:31 +0800",
-     "summary": "鲁西化工 10月14日公告称， 10月14日 接待淡水泉投资 调研。 接待人员包括董事会秘书 刘月刚,证券事务代表 柳青。 公司就以下问题进行了回复： 互动沟通主要内容如下: 一、介绍公司近期生产经营情况 近期园区整体生产经营情况正常,公司持续严抓生产企业的安全管控,确保生产企业长周期稳定运行,按照年初确定的目标,大力度开展节能降耗、提质增效,进一步增强园区化优势。 近期因石油价格变化波动等原因,导致部分 化工原料 价格波动变化较快,部分化工产品价格变... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，",
-     "source": "东方财富股票",
-     "zh": "【调研快报】鲁西化工接待淡水泉投资调研"
-    },
-    {
-     "title": "美国CPI公布后美联储10月加息概率升至43.7% 较数据公布前翻倍",
-     "link": "http://finance.eastmoney.com/news/1346,202610143895695454.html",
-     "pubDate": "Wed, 14 Oct 2026 20:55:23 +0800",
-     "summary": "CME FedWatch工具显示，交易员对美联储10月加息25个基点的押注继续升温，加息概率升至43.7%，维持利率不变的概率降至56.3%。相比美国9月CPI数据公布前，加息概率已由21.6%上升22.1个百分点。美国9月CPI同比上涨3.7%，高于市场预期的3.6%，进一步推升市场对美联储本月加息的预期。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国CPI公布后美联储10月加息概率升至43.7% 较数据公布前翻倍"
     },
     {
      "title": "State Street Q3 earnings as fee revenue disappoint; stock trades down",
@@ -2378,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "Accenture rises as mid-term growth targets point to stronger FY29 outlook"
     },
     {
-     "title": "EON Resources reports Q1 results",
-     "link": "https://seekingalpha.com/news/4652888-eon-resources-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 08:54:22 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "EON Resources reports Q1 results"
-    },
-    {
      "title": "Bank of America shares drop 7% after third-quarter revenue miss and regulatory penalty",
      "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
      "pubDate": "Wed, 14 Oct 2026 12:54:01 GMT",
@@ -2394,12 +2402,36 @@ window.INDUSTRY_DATA = {
      "zh": "Bank of America shares drop 7% after third-quarter revenue miss and regulatory penalty"
     },
     {
-     "title": "IonQ seeks nearly $2B in net proceeds from stock, warrant offering",
-     "link": "https://seekingalpha.com/news/4652885-ionq-seeks-nearly-2b-in-net-proceeds-from-stock-warrant-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 08:53:29 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "IonQ seeks nearly $2B in net proceeds from stock, warrant offering"
+     "title": "中国人民银行征信中心发布声明",
+     "link": "http://www.eeo.com.cn/2026/1014/1064527.shtml",
+     "pubDate": "Wed, 14 Oct 2026 20:52:19 +0800",
+     "summary": "中国人民银行征信中心10月14日发布关于动产融资统一登记服务的声明称，近日发现有市场机构通过“智*中登查询”“智*中登系统”等信息服务产品，宣称提供动产和权利担保登记、查询服务，相关产品或服务名称包含“中登”字样。",
+     "source": "经济观察网",
+     "zh": "中国人民银行征信中心发布声明"
+    },
+    {
+     "title": "【环球财经】阿斯麦公司第三季度总销售额环比增长25%",
+     "link": "http://www.eeo.com.cn/2026/1014/1064526.shtml",
+     "pubDate": "Wed, 14 Oct 2026 20:52:17 +0800",
+     "summary": "新华财经海牙10月14日电（记者邵海军 李弘）荷兰半导体设备制造商阿斯麦公司14日说，今年第三季度该公司总销售额达117亿欧元，环比增长25%。 阿斯麦公司当天发布的季报显示，第三季度公司净利润约50亿欧元，...",
+     "source": "经济观察网",
+     "zh": "【环球财经】阿斯麦公司第三季度总销售额环比增长25%"
+    },
+    {
+     "title": "光刻机供需持续紧张，ASML单季业绩创新高",
+     "link": "http://www.eeo.com.cn/2026/1014/1064525.shtml",
+     "pubDate": "Wed, 14 Oct 2026 20:52:14 +0800",
+     "summary": "21世纪经济报道 彭新 “客户普遍认为短期市场需求将继续增长，且需求周期正在进一步延长，预计至少到2028年，行业仍将处于供不应求的状态。”10月14日，荷兰光刻机巨头ASML总裁兼首席执行官傅恪礼（Christophe Fouquet）在2026年第三季度财报视频访谈中表示，基于对人工智能（AI）相关投资规模及扩产周期的判断，客户正加快包括新建晶圆厂在内的产能扩张计划。 受益于AI驱动的先进逻辑与存储芯片扩产潮，ASM...",
+     "source": "经济观察网",
+     "zh": "光刻机供需持续紧张，ASML单季业绩创新高"
+    },
+    {
+     "title": "觅蜂科技联合高校研发新技术 提升具身智能训练数据重建精度",
+     "link": "http://www.eeo.com.cn/2026/1014/1064524.shtml",
+     "pubDate": "Wed, 14 Oct 2026 20:52:12 +0800",
+     "summary": "本报讯 （记者金婉霞）日前，上海觅蜂具身智能科技有限公司（以下简称“觅蜂科技”）联合西北工业大学、西安交通大学发表研究论文，提出第一视角运动重建框架“MEgoVista”，旨在将第一视角视频转化为具有真实尺度的三维手部动作和头部运动轨迹，为具身智能模型训练提供更精准的数据支持。 第一视角视频是具身智能预训练的重要数据来源之一。通过佩戴式摄像设备，可以记录人们在真实生活和工作场景中的操作过程。然而，如...",
+     "source": "经济观察网",
+     "zh": "觅蜂科技联合高校研发新技术 提升具身智能训练数据重建精度"
     },
     {
      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
@@ -2477,7 +2509,7 @@ window.INDUSTRY_DATA = {
      "title": "市场加大对10月美联储加息的押注",
      "link": "http://finance.eastmoney.com/news/1345,202610143895660552.html",
      "pubDate": "Wed, 14 Oct 2026 20:34:57 +0800",
-     "summary": "交易员增加对10月美联储加息的押注，同时预计到2027年底美联储还将加息三次。 （文章来源：财联社）",
+     "summary": "交易员增加对10月美联储加息的押注，同时预计到2027年底美联储还将加息三次。 相关报道 美国CPI公布后美联储10月加息概率升至43.7% 较数据公布前翻倍 CME FedWatch工具显示，交易员对美联储10月加息25个基点的押注继续升温，加息概率升至43.7%，维持利率不变的概率降至56.3%。相比美国9月CPI数据公布前，加息概率已由21.6%上升22.1个百分点。美国9月CPI同比上涨3.7%，高于市场预期的3.6%，进一步推升市场对美联储本月加息的预期。 （文章来源：财联社）",
      "source": "东方财富资讯",
      "zh": "市场加大对10月美联储加息的押注"
     },
@@ -2488,38 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国9月消费者价格指数（CPI）同比增长3.7%，预估为3.6%，前值为3.4%。9月CPI环比增长0.6%，预估0.6%。 美国9月核心CPI同比增长2.6%，预估为2.5%，前值为2.4%。9月核心CPI环比增长0.3%，预估为0.2%，前值为0.3%。 交易员增加对10月美联储加息的押注，同时预计到2027年底美联储还将加息三次。 数据发布后，现货 黄金 日内跌幅扩大至1%，报4119.03美元/盎司。现货 白银 日内跌幅扩大至2%，报57.81美元/盎司。 美元指数短线拉升约30点，现报102.52。美股 期货 短线走低，三大股指 期货 均转跌。美国10年期国债收益率短线拉升，现报5.",
      "source": "东方财富资讯",
      "zh": "美国9月CPI高于预期 10月加息押注升温！黄金、白银直线跳水"
-    },
-    {
-     "title": "通胀全面走热！美国9月CPI同比3.7%，核心CPI同比2.6%超预期，10月加息预期飙升",
-     "link": "https://wallstreetcn.com/articles/3783634",
-     "pubDate": "Wed, 14 Oct 2026 20:30:26 +0800",
-     "summary": "美国通胀数据全面走热，加息预期骤然升温，金融市场承压。 美国劳工统计局周三公布数据显示，9月消费者价格指数（CPI）同比上涨3.7%，高于市场预期的3.6%，较前值3.4%进一步扩大。 核心CPI同比上涨2.6%，同样超出预期的2.5%，前值为2.4%。这是美国消费者价格五个月来最快的涨幅，通胀压力的持续性超出市场此前预判。 环比方面，美国9月CPI环比上涨0.6%，与预期持平，前值为0.4%。核心CPI环比上涨0.3%，高于预期的0.2%，与前值持平。 数据公布后，金融市场迅速作出反应。美元指数短线拉升约30点，美国10年期国债收益率同步走高，美股三大股指期货均转跌，现货黄金短线下挫约30美",
-     "source": "华尔街见闻",
-     "zh": "通胀全面走热！美国9月CPI同比3.7%，核心CPI同比2.6%超预期，10月加息预期飙升"
-    },
-    {
-     "title": "2026“险资入蒙”暨算电协同产融对接会在内蒙古呼和浩特市开幕",
-     "link": "http://www.eeo.com.cn/2026/1014/1064515.shtml",
-     "pubDate": "Wed, 14 Oct 2026 20:26:12 +0800",
-     "summary": "本报讯 （记者马宇薇）10月14日，2026“险资入蒙”暨算电协同产融对接会在内蒙古呼和浩特市开幕。本次活动旨在深入落实国家“东数西算”工程与内蒙古自治区党委“1571”工作部署，引导保险长期资本精准投向算力新基建等重点领域，是内蒙古首次纳入全国“险资入省”序列的专项产融对接活动。该活动由内蒙古自治区党委金融办联合呼和浩特、包头、乌兰察布三市主办，全国40余家保险机构、内蒙古区内40余家重点企业负责人参会。 ...",
-     "source": "经济观察网",
-     "zh": "2026“险资入蒙”暨算电协同产融对接会在内蒙古呼和浩特市开幕"
-    },
-    {
-     "title": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?",
-     "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 12:15:00 GMT",
-     "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-     "source": "MarketWatch",
-     "zh": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?"
-    },
-    {
-     "title": "7760亿千瓦时！广东前三季度全社会用电量同比增长7.67%",
-     "link": "http://www.eeo.com.cn/2026/1014/1064514.shtml",
-     "pubDate": "Wed, 14 Oct 2026 20:13:13 +0800",
-     "summary": "南方财经记者朱治宣 10月14日，南方财经记者从南方电网广东电网公司了解到，今年前三季度，全省全社会用电量达7759.96亿千瓦时，同比增长7.67%。其中，第三季度用电量达3045.14亿千瓦时，占前三季度用电总量的近四成，展现出持续上扬的能源需求态势。 制造业同比增长6.65% 广东作为制造业大省，三季度“广东制造”亮点纷呈。作为拉动工业用电增长的“主引擎”，今年前三季度制造业用电量达3580.66亿千瓦时...",
-     "source": "经济观察网",
-     "zh": "7760亿千瓦时！广东前三季度全社会用电量同比增长7.67%"
     }
    ]
   },

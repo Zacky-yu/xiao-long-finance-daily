@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/14 11:11:51",
+ "generated_at": "2026/10/14 11:32:24",
  "recent_days": 7,
  "industries": [
   {
@@ -1786,28 +1786,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "2 年周期已满：微软 Win11 24H2 家庭版和专业版结束支持",
-     "link": "https://www.ithome.com/1/012/756.htm",
-     "pubDate": "Wed, 14 Oct 2026 03:08:21 GMT",
-     "summary": "IT之家 10 月 14 日消息，在本月补丁星期二活动日（10 月 13 日）中， 微软宣布 Windows 11 24H2 家庭版和专业版、Office LTSC 2021、Visio LTSC 2021 和 Project LTSC 2021 结束支持。 IT之家注：Windows 11 24H2 家庭版与专业版于 2024 年 10 月发布，更新周期为 24 个月（2 年）。微软此前已向仍在使用 24H2 家庭版与专业版的用户发出 90 天升级提醒。自支持终止之日起，这些版本不再获得常规更新，也不再接收安全修复。 Windows 11 24H2 家庭版与专业版没有扩展安全更新（ESU）计",
+     "title": "Mozilla 推出企业版火狐浏览器 Firefox Enterprise",
+     "link": "https://www.ithome.com/1/012/764.htm",
+     "pubDate": "Wed, 14 Oct 2026 03:25:29 GMT",
+     "summary": "IT之家 10 月 14 日消息，Mozilla 当地时间本月 12 日宣布推出企业版火狐浏览器 Firefox Enterprise。此举旨在满足全球（尤其是欧洲）企业客户对数字主权的需求。 Mozilla 强调 Firefox 基于当前唯一的独立主要浏览器引擎 Gecko ，这意味机构可以通过另一途径来减少对单一架构的依赖。 Firefox Enterprise 专为具有严格安全、治理、合规要求的组织而打造， 将 Firefox 与组织可在自身基础设施上运行的管理控制台相结合 。通过该控制台，IT 团队可以集中管理浏览器策略和访问权限，控制数据在浏览器中的传输方式，并设置 AI 使用的相关",
      "source": "IT之家",
-     "zh": "2 年周期已满：微软 Win11 24H2 家庭版和专业版结束支持"
+     "zh": "Mozilla 推出企业版火狐浏览器 Firefox Enterprise"
     },
     {
-     "title": "ikbc 光盒 87 键盘新增磁轴版本，到手价 349 元起",
-     "link": "https://www.ithome.com/1/012/755.htm",
-     "pubDate": "Wed, 14 Oct 2026 03:07:10 GMT",
-     "summary": "IT之家 10 月 14 日消息，ikbc 今年本月推出了搭载机械触点式开关、支持三模连接的光盒 87 键盘。而在昨日，该企业又追加推出磁轴版本的光盒 87。 光盒 87 磁轴版采用雾透效果键帽与机身，集成按键背光、前后双灯带、立体按键指示灯， 塑造全景式桌面氛围灯效 。 其采用 TKL (80%) 配列，内部为 7 层填充 Gasket 结构，采用铝合金定位板； 支持 8kHz 回报率、32kHz 全键扫描率 ；PCB 支持轴体热插拔，预装“炫酷磁轴”。 光盒 87 磁轴版可选单模与双模版本，后者集成 1000mAh 电池，Rapid Trigger 精度则有 0.005mm 和 0.001",
-     "source": "IT之家",
-     "zh": "ikbc 光盒 87 键盘新增磁轴版本，到手价 349 元起"
+     "title": "政治赎买：旧权力的价格与新国家的难产",
+     "link": "https://www.huxiu.com/article/4897339.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 11:24:19 +0800",
+     "summary": "本文来自微信公众号： 智本社 ，作者：清和社长，题图来自：视觉中国 一个国家，怎样从一家一姓一集团势力的王朝/帝国，转变为全体国民的政治共同体&mdash;&mdash;现代民族国家？ 通常的答案有法式革命，即用激进暴力的方式推翻旧统治；还有英式改革，通过相对温和博弈的方式继承传统、改革制度。历史似乎还提供了值得探索的第三条路径： 民众以经济补偿换取旧统治者实际放弃统治权，姑且称之为&ldquo;政治赎买&rdquo;。 政治赎买，并非简单地认为，民众可以平等自由地从统治者手上购得主权，历史上它往往与战争、革命、政变、改革深度交错。如辛亥革命包含革命特殊条件下的赎买，&ldquo;光荣革命&r",
+     "source": "虎嗅",
+     "zh": "政治赎买：旧权力的价格与新国家的难产"
     },
     {
-     "title": "《云顶之弈》迁移至虚幻引擎后 Bug 频出，《英雄联盟》官方致歉",
-     "link": "https://www.ithome.com/1/012/754.htm",
-     "pubDate": "Wed, 14 Oct 2026 03:03:58 GMT",
-     "summary": "IT之家 10 月 14 日消息，《云顶之弈》从今年 8 月的第 18 赛季起，由 Hextech 引擎切换至虚幻引擎，然而上线后出现了性能瓶颈和各种 Bug。对此，《英雄联盟》官方今日发文致歉，表示“ 这绝非我们的本意，我们对此向大家深表歉意 ”。 《英雄联盟》官方称，将云顶之弈迁移到虚幻引擎，是因为希望能将这款游戏长久地运营下去， 而旧引擎已经接近能力上限 。“虽然我们推迟过引擎切换 —— 将自然之力赛季计划推后一个赛季，并再次推迟了测试服上线。但是最终呈现在大家面前的云顶之弈，体验仍旧不达预期：外观道具 / 小小英雄缺失、商店购买弈子响应延迟、频繁掉帧卡顿，以及各种 Bug 与崩溃问题。",
+     "title": "可降至仅 0.3 尼特，HomeView 刷新苹果设备屏幕最低亮度纪录",
+     "link": "https://www.ithome.com/1/012/763.htm",
+     "pubDate": "Wed, 14 Oct 2026 03:23:13 GMT",
+     "summary": "IT之家 10 月 14 日消息，HomeView 的屏幕最低亮度可降至仅 0.3 尼特，适合放置在床头柜或是黑暗环境使用，这是苹果设备有史以来最低的屏幕亮度。 这款 7 英寸 Liquid 视网膜显示屏可以随环境光线自动调节亮度，明亮环境下最高可达 500 尼特。0.3 尼特的最低亮度，让它在夜间能够大幅调低屏幕亮度。True Tone 技术也会辅助屏幕适配不断变化的环境光。 此前苹果设备屏幕的最低亮度只能做到 1 尼特，Apple Watch Series 9 和 Ultra 2 最先支持，随后也应用到了 iPhone 上。 HomeView 配备不锈钢转轴，用户可以按需倾斜屏幕。设备界面",
      "source": "IT之家",
-     "zh": "《云顶之弈》迁移至虚幻引擎后 Bug 频出，《英雄联盟》官方致歉"
+     "zh": "可降至仅 0.3 尼特，HomeView 刷新苹果设备屏幕最低亮度纪录"
+    },
+    {
+     "title": "海关总署：中国 9 月集成电路出口 449.51 亿美元，同比增长 136%",
+     "link": "https://www.ithome.com/1/012/762.htm",
+     "pubDate": "Wed, 14 Oct 2026 03:19:15 GMT",
+     "summary": "IT之家 10 月 14 日消息，海关总署今日公布的数据显示： 中国 9 月集成电路出口 449.51 亿美元 （IT之家注：现汇率约合 3,013.98 亿元人民币） ，同比增长 136%； 汽车出口 207.5 亿美元 （现汇率约合 1,391.29 亿元人民币） ，同比增长 62%； 稀土出口 6,809.4 万美元 （现汇率约合 4.57 亿元人民币） ，同比增长 14.3%； 手机出口 169.82 亿美元 （现汇率约合 1,138.65 亿元人民币） ，同比增长 14.2%。 据海关统计，前三季度，我国装备制造业引领作用突出，贡献了近九成出口增量，中间品占出口总值的比重超过一半，有",
+     "source": "IT之家",
+     "zh": "海关总署：中国 9 月集成电路出口 449.51 亿美元，同比增长 136%"
+    },
+    {
+     "title": "盖世小鸡 G8 SE Type-C 有线拉伸手柄发售：适配 92~172mm，249 元",
+     "link": "https://www.ithome.com/1/012/761.htm",
+     "pubDate": "Wed, 14 Oct 2026 03:16:59 GMT",
+     "summary": "IT之家 10 月 14 日消息，盖世小鸡 (GameSir) 昨日正式发售了 G8 SE Type-C 有线拉伸手柄。这一型号适配 92~172mm 设备， 售价 249 元 。 G8 SE Type-C 有线拉伸手柄采用专利可活动 USB-C 接口设计，搭载 5M 霍尔效应传感器摇杆 、 霍尔效应传感器线性扳机 、2M 导电胶 ABXY、轻触开关肩键、R4 &amp; L4 可自定义轻触开关背键，握把集成转子马达。 这款控制器支持 20Hz 按键连发，可在软件内将扳机切换为快速模式，本体质量约 190g，随附可拆装夹持硅胶垫。 京东 盖世小鸡 G8 SE Type-C 有线拉伸手柄 249",
+     "source": "IT之家",
+     "zh": "盖世小鸡 G8 SE Type-C 有线拉伸手柄发售：适配 92~172mm，249 元"
+    },
+    {
+     "title": "2027 款极狐阿尔法 S5 预热：后驱、前备箱、激光雷达都配上",
+     "link": "https://www.ithome.com/1/012/760.htm",
+     "pubDate": "Wed, 14 Oct 2026 03:16:35 GMT",
+     "summary": "IT之家 10 月 14 日消息，北汽新能源极狐品牌用户运营中心副总经理 @乔心昱 今天上午在微博发文预热，2027 款极狐阿尔法 S5， 后驱、前备箱、激光雷达都配上 ，即将上市敬请期待。 与此同时，乔心昱公布了一组新车外观预告图，展示了酒红色车漆和部分设计细节。该车基本延续现有车型设计，保留双色车身、无框车门，还提供绿色刹车卡钳。 据IT之家了解，极狐全新阿尔法 S5（现款车型）今年 3 月正式上市， 可选纯电和增程版本 ，首发上市补贴价 9.98 万元起。该车的长宽高分别为 4820（或 4886）毫米、1930 毫米、1480 毫米，轴距为 2900 毫米。座舱内配备副驾零重力座椅，车",
+     "source": "IT之家",
+     "zh": "2027 款极狐阿尔法 S5 预热：后驱、前备箱、激光雷达都配上"
+    },
+    {
+     "title": "多家央国企风光挂零：“十五五”风光反转？没那么快",
+     "link": "https://www.huxiu.com/article/4897355.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 11:15:28 +0800",
+     "summary": "本文来自微信公众号： 北极星太阳能光伏网 ，作者：燕七 2026年上半年，国内新能源装机增速显著放缓，行业告别高速增长周期。国家能源局数据显示，全国风电新增装机3862万千瓦，同比下降24.8%；光伏新增装机7207万千瓦，同比大幅下滑约66%。从单月表现来看，除6月风电新增装机规模反超光伏外，其余月份光伏装机增量仍保持对风电的领先优势。行业整体降速之下，央国企的风光开发策略分化日益明显。 分化加剧：谁在扩，谁在收 在北极星统计的中电建、中能建、华电新能、三峡能源、国电电力、中国电力等25家上市公司中，风光新增装机规模超1GW的仅8家。多数企业主动放缓装机扩张步伐。 数据来源：上市公司2026",
+     "source": "虎嗅",
+     "zh": "多家央国企风光挂零：“十五五”风光反转？没那么快"
+    },
+    {
+     "title": "巅峰估值50亿美元的AI 独角兽，何以不到0.1折贱卖",
+     "link": "https://www.huxiu.com/article/4897356.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 11:13:52 +0800",
+     "summary": "本文来自微信公众号： 极客公园 ，作者：连冉，编辑：郑玄，原文标题：《巅峰估值 50 亿美元的 AI 独角兽，何以不到 0.1 折贱卖》 被抽走灵魂的两年。 当地时间10月12日，曾经引爆AI陪伴赛道的明星项目Character.AI，在美国特拉华州法院提交《破产法》第11章重组申请，开启法院监督下的资产拍卖流程。 根据披露文件，迪士尼已经与它提前达成了底价竞购协议：2000万美元，买走部分知识产权的非独占永久许可，外加用一批「前员工」为平台提供过渡期技术服务。 这笔交易不包含公司主体、产品App和用户资产。拍卖窗口期预计在今年11月底至12月初收尾。 在整个出售周期内，Character.A",
+     "source": "虎嗅",
+     "zh": "巅峰估值50亿美元的AI 独角兽，何以不到0.1折贱卖"
+    },
+    {
+     "title": "Delaware-based Causa Prima, which develops an agent-to-agent AI platform for managing B2B payments, resolving billing disputes, and more, raised a $20M seed (Camila Grigera Naón/Fortune)",
+     "link": "https://www.techmeme.com/261013/p52#a261013p52",
+     "pubDate": "Tue, 13 Oct 2026 23:10:01 -0400",
+     "summary": "Camila Grigera Na&oacute;n / Fortune : Delaware-based Causa Prima, which develops an agent-to-agent AI platform for managing B2B payments, resolving billing disputes, and more, raised a $20M seed &nbsp; &mdash;&nbsp; Artificial intelligence is becoming a fixture in the workplace.&nbsp; Soon, many fi",
+     "source": "Techmeme",
+     "zh": "Delaware-based Causa Prima, which develops an agent-to-agent AI platform for managing B2B payments, resolving billing disputes, and more, raised a $20M seed (Camila Grigera Naón/Fortune)"
+    },
+    {
+     "title": "马来西亚将借助中国卫星技术实现洪水提前预警",
+     "link": "https://www.ithome.com/1/012/757.htm",
+     "pubDate": "Wed, 14 Oct 2026 03:09:54 GMT",
+     "summary": "IT之家 10 月 14 日消息，马来西亚将借助中国卫星技术，针对每年东北季风季侵袭本国的洪水实现更早预警。马来西亚国家新闻社（Bernama）报道：马来西亚寻求中方在灾害早期预警系统方面的技术支持。 据报道，马来西亚副总理艾哈迈德 · 扎希德 · 哈米迪称，这套基于卫星的系统能够提供更精准、全面的气象预报，帮助主管部门更好地为灾害做准备并减轻灾害损失。扎希德同时担任马来西亚国家中央灾害管理委员会主席，本次对华工作访问将持续至本周五。 每年 11 月至次年 3 月，马来西亚受东北季风影响，持续性强降雨频发，极易爆发突发性洪水与山体滑坡。 2021 年 12 月的特大洪水是马来西亚史上最严重的灾",
+     "source": "IT之家",
+     "zh": "马来西亚将借助中国卫星技术实现洪水提前预警"
     },
     {
      "title": "凭什么你的股票、黄金、房贷被它牵着走？一口气了解美债收益率",
@@ -1816,22 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "美债收益率的背后有三大拼图：通胀预期、未来实际短期利率预期和期限溢价，三者共同影响长期利率。一组公式把美债作为全球资产定价锚的底层逻辑拆开讲清楚。",
      "source": "虎嗅",
      "zh": "凭什么你的股票、黄金、房贷被它牵着走？一口气了解美债收益率"
-    },
-    {
-     "title": "大众集团 CEO 奥博穆：欧洲主流汽车制造业正面临巨大压力",
-     "link": "https://www.ithome.com/1/012/753.htm",
-     "pubDate": "Wed, 14 Oct 2026 03:02:22 GMT",
-     "summary": "IT之家 10 月 14 日消息，据路透社报道，当地时间 13 日，大众汽车集团 CEO 奥博穆坦言，中国车企的竞争和市场变化给欧洲主流汽车制造业带来“巨大压力”，欧洲应采取更灵活的监管政策，并出台激励措施扶持本土汽车制造业。 奥博穆在巴黎车展同期举行的一场活动上指出，大众集团、Stellantis 和雷诺的产量合计占欧洲汽车总产量的 60% 以上。三家车企 既要控制成本，又要推出价格亲民的电动汽车 ，经营压力不断加大。“我们不能只靠出口利润维持未来的发展。我们在欧洲的业务 必须能够盈利 ，具备抵御风险的能力和竞争力。” 奥博穆推动的集团史上最大规模重组计划遭到工会反对。该计划涉及裁减数万个岗",
-     "source": "IT之家",
-     "zh": "大众集团 CEO 奥博穆：欧洲主流汽车制造业正面临巨大压力"
-    },
-    {
-     "title": "Mihawk OS 登场：在破解 PS5 上运行 Win11，已成功演示《哈迪斯》游戏",
-     "link": "https://www.ithome.com/1/012/752.htm",
-     "pubDate": "Wed, 14 Oct 2026 02:57:17 GMT",
-     "summary": "IT之家 10 月 14 日消息，开发者 @Mihawk9_9 于 10 月 11 日在 X 平台发布推文，推出 Mihawk OS 项目， 在已破解的 PlayStation 5 上运行 Windows 11，并构建 Proton 转换层，目标直接运行 32 位与 64 位 Windows 游戏。 Mihawk OS 是面向已破解 PlayStation 5 的自制操作系统项目，目前仍处于开发与演示阶段，由此前的自制程序 PP（PS5 Proton）扩展而来，目标是让 PS5 运行 Windows 游戏。 该项目已成功运行 RetroArch，可加载多种模拟器核心，因此 PS5 可运行多个复",
-     "source": "IT之家",
-     "zh": "Mihawk OS 登场：在破解 PS5 上运行 Win11，已成功演示《哈迪斯》游戏"
     },
     {
      "title": "\"回春三件套\"，让中年男人开始服美役",
@@ -1848,38 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "出品｜虎嗅科技组 作者｜宋思杭 编辑｜苗正卿 头图｜阶跃发布会现场 继9月豆包推出首款智能体手机后，又一家大模型公司将Agent装进了手机。 10月13日晚，阶跃星辰正式发布StepX Neo智能体手机，售价3999元。相比售价5999元的豆包Agent手机，阶跃将价格降低了整整2000元。与此同时，阶跃还发布了STEPX Token Plan计划，也就是说每个月用户可以免费享有百亿Token。 发布会结束后，StepX Neo智能体手机于10月13日21点在京东、天猫、抖音三大电商平台上开启预售，并将于10月16日10:13正式开售。 在Agent手机尚未被市场充分验证的阶段，价格或许是吸引",
      "source": "虎嗅",
      "zh": "比豆包手机便宜2000元，阶跃和字节交手了"
-    },
-    {
-     "title": "众筹售价 114 元起，小米智能开关 2 Pro 上架",
-     "link": "https://www.ithome.com/1/012/751.htm",
-     "pubDate": "Wed, 14 Oct 2026 02:52:18 GMT",
-     "summary": "IT之家 10 月 14 日消息，小米智能开关 2 Pro 已上架，将于 10 月 19 日开启众筹，众筹价 114 元起。产品定位仍是“把传统灯具接入智能家居”的入门级改造件：采用标准 86 底盒，可原位替换传统开关；官方重点放在单零火兼容、Mesh 2.0 组网、按键可转无线开关，以及对传统灯 / 智能灯的同时适配上。 IT之家注意到，这一代继续走“薄面板”路线。商品页称面板厚度控制在 3.5mm，并加入高强度钢片支架，强调安装后更贴合墙面、降低变形概率。表面为 AG 玻璃，叠加 AF 涂层，主打抗油污、耐指纹、防刮花，提供双色可选。按键部分改用微动开关，官方描述为按压清脆、回弹利落。 安",
-     "source": "IT之家",
-     "zh": "众筹售价 114 元起，小米智能开关 2 Pro 上架"
-    },
-    {
-     "title": "中欧谈判：所谓混动汽车出口砍半是怎么回事",
-     "link": "https://www.huxiu.com/article/4897337.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 10:45:24 +0800",
-     "summary": "本文来自： 玉渊谭天 ，题图来自：视觉中国 最近，不少财经圈的朋友都在关注一件事： 中欧就混动汽车、电动汽车贸易到底谈成了什么？ 外面有种说法，未来4年，中国对欧出口的混动汽车要&ldquo;减少一半以上&rdquo;，搞得人心惶惶。 事实如何？ 谭主了解到三个细节。 第一，谈判看事实，不是预测。 谭主了解到，双方谈判时的基准，是2025年欧盟自中国进口混动汽车的数量：30.2万辆。 &ldquo;减少一半以上&rdquo;的说法来自欧方，服务的是欧方自己的叙事。 欧方后来按过去几年中国混动汽车对欧出口的增速，推演出未来四年的预期出口量，再与磋商后的安排比较，得出&ldquo;减少一半以上&r",
-     "source": "虎嗅",
-     "zh": "中欧谈判：所谓混动汽车出口砍半是怎么回事"
-    },
-    {
-     "title": "哪些IP算得上真IP？",
-     "link": "https://www.huxiu.com/article/4897345.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 10:41:47 +0800",
-     "summary": "本文来自微信公众号： 毒眸 ，编辑：刘南豆，作者：毒眸编辑部 前缀相同，内里不一 今年老IP重生的情况屡见不鲜。前有《灵魂摆渡》的十年之约，后有《九门》同样是十年等待，让人感觉仿佛一夜之间又回到了那个网剧概念初兴起的时代。 而这其中又有一个特殊的IP——《法医秦明》。 讨论度较高的是由俞灏明主演的《法医秦明之龙番往事》，但是几乎同时间在播出的还有同一部小说改编的另一部《法医秦明之天谴者》，还有早一个月播出的《法医秦明之蚀骨时差》。一个熟悉的名字，在不同体量、不同版本的作品里接连出现。 这是一个神奇的IP。从历史地位上来说，它一度是网剧精品化进程中的标志性作品，按理说应该做大做强，再创辉煌。但过",
-     "source": "虎嗅",
-     "zh": "哪些IP算得上真IP？"
-    },
-    {
-     "title": "欧洲制药业“衰败”，MNC坐不住了",
-     "link": "https://www.huxiu.com/article/4897328.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 10:30:38 +0800",
-     "summary": "本文来自微信公众号： 氨基观察 ，作者：氨基君 坐拥罗氏、诺华、阿斯利康、GSK等全球顶尖跨国药企，欧洲毋庸置疑是全球制药产业创新的重要策源地。但在全球的位次逐步靠后，也是事实。 在全球医药产业，欧洲的地位直线下降。从1990年到2025年，研发份额从43%降至31%。近十年商业临床试验占比减半至9%。 不只是研发占比下降，产出也在同步“衰败”。 这些问题并非今天才出现。但如今，欧洲面临的压力却越来越大。一方面，美国凭借市场回报和产业政策持续吸引研发资源；另一方面，中国创新药产业则快速崛起，不断提升全球竞争力，最新五年计划更提出了未来25%的首创市场份额目标。 而反观欧洲，各成员国在市场监管上",
-     "source": "虎嗅",
-     "zh": "欧洲制药业“衰败”，MNC坐不住了"
     },
     {
      "title": "Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September&apos;s record of 972, which was already ~10x the normal monthly patch load (Brian Krebs/Krebs on Security)",
@@ -1925,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "I built a tool to track what AI leaders say and how their views change on video",
      "link": "https://blumify.io/people",
      "pubDate": "Wed, 14 Oct 2026 01:09:13 +0000",
-     "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 15 # Comments: 8",
+     "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 22 # Comments: 13",
      "source": "Hacker News",
      "zh": "I built a tool to track what AI leaders say and how their views change on video"
     },
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "High-speed video reveals how honey bee stingers pump venom",
      "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
      "pubDate": "Wed, 14 Oct 2026 01:05:23 +0000",
-     "summary": "Article URL: https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/ Comments URL: https://news.ycombinator.com/item?id=50081133 Points: 22 # Comments: 1",
+     "summary": "Article URL: https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/ Comments URL: https://news.ycombinator.com/item?id=50081133 Points: 29 # Comments: 5",
      "source": "Hacker News",
      "zh": "High-speed video reveals how honey bee stingers pump venom"
     },
@@ -2016,14 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "Crystal Lake, Tip Toe, and Carrie are just a few of the shows you should be watching right now.",
      "source": "WIRED",
      "zh": "The 9 Best TV Shows to Stream This Month (October 2026)"
-    },
-    {
-     "title": "Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B (Reuters)",
-     "link": "https://www.techmeme.com/261013/p46#a261013p46",
-     "pubDate": "Tue, 13 Oct 2026 19:00:39 -0400",
-     "summary": "Reuters : Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B &nbsp; &mdash;&nbsp; Tencent Holdings (0700.HK) has raised about $5.7 billion through US dollar and offshore yuan debt offerings on ",
-     "source": "Techmeme",
-     "zh": "Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B (Reuters)"
     }
    ]
   },
@@ -2282,52 +2282,108 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "深桑达Ａ10月14日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895231277.html",
-     "pubDate": "Wed, 14 Oct 2026 11:03:58 +0800",
-     "summary": "以下是深桑达Ａ在北京时间10月14日11:03分盘口异动快照： 10月14日，深桑达Ａ盘中涨幅达5%，截至11点03分，报12.93元，成交3.22亿元，换手率2.11%。 分笔 11:03:54 12.93 5580↑ 11:03:51 12.86 383↑ 11:03:48 12.84 259↑ 11:03:45 12.82 3↑ 11:03:36 12.82 83↓ 11:03:33 12.84 2↑ 11:03:30 12.84 81↑ 11:03:27 12.84 17↑ 11:03:24 12.84 19↑ 11:03:21 12.83 106↑ 报价 卖五 12.98 375 卖",
-     "source": "东方财富股票",
-     "zh": "深桑达Ａ10月14日盘中涨幅达5%"
+     "title": "中证协报告：禁止分析师直接采信AI生成的未经核验内容",
+     "link": "http://www.eeo.com.cn/2026/1014/1063644.shtml",
+     "pubDate": "Wed, 14 Oct 2026 11:25:21 +0800",
+     "summary": "《报告》指出，行业普遍未明确AI技术在研报业务中的应用边界，对分析师使用AI提供的素材无管理要求，个别分析师在公开场合使用未经核实、由AI生成的错误内容，破坏证券研究行业专业公信力。禁止分析师直接采信AI生成的未经核验的数据、观点、市场推演和研究结论，切实防控AI模型幻觉风险。",
+     "source": "经济观察网",
+     "zh": "中证协报告：禁止分析师直接采信AI生成的未经核验内容"
     },
     {
-     "title": "*ST中迪10月14日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895231164.html",
-     "pubDate": "Wed, 14 Oct 2026 11:03:40 +0800",
-     "summary": "以下是 *ST中迪 在北京时间10月14日11:03分盘口异动快照： 10月14日， *ST中迪 盘中涨幅达5%，截至11点03分，报8.88元，成交2316.25万元，换手率0.93%。 分笔 11:03:33 8.88 68↑ 11:03:30 8.85 169↑ 11:03:27 8.81 239↑ 11:03:24 8.80 31↓ 11:03:21 8.80 111↑ 11:03:18 8.80 407↑ 11:03:15 8.80 3↑ 11:03:12 8.79 232↓ 11:03:09 8.79 116↑ 11:03:06 8.78 2↓ 报价 卖五 8.96 41 卖四 8",
+     "title": "10月14日视频媒体板块涨幅达10%",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895250297.html",
+     "pubDate": "Wed, 14 Oct 2026 11:25:04 +0800",
+     "summary": "&emsp;&emsp;10月14日11点24分， 视频媒体 板块指数报1276.242点，涨幅达10%，成交25.48亿元，换手率10.29%。 &emsp;&emsp;板块个股中，涨幅最大的前1个股为： 芒果超媒 报26.42元，涨10.08%。 注：以上信息仅供参考，不对您构成任何投资建议。",
      "source": "东方财富股票",
-     "zh": "*ST中迪10月14日盘中涨幅达5%"
+     "zh": "10月14日视频媒体板块涨幅达10%"
     },
     {
-     "title": "10月14日氨纶板块跌幅达4%",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895230945.html",
-     "pubDate": "Wed, 14 Oct 2026 11:03:27 +0800",
-     "summary": "&emsp;&emsp;10月14日11点3分， 氨纶 板块指数报2365.602点，跌幅达4%，成交2.18亿元，换手率0.46%。 &emsp;&emsp;板块个股中，跌幅最大的前1个股为： 华峰化学 报9.42元，跌3.88%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "title": "10月14日视频媒体板块涨幅达9%",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895249791.html",
+     "pubDate": "Wed, 14 Oct 2026 11:24:27 +0800",
+     "summary": "&emsp;&emsp;10月14日11点24分， 视频媒体 板块指数报1266.573点，涨幅达9%，成交25.32亿元，换手率10.23%。 &emsp;&emsp;板块个股中，涨幅最大的前1个股为： 芒果超媒 报26.20元，涨9.17%。 注：以上信息仅供参考，不对您构成任何投资建议。",
      "source": "东方财富股票",
-     "zh": "10月14日氨纶板块跌幅达4%"
+     "zh": "10月14日视频媒体板块涨幅达9%"
     },
     {
-     "title": "中材科技10月14日打开跌停",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895230788.html",
-     "pubDate": "Wed, 14 Oct 2026 11:03:03 +0800",
-     "summary": "以下是 中材科技 在北京时间10月14日11:02分盘口异动快照： 10月14日11点2分， 中材科技 盘中打开跌停，现报46.49元，成交25.04亿元，换手率3.09%。该股之前于11点2分跌停。 分笔 11:02:54 46.49 219↑ 11:02:51 46.48 438↓ 11:02:48 46.48 167↓ 11:02:45 46.48 163↑ 11:02:42 46.48 611↓ 11:02:39 46.48 207↑ 11:02:36 46.48 443↑ 11:02:33 46.48 205↑ 11:02:30 46.48 274↑ 11:02:27 46.48 2",
+     "title": "七一二10月14日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895248850.html",
+     "pubDate": "Wed, 14 Oct 2026 11:23:52 +0800",
+     "summary": "以下是 七一二 在北京时间10月14日11:23分盘口异动快照： 10月14日11点23分， 七一二 盘中打开涨停，现报12.59元，成交3.19亿元，换手率3.44%。该股之前于11点23分涨停。 分笔 11:23:41 12.59 7535↓ 11:23:38 12.60 664↓ 11:23:35 12.60 23206↑ 11:23:32 12.40 5069↑ 11:23:29 12.27 18↓ 11:23:26 12.27 228↑ 11:23:23 12.26 761↑ 11:23:20 12.25 4↓ 11:23:17 12.25 4↓ 11:23:14 12.24 337",
      "source": "东方财富股票",
-     "zh": "中材科技10月14日打开跌停"
+     "zh": "七一二10月14日打开涨停"
     },
     {
-     "title": "*ST中迪10月14日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895230634.html",
-     "pubDate": "Wed, 14 Oct 2026 11:02:54 +0800",
-     "summary": "以下是 *ST中迪 在北京时间10月14日11:02分盘口异动快照： 10月14日， *ST中迪 盘中快速上涨，5分钟内涨幅超过2%，截至11点02分，报8.77元，成交2172.70万元，换手率0.88%。 分笔 11:02:48 8.77 699↑ 11:02:42 8.71 1↓ 11:02:39 8.74 30↑ 11:02:33 8.74 113↑ 11:02:21 8.68 1↓ 11:02:18 8.68 524↑ 11:02:12 8.68 25↓ 11:02:06 8.68 30↓ 11:02:03 8.68 38↓ 11:02:00 8.70 15↓ 报价 卖五 8.83 ",
+     "title": "一心堂10月14日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895248746.html",
+     "pubDate": "Wed, 14 Oct 2026 11:23:52 +0800",
+     "summary": "以下是 一心堂 在北京时间10月14日11:23分盘口异动快照： 10月14日， 一心堂 盘中涨幅达5%，截至11点23分，报12.35元，成交1.71亿元，换手率3.58%。 分笔 11:23:45 12.35 95↑ 11:23:42 12.33 292↑ 11:23:39 12.33 182↑ 11:23:36 12.33 747↑ 11:23:33 12.33 39↑ 11:23:30 12.33 71↑ 11:23:27 12.32 560↓ 11:23:24 12.31 133↓ 11:23:21 12.32 126↑ 11:23:18 12.31 1289↓ 报价 卖五 12.3",
      "source": "东方财富股票",
-     "zh": "*ST中迪10月14日快速上涨"
+     "zh": "一心堂10月14日盘中涨幅达5%"
     },
     {
-     "title": "民和股份10月14日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610143895230534.html",
-     "pubDate": "Wed, 14 Oct 2026 11:02:54 +0800",
-     "summary": "以下是 民和股份 在北京时间10月14日11:02分盘口异动快照： 10月14日， 民和股份 盘中快速反弹，5分钟内涨幅超过2%，截至11点02分，报7.8元，成交1995.27万元，换手率0.86%。 分笔 11:02:48 7.80 1195↑ 11:02:45 7.73 660↑ 11:02:36 7.71 35↓ 11:02:33 7.72 150↓ 11:02:21 7.73 121↓ 11:02:18 7.74 202↓ 11:02:15 7.74 33↑ 11:02:09 7.74 5↑ 11:02:06 7.74 7↑ 11:02:03 7.74 14↑ 报价 卖五 7.85 ",
+     "title": "一品红10月14日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895248564.html",
+     "pubDate": "Wed, 14 Oct 2026 11:23:42 +0800",
+     "summary": "以下是 一品红 在北京时间10月14日11:23分盘口异动快照： 10月14日， 一品红 盘中快速反弹，5分钟内涨幅超过2%，截至11点23分，报31.93元，成交6961.06万元，换手率0.54%。 分笔 11:23:36 31.93 197↑ 11:23:33 31.71 12↓ 11:23:30 31.71 8↑ 11:23:27 31.71 11↑ 11:23:24 31.71 1↑ 11:23:21 31.70 41↓ 11:23:18 31.71 64↓ 11:23:15 31.74 2↓ 11:23:12 31.75 53↑ 11:23:09 31.71 21↓ 报价 卖五 3",
      "source": "东方财富股票",
-     "zh": "民和股份10月14日快速反弹"
+     "zh": "一品红10月14日快速反弹"
+    },
+    {
+     "title": "七一二10月14日盘中涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610143895248465.html",
+     "pubDate": "Wed, 14 Oct 2026 11:23:42 +0800",
+     "summary": "以下是 七一二 在北京时间10月14日11:23分盘口异动快照： 10月14日11点23分， 七一二 盘中涨停，报12.6元，目前封单13540手，折合1706.04万元。截至目前，成交3.09亿元，换手率3.33%。 分笔 11:23:35 12.60 23206↑ 11:23:32 12.40 5069↑ 11:23:29 12.27 18↓ 11:23:26 12.27 228↑ 11:23:23 12.26 761↑ 11:23:20 12.25 4↓ 11:23:17 12.25 4↓ 11:23:14 12.24 337↓ 11:23:11 12.25 95↑ 11:23:08 1",
+     "source": "东方财富股票",
+     "zh": "七一二10月14日盘中涨停"
+    },
+    {
+     "title": "China&apos;s producer prices rise at fastest pace since June 2022, beating expectations",
+     "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+     "pubDate": "Wed, 14 Oct 2026 03:14:48 GMT",
+     "summary": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
+     "source": "CNBC",
+     "zh": "China&apos;s producer prices rise at fastest pace since June 2022, beating expectations"
+    },
+    {
+     "title": "中网赞助商：一张中国消费二十二年的“心电图”",
+     "link": "http://www.eeo.com.cn/2026/1014/1063626.shtml",
+     "pubDate": "Wed, 14 Oct 2026 11:13:35 +0800",
+     "summary": "中国网球公开赛二十二年，赞助商换了一批又一批。而细看这份名单的变动，其实就是在看一张中国消费二十多年的“心电图”。",
+     "source": "经济观察网",
+     "zh": "中网赞助商：一张中国消费二十二年的“心电图”"
+    },
+    {
+     "title": "AI算力战进入下半场：从拼单芯XPU性能到拼系统，电力、散热和网络成新战场",
+     "link": "https://wallstreetcn.com/articles/3783589",
+     "pubDate": "Wed, 14 Oct 2026 11:09:58 +0800",
+     "summary": "AI基础设施竞争的逻辑正在发生根本性转变。 据追风交易台，美银证券研究团队在跟踪OCP全球峰会后发布报告， AI算力的基本计算单元已从单颗芯片升级为整机架系统，电力供给、散热能力与网络互联正取代芯片性能本身，成为决定AI基础设施竞争力的核心变量。 AMD首席执行官Lisa Su在峰会上披露，过去两年AI token消耗量月度增幅高达95倍。英伟达则已将系统设计框架从芯片算力转向token吞吐量、每瓦token数及每token成本。这一表述上的转变，折射出整个行业竞争维度的深层迁移。美银证券指出，AI资本开支正从单一产品周期演变为完整的基础设施建设周期。 峰会讨论显示，AI基础设施需求并无放缓迹",
+     "source": "华尔街见闻",
+     "zh": "AI算力战进入下半场：从拼单芯XPU性能到拼系统，电力、散热和网络成新战场"
+    },
+    {
+     "title": "中国9月出口同比增长36%，集成电路出口暴涨136%",
+     "link": "https://wallstreetcn.com/articles/3783587",
+     "pubDate": "Wed, 14 Oct 2026 11:09:51 +0800",
+     "summary": "10月14日，中国海关总署公布的数据显示，中国9月出口（以美元计价）同比增36.3%，前值增25%；进口增31%，前值增28.2%；贸易顺差1335.3亿美元，前值1190.9亿美元。 以人民币计，9月份进出口5.16万亿元，首次突破了5万亿元，增长27.5%，月度增速连续6个月保持两位数增长。其中，出口3.03万亿元，增长29.6%；进口2.13万亿元，增长24.6%。 海关总署副署长王军在国新办新闻发布会上表示，前三季度进口快速增长，主要得益于中国经济运行平稳、超大规模市场效应持续释放、先进制造业不断发展壮大、关键零部件等各类中间品需求旺盛。 前三季度，我国进口存储部件增长1.5倍，集成电",
+     "source": "华尔街见闻",
+     "zh": "中国9月出口同比增长36%，集成电路出口暴涨136%"
+    },
+    {
+     "title": "从身材评判到隐私失守，儿童手表乱象何解？",
+     "link": "http://www.eeo.com.cn/2026/1014/1063608.shtml",
+     "pubDate": "Wed, 14 Oct 2026 11:05:53 +0800",
+     "summary": "儿童产品不是成人设备的缩小版，其核心指标不应是功能数量、用户时长或商业转化率，而应是“适童化”程度，是否契合儿童认知水平，是否尊重发育节律，是否预留成长弹性。",
+     "source": "经济观察网",
+     "zh": "从身材评判到隐私失守，儿童手表乱象何解？"
+    },
+    {
+     "title": "英伟达DLSS 5催化游戏“GPT时刻”！近一周10只概念股获融资客买入(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202610143895231086.html",
+     "pubDate": "Wed, 14 Oct 2026 11:02:33 +0800",
+     "summary": "英伟达 发布DLSS 5新模型，游戏行业\"GPT时刻\"再进一步。 网络游戏 概念股随之躁动，近一周10股获融资客买入， 芒果超媒 获加仓1.49亿元居首。 英伟达 DLSS 5新模型发布 AI渲染半年提速10倍 英伟达 周二宣布，DLSS 5（深度学习超级采样5）3D引导神经渲染模型的性能再提升2倍，同时将模型规模缩减24%至约1.18亿个参数，4K显存占用降低20%。与3月首次公布时相比，该模型运行速度已达到当时的10倍，神经渲染环节的GPU开销降至9月版本的一半。英伟达举例称，使用新模型后，5080显卡在4K分辨率下运行NBA 2K27的帧数将从240帧提高至约300帧。新模型将于10月1",
+     "source": "东方财富资讯",
+     "zh": "英伟达DLSS 5催化游戏“GPT时刻”！近一周10只概念股获融资客买入(名单)"
     },
     {
      "title": "鸽派信号提振，亚太股市止跌反弹，韩股涨超1%有望终结五连跌，太阳诱电大涨7%",
@@ -2354,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "创业板早盘跌1%，PCB、覆铜板再大涨，电力、煤炭活跃，恒科指低开高走涨超1%，权重科网股反弹"
     },
     {
-     "title": "Producer prices in China rise at fastest pace since June 2022, beating expectations",
-     "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
-     "pubDate": "Wed, 14 Oct 2026 02:43:01 GMT",
-     "summary": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
-     "source": "CNBC",
-     "zh": "Producer prices in China rise at fastest pace since June 2022, beating expectations"
-    },
-    {
      "title": "全球手机均价年底或涨20%，中国消费者最敏感，半数等大促",
      "link": "http://www.eeo.com.cn/2026/1014/1063561.shtml",
      "pubDate": "Wed, 14 Oct 2026 10:39:13 +0800",
@@ -2378,36 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "小种苗“育出”大产业"
     },
     {
-     "title": "一个垂域大模型如何改写钢铁生产线？｜山东人工智能垂域大模型系列报道",
-     "link": "http://www.eeo.com.cn/2026/1014/1063540.shtml",
-     "pubDate": "Wed, 14 Oct 2026 10:30:40 +0800",
-     "summary": "尚智大模型由山鼎云科自主研发，于2025年12月30日推出。该模型把钢铁行业数十年沉淀的工艺经验、老师傅隐性知识，转化成可计算、可迭代、可复用的数字化工艺资产，让机器学会钢厂的“生产智慧”。",
-     "source": "经济观察网",
-     "zh": "一个垂域大模型如何改写钢铁生产线？｜山东人工智能垂域大模型系列报道"
-    },
-    {
-     "title": "对话DHL集团CEO麦韬远：合资四十载，继续与中国市场共同成长",
-     "link": "http://www.eeo.com.cn/2026/1014/1061081.shtml",
-     "pubDate": "Wed, 14 Oct 2026 10:30:01 +0800",
-     "summary": "麦韬远表示，未来，我们将继续加大在中国市场的投入，进一步强化中国与世界之间的连接。我们的目标是让全球贸易更加高效、更具韧性，也更加可持续，为客户创造长期价值，并为全球经济发展贡献力量。",
-     "source": "经济观察网",
-     "zh": "对话DHL集团CEO麦韬远：合资四十载，继续与中国市场共同成长"
-    },
-    {
      "title": "降本增效不停歇 数十家中小银行上调免费动账短信服务起点 有银行门槛拉至1000元",
      "link": "http://stock.eastmoney.com/news/11219,202610143895216518.html",
      "pubDate": "Wed, 14 Oct 2026 10:27:21 +0800",
      "summary": "还在希望通过免费短信掌握自己 银行 账户的动态？未来这种可能性或许会越来越小。 昨日晚间，龙游农商 银行 发布通知称，自11月1日起，该行个人客户名下活期存款账户（不含信用卡、 电子 账户）的1000元以下交易，将不再提供免费短信服务。财联社记者搜索发现，自9月以来，已有浙江、广西、湖北等多个省份数十家中小 银行 发布类似公告，宣布上调免费短信通知门槛。 一家地方农商行大幅上调动账短信门槛至1000元以上 昨日晚间，浙江省内的龙游农商银行通过官方微信号发布了关于调整客户资金变动短信服务的公告。 在公告中，该行表示，为进一步优化银行服务资源配置，丰富账户提醒服务方式，自2026年11月1日起，该",
      "source": "东方财富资讯",
      "zh": "降本增效不停歇 数十家中小银行上调免费动账短信服务起点 有银行门槛拉至1000元"
-    },
-    {
-     "title": "重庆新增2个市级历史文化名村：巴南荷花村、武隆天生村",
-     "link": "http://www.eeo.com.cn/2026/1014/1063526.shtml",
-     "pubDate": "Wed, 14 Oct 2026 10:26:12 +0800",
-     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/3CC0F803A7FCFF703E8EE3147779E53C.png\" alt=\"荷花村梯田风光。重庆市规划和自然资源局供图\" data-title=\"荷花村梯田风光。重庆市规划和自然资源局供图\" data-target=\"2110177563240005634\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/REPRINT/MEDIA/PICTURE/2026/10/14/ee9705b",
-     "source": "经济观察网",
-     "zh": "重庆新增2个市级历史文化名村：巴南荷花村、武隆天生村"
     },
     {
      "title": "Saudi Aramco HQ attacked in suspected Houthi strike",
@@ -2482,14 +2506,6 @@ window.INDUSTRY_DATA = {
      "zh": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia"
     },
     {
-     "title": "科技股暴跌之际，高盛出了一份美股看多报告，但读完后人们更担心了……",
-     "link": "https://wallstreetcn.com/articles/3783582",
-     "pubDate": "Wed, 14 Oct 2026 09:53:38 +0800",
-     "summary": "高盛策略师Tony Pasquariello于10月12日周一发布报告，力证美股市场广度“没有外界描述的那么糟糕”。 但这份报告在为多头辩护的同时，两度援引互联网泡沫作类比。其一，报告提及标普500中位股距52周高点下跌15%，为互联网泡沫以来最差读数；其二，2027年美股潜在净股票供给规模或创2000年互联网时期以来最高。 报告发布当天，纳斯达克期货下跌，美债收益率走低，报告中推荐的两个核心方向——做空固定收益、做多纳指，在开盘前双双走反。 与此同时，隔夜美股费城半导体指数一度跌逾2%，较6月创下的历史高点已回落近18%。道指跌0.35%，纳指跌0.15%。 “没那么糟”，但中位股创下200",
-     "source": "华尔街见闻",
-     "zh": "科技股暴跌之际，高盛出了一份美股看多报告，但读完后人们更担心了……"
-    },
-    {
      "title": "填补空白！国内首创脑机接口康复系统 产业落地有望提速(附股)",
      "link": "http://finance.eastmoney.com/news/11822,202610143895048460.html",
      "pubDate": "Wed, 14 Oct 2026 09:33:10 +0800",
@@ -2504,22 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
      "source": "MarketWatch",
      "zh": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?"
-    },
-    {
-     "title": "国家统计局：9月CPI同比上涨0.9% PPI同比上涨5%",
-     "link": "http://finance.eastmoney.com/news/1345,202610143895021553.html",
-     "pubDate": "Wed, 14 Oct 2026 09:30:41 +0800",
-     "summary": "2026年9月份居民消费价格同比上涨0.9% 2026年9月份，全国居民消费价格同比上涨0.9%。其中，城市上涨0.9%，农村上涨0.8%；食品价格下降1.7%，非食品价格上涨1.5%；消费品价格上涨1.0%，服务价格上涨0.8%。1--—9月平均，全国居民消费价格比上年同期上涨0.9%。 9月份，全国居民消费价格环比上涨0.2%。其中，城市上涨0.2%，农村上涨0.4%；食品价格上涨0.4%，非食品价格上涨0.2%；消费品价格上涨0.5%，服务价格下降0.2%。 一、各类商品及服务价格同比变动情况 9月份，食品烟酒及在外 餐饮 类价格同比下降0.9%，影响CPI（居民消费价格指数）下降约0.",
-     "source": "东方财富资讯",
-     "zh": "国家统计局：9月CPI同比上涨0.9% PPI同比上涨5%"
-    },
-    {
-     "title": "10月14日集合竞价：百洋股份、丽人丽妆4连板",
-     "link": "http://stock.eastmoney.com/news/11752,202610143895011569.html",
-     "pubDate": "Wed, 14 Oct 2026 09:26:09 +0800",
-     "summary": "10月14日，三大指数集体低开，上证指数低开0.27%，深证成指低开0.36%，创业板指低开0.52%。板块方面， 印染 领涨， 富春染织 涨10.03%， 海洋捕捞 、 渔业 等开盘涨幅居前。 个股方面，10股竞价涨停，其中 百洋股份 4连板、 丽人丽妆 4连板、 冰山冷热 2连板、 荣丰控股 2连板、 超声电子 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的",
-     "source": "东方财富资讯",
-     "zh": "10月14日集合竞价：百洋股份、丽人丽妆4连板"
     }
    ]
   },

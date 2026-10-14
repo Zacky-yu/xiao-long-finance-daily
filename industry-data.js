@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/15 06:48:49",
+ "generated_at": "2026/10/15 06:52:06",
  "recent_days": 7,
  "industries": [
   {
@@ -946,12 +946,12 @@ window.INDUSTRY_DATA = {
      "zh": "Trump Administration Wants to Stop an Almost-Complete Offshore Wind Project"
     },
     {
-     "title": "Fossil fuel generation pipeline rebounds while new clean generation slows: EDF",
+     "title": "Fossil generation pipeline rebounds while new clean generation slows: EDF",
      "link": "https://www.utilitydive.com/news/fossil-generation-pipeline-rebounds-while-new-clean-generation-slows-edf/832978/",
      "pubDate": "Wed, 14 Oct 2026 10:55:47 -0400",
      "summary": "However, &ldquo;rising gas turbine costs and supply shortages are already making new gas plants more expensive and slower to build,&rdquo; David Villagrana, EDF&rsquo;s lead counsel for clean energy tax solutions, told Utility Dive.",
      "source": "Utility Dive",
-     "zh": "Fossil fuel generation pipeline rebounds while new clean generation slows: EDF"
+     "zh": "Fossil generation pipeline rebounds while new clean generation slows: EDF"
     },
     {
      "title": "Becquerel: AI and robotics can deliver 3-4% energy yield improvement in solar PV projects",
@@ -978,36 +978,12 @@ window.INDUSTRY_DATA = {
      "zh": "Bus Electrification Turns Governance Into Infrastructure"
     },
     {
-     "title": "Battery-powered trains coming to Chicago: a first look",
-     "link": "https://www.utilitydive.com/news/stadler-metra-chicago-battery-electric-train/832993/",
-     "pubDate": "Wed, 14 Oct 2026 10:17:00 -0400",
-     "summary": "Commuter rail systems like Chicago's Metra are exploring battery-electric trains to increase service while reducing diesel exhaust pollution and noise.",
-     "source": "Utility Dive",
-     "zh": "Battery-powered trains coming to Chicago: a first look"
-    },
-    {
-     "title": "PJM plans to study SoftBank’s Ohio AI project under state agreement approach",
-     "link": "https://www.utilitydive.com/news/pjm-softbank-ohio-ai-flagship-state-agreement-approach/832962/",
-     "pubDate": "Wed, 14 Oct 2026 10:13:00 -0400",
-     "summary": "The project, dubbed &ldquo;Flagship,&rdquo;&nbsp;includes 765-kV transmission lines to be built by AEP Ohio, roughly 10 GW in data center load and about 10.2 GW in gas-fired generation.",
-     "source": "Utility Dive",
-     "zh": "PJM plans to study SoftBank’s Ohio AI project under state agreement approach"
-    },
-    {
      "title": "Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS",
      "link": "https://www.pv-magazine.com/2026/10/14/tunisia-launches-tender-for-50-mw-solar-pv-plant-with-10-mw-20-mwh-bess/",
      "pubDate": "Wed, 14 Oct 2026 13:42:24 +0000",
      "summary": "The deadline to submit project proposals is December 10. The post Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS"
-    },
-    {
-     "title": "Scaling residential VPPs could cut electric bill increases by half: Brattle",
-     "link": "https://www.utilitydive.com/news/scaling-vpps-could-cut-electric-bill-increases-by-half-brattle/832956/",
-     "pubDate": "Wed, 14 Oct 2026 09:27:40 -0400",
-     "summary": "Utilities should look to OEM-led enrollment strategies to expand residential virtual power plants utilizing thermostats, batteries and EV chargers, according to The Brattle Group.",
-     "source": "Utility Dive",
-     "zh": "Scaling residential VPPs could cut electric bill increases by half: Brattle"
     },
     {
      "title": "Europe’s second energy crisis largely skipped the solar hours",
@@ -1096,6 +1072,30 @@ window.INDUSTRY_DATA = {
      "summary": "Leon Zhang, President of Utility Europe, LONGi, discusses the changing economics of European solar and the strategic role of storage.",
      "source": "PV Tech",
      "zh": "From higher efficiency to higher asset value: LONGi’s strategy to lead Europe’s clean energy transition"
+    },
+    {
+     "title": "India’s solar generation rises 39% in Q2—CREA",
+     "link": "https://www.pv-tech.org/indias-solar-generation-rises-39-in-q2-crea/",
+     "pubDate": "Wed, 14 Oct 2026 10:24:42 +0000",
+     "summary": "India’s solar generation rose 39% year-on-year to a record 705MU on 30 September, CREA’s latest snapshot reported.",
+     "source": "PV Tech",
+     "zh": "India’s solar generation rises 39% in Q2—CREA"
+    },
+    {
+     "title": "South Africa’s state utility Eskom opens selection process for 1.5GW/21GWh pumped hydro plant",
+     "link": "https://www.energy-storage.news/south-africas-state-utility-eskom-opens-selection-process-for-1-5gw-21gwh-pumped-hydro-plant/",
+     "pubDate": "Wed, 14 Oct 2026 08:48:46 +0000",
+     "summary": "South Africa continues its push for energy storage capacity, with utility and grid operator Eskom issuing a call to work on a 21GWh pumped hydro energy storage (PHES) project.",
+     "source": "Energy Storage News",
+     "zh": "South Africa’s state utility Eskom opens selection process for 1.5GW/21GWh pumped hydro plant"
+    },
+    {
+     "title": "Nuclear-powered data centers? It’s a tough sell in Utah coal country.",
+     "link": "https://www.canarymedia.com/articles/data-centers/utah-carbon-county-opposition-nuclear-gas-valar",
+     "pubDate": "Wed, 14 Oct 2026 03:30:00 -0400",
+     "summary": "This story was originally published by Grist . Sign up for Grist's weekly newsletter . Cindy O’Neil understands the boom-and-bust cycles of industry. Her husband spent years working in Carbon County’s namesake coal mines. In this pocket of central Utah, energy and the economy have long been intrinsi",
+     "source": "Canary Media",
+     "zh": "Nuclear-powered data centers? It’s a tough sell in Utah coal country."
     }
    ]
   },
@@ -1218,14 +1218,6 @@ window.INDUSTRY_DATA = {
      "zh": "Verastem cancer drug shows early promise in small study"
     },
     {
-     "title": "CVS to pay $315M to settle opioid prescribing allegations",
-     "link": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
-     "pubDate": "Wed, 14 Oct 2026 10:45:52 -0400",
-     "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and &ldquo;strongly disagreed&rdquo; with the case&rsquo;s claims.",
-     "source": "BioPharma Dive",
-     "zh": "CVS to pay $315M to settle opioid prescribing allegations"
-    },
-    {
      "title": "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump",
      "link": "https://endpoints.news/ultragenyxs-second-prv-sale-biomeas-oral-glp-1-data-leads-to-stock-slump/",
      "pubDate": "Wed, 14 Oct 2026 14:24:20 +0000",
@@ -1296,6 +1288,14 @@ window.INDUSTRY_DATA = {
      "summary": "One lawyer involved noted how it's yet another example of Paragon and key investor Fairmount &mdash; which have helped transform the reputation for reverse mergers &mdash; quickly executing on a complicated deal.",
      "source": "BioPharma Dive",
      "zh": "Another Paragon spinout goes public through reverse merger"
+    },
+    {
+     "title": "BioNTech mRNA cancer immunotherapy misses first objective in key study",
+     "link": "https://www.biopharmadive.com/news/biontech-mrna-immunotherapy-hpv16-head-neck-cancer/832854/",
+     "pubDate": "Tue, 13 Oct 2026 12:24:00 -0400",
+     "summary": "An early data check showed the shot didn&rsquo;t delay tumor progression in a form of head and neck cancer, though BioNTech is holding out hope it might eventually extend survival.",
+     "source": "BioPharma Dive",
+     "zh": "BioNTech mRNA cancer immunotherapy misses first objective in key study"
     }
    ]
   },
@@ -2274,6 +2274,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+     "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 22:45:00 GMT",
+     "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+     "source": "MarketWatch",
+     "zh": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?"
+    },
+    {
+     "title": "【环球财经】美联储“褐皮书”显示高油价对经济产生广泛影响",
+     "link": "http://finance.eastmoney.com/news/1356,202610153895903635.html",
+     "pubDate": "Thu, 15 Oct 2026 06:43:52 +0800",
+     "summary": "新华财经纽约10月14日电（记者刘亚南）美国联邦储备委员会14日发布的全国经济形势调查报告显示，从8月25日到10月5日的最近一个报告期内，高油价让美国面临广泛物价上涨压力，经济增长依赖制造业推动，就业市场整体保持稳定。 根据美国“联邦储备法”，美国全国划分为12个联邦储备区，每区设立一家联邦储备 银行 。该报告根据12家联邦储备 银行 的最新调查结果编制而成，也称“褐皮书”。 报告说，3个联邦储备区表示整体物价强劲上涨，8个联邦储备区表示物价温和上涨，1个联邦储备区物价涨幅较小。此外，有4个联邦储备区报告，物价涨幅自前一报告期以来已经加大。油价上涨影响到所有联邦储备区。企业表示柴油价格处于高",
+     "source": "东方财富股票",
+     "zh": "【环球财经】美联储“褐皮书”显示高油价对经济产生广泛影响"
+    },
+    {
      "title": "市场消息：特朗普政府拟最终驱逐众议员奥马尔",
      "link": "http://finance.eastmoney.com/news/1351,202610153895903158.html",
      "pubDate": "Thu, 15 Oct 2026 06:40:29 +0800",
@@ -2290,12 +2306,28 @@ window.INDUSTRY_DATA = {
      "zh": "福克斯民调：三分之二的选民对美国当前的发展状况不满"
     },
     {
+     "title": "美股收盘：三大指数齐跌，纳指跳水超510点跌1.88%；半导体、光通信、存储芯片板块集体重挫；科技股普跌，苹果市值创新高；医药股逆市大涨",
+     "link": "http://finance.eastmoney.com/news/1354,202610153895903528.html",
+     "pubDate": "Thu, 15 Oct 2026 06:40:17 +0800",
+     "summary": "美东时间周三（14日），受通胀数据恶化影响，美国三大股指集体收跌。截至收盘，纳指跌1.88%，跌超510点，创7月23日以来最大单日跌幅；道指跌0.09%，标普500指数跌1.11%。 大型科技股普跌，META、 英伟达 跌超3%， 特斯拉 跌超2%， 微软 、谷歌跌超1%； 苹果 涨0.5%，市值首次收于5万亿美元以上。 费城 半导体 指数大跌4.3%，连续第六个交易日下跌，创下自2025年5月以来最长连跌。 半导体 集体下跌，ARM跌超6%，AMD跌超5%， 英特尔 跌超4%， 博通 、 阿斯麦 、 应用材料 跌超3%， 高通 跌超2%。 光 通信 遭重挫， 应用光电 跌近12%，Lume",
+     "source": "东方财富股票",
+     "zh": "美股收盘：三大指数齐跌，纳指跳水超510点跌1.88%；半导体、光通信、存储芯片板块集体重挫；科技股普跌，苹果市值创新高；医药股逆市大涨"
+    },
+    {
      "title": "全球经济增长动力更不均衡",
      "link": "http://www.eeo.com.cn/2026/1015/1064646.shtml",
      "pubDate": "Thu, 15 Oct 2026 06:39:10 +0800",
      "summary": "10月12日，人们在泰国曼谷参加IMF与世界银行集团2026年秋季年会。（新华社发） 日前，国际货币基金组织（IMF）在泰国曼谷发布最...",
      "source": "经济观察网",
      "zh": "全球经济增长动力更不均衡"
+    },
+    {
+     "title": "美军称摧毁一艘与伊朗有关联的帆船 现场浓烟滚滚",
+     "link": "http://global.eastmoney.com/news/11798,202610153895903485.html",
+     "pubDate": "Thu, 15 Oct 2026 06:36:49 +0800",
+     "summary": "中新网10月15日电当地时间14日，美军中央司令部在社交媒体发布消息说，美军6日在阿曼湾摧毁了一艘与伊朗有关联的帆船。 图片来源：美军中央司令部在社交媒体上发布的视频截图 消息称，该船当时正在对美海军舰艇进行监视并定位目标。在该船被摧毁前，船上人员已被安全转移。目前，遣返工作正在进行中。 美军中央司令部发布的视频显示，一艘船被击中后燃起大火，并冒出大量浓烟。 美军中央司令部10月10日在社交媒体上称，美军于7月14日恢复针对所有进出伊朗 港口 船只的封锁行动。3个月内，美军已使4艘商船丧失航行能力，135艘船只被勒令折返。此外，美军还摧毁了10艘与伊朗伊斯兰革命卫队有关联的油轮。 （文章来源：",
+     "source": "东方财富股票",
+     "zh": "美军称摧毁一艘与伊朗有关联的帆船 现场浓烟滚滚"
     },
     {
      "title": "三季报预告密集披露 基金锚定业绩确定性",
@@ -2314,36 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch"
     },
     {
-     "title": "【环球财经】伦敦金属交易所基本金属14日全线下跌",
-     "link": "http://stock.eastmoney.com/news/11784,202610153895902347.html",
-     "pubDate": "Thu, 15 Oct 2026 06:32:25 +0800",
-     "summary": "新华财经伦敦10月14日电（记者张亚东）伦敦金属交易所基本金属价格14日收盘时全线下跌。 3个月期 铜 收于每吨14436.00美元，比前一交易日的收盘价每吨下跌119.50美元，跌幅为0.82%。 3个月期 铝 收于每吨2989.00美元，比前一交易日的收盘价每吨下跌45.50美元，跌幅为1.50%。 3个月期 镍 收于每吨15530.00美元，比前一交易日的收盘价每吨下跌5.00美元，跌幅为0.03%。 3个月期铅收于每吨1901.50美元，比前一交易日的收盘价每吨下跌1.50美元，跌幅为0.08%。 3个月期锡收于每吨50215.00美元，比前一交易日的收盘价每吨下跌1185.00美元，",
-     "source": "东方财富股票",
-     "zh": "【环球财经】伦敦金属交易所基本金属14日全线下跌"
-    },
-    {
-     "title": "纽约期金突破4130美元/盎司，日内涨0.54%",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895902997.html",
-     "pubDate": "Thu, 15 Oct 2026 06:32:00 +0800",
-     "summary": "纽约期金突破4130美元/盎司，日内涨0.54%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "纽约期金突破4130美元/盎司，日内涨0.54%"
-    },
-    {
      "title": "Burnham wants to ‘repair bridges’ between Trump and Zelenskyy",
      "link": "https://www.ft.com/content/16ceb1fb-662c-4379-8187-0a51a7f4106f?syn-25a6b1a6=1",
      "pubDate": "Wed, 14 Oct 2026 22:31:26 GMT",
      "summary": "UK prime minister holds talks with Ukraine’s president in Downing Street following US diesel deal with Russia",
      "source": "Financial Times",
      "zh": "Burnham wants to ‘repair bridges’ between Trump and Zelenskyy"
-    },
-    {
-     "title": "最强语音模型来了：Grok Voice 3.0登顶测评榜单 SpaceX称可自主处理七成星链客服",
-     "link": "http://stock.eastmoney.com/news/1768,202610153895902070.html",
-     "pubDate": "Thu, 15 Oct 2026 06:31:16 +0800",
-     "summary": "美东时间14日周三， SpaceX 旗下AI业务 SpaceX AI发布新一代语音模型Grok Voice 3.0，主打低延迟、高任务成功率和企业级语音智能体应用。 SpaceX 将Grok Voice 3.0誉为“全球最智能的语音到语音模型”，称它擅长处理客户来电，可在不到1秒内响应客户，成本低于业内前沿模型，并已能自主解决SpaceX旗下星链（Starlink）业务70%的客服来电。开发者即日起可通过API和语音智能体构建工具调用该模型，定价为每分钟0.08美元。 独立AI评测平台Artificial Analysis的测试进一步显示，Grok Voice 3.0在其语音到语音模型 综合 ",
-     "source": "东方财富股票",
-     "zh": "最强语音模型来了：Grok Voice 3.0登顶测评榜单 SpaceX称可自主处理七成星链客服"
     },
     {
      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
@@ -2464,14 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "英伟达首席执行官黄仁勋表示，若有客户开发不安全的AI软件，他将停止向其供应芯片，但同时强调，目前市场对AI安全风险的担忧程度超出实际情况，AI泡沫论同样言过其实。 黄仁勋是在伦敦接受彭博专访时作出上述表态的。他正在欧洲巡访，为公司即将在柏林举办的活动造势。他表示，在切断供应之前会先与相关客户沟通，并指出英伟达的技术属于通用技术，公司在评判他人使用方式时存在边界。 与此同时，英伟达宣布将在五年内向英国AI安全研究捐助2.5亿美元，以实际行动表明对该议题的承诺。 周三，英伟达与其他芯片股大跌，黄仁勋重申对AI基础设施需求的乐观判断，称供需失衡状态将持续数年。\"供需最终会趋于平衡，但绝不是今天。\"他",
      "source": "华尔街见闻",
      "zh": "黄仁勋：对开发不安全AI软件的客户断供芯片，AI基础设施短缺将持续数年"
-    },
-    {
-     "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
-     "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 22:03:00 GMT",
-     "summary": "CoreWeave’s bonds issued a few months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
-     "source": "MarketWatch",
-     "zh": "CoreWeave’s AI bonds tumble, raising red flags for the wider market"
     },
     {
      "title": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",

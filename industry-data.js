@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/14 20:52:41",
+ "generated_at": "2026/10/14 21:06:41",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,30 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "A Migration Feasibility Study Can Turn an Uncertain Re-Design into a Measurable Engineering Project",
+     "link": "https://semiwiki.com/semiconductor-services/in2fab/374736-migration-feasibility-study/",
+     "pubDate": "Wed, 14 Oct 2026 13:00:02 +0000",
+     "summary": "Moving semiconductor IP to a new process technology is often treated as a redesign problem. For analog and mixed-signal designs, however, starting again from the schematic can overlook an asset: the engineering knowledge embedded in the existing physical layout. Device sizing, matching, symmetry, ro",
+     "source": "SemiWiki",
+     "zh": "A Migration Feasibility Study Can Turn an Uncertain Re-Design into a Measurable Engineering Project"
+    },
+    {
+     "title": "VICFUSE UL Standard Class Series Fuse Holders: Quality, Reliability, and Industrial Protection",
+     "link": "https://www.eetimes.com/vicfuse-ul-standard-class-series-fuse-holders-quality-reliability-and-industrial-protection/",
+     "pubDate": "Wed, 14 Oct 2026 13:00:00 +0000",
+     "summary": "Explore VICFUSE's Class CF fuse line, which offers current-limiting technology and meets Class J performance standards in a compact design. The post VICFUSE UL Standard Class Series Fuse Holders: Quality, Reliability, and Industrial Protection appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "VICFUSE UL Standard Class Series Fuse Holders: Quality, Reliability, and Industrial Protection"
+    },
+    {
+     "title": "TIE Showcases Taiwan’s Push to Deploy AI Across Industries",
+     "link": "https://www.eetimes.com/tie-showcases-taiwans-push-to-deploy-ai-across-industries/",
+     "pubDate": "Wed, 14 Oct 2026 13:00:00 +0000",
+     "summary": "Discover how Taiwan Innotech Expo 2026 showcased AI solutions designed to advance industries with practical, real-world impact The post TIE Showcases Taiwan’s Push to Deploy AI Across Industries appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "TIE Showcases Taiwan’s Push to Deploy AI Across Industries"
+    },
+    {
      "title": "ASML’s EUV Expansion Runs Through Zeiss",
      "link": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/",
      "pubDate": "Wed, 14 Oct 2026 12:49:10 +0000",
@@ -472,30 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sandra Rivera, Chair of VSORA , joined Bloomberg’s The Close in July for an interview on the current state of AI. What follows is a summary of that conversation. When a Silicon Valley veteran who once ran Intel’s Data Center and AI Group, and now chairs a French inference-chip challenger, sits down ",
      "source": "SemiWiki",
      "zh": "VSORA’s Sandra Rivera on the Inference Era: Demand Is Real, But Not Everyone Survives"
-    },
-    {
-     "title": "CASPA CEO Summit Preview with President Jimmy Cheng",
-     "link": "https://www.eetimes.com/caspa-ceo-summit-preview-with-president-jimmy-cheng/",
-     "pubDate": "Tue, 13 Oct 2026 14:04:30 +0000",
-     "summary": "CASPA’s annual conference celebrates its 35th anniversary with a lineup of more than 35 CEOs from Silicon Valley, including Intel’s Lip-Bu Tan and Cerebras’s Andrew Feldman. The post CASPA CEO Summit Preview with President Jimmy Cheng appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "CASPA CEO Summit Preview with President Jimmy Cheng"
-    },
-    {
-     "title": "Intel’s Open Software Blueprint: Why Production AI Needs More Than GPUs",
-     "link": "https://semiwiki.com/semiconductor-manufacturers/intel/374536-intels-open-software-blueprint-why-production-ai-needs-more-than-gpus/",
-     "pubDate": "Tue, 13 Oct 2026 13:00:25 +0000",
-     "summary": "Intel’s strategic argument about enterprise AI is that the value of a model depends on the system that surrounds it. In an article by executives Bill Pearson and Anil Nanduri, the company positions open software as the connective tissue linking CPUs, GPUs, data, and business applications. The messag",
-     "source": "SemiWiki",
-     "zh": "Intel’s Open Software Blueprint: Why Production AI Needs More Than GPUs"
-    },
-    {
-     "title": "17 Years with China: What Really Makes a Partnership Work",
-     "link": "https://www.eetimes.com/17-years-with-china-what-really-makes-a-partnership-work/",
-     "pubDate": "Tue, 13 Oct 2026 13:00:00 +0000",
-     "summary": "Honya Europe's Robert Tarantowicz shares 17 years of lessons on PCB sourcing in China, quality, trust, and risk management. The post 17 Years with China: What Really Makes a Partnership Work appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "17 Years with China: What Really Makes a Partnership Work"
     }
    ]
   },
@@ -1314,6 +1314,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "The 1st SpaceX Starship to survive a launch to space just came home to its launch site",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/the-1st-spacex-starship-to-survive-a-launch-to-space-just-came-home-to-its-launch-site",
+     "pubDate": "Wed, 14 Oct 2026 13:00:00 +0000",
+     "summary": "After surviving its splashdown and a grueling journey at sea, SpaceX's Ship 40 has returned to Starbase, where engineers will study the first recovered Starship upper stage for clues to future reusability.",
+     "source": "Space.com",
+     "zh": "The 1st SpaceX Starship to survive a launch to space just came home to its launch site"
+    },
+    {
      "title": "Exclusive: In Orbit Aerospace Pivots From Re-entry Vehicles to Spacecraft Autonomy",
      "link": "https://payloadspace.com/exclusive-in-orbit-aerospace-pivots-from-re-entry-vehicles-to-spacecraft-autonomy/",
      "pubDate": "Wed, 14 Oct 2026 12:17:00 +0000",
@@ -1336,6 +1344,14 @@ window.INDUSTRY_DATA = {
      "summary": "Reflect Orbital announced the purchase of two launches today from Indian launcher Skyroot Aerospace. The post Reflect Orbital Buys Two Skyroot Aerospace Launches appeared first on Payload .",
      "source": "Payload",
      "zh": "Reflect Orbital Buys Two Skyroot Aerospace Launches"
+    },
+    {
+     "title": "How Space Companies Can Prepare for a Potential Launch Gap",
+     "link": "https://payloadspace.com/how-space-companies-can-prepare-for-a-potential-launch-gap/",
+     "pubDate": "Wed, 14 Oct 2026 11:09:00 +0000",
+     "summary": "Based on conversations we’ve had with both space company executives and investors, there is a clear disconnect in prevailing sentiment on the impending launch crunch. The post Space Companies Should Start Preparing for a Potential Launch Gap, Including by Raising Capital appeared first on Payload Pr",
+     "source": "Payload",
+     "zh": "How Space Companies Can Prepare for a Potential Launch Gap"
     },
     {
      "title": "Scientists discover that some of the universe's biggest explosions may have never happened at all",
@@ -1386,14 +1402,6 @@ window.INDUSTRY_DATA = {
      "zh": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer"
     },
     {
-     "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
-     "link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
-     "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
-     "summary": "The sophomore season of \"Star Trek: Starfleet Academy\" will warp back to the small screen in March 2027 when the limited series returns for its final season on Paramount+.",
-     "source": "Space.com",
-     "zh": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier"
-    },
-    {
      "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
      "link": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
      "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
@@ -1402,12 +1410,12 @@ window.INDUSTRY_DATA = {
      "zh": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York"
     },
     {
-     "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
-     "link": "https://www.space.com/astronomy/earth/earths-poles-shifted-surprisingly-fast-during-the-age-of-dinosaurs-ancient-sea-levels-reveal",
-     "pubDate": "Tue, 13 Oct 2026 18:00:00 +0000",
-     "summary": "The location of Earth's geographic poles has changed several times over the past 320 million years in a process known as true polar wander.",
+     "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
+     "link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
+     "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
+     "summary": "The sophomore season of \"Star Trek: Starfleet Academy\" will warp back to the small screen in March 2027 when the limited series returns for its final season on Paramount+.",
      "source": "Space.com",
-     "zh": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal"
+     "zh": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier"
     },
     {
      "title": "Comparing Off-World Rover Driving Distances",
@@ -1464,14 +1472,6 @@ window.INDUSTRY_DATA = {
      "summary": "“It provides so much opportunity for not just people who love aerospace, but everyday people,” she explained. “We're doing science for medical research. We're doing science for pharmaceuticals, everything that patches and impacts everyday life.” The post Brianna Clark, Vast appeared first on Payload",
      "source": "Payload",
      "zh": "Brianna Clark, Vast"
-    },
-    {
-     "title": "Kayla Bigham, FAA",
-     "link": "https://payloadspace.com/kayla-bigham-faa/",
-     "pubDate": "Tue, 13 Oct 2026 12:45:00 +0000",
-     "summary": "Kayla Bigham grew up wanting to be an astronaut. Then, after learning about the Apollo 1 and Apollo 13 emergencies in elementary school, her goal shifted—she knew she wanted to keep space exploration safe. The post Kayla Bigham, FAA appeared first on Payload .",
-     "source": "Payload",
-     "zh": "Kayla Bigham, FAA"
     },
     {
      "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
@@ -1561,6 +1561,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages",
+     "link": "https://www.securityweek.com/microsoft-disrupts-chinese-language-phishing-market-behind-1b-messages/",
+     "pubDate": "Wed, 14 Oct 2026 13:00:00 +0000",
+     "summary": "Backed by a federal court order, Microsoft and Health-ISAC seized domains powering YAM Store, CoGUI, and Iron Man. The post Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages"
+    },
+    {
+     "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+     "pubDate": "Wed, 14 Oct 2026 08:58:07 -0400",
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+     "source": "BleepingComputer",
+     "zh": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day"
+    },
     {
      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
@@ -1682,14 +1698,6 @@ window.INDUSTRY_DATA = {
      "zh": "Microsoft Patches More Than 1,400 Security Flaws"
     },
     {
-     "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
-     "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
-     "pubDate": "Tue, 13 Oct 2026 23:07:00 +0000",
-     "summary": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say"
-    },
-    {
      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
      "pubDate": "Tue, 13 Oct 2026 18:33:02 -0400",
@@ -1738,14 +1746,6 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic Finds Ingredients for Future AI Worms"
     },
     {
-     "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
-     "pubDate": "Tue, 13 Oct 2026 15:56:09 -0400",
-     "summary": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-     "source": "BleepingComputer",
-     "zh": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days"
-    },
-    {
      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
      "pubDate": "Mon, 12 Oct 2026 21:42:42 GMT",
@@ -1786,12 +1786,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "格芯获选在纽约建设两座晶圆厂，与美国商务部达成协议调整 9.55 亿美元资助并为其分配约 4% 股权",
+     "title": "R 星驳斥《GTA6》游戏制作成本超 15 亿美元传闻，但员工规模相比 2018 年已翻倍",
+     "link": "https://www.ithome.com/1/013/096.htm",
+     "pubDate": "Wed, 14 Oct 2026 13:02:30 GMT",
+     "summary": "IT之家 10 月 14 日消息，据彭博社报道，Rockstar 发行部门负责人 Jennifer Kolbe 否认《GTA6》开发预算超 15 亿美元 （IT之家注：现汇率约合 100.58 亿元人民币） 的传闻。作为参考，这个数字是迪拜地标建筑哈利法塔的建造成本。 不过，R 星并没有真正说出《GTA6》的开发预算。据IT之家此前报道，《商业内幕》今年采访 R 星母公司 T2 首席执行官泽尔尼克时认为，本作开发预算大约在 10 亿美元-15 亿美元 （现汇率约合 67.05 亿元- 100.58 亿元人民币） 之间。 泽尔尼克拒绝说出这款游戏的投入成本， 只是说“很贵” 。 虽然官方并没有给",
+     "source": "IT之家",
+     "zh": "R 星驳斥《GTA6》游戏制作成本超 15 亿美元传闻，但员工规模相比 2018 年已翻倍"
+    },
+    {
+     "title": "茶百道，拿了瑞幸的剧本？",
+     "link": "https://www.huxiu.com/article/4897566.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 20:56:16 +0800",
+     "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 瑞幸能翻身，茶百道难了。 定焦One（dingjiaoone）原创 茶百道的麻烦还在继续。 10月14日晚间，恒生指数公司发布公告称，茶百道于香港联合交易所上市之股份受监管机构调查而停牌，其公司股份将会从恒生指数系列中剔除。 一天前，这家“新茶饮第二股”刚刚被香港证监会勒令停牌。从2024年4月上市至今，两年半的时间内，这家公司的股价已经较发行价跌去了70%以上，此次停牌也是源于IPO，它的挂牌交易从一开始就是一场错误。 香港证监会当天发布的公告显示，已对两个“可疑”集团采取行动，因它们涉嫌参与欺诈计划，意图就首次公开招股的",
+     "source": "虎嗅",
+     "zh": "茶百道，拿了瑞幸的剧本？"
+    },
+    {
+     "title": "苹果 iOS 27.2 Beta 4 系统 Siri AI 新增支持法语、日语、西班牙语等",
+     "link": "https://www.ithome.com/1/013/094.htm",
+     "pubDate": "Wed, 14 Oct 2026 12:53:07 GMT",
+     "summary": "IT之家 10 月 14 日消息，苹果公司今日推送 iOS 27.2 Beta 4 开发者预览版（24B5110a）操作系统，为 Siri AI 新增五种语言。 本次更新后， Siri AI 将支持英语、法语、日语、韩语、葡萄牙语和西班牙语 。苹果已在此前确认这些语言扩展支持，具体可用性仍取决于用户所在地区和设备。 IT之家了解到，Siri AI 是苹果最新的人工智能助理，支持 Apple 智能的各种新本领，其调用方法和平时使用 Siri 一样，理解个人情境，执行 App 操作、感知屏幕、理解图像、以及调用广博的世界知识。除此之外还拥有全新的专属 App，具备可跨平台提供视觉智能、集成工具来写",
+     "source": "IT之家",
+     "zh": "苹果 iOS 27.2 Beta 4 系统 Siri AI 新增支持法语、日语、西班牙语等"
+    },
+    {
+     "title": "iQOO Neo12 手机官宣“十月底见”：pTSF 技术 2K 185Hz 超冠屏、第五代骁龙 8 至尊版芯片",
+     "link": "https://www.ithome.com/1/013/093.htm",
+     "pubDate": "Wed, 14 Oct 2026 12:51:35 GMT",
+     "summary": "IT之家 10 月 14 日消息，在今天的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 产品副总裁罗峰现场宣布， iQOO Neo12“十月底见” （PPT 显示十月见）。 据介绍，iQOO Neo12 手机将行业首发搭载 pTSF 技术的 2K 185Hz 超冠屏、行业首发「天空之镜」发光材料、行业首发 2K 185Hz 高性能驱动芯片。 另外，新机将行业首发 2K 185FPS 超分超帧并发、行业首批适配原生 2K 超高清游戏、适配超 50 款原生 185 帧游戏等。新机将在本月发布。 IT之家整理 iQOO Neo12 手机已公布 / 曝光配置如下： 性能：第五代骁龙 8",
+     "source": "IT之家",
+     "zh": "iQOO Neo12 手机官宣“十月底见”：pTSF 技术 2K 185Hz 超冠屏、第五代骁龙 8 至尊版芯片"
+    },
+    {
+     "title": "老百姓纯过日子，影响了谁的生意？",
+     "link": "https://www.huxiu.com/article/4897560.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 20:49:19 +0800",
+     "summary": "本文来自微信公众号： 灵兽 ，作者：十里 普通人不是不消费，而是拒绝为包装、故事和溢价买单。 1 消费祛魅 今年中秋，月饼的货架有些不一样。节前四五天，不少商超已经把月饼打到6到9折。美心那款双黄白莲蓉礼盒（740g），原价318，促销价238，降了快三成。 往年这个时候，高端礼盒还在争主陈列位。 从勤策消费研究的数据来看，2026年中秋期间，上千元的月饼礼盒销量同比下滑约76%；500元以上礼盒在常规渠道的占比，从2023年的7.2%一路掉到了1.8%。 但另一边，山姆、胖东来的自营月饼却要靠抢。 一边是高端礼盒清仓，一边是部分平价产品热销，说明遇冷的未必是月饼本身，而可能是某些产品的定价与",
+     "source": "虎嗅",
+     "zh": "老百姓纯过日子，影响了谁的生意？"
+    },
+    {
+     "title": "格芯获选在纽约建设两座晶圆厂，与美国商务部达成协议调整 9.55 亿美元资助并为其额外分配约 4% 股权",
      "link": "https://www.ithome.com/1/013/091.htm",
      "pubDate": "Wed, 14 Oct 2026 12:48:25 GMT",
-     "summary": "IT之家 10 月 14 日消息，格芯（GlobalFoundries，GF）刚刚宣布，公司已被选定为美国纽约州马耳他市两座新半导体制造工厂的技术提供商和运营方。 该项目由美国与日本之间的贸易和投资协议推动，日本将提供最高 210 亿美元 （IT之家注：现汇率约合 1,408.06 亿元人民币） 投资，用于扩大美国本土半导体制造能力。 根据格芯公告，首期约 100 亿美元 （现汇率约合 670.5 亿元人民币） 投资将用于加快一座全新 300 毫米晶圆厂的建设，该工厂预计于 2029 年投产。另有约 100 亿美元投资将用于建设第二座晶圆厂。两座工厂全部建成投产后，将为美国增加大量半导体制造产",
+     "summary": "IT之家 10 月 14 日消息，格芯（GlobalFoundries，GF）刚刚宣布，公司已被选定为美国纽约州马耳他市两座新半导体制造工厂的技术提供商和运营方。 该项目是美日此前达成的 5,500 亿美元 （现汇率约合 3.69 万亿元人民币） 投资协议的一部分。除新工厂外，格芯还与美国商务部达成协议，重新调整其《芯片与科学法案》获得 9.55 亿美元资金，并为美国商务部分配约 4% 的格芯股权，使其在格芯的总持股比例升至约 7%。 该项目由美国与日本之间的贸易和投资协议推动，日本将提供最高 210 亿美元 （IT之家注：现汇率约合 1,408.06 亿元人民币） 投资，用于扩大美国本土半导",
      "source": "IT之家",
-     "zh": "格芯获选在纽约建设两座晶圆厂，与美国商务部达成协议调整 9.55 亿美元资助并为其分配约 4% 股权"
+     "zh": "格芯获选在纽约建设两座晶圆厂，与美国商务部达成协议调整 9.55 亿美元资助并为其额外分配约 4% 股权"
     },
     {
      "title": "美国《超级智能协议》：签了等于没签？",
@@ -1842,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "快递“反内卷”这一年：向钱看、向人看、向前看"
     },
     {
-     "title": "BIGME 大我推出 B13 Pro 彩墨屏显示器：13.3 英寸、最高 60FPS，569 美元",
-     "link": "https://www.ithome.com/1/013/087.htm",
-     "pubDate": "Wed, 14 Oct 2026 12:32:24 GMT",
-     "summary": "IT之家 10 月 14 日消息，BIGME 大我今日宣布 Bigme B13 Pro 彩墨屏显示器在 Bigme 官网开始预售， 预售价格 569 美元 （IT之家注：现汇率约合 3,815 元人民币） 。 这款 13.3 英寸显示器采用 Kaleido 3 显示技术，分辨率 3200×2400，300PPI（黑白）/ 150PPI（彩色）；刷新率至高达 60 帧 / 秒，支持有线连接（Mini HDMI 或 Type-C）与无线投屏，Type-C 可同时负责电源与连接，无线投屏支持 DLNA / AirPlay / Miracast。 这款新品采用铝合金机身，尺寸 286 × 231.5 ",
-     "source": "IT之家",
-     "zh": "BIGME 大我推出 B13 Pro 彩墨屏显示器：13.3 英寸、最高 60FPS，569 美元"
-    },
-    {
      "title": "净息差刚刚回稳，部分中小银行开始提高大额存单利率",
      "link": "https://www.huxiu.com/article/4897553.html?f=rss",
      "pubDate": "Wed, 14 Oct 2026 20:30:05 +0800",
@@ -1866,42 +1898,10 @@ window.INDUSTRY_DATA = {
      "zh": "US law enforcement and intel agency docs: since 2021, the FBI, DHS, and NYPD have viewed AI as both a facilitator of violent extremism and a target for attacks (The Guardian)"
     },
     {
-     "title": "iQOO Neo12 官宣首发 pTSF 技术超冠屏：「天空之镜」发光材料，号称让 185Hz 进入 2K 时代",
-     "link": "https://www.ithome.com/1/013/086.htm",
-     "pubDate": "Wed, 14 Oct 2026 12:28:01 GMT",
-     "summary": "IT之家 10 月 14 日消息，在今天的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 宣布， i QOO Neo12 新机拥有三大首发技术 + 七大争锋屏幕体验 + 2K 185Hz 超豪华游戏生态 ，并喊话“让 185Hz 进入 2K 时代”。 据介绍，iQOO Neo12 手机将行业首发搭载 pTSF 技术的 2K 185Hz 超冠屏、 行业首发「天空之镜」发光材料 、行业首发 2K 185Hz 高性能驱动芯片。 新机屏幕将拥有 2K 分辨率、185Hz 超高刷、 2200nits 全屏峰值亮度 、自研 XDR 动态范围增强、游戏眩光防护、圆偏振光显示 2.0、1nit ",
-     "source": "IT之家",
-     "zh": "iQOO Neo12 官宣首发 pTSF 技术超冠屏：「天空之镜」发光材料，号称让 185Hz 进入 2K 时代"
-    },
-    {
-     "title": "差评如潮：世嘉《全面战争: 幕府将军 2》完全版发售，Steam 国区 198 元",
-     "link": "https://www.ithome.com/1/013/085.htm",
-     "pubDate": "Wed, 14 Oct 2026 12:26:52 GMT",
-     "summary": "IT之家 10 月 14 日消息，世嘉《全面战争：幕府将军 2》完全版于 10 月 13 日正式发售。目前在 Steam 上，完全版国区价格为 198 元，原版玩家可享 75% 折扣升级（仅限发售后的 30 天内有效）。本作以细致刻画的乱世日本为舞台，时间跨越源平合战、战国时代直至戊辰战争。 据 Steam 商店页面信息，完全版收录游戏本体及所有 DLC，包括《武家之殇》与《武家崛起》两大战役，并带来全面提升的画质、光影及材质，1440p 及 4K 分辨率下的 UI 缩放，现代化操作，全新中文 / 日文语音及文本本地化，50 余种全新可玩子阵营，以及 64 位升级等内容。 然而上线不足一天，该",
-     "source": "IT之家",
-     "zh": "差评如潮：世嘉《全面战争: 幕府将军 2》完全版发售，Steam 国区 198 元"
-    },
-    {
-     "title": "电子烟“新规”4年后，悦刻之流活得还好吗？",
-     "link": "https://www.huxiu.com/article/4897543.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 20:20:38 +0800",
-     "summary": "本文来自微信公众号： TS消费观察 ，作者：Adrianhts 2022年电子烟全行业收到了一份迟到已久的户口本，此前一年的11月国务院修改烟草专卖法实施条例，一句话把电子烟划进了卷烟的管理框架。2022年3月国家烟草专卖局发布《电子烟管理办法》，具体的条例翻译成人话就是：从今以后你就被视作烟草等同对待，不可以添加水果美食风味“诱食剂”，烟弹的尼古丁含量也作出了要求。 监管给出的理由很直白，产品烟碱含量不清、添加成分不明，还有人诱导未成年人吸食，全行业不允许再这样无序地野蛮生长了。行业数据是最直观的展示，电子烟店铺从2013年的4.5万家涨到2020年的16.8万家，那些年谁的微信里没有几个“",
-     "source": "虎嗅",
-     "zh": "电子烟“新规”4年后，悦刻之流活得还好吗？"
-    },
-    {
-     "title": "自掏工资悬赏解题，这位南大教授提了上千个数学猜想",
-     "link": "https://www.huxiu.com/article/4897549.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 20:19:15 +0800",
-     "summary": "本文来自微信公众号： 科学网 ，编辑：|方圆，作者：孙滔，原文标题：《自掏工资悬赏解题！这位南大教授提了上千个数学猜想》 2017年2月4日深夜，睡梦中的孙智伟突然觉得“背后有两股热流在窜来窜去”。他猛然惊醒，披衣坐起，再也睡不着了。 后来回忆起那个瞬间，孙智伟说自己是“突然开了窍”。那晚他脑中闪现的灵感，冲着一个两百多年前的经典数学定理而去——他决定给大名鼎鼎的“四平方和定理”套上两个限制条件。 为了这个猜想，他决定自掏腰包悬赏2400美元。数额不是随便定的：猜想萌生在2月4日，条件里又涉及数字24，他干脆将其命名为“24猜想”。 如今9年过去了，这笔悬赏依然静静地挂在数学界的迷雾中，至今无",
-     "source": "虎嗅",
-     "zh": "自掏工资悬赏解题，这位南大教授提了上千个数学猜想"
-    },
-    {
      "title": "The Aaronson Oracle",
      "link": "https://aaronsonoracle.com/",
      "pubDate": "Wed, 14 Oct 2026 12:16:35 +0000",
-     "summary": "Article URL: https://aaronsonoracle.com/ Comments URL: https://news.ycombinator.com/item?id=50086484 Points: 4 # Comments: 1",
+     "summary": "Article URL: https://aaronsonoracle.com/ Comments URL: https://news.ycombinator.com/item?id=50086484 Points: 6 # Comments: 6",
      "source": "Hacker News",
      "zh": "The Aaronson Oracle"
     },
@@ -1917,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Smart people don't think others are stupid",
      "link": "https://sive.rs/ss",
      "pubDate": "Wed, 14 Oct 2026 12:01:16 +0000",
-     "summary": "Article URL: https://sive.rs/ss Comments URL: https://news.ycombinator.com/item?id=50086313 Points: 36 # Comments: 11",
+     "summary": "Article URL: https://sive.rs/ss Comments URL: https://news.ycombinator.com/item?id=50086313 Points: 51 # Comments: 26",
      "source": "Hacker News",
      "zh": "Smart people don't think others are stupid"
     },
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
      "link": "https://github.com/timescale/pg_vectorsearch",
      "pubDate": "Wed, 14 Oct 2026 11:47:53 +0000",
-     "summary": "Article URL: https://github.com/timescale/pg_vectorsearch Comments URL: https://news.ycombinator.com/item?id=50086165 Points: 20 # Comments: 2",
+     "summary": "Article URL: https://github.com/timescale/pg_vectorsearch Comments URL: https://news.ycombinator.com/item?id=50086165 Points: 29 # Comments: 5",
      "source": "Hacker News",
      "zh": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW"
     },
@@ -2282,6 +2282,126 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket",
+     "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+     "pubDate": "Wed, 14 Oct 2026 13:02:35 GMT",
+     "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
+     "source": "CNBC",
+     "zh": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket"
+    },
+    {
+     "title": "Implanet S.A. reports Q3 results",
+     "link": "https://seekingalpha.com/news/4652891-implanet-s-a-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 08:59:28 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Implanet S.A. reports Q3 results"
+    },
+    {
+     "title": "4 stocks to watch on Wednesday: PG, MS, NFLX, and ASML",
+     "link": "https://seekingalpha.com/news/4652889-4-stocks-to-watch-on-wednesdaypg-ms-nflx-and-asml?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 08:57:14 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "4 stocks to watch on Wednesday: PG, MS, NFLX, and ASML"
+    },
+    {
+     "title": "【调研快报】云意电气接待宏利基金管理有限公司等25家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610143895693434.html",
+     "pubDate": "Wed, 14 Oct 2026 20:56:33 +0800",
+     "summary": "云意电气 10月14日公告称， 10月12日 接待宏利基金管理有限公司 等25家机构 调研。 接待人员包括董事 李成忠,董事会秘书 梁超,技术研发负责人 杨梓,证券事务代表 夏伊彤。 公司就以下问题进行了回复： 本次交流活动的主要问答整理如下: Q1:SOFC的产业价值与需求来源是什么? 答: 电力 已成为算力发展的核心约束,传统集中式供电难以匹配 数据中心 (AIDC)爆发式增长的用电需求,分布式增量电源成为重要补充。AIDC建设呈现深度直流化、一体化建设及通电时效重要性提升等结构性变化,为SOFC创... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操",
+     "source": "东方财富股票",
+     "zh": "【调研快报】云意电气接待宏利基金管理有限公司等25家机构调研"
+    },
+    {
+     "title": "US inflation jumps to 3.7% as Iran war drives up prices",
+     "link": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
+     "pubDate": "Wed, 14 Oct 2026 12:56:18 GMT",
+     "summary": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
+     "source": "Financial Times",
+     "zh": "US inflation jumps to 3.7% as Iran war drives up prices"
+    },
+    {
+     "title": "陕西煤业：每10股派0.58元，股权登记日为10月21日",
+     "link": "http://stock.eastmoney.com/news/11215,202610143895695049.html",
+     "pubDate": "Wed, 14 Oct 2026 20:56:00 +0800",
+     "summary": "上证智讯 10月14日， 陕西煤业 发布2026年半年度权益分派实施公告称，本次利润分配以方案实施前的公司总股本96.95亿股为基数，每股派发现金红利0.058元（含税），共计派发现金红利约5.62亿元。本次权益分派不涉及差异化分红送转。股权登记日为2026年10月21日，除权（息）日为2026年10月22日，现金红利发放日为2026年10月22日。 （文章来源：上海证券报·中国证券网）",
+     "source": "东方财富股票",
+     "zh": "陕西煤业：每10股派0.58元，股权登记日为10月21日"
+    },
+    {
+     "title": "分析师：核心通胀超预期 通胀或已根深蒂固",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895694071.html",
+     "pubDate": "Wed, 14 Oct 2026 20:55:38 +0800",
+     "summary": "First Citizens Bank Wealth Management市场与经济研究主管菲利普·诺伊哈特表示，今天强于预期的核心通胀数据让10月FOMC利率决定重新成为焦点，出人意料的高核心通胀使讨论从能源驱动的暂时性飙升转向根深蒂固的通胀。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "分析师：核心通胀超预期 通胀或已根深蒂固"
+    },
+    {
+     "title": "CPI公布后美联储10月加息概率升至43.7%",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895693931.html",
+     "pubDate": "Wed, 14 Oct 2026 20:55:37 +0800",
+     "summary": "美国9月CPI数据公布后，据CME“美联储观察”：美联储到10月维持利率不变的概率为56.3%，累计加息25个基点的概率为43.7%。美联储到12月维持利率不变的概率为4.3%，累计加息25个基点的概率55.3%，累计加息50个基点的概率为40.4%。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "CPI公布后美联储10月加息概率升至43.7%"
+    },
+    {
+     "title": "【调研快报】鲁西化工接待淡水泉投资调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610143895692727.html",
+     "pubDate": "Wed, 14 Oct 2026 20:55:31 +0800",
+     "summary": "鲁西化工 10月14日公告称， 10月14日 接待淡水泉投资 调研。 接待人员包括董事会秘书 刘月刚,证券事务代表 柳青。 公司就以下问题进行了回复： 互动沟通主要内容如下: 一、介绍公司近期生产经营情况 近期园区整体生产经营情况正常,公司持续严抓生产企业的安全管控,确保生产企业长周期稳定运行,按照年初确定的目标,大力度开展节能降耗、提质增效,进一步增强园区化优势。 近期因石油价格变化波动等原因,导致部分 化工原料 价格波动变化较快,部分化工产品价格变... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，",
+     "source": "东方财富股票",
+     "zh": "【调研快报】鲁西化工接待淡水泉投资调研"
+    },
+    {
+     "title": "美国CPI公布后美联储10月加息概率升至43.7% 较数据公布前翻倍",
+     "link": "http://finance.eastmoney.com/news/1346,202610143895695454.html",
+     "pubDate": "Wed, 14 Oct 2026 20:55:23 +0800",
+     "summary": "CME FedWatch工具显示，交易员对美联储10月加息25个基点的押注继续升温，加息概率升至43.7%，维持利率不变的概率降至56.3%。相比美国9月CPI数据公布前，加息概率已由21.6%上升22.1个百分点。美国9月CPI同比上涨3.7%，高于市场预期的3.6%，进一步推升市场对美联储本月加息的预期。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国CPI公布后美联储10月加息概率升至43.7% 较数据公布前翻倍"
+    },
+    {
+     "title": "State Street Q3 earnings as fee revenue disappoint; stock trades down",
+     "link": "https://seekingalpha.com/news/4652864-state-street-q3-earnings-as-fee-revenue-disappoints-stock-trades-down?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 08:54:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "State Street Q3 earnings as fee revenue disappoint; stock trades down"
+    },
+    {
+     "title": "Accenture rises as mid-term growth targets point to stronger FY29 outlook",
+     "link": "https://seekingalpha.com/news/4652862-accenture-rises-as-mid-term-growth-targets-point-to-stronger-fy29-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 08:54:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Accenture rises as mid-term growth targets point to stronger FY29 outlook"
+    },
+    {
+     "title": "EON Resources reports Q1 results",
+     "link": "https://seekingalpha.com/news/4652888-eon-resources-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 08:54:22 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "EON Resources reports Q1 results"
+    },
+    {
+     "title": "Bank of America shares drop 7% after third-quarter revenue miss and regulatory penalty",
+     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+     "pubDate": "Wed, 14 Oct 2026 12:54:01 GMT",
+     "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+     "source": "CNBC",
+     "zh": "Bank of America shares drop 7% after third-quarter revenue miss and regulatory penalty"
+    },
+    {
+     "title": "IonQ seeks nearly $2B in net proceeds from stock, warrant offering",
+     "link": "https://seekingalpha.com/news/4652885-ionq-seeks-nearly-2b-in-net-proceeds-from-stock-warrant-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 08:53:29 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "IonQ seeks nearly $2B in net proceeds from stock, warrant offering"
+    },
+    {
      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
      "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
      "pubDate": "Wed, 14 Oct 2026 12:49:45 GMT",
@@ -2290,28 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million"
     },
     {
-     "title": "Stock futures fall as investors digest CPI report",
-     "link": "https://seekingalpha.com/news/4652763-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 08:48:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Stock futures fall as investors digest CPI report"
-    },
-    {
-     "title": "Treasury yields jump across the curve on sticky inflation data",
-     "link": "https://seekingalpha.com/news/4652881-treasury-yields-jump-across-the-curve-on-sticky-inflation-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 08:48:26 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Treasury yields jump across the curve on sticky inflation data"
-    },
-    {
-     "title": "Corporación América Airports raises stake in Toscana Aeroporti to 68.07%",
-     "link": "https://seekingalpha.com/news/4652884-corporacion-america-airports-raises-stake-in-toscana-aeroporti-to-68_07-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 08:46:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Corporación América Airports raises stake in Toscana Aeroporti to 68.07%"
+     "title": "10月14日晚间上市公司利好消息一览(附名单)",
+     "link": "http://finance.eastmoney.com/news/1353,202610143895692215.html",
+     "pubDate": "Wed, 14 Oct 2026 20:48:53 +0800",
+     "summary": "沪深两市多家上市公司10月14日晚间发布重要公告，以下为利好的消息汇总： 阿尔特 ：年产60万台电磁离合器模块产线投产 10月14日， 阿尔特 (300825)官微消息，近日，芜湖 阿尔特 动力科技有限公司正式开业，芜湖阿尔特由阿尔特与芜湖华安战新股权投资基金合伙企业（有限合伙）联合设立，专注于纯电动及混动动力总成系统研发与生产，核心聚焦电磁离合器模块的规模化制造。在产品与生产端，芜湖阿尔特产线在恒温无尘车间内采用自动化装配，年产电磁离合器60万台。 武汉天源 ：拟投建年产200吨6N/7N级高纯铟及年产100吨磷化铟多晶生产基地项目 武汉天源 (301127)10月14日公告，拟投资建设“楚",
+     "source": "东方财富资讯",
+     "zh": "10月14日晚间上市公司利好消息一览(附名单)"
     },
     {
      "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
@@ -2330,44 +2434,12 @@ window.INDUSTRY_DATA = {
      "zh": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine"
     },
     {
-     "title": "Arrowhead spikes after early-stage trial data for Alzheimer’s disease",
-     "link": "https://seekingalpha.com/news/4652880-arrowhead-stock-gains-trial-data-alzheimers-drug?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 08:44:30 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Arrowhead spikes after early-stage trial data for Alzheimer’s disease"
-    },
-    {
-     "title": "Bank of America shares drop 5% after third-quarter revenue miss and regulatory penalty",
-     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-     "pubDate": "Wed, 14 Oct 2026 12:43:55 GMT",
-     "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-     "source": "CNBC",
-     "zh": "Bank of America shares drop 5% after third-quarter revenue miss and regulatory penalty"
-    },
-    {
      "title": "Iran says it’s ‘counting the moments’ until it can attack U.S. warships; Saudi Aramco facilities attacked",
      "link": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
      "pubDate": "Wed, 14 Oct 2026 12:43:45 GMT",
      "summary": "Meanwhile, Saudi Arabia's Aramco reportedly came under fresh attack overnight.",
      "source": "CNBC",
      "zh": "Iran says it’s ‘counting the moments’ until it can attack U.S. warships; Saudi Aramco facilities attacked"
-    },
-    {
-     "title": "CPI read: Coffee prices rise 7% in September",
-     "link": "https://seekingalpha.com/news/4652882-cpi-read-coffee-prices-rise-7-percent-in-september?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 08:43:17 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CPI read: Coffee prices rise 7% in September"
-    },
-    {
-     "title": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket",
-     "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-     "pubDate": "Wed, 14 Oct 2026 12:41:39 GMT",
-     "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
-     "source": "CNBC",
-     "zh": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket"
     },
     {
      "title": "出口大增，中国电池厂的海外生意越做越重",
@@ -2386,54 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "美国CPI超预期加剧加息押注，美股美债双双下挫，美元上涨，现货黄金走低"
     },
     {
-     "title": "美银CEO莫伊尼汉：（关于12亿美元罚款）我们理解合规的重要性",
-     "link": "http://finance.eastmoney.com/news/1351,202610143895663642.html",
-     "pubDate": "Wed, 14 Oct 2026 20:40:04 +0800",
-     "summary": "美银CEO莫伊尼汉：（关于12亿美元罚款）我们理解合规的重要性。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美银CEO莫伊尼汉：（关于12亿美元罚款）我们理解合规的重要性"
-    },
-    {
-     "title": "美国2至5年期国债收益率日内均上涨至少10个基点",
-     "link": "http://finance.eastmoney.com/news/1351,202610143895663779.html",
-     "pubDate": "Wed, 14 Oct 2026 20:40:03 +0800",
-     "summary": "美国2至5年期国债收益率日内均上涨至少10个基点。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美国2至5年期国债收益率日内均上涨至少10个基点"
-    },
-    {
-     "title": "意大利10年期国债收益率上升4个基点，至4.597%；法国10年期国债收益率上升4.5个基点，至4.89%",
-     "link": "http://finance.eastmoney.com/news/1351,202610143895663578.html",
-     "pubDate": "Wed, 14 Oct 2026 20:40:03 +0800",
-     "summary": "意大利10年期国债收益率上升4个基点，至4.597%；法国10年期国债收益率上升4.5个基点，至4.89%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "意大利10年期国债收益率上升4个基点，至4.597%；法国10年期国债收益率上升4.5个基点，至4.89%"
-    },
-    {
-     "title": "美国通胀全线升温 市场加大对美联储加息预期",
-     "link": "http://finance.eastmoney.com/news/1351,202610143895663462.html",
-     "pubDate": "Wed, 14 Oct 2026 20:40:03 +0800",
-     "summary": "受伊朗战争推动燃油价格反弹影响，美国9月未季调CPI年率升至3.7%，在11月中期选举临近之际进一步加重美国民众的生活成本压力。未季调核心CPI年率则从8月的2.4%升至2.6%。数据公布后，美国国债收益率跳升，国际金银价格大跌，美元指数走高，同时市场增加2027年底前美联储再加息三次的押注。美国劳工统计局公布的数据标志着美国通胀率自5月以来首次回升，凸显中东战争引发的能源价格冲击仍在持续影响全球最大经济体。战争爆发后，汽油和柴油价格一度飙升，随后在夏季有所回落，但近几个月随着紧张局势升级，燃油价格再次上涨，推动柴油价格创下 历史新高 。美国总统特朗普一直试图控制能源价格上涨带来的冲击。民调显",
-     "source": "东方财富股票",
-     "zh": "美国通胀全线升温 市场加大对美联储加息预期"
-    },
-    {
-     "title": "美银CEO莫伊尼汉：消费者支出强劲，经济韧性十足",
-     "link": "http://finance.eastmoney.com/news/1351,202610143895663270.html",
-     "pubDate": "Wed, 14 Oct 2026 20:40:03 +0800",
-     "summary": "美银CEO莫伊尼汉：消费者支出强劲，经济韧性十足。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美银CEO莫伊尼汉：消费者支出强劲，经济韧性十足"
-    },
-    {
-     "title": "美国9月实际平均周薪同比下降0.1%",
-     "link": "http://finance.eastmoney.com/news/1351,202610143895663819.html",
-     "pubDate": "Wed, 14 Oct 2026 20:39:42 +0800",
-     "summary": "美国9月实际平均周薪同比下降0.1%，实际平均时薪同比下降0.7%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国9月实际平均周薪同比下降0.1%"
-    },
-    {
      "title": "三季报集体预喜，PCB公司的“好业绩”还能持续多久？",
      "link": "http://www.eeo.com.cn/2026/1014/1064521.shtml",
      "pubDate": "Wed, 14 Oct 2026 20:39:02 +0800",
@@ -2450,22 +2474,6 @@ window.INDUSTRY_DATA = {
      "zh": "BoE and IMF warn of cyber threat to banking system"
     },
     {
-     "title": "BHP reaches preliminary deal with Escondida mine supervisors union, likely averting strike",
-     "link": "https://seekingalpha.com/news/4652868-bhps-escondida-workers-reach-preliminary-deal-with-supervisors-union-likely-averting-strike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 08:38:40 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BHP reaches preliminary deal with Escondida mine supervisors union, likely averting strike"
-    },
-    {
-     "title": "US inflation jumps to 3.7% as Iran war drives up prices",
-     "link": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
-     "pubDate": "Wed, 14 Oct 2026 12:37:54 GMT",
-     "summary": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
-     "source": "Financial Times",
-     "zh": "US inflation jumps to 3.7% as Iran war drives up prices"
-    },
-    {
      "title": "市场加大对10月美联储加息的押注",
      "link": "http://finance.eastmoney.com/news/1345,202610143895660552.html",
      "pubDate": "Wed, 14 Oct 2026 20:34:57 +0800",
@@ -2474,12 +2482,20 @@ window.INDUSTRY_DATA = {
      "zh": "市场加大对10月美联储加息的押注"
     },
     {
-     "title": "美国9月CPI同比增长3.7% 高于市场预期",
+     "title": "美国9月CPI高于预期 10月加息押注升温！黄金、白银直线跳水",
      "link": "http://finance.eastmoney.com/news/1345,202610143895658536.html",
      "pubDate": "Wed, 14 Oct 2026 20:30:40 +0800",
      "summary": "美国9月消费者价格指数（CPI）同比增长3.7%，预估为3.6%，前值为3.4%。9月CPI环比增长0.6%，预估0.6%。 美国9月核心CPI同比增长2.6%，预估为2.5%，前值为2.4%。9月核心CPI环比增长0.3%，预估为0.2%，前值为0.3%。 交易员增加对10月美联储加息的押注，同时预计到2027年底美联储还将加息三次。 数据发布后，现货 黄金 日内跌幅扩大至1%，报4119.03美元/盎司。现货 白银 日内跌幅扩大至2%，报57.81美元/盎司。 美元指数短线拉升约30点，现报102.52。美股 期货 短线走低，三大股指 期货 均转跌。美国10年期国债收益率短线拉升，现报5.",
      "source": "东方财富资讯",
-     "zh": "美国9月CPI同比增长3.7% 高于市场预期"
+     "zh": "美国9月CPI高于预期 10月加息押注升温！黄金、白银直线跳水"
+    },
+    {
+     "title": "通胀全面走热！美国9月CPI同比3.7%，核心CPI同比2.6%超预期，10月加息预期飙升",
+     "link": "https://wallstreetcn.com/articles/3783634",
+     "pubDate": "Wed, 14 Oct 2026 20:30:26 +0800",
+     "summary": "美国通胀数据全面走热，加息预期骤然升温，金融市场承压。 美国劳工统计局周三公布数据显示，9月消费者价格指数（CPI）同比上涨3.7%，高于市场预期的3.6%，较前值3.4%进一步扩大。 核心CPI同比上涨2.6%，同样超出预期的2.5%，前值为2.4%。这是美国消费者价格五个月来最快的涨幅，通胀压力的持续性超出市场此前预判。 环比方面，美国9月CPI环比上涨0.6%，与预期持平，前值为0.4%。核心CPI环比上涨0.3%，高于预期的0.2%，与前值持平。 数据公布后，金融市场迅速作出反应。美元指数短线拉升约30点，美国10年期国债收益率同步走高，美股三大股指期货均转跌，现货黄金短线下挫约30美",
+     "source": "华尔街见闻",
+     "zh": "通胀全面走热！美国9月CPI同比3.7%，核心CPI同比2.6%超预期，10月加息预期飙升"
     },
     {
      "title": "2026“险资入蒙”暨算电协同产融对接会在内蒙古呼和浩特市开幕",
@@ -2504,22 +2520,6 @@ window.INDUSTRY_DATA = {
      "summary": "南方财经记者朱治宣 10月14日，南方财经记者从南方电网广东电网公司了解到，今年前三季度，全省全社会用电量达7759.96亿千瓦时，同比增长7.67%。其中，第三季度用电量达3045.14亿千瓦时，占前三季度用电总量的近四成，展现出持续上扬的能源需求态势。 制造业同比增长6.65% 广东作为制造业大省，三季度“广东制造”亮点纷呈。作为拉动工业用电增长的“主引擎”，今年前三季度制造业用电量达3580.66亿千瓦时...",
      "source": "经济观察网",
      "zh": "7760亿千瓦时！广东前三季度全社会用电量同比增长7.67%"
-    },
-    {
-     "title": "供不应求！光刻巨头CEO：订单已经谈到2030年",
-     "link": "http://www.eeo.com.cn/2026/1014/1064513.shtml",
-     "pubDate": "Wed, 14 Oct 2026 20:13:12 +0800",
-     "summary": "目前，客户对未来市场需求前景更加清晰，并预计至少到2028年，行业仍将处于供不应求的状态。 10月14日，全球光刻机领先企业阿斯麦（ASML）发布2026年第三季度财报，公司预计2026年全年净销售额将增长约36%，并表示正在研究进一步提升2028年产能的方案，以实现超过此前公布的30%产能增幅。 据披露，2026年第三季度，ASML实现净销售额117亿欧元，毛利率为57.5%，净利润达50亿欧元。ASML预计2026年第四季度净销售额在1...",
-     "source": "经济观察网",
-     "zh": "供不应求！光刻巨头CEO：订单已经谈到2030年"
-    },
-    {
-     "title": "每日机构分析：10月14日",
-     "link": "http://www.eeo.com.cn/2026/1014/1064512.shtml",
-     "pubDate": "Wed, 14 Oct 2026 20:13:07 +0800",
-     "summary": "美银证券：新加坡通胀存上行风险 维持2027年1月适度收紧政策预期 三菱日联：印度央行政策抑制卢比投机 托底即期汇率但抬升对冲成本 德商银行：德国中小企业信贷需求尚未回暖 制约因素并非利率 【机构分析】 •杰富瑞全球经济学家指出，地缘政治局势与人工智能仍是当前全球金融市场两大主导驱动因素。地缘政治不确定性将持续影响全球金融市场。 •美银证券分析师指出，新加坡持续存在的成本...",
-     "source": "经济观察网",
-     "zh": "每日机构分析：10月14日"
     }
    ]
   },
@@ -2529,6 +2529,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Voyager 1 is nearly one light-day from Earth. What’s out there?",
+     "link": "https://www.sciencenews.org/article/voyager-1-light-day-exploration",
+     "pubDate": "Wed, 14 Oct 2026 13:00:00 +0000",
+     "summary": "On November 18, Voyager 1 will reach one light-day from Earth. It’s still finding surprises in interstellar space.",
+     "source": "Science News",
+     "zh": "Voyager 1 is nearly one light-day from Earth. What’s out there?"
+    },
     {
      "title": "Scientists reveal why some workout recovery tricks can backfire",
      "link": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
@@ -2736,14 +2744,6 @@ window.INDUSTRY_DATA = {
      "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
      "source": "Ars Technica Science",
      "zh": "AI disqualification yields new Nikon Small World in Motion winner"
-    },
-    {
-     "title": "How the Grand Canyon could have lost 1 billion years of geologic history",
-     "link": "https://www.sciencenews.org/article/grand-canyon-lost-history-giant-cliff",
-     "pubDate": "Fri, 09 Oct 2026 15:00:00 +0000",
-     "summary": "The rise and fall of a continent-spanning cliff may help explain a mysterious 1-billion-year gap in Earth’s geologic history, a new study suggests.",
-     "source": "Science News",
-     "zh": "How the Grand Canyon could have lost 1 billion years of geologic history"
     },
     {
      "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/14 22:12:04",
+ "generated_at": "2026/10/14 22:32:06",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Datacentre? Not In My Backyard",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/datacentre-not-in-ny-backyard-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 13:10:59 +0000",
+     "summary": "Ballotpedia has counted 35 local measures on the ballot in the US November 3 midterm elections aimed at banning or restricting the construction of new datacentres. Ohio has 21 such […] The post Datacentre? Not In My Backyard appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Datacentre? Not In My Backyard"
+    },
+    {
      "title": "A Migration Feasibility Study Can Turn an Uncertain Re-Design into a Measurable Engineering Project",
      "link": "https://semiwiki.com/semiconductor-services/in2fab/374736-migration-feasibility-study/",
      "pubDate": "Wed, 14 Oct 2026 13:00:02 +0000",
@@ -447,14 +455,6 @@
      "summary": "The overall chip market continues to show treble-digit monthly annualised growth rates, more than twice as large as the industry’s two previous record highs in June 2000 (59.3 percent) and […] The post This time it’s different appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "This time it’s different"
-    },
-    {
-     "title": "Apple bids for home electronics market",
-     "link": "https://www.electronicsweekly.com/news/business/apple-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 05:09:23 +0000",
-     "summary": "Apple made a statement yesterday that it is still in the home electronics market. It launched a new $200 HomePod smart speaker (pictured above) and a $299 HomeView hub (pictured […] The post Apple bids for home electronics market appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Apple bids for home electronics market"
     },
     {
      "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
@@ -657,6 +657,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Ford opens preorder invites for the $30,000 Fathom EV pickup",
+     "link": "https://electrek.co/2026/10/14/ford-opens-preorder-invites-30000-fathom-ev-pickup/",
+     "pubDate": "Wed, 14 Oct 2026 14:14:40 +0000",
+     "summary": "Want to be among the first to own Ford’s new EV pickup? You can now sign up for a preorder invite for the upcoming $30,000 Ford Fathom. more…",
+     "source": "Electrek",
+     "zh": "Ford opens preorder invites for the $30,000 Fathom EV pickup"
+    },
+    {
      "title": "This Electric Motorcycle Just Set A New Range Record With A 271-Mile Ride",
      "link": "https://insideevs.com/news/811929/zero-ds-world-record-ev-range/",
      "pubDate": "Wed, 14 Oct 2026 12:18:10 +0000",
@@ -759,14 +767,6 @@
      "summary": "New EVs still cost less than they did a year ago, but September brought buyers a double hit: higher prices and smaller discounts. more…",
      "source": "Electrek",
      "zh": "EVs cost less than a year ago, but September brought a setback"
-    },
-    {
-     "title": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief",
-     "link": "https://electrek.co/2026/10/13/rivian-mind-robotics-doug-field-president-tesla-ford/",
-     "pubDate": "Tue, 13 Oct 2026 19:40:31 +0000",
-     "summary": "Doug Field, the engineer who ran Tesla’s Model 3 program and later Ford’s entire EV operation, is now president of Mind Robotics, the industrial robotics startup Rivian CEO RJ Scaringe spun out of Rivian last year. He lands at a company that has now raised more than $1 billion in under a year, and h",
-     "source": "Electrek",
-     "zh": "Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief"
     },
     {
      "title": "EV Sales Rebound To Their Highest Level In A Year",
@@ -1105,6 +1105,22 @@
    "total": 7,
    "items": [
     {
+     "title": "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump",
+     "link": "https://endpoints.news/ultragenyxs-second-prv-sale-biomeas-oral-glp-1-data-leads-to-stock-slump/",
+     "pubDate": "Wed, 14 Oct 2026 14:24:20 +0000",
+     "summary": "Plus news about Sanofi, Pharming, Skyhook Bio and Altay Therapeutics. Ultragenyx Pharmaceutical sells second PRV this month: The commercial-stage rare disease drugmaker sold its second priority review voucher for $203 million ...",
+     "source": "Endpoints News",
+     "zh": "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump"
+    },
+    {
+     "title": "STAT+: FDA adcomm members’ ties to industry under scrutiny",
+     "link": "https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss",
+     "pubDate": "Wed, 14 Oct 2026 14:12:14 +0000",
+     "summary": "New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group…",
+     "source": "STAT News",
+     "zh": "STAT+: FDA adcomm members’ ties to industry under scrutiny"
+    },
+    {
      "title": "STAT+: Pharmalittle: We’re reading about Sanofi settling an EU antitrust probe, ‘pharma bro’ Shkreli, and more",
      "link": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-settling-european-antitrust-probe-pharma-bro-shkreli/?utm_campaign=rss",
      "pubDate": "Wed, 14 Oct 2026 13:26:39 +0000",
@@ -1177,14 +1193,6 @@
      "zh": "STAT+: Lobbyists and trade groups fight to shape how states regulate medical AI"
     },
     {
-     "title": "Opinion: How states can resist the potential Trump vaccine shortages",
-     "link": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss",
-     "pubDate": "Wed, 14 Oct 2026 08:30:00 +0000",
-     "summary": "“States can serve as a last line of defense against the Trump administration’s anti-vaccine policy,” writes Joel Dodge.",
-     "source": "STAT News",
-     "zh": "Opinion: How states can resist the potential Trump vaccine shortages"
-    },
-    {
      "title": "Decreasing process variability in fluid management systems",
      "link": "https://www.biopharmadive.com/spons/decreasing-process-variability-in-fluid-management-systems/832888/",
      "pubDate": "Tue, 13 Oct 2026 17:00:00 -0400",
@@ -1207,14 +1215,6 @@
      "summary": "Martin Shkreli is under FTC scrutiny once again. The agency and seven states asked a New York federal court on Tuesday to hold Shkreli in contempt for allegedly violating a court-ordered lifetime ban from the ...",
      "source": "Endpoints News",
      "zh": "FTC accuses Martin Shkreli of violating lifetime pharma ban"
-    },
-    {
-     "title": "Novartis quietly returns a key antibiotic to US market",
-     "link": "https://endpoints.news/novartis-quietly-returns-a-key-antibiotic-to-us-market/",
-     "pubDate": "Tue, 13 Oct 2026 18:51:04 +0000",
-     "summary": "There is some good news in the world of antibiotics. Novartis quietly snagged supplemental FDA approval for its drug Lamprene over the summer, transitioning a decades-old leprosy drug to the commercial market, which may boost ...",
-     "source": "Endpoints News",
-     "zh": "Novartis quietly returns a key antibiotic to US market"
     },
     {
      "title": "X-Chromosome Gene Linked to Increased Autism Diagnosis in Males",
@@ -1553,6 +1553,22 @@
    "total": 5,
    "items": [
     {
+     "title": "Microsoft fixes VPN issues caused by September Windows updates",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
+     "pubDate": "Wed, 14 Oct 2026 10:27:01 -0400",
+     "summary": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
+     "source": "BleepingComputer",
+     "zh": "Microsoft fixes VPN issues caused by September Windows updates"
+    },
+    {
+     "title": "Harmonic Security Raises $50 Million for Workforce AI Protection",
+     "link": "https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/",
+     "pubDate": "Wed, 14 Oct 2026 14:09:51 +0000",
+     "summary": "The cybersecurity startup plans to expand engineering and go-to-market teams in the US and UK. The post Harmonic Security Raises $50 Million for Workforce AI Protection appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Harmonic Security Raises $50 Million for Workforce AI Protection"
+    },
+    {
      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
      "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
      "pubDate": "Wed, 14 Oct 2026 10:00:10 -0400",
@@ -1689,14 +1705,6 @@
      "zh": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products"
     },
     {
-     "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
-     "link": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
-     "pubDate": "Wed, 14 Oct 2026 07:16:12 +0000",
-     "summary": "The most important is CVE-2026-96951, a security feature bypass flaw in Windows that has been exploited in the wild. The post Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day"
-    },
-    {
      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
      "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
      "pubDate": "Wed, 14 Oct 2026 05:00:00 GMT",
@@ -1711,14 +1719,6 @@
      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
      "source": "Krebs on Security",
      "zh": "Microsoft Patches More Than 1,400 Security Flaws"
-    },
-    {
-     "title": "OpenAI engineer arrested for allegedly planting spy device in office",
-     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-     "pubDate": "Tue, 13 Oct 2026 18:33:02 -0400",
-     "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
-     "source": "BleepingComputer",
-     "zh": "OpenAI engineer arrested for allegedly planting spy device in office"
     },
     {
      "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
@@ -1769,6 +1769,70 @@
    "total": 18,
    "items": [
     {
+     "title": "无标线、无信号灯、车流激进：小鹏 NGP 官宣成功挑战被称为“全球最难环岛”的凯旋门环岛",
+     "link": "https://www.ithome.com/1/013/118.htm",
+     "pubDate": "Wed, 14 Oct 2026 14:25:24 GMT",
+     "summary": "IT之家 10 月 14 日消息，小鹏集团董事长、CEO 何小鹏今日宣布，在巴黎， 开着小鹏 NGP 成功挑战了被称为“全球最难环岛”的凯旋门环岛 。 没有车道线，也没有红绿灯，12 条大道交织汇入，既要判断复杂车流、遵守法国“让右”规则，还要避让站在路中拍照的行人，确实很有挑战性。 从 7 月德国本地化验收，到荷兰水网交织的复杂小路，再到“全球最难环岛”凯旋门，难度层层升级。小鹏 NGP 在不同国家、不同交通法规和道路环境中不断锤炼，模型泛化能力也在实战中持续提升、越来越强。 据IT之家此前报道，在巴黎车展前夕，小鹏汽车通用智能中心负责人刘先明接受采访时透露，该公司成功在约两周时间内，将智驾",
+     "source": "IT之家",
+     "zh": "无标线、无信号灯、车流激进：小鹏 NGP 官宣成功挑战被称为“全球最难环岛”的凯旋门环岛"
+    },
+    {
+     "title": "苹果公布 iPhone Duo 折叠屏手机维修预估费用：内屏损坏 7998 元、电池服务 1898 元",
+     "link": "https://www.ithome.com/1/013/117.htm",
+     "pubDate": "Wed, 14 Oct 2026 14:21:15 GMT",
+     "summary": "IT之家 10 月 14 日消息，苹果在 2026 年秋季发布会上发布了旗下首款折叠屏手机 iPhone Duo，将于 10 月 16 日晚 8 点接受预购，10 月 23 日正式发售，售价 15,999 元起。 IT之家注意到，苹果官网现已公布了 iPhoneDuo 手机的维修预估费用。 表层损坏：398 元 背面玻璃损坏：1,598 元 电池服务：1,898 元 后置相机损坏：1,798 元 外屏损坏：3,198 元 外屏和背面玻璃损坏：4,298 元 内屏损坏：7,998 元 其他损坏：11,998 元 而对于购买了 AppleCare+（2 年期 2,599 元）的用户，相关服务费用变",
+     "source": "IT之家",
+     "zh": "苹果公布 iPhone Duo 折叠屏手机维修预估费用：内屏损坏 7998 元、电池服务 1898 元"
+    },
+    {
+     "title": "荣耀 WIN 平板确认搭载第五代骁龙 8 至尊版满血旗舰芯片",
+     "link": "https://www.ithome.com/1/013/116.htm",
+     "pubDate": "Wed, 14 Oct 2026 14:20:12 GMT",
+     "summary": "IT之家 10 月 14 日消息，荣耀手机官方今日宣布， 荣耀 WIN 平板将搭载第五代骁龙 8 至尊版满血旗舰芯片 。 需要注意的是，荣耀官方今日早些时候的微博原文及预热海报文案显示该平板搭载的是“第五代骁龙 8 旗舰芯片”， 导致有网友误以为搭载的是“骁龙 8 Gen5”处理器 （不过海报里的处理器图标始终显示为“骁龙 8 Elite Gen5”）。 此次官方重新调整了海报， 确认了荣耀 WIN 平板会搭载第五代骁龙 8 至尊版满血旗舰芯片 。 值得一提的是，IT之家昨日在荣耀 WIN 2 媒体沟通会现场率先体验到了系列产品，并在第一时间了解到了这款小平板核心配置信息。 据介绍，荣耀 WI",
+     "source": "IT之家",
+     "zh": "荣耀 WIN 平板确认搭载第五代骁龙 8 至尊版满血旗舰芯片"
+    },
+    {
+     "title": "深海版\"淘金热\"开局：中日美抢着去五千米海底挖矿",
+     "link": "https://www.huxiu.com/article/4897591.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 22:19:15 +0800",
+     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 往海底挖矿这件事，这一两年突然热闹起来了。 最近，清华牵头的一支科考队远赴西太平洋，在海底找到了一处大型热液矿区。他们发现，这里的金银含量比陆地上的矿高出一截，一吨矿石最多能找出15克多的金子。 图｜清华牵头的联合科考在西太平洋采集的热液硫化物矿样。来源：清华大学 这边在找矿，另一边有人在造采矿车。 4月，浙江理工大学参与研发的一套深海采矿系统，在南海做了一次海试；6月，东南大学的采矿车也下了海，要把人工智能用到海底挖矿上。 国外也一样。 日本用的稀土，有六成要从中国买，被中国一卡脖子就翻白眼了。所以他们正在试着从海底抽稀土泥。 美国更直接",
+     "source": "虎嗅",
+     "zh": "深海版\"淘金热\"开局：中日美抢着去五千米海底挖矿"
+    },
+    {
+     "title": "外卡组织想在中国市场盈利，并不容易",
+     "link": "https://www.huxiu.com/article/4897590.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 22:19:02 +0800",
+     "summary": "本文来自微信公众号： 十字财经 ，作者：意安呐 10月13日，Visa终于迎来了在中国境内筹备银行卡清算机构的正式获批。 中国人民银行更新银行卡清算机构行政许可信息公示，威士信息技术（北京）有限公司获准筹备银行卡清算机构。 今年5月15日，同一天内，商务部部长王文涛、中国人民银行行长潘功胜先后会见过Visa首席执行官麦凯恩。不到五个月，批复落地。 麦凯恩表示：\"此次筹备申请获批是Visa长期致力于服务中国市场的又一重要里程碑。四十多年来，Visa始终积极参与中国充满活力的支付产业发展，是中国支付生态建设和创新发展的长期贡献者。我们期待按照中国人民银行的相关监管规定，积极开展后续工作，以争取早日",
+     "source": "虎嗅",
+     "zh": "外卡组织想在中国市场盈利，并不容易"
+    },
+    {
+     "title": "京东 7999 元苹果 iPhone Duo 早鸟权益包重新上架，这次能退款",
+     "link": "https://www.ithome.com/1/013/115.htm",
+     "pubDate": "Wed, 14 Oct 2026 14:16:13 GMT",
+     "summary": "IT之家 10 月 14 日消息，京东现已重新上架 7999 元的苹果 iPhone Duo 早鸟权益包，仅 PLUS 会员可买。据官方所述， 使用早鸟优先购买资格可选购 iPhone Duo 折叠手机 256GB 和 512GB 版本 。 京东 京东 iPhone Duo 早鸟先享无忧权益包 7999 元 直达链接 IT之家从商品页获悉，这次上架的 iPhone Duo 早鸟权益包支持退款：下单后如未使用权益，24 小时内可联系客服申请退款。 同时，该产品提供 999 元复购补贴、价值 1200 元 90 天免费换新、价值 1800 元 1 年免费维修、价值 999 元 5 年电池免费换新等",
+     "source": "IT之家",
+     "zh": "京东 7999 元苹果 iPhone Duo 早鸟权益包重新上架，这次能退款"
+    },
+    {
+     "title": "索尼 PS5《GT 赛车》30 周年纪念 DualSense 手柄控制器公布，小米 Vision GT 领衔六款新车加入游戏",
+     "link": "https://www.ithome.com/1/013/114.htm",
+     "pubDate": "Wed, 14 Oct 2026 14:12:36 GMT",
+     "summary": "IT之家 10 月 14 日消息，索尼互动娱乐与 Polyphony Digital 今日宣布了《GT 赛车 7》Spec IV 更新第一部分 (Part 1) ，同时为庆祝该系列诞生 30 周年将推出 Gran Turismo Limited Edition DualSense 无线控制器。 这款控制器将于 10 月 22 日开启预售、12 月 10 日正式开售，售价为 84.99 美元 / 84.99 欧元 / 74.99 英镑 / 12,480 日元 （IT之家注：现汇率约合 528.3 元人民币） 。 Spec IV 更新第一部分将面向所有玩家免费推送，加入六款新车、全新 Sports",
+     "source": "IT之家",
+     "zh": "索尼 PS5《GT 赛车》30 周年纪念 DualSense 手柄控制器公布，小米 Vision GT 领衔六款新车加入游戏"
+    },
+    {
+     "title": "Salience Labs, which develops specialized all-optical circuit switching tech for AI data centers, raised a $125M Series B led by Bullhound Capital (Mike Wheatley/SiliconANGLE)",
+     "link": "https://www.techmeme.com/261014/p27#a261014p27",
+     "pubDate": "Wed, 14 Oct 2026 10:10:02 -0400",
+     "summary": "Mike Wheatley / SiliconANGLE : Salience Labs, which develops specialized all-optical circuit switching tech for AI data centers, raised a $125M Series B led by Bullhound Capital &nbsp; &mdash;&nbsp; A startup called Salience Labs Inc. wants to play a bigger role in speeding up artificial intelligenc",
+     "source": "Techmeme",
+     "zh": "Salience Labs, which develops specialized all-optical circuit switching tech for AI data centers, raised a $125M Series B led by Bullhound Capital (Mike Wheatley/SiliconANGLE)"
+    },
+    {
      "title": "Sources: the EU is negotiating with China to lift sanctions on an unnamed Chinese company in exchange for China lifting sanctions on a German ASML supplier (Bloomberg)",
      "link": "https://www.techmeme.com/261014/p26#a261014p26",
      "pubDate": "Wed, 14 Oct 2026 10:05:01 -0400",
@@ -1777,28 +1841,12 @@
      "zh": "Sources: the EU is negotiating with China to lift sanctions on an unnamed Chinese company in exchange for China lifting sanctions on a German ASML supplier (Bloomberg)"
     },
     {
-     "title": "消息称 Nothing 将推两款智能眼镜：音频版、摄像头版，后者支持 ChatGPT",
-     "link": "https://www.ithome.com/1/013/112.htm",
-     "pubDate": "Wed, 14 Oct 2026 14:01:41 GMT",
-     "summary": "IT之家 10 月 14 日消息，据消息人士 Roland Quandt 今日透露，Nothing 将推出两款智能眼镜。其中一款主打音频功能，另一款配备摄像头。 据介绍，Nothing 的音频版智能眼镜支持播放音乐、通话，用户可通过眼镜与手机的语音助手交互。该产品将配备光致变色镜片，可在阳光下自动变暗、室内自动变亮。 同时，该公司还计划推出另一款智能眼镜。该产品将拥有摄像头， 支持 ChatGPT 、 翻译功能 。 IT之家了解到，彭博社此前报道称，Nothing 的智能眼镜将通过手机和云端处理 AI 任务，不会配备 AR 显示屏。",
-     "source": "IT之家",
-     "zh": "消息称 Nothing 将推两款智能眼镜：音频版、摄像头版，后者支持 ChatGPT"
-    },
-    {
      "title": "AI infrastructure startup Modal raised a $750M Series D led by Accel at a $15.75B post-money valuation, taking its total funding to $1.2B, and passes $1B ARR (Chris Metinko/Axios)",
      "link": "https://www.techmeme.com/261014/p25#a261014p25",
      "pubDate": "Wed, 14 Oct 2026 10:00:41 -0400",
      "summary": "Chris Metinko / Axios : AI infrastructure startup Modal raised a $750M Series D led by Accel at a $15.75B post-money valuation, taking its total funding to $1.2B, and passes $1B ARR &nbsp; &mdash;&nbsp; AI infrastructure startup Modal raised a $750 million Series D at a $15.75 billion post-money val",
      "source": "Techmeme",
      "zh": "AI infrastructure startup Modal raised a $750M Series D led by Accel at a $15.75B post-money valuation, taking its total funding to $1.2B, and passes $1B ARR (Chris Metinko/Axios)"
-    },
-    {
-     "title": "PS5 越狱商店 Overdrive 被索尼勒令关停后，克隆版本数小时内重新上线",
-     "link": "https://www.ithome.com/1/013/111.htm",
-     "pubDate": "Wed, 14 Oct 2026 14:00:12 GMT",
-     "summary": "IT之家 10 月 14 日消息，索尼 SIE 已开始对 PS5 越狱开发者采取法律行动，一个名为 Overdrive 的游戏商店已被关闭。不过，原项目关闭后，GitHub 上随即又出现了两个新的仓库，分别为原项目的分支版本和使用不同账号发布的克隆版本。 X 用户 Oliver Darko 反馈称，索尼互动娱乐的律师已向 Overdrive 开发者发送停止侵权函，该商店目前已下架，其 GitHub 页面显示 404 错误。 IT之家注：Overdrive 是一个面向已越狱 PS5 主机的非官方游戏商店，于 10 月 9 日在 GitHub 上发布，提供超过 1600 款 PS4 和 PS5 游",
-     "source": "IT之家",
-     "zh": "PS5 越狱商店 Overdrive 被索尼勒令关停后，克隆版本数小时内重新上线"
     },
     {
      "title": "NTangible bets it can predict how athletes will perform under pressure",
@@ -1815,30 +1863,6 @@
      "summary": "Seven of 16 planetary vital signs are in their most extreme state ever recorded, and El Niño is here to make matters even worse.",
      "source": "WIRED",
      "zh": "Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies"
-    },
-    {
-     "title": "奇瑞捷途全新旅行者 7 上市 30 分钟大定订单突破 1 万台，超级焕新价 12.59 万元起",
-     "link": "https://www.ithome.com/1/013/110.htm",
-     "pubDate": "Wed, 14 Oct 2026 13:46:45 GMT",
-     "summary": "IT之家 10 月 14 日消息，奇瑞捷途汽车宣布，上市 30 分钟， 全新捷途旅行者 7 大定订单突破 10000 台 。 据IT之家此前报道， 奇瑞捷途全新旅行者 7 今晚正式上市 ： 燃油版共推出 5 款车型，售价区间为 13.99-17.99 万元，超级焕新价 12.59-16.59 万元； 插混版共推出 3 款车型，售价区间为 15.29-17.29 万元，超级焕新价 14.39-16.39 万元。 新车长宽高分别为 4827/2006/1875mm，轴距 2800mm；前排配备 15.6 英寸中控屏 +10.25 英寸液晶仪表，内置 8255 芯片和 TOUR OS 3.3 智能座",
-     "source": "IT之家",
-     "zh": "奇瑞捷途全新旅行者 7 上市 30 分钟大定订单突破 1 万台，超级焕新价 12.59 万元起"
-    },
-    {
-     "title": "新老用户均可享：努比亚 NaviX Ultra 手机追加购机权益，加赠半年豆包标准版会员权益",
-     "link": "https://www.ithome.com/1/013/109.htm",
-     "pubDate": "Wed, 14 Oct 2026 13:46:42 GMT",
-     "summary": "IT之家 10 月 14 日消息，在今晚的 努比亚 NaviX Ultra 首场进化直播中，努比亚手机官方宣布，将追加 NaviX Ultra 的购机权益， 新老用户均可享受 。 ▲ IT之家实拍：努比亚 NaviX Ultra 手机 据介绍，双十一（10.15-11.11）新购机的用户晒单即加赠半年豆包标准版会员权益， 而首月（9.16-10.14）购机的老用户则可以直接享有这份权益 ，官方称该权益的价值为 408 元。 据IT之家此前报道，努比亚 NaviX Ultra 手机已于 9 月 16 日正式发布，由中兴通讯努比亚全链路主导打造，豆包手机助手主导 AI 助手体验，可选幻梦、蓝境、黑",
-     "source": "IT之家",
-     "zh": "新老用户均可享：努比亚 NaviX Ultra 手机追加购机权益，加赠半年豆包标准版会员权益"
-    },
-    {
-     "title": "京东 7999 元苹果 iPhone Duo 早鸟权益包下架，部分消费者投诉无法退款",
-     "link": "https://www.ithome.com/1/013/108.htm",
-     "pubDate": "Wed, 14 Oct 2026 13:45:41 GMT",
-     "summary": "IT之家 10 月 14 日消息，苹果首款折叠屏手机 iPhone Duo 将在 10 月 16 日晚 8 点开启预购，定价 15999 元起。 而京东今天上架了一款“iPhone Duo 早鸟权益包”， 价格 7999 元 ， 仅 PLUS 会员可买 。该产品提供 999 元复购补贴、90 天免费换新、1 年免费维修、5 年电池免费换新等服务，以及价值 999 元原厂手机壳、价值 329 元原厂充电头、价值 849 元肖特 UTG 玻璃基贴膜等实物。 从商品页面来看，下单这款权益包后， 购买 iPhone Duo 仍需支付全款 ， 且权益包不支持退换 ，仅可在 256G 与 512G 机型使",
-     "source": "IT之家",
-     "zh": "京东 7999 元苹果 iPhone Duo 早鸟权益包下架，部分消费者投诉无法退款"
     },
     {
      "title": "Berkshire Hathaway invests an additional $330M in Bending Spoons, taking its stake to 4%, after investing $600M during Bending Spoons&apos; July IPO; BSP jumps 40%+ (Peter Wells/Financial Times)",
@@ -1863,14 +1887,6 @@
      "summary": "本文来自微信公众号： 凤凰网财经 ，作者：凤凰网财经 一座新城可以快速修筑道路楼宇，可以出台产业政策吸引企业，但人的成长，无法速成。 一座新城能不能留住人才，不只看岗位与薪资，更要看孩子能不能在家门口享受到优质教育。雄安跳出很多新城“先建城、后补配套”的老路，从城市建设之初，就把教育摆在优先位置，构建起从学前、基础教育再到高等院校的完整教育链条。 01 教育是农业，不是工业：北海幼儿园的三颗种子 “三校一院”交钥匙项目，是北京支持雄安建设的重要民生工程，雄安北海幼儿园便是其中的代表。对于大量随企业疏解来到雄安的家庭，家长心中最大的顾虑，便是孩子教育能不能跟上原有水平。 雄安北海幼儿园绝非简单的",
      "source": "虎嗅",
      "zh": "这里是雄安：建城先育人，育人以兴城"
-    },
-    {
-     "title": "3299 → 2596 元：石头洗地机 A30 Pro Steam 3.0 国补直降，32000Pa 吸力、180℃ 蒸汽 + 90℃ 热水一键混洗",
-     "link": "https://www.ithome.com/1/013/106.htm",
-     "pubDate": "Wed, 14 Oct 2026 13:38:23 GMT",
-     "summary": "【京东活动可能随时变更，需以实付款为准】 石头 A30 Pro Steam 3.0 洗地机 2026 年 8 月开售，该产品号称首次实现了 180℃ 活性蒸汽与 90℃ 高温热水的一键混洗，可在重度油污环境使用，首发价 3299 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 2596.97 元： 领 9 折家电家居券： 点此领券 首购礼金立减 200 元 下单时选择“以旧换新 → 个护健康 → 电动牙刷 （无需回收）”补贴 120 元 大部分小伙伴还可选择“组合购”，实付 低至 2316.49 元 京东 石头 A30 Pro Steam 3.0 洗地机 180° ",
-     "source": "IT之家",
-     "zh": "3299 → 2596 元：石头洗地机 A30 Pro Steam 3.0 国补直降，32000Pa 吸力、180℃ 蒸汽 + 90℃ 热水一键混洗"
     },
     {
      "title": "Jensen Huang announces $2B in new European Nvidia investments, including in French startups Doctolib and Genesis AI, adding to $8B invested over the past year (Benoit Berthelot/Bloomberg)",
@@ -1913,34 +1929,10 @@
      "zh": "‘Dune: Part Three’ Cowriter Brian K. Vaughan Has a New Comic on the Way"
     },
     {
-     "title": "碳酸锂跌麻了",
-     "link": "https://www.huxiu.com/article/4897583.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 21:28:04 +0800",
-     "summary": "本文来自微信公众号： 格隆 ，作者：哥吉拉 碳酸锂，今年可谓涨了个寂寞。 从年初11万起步，4个月时间价格几近翻倍，赣锋、天齐锂业等锂矿股也大幅上涨来了个戴维斯双击。 不料局势骤变，五个月后竟然来了个腰斩，今年基本走出来一个标准的倒V。 当下游电池排产如火如荼，碳酸锂价格却一路走低翻不起身，难免会让人感到困惑。 碳酸锂，到底得罪谁了？ 01 去库反而不是好消息 这个倒V，是怎么走出来的？ 回到年初11.7万元/吨，一季度出口退税调整引来下游抢出口的集中备库，叠加津巴布韦禁运、江西宜春停产带来的矿端紧缺预期，价格在储能需求释放中震荡上行至19万元/吨，比2025年均价近乎翻倍。 交易所调控后急跌",
-     "source": "虎嗅",
-     "zh": "碳酸锂跌麻了"
-    },
-    {
-     "title": "想退费却收到一个850元的炒锅？中公教育被曝“以物抵债”，学员怒了：一堆标了高价的破烂",
-     "link": "https://www.huxiu.com/article/4897582.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 21:28:03 +0800",
-     "summary": "本文来自微信公众号： 新浪科技 ，作者：努力码稿的小浪，原文标题：《想退费却收到一个850元的炒锅？中公教育被曝「以物抵债」，学员怒了：一堆标了高价的破烂！》 “不管是离职还是在职，工资都要不回来。” 近日，有多位用户在社交媒体上透露中公教育“欠薪”一事。众人纷纷表示其拖欠员工工资，从一个月到半年不等，甚至无法保证公积金和社保的缴纳，“现在在职的员工都拿不到工资，离职讨薪的更是难上加难！” 《BUG》栏目从员工处获悉，今年以来，中公教育拖欠员工工资一事发生得格外频繁。这并非单一地区的个例，包括浙江、山东、广东在内多个省份的中公教育都存在类似情况，“各个地区公司所采用的具体方案不同，所以拖欠的程",
-     "source": "虎嗅",
-     "zh": "想退费却收到一个850元的炒锅？中公教育被曝“以物抵债”，学员怒了：一堆标了高价的破烂"
-    },
-    {
-     "title": "Booking Holdings launches Vayo, a travel startup that uses AI agents to track booking confirmations, price drops, and more, with a planned $100M investment (Todd Bishop/GeekWire)",
-     "link": "https://www.techmeme.com/261014/p21#a261014p21",
-     "pubDate": "Wed, 14 Oct 2026 09:25:01 -0400",
-     "summary": "Todd Bishop / GeekWire : Booking Holdings launches Vayo, a travel startup that uses AI agents to track booking confirmations, price drops, and more, with a planned $100M investment &nbsp; &mdash;&nbsp; Booking Holdings is launching a new Seattle-based travel startup called Vayo, led by serial entrep",
-     "source": "Techmeme",
-     "zh": "Booking Holdings launches Vayo, a travel startup that uses AI agents to track booking confirmations, price drops, and more, with a planned $100M investment (Todd Bishop/GeekWire)"
-    },
-    {
      "title": "Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff",
      "link": "https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/",
      "pubDate": "Wed, 14 Oct 2026 13:20:39 +0000",
-     "summary": "Article URL: https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/ Comments URL: https://news.ycombinator.com/item?id=50087336 Points: 22 # Comments: 4",
+     "summary": "Article URL: https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/ Comments URL: https://news.ycombinator.com/item?id=50087336 Points: 53 # Comments: 8",
      "source": "Hacker News",
      "zh": "Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff"
     },
@@ -1948,7 +1940,7 @@
      "title": "Switzerland proposes banning profiling-based ads to minors",
      "link": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
      "pubDate": "Wed, 14 Oct 2026 13:20:02 +0000",
-     "summary": "Article URL: https://www.admin.ch/en/newnsb/NMn5s24l8NjQ Comments URL: https://news.ycombinator.com/item?id=50087328 Points: 107 # Comments: 57",
+     "summary": "Article URL: https://www.admin.ch/en/newnsb/NMn5s24l8NjQ Comments URL: https://news.ycombinator.com/item?id=50087328 Points: 172 # Comments: 109",
      "source": "Hacker News",
      "zh": "Switzerland proposes banning profiling-based ads to minors"
     },
@@ -1961,12 +1953,12 @@
      "zh": "Formlabs Has a 3D Printer for Normies"
     },
     {
-     "title": "RIP Eric Binnion",
+     "title": "Eric Binnion has died",
      "link": "https://ma.tt/2026/10/rip-eric/",
      "pubDate": "Wed, 14 Oct 2026 12:58:32 +0000",
-     "summary": "Article URL: https://ma.tt/2026/10/rip-eric/ Comments URL: https://news.ycombinator.com/item?id=50087044 Points: 30 # Comments: 12",
+     "summary": "Article URL: https://ma.tt/2026/10/rip-eric/ Comments URL: https://news.ycombinator.com/item?id=50087044 Points: 43 # Comments: 22",
      "source": "Hacker News",
-     "zh": "RIP Eric Binnion"
+     "zh": "Eric Binnion has died"
     },
     {
      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
@@ -1977,10 +1969,18 @@
      "zh": "Anthropic warns small AI models could self-replicate through IoT devices"
     },
     {
+     "title": "CPI-U rises 7.2% annualized in September (3.7% YoY)",
+     "link": "https://www.bls.gov/news.release/cpi.nr0.htm?",
+     "pubDate": "Wed, 14 Oct 2026 12:40:55 +0000",
+     "summary": "Article URL: https://www.bls.gov/news.release/cpi.nr0.htm? Comments URL: https://news.ycombinator.com/item?id=50086794 Points: 21 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "CPI-U rises 7.2% annualized in September (3.7% YoY)"
+    },
+    {
      "title": "The Aaronson Oracle",
      "link": "https://aaronsonoracle.com/",
      "pubDate": "Wed, 14 Oct 2026 12:16:35 +0000",
-     "summary": "Article URL: https://aaronsonoracle.com/ Comments URL: https://news.ycombinator.com/item?id=50086484 Points: 20 # Comments: 20",
+     "summary": "Article URL: https://aaronsonoracle.com/ Comments URL: https://news.ycombinator.com/item?id=50086484 Points: 25 # Comments: 23",
      "source": "Hacker News",
      "zh": "The Aaronson Oracle"
     },
@@ -1988,7 +1988,7 @@
      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
      "link": "https://github.com/timescale/pg_vectorsearch",
      "pubDate": "Wed, 14 Oct 2026 11:47:53 +0000",
-     "summary": "Article URL: https://github.com/timescale/pg_vectorsearch Comments URL: https://news.ycombinator.com/item?id=50086165 Points: 62 # Comments: 21",
+     "summary": "Article URL: https://github.com/timescale/pg_vectorsearch Comments URL: https://news.ycombinator.com/item?id=50086165 Points: 81 # Comments: 28",
      "source": "Hacker News",
      "zh": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW"
     },
@@ -2016,6 +2016,30 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "HomePod mini 2 vs HomePod mini: Here’s everything new",
+     "link": "https://9to5mac.com/2026/10/14/homepod-mini-2-vs-homepod-mini-heres-everything-new/",
+     "pubDate": "Wed, 14 Oct 2026 14:28:48 +0000",
+     "summary": "Apple unveiled HomePod mini 2 yesterday ( pre-order here ), exactly six years after the first HomePod mini debuted. Here’s everything new in HomePod mini 2 compared to the original model. more…",
+     "source": "9to5Mac",
+     "zh": "HomePod mini 2 vs HomePod mini: Here’s everything new"
+    },
+    {
+     "title": "Why the Apple Home Collection will accelerate smart home adoption",
+     "link": "https://9to5mac.com/2026/10/14/why-the-apple-home-collection-will-accelerate-smart-home-adoption/",
+     "pubDate": "Wed, 14 Oct 2026 14:20:32 +0000",
+     "summary": "I think it’s sometimes easy for geeks to forget that we live in a tech bubble with our fellow geeks. Many of us here have been using smart home technology for more than a decade now, some even for many decades . I’ve seen a lot of bemused comments on the Apple Home Collection , with people asking wh",
+     "source": "9to5Mac",
+     "zh": "Why the Apple Home Collection will accelerate smart home adoption"
+    },
+    {
+     "title": "LG adds DTS:X and Google Cast to its Sound Suite home theater system",
+     "link": "https://www.engadget.com/2286441/lg-adds-dtsx-and-google-cast-to-its-sound-suite-home-theater-system/",
+     "pubDate": "Wed, 14 Oct 2026 14:07:51 +0000",
+     "summary": "LG's latest Sound Suite update includes DTS:X, a much-requested feature.",
+     "source": "Engadget",
+     "zh": "LG adds DTS:X and Google Cast to its Sound Suite home theater system"
+    },
     {
      "title": "Nothing reportedly launching two pairs of smart glasses, one with barely any AI",
      "link": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
@@ -2169,14 +2193,6 @@
      "zh": "8BitDo Ultimate 2C review: A fabulous Switch 2 controller at a fraction of the price"
     },
     {
-     "title": "Beat the iPhone Duo pre-order rush with Apple's Get Ready tool",
-     "link": "https://www.engadget.com/2284584/beat-preorder-iphone-duo-rush-apple-get-ready-tool/",
-     "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
-     "summary": "You can already set up your pre-order now, before the pre-orders open on Friday (October 16).",
-     "source": "Engadget",
-     "zh": "Beat the iPhone Duo pre-order rush with Apple's Get Ready tool"
-    },
-    {
      "title": "vivo X500 E's design and key specs revealed through Google Play Console listing",
      "link": "https://www.gsmarena.com/vivo_x500_e_specs_design_google_play_console-news-75034.php",
      "pubDate": "Wed, 14 Oct 2026 12:39:03 +0200",
@@ -2239,22 +2255,6 @@
      "summary": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ... 查看全文",
      "source": "少数派",
      "zh": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验"
-    },
-    {
-     "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
-     "link": "https://sspai.com/post/92653",
-     "pubDate": "Wed, 14 Oct 2026 10:00:04 +0800",
-     "summary": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？ 查看全文",
-     "source": "少数派",
-     "zh": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒"
-    },
-    {
-     "title": "The Instax Square 2 gives instant film shooters a switch to change the mood",
-     "link": "https://www.dpreview.com/news/the-instax-square-2-gives-instant-film-shooters-a-switch-to-change-the-mood/",
-     "pubDate": "Wed, 14 Oct 2026 02:00:00 +0000",
-     "summary": "There's also a new \"Soft Haze\" film to go alongside it for even dreamier vibes.",
-     "source": "DPReview",
-     "zh": "The Instax Square 2 gives instant film shooters a switch to change the mood"
     }
    ]
   },
@@ -2281,12 +2281,140 @@
      "zh": "Kraken parent to buy European bank Saldo"
     },
     {
+     "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+     "link": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
+     "pubDate": "Wed, 14 Oct 2026 14:29:12 GMT",
+     "summary": "With a 3.6% COLA for 2027, Social Security retirement benefit checks will go up by $75 per month, on average, the agency said.",
+     "source": "CNBC",
+     "zh": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027"
+    },
+    {
+     "title": "GlobalFoundries climbs after landing potential $21B deal in US-Japan initiative",
+     "link": "https://seekingalpha.com/news/4652947-globalfoundries-climbs-after-landing-potential-21b-deal-in-us-japan-initiative?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 10:24:32 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "GlobalFoundries climbs after landing potential $21B deal in US-Japan initiative"
+    },
+    {
      "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
      "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-     "pubDate": "Wed, 14 Oct 2026 14:07:44 GMT",
+     "pubDate": "Wed, 14 Oct 2026 14:24:13 GMT",
      "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
      "source": "CNBC",
      "zh": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty"
+    },
+    {
+     "title": "KNDS获得一份价值约1.3亿欧元的合同延期，涵盖带集成控制单元和选挡器的HSWL 354变速箱",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895768898.html",
+     "pubDate": "Wed, 14 Oct 2026 22:22:35 +0800",
+     "summary": "KNDS获得一份价值约1.3亿欧元的合同延期，涵盖带集成控制单元和选挡器的HSWL 354变速箱。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "KNDS获得一份价值约1.3亿欧元的合同延期，涵盖带集成控制单元和选挡器的HSWL 354变速箱"
+    },
+    {
+     "title": "比特币跌破82000美元，日内跌1.53%",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895768749.html",
+     "pubDate": "Wed, 14 Oct 2026 22:22:35 +0800",
+     "summary": "比特币跌破82000美元，日内跌1.53%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "比特币跌破82000美元，日内跌1.53%"
+    },
+    {
+     "title": "美股三大指数走势分化 纳指跌幅接近1%",
+     "link": "http://finance.eastmoney.com/news/1345,202610143895720794.html",
+     "pubDate": "Wed, 14 Oct 2026 22:22:22 +0800",
+     "summary": "10月14日，美股三大指数走势分化，截至发稿，道指涨0.02%，纳指跌0.82%，标普500指数跌0.62%。 商品市场方面，国际金价走低，截至发稿，现货 黄金 跌近2%，失守4100美元/盎司。 全球要闻 美国9月CPI高于预期 10月加息押注升温！ 美国9月消费者价格指数（CPI）同比增长3.7%，预估为3.6%，前值为3.4%。9月CPI环比增长0.6%，预估0.6%。美国9月核心CPI同比增长2.6%，预估为2.5%，前值为2.4%。9月核心CPI环比增长0.3%，预估为0.2%，前值为0.3%。 以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性 据以色列第12频道电视台13日报道，以色",
+     "source": "东方财富股票",
+     "zh": "美股三大指数走势分化 纳指跌幅接近1%"
+    },
+    {
+     "title": "比特币跌至82000美元下方 过去24小时内跌2%",
+     "link": "http://finance.eastmoney.com/news/11790,202610143895768637.html",
+     "pubDate": "Wed, 14 Oct 2026 22:21:04 +0800",
+     "summary": "行情显示，比特币跌至81939.6美元，过去24小时内跌1.98%；以太坊跌至2431.63美元，过去24小时内跌3.41%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "比特币跌至82000美元下方 过去24小时内跌2%"
+    },
+    {
+     "title": "摩根士丹利首席财务官预计，在贷款增长的推动下，未来一年净利息收入将扩大",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895768466.html",
+     "pubDate": "Wed, 14 Oct 2026 22:19:54 +0800",
+     "summary": "摩根士丹利 首席财务官预计，在贷款增长的推动下，未来一年净利息收入将扩大。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "摩根士丹利首席财务官预计，在贷款增长的推动下，未来一年净利息收入将扩大"
+    },
+    {
+     "title": "知情人士透露，KNDS的首次公开募股计划目前已被搁置",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895768271.html",
+     "pubDate": "Wed, 14 Oct 2026 22:19:54 +0800",
+     "summary": "知情人士透露，KNDS的首次公开募股计划目前已被搁置。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "知情人士透露，KNDS的首次公开募股计划目前已被搁置"
+    },
+    {
+     "title": "Axe Compute, Peguin shares fall despite multi-year AI deal",
+     "link": "https://seekingalpha.com/news/4652949-axe-compute-peguin-shares-fall-despite-multi-year-ai-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 10:19:03 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Axe Compute, Peguin shares fall despite multi-year AI deal"
+    },
+    {
+     "title": "Bank of America posts worst day since April 2025 after regulatory fine",
+     "link": "https://seekingalpha.com/news/4652953-bank-of-america-posts-worst-day-since-april-2025-after-regulatory-fine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 10:18:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bank of America posts worst day since April 2025 after regulatory fine"
+    },
+    {
+     "title": "Innovative Industrial Properties initiated with Buy at Stifel",
+     "link": "https://seekingalpha.com/news/4652941-innovative-industrial-properties-initiated-with-buy-at-stifel?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 10:18:11 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Innovative Industrial Properties initiated with Buy at Stifel"
+    },
+    {
+     "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+     "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 14:17:00 GMT",
+     "summary": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
+     "source": "MarketWatch",
+     "zh": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher"
+    },
+    {
+     "title": "How Iran’s $2 trillion threat puts your AI stocks at risk",
+     "link": "https://www.marketwatch.com/story/how-irans-2-trillion-threat-puts-your-ai-stocks-at-risk-2721af43?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 14:17:00 GMT",
+     "summary": "The Fed admits it can’t cool Big Tech’s spending spree. Tehran says it can, and it just named the targets.",
+     "source": "MarketWatch",
+     "zh": "How Iran’s $2 trillion threat puts your AI stocks at risk"
+    },
+    {
+     "title": "Alcoa Q3 2026 earnings preview: Y/Y revenue growth expected",
+     "link": "https://seekingalpha.com/news/4652952-alcoa-q3-2026-earnings-preview-yy-revenue-growth-expected?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 10:10:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Alcoa Q3 2026 earnings preview: Y/Y revenue growth expected"
+    },
+    {
+     "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+     "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 14:08:00 GMT",
+     "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
+     "source": "MarketWatch",
+     "zh": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine"
+    },
+    {
+     "title": "Stocks typically weaken ahead of midterms, then rebound, but resilience has persisted – analyst",
+     "link": "https://seekingalpha.com/news/4652951-stocks-typically-weaken-ahead-of-midterms-then-rebound-but-resilience-has-persisted-analyst?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 10:07:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stocks typically weaken ahead of midterms, then rebound, but resilience has persisted – analyst"
     },
     {
      "title": "Social Security’s COLA will be 3.6% in 2027 as inflation persists",
@@ -2305,110 +2433,6 @@
      "zh": "Netflix is laying off roughly 6% of its workforce"
     },
     {
-     "title": "AI costs fall faster than transformative technologies",
-     "link": "https://seekingalpha.com/news/4652946-ai-costs-fall-faster-than-transformative-technologies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 10:05:37 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AI costs fall faster than transformative technologies"
-    },
-    {
-     "title": "Here are the major earnings after the close Wednesday",
-     "link": "https://seekingalpha.com/news/4652542-here-are-the-major-earnings-after-the-close-wednesday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 10:00:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Here are the major earnings after the close Wednesday"
-    },
-    {
-     "title": "美股三大指数走势分化 纳指跌近1% 现货黄金失守4100美元/盎司",
-     "link": "http://finance.eastmoney.com/news/1345,202610143895720794.html",
-     "pubDate": "Wed, 14 Oct 2026 21:59:14 +0800",
-     "summary": "10月14日，美股三大指数走势分化，截至发稿，道指涨0.10%，纳指跌0.82%，标普500指数跌0.58%。 商品市场方面，国际金价走低，截至发稿，现货 黄金 跌近2%，失守4100美元/盎司。 全球要闻 美国9月CPI高于预期 10月加息押注升温！ 美国9月消费者价格指数（CPI）同比增长3.7%，预估为3.6%，前值为3.4%。9月CPI环比增长0.6%，预估0.6%。美国9月核心CPI同比增长2.6%，预估为2.5%，前值为2.4%。9月核心CPI环比增长0.3%，预估为0.2%，前值为0.3%。 以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性 据以色列第12频道电视台13日报道，以色",
-     "source": "东方财富股票",
-     "zh": "美股三大指数走势分化 纳指跌近1% 现货黄金失守4100美元/盎司"
-    },
-    {
-     "title": "标普500银行指数触及四个多月低点",
-     "link": "http://finance.eastmoney.com/news/11440,202610143895757264.html",
-     "pubDate": "Wed, 14 Oct 2026 21:59:14 +0800",
-     "summary": "标普500 银行 指数触及四个多月低点，最新下跌1.3%。",
-     "source": "东方财富股票",
-     "zh": "标普500银行指数触及四个多月低点"
-    },
-    {
-     "title": "PC Connection names Matt Zafirovski president and COO",
-     "link": "https://seekingalpha.com/news/4652942-pc-connection-names-matt-zafirovski-president-and-coo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 09:58:58 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PC Connection names Matt Zafirovski president and COO"
-    },
-    {
-     "title": "U.S. equities trade lower after the latest CPI inflation report",
-     "link": "https://seekingalpha.com/news/4652940-us-equities-trade-lower-after-the-latest-cpi-inflation-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 09:58:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "U.S. equities trade lower after the latest CPI inflation report"
-    },
-    {
-     "title": "ESG典型案例|研发投入连续多年增长 华工科技打造激光行业可持续发展样本",
-     "link": "http://stock.eastmoney.com/news/11219,202610143895756866.html",
-     "pubDate": "Wed, 14 Oct 2026 21:58:20 +0800",
-     "summary": "当 人工智能 正在加速重塑人类工作生活的方方面面，中国科技企业任重道远。 近年来， 华工科技 将ESG深度融入“创新驱动+全球化”两大战略，沿着“装备智能化、产线自动化、工厂智慧化”路径，把环境、社会与治理责任嵌入研发、制造、运营全链条。 华工科技 董事长马新强在《2025年度ESG年度报告》中表示，“十五五”开局之年， 华工科技 在新阶段中坚持树立起系统思维、逻辑思维、数字思维，坚守“清晰目标+落地路径+实在成效”的执行准则，紧扣“创新驱动”与“全球化”两大核心战略，通过持续技术创新促进可持续发展，将业务可持续发展作为重中之重，一如既往融入AI潮流、践行ESG管治要求，为构建更加智能、美好的",
-     "source": "东方财富股票",
-     "zh": "ESG典型案例|研发投入连续多年增长 华工科技打造激光行业可持续发展样本"
-    },
-    {
-     "title": "清越科技欺诈发行、信披违法被罚1.7亿元！相关方先行赔付事项正在推进中",
-     "link": "http://stock.eastmoney.com/news/11134,202610143895756765.html",
-     "pubDate": "Wed, 14 Oct 2026 21:57:59 +0800",
-     "summary": "清越科技（ *ST清越 ，688496.SH）10月14日披露，公司于10月13日收到中国证监会下发的《行政处罚决定书》。证监会认定公司存在欺诈发行、信息披露违法行为，决定对公司罚款17188万元。 公司同日公告，经与相关方确认，先行赔付事项正在有序推进中。今年5月，其IPO保荐人及主承销商 广发证券 、审计机构立信会计师事务所、公司实际控制人高裕弟已公开声明，拟共同出资设立先行赔付专项基金，用于先行赔付适格投资者的投资损失。 此外，因公司股票连续20个交易日每日股票收盘价均低于1元，已于2026年9月10日触及交易类强制退市情形，公司股票自9月11日起停牌。同日公司收到上交所下发的《关于苏州",
-     "source": "东方财富股票",
-     "zh": "清越科技欺诈发行、信披违法被罚1.7亿元！相关方先行赔付事项正在推进中"
-    },
-    {
-     "title": "紫光股份预计前三季度归母净利润超过24.2亿元 同比增长逾72.38%",
-     "link": "http://stock.eastmoney.com/news/11215,202610143895756627.html",
-     "pubDate": "Wed, 14 Oct 2026 21:57:47 +0800",
-     "summary": "14日， 紫光股份 有限公司（ 紫光股份 ，000938.SZ）披露2026年前三季度业绩预告，公司预计期内核心盈利质量同比提升，股东回报能力增强。 紫光股份 披露，2026年前三季度，公司归属于上市公司股东的净利润预计达24.2亿元至30.6亿元，同比增长72.38%至117.97%；扣非后归母净利润为21.0亿元至27.4亿元，同比增长43.84%至87.68%；基本每股收益由上年同期的0.4908元提升至0.85至1.07元。 针对业绩变动原因，紫光股份解释称，预计前三季度归属于上市公司股东的净利润较上年同期大幅增长，主要基于以下多方面原因： 随着 人工智能 需求持续释放和应用场景加快渗",
-     "source": "东方财富股票",
-     "zh": "紫光股份预计前三季度归母净利润超过24.2亿元 同比增长逾72.38%"
-    },
-    {
-     "title": "美政府限制中国无人机 美警方先急了！下一个“烦恼”的会是谁？",
-     "link": "http://finance.eastmoney.com/news/1351,202610143895756174.html",
-     "pubDate": "Wed, 14 Oct 2026 21:57:22 +0800",
-     "summary": "据美国全国公共广播电台（NPR）10月12日报道，美国对中国 无人机 的限制正在损害资金短缺的警察部门，由于预算紧张，一些部门不得不四处奔走，寻找途径来购买更昂贵的本土 无人机 。 报道援引美国执法 无人机 协会（ LED A）主席乔恩·比尔的观点写道，中国制造的无人机比美国无人机“领先几光年”。比尔介绍，大疆创新（DJI）的一款配备高分辨率热成像摄像头的无人机售价不到1万美元，美国无人机价格通常在2万到5万美元之间，性能还要逊色不少。 近年来，美国不断对中国无人机的进口和销售设置壁垒。去年12月，美国联邦 通信 委员会（FCC）将所有外国生产的无人机及关键部件纳入“受管制清单”。今年7月，F",
-     "source": "东方财富股票",
-     "zh": "美政府限制中国无人机 美警方先急了！下一个“烦恼”的会是谁？"
-    },
-    {
-     "title": "Entegris receives Buy rating on higher content in advanced semiconductor nodes: Truist",
-     "link": "https://seekingalpha.com/news/4652934-entegris-receives-buy-rating-on-higher-content-in-advanced-semiconductor-nodes-truist?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 09:54:50 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Entegris receives Buy rating on higher content in advanced semiconductor nodes: Truist"
-    },
-    {
-     "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-     "link": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
-     "pubDate": "Wed, 14 Oct 2026 13:54:42 GMT",
-     "summary": "With a 3.6% COLA for 2027, Social Security retirement benefit checks will go up by $75 per month, on average, the agency said.",
-     "source": "CNBC",
-     "zh": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027"
-    },
-    {
-     "title": "Equinor discovers oil near Oseberg field in North Sea",
-     "link": "https://seekingalpha.com/news/4652900-equinor-discovers-oil-near-oseberg-field-in-north-sea?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 09:54:22 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Equinor discovers oil near Oseberg field in North Sea"
-    },
-    {
      "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
      "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
      "pubDate": "Wed, 14 Oct 2026 13:53:28 GMT",
@@ -2417,20 +2441,12 @@
      "zh": "Consumer prices rose 3.7% annually in September as gas prices skyrocket"
     },
     {
-     "title": "亿通科技：关于完成补选公司独立董事暨调整专门委员会委员的公告",
-     "link": "http://www.eeo.com.cn/2026/1014/1064548.shtml",
-     "pubDate": "Wed, 14 Oct 2026 21:52:25 +0800",
-     "summary": "证券日报网讯10月14日，亿通科技发布公告称，马津先生的任职资格和独立性经深圳证券交易所审核无异议后，公司于2026年10月14日召开2026年第二次临时股东会，审议通过了《关于补选马津先生为第九届董事会独立董事》的议案，同意选举马津先生为公司第九届董事会独立董事，同时，公司对部分专门委员会成员的调整正式生效，调整后的专门委员会委员任期自公司股东会审议通过之日起至第九届董事会任期届满之日止。 （编辑 吴越...",
-     "source": "经济观察网",
-     "zh": "亿通科技：关于完成补选公司独立董事暨调整专门委员会委员的公告"
-    },
-    {
-     "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-     "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 13:52:00 GMT",
-     "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
-     "source": "MarketWatch",
-     "zh": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine"
+     "title": "This is an era of Davids, not Goliaths",
+     "link": "https://www.ft.com/content/9af2b0d0-e31f-46e8-9041-36b37a9cd3ba?syn-25a6b1a6=1",
+     "pubDate": "Wed, 14 Oct 2026 13:52:24 GMT",
+     "summary": "Why smaller powers are thwarting bigger ones",
+     "source": "Financial Times",
+     "zh": "This is an era of Davids, not Goliaths"
     },
     {
      "title": "US inflation jumps to 3.7% as Iran war drives up prices",
@@ -2465,12 +2481,12 @@
      "zh": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?"
     },
     {
-     "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
-     "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 13:36:00 GMT",
-     "summary": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
-     "source": "MarketWatch",
-     "zh": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher"
+     "title": "东百集团：终止收购杭州快灵光电部分股权",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895733039.html",
+     "pubDate": "Wed, 14 Oct 2026 21:37:31 +0800",
+     "summary": "东百集团 今日晚间(600693.SH)公告称，公司全资子公司福建东百创智投资有限公司原拟收购杭州快灵光电科技有限公司部分股权，因各方未能就关键条款达成一致，公司决定终止本次股权收购。本次交易未签订正式协议，终止不会对公司财务状况和经营产生重大影响。 此前， 东百集团 10月11日公告，全资子公司东百创智拟收购杭州快灵光电科技有限公司52.6667%股权，交易暂定价3.16亿元。快灵光电作为持股及融资平台主体，通过全资子公司浙江光特科技有限公司从事光探测芯片的研发、生产及销售。此次收购是在夯实公司主营业务的基础上，切入光芯片领域，培育新的业务增长点。 值得关注的是，在收购公告披露当日，上交所火",
+     "source": "东方财富资讯",
+     "zh": "东百集团：终止收购杭州快灵光电部分股权"
     },
     {
      "title": "美国CPI超预期加剧加息押注，美股低开，存储芯片股、光通信股普跌，美国银行跌约8%",
@@ -2479,22 +2495,6 @@
      "summary": "美国9月通胀数据超出预期，重燃市场对美联储维持高利率的担忧，推动美股期货抹去早盘涨幅、美债收益率走高。 美国劳工统计局周三公布的数据显示，9月消费者价格指数（CPI）环比上涨0.6%，创五个月来最快升速，年率升幅为3.7%。道指跌0.2%，标普500指数跌0.5%，纳指跌0.6%。美国银行跌约8%，公司三季度财报不及预期。存储芯片股普跌，SK海力士跌约4%。光通信股普跌，Credo跌约3%。 在通胀压力下，油价居高不下进一步加剧市场不安情绪。布伦特原油徘徊在每桶106美元附近，交易员持续权衡中东地区最新紧张局势及市场前景的不确定性。与此同时，美联储监管副主席Michelle Bowman在数据",
      "source": "华尔街见闻",
      "zh": "美国CPI超预期加剧加息押注，美股低开，存储芯片股、光通信股普跌，美国银行跌约8%"
-    },
-    {
-     "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
-     "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 13:31:00 GMT",
-     "summary": "Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment.",
-     "source": "MarketWatch",
-     "zh": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties"
-    },
-    {
-     "title": "2026世界储能大会举办 共探储能产业前沿",
-     "link": "http://www.eeo.com.cn/2026/1014/1064537.shtml",
-     "pubDate": "Wed, 14 Oct 2026 21:26:27 +0800",
-     "summary": "本报讯 （记者李婷）10月14日至16日，由工业和信息化部装备工业发展中心、福建省工业和信息化厅、宁德市人民政府联合主办的2026世界储能大会在福建宁德举办。 世界储能大会已在宁德成功举办三届，累计吸引50余个国家和地区的政府部门、知名专家、企业高管及行业机构等近5000位代表参会，成为全球储能领域最具前瞻性和引领性的国际交流平台，获得业界的广泛关注和认可赞誉，为全国乃至全球储能产业发展贡献了积极力量。</p...",
-     "source": "经济观察网",
-     "zh": "2026世界储能大会举办 共探储能产业前沿"
     },
     {
      "title": "想要升职加薪走向人生巅峰？在华尔街，你得先懂AI!",

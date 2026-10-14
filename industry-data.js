@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/15 06:52:06",
+ "generated_at": "2026/10/15 07:12:06",
  "recent_days": 7,
  "industries": [
   {
@@ -202,6 +202,14 @@ window.INDUSTRY_DATA = {
      "zh": "How Third Moment Research runs 10,000 agents for 36+ hours"
     },
     {
+     "title": "How Block is building AI-powered security with OpenAI technology",
+     "link": "https://openai.com/index/block-ai-powered-security",
+     "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+     "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+     "source": "OpenAI",
+     "zh": "How Block is building AI-powered security with OpenAI technology"
+    },
+    {
      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
      "link": "https://www.qbitai.com/2026/10/503201.html",
      "pubDate": "Wed, 14 Oct 2026 06:45:38 +0000",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
      "source": "DeepMind",
      "zh": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
-    },
-    {
-     "title": "The EU’s next chapter in AI is agentic",
-     "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-     "pubDate": "Wed, 14 Oct 2026 00:00:00 GMT",
-     "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-     "source": "OpenAI",
-     "zh": "The EU’s next chapter in AI is agentic"
     }
    ]
   },
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Market-Tightens-as-Tanker-Attacks-and-Inventory-Draws-Mount.html",
+     "pubDate": "Wed, 14 Oct 2026 18:00:00 -0500",
+     "summary": "Brent crude is once again over $106, Iran is intensifying attacks on tankers in Hormuz, and global inventories are draining, while OPEC just forecast stronger demand for next year. Six months ago, one well-timed TruthSocial post by President Trump would have calmed traders down. Now, this no longer ",
+     "source": "OilPrice",
+     "zh": "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount"
+    },
+    {
      "title": "White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6",
      "link": "https://oilprice.com/Energy/Crude-Oil/White-House-Turns-to-Korean-War-Era-Law-as-Diesel-Prices-Stay-Above-6.html",
      "pubDate": "Wed, 14 Oct 2026 17:00:00 -0500",
@@ -904,14 +912,6 @@ window.INDUSTRY_DATA = {
      "summary": "Iran has quite obviously been surging its attacks on commercial shipping in the Strait of Hormuz in an attempt to wreak uncertainty and economic havoc for the Trump administration ahead of the November midterm elections, undermining a recent recovery in Persian Gulf oil shipments. The attacks are no",
      "source": "OilPrice",
      "zh": "Ship Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks"
-    },
-    {
-     "title": "Putin Fights to Preserve Russia’s Fading Influence in Central Asia",
-     "link": "https://oilprice.com/Geopolitics/Asia/Putin-Fights-to-Preserve-Russias-Fading-Influence-in-Central-Asia.html",
-     "pubDate": "Wed, 14 Oct 2026 13:00:00 -0500",
-     "summary": "Back in 1991, the formation of the Commonwealth of Independent States placed the final nail in the Soviet Union’s coffin. Since then, the CIS itself has proven mostly moribund, falling far short of fulfilling the aims outlined in its 1993 charter. The results of the recent CIS summit in Turkmenistan",
-     "source": "OilPrice",
-     "zh": "Putin Fights to Preserve Russia’s Fading Influence in Central Asia"
     },
     {
      "title": "Insurance Industry Is Throwing Its Customers Under The Bus",
@@ -1554,6 +1554,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+     "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+     "pubDate": "Wed, 14 Oct 2026 18:56:47 -0400",
+     "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
+     "source": "BleepingComputer",
+     "zh": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks"
+    },
+    {
      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
      "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
      "pubDate": "Wed, 14 Oct 2026 21:20:13 GMT",
@@ -1690,14 +1698,6 @@ window.INDUSTRY_DATA = {
      "zh": "Virtual Event Today: Zero Trust Strategies Summit"
     },
     {
-     "title": "Global takedown hits network behind 1 billion phishing messages",
-     "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-     "pubDate": "Wed, 14 Oct 2026 09:12:52 -0400",
-     "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
-     "source": "BleepingComputer",
-     "zh": "Global takedown hits network behind 1 billion phishing messages"
-    },
-    {
      "title": "Russian Influence Operation Widely Targeting Latin America",
      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
      "pubDate": "Wed, 14 Oct 2026 13:00:00 GMT",
@@ -1778,6 +1778,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "乔布斯信件加持：仍可运行的 Apple I 拍出 115 万美元，成最贵苹果古董电脑",
+     "link": "https://www.ithome.com/1/013/152.htm",
+     "pubDate": "Wed, 14 Oct 2026 23:05:05 GMT",
+     "summary": "IT之家 10 月 15 日消息，科技媒体 AppleInsider 昨日（10 月 14 日）发布博文，报道称由苹果联合创始人斯蒂夫 · 盖瑞 · 沃兹尼亚克（Steve Wozniak）签名、附有史蒂夫 · 乔布斯（Steve Jobs）信件的“哈特菲尔德”（Hatfield）Apple I， 在 Bonhams 拍卖会上以 115 万美元 （IT之家注：现汇率约合 771.1 万元人民币） 成交。 该价格创下 Apple I 迄今最高拍卖纪录，也是苹果最贵的古董电脑 ，拍卖全程仅持续 28 分钟，最终由两位竞标者角逐胜出。 这台 Apple I 由苹果联合创始人 Steve Woznia",
+     "source": "IT之家",
+     "zh": "乔布斯信件加持：仍可运行的 Apple I 拍出 115 万美元，成最贵苹果古董电脑"
+    },
+    {
+     "title": "涉嫌在高管会议室安装窃听设备的 OpenAI 沙特籍工程师，被曝已买好回家的单程机票",
+     "link": "https://www.ithome.com/1/013/151.htm",
+     "pubDate": "Wed, 14 Oct 2026 23:04:53 GMT",
+     "summary": "IT之家 10 月 15 日消息，据《商业内幕》今天（15 日）凌晨报道，美国联邦检察官披露，涉嫌在 OpenAI 办公室秘密安装录音设备的前工程师、沙特阿拉伯籍男子阿卜杜勒拉赫曼 · 阿尔福赞，曾预订返回沙特阿拉伯的单程机票。 最新解封的法庭文件显示，美国联邦政府曾担心案件消息走漏，影响对阿尔福赞的起诉。 加州北区联邦检察官克雷格 · 米萨基安等人在 10 月 8 日提交的法庭文件中提到：“被告、他的妻子和另一名家庭成员预订了 2026 年 10 月 12 日星期一从旧金山出发、经伊斯坦布尔飞往沙特阿拉伯的单程机票。” 检方担心，如果阿尔福赞在被捕前得知自己受到调查， 他有能力提前离开美国，",
+     "source": "IT之家",
+     "zh": "涉嫌在高管会议室安装窃听设备的 OpenAI 沙特籍工程师，被曝已买好回家的单程机票"
+    },
+    {
+     "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+     "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+     "pubDate": "Wed, 14 Oct 2026 23:00:00 +0000",
+     "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+     "source": "TechCrunch",
+     "zh": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals"
+    },
+    {
+     "title": "微软发布 XBOX Nano 口袋手柄：旗下尺寸最小手柄，售价 329 元",
+     "link": "https://www.ithome.com/1/013/147.htm",
+     "pubDate": "Wed, 14 Oct 2026 22:58:57 GMT",
+     "summary": "IT之家 10 月 15 日消息，微软今日正式发布 XBOX Nano 手柄，这款体积更小、价格更低的手柄可以轻松放进口袋，手柄面向“低龄玩家、手掌偏小的人群，或是所有想要便携设备随时随地游玩的人”设计。 售价 329 元的 XBOX Nano 是微软尺寸最小的手柄，长度略超 5 英寸 （IT之家注：约 127 毫米） ，比大多数智能手机还要短。其配备普通 XBOX 手柄上全部常规按键，同时支持 XBOX 无线连接与蓝牙，可连接 XBOX 主机、手机、平板以及电脑。 XBOX Nano 手柄内置可充电电池，不像多数 XBOX 手柄那样需要五号电池或是单独的充电套件。微软还为这款手柄增加了一枚可",
+     "source": "IT之家",
+     "zh": "微软发布 XBOX Nano 口袋手柄：旗下尺寸最小手柄，售价 329 元"
+    },
+    {
+     "title": "Eight US states sue OpenAI separately in a bipartisan effort, alleging it didn&apos;t implement sufficient safeguards to protect kids and other vulnerable users (Cassandre Coyer/Bloomberg Law)",
+     "link": "https://www.techmeme.com/261014/p46#a261014p46",
+     "pubDate": "Wed, 14 Oct 2026 18:55:02 -0400",
+     "summary": "Cassandre Coyer / Bloomberg Law : Eight US states sue OpenAI separately in a bipartisan effort, alleging it didn't implement sufficient safeguards to protect kids and other vulnerable users &nbsp; &mdash;&nbsp; More than half a dozen states sued OpenAI Inc. Wednesday alleging the tech giant didn't i",
+     "source": "Techmeme",
+     "zh": "Eight US states sue OpenAI separately in a bipartisan effort, alleging it didn&apos;t implement sufficient safeguards to protect kids and other vulnerable users (Cassandre Coyer/Bloomberg Law)"
+    },
+    {
      "title": "苹果市值里程碑：收盘首次超 5 万亿美元",
      "link": "https://www.ithome.com/1/013/142.htm",
      "pubDate": "Wed, 14 Oct 2026 22:44:05 GMT",
@@ -1797,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 (Financial Times)",
      "link": "https://www.techmeme.com/261014/p44#a261014p44",
      "pubDate": "Wed, 14 Oct 2026 18:30:03 -0400",
-     "summary": "Financial Times : Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 &nbsp; &mdash;&nbsp; AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its anticipat",
+     "summary": "Financial Times : Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 &nbsp; &mdash;&nbsp; AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its expected ",
      "source": "Techmeme",
      "zh": "Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 (Financial Times)"
     },
@@ -1813,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Tiny Little Office",
      "link": "https://tinylittleoffice.com/",
      "pubDate": "Wed, 14 Oct 2026 22:10:08 +0000",
-     "summary": "Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 19 # Comments: 4",
+     "summary": "Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 29 # Comments: 5",
      "source": "Hacker News",
      "zh": "Tiny Little Office"
     },
@@ -1869,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
      "link": "https://typesafe.ai/blog/jev-1-14",
      "pubDate": "Wed, 14 Oct 2026 21:11:03 +0000",
-     "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 83 # Comments: 36",
+     "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 102 # Comments: 36",
      "source": "Hacker News",
      "zh": "We’re releasing Jev 1.14.0 along with experimental features for dreamers"
     },
@@ -1901,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "OpenCode 2.0",
      "link": "https://anoma.ly/notes/opencode-2-0/",
      "pubDate": "Wed, 14 Oct 2026 20:48:24 +0000",
-     "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 143 # Comments: 47",
+     "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 170 # Comments: 55",
      "source": "Hacker News",
      "zh": "OpenCode 2.0"
     },
@@ -1914,18 +1954,10 @@ window.INDUSTRY_DATA = {
      "zh": "Things are finally looking up for NASA's first missions to Venus in a generation"
     },
     {
-     "title": "Elon Musk says the US government owns and controls Starshield systems and \"any limits on speed or usage are decided by the US military and ultimately POTUS\" (Elon Musk/@elonmusk)",
-     "link": "https://www.techmeme.com/261014/p40#a261014p40",
-     "pubDate": "Wed, 14 Oct 2026 16:35:02 -0400",
-     "summary": "Elon Musk / @elonmusk : Elon Musk says the US government owns and controls Starshield systems and &ldquo;any limits on speed or usage are decided by the US military and ultimately POTUS&rdquo; &nbsp; &mdash;&nbsp; Starshield systems are owned and controlled by the US government. Any limits on speed ",
-     "source": "Techmeme",
-     "zh": "Elon Musk says the US government owns and controls Starshield systems and \"any limits on speed or usage are decided by the US military and ultimately POTUS\" (Elon Musk/@elonmusk)"
-    },
-    {
      "title": "Anthropic's Scion is heavily inspired by Mononoke",
      "link": "https://sunshowers.io/posts/anthropic-mononoke/",
      "pubDate": "Wed, 14 Oct 2026 20:30:54 +0000",
-     "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 174 # Comments: 67",
+     "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 186 # Comments: 78",
      "source": "Hacker News",
      "zh": "Anthropic's Scion is heavily inspired by Mononoke"
     },
@@ -1933,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
      "link": "https://blog.cloudflare.com/yandex-outage/",
      "pubDate": "Wed, 14 Oct 2026 20:29:13 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 151 # Comments: 46",
+     "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 159 # Comments: 53",
      "source": "Hacker News",
      "zh": "Yandex outage: data shows that instead of going dark, malicious bots moved"
     },
@@ -1973,7 +2005,7 @@ window.INDUSTRY_DATA = {
      "title": "Fancy Curl Sites",
      "link": "https://nytpu.com/gemlog/2026-03-18",
      "pubDate": "Wed, 14 Oct 2026 19:29:12 +0000",
-     "summary": "Article URL: https://nytpu.com/gemlog/2026-03-18 Comments URL: https://news.ycombinator.com/item?id=50093612 Points: 51 # Comments: 12",
+     "summary": "Article URL: https://nytpu.com/gemlog/2026-03-18 Comments URL: https://news.ycombinator.com/item?id=50093612 Points: 58 # Comments: 12",
      "source": "Hacker News",
      "zh": "Fancy Curl Sites"
     },
@@ -1984,38 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "From 2,500 requests to 24: Rebuilding star history without the stargazers"
-    },
-    {
-     "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
-     "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-     "pubDate": "Wed, 14 Oct 2026 18:15:00 +0000",
-     "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-     "source": "WIRED",
-     "zh": "AI Came for Math. Now It’s Chasing the Rest of Science"
-    },
-    {
-     "title": "研究估计到 2050 年每年新增痴呆症人数将会翻倍",
-     "link": "https://www.solidot.org/story?sid=85615",
-     "pubDate": "Thu, 15 Oct 2026 00:46:34 +0800",
-     "summary": "一项新研究估计，2023 年有 1140 万人患上痴呆症，到 2050 年预计这一数字将增加一倍以上，新增痴呆症人数将达到 2470 万。研究发现女性的痴呆症发病率高于男性，且低中收入国家的发病率远高于高收入国家。在校正年龄因素后，女性发病为每千人年 10.6 例，男性为 8.6 例。低中收入国家的发病率为每千人年 13.6 例，而高收入国家为 8.3 例。目前全世界有逾 5700 万人受痴呆症困扰，到 2050 年这一数字将达到 1.5 亿。每年新增 2400 万痴呆症病例，将给个人、家庭、卫生系统及经济带来巨大压力。",
-     "source": "Solidot",
-     "zh": "研究估计到 2050 年每年新增痴呆症人数将会翻倍"
-    },
-    {
-     "title": "GTA 6 可能提前发布 PC 版本",
-     "link": "https://www.solidot.org/story?sid=85614",
-     "pubDate": "Thu, 15 Oct 2026 00:32:07 +0800",
-     "summary": "Rockstar 尚未正式宣布，但有报道称它计划于 2027 年第一季度发布 GTA 6 的 PC 版本，与主机版本仅仅相隔几个月。GTA 6 将于 2026 年 11 月发布主机版本。据彭博报道，在 GTA 6 开发过程中 Rockstar 员工总数从开发 Red Dead Redemption II 的 2,441 人增长到 4,711 人。GTA 6 制作预算据称超过 20 亿美元，提前释出 PC 版本旨在加快回收制作费用。上一代 GTA 5 的主机版本和 PC 版本相隔 1 年 7 个月，而 GTA 5 的主要受众是主机玩家，PC 玩家占少数。如今 PC 玩家的规模已经显著扩大。加快发",
-     "source": "Solidot",
-     "zh": "GTA 6 可能提前发布 PC 版本"
-    },
-    {
-     "title": "苹果推出广告鼓励 Chrome 用户切换到 Safari",
-     "link": "https://www.solidot.org/story?sid=85613",
-     "pubDate": "Thu, 15 Oct 2026 00:13:37 +0800",
-     "summary": "如何吸引 Chrome 的用户改用其它浏览器？Chrome 是目前市场份额最高的浏览器。苹果推出了一个广告页（无中文）：Switch to Safari。苹果列举了一系列 Safari 的优点，称在 Mac 设备上，相比 Chrome，使用 Safari 播放流视频，续航时间最长可多出 5 个小时；常用网站的页面加载速度更快；单次充电即可全天播放流视频；动画内容渲染性能更出色；复杂 Web 应用 JavaScript 运行速度更快；默认阻止第三方 Cookie 追踪；屏蔽恼人的干扰内容，等等。苹果称，Safari 在速度、电池续航以及隐私上都超过 Chrome。",
-     "source": "Solidot",
-     "zh": "苹果推出广告鼓励 Chrome 用户切换到 Safari"
     }
    ]
   },
@@ -2025,6 +2025,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple Maps launches Detailed City Experience in Austin, Texas",
+     "link": "https://9to5mac.com/2026/10/14/apple-maps-launches-detailed-city-experience-in-austin-texas/",
+     "pubDate": "Wed, 14 Oct 2026 23:03:45 +0000",
+     "summary": "Apple is rolling out its stunning Detailed City Experience in Apple Maps for users in Austin, TX. This marks a robust overhaul of Apple Maps in Austin, similar to what we’ve seen in other markets like San Francisco, Chicago, and London. more…",
+     "source": "9to5Mac",
+     "zh": "Apple Maps launches Detailed City Experience in Austin, Texas"
+    },
+    {
+     "title": "Apple's website hints the full-size HomePod could get Siri AI",
+     "link": "https://www.gsmarena.com/apples_website_hints_the_fullsize_homepod_could_get_siri_ai-news-75049.php",
+     "pubDate": "Thu, 15 Oct 2026 01:02:02 +0200",
+     "summary": "Yesterday was a busy day for Apple's smart home efforts. The company unveiled the HomeView smart display, the new Apple TV 4K, the HomePod mini 2, and the Apple Home Collection. All three of Apple's new devices support Siri AI, but what about the older full-size HomePod? Thankfully, Apple's own webs",
+     "source": "GSMArena",
+     "zh": "Apple's website hints the full-size HomePod could get Siri AI"
+    },
     {
      "title": "You can now pair an Apple Watch with Android, but there’s a big catch",
      "link": "https://www.androidauthority.com/apple-watch-companion-pair-with-android-3723530/",
@@ -2128,14 +2144,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple today shared a behind-the-scenes look at “From Earth to Sky,” a fashion show in Turkey that was designed with an iPad Pro and filmed using an iPhone 18 Pro Max. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "Apple showcases iPad Pro and iPhone 18 Pro Max’s role in ‘landmark fashion show’"
-    },
-    {
-     "title": "iOS 27 adds brand new widgets for your iPhone’s Home Screen",
-     "link": "https://9to5mac.com/2026/10/14/ios-27-adds-brand-new-widgets-for-your-iphones-home-screen/",
-     "pubDate": "Wed, 14 Oct 2026 20:36:16 +0000",
-     "summary": "iOS 27 expands the available options to customize your Home Screen with new extra-large widgets that will be especially useful on iPhone Duo. Here’s the full list of 15+ pre-installed widgets iOS 27 introduces. more…",
-     "source": "9to5Mac",
-     "zh": "iOS 27 adds brand new widgets for your iPhone’s Home Screen"
     },
     {
      "title": "The iPhone Duo’s screen repair costs make Samsung foldables look like a bargain",
@@ -2256,14 +2264,6 @@ window.INDUSTRY_DATA = {
      "summary": "Qualcomm scores a decisive but decidedly unexciting victory in its legal battle with Arm. Following a 5-day trial, a jury in Delaware sided with Qualcomm and awarded the company $2. Actually, it’s $1 + $1 since Qualcomm won on two separate issues. No, we didn’t forget to add “billion” or even “milli",
      "source": "GSMArena",
      "zh": "Jury sides with Qualcomm in its legal fight with Arm and awards it $2 in damages"
-    },
-    {
-     "title": "Samsung Galaxy A58's camera details surface, and they are nothing to get excited about",
-     "link": "https://www.gsmarena.com/samsung_galaxy_a58_camera_specs_surface-news-75041.php",
-     "pubDate": "Wed, 14 Oct 2026 19:01:02 +0200",
-     "summary": "Samsung unveiled the Galaxy A57 in March, and it is already working on the Galaxy A58, which could arrive in March or April next year. There is no word from Samsung about the Galaxy A58, but a new report from GalaxyClub shares its camera details, and they are nothing to get excited about. According ",
-     "source": "GSMArena",
-     "zh": "Samsung Galaxy A58's camera details surface, and they are nothing to get excited about"
     }
    ]
   },
@@ -2274,6 +2274,126 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "JPMorgan Chase blocks outside AI agents from directly accessing customer accounts",
+     "link": "https://www.finextra.com/newsarticle/48585/jpmorgan-chase-blocks-outside-ai-agents-from-directly-accessing-customer-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 15 Oct 2026 00:01:00 GMT",
+     "summary": "Weeks after the launch of Meta's Muse AI assistant, Jamie Dimon says JPMorgan Chase is not going to allow outside agents to directly access accounts on behalf of retail customers.",
+     "source": "Finextra",
+     "zh": "JPMorgan Chase blocks outside AI agents from directly accessing customer accounts"
+    },
+    {
+     "title": "NatWest enlists Nvidia to help its AI spending tool understand regional accents",
+     "link": "https://www.finextra.com/newsarticle/48586/natwest-enlists-nvidia-to-help-its-ai-spending-tool-understand-regional-accents?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 15 Oct 2026 00:01:00 GMT",
+     "summary": "NatWest has harnessed AI speech recognition technology from Nvidia to help its new audio-visual spending insights tool understand customers' accents and pronunciations.",
+     "source": "Finextra",
+     "zh": "NatWest enlists Nvidia to help its AI spending tool understand regional accents"
+    },
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年10月15日",
+     "link": "https://wallstreetcn.com/articles/3783653",
+     "pubDate": "Thu, 15 Oct 2026 07:05:23 +0800",
+     "summary": "华见早安之声 要闻精选 中国9月新增社融 3.55万亿元、 新增人民币贷款 1.08万亿， 较8月大幅回升且双双超预期，但居民融资需求仍偏弱。 中国9月以美元计价出口 同比增36.3%， 远超预期的25.7% ，集成电路出口额增136%，月度进出口规模首次突破5万亿元。 中国9月CPI 同比涨0.9%、涨幅小幅回升， PPI 同比涨5.0%创近四年新高 ，汽油价格涨16.6%是主要推力。 美国9月CPI 同比涨3.7%、核心CPI涨2.6%， 双双超过市场预期，创五个月来最快涨幅，交易员把10月加息概率从22%上调至50% 。 中欧 在世界贸易组织多边规则框架下 就混动汽车、电动汽车贸易达成磋",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年10月15日"
+    },
+    {
+     "title": "随着智能代理对治理形成考验，欧洲、中东和非洲地区八成企业将人工智能事件上报至最高管理层",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895910385.html",
+     "pubDate": "Thu, 15 Oct 2026 07:04:29 +0800",
+     "summary": "IBM研究显示，随着智能代理对治理形成考验，欧洲、中东和非洲地区八成企业将 人工智能 事件上报至董事会或最高管理层。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "随着智能代理对治理形成考验，欧洲、中东和非洲地区八成企业将人工智能事件上报至最高管理层"
+    },
+    {
+     "title": "三星、SK 海力士在 Nextrade 盘前交易中跌幅均超 6%",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895909539.html",
+     "pubDate": "Thu, 15 Oct 2026 07:03:11 +0800",
+     "summary": "三星、SK 海力士在 Nextrade 盘前交易中跌幅均超 6%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "三星、SK 海力士在 Nextrade 盘前交易中跌幅均超 6%"
+    },
+    {
+     "title": "美方预计俄罗斯柴油将在中期选举前流入美市场",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895909722.html",
+     "pubDate": "Thu, 15 Oct 2026 07:02:40 +0800",
+     "summary": "据纽约邮报报道，一位美方消息人士透露，俄罗斯柴油有望在11月3日中期选举前进入美国市场。此前，上个月美国燃料价格曾创下每加仑6.53美元的 历史新高 。消息人士表示：“如果一切顺利，这两周内柴油就应到货”，并指出俄罗斯已同意供应“相当可观”的数量。消息人士并未明确说明将俄罗斯柴油运往美国的具体计划。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "美方预计俄罗斯柴油将在中期选举前流入美市场"
+    },
+    {
+     "title": "欧普康视拟斥资1.2亿元收购恒熠医疗；东诚药业终止分拆蓝纳成上市 | 医药早参",
+     "link": "http://finance.eastmoney.com/news/1354,202610153895910166.html",
+     "pubDate": "Thu, 15 Oct 2026 07:01:02 +0800",
+     "summary": "丨2026年10月15日星期四丨 NO .1 欧普康 视 拟以1.2亿元收购恒熠医疗 10月14日， 欧普康视 公告称，控股子公司的全资子公司昆明星程眼科 医院 有限责任公司（以下简称星程眼科）在安徽省合肥市签订了投资合作协议，星程眼科以自有资金人民币1.2亿元，通过受让股权的方式投资于宿迁恒熠 医疗服务 有限公司（以下简称恒熠医疗）。本次投资完成后，星程眼科将持有恒熠医疗100%的股权。 点评： 本次投资有利于巩固和拓展公司在云南省的终端渠道布局，提升市场占有率和竞争力。本次交易完成后，恒熠医疗将纳入公司合并报表范围，预计对公司的未来财务状况、现金流量及经营成果将产生积极影响。 NO. 2 ",
+     "source": "东方财富股票",
+     "zh": "欧普康视拟斥资1.2亿元收购恒熠医疗；东诚药业终止分拆蓝纳成上市 | 医药早参"
+    },
+    {
+     "title": "前三季度电动汽车出口增72.3%；龙源电力启动600万千瓦组件框采｜新能源早参",
+     "link": "http://finance.eastmoney.com/news/1354,202610153895910069.html",
+     "pubDate": "Thu, 15 Oct 2026 07:01:02 +0800",
+     "summary": "｜ 2026年10月15日星期四 ｜ NO.1 前三季度电动 汽车 、 锂 电池 出口分别增长72.3%、36.4% 10月14日，海关总署在国新办新闻发布会上公布，前三季度我国电动 汽车 、 锂 电池 、 风力发电 机组及其零件出口同比分别增长72.3%、36.4%和22.4%。同期，光伏产品出口增长10.3%，电线电缆、变压器出口分别增长28.1%、22.5%，各类蓄 电池 出口增长34.8%。全国货物贸易出口23.2万亿元，同比增长16.4%。 点评： 新能源 出口增长延伸至发电、输电和储能设备，但各环节增速已有差异。对车企、电池及 风电设备 企业而言，海外业务扩张还需匹配渠道、交付和售",
+     "source": "东方财富股票",
+     "zh": "前三季度电动汽车出口增72.3%；龙源电力启动600万千瓦组件框采｜新能源早参"
+    },
+    {
+     "title": "全球智能手机出货量第三季度同比降20%，创14年来同期新低；苹果iPhone Duo完成大模型备案｜数智早参",
+     "link": "http://finance.eastmoney.com/news/1354,202610153895909997.html",
+     "pubDate": "Thu, 15 Oct 2026 07:01:02 +0800",
+     "summary": "丨2026年10月15日星期四丨 NO. 1 SK海力士 ：2030年AI基础设施性能规模料增长约20倍 近日， SK海力士 高管最新预测称，到2030年 人工智能 基础设施的性能规模将增长约20倍。 SK海力士 近期接连发布两项新技术：其一是MARS系统——一款以内存为中心的AI（ 人工智能 ）机架级系统，以及HBF高带宽闪存技术。 点评： 该预测本质是存储巨头对算力需求持续陡峭的背书，也暗示内存与存储将成为下一阶段的核心瓶颈。不过，机架级系统涉及生态协同与标准主导，存储原厂能否说服GPU（图形处理器）与云厂商跟随仍是未知数；HBF的耐久性、延迟与软件栈适配也待验证。 NO.2 苹果 iPh",
+     "source": "东方财富股票",
+     "zh": "全球智能手机出货量第三季度同比降20%，创14年来同期新低；苹果iPhone Duo完成大模型备案｜数智早参"
+    },
+    {
+     "title": "三则海外“小作文”砸出科技“黄金坑”？机构共识：实质影响有限，科技产业趋势未逆转",
+     "link": "http://stock.eastmoney.com/news/1405,202610143895842495.html",
+     "pubDate": "Thu, 15 Oct 2026 06:55:16 +0800",
+     "summary": "9月底以来，科技股再次带动市场指数下行，沪指在3800点附近反复，科创50指数、创业板指连跌4周。进攻端，前期锋利的“矛”偃旗息鼓，同时，红利资产创新高，意味着避险情绪升温。 没有人能够预测市场行情会持续多久，下一轮反弹何时到来。十余家基金、券商机构分析指出，本轮调整并非由基本面预期恶化驱动，更多体现为前期交易拥挤、资金获利了结以及外部多项传闻扰动下的阶段性风险释放。 海外不确定则更多体现在“小作文”上。一是2026年10月，美国国际贸易委员会发起337调查，把三家国内头部制造企业纳入核查范围；二是美国 印刷 电路板协会（ PCB AA）呼吁美国国防部严格执行2027年1月1日的法规要求，核心",
+     "source": "东方财富资讯",
+     "zh": "三则海外“小作文”砸出科技“黄金坑”？机构共识：实质影响有限，科技产业趋势未逆转"
+    },
+    {
+     "title": "美CPI全面升温响“通胀螺旋”警报，10月加息概率一度五成，“新美联储通讯社”：盯紧沃什本周讲话",
+     "link": "https://wallstreetcn.com/articles/3783651",
+     "pubDate": "Thu, 15 Oct 2026 06:52:39 +0800",
+     "summary": "美国9月CPI全面超预期，涨价压力从能源向核心商品和服务扩散，令市场短线加码押注美联储10月加息。通胀能否持续降温、是否需要更快收紧货币政策，成为投资者接下来关注的焦点。 美东时间14日周三公布的数据显示，美国9月CPI环比上涨0.6%，同比涨3.7%，均高于经济学家预期；剔除食品和能源的核心CPI环比涨0.3%，同比涨2.6%、也超出预期。报告公布后，市场对美联储10月加息的押注一度升至约50%，美债收益率上行，美股承压。随着交易时段推进，加息概率随后回落至约40%，显示投资者仍在权衡通胀风险与美联储是否会对单月数据作出反应。 CPI后，市场预计10月加息概率曾升至50%、12月加息概率一度",
+     "source": "华尔街见闻",
+     "zh": "美CPI全面升温响“通胀螺旋”警报，10月加息概率一度五成，“新美联储通讯社”：盯紧沃什本周讲话"
+    },
+    {
+     "title": "【环球财经】俄总统代表：未来几天将签署首批对美柴油供应合同",
+     "link": "http://www.eeo.com.cn/2026/1015/1064649.shtml",
+     "pubDate": "Thu, 15 Oct 2026 06:52:17 +0800",
+     "summary": "新华财经莫斯科10月15日电（记者侯鸣）俄罗斯总统特别代表基里尔·德米特里耶夫14日说，预计未来几天俄美双方将签署首批对美国供应柴油的合同。 据塔斯社报道，德米特里耶夫当天出席“俄罗斯能源周”论坛相关...",
+     "source": "经济观察网",
+     "zh": "【环球财经】俄总统代表：未来几天将签署首批对美柴油供应合同"
+    },
+    {
+     "title": "【环球财经】国际能源署：全球柴油供应紧张将持续至2027年",
+     "link": "http://www.eeo.com.cn/2026/1015/1064648.shtml",
+     "pubDate": "Thu, 15 Oct 2026 06:52:11 +0800",
+     "summary": "新华财经巴黎10月15日电（记者崔可欣）国际能源署14日发布月度石油市场报告说，受中东和俄罗斯柴油出口持续受阻等因素影响，全球柴油市场供应紧张局面加剧，库存持续下降，柴油供应紧张态势预计将持续至2027年。 报告说，今年第三季度全球柴油市场出现供应紧张，冬季需求高峰到来前的库存缓冲明显不足。今年前9个月，受炼油厂产量下降影响，全球柴油出口量为日均470万桶，同比下降10%。柴油市场供需形势能否改善，...",
+     "source": "经济观察网",
+     "zh": "【环球财经】国际能源署：全球柴油供应紧张将持续至2027年"
+    },
+    {
+     "title": "中期协：9月全国期货市场成交额同比增长18.21%",
+     "link": "http://www.eeo.com.cn/2026/1015/1064647.shtml",
+     "pubDate": "Thu, 15 Oct 2026 06:52:06 +0800",
+     "summary": "新华财经上海10月15日电 中国期货业协会14日发布数据显示，以单边计算，9月全国期货市场成交量为11.9亿手，成交额为84.52万亿元，同比分别增长53.9%和18.21%。1-9月全国期货市场累计成交量为83.84亿手，累计成交额为738.54万亿元，同比分别增长24.2%和34.86%。 其中，按照成交额统计，9月排名各商品期货交易所前三的品种分别为上期所的黄金期货、原油期货、白银期货，郑商所的甲醇期货、PTA期货、纯碱期货，大商所的乙二...",
+     "source": "经济观察网",
+     "zh": "中期协：9月全国期货市场成交额同比增长18.21%"
+    },
+    {
+     "title": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO",
+     "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
+     "pubDate": "Wed, 14 Oct 2026 22:47:45 GMT",
+     "summary": "AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its expected public listing",
+     "source": "Financial Times",
+     "zh": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO"
+    },
+    {
      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
      "pubDate": "Wed, 14 Oct 2026 22:45:00 GMT",
@@ -2282,60 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?"
     },
     {
-     "title": "【环球财经】美联储“褐皮书”显示高油价对经济产生广泛影响",
-     "link": "http://finance.eastmoney.com/news/1356,202610153895903635.html",
-     "pubDate": "Thu, 15 Oct 2026 06:43:52 +0800",
-     "summary": "新华财经纽约10月14日电（记者刘亚南）美国联邦储备委员会14日发布的全国经济形势调查报告显示，从8月25日到10月5日的最近一个报告期内，高油价让美国面临广泛物价上涨压力，经济增长依赖制造业推动，就业市场整体保持稳定。 根据美国“联邦储备法”，美国全国划分为12个联邦储备区，每区设立一家联邦储备 银行 。该报告根据12家联邦储备 银行 的最新调查结果编制而成，也称“褐皮书”。 报告说，3个联邦储备区表示整体物价强劲上涨，8个联邦储备区表示物价温和上涨，1个联邦储备区物价涨幅较小。此外，有4个联邦储备区报告，物价涨幅自前一报告期以来已经加大。油价上涨影响到所有联邦储备区。企业表示柴油价格处于高",
-     "source": "东方财富股票",
-     "zh": "【环球财经】美联储“褐皮书”显示高油价对经济产生广泛影响"
-    },
-    {
-     "title": "市场消息：特朗普政府拟最终驱逐众议员奥马尔",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895903158.html",
-     "pubDate": "Thu, 15 Oct 2026 06:40:29 +0800",
-     "summary": "市场消息：特朗普政府拟最终驱逐众议员奥马尔。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "市场消息：特朗普政府拟最终驱逐众议员奥马尔"
-    },
-    {
-     "title": "福克斯民调：三分之二的选民对美国当前的发展状况不满",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895903035.html",
-     "pubDate": "Thu, 15 Oct 2026 06:40:29 +0800",
-     "summary": "福克斯新闻最新民调显示，在美国选举日临近之际，选民对经济状况和总统的表现持负面看法，此时执政党往往会处于不利地位。六成选民表示，生活成本是他们最担忧的经济问题，其受关注程度远超政府支出（15%）、就业与收入不平等（各占7%）、关税（6%）及税收（5%）等议题。绝大多数选民对经济持负面评价（74%），并预计明年经济状况将恶化（53%）；同时，三分之二的选民对国家当前的发展状况感到不满（66%）。仅有18%的选民表示其家庭状况较两年前有所改善。相比之下，独立选民中多数人认为自己的境况变差了（52%），并预计经济形势将进一步恶化（70%）。特朗普在通胀问题上的支持率最低，仅为22%，创下新低。另外，",
-     "source": "东方财富股票",
-     "zh": "福克斯民调：三分之二的选民对美国当前的发展状况不满"
-    },
-    {
-     "title": "美股收盘：三大指数齐跌，纳指跳水超510点跌1.88%；半导体、光通信、存储芯片板块集体重挫；科技股普跌，苹果市值创新高；医药股逆市大涨",
-     "link": "http://finance.eastmoney.com/news/1354,202610153895903528.html",
-     "pubDate": "Thu, 15 Oct 2026 06:40:17 +0800",
-     "summary": "美东时间周三（14日），受通胀数据恶化影响，美国三大股指集体收跌。截至收盘，纳指跌1.88%，跌超510点，创7月23日以来最大单日跌幅；道指跌0.09%，标普500指数跌1.11%。 大型科技股普跌，META、 英伟达 跌超3%， 特斯拉 跌超2%， 微软 、谷歌跌超1%； 苹果 涨0.5%，市值首次收于5万亿美元以上。 费城 半导体 指数大跌4.3%，连续第六个交易日下跌，创下自2025年5月以来最长连跌。 半导体 集体下跌，ARM跌超6%，AMD跌超5%， 英特尔 跌超4%， 博通 、 阿斯麦 、 应用材料 跌超3%， 高通 跌超2%。 光 通信 遭重挫， 应用光电 跌近12%，Lume",
-     "source": "东方财富股票",
-     "zh": "美股收盘：三大指数齐跌，纳指跳水超510点跌1.88%；半导体、光通信、存储芯片板块集体重挫；科技股普跌，苹果市值创新高；医药股逆市大涨"
-    },
-    {
      "title": "全球经济增长动力更不均衡",
      "link": "http://www.eeo.com.cn/2026/1015/1064646.shtml",
      "pubDate": "Thu, 15 Oct 2026 06:39:10 +0800",
      "summary": "10月12日，人们在泰国曼谷参加IMF与世界银行集团2026年秋季年会。（新华社发） 日前，国际货币基金组织（IMF）在泰国曼谷发布最...",
      "source": "经济观察网",
      "zh": "全球经济增长动力更不均衡"
-    },
-    {
-     "title": "美军称摧毁一艘与伊朗有关联的帆船 现场浓烟滚滚",
-     "link": "http://global.eastmoney.com/news/11798,202610153895903485.html",
-     "pubDate": "Thu, 15 Oct 2026 06:36:49 +0800",
-     "summary": "中新网10月15日电当地时间14日，美军中央司令部在社交媒体发布消息说，美军6日在阿曼湾摧毁了一艘与伊朗有关联的帆船。 图片来源：美军中央司令部在社交媒体上发布的视频截图 消息称，该船当时正在对美海军舰艇进行监视并定位目标。在该船被摧毁前，船上人员已被安全转移。目前，遣返工作正在进行中。 美军中央司令部发布的视频显示，一艘船被击中后燃起大火，并冒出大量浓烟。 美军中央司令部10月10日在社交媒体上称，美军于7月14日恢复针对所有进出伊朗 港口 船只的封锁行动。3个月内，美军已使4艘商船丧失航行能力，135艘船只被勒令折返。此外，美军还摧毁了10艘与伊朗伊斯兰革命卫队有关联的油轮。 （文章来源：",
-     "source": "东方财富股票",
-     "zh": "美军称摧毁一艘与伊朗有关联的帆船 现场浓烟滚滚"
-    },
-    {
-     "title": "三季报预告密集披露 基金锚定业绩确定性",
-     "link": "http://finance.eastmoney.com/news/1354,202610153895864013.html",
-     "pubDate": "Thu, 15 Oct 2026 06:35:01 +0800",
-     "summary": "随着上市公司三季报预告披露启动，越来越多的公募机构将目光投向业绩确定性标的。据统计，近一月公募机构合计调研约1700次，多只业绩预计增长的标的被扎堆调研。业内人士认为，近期市场波动加大，但随着季报披露期的到来，真正兑现业绩的行业或率先表现。 Choice数据显示，近一个月（9月14日—10月14日），公募机构累计调研287家上市公司，调研总频次达到1686次，其中获公募调研20次及以上的上市公司有19家。同时，调研次数在20次及以上的公募机构有25家，头部基金公司调研最为积极，富国基金、国泰基金、华夏基金等调研次数排名居前。 “国庆节后市场分歧加大，政策催化与业绩兑现将决定行情修复的‘成色’。",
-     "source": "东方财富股票",
-     "zh": "三季报预告密集披露 基金锚定业绩确定性"
     },
     {
      "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
@@ -2440,78 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "美股最长平静期落幕，科技巨头领跌，市场同时承压于通胀与信用风险。 标普500指数周三下跌1.1%，终结了自2020年1月以来持续53个交易日无单日跌幅超1%的最长平静纪录。此次下跌由两大因素共同驱动： 美国9月CPI涨幅超预期 ，以及市场对AI交易可持续性的疑虑持续升温。 科技板块首当其冲。纳斯达克100指数单日重挫2%，创7月以来最大单日跌幅；追踪\"科技七巨头\"的Magnificent Seven指数跌幅相近。半导体股指连跌第六日，累计跌幅扩大至近12%。 与此同时，AI云计算服务商 CoreWeave的公司债遭遇抛售 ，其2032年到期无担保债券成交价跌至面值80美分以下——通常被视为借款",
      "source": "华尔街见闻",
      "zh": "标普500终结逾六年来最长平静期，53个交易日来首次跌超1%，AI交易退潮"
-    },
-    {
-     "title": "Anthropic revenue jumps to $16.8bn in third quarter",
-     "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
-     "pubDate": "Wed, 14 Oct 2026 22:06:31 GMT",
-     "summary": "AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its anticipated public listing",
-     "source": "Financial Times",
-     "zh": "Anthropic revenue jumps to $16.8bn in third quarter"
-    },
-    {
-     "title": "U.S. crude stockpiles fell 11.1M barrels last week, API says",
-     "link": "https://seekingalpha.com/news/4653214-u-s-crude-stockpiles-fell-11_1m-barrels-last-week-api-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 18:05:10 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "U.S. crude stockpiles fell 11.1M barrels last week, API says"
-    },
-    {
-     "title": "10月15日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/1344,202610143895783856.html",
-     "pubDate": "Thu, 15 Oct 2026 06:03:32 +0800",
-     "summary": "10月15日(星期四)，今日报刊头条主要内容精华如下： 上海证券报 18.8%！前三季度我国外贸增势强劲韧性彰显 海关总署10月14日发布数据显示，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中：出口23.2万亿元，同比增长16.4%；进口16.74万亿元，同比增长22.3%。外贸有效应对各种外部冲击挑战，保持了良好发展势头。 央行发布前三季度金融统计数据 社融增量超27万亿元 直接融资占比上升 中国人民 银行 10月14日发布的前三季度金融统计数据显示，9月末，广义货币（M2）余额、社会融资规模存量、人民币贷款余额分别同比增长7.2%、7.1%和4.8%，增速较上",
-     "source": "东方财富资讯",
-     "zh": "10月15日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "黄仁勋：对开发不安全AI软件的客户断供芯片，AI基础设施短缺将持续数年",
-     "link": "https://wallstreetcn.com/articles/3783650",
-     "pubDate": "Thu, 15 Oct 2026 06:03:24 +0800",
-     "summary": "英伟达首席执行官黄仁勋表示，若有客户开发不安全的AI软件，他将停止向其供应芯片，但同时强调，目前市场对AI安全风险的担忧程度超出实际情况，AI泡沫论同样言过其实。 黄仁勋是在伦敦接受彭博专访时作出上述表态的。他正在欧洲巡访，为公司即将在柏林举办的活动造势。他表示，在切断供应之前会先与相关客户沟通，并指出英伟达的技术属于通用技术，公司在评判他人使用方式时存在边界。 与此同时，英伟达宣布将在五年内向英国AI安全研究捐助2.5亿美元，以实际行动表明对该议题的承诺。 周三，英伟达与其他芯片股大跌，黄仁勋重申对AI基础设施需求的乐观判断，称供需失衡状态将持续数年。\"供需最终会趋于平衡，但绝不是今天。\"他",
-     "source": "华尔街见闻",
-     "zh": "黄仁勋：对开发不安全AI软件的客户断供芯片，AI基础设施短缺将持续数年"
-    },
-    {
-     "title": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
-     "link": "http://bond.eastmoney.com/news/1332,202610143895735585.html",
-     "pubDate": "Thu, 15 Oct 2026 06:01:52 +0800",
-     "summary": "今日央行宣布将于10月15日开展7000亿元买断式逆回购操作。由于10月有5000亿元6个月期买断式逆回购到期，这意味着10月6个月期买断式逆回购为加量续作，加量规模2000亿元，此前两个月均为等量续作。 业内人士表示，四季度将加发5500亿元地方政府债券的背景下，未来一段时间政府债券融资规模会显著上升，叠加8000亿元新型政策性金融工具持续投放，都需要央行在流动性方面给予支持。 10月买断式逆回购续作加量资金面宽松平稳 今日央行发布消息，为保持 银行 体系流动性充裕，2026年10月15日，中国人民 银行 将以固定数量、利率招标、多重价位中标方式开展7000亿元买断式逆回购操作，期限为6个月",
-     "source": "东方财富资讯",
-     "zh": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持"
-    },
-    {
-     "title": "东方财富财经早餐 10月15日周四",
-     "link": "http://finance.eastmoney.com/news/1344,202610143895781985.html",
-     "pubDate": "Thu, 15 Oct 2026 06:01:42 +0800",
-     "summary": "每日精选 央行数据 ： 据央行数据，9月末，广义货币（M2）余额359.63万亿元，同比增长7.2%。狭义货币（M1）余额116.76万亿元，同比增长3.2%。流通中货币（M0）余额15.02万亿元，同比增长10.6%。前三季度净投放现金9221亿元。 2026年前三季度社会融资规模增量累计为27.46万亿元，比上年同期少2.63万亿元 。前三季度人民币贷款增加11.52万亿元。 美国CPI高于预期 ： 美国9月消费者价格指数（CPI）同比增长3.7%，预估为3.6%，前值为3.4%。9月CPI环比增长0.6%，预估0.6%。美国9月核心CPI同比增长2.6%，预估为2.5%，前值为2.4%。",
-     "source": "东方财富资讯",
-     "zh": "东方财富财经早餐 10月15日周四"
-    },
-    {
-     "title": "Fiera Capital sees Q3 AUM fall 7.4% Q/Q, 9.3% Y/Y",
-     "link": "https://seekingalpha.com/news/4653216-fiera-capital-sees-q3-aum-fall-7_4-percent-q-q-9_3-percent-y-y?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 18:00:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Fiera Capital sees Q3 AUM fall 7.4% Q/Q, 9.3% Y/Y"
-    },
-    {
-     "title": "Here are the major earnings before the open Thursday",
-     "link": "https://seekingalpha.com/news/4652645-here-are-the-major-earnings-before-the-open-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 18:00:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Here are the major earnings before the open Thursday"
-    },
-    {
-     "title": "Lockheed Martin plans 6K U.S. jobs in $300M Texas expansion",
-     "link": "https://seekingalpha.com/news/4653212-lockheed-martin-plans-6k-us-jobs-in-300m-texas-expansion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:56:28 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lockheed Martin plans 6K U.S. jobs in $300M Texas expansion"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/14 15:35:16",
+ "generated_at": "2026/10/14 15:51:54",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,38 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+     "link": "https://www.qbitai.com/2026/10/503231.html",
+     "pubDate": "Wed, 14 Oct 2026 07:12:02 +0000",
+     "summary": "汽车竞争正在回归汽车本身",
+     "source": "量子位",
+     "zh": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了"
+    },
+    {
+     "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+     "link": "https://www.qbitai.com/2026/10/503211.html",
+     "pubDate": "Wed, 14 Oct 2026 07:03:44 +0000",
+     "summary": "从创意到成本，AI正在重写综艺的生产逻辑",
+     "source": "量子位",
+     "zh": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了"
+    },
+    {
+     "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+     "link": "https://www.qbitai.com/2026/10/503201.html",
+     "pubDate": "Wed, 14 Oct 2026 06:45:38 +0000",
+     "summary": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
+     "source": "量子位",
+     "zh": "STEPX首款大模型原生智能体手机STEPX Neo正式发布"
+    },
+    {
+     "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+     "link": "https://www.qbitai.com/2026/10/503198.html",
+     "pubDate": "Wed, 14 Oct 2026 06:24:00 +0000",
+     "summary": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
+     "source": "量子位",
+     "zh": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片"
+    },
     {
      "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
      "link": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
@@ -32,22 +64,6 @@ window.INDUSTRY_DATA = {
      "summary": "从“懂空间”到“能干活”",
      "source": "量子位",
      "zh": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地"
-    },
-    {
-     "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-     "link": "https://www.qbitai.com/2026/10/503165.html",
-     "pubDate": "Wed, 14 Oct 2026 03:32:48 +0000",
-     "summary": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
-     "source": "量子位",
-     "zh": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent"
-    },
-    {
-     "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
-     "link": "https://www.qbitai.com/2026/10/503157.html",
-     "pubDate": "Wed, 14 Oct 2026 02:14:50 +0000",
-     "summary": "一次采集，反复使用",
-     "source": "量子位",
-     "zh": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！"
     },
     {
      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -128,14 +144,6 @@ window.INDUSTRY_DATA = {
      "summary": "In this comprehensive coding tutorial, we explore Meta's Rebalancer assignment solver using its C++ core and Python bindings. Learn how to build datacenters, manage task placements across racks, handle constraints and goal priorities, and compare local search against the exact HiGHS solver using pub",
      "source": "MarkTechPost",
      "zh": "How to Use Meta’s Rebalancer for Task Placement & Optimization"
-    },
-    {
-     "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
-     "link": "https://www.qbitai.com/2026/10/503109.html",
-     "pubDate": "Tue, 13 Oct 2026 20:55:15 +0000",
-     "summary": "面壁开源MiniCPM-V 4.7",
-     "source": "量子位",
-     "zh": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存"
     },
     {
      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
@@ -234,14 +242,6 @@ window.INDUSTRY_DATA = {
      "zh": "5 AutoHotkey Scripts for Data Scientists"
     },
     {
-     "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-     "link": "https://www.qbitai.com/2026/10/503107.html",
-     "pubDate": "Tue, 13 Oct 2026 11:05:39 +0000",
-     "summary": "让VLA从“演示可用”逼近“产线可用”",
-     "source": "量子位",
-     "zh": "魔法原子具身Agent框架拿下MolmoSpaces全球第一"
-    },
-    {
      "title": "Open models have real benefits. Do they outweigh the risks?",
      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
      "pubDate": "Tue, 13 Oct 2026 10:00:00 +0000",
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "Spain’s Indra Bets on Qilimanjaro Quantum for Sovereign Deep Tech",
+     "link": "https://www.eetimes.com/spain-indra-bets-on-qilimanjaro-quantum-for-sovereign-deep-tech/",
+     "pubDate": "Wed, 14 Oct 2026 07:35:15 +0000",
+     "summary": "In a bid to secure domestic deep-tech infrastructure, Qilimanjaro closed €19.6 million (~$21.3 million) funding led by Indra Group. The post Spain’s Indra Bets on Qilimanjaro Quantum for Sovereign Deep Tech appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Spain’s Indra Bets on Qilimanjaro Quantum for Sovereign Deep Tech"
+    },
     {
      "title": "How To Define CPU And Software Stack Performance For Agentic AI",
      "link": "https://semiengineering.com/how-to-define-cpu-and-software-stack-performance-for-agentic-ai/",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Low-volume production sits between research and mass manufacturing. Europe needs an industrial model to fill the gap. The post Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle"
-    },
-    {
-     "title": "CTO Interview with Dr. Zakir Syed of ClockEdge",
-     "link": "https://semiwiki.com/eda/clockedge/374633-cto-interview-with-dr-zakir-syed-of-clockedge/",
-     "pubDate": "Mon, 12 Oct 2026 19:00:28 +0000",
-     "summary": "Dr. Zakir Syed is Co-founder and Chief Technology Officer of ClockEdge, where he has played a central role in developing specialized simulation technology for advanced semiconductor clock networks. He brings more than 30 years of experience in electronic design automation and semiconductor verificat",
-     "source": "SemiWiki",
-     "zh": "CTO Interview with Dr. Zakir Syed of ClockEdge"
     }
    ]
   },
@@ -1346,20 +1346,20 @@ window.INDUSTRY_DATA = {
      "zh": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer"
     },
     {
-     "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
-     "link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
-     "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
-     "summary": "The sophomore season of \"Star Trek: Starfleet Academy\" will warp back to the small screen in March 2027 when the limited series returns for its final season on Paramount+.",
-     "source": "Space.com",
-     "zh": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier"
-    },
-    {
      "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
      "link": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
      "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
      "summary": "This iconic spaceship will now live long and prosper in its brand-new Star Trek Tour home.",
      "source": "Space.com",
      "zh": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York"
+    },
+    {
+     "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
+     "link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
+     "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
+     "summary": "The sophomore season of \"Star Trek: Starfleet Academy\" will warp back to the small screen in March 2027 when the limited series returns for its final season on Paramount+.",
+     "source": "Space.com",
+     "zh": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier"
     },
     {
      "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
@@ -1554,6 +1554,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise",
+     "link": "https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/",
+     "pubDate": "Wed, 14 Oct 2026 07:38:51 +0000",
+     "summary": "Mozilla has introduced Firefox Enterprise for organizations with strict compliance, governance, and security requirements. The post Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise"
+    },
+    {
+     "title": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products",
+     "link": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
+     "pubDate": "Wed, 14 Oct 2026 07:26:35 +0000",
+     "summary": "Critical-severity flaws could lead to authentication bypass, code execution, and sensitive authentication information leaks. The post Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products"
+    },
+    {
      "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
      "link": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
      "pubDate": "Wed, 14 Oct 2026 07:16:12 +0000",
@@ -1722,22 +1738,6 @@ window.INDUSTRY_DATA = {
      "zh": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far"
     },
     {
-     "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
-     "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
-     "pubDate": "Tue, 13 Oct 2026 17:14:42 +0000",
-     "summary": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 176 Vulnerabilities Across 11 Products appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Adobe Patches 176 Vulnerabilities Across 11 Products"
-    },
-    {
-     "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
-     "link": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
-     "pubDate": "Tue, 13 Oct 2026 17:00:00 +0000",
-     "summary": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. The post Google Partially Reverses Chrome Bug Bounty Cuts appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Google Partially Reverses Chrome Bug Bounty Cuts"
-    },
-    {
      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
      "pubDate": "Mon, 12 Oct 2026 21:42:42 GMT",
@@ -1778,84 +1778,100 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "AMD CEO 苏姿丰：今年是真正的“AI 推理之年”",
-     "link": "https://www.ithome.com/1/012/915.htm",
-     "pubDate": "Wed, 14 Oct 2026 07:31:58 GMT",
-     "summary": "IT之家 10 月 14 日消息，当地时间 10 月 12 日，AMD CEO 苏姿丰在 2026 年开放计算项目全球峰会发表主题演讲，表态看好 CPU 市场的未来增长前景。 苏姿丰预计，2030 年数据中心 AI 加速器市场规模将接近 1.5 万亿美元 （IT之家注：现汇率约合 10.06 万亿元人民币） ，CPU 业务的增长空间可能更大。就在一年前，整体 CPU 市场规模还只有约 200 亿美元 （现汇率约合 1,341.01 亿元人民币） ，业界预计年增长率仅为个位数。 随着智能体 AI 兴起，苏姿丰认为 CPU 需求将迎来新一轮增长。“过去 9 个月，我们三次上调了 CPU 市场规模预",
+     "title": "前英特尔 CEO 基辛格称 HBM 是“糟糕的内存”",
+     "link": "https://www.ithome.com/1/012/922.htm",
+     "pubDate": "Wed, 14 Oct 2026 07:47:09 GMT",
+     "summary": "IT之家 10 月 14 日消息，科技媒体 Wccftech 昨日（10 月 13 日）发布博文，报道称前英特尔首席执行官帕特 · 基辛格（Pat Gelsinger）再次批评高带宽内存（HBM）存在位密度低、散热与“海岸线带宽”受限等问题， 称其为“糟糕的内存”。 IT之家注：海岸线带宽（Shoreline Bandwidth）是指计算芯片边缘可用于连接 HBM 的物理周长资源。由于 HBM 接口需要占用芯片边缘大量面积，可布置的内存堆叠数量受到限制，从而形成带宽扩展瓶颈。 基辛格在接受 a16Z 的专访时，批评高带宽内存 (HBM) 解决方案： HBM 内存简直糟糕透了。 这只是我们目前能",
      "source": "IT之家",
-     "zh": "AMD CEO 苏姿丰：今年是真正的“AI 推理之年”"
+     "zh": "前英特尔 CEO 基辛格称 HBM 是“糟糕的内存”"
     },
     {
-     "title": "小鹏汽车开始向全球开放技术合作，涵盖整车平台、模块化技术与全套工具链等",
-     "link": "https://www.ithome.com/1/012/911.htm",
-     "pubDate": "Wed, 14 Oct 2026 07:28:36 GMT",
-     "summary": "IT之家 10 月 14 日消息，据第一财经报道，2026 巴黎车展期间，小鹏集团董事长何小鹏宣布， 公司将面向全球开放智能汽车技术合作 ，涵盖整车平台、模块化技术与全套工具链三大核心板块。 其中整车平台包含整车平台架构、电子电气架构；模块化技术覆盖智驾、AI BOX、芯片、电池、电驱；配套工具链包含远程 XCP 标定、整车 EOL、AI 诊断等。 除智能汽车板块之外， 小鹏还将同步开放物理 AI 生态全域解决方案业务 ，包括人形机器人、Robotaxi、飞行汽车、图灵 AI 芯片、物理世界基座模型等板块，提供全域商业化解决方案。 何小鹏表示：“小鹏的 Robotaxi 业务正在与欧洲多家头部",
+     "title": "《地铁 2039》开放预购：Steam 国区 298 元起，2027 年 2 月 4 日发售",
+     "link": "https://www.ithome.com/1/012/921.htm",
+     "pubDate": "Wed, 14 Oct 2026 07:45:57 GMT",
+     "summary": "IT之家 10 月 14 日消息，《地铁》系列最新正统续作《地铁 2039》于当地时间 10 月 13 日在 Steam 等平台正式开启预购，Steam 国区普通版定价 298 元，豪华版定价 427 元（首发九折 384.3 元）。 这款游戏将于 2027 年 2 月 4 日登陆 PlayStation 5、Xbox Series X|S 以及 PC 平台，亚洲、澳大利亚和新西兰等部分地区则将于 2 月 5 日发售，支持简体中文界面与字幕。 本作由乌克兰工作室 4A Games 开发，Deep Silver 发行，是《地铁》系列第四部主线作品，最早于 2026 年 4 月在 Xbox Fir",
      "source": "IT之家",
-     "zh": "小鹏汽车开始向全球开放技术合作，涵盖整车平台、模块化技术与全套工具链等"
+     "zh": "《地铁 2039》开放预购：Steam 国区 298 元起，2027 年 2 月 4 日发售"
     },
     {
-     "title": "799 元：富士 instax SQUARE 2 拍立得相机发布，新增滤镜、3 档对焦模式",
-     "link": "https://www.ithome.com/1/012/910.htm",
-     "pubDate": "Wed, 14 Oct 2026 07:27:16 GMT",
-     "summary": "IT之家 10 月 14 日消息，富士 instax SQUARE 2 拍立得相机现已发布。新品提供板岩蓝、陶砖红、云石白三种配色，采用方形相纸，提供色调滤镜、3 档对焦模式等新功能， 售价 799 元 。 据介绍，这款相机提供色调滤镜功能，只需要拨动镜头前方的拨杆，就能选择冷调、暖调色调，为照片添加氛围。该机拥有 3 种对焦模式：自拍 / 微距（0.3m-0.5m）、标准（0.5m-3.0m）和远景（3.0m-无限远），适配不同拍摄场合。 IT之家注意到，这款相机支持自动曝光技术，可自动调节快门速度和闪光灯输出强度。外观是较为圆润的形态，贴合手型。使用 4 节 5 号碱性电池供电，自带手绳等",
+     "title": "北汽星钽 5X 将于 10 月 21 日开启预售：方盒子造型，搭载华为乾崑智驾",
+     "link": "https://www.ithome.com/1/012/920.htm",
+     "pubDate": "Wed, 14 Oct 2026 07:45:17 GMT",
+     "summary": "IT之家 10 月 14 日消息，据易车消息，北汽星钽 5X 将于 10 月 21 日开启预售。 据IT之家此前报道， 星钽 5X 已官宣搭载华为乾崑智驾 。车身尺寸方面，新车长宽高为 4865（5005）/ 2000 / 1910mm， 轴距为 2875mm 。 内饰方面，新车采用最新设计语言，中控台搭载 15.6 寸双联屏，并配备大尺寸液晶仪表。此外，新车还搭载三辐式多功能方向盘，中央岛台区域配备了手机无线充电以及双杯架。 动力方面，北汽星钽 5X 提供燃油、插混、纯电三种动力供选择。 插混车型搭载 1.5T 发动机与电机组成的插混系统，配备 50.4kWh 电池组，WLTC 纯电续航 2",
      "source": "IT之家",
-     "zh": "799 元：富士 instax SQUARE 2 拍立得相机发布，新增滤镜、3 档对焦模式"
+     "zh": "北汽星钽 5X 将于 10 月 21 日开启预售：方盒子造型，搭载华为乾崑智驾"
     },
     {
-     "title": "买一得二：京东 PLUS + 芒果 TV 联合会员年卡 108 元限时发车",
-     "link": "https://www.ithome.com/1/012/909.htm",
-     "pubDate": "Wed, 14 Oct 2026 07:26:05 GMT",
-     "summary": "京东 PLUS + 芒果 TV 联合会员年卡日常活动价 248 元。 15 日 0 点 开启大促，叠加 10 元平台补贴券，到手价 108 元： 10 元补贴券： 点此查看 。 京东 京东 PLUS + 芒果 TV 双会员 年卡 108 元 直达链接 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 芒果 TV 会员年卡官方售价 248 元 / 年。 京东 PLUS 会员年卡官方售价 299 元 / 年。 本次活动仅限 10 月 15 日 ~21 日。 充值请填写手机号，不支持第三方账号（如 QQ / 微信 / 微博）直接充值；芒果 TV 会员适用手机、iPa",
-     "source": "IT之家",
-     "zh": "买一得二：京东 PLUS + 芒果 TV 联合会员年卡 108 元限时发车"
-    },
-    {
-     "title": "Visa终于拿到了中国门票，但你已经不需要它了",
-     "link": "https://www.huxiu.com/article/4897424.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 15:24:13 +0800",
-     "summary": "本文来自微信公众号： 来咖智库 ，作者：AA，编辑：G3007 10月13日，中国人民银行官网更新银行卡清算机构行政许可信息，准予威士信息技术（北京）有限公司筹备银行卡清算机构。这家公司由Visa全资控股，成立于2015年。如果后续通过开业审查，中国将迎来第四张银行卡清算机构牌照，也是第一张外商独资。 消息出来后，多数解读停在“金融开放再落一子”。 但有一个更直接的问题值得先问：这件事，跟你有关系吗？ 01 先做一个小实验。 回想一下你最近的一次扫码付款。便利店那瓶水，或者楼下那杯咖啡。 扫码，微信弹出付款成功，几秒后银行短信进来，尾号某某的账户支出8元。整个动作不到三秒。 现在回答一个问题：",
+     "title": "美股风向：从“七巨头”走向“493”？",
+     "link": "https://www.huxiu.com/article/4897439.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 15:44:34 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 随着美股科技股近期的高位震荡加剧，这一昔日华尔街最拥挤交易背后的裂痕，正变得越来越难以被市场忽视。 德意志银行在最新发布的报告中警告称，科技股的相对风险回报正变得愈发不对称，而存储芯片市场的暴跌正蔓延至纳指的仓位布局。在亚洲市场上，韩国股市更是亮起了严峻的警示灯——KOSPI指数已跌破关键技术位，市场波动率急剧飙升。 放眼更广泛的跨资产领域，其他潜在的隐患也正在浮出水面：纳斯达克的下行对冲成本目前依然相对低廉——这意味着人们对市场大跌缺乏防备。系统性策略持仓可能会放大债市的下一波震荡，而法国不断恶化的债务困局则给全球市场又添了一重宏观风险。 德银指出",
      "source": "虎嗅",
-     "zh": "Visa终于拿到了中国门票，但你已经不需要它了"
+     "zh": "美股风向：从“七巨头”走向“493”？"
     },
     {
-     "title": "AOC 推出 Mini LED 显示器 AGP277QKM：27\" QHD 425Hz，峰值亮度 1200nits",
-     "link": "https://www.ithome.com/1/012/908.htm",
-     "pubDate": "Wed, 14 Oct 2026 07:22:20 GMT",
-     "summary": "IT之家 10 月 14 日消息，AOC 昨日在其官网上线了电竞显示器爱攻 AGON 擎天 2K MiniLED AGP277QKM。 这一型号采用 27\" QHD 425Hz Fast IPS LCD 面板，结合 QD 量子点技术与 1,152 分区 Mini LED 背光， 获得 VESA DisplayHDR 1000 认证 。 AGP277QKM 拥有 450nits 的 SDR 亮度、700nits 的 HDR 亮度、1200nits 的 HDR 峰值亮度，静态对比度 1300:1；MPRT 响应时间 0.3ms、GtG 响应时间低至 0.5ms； 色域覆盖 100% sRGB / ",
+     "title": "PS5 游戏机黑商店“Overdrive”停止运营，索尼疑似发函",
+     "link": "https://www.ithome.com/1/012/919.htm",
+     "pubDate": "Wed, 14 Oct 2026 07:41:52 GMT",
+     "summary": "IT之家 10 月 14 日消息，近期，一款名为“Overdrive”的 PS5 破解游戏商店出现在互联网，该商店内置《战地风云 6》《极限竞速：地平线 5》等游戏，可供用户免费下载。 据 X 平台用户 Oliver Darko 今日透露， 这款黑商店已经无法使用 ，且 GitHub 项目页面已被 404。该人士声称，索尼互动娱乐已经向该商店的开发者发出停止侵权通知函。 从现实角度来说，为一款处于生命周期的主机打造破解游戏商店、提供未授权游戏副本，无疑是踩在刀尖上跳舞。哪怕索尼不管，各大游戏公司的知识产权团队也能将商店的开发者告上法庭。 IT之家注意到，一款名为 Relapse 的漏洞近期出现",
      "source": "IT之家",
-     "zh": "AOC 推出 Mini LED 显示器 AGP277QKM：27\" QHD 425Hz，峰值亮度 1200nits"
+     "zh": "PS5 游戏机黑商店“Overdrive”停止运营，索尼疑似发函"
     },
     {
-     "title": "阿里腾讯，投一位实习生",
-     "link": "https://www.huxiu.com/article/4897427.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 15:20:46 +0800",
-     "summary": "本文来自微信公众号： 投资界 ，作者：吴琼 阿里实习生，估值百亿。 报道/投资界PEdaily “你认识Unipat李宽吗？” 最近投资人圈里，另一位实习生的名字爆红。他几乎符合当下创投圈的天才少年画像：本科北航、硕士中国科学院计算技术研究所，2023年进入香港科技大学攻读博士学位。 去年8月，他以通义实验室DeepResearch项目组实习生身份亮相，开始引起关注——在阿里发布的开源智能体WebSailor中，李宽是项目负责人之一。 再次听到他的消息，是创办AI训练与基准测试公司Unipat。据彭博社报道，Unipat新一轮融资估值已达25亿美元（约合人民币160亿元），集结阿里、腾讯、红杉",
-     "source": "虎嗅",
-     "zh": "阿里腾讯，投一位实习生"
-    },
-    {
-     "title": "朗道燧岩 EUV 光源系统样机 2026 工博会首秀：国产化率达 90%，距量产仍需 3~5 年",
-     "link": "https://www.ithome.com/1/012/907.htm",
-     "pubDate": "Wed, 14 Oct 2026 07:16:45 GMT",
-     "summary": "IT之家 10 月 14 日消息，2026 年第二十六届中国国际工业博览会正在国家会展中心（上海）举行，创新科技馆内百余项上海科创成果集中亮相。 据解放日报，朗道燧岩首次在此次工博会上展示了一台极紫外（EUV）光源系统样机，这也是目前公开展示中国产进度最靠前的 EUV 光源样机，被称作高端光刻机的“心脏”。 据现场工作人员介绍，本次展出的光源系统国产化率达 90%，绝大多数核心零部件为自主研发，技术路线与国际领先厂商一致，可用于芯片曝光测试。 解放日报指出，极紫外光源是 7nm 及以下先进制程芯片制造的三大核心零部件之一，长期受海外技术垄断与禁运限制，是制约中国高端芯片自主可控的关键环节。 I",
+     "title": "抖音集团李亮：热点治理可能是平台治理中最复杂的事情之一，希望让流量更多流向事实和理性",
+     "link": "https://www.ithome.com/1/012/918.htm",
+     "pubDate": "Wed, 14 Oct 2026 07:40:55 GMT",
+     "summary": "IT之家 10 月 14 日消息，近年来，越来越多网友在抖音参与热点事件的讨论。抖音黑板报官方微博昨日发布公告，谈及了在热点事件治理上取得的成果。 抖音热点信息中煽动、虚假、蹭热等低质内容播放量占比持续下降。近一年来： 针对传播初期事实尚不清楚的热点事件， 平台主动联动地方有关部门、媒体等权威渠道 ； 核查谣言线索 959 条 ，下架并拦截新增谣言信息； 在对热点当事人采取权益保护与行为约束方面， 平台建联 90 个热点事件当事人确认账号真实性、打击仿冒蹭热账号 2000 余个 ； 同时，平台限制 32 名争议热点当事人“趁热变现”，暂停其营利权限。 IT之家注意到，抖音集团副总裁李亮今日发文",
      "source": "IT之家",
-     "zh": "朗道燧岩 EUV 光源系统样机 2026 工博会首秀：国产化率达 90%，距量产仍需 3~5 年"
+     "zh": "抖音集团李亮：热点治理可能是平台治理中最复杂的事情之一，希望让流量更多流向事实和理性"
     },
     {
-     "title": "第一批推“24小时退房制”的酒店，现在怎么样了？",
-     "link": "https://www.huxiu.com/article/4897422.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 15:14:42 +0800",
-     "summary": "本文来自微信公众号： 酒店圈儿 ，作者：Martin 晚上10点，飞机落地。拖着行李赶到酒店，办入住、拿房卡，折腾到快11点才进房间。洗完澡，箱子还没来得及收拾，看眼手机，已经快12点了。 第二天一觉睡醒，窗帘缝里透出的光已经是大亮。摸到手机一看，11点37分。 还有23分钟，退房，出门前这个澡是来不及洗了。 这间房付的是“一晚”的钱，能够使用的时间却可能只有十几个小时。前一天如果凌晨才到，实际住店时间还会更短。晚班飞机、夜间高铁、跨城出差，让不少人的入住时间落在晚上，可第二天中午，退房时间依然是12点。 2009年，中国旅游饭店行业规范删除了“12点以后退房加收半天、18点以后加收全天”的具",
+     "title": "怕什么来什么，出来混，总有壮烈的一天",
+     "link": "https://www.huxiu.com/article/4897438.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 15:39:40 +0800",
+     "summary": "本文来自微信公众号： 叶檀财经 ，作者：锡难老 别人的痛苦，无助于改善我们的处境，但起码让我们知道，痛苦是公平的。 10月13日，韩国股市紧随A股步伐开始新一轮调整。在三星和海力士的“带领”下，韩国股指再度熔断，跌幅一度达到8%。 从6月份以来，科技股的利好似乎价值不大，反倒是利空，有一个算一个，不鸣则已一鸣惊人。 本轮韩国股市调整，可以找到很多原因。 有人担心，长三金们跑得太快，存储设备将重新洗牌。日经中文网10月14日回顾了股市的数日大跌。 10月10日，长三金总裁表示，在DRAM器件等领域取得新突破，预计年底推出DDR5 RDIMM，用于主流服务器领域。 该技术被称为“4F2”，通过增加",
      "source": "虎嗅",
-     "zh": "第一批推“24小时退房制”的酒店，现在怎么样了？"
+     "zh": "怕什么来什么，出来混，总有壮烈的一天"
     },
     {
-     "title": "这款刚宣布失败的癌症疫苗，到底有多特别？",
-     "link": "https://www.huxiu.com/article/4897416.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 15:13:05 +0800",
-     "summary": "本文首发虎嗅旗下健康与抗衰公众号&ldquo; 九叶刀研究 &rdquo;，全文约1600字，即使没有免疫学和肿瘤学常识，也能读懂。封面图由AI生成。 拜恩泰科传来坏消息：一款mRNA癌症疫苗研发遭遇挫折。 10月13日，拜恩泰科 （BioNTech，或译百欧恩泰） 宣布，该公司一款代号为BNT113的癌症疫苗Ⅲ期临床试验未达到第一终点，即将推进第二终点的研究。 [1] 我们可以理解为，这款疫苗已经 （只是） 失败了一半。 与之形成鲜明对比的是：前不久莫德纳 （Moderna） 才宣布：mRNA癌症疫苗Ⅲ期临床试验获得成功。 [2] 要知道，在新冠大流行时代，拜恩泰科和莫德纳可是mRNA三剑客",
+     "title": "陶教授忧天",
+     "link": "https://www.huxiu.com/article/4897437.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 15:37:33 +0800",
+     "summary": "本文来自微信公众号： 投中网 ，作者：张楠 要支配AI，而不是被AI驯化。 本文字数2869 手搓量丨90%AI含量丨10% 成语“杞人忧天”都听过吧，讲的是古代有个杞国普通人，天天担心天上掉石头把自己砸死。这个成语拿来笑话人瞎操心，用了几千年。那如果忧天的不是杞人呢？ 9月11日，陶哲轩、邓煜等25位数学家联名发出一封公开信《人工智能在数学中的严重错位》；10月初，陶哲轩在个人博客转发人类数学协会的联合声明，呼吁全球数学家停止与OpenAI合作。 导火索是10月6日，OpenAI在GitHub上公开了722篇数学手稿，由一个尚未对外发布的内部前沿模型生成，按372个成果家族归类，涵盖数论、代",
      "source": "虎嗅",
-     "zh": "这款刚宣布失败的癌症疫苗，到底有多特别？"
+     "zh": "陶教授忧天"
+    },
+    {
+     "title": "“国产羽绒服之王”，慢下来了",
+     "link": "https://www.huxiu.com/article/4897434.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 15:35:15 +0800",
+     "summary": "本文来自微信公众号： 金角财经 ，作者：麦麦颖 “国产羽绒服之王”波司登，最新财报有点微妙。 截至2026年3月31日的2026财年，波司登集团营收同比增长5.6%至273.5亿元、归母净利润同比增长13.7%至39.9亿元。 单看这份成绩单，“国产羽绒服之王”依然能打。但把时间拉长，另一面就显现出来：2024财年、2025财年，集团营收增速分别为38.4%、11.6%。到了2026财年，增速进一步降至个位数。 集团毛利率也从2024财年的59.6%，降至2025财年的57.3%，再小幅降至2026财年的57.2%。利润继续增长，毛利率却没有同步向上。 |波司登集团2026财年报 这让波司登坚",
+     "source": "虎嗅",
+     "zh": "“国产羽绒服之王”，慢下来了"
+    },
+    {
+     "title": "小米澎湃 OS 4 应用商店新增悬浮底栏，胡馨心透露 REDMI K100 系列手机马上推首批正式版系统升级",
+     "link": "https://www.ithome.com/1/012/916.htm",
+     "pubDate": "Wed, 14 Oct 2026 07:33:14 GMT",
+     "summary": "IT之家 10 月 14 日消息，博主 @缪特mt 今日发文透露， 称小米澎湃 OS 4 系统的应用商店新增悬浮底栏设计 ，搜索框改为类系统样式。 小米 REDMI 产品经理胡馨心随后转发了该微博， 并透露 REDMI K100 系列手机马上推送首批澎湃 OS 4 正式版系统升级 。 需要注意的是，胡馨心此次表述的是“REDMI K100 系列手机”，而非“K100 Pro 系列手机”， 或暗示标准版和此前在发布会首曝的游戏旗舰即将亮相 ，补齐 K100 系列宇宙。 参考IT之家此前报道，今年 8 月 14 日，小米澎湃 OS 4 Beta 版启动内测。根据公告， 小米澎湃 OS 4 正式版将",
+     "source": "IT之家",
+     "zh": "小米澎湃 OS 4 应用商店新增悬浮底栏，胡馨心透露 REDMI K100 系列手机马上推首批正式版系统升级"
+    },
+    {
+     "title": "一年开20多家，机器人6S店，是门好生意吗？",
+     "link": "https://www.huxiu.com/article/4896629.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 15:32:26 +0800",
+     "summary": "4s店大家都熟悉，那一年开20多家的机器人6s店，你知道是什么吗？",
+     "source": "虎嗅",
+     "zh": "一年开20多家，机器人6S店，是门好生意吗？"
+    },
+    {
+     "title": "“速成车”，正在消耗海外市场对中国汽车的信任",
+     "link": "https://www.huxiu.com/article/4897276.html?f=rss",
+     "pubDate": "Wed, 14 Oct 2026 15:27:12 +0800",
+     "summary": "出品｜虎嗅汽车组 作者｜杨杰 题图｜视觉中国 10月初，两条消息几乎同时从中国汽车出海的不同方向传来。 一条来自安徽合肥：华为与江淮联合开发的尊界V800，在懂车帝的紧急制动测试中，三辆车、三次测试，刹车踏板支架全部断裂。 另一条来自马来西亚柔佛新山：一辆2023款奇瑞OMODA 5在正常行驶中后桥纵臂撕裂，整套后轴连同两个后轮脱离车身，停在路中间。 两条消息在海外社交平台上被反复并列转发。一位英文汽车媒体人在巴黎车展期间向虎嗅表示：&ldquo;Brake pedals and rear axles. Pick your poison。&rdquo;( 断刹车还是断后轴，挑一个死法吧 ) 两",
+     "source": "虎嗅",
+     "zh": "“速成车”，正在消耗海外市场对中国汽车的信任"
     },
     {
      "title": "金价受限，加盟分利：老庙黄金的“好运文化”失灵了？",
@@ -1933,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
      "link": "https://github.com/android/ndk/issues/2260",
      "pubDate": "Wed, 14 Oct 2026 06:18:01 +0000",
-     "summary": "Article URL: https://github.com/android/ndk/issues/2260 Comments URL: https://news.ycombinator.com/item?id=50083130 Points: 86 # Comments: 8",
+     "summary": "Article URL: https://github.com/android/ndk/issues/2260 Comments URL: https://news.ycombinator.com/item?id=50083130 Points: 120 # Comments: 23",
      "source": "Hacker News",
      "zh": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs"
     },
@@ -1944,22 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "提供硬件和软件钱包的 Ledger 公司证实由 CryptoBilis 经销的部分硬件钱包被植入间谍芯片，导致客户钱包里的加密货币被盗，它已经要求 CryptoBilis 停止销售硬件钱包。CryptoBilis 是一家总部位于马来西亚、业务遍及东南亚的大型硬件钱包零售商。CryptoBilis 经销的部分被篡改 Ledger X 钱包售价仅是原型号的一半，Tibane Labs 的安全研究人员对其进行的分析发现，原装电池被替换为体积更小的电池，以腾出空间安装恶意电路。该电池同时为间谍芯片和 Ledger X 供电。恶意电路是一颗基于 Arm Cortex-M4 架构、配备 128 KB 闪存",
      "source": "Solidot",
      "zh": "Ledger 证实其硬件钱包被植入间谍芯片"
-    },
-    {
-     "title": "账上躺着2000亿现金，腾讯、字节为啥还要借钱？",
-     "link": "https://www.huxiu.com/article/4897399.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 14:11:38 +0800",
-     "summary": "本文来自微信公众号： 坚白客 ，作者：濠梁 中国最有钱的互联网大厂，最近都开始伸手借钱了。 最近的是鹅厂。10月13日，据外媒报道，腾讯已正式启动在境外发行50亿美元债券。这是腾讯今年第二次从境外筹钱。今年6月份，腾讯刚刚完成一轮境外债券发行，规模接近47亿美元，刷新了2020年之后的记录。 稍早前是字节，且手笔更大。9月初，字节跳动敲定一笔296亿美元的银团贷款，折合人民币近2000亿元。这是今年亚洲地区第二大美元贷款交易，以至于需要几十家银行凑钱。 资金用途，并无悬念，都是用来供养“烧钱如烧纸”的AI业务。分析大厂AI竞争态势，不是我们的专业，我们只想聊聊大厂“借钱”这件事本身。 利润丰厚",
-     "source": "虎嗅",
-     "zh": "账上躺着2000亿现金，腾讯、字节为啥还要借钱？"
-    },
-    {
-     "title": "尊界V800踏板断了，华为造车的“刹车”一定会踩吗？",
-     "link": "https://www.huxiu.com/article/4897401.html?f=rss",
-     "pubDate": "Wed, 14 Oct 2026 14:11:37 +0800",
-     "summary": "本文来自微信公众号： 未来图灵 ，作者：张凤静 10月13日，尊界汽车公布了V800制动踏板的第三方检测结果。 《尊界V800制动踏板检测情况说明》显示，国家认可的第三方检测机构于10月11日对V800制动踏板进行了检验，结论是：符合行标QC/T 788-2018要求（纵向力1500N，位移量小于5mm），加严检验至纵向力3000N后，未出现裂纹和损坏。 但检测机构的回应耐人寻味。中国汽研检测中心确认了报告的存在，同时强调：“我们的报告只对企业送来的样品或者样车负责，对于企业后续批量生产的产品，我们不做任何保证。” 换句话说，报告证明了送检的那几件样品是合格的，至于消费者手里那台车，报告不背书",
-     "source": "虎嗅",
-     "zh": "尊界V800踏板断了，华为造车的“刹车”一定会踩吗？"
     },
     {
      "title": "A look at a coordinated theft of ~$100M in crypto using hardware backdoors planted in Ledger wallets sold by Malaysia-based authorized reseller CryptoBilis (Kim Zetter/ZERO DAY)",
@@ -1986,6 +1986,14 @@ window.INDUSTRY_DATA = {
      "zh": "ASML reports Q3 net sales of €11.66B, vs. €11.72B est., a €4.96B net profit, vs. €4.1B est., and raises its 2026 net sales forecast from €43B-€45B to €44B-€45B (Arjun Kharpal/CNBC)"
     },
     {
+     "title": "Peacock Promo Codes: 40% Off October 2026",
+     "link": "https://www.wired.com/story/peacock-promo-code/",
+     "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
+     "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+     "source": "WIRED",
+     "zh": "Peacock Promo Codes: 40% Off October 2026"
+    },
+    {
      "title": "Dell Coupon Codes: 20% Off for October 2026",
      "link": "https://www.wired.com/story/dell-coupon-code/",
      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
      "source": "WIRED",
      "zh": "Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026"
-    },
-    {
-     "title": "Peacock Promo Codes: 40% Off October 2026",
-     "link": "https://www.wired.com/story/peacock-promo-code/",
-     "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
-     "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-     "source": "WIRED",
-     "zh": "Peacock Promo Codes: 40% Off October 2026"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Realme phone with OnePlus 16R-like specs leaks, contradicts earlier camera rumor",
+     "link": "https://www.gsmarena.com/realme_phone_with_oneplus_16rlike_specs_leaks_contradicts_earlier_camera_rumor-news-75032.php",
+     "pubDate": "Wed, 14 Oct 2026 09:34:02 +0200",
+     "summary": "Earlier today, a leak claimed that the OnePlus 16R is being tested with a triple 50MP rear camera setup, and that a phone with the same hardware is also being tested under the Realme brand. Now, another tipster has chimed in with his own take on that Realme phone, and his details paint quite a diffe",
+     "source": "GSMArena",
+     "zh": "Realme phone with OnePlus 16R-like specs leaks, contradicts earlier camera rumor"
+    },
     {
      "title": "Samsung Health is making it easier to keep tabs on your runs and sleep",
      "link": "https://www.androidauthority.com/samsung-health-update-sleep-running-coach-strava-3722966/",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "IDC: Apple gains ground as China’s smartphone shipments plunge 15.4% in Q3 2026"
     },
     {
-     "title": "OnePlus 16 sells over 70,000 units in its first hour of availability",
-     "link": "https://www.gsmarena.com/oneplus_16_sells_over_70000_units_in_its_first_hour_of_availability-news-75024.php",
-     "pubDate": "Wed, 14 Oct 2026 01:02:02 +0200",
-     "summary": "The OnePlus 16 was unveiled in China on Monday, and it went on sale there this morning at 10 AM local time. Just an hour later, OnePlus China president Li Jie took to Weibo to announce that more than 70,000 units had already been sold. According to the exec, that puts the OnePlus 16 in first place a",
-     "source": "GSMArena",
-     "zh": "OnePlus 16 sells over 70,000 units in its first hour of availability"
-    },
-    {
      "title": "How to improve your online privacy and security in Google Chrome",
      "link": "https://www.engadget.com/2282288/how-to-improve-online-privacy-security-google-chrome/",
      "pubDate": "Tue, 13 Oct 2026 23:00:00 +0000",
@@ -2274,12 +2274,92 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "市场静待美通胀数据，美股指数期货持稳，ASML大涨2.8%，韩股三连跌，油价上涨",
+     "link": "https://wallstreetcn.com/articles/3783586",
+     "pubDate": "Wed, 14 Oct 2026 15:46:25 +0800",
+     "summary": "美股周三温和走高，但市场情绪整体偏谨慎。银行财报密集发布、ASML销售预期上调提振科技板块，而交易员真正屏息等待的，是当日稍晚公布的美国9月通胀数据。 标普500指数期货上涨0.1%，纳斯达克100指数期货基本持平。此前，芯片股连续五个交易日下挫，对纳指构成拖累。ASML周三成为市场亮点，这家全球唯一能够生产尖端光刻机的半导体设备制造商上调销售预测后，股价大涨2.8%，在一定程度上稳定了市场情绪。欧洲斯托克600指数同步上涨0.3%。 美联储纽约联储主席John Williams周二表示，今年再加息一次是合适的，2027年将不再进一步收紧货币政策。然而，货币市场目前定价显示，未来12个月内至少",
+     "source": "华尔街见闻",
+     "zh": "市场静待美通胀数据，美股指数期货持稳，ASML大涨2.8%，韩股三连跌，油价上涨"
+    },
+    {
+     "title": "ASML says supply will not meet demand at least until 2028",
+     "link": "https://seekingalpha.com/news/4652755-asml-says-supply-will-not-meet-the-demand-at-least-until-2028?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 03:42:07 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ASML says supply will not meet demand at least until 2028"
+    },
+    {
+     "title": "A股双创指数均大跌超3%，“易中天”下挫，油气煤炭逆势拉升，恒科指午后一度涨超2%，美团、阿里大涨",
+     "link": "https://wallstreetcn.com/articles/3783588",
+     "pubDate": "Wed, 14 Oct 2026 15:41:42 +0800",
+     "summary": "10月14日，A股午后回落，三大股指集体下跌，创业板跌超2%，科创50跌近2%，北证50转跌，盘中一度涨超2%。光模块下挫，“易中天”显著调整。AI漫剧概念掀起连板潮，PCB延续强势，煤炭油气逆势领涨。玻璃纤维、风力发电、半导体设备等概念股集体陷入调整。 港股午后进一步上涨，恒指、恒科指双双拉升，恒科指涨超2%，盘初曾跌近1%，权重科网股大反弹，美团、阿里、小米等大幅上涨，芯片半导体等整体仍然承压。债市方面，国债期货全线上涨。商品方面，国内商品期货多数下跌。核心市场走势： A股 ：截至收盘，沪指跌0.88%，深成指跌1.97%，创业板指跌3.10%。科创50指数大跌3.29，成份股中仅4股飘红",
+     "source": "华尔街见闻",
+     "zh": "A股双创指数均大跌超3%，“易中天”下挫，油气煤炭逆势拉升，恒科指午后一度涨超2%，美团、阿里大涨"
+    },
+    {
+     "title": "大宗交易：瑞华技术成交149.28万元（10-14）",
+     "link": "http://stock.eastmoney.com/news/11264,202610143895446265.html",
+     "pubDate": "Wed, 14 Oct 2026 15:38:26 +0800",
+     "summary": "2026年10月14日， 瑞华技术 发生1笔大宗交易，共成交10.10万股，成交金额149.28万元 ，占其流通市值比例为0.17% 。 该笔大宗交易成交均价14.78元， 较该股当日收盘价14.78元持平。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "大宗交易：瑞华技术成交149.28万元（10-14）"
+    },
+    {
+     "title": "美国9月CPI今晚揭晓：整体通胀或升至3.6%，核心通胀放缓能否打消美联储10月加息预期？",
+     "link": "https://wallstreetcn.com/articles/3783596",
+     "pubDate": "Wed, 14 Oct 2026 15:38:20 +0800",
+     "summary": "能源冲击推动整体通胀加速，但核心压力边际缓和，为美联储按兵不动提供了窗口。 美国劳工统计局将于北京时间今晚8时30分公布9月CPI数据。高盛、花旗等华尔街投行预测认为，整体CPI同比涨幅料从8月的3.4%跳升至3.6%至3.7%区间， 主要由能源价格上行驱动 ；与此同时，核心CPI环比涨幅预计从8月的0.29%小幅收窄至0.18%至0.24%之间， 住房通胀趋稳和部分服务分项回落是核心降温的主要原因。 在数据公布前，美联储官员的最新表态已向市场发出明确信号。上周公布的9月FOMC会议纪要显示， \"大多数\"官员认为年内再加息一次是适当的，但多位官员随后强调无需急于行动 ——美联储理事沃勒（Wal",
+     "source": "华尔街见闻",
+     "zh": "美国9月CPI今晚揭晓：整体通胀或升至3.6%，核心通胀放缓能否打消美联储10月加息预期？"
+    },
+    {
+     "title": "伊朗南部锡里克市附近海域发生无人机与渔船相撞事件",
+     "link": "http://finance.eastmoney.com/news/1351,202610143895446145.html",
+     "pubDate": "Wed, 14 Oct 2026 15:38:06 +0800",
+     "summary": "当地时间14日，伊朗方面消息称，该国霍尔木兹甘省锡里克市附近海上发生一起 无人机 与渔船相撞事件。据初步消息，事件导致3人受伤，目前伤者已被送往岸上。伊方暂未发布事件详细调查报告。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊朗南部锡里克市附近海域发生无人机与渔船相撞事件"
+    },
+    {
+     "title": "总投资20亿元 福耀集团安徽饰件及模具生产基地项目在合肥开工",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895446731.html",
+     "pubDate": "Wed, 14 Oct 2026 15:37:32 +0800",
+     "summary": "10月13日，福耀集团安徽饰件及模具生产基地项目在合肥市肥西县紫蓬镇开工奠基。安徽饰件及模具生产基地项目总投资20亿元，规划用地约310亩，总建筑面积约26万平方米，将建设研发中心、现代化制造厂房和专业实验室，产品涵盖塑件、智能总成、 电子 模组、精密模具等。项目预计2027年下半年竣工投产，达产后年产各类 汽车 饰件及模具4000余万套，年产值约30亿元。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "总投资20亿元 福耀集团安徽饰件及模具生产基地项目在合肥开工"
+    },
+    {
+     "title": "华润置地：9月销售金额同比减少11.9%至155亿元，前9个月合同销售金额1646亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895447348.html",
+     "pubDate": "Wed, 14 Oct 2026 15:37:00 +0800",
+     "summary": "10月13日， 华润置地 （01109.HK）披露9月份销售情况。 数据显示，9月份 华润置地 总合同销售金额约155亿元，同比减少11.9%；总合同销售建筑面积约41.8万平方米，同比减少31.5%。 今年前9个月， 华润置地 累计合同销售金额约1646亿元，同比增长6.6%；总合同销售建筑面积约447.1万平方米，同比减少22%。 另外，9月份华润置地经常性收入约44.9亿元，同比增长9.5%。其中，经营性不动产收租型业务租金收入约29.7亿元，同比增长7.9%。今年前9个月，华润置地累计经常性收入约399.4亿元，同比增长7.5%。其中，经营性不动产收租型业务租金收入约267.2亿元，同",
+     "source": "东方财富股票",
+     "zh": "华润置地：9月销售金额同比减少11.9%至155亿元，前9个月合同销售金额1646亿元"
+    },
+    {
+     "title": "【新华500】新华500指数（989001）14日跌1.44%",
+     "link": "http://stock.eastmoney.com/news/11791,202610143895446627.html",
+     "pubDate": "Wed, 14 Oct 2026 15:36:07 +0800",
+     "summary": "新华财经北京10月14日电 新华500指数（989001）10月14日收盘跌1.44%，报4699.74点。 走势上看，新华500指数（989001）10月14日早间低开，随后震荡整理，早盘一度翻红，午后指数震荡下挫，最终收跌。指数盘中最高触及4776.94点，最低触及4695.73点，成分股全天总成交额报4954亿元，总成交额较上一交易日明显减少。 成分股方面， 芒果超媒 、 中海油服 、 七一二 、 恩捷股份 等成分股涨幅靠前； 中材科技 、 江淮汽车 、 杭氧股份 、 天顺风能 等成分股跌幅靠前。 （文章来源：新华财经）",
+     "source": "东方财富股票",
+     "zh": "【新华500】新华500指数（989001）14日跌1.44%"
+    },
+    {
      "title": "Trump: 'Massive' oil, gas and mineral exploration set for Greenland",
      "link": "https://seekingalpha.com/news/4652760-trump-massive-oil-gas-and-mineral-exploration-set-for-greenland?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 14 Oct 2026 03:29:16 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Trump: 'Massive' oil, gas and mineral exploration set for Greenland"
+    },
+    {
+     "title": "鲁渝政企双向奔赴专项活动启动 30余家企业组团入渝谋合作",
+     "link": "http://www.eeo.com.cn/2026/1014/1064078.shtml",
+     "pubDate": "Wed, 14 Oct 2026 15:26:12 +0800",
+     "summary": "活动现场。受访单位供图 第1眼TV-华龙网讯（记者 梁浩楠）10月14日，“山海情深促协作·产业赋能启新程”鲁渝政企双向奔赴专项活动启动仪式在重庆黔江举行。30余家山东重点企业组团入渝，带着技术、产能与市场需求，与重庆各区县共谋合作机遇，探寻两地产业协同发展路径。 本次活动由重庆驻山东挂职干部管理组主办，考察团将陆续走进黔江、涪陵、长寿开展实地调研与洽谈，持续至10月16日。山东与重庆产业禀赋各有特色，...",
+     "source": "经济观察网",
+     "zh": "鲁渝政企双向奔赴专项活动启动 30余家企业组团入渝谋合作"
     },
     {
      "title": "中国9月芯片进出口额高增，原油进口量同比降21.5%、大豆降7.7%，稀土出口同比增6.7%",
@@ -2304,54 +2384,6 @@ window.INDUSTRY_DATA = {
      "summary": "U.S. Treasury yields inched lower on Wednesday as investors awaited the latest CPI inflation reading ahead of a flurry of economic data this week.",
      "source": "CNBC",
      "zh": "U.S. Treasury yields inch lower as investors await key inflation report"
-    },
-    {
-     "title": "习近平向第140届中国进出口商品交易会致贺信",
-     "link": "http://finance.eastmoney.com/news/1350,202610143895434068.html",
-     "pubDate": "Wed, 14 Oct 2026 15:21:14 +0800",
-     "summary": "10月14日，国家主席习近平向第140届中国进出口商品交易会（广交会）致贺信。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "习近平向第140届中国进出口商品交易会致贺信"
-    },
-    {
-     "title": "沐曦股份亮相2026中国工博会，曦索X302科学智能GPU荣获创新成果奖",
-     "link": "http://stock.eastmoney.com/news/11134,202610143895436280.html",
-     "pubDate": "Wed, 14 Oct 2026 15:21:01 +0800",
-     "summary": "10月12日，以“智能经济，智造无界”为主题的第二十六届中国国际工业博览会在国家会展中心（上海）开幕。沐曦股份（688802.SH）携全栈GPU产品矩阵及产业生态成果亮相本届工博会集成电路展（国芯展），通过“芯算基座”、“开源工坊”、“万象应用”三大展区，集中展示从GPU芯片、服务器到超节点的算力产品体系，以及开放软件生态与行业应用的创新实践。展会期间，沐曦曦索X302科学智能GPU荣获2026国芯展创新成果奖，彰显公司在国产高性能GPU领域的持续创新能力。 硬核筑基：全栈算力矩阵集中亮相 在“芯算基座”展区，沐曦股份集中展示曦思N300、曦云C600、曦索X301及X302四款GPU产品，分",
-     "source": "东方财富股票",
-     "zh": "沐曦股份亮相2026中国工博会，曦索X302科学智能GPU荣获创新成果奖"
-    },
-    {
-     "title": "A股收报：超4400只个股飘绿，三大指数集体收跌，创业板指跌超3%",
-     "link": "http://stock.eastmoney.com/news/1407,202610143895436751.html",
-     "pubDate": "Wed, 14 Oct 2026 15:20:49 +0800",
-     "summary": "14日，A股三大指数低开后震荡下行，集体收跌。截至收盘，沪指跌0.88%，深证成指跌1.97%，创业板指跌3.10%。 全市成交额1.43万亿元，超4400只个股下跌。 板块方面， 通信设备 领跌，发电设备、电脑硬件、 半导体 、 汽车 、生物科技等跌幅居前。 油气、文化 传媒 、 电力 、 煤炭 、燃气等板块上涨。 来源市场信息 （文章来源：国际金融报）",
-     "source": "东方财富股票",
-     "zh": "A股收报：超4400只个股飘绿，三大指数集体收跌，创业板指跌超3%"
-    },
-    {
-     "title": "AI视频造谣问界，播放量不到3000，赛力斯向网友索赔100万",
-     "link": "http://finance.eastmoney.com/news/1354,202610143895435975.html",
-     "pubDate": "Wed, 14 Oct 2026 15:20:21 +0800",
-     "summary": "据大河 汽车 报道，10月14日， 赛力斯 汽车 有限公司对外披露，已对一名短视频用户提起民事诉讼，对方借助AI工具合成问界车辆行驶中车身塌陷的虚假画面，发布到网络抹黑车辆安全性能，案件将于10月23日在重庆市两江新区人民法院开庭审理。 赛力斯 提出四项诉求，要求对方删除侵权内容、公开赔礼道歉，并赔偿100万元经济损失，案件相关诉讼费用也由被告承担。 在社交平台流传的聊天记录里，这名被告坦言，自己只是做了一条带有主观倾向的短视频，没料到会引来正式起诉，“不到3000播放”“不会真要我赔100万元吧”。他还在群聊中表示，自己不会选购鸿蒙智行系列车型。 这条引发纠纷的视频，画面全部依靠AI生成。视",
-     "source": "东方财富股票",
-     "zh": "AI视频造谣问界，播放量不到3000，赛力斯向网友索赔100万"
-    },
-    {
-     "title": "台积电有望提前完成明年产能目标 美银料2纳米制程营收贡献升至11%",
-     "link": "http://stock.eastmoney.com/news/11228,202610143895436160.html",
-     "pubDate": "Wed, 14 Oct 2026 15:20:00 +0800",
-     "summary": "财联社10月14日讯 据悉，由于市场对 台积电 2纳米工艺的需求十分旺盛，该公司有望提前完成2027年的生产目标。 2纳米制程技术是 台积电 目前量产的最先进的制造技术，也是高性能 人工智能 芯片需要的成熟工艺。 台积电 此前的产能估计到2026年底最高约为每月10万片晶圆，但有报道指出，最新的估计将产量提高了20%，达到每月12万片晶圆。 新的估算意味着台积电可能在今年就实现其原定的2027年产能目标。此前该公司预计，2纳米晶圆月产能到2027年底将达到11万至14万片。而产能大幅提升的原因是包括 英伟达 、AMD、 苹果 和 高通 在内的科技巨头订单激增。 这与 美国银行 此前的一份报告的",
-     "source": "东方财富股票",
-     "zh": "台积电有望提前完成明年产能目标 美银料2纳米制程营收贡献升至11%"
-    },
-    {
-     "title": "罗氏与大睿生物达成至多11.6亿美元授权协议",
-     "link": "http://finance.eastmoney.com/news/1354,202610143895433321.html",
-     "pubDate": "Wed, 14 Oct 2026 15:18:45 +0800",
-     "summary": "当地时间10月13日，大睿生物宣布将其靶向激活素受体样激酶7（ALK7）的在研RNAi候选药物全球独家许可授予罗氏。该候选药物依托大睿生物专有的肝外递送平台技术开发。 根据协议条款，大睿生物将获得最高1亿美元的首付款及近期里程碑款项，同时还有资格获取最高10.6亿美元的开发、注册及商业化里程碑付款，并可按照全球净销售额获得分级特许权使用费。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "罗氏与大睿生物达成至多11.6亿美元授权协议"
     },
     {
      "title": "SK Group chairman to sell 1.34% stake to Dell family office fund",
@@ -2426,20 +2458,20 @@ window.INDUSTRY_DATA = {
      "zh": "A股三大指数收跌 成交额1.43万亿 游戏板块逆市走强"
     },
     {
+     "title": "科技股裂痕已现？华尔街示警：小心一场更大规模的平仓潮",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895406747.html",
+     "pubDate": "Wed, 14 Oct 2026 14:52:22 +0800",
+     "summary": "随着美股科技股近期的高位震荡加剧，这一昔日华尔街最拥挤交易背后的裂痕，正变得越来越难以被市场忽视。 德意志银行 在最新发布的报告中警告称，科技股的相对风险回报正变得愈发不对称，而 存储芯片 市场的暴跌正蔓延至纳指的仓位布局。在亚洲市场上，韩国股市更是亮起了严峻的警示灯——KOSPI指数已跌破关键技术位，市场波动率急剧飙升。 放眼更广泛的跨资产领域，其他潜在的隐患也正在浮出水面： 纳斯达克 的下行对冲成本目前依然相对低廉——这意味着人们对市场大跌缺乏防备。系统性策略持仓可能会放大债市的下一波震荡，而法国不断恶化的债务困局则给全球市场又添了一重宏观风险。 德银指出，尽管当前盘面上的变数颇多，但背后",
+     "source": "东方财富资讯",
+     "zh": "科技股裂痕已现？华尔街示警：小心一场更大规模的平仓潮"
+    },
+    {
      "title": "时代锐评| 加拿大鹅陷“环保”风波：吃户外的饭，不能砸户外的碗",
      "link": "http://www.eeo.com.cn/2026/1014/1063997.shtml",
      "pubDate": "Wed, 14 Oct 2026 14:52:11 +0800",
      "summary": "本文来源：时代周报 作者：杨春霞 2027年新品广告尚未上线，加拿大鹅却先因“环保”问题陷入争议。 据潇湘晨报，近日，有网友社媒分享...",
      "source": "经济观察网",
      "zh": "时代锐评| 加拿大鹅陷“环保”风波：吃户外的饭，不能砸户外的碗"
-    },
-    {
-     "title": "ASML declares 2026 interim dividend of €1.88 per share, payable in November",
-     "link": "https://seekingalpha.com/news/4652754-asml-declares-2026-interim-dividend-of-188-per-share-payable-in-november?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 02:51:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ASML declares 2026 interim dividend of €1.88 per share, payable in November"
     },
     {
      "title": "半导体设备供不应求！阿斯麦公布强劲财报：已有客户咨询2030年订单",
@@ -2450,36 +2482,12 @@ window.INDUSTRY_DATA = {
      "zh": "半导体设备供不应求！阿斯麦公布强劲财报：已有客户咨询2030年订单"
     },
     {
-     "title": "重庆出发，2.5小时到西安 这条高铁有新进展→",
-     "link": "http://www.eeo.com.cn/2026/1014/1063942.shtml",
-     "pubDate": "Wed, 14 Oct 2026 14:13:12 +0800",
-     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/83349C224AF01A7A68440DB5EDF50D5C.jpg\" alt=\"西渝高铁四方山隧道出口。中铁十一局供图\" data-title=\"西渝高铁四方山隧道出口。中铁十一局供图\" data-target=\"2110234693886283778\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/REPRINT/MEDIA/PICTURE/2026/10/14/bc9457773a5",
-     "source": "经济观察网",
-     "zh": "重庆出发，2.5小时到西安 这条高铁有新进展→"
-    },
-    {
-     "title": "秘勇任北京首创集团党委书记、董事长",
-     "link": "http://www.eeo.com.cn/2026/1014/1063940.shtml",
-     "pubDate": "Wed, 14 Oct 2026 14:13:05 +0800",
-     "summary": "首创集团官方公众号10月14日发布消息，10月13日，首创集团召开干部大会，宣布北京市委、市政府关于首创集团主要领导任免的决定：秘勇同志任北京首都创业集团有限公司党委书记、董事长，不再担任北京首都创业集团有限公司总经理职务。",
-     "source": "经济观察网",
-     "zh": "秘勇任北京首创集团党委书记、董事长"
-    },
-    {
      "title": "SK海力士HBM4后道设备订单推迟至明年，扩产节奏低于预期",
      "link": "https://wallstreetcn.com/articles/3783595",
      "pubDate": "Wed, 14 Oct 2026 14:08:04 +0800",
      "summary": "SK海力士第六代高带宽内存HBM4的产能扩张步伐正在放缓，部分后道工序设备订单被推迟至明年，市场对其量产进程的预期出现分歧。 据韩国媒体Dealsite援引半导体设备行业多位知情人士透露， 原定今年下半年交付的部分HBM4后道设备订单存在延期迹象，后续发单计划亦尚未明确。 与此同时， 已交付设备的满负荷运转情况暂无数据佐证，明年投资计划也尚未向部分供应商正式传达。 上述动态引发市场对SK海力士HBM4扩产节奏的担忧，相关设备供应商股价面临潜在压力。 值得注意的是，也有观点认为不宜过度解读。大信证券分析师柳亨根（류형근）在近期报告中指出，市场对SK海力士向主要客户供应HBM4的质量问题存在\"过度",
      "source": "华尔街见闻",
      "zh": "SK海力士HBM4后道设备订单推迟至明年，扩产节奏低于预期"
-    },
-    {
-     "title": "大汉上市，比亚迪向主品牌要利润",
-     "link": "https://wallstreetcn.com/articles/3783597",
-     "pubDate": "Wed, 14 Oct 2026 14:03:16 +0800",
-     "summary": "作者 | 周智宇 比亚迪给大汉开的正式价，比预售时低了一截。 10月13日晚，王朝网首款D级旗舰轿车大汉EV上市，三款车型售价分别为23.59万元、24.99万元和27.59万元，比预售价下调1.4万至2.4万元。定位继续往上抬，定价仍在二十多万元的主流竞争区间。 大汉拿来争这笔预算的，是大车尺寸、长续航和底盘配置。车长5256毫米、轴距3130毫米；23.59万元的后驱入门版，CLTC纯电续航为1008公里，双腔空气悬架、后轮转向则全系标配。 再加1.4万元，24.99万元的后驱旗舰版主要增加座舱和后排配置，包括后排座椅通风、加热、按摩及吸顶屏等。两个后驱版本续航相同，价差更多落在舒适和娱乐",
-     "source": "华尔街见闻",
-     "zh": "大汉上市，比亚迪向主品牌要利润"
     },
     {
      "title": "AI短剧“三国杀”：腾讯、快手、字节加码 未来会怎么走？",
@@ -2490,28 +2498,20 @@ window.INDUSTRY_DATA = {
      "zh": "AI短剧“三国杀”：腾讯、快手、字节加码 未来会怎么走？"
     },
     {
-     "title": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Wed, 14 Oct 2026 13:56:38 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴"
+     "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
+     "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
+     "pubDate": "Wed, 14 Oct 2026 05:19:36 GMT",
+     "summary": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
+     "source": "CNBC",
+     "zh": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico"
     },
     {
-     "title": "创业板跌近2%，“易中天”下挫，AI漫剧概念再爆发，恒科指午后拉升涨超2%，美团、阿里大涨",
-     "link": "https://wallstreetcn.com/articles/3783588",
-     "pubDate": "Wed, 14 Oct 2026 13:52:35 +0800",
-     "summary": "10月14日，A股午后回落，三大股指集体下跌，创业板跌超2%，科创50跌近2%，北证50转跌，盘中一度涨超2%。光模块下挫，“易中天”显著调整。AI漫剧概念掀起连板潮，PCB延续强势，煤炭油气逆势领涨。玻璃纤维、风力发电、半导体设备等概念股集体陷入调整。 港股午后进一步上涨，恒指、恒科指双双拉升，恒科指涨超2%，盘初曾跌近1%，权重科网股大反弹，美团、阿里、小米等大幅上涨，芯片半导体等整体仍然承压。债市方面，国债期货全线上涨。商品方面，国内商品期货多数下跌。核心市场走势： A股 ：截至发稿，沪指跌0.55%，深成指跌1.31%，创业板指跌2.29%。科创50指数跌幅扩大至2%，成份股中仅7股飘",
-     "source": "华尔街见闻",
-     "zh": "创业板跌近2%，“易中天”下挫，AI漫剧概念再爆发，恒科指午后拉升涨超2%，美团、阿里大涨"
-    },
-    {
-     "title": "时代锐评｜郑钦文夺冠后品牌营销众生相：蹭冠军热度可以，但别没底线",
-     "link": "http://www.eeo.com.cn/2026/1014/1063913.shtml",
-     "pubDate": "Wed, 14 Oct 2026 13:52:20 +0800",
-     "summary": "本文来源：时代财经 作者：赵姝婵 庞宇 10月11日晚，郑钦文以2-0击败安德列娃，夺得中网女单冠军，成为中网举办二十届历史以来首位本土女单冠军。夺冠的喜悦还未在社媒上消散，一场“赞助商大型团建现场”已经开演：十几个代言品牌连夜下场，抢着把“恭喜郑钦文”变成“我们的活动”。 <img class=\"lazyload\" src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/07FD5D7E456B7C763B35208688F...",
-     "source": "经济观察网",
-     "zh": "时代锐评｜郑钦文夺冠后品牌营销众生相：蹭冠军热度可以，但别没底线"
+     "title": "AMD苏姿丰：2026将是“AI推理元年” CPU市场需求将爆发式增长",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895255264.html",
+     "pubDate": "Wed, 14 Oct 2026 12:47:06 +0800",
+     "summary": "美东时间周一，AMD首席执行官苏姿丰在公开讲话中表示，AI推理将驱动新一轮增长浪潮，预计到2030年， 数据中心 AI加速器市场规模有望达到1.5万亿美元。而今年，将会是全球的“推理元年”。 AI推理将推动CPU需求爆发式增长 在2026年开放计算项目全球峰会 (OCP Global Summit)上，苏姿丰表示，随着 AI智能体 工作负载拉动算力需求，推理业务或将占据AI市场总量的60%。 “今年真正属于推理时代。我们判断，推理业务未来将占到整体市场的60%。不只是推理本身，真正爆发的是 AI智能体 工作负载。” 苏姿丰称，AMD预计，2030年 数据中心 AI加速器市场规模将接近1.5万亿",
+     "source": "东方财富资讯",
+     "zh": "AMD苏姿丰：2026将是“AI推理元年” CPU市场需求将爆发式增长"
     }
    ]
   },

@@ -2314,22 +2314,6 @@ window.INDUSTRY_DATA = {
      "zh": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?"
     },
     {
-     "title": "美联储古尔斯比表示：不希望预先锁定货币政策前景 束缚自身政策操作空间",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895876462.html",
-     "pubDate": "Thu, 15 Oct 2026 03:17:45 +0800",
-     "summary": "美联储古尔斯比表示，不希望预先锁定货币政策前景，束缚自身政策操作空间。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美联储古尔斯比表示：不希望预先锁定货币政策前景 束缚自身政策操作空间"
-    },
-    {
-     "title": "美联储古尔斯比表示，不希望预先锁定货币政策前景，束缚自身政策操作空间",
-     "link": "http://finance.eastmoney.com/news/1346,202610153895876639.html",
-     "pubDate": "Thu, 15 Oct 2026 03:17:22 +0800",
-     "summary": "美联储古尔斯比表示，不希望预先锁定货币政策前景，束缚自身政策操作空间。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美联储古尔斯比表示，不希望预先锁定货币政策前景，束缚自身政策操作空间"
-    },
-    {
      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
      "pubDate": "Wed, 14 Oct 2026 19:15:00 GMT",
@@ -2394,28 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "Commercial Metals Q3 2026 Earnings Preview"
     },
     {
-     "title": "恒指期货夜盘收跌1.06% 报24074点",
-     "link": "http://hk.eastmoney.com/news/1556,202610153895876257.html",
-     "pubDate": "Thu, 15 Oct 2026 03:00:47 +0800",
-     "summary": "恒指 期货 夜盘收跌1.06%，报24074点，低水240点。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "恒指期货夜盘收跌1.06% 报24074点"
-    },
-    {
      "title": "美股三大指数走低 纳指跌超2% 费城半导体指数跌超4% 国际金银价格跳水",
      "link": "http://finance.eastmoney.com/news/1345,202610143895720794.html",
      "pubDate": "Thu, 15 Oct 2026 03:00:16 +0800",
      "summary": "美东时间周三，美股三大指数集体走低，截至发稿，道指跌0.38%，纳指跌2.10%，标普500指数跌1.33%。 芯片股集体回调，截至发稿，费城 半导体 指数跌超4%，现报11685点，AI算力与存储链跌幅居前。个股方面， 英伟达 跌3.64%， 台积电 跌3.66%， 博通 跌3.29%， SK海力士 跌6.12%， 美光科技 跌3.34%， 超威半导体 跌5.85%， 阿斯麦 跌2.01%， 英特尔 跌4.35%， 应用材料 跌3.69%，ARM跌6.81%。 商品市场方面，国际金银价格跳水，截至发稿，现货 黄金 跌1.85%，失守4100美元/盎司，报4084.09美元/盎司；现货 白银 ",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "美股三大指数走低 纳指跌超2% 费城半导体指数跌超4% 国际金银价格跳水"
-    },
-    {
-     "title": "资金再度青睐“确定性” 红利基金净值集体逼近新高",
-     "link": "http://finance.eastmoney.com/news/1354,202610153895872934.html",
-     "pubDate": "Thu, 15 Oct 2026 03:00:15 +0800",
-     "summary": "近期，A股市场继续调整，此前领跑的成长板块开始明显承压，前期积累的涨幅逐步回吐，资金的风险偏好随之收缩，市场重新回到对“确定性”的寻找之中。 在这样的背景下，一类长期被忽视的资产重新进入视野——以 银行 、 煤炭 、 公用事业 为底仓的红利主题基金，净值正集体逼近、甚至刷新历史高点。 红利基金净值集体逼近 历史新高 这轮红利行情的力度，数据最为直观。 单看红利主题的指数类产品，10月12日，建信沪深300红利ETF单位净值创下成立7年以来的新高，报1.6854元，年内回报5.84%。国泰上证国有企业红利ETF与银河上证国有企业红利ETF在8月31日双双刷新历史纪录后短暂回落，近期再度冲高，距前",
-     "source": "东方财富股票",
-     "zh": "资金再度青睐“确定性” 红利基金净值集体逼近新高"
     },
     {
      "title": "Wipro Q3 2027 Earnings Preview",

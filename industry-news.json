@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/15 05:52:15",
+ "generated_at": "2026/10/15 06:12:11",
  "recent_days": 7,
  "industries": [
   {
@@ -313,14 +313,6 @@
      "zh": "Co-Packaged Optics Moves from Promise to Production Planning"
     },
     {
-     "title": "10 years of TME Education – a decade of supporting technical education",
-     "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/10-years-of-tme-education-a-decade-of-supporting-technical-education-2-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 15:32:38 +0000",
-     "summary": "Learn more about TME Education – an educational project based on practical learning and collaboration with local communities. The post 10 years of TME Education – a decade of supporting technical education appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "10 years of TME Education – a decade of supporting technical education"
-    },
-    {
      "title": "Characterization of HBM Power Consumption (ETH Zurich, NYU)",
      "link": "https://semiengineering.com/characterization-of-hbm-power-consumption-eth-zurich-nyu/",
      "pubDate": "Wed, 14 Oct 2026 15:27:00 +0000",
@@ -335,22 +327,6 @@
      "summary": "Score: the written music for an orchestra, with every section’s part laid out on the same page so they play together. In this article, it’s your designed workflows. Is AI helping you hit your tape-out date, or putting it at risk? How would you know? Every Director I talk to is being asked to use AI ",
      "source": "SemiWiki",
      "zh": "Delivering Silicon Systems Through AI Disruption, Part 1: Writing the Score"
-    },
-    {
-     "title": "Vishay optical sensors target battery management, energy storage",
-     "link": "https://www.electronicsweekly.com/news/products/sensors-products/vishay-optical-sensors-target-battery-management-energy-storage-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 13:51:05 +0000",
-     "summary": "Vishay’s new automotive grade optical sensors address challenges in modern battery management, energy storage, and industrial automation systems. The four new devices combine an infrared (IR) emitter and PIN photodiode […] The post Vishay optical sensors target battery management, energy storage app",
-     "source": "Electronics Weekly",
-     "zh": "Vishay optical sensors target battery management, energy storage"
-    },
-    {
-     "title": "Datacentre? Not In My Backyard",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/datacentre-not-in-ny-backyard-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 13:10:59 +0000",
-     "summary": "Ballotpedia has counted 35 local measures on the ballot in the US November 3 midterm elections aimed at banning or restricting the construction of new datacentres. Ohio has 21 such […] The post Datacentre? Not In My Backyard appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Datacentre? Not In My Backyard"
     },
     {
      "title": "A Migration Feasibility Study Can Turn an Uncertain Re-Design into a Measurable Engineering Project",
@@ -399,22 +375,6 @@
      "summary": "Specialty analog foundry Tower Semiconductor Ltd of Migdal Haemek, Israel and high-performance semiconductor, Internet of Things (IoT) system and cloud connectivity service provider Semtech Corp of Camarillo, CA, USA have agreed to expand their 20-year partnership. Semtech will invest in securing de",
      "source": "Semiconductor Today",
      "zh": "Tower and Semtech expand SiGe partnership to scale power-efficient analog connectivity for data centers"
-    },
-    {
-     "title": "In conversation with Siemens on semiconductor test technology",
-     "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/ew-video-in-conversation-with-tessent-on-semiconductor-test-technology-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 10:59:25 +0000",
-     "summary": "Electronics Weekly recently caught up with Lee Harrison, Director of Product Marketing at Tessent, Siemens Digital Industries Software, to discuss the latest semiconductor test technology. Topics include silicon lifecycle management, […] The post In conversation with Siemens on semiconductor test te",
-     "source": "Electronics Weekly",
-     "zh": "In conversation with Siemens on semiconductor test technology"
-    },
-    {
-     "title": "TechPoint buys Esprit Electronics for EMS growth",
-     "link": "https://www.electronicsweekly.com/news/business/techpoint-buys-esprit-electronics-for-ems-growth-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 10:04:18 +0000",
-     "summary": "TechPoint has announced it is buying Esprit Electronics, to strengthen its UK manufacturing capability and support its growth ambitions, says the company. “We’re delighted to welcome the Esprit Electronics team […] The post TechPoint buys Esprit Electronics for EMS growth appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "TechPoint buys Esprit Electronics for EMS growth"
     },
     {
      "title": "300mm fab equipment spending to hit US$227 billion by 2029, SEMI says",
@@ -489,12 +449,52 @@
      "zh": "Accelerating Advanced IC Package Design: A Methodology for Early and Iterative Optimization of Chiplet Integration"
     },
     {
-     "title": "Qualcomm wins Arm case – awarded $2 in damages",
-     "link": "https://www.electronicsweekly.com/news/business/qualcomm-wins-arm-case-awarded-2-in-damages-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 05:16:58 +0000",
-     "summary": "The jury in the Qualcomm vs Arm case found Arm in breach of its architectural license agreement (ALA) with Qualcomm, and awarded Qualcomm $2 in nominal damages. The jury concluded that […] The post Qualcomm wins Arm case – awarded $2 in damages appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Qualcomm wins Arm case – awarded $2 in damages"
+     "title": "Interview with Eric Hong, VP of Engineering at Mixel, a Silvaco Company",
+     "link": "https://semiwiki.com/ip/mixel/374784-interview-with-erich-hong-vp-of-engineering-at-mixel-a-silvaco-company/",
+     "pubDate": "Tue, 13 Oct 2026 19:00:52 +0000",
+     "summary": "Eric Hong is Vice President of Engineering at Mixel, a Silvaco company, where he leads the development of analog and mixed-signal IP, including high-speed PHY and SerDes solutions. Prior to Mixel, he held engineering leadership and technical roles at Nvidia, eSilicon, Samsung Electro-Mechanics, and ",
+     "source": "SemiWiki",
+     "zh": "Interview with Eric Hong, VP of Engineering at Mixel, a Silvaco Company"
+    },
+    {
+     "title": "Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over-optics for AI rack-scale connectivity at OCP Global Summit",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/lumentum-131026.shtml",
+     "pubDate": "Tue, 13 Oct 2026 18:14:35 +0100",
+     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers), Astera Labs Inc (which provides rack-scale AI infrastructure through purpose-built connectivity solutions) and Corning Inc are giving a joint demonstration of PCIe-over",
+     "source": "Semiconductor Today",
+     "zh": "Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over-optics for AI rack-scale connectivity at OCP Global Summit"
+    },
+    {
+     "title": "U.S. Chip Firms Bet Big on R&D",
+     "link": "https://spectrum.ieee.org/semiconductor-research",
+     "pubDate": "Tue, 13 Oct 2026 11:00:05 +0000",
+     "summary": "On 12 October, Applied Materials unveiled a multibillion-dollar research facility in Sunnyvale, Calif., in the heart of Silicon Valley . The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercialization (EPIC) Center, but now says it will",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "U.S. Chip Firms Bet Big on R&D"
+    },
+    {
+     "title": "Polar collaborates with IC-Link by imec on 8-inch manufacturing of e-mode GaN devices",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/polar-iclink-131026.shtml",
+     "pubDate": "Tue, 13 Oct 2026 10:33:34 +0100",
+     "summary": "Polar Semiconductor LLC of Bloomington, MN, USA (the only US-owned foundry specializing in high-voltage, power and sensor semiconductors) and IC-Link by imec (the design and manufacturing division of nanoelectronics research center imec of Leuven, Belgium) are collaborating to provide 8-inch product",
+     "source": "Semiconductor Today",
+     "zh": "Polar collaborates with IC-Link by imec on 8-inch manufacturing of e-mode GaN devices"
+    },
+    {
+     "title": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/cmlmicro-091026.shtml",
+     "pubDate": "Fri, 9 Oct 2026 08:59:05 +0100",
+     "summary": "CML Microsystems Plc of Maldon, UK — a designer and fabless manufacturer of mixed-signal, RF and microwave semiconductors for communications applications — has launched the CMX90A002, a compact power amplifier for next-generation ISM-band radio designs...",
+     "source": "Semiconductor Today",
+     "zh": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs"
+    },
+    {
+     "title": "Infineon launches 27kW three-phase PSU for AI server power architectures",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/infineon-081026.shtml",
+     "pubDate": "Thu, 8 Oct 2026 15:28:51 +0100",
+     "summary": "As artificial intelligence workloads are redefining the power requirements of modern data centers, increasing GPU performance and rising rack densities are driving a shift toward 800VDC or ±400VDC power supply architectures. To address these requirements, Infineon Technologies AG of Munich, Germany ",
+     "source": "Semiconductor Today",
+     "zh": "Infineon launches 27kW three-phase PSU for AI server power architectures"
     }
    ]
   },
@@ -504,14 +504,6 @@
    "accent": "#14b8a6",
    "total": 5,
    "items": [
-    {
-     "title": "How ADI is helping robotics startups scale",
-     "link": "https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale/",
-     "pubDate": "Wed, 14 Oct 2026 20:29:21 +0000",
-     "summary": "Robotics businesses need help keeping up with innovations as they scale. Analog Devices Inc. or ADI is offering its Emerging Tech Hub. The post How ADI is helping robotics startups scale appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "How ADI is helping robotics startups scale"
-    },
     {
      "title": "Dubai Police adds 920-horsepower hybrid Lamborghini Temerario to patrol fleet",
      "link": "https://roboticsandautomationnews.com/2026/10/14/dubai-police-adds-920-horsepower-hybrid-lamborghini-temerario-to-patrol-fleet/105932/",
@@ -617,6 +609,14 @@
      "zh": "Promise Robotics partners with D.R. Horton on physical AI for homebuilding"
     },
     {
+     "title": "Closing the reality gap: Why real-time execution has become the new competitive advantage",
+     "link": "https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage/",
+     "pubDate": "Mon, 12 Oct 2026 14:30:33 +0000",
+     "summary": "Daifuku's Cecile Dick-Calmes said success is no longer measured solely by automation density or equipment utilization. The post Closing the reality gap: Why real-time execution has become the new competitive advantage appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "Closing the reality gap: Why real-time execution has become the new competitive advantage"
+    },
+    {
      "title": "Humanoid robots can sprint and box – but the real test is doing the laundry",
      "link": "https://robohub.org/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/",
      "pubDate": "Mon, 12 Oct 2026 07:51:21 +0000",
@@ -656,6 +656,14 @@
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "Apple and Schneider’s new smart thermostat could help cut your electric bill",
+     "link": "https://electrek.co/2026/10/14/apple-and-schneiders-new-smart-thermostat-could-help-cut-your-electric-bill/",
+     "pubDate": "Wed, 14 Oct 2026 22:06:30 +0000",
+     "summary": "A new smart thermostat from Apple and Schneider Electric could soon use your iPhone to figure out when you’re home – and help move heating and cooling to times when electricity is cleaner and/or cheaper. more…",
+     "source": "Electrek",
+     "zh": "Apple and Schneider’s new smart thermostat could help cut your electric bill"
+    },
     {
      "title": "Revolution Wind is powering New England, and Trump is attacking it again",
      "link": "https://electrek.co/2026/10/14/revolution-wind-is-powering-new-england-and-trump-is-attacking-it-again/",
@@ -703,14 +711,6 @@
      "summary": "Orange is the new green at the University of Tennessee, which deployed a new McNeilus Volterra ZFL electric garbage truck at its Knoxville campus this week, bringing together advanced, battery-electric waste collection technology and Made-in-Tennessee manufacturing. more…",
      "source": "Electrek",
      "zh": "Orange is the new green as University of Tennessee electrifies its garbage fleet"
-    },
-    {
-     "title": "Lectric XPress Lite e-bike $1,099 + XPress2 FREE $336 bundle, EcoFlow 572Wh RIVER 3 Max new $303 low, snow blower lows, more",
-     "link": "https://electrek.co/2026/10/14/lectric-xpress-lite-e-bike-ecoflow-572wh-river-3-max-snow-blower-more/",
-     "pubDate": "Wed, 14 Oct 2026 18:00:00 +0000",
-     "summary": "Our midweek Green Deals edition is being led by Lectric’s newest 46-pound Xpress Lite e-bike that just launched at $1,099 , which coincides with the bundle for $336 in FREE gear on the XPress2 Cruiser/Commuter e-bikes at $1,299 continuing over from the Better-Than-Prime sale. Right behind that we ha",
-     "source": "Electrek",
-     "zh": "Lectric XPress Lite e-bike $1,099 + XPress2 FREE $336 bundle, EcoFlow 572Wh RIVER 3 Max new $303 low, snow blower lows, more"
     },
     {
      "title": "BMW’s EV Sales Are Growing Again. Europe Is Doing The Heavy Lifting",
@@ -857,6 +857,22 @@
    "total": 9,
    "items": [
     {
+     "title": "White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6",
+     "link": "https://oilprice.com/Energy/Crude-Oil/White-House-Turns-to-Korean-War-Era-Law-as-Diesel-Prices-Stay-Above-6.html",
+     "pubDate": "Wed, 14 Oct 2026 17:00:00 -0500",
+     "summary": "The United States has used a 1950 authority to help boost fuel production at a small Texas refinery, Vice President JD Vance said on Tuesday, as the Trump Administration is running out of levers to lower record-high fuel prices. “I am pleased to announce that the Trump administration, working with t",
+     "source": "OilPrice",
+     "zh": "White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6"
+    },
+    {
+     "title": "Green GSM Taxi Service Now Available in Los Angeles",
+     "link": "https://cleantechnica.com/2026/10/14/green-gsm-taxi-service-now-available-in-los-angeles/",
+     "pubDate": "Wed, 14 Oct 2026 21:49:15 +0000",
+     "summary": "PUBLIC transportation company Green SM has entered North America with the official launch of an all-electric taxi service in Los Angeles, California. The move turns the United States into the ninth market for the Vietnamese transport provider. The platform operates entirely on VinFast battery-electr",
+     "source": "CleanTechnica",
+     "zh": "Green GSM Taxi Service Now Available in Los Angeles"
+    },
+    {
      "title": "US Crude Oil Inventories See Massive Drop Off",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-See-Massive-Drop-Off.html",
      "pubDate": "Wed, 14 Oct 2026 16:43:47 -0500",
@@ -903,14 +919,6 @@
      "summary": "For years, I have been writing that the insurance industry will strongly influence the climate change debate, because its mission it to identify risks and price its policies accordingly. You can’t build a new 80 story tower stuffed with luxury condominiums on the edge of an ocean if you can’t ... [c",
      "source": "CleanTechnica",
      "zh": "Insurance Industry Is Throwing Its Customers Under The Bus"
-    },
-    {
-     "title": "Houthis Vow More Attacks After Strike on Aramco Headquarters",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Vow-More-Attacks-After-Strike-on-Aramco-Headquarters.html",
-     "pubDate": "Wed, 14 Oct 2026 12:30:00 -0500",
-     "summary": "Yemen's Houthis said Wednesday they will resume attacks on Saudi airports and oil facilities \"in the coming days,\" after Saudi authorities reported a limited fire at Aramco's office complex in Dhahran during a Houthi missile attack Tuesday night. The Houthis claimed strikes on Aramco facilities in D",
-     "source": "OilPrice",
-     "zh": "Houthis Vow More Attacks After Strike on Aramco Headquarters"
     },
     {
      "title": "Another Sign That Gasmobiles Are Toast: Honda Adds Muscle To The Wireless EV Charging Movement",
@@ -967,14 +975,6 @@
      "summary": "Britain’s bus reforms are usually discussed as a privatization story. Outside London, the 1980s reforms deregulated local bus markets and gave commercial operators far more freedom over routes and timetables. London kept public control of the passenger network while private companies competed to ope",
      "source": "CleanTechnica",
      "zh": "Bus Electrification Turns Governance Into Infrastructure"
-    },
-    {
-     "title": "The People Speak: We Want Energy Storage, Not Data Centers",
-     "link": "https://cleantechnica.com/2026/10/14/energy-storage-sunrun-distributed-us-rooftop-solar/",
-     "pubDate": "Wed, 14 Oct 2026 14:22:09 +0000",
-     "summary": "The leading US rooftop solar firm Sunrun has made a sharp pivot into the energy storage field, enabling more households to participate in money-saving virtual power plants whether or not they have rooftop solar panels. The post The People Speak: We Want Energy Storage, Not Data Centers appeared firs",
-     "source": "CleanTechnica",
-     "zh": "The People Speak: We Want Energy Storage, Not Data Centers"
     },
     {
      "title": "Battery-powered trains coming to Chicago: a first look",
@@ -1777,6 +1777,14 @@
    "total": 18,
    "items": [
     {
+     "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+     "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+     "pubDate": "Wed, 14 Oct 2026 22:00:00 +0000",
+     "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+     "source": "TechCrunch",
+     "zh": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes"
+    },
+    {
      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
      "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
      "pubDate": "Wed, 14 Oct 2026 21:48:20 +0000",
@@ -1804,7 +1812,7 @@
      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
      "link": "https://typesafe.ai/blog/jev-1-14",
      "pubDate": "Wed, 14 Oct 2026 21:11:03 +0000",
-     "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 29 # Comments: 11",
+     "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 65 # Comments: 22",
      "source": "Hacker News",
      "zh": "We’re releasing Jev 1.14.0 along with experimental features for dreamers"
     },
@@ -1828,7 +1836,7 @@
      "title": "OpenCode 2.0",
      "link": "https://anoma.ly/notes/opencode-2-0/",
      "pubDate": "Wed, 14 Oct 2026 20:48:24 +0000",
-     "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 58 # Comments: 13",
+     "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 103 # Comments: 29",
      "source": "Hacker News",
      "zh": "OpenCode 2.0"
     },
@@ -1852,7 +1860,7 @@
      "title": "Anthropic's Scion is heavily inspired by Mononoke",
      "link": "https://sunshowers.io/posts/anthropic-mononoke/",
      "pubDate": "Wed, 14 Oct 2026 20:30:54 +0000",
-     "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 130 # Comments: 31",
+     "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 155 # Comments: 49",
      "source": "Hacker News",
      "zh": "Anthropic's Scion is heavily inspired by Mononoke"
     },
@@ -1860,7 +1868,7 @@
      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
      "link": "https://blog.cloudflare.com/yandex-outage/",
      "pubDate": "Wed, 14 Oct 2026 20:29:13 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 104 # Comments: 36",
+     "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 132 # Comments: 44",
      "source": "Hacker News",
      "zh": "Yandex outage: data shows that instead of going dark, malicious bots moved"
     },
@@ -1897,14 +1905,6 @@
      "zh": "GitHub availability report: September 2026"
     },
     {
-     "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
-     "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-     "pubDate": "Wed, 14 Oct 2026 20:00:00 +0000",
-     "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
-     "source": "TechCrunch",
-     "zh": "TimeTeller puts our internal clocks at the center of personalized medicine"
-    },
-    {
      "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
      "link": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
      "pubDate": "Wed, 14 Oct 2026 19:53:01 +0000",
@@ -1924,7 +1924,7 @@
      "title": "Fancy Curl Sites",
      "link": "https://nytpu.com/gemlog/2026-03-18",
      "pubDate": "Wed, 14 Oct 2026 19:29:12 +0000",
-     "summary": "Article URL: https://nytpu.com/gemlog/2026-03-18 Comments URL: https://news.ycombinator.com/item?id=50093612 Points: 35 # Comments: 9",
+     "summary": "Article URL: https://nytpu.com/gemlog/2026-03-18 Comments URL: https://news.ycombinator.com/item?id=50093612 Points: 43 # Comments: 10",
      "source": "Hacker News",
      "zh": "Fancy Curl Sites"
     },
@@ -1932,7 +1932,7 @@
      "title": "Things to know when you get cancer – 2026 Edition",
      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
      "pubDate": "Wed, 14 Oct 2026 19:26:30 +0000",
-     "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 387 # Comments: 83",
+     "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 461 # Comments: 111",
      "source": "Hacker News",
      "zh": "Things to know when you get cancer – 2026 Edition"
     },
@@ -2024,6 +2024,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "YouTube begins rolling out GIF support for comments very slowly; it’s for a reason",
+     "link": "https://9to5google.com/2026/10/14/youtube-begins-rolling-out-gif-support/",
+     "pubDate": "Wed, 14 Oct 2026 22:06:45 +0000",
+     "summary": "It’s been less than a month since YouTube said it planned to let users post GIFs in the comments section. The time has come, and this is just the beginning of a gradual rollout. more…",
+     "source": "9to5Google",
+     "zh": "YouTube begins rolling out GIF support for comments very slowly; it’s for a reason"
+    },
+    {
+     "title": "Google Home app gets local Matter control over Philips Hue lights",
+     "link": "https://9to5google.com/2026/10/14/google-home-app-gets-local-matter-control-over-philips-hue-lights/",
+     "pubDate": "Wed, 14 Oct 2026 22:05:00 +0000",
+     "summary": "The latest Google Home app is improving support for local network control over Matter devices, including Philips Hue lights. more…",
+     "source": "9to5Google",
+     "zh": "Google Home app gets local Matter control over Philips Hue lights"
+    },
     {
      "title": "Apple just closed the day above $5 trillion for the first time",
      "link": "https://9to5mac.com/2026/10/14/apple-just-closed-the-day-above-5-trillion-for-the-first-time/",
@@ -2201,14 +2217,6 @@
      "zh": "Hate AI songs? YouTube Music will now label tracks so you can avoid them"
     },
     {
-     "title": "Mid-week Android app deals and freebies: Lia, Star Wars, Florescue, more",
-     "link": "https://9to5toys.com/2026/10/14/todays-highlight-google-play-deals-28/",
-     "pubDate": "Wed, 14 Oct 2026 19:01:07 +0000",
-     "summary": "Your mid-week Google Play app and game deals are ready, including Lia: Hacking Destiny, STAR WARS: KOTOR II, Meridian 157: Chapter 1, Florescue, Mini Restaurant Premium, INKS, and more. Just be sure to dive into these Pixel Watch 5 deals and one of the best prices to date on Anker’s all-new Nano 10-",
-     "source": "9to5Google",
-     "zh": "Mid-week Android app deals and freebies: Lia, Star Wars, Florescue, more"
-    },
-    {
      "title": "This year’s winners of AOP’s Emerging Talent Award are photographers to watch",
      "link": "https://www.dpreview.com/photography/this-years-winners-of-aops-emerging-talent-award-are-photographers-to-watch/",
      "pubDate": "Wed, 14 Oct 2026 19:00:00 +0000",
@@ -2249,14 +2257,6 @@
      "zh": "This NETGEAR Nighthawk Wi-Fi 7 router just dropped to $149.88 on Amazon"
     },
     {
-     "title": "You can now join a WhatsApp call without an account",
-     "link": "https://9to5google.com/2026/10/14/you-can-now-join-a-whatsapp-call-without-an-account/",
-     "pubDate": "Wed, 14 Oct 2026 17:25:00 +0000",
-     "summary": "WhatsApp is making it easier to makes calls with everyone by introducing the ability for non-WhatsApp users to join a call without needing an account. more…",
-     "source": "9to5Google",
-     "zh": "You can now join a WhatsApp call without an account"
-    },
-    {
      "title": "Samsung Galaxy A58's camera details surface, and they are nothing to get excited about",
      "link": "https://www.gsmarena.com/samsung_galaxy_a58_camera_specs_surface-news-75041.php",
      "pubDate": "Wed, 14 Oct 2026 19:01:02 +0200",
@@ -2272,6 +2272,126 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "标普500终结逾六年来最长平静期，53个交易日来首次跌超1%，AI交易退潮",
+     "link": "https://wallstreetcn.com/articles/3783648",
+     "pubDate": "Thu, 15 Oct 2026 06:08:11 +0800",
+     "summary": "美股最长平静期落幕，科技巨头领跌，市场同时承压于通胀与信用风险。 标普500指数周三下跌1.1%，终结了自2020年1月以来持续53个交易日无单日跌幅超1%的最长平静纪录。此次下跌由两大因素共同驱动： 美国9月CPI涨幅超预期 ，以及市场对AI交易可持续性的疑虑持续升温。 科技板块首当其冲。纳斯达克100指数单日重挫2%，创7月以来最大单日跌幅；追踪\"科技七巨头\"的Magnificent Seven指数跌幅相近。半导体股指连跌第六日，累计跌幅扩大至近12%。 与此同时，AI云计算服务商 CoreWeave的公司债遭遇抛售 ，其2032年到期无担保债券成交价跌至面值80美分以下——通常被视为借款",
+     "source": "华尔街见闻",
+     "zh": "标普500终结逾六年来最长平静期，53个交易日来首次跌超1%，AI交易退潮"
+    },
+    {
+     "title": "U.S. crude stockpiles fell 11.1M barrels last week, API says",
+     "link": "https://seekingalpha.com/news/4653214-u-s-crude-stockpiles-fell-11_1m-barrels-last-week-api-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 18:05:10 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "U.S. crude stockpiles fell 11.1M barrels last week, API says"
+    },
+    {
+     "title": "黄仁勋：对开发不安全AI软件的客户断供芯片，AI基础设施短缺将持续数年",
+     "link": "https://wallstreetcn.com/articles/3783650",
+     "pubDate": "Thu, 15 Oct 2026 06:03:24 +0800",
+     "summary": "英伟达首席执行官黄仁勋表示，若有客户开发不安全的AI软件，他将停止向其供应芯片，但同时强调，目前市场对AI安全风险的担忧程度超出实际情况，AI泡沫论同样言过其实。 黄仁勋是在伦敦接受彭博专访时作出上述表态的。他正在欧洲巡访，为公司即将在柏林举办的活动造势。他表示，在切断供应之前会先与相关客户沟通，并指出英伟达的技术属于通用技术，公司在评判他人使用方式时存在边界。 与此同时，英伟达宣布将在五年内向英国AI安全研究捐助2.5亿美元，以实际行动表明对该议题的承诺。 周三，英伟达与其他芯片股大跌，黄仁勋重申对AI基础设施需求的乐观判断，称供需失衡状态将持续数年。\"供需最终会趋于平衡，但绝不是今天。\"他",
+     "source": "华尔街见闻",
+     "zh": "黄仁勋：对开发不安全AI软件的客户断供芯片，AI基础设施短缺将持续数年"
+    },
+    {
+     "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+     "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 22:03:00 GMT",
+     "summary": "CoreWeave’s bonds issued a few months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
+     "source": "MarketWatch",
+     "zh": "CoreWeave’s AI bonds tumble, raising red flags for the wider market"
+    },
+    {
+     "title": "Fiera Capital sees Q3 AUM fall 7.4% Q/Q, 9.3% Y/Y",
+     "link": "https://seekingalpha.com/news/4653216-fiera-capital-sees-q3-aum-fall-7_4-percent-q-q-9_3-percent-y-y?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 18:00:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fiera Capital sees Q3 AUM fall 7.4% Q/Q, 9.3% Y/Y"
+    },
+    {
+     "title": "Here are the major earnings before the open Thursday",
+     "link": "https://seekingalpha.com/news/4652645-here-are-the-major-earnings-before-the-open-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 18:00:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Here are the major earnings before the open Thursday"
+    },
+    {
+     "title": "埃及总统塞西：只要我们的边境和平安全，我们与以色列就保持着和平条约",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895894966.html",
+     "pubDate": "Thu, 15 Oct 2026 05:56:57 +0800",
+     "summary": "埃及总统塞西：只要我们的边境和平安全，我们与以色列就保持着和平条约，我们对他们或他们的领土没有任何野心。海湾国家的国家安全也是埃及国家安全的一部分。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "埃及总统塞西：只要我们的边境和平安全，我们与以色列就保持着和平条约"
+    },
+    {
+     "title": "巴克莱：特斯拉-SpaceX合并消息可能在年度股东大会前公布",
+     "link": "http://finance.eastmoney.com/news/1351,202610153895894879.html",
+     "pubDate": "Thu, 15 Oct 2026 05:56:32 +0800",
+     "summary": "巴克莱 分析师表示，市场参与者目前普遍预计 特斯拉 将与 SpaceX 合并，相关消息可能会在 特斯拉 年度股东大会(AGM)之前公布。分析师Dan Levy等人预计，2026年年度股东大会最迟将于12月6日举行。Levy补充称，合并的理由将是实现垂直整合，并能够加快埃隆·马斯克旗下两家公司在 人工智能 (AI)领域的发展机会。“虽然 特斯拉 / SpaceX 合并消息的公布时间可能会推迟到10月晚些时候，甚至可能推迟到11月初，但我们认为，届时要让合并案在年度股东大会上获得批准，难度可能会越来越大。” （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "巴克莱：特斯拉-SpaceX合并消息可能在年度股东大会前公布"
+    },
+    {
+     "title": "Lockheed Martin plans 6K U.S. jobs in $300M Texas expansion",
+     "link": "https://seekingalpha.com/news/4653212-lockheed-martin-plans-6k-us-jobs-in-300m-texas-expansion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 17:56:28 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lockheed Martin plans 6K U.S. jobs in $300M Texas expansion"
+    },
+    {
+     "title": "Azz raises fiscal 2027 outlook to $1.825B-$1.875B sales and $7-$7.30 adjusted EPS following record Q2",
+     "link": "https://seekingalpha.com/news/4653215-azz-raises-fiscal-2027-outlook-to-1_825b-1_875b-sales-and-7-7_30-adjusted-eps-following?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 17:56:25 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Azz raises fiscal 2027 outlook to $1.825B-$1.875B sales and $7-$7.30 adjusted EPS following record Q2"
+    },
+    {
+     "title": "国际贵金属价格大幅收跌，现货黄金跌1.33%",
+     "link": "http://finance.eastmoney.com/news/1361,202610153895894724.html",
+     "pubDate": "Thu, 15 Oct 2026 05:55:27 +0800",
+     "summary": "当地时间10月14日，国际 贵金属 价格大幅收跌，现货 黄金 跌1.33%，报4105.2美元/盎司；现货 白银 跌5.99%，报55.61美元/盎司。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "国际贵金属价格大幅收跌，现货黄金跌1.33%"
+    },
+    {
+     "title": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast",
+     "link": "https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
+     "pubDate": "Wed, 14 Oct 2026 21:54:00 GMT",
+     "summary": "Buckle up: Small-cap stocks just hit a market milestone they’d rather avoid.",
+     "source": "MarketWatch",
+     "zh": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast"
+    },
+    {
+     "title": "前三季度进出口增速创五年同期最高 我国外贸更加平衡协调",
+     "link": "http://finance.eastmoney.com/news/1352,202610153895892834.html",
+     "pubDate": "Thu, 15 Oct 2026 05:50:43 +0800",
+     "summary": "本报北京10月14日讯（记者冯其予）海关总署数据显示，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%，增速为近5年同期最高。其中，出口23.2万亿元，增长16.4%，进口16.74万亿元，增长22.3%。进口增速高于出口5.9个百分点，对外贸易更加平衡协调。 在国新办14日举行的新闻发布会上，海关总署新闻发言人、副署长王军表示，前三季度我国外贸有效应对各种外部冲击挑战，保持了良好发展势头。尽管当前国际形势变乱交织，各种风险挑战层出不穷，但我国外贸发展的动力和活力积聚增强、韧性彰显，四季度进出口持续增长有基础、有支撑。 进出口持续快速增长。从季度数据看，一季度我国进出口增长",
+     "source": "东方财富股票",
+     "zh": "前三季度进出口增速创五年同期最高 我国外贸更加平衡协调"
+    },
+    {
+     "title": "国际油价波动叠加人工智能投资热潮—— 9月份物价涨幅略有扩大",
+     "link": "http://fund.eastmoney.com/news/11383,202610153895893018.html",
+     "pubDate": "Thu, 15 Oct 2026 05:50:43 +0800",
+     "summary": "国家统计局发布的数据显示，9月份，居民消费价格指数（CPI）同比上涨0.9%，涨幅比上月扩大0.1个百分点；扣除食品和能源价格的核心CPI同比上涨1.0%，涨幅与上月相同。今年前三季度，CPI同比上涨0.9%。 具体来看，9月份汽油价格同比上涨16.6%，涨幅扩大7.3个百分点，影响CPI同比上涨约0.47个百分点，带动能源价格涨幅由上月的4.1%扩大至本月的7.3%。扣除能源的工业消费品价格上涨1.6%。其中，数据存储设备、平板电脑、 计算机 和移动电话机价格分别上涨46.7%、23.6%、21.8%和14.9%，涨幅均有扩大，合计影响CPI同比上涨约0.23个百分点。服务价格上涨0.8%，",
+     "source": "东方财富股票",
+     "zh": "国际油价波动叠加人工智能投资热潮—— 9月份物价涨幅略有扩大"
+    },
+    {
+     "title": "AI替代不了“手搓”的分量",
+     "link": "http://finance.eastmoney.com/news/1348,202610153895894096.html",
+     "pubDate": "Thu, 15 Oct 2026 05:50:42 +0800",
+     "summary": "不久前，在上海举办的第48届世界技能大赛上，各行各业技能人才围绕64个竞赛项目同台比拼，娴熟、精准、流畅的操作令人叹服。赛场外，一个问题引人深思：在 人工智能 飞速发展，重复性、标准化岗位正被智能设备与算法程序替代的今天，我们为何还需要这些“手搓”出来的技能？答案，恰恰藏在“手搓”二字的分量里。 人工智能 无疑是一位“超级助手”。不少设计公司引入AI辅助设计，能让设计效率提升几十倍乃至上百倍。但AI始终存在清晰边界，人的价值永远无法被简单替代。从最初的灵感构思，到敲定产品细节、把控品质，主导一头一尾两个关键环节的，仍是设计师本人。世赛赛场也同样证明：智能工具可以提供辅助，但精细塑形、火候把控、",
+     "source": "东方财富股票",
+     "zh": "AI替代不了“手搓”的分量"
+    },
     {
      "title": "Bank of America expects 2027 NII to rise 8% or more as it embeds $1.2B regulatory settlement costs",
      "link": "https://seekingalpha.com/news/4653213-bank-of-america-expects-2027-nii-to-rise-8-percent-or-more-as-it-embeds-1_2b-regulatory?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2289,78 +2409,6 @@
      "zh": "苹果中国版AI定档12月上线"
     },
     {
-     "title": "Gold and silver sink as U.S. inflation data tops expectations, boosting Fed rate hike bets",
-     "link": "https://seekingalpha.com/news/4653193-gold-and-silver-sink-as-us-inflation-data-tops-expectations-boosting-fed-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:45:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gold and silver sink as U.S. inflation data tops expectations, boosting Fed rate hike bets"
-    },
-    {
-     "title": "Regeneron a new Buy at UBS as Street undervalues Dupixent's future",
-     "link": "https://seekingalpha.com/news/4653206-regeneron-new-buy-ubs-street-undervaluing-dupixent-future?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:42:05 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Regeneron a new Buy at UBS as Street undervalues Dupixent's future"
-    },
-    {
-     "title": "Fairfax named strategic buyer for 60.72% stake in India's IDBI Bank",
-     "link": "https://seekingalpha.com/news/4653208-fairfax-named-strategic-buyer-for-6072-stake-in-idbi-bank?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:40:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Fairfax named strategic buyer for 60.72% stake in India's IDBI Bank"
-    },
-    {
-     "title": "美联储戴利：大概率还需要进一步加息，但仍在斟酌加息时机",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895890626.html",
-     "pubDate": "Thu, 15 Oct 2026 05:40:55 +0800",
-     "summary": "美联储戴利：大概率还需要进一步加息，但仍在斟酌加息时机。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美联储戴利：大概率还需要进一步加息，但仍在斟酌加息时机"
-    },
-    {
-     "title": "美联储戴利：目前不存在紧急施策的紧迫性，最好花时间深思熟虑、审慎行事",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895890466.html",
-     "pubDate": "Thu, 15 Oct 2026 05:40:54 +0800",
-     "summary": "美联储戴利：目前不存在紧急施策的紧迫性，最好花时间深思熟虑、审慎行事。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美联储戴利：目前不存在紧急施策的紧迫性，最好花时间深思熟虑、审慎行事"
-    },
-    {
-     "title": "美联储戴利：市场在对 CPI 数据最初做出强烈反应之后趋于平稳，这一点令人安心",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895890386.html",
-     "pubDate": "Thu, 15 Oct 2026 05:40:54 +0800",
-     "summary": "美联储戴利：市场在对 CPI 数据最初做出强烈反应之后趋于平稳，这一点令人安心。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美联储戴利：市场在对 CPI 数据最初做出强烈反应之后趋于平稳，这一点令人安心"
-    },
-    {
-     "title": "美联储戴利：CPI 数据显示，汽油价格推升整体通胀，核心通胀一如预期，具备粘性",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895890222.html",
-     "pubDate": "Thu, 15 Oct 2026 05:40:53 +0800",
-     "summary": "美联储戴利：CPI 数据显示，汽油价格推升整体通胀，核心通胀一如预期，具备粘性。市场理解美联储的政策应对逻辑。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美联储戴利：CPI 数据显示，汽油价格推升整体通胀，核心通胀一如预期，具备粘性"
-    },
-    {
-     "title": "美联储戴利：尚有充足时间审慎决策，此时仓促行动并不明智",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895890179.html",
-     "pubDate": "Thu, 15 Oct 2026 05:40:53 +0800",
-     "summary": "美联储戴利：尚有充足时间审慎决策，此时仓促行动并不明智。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美联储戴利：尚有充足时间审慎决策，此时仓促行动并不明智"
-    },
-    {
-     "title": "美联储戴利：目前尚不清楚，冲击消退后通胀是否会回落；若冲击持续，通胀则可能进一步恶化",
-     "link": "http://finance.eastmoney.com/news/1351,202610153895890098.html",
-     "pubDate": "Thu, 15 Oct 2026 05:40:52 +0800",
-     "summary": "美联储戴利：目前尚不清楚，冲击消退后通胀是否会回落；若冲击持续，通胀则可能进一步恶化。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美联储戴利：目前尚不清楚，冲击消退后通胀是否会回落；若冲击持续，通胀则可能进一步恶化"
-    },
-    {
      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
      "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
      "pubDate": "Wed, 14 Oct 2026 21:40:00 GMT",
@@ -2369,20 +2417,12 @@
      "zh": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine"
     },
     {
-     "title": "J.B. Hunt Transport Services Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4653095-j-b-hunt-transport-services-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:35:57 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "J.B. Hunt Transport Services Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "Interactive Brokers Group Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4653094-interactive-brokers-group-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 17:35:47 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Interactive Brokers Group Q3 2026 Earnings Preview"
+     "title": "Ukraine blindsided by Starlink restrictions and intelligence gaps",
+     "link": "https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1",
+     "pubDate": "Wed, 14 Oct 2026 21:37:16 GMT",
+     "summary": "Moscow ignores Donald Trump’s ‘energy ceasefire’ while Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network",
+     "source": "Financial Times",
+     "zh": "Ukraine blindsided by Starlink restrictions and intelligence gaps"
     },
     {
      "title": "The COLA wars are coming for Social Security",
@@ -2399,14 +2439,6 @@
      "summary": "\"Like countless Americans, Mr. Alfozan came to this country years ago as a young person with a dream,\" his criminal defense lawyer said Wednesday.",
      "source": "CNBC",
      "zh": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest"
-    },
-    {
-     "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
-     "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 21:18:00 GMT",
-     "summary": "CoreWeave’s bonds issued six months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
-     "source": "MarketWatch",
-     "zh": "CoreWeave’s AI bonds tumble, raising red flags for the wider market"
     },
     {
      "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
@@ -2473,44 +2505,12 @@
      "zh": "US chip stocks slide as inflation and AI debt fears unsettle investors"
     },
     {
-     "title": "Why Dell’s stock was one of the S&P 500’s biggest laggards on Wednesday",
-     "link": "https://www.marketwatch.com/story/why-dells-stock-was-one-of-the-s-p-500s-biggest-laggards-on-wednesday-70ce279e?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 20:21:00 GMT",
-     "summary": "An analyst sees limited room for Dell and HPE shares to continue climbing, as dynamics could shift within the market for memory components.",
-     "source": "MarketWatch",
-     "zh": "Why Dell’s stock was one of the S&P 500’s biggest laggards on Wednesday"
-    },
-    {
      "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about &apos;enterprise AI timing&apos;",
      "link": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
      "pubDate": "Wed, 14 Oct 2026 20:19:25 GMT",
      "summary": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
      "source": "CNBC",
      "zh": "Dell stock plunges 11%, leading data center sell-off as fears mount about &apos;enterprise AI timing&apos;"
-    },
-    {
-     "title": "US inflation jumps to 3.7% as Iran war drives up prices",
-     "link": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
-     "pubDate": "Wed, 14 Oct 2026 20:06:12 GMT",
-     "summary": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
-     "source": "Financial Times",
-     "zh": "US inflation jumps to 3.7% as Iran war drives up prices"
-    },
-    {
-     "title": "美股三大指数集体收跌 纳指跌近2% 存储、半导体板块大跌",
-     "link": "http://finance.eastmoney.com/news/1345,202610143895720794.html",
-     "pubDate": "Thu, 15 Oct 2026 04:00:16 +0800",
-     "summary": "美东时间周三，美股三大指数集体收跌，截止收盘，道指跌0.09%，纳指跌1.88%，标普500指数跌1.1%。 热门科技股普跌，存储、 半导体 板块纷纷走低，费城 半导体 指数收跌4.3%，芯片股指数六连跌，创2025年5月以来最长下跌纪录。 SK海力士 跌超6%， 闪迪 跌超5%， 希捷科技 、 西部数据 、 美光科技 跌超4%， 英伟达 、 博通 、Meta跌超3%， 特斯拉 跌超2%，谷歌、 微软 、 亚马逊 均跌超1%。AI云服务商Coreweave大跌超15%。 贵金属 、 计算机 硬件、加密矿企跌幅居前， 戴尔科技 跌超11%， 美国黄金 公司、 昆腾 跌超10%， 超微电脑 跌超8",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体收跌 纳指跌近2% 存储、半导体板块大跌"
-    },
-    {
-     "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-     "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-     "pubDate": "Wed, 14 Oct 2026 19:22:00 GMT",
-     "summary": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
-     "source": "CNBC",
-     "zh": "Container ship sinks in Strait of Hormuz as Iran steps up attacks"
     }
    ]
   },

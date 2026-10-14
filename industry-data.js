@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/14 18:31:56",
+ "generated_at": "2026/10/14 18:42:04",
  "recent_days": 7,
  "industries": [
   {
@@ -362,6 +362,54 @@ window.INDUSTRY_DATA = {
      "zh": "Blog Review: Oct. 14"
     },
     {
+     "title": "Qualcomm wins Arm case – awarded $2 in damages",
+     "link": "https://www.electronicsweekly.com/news/business/qualcomm-wins-arm-case-awarded-2-in-damages-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 05:16:58 +0000",
+     "summary": "The jury in the Qualcomm vs Arm case found Arm in breach of its architectural license agreement (ALA) with Qualcomm, and awarded Qualcomm $2 in nominal damages. The jury concluded that […] The post Qualcomm wins Arm case – awarded $2 in damages appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Qualcomm wins Arm case – awarded $2 in damages"
+    },
+    {
+     "title": "UK tech companies raise $25.7bn this year",
+     "link": "https://www.electronicsweekly.com/news/business/uk-tech-has-raised-25-7bn-this-year-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 05:12:57 +0000",
+     "summary": "UK Tech companies raised $25.7 billion in the first nine months of 2026, up 88% from $13.7 billion in 9M 2025, across 816 rounds, down 17% from 984, according to […] The post UK tech companies raise $25.7bn this year appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "UK tech companies raise $25.7bn this year"
+    },
+    {
+     "title": "This time it’s different",
+     "link": "https://www.electronicsweekly.com/news/business/this-time-its-different-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 05:11:09 +0000",
+     "summary": "The overall chip market continues to show treble-digit monthly annualised growth rates, more than twice as large as the industry’s two previous record highs in June 2000 (59.3 percent) and […] The post This time it’s different appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "This time it’s different"
+    },
+    {
+     "title": "Apple bids for home electronics market",
+     "link": "https://www.electronicsweekly.com/news/business/apple-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 05:09:23 +0000",
+     "summary": "Apple made a statement yesterday that it is still in the home electronics market. It launched a new $200 HomePod smart speaker (pictured above) and a $299 HomeView hub (pictured […] The post Apple bids for home electronics market appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Apple bids for home electronics market"
+    },
+    {
+     "title": "Software translates test patterns and applies them to interfaces and protocols",
+     "link": "https://www.electronicsweekly.com/news/business/software-translates-test-patterns-and-applies-them-to-interfaces-and-protocols-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 05:02:39 +0000",
+     "summary": "Siemens’ Tessent Silicon Executable software is designed to translate test patterns and apply them directly onto high-speed interfaces and protocols. Test provider partners will embed the Tessent software within automated […] The post Software translates test patterns and applies them to interfaces ",
+     "source": "Electronics Weekly",
+     "zh": "Software translates test patterns and applies them to interfaces and protocols"
+    },
+    {
+     "title": "Top Ten IP Semiconductor Suppliers",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-ip-semiconductor-suppliers-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 00:01:41 +0000",
+     "summary": "Thanks to IPNest for this one – the top ten semiconductor IP vendors: Arm. Synopsys Cadence . Alphawave Semi Imagination Technologies Rambus VeriSilicon CEva Arteris Silicon Creations The post Top Ten IP Semiconductor Suppliers appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Top Ten IP Semiconductor Suppliers"
+    },
+    {
      "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
      "link": "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/",
      "pubDate": "Tue, 13 Oct 2026 22:00:00 +0000",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Low-volume production sits between research and mass manufacturing. Europe needs an industrial model to fill the gap. The post Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Europe’s Advanced Packaging Gap: Fraunhofer, Swissbit Target the Missing Middle"
-    },
-    {
-     "title": "CTO Interview with Dr. Zakir Syed of ClockEdge",
-     "link": "https://semiwiki.com/eda/clockedge/374633-cto-interview-with-dr-zakir-syed-of-clockedge/",
-     "pubDate": "Mon, 12 Oct 2026 19:00:28 +0000",
-     "summary": "Dr. Zakir Syed is Co-founder and Chief Technology Officer of ClockEdge, where he has played a central role in developing specialized simulation technology for advanced semiconductor clock networks. He brings more than 30 years of experience in electronic design automation and semiconductor verificat",
-     "source": "SemiWiki",
-     "zh": "CTO Interview with Dr. Zakir Syed of ClockEdge"
-    },
-    {
-     "title": "Applied Materials Bets $5B on a New Model for Chip Innovation",
-     "link": "https://www.eetimes.com/applied-materials-bets-5b-on-a-new-model-for-chip-innovation/",
-     "pubDate": "Mon, 12 Oct 2026 16:59:01 +0000",
-     "summary": "Applied Materials’ $5 billion EPIC Center brings chipmakers, equipment suppliers, and researchers together to accelerate semiconductor R&D and commercialization. The post Applied Materials Bets $5B on a New Model for Chip Innovation appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Applied Materials Bets $5B on a New Model for Chip Innovation"
-    },
-    {
-     "title": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/cmlmicro-091026.shtml",
-     "pubDate": "Fri, 9 Oct 2026 08:59:05 +0100",
-     "summary": "CML Microsystems Plc of Maldon, UK — a designer and fabless manufacturer of mixed-signal, RF and microwave semiconductors for communications applications — has launched the CMX90A002, a compact power amplifier for next-generation ISM-band radio designs...",
-     "source": "Semiconductor Today",
-     "zh": "CML Micro launches compact, flexible power amplifier for next-gen ISM-band radio designs"
-    },
-    {
-     "title": "Infineon launches 27kW three-phase PSU for AI server power architectures",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/infineon-081026.shtml",
-     "pubDate": "Thu, 8 Oct 2026 15:28:51 +0100",
-     "summary": "As artificial intelligence workloads are redefining the power requirements of modern data centers, increasing GPU performance and rising rack densities are driving a shift toward 800VDC or ±400VDC power supply architectures. To address these requirements, Infineon Technologies AG of Munich, Germany ",
-     "source": "Semiconductor Today",
-     "zh": "Infineon launches 27kW three-phase PSU for AI server power architectures"
-    },
-    {
-     "title": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/wolfspeed-081026.shtml",
-     "pubDate": "Thu, 8 Oct 2026 10:27:41 +0100",
-     "summary": "Wolfspeed Inc of Durham, NC, USA — which makes silicon carbide (SiC) materials and power semiconductor devices — has received a conditional loan commitment letter from the US Department of War (DoW), through its Office of Strategic Capital (OSC), for up to $1.5bn of long-term (30-year) financing to ",
-     "source": "Semiconductor Today",
-     "zh": "Wolfspeed receives conditional $1.5bn loan commitment from US Department of War"
-    },
-    {
-     "title": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/photondesign-071026.shtml",
-     "pubDate": "Wed, 7 Oct 2026 21:08:11 +0100",
-     "summary": "Photonic simulation CAD software developer Photon Design Ltd of Oxford, UK has enhanced the performance of its recently released HAROLD QD 3D quantum dot simulation tool...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Design halves runtime and improves precision in HAROLD QD quantum dot laser simulator"
     }
    ]
   },
@@ -858,6 +858,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Mercedes-Benz launches bidirectional charging in Germany",
+     "link": "https://www.pv-magazine.com/2026/10/14/mercedes-benz-launches-bidirectional-charging-in-germany/",
+     "pubDate": "Wed, 14 Oct 2026 10:32:29 +0000",
+     "summary": "Mercedes-Benz has launched a bidirectional charging service in Germany, allowing EV owners to earn payments by supplying power to the grid. The offering initially targets households without rooftop PV systems, with plans to expand to more vehicle models and markets. The post Mercedes-Benz launches b",
+     "source": "pv magazine",
+     "zh": "Mercedes-Benz launches bidirectional charging in Germany"
+    },
+    {
+     "title": "Trump Announces “Massive” Greenland Oil Exploration Plans",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Announces-Massive-Greenland-Oil-Exploration-Plans.html",
+     "pubDate": "Wed, 14 Oct 2026 05:30:00 -0500",
+     "summary": "“Massive” oil, gas, and minerals exploration will soon begin in Greenland, U.S. President Donald Trump said on Wednesday, claiming that the territory has enormous resources of readily available oil. Last month, the United States, Denmark, and Greenland signed an agreement to strengthen defense and s",
+     "source": "OilPrice",
+     "zh": "Trump Announces “Massive” Greenland Oil Exploration Plans"
+    },
+    {
      "title": "India’s solar generation rises 39% in Q2—CREA",
      "link": "https://www.pv-tech.org/indias-solar-generation-rises-39-in-q2-crea/",
      "pubDate": "Wed, 14 Oct 2026 10:24:42 +0000",
@@ -954,14 +970,6 @@ window.INDUSTRY_DATA = {
      "zh": "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S."
     },
     {
-     "title": "EVX unveils Australian-made DC fast charger for EVs",
-     "link": "https://www.pv-magazine.com/2026/10/14/evx-unveils-australian-made-dc-fast-charger-for-evs/",
-     "pubDate": "Wed, 14 Oct 2026 06:00:06 +0000",
-     "summary": "Australian electric vehicle infrastructure company EVX is expanding into locally manufactured DC fast-charging technology, unveiling plans to launch a new 40–50 kW pole-mounted charger early next year. The post EVX unveils Australian-made DC fast charger for EVs appeared first on pv magazine Global ",
-     "source": "pv magazine",
-     "zh": "EVX unveils Australian-made DC fast charger for EVs"
-    },
-    {
      "title": "Europe’s battery market isn’t ready for second-life BESS business models yet",
      "link": "https://www.energy-storage.news/europes-battery-market-isnt-ready-for-second-life-bess-business-models-yet/",
      "pubDate": "Wed, 14 Oct 2026 05:37:28 +0000",
@@ -1048,14 +1056,6 @@ window.INDUSTRY_DATA = {
      "summary": "The U.S. Consumer Price Index (CPI) report is due to be released on Wednesday, with economists predicting that key inflation metrics continued to moderate in September despite elevated oil prices, giving the Fed room to slow down on interest rate hikes. For September, economists expect headline infl",
      "source": "OilPrice",
      "zh": "Wall Street Sees Inflation Easing Even With Oil Above $90"
-    },
-    {
-     "title": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
-     "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Leave-Heavy-Crude-Stranded-in-the-Americas.html",
-     "pubDate": "Tue, 13 Oct 2026 18:00:00 -0500",
-     "summary": "The Middle East crisis has driven tanker rates to all-time highs and created a shortage of vessels. This oil logistics problem is now causing a ripple effect, tipping the heavy crude market in North and South America into oversupply—while Asia and Europe grapple with a shortage of heavy grades. Cana",
-     "source": "OilPrice",
-     "zh": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas"
     },
     {
      "title": "Heliene completes third consecutive annual 45X tax credit transfer",
@@ -1354,20 +1354,20 @@ window.INDUSTRY_DATA = {
      "zh": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer"
     },
     {
-     "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
-     "link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
-     "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
-     "summary": "The sophomore season of \"Star Trek: Starfleet Academy\" will warp back to the small screen in March 2027 when the limited series returns for its final season on Paramount+.",
-     "source": "Space.com",
-     "zh": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier"
-    },
-    {
      "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
      "link": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
      "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
      "summary": "This iconic spaceship will now live long and prosper in its brand-new Star Trek Tour home.",
      "source": "Space.com",
      "zh": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York"
+    },
+    {
+     "title": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier",
+     "link": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
+     "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
+     "summary": "The sophomore season of \"Star Trek: Starfleet Academy\" will warp back to the small screen in March 2027 when the limited series returns for its final season on Paramount+.",
+     "source": "Space.com",
+     "zh": "'We basically did Top Gun in space': 'Star Trek Starfleet Academy' warps back into action in March 2027 for sophomore year in the final frontier"
     },
     {
      "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
@@ -1778,6 +1778,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "育碧计划关闭芬兰 RedLynx 工作室，新加坡工作室也面临大幅裁员",
+     "link": "https://www.ithome.com/1/013/055.htm",
+     "pubDate": "Wed, 14 Oct 2026 10:37:27 GMT",
+     "summary": "IT之家 10 月 14 日消息，据游戏媒体 Game Industry 今天报道，育碧计划关闭芬兰 RedLynx 工作室，新加坡工作室也将面临大规模裁员，此举旨在推进重组计划、削减成本。 育碧表示：“我们已经通知团队：公司拟关闭位于芬兰的 RedLynx 工作室。该计划需遵循当地协商程序，预计最多影响 52 个岗位。育碧新加坡工作室将削减 70 个岗位，使人员规模与未来项目制作相匹配。新加坡仍是育碧全球体系的重要部分，我们高度重视他们的贡献，也深知这一决定可能对同事们造成影响。我们承诺在整个过程中为团队提供支持，并以审慎、尊重的态度推进相关工作。” IT之家了解到，RedLynx 工作室于",
+     "source": "IT之家",
+     "zh": "育碧计划关闭芬兰 RedLynx 工作室，新加坡工作室也面临大幅裁员"
+    },
+    {
+     "title": "全家桶被大佬0元平替，Adobe霸道不起来了",
+     "link": "https://www.tmtpost.com/8168444.html",
+     "pubDate": "Wed, 14 Oct 2026 18:30:42 +0800",
+     "summary": "投资者更焦虑了。",
+     "source": "钛媒体",
+     "zh": "全家桶被大佬0元平替，Adobe霸道不起来了"
+    },
+    {
+     "title": "万元级人形机器人，只是“赛博玩具”？",
+     "link": "https://www.tmtpost.com/8168453.html",
+     "pubDate": "Wed, 14 Oct 2026 18:30:40 +0800",
+     "summary": "一张通往未来的门票",
+     "source": "钛媒体",
+     "zh": "万元级人形机器人，只是“赛博玩具”？"
+    },
+    {
+     "title": "康方生物折价配股：钱拿到了，股价却砸了",
+     "link": "https://www.tmtpost.com/8168521.html",
+     "pubDate": "Wed, 14 Oct 2026 18:30:39 +0800",
+     "summary": "还没等港股开盘，康方生物的投资者就遭遇“当头棒喝”。",
+     "source": "钛媒体",
+     "zh": "康方生物折价配股：钱拿到了，股价却砸了"
+    },
+    {
+     "title": "JackRabbit MG Cargo Bike Review (2026): Compact and Powerful",
+     "link": "https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle/",
+     "pubDate": "Wed, 14 Oct 2026 10:30:00 +0000",
+     "summary": "This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.",
+     "source": "WIRED",
+     "zh": "JackRabbit MG Cargo Bike Review (2026): Compact and Powerful"
+    },
+    {
+     "title": "The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA",
+     "link": "https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga/",
+     "pubDate": "Wed, 14 Oct 2026 10:30:00 +0000",
+     "summary": "A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.",
+     "source": "WIRED",
+     "zh": "The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA"
+    },
+    {
+     "title": "Ukraine&apos;s drone strikes on Yandex data centers disrupted Yandex&apos;s web crawlers, not Russian political bot operations, as Zelenskyy celebrated \"less division\" (Gaby Del Valle/The Verge)",
+     "link": "https://www.techmeme.com/261014/p11#a261014p11",
+     "pubDate": "Wed, 14 Oct 2026 06:30:00 -0400",
+     "summary": "Gaby Del Valle / The Verge : Ukraine's drone strikes on Yandex data centers disrupted Yandex's web crawlers, not Russian political bot operations, as Zelenskyy celebrated &ldquo;less division&rdquo; &nbsp; &mdash;&nbsp; Zelenskyy celebrated &lsquo;less division&rsquo; on social media after the strik",
+     "source": "Techmeme",
+     "zh": "Ukraine&apos;s drone strikes on Yandex data centers disrupted Yandex&apos;s web crawlers, not Russian political bot operations, as Zelenskyy celebrated \"less division\" (Gaby Del Valle/The Verge)"
+    },
+    {
+     "title": "Show HN: Building an LLM from Scratch in TypeScript",
+     "link": "https://book.humanexperiences.io/",
+     "pubDate": "Wed, 14 Oct 2026 10:29:56 +0000",
+     "summary": "I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript. Why not Python? I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation. Chapters cover datalo",
+     "source": "Hacker News",
+     "zh": "Show HN: Building an LLM from Scratch in TypeScript"
+    },
+    {
      "title": "宝马 7 系重返 V8 动力时代，2027 款 M760 xDrive 搭载 4.4T V8 发动机、570 马力",
      "link": "https://www.ithome.com/1/013/054.htm",
      "pubDate": "Wed, 14 Oct 2026 10:27:27 GMT",
@@ -1797,9 +1861,17 @@ window.INDUSTRY_DATA = {
      "title": "11.11 今晚 20:00 加码：iPhone 17 Pro Max 折后 7919 元，华为 Pura 80 京东 1 元秒杀",
      "link": "https://www.ithome.com/1/013/053.htm",
      "pubDate": "Wed, 14 Oct 2026 10:26:28 GMT",
-     "summary": "京东 无门槛红包至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 每日至高可领 200 淘金币： 点此抽金币 。 今晚 20:00 京东 11.11 狂促再加码，月黑风高夜都是好价： 点此前往主会场 。 iPhone 17 Pro Max 天猫补贴 200 元 + 淘金币可抵小 200 元， 部分地区国补 10%（例如江苏） ，实付 7919 元即可入手： 天猫 iPhone 17 Pro Max 256G 仅限橙色 限地区 7919 元起 直达链接 京东今晚 20:00 月黑风高皆为好价： 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。",
+     "summary": "京东 无门槛红包至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 每日至高可领 200 淘金币： 点此抽金币 。 今晚 20:00 京东 11.11 狂促再加码，月黑风高夜都是好价： 点此前往主会场 。 iPhone 17 Pro Max 天猫补贴 200 元 + 淘金币可抵小 200 元， 部分地区国补 10%（例如江苏） ，实付 7919 元即可入手，还可叠加银行卡分期优惠哦。 点击下方卡片领券后 → 点击 宝贝右上角“ … ” → 点击弹出页面 右下角“ 淘金币 ” 下单即可： 天猫 iPhone 17 Pro Max 256G 仅限橙色 限地区 7919 元起 直达链接 小",
      "source": "IT之家",
      "zh": "11.11 今晚 20:00 加码：iPhone 17 Pro Max 折后 7919 元，华为 Pura 80 京东 1 元秒杀"
+    },
+    {
+     "title": "I let an AI run my startup for a week",
+     "link": "https://daily.tinyprojects.dev/221",
+     "pubDate": "Wed, 14 Oct 2026 10:25:48 +0000",
+     "summary": "Article URL: https://daily.tinyprojects.dev/221 Comments URL: https://news.ycombinator.com/item?id=50085296 Points: 9 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "I let an AI run my startup for a week"
     },
     {
      "title": "康方配股引发恐慌？医药板块集体重挫",
@@ -1866,20 +1938,20 @@ window.INDUSTRY_DATA = {
      "zh": "AI 挖掘的漏洞报告存在误报，华为终端安全奖励计划要求提交前进行人工分析和验证"
     },
     {
+     "title": "Apple: Switch to Safari (From Chrome)",
+     "link": "https://www.apple.com/safari/switch/",
+     "pubDate": "Wed, 14 Oct 2026 10:08:57 +0000",
+     "summary": "Article URL: https://www.apple.com/safari/switch/ Comments URL: https://news.ycombinator.com/item?id=50085112 Points: 7 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Apple: Switch to Safari (From Chrome)"
+    },
+    {
      "title": "荷兰税务与海关总署放弃部署微软公有云，采用开源替代",
      "link": "https://www.solidot.org/story?sid=85611",
      "pubDate": "Wed, 14 Oct 2026 18:07:45 +0800",
      "summary": "荷兰税务与海关总署放弃了部署微软 Microsoft 365 公有云的计划，改为采用本地部署/开源替代方案。根据 Linux 基金会在欧洲开源峰会上发布的报告，94% 的欧盟组织认为数字主权重要，其中 61% 认为非常重要。除了税务机关，荷兰还在探索全面从 Windows 和私有软件转向 Linux 和开源软件。荷兰原计划于 2025 年转向 Microsoft 365，计划在 2026 年底前完成全面部署。但 Dutch Advisory Council on ICT Assessment 在今年 6 月建议叫停部署。政府于 7 月暂停了该计划，现在决定转向开源方案。税务与海关总署目前还不会",
      "source": "Solidot",
      "zh": "荷兰税务与海关总署放弃部署微软公有云，采用开源替代"
-    },
-    {
-     "title": "漫步者推出 WE-BASS 耳夹式无线耳机新品：20 小时复合续航，399 元",
-     "link": "https://www.ithome.com/1/013/044.htm",
-     "pubDate": "Wed, 14 Oct 2026 10:02:49 GMT",
-     "summary": "IT之家 10 月 14 日消息，漫步者 WE-BASS 耳夹式无线耳机已于京东上架开售，采用浪啸白配色，定价为 399 元。 这款耳机采用金属光泽混搭温润哑面，实现不同耳型的“定制级”适配；同时柔性环抱耳廓，确保运动、通勤等动态场景下稳固不易掉落；采用 A 级高弹性、强韧性镍钛合金丝，经 10000+ 扩张实验测试，任由弯曲拉扯，依然有型如初。 音质方面，这款耳机配备 12mm 长冲程低频单元，同时搭载动态低频补偿算法，可实时优化听感。漫步者独创「EAC 声学聚能腔 2.0」，以更贴近耳道的结构设计，形成“物理聚音 + 声学增强”的黄金传音通道，同时支持定向传声。 音效方面，这款耳机提供多种",
-     "source": "IT之家",
-     "zh": "漫步者推出 WE-BASS 耳夹式无线耳机新品：20 小时复合续航，399 元"
     },
     {
      "title": "“百果园2年亏7亿”冲上热搜，要“教育消费者”的老板，被市场教育了",
@@ -1890,20 +1962,20 @@ window.INDUSTRY_DATA = {
      "zh": "“百果园2年亏7亿”冲上热搜，要“教育消费者”的老板，被市场教育了"
     },
     {
-     "title": "cool kids are writing in all lowercase now. does that make you mad?",
-     "link": "https://www.wired.com/story/the-case-for-lowercase/",
-     "pubDate": "Wed, 14 Oct 2026 10:00:00 +0000",
-     "summary": "a certain kind of person writes in all lowercase now. why?",
-     "source": "WIRED",
-     "zh": "cool kids are writing in all lowercase now. does that make you mad?"
-    },
-    {
      "title": "Nothing Headphone (1) Pro: Studio Quality",
      "link": "https://www.wired.com/review/nothing-headphone-1-pro/",
      "pubDate": "Wed, 14 Oct 2026 10:00:00 +0000",
      "summary": "Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.",
      "source": "WIRED",
      "zh": "Nothing Headphone (1) Pro: Studio Quality"
+    },
+    {
+     "title": "cool kids are writing in all lowercase now. does that make you mad?",
+     "link": "https://www.wired.com/story/the-case-for-lowercase/",
+     "pubDate": "Wed, 14 Oct 2026 10:00:00 +0000",
+     "summary": "a certain kind of person writes in all lowercase now. why?",
+     "source": "WIRED",
+     "zh": "cool kids are writing in all lowercase now. does that make you mad?"
     },
     {
      "title": "Apple HomeView, The New Apple TV, The App Story",
@@ -1922,6 +1994,14 @@ window.INDUSTRY_DATA = {
      "zh": "Jensen Huang says Nvidia is pledging $250M in accelerated computing resources over five years to fund UK AI security and agentic safety research (Reuters)"
     },
     {
+     "title": "Ask HN: What is the current trajectory of a senior engineer?",
+     "link": "https://news.ycombinator.com/item?id=50084969",
+     "pubDate": "Wed, 14 Oct 2026 09:54:23 +0000",
+     "summary": "Been recently thinking about this more and more: When the need for a human in the design loop ceases? Given that LLMs are RL'd to the max with everything that can be given a wrong/right answer (code/maths), what currently is stopping Anthropic, OpenAI et al. from internally building (and maybe buyin",
+     "source": "Hacker News",
+     "zh": "Ask HN: What is the current trajectory of a senior engineer?"
+    },
+    {
      "title": "全球汽车业百年三次大出清，留下的五条生存法则",
      "link": "https://www.tmtpost.com/8168072.html",
      "pubDate": "Wed, 14 Oct 2026 17:49:54 +0800",
@@ -1936,86 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "市场把SpaceX收购800MHz频谱解读为\"卫星抢运营商饭碗\"，只看到了竞争的表层。本文的分析框架是：火箭复用击穿发射成本、频谱转让制度窗口打开、创始人控制结构锁定冲劲——三重力量叠加，\"地面铁塔+低频牌照\"的护城河正被技术周期绕过。这不是公司间的战争，而是通信权力的重新分配。",
      "source": "钛媒体",
      "zh": "800MHz三年三易其主：马斯克买到的不是频谱，是美国电信业下一张桌子的座位"
-    },
-    {
-     "title": "京东不等预售，天猫现货同步：双11 正在失去什么",
-     "link": "https://www.tmtpost.com/8168241.html",
-     "pubDate": "Wed, 14 Oct 2026 17:49:49 +0800",
-     "summary": "大促和即时零售两端都在涨：涨的是新生意，还是搬了家？这决定 2027 年预算",
-     "source": "钛媒体",
-     "zh": "京东不等预售，天猫现货同步：双11 正在失去什么"
-    },
-    {
-     "title": "Robotic Hands Become the Bottleneck for China’s Humanoid Push",
-     "link": "https://www.tmtpost.com/8168516.html",
-     "pubDate": "Wed, 14 Oct 2026 17:47:03 +0800",
-     "summary": "Chinese humanoid makers can stage impressive demos, yet most machines still struggle with ordinary grasping and fine manipulation. Specialists in dexterous hands are scaling production as factories become the main test bed. Commercial progress in China will depend less on spectacle than on whether r",
-     "source": "钛媒体",
-     "zh": "Robotic Hands Become the Bottleneck for China’s Humanoid Push"
-    },
-    {
-     "title": "CoreWeave says it is targeting insurers&apos; \"unlimited\" capital, as the AI cloud provider seeks cheaper ways to fund the tens of billions it is spending on chips (Ryan McMorrow/Financial Times)",
-     "link": "https://www.techmeme.com/261014/p8#a261014p8",
-     "pubDate": "Wed, 14 Oct 2026 05:45:01 -0400",
-     "summary": "Ryan McMorrow / Financial Times : CoreWeave says it is targeting insurers' &ldquo;unlimited&rdquo; capital, as the AI cloud provider seeks cheaper ways to fund the tens of billions it is spending on chips &nbsp; &mdash;&nbsp; Co-founder eyes insurers' vast capital for loans as the Nvidia-backed clou",
-     "source": "Techmeme",
-     "zh": "CoreWeave says it is targeting insurers&apos; \"unlimited\" capital, as the AI cloud provider seeks cheaper ways to fund the tens of billions it is spending on chips (Ryan McMorrow/Financial Times)"
-    },
-    {
-     "title": "I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026)",
-     "link": "https://www.wired.com/story/best-energy-drinks/",
-     "pubDate": "Wed, 14 Oct 2026 09:36:00 +0000",
-     "summary": "The future is here, and it is jacked up on B vitamins, red dye, and taurine. These are the best energy drinks to get from tired to wired.",
-     "source": "WIRED",
-     "zh": "I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026)"
-    },
-    {
-     "title": "Men Can’t Stop Faking How Much They Know About AI",
-     "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
-     "pubDate": "Wed, 14 Oct 2026 09:30:00 +0000",
-     "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
-     "source": "WIRED",
-     "zh": "Men Can’t Stop Faking How Much They Know About AI"
-    },
-    {
-     "title": "一棵白菜合人民币42元，暴露了日本农业的结构性脆弱",
-     "link": "https://www.tmtpost.com/8168034.html",
-     "pubDate": "Wed, 14 Oct 2026 17:16:14 +0800",
-     "summary": "日本农业的结构性脆弱，在这一轮涨价中暴露得比较充分。",
-     "source": "钛媒体",
-     "zh": "一棵白菜合人民币42元，暴露了日本农业的结构性脆弱"
-    },
-    {
-     "title": "中日韩一起锚定2030！固态电池，大决战来了",
-     "link": "https://www.tmtpost.com/8168027.html",
-     "pubDate": "Wed, 14 Oct 2026 17:16:11 +0800",
-     "summary": "日本埋伏了二十年；韩国咬牙切齿要翻身；中国只能成功，不能失败。",
-     "source": "钛媒体",
-     "zh": "中日韩一起锚定2030！固态电池，大决战来了"
-    },
-    {
-     "title": "Tesla’s Roadster 2 Is Late—and Entering a Different EV World",
-     "link": "https://www.wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world/",
-     "pubDate": "Wed, 14 Oct 2026 09:15:00 +0000",
-     "summary": "Nine years after its reveal, the overdue Roadster is set to debut on Thursday to an EV market that has grown skeptical of electric hypercars.",
-     "source": "WIRED",
-     "zh": "Tesla’s Roadster 2 Is Late—and Entering a Different EV World"
-    },
-    {
-     "title": "Cat-Like Whiskers Help Tiny Drones Fly in the Dark",
-     "link": "https://www.wired.com/story/cat-like-whiskers-help-tiny-drones-fly-in-the-dark/",
-     "pubDate": "Wed, 14 Oct 2026 09:15:00 +0000",
-     "summary": "Researchers took lessons from nocturnal animals to help rescue drones overcome a key challenge: flying in the dark.",
-     "source": "WIRED",
-     "zh": "Cat-Like Whiskers Help Tiny Drones Fly in the Dark"
-    },
-    {
-     "title": "Ukraine says SpaceX has restricted Starlink by cutting military-grade service at speeds exceeding 100mph, disrupting drone missions, and it received no warning (Yuliia Dysa/Reuters)",
-     "link": "https://www.techmeme.com/261014/p7#a261014p7",
-     "pubDate": "Wed, 14 Oct 2026 04:50:02 -0400",
-     "summary": "Yuliia Dysa / Reuters : Ukraine says SpaceX has restricted Starlink by cutting military-grade service at speeds exceeding 100mph, disrupting drone missions, and it received no warning &nbsp; &mdash;&nbsp; SpaceX (SPCX.O) has introduced a limit on some Starlink services in Ukraine, disrupting combat ",
-     "source": "Techmeme",
-     "zh": "Ukraine says SpaceX has restricted Starlink by cutting military-grade service at speeds exceeding 100mph, disrupting drone missions, and it received no warning (Yuliia Dysa/Reuters)"
     }
    ]
   },
@@ -2025,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The new Alexa Tablets prove it’s time for Amazon to make another Android phone",
+     "link": "https://www.androidauthority.com/new-alexa-tablets-prove-amazon-should-make-another-android-phone-3722557/",
+     "pubDate": "Wed, 14 Oct 2026 10:30:51 +0000",
+     "summary": "The Fire Phone is a thing of the past, and the new Alexa Tablets show Amazon finally knows why it failed",
+     "source": "Android Authority",
+     "zh": "The new Alexa Tablets prove it’s time for Amazon to make another Android phone"
+    },
     {
      "title": "People are hating on Apple Music's redesigned black-and-white logo",
      "link": "https://www.engadget.com/2286289/people-are-hating-on-apple-music-redesigned-black-and-white-logo/",
@@ -2066,6 +2074,14 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung Health update improves Sleep Coaching and Running Coach"
     },
     {
+     "title": "认知心理学背后的播客剪辑技巧",
+     "link": "https://sspai.com/post/114861",
+     "pubDate": "Wed, 14 Oct 2026 17:33:49 +0800",
+     "summary": "为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？ 查看全文",
+     "source": "少数派",
+     "zh": "认知心理学背后的播客剪辑技巧"
+    },
+    {
      "title": "I tried gaming on a Googlebook — here’s the good (and bad) news",
      "link": "https://www.androidauthority.com/gaming-emulation-googlebook-hands-on-3720216/",
      "pubDate": "Wed, 14 Oct 2026 09:30:02 +0000",
@@ -2088,14 +2104,6 @@ window.INDUSTRY_DATA = {
      "summary": "Just days after Galaxy S24, the Galaxy S23 is starting to receive stable One UI 9.",
      "source": "Android Authority",
      "zh": "Samsung is expanding One UI 9 with Android 17 to the oldest qualifying flagships"
-    },
-    {
-     "title": "Want to show an iPhone on TV? These are some of Apple’s ridiculous licensing rules",
-     "link": "https://www.androidauthority.com/tv-series-switch-iphone-to-android-3722992/",
-     "pubDate": "Wed, 14 Oct 2026 08:47:42 +0000",
-     "summary": "We've known that bad guys can't use iPhones, but Apple's list of restrictions is really something.",
-     "source": "Android Authority",
-     "zh": "Want to show an iPhone on TV? These are some of Apple’s ridiculous licensing rules"
     },
     {
      "title": "Check out the first Oppo Find X10 Pro Max and Find X10 camera samples",
@@ -2256,14 +2264,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google has much to gain by collecting data from you through your activity on Chrome, but you can make it harder.",
      "source": "Engadget",
      "zh": "How to improve your online privacy and security in Google Chrome"
-    },
-    {
-     "title": "Apple TV 4K 2022 vs. 2026: What's new and is it worth the $100 jump?",
-     "link": "https://www.engadget.com/2286141/apple-tv-4k-2022-vs-2026-whats-new-worth-100-price-increase/",
-     "pubDate": "Tue, 13 Oct 2026 23:00:00 +0000",
-     "summary": "The 2026 model is faster and can hear you from afar, but the 2022 box gets Siri AI as well.",
-     "source": "Engadget",
-     "zh": "Apple TV 4K 2022 vs. 2026: What's new and is it worth the $100 jump?"
     }
    ]
   },
@@ -2282,12 +2282,108 @@ window.INDUSTRY_DATA = {
      "zh": "BoA fined $1.2bn over \"egregious\" AML deficiencies"
     },
     {
+     "title": "The Laddered T-Bill ETF declares $0.0181 weekly dividend",
+     "link": "https://seekingalpha.com/news/4652818-the-laddered-t-bill-etf-declares-00181-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 06:34:29 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "The Laddered T-Bill ETF declares $0.0181 weekly dividend"
+    },
+    {
+     "title": "General Atlantic targets 2027 IPO at $10B valuation to fuel growth, FT reports",
+     "link": "https://seekingalpha.com/news/4652810-general-atlantic-targets-2027-ipo-at-10b-valuation-to-fuel-growth-ft-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 06:33:51 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "General Atlantic targets 2027 IPO at $10B valuation to fuel growth, FT reports"
+    },
+    {
+     "title": "REX NVDA Growth & Income ETF declares $0.1485 weekly dividend",
+     "link": "https://seekingalpha.com/news/4652816-rex-nvda-growth-income-etf-declares-01485-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 06:33:42 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "REX NVDA Growth & Income ETF declares $0.1485 weekly dividend"
+    },
+    {
+     "title": "At a glance: stocks gapping up premarket",
+     "link": "https://seekingalpha.com/news/4652813-at-a-glance-stocks-gapping-up-premarket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 06:33:20 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "At a glance: stocks gapping up premarket"
+    },
+    {
      "title": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
      "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-     "pubDate": "Wed, 14 Oct 2026 10:27:02 GMT",
+     "pubDate": "Wed, 14 Oct 2026 10:33:13 GMT",
      "summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
      "source": "CNBC",
      "zh": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked"
+    },
+    {
+     "title": "REX WMT Growth & Income ETF declares $0.07 weekly dividend",
+     "link": "https://seekingalpha.com/news/4652814-rex-wmt-growth-income-etf-declares-007-weekly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 06:32:49 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "REX WMT Growth & Income ETF declares $0.07 weekly dividend"
+    },
+    {
+     "title": "Meet Agility Robotics: A pure-play humanoid robot stock headed for Wall Street",
+     "link": "https://seekingalpha.com/news/4652725-meet-agility-robotics-a-pure-play-humanoid-robot-stock-headed-for-wall-street?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 06:30:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Meet Agility Robotics: A pure-play humanoid robot stock headed for Wall Street"
+    },
+    {
+     "title": "台积电有望提前完成明年产能目标",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895584064.html",
+     "pubDate": "Wed, 14 Oct 2026 18:30:25 +0800",
+     "summary": "据悉，由于市场对 台积电 2纳米工艺的需求十分旺盛，该公司有望提前完成2027年的生产目标。2纳米制程技术是 台积电 目前量产的最先进的制造技术，也是高性能 人工智能 芯片需要的成熟工艺。 台积电 此前的产能估计到2026年底最高约为每月10万片晶圆，但有报道指出，最新的估计将产量提高了20%，达到每月12万片晶圆。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "台积电有望提前完成明年产能目标"
+    },
+    {
+     "title": "【调研快报】华微电子接待南方工业资产管理有限责任公司调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610143895583425.html",
+     "pubDate": "Wed, 14 Oct 2026 18:28:29 +0800",
+     "summary": "华微电子 10月14日公告称， 10月14日 接待南方工业 资产管理 有限责任公司 调研。 接待人员包括副总经理、财务负责人、董事会秘书 李娟娟。 公司就以下问题进行了回复： 一. 企业介绍 二. 互动交流环节 1. 公司2026年半年报显示应收账款增加,主要系数字债权凭证增加所致,请介绍一下数字债券凭证。 部分客户与公司的交易会采用数字债权凭证进行结算。数字债权凭证是指应收账款 电子 凭证,是供应链核心企业(债务人)基于真实贸易背景,在供应链金融平台上开立的 电子 化应付... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此",
+     "source": "东方财富股票",
+     "zh": "【调研快报】华微电子接待南方工业资产管理有限责任公司调研"
+    },
+    {
+     "title": "贝莱德股价盘前大涨4%",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895583813.html",
+     "pubDate": "Wed, 14 Oct 2026 18:28:15 +0800",
+     "summary": "贝莱德 股价盘前大涨4%，公司三季度营收77.52亿美元同比增长19%，调整后每股收益15.93美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "贝莱德股价盘前大涨4%"
+    },
+    {
+     "title": "一类个股的风险要提防——道达投资手记",
+     "link": "http://stock.eastmoney.com/news/1407,202610143895583977.html",
+     "pubDate": "Wed, 14 Oct 2026 18:26:24 +0800",
+     "summary": "近期，有关短剧的话题引发投资者的讨论，主要与三方面有关：一是短剧使用时长，二是短剧降智，三是短剧板块上涨。 据第三方数据机构统计，今年8月，在中国月度使用时长排名前50的应用中，字节系产品总时长份额达到41.8%。其中，红果短剧约125分钟/天，抖音约112—120分钟/天，均超过腾讯系产品微信的82—85分钟/天。 和短视频一样，不少人对短剧也产生了依赖性，中老年沉迷短剧也成为一些家庭的矛盾源头。 批判者认为，一些狗血剧情的短剧，沉迷太久会影响身心健康，甚至出现所谓的降智；支持者则认为，这不过是一种消遣的方式，就像钓鱼爱好者一样，不在乎自己是不是“空军”，在乎的是一种体验过程。 目前，短剧、",
+     "source": "东方财富股票",
+     "zh": "一类个股的风险要提防——道达投资手记"
+    },
+    {
+     "title": "伯恩斯坦下调洛克希德马丁目标价",
+     "link": "http://stock.eastmoney.com/news/1440,202610143895583750.html",
+     "pubDate": "Wed, 14 Oct 2026 18:24:37 +0800",
+     "summary": "伯恩斯坦将 洛克希德马丁 目标价从629美元下调至564美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "伯恩斯坦下调洛克希德马丁目标价"
+    },
+    {
+     "title": "珠免集团：拟放弃免税公司股权优先购买权",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895580624.html",
+     "pubDate": "Wed, 14 Oct 2026 18:22:41 +0800",
+     "summary": "珠免集团 10月14日公告，城建集团拟将免税公司23%股权以31.72亿元转让给康格投资，公司持有免税公司51%股权，拟放弃本次 股权转让 优先购买权。该事项已获董事会审议通过，尚需提交公司股东会审议。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "珠免集团：拟放弃免税公司股权优先购买权"
     },
     {
      "title": "英伟达“新王炸”！游戏“GPT时刻”或至",
@@ -2312,54 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
      "source": "CNBC",
      "zh": "Bank of America is set to report third-quarter earnings – here’s what the Street expects"
-    },
-    {
-     "title": "China resumes U.S. soybean buying with 8-10 cargoes after Trump-Xi summit - report",
-     "link": "https://seekingalpha.com/news/4652769-china-resumes-us-soybean-buying-with-8-10-cargoes-after-trump-xi-summit---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 06:12:15 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "China resumes U.S. soybean buying with 8-10 cargoes after Trump-Xi summit - report"
-    },
-    {
-     "title": "BlackRock in charts: Strong AUM growth and securities lending boost investment advisory revenue by $990M Y/Y",
-     "link": "https://seekingalpha.com/news/4652779-blackrock-in-charts-strong-aum-growth-and-securities-lending-boost-investment-advisory-revenue-by-990m-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 06:12:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BlackRock in charts: Strong AUM growth and securities lending boost investment advisory revenue by $990M Y/Y"
-    },
-    {
-     "title": "Verastem Oncology jumps after announcing CEO transition, pricing $250M securities offering",
-     "link": "https://seekingalpha.com/news/4652780-verastem-oncology-jumps-after-pricing-250m-securities-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 06:09:39 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Verastem Oncology jumps after announcing CEO transition, pricing $250M securities offering"
-    },
-    {
-     "title": "Apple, Nvidia and Microsoft among mega cap tech stocks with A+ profitability grades",
-     "link": "https://seekingalpha.com/news/4652770-apple-nvidia-and-microsoft-among-mega-cap-tech-stocks-with-a-profitability-grades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 06:06:53 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apple, Nvidia and Microsoft among mega cap tech stocks with A+ profitability grades"
-    },
-    {
-     "title": "Hyperscale Data plans up to $33.5M tokenized Series D preferred stock offering",
-     "link": "https://seekingalpha.com/news/4652776-hyperscale-data-plans-up-to-335m-tokenized-series-d-preferred-stock-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 06:05:36 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hyperscale Data plans up to $33.5M tokenized Series D preferred stock offering"
-    },
-    {
-     "title": "AM Markets Need to Know: Trump Eyes Greenland Resources, Microsoft Cuts Costs, and more",
-     "link": "https://seekingalpha.com/news/4652775-am-markets-need-to-know-trump-eyes-greenland-resources-microsoft-cuts-costs-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 14 Oct 2026 06:03:54 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AM Markets Need to Know: Trump Eyes Greenland Resources, Microsoft Cuts Costs, and more"
     },
     {
      "title": "10月14日龙虎榜复盘：会稽山净买额居首",
@@ -2464,54 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "韩国股市14日遭遇六连跌，KOSPI指数盘中一度大涨逾2%，终因外资持续抛售而全面回吐涨幅，收盘跌破6000点关口。 截至周三收盘，KOSPI报5958.68点，较上一交易日下跌76.67点，跌幅1.27%。外资当日净卖出7896亿韩元，散户净卖出4346亿韩元，机构买入5398亿韩元。 分析人士将此次回调归因于多重利空叠加：市场对即将公布的美国消费者价格指数（CPI）数据持观望态度，全球油价走高形成额外压制，荷兰芯片设备制造商ASML财报发布后股价下跌，亦拖累韩国半导体板块承压。 盘中急转直下，6000点得而复失 KOSPI当日开盘报6062.08点，较前收盘上涨26.73点或0.44%，此",
      "source": "华尔街见闻",
      "zh": "韩国KOSPI六连跌失守6000点：外资单日净卖出7896亿韩元"
-    },
-    {
-     "title": "Scott Bessent&apos;s growth plans aren&apos;t enough to tame surging deficit and debt pile, IMF chief says",
-     "link": "https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html",
-     "pubDate": "Wed, 14 Oct 2026 08:53:35 GMT",
-     "summary": "IMF chief Kristalina Georgieva said Bessent’s reliance on growth won’t cut the U.S. deficit and $40 trillion debt fast enough, calling for fiscal consolidation.",
-     "source": "CNBC",
-     "zh": "Scott Bessent&apos;s growth plans aren&apos;t enough to tame surging deficit and debt pile, IMF chief says"
-    },
-    {
-     "title": "字节Seed单设安全部门：模型发布前的风险评估被提到台前",
-     "link": "https://wallstreetcn.com/articles/3783616",
-     "pubDate": "Wed, 14 Oct 2026 16:48:20 +0800",
-     "summary": "字节跳动Seed的安全工作，正在从一个既有团队变成独立的组织单元。 10月13日，字节跳动Seed宣布成立“Seed Model-Alignment & Preparedness”部门，由严林负责，向Seed负责人吴永辉汇报。原Responsible AI团队及部分Chat团队成员转入新部门。 部门负责模型规范、安全评估、对齐训练、防护系统和风险监控。“Alignment”指模型行为与人类意图和安全约束保持一致；“Preparedness”则指为模型能力继续提升后可能出现的风险做准备。 字节在部门目标中写入提升智能体模型安全能力，以及防范化学、生物、放射、核等前沿能力风险。安全评估将承担什么职",
-     "source": "华尔街见闻",
-     "zh": "字节Seed单设安全部门：模型发布前的风险评估被提到台前"
-    },
-    {
-     "title": "高盛警告：AI融资暂停制造信用债“圣诞行情”假象，未来两个月或是最后的平静期",
-     "link": "https://wallstreetcn.com/articles/3783611",
-     "pubDate": "Wed, 14 Oct 2026 16:44:47 +0800",
-     "summary": "海外企业信用债市场正处于一段虚假的宁静之中。高盛警告，当前投资级信用利差之所以保持平稳，并非因为风险消退，而是因为市场上最大的债券发行方——AI科技巨头——暂时停止了融资。这一窗口期或将在未来两个月内关闭。 高盛信用销售交易员Jeffrey Papai在最新报告中表示，自2025年9月起AI相关债券发行骤然停歇，这为市场创造了难得的喘息空间，并为四季度的利差收窄行情提供了技术支撑。他认为当前是买入时机，但明确附加了有效期： 一旦AI供给重返市场，这一逻辑即告瓦解。 风险正在逼近， 包括博通\"APCHIP 2.0\"、SpaceX芯片融资以及博通/OpenAI\"Jalapeno\"项目在内，近期已有",
-     "source": "华尔街见闻",
-     "zh": "高盛警告：AI融资暂停制造信用债“圣诞行情”假象，未来两个月或是最后的平静期"
-    },
-    {
-     "title": "Chip bellwether ASML says customers are already asking to place orders — for 2030",
-     "link": "https://www.marketwatch.com/story/chip-bellwether-asml-says-customers-are-already-asking-to-place-orders-for-2030-b3aa1a90?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 08:41:00 GMT",
-     "summary": "The Dutch supplier for the semiconductor industry said there is strong interest in placing orders for 2029 and 2030.",
-     "source": "MarketWatch",
-     "zh": "Chip bellwether ASML says customers are already asking to place orders — for 2030"
-    },
-    {
-     "title": "10月14日涨停复盘：39只股涨停 新华文轩13天9板",
-     "link": "http://stock.eastmoney.com/news/11055,202610143895502525.html",
-     "pubDate": "Wed, 14 Oct 2026 16:38:31 +0800",
-     "summary": "今天沪指跌0.88%，深成指跌1.97%，创业板指跌3.1%，今日大盘成交额1.41万亿，较上个交易日缩量2615.15亿。 涨停个股数量方面，今日共计39股涨停，另有32只个股盘中一度触及涨停，封板率54.93%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富资讯",
-     "zh": "10月14日涨停复盘：39只股涨停 新华文轩13天9板"
-    },
-    {
-     "title": "沪电股份：预计前三季度净利润同比增长100.54%-109.74%",
-     "link": "http://finance.eastmoney.com/news/1345,202610143895492735.html",
-     "pubDate": "Wed, 14 Oct 2026 16:27:11 +0800",
-     "summary": "沪电股份 (002463.SZ)公告称，预计2026年前三季度归属于上市公司股东的净利润为54.50亿元-57.00亿元，同比增长100.54%-109.74%。业绩变动主要系受益于高速交换机、AI服务器、高性能计算及智能 汽车 等应用领域的结构性需求，叠加公司产品结构持续优化，营业收入和净利润较快增长；泰国子公司已从产能爬坡期迈入规模化运营期，实现扭亏为盈。注：公司Q3净利润预计25.27亿-27.77亿，Q2净利润16.81亿，据此计算，Q3净利润预计环比增长50%-65%。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "沪电股份：预计前三季度净利润同比增长100.54%-109.74%"
     }
    ]
   },

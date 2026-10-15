@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/15 19:43:47",
+ "generated_at": "2026/10/15 19:47:12",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "剑指博通，这家国产互连芯片公司藏不住了",
+     "link": "https://zhidx.com/p/601291.html",
+     "pubDate": "Thu, 15 Oct 2026 19:40:19 +0800",
+     "summary": "智东西 作者 | 陈骏达 编辑 | 漠影 AI算力的竞争，不只发生在芯片内部，也发生在芯片与芯片之间。 一颗芯片的峰值算力再高，也不意味着数百颗、数千颗芯片组成的集群就能发挥出相应的性能。数据能否高速传输，计算、存储与网络能否高效协同，都会影响整套系统的实际表现。 随着AI集群规模愈发庞大，互连已不再只是连接硬件的配套环节，而是决定算力能否充分释放的重要一环。面临这一挑战，国产互连厂商究竟应该如何破局？ 今天，在国产互连芯片赛道深耕6年、相对低调的 无锡厂商众星微 ，在品牌及全栈产品发布会上 首次集中展示其全场景高性能互连芯片平台 。该平台围绕通用计算互连与智能计算互连展开布局，覆盖存储、网络",
+     "source": "智东西",
+     "zh": "剑指博通，这家国产互连芯片公司藏不住了"
+    },
     {
      "title": "Jev上新，会看图做决策了！",
      "link": "https://zhidx.com/p/601178.html",
@@ -239,14 +247,6 @@
      "summary": "智东西 作者 | 王涵 编辑 | 冰倩 智东西10月14日报道，昨晚，国内科技独角兽公司APUS开源 Reflex Agent ，这套系统采用自研Reflex决策模型完成Harness（智能体执行框架）中的决策环节，围绕无限记忆、无损记忆、无损输入构建无限上下文方案，可落地可长期持续处理任务的Personal Agent（个人智能体）。 ▲开源页面 Reflex Agent采用MIT协议开源，提供桌面端、Web和SDK。开发者可以复现“模型驱动Harness”的工作循环，研究无损记忆和无限上下文的实现思路，也可以基于项目做二次开发，适配自己的Agent场景。 Reflex Agent开源地址：",
      "source": "智东西",
      "zh": "智能体长任务总“失忆”？国产开源破局，类Jev模型接管Agent调度"
-    },
-    {
-     "title": "被黄仁勋看中，曾辍学挖矿的他，拿下3000亿AI算力大单，把公司估值做到2300亿",
-     "link": "https://zhidx.com/p/597390.html",
-     "pubDate": "Wed, 14 Oct 2026 22:35:34 +0800",
-     "summary": "智东西 作者 | 王涵 编辑 | 漠影 智东西10月14日报道，最近，曾与Anthropic签下至多 约450亿美元 （约合人民币3020.11亿元）算力大单的AI算力基建创企Nscale，再次走到了聚光灯下——2026年9月25日，其宣布已通过可转换贷款票据完成 33.6亿美元（约合人民币224.86亿元）融资。 本次融资包括英伟达的10亿美元承诺，资金预计于2026年11月中旬到位。 据Nscale称，本轮是IPO前可转换融资，9月18日，Nscale已正式向美国证券交易委员会（SEC）递交Form S-1注册声明，拟在 纽约证券交易所 上市。 经过此次融资，市场预期Nscale估值最高可",
-     "source": "智东西",
-     "zh": "被黄仁勋看中，曾辍学挖矿的他，拿下3000亿AI算力大单，把公司估值做到2300亿"
     }
    ]
   },
@@ -263,6 +263,22 @@
      "summary": "A Fraunhofer–IMS Nanofabrication partnership illustrates how Europe's low-volume semiconductor manufacturing can support the world's most advanced chipmaking. The post Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking"
+    },
+    {
+     "title": "TSMC has $47bn revenue Q3",
+     "link": "https://www.electronicsweekly.com/news/business/tsmc-has-47bn-revenue-q3-2026-10/",
+     "pubDate": "Thu, 15 Oct 2026 10:08:57 +0000",
+     "summary": "TSMC reported Q3 revenues up 41.2% YoY and 17.2% QoQ at $46.72 billion Gross margin for the quarter was 66.4%, operating margin was 58.7%, and net profit margin was 51.1%. […] The post TSMC has $47bn revenue Q3 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "TSMC has $47bn revenue Q3"
+    },
+    {
+     "title": "UK Space Agency backs UK ADR mission for space debris removal",
+     "link": "https://www.electronicsweekly.com/news/uk-space-agency-backs-uk-adr-mission-for-space-debris-removal-2026-10/",
+     "pubDate": "Thu, 15 Oct 2026 10:01:03 +0000",
+     "summary": "The UK Space Agency (UKSA) is backing an Active Debris Removal (ADR) mission to remove two defunct satellites and release them lower into the atmosphere where they will naturally burn […] The post UK Space Agency backs UK ADR mission for space debris removal appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "UK Space Agency backs UK ADR mission for space debris removal"
     },
     {
      "title": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform",
@@ -335,6 +351,38 @@
      "summary": "Grid modernization is expanding the energy sector’s cyberattack surface, while limited visibility across IT and OT networks leaves connected assets exposed. The post Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching"
+    },
+    {
+     "title": "Nvidia invests in five UK startups",
+     "link": "https://www.electronicsweekly.com/news/business/nvidia-invests-in-six-uk-start-ups-2026-10/",
+     "pubDate": "Thu, 15 Oct 2026 05:15:38 +0000",
+     "summary": "Today, Nvidia announced new planned investments in UK startups: Boltz, Foresight, Hiverge, Prima Mente and Riverlane. Boltz, a London-based AI startup founded by MIT researchers, builds biomolecular models and AI […] The post Nvidia invests in five UK startups appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Nvidia invests in five UK startups"
+    },
+    {
+     "title": "Salience Labs raises $125m for photonics ICs",
+     "link": "https://www.electronicsweekly.com/news/business/salience-labs-raises-125m-for-photonics-ics-2026-10/",
+     "pubDate": "Thu, 15 Oct 2026 05:15:26 +0000",
+     "summary": "Salience Labs of Thame, a five-year-old photonic IC company built on technology from Oxford and Munster universities, has completed a $125m Series B. The company’s Seed round in 2022 raised […] The post Salience Labs raises $125m for photonics ICs appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Salience Labs raises $125m for photonics ICs"
+    },
+    {
+     "title": "Japan to invest $21bn in two GlobalFoundries fabs in New York",
+     "link": "https://www.electronicsweekly.com/news/business/japan-to-invest-21bn-in-two-globalfoundries-fabs-in-new-york-2026-10/",
+     "pubDate": "Thu, 15 Oct 2026 05:13:06 +0000",
+     "summary": "GlobalFoundries is to build two fabs at its Malta, New York site, with Japan providing up to $21bn in funding. Japan provides the investment, while GF contributes its technologies, manufacturing […] The post Japan to invest $21bn in two GlobalFoundries fabs in New York appeared first on Electronics ",
+     "source": "Electronics Weekly",
+     "zh": "Japan to invest $21bn in two GlobalFoundries fabs in New York"
+    },
+    {
+     "title": "ASML has €11.7bn Q3",
+     "link": "https://www.electronicsweekly.com/news/business/asml-has-e11-7bn-q3-2026-10/",
+     "pubDate": "Thu, 15 Oct 2026 05:09:23 +0000",
+     "summary": "ASML reported €11.7bn sales and €5bn profit at a net margin of 57.5% in Q3 2026. Full-year 2026 sales are expected to be between €44bn and €45bn with a gross […] The post ASML has €11.7bn Q3 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "ASML has €11.7bn Q3"
     },
     {
      "title": "Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing",
@@ -1729,12 +1777,28 @@
    "total": 18,
    "items": [
     {
+     "title": "小米 17 系列手机官宣相机与相册正在适配 18 Pro 同款「调色盘」功能",
+     "link": "https://www.ithome.com/1/013/614.htm",
+     "pubDate": "Thu, 15 Oct 2026 11:42:30 GMT",
+     "summary": "IT之家 10 月 15 日消息，小米 18 Pro 系列手机已于 9 月 23 日晚正式发布，搭载第六代骁龙 8 至尊版系列移动平台，后置徕卡 2 亿大底主摄 + 2 亿大底长焦，首发「传奇一瞬」大模型影像，售价 5999 元起。 系列机型还带来了「调色盘」功能， 支持 8 个精细化参数可调，同时解锁滤镜配方分享、导入、自定义排序全部能力 。相机里带滤镜拍摄，也能在编辑中恢复原图、重选滤镜，支持调色盘继续调节。 IT之家注意到，小米相机部产品经理 @Bao_小李 刚刚发文透露， 称小米 17 系列相机与相册正在适配小米 18 Pro 系列同款「调色盘」功能 。",
+     "source": "IT之家",
+     "zh": "小米 17 系列手机官宣相机与相册正在适配 18 Pro 同款「调色盘」功能"
+    },
+    {
      "title": "1499 → 898 元：小米米家净水器 2 官方直降，1200G 大通量 + 7 年 RO 滤芯",
      "link": "https://www.ithome.com/1/013/613.htm",
      "pubDate": "Thu, 15 Oct 2026 11:39:38 GMT",
      "summary": "【京东活动可能随时变更，需以实付款为准】 小米 · 米家净水器 2（1200G）开售于 2026 年 3 月，该产品主打 7 年长效 RO、母婴级健康水，厂商建议零售价为 1999 元，首发价 1499 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 892 元： 领 9 折净水器券： 点此查看 下单时选择“以旧换新 → 个护健康 → 电动牙刷（无需回收）”实付 892 元即可入手： 京东 小米 米家净水器 2 1200G 以旧换新后 893 元 直达链接 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 该净水器采用 12 页高精",
      "source": "IT之家",
      "zh": "1499 → 898 元：小米米家净水器 2 官方直降，1200G 大通量 + 7 年 RO 滤芯"
+    },
+    {
+     "title": "战魔田默｜全球买家有了更多选择，中国工厂凭什么留在核心名单？",
+     "link": "https://www.huxiu.com/article/4897823.html?f=rss",
+     "pubDate": "Thu, 15 Oct 2026 19:35:07 +0800",
+     "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜全球买家有了更多选择，中国工厂凭什么留在核心名单？》 全球买家正在增加备选工厂，中国供应商却可能为了留在采购名单上，把更多设备、人员和产能绑定在少数客户身上。 买家的选择越来越多，工厂的退路反而可能越来越少。 国际检验机构QIMA的数据显示，2025年，中国、印度和越南在其北美客户相关消费品检验与供应商审核业务中的合计份额从61%降至54%。 2026年第二季度，中国在QIMA北美客户检验与审核业务中的份额回升至35%，创六个季度新高。 两组数据的统计期间和指标不同，不能直接代表全球采购金额，却呈现了国际采购布局变化的两个",
+     "source": "虎嗅",
+     "zh": "战魔田默｜全球买家有了更多选择，中国工厂凭什么留在核心名单？"
     },
     {
      "title": "Sources and docs: while Bo Hines helped craft the crypto-friendly Genius Act, he had a 33% stake in consulting firm Nxum, which received millions from Tether (Sam Kessler/Wall Street Journal)",
@@ -1783,14 +1847,6 @@
      "summary": "Maria Curi / Axios : Source: the US FTC issues ~50-page civil investigative demands to OpenAI and Anthropic over safety incidents, safeguarding practices, and consumer protection &nbsp; &mdash;&nbsp; - The FTC sought documents from Anthropic and OpenAI with the scope of the probe focused on potentia",
      "source": "Techmeme",
      "zh": "Source: the US FTC issues ~50-page civil investigative demands to OpenAI and Anthropic over safety incidents, safeguarding practices, and consumer protection (Maria Curi/Axios)"
-    },
-    {
-     "title": "小米双 11：REDMI K100 Pro Max 至高闪降 200 元，叠加平台补贴与国补 16+512GB 到手价 4249 元",
-     "link": "https://www.ithome.com/1/013/609.htm",
-     "pubDate": "Thu, 15 Oct 2026 11:24:46 GMT",
-     "summary": "IT之家 10 月 15 日消息，小米创办人、董事长兼 CEO 雷军刚刚发文，介绍了小米双 11 活动， 其中 REDMI K100 Pro Max 至高闪降 200 元 ，叠加平台补贴与国补，16+512GB 到手低至 4249 元。 京东 小米 REDMI K100 ProMax 券后 3249 元起 领 550 元券 据IT之家此前报道， 小米 REDMI K100 Pro / Max 手机已于 8 月 11 日晚正式发布 ，分别搭载第五代骁龙 8 至尊版 V Series / 第五代骁龙 8 至尊版处理器，拥有 8580mAh / 9070mAh 电池 + Bose 联合调音，国补价 ",
-     "source": "IT之家",
-     "zh": "小米双 11：REDMI K100 Pro Max 至高闪降 200 元，叠加平台补贴与国补 16+512GB 到手价 4249 元"
     },
     {
      "title": "万豪升级酒廊，为何白金卡先慌了？",
@@ -1847,14 +1903,6 @@
      "summary": "Rebecca Torrence / Bloomberg : Ramp raised $1.85B led by Dragoneer at a $60B valuation, up from $44B after raising $750M in June, and hits $2B in annualized revenue, up from $1.5B in June &nbsp; &mdash;&nbsp; Ramp has surged to $2 billion in annualized revenue, the fintech company plans to announce ",
      "source": "Techmeme",
      "zh": "Ramp raised $1.85B led by Dragoneer at a $60B valuation, up from $44B after raising $750M in June, and hits $2B in annualized revenue, up from $1.5B in June (Rebecca Torrence/Bloomberg)"
-    },
-    {
-     "title": "马斯克：过去1年，经历了6次“AI精神病”",
-     "link": "https://www.huxiu.com/article/4897812.html?f=rss",
-     "pubDate": "Thu, 15 Oct 2026 19:00:04 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：黄君芝 SpaceX首席执行官兼特斯拉首席执行官、全球首富马斯克透露，过去一年他经历了大约六次所谓的“人工智能（AI）精神病”，这番表态引发外界广泛关注。 据悉，马斯克在近日“X Takeover”活动的一次访谈中谈及了人工智能的奇妙之处。随后，他的语气变得异常沉思。 “我患上了某种‘赛博精神错乱’，”马斯克说道，“或许还不止一点——其实可能相当严重。” 马斯克表示，在过去一年里，他大约经历过六次“人工智能或超级智能（AI或SI）精神错乱”。近期，美国总统特朗普将“人工智能”（AI）改称为“超级智能”（SI）。 “人工智能精神病”、“赛博精神错乱”并非临床",
-     "source": "虎嗅",
-     "zh": "马斯克：过去1年，经历了6次“AI精神病”"
     },
     {
      "title": "Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It",
@@ -1976,6 +2024,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Touchscreen MacBook Pro and more launching at Apple event on Oct 28",
+     "link": "https://9to5mac.com/2026/10/15/touchscreen-macbook-pro-and-more-launching-at-apple-event-on-oct-28/",
+     "pubDate": "Thu, 15 Oct 2026 11:41:56 +0000",
+     "summary": "We’ve long been awaiting the launch of the first OLED MacBook Pro, and a new report says that the official launch will take place at an Apple event on October 28. It says that Apple has begun sending invites to selected media representatives. The same event will include the OLED iPad mini as well as",
+     "source": "9to5Mac",
+     "zh": "Touchscreen MacBook Pro and more launching at Apple event on Oct 28"
+    },
+    {
+     "title": "More details about the iQOO Neo12's display revealed",
+     "link": "https://www.gsmarena.com/iqoo_neo12_display_details-news-75060.php",
+     "pubDate": "Thu, 15 Oct 2026 13:37:02 +0200",
+     "summary": "iQOO is set to launch the Neo12 in China this month. It has already confirmed that the smartphone will feature a 2K 185Hz AMOLED display developed by Visionox and using p-TSF technology. Now, iQOO has revealed more details about the Neo12's display. iQOO said the Neo12's display will have a minimum ",
+     "source": "GSMArena",
+     "zh": "More details about the iQOO Neo12's display revealed"
+    },
     {
      "title": "Mexico's president signs decree ordering tech platforms to protect minors from adult content",
      "link": "https://www.engadget.com/2287376/mexico-president-signs-decree-tech-restrict-adult-content-minors/",
@@ -2145,14 +2209,6 @@
      "zh": "Oppo's Reno17 series could launch next month with 200MP rear camera"
     },
     {
-     "title": "Tecno Spark 50s 5G launch date confirmed",
-     "link": "https://www.gsmarena.com/tecno_spark_50s_5g_launch_date_confirmed_-news-75045.php",
-     "pubDate": "Thu, 15 Oct 2026 07:01:02 +0200",
-     "summary": "Tecno is ready to expand its Spark 50 series with a new entry in India later this week. The Spark 50s 5G will join the Spark 50 4G, Spark 50 and Spark 50 Pro as the latest addition in the series on October 16. Aasmaan ke taare utar aaye zameen par ✨ Miliye TECNO SPARK 50S se - 5G Ka Dhurandhar 😎 La",
-     "source": "GSMArena",
-     "zh": "Tecno Spark 50s 5G launch date confirmed"
-    },
-    {
      "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
      "link": "https://sspai.com/post/115238",
      "pubDate": "Thu, 15 Oct 2026 11:00:00 +0800",
@@ -2193,14 +2249,6 @@
      "zh": "Apple Maps launches Detailed City Experience in Austin, Texas"
     },
     {
-     "title": "WhatsApp takes on Zoom and Google Meet with guest calling",
-     "link": "https://9to5mac.com/2026/10/14/whatsapp-takes-on-zoom-and-google-meet-with-guest-calling/",
-     "pubDate": "Wed, 14 Oct 2026 22:39:29 +0000",
-     "summary": "WhatsApp users can now invite others to join group and one-on-one calls even if they don’t have an account. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "WhatsApp takes on Zoom and Google Meet with guest calling"
-    },
-    {
      "title": "Old Google Home and Nest speakers getting big firmware update",
      "link": "https://9to5google.com/2026/10/14/google-home-nest-speaker-update/",
      "pubDate": "Wed, 14 Oct 2026 22:35:53 +0000",
@@ -2225,12 +2273,44 @@
    "total": 13,
    "items": [
     {
+     "title": "Plug Power says on track with 2026 revenue growth guidance, supported by margin improvement",
+     "link": "https://seekingalpha.com/news/4653323-plug-power-says-on-track-with-2026-revenue-growth-guidance-supported-by-margin-improvement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 07:41:35 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Plug Power says on track with 2026 revenue growth guidance, supported by margin improvement"
+    },
+    {
+     "title": "NeoGenomics expands Indica Labs partnership for precision oncology",
+     "link": "https://seekingalpha.com/news/4653321-neogenomics-expands-indica-labs-partnership-for-precision-oncology?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 07:41:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NeoGenomics expands Indica Labs partnership for precision oncology"
+    },
+    {
+     "title": "This 30-year market veteran is alarmed by a record-chasing S&P 500. Here’s where he’s investing instead.",
+     "link": "https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 11:41:00 GMT",
+     "summary": "Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.",
+     "source": "MarketWatch",
+     "zh": "This 30-year market veteran is alarmed by a record-chasing S&P 500. Here’s where he’s investing instead."
+    },
+    {
      "title": "库克：苹果智能接入阿里千问大模型，计划10月底在中国发布测试版本",
      "link": "http://www.eeo.com.cn/2026/1015/1065823.shtml",
      "pubDate": "Thu, 15 Oct 2026 19:39:06 +0800",
      "summary": "10月15日，苹果董事会执行主席蒂姆·库克在上海谈及Apple Intelligence（苹果智能）时表示，苹果智能及相关阿里千问大模型确已获得批准，将在10月晚些时候发布测试版本，其中包含实时翻译、书写工具、照片清除工具等首批苹果智能功能，但是Siri AI这次不包括在内。",
      "source": "经济观察网",
      "zh": "库克：苹果智能接入阿里千问大模型，计划10月底在中国发布测试版本"
+    },
+    {
+     "title": "胡塞武装称15日未对沙特发动任何袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202610153897091274.html",
+     "pubDate": "Thu, 15 Oct 2026 19:38:04 +0800",
+     "summary": "也门胡塞武装当地时间15日下午表示，当天胡塞武装未对沙特发动任何袭击。 当日稍早前，沙特阿拉伯主导的多国联军发言人表示，在沙特麦地那地区拦截并摧毁一枚巡航导弹。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "胡塞武装称15日未对沙特发动任何袭击"
     },
     {
      "title": "Terex declares $0.17 dividend",
@@ -2249,6 +2329,14 @@
      "zh": "Manpower misses top-line estimates; gives Q4 outlook"
     },
     {
+     "title": "【调研快报】联合光电接待SECF基金等4家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610153897089383.html",
+     "pubDate": "Thu, 15 Oct 2026 19:35:19 +0800",
+     "summary": "联合光电 10月15日公告称， 10月13日 接待SECF基金 等4家机构 调研。 接待人员包括副总经理、财务总监、董事会秘书 郭耀明。 公司就以下问题进行了回复： 投资者提出的问题及公司回复情况如下: 问题 1、请介绍一下公司上半年经营情况,2026 全年扣非能否转正?关键靠毛利率修复还是收入放量? 答:2026 年上半年公司实现营业收入 10.49 亿元,同比增长17.24%;实现归属于上市公司股东的净利润 782.54 万元,实现扭亏为盈,同比增长138... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更",
+     "source": "东方财富股票",
+     "zh": "【调研快报】联合光电接待SECF基金等4家机构调研"
+    },
+    {
      "title": "Walmart gains after Deutsche Bank says its value proposition stands out in an inflationary backdrop",
      "link": "https://seekingalpha.com/news/4653325-walmart-gains-after-deutsche-bank-says-its-value-proposition-stands-out-in-an-inflationary-backdrop?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 15 Oct 2026 07:34:44 -0400",
@@ -2265,20 +2353,36 @@
      "zh": "Charles Schwab Non-GAAP EPS of $1.69 beats by $0.03, revenue of $7.17B misses by $10M"
     },
     {
-     "title": "D-Wave Quantum delivers first annealing quantum computer to Italy as part of SQT deal",
-     "link": "https://seekingalpha.com/news/4653320-d-wave-quantum-delivers-first-annealing-quantum-computer-to-italy-as-part-of-sqt-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 07:32:57 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "D-Wave Quantum delivers first annealing quantum computer to Italy as part of SQT deal"
+     "title": "高盛上调Meta目标价至860美元 预计明年资本开支超2200亿美元",
+     "link": "http://finance.eastmoney.com/news/1354,202610153897091160.html",
+     "pubDate": "Thu, 15 Oct 2026 19:33:58 +0800",
+     "summary": "高盛 10月14日将Meta目标价从725美元上调至860美元，维持“买入”评级。该行预计，Meta第三季度营收同比增长24.3%，2027年营收达3126.23亿美元。2027年资本开支预计达到2202.15亿美元，同比增长54.1%，较市场共识高13.1%。 高盛 认为，AI将继续推动Meta广告收入增长，但巨额投资也将带来成本压力。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "高盛上调Meta目标价至860美元 预计明年资本开支超2200亿美元"
     },
     {
-     "title": "ManpowerGroup appoints Becky Frankiewicz as CEO",
-     "link": "https://seekingalpha.com/news/4653324-manpowergroup-appoints-becky-frankiewicz-as-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 07:32:12 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ManpowerGroup appoints Becky Frankiewicz as CEO"
+     "title": "高盛：全球电池供需比或于2029年触底 储能增长难抵供应过剩压力",
+     "link": "http://finance.eastmoney.com/news/1355,202610153897091063.html",
+     "pubDate": "Thu, 15 Oct 2026 19:33:27 +0800",
+     "summary": "高盛 10月14日发布研报称，尽管储能需求持续增长，但全球 电池 行业仍面临供应过剩压力，目前尚不能确认周期底部。该行预计，中国以外 电池 市场需求与本地产能之比将于2027年降至104%；若计入中国潜在出口供应，该比率仅为32%，到2030年两项比率将分别回升至131%和40%。全球 电池 市场供需比则可能直到2029年才触底，主要由于中国储能需求增长趋于正常化，而供应持续增加，导致产能利用率下降。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "高盛：全球电池供需比或于2029年触底 储能增长难抵供应过剩压力"
+    },
+    {
+     "title": "【调研快报】海得控制接待摩根士丹利调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610153897088996.html",
+     "pubDate": "Thu, 15 Oct 2026 19:33:20 +0800",
+     "summary": "海得控制 10月15日公告称， 10月15日 接待 摩根士丹利 调研。 接待人员包括副总经理、董事会秘书 吴秋农,证券事务专员 叶奇凡。 公司就以下问题进行了回复： 投资者关系活动主要内容介绍 1、从公司渠道端观察,当前中国工业自动化市场的需求情况如何?对2026年及2027年市场走势有何判断? 答:从渠道端观察,2026年以来中国工业自动化市场呈现结构性复苏态势。与离散制造业紧密相关的OEM市场,在AI产业链、 电子 制造设备、 锂 电及 机床工具 等需求带动下增长明显... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内",
+     "source": "东方财富股票",
+     "zh": "【调研快报】海得控制接待摩根士丹利调研"
+    },
+    {
+     "title": "【调研快报】河钢资源接待汇添富基金调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610153897088360.html",
+     "pubDate": "Thu, 15 Oct 2026 19:31:21 +0800",
+     "summary": "河钢资源 10月15日公告称， 10月15日 接待汇添富基金 调研。 接待人员包括董事、副总经理、董事会秘书 赵青松,证券事务代表 郑增炎。 公司就以下问题进行了回复： 问: 铜 二期项目使用了自然崩落法,因为国内使用自然崩落法的企业不多,公司是否有技术储备? 答:公司 铜 二期项目采用自然崩落法,是结合矿山地质条件、矿体赋存状态等因素 综合 论证确定的开采方案。自然崩落法具备采矿能力大、生产效率高、开采成本低等优势,成本水平接近露天开采,经济效益突出。公司 铜 一期项目已成功应用... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富",
+     "source": "东方财富股票",
+     "zh": "【调研快报】河钢资源接待汇添富基金调研"
     },
     {
      "title": "How lower fuel economy targets could boost pickups and V-8 engines",
@@ -2313,6 +2417,14 @@
      "zh": "A股增持回购潮再起：新易盛、天孚通信、佰维存储集体披露回购计划"
     },
     {
+     "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+     "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 11:17:00 GMT",
+     "summary": "CoreWeave’s bonds issued a few months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
+     "source": "MarketWatch",
+     "zh": "CoreWeave’s AI bonds tumble, raising red flags for the wider market"
+    },
+    {
      "title": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
      "link": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
      "pubDate": "Thu, 15 Oct 2026 11:12:51 GMT",
@@ -2335,6 +2447,14 @@
      "summary": "市场风向正在悄然转变。 在AI与动能交易主导市场数年之后，以高质量盈利为核心的\"质量因子\"投资策略强势回归，巴菲特长期坚守的投资逻辑正重新获得华尔街的认可。 质量因子近期表现抢眼。高盛交易台数据显示， 其行业与因子中性质量配对指数（GSP1QUAL）过去三个月累计上涨20%，创12个月新高，同期已实现波动率仅约13%。代表\"质量之王\"的相关标的过去五个交易日上涨5%，且五年走势图表明这一趋势并非新生事物。 与此同时，做多质量、做空动能的对冲组合在2026年已累计上涨55%，涨幅之大令市场瞩目。 这一切发生在主要股指仍徘徊于历史高位附近之时，市场领导力的悄然切换，意味着资金正从\"不惜代价追增长\"",
      "source": "华尔街见闻",
      "zh": "当AI动能开始退潮，巴菲特式\"无聊投资\"悄然回潮"
+    },
+    {
+     "title": "Global stocks sell-off deepens as chipmakers tumble",
+     "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+     "pubDate": "Thu, 15 Oct 2026 11:05:58 GMT",
+     "summary": "European and Asian equities slide as investors question durability of AI boom",
+     "source": "Financial Times",
+     "zh": "Global stocks sell-off deepens as chipmakers tumble"
     },
     {
      "title": "央行行长潘功胜出席二十国集团财长和央行行长会议",
@@ -2391,78 +2511,6 @@
      "summary": "Money transfer app Wise has named former NICE CEO Barak Eilam as non-executive director and chair designate.",
      "source": "Finextra",
      "zh": "Wise appoints chairman designate"
-    },
-    {
-     "title": "U.S. reportedly considers use of &apos;mother of all bombs&apos; as Iran vows to fight on",
-     "link": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
-     "pubDate": "Thu, 15 Oct 2026 10:44:57 GMT",
-     "summary": "The U.S. military has reportedly drawn up options for strikes on Iran that include the potential use of one of the biggest non-nuclear bombs in its arsenal.",
-     "source": "CNBC",
-     "zh": "U.S. reportedly considers use of &apos;mother of all bombs&apos; as Iran vows to fight on"
-    },
-    {
-     "title": "全球AI硬件大跳水！大厂CAPEX预期增速断崖下滑",
-     "link": "http://finance.eastmoney.com/news/11137,202610153897042293.html",
-     "pubDate": "Thu, 15 Oct 2026 18:42:29 +0800",
-     "summary": "周四(10月15日)全球AI硬件股迎来大跳水！ 隔夜美股费城 半导体 指数跌超4%，该指数过去七个交易日累计下跌超11%，创下2025年5月以来最长连跌纪录，成份股市值合计或蒸发逾1万亿美元。其中， 迈威尔科技 跌超8%，Arm跌近7%，AMD跌超5%， 英特尔 、 美光科技 跌超4%， 英伟达 、 阿斯麦 跌超3%。 亚太方面，日韩股市AI硬件股也随之跳水，爱德万测试大跌近15%，铠侠跌超12%，三星 电子 跌超9%，东京精密跌近9%，东京 电子 跌近8%， SK海力士 跌超11%。 A股方面， 新易盛 跌超7%， 中际旭创 、 长鑫科技 、 东山精密 等跌超5%， 兆易创新 、 源杰科技 ",
-     "source": "东方财富资讯",
-     "zh": "全球AI硬件大跳水！大厂CAPEX预期增速断崖下滑"
-    },
-    {
-     "title": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries",
-     "link": "https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1",
-     "pubDate": "Thu, 15 Oct 2026 10:32:33 GMT",
-     "summary": "Ukrainian president expresses anger in FT interview at ‘dangerous’ withdrawal of US intelligence sharing",
-     "source": "Financial Times",
-     "zh": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries"
-    },
-    {
-     "title": "新易盛：控股股东提议回购8亿元-10亿元公司股份",
-     "link": "http://finance.eastmoney.com/news/1345,202610153897026314.html",
-     "pubDate": "Thu, 15 Oct 2026 18:22:35 +0800",
-     "summary": "新易盛 10月15日公告，公司控股股东、实际控制人、董事长高光荣提议公司使用自有或自筹资金通过深圳证券交易所交易系统以集中竞价交易方式回购公司已发行的部分人民币普通股（A股）股票，用于后续的 股权激励 计划或员工持股计划，回购资金总额不低于8亿元（含）且不超过10亿元（含）。回购价格不高于公司董事会审议通过回购股份方案决议前30个交易日公司股票交易均价的150%，具体以董事会审议通过的回购方案为准。 （文章来源：界面新闻）",
-     "source": "东方财富资讯",
-     "zh": "新易盛：控股股东提议回购8亿元-10亿元公司股份"
-    },
-    {
-     "title": "江波龙：预计前三季度净利润同比增长1865%-1991% 存储价格上涨对盈利的边际贡献显著趋缓",
-     "link": "http://finance.eastmoney.com/news/1345,202610153897023977.html",
-     "pubDate": "Thu, 15 Oct 2026 18:17:20 +0800",
-     "summary": "江波龙 (301308.SZ)公告称，预计2026年前三季度归属于上市公司股东的净利润为140亿元-149亿元，同比增长1864.55%-1990.84%。 2026年第三季度，全球存储器市场供需格局总体仍然偏紧，但受前期较高价格基数影响，DRAM和NANDFlash价格涨幅较前期明显收窄，存储价格上涨对公司盈利的边际贡献显著趋缓，存储行业正在从消费类价格周期转向AI驱动技术周期。在此背景下，公司以自研芯片、自研软件架构为技术引领，寻求差异化发展路径，大客户、高端客户及全球化客户占比持续提升，产品与客户结构进一步优化，驱动公司2026年第三季度盈利能力仍保持在历史较高水平。 报告期内，公司产品",
-     "source": "东方财富资讯",
-     "zh": "江波龙：预计前三季度净利润同比增长1865%-1991% 存储价格上涨对盈利的边际贡献显著趋缓"
-    },
-    {
-     "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an &apos;energy ceasefire&apos;",
-     "link": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
-     "pubDate": "Thu, 15 Oct 2026 10:13:25 GMT",
-     "summary": "Ukraine will now resume attacks on Russian energy targets after Moscow hasn't held up its end of the proposed deal brokered by Trump.",
-     "source": "CNBC",
-     "zh": "Ukraine to resume strikes on Russian refineries, shattering hopes of an &apos;energy ceasefire&apos;"
-    },
-    {
-     "title": "是时候抄底美债了吗？",
-     "link": "https://wallstreetcn.com/articles/3783703",
-     "pubDate": "Thu, 15 Oct 2026 18:11:49 +0800",
-     "summary": "AI泡沫破裂的隐忧正在重塑美债的避险逻辑。尽管美国CPI数据持续超预期，美债收益率却在本周随科技股暴跌而逆势下行，债券与股票的传统相关性出现罕见断裂。这一反常信号，正促使华尔街重新审视美债的配置价值。 10年期美债收益率周四下行逾10个基点至5.081%，触及三周低点，此前一日在通胀数据超预期出炉后同样未见上行，反而收平。与此同时，CoreWeave债务危机引发的AI产业链信用裂缝持续扩散——该公司2032年到期债券收益率飙升至15%以上，五年期CDS走阔135个基点，市场隐含五年期违约概率已达63%。 多位分析师和投资人正重新评估AI板块整体融资风险敞口。 高盛、花旗率先喊买，摩根士丹利、三",
-     "source": "华尔街见闻",
-     "zh": "是时候抄底美债了吗？"
-    },
-    {
-     "title": "EU leaders to urge Zelenskyy to rein in criticism of Trump",
-     "link": "https://www.ft.com/content/fb2110b4-50d2-4ff9-9886-f7b42c5b4579?syn-25a6b1a6=1",
-     "pubDate": "Thu, 15 Oct 2026 10:05:55 GMT",
-     "summary": "Ukrainian leader’s comments about US president alarm European capitals",
-     "source": "Financial Times",
-     "zh": "EU leaders to urge Zelenskyy to rein in criticism of Trump"
-    },
-    {
-     "title": "Spanish banks arrange syndicated finance on blockchain",
-     "link": "https://www.finextra.com/newsarticle/48587/spanish-banks-arrange-syndicated-finance-on-blockchain?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 15 Oct 2026 10:04:00 GMT",
-     "summary": "Two Spanish banks, Santander and BBVA, and utility company Iberdrola, are claiming a blockchain first after arranging a syndicated financing facility executed through a blockchain platform",
-     "source": "Finextra",
-     "zh": "Spanish banks arrange syndicated finance on blockchain"
     }
    ]
   },

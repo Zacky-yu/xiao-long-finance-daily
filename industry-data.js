@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/15 13:02:16",
+ "generated_at": "2026/10/15 13:12:00",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Figma announces new features to define how agents work on its platform",
+     "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+     "pubDate": "Thu, 15 Oct 2026 04:30:00 +0000",
+     "summary": "Figma is also releasing its code layers feature in open beta.",
+     "source": "TechCrunch AI",
+     "zh": "Figma announces new features to define how agents work on its platform"
+    },
     {
      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
      "link": "https://arxiv.org/abs/2610.14005",
@@ -162,14 +170,6 @@ window.INDUSTRY_DATA = {
      "zh": "千问办公推电商版，给企业Agent打了个样"
     },
     {
-     "title": "Deezer will soon let you filter out AI-generated music",
-     "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-     "pubDate": "Wed, 14 Oct 2026 15:16:04 +0000",
-     "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-     "source": "TechCrunch AI",
-     "zh": "Deezer will soon let you filter out AI-generated music"
-    },
-    {
      "title": "AI杀进横店！火山引擎拿下2.3亿大单",
      "link": "https://zhidx.com/p/600990.html",
      "pubDate": "Wed, 14 Oct 2026 22:37:18 +0800",
@@ -258,52 +258,52 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "AUO-backed Star Shining Energy targets 2028 IPO with shift from solar assets to energy technology",
-     "link": "https://www.digitimes.com/news/a20261015PD214/solar-technology-2028-electricity-business.html",
-     "pubDate": "Thu, 15 Oct 2026 03:59:00 GMT",
-     "summary": "Star Shining Energy Holdings (SSEH) acquired Star Shining Enetek Corporation (Enetek), a spin-off of AUO's energy business, on October 1, 2026, combining power generation assets with engineering and technology capabilities. The acquisition extends SSEH's business beyond solar into geothermal power, ",
+     "title": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
+     "link": "https://www.digitimes.com/news/a20261015VL216/micron-taiwan-hbm-packaging-plant.html",
+     "pubDate": "Thu, 15 Oct 2026 04:57:23 GMT",
+     "summary": "Micron Technology on October 15 opened Micron Advanced Assembly and Test Taiwan 2 (AATT2) in Taichung, its second advanced assembly and test facility in Taiwan. The plant expands the company's packaging and testing capacity for high-bandwidth memory (HBM) as AI demand grows.",
      "source": "DIGITIMES",
-     "zh": "AUO-backed Star Shining Energy targets 2028 IPO with shift from solar assets to energy technology"
+     "zh": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens"
     },
     {
-     "title": "Taiwan Perovskite Solar Corp. deploys AI to optimize R&D, explore smart energy applications",
-     "link": "https://www.digitimes.com/news/a20261015PD226/taiwan-technology-materials-2026-development.html",
-     "pubDate": "Thu, 15 Oct 2026 03:24:24 GMT",
-     "summary": "Taiwan Perovskite Solar Corp. (TPSC) showcased its theme, \"PEROVSKITE AI,\" at Energy Taiwan 2026, highlighting a two-way synergy between artificial intelligence and perovskite technology. In this paradigm, AI accelerates perovskite material and process development, while perovskite technology meets ",
+     "title": "Analysis: Apple HomeView faces hurdles in smart-home adoption",
+     "link": "https://www.digitimes.com/news/a20261015PD204/apple-smart-home-siri.html",
+     "pubDate": "Thu, 15 Oct 2026 04:41:24 GMT",
+     "summary": "Apple launched the HomeView smart display at its \"Welcome Home\" event on October 13, priced at US$299. It's scheduled to debut in eight countries: the US, the UK, Canada, Australia, New Zealand, India, Singapore, and South Africa, on November 13. Featuring a 7-inch square display and an A18 chip, th",
      "source": "DIGITIMES",
-     "zh": "Taiwan Perovskite Solar Corp. deploys AI to optimize R&D, explore smart energy applications"
+     "zh": "Analysis: Apple HomeView faces hurdles in smart-home adoption"
     },
     {
-     "title": "Delta Electronics' 13.8kV SST gains traction in China, with US cloud giant testing AI data centre microgrids",
-     "link": "https://www.digitimes.com/news/a20261015PD210/delta-electronics-data-testing-efficiency-2026.html",
-     "pubDate": "Thu, 15 Oct 2026 03:22:00 GMT",
-     "summary": "Delta Electronics unveiled its prefabricated solid-state transformer (SST) DC power solution at Energy Taiwan 2026 on October 14, targeting power efficiency, deployment speed and supply resilience in AI data centres, AI factories and energy-intensive manufacturing. The system integrates SSTs, DC/DC ",
+     "title": "Synopsys CEO says fully autonomous AI chip design remains out of reach",
+     "link": "https://www.digitimes.com/news/a20261015PD229/synopsys-ceo-design-development-chips.html",
+     "pubDate": "Thu, 15 Oct 2026 04:29:27 GMT",
+     "summary": "Synopsys CEO Sassine Ghazi said that fully autonomous chip development has not yet crossed the final hurdle to become reality, although the company has advanced from AI-assisted engineering to models that coordinate more than 40 task agents. He made these comments during the CEO Summit at SEMICON We",
      "source": "DIGITIMES",
-     "zh": "Delta Electronics' 13.8kV SST gains traction in China, with US cloud giant testing AI data centre microgrids"
+     "zh": "Synopsys CEO says fully autonomous AI chip design remains out of reach"
     },
     {
-     "title": "OCP-recognized infrastructure spending forecast to hit US$800 billion by 2029, nearly triple prior estimate",
-     "link": "https://www.digitimes.com/news/a20261015VL210/idc-infrastructure-forecast-equipment-worldwide.html",
-     "pubDate": "Thu, 15 Oct 2026 03:14:59 GMT",
-     "summary": "IDC now expects worldwide spending on IT equipment recognized by the Open Compute Project (OCP) to reach about US$800 billion in 2029.",
+     "title": "Samsung, Applied Materials back startup targeting chip packaging warpage",
+     "link": "https://www.digitimes.com/news/a20261015VL215/samsung-applied-materials-packaging-venture-capital-technology.html",
+     "pubDate": "Thu, 15 Oct 2026 04:27:39 GMT",
+     "summary": "Samsung Ventures and Applied Ventures, the venture capital arm of Applied Materials, have invested in US-based Flexcompute, backing simulation technology designed to predict semiconductor packaging deformation before manufacturing. The investment comes as increasingly complex AI chips create new cha",
      "source": "DIGITIMES",
-     "zh": "OCP-recognized infrastructure spending forecast to hit US$800 billion by 2029, nearly triple prior estimate"
+     "zh": "Samsung, Applied Materials back startup targeting chip packaging warpage"
     },
     {
-     "title": "Iridium and Altair team up to extend IoT connectivity beyond cellular networks",
-     "link": "https://www.digitimes.com/news/a20261015PR201/iot-chipset-logistics-mobile-president.html",
-     "pubDate": "Thu, 15 Oct 2026 03:14:00 GMT",
-     "summary": "Iridium Communications and Altair Semiconductor are joining forces to help IoT devices stay connected outside terrestrial coverage, a move that could affect industries from logistics to wearables worldwide. The partnership aims to give manufacturers a simpler path to global satellite-enabled connect",
+     "title": "Intel says AI 'gold rush' is over, pushes prompt routing across open hardware",
+     "link": "https://www.digitimes.com/news/a20261015VL212/intel-hardware-gold-data.html",
+     "pubDate": "Thu, 15 Oct 2026 04:07:23 GMT",
+     "summary": "Intel used the Open Compute Project (OCP) Global Summit in San Jose to argue that AI is moving away from giant models in centralized data centers.",
      "source": "DIGITIMES",
-     "zh": "Iridium and Altair team up to extend IoT connectivity beyond cellular networks"
+     "zh": "Intel says AI 'gold rush' is over, pushes prompt routing across open hardware"
     },
     {
-     "title": "Genius Electronic Optical secures US$150 million 3M investment for optical communications",
-     "link": "https://www.digitimes.com/news/a20261015PD223/largan-precision-3m-communications-partnership-investment.html",
-     "pubDate": "Thu, 15 Oct 2026 03:09:34 GMT",
-     "summary": "Genius Electronic Optical, a leading manufacturer of optical lenses and precision optical components, announced on October 15 that it had formed a strategic partnership with 3M, a global technology and innovation giant, to jointly advance the development, manufacturing, and capacity expansion of opt",
+     "title": "Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem",
+     "link": "https://www.digitimes.com/news/a20261015PD220/tsmc-globalfoundries-cowos-manufacturing-silicon.html",
+     "pubDate": "Thu, 15 Oct 2026 04:00:19 GMT",
+     "summary": "GlobalFoundries (GF) has reached a multiyear manufacturing agreement with TSMC to expand silicon interposer capacity at its Malta fab in New York, supplying TSMC's Chip-on-Wafer-on-Substrate (CoWoS) advanced-packaging ecosystem. The agreement is expected to be worth US$2 billion over an initial five",
      "source": "DIGITIMES",
-     "zh": "Genius Electronic Optical secures US$150 million 3M investment for optical communications"
+     "zh": "Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem"
     },
     {
      "title": "2026 world GDP growth of 3.1% says IMF",
@@ -1314,6 +1314,22 @@ window.INDUSTRY_DATA = {
      "zh": "Watch SpaceX deliver more than 6,000 pounds of cargo to the ISS today"
     },
     {
+     "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
+     "link": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
+     "pubDate": "Thu, 15 Oct 2026 04:05:00 +0000",
+     "summary": "APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wr",
+     "source": "NASA",
+     "zh": "APOD: 2026 October 15 – The Milky Way over Manhattan"
+    },
+    {
+     "title": "Fires Arrive in the Amazon Rainforest",
+     "link": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
+     "pubDate": "Thu, 15 Oct 2026 04:01:00 +0000",
+     "summary": "During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.",
+     "source": "NASA",
+     "zh": "Fires Arrive in the Amazon Rainforest"
+    },
+    {
      "title": "Artemis III SLS teams prepare short stack for pad tanking test",
      "link": "https://www.nasaspaceflight.com/2026/10/artemis-iii-teams-prepare-short-stack-tanking-test/",
      "pubDate": "Wed, 14 Oct 2026 22:36:14 +0000",
@@ -1392,22 +1408,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing s",
      "source": "NASA",
      "zh": "NASA’s Space X CRS-35 Launch Jellyfish"
-    },
-    {
-     "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-     "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-     "pubDate": "Wed, 14 Oct 2026 14:41:21 +0000",
-     "summary": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime te",
-     "source": "NASA",
-     "zh": "NASA Develops Batteries to Power Humanity’s Return to Moon"
-    },
-    {
-     "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
-     "link": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
-     "pubDate": "Wed, 14 Oct 2026 13:32:25 +0000",
-     "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will incl",
-     "source": "NASA",
-     "zh": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions"
     },
     {
      "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
@@ -1778,6 +1778,86 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "漫步者 NeoBuds Pro 5 耳机 30 周年典藏版上架：限量 3000 套，1169 元",
+     "link": "https://www.ithome.com/1/013/348.htm",
+     "pubDate": "Thu, 15 Oct 2026 05:07:58 GMT",
+     "summary": "IT之家 10 月 15 日消息，漫步者 NeoBuds Pro 5 30 周年典藏版现已上架，定价为 1169 元。 这款耳机是漫步者 30 周年纪念典藏版本，全球限量发行 3000 套，每台耳机带有独立编号，随箱附赠徽章和纪念卡。 京东 漫步者（EDIFIER）NeoBuds Pro 5 30 周年典藏版 券后 1110.55 元 领 0.95 元券 声学架构方面，这款耳机升级为 1 圈 2 铁三分频 配置，采用 1 个高分子振膜动圈单元加 2 个楼氏动铁单元，搭配三分频技术。其中楼氏双动铁负责高频和超高频表现，高分子大尺寸宽声场动圈包揽中低频，可还原录音室原始的声音细节，带来监听级音质享",
+     "source": "IT之家",
+     "zh": "漫步者 NeoBuds Pro 5 耳机 30 周年典藏版上架：限量 3000 套，1169 元"
+    },
+    {
+     "title": "Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines (IDC)",
+     "link": "https://www.techmeme.com/261015/p4#a261015p4",
+     "pubDate": "Thu, 15 Oct 2026 01:00:56 -0400",
+     "summary": "IDC : Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines &nbsp; &mdash;&nbsp; Apple and Samsung continue to benefit from a strong premium portfolio to gain share&nbsp; &mdash;&nbsp; The globa",
+     "source": "Techmeme",
+     "zh": "Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines (IDC)"
+    },
+    {
+     "title": "Lenovo Coupon Codes: 15% Off in October 2026",
+     "link": "https://www.wired.com/story/lenovo-coupon-code/",
+     "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
+     "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+     "source": "WIRED",
+     "zh": "Lenovo Coupon Codes: 15% Off in October 2026"
+    },
+    {
+     "title": "Walmart Promo Codes: 20% Off for October 2026",
+     "link": "https://www.wired.com/story/top-walmart-promo-codes/",
+     "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
+     "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
+     "source": "WIRED",
+     "zh": "Walmart Promo Codes: 20% Off for October 2026"
+    },
+    {
+     "title": "Hotels.com Coupon Codes for October 2026",
+     "link": "https://www.wired.com/story/hotels-com-coupon/",
+     "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
+     "summary": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
+     "source": "WIRED",
+     "zh": "Hotels.com Coupon Codes for October 2026"
+    },
+    {
+     "title": "ABT Promo Codes & Discounts for October 2026",
+     "link": "https://www.wired.com/story/abt-promo-code/",
+     "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
+     "summary": "Learn how to maximize your savings on major appliances, electronics, and mattresses using verified ABT discount codes, rebates, and special coupons, and save up to $1,200 in October 2026.",
+     "source": "WIRED",
+     "zh": "ABT Promo Codes & Discounts for October 2026"
+    },
+    {
+     "title": "Groupon Promo Codes: 60% Off in October 2026",
+     "link": "https://www.wired.com/story/groupon-promo-code/",
+     "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
+     "summary": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
+     "source": "WIRED",
+     "zh": "Groupon Promo Codes: 60% Off in October 2026"
+    },
+    {
+     "title": "Design Within Reach Promo Codes: 30% Off | October 2026",
+     "link": "https://www.wired.com/story/design-within-reach-promo-code/",
+     "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
+     "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
+     "source": "WIRED",
+     "zh": "Design Within Reach Promo Codes: 30% Off | October 2026"
+    },
+    {
+     "title": "鼠疫恐慌：俄罗斯防控所一技术员的死因疑云",
+     "link": "https://www.huxiu.com/article/4897712.html?f=rss",
+     "pubDate": "Thu, 15 Oct 2026 12:56:48 +0800",
+     "summary": "本文来自微信公众号： 自然系列 ，作者：Nature Portfolio 西伯利亚一实验室的技术员病亡后，各种猜测甚嚣尘上。在此，一位生物安全专家向《自然》解读了此次风波。 西伯利亚实验室一名28岁研究员疑似死于肺鼠疫的消息拉响全球警报，人们担心事态会一发不可收拾，演变为大规模疫情。生物安全专家已给公众开出“定心丸”，指出疫情全面暴发的可能性很低。他们的担忧反而在于整个事件缺乏透明度。 新闻报道称，该实验室与这名研究员有过接触的200人已全部隔离，俄罗斯公共卫生监督局一再表示，伊尔库茨克鼠疫防控研究所“没有紧急情况”，并指出该研究员死于“不明原因”肺炎。 鉴于俄罗斯政府“惜字如金”的信息披露，",
+     "source": "虎嗅",
+     "zh": "鼠疫恐慌：俄罗斯防控所一技术员的死因疑云"
+    },
+    {
+     "title": "荣盛石化利润暴增8倍，谁在买单",
+     "link": "https://www.tmtpost.com/8169594.html",
+     "pubDate": "Thu, 15 Oct 2026 12:52:00 +0800",
+     "summary": "海外成品油提振盈利，持续性存疑。",
+     "source": "钛媒体",
+     "zh": "荣盛石化利润暴增8倍，谁在买单"
+    },
+    {
      "title": "IDC：2026 年三季度全球智能手机出货量同比暴跌 22%，为史上最严重季度下滑",
      "link": "https://www.ithome.com/1/013/341.htm",
      "pubDate": "Thu, 15 Oct 2026 04:51:43 GMT",
@@ -1858,14 +1938,6 @@ window.INDUSTRY_DATA = {
      "zh": "算力中心液冷板：16家厂商研发投入对比与布局路径分析"
     },
     {
-     "title": "Figma announces new features to define how agents work on its platform",
-     "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-     "pubDate": "Thu, 15 Oct 2026 04:30:00 +0000",
-     "summary": "Figma is also releasing its code layers feature in open beta.",
-     "source": "TechCrunch",
-     "zh": "Figma announces new features to define how agents work on its platform"
-    },
-    {
      "title": "155款App向豆包手机说“不”，智能体为什么翻不过互联网的围墙？",
      "link": "https://www.huxiu.com/article/4897703.html?f=rss",
      "pubDate": "Thu, 15 Oct 2026 12:29:43 +0800",
@@ -1888,14 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "留下的平台还在等待新的买家。",
      "source": "钛媒体",
      "zh": "商业离奇，一家明星独角兽，把自己“聊死”了"
-    },
-    {
-     "title": "上市破发，传音被AI坑惨了？",
-     "link": "https://www.tmtpost.com/8169572.html",
-     "pubDate": "Thu, 15 Oct 2026 12:22:41 +0800",
-     "summary": "低价走量加廉价供应链，不好使了。",
-     "source": "钛媒体",
-     "zh": "上市破发，传音被AI坑惨了？"
     },
     {
      "title": "抖音、高德也能“开户”了？",
@@ -1930,22 +1994,6 @@ window.INDUSTRY_DATA = {
      "zh": "瑞典一综艺节目整季制作文件疑被 AI 智能体删除，团队只能从头重剪"
     },
     {
-     "title": "一边爽一边骂，我们到底中了AI短剧什么毒？",
-     "link": "https://www.huxiu.com/article/4897695.html?f=rss",
-     "pubDate": "Thu, 15 Oct 2026 12:14:57 +0800",
-     "summary": "本文来自微信公众号： 果壳 ，作者：源南，编辑：吴欧 凌晨一点，你决定刷完这一集就睡。可刚被养父母赶出家门的女孩，竟意外发现自己是首富失散多年的女儿！她奔赴认亲，不料首富当众翻脸，撕掉亲子鉴定，坚决不肯认她！接下来她要怎么翻身？你明知该睡了，手却又滑了下去…… 冷静理智要离婚的妻子，永远有咆哮的老公和婆婆，茶里茶气的师妹。逆袭的面包店老板和被逼搬家的包子铺里，都在讲“先把规矩立住”，追过来的顾客永远说“贵是贵了点，但吃了不烧心”。 AI短剧多如过江之鲫，为什么点开就难以停下来？一边爽，一边骂，为什么我们明知它是烂的，还一口接一口？ AI短剧为什么让你无法自控？ 短剧之所以让人上瘾，锅不全在“内",
-     "source": "虎嗅",
-     "zh": "一边爽一边骂，我们到底中了AI短剧什么毒？"
-    },
-    {
-     "title": "算力不够：苹果确认初代 HomePod mini 无缘全新 Siri AI",
-     "link": "https://www.ithome.com/1/013/285.htm",
-     "pubDate": "Thu, 15 Oct 2026 04:05:48 GMT",
-     "summary": "IT之家 10 月 15 日消息，科技媒体 CNET 昨日（10 月 14 日）发布博文，报道称受限于硬件配置， 苹果公司已确认初代 HomePod mini 智能音箱无缘 Siri AI ，继任产品 HomePod mini 2 可支持 Siri AI。 原因方面，根据该媒体获得的声明，苹果公司表示由于第一代 HomePod mini 搭载的芯片和内存配置受限，无法满足 Siri AI 运行本地大语言模型所需的计算能力。 IT之家援引博文介绍，苹果公司在声明中表示，Siri AI 现阶段适用于 HomePod mini 2 以及 Apple TV 4K（第二代及后续机型）。 长期以来，由于其",
-     "source": "IT之家",
-     "zh": "算力不够：苹果确认初代 HomePod mini 无缘全新 Siri AI"
-    },
-    {
      "title": "Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10% (Lee Ying Shan/CNBC)",
      "link": "https://www.techmeme.com/261015/p1#a261015p1",
      "pubDate": "Thu, 15 Oct 2026 00:05:01 -0400",
@@ -1968,54 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Cory Weinberg / The Information : Sources: Anthropic told investors that distillation accounts for 5% to 7% of revenue; its rapid but slowing revenue growth could weigh on its IPO valuation &nbsp; &mdash;&nbsp; Anthropic reported rapid-but-slowing revenue growth in a meeting with potential investors",
      "source": "Techmeme",
      "zh": "Sources: Anthropic told investors that distillation accounts for 5% to 7% of revenue; its rapid but slowing revenue growth could weigh on its IPO valuation (Cory Weinberg/The Information)"
-    },
-    {
-     "title": "Microsoft, Health-ISAC, Japanese authorities, and others disrupt a Chinese-language phishing kit ecosystem used to send 1B+ messages to 75K+ orgs this year (Matt Kapko/CyberScoop)",
-     "link": "https://www.techmeme.com/261014/p55#a261014p55",
-     "pubDate": "Wed, 14 Oct 2026 23:35:01 -0400",
-     "summary": "Matt Kapko / CyberScoop : Microsoft, Health-ISAC, Japanese authorities, and others disrupt a Chinese-language phishing kit ecosystem used to send 1B+ messages to 75K+ orgs this year &nbsp; &mdash;&nbsp; In less than 10 months, cybercriminals used the arsenal of customized, targeted phishing kits to ",
-     "source": "Techmeme",
-     "zh": "Microsoft, Health-ISAC, Japanese authorities, and others disrupt a Chinese-language phishing kit ecosystem used to send 1B+ messages to 75K+ orgs this year (Matt Kapko/CyberScoop)"
-    },
-    {
-     "title": "Future of Cancer Care Today (FCCT)",
-     "link": "https://sijbrandijfoundation.org/fcct",
-     "pubDate": "Thu, 15 Oct 2026 03:18:49 +0000",
-     "summary": "Article URL: https://sijbrandijfoundation.org/fcct Comments URL: https://news.ycombinator.com/item?id=50098702 Points: 33 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Future of Cancer Care Today (FCCT)"
-    },
-    {
-     "title": "One in ten people are older than 65. Three in four live under a leader who is",
-     "link": "https://hannahritchie.substack.com/p/how-old-are-leaders",
-     "pubDate": "Thu, 15 Oct 2026 02:53:29 +0000",
-     "summary": "Article URL: https://hannahritchie.substack.com/p/how-old-are-leaders Comments URL: https://news.ycombinator.com/item?id=50098570 Points: 46 # Comments: 14",
-     "source": "Hacker News",
-     "zh": "One in ten people are older than 65. Three in four live under a leader who is"
-    },
-    {
-     "title": "Show HN: My Terminal Themes Web App",
-     "link": "https://news.ycombinator.com/item?id=50098454",
-     "pubDate": "Thu, 15 Oct 2026 02:33:42 +0000",
-     "summary": "Well, after 15 years of saying \"Someday I'll turn this into a web app,\" I finally did it! I've been maintaining a popular repo of terminal themes at https://github.com/mbadolato/iTerm2-Color-Schemes , and it was finally time to build the app with all the features I wanted! So, the next-gen version i",
-     "source": "Hacker News",
-     "zh": "Show HN: My Terminal Themes Web App"
-    },
-    {
-     "title": "The Double Headed Stack Allocator",
-     "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-     "pubDate": "Thu, 15 Oct 2026 02:06:36 +0000",
-     "summary": "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/ Comments URL: https://news.ycombinator.com/item?id=50098274 Points: 31 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "The Double Headed Stack Allocator"
-    },
-    {
-     "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-     "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-     "pubDate": "Thu, 15 Oct 2026 00:49:31 +0000",
-     "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
-     "source": "TechCrunch",
-     "zh": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’"
     }
    ]
   },
@@ -2025,6 +2025,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Tecno Spark 50s 5G launch date confirmed",
+     "link": "https://www.gsmarena.com/tecno_spark_50s_5g_launch_date_confirmed_-news-75045.php",
+     "pubDate": "Thu, 15 Oct 2026 07:01:02 +0200",
+     "summary": "Tecno is ready to expand its Spark 50 series with a new entry in India later this week. The Spark 50s 5G will join the Spark 50 4G, Spark 50 and Spark 50 Pro as the latest addition in the series on October 16. Aasmaan ke taare utar aaye zameen par ✨ Miliye TECNO SPARK 50S se - 5G Ka Dhurandhar 😎 La",
+     "source": "GSMArena",
+     "zh": "Tecno Spark 50s 5G launch date confirmed"
+    },
+    {
+     "title": "Google is now emailing Gemini subscribers about a change that will cost them 4x more",
+     "link": "https://www.androidauthority.com/google-ai-plus-pro-model-access-cut-off-date-3723558/",
+     "pubDate": "Thu, 15 Oct 2026 04:59:51 +0000",
+     "summary": "Google is now telling Gemini subscribers they're losing access to Pro models mid-November.",
+     "source": "Android Authority",
+     "zh": "Google is now emailing Gemini subscribers about a change that will cost them 4x more"
+    },
     {
      "title": "Check your inbox: Google is quietly handing out Pixel 11 discount codes",
      "link": "https://www.androidauthority.com/google-pixel-11-discount-ai-pro-subscriber-benefit-3723553/",
@@ -2226,14 +2242,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google Home update rolling out with improved Favorites, more app & Gemini fixes"
     },
     {
-     "title": "Verizon customers just got a free Google AI Pro perk",
-     "link": "https://www.androidauthority.com/verizon-google-ai-pro-on-us-perk-3723472/",
-     "pubDate": "Wed, 14 Oct 2026 20:30:19 +0000",
-     "summary": "Verizon adds Google AI Pro on us perk for eligible customers.",
-     "source": "Android Authority",
-     "zh": "Verizon customers just got a free Google AI Pro perk"
-    },
-    {
      "title": "Fitbit Edge vs Fitbit Air: The differences beyond a screen",
      "link": "https://www.engadget.com/2287042/fitbit-edge-vs-air-differences-compared/",
      "pubDate": "Wed, 14 Oct 2026 20:13:18 +0000",
@@ -2248,14 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "Lithium-ion just isn't cut out for the cosmos.",
      "source": "Engadget",
      "zh": "NASA explains how it's making batteries for the Moon's extreme temperatures"
-    },
-    {
-     "title": "Google's Play Store is now selling Pixel and Samsung devices in some regions",
-     "link": "https://www.gsmarena.com/googles_play_store_is_now_selling_pixel_and_samsung_devices_in_some_regions-news-75050.php",
-     "pubDate": "Wed, 14 Oct 2026 22:01:02 +0200",
-     "summary": "Google is starting to sell hardware on its Play Store. In some regions, the company has quietly added a new \"Shop devices\" tab in the Play Store's account switcher. The interesting bit is that Google is listing not only Pixel devices, but Samsung's too. Users can buy the Galaxy S26 lineup and some G",
-     "source": "GSMArena",
-     "zh": "Google's Play Store is now selling Pixel and Samsung devices in some regions"
     },
     {
      "title": "YouTube Music rolling out AI labels in the Now Playing screen",
@@ -2273,6 +2273,62 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Telefonaktiebolaget LM Ericsson beats top-line and bottom-line estimates; gives Q4 outlook",
+     "link": "https://seekingalpha.com/news/4653234-telefonaktiebolaget-lm-ericsson-beats-top-line-and-bottom-line-estimates-gives-q4-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 01:05:36 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Telefonaktiebolaget LM Ericsson beats top-line and bottom-line estimates; gives Q4 outlook"
+    },
+    {
+     "title": "世龙实业10月15日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610153896674540.html",
+     "pubDate": "Thu, 15 Oct 2026 13:03:50 +0800",
+     "summary": "以下是 世龙实业 在北京时间10月15日13:03分盘口异动快照： 10月15日， 世龙实业 盘中涨幅达5%，截至13点03分，报13.05元，成交2.08亿元，换手率7.10%。 分笔 13:03:39 13.05 1219↑ 13:03:36 12.98 1329↓ 13:03:33 12.98 53↑ 13:03:30 12.97 252↑ 13:03:27 12.95 1674↑ 13:03:24 12.85 362↑ 13:03:21 12.82 169↑ 13:03:18 12.80 53↑ 13:03:15 12.80 223↑ 13:03:12 12.77 345↑ 报价 卖五",
+     "source": "东方财富股票",
+     "zh": "世龙实业10月15日盘中涨幅达5%"
+    },
+    {
+     "title": "*ST威领10月15日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610153896674410.html",
+     "pubDate": "Thu, 15 Oct 2026 13:03:50 +0800",
+     "summary": "以下是 *ST威领 在北京时间10月15日13:03分盘口异动快照： 10月15日， *ST威领 盘中快速上涨，5分钟内涨幅超过2%，截至13点03分，报29.8元，成交4.17亿元，换手率6.06%。 分笔 13:03:39 29.85 32↑ 13:03:36 29.80 87↑ 13:03:33 29.80 19↑ 13:03:30 29.80 38↑ 13:03:27 29.75 33↑ 13:03:24 29.74 289↓ 13:03:21 29.74 12↑ 13:03:18 29.70 163↓ 13:03:15 29.71 36↑ 13:03:12 29.70 18↑ 报价 ",
+     "source": "东方财富股票",
+     "zh": "*ST威领10月15日快速上涨"
+    },
+    {
+     "title": "继峰股份10月15日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610153896674357.html",
+     "pubDate": "Thu, 15 Oct 2026 13:03:40 +0800",
+     "summary": "以下是 继峰股份 在北京时间10月15日13:03分盘口异动快照： 10月15日， 继峰股份 盘中快速反弹，5分钟内涨幅超过2%，截至13点03分，报11.34元，成交2.94亿元，换手率2.07%。 分笔 13:03:34 11.34 2107↑ 13:03:31 11.29 237↑ 13:03:28 11.29 57↑ 13:03:22 11.29 7↑ 13:03:19 11.29 3↑ 13:03:16 11.29 101↑ 13:03:13 11.28 8↑ 13:03:10 11.29 32↑ 13:03:07 11.28 498↓ 13:03:04 11.30 77↑ 报价 卖",
+     "source": "东方财富股票",
+     "zh": "继峰股份10月15日快速反弹"
+    },
+    {
+     "title": "京基智农10月15日打开跌停",
+     "link": "http://stock.eastmoney.com/news/1944,202610153896674292.html",
+     "pubDate": "Thu, 15 Oct 2026 13:03:40 +0800",
+     "summary": "以下是 京基智农 在北京时间10月15日13:03分盘口异动快照： 10月15日13点3分， 京基智农 盘中打开跌停，现报16.57元，成交3.00亿元，换手率3.34%。该股之前于13点0分跌停。 分笔 13:03:30 16.57 1386↑ 13:03:27 16.56 912↑ 13:03:24 16.56 74↑ 13:03:21 16.56 482↑ 13:03:18 16.56 105↑ 13:03:15 16.56 308↑ 13:03:12 16.56 155↑ 13:03:09 16.56 216↑ 13:03:06 16.56 331↑ 13:03:03 16.56 55",
+     "source": "东方财富股票",
+     "zh": "京基智农10月15日打开跌停"
+    },
+    {
+     "title": "威尔高10月15日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610153896674182.html",
+     "pubDate": "Thu, 15 Oct 2026 13:03:40 +0800",
+     "summary": "以下是 威尔高 在北京时间10月15日13:03分盘口异动快照： 10月15日， 威尔高 盘中涨幅达5%，截至13点03分，报84.31元，成交10.90亿元，换手率7.68%。 分笔 13:03:33 84.31 240↑ 13:03:30 83.93 11↑ 13:03:27 83.83 8↑ 13:03:24 83.79 179↑ 13:03:21 83.65 4↓ 13:03:18 83.70 3↓ 13:03:15 83.70 33↓ 13:03:12 83.75 19↓ 13:03:09 83.80 13↑ 13:03:06 83.73 3↓ 报价 卖五 84.57 1 卖四 84",
+     "source": "东方财富股票",
+     "zh": "威尔高10月15日盘中涨幅达5%"
+    },
+    {
+     "title": "三祥新材10月15日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610153896673919.html",
+     "pubDate": "Thu, 15 Oct 2026 13:03:30 +0800",
+     "summary": "以下是 三祥新材 在北京时间10月15日13:03分盘口异动快照： 10月15日， 三祥新材 盘中快速反弹，5分钟内涨幅超过2%，截至13点03分，报35.47元，成交3.71亿元，换手率1.81%。 分笔 13:03:21 35.47 59↑ 13:03:18 35.43 136↑ 13:03:15 35.29 34↑ 13:03:12 35.28 91↓ 13:03:09 35.28 20↓ 13:03:03 35.34 115↓ 13:03:00 35.39 3↓ 13:02:57 35.40 81↑ 13:02:54 35.39 456↑ 13:02:51 35.30 529↑ 报价 ",
+     "source": "东方财富股票",
+     "zh": "三祥新材10月15日快速反弹"
+    },
     {
      "title": "Equity Bancshares Non-GAAP EPS of $1.40 beats by $0.14, revenue of $83.74M misses by $6.98M",
      "link": "https://seekingalpha.com/news/4653232-equity-bancshares-non-gaap-eps-of-140-beats-by-014-revenue-of-8374m-misses-by-698m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2328,14 +2384,6 @@ window.INDUSTRY_DATA = {
      "summary": "本报讯 （记者李乔宇） 《证券日报》记者从蓝箭航天空间科技股份有限公司（以下简称“蓝箭航天”）获悉，北京时间2026年10月14日19时40分，朱雀二号改进型遥四运载火箭（ZQ-2E Y4）在东风商业航天创新试验区蓝箭航天液氧甲烷运载火箭发射工位点火升空，采用一箭十星“拼车”的方式将国星宇航星时代-39星、44、45、46、47、48、49、50星、蓝塔智能光传-03、04星顺利送入预定轨道，飞行试验任务获得圆满成功。此次任务是朱...",
      "source": "经济观察网",
      "zh": "朱雀二号第10次飞行圆满成功  一箭10星再拓星箭协同新实践"
-    },
-    {
-     "title": "Musk says U.S. military and Trump control Ukraine’s Starshield access",
-     "link": "https://seekingalpha.com/news/4653223-musk-says-us-military-and-trump-control-ukraines-starshield-access?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 00:25:50 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Musk says U.S. military and Trump control Ukraine’s Starshield access"
     },
     {
      "title": "Elon Musk says Trump is &apos;ultimately&apos; responsible for any curbs on Ukraine&apos;s Starshield systems",
@@ -2464,54 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI短剧市场再迎重磅玩家。 近日，“绿泡泡短剧”和“红果短剧”的AI短剧“红绿大战”备受关注！ 资本市场上，也侧面反映出上述事件的火爆程度。10月15日，AI短剧、漫剧概念反复走强， 读者传媒 、 慈文传媒 等涨停， 读客文化 一度“20cm涨停”， 出版传媒 、 掌阅科技 、 昆仑万维 涨幅居前。值得一提的是， 慈文传媒 开盘即封板，最大封单超过3亿元。 二级市场资金躁动的背后，是腾讯于近期低调上线内嵌于微信生态的“绿泡泡短剧”小程序，以“免费好剧，一点就看”为核心定位，直接对标字节跳动旗下日活1.68亿的红果短剧。 涨停潮起，AI短剧情绪被点燃 此前 慈文传媒 已录得5连板， 欢瑞世纪 5",
      "source": "东方财富资讯",
      "zh": "开盘封板！敢死队超3亿元抢筹！“红绿大战”杀疯"
-    },
-    {
-     "title": "沪指下跌1.98% 出版、白酒板块逆势走强 煤炭股大跌",
-     "link": "http://finance.eastmoney.com/news/1345,202610153896647813.html",
-     "pubDate": "Thu, 15 Oct 2026 11:30:32 +0800",
-     "summary": "A股三大指数震荡下跌，沪指跌近2%，创业板指跌逾3.4%。盘面上， 出版 、 白酒 、 医疗美容 、 厨卫电器 逆势走强， 煤炭 、 油服工程 、 稀缺资源 、 航运港口 、 CPO概念 、 BC 电池 表现不佳，领跌市场。 截至午间收盘，沪指下跌1.98%，报3692.65点；深成指下跌2.78%，报11773.45点；创业板指下跌3.42%，报2768.63点；科创50指数下跌3.02%，报1338.53点；北证50指数下跌2.76%，报974.37点。全市场上涨个股有466家，下跌个股有5060家，33只股涨停。两市半日合计成交9818亿。 今日要闻 光模块、PCB接连被传限制 海外政策",
-     "source": "东方财富资讯",
-     "zh": "沪指下跌1.98% 出版、白酒板块逆势走强 煤炭股大跌"
-    },
-    {
-     "title": "美联储12月或祭出50基点加息？资深预测人士：10月料按兵不动",
-     "link": "http://finance.eastmoney.com/news/1346,202610153896640172.html",
-     "pubDate": "Thu, 15 Oct 2026 11:18:45 +0800",
-     "summary": "在美国公布全面超预期的CPI数据后，美联储10月加息概率有所上升，但不加息的概率仍然占据上风。但一位曾较早预测到美联储9月加息的预测人士提出了另一种可能： 12月份该央行可能会进行更大幅度、即50个基点的加息 。 市场研究机构Prestige Economics 的总裁Jason Schenker最新表示，他认为 美联储在本月的会议上不太可能提高基准利率 。相反， 他认为美联储可能会给9月的加息“一点喘息的空间”，然后再在12月考虑更大幅度的加息 。 “到了12月，如果9月加息之后，通胀仍未得到更有力、更实质性的遏制，美联储可能会选择加息50个基点，而不是25个基点，以便更大力度地压制通胀。”",
-     "source": "东方财富资讯",
-     "zh": "美联储12月或祭出50基点加息？资深预测人士：10月料按兵不动"
-    },
-    {
-     "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
-     "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-     "pubDate": "Thu, 15 Oct 2026 01:07:01 GMT",
-     "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
-     "source": "CNBC",
-     "zh": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount"
-    },
-    {
-     "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
-     "link": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
-     "pubDate": "Thu, 15 Oct 2026 01:07:00 GMT",
-     "summary": "Anthropic’s revenue growth appears to be cooling as the company prepares for its public debut, further stoking investors’ AI jitters",
-     "source": "MarketWatch",
-     "zh": "Anthropic’s slowing growth could be the AI trade’s latest red flag"
-    },
-    {
-     "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-     "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
-     "pubDate": "Thu, 15 Oct 2026 00:59:36 GMT",
-     "summary": "Rapid growth is slower than some anticipated as fears about AI trade rattle markets",
-     "source": "Financial Times",
-     "zh": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO"
-    },
-    {
-     "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
-     "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
-     "pubDate": "Thu, 15 Oct 2026 00:02:00 GMT",
-     "summary": "Neutron, a medium-lift rocket meant to rival SpaceX’s Falcon 9, will no longer launch this year.",
-     "source": "MarketWatch",
-     "zh": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch"
     }
    ]
   },

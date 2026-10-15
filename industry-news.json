@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/15 22:26:01",
+ "generated_at": "2026/10/15 22:31:50",
  "recent_days": 7,
  "industries": [
   {
@@ -17,20 +17,20 @@
      "zh": "TechCrunch Disrupt 2026: Last day"
     },
     {
-     "title": "Building AI Applications with OGX, the Open-Source Agentic API Server",
-     "link": "https://www.kdnuggets.com/building-ai-applications-with-open-source-agentic-api-server-ogx",
-     "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
-     "summary": "OGX is an open-source agentic API server for building OpenAI-compatible AI applications, using any model and any infrastructure.",
-     "source": "KDnuggets",
-     "zh": "Building AI Applications with OGX, the Open-Source Agentic API Server"
-    },
-    {
      "title": "OpenRouter周榜全球第二，这个国产模型终于开源了",
      "link": "https://zhidx.com/p/601405.html",
      "pubDate": "Thu, 15 Oct 2026 21:25:15 +0800",
      "summary": "智东西10月15日报道，刚刚， 一款刚登上OpenRouter Token全球使用量周榜第二的大模型，开源了！ 阶跃星辰正式开放 Step 5 Preview 的模型权重，BF16、FP8两个版本同步上线HuggingFace和ModelScope。 Hugging Face：https://huggingface.co/stepfun-ai/Step-5-Preview ModelScope：https://modelscope.cn/models/stepfun-ai/Step-5-Preview Step 5 Preview采用稀疏MoE架构， 总参数量600B、激活参数仅27B ，支持",
      "source": "智东西",
      "zh": "OpenRouter周榜全球第二，这个国产模型终于开源了"
+    },
+    {
+     "title": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026",
+     "link": "https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/",
+     "pubDate": "Thu, 15 Oct 2026 13:23:45 +0000",
+     "summary": "At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community introduced KART, a unified AI runtime, alongside core desktop features in openKylin 3.0 like the AI Assistant, Global Intelligent Search, and ",
+     "source": "MarkTechPost",
+     "zh": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026"
     },
     {
      "title": "Teaching students to think and learn through questions",
@@ -47,14 +47,6 @@
      "summary": "智东西 作者 | 云鹏 编辑 | 李水青 智东西10月15日报道，近日，华为在上海练秋湖畔举办了一场为期两天的深度技术沟通会，从 影像、屏幕、可靠、定位、声音5大方向9大技术 品牌，到 麒麟9050系列背后韬定律、逻辑折叠、混合键合 等海量技术细节，华为首次详细对外解读。 主讲人分别为第一天的 华为终端BG CTO李小龙， 以及第二天的 华为半导体业务无线终端芯片产品管理部部长徐松余。 值得一提的是，这也是 时隔6年，华为再次对外详细解读麒麟芯片， 其重要意义不言而喻。 两天的沟通会信息量极大，可以说干货多到爆： ·内含 300多个零部件 的影像“巨炮” Z10模块相机 如何突破光学硬件的物理",
      "source": "智东西",
      "zh": "万字深度解密：华为麒麟2026韬定律大量技术细节首披露"
-    },
-    {
-     "title": "7 Open-Source AI Tools That Can Replace Paid Subscriptions",
-     "link": "https://www.kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions",
-     "pubDate": "Thu, 15 Oct 2026 12:00:34 +0000",
-     "summary": "Find open-source alternatives to OpenAI API, Midjourney, Claude Code, Notion, Wispr Flow, Grammarly, and NotebookLM that you can run locally or self-host for more privacy, control, and lower cost.",
-     "source": "KDnuggets",
-     "zh": "7 Open-Source AI Tools That Can Replace Paid Subscriptions"
     },
     {
      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
@@ -247,6 +239,14 @@
      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
      "source": "TechCrunch AI",
      "zh": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different"
+    },
+    {
+     "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+     "link": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+     "pubDate": "Wed, 14 Oct 2026 16:14:34 +0000",
+     "summary": "General Science",
+     "source": "Google Research",
+     "zh": "Research@ 2026: 10 ways we're amplifying human ingenuity"
     }
    ]
   },
@@ -1729,12 +1729,12 @@
      "zh": "U.K. Sanctions Cryptomus for RU Money Laundering"
     },
     {
-     "title": "Russian Influence Operation Widely Targeting Latin America",
+     "title": "Russian Influence Operation Widely Targets Latin America",
      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
      "pubDate": "Wed, 14 Oct 2026 13:00:00 GMT",
      "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
      "source": "Dark Reading",
-     "zh": "Russian Influence Operation Widely Targeting Latin America"
+     "zh": "Russian Influence Operation Widely Targets Latin America"
     },
     {
      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
@@ -1768,6 +1768,22 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Google’s Universal Cart shopping tool launches in the US",
+     "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+     "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
+     "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+     "source": "TechCrunch",
+     "zh": "Google’s Universal Cart shopping tool launches in the US"
+    },
+    {
+     "title": "工信部等三部门联合调查有关车辆刹车踏板支架断裂问题，尊界声明积极响应、完全服从并将全力配合调查组工作",
+     "link": "https://www.ithome.com/1/013/666.htm",
+     "pubDate": "Thu, 15 Oct 2026 14:23:33 GMT",
+     "summary": "IT之家 10 月 15 日消息，针对网络反映的“尊界 V800 汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上， 成立联合调查组开展核查 ，并依法依规处理。有关情况将及时公布。 尊界汽车官方微博刚刚发布声明，宣布将积极响应、完全服从并将全力配合联合调查组的工作。IT之家附声明原文如下： 10 月 15 日，工信部等三部门发布了联合调查有关车辆刹车踏板支架断裂问题的通报。 我们积极响应、完全服从并将全力配合联合调查组的工作 ，坚决维护消费者合法权益，坚决维护新能源汽车产业发展大局。 相关阅读： 《 工信部、中央网信办、市场监管总局三部门下场，",
+     "source": "IT之家",
+     "zh": "工信部等三部门联合调查有关车辆刹车踏板支架断裂问题，尊界声明积极响应、完全服从并将全力配合调查组工作"
+    },
     {
      "title": "《GTA6》游戏被德国 USK 评级 18：不加批判地描绘犯罪，甚至达到美化的地步",
      "link": "https://www.ithome.com/1/013/665.htm",
@@ -1839,14 +1855,6 @@
      "summary": "苹果 1 月 26 日发布了全新 AirTag 追踪器，该配件可通过苹果“查找”App 帮助用户追踪和查找重要物品，新品进一步拓展了查找范围，并配备了音量更大的扬声器。 售价单件装 249 元，四件装 849 元。 今日京东国补后四件装 763 元，单枚约 191 元。 京东无门槛红包至高 26888 元，支持即领即用： 点此抽取 。 京东 AirTag 第二代 4 件装 苹果官方配件 国补后 763 元 直达链接 单件装国补后 223 元： 京东 AirTag 第二代 &nbsp;单件装 苹果官方配件 国补后 218 元 直达链接 据介绍，苹果为新款 AirTag 配备了与 iPhone 1",
      "source": "IT之家",
      "zh": "藏在哪里大声告诉你：苹果 AirTag 2 国补 191 元，查找范围升 50% + 音量升 50%"
-    },
-    {
-     "title": "苹果 CEO 特努斯登上《时代》周刊封面：谈公司未来 50 年，iPhone Duo 入选 2026 年度“最佳发明”",
-     "link": "https://www.ithome.com/1/013/658.htm",
-     "pubDate": "Thu, 15 Oct 2026 13:48:15 GMT",
-     "summary": "IT之家 10 月 15 日消息，《时代》周刊（TIME）今日公布了 2026 年度“最佳发明”（Best Inventions of 2026）专题，苹果公司新任 CEO 约翰・特努斯（John Ternus）登上专题封面。 同时，特纳斯接受了《时代》杂志的独家专访，首次以封面人物的身份畅谈了 iPhone Duo，以及他将如何带领这家标志性公司迈向下一个 50 年。 此次专题将聚焦改变人们生活、工作和思考方式的新产品与创意。该专题属于《时代》周刊每年推出的“最佳发明”特刊，该评选已持续 25 年以上。 根据官方介绍，今年共收录 300 项最佳发明，以及 100 项特别提名（Special ",
-     "source": "IT之家",
-     "zh": "苹果 CEO 特努斯登上《时代》周刊封面：谈公司未来 50 年，iPhone Duo 入选 2026 年度“最佳发明”"
     },
     {
      "title": "I know why Mathematicians weep",
@@ -1999,14 +2007,6 @@
      "summary": "ColorOS 7.7亿用户，养不出一个原生Agent？",
      "source": "钛媒体",
      "zh": "OPPO决定 把 AI“外包” 给 Manus"
-    },
-    {
-     "title": "“机器人之眼”收入成谜，股东套现7.8亿，奥比中光278倍PE谁在买单？",
-     "link": "https://www.tmtpost.com/8168985.html",
-     "pubDate": "Thu, 15 Oct 2026 18:21:28 +0800",
-     "summary": "净利降三成，机构定增浮亏24%，奥比中光冲刺港股胜算几何？",
-     "source": "钛媒体",
-     "zh": "“机器人之眼”收入成谜，股东套现7.8亿，奥比中光278倍PE谁在买单？"
     }
    ]
   },
@@ -2166,7 +2166,7 @@
      "pubDate": "Thu, 15 Oct 2026 14:36:02 +0200",
      "summary": "WhatsApp has announced a new Guest Calling feature that lets users invite anyone to join a call, including people who do not have a WhatsApp account. Guest calls also come without time limits and remain end-to-end encrypted. When a host invites someone to a call, the guest is placed in a waiting roo",
      "source": "GSMArena",
-     "zh": "WhatsApp's new Guest Calling feature lets you invite anyone to a call"
+     "zh": "WhatsApp 的新访客通话功能可让您邀请任何人加入通话"
     },
     {
      "title": "YouTube Premium could soon get another perk without any extra cost",
@@ -2182,7 +2182,7 @@
      "pubDate": "Thu, 15 Oct 2026 12:00:14 +0000",
      "summary": "Today marks a milestone for MacPaw, as the company is releasing Eney, a proactive AI assistant that works across your apps, files, and system to help you get things done, following a development process that began back in 2019. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "MacPaw launches Eney, a proactive AI assistant for Mac and iPhone"
+     "zh": "MacPaw 推出 Eney，一款适用于 Mac 和 iPhone 的主动式 AI 助手"
     },
     {
      "title": "Bye bye One UI, hello Galaxy OS? Wild rumor points to a big shakeup for Samsung phones",
@@ -2190,7 +2190,7 @@
      "pubDate": "Thu, 15 Oct 2026 11:52:42 +0000",
      "summary": "Samsung might be cooking up a new identity for its Galaxy software.",
      "source": "Android Authority",
-     "zh": "Bye bye One UI, hello Galaxy OS? Wild rumor points to a big shakeup for Samsung phones"
+     "zh": "再见 One UI，你好 Galaxy OS？传言称三星手机将进行重大调整"
     },
     {
      "title": "Touchscreen MacBook Pro and more launching at Apple event on Oct 28",
@@ -2198,7 +2198,7 @@
      "pubDate": "Thu, 15 Oct 2026 11:41:56 +0000",
      "summary": "We’ve long been awaiting the launch of the first touchscreen and OLED MacBook Pro, and a new report says that the official launch will take place at an Apple event on October 28. It says that Apple has begun sending invites to selected media representatives. The same event will include the OLED iPad",
      "source": "9to5Mac",
-     "zh": "Touchscreen MacBook Pro and more launching at Apple event on Oct 28"
+     "zh": "触摸屏 MacBook Pro 及更多产品将于 10 月 28 日在 Apple 活动中发布"
     },
     {
      "title": "More details about the iQOO Neo12's display revealed",
@@ -2206,7 +2206,7 @@
      "pubDate": "Thu, 15 Oct 2026 13:37:02 +0200",
      "summary": "iQOO is set to launch the Neo12 in China this month. It has already confirmed that the smartphone will feature a 2K 185Hz AMOLED display developed by Visionox and using p-TSF technology. Now, iQOO has revealed more details about the Neo12's display. iQOO said the Neo12's display will have a minimum ",
      "source": "GSMArena",
-     "zh": "More details about the iQOO Neo12's display revealed"
+     "zh": "有关 iQOO Neo12 显示屏的更多细节揭晓"
     },
     {
      "title": "The ‘renewable’ iPhone Duo display layer may help buyers justify the price",
@@ -2214,7 +2214,7 @@
      "pubDate": "Thu, 15 Oct 2026 11:28:44 +0000",
      "summary": "The iPhone Duo starts at $1999 for the 256GB model and rises to an eye-watering $3199 for the 2TB version – but a “renewable” inner display layer may help buyers to justify spending so much money on a phone. Apple has addressed the biggest problem experienced with folding phones to date via a surpri",
      "source": "9to5Mac",
-     "zh": "The ‘renewable’ iPhone Duo display layer may help buyers justify the price"
+     "zh": "“可再生”iPhone Duo 显示层可能有助于买家证明价格合理"
     },
     {
      "title": "The smart home may be too messy even for Google",
@@ -2222,7 +2222,7 @@
      "pubDate": "Thu, 15 Oct 2026 11:00:00 +0000",
      "summary": "Good morning! Today I’m watching this epic discussion between Thom Yorke and Harry Styles , reading everything I can about the new Ocarina of Time remake , playing MMO Solitaire with 400 other people , and jamming to Remi Wolf’s new album, Mud . As a reminder, Inbox is the tech newsletter that goes ",
      "source": "9to5Google",
-     "zh": "The smart home may be too messy even for Google"
+     "zh": "即使对于谷歌来说，智能家居也可能太混乱了"
     },
     {
      "title": "Rumor claims the Oppo Reno17 series won't include a Pro model",
@@ -2230,7 +2230,7 @@
      "pubDate": "Thu, 15 Oct 2026 12:36:02 +0200",
      "summary": "The Oppo Reno17 series is rumored to launch in China next month. However, a new leak claims that the lineup will not include a Pro model, at least in India. Meanwhile, a hands-on image of the standard Reno17 has surfaced online. According to the leak, the Reno17 will retain most of its predecessor’s",
      "source": "GSMArena",
-     "zh": "Rumor claims the Oppo Reno17 series won't include a Pro model"
+     "zh": "有传言称 Oppo Reno17 系列不会包含 Pro 型号"
     },
     {
      "title": "Apple Intelligence is finally coming to China, but without Siri AI",
@@ -2238,7 +2238,7 @@
      "pubDate": "Thu, 15 Oct 2026 11:34:02 +0200",
      "summary": "Apple Intelligence was first announced in 2024 with iOS 18, but Apple struggled to make it available in two regions – the EU and China. Bloomberg reports that Cupertino will finally check the latter off the list with an upcoming update. iOS 27.3, which is expected in December, will enable Apple Inte",
      "source": "GSMArena",
-     "zh": "Apple Intelligence is finally coming to China, but without Siri AI"
+     "zh": "Apple Intelligence 终于来中国了，但没有 Siri AI"
     },
     {
      "title": "新玩意 253｜少数派的编辑们最近买了啥？",
@@ -2254,7 +2254,7 @@
      "pubDate": "Thu, 15 Oct 2026 10:33:02 +0200",
      "summary": "According to a new rumor from a usually reliable source of information about HMD, the company is currently planning on withdrawing from \"select markets\". It will also allegedly \"scale down production for its global device portfolio\". HMD is said to be shifting its \"core focus\" to \"regional markets\" ",
      "source": "GSMArena",
-     "zh": "HMD is going to withdraw from \"select markets\", rumor claims"
+     "zh": "有传言称 HMD 将退出“特定市场”"
     }
    ]
   },
@@ -2265,20 +2265,92 @@
    "total": 13,
    "items": [
     {
-     "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-     "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-     "pubDate": "Thu, 15 Oct 2026 14:22:38 GMT",
-     "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
-     "source": "CNBC",
-     "zh": "Nvidia, AMD, Micron fall as AI stock sell-off deepens"
+     "title": "Wall Street trades mixed as investors digest PPI inflation data",
+     "link": "https://seekingalpha.com/news/4653402-wall-street-trades-mixed-as-investors-digest-ppi-inflation-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 10:26:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "投资者消化 PPI 通胀数据，华尔街交投涨跌互现"
     },
     {
-     "title": "Trump says Nidal Hasan execution won&apos;t be live-streamed",
-     "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
-     "pubDate": "Thu, 15 Oct 2026 14:20:54 GMT",
-     "summary": "Hasan murdered 13 people and injured more than 32 others in the mass shooting at Fort Hood in Texas.",
+     "title": "Holiday sales forecast by the NRF to rise 4.2%",
+     "link": "https://seekingalpha.com/news/4653334-holiday-sales-forecast-by-the-nrf-to-rise-42?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 10:25:31 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NRF 预测假日销售将增长 4.2%"
+    },
+    {
+     "title": "Southwest is overhauling its frequent flyer program. Here&apos;s what&apos;s changing",
+     "link": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
+     "pubDate": "Thu, 15 Oct 2026 14:25:01 GMT",
+     "summary": "Southwest Airlines is overhauling its loyalty program and replacing A-List and A-List Preferred with three new tiers.",
      "source": "CNBC",
-     "zh": "Trump says Nidal Hasan execution won&apos;t be live-streamed"
+     "zh": "西南航空正在彻底改革其常旅客计划。这是正在发生的变化"
+    },
+    {
+     "title": "October rate hike odds retreat below 30%",
+     "link": "https://seekingalpha.com/news/4653437-october-rate-hike-odds-retreat-below-30?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 10:24:03 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "10月加息可能性回落至30%以下"
+    },
+    {
+     "title": "英美资源集团首席执行官表示，科技巨头正考虑入股以确保金属供应",
+     "link": "http://finance.eastmoney.com/news/1351,202610153897238697.html",
+     "pubDate": "Thu, 15 Oct 2026 22:23:46 +0800",
+     "summary": "英美资源集团首席执行官表示，科技巨头正考虑入股以确保金属供应。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "英美资源集团首席执行官表示，科技巨头正考虑入股以确保金属供应"
+    },
+    {
+     "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+     "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+     "pubDate": "Thu, 15 Oct 2026 14:23:12 GMT",
+     "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+     "source": "CNBC",
+     "zh": "随着人工智能股票抛售加深，英伟达、AMD、美光下跌"
+    },
+    {
+     "title": "瑞银集团：将贝莱德目标价从1277美元上调至1300美元 将微软目标价从525美元上调至675美元",
+     "link": "http://finance.eastmoney.com/news/1351,202610153897238293.html",
+     "pubDate": "Thu, 15 Oct 2026 22:22:55 +0800",
+     "summary": "瑞银集团 ：将 贝莱德 目标价从1277美元上调至1300美元。将 微软 目标价从525美元上调至675美元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "瑞银集团：将贝莱德目标价从1277美元上调至1300美元 将微软目标价从525美元上调至675美元"
+    },
+    {
+     "title": "潘兴广场首席投资官Israel表示，奈飞盈利年增速可能达到25%",
+     "link": "http://finance.eastmoney.com/news/1351,202610153897237824.html",
+     "pubDate": "Thu, 15 Oct 2026 22:22:54 +0800",
+     "summary": "潘兴广场首席投资官Israel表示， 奈飞 盈利年增速可能达到25%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "潘兴广场首席投资官Israel表示，奈飞盈利年增速可能达到25%"
+    },
+    {
+     "title": "阿联酋8月M3货币供应量同比增长12.5%",
+     "link": "http://finance.eastmoney.com/news/1351,202610153897237713.html",
+     "pubDate": "Thu, 15 Oct 2026 22:22:53 +0800",
+     "summary": "阿联酋8月M3货币供应量同比增长12.5%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "阿联酋8月M3货币供应量同比增长12.5%"
+    },
+    {
+     "title": "美股三大指数走势分化 纳指跌幅超1% 存储、光通信板块走弱",
+     "link": "http://finance.eastmoney.com/news/1345,202610153897165893.html",
+     "pubDate": "Thu, 15 Oct 2026 22:22:22 +0800",
+     "summary": "10月15日，美股三大指数走势分化，截至发稿， 道指涨0.50%， 纳指跌0.81%，标普500指数跌0.28%。 存储、光 通信 板块走弱， 截至 发稿，SK 海力士跌超4%， 美光科技 跌超3%， 闪迪 跌超6%， 康宁 跌超4%。 全球要闻 美国9月PPI同比增长6.3% 远超市场预期 美国9月PPI同比增长6.3%，预估5.3%，前值5.4%。美国9月PPI环比增长1.3%，预估0.6%。美国9月零售销售环比增长0.8%，预估为0.3%。美国上周初请失业金人数为19.9万人，预期20万人，前值由19.7万人修正为19.8万人。 特朗普考虑介入对胡塞打击 胡塞威胁把在中东美国人纳入攻击目",
+     "source": "东方财富股票",
+     "zh": "美股三大指数走势分化 纳指跌幅超1% 存储、光通信板块走弱"
+    },
+    {
+     "title": "新款Roadster即将亮相“特斯拉能飞”究竟是噱头还是现实？",
+     "link": "http://stock.eastmoney.com/news/1768,202610153897237446.html",
+     "pubDate": "Thu, 15 Oct 2026 22:21:41 +0800",
+     "summary": "特斯拉 官网显示，这家电动 汽车 制造商定于美东时间周四20:55（北京时间周五早08:55）在美国得州举行Roadster发布活动。 日内早些时候，埃隆·马斯克在社交媒体上发帖称，“新款Roadster是史上最伟大的产品演示。”上月，马斯克曾称发布会“无法保证成功，但保证精彩”。 2017年， 特斯拉 公布了这款跑车的原型车，当时售价为20万美元，并表示将于2020年开始交付。目前，该车售价尚未更新，但预订金仍为每辆5万美元。 早于2017年，马斯克就提及Roadster将配备一个“特殊升级包”，可以“使其能够进行短途飞行”。2024年，他又在社交媒体上写道，“新款Roadster可以飞”。",
+     "source": "东方财富股票",
+     "zh": "新款Roadster即将亮相“特斯拉能飞”究竟是噱头还是现实？"
     },
     {
      "title": "Ukraine's Starlink restrictions deepen rift with Trump",
@@ -2286,7 +2358,7 @@
      "pubDate": "Thu, 15 Oct 2026 10:20:25 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Ukraine's Starlink restrictions deepen rift with Trump"
+     "zh": "乌克兰的星链限制加深了与特朗普的裂痕"
     },
     {
      "title": "U.S. reportedly considers use of &apos;mother of all bombs&apos; as Iran vows to fight on",
@@ -2294,7 +2366,7 @@
      "pubDate": "Thu, 15 Oct 2026 14:19:26 GMT",
      "summary": "The U.S. military has reportedly drawn up options for strikes on Iran that include the potential use of one of the biggest nonnuclear bombs in its arsenal.",
      "source": "CNBC",
-     "zh": "U.S. reportedly considers use of &apos;mother of all bombs&apos; as Iran vows to fight on"
+     "zh": "据报道，伊朗誓言继续战斗，美国考虑使用“炸弹之母”"
     },
     {
      "title": "Evolution Mining reports Q1 results",
@@ -2302,7 +2374,7 @@
      "pubDate": "Thu, 15 Oct 2026 10:15:48 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Evolution Mining reports Q1 results"
+     "zh": "Evolution Mining 报告第一季度业绩"
     },
     {
      "title": "Nvidia's Huang advocates for US and UK to work with China on AI safety",
@@ -2310,87 +2382,39 @@
      "pubDate": "Thu, 15 Oct 2026 10:15:22 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Nvidia's Huang advocates for US and UK to work with China on AI safety"
+     "zh": "英伟达黄仁勋主张美国和英国在人工智能安全方面与中国合作"
     },
     {
-     "title": "美国议员提议要求美联储披露与爱泼斯坦相关的记录",
-     "link": "http://finance.eastmoney.com/news/1351,202610153897225296.html",
-     "pubDate": "Thu, 15 Oct 2026 22:14:49 +0800",
-     "summary": "美国议员提议要求美联储披露与爱泼斯坦相关的记录。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国议员提议要求美联储披露与爱泼斯坦相关的记录"
+     "title": "美国通胀压力加剧侵蚀购买力 亮眼零售背后暗藏隐忧",
+     "link": "http://www.eeo.com.cn/2026/1015/1065905.shtml",
+     "pubDate": "Thu, 15 Oct 2026 22:13:13 +0800",
+     "summary": "新华财经北京10月15日电（王姝睿）通胀加速上涨正进一步侵蚀美国人的购买力，挤压家庭预算。虽然9月零售销售数据超预期增长，但分析人士表示，随着第三季度接近尾声、价格压力加剧，美国消费支出增长势头有所减弱。 美国商务部周四公布的数据显示，未经价格变动调整的9月零售销售额环比增长0.8%，高于市场预期的0.3%。13个零售类别中有8个实现增长，其中加油站销售额增长6.4%，涨幅居首。9月汽油价格大幅攀升约7%，推升当...",
+     "source": "经济观察网",
+     "zh": "美国通胀压力加剧侵蚀购买力 亮眼零售背后暗藏隐忧"
     },
     {
-     "title": "美国9月PPI通胀大超预期 能源冲击向更多领域扩散 美联储加息预期再升温",
-     "link": "http://stock.eastmoney.com/news/1768,202610153897225376.html",
-     "pubDate": "Thu, 15 Oct 2026 22:14:39 +0800",
-     "summary": "美国劳工部周四公布的数据显示，美国9月生产者价格指数(PPI)涨幅远 超市 场预期，凸显在美国与伊朗战争持续之际，能源价格上涨仍在加剧美国通胀压力。 数据显示，衡量上游通胀压力的PPI在9月环比上涨1.3%，创2022年3月以来新高，预期值为0.5%，前值为0.4%；同比上涨6.3%，创2022年12月以来新高，预期值为5.3%，前值为5.4%。 能源价格上涨是推动PPI大幅走高的重要因素，中东冲突导致石油供应受到限制，油价随之飙升，国际基准布伦特原油维持在100美元上方。据悉，能源价格上涨贡献了商品价格整体涨幅的80%。 剔除食品、能源和贸易服务后的核心PPI指标涨幅则相对温和，9月环比上涨",
-     "source": "东方财富股票",
-     "zh": "美国9月PPI通胀大超预期 能源冲击向更多领域扩散 美联储加息预期再升温"
+     "title": "【环球财经】今年前9个月吉尔吉斯斯坦经济同比增长10.8%",
+     "link": "http://www.eeo.com.cn/2026/1015/1065904.shtml",
+     "pubDate": "Thu, 15 Oct 2026 22:13:11 +0800",
+     "summary": "新华财经比什凯克10月15日电（记者江宥林）吉尔吉斯斯坦国家统计委员会15日发布数据显示，据初步估算，2026年1月至9月，吉国内生产总值为16409亿索姆（约合188亿美元），同比增长10.8%。 今年前9个月，吉国内生产总值增长由服务业、商品生产、产品净税带动，三项数据分别同比占吉国内生产总值的48.7%、35.9%和15.4%。 与此同时，吉工业产品产量同比增长7%，建筑业同比增长62.2%，农业、林业和渔业同比增长6....",
+     "source": "经济观察网",
+     "zh": "【环球财经】今年前9个月吉尔吉斯斯坦经济同比增长10.8%"
     },
     {
-     "title": "新易盛：董事长提议回购8亿元至10亿元公司股份",
-     "link": "http://stock.eastmoney.com/news/11215,202610153897230148.html",
-     "pubDate": "Thu, 15 Oct 2026 22:14:33 +0800",
-     "summary": "10月15日晚间， 新易盛 发布公告称，公司控股股东、实际控制人、董事长高光荣提议公司使用自有或自筹资金回购公司股票，并择机用于后续的 股权激励 计划或员工持股计划。回购总金额为8亿元至10亿元。 Choice数据显示，9月22日以来（截至10月15日）， 新易盛 股票累计下跌33%，最新股价报306.01元/股，总市值4268亿元。 新易盛 是全球光互联解决方案的领导者和创新者，业务主要涵盖全系列光 通信 应用的光模块的研发、生产和销售，产品服务于 人工智能 算力集群（AICluster）、云 数据中心 、电信网络（传输网络、5G无线网络、FTTx固定接入）等领域的国内外客户。 近日，新易盛",
-     "source": "东方财富股票",
-     "zh": "新易盛：董事长提议回购8亿元至10亿元公司股份"
+     "title": "2026湾芯展在深圳举办，超千家企业同台亮相",
+     "link": "http://www.eeo.com.cn/2026/1015/1065903.shtml",
+     "pubDate": "Thu, 15 Oct 2026 22:13:09 +0800",
+     "summary": "21世纪经济报道见习记者 雷雨薇 10月14日，2026湾区半导体产业生态博览会（简称“湾芯展”）在深圳会展中心（福田）开幕，展期三天。本届展会展览面积超7万平方米，汇聚全球20余个国家和地区的1000余家展商，并设晶圆制造、化合物半导体、先进封装、IC设计/AI基础设施四大主题展区。 以“芯向未来，智创生态”为主题，湾芯展提出“着力打造具有全球引领力的中国集成电路自主品牌第一展”的目标，从产业生态、技术...",
+     "source": "经济观察网",
+     "zh": "2026湾芯展在深圳举办，超千家企业同台亮相"
     },
     {
-     "title": "Pantry-loading: Investors push into consumer staples stocks amid market anxiety",
-     "link": "https://seekingalpha.com/news/4653430-pantry-loading-investors-push-into-consumer-staples-stocks-amid-market-anxiety?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 10:14:02 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Pantry-loading: Investors push into consumer staples stocks amid market anxiety"
-    },
-    {
-     "title": "OpenAI英国员工去年人均薪酬逾230万英镑 近七成为股权奖励",
-     "link": "http://stock.eastmoney.com/news/1768,202610153897224459.html",
-     "pubDate": "Thu, 15 Oct 2026 22:13:46 +0800",
-     "summary": "随着全球AI人才争夺战愈演愈烈，顶尖AI企业的员工薪酬持续攀升。最新财务数据显示，ChatGPT开发商OpenAI的英国员工2025年人均 综合 薪酬超过230万英镑，较上一年增长逾一倍，其中股权奖励占近三分之二。 综合 媒体报道，OpenAI英国子公司OpenAI UK Ltd向英国公司注册处提交的财务报表显示，该公司2025年平均雇佣110名员工，全年工资总额约为8730万英镑，股权奖励约为1.68亿英镑，两项合计约2.55亿英镑，相当于人均 综合 薪酬约232万英镑。 如果不计入股权奖励，OpenAI英国员工的人均工资及薪金约为79.4万英镑。 换言之，OpenAI英国员工的工资及股权奖",
-     "source": "东方财富股票",
-     "zh": "OpenAI英国员工去年人均薪酬逾230万英镑 近七成为股权奖励"
-    },
-    {
-     "title": "中金黄金前三季净利润预计增长50.05%~57.66%",
-     "link": "http://stock.eastmoney.com/news/11215,202610153897232343.html",
-     "pubDate": "Thu, 15 Oct 2026 22:13:00 +0800",
-     "summary": "中金黄金 (600489)10月15日发布前三季业绩预增公告，预计实现净利润为55.20亿元~58.00亿元，净利润同比增长50.05%~57.66%。 证券时报·数据宝统计显示， 中金黄金 今日收于21.19元，下跌3.02%，日换手率为1.63%，成交额为16.91亿元，近5日下跌1.35%。通过对前三季业绩预增50%以上的个股走势进行统计发现，预告发布后当日股价上涨的占比46.55%，股价发布当日股价涨停的有6家。预告发布后5日股价上涨的占比37.93%。 资金面上，该股今日主力资金净流入4983.34万元，近5日资金净流入1.98亿元。最新（10月14日）两融余额28.75亿元，其中，",
-     "source": "东方财富股票",
-     "zh": "中金黄金前三季净利润预计增长50.05%~57.66%"
-    },
-    {
-     "title": "聚石化学发生2笔大宗交易 合计成交919.39万元",
-     "link": "http://stock.eastmoney.com/news/11134,202610153897232186.html",
-     "pubDate": "Thu, 15 Oct 2026 22:12:00 +0800",
-     "summary": "聚石化学 10月15日大宗交易平台共发生2笔成交，合计成交量15.77万股，成交金额919.39万元。成交价格均为58.30元。 进一步统计，近3个月内该股累计发生8笔大宗交易，合计成交金额为3938.52万元。 证券时报·数据宝统计显示， 聚石化学 今日收盘价为58.30元，上涨2.50%，日换手率为2.44%，成交额为1.70亿元，全天主力资金净流入1080.08万元，近5日该股累计下跌3.70%，近5日资金合计净流入4300.11万元。 两融数据显示，该股最新融资余额为4.98亿元，近5日减少2177.76万元，降幅为4.19%。 据天眼查APP显示，广东 聚石化学 股份有限公司成立于2",
-     "source": "东方财富股票",
-     "zh": "聚石化学发生2笔大宗交易 合计成交919.39万元"
-    },
-    {
-     "title": "美股三大指数走势分化 纳指跌幅超1% 存储、光通信板块走弱",
-     "link": "http://finance.eastmoney.com/news/1345,202610153897165893.html",
-     "pubDate": "Thu, 15 Oct 2026 22:11:59 +0800",
-     "summary": "10月15日，美股三大指数走势分化，截至发稿， 道指涨0.50%， 纳指跌0.70%，标普500指数跌0.28%。 存储、光 通信 板块走弱， 截至 发稿，SK 海力士跌超4%， 美光科技 跌超3%， 闪迪 跌超6%， 康宁 跌超3%。 全球要闻 美国9月PPI同比增长6.3% 远超市场预期 美国9月PPI同比增长6.3%，预估5.3%，前值5.4%。美国9月PPI环比增长1.3%，预估0.6%。美国9月零售销售环比增长0.8%，预估为0.3%。美国上周初请失业金人数为19.9万人，预期20万人，前值由19.7万人修正为19.8万人。 特朗普考虑介入对胡塞打击 胡塞威胁把在中东美国人纳入攻击目",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数走势分化 纳指跌幅超1% 存储、光通信板块走弱"
-    },
-    {
-     "title": "HSBC tells investors, 'Don't fight the AI trade'",
-     "link": "https://seekingalpha.com/news/4653426-hsbc-tells-investors-dont-fight-the-ai-trade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 10:09:27 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "HSBC tells investors, 'Don't fight the AI trade'"
-    },
-    {
-     "title": "RTX's Raytheon selected to modernize U.S. Space Force radars",
-     "link": "https://seekingalpha.com/news/4653425-rtxs-raytheon-selected-to-modernize-us-space-force-radars?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 10:08:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "RTX's Raytheon selected to modernize U.S. Space Force radars"
+     "title": "美国重要数据远超预期，美债收益率集体直线下挫超13个基点",
+     "link": "http://www.eeo.com.cn/2026/1015/1065902.shtml",
+     "pubDate": "Thu, 15 Oct 2026 22:13:07 +0800",
+     "summary": "10月15日晚间，美国最新PPI数据公布。美国9月PPI年率录得6.3%，为2026年5月以来新高，远高于市场预期的5.3%。美国9月PPI月率录得1.3%，大幅高于市场预期的0.5%。美国9月零售销售月率录得0.8%，高于市场预期。 美国上周初请失业金人数为19.9万人，预期20万人，前值由19.7万人修正为19.8万人。 数据公布后，美国国债收益率集体直线下挫。美国20年期国债收益率日内下跌14.6个基点；30年期国债收益率日内下跌14.1个基点...",
+     "source": "经济观察网",
+     "zh": "美国重要数据远超预期，美债收益率集体直线下挫超13个基点"
     },
     {
      "title": "长园集团：2026年第六次临时股东会决议公告",
@@ -2409,26 +2433,18 @@
      "zh": "我国外商直接投资权益存量位居全球第二"
     },
     {
-     "title": "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell",
-     "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-     "pubDate": "Thu, 15 Oct 2026 13:48:00 GMT",
-     "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
-     "source": "MarketWatch",
-     "zh": "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell"
-    },
-    {
      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
      "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
      "pubDate": "Thu, 15 Oct 2026 13:46:36 GMT",
      "summary": "September producer prices were expected to increase 0.6% month-over-month and 5.5% annually, according to the consensus estimate by Dow Jones.",
      "source": "CNBC",
-     "zh": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022"
+     "zh": "9月份批发价格同比上涨6.3%，创2022年以来最大涨幅"
     },
     {
      "title": "工信部等三部门联合调查有关车辆刹车踏板支架断裂问题",
      "link": "http://finance.eastmoney.com/news/1345,202610153897184198.html",
      "pubDate": "Thu, 15 Oct 2026 21:40:57 +0800",
-     "summary": "针对网络反映的“尊界V800 汽车 刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上，成立联合调查组开展核查，并依法依规处理。有关情况将及时公布。 （文章来源：新华社）",
+     "summary": "针对网络反映的“尊界V800 汽车 刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上，成立联合调查组开展核查，并依法依规处理。有关情况将及时公布。 最新回应 尊界汽车：积极响应、完全服从并将全力配合联合调查组的工作 尊界 汽车 发布声明：10月15日，工信部等三部门发布了联合调查有关车辆刹车踏板支架断裂问题的通报。我们积极响应、完全服从并将全力配合联合调查组的工作，坚决维护消费者合法权益，坚决维护 新能源 汽车 产业发展大局。 （文章来源：新华社）",
      "source": "东方财富资讯",
      "zh": "工信部等三部门联合调查有关车辆刹车踏板支架断裂问题"
     },
@@ -2441,28 +2457,12 @@
      "zh": "科技股抛售持续，美股开盘纳指跌1.2%，费城半导体指数跌3.7%，美债涨幅扩大"
     },
     {
-     "title": "多重审核加码！香港中资券商收紧内地存量投资者账户核验标准",
-     "link": "http://www.eeo.com.cn/2026/1015/1065889.shtml",
-     "pubDate": "Thu, 15 Oct 2026 21:36:29 +0800",
-     "summary": "在港中资券商近期加大了对内地存量投资者的审核力度，例如收紧了身份材料更新标准，强化身份见证环节、地址证明的核验工作等。",
-     "source": "经济观察网",
-     "zh": "多重审核加码！香港中资券商收紧内地存量投资者账户核验标准"
-    },
-    {
      "title": "储能产能红利收窄，百GWh厂商争抢长时市场",
      "link": "https://wallstreetcn.com/articles/3783722",
      "pubDate": "Thu, 15 Oct 2026 21:35:01 +0800",
      "summary": "作者 | 周智宇 百GWh厂商的下一轮扩张，已经与长时产品换代、系统订单争夺绑在了一起。 10月15日，世界储能大会上，工业和信息化部副部长熊继军提出，进一步完善产能预警机制，加快从规模扩张向质量效益为导向转变，并强调提升效率、循环寿命和长期运行可靠性，切实保障储能项目收益。 同日，海辰储能宣布累计出货突破200GWh。公司联合创始人、总裁王鹏程向华尔街见闻等媒体透露，长时储能订单已经接至2027年底。但谈到下一步如何降本，他说：“单纯依靠扩产规模的降本红利的确会逐步收窄。” 长时订单给了百GWh厂商继续扩产的理由，却也要求它们换一种办法降本。同等功率下，储能时长拉长，客户要买的电池更多；照着",
      "source": "华尔街见闻",
      "zh": "储能产能红利收窄，百GWh厂商争抢长时市场"
-    },
-    {
-     "title": "中塑股份：关于调整募集资金投资项目拟投入募集资金金额及部分募投项目增加实施主体的公告",
-     "link": "http://www.eeo.com.cn/2026/1015/1065874.shtml",
-     "pubDate": "Thu, 15 Oct 2026 21:26:37 +0800",
-     "summary": "证券日报网讯10月15日，中塑股份发布公告称，公司于2026年10月15日召开第二届董事会审计委员会第八次会议、第二届董事会第九次会议，审议通过了《关于调整募集资金投资项目拟投入募集资金金额及部分募投项目增加实施主体的议案》，同意公司调整募集资金投资项目拟投入募集资金金额及部分募投项目增加实施主体。 （编辑 丛可心）",
-     "source": "经济观察网",
-     "zh": "中塑股份：关于调整募集资金投资项目拟投入募集资金金额及部分募投项目增加实施主体的公告"
     },
     {
      "title": "机器人缺数据，禾赛盯上训练场",
@@ -2478,15 +2478,7 @@
      "pubDate": "Thu, 15 Oct 2026 13:24:41 GMT",
      "summary": "Investors rotated into bonds amid a broader flight to safety.",
      "source": "CNBC",
-     "zh": "Treasury yields slide as investors flee to safety of bonds amid tech rout"
-    },
-    {
-     "title": "新款Roadster即将亮相“特斯拉能飞”究竟是噱头还是现实？",
-     "link": "http://finance.eastmoney.com/news/1354,202610153897160354.html",
-     "pubDate": "Thu, 15 Oct 2026 21:19:44 +0800",
-     "summary": "特斯拉 官网显示，这家电动 汽车 制造商定于美东时间周四20:55（北京时间周五早08:55）在美国得州举行Roadster发布活动。 日内早些时候，埃隆·马斯克在社交媒体上发帖称，“新款Roadster是史上最伟大的产品演示。”上月，马斯克曾称发布会“无法保证成功，但保证精彩”。 2017年， 特斯拉 公布了这款跑车的原型车，当时售价为20万美元，并表示将于2020年开始交付。目前，该车售价尚未更新，但预订金仍为每辆5万美元。 早于2017年，马斯克就提及Roadster将配备一个“特殊升级包”，可以“使其能够进行短途飞行”。2024年，他又在社交媒体上写道，“新款Roadster可以飞”。",
-     "source": "东方财富资讯",
-     "zh": "新款Roadster即将亮相“特斯拉能飞”究竟是噱头还是现实？"
+     "zh": "随着投资者在科技股溃败中转向债券避险，国债收益率下滑"
     },
     {
      "title": "AI科技两大利空突袭！AI云厂商CoreWeave股债“双杀”",
@@ -2497,12 +2489,20 @@
      "zh": "AI科技两大利空突袭！AI云厂商CoreWeave股债“双杀”"
     },
     {
-     "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-     "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-     "pubDate": "Thu, 15 Oct 2026 13:16:00 GMT",
-     "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-     "source": "MarketWatch",
-     "zh": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?"
+     "title": "“大多头”Yardeni下调标普年底目标：盈利不是问题，估值才是",
+     "link": "https://wallstreetcn.com/articles/3783719",
+     "pubDate": "Thu, 15 Oct 2026 21:13:12 +0800",
+     "summary": "知名市场研究机构Yardeni Research下调标普500年底目标价至7900点，理由是估值压缩风险上升，而非盈利前景恶化。 9月中旬以来持续发酵的避险情绪正在进一步压低股票估值倍数。 Yardeni Research将标普500年底目标从此前的8400点（该目标此前已被推迟至2027年中）下调至7900点，同时将年底远期市盈率目标从19.8倍下调至18.6倍。 与此同时，市场面临多重压力叠加：高于预期的9月CPI数据推升美联储年内加息预期，AI交易热度明显降温，科技股遭遇大幅抛售。标普500周三下跌1.1%至7718.94点，纳斯达克综合指数与罗素2000均下跌1.9%，费城半导体指数（",
+     "source": "华尔街见闻",
+     "zh": "“大多头”Yardeni下调标普年底目标：盈利不是问题，估值才是"
+    },
+    {
+     "title": "油价推高美国9月零售环比增0.8%，剔除波动项后消费增长乏力",
+     "link": "https://wallstreetcn.com/articles/3783716",
+     "pubDate": "Thu, 15 Oct 2026 21:06:54 +0800",
+     "summary": "美国9月零售销售数据表面亮眼，实则暗藏隐忧——油价高企推高整体读数，但同期多项消费品类出现收缩，通胀挤压效应正在蔓延至家庭可支配支出。 美国商务部周四公布数据显示，9月零售销售环比增长0.8%，高于市场预期的0.3%，同比增幅达6.3%。 然而，剔除汽车及汽油后的核心零售销售仅增长0.2%，直接反映GDP商品消费计算的\"控制组\"销售额环比仅增0.1%，较8月大幅回落。 与此同时，美国劳工统计局同日公布的数据显示，9月生产者价格涨幅创逾四年来最大，进一步凸显通胀压力的持续性。 美国银行信用卡及借记卡数据显示， 9月消费者燃油支出同比增逾20%，而家庭每户总体刷卡支出环比仅增约0.2%，较8月的1",
+     "source": "华尔街见闻",
+     "zh": "油价推高美国9月零售环比增0.8%，剔除波动项后消费增长乏力"
     }
    ]
   },
@@ -2518,7 +2518,7 @@
      "pubDate": "Thu, 15 Oct 2026 09:45:00 -0400",
      "summary": "Governments and private companies often work together to provide public services online. A new study asks: How do these partnerships affect people’s trust in government?",
      "source": "MIT News",
-     "zh": "Building trust in governments through digital platforms"
+     "zh": "通过数字平台建立对政府的信任"
     },
     {
      "title": "How Do Fungi Keep the Planet Healthy?",
@@ -2526,7 +2526,7 @@
      "pubDate": "Thu, 15 Oct 2026 13:40:13 +0000",
      "summary": "Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain. The post How Do Fungi Keep the Planet Healthy? first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "How Do Fungi Keep the Planet Healthy?"
+     "zh": "真菌如何保持地球健康？"
     },
     {
      "title": "Brain implants are helping people who’ve lost their voice",
@@ -2534,7 +2534,7 @@
      "pubDate": "Thu, 15 Oct 2026 13:00:00 +0000",
      "summary": "The technology could get those with ALS, Parkinson’s disease and brain injuries “talking” again.",
      "source": "Science News",
-     "zh": "Brain implants are helping people who’ve lost their voice"
+     "zh": "大脑植入物正在帮助失去声音的人"
     },
     {
      "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
@@ -2542,7 +2542,7 @@
      "pubDate": "Thu, 15 Oct 2026 08:52:05 EDT",
      "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain",
      "source": "ScienceDaily",
-     "zh": "Mysterious brain activity under anesthesia challenges what we know about consciousness"
+     "zh": "麻醉下神秘的大脑活动挑战了我们对意识的了解"
     },
     {
      "title": "Arctic sea ice hits another troubling low in 2026",
@@ -2550,7 +2550,7 @@
      "pubDate": "Thu, 15 Oct 2026 08:40:44 EDT",
      "summary": "Arctic sea ice is shrinking in both winter and summer, with satellite records revealing that the region's remaining ice is becoming thinner, younger, and more vulnerable to melting. Despite a recent slowdown in summer losses, scientists warn that the Arctic could experience a nearly ice-free summer ",
      "source": "ScienceDaily",
-     "zh": "Arctic sea ice hits another troubling low in 2026"
+     "zh": "2026 年北极海冰再创新低，令人不安"
     },
     {
      "title": "Eating late at night linked to up to 30% higher risk of liver disease",
@@ -2558,7 +2558,7 @@
      "pubDate": "Thu, 15 Oct 2026 08:26:16 EDT",
      "summary": "Eating late at night could be putting your liver at risk, according to a large study led by Oregon Health & Science University. Researchers analyzed data from nearly 200,000 people and found that those who regularly ate after dinner or around bedtime had a 20% to 30% higher risk of liver disease, in",
      "source": "ScienceDaily",
-     "zh": "Eating late at night linked to up to 30% higher risk of liver disease"
+     "zh": "深夜进食与肝病风险增加 30%"
     },
     {
      "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
@@ -2566,7 +2566,7 @@
      "pubDate": "Thu, 15 Oct 2026 07:45:43 EDT",
      "summary": "Scientists have discovered a potential new weapon against a devastating fungus that threatens rice, wheat, and barley worldwide. By engineering a special type of plant immune receptor, researchers created defenses capable of recognizing multiple fungal threats at once. The breakthrough could eventua",
      "source": "ScienceDaily",
-     "zh": "A fungus is threatening the world’s food supply. Scientists just found a new defense"
+     "zh": "一种真菌正在威胁世界的粮食供应。科学家刚刚发现了一种新的防御方法"
     },
     {
      "title": "Testosterone for menopause: The treatment is rising in popularity, but does it work?",
@@ -2574,7 +2574,7 @@
      "pubDate": "Thu, 15 Oct 2026 09:00:00 +0000",
      "summary": "Women are using testosterone in the hope that it will treat their menopause symptoms, but little evidence supports the approach, experts say.",
      "source": "Live Science",
-     "zh": "Testosterone for menopause: The treatment is rising in popularity, but does it work?"
+     "zh": "睾酮治疗更年期：这种治疗方法越来越受欢迎，但它有效吗？"
     },
     {
      "title": "Strokes have nearly doubled among younger adults, and scientists aren't sure why",
@@ -2582,7 +2582,7 @@
      "pubDate": "Thu, 15 Oct 2026 01:28:14 EDT",
      "summary": "Strokes are becoming alarmingly common among younger adults, with rates nearly doubling among people ages 20 to 54 over nearly three decades. Researchers found that blocked blood vessels in the brain accounted for much of the increase, while high blood pressure, diabetes, and substance use also beca",
      "source": "ScienceDaily",
-     "zh": "Strokes have nearly doubled among younger adults, and scientists aren't sure why"
+     "zh": "年轻人中风的发生率几乎翻倍，科学家不确定原因"
     },
     {
      "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
@@ -2590,7 +2590,7 @@
      "pubDate": "Thu, 15 Oct 2026 00:14:55 EDT",
      "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains very low, Rutgers researchers say the findings warrant attention as millions of peop",
      "source": "ScienceDaily",
-     "zh": "Ozempic and Wegovy linked to rare risk of sudden vision loss"
+     "zh": "Ozempic 和 Wegovy 与罕见的突然视力丧失风险有关"
     },
     {
      "title": "Q&A: The “collision” between AI, your brain, and society",
@@ -2598,7 +2598,7 @@
      "pubDate": "Thu, 15 Oct 2026 00:00:00 -0400",
      "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
      "source": "MIT News",
-     "zh": "Q&A: The “collision” between AI, your brain, and society"
+     "zh": "Q&A：AI、你的大脑、社会的“碰撞”"
     },
     {
      "title": "Chronic back pain may activate an unexpected brain network, study finds",
@@ -2606,7 +2606,7 @@
      "pubDate": "Wed, 14 Oct 2026 20:35:40 +0000",
      "summary": "Movement-induced flares in chronic back pain activate brain regions involved in self-reflection, suggesting chronic pain may be processed differently than acute pain.",
      "source": "Live Science",
-     "zh": "Chronic back pain may activate an unexpected brain network, study finds"
+     "zh": "研究发现慢性背痛可能会激活意想不到的大脑网络"
     },
     {
      "title": "DNA from centuries-old skeletons buried in Montreal reveals no genetic mixing between Indigenous people and French colonists",
@@ -2614,7 +2614,7 @@
      "pubDate": "Wed, 14 Oct 2026 19:46:12 +0000",
      "summary": "A study of DNA from early colonial-era skeletons in a Montreal cemetery has revealed that none of them had any Indigenous ancestry.",
      "source": "Live Science",
-     "zh": "DNA from centuries-old skeletons buried in Montreal reveals no genetic mixing between Indigenous people and French colonists"
+     "zh": "埋藏在蒙特利尔的数百年历史骨骼的 DNA 显示，原住民和法国殖民者之间没有基因混合"
     },
     {
      "title": "Tapeworm drug could help treat endometriosis, mouse study hints",
@@ -2622,7 +2622,7 @@
      "pubDate": "Wed, 14 Oct 2026 19:34:46 +0000",
      "summary": "A recent study in mice hints that a modified tapeworm medicine might help relieve painful lesions seen in endometriosis.",
      "source": "Live Science",
-     "zh": "Tapeworm drug could help treat endometriosis, mouse study hints"
+     "zh": "小鼠研究提示绦虫药物可能有助于治疗子宫内膜异位症"
     },
     {
      "title": "Ancient Indigenous people in New Mexico lived through extreme climate change 23,000 years ago, study suggests",
@@ -2630,7 +2630,7 @@
      "pubDate": "Wed, 14 Oct 2026 18:19:41 +0000",
      "summary": "Researchers have revealed the climate that some of the first people in North America experienced around 23,000 years ago, during the Last Glacial Maximum.",
      "source": "Live Science",
-     "zh": "Ancient Indigenous people in New Mexico lived through extreme climate change 23,000 years ago, study suggests"
+     "zh": "研究表明，新墨西哥州的古代原住民在 23,000 年前经历了极端的气候变化"
     },
     {
      "title": "Researchers use AI to design proteins that cut up other proteins",
@@ -2638,7 +2638,7 @@
      "pubDate": "Wed, 14 Oct 2026 17:10:15 +0000",
      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
      "source": "Ars Technica Science",
-     "zh": "Researchers use AI to design proteins that cut up other proteins"
+     "zh": "研究人员利用人工智能设计能够切割其他蛋白质的蛋白质"
     },
     {
      "title": "Can math stay human in the age of AI?",
@@ -2646,7 +2646,7 @@
      "pubDate": "Wed, 14 Oct 2026 17:00:00 +0000",
      "summary": "As AI churns out mathematical proofs, a DeepMind study raises a bigger question: What do we lose when we focus only on the answers?",
      "source": "Science News",
-     "zh": "Can math stay human in the age of AI?"
+     "zh": "人工智能时代，数学还能保持人性吗？"
     },
     {
      "title": "Physicists claim they can predict when AI will turn dangerous",
@@ -2654,7 +2654,7 @@
      "pubDate": "Wed, 14 Oct 2026 16:34:35 +0000",
      "summary": "A new mathematical formula tracks an AI's internal \"compass needle\" to flag undesirable outputs before they happen.",
      "source": "Live Science",
-     "zh": "Physicists claim they can predict when AI will turn dangerous"
+     "zh": "物理学家声称他们可以预测人工智能何时会变得危险"
     },
     {
      "title": "Researchers improve weather forecasts looking two to six weeks out",
@@ -2662,7 +2662,7 @@
      "pubDate": "Wed, 14 Oct 2026 11:00:00 -0400",
      "summary": "A new machine-learning approach broke records for weather forecasting for an important time frame in emergency planning.",
      "source": "MIT News",
-     "zh": "Researchers improve weather forecasts looking two to six weeks out"
+     "zh": "研究人员预计两到六周后会改进天气预报"
     },
     {
      "title": "Tiny implants can use the body itself to talk to each other",
@@ -2670,7 +2670,7 @@
      "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
      "summary": "Researchers made a rat’s front-leg movement trigger its back leg. The experiment could point to a new kind of body-based network to connect implants.",
      "source": "Science News",
-     "zh": "Tiny implants can use the body itself to talk to each other"
+     "zh": "微型植入物可以利用身体本身来相互交谈"
     },
     {
      "title": "Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t",
@@ -2678,7 +2678,7 @@
      "pubDate": "Wed, 14 Oct 2026 14:04:05 +0000",
      "summary": "A collision may have left these galaxies without dark matter. That spells trouble for alternative gravity theories. The post Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t"
+     "zh": "三重“幽灵”星系暗示暗物质是什么——以及不是什么"
     },
     {
      "title": "Voyager 1 is nearly one light-day from Earth. What’s out there?",
@@ -2686,7 +2686,7 @@
      "pubDate": "Wed, 14 Oct 2026 13:00:00 +0000",
      "summary": "On November 18, Voyager 1 will reach one light-day from Earth. It’s still finding surprises in interstellar space.",
      "source": "Science News",
-     "zh": "Voyager 1 is nearly one light-day from Earth. What’s out there?"
+     "zh": "旅行者一号距离地球近一光日。外面有什么？"
     },
     {
      "title": "How artificial neural networks build their own learning machinery",
@@ -2694,7 +2694,7 @@
      "pubDate": "Tue, 13 Oct 2026 17:00:00 -0400",
      "summary": "Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the brain reorganizes itself during learning.",
      "source": "MIT News",
-     "zh": "How artificial neural networks build their own learning machinery"
+     "zh": "人工神经网络如何构建自己的学习机器"
     },
     {
      "title": "To turn invisible, we need to tweak the path light travels",
@@ -2702,7 +2702,7 @@
      "pubDate": "Tue, 13 Oct 2026 17:00:00 +0000",
      "summary": "Turning invisible is a handy superpower in fiction — we don’t see you, Sue Storm! — but the technology to make it work in real life has a way to go.",
      "source": "Science News",
-     "zh": "To turn invisible, we need to tweak the path light travels"
+     "zh": "为了变得不可见，我们需要调整光线传播的路径"
     },
     {
      "title": "They war-gamed dimming the Sun. It went even worse than you think.",
@@ -2710,7 +2710,7 @@
      "pubDate": "Tue, 13 Oct 2026 15:17:59 +0000",
      "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
      "source": "Ars Technica Science",
-     "zh": "They war-gamed dimming the Sun. It went even worse than you think."
+     "zh": "他们进行了调暗太阳的战争游戏。事情比你想象的还要糟糕。"
     },
     {
      "title": "A duo goes against the tide to explain an origin of human endurance",
@@ -2718,7 +2718,7 @@
      "pubDate": "Tue, 13 Oct 2026 15:00:00 +0000",
      "summary": "Theories that aquatic foraging drove human evolution have a fraught past. But the pair argue it granted stamina that other primates lack.",
      "source": "Science News",
-     "zh": "A duo goes against the tide to explain an origin of human endurance"
+     "zh": "两人逆流而行，解释人类耐力的起源"
     },
     {
      "title": "High-speed video reveals how honey bee stingers pump venom",
@@ -2726,7 +2726,7 @@
      "pubDate": "Tue, 13 Oct 2026 13:03:45 +0000",
      "summary": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
      "source": "Ars Technica Science",
-     "zh": "High-speed video reveals how honey bee stingers pump venom"
+     "zh": "高速视频揭示了蜜蜂毒刺如何泵出毒液"
     },
     {
      "title": "Reprogrammed NK immune cells target cancer and autoimmune disorders",
@@ -2734,7 +2734,7 @@
      "pubDate": "Tue, 13 Oct 2026 05:00:00 -0400",
      "summary": "A new approach can program these cells inside the body and shows promise against diseases caused by dysfunctional T cells, including lymphoma and autoimmune hepatitis.",
      "source": "MIT News",
-     "zh": "Reprogrammed NK immune cells target cancer and autoimmune disorders"
+     "zh": "重新编程的 NK 免疫细胞靶向癌症和自身免疫性疾病"
     },
     {
      "title": "Is ‘Attention’ the Essence of Intelligence?",
@@ -2742,7 +2742,7 @@
      "pubDate": "Mon, 12 Oct 2026 14:20:30 +0000",
      "summary": "A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key? The post Is ‘Attention’ the Essence of Intelligence? first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "Is ‘Attention’ the Essence of Intelligence?"
+     "zh": "“注意力”是智力的本质吗？"
     },
     {
      "title": "One with the world? A new look at brains transformed by psychedelics.",
@@ -2750,7 +2750,7 @@
      "pubDate": "Sat, 10 Oct 2026 11:15:35 +0000",
      "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
      "source": "Ars Technica Science",
-     "zh": "One with the world? A new look at brains transformed by psychedelics."
+     "zh": "与世界合一？对迷幻药改变的大脑的新认识。"
     }
    ]
   }

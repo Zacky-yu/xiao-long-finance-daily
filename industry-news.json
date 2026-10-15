@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/16 06:00:29",
+ "generated_at": "2026/10/16 06:12:16",
  "recent_days": 7,
  "industries": [
   {
@@ -321,14 +321,6 @@
      "zh": "Data Orchestration: The Foundation for the Next-generation Semiconductor Enterprise"
     },
     {
-     "title": "Fable: The Commonsense CEO",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-commonsense-ceo-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 13:23:11 +0000",
-     "summary": "There was once a mega-company which was in trouble – its market cap of $96 billion was down 80% from its value 18 years earlier. It had made an annual […] The post Fable: The Commonsense CEO appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Fable: The Commonsense CEO"
-    },
-    {
      "title": "Why AI Security Starts at the Chip Level",
      "link": "https://semiwiki.com/eda/synopsys/374743-why-ai-security-starts-at-the-chip-level/",
      "pubDate": "Thu, 15 Oct 2026 13:00:07 +0000",
@@ -361,52 +353,12 @@
      "zh": "Luxnet posts record 3Q profit as capacity expansion fuels growth"
     },
     {
-     "title": "HEADS UP – Dstl trialling safe usage of head-mounted military technology",
-     "link": "https://www.electronicsweekly.com/news/research-news/heads-up-dstl-trialling-safe-usage-of-head-mounted-military-technology-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 11:02:02 +0000",
-     "summary": "The UK’s Defence Science and Technology Laboratory (Dstl) has been trialling – in a HEADS UP project – a human-centred design approach to novel technologies that are worn or carried. […] The post HEADS UP – Dstl trialling safe usage of head-mounted military technology appeared first on Electronics W",
-     "source": "Electronics Weekly",
-     "zh": "HEADS UP – Dstl trialling safe usage of head-mounted military technology"
-    },
-    {
-     "title": "Beyond software patching: how CHERI can limit the blast radius in long-life CNI systems",
-     "link": "https://www.electronicsweekly.com/news/business/beyond-software-patching-how-cheri-can-limit-the-blast-radius-in-long-life-cni-systems-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 11:00:53 +0000",
-     "summary": "Critical National Infrastructure (CNI) products may remain in service for 10 or even 20 years. During that time software changes, attack techniques evolve and regulation becomes more demanding, writes Jim […] The post Beyond software patching: how CHERI can limit the blast radius in long-life CNI sy",
-     "source": "Electronics Weekly",
-     "zh": "Beyond software patching: how CHERI can limit the blast radius in long-life CNI systems"
-    },
-    {
      "title": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking",
      "link": "https://www.eetimes.com/small-volumes-big-impact-europes-hidden-role-in-advanced-chipmaking/",
      "pubDate": "Thu, 15 Oct 2026 10:54:08 +0000",
      "summary": "A Fraunhofer–IMS Nanofabrication partnership illustrates how Europe's low-volume semiconductor manufacturing can support the world's most advanced chipmaking. The post Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking"
-    },
-    {
-     "title": "TSMC has $47bn revenue Q3",
-     "link": "https://www.electronicsweekly.com/news/business/tsmc-has-47bn-revenue-q3-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 10:08:57 +0000",
-     "summary": "TSMC reported Q3 revenues up 41.2% YoY and 17.2% QoQ at $46.72 billion Gross margin for the quarter was 66.4%, operating margin was 58.7%, and net profit margin was 51.1%. […] The post TSMC has $47bn revenue Q3 appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "TSMC has $47bn revenue Q3"
-    },
-    {
-     "title": "UK Space Agency backs UK ADR mission for space debris removal",
-     "link": "https://www.electronicsweekly.com/news/uk-space-agency-backs-uk-adr-mission-for-space-debris-removal-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 10:01:03 +0000",
-     "summary": "The UK Space Agency (UKSA) is backing an Active Debris Removal (ADR) mission to remove two defunct satellites and release them lower into the atmosphere where they will naturally burn […] The post UK Space Agency backs UK ADR mission for space debris removal appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "UK Space Agency backs UK ADR mission for space debris removal"
-    },
-    {
-     "title": "Get the Gadget Master newsletter!",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 09:49:29 +0000",
-     "summary": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Get the Gadget Master newsletter!"
     },
     {
      "title": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform",
@@ -495,6 +447,54 @@
      "summary": "Agentic workloads increase CPU demand, while reasoning models, MoE architectures, and reservoir computing fuel AI acceleration. The post Agentic AI Alters The CPU-GPU Balance appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Agentic AI Alters The CPU-GPU Balance"
+    },
+    {
+     "title": "Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing",
+     "link": "https://www.eetimes.com/benchmark-electronics-thailand-operations-focus-on-high-mix-manufacturing/",
+     "pubDate": "Wed, 14 Oct 2026 19:34:54 +0000",
+     "summary": "Benchmark Electronics combines engineering expertise, workforce development, and flexible production to expand high-mix electronics manufacturing across Thailand. The post Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing"
+    },
+    {
+     "title": "CTO Interview with Sirish Munipalli of Moores Lab AI",
+     "link": "https://semiwiki.com/eda/moores-lab-ai/374851-cto-interview-with-sirish-munipalli-of-moores-lab-ai/",
+     "pubDate": "Wed, 14 Oct 2026 19:00:50 +0000",
+     "summary": "Sirish Munipalli is Co-Founder and CTO of Moores Lab AI, where he leads the development of agentic AI for chip design verification, including SpecAgent(tm), the company’s specification and modeling platform. He has spent about 15 years designing and verifying complex silicon: FPGA prototyping at Int",
+     "source": "SemiWiki",
+     "zh": "CTO Interview with Sirish Munipalli of Moores Lab AI"
+    },
+    {
+     "title": "What DARPA Taught Me About Building Trust into Silicon",
+     "link": "https://semiwiki.com/eda/374529-what-darpa-taught-me-about-building-trust-into-silicon/",
+     "pubDate": "Wed, 14 Oct 2026 17:00:34 +0000",
+     "summary": "By Sajeed Mohammad The most memorable slide I ever saw in a chip design review didn’t show a floorplan. It showed a target. The Defense Advanced Research Projects Agency (DARPA) program manager running AISS, Automatic Implementation of Secure Silicon , the program that funded my majority of PhD rese",
+     "source": "SemiWiki",
+     "zh": "What DARPA Taught Me About Building Trust into Silicon"
+    },
+    {
+     "title": "AVL and VisIC extend collaboration to high-power GaN traction inverter technology",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/visic-141026.shtml",
+     "pubDate": "Wed, 14 Oct 2026 13:10:59 +0100",
+     "summary": "VisIC Technologies Ltd of Ness Ziona, Israel — a fabless supplier of power conversion devices based on gallium nitride (GaN) transistors — and mobility technology company AVL are advancing their collaboration with the integration of VisIC’s D3GaN power module technology into AVL’s vehicle demonstrat",
+     "source": "Semiconductor Today",
+     "zh": "AVL and VisIC extend collaboration to high-power GaN traction inverter technology"
+    },
+    {
+     "title": "Tower and Semtech expand SiGe partnership to scale power-efficient analog connectivity for data centers",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/tower-semtech-141026.shtml",
+     "pubDate": "Wed, 14 Oct 2026 12:34:48 +0100",
+     "summary": "Specialty analog foundry Tower Semiconductor Ltd of Migdal Haemek, Israel and high-performance semiconductor, Internet of Things (IoT) system and cloud connectivity service provider Semtech Corp of Camarillo, CA, USA have agreed to expand their 20-year partnership. Semtech will invest in securing de",
+     "source": "Semiconductor Today",
+     "zh": "Tower and Semtech expand SiGe partnership to scale power-efficient analog connectivity for data centers"
+    },
+    {
+     "title": "Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over-optics for AI rack-scale connectivity at OCP Global Summit",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/lumentum-131026.shtml",
+     "pubDate": "Tue, 13 Oct 2026 18:14:35 +0100",
+     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers), Astera Labs Inc (which provides rack-scale AI infrastructure through purpose-built connectivity solutions) and Corning Inc are giving a joint demonstration of PCIe-over",
+     "source": "Semiconductor Today",
+     "zh": "Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over-optics for AI rack-scale connectivity at OCP Global Summit"
     }
    ]
   },
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Exxon’s Oil Boom Could Keep Guyana’s Gas at Home",
+     "link": "https://oilprice.com/Energy/Natural-Gas/Exxons-Oil-Boom-Could-Keep-Guyanas-Gas-at-Home.html",
+     "pubDate": "Thu, 15 Oct 2026 17:00:00 -0500",
+     "summary": "Guyana has turned into something of an oil celebrity with billions of barrels discovered by Exxon off the coast of the tiny South American country. With the oil riches came gas, too, and there were plans to add LNG to Guyana’s export goods. Yet now the government is considering keeping the gas for t",
+     "source": "OilPrice",
+     "zh": "Exxon’s Oil Boom Could Keep Guyana’s Gas at Home"
+    },
+    {
      "title": "U.S. Nuclear Fuel Independence Edges Closer as Urenco Expansion Hits 75%",
      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/US-Nuclear-Fuel-Independence-Edges-Closer-as-Urenco-Expansion-Hits-75.html",
      "pubDate": "Thu, 15 Oct 2026 16:00:00 -0500",
@@ -889,14 +897,6 @@
      "zh": "IEA Speeds Emergency Oil Release"
     },
     {
-     "title": "Britain’s Biggest Business Lobby Calls for Tax Cuts and Lower Energy Bills",
-     "link": "https://oilprice.com/Energy/Energy-General/Britains-Biggest-Business-Lobby-Calls-for-Tax-Cuts-and-Lower-Energy-Bills.html",
-     "pubDate": "Thu, 15 Oct 2026 13:00:00 -0500",
-     "summary": "Britain’s biggest business lobby group has urged John Healey to cut employment taxes and energy bills in his first Budget, warning that further tax rises risk choking off investment and jobs. The Confederation of British Industry (CBI) called on the Chancellor to give firms “breathing space” at the ",
-     "source": "OilPrice",
-     "zh": "Britain’s Biggest Business Lobby Calls for Tax Cuts and Lower Energy Bills"
-    },
-    {
      "title": "Ghost Of Thanos Lingers Over Elon Musk’s Howard Stark Moment",
      "link": "https://cleantechnica.com/2026/10/15/elon-musk-tesla-roadster-unveil-flying-cars-evtol-vtol/",
      "pubDate": "Thu, 15 Oct 2026 17:57:29 +0000",
@@ -924,9 +924,17 @@
      "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
      "link": "https://www.utilitydive.com/news/utilities-need-ai-solve-grid-backlogs-aws-energy-lead-head/832816/",
      "pubDate": "Thu, 15 Oct 2026 12:00:00 -0400",
-     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities&nbsp;Joseph Santamaria.",
+     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities, Joseph Santamaria.",
      "source": "Utility Dive",
      "zh": "Utilities can use AI to solve grid backlogs: AWS energy lead"
+    },
+    {
+     "title": "Solar imports from India, Indonesia, Laos injured US manufacturers: ITC",
+     "link": "https://www.utilitydive.com/news/itc-material-injury-solar-imports-india-indonesia-laos/833127/",
+     "pubDate": "Thu, 15 Oct 2026 11:52:32 -0400",
+     "summary": "The decision clears the way for the Department of Commerce to finalize anti-dumping and countervailing duty orders on&nbsp;crystalline silicon photovoltaic cells from the three countries.",
+     "source": "Utility Dive",
+     "zh": "Solar imports from India, Indonesia, Laos injured US manufacturers: ITC"
     },
     {
      "title": "Farming’s Nitrogen Future Will Be Built From Several Technologies, Not One",
@@ -1004,7 +1012,7 @@
      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption",
      "link": "https://www.utilitydive.com/news/reliability-standards-ai-data-centers-crypto-miners-pass-final-nerc-ba/833094/",
      "pubDate": "Thu, 15 Oct 2026 09:28:37 -0400",
-     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more, connected at voltage levels of at least 100 kV.",
+     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more connected at voltage levels of at least 100 kV.",
      "source": "Utility Dive",
      "zh": "Reliability standards for AI data centers, crypto miners move closer to adoption"
     },
@@ -1071,14 +1079,6 @@
      "summary": "From the Midwest to New York, local and state governments are introducing new zoning rules and restrictions on BESS and data centre projects.",
      "source": "Energy Storage News",
      "zh": "New zoning rules and moratoriums for US BESS and data centres"
-    },
-    {
-     "title": "Greek PM says ‘storage should accompany renewables’ as Metlen, Karatzis inaugurate 790MWh BESS",
-     "link": "https://www.energy-storage.news/greek-pm-says-storage-should-accompany-renewables-as-metlen-karatzis-inaugurate-790mwh-bess/",
-     "pubDate": "Thu, 15 Oct 2026 11:10:50 +0000",
-     "summary": "Metals and energy group Metlen and conglomerate Karatzis Group have inaugurated the largest BESS in Greece, in a ceremony attended by the country’s Prime Minister.",
-     "source": "Energy Storage News",
-     "zh": "Greek PM says ‘storage should accompany renewables’ as Metlen, Karatzis inaugurate 790MWh BESS"
     }
    ]
   },
@@ -1537,6 +1537,14 @@
    "total": 5,
    "items": [
     {
+     "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
+     "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
+     "pubDate": "Thu, 15 Oct 2026 21:55:07 GMT",
+     "summary": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime.",
+     "source": "Dark Reading",
+     "zh": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud"
+    },
+    {
      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
      "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
      "pubDate": "Thu, 15 Oct 2026 20:43:20 GMT",
@@ -1721,14 +1729,6 @@
      "zh": "Yam Store: The Phishing Network Behind a Billion Messages"
     },
     {
-     "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
-     "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
-     "pubDate": "Wed, 14 Oct 2026 20:09:42 GMT",
-     "summary": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
-     "source": "Dark Reading",
-     "zh": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat"
-    },
-    {
      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
      "pubDate": "Wed, 14 Oct 2026 14:22:49 +0000",
@@ -1868,7 +1868,7 @@
      "title": "What I Self-Host",
      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
      "pubDate": "Thu, 15 Oct 2026 20:23:25 +0000",
-     "summary": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/ Comments URL: https://news.ycombinator.com/item?id=50109715 Points: 51 # Comments: 21",
+     "summary": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/ Comments URL: https://news.ycombinator.com/item?id=50109715 Points: 72 # Comments: 33",
      "source": "Hacker News",
      "zh": "What I Self-Host"
     },
@@ -1876,7 +1876,7 @@
      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
      "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
      "pubDate": "Thu, 15 Oct 2026 19:55:49 +0000",
-     "summary": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts Comments URL: https://news.ycombinator.com/item?id=50109375 Points: 74 # Comments: 46",
+     "summary": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts Comments URL: https://news.ycombinator.com/item?id=50109375 Points: 90 # Comments: 71",
      "source": "Hacker News",
      "zh": "New Withings Users Must Pay $99/Year for Apple Health Syncing"
     },
@@ -1900,7 +1900,7 @@
      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
      "pubDate": "Thu, 15 Oct 2026 19:21:38 +0000",
-     "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 97 # Comments: 43",
+     "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 104 # Comments: 48",
      "source": "Hacker News",
      "zh": "Someone on Torrent Sites Kept Fucking with My Sonarr"
     },
@@ -1924,7 +1924,7 @@
      "title": "We are entering a period of overlapping crises",
      "link": "https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/",
      "pubDate": "Thu, 15 Oct 2026 18:54:36 +0000",
-     "summary": "Article URL: https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/ Comments URL: https://news.ycombinator.com/item?id=50108491 Points: 52 # Comments: 55",
+     "summary": "Article URL: https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/ Comments URL: https://news.ycombinator.com/item?id=50108491 Points: 59 # Comments: 59",
      "source": "Hacker News",
      "zh": "We are entering a period of overlapping crises"
     },
@@ -1940,7 +1940,7 @@
      "title": "E Ink Kaleido 4",
      "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
      "pubDate": "Thu, 15 Oct 2026 18:38:16 +0000",
-     "summary": "https://web.archive.org/web/20261015180401/https://www.eink.... Comments URL: https://news.ycombinator.com/item?id=50108229 Points: 86 # Comments: 49",
+     "summary": "https://web.archive.org/web/20261015180401/https://www.eink.... Comments URL: https://news.ycombinator.com/item?id=50108229 Points: 90 # Comments: 52",
      "source": "Hacker News",
      "zh": "E Ink Kaleido 4"
     },
@@ -1956,7 +1956,7 @@
      "title": "Muse Spark Open",
      "link": "https://research.meta.ai/blog/muse-spark-open",
      "pubDate": "Thu, 15 Oct 2026 17:47:39 +0000",
-     "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 487 # Comments: 284",
+     "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 499 # Comments: 290",
      "source": "Hacker News",
      "zh": "Muse Spark Open"
     },
@@ -2257,12 +2257,60 @@
    "total": 13,
    "items": [
     {
+     "title": "Adams Natural Resources Fund reports Q3 results",
+     "link": "https://seekingalpha.com/news/4653669-adams-natural-resources-fund-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 18:01:12 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Adams Natural Resources Fund reports Q3 results"
+    },
+    {
+     "title": "Here are the major earnings before the open Friday",
+     "link": "https://seekingalpha.com/news/4653339-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 18:00:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Here are the major earnings before the open Friday"
+    },
+    {
+     "title": "Adams Diversified Equity Fund reports Q3 results",
+     "link": "https://seekingalpha.com/news/4653668-adams-diversified-equity-fund-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 17:59:22 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Adams Diversified Equity Fund reports Q3 results"
+    },
+    {
+     "title": "FCC光模块传闻扰动市场？三大机构研判：贸易扰动风险被高估",
+     "link": "http://finance.eastmoney.com/news/1354,202610153897202616.html",
+     "pubDate": "Fri, 16 Oct 2026 05:56:33 +0800",
+     "summary": "&nbsp; 近期，FCC拟限制中国光模块、美方供应链剔除中国 PCB 及337调查等消息扰动市场。记者就此采访了 中信证券 、 国泰海通 、 中金公司 ，三家机构最新研判一致认为，实际影响大概率小于市场情绪演绎，相关风险被市场高估。 机构认为，一方面，FCC新规不等于全面禁售中国光模块，美国国防 PCB 限制直接影响不足中国 PCB 需求的1%，337调查涉案产品尚未量产、当期业绩冲击有限；另一方面，中国光模块与PCB产业链短期难以替代。相比之下，AI算力链业绩高增、“六张网”约26万亿元投资，才是更值得关注的增长主线。 贸易摩擦：情绪扰动大于实质冲击 近期FCC、PCB、337调查三项扰动",
+     "source": "东方财富资讯",
+     "zh": "FCC光模块传闻扰动市场？三大机构研判：贸易扰动风险被高估"
+    },
+    {
+     "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+     "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 21:56:00 GMT",
+     "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
+     "source": "MarketWatch",
+     "zh": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash"
+    },
+    {
      "title": "Commercial Metals targets an additional $100M TAG run rate by end of fiscal 2027, while accelerating buybacks",
      "link": "https://seekingalpha.com/news/4653666-commercial-metals-targets-an-additional-100m-tag-run-rate-by-end-of-fiscal-2027-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 15 Oct 2026 17:55:34 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Commercial Metals targets an additional $100M TAG run rate by end of fiscal 2027, while accelerating buybacks"
+    },
+    {
+     "title": "美国9月PPI通胀大超预期 能源冲击向更多领域扩散 美联储加息预期再升温",
+     "link": "http://stock.eastmoney.com/news/1768,202610153897225376.html",
+     "pubDate": "Fri, 16 Oct 2026 05:54:23 +0800",
+     "summary": "美国劳工部周四公布的数据显示，美国9月生产者价格指数(PPI)涨幅远 超市 场预期，凸显在美国与伊朗战争持续之际，能源价格上涨仍在加剧美国通胀压力。 数据显示，衡量上游通胀压力的PPI在9月环比上涨1.3%，创2022年3月以来新高，预期值为0.5%，前值为0.4%；同比上涨6.3%，创2022年12月以来新高，预期值为5.3%，前值为5.4%。 能源价格上涨是推动PPI大幅走高的重要因素，中东冲突导致石油供应受到限制，油价随之飙升，国际基准布伦特原油维持在100美元上方。据悉，能源价格上涨贡献了商品价格整体涨幅的80%。 剔除食品、能源和贸易服务后的核心PPI指标涨幅则相对温和，9月环比上涨",
+     "source": "东方财富资讯",
+     "zh": "美国9月PPI通胀大超预期 能源冲击向更多领域扩散 美联储加息预期再升温"
     },
     {
      "title": "Tech titans Nvidia and Apple donate $25M to White House ballroom project: report",
@@ -2281,68 +2329,12 @@
      "zh": "Gold and silver bounce as U.S. yields and the dollar drop"
     },
     {
-     "title": "新西兰统计局：9 月食品价格指数环比持平，变动 0.0%",
-     "link": "http://finance.eastmoney.com/news/1351,202610163897352241.html",
-     "pubDate": "Fri, 16 Oct 2026 05:47:03 +0800",
-     "summary": "新西兰统计局：9 月食品价格指数环比持平，变动 0.0%。 新西兰经季调 电子 卡零售销售额 9 月环比下降 0.4%。新西兰 电子 卡零售名义销售额 9 月同比上涨 0.9%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "新西兰统计局：9 月食品价格指数环比持平，变动 0.0%"
-    },
-    {
-     "title": "2026人工智能产业大会开幕 聚焦AI赋能新型工业化",
-     "link": "http://finance.eastmoney.com/news/1354,202610163897335262.html",
-     "pubDate": "Fri, 16 Oct 2026 05:45:28 +0800",
-     "summary": "10月15日，2026 人工智能 产业大会在济南开幕，大会以“加快推进 人工智能 赋能 新型工业化 ”为主题。记者注意到，这是该大会连续举办两届后首次走出北京，走进山东。会场内外“山东元素”浓厚——海尔、魏桥、山东 港口 、国家电网等制造业和能源龙头悉数到场，与华为、浪潮、 科大讯飞 、宇树科技等 人工智能 企业同场交流。 中银基金联合中国信息 通信 研究院、中证指数公司研究编制的“中证中银沪深港人工智能产业指数”在大会现场发布，该指数旨在推动人工智能行业标准转化为可识别、可跟踪、可配置的投资标尺。 此外，山东省工业和信息化厅、山东省 通信 管理局、济南市人民政府等单位共同发布中国算谷人工智能",
-     "source": "东方财富股票",
-     "zh": "2026人工智能产业大会开幕 聚焦AI赋能新型工业化"
-    },
-    {
      "title": "Trump says &apos;if Ken Paxton loses&apos; Texas Senate race, blame Cornyn and Karl Rove",
      "link": "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
      "pubDate": "Thu, 15 Oct 2026 21:42:14 GMT",
      "summary": "Polls show GOP Attorney General Ken Paxton trailing Democratic Rep. James Talarico in the Texas Senate race.",
      "source": "CNBC",
      "zh": "Trump says &apos;if Ken Paxton loses&apos; Texas Senate race, blame Cornyn and Karl Rove"
-    },
-    {
-     "title": "MSCI新规将推动迈克尔·塞勒旗下Strategy被踢出全球股票基准指数",
-     "link": "http://finance.eastmoney.com/news/1351,202610163897352170.html",
-     "pubDate": "Fri, 16 Oct 2026 05:42:11 +0800",
-     "summary": "明晟 公司（MSCI）采纳新规，可能将Strategy（MSTR）从其全球股票基准指数中剔除，或引发股票抛售，并对迈克尔·塞勒比特币持仓背后的融资模式施加压力。该指数编制商将在11月30日收盘生效的新框架下，把被归类为“非经营性企业”的公司排除在外，并设立财务测试，可能导致Strategy不符合纳入MSCI全球股票指数的资格。最终被剔除可能打击Strategy首创的加密资产储备模式，并因强制持有该股的投资者群体缩小而对其股价构成压力。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "MSCI新规将推动迈克尔·塞勒旗下Strategy被踢出全球股票基准指数"
-    },
-    {
-     "title": "美股收盘：惊魂逆转！科技股深夜上演绝境反击",
-     "link": "http://finance.eastmoney.com/news/1354,202610163897352315.html",
-     "pubDate": "Fri, 16 Oct 2026 05:40:00 +0800",
-     "summary": "财联社10月16日讯（编辑史正丞） 昨夜今晨，美股上演逆转行情。科技股开盘遭遇抛售重压，纳指一度跌逾1.4%，随后在日内反攻中收复全部失地，最终三大指数携手收涨。 截至收盘，标普500指数涨0.33%，报7744.06点； 纳斯达克 综合 指数涨0.08%，报26713.03点；道琼斯工业平均指数涨1.08%，报52177.69点。 （纳指日线图，来源：TradingView） 如果只看收盘涨跌幅，很难体会这个交易日的波澜起伏。 受到开盘前美国最新PPI数据大幅超预期冲击 ，周四开盘时科技股延续昨日的俯冲势头，但随后走出从坑里向上攀援的弧线。 举例而言，因AI融资可持续性成为焦点的 新兴云服务",
-     "source": "东方财富股票",
-     "zh": "美股收盘：惊魂逆转！科技股深夜上演绝境反击"
-    },
-    {
-     "title": "市场消息：美国联邦航空管理局（FAA）拟持有 Air Space Intelligence 公司股权",
-     "link": "http://finance.eastmoney.com/news/1351,202610163897351856.html",
-     "pubDate": "Fri, 16 Oct 2026 05:38:27 +0800",
-     "summary": "市场消息：美国联邦航空管理局（FAA）拟持有 Air Space Intelligence 公司股权。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "市场消息：美国联邦航空管理局（FAA）拟持有 Air Space Intelligence 公司股权"
-    },
-    {
-     "title": "Hims & Hers Health rises as HHS moves ahead with plan for compounding peptides",
-     "link": "https://seekingalpha.com/news/4653660-hims-and-hers-health-rises-hhs-moves-ahead-plan-compounding-peptides?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 17:38:14 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hims & Hers Health rises as HHS moves ahead with plan for compounding peptides"
-    },
-    {
-     "title": "道指期货涨1.08%",
-     "link": "http://finance.eastmoney.com/news/11790,202610163897352788.html",
-     "pubDate": "Fri, 16 Oct 2026 05:36:19 +0800",
-     "summary": "周四（10月15日）纽约尾盘，标普500股指 期货 最终涨0.24%，道指 期货 涨1.08%， 纳斯达克 100股指 期货 跌0.30%。 （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "道指期货涨1.08%"
     },
     {
      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
@@ -2353,20 +2345,20 @@
      "zh": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt"
     },
     {
-     "title": "SITE Centers plans NYSE delisting; shares surge in after-hours",
-     "link": "https://seekingalpha.com/news/4653664-site-centers-plans-nyse-delisting-shares-surge-in-after-hours?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 17:31:26 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SITE Centers plans NYSE delisting; shares surge in after-hours"
-    },
-    {
      "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
      "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
      "pubDate": "Thu, 15 Oct 2026 21:26:05 GMT",
      "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
      "source": "CNBC",
      "zh": "Tesla plans next-generation Roadster reveal after almost a decade of delays"
+    },
+    {
+     "title": "Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行",
+     "link": "http://stock.eastmoney.com/news/1768,202610163897349211.html",
+     "pubDate": "Fri, 16 Oct 2026 05:25:21 +0800",
+     "summary": "当地时间周四，近来在AI领域势头正盛的Meta发布开放权重大模型Muse Spark Open，并与 苹果 合作，推动这款模型在Mac电脑上本地运行。 （来源：公司官网） 具体来说， Muse Spark Open是一款采用“混合专家架构”的原生多模态模型，总参数量为8160 亿（其中420亿为活跃参数），上下文窗口大小可达100万词元 。Meta表示，该模型专为编码与智能代理任务设计，在处理长周期任务、复杂软件工程问题以及多步骤推理方面表现极为出色。 当然，Meta将其称为“迄今能力最强的美国开放权重模型”，也是有原因的。 根据Meta自己公布的测试结果，与市场上前沿开源模型进行比较，Mus",
+     "source": "东方财富资讯",
+     "zh": "Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行"
     },
     {
      "title": "U.S. sues California in fight over checking citizenship of mail voters",
@@ -2393,12 +2385,12 @@
      "zh": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset."
     },
     {
-     "title": "SITE Centers declares $3.00 dividend",
-     "link": "https://seekingalpha.com/news/4653662-site-centers-declares-3_00-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 17:14:34 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SITE Centers declares $3.00 dividend"
+     "title": "全球市场：美股三大指数收涨 道指涨超1% 贵金属、加密货币概念股涨幅居前",
+     "link": "http://stock.eastmoney.com/news/11784,202610163897348317.html",
+     "pubDate": "Fri, 16 Oct 2026 05:15:24 +0800",
+     "summary": "美股市场： 美股三大指数10月15日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨556.21点，收于52177.69点，涨幅为1.08%； 标准普尔 500种股票指数上涨25.12点，收于7744.06点，涨幅为0.33%； 纳斯达克 综合 指数上涨20.16点，收于26713.03点，涨幅为0.08%。 半导体 、存储板块涨跌不一，费城 半导体 指数盘中一度跌超4%，最终收跌0.88%，为连续第七天下跌。个股方面， 高通 涨超3%，ARM涨近3%， 美光科技 涨超1%； 拉姆研究 跌超3%， 英特尔 跌近3%， 科磊 、 西部数据 跌超2%， 台积电 、 英伟达 跌近2%， S",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数收涨 道指涨超1% 贵金属、加密货币概念股涨幅居前"
     },
     {
      "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
@@ -2479,6 +2471,14 @@
      "summary": "Shares of AbbVie, Eli Lilly and Gilead Sciences closed near record highs",
      "source": "MarketWatch",
      "zh": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets"
+    },
+    {
+     "title": "阿里巴巴、台积电在列 美股期权交易时段下周扩容",
+     "link": "http://stock.eastmoney.com/news/1768,202610163897342653.html",
+     "pubDate": "Fri, 16 Oct 2026 04:28:35 +0800",
+     "summary": "&nbsp; &nbsp; &nbsp; 随着美股市场实质上进入“24小时交易”，与股票配套的期权也将迎来交易时间的扩容。 据 芝加哥期权交易所 （Cboe）公告，旗下Cboe&nbsp;Options&nbsp;Exchange（C1）将于 下周一 开始，为指定股票及ETF期权增加早间和收盘后的交易时段。 阿里巴巴 、 台积电 、 英伟达 、 苹果 、 特斯拉 等热门公司的期权均在公告覆盖范围内。 对于投资者而言，最直接的变化是： 这些股票期权可以参与美东时间上午7:30至9:25的美股盘前交易，也可以在常规交易结束后继续交易15分钟 。 此次覆盖范围包括美股“科技七巨头”，以及AMD、 博",
+     "source": "东方财富资讯",
+     "zh": "阿里巴巴、台积电在列 美股期权交易时段下周扩容"
     },
     {
      "title": "Treasuries rally as investors seek shelter from AI turbulence",

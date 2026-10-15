@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/15 13:12:00",
+ "generated_at": "2026/10/15 13:32:05",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,22 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "个人智能体爆火！蚂蚁发新模型接招，实测编辑部小助理上线",
+     "link": "https://zhidx.com/p/601181.html",
+     "pubDate": "Thu, 15 Oct 2026 13:20:46 +0800",
+     "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西10月15日报道，近一周，硅谷AI大厂轮番放出新进展，都指向让AI接手真实工作。 10月12日，Meta发布 Muse Wonder 系列，包括Muse Wonder和Muse Wonder Full两个型号，重点面向 个人与专业智能体任务 。 10月9日，谷歌云也在Gemini at Work 2026大会上推出 企业通用智能体Gemini Agent ，能够自主规划任务、调用工具，在办公文档、邮件和开发环境中完成多步骤工作。昨天，谷歌开放其最新旗舰模型 Gemini 4 Argon ，重点面向 编程、金融、法律、网络安全和科学 等领域的复杂",
+     "source": "智东西",
+     "zh": "个人智能体爆火！蚂蚁发新模型接招，实测编辑部小助理上线"
+    },
+    {
+     "title": "Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis",
+     "link": "https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/",
+     "pubDate": "Thu, 15 Oct 2026 05:18:54 +0000",
+     "summary": "SpaceXAI just released Grok Voice 3.0. Grok Voice 3.0 is a SpaceXAI speech-to-speech model that listens, reasons, calls tools and speaks. It now ranks first on the Artificial Analysis Speech-to-Speech Index with a score of 86.9. For developers, the endpoint, events and $0.08 per minute price are unc",
+     "source": "MarkTechPost",
+     "zh": "Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis"
+    },
     {
      "title": "Figma announces new features to define how agents work on its platform",
      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
@@ -209,14 +225,6 @@
      "zh": "刚刚，维信诺亮出全球首款2K 185Hz手机屏，iQOO首发"
     },
     {
-     "title": "腾讯WorkBuddy、企业微信联手了！实测后：爽！",
-     "link": "https://zhidx.com/p/600985.html",
-     "pubDate": "Wed, 14 Oct 2026 21:31:04 +0800",
-     "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 腾讯，终于还是迈出了这一步。 智东西10月14日报道，今天，腾讯宣布企业微信与旗下AI办公产品WorkBuddy联合发布新版本，双方完成深度融合。 升级后，WorkBuddy客户端可在企业授权范围内调用企业微信的消息、文档、会议、微盘等多项能力，完成深度分析、复杂文档处理等任务。 同时，WorkBuddy也以对话机器人的身份进入企业微信通讯录列表，用户在企业微信中即可调用WorkBuddy的相关能力，并可以结合企微AI助手“大圆”完成各类任务。 智东西也是第一时间更新了版本，并对新功能进行了测试。 实测发现，WorkBu",
-     "source": "智东西",
-     "zh": "腾讯WorkBuddy、企业微信联手了！实测后：爽！"
-    },
-    {
      "title": "Amp puts AI agents to work beyond code with OpenAI models",
      "link": "https://openai.com/index/amp-beyond-coding",
      "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
@@ -239,14 +247,6 @@
      "summary": "Want to understand what makes LLMs fast? Build the systems yourself.",
      "source": "KDnuggets",
      "zh": "5 Fun Projects for LLM Inference Engineering"
-    },
-    {
-     "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
-     "link": "https://www.qbitai.com/2026/10/503294.html",
-     "pubDate": "Wed, 14 Oct 2026 10:41:47 +0000",
-     "summary": "“具身进实景，劳动最光荣”",
-     "source": "量子位",
-     "zh": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！"
     }
    ]
   },
@@ -256,6 +256,14 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "ASML has €11.7bn Q3",
+     "link": "https://www.electronicsweekly.com/news/business/asml-has-e11-7bn-q3-2026-10/",
+     "pubDate": "Thu, 15 Oct 2026 05:09:23 +0000",
+     "summary": "ASML reported €11.7 billion sales and €5 billion profit at a net margin of 57.5% in Q3 2026. Full-year 2026 sales are expected to be between €44 billion and […] The post ASML has €11.7bn Q3 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "ASML has €11.7bn Q3"
+    },
     {
      "title": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
      "link": "https://www.digitimes.com/news/a20261015VL216/micron-taiwan-hbm-packaging-plant.html",
@@ -457,14 +465,6 @@
      "zh": "In conversation with Siemens on semiconductor test technology"
     },
     {
-     "title": "TechPoint buys Esprit Electronics for EMS growth",
-     "link": "https://www.electronicsweekly.com/news/business/techpoint-buys-esprit-electronics-for-ems-growth-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 10:04:18 +0000",
-     "summary": "TechPoint has announced it is buying Esprit Electronics, to strengthen its UK manufacturing capability and support its growth ambitions, says the company. “We’re delighted to welcome the Esprit Electronics team […] The post TechPoint buys Esprit Electronics for EMS growth appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "TechPoint buys Esprit Electronics for EMS growth"
-    },
-    {
      "title": "How To Define CPU And Software Stack Performance For Agentic AI",
      "link": "https://semiengineering.com/how-to-define-cpu-and-software-stack-performance-for-agentic-ai/",
      "pubDate": "Wed, 14 Oct 2026 07:04:19 +0000",
@@ -657,6 +657,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Avatr launches 2026 Avatr 06 with Huawei ADS 5, trims lineup to 2 variants",
+     "link": "https://cnevpost.com/2026/10/15/avatr-launches-2026-avatr-06/",
+     "pubDate": "Thu, 15 Oct 2026 05:14:14 +0000",
+     "summary": "The 2026 Avatr 06 starts at 205,900 yuan ($30,620) after incentives and comes with larger batteries. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "Avatr launches 2026 Avatr 06 with Huawei ADS 5, trims lineup to 2 variants"
+    },
+    {
      "title": "Leapmotor to launch A10s on October 18, adding sporty variant to A10 electric SUV lineup",
      "link": "https://cnevpost.com/2026/10/15/leapmotor-to-launch-a10s-oct-18/",
      "pubDate": "Thu, 15 Oct 2026 03:51:22 +0000",
@@ -801,14 +809,6 @@
      "zh": "Leapmotor teases A10s electric SUV with sporty black-and-red styling"
     },
     {
-     "title": "BYD to launch second-gen Seagull on October 20",
-     "link": "https://cnevpost.com/2026/10/14/byd-launch-2nd-gen-seagull-oct-20/",
-     "pubDate": "Wed, 14 Oct 2026 03:01:49 +0000",
-     "summary": "The redesigned model is 425 mm longer, bringing it closer in size to the larger BYD Dolphin. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "BYD to launch second-gen Seagull on October 20"
-    },
-    {
      "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
      "link": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
      "pubDate": "Tue, 13 Oct 2026 18:30:03 +0000",
@@ -856,6 +856,38 @@
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "El Salvador announces 400 MW solar, 1 GWh battery storage push",
+     "link": "https://www.pv-magazine.com/2026/10/15/el-salvador-announces-400-mw-solar-1-gwh-battery-storage-push/",
+     "pubDate": "Thu, 15 Oct 2026 05:26:20 +0000",
+     "summary": "Cox plans to develop up to 400 MW of solar capacity and 1 GWh of battery storage in El Salvador under an investment agreement that also covers natural gas infrastructure and water management. The government will participate as a partner in the energy projects. The post El Salvador announces 400 MW s",
+     "source": "pv magazine",
+     "zh": "El Salvador announces 400 MW solar, 1 GWh battery storage push"
+    },
+    {
+     "title": "Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Trump-Considers-Easing-Sanctions-on-Shadow-Fleet-Tankers.html",
+     "pubDate": "Thu, 15 Oct 2026 00:19:07 -0500",
+     "summary": "Crude oil prices retreated from yesterday’s highs earlier today, on the news that President Trump was considering lifting sanctions on tankers used to transport oil and fuels from Venezuela, Russia, and Iran in a bid to ease a deepening tanker crunch. At the time of writing, Brent crude was trading ",
+     "source": "OilPrice",
+     "zh": "Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers"
+    },
+    {
+     "title": "Solar repowering guide shows installers how to tap into the aging rooftop market",
+     "link": "https://www.pv-magazine.com/2026/10/15/solar-repowering-guide-shows-installers-how-to-tap-into-the-aging-rooftop-market/",
+     "pubDate": "Thu, 15 Oct 2026 05:17:54 +0000",
+     "summary": "A new report and field data from Tigo Energy detail how residential contractors can build profitable repowering businesses by upgrading aging solar assets. The post Solar repowering guide shows installers how to tap into the aging rooftop market appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "Solar repowering guide shows installers how to tap into the aging rooftop market"
+    },
+    {
+     "title": "Australia fosters PV innovation with $174 million fund",
+     "link": "https://www.pv-magazine.com/2026/10/15/up-the-ante-on-ambition-250-million-solar-sunshot-round-3-now-open/",
+     "pubDate": "Thu, 15 Oct 2026 05:14:55 +0000",
+     "summary": "The Australian Renewable Energy Agency has opened the AUD 250 million Solar Sunshot Round 3, for local and global companies to develop product, manufacture, or scale-up technology capable of reducing large-scale solar costs and speeding up solar build times in Australia. The post Australia fosters P",
+     "source": "pv magazine",
+     "zh": "Australia fosters PV innovation with $174 million fund"
+    },
     {
      "title": "Pricing India’s storage demand gap",
      "link": "https://www.pv-magazine.com/2026/10/15/pricing-indias-storage-demand-gap/",
@@ -985,14 +1017,6 @@
      "zh": "Trump Announces $80 Billion Taiwan LNG Deal"
     },
     {
-     "title": "Britain's $47 Billion North Sea Oil Decision Hangs in the Balance",
-     "link": "https://oilprice.com/Energy/Energy-General/Britains-47-Billion-North-Sea-Oil-Decision-Hangs-in-the-Balance.html",
-     "pubDate": "Wed, 14 Oct 2026 15:00:00 -0500",
-     "summary": "Approval for more oil and gas drilling at the North Sea sites Jackdaw and Rosebank have been delayed by “government process” and lengthy bureaucratic wrangling, Prime Minister Andy Burnham has said. Burnham told MPs that he would take a “pragmatic approach” on oil and gas drilling amid calls from en",
-     "source": "OilPrice",
-     "zh": "Britain's $47 Billion North Sea Oil Decision Hangs in the Balance"
-    },
-    {
      "title": "Fossil generation pipeline rebounds while new clean generation slows: EDF",
      "link": "https://www.utilitydive.com/news/fossil-generation-pipeline-rebounds-while-new-clean-generation-slows-edf/832978/",
      "pubDate": "Wed, 14 Oct 2026 10:55:47 -0400",
@@ -1033,22 +1057,6 @@
      "zh": "Europe’s second energy crisis largely skipped the solar hours"
     },
     {
-     "title": "Modi Energy launches zero-upfront solar-plus-storage offer in Denmark",
-     "link": "https://www.pv-magazine.com/2026/10/14/modi-energy-launches-zero-upfront-solar-plus-storage-offer-in-denmark/",
-     "pubDate": "Wed, 14 Oct 2026 12:48:06 +0000",
-     "summary": "Emaldo-backed Modi Energy says it will install, own, and operate rooftop solar and home batteries at no upfront cost to Danish households, funding a guaranteed 20% bill reduction through energy optimization and participation in power and flexibility markets. The post Modi Energy launches zero-upfron",
-     "source": "pv magazine",
-     "zh": "Modi Energy launches zero-upfront solar-plus-storage offer in Denmark"
-    },
-    {
-     "title": "Magenta CdTe solar panels support broccoli cultivation in agrivoltaic trial",
-     "link": "https://www.pv-magazine.com/2026/10/14/magenta-cdte-solar-panels-support-broccoli-cultivation-in-agrivoltaic-trial/",
-     "pubDate": "Wed, 14 Oct 2026 12:39:59 +0000",
-     "summary": "Researchers in Sweden and Italy have investigated the performance of semitransparent, magenta-colored cadmium telluride (CdTe) thin-film solar panels designed to transmit wavelengths favorable for broccoli growth. The study found that the panels affected microclimatic conditions, photosynthetic perf",
-     "source": "pv magazine",
-     "zh": "Magenta CdTe solar panels support broccoli cultivation in agrivoltaic trial"
-    },
-    {
      "title": "Australia’s data centre boom: where AI demand, grid capacity and renewables converge",
      "link": "https://www.pv-tech.org/australias-data-centre-boom-where-ai-demand-grid-capacity-and-renewables-converge/",
      "pubDate": "Wed, 14 Oct 2026 12:33:57 +0000",
@@ -1063,14 +1071,6 @@
      "summary": "The Illinois Power Agency (IPA) is seeking stakeholder feedback on its summer procurement of 600MW of energy storage projects in the US state, after falling short by 438MW.",
      "source": "Energy Storage News",
      "zh": "Illinois seeks feedback after coming up short in large-scale battery storage procurement"
-    },
-    {
-     "title": "Panasonic unveils R454C air-to-water heat pumps for residential use",
-     "link": "https://www.pv-magazine.com/2026/10/14/panasonic-unveils-r454c-air-to-water-heat-pumps-for-residential-use/",
-     "pubDate": "Wed, 14 Oct 2026 12:13:47 +0000",
-     "summary": "The new series comprises four models with heating capacities of 3 kW, 5 kW, 7 kW and 9 kW. The units feature a refrigerant-split configuration, with the indoor and outdoor units connected by refrigerant piping. The post Panasonic unveils R454C air-to-water heat pumps for residential use appeared fir",
-     "source": "pv magazine",
-     "zh": "Panasonic unveils R454C air-to-water heat pumps for residential use"
     },
     {
      "title": "Pexapark: September 2026 PPA prices rise 5% across Europe",
@@ -1777,6 +1777,118 @@
    "total": 18,
    "items": [
     {
+     "title": "苹果 Invites 1.12.1 更新：主办方可手动标记宾客出席状态",
+     "link": "https://www.ithome.com/1/013/354.htm",
+     "pubDate": "Thu, 15 Oct 2026 05:27:27 GMT",
+     "summary": "IT之家 10 月 15 日消息，科技媒体 MacRumors 昨日（10 月 14 日）发布博文，报道称苹果更新邀请（Apple Invites）应用至 1.12.1 版本， 新增手动添加宾客并标记 RSVP 状态，以及超大尺寸主屏幕小组件两项功能 / 特性。 第一项功能面向活动主办方，活动主办方现在可以手动将宾客添加至活动，并标记其 RSVP 状态，即使宾客在应用之外确认出席，主办方也能维护准确的宾客名单。IT之家注：RSVP 源自法语短语缩写，意为“请回复”，用于确认受邀者是否出席活动。 第二项是 Apple Invites 小组件新增超大尺寸选项，用户可在 iPhone 主屏幕上以更大",
+     "source": "IT之家",
+     "zh": "苹果 Invites 1.12.1 更新：主办方可手动标记宾客出席状态"
+    },
+    {
+     "title": "DeepSeek 网页 / API 服务恢复正常，中断近 5 个小时",
+     "link": "https://www.ithome.com/1/013/352.htm",
+     "pubDate": "Thu, 15 Oct 2026 05:27:07 GMT",
+     "summary": "IT之家 10 月 15 日消息， DeepSeek 今日（10 月 15 日）早间出现服务问题 ，官方状态页面显示网页 / API 部分中断。 经过近 5 个小时的修复，目前服务已恢复正常 。官方状态页面显示，问题持续时间为 2026 年 10 月 15 日星期四 08:11 ~ 2026 年 10 月 15 日星期四 13:04，共计 4 小时 52 分钟。 IT之家注意到，这是 DeepSeek 本月以来遇到的最大规模服务问题。",
+     "source": "IT之家",
+     "zh": "DeepSeek 网页 / API 服务恢复正常，中断近 5 个小时"
+    },
+    {
+     "title": "尼康 Z5ⅡC 全画幅微单相机发售：主打新手入门，单机身 9999 元",
+     "link": "https://www.ithome.com/1/013/351.htm",
+     "pubDate": "Thu, 15 Oct 2026 05:26:20 GMT",
+     "summary": "IT之家 10 月 15 日消息，尼康 Z 5II C 全画幅微单相机于今日正式发售，黑色机身（不含镜头）售价为 9999 元。 该机定位新手入门，主打随手出片轻松拍，目前可叠加平台满 6000-780 元神券，券后 9219 元。 京东 尼康（Nikon）Z5IIC 全画幅微单相机 黑色机身 (不含镜头) 券后 9219 元 领 780 元券 Z5ⅡC 机身（黑色 / 银色）：RMB 9,999 元 Z5ⅡC（黑色 / 银色）+ 尼克尔 Z 24-50mm f/4-6.3 套机：RMB 11,999 元 Z5ⅡC（黑色 / 银色）+ 尼克尔 Z 24-105mm f/4-7.1 套机：RMB",
+     "source": "IT之家",
+     "zh": "尼康 Z5ⅡC 全画幅微单相机发售：主打新手入门，单机身 9999 元"
+    },
+    {
+     "title": "字节跳动豆包做不了 Muse",
+     "link": "https://www.tmtpost.com/8169616.html",
+     "pubDate": "Thu, 15 Oct 2026 13:24:00 +0800",
+     "summary": "豆包AI Agent遭头部App集体拒绝，困于互联网围墙。",
+     "source": "钛媒体",
+     "zh": "字节跳动豆包做不了 Muse"
+    },
+    {
+     "title": "比尔 · 盖茨认为 AI 比核武器更危险、比核能更有用，与 PC、互联网等创新都不同",
+     "link": "https://www.ithome.com/1/013/350.htm",
+     "pubDate": "Thu, 15 Oct 2026 05:19:15 GMT",
+     "summary": "IT之家 10 月 15 日消息，据 Vatican News 本周报道，微软创始人比尔 · 盖茨谈到了 AI 增长可能带来的危险，并解释说 AI 是一个无法自我监管的领域，因此必须由政府引导，必须采取行动，利用 AI 在医疗、教育和农业领域所带来的机遇。 比尔 · 盖茨表示，我们没有足够关注 AI 的风险，也没有尽量减少伤害。我们也没有做足够的工作来充分利用当前的 AI 机遇，AI 可以让农村医生将智能手机当作超声波机器使用，为学生根据实际学习方式进行个性化辅导，并根据农民的土壤和气候提供量身定制的建议。 他表示，这些都不是自动发生的，如果任由市场发展， 最强大的工具会优先被付钱最多的人使用",
+     "source": "IT之家",
+     "zh": "比尔 · 盖茨认为 AI 比核武器更危险、比核能更有用，与 PC、互联网等创新都不同"
+    },
+    {
+     "title": "苹果“春晚”后首场顶级实战：iPhone 18 Pro Max 挑大梁掌镜土耳其时装秀",
+     "link": "https://www.ithome.com/1/013/349.htm",
+     "pubDate": "Thu, 15 Oct 2026 05:18:18 GMT",
+     "summary": "IT之家 10 月 15 日消息，苹果公司昨日（10 月 14 日）发布公告，宣布携手潮牌 Les Benjamins， 在土耳其卡帕多奇亚（Cappadocia）的玫瑰谷（Rose Valley）上演名为“From Earth to Sky”（从大地到天空）的时装秀。 IT之家注：Les Benjamins 成立于 2011 年，由设计师 Bünyamin Aydın 创立，起初以印花 T 恤起家，如今已发展为涵盖男装、女装、卫衣、运动套装、外套、牛仔及生活方式产品的品牌。本次时装秀也是为了庆祝该品牌成立 15 周年。 在本次时装秀期间，最亮眼的是 3 个翱翔于峡谷上空的巨型热气球，由 Ay",
+     "source": "IT之家",
+     "zh": "苹果“春晚”后首场顶级实战：iPhone 18 Pro Max 挑大梁掌镜土耳其时装秀"
+    },
+    {
+     "title": "辛顿回怼黄仁勋：AI灭绝人类的概率，是10%到20%",
+     "link": "https://www.tmtpost.com/8169667.html",
+     "pubDate": "Thu, 15 Oct 2026 13:18:00 +0800",
+     "summary": "2023年辛顿称AI毁灭人类的概率为10%，如今已经变成10%到20%",
+     "source": "钛媒体",
+     "zh": "辛顿回怼黄仁勋：AI灭绝人类的概率，是10%到20%"
+    },
+    {
+     "title": "Muse起势、大厂谋变，个人智能体激战前夜",
+     "link": "https://www.huxiu.com/article/4897714.html?f=rss",
+     "pubDate": "Thu, 15 Oct 2026 13:16:58 +0800",
+     "summary": "本文来自微信公众号： 来咖智库 ，作者：龚岩，编辑：G3007 新玩法和老问题并存。 个人智能体，正在迎来新的开局。 自一个月前，Meta推出个人智能体Muse，并且登顶美加iOS免费榜后，中国大厂也再次上演神级反应。字节跳动加速推进代号“Spell”的个人助理项目，腾讯上线LightVela，阿里千问即将发布“千问Go！”，蚂蚁“灵光”开启小范围内测对标Muse，另外还有独角兽Manus推出的独立个人智能体应用Cue。 与年初OpenClaw带动的“龙虾智能体”热潮不同，这一轮个人智能体的玩家明显更集中：大厂和头部创业公司成为主力，战场从B端AI办公，全面转向C端个人消费场景。 随着今年AI",
+     "source": "虎嗅",
+     "zh": "Muse起势、大厂谋变，个人智能体激战前夜"
+    },
+    {
+     "title": "Alo首店开张：lululemon的劲敌们抢滩中国市场",
+     "link": "https://www.tmtpost.com/8166945.html",
+     "pubDate": "Thu, 15 Oct 2026 13:13:03 +0800",
+     "summary": "消费者愿意为高端运动服饰付费，只是背后的逻辑已经发生根本性改变。",
+     "source": "钛媒体",
+     "zh": "Alo首店开张：lululemon的劲敌们抢滩中国市场"
+    },
+    {
+     "title": "今年双11，没人提增长了",
+     "link": "https://www.tmtpost.com/8169146.html",
+     "pubDate": "Thu, 15 Oct 2026 13:13:00 +0800",
+     "summary": "回头来看，中国电商行业的价格战至少打了5年。那是资本、流量、人群共建出来的一个繁荣世界，品牌靠低价换GMV，平台靠补贴换增长。",
+     "source": "钛媒体",
+     "zh": "今年双11，没人提增长了"
+    },
+    {
+     "title": "LV承认起诉茉莉奶产生负面影响：中国市场需求下滑15%",
+     "link": "https://www.tmtpost.com/8169504.html",
+     "pubDate": "Thu, 15 Oct 2026 13:12:36 +0800",
+     "summary": "这起赢了判决却输了民心的案子之后，LV还将如何重获消费者的心呢？",
+     "source": "钛媒体",
+     "zh": "LV承认起诉茉莉奶产生负面影响：中国市场需求下滑15%"
+    },
+    {
+     "title": "在云南，咖农开始挑买家了",
+     "link": "https://www.huxiu.com/article/4897715.html?f=rss",
+     "pubDate": "Thu, 15 Oct 2026 13:10:26 +0800",
+     "summary": "本文来自微信公众号： 镜相工作室 ，编辑：胡苗，作者：镜相作者 五年前，云南咖啡庄园主马孝金为了把自家豆子卖给星巴克，在收购点前排了四五天。卡车一天500块，司机三餐另算，豆还没卖，先花出去两三千。 后来，来云南收豆的品牌越来越多。Seesaw、Manner推动了云南咖啡的精品化，瑞幸、蜜雪带着更大的订单和更高的价格来收豆。 据数据平台农小蜂统计，今年一季度（云南咖啡采收季约为11月-次年4月）雀巢和星巴克商业生豆均价为每公斤48.09元和48.18元，而瑞幸为50.37元。 咖农们不再只有雀巢、星巴克两个选择。豆子还没摘下来，就有人冲到地里要收。贸易商开车十几个小时上门，只求他们把豆子卖给自",
+     "source": "虎嗅",
+     "zh": "在云南，咖农开始挑买家了"
+    },
+    {
+     "title": "A look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from £6.2M in 2022 to £32M+ in 2025, with the UK as its biggest market (Financial Times)",
+     "link": "https://www.techmeme.com/261015/p5#a261015p5",
+     "pubDate": "Thu, 15 Oct 2026 01:10:02 -0400",
+     "summary": "Financial Times : A look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from &pound;6.2M in 2022 to &pound;32M+ in 2025, with the UK as its biggest market &nbsp; &mdash;&nbsp; UK-based tech company is growing quickly but has encountered regulatory obstacles in Spai",
+     "source": "Techmeme",
+     "zh": "A look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from £6.2M in 2022 to £32M+ in 2025, with the UK as its biggest market (Financial Times)"
+    },
+    {
+     "title": "莱美药业纳米炭铁获市场关注，Ⅱ期临床仍是价值验证关键",
+     "link": "https://www.tmtpost.com/8169595.html",
+     "pubDate": "Thu, 15 Oct 2026 13:08:00 +0800",
+     "summary": "早期表现可观。",
+     "source": "钛媒体",
+     "zh": "莱美药业纳米炭铁获市场关注，Ⅱ期临床仍是价值验证关键"
+    },
+    {
      "title": "漫步者 NeoBuds Pro 5 耳机 30 周年典藏版上架：限量 3000 套，1169 元",
      "link": "https://www.ithome.com/1/013/348.htm",
      "pubDate": "Thu, 15 Oct 2026 05:07:58 GMT",
@@ -1849,84 +1961,12 @@
      "zh": "鼠疫恐慌：俄罗斯防控所一技术员的死因疑云"
     },
     {
-     "title": "荣盛石化利润暴增8倍，谁在买单",
-     "link": "https://www.tmtpost.com/8169594.html",
-     "pubDate": "Thu, 15 Oct 2026 12:52:00 +0800",
-     "summary": "海外成品油提振盈利，持续性存疑。",
-     "source": "钛媒体",
-     "zh": "荣盛石化利润暴增8倍，谁在买单"
-    },
-    {
-     "title": "IDC：2026 年三季度全球智能手机出货量同比暴跌 22%，为史上最严重季度下滑",
-     "link": "https://www.ithome.com/1/013/341.htm",
-     "pubDate": "Thu, 15 Oct 2026 04:51:43 GMT",
-     "summary": "IT之家 10 月 15 日消息，据彭博社报道，市场研究机构 IDC 表示，受内存涨价冲击，全球智能手机市场在今年第三季度遭遇史上最严重季度下滑，出货量同比大跌 22%，后续形势还会进一步恶化。 IDC 称，过去一年，人工智能行业订单拉动存储芯片价格走高，挤压整个手机行业的利润空间，迫使厂商上调售价、缩减硬件配置，甚至砍掉入门机型。小米、OPPO 等中国头部品牌受到的冲击最为严重；苹果与三星电子凭借更丰富的高端机型矩阵，表现相对更好。 IT之家注意到，设备厂商越来越意识到，行业正在经历永久性结构性转变。IDC 预测，市场增长至少要等到 2028 年才有可能复苏。随着厂商持续涨价、引导消费者选购",
-     "source": "IT之家",
-     "zh": "IDC：2026 年三季度全球智能手机出货量同比暴跌 22%，为史上最严重季度下滑"
-    },
-    {
-     "title": "灵活用工不灵活，自由职业不自由",
-     "link": "https://www.tmtpost.com/8169561.html",
-     "pubDate": "Thu, 15 Oct 2026 12:47:00 +0800",
-     "summary": "一份54条的新规，正在给算法找回一张“脸”。",
-     "source": "钛媒体",
-     "zh": "灵活用工不灵活，自由职业不自由"
-    },
-    {
-     "title": "Anthropic 国际业务负责人普兰森：开放式 AI 模型比我们的模型风险更高",
-     "link": "https://www.ithome.com/1/013/337.htm",
-     "pubDate": "Thu, 15 Oct 2026 04:46:59 GMT",
-     "summary": "IT之家 10 月 15 日消息，据彭博社 14 日报道，Anthropic 国际业务负责人、负责美国以外市场销售的纪尧姆 · 普兰森认为，与 Anthropic 自家的 AI 模型相比，开放式模型 发生网络安全事件或造成其他危害 的风险更高。 普兰森在都柏林国际人工智能峰会期间接受采访时表示：“对开源模型的安全问题，我们必须格外小心。我无法替开放模型作出保证，但从定义上讲，这类模型的风险更高。” 随着越来越多国家担心过度依赖美国 AI 技术，预计将上市的 Anthropic 面临越来越激烈的竞争。其中， 开放权重 AI 模型 成为热门选择。 IT之家注：开放权重 AI 模型向公众开放参数，用",
-     "source": "IT之家",
-     "zh": "Anthropic 国际业务负责人普兰森：开放式 AI 模型比我们的模型风险更高"
-    },
-    {
-     "title": "OpenAI 伦敦分部去年人均薪酬超 230 万英镑，堪比英超球星",
-     "link": "https://www.ithome.com/1/013/331.htm",
-     "pubDate": "Thu, 15 Oct 2026 04:43:48 GMT",
-     "summary": "IT之家 10 月 15 日消息，据卫报报道，OpenAI 伦敦分部员工去年人均薪酬达到 231.8181 万英镑 （IT之家注：现汇率约合 2,053.9 万元人民币） 。这家 ChatGPT 开发商投入堪比英超球星级别的薪资，全力争夺全球 AI 竞赛的主导地位。 OpenAI 英国有限公司注册于威斯敏斯特，新总部落地伦敦国王十字区。公司财报显示，110 名员工合计领取 8,700 万英镑 （现汇率约合 7.71 亿元人民币） 薪资，外加价值 1.68 亿英镑 （现汇率约合 14.88 亿元人民币） 的公司股权。OpenAI 目标上市估值约 1 万亿美元 （现汇率约合 6.71 万亿元人民币",
-     "source": "IT之家",
-     "zh": "OpenAI 伦敦分部去年人均薪酬超 230 万英镑，堪比英超球星"
-    },
-    {
-     "title": "Anthropic最新单季营收168亿美元，环比再涨45%",
-     "link": "https://www.tmtpost.com/8169578.html",
-     "pubDate": "Thu, 15 Oct 2026 12:42:00 +0800",
-     "summary": "47亿、116亿、168亿：三个季度翻了三倍多。",
-     "source": "钛媒体",
-     "zh": "Anthropic最新单季营收168亿美元，环比再涨45%"
-    },
-    {
-     "title": "阿维塔 06 车型焕新上市：半隐藏门把手、安全舒适配置升级，限时权益价 20.59 万起",
-     "link": "https://www.ithome.com/1/013/323.htm",
-     "pubDate": "Thu, 15 Oct 2026 04:41:27 GMT",
-     "summary": "IT之家 10 月 15 日消息，阿维塔 06 车型今日焕新上市，Max 增程版限时权益价 20.59 万元 ，Max 纯电版限时权益价 21.59 万元 。 阿维塔 06 焕新车型拥有华为乾崑 ADS 5 加持， 安全与舒适焕新升级 ，搭载 4D 毫米波雷达、半隐藏式门把手、华为乾崑全维防碰撞系统 CAS 5.0，车内应急机械拉手也进行了优化。 该车尺寸为 4855*1960*1467mm，轴距 2940mm；搭载鸿蒙座舱 HarmonySpace 5， 采用 35.4 英寸 4K 全景星环屏、15.6 英寸中控屏以及双 6.7 英寸高清后视屏 ；MoLA 混合大模型 Agent 架构上车，",
-     "source": "IT之家",
-     "zh": "阿维塔 06 车型焕新上市：半隐藏门把手、安全舒适配置升级，限时权益价 20.59 万起"
-    },
-    {
-     "title": "餐企重新审视外卖：要不要做，做多少？",
-     "link": "https://www.tmtpost.com/8169512.html",
-     "pubDate": "Thu, 15 Oct 2026 12:38:00 +0800",
-     "summary": "外卖早已不是“上了就多一份收入”的简单选项。",
-     "source": "钛媒体",
-     "zh": "餐企重新审视外卖：要不要做，做多少？"
-    },
-    {
      "title": "Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data (Steven Rosenbush/Wall Street Journal)",
      "link": "https://www.techmeme.com/261015/p3#a261015p3",
      "pubDate": "Thu, 15 Oct 2026 00:35:04 -0400",
      "summary": "Steven Rosenbush / Wall Street Journal : Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data &nbsp; &mdash;&nbsp; Allowing users to add their own information to the company's generative AI-bas",
      "source": "Techmeme",
      "zh": "Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data (Steven Rosenbush/Wall Street Journal)"
-    },
-    {
-     "title": "规模并肩，质量分野：中信与浦发的十万亿之争",
-     "link": "https://www.tmtpost.com/8169485.html",
-     "pubDate": "Thu, 15 Oct 2026 12:33:00 +0800",
-     "summary": "同跨十万亿，规模只是起点。",
-     "source": "钛媒体",
-     "zh": "规模并肩，质量分野：中信与浦发的十万亿之争"
     },
     {
      "title": "算力中心液冷板：16家厂商研发投入对比与布局路径分析",
@@ -1953,28 +1993,12 @@
      "zh": "华为拿走了车企的灵魂，也拿走了骂名"
     },
     {
-     "title": "商业离奇，一家明星独角兽，把自己“聊死”了",
-     "link": "https://www.tmtpost.com/8169615.html",
-     "pubDate": "Thu, 15 Oct 2026 12:26:26 +0800",
-     "summary": "留下的平台还在等待新的买家。",
-     "source": "钛媒体",
-     "zh": "商业离奇，一家明星独角兽，把自己“聊死”了"
-    },
-    {
-     "title": "抖音、高德也能“开户”了？",
-     "link": "https://www.huxiu.com/article/4897699.html?f=rss",
-     "pubDate": "Thu, 15 Oct 2026 12:22:09 +0800",
-     "summary": "本文来自微信公众号： 经观传媒 ，作者：刘轩宇 从行情软件到短视频、社交平台，券商获客正从专业金融场景进入用户的日常数字生活，开户入口的分布也变得更加分散和便利，但这种新获客模式也暴露出不少待解的问题。 券商营销，正以一种更隐蔽的方式挤进普通人的生活。 过去，人们想开证券账户，路径大多是通过券商自有APP，或者是在同花顺、通达信、大智慧等行情软件中进行注册开户。现在，开户入口出现在更日常的场景中：刷抖音时，钱包里的理财专区可能连着券商开户页，点开“绑卡领红包”，以为只是普通优惠，绑卡、刷脸、认证一路走完，最终页面却显示已开户。查高德地图时，搜索一家券商营业部，详情页可能推荐另一家券商的开户入口",
-     "source": "虎嗅",
-     "zh": "抖音、高德也能“开户”了？"
-    },
-    {
-     "title": "焦点｜DeepSeek突发宕机：AI时代，我们该如何守住自身的技术利益",
-     "link": "https://www.huxiu.com/article/4897696.html?f=rss",
-     "pubDate": "Thu, 15 Oct 2026 12:22:09 +0800",
-     "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《焦点｜DeepSeek突发宕机：AI时代，我们该如何守住自身的技术利益》 今天早8点，DeepSeek网页端、App、V4.1 Flash API、V4.1 Pro API同步出现大面积中断。截至发稿，部分服务仍未完全恢复。对普通用户来说，可能只是少聊了几句天；但对那些把业务链路全部绑在大模型上的中小企业、开发者来说，这持续数小时的服务中断，可能就是直接的订单损失和服务违约。一次技术故障，撕开了很多人刻意忽略的隐患：我们以为自己在用AI，实际上，可能是把业务命脉托管在了别人的服务器上。 DeepSeek这次宕机，不是什么新鲜事。往近了",
-     "source": "虎嗅",
-     "zh": "焦点｜DeepSeek突发宕机：AI时代，我们该如何守住自身的技术利益"
+     "title": "An Apology",
+     "link": "https://www.elevationlab.com/blogs/news/an-apology",
+     "pubDate": "Thu, 15 Oct 2026 04:23:27 +0000",
+     "summary": "Article URL: https://www.elevationlab.com/blogs/news/an-apology Comments URL: https://news.ycombinator.com/item?id=50099121 Points: 10 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "An Apology"
     },
     {
      "title": "ASML expects China to account for ~20% of total sales this year, after Q3 sales there surged 109% QoQ, lifting China&apos;s share of machine sales from 14% to 23% (Xiaofei Xu/South China Morning Post)",
@@ -1985,36 +2009,12 @@
      "zh": "ASML expects China to account for ~20% of total sales this year, after Q3 sales there surged 109% QoQ, lifting China&apos;s share of machine sales from 14% to 23% (Xiaofei Xu/South China Morning Post)"
     },
     {
-     "title": "瑞典一综艺节目整季制作文件疑被 AI 智能体删除，团队只能从头重剪",
-     "link": "https://www.ithome.com/1/013/288.htm",
-     "pubDate": "Thu, 15 Oct 2026 04:19:34 GMT",
-     "summary": "IT之家 10 月 15 日消息，随着 Claude、Muse 等 AI 智能体日益普及，AI 失控当今已不算什么新鲜事，出了问题就把责任推给 AI 似乎更成了一种风气。 瑞典真人竞技节目《The Challenge Sverige》最近也卷入了一场这样的风波。 当地时间 14 日，瑞典《晚报》披露了一起令人难以置信的事件：据称，一款 AI 智能体竟然删除了《The Challenge Sverige》即将播出的整季节目，当时距离首播只剩几个星期。 该报获悉， 被删除的剪辑文件无法恢复 ，制作公司 Mastiff 只能安排团队从头剪辑整季节目。 图源：Pixabay 据知情人士透露，Masti",
-     "source": "IT之家",
-     "zh": "瑞典一综艺节目整季制作文件疑被 AI 智能体删除，团队只能从头重剪"
-    },
-    {
      "title": "Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10% (Lee Ying Shan/CNBC)",
      "link": "https://www.techmeme.com/261015/p1#a261015p1",
      "pubDate": "Thu, 15 Oct 2026 00:05:01 -0400",
      "summary": "Lee Ying Shan / CNBC : Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10% &nbsp; &mdash;&nbsp; A sell-off in global technology hardware stocks deepened Thursday, with Asian chipmakers tracking Wall",
      "source": "Techmeme",
      "zh": "Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10% (Lee Ying Shan/CNBC)"
-    },
-    {
-     "title": "Sources: ByteDance is in advanced talks to buy data center ASICs from MediaTek, potentially becoming its second major customer for such chips after Google (Bloomberg)",
-     "link": "https://www.techmeme.com/261014/p57#a261014p57",
-     "pubDate": "Wed, 14 Oct 2026 23:45:01 -0400",
-     "summary": "Bloomberg : Sources: ByteDance is in advanced talks to buy data center ASICs from MediaTek, potentially becoming its second major customer for such chips after Google &nbsp; &mdash;&nbsp; ByteDance Ltd. is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secur",
-     "source": "Techmeme",
-     "zh": "Sources: ByteDance is in advanced talks to buy data center ASICs from MediaTek, potentially becoming its second major customer for such chips after Google (Bloomberg)"
-    },
-    {
-     "title": "Sources: Anthropic told investors that distillation accounts for 5% to 7% of revenue; its rapid but slowing revenue growth could weigh on its IPO valuation (Cory Weinberg/The Information)",
-     "link": "https://www.techmeme.com/261014/p56#a261014p56",
-     "pubDate": "Wed, 14 Oct 2026 23:40:00 -0400",
-     "summary": "Cory Weinberg / The Information : Sources: Anthropic told investors that distillation accounts for 5% to 7% of revenue; its rapid but slowing revenue growth could weigh on its IPO valuation &nbsp; &mdash;&nbsp; Anthropic reported rapid-but-slowing revenue growth in a meeting with potential investors",
-     "source": "Techmeme",
-     "zh": "Sources: Anthropic told investors that distillation accounts for 5% to 7% of revenue; its rapid but slowing revenue growth could weigh on its IPO valuation (Cory Weinberg/The Information)"
     }
    ]
   },
@@ -2273,60 +2273,28 @@
    "total": 13,
    "items": [
     {
+     "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+     "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+     "pubDate": "Thu, 15 Oct 2026 05:19:09 GMT",
+     "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+     "source": "CNBC",
+     "zh": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount"
+    },
+    {
+     "title": "SK Hynix, Samsung fall as market fears higher rates could curb AI expansion",
+     "link": "https://seekingalpha.com/news/4653224-sk-hynix-samsung-fall-as-market-fears-higher-rates-could-curb-ai-expansion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 01:13:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SK Hynix, Samsung fall as market fears higher rates could curb AI expansion"
+    },
+    {
      "title": "Telefonaktiebolaget LM Ericsson beats top-line and bottom-line estimates; gives Q4 outlook",
      "link": "https://seekingalpha.com/news/4653234-telefonaktiebolaget-lm-ericsson-beats-top-line-and-bottom-line-estimates-gives-q4-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 15 Oct 2026 01:05:36 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Telefonaktiebolaget LM Ericsson beats top-line and bottom-line estimates; gives Q4 outlook"
-    },
-    {
-     "title": "世龙实业10月15日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610153896674540.html",
-     "pubDate": "Thu, 15 Oct 2026 13:03:50 +0800",
-     "summary": "以下是 世龙实业 在北京时间10月15日13:03分盘口异动快照： 10月15日， 世龙实业 盘中涨幅达5%，截至13点03分，报13.05元，成交2.08亿元，换手率7.10%。 分笔 13:03:39 13.05 1219↑ 13:03:36 12.98 1329↓ 13:03:33 12.98 53↑ 13:03:30 12.97 252↑ 13:03:27 12.95 1674↑ 13:03:24 12.85 362↑ 13:03:21 12.82 169↑ 13:03:18 12.80 53↑ 13:03:15 12.80 223↑ 13:03:12 12.77 345↑ 报价 卖五",
-     "source": "东方财富股票",
-     "zh": "世龙实业10月15日盘中涨幅达5%"
-    },
-    {
-     "title": "*ST威领10月15日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610153896674410.html",
-     "pubDate": "Thu, 15 Oct 2026 13:03:50 +0800",
-     "summary": "以下是 *ST威领 在北京时间10月15日13:03分盘口异动快照： 10月15日， *ST威领 盘中快速上涨，5分钟内涨幅超过2%，截至13点03分，报29.8元，成交4.17亿元，换手率6.06%。 分笔 13:03:39 29.85 32↑ 13:03:36 29.80 87↑ 13:03:33 29.80 19↑ 13:03:30 29.80 38↑ 13:03:27 29.75 33↑ 13:03:24 29.74 289↓ 13:03:21 29.74 12↑ 13:03:18 29.70 163↓ 13:03:15 29.71 36↑ 13:03:12 29.70 18↑ 报价 ",
-     "source": "东方财富股票",
-     "zh": "*ST威领10月15日快速上涨"
-    },
-    {
-     "title": "继峰股份10月15日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610153896674357.html",
-     "pubDate": "Thu, 15 Oct 2026 13:03:40 +0800",
-     "summary": "以下是 继峰股份 在北京时间10月15日13:03分盘口异动快照： 10月15日， 继峰股份 盘中快速反弹，5分钟内涨幅超过2%，截至13点03分，报11.34元，成交2.94亿元，换手率2.07%。 分笔 13:03:34 11.34 2107↑ 13:03:31 11.29 237↑ 13:03:28 11.29 57↑ 13:03:22 11.29 7↑ 13:03:19 11.29 3↑ 13:03:16 11.29 101↑ 13:03:13 11.28 8↑ 13:03:10 11.29 32↑ 13:03:07 11.28 498↓ 13:03:04 11.30 77↑ 报价 卖",
-     "source": "东方财富股票",
-     "zh": "继峰股份10月15日快速反弹"
-    },
-    {
-     "title": "京基智农10月15日打开跌停",
-     "link": "http://stock.eastmoney.com/news/1944,202610153896674292.html",
-     "pubDate": "Thu, 15 Oct 2026 13:03:40 +0800",
-     "summary": "以下是 京基智农 在北京时间10月15日13:03分盘口异动快照： 10月15日13点3分， 京基智农 盘中打开跌停，现报16.57元，成交3.00亿元，换手率3.34%。该股之前于13点0分跌停。 分笔 13:03:30 16.57 1386↑ 13:03:27 16.56 912↑ 13:03:24 16.56 74↑ 13:03:21 16.56 482↑ 13:03:18 16.56 105↑ 13:03:15 16.56 308↑ 13:03:12 16.56 155↑ 13:03:09 16.56 216↑ 13:03:06 16.56 331↑ 13:03:03 16.56 55",
-     "source": "东方财富股票",
-     "zh": "京基智农10月15日打开跌停"
-    },
-    {
-     "title": "威尔高10月15日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610153896674182.html",
-     "pubDate": "Thu, 15 Oct 2026 13:03:40 +0800",
-     "summary": "以下是 威尔高 在北京时间10月15日13:03分盘口异动快照： 10月15日， 威尔高 盘中涨幅达5%，截至13点03分，报84.31元，成交10.90亿元，换手率7.68%。 分笔 13:03:33 84.31 240↑ 13:03:30 83.93 11↑ 13:03:27 83.83 8↑ 13:03:24 83.79 179↑ 13:03:21 83.65 4↓ 13:03:18 83.70 3↓ 13:03:15 83.70 33↓ 13:03:12 83.75 19↓ 13:03:09 83.80 13↑ 13:03:06 83.73 3↓ 报价 卖五 84.57 1 卖四 84",
-     "source": "东方财富股票",
-     "zh": "威尔高10月15日盘中涨幅达5%"
-    },
-    {
-     "title": "三祥新材10月15日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610153896673919.html",
-     "pubDate": "Thu, 15 Oct 2026 13:03:30 +0800",
-     "summary": "以下是 三祥新材 在北京时间10月15日13:03分盘口异动快照： 10月15日， 三祥新材 盘中快速反弹，5分钟内涨幅超过2%，截至13点03分，报35.47元，成交3.71亿元，换手率1.81%。 分笔 13:03:21 35.47 59↑ 13:03:18 35.43 136↑ 13:03:15 35.29 34↑ 13:03:12 35.28 91↓ 13:03:09 35.28 20↓ 13:03:03 35.34 115↓ 13:03:00 35.39 3↓ 13:02:57 35.40 81↑ 13:02:54 35.39 456↑ 13:02:51 35.30 529↑ 报价 ",
-     "source": "东方财富股票",
-     "zh": "三祥新材10月15日快速反弹"
     },
     {
      "title": "Equity Bancshares Non-GAAP EPS of $1.40 beats by $0.14, revenue of $83.74M misses by $6.98M",
@@ -2367,14 +2335,6 @@
      "summary": "保险资金的新一轮入市，正出现两组方向不同的信号。 截至2026年二季度末，人身险公司股票投资余额约3.86万亿元，占资金运用余额的10.47%，较上年同期提高2.14个百分点。 但在举牌这一最受市场关注的动作上，险资却放慢了脚步。 截至10月9日，年内仅有5家保险公司举牌上市公司股票9次，不足去年同期的三分之一。 更大的分歧在于，下一步是否继续提高权益比例。 平安联席首席执行官郭晓涛在中期业绩会上表示，长期看好中国经济的发展韧性及资本市场的长期健康稳定发展； 新华资产总裁陈一江也表态，将持续增配高股息底仓，增加红利和新质生产力方向投资。 但另一边，有外资寿险公司首席投资官透露，公司计划维持权益",
      "source": "华尔街见闻",
      "zh": "险资加仓到了分歧点"
-    },
-    {
-     "title": "OpenAI accuses former employee of leaking unreleased device files to Apple",
-     "link": "https://seekingalpha.com/news/4653226-openai-accuses-former-employee-of-leaking-unreleased-device-files-to-apple?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 00:34:18 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "OpenAI accuses former employee of leaking unreleased device files to Apple"
     },
     {
      "title": "朱雀二号第10次飞行圆满成功  一箭10星再拓星箭协同新实践",
@@ -2511,6 +2471,46 @@
      "summary": "AI短剧市场再迎重磅玩家。 近日，“绿泡泡短剧”和“红果短剧”的AI短剧“红绿大战”备受关注！ 资本市场上，也侧面反映出上述事件的火爆程度。10月15日，AI短剧、漫剧概念反复走强， 读者传媒 、 慈文传媒 等涨停， 读客文化 一度“20cm涨停”， 出版传媒 、 掌阅科技 、 昆仑万维 涨幅居前。值得一提的是， 慈文传媒 开盘即封板，最大封单超过3亿元。 二级市场资金躁动的背后，是腾讯于近期低调上线内嵌于微信生态的“绿泡泡短剧”小程序，以“免费好剧，一点就看”为核心定位，直接对标字节跳动旗下日活1.68亿的红果短剧。 涨停潮起，AI短剧情绪被点燃 此前 慈文传媒 已录得5连板， 欢瑞世纪 5",
      "source": "东方财富资讯",
      "zh": "开盘封板！敢死队超3亿元抢筹！“红绿大战”杀疯"
+    },
+    {
+     "title": "沪指下跌1.98% 出版、白酒板块逆势走强 煤炭股大跌",
+     "link": "http://finance.eastmoney.com/news/1345,202610153896647813.html",
+     "pubDate": "Thu, 15 Oct 2026 11:30:32 +0800",
+     "summary": "A股三大指数震荡下跌，沪指跌近2%，创业板指跌逾3.4%。盘面上， 出版 、 白酒 、 医疗美容 、 厨卫电器 逆势走强， 煤炭 、 油服工程 、 稀缺资源 、 航运港口 、 CPO概念 、 BC 电池 表现不佳，领跌市场。 截至午间收盘，沪指下跌1.98%，报3692.65点；深成指下跌2.78%，报11773.45点；创业板指下跌3.42%，报2768.63点；科创50指数下跌3.02%，报1338.53点；北证50指数下跌2.76%，报974.37点。全市场上涨个股有466家，下跌个股有5060家，33只股涨停。两市半日合计成交9818亿。 今日要闻 光模块、PCB接连被传限制 海外政策",
+     "source": "东方财富资讯",
+     "zh": "沪指下跌1.98% 出版、白酒板块逆势走强 煤炭股大跌"
+    },
+    {
+     "title": "美联储12月或祭出50基点加息？资深预测人士：10月料按兵不动",
+     "link": "http://finance.eastmoney.com/news/1346,202610153896640172.html",
+     "pubDate": "Thu, 15 Oct 2026 11:18:45 +0800",
+     "summary": "在美国公布全面超预期的CPI数据后，美联储10月加息概率有所上升，但不加息的概率仍然占据上风。但一位曾较早预测到美联储9月加息的预测人士提出了另一种可能： 12月份该央行可能会进行更大幅度、即50个基点的加息 。 市场研究机构Prestige Economics 的总裁Jason Schenker最新表示，他认为 美联储在本月的会议上不太可能提高基准利率 。相反， 他认为美联储可能会给9月的加息“一点喘息的空间”，然后再在12月考虑更大幅度的加息 。 “到了12月，如果9月加息之后，通胀仍未得到更有力、更实质性的遏制，美联储可能会选择加息50个基点，而不是25个基点，以便更大力度地压制通胀。”",
+     "source": "东方财富资讯",
+     "zh": "美联储12月或祭出50基点加息？资深预测人士：10月料按兵不动"
+    },
+    {
+     "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
+     "link": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 01:07:00 GMT",
+     "summary": "Anthropic’s revenue growth appears to be cooling as the company prepares for its public debut, further stoking investors’ AI jitters",
+     "source": "MarketWatch",
+     "zh": "Anthropic’s slowing growth could be the AI trade’s latest red flag"
+    },
+    {
+     "title": "Anthropic tells investors its quarterly revenue jumped 50%",
+     "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
+     "pubDate": "Thu, 15 Oct 2026 00:59:36 GMT",
+     "summary": "Rapid growth is slower than some anticipated as fears about AI trade rattle markets",
+     "source": "Financial Times",
+     "zh": "Anthropic tells investors its quarterly revenue jumped 50%"
+    },
+    {
+     "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
+     "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 00:02:00 GMT",
+     "summary": "Neutron, a medium-lift rocket meant to rival SpaceX’s Falcon 9, will no longer launch this year.",
+     "source": "MarketWatch",
+     "zh": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch"
     }
    ]
   },

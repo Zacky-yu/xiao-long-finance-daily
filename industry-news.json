@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/16 03:12:13",
+ "generated_at": "2026/10/16 03:34:39",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+     "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+     "pubDate": "Thu, 15 Oct 2026 19:14:26 +0000",
+     "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+     "source": "TechCrunch AI",
+     "zh": "Anthropic is letting METR researchers look under the hood with employee-level access"
+    },
     {
      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
@@ -23,6 +31,14 @@
      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
      "source": "TechCrunch AI",
      "zh": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16"
+    },
+    {
+     "title": "Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know",
+     "link": "https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know",
+     "pubDate": "Thu, 15 Oct 2026 17:00:59 +0000",
+     "summary": "This review highlights the main critiques of Abacus AI, its price, user reviews, reliability of workflows, and real-life use cases to assist you in evaluating its advantages and disadvantages.",
+     "source": "KDnuggets",
+     "zh": "Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know"
     },
     {
      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -73,6 +89,14 @@
      "zh": "TechCrunch Disrupt 2026: Last day"
     },
     {
+     "title": "Building AI Applications with OGX, the Open-Source Agentic API Server",
+     "link": "https://www.kdnuggets.com/building-ai-applications-with-open-source-agentic-api-server-ogx",
+     "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
+     "summary": "OGX is an open-source agentic API server for building OpenAI-compatible AI applications, using any model and any infrastructure.",
+     "source": "KDnuggets",
+     "zh": "Building AI Applications with OGX, the Open-Source Agentic API Server"
+    },
+    {
      "title": "OpenRouter周榜全球第二，这个国产模型终于开源了",
      "link": "https://zhidx.com/p/601405.html",
      "pubDate": "Thu, 15 Oct 2026 21:25:15 +0800",
@@ -105,12 +129,12 @@
      "zh": "万字深度解密：华为麒麟2026韬定律大量技术细节首披露"
     },
     {
-     "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-     "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-     "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
-     "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting a",
-     "source": "TechCrunch AI",
-     "zh": "Amazon’s Bee launches two new personal AI devices, starting at $75"
+     "title": "7 Open-Source AI Tools That Can Replace Paid Subscriptions",
+     "link": "https://www.kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions",
+     "pubDate": "Thu, 15 Oct 2026 12:00:34 +0000",
+     "summary": "Find open-source alternatives to OpenAI API, Midjourney, Claude Code, Notion, Wispr Flow, Grammarly, and NotebookLM that you can run locally or self-host for more privacy, control, and lower cost.",
+     "source": "KDnuggets",
+     "zh": "7 Open-Source AI Tools That Can Replace Paid Subscriptions"
     },
     {
      "title": "剑指博通，这家国产互连芯片公司藏不住了",
@@ -223,30 +247,6 @@
      "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension ",
      "source": "arXiv cs.AI",
      "zh": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress"
-    },
-    {
-     "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
-     "link": "https://arxiv.org/abs/2610.14149",
-     "pubDate": "Thu, 15 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration ",
-     "source": "arXiv cs.AI",
-     "zh": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation"
-    },
-    {
-     "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
-     "link": "https://www.qbitai.com/2026/10/503303.html",
-     "pubDate": "Thu, 15 Oct 2026 01:56:20 +0000",
-     "summary": "给企业Agent打了个样",
-     "source": "量子位",
-     "zh": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元"
-    },
-    {
-     "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-     "link": "https://huggingface.co/blog/meta-muse-spark-open",
-     "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta"
     }
    ]
   },
@@ -681,12 +681,12 @@
      "zh": "Velotric Nomad 2 e-bike + FREE $550 extra battery, Bluetti 900Wh alternator charger bundle, Hiboy kids electric dirt bikes, more"
     },
     {
-     "title": "Volvo makes a bigger bet on Nvidia",
+     "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
      "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
      "pubDate": "Thu, 15 Oct 2026 17:34:40 +0000",
      "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
      "source": "TechCrunch Transport",
-     "zh": "Volvo makes a bigger bet on Nvidia"
+     "zh": "Volvo makes a bigger bet on Nvidia for hands-free automated driving"
     },
     {
      "title": "Tesla remote operators keep crashing its ‘Robotaxis,’ data shows",
@@ -841,12 +841,28 @@
    "total": 9,
    "items": [
     {
+     "title": "Ukraine Strikes Major Russian Oil Refinery",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Strikes-Major-Russian-Oil-Refinery.html",
+     "pubDate": "Thu, 15 Oct 2026 14:30:00 -0500",
+     "summary": "It took Ukraine just hours to turn President Volodymyr Zelenskyy’s “we’re done” into a refinery fire. Ukrainian drones struck Russia’s Ryazan refinery on Thursday, ending Kyiv’s brief pause in attacks on Russian energy infrastructure after Zelenskyy said Moscow had ignored the ceasefire promoted by ",
+     "source": "OilPrice",
+     "zh": "Ukraine Strikes Major Russian Oil Refinery"
+    },
+    {
      "title": "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push",
      "link": "https://oilprice.com/Geopolitics/Asia/US-Targets-Central-Asias-Energy-and-Critical-Minerals-in-Major-Trade-Push.html",
      "pubDate": "Thu, 15 Oct 2026 14:00:00 -0500",
      "summary": "U.S. Secretary of State Marco Rubio will meet the foreign ministers of the Central Asian republics - Kazakhstan, the Kyrgyz Republic, Tajikistan, Turkmenistan, and Uzbekistan - in Samarkand, Uzbekistan on 19 October 2026. Rubio will be accompanied by a delegation of more than 100 U.S. companies. Was",
      "source": "OilPrice",
      "zh": "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push"
+    },
+    {
+     "title": "IEA Speeds Emergency Oil Release",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Speeds-Emergency-Oil-Release.html",
+     "pubDate": "Thu, 15 Oct 2026 14:00:00 -0500",
+     "summary": "The International Energy Agency will release more than 20 million barrels of diesel as soon as possible and accelerate the rest of its emergency oil draw, Total releases are now set to exceed the 400 million barrels pledged in March. About 330 million barrels have already been released since the Str",
+     "source": "OilPrice",
+     "zh": "IEA Speeds Emergency Oil Release"
     },
     {
      "title": "Britain’s Biggest Business Lobby Calls for Tax Cuts and Lower Energy Bills",
@@ -900,33 +916,9 @@
      "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
      "link": "https://www.utilitydive.com/news/utilities-need-ai-solve-grid-backlogs-aws-energy-lead-head/832816/",
      "pubDate": "Thu, 15 Oct 2026 12:00:00 -0400",
-     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities, Joseph Santamaria.",
+     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities&nbsp;Joseph Santamaria.",
      "source": "Utility Dive",
      "zh": "Utilities can use AI to solve grid backlogs: AWS energy lead"
-    },
-    {
-     "title": "Trump Denies Cutting Ukraine Intelligence Amid Satellite Restrictions",
-     "link": "https://oilprice.com/Geopolitics/Europe/Trump-Denies-Cutting-Ukraine-Intelligence-Amid-Satellite-Restrictions.html",
-     "pubDate": "Thu, 15 Oct 2026 11:00:00 -0500",
-     "summary": "US President Donald Trump said Washington continues to share intelligence with Ukraine after President Volodymyr Zelenskyy said Kyiv had received no advance warning from its international partners before a new wave of Russian attacks on the capital and battlefield reports of a throttling of Starlink",
-     "source": "OilPrice",
-     "zh": "Trump Denies Cutting Ukraine Intelligence Amid Satellite Restrictions"
-    },
-    {
-     "title": "Solar imports from India, Indonesia, Laos injured US manufacturers: ITC",
-     "link": "https://www.utilitydive.com/news/itc-material-injury-solar-imports-india-indonesia-laos/833127/",
-     "pubDate": "Thu, 15 Oct 2026 11:52:32 -0400",
-     "summary": "The decision clears the way for the Department of Commerce to finalize anti-dumping and countervailing duty orders on&nbsp;crystalline silicon photovoltaic cells from the three countries.",
-     "source": "Utility Dive",
-     "zh": "Solar imports from India, Indonesia, Laos injured US manufacturers: ITC"
-    },
-    {
-     "title": "Pakistan Faces Winter Gas Shortages if Hormuz LNG Remains Choked",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Faces-Winter-Gas-Shortages-if-Hormuz-LNG-Remains-Choked.html",
-     "pubDate": "Thu, 15 Oct 2026 10:30:00 -0500",
-     "summary": "Pakistan faces challenging winter months with potential natural gas shortages as the Qatari and UAE LNG flows from the Strait of Hormuz remain severely disrupted, the head of the Pakistani state-owned LNG importer said on Thursday. Masood Nabi, chief executive officer of Pakistan LNG Limited (PLL), ",
-     "source": "OilPrice",
-     "zh": "Pakistan Faces Winter Gas Shortages if Hormuz LNG Remains Choked"
     },
     {
      "title": "Farming’s Nitrogen Future Will Be Built From Several Technologies, Not One",
@@ -1004,7 +996,7 @@
      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption",
      "link": "https://www.utilitydive.com/news/reliability-standards-ai-data-centers-crypto-miners-pass-final-nerc-ba/833094/",
      "pubDate": "Thu, 15 Oct 2026 09:28:37 -0400",
-     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more connected at voltage levels of at least 100 kV.",
+     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more, connected at voltage levels of at least 100 kV.",
      "source": "Utility Dive",
      "zh": "Reliability standards for AI data centers, crypto miners move closer to adoption"
     },
@@ -1079,6 +1071,14 @@
      "summary": "Metals and energy group Metlen and conglomerate Karatzis Group have inaugurated the largest BESS in Greece, in a ceremony attended by the country’s Prime Minister.",
      "source": "Energy Storage News",
      "zh": "Greek PM says ‘storage should accompany renewables’ as Metlen, Karatzis inaugurate 790MWh BESS"
+    },
+    {
+     "title": "PV Chart of the Week: TOPCon to lead solar cell production in India this year",
+     "link": "https://www.pv-tech.org/pv-chart-of-the-week-topcon-to-lead-solar-cell-production-in-india-this-year/",
+     "pubDate": "Thu, 15 Oct 2026 10:00:53 +0000",
+     "summary": "This week's PV Chart of the Week looks at India's solar cell capacity and production growth from 2022 to 2026.",
+     "source": "PV Tech",
+     "zh": "PV Chart of the Week: TOPCon to lead solar cell production in India this year"
     }
    ]
   },
@@ -1289,6 +1289,22 @@
    "total": 6,
    "items": [
     {
+     "title": "On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-15-2026",
+     "pubDate": "Thu, 15 Oct 2026 19:13:26 +0000",
+     "summary": "On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn",
+     "source": "Space.com",
+     "zh": "On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn"
+    },
+    {
+     "title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force",
+     "link": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
+     "pubDate": "Thu, 15 Oct 2026 19:11:45 +0000",
+     "summary": "Liftoff from pad 4E at Vandenberg Space Force Base in California is scheduled for Thursday, Oct. 15, at 4:57 p.m. PDT (7:57 p.m. EDT / 2357 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "Live coverage: SpaceX to launch classified payload for U.S. Space Force"
+    },
+    {
      "title": "Watch SpaceX launch classified mission for the US Space Force today",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-space-force-launch-ussf-481-vandenberg",
      "pubDate": "Thu, 15 Oct 2026 18:00:00 +0000",
@@ -1315,7 +1331,7 @@
     {
      "title": "Power Up: Roll Out Solar Arrays Boost Space Station Power Supply",
      "link": "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/",
-     "pubDate": "Thu, 15 Oct 2026 17:30:39 +0000",
+     "pubDate": "Thu, 15 Oct 2026 17:30:00 +0000",
      "summary": "From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life support systems, daily activities, and hundreds of research investigations that improve life on Earth and prepare humans for deep space explorati",
      "source": "NASA",
      "zh": "Power Up: Roll Out Solar Arrays Boost Space Station Power Supply"
@@ -1399,14 +1415,6 @@
      "summary": "BELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new […] The post Agile Space Industries Expands to Seattle Area with New Bellevue Office appeared first on Spac",
      "source": "SpaceNews",
      "zh": "Agile Space Industries Expands to Seattle Area with New Bellevue Office"
-    },
-    {
-     "title": "Scientists discover 'chemical starter kit' for life in planetary birthplaces",
-     "link": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces",
-     "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
-     "summary": "The discovery of surprising molecules of methanol and associated maser activity has expanded the inventory of the chemical starter kit that builds planets in young star systems.",
-     "source": "Space.com",
-     "zh": "Scientists discover 'chemical starter kit' for life in planetary birthplaces"
     },
     {
      "title": "JAXA Taps ArkEdge for Two Lunar Navigation Demos",
@@ -1519,14 +1527,6 @@
      "summary": "Teams using the James Webb Space Telescope and the Hubble Space Telescope — both jointly… The post Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images"
-    },
-    {
-     "title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight",
-     "link": "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/",
-     "pubDate": "Sun, 11 Oct 2026 14:29:52 +0000",
-     "summary": "Four months after Blue Origin’s New Glenn rocket exploded on the launch pad, the company… The post Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight"
     }
    ]
   },
@@ -1761,6 +1761,30 @@
    "total": 18,
    "items": [
     {
+     "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+     "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+     "pubDate": "Thu, 15 Oct 2026 19:29:05 +0000",
+     "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
+     "source": "TechCrunch",
+     "zh": "Bluesky wants to make it easier to buy, sell, and fundraise on the network"
+    },
+    {
+     "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+     "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+     "pubDate": "Thu, 15 Oct 2026 19:21:38 +0000",
+     "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 3 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Someone on Torrent Sites Kept Fucking with My Sonarr"
+    },
+    {
+     "title": "Sources: top DOJ officials halt career prosecutors&apos; Biden-era investigation of Meta over facilitating illegal drug sales and are weighing more lenient options (Ben Penn/Bloomberg Law)",
+     "link": "https://www.techmeme.com/261015/p46#a261015p46",
+     "pubDate": "Thu, 15 Oct 2026 15:15:01 -0400",
+     "summary": "Ben Penn / Bloomberg Law : Sources: top DOJ officials halt career prosecutors' Biden-era investigation of Meta over facilitating illegal drug sales and are weighing more lenient options &nbsp; &mdash;&nbsp; Top Justice Department officials have sidelined career prosecutors' long-running grand jury i",
+     "source": "Techmeme",
+     "zh": "Sources: top DOJ officials halt career prosecutors&apos; Biden-era investigation of Meta over facilitating illegal drug sales and are weighing more lenient options (Ben Penn/Bloomberg Law)"
+    },
+    {
      "title": "Upgrade Your Thermostat for Winter With This Ecobee Deal for $120",
      "link": "https://www.wired.com/story/ecobee-fall-sale-2026/",
      "pubDate": "Thu, 15 Oct 2026 19:00:49 +0000",
@@ -1780,7 +1804,7 @@
      "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
      "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
      "pubDate": "Thu, 15 Oct 2026 18:38:16 +0000",
-     "summary": "Article URL: https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4 Comments URL: https://news.ycombinator.com/item?id=50108229 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4 Comments URL: https://news.ycombinator.com/item?id=50108229 Points: 14 # Comments: 1",
      "source": "Hacker News",
      "zh": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4"
     },
@@ -1788,7 +1812,7 @@
      "title": "Why We're Banning AI",
      "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
      "pubDate": "Thu, 15 Oct 2026 18:32:29 +0000",
-     "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 26 # Comments: 6",
+     "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 81 # Comments: 58",
      "source": "Hacker News",
      "zh": "Why We're Banning AI"
     },
@@ -1820,7 +1844,7 @@
      "title": "Muse Spark Open",
      "link": "https://research.meta.ai/blog/muse-spark-open",
      "pubDate": "Thu, 15 Oct 2026 17:47:39 +0000",
-     "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 229 # Comments: 143",
+     "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 294 # Comments: 195",
      "source": "Hacker News",
      "zh": "Muse Spark Open"
     },
@@ -1833,18 +1857,10 @@
      "zh": "Anthropic says it is giving employee-like access to METR as part of its pledge to partner with evaluators for assessment of its models and safety practices (Anthropic)"
     },
     {
-     "title": "Sunbound, which makes software for handling billing, insurance claims, and payments for senior living operators, raised a $24M Series A led by TTV Capital (Ryan Lawler/Axios)",
-     "link": "https://www.techmeme.com/261015/p40#a261015p40",
-     "pubDate": "Thu, 15 Oct 2026 13:35:30 -0400",
-     "summary": "Ryan Lawler / Axios : Sunbound, which makes software for handling billing, insurance claims, and payments for senior living operators, raised a $24M Series A led by TTV Capital &nbsp; &mdash;&nbsp; Sunbound, which handles billing, insurance claims and payments for senior living operators, has raised",
-     "source": "Techmeme",
-     "zh": "Sunbound, which makes software for handling billing, insurance claims, and payments for senior living operators, raised a $24M Series A led by TTV Capital (Ryan Lawler/Axios)"
-    },
-    {
      "title": "An update on independent evaluators",
      "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
      "pubDate": "Thu, 15 Oct 2026 17:30:10 +0000",
-     "summary": "Article URL: https://www.anthropic.com/news/an-update-on-independent-evaluators Comments URL: https://news.ycombinator.com/item?id=50107114 Points: 17 # Comments: 8",
+     "summary": "Article URL: https://www.anthropic.com/news/an-update-on-independent-evaluators Comments URL: https://news.ycombinator.com/item?id=50107114 Points: 20 # Comments: 8",
      "source": "Hacker News",
      "zh": "An update on independent evaluators"
     },
@@ -1852,7 +1868,7 @@
      "title": "More on Anthropic's Scion ripping off Mononoke",
      "link": "https://sunshowers.io/posts/anthropic-mononoke-2/",
      "pubDate": "Thu, 15 Oct 2026 17:05:19 +0000",
-     "summary": "Redesigning source control at Anthropic - https://news.ycombinator.com/item?id=50073633 (996 comments) Anthropic's Scion is heavily inspired by Mononoke - https://news.ycombinator.com/item?id=50094694 (149 comments) Comments URL: https://news.ycombinator.com/item?id=50106738 Points: 131 # Comments: ",
+     "summary": "Redesigning source control at Anthropic - https://news.ycombinator.com/item?id=50073633 (996 comments) Anthropic's Scion is heavily inspired by Mononoke - https://news.ycombinator.com/item?id=50094694 (149 comments) Comments URL: https://news.ycombinator.com/item?id=50106738 Points: 150 # Comments: ",
      "source": "Hacker News",
      "zh": "More on Anthropic's Scion ripping off Mononoke"
     },
@@ -1863,14 +1879,6 @@
      "summary": "Trump's newly installed press secretary tells WIRED that in the early 2010s, she promoted a product for a company then called Beachbody, which she described as “sort of a pyramid scheme.”",
      "source": "WIRED",
      "zh": "White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM"
-    },
-    {
-     "title": "An Israeli firm is sending zero-click spyware through online ads",
-     "link": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
-     "pubDate": "Thu, 15 Oct 2026 17:01:56 +0000",
-     "summary": "Article URL: https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware Comments URL: https://news.ycombinator.com/item?id=50106676 Points: 150 # Comments: 40",
-     "source": "Hacker News",
-     "zh": "An Israeli firm is sending zero-click spyware through online ads"
     },
     {
      "title": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
@@ -1991,14 +1999,6 @@
      "summary": "Canonical 释出了代号为 Stonking Stingray 的 Ubuntu 26.10，这是一个短期支持版本，仅支持九个月。Ubuntu 26.10 的主要变化包括：用 Rust 语言开发的版本替代了 C 语言开发的系统组件，后量子密码学软件包签名，扩展对基于 TPM 的全盘加密支持，企业级身份验证与 Microsoft Entra ID 的更深度集成，Linux kernel 7.3，新 RISC-V 桌面镜像，GNOME 51 桌面环境，可选启用的本地处理语音转文字方案 Myna，等等。",
      "source": "Solidot",
      "zh": "Ubuntu 26.10 释出"
-    },
-    {
-     "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-     "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-     "pubDate": "Thu, 15 Oct 2026 14:47:09 +0000",
-     "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
-     "source": "TechCrunch",
-     "zh": "Ramp reaches $60B valuation as it pushes deeper into AI"
     }
    ]
   },
@@ -2008,6 +2008,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple HomeView unveiled, new Apple TV and HomePod mini first impressions",
+     "link": "https://9to5mac.com/2026/10/15/happy-hour-612/",
+     "pubDate": "Thu, 15 Oct 2026 19:23:08 +0000",
+     "summary": "Benjamin and Chance react to Apple’s smart home event, with first impressions on the new Apple HomeView smart display, the insanely priced Apple TV 4K (fourth-generation), and the HomePod mini refresh. It remains to be seen whether these new initiatives in the Apple Home Collection can help move the",
+     "source": "9to5Mac",
+     "zh": "Apple HomeView unveiled, new Apple TV and HomePod mini first impressions"
+    },
+    {
+     "title": "Apple Photos in iOS 27 upgrades one of my favorite features in a big way",
+     "link": "https://9to5mac.com/2026/10/15/apple-photos-in-ios-27-upgrades-one-of-my-favorite-features-in-a-big-way/",
+     "pubDate": "Thu, 15 Oct 2026 19:15:18 +0000",
+     "summary": "Apple Photos is full of exciting updates in iOS 27 , including for one of my favorite features in the app: iCloud Shared Albums. more…",
+     "source": "9to5Mac",
+     "zh": "Apple Photos in iOS 27 upgrades one of my favorite features in a big way"
+    },
     {
      "title": "Sonos adds iPhone Duo support with latest app update",
      "link": "https://9to5mac.com/2026/10/15/sonos-adds-iphone-duo-support-with-latest-app-update/",
@@ -2209,28 +2225,12 @@
      "zh": "Deals: Samsung Week 2026 now live, Galaxy Book 6 $500 off, Moto Tag 2 trackers from $17.50 each, OLED Chromebook, more"
     },
     {
-     "title": "Apple TV 4K, HomeView pre-order ship times now delayed later in November",
-     "link": "https://9to5mac.com/2026/10/15/apple-tv-4k-homeview-pre-order-ship-times-now-delayed-to-late-november/",
-     "pubDate": "Thu, 15 Oct 2026 15:39:21 +0000",
-     "summary": "Apple unveiled new Apple TV 4K and HomeView devices this week that won’t be available until November 13. But pre-order shipping times for these products have already started slipping into late November for new orders. more…",
-     "source": "9to5Mac",
-     "zh": "Apple TV 4K, HomeView pre-order ship times now delayed later in November"
-    },
-    {
      "title": "YouTube reportedly ‘looking’ into adding audiobooks to Premium",
      "link": "https://9to5google.com/2026/10/15/youtube-may-add-audiobooks-to-app/",
      "pubDate": "Thu, 15 Oct 2026 15:33:59 +0000",
      "summary": "Based on a recent report, YouTube is apparently considering adding audiobooks as a new medium alongside music and video. more…",
      "source": "9to5Google",
      "zh": "YouTube reportedly ‘looking’ into adding audiobooks to Premium"
-    },
-    {
-     "title": "Deals: HomeView pre-order discount (more colors), HomePod mini 2, Mac Studio $220 off, AirPods Pro 3, more",
-     "link": "https://9to5mac.com/2026/10/15/deals-homeview-discount-homepod-mini-2-airpods-pro-3/",
-     "pubDate": "Thu, 15 Oct 2026 15:33:26 +0000",
-     "summary": "While the $50 price drop on AirPods Pro 3 is still rolling, today’s 9to5Toys Lunch Break is headlined by some new pre-order discounts on the new Apple HomeView – Amazon now has some additional colorways marked down. We also uncovered some pre-order promotions for the new HomePod mini 2 alongside the",
-     "source": "9to5Mac",
-     "zh": "Deals: HomeView pre-order discount (more colors), HomePod mini 2, Mac Studio $220 off, AirPods Pro 3, more"
     },
     {
      "title": "Here's when iPhone 18 production is rumored to start",
@@ -2257,12 +2257,92 @@
    "total": 13,
    "items": [
     {
-     "title": "Can space infrastructure companies convert backlog into revenue?",
-     "link": "https://seekingalpha.com/news/4652492-can-space-infrastructure-companies-convert-backlog-into-revenue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 15:08:13 -0400",
+     "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
+     "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+     "pubDate": "Thu, 15 Oct 2026 19:29:21 GMT",
+     "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
+     "source": "CNBC",
+     "zh": "Tesla plans next-generation Roadster reveal after almost a decade of delays"
+    },
+    {
+     "title": "U.S. sues California in fight over checking citizenship of mail voters",
+     "link": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
+     "pubDate": "Thu, 15 Oct 2026 19:26:13 GMT",
+     "summary": "The lawsuit by the Trump administration comes less than a month before the midterm election that will determine which party controls both chambers of Congress.",
+     "source": "CNBC",
+     "zh": "U.S. sues California in fight over checking citizenship of mail voters"
+    },
+    {
+     "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
+     "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 19:26:00 GMT",
+     "summary": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
+     "source": "MarketWatch",
+     "zh": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending"
+    },
+    {
+     "title": "First Horizon outlines ~$4.5B mortgage loan sale and targets ~4% 2027 EPS accretion while expecting NIM in the 3.50s",
+     "link": "https://seekingalpha.com/news/4653579-first-horizon-outlines-4_5b-mortgage-loan-sale-and-targets-4-percent-2027-eps-accretion-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 15:25:48 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Can space infrastructure companies convert backlog into revenue?"
+     "zh": "First Horizon outlines ~$4.5B mortgage loan sale and targets ~4% 2027 EPS accretion while expecting NIM in the 3.50s"
+    },
+    {
+     "title": "Karman Holdings rallies 11% after three-session slide",
+     "link": "https://seekingalpha.com/news/4653571-karman-holdings-rallies-11-after-three-session-slide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 15:19:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Karman Holdings rallies 11% after three-session slide"
+    },
+    {
+     "title": "AI infrastructure stocks tumble amid inflation, debt worries",
+     "link": "https://seekingalpha.com/news/4653576-ai-infrastructure-stocks-tumble-amid-inflation-debt-worries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 15:18:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AI infrastructure stocks tumble amid inflation, debt worries"
+    },
+    {
+     "title": "Dream Finders Homes surges 14% amid rebound from steep slide",
+     "link": "https://seekingalpha.com/news/4653568-dream-finders-homes-surges-14-amid-rebound-from-steep-slide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 15:15:58 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dream Finders Homes surges 14% amid rebound from steep slide"
+    },
+    {
+     "title": "Equity Bancshares outlines 5%-7% 2027 organic loan growth while targeting $9.1B pro forma assets with Lincoln",
+     "link": "https://seekingalpha.com/news/4653577-equity-bancshares-outlines-5-percentminus-7-percent-2027-organic-loan-growth-while-targeting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 15:15:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Equity Bancshares outlines 5%-7% 2027 organic loan growth while targeting $9.1B pro forma assets with Lincoln"
+    },
+    {
+     "title": "CoreWeave pops as yields rebound; BNP weighs in on business model",
+     "link": "https://seekingalpha.com/news/4653575-coreweave-pops-as-yields-rebound-bnp-weighs-in-on-business-model?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 15:15:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CoreWeave pops as yields rebound; BNP weighs in on business model"
+    },
+    {
+     "title": "“星链”疑云！马斯克最新回应→",
+     "link": "http://global.eastmoney.com/news/11798,202610163897337622.html",
+     "pubDate": "Fri, 16 Oct 2026 03:14:29 +0800",
+     "summary": "乌克兰总统顾问别斯克列斯特诺夫14日在社交媒体发布消息称， SpaceX 在未提前通知乌军的情况下，对“星链”终端实施限速，直接造成多项军事任务中断。对此，马斯克当天通过社交媒体作出回应。 乌方控诉：“星链”突然限速前线行动受阻 乌方消息人士称，14日凌晨移动状态下的星链终端遭到单方面限制，大幅增加 无人机 执行任务难度，让侦察、后勤保障工作都受到冲击。目前，乌国防部正收集一线信息核查情况，同步对接美国政府、 SpaceX 与北约沟通，并启动备用 通信 渠道。泽连斯基也坦言，对于在星链服务和情报方面遭遇的困境感到遗憾。 俄方称“星链”技术不应用于军事目的 俄罗斯总统新闻秘书佩斯科夫对此事件作出",
+     "source": "东方财富股票",
+     "zh": "“星链”疑云！马斯克最新回应→"
+    },
+    {
+     "title": "俄称打击乌军基础设施 乌称摧毁俄军战机",
+     "link": "http://finance.eastmoney.com/news/11790,202610163897337888.html",
+     "pubDate": "Fri, 16 Oct 2026 03:14:09 +0800",
+     "summary": "俄罗斯国防部15日通报称，过去一天，俄军继续打击乌军使用的基础设施、 无人机 生产车间和储存场所等。在对乌克兰敖德萨州的行动中，俄军打击了一处用于装卸和储存乌军物资的 港口 ，以及两艘运送军用物资的干货船。乌克兰总统泽连斯基15日表示，乌军使用“海王星”导弹对俄罗斯沃罗涅日州一个 机场 发动袭击，俄军4架苏-34战机被摧毁，另外2架遭到打击。乌克兰武装部队总参谋部15日通报称，过去一天，乌军打击了俄军人员集结区和 无人机 发射场。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "俄称打击乌军基础设施 乌称摧毁俄军战机"
     },
     {
      "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
@@ -2273,20 +2353,20 @@
      "zh": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries"
     },
     {
-     "title": "EU moves toward fast-track approval of Airbus, Leonardo, Thales satellite",
-     "link": "https://seekingalpha.com/news/4653573-eu-moves-toward-fast-track-approval-of-airbus-leonardo-thales-satellite?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 15:00:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "EU moves toward fast-track approval of Airbus, Leonardo, Thales satellite"
+     "title": "美股三大指数震荡走高 道指涨超1% 可口可乐盘中创历史新高",
+     "link": "http://finance.eastmoney.com/news/1345,202610153897165893.html",
+     "pubDate": "Fri, 16 Oct 2026 03:02:13 +0800",
+     "summary": "美东时间周四，美股三大指数震荡走高，截至发稿，道指涨1.01%，纳指跌0.12%，标普500指数微涨0.21%。 存储股跌幅多数收窄后再度走阔， 截至发稿， 美光科技 跌0.24%， SK海力士 ADR跌1.78%， 闪迪 跌3.31%， 希捷科技 跌5.20%， 西部数据 跌3.93%。 可口可乐 上涨0.43%，报92.17美元/股，总市值约3974亿美元，盘中一度创 历史新高 。 全球要闻 美国9月PPI同比增长6.3% 远超市场预期 美国9月PPI同比增长6.3%，预估5.3%，前值5.4%。美国9月PPI环比增长1.3%，预估0.6%。美国9月零售销售环比增长0.8%，预估为0.3%",
+     "source": "东方财富股票",
+     "zh": "美股三大指数震荡走高 道指涨超1% 可口可乐盘中创历史新高"
     },
     {
-     "title": "Today’s ‘stealth’ bear market is ‘one of the most significant opportunities’ – The Kobeissi Letter",
-     "link": "https://seekingalpha.com/news/4653574-today-s-stealth-bear-market-is-one-of-the-most-significant-opportunities-the-kobeissi-letter?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 15:00:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Today’s ‘stealth’ bear market is ‘one of the most significant opportunities’ – The Kobeissi Letter"
+     "title": "印度将汽油出口暴利税定为每升2.5卢比 将柴油出口暴利税定为每升8.5卢比",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897337475.html",
+     "pubDate": "Fri, 16 Oct 2026 03:00:07 +0800",
+     "summary": "印度将汽油出口暴利税定为每升2.5卢比，将柴油出口暴利税定为每升8.5卢比，自10月16日起生效。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "印度将汽油出口暴利税定为每升2.5卢比 将柴油出口暴利税定为每升8.5卢比"
     },
     {
      "title": "This one governor’s race could derail the AI trade that’s powered the stock market",
@@ -2297,20 +2377,12 @@
      "zh": "This one governor’s race could derail the AI trade that’s powered the stock market"
     },
     {
-     "title": "ArcelorMittal upgraded at J.P. Morgan as Q4 and 2027 earnings set to accelerate",
-     "link": "https://seekingalpha.com/news/4653562-arcelormittal-upgraded-at-j-p-morgan-as-q4-and-2027-earnings-set-to-accelerate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 14:59:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ArcelorMittal upgraded at J.P. Morgan as Q4 and 2027 earnings set to accelerate"
-    },
-    {
-     "title": "Prologis outlines $6.25-$6.29 core FFO outlook while targeting $6B-$6.75B development starts",
-     "link": "https://seekingalpha.com/news/4653572-prologis-outlines-6_25-6_29-core-ffo-outlook-while-targeting-6b-6_75b-development-starts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 14:56:41 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Prologis outlines $6.25-$6.29 core FFO outlook while targeting $6B-$6.75B development starts"
+     "title": "Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行",
+     "link": "http://finance.eastmoney.com/news/1354,202610163897337379.html",
+     "pubDate": "Fri, 16 Oct 2026 02:56:48 +0800",
+     "summary": "财联社10月16日（编辑史正丞） 当地时间周四，近来在AI领域势头正盛的Meta发布开放权重大模型Muse Spark Open，并与 苹果 合作，推动这款模型在Mac电脑上本地运行。 （来源：公司官网） 具体来说， Muse Spark Open是一款采用“混合专家架构”的原生多模态模型，总参数量为8160 亿（其中420亿为活跃参数），上下文窗口大小可达100万词元 。Meta表示，该模型专为编码与智能代理任务设计，在处理长周期任务、复杂软件工程问题以及多步骤推理方面表现极为出色。 当然，Meta将其称为“迄今能力最强的美国开放权重模型”，也是有原因的。 根据Meta自己公布的测试结果，与",
+     "source": "东方财富股票",
+     "zh": "Meta发布美国最强开源大模型 “仅用”两台苹果电脑就能本地运行"
     },
     {
      "title": "探寻国产“工业母机”突围之路—— 一台机床的精度如何逼近物理极限",
@@ -2319,54 +2391,6 @@
      "summary": "编者按：一台设备的迭代、一道工序的优化、一位工匠的创意，都可能成为撬动产业升级的支点。中国先进制造业的跃迁，不只是一组组数字，更是无数一线现场正在发生的真实细节。即日起，本报推出“制造硬脊梁·资本新动能——中国先进制造业一线微观察”栏目，记者走进工厂车间、实验室、中试基地，用微视角观察大变革，用短镜头记录长进程。敬请关注。 证券时报记者李小平 头发丝直径的十五分之一是什么概念？头发丝直径通常为50—90微米（μm），十五分之一大约为3—6μm，这就是高端机床所要达到的精度。 机床，素有“ 工业母机 ”之称。它的精度直接决定制造业的能力边界。在很长一段时间内，高端数控机床市场被海外品牌牢牢占据，",
      "source": "东方财富股票",
      "zh": "探寻国产“工业母机”突围之路—— 一台机床的精度如何逼近物理极限"
-    },
-    {
-     "title": "UniCredit wins ECB approval to acquire Commerzbank",
-     "link": "https://seekingalpha.com/news/4653561-unicredit-wins-ecb-approval-to-acquire-commerzbank?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 14:52:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "UniCredit wins ECB approval to acquire Commerzbank"
-    },
-    {
-     "title": "生态布局还是估值叙事？热门赛道初创企业“左手融资、右手投资”",
-     "link": "http://finance.eastmoney.com/news/1354,202610163897336984.html",
-     "pubDate": "Fri, 16 Oct 2026 02:52:05 +0800",
-     "summary": "一些尚未盈利、成立两三年的初创公司，账上躺着几十亿元融资，一边持续融资，一边对外投资，这种现象在当下的一级市场越来越普遍。 近日，巨蟹智能和墨现科技两家具身智能产业链企业同步官宣完成融资，两家企业的投资方中，都出现了一家具身智能百亿 独角兽 的身影。记者梳理发现，这种初创企业“左手融资、右手投资”的现象主要集中在具身智能、大模型、 AI芯片 等领域，其中 机器人 赛道尤为明显，而且已经从个别头部企业延伸到更多企业。今年以来，智元 机器人 、松延动力、银河通用等十多家企业也已纷纷下场做投资。 受访人士认为，这类投资大多数是企业提前布局产业生态。业内人士建议，对于商业模式尚待验证的初创企业，应审慎",
-     "source": "东方财富股票",
-     "zh": "生态布局还是估值叙事？热门赛道初创企业“左手融资、右手投资”"
-    },
-    {
-     "title": "6年票房增长近7倍，“演唱会+”成为消费增长新引擎",
-     "link": "http://finance.eastmoney.com/news/1355,202610163897335543.html",
-     "pubDate": "Fri, 16 Oct 2026 02:52:05 +0800",
-     "summary": "当数万名观众从天南地北涌入夜幕下的体育场，当台下所有人踩着伴奏与鼓点唱出同一句歌词，空气在共振、胸腔在轰鸣……那一刻，你才意识到：原来，那些被生活消磨掉的热情、被现实压制住的呐喊，都还在。 用一张门票的价格，换一场3小时的万人合唱，换一次与青春年少的久别重逢。演唱会经济正凭借着同时满足内容消费、社交资本积累与情绪释放三重需求的强大产品力，持续拉动各类相关消费突破千亿元，成为城市消费增长新引擎。 演唱会市场大繁荣： 票房收入6年增长6.6倍 在大家把荷包捂得越来越紧的今天，演唱会作为限时限地的非标娱乐形式，正迎来“人生巅峰”。 过去3年，国内演唱会市场呈现出前所未有的火爆。根据中国演出行业协会数",
-     "source": "东方财富股票",
-     "zh": "6年票房增长近7倍，“演唱会+”成为消费增长新引擎"
-    },
-    {
-     "title": "中证协下发券商研究业务“画像” 提示外部专家咨询费存合规隐患",
-     "link": "http://finance.eastmoney.com/news/1354,202610163897336850.html",
-     "pubDate": "Fri, 16 Oct 2026 02:51:59 +0800",
-     "summary": "近日，中证协向券商下发的《2025年证券公司发布证券研究报告业务经营情况统计报告》（以下称《报告》）显示，98家券商去年发布了超20万份研报，其中4家券商发布研报超万份。 数据显示，2025年券商研究部门机构客户交易佣金为158.94亿元，同比减少17.55%。其中，公募交易佣金占比约一半，同比大幅下滑。《报告》还分析了券商研究业务发展中面临的主要挑战和合规问题，认为部分机构过于依赖外部专家咨询服务。 去年发布20.55万份研报 《报告》显示，截至2025年底，100家券商分析师共有5886人，同比增长4.38%。东财Chioce数据显示，截至10月15日，全行业分析师人数为5752人。 《报",
-     "source": "东方财富股票",
-     "zh": "中证协下发券商研究业务“画像” 提示外部专家咨询费存合规隐患"
-    },
-    {
-     "title": "演唱会经济：以稀缺性锻造可持续性",
-     "link": "http://finance.eastmoney.com/news/1373,202610163897335968.html",
-     "pubDate": "Fri, 16 Oct 2026 02:51:40 +0800",
-     "summary": "在这个AI合成歌声能够以假乱真的时代，2025年，全国大型营业性演出的观演人次高达4338.58万，票房收入324.48亿元，均创 历史新高 。当技术已经近乎无所不能，人们为什么仍然愿意花高价、挤人潮，奔赴一个音质远不如CD、舞台也未必看得清的现场？ 要回答这个问题，我们需要认清这类消费的本质。作为时下火热的经济模式，演唱会卖的到底是什么？ 不是音乐作品，也并非舞美编排。演唱会的核心卖点，就在于那张门票所赋予你的权利——那一晚“在场”的真实。当低频的鼓点穿透身体，当喜欢的歌手就在眼前唱跳，当数万人的声浪如潮水般涌来，这些声音表达、肢体互动与集体情绪的宣泄，共同构成了有别于线上观演的独特感官体验",
-     "source": "东方财富股票",
-     "zh": "演唱会经济：以稀缺性锻造可持续性"
-    },
-    {
-     "title": "从精密迈向智能 AI让机床“越用越聪明”",
-     "link": "http://finance.eastmoney.com/news/1354,202610163897336714.html",
-     "pubDate": "Fri, 16 Oct 2026 02:51:40 +0800",
-     "summary": "素有“制造之都”之称的浙江台州，机床行业正在上演一场新进阶：从“精密” 迈向“智能”。 北平机床副总经理虞俊豪说：“数智化对于机床行业意味着什么？可以简单理解成手机从传统功能机向智能手机跃迁。”伴随着 人工智能 （AI）技术在机床中的应用，一台只会机械复刻指令的“铁疙瘩”，变成一座会记录、会修正、会自我进化的“智能工厂”。 过去，机床精度的天花板往往掌握在老师傅手里。一台高端机床能加工到微米级，靠的是数十年积累的装配手感、调机经验。老师傅若走了，手艺也就带走了。但是，AI智能数控机床的出现，使得许多微妙的工艺诀窍不再受限于人。 建立起本地化数据库后，过去老师傅不轻易为外人道的经验和手感，就可以",
-     "source": "东方财富股票",
-     "zh": "从精密迈向智能 AI让机床“越用越聪明”"
     },
     {
      "title": "苹果的“家”方案，离国内家庭还差一段路",
@@ -2409,14 +2433,6 @@
      "zh": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets"
     },
     {
-     "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
-     "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-     "pubDate": "Thu, 15 Oct 2026 18:19:35 GMT",
-     "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
-     "source": "CNBC",
-     "zh": "Tesla plans next-generation Roadster reveal after almost a decade of delays"
-    },
-    {
      "title": "Meta发布8160亿参数“美国最强开放权重模型”，联手苹果让大模型跑上Mac，最强模型仍闭源",
      "link": "https://wallstreetcn.com/articles/3783726",
      "pubDate": "Fri, 16 Oct 2026 02:12:27 +0800",
@@ -2431,14 +2447,6 @@
      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
      "source": "MarketWatch",
      "zh": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?"
-    },
-    {
-     "title": "U.S. sues California in fight over checking citizenship of mail voters",
-     "link": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
-     "pubDate": "Thu, 15 Oct 2026 17:55:19 GMT",
-     "summary": "The lawsuit by the Trump administration comes less than a month before the midterm election that will determine which party controls both chambers of Congress.",
-     "source": "CNBC",
-     "zh": "U.S. sues California in fight over checking citizenship of mail voters"
     },
     {
      "title": "化工下游企业多方施策对冲成本压力",
@@ -2487,14 +2495,6 @@
      "summary": "Spending all your cash first can make your income surge in later years.",
      "source": "MarketWatch",
      "zh": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA."
-    },
-    {
-     "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-     "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-     "pubDate": "Thu, 15 Oct 2026 17:30:00 GMT",
-     "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-     "source": "MarketWatch",
-     "zh": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?"
     }
    ]
   },

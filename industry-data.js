@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/15 08:05:20",
+ "generated_at": "2026/10/15 08:09:47",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+     "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+     "pubDate": "Thu, 15 Oct 2026 00:00:00 +0000",
+     "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and",
+     "source": "TechCrunch AI",
+     "zh": "Gudea 利用人工智能帮助组织在社交媒体危机爆发之前预防危机"
+    },
+    {
+     "title": "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers",
+     "link": "https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/",
+     "pubDate": "Wed, 14 Oct 2026 23:37:25 +0000",
+     "summary": "Datalab released OmniParseBench, an open OCR benchmark with 16,288 yes/no tests on 2,937 pages in 92 languages. Every score is a pass rate you can slice by tag, script or language. The post Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers appear",
+     "source": "MarkTechPost",
+     "zh": "Datalab 发布 OmniParseBench：一个开放的 OCR 基准，具有 16,288 个通过/失败测试来审核 OCR 解析器"
+    },
     {
      "title": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
      "link": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
@@ -23,7 +39,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 21:30:33 +0000",
      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
      "source": "TechCrunch AI",
-     "zh": "Flock 首席执行官表示，其麦克风检测到的“只是枪声”——其网站说法不同"
+     "zh": "Flock 首席执行官表示，其麦克风检测到“只是枪声”——其网站说法不同"
     },
     {
      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
@@ -96,14 +112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
      "source": "TechCrunch AI",
      "zh": "购买 TechCrunch Disrupt 2026 门票可节省 50%，参加旧金山 Moscone West 的最后 2 天活动"
-    },
-    {
-     "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-     "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-     "pubDate": "Wed, 14 Oct 2026 15:08:00 +0000",
-     "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-     "source": "TechCrunch AI",
-     "zh": "Zenzap 为其人工智能聊天应用筹集了 4400 万美元，旨在取代工作场所的 WhatsApp"
     },
     {
      "title": "智能体长任务总“失忆”？国产开源破局，类Jev模型接管Agent调度",
@@ -223,7 +231,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
      "source": "OpenAI",
-     "zh": "Third Moment Research 如何让 10,000 个代理运行 36 个小时以上"
+     "zh": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上"
     },
     {
      "title": "How Block is building AI-powered security with OpenAI technology",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
      "source": "量子位",
      "zh": "STEPX首款大模型原生智能体手机STEPX Neo正式发布"
-    },
-    {
-     "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
-     "link": "https://www.qbitai.com/2026/10/503198.html",
-     "pubDate": "Wed, 14 Oct 2026 06:24:00 +0000",
-     "summary": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
-     "source": "量子位",
-     "zh": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片"
     }
    ]
   },
@@ -279,7 +279,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 18:29:24 +0000",
      "summary": "ASM International shows how building increasingly complex 3D devices requires advances in materials and processes. The post Beyond Lithography: 3D Scaling Puts New Demands on Materials appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "超越光刻：3D 缩放对材料提出新要求"
+     "zh": "超越光刻：3D 缩放对材料提出了新要求"
     },
     {
      "title": "Simulations Pinpoint Leakage Pathway In GAAFETs (Sandia, Luxembourg)",
@@ -831,7 +831,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 13 Oct 2026 13:09:40 +0000",
      "summary": "The Da Han EV comes standard with a 102.3-kWh second-generation Blade Battery that charges from 10% to 97% in just 9 minutes. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "比亚迪推出大汉电动汽车，起价 35,050 美元，续航里程高达 1,008 公里"
+     "zh": "比亚迪推出大汉电动车，起价 35,050 美元，续航里程高达 1,008 公里"
     },
     {
      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
@@ -927,7 +927,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 15:00:00 -0500",
      "summary": "Approval for more oil and gas drilling at the North Sea sites Jackdaw and Rosebank have been delayed by “government process” and lengthy bureaucratic wrangling, Prime Minister Andy Burnham has said. Burnham told MPs that he would take a “pragmatic approach” on oil and gas drilling amid calls from en",
      "source": "OilPrice",
-     "zh": "英国价值 470 亿美元的北海石油决定悬而未决"
+     "zh": "英国价值 470 亿美元的北海石油决策悬而未决"
     },
     {
      "title": "Insurance Industry Is Throwing Its Customers Under The Bus",
@@ -959,7 +959,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 10:55:47 -0400",
      "summary": "However, &ldquo;rising gas turbine costs and supply shortages are already making new gas plants more expensive and slower to build,&rdquo; David Villagrana, EDF&rsquo;s lead counsel for clean energy tax solutions, told Utility Dive.",
      "source": "Utility Dive",
-     "zh": "化石燃料发电管道反弹，而新清洁发电放缓：EDF"
+     "zh": "化石能源发电管道反弹，而新清洁发电放缓：EDF"
     },
     {
      "title": "Becquerel: AI and robotics can deliver 3-4% energy yield improvement in solar PV projects",
@@ -983,7 +983,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 13:42:24 +0000",
      "summary": "The deadline to submit project proposals is December 10. The post Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS appeared first on pv magazine Global .",
      "source": "pv magazine",
-     "zh": "突尼斯启动了配备 10 MW/20 MWh BESS 的 50 MW 太阳能光伏电站招标"
+     "zh": "突尼斯启动带有 10 MW/20 MWh BESS 的 50 MW 太阳能光伏电站招标"
     },
     {
      "title": "Europe’s second energy crisis largely skipped the solar hours",
@@ -1031,7 +1031,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 12:13:47 +0000",
      "summary": "The new series comprises four models with heating capacities of 3 kW, 5 kW, 7 kW and 9 kW. The units feature a refrigerant-split configuration, with the indoor and outdoor units connected by refrigerant piping. The post Panasonic unveils R454C air-to-water heat pumps for residential use appeared fir",
      "source": "pv magazine",
-     "zh": "松下推出 R454C 住宅用空气对水热泵"
+     "zh": "松下推出 R454C 住宅用空气源热泵"
     },
     {
      "title": "Pexapark: September 2026 PPA prices rise 5% across Europe",
@@ -1143,7 +1143,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 19:06:14 +0000",
      "summary": "Sanofi's new R&D chief said on Wednesday that Western drugmakers cannot ignore China's accelerating innovation and need to consider how the country’s emergence as a global biopharma powerhouse should change their approach to sourcing new ...",
      "source": "Endpoints News",
-     "zh": "赛诺菲新任研发总监：西方制药应重新思考中国药品管道角色"
+     "zh": "赛诺菲新任研发负责人：西方制药应重新思考中国药品管道角色"
     },
     {
      "title": "New FDA framework tilts toward consistency over flexibility",
@@ -1199,7 +1199,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 16:00:04 +0000",
      "summary": "Splitting lipid nanoparticle manufacturing into multiple mixing steps can help better control the size, shape, and stability of particles, with the aim of improving product quality during commercial-scale production. The post Turning Process Understanding Into Control of Lipid Nanoparticles appeared",
      "source": "GEN",
-     "zh": "将过程理解转化为脂质纳米颗粒的控制"
+     "zh": "将过程理解转化为脂质纳米粒子的控制"
     },
     {
      "title": "Contracting Expansion: A Path to Better CAR T-Cell Therapy Production",
@@ -1223,7 +1223,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 15:52:24 +0000",
      "summary": "Verastem Oncology had a big Wednesday morning: It announced new data amid a tense competition for the next-wave KRAS agents, as well as a $250 million raise and the departure of its CEO. The Massachusetts ...",
      "source": "Endpoints News",
-     "zh": "Verastem 成为 RevMed 胰腺癌领域的竞争对手"
+     "zh": "Verastem 在胰腺癌领域成为 RevMed 竞争对手"
     },
     {
      "title": "Verastem cancer drug shows early promise in small study",
@@ -1287,7 +1287,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 13 Oct 2026 16:35:00 -0400",
      "summary": "One lawyer involved noted how it's yet another example of Paragon and key investor Fairmount &mdash; which have helped transform the reputation for reverse mergers &mdash; quickly executing on a complicated deal.",
      "source": "BioPharma Dive",
-     "zh": "另一家 Paragon 分拆公司通过反向合并上市"
+     "zh": "另一家 Paragon 分拆公司通过反向并购上市"
     },
     {
      "title": "BioNTech mRNA cancer immunotherapy misses first objective in key study",
@@ -1391,7 +1391,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
      "summary": "Trust no one.",
      "source": "Space.com",
-     "zh": "Hulu 重拾瑞安·库格勒对这位科幻偶像的“重新构想”，《X 档案》正式回归"
+     "zh": "Hulu 重拾瑞恩·库格勒对这位科幻偶像的“重新构想”，《X 档案》正式回归"
     },
     {
      "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
@@ -1407,7 +1407,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 13:32:25 +0000",
      "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will incl",
      "source": "NASA",
-     "zh": "美国宇航局将讨论阿耳忒弥斯加速以及即将到来的月球任务的状况"
+     "zh": "美国宇航局将讨论阿耳忒弥斯加速以及即将进行的月球任务的状况"
     },
     {
      "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
@@ -1463,7 +1463,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 13 Oct 2026 14:07:50 +0000",
      "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
      "source": "Spaceflight Now",
-     "zh": "SpaceX 将 NASA 科学和货物运送到国际空间站"
+     "zh": "SpaceX 将 NASA 科学和货物发射到国际空间站"
     },
     {
      "title": "Anna Shaposhnik, ORBES",
@@ -1778,12 +1778,20 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-     "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-     "pubDate": "Thu, 15 Oct 2026 00:00:00 +0000",
-     "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and",
-     "source": "TechCrunch",
-     "zh": "Gudea 利用人工智能帮助组织在社交媒体危机爆发之前预防危机"
+     "title": "YouTube Music 给音乐打 AI 标签，用户听歌可看清“成分表”",
+     "link": "https://www.ithome.com/1/013/168.htm",
+     "pubDate": "Thu, 15 Oct 2026 00:09:24 GMT",
+     "summary": "IT之家 10 月 15 日消息，YouTube 昨日（10 月 14 日）发布公告， 为了提高在音乐作品使用 AI 的透明度，宣布其音乐平台 YouTube Music 上线 AI 音乐标注功能，后续将同步扩展至主 YouTube 应用程序。 根据 YouTube 官方公告，当一首歌曲被识别为“主要使用生成式 AI 创作”（例如使用 AI 模型生成曲调、编曲或合成人声）时，歌曲名称下方、靠近艺人或频道名称的位置，将会出现一个明显的“AI”椭圆形标签。IT之家附上相关图片如下： 听众在收听时可以直接看到该标记。若点击此 AI 标签，系统会进一步弹出详细菜单，向用户说明这首歌是如何使用 AI 的",
+     "source": "IT之家",
+     "zh": "YouTube Music 给音乐打 AI 标签，用户听歌可看清“成分表”"
+    },
+    {
+     "title": "受益于 AI 热潮，分析师预计台积电有望连续第六个季度创下单季盈利新高",
+     "link": "https://www.ithome.com/1/013/167.htm",
+     "pubDate": "Thu, 15 Oct 2026 00:06:16 GMT",
+     "summary": "IT之家 10 月 15 日消息，据路透社报道，全球最大的先进人工智能芯片制造商台积电将于周四发布财报，受科技行业基建投入热潮推动，公司有望连续第六个季度创下盈利新高。 分析师表示，市场对台积电 AI 芯片产能，以及先进芯片封装技术 CoWoS 的需求依旧旺盛。 这家亚洲市值最高的企业是英伟达与苹果的核心供应商，强劲需求推动其市值再创新高，约 2 万亿美元 （IT之家注：现汇率约合 13.41 万亿元人民币） ，几乎是韩国竞争对手三星电子的两倍。 路孚特智能预估系统综合 16 位分析师预测得出的数据显示，台积电预计将在周四财报电话会上公布， 第三季度净利润同比大增 65%，达到 7,463 亿",
+     "source": "IT之家",
+     "zh": "受益于 AI 热潮，分析师预计台积电有望连续第六个季度创下单季盈利新高"
     },
     {
      "title": "从Kpop到消费帝国，韩国如何将注意力变成印钞机？",
@@ -1824,22 +1832,6 @@ window.INDUSTRY_DATA = {
      "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 15 日星期四，今天的重要科技资讯有： 1. 苹果市值里程碑：收盘首次超 5 万亿美元 苹果公司 10 月 14 日收盘市值首次站上 5 万亿美元（IT之家注：现汇率约合 33.53 万亿元人民币），成为继英伟达后全球第二家达成该里程碑的公司。>> 查看详情 2. 男子发布 AI 视频造谣问界，赛力斯起诉索赔百万元 据深蓝财经报道，赛力斯汽车有限公司对外披露，已对一名抖音平台短视频用户提起民事诉讼。该用户借助 AI 工具合成问界车辆行驶中车身塌陷的虚假画面，发布到网络抹黑车辆安全性能。赛力斯要求对方删除侵权言论、公开书面赔礼道歉、支付 ",
      "source": "IT之家",
      "zh": "IT早报 1015：苹果收盘市值首超 5 万亿美元；赛力斯起诉男子 AI 造谣索赔百万；iPhone 15 Pro 及后续机型国行大模型备案；豆包助手放开三方应用操作权限..."
-    },
-    {
-     "title": "彭博社：苹果有望 12 月随 iOS 27.3 在国内推出首波 Apple Intelligence 功能",
-     "link": "https://www.ithome.com/1/013/162.htm",
-     "pubDate": "Wed, 14 Oct 2026 23:45:18 GMT",
-     "summary": "IT之家 10 月 15 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今天（10 月 15 日）在 X 平台发布推文， 报道称苹果公司计划于 12 月通过 iOS 27.3 更新，在中国大陆首次推出 Apple Intelligence，这是该 AI 平台首度落地中国市场。 IT之家附上相关截图如下： 首波功能包括 Genmoji 自定义表情、通知摘要、写作工具，以及照片应用中的 Clean Up 功能（支持用户从照片中移除特定物体）。新版 Siri AI 助手、图乐园生成工具及较新版本 Genmoji 均不在首波范围内。 中国大陆版本将接入阿里巴巴的 AI 模型，包括通义千问（",
-     "source": "IT之家",
-     "zh": "彭博社：苹果有望 12 月随 iOS 27.3 在国内推出首波 Apple Intelligence 功能"
-    },
-    {
-     "title": "Colossal 推出 AI 平台 GenoMorph，助力加快复活灭绝物种研究",
-     "link": "https://www.ithome.com/1/013/161.htm",
-     "pubDate": "Wed, 14 Oct 2026 23:44:26 GMT",
-     "summary": "IT之家 10 月 15 日消息，据 TechCrunch 报道，Colossal Biosciences 于当地时间周三发布了一款全新人工智能平台，助力加快复活灭绝物种的相关研究。 据IT之家了解，这款名为 GenoMorph 的平台结合先进三维形态学、比较基因组学与发育生物学技术，在基因数据有限的复活项目中， 筛选出可用于基因编辑的目标基因 。该公司正借助这个平台推进渡渡鸟复活计划，而渡渡鸟可用的基因组资料十分匮乏。 举例来说，公司在猛犸象复活项目中获取了 100 份基因组样本，但渡渡鸟项目仅有一份基因组可用。公司表示，猛犸象生存的寒冷环境更利于保存 DNA，而渡渡鸟栖息在热带地区，因此留",
-     "source": "IT之家",
-     "zh": "Colossal 推出 AI 平台 GenoMorph，助力加快复活灭绝物种研究"
     },
     {
      "title": "Sources: YouTube has held talks with publishers in recent months about an audiobook feature that could be ready next year and may be bundled in YouTube Premium (Wall Street Journal)",
@@ -1911,7 +1903,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 18:15:02 -0400",
      "summary": "Rolfe Winkler / Wall Street Journal : Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously &nbsp; &mdash;&nbsp; To power Apple's next phase, CEO John Ternus needs to raise Apple's AI game&nbsp; &mdash;&n",
      "source": "Techmeme",
-     "zh": "苹果公司的收盘市值首次突破 5T 美元，成为继 Nvidia 之后第二家实现这一目标的公司；苹果此前盘中曾六次突破 5T 美元（Rolfe Winkler/华尔街日报）"
+     "zh": "苹果收盘价首次突破 5T 美元，成为继 Nvidia 之后第二家达到 5T 市值的公司；苹果此前盘中曾六次突破 5T 美元（Rolfe Winkler/华尔街日报）"
     },
     {
      "title": "Tiny Little Office",
@@ -1943,7 +1935,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 21:35:09 +0000",
      "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
      "source": "Ars Technica",
-     "zh": "安全问题导致冰箱被黑客攻击，损失数百万美元并引发火灾"
+     "zh": "安全问题导致冰箱被黑客攻击，造成数百万美元损失并引发火灾"
     },
     {
      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
@@ -2016,6 +2008,14 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 189 # Comments: 59",
      "source": "Hacker News",
      "zh": "Yandex 中断：数据显示，恶意机器人并没有消失，而是转移了"
+    },
+    {
+     "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
+     "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+     "pubDate": "Wed, 14 Oct 2026 20:15:56 +0000",
+     "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
+     "source": "Ars Technica",
+     "zh": "美国各地学校抗议 FCC 可能断开儿童互联网连接的计划"
     }
    ]
   },
@@ -2239,7 +2239,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 19:00:00 +0000",
      "summary": "The series tell the story of a shrinking glacier and refugee children.",
      "source": "DPReview",
-     "zh": "今年 AOP 新兴人才奖的获奖者都是值得关注的摄影师"
+     "zh": "今年 AOP 新锐人才奖的获奖者都是值得关注的摄影师"
     },
     {
      "title": "Deezer will let listeners completely filter out AI music",
@@ -2273,6 +2273,14 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Cleveland-Cliffs could be forced to sell Canadian assets if layoffs proceed, minister warns",
+     "link": "https://seekingalpha.com/news/4653218-cleveland-cliffs-could-be-forced-to-sell-canadian-assets-if-layoffs-proceed-minister-warns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 20:08:16 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "部长警告称，如果继续裁员，克利夫兰克里夫斯可能被迫出售加拿大资产"
+    },
     {
      "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
      "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
@@ -2504,14 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "”I earn $110,000 a year.”",
      "source": "MarketWatch",
      "zh": "“有些人做的一切都是正确的”：我在大衰退中失去了家。我50多岁的时候租房子。为什么会被判定为失败呢？"
-    },
-    {
-     "title": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高",
-     "link": "https://wallstreetcn.com/articles/3783586",
-     "pubDate": "Thu, 15 Oct 2026 06:29:03 +0800",
-     "summary": "通胀顽固、AI信贷裂缝扩大、油价上涨三重压力同时袭来，美股周三遭遇重挫，科技与半导体股领跌，美元升至18个月高位，市场对美联储加息预期急剧重新定价。 美国9月CPI超预期上涨，令市场对美联储将在更长时间内维持高利率的押注骤然升温。标普500指数下跌1.1%，以科技股为重的纳斯达克100指数下挫2%，创三个月来最大单日跌幅。 小盘股指数罗素2000进入技术性调整区间。芯片指数单日暴跌4.3%，连续第六个交易日收跌，创下近两年来最长连跌纪录。 与此同时，AI相关企业债市场出现明显裂缝，云计算公司CoreWeave债券价格跌至通常预示财务困境的水平，该公司股价单日重挫逾15%。 美元指数刷新2025",
-     "source": "华尔街见闻",
-     "zh": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高"
     }
    ]
   },

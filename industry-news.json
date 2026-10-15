@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/16 04:09:47",
+ "generated_at": "2026/10/16 04:29:48",
  "recent_days": 7,
  "industries": [
   {
@@ -49,6 +49,14 @@
      "zh": "使用 TechCrunch 创始人峰会通行证节省高达 200 美元的最后机会：提前预订将于 10 月 16 日截止"
     },
     {
+     "title": "Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know",
+     "link": "https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know",
+     "pubDate": "Thu, 15 Oct 2026 17:00:59 +0000",
+     "summary": "This review highlights the main critiques of Abacus AI, its price, user reviews, reliability of workflows, and real-life use cases to assist you in evaluating its advantages and disadvantages.",
+     "source": "KDnuggets",
+     "zh": "Abacus AI 诚实评论：主要批评、事实以及用户应该知道的内容"
+    },
+    {
      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
      "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
@@ -81,6 +89,14 @@
      "zh": "CopilotKit 发布 CLiF：一个持续学习平台，可将代理跟踪和用户操作转化为技能、评估和微调数据"
     },
     {
+     "title": "Building AI Applications with OGX, the Open-Source Agentic API Server",
+     "link": "https://www.kdnuggets.com/building-ai-applications-with-open-source-agentic-api-server-ogx",
+     "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
+     "summary": "OGX is an open-source agentic API server for building OpenAI-compatible AI applications, using any model and any infrastructure.",
+     "source": "KDnuggets",
+     "zh": "使用开源 Agentic API 服务器 OGX 构建 AI 应用程序"
+    },
+    {
      "title": "OpenRouter周榜全球第二，这个国产模型终于开源了",
      "link": "https://zhidx.com/p/601405.html",
      "pubDate": "Thu, 15 Oct 2026 21:25:15 +0800",
@@ -111,6 +127,14 @@
      "summary": "智东西 作者 | 云鹏 编辑 | 李水青 智东西10月15日报道，近日，华为在上海练秋湖畔举办了一场为期两天的深度技术沟通会，从 影像、屏幕、可靠、定位、声音5大方向9大技术 品牌，到 麒麟9050系列背后韬定律、逻辑折叠、混合键合 等海量技术细节，华为首次详细对外解读。 主讲人分别为第一天的 华为终端BG CTO李小龙， 以及第二天的 华为半导体业务无线终端芯片产品管理部部长徐松余。 值得一提的是，这也是 时隔6年，华为再次对外详细解读麒麟芯片， 其重要意义不言而喻。 两天的沟通会信息量极大，可以说干货多到爆： ·内含 300多个零部件 的影像“巨炮” Z10模块相机 如何突破光学硬件的物理",
      "source": "智东西",
      "zh": "万字深度解密：华为麒麟2026韬定律大量技术细节首披露"
+    },
+    {
+     "title": "7 Open-Source AI Tools That Can Replace Paid Subscriptions",
+     "link": "https://www.kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions",
+     "pubDate": "Thu, 15 Oct 2026 12:00:34 +0000",
+     "summary": "Find open-source alternatives to OpenAI API, Midjourney, Claude Code, Notion, Wispr Flow, Grammarly, and NotebookLM that you can run locally or self-host for more privacy, control, and lower cost.",
+     "source": "KDnuggets",
+     "zh": "7 个可以取代付费订阅的开源人工智能工具"
     },
     {
      "title": "剑指博通，这家国产互连芯片公司藏不住了",
@@ -223,30 +247,6 @@
      "summary": "具身智能公司要被 GPT、Claude、Gemini 抢饭碗了？",
      "source": "机器之心",
      "zh": "通用大模型要「降维打击」具身智能？首个AA-Robotics榜单来了"
-    },
-    {
-     "title": "EMNLP 2026 | 大模型推理如何再快一步？SpecTr-GBV统一多草稿与块验证，加速推测解码",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062870&idx=3&sn=d54670961b32ab464a6856529d7a8a8a",
-     "pubDate": "Thu, 15 Oct 2026 12:17:00 +0800",
-     "summary": "SpecTr-GBV，将 multi-draft 与 greedy block verification（GBV）统一进同一个推测解码框架。",
-     "source": "机器之心",
-     "zh": "EMNLP 2026 | 大模型推理如何再快一步？SpecTr-GBV统一多草稿与块验证，加速推测解码"
-    },
-    {
-     "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-     "link": "https://arxiv.org/abs/2610.14005",
-     "pubDate": "Thu, 15 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines a",
-     "source": "arXiv cs.AI",
-     "zh": "Artificiality 的第一次考试：法学硕士参考的超级智能 C 测试"
-    },
-    {
-     "title": "The Silent Failures in Agentic Data Science",
-     "link": "https://arxiv.org/abs/2610.14115",
-     "pubDate": "Thu, 15 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model develop",
-     "source": "arXiv cs.AI",
-     "zh": "代理数据科学中的无声失败"
     }
    ]
   },
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Tech giants want clean energy in N.C. Is Duke finally ready to help?",
+     "link": "https://www.canarymedia.com/articles/data-centers/tech-giants-want-clean-energy-in-n-c-is-duke-finally-ready-to-help",
+     "pubDate": "Thu, 15 Oct 2026 16:25:00 -0400",
+     "summary": "In North Carolina, tech giants and other large corporations that want their own 24/7 carbon-free electricity have a problem. Across most of the state, only Duke Energy, the state’s vertically integrated utility, can sell them power, and the company’s grid isn’t required to be 100% clean until mid-ce",
+     "source": "Canary Media",
+     "zh": "科技巨头希望在北卡罗来纳州使用清洁能源。杜克大学终于准备好提供帮助了吗？"
+    },
+    {
      "title": "6 Countries Pledge Faster Cargo Transfers on Eurasia-Europe Land Bridge",
      "link": "https://oilprice.com/Geopolitics/International/6-Countries-Pledge-Faster-Cargo-Transfers-on-Eurasia-Europe-Land-Bridge.html",
      "pubDate": "Thu, 15 Oct 2026 15:00:00 -0500",
@@ -916,9 +924,17 @@
      "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
      "link": "https://www.utilitydive.com/news/utilities-need-ai-solve-grid-backlogs-aws-energy-lead-head/832816/",
      "pubDate": "Thu, 15 Oct 2026 12:00:00 -0400",
-     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities&nbsp;Joseph Santamaria.",
+     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities, Joseph Santamaria.",
      "source": "Utility Dive",
      "zh": "公用事业公司可以使用人工智能来解决电网积压问题：AWS 能源领先者"
+    },
+    {
+     "title": "Solar imports from India, Indonesia, Laos injured US manufacturers: ITC",
+     "link": "https://www.utilitydive.com/news/itc-material-injury-solar-imports-india-indonesia-laos/833127/",
+     "pubDate": "Thu, 15 Oct 2026 11:52:32 -0400",
+     "summary": "The decision clears the way for the Department of Commerce to finalize anti-dumping and countervailing duty orders on&nbsp;crystalline silicon photovoltaic cells from the three countries.",
+     "source": "Utility Dive",
+     "zh": "ITC：从印度、印度尼西亚、老挝进口的太阳能产品损害了美国制造商的利益"
     },
     {
      "title": "Farming’s Nitrogen Future Will Be Built From Several Technologies, Not One",
@@ -996,7 +1012,7 @@
      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption",
      "link": "https://www.utilitydive.com/news/reliability-standards-ai-data-centers-crypto-miners-pass-final-nerc-ba/833094/",
      "pubDate": "Thu, 15 Oct 2026 09:28:37 -0400",
-     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more, connected at voltage levels of at least 100 kV.",
+     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more connected at voltage levels of at least 100 kV.",
      "source": "Utility Dive",
      "zh": "人工智能数据中心的可靠性标准，加密矿工更接近采用"
     },
@@ -1063,22 +1079,6 @@
      "summary": "From the Midwest to New York, local and state governments are introducing new zoning rules and restrictions on BESS and data centre projects.",
      "source": "Energy Storage News",
      "zh": "美国 BESS 和数据中心的新分区规则和暂停"
-    },
-    {
-     "title": "Greek PM says ‘storage should accompany renewables’ as Metlen, Karatzis inaugurate 790MWh BESS",
-     "link": "https://www.energy-storage.news/greek-pm-says-storage-should-accompany-renewables-as-metlen-karatzis-inaugurate-790mwh-bess/",
-     "pubDate": "Thu, 15 Oct 2026 11:10:50 +0000",
-     "summary": "Metals and energy group Metlen and conglomerate Karatzis Group have inaugurated the largest BESS in Greece, in a ceremony attended by the country’s Prime Minister.",
-     "source": "Energy Storage News",
-     "zh": "希腊总理表示“储能应与可再生能源并驾齐驱”，Metlen 和 Karatzis 启用 790MWh BESS"
-    },
-    {
-     "title": "PV Chart of the Week: TOPCon to lead solar cell production in India this year",
-     "link": "https://www.pv-tech.org/pv-chart-of-the-week-topcon-to-lead-solar-cell-production-in-india-this-year/",
-     "pubDate": "Thu, 15 Oct 2026 10:00:53 +0000",
-     "summary": "This week's PV Chart of the Week looks at India's solar cell capacity and production growth from 2022 to 2026.",
-     "source": "PV Tech",
-     "zh": "本周光伏图表：TOPCon 今年将引领印度太阳能电池生产"
     }
    ]
   },
@@ -1094,7 +1094,7 @@
      "pubDate": "Thu, 15 Oct 2026 19:58:35 +0000",
      "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
      "source": "STAT News",
-     "zh": "在癌症疫苗初步成功后，默克和 Moderna 仍有“大量探索要做”"
+     "zh": "在最初的癌症疫苗取得成功后，默克和 Moderna 仍有“大量探索要做”"
     },
     {
      "title": "CDC page supporting Covid vaccines for pregnancy went dark",
@@ -1134,7 +1134,7 @@
      "pubDate": "Thu, 15 Oct 2026 17:19:50 +0000",
      "summary": "Rep. Jake Auchincloss (D-Mass.) has some advice for fellow lawmakers: unapologetically support the biotech industry.",
      "source": "STAT News",
-     "zh": "马萨诸塞州议员奥金克洛斯赞成发展美国生物技术而不是针对中国"
+     "zh": "马萨诸塞州议员奥金克洛斯赞成发展美国生物技术而不是瞄准中国"
     },
     {
      "title": "How Alzheimer’s Risk Gene APOE4 Disrupts Myelination",
@@ -1246,7 +1246,7 @@
      "pubDate": "Wed, 14 Oct 2026 18:00:48 +0000",
      "summary": "A small-molecule therapy, VG-3927, targeting microglial TREM2 signaling showed neuroprotective effects in preclinical studies for Alzheimer's disease and was well tolerated in a Phase I trial. The post Alzheimer’s Small-Molecule Therapy Shows Promise in Mice and Early Human Trial appeared first on G",
      "source": "GEN",
-     "zh": "阿尔茨海默氏症小分子疗法在小鼠和早期人体试验中显示出前景"
+     "zh": "阿尔茨海默病小分子疗法在小鼠和早期人体试验中显示出前景"
     },
     {
      "title": "Preterm Birth for Some Women Linked to Specific Autoantibodies",
@@ -1374,7 +1374,7 @@
      "pubDate": "Thu, 15 Oct 2026 15:57:47 +0000",
      "summary": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Arte",
      "source": "NASA",
-     "zh": "NASA 奖项使研究和技术能够打造未来的劳动力"
+     "zh": "NASA 奖项支持研究和技术打造未来劳动力"
     },
     {
      "title": "How NASA is thinking about a moon base",
@@ -1486,7 +1486,7 @@
      "pubDate": "Tue, 13 Oct 2026 14:07:50 +0000",
      "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
      "source": "Spaceflight Now",
-     "zh": "SpaceX 将 NASA 科学和货物运送到国际空间站"
+     "zh": "SpaceX 将 NASA 科学和货物发射到国际空间站"
     },
     {
      "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
@@ -1537,6 +1537,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+     "pubDate": "Thu, 15 Oct 2026 16:25:04 -0400",
+     "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
+     "source": "BleepingComputer",
+     "zh": "黑客利用 Collabora RCE 漏洞为 Nextcloud 服务器添加后门"
+    },
+    {
      "title": "Android gets AI defenses against messaging scams, fake calls",
      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
      "pubDate": "Thu, 15 Oct 2026 15:48:43 -0400",
@@ -1566,7 +1574,7 @@
      "pubDate": "Thu, 15 Oct 2026 17:42:50 +0000",
      "summary": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "在对抗现代网络攻击时，上下文才是王道"
+     "zh": "对抗现代网络攻击，上下文才是王道"
     },
     {
      "title": "Fake Arch Linux packages push malware with root privileges",
@@ -1665,14 +1673,6 @@
      "zh": "Next.js 针对缓存和 SVG 处理中的两个关键 RCE 缺陷发布了带外补丁"
     },
     {
-     "title": "Police arrests 95 suspects in international CSAM crackdown action",
-     "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-     "pubDate": "Thu, 15 Oct 2026 07:55:38 -0400",
-     "summary": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
-     "source": "BleepingComputer",
-     "zh": "警方在国际 CSAM 打击行动中逮捕了 95 名嫌疑人"
-    },
-    {
      "title": "CikaBika Bot RAT Uses Discord for C&C",
      "link": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
      "pubDate": "Thu, 15 Oct 2026 11:25:58 +0000",
@@ -1769,6 +1769,14 @@
      "zh": "Perplexity 开源了其 AI 代理沙箱 SPACE，并表示包括 CoreWeave、Akamai 和 Crusoe 在内的合作伙伴同意向客户提供 SPACE（Reed Albergotti/Semafor）"
     },
     {
+     "title": "\"I'm a Lawyer.\" Said the White House Press Secretary. Florida Would Like a Word",
+     "link": "https://chazstevens.substack.com/p/im-a-lawyer",
+     "pubDate": "Thu, 15 Oct 2026 19:47:45 +0000",
+     "summary": "Article URL: https://chazstevens.substack.com/p/im-a-lawyer Comments URL: https://news.ycombinator.com/item?id=50109272 Points: 20 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "“我是一名律师。”白宫新闻秘书说道。佛罗里达想要一句话"
+    },
+    {
      "title": "The next developer interface is ambient intelligence",
      "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
      "pubDate": "Thu, 15 Oct 2026 19:39:27 +0000",
@@ -1788,7 +1796,7 @@
      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
      "pubDate": "Thu, 15 Oct 2026 19:21:38 +0000",
-     "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 22 # Comments: 8",
+     "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 52 # Comments: 19",
      "source": "Hacker News",
      "zh": "Torrent 网站上有人不断地操弄我的 Sonarr"
     },
@@ -1798,7 +1806,7 @@
      "pubDate": "Thu, 15 Oct 2026 15:15:01 -0400",
      "summary": "Ben Penn / Bloomberg Law : Sources: top DOJ officials halt career prosecutors' Biden-era investigation of Meta over facilitating illegal drug sales and are weighing more lenient options &nbsp; &mdash;&nbsp; Top Justice Department officials have sidelined career prosecutors' long-running grand jury i",
      "source": "Techmeme",
-     "zh": "资料来源：司法部高级官员停止了职业检察官拜登时代对 Meta 提供便利非法毒品销售的调查，并正在考虑更宽松的选择（Ben Penn/彭博法律）"
+     "zh": "资料来源：司法部高级官员停止了职业检察官在拜登时代对 Meta 提供便利非法毒品销售的调查，并正在考虑更宽松的选择（Ben Penn/彭博法律）"
     },
     {
      "title": "What did the Liberty Bell sound like? Science is on the case.",
@@ -1820,7 +1828,7 @@
      "title": "We are entering a period of overlapping crises",
      "link": "https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/",
      "pubDate": "Thu, 15 Oct 2026 18:54:36 +0000",
-     "summary": "Article URL: https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/ Comments URL: https://news.ycombinator.com/item?id=50108491 Points: 12 # Comments: 6",
+     "summary": "Article URL: https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/ Comments URL: https://news.ycombinator.com/item?id=50108491 Points: 23 # Comments: 13",
      "source": "Hacker News",
      "zh": "我们正在进入一个危机重叠的时期"
     },
@@ -1849,18 +1857,18 @@
      "zh": "水中的微塑料不具有惰性，会自行产生有害化学物质"
     },
     {
-     "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
+     "title": "E Ink launches latest version of color epaper platform, E Ink kaleido 4",
      "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
      "pubDate": "Thu, 15 Oct 2026 18:38:16 +0000",
-     "summary": "Article URL: https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4 Comments URL: https://news.ycombinator.com/item?id=50108229 Points: 37 # Comments: 9",
+     "summary": "Article URL: https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4 Comments URL: https://news.ycombinator.com/item?id=50108229 Points: 56 # Comments: 18",
      "source": "Hacker News",
-     "zh": "E Ink 推出最新版本彩色电子纸平台 E Ink Kaleido 4"
+     "zh": "E Ink元太科技推出最新版彩色电子纸平台E Ink kaleido 4"
     },
     {
      "title": "Why We're Banning AI",
      "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
      "pubDate": "Thu, 15 Oct 2026 18:32:29 +0000",
-     "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 144 # Comments: 109",
+     "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 188 # Comments: 140",
      "source": "Hacker News",
      "zh": "为什么我们要禁止人工智能"
     },
@@ -1900,17 +1908,9 @@
      "title": "Muse Spark Open",
      "link": "https://research.meta.ai/blog/muse-spark-open",
      "pubDate": "Thu, 15 Oct 2026 17:47:39 +0000",
-     "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 348 # Comments: 224",
+     "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 394 # Comments: 249",
      "source": "Hacker News",
      "zh": "缪斯火花开放"
-    },
-    {
-     "title": "More on Anthropic's Scion ripping off Mononoke",
-     "link": "https://sunshowers.io/posts/anthropic-mononoke-2/",
-     "pubDate": "Thu, 15 Oct 2026 17:05:19 +0000",
-     "summary": "Redesigning source control at Anthropic - https://news.ycombinator.com/item?id=50073633 (996 comments) Anthropic's Scion is heavily inspired by Mononoke - https://news.ycombinator.com/item?id=50094694 (149 comments) Comments URL: https://news.ycombinator.com/item?id=50106738 Points: 170 # Comments: ",
-     "source": "Hacker News",
-     "zh": "更多关于 Anthropic 的 Scion 抄袭《幽灵》的内容"
     },
     {
      "title": "White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM",
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "NY congressman to introduce bill protecting video game ownership",
+     "link": "https://www.engadget.com/2288193/ny-congressman-to-introduce-bill-protecting-video-game-ownership/",
+     "pubDate": "Thu, 15 Oct 2026 20:15:05 +0000",
+     "summary": "Representative Ritchie Torres wants the FTC to establish regulations ensuring you can play the games you've purchased.",
+     "source": "Engadget",
+     "zh": "纽约国会议员提出保护视频游戏所有权的法案"
+    },
     {
      "title": "OpenAI sues Apple, claims an Apple employee stole proprietary info on an unreleased product",
      "link": "https://www.gsmarena.com/openai_sues_apple_claims_an_apple_employee_stole_proprietary_info_on_an_unreleased_product-news-75061.php",
@@ -2185,14 +2193,6 @@
      "zh": "亚马逊推出两款 Bee AI 录音机来记住你所说的一切"
     },
     {
-     "title": "Meta built a huge open-weight AI model for Macs, but you'll need 1TB of RAM to run it",
-     "link": "https://www.engadget.com/2287833/meta-built-a-huge-open-weight-ai-model-for-macs-but-youll-need-1tb-of-ram-to-run-it/",
-     "pubDate": "Thu, 15 Oct 2026 17:02:48 +0000",
-     "summary": "Muse Spark Open is \"the most capable US open-weight model to date,\" the company says.",
-     "source": "Engadget",
-     "zh": "Meta 为 Mac 构建了一个巨大的开放式 AI 模型，但您需要 1TB 的 RAM 才能运行它"
-    },
-    {
      "title": "YouTube Music will now tell you if a song was made using AI",
      "link": "https://www.gsmarena.com/youtube_music_will_now_tell_you_if_a_song_was_made_using_ai-news-75062.php",
      "pubDate": "Thu, 15 Oct 2026 19:01:02 +0200",
@@ -2230,7 +2230,7 @@
      "pubDate": "Thu, 15 Oct 2026 17:49:02 +0200",
      "summary": "The Samsung Galaxy Z Fold8 has been a pretty popular device, but Samsung has faced several issues in meeting consumer demand. On top of battling rising storage and RAM prices, Samsung has apparently hit a third bottleneck - display driver integrated circuits (DDIs). Display panel operation diagram (",
      "source": "GSMArena",
-     "zh": "报告：三星正在扩大其显示驱动芯片供应商库"
+     "zh": "报告：三星正在扩大其显示驱动芯片供应商池"
     },
     {
      "title": "Deals: Samsung Week 2026 now live, Galaxy Book 6 $500 off, Moto Tag 2 trackers from $17.50 each, OLED Chromebook, more",
@@ -2257,49 +2257,137 @@
    "total": 13,
    "items": [
     {
-     "title": "U.S. equities finished in the green after the latest PPI inflation report landed",
-     "link": "https://seekingalpha.com/news/4653581-us-equities-finished-in-the-green-after-the-latest-ppi-inflation-report-landed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 16:02:54 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "最新 PPI 通胀报告公布后，美国股市收涨"
+     "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
+     "link": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 20:29:00 GMT",
+     "summary": "Shares of AbbVie, Eli Lilly and Gilead Sciences closed near record highs",
+     "source": "MarketWatch",
+     "zh": "科技股抛售促使投资者转向更安全的押注，大型制药股收盘接近历史高位"
     },
     {
-     "title": "SA analyst: AI buildout faces major credit and energy bottlenecks",
-     "link": "https://seekingalpha.com/news/4653583-sa-analyst-ai-buildout-faces-major-credit-and-energy-bottlenecks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 16:01:47 -0400",
+     "title": "MDxHealth SA reports Preliminary  Q3 results",
+     "link": "https://seekingalpha.com/news/4653627-mdxhealth-sa-reports-preliminary-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 16:28:42 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "SA分析师：人工智能建设面临主要信贷和能源瓶颈"
+     "zh": "MDxHealth SA 报告第三季度初步结果"
     },
     {
-     "title": "First Merchants Corporation 7.50% PFD SER Aprice alerts declares $0.4688 dividend",
-     "link": "https://seekingalpha.com/news/4653591-first-merchants-corporation-7_50-percent-pfd-ser-aprice-alerts-declares-0_4688-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 16:01:19 -0400",
+     "title": "J. B Hunt Transport trades lower as Q3 profit growth doesn't keep up with revenue growth",
+     "link": "https://seekingalpha.com/news/4653616-jb-hunt-transport-trades-lower-as-q3-profit-growth-doesnt-keep-with-revenue-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 16:28:21 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "First Merchants Corporation 7.50% PFD SER Aprice 提醒宣布股息 0.4688 美元"
+     "zh": "由于第三季度利润增长跟不上收入增长，J. B Hunt Transport 股价下跌"
     },
     {
-     "title": "Donegal Group declares $0.1925 dividend",
-     "link": "https://seekingalpha.com/news/4653585-donegal-group-declares-0_1925-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 16:00:05 -0400",
+     "title": "Ferrovial-led consortium selected for $8.9B Georgia highway project",
+     "link": "https://seekingalpha.com/news/4653607-ferrovial-led-consortium-selected-for-8_9b-georgia-highway-project?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 16:28:13 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "多尼戈尔集团宣布股息 0.1925 美元"
+     "zh": "Ferrovia 领导的财团被选中参与乔治亚州高速公路项目 $8.9B"
     },
     {
-     "title": "Diamondback, Expand Energy among top E&P picks at Scotiabank",
-     "link": "https://seekingalpha.com/news/4653582-diamondback-expand-energy-among-top-ep-picks-at-scotiabank?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 15:59:12 -0400",
+     "title": "Kish Bancorp GAAP EPS of $2.11, revenue of $22.2M",
+     "link": "https://seekingalpha.com/news/4653628-kish-bancorp-gaap-eps-of-2_11-revenue-of-22_2m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 16:27:48 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Diamondback、Expand Energy 是丰业银行勘探与生产的首选"
+     "zh": "Kish Bancorp GAAP 每股收益为 2.11 美元，收入为 2220 万美元"
+    },
+    {
+     "title": "Proofpoint to acquire Varonis Systems in $6.3B all-cash deal",
+     "link": "https://seekingalpha.com/news/4653625-proofpoint-to-acquire-varonis-systems-in-6_3b-all-cash-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 16:27:44 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Proofpoint 以 6.3B 美元全现金交易收购 Varonis Systems"
+    },
+    {
+     "title": "Earnings Snapshot: Alcoa Q3 revenue falls 7%; EPS beats at $1.82 as alumina output rises",
+     "link": "https://seekingalpha.com/news/4653626-earnings-snapshot-alcoa-q3-revenue-falls-7-eps-beats-at-182-as-alumina-output-rises?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 16:26:36 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "盈利概况：美铝第三季度营收下降 7%；随着氧化铝产量增加，每股收益突破 1.82 美元"
+    },
+    {
+     "title": "Treasuries rally as investors seek shelter from AI turbulence",
+     "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+     "pubDate": "Thu, 15 Oct 2026 20:20:36 GMT",
+     "summary": "Global chip stocks caught up in volatile trading amid fears over sustainability of AI boom",
+     "source": "Financial Times",
+     "zh": "随着投资者寻求人工智能动荡的庇护，美国国债上涨"
+    },
+    {
+     "title": "美国铝业公司第三季度销售额37.0亿美元 同比增加24%",
+     "link": "http://finance.eastmoney.com/news/1354,202610163897342425.html",
+     "pubDate": "Fri, 16 Oct 2026 04:19:03 +0800",
+     "summary": "美国铝业 公司第三季度销售额37.0亿美元，同比增加24%，预估37.6亿美元，调整后每股收益1.82美元，上年同期每股亏损0.020美元，预估1.49美元，调整后息税折旧及摊销前利润7.89亿美元，上年同期2.70亿美元，预估7.384亿美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国铝业公司第三季度销售额37.0亿美元 同比增加24%"
+    },
+    {
+     "title": "英法海底隧道法国入口处客车与列车相撞致19人伤",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897341913.html",
+     "pubDate": "Fri, 16 Oct 2026 04:18:52 +0800",
+     "summary": "据法媒报道，当地时间15日，英法海底隧道法国入口处附近发生客车与货运列车相撞事故，造成19人受伤。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "英法海底隧道法国入口处客车与列车相撞致19人伤"
+    },
+    {
+     "title": "避险情绪压倒通胀担忧，欧美国债普涨，美债收益率盘中跳水超10个基点",
+     "link": "https://wallstreetcn.com/articles/3783732",
+     "pubDate": "Fri, 16 Oct 2026 04:18:11 +0800",
+     "summary": "避险情绪升温压过通胀担忧，欧美国债10月15日周四普涨，无论是基准10年期美债还是对利率敏感的两年期美债，收益率盘中均跳水超过10个基点。英、德、法等欧洲主要经济体的中长期国债收益率同步下行，全球债市迎来一轮反弹。 周四欧股盘中公布的美国9月生产者价格指数（PPI）创四年多来最快环比涨幅，原本加剧了市场对美联储进一步加息的担忧。但随着AI相关企业融资风险升温、科技股承压，投资者开始重新权衡高利率对经济增长和企业偿债能力的冲击，避险需求推动资金流向国债市场。 媒体指出，市场正在从担忧通胀转向更加关注高融资成本对经济增长的影响。与此同时，CoreWeave等AI相关企业的信用风险受到密切关注，企业",
+     "source": "华尔街见闻",
+     "zh": "避险情绪压倒通胀担忧，欧美国债普涨，美债收益率盘中跳水超10个基点"
+    },
+    {
+     "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+     "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+     "pubDate": "Thu, 15 Oct 2026 20:18:02 GMT",
+     "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
+     "source": "CNBC",
+     "zh": "由于投资者对人工智能债务感到不满，CoreWeave 信用违约掉期触及困境水平"
+    },
+    {
+     "title": "市场消息：Proofpoint 将以每股 49.75 美元现金收购 Varonis",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897341841.html",
+     "pubDate": "Fri, 16 Oct 2026 04:17:36 +0800",
+     "summary": "市场消息：Proofpoint 将以每股 49.75 美元现金收购 Varonis。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场消息：Proofpoint 将以每股 49.75 美元现金收购 Varonis"
+    },
+    {
+     "title": "美国铝业公司：预计 2026 年第四季度将延续 2026 年第三季度强劲的运营表现",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897341714.html",
+     "pubDate": "Fri, 16 Oct 2026 04:17:35 +0800",
+     "summary": "美国铝业 公司：预计 2026 年第四季度将延续 2026 年第三季度强劲的运营表现。重申 2026 年 铝 产量 240 万至 260 万吨，出货量 260 万至 280 万吨。仍然预测全年氧化 铝 发货量1,150万至1,160万公吨。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国铝业公司：预计 2026 年第四季度将延续 2026 年第三季度强劲的运营表现"
+    },
+    {
+     "title": "国际油价15日涨跌不一",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897341593.html",
+     "pubDate": "Fri, 16 Oct 2026 04:17:35 +0800",
+     "summary": "截至当天收盘，纽约商品交易所11月交货的轻质原油 期货 价格上涨2.88美元，收于每桶97.97美元，涨幅为3.03%；12月交货的伦敦布伦特原油 期货 价格下跌14美分，收于每桶105.92美元，跌幅为0.13%。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "国际油价15日涨跌不一"
+    },
+    {
+     "title": "美国铝业公司第三季度调整后EBITDA 7.89亿美元，预估7.384亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897341442.html",
+     "pubDate": "Fri, 16 Oct 2026 04:16:02 +0800",
+     "summary": "美国铝业 公司第三季度调整后EBITDA 7.89亿美元，预估7.384亿美元。 第三季度销售额37.0亿美元，预估37.6亿美元。 第三季度调整后每股收益1.82美元，预估1.49美元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国铝业公司第三季度调整后EBITDA 7.89亿美元，预估7.384亿美元"
     },
     {
      "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
      "link": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-     "pubDate": "Thu, 15 Oct 2026 19:53:41 GMT",
+     "pubDate": "Thu, 15 Oct 2026 20:10:20 GMT",
      "summary": "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.",
      "source": "CNBC",
      "zh": "肯德基几十年来首次在美国餐厅改用可口可乐饮料"
@@ -2313,28 +2401,12 @@
      "zh": "Brian Sullivan：为什么石油的“实际”价格可能比现在高 30 至 40 美元"
     },
     {
-     "title": "沙特称胡塞武装袭击利雅得机场共致17死333伤",
-     "link": "http://finance.eastmoney.com/news/1351,202610163897339168.html",
-     "pubDate": "Fri, 16 Oct 2026 03:46:22 +0800",
-     "summary": "沙特阿拉伯主导的多国联军发言人图尔基·马利基15日在沙特首都利雅得举行的新闻发布会上说，也门胡塞武装10月以来对利雅得哈立德国王国际 机场 的袭击共造成17人死亡、333人受伤。这是联军近期首次举行新闻发布会。马利基重点通报了胡塞武装针对哈立德国王国际 机场 及其他多地的袭击情况，以及联军对胡塞武装的打击情况。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "沙特称胡塞武装袭击利雅得机场共致17死333伤"
-    },
-    {
-     "title": "现货白银走高涨超3% 现报57.42美元/盎司",
-     "link": "http://finance.eastmoney.com/news/1351,202610163897338941.html",
-     "pubDate": "Fri, 16 Oct 2026 03:46:14 +0800",
-     "summary": "现货 白银 走高涨超3%，现报57.42美元/盎司。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "现货白银走高涨超3% 现报57.42美元/盎司"
-    },
-    {
-     "title": "现货白银走高涨超3%，现报57.42美元/盎司",
-     "link": "http://finance.eastmoney.com/news/1362,202610163897339055.html",
-     "pubDate": "Fri, 16 Oct 2026 03:45:10 +0800",
-     "summary": "现货 白银 走高涨超3%，现报57.42美元/盎司。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "现货白银走高涨超3%，现报57.42美元/盎司"
+     "title": "谷歌量子计算取得突破：错误率降低40倍，攻克关键资源瓶颈",
+     "link": "https://wallstreetcn.com/articles/3783728",
+     "pubDate": "Fri, 16 Oct 2026 03:52:33 +0800",
+     "summary": "谷歌量子AI团队在量子计算领域取得关键进展，有望大幅削减构建实用量子系统所需的硬件成本。 相关研究周四发表于《科学》杂志。 谷歌在其Willow处理器上验证了一种名为\"魔态培育\"（magic state cultivation）的技术，将量子错误率降低约40倍，T态逻辑保真度达到99.99%。这是迄今为止该领域的最高纪录。 魔态生产长期被视为量子计算规模化的核心瓶颈——据估计，量子计算机高达95%的算力可能需要专门用于生成魔态，真正用于计算的资源极为有限。 此次突破若能成功扩展，将大幅压缩构建容错量子系统所需的硬件规模，对量子计算商业化路径具有重要意义。 谷歌同时表示， 仍需在更大规模上验证该",
+     "source": "华尔街见闻",
+     "zh": "谷歌量子计算取得突破：错误率降低40倍，攻克关键资源瓶颈"
     },
     {
      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump&apos;s White House ballroom",
@@ -2345,44 +2417,12 @@
      "zh": "英伟达和思科确认向特朗普的白宫舞厅捐赠数百万美元"
     },
     {
-     "title": "美国投资公司协会数据显示：美国货币市场基金资产规模降至7.92万亿美元",
-     "link": "http://finance.eastmoney.com/news/1351,202610163897338863.html",
-     "pubDate": "Fri, 16 Oct 2026 03:40:11 +0800",
-     "summary": "美国投资公司协会（ICI）数据显示，美国货币市场基金资产规模降至7.92万亿美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美国投资公司协会数据显示：美国货币市场基金资产规模降至7.92万亿美元"
-    },
-    {
-     "title": "Former PepsiCo property KFC is switching to Coca-Cola products in the U.S.",
-     "link": "https://seekingalpha.com/news/4653580-former-pepsico-property-kfc-may-be-switching-to-coca-cola-products-in-the-us?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 15:35:14 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "前百事可乐旗下肯德基正在美国转向使用可口可乐产品"
-    },
-    {
-     "title": "泽连斯基对“星链”限流无比愤怒",
-     "link": "http://finance.eastmoney.com/news/1356,202610163897338471.html",
-     "pubDate": "Fri, 16 Oct 2026 03:33:02 +0800",
-     "summary": "据央视新闻报道，当地时间10月15日，俄罗斯总统普京在与本国工商界人士交流时表示，俄方将对乌克兰发起的、针对俄炼油厂及其他 物流 、能源设施的攻击作出回应。 他说，乌克兰一直在破坏俄罗斯的能源设施，对系列炼油厂的袭击虽未造成实质损失，但袭击未曾停止。针对电商平台的相关设施，也是乌方首先发起攻击的。俄方将对上述攻击进行回应。 普京指出，乌克兰当局在做出打击俄方电商平台和其他设施之前，应该考虑到此举将造成的后果。 据参考消息援引德新社报道，乌克兰总统泽连斯基在15日刊发于《金融时报》的采访中，不顾美国总统特朗普的批评，宣布将对俄罗斯炼油厂发起新的袭击。 在该采访中，泽连斯基表示，克制阶段已经结束。",
-     "source": "东方财富股票",
-     "zh": "泽连斯基对“星链”限流无比愤怒"
-    },
-    {
      "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
      "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
      "pubDate": "Thu, 15 Oct 2026 19:29:21 GMT",
      "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
      "source": "CNBC",
      "zh": "特斯拉计划在推迟近十年后推出下一代 Roadster"
-    },
-    {
-     "title": "花旗称：短期对铝价维持中性看法 投资者正逐步忽略当前现货供应紧张局面",
-     "link": "http://finance.eastmoney.com/news/1351,202610163897338730.html",
-     "pubDate": "Fri, 16 Oct 2026 03:27:14 +0800",
-     "summary": "花旗称，短期对 铝 价维持中性看法，投资者正逐步忽略当前现货供应紧张局面，转而关注2027年可能出现的供应过剩。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "花旗称：短期对铝价维持中性看法 投资者正逐步忽略当前现货供应紧张局面"
     },
     {
      "title": "U.S. sues California in fight over checking citizenship of mail voters",
@@ -2401,14 +2441,6 @@
      "zh": "随着华尔街对人工智能支出的争论，CoreWeave 两极分化的股票反弹"
     },
     {
-     "title": "美股三大指数震荡走高 道指涨超1% 可口可乐盘中创历史新高",
-     "link": "http://finance.eastmoney.com/news/1345,202610153897165893.html",
-     "pubDate": "Fri, 16 Oct 2026 03:02:13 +0800",
-     "summary": "美东时间周四，美股三大指数震荡走高，截至发稿，道指涨1.01%，纳指跌0.12%，标普500指数微涨0.21%。 存储股跌幅多数收窄后再度走阔， 截至发稿， 美光科技 跌0.24%， SK海力士 ADR跌1.78%， 闪迪 跌3.31%， 希捷科技 跌5.20%， 西部数据 跌3.93%。 可口可乐 上涨0.43%，报92.17美元/股，总市值约3974亿美元，盘中一度创 历史新高 。 全球要闻 美国9月PPI同比增长6.3% 远超市场预期 美国9月PPI同比增长6.3%，预估5.3%，前值5.4%。美国9月PPI环比增长1.3%，预估0.6%。美国9月零售销售环比增长0.8%，预估为0.3%",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数震荡走高 道指涨超1% 可口可乐盘中创历史新高"
-    },
-    {
      "title": "This one governor’s race could derail the AI trade that’s powered the stock market",
      "link": "https://www.marketwatch.com/story/this-one-governors-race-could-derail-the-ai-trade-thats-powered-the-stock-market-6bbf06f8?mod=mw_rss_topstories",
      "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
@@ -2417,36 +2449,12 @@
      "zh": "这场州长竞选可能会破坏推动股市的人工智能交易"
     },
     {
-     "title": "苹果的“家”方案，离国内家庭还差一段路",
-     "link": "http://www.eeo.com.cn/2026/1016/1065955.shtml",
-     "pubDate": "Fri, 16 Oct 2026 02:46:22 +0800",
-     "summary": "带屏中枢与AI管家，这两个苹果此轮“家”叙事的重点，暂时无法完整进入国内家庭。",
-     "source": "经济观察网",
-     "zh": "苹果的“家”方案，离国内家庭还差一段路"
-    },
-    {
-     "title": "Treasuries rally as investors seek shelter from AI turbulence",
-     "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
-     "pubDate": "Thu, 15 Oct 2026 18:43:42 GMT",
-     "summary": "Global chip stocks caught up in volatile trading amid fears over sustainability of AI boom",
-     "source": "Financial Times",
-     "zh": "随着投资者寻求人工智能动荡的庇护，美国国债上涨"
-    },
-    {
      "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’",
      "link": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1",
      "pubDate": "Thu, 15 Oct 2026 18:27:55 GMT",
      "summary": "Debt issued by AI infrastructure providers and neocloud companies such as CoreWeave has sunk to increasingly stressed levels",
      "source": "Financial Times",
      "zh": "由于人工智能借款人面临“达尔文时刻”，投资者抛售数据中心债券"
-    },
-    {
-     "title": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
-     "link": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
-     "pubDate": "Thu, 15 Oct 2026 18:25:00 GMT",
-     "summary": "Shares of AbbVie, Eli Lilly and Gilead Sciences are trading at or near record highs.",
-     "source": "MarketWatch",
-     "zh": "科技股抛售促使投资者转向更安全的押注，大型制药股接近历史高点"
     },
     {
      "title": "Meta发布8160亿参数“美国最强开放权重模型”，联手苹果让大模型跑上Mac，最强模型仍闭源",
@@ -2465,36 +2473,28 @@
      "zh": "我妻子说我们负担不起退休的费用。我否决了她8000美元的意大利之旅。我们已经 60 多岁了，拥有 400 万美元。我继续工作吗？"
     },
     {
-     "title": "化工下游企业多方施策对冲成本压力",
-     "link": "http://www.eeo.com.cn/2026/1016/1065950.shtml",
-     "pubDate": "Fri, 16 Oct 2026 01:52:10 +0800",
-     "summary": "工业硫磺是化工领域重要基础原料，经转化为硫酸后，可广泛应用于磷肥、钛白粉、锂电材料、有色冶炼、橡胶助剂等众多领域，串联起农业生产、新能源、传统化工等多条关键产业链。 今年以来，国内工业硫磺市场价格一度大幅走高且行情波动明显。据大宗商品数据服务商生意社监测数据，年初，硫磺市场基准报价约3850元/吨，处于行业主流成交区。受进口货源收紧推动，硫磺价格自2月底开启快速拉升，6月，华东港口固体硫磺现货少...",
-     "source": "经济观察网",
-     "zh": "化工下游企业多方施策对冲成本压力"
+     "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
+     "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 17:52:00 GMT",
+     "summary": "Spending all your cash first can make your income surge in later years.",
+     "source": "MarketWatch",
+     "zh": "我们的退休金花销顺序正确吗？我们的计划是：社会保障、年金、现金——然后是 IRA。"
     },
     {
-     "title": "保险销售人员将拥有信用档案 四大类信息纳入记录",
-     "link": "http://www.eeo.com.cn/2026/1016/1065951.shtml",
-     "pubDate": "Fri, 16 Oct 2026 01:52:09 +0800",
-     "summary": "记者从业内了解到，近日，中国保险行业协会印发《保险销售人员信用档案建设办法》（以下简称《办法》），《办法》将于2027年1月1日开始实施。届时，与保险销售人员信用相关的四大类信息将被一一记录在案，包括基础信息、职业状况信息、信用评价信息和公共信用信息。 “为保险销售人员建立信用档案，本质上是把‘最大诚信’原则变成可量化、可异议、可修复、可携带的职业信用资产，而不是等到出事才进黑名单。”对外经济贸...",
-     "source": "经济观察网",
-     "zh": "保险销售人员将拥有信用档案 四大类信息纳入记录"
+     "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+     "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 17:30:00 GMT",
+     "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+     "source": "MarketWatch",
+     "zh": "我姐姐搬去和我们 78 岁的母亲住在一起，她说她值得拥有价值 925,000 美元的家庭住宅。她说得对吗？"
     },
     {
-     "title": "从“打基础”转向“求深化” 证券业进一步深化文化建设",
-     "link": "http://www.eeo.com.cn/2026/1016/1065949.shtml",
-     "pubDate": "Fri, 16 Oct 2026 01:52:08 +0800",
-     "summary": "10月15日，《证券日报》记者从券商处获悉，为推动证券行业大力弘扬和践行中国特色金融文化，明确“十五五”时期行业文化建设目标任务，中国证券业协会起草形成《中国证券业协会关于进一步深化证券行业文化建设工作的意见》（以下简称《意见》），目前正面向各券商征求意见。 自2019年证券基金行业文化建设动员大会召开以来，证券行业先后历经基础建设、试点落地、全面推进、强化巩固等阶段，行业文化建设已经从“打基础”...",
-     "source": "经济观察网",
-     "zh": "从“打基础”转向“求深化” 证券业进一步深化文化建设"
-    },
-    {
-     "title": "北上广深等七城落地细则 商品住房销售制度改革有序推进",
-     "link": "http://www.eeo.com.cn/2026/1016/1065947.shtml",
-     "pubDate": "Fri, 16 Oct 2026 01:52:06 +0800",
-     "summary": "10月15日，深圳市住房和建设局、深圳市规划和自然资源局、国家金融监督管理总局深圳监管局发布《关于贯彻落实的实施意见》，明确完善商品住房预售管理、有序推进现房销售、推行主办银行制度、加大融资支持力度、优化土地供应管理、强化质量监管与市场规范等方面政策措施，对住房城乡建设部、自然资源部、金融监管总局此前联合印发的《关于完善商品住房销售制度的通知》（以下简称《通知》）进行贯彻落实。 《证券日报》记...",
-     "source": "经济观察网",
-     "zh": "北上广深等七城落地细则 商品住房销售制度改革有序推进"
+     "title": "Risk of an AI crunch for stock markets is rising",
+     "link": "https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d?syn-25a6b1a6=1",
+     "pubDate": "Thu, 15 Oct 2026 16:53:57 GMT",
+     "summary": "The tremor seen this week could be a foretaste of things to come",
+     "source": "Financial Times",
+     "zh": "股市人工智能紧缩的风险正在上升"
     }
    ]
   },
@@ -2638,7 +2638,7 @@
      "pubDate": "Thu, 15 Oct 2026 00:14:55 EDT",
      "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains very low, Rutgers researchers say the findings warrant attention as millions of peop",
      "source": "ScienceDaily",
-     "zh": "Ozempic 和 Wegovy 与罕见的突然视力丧失风险有关"
+     "zh": "Ozempic 和 Wegovy 与突发视力丧失的罕见风险有关"
     },
     {
      "title": "Q&A: The “collision” between AI, your brain, and society",

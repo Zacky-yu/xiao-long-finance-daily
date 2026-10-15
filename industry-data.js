@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/15 19:47:12",
+ "generated_at": "2026/10/15 19:51:58",
  "recent_days": 7,
  "industries": [
   {
@@ -130,6 +130,14 @@ window.INDUSTRY_DATA = {
      "zh": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation"
     },
     {
+     "title": "顶级华人白帽黑客，加盟智谱",
+     "link": "https://zhidx.com/p/601109.html",
+     "pubDate": "Thu, 15 Oct 2026 10:43:51 +0800",
+     "summary": "智东西 作者 | 陈骏达 编辑 | 李水青 智东西10月15日报道，昨天深夜，全球顶级安全研究员古河（本名陈雪斌，Yuki Chen）在X平台上官宣，他已经加入智谱，从事网络安全相关研究。 古河是业内知名的网络安全研究员，是前360漏洞研究院院长，也曾在网安平台Trend Micro（趋势科技）担任安全研究员，在赛博昆仑担任首席技术官兼昆仑实验室负责人。 他连续多年位列MSRC（微软安全响应中心）“最具价值安全研究者”年度榜单榜首，是全世界安全研究者中登顶该年度榜单次数最多的研究者，也是首位登顶该榜的中国研究者，还曾两次斩获有“黑客奥斯卡”大奖之称的The Pwnie Awards，分别是最佳",
+     "source": "智东西",
+     "zh": "顶级华人白帽黑客，加盟智谱"
+    },
+    {
      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
      "link": "https://www.qbitai.com/2026/10/503303.html",
      "pubDate": "Thu, 15 Oct 2026 01:56:20 +0000",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 程茜 编辑 | 李水青 智东西10月14日消息，昨日，浙江金华市公共资源交易中心东阳分中心发布《关于横店影视AI服务平台建设项目中标（成交）结果公告》， 东阳深空引擎、火山引擎 联合体以合计 2.3亿元 中标。 其中算力租赁资源报价 0.27亿元 ，其余报价为 2.03亿元 。 根据企业信息服务平台企查查的数据，东阳深空引擎由抖音有限公司间接全资持股。 该项目于今年9月14日发布招标公告，总预算金额为2.35亿元。自中标人与采购人合同签订之日起计 ，项目分3年、分阶段交付验收。 其具体项目为以“横店影视大模型”为核心，构建“ 数据—模型—应用 ”三位一体的AI影视技术体系。核",
      "source": "智东西",
      "zh": "AI杀进横店！火山引擎拿下2.3亿大单"
-    },
-    {
-     "title": "智能体长任务总“失忆”？国产开源破局，类Jev模型接管Agent调度",
-     "link": "https://zhidx.com/p/600750.html",
-     "pubDate": "Wed, 14 Oct 2026 22:35:41 +0800",
-     "summary": "智东西 作者 | 王涵 编辑 | 冰倩 智东西10月14日报道，昨晚，国内科技独角兽公司APUS开源 Reflex Agent ，这套系统采用自研Reflex决策模型完成Harness（智能体执行框架）中的决策环节，围绕无限记忆、无损记忆、无损输入构建无限上下文方案，可落地可长期持续处理任务的Personal Agent（个人智能体）。 ▲开源页面 Reflex Agent采用MIT协议开源，提供桌面端、Web和SDK。开发者可以复现“模型驱动Harness”的工作循环，研究无损记忆和无限上下文的实现思路，也可以基于项目做二次开发，适配自己的Agent场景。 Reflex Agent开源地址：",
-     "source": "智东西",
-     "zh": "智能体长任务总“失忆”？国产开源破局，类Jev模型接管Agent调度"
     }
    ]
   },
@@ -257,6 +257,22 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "HEADS UP – Dstl trialling safe usage of head-mounted military technology",
+     "link": "https://www.electronicsweekly.com/news/research-news/heads-up-dstl-trialling-safe-usage-of-head-mounted-military-technology-2026-10/",
+     "pubDate": "Thu, 15 Oct 2026 11:02:02 +0000",
+     "summary": "The UK’s Defence Science and Technology Laboratory (Dstl) has been trialling – in a HEADS UP project – a human-centred design approach to novel technologies that are worn or carried. […] The post HEADS UP – Dstl trialling safe usage of head-mounted military technology appeared first on Electronics W",
+     "source": "Electronics Weekly",
+     "zh": "HEADS UP – Dstl trialling safe usage of head-mounted military technology"
+    },
+    {
+     "title": "Beyond software patching: how CHERI can limit the blast radius in long-life CNI systems",
+     "link": "https://www.electronicsweekly.com/news/business/beyond-software-patching-how-cheri-can-limit-the-blast-radius-in-long-life-cni-systems-2026-10/",
+     "pubDate": "Thu, 15 Oct 2026 11:00:53 +0000",
+     "summary": "Critical National Infrastructure (CNI) products may remain in service for 10 or even 20 years. During that time software changes, attack techniques evolve and regulation becomes more demanding, writes Jim […] The post Beyond software patching: how CHERI can limit the blast radius in long-life CNI sy",
+     "source": "Electronics Weekly",
+     "zh": "Beyond software patching: how CHERI can limit the blast radius in long-life CNI systems"
+    },
     {
      "title": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking",
      "link": "https://www.eetimes.com/small-volumes-big-impact-europes-hidden-role-in-advanced-chipmaking/",
@@ -280,6 +296,14 @@ window.INDUSTRY_DATA = {
      "summary": "The UK Space Agency (UKSA) is backing an Active Debris Removal (ADR) mission to remove two defunct satellites and release them lower into the atmosphere where they will naturally burn […] The post UK Space Agency backs UK ADR mission for space debris removal appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "UK Space Agency backs UK ADR mission for space debris removal"
+    },
+    {
+     "title": "Get the Gadget Master newsletter!",
+     "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-10/",
+     "pubDate": "Thu, 15 Oct 2026 09:49:29 +0000",
+     "summary": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Get the Gadget Master newsletter!"
     },
     {
      "title": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform",
@@ -354,36 +378,60 @@ window.INDUSTRY_DATA = {
      "zh": "Grid Modernization’s Hidden Cost: A Growing Attack Surface Few Are Watching"
     },
     {
+     "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+     "link": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
+     "pubDate": "Thu, 15 Oct 2026 07:07:45 +0000",
+     "summary": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself. The post Beyond The Specification: What Really Determines PCIe Retimer Reach? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Beyond The Specification: What Really Determines PCIe Retimer Reach?"
+    },
+    {
+     "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
+     "link": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/",
+     "pubDate": "Thu, 15 Oct 2026 07:06:02 +0000",
+     "summary": "Short-resilient via insertion improves reliability and performance. The post Strengthening Advanced-Node Interconnects Through Automated Via Insertion appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion"
+    },
+    {
+     "title": "Building AI Infrastructure For Greater Choice And Flexibility",
+     "link": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/",
+     "pubDate": "Thu, 15 Oct 2026 07:03:05 +0000",
+     "summary": "Open interfaces and interoperability allow designers to choose technologies based on the needs of the system. The post Building AI Infrastructure For Greater Choice And Flexibility appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Building AI Infrastructure For Greater Choice And Flexibility"
+    },
+    {
+     "title": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
+     "link": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/",
+     "pubDate": "Thu, 15 Oct 2026 07:02:37 +0000",
+     "summary": "Extending chiplet connectivity across AXI and CHI with scalable protocol subsets, interoperability, and flexible transport support. The post AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity"
+    },
+    {
+     "title": "Why Open-Weight AI Matters",
+     "link": "https://semiengineering.com/why-open-weight-ai-matters/",
+     "pubDate": "Thu, 15 Oct 2026 07:02:13 +0000",
+     "summary": "Proprietary models still hold the edge, but open-weight models add more flexibility for deploying AI. The post Why Open-Weight AI Matters appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why Open-Weight AI Matters"
+    },
+    {
+     "title": "Agentic AI Alters The CPU-GPU Balance",
+     "link": "https://semiengineering.com/agentic-ai-alters-the-cpu-gpu-balance/",
+     "pubDate": "Thu, 15 Oct 2026 07:01:24 +0000",
+     "summary": "Agentic workloads increase CPU demand, while reasoning models, MoE architectures, and reservoir computing fuel AI acceleration. The post Agentic AI Alters The CPU-GPU Balance appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Agentic AI Alters The CPU-GPU Balance"
+    },
+    {
      "title": "Nvidia invests in five UK startups",
      "link": "https://www.electronicsweekly.com/news/business/nvidia-invests-in-six-uk-start-ups-2026-10/",
      "pubDate": "Thu, 15 Oct 2026 05:15:38 +0000",
      "summary": "Today, Nvidia announced new planned investments in UK startups: Boltz, Foresight, Hiverge, Prima Mente and Riverlane. Boltz, a London-based AI startup founded by MIT researchers, builds biomolecular models and AI […] The post Nvidia invests in five UK startups appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Nvidia invests in five UK startups"
-    },
-    {
-     "title": "Salience Labs raises $125m for photonics ICs",
-     "link": "https://www.electronicsweekly.com/news/business/salience-labs-raises-125m-for-photonics-ics-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 05:15:26 +0000",
-     "summary": "Salience Labs of Thame, a five-year-old photonic IC company built on technology from Oxford and Munster universities, has completed a $125m Series B. The company’s Seed round in 2022 raised […] The post Salience Labs raises $125m for photonics ICs appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Salience Labs raises $125m for photonics ICs"
-    },
-    {
-     "title": "Japan to invest $21bn in two GlobalFoundries fabs in New York",
-     "link": "https://www.electronicsweekly.com/news/business/japan-to-invest-21bn-in-two-globalfoundries-fabs-in-new-york-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 05:13:06 +0000",
-     "summary": "GlobalFoundries is to build two fabs at its Malta, New York site, with Japan providing up to $21bn in funding. Japan provides the investment, while GF contributes its technologies, manufacturing […] The post Japan to invest $21bn in two GlobalFoundries fabs in New York appeared first on Electronics ",
-     "source": "Electronics Weekly",
-     "zh": "Japan to invest $21bn in two GlobalFoundries fabs in New York"
-    },
-    {
-     "title": "ASML has €11.7bn Q3",
-     "link": "https://www.electronicsweekly.com/news/business/asml-has-e11-7bn-q3-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 05:09:23 +0000",
-     "summary": "ASML reported €11.7bn sales and €5bn profit at a net margin of 57.5% in Q3 2026. Full-year 2026 sales are expected to be between €44bn and €45bn with a gross […] The post ASML has €11.7bn Q3 appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "ASML has €11.7bn Q3"
     },
     {
      "title": "Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Explore VICFUSE's Class CF fuse line, which offers current-limiting technology and meets Class J performance standards in a compact design. The post VICFUSE UL Standard Class Series Fuse Holders: Quality, Reliability, and Industrial Protection appeared first on EE Times .",
      "source": "EE Times",
      "zh": "VICFUSE UL Standard Class Series Fuse Holders: Quality, Reliability, and Industrial Protection"
-    },
-    {
-     "title": "AVL and VisIC extend collaboration to high-power GaN traction inverter technology",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/visic-141026.shtml",
-     "pubDate": "Wed, 14 Oct 2026 13:10:59 +0100",
-     "summary": "VisIC Technologies Ltd of Ness Ziona, Israel — a fabless supplier of power conversion devices based on gallium nitride (GaN) transistors — and mobility technology company AVL are advancing their collaboration with the integration of VisIC’s D3GaN power module technology into AVL’s vehicle demonstrat",
-     "source": "Semiconductor Today",
-     "zh": "AVL and VisIC extend collaboration to high-power GaN traction inverter technology"
-    },
-    {
-     "title": "Tower and Semtech expand SiGe partnership to scale power-efficient analog connectivity for data centers",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/tower-semtech-141026.shtml",
-     "pubDate": "Wed, 14 Oct 2026 12:34:48 +0100",
-     "summary": "Specialty analog foundry Tower Semiconductor Ltd of Migdal Haemek, Israel and high-performance semiconductor, Internet of Things (IoT) system and cloud connectivity service provider Semtech Corp of Camarillo, CA, USA have agreed to expand their 20-year partnership. Semtech will invest in securing de",
-     "source": "Semiconductor Today",
-     "zh": "Tower and Semtech expand SiGe partnership to scale power-efficient analog connectivity for data centers"
-    },
-    {
-     "title": "Interview with Eric Hong, VP of Engineering at Mixel, a Silvaco Company",
-     "link": "https://semiwiki.com/ip/mixel/374784-interview-with-erich-hong-vp-of-engineering-at-mixel-a-silvaco-company/",
-     "pubDate": "Tue, 13 Oct 2026 19:00:52 +0000",
-     "summary": "Eric Hong is Vice President of Engineering at Mixel, a Silvaco company, where he leads the development of analog and mixed-signal IP, including high-speed PHY and SerDes solutions. Prior to Mixel, he held engineering leadership and technical roles at Nvidia, eSilicon, Samsung Electro-Mechanics, and ",
-     "source": "SemiWiki",
-     "zh": "Interview with Eric Hong, VP of Engineering at Mixel, a Silvaco Company"
-    },
-    {
-     "title": "Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over-optics for AI rack-scale connectivity at OCP Global Summit",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/lumentum-131026.shtml",
-     "pubDate": "Tue, 13 Oct 2026 18:14:35 +0100",
-     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers), Astera Labs Inc (which provides rack-scale AI infrastructure through purpose-built connectivity solutions) and Corning Inc are giving a joint demonstration of PCIe-over",
-     "source": "Semiconductor Today",
-     "zh": "Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over-optics for AI rack-scale connectivity at OCP Global Summit"
-    },
-    {
-     "title": "U.S. Chip Firms Bet Big on R&D",
-     "link": "https://spectrum.ieee.org/semiconductor-research",
-     "pubDate": "Tue, 13 Oct 2026 11:00:05 +0000",
-     "summary": "On 12 October, Applied Materials unveiled a multibillion-dollar research facility in Sunnyvale, Calif., in the heart of Silicon Valley . The company first announced in 2023 plans to invest US $4 billion in its Equipment and Process Innovation and Commercialization (EPIC) Center, but now says it will",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "U.S. Chip Firms Bet Big on R&D"
-    },
-    {
-     "title": "Polar collaborates with IC-Link by imec on 8-inch manufacturing of e-mode GaN devices",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/polar-iclink-131026.shtml",
-     "pubDate": "Tue, 13 Oct 2026 10:33:34 +0100",
-     "summary": "Polar Semiconductor LLC of Bloomington, MN, USA (the only US-owned foundry specializing in high-voltage, power and sensor semiconductors) and IC-Link by imec (the design and manufacturing division of nanoelectronics research center imec of Leuven, Belgium) are collaborating to provide 8-inch product",
-     "source": "Semiconductor Today",
-     "zh": "Polar collaborates with IC-Link by imec on 8-inch manufacturing of e-mode GaN devices"
     }
    ]
   },
@@ -658,6 +658,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Slate Auto opens first ever test drive and experience center in Chicago",
+     "link": "https://electrek.co/2026/10/15/slate-opens-first-ever-test-drive-and-experience-center-in-chicago/",
+     "pubDate": "Thu, 15 Oct 2026 11:48:56 +0000",
+     "summary": "Jeff Bezos-backed electric truck startup Slate Auto opened the doors to its first-ever brick-and-mortar “experience center” in Chicago’s Near West Side, offering midwest fleet buyers and automotive journalists (Hi!) their first real, up-close look at what promises to be the most affordable new vehic",
+     "source": "Electrek",
+     "zh": "Slate Auto opens first ever test drive and experience center in Chicago"
+    },
+    {
      "title": "Xtracycle Swoop ASM review: The nicest cargo e-bike I’ve tested… so far!",
      "link": "https://electrek.co/2026/10/15/xtracycle-swoop-asm-review-the-nicest-cargo-e-bike-ive-tested-so-far/",
      "pubDate": "Thu, 15 Oct 2026 11:03:13 +0000",
@@ -784,14 +792,6 @@ window.INDUSTRY_DATA = {
      "summary": "BMW overhauled its flagship i7 electric sedan. Now, it wants you to use it as a chauffeur vehicle. more…",
      "source": "Electrek",
      "zh": "BMW’s new flagship i7 makes a great chauffeur vehicle [Images]"
-    },
-    {
-     "title": "Prinoth is getting charged up for winter with a little help from Scania",
-     "link": "https://electrek.co/2026/10/14/prinoth-is-getting-charged-up-for-winter-with-a-little-help-from-scania/",
-     "pubDate": "Wed, 14 Oct 2026 19:53:17 +0000",
-     "summary": "The winter equipment experts at Prinoth are partnering with Swedish trucking group SCANIA on a pair of new, battery-electric snow groomers that are ready to hit Europe’s ski slopes with up to 624 kWh of battery power all winter long. more…",
-     "source": "Electrek",
-     "zh": "Prinoth is getting charged up for winter with a little help from Scania"
     },
     {
      "title": "BMW’s EV Sales Are Growing Again. Europe Is Doing The Heavy Lifting",
@@ -1778,6 +1778,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "英伟达发布 617.70 热修复驱动，修复 G-SYNC Pulsar 320 FPS 限制及黑屏闪烁问题",
+     "link": "https://www.ithome.com/1/013/615.htm",
+     "pubDate": "Thu, 15 Oct 2026 11:45:47 GMT",
+     "summary": "IT之家 10 月 15 日消息，英伟达今日发布了 GeForce 617.70 热修复驱动，针对 360Hz 高刷显示器上出现的两项问题进行了修复。 该驱动基于 GeForce 617.42 WHQL 正式版构建，仅包含针对性的代码调整，不通过 NVIDIA App 自动分发，用户需前往 官方下载服务器手动获取安装包 。 此次热修复主要解决 G-SYNC Pulsar 显示器上帧率被限制在 320 FPS 的问题，以及 QHD 分辨率下 360Hz 显示器在游戏中出现短暂黑屏闪烁的问题。 据英伟达介绍，部分支持 G-SYNC Pulsar 技术的 360Hz 显示器在游戏中，帧率会自发下降至",
+     "source": "IT之家",
+     "zh": "英伟达发布 617.70 热修复驱动，修复 G-SYNC Pulsar 320 FPS 限制及黑屏闪烁问题"
+    },
+    {
      "title": "小米 17 系列手机官宣相机与相册正在适配 18 Pro 同款「调色盘」功能",
      "link": "https://www.ithome.com/1/013/614.htm",
      "pubDate": "Thu, 15 Oct 2026 11:42:30 GMT",
@@ -1832,14 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 15 日消息，在今晚的小鹏 MONA L05 预售发布会暨中国首秀活动上，小鹏官方宣布，MONA 系列上市两年来， 累计交付超 35 万台 。 其中， M03 连续 24 个月蝉联 10 万- 20 万元纯电轿车销量冠军 ，L03 慕尼黑上市后订单创历史新高。 目前，小鹏 MONA L05“智能时尚大五座 SUV”已登台亮相，IT之家稍后将带来新车详细报道。",
      "source": "IT之家",
      "zh": "小鹏 MONA 系列上市两年来累计交付超 35 万台，M03 连续 24 个月蝉联 10 万-20 万元纯电轿车销冠"
-    },
-    {
-     "title": "英伟达黄仁勋盛赞 OpenClaw 助力机器人技术发展，但权限管控必须得有",
-     "link": "https://www.ithome.com/1/013/610.htm",
-     "pubDate": "Thu, 15 Oct 2026 11:29:13 GMT",
-     "summary": "IT之家 10 月 15 日消息，据科技媒体 TechRadar 今天报道，英伟达首席执行官黄仁勋近期在伦敦的 Build a Claw 活动认为，OpenClaw 将推动未来科技发展，特别是机器人领域。 黄仁勋首先指出，OpenClaw 是迄今为止最重要的模型之一，有助于多个行业进步。他对此解释称：“我们已经看到人工智能迎来转折点，它开始变得实用。人们正在用 AI 做各种事情，从简单的软件编程，到担任营销代理、研究助理和实验室助理、药物研发，如今到处都有智能体。” IT之家从原报道获悉，黄仁勋看到合作伙伴 Humanoid 的机器人后认为， OpenClaw 是“首个真正可信的智能体运行框架",
-     "source": "IT之家",
-     "zh": "英伟达黄仁勋盛赞 OpenClaw 助力机器人技术发展，但权限管控必须得有"
     },
     {
      "title": "Source: the US FTC issues ~50-page civil investigative demands to OpenAI and Anthropic over safety incidents, safeguarding practices, and consumer protection (Maria Curi/Axios)",
@@ -2029,7 +2029,7 @@ window.INDUSTRY_DATA = {
      "title": "Touchscreen MacBook Pro and more launching at Apple event on Oct 28",
      "link": "https://9to5mac.com/2026/10/15/touchscreen-macbook-pro-and-more-launching-at-apple-event-on-oct-28/",
      "pubDate": "Thu, 15 Oct 2026 11:41:56 +0000",
-     "summary": "We’ve long been awaiting the launch of the first OLED MacBook Pro, and a new report says that the official launch will take place at an Apple event on October 28. It says that Apple has begun sending invites to selected media representatives. The same event will include the OLED iPad mini as well as",
+     "summary": "We’ve long been awaiting the launch of the first touchscreen and OLED MacBook Pro, and a new report says that the official launch will take place at an Apple event on October 28. It says that Apple has begun sending invites to selected media representatives. The same event will include the OLED iPad",
      "source": "9to5Mac",
      "zh": "Touchscreen MacBook Pro and more launching at Apple event on Oct 28"
     },
@@ -2274,12 +2274,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "【调研快报】国投中鲁接待投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610153897092798.html",
+     "pubDate": "Thu, 15 Oct 2026 19:44:19 +0800",
+     "summary": "国投中鲁 10月15日公告称， 10月15日 接待投资者 调研。 接待人员包括董事长 夏连鲲,副总经理、董事会秘书 席京,财务总监 张松,副总经理 王炜,独立董事 李玲, 国投中鲁 果汁事业部副总经理 刘玉。 公司就以下问题进行了回复： 问题1: 电子 院的业绩承诺是否已完成 答:尊敬的投资者,您好!公司管理层始终致力于提升整体经营质量与盈利能力。目前,公司各项生产经营活动均有序、有效开展。有关具体业绩实现情况,公司将严格按照监管规定,及时履行相关信息披露义务,请关注公司后续公告。感谢您的关注。 问题 2:公司的利润下跌远高于营收,是... 点击查看PDF原文 免责声明：本文基于AI生产，仅供",
+     "source": "东方财富股票",
+     "zh": "【调研快报】国投中鲁接待投资者调研"
+    },
+    {
+     "title": "Mastercard, BVNK launches platform that provides infrastructure layer for modern finance",
+     "link": "https://seekingalpha.com/news/4653317-mastercard-bvnk-launches-platform-that-provides-infrastructure-layer-for-modern-finance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 07:42:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mastercard, BVNK launches platform that provides infrastructure layer for modern finance"
+    },
+    {
      "title": "Plug Power says on track with 2026 revenue growth guidance, supported by margin improvement",
      "link": "https://seekingalpha.com/news/4653323-plug-power-says-on-track-with-2026-revenue-growth-guidance-supported-by-margin-improvement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 15 Oct 2026 07:41:35 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Plug Power says on track with 2026 revenue growth guidance, supported by margin improvement"
+    },
+    {
+     "title": "谷歌广告网络被指遭间谍软件公司利用 半岛电视台45台设备受攻击",
+     "link": "http://finance.eastmoney.com/news/1351,202610153897091868.html",
+     "pubDate": "Thu, 15 Oct 2026 19:41:12 +0800",
+     "summary": "研究人员发现，两家以色列公司通过操纵网络广告，在卡塔尔新闻机构半岛电视台的数十台电脑上安装监控软件。多伦多大学数字安全研究机构“公民实验室”（Citizen Lab）周四发布报告称，帮助政府入侵手机的间谍软件公司Candiru与广告技术公司Discover Tech利用网络广告平台，针对半岛电视台的45台设备实施攻击并植入间谍软件。研究人员指出，2024年至2025年期间，这两家总部位于特拉维夫的公司通过包含恶意代码的广告植入间谍软件，从受感染设备中收集数据。报告称，Discover Tech多年来一直伪装成合法广告公司，通过多个大型广告网络投放广告，其中包括谷歌母公司Alphabet旗下的广",
+     "source": "东方财富股票",
+     "zh": "谷歌广告网络被指遭间谍软件公司利用 半岛电视台45台设备受攻击"
     },
     {
      "title": "NeoGenomics expands Indica Labs partnership for precision oncology",
@@ -2290,12 +2314,28 @@ window.INDUSTRY_DATA = {
      "zh": "NeoGenomics expands Indica Labs partnership for precision oncology"
     },
     {
+     "title": "鹏鼎控股：董事长提议回购3亿元至5亿元股份",
+     "link": "http://finance.eastmoney.com/news/1354,202610153897092882.html",
+     "pubDate": "Thu, 15 Oct 2026 19:41:08 +0800",
+     "summary": "鹏鼎控股 (002938.SZ)公告称，公司董事长沈庆芳提议公司通过集中竞价交易方式回购部分股份，用于 股权激励 或员工持股计划。回购资金总额不低于3亿元，不高于5亿元，回购价格上限不高于80元/股，回购期限为董事会审议通过方案之日起12个月内。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "鹏鼎控股：董事长提议回购3亿元至5亿元股份"
+    },
+    {
      "title": "This 30-year market veteran is alarmed by a record-chasing S&P 500. Here’s where he’s investing instead.",
      "link": "https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143?mod=mw_rss_topstories",
      "pubDate": "Thu, 15 Oct 2026 11:41:00 GMT",
      "summary": "Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.",
      "source": "MarketWatch",
      "zh": "This 30-year market veteran is alarmed by a record-chasing S&P 500. Here’s where he’s investing instead."
+    },
+    {
+     "title": "华峰化学：预计2026年前三季度净利润同比增长98%-119%",
+     "link": "http://finance.eastmoney.com/news/1354,202610153897091770.html",
+     "pubDate": "Thu, 15 Oct 2026 19:39:18 +0800",
+     "summary": "华峰化学 (002064.SZ)公告称，预计2026年前三季度归属于上市公司股东的净利润为29.00亿元-32.00亿元，同比增长98.42%-118.95%。业绩变动主要系报告期内受市场供需、原材料价格波动等因素影响，产品价格较上年同期上升，相关产品毛利率提升；公司利用产业链优势，把握市场机遇，驱动盈利能力增长。 注：公司Q3净利润预计9.17亿-12.17亿，Q2净利润13.14亿，据此计算，Q3净利润预计环比下降7%-30%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "华峰化学：预计2026年前三季度净利润同比增长98%-119%"
     },
     {
      "title": "库克：苹果智能接入阿里千问大模型，计划10月底在中国发布测试版本",
@@ -2322,6 +2362,14 @@ window.INDUSTRY_DATA = {
      "zh": "Terex declares $0.17 dividend"
     },
     {
+     "title": "瑞典组阁陷入僵局社民党领袖首轮投票遭248名议员反对",
+     "link": "http://finance.eastmoney.com/news/1351,202610153897091557.html",
+     "pubDate": "Thu, 15 Oct 2026 19:37:12 +0800",
+     "summary": "瑞典社会民主党领导人Magdalena Andersson在首次首相提名议会投票中落败。这一结果符合普遍预期，但她仍有机会出任首相。周四的投票中，Andersson获得99名议员支持，与社会民主党在议会的席位数相同，248名议员投反对票，另有两人缺席。她尚未与盟友达成必要协议，以争取他们的支持。根据瑞典法律，议会最多可就首相候选人进行四轮投票，若全部失败，则必须重新举行选举。这意味着Andersson未来几周可能再次接受议会表决。如果她能提前与盟友就下一届政府的组成达成协议，届时成功当选的机会将有所提高。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "瑞典组阁陷入僵局社民党领袖首轮投票遭248名议员反对"
+    },
+    {
      "title": "Manpower misses top-line estimates; gives Q4 outlook",
      "link": "https://seekingalpha.com/news/4653329-manpower-misses-top-line-estimates-gives-q4-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 15 Oct 2026 07:36:24 -0400",
@@ -2330,60 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "Manpower misses top-line estimates; gives Q4 outlook"
     },
     {
-     "title": "【调研快报】联合光电接待SECF基金等4家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610153897089383.html",
-     "pubDate": "Thu, 15 Oct 2026 19:35:19 +0800",
-     "summary": "联合光电 10月15日公告称， 10月13日 接待SECF基金 等4家机构 调研。 接待人员包括副总经理、财务总监、董事会秘书 郭耀明。 公司就以下问题进行了回复： 投资者提出的问题及公司回复情况如下: 问题 1、请介绍一下公司上半年经营情况,2026 全年扣非能否转正?关键靠毛利率修复还是收入放量? 答:2026 年上半年公司实现营业收入 10.49 亿元,同比增长17.24%;实现归属于上市公司股东的净利润 782.54 万元,实现扭亏为盈,同比增长138... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更",
-     "source": "东方财富股票",
-     "zh": "【调研快报】联合光电接待SECF基金等4家机构调研"
-    },
-    {
      "title": "Walmart gains after Deutsche Bank says its value proposition stands out in an inflationary backdrop",
      "link": "https://seekingalpha.com/news/4653325-walmart-gains-after-deutsche-bank-says-its-value-proposition-stands-out-in-an-inflationary-backdrop?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 15 Oct 2026 07:34:44 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Walmart gains after Deutsche Bank says its value proposition stands out in an inflationary backdrop"
-    },
-    {
-     "title": "Charles Schwab Non-GAAP EPS of $1.69 beats by $0.03, revenue of $7.17B misses by $10M",
-     "link": "https://seekingalpha.com/news/4653327-charles-schwab-non-gaap-eps-of-169-beats-by-003-revenue-of-717b-misses-by-10m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 07:34:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Charles Schwab Non-GAAP EPS of $1.69 beats by $0.03, revenue of $7.17B misses by $10M"
-    },
-    {
-     "title": "高盛上调Meta目标价至860美元 预计明年资本开支超2200亿美元",
-     "link": "http://finance.eastmoney.com/news/1354,202610153897091160.html",
-     "pubDate": "Thu, 15 Oct 2026 19:33:58 +0800",
-     "summary": "高盛 10月14日将Meta目标价从725美元上调至860美元，维持“买入”评级。该行预计，Meta第三季度营收同比增长24.3%，2027年营收达3126.23亿美元。2027年资本开支预计达到2202.15亿美元，同比增长54.1%，较市场共识高13.1%。 高盛 认为，AI将继续推动Meta广告收入增长，但巨额投资也将带来成本压力。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "高盛上调Meta目标价至860美元 预计明年资本开支超2200亿美元"
-    },
-    {
-     "title": "高盛：全球电池供需比或于2029年触底 储能增长难抵供应过剩压力",
-     "link": "http://finance.eastmoney.com/news/1355,202610153897091063.html",
-     "pubDate": "Thu, 15 Oct 2026 19:33:27 +0800",
-     "summary": "高盛 10月14日发布研报称，尽管储能需求持续增长，但全球 电池 行业仍面临供应过剩压力，目前尚不能确认周期底部。该行预计，中国以外 电池 市场需求与本地产能之比将于2027年降至104%；若计入中国潜在出口供应，该比率仅为32%，到2030年两项比率将分别回升至131%和40%。全球 电池 市场供需比则可能直到2029年才触底，主要由于中国储能需求增长趋于正常化，而供应持续增加，导致产能利用率下降。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "高盛：全球电池供需比或于2029年触底 储能增长难抵供应过剩压力"
-    },
-    {
-     "title": "【调研快报】海得控制接待摩根士丹利调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610153897088996.html",
-     "pubDate": "Thu, 15 Oct 2026 19:33:20 +0800",
-     "summary": "海得控制 10月15日公告称， 10月15日 接待 摩根士丹利 调研。 接待人员包括副总经理、董事会秘书 吴秋农,证券事务专员 叶奇凡。 公司就以下问题进行了回复： 投资者关系活动主要内容介绍 1、从公司渠道端观察,当前中国工业自动化市场的需求情况如何?对2026年及2027年市场走势有何判断? 答:从渠道端观察,2026年以来中国工业自动化市场呈现结构性复苏态势。与离散制造业紧密相关的OEM市场,在AI产业链、 电子 制造设备、 锂 电及 机床工具 等需求带动下增长明显... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内",
-     "source": "东方财富股票",
-     "zh": "【调研快报】海得控制接待摩根士丹利调研"
-    },
-    {
-     "title": "【调研快报】河钢资源接待汇添富基金调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610153897088360.html",
-     "pubDate": "Thu, 15 Oct 2026 19:31:21 +0800",
-     "summary": "河钢资源 10月15日公告称， 10月15日 接待汇添富基金 调研。 接待人员包括董事、副总经理、董事会秘书 赵青松,证券事务代表 郑增炎。 公司就以下问题进行了回复： 问: 铜 二期项目使用了自然崩落法,因为国内使用自然崩落法的企业不多,公司是否有技术储备? 答:公司 铜 二期项目采用自然崩落法,是结合矿山地质条件、矿体赋存状态等因素 综合 论证确定的开采方案。自然崩落法具备采矿能力大、生产效率高、开采成本低等优势,成本水平接近露天开采,经济效益突出。公司 铜 一期项目已成功应用... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富",
-     "source": "东方财富股票",
-     "zh": "【调研快报】河钢资源接待汇添富基金调研"
     },
     {
      "title": "How lower fuel economy targets could boost pickups and V-8 engines",
@@ -2410,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "重庆市第一届青少年田径运动会代表团团长会议在长寿区召开"
     },
     {
-     "title": "A股增持回购潮再起：新易盛、天孚通信、佰维存储集体披露回购计划",
-     "link": "http://finance.eastmoney.com/news/1345,202610153897060460.html",
-     "pubDate": "Thu, 15 Oct 2026 19:17:54 +0800",
-     "summary": "今日多家A股公司推出回购及增持计划，其中不乏科技龙头公司。CPO龙头 新易盛 、 天孚通信 及 存储芯片 龙头 佰维存储 均在列。 新易盛 ：控股股东提议回购8亿至10亿元A股股份 新易盛 公告称，公司收到控股股东、实际控制人、董事长高光荣提议，拟以自有或自筹资金通过集中竞价方式回购公司A股股份，回购资金总额不低于8亿元且不超过10亿元，回购股份将用于 股权激励 或员工持股计划。回购价格不高于董事会审议通过回购方案前30个交易日股票交易均价的150%，回购期限为董事会审议通过之日起12个月内。 天孚通信 ：控股股东提议1亿元至1.5亿元回购A股股份 天孚通信 公告称，公司收到控股股东天孚仁和提",
-     "source": "东方财富资讯",
-     "zh": "A股增持回购潮再起：新易盛、天孚通信、佰维存储集体披露回购计划"
-    },
-    {
      "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
      "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
      "pubDate": "Thu, 15 Oct 2026 11:17:00 GMT",
@@ -2434,36 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC"
     },
     {
-     "title": "最后半小时 大资金加速进场！多只宽基ETF成交放量",
-     "link": "http://finance.eastmoney.com/news/1345,202610153897048450.html",
-     "pubDate": "Thu, 15 Oct 2026 19:11:50 +0800",
-     "summary": "10月15日，市场震荡调整，多只宽基ETF成交显著放量，成交额超过120亿元。其中，最后半小时，部分宽基ETF成交额激增。以沪深300ETF易方达为例，全天成交194亿元，最后半小时成交超170亿元，大资金进场信号明显。 A股方面，多只个股尾盘明显拉升。其中， 中芯国际 、 中微公司 尾盘“翻红”，最后半小时成交额分别约为14亿元、19亿元。 北方华创 、 中国平安 、 拓荆科技 尾盘同样大幅上扬，截至收盘分别涨超3.9%、1%、2.5%。 多只宽基ETF成交放量 Choice数据显示，10月15日，股票型ETF总成交1916亿元，远超昨日1183亿元的成交额。具体来看，多只宽基ETF成交大幅",
-     "source": "东方财富资讯",
-     "zh": "最后半小时 大资金加速进场！多只宽基ETF成交放量"
-    },
-    {
      "title": "当AI动能开始退潮，巴菲特式\"无聊投资\"悄然回潮",
      "link": "https://wallstreetcn.com/articles/3783708",
      "pubDate": "Thu, 15 Oct 2026 19:11:26 +0800",
      "summary": "市场风向正在悄然转变。 在AI与动能交易主导市场数年之后，以高质量盈利为核心的\"质量因子\"投资策略强势回归，巴菲特长期坚守的投资逻辑正重新获得华尔街的认可。 质量因子近期表现抢眼。高盛交易台数据显示， 其行业与因子中性质量配对指数（GSP1QUAL）过去三个月累计上涨20%，创12个月新高，同期已实现波动率仅约13%。代表\"质量之王\"的相关标的过去五个交易日上涨5%，且五年走势图表明这一趋势并非新生事物。 与此同时，做多质量、做空动能的对冲组合在2026年已累计上涨55%，涨幅之大令市场瞩目。 这一切发生在主要股指仍徘徊于历史高位附近之时，市场领导力的悄然切换，意味着资金正从\"不惜代价追增长\"",
      "source": "华尔街见闻",
      "zh": "当AI动能开始退潮，巴菲特式\"无聊投资\"悄然回潮"
-    },
-    {
-     "title": "Global stocks sell-off deepens as chipmakers tumble",
-     "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
-     "pubDate": "Thu, 15 Oct 2026 11:05:58 GMT",
-     "summary": "European and Asian equities slide as investors question durability of AI boom",
-     "source": "Financial Times",
-     "zh": "Global stocks sell-off deepens as chipmakers tumble"
-    },
-    {
-     "title": "央行行长潘功胜出席二十国集团财长和央行行长会议",
-     "link": "http://finance.eastmoney.com/news/1346,202610153897044033.html",
-     "pubDate": "Thu, 15 Oct 2026 19:02:33 +0800",
-     "summary": "2026年10月15日，二十国集团（G20）在泰国曼谷召开今年第三次G20财 长和 央行行长会议。会议讨论了全球经济形势与展望、金融部门改革等议题。中国人民 银行 行长潘功胜出席会议并发言，中国人民 银行 副行长宣昌能参加会议。 与会各方认为世界经济总体保持韧性，但仍面临多重风险挑战。贸易摩擦和保护主义通过影响供应链、推升通胀、扰乱市场预期等因素拖累全球经济。金融部门是实现资源有效配置和经济稳健增长的重要基础，各方支持完善金融监管框架，维护金融稳定。各方呼吁G20加强政策协调，促进全球经济增长。 潘功胜指出，地缘政治冲突加剧仍是全球经济的最大不确定性。一些国家国债市场大幅波动、 人工智能 相关",
-     "source": "东方财富资讯",
-     "zh": "央行行长潘功胜出席二十国集团财长和央行行长会议"
     },
     {
      "title": "赣锋锂业Q3营收同比增长109.03%，锂价回暖驱动前三季度净利润暴增19540.50% | 财报见闻",
@@ -2512,6 +2480,38 @@ window.INDUSTRY_DATA = {
      "summary": "Money transfer app Wise has named former NICE CEO Barak Eilam as non-executive director and chair designate.",
      "source": "Finextra",
      "zh": "Wise appoints chairman designate"
+    },
+    {
+     "title": "U.S. reportedly considers use of &apos;mother of all bombs&apos; as Iran vows to fight on",
+     "link": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
+     "pubDate": "Thu, 15 Oct 2026 10:44:57 GMT",
+     "summary": "The U.S. military has reportedly drawn up options for strikes on Iran that include the potential use of one of the biggest non-nuclear bombs in its arsenal.",
+     "source": "CNBC",
+     "zh": "U.S. reportedly considers use of &apos;mother of all bombs&apos; as Iran vows to fight on"
+    },
+    {
+     "title": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries",
+     "link": "https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1",
+     "pubDate": "Thu, 15 Oct 2026 10:32:33 GMT",
+     "summary": "Ukrainian president expresses anger in FT interview at ‘dangerous’ withdrawal of US intelligence sharing",
+     "source": "Financial Times",
+     "zh": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries"
+    },
+    {
+     "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+     "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 10:15:00 GMT",
+     "summary": "”I earn $110,000 a year.”",
+     "source": "MarketWatch",
+     "zh": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
+    },
+    {
+     "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an &apos;energy ceasefire&apos;",
+     "link": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
+     "pubDate": "Thu, 15 Oct 2026 10:13:25 GMT",
+     "summary": "Ukraine will now resume attacks on Russian energy targets after Moscow hasn't held up its end of the proposed deal brokered by Trump.",
+     "source": "CNBC",
+     "zh": "Ukraine to resume strikes on Russian refineries, shattering hopes of an &apos;energy ceasefire&apos;"
     }
    ]
   },

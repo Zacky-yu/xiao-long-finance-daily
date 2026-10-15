@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/15 13:57:10",
+ "generated_at": "2026/10/15 13:58:13",
  "recent_days": 7,
  "industries": [
   {
@@ -80,38 +80,6 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration ",
      "source": "arXiv cs.AI",
      "zh": "VETNET：为人工智能驱动的兽医创新组装基准数据集"
-    },
-    {
-     "title": "全球首款 ！中国团队把游戏世界模型塞进一张5090，还开源了",
-     "link": "https://www.qbitai.com/2026/10/503353.html",
-     "pubDate": "Thu, 15 Oct 2026 03:50:51 +0000",
-     "summary": "给视频模型套上Harness",
-     "source": "量子位",
-     "zh": "全球首款 ！中国团队把游戏世界模型塞进一张5090，还开源了"
-    },
-    {
-     "title": "复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？",
-     "link": "https://www.qbitai.com/2026/10/503350.html",
-     "pubDate": "Thu, 15 Oct 2026 03:01:20 +0000",
-     "summary": "企业该如何打破海外认知壁垒？",
-     "source": "量子位",
-     "zh": "复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？"
-    },
-    {
-     "title": "有预言家！A社研究蓝图曝光，Claude Code来自5年前",
-     "link": "https://www.qbitai.com/2026/10/503341.html",
-     "pubDate": "Thu, 15 Oct 2026 02:13:29 +0000",
-     "summary": "冷汗时刻",
-     "source": "量子位",
-     "zh": "有预言家！A社研究蓝图曝光，Claude Code来自5年前"
-    },
-    {
-     "title": "DeepSeek服务器全球宕机！神秘Harness账号同时现身",
-     "link": "https://www.qbitai.com/2026/10/503326.html",
-     "pubDate": "Thu, 15 Oct 2026 02:04:09 +0000",
-     "summary": "网友集体崩溃：新模型要来了？",
-     "source": "量子位",
-     "zh": "DeepSeek服务器全球宕机！神秘Harness账号同时现身"
     },
     {
      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
@@ -248,6 +216,38 @@ window.INDUSTRY_DATA = {
      "summary": "Leveraging Scikit-LLM for one of the simplest yet most practical text classification tasks utilized in the modern AI landscape: few-shot classification.",
      "source": "KDnuggets",
      "zh": "使用 Scikit-LLM 进行少样本文本分类"
+    },
+    {
+     "title": "刚刚，维信诺亮出全球首款2K 185Hz手机屏，iQOO首发",
+     "link": "https://zhidx.com/p/601069.html",
+     "pubDate": "Wed, 14 Oct 2026 21:57:18 +0800",
+     "summary": "智东西 作者 | 云鹏 编辑 | 李水青 智东西10月14日北京现场报道，刚刚，国内显示技术厂商维信诺与清华大学、iQOO在清华科技园联合举办了一场屏幕技术沟通会，会上维信诺全球首发量产了2K+185Hz手机屏幕，三方联合推出了基于第四代OLED材料pTSF打造的“天空之镜”定制发光材料。 在OLED材料研发中，高效率、长寿命与高色纯度一直难以兼得。清华大学段炼教授团队研发的pTSF（磷光辅助热活化敏化荧光）技术，为解决这一难题提供了新路径。 具体来看，TADF主体材料、磷光敏化剂、窄谱荧光材料组成“接力队”，TADF主体负责快速转换能量，荧光材料负责发出纯净的光，磷光敏化剂则拦截“跑偏”的“",
+     "source": "智东西",
+     "zh": "刚刚，维信诺亮出全球首款2K 185Hz手机屏，iQOO首发"
+    },
+    {
+     "title": "Amp puts AI agents to work beyond code with OpenAI models",
+     "link": "https://openai.com/index/amp-beyond-coding",
+     "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+     "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+     "source": "OpenAI",
+     "zh": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作"
+    },
+    {
+     "title": "SentinelOne cuts malware analysis from weeks to hours",
+     "link": "https://openai.com/index/sentinelone",
+     "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+     "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+     "source": "OpenAI",
+     "zh": "SentinelOne 将恶意软件分析时间从几周缩短到几小时"
+    },
+    {
+     "title": "5 Fun Projects for LLM Inference Engineering",
+     "link": "https://www.kdnuggets.com/5-fun-projects-for-llm-inference-engineering",
+     "pubDate": "Wed, 14 Oct 2026 12:00:00 +0000",
+     "summary": "Want to understand what makes LLMs fast? Build the systems yourself.",
+     "source": "KDnuggets",
+     "zh": "LLM 推理工程的 5 个有趣项目"
     }
    ]
   },
@@ -1778,6 +1778,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "TSMC reports Q3 revenue up 50.9% YoY to $46.36B, net income up 68.7% to $23.7B, both above est., marking a sixth straight quarterly profit record on AI demand (Jenny Lee/CNBC)",
+     "link": "https://www.techmeme.com/261015/p7#a261015p7",
+     "pubDate": "Thu, 15 Oct 2026 01:56:47 -0400",
+     "summary": "Jenny Lee / CNBC : TSMC reports Q3 revenue up 50.9% YoY to $46.36B, net income up 68.7% to $23.7B, both above est., marking a sixth straight quarterly profit record on AI demand &nbsp; &mdash;&nbsp; Taiwan Semiconductor Manufacturing Co. on Thursday reported a record third-quarter profit that beat e",
+     "source": "Techmeme",
+     "zh": "台积电报告第三季度收入同比增长 50.9% 至 $46.36B，净利润增长 68.7% 至 $23.7B，均高于预期，标志着人工智能需求连续第六个季度盈利记录 (Jenny Lee/CNBC)"
+    },
+    {
      "title": "台积电 2026 年第三季度净利润 7630.6 亿元新台币，同比增长 68.7%",
      "link": "https://www.ithome.com/1/013/358.htm",
      "pubDate": "Thu, 15 Oct 2026 05:46:32 GMT",
@@ -1832,14 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 15 日消息， DeepSeek 今日（10 月 15 日）早间出现服务问题 ，官方状态页面显示网页 / API 部分中断。 经过近 5 个小时的修复，目前服务已恢复正常 。官方状态页面显示，问题持续时间为 2026 年 10 月 15 日星期四 08:11 ~ 2026 年 10 月 15 日星期四 13:04，共计 4 小时 52 分钟。 IT之家注意到，这是 DeepSeek 本月以来遇到的最大规模服务问题。",
      "source": "IT之家",
      "zh": "DeepSeek 网页 / API 服务恢复正常，中断近 5 个小时"
-    },
-    {
-     "title": "尼康 Z5ⅡC 全画幅微单相机发售：主打新手入门，单机身 9999 元",
-     "link": "https://www.ithome.com/1/013/351.htm",
-     "pubDate": "Thu, 15 Oct 2026 05:26:20 GMT",
-     "summary": "IT之家 10 月 15 日消息，尼康 Z 5II C 全画幅微单相机于今日正式发售，黑色机身（不含镜头）售价为 9999 元。 该机定位新手入门，主打随手出片轻松拍，目前可叠加平台满 6000-780 元神券，券后 9219 元。 京东 尼康（Nikon）Z5IIC 全画幅微单相机 黑色机身 (不含镜头) 券后 9219 元 领 780 元券 Z5ⅡC 机身（黑色 / 银色）：RMB 9,999 元 Z5ⅡC（黑色 / 银色）+ 尼克尔 Z 24-50mm f/4-6.3 套机：RMB 11,999 元 Z5ⅡC（黑色 / 银色）+ 尼克尔 Z 24-105mm f/4-7.1 套机：RMB",
-     "source": "IT之家",
-     "zh": "尼康 Z5ⅡC 全画幅微单相机发售：主打新手入门，单机身 9999 元"
     },
     {
      "title": "字节跳动豆包做不了 Muse",
@@ -1914,6 +1914,14 @@ window.INDUSTRY_DATA = {
      "zh": "第三季度全球智能手机出货量同比下降 22% 至 2.553 亿，季度跌幅创历史新高，三星和苹果出货量增长，而小米、Oppo 和 Vivo 出货量下滑幅度更大 (IDC)"
     },
     {
+     "title": "Lenovo Coupon Codes: 15% Off in October 2026",
+     "link": "https://www.wired.com/story/lenovo-coupon-code/",
+     "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
+     "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+     "source": "WIRED",
+     "zh": "Lenovo 优惠券代码：2026 年 10 月 15% 折扣"
+    },
+    {
      "title": "Walmart Promo Codes: 20% Off for October 2026",
      "link": "https://www.wired.com/story/top-walmart-promo-codes/",
      "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
@@ -1928,14 +1936,6 @@ window.INDUSTRY_DATA = {
      "summary": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
      "source": "WIRED",
      "zh": "2026 年 10 月 Hotels.com 好订网优惠券代码"
-    },
-    {
-     "title": "Lenovo Coupon Codes: 15% Off in October 2026",
-     "link": "https://www.wired.com/story/lenovo-coupon-code/",
-     "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
-     "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-     "source": "WIRED",
-     "zh": "Lenovo 优惠券代码：2026 年 10 月 15% 折扣"
     },
     {
      "title": "ABT Promo Codes & Discounts for October 2026",
@@ -2274,12 +2274,12 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Taiwan Semiconductor Manufacturing Company GAAP EPS of $4.60 beats by $0.09, revenue of $46.72B beats by $1.02B",
+     "title": "Taiwan Semiconductor Manufacturing Company GAAP EPADR of $4.60 beats by $0.09, revenue of $46.72B beats by $1.02B",
      "link": "https://seekingalpha.com/news/4653238-taiwan-semiconductor-manufacturing-company-gaap-eps-of-460-beats-by-009-revenue-of-4672b-beats-by-102b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 15 Oct 2026 01:53:56 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "台积电 GAAP 每股收益 $4.60 超出 $0.09，营收 $46.72B 超出 $1.02B"
+     "zh": "台积电 GAAP EPADR 为 $4.60 超出 $0.09，营收 $46.72B 超出 $1.02B"
     },
     {
      "title": "Japan August industrial production revised down to -2.4% M/M; core machine orders rise 5.2%",
@@ -2288,6 +2288,22 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "日本8月工业生产环比下调至-2.4%；核心机订单增长5.2%"
+    },
+    {
+     "title": "2026北京国际风能大会暨展览会在北京举办",
+     "link": "http://finance.eastmoney.com/news/1355,202610153896773721.html",
+     "pubDate": "Thu, 15 Oct 2026 13:50:59 +0800",
+     "summary": "中新网北京10月15日电 (记者王梦瑶)为期三天的2026北京国际 风能 大会暨展览会(CWP2026)14日在北京拉开帷幕。围绕“推进高质量协同发展，引领绿色低碳转型”主题，探讨行业热点。同期举办的展览会，汇聚全球前沿技术与整体解决方案，成为展示最新成果、促进多方合作的国际平台。 全球 风能 理事会(GWEC)首席执行官Ben Backwell在开幕式上表示，目前，风电行业正处于快速增长期， 电力 需求也在飞速攀升。随着消费者、各经济体以及国家迅速向电气化转型，2025年全球风电新增装机容量达到165GW，创下 历史新高 。当前，地缘政治形势不稳定，对能源市场产生了干扰，使得能源转型比以往任",
+     "source": "东方财富股票",
+     "zh": "2026北京国际风能大会暨展览会在北京举办"
+    },
+    {
+     "title": "盟固利10月15日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610153896771449.html",
+     "pubDate": "Thu, 15 Oct 2026 13:50:44 +0800",
+     "summary": "以下是 盟固利 在北京时间10月15日13:50分盘口异动快照： 10月15日， 盟固利 盘中快速回调，5分钟内跌幅超过2%，截至13点50分，报17.3元，成交3.51亿元，换手率4.55%。 分笔 13:50:39 17.30 115↓ 13:50:36 17.33 333↓ 13:50:33 17.34 91↓ 13:50:30 17.35 111↓ 13:50:27 17.39 334↓ 13:50:24 17.40 170↑ 13:50:21 17.39 109↑ 13:50:18 17.39 91↑ 13:50:15 17.39 17↑ 13:50:12 17.38 466↑ 报价",
+     "source": "东方财富股票",
+     "zh": "盟固利10月15日快速回调"
     },
     {
      "title": "万和电气10月15日打开涨停",
@@ -2306,36 +2322,20 @@ window.INDUSTRY_DATA = {
      "zh": "韩国KOSPI指数日内重挫9%"
     },
     {
-     "title": "AI安全风波升级！美国八州联合起诉OpenAI：指控ChatGPT大规模伤害未成年",
-     "link": "http://finance.eastmoney.com/news/1354,202610153896765870.html",
-     "pubDate": "Thu, 15 Oct 2026 13:48:20 +0800",
-     "summary": "美东时间周三，美国八个州同步对OpenAI发起诉讼，指控ChatGPT存在系统性风险，正在大规模伤害未成年人。 这是美国多州首次协同行动，对AI企业提起集体法律挑战，标志着AI产品的安全监管争议再度升温。 美国八州联合起诉OpenAI 本次发起诉讼的州为爱荷华州、堪萨斯州、内布拉斯加州、西弗吉尼亚州、阿肯色州、亚利桑那州、爱达荷州以及蒙大拿州，各州将在本州法院分别立案。 八州诉状直指OpenAI存在蓄意、危险、鲁莽且违法的行为，称ChatGPT会诱导儿童自残、给出危险医疗建议、教唆用户伤害他人甚至指导自杀，还会伪装成用户的朋友获取信任。 爱荷华州总检察长布伦娜·伯德（Brenna Bird）直",
+     "title": "日本央行审议委员小枝淳子：基础通胀正在稳定在2%左右",
+     "link": "http://finance.eastmoney.com/news/1351,202610153896773885.html",
+     "pubDate": "Thu, 15 Oct 2026 13:49:12 +0800",
+     "summary": "日本央行审议委员小枝淳子：基础通胀正在稳定在2%左右。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "AI安全风波升级！美国八州联合起诉OpenAI：指控ChatGPT大规模伤害未成年"
+     "zh": "日本央行审议委员小枝淳子：基础通胀正在稳定在2%左右"
     },
     {
-     "title": "侨银股份10月15日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610153896769664.html",
-     "pubDate": "Thu, 15 Oct 2026 13:48:15 +0800",
-     "summary": "以下是 侨银股份 在北京时间10月15日13:48分盘口异动快照： 10月15日， 侨银股份 盘中快速上涨，5分钟内涨幅超过2%，截至13点48分，报11.35元，成交6226.36万元，换手率1.82%。 分笔 13:48:09 11.35 70↑ 13:48:06 11.28 142↑ 13:48:03 11.28 120↓ 13:48:00 11.29 418↑ 13:47:57 11.29 35↓ 13:47:54 11.30 146↑ 13:47:51 11.24 75↑ 13:47:48 11.22 811↑ 13:47:45 11.13 466↑ 13:47:42 11.08 6",
+     "title": "欧盟领导人寻求遏制能源价格飙升，但伊朗战争令政策选择所剩无几",
+     "link": "http://finance.eastmoney.com/news/1351,202610153896772067.html",
+     "pubDate": "Thu, 15 Oct 2026 13:49:11 +0800",
+     "summary": "欧盟领导人正寻求缓解能源价格飙升的办法，但美伊战争使他们几乎没有多少政策选择。能源成本飙升已成为欧洲竞争力问题更广泛讨论的核心议题。欧盟领导人将于周四在布鲁塞尔举行的为期两天的峰会上展开相关讨论。一名欧盟高级官员表示，欧盟行政机构欧盟委员会预计将向各成员国领导人指出，应对高能源价格并不存在立竿见影的解决方案。欧盟成员国同样面临诸多限制。在政府预算日益紧张之际，实施价格上限和减税措施将带来沉重的财政成本，而利率飙升又进一步加剧了这一挑战。欧盟几乎没有能够迅速见效的应对措施。欧盟委员会正考虑延长能源联合采购机制，推迟实施旨在限制化石燃料进口相关甲烷排放的气候法规，并延长对受冲击严重行业的国家援助措",
      "source": "东方财富股票",
-     "zh": "侨银股份10月15日快速上涨"
-    },
-    {
-     "title": "日本央行审议委员小枝淳子：没有具体的加息步伐",
-     "link": "http://finance.eastmoney.com/news/1351,202610153896769792.html",
-     "pubDate": "Thu, 15 Oct 2026 13:47:11 +0800",
-     "summary": "日本央行审议委员小枝淳子：没有具体的加息步伐。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "日本央行审议委员小枝淳子：没有具体的加息步伐"
-    },
-    {
-     "title": "比亚迪：比亚迪辅助驾驶车型保有量超395万辆，天神之眼每天生成数据超2.4亿公里",
-     "link": "http://hk.eastmoney.com/news/1535,202610153896769948.html",
-     "pubDate": "Thu, 15 Oct 2026 13:47:11 +0800",
-     "summary": "比亚迪 ： 比亚迪 辅助驾驶车型保有量超395万辆，天神之眼每天生成数据超2.4亿公里。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "比亚迪：比亚迪辅助驾驶车型保有量超395万辆，天神之眼每天生成数据超2.4亿公里"
+     "zh": "欧盟领导人寻求遏制能源价格飙升，但伊朗战争令政策选择所剩无几"
     },
     {
      "title": "Australia unemployment rate holds at 4.7% in September; employment contracts by 39.3K",

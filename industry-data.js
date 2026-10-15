@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/15 12:52:27",
+ "generated_at": "2026/10/15 13:02:16",
  "recent_days": 7,
  "industries": [
   {
@@ -546,6 +546,14 @@ window.INDUSTRY_DATA = {
      "zh": "Timken Precision Drives puts the motion challenge first in humanoid robots"
     },
     {
+     "title": "Neurosymbolic planning using natural language communication for cooperative autonomous vehicles",
+     "link": "https://robohub.org/neurosymbolic-planning-using-natural-language-communication-for-cooperative-autonomous-vehicles/",
+     "pubDate": "Wed, 14 Oct 2026 09:14:30 +0000",
+     "summary": "Imagine you are driving toward an intersection. A truck parked on the corner blocks your view of a car speeding toward the intersection from the right. You can’t see it, but the car next to you can. What if that neighboring vehicle could simply tell your car, “Vehicle merging from the right, about 1",
+     "source": "Robohub",
+     "zh": "Neurosymbolic planning using natural language communication for cooperative autonomous vehicles"
+    },
+    {
      "title": "ETH Zurich scientists use bacteria to bind sand together for construction",
      "link": "https://roboticsandautomationnews.com/2026/10/14/eth-zurich-scientists-use-bacteria-to-bind-sand-together-for-construction/105908/",
      "pubDate": "Wed, 14 Oct 2026 09:06:21 +0000",
@@ -610,12 +618,28 @@ window.INDUSTRY_DATA = {
      "zh": "Closing the reality gap: Why real-time execution has become the new competitive advantage"
     },
     {
+     "title": "Humanoid robots can sprint and box – but the real test is doing the laundry",
+     "link": "https://robohub.org/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/",
+     "pubDate": "Mon, 12 Oct 2026 07:51:21 +0000",
+     "summary": "By Wai-keung Fung, Cardiff Metropolitan University At the recent World Humanoid Robot Games 2026 in Beijing, robots sprinted, boxed, played football and tackled tasks inspired by factories, restaurants and emergency situations. The robot Tiangong Ultra even completed the 100 metres in 8.64 seconds, ",
+     "source": "Robohub",
+     "zh": "Humanoid robots can sprint and box – but the real test is doing the laundry"
+    },
+    {
      "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
      "link": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
      "pubDate": "Fri, 09 Oct 2026 15:30:02 +0000",
      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
      "source": "IEEE Spectrum 机器人",
      "zh": "Video Friday: Robot Decommissioning Takes a Fun Turn"
+    },
+    {
+     "title": "Robot Talk Episode 165 – Robots behind the research, with Kushant Patel",
+     "link": "https://robohub.org/robot-talk-episode-165-robots-behind-the-research-with-kushant-patel/",
+     "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
+     "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
+     "source": "Robohub",
+     "zh": "Robot Talk Episode 165 – Robots behind the research, with Kushant Patel"
     },
     {
      "title": "This Disembodied Hand Is All the Robot You Need",
@@ -970,12 +994,12 @@ window.INDUSTRY_DATA = {
      "zh": "Britain's $47 Billion North Sea Oil Decision Hangs in the Balance"
     },
     {
-     "title": "Fossil fuel generation pipeline rebounds while new clean generation slows: EDF",
+     "title": "Fossil generation pipeline rebounds while new clean generation slows: EDF",
      "link": "https://www.utilitydive.com/news/fossil-generation-pipeline-rebounds-while-new-clean-generation-slows-edf/832978/",
      "pubDate": "Wed, 14 Oct 2026 10:55:47 -0400",
      "summary": "However, &ldquo;rising gas turbine costs and supply shortages are already making new gas plants more expensive and slower to build,&rdquo; David Villagrana, EDF&rsquo;s lead counsel for clean energy tax solutions, told Utility Dive.",
      "source": "Utility Dive",
-     "zh": "Fossil fuel generation pipeline rebounds while new clean generation slows: EDF"
+     "zh": "Fossil generation pipeline rebounds while new clean generation slows: EDF"
     },
     {
      "title": "Becquerel: AI and robotics can deliver 3-4% energy yield improvement in solar PV projects",
@@ -994,36 +1018,12 @@ window.INDUSTRY_DATA = {
      "zh": "Energy Storage Awards 2026: Shortlist reveal kicks off countdown to the industry’s big night out"
     },
     {
-     "title": "Battery-powered trains coming to Chicago: a first look",
-     "link": "https://www.utilitydive.com/news/stadler-metra-chicago-battery-electric-train/832993/",
-     "pubDate": "Wed, 14 Oct 2026 10:17:00 -0400",
-     "summary": "Commuter rail systems like Chicago's Metra are exploring battery-electric trains to increase service while reducing diesel exhaust pollution and noise.",
-     "source": "Utility Dive",
-     "zh": "Battery-powered trains coming to Chicago: a first look"
-    },
-    {
-     "title": "PJM plans to study SoftBank’s Ohio AI project under state agreement approach",
-     "link": "https://www.utilitydive.com/news/pjm-softbank-ohio-ai-flagship-state-agreement-approach/832962/",
-     "pubDate": "Wed, 14 Oct 2026 10:13:00 -0400",
-     "summary": "The project, dubbed &ldquo;Flagship,&rdquo;&nbsp;includes 765-kV transmission lines to be built by AEP Ohio, roughly 10 GW in data center load and about 10.2 GW in gas-fired generation.",
-     "source": "Utility Dive",
-     "zh": "PJM plans to study SoftBank’s Ohio AI project under state agreement approach"
-    },
-    {
      "title": "Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS",
      "link": "https://www.pv-magazine.com/2026/10/14/tunisia-launches-tender-for-50-mw-solar-pv-plant-with-10-mw-20-mwh-bess/",
      "pubDate": "Wed, 14 Oct 2026 13:42:24 +0000",
      "summary": "The deadline to submit project proposals is December 10. The post Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "Tunisia launches tender for 50 MW solar PV plant with 10 MW/20 MWh BESS"
-    },
-    {
-     "title": "Scaling residential VPPs could cut electric bill increases by half: Brattle",
-     "link": "https://www.utilitydive.com/news/scaling-vpps-could-cut-electric-bill-increases-by-half-brattle/832956/",
-     "pubDate": "Wed, 14 Oct 2026 09:27:40 -0400",
-     "summary": "Utilities should look to OEM-led enrollment strategies to expand residential virtual power plants utilizing thermostats, batteries and EV chargers, according to The Brattle Group.",
-     "source": "Utility Dive",
-     "zh": "Scaling residential VPPs could cut electric bill increases by half: Brattle"
     },
     {
      "title": "Europe’s second energy crisis largely skipped the solar hours",
@@ -1072,6 +1072,30 @@ window.INDUSTRY_DATA = {
      "summary": "The new series comprises four models with heating capacities of 3 kW, 5 kW, 7 kW and 9 kW. The units feature a refrigerant-split configuration, with the indoor and outdoor units connected by refrigerant piping. The post Panasonic unveils R454C air-to-water heat pumps for residential use appeared fir",
      "source": "pv magazine",
      "zh": "Panasonic unveils R454C air-to-water heat pumps for residential use"
+    },
+    {
+     "title": "Pexapark: September 2026 PPA prices rise 5% across Europe",
+     "link": "https://www.pv-tech.org/pexapark-september-2026-ppa-prices-rise-5-across-europe/",
+     "pubDate": "Wed, 14 Oct 2026 12:08:39 +0000",
+     "summary": "The prices of European renewable energy power purchase agreements (PPAs) rose by 5.0% in September, according to figures from Pexapark.",
+     "source": "PV Tech",
+     "zh": "Pexapark: September 2026 PPA prices rise 5% across Europe"
+    },
+    {
+     "title": "Arevon signs three 20-year REC contracts for 200MW Illinois solar project",
+     "link": "https://www.pv-tech.org/arevon-signs-three-20-year-rec-contracts-for-200mw-illinois-solar-project/",
+     "pubDate": "Wed, 14 Oct 2026 11:42:32 +0000",
+     "summary": "Arevon Energy signed three 20-year Indexed REC contracts with Illinois utilities for its 200MWac/275MWdc Panther Energy solar project.",
+     "source": "PV Tech",
+     "zh": "Arevon signs three 20-year REC contracts for 200MW Illinois solar project"
+    },
+    {
+     "title": "LTSAs under scrutiny: what BESS owners really need from their contracts",
+     "link": "https://www.energy-storage.news/ltsas-under-scrutiny-what-bess-owners-really-need-from-their-contracts/",
+     "pubDate": "Wed, 14 Oct 2026 11:27:37 +0000",
+     "summary": "A panel of BESS industry experts discussed the ins and outs of long-term service agreements (LTSAs) at the Battery Asset Management Summit UK & Ireland 2026 yesterday.",
+     "source": "Energy Storage News",
+     "zh": "LTSAs under scrutiny: what BESS owners really need from their contracts"
     }
    ]
   },
@@ -1754,6 +1778,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "IDC：2026 年三季度全球智能手机出货量同比暴跌 22%，为史上最严重季度下滑",
+     "link": "https://www.ithome.com/1/013/341.htm",
+     "pubDate": "Thu, 15 Oct 2026 04:51:43 GMT",
+     "summary": "IT之家 10 月 15 日消息，据彭博社报道，市场研究机构 IDC 表示，受内存涨价冲击，全球智能手机市场在今年第三季度遭遇史上最严重季度下滑，出货量同比大跌 22%，后续形势还会进一步恶化。 IDC 称，过去一年，人工智能行业订单拉动存储芯片价格走高，挤压整个手机行业的利润空间，迫使厂商上调售价、缩减硬件配置，甚至砍掉入门机型。小米、OPPO 等中国头部品牌受到的冲击最为严重；苹果与三星电子凭借更丰富的高端机型矩阵，表现相对更好。 IT之家注意到，设备厂商越来越意识到，行业正在经历永久性结构性转变。IDC 预测，市场增长至少要等到 2028 年才有可能复苏。随着厂商持续涨价、引导消费者选购",
+     "source": "IT之家",
+     "zh": "IDC：2026 年三季度全球智能手机出货量同比暴跌 22%，为史上最严重季度下滑"
+    },
+    {
+     "title": "灵活用工不灵活，自由职业不自由",
+     "link": "https://www.tmtpost.com/8169561.html",
+     "pubDate": "Thu, 15 Oct 2026 12:47:00 +0800",
+     "summary": "一份54条的新规，正在给算法找回一张“脸”。",
+     "source": "钛媒体",
+     "zh": "灵活用工不灵活，自由职业不自由"
+    },
+    {
      "title": "Anthropic 国际业务负责人普兰森：开放式 AI 模型比我们的模型风险更高",
      "link": "https://www.ithome.com/1/013/337.htm",
      "pubDate": "Thu, 15 Oct 2026 04:46:59 GMT",
@@ -1770,12 +1810,28 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI 伦敦分部去年人均薪酬超 230 万英镑，堪比英超球星"
     },
     {
+     "title": "Anthropic最新单季营收168亿美元，环比再涨45%",
+     "link": "https://www.tmtpost.com/8169578.html",
+     "pubDate": "Thu, 15 Oct 2026 12:42:00 +0800",
+     "summary": "47亿、116亿、168亿：三个季度翻了三倍多。",
+     "source": "钛媒体",
+     "zh": "Anthropic最新单季营收168亿美元，环比再涨45%"
+    },
+    {
      "title": "阿维塔 06 车型焕新上市：半隐藏门把手、安全舒适配置升级，限时权益价 20.59 万起",
      "link": "https://www.ithome.com/1/013/323.htm",
      "pubDate": "Thu, 15 Oct 2026 04:41:27 GMT",
      "summary": "IT之家 10 月 15 日消息，阿维塔 06 车型今日焕新上市，Max 增程版限时权益价 20.59 万元 ，Max 纯电版限时权益价 21.59 万元 。 阿维塔 06 焕新车型拥有华为乾崑 ADS 5 加持， 安全与舒适焕新升级 ，搭载 4D 毫米波雷达、半隐藏式门把手、华为乾崑全维防碰撞系统 CAS 5.0，车内应急机械拉手也进行了优化。 该车尺寸为 4855*1960*1467mm，轴距 2940mm；搭载鸿蒙座舱 HarmonySpace 5， 采用 35.4 英寸 4K 全景星环屏、15.6 英寸中控屏以及双 6.7 英寸高清后视屏 ；MoLA 混合大模型 Agent 架构上车，",
      "source": "IT之家",
      "zh": "阿维塔 06 车型焕新上市：半隐藏门把手、安全舒适配置升级，限时权益价 20.59 万起"
+    },
+    {
+     "title": "餐企重新审视外卖：要不要做，做多少？",
+     "link": "https://www.tmtpost.com/8169512.html",
+     "pubDate": "Thu, 15 Oct 2026 12:38:00 +0800",
+     "summary": "外卖早已不是“上了就多一份收入”的简单选项。",
+     "source": "钛媒体",
+     "zh": "餐企重新审视外卖：要不要做，做多少？"
     },
     {
      "title": "Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data (Steven Rosenbush/Wall Street Journal)",
@@ -1842,14 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "上市破发，传音被AI坑惨了？"
     },
     {
-     "title": "梁文锋，又出手了",
-     "link": "https://www.tmtpost.com/8169606.html",
-     "pubDate": "Thu, 15 Oct 2026 12:22:35 +0800",
-     "summary": "从宇树到Winverse AI，梁文锋的AGI路线图加速。",
-     "source": "钛媒体",
-     "zh": "梁文锋，又出手了"
-    },
-    {
      "title": "抖音、高德也能“开户”了？",
      "link": "https://www.huxiu.com/article/4897699.html?f=rss",
      "pubDate": "Thu, 15 Oct 2026 12:22:09 +0800",
@@ -1882,22 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "瑞典一综艺节目整季制作文件疑被 AI 智能体删除，团队只能从头重剪"
     },
     {
-     "title": "中层压缩背后，企业指挥系统的重构逻辑",
-     "link": "https://www.tmtpost.com/8169579.html",
-     "pubDate": "Thu, 15 Oct 2026 12:17:36 +0800",
-     "summary": "未来企业间的竞争，本质上是比拼精英人才的创意。",
-     "source": "钛媒体",
-     "zh": "中层压缩背后，企业指挥系统的重构逻辑"
-    },
-    {
-     "title": "茶百道IPO疑云，港股打新还能信吗？",
-     "link": "https://www.tmtpost.com/8169552.html",
-     "pubDate": "Thu, 15 Oct 2026 12:17:33 +0800",
-     "summary": "0.5倍认购的“虚假繁荣”如何骗过市场？",
-     "source": "钛媒体",
-     "zh": "茶百道IPO疑云，港股打新还能信吗？"
-    },
-    {
      "title": "一边爽一边骂，我们到底中了AI短剧什么毒？",
      "link": "https://www.huxiu.com/article/4897695.html?f=rss",
      "pubDate": "Thu, 15 Oct 2026 12:14:57 +0800",
@@ -1920,14 +1952,6 @@ window.INDUSTRY_DATA = {
      "summary": "Lee Ying Shan / CNBC : Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10% &nbsp; &mdash;&nbsp; A sell-off in global technology hardware stocks deepened Thursday, with Asian chipmakers tracking Wall",
      "source": "Techmeme",
      "zh": "Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10% (Lee Ying Shan/CNBC)"
-    },
-    {
-     "title": "昆仑万维发布世界首款消费级显卡视频大模型游戏，同步开源",
-     "link": "https://www.ithome.com/1/013/283.htm",
-     "pubDate": "Thu, 15 Oct 2026 04:00:28 GMT",
-     "summary": "IT之家 10 月 15 日消息，昆仑万维今日发布世界上第一款运行在单张消费级显卡上的视频大模型游戏 ——Matrix-Game 4.0。 昆仑万维介绍称，“Matrix-Game 4.0 构建起了游戏世界模型的新范式：由游戏引擎维护世界状态与交互规则，由视频生成模型实时呈现精细画面。它把 480p、60 FPS 的实时游戏体验，装进了一张 NVIDIA RTX 5090；从你按下按键，到画面做出反应，延迟低于 150 毫秒。Matrix-Game 4.0 首次跑通了‘代码生成游戏逻辑 → 结构画面提供结构约束 → 视频模型实时渲染’的完整闭环，让游戏原型开发、个性化定制与 UGC 从此拥有了",
-     "source": "IT之家",
-     "zh": "昆仑万维发布世界首款消费级显卡视频大模型游戏，同步开源"
     },
     {
      "title": "Sources: ByteDance is in advanced talks to buy data center ASICs from MediaTek, potentially becoming its second major customer for such chips after Google (Bloomberg)",
@@ -2250,52 +2274,36 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "华银电力：下半年火电发电空间有望改善 但盈利水平仍受煤价等外部因素影响",
-     "link": "http://finance.eastmoney.com/news/1354,202610153896668379.html",
-     "pubDate": "Thu, 15 Oct 2026 12:40:00 +0800",
-     "summary": "华银电力 在2026年半年度业绩说明会上表示，2026年6月起湖南火电容量电价上调，对火电业务形成支撑。下半年随着来水形势变化，火电发电空间有望改善，但盈利水平仍受煤价、用电负荷、 电力 市场价格等外部因素影响，存在不确定性。公司将强化燃料成本管控，优化 电力 交易，深挖降本增效潜力，全力提升经营质量。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "华银电力：下半年火电发电空间有望改善 但盈利水平仍受煤价等外部因素影响"
+     "title": "Equity Bancshares Non-GAAP EPS of $1.40 beats by $0.14, revenue of $83.74M misses by $6.98M",
+     "link": "https://seekingalpha.com/news/4653232-equity-bancshares-non-gaap-eps-of-140-beats-by-014-revenue-of-8374m-misses-by-698m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 00:56:41 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Equity Bancshares Non-GAAP EPS of $1.40 beats by $0.14, revenue of $83.74M misses by $6.98M"
     },
     {
-     "title": "苹果将开启“双11”促销，iPhone 18 Pro系列优惠300元，iPhone 17立减1000元",
-     "link": "http://finance.eastmoney.com/news/1354,202610153896668278.html",
-     "pubDate": "Thu, 15 Oct 2026 12:39:27 +0800",
-     "summary": "10月15日，中国证券报·中证金牛座记者从天猫 苹果 官方旗舰店获悉，天猫 苹果 官方旗舰店今年“双11”优惠活动将于10月20日开启，其中iPhone 18 Pro系列优惠300元，优惠后售价预估9699元起；iPhone 17立减1000元，“国补”最高再省500元，叠加优惠后售价预估5299元起。 天猫 苹果 官方旗舰店称，优惠活动时间为10月20日20点至11月13日，其准备了42万台iPhone 18 Pro系列以及11.1万台iPhone 17供用户购买。 研究机构Counterpoint数据显示，2026年三季度，全球智能手机市场出货量同比下降20%，存储持续短缺制约了大多数厂商",
-     "source": "东方财富股票",
-     "zh": "苹果将开启“双11”促销，iPhone 18 Pro系列优惠300元，iPhone 17立减1000元"
+     "title": "Educational Development GAAP EPS of -$0.19, revenue of $4.1M",
+     "link": "https://seekingalpha.com/news/4653230-educational-development-gaap-eps-of--019-revenue-of-41m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 00:51:03 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Educational Development GAAP EPS of -$0.19, revenue of $4.1M"
     },
     {
-     "title": "九州通在宜昌成立智慧医疗科技公司",
-     "link": "http://finance.eastmoney.com/news/1354,202610153896666586.html",
-     "pubDate": "Thu, 15 Oct 2026 12:39:22 +0800",
-     "summary": "企查查APP显示，近日， 九州通 智慧医疗科技（宜昌）有限公司成立，法定代表人为田超波，经营范围包含健康咨询服务（不含诊疗服务）；远程健康管理服务；第一类 医疗器械 销售；第二类 医疗器械 销售；可穿戴智能设备制造等。企查查股权穿透显示，该公司由 九州通 旗下 九州通 医疗健康科技有限公司全资持股。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "九州通在宜昌成立智慧医疗科技公司"
+     "title": "ByteDance taps MediaTek for custom data center chips - report",
+     "link": "https://seekingalpha.com/news/4653227-bytedance-taps-mediatek-for-custom-data-center-chips---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 00:49:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ByteDance taps MediaTek for custom data center chips - report"
     },
     {
-     "title": "传音控股港股上市首日破发，开盘价34.96港元/股",
-     "link": "http://finance.eastmoney.com/news/1354,202610153896667884.html",
-     "pubDate": "Thu, 15 Oct 2026 12:39:03 +0800",
-     "summary": "10月15日，“非洲手机之王” 传音控股 在港交所挂牌，实现“A+H”双重上市。公司H股开盘价报34.96港元/股，发行价35.3港元/股，开盘即破发。截至北京商报记者发稿，报33.8港元/股，总市值约418.4亿港元。 公司主要从事以手机为核心的智能终端的设计、研发、生产、销售和品牌运营。主要产品为TECNO、itel和Infinix三大品牌手机，销售区域主要集中在非洲、南亚、东南亚、中东和拉美等全球新兴市场国家。 财报显示，2026年上半年公司营收约354.31亿元，同比增长21.85%；归母净利润约17.73亿元，同比增长46.22%。 （文章来源：北京商报）",
-     "source": "东方财富股票",
-     "zh": "传音控股港股上市首日破发，开盘价34.96港元/股"
-    },
-    {
-     "title": "国产大模型再进一步，阶跃星辰旗舰大模型今日开源",
-     "link": "http://stock.eastmoney.com/news/1416,202610153896667391.html",
-     "pubDate": "Thu, 15 Oct 2026 12:38:49 +0800",
-     "summary": "10月15日，阶跃星辰新一代旗舰大模型Step 5 Preview正式开源。 阶跃星辰官网介绍，Step 5 Preview是一款面向真实世界Agentic任务的旗舰基座模型，在AI编程、软件工程、专业知识工作等任务上达到前沿水平，并在金融领域表现突出。Step 5 Preview采用稀疏MoE架构，总参数量600B，每个Token激活27B参数，可支持1M Token上下文窗口和视觉输入。 该款大模型已接入国内主流智能体办公平台。近日，阶跃星辰微信公众号宣布Step 5 Preview上线腾讯AI办公工作台WorkBuddy，可执行深度研究、信息检索、数据分析、文档与PPT生成等日常办公中的",
-     "source": "东方财富股票",
-     "zh": "国产大模型再进一步，阶跃星辰旗舰大模型今日开源"
-    },
-    {
-     "title": "宁德时代董事长曾毓群：储能告别“配角”时代，迈向新型基础设施新阶段",
-     "link": "http://finance.eastmoney.com/news/1354,202610153896668179.html",
-     "pubDate": "Thu, 15 Oct 2026 12:38:46 +0800",
-     "summary": "10月15日，2026世界储能大会在宁德举行， 宁德时代 董事长曾毓群出席活动并致辞。曾毓群表示，今年上半年，全球储能 电池 出货量同比增长71%。尤为值得注意的是，中国以外的市场占比首次超过一半。从欧美市场到拉美、东南亚、非洲等新兴市场，越来越多的国家和地区正大规模部署储能。 在曾毓群看来，比增速更值得关注的是储能在 电力 系统中角色的根本性转变。“过去十几年，全球能源转型成效显著，风光装机持续扩大，但发电稳定性挑战随之而来；与此同时，交通加速电气化，算力、AI、 数据中心 等新型负荷快速增长，对 电力 系统的可靠性和灵活性提出更高要求。” 在这一背景下，储能正从 新能源 的“配套设施”、电",
-     "source": "东方财富股票",
-     "zh": "宁德时代董事长曾毓群：储能告别“配角”时代，迈向新型基础设施新阶段"
+     "title": "Home BancShares Non-GAAP EPS of $0.65 in-line, revenue of $288.4M misses by $7.11M",
+     "link": "https://seekingalpha.com/news/4653229-home-bancshares-non-gaap-eps-of-065-in-line-revenue-of-2884m-misses-by-711m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 00:49:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Home BancShares Non-GAAP EPS of $0.65 in-line, revenue of $288.4M misses by $7.11M"
     },
     {
      "title": "险资加仓到了分歧点",
@@ -2344,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "Oil fell Thursday, as traders assessed attacks on ships passing through Hormuz, while digesting the International Energy Agency's latest monthly report.",
      "source": "CNBC",
      "zh": "Oil falls as investors assess Mideast tensions, International Energy Agency&apos;s report"
-    },
-    {
-     "title": "Anthropic Q3 revenue surges 45% to $16.8B ahead of expected IPO: report",
-     "link": "https://seekingalpha.com/news/4653225-anthropic-q3-revenue-surges-45-to-168b-ahead-of-expected-ipo-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 00:06:54 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anthropic Q3 revenue surges 45% to $16.8B ahead of expected IPO: report"
     },
     {
      "title": "算力用电激增，曾毓群称储能已是“不可或缺的新型基础设施”",
@@ -2408,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "America remains a very unequal place, but on many metrics inequality is not increasing",
      "source": "Financial Times",
      "zh": "Is the K-shaped economy really more of an E?"
-    },
-    {
-     "title": "Thursday’s Economic Calendar",
-     "link": "https://seekingalpha.com/news/4653046-thursdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 00:00:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Thursday’s Economic Calendar"
     },
     {
      "title": "“易中天”集体大跌 AI交易再度重挫 三大积极信号已显现！",
@@ -2488,6 +2480,38 @@ window.INDUSTRY_DATA = {
      "summary": "在美国公布全面超预期的CPI数据后，美联储10月加息概率有所上升，但不加息的概率仍然占据上风。但一位曾较早预测到美联储9月加息的预测人士提出了另一种可能： 12月份该央行可能会进行更大幅度、即50个基点的加息 。 市场研究机构Prestige Economics 的总裁Jason Schenker最新表示，他认为 美联储在本月的会议上不太可能提高基准利率 。相反， 他认为美联储可能会给9月的加息“一点喘息的空间”，然后再在12月考虑更大幅度的加息 。 “到了12月，如果9月加息之后，通胀仍未得到更有力、更实质性的遏制，美联储可能会选择加息50个基点，而不是25个基点，以便更大力度地压制通胀。”",
      "source": "东方财富资讯",
      "zh": "美联储12月或祭出50基点加息？资深预测人士：10月料按兵不动"
+    },
+    {
+     "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+     "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+     "pubDate": "Thu, 15 Oct 2026 01:07:01 GMT",
+     "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+     "source": "CNBC",
+     "zh": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount"
+    },
+    {
+     "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
+     "link": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 01:07:00 GMT",
+     "summary": "Anthropic’s revenue growth appears to be cooling as the company prepares for its public debut, further stoking investors’ AI jitters",
+     "source": "MarketWatch",
+     "zh": "Anthropic’s slowing growth could be the AI trade’s latest red flag"
+    },
+    {
+     "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+     "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
+     "pubDate": "Thu, 15 Oct 2026 00:59:36 GMT",
+     "summary": "Rapid growth is slower than some anticipated as fears about AI trade rattle markets",
+     "source": "Financial Times",
+     "zh": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO"
+    },
+    {
+     "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
+     "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 00:02:00 GMT",
+     "summary": "Neutron, a medium-lift rocket meant to rival SpaceX’s Falcon 9, will no longer launch this year.",
+     "source": "MarketWatch",
+     "zh": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch"
     }
    ]
   },

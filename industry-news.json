@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/16 02:29:54",
+ "generated_at": "2026/10/16 02:37:37",
  "recent_days": 7,
  "industries": [
   {
@@ -313,14 +313,6 @@
      "zh": "数据编排：下一代半导体企业的基础"
     },
     {
-     "title": "Fable: The Commonsense CEO",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-commonsense-ceo-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 13:23:11 +0000",
-     "summary": "There was once a mega-company which was in trouble – its market cap of $96 billion was down 80% from its value 18 years earlier. It had made an annual […] The post Fable: The Commonsense CEO appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "寓言：常识性的首席执行官"
-    },
-    {
      "title": "Why AI Security Starts at the Chip Level",
      "link": "https://semiwiki.com/eda/synopsys/374743-why-ai-security-starts-at-the-chip-level/",
      "pubDate": "Thu, 15 Oct 2026 13:00:07 +0000",
@@ -353,52 +345,12 @@
      "zh": "Luxnet第三季度利润创历史新高，产能扩张推动增长"
     },
     {
-     "title": "HEADS UP – Dstl trialling safe usage of head-mounted military technology",
-     "link": "https://www.electronicsweekly.com/news/research-news/heads-up-dstl-trialling-safe-usage-of-head-mounted-military-technology-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 11:02:02 +0000",
-     "summary": "The UK’s Defence Science and Technology Laboratory (Dstl) has been trialling – in a HEADS UP project – a human-centred design approach to novel technologies that are worn or carried. […] The post HEADS UP – Dstl trialling safe usage of head-mounted military technology appeared first on Electronics W",
-     "source": "Electronics Weekly",
-     "zh": "注意——Dstl 试验头戴式军事技术的安全使用"
-    },
-    {
-     "title": "Beyond software patching: how CHERI can limit the blast radius in long-life CNI systems",
-     "link": "https://www.electronicsweekly.com/news/business/beyond-software-patching-how-cheri-can-limit-the-blast-radius-in-long-life-cni-systems-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 11:00:53 +0000",
-     "summary": "Critical National Infrastructure (CNI) products may remain in service for 10 or even 20 years. During that time software changes, attack techniques evolve and regulation becomes more demanding, writes Jim […] The post Beyond software patching: how CHERI can limit the blast radius in long-life CNI sy",
-     "source": "Electronics Weekly",
-     "zh": "超越软件补丁：CHERI 如何限制长寿命 CNI 系统的爆炸半径"
-    },
-    {
      "title": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking",
      "link": "https://www.eetimes.com/small-volumes-big-impact-europes-hidden-role-in-advanced-chipmaking/",
      "pubDate": "Thu, 15 Oct 2026 10:54:08 +0000",
      "summary": "A Fraunhofer–IMS Nanofabrication partnership illustrates how Europe's low-volume semiconductor manufacturing can support the world's most advanced chipmaking. The post Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking appeared first on EE Times .",
      "source": "EE Times",
      "zh": "小批量，大影响：欧洲在先进芯片制造中的隐秘角色"
-    },
-    {
-     "title": "TSMC has $47bn revenue Q3",
-     "link": "https://www.electronicsweekly.com/news/business/tsmc-has-47bn-revenue-q3-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 10:08:57 +0000",
-     "summary": "TSMC reported Q3 revenues up 41.2% YoY and 17.2% QoQ at $46.72 billion Gross margin for the quarter was 66.4%, operating margin was 58.7%, and net profit margin was 51.1%. […] The post TSMC has $47bn revenue Q3 appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "台积电第三季度营收470亿美元"
-    },
-    {
-     "title": "UK Space Agency backs UK ADR mission for space debris removal",
-     "link": "https://www.electronicsweekly.com/news/uk-space-agency-backs-uk-adr-mission-for-space-debris-removal-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 10:01:03 +0000",
-     "summary": "The UK Space Agency (UKSA) is backing an Active Debris Removal (ADR) mission to remove two defunct satellites and release them lower into the atmosphere where they will naturally burn […] The post UK Space Agency backs UK ADR mission for space debris removal appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "英国航天局支持英国 ADR 清除空间碎片任务"
-    },
-    {
-     "title": "Get the Gadget Master newsletter!",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/general/sign-up-for-the-newsletter-2-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 09:49:29 +0000",
-     "summary": "Ensure you receive the latest and greatest Gadget Master posts, hot and fresh, straight into your inbox! The post Get the Gadget Master newsletter! appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "获取小工具大师时事通讯！"
     },
     {
      "title": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform",
@@ -495,6 +447,54 @@
      "summary": "Benchmark Electronics combines engineering expertise, workforce development, and flexible production to expand high-mix electronics manufacturing across Thailand. The post Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Benchmark Electronics 的泰国业务专注于多品种制造"
+    },
+    {
+     "title": "CTO Interview with Sirish Munipalli of Moores Lab AI",
+     "link": "https://semiwiki.com/eda/moores-lab-ai/374851-cto-interview-with-sirish-munipalli-of-moores-lab-ai/",
+     "pubDate": "Wed, 14 Oct 2026 19:00:50 +0000",
+     "summary": "Sirish Munipalli is Co-Founder and CTO of Moores Lab AI, where he leads the development of agentic AI for chip design verification, including SpecAgent(tm), the company’s specification and modeling platform. He has spent about 15 years designing and verifying complex silicon: FPGA prototyping at Int",
+     "source": "SemiWiki",
+     "zh": "Moores Lab AI 首席技术官 Sirish Munipalli 专访"
+    },
+    {
+     "title": "Beyond Lithography: 3D Scaling Puts New Demands on Materials",
+     "link": "https://www.eetimes.com/beyond-lithography-3d-scaling-puts-new-demands-on-materials/",
+     "pubDate": "Wed, 14 Oct 2026 18:29:24 +0000",
+     "summary": "ASM International shows how building increasingly complex 3D devices requires advances in materials and processes. The post Beyond Lithography: 3D Scaling Puts New Demands on Materials appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "超越光刻：3D 缩放对材料提出了新要求"
+    },
+    {
+     "title": "What DARPA Taught Me About Building Trust into Silicon",
+     "link": "https://semiwiki.com/eda/374529-what-darpa-taught-me-about-building-trust-into-silicon/",
+     "pubDate": "Wed, 14 Oct 2026 17:00:34 +0000",
+     "summary": "By Sajeed Mohammad The most memorable slide I ever saw in a chip design review didn’t show a floorplan. It showed a target. The Defense Advanced Research Projects Agency (DARPA) program manager running AISS, Automatic Implementation of Secure Silicon , the program that funded my majority of PhD rese",
+     "source": "SemiWiki",
+     "zh": "DARPA 教我如何在硅中建立信任"
+    },
+    {
+     "title": "AVL and VisIC extend collaboration to high-power GaN traction inverter technology",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/visic-141026.shtml",
+     "pubDate": "Wed, 14 Oct 2026 13:10:59 +0100",
+     "summary": "VisIC Technologies Ltd of Ness Ziona, Israel — a fabless supplier of power conversion devices based on gallium nitride (GaN) transistors — and mobility technology company AVL are advancing their collaboration with the integration of VisIC’s D3GaN power module technology into AVL’s vehicle demonstrat",
+     "source": "Semiconductor Today",
+     "zh": "AVL 和 VisIC 将合作扩展到高功率 GaN 牵引逆变器技术"
+    },
+    {
+     "title": "Tower and Semtech expand SiGe partnership to scale power-efficient analog connectivity for data centers",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/tower-semtech-141026.shtml",
+     "pubDate": "Wed, 14 Oct 2026 12:34:48 +0100",
+     "summary": "Specialty analog foundry Tower Semiconductor Ltd of Migdal Haemek, Israel and high-performance semiconductor, Internet of Things (IoT) system and cloud connectivity service provider Semtech Corp of Camarillo, CA, USA have agreed to expand their 20-year partnership. Semtech will invest in securing de",
+     "source": "Semiconductor Today",
+     "zh": "Tower 和 Semtech 扩大 SiGe 合作伙伴关系，以扩展数据中心的节能模拟连接"
+    },
+    {
+     "title": "Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over-optics for AI rack-scale connectivity at OCP Global Summit",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/lumentum-131026.shtml",
+     "pubDate": "Tue, 13 Oct 2026 18:14:35 +0100",
+     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers), Astera Labs Inc (which provides rack-scale AI infrastructure through purpose-built connectivity solutions) and Corning Inc are giving a joint demonstration of PCIe-over",
+     "source": "Semiconductor Today",
+     "zh": "Lumentum、Astera Labs 和康宁在 OCP 全球峰会上演示用于 AI 机架规模连接的基于 1060nm VCSEL 的 PCIe-over-optics"
     }
    ]
   },
@@ -504,6 +504,14 @@
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "Closing the Loop: How Automated Plants Turn Wastewater into Process Water",
+     "link": "https://roboticsandautomationnews.com/2026/10/15/closing-the-loop-how-automated-plants-turn-wastewater-into-process-water/105965/",
+     "pubDate": "Thu, 15 Oct 2026 18:30:21 +0000",
+     "summary": "Water is the utility most automation projects overlook. A plant that has instrumented every conveyor, robot cell and packaging line still sends its rinse water, cooling tower blowdown and process effluent to drain, then buys fresh water to replace it. Industrial water reuse changes that. Treated eff",
+     "source": "Robotics & Automation",
+     "zh": "闭环：自动化工厂如何将废水转化为工艺用水"
+    },
     {
      "title": "The Pricing Models White Label SEO Agencies Use and What They Mean",
      "link": "https://roboticsandautomationnews.com/2026/10/15/the-pricing-models-white-label-seo-agencies-use-and-what-they-mean/105961/",
@@ -567,14 +575,6 @@
      "summary": "Nyobolt is providing power technology for Digit 5 that enables Agility's humanoid to work up to 20 hours a day. The post Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "Agility 选择 Nyobolt 为 Digit 5 人形机器人进行超快速充电"
-    },
-    {
-     "title": "Dubai Police adds 920-horsepower hybrid Lamborghini Temerario to patrol fleet",
-     "link": "https://roboticsandautomationnews.com/2026/10/14/dubai-police-adds-920-horsepower-hybrid-lamborghini-temerario-to-patrol-fleet/105932/",
-     "pubDate": "Wed, 14 Oct 2026 18:32:42 +0000",
-     "summary": "Dubai Police has added a Lamborghini Temerario hybrid supercar to its luxury patrol fleet, continuing the force’s practice of deploying high-performance vehicles at tourist destinations and other busy areas across the emirate. Introduced in partnership with Lamborghini Abu Dhabi and Dubai, the Temer",
-     "source": "Robotics & Automation",
-     "zh": "迪拜警察巡逻队增加 920 马力混合动力兰博基尼 Temerario"
     },
     {
      "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
@@ -1078,7 +1078,7 @@
      "pubDate": "Thu, 15 Oct 2026 11:10:50 +0000",
      "summary": "Metals and energy group Metlen and conglomerate Karatzis Group have inaugurated the largest BESS in Greece, in a ceremony attended by the country’s Prime Minister.",
      "source": "Energy Storage News",
-     "zh": "希腊总理表示“储能应与可再生能源并驾齐驱”，Metlen 和 Karatzis 启用 790MWh BESS"
+     "zh": "希腊总理表示“储能应与可再生能源并驾齐驱”，Metlen 和 Karatzis 启动 790MWh BESS"
     }
    ]
   },
@@ -1246,7 +1246,7 @@
      "pubDate": "Wed, 14 Oct 2026 18:00:48 +0000",
      "summary": "A small-molecule therapy, VG-3927, targeting microglial TREM2 signaling showed neuroprotective effects in preclinical studies for Alzheimer's disease and was well tolerated in a Phase I trial. The post Alzheimer’s Small-Molecule Therapy Shows Promise in Mice and Early Human Trial appeared first on G",
      "source": "GEN",
-     "zh": "阿尔茨海默病小分子疗法在小鼠和早期人体试验中显示出前景"
+     "zh": "阿尔茨海默氏症小分子疗法在小鼠和早期人体试验中显示出前景"
     },
     {
      "title": "Preterm Birth for Some Women Linked to Specific Autoantibodies",
@@ -1342,7 +1342,7 @@
      "pubDate": "Thu, 15 Oct 2026 15:57:47 +0000",
      "summary": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Arte",
      "source": "NASA",
-     "zh": "NASA 奖项支持研究和技术打造未来劳动力"
+     "zh": "NASA 奖项使研究和技术能够打造未来的劳动力"
     },
     {
      "title": "How NASA is thinking about a moon base",
@@ -1478,7 +1478,7 @@
      "pubDate": "Tue, 13 Oct 2026 14:07:50 +0000",
      "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
      "source": "Spaceflight Now",
-     "zh": "SpaceX 将 NASA 科学和货物发射到国际空间站"
+     "zh": "SpaceX 将 NASA 科学和货物运送到国际空间站"
     },
     {
      "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
@@ -2009,6 +2009,30 @@
    "total": 7,
    "items": [
     {
+     "title": "Verizon emphasizes its free safety, family, and AI perks",
+     "link": "https://www.gsmarena.com/verizon_emphasizes_its_free_safety_family_and_ai_perks-news-75054.php",
+     "pubDate": "Thu, 15 Oct 2026 20:31:02 +0200",
+     "summary": "Verizon wants its customers to know they're getting more than just network access, and today it has listed all the perks that come with its plans at no extra cost. These cover safety, family, AI, and loyalty rewards, and some of them you may not have noticed so far. On the safety front, the free tie",
+     "source": "GSMArena",
+     "zh": "Verizon 强调其免费的安全、家庭和人工智能福利"
+    },
+    {
+     "title": "Riot will sunset League of Legends Classic in January 2027",
+     "link": "https://www.engadget.com/2287985/riot-will-sunset-league-of-legends-classic-in-january-2027/",
+     "pubDate": "Thu, 15 Oct 2026 18:30:08 +0000",
+     "summary": "The throwback League of Legends Classic mode may reappear as a limited-time event in the future.",
+     "source": "Engadget",
+     "zh": "Riot 将于 2027 年 1 月取消英雄联盟经典赛"
+    },
+    {
+     "title": "Alexa Tablet 12 Pro review: Amazon's premium tablet gets almost everything right",
+     "link": "https://www.engadget.com/2287955/amazon-alexa-tablet-12-pro-review/",
+     "pubDate": "Thu, 15 Oct 2026 18:30:00 +0000",
+     "summary": "This tablet is a great value, even if Android apps still aren't great on a big screen.",
+     "source": "Engadget",
+     "zh": "Alexa Tablet 12 Pro 评测：亚马逊的优质平板电脑几乎一切都好"
+    },
+    {
      "title": "This gaming phone gives Qualcomm’s latest powerhouse the liquid-cooling treatment",
      "link": "https://www.androidauthority.com/redmagic-12-pro-snapdragon-8-elite-extreme-gen-6-3723955/",
      "pubDate": "Thu, 15 Oct 2026 18:16:33 +0000",
@@ -2150,7 +2174,7 @@
      "pubDate": "Thu, 15 Oct 2026 17:49:02 +0200",
      "summary": "The Samsung Galaxy Z Fold8 has been a pretty popular device, but Samsung has faced several issues in meeting consumer demand. On top of battling rising storage and RAM prices, Samsung has apparently hit a third bottleneck - display driver integrated circuits (DDIs). Display panel operation diagram (",
      "source": "GSMArena",
-     "zh": "报告：三星正在扩大其显示驱动芯片供应商池"
+     "zh": "报告：三星正在扩大其显示驱动芯片供应商库"
     },
     {
      "title": "Deals: Samsung Week 2026 now live, Galaxy Book 6 $500 off, Moto Tag 2 trackers from $17.50 each, OLED Chromebook, more",
@@ -2217,36 +2241,12 @@
      "zh": "动手实践：Pokémon x Beats Pill 是我最喜欢的合作作品之一 [视频]"
     },
     {
-     "title": "Opera's lightweight Air browser is back, unbothered, moisturized, in its lane",
-     "link": "https://www.engadget.com/2287546/operas-lightweight-air-browser-is-back-unbothered-moisturized-in-its-lane/",
-     "pubDate": "Thu, 15 Oct 2026 14:17:22 +0000",
-     "summary": "Namaste.",
-     "source": "Engadget",
-     "zh": "Opera 的轻量级 Air 浏览器又回来了，不受干扰，滋润，在它的车道上"
-    },
-    {
-     "title": "Tesla Roadster reveal live: Updates from the launch of the next-gen sportscar",
-     "link": "https://www.engadget.com/2287518/tesla-roadster-launch-live-blog/",
-     "pubDate": "Thu, 15 Oct 2026 14:01:51 +0000",
-     "summary": "Elon Musk has been saying the demo might be a literal \"banger.\"",
-     "source": "Engadget",
-     "zh": "特斯拉 Roadster 现场揭晓：下一代跑车发布的最新消息"
-    },
-    {
      "title": "Fujifilm’s SuperCCD EXR didn’t take off, but its legacy might live on in your pocket",
      "link": "https://www.dpreview.com/articles/fujifilms-superccd-exr-didnt-take-off-but-its-legacy-might-live-on-in-your-pocket/",
      "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
      "summary": "For Throwback Thursday we look at the Fujifilm F200 EXR, an overlooked compact whose ideas live on in modern smartphones",
      "source": "DPReview",
      "zh": "富士胶片的 SuperCCD EXR 并未成功，但它的遗产可能会留在你的口袋里"
-    },
-    {
-     "title": "Samsung Galaxy A27, A37, A36, and A56 are receiving One UI 9 stable update",
-     "link": "https://www.gsmarena.com/samsung_galaxy_a27_galaxy_a37_one_ui_9_stable_update-news-75056.php",
-     "pubDate": "Thu, 15 Oct 2026 15:39:02 +0200",
-     "summary": "After rolling out the Android 17-based One UI 9 stable update for the Galaxy S23 series, Galaxy Z Fold5, and Galaxy Z Flip5, Samsung has now released stable One UI 9 for the Galaxy A27, Galaxy A37, Galaxy A36, and Galaxy A56. The stable One UI 9 update for the Galaxy A27 comes with firmware version ",
-     "source": "GSMArena",
-     "zh": "三星 Galaxy A27、A37、A36 和 A56 正在接收 One UI 9 稳定更新"
     }
    ]
   },
@@ -2256,6 +2256,14 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "美股三大指数震荡走高 道指涨超1% 可口可乐盘中创历史新高",
+     "link": "http://finance.eastmoney.com/news/1345,202610153897165893.html",
+     "pubDate": "Fri, 16 Oct 2026 02:27:13 +0800",
+     "summary": "美东时间周四，美股三大指数震荡走高，截至发稿，道指涨0.87%，纳指跌0.44%，标普500指数微涨0.01%。 存储股跌幅多数收窄后再度走阔， 截至发稿， 美光科技 跌1.09%， SK海力士 ADR跌2.90%， 闪迪 跌4.10%， 希捷科技 跌5.81%， 西部数据 跌5.58%。 可口可乐 上涨0.65%，报92.38美元/股，总市值约3974亿美元，盘中一度创 历史新高 。 全球要闻 美国9月PPI同比增长6.3% 远超市场预期 美国9月PPI同比增长6.3%，预估5.3%，前值5.4%。美国9月PPI环比增长1.3%，预估0.6%。美国9月零售销售环比增长0.8%，预估为0.3%",
+     "source": "东方财富股票",
+     "zh": "美股三大指数震荡走高 道指涨超1% 可口可乐盘中创历史新高"
+    },
     {
      "title": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
      "link": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
@@ -2270,7 +2278,7 @@
      "pubDate": "Thu, 15 Oct 2026 14:24:00 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "瑞穗Array Technologies升级，因现金担忧似乎过度"
+     "zh": "由于现金担忧似乎过度，瑞穗阵列技术公司升级"
     },
     {
      "title": "大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘",
@@ -2294,7 +2302,7 @@
      "pubDate": "Thu, 15 Oct 2026 14:16:30 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "沃尔沃扩大与 NVIDIA 在自动驾驶领域的合作伙伴关系"
+     "zh": "沃尔沃扩大与 NVIDIA 在自动驾驶方面的合作伙伴关系"
     },
     {
      "title": "Meta, Apple come together to let developers run large AI model on Mac",
@@ -2385,60 +2393,12 @@
      "zh": "IEA成员国将尽快释放逾2000万桶柴油 以应对全球燃料价格飙升"
     },
     {
-     "title": "化工下游企业多方施策对冲成本压力",
-     "link": "http://www.eeo.com.cn/2026/1016/1065950.shtml",
-     "pubDate": "Fri, 16 Oct 2026 01:52:10 +0800",
-     "summary": "工业硫磺是化工领域重要基础原料，经转化为硫酸后，可广泛应用于磷肥、钛白粉、锂电材料、有色冶炼、橡胶助剂等众多领域，串联起农业生产、新能源、传统化工等多条关键产业链。 今年以来，国内工业硫磺市场价格一度大幅走高且行情波动明显。据大宗商品数据服务商生意社监测数据，年初，硫磺市场基准报价约3850元/吨，处于行业主流成交区。受进口货源收紧推动，硫磺价格自2月底开启快速拉升，6月，华东港口固体硫磺现货少...",
-     "source": "经济观察网",
-     "zh": "化工下游企业多方施策对冲成本压力"
-    },
-    {
-     "title": "保险销售人员将拥有信用档案 四大类信息纳入记录",
-     "link": "http://www.eeo.com.cn/2026/1016/1065951.shtml",
-     "pubDate": "Fri, 16 Oct 2026 01:52:09 +0800",
-     "summary": "记者从业内了解到，近日，中国保险行业协会印发《保险销售人员信用档案建设办法》（以下简称《办法》），《办法》将于2027年1月1日开始实施。届时，与保险销售人员信用相关的四大类信息将被一一记录在案，包括基础信息、职业状况信息、信用评价信息和公共信用信息。 “为保险销售人员建立信用档案，本质上是把‘最大诚信’原则变成可量化、可异议、可修复、可携带的职业信用资产，而不是等到出事才进黑名单。”对外经济贸...",
-     "source": "经济观察网",
-     "zh": "保险销售人员将拥有信用档案 四大类信息纳入记录"
-    },
-    {
-     "title": "从“打基础”转向“求深化” 证券业进一步深化文化建设",
-     "link": "http://www.eeo.com.cn/2026/1016/1065949.shtml",
-     "pubDate": "Fri, 16 Oct 2026 01:52:08 +0800",
-     "summary": "10月15日，《证券日报》记者从券商处获悉，为推动证券行业大力弘扬和践行中国特色金融文化，明确“十五五”时期行业文化建设目标任务，中国证券业协会起草形成《中国证券业协会关于进一步深化证券行业文化建设工作的意见》（以下简称《意见》），目前正面向各券商征求意见。 自2019年证券基金行业文化建设动员大会召开以来，证券行业先后历经基础建设、试点落地、全面推进、强化巩固等阶段，行业文化建设已经从“打基础”...",
-     "source": "经济观察网",
-     "zh": "从“打基础”转向“求深化” 证券业进一步深化文化建设"
-    },
-    {
-     "title": "北上广深等七城落地细则 商品住房销售制度改革有序推进",
-     "link": "http://www.eeo.com.cn/2026/1016/1065947.shtml",
-     "pubDate": "Fri, 16 Oct 2026 01:52:06 +0800",
-     "summary": "10月15日，深圳市住房和建设局、深圳市规划和自然资源局、国家金融监督管理总局深圳监管局发布《关于贯彻落实的实施意见》，明确完善商品住房预售管理、有序推进现房销售、推行主办银行制度、加大融资支持力度、优化土地供应管理、强化质量监管与市场规范等方面政策措施，对住房城乡建设部、自然资源部、金融监管总局此前联合印发的《关于完善商品住房销售制度的通知》（以下简称《通知》）进行贯彻落实。 《证券日报》记...",
-     "source": "经济观察网",
-     "zh": "北上广深等七城落地细则 商品住房销售制度改革有序推进"
-    },
-    {
-     "title": "9月中国公路物流运价指数环比回升0.14% 公路运输市场更趋活跃",
-     "link": "http://www.eeo.com.cn/2026/1016/1065948.shtml",
-     "pubDate": "Fri, 16 Oct 2026 01:52:05 +0800",
-     "summary": "10月15日，中国物流与采购联合会和林安物流集团联合调查发布数据显示，9月，中国公路物流运价指数为105.1点，环比回升0.14%，同比回升0.06%。从月内看，第一周运价指数环比有所回升，第二周至第四周运价指数环比有所回落。 中国物流信息中心分析师高帅对《证券日报》记者表示，9月，季节性影响因素逐步减弱，公路运输市场相较前期更趋活跃，运价指数和各车型指数环比均有所回升。但由于市场整体供强需弱特点和“内卷”现...",
-     "source": "经济观察网",
-     "zh": "9月中国公路物流运价指数环比回升0.14% 公路运输市场更趋活跃"
-    },
-    {
      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
      "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
      "pubDate": "Thu, 15 Oct 2026 17:52:00 GMT",
      "summary": "Spending all your cash first can make your income surge in later years.",
      "source": "MarketWatch",
      "zh": "我们的退休金花销顺序正确吗？我们的计划是：社会保障、年金、现金——然后是 IRA。"
-    },
-    {
-     "title": "美股三大指数震荡走高 道指涨超1% 可口可乐盘中创历史新高",
-     "link": "http://finance.eastmoney.com/news/1345,202610153897165893.html",
-     "pubDate": "Fri, 16 Oct 2026 01:48:37 +0800",
-     "summary": "美东时间周四，美股三大指数震荡走高，截至发稿，道指涨1.02%，纳指跌0.05%，标普500指数涨0.28%。 存储股跌幅普遍收窄， 美光科技 盘中一度跌超6%后基本收复失地。截至发稿， 美光科技 基本持平， SK海力士 ADR跌2.33%， 闪迪 跌3.76%， 希捷科技 跌5.35%， 西部数据 跌4.70%。 可口可乐 上涨0.38%，报92.13美元/股，总市值约3964亿美元，盘中一度创 历史新高 。 全球要闻 美国9月PPI同比增长6.3% 远超市场预期 美国9月PPI同比增长6.3%，预估5.3%，前值5.4%。美国9月PPI环比增长1.3%，预估0.6%。美国9月零售销售环比增",
-     "source": "东方财富股票",
-     "zh": "美股三大指数震荡走高 道指涨超1% 可口可乐盘中创历史新高"
     },
     {
      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
@@ -2473,14 +2433,6 @@
      "zh": "股市人工智能紧缩的风险正在上升"
     },
     {
-     "title": "恒大冰泉声明：与部分标注“恒大”等商标的饮用水产品生产企业不存在任何关系",
-     "link": "http://www.eeo.com.cn/2026/1016/1065940.shtml",
-     "pubDate": "Fri, 16 Oct 2026 00:52:07 +0800",
-     "summary": "本文来源：时代财经 10月15日，恒大冰泉公众号发文，就近期市场监督管理部门发布的食品安全监督抽检信息通告中，部分以“恒大”“恒大山泉”“恒大清风”等为商标的饮用水产品被检出不合格（不合格项目主要为铜绿假单胞菌、耗氧量）事项进行回应。 据相关市场监督管理部门通告，“恒大清风”饮用天然泉水、“恒大牌”17升桶装饮用纯净水、“恒大山泉”饮用天然泉水等产品均抽检不合格。其中，最新一批抽检不合格产...",
-     "source": "经济观察网",
-     "zh": "恒大冰泉声明：与部分标注“恒大”等商标的饮用水产品生产企业不存在任何关系"
-    },
-    {
      "title": "Treasuries rally as investors seek shelter from AI turbulence",
      "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
      "pubDate": "Thu, 15 Oct 2026 16:23:48 GMT",
@@ -2495,6 +2447,54 @@
      "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
      "source": "CNBC",
      "zh": "人工智能资金担忧导致全球科技股暴跌，英伟达、AMD、戴尔遭抛售"
+    },
+    {
+     "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+     "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+     "pubDate": "Thu, 15 Oct 2026 16:15:44 GMT",
+     "summary": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
+     "source": "CNBC",
+     "zh": "9月份批发价格同比上涨6.3%，创2022年以来最大涨幅"
+    },
+    {
+     "title": "Economists: Hot PPI shows Fed&apos;s work is not done",
+     "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+     "pubDate": "Thu, 15 Oct 2026 15:37:59 GMT",
+     "summary": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+     "source": "CNBC",
+     "zh": "经济学家：PPI过热表明美联储的工作尚未完成"
+    },
+    {
+     "title": "Ramp hits $60bn valuation",
+     "link": "https://www.finextra.com/newsarticle/48591/ramp-hits-60bn-valuation?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 15 Oct 2026 15:35:00 GMT",
+     "summary": "Expense management firm Ramp has closed its second major raise in a matter of months, securing $1.85 billion in a primary financing round led by Dragoneer Investment Group that values the company at $60 billion.",
+     "source": "Finextra",
+     "zh": "Ramp估值达到600亿美元"
+    },
+    {
+     "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’",
+     "link": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1",
+     "pubDate": "Thu, 15 Oct 2026 15:25:47 GMT",
+     "summary": "Debt issued by AI infrastructure providers and neocloud companies has sunk towards stressed territory",
+     "source": "Financial Times",
+     "zh": "由于人工智能借款人面临“达尔文时刻”，投资者抛售数据中心债券"
+    },
+    {
+     "title": "Mastercard and BVNK bring fiat and stablecoin payments together in global money platform",
+     "link": "https://www.finextra.com/newsarticle/48590/mastercard-and-bvnk-bring-fiat-and-stablecoin-payments-together-in-global-money-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 15 Oct 2026 15:17:00 GMT",
+     "summary": "Mastercard has launched a platform that brings together its global payments capabilities with the stablecoin infrastructure of its recently acquired BVNK unit through a single API.",
+     "source": "Finextra",
+     "zh": "万事达卡和 BVNK 在全球货币平台上整合法定货币和稳定币支付"
+    },
+    {
+     "title": "AI担忧刺激美股轮动，标普道指反弹，芯片指数一度跌超4%，CoreWeave信用风险创新高",
+     "link": "https://wallstreetcn.com/articles/3783663",
+     "pubDate": "Thu, 15 Oct 2026 23:16:24 +0800",
+     "summary": "科技股遭遇大规模抛售，AI交易降温引发美股轮动以及投资者转向美国国债避险，美债收益率大幅回落。与此同时，强劲的经济数据进一步巩固了美联储维持高利率的预期，令市场承压。 周四三大美股指涨跌不一，低开的纳指保持跌势，投资者转投非AI类股怀抱，标普和道指反弹。Anthropic财报显示增长势头有所放缓，加剧了市场对AI资本支出周期持续性的疑虑，进一步打压科技板块情绪。芯片股和光通信股等AI热潮的受益者继续下挫，费城半导体指数早盘曾跌超4%。 云计算服务商CoreWeave不但股价重挫，而且信用风险指标创历史新高，凸显AI领域融资风险。在公司第二大股东英伟达的CEO 黄仁勋发声安抚市场 后，CoreW",
+     "source": "华尔街见闻",
+     "zh": "AI担忧刺激美股轮动，标普道指反弹，芯片指数一度跌超4%，CoreWeave信用风险创新高"
     }
    ]
   },
@@ -2622,7 +2622,7 @@
      "pubDate": "Thu, 15 Oct 2026 01:28:14 EDT",
      "summary": "Strokes are becoming alarmingly common among younger adults, with rates nearly doubling among people ages 20 to 54 over nearly three decades. Researchers found that blocked blood vessels in the brain accounted for much of the increase, while high blood pressure, diabetes, and substance use also beca",
      "source": "ScienceDaily",
-     "zh": "年轻人中风的发生率几乎翻倍，科学家不确定原因"
+     "zh": "年轻人中风的几率几乎翻倍，科学家们不确定原因"
     },
     {
      "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
@@ -2630,7 +2630,7 @@
      "pubDate": "Thu, 15 Oct 2026 00:14:55 EDT",
      "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains very low, Rutgers researchers say the findings warrant attention as millions of peop",
      "source": "ScienceDaily",
-     "zh": "Ozempic 和 Wegovy 与突发视力丧失的罕见风险有关"
+     "zh": "Ozempic 和 Wegovy 与罕见的突然视力丧失风险有关"
     },
     {
      "title": "Q&A: The “collision” between AI, your brain, and society",

@@ -218,14 +218,6 @@ window.INDUSTRY_DATA = {
      "zh": "顶级华人白帽黑客，加盟智谱"
     },
     {
-     "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
-     "link": "https://www.qbitai.com/2026/10/503303.html",
-     "pubDate": "Thu, 15 Oct 2026 01:56:20 +0000",
-     "summary": "给企业Agent打了个样",
-     "source": "量子位",
-     "zh": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元"
-    },
-    {
      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
      "pubDate": "Thu, 15 Oct 2026 01:01:32 +0000",

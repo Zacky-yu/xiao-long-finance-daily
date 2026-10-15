@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/16 06:49:41",
+ "generated_at": "2026/10/16 07:09:44",
  "recent_days": 7,
  "industries": [
   {
@@ -649,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Europe’s EV sales soar as North America drops 44% – here’s the catch",
+     "link": "https://electrek.co/2026/10/15/europes-ev-sales-soar-as-north-america-drops-44-heres-the-catch/",
+     "pubDate": "Thu, 15 Oct 2026 23:01:00 +0000",
+     "summary": "Europe’s EV sales just posted a record September, as global market growth shifts toward Europe and beyond its largest established markets. more…",
+     "source": "Electrek",
+     "zh": "欧洲电动汽车销量飙升，而北美销量却下降 44%——问题就在这里"
+    },
+    {
      "title": "Company that put gas engines in Teslas goes bankrupt owing $37 million",
      "link": "https://electrek.co/2026/10/15/obrist-hyperhybrid-gas-engine-tesla-bankruptcy/",
      "pubDate": "Thu, 15 Oct 2026 21:26:12 +0000",
@@ -703,14 +711,6 @@
      "summary": "Tesla’s latest crash reports to federal regulators add two more “Robotaxi” crashes where a remote operator, not the car’s autonomous system, was driving when it hit something. That brings it to five in the data now. And every remote takeover that has shown up in a Tesla crash report has ended in a c",
      "source": "Electrek",
      "zh": "数据显示，特斯拉远程操作员不断导致其“机器人出租车”崩溃"
-    },
-    {
-     "title": "BYD’s electric luxury GT will get a major update for Europe in 2027",
-     "link": "https://electrek.co/2026/10/15/byds-electric-luxury-gt-major-update-europe-2027/",
-     "pubDate": "Thu, 15 Oct 2026 15:58:09 +0000",
-     "summary": "BYD used the Denza Z9 GT to showcase its latest breakthrough technology, including its 5-minute Flash Charging. Next year, the luxury GT will get another major update in Europe. more…",
-     "source": "Electrek",
-     "zh": "比亚迪电动豪华GT将于2027年在欧洲进行重大更新"
     },
     {
      "title": "China launches joint probe into Maextro V800 brake pedal bracket failures",
@@ -841,6 +841,14 @@
    "total": 9,
    "items": [
     {
+     "title": "The Diesel Crunch Will Persist Well into 2027",
+     "link": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crunch-Will-Persist-Well-into-2027.html",
+     "pubDate": "Thu, 15 Oct 2026 18:00:00 -0500",
+     "summary": "The recent rise in crude oil flows out of the Strait of Hormuz isn’t solving the world’s most pressing fuel problem—the diesel crunch and record diesel prices that start to feed into the wider economy. While Middle East crude oil flows are nearing pre-war levels, global diesel supply is much lower d",
+     "source": "OilPrice",
+     "zh": "柴油紧缺将持续到 2027 年"
+    },
+    {
      "title": "Exxon’s Oil Boom Could Keep Guyana’s Gas at Home",
      "link": "https://oilprice.com/Energy/Natural-Gas/Exxons-Oil-Boom-Could-Keep-Guyanas-Gas-at-Home.html",
      "pubDate": "Thu, 15 Oct 2026 17:00:00 -0500",
@@ -887,14 +895,6 @@
      "summary": "U.S. Secretary of State Marco Rubio will meet the foreign ministers of the Central Asian republics - Kazakhstan, the Kyrgyz Republic, Tajikistan, Turkmenistan, and Uzbekistan - in Samarkand, Uzbekistan on 19 October 2026. Rubio will be accompanied by a delegation of more than 100 U.S. companies. Was",
      "source": "OilPrice",
      "zh": "美国在重大贸易推动中瞄准中亚能源和关键矿产"
-    },
-    {
-     "title": "IEA Speeds Emergency Oil Release",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Speeds-Emergency-Oil-Release.html",
-     "pubDate": "Thu, 15 Oct 2026 14:00:00 -0500",
-     "summary": "The International Energy Agency will release more than 20 million barrels of diesel as soon as possible and accelerate the rest of its emergency oil draw, Total releases are now set to exceed the 400 million barrels pledged in March. About 330 million barrels have already been released since the Str",
-     "source": "OilPrice",
-     "zh": "国际能源署加快紧急石油释放"
     },
     {
      "title": "Ghost Of Thanos Lingers Over Elon Musk’s Howard Stark Moment",
@@ -1761,6 +1761,30 @@
    "total": 18,
    "items": [
     {
+     "title": "蚂蚁百灵开源 Ling-3.1-flash AI 模型，最高支持 1M 上下文",
+     "link": "https://www.ithome.com/1/013/700.htm",
+     "pubDate": "Thu, 15 Oct 2026 22:58:04 GMT",
+     "summary": "IT之家 10 月 16 日消息，蚂蚁百灵昨日宣布开源 Ling-3.1-flash 模型，Ling-3.1-flash 总参数约 560B，每个 Token 激活约 25B，最高支持 1M 上下文。 在 Artificial Analysis 的公开评测中，Ling-3.1-flash 的智能指数为 41、输出速度约为每秒 210 Token。 针对本地部署，团队对 routed experts 采用 MXFP4 量化、dense 层保持 block-FP8，权重占用从约 534GB 降至 292GB 。在对应的 Hopper GPU 测试配置中，服务部署由 8 卡降至 4 卡 ，让具备服务",
+     "source": "IT之家",
+     "zh": "蚂蚁百灵开源 Ling-3.1-flash AI 模型，最高支持 1M 上下文"
+    },
+    {
+     "title": "保时捷发布 Mission S 概念车：定位高于 911，正开发新中置引擎超跑平台",
+     "link": "https://www.ithome.com/1/013/699.htm",
+     "pubDate": "Thu, 15 Oct 2026 22:54:13 GMT",
+     "summary": "IT之家 10 月 16 日消息，保时捷今天（10 月 16 日）在微博发布公告， 宣布在纽约发布前瞻概念车 Mission S，首次展示品牌未来设计语言，并宣布将开发一款定位高于 911 的中置引擎超级跑车平台。 美国当地时间 10 月 15 日在纽约皇后区一座可俯瞰曼哈顿天际线的码头上，保时捷举办专场活动，全球首发展示 Mission S 概念车。这里正是 1953 年保时捷 550 Spyder 首批照片的拍摄地；保时捷借此强调，其未来设计仍将延续品牌历史与跑车基因。 Mission S 重新聚焦“驾驶者与车”的关系。外观采用低趴、宽体、中置引擎布局，保留了保时捷标志性的“鱼雷式”翼子板",
+     "source": "IT之家",
+     "zh": "保时捷发布 Mission S 概念车：定位高于 911，正开发新中置引擎超跑平台"
+    },
+    {
+     "title": "谷歌在量子计算取得突破，“魔态培育”技术使 Willow 芯片错误率降低约 40 倍",
+     "link": "https://www.ithome.com/1/013/698.htm",
+     "pubDate": "Thu, 15 Oct 2026 22:49:33 GMT",
+     "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，谷歌宣布其量子人工智能团队已通过实验证实、攻克了量子计算的一个核心瓶颈：在 Willow 量子芯片上成功验证了一项名为“魔态培育（Magic State Cultivation）”技术的实用可行性，与未采用该技术相比， 将量子计算错误率降低了约 40 倍 。相关研究成果已发表于《科学》期刊。 据介绍，要实现“通用量子计算”并运行实际程序，系统必须能够执行特定的量子操作集并完成量子纠错。这一目标可以通过预先制备所谓的“魔态（Magic States）”来实现；它们之所以得名“魔态”，正是因为能协助构建超越经典计算极限的核心操作。 但",
+     "source": "IT之家",
+     "zh": "谷歌在量子计算取得突破，“魔态培育”技术使 Willow 芯片错误率降低约 40 倍"
+    },
+    {
      "title": "对抗超级细菌新武器：谷歌 Antigravity 用 AI 加速抗菌肽发现",
      "link": "https://www.ithome.com/1/013/684.htm",
      "pubDate": "Thu, 15 Oct 2026 22:43:28 GMT",
@@ -1769,20 +1793,20 @@
      "zh": "对抗超级细菌新武器：谷歌 Antigravity 用 AI 加速抗菌肽发现"
     },
     {
-     "title": "经典 JRPG《永恒传说》高清复刻版登陆 Steam，国区售价 138 元起",
+     "title": "经典 JRPG《永恒传说》高清复刻版多平台发售，Steam 国区售价 138 元起",
      "link": "https://www.ithome.com/1/013/697.htm",
      "pubDate": "Thu, 15 Oct 2026 22:12:28 GMT",
-     "summary": "IT之家 10 月 16 日消息，万代南梦宫经典日系 JRPG《Tales of Eternia Remastered》（《永恒传说》高清复刻版）正式登陆 Steam 平台，由 TOSE CO., LTD. 开发，万代南梦宫娱乐发行，这也是该作首次推出官方简体中文版本。 IT之家附游戏商品页（ https://store.steampowered.com/app/3470960/Tales_of_Eternia_Remastered/ ）。 本次《永恒传说》高清复刻版在 Steam 国区提供两个版本购买： 标准版售价 138 元 数字豪华版售价 248 元，包含游戏本体、战斗 BGM 包、数字",
+     "summary": "IT之家 10 月 16 日消息，万代南梦宫经典日系 JRPG《Tales of Eternia Remastered》（《永恒传说》高清复刻版）正式发售，由 TOSE CO., LTD. 开发，万代南梦宫娱乐发行，这也是该作首次推出官方简体中文版本。 该作现已登陆 PS5/PS4、Xbox Series X/S、任天堂 Switch / Switch 2 和 PC。 IT之家附游戏商品页： Steam： https://store.steampowered.com/app/3470960/Tales_of_Eternia_Remastered/ PlayStation： https://ww",
      "source": "IT之家",
-     "zh": "经典 JRPG《永恒传说》高清复刻版登陆 Steam，国区售价 138 元起"
+     "zh": "经典 JRPG《永恒传说》高清复刻版多平台发售，Steam 国区售价 138 元起"
     },
     {
-     "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
-     "link": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
-     "pubDate": "Thu, 15 Oct 2026 22:11:24 +0000",
-     "summary": "Article URL: https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai Comments URL: https://news.ycombinator.com/item?id=50111112 Points: 27 # Comments: 21",
-     "source": "Hacker News",
-     "zh": "呼叫中心工作岗位正在减少，但 14,000 个呼叫表明人类的表现仍然优于人工智能"
+     "title": "Steam 推出“成就集”新功能 Beta 测试，支持按 DLC / 玩法分类整理成就",
+     "link": "https://www.ithome.com/1/013/696.htm",
+     "pubDate": "Thu, 15 Oct 2026 22:10:45 GMT",
+     "summary": "IT之家 10 月 16 日消息，Valve 今日宣布开启 Steam “成就集（Steam Achievement Sets）”功能 Beta 测试，这是一项旨在优化平台成就体验的全新功能，解决后续 DLC、赛季更新添加成就后破坏玩家原有完成度的问题。 官方表示，如今游戏的生命周期越来越长，会不断通过新 DLC、扩展包和赛季更新内容，但后续追加的成就往往难以被发现，还会意外打乱已通关玩家的完成状态。而“成就集”功能正是为解决这类问题设计，目前已在 Steam 客户端 Beta 版中开放测试，已有一批游戏抢先添加了支持。 IT之家附 Steam 官方公告链接： https://store.st",
+     "source": "IT之家",
+     "zh": "Steam 推出“成就集”新功能 Beta 测试，支持按 DLC / 玩法分类整理成就"
     },
     {
      "title": "Netflix Chief Content Officer Bela Bajaria is leaving the company and will be replaced by former Disney and Fox executive Peter Rice, who starts October 26 (Rebecca Rubin/Variety)",
@@ -1892,7 +1916,7 @@
      "title": "What I Self-Host",
      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
      "pubDate": "Thu, 15 Oct 2026 20:23:25 +0000",
-     "summary": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/ Comments URL: https://news.ycombinator.com/item?id=50109715 Points: 113 # Comments: 53",
+     "summary": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/ Comments URL: https://news.ycombinator.com/item?id=50109715 Points: 150 # Comments: 74",
      "source": "Hacker News",
      "zh": "我自行托管的内容"
     },
@@ -1900,7 +1924,7 @@
      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
      "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
      "pubDate": "Thu, 15 Oct 2026 19:55:49 +0000",
-     "summary": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts Comments URL: https://news.ycombinator.com/item?id=50109375 Points: 105 # Comments: 94",
+     "summary": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts Comments URL: https://news.ycombinator.com/item?id=50109375 Points: 117 # Comments: 99",
      "source": "Hacker News",
      "zh": "新 Withings 用户必须每年支付 99 美元才能使用 Apple Health 同步"
     },
@@ -1924,7 +1948,7 @@
      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
      "pubDate": "Thu, 15 Oct 2026 19:21:38 +0000",
-     "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 125 # Comments: 57",
+     "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 149 # Comments: 61",
      "source": "Hacker News",
      "zh": "Torrent 网站上有人不断地操弄我的 Sonarr"
     },
@@ -1956,7 +1980,7 @@
      "title": "E Ink Kaleido 4",
      "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
      "pubDate": "Thu, 15 Oct 2026 18:38:16 +0000",
-     "summary": "https://web.archive.org/web/20261015180401/https://www.eink.... Comments URL: https://news.ycombinator.com/item?id=50108229 Points: 97 # Comments: 59",
+     "summary": "https://web.archive.org/web/20261015180401/https://www.eink.... Comments URL: https://news.ycombinator.com/item?id=50108229 Points: 105 # Comments: 63",
      "source": "Hacker News",
      "zh": "万花筒墨水4"
     },
@@ -1972,33 +1996,9 @@
      "title": "Muse Spark Open",
      "link": "https://research.meta.ai/blog/muse-spark-open",
      "pubDate": "Thu, 15 Oct 2026 17:47:39 +0000",
-     "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 527 # Comments: 298",
+     "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 551 # Comments: 306",
      "source": "Hacker News",
      "zh": "缪斯火花开放"
-    },
-    {
-     "title": "White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM",
-     "link": "https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/",
-     "pubDate": "Thu, 15 Oct 2026 17:05:19 +0000",
-     "summary": "Trump’s newly installed press secretary tells WIRED that in the early 2010s, she promoted a product for a company then called Beachbody, which she described as “sort of a pyramid scheme.”",
-     "source": "WIRED",
-     "zh": "白宫新闻秘书凯蒂·扎卡里亚 (Katie Zacharia) 是一家健身传销公司的附属营销人员"
-    },
-    {
-     "title": "消息称苹果已发出 10 月 28 日邀请函，首款触屏 MacBook、iPad mini 8、M6 Mac 即将到来",
-     "link": "https://www.ithome.com/1/013/687.htm",
-     "pubDate": "Thu, 15 Oct 2026 16:50:20 GMT",
-     "summary": "IT之家 10 月 16 日消息，苹果在 10 月的第二波新品有望 10 月 28 日到来，彭博社记者 Mark Gurman 于 10 月 15 日爆料称，苹果正邀请部分媒体参加 10 月 28 日在美国洛杉矶举办的产品发布会， 预计推出触摸屏 MacBook、iPad mini 新品、M6 Mac 。 在活动方式方面，Gurman 曾爆料称本次活动不会采用传统苹果发布会的现场直播形式， 主要面向内容创作者 ，会设置产品体验环节，形式类似苹果于 10 月 13 日在纽约举办的活动。 IT之家获悉，产品方面，Gurman 预估苹果公司会在本次活动中推出 4 款设备： 14 英寸的 MacBoo",
-     "source": "IT之家",
-     "zh": "消息称苹果已发出 10 月 28 日邀请函，首款触屏 MacBook、iPad mini 8、M6 Mac 即将到来"
-    },
-    {
-     "title": "华为余承东就“三部门联合调查刹车踏板支架断裂问题”表态：正义可能会迟到，但永远不会缺席！",
-     "link": "https://www.ithome.com/1/013/686.htm",
-     "pubDate": "Thu, 15 Oct 2026 16:33:51 GMT",
-     "summary": "IT之家 10 月 16 日消息，据多位博主分享的截图，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东转发了尊界汽车声明，表态称： 正义可能会迟到，但永远不会缺席！ 据IT之家昨晚报道，针对网络反映的“尊界 V800 汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上， 成立联合调查组开展核查 ，并依法依规处理。有关情况将及时公布。 随后，尊界汽车官方微博发布声明， 宣布将积极响应、完全服从并将全力配合联合调查组的工作 。 10 月 15 日，工信部等三部门发布了联合调查有关车辆刹车踏板支架断裂问题的通报。我们积极响应、完全服从并",
-     "source": "IT之家",
-     "zh": "华为余承东就“三部门联合调查刹车踏板支架断裂问题”表态：正义可能会迟到，但永远不会缺席！"
     }
    ]
   },
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Withings wants new users to pay $100 a year to sync with Apple Health",
+     "link": "https://www.engadget.com/2288346/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health/",
+     "pubDate": "Thu, 15 Oct 2026 23:02:04 +0000",
+     "summary": "The smart health company is gating third-party app syncing to its own subscription plan for new users.",
+     "source": "Engadget",
+     "zh": "Withings 希望新用户每年支付 100 美元才能与 Apple Health 同步"
+    },
     {
      "title": "Boost Mobile teams up with Mike Tyson for its new ad campaign",
      "link": "https://www.gsmarena.com/boost_mobile_teams_up_with_mike_tyson_for_its_new_ad_campaign-news-75071.php",
@@ -2193,14 +2201,6 @@
      "zh": "Riot 将于 2027 年 1 月取消英雄联盟经典赛"
     },
     {
-     "title": "Alexa Tablet 12 Pro review: Amazon's premium tablet gets almost everything right",
-     "link": "https://www.engadget.com/2287955/amazon-alexa-tablet-12-pro-review/",
-     "pubDate": "Thu, 15 Oct 2026 18:30:00 +0000",
-     "summary": "This tablet is a great value, even if Android apps still aren't great on a big screen.",
-     "source": "Engadget",
-     "zh": "Alexa Tablet 12 Pro 评测：亚马逊的优质平板电脑几乎一切都好"
-    },
-    {
      "title": "This gaming phone gives Qualcomm’s latest powerhouse the liquid-cooling treatment",
      "link": "https://www.androidauthority.com/redmagic-12-pro-snapdragon-8-elite-extreme-gen-6-3723955/",
      "pubDate": "Thu, 15 Oct 2026 18:16:33 +0000",
@@ -2257,6 +2257,118 @@
    "total": 13,
    "items": [
     {
+     "title": "AI-native personal finance platform Matters emerges from stealth with $5m pre-seed",
+     "link": "https://www.finextra.com/newsarticle/48592/ai-native-personal-finance-platform-matters-emerges-from-stealth-with-5m-pre-seed?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 16 Oct 2026 00:01:00 GMT",
+     "summary": "Matters, a Swedish AI-native personal finance platform, has emerged from stealth with a $5 million pre-seed funding round.",
+     "source": "Finextra",
+     "zh": "AI 原生个人理财平台 Matters 悄然崛起，预种子期金额达 500 万美元"
+    },
+    {
+     "title": "AI-native payments platform Movere launches",
+     "link": "https://www.finextra.com/newsarticle/48593/ai-native-payments-platform-movere-launches?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 16 Oct 2026 00:01:00 GMT",
+     "summary": "A collection of banking and fintech veterans has unveiled Movere, an AI-native payments platform for businesses.",
+     "source": "Finextra",
+     "zh": "人工智能原生支付平台 Movere 推出"
+    },
+    {
+     "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
+     "link": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
+     "pubDate": "Thu, 15 Oct 2026 23:08:05 GMT",
+     "summary": "Netflix announced Bela Bajaria will be replaced by former Disney exec Peter Rice as the company's chief content officer.",
+     "source": "CNBC",
+     "zh": "Netflix 首席内容官贝拉·巴贾里亚 (Bela Bajaria) 离职，彼得·赖斯 (Peter Rice) 接任"
+    },
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年10月16日",
+     "link": "https://wallstreetcn.com/articles/3783739",
+     "pubDate": "Fri, 16 Oct 2026 07:04:09 +0800",
+     "summary": "华见早安之声 要闻精选 美国9月PPI 同比涨6.3%创逾四年最高，环比涨1.3%为2022年3月来最大 ，能源PPI单月飙升10.8%。 美国9月零售销售 环比增0.8%超预期， 但剔除汽车与汽油后仅增0.2%，油价正在挤出其他消费。 Anthropic 三季度营收168亿美元但月度增速骤降至个位数 ，投资者将 IPO估值预期从约2万亿下调至1.5万亿美元。 CoreWeave 五年期CDS隐含违约概率超六成， 黄仁勋 称 该公司融资成本在下降，英伟达无需为其兜底。 台积电 三季度净利增69%连续六季创纪录， 四季度营收指引523亿至543亿美元，超出市场预期6%。 江波龙 Q3净利润预增7",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年10月16日"
+    },
+    {
+     "title": "韩国统计厅：韩国 9 月就业人数同比增加 11.3 万人，8 月同比增加 18.4 万人",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897363046.html",
+     "pubDate": "Fri, 16 Oct 2026 07:01:17 +0800",
+     "summary": "韩国统计厅：韩国 9 月就业人数同比增加 11.3 万人，8 月同比增加 18.4 万人。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "韩国统计厅：韩国 9 月就业人数同比增加 11.3 万人，8 月同比增加 18.4 万人"
+    },
+    {
+     "title": "上证早知道｜688002，前三季净利大增218%—232%；300111，机构净买入3878万元",
+     "link": "http://finance.eastmoney.com/news/1354,202610163897362747.html",
+     "pubDate": "Fri, 16 Oct 2026 06:54:00 +0800",
+     "summary": "今日提示 ·国新办定于10月16日就第九届中国国际进口博览会筹备情况举行新闻发布会。 ·第二十五届中国国际酒业博览会将于10月16日至18日举办。 ·2026 脑机接口 前沿技术与产业转化大会10月16日至17日举办。 ·美联储主席沃什据悉将于当地时间10月16日在国际货币基金组织（IMF）发表讲话。 ·中科转债10月16日申购，代码371175，债券规模10亿元，正股 中科环保 ，初始转股价5.65元。 上证聚焦 ○下一代北斗系统建设有序推进行业发展空间广阔 据央视财经报道，最新数据显示，2025年我国地理信息产业增速达5.9%，总产值达到9005亿元。截至2025年底，我国累计发射民用遥感",
+     "source": "东方财富股票",
+     "zh": "上证早知道｜688002，前三季净利大增218%—232%；300111，机构净买入3878万元"
+    },
+    {
+     "title": "【环球财经】欧盟峰会聚焦经济竞争力与能源议题",
+     "link": "http://www.eeo.com.cn/2026/1016/1065977.shtml",
+     "pubDate": "Fri, 16 Oct 2026 06:52:11 +0800",
+     "summary": "新华财经布鲁塞尔10月16日电（记者张兆卿 张馨文）欧盟成员国领导人定于15日至16日在布鲁塞尔举行峰会，重点讨论欧洲经济竞争力、能源价格及下一轮长期预算等议题。 根据欧洲理事会公布的议程，欧盟各国领导...",
+     "source": "经济观察网",
+     "zh": "【环球财经】欧盟峰会聚焦经济竞争力与能源议题"
+    },
+    {
+     "title": "默茨反对将欧盟冻结的俄资产移交美方控制",
+     "link": "http://www.eeo.com.cn/2026/1016/1065976.shtml",
+     "pubDate": "Fri, 16 Oct 2026 06:52:05 +0800",
+     "summary": "新华财经柏林10月16日电 德国总理默茨15日在比利时首都布鲁塞尔表示，反对将欧洲联盟境内冻结的俄罗斯主权资产移交美国控制，并强调这一问题属于欧洲内部事务。 为期两天的欧盟峰会15日在布鲁塞尔开幕。默茨在会前回答媒体提问时说：“这些（俄罗斯）资产是在欧洲被冻结的，也应继续冻结在欧洲。这是我们的事务，应由我们自己做决定。” 据英国《金融时报》等媒体此前报道，美方近期提出一项提议，建议欧洲国家解冻...",
+     "source": "经济观察网",
+     "zh": "默茨反对将欧盟冻结的俄资产移交美方控制"
+    },
+    {
+     "title": "俄罗斯对莫斯科州疑似猴痘疫情展开流行病学调查",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897361798.html",
+     "pubDate": "Fri, 16 Oct 2026 06:49:55 +0800",
+     "summary": "俄罗斯联邦消费者权益保护和公益监督局莫斯科州分局15日在官网发布通告说，已对该州疑似猴痘疫情展开流行病学调查，并采取相关防疫措施。通告说，莫斯科州出现猴痘疑似病例后，已第一时间展开流行病学调查并采取全方位防疫措施，包括确定接触人群、实施消杀工作等。目前，已有5人入院接受医学观察。通告说，俄罗斯联邦消费者权益保护和公益监督局研发的高科技检测系统，可在短时间内快速检测出猴痘病毒。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "俄罗斯对莫斯科州疑似猴痘疫情展开流行病学调查"
+    },
+    {
+     "title": "美股收盘：三大指数齐涨，道指涨超1%；存储芯片、半导体低开高走，美光涨超1%，高通涨超3%；中国资产普涨；黄金股活跃，科技股多数下跌",
+     "link": "http://finance.eastmoney.com/news/1361,202610163897361811.html",
+     "pubDate": "Fri, 16 Oct 2026 06:49:05 +0800",
+     "summary": "当地时间周四，美国三大股指全线收涨。 截至收盘，道指涨1.08%报52177.69点，标普500指数涨0.33%报7744.06点，纳指涨0.08%报26713.03点。 板块方面，大型科技股多数下跌， 微软 涨1.08%，谷歌涨0.45%， 亚马逊 涨0.27%，脸书跌0.11%， 苹果 跌0.28%， 特斯拉 跌1.29%， 英伟达 跌1.84%。 中概股多数收涨， 百济神州 涨6.43%， 新东方 涨4.81%， 华住 集团涨3.94%， 亚玛芬体育 涨3.92%， 网易 涨2.73%， 携程 集团涨2.70%， 京东 集团涨2.66%， 唯品会 涨2.45%，小鹏 汽车 涨2.28%，",
+     "source": "东方财富股票",
+     "zh": "美股收盘：三大指数齐涨，道指涨超1%；存储芯片、半导体低开高走，美光涨超1%，高通涨超3%；中国资产普涨；黄金股活跃，科技股多数下跌"
+    },
+    {
+     "title": "上海双钱落子乌鲁木齐，“新疆胎”驰骋中亚的底气从哪来？",
+     "link": "http://finance.eastmoney.com/news/1354,202610163897361913.html",
+     "pubDate": "Fri, 16 Oct 2026 06:48:25 +0800",
+     "summary": "从东海之滨到天山脚下，上海与新疆虽相隔千里，却因“ 一带一路 ”建设和产业协作紧密相连。上海双钱集团在新疆布局的子公司——双钱集团（新疆）昆仑轮胎有限公司，正是沪疆产业合作的一个缩影。它扎根乌鲁木齐市米东区，把上海的技术、品牌与管理经验带到西北，也借新疆的区位优势开拓中亚市场。 这家企业驰骋中亚的底气从何而来？带着“一个工厂，没有一个工人？”的疑问，10月13日，参与“丝路枢纽·国际都市”国内主流媒体乌鲁木齐行活动的国内主流媒体代表走进位于乌鲁木齐市米东区的双钱集团（新疆）昆仑轮胎有限公司生产车间。 车间大门一开，答案扑面而来：白色的机械臂精准抓取轮胎半成品，稳稳放在传送带上；地面上一辆辆无人",
+     "source": "东方财富股票",
+     "zh": "上海双钱落子乌鲁木齐，“新疆胎”驰骋中亚的底气从哪来？"
+    },
+    {
+     "title": "美国官员反驳泽连斯基 称特朗普未下令限制乌军使用星盾系统",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897361632.html",
+     "pubDate": "Fri, 16 Oct 2026 06:47:28 +0800",
+     "summary": "一名美国高级官员称，总统唐纳德·特朗普并未下令对乌克兰使用 SpaceX 的星盾卫星技术施加任何限制。当被问及特朗普是否曾下令限制乌克兰使用星盾时，这名官员周四表示，总统从未提出过这样的要求。乌克兰总统泽连斯基本周指责特朗普和 SpaceX 首席执行官埃隆·马斯克限制乌军使用该技术，称此举导致了平民死亡，因为使用该技术的乌克兰拦截力量无法像此前那样有效地击落俄罗斯 无人机 。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国官员反驳泽连斯基 称特朗普未下令限制乌军使用星盾系统"
+    },
+    {
+     "title": "【中国制造新观察】新兴产业莫陷“内卷式”竞争",
+     "link": "http://www.eeo.com.cn/2026/1016/1065975.shtml",
+     "pubDate": "Fri, 16 Oct 2026 06:39:11 +0800",
+     "summary": "当前，某些地方的产业园区上演着相似的戏码：一个新风口来了，争相上马同类项目，导致产线重复建设、产品高度趋同。近日，中共中央、国务院印发《关于发展新质生产力的意见》，提出培育壮大新兴产业，深化产业内、产品内专业分工，促进跨行业跨区域融合，避免...",
+     "source": "经济观察网",
+     "zh": "【中国制造新观察】新兴产业莫陷“内卷式”竞争"
+    },
+    {
+     "title": "充电基础设施加速补短板",
+     "link": "http://www.eeo.com.cn/2026/1016/1065974.shtml",
+     "pubDate": "Fri, 16 Oct 2026 06:39:11 +0800",
+     "summary": "江西省赣州市南康区横市镇的一处充电站内，新能源电动重卡正在充电。朱柏臣摄（中经视觉） 作为自驾返乡、跨省出游客流峰值期，重大节假日成...",
+     "source": "经济观察网",
+     "zh": "充电基础设施加速补短板"
+    },
+    {
      "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
      "link": "https://wallstreetcn.com/articles/3783663",
      "pubDate": "Fri, 16 Oct 2026 06:34:27 +0800",
@@ -2273,60 +2385,12 @@
      "zh": "英美资源集团首席执行官表示科技公司对矿业股份表现出“浓厚兴趣” - FT"
     },
     {
-     "title": "市场消息：日本推迟敲定 3.5% 国防开支目标",
-     "link": "http://finance.eastmoney.com/news/1351,202610163897360938.html",
-     "pubDate": "Fri, 16 Oct 2026 06:30:43 +0800",
-     "summary": "市场消息：日本推迟敲定 3.5% 国防开支目标。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "市场消息：日本推迟敲定 3.5% 国防开支目标"
-    },
-    {
-     "title": "俄罗斯对莫斯科州疑似猴痘疫情展开流行病学调查",
-     "link": "http://finance.eastmoney.com/news/11790,202610163897361475.html",
-     "pubDate": "Fri, 16 Oct 2026 06:30:29 +0800",
-     "summary": "俄罗斯联邦消费者权益保护和公益监督局莫斯科州分局15日在官网发布通告说，已对该州疑似猴痘疫情展开流行病学调查，并采取相关防疫措施。通告说，莫斯科州出现猴痘疑似病例后，已第一时间展开流行病学调查并采取全方位防疫措施，包括确定接触人群、实施消杀工作等。目前，已有5人入院接受医学观察。通告说，俄罗斯联邦消费者权益保护和公益监督局研发的高科技检测系统，可在短时间内快速检测出猴痘病毒。（新华社） （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "俄罗斯对莫斯科州疑似猴痘疫情展开流行病学调查"
-    },
-    {
-     "title": "内河船舶喝上“绿醇”燃料，上海“临门一脚”成功，完成首次加注",
-     "link": "http://finance.eastmoney.com/news/1354,202610163897361384.html",
-     "pubDate": "Fri, 16 Oct 2026 06:30:05 +0800",
-     "summary": "上海“城市静脉”与绿色 航运 “动力中枢”的对接，在10月15日完成了标志性的“临门一脚”。 由城市湿垃圾产出的沼气所制备的绿色甲醇，在上海港罗东集装箱码头，被作为燃料加注给一条内河散货船，并将开启1000公里的航行验证。这是我国面向内河船舶完成的第一单绿色燃料加注，意味着上海已在绿色甲醇这一未来燃料领域，探索出“技术验证—场景拓展—示范合作”的协同推进路径。 湿垃圾“吃干榨净”变身绿色甲醇 当前，全球 航运 业处于绿色转型的关键阶段，绿色燃料替代传统能源，已成为国际 航运 发展的重要方向。本次加注的绿色甲醇燃料，来源于市科委重大创新项目“沼气全碳定向转化制绿色甲醇关键技术与中试验证”。该项目",
-     "source": "东方财富股票",
-     "zh": "内河船舶喝上“绿醇”燃料，上海“临门一脚”成功，完成首次加注"
-    },
-    {
-     "title": "天猫、京东同日摆擂“双11”；Tim回应圆通总裁潘水苗出任影视飓风董事长｜未来商业早参",
-     "link": "http://finance.eastmoney.com/news/1354,202610163897361080.html",
-     "pubDate": "Fri, 16 Oct 2026 06:30:04 +0800",
-     "summary": "｜2026年10月16日星期五｜ NO.1 天猫、 京东 同日举行“双11”发布会 10月15日，天猫“双11”发布会在上海举行。今年天猫“双11”将于10月20日晚8点正式开卖，约100万个全球品牌、7200万款商品参与，数据创 历史新高 。AI（ 人工智能 ）服务首次加入“双11”， 智谱 、MiniMax、千问等模型厂商集体推出优惠，消费者可在活动期间“囤Token（词元）”。同日，2026年 京东 “双11”发布会举行。今年 京东 “双11”已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。发布会宣布京东服务全面升级，首次全景展示超百项细分服务产品，并针对服务消费痛点发",
-     "source": "东方财富股票",
-     "zh": "天猫、京东同日摆擂“双11”；Tim回应圆通总裁潘水苗出任影视飓风董事长｜未来商业早参"
-    },
-    {
-     "title": "《明日方舟：终末地》上线Steam平台；小米超跑加入索尼《跑车浪漫旅7》丨游戏早参",
-     "link": "http://finance.eastmoney.com/news/1354,202610163897361163.html",
-     "pubDate": "Fri, 16 Oct 2026 06:30:03 +0800",
-     "summary": "| 2026年10月16日星期五 | NO.1 《明日方舟：终末地》上线Steam平台 10月15日消息，鹰角网络旗下《明日方舟：终末地》正式上线Steam平台，游戏免费游玩，支持全平台账号互通，商店页面锁国区；完整提供简体中文界面、字幕与音频，游玩需绑定Gryphline账号，适配主流手柄并搭载反作弊系统。该作此前已在多渠道全球上线，PC端（个人电脑端）一直是其收入重要组成部分，此次新增Steam渠道意在进一步扩大海外PC用户触达。 点评： 该事件可侧面印证国产二次元跨平台长线运营潜力。对A股相关游戏出海、PC发行服务商具备情绪参考，短期恐难直接拉动业绩，后续重点看Steam端流水与用户留存",
-     "source": "东方财富股票",
-     "zh": "《明日方舟：终末地》上线Steam平台；小米超跑加入索尼《跑车浪漫旅7》丨游戏早参"
-    },
-    {
-     "title": "中央气象台发布暴雨蓝色预警 部分地区有大雨局地暴雨",
-     "link": "http://finance.eastmoney.com/news/11790,202610163897361232.html",
-     "pubDate": "Fri, 16 Oct 2026 06:29:00 +0800",
-     "summary": "中央气象台10月16日06时继续发布暴雨蓝色预警：预计，10月16日08时至17日08时，甘肃东部、宁夏、内蒙古河套地区、陕西中部和东南部、山西南部、河南北部和南部、湖北中部、四川东北部、重庆西北部等地部分地区有大雨，局地有暴雨(50～90毫米)。上述部分地区伴有短时强降水（最大小时降雨量20～40毫米，局地可超过50毫米），局地有雷暴大风等强对流天气。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "中央气象台发布暴雨蓝色预警 部分地区有大雨局地暴雨"
-    },
-    {
-     "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
-     "link": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
-     "pubDate": "Thu, 15 Oct 2026 22:25:32 GMT",
-     "summary": "Netflix announced Bela Bajaria will be replaced by former Disney exec Peter Rice as the company's chief content officer.",
-     "source": "CNBC",
-     "zh": "Netflix 首席内容官贝拉·巴贾里亚 (Bela Bajaria) 离职，彼得·赖斯 (Peter Rice) 接任"
+     "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+     "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 22:31:00 GMT",
+     "summary": "”I earn $110,000 a year.”",
+     "source": "MarketWatch",
+     "zh": "“有些人做的一切都是对的”：我在大衰退中失去了家。我50多岁的时候租房子。为什么会被判定为失败呢？"
     },
     {
      "title": "MSCI's downgrade proposal puts Indonesia’s EM status at risk",
@@ -2431,70 +2495,6 @@
      "summary": "CoreWeave违约风险飙升至历史新高、信用市场隐含的未来五年违约概率超过六成之际，英伟达CEO黄仁勋出面“灭火”，称CoreWeave财务实力持续改善、融资成本正在下降，英伟达没有必要为其兜底。 美东时间10月15日周四，反映公司债务违约保护成本的指标CoreWeave五年期信用违约互换（CDS）利差一度上升74.5个基点，达到1194.5个基点，创盘中历史新高。与此同时，该公司部分债券收益率升至15%至16%以上，反映投资者对其偿债能力的担忧急剧升温。 黄仁勋同日在瑞典出席活动期间接受媒体采访时表示：“CoreWeave的实力与日俱增。”他称，自己对该公司持乐观态度，并指出，该司的“资本",
      "source": "华尔街见闻",
      "zh": "CoreWeave违约概率超六成！黄仁勋“灭火”：融资成本在下降，无需英伟达兜底"
-    },
-    {
-     "title": "华尔街警惕贝森特再度出手压制收益率，本周五或现关键线索",
-     "link": "https://wallstreetcn.com/articles/3783734",
-     "pubDate": "Fri, 16 Oct 2026 04:59:42 +0800",
-     "summary": "美国国债市场正密切关注财政部的下一步动作。 本周五，主要国债一级交易商将在再融资公告发布前收到财政部的例行调查问卷 。市场人士认为， 问卷的提问方式和内容本身，可能成为判断贝森特政策倾向的风向标。 据花旗集团分析，此次问卷或暗示长端发债规模将有所收缩，贝森特可能以养老基金对长端国债需求不振为由，考虑削减乃至取消20年期国债发行。 摩根士丹利投资管理广泛市场固定收益主管Vishal Khanduja表示： 你已经向市场表明，这样的收益率水平是有问题的。因此我们认为， 接下来的两次再融资公告将至关重要，尤其是11月那次，正好紧接中期选举之后。 借贷成本上升一直是特朗普政府的心腹之患，贝森特8月的\"",
-     "source": "华尔街见闻",
-     "zh": "华尔街警惕贝森特再度出手压制收益率，本周五或现关键线索"
-    },
-    {
-     "title": "美国商业原油库存降幅超预期，馏分油库存同步下降、汽油意外上升",
-     "link": "https://wallstreetcn.com/articles/3783735",
-     "pubDate": "Fri, 16 Oct 2026 04:44:26 +0800",
-     "summary": "美国原油库存上周出现大幅下滑，飓风导致墨西哥湾产量骤降是主因。这份超预期的库存报告令市场重新审视短期供应前景。 据美国能源信息署（EIA）周四公布的数据， 截至10月9日当周，美国商业原油库存减少860万桶至4.156亿桶，降幅远超市场预期。 此前据路透社对分析师的调查，市场普遍预期库存仅小幅下降28.8万桶。 周三美股盘后，美国石油协会（API）披露的数据显示，上周，美国API原油库存骤降1112.3万桶。 原油库存的大幅缩减主要源于飓风冲击下的生产停摆与进口下滑。与此同时，汽油库存意外攀升，而馏分油库存则进一步收紧。 数据公布后，原油和柴油期货价格基本维稳，汽油期货则因库存意外增加而扩大跌",
-     "source": "华尔街见闻",
-     "zh": "美国商业原油库存降幅超预期，馏分油库存同步下降、汽油意外上升"
-    },
-    {
-     "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
-     "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
-     "pubDate": "Thu, 15 Oct 2026 20:40:00 GMT",
-     "summary": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.",
-     "source": "MarketWatch",
-     "zh": "随着“科技灾难”恶化，投资者正在抛售人工智能股票。这就是他们现在转向的地方。"
-    },
-    {
-     "title": "马斯克回应黄仁勋赞赏：英伟达团队才华横溢，Star Mind太空服务器明年量产",
-     "link": "https://wallstreetcn.com/articles/3783733",
-     "pubDate": "Fri, 16 Oct 2026 04:37:29 +0800",
-     "summary": "SpaceX与英伟达的深度合作正迈向新阶段。 英伟达CEO黄仁勋近日公开表示，他乐于与马斯克合作，并透露两家公司的工程团队正在联合开发一种新型服务器架构，专为太空环境设计，同时也适用于地面部署。 黄仁勋说： 我很高兴能与埃隆合作。他正在利用我们的技术训练和部署他自己的AI模型，我们两个工程团队正在非常紧密地协作，打造一种新型服务器，一种可能在太空和地球上都表现出色的全新架构。 马斯克随即在X上转发并回应称： 由SpaceX与英伟达联合设计的Star Mind计算机远超几乎所有人的预期，将于明年进入量产阶段。与才华横溢的英伟达工程团队合作令人无比愉快。 这一表态将市场对该项目的关注度迅速推高，也",
-     "source": "华尔街见闻",
-     "zh": "马斯克回应黄仁勋赞赏：英伟达团队才华横溢，Star Mind太空服务器明年量产"
-    },
-    {
-     "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
-     "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-     "pubDate": "Thu, 15 Oct 2026 20:33:24 GMT",
-     "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
-     "source": "CNBC",
-     "zh": "英伟达、AMD、戴尔因人工智能资金担忧而在全球科技股中陷入困境"
-    },
-    {
-     "title": "纳斯达克：新泽西设施网络故障致数据馈送中断，当日已恢复正常",
-     "link": "https://wallstreetcn.com/articles/3783730",
-     "pubDate": "Fri, 16 Oct 2026 04:32:21 +0800",
-     "summary": "纳斯达克交易所周四经历一次网络中断，导致旗下全部美国股票市场数据馈送出现间歇性缺失，数小时后故障得以解决。 此次中断发生于美东时间上午11时27分左右，波及纳斯达克、纳斯达克得克萨斯及纳斯达克PSX三个交易所，问题根源追溯至新泽西州卡特雷特的一处数据中心设施。 纳斯达克方面随即指引客户切换至芝加哥备用数据馈送，并于 美东时间下午2时25分宣布\"此前出现的间歇性数据缺失\"已恢复正常。 公司发言人在声明中确认： 交易未受影响。 市场对此反应相当平静。纳斯达克公司股价当日涨1.5%，至93.35美元。 故障详情：主备数据源双双受损 根据纳斯达克于美东时间上午11时27分50秒发布的系统警报，此次中断",
-     "source": "华尔街见闻",
-     "zh": "纳斯达克：新泽西设施网络故障致数据馈送中断，当日已恢复正常"
-    },
-    {
-     "title": "Porsche reveals Mission S concept car that previews new design identity",
-     "link": "https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html",
-     "pubDate": "Thu, 15 Oct 2026 20:30:01 GMT",
-     "summary": "Porsche revealed a concept car called Mission S as part of a turnaround plan that includes efforts to boost profits through higher-end products and lower sales.",
-     "source": "CNBC",
-     "zh": "保时捷推出 Mission S 概念车，预览新设计标识"
-    },
-    {
-     "title": "Treasuries rally as investors seek shelter from AI turbulence",
-     "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
-     "pubDate": "Thu, 15 Oct 2026 20:20:36 GMT",
-     "summary": "Global chip stocks caught up in volatile trading amid fears over sustainability of AI boom",
-     "source": "Financial Times",
-     "zh": "随着投资者寻求人工智能动荡的庇护，美国国债上涨"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/16 05:48:05",
+ "generated_at": "2026/10/16 05:52:16",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Best Application Security Platforms for Smart Manufacturing Software",
+     "link": "https://roboticsandautomationnews.com/2026/10/15/best-application-security-platforms-for-smart-manufacturing-software/105985/",
+     "pubDate": "Thu, 15 Oct 2026 21:48:11 +0000",
+     "summary": "A dashboard shows a temperature spike. That number came from somewhere. An API picked it up. A service moved it along. A query pulled it out of storage. One weak spot anywhere in that chain and the reading can lie. The tools in this article look at the software that builds those chains. Not the […]",
+     "source": "Robotics & Automation",
+     "zh": "Best Application Security Platforms for Smart Manufacturing Software"
+    },
+    {
      "title": "Best SAST Tools for Python and Java Automation Backends",
      "link": "https://roboticsandautomationnews.com/2026/10/15/best-sast-tools-for-python-and-java-automation-backends/105982/",
      "pubDate": "Thu, 15 Oct 2026 21:30:06 +0000",
@@ -543,14 +551,6 @@
      "summary": "Water is the utility most automation projects overlook. A plant that has instrumented every conveyor, robot cell and packaging line still sends its rinse water, cooling tower blowdown and process effluent to drain, then buys fresh water to replace it. Industrial water reuse changes that. Treated eff",
      "source": "Robotics & Automation",
      "zh": "Closing the Loop: How Automated Plants Turn Wastewater into Process Water"
-    },
-    {
-     "title": "The Pricing Models White Label SEO Agencies Use and What They Mean",
-     "link": "https://roboticsandautomationnews.com/2026/10/15/the-pricing-models-white-label-seo-agencies-use-and-what-they-mean/105961/",
-     "pubDate": "Thu, 15 Oct 2026 18:17:29 +0000",
-     "summary": "Running a growing marketing firm means figuring out when to scale your internal team and when to pass the heavy lifting to outside experts. For many businesses, the most realistic path to expanding their search visibility services without taking on new payroll is partnering with a reliable white lab",
-     "source": "Robotics & Automation",
-     "zh": "The Pricing Models White Label SEO Agencies Use and What They Mean"
     },
     {
      "title": "Stryker invests $400M into CMR Surgical",
@@ -774,7 +774,7 @@
      "pubDate": "Thu, 15 Oct 2026 08:01:50 +0000",
      "summary": "From manufacturing scrap to batteries that are no longer suitable for EVs, nothing is wasted.",
      "source": "InsideEVs",
-     "zh": "Rivian Is Taking Its Battery Recycling Game To The Next Level"
+     "zh": "Rivian 正在将其电池回收游戏提升到一个新的水平"
     },
     {
      "title": "Top EV battery makers' market share in China in September 2026: CATL 40.92%, BYD 21.09%",
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+     "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+     "pubDate": "Thu, 15 Oct 2026 21:47:55 +0000",
+     "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
+     "source": "GitHub Blog",
+     "zh": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org"
+    },
+    {
      "title": "Bluesky expands Attie, its AI tool for building custom feeds, with a \"social vibe coding\" feature to create sites, games, quizzes, and more on the AT Protocol (Sarah Perez/TechCrunch)",
      "link": "https://www.techmeme.com/261015/p53#a261015p53",
      "pubDate": "Thu, 15 Oct 2026 17:35:04 -0400",
@@ -1836,7 +1844,7 @@
      "title": "What I Self-Host",
      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
      "pubDate": "Thu, 15 Oct 2026 20:23:25 +0000",
-     "summary": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/ Comments URL: https://news.ycombinator.com/item?id=50109715 Points: 33 # Comments: 11",
+     "summary": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/ Comments URL: https://news.ycombinator.com/item?id=50109715 Points: 51 # Comments: 21",
      "source": "Hacker News",
      "zh": "What I Self-Host"
     },
@@ -1844,7 +1852,7 @@
      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
      "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
      "pubDate": "Thu, 15 Oct 2026 19:55:49 +0000",
-     "summary": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts Comments URL: https://news.ycombinator.com/item?id=50109375 Points: 50 # Comments: 30",
+     "summary": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts Comments URL: https://news.ycombinator.com/item?id=50109375 Points: 74 # Comments: 46",
      "source": "Hacker News",
      "zh": "New Withings Users Must Pay $99/Year for Apple Health Syncing"
     },
@@ -1868,7 +1876,7 @@
      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
      "pubDate": "Thu, 15 Oct 2026 19:21:38 +0000",
-     "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 90 # Comments: 36",
+     "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 97 # Comments: 43",
      "source": "Hacker News",
      "zh": "Someone on Torrent Sites Kept Fucking with My Sonarr"
     },
@@ -1892,7 +1900,7 @@
      "title": "We are entering a period of overlapping crises",
      "link": "https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/",
      "pubDate": "Thu, 15 Oct 2026 18:54:36 +0000",
-     "summary": "Article URL: https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/ Comments URL: https://news.ycombinator.com/item?id=50108491 Points: 46 # Comments: 40",
+     "summary": "Article URL: https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/ Comments URL: https://news.ycombinator.com/item?id=50108491 Points: 52 # Comments: 55",
      "source": "Hacker News",
      "zh": "We are entering a period of overlapping crises"
     },
@@ -1916,7 +1924,7 @@
      "title": "E Ink Kaleido 4",
      "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
      "pubDate": "Thu, 15 Oct 2026 18:38:16 +0000",
-     "summary": "https://web.archive.org/web/20261015180401/https://www.eink.... Comments URL: https://news.ycombinator.com/item?id=50108229 Points: 85 # Comments: 46",
+     "summary": "https://web.archive.org/web/20261015180401/https://www.eink.... Comments URL: https://news.ycombinator.com/item?id=50108229 Points: 86 # Comments: 49",
      "source": "Hacker News",
      "zh": "E Ink Kaleido 4"
     },
@@ -1932,7 +1940,7 @@
      "title": "Muse Spark Open",
      "link": "https://research.meta.ai/blog/muse-spark-open",
      "pubDate": "Thu, 15 Oct 2026 17:47:39 +0000",
-     "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 472 # Comments: 280",
+     "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 487 # Comments: 284",
      "source": "Hacker News",
      "zh": "Muse Spark Open"
     },
@@ -1991,14 +1999,6 @@
      "summary": "美国银行（Bank of America）CEO Brian Moynihan 透露该公司雇佣了千名合同工帮助修复 Anthropic Mythos 等 AI 工具发现的软件漏洞。他表示：“我们在第二季度聘请了 1000 名合同工协助进行修复工作。除了原本负责该领域的 3000 名员外，这些合同工至今仍留在公司内，继续提供协助。”他向分析师透露，美国银行第三季度在软件修复以及与反洗钱合规相关的监管问题上投入了数亿美元以上的资金。这是美国大型企业首次披露其为保护软件系统免受 Mythos 影响所投入的人力和资金规模。",
      "source": "Solidot",
      "zh": "美国银行雇佣千名合同工修复 AI 工具发现的软件漏洞"
-    },
-    {
-     "title": "苹果营销主管谈 OpenAI 硬件：我们没感到有威胁，相比追逐 AGI 更重视用户隐私与日常使用体验",
-     "link": "https://www.ithome.com/1/013/683.htm",
-     "pubDate": "Thu, 15 Oct 2026 16:02:39 GMT",
-     "summary": "IT之家 10 月 16 日消息，除了苹果 CEO 约翰・特努斯（John Ternus）之外，《时代》今日还采访到了苹果全球营销高级副总裁格雷格・乔斯维亚克（Greg Joswiak）。 当谈及 OpenAI 的硬件计划时，他表示，苹果并不担心 OpenAI 进军硬件领域带来的竞争。“我们并未感受到威胁。我们能够实现这样的软硬件整合，这意味着我们可以创造比其他任何人都更好的体验。” 乔斯维亚克还谈到了苹果对人工智能产品的定位。他表示，苹果并不是专门为那些执着于追求超级智能的 AI 爱好者开发产品。“我们欢迎他们使用我们的产品，但他们不是我们的目标用户。 我们的目标是让普通人的日常生活变得更好",
-     "source": "IT之家",
-     "zh": "苹果营销主管谈 OpenAI 硬件：我们没感到有威胁，相比追逐 AGI 更重视用户隐私与日常使用体验"
     }
    ]
   },
@@ -2265,6 +2265,14 @@
      "zh": "Trump says &apos;if Ken Paxton loses&apos; Texas Senate race, blame Cornyn and Karl Rove"
     },
     {
+     "title": "MSCI新规将推动迈克尔·塞勒旗下Strategy被踢出全球股票基准指数",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897352170.html",
+     "pubDate": "Fri, 16 Oct 2026 05:42:11 +0800",
+     "summary": "明晟 公司（MSCI）采纳新规，可能将Strategy（MSTR）从其全球股票基准指数中剔除，或引发股票抛售，并对迈克尔·塞勒比特币持仓背后的融资模式施加压力。该指数编制商将在11月30日收盘生效的新框架下，把被归类为“非经营性企业”的公司排除在外，并设立财务测试，可能导致Strategy不符合纳入MSCI全球股票指数的资格。最终被剔除可能打击Strategy首创的加密资产储备模式，并因强制持有该股的投资者群体缩小而对其股价构成压力。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "MSCI新规将推动迈克尔·塞勒旗下Strategy被踢出全球股票基准指数"
+    },
+    {
      "title": "市场消息：美国联邦航空管理局（FAA）拟持有 Air Space Intelligence 公司股权",
      "link": "http://finance.eastmoney.com/news/1351,202610163897351856.html",
      "pubDate": "Fri, 16 Oct 2026 05:38:27 +0800",
@@ -2329,14 +2337,6 @@
      "zh": "富时A50期指连续夜盘收涨0.55%，报13453点"
     },
     {
-     "title": "美联储哈玛克：当前金融状况似乎并不紧缩",
-     "link": "http://finance.eastmoney.com/news/1351,202610163897350562.html",
-     "pubDate": "Fri, 16 Oct 2026 05:27:14 +0800",
-     "summary": "美联储哈玛克：当前金融状况似乎并不紧缩。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "美联储哈玛克：当前金融状况似乎并不紧缩"
-    },
-    {
      "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
      "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
      "pubDate": "Thu, 15 Oct 2026 21:26:05 GMT",
@@ -2351,6 +2351,22 @@
      "summary": "The lawsuit by the Trump administration comes less than a month before the midterm election that will determine which party controls both chambers of Congress.",
      "source": "CNBC",
      "zh": "U.S. sues California in fight over checking citizenship of mail voters"
+    },
+    {
+     "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+     "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 21:23:00 GMT",
+     "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
+     "source": "MarketWatch",
+     "zh": "Nvidia and other chip stocks face renewed pressure as AI fears swell"
+    },
+    {
+     "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
+     "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 21:21:00 GMT",
+     "summary": "Investors have a ‘love-hate relationship’ with tech stocks now — and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
+     "source": "MarketWatch",
+     "zh": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset."
     },
     {
      "title": "SITE Centers declares $3.00 dividend",
@@ -2393,6 +2409,14 @@
      "zh": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades"
     },
     {
+     "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
+     "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 21:03:00 GMT",
+     "summary": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
+     "source": "MarketWatch",
+     "zh": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending"
+    },
+    {
      "title": "CoreWeave违约概率超六成！黄仁勋“灭火”：融资成本在下降，无需英伟达兜底",
      "link": "https://wallstreetcn.com/articles/3783724",
      "pubDate": "Fri, 16 Oct 2026 05:00:11 +0800",
@@ -2415,6 +2439,14 @@
      "summary": "美国原油库存上周出现大幅下滑，飓风导致墨西哥湾产量骤降是主因。这份超预期的库存报告令市场重新审视短期供应前景。 据美国能源信息署（EIA）周四公布的数据， 截至10月9日当周，美国商业原油库存减少860万桶至4.156亿桶，降幅远超市场预期。 此前据路透社对分析师的调查，市场普遍预期库存仅小幅下降28.8万桶。 周三美股盘后，美国石油协会（API）披露的数据显示，上周，美国API原油库存骤降1112.3万桶。 原油库存的大幅缩减主要源于飓风冲击下的生产停摆与进口下滑。与此同时，汽油库存意外攀升，而馏分油库存则进一步收紧。 数据公布后，原油和柴油期货价格基本维稳，汽油期货则因库存意外增加而扩大跌",
      "source": "华尔街见闻",
      "zh": "美国商业原油库存降幅超预期，馏分油库存同步下降、汽油意外上升"
+    },
+    {
+     "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
+     "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 20:40:00 GMT",
+     "summary": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.",
+     "source": "MarketWatch",
+     "zh": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now."
     },
     {
      "title": "马斯克回应黄仁勋赞赏：英伟达团队才华横溢，Star Mind太空服务器明年量产",
@@ -2441,6 +2473,14 @@
      "zh": "Porsche reveals Mission S concept car that previews new design identity"
     },
     {
+     "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
+     "link": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 20:29:00 GMT",
+     "summary": "Shares of AbbVie, Eli Lilly and Gilead Sciences closed near record highs",
+     "source": "MarketWatch",
+     "zh": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets"
+    },
+    {
      "title": "Treasuries rally as investors seek shelter from AI turbulence",
      "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
      "pubDate": "Thu, 15 Oct 2026 20:20:36 GMT",
@@ -2455,46 +2495,6 @@
      "summary": "避险情绪升温压过通胀担忧，欧美国债10月15日周四普涨，无论是基准10年期美债还是对利率敏感的两年期美债，收益率盘中均跳水超过10个基点。英、德、法等欧洲主要经济体的中长期国债收益率同步下行，全球债市迎来一轮反弹。 周四欧股盘中公布的美国9月生产者价格指数（PPI）创四年多来最快环比涨幅，原本加剧了市场对美联储进一步加息的担忧。但随着AI相关企业融资风险升温、科技股承压，投资者开始重新权衡高利率对经济增长和企业偿债能力的冲击，避险需求推动资金流向国债市场。 媒体指出，市场正在从担忧通胀转向更加关注高融资成本对经济增长的影响。与此同时，CoreWeave等AI相关企业的信用风险受到密切关注，企业",
      "source": "华尔街见闻",
      "zh": "避险情绪压倒通胀担忧，美债收益率盘中跳水超10个基点，10年期美债创14个月最佳表现"
-    },
-    {
-     "title": "美股三大指数集体收涨 贵金属、加密储备概念股涨幅居前 Circle涨超9%",
-     "link": "http://finance.eastmoney.com/news/1345,202610153897165893.html",
-     "pubDate": "Fri, 16 Oct 2026 04:00:13 +0800",
-     "summary": "美东时间周四，美股三大指数集体收涨，截止收盘，道指涨1.08%，纳指涨0.08%，标普500指数涨0.33%。 热门科技股涨跌不一，费城 半导体 指数一度跌超4%，最终收跌0.88%，为连续第七天下跌，存储概念指数低开走高接近平收， 微软 、 美光科技 涨超1%， 英伟达 跌超1%， SpaceX 跌超2%。 贵金属 、加密储备概念股涨幅居前， Circle涨超9%，Coinbase涨超6%， Strategy涨超5%， 金田 涨超4%， 泛美白银 涨超3%。 计算机 硬件、 半导体 、油气板块走低， 昆腾 跌超9%， 戴尔科技 跌近7%， 应用材料 、 希捷科技 跌超3%， 雪佛龙 、 埃克",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体收涨 贵金属、加密储备概念股涨幅居前 Circle涨超9%"
-    },
-    {
-     "title": "苹果的“家”方案，离国内家庭还差一段路",
-     "link": "http://www.eeo.com.cn/2026/1016/1065955.shtml",
-     "pubDate": "Fri, 16 Oct 2026 02:46:22 +0800",
-     "summary": "带屏中枢与AI管家，这两个苹果此轮“家”叙事的重点，暂时无法完整进入国内家庭。",
-     "source": "经济观察网",
-     "zh": "苹果的“家”方案，离国内家庭还差一段路"
-    },
-    {
-     "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’",
-     "link": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1",
-     "pubDate": "Thu, 15 Oct 2026 18:27:55 GMT",
-     "summary": "Debt issued by AI infrastructure providers and neocloud companies such as CoreWeave has sunk to increasingly stressed levels",
-     "source": "Financial Times",
-     "zh": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’"
-    },
-    {
-     "title": "化工下游企业多方施策对冲成本压力",
-     "link": "http://www.eeo.com.cn/2026/1016/1065950.shtml",
-     "pubDate": "Fri, 16 Oct 2026 01:52:10 +0800",
-     "summary": "工业硫磺是化工领域重要基础原料，经转化为硫酸后，可广泛应用于磷肥、钛白粉、锂电材料、有色冶炼、橡胶助剂等众多领域，串联起农业生产、新能源、传统化工等多条关键产业链。 今年以来，国内工业硫磺市场价格一度大幅走高且行情波动明显。据大宗商品数据服务商生意社监测数据，年初，硫磺市场基准报价约3850元/吨，处于行业主流成交区。受进口货源收紧推动，硫磺价格自2月底开启快速拉升，6月，华东港口固体硫磺现货少...",
-     "source": "经济观察网",
-     "zh": "化工下游企业多方施策对冲成本压力"
-    },
-    {
-     "title": "保险销售人员将拥有信用档案 四大类信息纳入记录",
-     "link": "http://www.eeo.com.cn/2026/1016/1065951.shtml",
-     "pubDate": "Fri, 16 Oct 2026 01:52:09 +0800",
-     "summary": "记者从业内了解到，近日，中国保险行业协会印发《保险销售人员信用档案建设办法》（以下简称《办法》），《办法》将于2027年1月1日开始实施。届时，与保险销售人员信用相关的四大类信息将被一一记录在案，包括基础信息、职业状况信息、信用评价信息和公共信用信息。 “为保险销售人员建立信用档案，本质上是把‘最大诚信’原则变成可量化、可异议、可修复、可携带的职业信用资产，而不是等到出事才进黑名单。”对外经济贸...",
-     "source": "经济观察网",
-     "zh": "保险销售人员将拥有信用档案 四大类信息纳入记录"
     }
    ]
   },

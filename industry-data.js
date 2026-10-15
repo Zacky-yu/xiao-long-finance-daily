@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/16 03:49:54",
+ "generated_at": "2026/10/16 04:09:47",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Meta launches an open-weight AI model that runs on Macs",
+     "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+     "pubDate": "Thu, 15 Oct 2026 20:04:53 +0000",
+     "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+     "source": "TechCrunch AI",
+     "zh": "Meta 推出可在 Mac 上运行的开放权重 AI 模型"
+    },
+    {
+     "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+     "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+     "pubDate": "Thu, 15 Oct 2026 19:55:25 +0000",
+     "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+     "source": "TechCrunch AI",
+     "zh": "亚马逊设备主管 Panos Panay 看到了人工智能设备取代使用应用程序的未来"
+    },
     {
      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
@@ -32,14 +48,6 @@ window.INDUSTRY_DATA = {
      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
      "source": "TechCrunch AI",
      "zh": "使用 TechCrunch 创始人峰会通行证节省高达 200 美元的最后机会：提前预订将于 10 月 16 日截止"
-    },
-    {
-     "title": "Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know",
-     "link": "https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know",
-     "pubDate": "Thu, 15 Oct 2026 17:00:59 +0000",
-     "summary": "This review highlights the main critiques of Abacus AI, its price, user reviews, reliability of workflows, and real-life use cases to assist you in evaluating its advantages and disadvantages.",
-     "source": "KDnuggets",
-     "zh": "Abacus AI 诚实评论：主要批评、事实以及用户应该知道的内容"
     },
     {
      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -66,36 +74,12 @@ window.INDUSTRY_DATA = {
      "zh": "人工智能代理即将来到 Rivian 的汽车中"
     },
     {
-     "title": "Google’s Universal Cart shopping tool launches in the US",
-     "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-     "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
-     "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-     "source": "TechCrunch AI",
-     "zh": "谷歌的通用购物车购物工具在美国推出"
-    },
-    {
      "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
      "link": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
      "pubDate": "Thu, 15 Oct 2026 14:19:27 +0000",
      "summary": "Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the workflows that matter",
      "source": "MarkTechPost",
      "zh": "CopilotKit 发布 CLiF：一个持续学习平台，可将代理跟踪和用户操作转化为技能、评估和微调数据"
-    },
-    {
-     "title": "TechCrunch Disrupt 2026: Last day",
-     "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-     "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
-     "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-     "source": "TechCrunch AI",
-     "zh": "TechCrunch 颠覆 2026：最后一天"
-    },
-    {
-     "title": "Building AI Applications with OGX, the Open-Source Agentic API Server",
-     "link": "https://www.kdnuggets.com/building-ai-applications-with-open-source-agentic-api-server-ogx",
-     "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
-     "summary": "OGX is an open-source agentic API server for building OpenAI-compatible AI applications, using any model and any infrastructure.",
-     "source": "KDnuggets",
-     "zh": "使用开源 Agentic API 服务器 OGX 构建 AI 应用程序"
     },
     {
      "title": "OpenRouter周榜全球第二，这个国产模型终于开源了",
@@ -130,14 +114,6 @@ window.INDUSTRY_DATA = {
      "zh": "万字深度解密：华为麒麟2026韬定律大量技术细节首披露"
     },
     {
-     "title": "7 Open-Source AI Tools That Can Replace Paid Subscriptions",
-     "link": "https://www.kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions",
-     "pubDate": "Thu, 15 Oct 2026 12:00:34 +0000",
-     "summary": "Find open-source alternatives to OpenAI API, Midjourney, Claude Code, Notion, Wispr Flow, Grammarly, and NotebookLM that you can run locally or self-host for more privacy, control, and lower cost.",
-     "source": "KDnuggets",
-     "zh": "7 个可以取代付费订阅的开源人工智能工具"
-    },
-    {
      "title": "剑指博通，这家国产互连芯片公司藏不住了",
      "link": "https://zhidx.com/p/601291.html",
      "pubDate": "Thu, 15 Oct 2026 19:40:19 +0800",
@@ -146,12 +122,60 @@ window.INDUSTRY_DATA = {
      "zh": "剑指博通，这家国产互连芯片公司藏不住了"
     },
     {
+     "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+     "link": "https://www.qbitai.com/2026/10/503645.html",
+     "pubDate": "Thu, 15 Oct 2026 10:07:08 +0000",
+     "summary": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
+     "source": "量子位",
+     "zh": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相"
+    },
+    {
+     "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+     "link": "https://www.qbitai.com/2026/10/503640.html",
+     "pubDate": "Thu, 15 Oct 2026 09:43:29 +0000",
+     "summary": "Siri AI这次不包括在内",
+     "source": "量子位",
+     "zh": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本"
+    },
+    {
      "title": "Apertus 1.5 Release Notes",
      "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
      "pubDate": "Thu, 15 Oct 2026 09:08:45 GMT",
      "summary": "",
      "source": "Hugging Face",
      "zh": "打开 1.5 发行说明"
+    },
+    {
+     "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+     "link": "https://www.qbitai.com/2026/10/503614.html",
+     "pubDate": "Thu, 15 Oct 2026 08:48:31 +0000",
+     "summary": "Agent究竟该如何深入业务毛细血管？",
+     "source": "量子位",
+     "zh": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架"
+    },
+    {
+     "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+     "link": "https://www.qbitai.com/2026/10/503611.html",
+     "pubDate": "Thu, 15 Oct 2026 08:16:19 +0000",
+     "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+     "source": "量子位",
+     "zh": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者"
+    },
+    {
+     "title": "这个双十一，百灵新模型干起活来不烧心",
+     "link": "https://www.qbitai.com/2026/10/503532.html",
+     "pubDate": "Thu, 15 Oct 2026 07:35:24 +0000",
+     "summary": "大模型好不好用，百灵拿成品说话",
+     "source": "量子位",
+     "zh": "这个双十一，百灵新模型干起活来不烧心"
+    },
+    {
+     "title": "AI时代，商学院这样培养未来商业领袖",
+     "link": "https://www.qbitai.com/2026/10/503504.html",
+     "pubDate": "Thu, 15 Oct 2026 07:22:34 +0000",
+     "summary": "未来十年共创1000个AI课题",
+     "source": "量子位",
+     "zh": "AI时代，商学院这样培养未来商业领袖"
     },
     {
      "title": "星巴克在用的“AI工作群”，累计融资近3亿元",
@@ -224,30 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model develop",
      "source": "arXiv cs.AI",
      "zh": "代理数据科学中的无声失败"
-    },
-    {
-     "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-     "link": "https://arxiv.org/abs/2610.14118",
-     "pubDate": "Thu, 15 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post-",
-     "source": "arXiv cs.AI",
-     "zh": "ClawLoop：通过 Harness-Native 训练循环自我改进代理"
-    },
-    {
-     "title": "Correction Training for Diffusion Models",
-     "link": "https://arxiv.org/abs/2610.14136",
-     "pubDate": "Thu, 15 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier ",
-     "source": "arXiv cs.AI",
-     "zh": "扩散模型的校正训练"
-    },
-    {
-     "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
-     "link": "https://arxiv.org/abs/2610.14146",
-     "pubDate": "Thu, 15 Oct 2026 00:00:00 -0400",
-     "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension ",
-     "source": "arXiv cs.AI",
-     "zh": "Long-Horizo​​n-Terminal-Bench 2.0：自动化多样化任务构建并衡量持续的智能体进度"
     }
    ]
   },
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "6 Countries Pledge Faster Cargo Transfers on Eurasia-Europe Land Bridge",
+     "link": "https://oilprice.com/Geopolitics/International/6-Countries-Pledge-Faster-Cargo-Transfers-on-Eurasia-Europe-Land-Bridge.html",
+     "pubDate": "Thu, 15 Oct 2026 15:00:00 -0500",
+     "summary": "Six states participating in an initiative to improve a Eurasia-to-Europe trade corridor have agreed on measures to reduce transit times at intermodal nodes along the route. Meeting in Tashkent on October 11, railway officials from Azerbaijan, Georgia, Kyrgyzstan, Turkey, Turkmenistan, and Uzbekistan",
+     "source": "OilPrice",
+     "zh": "六国承诺加快欧亚大陆桥货物转运速度"
+    },
+    {
      "title": "Ukraine Strikes Major Russian Oil Refinery",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Strikes-Major-Russian-Oil-Refinery.html",
      "pubDate": "Thu, 15 Oct 2026 14:30:00 -0500",
@@ -904,14 +912,6 @@ window.INDUSTRY_DATA = {
      "summary": "WHEN Hiroshi Okuda assumed the presidency of Toyota Motor Corporation in 1995, he fundamentally shifted the automaker’s global strategy. Recognizing the pressure of California’s impending zero-emission mandates and the long-term threat of petroleum depletion, Okuda demanded that Toyota accelerate it",
      "source": "CleanTechnica",
      "zh": "RAV-4 是一款电动汽车实验品，并将继续成为其中之一"
-    },
-    {
-     "title": "EIA Says US Crude Inventories Down Nearly 9 Million Barrels",
-     "link": "https://oilprice.com/Energy/Crude-Oil/EIA-Says-US-Crude-Inventories-Down-Nearly-9-Million-Barrels.html",
-     "pubDate": "Thu, 15 Oct 2026 11:09:12 -0500",
-     "summary": "Crude oil inventories in the United States saw a decrease of 8.6 million barrels during the week ending October 9, according to new data from the U.S. Energy Information Administration (EIA) released on Thursday. The decrease brings commercial stockpiles to 415.6 million barrels, according to govern",
-     "source": "OilPrice",
-     "zh": "EIA称美国原油库存减少近900万桶"
     },
     {
      "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
@@ -1090,6 +1090,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success",
+     "link": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss",
+     "pubDate": "Thu, 15 Oct 2026 19:58:35 +0000",
+     "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
+     "source": "STAT News",
+     "zh": "在癌症疫苗初步成功后，默克和 Moderna 仍有“大量探索要做”"
+    },
+    {
      "title": "CDC page supporting Covid vaccines for pregnancy went dark",
      "link": "https://endpoints.news/cdc-page-supporting-covid-vaccines-for-pregnancy-went-dark/",
      "pubDate": "Thu, 15 Oct 2026 19:05:35 +0000",
@@ -1218,14 +1226,6 @@ window.INDUSTRY_DATA = {
      "zh": "旧金山健康人工智能的脉搏"
     },
     {
-     "title": "STAT+: Pharmalittle: We’re reading about former FDA head calling DOGE a ‘disaster,’ an AstraZeneca AI deal, and more",
-     "link": "https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss",
-     "pubDate": "Thu, 15 Oct 2026 13:31:56 +0000",
-     "summary": "Three former FDA chiefs lit into the Trump administration, criticizing the now former FDA officials who oversaw a massive staff exodus",
-     "source": "STAT News",
-     "zh": "STAT+：Pharmalittle：我们正在阅读有关前 FDA 负责人称 DOGE 为“灾难”、阿斯利康 AI 交易等的内容"
-    },
-    {
      "title": "Thirty Million Compartments: Testing Single-Molecule PCR’s Potential",
      "link": "https://www.genengnews.com/sponsored/thirty-million-compartments-testing-single-molecule-pcrs-potential/",
      "pubDate": "Thu, 15 Oct 2026 12:48:55 +0000",
@@ -1289,6 +1289,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Astronomers discover the 1st ever green star, a cosmic zombie just in time for Halloween",
+     "link": "https://www.space.com/astronomy/stars/astronomers-discover-the-1st-ever-green-star-a-cosmic-zombie-just-in-time-for-halloween",
+     "pubDate": "Thu, 15 Oct 2026 20:00:00 +0000",
+     "summary": "Imagine if the sun could take on a spooky green glow for Halloween. Scientists have discovered that our star may go green if it turns into a cosmic zombie after its death in billions of years.",
+     "source": "Space.com",
+     "zh": "天文学家发现了第一颗绿色恒星，一颗宇宙僵尸，正好赶上万圣节"
+    },
     {
      "title": "On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-15-2026",
@@ -1392,14 +1400,6 @@ window.INDUSTRY_DATA = {
      "summary": "Martian sands blown by strong winds left rippled ridges on the surface of the Red Planet, as seen in this new image from the Mars Express spacecraft.",
      "source": "Space.com",
      "zh": "火星上被风吹动的雅丹2026 年 10 月 15 日当天的太空照片"
-    },
-    {
-     "title": "Beat light pollution with these six portable telescopes",
-     "link": "https://www.space.com/stargazing/skywatching-kit/beat-light-pollution-with-these-six-portable-telescopes",
-     "pubDate": "Thu, 15 Oct 2026 13:00:00 +0000",
-     "summary": "Sick of skyglow spoiling your stargazing? These six telescopes are portable enough that you can easily pack them away and seek out darker skies.",
-     "source": "Space.com",
-     "zh": "用这六种便携式望远镜战胜光污染"
     },
     {
      "title": "BlackSky Renews HEO Deal, Adds Gen-3 Imagery for Space Domain Awareness",
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Perplexity open sources SPACE, its AI agent sandbox, and says partners including CoreWeave, Akamai, and Crusoe agreed to offer SPACE to customers (Reed Albergotti/Semafor)",
+     "link": "https://www.techmeme.com/261015/p47#a261015p47",
+     "pubDate": "Thu, 15 Oct 2026 16:00:13 -0400",
+     "summary": "Reed Albergotti / Semafor : Perplexity open sources SPACE, its AI agent sandbox, and says partners including CoreWeave, Akamai, and Crusoe agreed to offer SPACE to customers &nbsp; &mdash;&nbsp; THE SCOOP&nbsp; &mdash;&nbsp; Perplexity is giving away the software it has been using to combat rogue AI",
+     "source": "Techmeme",
+     "zh": "Perplexity 开源了其 AI 代理沙箱 SPACE，并表示包括 CoreWeave、Akamai 和 Crusoe 在内的合作伙伴同意向客户提供 SPACE（Reed Albergotti/Semafor）"
+    },
+    {
      "title": "The next developer interface is ambient intelligence",
      "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
      "pubDate": "Thu, 15 Oct 2026 19:39:27 +0000",
@@ -1781,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
      "pubDate": "Thu, 15 Oct 2026 19:21:38 +0000",
-     "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 7 # Comments: 4",
+     "summary": "Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 22 # Comments: 8",
      "source": "Hacker News",
      "zh": "Torrent 网站上有人不断地操弄我的 Sonarr"
     },
@@ -1792,6 +1800,14 @@ window.INDUSTRY_DATA = {
      "summary": "Ben Penn / Bloomberg Law : Sources: top DOJ officials halt career prosecutors' Biden-era investigation of Meta over facilitating illegal drug sales and are weighing more lenient options &nbsp; &mdash;&nbsp; Top Justice Department officials have sidelined career prosecutors' long-running grand jury i",
      "source": "Techmeme",
      "zh": "资料来源：司法部高级官员停止了职业检察官拜登时代对 Meta 提供便利非法毒品销售的调查，并正在考虑更宽松的选择（Ben Penn/彭博法律）"
+    },
+    {
+     "title": "What did the Liberty Bell sound like? Science is on the case.",
+     "link": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+     "pubDate": "Thu, 15 Oct 2026 19:10:03 +0000",
+     "summary": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.",
+     "source": "Ars Technica",
+     "zh": "自由钟听起来是什么样的？科学正在研究这个案例。"
     },
     {
      "title": "Upgrade Your Thermostat for Winter With This Ecobee Deal for $120",
@@ -1805,9 +1821,17 @@ window.INDUSTRY_DATA = {
      "title": "We are entering a period of overlapping crises",
      "link": "https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/",
      "pubDate": "Thu, 15 Oct 2026 18:54:36 +0000",
-     "summary": "Article URL: https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/ Comments URL: https://news.ycombinator.com/item?id=50108491 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/ Comments URL: https://news.ycombinator.com/item?id=50108491 Points: 12 # Comments: 6",
      "source": "Hacker News",
      "zh": "我们正在进入一个危机重叠的时期"
+    },
+    {
+     "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
+     "link": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
+     "pubDate": "Thu, 15 Oct 2026 18:48:11 +0000",
+     "summary": "Suspected Russian drones attack chemical tanker within Romanian waters.",
+     "source": "Ars Technica",
+     "zh": "黑海无人机袭击首次进入北约国家领海"
     },
     {
      "title": "Google says it has 400+ publications in its News AI pilot, which tests features like overviews; participants include Financial Times, CNN, and The Texas Tribune (Andrew Deck/Nieman Lab)",
@@ -1818,10 +1842,18 @@ window.INDUSTRY_DATA = {
      "zh": "谷歌表示，其新闻 AI 试点项目拥有 400 多篇出版物，该试点项目测试概述等功能；参与者包括《金融时报》、CNN 和《德克萨斯论坛报》（Andrew Deck/Nieman Lab）"
     },
     {
+     "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
+     "link": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
+     "pubDate": "Thu, 15 Oct 2026 18:39:17 +0000",
+     "summary": "Its effect on people remains an ongoing question.",
+     "source": "Ars Technica",
+     "zh": "水中的微塑料不具有惰性，会自行产生有害化学物质"
+    },
+    {
      "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
      "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
      "pubDate": "Thu, 15 Oct 2026 18:38:16 +0000",
-     "summary": "Article URL: https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4 Comments URL: https://news.ycombinator.com/item?id=50108229 Points: 26 # Comments: 5",
+     "summary": "Article URL: https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4 Comments URL: https://news.ycombinator.com/item?id=50108229 Points: 37 # Comments: 9",
      "source": "Hacker News",
      "zh": "E Ink 推出最新版本彩色电子纸平台 E Ink Kaleido 4"
     },
@@ -1829,9 +1861,17 @@ window.INDUSTRY_DATA = {
      "title": "Why We're Banning AI",
      "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
      "pubDate": "Thu, 15 Oct 2026 18:32:29 +0000",
-     "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 113 # Comments: 92",
+     "summary": "Article URL: https://www.currentaffairs.org/news/why-were-banning-ai Comments URL: https://news.ycombinator.com/item?id=50108131 Points: 144 # Comments: 109",
      "source": "Hacker News",
      "zh": "为什么我们要禁止人工智能"
+    },
+    {
+     "title": "Trump cancels Pentagon plans to livestream firing squad execution",
+     "link": "https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/",
+     "pubDate": "Thu, 15 Oct 2026 18:16:36 +0000",
+     "summary": "8 in 10 Americans opposed the Pentagon's plans, a Thursday poll showed.",
+     "source": "Ars Technica",
+     "zh": "特朗普取消五角大楼直播行刑队行刑的计划"
     },
     {
      "title": "Two workers have been killed and another seriously injured at Intel&apos;s Kiryat Gat fab in Israel in an explosion resulting from a gas cylinder malfunctioning (CTech)",
@@ -1861,41 +1901,33 @@ window.INDUSTRY_DATA = {
      "title": "Muse Spark Open",
      "link": "https://research.meta.ai/blog/muse-spark-open",
      "pubDate": "Thu, 15 Oct 2026 17:47:39 +0000",
-     "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 324 # Comments: 214",
+     "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 348 # Comments: 224",
      "source": "Hacker News",
      "zh": "缪斯火花开放"
     },
     {
-     "title": "Anthropic says it is giving employee-like access to METR as part of its pledge to partner with evaluators for assessment of its models and safety practices (Anthropic)",
-     "link": "https://www.techmeme.com/261015/p41#a261015p41",
-     "pubDate": "Thu, 15 Oct 2026 13:46:31 -0400",
-     "summary": "Anthropic : Anthropic says it is giving employee-like access to METR as part of its pledge to partner with evaluators for assessment of its models and safety practices &nbsp; &mdash;&nbsp; Last month, we committed to stronger independent, third-party assessment of our models and safety practices.",
-     "source": "Techmeme",
-     "zh": "Anthropic 表示，它正在向员工提供类似 METR 的访问权限，作为其与评估人员合作评估其模型和安全实践的承诺的一部分 (Anthropic)"
-    },
-    {
-     "title": "An update on independent evaluators",
-     "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-     "pubDate": "Thu, 15 Oct 2026 17:30:10 +0000",
-     "summary": "Article URL: https://www.anthropic.com/news/an-update-on-independent-evaluators Comments URL: https://news.ycombinator.com/item?id=50107114 Points: 24 # Comments: 8",
+     "title": "More on Anthropic's Scion ripping off Mononoke",
+     "link": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+     "pubDate": "Thu, 15 Oct 2026 17:05:19 +0000",
+     "summary": "Redesigning source control at Anthropic - https://news.ycombinator.com/item?id=50073633 (996 comments) Anthropic's Scion is heavily inspired by Mononoke - https://news.ycombinator.com/item?id=50094694 (149 comments) Comments URL: https://news.ycombinator.com/item?id=50106738 Points: 170 # Comments: ",
      "source": "Hacker News",
-     "zh": "独立评估员的最新情况"
+     "zh": "更多关于 Anthropic 的 Scion 抄袭《幽灵》的内容"
     },
     {
      "title": "White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM",
      "link": "https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/",
      "pubDate": "Thu, 15 Oct 2026 17:05:19 +0000",
-     "summary": "Trump's newly installed press secretary tells WIRED that in the early 2010s, she promoted a product for a company then called Beachbody, which she described as “sort of a pyramid scheme.”",
+     "summary": "Trump’s newly installed press secretary tells WIRED that in the early 2010s, she promoted a product for a company then called Beachbody, which she described as “sort of a pyramid scheme.”",
      "source": "WIRED",
      "zh": "白宫新闻秘书凯蒂·扎卡里亚 (Katie Zacharia) 是一家健身传销公司的附属营销人员"
     },
     {
-     "title": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
+     "title": "Neutron's first launch slips again amid trouble with carbon composites",
      "link": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
      "pubDate": "Thu, 15 Oct 2026 16:57:24 +0000",
      "summary": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
      "source": "Ars Technica",
-     "zh": "火箭实验室宣布其中程中子火箭再次推迟"
+     "zh": "由于碳复合材料的问题，Neutron 的首次发射再次陷入困境"
     },
     {
      "title": "消息称苹果已发出 10 月 28 日邀请函，首款触屏 MacBook、iPad mini 8、M6 Mac 即将到来",
@@ -1904,14 +1936,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 16 日消息，苹果在 10 月的第二波新品有望 10 月 28 日到来，彭博社记者 Mark Gurman 于 10 月 15 日爆料称，苹果正邀请部分媒体参加 10 月 28 日在美国洛杉矶举办的产品发布会， 预计推出触摸屏 MacBook、iPad mini 新品、M6 Mac 。 在活动方式方面，Gurman 曾爆料称本次活动不会采用传统苹果发布会的现场直播形式， 主要面向内容创作者 ，会设置产品体验环节，形式类似苹果于 10 月 13 日在纽约举办的活动。 IT之家获悉，产品方面，Gurman 预估苹果公司会在本次活动中推出 4 款设备： 14 英寸的 MacBoo",
      "source": "IT之家",
      "zh": "消息称苹果已发出 10 月 28 日邀请函，首款触屏 MacBook、iPad mini 8、M6 Mac 即将到来"
-    },
-    {
-     "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-     "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
-     "pubDate": "Thu, 15 Oct 2026 16:45:37 +0000",
-     "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-     "source": "TechCrunch",
-     "zh": "SK海力士讨价还价向其中国工厂出口芯片设备，以换取在美国建厂"
     },
     {
      "title": "华为余承东就“三部门联合调查刹车踏板支架断裂问题”表态：正义可能会迟到，但永远不会缺席！",
@@ -1976,30 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 15 日消息，雷蛇今日发布梭鱼 V2 专业版（Barracuda V2 Pro）无线游戏耳机，新品在美国市场的定价为 199.99 美元 （IT之家注：现汇率约合 1,341 元人民币） ，国行版本预计将于近期公布。 音频方面，梭鱼 V2 专业版搭载雷蛇 TriForce 生物纤维素 40mm 驱动单元，强调高频清脆、中频清晰以及无失真低频。连接 PC 时可通过雷蛇 Synapse 4 启用 THX Spatial Audio+，提供 7.1.4 虚拟环绕声，在传统 7.1 声道基础上增加四个顶部声道，使声音线索不仅能在玩家周围定位，还能从上方呈现。 这款耳机同时配备混合主",
      "source": "IT之家",
      "zh": "雷蛇梭鱼 V2 专业版耳机发布：285g 可折叠、70 小时续航，199.99 美元"
-    },
-    {
-     "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-     "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-     "pubDate": "Thu, 15 Oct 2026 15:43:24 +0000",
-     "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-     "source": "Ars Technica",
-     "zh": "报告：特朗普将人工智能担忧斥为“骗局”后，FTC 调查了 Anthropic 和 OpenAI"
-    },
-    {
-     "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-     "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-     "pubDate": "Thu, 15 Oct 2026 15:12:58 +0000",
-     "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
-     "source": "Ars Technica",
-     "zh": "歌手还是铮铮的？ YouTube Music 将通过新一代人工智能标签告诉您。"
-    },
-    {
-     "title": "Rewilding could help vulnerable islands keep pace with rising seas",
-     "link": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
-     "pubDate": "Thu, 15 Oct 2026 15:05:40 +0000",
-     "summary": "Seabirds, native plants, and healthy reefs can help atolls build as seas rise.",
-     "source": "Ars Technica",
-     "zh": "重新野化可以帮助脆弱的岛屿跟上海平面上升的步伐"
     }
    ]
   },
@@ -2009,6 +2009,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "OpenAI sues Apple, claims an Apple employee stole proprietary info on an unreleased product",
+     "link": "https://www.gsmarena.com/openai_sues_apple_claims_an_apple_employee_stole_proprietary_info_on_an_unreleased_product-news-75061.php",
+     "pubDate": "Thu, 15 Oct 2026 22:01:02 +0200",
+     "summary": "Back in July, Apple filed a lawsuit against OpenAI, claiming that two of its former employees stole proprietary IP from Apple and handed it over to OpenAI. Now the tables have turned – OpenAI claims that an unidentified employee left Apple, worked at OpenAI for six months and then returned to Apple ",
+     "source": "GSMArena",
+     "zh": "OpenAI 起诉苹果，声称苹果员工窃取了未发布产品的专有信息"
+    },
+    {
+     "title": "Here’s Apple’s official response to OpenAI’s trade secret theft allegations",
+     "link": "https://9to5mac.com/2026/10/15/heres-apples-official-response-to-openais-trade-secret-theft-allegations/",
+     "pubDate": "Thu, 15 Oct 2026 19:57:37 +0000",
+     "summary": "Apple has responded to OpenAI’s allegations that one of its former employees who departed for Apple took confidential files along with him. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "以下是苹果公司对 OpenAI 商业秘密盗窃指控的官方回应"
+    },
+    {
+     "title": "Google updates Android earthquake alerts with more info, expands to 200+ regions",
+     "link": "https://9to5google.com/2026/10/15/android-earthquake-alerts-update-regions/",
+     "pubDate": "Thu, 15 Oct 2026 19:45:00 +0000",
+     "summary": "Google is delivering an update to Android’s earthquake alerts system that will show more information while also expanding support to over 200 regions across the globe. more…",
+     "source": "9to5Google",
+     "zh": "谷歌更新 Android 地震警报，提供更多信息，扩展到 200 多个地区"
+    },
     {
      "title": "FTC subpoenas OpenAI and Anthropic following safety failures",
      "link": "https://www.engadget.com/2288104/ftc-subpoenas-open-ai-and-anthropic-following-safety-failures/",
@@ -2178,14 +2202,6 @@ window.INDUSTRY_DATA = {
      "zh": "YouTube Music 现在会告诉您歌曲是否是使用 AI 制作的"
     },
     {
-     "title": "Meta launches new Muse Spark Open model, optimized to run on Mac Studio",
-     "link": "https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/",
-     "pubDate": "Thu, 15 Oct 2026 17:00:00 +0000",
-     "summary": "Meta today unveiled Muse Spark Open, which it says is the “most capable US open-weight model to date.” For Apple users, Meta says Muse Spark Open is optimized to run on the Mac Studio powered by M5 Ultra. more…",
-     "source": "9to5Mac",
-     "zh": "Meta 推出新的 Muse Spark Open 模型，经过优化可在 Mac Studio 上运行"
-    },
-    {
      "title": "Save 25% on Amazon’s premium Echo Dot Max smart speaker",
      "link": "https://www.androidauthority.com/echo-dot-max-deal-amazon-3723983/",
      "pubDate": "Thu, 15 Oct 2026 16:54:22 +0000",
@@ -2232,22 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Based on a recent report, YouTube is apparently considering adding audiobooks as a new medium alongside music and video. more…",
      "source": "9to5Google",
      "zh": "据报道，YouTube“正在考虑”将有声读物添加到 Premium 中"
-    },
-    {
-     "title": "Here's when iPhone 18 production is rumored to start",
-     "link": "https://www.gsmarena.com/heres_when_iphone_18_production_is_rumored_to_start-news-75053.php",
-     "pubDate": "Thu, 15 Oct 2026 16:41:02 +0200",
-     "summary": "Apple only launched the iPhone 18 Pro and iPhone 18 Pro Max in September, after plenty of reports said the vanilla iPhone 18 would be delayed until next spring. Today, a tipster on Weibo has shared a hint as to when production of the standard model will start. According to the tipster, the iPhone 18",
-     "source": "GSMArena",
-     "zh": "据传 iPhone 18 的生产将于此时开始"
-    },
-    {
-     "title": "Google rolling out Universal Cart that lets you shop the web and find deals with Gemini, Search",
-     "link": "https://9to5google.com/2026/10/15/google-rolling-out-universal-cart-that-lets-you-shop-the-web-and-find-deals-with-gemini-search/",
-     "pubDate": "Thu, 15 Oct 2026 14:40:00 +0000",
-     "summary": "Following its announcement at Google I/O earlier this year , Google’s new Universal Cart is now rolling out in the US, giving you the ability to shop the web and watch for deals using Search, Gemini, and more. more…",
-     "source": "9to5Google",
-     "zh": "谷歌推出通用购物车，让你可以在网上购物并找到Gemini、搜索的优惠"
     }
    ]
   },
@@ -2258,6 +2258,86 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "U.S. equities finished in the green after the latest PPI inflation report landed",
+     "link": "https://seekingalpha.com/news/4653581-us-equities-finished-in-the-green-after-the-latest-ppi-inflation-report-landed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 16:02:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "最新 PPI 通胀报告公布后，美国股市收涨"
+    },
+    {
+     "title": "SA analyst: AI buildout faces major credit and energy bottlenecks",
+     "link": "https://seekingalpha.com/news/4653583-sa-analyst-ai-buildout-faces-major-credit-and-energy-bottlenecks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 16:01:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SA分析师：人工智能建设面临主要信贷和能源瓶颈"
+    },
+    {
+     "title": "First Merchants Corporation 7.50% PFD SER Aprice alerts declares $0.4688 dividend",
+     "link": "https://seekingalpha.com/news/4653591-first-merchants-corporation-7_50-percent-pfd-ser-aprice-alerts-declares-0_4688-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 16:01:19 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "First Merchants Corporation 7.50% PFD SER Aprice 提醒宣布股息 0.4688 美元"
+    },
+    {
+     "title": "Donegal Group declares $0.1925 dividend",
+     "link": "https://seekingalpha.com/news/4653585-donegal-group-declares-0_1925-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 16:00:05 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "多尼戈尔集团宣布股息 0.1925 美元"
+    },
+    {
+     "title": "Diamondback, Expand Energy among top E&P picks at Scotiabank",
+     "link": "https://seekingalpha.com/news/4653582-diamondback-expand-energy-among-top-ep-picks-at-scotiabank?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 15:59:12 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Diamondback、Expand Energy 是丰业银行勘探与生产的首选"
+    },
+    {
+     "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
+     "link": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
+     "pubDate": "Thu, 15 Oct 2026 19:53:41 GMT",
+     "summary": "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.",
+     "source": "CNBC",
+     "zh": "肯德基几十年来首次在美国餐厅改用可口可乐饮料"
+    },
+    {
+     "title": "Brian Sullivan: Why the &apos;real&apos; price of oil is likely $30-$40 higher than where it is now",
+     "link": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
+     "pubDate": "Thu, 15 Oct 2026 19:53:29 GMT",
+     "summary": "Physical oil can cost about $38 a barrel more to deliver, as tanker rates surge.",
+     "source": "CNBC",
+     "zh": "Brian Sullivan：为什么石油的“实际”价格可能比现在高 30 至 40 美元"
+    },
+    {
+     "title": "沙特称胡塞武装袭击利雅得机场共致17死333伤",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897339168.html",
+     "pubDate": "Fri, 16 Oct 2026 03:46:22 +0800",
+     "summary": "沙特阿拉伯主导的多国联军发言人图尔基·马利基15日在沙特首都利雅得举行的新闻发布会上说，也门胡塞武装10月以来对利雅得哈立德国王国际 机场 的袭击共造成17人死亡、333人受伤。这是联军近期首次举行新闻发布会。马利基重点通报了胡塞武装针对哈立德国王国际 机场 及其他多地的袭击情况，以及联军对胡塞武装的打击情况。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "沙特称胡塞武装袭击利雅得机场共致17死333伤"
+    },
+    {
+     "title": "现货白银走高涨超3% 现报57.42美元/盎司",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897338941.html",
+     "pubDate": "Fri, 16 Oct 2026 03:46:14 +0800",
+     "summary": "现货 白银 走高涨超3%，现报57.42美元/盎司。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "现货白银走高涨超3% 现报57.42美元/盎司"
+    },
+    {
+     "title": "现货白银走高涨超3%，现报57.42美元/盎司",
+     "link": "http://finance.eastmoney.com/news/1362,202610163897339055.html",
+     "pubDate": "Fri, 16 Oct 2026 03:45:10 +0800",
+     "summary": "现货 白银 走高涨超3%，现报57.42美元/盎司。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "现货白银走高涨超3%，现报57.42美元/盎司"
+    },
+    {
      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump&apos;s White House ballroom",
      "link": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
      "pubDate": "Thu, 15 Oct 2026 19:43:40 GMT",
@@ -2266,12 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达和思科确认向特朗普的白宫舞厅捐赠数百万美元"
     },
     {
-     "title": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-     "link": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
-     "pubDate": "Thu, 15 Oct 2026 19:41:11 GMT",
-     "summary": "The latest 12-month period marked the strongest return for the university's fund since 2021.",
-     "source": "CNBC",
-     "zh": "哈佛大学的捐赠基金在 2026 财年增长了 27%，SpaceX 成为最大持股者"
+     "title": "美国投资公司协会数据显示：美国货币市场基金资产规模降至7.92万亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897338863.html",
+     "pubDate": "Fri, 16 Oct 2026 03:40:11 +0800",
+     "summary": "美国投资公司协会（ICI）数据显示，美国货币市场基金资产规模降至7.92万亿美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国投资公司协会数据显示：美国货币市场基金资产规模降至7.92万亿美元"
     },
     {
      "title": "Former PepsiCo property KFC is switching to Coca-Cola products in the U.S.",
@@ -2280,22 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "前百事可乐旗下肯德基正在美国转向使用可口可乐产品"
-    },
-    {
-     "title": "Nasdaq resolves network disruption that affected some equities markets (update)",
-     "link": "https://seekingalpha.com/news/4653516-nasdaq-network-disruption-affects-some-equities-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 15:33:45 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "纳斯达克解决了影响部分股票市场的网络中断问题（更新）"
-    },
-    {
-     "title": "Par Pacific plunges as Goldman Sachs downgrades after catalysts play out",
-     "link": "https://seekingalpha.com/news/4653578-par-pacific-plunges-as-goldman-sachs-downgrades-after-catalysts-played-out?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 15:33:41 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "高盛在催化剂失效后下调评级，太平洋标准普尔指数暴跌"
     },
     {
      "title": "泽连斯基对“星链”限流无比愤怒",
@@ -2314,20 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "特斯拉计划在推迟近十年后推出下一代 Roadster"
     },
     {
-     "title": "美国投资公司协会（ICI）数据显示，美国货币市场基金资产规模降至7.92万亿美元",
-     "link": "http://fund.eastmoney.com/news/11794,202610163897338236.html",
-     "pubDate": "Fri, 16 Oct 2026 03:27:13 +0800",
-     "summary": "美国投资公司协会（ICI）数据显示，美国货币市场基金资产规模降至7.92万亿美元。 （文章来源：财联社）",
+     "title": "花旗称：短期对铝价维持中性看法 投资者正逐步忽略当前现货供应紧张局面",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897338730.html",
+     "pubDate": "Fri, 16 Oct 2026 03:27:14 +0800",
+     "summary": "花旗称，短期对 铝 价维持中性看法，投资者正逐步忽略当前现货供应紧张局面，转而关注2027年可能出现的供应过剩。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "美国投资公司协会（ICI）数据显示，美国货币市场基金资产规模降至7.92万亿美元"
-    },
-    {
-     "title": "肯德基接近达成协议，在美国数千家餐厅开展百事可乐换购活动，门店将换用可口可乐饮品，达成的合作将在1月正式落地",
-     "link": "http://finance.eastmoney.com/news/1354,202610163897337959.html",
-     "pubDate": "Fri, 16 Oct 2026 03:26:22 +0800",
-     "summary": "肯德基接近达成协议，在美国数千家餐厅开展 百事 可乐换购活动，门店将换用 可口可乐 饮品，达成的合作将在1月正式落地。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "肯德基接近达成协议，在美国数千家餐厅开展百事可乐换购活动，门店将换用可口可乐饮品，达成的合作将在1月正式落地"
+     "zh": "花旗称：短期对铝价维持中性看法 投资者正逐步忽略当前现货供应紧张局面"
     },
     {
      "title": "U.S. sues California in fight over checking citizenship of mail voters",
@@ -2338,52 +2394,28 @@ window.INDUSTRY_DATA = {
      "zh": "美国起诉加州，要求核实邮寄选民的公民身份"
     },
     {
-     "title": "First Horizon outlines ~$4.5B mortgage loan sale and targets ~4% 2027 EPS accretion while expecting NIM in the 3.50s",
-     "link": "https://seekingalpha.com/news/4653579-first-horizon-outlines-4_5b-mortgage-loan-sale-and-targets-4-percent-2027-eps-accretion-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 15:25:48 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "First Horizo​​n 概述了约 4.5B 美元的抵押贷款销售，并设定了 2027 年 EPS 增长约 4% 的目标，同时预计净息差在 3.50 左右"
-    },
-    {
-     "title": "Karman Holdings rallies 11% after three-session slide",
-     "link": "https://seekingalpha.com/news/4653571-karman-holdings-rallies-11-after-three-session-slide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 15:19:54 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "卡曼控股 (Karman Holdings) 连续三个交易日下跌后上涨 11%"
-    },
-    {
-     "title": "AI infrastructure stocks tumble amid inflation, debt worries",
-     "link": "https://seekingalpha.com/news/4653576-ai-infrastructure-stocks-tumble-amid-inflation-debt-worries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 15:18:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "人工智能基础设施股因通胀和债务担忧而暴跌"
-    },
-    {
-     "title": "“星链”疑云！马斯克最新回应→",
-     "link": "http://global.eastmoney.com/news/11798,202610163897337622.html",
-     "pubDate": "Fri, 16 Oct 2026 03:14:29 +0800",
-     "summary": "乌克兰总统顾问别斯克列斯特诺夫14日在社交媒体发布消息称， SpaceX 在未提前通知乌军的情况下，对“星链”终端实施限速，直接造成多项军事任务中断。对此，马斯克当天通过社交媒体作出回应。 乌方控诉：“星链”突然限速前线行动受阻 乌方消息人士称，14日凌晨移动状态下的星链终端遭到单方面限制，大幅增加 无人机 执行任务难度，让侦察、后勤保障工作都受到冲击。目前，乌国防部正收集一线信息核查情况，同步对接美国政府、 SpaceX 与北约沟通，并启动备用 通信 渠道。泽连斯基也坦言，对于在星链服务和情报方面遭遇的困境感到遗憾。 俄方称“星链”技术不应用于军事目的 俄罗斯总统新闻秘书佩斯科夫对此事件作出",
-     "source": "东方财富股票",
-     "zh": "“星链”疑云！马斯克最新回应→"
-    },
-    {
-     "title": "俄称打击乌军基础设施 乌称摧毁俄军战机",
-     "link": "http://finance.eastmoney.com/news/11790,202610163897337888.html",
-     "pubDate": "Fri, 16 Oct 2026 03:14:09 +0800",
-     "summary": "俄罗斯国防部15日通报称，过去一天，俄军继续打击乌军使用的基础设施、 无人机 生产车间和储存场所等。在对乌克兰敖德萨州的行动中，俄军打击了一处用于装卸和储存乌军物资的 港口 ，以及两艘运送军用物资的干货船。乌克兰总统泽连斯基15日表示，乌军使用“海王星”导弹对俄罗斯沃罗涅日州一个 机场 发动袭击，俄军4架苏-34战机被摧毁，另外2架遭到打击。乌克兰武装部队总参谋部15日通报称，过去一天，乌军打击了俄军人员集结区和 无人机 发射场。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "俄称打击乌军基础设施 乌称摧毁俄军战机"
+     "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
+     "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 19:26:00 GMT",
+     "summary": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
+     "source": "MarketWatch",
+     "zh": "随着华尔街对人工智能支出的争论，CoreWeave 两极分化的股票反弹"
     },
     {
      "title": "美股三大指数震荡走高 道指涨超1% 可口可乐盘中创历史新高",
      "link": "http://finance.eastmoney.com/news/1345,202610153897165893.html",
      "pubDate": "Fri, 16 Oct 2026 03:02:13 +0800",
      "summary": "美东时间周四，美股三大指数震荡走高，截至发稿，道指涨1.01%，纳指跌0.12%，标普500指数微涨0.21%。 存储股跌幅多数收窄后再度走阔， 截至发稿， 美光科技 跌0.24%， SK海力士 ADR跌1.78%， 闪迪 跌3.31%， 希捷科技 跌5.20%， 西部数据 跌3.93%。 可口可乐 上涨0.43%，报92.17美元/股，总市值约3974亿美元，盘中一度创 历史新高 。 全球要闻 美国9月PPI同比增长6.3% 远超市场预期 美国9月PPI同比增长6.3%，预估5.3%，前值5.4%。美国9月PPI环比增长1.3%，预估0.6%。美国9月零售销售环比增长0.8%，预估为0.3%",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "美股三大指数震荡走高 道指涨超1% 可口可乐盘中创历史新高"
+    },
+    {
+     "title": "This one governor’s race could derail the AI trade that’s powered the stock market",
+     "link": "https://www.marketwatch.com/story/this-one-governors-race-could-derail-the-ai-trade-thats-powered-the-stock-market-6bbf06f8?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
+     "summary": "Here’s the Nov. 3 contest that “presents the biggest election-specific risk,” analysts say.",
+     "source": "MarketWatch",
+     "zh": "这场州长竞选可能会破坏推动股市的人工智能交易"
     },
     {
      "title": "苹果的“家”方案，离国内家庭还差一段路",
@@ -2410,12 +2442,28 @@ window.INDUSTRY_DATA = {
      "zh": "由于人工智能借款人面临“达尔文时刻”，投资者抛售数据中心债券"
     },
     {
+     "title": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
+     "link": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 18:25:00 GMT",
+     "summary": "Shares of AbbVie, Eli Lilly and Gilead Sciences are trading at or near record highs.",
+     "source": "MarketWatch",
+     "zh": "科技股抛售促使投资者转向更安全的押注，大型制药股接近历史高点"
+    },
+    {
      "title": "Meta发布8160亿参数“美国最强开放权重模型”，联手苹果让大模型跑上Mac，最强模型仍闭源",
      "link": "https://wallstreetcn.com/articles/3783726",
      "pubDate": "Fri, 16 Oct 2026 02:12:27 +0800",
      "summary": "Meta推出开放权重模型Muse Spark Open，允许开发者下载模型权重、自行部署和定制，并与苹果合作，让模型能够在两台Mac Studio上运行。与此同时，Meta仍将能力更强的Muse Wonder系列保持闭源，试图在开放开发者生态与AI商业化之间寻找平衡。 美东时间15日周四，Meta发布号称“迄今美国能力最强的开放权重模型”Muse Spark Open。该模型总参数量达8160亿，支持100万Token上下文窗口，主攻编程与智能体任务，重点提升长周期任务执行、复杂软件工程和多步推理能力。 Meta当天公布Muse Spark Open的模型权重。开发者可以通过多个云平台获取模型",
      "source": "华尔街见闻",
      "zh": "Meta发布8160亿参数“美国最强开放权重模型”，联手苹果让大模型跑上Mac，最强模型仍闭源"
+    },
+    {
+     "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+     "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 18:01:00 GMT",
+     "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+     "source": "MarketWatch",
+     "zh": "我妻子说我们负担不起退休的费用。我否决了她8000美元的意大利之旅。我们已经 60 多岁了，拥有 400 万美元。我继续工作吗？"
     },
     {
      "title": "化工下游企业多方施策对冲成本压力",
@@ -2448,54 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "10月15日，深圳市住房和建设局、深圳市规划和自然资源局、国家金融监督管理总局深圳监管局发布《关于贯彻落实的实施意见》，明确完善商品住房预售管理、有序推进现房销售、推行主办银行制度、加大融资支持力度、优化土地供应管理、强化质量监管与市场规范等方面政策措施，对住房城乡建设部、自然资源部、金融监管总局此前联合印发的《关于完善商品住房销售制度的通知》（以下简称《通知》）进行贯彻落实。 《证券日报》记...",
      "source": "经济观察网",
      "zh": "北上广深等七城落地细则 商品住房销售制度改革有序推进"
-    },
-    {
-     "title": "9月中国公路物流运价指数环比回升0.14% 公路运输市场更趋活跃",
-     "link": "http://www.eeo.com.cn/2026/1016/1065948.shtml",
-     "pubDate": "Fri, 16 Oct 2026 01:52:05 +0800",
-     "summary": "10月15日，中国物流与采购联合会和林安物流集团联合调查发布数据显示，9月，中国公路物流运价指数为105.1点，环比回升0.14%，同比回升0.06%。从月内看，第一周运价指数环比有所回升，第二周至第四周运价指数环比有所回落。 中国物流信息中心分析师高帅对《证券日报》记者表示，9月，季节性影响因素逐步减弱，公路运输市场相较前期更趋活跃，运价指数和各车型指数环比均有所回升。但由于市场整体供强需弱特点和“内卷”现...",
-     "source": "经济观察网",
-     "zh": "9月中国公路物流运价指数环比回升0.14% 公路运输市场更趋活跃"
-    },
-    {
-     "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
-     "link": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
-     "pubDate": "Thu, 15 Oct 2026 17:52:01 GMT",
-     "summary": "Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies.",
-     "source": "CNBC",
-     "zh": "Apple 和 Meta 联手让 Muse AI 模型在 Mac 电脑上运行"
-    },
-    {
-     "title": "Risk of an AI crunch for stock markets is rising",
-     "link": "https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d?syn-25a6b1a6=1",
-     "pubDate": "Thu, 15 Oct 2026 16:53:57 GMT",
-     "summary": "The tremor seen this week could be a foretaste of things to come",
-     "source": "Financial Times",
-     "zh": "股市人工智能紧缩的风险正在上升"
-    },
-    {
-     "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-     "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-     "pubDate": "Thu, 15 Oct 2026 16:52:16 GMT",
-     "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
-     "source": "CNBC",
-     "zh": "由于投资者对人工智能债务感到不满，CoreWeave 信用违约掉期触及困境水平"
-    },
-    {
-     "title": "Ramp hits $60bn valuation",
-     "link": "https://www.finextra.com/newsarticle/48591/ramp-hits-60bn-valuation?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 15 Oct 2026 15:35:00 GMT",
-     "summary": "Expense management firm Ramp has closed its second major raise in a matter of months, securing $1.85 billion in a primary financing round led by Dragoneer Investment Group that values the company at $60 billion.",
-     "source": "Finextra",
-     "zh": "Ramp估值达到600亿美元"
-    },
-    {
-     "title": "Mastercard and BVNK bring fiat and stablecoin payments together in global money platform",
-     "link": "https://www.finextra.com/newsarticle/48590/mastercard-and-bvnk-bring-fiat-and-stablecoin-payments-together-in-global-money-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Thu, 15 Oct 2026 15:17:00 GMT",
-     "summary": "Mastercard has launched a platform that brings together its global payments capabilities with the stablecoin infrastructure of its recently acquired BVNK unit through a single API.",
-     "source": "Finextra",
-     "zh": "万事达卡和 BVNK 在全球货币平台上整合法定货币和稳定币支付"
     }
    ]
   },
@@ -2505,6 +2505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "2 giant Ramesses II statues, one wearing a double crown, discovered by man in Egypt",
+     "link": "https://www.livescience.com/archaeology/ancient-egyptians/2-giant-ramesses-ii-statues-one-wearing-a-double-crown-discovered-by-man-in-egypt",
+     "pubDate": "Thu, 15 Oct 2026 20:01:18 +0000",
+     "summary": "The remains of two Ramesses II statues — one of which would have originally stood around 28 feet tall — were found by a villager in Egypt.",
+     "source": "Live Science",
+     "zh": "埃及人发现了两座巨型拉美西斯二世雕像，其中一尊戴着双王冠"
+    },
     {
      "title": "Satellite data reveal how Antarctica’s ice cliffs behave over time",
      "link": "https://news.mit.edu/2026/satellite-data-reveal-how-antarcticas-ice-cliffs-behave-over-time-1015",
@@ -2522,20 +2530,20 @@ window.INDUSTRY_DATA = {
      "zh": "许多美国人的饮食可能没有包含足够的这种必需营养素"
     },
     {
-     "title": "Neutron's first launch slips again amid trouble with carbon composites",
-     "link": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
-     "pubDate": "Thu, 15 Oct 2026 16:57:24 +0000",
-     "summary": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
-     "source": "Ars Technica Science",
-     "zh": "由于碳复合材料的问题，Neutron 的首次发射再次陷入困境"
-    },
-    {
      "title": "'We're not a competitor to fusion. We are fusion': Inside the race to harness unlimited solar power in space",
      "link": "https://www.livescience.com/space/were-not-a-competitor-to-fusion-we-are-fusion-inside-the-race-to-harness-unlimited-solar-power-in-space",
      "pubDate": "Thu, 15 Oct 2026 16:00:00 +0000",
      "summary": "Space-based solar power has the potential to meet Earth's energy needs many times over. Will it see the light of day?",
      "source": "Live Science",
      "zh": "“我们不是核聚变的竞争对手。我们正在融合”：在太空中利用无限太阳能的竞赛"
+    },
+    {
+     "title": "Rewilding could help vulnerable islands keep pace with rising seas",
+     "link": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
+     "pubDate": "Thu, 15 Oct 2026 15:05:40 +0000",
+     "summary": "Seabirds, native plants, and healthy reefs can help atolls build as seas rise.",
+     "source": "Ars Technica Science",
+     "zh": "重新野化可以帮助脆弱的岛屿跟上海平面上升的步伐"
     },
     {
      "title": "Mysterious hole in Neanderthal shoulder blade may have been a 'kill shot' from a wooden spear, according to archaeologists",
@@ -2664,14 +2672,6 @@ window.INDUSTRY_DATA = {
      "summary": "A study of DNA from early colonial-era skeletons in a Montreal cemetery has revealed that none of them had any Indigenous ancestry.",
      "source": "Live Science",
      "zh": "埋藏在蒙特利尔的数百年历史骨骼的 DNA 显示，原住民和法国殖民者之间没有基因混合"
-    },
-    {
-     "title": "Tapeworm drug could help treat endometriosis, mouse study hints",
-     "link": "https://www.livescience.com/health/reproductive-health/tapeworm-drug-could-help-treat-endometriosis-mouse-study-hints",
-     "pubDate": "Wed, 14 Oct 2026 19:34:46 +0000",
-     "summary": "A recent study in mice hints that a modified tapeworm medicine might help relieve painful lesions seen in endometriosis.",
-     "source": "Live Science",
-     "zh": "小鼠研究提示绦虫药物可能有助于治疗子宫内膜异位症"
     },
     {
      "title": "Researchers use AI to design proteins that cut up other proteins",

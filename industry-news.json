@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/16 02:52:02",
+ "generated_at": "2026/10/16 02:56:21",
  "recent_days": 7,
  "industries": [
   {
@@ -374,7 +374,7 @@
      "pubDate": "Thu, 15 Oct 2026 10:54:08 +0000",
      "summary": "A Fraunhofer–IMS Nanofabrication partnership illustrates how Europe's low-volume semiconductor manufacturing can support the world's most advanced chipmaking. The post Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "小批量，大影响：欧洲在先进芯片制造中的隐秘角色"
+     "zh": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking"
     },
     {
      "title": "TSMC has $47bn revenue Q3",
@@ -414,7 +414,7 @@
      "pubDate": "Thu, 15 Oct 2026 09:20:45 GMT",
      "summary": "TSMC will not let customers sublease or auction off their wafer capacity allocations, chairman C.C. Wei said during the company's October 15 earnings call. With AI chip demand still far outstripping supply, Wei said TSMC intends to leave no food on the table, making as much as it can, as fast as it ",
      "source": "DIGITIMES",
-     "zh": "台积电禁止产能转售，旨在不留任何人工智能资金"
+     "zh": "TSMC bars capacity resale, aims to leave no AI money on the table"
     },
     {
      "title": "TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab",
@@ -422,7 +422,7 @@
      "pubDate": "Thu, 15 Oct 2026 09:15:13 GMT",
      "summary": "TSMC Chairman and CEO C.C. Wei announced that, driven by relentless AI momentum and strong demand for advanced process technologies, the company has raised its full-year 2026 US dollar revenue growth guidance to approximately 44%. AI and leading-edge nodes continue to serve as the core growth pillar",
      "source": "DIGITIMES",
-     "zh": "台积电投资者大会：台积电上调2026年营收增速至44%、2nm扩产、新建3nm晶圆厂"
+     "zh": "TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab"
     },
     {
      "title": "Microchip adds radiation-tolerant GaN point-of-load converter to space power portfolio",
@@ -446,7 +446,7 @@
      "pubDate": "Thu, 15 Oct 2026 07:07:45 +0000",
      "summary": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself. The post Beyond The Specification: What Really Determines PCIe Retimer Reach? appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
-     "zh": "超越规范：什么真正决定 PCIe 重定时器的范围？"
+     "zh": "Beyond The Specification: What Really Determines PCIe Retimer Reach?"
     },
     {
      "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
@@ -582,7 +582,7 @@
      "pubDate": "Wed, 14 Oct 2026 15:08:59 +0000",
      "summary": "While reshoring manufacturing is a high priority for policymakers and technologists, RoboBusiness panelists will examine how to promote it. The post RoboBusiness 2026 panel to discuss reshoring with robots appeared first on The Robot Report .",
      "source": "The Robot Report",
-     "zh": "RoboBusiness 2026 小组讨论机器人回流"
+     "zh": "RoboBusiness 2026 panel to discuss reshoring with robots"
     },
     {
      "title": "Timken Precision Drives puts the motion challenge first in humanoid robots",
@@ -654,7 +654,7 @@
      "pubDate": "Thu, 15 Oct 2026 18:42:28 +0000",
      "summary": "Rivian’s point-to-point driving feature will first reach owners through an invitation-only “Autonomy Early Access Program,” and the owners it picks will have to sign a non-disclosure agreement to get in. The program, laid out on a new Rivian support page , covers US R1 Gen 2 and R2 owners who pay fo",
      "source": "Electrek",
-     "zh": "根据保密协议，Rivian 仅限受邀测试者进行点对点驾驶"
+     "zh": "Rivian limits point-to-point driving to invite-only testers under NDA"
     },
     {
      "title": "Slate Opened Its First Showroom Where You Can Test Drive Its $24,950 Electric Pickup Truck",
@@ -670,7 +670,7 @@
      "pubDate": "Thu, 15 Oct 2026 18:00:16 +0000",
      "summary": "Ford’s next electric pickup will start at around $30,000 when it goes on sale in early 2027. As its official debut draws closer, a disguised Fathom prototype popped up outside of Ford’s World Headquarters. more…",
      "source": "Electrek",
-     "zh": "福特的 Fathom EV 皮卡在即将首次亮相之前再次被发现"
+     "zh": "Ford’s Fathom EV pickup spotted again ahead of its upcoming debut"
     },
     {
      "title": "Velotric Nomad 2 e-bike + FREE $550 extra battery, Bluetti 900Wh alternator charger bundle, Hiboy kids electric dirt bikes, more",
@@ -854,7 +854,7 @@
      "pubDate": "Thu, 15 Oct 2026 17:57:29 +0000",
      "summary": "Tesla CEO Elon Musk aims to recover some of his EV magic from the Cybertruck debacle by showcasing the new Tesla Roadster on October 15, a $200,000 reboot of the original 2006 Tesla two-seater that sparked the global EV revolution. The post Ghost Of Thanos Lingers Over Elon Musk’s Howard Stark Momen",
      "source": "CleanTechnica",
-     "zh": "Ghost Of Thanos Lingers Over Elon Musk’s Howard Stark Moment"
+     "zh": "灭霸之魂萦绕在埃隆·马斯克的霍华德·斯塔克时刻"
     },
     {
      "title": "China Adjusts VAT Exemption For Exported Vehicles",
@@ -942,7 +942,7 @@
      "pubDate": "Thu, 15 Oct 2026 14:54:32 +0000",
      "summary": "Around 20.4GWh of grid-scale battery energy storage systems (BESS) came online globally last month, bringing the year-to-date (YTD) total to 208GWh.",
      "source": "Energy Storage News",
-     "zh": "9月全球电网规模BESS部署量20.4GWh，同比增长61%；今年迄今安装量增长 43%"
+     "zh": "20.4GWh grid-scale BESS deployed globally in September, up 61%; YTD installs up 43%"
     },
     {
      "title": "China’s first 100 MW/1,000 MWh compressed CO2 storage plant connects to grid",
@@ -974,7 +974,7 @@
      "pubDate": "Thu, 15 Oct 2026 14:32:42 +0000",
      "summary": "Sungrow has patched an iSolarCloud vulnerability that reportedly allowed unauthenticated access to platform accounts, according to reports.",
      "source": "PV Tech",
-     "zh": "Sungrow patches cloud vulnerability affecting solar inverters"
+     "zh": "阳光电源修补影响太阳能逆变器的云漏洞"
     },
     {
      "title": "Best Buy pilots battery-powered vehicles at California distribution sites",
@@ -1190,7 +1190,7 @@
      "pubDate": "Thu, 15 Oct 2026 15:21:38 +0000",
      "summary": "Plus more about Triastek, Scinai and HydRegen. NorthStar inks deal with Chinese CRO: Radioisotope maker NorthStar Medical Technologies has secured a partnership with Beijing-based contract research organization Quarkmed. Quarkmed will act ...",
      "source": "Endpoints News",
-     "zh": "NorthStar 的中国 CRO 交易；龙沙详细介绍中期指导"
+     "zh": "NorthStar's China CRO deal; Lonza details midterm guidance"
     },
     {
      "title": "Osivax pivots to combo approach after flu jab fails in Phase 2b",
@@ -1198,7 +1198,7 @@
      "pubDate": "Thu, 15 Oct 2026 14:33:55 +0000",
      "summary": "Osivax’s lead flu vaccine has flopped in a mid-stage trial. But the French biotech still holds out hope for the program, and plans to combine it with existing flu shots. The Phase 2b trial aimed ...",
      "source": "Endpoints News",
-     "zh": "Osivax pivots to combo approach after flu jab fails in Phase 2b"
+     "zh": "流感疫苗在 2b 阶段失败后，Osivax 转向组合方法"
     },
     {
      "title": "San Francisco's pulse on health AI",
@@ -1278,7 +1278,7 @@
      "pubDate": "Wed, 14 Oct 2026 10:45:52 -0400",
      "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and &ldquo;strongly disagreed&rdquo; with the case&rsquo;s claims.",
      "source": "BioPharma Dive",
-     "zh": "CVS to pay $315M to settle opioid prescribing allegations"
+     "zh": "CVS 将支付 3.15 亿美元以和解阿片类药物处方指控"
     }
    ]
   },
@@ -1297,14 +1297,6 @@
      "zh": "Watch SpaceX launch classified mission for the US Space Force today"
     },
     {
-     "title": "NASA Satellites Observe Historic 2026 El Niño",
-     "link": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/",
-     "pubDate": "Thu, 15 Oct 2026 17:59:22 +0000",
-     "summary": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatoria",
-     "source": "NASA",
-     "zh": "NASA Satellites Observe Historic 2026 El Niño"
-    },
-    {
      "title": "Vaonis unveils Atlas, the world's 1st modular smart telescope system",
      "link": "https://www.space.com/stargazing/skywatching-kit/modularity-is-here-vaonis-uveils-their-new-atlas-smart-telescope-system",
      "pubDate": "Thu, 15 Oct 2026 17:40:00 +0000",
@@ -1318,7 +1310,7 @@
      "pubDate": "Thu, 15 Oct 2026 17:30:39 +0000",
      "summary": "From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life support systems, daily activities, and hundreds of research investigations that improve life on Earth and prepare humans for deep space explorati",
      "source": "NASA",
-     "zh": "Power Up: Roll Out Solar Arrays Boost Space Station Power Supply"
+     "zh": "通电：推出太阳能电池阵列增强空间站供电"
     },
     {
      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
@@ -1326,7 +1318,7 @@
      "pubDate": "Thu, 15 Oct 2026 16:42:10 +0000",
      "summary": "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from animal feeding operations. Agricultural emissions represent an important",
      "source": "NASA",
-     "zh": "NASA to Conduct Low-Altitude Flights Over Texas Farmland"
+     "zh": "美国宇航局将在德克萨斯州农田上空进行低空飞行"
     },
     {
      "title": "NASA Welcomes All Ages, Experience Levels for Space Apps Challenge",
@@ -1366,7 +1358,15 @@
      "pubDate": "Thu, 15 Oct 2026 14:57:21 +0000",
      "summary": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as e",
      "source": "NASA",
-     "zh": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance"
+     "zh": "严格的分析证实了 NASA 的 Artemis II 隔热罩性能"
+    },
+    {
+     "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
+     "link": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/",
+     "pubDate": "Thu, 15 Oct 2026 14:19:06 +0000",
+     "summary": "A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Rea",
+     "source": "NASA",
+     "zh": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves"
     },
     {
      "title": "Windblown yardangs on Mars | Space photo of the day for Oct. 15, 2026",
@@ -1406,7 +1406,7 @@
      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
      "summary": "The discovery of surprising molecules of methanol and associated maser activity has expanded the inventory of the chemical starter kit that builds planets in young star systems.",
      "source": "Space.com",
-     "zh": "Scientists discover 'chemical starter kit' for life in planetary birthplaces"
+     "zh": "科学家发现行星诞生地生命的“化学入门套件”"
     },
     {
      "title": "JAXA Taps ArkEdge for Two Lunar Navigation Demos",
@@ -1646,7 +1646,7 @@
      "pubDate": "Thu, 15 Oct 2026 17:58:13 +0530",
      "summary": "Next.js released an&nbsp;out-of-band security update&nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution flaw is in React Server Components, and the other in librsvg, the open-source li",
      "source": "The Hacker News",
-     "zh": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing"
+     "zh": "Next.js 针对缓存和 SVG 处理中的两个关键 RCE 缺陷发布了带外补丁"
     },
     {
      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
@@ -1718,7 +1718,7 @@
      "pubDate": "Wed, 14 Oct 2026 20:09:42 GMT",
      "summary": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
      "source": "Dark Reading",
-     "zh": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat"
+     "zh": "人为“SneakPeek”缺陷是一种无声的零点击威胁"
     },
     {
      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -1734,7 +1734,7 @@
      "pubDate": "Wed, 14 Oct 2026 13:00:00 GMT",
      "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
      "source": "Dark Reading",
-     "zh": "Russian Influence Operation Widely Targets Latin America"
+     "zh": "俄罗斯影响力行动广泛瞄准拉丁美洲"
     },
     {
      "title": "Microsoft Patches More Than 1,400 Security Flaws",
@@ -2014,7 +2014,7 @@
      "pubDate": "Thu, 15 Oct 2026 18:45:21 +0000",
      "summary": "The company is bringing its flash expertise to a whole new kind of camera.",
      "source": "DPReview",
-     "zh": "Godox A2 是一款真正的手机闪光灯"
+     "zh": "The Godox A2 is a real flash for your phone"
     },
     {
      "title": "E Ink's new Kaleido 4 could inch us closer to the perfect color e-reader",
@@ -2046,7 +2046,7 @@
      "pubDate": "Thu, 15 Oct 2026 18:30:08 +0000",
      "summary": "The throwback League of Legends Classic mode may reappear as a limited-time event in the future.",
      "source": "Engadget",
-     "zh": "Riot will sunset League of Legends Classic in January 2027"
+     "zh": "Riot 将于 2027 年 1 月取消英雄联盟经典赛"
     },
     {
      "title": "Alexa Tablet 12 Pro review: Amazon's premium tablet gets almost everything right",
@@ -2238,7 +2238,7 @@
      "pubDate": "Thu, 15 Oct 2026 14:40:00 +0000",
      "summary": "Following its announcement at Google I/O earlier this year , Google’s new Universal Cart is now rolling out in the US, giving you the ability to shop the web and watch for deals using Search, Gemini, and more. more…",
      "source": "9to5Google",
-     "zh": "Google rolling out Universal Cart that lets you shop the web and find deals with Gemini, Search"
+     "zh": "谷歌推出通用购物车，让你可以在网上购物并找到Gemini、搜索的优惠"
     },
     {
      "title": "Hands-on: Pokémon x Beats Pill is one of my favorite collabs yet [Video]",
@@ -2265,6 +2265,14 @@
      "zh": "U.S. Bancorp expects Q4 2026 net interest income growth of 6%-7% while outlining 8%-9% full-year net revenue growth"
     },
     {
+     "title": "AI制药企业相继进入资本市场",
+     "link": "http://finance.eastmoney.com/news/1354,202610163897330533.html",
+     "pubDate": "Fri, 16 Oct 2026 02:45:00 +0800",
+     "summary": "当地时间10月14日，美国AI（ 人工智能 ）制药公司Iambic Therapeutics敲定美国IPO（首次公开募股）定价，发行价定于每股16美元，发行约938万股，募资1.5亿美元。今年2月， 英伟达 投资的Generate Biomedicines成功登陆 纳斯达克 。AI制药公司在资本市场的接连亮相，给本就火热的AI制药行业又添了一把火。 国内AI制药企业也已相继进入资本市场，今年5月，聚焦AI纳米递送创新的剂泰科技（北京）股份有限公司在港交所挂牌上市；2025年12月，AI制药公司 英矽智能 成功登陆港交所。 “AI能否真正改善临床成功率这一命题，如今要面临公开市场与临床数据的双重",
+     "source": "东方财富股票",
+     "zh": "AI制药企业相继进入资本市场"
+    },
+    {
      "title": "Coca-Cola declares $0.53 dividend",
      "link": "https://seekingalpha.com/news/4653566-coca-cola-declares-0_53-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 15 Oct 2026 14:43:15 -0400",
@@ -2278,7 +2286,7 @@
      "pubDate": "Thu, 15 Oct 2026 14:42:00 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Canadian General Investments declares $0.31 dividend"
+     "zh": "加拿大普通投资公司宣布派息 0.31 美元"
     },
     {
      "title": "Marsh outlines $600M Thrive savings target through 2028 while reaffirming 2026 underlying growth outlook",
@@ -2286,7 +2294,7 @@
      "pubDate": "Thu, 15 Oct 2026 14:36:39 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Marsh outlines $600M Thrive savings target through 2028 while reaffirming 2026 underlying growth outlook"
+     "zh": "达信概述了到 2028 年 6 亿美元的 Thrive 储蓄目标，同时重申了 2026 年的基本增长前景"
     },
     {
      "title": "Moderna rallies despite bearish views ahead of cancer vaccine data",
@@ -2297,12 +2305,28 @@
      "zh": "Moderna rallies despite bearish views ahead of cancer vaccine data"
     },
     {
+     "title": "WTI原油期货结算价为97.97美元/桶 上涨2.88美元",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897334839.html",
+     "pubDate": "Fri, 16 Oct 2026 02:33:55 +0800",
+     "summary": "WTI原油 期货 结算价为97.97美元/桶，上涨2.88美元，涨幅3.03%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "WTI原油期货结算价为97.97美元/桶 上涨2.88美元"
+    },
+    {
      "title": "WTI原油期货结算价为97.97美元/桶，上涨2.88美元，涨幅3.03%",
      "link": "http://finance.eastmoney.com/news/1356,202610163897334637.html",
      "pubDate": "Fri, 16 Oct 2026 02:31:47 +0800",
      "summary": "WTI原油 期货 结算价为97.97美元/桶，上涨2.88美元，涨幅3.03%。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "WTI原油期货结算价为97.97美元/桶，上涨2.88美元，涨幅3.03%"
+    },
+    {
+     "title": "上期所原油期货夜盘收涨0.11% 报726元/桶",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897334766.html",
+     "pubDate": "Fri, 16 Oct 2026 02:31:03 +0800",
+     "summary": "上期所原油 期货 夜盘收涨0.11%，报726元/桶。沪金主力合约收涨0.99%，报899元/克，沪银主力合约收涨1.58%，报13904元/千克。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "上期所原油期货夜盘收涨0.11% 报726元/桶"
     },
     {
      "title": "上期所原油期货夜盘收涨0.11%，报726元/桶，沪金主力合约收涨0.99%，报899元/克，沪银主力合约收涨1.58%，报13904元/千克",
@@ -2318,7 +2342,7 @@
      "pubDate": "Thu, 15 Oct 2026 18:27:55 GMT",
      "summary": "Debt issued by AI infrastructure providers and neocloud companies such as CoreWeave has sunk to increasingly stressed levels",
      "source": "Financial Times",
-     "zh": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’"
+     "zh": "由于人工智能借款人面临“达尔文时刻”，投资者抛售数据中心债券"
     },
     {
      "title": "美股三大指数震荡走高 道指涨超1% 可口可乐盘中创历史新高",
@@ -2345,14 +2369,6 @@
      "zh": "Array Technologies upgraded at Mizuho as cash worries appear overdone"
     },
     {
-     "title": "大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘",
-     "link": "http://finance.eastmoney.com/news/1350,202610163897334498.html",
-     "pubDate": "Fri, 16 Oct 2026 02:23:41 +0800",
-     "summary": "记者从中国科学院脑科学与智能技术卓越创新中心（神经科学研究所）获悉，该中心徐宁龙研究团队研究发现了大脑皮层神经元树突计算参与灵活决策中的认知计算过程，填补了树突计算与高级认知功能之间长期缺乏直接证据的空白。该研究为揭秘人脑智能机制、研发新型 人工智能 系统奠定了理论基础。该成果10月16日在国际学术期刊《科学》发表。 百余年来，现代神经科学一直遵循经典神经元学说，将神经元视作神经系统的基本功能单元。在传统科研模型中，神经元被简单定义为一个均质“点状节点”，仅通过简单加权求和的方式处理、输出信息。这一简易模型虽方便科学研究与理论建模，却存在明显短板，无法解释大脑的灵活智能——人类能够根据环境变化",
-     "source": "东方财富股票",
-     "zh": "大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘"
-    },
-    {
      "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
      "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
      "pubDate": "Thu, 15 Oct 2026 18:19:35 GMT",
@@ -2369,28 +2385,12 @@
      "zh": "Meta发布8160亿参数“美国最强开放权重模型”，联手苹果让大模型跑上Mac，最强模型仍闭源"
     },
     {
-     "title": "必和必拓就智利斯彭斯铜矿两次“非法”停产事件起诉工会",
-     "link": "http://finance.eastmoney.com/news/1354,202610163897334320.html",
-     "pubDate": "Fri, 16 Oct 2026 02:09:50 +0800",
-     "summary": "必和必拓 就智利斯彭斯 铜 矿两次“非法”停产事件起诉工会。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "必和必拓就智利斯彭斯铜矿两次“非法”停产事件起诉工会"
-    },
-    {
-     "title": "谷歌量子人工智能发布量子计算重大突破 Willow芯片项目突破关键资源瓶颈",
-     "link": "http://finance.eastmoney.com/news/1354,202610163897334230.html",
-     "pubDate": "Fri, 16 Oct 2026 02:08:37 +0800",
-     "summary": "谷歌量子 人工智能 发布量子计算重大突破，Willow芯片项目突破关键资源瓶颈。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "谷歌量子人工智能发布量子计算重大突破 Willow芯片项目突破关键资源瓶颈"
-    },
-    {
      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
      "pubDate": "Thu, 15 Oct 2026 18:01:00 GMT",
      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
      "source": "MarketWatch",
-     "zh": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?"
+     "zh": "我妻子说我们负担不起退休的费用。我否决了她8000美元的意大利之旅。我们已经 60 多岁了，拥有 400 万美元。我继续工作吗？"
     },
     {
      "title": "U.S. sues California in fight over checking citizenship of mail voters",
@@ -2398,7 +2398,7 @@
      "pubDate": "Thu, 15 Oct 2026 17:55:19 GMT",
      "summary": "The lawsuit by the Trump administration comes less than a month before the midterm election that will determine which party controls both chambers of Congress.",
      "source": "CNBC",
-     "zh": "U.S. sues California in fight over checking citizenship of mail voters"
+     "zh": "美国起诉加州，要求核实邮寄选民的公民身份"
     },
     {
      "title": "化工下游企业多方施策对冲成本压力",
@@ -2454,7 +2454,7 @@
      "pubDate": "Thu, 15 Oct 2026 17:30:00 GMT",
      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
      "source": "MarketWatch",
-     "zh": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?"
+     "zh": "我姐姐搬去和我们 78 岁的母亲住在一起，她说她值得拥有价值 925,000 美元的家庭住宅。她说得对吗？"
     },
     {
      "title": "‘I like the idea of a big return’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
@@ -2494,7 +2494,7 @@
      "pubDate": "Thu, 15 Oct 2026 16:23:48 GMT",
      "summary": "Global chip stocks hit with two-day sell-off amid fears over sustainability of AI boom",
      "source": "Financial Times",
-     "zh": "Treasuries rally as investors seek shelter from AI turbulence"
+     "zh": "随着投资者寻求人工智能动荡的庇护，美国国债上涨"
     }
    ]
   },
@@ -2542,7 +2542,7 @@
      "pubDate": "Thu, 15 Oct 2026 15:00:00 +0000",
      "summary": "A rare discovery reveals that 75,000 years ago, a Neanderthal from Shanidar Cave in Iraq died a grisly death, likely from a wooden spear.",
      "source": "Live Science",
-     "zh": "Mysterious hole in Neanderthal shoulder blade may have been a 'kill shot' from a wooden spear, according to archaeologists"
+     "zh": "考古学家称，尼安德特人肩胛骨上的神秘洞可能是木矛的“致命射击”"
     },
     {
      "title": "A telling hole in a Neandertal bone hints at a bitter end",
@@ -2558,7 +2558,7 @@
      "pubDate": "Thu, 15 Oct 2026 09:45:00 -0400",
      "summary": "Governments and private companies often work together to provide public services online. A new study asks: How do these partnerships affect people’s trust in government?",
      "source": "MIT News",
-     "zh": "通过数字平台建立对政府的信任"
+     "zh": "Building trust in governments through digital platforms"
     },
     {
      "title": "How Do Fungi Keep the Planet Healthy?",
@@ -2582,7 +2582,7 @@
      "pubDate": "Thu, 15 Oct 2026 08:52:05 EDT",
      "summary": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain",
      "source": "ScienceDaily",
-     "zh": "Mysterious brain activity under anesthesia challenges what we know about consciousness"
+     "zh": "麻醉下神秘的大脑活动挑战了我们对意识的了解"
     },
     {
      "title": "Arctic sea ice hits another troubling low in 2026",
@@ -2598,7 +2598,7 @@
      "pubDate": "Thu, 15 Oct 2026 08:26:16 EDT",
      "summary": "Eating late at night could be putting your liver at risk, according to a large study led by Oregon Health & Science University. Researchers analyzed data from nearly 200,000 people and found that those who regularly ate after dinner or around bedtime had a 20% to 30% higher risk of liver disease, in",
      "source": "ScienceDaily",
-     "zh": "深夜进食与肝病风险增加 30%"
+     "zh": "Eating late at night linked to up to 30% higher risk of liver disease"
     },
     {
      "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
@@ -2614,7 +2614,7 @@
      "pubDate": "Thu, 15 Oct 2026 09:00:00 +0000",
      "summary": "Women are using testosterone in the hope that it will treat their menopause symptoms, but little evidence supports the approach, experts say.",
      "source": "Live Science",
-     "zh": "睾酮治疗更年期：这种治疗方法越来越受欢迎，但它有效吗？"
+     "zh": "Testosterone for menopause: The treatment is rising in popularity, but does it work?"
     },
     {
      "title": "Strokes have nearly doubled among younger adults, and scientists aren't sure why",
@@ -2622,7 +2622,7 @@
      "pubDate": "Thu, 15 Oct 2026 01:28:14 EDT",
      "summary": "Strokes are becoming alarmingly common among younger adults, with rates nearly doubling among people ages 20 to 54 over nearly three decades. Researchers found that blocked blood vessels in the brain accounted for much of the increase, while high blood pressure, diabetes, and substance use also beca",
      "source": "ScienceDaily",
-     "zh": "Strokes have nearly doubled among younger adults, and scientists aren't sure why"
+     "zh": "年轻人中风的几率几乎翻倍，科学家们不确定原因"
     },
     {
      "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
@@ -2630,7 +2630,7 @@
      "pubDate": "Thu, 15 Oct 2026 00:14:55 EDT",
      "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains very low, Rutgers researchers say the findings warrant attention as millions of peop",
      "source": "ScienceDaily",
-     "zh": "Ozempic and Wegovy linked to rare risk of sudden vision loss"
+     "zh": "Ozempic 和 Wegovy 与罕见的突然视力丧失风险有关"
     },
     {
      "title": "Q&A: The “collision” between AI, your brain, and society",
@@ -2662,7 +2662,7 @@
      "pubDate": "Wed, 14 Oct 2026 19:46:12 +0000",
      "summary": "A study of DNA from early colonial-era skeletons in a Montreal cemetery has revealed that none of them had any Indigenous ancestry.",
      "source": "Live Science",
-     "zh": "埋藏在蒙特利尔的数百年历史骨骼的 DNA 显示，原住民和法国殖民者之间没有基因混合"
+     "zh": "DNA from centuries-old skeletons buried in Montreal reveals no genetic mixing between Indigenous people and French colonists"
     },
     {
      "title": "Tapeworm drug could help treat endometriosis, mouse study hints",
@@ -2734,7 +2734,7 @@
      "pubDate": "Tue, 13 Oct 2026 15:17:59 +0000",
      "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
      "source": "Ars Technica Science",
-     "zh": "他们进行了调暗太阳的战争游戏。事情比你想象的还要糟糕。"
+     "zh": "They war-gamed dimming the Sun. It went even worse than you think."
     },
     {
      "title": "High-speed video reveals how honey bee stingers pump venom",
@@ -2742,7 +2742,7 @@
      "pubDate": "Tue, 13 Oct 2026 13:03:45 +0000",
      "summary": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
      "source": "Ars Technica Science",
-     "zh": "High-speed video reveals how honey bee stingers pump venom"
+     "zh": "高速视频揭示了蜜蜂毒刺如何泵出毒液"
     }
    ]
   }

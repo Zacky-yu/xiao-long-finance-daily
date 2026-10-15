@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/16 06:42:44",
+ "generated_at": "2026/10/16 06:49:41",
  "recent_days": 7,
  "industries": [
   {
@@ -925,9 +925,17 @@ window.INDUSTRY_DATA = {
      "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
      "link": "https://www.utilitydive.com/news/utilities-need-ai-solve-grid-backlogs-aws-energy-lead-head/832816/",
      "pubDate": "Thu, 15 Oct 2026 12:00:00 -0400",
-     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities&nbsp;Joseph Santamaria.",
+     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities, Joseph Santamaria.",
      "source": "Utility Dive",
      "zh": "公用事业公司可以使用人工智能来解决电网积压问题：AWS 能源领先者"
+    },
+    {
+     "title": "Solar imports from India, Indonesia, Laos injured US manufacturers: ITC",
+     "link": "https://www.utilitydive.com/news/itc-material-injury-solar-imports-india-indonesia-laos/833127/",
+     "pubDate": "Thu, 15 Oct 2026 11:52:32 -0400",
+     "summary": "The decision clears the way for the Department of Commerce to finalize anti-dumping and countervailing duty orders on&nbsp;crystalline silicon photovoltaic cells from the three countries.",
+     "source": "Utility Dive",
+     "zh": "ITC：从印度、印度尼西亚、老挝进口的太阳能产品损害了美国制造商的利益"
     },
     {
      "title": "Farming’s Nitrogen Future Will Be Built From Several Technologies, Not One",
@@ -1005,7 +1013,7 @@ window.INDUSTRY_DATA = {
      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption",
      "link": "https://www.utilitydive.com/news/reliability-standards-ai-data-centers-crypto-miners-pass-final-nerc-ba/833094/",
      "pubDate": "Thu, 15 Oct 2026 09:28:37 -0400",
-     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more, connected at voltage levels of at least 100 kV.",
+     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more connected at voltage levels of at least 100 kV.",
      "source": "Utility Dive",
      "zh": "人工智能数据中心的可靠性标准，加密矿工更接近采用"
     },
@@ -1072,14 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "From the Midwest to New York, local and state governments are introducing new zoning rules and restrictions on BESS and data centre projects.",
      "source": "Energy Storage News",
      "zh": "美国 BESS 和数据中心的新分区规则和暂停"
-    },
-    {
-     "title": "Greek PM says ‘storage should accompany renewables’ as Metlen, Karatzis inaugurate 790MWh BESS",
-     "link": "https://www.energy-storage.news/greek-pm-says-storage-should-accompany-renewables-as-metlen-karatzis-inaugurate-790mwh-bess/",
-     "pubDate": "Thu, 15 Oct 2026 11:10:50 +0000",
-     "summary": "Metals and energy group Metlen and conglomerate Karatzis Group have inaugurated the largest BESS in Greece, in a ceremony attended by the country’s Prime Minister.",
-     "source": "Energy Storage News",
-     "zh": "希腊总理表示“储能应与可再生能源并驾齐驱”，Metlen 和 Karatzis 启动 790MWh BESS"
     }
    ]
   },
@@ -1255,7 +1255,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 18:00:48 +0000",
      "summary": "A small-molecule therapy, VG-3927, targeting microglial TREM2 signaling showed neuroprotective effects in preclinical studies for Alzheimer's disease and was well tolerated in a Phase I trial. The post Alzheimer’s Small-Molecule Therapy Shows Promise in Mice and Early Human Trial appeared first on G",
      "source": "GEN",
-     "zh": "阿尔茨海默氏症小分子疗法在小鼠和早期人体试验中显示出前景"
+     "zh": "阿尔茨海默病小分子疗法在小鼠和早期人体试验中显示出前景"
     },
     {
      "title": "Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit",
@@ -1327,7 +1327,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:13:26 +0000",
      "summary": "On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn",
      "source": "Space.com",
-     "zh": "在太空的这一天！ 1997 年 10 月 15 日：美国宇航局 (NASA) 发射卡西尼-休金斯探测器，开始为期 7 年的土星之旅"
+     "zh": "在太空的这一天！ 1997 年 10 月 15 日：美国宇航局 (NASA) 发射卡西尼-休更斯探测器，开始为期 7 年的土星之旅"
     },
     {
      "title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force",
@@ -1335,7 +1335,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:11:45 +0000",
      "summary": "Liftoff from pad 4E at Vandenberg Space Force Base in California is scheduled for Thursday, Oct. 15, at 5:01 p.m. PDT (8:01 p.m. EDT / 0001 UTC).",
      "source": "Spaceflight Now",
-     "zh": "现场报道：SpaceX 将为美国太空军发射机密有效载荷"
+     "zh": "现场报道：SpaceX 将为美国太空部队发射机密有效载荷"
     },
     {
      "title": "Watch SpaceX launch classified mission for the US Space Force today",
@@ -1655,7 +1655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 14:22:34 +0000",
      "summary": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "英国法律援助机构的黑客范围在法医审查后扩大"
+     "zh": "英国法律援助机构黑客范围在法医审查后扩大"
     },
     {
      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
@@ -1762,6 +1762,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "对抗超级细菌新武器：谷歌 Antigravity 用 AI 加速抗菌肽发现",
+     "link": "https://www.ithome.com/1/013/684.htm",
+     "pubDate": "Thu, 15 Oct 2026 22:43:28 GMT",
+     "summary": "IT之家 10 月 16 日消息，当前抗生素耐药性问题不断加剧，全球迫切需要新型抗生素，但新药研发往往缓慢且过程繁琐。谷歌推出的 Google Antigravity 智能开发平台，能够有效简化这一流程。 Google Antigravity 提供了智能科学工作台，支持生物学家快速发现、结构评估和筛选潜在靶点，将原本需要跨多个数据库的分散搜索整合到单次会话中。该平台还借助 ProtNLM 模型，帮助研究人员扫描 UniProt 数据库中数百万未表征的蛋白质，该模型可直接从氨基酸序列预测生物功能。 研究人员已经通过 Google Antigravity 发现了一种新型抗菌肽候选分子，预测其对呼吸",
+     "source": "IT之家",
+     "zh": "对抗超级细菌新武器：谷歌 Antigravity 用 AI 加速抗菌肽发现"
+    },
+    {
+     "title": "经典 JRPG《永恒传说》高清复刻版登陆 Steam，国区售价 138 元起",
+     "link": "https://www.ithome.com/1/013/697.htm",
+     "pubDate": "Thu, 15 Oct 2026 22:12:28 GMT",
+     "summary": "IT之家 10 月 16 日消息，万代南梦宫经典日系 JRPG《Tales of Eternia Remastered》（《永恒传说》高清复刻版）正式登陆 Steam 平台，由 TOSE CO., LTD. 开发，万代南梦宫娱乐发行，这也是该作首次推出官方简体中文版本。 IT之家附游戏商品页（ https://store.steampowered.com/app/3470960/Tales_of_Eternia_Remastered/ ）。 本次《永恒传说》高清复刻版在 Steam 国区提供两个版本购买： 标准版售价 138 元 数字豪华版售价 248 元，包含游戏本体、战斗 BGM 包、数字",
+     "source": "IT之家",
+     "zh": "经典 JRPG《永恒传说》高清复刻版登陆 Steam，国区售价 138 元起"
+    },
+    {
      "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
      "link": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
      "pubDate": "Thu, 15 Oct 2026 22:11:24 +0000",
@@ -1855,7 +1871,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 20:38:13 +0000",
      "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
      "source": "TechCrunch",
-     "zh": "亚马逊设备主管帕诺斯·帕奈 (Panos Panay) 谈失败和从中恢复的重要性"
+     "zh": "亚马逊设备主管帕诺斯·帕奈 (Panos Panay) 谈失败的重要性以及从中恢复的重要性"
     },
     {
      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
@@ -1887,7 +1903,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:55:49 +0000",
      "summary": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts Comments URL: https://news.ycombinator.com/item?id=50109375 Points: 105 # Comments: 94",
      "source": "Hacker News",
-     "zh": "新 Withings 用户必须每年为 Apple Health 同步支付 99 美元"
+     "zh": "新 Withings 用户必须每年支付 99 美元才能使用 Apple Health 同步"
     },
     {
      "title": "The next developer interface is ambient intelligence",
@@ -1951,7 +1967,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 18:00:00 +0000",
      "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
-     "zh": "保持常青：我们如何在共享组织中自动化安全访问和回购卫生"
+     "zh": "保持常青：我们如何在共享组织中自动化安全访问和仓库卫生"
     },
     {
      "title": "Muse Spark Open",
@@ -1984,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 16 日消息，据多位博主分享的截图，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东转发了尊界汽车声明，表态称： 正义可能会迟到，但永远不会缺席！ 据IT之家昨晚报道，针对网络反映的“尊界 V800 汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上， 成立联合调查组开展核查 ，并依法依规处理。有关情况将及时公布。 随后，尊界汽车官方微博发布声明， 宣布将积极响应、完全服从并将全力配合联合调查组的工作 。 10 月 15 日，工信部等三部门发布了联合调查有关车辆刹车踏板支架断裂问题的通报。我们积极响应、完全服从并",
      "source": "IT之家",
      "zh": "华为余承东就“三部门联合调查刹车踏板支架断裂问题”表态：正义可能会迟到，但永远不会缺席！"
-    },
-    {
-     "title": "动视看好《GTA 6》提振市场，让更多玩家回归游戏、带动《使命召唤：现代战争 4》销量表现",
-     "link": "https://www.ithome.com/1/013/685.htm",
-     "pubDate": "Thu, 15 Oct 2026 16:28:34 GMT",
-     "summary": "IT之家 10 月 16 日消息，动视认为，《GTA 6》的推出有望带动《使命召唤》系列的表现，而非挤压其市场空间。 动视首席营销官泰勒 · 巴尔（Tyler Bahl）表示，《GTA 6》和《使命召唤》将是 2026 年规模最大的两款游戏之一，前者带来的玩家回流和游戏行业关注度提升，有望为《现代战争 4》创造更多机会。 巴尔当地时间 10 月 15 日在接受 The Game Business 采访时，被问及《GTA 6》与《塞尔达传说：时之笛》重制版于 11 月同期推出，是否会挤压市场，分散玩家对《使命召唤》的关注。 巴尔表示，《GTA 6》带来的关注度不一定会对《使命召唤》造成负面影响。",
-     "source": "IT之家",
-     "zh": "动视看好《GTA 6》提振市场，让更多玩家回归游戏、带动《使命召唤：现代战争 4》销量表现"
-    },
-    {
-     "title": "光大环境连拿两座200吨小炉，小型焚烧市场前景如何？",
-     "link": "https://www.huxiu.com/article/4897880.html?f=rss",
-     "pubDate": "Fri, 16 Oct 2026 00:15:21 +0800",
-     "summary": "本文来自微信公众号： 青山产业评论 ，作者：青山研究院 过去十几年，垃圾焚烧行业有一套成熟的增长逻辑：建更大的厂，处理更多垃圾，获得更长的运营期限。 一座垃圾焚烧厂，只要垃圾量足够稳定，既能获得处理费，又能通过发电获得收益。规模越大，设备、人员和环保设施的成本越容易摊薄，项目的经济性通常也越好。这套逻辑支撑了行业的高速发展，也成就了光大环境等一批龙头企业。 但最近，光大环境的两笔小项目值得关注。 9月28日，青海海南州贵德县温泉生活垃圾焚烧发电项目公布中标结果，由光大环境旗下设计研究院牵头的联合体，以约2.04亿元中标。项目规模只有200吨/日，配置一台4兆瓦发电机组。 此前，光大环境还中标了",
-     "source": "虎嗅",
-     "zh": "光大环境连拿两座200吨小炉，小型焚烧市场前景如何？"
     }
    ]
   },
@@ -2055,7 +2055,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 21:22:49 +0000",
      "summary": "A new investigation by The Washington Post reveals that Apple and Nvidia each pledged $25 million toward Trump’s new White House ballroom, making them two of the project’s largest donors. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "WaPo：苹果被揭露为特朗普白宫宴会厅的最大捐助者之一"
+     "zh": "WaPo：苹果公司被揭露为特朗普白宫宴会厅的最大捐助者之一"
     },
     {
      "title": "Google reminds Android users of an overlooked scam detection tool",
@@ -2151,7 +2151,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:03:26 +0000",
      "summary": "Samsung just got a free marketing boost.",
      "source": "Android Authority",
-     "zh": "苹果可能是三星迄今为止最好的可折叠产品销售人员"
+     "zh": "苹果可能是三星迄今为止最好的可折叠手机销售人员"
     },
     {
      "title": "The Godox A2 is a real flash for your phone",
@@ -2282,6 +2282,14 @@ window.INDUSTRY_DATA = {
      "zh": "市场消息：日本推迟敲定 3.5% 国防开支目标"
     },
     {
+     "title": "俄罗斯对莫斯科州疑似猴痘疫情展开流行病学调查",
+     "link": "http://finance.eastmoney.com/news/11790,202610163897361475.html",
+     "pubDate": "Fri, 16 Oct 2026 06:30:29 +0800",
+     "summary": "俄罗斯联邦消费者权益保护和公益监督局莫斯科州分局15日在官网发布通告说，已对该州疑似猴痘疫情展开流行病学调查，并采取相关防疫措施。通告说，莫斯科州出现猴痘疑似病例后，已第一时间展开流行病学调查并采取全方位防疫措施，包括确定接触人群、实施消杀工作等。目前，已有5人入院接受医学观察。通告说，俄罗斯联邦消费者权益保护和公益监督局研发的高科技检测系统，可在短时间内快速检测出猴痘病毒。（新华社） （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "俄罗斯对莫斯科州疑似猴痘疫情展开流行病学调查"
+    },
+    {
      "title": "内河船舶喝上“绿醇”燃料，上海“临门一脚”成功，完成首次加注",
      "link": "http://finance.eastmoney.com/news/1354,202610163897361384.html",
      "pubDate": "Fri, 16 Oct 2026 06:30:05 +0800",
@@ -2314,14 +2322,6 @@ window.INDUSTRY_DATA = {
      "zh": "中央气象台发布暴雨蓝色预警 部分地区有大雨局地暴雨"
     },
     {
-     "title": "超1.5万人次，下周上海航运浓度爆表，全球大咖共促航运韧性发展",
-     "link": "http://finance.eastmoney.com/news/1348,202610163897360819.html",
-     "pubDate": "Fri, 16 Oct 2026 06:28:02 +0800",
-     "summary": "罗泾港区集装箱码头改造二期工程完成土建结构交工验收，预计年底建成，年设计通过能力将增加140万标准箱；全国首例“海事调解+司法确认”案件在上海落地；浦东 机场 西货运区上线智能货站，年货物吞吐能力增加60万吨……10月15日，上海召开2026北外滩国际 航运 论坛新闻发布会，介绍了上海国际 航运 中心发展的最新情况。 北外滩国际 航运 论坛为上海融入全球航运事务治理、强化航运交流与合作，搭建了重要平台，已成为全球航运领域的年度标杆盛会。自2025北外滩国际航运论坛在上海成功举办以来，上海市持续深化论坛成果，推进航运中心硬实力、软实力、新赛道“三位一体”发展，为“十五五”开好局、起好步打下了坚实",
-     "source": "东方财富股票",
-     "zh": "超1.5万人次，下周上海航运浓度爆表，全球大咖共促航运韧性发展"
-    },
-    {
      "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
      "link": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
      "pubDate": "Thu, 15 Oct 2026 22:25:32 GMT",
@@ -2338,14 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "MSCI 的降级提议使印度尼西亚的新兴市场地位面临风险"
     },
     {
-     "title": "全球市场：美股三大指数收涨 道指涨超1% 贵金属、加密货币概念股涨幅居前",
-     "link": "http://stock.eastmoney.com/news/11784,202610163897348317.html",
-     "pubDate": "Fri, 16 Oct 2026 06:15:09 +0800",
-     "summary": "美股市场： 美股三大指数10月15日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨556.21点，收于52177.69点，涨幅为1.08%； 标准普尔 500种股票指数上涨25.12点，收于7744.06点，涨幅为0.33%； 纳斯达克 综合 指数上涨20.16点，收于26713.03点，涨幅为0.08%。 半导体 、存储板块涨跌不一，费城 半导体 指数盘中一度跌超4%，最终收跌0.88%，为连续第七天下跌。个股方面， 高通 涨超3%，ARM涨近3%， 美光科技 涨超1%； 拉姆研究 跌超3%， 英特尔 跌近3%， 科磊 、 西部数据 跌超2%， 台积电 、 英伟达 跌近2%， S",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数收涨 道指涨超1% 贵金属、加密货币概念股涨幅居前"
-    },
-    {
      "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
      "pubDate": "Thu, 15 Oct 2026 22:15:00 GMT",
@@ -2354,28 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "我今年 64 岁，有两个儿子，但只有一个在家族企业工作。我应该把70%的生意留给他吗？"
     },
     {
-     "title": "电子布价格涨势延续 高端产能有望释放",
-     "link": "http://finance.eastmoney.com/news/1354,202610163897330892.html",
-     "pubDate": "Fri, 16 Oct 2026 06:10:00 +0800",
-     "summary": "电子 布价格本月延续上涨态势，相关上市公司加快布局低介电、低热膨胀系数等高性能产品，通过新增产能与技术改造调整产品结构。 国金证券 10月9日发布的研报显示，本月以来，7628型号 电子 布价格再次上涨1.5元/米，G75 电子 纱上涨3000元/吨，2116和1080型号薄布均上涨2.5元/米。该研报认为，织布机供给紧张、下游需求超预期以及覆 铜 板价格持续上行等因素，共同推动了电子布价格的持续上涨。 高性能电子布成为企业融资扩产的重点方向。10月14日晚间，湖北 平安电工 科技股份有限公司披露定增预案，该公司拟募集资金不超过13亿元，募集资金净额拟用于泰国云母绝缘材料生产基地建设项目、泰国",
-     "source": "东方财富资讯",
-     "zh": "电子布价格涨势延续 高端产能有望释放"
-    },
-    {
      "title": "Soybean futures slide to seven-week low despite Chinese purchases",
      "link": "https://seekingalpha.com/news/4653665-soybean-futures-slide-to-seven-week-low-despite-chinese-purchases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 15 Oct 2026 18:07:57 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "尽管中国购买，大豆期货仍跌至七周低点"
-    },
-    {
-     "title": "10月16日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/1344,202610163897323972.html",
-     "pubDate": "Fri, 16 Oct 2026 06:03:56 +0800",
-     "summary": "10月16日(星期五)，今日报刊头条主要内容精华如下： 上海证券报 今年第三次G20财长和央行行长会议举行 财政部和中国人民银行主要负责人出席并发言 10月15日，二十国集团（G20）在泰国曼谷举行今年第三次G20财 长和 央行行长会议。会议主要就全球宏观经济形势、金融部门发展、G20财金渠道合作进展和工作展望等议题进行了讨论。财政部部长蓝佛安、中国人民 银行 行长潘功胜出席会议并发言，财政部副部长廖岷、中国人民 银行 副行长宣昌能参加会议。 “并购六条”实施两周年 沪市主板产业整合激活发展新动能 2024年9月，中国证监会发布《关于深化上市公司并购重组市场改革的意见》（简称“并购六条”）。两",
-     "source": "东方财富资讯",
-     "zh": "10月16日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+     "zh": "尽管中国采购，大豆期货仍跌至七周低点"
     },
     {
      "title": "Adams Natural Resources Fund reports Q3 results",
@@ -2384,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "亚当斯自然资源基金报告第三季度业绩"
-    },
-    {
-     "title": "东方财富财经早餐 10月16日周五",
-     "link": "http://finance.eastmoney.com/news/1344,202610153897259236.html",
-     "pubDate": "Fri, 16 Oct 2026 06:01:10 +0800",
-     "summary": "每日精选 潘功胜最新发声 ： 据央行消息，2026年10月15日，二十国集团（G20）在泰国曼谷召开今年第三次G20财 长和 央行行长会议。中国人民 银行 行长潘功胜出席会议并发言。潘功胜表示，中国经济高质量发展延续向好态势，金融市场平稳运行，经济长期向好的基本面与支撑条件没有改变。 中国人民 银行 将继续实施好适度宽松的货币政策，为中国经济稳定增 长和 金融市场的平稳运行营造良好的货币金融环境 。 美国9月PPI同比增长远超预期 ： 美国9月PPI同比增长6.3%，预估5.3%，前值5.4% 。美国9月PPI环比增长1.3%，预估0.6%。美国上周初请失业金人数为19.9万人，预期20万人，",
-     "source": "东方财富资讯",
-     "zh": "东方财富财经早餐 10月16日周五"
     },
     {
      "title": "Here are the major earnings before the open Friday",
@@ -2410,28 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "Adams 多元化股票基金报告第三季度业绩"
     },
     {
-     "title": "FCC光模块传闻扰动市场？三大机构研判：贸易扰动风险被高估",
-     "link": "http://finance.eastmoney.com/news/1354,202610153897202616.html",
-     "pubDate": "Fri, 16 Oct 2026 05:56:33 +0800",
-     "summary": "&nbsp; 近期，FCC拟限制中国光模块、美方供应链剔除中国 PCB 及337调查等消息扰动市场。记者就此采访了 中信证券 、 国泰海通 、 中金公司 ，三家机构最新研判一致认为，实际影响大概率小于市场情绪演绎，相关风险被市场高估。 机构认为，一方面，FCC新规不等于全面禁售中国光模块，美国国防 PCB 限制直接影响不足中国 PCB 需求的1%，337调查涉案产品尚未量产、当期业绩冲击有限；另一方面，中国光模块与PCB产业链短期难以替代。相比之下，AI算力链业绩高增、“六张网”约26万亿元投资，才是更值得关注的增长主线。 贸易摩擦：情绪扰动大于实质冲击 近期FCC、PCB、337调查三项扰动",
-     "source": "东方财富资讯",
-     "zh": "FCC光模块传闻扰动市场？三大机构研判：贸易扰动风险被高估"
-    },
-    {
      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
      "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
      "pubDate": "Thu, 15 Oct 2026 21:56:00 GMT",
      "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
      "source": "MarketWatch",
-     "zh": "民主党中期选举的大获全胜如何将科技股抛售变成科技股崩盘"
-    },
-    {
-     "title": "美国9月PPI通胀大超预期 能源冲击向更多领域扩散 美联储加息预期再升温",
-     "link": "http://stock.eastmoney.com/news/1768,202610153897225376.html",
-     "pubDate": "Fri, 16 Oct 2026 05:54:23 +0800",
-     "summary": "美国劳工部周四公布的数据显示，美国9月生产者价格指数(PPI)涨幅远 超市 场预期，凸显在美国与伊朗战争持续之际，能源价格上涨仍在加剧美国通胀压力。 数据显示，衡量上游通胀压力的PPI在9月环比上涨1.3%，创2022年3月以来新高，预期值为0.5%，前值为0.4%；同比上涨6.3%，创2022年12月以来新高，预期值为5.3%，前值为5.4%。 能源价格上涨是推动PPI大幅走高的重要因素，中东冲突导致石油供应受到限制，油价随之飙升，国际基准布伦特原油维持在100美元上方。据悉，能源价格上涨贡献了商品价格整体涨幅的80%。 剔除食品、能源和贸易服务后的核心PPI指标涨幅则相对温和，9月环比上涨",
-     "source": "东方财富资讯",
-     "zh": "美国9月PPI通胀大超预期 能源冲击向更多领域扩散 美联储加息预期再升温"
+     "zh": "民主党中期选举的横扫将如何将科技股抛售变成科技股崩盘"
     },
     {
      "title": "Trump says &apos;if Ken Paxton loses&apos; Texas Senate race, blame Cornyn and Karl Rove",
@@ -2496,6 +2448,54 @@ window.INDUSTRY_DATA = {
      "summary": "美国原油库存上周出现大幅下滑，飓风导致墨西哥湾产量骤降是主因。这份超预期的库存报告令市场重新审视短期供应前景。 据美国能源信息署（EIA）周四公布的数据， 截至10月9日当周，美国商业原油库存减少860万桶至4.156亿桶，降幅远超市场预期。 此前据路透社对分析师的调查，市场普遍预期库存仅小幅下降28.8万桶。 周三美股盘后，美国石油协会（API）披露的数据显示，上周，美国API原油库存骤降1112.3万桶。 原油库存的大幅缩减主要源于飓风冲击下的生产停摆与进口下滑。与此同时，汽油库存意外攀升，而馏分油库存则进一步收紧。 数据公布后，原油和柴油期货价格基本维稳，汽油期货则因库存意外增加而扩大跌",
      "source": "华尔街见闻",
      "zh": "美国商业原油库存降幅超预期，馏分油库存同步下降、汽油意外上升"
+    },
+    {
+     "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
+     "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 20:40:00 GMT",
+     "summary": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.",
+     "source": "MarketWatch",
+     "zh": "随着“科技灾难”恶化，投资者正在抛售人工智能股票。这就是他们现在转向的地方。"
+    },
+    {
+     "title": "马斯克回应黄仁勋赞赏：英伟达团队才华横溢，Star Mind太空服务器明年量产",
+     "link": "https://wallstreetcn.com/articles/3783733",
+     "pubDate": "Fri, 16 Oct 2026 04:37:29 +0800",
+     "summary": "SpaceX与英伟达的深度合作正迈向新阶段。 英伟达CEO黄仁勋近日公开表示，他乐于与马斯克合作，并透露两家公司的工程团队正在联合开发一种新型服务器架构，专为太空环境设计，同时也适用于地面部署。 黄仁勋说： 我很高兴能与埃隆合作。他正在利用我们的技术训练和部署他自己的AI模型，我们两个工程团队正在非常紧密地协作，打造一种新型服务器，一种可能在太空和地球上都表现出色的全新架构。 马斯克随即在X上转发并回应称： 由SpaceX与英伟达联合设计的Star Mind计算机远超几乎所有人的预期，将于明年进入量产阶段。与才华横溢的英伟达工程团队合作令人无比愉快。 这一表态将市场对该项目的关注度迅速推高，也",
+     "source": "华尔街见闻",
+     "zh": "马斯克回应黄仁勋赞赏：英伟达团队才华横溢，Star Mind太空服务器明年量产"
+    },
+    {
+     "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
+     "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+     "pubDate": "Thu, 15 Oct 2026 20:33:24 GMT",
+     "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+     "source": "CNBC",
+     "zh": "英伟达、AMD、戴尔因人工智能资金担忧而在全球科技股中陷入困境"
+    },
+    {
+     "title": "纳斯达克：新泽西设施网络故障致数据馈送中断，当日已恢复正常",
+     "link": "https://wallstreetcn.com/articles/3783730",
+     "pubDate": "Fri, 16 Oct 2026 04:32:21 +0800",
+     "summary": "纳斯达克交易所周四经历一次网络中断，导致旗下全部美国股票市场数据馈送出现间歇性缺失，数小时后故障得以解决。 此次中断发生于美东时间上午11时27分左右，波及纳斯达克、纳斯达克得克萨斯及纳斯达克PSX三个交易所，问题根源追溯至新泽西州卡特雷特的一处数据中心设施。 纳斯达克方面随即指引客户切换至芝加哥备用数据馈送，并于 美东时间下午2时25分宣布\"此前出现的间歇性数据缺失\"已恢复正常。 公司发言人在声明中确认： 交易未受影响。 市场对此反应相当平静。纳斯达克公司股价当日涨1.5%，至93.35美元。 故障详情：主备数据源双双受损 根据纳斯达克于美东时间上午11时27分50秒发布的系统警报，此次中断",
+     "source": "华尔街见闻",
+     "zh": "纳斯达克：新泽西设施网络故障致数据馈送中断，当日已恢复正常"
+    },
+    {
+     "title": "Porsche reveals Mission S concept car that previews new design identity",
+     "link": "https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html",
+     "pubDate": "Thu, 15 Oct 2026 20:30:01 GMT",
+     "summary": "Porsche revealed a concept car called Mission S as part of a turnaround plan that includes efforts to boost profits through higher-end products and lower sales.",
+     "source": "CNBC",
+     "zh": "保时捷推出 Mission S 概念车，预览新设计标识"
+    },
+    {
+     "title": "Treasuries rally as investors seek shelter from AI turbulence",
+     "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+     "pubDate": "Thu, 15 Oct 2026 20:20:36 GMT",
+     "summary": "Global chip stocks caught up in volatile trading amid fears over sustainability of AI boom",
+     "source": "Financial Times",
+     "zh": "随着投资者寻求人工智能动荡的庇护，美国国债上涨"
     }
    ]
   },
@@ -2663,7 +2663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 01:28:14 EDT",
      "summary": "Strokes are becoming alarmingly common among younger adults, with rates nearly doubling among people ages 20 to 54 over nearly three decades. Researchers found that blocked blood vessels in the brain accounted for much of the increase, while high blood pressure, diabetes, and substance use also beca",
      "source": "ScienceDaily",
-     "zh": "年轻人中风的几率几乎翻倍，科学家们不确定原因"
+     "zh": "年轻人中风的发生率几乎翻倍，科学家不确定原因"
     },
     {
      "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
@@ -2671,7 +2671,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 00:14:55 EDT",
      "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains very low, Rutgers researchers say the findings warrant attention as millions of peop",
      "source": "ScienceDaily",
-     "zh": "Ozempic 和 Wegovy 与罕见的突然视力丧失风险有关"
+     "zh": "Ozempic 和 Wegovy 与突发视力丧失的罕见风险有关"
     },
     {
      "title": "Q&A: The “collision” between AI, your brain, and society",

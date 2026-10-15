@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/16 06:42:00",
+ "generated_at": "2026/10/16 06:42:44",
  "recent_days": 7,
  "industries": [
   {
@@ -1079,7 +1079,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 11:10:50 +0000",
      "summary": "Metals and energy group Metlen and conglomerate Karatzis Group have inaugurated the largest BESS in Greece, in a ceremony attended by the country’s Prime Minister.",
      "source": "Energy Storage News",
-     "zh": "希腊总理表示“储能应与可再生能源并驾齐驱”，Metlen 和 Karatzis 启用 790MWh BESS"
+     "zh": "希腊总理表示“储能应与可再生能源并驾齐驱”，Metlen 和 Karatzis 启动 790MWh BESS"
     }
    ]
   },
@@ -1111,7 +1111,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:58:35 +0000",
      "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
      "source": "STAT News",
-     "zh": "在癌症疫苗初步成功后，默克和 Moderna 仍有“大量探索要做”"
+     "zh": "在最初的癌症疫苗取得成功后，默克和 Moderna 仍有“大量探索要做”"
     },
     {
      "title": "CDC page supporting Covid vaccines for pregnancy went dark",
@@ -1151,7 +1151,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 17:19:50 +0000",
      "summary": "Rep. Jake Auchincloss (D-Mass.) has some advice for fellow lawmakers: unapologetically support the biotech industry.",
      "source": "STAT News",
-     "zh": "马萨诸塞州议员奥金克洛斯赞成发展美国生物技术而不是针对中国"
+     "zh": "马萨诸塞州议员奥金克洛斯赞成发展美国生物技术而不是瞄准中国"
     },
     {
      "title": "How Alzheimer’s Risk Gene APOE4 Disrupts Myelination",
@@ -1327,7 +1327,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:13:26 +0000",
      "summary": "On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn",
      "source": "Space.com",
-     "zh": "在太空的这一天！ 1997 年 10 月 15 日：美国宇航局 (NASA) 发射卡西尼-休更斯探测器，开始为期 7 年的土星之旅"
+     "zh": "在太空的这一天！ 1997 年 10 月 15 日：美国宇航局 (NASA) 发射卡西尼-休金斯探测器，开始为期 7 年的土星之旅"
     },
     {
      "title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force",
@@ -1335,7 +1335,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:11:45 +0000",
      "summary": "Liftoff from pad 4E at Vandenberg Space Force Base in California is scheduled for Thursday, Oct. 15, at 5:01 p.m. PDT (8:01 p.m. EDT / 0001 UTC).",
      "source": "Spaceflight Now",
-     "zh": "现场报道：SpaceX 将为美国太空部队发射机密有效载荷"
+     "zh": "现场报道：SpaceX 将为美国太空军发射机密有效载荷"
     },
     {
      "title": "Watch SpaceX launch classified mission for the US Space Force today",
@@ -1399,7 +1399,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 15:57:47 +0000",
      "summary": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Arte",
      "source": "NASA",
-     "zh": "NASA 奖项使研究和技术能够打造未来的劳动力"
+     "zh": "NASA 奖项支持研究和技术打造未来劳动力"
     },
     {
      "title": "How NASA is thinking about a moon base",
@@ -1495,7 +1495,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 13 Oct 2026 14:07:50 +0000",
      "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
      "source": "Spaceflight Now",
-     "zh": "SpaceX 将 NASA 科学和货物运送到国际空间站"
+     "zh": "SpaceX 将 NASA 科学和货物发射到国际空间站"
     },
     {
      "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
@@ -1607,7 +1607,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 17:42:50 +0000",
      "summary": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "在对抗现代网络攻击时，上下文才是王道"
+     "zh": "对抗现代网络攻击，上下文才是王道"
     },
     {
      "title": "Fake Arch Linux packages push malware with root privileges",
@@ -1655,7 +1655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 14:22:34 +0000",
      "summary": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "英国法律援助机构黑客范围在法医审查后扩大"
+     "zh": "英国法律援助机构的黑客范围在法医审查后扩大"
     },
     {
      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
@@ -1855,7 +1855,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 20:38:13 +0000",
      "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
      "source": "TechCrunch",
-     "zh": "亚马逊设备主管帕诺斯·帕奈 (Panos Panay) 谈失败的重要性以及从中恢复的重要性"
+     "zh": "亚马逊设备主管帕诺斯·帕奈 (Panos Panay) 谈失败和从中恢复的重要性"
     },
     {
      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
@@ -1951,7 +1951,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 18:00:00 +0000",
      "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
-     "zh": "保持常青：我们如何在共享组织中自动化安全访问和仓库卫生"
+     "zh": "保持常青：我们如何在共享组织中自动化安全访问和回购卫生"
     },
     {
      "title": "Muse Spark Open",
@@ -2055,7 +2055,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 21:22:49 +0000",
      "summary": "A new investigation by The Washington Post reveals that Apple and Nvidia each pledged $25 million toward Trump’s new White House ballroom, making them two of the project’s largest donors. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "WaPo：苹果公司被揭露为特朗普白宫宴会厅的最大捐助者之一"
+     "zh": "WaPo：苹果被揭露为特朗普白宫宴会厅的最大捐助者之一"
     },
     {
      "title": "Google reminds Android users of an overlooked scam detection tool",
@@ -2151,7 +2151,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:03:26 +0000",
      "summary": "Samsung just got a free marketing boost.",
      "source": "Android Authority",
-     "zh": "苹果可能是三星迄今为止最好的可折叠手机销售人员"
+     "zh": "苹果可能是三星迄今为止最好的可折叠产品销售人员"
     },
     {
      "title": "The Godox A2 is a real flash for your phone",
@@ -2346,6 +2346,14 @@ window.INDUSTRY_DATA = {
      "zh": "全球市场：美股三大指数收涨 道指涨超1% 贵金属、加密货币概念股涨幅居前"
     },
     {
+     "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+     "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 22:15:00 GMT",
+     "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+     "source": "MarketWatch",
+     "zh": "我今年 64 岁，有两个儿子，但只有一个在家族企业工作。我应该把70%的生意留给他吗？"
+    },
+    {
      "title": "电子布价格涨势延续 高端产能有望释放",
      "link": "http://finance.eastmoney.com/news/1354,202610163897330892.html",
      "pubDate": "Fri, 16 Oct 2026 06:10:00 +0800",
@@ -2359,7 +2367,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 18:07:57 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "尽管中国采购，大豆期货仍跌至七周低点"
+     "zh": "尽管中国购买，大豆期货仍跌至七周低点"
     },
     {
      "title": "10月16日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
@@ -2410,6 +2418,14 @@ window.INDUSTRY_DATA = {
      "zh": "FCC光模块传闻扰动市场？三大机构研判：贸易扰动风险被高估"
     },
     {
+     "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+     "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 21:56:00 GMT",
+     "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
+     "source": "MarketWatch",
+     "zh": "民主党中期选举的大获全胜如何将科技股抛售变成科技股崩盘"
+    },
+    {
      "title": "美国9月PPI通胀大超预期 能源冲击向更多领域扩散 美联储加息预期再升温",
      "link": "http://stock.eastmoney.com/news/1768,202610153897225376.html",
      "pubDate": "Fri, 16 Oct 2026 05:54:23 +0800",
@@ -2434,6 +2450,30 @@ window.INDUSTRY_DATA = {
      "zh": "由于投资者对人工智能债务感到不满，CoreWeave 信用违约掉期触及困境水平"
     },
     {
+     "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+     "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 21:23:00 GMT",
+     "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
+     "source": "MarketWatch",
+     "zh": "随着人工智能担忧加剧，英伟达和其他芯片股面临新的压力"
+    },
+    {
+     "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
+     "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 21:21:00 GMT",
+     "summary": "Investors have a ‘love-hate relationship’ with tech stocks now — and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
+     "source": "MarketWatch",
+     "zh": "暂时不要抛弃科技股。采取这些措施是为了利用最新的人工智能重置。"
+    },
+    {
+     "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
+     "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 21:03:00 GMT",
+     "summary": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
+     "source": "MarketWatch",
+     "zh": "随着华尔街对人工智能支出的争论，CoreWeave 两极分化的股票反弹"
+    },
+    {
      "title": "CoreWeave违约概率超六成！黄仁勋“灭火”：融资成本在下降，无需英伟达兜底",
      "link": "https://wallstreetcn.com/articles/3783724",
      "pubDate": "Fri, 16 Oct 2026 05:00:11 +0800",
@@ -2456,46 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国原油库存上周出现大幅下滑，飓风导致墨西哥湾产量骤降是主因。这份超预期的库存报告令市场重新审视短期供应前景。 据美国能源信息署（EIA）周四公布的数据， 截至10月9日当周，美国商业原油库存减少860万桶至4.156亿桶，降幅远超市场预期。 此前据路透社对分析师的调查，市场普遍预期库存仅小幅下降28.8万桶。 周三美股盘后，美国石油协会（API）披露的数据显示，上周，美国API原油库存骤降1112.3万桶。 原油库存的大幅缩减主要源于飓风冲击下的生产停摆与进口下滑。与此同时，汽油库存意外攀升，而馏分油库存则进一步收紧。 数据公布后，原油和柴油期货价格基本维稳，汽油期货则因库存意外增加而扩大跌",
      "source": "华尔街见闻",
      "zh": "美国商业原油库存降幅超预期，馏分油库存同步下降、汽油意外上升"
-    },
-    {
-     "title": "马斯克回应黄仁勋赞赏：英伟达团队才华横溢，Star Mind太空服务器明年量产",
-     "link": "https://wallstreetcn.com/articles/3783733",
-     "pubDate": "Fri, 16 Oct 2026 04:37:29 +0800",
-     "summary": "SpaceX与英伟达的深度合作正迈向新阶段。 英伟达CEO黄仁勋近日公开表示，他乐于与马斯克合作，并透露两家公司的工程团队正在联合开发一种新型服务器架构，专为太空环境设计，同时也适用于地面部署。 黄仁勋说： 我很高兴能与埃隆合作。他正在利用我们的技术训练和部署他自己的AI模型，我们两个工程团队正在非常紧密地协作，打造一种新型服务器，一种可能在太空和地球上都表现出色的全新架构。 马斯克随即在X上转发并回应称： 由SpaceX与英伟达联合设计的Star Mind计算机远超几乎所有人的预期，将于明年进入量产阶段。与才华横溢的英伟达工程团队合作令人无比愉快。 这一表态将市场对该项目的关注度迅速推高，也",
-     "source": "华尔街见闻",
-     "zh": "马斯克回应黄仁勋赞赏：英伟达团队才华横溢，Star Mind太空服务器明年量产"
-    },
-    {
-     "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
-     "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-     "pubDate": "Thu, 15 Oct 2026 20:33:24 GMT",
-     "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
-     "source": "CNBC",
-     "zh": "因人工智能资金担忧，英伟达、AMD、戴尔在全球科技股中陷入困境"
-    },
-    {
-     "title": "纳斯达克：新泽西设施网络故障致数据馈送中断，当日已恢复正常",
-     "link": "https://wallstreetcn.com/articles/3783730",
-     "pubDate": "Fri, 16 Oct 2026 04:32:21 +0800",
-     "summary": "纳斯达克交易所周四经历一次网络中断，导致旗下全部美国股票市场数据馈送出现间歇性缺失，数小时后故障得以解决。 此次中断发生于美东时间上午11时27分左右，波及纳斯达克、纳斯达克得克萨斯及纳斯达克PSX三个交易所，问题根源追溯至新泽西州卡特雷特的一处数据中心设施。 纳斯达克方面随即指引客户切换至芝加哥备用数据馈送，并于 美东时间下午2时25分宣布\"此前出现的间歇性数据缺失\"已恢复正常。 公司发言人在声明中确认： 交易未受影响。 市场对此反应相当平静。纳斯达克公司股价当日涨1.5%，至93.35美元。 故障详情：主备数据源双双受损 根据纳斯达克于美东时间上午11时27分50秒发布的系统警报，此次中断",
-     "source": "华尔街见闻",
-     "zh": "纳斯达克：新泽西设施网络故障致数据馈送中断，当日已恢复正常"
-    },
-    {
-     "title": "Porsche reveals Mission S concept car that previews new design identity",
-     "link": "https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html",
-     "pubDate": "Thu, 15 Oct 2026 20:30:01 GMT",
-     "summary": "Porsche revealed a concept car called Mission S as part of a turnaround plan that includes efforts to boost profits through higher-end products and lower sales.",
-     "source": "CNBC",
-     "zh": "保时捷发布 Mission S 概念车，预览新设计标识"
-    },
-    {
-     "title": "Treasuries rally as investors seek shelter from AI turbulence",
-     "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
-     "pubDate": "Thu, 15 Oct 2026 20:20:36 GMT",
-     "summary": "Global chip stocks caught up in volatile trading amid fears over sustainability of AI boom",
-     "source": "Financial Times",
-     "zh": "随着投资者寻求人工智能动荡的庇护，美国国债上涨"
     }
    ]
   },
@@ -2663,7 +2663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 01:28:14 EDT",
      "summary": "Strokes are becoming alarmingly common among younger adults, with rates nearly doubling among people ages 20 to 54 over nearly three decades. Researchers found that blocked blood vessels in the brain accounted for much of the increase, while high blood pressure, diabetes, and substance use also beca",
      "source": "ScienceDaily",
-     "zh": "年轻人中风的发生率几乎翻倍，科学家不确定原因"
+     "zh": "年轻人中风的几率几乎翻倍，科学家们不确定原因"
     },
     {
      "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",

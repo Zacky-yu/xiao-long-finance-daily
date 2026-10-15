@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/15 13:49:57",
+ "generated_at": "2026/10/15 13:57:10",
  "recent_days": 7,
  "industries": [
   {
@@ -159,7 +159,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 21:30:33 +0000",
      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
      "source": "TechCrunch AI",
-     "zh": "Flock 首席执行官表示，其麦克风检测到“只是枪声”——其网站说法不同"
+     "zh": "Flock 首席执行官表示，其麦克风检测到的“只是枪声”——其网站说法不同"
     },
     {
      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
@@ -258,44 +258,12 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "Nvidia invests in  five UK start-ups",
-     "link": "https://www.electronicsweekly.com/news/business/nvidia-invests-in-six-uk-start-ups-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 05:15:38 +0000",
-     "summary": "Today, NVIDIA announced new planned investments in UK start-ups: Boltz, Foresight, Hiverge, Prima Mente and Riverlane. Boltz, a London-based AI startup founded by MIT researchers, builds biomolecular models and AI […] The post Nvidia invests in five UK start-ups appeared first on Electronics Weekly ",
-     "source": "Electronics Weekly",
-     "zh": "英伟达投资五家英国初创企业"
-    },
-    {
-     "title": "Salience Labs raises $125m for photonics ICs",
-     "link": "https://www.electronicsweekly.com/news/business/salience-labs-raises-125m-for-photonics-ics-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 05:15:26 +0000",
-     "summary": "Salience Labs of Thame, a five year-old photonic IC company built on technology from Oxford and Munster universities, has completed a $125 million Series B. The company’s Seed round in […] The post Salience Labs raises $125m for photonics ICs appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Salience Labs 为光子 IC 融资 1.25 亿美元"
-    },
-    {
-     "title": "Japan to invest $21bn in two Globalfoundries’ fabs in New York",
-     "link": "https://www.electronicsweekly.com/news/business/japan-to-invest-21bn-in-two-globalfoundries-fabs-in-new-york-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 05:13:06 +0000",
-     "summary": "GlobalFoundries is to build two fabs at its Malta, New York, with Japan providing up to $21 billion in funding. Japan provides the investment, while GF contributesits technologies, manufacturing expertise […] The post Japan to invest $21bn in two Globalfoundries’ fabs in New York appeared first on E",
-     "source": "Electronics Weekly",
-     "zh": "日本将投资 210 亿美元建设格芯位于纽约的两座晶圆厂"
-    },
-    {
      "title": "ASML has €11.7bn Q3",
      "link": "https://www.electronicsweekly.com/news/business/asml-has-e11-7bn-q3-2026-10/",
      "pubDate": "Thu, 15 Oct 2026 05:09:23 +0000",
      "summary": "ASML reported €11.7 billion sales and €5 billion profit at a net margin of 57.5% in Q3 2026. Full-year 2026 sales are expected to be between €44 billion and […] The post ASML has €11.7bn Q3 appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "ASML第三季度营收117亿欧元"
-    },
-    {
-     "title": "Nvidia to spend $250m on UK computing resources",
-     "link": "https://www.electronicsweekly.com/news/business/nvidia-to-spend-250m-on-uk-computing-resources-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 05:08:41 +0000",
-     "summary": "Nvidia is to provide $50 million a year for five years to support UK computing resources at the British Open-Ended Learning and Discovery Lab (BOLD), the Science of Fundamental AI […] The post Nvidia to spend $250m on UK computing resources appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Nvidia 将斥资 2.5 亿美元购买英国计算资源"
     },
     {
      "title": "Micron opens second Taiwan advanced packaging plant as HBM supply tightens",
@@ -375,7 +343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 18:29:24 +0000",
      "summary": "ASM International shows how building increasingly complex 3D devices requires advances in materials and processes. The post Beyond Lithography: 3D Scaling Puts New Demands on Materials appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "超越光刻：3D 缩放对材料提出了新要求"
+     "zh": "超越光刻：3D 缩放对材料提出新要求"
     },
     {
      "title": "Simulations Pinpoint Leakage Pathway In GAAFETs (Sandia, Luxembourg)",
@@ -402,6 +370,14 @@ window.INDUSTRY_DATA = {
      "zh": "联合封装光学器件从承诺转向生产规划"
     },
     {
+     "title": "10 years of TME Education – a decade of supporting technical education",
+     "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/10-years-of-tme-education-a-decade-of-supporting-technical-education-2-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 15:32:38 +0000",
+     "summary": "Learn more about TME Education – an educational project based on practical learning and collaboration with local communities. The post 10 years of TME Education – a decade of supporting technical education appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "TME教育十年——支持技术教育的十年"
+    },
+    {
      "title": "Characterization of HBM Power Consumption (ETH Zurich, NYU)",
      "link": "https://semiengineering.com/characterization-of-hbm-power-consumption-eth-zurich-nyu/",
      "pubDate": "Wed, 14 Oct 2026 15:27:00 +0000",
@@ -416,6 +392,22 @@ window.INDUSTRY_DATA = {
      "summary": "Score: the written music for an orchestra, with every section’s part laid out on the same page so they play together. In this article, it’s your designed workflows. Is AI helping you hit your tape-out date, or putting it at risk? How would you know? Every Director I talk to is being asked to use AI ",
      "source": "SemiWiki",
      "zh": "通过 AI 颠覆交付硅系统，第 1 部分：写下分数"
+    },
+    {
+     "title": "Vishay optical sensors target battery management, energy storage",
+     "link": "https://www.electronicsweekly.com/news/products/sensors-products/vishay-optical-sensors-target-battery-management-energy-storage-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 13:51:05 +0000",
+     "summary": "Vishay’s new automotive grade optical sensors address challenges in modern battery management, energy storage, and industrial automation systems. The four new devices combine an infrared (IR) emitter and PIN photodiode […] The post Vishay optical sensors target battery management, energy storage app",
+     "source": "Electronics Weekly",
+     "zh": "Vishay 光学传感器的目标是电池管理、能量存储"
+    },
+    {
+     "title": "Datacentre? Not In My Backyard",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/democracy-and-standards/datacentre-not-in-ny-backyard-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 13:10:59 +0000",
+     "summary": "Ballotpedia has counted 35 local measures on the ballot in the US November 3 midterm elections aimed at banning or restricting the construction of new datacentres. Ohio has 21 such […] The post Datacentre? Not In My Backyard appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "数据中心？不在我的后院"
     },
     {
      "title": "A Migration Feasibility Study Can Turn an Uncertain Re-Design into a Measurable Engineering Project",
@@ -464,6 +456,14 @@ window.INDUSTRY_DATA = {
      "summary": "Specialty analog foundry Tower Semiconductor Ltd of Migdal Haemek, Israel and high-performance semiconductor, Internet of Things (IoT) system and cloud connectivity service provider Semtech Corp of Camarillo, CA, USA have agreed to expand their 20-year partnership. Semtech will invest in securing de",
      "source": "Semiconductor Today",
      "zh": "Tower 和 Semtech 扩大 SiGe 合作伙伴关系，以扩展数据中心的节能模拟连接"
+    },
+    {
+     "title": "In conversation with Siemens on semiconductor test technology",
+     "link": "https://www.electronicsweekly.com/news/design/eda-and-ip/ew-video-in-conversation-with-tessent-on-semiconductor-test-technology-2026-10/",
+     "pubDate": "Wed, 14 Oct 2026 10:59:25 +0000",
+     "summary": "Electronics Weekly recently caught up with Lee Harrison, Director of Product Marketing at Tessent, Siemens Digital Industries Software, to discuss the latest semiconductor test technology. Topics include silicon lifecycle management, […] The post In conversation with Siemens on semiconductor test te",
+     "source": "Electronics Weekly",
+     "zh": "与西门子谈论半导体测试技术"
     },
     {
      "title": "How To Define CPU And Software Stack Performance For Agentic AI",
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Scientists develop moth-eye-inspired antireflective surfaces for PV modules",
+     "link": "https://www.pv-magazine.com/2026/10/15/scientists-develop-moth-eye-inspired-antireflective-surfaces-for-pv-modules/",
+     "pubDate": "Thu, 15 Oct 2026 05:55:58 +0000",
+     "summary": "Researchers in Portugal have investigated the mechanical durability of moth-eye-inspired antireflective silicon surfaces for photovoltaic applications. They found that repeated sliding causes nanopillar fracture and material compaction, with higher mechanical loads leading to increased friction and ",
+     "source": "pv magazine",
+     "zh": "科学家开发出受蛾眼启发的光伏组件抗反射表面"
+    },
+    {
      "title": "Brazil’s presidential election: Lula and Bolsonaro’s proposals for solar energy",
      "link": "https://www.pv-magazine.com/2026/10/15/brazils-presidential-election-lula-and-bolsonaros-proposals-for-solar-energy/",
      "pubDate": "Thu, 15 Oct 2026 05:47:49 +0000",
@@ -906,14 +914,6 @@ window.INDUSTRY_DATA = {
      "zh": "澳大利亚斥资 1.74 亿美元促进光伏创新"
     },
     {
-     "title": "Pricing India’s storage demand gap",
-     "link": "https://www.pv-magazine.com/2026/10/15/pricing-indias-storage-demand-gap/",
-     "pubDate": "Thu, 15 Oct 2026 04:00:00 +0000",
-     "summary": "India tendered more battery storage in 2025 than in the previous three years combined. Winning bids for these projects have fallen roughly 86% since the country’s first standalone energy storage auction in 2022. On the surface, this reads like a market maturing exactly on schedule. But the reality i",
-     "source": "pv magazine",
-     "zh": "印度存储需求缺口的定价"
-    },
-    {
      "title": "Still Smoking: The PHEV Emissions Scandal Continues",
      "link": "https://cleantechnica.com/2026/10/14/still-smoking-the-phev-emissions-scandal-continues/",
      "pubDate": "Thu, 15 Oct 2026 03:05:17 +0000",
@@ -935,7 +935,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 02:46:57 +0000",
      "summary": "960MWh Summerfield BESS in South Australia enters commissioning, while Gotion starts building the 843MWh Lower Wonga project in Queensland.",
      "source": "Energy Storage News",
-     "zh": "澳大利亚：e-STORAGE 在南澳大利亚委托 960MWh BESS 进行 CIP；国轩为昆士兰州的 Lightsource Hybrid 交付"
+     "zh": "澳大利亚：e-STORAGE 在南澳大利亚委托 960MWh BESS 进行 CIP；国轩在昆士兰交付 Lightsource Hybrid"
     },
     {
      "title": "ARENA launches AU$250 million third Solar Sunshot round targeting large-scale solar PV plants in Australia",
@@ -1039,7 +1039,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 10:55:47 -0400",
      "summary": "However, &ldquo;rising gas turbine costs and supply shortages are already making new gas plants more expensive and slower to build,&rdquo; David Villagrana, EDF&rsquo;s lead counsel for clean energy tax solutions, told Utility Dive.",
      "source": "Utility Dive",
-     "zh": "化石能源发电管道反弹，而新清洁发电放缓：EDF"
+     "zh": "化石燃料发电管道反弹，而新清洁发电放缓：EDF"
     },
     {
      "title": "Becquerel: AI and robotics can deliver 3-4% energy yield improvement in solar PV projects",
@@ -1151,7 +1151,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 19:06:14 +0000",
      "summary": "Sanofi's new R&D chief said on Wednesday that Western drugmakers cannot ignore China's accelerating innovation and need to consider how the country’s emergence as a global biopharma powerhouse should change their approach to sourcing new ...",
      "source": "Endpoints News",
-     "zh": "赛诺菲新任研发负责人：西方制药应重新思考中国药品管道角色"
+     "zh": "赛诺菲新任研发总监：西方制药应重新思考中国药品管道角色"
     },
     {
      "title": "New FDA framework tilts toward consistency over flexibility",
@@ -1207,7 +1207,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 16:00:04 +0000",
      "summary": "Splitting lipid nanoparticle manufacturing into multiple mixing steps can help better control the size, shape, and stability of particles, with the aim of improving product quality during commercial-scale production. The post Turning Process Understanding Into Control of Lipid Nanoparticles appeared",
      "source": "GEN",
-     "zh": "将过程理解转化为脂质纳米粒子的控制"
+     "zh": "将过程理解转化为脂质纳米颗粒的控制"
     },
     {
      "title": "Contracting Expansion: A Path to Better CAR T-Cell Therapy Production",
@@ -1231,7 +1231,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 15:52:24 +0000",
      "summary": "Verastem Oncology had a big Wednesday morning: It announced new data amid a tense competition for the next-wave KRAS agents, as well as a $250 million raise and the departure of its CEO. The Massachusetts ...",
      "source": "Endpoints News",
-     "zh": "Verastem 在胰腺癌领域成为 RevMed 竞争对手"
+     "zh": "Verastem 成为 RevMed 胰腺癌领域的竞争对手"
     },
     {
      "title": "Verastem cancer drug shows early promise in small study",
@@ -1463,7 +1463,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 13 Oct 2026 14:07:50 +0000",
      "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
      "source": "Spaceflight Now",
-     "zh": "SpaceX 将 NASA 科学和货物发射到国际空间站"
+     "zh": "SpaceX 将 NASA 科学和货物运送到国际空间站"
     },
     {
      "title": "Anna Shaposhnik, ORBES",
@@ -1914,14 +1914,6 @@ window.INDUSTRY_DATA = {
      "zh": "第三季度全球智能手机出货量同比下降 22% 至 2.553 亿，季度跌幅创历史新高，三星和苹果出货量增长，而小米、Oppo 和 Vivo 出货量下滑幅度更大 (IDC)"
     },
     {
-     "title": "Lenovo Coupon Codes: 15% Off in October 2026",
-     "link": "https://www.wired.com/story/lenovo-coupon-code/",
-     "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
-     "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-     "source": "WIRED",
-     "zh": "Lenovo 优惠券代码：2026 年 10 月 15% 折扣"
-    },
-    {
      "title": "Walmart Promo Codes: 20% Off for October 2026",
      "link": "https://www.wired.com/story/top-walmart-promo-codes/",
      "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
@@ -1936,6 +1928,14 @@ window.INDUSTRY_DATA = {
      "summary": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
      "source": "WIRED",
      "zh": "2026 年 10 月 Hotels.com 好订网优惠券代码"
+    },
+    {
+     "title": "Lenovo Coupon Codes: 15% Off in October 2026",
+     "link": "https://www.wired.com/story/lenovo-coupon-code/",
+     "pubDate": "Thu, 15 Oct 2026 05:00:00 +0000",
+     "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+     "source": "WIRED",
+     "zh": "Lenovo 优惠券代码：2026 年 10 月 15% 折扣"
     },
     {
      "title": "ABT Promo Codes & Discounts for October 2026",
@@ -2005,7 +2005,7 @@ window.INDUSTRY_DATA = {
      "title": "An Apology",
      "link": "https://www.elevationlab.com/blogs/news/an-apology",
      "pubDate": "Thu, 15 Oct 2026 04:23:27 +0000",
-     "summary": "Article URL: https://www.elevationlab.com/blogs/news/an-apology Comments URL: https://news.ycombinator.com/item?id=50099121 Points: 21 # Comments: 7",
+     "summary": "Article URL: https://www.elevationlab.com/blogs/news/an-apology Comments URL: https://news.ycombinator.com/item?id=50099121 Points: 27 # Comments: 11",
      "source": "Hacker News",
      "zh": "道歉"
     },
@@ -2039,7 +2039,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 04:59:51 +0000",
      "summary": "Google is now telling Gemini subscribers they're losing access to Pro models mid-November.",
      "source": "Android Authority",
-     "zh": "谷歌现在正在向 Gemini 订阅者发送电子邮件，告知其将花费 4 倍的费用"
+     "zh": "谷歌现在正在通过电子邮件向 Gemini 订阅者发送有关一项更改的信息，该更改将使他们的费用增加 4 倍"
     },
     {
      "title": "Check your inbox: Google is quietly handing out Pixel 11 discount codes",
@@ -2274,44 +2274,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "证券板块午后再度拉升 锦龙股份触及涨停",
-     "link": "http://finance.eastmoney.com/news/11440,202610153896767674.html",
-     "pubDate": "Thu, 15 Oct 2026 13:44:05 +0800",
-     "summary": "证券板块午后再度拉升， 锦龙股份 触及涨停， 华林证券 回封涨停， 首创证券 、 华鑫股份 、 中金公司 、 湘财股份 跟涨。",
-     "source": "东方财富股票",
-     "zh": "证券板块午后再度拉升 锦龙股份触及涨停"
+     "title": "Taiwan Semiconductor Manufacturing Company GAAP EPS of $4.60 beats by $0.09, revenue of $46.72B beats by $1.02B",
+     "link": "https://seekingalpha.com/news/4653238-taiwan-semiconductor-manufacturing-company-gaap-eps-of-460-beats-by-009-revenue-of-4672b-beats-by-102b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 01:53:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "台积电 GAAP 每股收益 $4.60 超出 $0.09，营收 $46.72B 超出 $1.02B"
     },
     {
-     "title": "美能能源10月15日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610153896765748.html",
-     "pubDate": "Thu, 15 Oct 2026 13:43:34 +0800",
-     "summary": "以下是 美能能源 在北京时间10月15日13:43分盘口异动快照： 10月15日， 美能能源 盘中涨幅达5%，截至13点43分，报11.5元，成交3.07亿元，换手率9.89%。 分笔 13:43:27 11.50 1224↑ 13:43:24 11.45 249↑ 13:43:21 11.43 341↑ 13:43:18 11.32 3291↑ 13:43:15 11.25 585↑ 13:43:12 11.17 151↓ 13:43:09 11.24 500↑ 13:43:06 11.17 50↑ 13:43:03 11.13 93↓ 13:43:00 11.20 294↓ 报价 卖五 1",
-     "source": "东方财富股票",
-     "zh": "美能能源10月15日盘中涨幅达5%"
+     "title": "Japan August industrial production revised down to -2.4% M/M; core machine orders rise 5.2%",
+     "link": "https://seekingalpha.com/news/4653236-japan-august-industrial-production-revised-down-to--24-mm-core-machine-orders-rise-52?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 01:52:27 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "日本8月工业生产环比下调至-2.4%；核心机订单增长5.2%"
     },
     {
-     "title": "从含糖税到标签 全球如何应对“甜蜜负担”？",
-     "link": "http://finance.eastmoney.com/news/1351,202610153896765652.html",
-     "pubDate": "Thu, 15 Oct 2026 13:43:19 +0800",
-     "summary": "从墨西哥到韩国，从英国到马来西亚，这些年越来越多国家将征收含糖税作为应对肥胖和糖尿病、引导公众关注健康的重要手段。如今，又一个欧洲国家也计划加入征收含糖税的阵营。 多国向“甜蜜”征税 据新华社报道，德国一项有关征收含糖饮料税的方案已被提交至政府层面，若获批准，将于2027年7月1日起开征含糖饮料税。根据该方案，每100毫升含糖饮料中糖越多，税便越高：含糖量5克及以上按照每升26欧分的税率征税，含糖量达8克及以上时提高至每升32欧分。德国卫生部表示，含糖税带来的财政收入不会纳入联邦预算，而是留作医疗系统投资。德国政府希望借征税引导民众关注健康，降低每日糖摄入量，应对日益严峻的肥胖问题，进而减轻医",
+     "title": "万和电气10月15日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610153896771217.html",
+     "pubDate": "Thu, 15 Oct 2026 13:50:05 +0800",
+     "summary": "以下是 万和电气 在北京时间10月15日13:49分盘口异动快照： 10月15日13点49分， 万和电气 盘中打开涨停，现报7.81元，成交2.41亿元，换手率4.67%。该股之前于9点38分涨停。 分笔 13:49:57 7.81 1730↓ 13:49:54 7.88 3756↓ 13:49:51 7.88 1191↓ 13:49:48 7.88 1092↓ 13:49:45 7.88 773↓ 13:49:42 7.88 451↓ 13:49:39 7.88 555↓ 13:49:36 7.88 348↓ 13:49:33 7.88 739↓ 13:49:30 7.88 453↓ 报价 ",
      "source": "东方财富股票",
-     "zh": "从含糖税到标签 全球如何应对“甜蜜负担”？"
+     "zh": "万和电气10月15日打开涨停"
     },
     {
-     "title": "蕾奥规划10月15日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610153896765540.html",
-     "pubDate": "Thu, 15 Oct 2026 13:43:15 +0800",
-     "summary": "以下是 蕾奥规划 在北京时间10月15日13:43分盘口异动快照： 10月15日， 蕾奥规划 盘中涨幅达5%，截至13点43分，报16.98元，成交9155.07万元，换手率3.44%。 分笔 13:43:06 16.98 5↑ 13:43:03 16.96 123↓ 13:43:00 16.97 145↑ 13:42:57 16.97 18↑ 13:42:54 16.97 3↑ 13:42:51 16.97 1↑ 13:42:48 16.97 84↑ 13:42:45 16.97 11↑ 13:42:42 16.97 33↑ 13:42:39 16.96 9↑ 报价 卖五 17.06 28 ",
+     "title": "韩国KOSPI指数日内重挫9%",
+     "link": "http://finance.eastmoney.com/news/11440,202610153896771124.html",
+     "pubDate": "Thu, 15 Oct 2026 13:49:14 +0800",
+     "summary": "韩国KOSPI指数日内重挫9%，现报5467.66点。个股方面， SK海力士 、三星 电子 跌超11%。",
      "source": "东方财富股票",
-     "zh": "蕾奥规划10月15日盘中涨幅达5%"
+     "zh": "韩国KOSPI指数日内重挫9%"
     },
     {
-     "title": "台积电美股夜盘一度跌超2.7%，现跌超2.4%",
-     "link": "http://stock.eastmoney.com/news/1611,202610153896766094.html",
-     "pubDate": "Thu, 15 Oct 2026 13:43:06 +0800",
-     "summary": "台积电 美股夜盘一度跌超2.7%，现跌超2.4%。 （文章来源：新浪财经快讯）",
+     "title": "AI安全风波升级！美国八州联合起诉OpenAI：指控ChatGPT大规模伤害未成年",
+     "link": "http://finance.eastmoney.com/news/1354,202610153896765870.html",
+     "pubDate": "Thu, 15 Oct 2026 13:48:20 +0800",
+     "summary": "美东时间周三，美国八个州同步对OpenAI发起诉讼，指控ChatGPT存在系统性风险，正在大规模伤害未成年人。 这是美国多州首次协同行动，对AI企业提起集体法律挑战，标志着AI产品的安全监管争议再度升温。 美国八州联合起诉OpenAI 本次发起诉讼的州为爱荷华州、堪萨斯州、内布拉斯加州、西弗吉尼亚州、阿肯色州、亚利桑那州、爱达荷州以及蒙大拿州，各州将在本州法院分别立案。 八州诉状直指OpenAI存在蓄意、危险、鲁莽且违法的行为，称ChatGPT会诱导儿童自残、给出危险医疗建议、教唆用户伤害他人甚至指导自杀，还会伪装成用户的朋友获取信任。 爱荷华州总检察长布伦娜·伯德（Brenna Bird）直",
      "source": "东方财富股票",
-     "zh": "台积电美股夜盘一度跌超2.7%，现跌超2.4%"
+     "zh": "AI安全风波升级！美国八州联合起诉OpenAI：指控ChatGPT大规模伤害未成年"
+    },
+    {
+     "title": "侨银股份10月15日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610153896769664.html",
+     "pubDate": "Thu, 15 Oct 2026 13:48:15 +0800",
+     "summary": "以下是 侨银股份 在北京时间10月15日13:48分盘口异动快照： 10月15日， 侨银股份 盘中快速上涨，5分钟内涨幅超过2%，截至13点48分，报11.35元，成交6226.36万元，换手率1.82%。 分笔 13:48:09 11.35 70↑ 13:48:06 11.28 142↑ 13:48:03 11.28 120↓ 13:48:00 11.29 418↑ 13:47:57 11.29 35↓ 13:47:54 11.30 146↑ 13:47:51 11.24 75↑ 13:47:48 11.22 811↑ 13:47:45 11.13 466↑ 13:47:42 11.08 6",
+     "source": "东方财富股票",
+     "zh": "侨银股份10月15日快速上涨"
+    },
+    {
+     "title": "日本央行审议委员小枝淳子：没有具体的加息步伐",
+     "link": "http://finance.eastmoney.com/news/1351,202610153896769792.html",
+     "pubDate": "Thu, 15 Oct 2026 13:47:11 +0800",
+     "summary": "日本央行审议委员小枝淳子：没有具体的加息步伐。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "日本央行审议委员小枝淳子：没有具体的加息步伐"
+    },
+    {
+     "title": "比亚迪：比亚迪辅助驾驶车型保有量超395万辆，天神之眼每天生成数据超2.4亿公里",
+     "link": "http://hk.eastmoney.com/news/1535,202610153896769948.html",
+     "pubDate": "Thu, 15 Oct 2026 13:47:11 +0800",
+     "summary": "比亚迪 ： 比亚迪 辅助驾驶车型保有量超395万辆，天神之眼每天生成数据超2.4亿公里。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "比亚迪：比亚迪辅助驾驶车型保有量超395万辆，天神之眼每天生成数据超2.4亿公里"
+    },
+    {
+     "title": "Australia unemployment rate holds at 4.7% in September; employment contracts by 39.3K",
+     "link": "https://seekingalpha.com/news/4653237-australia-unemployment-rate-holds-at-47-in-september-employment-contracts-by-393k?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 01:46:28 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "澳大利亚9月失业率维持在4.7%；雇佣合同 39.3K"
     },
     {
      "title": "能源停火破裂？泽连斯基称乌克兰将继续对俄罗斯炼油厂发动袭击",
@@ -2320,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "乌克兰总统泽连斯基宣布恢复对俄罗斯炼油厂的打击行动，国际油市面临新的不确定性。 据 央视新闻 报道，当地时间10月15日，央视 总台记者 获悉，乌克兰总统泽连斯基在接受采访时表示，乌方将恢复对俄罗斯炼油厂的打击。 他表示，应美国的请求，乌方已停止攻击俄罗斯能源基础设施3天。 据彭博10月15日报道，泽连斯基在接受《金融时报》采访时表示，乌克兰将恢复对俄罗斯石油炼厂的打击，理由是 莫斯科在停火期间持续袭击乌克兰能源基础设施 。他表示，乌方此前曾暂停能源打击行动三天，以配合特朗普周日宣布的\"能源停火\"安排，但俄方并未遵守承诺。 此次表态令华盛顿与基辅之间本已紧张的关系进一步恶化。与此同时，泽连斯基",
      "source": "华尔街见闻",
      "zh": "能源停火破裂？泽连斯基称乌克兰将继续对俄罗斯炼油厂发动袭击"
-    },
-    {
-     "title": "银之杰10月15日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610153896765388.html",
-     "pubDate": "Thu, 15 Oct 2026 13:42:09 +0800",
-     "summary": "以下是 银之杰 在北京时间10月15日13:42分盘口异动快照： 10月15日， 银之杰 盘中快速反弹，5分钟内涨幅超过2%，截至13点42分，报29.08元，成交9.24亿元，换手率5.42%。 分笔 13:42:03 29.08 346↑ 13:42:00 29.02 220↑ 13:41:57 29.01 1315↑ 13:41:54 28.96 162↓ 13:41:51 28.96 155↑ 13:41:48 28.95 395↑ 13:41:45 28.88 532↓ 13:41:42 28.92 603↑ 13:41:39 28.88 28↓ 13:41:36 28.89 295",
-     "source": "东方财富股票",
-     "zh": "银之杰10月15日快速反弹"
     },
     {
      "title": "Asia markets in red: South Korea and Japan lead deep tech selloff; Japan industrial output revised down",
@@ -2375,7 +2399,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 01:26:30 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Meta 和 Alphabet 的 Jio IPO 暴利因卢比持续贬值而黯淡"
+     "zh": "Meta 和 Alphabet 的 Jio IPO 意外收入因卢比持续贬值而黯淡"
     },
     {
      "title": "国际盲人节｜巾帼力量助追光 渝好巾帼助盲志愿服务队正式成立",
@@ -2402,36 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "由于美联储加息担忧和人工智能融资担忧加剧，SK海力士股价在亚洲科技股暴跌中暴跌10%"
     },
     {
-     "title": "SK Hynix, Samsung fall as market fears higher rates could curb AI expansion",
-     "link": "https://seekingalpha.com/news/4653224-sk-hynix-samsung-fall-as-market-fears-higher-rates-could-curb-ai-expansion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 01:13:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "市场担心更高的利率可能会抑制人工智能的扩张，SK海力士和三星股价下跌"
-    },
-    {
-     "title": "Telefonaktiebolaget LM Ericsson beats top-line and bottom-line estimates; gives Q4 outlook",
-     "link": "https://seekingalpha.com/news/4653234-telefonaktiebolaget-lm-ericsson-beats-top-line-and-bottom-line-estimates-gives-q4-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 01:05:36 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Telefonaktiebolaget LM Ericsson 的营收和利润均超出预期；给出第四季度展望"
-    },
-    {
      "title": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Thu, 15 Oct 2026 13:05:15 +0800",
      "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
      "source": "华尔街见闻",
      "zh": "2027见闻历预售开启！连续第9年的财经“神”历，也是你第九年的陪伴"
-    },
-    {
-     "title": "Equity Bancshares Non-GAAP EPS of $1.40 beats by $0.14, revenue of $83.74M misses by $6.98M",
-     "link": "https://seekingalpha.com/news/4653232-equity-bancshares-non-gaap-eps-of-140-beats-by-014-revenue-of-8374m-misses-by-698m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 00:56:41 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Equity Bancshares 非 GAAP 每股收益 1.40 美元，超出 0.14 美元，收入 8,374 万美元，低于 698 万美元"
     },
     {
      "title": "险资加仓到了分歧点",

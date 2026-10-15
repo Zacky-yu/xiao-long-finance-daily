@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/15 08:09:47",
+ "generated_at": "2026/10/15 08:29:42",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,62 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Lite-On unveils 800 VDC power and liquid cooling for AI data centers",
+     "link": "https://www.digitimes.com/news/a20261014PD251/lite-on-data-liquid-cooling-efficiency-power-supply.html",
+     "pubDate": "Thu, 15 Oct 2026 00:15:23 GMT",
+     "summary": "Lite-On Technology is showcasing an 800 VDC power architecture, NVIDIA Vera Rubin-compatible power racks and integrated liquid-cooling systems at the 2026 Open Compute Project (OCP) Global Summit. The portfolio is designed to help data-center operators improve power efficiency, manage rising AI rack",
+     "source": "DIGITIMES",
+     "zh": "Lite-On 推出适用于 AI 数据中心的 800 VDC 电源和液体冷却"
+    },
+    {
+     "title": "Commentary: AI power demand pushes Taiwan's energy industry toward integrated systems",
+     "link": "https://www.digitimes.com/news/a20261014VL226/taiwan-2026-electricity-demand-solar.html",
+     "pubDate": "Thu, 15 Oct 2026 00:15:01 GMT",
+     "summary": "Energy Taiwan 2026 showcases an energy industry increasingly focused on integration, flexibility, and real-world deployment, as Taiwan balances its net-zero ambitions with rising electricity demand from artificial intelligence (AI), high-performance computing, and advanced manufacturing.",
+     "source": "DIGITIMES",
+     "zh": "解说：AI电力需求推动台湾能源产业迈向整合系统"
+    },
+    {
+     "title": "AI server tracker: Rail-kit growth turns uneven as cooling suppliers sustain expansion",
+     "link": "https://www.digitimes.com/news/a20261014VL223/growth-revenue-taiwan-expansion-cooling.html",
+     "pubDate": "Thu, 15 Oct 2026 00:14:19 GMT",
+     "summary": "Taiwan's rail-kit and thermal suppliers posted broad year-over-year revenue growth in September 2026, but sequential performance revealed uneven shipment schedules. All eight tracked companies grew both monthly and January&ndash;September revenue from a year earlier, while four recorded declines fro",
+     "source": "DIGITIMES",
+     "zh": "人工智能服务器跟踪器：随着冷却供应商持续扩张，铁路套件的增长变得不平衡"
+    },
+    {
+     "title": "Applied Materials tracks 100-plus fabs as cleanroom capacity limits equipment growth",
+     "link": "https://www.digitimes.com/news/a20261014PD256/applied-materials-capacity-equipment-cleanroom-growth.html",
+     "pubDate": "Thu, 15 Oct 2026 00:13:54 GMT",
+     "summary": "Applied Materials tracked more than 100 wafer fabrication projects worldwide over the past two quarters as strong artificial intelligence demand continued to meet constraints in cleanroom construction and supply chain capacity. The company added more than 10 projects in each quarter, indicating that",
+     "source": "DIGITIMES",
+     "zh": "由于洁净室产能限制设备增长，应用材料公司追踪 100 多家晶圆厂"
+    },
+    {
+     "title": "Applied Materials targets AI-driven semiconductor equipment growth through 2030",
+     "link": "https://www.digitimes.com/news/a20261014PD255/applied-materials-2030-equipment-growth-manufacturing.html",
+     "pubDate": "Thu, 15 Oct 2026 00:13:28 GMT",
+     "summary": "Applied Materials is increasing investments in research and development, manufacturing and its global supply chain as it targets greater market share and profitability through 2030. The semiconductor equipment maker expects advanced logic, DRAM and advanced packaging to generate about 75% of wafer f",
+     "source": "DIGITIMES",
+     "zh": "应用材料公司的目标是到 2030 年人工智能驱动的半导体设备增长"
+    },
+    {
+     "title": "Fujifilm to expand Arizona semiconductor materials output",
+     "link": "https://www.digitimes.com/news/a20261014PR201/fujifilm-materials-arizona-production-manufacturing.html",
+     "pubDate": "Thu, 15 Oct 2026 00:12:59 GMT",
+     "summary": "Fujifilm is expanding semiconductor materials production in Arizona as global chip demand rises, especially for artificial intelligence, advanced logic, and memory. The move aims to strengthen supply for makers in the US and beyond, while supporting new packaging technologies and faster commercializ",
+     "source": "DIGITIMES",
+     "zh": "富士胶片扩大亚利桑那州半导体材料产量"
+    },
+    {
+     "title": "2026 world GDP growth of 3.1% says IMF",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/2026-world-growth-of-3-1-2026-10/",
+     "pubDate": "Thu, 15 Oct 2026 00:02:43 +0000",
+     "summary": "The IMF now reckons the world economy will grow 3.1% this year. In July it said 3%. Countries upgraded since the last forecast are India, the United Kingdom and Germany. […] The post 2026 world GDP growth of 3.1% says IMF appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "IMF称2026年世界GDP增长3.1%"
+    },
+    {
      "title": "Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing",
      "link": "https://www.eetimes.com/benchmark-electronics-thailand-operations-focus-on-high-mix-manufacturing/",
      "pubDate": "Wed, 14 Oct 2026 19:34:54 +0000",
@@ -296,14 +352,6 @@ window.INDUSTRY_DATA = {
      "summary": "By Sajeed Mohammad The most memorable slide I ever saw in a chip design review didn’t show a floorplan. It showed a target. The Defense Advanced Research Projects Agency (DARPA) program manager running AISS, Automatic Implementation of Secure Silicon , the program that funded my majority of PhD rese",
      "source": "SemiWiki",
      "zh": "DARPA 教我如何在硅中建立信任"
-    },
-    {
-     "title": "Energy Taiwan 2026 opens with record international participation",
-     "link": "https://www.digitimes.com/news/a20261014VL222/taiwan-2026-electricity-government-demand.html",
-     "pubDate": "Wed, 14 Oct 2026 15:59:00 GMT",
-     "summary": "Energy Taiwan 2026 opened on October 14, bringing together more than 430 exhibitors across nearly 1,400 booths as the island seeks to strengthen energy resilience and accelerate decarbonization amid rising electricity demand from artificial intelligence (AI).",
-     "source": "DIGITIMES",
-     "zh": "2026 年台湾能源展开幕 国际参与创历史新高"
     },
     {
      "title": "Co-Packaged Optics Moves from Promise to Production Planning",
@@ -418,46 +466,6 @@ window.INDUSTRY_DATA = {
      "zh": "TechPoint 收购 Esprit Electronics 以促进 EMS 发展"
     },
     {
-     "title": "300mm fab equipment spending to hit US$227 billion by 2029, SEMI says",
-     "link": "https://www.digitimes.com/news/a20261014VL216/300mm-equipment-semi-fab-2026.html",
-     "pubDate": "Wed, 14 Oct 2026 09:18:42 GMT",
-     "summary": "Global spending on 300mm front-end fab equipment is projected to reach US$149 billion in 2026, up 31% from a year earlier. Spending is expected to keep growing at double-digit rates and reach US$227 billion in 2029, SEMI said in its latest 300mm Fab Outlook, released October 13 at SEMICON West in Sa",
-     "source": "DIGITIMES",
-     "zh": "SEMI表示，到2029年，300毫米晶圆厂设备支出将达到2270亿美元"
-    },
-    {
-     "title": "AVC unveils 6MW In-Row CDU at OCP, adds predictive cooling",
-     "link": "https://www.digitimes.com/news/a20261014PD246/avc-cooling-liquid-cooling-demand-technology.html",
-     "pubDate": "Wed, 14 Oct 2026 09:15:00 GMT",
-     "summary": "Asia Vital Components (AVC) unveiled new liquid-cooling solutions, including direct liquid cooling (DLC) and an In-Row CDU, at the Open Compute Project (OCP) Global Summit, held October 12&ndash;15 in San Jose, US. The company is expanding liquid cooling beyond AI GPUs and CPUs to support rising AI ",
-     "source": "DIGITIMES",
-     "zh": "AVC 在 OCP 上推出 6MW 行内 CDU，增加了预测冷却功能"
-    },
-    {
-     "title": "BOE struggles with glass breakage at US$9.4 billion OLED plant as it seeks Apple iPad orders",
-     "link": "https://www.digitimes.com/news/a20261014VL215/boe-glass-substrate-production-ipad.html",
-     "pubDate": "Wed, 14 Oct 2026 09:11:06 GMT",
-     "summary": "China's BOE has spent approximately six months trying to resolve recurring glass substrate breakage at its Gen 8.6 OLED plant in Chengdu, raising concerns about production stability as the display maker seeks approval to supply panels for Apple's iPads.",
-     "source": "DIGITIMES",
-     "zh": "京东方在寻求苹果 iPad 订单时，94 亿美元的 OLED 工厂遭遇玻璃破碎问题"
-    },
-    {
-     "title": "Tata's flagship chip fab faces pressure from its own shareholders",
-     "link": "https://www.digitimes.com/news/a20261014VL218/tata-group-90nm-fab-investment.html",
-     "pubDate": "Wed, 14 Oct 2026 08:50:17 GMT",
-     "summary": "Tata Group's semiconductor fab in Gujarat, held up as the foundation of India's chipmaking ambitions, now faces scrutiny from within, as the group's controlling shareholder presses for quicker returns on capital-intensive bets.",
-     "source": "DIGITIMES",
-     "zh": "塔塔旗舰芯片工厂面临来自股东的压力"
-    },
-    {
-     "title": "AI computing demand drives water management integration at Tianyi",
-     "link": "https://www.digitimes.com/news/a20261014PD229/demand-water-management-capacity-expansion-equipment.html",
-     "pubDate": "Wed, 14 Oct 2026 08:40:08 GMT",
-     "summary": "Rising AI computing demand is fueling capacity expansion in advanced semiconductor manufacturing, making water recycling, energy efficiency, and smart operations and maintenance key components of the green transformation of high-tech plants. Lealea Group's Tianyi Water & Energy Solutions is integrat",
-     "source": "DIGITIMES",
-     "zh": "AI计算需求推动天翼水务管理一体化"
-    },
-    {
      "title": "How To Define CPU And Software Stack Performance For Agentic AI",
      "link": "https://semiengineering.com/how-to-define-cpu-and-software-stack-performance-for-agentic-ai/",
      "pubDate": "Wed, 14 Oct 2026 07:04:19 +0000",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Optimizing chiplet integration, power integrity, and performance through early-stage IC package design and analysis. The post Accelerating Advanced IC Package Design: A Methodology for Early and Iterative Optimization of Chiplet Integration appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "加速先进 IC 封装设计：小芯片集成的早期迭代优化方法"
-    },
-    {
-     "title": "Qualcomm wins Arm case – awarded $2 in damages",
-     "link": "https://www.electronicsweekly.com/news/business/qualcomm-wins-arm-case-awarded-2-in-damages-2026-10/",
-     "pubDate": "Wed, 14 Oct 2026 05:16:58 +0000",
-     "summary": "The jury in the Qualcomm vs Arm case found Arm in breach of its architectural license agreement (ALA) with Qualcomm, and awarded Qualcomm $2 in nominal damages. The jury concluded that […] The post Qualcomm wins Arm case – awarded $2 in damages appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "高通赢得 Arm 诉讼 – 获赔 2 美元"
     }
    ]
   },
@@ -1106,6 +1106,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
+     "link": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
+     "pubDate": "Wed, 14 Oct 2026 20:08:00 -0400",
+     "summary": "Part of a wave of young biotechs employing AI to accelerate research, the company claimed in regulatory filings that its approach has the potential to &ldquo;disrupt legacy drug discovery paradigms.&rdquo;",
+     "source": "BioPharma Dive",
+     "zh": "人工智能药物发现专家 Iambic 在 IPO 中筹集 1.5 亿美元"
+    },
+    {
      "title": "Compass Pathways CEO: Psychedelics company will ‘go slow before we go fast’",
      "link": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss",
      "pubDate": "Thu, 15 Oct 2026 00:01:24 +0000",
@@ -1234,6 +1242,14 @@ window.INDUSTRY_DATA = {
      "zh": "Verastem 癌症药物在小型研究中显示出早期前景"
     },
     {
+     "title": "CVS to pay $315M to settle opioid prescribing allegations",
+     "link": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
+     "pubDate": "Wed, 14 Oct 2026 10:45:52 -0400",
+     "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and &ldquo;strongly disagreed&rdquo; with the case&rsquo;s claims.",
+     "source": "BioPharma Dive",
+     "zh": "CVS 将支付 3.15 亿美元以和解阿片类药物处方指控"
+    },
+    {
      "title": "Ultragenyx's second PRV sale; Biomea's oral GLP-1 data leads to stock slump",
      "link": "https://endpoints.news/ultragenyxs-second-prv-sale-biomeas-oral-glp-1-data-leads-to-stock-slump/",
      "pubDate": "Wed, 14 Oct 2026 14:24:20 +0000",
@@ -1280,22 +1296,6 @@ window.INDUSTRY_DATA = {
      "summary": "Discover why flow paths, tubing and connectors may limit your bioprocess performance",
      "source": "BioPharma Dive",
      "zh": "减少流体管理系统的过程变异性"
-    },
-    {
-     "title": "Another Paragon spinout goes public through reverse merger",
-     "link": "https://www.biopharmadive.com/news/velaris-alaunos-paragon-reverse-merger-acquisition-fairmount/832869/",
-     "pubDate": "Tue, 13 Oct 2026 16:35:00 -0400",
-     "summary": "One lawyer involved noted how it's yet another example of Paragon and key investor Fairmount &mdash; which have helped transform the reputation for reverse mergers &mdash; quickly executing on a complicated deal.",
-     "source": "BioPharma Dive",
-     "zh": "另一家 Paragon 分拆公司通过反向并购上市"
-    },
-    {
-     "title": "BioNTech mRNA cancer immunotherapy misses first objective in key study",
-     "link": "https://www.biopharmadive.com/news/biontech-mrna-immunotherapy-hpv16-head-neck-cancer/832854/",
-     "pubDate": "Tue, 13 Oct 2026 12:24:00 -0400",
-     "summary": "An early data check showed the shot didn&rsquo;t delay tumor progression in a form of head and neck cancer, though BioNTech is holding out hope it might eventually extend survival.",
-     "source": "BioPharma Dive",
-     "zh": "BioNTech mRNA 癌症免疫疗法未能实现关键研究的第一个目标"
     }
    ]
   },
@@ -1778,12 +1778,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "A US appeals court lets Florida enforce a law banning social media accounts for under-14s, rejecting tech groups&apos; claims that it violates free speech rights (Diana Novak Jones/Reuters)",
+     "link": "https://www.techmeme.com/261014/p49#a261014p49",
+     "pubDate": "Wed, 14 Oct 2026 20:25:02 -0400",
+     "summary": "Diana Novak Jones / Reuters : A US appeals court lets Florida enforce a law banning social media accounts for under-14s, rejecting tech groups' claims that it violates free speech rights &nbsp; &mdash;&nbsp; A federal appeals court on Wednesday allowed Florida to enforce a state law barring children",
+     "source": "Techmeme",
+     "zh": "美国上诉法院允许佛罗里达州执行一项禁止 14 岁以下青少年使用社交媒体帐户的法律，驳回科技集团关于侵犯言论自由权的指控（戴安娜·诺瓦克·琼斯/路透社）"
+    },
+    {
+     "title": "巴克莱银行分析师：特斯拉、SpaceX 合并或在年内官宣",
+     "link": "https://www.ithome.com/1/013/170.htm",
+     "pubDate": "Thu, 15 Oct 2026 00:22:55 GMT",
+     "summary": "IT之家 10 月 15 日消息，据彭博社今天（15 日）凌晨报道，巴克莱银行分析师认为，埃隆 · 马斯克旗下的特斯拉与 SpaceX 可能在 特斯拉召开年度股东大会前 宣布合并。 丹 · 莱维等分析师预计，特斯拉今年的年度股东大会 最迟于 12 月 6 日召开 。两家公司合并能产生一定的财务协同效应，真正的价值却在于 整合双方的 AI 技术 ，实现垂直整合。 分析师在发给客户的研报中指出，特斯拉与 SpaceX 合并正逐渐成为市场的普遍预期。合并消息预计要到 10 月下旬甚至 11 月初 才会公布。然而消息公布得越晚，想在年度股东大会上获得合并批准就越困难。 投资者和分析师一直 普遍看好 两",
+     "source": "IT之家",
+     "zh": "巴克莱银行分析师：特斯拉、SpaceX 合并或在年内官宣"
+    },
+    {
+     "title": "微软 XBOX 调研玩家意见：拟让旗下游戏回归独占，《使命召唤》除外",
+     "link": "https://www.ithome.com/1/013/169.htm",
+     "pubDate": "Thu, 15 Oct 2026 00:18:09 GMT",
+     "summary": "IT之家 10 月 15 日消息，据报道，XBOX 正向玩家发放调查问卷，调研大家对旗下除《使命召唤》外所有游戏恢复主机独占策略的看法。 IT之家注意到，这份问卷最早由 Windows Central 发现，设置了多个和独占相关的问题。部分问题针对具体游戏，例如《辐射》仅在 XBOX 主机和 PC 平台推出；还有一道题目让玩家设想这样一种情形：除《使命召唤》之外，所有 XBOX 旗下游戏都仅限 XBOX 与 PC 平台。有意思的是，其中一题还提到，停止在 PlayStation、任天堂等平台售卖《我的世界》，但已经购买这款游戏的玩家可以继续保留游戏。不过，已有的《我的世界》版本将不再获得后续更",
+     "source": "IT之家",
+     "zh": "微软 XBOX 调研玩家意见：拟让旗下游戏回归独占，《使命召唤》除外"
+    },
+    {
+     "title": "水果罐头，为啥不“甜”了？",
+     "link": "https://www.huxiu.com/article/4897610.html?f=rss",
+     "pubDate": "Thu, 15 Oct 2026 08:15:21 +0800",
+     "summary": "本文来自微信公众号： 斑马消费 ，作者：陈晓京 如果要盘点快消领域最落寞的品类，水果罐头应该算一个。 公开数据显示，国内水果罐头市场规模从2017年的115.7亿元降至2021年的81.8亿元。特殊三年时期的囤货需求短暂拉动增长，时至今日，整体市场规模仍维持百亿元上下。 整个行业上市主体寥寥无几，除了A股的欢乐家，新三板企业也仅有林家铺子、丰岛食品两家。 这些企业的核心产品集中于橘子和黄桃两大品类，产能大多布局水果原料主产区——丰岛食品把橘子罐头产能落地浙江和湖北、林家铺子将黄桃罐头产能布局在东北，欢乐家则在全国多个水果产区布点建厂。 企业在原料端做到了近水楼台，有效降低了生产成本，水果罐头却",
+     "source": "虎嗅",
+     "zh": "水果罐头，为啥不“甜”了？"
+    },
+    {
      "title": "YouTube Music 给音乐打 AI 标签，用户听歌可看清“成分表”",
      "link": "https://www.ithome.com/1/013/168.htm",
      "pubDate": "Thu, 15 Oct 2026 00:09:24 GMT",
      "summary": "IT之家 10 月 15 日消息，YouTube 昨日（10 月 14 日）发布公告， 为了提高在音乐作品使用 AI 的透明度，宣布其音乐平台 YouTube Music 上线 AI 音乐标注功能，后续将同步扩展至主 YouTube 应用程序。 根据 YouTube 官方公告，当一首歌曲被识别为“主要使用生成式 AI 创作”（例如使用 AI 模型生成曲调、编曲或合成人声）时，歌曲名称下方、靠近艺人或频道名称的位置，将会出现一个明显的“AI”椭圆形标签。IT之家附上相关图片如下： 听众在收听时可以直接看到该标记。若点击此 AI 标签，系统会进一步弹出详细菜单，向用户说明这首歌是如何使用 AI 的",
      "source": "IT之家",
      "zh": "YouTube Music 给音乐打 AI 标签，用户听歌可看清“成分表”"
+    },
+    {
+     "title": "双面田柯宇：一次无法自圆其说的“行侠仗义”",
+     "link": "https://www.huxiu.com/article/4897608.html?f=rss",
+     "pubDate": "Thu, 15 Oct 2026 08:08:47 +0800",
+     "summary": "本文来自微信公众号： Z Finance ，作者：ZF编辑部，原文标题：《深度丨双面田柯宇：一次无法自圆其说的&ldquo;行侠仗义&rdquo;》，题图来自：视觉中国 2026 年金秋，北京中关村和硅谷的风投圈同时为一家只有十人、甚至尚未正式命名产品的世界模型实验室所躁动。这家初创企业的估值在五源资本和 IDG 等顶级美元基金的加持下迅速攀升至两亿美元。 它的创始人田柯宇，是过去两年中国生成式人工智能领域最具争议、也最富戏剧色彩的年轻面孔&mdash;&mdash;在身陷字节跳动索赔诉讼的同时，他凭借第一作者论文《Visual Autoregressive Modeling》 （VAR） 拿",
+     "source": "虎嗅",
+     "zh": "双面田柯宇：一次无法自圆其说的“行侠仗义”"
+    },
+    {
+     "title": "梁建章：中国如何维持800万的出生人口？",
+     "link": "https://www.huxiu.com/article/4897607.html?f=rss",
+     "pubDate": "Thu, 15 Oct 2026 08:07:38 +0800",
+     "summary": "本文来自微信公众号： 绕梁说 ，作者：梁建章，题图来自：视觉中国 2017年以来，除了2024年以外，中国每年出生人口逐年下降，2025年出生人口降至792万，也就是接近800万。那么，未来中国出生人口能不能维持800万左右的数量级？下面就来分析这个问题。 中国近年来育龄女性数量持续减少 出生人口主要由育龄女性数量和生育率这两个因素决定。 即使生育率保持不变，如果育龄女性数量下降，那么出生人口也会减少。 根据七普分年龄、性别人口数据，2020年中国15-49岁育龄女性数量为32229万人。由于2020年10岁人口到2025年为15岁，2020年44岁人口到2025年为49岁，所以，在不考虑这个",
+     "source": "虎嗅",
+     "zh": "梁建章：中国如何维持800万的出生人口？"
     },
     {
      "title": "受益于 AI 热潮，分析师预计台积电有望连续第六个季度创下单季盈利新高",
@@ -1794,12 +1842,28 @@ window.INDUSTRY_DATA = {
      "zh": "受益于 AI 热潮，分析师预计台积电有望连续第六个季度创下单季盈利新高"
     },
     {
+     "title": "马斯克用一笔80亿美元交易，颠覆了电信这门百年生意",
+     "link": "https://www.huxiu.com/article/4897609.html?f=rss",
+     "pubDate": "Thu, 15 Oct 2026 08:00:47 +0800",
+     "summary": "本文来自微信公众号： 锦缎 ，作者：穆阳 2026年8月11日，一家叫Grain Management的公司，花了29亿美元，从T-Mobile手里买下一批频谱牌照，外加一批600MHz的频谱。 两个月后的10月，它把这批牌照转手卖给了马斯克的SpaceX，价格是80亿美元。 29亿买进，80亿卖出。中间只隔了两个月，净赚51亿。 Grain Management数钱的速度，大概没人比得上。但就在它成交的同一天，美国电信业的三大巨头，一起迎来了本世纪最黑的一天。 T-Mobile跌13.27%，创下2013年上市以来最差单日，也是当天标普500里表现最差的股票。AT&T跌9.81%，2000年",
+     "source": "虎嗅",
+     "zh": "马斯克用一笔80亿美元交易，颠覆了电信这门百年生意"
+    },
+    {
      "title": "从Kpop到消费帝国，韩国如何将注意力变成印钞机？",
      "link": "https://www.huxiu.com/article/4896439.html?f=rss",
      "pubDate": "Thu, 15 Oct 2026 08:00:00 +0800",
      "summary": "为什么一个只有5000万人口的小国，文化影响力却能超过中国和日本？刚从首尔考察回来，我最大的感受是：这座城市本身就是个巨大的秀场。水洞从废弃厂房变成全球租金最贵的潮流圣地，韩流带火的远不止音乐，还有餐饮、烘焙和整个商业。韩国举全国之力发展娱乐业，图的是文化影响力的乘数效应。中韩之间的商业信息差，远比我们想象的大。这趟韩国考察，我看到了一个被我们低估的邻国。",
      "source": "虎嗅",
      "zh": "从Kpop到消费帝国，韩国如何将注意力变成印钞机？"
+    },
+    {
+     "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+     "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+     "pubDate": "Wed, 14 Oct 2026 23:59:37 +0000",
+     "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 17 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "LFM2.5-24B-A2B：专为快速设备上代理而构建"
     },
     {
      "title": "整合蓝牙、流媒体、USB-C，第三方主板 Sprout Pi 或可“复活”你的老苹果 iPod",
@@ -1818,20 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI 实时分离人声，席琳 · 迪翁演唱会用上音频黑科技"
     },
     {
-     "title": "英伟达黄仁勋：若客户开发不安全 AI 软件，极端措施可断供芯片",
-     "link": "https://www.ithome.com/1/013/164.htm",
-     "pubDate": "Wed, 14 Oct 2026 23:54:39 GMT",
-     "summary": "IT之家 10 月 15 日消息，在伦敦接受彭博社 Emily Chang 采访时，英伟达首席执行官黄仁勋表示，假若其客户被认定正在开发不安全或不负责任的人工智能（AI）软件， 英伟达将断然停止向其供应芯片。 他坦言， 切断供应目前仍是一个“假设性问题” ，且英伟达在采取断供等极端反制措施之前，必然会先与相关客户进行深入地沟通与对话。 黄仁勋补充道：“我们并不经营别人的公司，我们的技术属于通用技术，因此对于其他公司如何使用我们的技术，英伟达能作出的评判和额度其实非常有限。” 针对 Anthropic 等公司高管提出的“全行业应放缓 AI 发展步伐”的减速建议，黄仁勋明确予以拒绝。他认为，当前的",
-     "source": "IT之家",
-     "zh": "英伟达黄仁勋：若客户开发不安全 AI 软件，极端措施可断供芯片"
-    },
-    {
-     "title": "IT早报 1015：苹果收盘市值首超 5 万亿美元；赛力斯起诉男子 AI 造谣索赔百万；iPhone 15 Pro 及后续机型国行大模型备案；豆包助手放开三方应用操作权限...",
-     "link": "https://www.ithome.com/1/013/163.htm",
-     "pubDate": "Wed, 14 Oct 2026 23:52:13 GMT",
-     "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 15 日星期四，今天的重要科技资讯有： 1. 苹果市值里程碑：收盘首次超 5 万亿美元 苹果公司 10 月 14 日收盘市值首次站上 5 万亿美元（IT之家注：现汇率约合 33.53 万亿元人民币），成为继英伟达后全球第二家达成该里程碑的公司。>> 查看详情 2. 男子发布 AI 视频造谣问界，赛力斯起诉索赔百万元 据深蓝财经报道，赛力斯汽车有限公司对外披露，已对一名抖音平台短视频用户提起民事诉讼。该用户借助 AI 工具合成问界车辆行驶中车身塌陷的虚假画面，发布到网络抹黑车辆安全性能。赛力斯要求对方删除侵权言论、公开书面赔礼道歉、支付 ",
-     "source": "IT之家",
-     "zh": "IT早报 1015：苹果收盘市值首超 5 万亿美元；赛力斯起诉男子 AI 造谣索赔百万；iPhone 15 Pro 及后续机型国行大模型备案；豆包助手放开三方应用操作权限..."
+     "title": "A new model for open source: closed to pull requests, open to remix",
+     "link": "https://ghuntley.com/remix/",
+     "pubDate": "Wed, 14 Oct 2026 23:40:28 +0000",
+     "summary": "Article URL: https://ghuntley.com/remix/ Comments URL: https://news.ycombinator.com/item?id=50097182 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "开源的新模式：对 Pull 请求关闭，对 Remix 开放"
     },
     {
      "title": "Sources: YouTube has held talks with publishers in recent months about an audiobook feature that could be ready next year and may be bundled in YouTube Premium (Wall Street Journal)",
@@ -1898,18 +1954,10 @@ window.INDUSTRY_DATA = {
      "zh": "资料来源：Anthropic 告诉投资者，其第三季度收入跃升至 $16.8B，高于第二季度的 $11.5B，并且该公司在第三季度调整后实现盈利（金融时报）"
     },
     {
-     "title": "Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously (Rolfe Winkler/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261014/p43#a261014p43",
-     "pubDate": "Wed, 14 Oct 2026 18:15:02 -0400",
-     "summary": "Rolfe Winkler / Wall Street Journal : Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously &nbsp; &mdash;&nbsp; To power Apple's next phase, CEO John Ternus needs to raise Apple's AI game&nbsp; &mdash;&n",
-     "source": "Techmeme",
-     "zh": "苹果收盘价首次突破 5T 美元，成为继 Nvidia 之后第二家达到 5T 市值的公司；苹果此前盘中曾六次突破 5T 美元（Rolfe Winkler/华尔街日报）"
-    },
-    {
      "title": "Tiny Little Office",
      "link": "https://tinylittleoffice.com/",
      "pubDate": "Wed, 14 Oct 2026 22:10:08 +0000",
-     "summary": "Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 71 # Comments: 11",
+     "summary": "Article URL: https://tinylittleoffice.com/ Comments URL: https://news.ycombinator.com/item?id=50096142 Points: 94 # Comments: 16",
      "source": "Hacker News",
      "zh": "小小的办公室"
     },
@@ -1949,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
      "link": "https://typesafe.ai/blog/jev-1-14",
      "pubDate": "Wed, 14 Oct 2026 21:11:03 +0000",
-     "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 135 # Comments: 52",
+     "summary": "Article URL: https://typesafe.ai/blog/jev-1-14 Comments URL: https://news.ycombinator.com/item?id=50095353 Points: 151 # Comments: 53",
      "source": "Hacker News",
      "zh": "我们将发布 Jev 1.14.0 以及为梦想家提供的实验性功能"
     },
@@ -1968,54 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
      "source": "TechCrunch",
      "zh": "Colossal Biosciences 宣布推出新的人工智能平台，以帮助加速反灭绝工作"
-    },
-    {
-     "title": "Trump Aides Admit the House Is a Lost Cause",
-     "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
-     "pubDate": "Wed, 14 Oct 2026 21:00:00 +0000",
-     "summary": "With the midterm elections just a few weeks away, the White House knows it has to go all in on Senate races—while virtually forfeiting the House.",
-     "source": "WIRED",
-     "zh": "特朗普助手承认众议院已是失败的事业"
-    },
-    {
-     "title": "OpenCode 2.0",
-     "link": "https://anoma.ly/notes/opencode-2-0/",
-     "pubDate": "Wed, 14 Oct 2026 20:48:24 +0000",
-     "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 219 # Comments: 83",
-     "source": "Hacker News",
-     "zh": "开放代码2.0"
-    },
-    {
-     "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
-     "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
-     "pubDate": "Wed, 14 Oct 2026 20:48:07 +0000",
-     "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
-     "source": "Ars Technica",
-     "zh": "美国宇航局一代人以来首次金星任务的情况终于有了好转"
-    },
-    {
-     "title": "Anthropic's Scion is heavily inspired by Mononoke",
-     "link": "https://sunshowers.io/posts/anthropic-mononoke/",
-     "pubDate": "Wed, 14 Oct 2026 20:30:54 +0000",
-     "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 212 # Comments: 93",
-     "source": "Hacker News",
-     "zh": "Anthropic 的 Scion 深受《幽灵公主》的启发"
-    },
-    {
-     "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
-     "link": "https://blog.cloudflare.com/yandex-outage/",
-     "pubDate": "Wed, 14 Oct 2026 20:29:13 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 189 # Comments: 59",
-     "source": "Hacker News",
-     "zh": "Yandex 中断：数据显示，恶意机器人并没有消失，而是转移了"
-    },
-    {
-     "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
-     "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
-     "pubDate": "Wed, 14 Oct 2026 20:15:56 +0000",
-     "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
-     "source": "Ars Technica",
-     "zh": "美国各地学校抗议 FCC 可能断开儿童互联网连接的计划"
     }
    ]
   },
@@ -2274,6 +2274,86 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "美国国债全线上涨 10年期收益率下跌3个基点至5.15%",
+     "link": "http://finance.eastmoney.com/news/1351,202610153896134461.html",
+     "pubDate": "Thu, 15 Oct 2026 08:23:02 +0800",
+     "summary": "亚洲交易时段伊始，美国国债价格上涨，收益率曲线全线至少下跌3个基点。10年期国债收益率下降3个基点至5.15%，2年期国债收益率下降3个基点至4.76%。30年期国债收益率下降3个基点至5.50%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国国债全线上涨 10年期收益率下跌3个基点至5.15%"
+    },
+    {
+     "title": "呼吸道合胞病毒高发季来临 新型长效预防单抗落地北京",
+     "link": "http://finance.eastmoney.com/news/1348,202610143895851931.html",
+     "pubDate": "Thu, 15 Oct 2026 08:23:00 +0800",
+     "summary": "新京报讯（记者王卡拉）我国北方地区已进入呼吸道合胞病毒（RSV）高发季。近日，首个无须按体重调整、采用单一固定剂量的进口婴儿RSV长效预防单抗克莱罗韦单抗注射液在国内获批上市，北京多家医疗机构已陆续开放预约接种服务。 “RSV是导致婴儿呼吸道感染最常见的病毒，传染性较强，是全球范围内5岁以下儿童呼吸道感染最常见的病原体之一，几乎所有儿童在2岁前都会感染RSV。”首都医科大学附属首都儿童医学中心呼吸内科主任医师朱春梅指出，RSV在全球范围内广泛传播，具有明显的季节性特征。RSV是导致2岁以下宝宝急性呼吸道感染及肺炎住院的主要病毒病原体，1岁以内的宝宝感染RSV后更容易发展成重症。婴儿时期重症RS",
+     "source": "东方财富股票",
+     "zh": "呼吸道合胞病毒高发季来临 新型长效预防单抗落地北京"
+    },
+    {
+     "title": "京沪深10月新增宅地“挂零” 一线城市供地节奏生变？",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895769414.html",
+     "pubDate": "Thu, 15 Oct 2026 08:22:22 +0800",
+     "summary": "10月以来，京沪深新增宅地供应为零，仅广州有5宗招拍挂地块供应。 这是市场转冷的信号，还是供地节奏的阶段性“空窗”？一边是住宅地块寥寥，一边是广州稀缺地块仍拍出26.6%的高溢价，冷热之间，一线城市土地市场究竟在酝酿什么？ 仅广州有5宗新增宅地，一线城市供地缩量 据中指研究院监测，一线城市10月公布出让的招拍挂地块较少，仅广州有5宗地块，北京、上海、深圳暂无宅地出让。 需要注意的是，上海虽无招拍挂宅地，但有一宗宅地以公开遴选方式成交。据上海杨浦区10月12日公示，中建壹品摘杨浦滨江定海社区宅地，成交价15.895亿元，楼面价约60600元/平方米。该地块是历史风貌保护项目，采用公开遴选方式出让",
+     "source": "东方财富股票",
+     "zh": "京沪深10月新增宅地“挂零” 一线城市供地节奏生变？"
+    },
+    {
+     "title": "6颗算力卫星发射升空 星瀚聚能太阳翼电池阵批量交付入轨",
+     "link": "http://finance.eastmoney.com/news/1354,202610143895825063.html",
+     "pubDate": "Thu, 15 Oct 2026 08:21:00 +0800",
+     "summary": "10月14日晚间，朱雀二号改进型遥四运载火箭在东风 商业航天 创新试验区发射升空，将搭载的国星宇航星时代-39、44～50星，光传-03、04星共10颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。其中6颗算力卫星的太阳翼 电池 阵，由上海星瀚聚能技术有限公司（下称星瀚聚能）于2026年5月完成产品级交付并随箭入轨，单星太阳翼面积超4m&sup2;，6颗合计超24m&sup2;。这是国内首次全柔性晶硅产品级太阳翼 电池 阵批量交付入轨。标志着我国低成本柔性晶硅太阳翼 电池 技术由在轨验证阶段迈入算力星座批量工程应用阶段。 本次任务中，星瀚聚能交付的聚能系列 p-PERC全晶硅太阳电池阵将随卫",
+     "source": "东方财富股票",
+     "zh": "6颗算力卫星发射升空 星瀚聚能太阳翼电池阵批量交付入轨"
+    },
+    {
+     "title": "现货白银向上触及56美元/盎司",
+     "link": "http://finance.eastmoney.com/news/1362,202610153896133838.html",
+     "pubDate": "Thu, 15 Oct 2026 08:18:13 +0800",
+     "summary": "现货 白银 向上触及56美元/盎司，日内上涨0.68%。",
+     "source": "东方财富股票",
+     "zh": "现货白银向上触及56美元/盎司"
+    },
+    {
+     "title": "早报丨通胀升温重锤科技股，AI基建融资又迎“鬼故事”；红利防御股获资金涌入，伯克希尔10连升；苹果市值收盘首破5万亿，报道称国行版本12月推出首批AI功能",
+     "link": "http://hk.eastmoney.com/news/1797,202610153896133549.html",
+     "pubDate": "Thu, 15 Oct 2026 08:18:11 +0800",
+     "summary": "摘要： 通胀升温重锤科技股，AI基建融资又迎“鬼故事”；红利防御股获资金涌入，伯克希尔10连升； 苹果 市值收盘首破5万亿，报道称国行版本12月推出首批AI功能。 全球市场： 美股市场：美股三大指数10月14日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌48.62点，收于51621.48点，跌幅为0.09%； 标准普尔 500种股票指数下跌86.51点，收于7718.94点，跌幅为1.11%； 纳斯达克 综合 指数下跌511.51点，收于26692.87点，跌幅为1.88%。 “科技七巨头”多数下跌，Meta、 英伟达 跌超3%， 特斯拉 跌超2%，谷歌、 微软 、 亚马逊 均跌",
+     "source": "东方财富股票",
+     "zh": "早报丨通胀升温重锤科技股，AI基建融资又迎“鬼故事”；红利防御股获资金涌入，伯克希尔10连升；苹果市值收盘首破5万亿，报道称国行版本12月推出首批AI功能"
+    },
+    {
+     "title": "Sono-Tek outlines facility expansion to lift manufacturing capacity to $33M-$36M, with plan toward $44M-$45M",
+     "link": "https://seekingalpha.com/news/4653222-sono-tek-outlines-facility-expansion-to-lift-manufacturing-capacity-to-33m-36m-with-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 14 Oct 2026 20:16:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Sono-Tek 概述了设施扩建计划，将制造能力提升至 3300 万美元至 3600 万美元，并计划将产能提升至 4400 万美元至 4500 万美元"
+    },
+    {
+     "title": "AI借贷狂潮引爆担忧！英伟达“亲儿子”债券收益率逼近15% 科技板块重挫",
+     "link": "http://stock.eastmoney.com/news/11228,202610153896114080.html",
+     "pubDate": "Thu, 15 Oct 2026 08:13:52 +0800",
+     "summary": "随着投资者愈发担心部分科技公司正为 人工智能 基础设施建设过度举债，美国AI云服务商Coreweave股票和债券周三双双受挫，并拖累美股科技板块遭受重创。 这家所谓“新云服务商”股价周三暴跌15.5%，其债券收益率则大幅攀升。 该公司2032年到期的、票面利率为9.625%的债券收益率已达14.8%，2031年到期的票面利率为9.75%的债券收益率约为14.9%。 债券收益率与价格呈反向变动。该公司债券价格跌至通常意味着陷入财务困境的水平。 面对股价和债券价格大跌， CoreWeave首席执行官Mike Intrator表示，市场的表现“非理性”，他仍对公司充满信心。 “当你在打造一种新型科技",
+     "source": "东方财富资讯",
+     "zh": "AI借贷狂潮引爆担忧！英伟达“亲儿子”债券收益率逼近15% 科技板块重挫"
+    },
+    {
+     "title": "大河之洲万象新——山东东营探索黄河三角洲生态保护治理新模式",
+     "link": "http://www.eeo.com.cn/2026/1015/1064679.shtml",
+     "pubDate": "Thu, 15 Oct 2026 08:13:14 +0800",
+     "summary": "【为推进中国式现代化凝聚磅礴力量·“十五五”新图景新征程】 光明日报记者 李志臣 宋喜群 光明日报通讯员 关晨歆 秋日的山东黄河三角洲国家级自然保护区，清风徐来、苇浪翻滚。滩涂上，成千上万只候鸟在空中时而聚拢、时而散开，队形不停变换，在天际线上掀起阵阵“鸟浪”。 “国庆假期，今年第一批迁徙候鸟已经飞过来了。”摄影爱好者魏东守在岸边，用镜头记录下眼前的震撼场面。卷羽鹈鹕、白琵鹭、疣鼻天...",
+     "source": "经济观察网",
+     "zh": "大河之洲万象新——山东东营探索黄河三角洲生态保护治理新模式"
+    },
+    {
+     "title": "美国提议解冻部分俄罗斯资产，以重启俄乌和谈",
+     "link": "https://wallstreetcn.com/articles/3783659",
+     "pubDate": "Thu, 15 Oct 2026 08:10:28 +0800",
+     "summary": "俄乌冲突和谈进程近期出现新动向，各方围绕停火条件与资产安排的博弈持续升温。在此背景下，美国方面提出了一项涉及俄罗斯被冻结主权资产的新方案，试图为陷入僵局的和平谈判注入新动力。 据媒体周四报道，美国已向欧洲国家提议， 解冻部分因俄乌冲突而被冻结的俄罗斯主权资产，并将其转入一个由华盛顿监管的特殊目的金融载体，以期重启和平谈判。 其中，俄美双方正就柴油出口达成合同。据新华社报道，俄罗斯总统特别代表基里尔·德米特里耶夫14日说，预计未来几天俄美双方将签署首批对美国供应柴油的合同。德米特里耶夫当天出席“俄罗斯能源周”论坛相关活动。 解冻提议由美国特使Steve Witkoff及特朗普女婿Jared Ku",
+     "source": "华尔街见闻",
+     "zh": "美国提议解冻部分俄罗斯资产，以重启俄乌和谈"
+    },
+    {
      "title": "Cleveland-Cliffs could be forced to sell Canadian assets if layoffs proceed, minister warns",
      "link": "https://seekingalpha.com/news/4653218-cleveland-cliffs-could-be-forced-to-sell-canadian-assets-if-layoffs-proceed-minister-warns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 14 Oct 2026 20:08:16 -0400",
@@ -2282,12 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "部长警告称，如果继续裁员，克利夫兰克里夫斯可能被迫出售加拿大资产"
     },
     {
-     "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
-     "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
-     "pubDate": "Thu, 15 Oct 2026 00:02:00 GMT",
-     "summary": "Neutron, a medium-lift rocket meant to rival SpaceX’s Falcon 9, will no longer launch this year.",
-     "source": "MarketWatch",
-     "zh": "Rocket Lab 推迟 Neutron 首次发射，股价下跌"
+     "title": "韩国股指开盘大跌逾5%",
+     "link": "http://finance.eastmoney.com/news/1345,202610153896095076.html",
+     "pubDate": "Thu, 15 Oct 2026 08:01:30 +0800",
+     "summary": "韩国KOSPI指数跌破6000点，日内跌5.59%。 SK海力士 跌超7%，三星 电子 跌超6%。日经225指数低开1.28%报66880.37点。",
+     "source": "东方财富资讯",
+     "zh": "韩国股指开盘大跌逾5%"
     },
     {
      "title": "JPMorgan Chase blocks outside AI agents from directly accessing customer accounts",
@@ -2306,52 +2386,36 @@ window.INDUSTRY_DATA = {
      "zh": "NatWest 聘请 Nvidia 帮助其人工智能支出工具理解地区口音"
     },
     {
-     "title": "山石网科：融资净买入198.29万元，融资余额7997.98万元",
-     "link": "http://stock.eastmoney.com/news/1697,202610153896080947.html",
-     "pubDate": "Thu, 15 Oct 2026 07:58:04 +0800",
-     "summary": "交易所最新数据显示，山石网科于2026年10月14日获融资买入852.20万元，融资偿还653.92万元， 当日融资净买入198.29万元。 目前，该股融资余额7997.98万，占流通市值比例为2.30%。 该股当日无融券交易，融券余额为0。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "山石网科：融资净买入198.29万元，融资余额7997.98万元"
+     "title": "ETF追踪丨10月14日股票型ETF净申购3亿元 资金加仓创业板ETF易方达",
+     "link": "http://stock.eastmoney.com/news/11868,202610153896094891.html",
+     "pubDate": "Thu, 15 Oct 2026 08:00:18 +0800",
+     "summary": "东方财富 Choice数据显示，10月14日，ETF资金整体净流入72.50亿元，其中，股票型净流入3.10亿元。 股票型ETF中，当日净申购前3依次为：创业板ETF易方达，净申购15.75亿元；科创50ETF华夏，净申购14.76亿元；A500ETF华泰柏瑞，净申购8.85亿元。 股票型ETF当日净赎回前3为：中证1000ETF南方，净赎回12.34亿元； 中证500 ETF南方，净赎回9.50亿元；沪深300ETF华泰柏瑞，净赎回8.94亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 ",
+     "source": "东方财富资讯",
+     "zh": "ETF追踪丨10月14日股票型ETF净申购3亿元 资金加仓创业板ETF易方达"
     },
     {
-     "title": "传音控股：融资净偿还108.94万元，融资余额9.17亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610153896080873.html",
-     "pubDate": "Thu, 15 Oct 2026 07:58:03 +0800",
-     "summary": "交易所最新数据显示，传音控股于2026年10月14日获融资买入2395.27万元，融资偿还2504.21万元， 当日融资净偿还108.94万元。 目前，该股融资余额9.17亿，占流通市值比例为1.65%。 该股当日融券卖出3788股，融券偿还610股， 融券净卖出3178股。 目前，该股融券余量10.66万股，融券余额514.97万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的",
-     "source": "东方财富股票",
-     "zh": "传音控股：融资净偿还108.94万元，融资余额9.17亿元"
+     "title": "10月15日投资日历 | 第140届中国进出口商品交易会(广交会)开幕",
+     "link": "http://finance.eastmoney.com/news/11848,202610153896096483.html",
+     "pubDate": "Thu, 15 Oct 2026 07:59:52 +0800",
+     "summary": "（1）10月15日 5000 亿元买断式逆回购到期 ，央行开展7000亿元买断式逆回购操作。 （2）商务部于10月15日下午3时举行新闻发布会，新闻发言人介绍近期商务领域重点工作有关情况，并答记者问。 （3）中国生物化学与分子生物学会2026年全国学术大会将于10月15日至18日在贵阳东盟国际会议中心举办，以“变革中的生物化学”为主题。 （4）2026国际冬季运动博览会将于10月15日至17日在北京市石景山区首钢会展中心2号馆启幕，现场还将发布《中国冰雪产业发展研究报告(2026)》。 （5） 第140届中国进出口商品交易会（广交会） 将于10月15日至11月4日在广州举办，以“向新”“向绿”",
+     "source": "东方财富资讯",
+     "zh": "10月15日投资日历 | 第140届中国进出口商品交易会(广交会)开幕"
     },
     {
-     "title": "轻纺城：融资净偿还324.07万元，融资余额4.98亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610153896079973.html",
-     "pubDate": "Thu, 15 Oct 2026 07:57:58 +0800",
-     "summary": "交易所最新数据显示， 轻纺城 于2026年10月14日获融资买入684.00万元，融资偿还1008.06万元， 当日融资净偿还324.07万元。 目前，该股融资余额4.98亿，占流通市值比例为10.36%。 该股当日融券卖出1400股，融券偿还4800股， 融券净偿还3400股。 目前，该股融券余量7.38万股，融券余额26.13万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
-     "source": "东方财富股票",
-     "zh": "轻纺城：融资净偿还324.07万元，融资余额4.98亿元"
+     "title": "英伟达的CoreWeave困局：被迫救援还是坐视不管？",
+     "link": "https://wallstreetcn.com/articles/3783657",
+     "pubDate": "Thu, 15 Oct 2026 07:58:58 +0800",
+     "summary": "英伟达与CoreWeave之间的财务纠葛，正在演变为一场复杂的博弈论困局。 华尔街见闻提及 ，周三在通胀数据意外走热、美债收益率上行的双重压力下，数据中心运营商CoreWeave股价重挫逾15%，创下历史第三大单日跌幅，距历史低点仅一步之遥。 知名财经分析师Quoth the Raven（QTR）在ZeroHedge专栏文章中分析称， 随着CoreWeave股价承压、融资渠道收窄，英伟达面临一个棘手抉择：再度出手救援，还是眼睁睁看着这家高度依赖自家芯片的云计算客户陷入流动性危机？ CoreWeave的麻烦或许不会等到实质性债务违约才浮出水面。股价的持续下跌本身就可能触发恶性循环，股价崩塌动摇市",
+     "source": "华尔街见闻",
+     "zh": "英伟达的CoreWeave困局：被迫救援还是坐视不管？"
     },
     {
-     "title": "星宇股份：融资净买入442.27万元，融资余额4.22亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610153896079860.html",
-     "pubDate": "Thu, 15 Oct 2026 07:57:57 +0800",
-     "summary": "交易所最新数据显示， 星宇股份 于2026年10月14日获融资买入975.11万元，融资偿还532.84万元， 当日融资净买入442.27万元。 目前，该股融资余额4.22亿，占流通市值比例为2.18%。 该股当日融券卖出1100股，融券偿还400股， 融券净卖出700股。 目前，该股融券余量4.75万股，融券余额322.14万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容",
-     "source": "东方财富股票",
-     "zh": "星宇股份：融资净买入442.27万元，融资余额4.22亿元"
-    },
-    {
-     "title": "生益电子：融资净买入1184.39万元，融资余额15.95亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610153896079746.html",
-     "pubDate": "Thu, 15 Oct 2026 07:57:55 +0800",
-     "summary": "交易所最新数据显示， 生益电子 于2026年10月14日获融资买入1.08亿元，融资偿还9608.81万元， 当日融资净买入1184.39万元。 目前，该股融资余额15.95亿，占流通市值比例为1.91%。 该股当日融券卖出0股，融券偿还2.05万股， 融券净偿还2.05万股。 目前，该股融券余量7.86万股，融券余额785.02万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
-     "source": "东方财富股票",
-     "zh": "生益电子：融资净买入1184.39万元，融资余额15.95亿元"
-    },
-    {
-     "title": "八亿时空：融资净偿还194.27万元，融资余额3.73亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610153896079695.html",
-     "pubDate": "Thu, 15 Oct 2026 07:57:54 +0800",
-     "summary": "交易所最新数据显示， 八亿时空 于2026年10月14日获融资买入2023.16万元，融资偿还2217.43万元， 当日融资净偿还194.27万元。 目前，该股融资余额3.73亿，占流通市值比例为7.70%。 该股当日融券卖出400股，融券偿还400股， 融券净卖出0股。 目前，该股融券余量8473股，融券余额30.91万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致",
-     "source": "东方财富股票",
-     "zh": "八亿时空：融资净偿还194.27万元，融资余额3.73亿元"
+     "title": "Anthropic全力冲刺“史上最大IPO”：Q3营收暴涨46% 实现盈利！",
+     "link": "http://finance.eastmoney.com/news/1354,202610153896059467.html",
+     "pubDate": "Thu, 15 Oct 2026 07:55:00 +0800",
+     "summary": "据报道，美国 人工智能 领军企业、Claude聊天 机器人 开发商Anthropic第三季度营收攀升至168亿美元，较第二季度的115亿美元增长近46%。 该公司的业绩成长速度相当快，2025年同期仅为7.87亿美元，今年第一季度为47.3亿美元。 据悉，这家 人工智能 初创公司在一次闭门投资者会议上透露了这一消息。此次投资者日旨在让潜在投资者了解Anthropic公司，为其备受瞩目的IPO做准备。据一位参加了当天活动的知情人士透露， Anthropic公司告诉投资者，经调整后，该公司第三季度实现盈利。 Anthropic还称，当季现金流为正。芯片和 数据中心 是训练及运行 人工智能 （AI）",
+     "source": "东方财富资讯",
+     "zh": "Anthropic全力冲刺“史上最大IPO”：Q3营收暴涨46% 实现盈利！"
     },
     {
      "title": "AI短剧突然火了！这些概念股滞涨（附股）",
@@ -2410,14 +2474,6 @@ window.INDUSTRY_DATA = {
      "zh": "新闻1+1丨从陆勇即将停药中，我们看到了什么？"
     },
     {
-     "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
-     "link": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 23:36:00 GMT",
-     "summary": "Investors are wondering if steep inflation and increased borrowing costs could derail the AI buildout.",
-     "source": "MarketWatch",
-     "zh": "由于通货膨胀担忧扰乱了炒作的科技股，人工智能行业正在分裂"
-    },
-    {
      "title": "OpenAI指控前员工携逾百份硬件机密返苹果，反击苹果7月发起的诉讼",
      "link": "https://wallstreetcn.com/articles/3783655",
      "pubDate": "Thu, 15 Oct 2026 07:20:42 +0800",
@@ -2434,28 +2490,12 @@ window.INDUSTRY_DATA = {
      "zh": "通胀超预期冲击小盘股，罗素2000跌近2%，确认技术性回调"
     },
     {
-     "title": "清晨跳水超500点！英伟达、甲骨文、美光、海力士集体大跌！",
-     "link": "http://finance.eastmoney.com/news/1354,202610153895915713.html",
-     "pubDate": "Thu, 15 Oct 2026 07:16:28 +0800",
-     "summary": "AI交易承压！ 昨夜今晨，受国际油价上涨及美国消费者物价指数（CPI）高于预期影响，市场对美联储加息的预期再度升温， 甲骨文 、CoreWeave等对借贷成本上升敏感的 人工智能 股票遭受重挫。 截至美股收盘，纳指大跌1.88%，标普500指数跌1.11%，道指微跌0.09%。值得注意的是，芯片股集体重挫，费城 半导体 指数大跌524点，跌幅达4.30%，该指数已连续第六个交易日走低，为2025年5月以来最长连跌。 个股方面， 甲骨文 下跌8.83%，AI基础设施公司CoreWeave和Nebius分别暴跌15.46%和10.08%。此外， 戴尔科技 和 慧与 分别大跌11.27%和8.20%",
-     "source": "东方财富资讯",
-     "zh": "清晨跳水超500点！英伟达、甲骨文、美光、海力士集体大跌！"
-    },
-    {
      "title": "Educational Development outlines 2 main-season and 2 mid-season product intros each year as sales decline narrows to 11%",
      "link": "https://seekingalpha.com/news/4653220-educational-development-outlines-2-main-season-and-2-mid-season-product-intros-each-year-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 14 Oct 2026 19:15:37 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "教育发展部每年推出 2 个主季产品和 2 个中季产品，销售额降幅收窄至 11%"
-    },
-    {
-     "title": "【环球财经】美联储“褐皮书”显示高油价对经济产生广泛影响",
-     "link": "http://www.eeo.com.cn/2026/1015/1064656.shtml",
-     "pubDate": "Thu, 15 Oct 2026 07:13:12 +0800",
-     "summary": "新华财经纽约10月14日电（记者刘亚南）美国联邦储备委员会14日发布的全国经济形势调查报告显示，从8月25日到10月5日的最近一个报告期内，高油价让美国面临广泛物价上涨压力，经济增长依赖制造业推动，就业市场整体保持稳定。 根据美国“联邦储备法”，美国全国划分为12个联邦储备区，每区设立一家联邦储备银行。该报告根据12家联邦储备银行的最新调查结果编制而成，也称“褐皮书”。 报告说，3个联邦储备区...",
-     "source": "经济观察网",
-     "zh": "【环球财经】美联储“褐皮书”显示高油价对经济产生广泛影响"
     },
     {
      "title": "US floats unfreezing some Russian assets to restart Ukraine peace talks",
@@ -2472,46 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "华见早安之声 要闻精选 中国9月新增社融 3.55万亿元、 新增人民币贷款 1.08万亿， 较8月大幅回升且双双超预期，但居民融资需求仍偏弱。 中国9月以美元计价出口 同比增36.3%， 远超预期的25.7% ，集成电路出口额增136%，月度进出口规模首次突破5万亿元。 中国9月CPI 同比涨0.9%、涨幅小幅回升， PPI 同比涨5.0%创近四年新高 ，汽油价格涨16.6%是主要推力。 美国9月CPI 同比涨3.7%、核心CPI涨2.6%， 双双超过市场预期，创五个月来最快涨幅，交易员把10月加息概率从22%上调至50% 。 中欧 在世界贸易组织多边规则框架下 就混动汽车、电动汽车贸易达成磋",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年10月15日"
-    },
-    {
-     "title": "三则海外“小作文”砸出科技“黄金坑”？机构共识：实质影响有限，科技产业趋势未逆转",
-     "link": "http://stock.eastmoney.com/news/1405,202610143895842495.html",
-     "pubDate": "Thu, 15 Oct 2026 06:55:16 +0800",
-     "summary": "9月底以来，科技股再次带动市场指数下行，沪指在3800点附近反复，科创50指数、创业板指连跌4周。进攻端，前期锋利的“矛”偃旗息鼓，同时，红利资产创新高，意味着避险情绪升温。 没有人能够预测市场行情会持续多久，下一轮反弹何时到来。十余家基金、券商机构分析指出，本轮调整并非由基本面预期恶化驱动，更多体现为前期交易拥挤、资金获利了结以及外部多项传闻扰动下的阶段性风险释放。 海外不确定则更多体现在“小作文”上。一是2026年10月，美国国际贸易委员会发起337调查，把三家国内头部制造企业纳入核查范围；二是美国 印刷 电路板协会（ PCB AA）呼吁美国国防部严格执行2027年1月1日的法规要求，核心",
-     "source": "东方财富资讯",
-     "zh": "三则海外“小作文”砸出科技“黄金坑”？机构共识：实质影响有限，科技产业趋势未逆转"
-    },
-    {
-     "title": "美CPI全面升温响“通胀螺旋”警报，10月加息概率一度五成，“新美联储通讯社”：盯紧沃什本周讲话",
-     "link": "https://wallstreetcn.com/articles/3783651",
-     "pubDate": "Thu, 15 Oct 2026 06:52:39 +0800",
-     "summary": "美国9月CPI全面超预期，涨价压力从能源向核心商品和服务扩散，令市场短线加码押注美联储10月加息。通胀能否持续降温、是否需要更快收紧货币政策，成为投资者接下来关注的焦点。 美东时间14日周三公布的数据显示，美国9月CPI环比上涨0.6%，同比涨3.7%，均高于经济学家预期；剔除食品和能源的核心CPI环比涨0.3%，同比涨2.6%、也超出预期。报告公布后，市场对美联储10月加息的押注一度升至约50%，美债收益率上行，美股承压。随着交易时段推进，加息概率随后回落至约40%，显示投资者仍在权衡通胀风险与美联储是否会对单月数据作出反应。 CPI后，市场预计10月加息概率曾升至50%、12月加息概率一度",
-     "source": "华尔街见闻",
-     "zh": "美CPI全面升温响“通胀螺旋”警报，10月加息概率一度五成，“新美联储通讯社”：盯紧沃什本周讲话"
-    },
-    {
-     "title": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO",
-     "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
-     "pubDate": "Wed, 14 Oct 2026 22:47:45 GMT",
-     "summary": "AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its expected public listing",
-     "source": "Financial Times",
-     "zh": "Anthropic 告诉投资者，IPO 前季度收入增长 50% 至 168 亿美元"
-    },
-    {
-     "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-     "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 22:45:00 GMT",
-     "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-     "source": "MarketWatch",
-     "zh": "我姐姐搬去和我们 78 岁的母亲住在一起，她说她值得拥有价值 925,000 美元的家庭住宅。她说得对吗？"
-    },
-    {
-     "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-     "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-     "pubDate": "Wed, 14 Oct 2026 22:30:00 GMT",
-     "summary": "”I earn $110,000 a year.”",
-     "source": "MarketWatch",
-     "zh": "“有些人做的一切都是正确的”：我在大衰退中失去了家。我50多岁的时候租房子。为什么会被判定为失败呢？"
     }
    ]
   },

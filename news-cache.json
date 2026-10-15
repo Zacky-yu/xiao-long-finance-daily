@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-10-15T08:29:17.080Z",
+  "generatedAt": "2026-10-15T08:49:18.129Z",
   "count": 40,
   "items": [
+    {
+      "title": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
+      "link": "https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories",
+      "pubDate": "Thu, 15 Oct 2026 08:42:00 GMT",
+      "content": "The semiconductor foundry announced third-quarter net profits of 763.34 Taiwanese new dollars, marking a record.",
+      "source": "US",
+      "category": "半导体"
+    },
     {
       "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
       "link": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
@@ -71,14 +79,6 @@
       "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
       "pubDate": "Wed, 14 Oct 2026 22:03:00 GMT",
       "content": "CoreWeave’s bonds issued a few months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
-      "source": "US",
-      "category": "美股市场"
-    },
-    {
-      "title": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast",
-      "link": "https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
-      "pubDate": "Wed, 14 Oct 2026 21:54:00 GMT",
-      "content": "Buckle up: Small-cap stocks just hit a market milestone they’d rather avoid.",
       "source": "US",
       "category": "美股市场"
     },

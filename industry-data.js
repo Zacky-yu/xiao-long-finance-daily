@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 02:46:36",
+ "generated_at": "2026/10/17 02:49:43",
  "recent_days": 7,
  "industries": [
   {
@@ -39,7 +39,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who beli",
      "source": "TechCrunch AI",
-     "zh": "这位正在投资物理人工智能的 Nvidia 资深人士表示，物理人工智能不仅仅是机器人"
+     "zh": "英伟达资深人士表示，物理人工智能不仅仅是机器人"
     },
     {
      "title": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -159,7 +159,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on 12 Verus/Rust tasks acr",
      "source": "arXiv cs.AI",
-     "zh": "当正确性反馈消除证据时：Verus 中的分阶段完整性审计"
+     "zh": "当正确性反馈抹掉证据时：Verus 中的分阶段完整性审计"
     },
     {
      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
@@ -290,36 +290,12 @@ window.INDUSTRY_DATA = {
      "zh": "数据中心电力成为 OCP 2026 的一大亮点"
     },
     {
-     "title": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/microchip-pol-05-20s-is-radiation-tolerant-gan-point-of-load-converter-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 14:24:13 +0000",
-     "summary": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
-     "source": "Electronics Weekly",
-     "zh": "Microchip POL-05-20S 是耐辐射 GaN 负载点转换器"
-    },
-    {
      "title": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition",
      "link": "https://semiconductor-today.com/news_items/2026/oct/omdia-161026.shtml",
      "pubDate": "Fri, 16 Oct 2026 14:52:30 +0100",
      "summary": "According to market research firm Omdia’s preliminary estimates, global smartphone shipments fell 20% year-on-year in third-quarter 2026, a sharp acceleration from the 6% decline recorded the previous quarter. Shipments also declined sequentially despite new flagship launches and channel preparation",
      "source": "Semiconductor Today",
      "zh": "内存危机重塑竞争格局，2026 年第三季度智能手机出货量萎缩 20%"
-    },
-    {
-     "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-arm-vs-qualcomm-ai-boom-adr-mission-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 13:38:02 +0000",
-     "summary": "The latest installment of the Arm vs Qualcomm case, the weirdness of the current semiconductor market, and an active debris removal mission to launch from Scotland mission... The post What caught your eye? Arm vs Qualcomm, AI boom, ADR mission appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "什么引起了您的注意？ Arm 与高通、人工智能热潮、ADR 使命"
-    },
-    {
-     "title": "When Mandy  Became A Revolutionary",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-mandy-became-a-revolutionary-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 13:32:30 +0000",
-     "summary": "Mandy is known for other things now but 28 years ago he was a revolutionary, as this EW yarn in September 1998 chronicled: ‘The first major speech as cabinet minister […] The post When Mandy Became A Revolutionary appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "当曼迪成为革命者时"
     },
     {
      "title": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume",
@@ -330,36 +306,12 @@ window.INDUSTRY_DATA = {
      "zh": "Terafab 的单一屋顶：为什么封装而非光刻决定了高产量"
     },
     {
-     "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/a-v-cuk-group-adds-auracast-assistive-listening-technology-to-portfolio-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 11:12:17 +0000",
-     "summary": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
-     "source": "Electronics Weekly",
-     "zh": "音视频：CUK 集团将 Auracast 辅助听力技术添加到产品组合中"
-    },
-    {
      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
      "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
      "pubDate": "Fri, 16 Oct 2026 10:55:42 +0000",
      "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times .",
      "source": "EE Times",
      "zh": "台湾的人工智能野心遭遇人才缺口"
-    },
-    {
-     "title": "R&S extends amplifier range for satellite use",
-     "link": "https://www.electronicsweekly.com/news/rs-extends-amplifier-range-for-satellite-use-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 10:54:42 +0000",
-     "summary": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "R&S 扩展了卫星用途的放大器范围"
-    },
-    {
-     "title": "Raltron monolithic crystal filter series for gateway ground stations",
-     "link": "https://www.electronicsweekly.com/news/products/raltron-monolithic-crystal-filter-series-for-gateway-ground-stations-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 10:20:32 +0000",
-     "summary": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
-     "source": "Electronics Weekly",
-     "zh": "用于网关地面站的 Raltron 单片晶体滤波器系列"
     },
     {
      "title": "Gemtek partners with Starman to make optical transceivers in US",
@@ -391,7 +343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 10:03:49 +0100",
      "summary": "The Department of Commerce’s CHIPS Program Office has agreed with GlobalFoundries of Malta, NY (the only US-based pure-play foundry with a global manufacturing footprint) to amend its existing award and reallocate up to $955m in incentives under the US CHIPS and Science Act...",
      "source": "Semiconductor Today",
-     "zh": "GlobalFoundries 的 CHIPS 计划奖项经过修改，以支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
+     "zh": "GlobalFoundries 的 CHIPS 计划奖项修改为支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
     },
     {
      "title": "Infineon and Wolfspeed expand and extend long-term SiC wafer supply agreement to 200mm",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Artificial intelligence is becoming part of the infrastructure that powers healthcare, transportation, finance, manufacturing, and everyday digital services. As these systems grow more capable, they also process more sensitive information and depend on increasingly complex hardware. The Synopsys whi",
      "source": "SemiWiki",
      "zh": "为什么人工智能安全从芯片级开始"
+    },
+    {
+     "title": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/onsemi-151026.shtml",
+     "pubDate": "Thu, 15 Oct 2026 10:36:20 +0100",
+     "summary": "Intelligent power and sensing technology firm onsemi of Scottsdale, AZ, USA says that its latest EliteSiC silicon carbide (SiC) hybrid power module technology has been adopted by renewable energy technology firm Sungrow for its PowerTitan 3.0 energy storage platform. The integration enables improved",
+     "source": "Semiconductor Today",
+     "zh": "安森美EliteSiC混合功率模块技术应用于阳光电源PowerTitan 3.0储能平台"
+    },
+    {
+     "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+     "link": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
+     "pubDate": "Thu, 15 Oct 2026 07:07:45 +0000",
+     "summary": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself. The post Beyond The Specification: What Really Determines PCIe Retimer Reach? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "超越规范：什么真正决定 PCIe 重定时器的范围？"
+    },
+    {
+     "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
+     "link": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/",
+     "pubDate": "Thu, 15 Oct 2026 07:06:02 +0000",
+     "summary": "Short-resilient via insertion improves reliability and performance. The post Strengthening Advanced-Node Interconnects Through Automated Via Insertion appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "通过自动过孔插入加强高级节点互连"
+    },
+    {
+     "title": "Building AI Infrastructure For Greater Choice And Flexibility",
+     "link": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/",
+     "pubDate": "Thu, 15 Oct 2026 07:03:05 +0000",
+     "summary": "Open interfaces and interoperability allow designers to choose technologies based on the needs of the system. The post Building AI Infrastructure For Greater Choice And Flexibility appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "构建人工智能基础设施以获得更多选择和灵活性"
+    },
+    {
+     "title": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
+     "link": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/",
+     "pubDate": "Thu, 15 Oct 2026 07:02:37 +0000",
+     "summary": "Extending chiplet connectivity across AXI and CHI with scalable protocol subsets, interoperability, and flexible transport support. The post AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AMBA C2C：通过 C2C 连接的融合 AMBA 基础向前迈进"
+    },
+    {
+     "title": "Why Open-Weight AI Matters",
+     "link": "https://semiengineering.com/why-open-weight-ai-matters/",
+     "pubDate": "Thu, 15 Oct 2026 07:02:13 +0000",
+     "summary": "Proprietary models still hold the edge, but open-weight models add more flexibility for deploying AI. The post Why Open-Weight AI Matters appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "为什么开放式重量人工智能很重要"
     }
    ]
   },
@@ -863,7 +863,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:00:00 -0500",
      "summary": "A massive wind farm in the state of Victoria, Australia, has been approved by state authorities, paving the way for the project to go to the federal environment minister for final checks. ABC News reports Planning Minister Sonya Kilkenny this week signed off on the Warracknabeal Energy Park, five mo",
      "source": "OilPrice",
-     "zh": "澳大利亚维多利亚州获批的风电场将成为南半球最大的风电场"
+     "zh": "澳大利亚维多利亚州获批建设南半球最大风电场"
     },
     {
      "title": "U.S. Oil Drillers Back Off Even As Prices Soar",
@@ -1039,7 +1039,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
-     "zh": "GES 为四个西班牙太阳能光伏项目获得 2.52 亿美元的 EPC 合同"
+     "zh": "GES 获得四个西班牙太阳能光伏项目价值 2.52 亿美元的 EPC 合同"
     },
     {
      "title": "Chinese PV Industry Brief: Trina Solar expands upstream ties with stake in encapsulation film maker",
@@ -1519,7 +1519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 13 Oct 2026 14:07:50 +0000",
      "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
      "source": "Spaceflight Now",
-     "zh": "SpaceX 将 NASA 科学和货物运送到国际空间站"
+     "zh": "SpaceX 将 NASA 科学和货物发射到国际空间站"
     },
     {
      "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
@@ -2268,7 +2268,7 @@ window.INDUSTRY_DATA = {
     {
      "title": "Katie Zacharia out as Trump&apos;s White House press secretary",
      "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-     "pubDate": "Fri, 16 Oct 2026 18:40:26 GMT",
+     "pubDate": "Fri, 16 Oct 2026 18:48:45 GMT",
      "summary": "Zacharia was on shaky ground from her first White House press conference, and over questions about her claims of being a lawyer despite not passing a bar exam.",
      "source": "CNBC",
      "zh": "凯蒂·扎卡里亚 (Katie Zacharia) 不再担任特朗普的白宫新闻秘书"
@@ -2288,6 +2288,22 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Martin Marietta 在 D.A. 的投资中获得买入评级戴维森年初至今表现不佳"
+    },
+    {
+     "title": "保险网销成“大促”？直播间“保费打折”“100%报销”频出",
+     "link": "http://finance.eastmoney.com/news/1348,202610173898791280.html",
+     "pubDate": "Sat, 17 Oct 2026 02:34:19 +0800",
+     "summary": "“门诊也能报，住院也能赔，花1块钱也报，0元起赔；买两单9.5折，投两单送50万元意外险。”在一些保险直播间里，金融保险产品被卖出了“消费品大促”的味道。 不过，真存在没有任何门槛的保险吗？ 八部门联合印发的《金融产品网络营销管理办法》（以下简称《办法》）已于9月30日起施行。《办法》明确，网络营销内容应当以金融产品合同为准，不得有重大遗漏、刻意隐瞒或误导。制作网络营销内容不得使用“低风险”“低门槛”“秒到账”“高收益”“低利率”“无成本”等诱导性用语。 《中国经营报》记者近期调查发现，《办法》落地之后，“1元也能赔，100%赔付”“花多少报多少”“买多打折”“投保即赠价值上千元福利体检卡”等",
+     "source": "东方财富股票",
+     "zh": "保险网销成“大促”？直播间“保费打折”“100%报销”频出"
+    },
+    {
+     "title": "布伦特原油期货价格首次自5月以来升至每桶110美元，现涨3.8%",
+     "link": "http://finance.eastmoney.com/news/1356,202610173898791170.html",
+     "pubDate": "Sat, 17 Oct 2026 02:33:51 +0800",
+     "summary": "布伦特原油 期货 价格首次自5月以来升至每桶110美元，现涨3.8%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "布伦特原油期货价格首次自5月以来升至每桶110美元，现涨3.8%"
     },
     {
      "title": "Alkermes reinstated Buy at Truist on narcolepsy opportunity",
@@ -2349,7 +2365,7 @@ window.INDUSTRY_DATA = {
      "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
      "link": "https://wallstreetcn.com/articles/3783778",
      "pubDate": "Sat, 17 Oct 2026 02:15:09 +0800",
-     "summary": "AI投资热潮的融资风险与盈利兑现压力持续发酵，周五全球市场延续震荡。 美股三大股指开盘涨跌不一，随后盘中集体转跌，纳指跌幅一度超过2%，费城半导体指数延续跌势；投资者担忧，AI基础设施建设的巨额投入与债务融资，可能难以迅速转化为足够的利润。周五亚市交易时段，美联储主沃什的讲话并未强化市场对10月联储加息的预期，但通胀压力、油价高企和美债收益率回升仍制约风险偏好。 本周，AI交易的核心矛盾正从算力需求增长转向融资成本、资本开支回报和企业盈利能力。云服务商CoreWeave债务承压，进一步引发市场对AI数据中心建设融资模式的审视；存储芯片、光通信和数据中心设备等此前受益于AI投资热潮的股票，也成为",
+     "summary": "AI投资热潮的融资风险与盈利兑现压力持续发酵，周五全球市场延续震荡。 美股三大股指开盘涨跌不一，随后盘中集体转跌，纳指跌幅一度超过2%，费城半导体指数延续跌势；投资者担忧，AI基础设施建设的巨额投入与债务融资，可能难以迅速转化为足够的利润。周五亚市交易时段，美联储主席沃什的讲话并未强化市场对10月联储加息的预期，但通胀压力、油价高企和美债收益率回升仍制约风险偏好。 本周，AI交易的核心矛盾正从算力需求增长转向融资成本、资本开支回报和企业盈利能力。云服务商CoreWeave债务承压，进一步引发市场对AI数据中心建设融资模式的审视；存储芯片、光通信和数据中心设备等此前受益于AI投资热潮的股票，也成",
      "source": "华尔街见闻",
      "zh": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌"
     },
@@ -2400,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "自动化设备 高速运转、生产线开足马力——10月14日，百隆（Blum）中国公司新总部在上海市青浦区正式启用，多条新产线同步投入使用，生产一线一派繁忙景象。这家跨国企业又一次加码在华布局，成为外资持续看好中国的一个缩影。 从全国数据看，外资加码中国的趋势同样清晰。国家外汇管理局日前发布的《2026年上半年中国国际收支报告》，印证了外资整体看好中国的趋势。数据显示，2026年上半年，我国外商股权性质直接投资达638亿美元，同比增长55%。其中，反映长期投资意愿的资本金净增加431亿美元，外资企业在境内的收益再投资同比增长31%。尤为引人关注的是，高技术服务业和高技术制造业新增资本金同比增长61%，",
      "source": "东方财富股票",
      "zh": "外资加码中国市场 长期投资信心从何而来"
-    },
-    {
-     "title": "世卫组织：沙特通报8例中东呼吸综合征病例",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898789953.html",
-     "pubDate": "Sat, 17 Oct 2026 02:08:59 +0800",
-     "summary": "世界卫生组织16日表示，2026年1月1日至10月5日期间，沙特阿拉伯报告了8例实验室确诊的中东呼吸 综合 征冠状病毒感染病例，其中1例死亡。 世卫组织表示，8例病例分布在6个地点，所有病例之间均未发现流行病学关联。2例病例报告曾与骆驼直接接触，而6例报告无已知的骆驼接触史。这些病例似乎代表了与人畜共患病溢出相关的散发感染，而非单一的疫情聚集性暴发。沙特卫生部门已对所有确诊病例进行密切接触者追踪；迄今为止，尚未发现继发病例。 世卫组织指出，沙特阿拉伯最近报告的病例并未改变世卫组织的总体风险评估，即无论在区域层面还是全球层面，风险仍然处于中等水平。 中东呼吸 综合 征是一种呼吸道感染疾病，由中东",
-     "source": "东方财富股票",
-     "zh": "世卫组织：沙特通报8例中东呼吸综合征病例"
     },
     {
      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America&apos;s biggest economic challenge",
@@ -2496,14 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "随着多家中小银行下架5年期定期存款，存量5年期定期存款到期后的资金处置方式迎来新变化。广东始兴农商行、浙江嘉善农商行率先调整存量5年期定期存款到期自动转存规则，改变了到期资金转为活期存款的“默认去向”。 10月13日，广东始兴农商行发布公告，自2026年10月15日起，存量5年期定期存款到期自动转存利率调整为1.25%，未到期部分仍按原约定利率执行至到期，该行继续执行停止新增5年期定期存款的政策。记者从该行网点...",
      "source": "经济观察网",
      "zh": "部分中小银行调整存量5年期定存自动转存规则"
-    },
-    {
-     "title": "李强主持召开国务院常务会议",
-     "link": "http://www.eeo.com.cn/2026/1017/1067421.shtml",
-     "pubDate": "Sat, 17 Oct 2026 01:52:07 +0800",
-     "summary": "李强主持召开国务院常务会议 听取“人工智能+”行动进展情况汇报 讨论《中华人民共和国教师法（修订草案）》 讨论《中华人民共和国价格法（修正草案）》 审议通过《国务院关于修改和废止部分行政法规的决定（草案）》 新华社北京10月16日电 国务院总理李强10月16日主持召开国务院常务会议，听取“人工智能+”行动进展情况汇报，讨论《中华人民共和国教师法（修订草案）》，讨论《中华人民共和...",
-     "source": "经济观察网",
-     "zh": "李强主持召开国务院常务会议"
     }
    ]
   },

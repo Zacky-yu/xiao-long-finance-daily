@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/16 09:12:01",
+ "generated_at": "2026/10/16 09:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -650,6 +650,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+     "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+     "pubDate": "Fri, 16 Oct 2026 01:17:43 +0000",
+     "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+     "source": "TechCrunch Transport",
+     "zh": "Tesla reveals SpaceX-powered Roadster that flies and falls with style"
+    },
+    {
+     "title": "Tesla Just Revealed The Roadster. Here's What You Need To Know",
+     "link": "https://insideevs.com/news/812151/2027-tesla-roadster-price-specs-release-date/",
+     "pubDate": "Fri, 16 Oct 2026 01:17:24 +0000",
+     "summary": "After nearly ten years of waiting, the company says it's finally ready to deliver. And the demo was truly wild.",
+     "source": "InsideEVs",
+     "zh": "Tesla Just Revealed The Roadster. Here's What You Need To Know"
+    },
+    {
      "title": "Chery Is Bringing Its Land Rover Lookalike To The UK",
      "link": "https://insideevs.com/news/812130/chery-land-rover-lookalike-uk/",
      "pubDate": "Fri, 16 Oct 2026 00:53:38 +0000",
@@ -770,14 +786,6 @@ window.INDUSTRY_DATA = {
      "zh": "The Electric Porsche Cayenne Just Torched The V8-Powered Audi RS Q8"
     },
     {
-     "title": "A BMW i3 EV Went 753 Miles On A Single Charge. Its Energy Consumption Was Astonishing",
-     "link": "https://insideevs.com/news/812073/bmw-i3-753-miles-range-test-ev/",
-     "pubDate": "Thu, 15 Oct 2026 10:58:45 +0000",
-     "summary": "That’s more than many gas-powered sedans on the road today.",
-     "source": "InsideEVs",
-     "zh": "A BMW i3 EV Went 753 Miles On A Single Charge. Its Energy Consumption Was Astonishing"
-    },
-    {
      "title": "BMW starts Gen 6 battery production in China as Neue Klasse i3 covers 1,213 km without recharging in test",
      "link": "https://cnevpost.com/2026/10/15/bmw-starts-gen-6-battery-production-china/",
      "pubDate": "Thu, 15 Oct 2026 09:02:14 +0000",
@@ -832,14 +840,6 @@ window.INDUSTRY_DATA = {
      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
      "source": "TechCrunch Transport",
      "zh": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world"
-    },
-    {
-     "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
-     "link": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
-     "pubDate": "Tue, 13 Oct 2026 17:00:00 +0000",
-     "summary": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
-     "source": "TechCrunch Transport",
-     "zh": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt"
     }
    ]
   },
@@ -1770,28 +1770,84 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "小米 REDMI K100 手机官宣本月见，号称“重塑旗舰新基线”",
-     "link": "https://www.ithome.com/1/013/728.htm",
-     "pubDate": "Fri, 16 Oct 2026 01:07:48 GMT",
-     "summary": "IT之家 10 月 16 日消息，小米 REDMI 红米手机官方今日宣布，K100 来了， 本月见 。 全新标准版，重塑旗舰新基线 超大电量，游戏性能体验看齐 Pro 据IT之家此前报道， 博主 @数码闲聊站 此前爆料 ，小米 REDMI K100 标准版手机 堆了米系最大电池、独显芯片、相对大马达、Bose 双扬 ，属于配置不搞花活的类型。 据悉，小米 REDMI K100 标准版手机搭载骁龙 8 至尊版处理器， 属于“3.5K 档量大管饱的产品”。 相关阅读： 《 小米 REDMI K100 标准版手机入网，支持 100W 快充 》 《 曝小米 REDMI K100 标准版手机将堆米系最大",
+     "title": "Meta 首席 AI 官汪滔：不会开源最强模型，但会继续发布优秀开源模型",
+     "link": "https://www.ithome.com/1/013/736.htm",
+     "pubDate": "Fri, 16 Oct 2026 01:25:04 GMT",
+     "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，Meta 发布了开放权重 AI 模型 Muse Spark Open。Meta 官方宣称这是迄今为止能力最强的美国开放权重模型。 据 The Next Web 报道，Meta 表示，Muse Spark Open 性能低于周一刚发布的前沿模型 Muse Wonder。 Meta 曾在周一宣布 Muse Wonder 已达到前沿模型水准，但并未对外公布任何基准测试成绩，该模型目前依然保持闭源。 Meta 首席 AI 官汪滔（Alexandr Wang）表示，出于安全与能力边界的双重考量， 我们通常不会开源我们最顶尖的模型 。不过他补",
      "source": "IT之家",
-     "zh": "小米 REDMI K100 手机官宣本月见，号称“重塑旗舰新基线”"
+     "zh": "Meta 首席 AI 官汪滔：不会开源最强模型，但会继续发布优秀开源模型"
     },
     {
-     "title": "美科技股上演“惊天大逆转”：三大指数携手收涨，纳指收盘前一跃翻红",
-     "link": "https://www.ithome.com/1/013/726.htm",
-     "pubDate": "Fri, 16 Oct 2026 01:04:17 GMT",
-     "summary": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，美股上演逆转行情。 科技股开盘再度遭遇抛售重压，纳指一度跌逾 1.4%，随后在日内反攻中收复全部失地， 最终三大指数携手收涨 。 ▲ 纳斯达克 IT之家查询获悉，截至当地时间 10 月 15 日收盘： 标普 500 指数涨 0.33%，报 7744.06 点； 纳斯达克综合指数涨 0.08%，报 26713.03 点； 道琼斯工业平均指数涨 1.08%，报 52177.69 点。 据财联社报道，随着科技股展开反攻，纳斯达克交易所盘中宣布发生网络故障，部分行情数据传输出现间歇性中断。尽管故障本身不影响交易，但从盘面来看，这个小插曲发",
+     "title": "元太发布 Kaleido 4 彩色电子纸，支持 18FPS 视频播放",
+     "link": "https://www.ithome.com/1/013/735.htm",
+     "pubDate": "Fri, 16 Oct 2026 01:24:41 GMT",
+     "summary": "IT之家 10 月 16 日消息，元太科技 (E Ink) 昨日正式推出新一代彩色电子纸技术 E Ink Kaleido 4。该面板在延续低功耗、类纸阅读核心优势的同时， 进一步提升彩色显示的色彩表现、亮度、对比度与动态显示能力 。 Kaleido 4 色域容积提升 2 倍至 40K 以上，白画面的反射率提升 15%，对比度提升 50%，更能清楚呈现图片、图表、简报与影音内容，减少画面颗粒感。 其导入全新 Oxide TFT 背板，支持更高驱动电压，提升画面刷新速率；结合新算法，Kaleido 4 支持 18FPS 视频播放 。同时，全新设计的前光系统让画面显色效果更加自然、清晰、细致。 汉王",
      "source": "IT之家",
-     "zh": "美科技股上演“惊天大逆转”：三大指数携手收涨，纳指收盘前一跃翻红"
+     "zh": "元太发布 Kaleido 4 彩色电子纸，支持 18FPS 视频播放"
     },
     {
-     "title": "微软 Win11 照片应用史诗级重构：一站式管理本地 / iCloud 照片，编辑器加载提速 25%",
-     "link": "https://www.ithome.com/1/013/725.htm",
-     "pubDate": "Fri, 16 Oct 2026 01:04:01 GMT",
-     "summary": "IT之家 10 月 16 日消息，微软昨日（10 月 15 日）发布博文，宣布重构 Windows 11 系统自带“照片”（Photos）应用，并邀请 Windows Insider 项目成员测试，预估今年晚些时候面向所有 Windows 11 用户开放。 界面方面，微软本次重新设计“图库”（Gallery）。用户无需来回切换多个应用， 可以在同一个界面浏览本地电脑、OneDrive 以及 Apple iCloud 中的照片和视频。 应用还支持按日期、人物、收藏等维度整理图片，并为 OneDrive 内容新增“Moments”功能，可自动将相关照片归类为回忆集，生成季节性回顾和幻灯片。 搜索方",
+     "title": "这次能飞了！特斯拉第二代 Roadster 跑车正式亮相",
+     "link": "https://www.ithome.com/1/013/734.htm",
+     "pubDate": "Fri, 16 Oct 2026 01:23:43 GMT",
+     "summary": "IT之家 10 月 16 日消息，在今天（16 日）上午的特别活动中，特斯拉第二代 Roadster 正式亮相。 根据介绍，2008 年的 Roadster 只有一个目标：证明电动汽车可以速度飞快、外形性感、引人期待，而今天发布的第二代 Roadster，则展现了历史上的一个新时刻： 最后几辆人类驾驶汽车之中的佼佼者 。 新车配备姿态控制推进器和车尾主推进器， 不仅能像火箭一样离地升空，还能在空中翻滚 。 特斯拉为新车开发了一套风扇吸附系统，通过风扇产生的吸力将车身压向路面。特斯拉称，这套系统能够大幅提高抓地力，让 Roadster 过弯时的 横向加速度最高达到 2g 。 特斯拉认为，Road",
      "source": "IT之家",
-     "zh": "微软 Win11 照片应用史诗级重构：一站式管理本地 / iCloud 照片，编辑器加载提速 25%"
+     "zh": "这次能飞了！特斯拉第二代 Roadster 跑车正式亮相"
+    },
+    {
+     "title": "The Tesla Roadster 2 Is Here—and It Flies",
+     "link": "https://www.wired.com/story/tesla-roadster-2-launch/",
+     "pubDate": "Fri, 16 Oct 2026 01:22:51 +0000",
+     "summary": "The automaker unveiled its next luxury sports car at an event in Texas. It has thrusters on it that can send it airborne.",
+     "source": "WIRED",
+     "zh": "The Tesla Roadster 2 Is Here—and It Flies"
+    },
+    {
+     "title": "京东红包今日 10:00 再加码，猜拳至高赢 5 元",
+     "link": "https://www.ithome.com/1/013/733.htm",
+     "pubDate": "Fri, 16 Oct 2026 01:20:18 GMT",
+     "summary": "今日 10 点京东猜拳有机会赢至高 5 元加码红包，建议先领完日常红包再来参与： 点此抽取 。 猜拳红包玩法：活动会在不同的时间节点，开启“猜拳抢红包”玩法，请随时关注活动提示。 活动期间用户可参与猜拳玩法，每人最多 3 次机会，单次机会用户选择石头、剪刀、布任意一个，任意获胜 1 局（石头赢剪刀，剪刀赢布，布赢石头）即可获得领取额外奖励的机会，可随机获得京东红包、品类东券或店铺券等奖励。 奖励限量，发完即止，建议用户在活动节点整点，准时参与活动。 蚊子肉也是肉，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~ 京东 11.11 无门槛红包 面额至高 26888 元，每天抽",
+     "source": "IT之家",
+     "zh": "京东红包今日 10:00 再加码，猜拳至高赢 5 元"
+    },
+    {
+     "title": "高通与传音续签专利许可协议至 2031 年底，涵盖 4G 和 5G 移动设备",
+     "link": "https://www.ithome.com/1/013/732.htm",
+     "pubDate": "Fri, 16 Oct 2026 01:18:49 GMT",
+     "summary": "IT之家 10 月 16 日消息，高通公司今日宣布，已与传音控股签订全球专利许可的长期续期， 涵盖 4G 和 5G 移动设备，期限至 2031 年底 。 高通技术许可（QTL）执行副总裁兼总经理 John Han 表示：“我们很高兴能够提前续签传音控股的 4G 和 5G 许可证，并将现有的 4G 和 5G 协议合并为单一的长期协议。” IT之家注意到，高通近期密集与多家移动设备大厂签订了专利许可协议。 9 月 24 日，高通宣布与苹果（Apple）续签全球专利许可协议， 新协议将于 2027 年 4 月 1 日起生效 。 10 月 5 日， 华为与高通宣布达成一项长期、广泛的专利许可协议 ，该",
+     "source": "IT之家",
+     "zh": "高通与传音续签专利许可协议至 2031 年底，涵盖 4G 和 5G 移动设备"
+    },
+    {
+     "title": "如何看待光模块、PCB限制传闻？券商最新解读",
+     "link": "https://www.huxiu.com/article/4897911.html?f=rss",
+     "pubDate": "Fri, 16 Oct 2026 09:17:41 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：林坚 近日，美国联邦通信委员会（FCC）拟限制中国光模块、美方供应链剔除中国PCB、美国国际贸易委员会启动337调查等消息接连出现，AI硬件产业链随之波动。如何看待这一系列传闻？财联社进行了一番调研，并采访了中信证券、国泰海通证券、中金公司等三家头部券商的首席分析师。 从受访的情况来看，大多判断一致，认为政策覆盖范围有限、实施进度尚早，短期实际冲击或小于市场情绪演绎，产业景气与业绩支撑仍在。在他们看来，海外政策扰动的边界仍在变化，但对产业景气的判断并未改变。 如何看待FCC限制光模块传闻？落地概率偏低 关于FCC拟限制中国光模块，中信证券研究部总监裘翔给出",
+     "source": "虎嗅",
+     "zh": "如何看待光模块、PCB限制传闻？券商最新解读"
+    },
+    {
+     "title": "今年势头最猛的国产旗舰：消息称华为 Pura X View 阔直板手机出货量超 71 万，实销均价在 7000 元左右",
+     "link": "https://www.ithome.com/1/013/731.htm",
+     "pubDate": "Fri, 16 Oct 2026 01:16:14 GMT",
+     "summary": "IT之家 10 月 16 日消息，博主 @数码闲聊站 今日爆料，渠道数据显示，华为阔直板（Pura X View）出货量已超 71 万，实销均价在 7000 元左右，其中约 30％用户来自苹果用户。 博主称（Pura X View）鉴定为 今年势头最猛的国产旗舰 ，该机前期还大面积缺货，如果不缺货估计更猛。此外，华为大阔折和小阔折出货量已超 315 万。 据IT之家了解，华为 Pura X View 搭载麒麟 9030S 处理器， 售价 5999 元起 ： 12GB + 256GB：5999 元 12GB + 512GB：6999 元 12GB + 1TB：8499 元 华为 Pura X V",
+     "source": "IT之家",
+     "zh": "今年势头最猛的国产旗舰：消息称华为 Pura X View 阔直板手机出货量超 71 万，实销均价在 7000 元左右"
+    },
+    {
+     "title": "陆挺：AI驱动的全球经济新周期",
+     "link": "https://www.huxiu.com/article/4897907.html?f=rss",
+     "pubDate": "Fri, 16 Oct 2026 09:09:28 +0800",
+     "summary": "本文来自微信公众号： 北大汇丰PFR ，作者：陆挺 人工智能技术的快速迭代与规模化产业化落地，彻底颠覆了传统经济的增长范式、产业边界与资源分配逻辑，其影响已全面渗透至宏观经济运行、全球地缘竞争、就业结构与财富分配等核心领域。与过往工业革命、互联网革命带来的全要素生产率普惠式提升不同，本轮AI革命呈现鲜明的结构性、差异化增长特征，增长动力高度集中于资本投入端，全域生产效率红利尚未完全释放。 野村中国首席经济学家陆挺在《北大金融评论》发文指出，从全球宏观维度看，AI驱动的算力基建、硬件设备、模型研发等大规模投资，已成为主要经济体稳增长的核心增量，重塑全球贸易与区域增长格局；从国内维度看，中国AI新",
+     "source": "虎嗅",
+     "zh": "陆挺：AI驱动的全球经济新周期"
+    },
+    {
+     "title": "Edge AI Daily 早报（10月16日）",
+     "link": "https://www.tmtpost.com/8170547.html",
+     "pubDate": "Fri, 16 Oct 2026 09:02:08 +0800",
+     "summary": "AI 竞赛转入资本与融资结构承压期：四大云厂商 2026 年资本开支冲向 7250 亿美元，OpenAI、谷歌同步降价，芯片股六连跌抹去超 1 万亿美元市值，数据中心债券收益率飙升、现金流数年来首度转负。Anthropic 三季度营收 168 亿美元、拟 11 月 9 日启动 IPO 路演，并以订阅额度打通第三方应用确立 BYOS 新规则。",
+     "source": "钛媒体",
+     "zh": "Edge AI Daily 早报（10月16日）"
     },
     {
      "title": "The White House&apos;s AI task force begins its 120-day window to evaluate AI, including producing a risk report, implementing the White House Accord on SI, and more (Ashley Gold/Semafor)",
@@ -1802,26 +1858,10 @@ window.INDUSTRY_DATA = {
      "zh": "The White House&apos;s AI task force begins its 120-day window to evaluate AI, including producing a risk report, implementing the White House Accord on SI, and more (Ashley Gold/Semafor)"
     },
     {
-     "title": "曝宁德时代乘用车业务换帅，将加快推进换电",
-     "link": "https://www.ithome.com/1/013/724.htm",
-     "pubDate": "Fri, 16 Oct 2026 00:54:14 GMT",
-     "summary": "IT之家 10 月 16 日消息，据 36 氪 10 月 15 日晚报道，宁德时代乘用车体系迎来重磅调整， 宁德时代换电业务负责人、时代电服 CEO 杨峻将接替韩伟 ，兼任市场体系联席总裁，原市场体系联席总裁韩伟将回归商用车业务。 报道称，国内乘用车业务副总裁王慧也随之调整。知情人士透露，王慧所负责业务将由宁德时代乘用车 CTO 高焕接棒，而王慧也同样回归商用车业务。 报道认为，杨峻的接任，意味着宁德时代有望进一步打通乘用车电池销售与换电业务。过去几年，杨峻最重要的工作，就是推动宁德时代换电体系从技术方案走向商业化。 据IT之家此前报道，在 2024 年底的巧克力换电生态大会上，宁德时代创始人",
-     "source": "IT之家",
-     "zh": "曝宁德时代乘用车业务换帅，将加快推进换电"
-    },
-    {
-     "title": "营收增长放缓，消息称投资者降低 Anthropic IPO 估值预期",
-     "link": "https://www.ithome.com/1/013/723.htm",
-     "pubDate": "Fri, 16 Oct 2026 00:54:07 GMT",
-     "summary": "IT之家 10 月 16 日消息，北京时间今天（16 日）凌晨，路透社援引四名知情人士消息称，随着 AI 融资成本持续攀升引发市场担忧，Anthropic 公布最新财务数据后，部分现有投资者和准备参与 IPO 的投资者 开始考虑下调对 Anthropic 的估值 。 其中三名知情人士称，部分投资者参加了 Anthropic 在旧金山举办的投资者日活动，并讨论了约 1.5 万亿美元 （IT之家注：现汇率约合 10.05 万亿元人民币） 的估值。此前，投资者预计 Anthropic 在 11 月上市时的估值 约为 2 万亿美元 （现汇率约合 13.41 万亿元人民币） 。 Anthropic 向潜",
-     "source": "IT之家",
-     "zh": "营收增长放缓，消息称投资者降低 Anthropic IPO 估值预期"
-    },
-    {
      "title": "RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago",
      "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
      "pubDate": "Fri, 16 Oct 2026 00:52:35 +0000",
-     "summary": "Article URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes Comments URL: https://news.ycombinator.com/item?id=50112330 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes Comments URL: https://news.ycombinator.com/item?id=50112330 Points: 10 # Comments: 0",
      "source": "Hacker News",
      "zh": "RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago"
     },
@@ -1832,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 返朴 ，作者：木木 近期，围绕国际期刊主编被指向作者索贿的争议，让论文发表背后的金钱与利益再次受到关注。相关指控仍待核实，而为“发表”付出高额代价的问题，值得进一步追问。一篇论文除了交流发现，还可能带来下一笔资助、下一个职位、下一个发表、下一个“帽子”......当这些回报过多地依赖“发在哪里”，作者有多大空间决定为发表付出多少？少花些钱、多几本自己的期刊之后，我们又该怎样评价一项工作？ 本文收录于合集学界观察与指南 最近，某国际期刊主编被指向投稿人索取高额贿赂，以此帮助发表论文。这一指控刺激了很多人的神经。科研人员为了在国际学术期刊上发表论文，采取各种不正当手段，违反学",
      "source": "虎嗅",
      "zh": "两千多篇撤稿浪费数百万美元经费，如何刹住不正当发表的“邪修”风？"
-    },
-    {
-     "title": "红魔 5K MiniLED 显示器公布：首发 5184 分区，6499 元，12 月上市",
-     "link": "https://www.ithome.com/1/013/722.htm",
-     "pubDate": "Fri, 16 Oct 2026 00:50:44 GMT",
-     "summary": "IT之家 10 月 16 日消息，红魔 (REDMAGIC) 在昨日的红魔 12 PRO+ 智能手机发布会上公布了红魔 5K MiniLED 显示器。这一型号 首发 5,184 分区背光 ，官方售价 6,499 元，2026 年 12 月正式上市。 红魔 5K MiniLED 显示器支持 5K 180Hz / 2K 330Hz， HDR 峰值亮度达 1400nits ， 色域典型值达 95% BT ，支持“独家”逐行背光扫描动态清晰画面技术。 此外，其采用超薄全铝机身，纯平背板，拥有渐变熏黑丝印处理，集成透明电竞视窗。",
-     "source": "IT之家",
-     "zh": "红魔 5K MiniLED 显示器公布：首发 5184 分区，6499 元，12 月上市"
     },
     {
      "title": "全球订单重新分配，谁接得住泼天富贵？",
@@ -1866,14 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "廉航爆改“空中绿皮”，背刺多少打工人？"
     },
     {
-     "title": "City Pop为什么在中国凉了？",
-     "link": "https://www.huxiu.com/article/4897885.html?f=rss",
-     "pubDate": "Fri, 16 Oct 2026 08:16:35 +0800",
-     "summary": "本文来自微信公众号： 赵先生的事务所 ，作者：赵智功，头图来自：AI生成 2020年，全世界都在家里蹲着。 一个印尼姑娘在YouTube上翻唱了松原みき1979年的《Stay With Me》，结果这歌在全球音乐平台连续18天霸榜第一。 中国的年轻人也跟着疯了，B站上City Pop歌单动辄百万播放，竹内玛利亚的《Plastic Love》评论区挤满了人。 那时候大家心里都憋着一股劲，等疫情过去，老子要报复性消费，要去远方户外登山，要在海岛开着敞篷车，要在高级酒吧把大酒通通喝一遍。 City Pop唱的就是这个主题：泡沫经济时代的幻梦，永远不会结束的夏夜。 就像K-pop卖的不是音乐，而是跟偶",
-     "source": "虎嗅",
-     "zh": "City Pop为什么在中国凉了？"
-    },
-    {
      "title": "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
      "link": "https://www.techmeme.com/261015/p56#a261015p56",
      "pubDate": "Thu, 15 Oct 2026 20:15:02 -0400",
@@ -1882,12 +1906,12 @@ window.INDUSTRY_DATA = {
      "zh": "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)"
     },
     {
-     "title": "肖战还没开唱，酒店已经搞完“涨价服从性测试”",
-     "link": "https://www.huxiu.com/article/4897895.html?f=rss",
-     "pubDate": "Fri, 16 Oct 2026 08:14:04 +0800",
-     "summary": "本文来自微信公众号： 劲旅网 ，编辑：壮壮，作者：陈杰tigereat 这并不是简单的“临时涨价”。 头图：AI生成 肖战日前正式官宣“出口·我们”个人巡回演唱会，首站定档10月23日、25日，地点南京梦之蓝青奥体育公园体育馆。 这是肖战出道十年来的首场个人巡演，瞬间引爆全网抢票热潮。 然而抢票大战还没鸣枪，另一场大战却早已分出胜负。 不少肖战粉丝发现，演唱会场馆周边的酒店房价早已集体暴涨一轮。 有酒店演唱会前一天房价最低还是179元，演唱会当天房价直接飙到2193元，涨幅近12倍。 有酒店演唱会前后直接将房价从534元涨到5888元，涨了10倍。 如此夸张的涨幅引发肖战粉丝们的不满，住一晚的",
-     "source": "虎嗅",
-     "zh": "肖战还没开唱，酒店已经搞完“涨价服从性测试”"
+     "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+     "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+     "pubDate": "Thu, 15 Oct 2026 23:37:42 +0000",
+     "summary": "Article URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/ Comments URL: https://news.ycombinator.com/item?id=50111852 Points: 10 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Business accounts will consent to Meta scraping their websites Starting Oct. 30"
     },
     {
      "title": "Two US officials and a Western official say the order to limit Ukraine&apos;s access to SpaceX&apos;s Starshield came from inside the White House (Reuters)",
@@ -1909,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
      "link": "https://github.com/johnrash/bebox",
      "pubDate": "Thu, 15 Oct 2026 23:22:53 +0000",
-     "summary": "Article URL: https://github.com/johnrash/bebox Comments URL: https://news.ycombinator.com/item?id=50111742 Points: 12 # Comments: 3",
+     "summary": "Article URL: https://github.com/johnrash/bebox Comments URL: https://news.ycombinator.com/item?id=50111742 Points: 15 # Comments: 4",
      "source": "Hacker News",
      "zh": "BeBox is a Haiku application that emulates Be Inc.'s BeBox"
     },
@@ -1984,30 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
      "source": "WIRED",
      "zh": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For"
-    },
-    {
-     "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-     "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-     "pubDate": "Thu, 15 Oct 2026 20:38:13 +0000",
-     "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-     "source": "TechCrunch",
-     "zh": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it"
-    },
-    {
-     "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-     "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-     "pubDate": "Thu, 15 Oct 2026 20:32:41 +0000",
-     "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
-     "source": "Ars Technica",
-     "zh": "Targeted ads delivered 0-click exploits to install mercenary malware"
-    },
-    {
-     "title": "Above the 911? Porsche previews a new mid-engined supercar.",
-     "link": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
-     "pubDate": "Thu, 15 Oct 2026 20:30:02 +0000",
-     "summary": "Porsche’s turnaround plan for 2035 involves less volume but more expensive cars.",
-     "source": "Ars Technica",
-     "zh": "Above the 911? Porsche previews a new mid-engined supercar."
     }
    ]
   },
@@ -2017,6 +2017,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Yashica’s 1950s throwback micro-camera will cost $119",
+     "link": "https://www.dpreview.com/news/yashica-y16-official-announcement-specs/",
+     "pubDate": "Fri, 16 Oct 2026 01:14:40 +0000",
+     "summary": "The company has fully announced the Y16 with specs, price and a release date",
+     "source": "DPReview",
+     "zh": "Yashica’s 1950s throwback micro-camera will cost $119"
+    },
+    {
+     "title": "Gemini 4 Argon is now rolling out to Google’s Antigravity for AI Pro subscribers",
+     "link": "https://9to5google.com/2026/10/15/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers/",
+     "pubDate": "Fri, 16 Oct 2026 01:10:00 +0000",
+     "summary": "Google is now rolling out support for Gemini 4 Argon to Antigravity, its AI coding tool. more…",
+     "source": "9to5Google",
+     "zh": "Gemini 4 Argon is now rolling out to Google’s Antigravity for AI Pro subscribers"
+    },
     {
      "title": "‘Tenzing’ premieres on Apple TV, starring Tom Hiddleston and Willem Dafoe",
      "link": "https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe/",
@@ -2040,6 +2056,14 @@ window.INDUSTRY_DATA = {
      "summary": "Samsung’s upcoming Galaxy S27 Ultra is rumored to have nearly the same dimensions as its predecessor. However, according to a tipster, the new flagship could feature slightly thicker display bezels than the Galaxy S26 Ultra. Tipster Ice Universe claims that the Galaxy S27 Ultra will feature 1.28mm-t",
      "source": "GSMArena",
      "zh": "Tipster says Galaxy S27 Ultra will have slightly thicker bezels than S26 Ultra"
+    },
+    {
+     "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+     "link": "https://sspai.com/post/116355",
+     "pubDate": "Fri, 16 Oct 2026 08:23:12 +0800",
+     "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。 查看全文",
+     "source": "少数派",
+     "zh": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本"
     },
     {
      "title": "Amazon launches Bee Frontier AI wearable and Bee Eclipse phone attachment",
@@ -2232,30 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "The REDMAGIC 12 Pro Plus has an 8,400mAh battery and RGB liquid cooling.",
      "source": "Android Authority",
      "zh": "This gaming phone gives Qualcomm’s latest powerhouse the liquid-cooling treatment"
-    },
-    {
-     "title": "Today’s Android app deals and freebies: Live or Die, Endling, Cat Lady, more",
-     "link": "https://9to5toys.com/2026/10/15/todays-highlight-google-play-deals-29/",
-     "pubDate": "Thu, 15 Oct 2026 17:46:45 +0000",
-     "summary": "Today’s best Google Play app and game deals are ready, including Live or Die 1: Survival Pro, Neighbours from Hell 1 Premium, Gun Tactics, Endling Extinction is Forever, Cat Lady, Braveland, and more. Just be sure to dive into the now live Samsung Week 2026 sale , these Galaxy Book6 Copilot+ PCs at ",
-     "source": "9to5Google",
-     "zh": "Today’s Android app deals and freebies: Live or Die, Endling, Cat Lady, more"
-    },
-    {
-     "title": "Amazon launches two Bee AI recorders to remember everything you say",
-     "link": "https://9to5google.com/2026/10/15/amazon-launches-bee-ai-wearables/",
-     "pubDate": "Thu, 15 Oct 2026 17:08:21 +0000",
-     "summary": "Just over a year after acquiring the AI company, Bee, Amazon has officially unveiled two of its first AI wearables, so you never forget what was said. more…",
-     "source": "9to5Google",
-     "zh": "Amazon launches two Bee AI recorders to remember everything you say"
-    },
-    {
-     "title": "Google AI Mode and AI Overview updates work to elevate links",
-     "link": "https://9to5google.com/2026/10/15/google-ai-mode-overviews-links/",
-     "pubDate": "Thu, 15 Oct 2026 16:00:00 +0000",
-     "summary": "Google is continuing its work to make links more prominent in AI Mode and AI Overviews. more…",
-     "source": "9to5Google",
-     "zh": "Google AI Mode and AI Overview updates work to elevate links"
     }
    ]
   },
@@ -2266,12 +2266,108 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "肯德基美国餐厅数十年来首次改用可口可乐饮料",
+     "link": "http://www.eeo.com.cn/2026/1016/1066093.shtml",
+     "pubDate": "Fri, 16 Oct 2026 09:26:06 +0800",
+     "summary": "中新经纬10月16日电 据美国消费者新闻与商业频道(CNBC)15日报道，肯德基在美国的餐厅明年将放弃百事可乐，改用可口可乐产品。这将是百胜餐饮集团数十年来首次变更。 报道称，肯德基的部分国际市场供应可口可乐产品，但自1986年百事可乐收购肯德基以来，其美国餐厅一直坚持使用百事可乐的饮料。收购之时，肯德基是可口可乐的第二大饮料客户，仅次于麦当劳。 百事可乐后来剥离了肯德基及其姊妹连锁店必胜客和塔可钟。...",
+     "source": "经济观察网",
+     "zh": "肯德基美国餐厅数十年来首次改用可口可乐饮料"
+    },
+    {
+     "title": "10月16日港股开盘：恒指高开1.08% 百济神州领涨成分股",
+     "link": "http://stock.eastmoney.com/news/11770,202610163897800946.html",
+     "pubDate": "Fri, 16 Oct 2026 09:23:18 +0800",
+     "summary": "港股10月16日高开，恒生指数开盘报24321.45点，涨258.73点，涨幅1.08%；恒生科技指数开盘报4125.44点，涨64.45点，涨幅1.59%。恒生指数成分股中 百济神州 、 信达生物 、 新东方-S 涨幅居前， 宁德时代 、 恒安国际 、 信义玻璃 跌幅靠前。恒生科技指数成分股中 MINIMAX-W 、 天数智芯 、 蔚来-SW 涨幅居前， 小米集团-W 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。",
+     "source": "东方财富股票",
+     "zh": "10月16日港股开盘：恒指高开1.08% 百济神州领涨成分股"
+    },
+    {
+     "title": "港股开盘：恒指高开1.08% 百济神州领涨成分股",
+     "link": "http://stock.eastmoney.com/news/11771,202610163897800773.html",
+     "pubDate": "Fri, 16 Oct 2026 09:23:10 +0800",
+     "summary": "&nbsp; 港股10月16日 高开，恒生指数开盘报24321.45点，涨258.73点，涨幅1.08%； 恒生科技指数 开盘报4125.44点，涨64.45点，涨幅1.59%。 恒生指数成分股中 百济神州 、 信达生物 、 新东方-S 涨幅居前 ， 宁德时代 、 恒安国际 、 信义玻璃 跌幅靠前 。 恒生科技指数成分股中 MINIMAX-W 、 天数智芯 、 蔚来-SW 涨幅居前 ， 小米集团-W 跌幅靠前 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏",
+     "source": "东方财富股票",
+     "zh": "港股开盘：恒指高开1.08% 百济神州领涨成分股"
+    },
+    {
+     "title": "阿里巴巴开涨2.26%",
+     "link": "http://hk.eastmoney.com/news/1535,202610163897801219.html",
+     "pubDate": "Fri, 16 Oct 2026 09:23:04 +0800",
+     "summary": "阿里巴巴 (09988.HK)开涨2.26%；库克表示 苹果 智能及相关阿里千问大模型确已获得批准，将在十月晚些时候发布测试版本；但不包括Siri AI。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "阿里巴巴开涨2.26%"
+    },
+    {
+     "title": "央行今日开展600亿元7天逆回购操作",
+     "link": "http://finance.eastmoney.com/news/1346,202610163897801322.html",
+     "pubDate": "Fri, 16 Oct 2026 09:21:54 +0800",
+     "summary": "央行今日开展600亿元7天逆回购操作，操作利率为1.40%，与此前持平。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "央行今日开展600亿元7天逆回购操作"
+    },
+    {
+     "title": "杭州挂牌五宗地块 起始总价约39.26亿元",
+     "link": "http://finance.eastmoney.com/news/1359,202610163897800616.html",
+     "pubDate": "Fri, 16 Oct 2026 09:21:51 +0800",
+     "summary": "10月16日，杭州市规划和自然资源局发布杭州市国有建设用地使用权挂牌出让公告，将采用挂牌方式出让五宗地块，起始总价39.2587亿元，将于2026年11月7日正式挂牌出让。此次出让的地块分别位于上城区、钱塘区和临安区，地块实行自由竞价，按照价高者得的原则确定竞得人。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "杭州挂牌五宗地块 起始总价约39.26亿元"
+    },
+    {
+     "title": "【调研快报】京东方A接待南方基金等3家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610163897800071.html",
+     "pubDate": "Fri, 16 Oct 2026 09:21:29 +0800",
+     "summary": "京东方A 10月16日公告称， 10月15日 接待南方基金 等3家机构 调研。 接待人员包括副总裁、董事会秘书 郭红,董事会秘书室工作人员 张妍,董事会秘书室工作人员 李思民。 公司就以下问题进行了回复： 投资者参观了 京东 方技术创新中心展厅,参观后与公司进行了交流。讨论的主要内容为回答投资者提问,问答情况如下: 1、近期显示行业情况? 答:根据咨询机构数据及分析,受存储涨价影响,终端产品成本不断抬升,部分终端产品价格上涨,致使 消费电子 市场需求受到一定抑制,2026 年主流应用终端销量预计均... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险",
+     "source": "东方财富股票",
+     "zh": "【调研快报】京东方A接待南方基金等3家机构调研"
+    },
+    {
+     "title": "两市融资余额减少313.25亿元",
+     "link": "http://www.eeo.com.cn/2026/1016/1066072.shtml",
+     "pubDate": "Fri, 16 Oct 2026 09:13:05 +0800",
+     "summary": "【两市融资余额减少313.25亿元】截至10月15日，上交所融资余额报12654.87亿元，较前一交易日减少145.91亿元；深交所融资余额报12006.74亿元，较前一交易日减少167.34亿元；两市合计24661.61亿元，较前一交易日减少313.25亿元。(中新经纬APP)",
+     "source": "经济观察网",
+     "zh": "两市融资余额减少313.25亿元"
+    },
+    {
+     "title": "A股热点前瞻丨Meta发布开源模型；台积电Q3业绩超预期；苹果智能在华获批",
+     "link": "http://finance.eastmoney.com/news/11822,202610163897766274.html",
+     "pubDate": "Fri, 16 Oct 2026 09:13:04 +0800",
+     "summary": "（1）深圳杭州同日发布楼市新政，地产链或迎修复窗口； （2）Meta开源Muse Spark Open模型权重， AI应用 商业化提速； （3） 台积电 Q3业绩超预期，AI算力需求景气获验证； （4）黄仁勋表态可对不安全AI客户断供，AI安全治理需求凸显； （5）阶跃星辰旗舰模型Step 5开源，国产算力首日完成适配； （6） 苹果 智能在华获批叠加 iPhone Duo 开售在即，果链或迎来催化。 盘面回顾 10月15日，A股三大指数集体收跌，沪指险守3700大关，创业板指跌2.92%，尾盘半小时多只宽基ETF显著放量。文化 传媒 、 白酒 板块逆势飘红，算力硬件、农业等跌幅居前。 深圳杭",
+     "source": "东方财富资讯",
+     "zh": "A股热点前瞻丨Meta发布开源模型；台积电Q3业绩超预期；苹果智能在华获批"
+    },
+    {
      "title": "Alcoa anticipates up to $315M from Massena East deal while targeting $500M-$1B asset monetization by 2030",
      "link": "https://seekingalpha.com/news/4653676-alcoa-anticipates-up-to-315m-from-massena-east-deal-while-targeting-500m-1b-asset?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 15 Oct 2026 21:05:35 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Alcoa anticipates up to $315M from Massena East deal while targeting $500M-$1B asset monetization by 2030"
+    },
+    {
+     "title": "韩国财政部：将密切监测股市波动是否蔓延至债券、外汇和货币市场",
+     "link": "http://finance.eastmoney.com/news/1351,202610163897687526.html",
+     "pubDate": "Fri, 16 Oct 2026 09:04:23 +0800",
+     "summary": "韩国财政部发表声明称，将密切监测股市波动是否蔓延至债券、外汇和货币市场。政府及有关机构将加强股市监测，并严厉应对任何扰乱市场秩序的行为。声明称，强劲的经济增长预期、经常账户顺差以及企业盈利向好，意味着韩国股市基本面依然稳固。 相关报道 股市暴跌后，韩国监管紧急开会“救市”：必要时准备启动应急预案 10月15日，据券商中国报道，韩国金融监管机构就股市召开紧急会议并发布官方声明，要求主动采取应对措施，保障市场稳定、保护投资者；敦促金融机构避免过度信贷投放，做好投资者保护与风险管理工作；将严厉处置扰乱市场的行为，必要时准备启动应急预案。 监管部门及市场专家认为，在全球利率上行预期、 人工智能 半导体",
+     "source": "东方财富资讯",
+     "zh": "韩国财政部：将密切监测股市波动是否蔓延至债券、外汇和货币市场"
+    },
+    {
+     "title": "《添富阅览室》第三期",
+     "link": "http://www.eeo.com.cn/2026/1016/1064376.shtml",
+     "pubDate": "Fri, 16 Oct 2026 09:01:01 +0800",
+     "summary": "光影为幕，读书添富 第三期：《聪明的投资者》 翻开，即是序幕；静读，自有回响。 世界读书日将至，邀您共读经典。/下周就是世界读书日，现诚邀您共读经典。 穿透市场迷雾，也照见内心的从容。 每一本经典，都是一部“思想大片”。这里有宏大的时代背景，有鲜活的核心人物，有跌宕的逻辑推演，更有直击灵魂的高光时刻。 《添富阅览室》带给您专属先导片和深度影评。 五分钟，让您像看完一部大片一样，读懂一本经典。",
+     "source": "经济观察网",
+     "zh": "《添富阅览室》第三期"
+    },
+    {
+     "title": "价值归属：谁创造了，归谁？",
+     "link": "http://www.eeo.com.cn/2026/1016/1061120.shtml",
+     "pubDate": "Fri, 16 Oct 2026 09:01:01 +0800",
+     "summary": "本文聚焦碳硅联合产出中的确权与分配难题。碳基与硅基共同创造价值的新型劳动结构击穿了工业时代“劳动创造价值者获回报”的产权假设。版权法因只保护表达而追不上判断过程，训练数据权属面临“整体贡献池补偿”的制度创新，专利法不承认AI发明人则导致激励错配。分配层面，算力作为硅基能力的物质载体正以规模报酬递增方式吸走增量，碳基劳动呈现“可替代者贬值、不可替代者涨价”的断层分化。新数字鸿沟已从接入权转向协作能力门槛，算法优化目标对非典型群体的系统性忽视需公共干预矫正。确权只是静态前提，分配正义才是动态归宿，碳硅共生的价",
+     "source": "经济观察网",
+     "zh": "价值归属：谁创造了，归谁？"
     },
     {
      "title": "India&apos;s rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
@@ -2322,12 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI风向标生变！Anthropic估值预期据称缩水 高增长故事讲不下去了？"
     },
     {
-     "title": "沪指险守3700点 ETF放量护盘信号再现 多空拉锯走向何方？",
-     "link": "http://finance.eastmoney.com/news/1344,202610163897601711.html",
-     "pubDate": "Fri, 16 Oct 2026 08:36:46 +0800",
-     "summary": "周四沪指险守3700点。 10月15日，A股三大股指集体低开。截至收盘，上证综指跌1.59%，报3707.48点，仍位于3700点上方；深证成指跌2.43%，报11816.79点；创业板指跌2.92%，报2783.17点。 值得一提的是，股票型ETF基金尾盘出现大幅放量。沪深300ETF易方达、科创50ETF华夏、创业板ETF易方达等周四成交额超过百亿元。其中，沪深300ETF易方达成交额超过194亿元，环比上一交易日暴涨近23倍。另外，科创50ETF华夏放量近133%，创业板ETF易方达放量近91%。 对于周四市场普跌的原因，中欧基金认为是“外围通胀超预期→全球利率与美元走强→压制成长估值”",
-     "source": "东方财富资讯",
-     "zh": "沪指险守3700点 ETF放量护盘信号再现 多空拉锯走向何方？"
+     "title": "今日看点｜国新办将举行第九届中国国际进口博览会筹备情况新闻发布会",
+     "link": "http://www.eeo.com.cn/2026/1016/1066034.shtml",
+     "pubDate": "Fri, 16 Oct 2026 08:37:09 +0800",
+     "summary": "10月16日上午10时，国新办将举行新闻发布会，商务部副部长鄢东，上海市副市长卢山介绍第九届中国国际进口博览会筹备情况，并答记者问。",
+     "source": "经济观察网",
+     "zh": "今日看点｜国新办将举行第九届中国国际进口博览会筹备情况新闻发布会"
     },
     {
      "title": "AI忧虑压倒通胀利好，美元创逾一个月最大单日跌幅",
@@ -2344,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "科技股遭遇抛售之际，资金正加速流向大型医药板块。 AbbVie、礼来（Eli Lilly）等生物制药巨头本周股价逼近历史高位 ，折射出投资者在AI概念股动荡中转向防御性资产的明确信号。 周四，State Street医疗保健精选行业SPDR ETF触及177.19美元的历史新高，过去五个交易日累计上涨5.6%。 与此同时，投资者还涌入消费必需品和美国国债，导火索正是AI相关股票的集体下挫——市场对AI资本支出规模及Anthropic营收增速放缓的担忧持续发酵。 礼来股价周四收涨3.4%，创下其历史第三高收盘价；AbbVie则以283.40美元收盘，为历史第二高，此前一日刚刚创下283.48美元",
      "source": "华尔街见闻",
      "zh": "AI暴跌下的避风港！大型医药股股价逼近历史新高"
-    },
-    {
-     "title": "瑞银“撕报告”：美联储本轮紧缩周期将加息三次 下一次行动在12月",
-     "link": "http://stock.eastmoney.com/news/11722,202610163897593518.html",
-     "pubDate": "Fri, 16 Oct 2026 08:23:00 +0800",
-     "summary": "瑞银在最新发给客户的报告中， 调整了其对美联储利率路径的预期，预计该央行本轮紧缩周期将加息三次，第三次将发生在2027年3月 。此前，美国公布了高于市场预期的9月通胀数据。 周三公布的数据显示，美国整体消费者物价指数（CPI）环比上升0.65%，同比上升3.7%；核心CPI则环比上升0.33%，同比上升2.6%。核心通胀连续第二个月大幅超过市场预期的0.2%。 能源是推动整体通胀加速的主要因素，受中东供应忧虑影响，汽油价格上涨约9.5%，在65个基点的通胀月度升幅中，贡献了近40个基点。航空燃油成本上升亦带动机票价格通胀上涨1.2%。 然而，瑞银美国经济学家Andrew Dubinsky指出，",
-     "source": "东方财富资讯",
-     "zh": "瑞银“撕报告”：美联储本轮紧缩周期将加息三次 下一次行动在12月"
     },
     {
      "title": "Home BancShares outlines nearly 6% net interest income lift in +100 bps scenario as it targets $0.5B annual profit",
@@ -2416,94 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "U.S. crude oil jumps on big inventory draw, potential shadow fleet sanctions relief"
-    },
-    {
-     "title": "Interactive Brokers outlines $0.60 annual dividend plan while expanding autonomous AI trading rollout",
-     "link": "https://seekingalpha.com/news/4653673-interactive-brokers-outlines-0_60-annual-dividend-plan-while-expanding-autonomous-ai-trading?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 19:37:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Interactive Brokers outlines $0.60 annual dividend plan while expanding autonomous AI trading rollout"
-    },
-    {
-     "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
-     "link": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
-     "pubDate": "Thu, 15 Oct 2026 23:29:00 GMT",
-     "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
-     "source": "MarketWatch",
-     "zh": "Pepsi loses more ground in the soda wars, as KFC switches to Coke"
-    },
-    {
-     "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
-     "link": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
-     "pubDate": "Thu, 15 Oct 2026 23:08:05 GMT",
-     "summary": "Netflix announced Bela Bajaria will be replaced by former Disney exec Peter Rice as the company's chief content officer.",
-     "source": "CNBC",
-     "zh": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice"
-    },
-    {
-     "title": "Anglo American CEO says tech firms showing 'deep interest' in mining stakes - FT",
-     "link": "https://seekingalpha.com/news/4653670-anglo-american-ceo-says-tech-firms-showing-deep-interest-in-mining-stakes---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 18:32:21 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Anglo American CEO says tech firms showing 'deep interest' in mining stakes - FT"
-    },
-    {
-     "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-     "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-     "pubDate": "Thu, 15 Oct 2026 22:31:00 GMT",
-     "summary": "”I earn $110,000 a year.”",
-     "source": "MarketWatch",
-     "zh": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
-    },
-    {
-     "title": "MSCI's downgrade proposal puts Indonesia’s EM status at risk",
-     "link": "https://seekingalpha.com/news/4653667-mscis-downgrade-proposal-puts-indonesias-em-status-at-risk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 15 Oct 2026 18:17:01 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "MSCI's downgrade proposal puts Indonesia’s EM status at risk"
-    },
-    {
-     "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-     "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-     "pubDate": "Thu, 15 Oct 2026 22:15:00 GMT",
-     "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
-     "source": "MarketWatch",
-     "zh": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?"
-    },
-    {
-     "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-     "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
-     "pubDate": "Thu, 15 Oct 2026 21:56:00 GMT",
-     "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
-     "source": "MarketWatch",
-     "zh": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash"
-    },
-    {
-     "title": "Trump says &apos;if Ken Paxton loses&apos; Texas Senate race, blame Cornyn and Karl Rove",
-     "link": "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
-     "pubDate": "Thu, 15 Oct 2026 21:42:14 GMT",
-     "summary": "Polls show GOP Attorney General Ken Paxton trailing Democratic Rep. James Talarico in the Texas Senate race.",
-     "source": "CNBC",
-     "zh": "Trump says &apos;if Ken Paxton loses&apos; Texas Senate race, blame Cornyn and Karl Rove"
-    },
-    {
-     "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-     "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-     "pubDate": "Thu, 15 Oct 2026 21:33:24 GMT",
-     "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
-     "source": "CNBC",
-     "zh": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt"
-    },
-    {
-     "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-     "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-     "pubDate": "Thu, 15 Oct 2026 21:23:00 GMT",
-     "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
-     "source": "MarketWatch",
-     "zh": "Nvidia and other chip stocks face renewed pressure as AI fears swell"
     }
    ]
   },

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 06:29:44",
+ "generated_at": "2026/10/17 06:49:40",
  "recent_days": 7,
  "industries": [
   {
@@ -167,7 +167,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on 12 Verus/Rust tasks acr",
      "source": "arXiv cs.AI",
-     "zh": "当正确性反馈消除证据时：Verus 中的分阶段完整性审计"
+     "zh": "当正确性反馈抹掉证据时：Verus 中的分阶段完整性审计"
     },
     {
      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
@@ -407,7 +407,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 10:03:49 +0100",
      "summary": "The Department of Commerce’s CHIPS Program Office has agreed with GlobalFoundries of Malta, NY (the only US-based pure-play foundry with a global manufacturing footprint) to amend its existing award and reallocate up to $955m in incentives under the US CHIPS and Science Act...",
      "source": "Semiconductor Today",
-     "zh": "GlobalFoundries 的 CHIPS 计划奖项经过修改，以支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
+     "zh": "GlobalFoundries 的 CHIPS 计划奖项修改为支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
     },
     {
      "title": "Infineon and Wolfspeed expand and extend long-term SiC wafer supply agreement to 200mm",
@@ -655,7 +655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 20:42:51 +0000",
      "summary": "Montréal Metropolitan Airport now has 120 EV chargers online, with another 48 on the way as the airport expands. more…",
      "source": "Electrek",
-     "zh": "蒙特利尔机场现有 120 个电动汽车充电器，还有 48 个正在建设中"
+     "zh": "蒙特利尔机场现已拥有 120 个电动汽车充电器，还有 48 个正在建设中"
     },
     {
      "title": "Podcast: The Tesla Roadster episode",
@@ -703,7 +703,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 17:06:03 +0000",
      "summary": "Volkswagen is set to recall “several thousand” electric vehicles, including the ID.4 and ID. Buzz. The company is urging owners to limit charging to 80% until a fix is available. more…",
      "source": "Electrek",
-     "zh": "大众汽车正在召回“数千辆”电动汽车，其中包括 ID.4，而且不仅仅在美国"
+     "zh": "大众汽车正在召回“数千”辆电动汽车，其中包括 ID.4，而且不仅仅在美国"
     },
     {
      "title": "European Car Companies Can't Compete With Chinese Tech. In Paris, They Leaned On 'Heritage' Instead",
@@ -751,7 +751,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:44:30 +0000",
      "summary": "The model is Aiva's first production vehicle since the brand's launch in June, measuring 4,999 mm in length. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "Seres 支持的品牌转向生产，Aiva ME7 出现在监管文件中"
+     "zh": "随着 Seres 支持的品牌转向生产，Aiva ME7 出现在监管文件中"
     },
     {
      "title": "Shangjie Z9 electric SUV appears in regulatory filing as Huawei-SAIC brand readies fourth model",
@@ -775,7 +775,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 12:46:53 +0000",
      "summary": "Tesla execs Lars Moravy and Franz von Holzhausen spilled the beans on Tesla’s most outrageous car ever.",
      "source": "InsideEVs",
-     "zh": "Tesla Roadster 拥有 1,341 马力，续航里程是埃隆·马斯克曾经承诺的一半。这是完整的规格"
+     "zh": "Tesla Roadster 拥有 1,341 马力，续航里程达到埃隆·马斯克曾经承诺的一半。这是完整的规格"
     },
     {
      "title": "Tesla's Roadster can fly, and Nio's William Li admits: 'This we really don't have'",
@@ -887,7 +887,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:00:00 -0500",
      "summary": "A massive wind farm in the state of Victoria, Australia, has been approved by state authorities, paving the way for the project to go to the federal environment minister for final checks. ABC News reports Planning Minister Sonya Kilkenny this week signed off on the Warracknabeal Energy Park, five mo",
      "source": "OilPrice",
-     "zh": "澳大利亚维多利亚州获批建设南半球最大风电场"
+     "zh": "澳大利亚维多利亚州获批的风电场将成为南半球最大的风电场"
     },
     {
      "title": "U.S. Oil Drillers Back Off Even As Prices Soar",
@@ -1039,7 +1039,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
-     "zh": "GES 获得四个西班牙太阳能光伏项目价值 2.52 亿美元的 EPC 合同"
+     "zh": "GES 为四个西班牙太阳能光伏项目获得 2.52 亿美元的 EPC 合同"
     },
     {
      "title": "Chinese PV Industry Brief: Trina Solar expands upstream ties with stake in encapsulation film maker",
@@ -1239,7 +1239,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 12:34:03 +0000",
      "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022…",
      "source": "STAT News",
-     "zh": "观看有关伊丽莎白·霍姆斯的新纪录片之前要读什么"
+     "zh": "在观看有关伊丽莎白·霍姆斯的新纪录片之前要读什么"
     },
     {
      "title": "Next-gen RNAi drugmaker City prices $200M IPO",
@@ -1423,7 +1423,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 03:49:06 +0000",
      "summary": "Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems… The post Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027 appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "碳纤维问题迫使火箭实验室将中子首次亮相推迟至不早于 2027 年"
+     "zh": "碳纤维问题迫使火箭实验室将中子首次亮相推迟到不早于 2027 年"
     },
     {
      "title": "UKSA Taps ClearSpace for Country’s First Debris Removal Mission",
@@ -1519,7 +1519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 13 Oct 2026 14:07:50 +0000",
      "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
      "source": "Spaceflight Now",
-     "zh": "SpaceX 将 NASA 科学和货物发射到国际空间站"
+     "zh": "SpaceX 将 NASA 科学和货物运送到国际空间站"
     },
     {
      "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
@@ -1770,6 +1770,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying \"ChatGPT is better now\"; source: the partnership is still in place (TechCrunch)",
+     "link": "https://www.techmeme.com/261016/p24#a261016p24",
+     "pubDate": "Fri, 16 Oct 2026 18:45:01 -0400",
+     "summary": "TechCrunch : CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying &ldquo;ChatGPT is better now&rdquo;; source: the partnership is still in place &nbsp; &mdash;&nbsp; Replit, the AI coding platform that has become a favorite of startup founders and developers, is no",
+     "source": "Techmeme",
+     "zh": "首席执行官 Amjad Masad 表示 Replit 不再与 Anthropic 合作，理由是成本，并表示“ChatGPT 现在更好了”；来源：合作关系仍然存在（TechCrunch）"
+    },
+    {
      "title": "微软发布 Win11 多预览通道新版更新：更新 XBOX 游戏界面，Windows Hello 自动调节亮度",
      "link": "https://www.ithome.com/1/014/189.htm",
      "pubDate": "Fri, 16 Oct 2026 22:28:40 GMT",
@@ -1813,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Why harnesses matter for energy (and token) efficiency",
      "link": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
      "pubDate": "Fri, 16 Oct 2026 21:01:23 +0000",
-     "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 16 # Comments: 3",
+     "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 20 # Comments: 3",
      "source": "Hacker News",
      "zh": "为什么要利用物质来提高能源（和代币）效率"
     },
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "I never authorized an integration that scans my secrets",
      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
      "pubDate": "Fri, 16 Oct 2026 20:33:41 +0000",
-     "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 112 # Comments: 62",
+     "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 117 # Comments: 70",
      "source": "Hacker News",
      "zh": "我从未授权扫描我的秘密的集成"
     },
@@ -1861,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "FLUX 3 Image Klein",
      "link": "https://bfl.ai/blog/flux-3-image-klein",
      "pubDate": "Fri, 16 Oct 2026 19:47:13 +0000",
-     "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 69 # Comments: 13",
+     "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 73 # Comments: 13",
      "source": "Hacker News",
      "zh": "FLUX 3 图像克莱因"
     },
@@ -1877,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "The Fatal Flaw of 911",
      "link": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
      "pubDate": "Fri, 16 Oct 2026 19:33:00 +0000",
-     "summary": "Article URL: https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health Comments URL: https://news.ycombinator.com/item?id=50123356 Points: 39 # Comments: 53",
+     "summary": "Article URL: https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health Comments URL: https://news.ycombinator.com/item?id=50123356 Points: 41 # Comments: 56",
      "source": "Hacker News",
      "zh": "911的致命缺陷"
     },
@@ -1890,18 +1898,10 @@ window.INDUSTRY_DATA = {
      "zh": "Bug 将雷朋 Meta 智能眼镜最大的担忧之一变成了现实"
     },
     {
-     "title": "Sources: Elon Musk approached Trump with the idea of slowing down Starshield in Ukraine; source: Trump agreed, paving the way for DOD to execute the slowdown (Joe Barnes/Telegraph)",
-     "link": "https://www.techmeme.com/261016/p18#a261016p18",
-     "pubDate": "Fri, 16 Oct 2026 15:05:02 -0400",
-     "summary": "Joe Barnes / Telegraph : Sources: Elon Musk approached Trump with the idea of slowing down Starshield in Ukraine; source: Trump agreed, paving the way for DOD to execute the slowdown &nbsp; &mdash;&nbsp; SpaceX founder had publicly blamed president for chaos over restrictions, but sources say he ini",
-     "source": "Techmeme",
-     "zh": "消息来源：埃隆·马斯克向特朗普提出了放慢乌克兰星盾计划的想法；资料来源：特朗普同意，为国防部实施减速铺平了道路（乔·巴恩斯/电讯报）"
-    },
-    {
      "title": "How the Claude Code team does code review",
      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
      "pubDate": "Fri, 16 Oct 2026 19:04:47 +0000",
-     "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 152 # Comments: 151",
+     "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 165 # Comments: 161",
      "source": "Hacker News",
      "zh": "Claude Code 团队如何进行代码审查"
     },
@@ -1909,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "You could have invented transformers from memory",
      "link": "https://alexwang.ai/posts/associative-memory/",
      "pubDate": "Fri, 16 Oct 2026 19:01:17 +0000",
-     "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 60 # Comments: 8",
+     "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 64 # Comments: 14",
      "source": "Hacker News",
      "zh": "你本可以凭记忆发明变形金刚"
     },
@@ -2151,7 +2151,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 20:04:21 +0000",
      "summary": "The Information reports that PayPal and Epic Games are among the developers concerned that a potential antitrust settlement between Apple and the DOJ might not go far enough in addressing the company’s allegedly anticompetitive practices. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "报告：苹果与司法部的反垄断谈判引发了对和解力度薄弱的担忧"
+     "zh": "报告：苹果与司法部的反垄断谈判引发了对和解协议薄弱的担忧"
     },
     {
      "title": "If you haven't pre-ordered an iPhone Duo yet, you're in for a long, long wait",
@@ -2255,7 +2255,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:00:00 +0000",
      "summary": "Technics' flagship over-ear wireless headphones are light on compromises, but enter a competitive market.",
      "source": "Engadget",
-     "zh": "Technics EAH-A1000 评测：高级套件中的卓越音质和卓越 ANC"
+     "zh": "Technics EAH-A1000 评测：优质套装中的卓越音质和卓越 ANC"
     }
    ]
   },
@@ -2266,44 +2266,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "花旗：交易商调查暗示美国财政部或将减少长债发行",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898817966.html",
-     "pubDate": "Sat, 17 Oct 2026 06:20:57 +0800",
-     "summary": "花旗集团 策略师坚持其预测，认为美国财政部将在下月的季度再融资公告中削减长期国债发行规模。该行表示，上周五向一级交易商发放的调查问卷中的提问显示，财政部官员正在考虑采取此类举措。财政部就长端回购操作以及结构性需求趋势征求交易商意见，以评估“未来对名义附息国债和浮动利率票据拍卖规模的调整”。“我们认为这些问题支持我们的观点，即财政部将在11月4日将20年期和30年期国债的拍卖规模各缩减30亿美元，”亚历杭德拉·巴斯克斯·普拉塔和杰森· 威廉姆斯 在一份致客户的报告中写道。“自上次再融资公告以来长端收益率大幅抛售，以及在提高上限公告后前几轮长端回购操作表现相对疲弱，将促使财政部将长端发行转向短期国",
-     "source": "东方财富股票",
-     "zh": "花旗：交易商调查暗示美国财政部或将减少长债发行"
+     "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，芯片指数八连跌，布油涨破110",
+     "link": "https://wallstreetcn.com/articles/3783778",
+     "pubDate": "Sat, 17 Oct 2026 06:42:43 +0800",
+     "summary": "科技股遭新一轮抛售，AI投资盈利能力的疑虑与油价骤升形成双重压力，美股周五全线下挫。纳指单日重挫2%，芯片股连续第八个交易日收跌，创下2008年以来最长连跌纪录。 周五，纳斯达克100指数收跌2.5%，标普500指数跌1.1%。云计算服务商CoreWeave单日暴跌12%，其债券收益率本周一度突破15%，信用风险攀升至通常预示财务困境的水平。 本周，AI交易的核心矛盾正从算力需求增长转向融资成本、资本开支回报和企业盈利能力。云服务商CoreWeave债务承压，进一步引发市场对AI数据中心建设融资模式的审视；存储芯片、光通信和数据中心设备等此前受益于AI投资热潮的股票，也成为资金减仓的重点。媒体",
+     "source": "华尔街见闻",
+     "zh": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，芯片指数八连跌，布油涨破110"
     },
     {
-     "title": "OpenAI再度挖角SpaceX AI领域核心销售负责人",
-     "link": "http://finance.eastmoney.com/news/1354,202610173898817827.html",
-     "pubDate": "Sat, 17 Oct 2026 06:18:24 +0800",
-     "summary": "OpenAI已正式聘请 SpaceX 旗下的格雷厄姆·西曼斯（Graham Seamans），出任公司 网络安全 业务线的销售负责人，这是OpenAI从埃隆·马斯克旗下AI业务团队挖角人才的最新动作。当前OpenAI正全力推进商业化扩张，一方面大 力拓 展企业客户销售规模，另一方面也在探索广告等全新营收来源，为后续潜在的上市计划铺路。马斯克此前曾对自己参与创立的OpenAI提起诉讼，主张该机构转向营利性模式违背了其面向公众的公益使命，但最终败诉。随后马斯克创立了竞品AI开发企业xAI，并将其与 SpaceX 完成业务合并。 （文章来源：财联社）",
+     "title": "也门胡塞武装再次导弹袭击亚丁 包括民用机场",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898819998.html",
+     "pubDate": "Sat, 17 Oct 2026 06:40:57 +0800",
+     "summary": "也门胡塞武装控制的马西拉电视台16日报道称，该组织对也门临时首都、南部城市亚丁的沙特阿拉伯目标再次发动导弹袭击。国际社会承认的也门政府谴责胡塞武装对亚丁民用 机场 发动袭击。 据马西拉电视台援引胡塞武装军方高层的话报道说，该组织当天对亚丁国际 机场 附近巴德尔军事基地内的“沙特军队指挥部及武器库”发动导弹袭击。报道未提供更多细节。 当天早些时候，一名当地政府安全官员告诉新华社记者，两枚导弹落入亚丁国际 机场 附近，第三枚则击中了位于亚丁西部布赖卡区的一处军事基地，该基地靠近沙特领导的联军指挥部。 新华社报道员在现场附近听到三声剧烈爆炸声，并看见多辆救护车驶向遭袭区域。 也门政府新闻部长穆阿马尔",
      "source": "东方财富股票",
-     "zh": "OpenAI再度挖角SpaceX AI领域核心销售负责人"
+     "zh": "也门胡塞武装再次导弹袭击亚丁 包括民用机场"
     },
     {
-     "title": "出口暴涨近110%！又一中国造，成广交会“顶流”",
-     "link": "http://finance.eastmoney.com/news/1348,202610173898817326.html",
-     "pubDate": "Sat, 17 Oct 2026 06:17:02 +0800",
-     "summary": "海关总署数据显示，2026年上半年，我国 3D打印 机累计出口金额96.11亿元，同比增长109.3%。在第140届广交会上， 3D打印 设备成了“顶流”，吸引了不少采购商咨询、洽谈。 3D打印 设备受采购商青睐 满足用户多样需求 广交会开展第一天，智能制造展区客流密集。3D打印设备企业的展位前，挤满了前来咨询的采购商。来自东南亚、欧洲、中东、拉美等不同国家和地区的采购商，在现场观摩打印过程、对比设备性能。 乌兹别克斯坦采购商表示，鸟翼等打印件的效果令人惊喜，没想到能达到如此精度，材料质感良好，上手体验也很出色。 参展商介绍，本届广交会他们带来了多款入门级和进阶级的产品。这些设备在打印速度、运",
-     "source": "东方财富股票",
-     "zh": "出口暴涨近110%！又一中国造，成广交会“顶流”"
+     "title": "纽约联储调查：服务业提价创2022年来最快，商业活动指数跌至3月来最低",
+     "link": "https://wallstreetcn.com/articles/3783818",
+     "pubDate": "Sat, 17 Oct 2026 06:36:11 +0800",
+     "summary": "服务业价格压力正在重新成为美联储政策路径的核心变量。 纽约联储周五发布的最新商业领袖调查显示，10月服务业企业的销售价格涨幅升至2022年以来最快水平，投入成本涨势依然强劲，供应状况持续恶化。 与此同时，企业对商业前景的悲观情绪明显升温，整体商业活动指数较上月下滑12点至负20.7，创3月以来最弱读数。 上述调查结果与当前居高不下的通胀态势相互印证。受特朗普政府关税政策持续冲击以及中东地区冲突推高能源成本等因素影响，价格压力迟迟未能消退。美联储上月已以通胀为由加息，市场普遍预计年内还将再次行动。 服务业价格压力攀升至近三年高位 根据纽约联储最新商业领袖调查，10月服务业企业的销售价格增速加快至",
+     "source": "华尔街见闻",
+     "zh": "纽约联储调查：服务业提价创2022年来最快，商业活动指数跌至3月来最低"
     },
     {
-     "title": "五部门发布风险提示！",
-     "link": "http://finance.eastmoney.com/news/11790,202610173898817498.html",
-     "pubDate": "Sat, 17 Oct 2026 06:16:54 +0800",
-     "summary": "当前，正处于求职招聘旺季，一些不法分子冒用央国企名义发布虚假招聘信息引流，打着“内部推荐”“直签保录”等幌子，甚至伪造招聘录用材料，诱导求职者支付高额费用，严重侵害求职者合法权益，扰乱人力资源市场秩序。为此，人力资源社会保障部、中央网信办、 教育 部、公安部、国务院国资委等发布风险提示，提醒广大求职者特别是高校毕业生提高风险防范意识，谨防上当受骗。 典型套路 第一步，冒用央国企名义编造虚假招聘信息进行引流。 不法分子通过社交、直播、短视频平台或线上社群、网络论坛、交流社区等，以“央国企就业”“央国企指导”“央国企规划”等噱头假冒专家权威，发布“中国XX集团急招数万人”“不限专业、基本报名就能进",
-     "source": "东方财富股票",
-     "zh": "五部门发布风险提示！"
+     "title": "美国9月进口价格涨幅超预期，核心进口与资本品齐升印证通胀扩散",
+     "link": "https://wallstreetcn.com/articles/3783820",
+     "pubDate": "Sat, 17 Oct 2026 06:35:10 +0800",
+     "summary": "美国9月进口价格涨幅超预期，同比升幅创四年多来最高，与本周早些时候公布的消费者及生产者价格数据共同印证通胀压力正全面扩散。 美国劳工部周五公布数据显示，9月进口价格环比上涨1.1%，高于市场预期的0.8%；截至9月的12个月内，进口价格同比上涨8.1%，创2022年7月以来最大涨幅。能源产品价格反弹是主要推手，资本品、消费品价格亦全线走高。 至此，本周美国通胀数据悉数出炉，消费者价格、生产者价格与进口价格均强于预期，令市场对通胀已超出能源领域、向更广泛经济层面蔓延的判断趋于一致。 尽管如此，金融市场目前仍预期美联储将在本月例会上暂停加息，并于12月重启紧缩。 通胀压力多点爆发，特朗普政策被指是",
+     "source": "华尔街见闻",
+     "zh": "美国9月进口价格涨幅超预期，核心进口与资本品齐升印证通胀扩散"
     },
     {
-     "title": "AMD暗盘跌破530美元 日内跌2.8%",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898817238.html",
-     "pubDate": "Sat, 17 Oct 2026 06:16:52 +0800",
-     "summary": "AMD暗盘跌破530美元，日内跌2.8%。 （文章来源：哈富快讯）",
+     "title": "朝鲜试射新型鱼雷武器系统",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898819725.html",
+     "pubDate": "Sat, 17 Oct 2026 06:34:17 +0800",
+     "summary": "据朝中社17日报道，朝鲜15日进行了新型超高速精确制导鱼雷武器系统“潜－2.0”实弹发射试验。 报道说，朝鲜国防科学院、导弹总局和水雷武器研究局为验证新型鱼雷武器系统的技术更新升级成果，进行了水下试射。 据报道，新型超高速精确制导鱼雷的目标搜索及制导功能采用了 人工智能 技术。 （文章来源：新华社）",
      "source": "东方财富股票",
-     "zh": "AMD暗盘跌破530美元 日内跌2.8%"
+     "zh": "朝鲜试射新型鱼雷武器系统"
+    },
+    {
+     "title": "早读｜《中国禁止出口限制出口技术目录》拟增列40项关键技术",
+     "link": "http://stock.eastmoney.com/news/1406,202610173898819894.html",
+     "pubDate": "Sat, 17 Oct 2026 06:33:51 +0800",
+     "summary": "早上好！上观新闻『早读』来啦！今天是2026年10月17日星期六，农历九月初八。 § 昨日今晨 禁止出口 ｜商务部、科技部16日发布公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，涉及拟增列的 人工智能 、生物医药、光伏三个领域40项关键技术。其中，拟禁止出口技术14项，包括 人工智能 驱动的恶意代码生成与变异技术、具有自主 知识产权 的细胞和基因治疗技术工艺平台、钙钛矿及叠层 电池 组件生产技术等。 XGTK ｜ 全国铁路列车车次将于11月下旬、12月下旬分两批调整，其中新增X字头，主要用于未来最高运行时速350公里以上的复兴号动车组列车。国铁集团运输部相关负责人介绍，X读“新”，",
+     "source": "东方财富股票",
+     "zh": "早读｜《中国禁止出口限制出口技术目录》拟增列40项关键技术"
+    },
+    {
+     "title": "美国天然气暗盘跌破3.4美元，日内跌幅3.8%",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898819556.html",
+     "pubDate": "Sat, 17 Oct 2026 06:32:17 +0800",
+     "summary": "美国 天然气 暗盘跌破3.4美元，日内跌幅3.8%。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "美国天然气暗盘跌破3.4美元，日内跌幅3.8%"
+    },
+    {
+     "title": "Apple’s $1,999 iPhone Duo puts the company&apos;s status-symbol power to the test",
+     "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+     "pubDate": "Fri, 16 Oct 2026 22:31:26 GMT",
+     "summary": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
+     "source": "CNBC",
+     "zh": "苹果售价 1,999 美元的 iPhone Duo 考验了该公司的地位象征力量"
+    },
+    {
+     "title": "美股收盘：三大股指全线收跌，纳指跌超2%；半导体、存储芯片重挫，闪迪、SK海力士跌超6%，Coreweave跌近12%；黄金股普涨；油价大涨",
+     "link": "http://finance.eastmoney.com/news/1356,202610173898819458.html",
+     "pubDate": "Sat, 17 Oct 2026 06:30:01 +0800",
+     "summary": "周五，美国三大股指全线收跌，谷歌、 赛富时 跌超2%，领跌道指。 截至收盘，道指跌0.34%报52002.41点，标普500指数跌1.09%报7659.44点，纳指跌2.15%报26140.03点。本周，道指涨0.67%，标普500指数跌1.95%，纳指跌4.48%。 板块方面，大型科技股多数收跌， 苹果 涨0.43%， 英伟达 跌1.43%， 亚马逊 跌1.87%， 微软 跌1.93%， 特斯拉 跌2.13%，谷歌跌2.47%，脸书跌3.72%。 中概股多数收跌， BOSS直聘 涨2.26%， 贝壳 涨1.35%， 华住 集团涨1.22%， 新东方 涨0.85%， 亚玛芬体育 涨0.25%，",
+     "source": "东方财富股票",
+     "zh": "美股收盘：三大股指全线收跌，纳指跌超2%；半导体、存储芯片重挫，闪迪、SK海力士跌超6%，Coreweave跌近12%；黄金股普涨；油价大涨"
+    },
+    {
+     "title": "布伦特原油暗盘突破106美元 日内涨超3.2%",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898819224.html",
+     "pubDate": "Sat, 17 Oct 2026 06:29:58 +0800",
+     "summary": "布伦特原油暗盘突破106美元，日内涨超3.2%。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "布伦特原油暗盘突破106美元 日内涨超3.2%"
     },
     {
      "title": "Exxon sees higher refining margins adding $4.5B to Q3 earnings",
@@ -2312,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "埃克森美孚预计炼油利润率上升，第三季度收益增加 $4.5B"
-    },
-    {
-     "title": "闪迪暗盘跌超3% 现报1291.85美元",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898817120.html",
-     "pubDate": "Sat, 17 Oct 2026 06:13:52 +0800",
-     "summary": "闪迪 暗盘跌超3%，现报1291.85美元。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "闪迪暗盘跌超3% 现报1291.85美元"
     },
     {
      "title": "致敬科创者丨4.36亿年前的古鱼化石藏着“从鱼到人”的演化秘密",
@@ -2375,7 +2407,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 17:39:13 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "由于近期获利回吐继续，Okta 下跌 10%"
+     "zh": "由于近期获利回吐仍在继续，Okta 下跌 10%"
     },
     {
      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
@@ -2472,38 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
      "source": "Financial Times",
      "zh": "特朗普的新闻秘书凯蒂·扎卡里亚在五天后被解雇"
-    },
-    {
-     "title": "软银ADR单日暴跌近10%，报道称公司正考虑收购美国最大安保公司Allied",
-     "link": "https://wallstreetcn.com/articles/3783814",
-     "pubDate": "Sat, 17 Oct 2026 04:06:21 +0800",
-     "summary": "孙正义押注AI机器人落地，安保行业成为关键试验场。 10月16日，据彭博社援引知情人士透露，软银集团正就收购美国最大安保服务公司Allied Universal展开初步研究。 报道称，本次潜在交易可能给Allied Universal带来最高180亿美元的股权估值。此外，该公司还背负约120亿美元的公开交易债务，综合贷款与债券计算，交易总价值或接近300亿美元。 目前谈判仍处于初步阶段，包括最终价格在内的关键条款均未确定。消息传出后，软银ADR单日暴跌近10%，至每份14.72美元。 安保业务契合机器人落地逻辑 Allied Universal是美国规模最大的安保服务公司，业务覆盖企业驻场安保",
-     "source": "华尔街见闻",
-     "zh": "软银ADR单日暴跌近10%，报道称公司正考虑收购美国最大安保公司Allied"
-    },
-    {
-     "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-     "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-     "pubDate": "Fri, 16 Oct 2026 20:02:21 GMT",
-     "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
-     "source": "CNBC",
-     "zh": "伊朗升级霍尔木兹袭击，布伦特原油触及110美元，乌克兰誓言打击俄罗斯炼油厂"
-    },
-    {
-     "title": "美国2026财年赤字1.99万亿美元，增长12%，利息支出或于2028年超越社保",
-     "link": "https://wallstreetcn.com/articles/3783813",
-     "pubDate": "Sat, 17 Oct 2026 03:57:17 +0800",
-     "summary": "美国联邦财政赤字在2026财年进一步扩大，四年来始终维持在约2万亿美元的高位，债务负担持续加剧，令市场对美国财政可持续性的担忧难以消散。 美国财政部周五公布数据显示， 截至9月的2026财年联邦预算赤字扩大至1.99万亿美元，较上一财年的1.78万亿美元增加约12%。支出增长约6%至7.4万亿美元，收入增长约3%至5.4万亿美元，收支缺口持续拉大。 利息支出首次突破万亿美元门槛，净利息支出增加814亿美元至1.05万亿美元，创历史新高 ，成为本财年赤字扩大的重要推手。 此外，特朗普政府2025年减税法案导致企业所得税收入下降逾700亿美元，进一步削弱财政收入基础。 财政部长贝森特将关税退款列为",
-     "source": "华尔街见闻",
-     "zh": "美国2026财年赤字1.99万亿美元，增长12%，利息支出或于2028年超越社保"
-    },
-    {
-     "title": "Wall Street&apos;s fear gauge is ripping. Traders see it going even higher",
-     "link": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
-     "pubDate": "Fri, 16 Oct 2026 19:28:10 GMT",
-     "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher.",
-     "source": "CNBC",
-     "zh": "华尔街的恐惧指数正在急剧上升。交易员认为价格会更高"
     }
    ]
   },

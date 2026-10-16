@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 02:15:34",
+ "generated_at": "2026/10/17 02:29:48",
  "recent_days": 7,
  "industries": [
   {
@@ -1010,14 +1010,6 @@ window.INDUSTRY_DATA = {
      "zh": "德国综述：Enertrag、Enlight、Vattenfall、Fluence、Giga Storage 总计 3.2GWh 的 4 小时电池已开工建设"
     },
     {
-     "title": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
-     "link": "https://www.utilitydive.com/news/nexteras-4m-trump-ballroom-donation-muddies-debate-over-dominion-merger/833201/",
-     "pubDate": "Fri, 16 Oct 2026 06:28:17 -0400",
-     "summary": "The donation, which advocates called &ldquo;problematic&rdquo; and &ldquo;convenient&rdquo; for the company, comes to light as federal regulators chosen by President Donald Trump consider whether to allow NextEra to merge with Dominion Energy.",
-     "source": "Utility Dive",
-     "zh": "监管机构称 NextEra 的 400 万美元特朗普舞厅捐款搅乱了 Dominion 合并辩论"
-    },
-    {
      "title": "The Hydrogen Stream: P2X starts selling renewable methane to European markets",
      "link": "https://www.pv-magazine.com/2026/10/16/the-hydrogen-stream-p2x-starts-selling-renewable-methane-to-european-markets/",
      "pubDate": "Fri, 16 Oct 2026 10:09:57 +0000",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "Monthly wind generation in the first nine months of 2026 was an average of 68% higher compared with the same period in 2025 in ISO New England (ISO-NE): Monthly generation from wind was highest in September of this year at 668.9 gigawatthours (GWh), more than double generation levels from September ",
      "source": "CleanTechnica",
      "zh": "ISO-NE 每月风力发电量比去年增加约 68%"
+    },
+    {
+     "title": "PJM, ERCOT, and SWPP All Set Peak Load Records This Summer",
+     "link": "https://cleantechnica.com/2026/10/15/pjm-ercot-and-swpp-all-set-peak-load-records-this-summer/",
+     "pubDate": "Fri, 16 Oct 2026 03:25:03 +0000",
+     "summary": "Three regional transmission organizations (RTOs) set records for peak hourly load this past summer, according to data reported on Form EIA-930 and presented in the Hourly Electric Grid Monitor: PJM peaked at 162.6 gigawatts (GW) on July 2, 2026, 1.3% higher than the pre-2026 peak of 160.6 GW on June",
+     "source": "CleanTechnica",
+     "zh": "PJM、ERCOT 和 SWPP 今年夏天均创下峰值负荷记录"
     }
    ]
   },
@@ -1298,20 +1298,20 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
-     "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
-     "link": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
-     "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
-     "summary": "Using data from the James Webb Space Telescope, astronomers have unravelled some of the secrets of a bizarre, blisteringly hot exoplanet that has the consistency of marshmallow.",
-     "source": "Space.com",
-     "zh": "科学家在奇异、灼热的“棉花糖”系外行星的大气中发现了“宝石”"
-    },
-    {
      "title": "How to see the Orionid meteor shower 2026 peak this week — and when to look",
      "link": "https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look",
      "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
      "summary": "The Orionids peak around Oct. 21. Here's when and where to look for the best chance of spotting meteors.",
      "source": "Space.com",
      "zh": "本周如何观看猎户座流星雨 2026 年峰值——以及何时观看"
+    },
+    {
+     "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
+     "link": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
+     "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
+     "summary": "Using data from the James Webb Space Telescope, astronomers have unravelled some of the secrets of a bizarre, blisteringly hot exoplanet that has the consistency of marshmallow.",
+     "source": "Space.com",
+     "zh": "科学家在奇异、灼热的“棉花糖”系外行星的大气中发现了“宝石”"
     },
     {
      "title": "SpaceX thrusters just made a Tesla Roadster 'fly' (and Elon Musk's car is still out there in space)",
@@ -1770,6 +1770,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
+     "link": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
+     "pubDate": "Fri, 16 Oct 2026 18:21:54 +0000",
+     "summary": "Despite Illinois’ sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment–protected activities.",
+     "source": "WIRED",
+     "zh": "芝加哥地区警察帮助 HSI 监视明尼苏达州反 ICE 活动人士"
+    },
+    {
+     "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+     "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+     "pubDate": "Fri, 16 Oct 2026 18:06:17 +0000",
+     "summary": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "eBay 限制无线电设备列表，但仅适用于业余无线电设备"
+    },
+    {
+     "title": "Designing more efficient quantum circuits with Claude",
+     "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+     "pubDate": "Fri, 16 Oct 2026 18:00:18 +0000",
+     "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 9 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "与 Claude 一起设计更高效的量子电路"
+    },
+    {
      "title": "Three CoreWeave co-founders have sold $3.3B in stock since its March 2025 IPO, including $2.4B in 2026 alone; CoreWeave stock fell 60%+ from its June 2025 peak (Dylan Sloan/Bloomberg)",
      "link": "https://www.techmeme.com/261016/p16#a261016p16",
      "pubDate": "Fri, 16 Oct 2026 13:50:01 -0400",
@@ -1797,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
      "pubDate": "Fri, 16 Oct 2026 17:08:38 +0000",
-     "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 72 # Comments: 40",
+     "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 105 # Comments: 74",
      "source": "Hacker News",
      "zh": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上"
     },
@@ -1845,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "JPEG XL vs. AVIF for web use-cases",
      "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
      "pubDate": "Fri, 16 Oct 2026 16:12:02 +0000",
-     "summary": "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 75 # Comments: 53",
+     "summary": "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 87 # Comments: 57",
      "source": "Hacker News",
      "zh": "Web 用例的 JPEG XL 与 AVIF"
     },
@@ -1861,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
      "link": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
      "pubDate": "Fri, 16 Oct 2026 16:03:02 +0000",
-     "summary": "Article URL: https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games Comments URL: https://news.ycombinator.com/item?id=50120101 Points: 97 # Comments: 54",
+     "summary": "Article URL: https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games Comments URL: https://news.ycombinator.com/item?id=50120101 Points: 110 # Comments: 60",
      "source": "Hacker News",
      "zh": "美国众议员宣布国会立法保护视频游戏所有权"
     },
@@ -1880,22 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
      "source": "TechCrunch",
      "zh": "在《你可以看到一切》中，伊丽莎白·霍姆斯遇到了她的喜剧演员内森·菲尔德"
-    },
-    {
-     "title": "Inside Polymarket's paid quote-retweet esports program",
-     "link": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
-     "pubDate": "Fri, 16 Oct 2026 15:56:25 +0000",
-     "summary": "Article URL: https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation Comments URL: https://news.ycombinator.com/item?id=50120010 Points: 66 # Comments: 48",
-     "source": "Hacker News",
-     "zh": "Polymarket 付费报价转发电子竞技项目内部"
-    },
-    {
-     "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-     "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-     "pubDate": "Fri, 16 Oct 2026 15:55:40 +0000",
-     "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 87 # Comments: 21",
-     "source": "Hacker News",
-     "zh": "Postgres 19 因 AI 审阅者发现的错误多于人类可以修复的错误而被推迟"
     },
     {
      "title": "暴雪《暗黑破坏神 V》开启首轮动画拍摄，游戏计划于 2029 年春季发售",
@@ -2000,14 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
      "source": "Ars Technica",
      "zh": "特斯拉转向 50 年前的特技技术，再次尝试 Roadster"
-    },
-    {
-     "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
-     "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
-     "pubDate": "Fri, 16 Oct 2026 14:00:59 +0000",
-     "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
-     "source": "Ars Technica",
-     "zh": "《超级诈骗我》纪录片展示了如何抓住浪漫骗子"
     }
    ]
   },
@@ -2032,6 +2032,14 @@ window.INDUSTRY_DATA = {
      "summary": "YouTube's next big fee might not even come from Google.",
      "source": "Android Authority",
      "zh": "讨厌付费购买 YouTube Premium？想象一下每年支付 240 美元订阅普通 YouTube"
+    },
+    {
+     "title": "ChatGPT gets deeper Google Chrome integration including control over tabs",
+     "link": "https://9to5google.com/2026/10/16/chatgpt-gets-deeper-google-chrome-integration-including-control-over-tabs/",
+     "pubDate": "Fri, 16 Oct 2026 17:50:00 +0000",
+     "summary": "OpenAI this week announced deeper integration between ChatGPT and Google Chrome, including the ability to hand control over your tabs to the AI assistant. more…",
+     "source": "9to5Google",
+     "zh": "ChatGPT 获得更深入的 Google Chrome 集成，包括对选项卡的控制"
     },
     {
      "title": "iOS 27.2 has three new changes just added this week",
@@ -2178,14 +2186,6 @@ window.INDUSTRY_DATA = {
      "zh": "iPhone Duo 的推出取得了巨大成功，但苹果公司遇到了问题"
     },
     {
-     "title": "Google says fix for Android Auto’s missing signal icon is rolling out, and it actually is [U]",
-     "link": "https://9to5google.com/2026/10/16/android-auto-signal-icon-fix/",
-     "pubDate": "Fri, 16 Oct 2026 15:01:50 +0000",
-     "summary": "After weeks of back and forth, Google has officially confirmed a fix is rolling out for Android Auto’s missing signal icon. more…",
-     "source": "9to5Google",
-     "zh": "谷歌表示 Android Auto 信号图标丢失的修复正在推出，实际上是 [U]"
-    },
-    {
      "title": "Best iPhone Duo cases now available for purchase: Fabric, leather, aramid fiber, metal, more",
      "link": "https://9to5mac.com/2026/10/16/best-iphone-duo-cases-now-available-purchase/",
      "pubDate": "Fri, 16 Oct 2026 15:00:36 +0000",
@@ -2266,6 +2266,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Katie Zacharia out as Trump&apos;s White House press secretary",
+     "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+     "pubDate": "Fri, 16 Oct 2026 18:28:23 GMT",
+     "summary": "Zacharia was on shaky ground from her first White House press conference, and over questions about her claims of being a lawyer despite not passing a bar exam.",
+     "source": "CNBC",
+     "zh": "凯蒂·扎卡里亚 (Katie Zacharia) 不再担任特朗普的白宫新闻秘书"
+    },
+    {
+     "title": "Trump’s press secretary Katie Zacharia fired after five days",
+     "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
+     "pubDate": "Fri, 16 Oct 2026 18:23:09 GMT",
+     "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
+     "source": "Financial Times",
+     "zh": "特朗普的新闻秘书凯蒂·扎卡里亚在五天后被解雇"
+    },
+    {
+     "title": "Ambarella may be seeing interest from a third bidder - report",
+     "link": "https://seekingalpha.com/news/4653954-ambarella-may-be-seeing-interest-from-a-third-bidder---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 14:20:10 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "安霸可能会看到第三位竞标者的兴趣 - 报告"
+    },
+    {
+     "title": "美股三大指数集体走低 纳指跌超2% 标普500跌超1% 存储与半导体板块下挫",
+     "link": "http://finance.eastmoney.com/news/1345,202610163898640489.html",
+     "pubDate": "Sat, 17 Oct 2026 02:15:43 +0800",
+     "summary": "美东时间周五，美股三大指数走低，截至发稿，道指跌0.42%，纳指跌2.06%，标普500指数跌1.10%。 存储与 半导体 板块下挫，截至发稿，费城 半导体 指数跌近3%。个股方面， SK海力士 、 希捷科技 跌超5.5%，ARM跌超5%， 超威半导体 、 英特尔 跌近5%， 闪迪 、 西部数据 跌近5%， 美光科技 跌超4%， 博通 跌近4%， 拉姆研究 跌超3.5%， 台积电 跌超2%。 油价涨势扩大，截至发稿，美国原油 期货 涨幅超2%。 全球要闻 美联储主席沃什：“AI红利”势必伴随阵痛 坚守价格稳定但不“预判”！ 美联储主席凯文·沃什周五表示， 人工智能 （AI）很可能是他有生之年所",
+     "source": "东方财富股票",
+     "zh": "美股三大指数集体走低 纳指跌超2% 标普500跌超1% 存储与半导体板块下挫"
+    },
+    {
+     "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
+     "link": "https://wallstreetcn.com/articles/3783778",
+     "pubDate": "Sat, 17 Oct 2026 02:15:09 +0800",
+     "summary": "AI投资热潮的融资风险与盈利兑现压力持续发酵，周五全球市场延续震荡。 美股三大股指开盘涨跌不一，随后盘中集体转跌，纳指跌幅一度超过2%，费城半导体指数延续跌势；投资者担忧，AI基础设施建设的巨额投入与债务融资，可能难以迅速转化为足够的利润。周五亚市交易时段，美联储主沃什的讲话并未强化市场对10月联储加息的预期，但通胀压力、油价高企和美债收益率回升仍制约风险偏好。 本周，AI交易的核心矛盾正从算力需求增长转向融资成本、资本开支回报和企业盈利能力。云服务商CoreWeave债务承压，进一步引发市场对AI数据中心建设融资模式的审视；存储芯片、光通信和数据中心设备等此前受益于AI投资热潮的股票，也成为",
+     "source": "华尔街见闻",
+     "zh": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌"
+    },
+    {
+     "title": "Nasdaq plunges 2% and these 15 names have led the downward decline",
+     "link": "https://seekingalpha.com/news/4653953-nasdaq-plunges-2-and-these-15-names-have-led-the-downward-decline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 14:15:03 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "纳斯达克暴跌2% 这15家公司领跌"
+    },
+    {
+     "title": "Victoria's Secret is still in the early innings of a multi-year turnaround - Needham",
+     "link": "https://seekingalpha.com/news/4653950-victorias-secret-is-still-in-the-early-innings-of-a-multi-year-turnaround---needham?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 14:15:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "维多利亚的秘密仍处于多年扭亏为盈的早期阶段 - Needham"
+    },
+    {
      "title": "两党联手阻击特朗普松绑俄柴油协议！众院议案拟撤销豁免、强制制裁，布油盘中涨超3%",
      "link": "https://wallstreetcn.com/articles/3783812",
      "pubDate": "Sat, 17 Oct 2026 02:12:40 +0800",
@@ -2282,12 +2338,44 @@ window.INDUSTRY_DATA = {
      "zh": "战略油储逼近纪录低位还要再动用！美国拟提供最多1700万桶原油"
     },
     {
+     "title": "世卫组织：沙特通报8例中东呼吸综合征病例",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898789953.html",
+     "pubDate": "Sat, 17 Oct 2026 02:08:59 +0800",
+     "summary": "世界卫生组织16日表示，2026年1月1日至10月5日期间，沙特阿拉伯报告了8例实验室确诊的中东呼吸 综合 征冠状病毒感染病例，其中1例死亡。 世卫组织表示，8例病例分布在6个地点，所有病例之间均未发现流行病学关联。2例病例报告曾与骆驼直接接触，而6例报告无已知的骆驼接触史。这些病例似乎代表了与人畜共患病溢出相关的散发感染，而非单一的疫情聚集性暴发。沙特卫生部门已对所有确诊病例进行密切接触者追踪；迄今为止，尚未发现继发病例。 世卫组织指出，沙特阿拉伯最近报告的病例并未改变世卫组织的总体风险评估，即无论在区域层面还是全球层面，风险仍然处于中等水平。 中东呼吸 综合 征是一种呼吸道感染疾病，由中东",
+     "source": "东方财富股票",
+     "zh": "世卫组织：沙特通报8例中东呼吸综合征病例"
+    },
+    {
+     "title": "泽连斯基再赴欧盟要钱、要导弹 欧洲各国面露难色",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898789712.html",
+     "pubDate": "Sat, 17 Oct 2026 02:05:18 +0800",
+     "summary": "当地时间周五，乌克兰总统泽连斯基亮相欧盟总部，对着一众欧洲领导人提出一系列援助请求。 综合 央视新闻等媒体报道和泽连斯基讲话稿，其主要诉求包括： 为2027年争取至少额外700亿欧元资金支持 ，紧急获得 300枚“爱国者”防空系统拦截弹 以应对冬季袭击，同时推动欧盟确保被冻结的俄罗斯资产能够实际用于支持乌克兰。 泽连斯基说道：“ 明年，这场战争将耗费1550亿欧元。我们还需要至少700亿欧元的额外资金，用于国防、武器以及增强我们的韧性。这是一个现实的数字。 ” 乌克兰总统举例称， 无人机 在这场战争中发挥着重要作用，乌克兰目前有能力将 无人机 产量提高至现有水平的两至三倍，但缺乏足够资金来实现",
+     "source": "东方财富股票",
+     "zh": "泽连斯基再赴欧盟要钱、要导弹 欧洲各国面露难色"
+    },
+    {
      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America&apos;s biggest economic challenge",
      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
      "pubDate": "Fri, 16 Oct 2026 18:04:20 GMT",
      "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
      "source": "CNBC",
      "zh": "分析：为什么2万亿美元的赤字和5%的国债收益率正在成为美国最大的经济挑战"
+    },
+    {
+     "title": "人工智能与产业深度融合提速 新质生产力蓬勃生长",
+     "link": "http://finance.eastmoney.com/news/1354,202610173898790162.html",
+     "pubDate": "Sat, 17 Oct 2026 02:04:20 +0800",
+     "summary": "近日，中共中央、国务院印发《关于发展新质生产力的意见》（以下简称《意见》），部署“大力推进科技创新”“推动科技创新和产业创新深度融合”“着力推进发展方式创新”“扎实推进体制机制创新”“深化人才工作机制创新”五大任务。 《意见》在“推动科技创新和产业创新深度融合”部分，突出强调“全面实施‘ 人工智能 +’行动”。 对此，国家发展改革委人士答记者问时提到，突出强调“全面实施‘ 人工智能 +’行动”，是为了发挥我国产业体系完备、市场规模巨大、应用场景丰富等优势，以实际应用加速 人工智能 技术不断向上生长，形成以创新带应用、以应用促创新的良性循环；为了推动人工智能与实体经济深度融合，助力传统产业改造升",
+     "source": "东方财富股票",
+     "zh": "人工智能与产业深度融合提速 新质生产力蓬勃生长"
+    },
+    {
+     "title": "据洲际交易所数据 截至10月13日当周 布伦特原油投机者净多头头寸增加31,977手至233,029手",
+     "link": "http://finance.eastmoney.com/news/1356,202610173898789828.html",
+     "pubDate": "Sat, 17 Oct 2026 02:04:19 +0800",
+     "summary": "据 洲际交易所 数据，截至10月13日当周，布伦特原油投机者净多头头寸增加31,977手至233,029手。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "据洲际交易所数据 截至10月13日当周 布伦特原油投机者净多头头寸增加31,977手至233,029手"
     },
     {
      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
@@ -2325,7 +2413,7 @@ window.INDUSTRY_DATA = {
      "title": "The U.S. budget deficit just hit almost $2 trillion — and Washington isn’t doing much about it",
      "link": "https://www.marketwatch.com/story/the-u-s-budget-deficit-just-hit-almost-2-trillion-and-washington-isnt-doing-much-about-it-a1b5c4ea?mod=mw_rss_topstories",
      "pubDate": "Fri, 16 Oct 2026 18:00:00 GMT",
-     "summary": "",
+     "summary": "The deficit figure is the largest since 2021 and amounts to an estimated 6.2% of U.S. gross domestic product.",
      "source": "MarketWatch",
      "zh": "美国预算赤字刚刚达到近 2 万亿美元，而华盛顿却没有采取太多措施"
     },
@@ -2344,14 +2432,6 @@ window.INDUSTRY_DATA = {
      "summary": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map.",
      "source": "CNBC",
      "zh": "为什么特朗普和共和党的数十亿美元中期闪电战没有奏效"
-    },
-    {
-     "title": "Katie Zacharia out as Trump&apos;s White House press secretary: Reports",
-     "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-     "pubDate": "Fri, 16 Oct 2026 17:54:08 GMT",
-     "summary": "Trump made the remarks about Zacharia before heading to Georgia for a rally aimed at boosting Republicans in the final days before the midterm elections.",
-     "source": "CNBC",
-     "zh": "凯蒂·扎卡里亚 (Katie Zacharia) 不再担任特朗普的白宫新闻秘书：报道"
     },
     {
      "title": "前三季度动力电池装车量同比增长16.7% 上游材料将迎来结构性影响",
@@ -2394,76 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "李强主持召开国务院常务会议"
     },
     {
-     "title": "分析师热评“会飞的特斯拉”：工程技术实力惊艳世界 但商业价值可能有限",
-     "link": "http://stock.eastmoney.com/news/11228,202610173898787213.html",
-     "pubDate": "Sat, 17 Oct 2026 01:46:39 +0800",
-     "summary": "特斯拉 当地时间周四晚间在得克萨斯州发布了新一代Roadster跑车，上演了令人惊叹的“腾空翻转”等高难度动作，并展示了飞行能力。不过，多位分析师认为，这款车型短期内不太可能为 特斯拉 带来可观的收入。 周五盘前，受发布活动引发的市场热度推动， 特斯拉 股价一度上涨逾5%，不过，盘中转为下跌近3%。 汇丰 银行 高级全球 汽车 行业分析师Michael Tyndall评论称，这次亮相更多是一次工程实力的展示，而非盈利能力的证明，消费者距离拿到新车仍需等待一段时间。 给予特斯拉“中性”评级的 摩根大通 分析师Rajat Gupta表示，新款Roadster展现了特斯拉与 SpaceX 之间的深度",
-     "source": "东方财富股票",
-     "zh": "分析师热评“会飞的特斯拉”：工程技术实力惊艳世界 但商业价值可能有限"
-    },
-    {
      "title": "American Airlines Q3 preview: What guidance says about fuel-cost risks",
      "link": "https://seekingalpha.com/news/4653937-american-airlines-q3-preview-what-guidance-says-about-fuel-cost-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 16 Oct 2026 13:45:40 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "美国航空第三季度预览：关于燃油成本风险的指导意见如何"
-    },
-    {
-     "title": "CoreWeave leads AI-related stocks lower during Friday free fall",
-     "link": "https://seekingalpha.com/news/4653944-coreweave-leads-ai-related-stocks-lower-during-friday-free-fall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 13:44:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CoreWeave 在周五自由落体期间引领人工智能相关股票走低"
-    },
-    {
-     "title": "Meta Muse continues to see increased adoption, though overall rates are low: BNP",
-     "link": "https://seekingalpha.com/news/4653949-meta-muse-continues-to-see-increased-adoption-though-overall-rates-are-low-bnp?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 13:42:46 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BNP 表示，尽管总体使用率较低，但 Meta Muse 的采用率继续上升"
-    },
-    {
-     "title": "加拿大工业部长称正探索将Stelco国有化",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898785462.html",
-     "pubDate": "Sat, 17 Oct 2026 01:42:26 +0800",
-     "summary": "加拿大工业部长：加拿大正探索《加拿大投资法》下的所有选项，以考虑将Stelco国有化。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "加拿大工业部长称正探索将Stelco国有化"
-    },
-    {
-     "title": "伊朗外交部：愿帮助解决沙特与也门冲突",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898785327.html",
-     "pubDate": "Sat, 17 Oct 2026 01:42:23 +0800",
-     "summary": "伊朗外交部发言人：愿意帮助解决沙特和也门之间的冲突。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗外交部：愿帮助解决沙特与也门冲突"
-    },
-    {
-     "title": "Trump urges his new press secretary to ‘reconsider’ the role",
-     "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-     "pubDate": "Fri, 16 Oct 2026 17:41:27 GMT",
-     "summary": "President’s comments come after Katie Zacharia’s performance in her first news briefing was widely panned",
-     "source": "Financial Times",
-     "zh": "特朗普敦促新任新闻秘书“重新考虑”这一角色"
-    },
-    {
-     "title": "美总统特朗普重启美黎直飞航班的计划遇阻",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898785241.html",
-     "pubDate": "Sat, 17 Oct 2026 01:40:57 +0800",
-     "summary": "当地时间10月16日，一份报告摘要显示，联合国航空机构认定黎巴嫩的主要 机场 缺乏有效认证。 美国总统特朗普7月宣布恢复美黎（贝鲁特）直飞航班的计划，并于9月签署行政令，允许美国政府开通从美国直飞黎巴嫩的航班。此前，环球航空（TWA）847号航班于1985年遭劫持并被迫降落在贝鲁特，导致该航线停飞。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "美总统特朗普重启美黎直飞航班的计划遇阻"
-    },
-    {
-     "title": "白宫新闻秘书扎卡里亚周五被解雇",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898785172.html",
-     "pubDate": "Sat, 17 Oct 2026 01:37:09 +0800",
-     "summary": "美国白宫新闻秘书扎卡里亚已于周五被解雇。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "白宫新闻秘书扎卡里亚周五被解雇"
     },
     {
      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
@@ -2474,36 +2490,20 @@ window.INDUSTRY_DATA = {
      "zh": "我今年 63 岁，被诊断患有淋巴瘤。我明年应该领取社会保障吗？"
     },
     {
-     "title": "南非等20国外长联合谴责哥伦比亚在耶路撒冷设立大使馆",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898784914.html",
-     "pubDate": "Sat, 17 Oct 2026 01:33:56 +0800",
-     "summary": "当地时间10月16日，南非国际关系与合作部发表联合声明称，南非与埃及、巴勒斯坦、土耳其、沙特阿拉伯、卡塔尔、约旦、印度尼西亚、马来西亚、巴基斯坦等共20个国家的外长，强烈谴责并明确反对哥伦比亚在耶路撒冷举行大使馆启用仪式。 声明指出，哥伦比亚此举违反联合国安理会有关决议，损害国际社会推动以“两国方案”为基础实现公正、持久和平的努力。 声明重申，任何试图改变被占领耶路撒冷法律或历史地位，或承认其为以色列首都的措施和决定，均属无效，不具有任何法律效力。这一立场符合联合国安理会和联合国大会相关决议，特别是安理会第476号和第478号决议。有关决议反对改变耶路撒冷的性质和地位，并呼吁各国将外交使团撤出",
-     "source": "东方财富股票",
-     "zh": "南非等20国外长联合谴责哥伦比亚在耶路撒冷设立大使馆"
-    },
-    {
-     "title": "Microsoft is the only hyperscaler not forecast to dip into negative FCF in the next year",
-     "link": "https://seekingalpha.com/news/4653946-microsoft-is-the-only-hyperscaler-not-forecast-to-dip-into-negative-fcf-in-the-next-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 13:29:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "微软是唯一一家预计明年不会陷入负自由现金流的超大规模企业"
-    },
-    {
-     "title": "美股三大指数集体走低 纳指跌超2% 标普500跌超1% 存储与半导体板块下挫",
-     "link": "http://finance.eastmoney.com/news/1345,202610163898640489.html",
-     "pubDate": "Sat, 17 Oct 2026 01:21:43 +0800",
-     "summary": "美东时间周五，美股三大指数走低，截至发稿，道指跌0.42%，纳指跌2.06%，标普500指数跌1.10%。 存储与 半导体 板块下挫，截至发稿，费城 半导体 指数跌近3%。个股方面， SK海力士 、 希捷科技 跌超5.5%，ARM跌超5%， 超威半导体 、 英特尔 跌近5%， 闪迪 、 西部数据 跌近5%， 美光科技 跌超4%， 博通 跌近4%， 拉姆研究 跌超3.5%， 台积电 跌超2%。 油价涨势扩大，截至发稿，美国原油 期货 突破每桶100美元，涨幅超2%。 全球要闻 美联储主席沃什：“AI红利”势必伴随阵痛 坚守价格稳定但不“预判”！ 美联储主席凯文·沃什周五表示， 人工智能 （AI）",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体走低 纳指跌超2% 标普500跌超1% 存储与半导体板块下挫"
-    },
-    {
      "title": "Here’s how the Fed should reveal its outlook for the economy",
      "link": "https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories",
      "pubDate": "Fri, 16 Oct 2026 17:07:00 GMT",
      "summary": "As Chairman Kevin Warsh looks to revamp the central bank’s communication strategy, the dot plot is ripe for change.",
      "source": "MarketWatch",
      "zh": "美联储应如何揭示经济前景"
+    },
+    {
+     "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+     "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+     "pubDate": "Fri, 16 Oct 2026 16:46:18 GMT",
+     "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+     "source": "CNBC",
+     "zh": "官员称，美国在曼谷双边会谈中就万事达卡和花旗集团的市场准入问题向中国施压"
     }
    ]
   },

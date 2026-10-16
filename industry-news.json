@@ -948,17 +948,9 @@
      "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
      "link": "https://www.utilitydive.com/news/utilities-need-ai-solve-grid-backlogs-aws-energy-lead-head/832816/",
      "pubDate": "Thu, 15 Oct 2026 12:00:00 -0400",
-     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities, Joseph Santamaria.",
+     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities&nbsp;Joseph Santamaria.",
      "source": "Utility Dive",
      "zh": "公用事业公司可以使用人工智能来解决电网积压问题：AWS 能源领先者"
-    },
-    {
-     "title": "Solar imports from India, Indonesia, Laos injured US manufacturers: ITC",
-     "link": "https://www.utilitydive.com/news/itc-material-injury-solar-imports-india-indonesia-laos/833127/",
-     "pubDate": "Thu, 15 Oct 2026 11:52:32 -0400",
-     "summary": "The decision clears the way for the Department of Commerce to finalize anti-dumping and countervailing duty orders on&nbsp;crystalline silicon photovoltaic cells from the three countries.",
-     "source": "Utility Dive",
-     "zh": "ITC：从印度、印度尼西亚、老挝进口的太阳能产品损害了美国制造商的利益"
     },
     {
      "title": "Farming’s Nitrogen Future Will Be Built From Several Technologies, Not One",
@@ -1036,7 +1028,7 @@
      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption",
      "link": "https://www.utilitydive.com/news/reliability-standards-ai-data-centers-crypto-miners-pass-final-nerc-ba/833094/",
      "pubDate": "Thu, 15 Oct 2026 09:28:37 -0400",
-     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more connected at voltage levels of at least 100 kV.",
+     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more, connected at voltage levels of at least 100 kV.",
      "source": "Utility Dive",
      "zh": "人工智能数据中心的可靠性标准，加密矿工更接近采用"
     },
@@ -1087,6 +1079,14 @@
      "summary": "Aligned Climate Capital and Nexamp have secured finance for their respective community solar portfolios in the US.",
      "source": "PV Tech",
      "zh": "Align Climate Capital 和 Nexamp 为社区太阳能项目提供融资"
+    },
+    {
+     "title": "Nightpeak Energy doubles Texas BESS site to 300MW",
+     "link": "https://www.energy-storage.news/nightpeak-energy-doubles-texas-bess-site-to-300mw/",
+     "pubDate": "Thu, 15 Oct 2026 11:34:30 +0000",
+     "summary": "Energy storage owner-operator Nightpeak Energy has reached financial close and commercial operation on its 150MW/300MWh Bocanova 2 battery storage project in Brazoria County, Southeast Texas.",
+     "source": "Energy Storage News",
+     "zh": "Nightpeak Energy 将德克萨斯州 BESS 站点容量翻倍至 300MW"
     }
    ]
   },

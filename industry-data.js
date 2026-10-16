@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/16 19:29:39",
+ "generated_at": "2026/10/16 19:35:18",
  "recent_days": 7,
  "industries": [
   {
@@ -63,7 +63,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on 12 Verus/Rust tasks acr",
      "source": "arXiv cs.AI",
-     "zh": "当正确性反馈消除证据时：Verus 中的分阶段完整性审计"
+     "zh": "当正确性反馈抹掉证据时：Verus 中的分阶段完整性审计"
     },
     {
      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
@@ -151,7 +151,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
      "source": "TechCrunch AI",
-     "zh": "当 Cal AI 取得病毒般的成功时，一小群有影响力的人得到了回报"
+     "zh": "当加州人工智能病毒式成功时，一小群有影响力的人得到了回报"
     },
     {
      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
@@ -218,14 +218,6 @@ window.INDUSTRY_DATA = {
      "zh": "使用 TechCrunch 创始人峰会通行证节省高达 200 美元的最后机会：提前预订将于 10 月 16 日截止"
     },
     {
-     "title": "Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know",
-     "link": "https://www.kdnuggets.com/2026/10/abacus/abacus-ai-review-criticisms-facts-what-users-should-know",
-     "pubDate": "Thu, 15 Oct 2026 17:00:59 +0000",
-     "summary": "This review highlights the main critiques of Abacus AI, its price, user reviews, reliability of workflows, and real-life use cases to assist you in evaluating its advantages and disadvantages.",
-     "source": "KDnuggets",
-     "zh": "Abacus AI 诚实评论：主要批评、事实以及用户应该知道的内容"
-    },
-    {
      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
      "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the workflows that matter",
      "source": "MarkTechPost",
      "zh": "CopilotKit 发布 CLiF：一个持续学习平台，可将代理跟踪和用户操作转化为技能、评估和微调数据"
+    },
+    {
+     "title": "OpenRouter周榜全球第二，这个国产模型终于开源了",
+     "link": "https://zhidx.com/p/601405.html",
+     "pubDate": "Thu, 15 Oct 2026 21:25:15 +0800",
+     "summary": "智东西10月15日报道，刚刚， 一款刚登上OpenRouter Token全球使用量周榜第二的大模型，开源了！ 阶跃星辰正式开放 Step 5 Preview 的模型权重，BF16、FP8两个版本同步上线HuggingFace和ModelScope。 Hugging Face：https://huggingface.co/stepfun-ai/Step-5-Preview ModelScope：https://modelscope.cn/models/stepfun-ai/Step-5-Preview Step 5 Preview采用稀疏MoE架构， 总参数量600B、激活参数仅27B ，支持",
+     "source": "智东西",
+     "zh": "OpenRouter周榜全球第二，这个国产模型终于开源了"
     }
    ]
   },
@@ -258,12 +258,36 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
+     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/a-v-cuk-group-adds-auracast-assistive-listening-technology-to-portfolio-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 11:12:17 +0000",
+     "summary": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
+     "source": "Electronics Weekly",
+     "zh": "音视频：CUK 集团将 Auracast 辅助听力技术添加到产品组合中"
+    },
+    {
      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
      "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
      "pubDate": "Fri, 16 Oct 2026 10:55:42 +0000",
      "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times .",
      "source": "EE Times",
      "zh": "台湾的人工智能野心遭遇人才缺口"
+    },
+    {
+     "title": "R&S extends amplifier range for satellite use",
+     "link": "https://www.electronicsweekly.com/news/rs-extends-amplifier-range-for-satellite-use-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 10:54:42 +0000",
+     "summary": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "R&S 扩展了卫星用途的放大器范围"
+    },
+    {
+     "title": "Raltron monolithic crystal filter series for gateway ground stations",
+     "link": "https://www.electronicsweekly.com/news/products/raltron-monolithic-crystal-filter-series-for-gateway-ground-stations-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 10:20:32 +0000",
+     "summary": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
+     "source": "Electronics Weekly",
+     "zh": "用于网关地面站的 Raltron 单片晶体滤波器系列"
     },
     {
      "title": "Data services the growth engine for Satellite Connectivity revenue – Novaspace",
@@ -303,7 +327,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 10:03:49 +0100",
      "summary": "The Department of Commerce’s CHIPS Program Office has agreed with GlobalFoundries of Malta, NY (the only US-based pure-play foundry with a global manufacturing footprint) to amend its existing award and reallocate up to $955m in incentives under the US CHIPS and Science Act...",
      "source": "Semiconductor Today",
-     "zh": "GlobalFoundries 的 CHIPS 计划奖项经过修改，以支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
+     "zh": "GlobalFoundries 的 CHIPS 计划奖项修改为支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
     },
     {
      "title": "Infineon and Wolfspeed expand and extend long-term SiC wafer supply agreement to 200mm",
@@ -376,30 +400,6 @@ window.INDUSTRY_DATA = {
      "summary": "IonQ, the Maryland manufacturer of general purpose quantum computers based on trapped ion technology, and Cambridge University’s Cavendish Lab have opened the IonQ Quantum Innovation Centre at the Ray Dolby […] The post IonQ and Cavendish Lab open Quantum innovation Centre appeared first on Electron",
      "source": "Electronics Weekly",
      "zh": "IonQ 和卡文迪什实验室开设量子创新中心"
-    },
-    {
-     "title": "Infineon and Wolfspeed hook up on SiC wafers",
-     "link": "https://www.electronicsweekly.com/news/business/infineon-and-wolfspeed-hook-up-on-sic-wafers-uh-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 05:14:50 +0000",
-     "summary": "Infineon and Wolfspeed have signed a new multi-year supply agreement for 200mm SiC wafers to take over from 150 mm wafers “Silicon carbide is at the heart of the energy […] The post Infineon and Wolfspeed hook up on SiC wafers appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "英飞凌与 Wolfspeed 合作开发 SiC 晶圆"
-    },
-    {
-     "title": "Altair Semi to add Iridium direct phone signals to cellular  chipsets",
-     "link": "https://www.electronicsweekly.com/news/business/altair-semi-to-add-iridium-direct-phone-signals-to-iot-chipsets-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 05:14:46 +0000",
-     "summary": "Altair Semiconductor is integrating Iridium NTN Direct capability into Altair’s ALT1350 and next-generation ALT1550 IoT chipsets.With terrestrial cellular IoT and Iridium satellite connectivity on a single chipset, device manufacturers, module […] The post Altair Semi to add Iridium direct phone sig",
-     "source": "Electronics Weekly",
-     "zh": "Altair Semi 将为蜂窝芯片组添加铱星直接电话信号"
-    },
-    {
-     "title": "Datacentre installation growth rate slowed by opposition",
-     "link": "https://www.electronicsweekly.com/news/business/datacentre-infrastructure-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 05:06:39 +0000",
-     "summary": "The Q2 Data Center Physical Infrastructure (DCPI) market grew 27% YoY to $14 billion in manufacturer revenue, says Dell’Oro. The quarter extended the market’s run of growth above 20%, as […] The post Datacentre installation growth rate slowed by opposition appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "数据中心安装增速因反对而放缓"
     },
     {
      "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "China’s Sufficient Gas Stocks Could Ease Winter Supply Concerns",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Sufficient-Gas-Stocks-Could-Ease-Winter-Supply-Concerns.html",
+     "pubDate": "Fri, 16 Oct 2026 06:30:00 -0500",
+     "summary": "Chinese LNG buyers acted early to build gas stockpiles amid the Iran war, helping the world’s top LNG importer stock up enough inventories ahead of the winter, industry analysts have told Bloomberg. As of the end of September, China’s underground gas storage was 80% full, according to Rystad Energy’",
+     "source": "OilPrice",
+     "zh": "中国天然气库存充足可缓解冬季供应担忧"
+    },
+    {
      "title": "German industry groups oppose proposed solar prosumer grid surcharge",
      "link": "https://www.pv-tech.org/german-industry-groups-oppose-proposed-solar-prosumer-grid-surcharge/",
      "pubDate": "Fri, 16 Oct 2026 11:28:12 +0000",
@@ -895,7 +903,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
-     "zh": "GES 获得四个西班牙太阳能光伏项目价值 2.52 亿美元的 EPC 合同"
+     "zh": "GES 为四个西班牙太阳能光伏项目获得 2.52 亿美元的 EPC 合同"
     },
     {
      "title": "India Slashes Diesel Export Tax as Global Fuel Crunch Deepens",
@@ -935,7 +943,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 09:04:46 +0000",
      "summary": "Acciona, GenusPlus and UGL Engineering have been selected to deliver Stage 1 of Clean Energy Link – East (CEL-East), a transmission project in Western Australia.",
      "source": "PV Tech",
-     "zh": "西澳大利亚指定清洁能源链接——东部承包商将开发 2.3GW 太阳能和风能"
+     "zh": "西澳大利亚指定清洁能源链接——东部承包商将释放 2.3GW 太阳能和风能"
     },
     {
      "title": "Electrifying everything",
@@ -1034,14 +1042,6 @@ window.INDUSTRY_DATA = {
      "zh": "PJM、ERCOT 和 SWPP 今年夏天均创下峰值负荷记录"
     },
     {
-     "title": "WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying",
-     "link": "https://oilprice.com/Energy/Energy-General/WTI-Outpaces-Brent-as-US-Crude-Draw-Ignites-Fresh-Buying.html",
-     "pubDate": "Thu, 15 Oct 2026 22:10:00 -0500",
-     "summary": "Crude Oil Rallies as U.S. Inventory Draw Outruns Supply Relief November WTI crude oil futures are up sharply for the week through Thursday night. The gain did not come from one headline. The market has spent the week dealing with tanker attacks near the Strait of Hormuz, renewed attacks on Russian r",
-     "source": "OilPrice",
-     "zh": "由于美国原油供应引发新的买盘，WTI 价格超过布伦特原油"
-    },
-    {
      "title": "Waymo Opens To Everyone In San Antonio, San Diego, & Tampa",
      "link": "https://cleantechnica.com/2026/10/15/waymo-opens-to-everyone-in-san-antonio-san-diego-tampa/",
      "pubDate": "Fri, 16 Oct 2026 02:46:45 +0000",
@@ -1135,7 +1135,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 10:17:21 +0000",
      "summary": "City Therapeutics will be the 26th biotech to complete an initial public offering in 2026 when it begins trading Friday morning, adding to a boisterous rebound in industry listings. The Kendall Square-based drug developer priced ...",
      "source": "Endpoints News",
-     "zh": "City Therapeutics 在 RNAi 领域打造 Alnylam 2.0，完成 2 亿美元 IPO"
+     "zh": "City Therapeutics 在 RNAi 领域打造 Alnylam 2.0，获得 2 亿美元的 IPO"
     },
     {
      "title": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall",
@@ -1191,7 +1191,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:58:35 +0000",
      "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
      "source": "STAT News",
-     "zh": "在最初的癌症疫苗取得成功后，默克和 Moderna 仍有“大量探索要做”"
+     "zh": "在癌症疫苗初步成功后，默克和 Moderna 仍有“大量探索要做”"
     },
     {
      "title": "CDC page supporting Covid vaccines for pregnancy went dark",
@@ -1335,7 +1335,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 03:49:06 +0000",
      "summary": "Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems… The post Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027 appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "碳纤维问题迫使火箭实验室将中子首次亮相推迟至不早于 2027 年"
+     "zh": "碳纤维问题迫使火箭实验室将中子首次亮相推迟到不早于 2027 年"
     },
     {
      "title": "UKSA Taps ClearSpace for Country’s First Debris Removal Mission",
@@ -1375,7 +1375,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:13:26 +0000",
      "summary": "On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn",
      "source": "Space.com",
-     "zh": "在太空的这一天！ 1997 年 10 月 15 日：美国宇航局 (NASA) 发射卡西尼-休金斯探测器，开始为期 7 年的土星之旅"
+     "zh": "在太空的这一天！ 1997 年 10 月 15 日：美国宇航局 (NASA) 发射卡西尼-休更斯探测器，开始为期 7 年的土星之旅"
     },
     {
      "title": "SpaceX launches a classified payload for U.S. Space Force",
@@ -1511,7 +1511,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 13 Oct 2026 14:07:50 +0000",
      "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
      "source": "Spaceflight Now",
-     "zh": "SpaceX 将 NASA 科学和货物发射到国际空间站"
+     "zh": "SpaceX 将 NASA 科学和货物运送到国际空间站"
     },
     {
      "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
@@ -1703,7 +1703,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 17:42:50 +0000",
      "summary": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "对抗现代网络攻击，上下文才是王道"
+     "zh": "在对抗现代网络攻击时，上下文才是王道"
     },
     {
      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
@@ -1770,6 +1770,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "四部门：组织 30 余家车企座谈，加强汽车产品研发测试验证管理",
+     "link": "https://www.ithome.com/1/014/136.htm",
+     "pubDate": "Fri, 16 Oct 2026 11:31:36 GMT",
+     "summary": "IT之家 10 月 16 日消息据央视新闻报道，工业和信息化部、公安部、生态环境部、市场监管总局四部门组织 30 余家重点汽车生产企业开展座谈，加强汽车产品创新设计和研发测试验证管理。 汽车生产企业应落实质量提升专项行动工作要求，坚决抵制非理性竞争，加强汽车产品创新设计和研发测试验证管理，守牢产品安全底线。 此次座谈重点包括：全面加强测试验证，增强研发测试验证能力，充分开展产品创新设计安全评估和研发测试验证，及时消除安全隐患。如实宣传产品创新设计的使用边界、限制条件和研发测试验证等情况，不得作虚假、夸大或引人误解的宣传，不得使用违反道路交通法规的场景来宣传产品功能，不得诱导驾驶人忽视安全驾驶责",
+     "source": "IT之家",
+     "zh": "四部门：组织 30 余家车企座谈，加强汽车产品研发测试验证管理"
+    },
+    {
      "title": "上海市委书记陈吉宁会见美国苹果公司执行董事长蒂姆 · 库克",
      "link": "https://www.ithome.com/1/014/135.htm",
      "pubDate": "Fri, 16 Oct 2026 11:28:46 GMT",
@@ -1808,14 +1816,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 16 日消息，索尼昨日在官网发布公告，确认 Xperia 10 VI 将不会获得 Android 17 更新。索尼承认这一决定与最初的承诺不符，并向用户致歉。 索尼表示，该机型在发布时曾承诺提供三次 Android 系统大版本更新，但经过详细技术评估后，由于设备存储配置的限制，Xperia 10 VI 无法支持符合索尼标准的 Android 17 升级体验，因此决定不提供此次更新。 索尼于上月开始向旗舰机型 Xperia 1 VIII 推送 Android 17，同时公布了一份符合条件的机型列表，Xperia 10 VI 并不在其中，这引发了外界对该机型更新计划的疑虑。 T",
      "source": "IT之家",
      "zh": "索尼撤回对 Xperia 10 VI 的系统更新承诺，原定三次大版本更新改为两次"
-    },
-    {
-     "title": "爱优腾集齐 + 体验对齐：鸿蒙华为视频 App 获 1.2.30.301 版本升级，看爱奇艺再不用“跳端”",
-     "link": "https://www.ithome.com/1/014/131.htm",
-     "pubDate": "Fri, 16 Oct 2026 11:18:30 GMT",
-     "summary": "IT之家 10 月 16 日消息，鸿蒙华为视频 App（手机桌面、应用市场显示为“视频”）今日开启了 1.2.30.301 版本升级， 其更新日志显示为集齐了“爱优腾芒”四大平台 。 鸿蒙华为视频 App 此次更新日志如下： 1、App 内直接观看爱奇艺内容， 无需跳端 ，追剧更丝滑（手机 / pad）； 2、推荐栏目新增影片 AI 推荐语，快速读懂剧集，选片更精准（手机 / pad）； 3、 汇聚爱优腾芒四大平台 ，精品热播内容已上新。 事实上，去年 11 月，鸿蒙华为视频 App 在更新 1.1.10.300 版本后，就放开了爱奇艺账号绑定和视频专区，用户可直接在 App 内播放爱奇艺的独",
-     "source": "IT之家",
-     "zh": "爱优腾集齐 + 体验对齐：鸿蒙华为视频 App 获 1.2.30.301 版本升级，看爱奇艺再不用“跳端”"
     },
     {
      "title": "前英特尔CEO最新判断：绝大部分芯片设计公司将会消失，制造才是唯一的壁垒",
@@ -1879,7 +1879,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 06:55:01 -0400",
      "summary": "Stuart A. Thompson / New York Times : US candidates and PACs, mostly tied to Republicans, have spent $137M+ on 220 AI-generated campaign ads in 2026; ~70% of the 220 videos didn't disclose AI use &nbsp; &mdash;&nbsp; Republicans have used A.I.-generated content more often than Democrats, ranging fro",
      "source": "Techmeme",
-     "zh": "2026 年，美国候选人和政治行动委员会（主要与共和党有联系）已花费超过 1.37 亿美元购买了 220 个人工智能生成的竞选广告； 220 个视频中约有 70% 没有披露人工智能的使用（Stuart A. Thompson/纽约时报）"
+     "zh": "2026 年，美国候选人和政治行动委员会（主要与共和党有联系）已花费超过 1.37 亿美元购买 220 个人工智能生成的竞选广告； 220 个视频中约有 70% 没有披露人工智能的使用（Stuart A. Thompson/纽约时报）"
     },
     {
      "title": "因为我并不确定",
@@ -1970,14 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "内森·菲尔德的虚幻世界新粉丝指南"
     },
     {
-     "title": "Japanese people still aren't having sex. And nobody knows why",
-     "link": "https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience",
-     "pubDate": "Fri, 16 Oct 2026 09:54:55 +0000",
-     "summary": "Article URL: https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience Comments URL: https://news.ycombinator.com/item?id=50116367 Points: 19 # Comments: 28",
-     "source": "Hacker News",
-     "zh": "日本人仍然没有性行为。没有人知道为什么"
-    },
-    {
      "title": "山姆全国第70家门店落地无锡；浴见北京首店开业；⻨⼦妈经销商⼤会释放加速扩张信号；10月20日晚8点天猫双11开卖｜消研所周报",
      "link": "https://www.tmtpost.com/8171328.html",
      "pubDate": "Fri, 16 Oct 2026 17:51:33 +0800",
@@ -2008,6 +2000,14 @@ window.INDUSTRY_DATA = {
      "summary": "马斯克用一台不依赖盈利、不依赖监管、纯靠物理奇观的车，抢回 \"技术先锋\" 的定义权。他亲口说的 \"最后几辆人类驾驶汽车中的佼佼者\"，是对自动驾驶兑现周期最诚实的一句供认。",
      "source": "钛媒体",
      "zh": "特斯拉都飞了，还要自动驾驶？"
+    },
+    {
+     "title": "“药中茅台”之困：5年换4个董事长，3年市值蒸发近千亿",
+     "link": "https://www.tmtpost.com/8170843.html",
+     "pubDate": "Fri, 16 Oct 2026 17:50:07 +0800",
+     "summary": "片仔癀董事长辞任。",
+     "source": "钛媒体",
+     "zh": "“药中茅台”之困：5年换4个董事长，3年市值蒸发近千亿"
     }
    ]
   },
@@ -2017,6 +2017,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The first major OnePlus 17 leak hints at even higher refresh rate",
+     "link": "https://www.androidauthority.com/oneplus-17-first-leak-refresh-rate-3724341/",
+     "pubDate": "Fri, 16 Oct 2026 11:29:38 +0000",
+     "summary": "Thought 185Hz was impressive? OnePlus might be thinking about a 240Hz display for the OnePlus 17.",
+     "source": "Android Authority",
+     "zh": "OnePlus 17 的首次重大泄露暗示更高的刷新率"
+    },
+    {
+     "title": "Android Auto’s missing signal bars are finally making a proper comeback",
+     "link": "https://www.androidauthority.com/android-auto-network-icon-fix-wide-rollout-3724351/",
+     "pubDate": "Fri, 16 Oct 2026 11:28:26 +0000",
+     "summary": "A wider rollout is restoring the vanished cell network connectivity icon to in-car displays.",
+     "source": "Android Authority",
+     "zh": "Android Auto 缺失的信号栏终于恢复正常"
+    },
+    {
+     "title": "The Galaxy S27 Plus could break nearly six years of tradition with this downgrade",
+     "link": "https://www.androidauthority.com/samsung-galaxy-s27-plus-uwb-downgrade-3724300/",
+     "pubDate": "Fri, 16 Oct 2026 11:28:01 +0000",
+     "summary": "The potential downgrade reaches beyond finding your misplaced keys.",
+     "source": "Android Authority",
+     "zh": "Galaxy S27 Plus此次降级可能会打破近六年的传统"
+    },
     {
      "title": "After Chrome, we now have a WhatsApp dupe on the Play Store with 500,000+ downloads",
      "link": "https://www.androidauthority.com/fake-whatsapp-app-3724337/",
@@ -2042,28 +2066,12 @@ window.INDUSTRY_DATA = {
      "zh": "索尼售价 5,900 美元的新款镀金 Walkman 音乐播放器未配备最新版本的 Android"
     },
     {
-     "title": "Your next ePaper tablet will feel a lot more colorful, lot less like a faded newspaper",
-     "link": "https://www.androidauthority.com/e-ink-kaleido-4-paper-display-3724277/",
-     "pubDate": "Fri, 16 Oct 2026 10:38:28 +0000",
-     "summary": "E Ink's new Kaleido 4 displays are far more saturated, offer better visibility, and allow smoother page turning than ever.",
-     "source": "Android Authority",
-     "zh": "您的下一个电子纸平板电脑将感觉更加丰富多彩，不像褪色的报纸"
-    },
-    {
      "title": "Redmi K100 confirmed to launch this month, Redmi Clip Neo to tag along",
      "link": "https://www.gsmarena.com/redmi_k100_confirmed_to_launch_this_month_redmi_clip_neo_to_tag_along-news-75079.php",
      "pubDate": "Fri, 16 Oct 2026 12:34:02 +0200",
      "summary": "The Redmi K100 Pro and K100 Pro Max went official in China in August. Xiaomi has now confirmed that the base Redmi K100 will launch later this month. The handset is rumored to be powered by the older Snapdragon 8 Elite SoC. In a post on its official Weibo account, Redmi teased the silhouette of the ",
      "source": "GSMArena",
      "zh": "Redmi K100 确认本月发布，Redmi Clip Neo 也将紧随其后"
-    },
-    {
-     "title": "I wouldn’t buy these phones, and neither should you",
-     "link": "https://www.androidauthority.com/android-phones-avoid-dont-buy-3720295/",
-     "pubDate": "Fri, 16 Oct 2026 10:30:34 +0000",
-     "summary": "There are five phones I wouldn't touch for specific reasons.",
-     "source": "Android Authority",
-     "zh": "我不会购买这些手机，你也不应该"
     },
     {
      "title": "本周看什么 | 最近值得一看的 13 部作品",
@@ -2080,14 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "The ChatGPT browser extension lets you compare information from your open tabs.",
      "source": "Engadget",
      "zh": "ChatGPT 现在可以查看您的 Chrome 选项卡来为您执行任务"
-    },
-    {
-     "title": "I ignored this Google Maps feature for 10 years, and now I can’t live without it",
-     "link": "https://www.androidauthority.com/using-lists-labels-google-maps-3720835/",
-     "pubDate": "Fri, 16 Oct 2026 10:00:58 +0000",
-     "summary": "No more digging through messages for forgotten addresses.",
-     "source": "Android Authority",
-     "zh": "我忽略了 Google 地图的这个功能 10 年，现在我已经离不开它了"
     },
     {
      "title": "Apple's $2,000 iPhone Duo goes on pre-order today at 8AM ET",
@@ -2282,6 +2282,22 @@ window.INDUSTRY_DATA = {
      "zh": "香港交易所制定T+1过渡路线图"
     },
     {
+     "title": "‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+     "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+     "pubDate": "Fri, 16 Oct 2026 11:30:00 GMT",
+     "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+     "source": "MarketWatch",
+     "zh": "“目前处于观望状态”：我今年 63 岁，被诊断患有淋巴瘤。我明年应该领取社会保障吗？"
+    },
+    {
+     "title": "【调研快报】绿能慧充接待投资者调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610163898531454.html",
+     "pubDate": "Fri, 16 Oct 2026 19:27:08 +0800",
+     "summary": "绿能慧充 10月17日公告称， 10月16日 接待投资者 调研。 接待人员包括公司董事长 尹雷伟,董事、总经理 李兴民,董事、副总经理、董事会秘书 张谦,财务总监 毛丽艳,独立董事 洪祥骏。 公司就以下问题进行了回复： 问题1:公司未来在储能业务上的战略定位是怎样的?是否计划进一步加大在储能领域的投入和资源配置? 回答:尊敬的投资者,您好。储能业务是公司主营业务之一,未来公司将继续加大在储能领域的投入和资源配置,推进储能系统集成核心技术攻关,不断迭代新产品,并加强相关市场拓展,感谢您的关注。 问题2:在... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操",
+     "source": "东方财富股票",
+     "zh": "【调研快报】绿能慧充接待投资者调研"
+    },
+    {
      "title": "国家发展改革委等三部门完善养老服务价格政策",
      "link": "http://www.eeo.com.cn/2026/1016/1067245.shtml",
      "pubDate": "Fri, 16 Oct 2026 19:26:07 +0800",
@@ -2296,6 +2312,14 @@ window.INDUSTRY_DATA = {
      "summary": "本报讯 （记者韩昱）财政部发布消息称，2026年10月15日，世界银行（以下简称“世行”）在泰国曼谷举行发展委员会第114次会议，审议通过了《私营资本动员和就业》报告、《2025年股权审议理事报告》。会议由发展委员会主席、瑞典财政部部长伊丽莎白·斯万特松主持，来自世行25个选区的理事代表、世行行长彭安杰、国际货币基金组织总裁格奥尔基耶娃、世界贸易组织总干事伊维拉等出席。财政部部长、世行中国理事蓝佛安与会并发言，...",
      "source": "经济观察网",
      "zh": "蓝佛安出席2026年世界银行发展委员会第114次会议"
+    },
+    {
+     "title": "伊朗海军：一艘违规油轮在霍尔木兹海峡东部起火",
+     "link": "http://finance.eastmoney.com/news/1351,202610163898530457.html",
+     "pubDate": "Fri, 16 Oct 2026 19:24:27 +0800",
+     "summary": "当地时间16日，伊朗海军表示，数小时前，海军监视小组在持续监控霍尔木兹海峡东部海域时，发现并确认了一艘在禁航区内起火的违规油轮。该违规油轮关闭了导航追踪系统，试图穿越阿曼湾禁航区域。 伊朗海军强调，在禁航区域无序航行将危及安全，并给其他船只带来诸多危险。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊朗海军：一艘违规油轮在霍尔木兹海峡东部起火"
     },
     {
      "title": "【调研快报】长江通信接待投资者调研",
@@ -2322,52 +2346,36 @@ window.INDUSTRY_DATA = {
      "zh": "Dynex Capital 2026 年第三季度收益预览"
     },
     {
+     "title": "申昊科技：子公司签订8.81亿元算力设备采购合同",
+     "link": "http://finance.eastmoney.com/news/1354,202610163898530387.html",
+     "pubDate": "Fri, 16 Oct 2026 19:22:33 +0800",
+     "summary": "申昊科技 (300853.SZ)公告称，公司全资子公司申昊智算与B公司签订《销售合同》，含税总金额8.81亿元，占公司最近一个会计年度经审计主营业务收入100%以上。合同标的为算力设备。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "申昊科技：子公司签订8.81亿元算力设备采购合同"
+    },
+    {
+     "title": "国常会：讨论并原则通过《中华人民共和国教师法（修订草案）》",
+     "link": "http://finance.eastmoney.com/news/1350,202610163898530187.html",
+     "pubDate": "Fri, 16 Oct 2026 19:21:40 +0800",
+     "summary": "李强主持召开国务院常务会议。会议讨论并原则通过《中华人民共和国教师法（修订草案）》，决定将草案提请全国人大常委会审议。会议指出，教师是立教之本、兴教之源，要切实强化教师待遇权益保障，减轻教师非 教育 教学任务负担，加强对教师的社会公共服务，维护好教师职业尊严和合法权益。要培养造就高素质专业化教师队伍，健全教师 教育 体系，提高教书育人能力，强化师德师风建设，在全社会营造尊师重教的良好氛围。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "国常会：讨论并原则通过《中华人民共和国教师法（修订草案）》"
+    },
+    {
+     "title": "国常会：对《中华人民共和国档案法实施条例》等14部行政法规的部分条款予以修改",
+     "link": "http://finance.eastmoney.com/news/1350,202610163898529988.html",
+     "pubDate": "Fri, 16 Oct 2026 19:21:40 +0800",
+     "summary": "李强主持召开国务院常务会议。会议决定，对《中华人民共和国档案法实施条例》等14部行政法规的部分条款予以修改，对《中华人民共和国 港口 间海上旅客运输赔偿责任限额规定》等4部行政法规予以废止。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "国常会：对《中华人民共和国档案法实施条例》等14部行政法规的部分条款予以修改"
+    },
+    {
      "title": "Fifth Third Bancorp Q3 2026 Earnings Preview",
      "link": "https://seekingalpha.com/news/4653769-fifth-third-bancorp-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 16 Oct 2026 07:21:26 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Fifth Third Bancorp 2026 年第三季度收益预览"
-    },
-    {
-     "title": "【调研快报】ST星农接待参与ST星农2026年半年度业绩说明会的广大投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610163898528439.html",
-     "pubDate": "Fri, 16 Oct 2026 19:21:11 +0800",
-     "summary": "ST星农 10月16日公告称， 10月16日 接待参与 ST星农 2026年半年度业绩说明会的广大投资者 调研。 接待人员包括公司董事长、总经理 叶进,董事会秘书 王黎明,董事、副总经理、财务负责人 云晓军,独立董事 严晓黎,相关工作人员。 公司就以下问题进行了回复： 投资者提出的问题及公司回复情况: 公司就投资者在本次说明会中提出的问题进行了回复: 1、今年是否有专用车整车销售?如果有销售额是多少? 回答:尊敬的投资者,您好!关于专用车业务,公司坚持审慎接单策略,优先选择回款、毛利可控的项目;目前自有品牌专用车整车业务体量较小,具体经营情况、财务数据等以公司对... 点击查看PDF原文 免责",
-     "source": "东方财富股票",
-     "zh": "【调研快报】ST星农接待参与ST星农2026年半年度业绩说明会的广大投资者调研"
-    },
-    {
-     "title": "美银策略师料避险情绪升温 美联储和中期选举成焦点",
-     "link": "http://finance.eastmoney.com/news/1371,202610163898529312.html",
-     "pubDate": "Fri, 16 Oct 2026 19:20:22 +0800",
-     "summary": "美国银行 策略师Michael Hartnett表示，随着投资者寻求规避利率上升以及美国中期选举和 人工智能 主题交易带来的波动，预计未来数周风险厌恶情绪将主导市场。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "美银策略师料避险情绪升温 美联储和中期选举成焦点"
-    },
-    {
-     "title": "消息人士：乌克兰提议欧盟在乌克兰地下储气设施中储存多达100亿立方米的欧洲战略天然气储备",
-     "link": "http://finance.eastmoney.com/news/1351,202610163898528927.html",
-     "pubDate": "Fri, 16 Oct 2026 19:19:42 +0800",
-     "summary": "消息人士：乌克兰提议欧盟在乌克兰地下储气设施中储存多达100亿立方米的欧洲战略 天然气 储备。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "消息人士：乌克兰提议欧盟在乌克兰地下储气设施中储存多达100亿立方米的欧洲战略天然气储备"
-    },
-    {
-     "title": "预计乌克兰2026年天然气消费量将减少10亿立方米",
-     "link": "http://finance.eastmoney.com/news/1351,202610163898528777.html",
-     "pubDate": "Fri, 16 Oct 2026 19:19:42 +0800",
-     "summary": "消息人士：受俄罗斯袭击乌克兰商业基础设施影响，预计乌克兰2026年 天然气 消费量将减少10亿立方米。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "预计乌克兰2026年天然气消费量将减少10亿立方米"
-    },
-    {
-     "title": "消息人士：俄罗斯2026年对乌克兰国家石油天然气公司（Naftogaz）设施的袭击次数翻倍",
-     "link": "http://finance.eastmoney.com/news/1351,202610163898529095.html",
-     "pubDate": "Fri, 16 Oct 2026 19:19:41 +0800",
-     "summary": "消息人士：俄罗斯2026年对乌克兰国家石油 天然气 公司（Naftogaz）设施的袭击次数翻倍，针对该公司资产的袭击超过400次。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "消息人士：俄罗斯2026年对乌克兰国家石油天然气公司（Naftogaz）设施的袭击次数翻倍"
     },
     {
      "title": "Banking tax raid fears hit London lenders&apos; shares ahead of crucial budget",
@@ -2496,14 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "Existing ethical rules mean the fund is not permitted to invest in companies like Lockheed Martin and Boeing.",
      "source": "CNBC",
      "zh": "挪威2万亿美元的财富基金被冻结在主要国防公司之外。这可能即将改变"
-    },
-    {
-     "title": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
-     "link": "https://www.marketwatch.com/story/nearly-40-of-the-s-p-500-is-in-a-bear-market-here-are-10-of-those-stocks-that-analysts-say-can-gain-up-to-81-93a51af6?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 10:56:00 GMT",
-     "summary": "The S&P 500’s strong overall performance reflects its heavy weighting at the top. Under the surface, more than a third of the index’s stocks are down at least 20% from their 52-week highs.",
-     "source": "MarketWatch",
-     "zh": "标准普尔 500 指数中有近 40% 的股票处于熊市。以下是分析师认为涨幅高达 81% 的 10 只股票。"
     }
    ]
   },
@@ -2687,7 +2687,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 01:28:14 EDT",
      "summary": "Strokes are becoming alarmingly common among younger adults, with rates nearly doubling among people ages 20 to 54 over nearly three decades. Researchers found that blocked blood vessels in the brain accounted for much of the increase, while high blood pressure, diabetes, and substance use also beca",
      "source": "ScienceDaily",
-     "zh": "年轻人中风的几率几乎翻倍，科学家们不确定原因"
+     "zh": "年轻人中风的发生率几乎翻倍，科学家不确定原因"
     },
     {
      "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/16 13:52:35",
+ "generated_at": "2026/10/16 13:58:12",
  "recent_days": 7,
  "industries": [
   {
@@ -258,22 +258,6 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "Datacentre installation growth rate slowed by opposition",
-     "link": "https://www.electronicsweekly.com/news/business/datacentre-infrastructure-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 05:06:39 +0000",
-     "summary": "The Q2 Data Center Physical Infrastructure (DCPI) market grew 27% YoY to $14 billion in manufacturer revenue, says Dell’Oro. The quarter extended the market’s run of growth above 20%, as […] The post Datacentre installation growth rate slowed by opposition appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Datacentre installation growth rate slowed by opposition"
-    },
-    {
-     "title": "External EMC protection module",
-     "link": "https://www.electronicsweekly.com/news/business/external-emc-protection-module-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 05:01:01 +0000",
-     "summary": "Cincoze has launched its new external EMC solutions, the Power Protection Module (PPM), to further strengthen protection against the electromagnetic noise common in industrial environments. Electrical noise can often cause […] The post External EMC protection module appeared first on Electronics Wee",
-     "source": "Electronics Weekly",
-     "zh": "External EMC protection module"
-    },
-    {
      "title": "Holtek targets higher-value MCU markets with AI server cooling orders set to lift 2027 revenue",
      "link": "https://www.digitimes.com/news/a20261016PD222/holtek-mcu-ai-server-cooling-2027.html",
      "pubDate": "Fri, 16 Oct 2026 04:54:44 GMT",
@@ -320,14 +304,6 @@ window.INDUSTRY_DATA = {
      "summary": "Myson Century, a subsidiary of Sun Yad Group, signed strategic memorandums of understanding with IXI EW, SafeSky Systems USA, and Global Ordnance Group at the Association of the United States Army's 2026 Annual Meeting and Exposition, or AUSA 2026. The agreements link counter-drone, unmanned vehicle",
      "source": "DIGITIMES",
      "zh": "Myson Century signs 3 AUSA MOUs for defense expansion"
-    },
-    {
-     "title": "Tesla Models Y and 3 Dominate",
-     "link": "https://www.electronicsweekly.com/news/business/tesla-models-y-and-3-dominate-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 00:00:24 +0000",
-     "summary": "Sales figures from CleanTechnica show that most of Tesla’s revenues are coming from Models 3 and Y, The two newer models are widely regarded as Tesla’s mass market cars […] The post Tesla Models Y and 3 Dominate appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Tesla Models Y and 3 Dominate"
     },
     {
      "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
@@ -378,14 +354,6 @@ window.INDUSTRY_DATA = {
      "zh": "Data Orchestration: The Foundation for the Next-generation Semiconductor Enterprise"
     },
     {
-     "title": "Fable: The Commonsense CEO",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-commonsense-ceo-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 13:23:11 +0000",
-     "summary": "There was once a mega-company which was in trouble – its market cap of $96 billion was down 80% from its value 18 years earlier. It had made an annual […] The post Fable: The Commonsense CEO appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Fable: The Commonsense CEO"
-    },
-    {
      "title": "Why AI Security Starts at the Chip Level",
      "link": "https://semiwiki.com/eda/synopsys/374743-why-ai-security-starts-at-the-chip-level/",
      "pubDate": "Thu, 15 Oct 2026 13:00:07 +0000",
@@ -400,22 +368,6 @@ window.INDUSTRY_DATA = {
      "summary": "Discover Hynetek’s HUSB237, a compact USB-PD sink controller enabling firmware-free USB-C upgrades up to 100W with only two external components. The post HUSB237: The Cost-Effective PD Sink with Just 2 Passives appeared first on EE Times .",
      "source": "EE Times",
      "zh": "HUSB237: The Cost-Effective PD Sink with Just 2 Passives"
-    },
-    {
-     "title": "HEADS UP – Dstl trialling safe usage of head-mounted military technology",
-     "link": "https://www.electronicsweekly.com/news/research-news/heads-up-dstl-trialling-safe-usage-of-head-mounted-military-technology-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 11:02:02 +0000",
-     "summary": "The UK’s Defence Science and Technology Laboratory (Dstl) has been trialling – in a HEADS UP project – a human-centred design approach to novel technologies that are worn or carried. […] The post HEADS UP – Dstl trialling safe usage of head-mounted military technology appeared first on Electronics W",
-     "source": "Electronics Weekly",
-     "zh": "HEADS UP – Dstl trialling safe usage of head-mounted military technology"
-    },
-    {
-     "title": "Beyond software patching: how CHERI can limit the blast radius in long-life CNI systems",
-     "link": "https://www.electronicsweekly.com/news/business/beyond-software-patching-how-cheri-can-limit-the-blast-radius-in-long-life-cni-systems-2026-10/",
-     "pubDate": "Thu, 15 Oct 2026 11:00:53 +0000",
-     "summary": "Critical National Infrastructure (CNI) products may remain in service for 10 or even 20 years. During that time software changes, attack techniques evolve and regulation becomes more demanding, writes Jim […] The post Beyond software patching: how CHERI can limit the blast radius in long-life CNI sy",
-     "source": "Electronics Weekly",
-     "zh": "Beyond software patching: how CHERI can limit the blast radius in long-life CNI systems"
     },
     {
      "title": "Small Volumes, Big Impact: Europe’s Hidden Role in Advanced Chipmaking",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Agentic workloads increase CPU demand, while reasoning models, MoE architectures, and reservoir computing fuel AI acceleration. The post Agentic AI Alters The CPU-GPU Balance appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Agentic AI Alters The CPU-GPU Balance"
+    },
+    {
+     "title": "Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing",
+     "link": "https://www.eetimes.com/benchmark-electronics-thailand-operations-focus-on-high-mix-manufacturing/",
+     "pubDate": "Wed, 14 Oct 2026 19:34:54 +0000",
+     "summary": "Benchmark Electronics combines engineering expertise, workforce development, and flexible production to expand high-mix electronics manufacturing across Thailand. The post Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing"
+    },
+    {
+     "title": "CTO Interview with Sirish Munipalli of Moores Lab AI",
+     "link": "https://semiwiki.com/eda/moores-lab-ai/374851-cto-interview-with-sirish-munipalli-of-moores-lab-ai/",
+     "pubDate": "Wed, 14 Oct 2026 19:00:50 +0000",
+     "summary": "Sirish Munipalli is Co-Founder and CTO of Moores Lab AI, where he leads the development of agentic AI for chip design verification, including SpecAgent(tm), the company’s specification and modeling platform. He has spent about 15 years designing and verifying complex silicon: FPGA prototyping at Int",
+     "source": "SemiWiki",
+     "zh": "CTO Interview with Sirish Munipalli of Moores Lab AI"
+    },
+    {
+     "title": "What DARPA Taught Me About Building Trust into Silicon",
+     "link": "https://semiwiki.com/eda/374529-what-darpa-taught-me-about-building-trust-into-silicon/",
+     "pubDate": "Wed, 14 Oct 2026 17:00:34 +0000",
+     "summary": "By Sajeed Mohammad The most memorable slide I ever saw in a chip design review didn’t show a floorplan. It showed a target. The Defense Advanced Research Projects Agency (DARPA) program manager running AISS, Automatic Implementation of Secure Silicon , the program that funded my majority of PhD rese",
+     "source": "SemiWiki",
+     "zh": "What DARPA Taught Me About Building Trust into Silicon"
+    },
+    {
+     "title": "AVL and VisIC extend collaboration to high-power GaN traction inverter technology",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/visic-141026.shtml",
+     "pubDate": "Wed, 14 Oct 2026 13:10:59 +0100",
+     "summary": "VisIC Technologies Ltd of Ness Ziona, Israel — a fabless supplier of power conversion devices based on gallium nitride (GaN) transistors — and mobility technology company AVL are advancing their collaboration with the integration of VisIC’s D3GaN power module technology into AVL’s vehicle demonstrat",
+     "source": "Semiconductor Today",
+     "zh": "AVL and VisIC extend collaboration to high-power GaN traction inverter technology"
+    },
+    {
+     "title": "Tower and Semtech expand SiGe partnership to scale power-efficient analog connectivity for data centers",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/tower-semtech-141026.shtml",
+     "pubDate": "Wed, 14 Oct 2026 12:34:48 +0100",
+     "summary": "Specialty analog foundry Tower Semiconductor Ltd of Migdal Haemek, Israel and high-performance semiconductor, Internet of Things (IoT) system and cloud connectivity service provider Semtech Corp of Camarillo, CA, USA have agreed to expand their 20-year partnership. Semtech will invest in securing de",
+     "source": "Semiconductor Today",
+     "zh": "Tower and Semtech expand SiGe partnership to scale power-efficient analog connectivity for data centers"
+    },
+    {
+     "title": "Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over-optics for AI rack-scale connectivity at OCP Global Summit",
+     "link": "https://www.semiconductor-today.com/news_items/2026/oct/lumentum-131026.shtml",
+     "pubDate": "Tue, 13 Oct 2026 18:14:35 +0100",
+     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers), Astera Labs Inc (which provides rack-scale AI infrastructure through purpose-built connectivity solutions) and Corning Inc are giving a joint demonstration of PCIe-over",
+     "source": "Semiconductor Today",
+     "zh": "Lumentum, Astera Labs and Corning demo 1060nm VCSEL-based PCIe-over-optics for AI rack-scale connectivity at OCP Global Summit"
     }
    ]
   },
@@ -594,6 +594,14 @@ window.INDUSTRY_DATA = {
      "zh": "Timken Precision Drives puts the motion challenge first in humanoid robots"
     },
     {
+     "title": "Neurosymbolic planning using natural language communication for cooperative autonomous vehicles",
+     "link": "https://robohub.org/neurosymbolic-planning-using-natural-language-communication-for-cooperative-autonomous-vehicles/",
+     "pubDate": "Wed, 14 Oct 2026 09:14:30 +0000",
+     "summary": "Imagine you are driving toward an intersection. A truck parked on the corner blocks your view of a car speeding toward the intersection from the right. You can’t see it, but the car next to you can. What if that neighboring vehicle could simply tell your car, “Vehicle merging from the right, about 1",
+     "source": "Robohub",
+     "zh": "Neurosymbolic planning using natural language communication for cooperative autonomous vehicles"
+    },
+    {
      "title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
      "link": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
      "pubDate": "Tue, 13 Oct 2026 23:22:05 +0000",
@@ -610,12 +618,28 @@ window.INDUSTRY_DATA = {
      "zh": "Q&A: Mars Perseverance Rover Sets a Distance Record"
     },
     {
+     "title": "Humanoid robots can sprint and box – but the real test is doing the laundry",
+     "link": "https://robohub.org/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/",
+     "pubDate": "Mon, 12 Oct 2026 07:51:21 +0000",
+     "summary": "By Wai-keung Fung, Cardiff Metropolitan University At the recent World Humanoid Robot Games 2026 in Beijing, robots sprinted, boxed, played football and tackled tasks inspired by factories, restaurants and emergency situations. The robot Tiangong Ultra even completed the 100 metres in 8.64 seconds, ",
+     "source": "Robohub",
+     "zh": "Humanoid robots can sprint and box – but the real test is doing the laundry"
+    },
+    {
      "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
      "link": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
      "pubDate": "Fri, 09 Oct 2026 15:30:02 +0000",
      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
      "source": "IEEE Spectrum 机器人",
      "zh": "Video Friday: Robot Decommissioning Takes a Fun Turn"
+    },
+    {
+     "title": "Robot Talk Episode 165 – Robots behind the research, with Kushant Patel",
+     "link": "https://robohub.org/robot-talk-episode-165-robots-behind-the-research-with-kushant-patel/",
+     "pubDate": "Fri, 09 Oct 2026 11:52:18 +0000",
+     "summary": "Claire chatted to Kushant Patel from Brookhaven National Laboratory about robots that work in scientific facilities, such as particle accelerators. Kushant Patel builds software that helps robots and instruments perceive, map, and move through the physical world. After completing a Master’s in Mecha",
+     "source": "Robohub",
+     "zh": "Robot Talk Episode 165 – Robots behind the research, with Kushant Patel"
     }
    ]
   },
@@ -973,17 +997,9 @@ window.INDUSTRY_DATA = {
      "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
      "link": "https://www.utilitydive.com/news/utilities-need-ai-solve-grid-backlogs-aws-energy-lead-head/832816/",
      "pubDate": "Thu, 15 Oct 2026 12:00:00 -0400",
-     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities, Joseph Santamaria.",
+     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities&nbsp;Joseph Santamaria.",
      "source": "Utility Dive",
      "zh": "Utilities can use AI to solve grid backlogs: AWS energy lead"
-    },
-    {
-     "title": "Solar imports from India, Indonesia, Laos injured US manufacturers: ITC",
-     "link": "https://www.utilitydive.com/news/itc-material-injury-solar-imports-india-indonesia-laos/833127/",
-     "pubDate": "Thu, 15 Oct 2026 11:52:32 -0400",
-     "summary": "The decision clears the way for the Department of Commerce to finalize anti-dumping and countervailing duty orders on&nbsp;crystalline silicon photovoltaic cells from the three countries.",
-     "source": "Utility Dive",
-     "zh": "Solar imports from India, Indonesia, Laos injured US manufacturers: ITC"
     },
     {
      "title": "20.4GWh grid-scale BESS deployed globally in September, up 61%; YTD installs up 43%",
@@ -1037,7 +1053,7 @@ window.INDUSTRY_DATA = {
      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption",
      "link": "https://www.utilitydive.com/news/reliability-standards-ai-data-centers-crypto-miners-pass-final-nerc-ba/833094/",
      "pubDate": "Thu, 15 Oct 2026 09:28:37 -0400",
-     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more connected at voltage levels of at least 100 kV.",
+     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more, connected at voltage levels of at least 100 kV.",
      "source": "Utility Dive",
      "zh": "Reliability standards for AI data centers, crypto miners move closer to adoption"
     },
@@ -1064,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "K-based Octopus Energy has introduced Cosy Cooler, a hydronic cooling unit designed to work with its existing Cosy heat pumps. The company says the device can be installed using existing radiator pipework and will cost between GBP 500 ($670) and GBP 600 when it becomes available in 2027. The post Oc",
      "source": "pv magazine",
      "zh": "Octopus Energy unveils heat pump add-on for home cooling"
+    },
+    {
+     "title": "Dutch startup offers PV mounting solution for fragile roofs",
+     "link": "https://www.pv-magazine.com/2026/10/15/dutch-startup-offers-pv-mounting-solution-for-fragile-roofs/",
+     "pubDate": "Thu, 15 Oct 2026 12:20:32 +0000",
+     "summary": "Dutch startup Rable has developed a self-supporting PV mounting system for fragile roofs with slopes of up to 10 degrees, reducing anchor points by 95% compared with conventional systems. The galvanized-steel structure distributes loads of 6 kg/m² to 15 kg/m² and can reduce installation costs by €0.",
+     "source": "pv magazine",
+     "zh": "Dutch startup offers PV mounting solution for fragile roofs"
     }
    ]
   },
@@ -1746,6 +1770,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Ternary Bonsai 2 系列 AI 模型登场：苹果 iPhone 18 Pro Max 上本地吞吐最高每秒 120 个词元",
+     "link": "https://www.ithome.com/1/013/894.htm",
+     "pubDate": "Fri, 16 Oct 2026 05:50:56 GMT",
+     "summary": "IT之家 10 月 16 日消息，AI 公司 PrismML 昨日（10 月 15 日）发布博文，宣布推出 Ternary Bonsai 2 系列模型，共有 2B、4B 和 9B 三种规模， 目标在手机、PC 以及可穿戴设备上本地运行 AI 智能体，执行推理、识图、调用工具等能力。 Ternary Bonsai 2 系列模型基于阿里的 Qwen 3.5 基座构建，采用“三元”权重表示法，即仅用 -1、0、+1 三种数值编码模型参数。官方称，2B、4B、9B 模型的存储占用分别约为 0.43GB、0.95GB 和 2GB。 在能力上，Bonsai 2 系列强调本地智能体的实用性：遵循指令、完成日",
+     "source": "IT之家",
+     "zh": "Ternary Bonsai 2 系列 AI 模型登场：苹果 iPhone 18 Pro Max 上本地吞吐最高每秒 120 个词元"
+    },
+    {
+     "title": "存储涨价，国产手机的低价出海越来越“贵”",
+     "link": "https://www.huxiu.com/article/4897988.html?f=rss",
+     "pubDate": "Fri, 16 Oct 2026 13:45:54 +0800",
+     "summary": "本文来自微信公众号： Techmo ，作者：Techmo 手机卖得更贵了，厂商从每部手机上留下的钱却变少了。 小米今年第二季度的手机平均售价达到1351元，同比上涨25.9%，创下历史新高；同期手机毛利率从一年前的11.5%降至8.5%。按平均售价与毛利率粗算，单部手机贡献的毛利从约123元降到115元，这还是在没有扣除研发、销售等费用情况下。 10月12日，Counterpoint公布的初步数据显示，第三季度全球智能手机出货量同比下降20%，已降至2012年以来同期最低水平。该机构指出，小米减少了低价产品和非核心海外市场的投入，避免在存储成本高企时继续销售利润不足的设备。 低价产品曾帮助国产",
+     "source": "虎嗅",
+     "zh": "存储涨价，国产手机的低价出海越来越“贵”"
+    },
+    {
      "title": "日本气象厅误报“9.9 级地震”，回应称不是服务器遭攻击、目前判断为“误判”",
      "link": "https://www.ithome.com/1/013/871.htm",
      "pubDate": "Fri, 16 Oct 2026 05:40:51 GMT",
@@ -1850,14 +1890,6 @@ window.INDUSTRY_DATA = {
      "zh": "机械革命全镁轻薄本无界 Max 上架：14\" 约 1.0kg、16\" 约 1.25kg"
     },
     {
-     "title": "专为《微软模拟飞行》打造：Echo XPC 手柄海外开订，179.99 美元、11 月发售",
-     "link": "https://www.ithome.com/1/013/865.htm",
-     "pubDate": "Fri, 16 Oct 2026 04:56:07 GMT",
-     "summary": "IT之家 10 月 16 日消息，据外媒 NotebookCheck 今天（16 日）午间报道，Honeycomb 的飞行模拟手柄 Echo Aviation Controller XPC 现已在美国开放免费预约，售价 179.99 美元 （IT之家注：现汇率约合 1,206 元人民币） ，将于 11 月 20 日正式开售，随后陆续登陆其他市场。 该手柄兼容 XBOX 和 PC，配备隧道磁阻摇杆、霍尔效应方向舵拨片以及 4 个滑块，专为《微软模拟飞行》打造。 用户现可通过 Honeycomb 官网免费预约，暂时不能直接预购。此外，Honeycomb 欧洲商城也已上架 Echo XPC，标价 1",
-     "source": "IT之家",
-     "zh": "专为《微软模拟飞行》打造：Echo XPC 手柄海外开订，179.99 美元、11 月发售"
-    },
-    {
      "title": "Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn (Bloomberg)",
      "link": "https://www.techmeme.com/261016/p1#a261016p1",
      "pubDate": "Fri, 16 Oct 2026 00:55:00 -0400",
@@ -1912,14 +1944,6 @@ window.INDUSTRY_DATA = {
      "summary": "别人家的Agent，禁止在我们这买东西。",
      "source": "钛媒体",
      "zh": "亚马逊，Agent最严厉的父亲"
-    },
-    {
-     "title": "官宣虞书欣首日卖出6000万，拉夏贝尔又杀回来了？",
-     "link": "https://www.huxiu.com/article/4897973.html?f=rss",
-     "pubDate": "Fri, 16 Oct 2026 12:09:45 +0800",
-     "summary": "本文来自微信公众号： 剁椒Spicy ，作者：剁椒团队 同日，拉夏贝尔正式官宣虞书欣为全球品牌代言人。官宣首日，全渠道总GMV高达6000万元，其中虞书欣同款单品贡献超2000万元，占总GMV三分之一，同款羽绒服与大衣现货售罄转入预售。 一边是话题度极高、以穿搭出圈的艺人。《云初令》拍摄期间，虞书欣贡献出86套不重复的上班穿搭。从千金风到辣妹装，她被戏称“内娱最会穿搭之人”；另一边是沉寂多年的老牌国产女装拉夏贝尔，曾被誉为中国版ZARA，巅峰期直营门店近9448家，2018年营收超100亿元，是内地首家A股+H股两地上市的服装企业。它想要借艺人的流量，把自己拉回大众视野。 对比虞书欣此前的代言",
-     "source": "虎嗅",
-     "zh": "官宣虞书欣首日卖出6000万，拉夏贝尔又杀回来了？"
     },
     {
      "title": "国际计量局通过决议用闰时取代闰秒",
@@ -2242,52 +2266,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "挖金客10月16日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610163898271689.html",
-     "pubDate": "Fri, 16 Oct 2026 13:43:28 +0800",
-     "summary": "以下是 挖金客 在北京时间10月16日13:43分盘口异动快照： 10月16日， 挖金客 盘中跌幅达5%，截至13点43分，报30.3元，成交7560.79万元，换手率2.96%。 分笔 13:43:24 30.30 307↓ 13:43:09 30.33 38↑ 13:43:00 30.32 83↓ 13:42:48 30.35 2↓ 13:42:42 30.34 6↑ 13:42:39 30.34 5↑ 13:42:30 30.33 5↑ 13:42:15 30.33 14↓ 13:41:57 30.33 1↓ 13:41:45 30.33 2↑ 报价 卖五 30.42 6 卖四 30.3",
+     "title": "10月16日其他专业服务板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610163898274136.html",
+     "pubDate": "Fri, 16 Oct 2026 13:47:09 +0800",
+     "summary": "&emsp;&emsp;10月16日13点47分，其他 专业服务 板块指数报1037.593点，涨幅达2%，成交1.88亿元，换手率1.04%。 &emsp;&emsp;板块个股中，涨幅最大的前4个股为： 零点有数 报46.92元，涨5.82%； 国义招标 报7.29元，涨2.39%； 中金辐照 报12.63元，涨0.80%； 安邦护卫 报43.14元，跌0.83%。 注：以上信息仅供参考，不对您构成任何投资建议。",
      "source": "东方财富股票",
-     "zh": "挖金客10月16日盘中跌幅达5%"
+     "zh": "10月16日其他专业服务板块涨幅达2%"
     },
     {
-     "title": "*ST美芝10月16日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610163898271555.html",
-     "pubDate": "Fri, 16 Oct 2026 13:43:10 +0800",
-     "summary": "以下是 *ST美芝 在北京时间10月16日13:43分盘口异动快照： 10月16日， *ST美芝 盘中快速上涨，5分钟内涨幅超过2%，截至13点43分，报18.93元，成交4763.39万元，换手率2.13%。 分笔 13:43:06 18.97 105↑ 13:43:03 18.93 28↓ 13:42:57 18.96 61↑ 13:42:54 18.82 19↓ 13:42:51 18.89 198↑ 13:42:45 18.81 30↑ 13:42:42 18.75 119↓ 13:42:39 18.75 17↓ 13:42:36 18.74 40↓ 13:42:33 18.74 5↓",
+     "title": "零点有数10月16日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610163898274062.html",
+     "pubDate": "Fri, 16 Oct 2026 13:46:56 +0800",
+     "summary": "以下是 零点有数 在北京时间10月16日13:46分盘口异动快照： 10月16日， 零点有数 盘中涨幅达5%，截至13点46分，报46.58元，成交5279.29万元，换手率1.63%。 分笔 13:46:51 46.58 7↑ 13:46:45 46.53 56↑ 13:46:42 46.44 1↑ 13:46:39 46.46 70↑ 13:46:36 46.46 54↑ 13:46:33 46.45 3↑ 13:46:30 46.33 5↓ 13:46:27 46.47 8↑ 13:46:24 46.47 16↑ 13:46:21 46.47 203↓ 报价 卖五 46.99 3 卖四 ",
      "source": "东方财富股票",
-     "zh": "*ST美芝10月16日快速上涨"
+     "zh": "零点有数10月16日盘中涨幅达5%"
     },
     {
-     "title": "天津普林10月16日盘中跌停",
-     "link": "http://stock.eastmoney.com/news/1944,202610163898271330.html",
-     "pubDate": "Fri, 16 Oct 2026 13:42:56 +0800",
-     "summary": "以下是 天津普林 在北京时间10月16日13:42分盘口异动快照： 10月16日13点42分， 天津普林 盘中跌停，报21.91元，目前封单2119手，折合464.27万元。截至目前，成交8.33亿元，换手率14.99%。 分笔 13:42:54 21.91 3117↓ 13:42:51 21.92 524↑ 13:42:48 21.91 54↓ 13:42:45 21.91 191↓ 13:42:42 21.91 917↓ 13:42:39 21.91 2165↓ 13:42:36 21.92 85↑ 13:42:33 21.92 192↑ 13:42:30 21.91 20↓ 13:42:",
+     "title": "*ST开元10月16日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610163898272235.html",
+     "pubDate": "Fri, 16 Oct 2026 13:45:26 +0800",
+     "summary": "以下是 *ST开元 在北京时间10月16日13:45分盘口异动快照： 10月16日， *ST开元 盘中快速反弹，5分钟内涨幅超过2%，截至13点45分，报2.54元，成交4176.77万元，换手率4.65%。 分笔 13:45:15 2.54 37↑ 13:45:06 2.52 44↑ 13:45:03 2.52 10↑ 13:44:57 2.51 15↓ 13:44:45 2.51 10↓ 13:44:42 2.51 3↓ 13:44:33 2.52 12↑ 13:44:21 2.51 1↓ 13:44:18 2.51 395↑ 13:44:00 2.51 61↑ 报价 卖五 2.58 25",
      "source": "东方财富股票",
-     "zh": "天津普林10月16日盘中跌停"
+     "zh": "*ST开元10月16日快速反弹"
     },
     {
-     "title": "日本误报9.9级地震",
-     "link": "http://finance.eastmoney.com/news/1351,202610163898271488.html",
-     "pubDate": "Fri, 16 Oct 2026 13:42:40 +0800",
-     "summary": "10月16日下午，日本气象厅举行记者会，对稍早前“紧急地震速报”发布所谓“千岛群岛地区发生9.9级地震”速报并随后取消一事进行说明。 日本气象厅方面称，出现“9.9级地震”速报应该不是因为服务器遭攻击，目前判断是“出现了误判”，具体原因仍在调查中。 （文章来源：CCTV国际时讯）",
+     "title": "农心科技10月16日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610163898271867.html",
+     "pubDate": "Fri, 16 Oct 2026 13:44:37 +0800",
+     "summary": "以下是 农心科技 在北京时间10月16日13:44分盘口异动快照： 10月16日， 农心科技 盘中快速反弹，5分钟内涨幅超过2%，截至13点44分，报21.5元，成交2.18亿元，换手率20.02%。 分笔 13:44:30 21.50 1↑ 13:44:27 21.48 6↑ 13:44:24 21.46 13↑ 13:44:21 21.46 42↓ 13:44:18 21.46 35↑ 13:44:15 21.46 65↑ 13:44:12 21.40 72↑ 13:44:09 21.40 25↑ 13:44:06 21.39 54↓ 13:44:03 21.39 16↑ 报价 卖五 21",
      "source": "东方财富股票",
-     "zh": "日本误报9.9级地震"
+     "zh": "农心科技10月16日快速反弹"
     },
     {
-     "title": "元道退10月16日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610163898271110.html",
-     "pubDate": "Fri, 16 Oct 2026 13:41:39 +0800",
-     "summary": "以下是 元道退 在北京时间10月16日13:41分盘口异动快照： 10月16日， 元道退 盘中快速反弹，5分钟内涨幅超过2%，截至13点41分，报0.79元，成交517.07万元，换手率8.67%。 分笔 13:41:27 0.79 30↑ 13:40:51 0.79 1↑ 13:40:33 0.78 50↓ 13:40:09 0.78 50↓ 13:39:18 0.78 50↓ 13:37:30 0.78 359↑ 13:36:42 0.77 215↓ 13:36:39 0.78 90↑ 13:35:51 0.78 100↑ 13:34:30 0.77 60↓ 报价 卖五 0.83 2004",
+     "title": "库克：中国几乎所有人都在积极拥抱AI 令人印象深刻",
+     "link": "http://finance.eastmoney.com/news/11158,202610163898272088.html",
+     "pubDate": "Fri, 16 Oct 2026 13:44:23 +0800",
+     "summary": "10月16日上午，全球财富管理论坛·2026上海苏河湾大会在上海展览中心举行。大会上，美国 苹果 公司执行董事长、清华大学经管学院顾问委员会主席蒂姆·库克与全球财富管理论坛执委会主席、清华大学经管学院院长白重恩进行了一场国际对话，话题聚焦“直面人类与AI共处的 新世界 ”。 最近几日，库克先后在中国广东、北京、上海等地现身，这也是其卸任 苹果 CEO后的首次访华。聊到中国之行，库克表示他早已深深爱上中国人民和中国文化，每次来都能学到新的东西。这一次，他真切感受到了中国的活力与蓬勃的生机。 “在我看来，这里的人们对于未来的乐观情绪正处于前所未有的高点。”库克注意到，几乎所有人都在积极拥抱AI，不",
      "source": "东方财富股票",
-     "zh": "元道退10月16日快速反弹"
+     "zh": "库克：中国几乎所有人都在积极拥抱AI 令人印象深刻"
     },
     {
-     "title": "震裕科技10月16日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610163898271016.html",
-     "pubDate": "Fri, 16 Oct 2026 13:41:39 +0800",
-     "summary": "以下是 震裕科技 在北京时间10月16日13:41分盘口异动快照： 10月16日， 震裕科技 盘中涨幅达5%，截至13点41分，报79.61元，成交3.91亿元，换手率2.90%。 分笔 13:41:30 79.61 101↑ 13:41:27 79.50 97↑ 13:41:24 79.45 24↓ 13:41:21 79.45 76↑ 13:41:18 79.37 14↑ 13:41:15 79.30 9↑ 13:41:12 79.22 50↓ 13:41:09 79.28 3↓ 13:41:06 79.30 30↓ 13:41:03 79.33 111↑ 报价 卖五 79.68 1 卖四",
+     "title": "上交所副总经理苑多然：沪市跨境指数产品规模超4700亿元 推动中日、沪港等ETF互挂",
+     "link": "http://stock.eastmoney.com/news/1426,202610163898272619.html",
+     "pubDate": "Fri, 16 Oct 2026 13:44:10 +0800",
+     "summary": "上海证券交易所副总经理苑多然在今日举办的全球财富管理论坛2026上海苏河湾大会上表示，近年来，上交所持续深化互联互通机制，丰富跨境投资产品，坚定不移推进资本市场对外开放。沪港通机制不断优化，推动股票ETF纳入标的范围，优化信息披露制度。ETF互联互通纵深推进，积极推动跨境指数跨境投资，实现中日、沪港、中新、中巴等ETF互挂。沪市跨境指数产品规模超过4700亿，进一步推动中国与全球资本市场链接融合。目前各类境外投资者持有A股流通市值超4万亿，成为中国市场的重要参与者。（财联社记者吴雨其） （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "震裕科技10月16日盘中涨幅达5%"
+     "zh": "上交所副总经理苑多然：沪市跨境指数产品规模超4700亿元 推动中日、沪港等ETF互挂"
     },
     {
      "title": "Collective Metals announces $515K non-brokered private placement",

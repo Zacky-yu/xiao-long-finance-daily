@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/17 02:39:43",
+ "generated_at": "2026/10/17 02:46:36",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "9 Best Shopify Plus Agencies for B2B and Enterprise Ecommerce in 2026",
+     "link": "https://roboticsandautomationnews.com/2026/10/16/9-best-shopify-plus-agencies-for-b2b-and-enterprise-ecommerce-in-2026/106002/",
+     "pubDate": "Fri, 16 Oct 2026 18:41:56 +0000",
+     "summary": "The best Shopify Plus agencies for B2B and enterprise ecommerce in 2026 include Fyresite, Zaelab, Teifi Digital, Praella, Shero Commerce, BlueSwitch, Uncap, AAXIS, and TMG. Fyresite is a strong choice for complex Shopify Plus migrations, automotive ecommerce, custom product catalogs, and B2B develop",
+     "source": "Robotics & Automation",
+     "zh": "2026 年 9 家 B2B 和企业电子商务最佳 Shopify Plus 代理商"
+    },
+    {
      "title": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program",
      "link": "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/",
      "pubDate": "Fri, 16 Oct 2026 17:57:12 +0000",
@@ -567,14 +575,6 @@
      "summary": "A dashboard shows a temperature spike. That number came from somewhere. An API picked it up. A service moved it along. A query pulled it out of storage. One weak spot anywhere in that chain and the reading can lie. The tools in this article look at the software that builds those chains. Not the […]",
      "source": "Robotics & Automation",
      "zh": "智能制造软件的最佳应用安全平台"
-    },
-    {
-     "title": "Best SAST Tools for Python and Java Automation Backends",
-     "link": "https://roboticsandautomationnews.com/2026/10/15/best-sast-tools-for-python-and-java-automation-backends/105982/",
-     "pubDate": "Thu, 15 Oct 2026 21:30:06 +0000",
-     "summary": "The movement of a robot arm occurs after a signal is sent out by the controller. But there is another world beyond the controller. There are Python services that queue up tasks. There are Java backends responding to API requests. Modules are passing around data. Bugs live there too. A weak validator",
-     "source": "Robotics & Automation",
-     "zh": "适用于 Python 和 Java 自动化后端的最佳 SAST 工具"
     },
     {
      "title": "Stryker invests $400M into CMR Surgical",
@@ -1297,20 +1297,20 @@
    "total": 6,
    "items": [
     {
-     "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
-     "link": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
-     "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
-     "summary": "Using data from the James Webb Space Telescope, astronomers have unravelled some of the secrets of a bizarre, blisteringly hot exoplanet that has the consistency of marshmallow.",
-     "source": "Space.com",
-     "zh": "科学家在奇异、灼热的“棉花糖”系外行星的大气中发现了“宝石”"
-    },
-    {
      "title": "How to see the Orionid meteor shower 2026 peak this week — and when to look",
      "link": "https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look",
      "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
      "summary": "The Orionids peak around Oct. 21. Here's when and where to look for the best chance of spotting meteors.",
      "source": "Space.com",
      "zh": "本周如何观看猎户座流星雨 2026 年峰值——以及何时观看"
+    },
+    {
+     "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
+     "link": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
+     "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
+     "summary": "Using data from the James Webb Space Telescope, astronomers have unravelled some of the secrets of a bizarre, blisteringly hot exoplanet that has the consistency of marshmallow.",
+     "source": "Space.com",
+     "zh": "科学家在奇异、灼热的“棉花糖”系外行星的大气中发现了“宝石”"
     },
     {
      "title": "SpaceX thrusters just made a Tesla Roadster 'fly' (and Elon Musk's car is still out there in space)",
@@ -1545,6 +1545,14 @@
    "total": 5,
    "items": [
     {
+     "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
+     "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+     "pubDate": "Fri, 16 Oct 2026 18:37:50 GMT",
+     "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
+     "source": "Dark Reading",
+     "zh": "AI 在 16 分钟内控制机械臂"
+    },
+    {
      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
      "pubDate": "Fri, 16 Oct 2026 23:18:45 +0530",
@@ -1729,14 +1737,6 @@
      "zh": "AI Slop 不仅仅适用于社交媒体；它也破坏了网络攻击"
     },
     {
-     "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
-     "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
-     "pubDate": "Thu, 15 Oct 2026 15:17:18 GMT",
-     "summary": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
-     "source": "Dark Reading",
-     "zh": "漏洞管理不是关于分数，而是关于它如何应用于您"
-    },
-    {
      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
      "pubDate": "Wed, 14 Oct 2026 14:22:49 +0000",
@@ -1768,6 +1768,14 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "The PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects (Lindsay Clark/The Register)",
+     "link": "https://www.techmeme.com/261016/p17#a261016p17",
+     "pubDate": "Fri, 16 Oct 2026 14:45:00 -0400",
+     "summary": "Lindsay Clark / The Register : The PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects &nbsp; &mdash;&nbsp; Core devs revert up to 10 features, push release to November, and blame better tooling rather t",
+     "source": "Techmeme",
+     "zh": "在 LLM 辅助代码审查发现架构缺陷后，PostgreSQL 全球开发小组推迟了 PostgreSQL 19 的全面发布（Lindsay Clark/The Register）"
+    },
     {
      "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
      "link": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
@@ -1831,6 +1839,14 @@
      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 142 # Comments: 105",
      "source": "Hacker News",
      "zh": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上"
+    },
+    {
+     "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+     "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+     "pubDate": "Fri, 16 Oct 2026 17:05:59 +0000",
+     "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+     "source": "Ars Technica",
+     "zh": "报告称，RFK Jr. 建议 FDA 对未经证实的肽采取另一种态度"
     },
     {
      "title": "英国中年男性自杀率达到历史最高水平",
@@ -1991,22 +2007,6 @@
      "summary": "Millions kept changing hands long after the election outcomes were effectively settled.",
      "source": "Ars Technica",
      "zh": "选举结束后，Polymarket 的选举交易额达到 6 亿美元"
-    },
-    {
-     "title": "Source: Intuit acquired UK-based B2B revenue management and billing startup Sequence in a sale worth ~$200M; Sequence raised $19M led by a16z in 2022 (Jess Jones/The Times)",
-     "link": "https://www.techmeme.com/261016/p13#a261016p13",
-     "pubDate": "Fri, 16 Oct 2026 10:15:01 -0400",
-     "summary": "Jess Jones / The Times : Source: Intuit acquired UK-based B2B revenue management and billing startup Sequence in a sale worth ~$200M; Sequence raised $19M led by a16z in 2022 &nbsp; &mdash;&nbsp; A British financial technology business has been acquired by Intuit, the American software company, in a",
-     "source": "Techmeme",
-     "zh": "资料来源：Intuit 收购了英国 B2B 收入管理和计费初创公司 Sequence，交易价值约 2 亿美元； Sequence 于 2022 年筹集了 1900 万美元，由 a16z 领投（Jess Jones/《泰晤士报》）"
-    },
-    {
-     "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
-     "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
-     "pubDate": "Fri, 16 Oct 2026 14:03:25 +0000",
-     "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
-     "source": "Ars Technica",
-     "zh": "特斯拉转向 50 年前的特技技术，再次尝试 Roadster"
     }
    ]
   },
@@ -2016,6 +2016,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Google’s latest anti-doomscrolling tool is shedding its Pixel exclusivity",
+     "link": "https://www.androidauthority.com/pause-point-expanding-3724620/",
+     "pubDate": "Fri, 16 Oct 2026 18:42:03 +0000",
+     "summary": "OnePlus phones are starting to get a taste of Digital Wellbeing's Pause Point.",
+     "source": "Android Authority",
+     "zh": "谷歌最新的反末日滚动工具正在放弃其 Pixel 独占权"
+    },
     {
      "title": "Samsung Galaxy S27+ might miss out on UWB",
      "link": "https://www.gsmarena.com/samsung_galaxy_s27_might_miss_out_on_uwb-news-75084.php",
@@ -2103,14 +2111,6 @@
      "summary": "We already know when Apple will show off its touchscreen MacBooks and the OLED iPad mini thanks to a leak from yesterday, and now the company itself seems to have confirmed the tablet is coming. A new Smart Folio for the iPad mini with the model number A3632 has shown up on Apple's French regulatory",
      "source": "GSMArena",
      "zh": "苹果自己的网站现在暗示将推出新的 iPad mini"
-    },
-    {
-     "title": "Samsung’s Switch 2-ready P9 Express microSD card just fell to $59.99",
-     "link": "https://www.androidauthority.com/samsung-p9-express-microsdxc-256gb-deal-3724579/",
-     "pubDate": "Fri, 16 Oct 2026 16:58:41 +0000",
-     "summary": "Amazon cuts 25% off the P9 Express 256GB for Switch 2, a microSD Express card built for faster installs and load times.",
-     "source": "Android Authority",
-     "zh": "三星支持 Switch 2 的 P9 Express microSD 卡跌至 59.99 美元"
     },
     {
      "title": "Galaxy S27 reportedly skips Snapdragon 8 Elite Extreme Gen 6 due to overheating",
@@ -2265,12 +2265,28 @@
    "total": 13,
    "items": [
     {
+     "title": "Katie Zacharia out as Trump&apos;s White House press secretary",
+     "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+     "pubDate": "Fri, 16 Oct 2026 18:40:26 GMT",
+     "summary": "Zacharia was on shaky ground from her first White House press conference, and over questions about her claims of being a lawyer despite not passing a bar exam.",
+     "source": "CNBC",
+     "zh": "凯蒂·扎卡里亚 (Katie Zacharia) 不再担任特朗普的白宫新闻秘书"
+    },
+    {
      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
      "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
      "pubDate": "Fri, 16 Oct 2026 18:37:00 GMT",
      "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock.",
      "source": "MarketWatch",
      "zh": "Anthropic IPO 会让您的 401(k) 面临风险吗？人工智能安全争论进入了一个新的层面。"
+    },
+    {
+     "title": "Martin Marietta raised to Buy at D.A. Davidson after YTD underperformance",
+     "link": "https://seekingalpha.com/news/4653955-martin-marietta-raised-to-buy-at-d-a-davidson-after-ytd-underperformance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 14:35:26 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Martin Marietta 在 D.A. 的投资中获得买入评级戴维森年初至今表现不佳"
     },
     {
      "title": "Alkermes reinstated Buy at Truist on narcolepsy opportunity",
@@ -2287,14 +2303,6 @@
      "summary": "“I know you’re not supposed to put money you can’t afford to lose into speculative stuff.”",
      "source": "MarketWatch",
      "zh": "“我喜欢高回报的想法”：我的财务顾问希望我投资 35 万美元建设阿联酋数据中心。这有风险吗？"
-    },
-    {
-     "title": "Katie Zacharia out as Trump&apos;s White House press secretary",
-     "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-     "pubDate": "Fri, 16 Oct 2026 18:28:23 GMT",
-     "summary": "Zacharia was on shaky ground from her first White House press conference, and over questions about her claims of being a lawyer despite not passing a bar exam.",
-     "source": "CNBC",
-     "zh": "凯蒂·扎卡里亚 (Katie Zacharia) 不再担任特朗普的白宫新闻秘书"
     },
     {
      "title": "Trump says White House didn&apos;t order Starlink restrictions in Ukraine",
@@ -2447,14 +2455,6 @@
      "summary": "The deficit figure is the largest since 2021 and amounts to an estimated 6.2% of U.S. gross domestic product.",
      "source": "MarketWatch",
      "zh": "美国预算赤字刚刚达到近 2 万亿美元，而华盛顿却没有采取太多措施"
-    },
-    {
-     "title": "Katie Zacharia has been ousted from her role as press secretary – report",
-     "link": "https://seekingalpha.com/news/4653952-katie-zacharia-has-been-ousted-from-her-role-as-press-secretary-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 13:59:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "凯蒂·扎卡里亚 (Katie Zacharia) 已被解除新闻秘书职务——报告"
     },
     {
      "title": "Why Trump and the GOP&apos;s billion-dollar midterm blitz isn’t working",

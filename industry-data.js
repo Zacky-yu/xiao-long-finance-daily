@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/16 12:50:30",
+ "generated_at": "2026/10/16 12:56:41",
  "recent_days": 7,
  "industries": [
   {
@@ -981,17 +981,9 @@ window.INDUSTRY_DATA = {
      "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
      "link": "https://www.utilitydive.com/news/utilities-need-ai-solve-grid-backlogs-aws-energy-lead-head/832816/",
      "pubDate": "Thu, 15 Oct 2026 12:00:00 -0400",
-     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities, Joseph Santamaria.",
+     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities&nbsp;Joseph Santamaria.",
      "source": "Utility Dive",
      "zh": "公用事业公司可以使用人工智能来解决电网积压问题：AWS 能源领先者"
-    },
-    {
-     "title": "Solar imports from India, Indonesia, Laos injured US manufacturers: ITC",
-     "link": "https://www.utilitydive.com/news/itc-material-injury-solar-imports-india-indonesia-laos/833127/",
-     "pubDate": "Thu, 15 Oct 2026 11:52:32 -0400",
-     "summary": "The decision clears the way for the Department of Commerce to finalize anti-dumping and countervailing duty orders on&nbsp;crystalline silicon photovoltaic cells from the three countries.",
-     "source": "Utility Dive",
-     "zh": "ITC：从印度、印度尼西亚、老挝进口的太阳能产品损害了美国制造商的利益"
     },
     {
      "title": "20.4GWh grid-scale BESS deployed globally in September, up 61%; YTD installs up 43%",
@@ -1045,7 +1037,7 @@ window.INDUSTRY_DATA = {
      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption",
      "link": "https://www.utilitydive.com/news/reliability-standards-ai-data-centers-crypto-miners-pass-final-nerc-ba/833094/",
      "pubDate": "Thu, 15 Oct 2026 09:28:37 -0400",
-     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more connected at voltage levels of at least 100 kV.",
+     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more, connected at voltage levels of at least 100 kV.",
      "source": "Utility Dive",
      "zh": "人工智能数据中心的可靠性标准，加密矿工更接近采用"
     },
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "Aligned Climate Capital and Nexamp have secured finance for their respective community solar portfolios in the US.",
      "source": "PV Tech",
      "zh": "Align Climate Capital 和 Nexamp 为社区太阳能项目提供融资"
+    },
+    {
+     "title": "Nightpeak Energy doubles Texas BESS site to 300MW",
+     "link": "https://www.energy-storage.news/nightpeak-energy-doubles-texas-bess-site-to-300mw/",
+     "pubDate": "Thu, 15 Oct 2026 11:34:30 +0000",
+     "summary": "Energy storage owner-operator Nightpeak Energy has reached financial close and commercial operation on its 150MW/300MWh Bocanova 2 battery storage project in Brazoria County, Southeast Texas.",
+     "source": "Energy Storage News",
+     "zh": "Nightpeak Energy 将德克萨斯州 BESS 站点容量翻倍至 300MW"
     }
    ]
   },
@@ -1263,7 +1263,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 18:00:48 +0000",
      "summary": "A small-molecule therapy, VG-3927, targeting microglial TREM2 signaling showed neuroprotective effects in preclinical studies for Alzheimer's disease and was well tolerated in a Phase I trial. The post Alzheimer’s Small-Molecule Therapy Shows Promise in Mice and Early Human Trial appeared first on G",
      "source": "GEN",
-     "zh": "阿尔茨海默病小分子疗法在小鼠和早期人体试验中显示出前景"
+     "zh": "阿尔茨海默氏症小分子疗法在小鼠和早期人体试验中显示出前景"
     },
     {
      "title": "Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit",
@@ -1770,12 +1770,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "专为《微软模拟飞行》打造：Echo XPC 手柄海外开订，179.99 美元、11 月发售",
+     "link": "https://www.ithome.com/1/013/865.htm",
+     "pubDate": "Fri, 16 Oct 2026 04:56:07 GMT",
+     "summary": "IT之家 10 月 16 日消息，据外媒 NotebookCheck 今天（16 日）午间报道，Honeycomb 的飞行模拟手柄 Echo Aviation Controller XPC 现已在美国开放免费预约，售价 179.99 美元 （IT之家注：现汇率约合 1,206 元人民币） ，将于 11 月 20 日正式开售，随后陆续登陆其他市场。 该手柄兼容 XBOX 和 PC，配备隧道磁阻摇杆、霍尔效应方向舵拨片以及 4 个滑块，专为《微软模拟飞行》打造。 用户现可通过 Honeycomb 官网免费预约，暂时不能直接预购。此外，Honeycomb 欧洲商城也已上架 Echo XPC，标价 1",
+     "source": "IT之家",
+     "zh": "专为《微软模拟飞行》打造：Echo XPC 手柄海外开订，179.99 美元、11 月发售"
+    },
+    {
+     "title": "Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn (Bloomberg)",
+     "link": "https://www.techmeme.com/261016/p1#a261016p1",
+     "pubDate": "Fri, 16 Oct 2026 00:55:00 -0400",
+     "summary": "Bloomberg : Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn &nbsp; &mdash;&nbsp; Taiwan plans to raise billions of dollars to develop industrial parks in the US that would build a base fo",
+     "source": "Techmeme",
+     "zh": "台湾计划在美国建造每个工业园区，成本为 20 亿至 40 亿美元，从德克萨斯州的工业园区开始，成本高达 40 亿美元，为 Nvidia、台积电和富士康建立供应链（彭博社）"
+    },
+    {
+     "title": "智元宣布与首批 20+ 高校合作，投入超 2 亿元建设具身智能人才生态",
+     "link": "https://www.ithome.com/1/013/864.htm",
+     "pubDate": "Fri, 16 Oct 2026 04:53:01 GMT",
+     "summary": "IT之家 10 月 16 日消息，智元本周发布公告，“ 元苼生态发展计划 ”与国内众多高校开展合作，共建具身智能产教融合创新实践平台。 基于具身智能真实教学与科研需求， 智元将投入千台具身智能设备 ，双方将进行课程共建、课题共研、实训共育，打通产业前沿技术与高校人才培养的衔接壁垒。 首批合作的 20 多所高等院校包括北京大学、清华大学、浙江大学、华南理工大学、上海交通大学、西安交通大学、东南大学、中山大学等。 智元将投入包括精灵、灵犀、远征在内的轮式、半尺寸和全尺寸人形机器人以及酷拓四足机器人，投入机型覆盖了智元全系列本体产品，投入总数超过一千台，解决高校机器短缺的问题。 同时， 智元还将提供",
+     "source": "IT之家",
+     "zh": "智元宣布与首批 20+ 高校合作，投入超 2 亿元建设具身智能人才生态"
+    },
+    {
+     "title": "上汽荣威家越 07 官宣 10 月 23 日上市，预售小订超 4 万台",
+     "link": "https://www.ithome.com/1/013/863.htm",
+     "pubDate": "Fri, 16 Oct 2026 04:51:06 GMT",
+     "summary": "IT之家 10 月 16 日消息，上汽荣威今日宣布， 家越 07 预售小订破 40000 ，将于 10 月 23 日正式上市。 据IT之家此前报道， 上汽荣威家越 07 于 9 月 21 日开启预售 ，行业首搭豆包座舱助手，共推出三款车型，预售价 13.78 万元起。 220 激光雷达版 13.78 万元 320 激光雷达版 14.58 万元 320 激光雷达智尊版 15.25 万元 荣威家越 07 长宽高为 4900*1910*1745mm，轴距 2908mm；该车行业首搭豆包座舱助手，支持拟人化表情、Face ID 账号识别记忆、豆包 App 联动，还会方言外语，能实现一句话联动全车、多人",
+     "source": "IT之家",
+     "zh": "上汽荣威家越 07 官宣 10 月 23 日上市，预售小订超 4 万台"
+    },
+    {
      "title": "小米 REDMI Turbo 6/Max 手机曝光：内部代号 sofia / denver，有望 2027Q1 发布",
      "link": "https://www.ithome.com/1/013/862.htm",
      "pubDate": "Fri, 16 Oct 2026 04:50:06 GMT",
      "summary": "IT之家 10 月 16 日消息，科技媒体 ximitime 昨日（10 月 15 日）发布博文， 通过挖掘 Mi Code 代码，发现了 REDMI Turbo 6 及 REDMI Turbo 6 Max 两款手机的踪迹。 从已曝光的型号看，小米或将继续采用“同一硬件、不同品牌命名”的策略：中国市场的 REDMI Turbo 6 / Turbo 6 Max，预计在海外以 POCO X9 Pro / X9 Pro Max 的名义销售，而印度市场则可能同时出现 REDMI Turbo 与 POCO 两个系列。 在 REDMI Turbo 6 方面，在海外市场名为 POCO X9 Pro，内部代号",
      "source": "IT之家",
      "zh": "小米 REDMI Turbo 6/Max 手机曝光：内部代号 sofia / denver，有望 2027Q1 发布"
+    },
+    {
+     "title": "百万台机器人之后，亚马逊还在解决取货难题",
+     "link": "https://www.huxiu.com/article/4897982.html?f=rss",
+     "pubDate": "Fri, 16 Oct 2026 12:44:31 +0800",
+     "summary": "本文来自微信公众号： 具身志 ，编辑：|越十三，作者：仲庆元 报道提要 从让货架自己“走”，到让机械臂伸手取货，亚马逊用了十多年，把越来越多仓库工作交给机器人。但一件取不出的商品，仍可能让整座货架多跑一趟，以及人工介入。 货架已经会自己“走”了，员工取放最高处的商品时，却还要爬梯子。 亚马逊的仓库里，移动机器人能把整座货架送到取货工作站，但最上方约2.4米高的货格，依然超过人的舒适操作范围。按照亚马逊对Vulcan项目的介绍，让员工少爬这些梯子，正是研发这套机器人的起点。 工程师为此做了几年研究。他们要让机械臂往拥挤的货格里伸，挪开旁边的东西，还要控制力道，别把商品弄坏。可真实部署的记录显示，",
+     "source": "虎嗅",
+     "zh": "百万台机器人之后，亚马逊还在解决取货难题"
     },
     {
      "title": "长城 27 款坦克 500 开启预订：可选 Hi4-T / Hi4-Z 混动或燃油版",
@@ -1794,14 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "腾讯 WorkBuddy 和 CodeBuddy 宣布 DeepSeek 服务故障用户 7 天内积分全额返还，额外送 500 积分"
     },
     {
-     "title": "卢伟冰晒小米 REDMI K100 真机，称将把旗舰的起点再往上提高一大步",
-     "link": "https://www.ithome.com/1/013/847.htm",
-     "pubDate": "Fri, 16 Oct 2026 04:34:25 GMT",
-     "summary": "IT之家 10 月 16 日消息，今天（16 日）上午，小米集团合伙人、总裁，手机部总裁、小米品牌总经理卢伟冰在B站发视频进一步预告 REDMI K100 标准版新机，并放出了绿色的真机外观。 卢伟冰表示，K100 标准版将全面继承 Pro 系列的全能定义，游戏体验看齐 Pro，电池容量将达到 K 系列的新高度。同时，该机将把旗舰的起点 再往上提高一大步 。 据IT之家此前报道， 博主 @数码闲聊站 此前爆料 ，小米 REDMI K100 标准版手机 堆了米系最大电池、独显芯片、相对大马达、Bose 双扬 ，属于配置不搞花活的类型。 据悉，小米 REDMI K100 标准版手机搭载骁龙 8 至",
-     "source": "IT之家",
-     "zh": "卢伟冰晒小米 REDMI K100 真机，称将把旗舰的起点再往上提高一大步"
-    },
-    {
      "title": "AI融资，离“爆雷”有多远？",
      "link": "https://www.huxiu.com/article/4897979.html?f=rss",
      "pubDate": "Fri, 16 Oct 2026 12:32:45 +0800",
@@ -1810,12 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI融资，离“爆雷”有多远？"
     },
     {
-     "title": "东风风神 L8+ 将于 10 月 23 日上市，搭载 Momenta R7 世界模型",
-     "link": "https://www.ithome.com/1/013/846.htm",
-     "pubDate": "Fri, 16 Oct 2026 04:28:32 GMT",
-     "summary": "IT之家 10 月 16 日消息，据易车消息，东风风神 L8+ 将于 10 月 23 日正式上市。 新车搭载天元智驾 T800，采用 Momenta R7 世界模型，配备英伟达 Thor-U 芯片，算力可达 700TOPS，支持城市和高速 NOA。 动力方面，东风风神 L8+ 搭载 1.5T 发动机 + 电机组成的插电混动系统。 据IT之家此前报道，东风风神在今年 7 月宣布， 下半年将发布风神 L8Y/L8+/L9/E80 四款新车 。其中 风神 L8+ 剑指“同级最强智能辅助驾驶产品” ，宣称刷新同级车型的智能体验上限。 内饰方面，风神 L8+ 搭载内嵌式液晶仪表以及大尺寸悬浮中控屏，并配",
-     "source": "IT之家",
-     "zh": "东风风神 L8+ 将于 10 月 23 日上市，搭载 Momenta R7 世界模型"
+     "title": "AI概念股正在下跌，不妨看看这些板块来对冲风险",
+     "link": "https://www.tmtpost.com/8170928.html",
+     "pubDate": "Fri, 16 Oct 2026 12:30:35 +0800",
+     "summary": "由于对人工智能的担忧，投资者正纷纷撤离科技股。不过，市场上的许多其他板块看起来仍是不错的投资选择。",
+     "source": "钛媒体",
+     "zh": "AI概念股正在下跌，不妨看看这些板块来对冲风险"
     },
     {
      "title": "电力设备的周期走到哪了？",
@@ -1842,14 +1874,6 @@ window.INDUSTRY_DATA = {
      "zh": "亚马逊，Agent最严厉的父亲"
     },
     {
-     "title": "工信部杨旭东：新型电池产业绝不能盲目地大干快上，造成不必要的供需矛盾",
-     "link": "https://www.ithome.com/1/013/845.htm",
-     "pubDate": "Fri, 16 Oct 2026 04:15:30 GMT",
-     "summary": "IT之家 10 月 16 日消息，据澎湃新闻报道，在 10 月 15 日于福建省宁德市举行的 2026 世界储能大会上，工信部电子信息司司长杨旭东强调，国家顶层设计“突出供需适配”。 在“十五五”时期，新型电池产业规模要保持稳步增长的态势，但这个稳步增长也要考虑到现实承受和发展基础， 绝不能盲目的大干快上，造成不必要的供需矛盾 。 所谓的新型电池，是以新机理、新材料、新结构、新工艺为核心创新方向的高效电能存储与转化装置或系统，以锂电池、钠电池、液流电池等为代表，具有技术迭代快、应用范围广、辐射带动强的典型特征。 据IT之家此前报道，工业和信息化部等 7 部门 9 月 28 日联合印发《 新型电",
-     "source": "IT之家",
-     "zh": "工信部杨旭东：新型电池产业绝不能盲目地大干快上，造成不必要的供需矛盾"
-    },
-    {
      "title": "官宣虞书欣首日卖出6000万，拉夏贝尔又杀回来了？",
      "link": "https://www.huxiu.com/article/4897973.html?f=rss",
      "pubDate": "Fri, 16 Oct 2026 12:09:45 +0800",
@@ -1874,6 +1898,14 @@ window.INDUSTRY_DATA = {
      "zh": "Meta 发布Muse Spark Open，号称全美最强开源模型，但编程基测输给智谱、Kimi"
     },
     {
+     "title": "半导体正变得越来越复杂，这家分拆出来的公司提供了一条轻松获利的路",
+     "link": "https://www.tmtpost.com/8170888.html",
+     "pubDate": "Fri, 16 Oct 2026 11:55:36 +0800",
+     "summary": "随着投资者对Qnity Electronics的产品及其在供应链中所起作用的理解不断加深，Qnity Electronics的股价可能上涨40%。",
+     "source": "钛媒体",
+     "zh": "半导体正变得越来越复杂，这家分拆出来的公司提供了一条轻松获利的路"
+    },
+    {
      "title": "被半个互联网拒绝，豆包手机有解吗？",
      "link": "https://www.huxiu.com/article/4897966.html?f=rss",
      "pubDate": "Fri, 16 Oct 2026 11:51:58 +0800",
@@ -1890,22 +1922,6 @@ window.INDUSTRY_DATA = {
      "zh": "总部位于奥斯汀的 RapidCanvas 使用代理帮助企业构建定制 AI 工具，筹集了约 2900 万美元的 B 轮融资，由 Vertex Ventures 和 Hitachi Ventures 领投（Chris Metinko/Axios）"
     },
     {
-     "title": "晚上10点加班的AI在搞科研",
-     "link": "https://www.huxiu.com/article/4897949.html?f=rss",
-     "pubDate": "Fri, 16 Oct 2026 11:30:38 +0800",
-     "summary": "本文来自微信公众号： 思策智库 ，作者：张自炯 最近刷到一条消息，截至2026年，Google DeepMind作为全球顶尖人工智能研究实验室，其开发的材料探索图网络GNoME，已有超过700种预测的新材料在全球实验室中被成功合成。 其中，包含528种潜在固态电解质候选、5.2万种类石墨烯层状化合物。直接为下一代锂电池、钙钛矿太阳能电池等领域提供了海量研发方向。 我第一反应是：我们平时聊AI写文章、做PPT、剪视频，其实都聊浅了。真正闷声改变世界的，是AI在实验室里把科学家原本要熬好几年的活儿，自己先替人类跑完一大半。 可问题来了——资本听这个故事听了三年，AI在物理、在生物、在材料里，究竟是",
-     "source": "虎嗅",
-     "zh": "晚上10点加班的AI在搞科研"
-    },
-    {
-     "title": "双十一的AI经济学",
-     "link": "https://www.tmtpost.com/8170394.html",
-     "pubDate": "Fri, 16 Oct 2026 11:21:28 +0800",
-     "summary": "商家付费的理由只有一个",
-     "source": "钛媒体",
-     "zh": "双十一的AI经济学"
-    },
-    {
      "title": "A Tesla Flying Car? I Don’t Know, Man",
      "link": "https://www.wired.com/story/tesla-flying-car-faa/",
      "pubDate": "Fri, 16 Oct 2026 03:18:30 +0000",
@@ -1920,14 +1936,6 @@ window.INDUSTRY_DATA = {
      "summary": "Bloomberg : Sources detail Nscale's setbacks ahead of an IPO at up to a $35B valuation, including a six-month delay in Norway and penalties owed to Microsoft and ByteDance &nbsp; &mdash;&nbsp; One flagship AI data center in Norway is six months behind schedule, with workers set to be housed in a flo",
      "source": "Techmeme",
      "zh": "消息人士详细介绍了 Nscale 在估值高达 35B 美元的 IPO 之前遇到的挫折，包括在挪威推迟六个月以及对微软和字节跳动的处罚 (彭博社)"
-    },
-    {
-     "title": "张一鸣的世界模型，藏不住了",
-     "link": "https://www.tmtpost.com/8170379.html",
-     "pubDate": "Fri, 16 Oct 2026 10:23:20 +0800",
-     "summary": "造世界、开任意门，字节抢跑世界模型。",
-     "source": "钛媒体",
-     "zh": "张一鸣的世界模型，藏不住了"
     },
     {
      "title": "Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base (Microsoft AI)",
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes Comments URL: https://news.ycombinator.com/item?id=50112330 Points: 83 # Comments: 23",
      "source": "Hacker News",
      "zh": "RPKI 现在保护 70% 的互联网路由"
-    },
-    {
-     "title": "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
-     "link": "https://www.techmeme.com/261015/p56#a261015p56",
-     "pubDate": "Thu, 15 Oct 2026 20:15:02 -0400",
-     "summary": "Stephen Council / Business Insider : Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital &nbsp; &mdash;&nbsp; AI agents are starting to outnumber humans in many high-tech workplaces, and they c",
-     "source": "Techmeme",
-     "zh": "Opsin 帮助公司显示人工智能代理在哪里活跃、他们访问哪些数据并标记风险行为，由 SYN Ventures 和 Race Capital 领投，筹集了 2100 万美元（Stephen Council/Business Insider）"
     },
     {
      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
@@ -2266,6 +2266,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "港股AI相关个股遭空头狙击 智谱月内卖空股数暴增近五倍",
+     "link": "http://finance.eastmoney.com/news/1354,202610163898224134.html",
+     "pubDate": "Fri, 16 Oct 2026 12:47:00 +0800",
+     "summary": "进入10月以来，港股市场呈现弱势震荡格局，恒生科技指数在10月15日再度刷新年内新低。 伴随指数持续探底，全市场卖空力量在经历月初脉冲与中旬收敛后边际抬头，沽空主力高度聚焦于AI及科技 权重股 ，空头博弈情绪显著升温。 10月以来港股整体表现疲软，科技板块首当其冲。昨日(10月15日)，恒生科技指数跌势未止，盘中再度跌破前期支撑位，续创年内新低。市场悲观预期与外部扰动交织，压制了多头资金的做多意愿。 10月2日，全市场卖空成交占比一度飙升至27.34%，创2015年以来的历史第五高位，随后降温回落至13%—16%的常态区间。 金额反弹：10月15日，全市场绝对沽空金额再度走高，达321.87亿",
+     "source": "东方财富股票",
+     "zh": "港股AI相关个股遭空头狙击 智谱月内卖空股数暴增近五倍"
+    },
+    {
      "title": "一文读懂：AI融资离“爆雷”究竟有多远？",
      "link": "http://finance.eastmoney.com/news/1354,202610163898217522.html",
      "pubDate": "Fri, 16 Oct 2026 12:44:02 +0800",
@@ -2287,7 +2295,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 00:40:23 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Northrim BanCorp 非 GAAP 每股收益为 0.60 美元，比预期低 0.05 美元，营收为 5,965 万美元，比预期高 440 万美元"
+     "zh": "Northrim BanCorp 非公认会计准则每股收益为 0.60 美元，比预期低 0.05 美元，收入为 5,965 万美元，比预期高 440 万美元"
     },
     {
      "title": "South Korea’s Kospi leads Asian rebound as technology selling eases",
@@ -2322,14 +2330,6 @@ window.INDUSTRY_DATA = {
      "zh": "Babycare宣布设立专项资金 邀请消费者参与纸尿裤送检"
     },
     {
-     "title": "8家头部光伏企业聚首杭州引关注",
-     "link": "http://finance.eastmoney.com/news/11218,202610163898232162.html",
-     "pubDate": "Fri, 16 Oct 2026 12:36:08 +0800",
-     "summary": "通威股份 、 协鑫科技 等 8家头部光伏企业10月11日在杭州举行闭门会议 的消息近日引发行业关注。据报道，本次会议是继上海、成都两次闭门会议之后， 行业龙头 企业围绕“反内卷”、稳价格举行的第三次闭门会议。会议在此前共识基础上聚焦实操层面，进一步细化了产能限制的落地计划，拟通过市场化调节机制，引导各企业根据市场总需求自主统筹、主动压减产能。 有消息称，本次会议明确硅料（含西门子法及颗粒硅）平均成本含税价不得低于 4.3万元／吨 ，低于此价格即被视为低价倾销。同时划出 电池 片和组件环节价格底线，《中国能源报》记者就上述内容向相关方求证，截至发稿未获回复。 本次会议的召开建立在近三个月政策与制",
-     "source": "东方财富股票",
-     "zh": "8家头部光伏企业聚首杭州引关注"
-    },
-    {
      "title": "WaFd GAAP EPS of $0.76 misses by $0.08, revenue of $220.43M beats by $16.77M",
      "link": "https://seekingalpha.com/news/4653688-wafd-gaap-eps-of-076-misses-by-008-revenue-of-22043m-beats-by-1677m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 16 Oct 2026 00:33:28 -0400",
@@ -2351,7 +2351,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 04:29:27 GMT",
      "summary": "Singapore vessels are set to continue navigating the perilous Strait of Hormuz despite attacks on two container ships, said maritime experts.",
      "source": "CNBC",
-     "zh": "一艘新加坡船只被击沉，但这就是其他船只仍在通过霍尔木兹海峡的原因"
+     "zh": "一艘新加坡船只沉没，但这就是其他船只仍在通过霍尔木兹海峡的原因"
     },
     {
      "title": "Strive prices upsized $630M IPO of SATS preferred stock",
@@ -2679,7 +2679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 00:14:55 EDT",
      "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains very low, Rutgers researchers say the findings warrant attention as millions of peop",
      "source": "ScienceDaily",
-     "zh": "Ozempic 和 Wegovy 与突发视力丧失的罕见风险有关"
+     "zh": "Ozempic 和 Wegovy 与罕见的突然视力丧失风险有关"
     },
     {
      "title": "Q&A: The “collision” between AI, your brain, and society",

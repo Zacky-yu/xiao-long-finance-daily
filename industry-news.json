@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/17 03:03:39",
+ "generated_at": "2026/10/17 03:09:46",
  "recent_days": 7,
  "industries": [
   {
@@ -297,12 +297,36 @@
      "zh": "数据中心电力成为 OCP 2026 的一大亮点"
     },
     {
+     "title": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/microchip-pol-05-20s-is-radiation-tolerant-gan-point-of-load-converter-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 14:24:13 +0000",
+     "summary": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
+     "source": "Electronics Weekly",
+     "zh": "Microchip POL-05-20S 是耐辐射 GaN 负载点转换器"
+    },
+    {
      "title": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition",
      "link": "https://semiconductor-today.com/news_items/2026/oct/omdia-161026.shtml",
      "pubDate": "Fri, 16 Oct 2026 14:52:30 +0100",
      "summary": "According to market research firm Omdia’s preliminary estimates, global smartphone shipments fell 20% year-on-year in third-quarter 2026, a sharp acceleration from the 6% decline recorded the previous quarter. Shipments also declined sequentially despite new flagship launches and channel preparation",
      "source": "Semiconductor Today",
      "zh": "内存危机重塑竞争格局，2026 年第三季度智能手机出货量萎缩 20%"
+    },
+    {
+     "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-arm-vs-qualcomm-ai-boom-adr-mission-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 13:38:02 +0000",
+     "summary": "The latest installment of the Arm vs Qualcomm case, the weirdness of the current semiconductor market, and an active debris removal mission to launch from Scotland mission... The post What caught your eye? Arm vs Qualcomm, AI boom, ADR mission appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "什么引起了您的注意？ Arm 与高通、人工智能热潮、ADR 使命"
+    },
+    {
+     "title": "When Mandy  Became A Revolutionary",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-mandy-became-a-revolutionary-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 13:32:30 +0000",
+     "summary": "Mandy is known for other things now but 28 years ago he was a revolutionary, as this EW yarn in September 1998 chronicled: ‘The first major speech as cabinet minister […] The post When Mandy Became A Revolutionary appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "当曼迪成为革命者时"
     },
     {
      "title": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume",
@@ -313,12 +337,36 @@
      "zh": "Terafab 的单一屋顶：为什么封装而非光刻决定了高产量"
     },
     {
+     "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
+     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/a-v-cuk-group-adds-auracast-assistive-listening-technology-to-portfolio-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 11:12:17 +0000",
+     "summary": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
+     "source": "Electronics Weekly",
+     "zh": "音视频：CUK 集团将 Auracast 辅助听力技术添加到产品组合中"
+    },
+    {
      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
      "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
      "pubDate": "Fri, 16 Oct 2026 10:55:42 +0000",
      "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times .",
      "source": "EE Times",
      "zh": "台湾的人工智能野心遭遇人才缺口"
+    },
+    {
+     "title": "R&S extends amplifier range for satellite use",
+     "link": "https://www.electronicsweekly.com/news/rs-extends-amplifier-range-for-satellite-use-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 10:54:42 +0000",
+     "summary": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "R&S 扩展了卫星用途的放大器范围"
+    },
+    {
+     "title": "Raltron monolithic crystal filter series for gateway ground stations",
+     "link": "https://www.electronicsweekly.com/news/products/raltron-monolithic-crystal-filter-series-for-gateway-ground-stations-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 10:20:32 +0000",
+     "summary": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
+     "source": "Electronics Weekly",
+     "zh": "用于网关地面站的 Raltron 单片晶体滤波器系列"
     },
     {
      "title": "Gemtek partners with Starman to make optical transceivers in US",
@@ -447,54 +495,6 @@
      "summary": "Artificial intelligence is becoming part of the infrastructure that powers healthcare, transportation, finance, manufacturing, and everyday digital services. As these systems grow more capable, they also process more sensitive information and depend on increasingly complex hardware. The Synopsys whi",
      "source": "SemiWiki",
      "zh": "为什么人工智能安全从芯片级开始"
-    },
-    {
-     "title": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/onsemi-151026.shtml",
-     "pubDate": "Thu, 15 Oct 2026 10:36:20 +0100",
-     "summary": "Intelligent power and sensing technology firm onsemi of Scottsdale, AZ, USA says that its latest EliteSiC silicon carbide (SiC) hybrid power module technology has been adopted by renewable energy technology firm Sungrow for its PowerTitan 3.0 energy storage platform. The integration enables improved",
-     "source": "Semiconductor Today",
-     "zh": "安森美EliteSiC混合功率模块技术应用于阳光电源PowerTitan 3.0储能平台"
-    },
-    {
-     "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
-     "link": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
-     "pubDate": "Thu, 15 Oct 2026 07:07:45 +0000",
-     "summary": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself. The post Beyond The Specification: What Really Determines PCIe Retimer Reach? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "超越规范：什么真正决定 PCIe 重定时器的范围？"
-    },
-    {
-     "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
-     "link": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/",
-     "pubDate": "Thu, 15 Oct 2026 07:06:02 +0000",
-     "summary": "Short-resilient via insertion improves reliability and performance. The post Strengthening Advanced-Node Interconnects Through Automated Via Insertion appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "通过自动过孔插入加强高级节点互连"
-    },
-    {
-     "title": "Building AI Infrastructure For Greater Choice And Flexibility",
-     "link": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/",
-     "pubDate": "Thu, 15 Oct 2026 07:03:05 +0000",
-     "summary": "Open interfaces and interoperability allow designers to choose technologies based on the needs of the system. The post Building AI Infrastructure For Greater Choice And Flexibility appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "构建人工智能基础设施以获得更多选择和灵活性"
-    },
-    {
-     "title": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
-     "link": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/",
-     "pubDate": "Thu, 15 Oct 2026 07:02:37 +0000",
-     "summary": "Extending chiplet connectivity across AXI and CHI with scalable protocol subsets, interoperability, and flexible transport support. The post AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AMBA C2C：通过 C2C 连接的融合 AMBA 基础向前迈进"
-    },
-    {
-     "title": "Why Open-Weight AI Matters",
-     "link": "https://semiengineering.com/why-open-weight-ai-matters/",
-     "pubDate": "Thu, 15 Oct 2026 07:02:13 +0000",
-     "summary": "Proprietary models still hold the edge, but open-weight models add more flexibility for deploying AI. The post Why Open-Weight AI Matters appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "为什么开放式重量人工智能很重要"
     }
    ]
   },
@@ -857,6 +857,14 @@
      "zh": "挪威未开发的石油和天然气领域重新引起人们的兴趣"
     },
     {
+     "title": "France And Germany Agree On New Exhaust Emissions Rules, Sort Of…..",
+     "link": "https://cleantechnica.com/2026/10/16/france-and-germany-agree-on-new-exhaust-emissions-rules-sort-of/",
+     "pubDate": "Fri, 16 Oct 2026 18:59:53 +0000",
+     "summary": "There is an old expression that goes like this: “Everyone complains about the weather, but nobody does anything about it.” There is a corollary to that adage: “Everybody knows we have to stop polluting our environment, but nobody wants to be first to do something about it.” A case in ... [continued]",
+     "source": "CleanTechnica",
+     "zh": "法国和德国就新的废气排放规则达成一致……"
+    },
+    {
      "title": "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Offers-Another-17-Million-SPR-Barrels-as-Fuel-Crisis-Deepens.html",
      "pubDate": "Fri, 16 Oct 2026 13:30:00 -0500",
@@ -1079,14 +1087,6 @@
      "summary": "Monthly wind generation in the first nine months of 2026 was an average of 68% higher compared with the same period in 2025 in ISO New England (ISO-NE): Monthly generation from wind was highest in September of this year at 668.9 gigawatthours (GWh), more than double generation levels from September ",
      "source": "CleanTechnica",
      "zh": "ISO-NE 每月风力发电量比去年增加约 68%"
-    },
-    {
-     "title": "PJM, ERCOT, and SWPP All Set Peak Load Records This Summer",
-     "link": "https://cleantechnica.com/2026/10/15/pjm-ercot-and-swpp-all-set-peak-load-records-this-summer/",
-     "pubDate": "Fri, 16 Oct 2026 03:25:03 +0000",
-     "summary": "Three regional transmission organizations (RTOs) set records for peak hourly load this past summer, according to data reported on Form EIA-930 and presented in the Hourly Electric Grid Monitor: PJM peaked at 162.6 gigawatts (GW) on July 2, 2026, 1.3% higher than the pre-2026 peak of 160.6 GW on June",
-     "source": "CleanTechnica",
-     "zh": "PJM、ERCOT 和 SWPP 今年夏天均创下峰值负荷记录"
     }
    ]
   },
@@ -1297,20 +1297,20 @@
    "total": 6,
    "items": [
     {
-     "title": "How to see the Orionid meteor shower 2026 peak this week — and when to look",
-     "link": "https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look",
-     "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
-     "summary": "The Orionids peak around Oct. 21. Here's when and where to look for the best chance of spotting meteors.",
-     "source": "Space.com",
-     "zh": "本周如何观看猎户座流星雨 2026 年峰值——以及何时观看"
-    },
-    {
      "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
      "link": "https://www.space.com/astronomy/exoplanets/scientists-find-gemstones-in-atmosphere-of-bizarre-scorching-hot-marshmallow-exoplanet",
      "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
      "summary": "Using data from the James Webb Space Telescope, astronomers have unravelled some of the secrets of a bizarre, blisteringly hot exoplanet that has the consistency of marshmallow.",
      "source": "Space.com",
      "zh": "科学家在奇异、灼热的“棉花糖”系外行星的大气中发现了“宝石”"
+    },
+    {
+     "title": "How to see the Orionid meteor shower 2026 peak this week — and when to look",
+     "link": "https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look",
+     "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
+     "summary": "The Orionids peak around Oct. 21. Here's when and where to look for the best chance of spotting meteors.",
+     "source": "Space.com",
+     "zh": "本周如何观看猎户座流星雨 2026 年峰值——以及何时观看"
     },
     {
      "title": "SpaceX thrusters just made a Tesla Roadster 'fly' (and Elon Musk's car is still out there in space)",
@@ -1561,12 +1561,12 @@
      "zh": "研究人员展示 OpenBSD 根漏洞利用链 37 年前的共享内存漏洞"
     },
     {
-     "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+     "title": "Targeted ads installed Candiru spyware in zero-click attacks",
      "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
      "pubDate": "Fri, 16 Oct 2026 13:20:03 -0400",
      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
      "source": "BleepingComputer",
-     "zh": "零点击攻击使用定向广告来传播 Candiru 间谍软件"
+     "zh": "有针对性的广告在零点击攻击中安装了 Candiru 间谍软件"
     },
     {
      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
@@ -1769,6 +1769,22 @@
    "total": 18,
    "items": [
     {
+     "title": "Sources: Elon Musk approached Trump with the idea of slowing down Starshield in Ukraine; source: Trump agreed, paving the way for DoD to execute the slowdown (Joe Barnes/Telegraph)",
+     "link": "https://www.techmeme.com/261016/p18#a261016p18",
+     "pubDate": "Fri, 16 Oct 2026 15:05:02 -0400",
+     "summary": "Joe Barnes / Telegraph : Sources: Elon Musk approached Trump with the idea of slowing down Starshield in Ukraine; source: Trump agreed, paving the way for DoD to execute the slowdown &nbsp; &mdash;&nbsp; SpaceX founder had publicly blamed president for chaos over restrictions, but sources say he ini",
+     "source": "Techmeme",
+     "zh": "消息来源：埃隆·马斯克向特朗普提出了放慢乌克兰星盾计划的想法；资料来源：特朗普同意，为国防部执行减速措施铺平了道路（乔·巴恩斯/电讯报）"
+    },
+    {
+     "title": "Claude reveals ECDSA curve origins",
+     "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+     "pubDate": "Fri, 16 Oct 2026 18:55:59 +0000",
+     "summary": "Article URL: https://www.anthropic.com/research/ecdsa-curve-origins Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 6 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Claude 揭示 ECDSA 曲线起源"
+    },
+    {
      "title": "The PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects (Lindsay Clark/The Register)",
      "link": "https://www.techmeme.com/261016/p17#a261016p17",
      "pubDate": "Fri, 16 Oct 2026 14:45:00 -0400",
@@ -1780,7 +1796,7 @@
      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
      "link": "https://github.com/cobanov/PS5LM",
      "pubDate": "Fri, 16 Oct 2026 18:32:35 +0000",
-     "summary": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 17 # Comments: 2",
      "source": "Hacker News",
      "zh": "越狱 PS5 上的 Llama.cpp：在控制台上本地运行任何 GGUF 模型"
     },
@@ -1796,7 +1812,7 @@
      "title": "Anthropic assigned highest junk credit rating in June",
      "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
      "pubDate": "Fri, 16 Oct 2026 18:11:42 +0000",
-     "summary": "Article URL: https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d Comments URL: https://news.ycombinator.com/item?id=50122112 Points: 25 # Comments: 4",
+     "summary": "Article URL: https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d Comments URL: https://news.ycombinator.com/item?id=50122112 Points: 38 # Comments: 9",
      "source": "Hacker News",
      "zh": "Anthropic 授予 6 月​​份最高垃圾信用评级"
     },
@@ -1804,7 +1820,7 @@
      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
      "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
      "pubDate": "Fri, 16 Oct 2026 18:06:17 +0000",
-     "summary": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 35 # Comments: 12",
+     "summary": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 51 # Comments: 24",
      "source": "Hacker News",
      "zh": "eBay 限制无线电设备列表，但仅适用于业余无线电设备"
     },
@@ -1812,7 +1828,7 @@
      "title": "Designing more efficient quantum circuits with Claude",
      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
      "pubDate": "Fri, 16 Oct 2026 18:00:18 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 16 # Comments: 3",
+     "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 22 # Comments: 5",
      "source": "Hacker News",
      "zh": "与 Claude 一起设计更高效的量子电路"
     },
@@ -1833,20 +1849,12 @@
      "zh": "2026.42：终于回家了"
     },
     {
-     "title": "Piramidal (YC W24) Is Hiring",
-     "link": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
-     "pubDate": "Fri, 16 Oct 2026 17:08:55 +0000",
-     "summary": "Article URL: https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009 Comments URL: https://news.ycombinator.com/item?id=50121188 Points: 0 # Comments: 0",
+     "title": "GifCities",
+     "link": "https://gifcities.org/",
+     "pubDate": "Fri, 16 Oct 2026 17:35:07 +0000",
+     "summary": "https://twitter.com/internetarchive/status/21111409457059637... Comments URL: https://news.ycombinator.com/item?id=50121601 Points: 4 # Comments: 0",
      "source": "Hacker News",
-     "zh": "Piramidal (YC W24) 正在招聘"
-    },
-    {
-     "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-     "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-     "pubDate": "Fri, 16 Oct 2026 17:08:38 +0000",
-     "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 166 # Comments: 134",
-     "source": "Hacker News",
-     "zh": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上"
+     "zh": "动图城市"
     },
     {
      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
@@ -1999,14 +2007,6 @@
      "summary": "好消息是资本市场还在投，坏消息是，它越来越挑剔",
      "source": "钛媒体",
      "zh": "兑现度的胜利，星尘智能再融10亿"
-    },
-    {
-     "title": "Polymarket saw $600 million in election trades after the elections were over",
-     "link": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
-     "pubDate": "Fri, 16 Oct 2026 14:19:22 +0000",
-     "summary": "Millions kept changing hands long after the election outcomes were effectively settled.",
-     "source": "Ars Technica",
-     "zh": "选举结束后，Polymarket 的选举交易额达 6 亿美元"
     }
    ]
   },
@@ -2265,6 +2265,30 @@
    "total": 13,
    "items": [
     {
+     "title": "数智赋能 凝聚“新合力” 南京智能电网产业冲刺万亿级产业集群",
+     "link": "http://finance.eastmoney.com/news/1354,202610173898794021.html",
+     "pubDate": "Sat, 17 Oct 2026 03:03:56 +0800",
+     "summary": "10月16日，2026年全国 电力 行业数智化转型暨 智能电网 产业生态发布大会在南京江宁会展中心举行。19家能源 电力 央国企代表，以及 智能电网 领域重点企业、高校院所、科研机构、金融机构代表等300余人汇聚金陵，围绕“数智赋能‘十五五’，打造万亿 智能电网 产业集群”主题，共商能源 电力 行业发展新路径。 会上，南京智能电网产业联盟正式成立，南京市 创投 集团发布“江苏南京新型电力产业专项母基金投资推介”。南京以产业集聚、数智赋能、抱团“出海”等创新实践，为打造智能电网万亿级产业集群注入新动能。 凝聚产业发展“新合力” 随着“双碳”目标的深入推进与新型电力系统建设的加速，我国电力装备行业",
+     "source": "东方财富股票",
+     "zh": "数智赋能 凝聚“新合力” 南京智能电网产业冲刺万亿级产业集群"
+    },
+    {
+     "title": "Katie Zacharia 'transitioning out' of her role as press secretary",
+     "link": "https://seekingalpha.com/news/4653952-katie-zacharia-has-been-ousted-from-her-role-as-press-secretary-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 15:02:19 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "凯蒂·扎卡里亚（Katie Zacharia）“过渡”新闻秘书的角色"
+    },
+    {
+     "title": "Catalyst Watch: Meta earnings, Kroger event, and Black Monday turns 39",
+     "link": "https://seekingalpha.com/news/4653857-catalyst-watch-meta-earnings-kroger-event-and-black-monday-turns-39?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 15:00:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Catalyst Watch：元收益、克罗格事件和黑色星期一迎来 39 周年"
+    },
+    {
      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
      "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
@@ -2305,6 +2329,14 @@
      "zh": "苹果售价 1,999 美元的 iPhone Duo 考验了该公司的地位象征力量"
     },
     {
+     "title": "“小五香”撑起“大产业” 湖南江永的特色农业“破圈记”",
+     "link": "http://finance.eastmoney.com/news/1355,202610173898794181.html",
+     "pubDate": "Sat, 17 Oct 2026 02:55:13 +0800",
+     "summary": "一颗颗其貌不扬的芋头，当下正在湖南省江永县实现“华丽转身”，串起一条10亿级产值、富民增收的特色农业产业链。 江永县是红军长征重要途经地之一，90多年前，红六军团、红八军团及红九军团先后过境当地。如今，江永县这片湘南红土地，正立足自身特色资源禀赋，深耕“江永五香”（香芋、香柚、香姜、香米、香菇）特色农业。 相关数据显示，截至目前，江永县以香芋为代表的“五香”及特色果品产业持续壮大，年总产量已突破63.3万吨，部分产品更是远销新加坡、马来西亚、越南等海外市场。据悉，2024年11月，江永香柚实现对越南首次出口。 作为“江永五香”特色农业代表性企业之一，湖南省五香食品有限责任公司（以下简称“五香食",
+     "source": "东方财富股票",
+     "zh": "“小五香”撑起“大产业” 湖南江永的特色农业“破圈记”"
+    },
+    {
      "title": "美德乐：从铝型材到“产线动脉”",
      "link": "http://finance.eastmoney.com/news/1354,202610173898792680.html",
      "pubDate": "Sat, 17 Oct 2026 02:54:23 +0800",
@@ -2327,22 +2359,6 @@
      "summary": "今年8月， 锦波生物 《多肽、其生产方法和用途》专利荣获中国专利金奖，实现了山西在这一领域37年来零的突破。从实验室到生产线，从标准参与者到行业生态建设者， 锦波生物 创始人杨霞带领团队，用18年时间，闯出了一条生命材料的原始创新路。 “金奖是里程碑，更是新起点。”近日，上海证券报联合北京证券交易所“北交所万里行”调研团队走进 锦波生物 ，杨霞对上海证券报记者表示，锦波生物的“自强自立”就是对原始创新的坚持。 ◎记者武斌 十八年磨一剑的底层突破 上述专利，起源于一项困扰业界数十年的难题：如何用 合成生物 法制备出与人体高级结构一致的胶原蛋白，同时消除动物源胶原蛋白的免疫原性和凝血性风险，以及传",
      "source": "东方财富股票",
      "zh": "锦波生物：十八年锻造生命材料“中国芯”"
-    },
-    {
-     "title": "从“资产配置”走向“能力输出” 从“单向引进”走向“双向循环” 公募基金行业深化双向开放提速",
-     "link": "http://finance.eastmoney.com/news/1354,202610173898792392.html",
-     "pubDate": "Sat, 17 Oct 2026 02:54:04 +0800",
-     "summary": "今年9月，易方达基金与泰国大型国有背景商业 银行 泰京 银行 合作，在泰国证券交易所（SET）同步挂牌上市4只挂钩易方达境内ETF的存托凭证（TDR）。同月，华夏基金依托香港子公司，与全球资管巨头 富兰克林邓普顿 合作发行的一只全球跨境投资主题ETF落地，为投资者实现跨市场多元配置提供新工具。 在2026 金融街 论坛年会期间，中国证监会将于10月21日举行主题为“建设一流投资机构，服务资本市场高质量发展，共享投资中国新机遇”的主论坛，多家国际展业能力突出的内外资基金行业机构共聚北京，展示行业国际化建设成效与中国投资机会。 从9月新产品落地，到10月论坛上集中亮相，这既是基金公司国际化布局的生",
-     "source": "东方财富股票",
-     "zh": "从“资产配置”走向“能力输出” 从“单向引进”走向“双向循环” 公募基金行业深化双向开放提速"
-    },
-    {
-     "title": "超纯科技：“一滴水”的国产化攻关",
-     "link": "http://finance.eastmoney.com/news/1354,202610173898792266.html",
-     "pubDate": "Sat, 17 Oct 2026 02:54:02 +0800",
-     "summary": "一片晶圆在制造过程中要经过上百次清洗，清洗用水一旦有微量杂质留在晶圆表面，就会影响到后续工序，甚至造成芯片报废。一段时间以来，国内高端芯片产线的超纯水系统主要采用进口方案。 2004年，超纯科技从深圳起步，逐步进入超纯水系统这一颇有技术门槛的领域。如今，超纯科技的系统已应用于8英寸晶圆产线，并逐步参与12英寸相关项目。近日，上海证券报联合北京证券交易所“北交所万里行”调研团队走进超纯科技，了解这家广东省制造业单项冠军企业20余年的技术积累与国产化进程。 从“一滴水”开始 一见到上海证券报记者，超纯科技董事长钱志刚开门见山地说，在晶圆制造加工过程中，每进入下一道工序前，通常要先将晶圆清洗干净。清",
-     "source": "东方财富股票",
-     "zh": "超纯科技：“一滴水”的国产化攻关"
     },
     {
      "title": "AI investors have woken up to the bond market’s warning signs",
@@ -2385,14 +2401,6 @@
      "zh": "Martin Marietta 在 D.A. 的投资中获得买入评级戴维森年初至今表现不佳"
     },
     {
-     "title": "Alkermes reinstated Buy at Truist on narcolepsy opportunity",
-     "link": "https://seekingalpha.com/news/4653958-alkermes-stock-reinstated-buy-truist?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 14:31:07 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alkermes 因嗜睡症机会恢复了 Truist 的买入"
-    },
-    {
      "title": "‘I like the idea of a big return’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
      "pubDate": "Fri, 16 Oct 2026 18:30:00 GMT",
@@ -2423,14 +2431,6 @@
      "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
      "source": "Financial Times",
      "zh": "特朗普的新闻秘书凯蒂·扎卡里亚在五天后被解雇"
-    },
-    {
-     "title": "Ambarella may be seeing interest from a third bidder - report",
-     "link": "https://seekingalpha.com/news/4653954-ambarella-may-be-seeing-interest-from-a-third-bidder---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 14:20:10 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "安霸可能会看到第三位竞标者的兴趣 - 报告"
     },
     {
      "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
@@ -2489,20 +2489,20 @@
      "zh": "为什么特朗普和共和党的数十亿美元中期闪电战没有奏效"
     },
     {
-     "title": "前三季度动力电池装车量同比增长16.7% 上游材料将迎来结构性影响",
-     "link": "http://www.eeo.com.cn/2026/1017/1067425.shtml",
-     "pubDate": "Sat, 17 Oct 2026 01:52:13 +0800",
-     "summary": "10月15日，中国汽车动力电池产业创新联盟发布数据。今年9月，国内动力电池装车量为87.2GWh（吉瓦时），环比增长10.4%，同比增长14.7%。前三季度，随着新能源商用车及新能源汽车单车带电量的增长，我国动力电池累计装车量达到576.3GWh，同比增长16.7%，纯电动货车和纯电动专用车对装车量的带动作用明显。 该联盟发布的数据还显示，前三季度，我国动力和储能电池的产量、销量均已超过2025年全年产销总量，继续保持稳定增长...",
-     "source": "经济观察网",
-     "zh": "前三季度动力电池装车量同比增长16.7% 上游材料将迎来结构性影响"
+     "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+     "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+     "pubDate": "Fri, 16 Oct 2026 16:46:18 GMT",
+     "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+     "source": "CNBC",
+     "zh": "官员称，美国在曼谷双边会谈中就万事达卡和花旗集团的市场准入问题向中国施压"
     },
     {
-     "title": "核心城市优质地块仍具吸引力",
-     "link": "http://www.eeo.com.cn/2026/1017/1067424.shtml",
-     "pubDate": "Sat, 17 Oct 2026 01:52:13 +0800",
-     "summary": "10月16日，武汉市成功出让3宗涉宅用地，总土地出让面积161026平方米，总起始价13.68亿元。其中，位于东湖新技术开发区的P（2026）091号地块在66轮激烈竞价后以5.87亿元成交，溢价率超33%，展现出核心城市优质地块仍具有较强吸引力。 10月1日，武汉市住房和城市更新局等部门发布《关于贯彻落实〈关于完善商品住房销售制度的通知〉的实施意见》（以下简称《意见》），其中明确“2026年8月28日起，新出让土地的商品住房项目...",
-     "source": "经济观察网",
-     "zh": "核心城市优质地块仍具吸引力"
+     "title": "美财政部调查未释放削减发债信号，美债收益率走高、10年期重上5.12%",
+     "link": "https://wallstreetcn.com/articles/3783811",
+     "pubDate": "Sat, 17 Oct 2026 00:19:21 +0800",
+     "summary": "美国财政部的最新一级交易商调查并未释放即将削减长期国债拍卖规模的明确信号，令押注政府将出手压低长期利率的投资者失望，美债价格由此下跌、收益率整体走高。 这份调查是财政部为11月4日公布的季度再融资计划做准备的一部分。市场原本希望从问卷中找到美国财长贝森特可能调整长期国债发行规模的线索，尤其是市场近期热议的缩减、甚至停止发行20年期国债的可能性。但财政部只是笼统询问未来应考虑哪些拍卖规模调整，没有明确暗示削减长期债券供给即将发生。 财政部调查讯息公布后，二级市场美国国债收益率全线上行。美国10年期基准国债收益率重上5.12%，逼近美股盘前刷新的日高5.1315%，日内升幅重新扩大至6.5个基点；",
+     "source": "华尔街见闻",
+     "zh": "美财政部调查未释放削减发债信号，美债收益率走高、10年期重上5.12%"
     }
    ]
   },

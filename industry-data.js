@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 02:09:48",
+ "generated_at": "2026/10/17 02:15:34",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+     "link": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+     "pubDate": "Fri, 16 Oct 2026 18:11:34 +0000",
+     "summary": "General Science",
+     "source": "Google Research",
+     "zh": "将人工智能代理扎根于生物现实：自主湿实验室的构建模块"
+    },
     {
      "title": "India becomes the latest country to report rogue AI agent activity",
      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
@@ -31,7 +39,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who beli",
      "source": "TechCrunch AI",
-     "zh": "英伟达资深人士表示，物理人工智能不仅仅是机器人"
+     "zh": "这位正在投资物理人工智能的 Nvidia 资深人士表示，物理人工智能不仅仅是机器人"
     },
     {
      "title": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -151,7 +159,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on 12 Verus/Rust tasks acr",
      "source": "arXiv cs.AI",
-     "zh": "当正确性反馈抹掉证据时：Verus 中的分阶段完整性审计"
+     "zh": "当正确性反馈消除证据时：Verus 中的分阶段完整性审计"
     },
     {
      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Hugging Face",
      "zh": "欢迎光束：您可以拥有、定制和扩展的 501B 开放模型"
-    },
-    {
-     "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-     "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-     "pubDate": "Thu, 15 Oct 2026 20:34:01 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "Granite Switch 4.1：来自一个端点的聊天、决策和语音"
     }
    ]
   },
@@ -391,7 +391,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 10:03:49 +0100",
      "summary": "The Department of Commerce’s CHIPS Program Office has agreed with GlobalFoundries of Malta, NY (the only US-based pure-play foundry with a global manufacturing footprint) to amend its existing award and reallocate up to $955m in incentives under the US CHIPS and Science Act...",
      "source": "Semiconductor Today",
-     "zh": "GlobalFoundries 的 CHIPS 计划奖项修改为支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
+     "zh": "GlobalFoundries 的 CHIPS 计划奖项经过修改，以支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
     },
     {
      "title": "Infineon and Wolfspeed expand and extend long-term SiC wafer supply agreement to 200mm",
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program",
+     "link": "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/",
+     "pubDate": "Fri, 16 Oct 2026 17:57:12 +0000",
+     "summary": "The cohort will run February through June 2027, concluding with company showcases at the Robotics Summit and Expo in Boston. The post MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "MassRobotics 开放医疗机器人创业催化剂计划申请"
+    },
+    {
      "title": "Video Friday: When Two Robots Become One",
      "link": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
      "pubDate": "Fri, 16 Oct 2026 16:30:02 +0000",
@@ -618,14 +626,6 @@ window.INDUSTRY_DATA = {
      "zh": "使用自然语言通信进行协作自动驾驶车辆的神经符号规划"
     },
     {
-     "title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
-     "link": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
-     "pubDate": "Tue, 13 Oct 2026 23:22:05 +0000",
-     "summary": "With the expansion, NYSOFA and Intuition Robotics established a new three-year, $2.1 million agreement to keep rolling out ElliQ. The post NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "NYSOFA 扩大与 Intuition Robotics 的合作伙伴关系，将 ElliQ 带给更多老年人"
-    },
-    {
      "title": "Q&A: Mars Perseverance Rover Sets a Distance Record",
      "link": "https://spectrum.ieee.org/mars-rover-distance-record",
      "pubDate": "Tue, 13 Oct 2026 15:02:04 +0000",
@@ -671,7 +671,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 17:06:03 +0000",
      "summary": "Volkswagen is set to recall “several thousand” electric vehicles, including the ID.4 and ID. Buzz. The company is urging owners to limit charging to 80% until a fix is available. more…",
      "source": "Electrek",
-     "zh": "大众汽车正在召回“数千”辆电动汽车，其中包括 ID.4，而且不仅仅在美国"
+     "zh": "大众汽车正在召回“数千辆”电动汽车，其中包括 ID.4，而且不仅仅在美国"
     },
     {
      "title": "European Car Companies Can't Compete With Chinese Tech. In Paris, They Leaned On 'Heritage' Instead",
@@ -743,7 +743,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:44:30 +0000",
      "summary": "The model is Aiva's first production vehicle since the brand's launch in June, measuring 4,999 mm in length. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "随着 Seres 支持的品牌转向生产，Aiva ME7 出现在监管文件中"
+     "zh": "Seres 支持的品牌转向生产，Aiva ME7 出现在监管文件中"
     },
     {
      "title": "Shangjie Z9 electric SUV appears in regulatory filing as Huawei-SAIC brand readies fourth model",
@@ -767,7 +767,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 12:46:53 +0000",
      "summary": "Tesla execs Lars Moravy and Franz von Holzhausen spilled the beans on Tesla’s most outrageous car ever.",
      "source": "InsideEVs",
-     "zh": "Tesla Roadster 拥有 1,341 马力，续航里程达到埃隆·马斯克曾经承诺的一半。这是完整的规格"
+     "zh": "Tesla Roadster 拥有 1,341 马力，续航里程是埃隆·马斯克曾经承诺的一半。这是完整的规格"
     },
     {
      "title": "Tesla's Roadster can fly, and Nio's William Li admits: 'This we really don't have'",
@@ -775,7 +775,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 12:42:58 +0000",
      "summary": "Nio founder reposted a Roadster stunt video and praises Tesla, echoing his 2018 remark that \"whatever Tesla has, we have.\" For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "特斯拉Roadster能飞，蔚来李斌承认：“这个我们真的没有”"
+     "zh": "特斯拉Roadster可以飞，蔚来李斌承认：“这个我们真的没有”"
     },
     {
      "title": "Nio Firefly reaches 90,000 cumulative deliveries after record September",
@@ -1983,7 +1983,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 14:19:22 +0000",
      "summary": "Millions kept changing hands long after the election outcomes were effectively settled.",
      "source": "Ars Technica",
-     "zh": "选举结束后，Polymarket 的选举交易额达到 6 亿美元"
+     "zh": "选举结束后，Polymarket 的选举交易额达 6 亿美元"
     },
     {
      "title": "Source: Intuit acquired UK-based B2B revenue management and billing startup Sequence in a sale worth ~$200M; Sequence raised $19M led by a16z in 2022 (Jess Jones/The Times)",
@@ -2223,7 +2223,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:00:00 +0000",
      "summary": "Technics' flagship over-ear wireless headphones are light on compromises, but enter a competitive market.",
      "source": "Engadget",
-     "zh": "Technics EAH-A1000 评测：优质套装中的卓越音质和卓越 ANC"
+     "zh": "Technics EAH-A1000 评测：高级套件中的卓越音质和卓越 ANC"
     },
     {
      "title": "An OpenAI research agent 'stole' test Ethereum to finish a coding task",
@@ -2265,6 +2265,22 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "两党联手阻击特朗普松绑俄柴油协议！众院议案拟撤销豁免、强制制裁，布油盘中涨超3%",
+     "link": "https://wallstreetcn.com/articles/3783812",
+     "pubDate": "Sat, 17 Oct 2026 02:12:40 +0800",
+     "summary": "美国总统特朗普放宽俄罗斯柴油出口限制的决定遭到国会两党议员集体阻击。 美东时间16日周五，美国众议院外交事务委员会的民主党首席委员Gregory Meeks提出一项两党议员共同支持的议案，拟撤销美国财政部已发放的相关许可、禁止未来继续发放豁免，并要求政府对俄罗斯能源行业实施制裁。这意味着，特朗普试图通过恢复俄罗斯柴油供应缓解能源价格压力、推动俄乌谈判的政策，正面临国会从参议院到众议院的连续反对。 以上议案消息公布后，国际原油期货在美股早盘尾声时段拉升。美股午盘之初，WTI原油期货一度接近每桶100.90美元，日内涨近3%；布伦特原油期货一度逼近每桶109.60美元，日内涨近3.5%。市场需要重",
+     "source": "华尔街见闻",
+     "zh": "两党联手阻击特朗普松绑俄柴油协议！众院议案拟撤销豁免、强制制裁，布油盘中涨超3%"
+    },
+    {
+     "title": "战略油储逼近纪录低位还要再动用！美国拟提供最多1700万桶原油",
+     "link": "https://wallstreetcn.com/articles/3783810",
+     "pubDate": "Sat, 17 Oct 2026 02:12:29 +0800",
+     "summary": "美国战略石油储备（SPR）已降至1982年以来最低水平之际，政府仍在推进新一轮原油交换计划。 美国能源部于当地时间16日周五提出，拟向市场提供最多1700万桶战略储备原油，以履行今年3月国际协调释储承诺，并缓解伊朗战事冲击下的能源供应压力。 这并非一次简单的原油出售。按照交换机制，参与企业未来需要归还借出的原油，并额外交付一定数量的原油作为溢价。该计划可以增加短期市场供应，但也凸显出美国在缓解能源价格压力与保障战略储备之间的权衡。 此前交换响应有限，美国继续推进释储承诺 美国能源部此次供油属于一项交换计划，即原油以“借贷”方式提供给参与者，并在后续日期归还。交付时间为11月至次年1月。投标方须",
+     "source": "华尔街见闻",
+     "zh": "战略油储逼近纪录低位还要再动用！美国拟提供最多1700万桶原油"
+    },
     {
      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America&apos;s biggest economic challenge",
      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
@@ -2378,6 +2394,14 @@ window.INDUSTRY_DATA = {
      "zh": "李强主持召开国务院常务会议"
     },
     {
+     "title": "分析师热评“会飞的特斯拉”：工程技术实力惊艳世界 但商业价值可能有限",
+     "link": "http://stock.eastmoney.com/news/11228,202610173898787213.html",
+     "pubDate": "Sat, 17 Oct 2026 01:46:39 +0800",
+     "summary": "特斯拉 当地时间周四晚间在得克萨斯州发布了新一代Roadster跑车，上演了令人惊叹的“腾空翻转”等高难度动作，并展示了飞行能力。不过，多位分析师认为，这款车型短期内不太可能为 特斯拉 带来可观的收入。 周五盘前，受发布活动引发的市场热度推动， 特斯拉 股价一度上涨逾5%，不过，盘中转为下跌近3%。 汇丰 银行 高级全球 汽车 行业分析师Michael Tyndall评论称，这次亮相更多是一次工程实力的展示，而非盈利能力的证明，消费者距离拿到新车仍需等待一段时间。 给予特斯拉“中性”评级的 摩根大通 分析师Rajat Gupta表示，新款Roadster展现了特斯拉与 SpaceX 之间的深度",
+     "source": "东方财富股票",
+     "zh": "分析师热评“会飞的特斯拉”：工程技术实力惊艳世界 但商业价值可能有限"
+    },
+    {
      "title": "American Airlines Q3 preview: What guidance says about fuel-cost risks",
      "link": "https://seekingalpha.com/news/4653937-american-airlines-q3-preview-what-guidance-says-about-fuel-cost-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 16 Oct 2026 13:45:40 -0400",
@@ -2402,6 +2426,22 @@ window.INDUSTRY_DATA = {
      "zh": "BNP 表示，尽管总体使用率较低，但 Meta Muse 的采用率继续上升"
     },
     {
+     "title": "加拿大工业部长称正探索将Stelco国有化",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898785462.html",
+     "pubDate": "Sat, 17 Oct 2026 01:42:26 +0800",
+     "summary": "加拿大工业部长：加拿大正探索《加拿大投资法》下的所有选项，以考虑将Stelco国有化。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "加拿大工业部长称正探索将Stelco国有化"
+    },
+    {
+     "title": "伊朗外交部：愿帮助解决沙特与也门冲突",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898785327.html",
+     "pubDate": "Sat, 17 Oct 2026 01:42:23 +0800",
+     "summary": "伊朗外交部发言人：愿意帮助解决沙特和也门之间的冲突。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "伊朗外交部：愿帮助解决沙特与也门冲突"
+    },
+    {
      "title": "Trump urges his new press secretary to ‘reconsider’ the role",
      "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
      "pubDate": "Fri, 16 Oct 2026 17:41:27 GMT",
@@ -2410,12 +2450,36 @@ window.INDUSTRY_DATA = {
      "zh": "特朗普敦促新任新闻秘书“重新考虑”这一角色"
     },
     {
+     "title": "美总统特朗普重启美黎直飞航班的计划遇阻",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898785241.html",
+     "pubDate": "Sat, 17 Oct 2026 01:40:57 +0800",
+     "summary": "当地时间10月16日，一份报告摘要显示，联合国航空机构认定黎巴嫩的主要 机场 缺乏有效认证。 美国总统特朗普7月宣布恢复美黎（贝鲁特）直飞航班的计划，并于9月签署行政令，允许美国政府开通从美国直飞黎巴嫩的航班。此前，环球航空（TWA）847号航班于1985年遭劫持并被迫降落在贝鲁特，导致该航线停飞。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "美总统特朗普重启美黎直飞航班的计划遇阻"
+    },
+    {
+     "title": "白宫新闻秘书扎卡里亚周五被解雇",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898785172.html",
+     "pubDate": "Sat, 17 Oct 2026 01:37:09 +0800",
+     "summary": "美国白宫新闻秘书扎卡里亚已于周五被解雇。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "白宫新闻秘书扎卡里亚周五被解雇"
+    },
+    {
      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
      "pubDate": "Fri, 16 Oct 2026 17:35:00 GMT",
      "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
      "source": "MarketWatch",
      "zh": "我今年 63 岁，被诊断患有淋巴瘤。我明年应该领取社会保障吗？"
+    },
+    {
+     "title": "南非等20国外长联合谴责哥伦比亚在耶路撒冷设立大使馆",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898784914.html",
+     "pubDate": "Sat, 17 Oct 2026 01:33:56 +0800",
+     "summary": "当地时间10月16日，南非国际关系与合作部发表联合声明称，南非与埃及、巴勒斯坦、土耳其、沙特阿拉伯、卡塔尔、约旦、印度尼西亚、马来西亚、巴基斯坦等共20个国家的外长，强烈谴责并明确反对哥伦比亚在耶路撒冷举行大使馆启用仪式。 声明指出，哥伦比亚此举违反联合国安理会有关决议，损害国际社会推动以“两国方案”为基础实现公正、持久和平的努力。 声明重申，任何试图改变被占领耶路撒冷法律或历史地位，或承认其为以色列首都的措施和决定，均属无效，不具有任何法律效力。这一立场符合联合国安理会和联合国大会相关决议，特别是安理会第476号和第478号决议。有关决议反对改变耶路撒冷的性质和地位，并呼吁各国将外交使团撤出",
+     "source": "东方财富股票",
+     "zh": "南非等20国外长联合谴责哥伦比亚在耶路撒冷设立大使馆"
     },
     {
      "title": "Microsoft is the only hyperscaler not forecast to dip into negative FCF in the next year",
@@ -2429,7 +2493,7 @@ window.INDUSTRY_DATA = {
      "title": "美股三大指数集体走低 纳指跌超2% 标普500跌超1% 存储与半导体板块下挫",
      "link": "http://finance.eastmoney.com/news/1345,202610163898640489.html",
      "pubDate": "Sat, 17 Oct 2026 01:21:43 +0800",
-     "summary": "美东时间周五，美股三大指数走低，截至发稿，道指跌0.56%，纳指跌2.06%，标普500指数跌1.16%。 存储与 半导体 板块下挫，截至发稿，费城 半导体 指数跌近3%。个股方面， SK海力士 、 希捷科技 跌超6%， 闪迪 跌超5%，ARM、 西部数据 跌超5%， 英特尔 、 超威半导体 跌近5%， 美光科技 跌近4.5%， 拉姆研究 、 博通 跌近4%， 台积电 跌超2%。 油价涨势扩大，截至发稿，美国原油 期货 突破每桶100美元，涨幅超2%。 全球要闻 美联储主席沃什：“AI红利”势必伴随阵痛 坚守价格稳定但不“预判”！ 美联储主席凯文·沃什周五表示， 人工智能 （AI）很可能是他有",
+     "summary": "美东时间周五，美股三大指数走低，截至发稿，道指跌0.42%，纳指跌2.06%，标普500指数跌1.10%。 存储与 半导体 板块下挫，截至发稿，费城 半导体 指数跌近3%。个股方面， SK海力士 、 希捷科技 跌超5.5%，ARM跌超5%， 超威半导体 、 英特尔 跌近5%， 闪迪 、 西部数据 跌近5%， 美光科技 跌超4%， 博通 跌近4%， 拉姆研究 跌超3.5%， 台积电 跌超2%。 油价涨势扩大，截至发稿，美国原油 期货 突破每桶100美元，涨幅超2%。 全球要闻 美联储主席沃什：“AI红利”势必伴随阵痛 坚守价格稳定但不“预判”！ 美联储主席凯文·沃什周五表示， 人工智能 （AI）",
      "source": "东方财富资讯",
      "zh": "美股三大指数集体走低 纳指跌超2% 标普500跌超1% 存储与半导体板块下挫"
     },
@@ -2440,70 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "As Chairman Kevin Warsh looks to revamp the central bank’s communication strategy, the dot plot is ripe for change.",
      "source": "MarketWatch",
      "zh": "美联储应如何揭示经济前景"
-    },
-    {
-     "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-     "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-     "pubDate": "Fri, 16 Oct 2026 16:46:18 GMT",
-     "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-     "source": "CNBC",
-     "zh": "官员称，美国在曼谷双边会谈中就万事达卡和花旗集团的市场准入问题向中国施压"
-    },
-    {
-     "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
-     "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 16:39:00 GMT",
-     "summary": "Spending all your cash first can make your income surge in later years.",
-     "source": "MarketWatch",
-     "zh": "我们的退休金花销顺序正确吗？我们的计划是：社会保障、年金、现金——然后是 IRA。"
-    },
-    {
-     "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-     "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-     "pubDate": "Fri, 16 Oct 2026 16:27:44 GMT",
-     "summary": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
-     "source": "CNBC",
-     "zh": "OpenAI 沙特国家窃听案显示美国在人工智能领域的领导地位受到威胁：DNI Clayton"
-    },
-    {
-     "title": "美财政部调查未释放削减发债信号，美债收益率走高，10年期重上5.12%",
-     "link": "https://wallstreetcn.com/articles/3783811",
-     "pubDate": "Sat, 17 Oct 2026 00:19:21 +0800",
-     "summary": "美国财政部的最新一级交易商调查并未释放即将削减长期国债拍卖规模的明确信号，令押注政府将出手压低长期利率的投资者失望，美债价格由此下跌、收益率整体走高。 这份调查是财政部为11月4日公布的季度再融资计划做准备的一部分。市场原本希望从问卷中找到美国财长贝森特可能调整长期国债发行规模的线索，尤其是市场近期热议的缩减、甚至停止发行20年期国债的可能性。但财政部只是笼统询问未来应考虑哪些拍卖规模调整，没有明确暗示削减长期债券供给即将发生。 财政部调查讯息公布后，二级市场美国国债收益率全线上行。美国10年期基准国债收益率重上5.12%，逼近美股盘前刷新的日高5.1315%，日内升幅重新扩大至6.5个基点；",
-     "source": "华尔街见闻",
-     "zh": "美财政部调查未释放削减发债信号，美债收益率走高，10年期重上5.12%"
-    },
-    {
-     "title": "视频｜从助农创业到护童暖心 各地妇联执委在渝分享履职故事",
-     "link": "http://www.eeo.com.cn/2026/1016/1067398.shtml",
-     "pubDate": "Fri, 16 Oct 2026 23:26:17 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 吴礼霜）10月14日，由全国妇联组织部、全国妇联社联中心、重庆市妇联共同主办的“巾帼履职担使命 服务妇女践初心”全国妇联系统执委履职交流活动在重庆举办。来自全国各地近200名妇联执委及妇联干部齐聚山城，交流履职经验，生动展示各级妇联执委用心用情服务妇女儿童和家庭的履职成果。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/347F98960ED1C943F7D372299F24...",
-     "source": "经济观察网",
-     "zh": "视频｜从助农创业到护童暖心 各地妇联执委在渝分享履职故事"
-    },
-    {
-     "title": "纳斯达克100站上关键支撑位，多空博弈进入决战时刻",
-     "link": "https://wallstreetcn.com/articles/3783809",
-     "pubDate": "Fri, 16 Oct 2026 23:11:21 +0800",
-     "summary": "金融市场分析平台The Market Ear认为，纳斯达克100指数（NDX）正处于技术与基本面的双重考验之中。在经历一轮剧烈抛售后，指数在关键趋势支撑位和100日均线交汇处形成锤形反转K线，多空双方在此展开决定性博弈，若守住，可能触发强力轧空行情，若跌破，则市场或将急速恶化。 本周四盘中，半导体行业基金VanEck Semiconductor ETF（SMH）和内存产业基金Roundhill Memory ETF（DRAM）相关标的成交量暴增至近期峰值，多空对冲基金账面遭受重创，全球系统性多空策略一日下跌1.4%，接近四个标准差的极端波动。与此同时，科技股信用违约互换（CDS）利差持续走阔，",
-     "source": "华尔街见闻",
-     "zh": "纳斯达克100站上关键支撑位，多空博弈进入决战时刻"
-    },
-    {
-     "title": "长安管理层大变阵，朱华荣不再兼任上市公司董事长",
-     "link": "https://wallstreetcn.com/articles/3783808",
-     "pubDate": "Fri, 16 Oct 2026 23:10:40 +0800",
-     "summary": "作者 | 周智宇 10月16日，长安公布新一轮管理层调整。朱华荣继续担任中国长安汽车集团有限公司党委书记、董事长，不再兼任上市公司重庆长安汽车股份有限公司董事长、党委书记；集团总经理赵非接任上市公司董事长，原常务执行副总裁叶沛出任总裁、党委副书记。 这轮调整中，一个关键变化是，集团总经理与上市公司总裁两个岗位分开了。此前，朱华荣同时担任两级公司的董事长，赵非同时担任集团总经理和上市公司总裁。如今，集团与上市公司之间保留赵非兼任董事长这一衔接，整车公司的经营岗位则交给叶沛。 其他调整也围绕两级班子展开。谭本宏继续担任集团党委副书记，不再兼任上市公司党委副书记；杨大勇升任长安汽车常务执行副总裁，邓",
-     "source": "华尔街见闻",
-     "zh": "长安管理层大变阵，朱华荣不再兼任上市公司董事长"
-    },
-    {
-     "title": "拟增资逾21亿元，北汽蓝谷何时跨过盈利关？",
-     "link": "https://wallstreetcn.com/articles/3783807",
-     "pubDate": "Fri, 16 Oct 2026 23:04:18 +0800",
-     "summary": "极狐与享界持续放量、毛利率转正，北汽蓝谷仍需要为日常经营补充资金。 10月15日晚，北汽蓝谷披露，拟与控股股东北汽集团向北汽新能源共同增资不超过16.38亿元；北汽新能源拟另通过公开挂牌方式增资扩股，引入外部投资者，增资金额不超过5亿元。两项合计上限为21.38亿元，主要用于补充日常经营流动资金。方案尚需股东会审议，外部投资者尚未确定。 这次增资发生在经营有所改善的阶段。今年前三季度，北汽新能源累计销量16.34万辆，同比增长46.52%；上半年，北汽蓝谷营收115.97亿元，同比增长21.86%，归母净亏损19.38亿元，较上年同期减亏约3.70亿元。 销量增长开始改善制造端的收益，但公司仍",
-     "source": "华尔街见闻",
-     "zh": "拟增资逾21亿元，北汽蓝谷何时跨过盈利关？"
     }
    ]
   },

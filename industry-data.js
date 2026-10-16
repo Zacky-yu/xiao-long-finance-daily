@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 06:08:49",
+ "generated_at": "2026/10/17 06:09:42",
  "recent_days": 7,
  "industries": [
   {
@@ -15,7 +15,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
      "source": "TechCrunch AI",
-     "zh": "Replit is no longer working with Anthropic, CEO says"
+     "zh": "Replit 首席执行官表示不再与 Anthropic 合作"
     },
     {
      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
@@ -23,7 +23,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 18:11:34 +0000",
      "summary": "General Science",
      "source": "Google Research",
-     "zh": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs"
+     "zh": "将人工智能代理扎根于生物现实：自主湿实验室的构建模块"
     },
     {
      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -31,7 +31,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
      "source": "MIT Tech Review AI",
-     "zh": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
+     "zh": "圆桌会议：与人工智能病毒创造者的对话"
     },
     {
      "title": "India becomes the latest country to report rogue AI agent activity",
@@ -39,7 +39,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 17:52:24 +0000",
      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
      "source": "TechCrunch AI",
-     "zh": "India becomes the latest country to report rogue AI agent activity"
+     "zh": "印度成为最新一个报告流氓人工智能代理活动的国家"
     },
     {
      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -47,7 +47,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who beli",
      "source": "TechCrunch AI",
-     "zh": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet"
+     "zh": "一位 Nvidia 内部人士转型为风险投资家，探讨机器人技术尚未达到 ChatGPT 时刻的原因"
     },
     {
      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
@@ -55,7 +55,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who beli",
      "source": "TechCrunch AI",
-     "zh": "Physical AI is more than robots, says the Nvidia veteran now investing in it"
+     "zh": "这位正在投资物理人工智能的 Nvidia 资深人士表示，物理人工智能不仅仅是机器人"
     },
     {
      "title": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -63,7 +63,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
      "source": "TechCrunch AI",
-     "zh": "Elorian’s first AI model wants to reason with images, not just about them"
+     "zh": "Elorian 的第一个人工智能模型想要用图像进行推理，而不仅仅是图像"
     },
     {
      "title": "Jev is Vercel’s fastest-adopted AI model ever",
@@ -71,7 +71,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
      "source": "TechCrunch AI",
-     "zh": "Jev is Vercel’s fastest-adopted AI model ever"
+     "zh": "Jev 是 Vercel 有史以来采用速度最快的 AI 模型"
     },
     {
      "title": "Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself",
@@ -79,7 +79,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 14:00:00 +0000",
      "summary": "From static retrieval pipelines to autonomous reasoning engines: a complete breakdown of how these two architectures work, where each falls short, and how to choose the right one for your use case.",
      "source": "KDnuggets",
-     "zh": "Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself"
+     "zh": "Agentic RAG 与 Naive RAG：何时您的检索系统应该独立思考"
     },
     {
      "title": "2.99万元起！端侧跑超千亿大模型，联想YOGA Pro 15 RTX Spark发售",
@@ -95,7 +95,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 12:00:00 +0000",
      "summary": "World models could be the next big shift in AI. Learn more right now.",
      "source": "KDnuggets",
-     "zh": "5 Best Resources to Learn About World Models in 2026"
+     "zh": "2026 年了解世界模型的 5 个最佳资源"
     },
     {
      "title": "《时代》2026最佳发明揭晓：宇树领衔，联想荣耀TCL蚂蚁上榜，AI无处不在",
@@ -111,7 +111,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 06:26:41 +0000",
      "summary": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on ",
      "source": "MarkTechPost",
-     "zh": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index"
+     "zh": "Liquid AI 发布 d1-ultra：多模态决策模型，AA 决策指数得分 65 分"
     },
     {
      "title": "后摩智能亮出2D CIM+3D CIM路线！Agent竞速赛打响，双路径抢占端边算力先机",
@@ -135,7 +135,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across six",
      "source": "arXiv cs.AI",
-     "zh": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock"
+     "zh": "世界不会等待：在实时时钟下评估和教学智能体"
     },
     {
      "title": "Evaluating Model Capabilities After Benchmark Saturation",
@@ -143,7 +143,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies. Y",
      "source": "arXiv cs.AI",
-     "zh": "Evaluating Model Capabilities After Benchmark Saturation"
+     "zh": "基准饱和后评估模型能力"
     },
     {
      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
@@ -151,7 +151,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require additional reward evaluation",
      "source": "arXiv cs.AI",
-     "zh": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion"
+     "zh": "离散扩散中加速顺序蒙特卡罗指导的价值知情调度修剪"
     },
     {
      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
@@ -159,7 +159,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use. ",
      "source": "arXiv cs.AI",
-     "zh": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks"
+     "zh": "AlphaDiana：可验证推理任务中智能体的测量系统"
     },
     {
      "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
@@ -167,7 +167,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on 12 Verus/Rust tasks acr",
      "source": "arXiv cs.AI",
-     "zh": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus"
+     "zh": "当正确性反馈抹掉证据时：Verus 中的分阶段完整性审计"
     },
     {
      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
@@ -175,7 +175,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20679v1 Announce Type: new Abstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a risk score means or when it should be trusted. We introduce Counterfactual Neighbo",
      "source": "arXiv cs.AI",
-     "zh": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models"
+     "zh": "反事实邻里风险领域：视觉语言模型的循证选择性安全"
     },
     {
      "title": "卡加了，吞吐为何没跟上？大模型推理中的等待，有了新解法",
@@ -207,7 +207,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 02:26:04 +0000",
      "summary": "Meta released Muse Spark Open, an 816B-parameter open-weight MoE model with 42B active parameters and a 1M-token context. It leads open models on MCP-Atlas and runs on 2 M5 Ultra Mac Studios. The post Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context appeared first on MarkTechPost ",
      "source": "MarkTechPost",
-     "zh": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context"
+     "zh": "Meta 发布 Muse Spark Open：具有 1M 上下文的 816B 开放式重量 MoE"
     },
     {
      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -215,7 +215,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 01:44:47 GMT",
      "summary": "",
      "source": "Hugging Face",
-     "zh": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
+     "zh": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道"
     },
     {
      "title": "刚刚，美国最强开源模型发布！放中国只能排第七？",
@@ -263,7 +263,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 20:59:50 +0000",
      "summary": "The trillion-dollar semiconductor industry is ready to adapt and expand its fab infrastructure for the AI wave. The post SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development"
+     "zh": "SEMICON West 2026 展示人工智能时代的芯片制造和劳动力发展"
     },
     {
      "title": "Singapore's AI bet shifts from model race to deployment, resilience and trusted adoption",
@@ -271,7 +271,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 18:38:00 GMT",
      "summary": "Singapore is moving its AI strategy beyond pilot-heavy experimentation toward a more deployment-focused model centered on enterprise adoption, sector transformation and resilient access to compute.",
      "source": "DIGITIMES",
-     "zh": "Singapore's AI bet shifts from model race to deployment, resilience and trusted adoption"
+     "zh": "新加坡的人工智能赌注从模型竞赛转向部署、弹性和可信采用"
     },
     {
      "title": "Interview: SEMI CEO sees US$3 trillion chip industry by 2035, as trusted partners reshape supply chain",
@@ -279,7 +279,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 17:53:00 GMT",
      "summary": "The semiconductor industry reached the US$1 trillion revenue milestone several years earlier than originally forecast, and with growth driven by AI and quantum computing, reaching US$2 trillion by 2035 is entirely achievable, SEMI President and CEO Ajit Manocha told DIGITIMES in an exclusive intervi",
      "source": "DIGITIMES",
-     "zh": "Interview: SEMI CEO sees US$3 trillion chip industry by 2035, as trusted partners reshape supply chain"
+     "zh": "专访：SEMI 首席执行官预计到 2035 年芯片产业规模将达 3 万亿美元，值得信赖的合作伙伴重塑供应链"
     },
     {
      "title": "Power Integrations and Ideal Power collaborate on efficient, always-on solid-state circuit breakers",
@@ -287,7 +287,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 16:33:21 +0100",
      "summary": "Power Integrations Inc of San Jose, CA, USA (which provides high-voltage integrated circuits for energy-efficient power conversion) and Ideal Power Inc (developer and provider of the B-TRAN bidirectional semiconductor power switch) are collaborating to deliver a solid-state circuit breaker (SSCB) so",
      "source": "Semiconductor Today",
-     "zh": "Power Integrations and Ideal Power collaborate on efficient, always-on solid-state circuit breakers"
+     "zh": "Power Integrations 和 Ideal Power 合作开发高效、始终在线的固态断路器"
     },
     {
      "title": "TSMC’s AI Expansion Signals a Broader Shift in Computing",
@@ -295,7 +295,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 15:00:31 +0000",
      "summary": "TSMC is describing an artificial intelligence boom that reaches beyond accelerator chips into the wider computing infrastructure needed to support increasingly capable AI systems. On the recent investor call, Chairman and CEO Dr. C.C. Wei presents strong demand, persistent supply constraints and an ",
      "source": "SemiWiki",
-     "zh": "TSMC’s AI Expansion Signals a Broader Shift in Computing"
+     "zh": "台积电的人工智能扩张标志着计算领域的更广泛转变"
     },
     {
      "title": "Data Center Power a Prominent Highlight of OCP 2026",
@@ -303,7 +303,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 15:00:00 +0000",
      "summary": "The OCP Summit showcased power delivery boards, PSU designs, hot-swap controllers, and event-based telemetry. The post Data Center Power a Prominent Highlight of OCP 2026 appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "Data Center Power a Prominent Highlight of OCP 2026"
+     "zh": "数据中心电力成为 OCP 2026 的一大亮点"
     },
     {
      "title": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter",
@@ -311,7 +311,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 14:24:13 +0000",
      "summary": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
      "source": "Electronics Weekly",
-     "zh": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter"
+     "zh": "Microchip POL-05-20S 是耐辐射 GaN 负载点转换器"
     },
     {
      "title": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition",
@@ -319,7 +319,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 14:52:30 +0100",
      "summary": "According to market research firm Omdia’s preliminary estimates, global smartphone shipments fell 20% year-on-year in third-quarter 2026, a sharp acceleration from the 6% decline recorded the previous quarter. Shipments also declined sequentially despite new flagship launches and channel preparation",
      "source": "Semiconductor Today",
-     "zh": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition"
+     "zh": "内存危机重塑竞争格局，2026 年第三季度智能手机出货量萎缩 20%"
     },
     {
      "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
@@ -327,7 +327,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:38:02 +0000",
      "summary": "The latest installment of the Arm vs Qualcomm case, the weirdness of the current semiconductor market, and an active debris removal mission to launch from Scotland mission... The post What caught your eye? Arm vs Qualcomm, AI boom, ADR mission appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
-     "zh": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission"
+     "zh": "什么引起了您的注意？ Arm 与高通、人工智能热潮、ADR 使命"
     },
     {
      "title": "When Mandy  Became A Revolutionary",
@@ -335,7 +335,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:32:30 +0000",
      "summary": "Mandy is known for other things now but 28 years ago he was a revolutionary, as this EW yarn in September 1998 chronicled: ‘The first major speech as cabinet minister […] The post When Mandy Became A Revolutionary appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
-     "zh": "When Mandy  Became A Revolutionary"
+     "zh": "当曼迪成为革命者时"
     },
     {
      "title": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume",
@@ -343,7 +343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:00:13 +0000",
      "summary": "By Shaurya Seth Terafab is one of the most ambitious projects of the decade: $16.8 billion for phase one and up to $119 billion across four phases. A research fab in Austin iterates on process recipes, transistor designs, and packaging variants at a few thousand wafers per month. A volume fab in Gri",
      "source": "SemiWiki",
-     "zh": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume"
+     "zh": "Terafab 的单一屋顶：为什么封装而非光刻决定了高产量"
     },
     {
      "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
@@ -351,7 +351,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 11:12:17 +0000",
      "summary": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
      "source": "Electronics Weekly",
-     "zh": "A/V: CUK Group adds Auracast assistive listening technology to portfolio"
+     "zh": "音视频：CUK 集团将 Auracast 辅助听力技术添加到产品组合中"
     },
     {
      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
@@ -359,7 +359,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 10:55:42 +0000",
      "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "Taiwan’s AI Ambitions Run into Talent Gap"
+     "zh": "台湾的人工智能野心遭遇人才缺口"
     },
     {
      "title": "R&S extends amplifier range for satellite use",
@@ -367,7 +367,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 10:54:42 +0000",
      "summary": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
-     "zh": "R&S extends amplifier range for satellite use"
+     "zh": "R&S 扩展了卫星用途的放大器范围"
     },
     {
      "title": "Raltron monolithic crystal filter series for gateway ground stations",
@@ -375,7 +375,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 10:20:32 +0000",
      "summary": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
      "source": "Electronics Weekly",
-     "zh": "Raltron monolithic crystal filter series for gateway ground stations"
+     "zh": "用于网关地面站的 Raltron 单片晶体滤波器系列"
     },
     {
      "title": "Gemtek partners with Starman to make optical transceivers in US",
@@ -383,7 +383,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 09:10:00 GMT",
      "summary": "On October 15, network equipment maker Gemtek Technology announced a strategic partnership with Starman New Photonics, a subsidiary of Starman Holdings, to form a joint venture in the US. The new entity will manufacture advanced optical transceivers to capture demand for optical interconnects driven",
      "source": "DIGITIMES",
-     "zh": "Gemtek partners with Starman to make optical transceivers in US"
+     "zh": "Gemtek 与 Starman 合作在美国生产光收发器"
     },
     {
      "title": "Taiwan to build industrial parks in US; Texas site already found",
@@ -391,7 +391,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 09:08:00 GMT",
      "summary": "Taiwan plans to set up industrial parks in the US to help its supplier ecosystem reach customers like Nvidia and other local hardware manufacturers. It is starting with a complex in Texas, which has become a hotspot of expansion plans among Taiwanese tech companies.",
      "source": "DIGITIMES",
-     "zh": "Taiwan to build industrial parks in US; Texas site already found"
+     "zh": "台湾将在美国建设工业园；德克萨斯州网站已找到"
     },
     {
      "title": "Project Bromo tests Europe's new industrial policy as Brussels weighs fast track for space champion",
@@ -399,7 +399,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 09:05:00 GMT",
      "summary": "The global space market has become increasingly dominated by SpaceX, while China continues to press forward with state-backed launch and satellite projects. That shift has sharpened Europe's concerns over strategic dependence and its relatively fragmented industrial base.",
      "source": "DIGITIMES",
-     "zh": "Project Bromo tests Europe's new industrial policy as Brussels weighs fast track for space champion"
+     "zh": "布鲁塞尔考虑快速争夺太空冠军，布罗莫计划测试欧洲新产业政策"
     },
     {
      "title": "GlobalFoundries’ CHIPS Program award amended to support $5bn investment in Malta, NY, and Burlington, VT",
@@ -407,7 +407,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 10:03:49 +0100",
      "summary": "The Department of Commerce’s CHIPS Program Office has agreed with GlobalFoundries of Malta, NY (the only US-based pure-play foundry with a global manufacturing footprint) to amend its existing award and reallocate up to $955m in incentives under the US CHIPS and Science Act...",
      "source": "Semiconductor Today",
-     "zh": "GlobalFoundries’ CHIPS Program award amended to support $5bn investment in Malta, NY, and Burlington, VT"
+     "zh": "GlobalFoundries 的 CHIPS 计划奖项修改为支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
     },
     {
      "title": "Infineon and Wolfspeed expand and extend long-term SiC wafer supply agreement to 200mm",
@@ -415,7 +415,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 09:57:57 +0100",
      "summary": "A new multi-year agreement has been signed that transitions the existing long-term supply by Wolfspeed Inc of Durham, NC, USA of silicon carbide (SiC) substrates to Infineon Technologies AG of Munich, Germany from 150mm-diameter to 200mm-diameter wafers...",
      "source": "Semiconductor Today",
-     "zh": "Infineon and Wolfspeed expand and extend long-term SiC wafer supply agreement to 200mm"
+     "zh": "英飞凌与 Wolfspeed 扩大长期 SiC 晶圆供应协议至 200mm"
     },
     {
      "title": "South Korea's September ICT Exports Surge Past US$75B on AI Demand",
@@ -423,7 +423,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 08:39:04 GMT",
      "summary": "Driven by expanding global investments in artificial intelligence infrastructure, South Korea's ICT exports shattered previous records in September 2026. Shipments surged past the US$75 billion mark in a single month, anchored by semiconductor exports that topped US$60 billion, accounting for more t",
      "source": "DIGITIMES",
-     "zh": "South Korea's September ICT Exports Surge Past US$75B on AI Demand"
+     "zh": "因人工智能需求，韩国 9 月 ICT 出口飙升至 750 亿美元以上"
     },
     {
      "title": "Your Chip Works. Prove It Is Secure.",
@@ -431,7 +431,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 08:37:49 +0000",
      "summary": "Join this 30-Minute BitCast as our expert demonstrates how information flow tracking follows security-sensitive assets during existing simulation or emulation runs. The post Your Chip Works. Prove It Is Secure. appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "Your Chip Works. Prove It Is Secure."
+     "zh": "你的芯片工作正常。证明它是安全的。"
     },
     {
      "title": "AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value",
@@ -439,7 +439,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 07:18:34 +0000",
      "summary": "During a panel session at iTechCon 2026, discussions explored how Taiwan can build on its strengths in semiconductors, advanced packaging, and system design to support AI development. The post AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value"
+     "zh": "AI迈向系统级协同设计：台湾如何获取更多价值"
     },
     {
      "title": "Chip Industry Week In Review",
@@ -455,7 +455,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:00:00 +0000",
      "summary": "Japan’s $21B offer to GlobalFoundries would add two New York fabs and lift U.S. chip capacity 10%; see why analysts warn on state support. The post Japan Offers GlobalFoundries $21B for U.S. Fab Expansion appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion"
+     "zh": "日本向 GlobalFoundries 提供 21B 美元用于美国晶圆厂扩建"
     },
     {
      "title": "Design the Right Chip: Why Prototyping Has to Be Easy",
@@ -463,7 +463,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 17:00:53 +0000",
      "summary": "Design the right chip. Design the chip right. Every verification methodology in mainstream use answers the second half of that sentence and assumes the first. Simulation, emulation, formal, constrained-random testbenches, coverage closure — all of them take a specification as given and ask whether t",
      "source": "SemiWiki",
-     "zh": "Design the Right Chip: Why Prototyping Has to Be Easy"
+     "zh": "设计合适的芯片：为什么原型设计必须简单"
     },
     {
      "title": "Why Semiconductor AI Starts with Data, Not Algorithms",
@@ -471,7 +471,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 15:00:29 +0000",
      "summary": "The next gains from AI in semiconductors will come less from models and more from making fab and test data reliable, connected and tied to engineering decisions. By Sriram Nithin Gopal Lanka Every few months there is a new AI model that can do more and semiconductor manufacturers are under pressure ",
      "source": "SemiWiki",
-     "zh": "Why Semiconductor AI Starts with Data, Not Algorithms"
+     "zh": "为什么半导体人工智能从数据开始，而不是算法"
     },
     {
      "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
@@ -479,7 +479,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 14:53:02 +0000",
      "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe ",
      "source": "IEEE Spectrum 半导体",
-     "zh": "Can a Radioactive Ore Break China’s Grip on Rare Earths?"
+     "zh": "放射性矿石能否打破中国对稀土的控制？"
     },
     {
      "title": "XMax to acquire 1200V vertical GaN power semiconductor developer Hexa Creation",
@@ -487,7 +487,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 15:37:20 +0100",
      "summary": "XMax Inc of Commerce, CA, USA (formerly Nova LifeStyle Inc) — which designs, sources and distributes contemporary furniture but has diversified to also developing and providing artificial intelligence software and platform-based services — has agreed to acquire Hexa Creation Inc, a US-based company ",
      "source": "Semiconductor Today",
-     "zh": "XMax to acquire 1200V vertical GaN power semiconductor developer Hexa Creation"
+     "zh": "XMax将收购1200V垂直GaN功率半导体开发商Hexa Creation"
     },
     {
      "title": "Why AI Security Starts at the Chip Level",
@@ -495,7 +495,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 13:00:07 +0000",
      "summary": "Artificial intelligence is becoming part of the infrastructure that powers healthcare, transportation, finance, manufacturing, and everyday digital services. As these systems grow more capable, they also process more sensitive information and depend on increasingly complex hardware. The Synopsys whi",
      "source": "SemiWiki",
-     "zh": "Why AI Security Starts at the Chip Level"
+     "zh": "为什么人工智能安全从芯片级开始"
     }
    ]
   },
@@ -511,7 +511,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 19:21:10 +0000",
      "summary": "Great digital products rarely arrive fully formed. For startups, product teams, and established companies testing a new concept, custom MVP app development services can turn a promising idea into a working product before time, budget, and internal energy are spent in the wrong direction. An MVP is n",
      "source": "Robotics & Automation",
-     "zh": "Why MVP App Development is the Smartest First Move"
+     "zh": "为什么 MVP 应用程序开发是最明智的第一步"
     },
     {
      "title": "How Personal Injury Lawyers Can Automate Medical Chronologies: 6 Best AI Tools in 2026",
@@ -519,7 +519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 18:52:38 +0000",
      "summary": "Personal injury lawyers can automate medical chronologies by using AI to extract treatment dates, providers, diagnoses, and procedures from medical records, then organize those details into a timeline linked to the original documents. The legal team reviews the chronology and uses it for case evalua",
      "source": "Robotics & Automation",
-     "zh": "How Personal Injury Lawyers Can Automate Medical Chronologies: 6 Best AI Tools in 2026"
+     "zh": "人身伤害律师如何自动化医疗年表：2026 年 6 种最佳人工智能工具"
     },
     {
      "title": "9 Best Shopify Plus Agencies for B2B and Enterprise Ecommerce in 2026",
@@ -535,7 +535,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 17:57:12 +0000",
      "summary": "The cohort will run February through June 2027, concluding with company showcases at the Robotics Summit and Expo in Boston. The post MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program appeared first on The Robot Report .",
      "source": "The Robot Report",
-     "zh": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program"
+     "zh": "MassRobotics 开放医疗机器人创业催化剂计划申请"
     },
     {
      "title": "Video Friday: When Two Robots Become One",
@@ -543,7 +543,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 16:30:02 +0000",
      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
      "source": "IEEE Spectrum 机器人",
-     "zh": "Video Friday: When Two Robots Become One"
+     "zh": "周五视频：当两个机器人合而为一"
     },
     {
      "title": "Robot Talk Episode 166 – Evolving robot bodies and brains, with Rika Antonova",
@@ -551,7 +551,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 11:36:47 +0000",
      "summary": "Claire chatted to Rika Antonova from the University of Cambridge about using artificial intelligence to develop complimentary robot hardware and algorithms. Rika Antonova is an Associate Professor at the University of Cambridge. Her research interests include co-design, automated algorithm discovery",
      "source": "Robohub",
-     "zh": "Robot Talk Episode 166 – Evolving robot bodies and brains, with Rika Antonova"
+     "zh": "机器人谈话第 166 集 – 与 Rika Antonova 一起进化机器人的身体和大脑"
     },
     {
      "title": "Tesla patent reveals touch-sensitive skin for robot hands",
@@ -615,7 +615,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 12:20:19 +0000",
      "summary": "Timken combines the expertise of Cone Drive, SPINEA, CGI Motion, and Timken Encoders to develop application-specific motion systems. The post Timken Precision Drives puts the motion challenge first in humanoid robots appeared first on The Robot Report .",
      "source": "The Robot Report",
-     "zh": "Timken Precision Drives puts the motion challenge first in humanoid robots"
+     "zh": "铁姆肯公司精密传动将运动挑战放在人形机器人的首位"
     },
     {
      "title": "Neurosymbolic planning using natural language communication for cooperative autonomous vehicles",
@@ -655,7 +655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 20:42:51 +0000",
      "summary": "Montréal Metropolitan Airport now has 120 EV chargers online, with another 48 on the way as the airport expands. more…",
      "source": "Electrek",
-     "zh": "This Montréal airport now has 120 EV chargers, with 48 more on the way"
+     "zh": "蒙特利尔机场现已拥有 120 个电动汽车充电器，还有 48 个正在建设中"
     },
     {
      "title": "Podcast: The Tesla Roadster episode",
@@ -703,7 +703,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 17:06:03 +0000",
      "summary": "Volkswagen is set to recall “several thousand” electric vehicles, including the ID.4 and ID. Buzz. The company is urging owners to limit charging to 80% until a fix is available. more…",
      "source": "Electrek",
-     "zh": "大众汽车正在召回“数千辆”电动汽车，其中包括 ID.4，而且不仅仅在美国"
+     "zh": "大众汽车正在召回“数千”辆电动汽车，其中包括 ID.4，而且不仅仅在美国"
     },
     {
      "title": "European Car Companies Can't Compete With Chinese Tech. In Paris, They Leaned On 'Heritage' Instead",
@@ -751,7 +751,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:44:30 +0000",
      "summary": "The model is Aiva's first production vehicle since the brand's launch in June, measuring 4,999 mm in length. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "Seres 支持的品牌转向生产，Aiva ME7 出现在监管文件中"
+     "zh": "随着 Seres 支持的品牌转向生产，Aiva ME7 出现在监管文件中"
     },
     {
      "title": "Shangjie Z9 electric SUV appears in regulatory filing as Huawei-SAIC brand readies fourth model",
@@ -775,7 +775,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 12:46:53 +0000",
      "summary": "Tesla execs Lars Moravy and Franz von Holzhausen spilled the beans on Tesla’s most outrageous car ever.",
      "source": "InsideEVs",
-     "zh": "Tesla Roadster 拥有 1,341 马力，续航里程是埃隆·马斯克曾经承诺的一半。这是完整的规格"
+     "zh": "Tesla Roadster 拥有 1,341 马力，续航里程达到埃隆·马斯克曾经承诺的一半。这是完整的规格"
     },
     {
      "title": "Tesla's Roadster can fly, and Nio's William Li admits: 'This we really don't have'",
@@ -887,7 +887,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:00:00 -0500",
      "summary": "A massive wind farm in the state of Victoria, Australia, has been approved by state authorities, paving the way for the project to go to the federal environment minister for final checks. ABC News reports Planning Minister Sonya Kilkenny this week signed off on the Warracknabeal Energy Park, five mo",
      "source": "OilPrice",
-     "zh": "澳大利亚维多利亚州获批建设南半球最大风电场"
+     "zh": "澳大利亚维多利亚州获批的风电场将成为南半球最大的风电场"
     },
     {
      "title": "U.S. Oil Drillers Back Off Even As Prices Soar",
@@ -975,7 +975,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:40:14 +0000",
      "summary": "Norfund and Impact Fund Denmark have signed agreements to take a 49% interest in the 500MWp Ixus Bugallon Solar Power Project.",
      "source": "PV Tech",
-     "zh": "Norfund, Impact Fund Denmark acquire 49% stake in Vena solar project in the Philippines"
+     "zh": "Norfund、丹麦影响力基金收购菲律宾 Vena 太阳能项目 49% 的股份"
     },
     {
      "title": "U.S. trade commission finds solar imports from India, Indonesia and Laos are harming domestic industry",
@@ -1039,7 +1039,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
-     "zh": "GES 获得四个西班牙太阳能光伏项目价值 2.52 亿美元的 EPC 合同"
+     "zh": "GES 为四个西班牙太阳能光伏项目获得 2.52 亿美元的 EPC 合同"
     },
     {
      "title": "Chinese PV Industry Brief: Trina Solar expands upstream ties with stake in encapsulation film maker",
@@ -1239,7 +1239,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 12:34:03 +0000",
      "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022…",
      "source": "STAT News",
-     "zh": "观看有关伊丽莎白·霍姆斯的新纪录片之前要读什么"
+     "zh": "在观看有关伊丽莎白·霍姆斯的新纪录片之前要读什么"
     },
     {
      "title": "Next-gen RNAi drugmaker City prices $200M IPO",
@@ -1423,7 +1423,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 03:49:06 +0000",
      "summary": "Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems… The post Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027 appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "碳纤维问题迫使火箭实验室将中子首次亮相推迟至不早于 2027 年"
+     "zh": "碳纤维问题迫使火箭实验室将中子首次亮相推迟到不早于 2027 年"
     },
     {
      "title": "UKSA Taps ClearSpace for Country’s First Debris Removal Mission",
@@ -1519,7 +1519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 13 Oct 2026 14:07:50 +0000",
      "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
      "source": "Spaceflight Now",
-     "zh": "SpaceX 将 NASA 科学和货物发射到国际空间站"
+     "zh": "SpaceX 将 NASA 科学和货物运送到国际空间站"
     },
     {
      "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
@@ -1871,7 +1871,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 15:05:02 -0400",
      "summary": "Joe Barnes / Telegraph : Sources: Elon Musk approached Trump with the idea of slowing down Starshield in Ukraine; source: Trump agreed, paving the way for DoD to execute the slowdown &nbsp; &mdash;&nbsp; SpaceX founder had publicly blamed president for chaos over restrictions, but sources say he ini",
      "source": "Techmeme",
-     "zh": "消息来源：埃隆·马斯克向特朗普提出了放慢乌克兰星盾计划的想法；资料来源：特朗普同意，为国防部执行减速措施铺平了道路（乔·巴恩斯/电讯报）"
+     "zh": "消息来源：埃隆·马斯克向特朗普提出了放慢乌克兰星盾计划的想法；资料来源：特朗普同意，为国防部执行减速铺平了道路（乔·巴恩斯/电讯报）"
     },
     {
      "title": "How the Claude Code team does code review",
@@ -2143,7 +2143,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 20:04:21 +0000",
      "summary": "The Information reports that PayPal and Epic Games are among the developers concerned that a potential antitrust settlement between Apple and the DOJ might not go far enough in addressing the company’s allegedly anticompetitive practices. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "报告：苹果与司法部的反垄断谈判引发了对和解力度薄弱的担忧"
+     "zh": "报告：苹果与司法部的反垄断谈判引发了对和解协议薄弱的担忧"
     },
     {
      "title": "If you haven't pre-ordered an iPhone Duo yet, you're in for a long, long wait",
@@ -2255,7 +2255,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:00:00 +0000",
      "summary": "Technics' flagship over-ear wireless headphones are light on compromises, but enter a competitive market.",
      "source": "Engadget",
-     "zh": "Technics EAH-A1000 评测：高级套件中的卓越音质和卓越 ANC"
+     "zh": "Technics EAH-A1000 评测：优质套装中的卓越音质和卓越 ANC"
     }
    ]
   },
@@ -2359,7 +2359,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 17:39:13 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "由于近期获利回吐继续，Okta 下跌 10%"
+     "zh": "由于近期获利回吐仍在继续，Okta 下跌 10%"
     },
     {
      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",

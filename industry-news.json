@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/17 07:30:15",
+ "generated_at": "2026/10/17 07:45:07",
  "recent_days": 7,
  "industries": [
   {
@@ -14,7 +14,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
      "source": "TechCrunch AI",
-     "zh": "Replit 首席执行官表示不再与 Anthropic 合作"
+     "zh": "Replit is no longer working with Anthropic, CEO says"
     },
     {
      "title": "How Itaú is building generative AI for its entire customer base",
@@ -22,7 +22,7 @@
      "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
      "source": "OpenAI",
-     "zh": "Itaú 如何为其整个客户群构建生成式人工智能"
+     "zh": "How Itaú is building generative AI for its entire customer base"
     },
     {
      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
@@ -30,7 +30,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:11:34 +0000",
      "summary": "General Science",
      "source": "Google Research",
-     "zh": "将人工智能代理扎根于生物现实：自主湿实验室的构建模块"
+     "zh": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs"
     },
     {
      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -38,7 +38,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
      "source": "MIT Tech Review AI",
-     "zh": "圆桌会议：与人工智能病毒创造者的对话"
+     "zh": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
     },
     {
      "title": "India becomes the latest country to report rogue AI agent activity",
@@ -46,7 +46,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:52:24 +0000",
      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
      "source": "TechCrunch AI",
-     "zh": "印度成为最新一个报告流氓人工智能代理活动的国家"
+     "zh": "India becomes the latest country to report rogue AI agent activity"
     },
     {
      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -54,7 +54,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who beli",
      "source": "TechCrunch AI",
-     "zh": "一位 Nvidia 内部人士转型为风险投资家，探讨机器人技术尚未达到 ChatGPT 时刻的原因"
+     "zh": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet"
     },
     {
      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
@@ -62,7 +62,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who beli",
      "source": "TechCrunch AI",
-     "zh": "这位正在投资物理人工智能的 Nvidia 资深人士表示，物理人工智能不仅仅是机器人"
+     "zh": "Physical AI is more than robots, says the Nvidia veteran now investing in it"
     },
     {
      "title": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -70,7 +70,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
      "source": "TechCrunch AI",
-     "zh": "Elorian 的第一个人工智能模型想要用图像进行推理，而不仅仅是图像"
+     "zh": "Elorian’s first AI model wants to reason with images, not just about them"
     },
     {
      "title": "Jev is Vercel’s fastest-adopted AI model ever",
@@ -78,7 +78,7 @@
      "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
      "source": "TechCrunch AI",
-     "zh": "Jev 是 Vercel 有史以来采用速度最快的 AI 模型"
+     "zh": "Jev is Vercel’s fastest-adopted AI model ever"
     },
     {
      "title": "Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself",
@@ -86,7 +86,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:00:00 +0000",
      "summary": "From static retrieval pipelines to autonomous reasoning engines: a complete breakdown of how these two architectures work, where each falls short, and how to choose the right one for your use case.",
      "source": "KDnuggets",
-     "zh": "Agentic RAG 与 Naive RAG：何时您的检索系统应该独立思考"
+     "zh": "Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself"
     },
     {
      "title": "2.99万元起！端侧跑超千亿大模型，联想YOGA Pro 15 RTX Spark发售",
@@ -102,7 +102,7 @@
      "pubDate": "Fri, 16 Oct 2026 12:00:00 +0000",
      "summary": "World models could be the next big shift in AI. Learn more right now.",
      "source": "KDnuggets",
-     "zh": "2026 年了解世界模型的 5 个最佳资源"
+     "zh": "5 Best Resources to Learn About World Models in 2026"
     },
     {
      "title": "《时代》2026最佳发明揭晓：宇树领衔，联想荣耀TCL蚂蚁上榜，AI无处不在",
@@ -118,7 +118,7 @@
      "pubDate": "Fri, 16 Oct 2026 06:26:41 +0000",
      "summary": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on ",
      "source": "MarkTechPost",
-     "zh": "Liquid AI 发布 d1-ultra：多模态决策模型，AA 决策指数得分 65 分"
+     "zh": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index"
     },
     {
      "title": "后摩智能亮出2D CIM+3D CIM路线！Agent竞速赛打响，双路径抢占端边算力先机",
@@ -142,7 +142,7 @@
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across six",
      "source": "arXiv cs.AI",
-     "zh": "世界不会等待：在实时时钟下评估和教学智能体"
+     "zh": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock"
     },
     {
      "title": "Evaluating Model Capabilities After Benchmark Saturation",
@@ -150,7 +150,7 @@
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies. Y",
      "source": "arXiv cs.AI",
-     "zh": "基准饱和后评估模型能力"
+     "zh": "Evaluating Model Capabilities After Benchmark Saturation"
     },
     {
      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
@@ -158,7 +158,7 @@
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require additional reward evaluation",
      "source": "arXiv cs.AI",
-     "zh": "离散扩散中加速顺序蒙特卡罗指导的价值知情调度修剪"
+     "zh": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion"
     },
     {
      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
@@ -166,7 +166,7 @@
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use. ",
      "source": "arXiv cs.AI",
-     "zh": "AlphaDiana：可验证推理任务中智能体的测量系统"
+     "zh": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks"
     },
     {
      "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
@@ -174,7 +174,7 @@
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on 12 Verus/Rust tasks acr",
      "source": "arXiv cs.AI",
-     "zh": "当正确性反馈消除证据时：Verus 中的分阶段完整性审计"
+     "zh": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus"
     },
     {
      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
@@ -182,7 +182,7 @@
      "pubDate": "Fri, 16 Oct 2026 00:00:00 -0400",
      "summary": "arXiv:2610.20679v1 Announce Type: new Abstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a risk score means or when it should be trusted. We introduce Counterfactual Neighbo",
      "source": "arXiv cs.AI",
-     "zh": "反事实邻里风险领域：视觉语言模型的循证选择性安全"
+     "zh": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models"
     },
     {
      "title": "卡加了，吞吐为何没跟上？大模型推理中的等待，有了新解法",
@@ -214,7 +214,7 @@
      "pubDate": "Fri, 16 Oct 2026 02:26:04 +0000",
      "summary": "Meta released Muse Spark Open, an 816B-parameter open-weight MoE model with 42B active parameters and a 1M-token context. It leads open models on MCP-Atlas and runs on 2 M5 Ultra Mac Studios. The post Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context appeared first on MarkTechPost ",
      "source": "MarkTechPost",
-     "zh": "Meta 发布 Muse Spark Open：具有 1M 上下文的 816B 开放式重量 MoE"
+     "zh": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context"
     },
     {
      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -222,7 +222,7 @@
      "pubDate": "Fri, 16 Oct 2026 01:44:47 GMT",
      "summary": "",
      "source": "Hugging Face",
-     "zh": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道"
+     "zh": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
     },
     {
      "title": "刚刚，美国最强开源模型发布！放中国只能排第七？",
@@ -262,7 +262,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:59:50 +0000",
      "summary": "The trillion-dollar semiconductor industry is ready to adapt and expand its fab infrastructure for the AI wave. The post SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "SEMICON West 2026 展示人工智能时代的芯片制造和劳动力发展"
+     "zh": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development"
     },
     {
      "title": "Singapore's AI bet shifts from model race to deployment, resilience and trusted adoption",
@@ -270,7 +270,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:38:00 GMT",
      "summary": "Singapore is moving its AI strategy beyond pilot-heavy experimentation toward a more deployment-focused model centered on enterprise adoption, sector transformation and resilient access to compute.",
      "source": "DIGITIMES",
-     "zh": "新加坡的人工智能赌注从模型竞赛转向部署、弹性和可信采用"
+     "zh": "Singapore's AI bet shifts from model race to deployment, resilience and trusted adoption"
     },
     {
      "title": "Interview: SEMI CEO sees US$3 trillion chip industry by 2035, as trusted partners reshape supply chain",
@@ -278,7 +278,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:53:00 GMT",
      "summary": "The semiconductor industry reached the US$1 trillion revenue milestone several years earlier than originally forecast, and with growth driven by AI and quantum computing, reaching US$2 trillion by 2035 is entirely achievable, SEMI President and CEO Ajit Manocha told DIGITIMES in an exclusive intervi",
      "source": "DIGITIMES",
-     "zh": "专访：SEMI 首席执行官预计到 2035 年芯片产业规模将达 3 万亿美元，值得信赖的合作伙伴重塑供应链"
+     "zh": "Interview: SEMI CEO sees US$3 trillion chip industry by 2035, as trusted partners reshape supply chain"
     },
     {
      "title": "Power Integrations and Ideal Power collaborate on efficient, always-on solid-state circuit breakers",
@@ -286,7 +286,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:33:21 +0100",
      "summary": "Power Integrations Inc of San Jose, CA, USA (which provides high-voltage integrated circuits for energy-efficient power conversion) and Ideal Power Inc (developer and provider of the B-TRAN bidirectional semiconductor power switch) are collaborating to deliver a solid-state circuit breaker (SSCB) so",
      "source": "Semiconductor Today",
-     "zh": "Power Integrations 和 Ideal Power 合作开发高效、始终在线的固态断路器"
+     "zh": "Power Integrations and Ideal Power collaborate on efficient, always-on solid-state circuit breakers"
     },
     {
      "title": "TSMC’s AI Expansion Signals a Broader Shift in Computing",
@@ -294,7 +294,7 @@
      "pubDate": "Fri, 16 Oct 2026 15:00:31 +0000",
      "summary": "TSMC is describing an artificial intelligence boom that reaches beyond accelerator chips into the wider computing infrastructure needed to support increasingly capable AI systems. On the recent investor call, Chairman and CEO Dr. C.C. Wei presents strong demand, persistent supply constraints and an ",
      "source": "SemiWiki",
-     "zh": "台积电的人工智能扩张标志着计算领域的更广泛转变"
+     "zh": "TSMC’s AI Expansion Signals a Broader Shift in Computing"
     },
     {
      "title": "Data Center Power a Prominent Highlight of OCP 2026",
@@ -302,7 +302,7 @@
      "pubDate": "Fri, 16 Oct 2026 15:00:00 +0000",
      "summary": "The OCP Summit showcased power delivery boards, PSU designs, hot-swap controllers, and event-based telemetry. The post Data Center Power a Prominent Highlight of OCP 2026 appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "数据中心电力成为 OCP 2026 的一大亮点"
+     "zh": "Data Center Power a Prominent Highlight of OCP 2026"
     },
     {
      "title": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter",
@@ -310,7 +310,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:24:13 +0000",
      "summary": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
      "source": "Electronics Weekly",
-     "zh": "Microchip POL-05-20S 是耐辐射 GaN 负载点转换器"
+     "zh": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter"
     },
     {
      "title": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition",
@@ -318,7 +318,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:52:30 +0100",
      "summary": "According to market research firm Omdia’s preliminary estimates, global smartphone shipments fell 20% year-on-year in third-quarter 2026, a sharp acceleration from the 6% decline recorded the previous quarter. Shipments also declined sequentially despite new flagship launches and channel preparation",
      "source": "Semiconductor Today",
-     "zh": "内存危机重塑竞争格局，2026 年第三季度智能手机出货量萎缩 20%"
+     "zh": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition"
     },
     {
      "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
@@ -326,7 +326,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:38:02 +0000",
      "summary": "The latest installment of the Arm vs Qualcomm case, the weirdness of the current semiconductor market, and an active debris removal mission to launch from Scotland mission... The post What caught your eye? Arm vs Qualcomm, AI boom, ADR mission appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
-     "zh": "什么引起了您的注意？ Arm 与高通、人工智能热潮、ADR 使命"
+     "zh": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission"
     },
     {
      "title": "When Mandy  Became A Revolutionary",
@@ -334,7 +334,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:32:30 +0000",
      "summary": "Mandy is known for other things now but 28 years ago he was a revolutionary, as this EW yarn in September 1998 chronicled: ‘The first major speech as cabinet minister […] The post When Mandy Became A Revolutionary appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
-     "zh": "当曼迪成为革命者时"
+     "zh": "When Mandy  Became A Revolutionary"
     },
     {
      "title": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume",
@@ -342,7 +342,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:00:13 +0000",
      "summary": "By Shaurya Seth Terafab is one of the most ambitious projects of the decade: $16.8 billion for phase one and up to $119 billion across four phases. A research fab in Austin iterates on process recipes, transistor designs, and packaging variants at a few thousand wafers per month. A volume fab in Gri",
      "source": "SemiWiki",
-     "zh": "Terafab 的单一屋顶：为什么封装而非光刻决定了高产量"
+     "zh": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume"
     },
     {
      "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
@@ -350,7 +350,7 @@
      "pubDate": "Fri, 16 Oct 2026 11:12:17 +0000",
      "summary": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
      "source": "Electronics Weekly",
-     "zh": "音视频：CUK 集团将 Auracast 辅助听力技术添加到产品组合中"
+     "zh": "A/V: CUK Group adds Auracast assistive listening technology to portfolio"
     },
     {
      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
@@ -358,7 +358,7 @@
      "pubDate": "Fri, 16 Oct 2026 10:55:42 +0000",
      "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "台湾的人工智能野心遭遇人才缺口"
+     "zh": "Taiwan’s AI Ambitions Run into Talent Gap"
     },
     {
      "title": "R&S extends amplifier range for satellite use",
@@ -366,7 +366,7 @@
      "pubDate": "Fri, 16 Oct 2026 10:54:42 +0000",
      "summary": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
-     "zh": "R&S 扩展了卫星用途的放大器范围"
+     "zh": "R&S extends amplifier range for satellite use"
     },
     {
      "title": "Raltron monolithic crystal filter series for gateway ground stations",
@@ -374,7 +374,7 @@
      "pubDate": "Fri, 16 Oct 2026 10:20:32 +0000",
      "summary": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
      "source": "Electronics Weekly",
-     "zh": "用于网关地面站的 Raltron 单片晶体滤波器系列"
+     "zh": "Raltron monolithic crystal filter series for gateway ground stations"
     },
     {
      "title": "Gemtek partners with Starman to make optical transceivers in US",
@@ -382,7 +382,7 @@
      "pubDate": "Fri, 16 Oct 2026 09:10:00 GMT",
      "summary": "On October 15, network equipment maker Gemtek Technology announced a strategic partnership with Starman New Photonics, a subsidiary of Starman Holdings, to form a joint venture in the US. The new entity will manufacture advanced optical transceivers to capture demand for optical interconnects driven",
      "source": "DIGITIMES",
-     "zh": "Gemtek 与 Starman 合作在美国生产光收发器"
+     "zh": "Gemtek partners with Starman to make optical transceivers in US"
     },
     {
      "title": "Taiwan to build industrial parks in US; Texas site already found",
@@ -390,7 +390,7 @@
      "pubDate": "Fri, 16 Oct 2026 09:08:00 GMT",
      "summary": "Taiwan plans to set up industrial parks in the US to help its supplier ecosystem reach customers like Nvidia and other local hardware manufacturers. It is starting with a complex in Texas, which has become a hotspot of expansion plans among Taiwanese tech companies.",
      "source": "DIGITIMES",
-     "zh": "台湾将在美国建设工业园；德克萨斯州网站已找到"
+     "zh": "Taiwan to build industrial parks in US; Texas site already found"
     },
     {
      "title": "Project Bromo tests Europe's new industrial policy as Brussels weighs fast track for space champion",
@@ -398,7 +398,7 @@
      "pubDate": "Fri, 16 Oct 2026 09:05:00 GMT",
      "summary": "The global space market has become increasingly dominated by SpaceX, while China continues to press forward with state-backed launch and satellite projects. That shift has sharpened Europe's concerns over strategic dependence and its relatively fragmented industrial base.",
      "source": "DIGITIMES",
-     "zh": "布鲁塞尔考虑快速争夺太空冠军，布罗莫计划测试欧洲新产业政策"
+     "zh": "Project Bromo tests Europe's new industrial policy as Brussels weighs fast track for space champion"
     },
     {
      "title": "GlobalFoundries’ CHIPS Program award amended to support $5bn investment in Malta, NY, and Burlington, VT",
@@ -406,7 +406,7 @@
      "pubDate": "Fri, 16 Oct 2026 10:03:49 +0100",
      "summary": "The Department of Commerce’s CHIPS Program Office has agreed with GlobalFoundries of Malta, NY (the only US-based pure-play foundry with a global manufacturing footprint) to amend its existing award and reallocate up to $955m in incentives under the US CHIPS and Science Act...",
      "source": "Semiconductor Today",
-     "zh": "GlobalFoundries 的 CHIPS 计划奖项经过修改，以支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
+     "zh": "GlobalFoundries’ CHIPS Program award amended to support $5bn investment in Malta, NY, and Burlington, VT"
     },
     {
      "title": "Infineon and Wolfspeed expand and extend long-term SiC wafer supply agreement to 200mm",
@@ -414,7 +414,7 @@
      "pubDate": "Fri, 16 Oct 2026 09:57:57 +0100",
      "summary": "A new multi-year agreement has been signed that transitions the existing long-term supply by Wolfspeed Inc of Durham, NC, USA of silicon carbide (SiC) substrates to Infineon Technologies AG of Munich, Germany from 150mm-diameter to 200mm-diameter wafers...",
      "source": "Semiconductor Today",
-     "zh": "英飞凌与 Wolfspeed 扩大长期 SiC 晶圆供应协议至 200mm"
+     "zh": "Infineon and Wolfspeed expand and extend long-term SiC wafer supply agreement to 200mm"
     },
     {
      "title": "South Korea's September ICT Exports Surge Past US$75B on AI Demand",
@@ -422,7 +422,7 @@
      "pubDate": "Fri, 16 Oct 2026 08:39:04 GMT",
      "summary": "Driven by expanding global investments in artificial intelligence infrastructure, South Korea's ICT exports shattered previous records in September 2026. Shipments surged past the US$75 billion mark in a single month, anchored by semiconductor exports that topped US$60 billion, accounting for more t",
      "source": "DIGITIMES",
-     "zh": "因人工智能需求，韩国 9 月 ICT 出口飙升至 750 亿美元以上"
+     "zh": "South Korea's September ICT Exports Surge Past US$75B on AI Demand"
     },
     {
      "title": "Your Chip Works. Prove It Is Secure.",
@@ -430,7 +430,7 @@
      "pubDate": "Fri, 16 Oct 2026 08:37:49 +0000",
      "summary": "Join this 30-Minute BitCast as our expert demonstrates how information flow tracking follows security-sensitive assets during existing simulation or emulation runs. The post Your Chip Works. Prove It Is Secure. appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "你的芯片工作正常。证明它是安全的。"
+     "zh": "Your Chip Works. Prove It Is Secure."
     },
     {
      "title": "AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value",
@@ -438,7 +438,7 @@
      "pubDate": "Fri, 16 Oct 2026 07:18:34 +0000",
      "summary": "During a panel session at iTechCon 2026, discussions explored how Taiwan can build on its strengths in semiconductors, advanced packaging, and system design to support AI development. The post AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "AI迈向系统级协同设计：台湾如何获取更多价值"
+     "zh": "AI Moves to System-Level Co-Design: How Can Taiwan Capture More Value"
     },
     {
      "title": "Chip Industry Week In Review",
@@ -454,7 +454,7 @@
      "pubDate": "Thu, 15 Oct 2026 19:00:00 +0000",
      "summary": "Japan’s $21B offer to GlobalFoundries would add two New York fabs and lift U.S. chip capacity 10%; see why analysts warn on state support. The post Japan Offers GlobalFoundries $21B for U.S. Fab Expansion appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "日本向 GlobalFoundries 提供 21B 美元用于美国晶圆厂扩建"
+     "zh": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion"
     },
     {
      "title": "Design the Right Chip: Why Prototyping Has to Be Easy",
@@ -462,7 +462,7 @@
      "pubDate": "Thu, 15 Oct 2026 17:00:53 +0000",
      "summary": "Design the right chip. Design the chip right. Every verification methodology in mainstream use answers the second half of that sentence and assumes the first. Simulation, emulation, formal, constrained-random testbenches, coverage closure — all of them take a specification as given and ask whether t",
      "source": "SemiWiki",
-     "zh": "设计合适的芯片：为什么原型设计必须简单"
+     "zh": "Design the Right Chip: Why Prototyping Has to Be Easy"
     },
     {
      "title": "Why Semiconductor AI Starts with Data, Not Algorithms",
@@ -470,7 +470,7 @@
      "pubDate": "Thu, 15 Oct 2026 15:00:29 +0000",
      "summary": "The next gains from AI in semiconductors will come less from models and more from making fab and test data reliable, connected and tied to engineering decisions. By Sriram Nithin Gopal Lanka Every few months there is a new AI model that can do more and semiconductor manufacturers are under pressure ",
      "source": "SemiWiki",
-     "zh": "为什么半导体人工智能从数据开始，而不是算法"
+     "zh": "Why Semiconductor AI Starts with Data, Not Algorithms"
     },
     {
      "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
@@ -478,7 +478,7 @@
      "pubDate": "Thu, 15 Oct 2026 14:53:02 +0000",
      "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe ",
      "source": "IEEE Spectrum 半导体",
-     "zh": "放射性矿石能否打破中国对稀土的控制？"
+     "zh": "Can a Radioactive Ore Break China’s Grip on Rare Earths?"
     },
     {
      "title": "XMax to acquire 1200V vertical GaN power semiconductor developer Hexa Creation",
@@ -486,7 +486,7 @@
      "pubDate": "Thu, 15 Oct 2026 15:37:20 +0100",
      "summary": "XMax Inc of Commerce, CA, USA (formerly Nova LifeStyle Inc) — which designs, sources and distributes contemporary furniture but has diversified to also developing and providing artificial intelligence software and platform-based services — has agreed to acquire Hexa Creation Inc, a US-based company ",
      "source": "Semiconductor Today",
-     "zh": "XMax将收购1200V垂直GaN功率半导体开发商Hexa Creation"
+     "zh": "XMax to acquire 1200V vertical GaN power semiconductor developer Hexa Creation"
     },
     {
      "title": "Why AI Security Starts at the Chip Level",
@@ -494,7 +494,7 @@
      "pubDate": "Thu, 15 Oct 2026 13:00:07 +0000",
      "summary": "Artificial intelligence is becoming part of the infrastructure that powers healthcare, transportation, finance, manufacturing, and everyday digital services. As these systems grow more capable, they also process more sensitive information and depend on increasingly complex hardware. The Synopsys whi",
      "source": "SemiWiki",
-     "zh": "为什么人工智能安全从芯片级开始"
+     "zh": "Why AI Security Starts at the Chip Level"
     }
    ]
   },
@@ -510,7 +510,7 @@
      "pubDate": "Fri, 16 Oct 2026 19:21:10 +0000",
      "summary": "Great digital products rarely arrive fully formed. For startups, product teams, and established companies testing a new concept, custom MVP app development services can turn a promising idea into a working product before time, budget, and internal energy are spent in the wrong direction. An MVP is n",
      "source": "Robotics & Automation",
-     "zh": "为什么 MVP 应用程序开发是最明智的第一步"
+     "zh": "Why MVP App Development is the Smartest First Move"
     },
     {
      "title": "How Personal Injury Lawyers Can Automate Medical Chronologies: 6 Best AI Tools in 2026",
@@ -518,7 +518,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:52:38 +0000",
      "summary": "Personal injury lawyers can automate medical chronologies by using AI to extract treatment dates, providers, diagnoses, and procedures from medical records, then organize those details into a timeline linked to the original documents. The legal team reviews the chronology and uses it for case evalua",
      "source": "Robotics & Automation",
-     "zh": "人身伤害律师如何自动化医疗年表：2026 年 6 种最佳人工智能工具"
+     "zh": "How Personal Injury Lawyers Can Automate Medical Chronologies: 6 Best AI Tools in 2026"
     },
     {
      "title": "9 Best Shopify Plus Agencies for B2B and Enterprise Ecommerce in 2026",
@@ -526,7 +526,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:41:56 +0000",
      "summary": "The best Shopify Plus agencies for B2B and enterprise ecommerce in 2026 include Fyresite, Zaelab, Teifi Digital, Praella, Shero Commerce, BlueSwitch, Uncap, AAXIS, and TMG. Fyresite is a strong choice for complex Shopify Plus migrations, automotive ecommerce, custom product catalogs, and B2B develop",
      "source": "Robotics & Automation",
-     "zh": "2026 年 9 家 B2B 和企业电子商务最佳 Shopify Plus 代理商"
+     "zh": "9 Best Shopify Plus Agencies for B2B and Enterprise Ecommerce in 2026"
     },
     {
      "title": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program",
@@ -534,7 +534,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:57:12 +0000",
      "summary": "The cohort will run February through June 2027, concluding with company showcases at the Robotics Summit and Expo in Boston. The post MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program appeared first on The Robot Report .",
      "source": "The Robot Report",
-     "zh": "MassRobotics 开放医疗机器人创业催化剂计划申请"
+     "zh": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program"
     },
     {
      "title": "Video Friday: When Two Robots Become One",
@@ -542,7 +542,15 @@
      "pubDate": "Fri, 16 Oct 2026 16:30:02 +0000",
      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
      "source": "IEEE Spectrum 机器人",
-     "zh": "周五视频：当两个机器人合而为一"
+     "zh": "Video Friday: When Two Robots Become One"
+    },
+    {
+     "title": "Robot Talk Episode 166 – Evolving robot bodies and brains, with Rika Antonova",
+     "link": "https://robohub.org/robot-talk-episode-166-evolving-robot-bodies-and-brains-with-rika-antonova/",
+     "pubDate": "Fri, 16 Oct 2026 11:36:47 +0000",
+     "summary": "Claire chatted to Rika Antonova from the University of Cambridge about using artificial intelligence to develop complimentary robot hardware and algorithms. Rika Antonova is an Associate Professor at the University of Cambridge. Her research interests include co-design, automated algorithm discovery",
+     "source": "Robohub",
+     "zh": "Robot Talk Episode 166 – Evolving robot bodies and brains, with Rika Antonova"
     },
     {
      "title": "Tesla patent reveals touch-sensitive skin for robot hands",
@@ -550,7 +558,7 @@
      "pubDate": "Fri, 16 Oct 2026 09:01:45 +0000",
      "summary": "Tesla has filed a US patent application for a touch-sensitive “skin” that can be molded around robot fingers and palms, potentially providing humanoid robots with a scalable way of detecting contact, force and pressure. The application, US 2026/0310299 A1, was published on October 8 and describes a ",
      "source": "Robotics & Automation",
-     "zh": "特斯拉专利揭示了机器人手的触摸敏感皮肤"
+     "zh": "Tesla patent reveals touch-sensitive skin for robot hands"
     },
     {
      "title": "Skild AI trains robots to learn physical skills through self-play",
@@ -558,7 +566,7 @@
      "pubDate": "Fri, 16 Oct 2026 08:00:14 +0000",
      "summary": "Skild AI has demonstrated a new self-play training approach that enables robots to develop physical skills without relying on human demonstrations, using its S1 robotics foundation model to learn soccer through more than 140 years of simulated play. The company says the technique could eventually al",
      "source": "Robotics & Automation",
-     "zh": "Skild AI 训练机器人通过自我游戏学习身体技能"
+     "zh": "Skild AI trains robots to learn physical skills through self-play"
     },
     {
      "title": "ETH Zurich scientists turn WUJI robotic hand into self-propelled mobile manipulator",
@@ -566,7 +574,7 @@
      "pubDate": "Fri, 16 Oct 2026 07:43:07 +0000",
      "summary": "Scientists at ETH Zurich have demonstrated how an anthropomorphic robotic hand can use its fingers not only for manipulation but also for locomotion, enabling the hand to crawl, recover from falls and move around its environment without a separate mobility system. The research used an off-the-shelf ",
      "source": "Robotics & Automation",
-     "zh": "苏黎世联邦理工学院科学家将无极机械手变成自行移动机械手"
+     "zh": "ETH Zurich scientists turn WUJI robotic hand into self-propelled mobile manipulator"
     },
     {
      "title": "Stryker invests $400M into CMR Surgical",
@@ -574,7 +582,7 @@
      "pubDate": "Thu, 15 Oct 2026 16:54:14 +0000",
      "summary": "Stryker plans to serve as the exclusive sales agent in the U.S. for the Versius robotics portfolio from CMR Surgical. The post Stryker invests $400M into CMR Surgical appeared first on The Robot Report .",
      "source": "The Robot Report",
-     "zh": "Stryker 向 CMR Surgical 投资 4 亿美元"
+     "zh": "Stryker invests $400M into CMR Surgical"
     },
     {
      "title": "How ADI is helping robotics startups scale",
@@ -582,7 +590,7 @@
      "pubDate": "Thu, 15 Oct 2026 16:39:38 +0000",
      "summary": "Robotics businesses need help keeping up with innovations as they scale. Analog Devices Inc. or ADI is offering its Emerging Tech Hub. The post How ADI is helping robotics startups scale appeared first on The Robot Report .",
      "source": "The Robot Report",
-     "zh": "ADI 如何帮助机器人初创公司扩大规模"
+     "zh": "How ADI is helping robotics startups scale"
     },
     {
      "title": "Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid",
@@ -590,7 +598,7 @@
      "pubDate": "Thu, 15 Oct 2026 10:59:24 +0000",
      "summary": "Nyobolt is providing power technology for Digit 5 that enables Agility's humanoid to work up to 20 hours a day. The post Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid appeared first on The Robot Report .",
      "source": "The Robot Report",
-     "zh": "Agility 选择 Nyobolt 为 Digit 5 人形机器人进行超快速充电"
+     "zh": "Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid"
     },
     {
      "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
@@ -598,7 +606,7 @@
      "pubDate": "Wed, 14 Oct 2026 15:08:59 +0000",
      "summary": "While reshoring manufacturing is a high priority for policymakers and technologists, RoboBusiness panelists will examine how to promote it. The post RoboBusiness 2026 panel to discuss reshoring with robots appeared first on The Robot Report .",
      "source": "The Robot Report",
-     "zh": "RoboBusiness 2026 小组讨论机器人回流"
+     "zh": "RoboBusiness 2026 panel to discuss reshoring with robots"
     },
     {
      "title": "Timken Precision Drives puts the motion challenge first in humanoid robots",
@@ -606,7 +614,15 @@
      "pubDate": "Wed, 14 Oct 2026 12:20:19 +0000",
      "summary": "Timken combines the expertise of Cone Drive, SPINEA, CGI Motion, and Timken Encoders to develop application-specific motion systems. The post Timken Precision Drives puts the motion challenge first in humanoid robots appeared first on The Robot Report .",
      "source": "The Robot Report",
-     "zh": "铁姆肯公司精密传动将运动挑战放在人形机器人的首位"
+     "zh": "Timken Precision Drives puts the motion challenge first in humanoid robots"
+    },
+    {
+     "title": "Neurosymbolic planning using natural language communication for cooperative autonomous vehicles",
+     "link": "https://robohub.org/neurosymbolic-planning-using-natural-language-communication-for-cooperative-autonomous-vehicles/",
+     "pubDate": "Wed, 14 Oct 2026 09:14:30 +0000",
+     "summary": "Imagine you are driving toward an intersection. A truck parked on the corner blocks your view of a car speeding toward the intersection from the right. You can’t see it, but the car next to you can. What if that neighboring vehicle could simply tell your car, “Vehicle merging from the right, about 1",
+     "source": "Robohub",
+     "zh": "Neurosymbolic planning using natural language communication for cooperative autonomous vehicles"
     },
     {
      "title": "Q&A: Mars Perseverance Rover Sets a Distance Record",
@@ -614,7 +630,15 @@
      "pubDate": "Tue, 13 Oct 2026 15:02:04 +0000",
      "summary": "On 11 October , the Perseverance rover completed a drive that brought its total distance traveled on Mars to 28.10 miles (45.22 kilometers). This is a new record for Mars rovers, enabled in large part by Perseverance ’s ability to drive with much more autonomy than its predecessors. Over the past fi",
      "source": "IEEE Spectrum 机器人",
-     "zh": "问答：毅力号火星车创下距离记录"
+     "zh": "Q&A: Mars Perseverance Rover Sets a Distance Record"
+    },
+    {
+     "title": "Humanoid robots can sprint and box – but the real test is doing the laundry",
+     "link": "https://robohub.org/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/",
+     "pubDate": "Mon, 12 Oct 2026 07:51:21 +0000",
+     "summary": "By Wai-keung Fung, Cardiff Metropolitan University At the recent World Humanoid Robot Games 2026 in Beijing, robots sprinted, boxed, played football and tackled tasks inspired by factories, restaurants and emergency situations. The robot Tiangong Ultra even completed the 100 metres in 8.64 seconds, ",
+     "source": "Robohub",
+     "zh": "Humanoid robots can sprint and box – but the real test is doing the laundry"
     }
    ]
   },
@@ -630,7 +654,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:42:51 +0000",
      "summary": "Montréal Metropolitan Airport now has 120 EV chargers online, with another 48 on the way as the airport expands. more…",
      "source": "Electrek",
-     "zh": "蒙特利尔机场现已拥有 120 个电动汽车充电器，还有 48 个正在建设中"
+     "zh": "This Montréal airport now has 120 EV chargers, with 48 more on the way"
     },
     {
      "title": "Podcast: The Tesla Roadster episode",
@@ -638,7 +662,7 @@
      "pubDate": "Fri, 16 Oct 2026 19:51:39 +0000",
      "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll focus on the Tesla Roadster unveiling, but we may also cover a few other topics. more…",
      "source": "Electrek",
-     "zh": "播客：特斯拉跑车剧集"
+     "zh": "Podcast: The Tesla Roadster episode"
     },
     {
      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
@@ -646,7 +670,7 @@
      "pubDate": "Fri, 16 Oct 2026 19:40:00 +0000",
      "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
      "source": "TechCrunch Transport",
-     "zh": "保时捷电动 Macan Turbo 是一场汽车生存危机"
+     "zh": "Porsche’s electric Macan Turbo is an automotive existential crisis"
     },
     {
      "title": "Trouble: buyers would rather wait for Chinese EVs than buy Western ones",
@@ -662,7 +686,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
      "summary": "Closing out this week’s Green Deals is Lectric’s freshly launched Spooky Sale with up to $762 e-bike bundle savings (that include two FREE mystery gifts) starting from $999 . Right behind that group of treats is the Worx 40V 20-inch Cordless Electric Snow Thrower with 2x 6.0Ah batteries down at $395",
      "source": "Electrek",
-     "zh": "Lectric 为骑手提供高达 762 美元的电动自行车优惠，包括 Worx 吹雪机、Jackery 1,024Wh V2 发电站等"
+     "zh": "Lectric treats riders with up to $762 e-bike savings in spooky sale, Worx snow blower, Jackery 1,024Wh V2 power station, more"
     },
     {
      "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
@@ -670,7 +694,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:14:43 +0000",
      "summary": "Two California Highway Patrol officers are recovering from serious injuries after a Tesla drove into their patrol car at a crash scene on Interstate 80 in Fairfield. The 22-year-old driver told investigators he was asleep with Tesla’s “Full Self-Driving” engaged. CHP released dashcam video of the im",
      "source": "Electrek",
-     "zh": "特斯拉司机称他在 FSD 上睡着了，撞上了 CHP 汽车，两名警察受伤"
+     "zh": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt"
     },
     {
      "title": "Volkswagen is recalling ‘several thousand’ EVs, including the ID.4, and not just in the US",
@@ -678,7 +702,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:06:03 +0000",
      "summary": "Volkswagen is set to recall “several thousand” electric vehicles, including the ID.4 and ID. Buzz. The company is urging owners to limit charging to 80% until a fix is available. more…",
      "source": "Electrek",
-     "zh": "大众汽车正在召回“数千”辆电动汽车，其中包括 ID.4，而且不仅仅在美国"
+     "zh": "Volkswagen is recalling ‘several thousand’ EVs, including the ID.4, and not just in the US"
     },
     {
      "title": "European Car Companies Can't Compete With Chinese Tech. In Paris, They Leaned On 'Heritage' Instead",
@@ -686,7 +710,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:36:25 +0000",
      "summary": "Is that enough to fend off a growing cadre of Chinese competitors in their home market? I’m not so sure.",
      "source": "InsideEVs",
-     "zh": "欧洲汽车公司无法与中国技术竞争。在巴黎，他们转而依靠“遗产”"
+     "zh": "European Car Companies Can't Compete With Chinese Tech. In Paris, They Leaned On 'Heritage' Instead"
     },
     {
      "title": "Waymo’s robotaxis are headed to Canada",
@@ -694,7 +718,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:06:38 +0000",
      "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
      "source": "TechCrunch Transport",
-     "zh": "Waymo 的机器人出租车将进军加拿大"
+     "zh": "Waymo’s robotaxis are headed to Canada"
     },
     {
      "title": "The BMW iX5 Gets A Range Boost Ahead Of U.S. Launch",
@@ -710,7 +734,7 @@
      "pubDate": "Fri, 16 Oct 2026 15:29:22 +0000",
      "summary": "Tesla's pre-order agreement for the Roadster says it cannot guarantee if (or when) the car will ever be delivered.",
      "source": "InsideEVs",
-     "zh": "特斯拉“无法保证”您预订的敞篷跑车能够交付"
+     "zh": "Tesla 'Cannot Guarantee' Your Roadster Pre-Order Will Ever Be Delivered"
     },
     {
      "title": "Nio to launch larger 60-kWh battery pack for Firefly on October 23",
@@ -718,7 +742,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:19:46 +0000",
      "summary": "Firefly currently offers only a 42.1-kWh battery pack. The new pack will deliver a CLTC range of 560 kilometers. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "蔚来将于 10 月 23 日为 Firefly 推出更大的 60 kWh 电池组"
+     "zh": "Nio to launch larger 60-kWh battery pack for Firefly on October 23"
     },
     {
      "title": "Aiva ME7 appears in regulatory filing as Seres-backed brand moves toward production",
@@ -726,7 +750,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:44:30 +0000",
      "summary": "The model is Aiva's first production vehicle since the brand's launch in June, measuring 4,999 mm in length. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "随着 Seres 支持的品牌转向生产，Aiva ME7 出现在监管文件中"
+     "zh": "Aiva ME7 appears in regulatory filing as Seres-backed brand moves toward production"
     },
     {
      "title": "Shangjie Z9 electric SUV appears in regulatory filing as Huawei-SAIC brand readies fourth model",
@@ -734,7 +758,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:17:37 +0000",
      "summary": "The Shangjie Z9 measures 5,139 mm in length with a 3,086 mm wheelbase and offers 5-seat and 6-seat layouts. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "上捷Z9电动SUV出现在监管文件中，华为-上汽品牌准备第四款车型"
+     "zh": "Shangjie Z9 electric SUV appears in regulatory filing as Huawei-SAIC brand readies fourth model"
     },
     {
      "title": "I Drove Mercedes’ New EV With A Silicon Anode Battery. The Future Is Here",
@@ -742,7 +766,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:00:00 +0000",
      "summary": "The CLA Electric’s flaws are overpowered by monster efficiency and charging speeds thanks to new silicon-containing cells.",
      "source": "InsideEVs",
-     "zh": "我用硅阳极电池驾驶梅赛德斯的新型电动汽车。未来就在这里"
+     "zh": "I Drove Mercedes’ New EV With A Silicon Anode Battery. The Future Is Here"
     },
     {
      "title": "The Tesla Roadster Has 1,341 HP And Half The Range Elon Musk Once Promised. Here Are The Full Specs",
@@ -750,7 +774,7 @@
      "pubDate": "Fri, 16 Oct 2026 12:46:53 +0000",
      "summary": "Tesla execs Lars Moravy and Franz von Holzhausen spilled the beans on Tesla’s most outrageous car ever.",
      "source": "InsideEVs",
-     "zh": "Tesla Roadster 拥有 1,341 马力，续航里程达到埃隆·马斯克曾经承诺的一半。这是完整的规格"
+     "zh": "The Tesla Roadster Has 1,341 HP And Half The Range Elon Musk Once Promised. Here Are The Full Specs"
     },
     {
      "title": "Tesla's Roadster can fly, and Nio's William Li admits: 'This we really don't have'",
@@ -758,7 +782,7 @@
      "pubDate": "Fri, 16 Oct 2026 12:42:58 +0000",
      "summary": "Nio founder reposted a Roadster stunt video and praises Tesla, echoing his 2018 remark that \"whatever Tesla has, we have.\" For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "特斯拉Roadster能飞，蔚来李斌承认：“这个我们真的没有”"
+     "zh": "Tesla's Roadster can fly, and Nio's William Li admits: 'This we really don't have'"
     },
     {
      "title": "Nio Firefly reaches 90,000 cumulative deliveries after record September",
@@ -766,7 +790,7 @@
      "pubDate": "Fri, 16 Oct 2026 12:06:44 +0000",
      "summary": "Firefly delivered its 90,000th vehicle about 1.5 months after reaching the 80,000 milestone in late August. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "Nio Firefly 9月累计交付量突破9万辆"
+     "zh": "Nio Firefly reaches 90,000 cumulative deliveries after record September"
     },
     {
      "title": "Li Auto chip unit signs first funding deal at up to $2.5 billion post-money valuation",
@@ -782,7 +806,7 @@
      "pubDate": "Fri, 16 Oct 2026 01:17:43 +0000",
      "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
      "source": "TechCrunch Transport",
-     "zh": "特斯拉推出由 SpaceX 驱动的 Roadster，飞行和降落都很有风格"
+     "zh": "Tesla reveals SpaceX-powered Roadster that flies and falls with style"
     },
     {
      "title": "Tesla Just Revealed The Roadster With A Truly Insane Demo. Here's What You Need To Know",
@@ -790,7 +814,7 @@
      "pubDate": "Fri, 16 Oct 2026 01:17:24 +0000",
      "summary": "The new Roadster can jump over a Semi truck and do 0-60 in 0.81 seconds, Tesla claims. But it's not actually available yet.",
      "source": "InsideEVs",
-     "zh": "特斯拉刚刚通过真正疯狂的演示展示了这款跑车。这是您需要知道的"
+     "zh": "Tesla Just Revealed The Roadster With A Truly Insane Demo. Here's What You Need To Know"
     },
     {
      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
@@ -798,7 +822,7 @@
      "pubDate": "Thu, 15 Oct 2026 17:34:40 +0000",
      "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
      "source": "TechCrunch Transport",
-     "zh": "沃尔沃在免提自动驾驶领域对英伟达下了更大的赌注"
+     "zh": "Volvo makes a bigger bet on Nvidia for hands-free automated driving"
     },
     {
      "title": "AI agents are coming to Rivian’s cars",
@@ -806,7 +830,7 @@
      "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
      "source": "TechCrunch Transport",
-     "zh": "人工智能代理即将来到 Rivian 的汽车中"
+     "zh": "AI agents are coming to Rivian’s cars"
     },
     {
      "title": "Electric vehicle sales in the US are showing signs of life",
@@ -814,7 +838,7 @@
      "pubDate": "Wed, 14 Oct 2026 20:12:07 +0000",
      "summary": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
      "source": "TechCrunch Transport",
-     "zh": "美国电动汽车销售呈现复苏迹象"
+     "zh": "Electric vehicle sales in the US are showing signs of life"
     }
    ]
   },
@@ -830,7 +854,7 @@
      "pubDate": "Fri, 16 Oct 2026 23:02:33 +0000",
      "summary": "The DeLorean Motor Company has hitched the iconic DeLorean name to the new Airspeeder series, a showcase for cutting edge \"flying car\" eVTOL technology. The post DeLorean Takes A Ride On Tesla’s “Flying Car” Coattails appeared first on CleanTechnica .",
      "source": "CleanTechnica",
-     "zh": "德罗宁 (DeLorean) 搭上特斯拉“飞行汽车”的顺风车"
+     "zh": "DeLorean Takes A Ride On Tesla’s “Flying Car” Coattails"
     },
     {
      "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
@@ -838,7 +862,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:00:00 -0500",
      "summary": "Rystad Energy’s fifth edition of its flagship annual report, Global Energy Scenarios (GES) 2026, finds that global reliance on imported energy is projected to peak by 2034 as energy security concerns accelerate the shift towards electrification. Against the backdrop of two major energy crises in fiv",
      "source": "OilPrice",
-     "zh": "Rystad 表示，全球能源进口依赖度将于 2034 年达到顶峰"
+     "zh": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says"
     },
     {
      "title": "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
@@ -846,7 +870,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:00:00 -0500",
      "summary": "More than three decades after Norway opened parts of the Norwegian Sea to petroleum exploration, potentially significant oil and gas resources remain hidden beneath thick layers of volcanic rock. Now, advances in exploration technology and renewed industry interest could bring one of Europe's least ",
      "source": "OilPrice",
-     "zh": "挪威未开发的石油和天然气领域重新引起人们的兴趣"
+     "zh": "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest"
     },
     {
      "title": "France And Germany Agree On New Exhaust Emissions Rules, Sort Of…..",
@@ -854,7 +878,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:59:53 +0000",
      "summary": "There is an old expression that goes like this: “Everyone complains about the weather, but nobody does anything about it.” There is a corollary to that adage: “Everybody knows we have to stop polluting our environment, but nobody wants to be first to do something about it.” A case in ... [continued]",
      "source": "CleanTechnica",
-     "zh": "法国和德国就新的废气排放规则达成一致……"
+     "zh": "France And Germany Agree On New Exhaust Emissions Rules, Sort Of….."
     },
     {
      "title": "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
@@ -862,7 +886,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:30:00 -0500",
      "summary": "The United States is putting another 17 million barrels of crude from the Strategic Petroleum Reserve on offer, one day after the IEA accelerated emergency stock releases as governments scramble to get more oil and fuel into a tight market. The Department of Energy issued a request for proposals Fri",
      "source": "OilPrice",
-     "zh": "随着燃料危机加深，美国再提供 1700 万桶 SPR"
+     "zh": "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens"
     },
     {
      "title": "Wind Farm Approved in Victoria, Australia Would Be Largest in Southern Hemispher",
@@ -870,7 +894,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:00:00 -0500",
      "summary": "A massive wind farm in the state of Victoria, Australia, has been approved by state authorities, paving the way for the project to go to the federal environment minister for final checks. ABC News reports Planning Minister Sonya Kilkenny this week signed off on the Warracknabeal Energy Park, five mo",
      "source": "OilPrice",
-     "zh": "澳大利亚维多利亚州获批的风电场将成为南半球最大的风电场"
+     "zh": "Wind Farm Approved in Victoria, Australia Would Be Largest in Southern Hemispher"
     },
     {
      "title": "U.S. Oil Drillers Back Off Even As Prices Soar",
@@ -886,7 +910,7 @@
      "pubDate": "Fri, 16 Oct 2026 11:30:00 -0500",
      "summary": "Equatorial Guinea will approve a new hydrocarbon law on Monday after crude production collapsed to just 20,000 barrels per day in September, down from roughly 140,000 bpd in 2020. The 120,000-bpd loss has reduced OPEC’s smallest producer to a fraction of its former output and contributed to an econo",
      "source": "OilPrice",
-     "zh": "产量锐减 85% 后赤道几内亚重写石油法"
+     "zh": "Equatorial Guinea Rewrites Oil Law After Production Collapses 85%"
     },
     {
      "title": "Tesla Roadster Reveal — Madness From The Mind Of Musk",
@@ -894,7 +918,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:23:24 +0000",
      "summary": "My colleague Tina Casey is doing a story about the new Tesla Roadster and flying cars, so I hope she will pardon me for this intrusion. What we saw at the reveal was a totally irrelevant mind game cooked up inside the drug addled cranium of Elon Musk. That’s right, ... [continued] The post Tesla Roa",
      "source": "CleanTechnica",
-     "zh": "特斯拉 Roadster 揭晓——马斯克的疯狂想法"
+     "zh": "Tesla Roadster Reveal — Madness From The Mind Of Musk"
     },
     {
      "title": "Recurrent Energy begins commercial operations at 200MW Villameca solar project in Spain",
@@ -902,7 +926,7 @@
      "pubDate": "Fri, 16 Oct 2026 15:14:10 +0000",
      "summary": "Recurrent Energy has announced the start of commercial operations at the 200MWp Villameca Project in Castilla y León, Spain.",
      "source": "PV Tech",
-     "zh": "Recurrent Energy 西班牙 200MW Villameca 太阳能项目开始商业运营"
+     "zh": "Recurrent Energy begins commercial operations at 200MW Villameca solar project in Spain"
     },
     {
      "title": "FERC proposes easing regulatory pathway for gas pipeline, LNG projects",
@@ -910,7 +934,7 @@
      "pubDate": "Fri, 16 Oct 2026 10:42:23 -0400",
      "summary": "&ldquo;The only current restriction on getting American gas is our ability to get the gas to market and the infrastructure bottlenecks,&rdquo; FERC Chairman Laura Swett said.",
      "source": "Utility Dive",
-     "zh": "FERC 提议放宽天然气管道、液化天然气项目的监管途径"
+     "zh": "FERC proposes easing regulatory pathway for gas pipeline, LNG projects"
     },
     {
      "title": "More than module assembly: building a resilient solar ecosystem in the US",
@@ -918,7 +942,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:31:57 +0000",
      "summary": "Markus Beck of RCT Solutions discusses how the US PV manufacturing can be sustained beyond the current boom.",
      "source": "PV Tech",
-     "zh": "不仅仅是组件组装：在美国建立一个有弹性的太阳能生态系统"
+     "zh": "More than module assembly: building a resilient solar ecosystem in the US"
     },
     {
      "title": "Standardisation, third-party choices, and outcomes: Arenko’s Dan Taylor on building a BESS analytics strategy",
@@ -926,7 +950,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:29:14 +0000",
      "summary": "Dan Taylor, director of engineering at optimisation and asset management provider Arenko, speaks to Energy-Storage.news about all things data in battery energy storage systems (BESS).",
      "source": "Energy Storage News",
-     "zh": "标准化、第三方选择和结果：Arenko 的 Dan Taylor 谈如何构建 BESS 分析策略"
+     "zh": "Standardisation, third-party choices, and outcomes: Arenko’s Dan Taylor on building a BESS analytics strategy"
     },
     {
      "title": "US policy, workforce challenges and space-based solar lead PV CellTech USA discussions",
@@ -934,7 +958,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:27:32 +0000",
      "summary": "Industry experts from all fields of the solar PV industry gathered this week at PV CellTech USA to discuss the US solar manufacturing sector.",
      "source": "PV Tech",
-     "zh": "美国政策、劳动力挑战和天基太阳能主导 PV CellTech USA 讨论"
+     "zh": "US policy, workforce challenges and space-based solar lead PV CellTech USA discussions"
     },
     {
      "title": "US EV sales are rising again. Here’s why the recovery is set to last.",
@@ -942,7 +966,7 @@
      "pubDate": "Fri, 16 Oct 2026 10:23:00 -0400",
      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. It’s a great time to have an electric vehicle — and more Americans are getting the message. Despite President Donald Trump’s pledge to refrain from striking Iran before next month’s midterm e",
      "source": "Canary Media",
-     "zh": "美国电动汽车销量再次上升。这就是复苏将持续的原因。"
+     "zh": "US EV sales are rising again. Here’s why the recovery is set to last."
     },
     {
      "title": "Europe Needs Electric Freight Corridors, Not Just Electric Ships",
@@ -950,7 +974,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:56:21 +0000",
      "summary": "Electric ships attract attention because the vessel is the visible technology. Put a large battery into an inland cargo vessel, replace the diesel propulsion system with electric motors, and the decarbonization story appears straightforward. Inland shipping looks particularly promising because many ",
      "source": "CleanTechnica",
-     "zh": "欧洲需要电动货运走廊，而不仅仅是电动船"
+     "zh": "Europe Needs Electric Freight Corridors, Not Just Electric Ships"
     },
     {
      "title": "Norfund, Impact Fund Denmark acquire 49% stake in Vena solar project in the Philippines",
@@ -958,7 +982,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:40:14 +0000",
      "summary": "Norfund and Impact Fund Denmark have signed agreements to take a 49% interest in the 500MWp Ixus Bugallon Solar Power Project.",
      "source": "PV Tech",
-     "zh": "Norfund、丹麦影响力基金收购菲律宾 Vena 太阳能项目 49% 的股份"
+     "zh": "Norfund, Impact Fund Denmark acquire 49% stake in Vena solar project in the Philippines"
     },
     {
      "title": "U.S. trade commission finds solar imports from India, Indonesia and Laos are harming domestic industry",
@@ -966,7 +990,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:36:51 +0000",
      "summary": "Following affirmative dumping and subsidy findings by Commerce, the International Trade Commission's final vote secures the issuance of federal antidumping and countervailing duty orders. The post U.S. trade commission finds solar imports from India, Indonesia and Laos are harming domestic industry ",
      "source": "pv magazine",
-     "zh": "美国贸易委员会发现从印度、印度尼西亚和老挝进口的太阳能正在损害国内产业"
+     "zh": "U.S. trade commission finds solar imports from India, Indonesia and Laos are harming domestic industry"
     },
     {
      "title": "Flatiron Energy closes US$850 million financing for 1.2GWh Massachusetts BESS project",
@@ -974,7 +998,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:36:47 +0000",
      "summary": "US energy storage developer Flatiron Energy has closed on approximately US$850 million for its 1,200MWh Energizar energy storage project in Chelsea, Massachusetts, US.",
      "source": "Energy Storage News",
-     "zh": "Flatiron Energy 为马萨​​诸塞州 1.2GWh BESS 项目完成 8.5 亿美元融资"
+     "zh": "Flatiron Energy closes US$850 million financing for 1.2GWh Massachusetts BESS project"
     },
     {
      "title": "China proposes ban on exports of perovskite, tandem solar manufacturing technology",
@@ -982,7 +1006,7 @@
      "pubDate": "Fri, 16 Oct 2026 12:17:23 +0000",
      "summary": "China has proposed banning exports of selected high-efficiency perovskite and tandem solar manufacturing technologies, alongside new restrictions on advanced polysilicon, wafer and crystalline-silicon cell production processes. The proposed measures would cover 12 photovoltaic technologies, with pub",
      "source": "pv magazine",
-     "zh": "中国提议禁止出口钙钛矿、串联太阳能制造技术"
+     "zh": "China proposes ban on exports of perovskite, tandem solar manufacturing technology"
     },
     {
      "title": "German industry groups oppose proposed solar prosumer grid surcharge",
@@ -990,7 +1014,7 @@
      "pubDate": "Fri, 16 Oct 2026 11:28:12 +0000",
      "summary": "Eleven German associations oppose proposed solar prosumer grid fees, warning they could deter investment and slow expansion.",
      "source": "PV Tech",
-     "zh": "德国工业团体反对拟议的太阳能产消者电网附加费"
+     "zh": "German industry groups oppose proposed solar prosumer grid surcharge"
     },
     {
      "title": "Germany Roundup: Enertrag, Enlight, Vattenfall, Fluence, Giga Storage progress 4-hour batteries totalling 3.2GWh to construction",
@@ -998,15 +1022,7 @@
      "pubDate": "Fri, 16 Oct 2026 11:26:19 +0000",
      "summary": "A trio of large-scale 4-hour BESS projects in Germany have progressed towards construction, from Enertrag and Enlight, Vattenfall and Fluence, and Giga Storage.",
      "source": "Energy Storage News",
-     "zh": "德国综述：Enertrag、Enlight、Vattenfall、Fluence、Giga Storage 总计 3.2GWh 的 4 小时电池已开工建设"
-    },
-    {
-     "title": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
-     "link": "https://www.utilitydive.com/news/nexteras-4m-trump-ballroom-donation-muddies-debate-over-dominion-merger/833201/",
-     "pubDate": "Fri, 16 Oct 2026 06:28:17 -0400",
-     "summary": "The donation, which advocates called &ldquo;problematic&rdquo; and &ldquo;convenient&rdquo; for the company, comes to light as federal regulators chosen by President Donald Trump consider whether to allow NextEra to merge with Dominion Energy.",
-     "source": "Utility Dive",
-     "zh": "监管机构称 NextEra 的 400 万美元特朗普舞厅捐款搅乱了 Dominion 合并辩论"
+     "zh": "Germany Roundup: Enertrag, Enlight, Vattenfall, Fluence, Giga Storage progress 4-hour batteries totalling 3.2GWh to construction"
     },
     {
      "title": "The Hydrogen Stream: P2X starts selling renewable methane to European markets",
@@ -1014,7 +1030,7 @@
      "pubDate": "Fri, 16 Oct 2026 10:09:57 +0000",
      "summary": "Europe’s renewable hydrogen and e-fuels sector continues to gain momentum, with new developments spanning e-methane certification and offtake, electrolyser technology, large-scale green hydrogen projects and strategic investments. Recent announcements from companies including P2X Solutions, Stargate",
      "source": "pv magazine",
-     "zh": "氢流：P2X 开始向欧洲市场销售可再生甲烷"
+     "zh": "The Hydrogen Stream: P2X starts selling renewable methane to European markets"
     },
     {
      "title": "Scientists develop air-source heat pump system for broiler houses",
@@ -1022,7 +1038,7 @@
      "pubDate": "Fri, 16 Oct 2026 09:35:57 +0000",
      "summary": "Researchers in Turkey have tested an air-source heat pump for heating commercial poultry houses, combining experimental measurements with numerical simulations. The system reduced annual heating costs by approximately 44% compared with conventional coal-fired heating. The post Scientists develop air",
      "source": "pv magazine",
-     "zh": "科学家开发肉鸡舍空气源热泵系统"
+     "zh": "Scientists develop air-source heat pump system for broiler houses"
     },
     {
      "title": "GES secures US$252 million EPC contracts for four Spanish solar PV projects",
@@ -1030,7 +1046,7 @@
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
-     "zh": "GES 为四个西班牙太阳能光伏项目获得 2.52 亿美元的 EPC 合同"
+     "zh": "GES secures US$252 million EPC contracts for four Spanish solar PV projects"
     },
     {
      "title": "Chinese PV Industry Brief: Trina Solar expands upstream ties with stake in encapsulation film maker",
@@ -1038,7 +1054,7 @@
      "pubDate": "Fri, 16 Oct 2026 09:27:27 +0000",
      "summary": "Trina Solar plans to acquire a 1.6% stake in Chinese PV encapsulation film manufacturer Betterial for CNY 40 million ($5.88 million). The investment aims to strengthen upstream supplier ties and improve supply chain stability. The post Chinese PV Industry Brief: Trina Solar expands upstream ties wit",
      "source": "pv magazine",
-     "zh": "中国光伏行业简报：天合光能入股封装膜制造商扩大上游联系"
+     "zh": "Chinese PV Industry Brief: Trina Solar expands upstream ties with stake in encapsulation film maker"
     },
     {
      "title": "Big highs and lows across Asia in September",
@@ -1046,7 +1062,7 @@
      "pubDate": "Fri, 16 Oct 2026 09:13:19 +0000",
      "summary": "In a new weekly update for pv magazine , Solcast, a DNV company, reports that September 2026 saw extreme solar irradiance variations across Asia, with Japan and Borneo experiencing up to 30% below-normal levels, while China, Korea, the Philippines and eastern Indonesia recorded significant surpluses",
      "source": "pv magazine",
-     "zh": "九月亚洲各地的大高点和低点"
+     "zh": "Big highs and lows across Asia in September"
     },
     {
      "title": "US clean energy jobs fell in 2025 for the first time in years",
@@ -1054,7 +1070,7 @@
      "pubDate": "Fri, 16 Oct 2026 03:30:00 -0400",
      "summary": "See more from Canary Media’s ​“Chart of the Week” column . Clean energy installations have persisted at record levels despite President Donald Trump’s best efforts to stop them. But the first year of Trump’s second term did leave a mark on U.S. jobs in the sector. Clean energy jobs fell in 2025 afte",
      "source": "Canary Media",
-     "zh": "2025年美国清洁能源就业岗位多年来首次下降"
+     "zh": "US clean energy jobs fell in 2025 for the first time in years"
     },
     {
      "title": "Vikram Solar subsidiary to build 7.5GWh BESS assembly plant in Tamil Nadu, India",
@@ -1062,7 +1078,15 @@
      "pubDate": "Fri, 16 Oct 2026 05:16:30 +0000",
      "summary": "VSL PowerHive, a Vikram Solar subsidiary, announced a 7.5GWh BESS assembly plant in Oragadam, near Chennai, Tamil Nadu.",
      "source": "Energy Storage News",
-     "zh": "Vikram Solar 子公司将在印度泰米尔纳德邦建设 7.5GWh BESS 组装厂"
+     "zh": "Vikram Solar subsidiary to build 7.5GWh BESS assembly plant in Tamil Nadu, India"
+    },
+    {
+     "title": "AGL refers 500MWh Abermain BESS in Queensland to Australia’s EPBC Act",
+     "link": "https://www.energy-storage.news/agl-refers-500mwh-abermain-bess-in-queensland-to-australias-epbc-act/",
+     "pubDate": "Fri, 16 Oct 2026 04:56:20 +0000",
+     "summary": "Australian energy company AGL has referred a 500MWh battery energy storage system (BESS) in Queensland to the federal government under Australia's Environment Protection and Biodiversity Conservation (EPBC) Act.",
+     "source": "Energy Storage News",
+     "zh": "AGL refers 500MWh Abermain BESS in Queensland to Australia’s EPBC Act"
     }
    ]
   },
@@ -1078,7 +1102,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:36:42 +0000",
      "summary": "This eBook brings insight on integrated end-to-end solutions for precision engineered therapeutics. The post ADC Developmentfrom Concept to Clinic appeared first on GEN - Genetic Engineering and Biotechnology News .",
      "source": "GEN",
-     "zh": "ADC 开发从概念到临床"
+     "zh": "ADC Developmentfrom Concept to Clinic"
     },
     {
      "title": "Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science",
@@ -1086,7 +1110,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:13:04 +0000",
      "summary": "Danaher and Nvidia are collaborating to advance autonomous science, combining lab instrumentation, automation, and software with accelerated computing and AI so that experiments inform models and models help design better experiments. The post Danaher, Nvidia Combine Lab Instrumentation and AI to Ad",
      "source": "GEN",
-     "zh": "丹纳赫和 Nvidia 结合实验室仪器和人工智能来推进自主科学"
+     "zh": "Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science"
     },
     {
      "title": "Designing the Ecosystem for CGT Success",
@@ -1094,7 +1118,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:21:49 +0000",
      "summary": "This proceedings eBook, developed in partnership with GEN and Cincinnati Children’s Hospital Applied Gene and Cell Therapy Center, captures perspectives and lessons from The Cell Summit ’26 and extends the conversation beyond the meeting itself. The post Designing the Ecosystem for CGT Success appea",
      "source": "GEN",
-     "zh": "设计 CGT 成功的生态系统"
+     "zh": "Designing the Ecosystem for CGT Success"
     },
     {
      "title": "Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breast Development",
@@ -1102,7 +1126,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:58:46 +0000",
      "summary": "A study in human breast organoids has found that exposure to some common endocrine-disrupting chemicals may lead to molecular changes in breast tissue that could influence susceptibility to breast cancer later in life. The post Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breas",
      "source": "GEN",
-     "zh": "接触常见的内分泌干扰化学物质可能会改变正常的乳房发育"
+     "zh": "Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breast Development"
     },
     {
      "title": "ASHG 2026 Awards Honor Achievements in Research, Education, and More",
@@ -1110,7 +1134,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:27:48 +0000",
      "summary": "ASHG will honor seven recipients with its 2026 Professional Awards, recognizing outstanding contributions to human genetics and genomics research, education, mentorship, and public service at ceremonies this week. The post ASHG 2026 Awards Honor Achievements in Research, Education, and More appeared",
      "source": "GEN",
-     "zh": "ASHG 2026 奖项表彰研究、教育等方面的成就"
+     "zh": "ASHG 2026 Awards Honor Achievements in Research, Education, and More"
     },
     {
      "title": "Iambic CEO on taking an AI drug company public",
@@ -1118,7 +1142,7 @@
      "pubDate": "Fri, 16 Oct 2026 12:10:00 -0400",
      "summary": "Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI&rsquo;s role in drug development evolving.",
      "source": "BioPharma Dive",
-     "zh": "Iambic 首席执行官谈人工智能制药公司上市"
+     "zh": "Iambic CEO on taking an AI drug company public"
     },
     {
      "title": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking",
@@ -1126,7 +1150,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:02:00 +0000",
      "summary": "Paulo Fontoura took over as Sanofi’s global head of R&D in September after 16 years at Roche and a recent stint at AI drug discovery startup Xaira Therapeutics. Ahead of Sanofi’s Oct. 30 earnings, Endpoints ...",
      "source": "Endpoints News",
-     "zh": "问答：赛诺菲新任人工智能、研发失败率和交易研究主管"
+     "zh": "Q&A: Sanofi's new research chief on AI, R&D failure rates and dealmaking"
     },
     {
      "title": "Hospitals’ next lucrative bet — longevity clinics",
@@ -1134,7 +1158,7 @@
      "pubDate": "Fri, 16 Oct 2026 15:34:31 +0000",
      "summary": "On this week's “The Readout LOUD,” STAT's biotech podcast, we discuss the booming industry of longevity health.",
      "source": "STAT News",
-     "zh": "医院的下一个利润丰厚的赌注——长寿诊所"
+     "zh": "Hospitals’ next lucrative bet — longevity clinics"
     },
     {
      "title": "Novartis scraps Fabhalta study in lupus nephritis",
@@ -1142,7 +1166,7 @@
      "pubDate": "Fri, 16 Oct 2026 15:32:24 +0000",
      "summary": "Novartis terminated a mid-stage trial of Fabhalta in lupus nephritis, citing “strategic considerations,” according to a federal clinical trials database. Fabhalta, also known as iptacopan, is a key part of Novartis' portfolio. It delivered $505 ...",
      "source": "Endpoints News",
-     "zh": "诺华取消 Fabhalta 治疗狼疮性肾炎的研究"
+     "zh": "Novartis scraps Fabhalta study in lupus nephritis"
     },
     {
      "title": "China pursues export ban on some biotech platforms",
@@ -1150,7 +1174,7 @@
      "pubDate": "Fri, 16 Oct 2026 15:28:01 +0000",
      "summary": "The Chinese Ministry of Commerce is clamping down on the kinds of deals domestic companies can make, but the free-flowing licensing of drugs appears to be intact. Government officials are looking at",
      "source": "Endpoints News",
-     "zh": "中国对一些生物技术平台实施出口禁令"
+     "zh": "China pursues export ban on some biotech platforms"
     },
     {
      "title": "FDA considers interim access for compounded peptides; Enspryng's label expansion",
@@ -1166,7 +1190,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:55:55 +0000",
      "summary": "Eli Lilly secured EU regulatory backing for its oral GLP-1 pill orforglipron on Friday as it looks to catch up with competitor Novo’s Wegovy pill. The European Medicines Agency’s human medicines committee (CHMP)",
      "source": "Endpoints News",
-     "zh": "CHMP 认可礼来公司的 GLP-1 药丸和其他三种新药"
+     "zh": "CHMP endorses Eli Lilly’s GLP-1 pill and three other new drugs"
     },
     {
      "title": "Lilly interested in ibogaine investments, its neuro leader says",
@@ -1174,7 +1198,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:04:29 +0000",
      "summary": "Eli Lilly is interested in R&D efforts to “improve the profile of ibogaine,” the pharma giant’s neuroscience president said at a psychedelics conference Thursday. Carole Ho, who joined the company last year from Denali Therapeutics ...",
      "source": "Endpoints News",
-     "zh": "礼来公司神经负责人表示对伊博加因投资感兴趣"
+     "zh": "Lilly interested in ibogaine investments, its neuro leader says"
     },
     {
      "title": "STAT+: Up and down the ladder: The latest comings and goings",
@@ -1190,7 +1214,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:49:21 +0000",
      "summary": "The Trump administration is proceeding with a plan to allow compounding pharmacies to produce certain peptides",
      "source": "STAT News",
-     "zh": "STAT+：Pharmalittle：我们正在阅读有关 HHS 肽推动、特朗普持有的制药股票等信息"
+     "zh": "STAT+: Pharmalittle: We’re reading about an HHS peptide push, Trump’s pharma stock holdings, and more"
     },
     {
      "title": "STAT+: RevMed’s pancreatic cancer drug nears European approval",
@@ -1198,7 +1222,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:38:22 +0000",
      "summary": "Following a green light from the FDA, European regulators have now recommended the approval of Revolution Medicines' Rasonque for pancreatic cancer.",
      "source": "STAT News",
-     "zh": "STAT+：RevMed 的胰腺癌药物即将获得欧洲批准"
+     "zh": "STAT+: RevMed’s pancreatic cancer drug nears European approval"
     },
     {
      "title": "This week in charts: Moderna’s massive stock run",
@@ -1214,7 +1238,7 @@
      "pubDate": "Fri, 16 Oct 2026 12:34:03 +0000",
      "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022…",
      "source": "STAT News",
-     "zh": "观看有关伊丽莎白·霍姆斯的新纪录片之前要读什么"
+     "zh": "What to read before you go see that new documentary on Elizabeth Holmes"
     },
     {
      "title": "Next-gen RNAi drugmaker City prices $200M IPO",
@@ -1222,7 +1246,7 @@
      "pubDate": "Fri, 16 Oct 2026 06:33:00 -0400",
      "summary": "The offering will support a trio of medicines in or nearing clinical testing, as well as earlier research into RNAi treatments that get into tissues outside the liver.&nbsp;",
      "source": "BioPharma Dive",
-     "zh": "下一代 RNAi 制药商 City 定价 2 亿美元 IPO"
+     "zh": "Next-gen RNAi drugmaker City prices $200M IPO"
     },
     {
      "title": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy",
@@ -1230,7 +1254,7 @@
      "pubDate": "Fri, 16 Oct 2026 06:30:00 -0400",
      "summary": "The Series A round, which was led by RA Capital, will help fund the development of two genetic medicines designed to treat an inherited kidney disorder known as \"ADPKD.\"",
      "source": "BioPharma Dive",
-     "zh": "Biogen 支持的 Estuary 获得 9300 万美元用于肾脏疾病基因治疗"
+     "zh": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy"
     },
     {
      "title": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall",
@@ -1246,7 +1270,7 @@
      "pubDate": "Thu, 15 Oct 2026 22:16:35 +0000",
      "summary": "5,812 protein groups were quantified in postmenopausal ovaries, uncovering molecular shifts associated with inflammation, immunity, and extracellular matrix remodeling. The post Proteomics Reveals Ovarian Remodeling Decades After Menopause appeared first on GEN - Genetic Engineering and Biotechnolog",
      "source": "GEN",
-     "zh": "蛋白质组学揭示绝经几十年后卵巢重塑"
+     "zh": "Proteomics Reveals Ovarian Remodeling Decades After Menopause"
     },
     {
      "title": "Belgian startup revives Galapagos CAR-T research",
@@ -1254,7 +1278,7 @@
      "pubDate": "Thu, 15 Oct 2026 11:55:00 -0400",
      "summary": "Armed Cell Therapeutics, chaired by former Galapagos CEO Paul Stoffels, has assumed control of cell therapies the company&nbsp;&mdash; now known as Lakefront Biotherapeutics &mdash;&nbsp;divested in a strategic overhaul.",
      "source": "BioPharma Dive",
-     "zh": "比利时初创公司复兴加拉帕戈斯 CAR-T 研究"
+     "zh": "Belgian startup revives Galapagos CAR-T research"
     },
     {
      "title": "FDA ‘reset’ continues with new plan for reviewing rare disease drugs",
@@ -1278,7 +1302,7 @@
      "pubDate": "Fri, 16 Oct 2026 22:00:00 +0000",
      "summary": "The astronauts of SpaceX's Crew-12 mission wish that we could all see Earth as they just did —as a beautiful but fragile outpost of life in a vast void.",
      "source": "Space.com",
-     "zh": "“它确实改变了你”：SpaceX Crew-12 指挥官希望我们都能从太空看到脆弱的地球"
+     "zh": "'It really does change you': SpaceX Crew-12 commander wishes we could all see our fragile Earth from space"
     },
     {
      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
@@ -1286,7 +1310,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:14:39 +0000",
      "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “M",
      "source": "NASA",
-     "zh": "美国宇航局任命斯蒂芬·卡什·马歇尔太空飞行中心主任"
+     "zh": "NASA Names Stephen Cash Marshall Space Flight Center Director"
     },
     {
      "title": "When not to watch a meteor shower — why I'm not staying up for the Orionids",
@@ -1294,7 +1318,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:00:00 +0000",
      "summary": "The Orionid meteor shower peaks next week, but a bright moon makes much of the night less than ideal. Sometimes the sensible observing decision is knowing when to stay in bed — and when to get up early.",
      "source": "Space.com",
-     "zh": "什么时候不适合观看流星雨——为什么我不熬夜观看猎户座流星雨"
+     "zh": "When not to watch a meteor shower — why I'm not staying up for the Orionids"
     },
     {
      "title": "How to see the Orionid meteor shower 2026 peak this week — and when to look",
@@ -1302,7 +1326,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
      "summary": "The Orionids peak around Oct. 21. Here's when and where to look for the best chance of spotting meteors.",
      "source": "Space.com",
-     "zh": "本周如何观看猎户座流星雨 2026 年峰值——以及何时观看"
+     "zh": "How to see the Orionid meteor shower 2026 peak this week — and when to look"
     },
     {
      "title": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet",
@@ -1310,7 +1334,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
      "summary": "Using data from the James Webb Space Telescope, astronomers have unravelled some of the secrets of a bizarre, blisteringly hot exoplanet that has the consistency of marshmallow.",
      "source": "Space.com",
-     "zh": "科学家在奇异、灼热的“棉花糖”系外行星的大气中发现了“宝石”"
+     "zh": "Scientists find 'gemstones' in atmosphere of bizarre, scorching-hot 'marshmallow' exoplanet"
     },
     {
      "title": "SpaceX thrusters just made a Tesla Roadster 'fly' (and Elon Musk's car is still out there in space)",
@@ -1318,7 +1342,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:38:34 +0000",
      "summary": "Tesla just unveiled its new Roadster with a spectacular stunt, using SpaceX thrusters to make the sleek vehicle \"fly.\"",
      "source": "Space.com",
-     "zh": "SpaceX 推进器刚刚让一辆 Tesla Roadster “飞起来”（埃隆·马斯克的汽车仍在太空中）"
+     "zh": "SpaceX thrusters just made a Tesla Roadster 'fly' (and Elon Musk's car is still out there in space)"
     },
     {
      "title": "On this day in space! Oct. 16, 1975: NASA launches the 1st-ever GOES weather satellite to watch Earth from space",
@@ -1326,7 +1350,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:19:02 +0000",
      "summary": "On Oct. 16, 1975, NASA launched the first operational GOES weather satellite. Here's why it mattered.",
      "source": "Space.com",
-     "zh": "在太空的这一天！ 1975 年 10 月 16 日：NASA 发射第一颗 GOES 气象卫星，从太空观测地球"
+     "zh": "On this day in space! Oct. 16, 1975: NASA launches the 1st-ever GOES weather satellite to watch Earth from space"
     },
     {
      "title": "Artemis II Heat Shield After Splashdown",
@@ -1334,7 +1358,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:28:01 +0000",
      "summary": "Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacec",
      "source": "NASA",
-     "zh": "溅落后的 Artemis II 隔热罩"
+     "zh": "Artemis II Heat Shield After Splashdown"
     },
     {
      "title": "I Am Artemis: Allison Mjoen",
@@ -1342,7 +1366,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:24:29 +0000",
      "summary": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground ope",
      "source": "NASA",
-     "zh": "我是阿尔忒弥斯：艾莉森·姆约恩"
+     "zh": "I Am Artemis: Allison Mjoen"
     },
     {
      "title": "Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate",
@@ -1350,7 +1374,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:17:28 +0000",
      "summary": "The launch infrastructure improvements also include a substantial manufacturing expansion at Rocket Park and the addition of new landing barges.",
      "source": "Spaceflight Now",
-     "zh": "蓝色起源将增加新的佛罗里达发射台，寻求大幅提高新格伦飞行率"
+     "zh": "Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate"
     },
     {
      "title": "NASA’s Hubble Spies Spiral’s Edge",
@@ -1358,7 +1382,7 @@
      "pubDate": "Fri, 16 Oct 2026 12:42:08 +0000",
      "summary": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
      "source": "NASA",
-     "zh": "美国宇航局哈勃望远镜监视螺旋边缘"
+     "zh": "NASA’s Hubble Spies Spiral’s Edge"
     },
     {
      "title": "RATLOG Wants to Cut ~90% of a Rocket Engine’s Parts",
@@ -1366,7 +1390,7 @@
      "pubDate": "Fri, 16 Oct 2026 12:00:00 +0000",
      "summary": "The heavy-lift rocket startup debuted on Y Combinator as part of the Fall 2026 batch. The post RATLOG Wants to Cut ~90% of a Rocket Engine’s Parts appeared first on Payload .",
      "source": "Payload",
-     "zh": "RATLOG 希望削减约 90% 的火箭发动机零件"
+     "zh": "RATLOG Wants to Cut ~90% of a Rocket Engine’s Parts"
     },
     {
      "title": "Seraphim Space Investment Trust Doubled its Value in 2026",
@@ -1374,7 +1398,7 @@
      "pubDate": "Fri, 16 Oct 2026 05:30:00 +0000",
      "summary": "Seraphim’s major holdings—ICEYE, ALL.SPACE, D-Orbit, HawkEye 360, and Xona Space Systems, which together represent more than 75% of the firm’s portfolio—all had a great year, and that success has trickled upwards. The post Seraphim Space Investment Trust Doubled its Value in 2026 appeared first on P",
      "source": "Payload",
-     "zh": "六翼天使太空投资信托基金价值将于 2026 年翻倍"
+     "zh": "Seraphim Space Investment Trust Doubled its Value in 2026"
     },
     {
      "title": "APOD: 2026 October 16 – Chasing the International Space Station",
@@ -1382,7 +1406,7 @@
      "pubDate": "Fri, 16 Oct 2026 04:05:00 +0000",
      "summary": "APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writte",
      "source": "NASA",
-     "zh": "APOD：2026年10月16日——追逐国际空间站"
+     "zh": "APOD: 2026 October 16 – Chasing the International Space Station"
     },
     {
      "title": "Isaias Dims the Gulf Coast",
@@ -1390,7 +1414,7 @@
      "pubDate": "Fri, 16 Oct 2026 04:00:00 +0000",
      "summary": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
      "source": "NASA",
-     "zh": "伊萨亚斯使墨西哥湾沿岸变暗"
+     "zh": "Isaias Dims the Gulf Coast"
     },
     {
      "title": "Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027",
@@ -1398,7 +1422,7 @@
      "pubDate": "Fri, 16 Oct 2026 03:49:06 +0000",
      "summary": "Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems… The post Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027 appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "碳纤维问题迫使火箭实验室将中子首次亮相推迟至不早于 2027 年"
+     "zh": "Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027"
     },
     {
      "title": "UKSA Taps ClearSpace for Country’s First Debris Removal Mission",
@@ -1414,7 +1438,7 @@
      "pubDate": "Thu, 15 Oct 2026 20:41:50 +0000",
      "summary": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets The post Oct. 29: Applying AI to the GEOINT Mission appeared first on SpaceNews .",
      "source": "SpaceNews",
-     "zh": "10 月 29 日：将人工智能应用于 GEOINT 任务"
+     "zh": "Oct. 29: Applying AI to the GEOINT Mission"
     },
     {
      "title": "SpaceX launches a classified payload for U.S. Space Force",
@@ -1430,7 +1454,7 @@
      "pubDate": "Thu, 15 Oct 2026 15:14:24 +0000",
      "summary": "In this episode, SpaceNews’ Mike Gruss talks with NASA’s Shatel Bhakta, the principal systems engineer for Moon Base, about what’s needed between now and 2028 and the incremental steps to […] The post How NASA is thinking about a moon base appeared first on SpaceNews .",
      "source": "SpaceNews",
-     "zh": "美国宇航局如何考虑月球基地"
+     "zh": "How NASA is thinking about a moon base"
     },
     {
      "title": "BlackSky Renews HEO Deal, Adds Gen-3 Imagery for Space Domain Awareness",
@@ -1438,7 +1462,7 @@
      "pubDate": "Thu, 15 Oct 2026 12:30:00 +0000",
      "summary": "BlackSky Technology inked a seven-figure deal to extend its partnership with Australian non-Earth imaging (NEI) provider HEO for another year. The post BlackSky Renews HEO Deal, Adds Gen-3 Imagery for Space Domain Awareness appeared first on Payload .",
      "source": "Payload",
-     "zh": "BlackSky 续签 HEO 协议，添加第三代图像以提高空间域意识"
+     "zh": "BlackSky Renews HEO Deal, Adds Gen-3 Imagery for Space Domain Awareness"
     },
     {
      "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
@@ -1446,7 +1470,7 @@
      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
      "summary": "BELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new […] The post Agile Space Industries Expands to Seattle Area with New Bellevue Office appeared first on Spac",
      "source": "SpaceNews",
-     "zh": "敏捷空间工业公司扩展到西雅图地区并设立新的贝尔维尤办事处"
+     "zh": "Agile Space Industries Expands to Seattle Area with New Bellevue Office"
     },
     {
      "title": "JAXA Taps ArkEdge for Two Lunar Navigation Demos",
@@ -1454,7 +1478,7 @@
      "pubDate": "Thu, 15 Oct 2026 08:00:00 +0000",
      "summary": "Today’s Moon explorers won’t have the luxury of GPS-like tech for navigation. But JAXA is trying to change that for future lunar visitors. The post JAXA Taps ArkEdge for Two Lunar Navigation Demos appeared first on Payload .",
      "source": "Payload",
-     "zh": "JAXA 利用 ArkEdge 进行两个月球导航演示"
+     "zh": "JAXA Taps ArkEdge for Two Lunar Navigation Demos"
     },
     {
      "title": "Artemis III SLS teams prepare short stack for pad tanking test",
@@ -1462,7 +1486,7 @@
      "pubDate": "Wed, 14 Oct 2026 22:36:14 +0000",
      "summary": "With both solid rocket boosters fully stacked and all four RS-25 engines now installed on… The post Artemis III SLS teams prepare short stack for pad tanking test appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "Artemis III SLS 团队为垫罐测试准备短堆"
+     "zh": "Artemis III SLS teams prepare short stack for pad tanking test"
     },
     {
      "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
@@ -1470,7 +1494,7 @@
      "pubDate": "Wed, 14 Oct 2026 13:09:21 +0000",
      "summary": "When the European thermal-imagery company constellr began working with Space Inventor on its next generation of satellites, some of the most important details of the spacecraft had yet to be […] The post How mini-constellations could more quickly bring new tech to Europe, and to orbit appeared first",
      "source": "SpaceNews",
-     "zh": "迷你星座如何更快地将新技术引入欧洲并进入轨道"
+     "zh": "How mini-constellations could more quickly bring new tech to Europe, and to orbit"
     },
     {
      "title": "Exclusive: In Orbit Aerospace Pivots From Re-entry Vehicles to Spacecraft Autonomy",
@@ -1478,7 +1502,7 @@
      "pubDate": "Wed, 14 Oct 2026 12:17:00 +0000",
      "summary": "In Orbit has won new government contracts for its onboard AI system, which the company says can run a spacecraft’s operations without waiting on ground control. The post Exclusive: In Orbit Aerospace Pivots From Re-entry Vehicles to Spacecraft Autonomy appeared first on Payload .",
      "source": "Payload",
-     "zh": "独家：在轨航空航天从再入飞行器转向航天器自主"
+     "zh": "Exclusive: In Orbit Aerospace Pivots From Re-entry Vehicles to Spacecraft Autonomy"
     },
     {
      "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
@@ -1486,7 +1510,7 @@
      "pubDate": "Tue, 13 Oct 2026 22:09:39 +0000",
      "summary": "This week features a relatively quiet launch manifest, with SpaceX’s workhorse Falcon 9 comprising much… The post Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "发射预览：猎鹰 9 号、朱雀 2E 将于安静的一周发射"
+     "zh": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week"
     },
     {
      "title": "SpaceX launches NASA science and cargo to the International Space Station",
@@ -1502,7 +1526,7 @@
      "pubDate": "Tue, 13 Oct 2026 01:19:30 +0000",
      "summary": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will arrive at the space station following a two-day flight.",
      "source": "Spaceflight Now",
-     "zh": "发射预览：NASA、SpaceX 将向空间站发射新的太阳能电池板和 6,300 磅的货物"
+     "zh": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station"
     },
     {
      "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites from California",
@@ -1526,7 +1550,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:34:37 GMT",
      "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
      "source": "Dark Reading",
-     "zh": "BeyondTrust 远程支持零日漏洞继续利用边缘漏洞趋势"
+     "zh": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs"
     },
     {
      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
@@ -1534,7 +1558,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:00:59 -0400",
      "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
      "source": "BleepingComputer",
-     "zh": "严重的 BlockStrap 缺陷可让黑客在 Magento 服务器上运行代码"
+     "zh": "Critical BlockStrap flaw lets hackers run code on Magento servers"
     },
     {
      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
@@ -1550,7 +1574,7 @@
      "pubDate": "Fri, 16 Oct 2026 19:22:12 GMT",
      "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.",
      "source": "Dark Reading",
-     "zh": "Biomemory 推出 DNA Shield，这是首款基于其分子 IT 平台构建的商业产品"
+     "zh": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform"
     },
     {
      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
@@ -1558,7 +1582,7 @@
      "pubDate": "Fri, 16 Oct 2026 19:13:59 GMT",
      "summary": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.",
      "source": "Dark Reading",
-     "zh": "安全担忧加剧，企业人工智能进入风险管理阶段"
+     "zh": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise"
     },
     {
      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
@@ -1574,7 +1598,7 @@
      "pubDate": "Fri, 16 Oct 2026 23:18:45 +0530",
      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and report",
      "source": "The Hacker News",
-     "zh": "研究人员展示 OpenBSD 根漏洞利用链 37 年前的共享内存漏洞"
+     "zh": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug"
     },
     {
      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
@@ -1582,7 +1606,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:20:03 -0400",
      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
      "source": "BleepingComputer",
-     "zh": "有针对性的广告在零点击攻击中安装了 Candiru 间谍软件"
+     "zh": "Targeted ads installed Candiru spyware in zero-click attacks"
     },
     {
      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
@@ -1590,7 +1614,7 @@
      "pubDate": "Fri, 16 Oct 2026 22:13:39 +0530",
      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and ru",
      "source": "The Hacker News",
-     "zh": "攻击者篡改傲梅轻松备份的更新服务器几分钟以提供后门"
+     "zh": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor"
     },
     {
      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
@@ -1598,7 +1622,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:46:44 +0530",
      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google accou",
      "source": "The Hacker News",
-     "zh": "UAT-11985 使用虚假活动邀请通过 Google AitM 网络钓鱼攻击台湾研究机构"
+     "zh": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing"
     },
     {
      "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
@@ -1606,7 +1630,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:09:51 +0000",
      "summary": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit appeared first on SecurityWeek",
      "source": "SecurityWeek",
-     "zh": "其他新闻：ICS-Sniper 攻击、黑客 XWorm 恶意软件运营商、价值 25 万美元的 Chrome 漏洞利用"
+     "zh": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit"
     },
     {
      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
@@ -1622,7 +1646,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:00:00 GMT",
      "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
      "source": "Dark Reading",
-     "zh": "当你的勒索软件谈判者为另一方工作时"
+     "zh": "When Your Ransomware Negotiator Works for the Other Side"
     },
     {
      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
@@ -1638,7 +1662,7 @@
      "pubDate": "Fri, 16 Oct 2026 08:01:29 -0400",
      "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
      "source": "BleepingComputer",
-     "zh": "汉堡王日本数据泄露导致 1100 万条客户记录泄露"
+     "zh": "Burger King Japan data breach exposes 11 million customer records"
     },
     {
      "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
@@ -1654,7 +1678,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:00:00 +0530",
      "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6. Cr",
      "source": "The Hacker News",
-     "zh": "AI决策模型及其对AI SOC平台的影响"
+     "zh": "AI Decision Models and Their Impact on AI SOC Platforms"
     },
     {
      "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
@@ -1662,7 +1686,7 @@
      "pubDate": "Fri, 16 Oct 2026 10:53:22 +0000",
      "summary": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "中国APT利用BeyondTrust漏洞作为零日漏洞"
+     "zh": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day"
     },
     {
      "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
@@ -1678,7 +1702,7 @@
      "pubDate": "Fri, 16 Oct 2026 09:54:34 +0000",
      "summary": "Successful exploitation of some of these issues could lead to remote code execution and full device takeover. The post F5, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "F5，瞻博网络修补关键漏洞"
+     "zh": "F5, Juniper Networks Patch Critical Vulnerabilities"
     },
     {
      "title": "Microsoft: October Windows update may break Smart App Control",
@@ -1686,7 +1710,7 @@
      "pubDate": "Fri, 16 Oct 2026 04:44:22 -0400",
      "summary": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
      "source": "BleepingComputer",
-     "zh": "微软：十月Windows更新可能会破坏智能应用程序控制"
+     "zh": "Microsoft: October Windows update may break Smart App Control"
     },
     {
      "title": "Microsoft Patches Two Dozen RCE Flaws in Office",
@@ -1702,7 +1726,7 @@
      "pubDate": "Fri, 16 Oct 2026 03:37:35 -0400",
      "summary": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
      "source": "BleepingComputer",
-     "zh": "BAE Systems 网络攻击扰乱美国联邦法院运作"
+     "zh": "BAE Systems cyberattack disrupts US federal court operations"
     },
     {
      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
@@ -1710,7 +1734,7 @@
      "pubDate": "Fri, 16 Oct 2026 12:25:55 +0530",
      "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of",
      "source": "The Hacker News",
-     "zh": "与中国有关的黑客利用 BeyondTrust 零日漏洞接管远程支持服务器"
+     "zh": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers"
     },
     {
      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -1726,7 +1750,7 @@
      "pubDate": "Tue, 13 Oct 2026 23:24:53 +0000",
      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
      "source": "Krebs on Security",
-     "zh": "Microsoft 修补了 1,400 多个安全漏洞"
+     "zh": "Microsoft Patches More Than 1,400 Security Flaws"
     },
     {
      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
@@ -1734,7 +1758,7 @@
      "pubDate": "Sat, 10 Oct 2026 00:17:42 +0000",
      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec",
      "source": "Krebs on Security",
-     "zh": "FBI 逮捕勒索软件谈判公司高管"
+     "zh": "FBI Arrests Executive at Ransomware Negotiation Firm"
     }
    ]
   },
@@ -1744,6 +1768,22 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "易速马 S05 Pro 手柄预售：TMR 摇杆，标配充电底座，到手价 219 元",
+     "link": "https://www.ithome.com/1/014/202.htm",
+     "pubDate": "Fri, 16 Oct 2026 23:37:57 GMT",
+     "summary": "IT之家 10 月 17 日消息，易速马 (EasySMX) 现已启动赤兔 S05 Pro 手柄的预售。这一控制器 面向任天堂 Nintendo Switch 1/2 平台 ，支持三模连接，搭载 TMR 摇杆，标配智能启停充电底座，到手价 219 元。 S05 Pro 配备两段式霍尔效应传感器扳机、静音导电硅胶 ABXY、M1&amp;M2 自定义小肩键，集成四马达双区震动、六轴陀螺仪，可一键唤醒两代 Nintendo Switch 游戏主机，支持 amiibo NFC 识别，集成 RGB 灯带。 该手柄本体三维 160×110×80 (mm)，内置 1000mAh 电池，本体质量 262g，",
+     "source": "IT之家",
+     "zh": "易速马 S05 Pro 手柄预售：TMR 摇杆，标配充电底座，到手价 219 元"
+    },
+    {
+     "title": "零跑改造 43 年欧宝工厂造电车，首台欧洲制造零跑 B10 正式下线",
+     "link": "https://www.ithome.com/1/014/201.htm",
+     "pubDate": "Fri, 16 Oct 2026 23:34:19 GMT",
+     "summary": "IT之家 10 月 17 日消息，零跑汽车宣布，10 月 16 日，零跑西班牙马连（Mallén）电池工厂正式投产，零跑西班牙萨拉戈萨工厂 首台欧洲制造零跑 B10 正式下线 ，官方称之为“零跑改造 43 年欧宝工厂造电车”。 IT之家获悉，萨拉戈萨工厂拥有 43 年的汽车制造历史，累计生产汽车超过 1000 万辆，具备深厚的工业积淀与成熟的制造基础。目前，零跑 B10 正式加入该工厂的生产体系，与欧宝 Corsa、标致 208 和蓝旗亚 Ypsilon 共同生产。 为适应 B10 的生产需求，零跑与 Stellantis 集团工程团队共同推进产线适配，在西班牙马连打造本地化电池组装基地。 据",
+     "source": "IT之家",
+     "zh": "零跑改造 43 年欧宝工厂造电车，首台欧洲制造零跑 B10 正式下线"
+    },
     {
      "title": "英监管机构拟认定微软商业软件“垄断地位”，或干预旗下产品捆绑销售",
      "link": "https://www.ithome.com/1/014/200.htm",
@@ -1777,22 +1817,6 @@
      "zh": "维信诺官宣与荣耀全球首发 2K 185Hz 电竞屏，WIN2 系列手机全系搭载"
     },
     {
-     "title": "交货期排到明年，苹果称 iPhone Duo 市场需求异常旺盛",
-     "link": "https://www.ithome.com/1/014/196.htm",
-     "pubDate": "Fri, 16 Oct 2026 23:17:14 GMT",
-     "summary": "IT之家 10 月 17 日消息，北京时间今天（17 日）凌晨，据英国《金融时报》报道，苹果表示，旗下首款折叠屏手机 iPhone Duo 的市场 需求异常旺盛 。开售仅数小时，苹果官网年内可交付的货源便被抢购一空，交货期延至明年。 目前，苹果官网仍接受 iPhone Duo 订单。报道提到，在系列问世近 20 年后，iPhone 仍是苹果最畅销的产品，贡献了约一半的营收。 苹果今年与其他消费电子厂商一样，深受零部件短缺困扰，存储芯片尤为紧缺。不仅令苹果供货跟不上需求，还迫使公司上调全线产品售价。 苹果原本承诺最迟在 10 月 23 日交付 iPhone Duo，但开放订购仅数小时，官网预计交",
-     "source": "IT之家",
-     "zh": "交货期排到明年，苹果称 iPhone Duo 市场需求异常旺盛"
-    },
-    {
-     "title": "Anthropic 报告：AI 工时已是人类 6 倍，初级程序员岗位骤减，人均雇员创收是 Meta / 谷歌同期的 2 至 4 倍",
-     "link": "https://www.ithome.com/1/014/195.htm",
-     "pubDate": "Fri, 16 Oct 2026 23:13:28 GMT",
-     "summary": "IT之家 10 月 17 日消息，人工智能公司 Anthropic 昨日（10 月 16 日）发布报告称，在公司成立约 5 年后， 其人均雇员创收已达 Meta Platforms 和谷歌在各自高速增长期的 2 至 4 倍。 这一数据基于 Anthropic 截至 2026 年 4 月的内部财务与员工规模记录，并与 Meta、谷歌成立五年时的公开财报数据进行通胀调整后比较。 报告显示，Anthropic 技术部门初级员工占比已从 2025 年初的 21% 降至 14%，初级技术岗位招聘占比更从 27% 骤降至 9%。约三分之一的机器学习经理和五分之一的软件工程经理表示，因 AI 出现而减少了招",
-     "source": "IT之家",
-     "zh": "Anthropic 报告：AI 工时已是人类 6 倍，初级程序员岗位骤减，人均雇员创收是 Meta / 谷歌同期的 2 至 4 倍"
-    },
-    {
      "title": "该撕下Anthropic“2万亿预期估值”的面具了",
      "link": "https://www.huxiu.com/article/4898196.html?f=rss",
      "pubDate": "Sat, 17 Oct 2026 07:00:03 +0800",
@@ -1806,7 +1830,7 @@
      "pubDate": "Fri, 16 Oct 2026 19:00:01 -0400",
      "summary": "Owen Dahlkamp / Politico : Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release &nbsp; &mdash;&nbsp; Representatives for the artificial intelligence giant Anthropic have quietly pitched Capitol",
      "source": "Techmeme",
-     "zh": "资料来源：Anthropic 向美国立法者提出了自己的人工智能安全法案；该法案将限制政府阻止模型发布的情况（Owen Dahlkamp/Politico）"
+     "zh": "Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model&apos;s release (Owen Dahlkamp/Politico)"
     },
     {
      "title": "CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying \"ChatGPT is better now\"; source: the partnership is still in place (TechCrunch)",
@@ -1814,7 +1838,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:45:01 -0400",
      "summary": "TechCrunch : CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying &ldquo;ChatGPT is better now&rdquo;; source: the partnership is still in place &nbsp; &mdash;&nbsp; Replit, the AI coding platform that has become a favorite of startup founders and developers, is no",
      "source": "Techmeme",
-     "zh": "首席执行官 Amjad Masad 表示 Replit 不再与 Anthropic 合作，理由是成本，并表示“ChatGPT 现在更好了”；来源：合作关系仍然存在（TechCrunch）"
+     "zh": "CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying \"ChatGPT is better now\"; source: the partnership is still in place (TechCrunch)"
     },
     {
      "title": "Sources: Apple has hired Scott Tucker, Meta VP and deputy general counsel, as its new litigation chief, as part of a shakeup in its legal team (Mark Gurman/Bloomberg)",
@@ -1822,7 +1846,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:10:01 -0400",
      "summary": "Mark Gurman / Bloomberg : Sources: Apple has hired Scott Tucker, Meta VP and deputy general counsel, as its new litigation chief, as part of a shakeup in its legal team &nbsp; &mdash;&nbsp; Apple Inc. has tapped a longtime Meta Platforms Inc. executive as its new litigation chief, bolstering its leg",
      "source": "Techmeme",
-     "zh": "资料来源：苹果公司已聘请 Meta 副总裁兼副总法律顾问斯科特·塔克 (Scott Tucker) 担任新的诉讼主管，作为其法律团队改组的一部分（Mark Gurman/彭博社）"
+     "zh": "Sources: Apple has hired Scott Tucker, Meta VP and deputy general counsel, as its new litigation chief, as part of a shakeup in its legal team (Mark Gurman/Bloomberg)"
     },
     {
      "title": "Apple says demand for iPhone Duo has been \"nothing short of extraordinary\"; deliveries slipped to late January within hours of preorders opening (Michael Acton/Financial Times)",
@@ -1838,7 +1862,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:35:00 -0400",
      "summary": "Theodore Schleifer / New York Times : Filings: Meta reduced its $65M midterms budget by $25M through refunds, primarily from a super PAC it launched in 2025 with $45M to fight state AI bills &nbsp; &mdash;&nbsp; The company outlined a $65 million budget last year when it embarked on an effort to ele",
      "source": "Techmeme",
-     "zh": "文件：Meta 通过退款将其 6500 万美元的中期预算减少了 2500 万美元，主要来自于 2025 年推出的超级 PAC，其中 4500 万美元用于对抗国家人工智能法案（Theodore Schleifer/纽约时报）"
+     "zh": "Filings: Meta reduced its $65M midterms budget by $25M through refunds, primarily from a super PAC it launched in 2025 with $45M to fight state AI bills (Theodore Schleifer/New York Times)"
     },
     {
      "title": "The Leap Second Is No More",
@@ -1846,23 +1870,23 @@
      "pubDate": "Fri, 16 Oct 2026 21:31:35 +0000",
      "summary": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.",
      "source": "WIRED",
-     "zh": "闰秒已不复存在"
+     "zh": "The Leap Second Is No More"
     },
     {
      "title": "Why harnesses matter for energy (and token) efficiency",
      "link": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
      "pubDate": "Fri, 16 Oct 2026 21:01:23 +0000",
-     "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 22 # Comments: 9",
+     "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 24 # Comments: 10",
      "source": "Hacker News",
-     "zh": "为什么要利用物质来提高能源（和代币）效率"
+     "zh": "Why harnesses matter for energy (and token) efficiency"
     },
     {
      "title": "I never authorized an integration that scans my secrets",
      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
      "pubDate": "Fri, 16 Oct 2026 20:33:41 +0000",
-     "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 146 # Comments: 95",
+     "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 154 # Comments: 102",
      "source": "Hacker News",
-     "zh": "我从未授权扫描我的秘密的集成"
+     "zh": "I never authorized an integration that scans my secrets"
     },
     {
      "title": "Anthropic says Claude traced NIST&apos;s ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm (Anthropic)",
@@ -1870,7 +1894,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:25:02 -0400",
      "summary": "Anthropic : Anthropic says Claude traced NIST's ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm &nbsp; &mdash;&nbsp; &ldquo;It's just timestamps&rdquo;: the decades-old mystery of the origins of one of the most popular cryp",
      "source": "Techmeme",
-     "zh": "Anthropic 表示，Claude 将 NIST 的 ECDSA 曲线种子追溯到伪随机数生成器，挑战了数十年来对该算法中 NSA 后门的怀疑 (Anthropic)"
+     "zh": "Anthropic says Claude traced NIST&apos;s ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm (Anthropic)"
     },
     {
      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
@@ -1878,7 +1902,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:20:07 +0000",
      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
      "source": "Ars Technica",
-     "zh": "警方称，制作 AI CSAM 的“thegentlemanpervert”是新泽西州检察官"
+     "zh": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops"
     },
     {
      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
@@ -1886,15 +1910,15 @@
      "pubDate": "Fri, 16 Oct 2026 20:05:08 +0000",
      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
      "source": "WIRED",
-     "zh": "凯蒂·扎卡里亚 (Katie Zacharia) 与一家人工智能稀土初创公司有联系。这比听起来更奇怪"
+     "zh": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds"
     },
     {
      "title": "FLUX 3 Image Klein",
      "link": "https://bfl.ai/blog/flux-3-image-klein",
      "pubDate": "Fri, 16 Oct 2026 19:47:13 +0000",
-     "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 84 # Comments: 16",
+     "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 84 # Comments: 17",
      "source": "Hacker News",
-     "zh": "FLUX 3 图像克莱因"
+     "zh": "FLUX 3 Image Klein"
     },
     {
      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
@@ -1902,7 +1926,7 @@
      "pubDate": "Fri, 16 Oct 2026 19:41:18 +0000",
      "summary": "There are still significant hurdles ahead, both technical and legislative.",
      "source": "Ars Technica",
-     "zh": "美国众议员提出法案，给予视频游戏买家“所有权”，而不是“许可”"
+     "zh": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\""
     },
     {
      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
@@ -1910,31 +1934,31 @@
      "pubDate": "Fri, 16 Oct 2026 19:11:50 +0000",
      "summary": "The bug is fixed, but privacy concerns remain.",
      "source": "Ars Technica",
-     "zh": "Bug 将雷朋 Meta 智能眼镜最大的担忧之一变成了现实"
+     "zh": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality"
     },
     {
      "title": "How the Claude Code team does code review",
      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
      "pubDate": "Fri, 16 Oct 2026 19:04:47 +0000",
-     "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 188 # Comments: 178",
+     "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 192 # Comments: 182",
      "source": "Hacker News",
-     "zh": "Claude Code 团队如何进行代码审查"
+     "zh": "How the Claude Code team does code review"
     },
     {
      "title": "You could have invented transformers from memory",
      "link": "https://alexwang.ai/posts/associative-memory/",
      "pubDate": "Fri, 16 Oct 2026 19:01:17 +0000",
-     "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 89 # Comments: 23",
+     "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 94 # Comments: 23",
      "source": "Hacker News",
-     "zh": "你本可以凭记忆发明变形金刚"
+     "zh": "You could have invented transformers from memory"
     },
     {
      "title": "Claude reveals ECDSA curve origins",
      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
      "pubDate": "Fri, 16 Oct 2026 18:55:59 +0000",
-     "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 564 # Comments: 239",
+     "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 579 # Comments: 246",
      "source": "Hacker News",
-     "zh": "Claude 揭示 ECDSA 曲线起源"
+     "zh": "Claude reveals ECDSA curve origins"
     },
     {
      "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
@@ -1942,7 +1966,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:21:54 +0000",
      "summary": "Despite Illinois’ sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment–protected activities.",
      "source": "WIRED",
-     "zh": "芝加哥地区警察帮助 HSI 监视明尼苏达州反 ICE 活动人士"
+     "zh": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists"
     },
     {
      "title": "2026.42: Home At Last",
@@ -1950,7 +1974,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:42:42 +0000",
      "summary": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
      "source": "Stratechery",
-     "zh": "2026.42：终于回家了"
+     "zh": "2026.42: Home At Last"
     },
     {
      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
@@ -1958,7 +1982,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:05:59 +0000",
      "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
      "source": "Ars Technica",
-     "zh": "报告称，RFK Jr. 建议 FDA 对未经证实的肽采取另一种态度"
+     "zh": "RFK Jr. proposes FDA look the other way on unproven peptides, report says"
     },
     {
      "title": "英国中年男性自杀率达到历史最高水平",
@@ -1974,7 +1998,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:30:12 +0000",
      "summary": "It turns out the Roadster 2 both sucks and blows.",
      "source": "WIRED",
-     "zh": "特斯拉究竟是如何让其时速 230 英里的新型汽车“飞”起来的"
+     "zh": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’"
     },
     {
      "title": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
@@ -1998,7 +2022,7 @@
      "pubDate": "Fri, 16 Oct 2026 22:53:24 +0000",
      "summary": "Bloomberg reports that Apple has hired Scott Tucker, who spent nearly six years as Meta’s vice president and deputy general counsel for global litigation. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "苹果挖走 Meta 资深高管，负责领导全球诉讼"
+     "zh": "Apple poaches longtime Meta executive to lead global litigation"
     },
     {
      "title": "Apple’s new App Store rules crack down on AI nudification and ‘bait-and-switch’ apps",
@@ -2006,7 +2030,7 @@
      "pubDate": "Fri, 16 Oct 2026 22:17:07 +0000",
      "summary": "Apple updated its App Review Guidelines today with a series of changes meant to strengthen protections against harmful content and deceptive app review practices. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "苹果新的应用程序商店规则严厉打击人工智能裸露和“诱饵和转换”应用程序"
+     "zh": "Apple’s new App Store rules crack down on AI nudification and ‘bait-and-switch’ apps"
     },
     {
      "title": "9to5Mac Daily: October 16, 2026 – iPhone Duo pre-orders, more",
@@ -2014,7 +2038,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:56:25 +0000",
      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co",
      "source": "9to5Mac",
-     "zh": "9to5Mac Daily：2026 年 10 月 16 日 – iPhone Duo 预购等"
+     "zh": "9to5Mac Daily: October 16, 2026 – iPhone Duo pre-orders, more"
     },
     {
      "title": "Amazon drops the Razer Kraken V4 X to its lowest price in months",
@@ -2022,7 +2046,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:51:38 +0000",
      "summary": "Razer Kraken V4 X drops to $54.39 on Amazon with USB-C, USB-A support, 40mm drivers, and a 4.5-star Amazon rating.",
      "source": "Android Authority",
-     "zh": "亚马逊将 Razer Kraken V4 X 降价至数月来最低价"
+     "zh": "Amazon drops the Razer Kraken V4 X to its lowest price in months"
     },
     {
      "title": "Nest doorbells get their spooky chimes back just in time for Halloween",
@@ -2030,7 +2054,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:40:11 +0000",
      "summary": "You have nine options to choose from.",
      "source": "Android Authority",
-     "zh": "Nest 门铃在万圣节前夕响起了诡异的铃声"
+     "zh": "Nest doorbells get their spooky chimes back just in time for Halloween"
     },
     {
      "title": "AI has graduated from hacking companies to stealing from crypto wallets",
@@ -2038,7 +2062,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:37:43 +0000",
      "summary": "Honestly, it was probably only a matter of time.",
      "source": "Android Authority",
-     "zh": "人工智能已经从黑客公司发展到从加密钱包窃取"
+     "zh": "AI has graduated from hacking companies to stealing from crypto wallets"
     },
     {
      "title": "Apple calls iPhone Duo pre-order demand ‘extraordinary’ as shipping dates slip",
@@ -2046,7 +2070,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:33:28 +0000",
      "summary": "Apple has issued a short statement following strong initial demand for the iPhone Duo, with shipping estimates already slipping into next year. Here’s what the company said. more…",
      "source": "9to5Mac",
-     "zh": "苹果称 iPhone Duo 预购需求因发货日期推迟而“异常”"
+     "zh": "Apple calls iPhone Duo pre-order demand ‘extraordinary’ as shipping dates slip"
     },
     {
      "title": "Moto G47 Power is coming with a much larger battery than the G47",
@@ -2062,7 +2086,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:09:03 +0000",
      "summary": "Finally resolving some of those QPR1 headaches.",
      "source": "Android Authority",
-     "zh": "Android 17 QPR2 Beta 7.1 提供了您一直在等待的性能修复"
+     "zh": "Android 17 QPR2 Beta 7.1 has the performance fix you’ve been waiting for"
     },
     {
      "title": "Report: Apple gains ground on rivals, but iPhone 18 Pro and iPhone Duo face challenges",
@@ -2070,7 +2094,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:06:13 +0000",
      "summary": "In a new investor note sent out this week, GF Securities’ Jeff Pu and Henry Huang project that Apple will be the only major smartphone manufacturer to grow shipments in 2026, even as the global market is expected to shrink by more than 14%. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "报告：苹果在竞争对手中取得进展，但 iPhone 18 Pro 和 iPhone Duo 面临挑战"
+     "zh": "Report: Apple gains ground on rivals, but iPhone 18 Pro and iPhone Duo face challenges"
     },
     {
      "title": "Save $800 on the Valerion StreamMaster Plus 2 projector",
@@ -2078,7 +2102,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:00:37 +0000",
      "summary": "Valerion StreamMaster Plus 2 drops to $1,199 on Amazon, matching its all-time low with triple-laser 4K and Google TV.",
      "source": "Android Authority",
-     "zh": "购买 Valerion StreamMaster Plus 2 投影仪可节省 800 美元"
+     "zh": "Save $800 on the Valerion StreamMaster Plus 2 projector"
     },
     {
      "title": "Pixelated 121: Is Googlebook the first real post-smartphone PC?",
@@ -2086,7 +2110,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:00:00 +0000",
      "summary": "Welcome to Pixelated episode 121. This week, Abner, Damien, and Will dive deep into Google’s new laptop platform, Googlebook. From hardware impressions across review units to making sense of the earliest days of desktop Android, there’s a ton of ground to cover. What sort of future awaits Googlebook",
      "source": "9to5Google",
-     "zh": "Pixelated 121：Googlebook 是第一台真正的后智能手机 PC 吗？"
+     "zh": "Pixelated 121: Is Googlebook the first real post-smartphone PC?"
     },
     {
      "title": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
@@ -2094,7 +2118,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:50:28 +0000",
      "summary": "Thrusters are as good at flipping cars as they are at hunting ballistic missiles.",
      "source": "Engadget",
-     "zh": "“飞行”特斯拉跑车听起来不可能，除非你看到洛克希德·马丁公司几十年前制造的东西"
+     "zh": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago"
     },
     {
      "title": "This watchmaker has reportedly exited the smartwatch market",
@@ -2102,7 +2126,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:46:42 +0000",
      "summary": "The Connected Calibre E5 looks to be the brand’s last.",
      "source": "Android Authority",
-     "zh": "据报道，这家制表商已退出智能手表市场"
+     "zh": "This watchmaker has reportedly exited the smartwatch market"
     },
     {
      "title": "9to5Mac Overtime 086: Apple’s smart home reboot",
@@ -2110,7 +2134,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:32:53 +0000",
      "summary": "Jeff and Fernando discuss Apple’s smart home reboot, including the new $299 Apple HomeView, HomePod mini 2, Apple TV 4K, and Apple Home Collection lineup. Sponsored by Rokform : Get your iPhone 18 Pro and iPhone Duo cases today for 20% off when using code MAC2026. more…",
      "source": "9to5Mac",
-     "zh": "9to5Mac 加时赛 086：苹果智能家居重启"
+     "zh": "9to5Mac Overtime 086: Apple’s smart home reboot"
     },
     {
      "title": "Android 17 QPR2 Beta 7.1 rolling out for Pixel",
@@ -2118,7 +2142,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:25:06 +0000",
      "summary": "Google is rolling out Android 17 QPR2 Beta 7.1 today a week after the last preview for Pixel devices, which did not feature major user-facing changes. more…",
      "source": "9to5Google",
-     "zh": "Android 17 QPR2 Beta 7.1 面向 Pixel 推出"
+     "zh": "Android 17 QPR2 Beta 7.1 rolling out for Pixel"
     },
     {
      "title": "High camera prices aren’t proof that camera makers are greedy",
@@ -2126,7 +2150,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:17:09 +0000",
      "summary": "Camera companies' appetite for profit hasn’t changed, but their costs have, and that’s what you’re seeing on the price tag.",
      "source": "DPReview",
-     "zh": "高相机价格并不能证明相机制造商贪婪"
+     "zh": "High camera prices aren’t proof that camera makers are greedy"
     },
     {
      "title": "If you haven't pre-ordered an iPhone Duo yet, you're in for a long, long wait",
@@ -2134,7 +2158,7 @@
      "pubDate": "Fri, 16 Oct 2026 22:02:02 +0200",
      "summary": "The Apple iPhone Duo is available for pre-order starting today – or rather we should say that it was available. The very limited supply became painfully apparent when mere hours after launching, Apple’s online store was already showing a shipping date of January 22. The original plan was for the iPh",
      "source": "GSMArena",
-     "zh": "如果您还没有预订 iPhone Duo，那么您将要等待很长一段时间"
+     "zh": "If you haven't pre-ordered an iPhone Duo yet, you're in for a long, long wait"
     },
     {
      "title": "Google’s Universal Cart puts a shopping cart everywhere, including Search homepage, Chrome",
@@ -2142,7 +2166,7 @@
      "pubDate": "Fri, 16 Oct 2026 19:47:01 +0000",
      "summary": "Yesterday, Google started rolling out its Universal Cart, and the company is very prominently placing it in Search, AI Mode, Chrome, and the Gemini app. more…",
      "source": "9to5Google",
-     "zh": "谷歌的通用购物车将购物车放在任何地方，包括搜索主页、Chrome"
+     "zh": "Google’s Universal Cart puts a shopping cart everywhere, including Search homepage, Chrome"
     },
     {
      "title": "Friday’s Android app deals and freebies: Majesty, Boxville 2, Dungeon Defense, Mythic Trials 2, more",
@@ -2150,7 +2174,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:57:23 +0000",
      "summary": "Friday’s best Google Play app and game deals are ready, including Majesty: The Fantasy Kingdom, Majesty－The Northern Expansion, Boxville 2, Dungeon Defense, Mythic Trials 2, Tempest: Pirate RPG Premium, The Tiny Bang Story: Premium, MiniChess by Kasparov, and more. Just be sure to dive into Nothing’",
      "source": "9to5Google",
-     "zh": "周五的 Android 应用优惠和赠品：Majesty、Boxville 2、Dungeon Defense、Mythic Trials 2 等"
+     "zh": "Friday’s Android app deals and freebies: Majesty, Boxville 2, Dungeon Defense, Mythic Trials 2, more"
     },
     {
      "title": "Samsung Galaxy S27+ might miss out on UWB",
@@ -2158,7 +2182,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:31:02 +0200",
      "summary": "According to new MIIT (Ministry of Industry and Information Technology) listings in China, the Samsung Galaxy S27+ will miss out on a connectivity feature that has been around since the days of the Galaxy S21+, and that's UWB. The Galaxy S27 series is expected to include 4 phones: Galaxy S27, S27+, ",
      "source": "GSMArena",
-     "zh": "三星 Galaxy S27+ 可能会错过 UWB"
+     "zh": "Samsung Galaxy S27+ might miss out on UWB"
     },
     {
      "title": "ChatGPT gets deeper Google Chrome integration including control over tabs",
@@ -2166,7 +2190,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:50:00 +0000",
      "summary": "OpenAI this week announced deeper integration between ChatGPT and Google Chrome, including the ability to hand control over your tabs to the AI assistant. more…",
      "source": "9to5Google",
-     "zh": "ChatGPT 获得更深入的 Google Chrome 集成，包括对选项卡的控制"
+     "zh": "ChatGPT gets deeper Google Chrome integration including control over tabs"
     },
     {
      "title": "Galaxy S26 Ultra is one of the ‘best inventions of 2026’ thanks to its Privacy Display",
@@ -2174,7 +2198,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:42:53 +0000",
      "summary": "A new 2026 roundup has the Galaxy S26 Ultra included in a list of best inventions for the year, all thanks to what it doesn’t display. more…",
      "source": "9to5Google",
-     "zh": "Galaxy S26 Ultra 因其隐私显示屏而被评为“2026 年最佳发明”之一"
+     "zh": "Galaxy S26 Ultra is one of the ‘best inventions of 2026’ thanks to its Privacy Display"
     },
     {
      "title": "Analogue returns to the 16-bit era with the Mega Sg+ and Super Nt+",
@@ -2182,7 +2206,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:03:29 +0000",
      "summary": "Dust off your old Sega Genesis and Super Nintendo cartridges.",
      "source": "Engadget",
-     "zh": "模拟通过 Mega Sg+ 和 Super Nt+ 重返 16 位时代"
+     "zh": "Analogue returns to the 16-bit era with the Mega Sg+ and Super Nt+"
     },
     {
      "title": "Apple's own website now hints at a new iPad mini",
@@ -2190,7 +2214,7 @@
      "pubDate": "Fri, 16 Oct 2026 19:01:02 +0200",
      "summary": "We already know when Apple will show off its touchscreen MacBooks and the OLED iPad mini thanks to a leak from yesterday, and now the company itself seems to have confirmed the tablet is coming. A new Smart Folio for the iPad mini with the model number A3632 has shown up on Apple's French regulatory",
      "source": "GSMArena",
-     "zh": "苹果自己的网站现在暗示将推出新的 iPad mini"
+     "zh": "Apple's own website now hints at a new iPad mini"
     },
     {
      "title": "If memory shortages last, tech companies should offer cheap battery replacements",
@@ -2206,7 +2230,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:51:02 +0200",
      "summary": "The Exynos 2700 reportedly beat the Snapdragon 8 Elite Extreme Gen 6 in internal benchmarks, outscoring it in multi-core Geekbench by around 10%. However, it may have another advantage – running cooler. In a flashback to the Snapdragon 8 Gen 1, the new Elite Extreme Gen 6 runs too hot for Samsung’s ",
      "source": "GSMArena",
-     "zh": "Galaxy S27 Ultra 在 Snapdragon 8 EE Gen 6 上遇到问题，Exynos 2700 可能会回归"
+     "zh": "The Galaxy S27 Ultra runs into issues with the Snapdragon 8 EE Gen 6, Exynos 2700 may return"
     },
     {
      "title": "OnePlus Ace 7 and Ace 7 Pro could both get 200MP main cameras",
@@ -2214,7 +2238,7 @@
      "pubDate": "Fri, 16 Oct 2026 16:46:02 +0200",
      "summary": "We’ve been hearing a lot about the OnePlus Ace 7 series over the past few days. Both the Ace 7 and Ace 7 Pro were recently also spotted on Google’s Supported Devices list. Now, a tipster has revealed key camera details about the upcoming phones. According to tipster Digital Chat Station, both the On",
      "source": "GSMArena",
-     "zh": "OnePlus Ace 7 和 Ace 7 Pro 都可能配备 200MP 主摄像头"
+     "zh": "OnePlus Ace 7 and Ace 7 Pro could both get 200MP main cameras"
     },
     {
      "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
@@ -2222,7 +2246,7 @@
      "pubDate": "Fri, 16 Oct 2026 14:12:29 +0000",
      "summary": "You can see the locations of known outdoor surveillance cameras in the MapQuest app.",
      "source": "Engadget",
-     "zh": "MapQuest 现在将向您显示 Flock 摄像头在您附近的位置"
+     "zh": "MapQuest will now show you where Flock cameras are in your neighborhood"
     },
     {
      "title": "Technics EAH-A1000 review: Superior sound and excellent ANC in a premium package",
@@ -2230,7 +2254,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:00:00 +0000",
      "summary": "Technics' flagship over-ear wireless headphones are light on compromises, but enter a competitive market.",
      "source": "Engadget",
-     "zh": "Technics EAH-A1000 评测：优质套装中的卓越音质和卓越 ANC"
+     "zh": "Technics EAH-A1000 review: Superior sound and excellent ANC in a premium package"
     }
    ]
   },
@@ -2240,6 +2264,30 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "创新新材：融资净买入47.99万元，融资余额7872.61万元",
+     "link": "http://stock.eastmoney.com/news/1697,202610173898861784.html",
+     "pubDate": "Sat, 17 Oct 2026 07:38:49 +0800",
+     "summary": "交易所最新数据显示， 创新新材 于2026年10月16日获融资买入616.11万元，融资偿还568.13万元， 当日融资净买入47.99万元。 目前，该股融资余额7872.61万，占流通市值比例为0.62%。 该股当日融券卖出2.47万股，融券偿还4700股， 融券净卖出2万股。 目前，该股融券余量36.42万股，融券余额123.46万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或",
+     "source": "东方财富股票",
+     "zh": "创新新材：融资净买入47.99万元，融资余额7872.61万元"
+    },
+    {
+     "title": "金枫酒业：融资净偿还163.33万元，融资余额1.39亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610173898860524.html",
+     "pubDate": "Sat, 17 Oct 2026 07:38:35 +0800",
+     "summary": "交易所最新数据显示，金枫酒业于2026年10月16日获融资买入480.89万元，融资偿还644.22万元， 当日融资净偿还163.33万元。 目前，该股融资余额1.39亿，占流通市值比例为4.61%。 该股当日无融券交易。目前，该股融券余量1.69万股，融券余额7.61万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不",
+     "source": "东方财富股票",
+     "zh": "金枫酒业：融资净偿还163.33万元，融资余额1.39亿元"
+    },
+    {
+     "title": "中金黄金：融资净偿还2820.27万元，融资余额28.04亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610173898858550.html",
+     "pubDate": "Sat, 17 Oct 2026 07:38:18 +0800",
+     "summary": "交易所最新数据显示，中金黄金于2026年10月16日获融资买入1.34亿元，融资偿还1.62亿元， 当日融资净偿还2820.27万元。 目前，该股融资余额28.04亿，占流通市值比例为2.71%。 该股当日融券卖出4.65万股，融券偿还5.41万股， 融券净偿还7600股。 目前，该股融券余量66.22万股，融券余额1411.81万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的",
+     "source": "东方财富股票",
+     "zh": "中金黄金：融资净偿还2820.27万元，融资余额28.04亿元"
+    },
     {
      "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
      "link": "https://wallstreetcn.com/articles/3783778",
@@ -2255,54 +2303,6 @@
      "summary": "美国股市周五全线下跌，投资者对人工智能相关企业能否及时产生足够利润以偿付高企债务的忧虑持续发酵，科技板块首当其冲。纳斯达克综合指数本周累计下挫约4.5%，创下自6月26日当周以来最大单周跌幅。 市场对AI基础设施企业债务风险的担忧持续升温，CoreWeave部分债券收益率周四一度突破15%，周五仍然维持高位。CoreWeave股价周五再度重挫12%，较年内高点已累计下跌逾50%。 与此同时，美联储主席沃什在曼谷国际货币基金组织活动上拒绝就10月利率会议前景提供任何指引，令市场缺乏政策方向支撑，长端美债收益率随油价上涨及通胀顾虑进一步走高，10年期国债收益率升至5.097%。 半导体及科技股的抛",
      "source": "华尔街见闻",
      "zh": "信贷恐慌击穿AI交易：CoreWeave债券收益率维持高位，纳指创6月底来最大单周跌幅"
-    },
-    {
-     "title": "鲁比奥与多米尼加外长讨论深化安全合作",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898827352.html",
-     "pubDate": "Sat, 17 Oct 2026 07:18:19 +0800",
-     "summary": "美国：鲁比奥和多米尼加共和国外长讨论了深化安全合作。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "鲁比奥与多米尼加外长讨论深化安全合作"
-    },
-    {
-     "title": "社保基金首次现身北交所新股战配 多股突破10%配售惯例",
-     "link": "http://finance.eastmoney.com/news/1354,202610173898784160.html",
-     "pubDate": "Sat, 17 Oct 2026 07:17:09 +0800",
-     "summary": "10月16日，贵州本土乳企龙头南方 乳业 正式上市，成为北交所第251家上市公司。相比股价的亮眼表现，本次发行更引人注目的看点落在战略配售名单上：战配比例高达30%，其中全国社保基金两个组合首次以战略投资者身份参与北交所新股配售。 事实上，北交所新股长期存在10%配售比例的“隐形惯性”，直到今年下半年 双英集团 、 信胜科技 、南方 乳业 接连启用30%配售比例，战配从过去券商跟投兜底模式，转向长线资本、产业资本深度参与的新格局。 南方 乳业 上市首日涨58.76% 上市首日，南方乳业开盘即大涨104.08%，盘中最高涨幅一度触及111.05%，最终收报22.56元，全天上涨58.76%，成交",
-     "source": "东方财富股票",
-     "zh": "社保基金首次现身北交所新股战配 多股突破10%配售惯例"
-    },
-    {
-     "title": "“双11”大战提前启幕 头部电商借AI开辟竞争新维度",
-     "link": "http://finance.eastmoney.com/news/1354,202610173898784220.html",
-     "pubDate": "Sat, 17 Oct 2026 07:16:13 +0800",
-     "summary": "2026年“双11”大促拉开帷幕，天猫、 京东 于10月15日举办大促发布会，抖音同日官宣启动，头部平台同台竞逐。面对存量市场竞争，平台一改往年繁复的玩法，将大促提前、简化活动规则，争夺用户注意力与商家资源。 不同于以往主要依靠价格补贴拉动增长，本届“双11”的显著变化是，AI成为重要抓手，AI工具、电商智能体覆盖了商家经营全链路。与此同时，一键出海工具、海外仓履约体系与跨境 AI应用 持续降低跨境运营门槛，出海业务有望成为本届大促新亮点。 业内人士表示，一键出海大幅降低商家出海门槛，海外仓破解跨境 物流 时效、售后体验痛点，跨境 AI智能体 补齐询盘、报关、合规风控等短板。整体来看，电商出海",
-     "source": "东方财富股票",
-     "zh": "“双11”大战提前启幕 头部电商借AI开辟竞争新维度"
-    },
-    {
-     "title": "机构扎堆调研三季报预喜企业 源杰科技获284家机构关注",
-     "link": "http://finance.eastmoney.com/news/1354,202610173898784346.html",
-     "pubDate": "Sat, 17 Oct 2026 07:15:15 +0800",
-     "summary": "本周（10月12日—16日）共有227家A股上市公司接受机构投资者调研。从赚钱效应看，受大盘表现影响，周内实现正收益的机构调研股仅有一成，其中 尖峰集团 实现2连板，周内涨17.99%； 威派格 涨8.32%； 中船科技 、 中马传动 、 京沪高铁 等3家公司涨超6%。 热门调研标的方面， 源杰科技 、 广合科技 等业绩预喜企业本周接受百家以上机构调研， 豪鹏科技 接受50家以上机构调研， 雷赛智能 、 粤海饲料 、 新宙邦 、 聚灿光电 、 鸿富诚 接受30家以上机构调研。 源杰科技 ：未来两年 客户需求能见度很高 源杰科技 是本周机构扎堆调研的“香饽饽”，周内共284家机构参与其线上调研。",
-     "source": "东方财富股票",
-     "zh": "机构扎堆调研三季报预喜企业 源杰科技获284家机构关注"
-    },
-    {
-     "title": "亨通光电前三季度净利预增逾1.5倍",
-     "link": "http://finance.eastmoney.com/news/1354,202610173898784751.html",
-     "pubDate": "Sat, 17 Oct 2026 07:14:22 +0800",
-     "summary": "10月16日晚间， 亨通光电 （600487）披露2026年前三季度业绩预告。 经财务部门初步测算，预计2026年前三季度实现归母净利润59.70亿元到63.70亿元，与上年同期相比，将增加35.94亿元到39.94亿元，同比增长151.27%到168.10%；扣非净利润59.40亿元到63.40亿元，同比增长153.88%到170.98%。 亨通光电 表示，报告期内，受益于 人工智能 的快速发展及 数据中心 资本开支的持续加大等因素，光 通信 市场需求增长、价格上涨，带动公司业绩增长。 此前在9月24日， 亨通光电 宣布拟定增募资66.36亿元，扣除发行费用后用于新一代光纤研发及生产项目、内",
-     "source": "东方财富股票",
-     "zh": "亨通光电前三季度净利预增逾1.5倍"
-    },
-    {
-     "title": "美国2026财年财政赤字逼近2万亿美元 利息支出首破万亿美元 债务负担恐创历史新高",
-     "link": "http://stock.eastmoney.com/news/1768,202610173898827584.html",
-     "pubDate": "Sat, 17 Oct 2026 07:14:00 +0800",
-     "summary": "美国财政部周五公布的数据显示，2026财年美国联邦政府财政赤字扩大至近2万亿美元，连续第四年维持在这一高位水平。随着美国国债收益率上升、政府债务规模持续膨胀，利息支出创下 历史新高 ，进一步加剧美国财政压力。与此同时，美国公共债务占国内生产总值(GDP)的比例预计将在未来几年突破历史纪录。 数据显示，截至9月30日的2026财年，美国联邦政府财政赤字达到1.99万亿美元，较上一财年的1.78万亿美元扩大约12%，为2021年以来最大年度财政赤字。其中，联邦政府总支出同比增长约6%，达到7.4万亿美元；财政收入则仅增长约3%，至5.4万亿美元。由于支出增速明显超过收入增速，美国财政缺口进一步扩大",
-     "source": "东方财富股票",
-     "zh": "美国2026财年财政赤字逼近2万亿美元 利息支出首破万亿美元 债务负担恐创历史新高"
     },
     {
      "title": "第九届进博会将于11月初在上海举办",
@@ -2366,7 +2366,7 @@
      "pubDate": "Fri, 16 Oct 2026 18:14:07 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "埃克森美孚预计炼油利润率上升，第三季度收益增加 $4.5B"
+     "zh": "Exxon sees higher refining margins adding $4.5B to Q3 earnings"
     },
     {
      "title": "致敬科创者丨4.36亿年前的古鱼化石藏着“从鱼到人”的演化秘密",
@@ -2382,7 +2382,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:59:00 GMT",
      "summary": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
      "source": "MarketWatch",
-     "zh": "无处可藏：科技股遭遇抛售，软件股和芯片股同样受到冲击"
+     "zh": "Nowhere to hide: Tech selloff hits software and chip stocks alike"
     },
     {
      "title": "BlackRock's Hambro slams mining firms' 'reckless' share buybacks, urges mine investment",
@@ -2390,7 +2390,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:45:42 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "贝莱德的汉布罗抨击矿业公司“鲁莽”的股票回购，敦促矿业投资"
+     "zh": "BlackRock's Hambro slams mining firms' 'reckless' share buybacks, urges mine investment"
     },
     {
      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
@@ -2414,7 +2414,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:39:13 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "由于近期获利回吐仍在继续，Okta 下跌 10%"
+     "zh": "Okta slumps 10% as recent profit-taking continues"
     },
     {
      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
@@ -2422,7 +2422,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:35:00 GMT",
      "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock.",
      "source": "MarketWatch",
-     "zh": "Anthropic IPO 会让您的 401(k) 面临风险吗？人工智能安全争论进入了一个新的层面。"
+     "zh": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension."
     },
     {
      "title": "Rocket Lab extends losing streak with another 8% retreat",
@@ -2430,7 +2430,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:30:43 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Rocket Lab再跌8%延续连败"
+     "zh": "Rocket Lab extends losing streak with another 8% retreat"
     },
     {
      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
@@ -2438,7 +2438,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:30:00 GMT",
      "summary": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
      "source": "MarketWatch",
-     "zh": "债券市场摆脱了两次通胀冲击。为什么股票投资者应该关注。"
+     "zh": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention."
     },
     {
      "title": "Katie Zacharia out as Trump&apos;s White House press secretary",
@@ -2446,7 +2446,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:26:15 GMT",
      "summary": "Zacharia was on shaky ground from her first White House press conference and over questions about her claims of being a lawyer despite not passing a bar exam.",
      "source": "CNBC",
-     "zh": "凯蒂·扎卡里亚 (Katie Zacharia) 不再担任特朗普的白宫新闻秘书"
+     "zh": "Katie Zacharia out as Trump&apos;s White House press secretary"
     },
     {
      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
@@ -2454,7 +2454,7 @@
      "pubDate": "Fri, 16 Oct 2026 21:21:00 GMT",
      "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
      "source": "MarketWatch",
-     "zh": "美国证券交易委员会的新规则将欺骗普通投资者，让华尔街发财"
+     "zh": "New SEC rules would fleece everyday investors to enrich Wall Street"
     },
     {
      "title": "Hyperscale Data plans  askROI subsidiary to go public",
@@ -2462,7 +2462,7 @@
      "pubDate": "Fri, 16 Oct 2026 17:20:43 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "超大规模数据计划要求ROI子公司上市"
+     "zh": "Hyperscale Data plans  askROI subsidiary to go public"
     },
     {
      "title": "全球市场：美股三大指数收跌 纳指跌超2% 油气、食品饮料板块逆势上涨",
@@ -2479,6 +2479,30 @@
      "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
      "source": "MarketWatch",
      "zh": "我今年 63 岁，被诊断患有淋巴瘤。我明年应该领取社会保障吗？"
+    },
+    {
+     "title": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
+     "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+     "pubDate": "Fri, 16 Oct 2026 20:42:16 GMT",
+     "summary": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
+     "source": "Financial Times",
+     "zh": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’"
+    },
+    {
+     "title": "Trump’s press secretary Katie Zacharia fired after five days",
+     "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
+     "pubDate": "Fri, 16 Oct 2026 20:14:17 GMT",
+     "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
+     "source": "Financial Times",
+     "zh": "Trump’s press secretary Katie Zacharia fired after five days"
+    },
+    {
+     "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+     "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+     "pubDate": "Fri, 16 Oct 2026 20:02:21 GMT",
+     "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
+     "source": "CNBC",
+     "zh": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries"
     }
    ]
   },
@@ -2494,7 +2518,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:54:58 +0000",
      "summary": "Archaeologists have discovered an ancient base camp in Alaska that has evidence of the oldest dwelling and possibly the earliest domesticated dogs in the Americas.",
      "source": "Live Science",
-     "zh": "考古学家在阿拉斯加一处拥有 13,800 年历史的遗址中发现了西半球最古老的住宅"
+     "zh": "Archaeologists discover the oldest dwelling in the Western Hemisphere at a 13,800-year-old site in Alaska"
     },
     {
      "title": "Physicists froze a 'necklace' of atoms — and witnessed a quantum phenomenon predicted 100 years ago",
@@ -2502,7 +2526,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:45:06 +0000",
      "summary": "Atoms confined to a single line can bind into clusters called Bethe strings. A new experiment points to a mix of many such clusters, though the evidence is still indirect.",
      "source": "Live Science",
-     "zh": "物理学家冻结了一条原子“项链”——并目睹了 100 年前预测的量子现象"
+     "zh": "Physicists froze a 'necklace' of atoms — and witnessed a quantum phenomenon predicted 100 years ago"
     },
     {
      "title": "Horned dinosaurs’ weapons evolved to handle the forces of combat",
@@ -2526,7 +2550,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:25:08 +0000",
      "summary": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "他希望人工智能基准测试成为一门科学，而不是一门黑暗艺术"
+     "zh": "He Wants AI Benchmarking To Be a Science, Not a Dark Art"
     },
     {
      "title": "Artemis II results show how much science people can do at the moon",
@@ -2534,7 +2558,7 @@
      "pubDate": "Fri, 16 Oct 2026 13:00:00 +0000",
      "summary": "We’ve studied the moon with robotic spacecraft for decades. What do human observers add? Artemis II’s first science results offer some answers.",
      "source": "Science News",
-     "zh": "阿耳忒弥斯二号的结果显示了人们在月球上可以做多少科学工作"
+     "zh": "Artemis II results show how much science people can do at the moon"
     },
     {
      "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
@@ -2542,7 +2566,7 @@
      "pubDate": "Fri, 16 Oct 2026 08:32:52 EDT",
      "summary": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of surviving uranium cubes and wartime documents reveals that Germany lacked the enormous quantities of uran",
      "source": "ScienceDaily",
-     "zh": "揭露纳粹德国核失败的铀立方"
+     "zh": "The uranium cubes that exposed Nazi Germany’s nuclear failure"
     },
     {
      "title": "Crossword: Time lines",
@@ -2550,7 +2574,7 @@
      "pubDate": "Fri, 16 Oct 2026 12:00:00 +0000",
      "summary": "Solve the crossword from our November 2026 issue, in which we cultivate an understanding of growth curves.",
      "source": "Science News",
-     "zh": "填字游戏：时间线"
+     "zh": "Crossword: Time lines"
     },
     {
      "title": "Astronomers discover the first-ever green star, plus the reddest 'white dwarf' ever seen",
@@ -2558,7 +2582,7 @@
      "pubDate": "Fri, 16 Oct 2026 10:00:00 +0000",
      "summary": "Stellar remnants called white dwarfs ‪appear to come in a rainbow of colors, according to a new study.",
      "source": "Live Science",
-     "zh": "天文学家发现了有史以来第一颗绿色恒星，以及有史以来最红的“白矮星”"
+     "zh": "Astronomers discover the first-ever green star, plus the reddest 'white dwarf' ever seen"
     },
     {
      "title": "NASA captures strange waves high above Hurricane Simon",
@@ -2566,7 +2590,7 @@
      "pubDate": "Fri, 16 Oct 2026 01:50:44 EDT",
      "summary": "As Hurricane Simon unleashed destructive winds and flooding along Mexico’s coast, NASA satellites captured an extraordinary sight: massive atmospheric waves rippling high above the storm. The rare images reveal how powerful hurricanes can disturb the upper atmosphere, creating patterns that are usua",
      "source": "ScienceDaily",
-     "zh": "美国宇航局在飓风西蒙上方捕捉到奇怪的波浪"
+     "zh": "NASA captures strange waves high above Hurricane Simon"
     },
     {
      "title": "A protein that fuels cancer could also be the key to fighting it",
@@ -2574,7 +2598,7 @@
      "pubDate": "Fri, 16 Oct 2026 00:51:38 EDT",
      "summary": "Scientists have discovered how to turn a protein that normally fuels cancer growth into a weapon against it. By activating PPARD in immune cells, researchers made them better at burning fat and attacking tumors, slowing or stopping cancer growth in laboratory experiments. The approach showed promise",
      "source": "ScienceDaily",
-     "zh": "一种促进癌症的蛋白质也可能是对抗癌症的关键"
+     "zh": "A protein that fuels cancer could also be the key to fighting it"
     },
     {
      "title": "“Crawzilla” was huge. Then scientists found an even bigger crayfish",
@@ -2590,7 +2614,7 @@
      "pubDate": "Thu, 15 Oct 2026 21:15:21 EDT",
      "summary": "Antarctic sea ice reached its third-lowest winter maximum in 2026, extending a remarkable decline that began after years of record-breaking growth. Scientists are investigating whether the dramatic reversal signals a long-term shift in Antarctica's frozen landscape.",
      "source": "ScienceDaily",
-     "zh": "南极洲的海冰发生了惊人的逆转"
+     "zh": "Antarctica’s sea ice has undergone a stunning reversal"
     },
     {
      "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
@@ -2606,7 +2630,7 @@
      "pubDate": "Thu, 15 Oct 2026 16:50:00 -0400",
      "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.",
      "source": "MIT News",
-     "zh": "人工智能模型解码用于交流的语言细胞"
+     "zh": "AI model decodes the language cells use to communicate"
     },
     {
      "title": "2 giant Ramesses II statues, one wearing a double crown, discovered by man in Egypt",
@@ -2614,7 +2638,7 @@
      "pubDate": "Thu, 15 Oct 2026 20:01:18 +0000",
      "summary": "The remains of two Ramesses II statues — one of which would have originally stood around 28 feet tall — were found by a villager in Egypt.",
      "source": "Live Science",
-     "zh": "埃及人发现了两座巨型拉美西斯二世雕像，其中一尊戴着双王冠"
+     "zh": "2 giant Ramesses II statues, one wearing a double crown, discovered by man in Egypt"
     },
     {
      "title": "What did the Liberty Bell sound like? Science is on the case.",
@@ -2622,7 +2646,7 @@
      "pubDate": "Thu, 15 Oct 2026 19:10:03 +0000",
      "summary": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.",
      "source": "Ars Technica Science",
-     "zh": "自由钟听起来是什么样的？科学正在研究这个案例。"
+     "zh": "What did the Liberty Bell sound like? Science is on the case."
     },
     {
      "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
@@ -2638,7 +2662,7 @@
      "pubDate": "Thu, 15 Oct 2026 14:00:00 -0400",
      "summary": "The cliffs don’t always collapse in the runaway process that scientists had expected.",
      "source": "MIT News",
-     "zh": "卫星数据揭示了南极洲冰崖随时间的变化"
+     "zh": "Satellite data reveal how Antarctica’s ice cliffs behave over time"
     },
     {
      "title": "Many American diets may not include enough of this essential nutrient",
@@ -2646,7 +2670,7 @@
      "pubDate": "Thu, 15 Oct 2026 17:00:00 +0000",
      "summary": "With the proliferation of fancy salts and changing dietary habits, there are signs people aren’t getting enough of the crucial mineral iodine.",
      "source": "Science News",
-     "zh": "许多美国人的饮食可能没有包含足够的这种必需营养素"
+     "zh": "Many American diets may not include enough of this essential nutrient"
     },
     {
      "title": "Neutron's first launch slips again amid trouble with carbon composites",
@@ -2662,7 +2686,7 @@
      "pubDate": "Thu, 15 Oct 2026 16:00:00 +0000",
      "summary": "Space-based solar power has the potential to meet Earth's energy needs many times over. Will it see the light of day?",
      "source": "Live Science",
-     "zh": "“我们不是核聚变的竞争对手。我们正在融合”：在太空中利用无限太阳能的竞赛"
+     "zh": "'We're not a competitor to fusion. We are fusion': Inside the race to harness unlimited solar power in space"
     },
     {
      "title": "Rewilding could help vulnerable islands keep pace with rising seas",
@@ -2670,7 +2694,7 @@
      "pubDate": "Thu, 15 Oct 2026 15:05:40 +0000",
      "summary": "Seabirds, native plants, and healthy reefs can help atolls build as seas rise.",
      "source": "Ars Technica Science",
-     "zh": "重新野化可以帮助脆弱的岛屿跟上海平面上升的步伐"
+     "zh": "Rewilding could help vulnerable islands keep pace with rising seas"
     },
     {
      "title": "A telling hole in a Neandertal bone hints at a bitter end",
@@ -2678,7 +2702,7 @@
      "pubDate": "Thu, 15 Oct 2026 15:00:00 +0000",
      "summary": "An excavation at an iconic Neandertal burial site uncovers evidence for one individual's potential fatal wound as well as an injury endured for years.",
      "source": "Science News",
-     "zh": "尼安德特人骨头上的一个明显的洞暗示着痛苦的结局"
+     "zh": "A telling hole in a Neandertal bone hints at a bitter end"
     },
     {
      "title": "Building trust in governments through digital platforms",
@@ -2686,7 +2710,7 @@
      "pubDate": "Thu, 15 Oct 2026 09:45:00 -0400",
      "summary": "Governments and private companies often work together to provide public services online. A new study asks: How do these partnerships affect people’s trust in government?",
      "source": "MIT News",
-     "zh": "通过数字平台建立对政府的信任"
+     "zh": "Building trust in governments through digital platforms"
     },
     {
      "title": "How Do Fungi Keep the Planet Healthy?",
@@ -2718,7 +2742,7 @@
      "pubDate": "Thu, 15 Oct 2026 00:00:00 -0400",
      "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
      "source": "MIT News",
-     "zh": "Q&A：AI、你的大脑、社会的“碰撞”"
+     "zh": "Q&A: The “collision” between AI, your brain, and society"
     },
     {
      "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
@@ -2726,7 +2750,7 @@
      "pubDate": "Wed, 14 Oct 2026 20:48:07 +0000",
      "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
      "source": "Ars Technica Science",
-     "zh": "美国宇航局一代人以来首次金星任务的情况终于有了好转"
+     "zh": "Things are finally looking up for NASA's first missions to Venus in a generation"
     }
    ]
   }

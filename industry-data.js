@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 06:49:40",
+ "generated_at": "2026/10/17 07:09:40",
  "recent_days": 7,
  "industries": [
   {
@@ -306,36 +306,12 @@ window.INDUSTRY_DATA = {
      "zh": "数据中心电力成为 OCP 2026 的一大亮点"
     },
     {
-     "title": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/microchip-pol-05-20s-is-radiation-tolerant-gan-point-of-load-converter-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 14:24:13 +0000",
-     "summary": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
-     "source": "Electronics Weekly",
-     "zh": "Microchip POL-05-20S 是耐辐射 GaN 负载点转换器"
-    },
-    {
      "title": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition",
      "link": "https://semiconductor-today.com/news_items/2026/oct/omdia-161026.shtml",
      "pubDate": "Fri, 16 Oct 2026 14:52:30 +0100",
      "summary": "According to market research firm Omdia’s preliminary estimates, global smartphone shipments fell 20% year-on-year in third-quarter 2026, a sharp acceleration from the 6% decline recorded the previous quarter. Shipments also declined sequentially despite new flagship launches and channel preparation",
      "source": "Semiconductor Today",
      "zh": "内存危机重塑竞争格局，2026 年第三季度智能手机出货量萎缩 20%"
-    },
-    {
-     "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-arm-vs-qualcomm-ai-boom-adr-mission-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 13:38:02 +0000",
-     "summary": "The latest installment of the Arm vs Qualcomm case, the weirdness of the current semiconductor market, and an active debris removal mission to launch from Scotland mission... The post What caught your eye? Arm vs Qualcomm, AI boom, ADR mission appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "什么引起了您的注意？ Arm 与高通、人工智能热潮、ADR 使命"
-    },
-    {
-     "title": "When Mandy  Became A Revolutionary",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-mandy-became-a-revolutionary-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 13:32:30 +0000",
-     "summary": "Mandy is known for other things now but 28 years ago he was a revolutionary, as this EW yarn in September 1998 chronicled: ‘The first major speech as cabinet minister […] The post When Mandy Became A Revolutionary appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "当曼迪成为革命者时"
     },
     {
      "title": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume",
@@ -346,36 +322,12 @@ window.INDUSTRY_DATA = {
      "zh": "Terafab 的单一屋顶：为什么封装而非光刻决定了高产量"
     },
     {
-     "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/a-v-cuk-group-adds-auracast-assistive-listening-technology-to-portfolio-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 11:12:17 +0000",
-     "summary": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
-     "source": "Electronics Weekly",
-     "zh": "音视频：CUK 集团将 Auracast 辅助听力技术添加到产品组合中"
-    },
-    {
      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
      "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
      "pubDate": "Fri, 16 Oct 2026 10:55:42 +0000",
      "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times .",
      "source": "EE Times",
      "zh": "台湾的人工智能野心遭遇人才缺口"
-    },
-    {
-     "title": "R&S extends amplifier range for satellite use",
-     "link": "https://www.electronicsweekly.com/news/rs-extends-amplifier-range-for-satellite-use-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 10:54:42 +0000",
-     "summary": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "R&S 扩展了卫星用途的放大器范围"
-    },
-    {
-     "title": "Raltron monolithic crystal filter series for gateway ground stations",
-     "link": "https://www.electronicsweekly.com/news/products/raltron-monolithic-crystal-filter-series-for-gateway-ground-stations-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 10:20:32 +0000",
-     "summary": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
-     "source": "Electronics Weekly",
-     "zh": "用于网关地面站的 Raltron 单片晶体滤波器系列"
     },
     {
      "title": "Gemtek partners with Starman to make optical transceivers in US",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Artificial intelligence is becoming part of the infrastructure that powers healthcare, transportation, finance, manufacturing, and everyday digital services. As these systems grow more capable, they also process more sensitive information and depend on increasingly complex hardware. The Synopsys whi",
      "source": "SemiWiki",
      "zh": "为什么人工智能安全从芯片级开始"
+    },
+    {
+     "title": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/onsemi-151026.shtml",
+     "pubDate": "Thu, 15 Oct 2026 10:36:20 +0100",
+     "summary": "Intelligent power and sensing technology firm onsemi of Scottsdale, AZ, USA says that its latest EliteSiC silicon carbide (SiC) hybrid power module technology has been adopted by renewable energy technology firm Sungrow for its PowerTitan 3.0 energy storage platform. The integration enables improved",
+     "source": "Semiconductor Today",
+     "zh": "安森美EliteSiC混合功率模块技术应用于阳光电源PowerTitan 3.0储能平台"
+    },
+    {
+     "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+     "link": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
+     "pubDate": "Thu, 15 Oct 2026 07:07:45 +0000",
+     "summary": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself. The post Beyond The Specification: What Really Determines PCIe Retimer Reach? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "超越规范：什么真正决定 PCIe 重定时器的范围？"
+    },
+    {
+     "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
+     "link": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/",
+     "pubDate": "Thu, 15 Oct 2026 07:06:02 +0000",
+     "summary": "Short-resilient via insertion improves reliability and performance. The post Strengthening Advanced-Node Interconnects Through Automated Via Insertion appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "通过自动过孔插入加强高级节点互连"
+    },
+    {
+     "title": "Building AI Infrastructure For Greater Choice And Flexibility",
+     "link": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/",
+     "pubDate": "Thu, 15 Oct 2026 07:03:05 +0000",
+     "summary": "Open interfaces and interoperability allow designers to choose technologies based on the needs of the system. The post Building AI Infrastructure For Greater Choice And Flexibility appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "构建人工智能基础设施以获得更多选择和灵活性"
+    },
+    {
+     "title": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
+     "link": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/",
+     "pubDate": "Thu, 15 Oct 2026 07:02:37 +0000",
+     "summary": "Extending chiplet connectivity across AXI and CHI with scalable protocol subsets, interoperability, and flexible transport support. The post AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AMBA C2C：通过 C2C 连接的融合 AMBA 基础向前迈进"
+    },
+    {
+     "title": "Why Open-Weight AI Matters",
+     "link": "https://semiengineering.com/why-open-weight-ai-matters/",
+     "pubDate": "Thu, 15 Oct 2026 07:02:13 +0000",
+     "summary": "Proprietary models still hold the edge, but open-weight models add more flexibility for deploying AI. The post Why Open-Weight AI Matters appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "为什么开放式重量人工智能很重要"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "DeLorean Takes A Ride On Tesla’s “Flying Car” Coattails",
+     "link": "https://cleantechnica.com/2026/10/16/delorean-flying-car-tesla-roadster-evtol-evs-race/",
+     "pubDate": "Fri, 16 Oct 2026 23:02:33 +0000",
+     "summary": "The DeLorean Motor Company has hitched the iconic DeLorean name to the new Airspeeder series, a showcase for cutting edge \"flying car\" eVTOL technology. The post DeLorean Takes A Ride On Tesla’s “Flying Car” Coattails appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "德罗宁 (DeLorean) 搭上特斯拉“飞行汽车”的顺风车"
+    },
+    {
      "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
      "link": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
      "pubDate": "Fri, 16 Oct 2026 17:00:00 -0500",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Australian energy company AGL has referred a 500MWh battery energy storage system (BESS) in Queensland to the federal government under Australia's Environment Protection and Biodiversity Conservation (EPBC) Act.",
      "source": "Energy Storage News",
      "zh": "AGL 将昆士兰州 500MWh Abermain BESS 纳入澳大利亚 EPBC 法案"
-    },
-    {
-     "title": "Monthly Wind Generation In ISO-NE Is About 68% Higher Than Last Year",
-     "link": "https://cleantechnica.com/2026/10/15/monthly-wind-generation-in-iso-ne-is-about-68-higher-than-last-year/",
-     "pubDate": "Fri, 16 Oct 2026 03:50:39 +0000",
-     "summary": "Monthly wind generation in the first nine months of 2026 was an average of 68% higher compared with the same period in 2025 in ISO New England (ISO-NE): Monthly generation from wind was highest in September of this year at 668.9 gigawatthours (GWh), more than double generation levels from September ",
-     "source": "CleanTechnica",
-     "zh": "ISO-NE 每月风力发电量比去年增加约 68%"
     }
    ]
   },
@@ -1770,6 +1770,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "英特尔计划 2028 年面向物理 AI 领域推出 \"Razor Lake AX\" 处理器，平台算力 700 TOPS",
+     "link": "https://www.ithome.com/1/014/194.htm",
+     "pubDate": "Fri, 16 Oct 2026 23:08:44 GMT",
+     "summary": "IT之家 10 月 17 日消息，据韩媒 THE ELEC 报道，Intel（英特尔）高级副总裁 조민성 昨日在韩国举行的“半导体驱动人形机器人”大会上表示，该企业计划 2027 年初面向物理 AI 领域推出 \"Nova Lake\" 处理器。 而在 \"Nova Lake\" 后， 英特尔还将在 2028 年为物理 AI 带来 \"Razor Lake AX\" 。其 平台总算力可到 700 TOPS ，显著优于 \"Panther Lake\" 的 180 TOPS。 综合现有爆料，\"Razor Lake AX\" 是英特尔首款商业化的大内存位宽大核显 SoC，其沿用标准 \"Nova Lake\" 核心组成",
+     "source": "IT之家",
+     "zh": "英特尔计划 2028 年面向物理 AI 领域推出 \"Razor Lake AX\" 处理器，平台算力 700 TOPS"
+    },
+    {
+     "title": "Anthropic 向美国国会推介 AI 监管草案，仅允许出现严重风险时封锁模型",
+     "link": "https://www.ithome.com/1/014/193.htm",
+     "pubDate": "Fri, 16 Oct 2026 23:05:10 GMT",
+     "summary": "IT之家 10 月 17 日消息，据 POLITICO 报道，三名知情人士透露，Anthropic 的代表已悄悄向美国国会山的议员推介了一份法案草案，旨在规范前沿人工智能的安全与防务标准。 据悉，目前美国国会正审慎评估如何对这一飞速发展的行业确立监管框架，而该草案的提出，标志着这家顶级 AI 实验室正在采取切实行动，试图左右针对自身技术的监管规则。 “该法案体现了 Anthropic 在《先进人工智能框架》中提出的核心方案，我们自 6 月起就一直在向联邦及各州立法者游说推介，”Anthropic 发言人表示，“我们坚信国会应当在这些务实合理的政策上采取立法行动。” 草案大幅收紧了监管干预的门槛",
+     "source": "IT之家",
+     "zh": "Anthropic 向美国国会推介 AI 监管草案，仅允许出现严重风险时封锁模型"
+    },
+    {
+     "title": "马斯克要让 AI 帮企业“砍价”：成本效益有望提升 5% 以上",
+     "link": "https://www.ithome.com/1/014/192.htm",
+     "pubDate": "Fri, 16 Oct 2026 23:01:02 GMT",
+     "summary": "IT之家 10 月 17 日消息，全球首富埃隆 · 马斯克（Elon Musk）今天（10 月 17 日）在 X 平台发布推文，表示其团队正投入大量资源， 开发面向商业场景的专用议价机器人“Hagglebot”，希望借此提升企业成本效率。 IT之家注：“专用议价机器人”就是为企业谈价格、争取更好交易条件而设计的 AI 软件，并非实体机器人。这里可以把它想象成一个“数字采购谈判员”：企业给它设定预算、可接受价格和交易条件，它再围绕这些目标协助议价。 他预计，该产品有望将企业成本效率提高 5% 甚至更多；若将这一幅度放到全球 GDP 规模上测算，每年节省的成本最高可达 6 万亿美元 （现汇率约合 ",
+     "source": "IT之家",
+     "zh": "马斯克要让 AI 帮企业“砍价”：成本效益有望提升 5% 以上"
+    },
+    {
+     "title": "该撕下Anthropic“2万亿预期估值”的面具了",
+     "link": "https://www.huxiu.com/article/4898196.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 07:00:03 +0800",
+     "summary": "出品 | 虎嗅科技组 作者 | 梁卡尔 编辑 | 苗正卿 头图 | 视觉中国 还没敲钟，市场就已经先替它投票了。 美东时间10月14日旧金山闭门会刚散场，10月15日科技股就迎来一轮抛售，AI基建、芯片和租算力的AI算力云普跌，英伟达参投的CoreWeave股债双杀。 华尔街的共识很直白，今年AI行情的短期命门，就系在这场还没发生的IPO上，OpenAI还排在它后面。它若卖不好，整个AI烧钱扩算力的游戏都要重估。 而Anthropic交出的答卷是，第三季度营收168亿美元，环比上涨45%；调整后盈利了，但增速较第二季度的环比增长145%，腰斩不止，估值也被参会者从2万亿&ldquo;砍&rdq",
+     "source": "虎嗅",
+     "zh": "该撕下Anthropic“2万亿预期估值”的面具了"
+    },
+    {
+     "title": "Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model&apos;s release (Owen Dahlkamp/Politico)",
+     "link": "https://www.techmeme.com/261016/p25#a261016p25",
+     "pubDate": "Fri, 16 Oct 2026 19:00:01 -0400",
+     "summary": "Owen Dahlkamp / Politico : Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release &nbsp; &mdash;&nbsp; Representatives for the artificial intelligence giant Anthropic have quietly pitched Capitol",
+     "source": "Techmeme",
+     "zh": "资料来源：Anthropic 向美国立法者提出了自己的人工智能安全法案；该法案将限制政府阻止模型发布的情况（Owen Dahlkamp/Politico）"
+    },
+    {
+     "title": "Claude 当起“数字考古学家”：不到 30 分钟揭开困扰密码学界 26 年的 NSA 参数来源之谜",
+     "link": "https://www.ithome.com/1/014/191.htm",
+     "pubDate": "Fri, 16 Oct 2026 22:53:05 GMT",
+     "summary": "IT之家 10 月 17 日消息，Anthropic 公司昨日（10 月 16 日）发布博文，宣布其内部研究用 Claude 模型用不到 30 分钟， 追溯出五条美国国家标准与技术研究院（NIST）标准椭圆曲线的“种子”（seed）来源，为一桩延续约 26 年的密码学悬案提供了可复现的答案。 IT之家注：这里的种子（seed），可以理解为“生成椭圆曲线参数时使用的一段起始数据”，生成规则像一台固定程序的机器，种子就是投入机器的原料。同样的原料，按照同样的规则处理，就能得到同样的结果。公开种子后，其他人可以复算，检查曲线参数是否确实按公布的步骤生成。 谜题源于 2000 年纳入美国数字签名标准的",
+     "source": "IT之家",
+     "zh": "Claude 当起“数字考古学家”：不到 30 分钟揭开困扰密码学界 26 年的 NSA 参数来源之谜"
+    },
+    {
      "title": "CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying \"ChatGPT is better now\"; source: the partnership is still in place (TechCrunch)",
      "link": "https://www.techmeme.com/261016/p24#a261016p24",
      "pubDate": "Fri, 16 Oct 2026 18:45:01 -0400",
@@ -1821,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Why harnesses matter for energy (and token) efficiency",
      "link": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
      "pubDate": "Fri, 16 Oct 2026 21:01:23 +0000",
-     "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 20 # Comments: 3",
+     "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 21 # Comments: 3",
      "source": "Hacker News",
      "zh": "为什么要利用物质来提高能源（和代币）效率"
     },
@@ -1829,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "I never authorized an integration that scans my secrets",
      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
      "pubDate": "Fri, 16 Oct 2026 20:33:41 +0000",
-     "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 117 # Comments: 70",
+     "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 132 # Comments: 78",
      "source": "Hacker News",
      "zh": "我从未授权扫描我的秘密的集成"
     },
@@ -1858,18 +1906,10 @@ window.INDUSTRY_DATA = {
      "zh": "凯蒂·扎卡里亚 (Katie Zacharia) 与一家人工智能稀土初创公司有联系。这比听起来更奇怪"
     },
     {
-     "title": "Sources: SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots (Bloomberg)",
-     "link": "https://www.techmeme.com/261016/p19#a261016p19",
-     "pubDate": "Fri, 16 Oct 2026 15:50:01 -0400",
-     "summary": "Bloomberg : Sources: SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots &nbsp; &mdash;&nbsp; SoftBank Group Corp. is considering an acquisition of Allied Universal, the largest security services compa",
-     "source": "Techmeme",
-     "zh": "资料来源：软银考虑以约 18B 美元的股权估值收购美国安全服务巨头 Allied Universal，因为孙正义正在探索部署人工智能驱动的机器人（彭博社）"
-    },
-    {
      "title": "FLUX 3 Image Klein",
      "link": "https://bfl.ai/blog/flux-3-image-klein",
      "pubDate": "Fri, 16 Oct 2026 19:47:13 +0000",
-     "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 73 # Comments: 13",
+     "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 76 # Comments: 13",
      "source": "Hacker News",
      "zh": "FLUX 3 图像克莱因"
     },
@@ -1880,14 +1920,6 @@ window.INDUSTRY_DATA = {
      "summary": "There are still significant hurdles ahead, both technical and legislative.",
      "source": "Ars Technica",
      "zh": "美国众议员提出法案，给予视频游戏买家“所有权”，而不是“许可”"
-    },
-    {
-     "title": "The Fatal Flaw of 911",
-     "link": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
-     "pubDate": "Fri, 16 Oct 2026 19:33:00 +0000",
-     "summary": "Article URL: https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health Comments URL: https://news.ycombinator.com/item?id=50123356 Points: 41 # Comments: 56",
-     "source": "Hacker News",
-     "zh": "911的致命缺陷"
     },
     {
      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
@@ -1901,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "How the Claude Code team does code review",
      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
      "pubDate": "Fri, 16 Oct 2026 19:04:47 +0000",
-     "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 165 # Comments: 161",
+     "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 175 # Comments: 168",
      "source": "Hacker News",
      "zh": "Claude Code 团队如何进行代码审查"
     },
@@ -1909,9 +1941,17 @@ window.INDUSTRY_DATA = {
      "title": "You could have invented transformers from memory",
      "link": "https://alexwang.ai/posts/associative-memory/",
      "pubDate": "Fri, 16 Oct 2026 19:01:17 +0000",
-     "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 64 # Comments: 14",
+     "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 72 # Comments: 17",
      "source": "Hacker News",
      "zh": "你本可以凭记忆发明变形金刚"
+    },
+    {
+     "title": "Claude reveals ECDSA curve origins",
+     "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+     "pubDate": "Fri, 16 Oct 2026 18:55:59 +0000",
+     "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 535 # Comments: 227",
+     "source": "Hacker News",
+     "zh": "Claude 揭示 ECDSA 曲线起源"
     },
     {
      "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
@@ -1968,46 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.",
      "source": "WIRED",
      "zh": "感谢 Z 世代的“女孩”复兴"
-    },
-    {
-     "title": "Meta 发布其开放权重模型 Muse Spark Open",
-     "link": "https://www.solidot.org/story?sid=85634",
-     "pubDate": "Sat, 17 Oct 2026 00:04:02 +0800",
-     "summary": "Meta 发布了 Muse Spark Open，称它是目前美国最强大的开放权重模型。Muse Spark Open 为多模态模型，总共有 8160 亿参数，激活参数 420 亿，支持 100 万 Token 上下文。该模型利用了苹果最新版本的开源数组框架 MLX，对苹果 Apple Silicon 的统一内存架构进行了优化，能运行在搭载 M5 Ultra 芯片的 Mac Studio 上。M5 Ultra 支持最大 512GB 内存容量，两台最高配置的 Mac Studio 就能容纳整个模型，两台机器相当一台 1TB 统一内存的计算机。Muse Spark Open 已发布在 Hugging",
-     "source": "Solidot",
-     "zh": "Meta 发布其开放权重模型 Muse Spark Open"
-    },
-    {
-     "title": "暴雪《暗黑破坏神 V》开启首轮动画拍摄，游戏计划于 2029 年春季发售",
-     "link": "https://www.ithome.com/1/014/188.htm",
-     "pubDate": "Fri, 16 Oct 2026 15:44:36 GMT",
-     "summary": "IT之家 10 月 16 日消息，暴雪《暗黑破坏神》系列新作《暗黑破坏神 V》的过场动画拍摄工作已经启动。 游戏系列电影导演尼尔 · 大卫 · 卡特（Neil David Carter）昨日在 X 上发布了一张摄影棚照片，并配文“First shoot #Diablo5”，透露该项目已开始进行首轮拍摄。此次拍摄进展指向游戏中的动画向内容的制作，并不代表游戏整体开发已经进入后期阶段。 参考IT之家此前报道，暴雪已在 2026 年暴雪嘉年华（BlizzCon 2026）正式公布《暗黑破坏神 V》，并确认游戏正在开发中，计划于 2029 年春季推出。 根据暴雪官方公告，新作将呈现一个已经沦陷的庇护之",
-     "source": "IT之家",
-     "zh": "暴雪《暗黑破坏神 V》开启首轮动画拍摄，游戏计划于 2029 年春季发售"
-    },
-    {
-     "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-     "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-     "pubDate": "Fri, 16 Oct 2026 15:41:00 +0000",
-     "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
-     "source": "Ars Technica",
-     "zh": "Meta 可能会使用全新的商业服务条款来避免数百万美元的人工智能许可费用"
-    },
-    {
-     "title": "索尼拒将《GT 赛车》上架 Steam：第三方开发者将《GT Sport》移植到 PC，支持 FSR 3.1 与着色器预编译",
-     "link": "https://www.ithome.com/1/014/185.htm",
-     "pubDate": "Fri, 16 Oct 2026 15:06:40 GMT",
-     "summary": "IT之家 10 月 16 日消息，在索尼 SIE 宣布于 2028 年 1 月起取消新游戏的实体光盘后，近期有越来越多的开发者将 PlayStation 独占游戏以“数字游戏”的形式搬上 PC 平台。 据 Wccftech 今日报道，虽然索尼至今未将《GT 赛车》系列移植到 PC 平台，但这一局面已被第三方开发者打破。 名为“mlgprorektm8”的开发者在 GitHub 上发布了《GT 赛车 Sport》PC 移植版。这意味着，继《血源诅咒》和《战神 3 重制版》之后又一款 PlayStation 非官方移植游戏首次登陆 PC 平台。 值得一提的是，该 PC 移植版不包含任何游戏资源，玩",
-     "source": "IT之家",
-     "zh": "索尼拒将《GT 赛车》上架 Steam：第三方开发者将《GT Sport》移植到 PC，支持 FSR 3.1 与着色器预编译"
-    },
-    {
-     "title": "曝英特尔将推 8E + 4Xe 版 \"Panther Lake\" 锐炫 G 掌机处理器",
-     "link": "https://www.ithome.com/1/014/184.htm",
-     "pubDate": "Fri, 16 Oct 2026 15:05:02 GMT",
-     "summary": "IT之家 10 月 16 日消息，硬件诊断监控软件 HWiNFO 近日在其版本历史记录页面更新了即将到来的变化，包括“新增 Panter Lake-H 080”“增强对 Nova Lake-E 和 Razor Lake-S 的支持”。 IT之家注： \"Panter Lake\" 很明显是一个误输入，指的应该是 \"Panther Lake\"。 消息人士 @jaykihn0 今日对上述 \"Panther Lake-H 080\" 和 \"Nova Lake-E\" 进行了解释： \"Panther Lake-H 080\" 是一款 采用 0P + 8P + 0LP-E + 4Xe 设计的 \"Panter La",
-     "source": "IT之家",
-     "zh": "曝英特尔将推 8E + 4Xe 版 \"Panther Lake\" 锐炫 G 掌机处理器"
     }
    ]
   },
@@ -2017,6 +2017,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple poaches longtime Meta executive to lead global litigation",
+     "link": "https://9to5mac.com/2026/10/16/apple-poaches-longtime-meta-executive-to-lead-global-litigation/",
+     "pubDate": "Fri, 16 Oct 2026 22:53:24 +0000",
+     "summary": "Bloomberg reports that Apple has hired Scott Tucker, who spent nearly six years as Meta’s vice president and deputy general counsel for global litigation. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "苹果挖走 Meta 资深高管，负责领导全球诉讼"
+    },
     {
      "title": "Apple’s new App Store rules crack down on AI nudification and ‘bait-and-switch’ apps",
      "link": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/",
@@ -2146,14 +2154,6 @@ window.INDUSTRY_DATA = {
      "zh": "高相机价格并不能证明相机制造商贪婪"
     },
     {
-     "title": "Report: Apple’s antitrust negotiations with the DOJ spark concerns of a weak settlement",
-     "link": "https://9to5mac.com/2026/10/16/report-apples-antitrust-negotiations-with-the-doj-spark-concerns-of-a-weak-settlement/",
-     "pubDate": "Fri, 16 Oct 2026 20:04:21 +0000",
-     "summary": "The Information reports that PayPal and Epic Games are among the developers concerned that a potential antitrust settlement between Apple and the DOJ might not go far enough in addressing the company’s allegedly anticompetitive practices. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "报告：苹果与司法部的反垄断谈判引发了对和解协议薄弱的担忧"
-    },
-    {
      "title": "If you haven't pre-ordered an iPhone Duo yet, you're in for a long, long wait",
      "link": "https://www.gsmarena.com/if_you_havent_preordered_an_iphone_duo_yet_but_want_one_youre_in_for_a_long_long_wait-news-75091.php",
      "pubDate": "Fri, 16 Oct 2026 22:02:02 +0200",
@@ -2266,20 +2266,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Alcon wins approval of OTC Brytly eye drops",
+     "link": "https://seekingalpha.com/news/4654026-alcon-wins-approval-otc-brytly-eye-drops?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 18:59:12 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "爱尔康 OTC Brytly 滴眼液获得批准"
+    },
+    {
+     "title": "报道：Anthropic向美国议员推介AI安全方案 拟为模型发布设置门槛",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898822420.html",
+     "pubDate": "Sat, 17 Oct 2026 06:57:14 +0800",
+     "summary": "Anthropic PBC悄悄向美国议员提交了一份 人工智能 （AI）安全法案草案，其中提出 人工智能 安全监管方案。该提案建议，如果某款AI模型被认定存在迫在眉睫的风险，可能导致超过50人伤亡或造成超过10亿美元的损失，政府可以阻止其发布。这种威胁必须源于模型制造或释放生物武器、AI脱离人类控制或网络攻击。该法案还提议，由独立评估机构定期审查Anthropic及其AI模型。这份草案包含许多Anthropic在6月发布的Advanced AI Framework中首次提出的想法。 （文章来源：华尔街见闻）",
+     "source": "东方财富股票",
+     "zh": "报道：Anthropic向美国议员推介AI安全方案 拟为模型发布设置门槛"
+    },
+    {
+     "title": "AMD暗盘跌超3% 现报525.8225美元",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898822331.html",
+     "pubDate": "Sat, 17 Oct 2026 06:56:50 +0800",
+     "summary": "AMD暗盘跌超3%，现报525.8225美元。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "AMD暗盘跌超3% 现报525.8225美元"
+    },
+    {
+     "title": "国际油价集体收涨，布油主力合约涨3.57%",
+     "link": "http://finance.eastmoney.com/news/1356,202610173898823478.html",
+     "pubDate": "Sat, 17 Oct 2026 06:56:36 +0800",
+     "summary": "当地时间10月16日，国际油价集体收涨，美油主力合约涨2.63%，报99.04美元/桶，周涨7.83%；布油主力合约涨3.57%，报109.7美元/桶，周涨4.76%。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "国际油价集体收涨，布油主力合约涨3.57%"
+    },
+    {
+     "title": "机构：沙特阿拉伯10月前15日原油出口量大涨",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898822183.html",
+     "pubDate": "Sat, 17 Oct 2026 06:56:13 +0800",
+     "summary": "油轮追踪机构TankerTrackers周五发布数据：尽管商业 航运 持续遭遇袭击、霍尔木兹海峡风险高企，沙特阿拉伯10月前15个完整自然日的原油出口量仍大幅攀升，日均达816.5万桶。这家海运情报公司公布的数据显示，该数值较9月日均562万桶、8月日均369.7万桶显著走高。另一组 航运 数据同样显示沙特原油外运量强劲回暖。Kpler的数据显示，受东西管道遇袭受损后，沙特将原油出口从红海延布港转出，助力波斯湾9月原油出口量反弹。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "机构：沙特阿拉伯10月前15日原油出口量大涨"
+    },
+    {
+     "title": "普京：继续打击乌军工企业",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898822083.html",
+     "pubDate": "Sat, 17 Oct 2026 06:55:26 +0800",
+     "summary": "俄罗斯总统普京16日表示，作为对乌克兰当局袭击俄工业企业和燃料能源 综合 体企业的回应，俄武装力量继续打击乌 军工 综合 体企业以及相关设施。 俄总统网站16日发布消息称，普京当天视察俄联合部队集群一处辅助指挥所，与俄军总参谋部负责人及各部队指挥员就特别军事行动区域当前局势和近期战况召开会议。普京在会上表示，今年年初以来，俄军已控制310个居民点和约6500平方公里区域。卢甘斯克地区已被俄方完全控制。目前顿涅茨克地区仍有超10%的领土、扎波罗热地区有16.5%的领土处于乌方控制之下。 俄武装力量总参谋长格拉西莫夫在会上汇报说，9月至10月俄方对乌方共实施12次大规模打击，击中30家参与生产和储",
+     "source": "东方财富股票",
+     "zh": "普京：继续打击乌军工企业"
+    },
+    {
+     "title": "WTI原油期货结算价为101.41美元/每桶",
+     "link": "http://finance.eastmoney.com/news/1356,202610173898822688.html",
+     "pubDate": "Sat, 17 Oct 2026 06:54:16 +0800",
+     "summary": "WTI原油 期货 结算价为101.41美元/每桶，上涨3.44美元，涨幅3.51%。布伦特原油 期货 结算价为每桶109.86美元，上涨3.94美元，涨幅3.72%。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "WTI原油期货结算价为101.41美元/每桶"
+    },
+    {
      "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，芯片指数八连跌，布油涨破110",
      "link": "https://wallstreetcn.com/articles/3783778",
      "pubDate": "Sat, 17 Oct 2026 06:42:43 +0800",
      "summary": "科技股遭新一轮抛售，AI投资盈利能力的疑虑与油价骤升形成双重压力，美股周五全线下挫。纳指单日重挫2%，芯片股连续第八个交易日收跌，创下2008年以来最长连跌纪录。 周五，纳斯达克100指数收跌2.5%，标普500指数跌1.1%。云计算服务商CoreWeave单日暴跌12%，其债券收益率本周一度突破15%，信用风险攀升至通常预示财务困境的水平。 本周，AI交易的核心矛盾正从算力需求增长转向融资成本、资本开支回报和企业盈利能力。云服务商CoreWeave债务承压，进一步引发市场对AI数据中心建设融资模式的审视；存储芯片、光通信和数据中心设备等此前受益于AI投资热潮的股票，也成为资金减仓的重点。媒体",
      "source": "华尔街见闻",
      "zh": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，芯片指数八连跌，布油涨破110"
-    },
-    {
-     "title": "也门胡塞武装再次导弹袭击亚丁 包括民用机场",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898819998.html",
-     "pubDate": "Sat, 17 Oct 2026 06:40:57 +0800",
-     "summary": "也门胡塞武装控制的马西拉电视台16日报道称，该组织对也门临时首都、南部城市亚丁的沙特阿拉伯目标再次发动导弹袭击。国际社会承认的也门政府谴责胡塞武装对亚丁民用 机场 发动袭击。 据马西拉电视台援引胡塞武装军方高层的话报道说，该组织当天对亚丁国际 机场 附近巴德尔军事基地内的“沙特军队指挥部及武器库”发动导弹袭击。报道未提供更多细节。 当天早些时候，一名当地政府安全官员告诉新华社记者，两枚导弹落入亚丁国际 机场 附近，第三枚则击中了位于亚丁西部布赖卡区的一处军事基地，该基地靠近沙特领导的联军指挥部。 新华社报道员在现场附近听到三声剧烈爆炸声，并看见多辆救护车驶向遭袭区域。 也门政府新闻部长穆阿马尔",
-     "source": "东方财富股票",
-     "zh": "也门胡塞武装再次导弹袭击亚丁 包括民用机场"
     },
     {
      "title": "纽约联储调查：服务业提价创2022年来最快，商业活动指数跌至3月来最低",
@@ -2298,52 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "美国9月进口价格涨幅超预期，核心进口与资本品齐升印证通胀扩散"
     },
     {
-     "title": "朝鲜试射新型鱼雷武器系统",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898819725.html",
-     "pubDate": "Sat, 17 Oct 2026 06:34:17 +0800",
-     "summary": "据朝中社17日报道，朝鲜15日进行了新型超高速精确制导鱼雷武器系统“潜－2.0”实弹发射试验。 报道说，朝鲜国防科学院、导弹总局和水雷武器研究局为验证新型鱼雷武器系统的技术更新升级成果，进行了水下试射。 据报道，新型超高速精确制导鱼雷的目标搜索及制导功能采用了 人工智能 技术。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "朝鲜试射新型鱼雷武器系统"
-    },
-    {
-     "title": "早读｜《中国禁止出口限制出口技术目录》拟增列40项关键技术",
-     "link": "http://stock.eastmoney.com/news/1406,202610173898819894.html",
-     "pubDate": "Sat, 17 Oct 2026 06:33:51 +0800",
-     "summary": "早上好！上观新闻『早读』来啦！今天是2026年10月17日星期六，农历九月初八。 § 昨日今晨 禁止出口 ｜商务部、科技部16日发布公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，涉及拟增列的 人工智能 、生物医药、光伏三个领域40项关键技术。其中，拟禁止出口技术14项，包括 人工智能 驱动的恶意代码生成与变异技术、具有自主 知识产权 的细胞和基因治疗技术工艺平台、钙钛矿及叠层 电池 组件生产技术等。 XGTK ｜ 全国铁路列车车次将于11月下旬、12月下旬分两批调整，其中新增X字头，主要用于未来最高运行时速350公里以上的复兴号动车组列车。国铁集团运输部相关负责人介绍，X读“新”，",
-     "source": "东方财富股票",
-     "zh": "早读｜《中国禁止出口限制出口技术目录》拟增列40项关键技术"
-    },
-    {
-     "title": "美国天然气暗盘跌破3.4美元，日内跌幅3.8%",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898819556.html",
-     "pubDate": "Sat, 17 Oct 2026 06:32:17 +0800",
-     "summary": "美国 天然气 暗盘跌破3.4美元，日内跌幅3.8%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "美国天然气暗盘跌破3.4美元，日内跌幅3.8%"
-    },
-    {
      "title": "Apple’s $1,999 iPhone Duo puts the company&apos;s status-symbol power to the test",
      "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
      "pubDate": "Fri, 16 Oct 2026 22:31:26 GMT",
      "summary": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
      "source": "CNBC",
      "zh": "苹果售价 1,999 美元的 iPhone Duo 考验了该公司的地位象征力量"
-    },
-    {
-     "title": "美股收盘：三大股指全线收跌，纳指跌超2%；半导体、存储芯片重挫，闪迪、SK海力士跌超6%，Coreweave跌近12%；黄金股普涨；油价大涨",
-     "link": "http://finance.eastmoney.com/news/1356,202610173898819458.html",
-     "pubDate": "Sat, 17 Oct 2026 06:30:01 +0800",
-     "summary": "周五，美国三大股指全线收跌，谷歌、 赛富时 跌超2%，领跌道指。 截至收盘，道指跌0.34%报52002.41点，标普500指数跌1.09%报7659.44点，纳指跌2.15%报26140.03点。本周，道指涨0.67%，标普500指数跌1.95%，纳指跌4.48%。 板块方面，大型科技股多数收跌， 苹果 涨0.43%， 英伟达 跌1.43%， 亚马逊 跌1.87%， 微软 跌1.93%， 特斯拉 跌2.13%，谷歌跌2.47%，脸书跌3.72%。 中概股多数收跌， BOSS直聘 涨2.26%， 贝壳 涨1.35%， 华住 集团涨1.22%， 新东方 涨0.85%， 亚玛芬体育 涨0.25%，",
-     "source": "东方财富股票",
-     "zh": "美股收盘：三大股指全线收跌，纳指跌超2%；半导体、存储芯片重挫，闪迪、SK海力士跌超6%，Coreweave跌近12%；黄金股普涨；油价大涨"
-    },
-    {
-     "title": "布伦特原油暗盘突破106美元 日内涨超3.2%",
-     "link": "http://finance.eastmoney.com/news/1351,202610173898819224.html",
-     "pubDate": "Sat, 17 Oct 2026 06:29:58 +0800",
-     "summary": "布伦特原油暗盘突破106美元，日内涨超3.2%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "布伦特原油暗盘突破106美元 日内涨超3.2%"
     },
     {
      "title": "Exxon sees higher refining margins adding $4.5B to Q3 earnings",
@@ -2472,14 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
      "source": "MarketWatch",
      "zh": "我今年 63 岁，被诊断患有淋巴瘤。我明年应该领取社会保障吗？"
-    },
-    {
-     "title": "Palantir Technologies declines 7% amid broader tech selloff",
-     "link": "https://seekingalpha.com/news/4654013-palantir-technologies-declines-7-amid-broader-tech-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 17:08:58 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Palantir Technologies 因科技股大范围抛售而下跌 7%"
     },
     {
      "title": "费城半导体连跌八个交易日，黄仁勋：“这一切终将过去”，AI变革才刚刚开始",

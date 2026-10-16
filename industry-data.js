@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/16 21:09:42",
+ "generated_at": "2026/10/16 21:29:45",
  "recent_days": 7,
  "industries": [
   {
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Shangjie Z9 electric SUV appears in regulatory filing as Huawei-SAIC brand readies fourth model",
+     "link": "https://cnevpost.com/2026/10/16/shangjie-z9-regulatory-filing/",
+     "pubDate": "Fri, 16 Oct 2026 13:17:37 +0000",
+     "summary": "The Shangjie Z9 measures 5,139 mm in length with a 3,086 mm wheelbase and offers 5-seat and 6-seat layouts. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "上捷Z9电动SUV出现在监管文件中，华为-上汽品牌准备第四款车型"
+    },
+    {
      "title": "I Drove Mercedes’ New EV With A Silicon Anode Battery. The Future Is Here",
      "link": "https://insideevs.com/reviews/811794/mercedes-cla-350-electric-review/",
      "pubDate": "Fri, 16 Oct 2026 13:00:00 +0000",
@@ -658,12 +666,12 @@ window.INDUSTRY_DATA = {
      "zh": "我用硅阳极电池驾驶梅赛德斯的新型电动汽车。未来就在这里"
     },
     {
-     "title": "The Tesla Roadster Has Over 1 MW Of Power. Here Are The Full Specs",
+     "title": "The Tesla Roadster Has 1,341 HP And Half The Range Elon Musk Once Promised. Here Are The Full Specs",
      "link": "https://insideevs.com/news/812242/tesla-roadster-2026-specs/",
      "pubDate": "Fri, 16 Oct 2026 12:46:53 +0000",
      "summary": "Tesla execs Lars Moravy and Franz von Holzhausen spilled the beans on Tesla’s most outrageous car ever.",
      "source": "InsideEVs",
-     "zh": "Tesla Roadster 的功率超过 1 MW。这是完整的规格"
+     "zh": "Tesla Roadster 拥有 1,341 马力，续航里程是埃隆·马斯克曾经承诺的一半。这是完整的规格"
     },
     {
      "title": "Tesla's Roadster can fly, and Nio's William Li admits: 'This we really don't have'",
@@ -736,14 +744,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reservations in China require a 332,000 yuan ($49,390) deposit, with the website describing the Performance version as suitable for public roads. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "特斯拉推出重新设计的 Roadster，可在中国进行性能预订"
-    },
-    {
-     "title": "BYD picks local assembly partner in Malaysia to advance EV production",
-     "link": "https://cnevpost.com/2026/10/16/byd-picks-ckd-assembly-partner-malaysia/",
-     "pubDate": "Fri, 16 Oct 2026 04:18:35 +0000",
-     "summary": "BYD will use existing manufacturing capacity at Sime Darby's Inokom, with models and production timing yet to be announced. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "比亚迪选择马来西亚当地组装合作伙伴来推进电动汽车生产"
     },
     {
      "title": "Are Tesla’s claims for its new ‘flying’ Roadster real, or is it just full of cold gas?",
@@ -1085,7 +1085,7 @@ window.INDUSTRY_DATA = {
      "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
      "link": "https://www.utilitydive.com/news/utilities-need-ai-solve-grid-backlogs-aws-energy-lead-head/832816/",
      "pubDate": "Thu, 15 Oct 2026 12:00:00 -0400",
-     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities&nbsp;Joseph Santamaria.",
+     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities, Joseph Santamaria.",
      "source": "Utility Dive",
      "zh": "公用事业公司可以使用人工智能来解决电网积压问题：AWS 能源领先者"
     }
@@ -1097,6 +1097,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "This week in charts: Moderna’s massive stock run",
+     "link": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
+     "pubDate": "Fri, 16 Oct 2026 09:15:00 -0400",
+     "summary": "The latest installment in BioPharma Dive&rsquo;s&nbsp;data visualization-focused series includes a look at Moderna&rsquo;s meteoric rise in 2026 and a sudden deal surge from Roche.",
+     "source": "BioPharma Dive",
+     "zh": "本周图表：Moderna 股价大幅上涨"
+    },
     {
      "title": "Here's how many clinicians are using AI to answer their medical questions",
      "link": "https://endpoints.news/heres-how-many-clinicians-are-using-ai-to-answer-their-medical-questions/",
@@ -1138,12 +1146,12 @@ window.INDUSTRY_DATA = {
      "zh": "Estuary 首次斥资 1.03 亿美元开发肾脏疾病基因疗法"
     },
     {
-     "title": "Biogen-backed Estuary nabs $93M for liver disease gene therapy",
+     "title": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy",
      "link": "https://www.biopharmadive.com/news/estuary-kidney-disease-gene-therapy-launch-emerged-biogen-biotech-startup/833114/",
      "pubDate": "Fri, 16 Oct 2026 06:30:00 -0400",
      "summary": "The Series A round, which was led by RA Capital, will help fund the development of two genetic medicines designed to treat an inherited kidney disorder known as \"ADPKD.\"",
      "source": "BioPharma Dive",
-     "zh": "Biogen 支持的 Estuary 获得 9300 万美元用于肝病基因治疗"
+     "zh": "Biogen 支持的 Estuary 获得 9300 万美元用于肾脏疾病基因治疗"
     },
     {
      "title": "City Therapeutics lands $200M IPO as it builds an Alnylam 2.0 in RNAi field",
@@ -1280,14 +1288,6 @@ window.INDUSTRY_DATA = {
      "summary": "A small-molecule therapy, VG-3927, targeting microglial TREM2 signaling showed neuroprotective effects in preclinical studies for Alzheimer's disease and was well tolerated in a Phase I trial. The post Alzheimer’s Small-Molecule Therapy Shows Promise in Mice and Early Human Trial appeared first on G",
      "source": "GEN",
      "zh": "阿尔茨海默氏症小分子疗法在小鼠和早期人体试验中显示出前景"
-    },
-    {
-     "title": "Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit",
-     "link": "https://www.biopharmadive.com/news/arrowhead-rnai-alzheimers-tau-aro-mapt-study-results/832950/",
-     "pubDate": "Wed, 14 Oct 2026 11:54:00 -0400",
-     "summary": "In a first, a subcutaneously administered RNA interference medicine crossed into the brain and plummeted levels of a protein implicated in the disease.",
-     "source": "BioPharma Dive",
-     "zh": "实验性 Arrowhead RNAi 药物暗示对阿尔茨海默病有益"
     }
    ]
   },
@@ -1297,6 +1297,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate",
+     "link": "https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate/",
+     "pubDate": "Fri, 16 Oct 2026 13:17:28 +0000",
+     "summary": "The launch infrastructure improvements also include a substantial manufacturing expansion at Rocket Park and the addition of new landing barges.",
+     "source": "Spaceflight Now",
+     "zh": "蓝色起源将增加新的佛罗里达发射台，寻求大幅提高新格伦飞行率"
+    },
     {
      "title": "Rocket Lab pushes 1st launch of next-gen Neutron rocket to 2027",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-pushes-1st-launch-of-next-gen-neutron-rocket-to-2027",
@@ -1528,14 +1536,6 @@ window.INDUSTRY_DATA = {
      "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East came at 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC).",
      "source": "Spaceflight Now",
      "zh": "SpaceX 猎鹰 9 号火箭从加州发射 27 颗星链卫星"
-    },
-    {
-     "title": "CRS-35 launches to ISS with final iROSA arrays, experiments, and other items",
-     "link": "https://www.nasaspaceflight.com/2026/10/crs-35-launch/",
-     "pubDate": "Mon, 12 Oct 2026 21:08:32 +0000",
-     "summary": "The International Space Station, fresh off a crew handover and the return of Crew-12 to… The post CRS-35 launches to ISS with final iROSA arrays, experiments, and other items appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "CRS-35 带着最终的 iROSA 阵列、实验和其他物品发射到国际空间站"
     }
    ]
   },
@@ -1770,6 +1770,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "为期 4 年，京津冀等 5 个城市群将开展氢能综合应用试点工作",
+     "link": "https://www.ithome.com/1/014/160.htm",
+     "pubDate": "Fri, 16 Oct 2026 13:26:14 GMT",
+     "summary": "IT之家 10 月 16 日消息，工业和信息化部、财政部、国家发展改革委今日发布关于同意京津冀等 5 个城市群开展氢能综合应用试点工作的通知，原则同意 京津冀、大湾区、东北（含蒙东）— 长三角、新疆 — 成渝地区双城经济圈、黄河几字弯 — 中原 等 5 个城市群试点工作方案，开展氢能综合应用试点工作，试点为期 4 年。三部门将对试点工作进行跟踪指导，并予以考核评价，评价结果作为中央财政对试点城市群安排奖励资金的依据。 《通知》要求，单位要按照上报的氢能综合应用试点工作方案，加强统筹协调，加快组织实施，积极出台支持政策，严格落实地方奖励资金，尽快形成实际工作量。参与试点工作的各城市要严格按照《通",
+     "source": "IT之家",
+     "zh": "为期 4 年，京津冀等 5 个城市群将开展氢能综合应用试点工作"
+    },
+    {
+     "title": "荣耀 HONOR Life 自带线移动电源发售：22.5W 双向快充，20000mAh 版 198 元",
+     "link": "https://www.ithome.com/1/014/159.htm",
+     "pubDate": "Fri, 16 Oct 2026 13:21:17 GMT",
+     "summary": "IT之家 10 月 16 日消息，荣耀京东自营店新上架了两款 HONOR Life 移动电源，10000mAh 版本 148 元，20000mAh 版本 198 元，现已开售。 这款产品主打轻薄便携（IT之家注：10000mAh 版本仅 16.68mm 厚），自带 USB-C 双向快充编织线，支持多设备同步充电。它还配备了智能数显屏，内置 NTC 智能温控芯片，通过 3C 认证可登机。 京东 HONOR LIFE 移动电源 20000mAh &nbsp;22.5W 双向快充自带编织线大容量充电宝 适用荣耀苹果华为 198 元 直达链接 京东 HONOR LIFE 移动电源 10000mAh &",
+     "source": "IT之家",
+     "zh": "荣耀 HONOR Life 自带线移动电源发售：22.5W 双向快充，20000mAh 版 198 元"
+    },
+    {
+     "title": "清华AI天才姚顺宇，要“被创业”了？",
+     "link": "https://www.huxiu.com/article/4898170.html?f=rss",
+     "pubDate": "Fri, 16 Oct 2026 21:16:41 +0800",
+     "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：怪哥 有的人创业，是因为自己想创业。 有的人创业，是因为投资人比自己还想创业。 在创投圈，后一种情况并不稀奇。盯上大厂里的牛人，隔三差五约着聊，劝对方出来单干：方向可以一起琢磨，合伙人可以帮忙介绍，钱也可以谈。别人还在纠结要不要辞职，投资人已经替他想好怎么当老板了。 过去是创业者拿着BP到处找钱，现在有些AI研究员，连公司都还没成立，就已经有人追着问：到底什么时候出来？ 姚顺宇，就是最近被投资人惦记上的一个。 29岁，清华物理系毕业，斯坦福博士，转行AI才两年，就先后参与了Claude和Gemini的研发。9月，已经有报道提到，机构正在接触他，打",
+     "source": "虎嗅",
+     "zh": "清华AI天才姚顺宇，要“被创业”了？"
+    },
+    {
+     "title": "中国卫通资源型垄断的倒计时：低轨星座的兴起与颠覆",
+     "link": "https://www.huxiu.com/article/4898168.html?f=rss",
+     "pubDate": "Fri, 16 Oct 2026 21:12:56 +0800",
+     "summary": "本文来自微信公众号： 太空与网络 ，作者：火星姑娘 一个本应成为产业链核心节点的国有企业，二十年后核心能力仍集中在空间段。 中国卫通资源型垄断的倒计时：低轨星座的兴起与颠覆 中国卫通2026年半年报显示，公司营业收入12.29亿元，同比增长0.66%；归母净利润1.13亿元，同比下降37.36%；扣除非经常性损益后净利润降幅达45.42%；综合毛利率22.8%，较上年同期下滑约5个百分点。公司在报告中给出的解释是卫星折旧增加和研发投入上升。这个解释成立，但并不完整。 利润下滑的另一部分原因并不在当期损益表上。作为我国卫星通信领域的主要运营主体，中国卫通持有自主可控的高轨轨位与频率资源，具备基础",
+     "source": "虎嗅",
+     "zh": "中国卫通资源型垄断的倒计时：低轨星座的兴起与颠覆"
+    },
+    {
      "title": "花时间研究了下特斯拉Roadster 的原理。",
      "link": "https://www.huxiu.com/article/4898164.html?f=rss",
      "pubDate": "Fri, 16 Oct 2026 21:02:43 +0800",
@@ -1797,9 +1829,17 @@ window.INDUSTRY_DATA = {
      "title": "苹果首款折叠屏手机 iPhone Duo 预约火爆，官网排到明年发货",
      "link": "https://www.ithome.com/1/014/157.htm",
      "pubDate": "Fri, 16 Oct 2026 12:57:49 GMT",
-     "summary": "IT之家 10 月 16 日消息，苹果首款折叠屏手机 iPhone Duo 于今晚 8 点开启预购，国行定价 15999 元起，大量用户同时涌入苹果官网、Apple Store App 及天猫、京东等官方直营渠道，购买页面一度无法正常打开。 京东 苹果 iPhone Duo 手机 15999 元起 直达链接 参考苹果中国官网，以 512GB 存储机型 / 山东青岛送货为例，目前 iPhone Duo 预计发货时间已排至 1 月 23 日，2026 年的备货已经全部售罄。不过后续随着产能释放，一般发货排期会逐步前移。 IT之家注意到，目前也有不少幸运读者在评论区晒出了自己的首发订单，也有部分读者",
+     "summary": "IT之家 10 月 16 日消息，苹果首款折叠屏手机 iPhone Duo 于今晚 8 点开启预购，国行定价 15999 元起，大量用户同时涌入苹果官网、Apple Store App 及天猫、京东等渠道，购买页面一度无法正常打开。 京东 苹果 iPhone Duo 手机 15999 元起 直达链接 参考苹果中国官网，以 512GB 存储机型 / 山东青岛送货为例，目前 iPhone Duo 预计发货时间已排至 1 月 23 日，2026 年的备货已经全部售罄。不过后续随着产能释放，一般发货排期会逐步前移。 IT之家注意到，目前也有不少幸运读者在评论区晒出了自己的首发订单，也有部分读者反馈自己",
      "source": "IT之家",
      "zh": "苹果首款折叠屏手机 iPhone Duo 预约火爆，官网排到明年发货"
+    },
+    {
+     "title": "I Love Software Rendering",
+     "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+     "pubDate": "Fri, 16 Oct 2026 12:52:08 +0000",
+     "summary": "Article URL: https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/ Comments URL: https://news.ycombinator.com/item?id=50117746 Points: 20 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "我喜欢软件渲染"
     },
     {
      "title": "Anthropic估值打折，下一个轮到谁？",
@@ -1834,44 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "Waymo 计划与 Element Fleet Management 合作于 2028 年在多伦多推出机器人出租车，这是该公司在加拿大的首次部署（Prathik Jayaprakash/路透社）"
     },
     {
-     "title": "德明利 2026 年前三季度预计归母净利润 86.5~89.5 亿元，预计同比增长 32046.52%~33154.49%",
-     "link": "https://www.ithome.com/1/014/153.htm",
-     "pubDate": "Fri, 16 Oct 2026 12:41:36 GMT",
-     "summary": "IT之家 10 月 16 日消息，德明利今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）业绩预告报告： 营业总收入 ：275 亿元 ~295 亿元，预计同比增长 312.97%~343% 归母净利润 ：86.5 亿元 ~89.5 亿元，预计同比增长 32046.52%~33154.49% 扣非净利润 ：85.96 亿元 ~88.96 亿元，预计同比增长 17127.99%~17722.26% 基本每股收益 ：27.47 元 ~28.42 元 AI 解读 本次业绩预告扭亏为盈，营收和净利润增速均大幅超市场预期。 公司主营业务简介 德明利是专业存储控制芯片及解决方案提供",
-     "source": "IT之家",
-     "zh": "德明利 2026 年前三季度预计归母净利润 86.5~89.5 亿元，预计同比增长 32046.52%~33154.49%"
-    },
-    {
      "title": "北大教授董彬：AI让数学进入更好的时代",
      "link": "https://www.huxiu.com/article/4898158.html?f=rss",
      "pubDate": "Fri, 16 Oct 2026 20:38:39 +0800",
      "summary": "本文来自微信公众号： 科学网 ，编辑：|方圆，作者：江庆龄 “OpenAI的这些结果发布之后，估计全球的科学家都会去看列表里自己领域的问题，评估一下‘受灾程度’。”“有些领域可能是‘重灾区’，大家原以为还需数十年才能推进的问题突然有了结果——按照一些同行的说法，基本上被AI‘干没了’。” 近日，在2026未来科学·创想季活动“数学与计算机科学×数字未来”跨界对话上，北京大学北京国际数学研究中心博雅特聘教授、北京中关村学院常务副院长董彬，这样描述人工智能（AI）给数学界带来的冲击。 董彬是国内较早研究AI与数学交叉的学者之一。2016年，他将研究方向从计算成像等领域的传统数学方法转向深度学习；2",
      "source": "虎嗅",
      "zh": "北大教授董彬：AI让数学进入更好的时代"
-    },
-    {
-     "title": "特斯拉比以往更需要一辆“会飞”的Roadster",
-     "link": "https://www.huxiu.com/article/4898157.html?f=rss",
-     "pubDate": "Fri, 16 Oct 2026 20:35:42 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：刘泽然 就连那些已经厌倦汽车行业同质化竞争、甚至逐渐把目光移开的人，也很难忽略特斯拉最新公布的Roadster。这款经过重新设计的纯电动跑车完成了倒挂行驶、短暂腾空和空中姿态调整，把一场新车发布变成了接近航空航天试验的工程表演。 当天在美国得克萨斯州的现场观众不断发出惊呼，多个相关话题很快登上中国社交平台热搜。Roadster重新唤起了汽车行业久违的想象力，也让一个问题再次变得具体，汽车还能被创造到什么程度？ Roadster的预订者奕境等待近九年。2017年11月，特斯拉在Semi电动卡车发布会上首次展示了这款跑车，计划在2020年开始交付，并以5万美",
-     "source": "虎嗅",
-     "zh": "特斯拉比以往更需要一辆“会飞”的Roadster"
-    },
-    {
-     "title": "新能源车要收燃油附加费？滴滴出租车再现收费乱象",
-     "link": "https://www.huxiu.com/article/4898156.html?f=rss",
-     "pubDate": "Fri, 16 Oct 2026 20:35:41 +0800",
-     "summary": "本文来自微信公众号： 大橘财经 ，作者：汤普济 近期不少消费者反映，通过滴滴平台呼叫出租车时，遭遇新能源出租车被收取燃油附加费、全程未驶上高速却产生高速路桥费等乱收费问题。 中国蓝新闻等媒体报道，滴滴司机端允许驾驶员手动填写燃油附加费和高速路桥费。其中，燃油附加费是否填写、具体填写多少，均由司机自行操作。相关费用计入乘客最终账单，若不主动点开收费明细，消费者很难发现异常。 事实上，早在2025年4月，就有一名杭州乘客发现自己通过滴滴叫到的新能源出租车被收取燃油附加费，随后拨打平台客服电话投诉。 客服表示需要核实情况，让乘客保持通话，但在长达8分13秒的等待音乐结束后，仍未给出答复，乘客最终挂断",
-     "source": "虎嗅",
-     "zh": "新能源车要收燃油附加费？滴滴出租车再现收费乱象"
-    },
-    {
-     "title": "2026 款理想 i6 智能座舱升级：支持苹果 CarPlay、华为 HiCar，更新 29 英寸 6K 全景屏",
-     "link": "https://www.ithome.com/1/014/152.htm",
-     "pubDate": "Fri, 16 Oct 2026 12:30:17 GMT",
-     "summary": "IT之家 10 月 16 日消息，理想汽车今日发布新一期答网友问，公布了关于 2026 款理想 i6 智能座舱的几大升级。 IT之家从官方介绍获悉，2026 款理想 i6 支持 Apple CarPlay、HUAWEI HiCar 和 ICCOA Carlink 。手机连上车机后，原车的车辆控制、驾驶信息、空调、座椅调节等功能照常可用，车机 App 和手机 App 之间也可以丝滑切换。 2026 款理想 i6 的 29 英寸 6K 全景屏，不只是把屏幕做得更大、更清楚，也重新考虑了主驾、副驾和停车休息时，大家各自最常用的体验。 开车时，信息看得更清楚：大卡片式桌面让常用信息一目了然；副驾无人或",
-     "source": "IT之家",
-     "zh": "2026 款理想 i6 智能座舱升级：支持苹果 CarPlay、华为 HiCar，更新 29 英寸 6K 全景屏"
     },
     {
      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
@@ -2000,14 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "Surprised by the hype around yet another documentary on Theranos fraudster Elizabeth Holmes? It has everything to do with this experimental comedian.",
      "source": "WIRED",
      "zh": "内森·菲尔德的虚幻世界新粉丝指南"
-    },
-    {
-     "title": "山姆全国第70家门店落地无锡；浴见北京首店开业；⻨⼦妈经销商⼤会释放加速扩张信号；10月20日晚8点天猫双11开卖｜消研所周报",
-     "link": "https://www.tmtpost.com/8171328.html",
-     "pubDate": "Fri, 16 Oct 2026 17:51:33 +0800",
-     "summary": "西木汀官宣任敏成为首位品牌代言人；lululemon以“made to feel感受为先”连续第三年再赴进博之约。",
-     "source": "钛媒体",
-     "zh": "山姆全国第70家门店落地无锡；浴见北京首店开业；⻨⼦妈经销商⼤会释放加速扩张信号；10月20日晚8点天猫双11开卖｜消研所周报"
     }
    ]
   },
@@ -2017,6 +2017,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
+     "link": "https://9to5mac.com/2026/10/16/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
+     "pubDate": "Fri, 16 Oct 2026 13:17:34 +0000",
+     "summary": "iPhone Duo is almost here, so if you want to get a head start on accessories for Apple’s new model, here are our top recommendations. more…",
+     "source": "9to5Mac",
+     "zh": "iPhone Duo 配件：以下是苹果可折叠设备的五款首选配件"
+    },
+    {
+     "title": "YouTube’s new search feature takes a page from Google Search, and that’s bad news for creators",
+     "link": "https://www.androidauthority.com/youtube-ask-youtube-desktop-search-test-3724434/",
+     "pubDate": "Fri, 16 Oct 2026 13:11:41 +0000",
+     "summary": "Ask YouTube search previews will spoon-feed you answers before you even click on a video.",
+     "source": "Android Authority",
+     "zh": "YouTube 的新搜索功能借鉴了 Google 搜索的页面，这对创作者来说是个坏消息"
+    },
     {
      "title": "Technics EAH-A1000 review: Superior sound and excellent ANC in a premium package",
      "link": "https://www.engadget.com/2288638/technics-eah-a1000-review/",
@@ -2112,14 +2128,6 @@ window.INDUSTRY_DATA = {
      "summary": "Always check the details on apps you're downloading.",
      "source": "Android Authority",
      "zh": "继 Chrome 之后，我们现在在 Play 商店中推出了一款 WhatsApp 欺骗版，下载量超过 500,000 次"
-    },
-    {
-     "title": "Google Translate’s massive redesign is rolling out now",
-     "link": "https://www.androidauthority.com/google-translate-redesign-rollout-3724296/",
-     "pubDate": "Fri, 16 Oct 2026 11:14:56 +0000",
-     "summary": "We’re noticing some changes from the initial redesign spotted in July, but a large part of it remains unchanged.",
-     "source": "Android Authority",
-     "zh": "谷歌翻译的大规模重新设计现已推出"
     },
     {
      "title": "Redmi K100 confirmed to launch this month, Redmi Clip Neo to tag along",
@@ -2248,14 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "While Apple is rumored to be gearing up to introduce an OLED iPad mini later this month, an oversight on the company’s French site might have just confirmed the product’s existence. Here are the details. more…",
      "source": "9to5Mac",
      "zh": "苹果在传闻发布前列出了未发布的 iPad mini 配件"
-    },
-    {
-     "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
-     "link": "https://sspai.com/post/116355",
-     "pubDate": "Fri, 16 Oct 2026 08:23:12 +0800",
-     "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。 查看全文",
-     "source": "少数派",
-     "zh": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本"
     }
    ]
   },
@@ -2266,12 +2266,148 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "BofA highlights deteriorating market breadth and near-term risk caution",
-     "link": "https://seekingalpha.com/news/4653815-bofa-highlights-deteriorating-market-breadth-and-near-term-risk-caution?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 09:03:35 -0400",
+     "title": "生存还是毁灭？德银：AI大潮下，企业“要么改变，要么死亡”，没有中间路线",
+     "link": "https://wallstreetcn.com/articles/3783805",
+     "pubDate": "Fri, 16 Oct 2026 21:26:40 +0800",
+     "summary": "人工智能正在重塑每一个行业的竞争格局，而德意志银行警告，真正的风险并非AI交易整体退潮，而是AI将把每个行业的企业切割成截然对立的两类：采纳者与出局者。 德意志银行研究院在一份题为《AI繁荣还是末日：超级智能将带来什么感受，何时到来》的20页报告中指出，随着AI能力持续跃升，企业将被迫分化为\"双峰\"格局—— 采纳者与出局者之间几乎不存在中间地带。 报告援引前谷歌CEO Eric Schmidt提出的\"旧金山共识\"——即硅谷主流观点认为，通过规模化定律与AI自我迭代，超级智能将于2030年前后到来——并据此推演出对投资组合的深远冲击。 这一判断的直接市场含义是：传统投资组合管理的三大基石——分散",
+     "source": "华尔街见闻",
+     "zh": "生存还是毁灭？德银：AI大潮下，企业“要么改变，要么死亡”，没有中间路线"
+    },
+    {
+     "title": "Investors have reversed all global AI net buying since 2025 – Goldman Sachs Prime Book",
+     "link": "https://seekingalpha.com/news/4653826-investors-have-reversed-all-global-ai-net-buying-since-2025-goldman-sachs-prime-book?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 09:24:22 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "美国银行强调市场广度不断恶化和近期风险谨慎"
+     "zh": "投资者已逆转 2025 年以来全球人工智能净买入 – 高盛 Prime Book"
+    },
+    {
+     "title": "美国国债收益率在最新经济数据公布后进一步上涨",
+     "link": "http://hk.eastmoney.com/news/1533,202610163898637487.html",
+     "pubDate": "Fri, 16 Oct 2026 21:22:40 +0800",
+     "summary": "美国国债收益率在最新经济数据公布后进一步上涨；10年期国债收益率上升3.8个基点，报5.125%。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "美国国债收益率在最新经济数据公布后进一步上涨"
+    },
+    {
+     "title": "CoreWeave drops even as Cantor Fitzgerald joins 'buy the dip' crowd",
+     "link": "https://seekingalpha.com/news/4653819-coreweave-drops-even-as-cantor-fitzgerald-joins-buy-the-dip-crowd?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 09:22:04 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "尽管 Cantor Fitzgerald 加入“逢低买入”行列，CoreWeave 仍下跌"
+    },
+    {
+     "title": "Apple's iPhone Duo demand pushes delivery dates to late January",
+     "link": "https://seekingalpha.com/news/4653810-apples-iphone-duo-demand-pushes-delivery-dates-to-late-january?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 09:21:32 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "苹果 iPhone Duo 需求将交付日期推迟至 1 月底"
+    },
+    {
+     "title": "瑞典首相克里斯特松：欧盟气候政策核心是碳排放交易体系，必须予以维护",
+     "link": "http://hk.eastmoney.com/news/1533,202610163898636365.html",
+     "pubDate": "Fri, 16 Oct 2026 21:20:44 +0800",
+     "summary": "瑞典首相克里斯特松：欧盟气候政策核心是碳排放交易体系，必须予以维护。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "瑞典首相克里斯特松：欧盟气候政策核心是碳排放交易体系，必须予以维护"
+    },
+    {
+     "title": "Nvidia stock pullback a buying opportunity, says Dan Ives",
+     "link": "https://seekingalpha.com/news/4653817-nvidia-stock-pullback-a-buying-opportunity-says-dan-ives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 09:19:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "丹·艾夫斯表示，英伟达股价回调是买入机会"
+    },
+    {
+     "title": "【调研快报】天孚通信接待安信基金等74家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610163898635788.html",
+     "pubDate": "Fri, 16 Oct 2026 21:19:12 +0800",
+     "summary": "天孚通信 10月16日公告称， 10月16日 接待安信基金 等74家机构 调研。 接待人员包括董事会秘书、副总经理 陈凯荣,证券部工作人员。 公司就以下问题进行了回复： 1. 问: 请介绍公司三、四季度业务订单及关键物料供给情况。 答:公司第二季度末开始有源光器件关键瓶颈物料供给情况较上半年有所改善,预计相关供应改善对公司经营业绩的积极影响将在未来几个季度逐步释放。 无源光器件方面,受行业需求持续增长带动,公司相关业务保持良好发展态势。公司正结合客户需求... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息",
+     "source": "东方财富股票",
+     "zh": "【调研快报】天孚通信接待安信基金等74家机构调研"
+    },
+    {
+     "title": "加码半导体材料，688545拟募资扩产",
+     "link": "http://finance.eastmoney.com/news/1354,202610163898637031.html",
+     "pubDate": "Fri, 16 Oct 2026 21:19:03 +0800",
+     "summary": "兴福电子 （688545）拟加码 半导体 关键材料产能建设。 10月16日晚，公司披露2026年度以简易程序向特定对象发行A股股票预案，拟募资不超过2.6亿元，扣除发行费用后全部用于4万吨/年 电子 级磷酸项目。公司表示，现有 电子 级磷酸产线产能利用率已处于较高水平，扩产有望提升对下游客户增量需求的保障能力。 扩产瞄准 半导体 材料增量需求 公告披露，公司4万吨/年 电子 级磷酸项目总投资为4.8亿元，拟使用募集资金2.6亿元，项目建设期为2年。 电子级磷酸是集成电路晶圆制造中氮化硅刻蚀或去除环节的关键材料，也是高选择性磷酸蚀刻液、金属 钨 去除液等功能湿电子化学品的重要配方原料。随着国内晶",
+     "source": "东方财富股票",
+     "zh": "加码半导体材料，688545拟募资扩产"
+    },
+    {
+     "title": "Industrial production growth accelerates more than expected in September",
+     "link": "https://seekingalpha.com/news/4653821-industrial-production-growth-accelerates-more-than-expected-in-september?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 09:18:57 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "9月工业生产增速超预期"
+    },
+    {
+     "title": "Gap faces an Old Navy problem — Needham",
+     "link": "https://seekingalpha.com/news/4653812-gap-faces-an-old-navy-problem---needham?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 09:18:48 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gap 面临着老海军的问题——Needham"
+    },
+    {
+     "title": "美国最大电网运营商PJM发布预警",
+     "link": "http://finance.eastmoney.com/news/1351,202610163898636163.html",
+     "pubDate": "Fri, 16 Oct 2026 21:18:21 +0800",
+     "summary": "美国最大电网运营商PJM发布预警，提示10月19日电网供应将趋紧。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国最大电网运营商PJM发布预警"
+    },
+    {
+     "title": "美国9月制造业产能利用率75.9%，前值75.7%",
+     "link": "http://hk.eastmoney.com/news/1533,202610163898635079.html",
+     "pubDate": "Fri, 16 Oct 2026 21:18:04 +0800",
+     "summary": "美国9月制造业产能利用率75.9%，前值75.7%。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "美国9月制造业产能利用率75.9%，前值75.7%"
+    },
+    {
+     "title": "巴克莱：AI交易“最佳阶段”已过，芯片股暴跌是仓位出清而非基本面崩塌",
+     "link": "https://wallstreetcn.com/articles/3783804",
+     "pubDate": "Fri, 16 Oct 2026 21:17:14 +0800",
+     "summary": "AI交易动摇之际，市场将目光投向即将到来的财报季，寻找这场史无前例的科技投资浪潮能否兑现回报的答案。 Meta Platforms将率先在下周公布季度业绩，成为超大规模科技公司中首个接受市场检验的\"AI资本开支样本\"。 高盛预测， 包括Meta在内的五大超大规模公司明年合计资本支出将升至约1.2万亿美元，投资者迫切希望从Meta财报中寻找这些巨额投入能否转化为可持续盈利的信号 。与此同时，费城半导体指数本月已累计下跌8%，AI云计算公司CoreWeave因约500亿美元债务引发的融资风险警报，令市场情绪愈发脆弱。 在此背景下，Meta财报的意义已远超单一公司业绩本身——它将为后续科技巨头财报定",
+     "source": "华尔街见闻",
+     "zh": "巴克莱：AI交易“最佳阶段”已过，芯片股暴跌是仓位出清而非基本面崩塌"
+    },
+    {
+     "title": "英伟达押注智能体PC，能否撬动换机需求？",
+     "link": "http://www.eeo.com.cn/2026/1016/1067337.shtml",
+     "pubDate": "Fri, 16 Oct 2026 21:13:12 +0800",
+     "summary": "21世纪经济报道记者 彭新 在英伟达首席执行官黄仁勋宣布与微软合作推出RTX Spark平台四个月后，首批RTX Spark电脑正式与市场见面。 该平台获得微软及联想、华硕、戴尔、惠普等OEM厂商的大力支持，多家公司已发布基于RTX Spark芯片的新款电脑。作为AI领域的霸主，英伟达在RTX Spark芯片上整合了最新半导体技术与生态成果，尽管仍在试水市场，公司却自信地将其定位为“Windows PC的新序章”。 规格上，RTX S...",
+     "source": "经济观察网",
+     "zh": "英伟达押注智能体PC，能否撬动换机需求？"
+    },
+    {
+     "title": "2027年7月起实施！电动摩托车锂电池强制性国标发布",
+     "link": "http://www.eeo.com.cn/2026/1016/1067336.shtml",
+     "pubDate": "Fri, 16 Oct 2026 21:13:07 +0800",
+     "summary": "中新经纬10月16日电 据国家市场监管总局网站16日消息，近日，市场监管总局(国家标准委)批准发布《电动摩托车和电动轻便摩托车用锂离子电池安全要求》(GB 36672—2026)强制性国家标准，将自2027年7月1日起实施。 市场监管总局表示，近年来，我国电动摩托车产业快速发展，锂离子电池在电动摩托车上应用日益广泛，相关安全风险也随之上升。为进一步提升电动摩托车锂离子电池安全技术水平，市场监管总局会同工业和信息化部加...",
+     "source": "经济观察网",
+     "zh": "2027年7月起实施！电动摩托车锂电池强制性国标发布"
+    },
+    {
+     "title": "经济观察报 第1292期",
+     "link": "http://www.eeo.com.cn/2026/1016/1067333.shtml",
+     "pubDate": "Fri, 16 Oct 2026 21:08:18 +0800",
+     "summary": "经济观察报 第1292期",
+     "source": "经济观察网",
+     "zh": "经济观察报 第1292期"
+    },
+    {
+     "title": "10月16日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202610163898564480.html",
+     "pubDate": "Fri, 16 Oct 2026 21:00:13 +0800",
+     "summary": "热点聚焦 绿色发展 ： 中共中央总书记、国家主席、中央军委主席习近平16日在内蒙古自治区乌兰察布市考察时强调， 绿色发展是高质量发展的应有之义，要统筹高质量发展和高水平保护 ，坚持山水林田湖草沙一体化保护和系统治理，协同推进降碳、减污、扩绿、增长，坚定不移走生态优先、绿色发展之路。 国务院常务会议 ： 李强主持召开国务院常务会议。会议指出， 人工智能 是影响未来发展的关键变量，要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发， 注重以落地应用牵引技术创新，不断深化拓展“ 人工智能 +”行动 。要夯实发展底座，加强技术攻关和算法创新促进算电协同，增加高质量数据供给，着力补短板、锻长板。",
+     "source": "东方财富资讯",
+     "zh": "10月16日东方财富财经晚报（附新闻联播）"
     },
     {
      "title": "Finextra & ACI Worldwide launch global survey report: ‘Payments 2030: The Payoff Year’",
@@ -2282,28 +2418,20 @@ window.INDUSTRY_DATA = {
      "zh": "Finextra 和 ACI Worldwide 发布全球调查报告：“支付 2030：回报年”"
     },
     {
+     "title": "下周Meta财报成AI资本开支试金石，万亿支出能否换来回报面临首次大考",
+     "link": "https://wallstreetcn.com/articles/3783801",
+     "pubDate": "Fri, 16 Oct 2026 20:59:18 +0800",
+     "summary": "AI交易动摇之际，市场将目光投向即将到来的财报季，寻找这场史无前例的科技投资浪潮能否兑现回报的答案。 Meta将率先在下周公布季度业绩，成为超大规模科技公司中首个接受市场检验的\"AI资本开支样本\"。 高盛预测， 包括Meta在内的五大超大规模公司明年合计资本支出将升至约1.2万亿美元，投资者迫切希望从Meta财报中寻找这些巨额投入能否转化为可持续盈利的信号 。与此同时，费城半导体指数本月已累计下跌8%，AI云计算公司CoreWeave因约500亿美元债务引发的融资风险警报，令市场情绪愈发脆弱。 在此背景下，Meta财报的意义已远超单一公司业绩本身——它将为后续科技巨头财报定下基调，并直接考验市",
+     "source": "华尔街见闻",
+     "zh": "下周Meta财报成AI资本开支试金石，万亿支出能否换来回报面临首次大考"
+    },
+    {
      "title": "报道：CoreWeave三位创始人在股价崩跌前套现33亿美元",
      "link": "https://wallstreetcn.com/articles/3783800",
      "pubDate": "Fri, 16 Oct 2026 20:58:54 +0800",
      "summary": "CoreWeave三位联合创始人在公司股价崩跌前累计套现逾33亿美元，而当前该公司债券已跌入困境区间，信用违约互换利差飙至历史高位，市场对其偿债能力的担忧急剧升温。 据彭博对公司申报文件的统计， Michael Intrator、Brian Venturo和Brannin McBee三人自2025年3月IPO以来持续大规模减持，仅2026年一年合计套现即达24亿美元。 与此同时，CoreWeave股价较5月峰值已累计下跌逾50%，创始人账面财富蒸发约150亿美元。 公司债务压力正加速显现。截至本周末，CoreWeave 2032年到期的9.625%无担保债券跌至面值约76美分，已触及市场通常定",
      "source": "华尔街见闻",
      "zh": "报道：CoreWeave三位创始人在股价崩跌前套现33亿美元"
-    },
-    {
-     "title": "Alector rises after pricing $75M equity offering",
-     "link": "https://seekingalpha.com/news/4653816-alector-stock-rises-pricing-equity-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 08:58:45 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alector 定价 7500 万美元后股价上涨"
-    },
-    {
-     "title": "4 stocks to watch on Friday: NFLX, WDAY, CRCL, and FOXA",
-     "link": "https://seekingalpha.com/news/4653813-4-stocks-to-watch-on-friday-nflx-wday-crcl-and-foxa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 08:58:12 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "周五值得关注的 4 只股票：NFLX、WDAY、CRCL 和 FOXA"
     },
     {
      "title": "上线了！2027见闻历超值预售99元，活动火热进行中！",
@@ -2322,36 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "换电负责人兼管乘用车，宁德时代的新考题"
     },
     {
-     "title": "Anthropic's reported Q3 revenue not a sign of AI slowing down, Wedbush says",
-     "link": "https://seekingalpha.com/news/4653811-anthropics-reported-q3-revenue-not-a-sign-of-ai-slowing-down-wedbush-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 08:52:47 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Wedbush 表示，Anthropic 报告的第三季度收入并不表明人工智能放缓"
-    },
-    {
      "title": "官方：加快研究出台煤炭增产保供系列政策举措",
      "link": "http://www.eeo.com.cn/2026/1016/1067292.shtml",
      "pubDate": "Fri, 16 Oct 2026 20:52:05 +0800",
      "summary": "中新经纬10月16日电 据国家能源局网站消息，10月16日，国家发展改革委、国家能源局会同有关部门在山西太原召开加快煤矿复产增产保供工作推进会。 会议要求山西省加快停产煤矿复工复产，在确保安全的基础上全力增加煤炭供应，促进煤炭市场平稳运行。要“一矿一策”制定复产计划，优化复产验收程序，推动临时停产煤矿加快复产。要督促复产煤矿优化生产组织，尽快达产满产，将煤炭产量提升至正常水平。要强化每日监测调度，...",
      "source": "经济观察网",
      "zh": "官方：加快研究出台煤炭增产保供系列政策举措"
-    },
-    {
-     "title": "Wedgewood Partners adds TJX and exits CPRT",
-     "link": "https://seekingalpha.com/news/4653807-wedgewood-partners-adds-tjx-and-exits-cprt?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 08:49:48 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Wedgewood Partners 增加 TJX 并退出 CPRT"
-    },
-    {
-     "title": "Strategy stock dips after MSCI announces results of consultation on new index rules",
-     "link": "https://seekingalpha.com/news/4653799-strategy-stock-dips-after-msci-announces-results-of-consultation-on-new-index-rules?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 08:48:39 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "MSCI 宣布新指数规则咨询结果后策略股下跌"
     },
     {
      "title": "苹果折叠屏iPhone Duo今晚开售“秒没” 最高溢价超7000元",
@@ -2386,14 +2490,6 @@ window.INDUSTRY_DATA = {
      "zh": "德明利：预计前三季度净利润86.5亿元-89.5亿元 同比扭亏为盈"
     },
     {
-     "title": "沃什曼谷发言“偏鸽”，市场押注美联储10月按兵不动，加息概率跌破15%",
-     "link": "https://wallstreetcn.com/articles/3783799",
-     "pubDate": "Fri, 16 Oct 2026 20:37:23 +0800",
-     "summary": "美联储主席沃什在曼谷的一番表态，令市场对本月加息的预期大幅降温。 周五上午，沃什在国际货币基金组织年会的一场对话活动中，对货币政策前景几乎未作具体表态，仅重申美联储致力于实现价格稳定。这一\"偏鸽\"姿态令投资者迅速调整押注—— 市场对美联储10月27日至28日政策会议加息的概率预期，从沃什发言前的约27%骤降至15%以下。 美股期货随之扩大涨幅，标普500指数期货转跌为涨，上涨0.2%，美元则小幅走低。 沃什的表态强化了外界对美联储将在10月暂停加息的预判。高盛首席经济学家Jan Hatzius领衔的团队在研报中指出，结合近期联邦公开市场委员会（FOMC）其他官员的表态，沃什此次讲话进一步表明美",
-     "source": "华尔街见闻",
-     "zh": "沃什曼谷发言“偏鸽”，市场押注美联储10月按兵不动，加息概率跌破15%"
-    },
-    {
      "title": "Fed&apos;s Warsh withholds rate signal, praises recent global tightening",
      "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
      "pubDate": "Fri, 16 Oct 2026 12:36:00 GMT",
@@ -2408,102 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "就在刚刚，正在筹备“史上最大IPO”的AI巨头Anthropic，传出了一个坏消息：投资者可能不再愿意给它此前那么高的估值了。 据路透社报道，在Anthropic最新财务数据披露后，一些现有投资者和潜在IPO投资者表示，正在考虑调低对这家公司的估值。同时，市场也越来越担心：AI公司融资越来越贵，烧钱压力越来越大。 据报道，三位知情人士称，在旧金山举行的Anthropic投资者说明会上，部分投资者讨论的估值约为1.5万亿美元，这比此前预期的约2万亿美元估值大幅下调。 或受该消息影响，周五美股盘前，AI硬件相关股票多数跳水。截至记者发稿， SK海力士 跌超3%， 闪迪 、 美光科技 、 西部数据 ",
      "source": "东方财富资讯",
      "zh": "集体跳水！大幅下调！史上最大IPO重大变数"
-    },
-    {
-     "title": "保乐力加中国的“剪刀差”：动销转正，销售额下跌25%",
-     "link": "http://www.eeo.com.cn/2026/1016/1067283.shtml",
-     "pubDate": "Fri, 16 Oct 2026 20:35:46 +0800",
-     "summary": "中国和美国作为保乐力加的两大市场依旧承压。新财年首个季度，保乐力加在第一大市场美国的净销售额同比下滑10%，在中国市场的净销售额同比下滑25%",
-     "source": "经济观察网",
-     "zh": "保乐力加中国的“剪刀差”：动销转正，销售额下跌25%"
-    },
-    {
-     "title": "嘉宝米粉在美国遭遇诉讼，雀巢中国作出回应",
-     "link": "http://www.eeo.com.cn/2026/1016/1067277.shtml",
-     "pubDate": "Fri, 16 Oct 2026 20:26:12 +0800",
-     "summary": "21世纪经济报道记者 万倩倩 一场发生在美国的婴幼儿食品诉讼，让雀巢旗下品牌嘉宝再次陷入争议。 近日，美国得克萨斯州总检察长肯·帕克斯顿宣布，对嘉宝公司及雀巢集团提起诉讼，指控其明知部分婴幼儿食品及原料中含有较多的砷、铅等有害物质，却仍向消费者宣传产品安全、经过严格检测。 消息很快传至国内。嘉宝在中国市场销售的产品是否涉及相关风险，也成为消费者关心的问题。 10月16日，雀巢中国相...",
-     "source": "经济观察网",
-     "zh": "嘉宝米粉在美国遭遇诉讼，雀巢中国作出回应"
-    },
-    {
-     "title": "国富资本熊焰：AI将在5至10年内重塑金融业务范式",
-     "link": "http://www.eeo.com.cn/2026/1016/1067276.shtml",
-     "pubDate": "Fri, 16 Oct 2026 20:26:05 +0800",
-     "summary": "上证报中国证券网讯（记者 钱佳滢）在10月16日举办的“全球财富管理论坛·2026上海苏河湾大会”上，国富资本董事长熊焰表示，金融的本质是跨时空价值交换，大量场景属于非创造性知识的生产与交换，因此金融具备被AI重构的潜力。这一变革不会一蹴而就，预计在未来5至10年内，金融业务范式、业务模型与组织结构等都将迎来重塑。熊焰认为，AI大模型的发展之所以备受关注，是因为其具备了过往机器所不具备的特征，突破了传统机器输出小...",
-     "source": "经济观察网",
-     "zh": "国富资本熊焰：AI将在5至10年内重塑金融业务范式"
-    },
-    {
-     "title": "Europe&apos;s answer to SpaceX pops 19% as Ukraine&apos;s Starshield limits raise concerns",
-     "link": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
-     "pubDate": "Fri, 16 Oct 2026 12:16:24 GMT",
-     "summary": "Eutelsat's shares soared this week and continued climbing on Friday as its competitor Starshield drew criticism over its limitations in Ukraine.",
-     "source": "CNBC",
-     "zh": "乌克兰星盾限制引发担忧，欧洲对 SpaceX 的回应激增 19%"
-    },
-    {
-     "title": "EU vows to maintain Russia sanctions after US pivot",
-     "link": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798?syn-25a6b1a6=1",
-     "pubDate": "Fri, 16 Oct 2026 12:14:48 GMT",
-     "summary": "European leaders close ranks around Volodymyr Zelenskyy following Donald Trump’s fuel deal with Moscow",
-     "source": "Financial Times",
-     "zh": "美国转向后欧盟誓言维持对俄罗斯制裁"
-    },
-    {
-     "title": "四部门组织重点汽车生产企业开展座谈 加强汽车产品创新设计和研发测试验证管理",
-     "link": "http://www.eeo.com.cn/2026/1016/1067273.shtml",
-     "pubDate": "Fri, 16 Oct 2026 20:13:22 +0800",
-     "summary": "据工业和信息化部10月16日消息，为深入开展道路机动车辆产品生产一致性和质量提升专项行动（以下简称质量提升专项行动），进一步提升汽车产品安全技术性能，维护公共安全和公民生命财产安全，10月15日，工业和信息化部装备工业一司、公安部交通管理局、生态环境部大气环境司、市场监管总局质量发展局（以下简称四部门相关司局）组织30余家重点汽车生产企业开展座谈，解读《工业和信息化部 公安部 生态环境部 市场监管总局关于进一...",
-     "source": "经济观察网",
-     "zh": "四部门组织重点汽车生产企业开展座谈 加强汽车产品创新设计和研发测试验证管理"
-    },
-    {
-     "title": "ECB approves Unicredit's bid for control of Commerzbank",
-     "link": "https://www.finextra.com/newsarticle/48598/ecb-approves-unicredits-bid-for-control-of-commerzbank?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 16 Oct 2026 12:01:00 GMT",
-     "summary": "Italian bank Unicredit has secured approval from the European Central Bank (ECB) to take a controlling stake in Germany's Commerzbank.",
-     "source": "Finextra",
-     "zh": "欧洲央行批准联合信贷银行收购德国商业银行的控制权"
-    },
-    {
-     "title": "商务部新闻发言人就欧盟峰会提出对华“双轨”思路答记者问",
-     "link": "http://finance.eastmoney.com/news/1345,202610163898560752.html",
-     "pubDate": "Fri, 16 Oct 2026 20:00:45 +0800",
-     "summary": "问： 据媒体报道，欧盟认为其在混动 汽车 磋商中对华施压取得成效，拟在更多行业采取限制。近日召开的欧盟峰会提出对华“双轨”思路，将在继续开展密集磋商的同时，加大对华限制力度，甚至包括动用“反胁迫”工具。请问中方对此有何评论？ 答： 中方注意到有关报道。中欧按照双方确定的遵守世贸组织规则、基于事实和非歧视的三项原则，就混动 汽车 达成的谅解是对等互利的，既有力维护了中国企业的实际利益，也回应了欧方关切，避免了中欧贸易摩擦局面升级。所谓“欧方施压奏效”的说法毫无依据。 中欧经贸磋商的目的就是要通过对话协商妥处分歧，照顾彼此关切。双方都要拿出解决问题的诚意。欧方不能幻想以施压换取好处，更不要低估中方",
-     "source": "东方财富资讯",
-     "zh": "商务部新闻发言人就欧盟峰会提出对华“双轨”思路答记者问"
-    },
-    {
-     "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
-     "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 12:00:00 GMT",
-     "summary": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
-     "source": "MarketWatch",
-     "zh": "苹果的可折叠 iPhone Duo 值 2000 美元吗？看看它与其他可折叠手机相比如何。"
-    },
-    {
-     "title": "EBAday 2027: Fintech Zone applications now open",
-     "link": "https://www.finextra.com/newsarticle/48595/ebaday-2027-fintech-zone-applications-now-open?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 16 Oct 2026 12:00:00 GMT",
-     "summary": "Are you an early-stage fintech ready to put your innovation in front of Europe's leading banking and payments executives?",
-     "source": "Finextra",
-     "zh": "EBAday 2027：金融科技区申请现已开放"
-    },
-    {
-     "title": "Tesla unveils long-delayed Roadster, showing off its flying-car ambitions",
-     "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-     "pubDate": "Fri, 16 Oct 2026 11:57:48 GMT",
-     "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
-     "source": "CNBC",
-     "zh": "特斯拉推出拖延已久的 Roadster，展示其飞行汽车雄心"
-    },
-    {
-     "title": "车企高管谈特斯拉“会飞的跑车” 李斌：这个我们真没有 何小鹏直言“非常酷”",
-     "link": "http://finance.eastmoney.com/news/1345,202610163898560110.html",
-     "pubDate": "Fri, 16 Oct 2026 19:56:49 +0800",
-     "summary": "10月16日， 特斯拉 第二代Roadster跑车展示的“飞行”能力，引发国内 汽车 行业关注。 小鹏集团 董事长、CEO何小鹏以及 蔚来 创始人、董事长、CEO李斌先后公开回应。与此同时，A股飞行 汽车 等概念股集体走强， 特斯拉 美股盘前股价也一度上涨近5%。 图片来源： 特斯拉 官方直播 何小鹏公开评价称，Roadster是“非常酷的另外一种形态飞行 汽车 ”。不过，他同时指出，能否真正落地，还要看飞行安全、飞行参数（例如续航）等具体指标。所有厂商都无法绕开飞行认证（TC等），这在全球范围内都是一项长期工作，并期待相关认证进程能够加快。 李斌则在 微博 转发Roadster现场视频并表示",
-     "source": "东方财富资讯",
-     "zh": "车企高管谈特斯拉“会飞的跑车” 李斌：这个我们真没有 何小鹏直言“非常酷”"
     }
    ]
   },
@@ -2513,6 +2513,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+     "link": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+     "pubDate": "Fri, 16 Oct 2026 13:25:08 +0000",
+     "summary": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
+     "source": "Quanta Magazine",
+     "zh": "他希望人工智能基准测试成为一门科学，而不是一门黑暗艺术"
+    },
     {
      "title": "Artemis II results show how much science people can do at the moon",
      "link": "https://www.sciencenews.org/article/artemis-ii-human-moon-science",
@@ -2744,14 +2752,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
      "source": "Ars Technica Science",
      "zh": "研究人员利用人工智能设计能够切割其他蛋白质的蛋白质"
-    },
-    {
-     "title": "Can math stay human in the age of AI?",
-     "link": "https://www.sciencenews.org/article/math-human-ai-age",
-     "pubDate": "Wed, 14 Oct 2026 17:00:00 +0000",
-     "summary": "As AI churns out mathematical proofs, a DeepMind study raises a bigger question: What do we lose when we focus only on the answers?",
-     "source": "Science News",
-     "zh": "人工智能时代，数学还能保持人性吗？"
     }
    ]
   }

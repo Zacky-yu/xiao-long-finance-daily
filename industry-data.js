@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 04:09:51",
+ "generated_at": "2026/10/17 04:29:41",
  "recent_days": 7,
  "industries": [
   {
@@ -661,7 +661,7 @@ window.INDUSTRY_DATA = {
      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
      "pubDate": "Fri, 16 Oct 2026 19:40:00 +0000",
-     "summary": "Maybe it was the grey color, the slightly bulbous roofline, or the vaguely SUV-like proportions of the electric Porsche Macan, but as I shuttled kids and groceries around city and suburban streets, I never once noticed a longing stare from other drivers. Unlike with other cars I’ve tested, no enthus",
+     "summary": "The 2027 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
      "source": "TechCrunch Transport",
      "zh": "保时捷电动 Macan Turbo 是一场汽车生存危机"
     },
@@ -1098,6 +1098,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Danaher, Nvidia Combine Lab Instrumentation and AI to Advance Autonomous Science",
+     "link": "https://www.genengnews.com/topics/artificial-intelligence/danaher-nvidia-combine-lab-instrumentation-and-ai-to-advance-autonomous-science/",
+     "pubDate": "Fri, 16 Oct 2026 20:13:04 +0000",
+     "summary": "Danaher and Nvidia are collaborating to advance autonomous science, combining lab instrumentation, automation, and software with accelerated computing and AI so that experiments inform models and models help design better experiments. The post Danaher, Nvidia Combine Lab Instrumentation and AI to Ad",
+     "source": "GEN",
+     "zh": "丹纳赫和 Nvidia 结合实验室仪器和人工智能来推进自主科学"
+    },
+    {
      "title": "Designing the Ecosystem for CGT Success",
      "link": "https://www.genengnews.com/resources/ebooks/designing-the-ecosystem-for-cgt-success/",
      "pubDate": "Fri, 16 Oct 2026 17:21:49 +0000",
@@ -1266,14 +1274,6 @@ window.INDUSTRY_DATA = {
      "zh": "新发现的微外显子为自闭症谱系障碍的遗传根源提供了线索"
     },
     {
-     "title": "How Alzheimer’s Risk Gene APOE4 Disrupts Myelination",
-     "link": "https://www.genengnews.com/topics/translational-medicine/how-alzheimers-risk-gene-apoe4-disrupts-myelination/",
-     "pubDate": "Thu, 15 Oct 2026 17:07:16 +0000",
-     "summary": "Study linked the APOE4 gene with suppression of Wnt signaling in the oligodendrocyte cells that provide neurons with their fatty myelin insulation, and also demonstrated a potential approach to preventing disruption of myelination. The post How Alzheimer’s Risk Gene APOE4 Disrupts Myelination appear",
-     "source": "GEN",
-     "zh": "阿尔茨海默病风险基因 APOE4 如何破坏髓鞘形成"
-    },
-    {
      "title": "Belgian startup revives Galapagos CAR-T research",
      "link": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
      "pubDate": "Thu, 15 Oct 2026 11:55:00 -0400",
@@ -1297,6 +1297,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+     "link": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+     "pubDate": "Fri, 16 Oct 2026 20:14:39 +0000",
+     "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “M",
+     "source": "NASA",
+     "zh": "美国宇航局任命斯蒂芬·卡什·马歇尔太空飞行中心主任"
+    },
     {
      "title": "When not to watch a meteor shower — why I'm not staying up for the Orionids",
      "link": "https://www.space.com/stargazing/when-not-to-watch-a-meteor-shower-why-im-not-staying-up-for-the-orionids",
@@ -1432,14 +1440,6 @@ window.INDUSTRY_DATA = {
      "summary": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets The post Oct. 29: Applying AI to the GEOINT Mission appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "10 月 29 日：将人工智能应用于 GEOINT 任务"
-    },
-    {
-     "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
-     "link": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
-     "pubDate": "Thu, 15 Oct 2026 19:58:08 +0000",
-     "summary": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’",
-     "source": "NASA",
-     "zh": "美国宇航局将在即将到来的任务中帮助解开火星卫星的奥秘"
     },
     {
      "title": "SpaceX launches a classified payload for U.S. Space Force",
@@ -1770,6 +1770,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Anthropic says Claude traced NIST&apos;s ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm (Anthropic)",
+     "link": "https://www.techmeme.com/261016/p20#a261016p20",
+     "pubDate": "Fri, 16 Oct 2026 16:25:02 -0400",
+     "summary": "Anthropic : Anthropic says Claude traced NIST's ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm &nbsp; &mdash;&nbsp; &ldquo;It's just timestamps&rdquo;: the decades-old mystery of the origins of one of the most popular cryp",
+     "source": "Techmeme",
+     "zh": "Anthropic 表示，Claude 将 NIST 的 ECDSA 曲线种子追溯到伪随机数生成器，挑战了数十年来对该算法中 NSA 后门的怀疑 (Anthropic)"
+    },
+    {
      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
      "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
      "pubDate": "Fri, 16 Oct 2026 20:05:08 +0000",
@@ -1786,10 +1794,18 @@ window.INDUSTRY_DATA = {
      "zh": "资料来源：软银考虑以约 18B 美元的股权估值收购美国安全服务巨头 Allied Universal，因为孙正义正在探索部署人工智能驱动的机器人（彭博社）"
     },
     {
+     "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+     "link": "https://bfl.ai/blog/flux-3-image-klein",
+     "pubDate": "Fri, 16 Oct 2026 19:47:13 +0000",
+     "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Flux 3 Image Klein：开放权重，5.6B 参数"
+    },
+    {
      "title": "The Fatal Flaw of 911",
      "link": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
      "pubDate": "Fri, 16 Oct 2026 19:33:00 +0000",
-     "summary": "Article URL: https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health Comments URL: https://news.ycombinator.com/item?id=50123356 Points: 10 # Comments: 5",
+     "summary": "Article URL: https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health Comments URL: https://news.ycombinator.com/item?id=50123356 Points: 16 # Comments: 12",
      "source": "Hacker News",
      "zh": "911的致命缺陷"
     },
@@ -1805,15 +1821,23 @@ window.INDUSTRY_DATA = {
      "title": "How the Claude Code team does code review",
      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
      "pubDate": "Fri, 16 Oct 2026 19:04:47 +0000",
-     "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 48 # Comments: 43",
+     "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 56 # Comments: 49",
      "source": "Hacker News",
      "zh": "Claude Code 团队如何进行代码审查"
+    },
+    {
+     "title": "You could have invented transformers from memory",
+     "link": "https://alexwang.ai/posts/associative-memory/",
+     "pubDate": "Fri, 16 Oct 2026 19:01:17 +0000",
+     "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "你本可以凭记忆发明变形金刚"
     },
     {
      "title": "Claude reveals ECDSA curve origins",
      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
      "pubDate": "Fri, 16 Oct 2026 18:55:59 +0000",
-     "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 243 # Comments: 96",
+     "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 287 # Comments: 114",
      "source": "Hacker News",
      "zh": "Claude 揭示 ECDSA 曲线起源"
     },
@@ -1826,28 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "Show HN：Stoke Money – 围绕现金流预测构建的个人理财应用程序"
     },
     {
-     "title": "C++26: The New Debugging Header",
-     "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-     "pubDate": "Fri, 16 Oct 2026 18:52:39 +0000",
-     "summary": "Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging Comments URL: https://news.ycombinator.com/item?id=50122736 Points: 10 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "C++26：新的调试头文件"
-    },
-    {
      "title": "The PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects (Lindsay Clark/The Register)",
      "link": "https://www.techmeme.com/261016/p17#a261016p17",
      "pubDate": "Fri, 16 Oct 2026 14:45:00 -0400",
      "summary": "Lindsay Clark / The Register : The PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects &nbsp; &mdash;&nbsp; Core devs revert up to 10 features, push release to November, and blame better tooling rather t",
      "source": "Techmeme",
      "zh": "在 LLM 辅助代码审查发现架构缺陷后，PostgreSQL 全球开发小组推迟了 PostgreSQL 19 的全面发布（Lindsay Clark/The Register）"
-    },
-    {
-     "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-     "link": "https://github.com/cobanov/PS5LM",
-     "pubDate": "Fri, 16 Oct 2026 18:32:35 +0000",
-     "summary": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 61 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "越狱 PS5 上的 Llama.cpp：在控制台上本地运行任何 GGUF 模型"
     },
     {
      "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
@@ -1986,14 +1994,6 @@ window.INDUSTRY_DATA = {
      "zh": "库克卸任苹果 CEO 后首次中国之行结束：期待下次再见"
     },
     {
-     "title": "In its first meeting, Trump&apos;s Super Intelligence Force says it plans to commission a report on AI risks and develop protocols for labs to provide early warnings (John Harney/Bloomberg)",
-     "link": "https://www.techmeme.com/261016/p14#a261016p14",
-     "pubDate": "Fri, 16 Oct 2026 10:55:01 -0400",
-     "summary": "John Harney / Bloomberg : In its first meeting, Trump's Super Intelligence Force says it plans to commission a report on AI risks and develop protocols for labs to provide early warnings &nbsp; &mdash;&nbsp; President Donald Trump's artificial intelligence task force in its first meeting agreed on T",
-     "source": "Techmeme",
-     "zh": "在第一次会议上，特朗普的超级情报部队表示，计划委托一份有关人工智能风险的报告，并为实验室制定提供早期预警的协议（约翰·哈尼/彭博社）"
-    },
-    {
      "title": "FADU 发布全球首款文件语义固态硬盘，支持加速器直接访问",
      "link": "https://www.ithome.com/1/014/182.htm",
      "pubDate": "Fri, 16 Oct 2026 14:47:04 GMT",
@@ -2017,6 +2017,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Android 17 QPR2 Beta 7.1 rolling out for Pixel",
+     "link": "https://9to5google.com/2026/10/16/android-17-qpr2-beta-7-1-pixel/",
+     "pubDate": "Fri, 16 Oct 2026 20:25:06 +0000",
+     "summary": "Google is rolling out Android 17 QPR2 Beta 7.1 today a week after the last preview for Pixel devices. more…",
+     "source": "9to5Google",
+     "zh": "Android 17 QPR2 Beta 7.1 面向 Pixel 推出"
+    },
+    {
+     "title": "High camera prices aren’t proof that camera makers are greedy",
+     "link": "https://www.dpreview.com/opinion/high-camera-prices-arent-proof-that-camera-makers-are-greedy/",
+     "pubDate": "Fri, 16 Oct 2026 20:17:09 +0000",
+     "summary": "Camera companies' appetite for profit hasn’t changed, but their costs have, and that’s what you’re seeing on the price tag.",
+     "source": "DPReview",
+     "zh": "高相机价格并不能证明相机制造商贪婪"
+    },
     {
      "title": "Report: Apple’s antitrust negotiations with the DOJ spark concerns of a weak settlement",
      "link": "https://9to5mac.com/2026/10/16/report-apples-antitrust-negotiations-with-the-doj-spark-concerns-of-a-weak-settlement/",
@@ -2186,14 +2202,6 @@ window.INDUSTRY_DATA = {
      "zh": "如果内存短缺持续下去，科技公司应该提供廉价的电池替代品"
     },
     {
-     "title": "iPhone Duo orders are delayed into 2027; here are the Android foldables you should try instead",
-     "link": "https://9to5google.com/2026/10/16/iphone-duo-pre-order-delay-android-foldable-alternatives/",
-     "pubDate": "Fri, 16 Oct 2026 16:10:00 +0000",
-     "summary": "The iPhone Duo is already delayed for months just hours after pre-orders have opened, leaving those interested in foldables unable to get Apple’s take anytime soon. If you’re seriously interested in a foldable, though, may I interest you in some Android alternatives? more…",
-     "source": "9to5Google",
-     "zh": "iPhone Duo 订单推迟至 2027 年；以下是您应该尝试的 Android 可折叠设备"
-    },
-    {
      "title": "Here’s the difference the variable aperture of the iPhone 18 Pro makes at night",
      "link": "https://9to5mac.com/2026/10/16/heres-the-difference-the-variable-aperture-of-the-iphone-18-pro-makes-at-night/",
      "pubDate": "Fri, 16 Oct 2026 16:00:00 +0000",
@@ -2248,14 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.",
      "source": "Engadget",
      "zh": "OpenAI 研究人员“窃取”以太坊测试来完成编码任务"
-    },
-    {
-     "title": "Steam Achievement Sets will stop DLCs from ruining your 100 percent record",
-     "link": "https://www.engadget.com/2288624/steam-achievement-sets-protect-100-percent-record-from-dlcs/",
-     "pubDate": "Fri, 16 Oct 2026 11:54:54 +0000",
-     "summary": "Steam has launched Achievement Sets in beta.",
-     "source": "Engadget",
-     "zh": "Steam 成就集将阻止 DLC 破坏您的 100% 记录"
     }
    ]
   },
@@ -2266,20 +2266,108 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "The stock market is pricing in ‘too many rate hikes’ – Allianz’s El-Erian",
+     "link": "https://seekingalpha.com/news/4654001-stock-market-is-pricing-in-too-many-rate-hikes-allianz-s-el-erian?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 16:26:51 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "安联的 El-Erian 表示，股市正在消化“太多的加息”"
+    },
+    {
+     "title": "Strategy drops 10% amid tech weakness",
+     "link": "https://seekingalpha.com/news/4653990-strategy-drops-10-amid-tech-weakness?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 16:25:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "由于技术疲软，策略下跌 10%"
+    },
+    {
+     "title": "Robo.ai announces 1-for-25 reverse stock split",
+     "link": "https://seekingalpha.com/news/4653994-roboai-announces-1-for-25-reverse-stock-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 16:25:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Robo.ai 宣布 25 股换 1 股反向股票分割"
+    },
+    {
+     "title": "Fort Technology receives Nasdaq minimum bid price deficiency notice",
+     "link": "https://seekingalpha.com/news/4653999-fort-technology-receives-nasdaq-minimum-bid-price-deficiency-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 16:20:52 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "堡科技收到纳斯达克最低投标价不足通知"
+    },
+    {
+     "title": "Canadian Gold Resources announces interim CEO transition",
+     "link": "https://seekingalpha.com/news/4653997-canadian-gold-resources-announces-interim-ceo-transition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 16:19:22 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "加拿大黄金资源公司宣布临时首席执行官过渡"
+    },
+    {
+     "title": "CoreWeave falls 12%, renews decline amid financing worries",
+     "link": "https://seekingalpha.com/news/4653991-coreweave-falls-12-renews-decline-amid-financing-worries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 16:18:51 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CoreWeave下跌12%，因融资担忧再度下跌"
+    },
+    {
+     "title": "美股行业ETF多数收跌 网络股ETF跌3.43% 能源ETF涨2.52%",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898801491.html",
+     "pubDate": "Sat, 17 Oct 2026 04:16:29 +0800",
+     "summary": "周五（10月16日），美股行业ETF多数收跌，网络股指数ETF跌3.43%， 半导体 ETF跌3.41%，科技行业ETF跌3.02%，全球科技股指数ETF跌2.88%，能源业ETF涨2.52%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美股行业ETF多数收跌 网络股ETF跌3.43% 能源ETF涨2.52%"
+    },
+    {
+     "title": "美国银行存款增至19.771万亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898801156.html",
+     "pubDate": "Sat, 17 Oct 2026 04:15:54 +0800",
+     "summary": "美国银行 存款从前一周的19.694万亿美元增至19.771万亿美元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国银行存款增至19.771万亿美元"
+    },
+    {
+     "title": "哥伦比亚央行官员预计今年经济增速2.5%至3%",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898800445.html",
+     "pubDate": "Sat, 17 Oct 2026 04:13:31 +0800",
+     "summary": "哥伦比亚央行官员莫伊萨预计，今年经济增速将在 2.5%至 3%之间，2027 年为 2%；2026年底通胀率为6.5%，2027年底为5%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "哥伦比亚央行官员预计今年经济增速2.5%至3%"
+    },
+    {
+     "title": "哥伦比亚央行官员称现在加息对通胀影响或不同",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898800537.html",
+     "pubDate": "Sat, 17 Oct 2026 04:13:27 +0800",
+     "summary": "哥伦比亚央行官员莫伊萨表示，现在加息可能不会像其他时候那样对通胀产生同样的影响。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "哥伦比亚央行官员称现在加息对通胀影响或不同"
+    },
+    {
+     "title": "哥伦比亚央行官员称比索升值弊大于利",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898800695.html",
+     "pubDate": "Sat, 17 Oct 2026 04:13:25 +0800",
+     "summary": "哥伦比亚央行官员：哥伦比亚比索升值弊大于利。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "哥伦比亚央行官员称比索升值弊大于利"
+    },
+    {
+     "title": "哥伦比亚央行官员称利率将在相当长一段时间内保持高位",
+     "link": "http://finance.eastmoney.com/news/1351,202610173898799963.html",
+     "pubDate": "Sat, 17 Oct 2026 04:12:50 +0800",
+     "summary": "哥伦比亚央行官员莫伊萨表示，利率将在“相当长一段时间内”保持高位。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "哥伦比亚央行官员称利率将在相当长一段时间内保持高位"
+    },
+    {
      "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
      "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
      "pubDate": "Fri, 16 Oct 2026 20:05:00 GMT",
      "summary": "Investors aren’t giving EchoStar enough credit for the value of its future SpaceX stake or its potential to strike more spectrum deals, an analyst argues.",
      "source": "MarketWatch",
      "zh": "摩根大通表示，EchoStar 的股票看起来像是乘着 SpaceX 浪潮的一种秘密方式"
-    },
-    {
-     "title": "U.S. equities tumbled lower and closed in the red as the tech selloff continued",
-     "link": "https://seekingalpha.com/news/4653974-us-equities-tumbled-lower-and-closed-in-the-red-as-the-tech-selloff-continued?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 16:03:34 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "随着科技股持续抛售，美国股市暴跌并收跌"
     },
     {
      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
@@ -2290,22 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "伊朗升级霍尔木兹袭击，布伦特原油触及110美元，乌克兰誓言打击俄罗斯炼油厂"
     },
     {
-     "title": "SA analyst sees record highs ahead despite tech selloff",
-     "link": "https://seekingalpha.com/news/4653969-sa-analyst-sees-new-record-highs-ahead-despite-tech-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 16:01:29 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "尽管科技股遭抛售，SA分析师预计仍将创历史新高"
-    },
-    {
-     "title": "Avino Silver & Gold raised to Buy at Roth on valuation, La Preciosa potential",
-     "link": "https://seekingalpha.com/news/4653973-avino-silver-and-gold-raised-to-buy-at-roth-on-valuation-la-preciosa-potential?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 15:58:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Avino Silver & Gold 因估值和 La Preciosa 潜力而在 Roth 上调至“买入”"
-    },
-    {
      "title": "美国2026财年预算赤字1.99万亿美元，增长12%，利息支出创纪录",
      "link": "https://wallstreetcn.com/articles/3783813",
      "pubDate": "Sat, 17 Oct 2026 03:57:17 +0800",
@@ -2314,44 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "美国2026财年预算赤字1.99万亿美元，增长12%，利息支出创纪录"
     },
     {
-     "title": "Air Canada, United to add routes, increase flight capacity in 2027",
-     "link": "https://seekingalpha.com/news/4653970-air-canada-united-to-add-routes-increase-flight-capacity-in-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 15:54:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "加拿大航空和美联航将在 2027 年增加航线并增加航班运力"
-    },
-    {
-     "title": "5年市场规模“腰斩” MMORPG吸金能力为何下滑？",
-     "link": "http://finance.eastmoney.com/news/1373,202610173898796756.html",
-     "pubDate": "Sat, 17 Oct 2026 03:49:37 +0800",
-     "summary": "中经记者许心怡吴可仲上海报道 “内购收入下滑47%，下载量下降40%。”10月8日，游戏行业调研机构Naavik撰文指出，2021—2025年，全球移动端MMORPG（大型多人在线角色扮演游戏）正在经历一场崩塌。 在国内市场，虽然国产MMORPG产品质量跃升，商业模式更为亲民，但更丰富的内容、更精美的画面、更低的付费门槛，却没有在用户参与度和忠诚度上有正向体现。根据Naavik的数据，2021—2025年， 中国移动 端MMORPG市场规模减少12亿美元，跌幅达61%。 整体收入萎缩 Naavik的分析显示，2021—2025年，全球移动端MMORPG的内购收入从53亿美元降至28亿美元，减少",
-     "source": "东方财富股票",
-     "zh": "5年市场规模“腰斩” MMORPG吸金能力为何下滑？"
-    },
-    {
      "title": "Katie Zacharia out as Trump&apos;s White House press secretary",
      "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
      "pubDate": "Fri, 16 Oct 2026 19:47:26 GMT",
      "summary": "Zacharia was on shaky ground from her first White House press conference, and over questions about her claims of being a lawyer despite not passing a bar exam.",
      "source": "CNBC",
      "zh": "凯蒂·扎卡里亚 (Katie Zacharia) 不再担任特朗普的白宫新闻秘书"
-    },
-    {
-     "title": "Wells Fargo wins court order to dismiss former CEO's pay-related case - report",
-     "link": "https://seekingalpha.com/news/4653971-wells-fargo-wins-court-order-to-dismiss-former-ceos-pay-related-case---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 15:46:53 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "富国银行赢得法庭命令，驳回前首席执行官薪酬相关案件 - 报告"
-    },
-    {
-     "title": "粤芯半导体上市首日暴涨 基本面仍待提升",
-     "link": "http://finance.eastmoney.com/news/1354,202610173898796463.html",
-     "pubDate": "Sat, 17 Oct 2026 03:46:40 +0800",
-     "summary": "10月13日，有着“广州第一芯”之称的粤芯 半导体 技术股份有限公司（以下简称“粤芯 半导体 ”，301660.SZ）正式登陆深交所创业板。上市首日，粤芯 半导体 表现抢眼，该股以45元/股开盘，较发行价12.01元高开274.69%后震荡回落，最终收于38.80元/股，较发行价12.01元上涨223.06%，总市值约1117亿元，全天成交额达71.40亿元，换手率高达70.21%。 《中国经营报》记者留意到，粤芯半导体本次网上发行申购情绪高涨：网上中签率仅0.0424%，网上有效申购倍数达2359.68倍。不过，招股书显示，公司报告期内尚未实现盈利，最近一年归母净利润仍为负。 对于粤芯半导体",
-     "source": "东方财富股票",
-     "zh": "粤芯半导体上市首日暴涨 基本面仍待提升"
     },
     {
      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
@@ -2386,38 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "可乐战争即将来临，争夺社会保障"
     },
     {
-     "title": "行云科技转型AI算力 收获和隐忧并存",
-     "link": "http://finance.eastmoney.com/news/1354,202610173898796518.html",
-     "pubDate": "Sat, 17 Oct 2026 03:43:23 +0800",
-     "summary": "行云科技 的AI算力转型之路已经进入收获期。10月12日， 行云科技 （300329.SZ）发布《关于全资子公司深圳行云签订重大合同的进展公告》（以下简称《合同进展公告》）。 公告显示，经协商，VB客户与 行云科技 全资子公司深圳市行云控股有限责任公司（以下简称“深圳行云”）重新签订了《算力服务协议》《补充协议》并解除了原合同。 新合同约定调整算力服务费和Token收入分成，服务期限不变，对应协议总金额上涨至33.57亿元，较原合同约定金额提升约9.96%，较初始合同金额10.1376亿元增加了231.13%。 在10月13日发布的《投资者关系活动记录表》中，行云科技表示，截至2026年10月",
-     "source": "东方财富股票",
-     "zh": "行云科技转型AI算力 收获和隐忧并存"
-    },
-    {
-     "title": "日租金从万元降至三千元 机器人租赁生意变了",
-     "link": "http://finance.eastmoney.com/news/1360,202610173898796685.html",
-     "pubDate": "Sat, 17 Oct 2026 03:40:29 +0800",
-     "summary": "最近两年，租用 机器人 担任演出主力、吸引客流，成为不少景区和商场的选择。从舞台上的唱歌、跳舞，到商场门店的迎宾、互动， 机器人 租赁 的应用形式不断增加。 不过，热闹的演出背后， 机器人 租赁 市场正在发生变化。《中国经营报》记者查询机时租、万机易租等多个平台发现，部分 机器人 的日租金已降至4000元以下，较2025年年初动辄每台每天约1万元的价格下降超过一半。 万机易租相关负责人告诉记者， 机器人 租赁 市场存在淡旺季变化，节假日价格相对较高；与此同时，随着更多 机器人 产品涌入市场，行业开始从蓝海转向红海，租赁价格随之下降。 在价格下降的同时，客户的需求也在变化。简单的唱歌、跳舞已难以",
-     "source": "东方财富股票",
-     "zh": "日租金从万元降至三千元 机器人租赁生意变了"
-    },
-    {
-     "title": "FMC downgraded at Jefferies as 'visibility deteriorates, again' with guidance cut",
-     "link": "https://seekingalpha.com/news/4653967-fmc-downgraded-at-jefferies-as-visibility-deteriorates-again-with-guidance-cut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 15:37:35 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "由于“能见度再次恶化”，FMC 下调了 Jefferies 的评级并下调了指引"
-    },
-    {
-     "title": "机器人创业浪潮中的三个破产样本",
-     "link": "http://finance.eastmoney.com/news/1354,202610173898796364.html",
-     "pubDate": "Sat, 17 Oct 2026 03:37:30 +0800",
-     "summary": "每一轮技术浪潮中，总有一些曾备受瞩目、集聚资本与人才的“明星”陷入经营困境甚至倒闭的“戏码”上演，在 机器人 行业同样也不例外。 10月19日，深圳市中级人民法院将召开盈合（深圳） 机器人 与自动化科技有限公司（以下简称“盈合 机器人 ”）的首次债权人会议，这家累计融资超6亿元的明星企业，在今年8月下旬被法院公告进入破产程序；无独有偶，今年9月，泳池 机器人 企业智橙动力被申请破产审查，公司声明强调系“预重整”而非破产清算；同样在9月，深兰科技公开回应子公司“破产清算”系主动剥离亏损业务——而此时距离法院裁定受理破产清算案已过去4个月。目前，这三家明星企业的法律程序仍在进行中，尚未走到终局。不",
-     "source": "东方财富股票",
-     "zh": "机器人创业浪潮中的三个破产样本"
-    },
-    {
      "title": "Microsoft wants to make AI cheaper. Will investors actually see the savings?",
      "link": "https://www.marketwatch.com/story/microsoft-wants-to-make-ai-cheaper-will-investors-actually-see-the-savings-0a3c3ac0?mod=mw_rss_topstories",
      "pubDate": "Fri, 16 Oct 2026 19:35:00 GMT",
@@ -2430,7 +2438,7 @@ window.INDUSTRY_DATA = {
      "link": "http://finance.eastmoney.com/news/1345,202610163898640489.html",
      "pubDate": "Sat, 17 Oct 2026 03:34:19 +0800",
      "summary": "美东时间周五，美股三大指数走低，截至发稿，道指跌0.48%，纳指跌2.25%，标普500指数跌1.19%。 存储与 半导体 板块下挫，截至发稿，费城 半导体 指数跌超3%。个股方面， SK海力士 、 希捷科技 跌超5.5%，ARM跌超5%， 超威半导体 、 英特尔 跌近5%， 闪迪 、 西部数据 跌近5%， 美光科技 跌超4%， 博通 跌近4%， 拉姆研究 跌超3.5%， 台积电 跌超2%。 油价涨势扩大，截至发稿，美国原油 期货 涨幅超2%。 全球要闻 美联储主席沃什：“AI红利”势必伴随阵痛 坚守价格稳定但不“预判”！ 美联储主席凯文·沃什周五表示， 人工智能 （AI）很可能是他有生之年所",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "美股三大指数集体走低 纳指跌超2% 标普500跌超1% 存储与半导体板块下挫"
     },
     {
@@ -2496,14 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map.",
      "source": "CNBC",
      "zh": "为什么特朗普和共和党的数十亿美元中期闪电战没有奏效"
-    },
-    {
-     "title": "前三季度动力电池装车量同比增长16.7% 上游材料将迎来结构性影响",
-     "link": "http://www.eeo.com.cn/2026/1017/1067425.shtml",
-     "pubDate": "Sat, 17 Oct 2026 01:52:13 +0800",
-     "summary": "10月15日，中国汽车动力电池产业创新联盟发布数据。今年9月，国内动力电池装车量为87.2GWh（吉瓦时），环比增长10.4%，同比增长14.7%。前三季度，随着新能源商用车及新能源汽车单车带电量的增长，我国动力电池累计装车量达到576.3GWh，同比增长16.7%，纯电动货车和纯电动专用车对装车量的带动作用明显。 该联盟发布的数据还显示，前三季度，我国动力和储能电池的产量、销量均已超过2025年全年产销总量，继续保持稳定增长...",
-     "source": "经济观察网",
-     "zh": "前三季度动力电池装车量同比增长16.7% 上游材料将迎来结构性影响"
     }
    ]
   },

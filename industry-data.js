@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/16 08:49:39",
+ "generated_at": "2026/10/16 08:51:11",
  "recent_days": 7,
  "industries": [
   {
@@ -15,7 +15,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
      "source": "TechCrunch AI",
-     "zh": "当 Cal AI 取得病毒般的成功时，一小群有影响力的人得到了回报"
+     "zh": "当加州人工智能病毒式成功时，一小群有影响力的人得到了回报"
     },
     {
      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
@@ -949,9 +949,17 @@ window.INDUSTRY_DATA = {
      "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
      "link": "https://www.utilitydive.com/news/utilities-need-ai-solve-grid-backlogs-aws-energy-lead-head/832816/",
      "pubDate": "Thu, 15 Oct 2026 12:00:00 -0400",
-     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities&nbsp;Joseph Santamaria.",
+     "summary": "The utilities moving first on AI-powered grid planning are delivering faster approvals, fewer outages and lower costs, writes Amazon Web Services&rsquo; head of energy and utilities, Joseph Santamaria.",
      "source": "Utility Dive",
      "zh": "公用事业公司可以使用人工智能来解决电网积压问题：AWS 能源领先者"
+    },
+    {
+     "title": "Solar imports from India, Indonesia, Laos injured US manufacturers: ITC",
+     "link": "https://www.utilitydive.com/news/itc-material-injury-solar-imports-india-indonesia-laos/833127/",
+     "pubDate": "Thu, 15 Oct 2026 11:52:32 -0400",
+     "summary": "The decision clears the way for the Department of Commerce to finalize anti-dumping and countervailing duty orders on&nbsp;crystalline silicon photovoltaic cells from the three countries.",
+     "source": "Utility Dive",
+     "zh": "ITC：从印度、印度尼西亚、老挝进口的太阳能产品损害了美国制造商的利益"
     },
     {
      "title": "Farming’s Nitrogen Future Will Be Built From Several Technologies, Not One",
@@ -1029,7 +1037,7 @@ window.INDUSTRY_DATA = {
      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption",
      "link": "https://www.utilitydive.com/news/reliability-standards-ai-data-centers-crypto-miners-pass-final-nerc-ba/833094/",
      "pubDate": "Thu, 15 Oct 2026 09:28:37 -0400",
-     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more, connected at voltage levels of at least 100 kV.",
+     "summary": "The proposed rules must still be approved by NERC&rsquo;s board and&nbsp;federal regulators. As written, they would&nbsp;apply to computational loads of&nbsp;50 MW or more connected at voltage levels of at least 100 kV.",
      "source": "Utility Dive",
      "zh": "人工智能数据中心的可靠性标准，加密矿工更接近采用"
     },
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Aligned Climate Capital and Nexamp have secured finance for their respective community solar portfolios in the US.",
      "source": "PV Tech",
      "zh": "Align Climate Capital 和 Nexamp 为社区太阳能项目提供融资"
-    },
-    {
-     "title": "Nightpeak Energy doubles Texas BESS site to 300MW",
-     "link": "https://www.energy-storage.news/nightpeak-energy-doubles-texas-bess-site-to-300mw/",
-     "pubDate": "Thu, 15 Oct 2026 11:34:30 +0000",
-     "summary": "Energy storage owner-operator Nightpeak Energy has reached financial close and commercial operation on its 150MW/300MWh Bocanova 2 battery storage project in Brazoria County, Southeast Texas.",
-     "source": "Energy Storage News",
-     "zh": "Nightpeak Energy 将德克萨斯州 BESS 站点容量翻倍至 300MW"
     }
    ]
   },
@@ -1263,7 +1263,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 14 Oct 2026 18:00:48 +0000",
      "summary": "A small-molecule therapy, VG-3927, targeting microglial TREM2 signaling showed neuroprotective effects in preclinical studies for Alzheimer's disease and was well tolerated in a Phase I trial. The post Alzheimer’s Small-Molecule Therapy Shows Promise in Mice and Early Human Trial appeared first on G",
      "source": "GEN",
-     "zh": "阿尔茨海默氏症小分子疗法在小鼠和早期人体试验中显示出前景"
+     "zh": "阿尔茨海默病小分子疗法在小鼠和早期人体试验中显示出前景"
     },
     {
      "title": "Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit",
@@ -1335,15 +1335,15 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:13:26 +0000",
      "summary": "On this day in space! Oct. 15, 1997: NASA launches Cassini-Hugyens probe on 7-year voyage to Saturn",
      "source": "Space.com",
-     "zh": "在太空的这一天！ 1997 年 10 月 15 日：美国宇航局 (NASA) 发射卡西尼-休金斯探测器，开始为期 7 年的土星之旅"
+     "zh": "在太空的这一天！ 1997 年 10 月 15 日：美国宇航局 (NASA) 发射卡西尼-休更斯探测器，开始为期 7 年的土星之旅"
     },
     {
-     "title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force",
+     "title": "SpaceX launches a classified payload for U.S. Space Force",
      "link": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
      "pubDate": "Thu, 15 Oct 2026 19:11:45 +0000",
-     "summary": "Liftoff from pad 4E at Vandenberg Space Force Base in California is scheduled for Thursday, Oct. 15, at 5:01 p.m. PDT (8:01 p.m. EDT / 0001 UTC).",
+     "summary": "Liftoff from pad 4E at Vandenberg Space Force Base in California happened on Thursday, Oct. 15, at 5:01 p.m. PDT (8:01 p.m. EDT / 0001 UTC).",
      "source": "Spaceflight Now",
-     "zh": "现场报道：SpaceX 将为美国太空军发射机密有效载荷"
+     "zh": "SpaceX 为美国太空部队发射机密有效载荷"
     },
     {
      "title": "SpaceX launches classified mission for the US Space Force (video)",
@@ -1663,7 +1663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 14:22:34 +0000",
      "summary": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "英国法律援助机构的黑客范围在法医审查后扩大"
+     "zh": "英国法律援助机构黑客范围在法医审查后扩大"
     },
     {
      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
@@ -1770,6 +1770,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "红魔 5K MiniLED 显示器公布：首发 5184 分区，6499 元，12 月上市",
+     "link": "https://www.ithome.com/1/013/722.htm",
+     "pubDate": "Fri, 16 Oct 2026 00:50:44 GMT",
+     "summary": "IT之家 10 月 16 日消息，红魔 (REDMAGIC) 在昨日的红魔 12 PRO+ 智能手机发布会上公布了红魔 5K MiniLED 显示器。这一型号 首发 5,184 分区背光 ，官方售价 6,499 元，2026 年 12 月正式上市。 红魔 5K MiniLED 显示器支持 5K 180Hz / 2K 330Hz， HDR 峰值亮度达 1400nits ， 色域典型值达 95% BT ，支持“独家”逐行背光扫描动态清晰画面技术。 此外，其采用超薄全铝机身，纯平背板，拥有渐变熏黑丝印处理，集成透明电竞视窗。",
+     "source": "IT之家",
+     "zh": "红魔 5K MiniLED 显示器公布：首发 5184 分区，6499 元，12 月上市"
+    },
+    {
      "title": "英伟达黄仁勋称 AI 芯片需求持续超过供应能力：几乎每天都有新订单涌入",
      "link": "https://www.ithome.com/1/013/721.htm",
      "pubDate": "Fri, 16 Oct 2026 00:47:12 GMT",
@@ -1824,14 +1832,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 16 日消息，科技媒体 MacRumors 今天（10 月 16 日）发布博文，报道称 Meta 和苹果公司破冰合作， 可以在两台 Mac Studio 上本地运行“迄今性能最强的美国公开权重模型”Muse Spark Open。 IT之家今天曾报道，Meta 推出开源权重模型 Muse Spark Open，总参数量达 8160 亿，其中活跃参数为 420 亿，上下文窗口达 100 万 token，主要面向编程、智能体（Agent）任务、多步骤推理与软件工程等复杂工作场景。 在本次发布中， 最受关注的是 Meta 和苹果公司的破冰合作。 该媒体指出在过去多年时间里，两家公",
      "source": "IT之家",
      "zh": "苹果 Meta 破冰合作：两台 512GB 内存 Mac Studio 本地跑“美国最强开源 AI 模型”"
-    },
-    {
-     "title": "快手可灵 AI 模型 Kling 4.0 全量上线，单次生成视频最长可达 30 秒",
-     "link": "https://www.ithome.com/1/013/715.htm",
-     "pubDate": "Fri, 16 Oct 2026 00:22:37 GMT",
-     "summary": "IT之家 10 月 16 日消息，快手可灵 AI 昨晚宣布，Kling 4.0 正式全量上线 klingai.com 。 4K、1080p 的 10-bit HDR 格式输出即将上线 创作页面同步全面升级，提供更灵活、更自由的创作体验 Kling 4.0 能力接入 MCP / CLI，走向更多创作场景 面向企业客户与开发者的 API 服务将于近期开放 据介绍，Kling 4.0 的画面真实感、创意可控性、叙事完整度都有大幅提升，在视听表现、多关键帧、口型匹配、文字生成、创意复刻等多个功能点上实现了突破。 IT之家附主要升级内容如下： 全面升级了高速运动、连续动作、跟拍、环绕等大幅镜头运动，镜头",
-     "source": "IT之家",
-     "zh": "快手可灵 AI 模型 Kling 4.0 全量上线，单次生成视频最长可达 30 秒"
     },
     {
      "title": "廉航爆改“空中绿皮”，背刺多少打工人？",
@@ -1983,7 +1983,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 20:38:13 +0000",
      "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
      "source": "TechCrunch",
-     "zh": "亚马逊设备主管帕诺斯·帕奈 (Panos Panay) 谈失败和从中恢复的重要性"
+     "zh": "亚马逊设备主管帕诺斯·帕奈 (Panos Panay) 谈失败的重要性以及从中恢复的重要性"
     },
     {
      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
@@ -2095,7 +2095,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 21:22:49 +0000",
      "summary": "A new investigation by The Washington Post reveals that Apple and Nvidia each pledged $25 million toward Trump’s new White House ballroom, making them two of the project’s largest donors. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "WaPo：苹果被揭露为特朗普白宫宴会厅的最大捐助者之一"
+     "zh": "WaPo：苹果公司被揭露为特朗普白宫宴会厅的最大捐助者之一"
     },
     {
      "title": "Google reminds Android users of an overlooked scam detection tool",
@@ -2183,7 +2183,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:03:26 +0000",
      "summary": "Samsung just got a free marketing boost.",
      "source": "Android Authority",
-     "zh": "苹果可能是三星迄今为止最好的可折叠产品销售人员"
+     "zh": "苹果可能是三星迄今为止最好的可折叠手机销售人员"
     },
     {
      "title": "The Godox A2 is a real flash for your phone",
@@ -2282,54 +2282,6 @@ window.INDUSTRY_DATA = {
      "zh": "今日看点｜国新办将举行第九届中国国际进口博览会筹备情况新闻发布会"
     },
     {
-     "title": "沪指险守3700点 ETF放量护盘信号再现 多空拉锯走向何方？",
-     "link": "http://finance.eastmoney.com/news/1344,202610163897601711.html",
-     "pubDate": "Fri, 16 Oct 2026 08:36:46 +0800",
-     "summary": "周四沪指险守3700点。 10月15日，A股三大股指集体低开。截至收盘，上证综指跌1.59%，报3707.48点，仍位于3700点上方；深证成指跌2.43%，报11816.79点；创业板指跌2.92%，报2783.17点。 值得一提的是，股票型ETF基金尾盘出现大幅放量。沪深300ETF易方达、科创50ETF华夏、创业板ETF易方达等周四成交额超过百亿元。其中，沪深300ETF易方达成交额超过194亿元，环比上一交易日暴涨近23倍。另外，科创50ETF华夏放量近133%，创业板ETF易方达放量近91%。 对于周四市场普跌的原因，中欧基金认为是“外围通胀超预期→全球利率与美元走强→压制成长估值”",
-     "source": "东方财富股票",
-     "zh": "沪指险守3700点 ETF放量护盘信号再现 多空拉锯走向何方？"
-    },
-    {
-     "title": "国盛证券：海外气价上行 利好国内上游自产气、中游贸易企业",
-     "link": "http://finance.eastmoney.com/news/1354,202610163897601494.html",
-     "pubDate": "Fri, 16 Oct 2026 08:35:38 +0800",
-     "summary": "国盛证券 研报指出，中东地缘冲突持续，扰动欧洲 天然气 供给，叠加补库进度偏弱，TTF气价中枢上移。截至10月9日，东北亚LNG现货26.68美元/百万英热（周环比增长2.34%）、荷兰TTF 期货 81.71欧元/MWh（周环比增长8.94%）、美国HH 期货 3.22美元/百万英热（周环比增长6.10%）；10月13日TTF升至2022年12月以来新高，月内涨幅超18%，近月报价85.89欧元/MWh。海外气价上行，利好国内上游自产气、中游贸易企业，关注 首华燃气 、 广汇能源 、 九丰能源 。 首华燃气 致密气与煤层气放量，盈利弹性强； 广汇能源 优化外购规模，下半年长协利润存修复预期；",
-     "source": "东方财富股票",
-     "zh": "国盛证券：海外气价上行 利好国内上游自产气、中游贸易企业"
-    },
-    {
-     "title": "新加坡9月出口同比增长68.4%",
-     "link": "http://finance.eastmoney.com/news/1351,202610163897600994.html",
-     "pubDate": "Fri, 16 Oct 2026 08:32:28 +0800",
-     "summary": "新加坡9月出口同比增长68.4%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "新加坡9月出口同比增长68.4%"
-    },
-    {
-     "title": "新加坡9月非电子产品出口较上年同期增长54.2%",
-     "link": "http://finance.eastmoney.com/news/1351,202610163897600771.html",
-     "pubDate": "Fri, 16 Oct 2026 08:32:28 +0800",
-     "summary": "新加坡9月非 电子 产品出口较上年同期增长54.2%，新加坡9月 电子 产品出口较上年同期增长107.6%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "新加坡9月非电子产品出口较上年同期增长54.2%"
-    },
-    {
-     "title": "新加坡9月非石油国内出口较上年同期+68.4%(调查预估为+32.2%)",
-     "link": "http://finance.eastmoney.com/news/1351,202610163897600626.html",
-     "pubDate": "Fri, 16 Oct 2026 08:32:27 +0800",
-     "summary": "新加坡9月非石油国内出口较上年同期+68.4%(调查预估为+32.2%)。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "新加坡9月非石油国内出口较上年同期+68.4%(调查预估为+32.2%)"
-    },
-    {
-     "title": "当被问及是否信任内塔尼亚胡时，特朗普说：“我不信任任何人”",
-     "link": "http://finance.eastmoney.com/news/1351,202610163897600434.html",
-     "pubDate": "Fri, 16 Oct 2026 08:32:26 +0800",
-     "summary": "当被问及是否信任内塔尼亚胡时，特朗普说：“我不信任任何人”。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "当被问及是否信任内塔尼亚胡时，特朗普说：“我不信任任何人”"
-    },
-    {
      "title": "AI忧虑压倒通胀利好，美元创逾一个月最大单日跌幅",
      "link": "https://wallstreetcn.com/articles/3783741",
      "pubDate": "Fri, 16 Oct 2026 08:29:59 +0800",
@@ -2344,14 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "科技股遭遇抛售之际，资金正加速流向大型医药板块。 AbbVie、礼来（Eli Lilly）等生物制药巨头本周股价逼近历史高位 ，折射出投资者在AI概念股动荡中转向防御性资产的明确信号。 周四，State Street医疗保健精选行业SPDR ETF触及177.19美元的历史新高，过去五个交易日累计上涨5.6%。 与此同时，投资者还涌入消费必需品和美国国债，导火索正是AI相关股票的集体下挫——市场对AI资本支出规模及Anthropic营收增速放缓的担忧持续发酵。 礼来股价周四收涨3.4%，创下其历史第三高收盘价；AbbVie则以283.40美元收盘，为历史第二高，此前一日刚刚创下283.48美元",
      "source": "华尔街见闻",
      "zh": "AI暴跌下的避风港！大型医药股股价逼近历史新高"
-    },
-    {
-     "title": "瑞银“撕报告”：美联储本轮紧缩周期将加息三次 下一次行动在12月",
-     "link": "http://stock.eastmoney.com/news/11722,202610163897593518.html",
-     "pubDate": "Fri, 16 Oct 2026 08:23:00 +0800",
-     "summary": "瑞银在最新发给客户的报告中， 调整了其对美联储利率路径的预期，预计该央行本轮紧缩周期将加息三次，第三次将发生在2027年3月 。此前，美国公布了高于市场预期的9月通胀数据。 周三公布的数据显示，美国整体消费者物价指数（CPI）环比上升0.65%，同比上升3.7%；核心CPI则环比上升0.33%，同比上升2.6%。核心通胀连续第二个月大幅超过市场预期的0.2%。 能源是推动整体通胀加速的主要因素，受中东供应忧虑影响，汽油价格上涨约9.5%，在65个基点的通胀月度升幅中，贡献了近40个基点。航空燃油成本上升亦带动机票价格通胀上涨1.2%。 然而，瑞银美国经济学家Andrew Dubinsky指出，",
-     "source": "东方财富资讯",
-     "zh": "瑞银“撕报告”：美联储本轮紧缩周期将加息三次 下一次行动在12月"
     },
     {
      "title": "Home BancShares outlines nearly 6% net interest income lift in +100 bps scenario as it targets $0.5B annual profit",
@@ -2450,44 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "人工智能原生支付平台 Movere 推出"
     },
     {
-     "title": "10月16日投资日历 | 新华传媒今起复牌",
-     "link": "http://finance.eastmoney.com/news/11848,202610163897550721.html",
-     "pubDate": "Fri, 16 Oct 2026 08:00:56 +0800",
-     "summary": "（1）10月16日有20亿元7天期逆回购到期。 （2）应急管理部于10月16日上午10时在国家应急指挥总部新闻发布厅，举行季度例行新闻发布会，通报国务院安委办、应急管理部贯彻落实全国安全生产视频会议精神，进一步加强安全生产工作的具体举措，并答记者问。 （3）国务院新闻办公室于10月16日上午10时举行新闻发布会，介绍第九届中国国际进口博览会筹备情况，并答记者问。 （4）国务院新闻办公室于10月16日下午3时举行“新征程上的奋斗者”中外记者见面会，请 交通运输 领域代表围绕“奋进‘十五五’勇当开路先锋”与中外记者见面交流。 （5）第二十五届中国国际酒业博览会将于10月16日至18日在武汉国际博览",
-     "source": "东方财富资讯",
-     "zh": "10月16日投资日历 | 新华传媒今起复牌"
-    },
-    {
-     "title": "ETF追踪丨10月15日股票型ETF净申购460亿元 资金加仓沪深300ETF易方达",
-     "link": "http://stock.eastmoney.com/news/11868,202610163897548184.html",
-     "pubDate": "Fri, 16 Oct 2026 08:00:49 +0800",
-     "summary": "东方财富 Choice数据显示，10月15日，ETF资金整体净流入563.82亿元，其中，股票型净流入460.26亿元。 股票型ETF中，当日净申购前3依次为：沪深300ETF易方达，净申购188.03亿元；科创50ETF华夏，净申购65.69亿元；创业板ETF易方达，净申购55.28亿元。 股票型ETF当日净赎回前3为：红利低波ETF华泰柏瑞，净赎回7.44亿元；A500ETF华泰柏瑞，净赎回5.31亿元； 半导体 设备ETF国泰，净赎回4.50亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方",
-     "source": "东方财富资讯",
-     "zh": "ETF追踪丨10月15日股票型ETF净申购460亿元 资金加仓沪深300ETF易方达"
-    },
-    {
-     "title": "什么信号？经济学家接连警告12月或加息50基点 FED官员“放鹰”暗示！",
-     "link": "http://futures.eastmoney.com/news/11233,202610163897570820.html",
-     "pubDate": "Fri, 16 Oct 2026 07:59:59 +0800",
-     "summary": "SMBC日兴证券首席美国经济学家、美国财政部长贝森特前经济顾问Joe Lavorgna最新警告称，通胀依然顽固持续，未来还会有更多加息，且存在12月加息50个基点的可能性。 在他发表上述言论之前，美国劳工部周四公布的数据显示，美国9月生产者价格指数（PPI）涨幅远 超市 场预期。具体而言，衡量上游通胀压力的PPI在9月环比上涨1.3%，创2022年3月以来新高，预期值为0.5%，前值为0.4%；同比上涨6.3%，创2022年12月以来新高，预期值为5.3%，前值为5.4%。 Lavorgna预计，美联储将因此进一步加息。 他在接受最新采访时表示：“这些数据存在问题，因为通胀下降的速度并没有许多",
-     "source": "东方财富资讯",
-     "zh": "什么信号？经济学家接连警告12月或加息50基点 FED官员“放鹰”暗示！"
-    },
-    {
      "title": "U.S. crude oil jumps on big inventory draw, potential shadow fleet sanctions relief",
      "link": "https://seekingalpha.com/news/4653672-us-crude-oil-jumps-on-big-inventory-draw-potential-shadow-fleet-sanctions-relief?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 15 Oct 2026 19:57:44 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "库存大量减少，影子船队制裁可能得到缓解，美国原油价格上涨"
-    },
-    {
-     "title": "国产碳化硅加工装备重大突破！产业链量价齐升 这7股业绩倍增可期(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202610163897543228.html",
-     "pubDate": "Fri, 16 Oct 2026 07:56:58 +0800",
-     "summary": "国产 碳化硅 功率器件加工装备实现重大突破，制程减薄工艺实现全流程国产化。有机构称，SiC行业有望实现加速上行，建议关注产业链需求传导。 碳化硅 产业链实现国产化突破 据中电科 电子 装备集团消息，该集团下属北京中电科公司自主研制的 国内首台套 碳化硅 器件晶圆全自动减薄设备 ，近日成功交付国内头部晶圆企业实现量产应用，由此构建起覆盖碳化硅晶锭、衬底片、器件晶圆减薄的全流程国产装备解决方案。 经量产实测，该设备可将8英寸碳化硅晶圆稳定减薄至 最小120微米 ，产能不低于15片/小时，磨削后片内厚度偏差稳定在3微米以内，全面满足规模化量产的产能与均匀性要求。 产业链其他环节同样捷报频传。10月1",
-     "source": "东方财富资讯",
-     "zh": "国产碳化硅加工装备重大突破！产业链量价齐升 这7股业绩倍增可期(名单)"
     },
     {
      "title": "Interactive Brokers outlines $0.60 annual dividend plan while expanding autonomous AI trading rollout",
@@ -2504,6 +2416,94 @@ window.INDUSTRY_DATA = {
      "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
      "source": "MarketWatch",
      "zh": "肯德基改用可口可乐，百事可乐在汽水大战中失去更多阵地"
+    },
+    {
+     "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
+     "link": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
+     "pubDate": "Thu, 15 Oct 2026 23:08:05 GMT",
+     "summary": "Netflix announced Bela Bajaria will be replaced by former Disney exec Peter Rice as the company's chief content officer.",
+     "source": "CNBC",
+     "zh": "Netflix 首席内容官贝拉·巴贾里亚 (Bela Bajaria) 离职，彼得·赖斯 (Peter Rice) 接任"
+    },
+    {
+     "title": "Anglo American CEO says tech firms showing 'deep interest' in mining stakes - FT",
+     "link": "https://seekingalpha.com/news/4653670-anglo-american-ceo-says-tech-firms-showing-deep-interest-in-mining-stakes---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 18:32:21 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "英美资源集团首席执行官表示科技公司对矿业股份表现出“浓厚兴趣” - FT"
+    },
+    {
+     "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+     "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 22:31:00 GMT",
+     "summary": "”I earn $110,000 a year.”",
+     "source": "MarketWatch",
+     "zh": "“有些人做的一切都是对的”：我在大衰退中失去了家。我50多岁的时候租房子。为什么会被判定为失败呢？"
+    },
+    {
+     "title": "MSCI's downgrade proposal puts Indonesia’s EM status at risk",
+     "link": "https://seekingalpha.com/news/4653667-mscis-downgrade-proposal-puts-indonesias-em-status-at-risk?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 18:17:01 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "MSCI 的降级提议使印度尼西亚的新兴市场地位面临风险"
+    },
+    {
+     "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+     "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 22:15:00 GMT",
+     "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+     "source": "MarketWatch",
+     "zh": "我今年 64 岁，有两个儿子，但只有一个在家族企业工作。我应该把70%的生意留给他吗？"
+    },
+    {
+     "title": "Soybean futures slide to seven-week low despite Chinese purchases",
+     "link": "https://seekingalpha.com/news/4653665-soybean-futures-slide-to-seven-week-low-despite-chinese-purchases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 15 Oct 2026 18:07:57 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "尽管中国采购，大豆期货仍跌至七周低点"
+    },
+    {
+     "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+     "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 21:56:00 GMT",
+     "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
+     "source": "MarketWatch",
+     "zh": "民主党中期选举的横扫将如何将科技股抛售变成科技股崩盘"
+    },
+    {
+     "title": "Trump says &apos;if Ken Paxton loses&apos; Texas Senate race, blame Cornyn and Karl Rove",
+     "link": "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
+     "pubDate": "Thu, 15 Oct 2026 21:42:14 GMT",
+     "summary": "Polls show GOP Attorney General Ken Paxton trailing Democratic Rep. James Talarico in the Texas Senate race.",
+     "source": "CNBC",
+     "zh": "特朗普称“如果肯·帕克斯顿输掉”得克萨斯州参议员竞选，应归咎于科宁和卡尔·罗夫"
+    },
+    {
+     "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+     "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+     "pubDate": "Thu, 15 Oct 2026 21:33:24 GMT",
+     "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
+     "source": "CNBC",
+     "zh": "由于投资者对人工智能债务感到不满，CoreWeave 信用违约掉期触及困境水平"
+    },
+    {
+     "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+     "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 21:23:00 GMT",
+     "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
+     "source": "MarketWatch",
+     "zh": "随着人工智能担忧加剧，英伟达和其他芯片股面临新的压力"
+    },
+    {
+     "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
+     "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+     "pubDate": "Thu, 15 Oct 2026 21:21:00 GMT",
+     "summary": "Investors have a ‘love-hate relationship’ with tech stocks now — and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
+     "source": "MarketWatch",
+     "zh": "暂时不要抛弃科技股。采取这些措施是为了利用最新的人工智能重置。"
     }
    ]
   },
@@ -2671,7 +2671,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 01:28:14 EDT",
      "summary": "Strokes are becoming alarmingly common among younger adults, with rates nearly doubling among people ages 20 to 54 over nearly three decades. Researchers found that blocked blood vessels in the brain accounted for much of the increase, while high blood pressure, diabetes, and substance use also beca",
      "source": "ScienceDaily",
-     "zh": "年轻人中风的几率几乎翻倍，科学家们不确定原因"
+     "zh": "年轻人中风的发生率几乎翻倍，科学家不确定原因"
     },
     {
      "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
@@ -2679,7 +2679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 00:14:55 EDT",
      "summary": "Popular diabetes and weight loss drugs such as Ozempic and Wegovy have been linked to a slightly increased risk of a rare condition that can cause sudden, potentially permanent vision loss. Although the risk remains very low, Rutgers researchers say the findings warrant attention as millions of peop",
      "source": "ScienceDaily",
-     "zh": "Ozempic 和 Wegovy 与罕见的突然视力丧失风险有关"
+     "zh": "Ozempic 和 Wegovy 与突发视力丧失的罕见风险有关"
     },
     {
      "title": "Q&A: The “collision” between AI, your brain, and society",

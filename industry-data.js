@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 19:49:43",
+ "generated_at": "2026/10/17 20:09:45",
  "recent_days": 7,
  "industries": [
   {
@@ -455,7 +455,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 15 Oct 2026 19:00:00 +0000",
      "summary": "Japan’s $21B offer to GlobalFoundries would add two New York fabs and lift U.S. chip capacity 10%; see why analysts warn on state support. The post Japan Offers GlobalFoundries $21B for U.S. Fab Expansion appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "日本向 GlobalFoundries 提供 210 亿美元用于美国晶圆厂扩建"
+     "zh": "日本向 GlobalFoundries 提供 21B 美元用于美国晶圆厂扩建"
     },
     {
      "title": "Design the Right Chip: Why Prototyping Has to Be Easy",
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "I Drove The 2026 Porsche Taycan 4. It Proves EVs Don't Need 1,000 Horsepower To Be A Blast",
+     "link": "https://insideevs.com/reviews/811706/2026-porsche-taycan-4-review/",
+     "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
+     "summary": "The least powerful all-wheel-drive Taycan proves that Porsche’s electric sedan is defined by its chassis, not its acceleration.",
+     "source": "InsideEVs",
+     "zh": "我驾驶了 2026 款保时捷 Taycan 4。它证明电动汽车不需要 1,000 马力就可以爆炸"
+    },
+    {
      "title": "Chery's Huawei-backed Luxeed to get independent carmaking license, plans IPO",
      "link": "https://cnevpost.com/2026/10/17/chery-luxeed-carmaking-license-plans-ipo/",
      "pubDate": "Sat, 17 Oct 2026 11:41:46 +0000",
@@ -792,14 +800,6 @@ window.INDUSTRY_DATA = {
      "summary": "The CLA Electric’s flaws are overpowered by monster efficiency and charging speeds thanks to new silicon-containing cells.",
      "source": "InsideEVs",
      "zh": "我用硅阳极电池驾驶梅赛德斯的新型电动汽车。未来就在这里"
-    },
-    {
-     "title": "The Tesla Roadster Has 1,341 HP And Half The Range Elon Musk Once Promised. Here Are The Full Specs",
-     "link": "https://insideevs.com/news/812242/tesla-roadster-2026-specs/",
-     "pubDate": "Fri, 16 Oct 2026 12:46:53 +0000",
-     "summary": "Tesla execs Lars Moravy and Franz von Holzhausen spilled the beans on Tesla’s most outrageous car ever.",
-     "source": "InsideEVs",
-     "zh": "Tesla Roadster 拥有 1,341 马力，续航里程达到埃隆·马斯克曾经承诺的一半。这是完整的规格"
     },
     {
      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
@@ -1298,6 +1298,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2",
+     "link": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2",
+     "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
+     "summary": "John Stewart goes rogue in Sector 2814 and embraces fear hopefully leading into season 2",
+     "source": "Space.com",
+     "zh": "《灯笼》令人震惊的结局给我们留下了很多关于第二季悬而未决的问题"
+    },
+    {
      "title": "The Orionid meteor shower peaks next week! Here's what to expect",
      "link": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect",
      "pubDate": "Sat, 17 Oct 2026 10:00:00 +0000",
@@ -1352,14 +1360,6 @@ window.INDUSTRY_DATA = {
      "summary": "Using data from the James Webb Space Telescope, astronomers have unravelled some of the secrets of a bizarre, blisteringly hot exoplanet that has the consistency of marshmallow.",
      "source": "Space.com",
      "zh": "科学家在奇异、灼热的“棉花糖”系外行星的大气中发现了“宝石”"
-    },
-    {
-     "title": "SpaceX thrusters just made a Tesla Roadster 'fly' (and Elon Musk's car is still out there in space)",
-     "link": "https://www.space.com/technology/spacex-thrusters-just-made-a-tesla-roadster-fly-and-elon-musks-car-is-still-out-there-in-space",
-     "pubDate": "Fri, 16 Oct 2026 17:38:34 +0000",
-     "summary": "Tesla just unveiled its new Roadster with a spectacular stunt, using SpaceX thrusters to make the sleek vehicle \"fly.\"",
-     "source": "Space.com",
-     "zh": "SpaceX 推进器刚刚让一辆 Tesla Roadster “飞起来”（埃隆·马斯克的汽车仍在太空中）"
     },
     {
      "title": "Artemis II Heat Shield After Splashdown",
@@ -1551,7 +1551,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 17 Oct 2026 16:41:56 +0530",
      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloade",
      "source": "The Hacker News",
-     "zh": "MALFEX npm 包“imgdecode”在 Windows Native Addon 中隐藏 Shellcode 加载器"
+     "zh": "MALFEX npm 包“imgdecode”隐藏 Windows Native Addon 中的 Shellcode 加载器"
     },
     {
      "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
@@ -1762,6 +1762,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "阿维塔 T09 实车曝光，定位“50 万级科技新旗舰”",
+     "link": "https://www.ithome.com/1/014/391.htm",
+     "pubDate": "Sat, 17 Oct 2026 12:08:50 GMT",
+     "summary": "IT之家 10 月 17 日消息，阿维塔 T09 实车今日在社交平台曝光，该车于 9 月 8 日发布的第 411 批《道路机动车辆生产企业及产品公告》中完成申报，官方宣称该车是“50 万级科技新旗舰”。 IT之家从申报信息获悉，阿维塔 T09 为插电式混合动力运动型乘用车，提供两种动力版本，长宽高分别为 5285/2025/1810 或 1820mm， 轴距 3150mm ，前轮距 1726mm，后轮距 1740mm，额定载客 6 人，支持选装前格栅、轮辋、车顶玻璃、前保险杠、前底护板、黑色扰流板、后保险杠、后底护板、无电动踏板、电动踏板、行李架、黑色字标、窗框装饰亮条、无 D 柱 LOGO ",
+     "source": "IT之家",
+     "zh": "阿维塔 T09 实车曝光，定位“50 万级科技新旗舰”"
+    },
+    {
+     "title": "Encryption Is Getting Squeezed From All Sides",
+     "link": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+     "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
+     "summary": "Canada’s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.",
+     "source": "WIRED",
+     "zh": "加密正受到各方挤压"
+    },
+    {
+     "title": "华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS",
+     "link": "https://www.ithome.com/1/014/390.htm",
+     "pubDate": "Sat, 17 Oct 2026 11:56:31 GMT",
+     "summary": "IT之家 10 月 17 日消息，据 Wccftech 今日报道，华硕推出了旗下首款英特尔 Arc Pro B70 显卡，面向 AI 推理及工作站市场。华硕此前缺席了英特尔 Arc 独立显卡的多个世代，此次推出新品意味着其再次加入英特尔独立显卡产品阵营。 华硕这款产品名为 UGen Intel Arc Pro B70 32GB GDDR6，采用英特尔 X e 2 架构的 Big Battlemage GPU，配备 32GB GDDR6 ECC 显存、32 个 X e 核心和 256 个 XMX AI 引擎，INT8 AI 算力最高可达 367 TOPS，典型板卡功耗 310W。 该卡采用双槽设",
+     "source": "IT之家",
+     "zh": "华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS"
+    },
+    {
+     "title": "泰坦军团推出“G27W9S ULTRA”27 英寸显示器：2K 320Hz QD-OLED，3221 元（国补后 2898 元）",
+     "link": "https://www.ithome.com/1/014/389.htm",
+     "pubDate": "Sat, 17 Oct 2026 11:55:25 GMT",
+     "summary": "IT之家 10 月 17 日消息，泰坦军团现已在京东上架“G27W9S ULTRA”27 英寸显示器，该机主打 2K 320Hz， 定价为 3221 元 ，部分地区国补后低至 2898 元。 该机配备一块 2560x1440 分辨率 Penta Tandem 结构 QD-OLED 面板，显示器峰值亮度 1300 尼特，GtG 响应速度 0.03ms，静态对比度 150 万:1，显示器支持原生 10-Bit 色彩，覆盖 99% DCI-P3 色域。 该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，提供 2 个 HDMI 2.1、2 个 DP 1.4、1 ",
+     "source": "IT之家",
+     "zh": "泰坦军团推出“G27W9S ULTRA”27 英寸显示器：2K 320Hz QD-OLED，3221 元（国补后 2898 元）"
+    },
+    {
      "title": "边建设边运营：“鹏城云脑 Ⅲ”10000P 国产算力上线试运行",
      "link": "https://www.ithome.com/1/014/387.htm",
      "pubDate": "Sat, 17 Oct 2026 11:48:30 GMT",
@@ -1776,6 +1808,30 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 17 日消息，一加 Ace 7 系列手机已在电商平台开启预约，预计有一加 Ace 7 与一加 Ace 7 Pro 两款新机。今日，社交平台上首次曝光了该机的外观设计。 从图上可以看到，新机采用矩形相机模组设计， 模组内嵌入了主动散热风扇 ，机身背面有渐变色效果，同时印有一加品牌 logo 以及 ACE 系列标识。 据博主 @数码闲聊站 此前透露， 一加月底发布的性能新机 ，全系标配 200Mp 大底主摄，Pro 还有一颗 50Mp 3.5X 潜望长焦，有 OPPO 影像旗舰同款算法，属于接下来这批性能机里影像配置最强的，没有对手。",
      "source": "IT之家",
      "zh": "一加 Ace 7 系列手机外观首曝，搭载主动散热风扇"
+    },
+    {
+     "title": "这种矿石，可能改变中美稀土博弈",
+     "link": "https://www.huxiu.com/article/4898313.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 19:45:55 +0800",
+     "summary": "本文来自微信公众号： IPP评论 ，作者：IPP编译，原文标题：《这种矿石，可能改变中美稀土博弈｜IPP编译》 导语：10月15日，美国电气电子工程师学会旗下《IEEE Spectrum》杂志内容发展编辑主任格伦·佐佩特（Glenn Zorpette）在《外交政策》杂志发表文章指出，中国在全球稀土市场的主导地位，源于矿产资源优势，更建立在数十年积累形成的产业体系和加工能力之上。即便美国政府投入巨额资金扶持本土稀土产业，试图建立替代性供应链，但相关项目仍面临技术、监管和商业化等多重障碍，短期内难以撼动中国的产业优势。在此背景下，文章揭示了西方试图打破中国稀土主导地位的一条新路径——开发独居石（m",
+     "source": "虎嗅",
+     "zh": "这种矿石，可能改变中美稀土博弈"
+    },
+    {
+     "title": "我实名讨厌田柯宇和他的投资人",
+     "link": "https://www.huxiu.com/article/4898308.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 19:41:01 +0800",
+     "summary": "本文来自微信公众号： 投中网 ，作者：蒲凡，头图来自：AI生成 如题。具体发生了什么就不赘述了。只说说我为什么很讨厌田柯宇，顺便连他的投资人也一起讨厌。 讨厌田柯宇的理由很简单，因为他没有职业道德 （注：这里并不是说他就有道德） 。这里需要注意，职业道德和道德是两码事。举个粗暴的例子，一个有传染病的人就是不应该当厨子，哪怕他这辈子都没随地吐过痰。这里需要再次强调一下，不要抬杠&ldquo;传染病治好了就应该给他一个返岗的机会&rdquo;，我说的是&ldquo;意识&rdquo;问题，当一个人发现自己有传染病的时候就应该意识到自己不适合参与&ldquo;厨房&rdquo;工作了。意识问题是没有",
+     "source": "虎嗅",
+     "zh": "我实名讨厌田柯宇和他的投资人"
+    },
+    {
+     "title": "iPhone Duo黄牛溢价已有回落，有经销商预计现货并没有想象中稀缺",
+     "link": "https://www.huxiu.com/article/4898311.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 19:40:34 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：伍洋宇 李家琦 苹果不是没有出现过新品抢购事件，但人人都想当一把黄牛的状况，可能还是第一次。 10月16日晚8点，iPhone Duo在苹果官网、Apple Store App、苹果天猫旗舰店等线上渠道同时开启预售。 卡点进入的人已经算是怠慢，更多用户选择同时在电脑上开官网、手机上刷淘宝“双管齐下”——但即便如此，他们还是发现自己卡在“来得早，来得好”或是“超激动？我们也超期待”的页面长达10-20分钟之久。 大部分人反馈，自己在20点15分前后进入正常选购页面，但此时等待他们的情形是周边零售店均已无货（即开售当日可线下提货），送货到家最早发货时间则普遍",
+     "source": "虎嗅",
+     "zh": "iPhone Duo黄牛溢价已有回落，有经销商预计现货并没有想象中稀缺"
     },
     {
      "title": "越南团队两月拿下500万安装、登顶美国模拟榜：“Obby玩法”正在被手游厂商批量接收？",
@@ -1794,36 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元"
     },
     {
-     "title": "京东 10 月 20 日 20 点 11.11 再加码：厨房小电皆好价，海尔微波炉仅 178 元",
-     "link": "https://www.ithome.com/1/014/384.htm",
-     "pubDate": "Sat, 17 Oct 2026 11:37:13 GMT",
-     "summary": "京东 10 月 20 日 20:00 将再次开启 11.11 高潮狂促，厨房小电目前已放出优惠前瞻信息： 点此查看 。 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 目前小家电会场已放出“5 折限时抢”与“无惧比价”两个好价专区： 部分好价单品 下单时选择“ 以旧换新 ” → 个护健康 / 厨房小电 → 电动牙刷 / 普通餐具， 不回收 。 京东 海尔 HW-M20J1W 微波炉 站外种草返 20 元 折 178 元 以旧换新 198 元 领 8 折券 美的电饭煲可点宝贝右上方 直播浮窗 领 500-50 元券，以旧换新后 PLUS 会员实付 409 元。",
-     "source": "IT之家",
-     "zh": "京东 10 月 20 日 20 点 11.11 再加码：厨房小电皆好价，海尔微波炉仅 178 元"
-    },
-    {
-     "title": "普联 TP-LINK 推出新款大道 BE6400 路由器 TL-7DR6460：四 2.5G 网口 + 双千兆网口，389 元",
-     "link": "https://www.ithome.com/1/014/383.htm",
-     "pubDate": "Sat, 17 Oct 2026 11:30:25 GMT",
-     "summary": "IT之家 10 月 17 日消息，普联（TP-LINK）上周推出的新款大道 BE6400 路由器（型号 TL-7DR6460）已经开售，京东和天猫显示为 389 元。 京东 普联（TP-LINK）大道路由器 TL-7DR6460 5G wifi7 千兆家用高速 2.4G wifi6 tplink 无线 2.5G 口大户型穿墙全屋 wifi BE6400 389 元 直达链接 这款 Wi-Fi 7 路由器采用了 AI 工程师参与研发的全新像素天线，信号覆盖能力得以提升；无线速率达 5764Mbps；配备 5 颗外置独立 FEM；5G 性能与 BE7200 一致（IT之家注：包括 4T5R 高效收",
-     "source": "IT之家",
-     "zh": "普联 TP-LINK 推出新款大道 BE6400 路由器 TL-7DR6460：四 2.5G 网口 + 双千兆网口，389 元"
-    },
-    {
      "title": "The Best LED Grow Lights for Houseplants This Winter (2026)",
      "link": "https://www.wired.com/story/best-led-grow-lights/",
      "pubDate": "Sat, 17 Oct 2026 11:30:00 +0000",
      "summary": "Shorter days don’t have to spell trouble for your houseplants. These are the lights we’ve used and loved in our own homes.",
      "source": "WIRED",
      "zh": "今年冬天最适合室内植物的 LED 生长灯 (2026)"
-    },
-    {
-     "title": "科大讯飞 AI 词典笔 X9 上架：内置 85 本词典、支持小初高 9 科知识查询，744 元",
-     "link": "https://www.ithome.com/1/014/382.htm",
-     "pubDate": "Sat, 17 Oct 2026 11:29:34 GMT",
-     "summary": "IT之家 10 月 17 日消息，科大讯飞现已在京东上架讯飞 AI 词典笔 X9，定价为 744 元，部分地区国补后低至 674.1 元。 该词典笔配备 3.48 英寸莱茵低蓝光护眼屏，配备 1100mAh 电池，内置 85 本正版词典及“五千万词库”。扫描响应时间低至 0.3 秒，并支持无网离线查词。其机器翻译能力通过了全国翻译专业资格考试评估，能够进行长难句的语法与结构剖析。 官方强调，该设备提供 11000 篇分级听力内容，覆盖幼儿至高中阶段。口语训练采用中高考同源技术进行音素级纠音，支持 AI 图文对话与蓝牙耳机连接。系统内置艾宾浩斯遗忘曲线以自动生成专属背词计划。 此外，该设备支持小",
-     "source": "IT之家",
-     "zh": "科大讯飞 AI 词典笔 X9 上架：内置 85 本词典、支持小初高 9 科知识查询，744 元"
     },
     {
      "title": "我还能比AI干得更好吗？",
@@ -1842,36 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "Roadster腾飞之后：特斯拉的光环与代价"
     },
     {
-     "title": "招牌疯狂加后缀，餐饮正告别“大单品时代”",
-     "link": "https://www.huxiu.com/article/4898306.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 19:08:45 +0800",
-     "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 产品越卖越杂， 招牌后缀越来越多 最近逛商场，特别是B1层美食区，内参君发现了一个很广泛的现象：门店招牌后面，门店招牌后缀越来越多。 卖酸菜鱼的，多了蒸菜、小炒的字样；饺子馆的后面，加了面食、卤味、糖水；某某米线的招牌旁是汉堡、米饭、小面、凉皮，新品类越来越多，一家店开成了小吃馆。 看着好像只是菜单多了几样菜，背后的想法其实很实在，不想只靠一道招牌菜留住客人，要给顾客更多选择。 如最近开出7.0门店模型的鱼你在一起，在主招牌外加上了“酸菜鱼浏阳小碗蒸菜”。这一改变并不是一次简单的菜单扩容，而是品牌从“酸菜鱼单品类”升级为“复合型快餐”。 升级",
-     "source": "虎嗅",
-     "zh": "招牌疯狂加后缀，餐饮正告别“大单品时代”"
-    },
-    {
      "title": "These 12 Automatic Cat Feeders Were the Best We Tested in 2026",
      "link": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
      "pubDate": "Sat, 17 Oct 2026 11:02:00 +0000",
      "summary": "We tested some of the most popular automatic dry- and wet-food pet feeders to see which ones are worth the money.",
      "source": "WIRED",
      "zh": "这 12 款自动猫喂食器是我们在 2026 年测试过的最好的"
-    },
-    {
-     "title": "AI信息过载时代，什么才是有价值的行业信号？",
-     "link": "https://www.huxiu.com/article/4898302.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 19:01:52 +0800",
-     "summary": "本文来自微信公众号： 范冰的二次学习 ，头图来自：AI生成 刻意一个月不看 AI 的消息。结果似乎没错过任何。 这期间自己破圈到我眼皮底下的工具，比如 jev、Muse、Grokbot、REA，我更关注的是人们真正拿它做出了什么 （生产级的/能赚钱的） 东西，而不是玩具。回溯了一轮积攒的信息，大概不到 5% 的公开内容是此类真有价值的。 至于自己破圈到我眼皮底下的产业动态，比如唱衰世界模型、炒作 Personal AI、模型投毒实习生融资被挂，仔细想想，与我何干，与你何干，但凡最终不是想从美元资本那边一轮轮要钱讲三五年故事的，根本没必要占用自己的信道。 还有任何告诉你如何用大模型更省钱的教程。",
-     "source": "虎嗅",
-     "zh": "AI信息过载时代，什么才是有价值的行业信号？"
-    },
-    {
-     "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
-     "link": "https://www.huxiu.com/article/4898301.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 18:52:42 +0800",
-     "summary": "本文来自微信公众号： 华尔街见闻 ，作者：张雅琦 美股正在上演一场罕见的内部撕裂——指数岿然不动，但指数之下已是一片狼藉。 摩根士丹利首席股票策略师Mike Wilson在最新报告中警告，收紧的金融条件正在悄然完成美联储的部分工作，只是这一冲击被集中吸收在普通股票身上，而非以AI为核心的少数巨头。 十年期美债收益率突破5.3%，美元升至本轮周期新高，油价居高不下，三重压力叠加之下，摩根士丹利综合金融条件指数已跳升至约1.4个标准差，这一水平在过去35年中仅被突破数次，上一次还是2022年美联储每次会议加息75个基点之时。与此同时，高盛已将预期修正为10月FOMC再加息一次。 市场的关键裂缝已清",
-     "source": "虎嗅",
-     "zh": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？"
     },
     {
      "title": "HTC Made Smart Glasses That Are Way More Private",
@@ -1954,18 +1962,10 @@ window.INDUSTRY_DATA = {
      "zh": "一项新研究表明，微塑料会与水发生反应。这是生物学的一个问题"
     },
     {
-     "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-     "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-     "pubDate": "Sat, 17 Oct 2026 09:00:00 +0000",
-     "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-     "source": "WIRED",
-     "zh": "为什么人工智能还没有准备好解决我们复杂的基因组问题"
-    },
-    {
      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
      "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
      "pubDate": "Sat, 17 Oct 2026 08:37:46 +0000",
-     "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 216 # Comments: 59",
+     "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 232 # Comments: 70",
      "source": "Hacker News",
      "zh": "DeepSeek：DeepSeek v4.1 Flash 1017"
     },
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "DeepSeek-v4.1-Flash-1017",
      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
      "pubDate": "Sat, 17 Oct 2026 08:21:25 +0000",
-     "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 212 # Comments: 83",
+     "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 220 # Comments: 85",
      "source": "Hacker News",
      "zh": "DeepSeek-v4.1-Flash-1017"
     },
@@ -2009,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Honor Win2 runs AnTuTu too, its cooling fan helps it achieve a top score",
+     "link": "https://www.gsmarena.com/honor_win2_runs_antutu_too_its_cooling_fan_helps_it_achieve_a_top_score-news-75095.php",
+     "pubDate": "Sat, 17 Oct 2026 14:02:02 +0200",
+     "summary": "Honor is launching the Win2 in China on October 21, and not long ago it was purportedly spotted in the Geekbench online database, confirming the fact that it will be powered by the Snapdragon 8 Elite Extreme Gen 6 SoC. Now a prototype device with the same BRM-AN00 model number has also run AnTuTu v1",
+     "source": "GSMArena",
+     "zh": "荣耀Win2也运行安兔兔，散热风扇助其获得最高分"
+    },
+    {
+     "title": "Amazon just did what Google couldn’t do in 15 years: Make a great everyday Android tablet",
+     "link": "https://www.androidauthority.com/amazon-android-tablet-google-tablet-strategy-3722924/",
+     "pubDate": "Sat, 17 Oct 2026 12:00:28 +0000",
+     "summary": "Out of the \"Fire\" rises the Alexa Tablet.",
+     "source": "Android Authority",
+     "zh": "亚马逊刚刚做了谷歌 15 年来未能做到的事情：打造一款出色的日常 Android 平板电脑"
+    },
     {
      "title": "Double Fine's first post-Xbox title, first-person Soulslikes and other new indie games worth checking out",
      "link": "https://www.engadget.com/2289293/double-fine-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games/",
@@ -2154,14 +2170,6 @@ window.INDUSTRY_DATA = {
      "zh": "9to5Mac Daily：2026 年 10 月 16 日 – iPhone Duo 预购等"
     },
     {
-     "title": "Amazon drops the Razer Kraken V4 X to its lowest price in months",
-     "link": "https://www.androidauthority.com/razer-kraken-v4-x-deal-3724679/",
-     "pubDate": "Fri, 16 Oct 2026 21:51:38 +0000",
-     "summary": "Razer Kraken V4 X drops to $54.39 on Amazon with USB-C, USB-A support, 40mm drivers, and a 4.5-star Amazon rating.",
-     "source": "Android Authority",
-     "zh": "亚马逊将 Razer Kraken V4 X 降价至数月来最低价"
-    },
-    {
      "title": "Apple calls iPhone Duo pre-order demand ‘extraordinary’ as shipping dates slip",
      "link": "https://9to5mac.com/2026/10/16/apple-calls-iphone-duo-pre-order-demand-extraordinary-as-shipping-dates-slip/",
      "pubDate": "Fri, 16 Oct 2026 21:33:28 +0000",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "高相机价格并不能证明相机制造商贪婪"
     },
     {
-     "title": "If you haven't pre-ordered an iPhone Duo yet, you're in for a long, long wait",
-     "link": "https://www.gsmarena.com/if_you_havent_preordered_an_iphone_duo_yet_but_want_one_youre_in_for_a_long_long_wait-news-75091.php",
-     "pubDate": "Fri, 16 Oct 2026 22:02:02 +0200",
-     "summary": "The Apple iPhone Duo is available for pre-order starting today – or rather we should say that it was available. The very limited supply became painfully apparent when mere hours after launching, Apple’s online store was already showing a shipping date of January 22. The original plan was for the iPh",
-     "source": "GSMArena",
-     "zh": "如果您还没有预订 iPhone Duo，那么您将要等待很长一段时间"
-    },
-    {
      "title": "Google’s Universal Cart puts a shopping cart everywhere, including Search homepage, Chrome",
      "link": "https://9to5google.com/2026/10/16/google-universal-cart-shopping-icon/",
      "pubDate": "Fri, 16 Oct 2026 19:47:01 +0000",
@@ -2257,6 +2257,54 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Anthropic co-founder Clark projects U.S. GDP to hit $44T by 2030 thanks to AI",
+     "link": "https://seekingalpha.com/news/4654036-anthropic-forecasts-us-gdp-at-44t-by-2030-due-to-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 17 Oct 2026 08:03:55 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Anthropic 联合创始人 Clark 预计，得益于人工智能，到 2030 年美国 GDP 将达到 44T 美元"
+    },
+    {
+     "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
+     "link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
+     "pubDate": "Sat, 17 Oct 2026 12:01:00 GMT",
+     "summary": "As earnings season kicks off, select tech companies have the opportunity to deliver big positive surprises for investors.",
+     "source": "MarketWatch",
+     "zh": "微软、Shopify 和另外 3 只华尔街最受欢迎的人工智能股票"
+    },
+    {
+     "title": "Marvell and Nvidia outlooks provide buying opportunities during downturn: GF",
+     "link": "https://seekingalpha.com/news/4653972-marvell-and-nvidia-outlooks-provide-buying-opportunities-during-downturn-gf?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 17 Oct 2026 08:00:20 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Marvell 和 Nvidia 的前景在经济低迷时期提供了买入机会：GF"
+    },
+    {
+     "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
+     "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+     "pubDate": "Sat, 17 Oct 2026 12:00:01 GMT",
+     "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+     "source": "CNBC",
+     "zh": "Bending Spoons 希望复兴被废弃的软件。伯克希尔支持该计划"
+    },
+    {
+     "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+     "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+     "pubDate": "Sat, 17 Oct 2026 12:00:00 GMT",
+     "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+     "source": "MarketWatch",
+     "zh": "我今年 64 岁，有两个儿子，但只有一个在家族企业工作。我应该把70%的生意留给他吗？"
+    },
+    {
+     "title": "中国人民银行行长潘功胜出席第54届国际货币与金融委员会会议",
+     "link": "http://www.eeo.com.cn/2026/1017/1068401.shtml",
+     "pubDate": "Sat, 17 Oct 2026 19:52:05 +0800",
+     "summary": "据中国人民银行10月17日消息，2026年10月16日至17日，国际货币基金组织在泰国曼谷召开第54届国际货币与金融委员会（IMFC）会议，会议讨论了全球经济金融形势、基金组织工作等议题。中国人民银行行长潘功胜出席会议并发言。中国人民银行副行长宣昌能参加会议。",
+     "source": "经济观察网",
+     "zh": "中国人民银行行长潘功胜出席第54届国际货币与金融委员会会议"
+    },
     {
      "title": "It was another great week for the average stock as market leadership shifts away from tech",
      "link": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
@@ -2328,14 +2376,6 @@ window.INDUSTRY_DATA = {
      "summary": "<img id=\"image14smp2cy0bcb6vurc1eqi6nz1in9yno\" title=\"微信图片_20260512100905_815_48.png\" src=\"https://jg-app.obs.cn-north-4.myhuaweic...",
      "source": "经济观察网",
      "zh": "新华财经晚报：全国秋粮收获过七成"
-    },
-    {
-     "title": "150余名青年代表齐聚大足 共促川渝协同发展",
-     "link": "http://www.eeo.com.cn/2026/1017/1068318.shtml",
-     "pubDate": "Sat, 17 Oct 2026 18:13:11 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 王钰 ）10月15日至17日，以“青智汇大足·携手创未来”为主题的2026青年企业家助力成渝地区双城经济圈建设大足宝顶大会学习交流活动（以下简称“宝顶大会”）在大足区举办。来自全国各地的青年企业家、青年科技工作者，中组部、团中央第26批赴渝博士服务团成员，以及川渝两地优秀青年代表等150余名嘉宾齐聚石刻之乡，共话发展。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upl...",
-     "source": "经济观察网",
-     "zh": "150余名青年代表齐聚大足 共促川渝协同发展"
     },
     {
      "title": "Trump exempts Russia from further sanctions mandated by new law",
@@ -2410,6 +2450,14 @@ window.INDUSTRY_DATA = {
      "zh": "我们正在梦游第三次世界大战吗？"
     },
     {
+     "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
+     "link": "https://wallstreetcn.com/articles/3783832",
+     "pubDate": "Sat, 17 Oct 2026 11:51:11 +0800",
+     "summary": "美股正在上演一场罕见的内部撕裂——指数岿然不动，但指数之下已是一片狼藉。 摩根士丹利首席股票策略师Mike Wilson在最新报告中警告， 收紧的金融条件正在悄然完成美联储的部分工作，只是这一冲击被集中吸收在普通股票身上，而非以AI为核心的少数巨头。 十年期美债收益率突破5.3%，美元升至本轮周期新高，油价居高不下，三重压力叠加之下，摩根士丹利综合金融条件指数已跳升至约1.4个标准差，这一水平在过去35年中仅被突破数次，上一次还是2022年美联储每次会议加息75个基点之时。与此同时，高盛已将预期修正为10月FOMC再加息一次。 市场的关键裂缝已清晰可见：标普500等权重指数在过去六个月落后市值",
+     "source": "华尔街见闻",
+     "zh": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？"
+    },
+    {
      "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
      "link": "https://wallstreetcn.com/articles/3783831",
      "pubDate": "Sat, 17 Oct 2026 11:22:17 +0800",
@@ -2448,54 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "波音商业销售主管麦克马伦即将退休 - 路透中文网"
-    },
-    {
-     "title": "Alcon wins approval of OTC Brytly eye drops",
-     "link": "https://seekingalpha.com/news/4654026-alcon-wins-approval-otc-brytly-eye-drops?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 18:59:12 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "爱尔康 OTC Brytly 滴眼液获得批准"
-    },
-    {
-     "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-     "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-     "pubDate": "Fri, 16 Oct 2026 22:34:29 GMT",
-     "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
-     "source": "CNBC",
-     "zh": "2026财年美国预算赤字将增至近2万亿美元，一年内增长12%"
-    },
-    {
-     "title": "Apple’s $1,999 iPhone Duo puts the company&apos;s status-symbol power to the test",
-     "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
-     "pubDate": "Fri, 16 Oct 2026 22:31:26 GMT",
-     "summary": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
-     "source": "CNBC",
-     "zh": "苹果售价 1,999 美元的 iPhone Duo 考验了该公司的地位象征力量"
-    },
-    {
-     "title": "Exxon sees higher refining margins adding $4.5B to Q3 earnings",
-     "link": "https://seekingalpha.com/news/4654023-exxon-sees-higher-refining-margins-adding-45b-to-q3-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 18:14:07 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "埃克森美孚预计炼油利润率上升，第三季度收益增加 $4.5B"
-    },
-    {
-     "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
-     "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 21:59:00 GMT",
-     "summary": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
-     "source": "MarketWatch",
-     "zh": "无处可藏：科技股遭遇抛售，软件股和芯片股同样受到冲击"
-    },
-    {
-     "title": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
-     "link": "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html",
-     "pubDate": "Fri, 16 Oct 2026 21:49:13 GMT",
-     "summary": "Democrats outraise Republicans in key Congress races as Elon Musk funds Ken Paxton in Texas and GOP groups aligned with Trump.",
-     "source": "CNBC",
-     "zh": "5 个中期资金要点：民主党拥有候选人现金。共和党人有埃隆·马斯克"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/18 00:33:54",
+ "generated_at": "2026/10/18 00:37:31",
  "recent_days": 7,
  "industries": [
   {
@@ -1073,20 +1073,20 @@
      "zh": "Germany Roundup: Enertrag, Enlight, Vattenfall, Fluence, Giga Storage progress 4-hour batteries totalling 3.2GWh to construction"
     },
     {
+     "title": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
+     "link": "https://www.utilitydive.com/news/nexteras-4m-trump-ballroom-donation-muddies-debate-over-dominion-merger/833201/",
+     "pubDate": "Fri, 16 Oct 2026 06:28:17 -0400",
+     "summary": "The donation, which advocates called &ldquo;problematic&rdquo; and &ldquo;convenient&rdquo; for the company, comes to light as federal regulators chosen by President Donald Trump consider whether to allow NextEra to merge with Dominion Energy.",
+     "source": "Utility Dive",
+     "zh": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say"
+    },
+    {
      "title": "GES secures US$252 million EPC contracts for four Spanish solar PV projects",
      "link": "https://www.pv-tech.org/ges-secures-us252-million-epc-contracts-four-spanish-solar-pv-projects/",
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
      "zh": "GES secures US$252 million EPC contracts for four Spanish solar PV projects"
-    },
-    {
-     "title": "US clean energy jobs fell in 2025 for the first time in years",
-     "link": "https://www.canarymedia.com/articles/clean-energy-jobs/trump-us-employment-falls-data-2025",
-     "pubDate": "Fri, 16 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Clean energy installations have persisted at record levels despite President Donald Trump’s best efforts to stop them. But the first year of Trump’s second term did leave a mark on U.S. jobs in the sector. Clean energy jobs fell in 2025 afte",
-     "source": "Canary Media",
-     "zh": "US clean energy jobs fell in 2025 for the first time in years"
     }
    ]
   },
@@ -2009,6 +2009,14 @@
    "total": 7,
    "items": [
     {
+     "title": "What does the yellow light on your Alexa device mean and how do you clear it?",
+     "link": "https://www.engadget.com/2284036/amazon-alexa-device-yellow-light-meaning/",
+     "pubDate": "Sat, 17 Oct 2026 16:30:00 +0000",
+     "summary": "Don't panic if your Amazon Echo is flashing a yellow light. Here's what that color means, how to clear it and how to tweak your Alexa notification settings.",
+     "source": "Engadget",
+     "zh": "What does the yellow light on your Alexa device mean and how do you clear it?"
+    },
+    {
      "title": "Anbernic's RG DDS is almost double the price of the original Nintendo 3DS",
      "link": "https://www.engadget.com/2289602/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/",
      "pubDate": "Sat, 17 Oct 2026 16:15:11 +0000",
@@ -2079,14 +2087,6 @@
      "summary": "As prices skyrocket on virtually everything else, Walmart’s $60 Onn 4K Pro streamer with Google TV might be the only good deal left — if you can find it in stock. more…",
      "source": "9to5Google",
      "zh": "Walmart’s $60 Google TV streamer might be the only good deal left in streaming"
-    },
-    {
-     "title": "How many watts should your Bluetooth speaker have?",
-     "link": "https://www.engadget.com/2284027/how-many-watts-bluetooth-speaker-need/",
-     "pubDate": "Sat, 17 Oct 2026 14:00:00 +0000",
-     "summary": "If you're confused by Bluetooth speaker wattage, here's what those numbers actually mean. Spoiler: more wattage doesn't necessarily mean a louder speaker.",
-     "source": "Engadget",
-     "zh": "How many watts should your Bluetooth speaker have?"
     },
     {
      "title": "What I learned from printing a photo for the first time",
@@ -2257,6 +2257,14 @@
    "total": 13,
    "items": [
     {
+     "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+     "link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+     "pubDate": "Sat, 17 Oct 2026 16:31:29 GMT",
+     "summary": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.",
+     "source": "CNBC",
+     "zh": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says"
+    },
+    {
      "title": "Real estate stocks surge as rate hike odds decrease",
      "link": "https://seekingalpha.com/news/4653963-real-estate-stocks-surge-as-rate-hike-odds-decrease?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 17 Oct 2026 12:00:16 -0400",
@@ -2337,14 +2345,6 @@
      "zh": "IMF总裁警告AI失控风险"
     },
     {
-     "title": "Trump&apos;s student loan overhaul could lead to more bankruptcy filings, former judge says",
-     "link": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
-     "pubDate": "Sat, 17 Oct 2026 13:30:01 GMT",
-     "summary": "After nearly three decades as a bankruptcy judge, Sarah Sharer Curley writes about the legal process in her new book, \"The Price of Forgiveness.\"",
-     "source": "CNBC",
-     "zh": "Trump&apos;s student loan overhaul could lead to more bankruptcy filings, former judge says"
-    },
-    {
      "title": "成本仅30元卖到6000元，央视曝光：“防癌神药”竟是麦芽糊精，出厂价不到1块钱，大批老年人被骗",
      "link": "http://www.eeo.com.cn/2026/1017/1068418.shtml",
      "pubDate": "Sat, 17 Oct 2026 21:26:12 +0800",
@@ -2417,28 +2417,12 @@
      "zh": "Influencers and biohackers swear by fasting. Here’s what the science says."
     },
     {
-     "title": "10月17日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202610173899073425.html",
-     "pubDate": "Sat, 17 Oct 2026 20:30:23 +0800",
-     "summary": "今日摘要 1、习近平总书记在内蒙古乌兰察布考察时的重要讲话引发广大干部群众热烈反响。大家表示，要认真学习贯彻总书记重要讲话精神，不断塑造绿色发展新动能、新优势，因地制宜推动高质量发展。 2、李强出席2026世界传统医药大会开幕式并致辞。 3、王沪宁在四川调研。 4、今年前八个月，我国服务贸易保持较快增长，国际竞争力持续提升。 5、各地优化服务，多举措保障群众温暖过冬。 6、日本人士表示，日本应当正视历史，深刻反省战争罪行。 7、也门政府谴责胡塞武装对亚丁民用 机场 发动袭击。胡塞武装称，打击了该 机场 附近沙特的军事目标。 内容速览 厚植绿色根基，因地制宜推动高质量发展——习近平总书记在内蒙古",
-     "source": "东方财富资讯",
-     "zh": "10月17日晚间央视新闻联播要闻集锦"
-    },
-    {
      "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
      "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
      "pubDate": "Sat, 17 Oct 2026 12:30:00 GMT",
      "summary": "There’s a relatively off-the-radar commodity that can provide hints on where the economy is headed — and it’s seen its value drop more than 50% from a record high earlier this year.",
      "source": "MarketWatch",
      "zh": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms"
-    },
-    {
-     "title": "算力需求增长催热高速接口IP！多家厂商加码背后 产业链协同成关键",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899073233.html",
-     "pubDate": "Sat, 17 Oct 2026 20:17:15 +0800",
-     "summary": "近期，工业和信息化部、国家发展改革委对外发布《 电子 信息制造业发展“十五五”规划》，明确提出，持续提升关键装备、材料和零部件供给能力，加快发展 电子 设计自动化工具（EDA）和 知识产权 核（IP核）。这是国家五年规划首次将IP核与EDA并列单列为集成电路产业的两个不同细分领域。与此同时，AI算力需求正向芯片设计上游传导，除了计算能力，芯片之间的数据传输能力也成为厂商关注的重点。 这一变化在展会现场已有所体现。近日在上海举行的第26届中国国际工业博览会（简称“工博会”）上，集成电路展“国芯展”首次亮相，汇聚芯片设计、晶圆制造、封装测试及设备材料等上下游企业。既有部分厂商将高速接口IP及解决方",
-     "source": "东方财富资讯",
-     "zh": "算力需求增长催热高速接口IP！多家厂商加码背后 产业链协同成关键"
     },
     {
      "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
@@ -2457,22 +2441,6 @@
      "zh": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?"
     },
     {
-     "title": "罕见！资金大规模出逃！美股做空者7天暴赚2140亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899057249.html",
-     "pubDate": "Sat, 17 Oct 2026 18:59:12 +0800",
-     "summary": "过去几天，随着资金大规模出逃，美股 半导体 股遭遇历史性暴跌。 根据彭博社汇编的S3 Partners数据，在10月7日至10月15日的7个交易日中，押注 半导体 股票下跌的做空者累计获得约320亿美元的账面总收益，约合人民币2140亿元；同期，费城 半导体 指数（SOX）下跌逾12%。 本周五（10月16日），费城半导体指数再度大跌近4%。数据显示，10月7日至10月16日，该指数累计跌幅超过15%，整个美股半导体板块市值合计蒸发近2.3万亿美元。 市场对借贷成本上升、估值高企以及AI基础设施巨额支出的担忧，正拖累芯片制造商和更广泛的市场。SLC Management投资策略与资产配置董事总",
-     "source": "东方财富资讯",
-     "zh": "罕见！资金大规模出逃！美股做空者7天暴赚2140亿元"
-    },
-    {
-     "title": "下周2只新股开启申购！超千亿解禁潮将至 6股解禁比例均超50%（附股）",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899054283.html",
-     "pubDate": "Sat, 17 Oct 2026 18:21:57 +0800",
-     "summary": "下周A股解禁总市值达1004.25亿元。 2只新股下周即将申购 据证券时报·数据宝统计，根据发行安排，下周暂有2只新股申购。 下周一（10月19日）可申购 皇冠新材 ，申购代码为001381，拟公开发行A股5630.48万股，其中网上发行1351.30万股，发行价格为16.98元，单一账户申购上限为13500股，申购数量为500股的整数倍，顶格申购需持有深市市值13.50万元。公司2023年—2025年净利润分别为2.78亿元、3.02亿元、3.09亿元，同比变动幅度为35.06%、8.92%、2.28%。 下周二（10月20日）可申购 天元重工 ，申购代码为920306，本次初始发行股份总量",
-     "source": "东方财富资讯",
-     "zh": "下周2只新股开启申购！超千亿解禁潮将至 6股解禁比例均超50%（附股）"
-    },
-    {
      "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
      "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
      "pubDate": "Sat, 17 Oct 2026 10:20:44 GMT",
@@ -2489,12 +2457,44 @@
      "zh": "Trump exempts Russia from further sanctions mandated by new law"
     },
     {
-     "title": "三季度净利环比增幅哪家强？算力企业摘得桂冠 PCB行业表现抢眼",
-     "link": "http://finance.eastmoney.com/news/11158,202610173899051127.html",
-     "pubDate": "Sat, 17 Oct 2026 17:46:57 +0800",
-     "summary": "①共有155家发布业绩预告，从三季度净利环比下限情况来看，61家实现环比增长；②排名靠前的分别为 元件 （ PCB ）10家、 半导体 9家、化工6家、制药4家、 通信设备 3家。 截至10月17日，A股共有155家发布业绩预告，从三季度净利环比下限情况来看，61家实现环比增长。行业上看，排名靠前的分别为 元件 （ PCB ）10家、 半导体 9家、化工6家、制药4家、 通信设备 3家。 环比增幅排名前十的公司为 行云科技 （569.35%）、 美年健康 （276.31%）、 崇达技术 （269.64%）、 杰创智能 （264.60%）、 华通线缆 （220.08%）、 兴森科技 （215.4",
-     "source": "东方财富资讯",
-     "zh": "三季度净利环比增幅哪家强？算力企业摘得桂冠 PCB行业表现抢眼"
+     "title": "IMF警告日本可能需要更快加息，全球债市再添压力？",
+     "link": "https://wallstreetcn.com/articles/3783840",
+     "pubDate": "Sat, 17 Oct 2026 17:44:22 +0800",
+     "summary": "国际货币基金组织罕见地为日本货币政策正常化背书，并警告若通胀超预期，日本央行可能需要加快加息步伐。这一表态，在全球债市已然动荡之际，令市场对日本资金撤离海外资产的担忧进一步升温。 IMF亚太部门主任Krishna Srinivasan在本周于曼谷召开的IMF年会期间接受路透社采访时表示， 日本央行\"正在做正确的事\"，并强调若通胀上升快于预期，\"必须更快收紧，因为你不希望通胀预期脱锚。这取决于数据。\" 日本央行行长植田和男亦在出席本次IMF年会时重申，央行将专注于将核心通胀锚定在2%目标附近，不会容忍任何超调，进一步强化了市场对年内再度加息的预期。 IMF的表态恰逢全球债市承压之际。法国10年期",
+     "source": "华尔街见闻",
+     "zh": "IMF警告日本可能需要更快加息，全球债市再添压力？"
+    },
+    {
+     "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
+     "link": "https://wallstreetcn.com/articles/3783838",
+     "pubDate": "Sat, 17 Oct 2026 16:14:47 +0800",
+     "summary": "Anthropic正以远高于市场基准的融资成本推进其史上最大规模芯片融资，折射出AI基础设施军备竞赛背后日益高企的资本代价。 据英国《金融时报》17日报道， Anthropic正向黑石集团（Blackstone）提供逾10%的收益率，以换取后者参与这笔代号\"Project North Star\"、总规模高达600亿美元的债务融资。 知情人士透露，黑石旗下基金将认购其中90亿美元，约占180亿美元次级贷款的一半，并获得10%的票息，加计新发折价及其他费用后实际总回报更高。 这笔融资规模预计将创下芯片融资历史纪录，并将成为衡量投资者对AI债务胃口的重要风向标。值得关注的是，仅仅四个月前，Anthr",
+     "source": "华尔街见闻",
+     "zh": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率"
+    },
+    {
+     "title": "上线了！2027见闻历超值预售99元，活动火热进行中！",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Sat, 17 Oct 2026 15:08:27 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "上线了！2027见闻历超值预售99元，活动火热进行中！"
+    },
+    {
+     "title": "AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防",
+     "link": "https://wallstreetcn.com/articles/3783836",
+     "pubDate": "Sat, 17 Oct 2026 15:06:40 +0800",
+     "summary": "花旗、美国银行和摩根大通相继宣布限制AI智能代理访问客户账户，这场集体设防的背后，是银行业对数万亿美元低成本存款可能被AI\"扫走\"的深层焦虑。 花旗明确表示， 不允许\"第三方AI代理或助手登录客户账户，或直接在其数字银行平台上进行交易\"， 称此举旨在保障客户账户与信息安全。美国银行首席执行官Brian Moynihan本周三在接受CNBC采访时表示， 该行正在限制AI代理访问消费者存款账户，同时研究在AI发起支付指令时如何界定责任主体。 摩根大通首席执行官Jamie Dimon则在该行三季度业绩电话会议上表示， 将限制AI代理访问客户账户，理由是\"你不会希望出现流氓代理，而且这类代理可能数以千",
+     "source": "华尔街见闻",
+     "zh": "AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防"
+    },
+    {
+     "title": "The Man City theory of politics",
+     "link": "https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1",
+     "pubDate": "Sat, 17 Oct 2026 04:00:21 GMT",
+     "summary": "The tribalism of football fans parallels modern politics like nothing else",
+     "source": "Financial Times",
+     "zh": "The Man City theory of politics"
     }
    ]
   },

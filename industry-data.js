@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/18 07:24:50",
+ "generated_at": "2026/10/18 07:32:53",
  "recent_days": 7,
  "industries": [
   {
@@ -338,36 +338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Data Center Power a Prominent Highlight of OCP 2026"
     },
     {
-     "title": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/microchip-pol-05-20s-is-radiation-tolerant-gan-point-of-load-converter-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 14:24:13 +0000",
-     "summary": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
-     "source": "Electronics Weekly",
-     "zh": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter"
-    },
-    {
      "title": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition",
      "link": "https://semiconductor-today.com/news_items/2026/oct/omdia-161026.shtml",
      "pubDate": "Fri, 16 Oct 2026 14:52:30 +0100",
      "summary": "According to market research firm Omdia’s preliminary estimates, global smartphone shipments fell 20% year-on-year in third-quarter 2026, a sharp acceleration from the 6% decline recorded the previous quarter. Shipments also declined sequentially despite new flagship launches and channel preparation",
      "source": "Semiconductor Today",
      "zh": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition"
-    },
-    {
-     "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-arm-vs-qualcomm-ai-boom-adr-mission-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 13:38:02 +0000",
-     "summary": "The latest installment of the Arm vs Qualcomm case, the weirdness of the current semiconductor market, and an active debris removal mission to launch from Scotland mission... The post What caught your eye? Arm vs Qualcomm, AI boom, ADR mission appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission"
-    },
-    {
-     "title": "When Mandy  Became A Revolutionary",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-mandy-became-a-revolutionary-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 13:32:30 +0000",
-     "summary": "Mandy is known for other things now but 28 years ago he was a revolutionary, as this EW yarn in September 1998 chronicled: ‘The first major speech as cabinet minister […] The post When Mandy Became A Revolutionary appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "When Mandy  Became A Revolutionary"
     },
     {
      "title": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume",
@@ -378,36 +354,12 @@ window.INDUSTRY_DATA = {
      "zh": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume"
     },
     {
-     "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/a-v-cuk-group-adds-auracast-assistive-listening-technology-to-portfolio-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 11:12:17 +0000",
-     "summary": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
-     "source": "Electronics Weekly",
-     "zh": "A/V: CUK Group adds Auracast assistive listening technology to portfolio"
-    },
-    {
      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
      "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
      "pubDate": "Fri, 16 Oct 2026 10:55:42 +0000",
      "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Taiwan’s AI Ambitions Run into Talent Gap"
-    },
-    {
-     "title": "R&S extends amplifier range for satellite use",
-     "link": "https://www.electronicsweekly.com/news/rs-extends-amplifier-range-for-satellite-use-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 10:54:42 +0000",
-     "summary": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "R&S extends amplifier range for satellite use"
-    },
-    {
-     "title": "Raltron monolithic crystal filter series for gateway ground stations",
-     "link": "https://www.electronicsweekly.com/news/products/raltron-monolithic-crystal-filter-series-for-gateway-ground-stations-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 10:20:32 +0000",
-     "summary": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
-     "source": "Electronics Weekly",
-     "zh": "Raltron monolithic crystal filter series for gateway ground stations"
     },
     {
      "title": "GlobalFoundries’ CHIPS Program award amended to support $5bn investment in Malta, NY, and Burlington, VT",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Artificial intelligence is becoming part of the infrastructure that powers healthcare, transportation, finance, manufacturing, and everyday digital services. As these systems grow more capable, they also process more sensitive information and depend on increasingly complex hardware. The Synopsys whi",
      "source": "SemiWiki",
      "zh": "Why AI Security Starts at the Chip Level"
+    },
+    {
+     "title": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/onsemi-151026.shtml",
+     "pubDate": "Thu, 15 Oct 2026 10:36:20 +0100",
+     "summary": "Intelligent power and sensing technology firm onsemi of Scottsdale, AZ, USA says that its latest EliteSiC silicon carbide (SiC) hybrid power module technology has been adopted by renewable energy technology firm Sungrow for its PowerTitan 3.0 energy storage platform. The integration enables improved",
+     "source": "Semiconductor Today",
+     "zh": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform"
+    },
+    {
+     "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+     "link": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
+     "pubDate": "Thu, 15 Oct 2026 07:07:45 +0000",
+     "summary": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself. The post Beyond The Specification: What Really Determines PCIe Retimer Reach? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Beyond The Specification: What Really Determines PCIe Retimer Reach?"
+    },
+    {
+     "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
+     "link": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/",
+     "pubDate": "Thu, 15 Oct 2026 07:06:02 +0000",
+     "summary": "Short-resilient via insertion improves reliability and performance. The post Strengthening Advanced-Node Interconnects Through Automated Via Insertion appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion"
+    },
+    {
+     "title": "Building AI Infrastructure For Greater Choice And Flexibility",
+     "link": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/",
+     "pubDate": "Thu, 15 Oct 2026 07:03:05 +0000",
+     "summary": "Open interfaces and interoperability allow designers to choose technologies based on the needs of the system. The post Building AI Infrastructure For Greater Choice And Flexibility appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Building AI Infrastructure For Greater Choice And Flexibility"
+    },
+    {
+     "title": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
+     "link": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/",
+     "pubDate": "Thu, 15 Oct 2026 07:02:37 +0000",
+     "summary": "Extending chiplet connectivity across AXI and CHI with scalable protocol subsets, interoperability, and flexible transport support. The post AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity"
+    },
+    {
+     "title": "Why Open-Weight AI Matters",
+     "link": "https://semiengineering.com/why-open-weight-ai-matters/",
+     "pubDate": "Thu, 15 Oct 2026 07:02:13 +0000",
+     "summary": "Proprietary models still hold the edge, but open-weight models add more flexibility for deploying AI. The post Why Open-Weight AI Matters appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why Open-Weight AI Matters"
     }
    ]
   },
@@ -1074,20 +1074,20 @@ window.INDUSTRY_DATA = {
      "zh": "Germany Roundup: Enertrag, Enlight, Vattenfall, Fluence, Giga Storage progress 4-hour batteries totalling 3.2GWh to construction"
     },
     {
+     "title": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
+     "link": "https://www.utilitydive.com/news/nexteras-4m-trump-ballroom-donation-muddies-debate-over-dominion-merger/833201/",
+     "pubDate": "Fri, 16 Oct 2026 06:28:17 -0400",
+     "summary": "The donation, which advocates called &ldquo;problematic&rdquo; and &ldquo;convenient&rdquo; for the company, comes to light as federal regulators chosen by President Donald Trump consider whether to allow NextEra to merge with Dominion Energy.",
+     "source": "Utility Dive",
+     "zh": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say"
+    },
+    {
      "title": "GES secures US$252 million EPC contracts for four Spanish solar PV projects",
      "link": "https://www.pv-tech.org/ges-secures-us252-million-epc-contracts-four-spanish-solar-pv-projects/",
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
      "zh": "GES secures US$252 million EPC contracts for four Spanish solar PV projects"
-    },
-    {
-     "title": "US clean energy jobs fell in 2025 for the first time in years",
-     "link": "https://www.canarymedia.com/articles/clean-energy-jobs/trump-us-employment-falls-data-2025",
-     "pubDate": "Fri, 16 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Clean energy installations have persisted at record levels despite President Donald Trump’s best efforts to stop them. But the first year of Trump’s second term did leave a mark on U.S. jobs in the sector. Clean energy jobs fell in 2025 afte",
-     "source": "Canary Media",
-     "zh": "US clean energy jobs fell in 2025 for the first time in years"
     }
    ]
   },
@@ -1762,6 +1762,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "全球化交付加速：小鹏 GX 大规模发运中东非市场，海外售价未公布中东订单已破 3000 辆",
+     "link": "https://www.ithome.com/1/014/420.htm",
+     "pubDate": "Sat, 17 Oct 2026 23:28:54 GMT",
+     "summary": "IT之家 10 月 18 日消息，小鹏汽车官方昨日宣布， 小鹏 GX 大规模发运中东非市场 ，全球化交付加速。 据介绍，该车海外售价尚未公布， 中东订单已突破 3,000 辆 。国内连续跻身 30 万级以上大型 SUV 销量前三。 据IT之家此前报道， 小鹏 GX 旗舰 SUV 于今年 5 月 20 日正式上市 ，至今仅 3 个月。该车提供纯电、增程两种不同动力，售价区间为 27.98 万-35.98 万元，限时减免 1 万元。 小鹏 GX 外观设计汲取了游艇灵感，拥有 5265mm x 1999mm x 1800mm 尺寸和 3115mm 的轴距，配备 22 英寸超宽鸳鸯胎；提供珠峰白、极地",
+     "source": "IT之家",
+     "zh": "全球化交付加速：小鹏 GX 大规模发运中东非市场，海外售价未公布中东订单已破 3000 辆"
+    },
+    {
+     "title": "布局物理 AI：美光研发边缘推理内存 EIM，降低数据处理延迟并提高带宽",
+     "link": "https://www.ithome.com/1/014/419.htm",
+     "pubDate": "Sat, 17 Oct 2026 23:26:38 GMT",
+     "summary": "IT之家 10 月 18 日消息，据韩媒 The Elec 报道，美光正在推进面向物理 AI 的专用存储芯片 —— 边缘推理内存（Edge Inference Memory，EIM）的研发。 10 月 16 日，在首尔江南 COEX 举行的韩国半导体展（SEDEX 2026）专题论坛“驱动人形机器人的半导体”上，美光高管（常务）李哲（音译）表示：“自动驾驶、人形机器人、增强现实（AR）及虚拟现实（VR）等物理 AI 市场正在迅速崛起。我们正与核心客户紧密沟通，共同推进适配这一新兴市场的产品研发。” 据悉， EIM 能够高速处理 AI 推理所需的数据 ，其架构是在逻辑芯片之上垂直堆叠低功耗内存（",
+     "source": "IT之家",
+     "zh": "布局物理 AI：美光研发边缘推理内存 EIM，降低数据处理延迟并提高带宽"
+    },
+    {
      "title": "雷克萨斯推出直升机出租服务，完成陆海空出行布局",
      "link": "https://www.ithome.com/1/014/418.htm",
      "pubDate": "Sat, 17 Oct 2026 23:20:59 GMT",
@@ -1802,26 +1818,10 @@ window.INDUSTRY_DATA = {
      "zh": "当代校园恐怖：父母社交账号成了霸凌武器库"
     },
     {
-     "title": "全新领克 20 整车下线 1.2 万台，限时专享价 11.88 万元起",
-     "link": "https://www.ithome.com/1/014/414.htm",
-     "pubDate": "Sat, 17 Oct 2026 23:00:02 GMT",
-     "summary": "IT之家 10 月 18 日消息，领克汽车官方昨晚宣布， 全新领克 20 整车下线 12,000 台 。 据IT之家此前报道，全新领克 20 于 9 月 28 日晚上市，全系标配激光雷达、800V 高压平台， 限时专享价 11.88 万元起 。 该车上市 1 小时大定突破 14663 台 。 IT之家注意到，该车基于 SEA 浩瀚架构打造，车长 4495mm、轴距 2755mm。全系标配全域 800V 高压平台与 6C 超高充电倍率，最大充电功率可达 460kW，电量从 10% 充至 80% 仅需约 12 分钟。车辆提供 545km 和 630km 两种 CLTC 续航版本。 新车全系标配激光",
-     "source": "IT之家",
-     "zh": "全新领克 20 整车下线 1.2 万台，限时专享价 11.88 万元起"
-    },
-    {
-     "title": "梅赛德斯-AMG GT 纯电高性能 SUV 发布，GT 63 三电机最大功率 860 千瓦",
-     "link": "https://www.ithome.com/1/014/413.htm",
-     "pubDate": "Sat, 17 Oct 2026 22:57:15 GMT",
-     "summary": "IT之家 10 月 18 日消息，今年早些时候，梅赛德斯发布了全新 AMG GT 四门轿跑，这是一款高性能电动汽车，拥有 1,153 马力，搭载源自一级方程式赛车的电池技术，还配备漂移模式。虽然纸面参数十分亮眼，但它的外观设计与产品理念激怒了众多车迷。车迷们惋惜车辆失去了含蓄的性能标识，V8 发动机也被取消。如今，梅赛德斯团队推出了造型相近、动力参数完全相同的梅赛德斯-AMG GT SUV。 全新梅赛德斯-AMG GT SUV 分为三个版本：GT 53、GT 55 以及 GT 63。全系都基于 800 伏的 AMG.EA 平台打造。基础款 GT 53 搭载两台永磁同步电机，前后轴各一台，可输出",
-     "source": "IT之家",
-     "zh": "梅赛德斯-AMG GT 纯电高性能 SUV 发布，GT 63 三电机最大功率 860 千瓦"
-    },
-    {
      "title": "JDK 28",
      "link": "https://openjdk.org/projects/jdk/28/",
      "pubDate": "Sat, 17 Oct 2026 21:37:07 +0000",
-     "summary": "Article URL: https://openjdk.org/projects/jdk/28/ Comments URL: https://news.ycombinator.com/item?id=50135379 Points: 10 # Comments: 1",
+     "summary": "Article URL: https://openjdk.org/projects/jdk/28/ Comments URL: https://news.ycombinator.com/item?id=50135379 Points: 15 # Comments: 2",
      "source": "Hacker News",
      "zh": "JDK 28"
     },
@@ -1845,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
      "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
      "pubDate": "Sat, 17 Oct 2026 20:07:33 +0000",
-     "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 57 # Comments: 58",
+     "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 59 # Comments: 60",
      "source": "Hacker News",
      "zh": "Chrome and Edge are removing XSLT: what breaks and what does not"
     },
@@ -1877,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft and CMU team up to train early career software engineers",
      "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
      "pubDate": "Sat, 17 Oct 2026 18:45:07 +0000",
-     "summary": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 48 # Comments: 52",
+     "summary": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 51 # Comments: 56",
      "source": "Hacker News",
      "zh": "Microsoft and CMU team up to train early career software engineers"
     },
@@ -1885,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "OpenCode Hacked: User credentials leaked",
      "link": "https://twitter.com/opencode/status/2111516673953935833",
      "pubDate": "Sat, 17 Oct 2026 18:01:41 +0000",
-     "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 657 # Comments: 110",
+     "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 676 # Comments: 118",
      "source": "Hacker News",
      "zh": "OpenCode Hacked: User credentials leaked"
     },
@@ -1893,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Codex Desktop continuously generates Crashpad pending dumps",
      "link": "https://github.com/openai/codex/issues/25921",
      "pubDate": "Sat, 17 Oct 2026 17:45:08 +0000",
-     "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 45 # Comments: 24",
+     "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 46 # Comments: 24",
      "source": "Hacker News",
      "zh": "Codex Desktop continuously generates Crashpad pending dumps"
     },
@@ -1901,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "I Became a Citizen of Japan",
      "link": "https://www.derekwessman.com/blog-1/natural",
      "pubDate": "Sat, 17 Oct 2026 17:36:17 +0000",
-     "summary": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 115 # Comments: 39",
+     "summary": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 123 # Comments: 41",
      "source": "Hacker News",
      "zh": "I Became a Citizen of Japan"
     },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Deals: latest Galaxy foldables and Galaxy S26 series are on sale",
+     "link": "https://www.gsmarena.com/deals_the_galaxy_z8_and_galaxy_s26_models_are_on_sale-news-75085.php",
+     "pubDate": "Sun, 18 Oct 2026 01:24:02 +0200",
+     "summary": "Last week, we covered Amazon’s Prime Big Deal Days and then the aftermath – some phones kept their promotional prices from the Prime sale even during the weekend, while others went back up. Checking back again on them this week, we see that all phones now cost more. That is on Amazon, anyway, so we ",
+     "source": "GSMArena",
+     "zh": "Deals: latest Galaxy foldables and Galaxy S26 series are on sale"
+    },
     {
      "title": "Why your Wi-Fi speeds can drop in the evening, and what to do about it",
      "link": "https://www.engadget.com/2284612/wifi-speeds-drop-evening-reason-why/",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "I never thought I’d ditch Samsung Notes, but this Google Keep feature changed my mind"
     },
     {
-     "title": "Deals: iPhone Duo pre-orders begin as Galaxy Z Fold8 gets a price cut",
-     "link": "https://www.gsmarena.com/deals_iphone_duo_preorders_begin_as_galaxy_z_fold8_gets_a_price_cut-news-75096.php",
-     "pubDate": "Sat, 17 Oct 2026 11:01:02 +0200",
-     "summary": "Apple’s first foldable iPhone is now available for pre-order, but the iPhone Duo sold out quickly in most regions. Delivery estimates for the foldable have already slipped to late January. Instead, you could get yourself the Samsung Galaxy Z Fold8, which also has the wide-screen aspect ratio as the ",
-     "source": "GSMArena",
-     "zh": "Deals: iPhone Duo pre-orders begin as Galaxy Z Fold8 gets a price cut"
-    },
-    {
      "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
      "link": "https://sspai.com/post/104231",
      "pubDate": "Sat, 17 Oct 2026 14:58:04 +0800",
@@ -2258,6 +2258,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "霍尔木兹海峡 突传大消息！伊朗 最新动作！",
+     "link": "http://finance.eastmoney.com/news/1356,202610183899096130.html",
+     "pubDate": "Sun, 18 Oct 2026 07:23:55 +0800",
+     "summary": "来看最新消息。 伊朗武装部队开火拦截霍尔木兹海峡“违规”通行船只 央视新闻 自伊朗方面获悉，当地时间17日18时15分，伊朗武装部队从锡里克地区附近向霍尔木兹海峡试图“违规”通行的船只开火，并将其拦截。 巴基斯坦暂时关闭与伊朗的边境 贸易通 道 当地时间10月17日，巴基斯坦俾路支省查盖地区副专员在社交媒体上表示，出于安全考虑，巴基斯坦与伊朗之间的边境贸易已暂时中止。 该官员表示，暂时关闭巴伊边境 贸易通 道是为加强边境管理、支持反恐行动而采取的临时措施。一旦相关有效措施落实到位，边境将重新开放。 伊朗革命卫队：又一超级油轮在霍尔木兹海峡触雷起火 伊朗伊斯兰革命卫队海军17日在社交媒体发表声明",
+     "source": "东方财富股票",
+     "zh": "霍尔木兹海峡 突传大消息！伊朗 最新动作！"
+    },
+    {
+     "title": "伊朗开火！阿富汗、巴基斯坦交火！乌克兰能源系统遭大规模袭击！原油暗盘直线拉升",
+     "link": "http://finance.eastmoney.com/news/1356,202610183899096048.html",
+     "pubDate": "Sun, 18 Oct 2026 07:17:38 +0800",
+     "summary": "早上好，一起来看下最新消息。 伊朗武装部队开火拦截霍尔木兹海峡“违规”通行船只 总台记者自伊朗方面获悉，当地时间17日18时15分，伊朗武装部队从锡里克地区附近向霍尔木兹海峡试图“违规”通行的船只开火，并将其拦截。 巴基斯坦打击阿富汗武装边境哨所和军营 据央视新闻报道，巴基斯坦安全部门消息人士17日称，阿富汗武装人员当天在巴基斯坦西北部开伯尔－普什图省巴阿边境地带无端开火，巴基斯坦安全部队对此作出有效回应。 消息人士称，阿富汗武装人员在该省古勒姆地区巴阿边境地带无端开火，企图为恐怖分子越境提供便利。作为回应，巴基斯坦安全部队打击了阿富汗武装的一处边境哨所和一处军事营地，打死数名阿富汗武装人员。",
+     "source": "东方财富股票",
+     "zh": "伊朗开火！阿富汗、巴基斯坦交火！乌克兰能源系统遭大规模袭击！原油暗盘直线拉升"
+    },
+    {
+     "title": "【大宗周刊】千亿级民企谢幕 不锈钢产业格局加速重构！",
+     "link": "http://finance.eastmoney.com/news/1354,202610183899095949.html",
+     "pubDate": "Sun, 18 Oct 2026 07:17:31 +0800",
+     "summary": "近日，不锈钢产业链发生两起标志性事件，共同指向德龙系破产重整资产的处置落地。 10月14日，江苏德龙 镍 业有限公司（下称德龙 镍 业）位于江苏响水经济开发区的厂区大门正式换上了“江苏象屿不锈钢有限责任公司”招牌。据 期货 日报记者了解，象屿集团通过全资子公司厦门钢屿投资有限公司承接了德龙 镍 业在国内的不锈钢冶炼业务，同时通过全资子公司厦门胜立投资有限公司承接了德龙镍业的海外资产。 德龙镍业由“ 钢铁 大王”戴国芳于2010年创办，2022年营收1695.23亿元，2023年位列中国民企500强第47名，成为全球第二大不锈钢供应商。然而，由于行业周期调整和市场需求不足，叠加产能扩张过快，20",
+     "source": "东方财富股票",
+     "zh": "【大宗周刊】千亿级民企谢幕 不锈钢产业格局加速重构！"
+    },
+    {
+     "title": "航空安全不能靠奇迹",
+     "link": "http://finance.eastmoney.com/news/1354,202610183899091740.html",
+     "pubDate": "Sun, 18 Oct 2026 07:15:07 +0800",
+     "summary": "近日，在一架从阿联酋迪拜飞往以色列特拉维夫的 波音 客机上，170多名乘客熬过了漫长的1个小时。飞机30秒内骤降4300米，乘客与机组人员冲进驾驶舱，制服了刺伤机长的副驾驶。两名飞行员接手，把方向舵已大面积脱落的飞机迫降至沙特阿拉伯塔布克 机场 。 抓住操纵杆让飞机恢复平稳的乘客说，自己是从纪录片《空中浩劫》里学来的经验。航空专家把这次安全着陆称作“航空奇迹”。 事件发生于“9·11”事件25周年纪念日的19天后。当年，4架被劫持的客机共计夺走了近3000条生命，其中1架 联合航空 93号航班的乘客为夺回控制权冲向驾驶舱。25年后，类似的一幕重演，只不过这次幸运地发生了“奇迹”。 然而，奇迹不",
+     "source": "东方财富股票",
+     "zh": "航空安全不能靠奇迹"
+    },
+    {
      "title": "美对伊朗发动新一轮军事打击的概率上升",
      "link": "http://finance.eastmoney.com/news/1356,202610183899095872.html",
      "pubDate": "Sun, 18 Oct 2026 07:00:38 +0800",
@@ -2274,44 +2306,12 @@ window.INDUSTRY_DATA = {
      "zh": "俄国防部称大规模打击乌能源设施"
     },
     {
-     "title": "日本政府被曝考虑增税筹措防卫费",
-     "link": "http://finance.eastmoney.com/news/1351,202610183899095655.html",
-     "pubDate": "Sun, 18 Oct 2026 06:55:13 +0800",
-     "summary": "据日本方面10月17日消息，日本政府正考虑通过进一步提高企业的法人税，为预计将持续膨胀的防卫费筹措资金。分析称有关计划可能引发经济界反对。 据悉，日本政府正在推进“安保三文件”修订，其中，新一轮覆盖2027至2031财年的《防卫力整备计划》提出大量采购 无人机 、增加弹药和导弹储备，为长期作战做准备。日本政府高层人士称，如果按照防卫省所需进行估算，未来5年日本防卫费总额“可能膨胀至70万亿至80万亿日元（1美元约合158日元）”。 多名相关人士称，面对不断膨胀的防卫费，日本政府正考虑进一步提高企业的法人税，以确保稳定财源。分析指出，日本政府还计划调整财政支出，以筹措防卫费资金，但这些计划都存在",
-     "source": "东方财富股票",
-     "zh": "日本政府被曝考虑增税筹措防卫费"
-    },
-    {
      "title": "Protests across France spiral into riots and looting",
      "link": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
      "pubDate": "Sat, 17 Oct 2026 22:49:57 GMT",
      "summary": "Violence erupts in several cities after mass demonstrations over high living costs and dissatisfaction with the education system",
      "source": "Financial Times",
      "zh": "Protests across France spiral into riots and looting"
-    },
-    {
-     "title": "在承前启后的关键时期全面发力",
-     "link": "http://finance.eastmoney.com/news/1350,202610183899093759.html",
-     "pubDate": "Sun, 18 Oct 2026 06:45:09 +0800",
-     "summary": "全面建设社会主义现代化国家、基本实现社会主义现代化，是社会主义初级阶段我国发展的要求，也是我国社会主义从初级阶段向更高阶段迈进的要求。全面建成小康社会、实现第一个百年奋斗目标之后，我们乘势而上开启全面建设社会主义现代化国家新征程、向第二个百年奋斗目标进军，这标志着我国进入了一个新发展阶段。当前，我们已胜利完成“十四五”规划主要目标任务，并将通过“十五五”“十六五”的接续奋斗，到2035年基本实现社会主义现代化。深刻认识和把握“十五五”时期的历史方位和目标任务，对于以中国式现代化全面推进强国建设、民族复兴伟业具有重要意义。 深刻把握“十五五”时期历史方位 “十五五”规划纲要提出，“十五五”时期在",
-     "source": "东方财富股票",
-     "zh": "在承前启后的关键时期全面发力"
-    },
-    {
-     "title": "伊朗武装部队开火拦截霍尔木兹海峡“违规”通行船只；泽连斯基称乌美最快下周举行新一轮会谈；DeepSeek官宣新版本丨每经早参",
-     "link": "http://finance.eastmoney.com/news/1354,202610183899095593.html",
-     "pubDate": "Sun, 18 Oct 2026 06:41:54 +0800",
-     "summary": "1 中韩海上执法部门圆满完成中韩 渔业 协定暂定措施水域联合巡航 10月17日，据中国海警微信公众号消息，为维护中韩 渔业 协定暂定措施水域 渔业 生产秩序，深化中韩两国海上执法机构合作交流，10月8日至17日， 中国海警长山舰与韩无穷花42渔业指导船在中韩渔业协定暂定措施水域开展了2026年中韩海上执法机构联合执法巡航 。联巡期间，双方舰船对两国作业渔船进行观察记录和登临检查，对渔船民开展宣传 教育 ，累计巡航210余小时、1200余海里，观察记录渔船123艘，喊话 教育 提醒74艘、登临检查3艘，巡航海域渔业生产作业秩序总体良好。 2 本轮降雨影响范围广、南方降雨持续国家防总部署防汛工作 ",
-     "source": "东方财富股票",
-     "zh": "伊朗武装部队开火拦截霍尔木兹海峡“违规”通行船只；泽连斯基称乌美最快下周举行新一轮会谈；DeepSeek官宣新版本丨每经早参"
-    },
-    {
-     "title": "以总理办公室：针对欧洲外交官的暴力行为“不可接受”",
-     "link": "http://finance.eastmoney.com/news/11790,202610183899095449.html",
-     "pubDate": "Sun, 18 Oct 2026 06:33:38 +0800",
-     "summary": "当地时间17日，针对当天早些时候多名欧洲外交官在约旦河西岸遭以色列犹太人定居者袭击事件，以色列总理办公室发表声明称，针对外交官的暴力行为是“不可接受的”。 声明同时要求各方对欧洲外交官在约旦河西岸遭以犹太人定居者袭击事件保持谨慎，称“现有画面无法确定完整事实，得出结论还为时过早”。（央视新闻） （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "以总理办公室：针对欧洲外交官的暴力行为“不可接受”"
     },
     {
      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 18:30:03",
+ "generated_at": "2026/10/17 18:49:47",
  "recent_days": 7,
  "industries": [
   {
@@ -671,7 +671,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 20:42:51 +0000",
      "summary": "Montréal Metropolitan Airport now has 120 EV chargers online, with another 48 on the way as the airport expands. more…",
      "source": "Electrek",
-     "zh": "蒙特利尔机场现已拥有 120 个电动汽车充电器，还有 48 个正在建设中"
+     "zh": "蒙特利尔机场现有 120 个电动汽车充电器，还有 48 个正在建设中"
     },
     {
      "title": "Podcast: The Tesla Roadster episode",
@@ -679,7 +679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 19:51:39 +0000",
      "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll focus on the Tesla Roadster unveiling, but we may also cover a few other topics. more…",
      "source": "Electrek",
-     "zh": "播客：特斯拉跑车剧集"
+     "zh": "播客：特斯拉 Roadster 剧集"
     },
     {
      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
@@ -719,7 +719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 17:06:03 +0000",
      "summary": "Volkswagen is set to recall “several thousand” electric vehicles, including the ID.4 and ID. Buzz. The company is urging owners to limit charging to 80% until a fix is available. more…",
      "source": "Electrek",
-     "zh": "大众汽车正在召回“数千”辆电动汽车，其中包括 ID.4，而且不仅仅在美国"
+     "zh": "大众汽车正在召回“数千辆”电动汽车，其中包括 ID.4，而且不仅仅在美国"
     },
     {
      "title": "European Car Companies Can't Compete With Chinese Tech. In Paris, They Leaned On 'Heritage' Instead",
@@ -767,7 +767,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:44:30 +0000",
      "summary": "The model is Aiva's first production vehicle since the brand's launch in June, measuring 4,999 mm in length. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "随着 Seres 支持的品牌转向生产，Aiva ME7 出现在监管文件中"
+     "zh": "Seres 支持的品牌转向生产，Aiva ME7 出现在监管文件中"
     },
     {
      "title": "Shangjie Z9 electric SUV appears in regulatory filing as Huawei-SAIC brand readies fourth model",
@@ -791,7 +791,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 12:46:53 +0000",
      "summary": "Tesla execs Lars Moravy and Franz von Holzhausen spilled the beans on Tesla’s most outrageous car ever.",
      "source": "InsideEVs",
-     "zh": "Tesla Roadster 拥有 1,341 马力，续航里程达到埃隆·马斯克曾经承诺的一半。这是完整的规格"
+     "zh": "Tesla Roadster 拥有 1,341 马力，续航里程是埃隆·马斯克曾经承诺的一半。这是完整的规格"
     },
     {
      "title": "Tesla's Roadster can fly, and Nio's William Li admits: 'This we really don't have'",
@@ -799,7 +799,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 12:42:58 +0000",
      "summary": "Nio founder reposted a Roadster stunt video and praises Tesla, echoing his 2018 remark that \"whatever Tesla has, we have.\" For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
-     "zh": "特斯拉Roadster能飞，蔚来李斌承认：“这个我们真的没有”"
+     "zh": "特斯拉Roadster可以飞，蔚来李斌承认：“这个我们真的没有”"
     },
     {
      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
@@ -911,7 +911,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 17 Oct 2026 01:32:58 +0000",
      "summary": "We estimate that U.S. generation from small-scale or rooftop solar photovoltaic systems (smaller than 1 megawatt of capacity) has increased from 18,812 gigawatthours (GWh) to 92,979 GWh over the last decade. The four states with the highest generation of small-scale solar in the country—California, ",
      "source": "CleanTechnica",
-     "zh": "过去十年美国小型太阳能发电量增加了四倍"
+     "zh": "过去十年美国小型太阳能发电量增长了四倍"
     },
     {
      "title": "EU Long-Term Budget Crunch: What To Watch For At The EU Leaders’ Summit On 15-16 October",
@@ -975,7 +975,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 13:00:00 -0500",
      "summary": "A massive wind farm in the state of Victoria, Australia, has been approved by state authorities, paving the way for the project to go to the federal environment minister for final checks. ABC News reports Planning Minister Sonya Kilkenny this week signed off on the Warracknabeal Energy Park, five mo",
      "source": "OilPrice",
-     "zh": "澳大利亚维多利亚州获批的风电场将成为南半球最大的风电场"
+     "zh": "澳大利亚维多利亚州获批建设南半球最大风电场"
     },
     {
      "title": "U.S. Oil Drillers Back Off Even As Prices Soar",
@@ -1087,7 +1087,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
-     "zh": "GES 为四个西班牙太阳能光伏项目获得 2.52 亿美元的 EPC 合同"
+     "zh": "GES 获得四个西班牙太阳能光伏项目价值 2.52 亿美元的 EPC 合同"
     }
    ]
   },
@@ -1762,6 +1762,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "开发者将破解后的索尼 PS5 当作本地 AI 服务器：利用 GPU 加速运行 27B 参数 Qwen3.8-27B 模型，速度达 20.9 token/s",
+     "link": "https://www.ithome.com/1/014/372.htm",
+     "pubDate": "Sat, 17 Oct 2026 10:45:59 GMT",
+     "summary": "IT之家 10 月 17 日消息，据外媒 Wccftech 报道，开发者 abhi245y 基于资深 AI 工程师 Mert Cobanov 的 PS5LM（ llama.cpp 移植项目），开发了原生 GPU 应用 PS5LM Plus，让经过破解的 PS5 主机能够在本地运行 Qwen3.8-27B 等大型语言模型。 IT之家获悉，PS5LM 的早期版本主要依靠 CPU 运行模型，执行 27B 参数模型时，平均每分钟只能生成约 1 个 token。为提升性能，开发者 abhi245y &nbsp;移植了 Mesa 开源项目中的 AMD RADV 驱动，并通过 Vulkan 计算接口让 ll",
+     "source": "IT之家",
+     "zh": "开发者将破解后的索尼 PS5 当作本地 AI 服务器：利用 GPU 加速运行 27B 参数 Qwen3.8-27B 模型，速度达 20.9 token/s"
+    },
+    {
+     "title": "霸王茶姬：努力的小镇奶茶家",
+     "link": "https://www.huxiu.com/article/4898299.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 18:43:47 +0800",
+     "summary": "本文来自微信公众号： 指北Focus ，作者：指北 老牌帝国主义资本主义国家的品牌，还是不够顾全大局。 郑钦文夺冠，劳力士做张海报，就把品牌营销做了。 难道劳力士的制表师傅不喜欢做手表吗？怎么不买一赠一？ 你看我们的霸王茶姬，多努力。 公关部、市场部想必准备了不少方案，预算、汇报、协调门店，最后决定全国买一赠一。 门店员工觉悟也高，有店一天做了2000杯奶茶，平时生意好的时候，也就做1000杯。 就这样幸福美满地参与到了郑钦文夺冠的宏大叙事之中。 结果，小程序崩了，消费者等急了，员工忙哭了，品牌又被骂了。 一家已经上市、拥有7600多家门店的企业，却还像个努力的小镇做题家，生怕错过任何一次考试",
+     "source": "虎嗅",
+     "zh": "霸王茶姬：努力的小镇奶茶家"
+    },
+    {
+     "title": "一条差评一条命",
+     "link": "https://www.huxiu.com/article/4898296.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 18:41:24 +0800",
+     "summary": "本文来自微信公众号： 维舟 ，作者：维舟，头图来自：AI生成 一 一家小吃摊的女摊主，在遭受一位顾客差评引发的网暴之后，选择了跳河自尽，年仅33岁。 事发三天前，一位顾客在她的摊位上买了10块钱的自选套餐。摊位的规矩，顾客可以拿个篮子在20多种菜里自由选择，如果夹的菜分量不多，摊主会添土豆加满一份；但如果自选已达到一份的标准，就不再额外主动添加了。 当天，那位女顾客已加了满满两盆，摊主胡二妹就没再加土豆，没想到引起顾客不满，事后在多个网络平台发帖号召避雷，别去光顾胡二妹的生意：&ldquo;我买一份肯定要吃饱啊，玩不起开什么店子呢？&rdquo; 这个小摊所在的四川高县庆符镇，总共也就8万人，",
+     "source": "虎嗅",
+     "zh": "一条差评一条命"
+    },
+    {
+     "title": "中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去",
+     "link": "https://www.ithome.com/1/014/371.htm",
+     "pubDate": "Sat, 17 Oct 2026 10:39:55 GMT",
+     "summary": "10 月 17 日，在光华思想力论坛上，中国科学院院士、北京大学讲席教授鄂维南表示，人工智能本质上是“数学 + 计算机工程”，将大幅降低科研门槛，推动“科研平权化”。“未来民科是科研的主力”，他预测，通过开放实验室和云服务，“每一个有想法有能力的团队和个人都可以参与到科技创新当中去”。 鄂维南指出，企业真正做生产时缺乏原始创新，只能在管理、价格等方面竞争，“内卷的根本原因是创新能力不够”。他认为，高端工业软件、高端机床数控系统目前受制于人，但“现在不但是可以比较短的时间内实现自主可控，甚至可以‘换道超车’”，可构建 AI 原生工业软件体系，“原则上几乎可以拿出不但可以对标西门子，甚至可以超越西",
+     "source": "IT之家",
+     "zh": "中国科学院院士鄂维南：未来民科是科研的主力，AI 时代每个有想法有能力的团队和个人都可以参与到科技创新中去"
+    },
+    {
+     "title": "OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜",
+     "link": "https://www.ithome.com/1/014/370.htm",
+     "pubDate": "Sat, 17 Oct 2026 10:31:25 GMT",
+     "summary": "IT之家 10 月 17 日消息，OpenAI 今年 9 月公布了一份长达 166 页的纳维-斯托克斯方程（Navier–Stokes equations）相关证明，称其内部 AI 系统在约 88 小时内完成了对这一千禧年难题的求解。 不过，随着数学界进一步审查相关工作，研究人员开始对证明采用的方法、与已有研究的关系，以及大规模 AI 智能体究竟发挥了多大作用提出质疑。 数学家贡萨洛 · 曹-拉博拉（Gonzalo Cao-Labora）指出， OpenAI 可能自己都没看懂就急着发论文了 。 他表示，OpenAI 的证明细节与西班牙数学家迭戈 · 科尔多瓦（Diego Córdoba）和路易",
+     "source": "IT之家",
+     "zh": "OpenAI 纳维-斯托克斯方程证明方法被指与官方叙事不符：学界验证尚需数年，智能体贡献同样成谜"
+    },
+    {
+     "title": "HTC Made Smart Glasses That Are Way More Private",
+     "link": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+     "pubDate": "Sat, 17 Oct 2026 10:30:00 +0000",
+     "summary": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
+     "source": "WIRED",
+     "zh": "HTC 推出更加私密的智能眼镜"
+    },
+    {
+     "title": "Don’t Let a Crypto Inheritance Get Stuck on the Blockchain",
+     "link": "https://www.wired.com/story/crypto-inheritance-how-to/",
+     "pubDate": "Sat, 17 Oct 2026 10:30:00 +0000",
+     "summary": "Claiming an inheritance of Bitcoin or other cryptocurrency can be like hunting for buried treasure. It doesn’t have to be.",
+     "source": "WIRED",
+     "zh": "不要让加密继承陷入区块链"
+    },
+    {
      "title": "从假靳东到AI小海：变脸的AI，不变的生意",
      "link": "https://www.huxiu.com/article/4898297.html?f=rss",
      "pubDate": "Sat, 17 Oct 2026 18:28:53 +0800",
@@ -1794,14 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "为什么快消企业正在被深度分销拖垮？"
     },
     {
-     "title": "AI，别欺数学家太甚",
-     "link": "https://www.huxiu.com/article/4898292.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 18:09:07 +0800",
-     "summary": "本文来自微信公众号： 数字力场 ，作者：佘宗明 收手吧，OpenAI们，外面都是数学家的抗议。 「物理学从来就没有存在过，将来也不会存在。」 《三体》中，顶尖理论物理学家杨冬自杀前，留下了这番遗言。 杨冬自杀，外部背景是：三体人的智子干扰，让全球高能粒子加速器粒子碰撞结果完全随机、不可复现，这导致全球多名顶尖物理学家信仰崩塌，引发了物理学家自杀潮。 杨冬也是。做验证超弦模型实验时出现的诡异实验数据，让她彻底怀疑起了人生。 现在看，AI虽然谈不上人类自己派出的智子，可这「硅孙子」也让不少全球顶尖数学家濒临崩溃的边缘。 前不久，康奈尔大学应用数学家Steven Strogatz在接受媒体采访时，直",
-     "source": "虎嗅",
-     "zh": "AI，别欺数学家太甚"
-    },
-    {
      "title": "VGN 蜻蜓 3 Mini 鼠标亮相：全新模具，10 月 30 日发售",
      "link": "https://www.ithome.com/1/014/368.htm",
      "pubDate": "Sat, 17 Oct 2026 10:07:40 GMT",
@@ -1818,28 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "奇瑞智界将获批独立造车资质，内部人士确认计划独立上市"
     },
     {
-     "title": "IMDb 20国电影代表作全剧透推荐",
-     "link": "https://www.huxiu.com/article/4898279.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 17:44:44 +0800",
-     "summary": "本文来自微信公众号： 刘韧 ，作者：刘韧，头图来自：AI生成 本文是全剧透的重看指南，借 20 部电影看二十国集团 （G20） 的 19 个成员国，加上 G20 的常任嘉宾西班牙。每国选一部：IMDb 上第一出品国、第一语言、主要故事发生地都在这个国家，打分不少于 2.5 万人的故事片里，分数最高的那一部；沙特没有一部片同时合乎四条，门槛放宽到第一部合格片。 &ldquo;代表&rdquo;只指按这套口径选出的那一部，IMDb 评分也只代表 IMDb 投票用户的评价。每条最后一节&ldquo;管窥&rdquo;，是本文对影片所呈现社会的判断，和前面的叙述分开。全文按评分高低排列，评分 2026",
-     "source": "虎嗅",
-     "zh": "IMDb 20国电影代表作全剧透推荐"
-    },
-    {
      "title": "荣耀 WIN2 全系维信诺 2K+185Hz 大直屏，标准版 / Pro 版配置曝光",
      "link": "https://www.ithome.com/1/014/349.htm",
      "pubDate": "Sat, 17 Oct 2026 09:44:41 GMT",
      "summary": "IT之家 10 月 17 日消息，据博主 @数码闲聊站 今日爆料，荣耀 WIN2 全系维信诺 2K+185Hz 大直屏，他还曝光了标准版 / Pro 版配置。 标准版：第五代骁龙 8 至尊版处理器 + 单风扇 +12070mAh 电池 +90W 有线充； Pro 版：第六代骁龙 8 超级至尊版处理器 + 双风扇 +10100mAh 电池 +100W 有线充 + 无线充。 IT之家注意到，荣耀 WIN2 系列手机现已开启预约，新品提供快开黑、指定赢、红蓝 Buff 三种配色，提供 12GB+256GB、16GB+256GB、12GB+512GB、16GB+512GB 和 16GB+1TB 五种内",
      "source": "IT之家",
      "zh": "荣耀 WIN2 全系维信诺 2K+185Hz 大直屏，标准版 / Pro 版配置曝光"
-    },
-    {
-     "title": "特斯拉司机开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤",
-     "link": "https://www.ithome.com/1/014/348.htm",
-     "pubDate": "Sat, 17 Oct 2026 09:43:25 GMT",
-     "summary": "IT之家 10 月 17 日消息，加州公路巡逻队（CHP）当地时间 10 月 15 日公布了一段行车记录仪视频。视频显示，一辆特斯拉在 80 号州际公路上高速驶入事故封闭区域，撞上停靠的巡逻车，导致车内两名警员受伤。 这名 22 岁的萨克拉门托男性驾驶员告诉调查人员，事发时自己刚好已经睡着，车辆处于 Full Self-Driving（FSD）驾驶状态。 公开报道显示，此次事故发生于当地时间 10 月 13 日深夜，地点位于加州索拉诺县费尔菲尔德附近、Air Base Parkway 出口以西的 80 号州际公路东向车道。 此前约一小时，同一路段发生了一起致命交通事故：一名 19 岁男子驾驶一",
-     "source": "IT之家",
-     "zh": "特斯拉司机开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤"
     },
     {
      "title": "An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more (Nilay Patel/The Verge)",
@@ -1898,34 +1930,10 @@ window.INDUSTRY_DATA = {
      "zh": "肯德基，为什么把百事可乐换成可口可乐？"
     },
     {
-     "title": "买一得二：京东 PLUS + 网易云音乐联合会员年卡 118 元限时发车",
-     "link": "https://www.ithome.com/1/014/347.htm",
-     "pubDate": "Sat, 17 Oct 2026 09:28:23 GMT",
-     "summary": "京东 PLUS + 网易云音乐联合会员年卡原价 414 元，现开启大促仅需 128 元，叠加 10 元平台补贴券，到手价 118 元： 活动时间：10 月 17 日 ~11 月 13 日 京东 京东 PLUS + 网易云音乐联合会员年卡 券后 118 元 领 10 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 芒果 TV 会员年卡官方售价 216 元 / 年。 京东 PLUS 会员年卡官方售价 198 元 / 年。 充值请填写手机号，不支持第三方账号（如 QQ / 微信 / 微博）直接充值。 下单前需要查询京东 PLUS 开通权限及查询充值次数是否达",
-     "source": "IT之家",
-     "zh": "买一得二：京东 PLUS + 网易云音乐联合会员年卡 118 元限时发车"
-    },
-    {
-     "title": "特斯拉美国 Model Y 穿越高速隔离带致人死亡，驾驶辅助系统处于启用状态",
-     "link": "https://www.ithome.com/1/014/346.htm",
-     "pubDate": "Sat, 17 Oct 2026 09:24:14 GMT",
-     "summary": "IT之家 10 月 17 日消息，据 Electrek 周四报道，特斯拉向美国国家公路交通安全管理局（NHTSA）提交的事故报告显示，今年 8 月的一起碰撞事故发生前，车辆的驾驶辅助系统处于已启用状态。 据新泽西州警方通报，当地时间 2026 年 8 月 22 日上午 8 时 31 分左右，一辆特斯拉 Model Y 沿新泽西州坎伯兰县文兰市的 55 号公路向南行驶时失控，在约 34.6 英里 （IT之家注：约 55.7 公里） 路段驶离道路左侧，穿过中央草坪隔离带并撞上树木，随后进入对向车道，与一辆迎面驶来的雪佛兰 SUV 相撞，导致 SUV 驾驶员、68 岁的菲利普 · 伊斯特曼（Phil",
-     "source": "IT之家",
-     "zh": "特斯拉美国 Model Y 穿越高速隔离带致人死亡，驾驶辅助系统处于启用状态"
-    },
-    {
-     "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
-     "link": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
-     "pubDate": "Sat, 17 Oct 2026 09:08:16 +0000",
-     "summary": "Article URL: https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf Comments URL: https://news.ycombinator.com/item?id=50129274 Points: 24 # Comments: 27",
-     "source": "Hacker News",
-     "zh": "荷兰“驯服”的野猪和鹿正在本能地适应狼"
-    },
-    {
      "title": "Is MCP becoming the common foundation of smart, decentralised search?",
      "link": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
      "pubDate": "Sat, 17 Oct 2026 09:01:30 +0000",
-     "summary": "Article URL: https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search Comments URL: https://news.ycombinator.com/item?id=50129235 Points: 11 # Comments: 5",
+     "summary": "Article URL: https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search Comments URL: https://news.ycombinator.com/item?id=50129235 Points: 13 # Comments: 9",
      "source": "Hacker News",
      "zh": "MCP 是否正在成为智能、去中心化搜索的共同基础？"
     },
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
      "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
      "pubDate": "Sat, 17 Oct 2026 08:37:46 +0000",
-     "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 137 # Comments: 15",
+     "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 153 # Comments: 20",
      "source": "Hacker News",
      "zh": "DeepSeek：DeepSeek v4.1 Flash 1017"
     },
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "DeepSeek-v4.1-Flash-1017",
      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
      "pubDate": "Sat, 17 Oct 2026 08:21:25 +0000",
-     "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 158 # Comments: 64",
+     "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 165 # Comments: 69",
      "source": "Hacker News",
      "zh": "DeepSeek-v4.1-Flash-1017"
     },
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mike Butcher / Pathfounders : Duvo, which develops tech to automate business processes across enterprise systems, including ERPs and legacy apps, raised a $32M Series A led by Balderton &nbsp; &mdash;&nbsp; He didn't get very far.&nbsp; He discovered that much of the company's operational knowledge ",
      "source": "Techmeme",
      "zh": "Duvo 开发了跨企业系统（包括 ERP 和遗留应用程序）自动化业务流程的技术，筹集了由 Balderton（Mike Butcher/PathFounders）领投的 3200 万美元 A 轮融资"
-    },
-    {
-     "title": "Montevideo, Uruguay-based Scanntech, which develops market intelligence tools using POS data, raised $180M in a Series F led by L Catterton and Partners Group (FinSMEs)",
-     "link": "https://www.techmeme.com/261017/p5#a261017p5",
-     "pubDate": "Sat, 17 Oct 2026 01:50:01 -0400",
-     "summary": "FinSMEs : Montevideo, Uruguay-based Scanntech, which develops market intelligence tools using POS data, raised $180M in a Series F led by L Catterton and Partners Group &nbsp; &mdash;&nbsp; Scanntech, a Montevideo, Uruguay-based provider of a retail intelligence, data analytics, and marketing servic",
-     "source": "Techmeme",
-     "zh": "总部位于乌拉圭蒙得维的亚的 Scanntech 使用 POS 数据开发市场情报工具，在由 L Catterton and Partners Group (FinSMEs) 领投的 F 轮融资中筹集了 1.8 亿美元"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Don’t buy a budget Android phone in 2026 — 4 reasons to get an old flagship instead",
+     "link": "https://www.androidauthority.com/dont-buy-budget-android-phone-2026-old-flagship-better-why-3718130/",
+     "pubDate": "Sat, 17 Oct 2026 10:30:16 +0000",
+     "summary": "Old flagships are the way to go right now.",
+     "source": "Android Authority",
+     "zh": "2026 年不要购买廉价 Android 手机——购买旧旗舰手机的 4 个理由"
+    },
     {
      "title": "5 reasons why I’ll always buy Google Pixel phones instead of Samsung Galaxy",
      "link": "https://www.androidauthority.com/google-pixel-vs-samsung-galaxy-comparison-3721606/",
@@ -2138,14 +2146,6 @@ window.INDUSTRY_DATA = {
      "zh": "Nest 门铃在万圣节前夕响起了诡异的铃声"
     },
     {
-     "title": "AI has graduated from hacking companies to stealing from crypto wallets",
-     "link": "https://www.androidauthority.com/ai-stole-crypto-3724642/",
-     "pubDate": "Fri, 16 Oct 2026 21:37:43 +0000",
-     "summary": "Honestly, it was probably only a matter of time.",
-     "source": "Android Authority",
-     "zh": "人工智能已经从黑客公司发展到从加密钱包窃取"
-    },
-    {
      "title": "Apple calls iPhone Duo pre-order demand ‘extraordinary’ as shipping dates slip",
      "link": "https://9to5mac.com/2026/10/16/apple-calls-iphone-duo-pre-order-demand-extraordinary-as-shipping-dates-slip/",
      "pubDate": "Fri, 16 Oct 2026 21:33:28 +0000",
@@ -2258,52 +2258,44 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "《电动摩托车和电动轻便摩托车用锂离子电池安全要求》强制性国标发布",
-     "link": "http://finance.eastmoney.com/news/1350,202610173899053987.html",
-     "pubDate": "Sat, 17 Oct 2026 18:24:45 +0800",
-     "summary": "据国家市场监督管理总局官网消息，近日，市场监管总局（国家标准委）批准发布《电动 摩托车 和电动轻便 摩托车 用 锂 离子 电池 安全要求》（GB 36672—2026）强制性国家标准，将自2027年7月1日起实施。 近年来，我国电动 摩托车 产业快速发展， 锂 离子 电池 在电动摩托车上应用日益广泛，相关安全风险也随之上升。为进一步提升电动摩托车 锂 离子 电池 安全技术水平，市场监管总局会同工业和信息化部加快标准更新升级，系统性地对电动摩托车和电动轻便摩托车锂离子电池提出了安全技术要求和试验方法。该标准具有三个突出特点： 优化安全考核体系。该标准对电池单体、电池包及电池系统三个层级的安全考核",
-     "source": "东方财富股票",
-     "zh": "《电动摩托车和电动轻便摩托车用锂离子电池安全要求》强制性国标发布"
+     "title": "下周2只新股开启申购！超千亿解禁潮将至 6股解禁比例均超50%（附股）",
+     "link": "http://finance.eastmoney.com/news/1354,202610173899054283.html",
+     "pubDate": "Sat, 17 Oct 2026 18:21:57 +0800",
+     "summary": "下周A股解禁总市值达1004.25亿元。 2只新股下周即将申购 据证券时报·数据宝统计，根据发行安排，下周暂有2只新股申购。 下周一（10月19日）可申购 皇冠新材 ，申购代码为001381，拟公开发行A股5630.48万股，其中网上发行1351.30万股，发行价格为16.98元，单一账户申购上限为13500股，申购数量为500股的整数倍，顶格申购需持有深市市值13.50万元。公司2023年—2025年净利润分别为2.78亿元、3.02亿元、3.09亿元，同比变动幅度为35.06%、8.92%、2.28%。 下周二（10月20日）可申购 天元重工 ，申购代码为920306，本次初始发行股份总量",
+     "source": "东方财富资讯",
+     "zh": "下周2只新股开启申购！超千亿解禁潮将至 6股解禁比例均超50%（附股）"
     },
     {
-     "title": "中国人民银行行长潘功胜出席第54届国际货币与金融委员会会议",
-     "link": "http://finance.eastmoney.com/news/1346,202610173899053836.html",
-     "pubDate": "Sat, 17 Oct 2026 18:17:12 +0800",
-     "summary": "2026年10月16日至17日，国际货币基金组织（以下简称基金组织）在泰国曼谷召开第54届国际货币与金融委员会（IMFC）会议，会议讨论了全球经济金融形势、基金组织工作等议题。中国人民 银行 行长潘功胜出席会议并发言。中国人民 银行 副行长宣昌能参加会议。 会议认为，全球经济在地缘政治等冲击下表现好于预期，但贸易紧张局势加剧不确定性， 人工智能 技术快速发展加剧分化风险，世界经济依然面临下行风险。各方应关注宏观经济和金融稳定，通过国际合作应对共同挑战。会议呼吁各方尽快完成第十六次份额总检查增资的国内批准程序，并按照《迪里亚份额与治理改革指导原则》推进第十七次份额总检查下关于份额与治理改革的讨论",
-     "source": "东方财富股票",
-     "zh": "中国人民银行行长潘功胜出席第54届国际货币与金融委员会会议"
+     "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+     "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+     "pubDate": "Sat, 17 Oct 2026 10:20:44 GMT",
+     "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+     "source": "CNBC",
+     "zh": "特朗普以国家利益为由，放弃根据《格雷厄姆法案》对俄罗斯实施广泛的新制裁和关税"
     },
     {
-     "title": "印尼加里曼丹岛林火产生的烟霾已飘至雅加达上空",
-     "link": "http://finance.eastmoney.com/news/1351,202610173899053215.html",
-     "pubDate": "Sat, 17 Oct 2026 18:09:24 +0800",
-     "summary": "印度尼西亚气象、气候和地球物理局16日表示，加里曼丹岛林火产生的烟霾已飘到首都雅加达上空，但尚未沉降至地面。 该局说，卫星云图显示烟霾蔓延至万丹省、雅加达以及西爪哇省部分区域，目前停留在距离地面约2至3千米的空中。不过，仅凭卫星图像尚无法确定烟霾是否已导致雅加达的近地空气污染指数上升。 近期，印尼多地持续受到林火和烟霾影响，部分地区空气质量达到“危险”级别。印尼卫生部14日通报，受烟霾影响，近2个月来相关地区呼吸道感染病例激增，截至13日已报告超过28万例。 印尼政府警告，受强厄尔尼诺现象影响，这轮始于7月的森林火灾很可能持续到11月。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "印尼加里曼丹岛林火产生的烟霾已飘至雅加达上空"
+     "title": "新华财经晚报：全国秋粮收获过七成",
+     "link": "http://www.eeo.com.cn/2026/1017/1068319.shtml",
+     "pubDate": "Sat, 17 Oct 2026 18:13:15 +0800",
+     "summary": "<img id=\"image14smp2cy0bcb6vurc1eqi6nz1in9yno\" title=\"微信图片_20260512100905_815_48.png\" src=\"https://jg-app.obs.cn-north-4.myhuaweic...",
+     "source": "经济观察网",
+     "zh": "新华财经晚报：全国秋粮收获过七成"
     },
     {
-     "title": "持股变动迟报多年 泰格医药两实控人共被罚100万元",
-     "link": "http://stock.eastmoney.com/news/11215,202610173899053621.html",
-     "pubDate": "Sat, 17 Oct 2026 18:08:28 +0800",
-     "summary": "因持股变动达5%未及时履行信息披露义务，且迟报长达数年，杭州 泰格医药 科技股份有限公司（证券简称“ 泰格医药 ”，300347.SZ、03347.HK）两名实际控制人收到监管“罚单”。10月16日， 泰格医药 发布公告称，公司实际控制人叶小平、曹晓春收到浙江证监局出具的《行政处罚决定书》（[2026]38号）。因涉嫌信息披露违法，浙江监管局决定对叶小平、曹晓春给予警告，并分别处以50万元罚款，合计罚款100万元。同日，深交所亦对两人给予通报批评处分。 回溯监管调查过程，2026年5月12日， 泰格医药 披露了《关于公司实际控制人收到中国证券监督管理委员会立案告知书的公告》，公司实际控制人叶小",
-     "source": "东方财富股票",
-     "zh": "持股变动迟报多年 泰格医药两实控人共被罚100万元"
+     "title": "150余名青年代表齐聚大足 共促川渝协同发展",
+     "link": "http://www.eeo.com.cn/2026/1017/1068318.shtml",
+     "pubDate": "Sat, 17 Oct 2026 18:13:11 +0800",
+     "summary": "第1眼TV-华龙网讯（记者 王钰 ）10月15日至17日，以“青智汇大足·携手创未来”为主题的2026青年企业家助力成渝地区双城经济圈建设大足宝顶大会学习交流活动（以下简称“宝顶大会”）在大足区举办。来自全国各地的青年企业家、青年科技工作者，中组部、团中央第26批赴渝博士服务团成员，以及川渝两地优秀青年代表等150余名嘉宾齐聚石刻之乡，共话发展。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upl...",
+     "source": "经济观察网",
+     "zh": "150余名青年代表齐聚大足 共促川渝协同发展"
     },
     {
-     "title": "因白竹磷矿冒顶事故 川发龙蟒全资孙公司被罚60万元",
-     "link": "http://stock.eastmoney.com/news/11215,202610173899053721.html",
-     "pubDate": "Sat, 17 Oct 2026 18:08:19 +0800",
-     "summary": "日前，四川发展龙蟒股份有限公司（简称“ 川发龙蟒 ”，002312.SZ）公告称，公司全资孙公司湖北龙蟒 磷化工 有限公司（简称“湖磷公司”）收到襄阳市应急管理局出具的《行政处罚决定书》，因旗下白竹磷矿发生冒顶事故，湖磷公司被处以60万元罚款。 公告显示，经官方认定，该事件属于一般生产安全责任事故，湖磷公司作为事故单位对事故发生负有责任。 川发龙蟒 表示，本次行政处罚不触及深交所股票上市规则规定的重大违法情形，不会对公司持续生产经营造成重大影响。 据 川发龙蟒 此前披露，白竹磷矿因冒顶事故停产整改，原计划2026年8月15日复产，后因完成矿山主要管理人员调整等事项尚需时间，预计复产时间延期至2",
-     "source": "东方财富股票",
-     "zh": "因白竹磷矿冒顶事故 川发龙蟒全资孙公司被罚60万元"
-    },
-    {
-     "title": "海康威视：大模型产品助力了场景数字化业务的加速落地",
-     "link": "http://stock.eastmoney.com/news/11215,202610173899053396.html",
-     "pubDate": "Sat, 17 Oct 2026 18:05:00 +0800",
-     "summary": "南财智讯10月17日电， 海康威视 在投资者关系活动中表示，公司场景数字化业务已进入加速落地期。在小模型时代，规模化应用主要聚焦人脸识别和车牌识别两大类应用；大模型因泛化能力大幅提升，可以实现对人和车行为的识别，服务领域也从安全安保拓展至设备监测、质量检测、安全生产、生产运营等多个方面。公司已发布上千款大模型产品，部分 种子 用户和先锋用户已体验到海康大模型产品带来的实际效果。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "海康威视：大模型产品助力了场景数字化业务的加速落地"
+     "title": "长安汽车新班子落定：朱华荣专注集团，赵非任董事长，叶沛任总裁",
+     "link": "http://www.eeo.com.cn/2026/1017/1068314.shtml",
+     "pubDate": "Sat, 17 Oct 2026 18:10:49 +0800",
+     "summary": "谭本宏不再兼任长安汽车党委副书记，该岗位暂时空缺，后续将另行任命。朱华荣说，“其他副总裁层面的变动也会陆续公布，还有党委副书记，这些后续都会定下来。”",
+     "source": "经济观察网",
+     "zh": "长安汽车新班子落定：朱华荣专注集团，赵非任董事长，叶沛任总裁"
     },
     {
      "title": "Trump exempts Russia from further sanctions mandated by new law",
@@ -2330,12 +2322,28 @@ window.INDUSTRY_DATA = {
      "zh": "IMF警告日本可能需要更快加息，全球债市再添压力？"
     },
     {
+     "title": "太空光伏万亿赛道划定“精准边界”，详解技术出口管控新规",
+     "link": "http://www.eeo.com.cn/2026/1017/1068228.shtml",
+     "pubDate": "Sat, 17 Oct 2026 17:13:07 +0800",
+     "summary": "21世纪经济报道记者张旭 北京报道 2026年10月16日，商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》（以下简称《目录》）公开征求意见，拟增列人工智能、生物医药、光伏三个领域40项关键技术。 具体来看，光伏领域涉及多晶硅制造、硅片制造、电池制造相关12项技术，其中钙钛矿及叠层电池组件生产技术及其设备制造技术被列入禁止出口类别，单线产能≥3万吨/年的多晶硅工程技术则归入...",
+     "source": "经济观察网",
+     "zh": "太空光伏万亿赛道划定“精准边界”，详解技术出口管控新规"
+    },
+    {
      "title": "DeepSeek官宣：“许愿式编程”成为现实",
      "link": "http://finance.eastmoney.com/news/11158,202610173899049443.html",
      "pubDate": "Sat, 17 Oct 2026 17:09:46 +0800",
      "summary": "10月17日，据DeepSeek官方消息，DeepSeek V4.1 Flash 现已更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。 相比上一版本的 DeepSeek V4.1 Flash，新模型在各方面的基准测试中取得了长足的提升。 DeepSeek V4.1 Flash 1017 使用 mini-swe-v2 框架测试 DeepSWE 的性能/成本图 DeepSeek V4.1 Flash 1017 通过基于自反馈的强化学习（RL）训练技术，提升了在游戏开发、3D 建模等方面从零开始构建完整项目的能力，能够支持实现更多“许愿式”编程任",
      "source": "东方财富资讯",
      "zh": "DeepSeek官宣：“许愿式编程”成为现实"
+    },
+    {
+     "title": "任友群分别会见孟加拉、马里、坦桑尼亚外宾",
+     "link": "http://www.eeo.com.cn/2026/1017/1068222.shtml",
+     "pubDate": "Sat, 17 Oct 2026 17:06:05 +0800",
+     "summary": "经济观察网 10月17日，据教育部网站消息，10月15日，教育部副部长任友群分别会见出席2026年世界职业技术教育发展大会的孟加拉国教育部部长米隆、马里创业与就业职业培训部部长塞克、坦桑尼亚教育部副部长阿梅。 任友群在会见米隆时表示，愿同孟方加强职教师资培训和人才培养合作，推进“中文＋职业技能”教育。米隆赞赏中国职业教育发展成就，期待双方加强经验和资源共享。 任友群在会见塞克时表示，愿以双方签署...",
+     "source": "经济观察网",
+     "zh": "任友群分别会见孟加拉、马里、坦桑尼亚外宾"
     },
     {
      "title": "长鑫科技、佰维存储、拓荆科技领衔！多家科创板龙头公司开启新一轮回购",
@@ -2354,20 +2362,20 @@ window.INDUSTRY_DATA = {
      "zh": "存储龙头密集利好！001309预盈超86亿元"
     },
     {
+     "title": "国际油价暗盘直线大涨，布油冲破110美元",
+     "link": "http://www.eeo.com.cn/2026/1017/1068209.shtml",
+     "pubDate": "Sat, 17 Oct 2026 16:52:05 +0800",
+     "summary": "北京时间10月17日下午，国际油价暗盘直线飙升，截至15时14分，布伦特原油暗盘大涨超4.49%，最高涨破110美元/桶，最新报107.12美元/桶；纽约期油暗盘大涨超3.45%，最新报99.099美元/桶。 据央视财经报道，伊朗伊斯兰革命卫队海军当地时间17日在社交媒体发表声明说，一艘超级油轮在霍尔木兹海峡触雷后发生大规模爆炸并起火。声明说，该油轮载有超过200万桶原油，在关闭所有导航和雷达系统后试图在美军的支持下通过霍尔木兹...",
+     "source": "经济观察网",
+     "zh": "国际油价暗盘直线大涨，布油冲破110美元"
+    },
+    {
      "title": "“易中天”本周净流出逾百亿元 资金加仓这些方向",
      "link": "http://finance.eastmoney.com/news/1354,202610173899048635.html",
      "pubDate": "Sat, 17 Oct 2026 16:51:46 +0800",
      "summary": "本周（10月12日至16日），科技股资金流向明显分化。光 通信 龙头主力资金净流出较多， 半导体 设备、 PCB 等方向的部分个股则获得资金加仓。 Wind数据显示，本周申万31个一级行业中，4个行业获主力资金净流入， 美容护理 行业以7.40亿元居首， 轻工制造 、 汽车 、 传媒 行业也获净流入。 通信 、 电力 设备、 电子 行业净流出额则均超过百亿元。 个股方面，剔除本周上市的新股后， 北方华创 、 百亚股份 、 沪电股份 位居主力资金净流入榜前三； 新易盛 、 中际旭创 、 天孚通信 “易中天”合计净流出100.74亿元。 美容护理 板块“吸金”居首 Wind数据显示，本周 美容护理",
      "source": "东方财富资讯",
      "zh": "“易中天”本周净流出逾百亿元 资金加仓这些方向"
-    },
-    {
-     "title": "官宣退市！阿里云虚拟数字人下架 最新回应来了",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899048334.html",
-     "pubDate": "Sat, 17 Oct 2026 16:47:44 +0800",
-     "summary": "10月16日，阿里云官网发布关于虚拟 数字人 启动退市通知的产品变更公告。公告显示，由于产品策略调整，虚拟 数字人 产品即将退市。 退市时间线与官方安排 根据退市安排，2026年11月30日，该产品将停止新购服务，已购买的客户仍可继续使用至服务到期；2027年5月31日，停止现有客户的续订及版本更新；2027年11月30日，全面停止服务，届时控制台、相关的支持服务和工单服务也将一同下线。此外，阿里云提供的退款服务也将于该日期停止。 阿里云表示，为保障业务连续性，建议客户尽快迁移至替换方案：阿里云云市场 数字人 产品蚂蚁灵境数字人、相芯数字人、一知智能AI直播数字人。 对此，阿里云方面人士向券商",
-     "source": "东方财富资讯",
-     "zh": "官宣退市！阿里云虚拟数字人下架 最新回应来了"
     },
     {
      "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
@@ -2392,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "花旗、美国银行和摩根大通相继宣布限制AI智能代理访问客户账户，这场集体设防的背后，是银行业对数万亿美元低成本存款可能被AI\"扫走\"的深层焦虑。 花旗明确表示， 不允许\"第三方AI代理或助手登录客户账户，或直接在其数字银行平台上进行交易\"， 称此举旨在保障客户账户与信息安全。美国银行首席执行官Brian Moynihan本周三在接受CNBC采访时表示， 该行正在限制AI代理访问消费者存款账户，同时研究在AI发起支付指令时如何界定责任主体。 摩根大通首席执行官Jamie Dimon则在该行三季度业绩电话会议上表示， 将限制AI代理访问客户账户，理由是\"你不会希望出现流氓代理，而且这类代理可能数以千",
      "source": "华尔街见闻",
      "zh": "AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防"
-    },
-    {
-     "title": "Trump&apos;s Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
-     "link": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-     "pubDate": "Sat, 17 Oct 2026 05:46:20 GMT",
-     "summary": "Trump's diesel deal may do little for Russia's finances, but it raises bigger questions about Ukraine's leverage, U.S. support and Putin's next moves.",
-     "source": "CNBC",
-     "zh": "特朗普与俄罗斯的柴油交易可能给普京带来的不仅仅是金钱，而且会给乌克兰带来麻烦"
     },
     {
      "title": "Some companies give AI to everyone. This CEO is doing the opposite",

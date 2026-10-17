@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 14:49:39",
+ "generated_at": "2026/10/17 15:09:43",
  "recent_days": 7,
  "industries": [
   {
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Xpeng expands GX shipments overseas as Middle East orders exceed 3,000",
+     "link": "https://cnevpost.com/2026/10/17/xpeng-expands-gx-shipments-overseas/",
+     "pubDate": "Sat, 17 Oct 2026 06:51:10 +0000",
+     "summary": "Xpeng's overseas sales exceeded 10,000 vehicles for the first time in September, with global markets accounting for a growing share of total deliveries. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "小鹏GX扩大海外出货 中东订单超3000台"
+    },
+    {
      "title": "This Montréal airport now has 120 EV chargers, with 48 more on the way",
      "link": "https://electrek.co/2026/10/16/montreal-airport-120-ev-chargers-with-48-more-coming/",
      "pubDate": "Fri, 16 Oct 2026 20:42:51 +0000",
@@ -794,14 +802,6 @@ window.INDUSTRY_DATA = {
      "zh": "Nio Firefly 9月累计交付量突破9万辆"
     },
     {
-     "title": "Li Auto chip unit signs first funding deal at up to $2.5 billion post-money valuation",
-     "link": "https://cnevpost.com/2026/10/16/li-auto-financing-deal-mach-chip-business/",
-     "pubDate": "Fri, 16 Oct 2026 08:43:01 +0000",
-     "summary": "Li Auto will contribute 1 billion yuan and external investors 625 million yuan under the signed agreements. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "理想汽车芯片部门签署首笔融资协议，投后估值高达25亿美元"
-    },
-    {
      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
      "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
      "pubDate": "Fri, 16 Oct 2026 01:17:43 +0000",
@@ -849,6 +849,14 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Dutch regulator flags EU cyber gap for cloud-controlled home batteries",
+     "link": "https://www.pv-magazine.com/2026/10/17/dutch-regulator-flags-eu-cyber-gap-for-cloud-controlled-home-batteries/",
+     "pubDate": "Sat, 17 Oct 2026 07:00:00 +0000",
+     "summary": "A Dutch regulator says EU cybersecurity rules should target companies by how much power they can control remotely, not by their size, and wants home energy devices certified independently under the Cyber Resilience Act (CRA). The post Dutch regulator flags EU cyber gap for cloud-controlled home batt",
+     "source": "pv magazine",
+     "zh": "荷兰监管机构指出欧盟云控制家用电池的网络差距"
+    },
     {
      "title": "Large-scale solar projects in Australia reach record 3.5 GW of annual investment decisions",
      "link": "https://www.pv-magazine.com/2026/10/17/large-scale-solar-sets-annual-financial-investment-decision-record-at-3-5-gw/",
@@ -1072,14 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
      "zh": "GES 为四个西班牙太阳能光伏项目获得 2.52 亿美元的 EPC 合同"
-    },
-    {
-     "title": "Chinese PV Industry Brief: Trina Solar expands upstream ties with stake in encapsulation film maker",
-     "link": "https://www.pv-magazine.com/2026/10/16/chinese-pv-industry-brief-trina-solar-expands-upstream-ties-with-stake-in-encapsulation-film-maker/",
-     "pubDate": "Fri, 16 Oct 2026 09:27:27 +0000",
-     "summary": "Trina Solar plans to acquire a 1.6% stake in Chinese PV encapsulation film manufacturer Betterial for CNY 40 million ($5.88 million). The investment aims to strengthen upstream supplier ties and improve supply chain stability. The post Chinese PV Industry Brief: Trina Solar expands upstream ties wit",
-     "source": "pv magazine",
-     "zh": "中国光伏行业简报：天合光能入股封装膜制造商扩大上游联系"
     },
     {
      "title": "US clean energy jobs fell in 2025 for the first time in years",
@@ -1762,12 +1762,52 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "Sweet Baby“多元化文化咨询”DEI 顾问公司悄悄更新官网，删除游戏案例及服务内容",
-     "link": "https://www.ithome.com/1/014/297.htm",
-     "pubDate": "Sat, 17 Oct 2026 06:47:13 GMT",
-     "summary": "IT之家 10 月 17 日消息，据消息源 MasteroftheTDS，主张“多元化、公平、包容”的顾问公司 Sweet Baby 目前悄悄更新了其官网，此前高调展示游戏案例和服务内容均被删除，目前仅剩一个包含公司 Logo 与联系按钮的黑色页面。 ▲ 新版官网 ▲ 旧版官网 Sweet Baby 公司曾参与制作过《心灵杀手 2》、《战神：诸神黄昏》、《漫威蜘蛛侠 2》等作品，有他们参与的游戏都会出现“政治正确”内容，如游戏剧情会突兀地加入以少数群体或多元肤色、种族文化为主导的内容， 也就是通称的 DEI 元素 。 目前，魁北克官方商业记录显示该公司仅有 1~5 名员工，作为参考，2024 ",
+     "title": "社区移植英伟达 DLSS 5 新版模型文件，较旧版游戏帧率最高暴涨 40%",
+     "link": "https://www.ithome.com/1/014/304.htm",
+     "pubDate": "Sat, 17 Oct 2026 07:07:44 GMT",
+     "summary": "IT之家 10 月 17 日消息，科技媒体 Wccftech 今天（10 月 17 日）发布博文，报道称社区 MOD 项目在尚未支持的游戏中移植新版 DLSS 5 神经渲染模型文件， 在画面质量暂未见明显下降的情况下，某些场景游戏帧率较旧版可以提高约 30%~40%。 社区 MOD 项目围绕着 OptiScaler-DLSSNR-PreSR-Multipass 这个实验性分支，从《NBA 2K27》（目前唯一官方支持 DLSS 5 的游戏）更新中， 提取新版 DLSS 5 神经渲染 DLL（ nvngx_dlssnr.dll ，版本 310.9.16.0），在性能方面较此前 310.8.x 版",
      "source": "IT之家",
-     "zh": "Sweet Baby“多元化文化咨询”DEI 顾问公司悄悄更新官网，删除游戏案例及服务内容"
+     "zh": "社区移植英伟达 DLSS 5 新版模型文件，较旧版游戏帧率最高暴涨 40%"
+    },
+    {
+     "title": "OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图",
+     "link": "https://www.ithome.com/1/014/303.htm",
+     "pubDate": "Sat, 17 Oct 2026 07:07:38 GMT",
+     "summary": "IT之家 10 月 17 日消息，据彭博社北京时间今天（17 日）午间报道，因涉嫌在 OpenAI 办公室使用秘密录音设备而遭起诉的沙特籍工程师阿卜杜勒拉赫曼 · 阿尔福赞申请保释， 并否认自己购买返回沙特的单程机票是为了逃避美国司法追究 。 当地时间 16 日，阿尔福赞的律师晚间向法院提交文件，称他早在受到调查前就安排了回国行程，并请求法院批准保释。 律师解释道：“阿尔福赞多年来都是 先买单程机票，再订返程票 。他一直从事科技行业的工作，经常临时接到会议、项目和其他工作安排，所以习惯了买单程机票。这样比临时改签更划算，而且他经常需要提前返程。” 美国司法部称，阿尔福赞于 10 月 9 日被捕",
+     "source": "IT之家",
+     "zh": "OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图"
+    },
+    {
+     "title": "Analogue 公布 Super Nt+ / Mega Sg+ 复古游戏主机：提供无线连接支持",
+     "link": "https://www.ithome.com/1/014/301.htm",
+     "pubDate": "Sat, 17 Oct 2026 06:57:00 GMT",
+     "summary": "IT之家 10 月 17 日消息，FPGA 复古游戏主机制造商 Analogue 当地时间昨日公布了两款新的机型： Super Nt+ 和 Mega Sg+，分别支持超级任天堂和世嘉 MD、SMS、GG、SG-1000 游戏。 此次的 \"Plus\" 改款在原版基础上 提供了蓝牙和 2.4GHz 无线连接的支持 、改用 USB-C 供电并提供 USB-A 接口。同时其拥有新的工业设计、零售外包装， 支持游戏卡带热插拔 ，内置有线手柄优先功能，可通过手柄按键开关电源。 Analogue 表示，Super Nt+ 和 Mega Sg+ 将于太平洋夏令时 10 月 19 日 08:00 开放预定，预计",
+     "source": "IT之家",
+     "zh": "Analogue 公布 Super Nt+ / Mega Sg+ 复古游戏主机：提供无线连接支持"
+    },
+    {
+     "title": "Skyticket 旅行预订网站遭黑客攻击，6140 名平台用户信用卡信息外泄",
+     "link": "https://www.ithome.com/1/014/300.htm",
+     "pubDate": "Sat, 17 Oct 2026 06:54:37 GMT",
+     "summary": "IT之家 10 月 17 日消息，据外媒 ITMedia 报道，旅行平台 Skyticket 昨日通报公司遭黑客攻击，导致 6140 名用户的信用卡信息泄露。 Skyticket 表示，受影响用户为 2017 年 2 月至 2018 年 6 月期间，为支付付费会员服务“Skyticket Premium”费用而登记并使用信用卡的客户。泄露信息包括信用卡卡号、持卡人姓名和有效期，部分客户仅有卡号泄露，不涉及信用卡安全码。 IT之家获悉，Skyticket 平台最初将信用卡信息存储在自有服务器上，到 2018 年 6 月，公司将信用卡信息转由支付服务商管理，但迁移过程中，“Skyticket Pr",
+     "source": "IT之家",
+     "zh": "Skyticket 旅行预订网站遭黑客攻击，6140 名平台用户信用卡信息外泄"
+    },
+    {
+     "title": "华为星芒子品牌手机规划曝光：主攻线上相对有性价比，规划新机中含主动散热版本",
+     "link": "https://www.ithome.com/1/014/299.htm",
+     "pubDate": "Sat, 17 Oct 2026 06:51:39 GMT",
+     "summary": "IT之家 10 月 17 日消息，数码博主“数码闲聊站”今日发文透露，华为旗下“星芒”手机目前定位是主攻线上渠道，相对有性价比。 据称，“星芒”系列目前已规划多款手机新品，其中一款将搭载主动散热风扇，甚至还有“整活儿”机型。 “星芒”这一名称并非首次出现在公众视野。IT之家查询公开商标信息获悉，华为技术有限公司早在 2023 年 2 月便申请注册了“华为星芒”商标，并于 2023 年 9 月完成注册公告。 2026 年 7 月，华为再次提交“星芒”商标申请，覆盖智能手机与芯片品类，目前状态为“注册申请中”。不过，商标布局本身并不等同于产品落地，此前多年市场上也曾出现过“星耀手机”等子品牌传闻，",
+     "source": "IT之家",
+     "zh": "华为星芒子品牌手机规划曝光：主攻线上相对有性价比，规划新机中含主动散热版本"
+    },
+    {
+     "title": "摩托罗拉 Moto G47 Power 手机曝光：6790mAh 额定电池，33W 充电",
+     "link": "https://www.ithome.com/1/014/298.htm",
+     "pubDate": "Sat, 17 Oct 2026 06:49:27 GMT",
+     "summary": "IT之家 10 月 17 日消息，科技媒体 xpertpick 昨日（10 月 16 日）发布博文，通过挖掘欧盟 EPREL 能效注册数据库，发现摩托罗拉 Moto G47 Power 手机踪迹， 型号为 XT2625-15。 定位方面，作为摩托罗拉“Power”系列机型，G47 Power 的核心卖点就是续航。认证信息显示，该机将搭载额定容量 6790mAh 的电池，实际典型容量预计约为 7000mAh，大于标准版 Moto G47 的 5200mAh。 除超大电池外，认证页面还显示其支持 33W 有线快充，并具备 IP64 级防尘防水能力；信息同时暗示，该机可能获得长达五年的安全更新支持。",
+     "source": "IT之家",
+     "zh": "摩托罗拉 Moto G47 Power 手机曝光：6790mAh 额定电池，33W 充电"
     },
     {
      "title": "估值暴跌3.5万亿，Anthropic错过上市最佳时机？",
@@ -1776,46 +1816,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 字母AI ，作者：袁心玥 据外媒报道，部分参加Anthropic投资者日的投资者开始讨论将其IPO估值预期从此前的2万亿美元，降低至1.5万亿美元左右——相当于一口气少了5000亿美元（约3.5万亿元人民币）。 问题出在Anthropic最新的营收数据上。 虽然第三季度营收已经达到168亿美元，连续第二个季度实现调整后盈利，但营收环比增速却从第二季度的140%以上，回落至45%。 几个月前，Anthropic还在享受Claude Code带来的爆发式增长，如今却开始面对营收增速放缓、模型竞争加剧，以及越来越多的安全治理要求。 Anthropic，是不是已经错过了上市的最佳",
      "source": "虎嗅",
      "zh": "估值暴跌3.5万亿，Anthropic错过上市最佳时机？"
-    },
-    {
-     "title": "中印尼共建雅万高铁开通运营三周年，累计发送旅客超 1800 万人次",
-     "link": "https://www.ithome.com/1/014/296.htm",
-     "pubDate": "Sat, 17 Oct 2026 06:41:51 GMT",
-     "summary": "IT之家 10 月 17 日消息，据央视新闻报道，今天是中印尼共建的雅万高铁开通运营满三年。三年来，雅万高铁累计开行动车组列车 58666 列，发送旅客超 1800 万人次，安全运行超 890 万公里，列车正点率达 99.4%。随着客流增长，日均开行列车由开通初期的 14 列增至高峰期的 62 列，单日最高发送旅客 26770 人次。 IT之家注：雅万高铁连接印尼首都雅加达和旅游名城万隆， 线路全长 142.3 公里，最高运行时速 350 公里 ，始自雅加达市，途经勿加泗市、勿加泗县、卡拉旺县、普旺加达县、西万隆县、芝马墟市、万隆县，终至万隆市，设有哈利姆、卡拉旺、帕达拉朗、德卡鲁尔 4 座车",
-     "source": "IT之家",
-     "zh": "中印尼共建雅万高铁开通运营三周年，累计发送旅客超 1800 万人次"
-    },
-    {
-     "title": "三星 Galaxy S27+ 手机认证未标注支持 UWB，恐影响精准防丢 / 数字车钥匙等体验",
-     "link": "https://www.ithome.com/1/014/294.htm",
-     "pubDate": "Sat, 17 Oct 2026 06:39:26 GMT",
-     "summary": "IT之家 10 月 17 日消息，根据工信部公示的认证信息， 三星 Galaxy S27+ 手机未标注显示支持 UWB（超宽带）技术。 如果该机不支持 UWB，恐影响精准防丢与数字车钥匙等体验。 IT之家注：UWB 是近年来高端手机的重要连接能力，可用于 SmartTag 等防丢配件的精确查找、无感解锁汽车，以及设备间的精准空间感知。 若该信息属实，Galaxy S27+ 将无法通过 UWB 实现厘米级定位，只能依赖蓝牙 6.0 进行较粗略的追踪，对经常使用防丢器、数字车钥匙或智能家居联动功能的用户来说，体验差距会较为明显。 三星 Galaxy S27、Galaxy S27+、Galaxy S",
-     "source": "IT之家",
-     "zh": "三星 Galaxy S27+ 手机认证未标注支持 UWB，恐影响精准防丢 / 数字车钥匙等体验"
-    },
-    {
-     "title": "PlayStation 之父久多良木健谈索尼停产实体游戏光盘：玩家不满可以理解",
-     "link": "https://www.ithome.com/1/014/293.htm",
-     "pubDate": "Sat, 17 Oct 2026 06:38:51 GMT",
-     "summary": "IT之家 10 月 17 日消息，当地时间 16 日，据外媒 VGC 报道，被誉为“PlayStation 之父”的索尼互动娱乐前董事长兼集团 CEO 久多良木健认为，玩家对索尼决定停产实体游戏光盘的不满 可以理解 ，但游戏厂商也需要 设法改变 玩家对数字版游戏所有权的看法。 2007 年离开索尼之前，久多良木健曾主导初代 PlayStation、PS2 和 PS3 的研发。他很早就预见到实体游戏介质将逐渐退出市场，2006 年便预测，随着数字发行普及， 玩家最终不再需要光盘，甚至不必使用硬盘 ，而是直接通过网络串流获取内容。 谈及索尼停产实体光盘的决定，76 岁的久多良木健承认，索尼的处理方",
-     "source": "IT之家",
-     "zh": "PlayStation 之父久多良木健谈索尼停产实体游戏光盘：玩家不满可以理解"
-    },
-    {
-     "title": "AOC 推出“24E40XN”23.8 英寸显示器：1080P 180Hz VA 面板，549 元",
-     "link": "https://www.ithome.com/1/014/292.htm",
-     "pubDate": "Sat, 17 Oct 2026 06:38:38 GMT",
-     "summary": "IT之家 10 月 17 日消息，AOC 旗下“24E40XN”23.8 英寸显示器现已在京东发售，该机主打 1080P 180Hz， 定价为 549 元 。 该机配备一块 1920x1080 分辨率 180Hz VA 面板，GtG 响应速度 4ms，MPRT 响应速度 0.5ms，最高亮度可达 350 尼特，面板对比度可达 3000:1（Typ），支持 HDR 10，显示器支持 8-Bit 色彩，覆盖 90% DCI-P3 色域。 该机支架支持俯仰，显示器本体支持 100mm×100mm VESA 壁挂，提供 1 个 HDMI 2.1、1 个 DP 1.4、1 个 3.5mm 音频接口。 I",
-     "source": "IT之家",
-     "zh": "AOC 推出“24E40XN”23.8 英寸显示器：1080P 180Hz VA 面板，549 元"
-    },
-    {
-     "title": "DeepSeek 上线网页搜索与抓取 API、API 短暂出现 V4.1 Flash-1017 快照、Harness v0.2.1-rc1 发布",
-     "link": "https://www.ithome.com/1/014/291.htm",
-     "pubDate": "Sat, 17 Oct 2026 06:36:52 GMT",
-     "summary": "IT之家 10 月 17 日消息，今天上午，DeepSeek 在 API 层面连续出现多项变动。 首先，DeepSeek 官方宣布 Search / Fetch API 已正式上线，两项接口均使用 DeepSeek 自研搜索引擎，为 Agent 与 RAG 应用提供实时网页内容。 Search 接口按 query 搜索网页并返回结构化结果，Fetch 接口则抓取单个网页，以 Markdown 文本返回标题与正文。两者均为原始 JSON API，Base URL 为 api.deepseek.com ，使用与 DeepSeek API 相同的 Bearer 鉴权。 根据 DeepSeek 支持文",
-     "source": "IT之家",
-     "zh": "DeepSeek 上线网页搜索与抓取 API、API 短暂出现 V4.1 Flash-1017 快照、Harness v0.2.1-rc1 发布"
     },
     {
      "title": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg&apos;s support during Meta&apos;s AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
      "link": "https://llmspeed.dev/",
      "pubDate": "Sat, 17 Oct 2026 04:36:53 +0000",
-     "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 13 # Comments: 2",
+     "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 16 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: Llmspeed – 在购买硬件之前感受本地法学硕士的运行速度"
     },
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "\"In every study that considered the question\"",
      "link": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
      "pubDate": "Sat, 17 Oct 2026 04:08:27 +0000",
-     "summary": "Article URL: https://unsung.aresluna.org/in-every-study-that-considered-the-question/ Comments URL: https://news.ycombinator.com/item?id=50127839 Points: 21 # Comments: 11",
+     "summary": "Article URL: https://unsung.aresluna.org/in-every-study-that-considered-the-question/ Comments URL: https://news.ycombinator.com/item?id=50127839 Points: 22 # Comments: 13",
      "source": "Hacker News",
      "zh": "“在每一项考虑这个问题的研究中”"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Butlerian Jihad",
      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
      "pubDate": "Sat, 17 Oct 2026 02:21:08 +0000",
-     "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 170 # Comments: 93",
+     "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 177 # Comments: 94",
      "source": "Hacker News",
      "zh": "巴特勒圣战"
     },
@@ -1997,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "Nine-Inch Snails",
      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
      "pubDate": "Fri, 16 Oct 2026 22:21:05 +0000",
-     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 49 # Comments: 27",
+     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 50 # Comments: 29",
      "source": "Hacker News",
      "zh": "九寸蜗牛"
     }
@@ -2258,52 +2258,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "一艘油轮周五在沙特阿拉伯朱拜勒东北方向68海里处遭不明飞射物击中",
-     "link": "http://finance.eastmoney.com/news/1356,202610173899040079.html",
-     "pubDate": "Sat, 17 Oct 2026 14:37:36 +0800",
-     "summary": "英国海上贸易行动办公室（UKMTO）当地时间16日发布报道称，收到一份延迟提交的事件报告，一艘油轮周五在沙特阿拉伯朱拜勒（Al Jubayl）东北方向68海里处遭不明飞射物击中。所有船员均安全并已撤离。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "一艘油轮周五在沙特阿拉伯朱拜勒东北方向68海里处遭不明飞射物击中"
+     "title": "上线了！2027见闻历超值预售99元，活动火热进行中！",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Sat, 17 Oct 2026 15:08:27 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "上线了！2027见闻历超值预售99元，活动火热进行中！"
     },
     {
-     "title": "欧洲央行行长拉加德：应采取适度政策举措遏制通胀",
-     "link": "http://finance.eastmoney.com/news/1346,202610173899039938.html",
-     "pubDate": "Sat, 17 Oct 2026 14:27:28 +0800",
-     "summary": "欧洲央行行长拉加德表示，战争带来通胀上行风险。财政可持续性仍是整体经济稳定的“重要支柱”，各国政府应当确保针对能源冲击出台的财政举措具备临时性、定向性与适配性。经济前景下行风险存在，通胀风险上行；应采取适度政策举措遏制通胀。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "欧洲央行行长拉加德：应采取适度政策举措遏制通胀"
+     "title": "AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防",
+     "link": "https://wallstreetcn.com/articles/3783836",
+     "pubDate": "Sat, 17 Oct 2026 15:06:40 +0800",
+     "summary": "花旗、美国银行和摩根大通相继宣布限制AI智能代理访问客户账户，这场集体设防的背后，是银行业对数万亿美元低成本存款可能被AI\"扫走\"的深层焦虑。 花旗明确表示， 不允许\"第三方AI代理或助手登录客户账户，或直接在其数字银行平台上进行交易\"， 称此举旨在保障客户账户与信息安全。美国银行首席执行官Brian Moynihan本周三在接受CNBC采访时表示， 该行正在限制AI代理访问消费者存款账户，同时研究在AI发起支付指令时如何界定责任主体。 摩根大通首席执行官Jamie Dimon则在该行三季度业绩电话会议上表示， 将限制AI代理访问客户账户，理由是\"你不会希望出现流氓代理，而且这类代理可能数以千",
+     "source": "华尔街见闻",
+     "zh": "AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防"
     },
     {
-     "title": "《全球酒业可持续发展伙伴倡议》发布 赤水河凝聚全球酒业协同共识",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899039858.html",
-     "pubDate": "Sat, 17 Oct 2026 14:26:51 +0800",
-     "summary": "美酒，因自然而生，因文明而兴，因责任而久。10月17日，2026赤水河论坛举办期间，中国品牌全球行暨“全球酒业可持续发展伙伴计划”举行发起仪式。 当前，全球酒业正处于深刻变革的关键节点。生态保护、代际传承、技术革新与理性消费，已成为全行业共同面对的时代课题。此次发起的伙伴计划，是对这一命题的务实回应。 作为东道主，茅台邀请来自世界可持续发展工商理事会（WBCSD）， 五粮液 、汾酒、 泸州老窖 、洋河、剑南春、习酒、 古井贡酒 、郎酒、劲牌、 珍酒李渡 等中国头部酒企，保乐力加、人头马君度、罗思柴尔德木桐酒庄以及来自南非、奥地利等国知名酒庄，共18位中外代表，共同发起《全球酒业可持续发展伙伴倡",
+     "title": "刚刚集体跳水！霍尔木兹海峡大消息！",
+     "link": "http://finance.eastmoney.com/news/1344,202610173899041487.html",
+     "pubDate": "Sat, 17 Oct 2026 15:03:06 +0800",
+     "summary": "科技股的跌势还在持续！ 北京时间17日下午，美股科技股在暗盘交易中继续跳水。截至发稿， 超威半导体 暗盘跌超3%， 闪迪 、 英特尔 、 美光科技 暗盘跌超2%， 英伟达 、 博通 暗盘跌超1%， 苹果 暗盘跌0.51%。 消息面上，中东紧张局势再度升级。据央视新闻报道，当地时间10月17日，伊朗伊斯兰革命卫队海军在社交媒体发表声明说，一艘超级油轮在霍尔木兹海峡触雷后发生大规模爆炸并起火。 此外，伊朗军队发言人阿克拉米尼亚16日表示，伊朗已经将新型武器装备投入使用，防御能力比美以伊战争时期更强大。 他表示，近几周，伊朗击落了数架美国 无人机 。在国防部的领导下，军队制定并实施了新的作战和装备计",
      "source": "东方财富股票",
-     "zh": "《全球酒业可持续发展伙伴倡议》发布 赤水河凝聚全球酒业协同共识"
+     "zh": "刚刚集体跳水！霍尔木兹海峡大消息！"
     },
     {
-     "title": "1.74亿元债务违约未及时披露，金煤科技及责任人收警示函",
-     "link": "http://stock.eastmoney.com/news/11215,202610173899039554.html",
-     "pubDate": "Sat, 17 Oct 2026 14:19:14 +0800",
-     "summary": "10月16日， 金煤科技 （600844）公告称，公司及时任董事长蒋涛、总经理成国俊、董事会秘书宋卓被出具警示函。 公告显示，江苏丹化集团有限责任公司向 金煤科技 提供财务资助本金及孳息于2026年3月31日到期，金额合计1.74亿元。公司未能按期偿付该债务，构成重大债务违约，且未及时履行信息披露义务，直至2026年4月30日《2025年年度报告》中才披露该笔借款的偿还安排，2026年5月15日才披露《关于拟与关联方签署借款宽限协议暨关联交易公告》。 内蒙古证监局认定，公司上述行为违反了《上市公司信息披露管理办法》（证监会令第226号）第三条第一款、第二十三条第二款第一项规定。公司时任董事长蒋",
+     "title": "IMF官员警告全球经济面临紧迫财政挑战",
+     "link": "http://finance.eastmoney.com/news/1346,202610173899041392.html",
+     "pubDate": "Sat, 17 Oct 2026 15:01:15 +0800",
+     "summary": "国际货币基金组织（IMF）财政事务部主任罗德里戈·巴尔德斯日前在接受新华社记者专访时表示，在高债务水平、更高利率以及不断增长的公共支出需求背景下，几乎所有经济体都面临紧迫的财政挑战。 他表示，债务高企是现实，对全球经济体而言，债务与国内生产总值（GDP）之比正在上升，利率比几年前更高，而且有很多增加的支出需求。“所有这些因素叠加在一起，财政政策面临严峻挑战。” 根据14日发布的IMF最新一期《财政监测报告》，全球公共债务处于历史高位，预计将在2030年前超过全球GDP的100%，政府债务的实际利率仍高于新冠疫情前水平，发达经济体、新兴市场和发展中经济体的支出压力持续加大。IMF的新研究还表明，",
      "source": "东方财富股票",
-     "zh": "1.74亿元债务违约未及时披露，金煤科技及责任人收警示函"
+     "zh": "IMF官员警告全球经济面临紧迫财政挑战"
     },
     {
-     "title": "茅台集团董事长陈华：让百花齐放的多元酒文化走进全球更多消费者",
-     "link": "http://stock.eastmoney.com/news/11219,202610173899039435.html",
-     "pubDate": "Sat, 17 Oct 2026 14:17:50 +0800",
-     "summary": "10月17日，茅台集团董事长陈华在2026赤水河论坛上发表致辞时表示，面对世界酒业格局深刻演变，酒企应恪守自然共生之“道”、把握时代变革之“势”、深化开放合作之“行”，共护产区发展根脉，共促产业发展转型，共谱酒业发展新篇。 图为茅台集团董事长陈华发表致辞 陈华表示，世界名酒的成长史，往往是一部产区的发展史，更是一方水土匠心传承、生生不息的文化史。 “产区是酿酒产业的生态根本、品质根源和文化根脉，呵护好产区生态，维护好产区声誉，传承好酿造文化，是全球酒企共同的责任。”陈华说，期待以论坛为媒，深挖产区生态价值与人文价值，以更加贴合大众审美、激发情感共鸣的方式，讲好产区品牌故事，凝聚产业价值认同，让",
+     "title": "马克龙：美俄“柴油协议”释放美欧分裂信号",
+     "link": "http://finance.eastmoney.com/news/1351,202610173899040316.html",
+     "pubDate": "Sat, 17 Oct 2026 14:47:03 +0800",
+     "summary": "法国总统马克龙16日就美国近日宣布放松对俄罗斯柴油贸易的制裁发表评论，认为美方做法释放了美欧分裂的信号。 马克龙在布鲁塞尔参加欧盟峰会后告诉媒体记者，美国放松对俄罗斯柴油贸易的制裁释放了“负面信号”，而且是“分裂和猜疑的因素”。他认为这种做法“没有用”，只会导致不信任。马克龙补充说，他将尝试说服美国领导人，推动出台降低燃油价格的举措。 2022年3月24日，工作人员在比利时布鲁塞尔的欧盟总部整理美国国旗。新华社记者张铖摄美俄领导人9日通电话，就俄罗斯向美国及全球市场提供柴油达成一致。乌克兰总统泽连斯基认为美国这样做“是在投资战争”，他对此表示失望并称感觉“遭背叛”。美国总统特朗普继而表示“乌克",
      "source": "东方财富股票",
-     "zh": "茅台集团董事长陈华：让百花齐放的多元酒文化走进全球更多消费者"
+     "zh": "马克龙：美俄“柴油协议”释放美欧分裂信号"
     },
     {
-     "title": "西工大博士研发载人“空中出租车” 填补国内技术空白",
-     "link": "http://finance.eastmoney.com/news/1350,202610173899039383.html",
-     "pubDate": "Sat, 17 Oct 2026 14:16:27 +0800",
-     "summary": "据西安日报，近日举行的2026Inclusion·外滩大会上，西北工业大学95后博士白志亮带队研发的鸿鹄eVTOL（电动垂直起降飞行器）预生产原型机公开亮相。这款可载人、可量产、对标国际最高标准的全倾转电动飞行器，一举填补国内技术空白。白志亮带领的企业华羽先翔成为全球第二家、中国首家实现全倾转过渡飞行的eVTOL企业。 （文章来源：人民财讯）",
+     "title": "财政赤字逼近2万亿美元 美国财政压力有多大",
+     "link": "http://finance.eastmoney.com/news/1351,202610173899040221.html",
+     "pubDate": "Sat, 17 Oct 2026 14:46:42 +0800",
+     "summary": "当地时间10月16日，美国财政部公布最新数据，2026财年联邦财政赤字达到1.99万亿美元，比上一财年增加2170亿美元，创五年来最高水平。该数字甚至超过一些发达国家一年的经济总量。 尽管美国政府全年收入达到创纪录的5.4万亿美元，但支出增长更快，达到7.4万亿美元。其中，债务利息支出高达1.36万亿美元。 在联邦债务总额突破40万亿美元的背景下，美国财政为何持续入不敷出，成为外界普遍关注的问题。 财政赤字逼近2万亿美元 十年间占收入比重近乎翻倍 美国财政部数据显示，2026财年联邦财政赤字比上一财年增长约12%，这是美国自2021年以来最大的年度财政赤字，也是历史上金额第三高的年度赤字。 近",
      "source": "东方财富股票",
-     "zh": "西工大博士研发载人“空中出租车” 填补国内技术空白"
+     "zh": "财政赤字逼近2万亿美元 美国财政压力有多大"
+    },
+    {
+     "title": "白宫限制乌克兰使用“星盾”？特朗普否认",
+     "link": "http://global.eastmoney.com/news/1959,202610173899040122.html",
+     "pubDate": "Sat, 17 Oct 2026 14:43:24 +0800",
+     "summary": "美国总统特朗普16日说，他并未要求美国太空探索技术公司限制乌克兰使用“星盾”卫星 通信 系统。他认为，他本人和太空探索技术公司创始人马斯克都与乌方使用的“星盾”服务被限速无关。 特朗普当天在白宫告诉媒体记者：“不是我。而且我认为也不是埃隆（·马斯克）……据我所知，它（星盾）和以前一样。” “星盾”是太空探索技术公司面向美国政府和军方开发的卫星 通信 系统，与主要提供商业服务的“星链”系统有所区别，但两者共用部分卫星技术和基础设施。据乌克兰官员和军方消息人士14日披露，过去一晚，太空探索技术公司对乌方使用的“星盾”服务实施限速。乌克兰总统顾问别斯克列斯特诺夫说，乌军事先并未收到相关警告，导致多个",
+     "source": "东方财富股票",
+     "zh": "白宫限制乌克兰使用“星盾”？特朗普否认"
+    },
+    {
+     "title": "联美控股及4股东被立案，一个月前联席董事长和总裁双双离任",
+     "link": "http://stock.eastmoney.com/news/11215,202610173899040953.html",
+     "pubDate": "Sat, 17 Oct 2026 14:41:01 +0800",
+     "summary": "10月16日晚， 联美控股 （600167.SH）公告称，公司及股东联美集团有限公司、拉萨和泰装修有限公司、沈阳茵芙诺德科技有限公司、上海美季信息科技有限公司于当日分别收到证监会《立案告知书》，均因“涉嫌未按规定报送有关报告或履行信息披露义务”被立案调查。 公告称，经上述股东自查，本次调查涉及其相互之间可能存在一致行动关系的事项。公司同时表示，控制权稳定，本次立案对生产经营无影响。 据2026年半年报， 联美控股 的控股股东为 联众 新能源 有限公司，持股52.98%；联美集团有限公司为第二大股东，持股17.23%。二者均为实际控制人苏素玉及其一致行动人苏武雄、苏壮强、苏冠荣、苏壮奇控制的企业",
+     "source": "东方财富股票",
+     "zh": "联美控股及4股东被立案，一个月前联席董事长和总裁双双离任"
+    },
+    {
+     "title": "特朗普签署行政令豁免对俄多项制裁",
+     "link": "http://global.eastmoney.com/news/1959,202610173899038868.html",
+     "pubDate": "Sat, 17 Oct 2026 13:57:49 +0800",
+     "summary": "美国白宫16日发布的消息显示，美国总统特朗普当日签署一份行政令，豁免对俄罗斯实施多项制裁措施。 根据该行政令，豁免内容涉及《2026年格雷厄姆制裁俄罗斯和伊朗法案》中大部分条款，包括对从俄进口的商品最高征收500%从价关税，对俄原油或 天然气 前五大进口方的输美商品最高征收100%从价关税。豁免将持续有效，直至美国总统或国务卿与财政部长等官员协商后采取进一步行动。 美国财政部外国资产控制办公室9日宣布，在未来几个月放松针对俄罗斯柴油贸易的制裁，以缓解美国内柴油供应紧张、平抑油价。此举引发部分美国国会议员反对。他们要求特朗普依据《2026年格雷厄姆制裁俄罗斯和伊朗法案》，加大对俄罗斯等国的经济施",
+     "source": "东方财富资讯",
+     "zh": "特朗普签署行政令豁免对俄多项制裁"
     },
     {
      "title": "美银、花旗出手，限制AI代理",
@@ -2370,38 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "活力中国调研行｜边境线上的糖都崇左：出海运费有望砍半，进口代工企业谈成首笔出口订单"
     },
     {
-     "title": "突然！VIX恐慌指数狂飙21.45%！",
-     "link": "http://finance.eastmoney.com/news/1344,202610173899028171.html",
-     "pubDate": "Sat, 17 Oct 2026 12:36:40 +0800",
-     "summary": "VIX恐慌指数狂飙！ 隔夜，美股AI相关股票遭遇抛售，一度将 芝加哥期权交易所 波动率指数（VIX恐慌指数）推高至22点以上，为四个月来首次。截至收盘时，VIX恐慌指数上涨21.45%，报19.99点。 VIX恐慌指数上涨，通常意味着市场预期未来波动更大、避险情绪升温，美股短期下行风险偏高。 然而，一大批交易表明，VIX恐慌指数可能还会继续走高。在一连串不同寻常的交易中，投资者买入了多笔11月到期的VIX看涨期权，只要该指数在11月期间保持高位，这些期权就能获利。 具体来说，一名交易员花170万美元买入9200份11月18日到期、行权价20的看涨期权，又花110万美元买入12500份11月18",
-     "source": "东方财富资讯",
-     "zh": "突然！VIX恐慌指数狂飙21.45%！"
-    },
-    {
-     "title": "科翔股份业绩大增超600%！章建平退出前十大股东名单",
-     "link": "http://finance.eastmoney.com/news/1344,202610173899027881.html",
-     "pubDate": "Sat, 17 Oct 2026 12:32:36 +0800",
-     "summary": "2026年半年报中出现在 科翔股份 （300903）前十大股东名单的“牛散”章建平，三季报又退出了该公司的持股前十榜单。 10月16日晚间， 科翔股份 披露的2026年三季报显示，第三季度公司实现营业收入18.5亿元，同比增长100.9%；实现归母净利润3.11亿元，同比增长638.54%；实现扣非净利润3.09亿元，同比增长614.82%。 2026年前三季度， 科翔股份 实现营业收入39.79亿元，同比增长45.92%；实现归母净利润2.44亿元，同比增长304.01%；实现扣非净利润2.34亿元，同比增长276.6%。 科翔股份成立于2001年，深耕 PCB 行业二十余载，是一家从事高密",
-     "source": "东方财富资讯",
-     "zh": "科翔股份业绩大增超600%！章建平退出前十大股东名单"
-    },
-    {
-     "title": "上线了！2027见闻历超值预售99元，活动火热进行中！",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Sat, 17 Oct 2026 12:31:41 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "上线了！2027见闻历超值预售99元，活动火热进行中！"
-    },
-    {
-     "title": "加息大消息！美联储主席重磅发声！",
-     "link": "http://finance.eastmoney.com/news/1344,202610173899027739.html",
-     "pubDate": "Sat, 17 Oct 2026 12:29:03 +0800",
-     "summary": "10月16日，美联储主席沃什在曼谷出席国际货币基金组织(IMF)和世界 银行 集团2026年年会期间表示，自9月联邦公开市场委员会（FOMC）会议以来，全球形势基本符合预期。今年还将举行两次议息会议，这将是形成明确结论的关键时点。 沃什不赞成在2026年余下议息会议上提前透露可能采取的政策行动。“美联储的政策会溢出到世界其他地区，但其他国家或地区的政策也会反过来影响我们。” 投资者已削减对美联储在10月27日-28日政策会议上加息的预期。在沃什发言后，相关加息概率从27%左右降至15%以下。 沃什表示，通胀并非美国独有的问题。“我从世界各地的同行那里听说，大家都有实现物价稳定的决心。我们看到全",
-     "source": "东方财富资讯",
-     "zh": "加息大消息！美联储主席重磅发声！"
-    },
-    {
      "title": "天天315｜蚂蚁消金36.45亿逾期债权打包转让",
      "link": "http://www.eeo.com.cn/2026/1017/1067842.shtml",
      "pubDate": "Sat, 17 Oct 2026 12:26:06 +0800",
@@ -2416,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "支持电影院、体育场馆、体育赛事举办方、互联网平台企业、商业银行、支付结算机构等联合开展“电影+体育”促消费活动。 两部门发文支持电影、体育产业发展。 为深入贯彻党的二十大和二十届历次全会精神，认真落实四中全会部署，贯彻落实中央经济工作会议、全国服务业大会部署，近日，国家电影局、体育总局联合印发《关于开展“跟着电影去运动”行动 推动电影与体育双向赋能的通知》。 <img src=\"htt...",
      "source": "经济观察网",
      "zh": "两部门：支持电影院直播体育赛事、销售体育彩票"
-    },
-    {
-     "title": "自愿放弃无效 用人单位欠缴社保最高罚3倍 新规即将施行",
-     "link": "http://finance.eastmoney.com/news/11158,202610173899025425.html",
-     "pubDate": "Sat, 17 Oct 2026 12:11:24 +0800",
-     "summary": "11月1日，《全国税务行政处罚裁量基准（2026年版）》开始施行，社保缴费违法行为首次被纳入全国统一的税务行政处罚裁量体系。《基准》明确，用人单位欠缴社保最高罚三倍。同时需要注意，所谓“自愿放弃社保协议”是无效的。 统一全国执法标尺杜绝同案不同罚 《基准》第30项明确，用人单位在规定期限内不缴或者少缴社会保险费的，经税务机关责令限期缴纳， 逾期仍未缴纳的，处欠缴数额一倍以上三倍以下罚款 。根据欠缴的金额和占应缴总额的比例，分为一般、较重、严重三档执行。举例来说，如果一家公司欠缴社保600万元，占应缴总额的35%，就触犯了第三档，最高可能被罚款1800万元，外加每天万分之五的滞纳金。 中国政法大",
-     "source": "东方财富资讯",
-     "zh": "自愿放弃无效 用人单位欠缴社保最高罚3倍 新规即将施行"
     },
     {
      "title": "The Man City theory of politics",
@@ -2496,6 +2480,22 @@ window.INDUSTRY_DATA = {
      "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
      "source": "Financial Times",
      "zh": "特朗普的新闻秘书凯蒂·扎卡里亚在五天后被解雇"
+    },
+    {
+     "title": "Brent crude hits $110 for first time since May; U.S. WTI tops $100",
+     "link": "https://seekingalpha.com/news/4654025-brent-crude-hits-110-for-first-time-since-may-us-wti-tops-100?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 20:06:25 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "布伦特原油自 5 月份以来首次触及 110 美元；美国WTI原油突破100美元"
+    },
+    {
+     "title": "Boeing commercial sales chief McMullen set to retire - Reuters",
+     "link": "https://seekingalpha.com/news/4654027-boeing-commercial-sales-chief-mcmullen-set-to-retire-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 19:17:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "波音商业销售主管麦克马伦即将退休 - 路透中文网"
     }
    ]
   },

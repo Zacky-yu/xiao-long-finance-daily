@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/17 14:09:51",
+ "generated_at": "2026/10/17 14:17:15",
  "recent_days": 7,
  "industries": [
   {
@@ -1761,12 +1761,28 @@
    "total": 18,
    "items": [
     {
+     "title": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners (FinTech Global)",
+     "link": "https://www.techmeme.com/261017/p7#a261017p7",
+     "pubDate": "Sat, 17 Oct 2026 02:15:02 -0400",
+     "summary": "FinTech Global : Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners &nbsp; &mdash;&nbsp; Reach Security has secured more than $50m in a Series B round led by Top Tier Capital Partners, while un",
+     "source": "Techmeme",
+     "zh": "Reach Security 开发用于保护企业系统的人工智能曝光管理工具，筹集了由顶级资本合作伙伴 (FinTech Global) 领投的超过 5000 万美元的 B 轮融资"
+    },
+    {
      "title": "Bolt 完成 Zeus GPU 测试芯片调试，实际产品预计 2028 年发售",
      "link": "https://www.ithome.com/1/014/283.htm",
      "pubDate": "Sat, 17 Oct 2026 06:08:46 GMT",
      "summary": "IT之家 10 月 17 日消息，GPU 初创企业 Bolt Graphics 当地时间本月 13 日宣布，其已完成 Zeus 架构 GPU 测试芯片的调试工作，为商用产品的 2028 年发售打下了基础。 Bolt 的 Zeus 架构 集成专用电磁仿真硬件 ，同时也能加速路径追踪图形负载，适用于物理 AI 等复杂计算场景。 Bolt 在台积电 12nm 工艺上进行了小尺寸测试芯片的流片。该测试芯片仅有 6mm²， A0 步进回片未被发现任何功能问题 ，功耗 1.4W。 Bolt 的 商用 GPU 芯片则将采用台积电的 N5P 制程工艺 ，预计 2027Q1 开放开发者访问权限、2027 年底向",
      "source": "IT之家",
      "zh": "Bolt 完成 Zeus GPU 测试芯片调试，实际产品预计 2028 年发售"
+    },
+    {
+     "title": "AI 开始动摇苹果 App Store 的根基了",
+     "link": "https://www.huxiu.com/article/4898267.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 14:08:20 +0800",
+     "summary": "本文来自微信公众号： 硅发布 ，作者：Lynn Yang 上周，OpenAI在更新GPT-6时推出了一项新功能Intelligent UI（智能界面）。 我觉得这件事情的意义很大，长期看，甚至可能超过ChatGPT推出Dots，因为它有可能会从根基上动摇苹果App Store的核心地位。 为什么这么说呢？先来看一段我的经历。 周二，我在家里琢磨内容创作中的一些经营问题，比如当用户规模、付费比例及产品定价发生变化时，结果会有什么不同？ 没想到，ChatGPT没有像以前一样回复我一大段文字，而是直接蹦出了这么一个东西。如下： 请注意：这不是一张静态图，而是一个我可以自由操作的小工具——只要我拖动任",
+     "source": "虎嗅",
+     "zh": "AI 开始动摇苹果 App Store 的根基了"
     },
     {
      "title": "Duvo, which develops tech to automate business processes across enterprise systems, including ERPs and legacy apps, raised a $32M Series A led by Balderton (Mike Butcher/Pathfounders)",
@@ -1793,12 +1809,36 @@
      "zh": "领普“磁保持低功耗智能开关”E7S 开启众筹：提供单键至四键可选，32 元起"
     },
     {
+     "title": "热点｜员工用AI辅助办公被辞退，法院判了：公司违法，合同继续履行",
+     "link": "https://www.huxiu.com/article/4898263.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 13:56:18 +0800",
+     "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《热点｜员工用AI辅助办公被辞退，法院判了：公司违法，合同继续履行》 2024年7月，北京某保险公司的法务吴女士，在公司领导推荐下，把一份自行整理加工后的公司稽核问题数据表上传到了第三方AI平台，用来辅助做PPT和数据分析。 一个月后，公司突然向她出具《解除劳动合同告知书》，理由是“严重违反规章制度”。 公司的逻辑是：吴女士是法律合规部员工，签过保密协议、参加过信息安全培训，负有高于普通员工的保密义务。第三方AI3平台会收集、留存用户数据用于模型迭代，将公司内部文件上传，存在信息泄露、被第三方窃取的重大风险。 吴女士不认可。她说自己没有",
+     "source": "虎嗅",
+     "zh": "热点｜员工用AI辅助办公被辞退，法院判了：公司违法，合同继续履行"
+    },
+    {
      "title": "群智咨询：超七成主流品牌笔记本 OLED 面板来自三星显示，厂商加速引入中国供应商",
      "link": "https://www.ithome.com/1/014/277.htm",
      "pubDate": "Sat, 17 Oct 2026 05:55:35 GMT",
      "summary": "IT之家 10 月 17 日消息，群智咨询 15 日公布的数据显示， 主要笔记本电脑品牌使用的 OLED 面板中，超过 70% 来自三星显示 。随着面板供应进一步集中，各大电脑厂商开始引入中国面板厂商，以确保供货稳定，并在价格谈判中争取更多主动权。 联想的 OLED 面板主要由三星供应，另有部分来自 京东方与和辉光电 。惠普同样以三星显示为主要供应商，部分机型采用和辉光电的面板。 华硕同时向三星显示、京东方与和辉光电采购面板，宏碁约 75% 的 OLED 面板则来自三星显示。戴尔 XPS 系列使用 LG 显示的面板，其他产品主要由三星显示供货。 随着越来越多笔记本电脑采用 OLED 屏幕，面板",
      "source": "IT之家",
      "zh": "群智咨询：超七成主流品牌笔记本 OLED 面板来自三星显示，厂商加速引入中国供应商"
+    },
+    {
+     "title": "被封杀的“大结果之母”，靠AI卷土重来赚了三百万",
+     "link": "https://www.huxiu.com/article/4898264.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 13:55:18 +0800",
+     "summary": "本文来自微信公众号： 新周刊 ，作者：洛卡来，编辑：贾小凡 App延续了曲曲大女人的方法论，只是交付方式改变了。以前，用户要刷礼物、买课、进入社群才能持续接触曲曲的观点。现在，用户只需要每月交出199元，就可以24小时和“曲曲”畅聊。 在被多平台封禁近三年后，被骂“捞女教母”的@曲曲大女人（以下简称“曲曲”）并没有从情感生意里消失。 最近，她的关联公司推出的AI情感咨询App“美人支招”被网友和媒体热议。这款App把聊天分析、回复话术、冲突演练等功能，装进了一个随时可以提问的AI产品里。用户买到的，除了AI建议，还有一套带着曲曲个人风格的关系判断。 据七麦数据（iOS端）估算，截至10月13日",
+     "source": "虎嗅",
+     "zh": "被封杀的“大结果之母”，靠AI卷土重来赚了三百万"
+    },
+    {
+     "title": "女研究员近4年老鼠仓，亏损收场",
+     "link": "https://www.huxiu.com/article/4898262.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 13:52:36 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：封其娟 历时3年8个月的老鼠仓，最终以亏损收场——这位保险资管研究员，还领了50万元的罚单。 恽某利用未公开信息交易进行趋同交易一案现已调查、办理终结。据最新披露，上海证监局决定对恽某责令依法处理非法持有的证券，并处以50万元罚款。 罚单显示，恽某为某保险资管研究员，知悉案涉组合的持仓、交易等未公开信息。2022年1月24日至2025年9月29日期间，恽某违规自行或指使他人通过2个他人账户开展趋同交易，账户资金主要来源及去向均为恽某及配偶。 这并非单次短线突击交易，而是一场长周期、持续性的趋同交易。该交易时间跨度长达3年8个月，最终录得亏损，但亏损并不构成",
+     "source": "虎嗅",
+     "zh": "女研究员近4年老鼠仓，亏损收场"
     },
     {
      "title": "Montevideo, Uruguay-based Scanntech, which develops market intelligence tools using POS data, raised $180M in a Series F led by L Catterton and Partners Group (FinSMEs)",
@@ -1809,12 +1849,28 @@
      "zh": "总部位于乌拉圭蒙得维的亚的 Scanntech 使用 POS 数据开发市场情报工具，在由 L Catterton and Partners Group (FinSMEs) 领投的 F 轮融资中筹集了 1.8 亿美元"
     },
     {
+     "title": "Israeli settlers attack olive framers & Washington Post journalist in West Bank",
+     "link": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+     "pubDate": "Sat, 17 Oct 2026 05:44:22 +0000",
+     "summary": "Article URL: https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine Comments URL: https://news.ycombinator.com/item?id=50128297 Points: 10 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "以色列定居者袭击约旦河西岸的橄榄树种植者和《华盛顿邮报》记者"
+    },
+    {
      "title": "英伟达黄仁勋称 AI 现在不是泡沫，安全不应成为减速理由",
      "link": "https://www.ithome.com/1/014/274.htm",
      "pubDate": "Sat, 17 Oct 2026 05:39:40 GMT",
      "summary": "IT之家 10 月 17 日消息，英国当地时间 10 月 14 日在伦敦接受彭博记者 Emily Chang 采访时，英伟达首席执行官黄仁勋表示当前 AI 需求远大于供给， 不认为现阶段处于“AI 泡沫”阶段，不过他也承认未来供给可能超过需求。 在采访中，黄仁勋表示：“泡沫发生在供给超过需求的时候。最终供需会趋于平衡，而且在某个时候，供给可能会超过需求，但不是今天。今天，需求远远大于供给。” 面对 AI 云服务商 CoreWeave 引发的市场担忧，黄仁勋表示没有必要救助该公司，其财务状况会没问题。报道说，CoreWeave 股价随后在周四扭转跌势，收涨近 6%。IT之家附上相关股价信息如下：",
      "source": "IT之家",
      "zh": "英伟达黄仁勋称 AI 现在不是泡沫，安全不应成为减速理由"
+    },
+    {
+     "title": "主流大模型挑战最高难度《杀戮尖塔》，全都死于太过稳健……",
+     "link": "https://www.huxiu.com/article/4898195.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 13:39:10 +0800",
+     "summary": "本文来自微信公众号： 游戏研究社 ，作者：鱼钩 “血量只有快没有的时候才是有用的资源”，AI大人。 上个星期，加拿大Vector研究所与荷兰Radboud大学的研究人员在论文预印本平台arXiv上发布了一项最新研究，论文题为《SpireBench：用〈杀戮尖塔〉评估智能体模型的长期战略能力》。 顾名思义，这项被命名为\"SpireBench\"的研究，目的在于通过知名肉鸽卡牌构筑游戏《杀戮尖塔》，来测试当前的大语言模型能否在频繁应对战斗的同时做出长线规划——选择路线、管理资源、构筑牌组。AI们将一路爬塔，最终尝试实现通关这个终极目标。 这并非第一次\"让AI打《杀戮尖塔》\"的实验。不过此前的相关测试",
+     "source": "虎嗅",
+     "zh": "主流大模型挑战最高难度《杀戮尖塔》，全都死于太过稳健……"
     },
     {
      "title": "我被AI诈骗盯上了",
@@ -1857,6 +1913,14 @@
      "zh": "总部位于伦敦的 Scarlet 负责对医疗设备的人工智能和软件进行认证，筹集了由 Headline 领投的 5000 万美元 B 轮融资，以支持其在美国和亚太地区的扩张（Cate Lawrence/Tech.eu）"
     },
     {
+     "title": "东风押注氨动力：不是逆袭，是过冬",
+     "link": "https://www.huxiu.com/article/4897940.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 13:28:24 +0800",
+     "summary": "出品｜虎嗅汽车组 作者｜邢书博 题图｜作者设计，AI制图 10月14日傍晚，北京。中欧贸易投资磋商机制第二次例会刚结束，双方就混动汽车、电动汽车贸易问题达成共识的消息传出。这是中欧汽车领域最高级别磋商。 当晚东风发布声明：\"稳定清晰的贸易规则，能保障车企正常开展跨境贸易，为新能源车型在中欧市场的流通创造良好条件。\" 声明里还提到，欧洲是东风实施全球化战略的重点市场。东风将持续完善海外业务合规体系建设，主动把握本次磋商带来的市场机遇。 中欧贸易投资磋商机制第二次例会达成共识 四天前的10月10日，武汉，东风商用车刚发布D600绿智平台&mdash;&mdash;覆盖燃油、燃气、纯电、换电、混动、",
+     "source": "虎嗅",
+     "zh": "东风押注氨动力：不是逆袭，是过冬"
+    },
+    {
      "title": "市场监管总局：立案查处加油机作弊案件 399 件、案值 2.7 亿元、罚没款 1.43 亿元",
      "link": "https://www.ithome.com/1/014/273.htm",
      "pubDate": "Sat, 17 Oct 2026 05:26:53 GMT",
@@ -1897,18 +1961,10 @@
      "zh": "投影仪半年少卖70万台，都怪红果短剧太上头"
     },
     {
-     "title": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M (Malia Spencer/Portland Business Journal)",
-     "link": "https://www.techmeme.com/261017/p1#a261017p1",
-     "pubDate": "Sat, 17 Oct 2026 00:50:01 -0400",
-     "summary": "Malia Spencer / Portland Business Journal : Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M &nbsp; &mdash;&nbsp; Software company C1, whose headquarters has fluctuated between San Francis",
-     "source": "Techmeme",
-     "zh": "Workday 同意收购 C1.ai（以前称为 ConductorOne），该公司开发企业软件来管理人类和人工智能代理身份，并已筹集 1.11 亿美元（Malia Spencer/波特兰商业杂志）"
-    },
-    {
      "title": "\"In every study that considered the question\"",
      "link": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
      "pubDate": "Sat, 17 Oct 2026 04:08:27 +0000",
-     "summary": "Article URL: https://unsung.aresluna.org/in-every-study-that-considered-the-question/ Comments URL: https://news.ycombinator.com/item?id=50127839 Points: 15 # Comments: 9",
+     "summary": "Article URL: https://unsung.aresluna.org/in-every-study-that-considered-the-question/ Comments URL: https://news.ycombinator.com/item?id=50127839 Points: 19 # Comments: 9",
      "source": "Hacker News",
      "zh": "“在每一项考虑这个问题的研究中”"
     },
@@ -1924,7 +1980,7 @@
      "title": "Butlerian Jihad",
      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
      "pubDate": "Sat, 17 Oct 2026 02:21:08 +0000",
-     "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 148 # Comments: 82",
+     "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 154 # Comments: 86",
      "source": "Hacker News",
      "zh": "巴特勒圣战"
     },
@@ -1940,65 +1996,9 @@
      "title": "Nine-Inch Snails",
      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
      "pubDate": "Fri, 16 Oct 2026 22:21:05 +0000",
-     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 47 # Comments: 26",
+     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 48 # Comments: 26",
      "source": "Hacker News",
      "zh": "九寸蜗牛"
-    },
-    {
-     "title": "The Leap Second Is No More",
-     "link": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
-     "pubDate": "Fri, 16 Oct 2026 21:31:35 +0000",
-     "summary": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.",
-     "source": "WIRED",
-     "zh": "闰秒已不复存在"
-    },
-    {
-     "title": "OpenAI models hacked a crypto wallet and breached more websites",
-     "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-     "pubDate": "Fri, 16 Oct 2026 20:59:01 +0000",
-     "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-     "source": "Ars Technica",
-     "zh": "OpenAI 模型攻击了一个加密钱包并入侵了更多网站"
-    },
-    {
-     "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-     "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-     "pubDate": "Fri, 16 Oct 2026 20:20:07 +0000",
-     "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-     "source": "Ars Technica",
-     "zh": "警方称，制作 AI CSAM 的“thegentlemanpervert”是新泽西州检察官"
-    },
-    {
-     "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-     "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-     "pubDate": "Fri, 16 Oct 2026 20:05:08 +0000",
-     "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-     "source": "WIRED",
-     "zh": "凯蒂·扎卡里亚 (Katie Zacharia) 与一家人工智能稀土初创公司有联系。这比听起来更奇怪"
-    },
-    {
-     "title": "FLUX 3 Image Klein",
-     "link": "https://bfl.ai/blog/flux-3-image-klein",
-     "pubDate": "Fri, 16 Oct 2026 19:47:13 +0000",
-     "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 147 # Comments: 40",
-     "source": "Hacker News",
-     "zh": "FLUX 3 图像克莱因"
-    },
-    {
-     "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-     "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-     "pubDate": "Fri, 16 Oct 2026 19:41:18 +0000",
-     "summary": "There are still significant hurdles ahead, both technical and legislative.",
-     "source": "Ars Technica",
-     "zh": "美国众议员提出法案，给予视频游戏买家“所有权”，而不是“许可”"
-    },
-    {
-     "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-     "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-     "pubDate": "Fri, 16 Oct 2026 19:11:50 +0000",
-     "summary": "The bug is fixed, but privacy concerns remain.",
-     "source": "Ars Technica",
-     "zh": "Bug 将雷朋 Meta 智能眼镜最大的担忧之一变成了现实"
     }
    ]
   },

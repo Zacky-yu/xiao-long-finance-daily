@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/18 05:39:29",
+ "generated_at": "2026/10/18 05:50:30",
  "recent_days": 7,
  "industries": [
   {
@@ -1781,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
      "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
      "pubDate": "Sat, 17 Oct 2026 20:07:33 +0000",
-     "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 33 # Comments: 23",
+     "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 39 # Comments: 28",
      "source": "Hacker News",
      "zh": "Chrome and Edge are removing XSLT: what breaks and what does not"
     },
@@ -1813,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
      "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
      "pubDate": "Sat, 17 Oct 2026 18:45:07 +0000",
-     "summary": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 27 # Comments: 20",
+     "summary": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 30 # Comments: 24",
      "source": "Hacker News",
      "zh": "Microsoft and CMU Team Up to Train Early Career Software Engineers"
     },
@@ -1821,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Pattern Matching Beats Narrative Reasoning",
      "link": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
      "pubDate": "Sat, 17 Oct 2026 18:34:13 +0000",
-     "summary": "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative Comments URL: https://news.ycombinator.com/item?id=50133736 Points: 24 # Comments: 10",
+     "summary": "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative Comments URL: https://news.ycombinator.com/item?id=50133736 Points: 27 # Comments: 13",
      "source": "Hacker News",
      "zh": "Pattern Matching Beats Narrative Reasoning"
     },
@@ -1829,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "OpenCode Hacked: User credentials leaked",
      "link": "https://twitter.com/opencode/status/2111516673953935833",
      "pubDate": "Sat, 17 Oct 2026 18:01:41 +0000",
-     "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 468 # Comments: 81",
+     "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 500 # Comments: 88",
      "source": "Hacker News",
      "zh": "OpenCode Hacked: User credentials leaked"
     },
@@ -1837,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Codex is EATING my Mac's disk space",
      "link": "https://github.com/openai/codex/issues/25921",
      "pubDate": "Sat, 17 Oct 2026 17:45:08 +0000",
-     "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 17 # Comments: 4",
+     "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 23 # Comments: 7",
      "source": "Hacker News",
      "zh": "Codex is EATING my Mac's disk space"
     },
@@ -1845,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "I Became a Citizen of Japan",
      "link": "https://www.derekwessman.com/blog-1/natural",
      "pubDate": "Sat, 17 Oct 2026 17:36:17 +0000",
-     "summary": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 81 # Comments: 23",
+     "summary": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 84 # Comments: 25",
      "source": "Hacker News",
      "zh": "I Became a Citizen of Japan"
     },

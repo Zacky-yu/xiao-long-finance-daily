@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 11:12:13",
+ "generated_at": "2026/10/17 11:31:49",
  "recent_days": 7,
  "industries": [
   {
@@ -106,6 +106,14 @@ window.INDUSTRY_DATA = {
      "zh": "2.99万元起！端侧跑超千亿大模型，联想YOGA Pro 15 RTX Spark发售"
     },
     {
+     "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+     "link": "https://www.qbitai.com/2026/10/503880.html",
+     "pubDate": "Fri, 16 Oct 2026 12:54:54 +0000",
+     "summary": "从搭载物理建模能力的世界模型切入",
+     "source": "量子位",
+     "zh": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型"
+    },
+    {
      "title": "5 Best Resources to Learn About World Models in 2026",
      "link": "https://www.kdnuggets.com/5-best-resources-to-learn-about-world-models-in-2026",
      "pubDate": "Fri, 16 Oct 2026 12:00:00 +0000",
@@ -114,12 +122,52 @@ window.INDUSTRY_DATA = {
      "zh": "5 Best Resources to Learn About World Models in 2026"
     },
     {
+     "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+     "link": "https://www.qbitai.com/2026/10/503865.html",
+     "pubDate": "Fri, 16 Oct 2026 08:12:01 +0000",
+     "summary": "VLA解决“能干”，世界模型解决“想清楚再干”",
+     "source": "量子位",
+     "zh": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？"
+    },
+    {
+     "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+     "link": "https://www.qbitai.com/2026/10/503861.html",
+     "pubDate": "Fri, 16 Oct 2026 08:07:33 +0000",
+     "summary": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
+     "source": "量子位",
+     "zh": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历"
+    },
+    {
+     "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+     "link": "https://www.qbitai.com/2026/10/503843.html",
+     "pubDate": "Fri, 16 Oct 2026 08:00:31 +0000",
+     "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+     "source": "量子位",
+     "zh": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力"
+    },
+    {
      "title": "《时代》2026最佳发明揭晓：宇树领衔，联想荣耀TCL蚂蚁上榜，AI无处不在",
      "link": "https://zhidx.com/p/601707.html",
      "pubDate": "Fri, 16 Oct 2026 15:44:22 +0800",
      "summary": "智东西 编译 | 栗子 编辑 | 云鹏 智东西10月16日消息，《时代》周刊2026年度“最佳发明”榜单正式公布，共收录300项正式发明和100项特别提名。今年中国产品上榜数量明显增多，覆盖消费电子、机器人、健康AI和AI支付等多个赛道。 荣耀Robot Phone是2026年度唯一上榜的中国手机品牌；宇树科技GD01载人机甲与创始人王兴兴共同登上《时代》封面；蚂蚁阿福是今年唯一上榜的中国AI应用；支付宝AI支付是全球唯一上榜的支付服务；联想ThinkPad P1 Gen 9、TCL X11L、极壳Hypershell X Ultra S外骨骼也同步入选 与往年相比，今年榜单释放出两个清晰信号",
      "source": "智东西",
      "zh": "《时代》2026最佳发明揭晓：宇树领衔，联想荣耀TCL蚂蚁上榜，AI无处不在"
+    },
+    {
+     "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
+     "link": "https://www.qbitai.com/2026/10/503829.html",
+     "pubDate": "Fri, 16 Oct 2026 07:16:11 +0000",
+     "summary": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
+     "source": "量子位",
+     "zh": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”"
+    },
+    {
+     "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+     "link": "https://www.qbitai.com/2026/10/503815.html",
+     "pubDate": "Fri, 16 Oct 2026 07:01:31 +0000",
+     "summary": "经验没有压缩算法",
+     "source": "量子位",
+     "zh": "68岁亚马逊CTO：别让恐惧，替企业做AI决策"
     },
     {
      "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
@@ -200,54 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "突破大模型推理的数据并行负载均衡瓶颈",
      "source": "机器之心",
      "zh": "卡加了，吞吐为何没跟上？大模型推理中的等待，有了新解法"
-    },
-    {
-     "title": "算力、算法、数据之外：这家南大系公司，押注智能增长的第四要素",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063125&idx=2&sn=4de0bf62f1f1a4e67105ef9d663dced8",
-     "pubDate": "Fri, 16 Oct 2026 11:23:00 +0800",
-     "summary": "模型群体智能（Collective Model Intelligence）。",
-     "source": "机器之心",
-     "zh": "算力、算法、数据之外：这家南大系公司，押注智能增长的第四要素"
-    },
-    {
-     "title": "Agent推理快10倍是怎么做到的？苹果×CMU：把「生成」改成「做选择题」",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063125&idx=3&sn=ea4caa15e65862454b786586bfcce177",
-     "pubDate": "Fri, 16 Oct 2026 11:23:00 +0800",
-     "summary": "多模态搜索每轮推理延迟降低超过 90%。",
-     "source": "机器之心",
-     "zh": "Agent推理快10倍是怎么做到的？苹果×CMU：把「生成」改成「做选择题」"
-    },
-    {
-     "title": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context",
-     "link": "https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/",
-     "pubDate": "Fri, 16 Oct 2026 02:26:04 +0000",
-     "summary": "Meta released Muse Spark Open, an 816B-parameter open-weight MoE model with 42B active parameters and a 1M-token context. It leads open models on MCP-Atlas and runs on 2 M5 Ultra Mac Studios. The post Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context appeared first on MarkTechPost ",
-     "source": "MarkTechPost",
-     "zh": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context"
-    },
-    {
-     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-     "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-     "pubDate": "Fri, 16 Oct 2026 01:44:47 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
-    },
-    {
-     "title": "刚刚，美国最强开源模型发布！放中国只能排第七？",
-     "link": "https://zhidx.com/p/601572.html",
-     "pubDate": "Fri, 16 Oct 2026 08:47:24 +0800",
-     "summary": "智东西 编译 | 杨京丽 编辑 | 李水青 智东西10月16日消息，今天凌晨，Meta发布 开放权重模型Muse Spark Open ，总参数量达 8160亿 ，每次推理激活 420亿 参数，支持 100万Token上下文 窗口。该模型原生支持 多模态 ，主攻 编程和Agent任务 ，重点面向需要长时间执行的任务、复杂软件工程和多步推理。 Meta称，这是 迄今能力最强的美国开放权重模型 。借助最新版MLX框架，Muse Spark Open可在两台搭载苹果M5 Ultra芯片的Mac Studio上运行，将大模型编程、视频处理等Agent工作流搬到桌面端。 Meta创始人马克·扎克伯格也在",
-     "source": "智东西",
-     "zh": "刚刚，美国最强开源模型发布！放中国只能排第七？"
-    },
-    {
-     "title": "刚刚，Meta亮出美国最强开源权重模型！两台Mac Studio就能跑",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652734966&idx=1&sn=7da5a52316f87ade3fa36743932f5c91",
-     "pubDate": "Fri, 16 Oct 2026 08:14:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "刚刚，Meta亮出美国最强开源权重模型！两台Mac Studio就能跑"
     }
    ]
   },
@@ -1762,6 +1762,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Win11 用户还能再用 3 年：微软老牌虚拟化组件 App-V Server 扩展支持至 2029 年",
+     "link": "https://www.ithome.com/1/014/258.htm",
+     "pubDate": "Sat, 17 Oct 2026 03:19:36 GMT",
+     "summary": "IT之家 10 月 17 日消息，科技媒体 NeoWin 昨日（10 月 16 日）发布博文， 报道称微软扩展支持 App-V Server（微软应用虚拟化服务器），支持期限延长至 2029 年 10 月 9 日。 IT之家注：App-V 是微软于 2008 年通过 Microsoft Desktop Optimization Pack（MDOP）推出的应用虚拟化技术，其前身来自微软收购的 Softricity 公司及其 SoftGrid 产品。 功能方面，App-V Server 主要将 Win32 应用以“流式”方式集中分发到用户设备，无需在每台电脑上完成完整本地安装；企业曾广泛用它来简化",
+     "source": "IT之家",
+     "zh": "Win11 用户还能再用 3 年：微软老牌虚拟化组件 App-V Server 扩展支持至 2029 年"
+    },
+    {
+     "title": "R 星技术总监菲尔 · 胡克：《GTA 6》的开发工作会持续到最后一刻",
+     "link": "https://www.ithome.com/1/014/256.htm",
+     "pubDate": "Sat, 17 Oct 2026 03:10:25 GMT",
+     "summary": "IT之家 10 月 17 日消息，距离 11 月 19 日发售仅剩一个月，备受期待的《GTA 6》仍未完成最终版本的制作，开发团队还在修复漏洞、优化游戏内容，并进行最后的调整。 《GTA 6》定于 2026 年 11 月 19 日发售，11 月 12 日开放预下载。Xbox Series X|S、PlayStation 5 和 PlayStation 5 Pro 版本预计将在 11 月 12 日前后通过微软和索尼的平台认证。 彭博社记者杰森 · 施莱尔采访了 R 星多名高管，了解《GTA 6》的开发过程。他在深度报道中援引 R 星技术总监菲尔 · 胡克的说法称，游戏开发工作会 持续到最后一刻 ",
+     "source": "IT之家",
+     "zh": "R 星技术总监菲尔 · 胡克：《GTA 6》的开发工作会持续到最后一刻"
+    },
+    {
+     "title": "长安汽车新任董事长赵非称国内车市下滑严重：但海外还有机会，要全力以赴聚焦海外发展",
+     "link": "https://www.ithome.com/1/014/255.htm",
+     "pubDate": "Sat, 17 Oct 2026 03:09:19 GMT",
+     "summary": "IT之家 10 月 17 日消息，据第一财经报道，长安汽车新任董事长赵非在 16 日举行的一场媒体沟通会上表示，“国内的这种竞争态势，有时候其实已经进入到一个马太效应、洗牌的这么一个阶段。可能某些友商就会有一些非理性的行为，到了最后这个阶段，它的产品、定价，对这个市场的规则、正常的一个可持续发展（来说）可能就会有偏颇了。” 赵非谈到， 国内车市下滑严重，但海外还有机会，长安要全力以赴聚焦海外发展 ，长安在新能源和智能化上面，可能比国外的一些友商更强，这让长安保持住优势。 赵非表示，长安将坚持既有的战略方向和运营机制，把海外、产品、效率和品牌整合作为接下来的四个聚焦方向。四个聚焦中，海外排在首位",
+     "source": "IT之家",
+     "zh": "长安汽车新任董事长赵非称国内车市下滑严重：但海外还有机会，要全力以赴聚焦海外发展"
+    },
+    {
+     "title": "微软发布 Win11 26H1 28120.3272 预览版：新增光标指示器，修复音频组件致部分游戏 / 应用崩溃问题",
+     "link": "https://www.ithome.com/1/014/254.htm",
+     "pubDate": "Sat, 17 Oct 2026 03:07:42 GMT",
+     "summary": "IT之家 10 月 17 日消息，微软今天（10 月 17 日）发布博文，邀请 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 26H1 的新预览版 Build 28120.3272， 主要修复音频组件导致部分应用崩溃故障。 Windows 11 26H1 主要适用于高通骁龙 X2 系列 ARM 笔记本（最主要目标平台），还有 NVIDIA N1X 等新一代 SoC 芯片设备，这些设备主打长续航、低功耗、原生 NPU 算力。 IT之家附上本次更新日志内容如下： 变更与改进正在逐步推出 【搜索】 简化搜索主页界面，减少视觉干扰，方便快",
+     "source": "IT之家",
+     "zh": "微软发布 Win11 26H1 28120.3272 预览版：新增光标指示器，修复音频组件致部分游戏 / 应用崩溃问题"
+    },
+    {
+     "title": "纯血鸿蒙智行再进化？曝智界独立造车资质备案中，通过后新车尾标将变更为“智界汽车”",
+     "link": "https://www.ithome.com/1/014/253.htm",
+     "pubDate": "Sat, 17 Oct 2026 03:01:09 GMT",
+     "summary": "IT之家 10 月 17 日消息，工信部昨晚发布了《道路机动车辆生产企业及产品公告》（第 412 批）拟发布的新准入车辆生产企业及已准入企业变更信息清单，安徽智界新能源汽车有限公司在列。 据博主 @未来的学习笔记 解读，智界的独立造车资质已经在备案中了，通过之后， 新车尾标就会变成“智界汽车” 。作为参考，现阶段智界汽车的尾标为“奇瑞汽车”。 据IT之家此前报道，去年 7 月，智界产品总监 @智界海蓝天 发文，提出了“纯血鸿蒙智行”概念。该产品总监表示，2025 年发布的全新智界 R7 / S7 是智界品牌战略 2.0 首发之作、100% 纯血鸿蒙智行， 由华为全栈技术深度赋能 。 另外，奇瑞",
+     "source": "IT之家",
+     "zh": "纯血鸿蒙智行再进化？曝智界独立造车资质备案中，通过后新车尾标将变更为“智界汽车”"
+    },
+    {
+     "title": "工信部副部长熊继军：上半年储能电池产量超 420GWh，坚决防范“内卷式”竞争",
+     "link": "https://www.ithome.com/1/014/252.htm",
+     "pubDate": "Sat, 17 Oct 2026 02:57:15 GMT",
+     "summary": "IT之家 10 月 17 日消息，10 月 15 日，2026 世界储能大会在福建宁德开幕。世界储能大会已在宁德举办三届，累计吸引 50 余个国家和地区的政府部门、知名专家、企业高管及行业机构等代表参会。 据中证金牛座报道，工业和信息化部副部长熊继军在致辞中表示，我国新型储能产业发展成效显著，下一步将统筹发展与安全，强化技术创新，坚持需求牵引，共建全球生态， 坚决防范“内卷式”竞争 ，推动行业从规模扩张向创新引领转变。 据介绍，从产业规模看， 2026 年上半年储能电池产量超过 420 吉瓦时（GWh） ，同比增长 110%；截至 2026 年 6 月底，新型储能累计装机超过 1.53 亿千瓦",
+     "source": "IT之家",
+     "zh": "工信部副部长熊继军：上半年储能电池产量超 420GWh，坚决防范“内卷式”竞争"
+    },
+    {
      "title": "为了查“公园哪个门人最多”，一批腾讯AI智能体，在高德上折腾了11天",
      "link": "https://www.tmtpost.com/8171881.html",
      "pubDate": "Sat, 17 Oct 2026 10:42:00 +0800",
@@ -1837,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Butlerian Jihad",
      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
      "pubDate": "Sat, 17 Oct 2026 02:21:08 +0000",
-     "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 59 # Comments: 24",
+     "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 78 # Comments: 32",
      "source": "Hacker News",
      "zh": "Butlerian Jihad"
     },
@@ -1933,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Nine-Inch Snails",
      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
      "pubDate": "Fri, 16 Oct 2026 22:21:05 +0000",
-     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 35 # Comments: 15",
+     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 36 # Comments: 16",
      "source": "Hacker News",
      "zh": "Nine-Inch Snails"
     },
@@ -1949,57 +1997,9 @@ window.INDUSTRY_DATA = {
      "title": "Why harnesses matter for energy (and token) efficiency",
      "link": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
      "pubDate": "Fri, 16 Oct 2026 21:01:23 +0000",
-     "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 46 # Comments: 23",
+     "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 48 # Comments: 23",
      "source": "Hacker News",
      "zh": "Why harnesses matter for energy (and token) efficiency"
-    },
-    {
-     "title": "OpenAI models hacked a crypto wallet and breached more websites",
-     "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-     "pubDate": "Fri, 16 Oct 2026 20:59:01 +0000",
-     "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-     "source": "Ars Technica",
-     "zh": "OpenAI models hacked a crypto wallet and breached more websites"
-    },
-    {
-     "title": "I never authorized an integration that scans my secrets",
-     "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-     "pubDate": "Fri, 16 Oct 2026 20:33:41 +0000",
-     "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 202 # Comments: 155",
-     "source": "Hacker News",
-     "zh": "I never authorized an integration that scans my secrets"
-    },
-    {
-     "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-     "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-     "pubDate": "Fri, 16 Oct 2026 20:20:07 +0000",
-     "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-     "source": "Ars Technica",
-     "zh": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops"
-    },
-    {
-     "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-     "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-     "pubDate": "Fri, 16 Oct 2026 20:05:08 +0000",
-     "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-     "source": "WIRED",
-     "zh": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds"
-    },
-    {
-     "title": "FLUX 3 Image Klein",
-     "link": "https://bfl.ai/blog/flux-3-image-klein",
-     "pubDate": "Fri, 16 Oct 2026 19:47:13 +0000",
-     "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 122 # Comments: 35",
-     "source": "Hacker News",
-     "zh": "FLUX 3 Image Klein"
-    },
-    {
-     "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-     "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-     "pubDate": "Fri, 16 Oct 2026 19:41:18 +0000",
-     "summary": "There are still significant hurdles ahead, both technical and legislative.",
-     "source": "Ars Technica",
-     "zh": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\""
     }
    ]
   },
@@ -2258,60 +2258,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "国家数据集团或将于近日挂牌成立",
+     "link": "http://finance.eastmoney.com/news/1345,202610173899024316.html",
+     "pubDate": "Sat, 17 Oct 2026 11:23:24 +0800",
+     "summary": "10月17日，中国证券报记者独家获悉，国家数据集团或将于近日挂牌成立。 （文章来源：中国证券报）",
+     "source": "东方财富资讯",
+     "zh": "国家数据集团或将于近日挂牌成立"
+    },
+    {
+     "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
+     "link": "https://wallstreetcn.com/articles/3783831",
+     "pubDate": "Sat, 17 Oct 2026 11:22:17 +0800",
+     "summary": "Anthropic正悄然推动一项由其主导起草的AI安全法案，试图为联邦政府干预前沿AI模型设定极高门槛，同时将监管权力严格限定于商务部和联邦法院。 据路透社17日援引Politico报道，Anthropic代表已私下向国会议员游说这份草案法规。 根据法案内容，政府只有在AI模型面临可预见的、迫在眉睫的风险——即可能造成超过10亿美元损失，或导致50人以上死亡或重伤时，方可介入阻止模型发布或使用。 这一高门槛意味着，绝大多数情形下AI模型的开发与部署将不受政府干预。 Anthropic发言人向路透社表示，该法案所体现的提案内容，源自Anthropic今年早些时候发布的\"先进AI框架\"（Advan",
+     "source": "华尔街见闻",
+     "zh": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？"
+    },
+    {
+     "title": "【新华财经调查】巴西工时修正案历时七年落地 淡水河谷对华供应或受影响",
+     "link": "http://stock.eastmoney.com/news/11219,202610173899023742.html",
+     "pubDate": "Sat, 17 Oct 2026 11:17:08 +0800",
+     "summary": "巴西参议院16日正式颁布缩短工时的第141号宪法修正案，将在不降低工资的前提下，把每周最高工时从44小时逐步降至40小时，并保障劳动者每周两天带薪休息。这项源于2019年12月的修宪改革，历经近七年周折终完成立法程序，将推动企业调整用工、生产和供应链安排。 巴西全国工业联合会（CNI）今年发布的工业工时调查中，85%的受访企业预计雇员成本增加，82%预计供应商成本上升，70%担忧竞争力下降。若通过新增招聘或支付加班费补足减少的劳动时间，经济整体正式雇员成本每年可能增加1782亿（约合350亿美元）至2672亿雷亚尔（约合534亿美元）。 巴西矿业协会（IBRAM）2025年2月举办工时专题讨论",
+     "source": "东方财富股票",
+     "zh": "【新华财经调查】巴西工时修正案历时七年落地 淡水河谷对华供应或受影响"
+    },
+    {
+     "title": "合计持仓超2000万股！社保基金新进这4家公司流通股名单前十！",
+     "link": "http://finance.eastmoney.com/news/1354,202610173899021289.html",
+     "pubDate": "Sat, 17 Oct 2026 11:16:21 +0800",
+     "summary": "作为资本市场典型的“耐心资本”，全国社保基金投资动向备受市场关注。随着A股上市公司2026年三季报披露，以及近期多家公司密集披露股份回购公告（附带最新前十大流通股股东名单），全国社保基金的最新持仓动向逐渐浮出水面。 据万得数据统计，截至10月16日，三季度以来，全国社保基金新进4家上市公司前十大流通股股东名单，增持5家公司股份。这些公司多分布在 电子 、 电力 设备行业。 苏商 银行 特约研究员武泽伟对《证券日报》记者表示，三季度以来，全国社保基金调仓呈现“加仓高景气赛道、逢低布局优质标的、动态调仓”的特点，聚焦新质生产力赛道，筛选具备稳定现金流、技术壁垒的企业。 电子 、 电力 设备受青睐 ",
+     "source": "东方财富股票",
+     "zh": "合计持仓超2000万股！社保基金新进这4家公司流通股名单前十！"
+    },
+    {
+     "title": "英伟达市值9天蒸发4万亿元，黄仁勋乐观回应",
+     "link": "http://finance.eastmoney.com/news/1354,202610173899023664.html",
+     "pubDate": "Sat, 17 Oct 2026 11:14:29 +0800",
+     "summary": "北京时间10月17日，彭博社报道称，对于 人工智能 股票最近一轮暴跌， 英伟达 公司首席执行官黄仁勋表现出乐观态度，称“AI技术带来的好处很快就会化解投资者的担忧。” 黄仁勋在柏林举行的一场活动期间对彭博社表示：“这一切都会过去，原因非常简单。 人工智能 将带来变革。它将以非常积极的方式影响每一个行业和每一个国家。毫无疑问，这种影响将会持续下去，而我们正处于这个进程的开端。” 报道提到，黄仁勋发表上述言论之际，芯片制造商和 人工智能 基础设施公司的股价刚刚经历了动荡的一周。备受关注的费城 半导体 指数连续八个交易日下跌，创下2008年以来最长连跌。与此同时， 英伟达 股价过去八个交易日中有七天",
+     "source": "东方财富股票",
+     "zh": "英伟达市值9天蒸发4万亿元，黄仁勋乐观回应"
+    },
+    {
+     "title": "秘鲁总统呼吁为应对超强厄尔尼诺做好准备",
+     "link": "http://finance.eastmoney.com/news/1351,202610173899022583.html",
+     "pubDate": "Sat, 17 Oct 2026 11:12:10 +0800",
+     "summary": "秘鲁总统藤森庆子16日呼吁民众做好准备，应对秘鲁数十年来“前所未见”的厄尔尼诺事件。 藤森庆子当天在秘鲁北部皮乌拉省视察防灾工作。她说：“各项指标和统计数据表明，秘鲁将迎来一次超强厄尔尼诺事件，这是数十年来前所未见的。” 她呼吁民众积极配合防灾工作，表示民众可以通过提前加固房屋、避免向河道倾倒垃圾以及了解疏散路线等方式做好预防工作。她同时强调只有通过团结协作，才能有效应对这场危机。 此前，藤森庆子15日宣布，将在全国易受灾地区开展一系列预防行动，以降低灾害风险，并优先处理500多个高度威胁民众安全的关键风险点。 为确保应急工作顺利开展，秘鲁政府已批准22项最高法令和紧急法令，拨款约20亿索尔（",
+     "source": "东方财富股票",
+     "zh": "秘鲁总统呼吁为应对超强厄尔尼诺做好准备"
+    },
+    {
+     "title": "近30亿“囤芯”背后：弘信电子的算力野心与隐忧",
+     "link": "http://stock.eastmoney.com/news/11215,202610173899023890.html",
+     "pubDate": "Sat, 17 Oct 2026 11:10:28 +0800",
+     "summary": "界面新闻记者 | 郭净净 弘信电子 （300657.SZ）10月12日宣布，旗下全资子公司北京安联通科技有限公司（简称“安联通”）分别和两家未具名供应商A、B签约，合计以含税29.83亿元采购高性能服务器算力芯片，这一规模相当于公司2026年上半年总营收33.76亿元的88.36%。 这是 弘信电子 自2023年从FPC柔性电路板（ PCB ）赛道跨界算力以来最大规模的资源锁定动作。“算力业务属于公司持续加大投入的方向。” 弘信电子 相关人士告诉界面新闻，公司算力业务目前还可以，整体市场情况蛮好。 押注算力 弘信 电子 2003年成立，2017年上市，原主业FPC柔性电路板业务属于典型的“薄利",
+     "source": "东方财富股票",
+     "zh": "近30亿“囤芯”背后：弘信电子的算力野心与隐忧"
+    },
+    {
+     "title": "人民日报评“纸尿裤风波”：网络测评不可儿戏，部分自媒体测评简化实验逻辑，隐去检测方法缺陷，将公众焦虑变成变现工具",
+     "link": "http://fund.eastmoney.com/news/11383,202610173899022441.html",
+     "pubDate": "Sat, 17 Oct 2026 11:06:21 +0800",
+     "summary": "17日，人民日报发布评论《人民锐评：纸尿裤风波落地，照见维护公众安全感的启示》。 10月15日，市场监管总局等四部门联合调查组发布通报。无论是对国内全部168家婴幼儿纸尿裤生产企业的全面抽检，还是对涉事博主检测剩余样品、封存的血液样本的复检，均未检出甲酰胺。 国家的权威调查，让无数家庭可以安心使用纸尿裤，延宕数月的舆论风波也尘埃落定。这份通报的分量，远不止于结论本身，也为维护公众安全感带来诸多深刻启示。 涉及到健康和安全，天然牵动着最敏感的神经，公众的焦虑必须高度重视。问题越是切肤相关，相关政府部门越要及时回应关切、跟进解决问题，这是社会治理能力走向成熟的表现。 近四个月里，四部门坚持实事求是",
+     "source": "东方财富股票",
+     "zh": "人民日报评“纸尿裤风波”：网络测评不可儿戏，部分自媒体测评简化实验逻辑，隐去检测方法缺陷，将公众焦虑变成变现工具"
+    },
+    {
+     "title": "垂域智能爆发 山东做对了什么 | 经观社论",
+     "link": "http://www.eeo.com.cn/2026/1017/1067731.shtml",
+     "pubDate": "Sat, 17 Oct 2026 11:05:00 +0800",
+     "summary": "“齐鲁七星”不是追风口的结果，通用大模型竞赛的时候，山东也没有急迫地加入战团。从一开始，“齐鲁七星”就扎入了真实的产业场景，是奔着解决现实问题去的。",
+     "source": "经济观察网",
+     "zh": "垂域智能爆发 山东做对了什么 | 经观社论"
+    },
+    {
      "title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
      "link": "https://wallstreetcn.com/articles/3783830",
      "pubDate": "Sat, 17 Oct 2026 10:58:22 +0800",
      "summary": "黄金自1月高点回落逾四分之一，白银跌幅超过一半，表面上看，这不过是一场过热行情的自然冷却。但价格下跌的背后，实物市场的结构性失衡不仅未曾修复，反而持续恶化—— 央行在金价下跌14%的季度里创纪录地增持，白银连续六年录得供应赤字且缺口进一步扩大。 价格与实物供需之间的裂缝，正在变得越来越难以忽视。 黄金于2026年1月触及每盎司5608美元（现货价）的历史峰值后掉头下行，至10月中旬已跌至约4112美元，较峰值下跌约27%。白银在1月29日短暂触及121.62美元后，随即腰斩，目前在56美元附近交投。与此同时，据世界黄金协会数据，2026年二季度全球央行购金量达288.9吨，创有记录以来同期最高",
      "source": "华尔街见闻",
      "zh": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？"
-    },
-    {
-     "title": "记者观察|恒瑞医药强在哪儿？",
-     "link": "http://stock.eastmoney.com/news/11215,202610173899021192.html",
-     "pubDate": "Sat, 17 Oct 2026 10:57:40 +0800",
-     "summary": "一款潜在“大药”能撑起一家公司的市值，也能压垮一家公司的股价。市场最近又重复上演了这个故事，也由此看清了另一条路的真正价值。 10月8日， 艾力斯 （688578.SH）股价跌停。市场真正恐惧的并不是伏美替尼这款药突然失效，而是“一颗药扛起一家公司”的脆弱结构，被全球多中心临床试验的随机性无情撕开。 伏美替尼关键性全球三期FURVENT研究的失利，本质上是一场单品生物技术（Biotech）与全球临床不确定性的正面碰撞。化疗对照组跑出了超预期的9.5个月无进展生存时间（PFS），将伏美替尼11个月的优势稀释至无统计学显著。这导致合作伙伴ArriVent美股单日暴跌近47%， 艾力斯 A股直接20",
-     "source": "东方财富股票",
-     "zh": "记者观察|恒瑞医药强在哪儿？"
-    },
-    {
-     "title": "长鑫科技前三季度净利最高可至1325亿元 第三季度净利环比增速最高至3.88%",
-     "link": "http://stock.eastmoney.com/news/11134,202610173899021091.html",
-     "pubDate": "Sat, 17 Oct 2026 10:57:39 +0800",
-     "summary": "10月16日晚间，国产存储龙头 长鑫科技 （688825.SH）公布前三季度业绩预告。该公司预计今年前三季度营收2650亿—2700亿元，同比增长726%—741.5%；净利润1310亿—1325亿元，同比扭亏为盈。 据测算，第三季度 长鑫科技 营收1146.9亿—1196.9亿元，同比增长589%—619%；净利润533.95亿—548.95亿元，同比扭亏。 从第三季度净利润环比增速来看，环比增长1.04%—3.88%。第三季度 长鑫科技 营收和净利润同比增长依然很快，但环比增速有所放缓。 此前，存储模组厂商 江波龙 （301308.SZ）预告的第三季度业绩亦出现净利润增速环比下滑。 江波龙",
-     "source": "东方财富股票",
-     "zh": "长鑫科技前三季度净利最高可至1325亿元 第三季度净利环比增速最高至3.88%"
-    },
-    {
-     "title": "万润新能入选2026中国锂电池正极材料年度竞争力品牌榜单",
-     "link": "http://stock.eastmoney.com/news/11134,202610173899020990.html",
-     "pubDate": "Sat, 17 Oct 2026 10:56:51 +0800",
-     "summary": "近日，由EVTank、伊维经济研究院、中国 电池 产业研究院、 电池 网等机构联合编制的2026年中国 锂 电池 行业正极材料年度竞争力品牌榜单正式发布。榜单显示， 万润新能 (688275)位列榜单第2名，成功入选年度竞争力品牌十强。 公开资料显示，该榜单自2014年首发，至今已连续发布13届。 万润新能 表示，本次上榜充分彰显了公司在磷酸铁 锂 正极材料赛道的行业地位。截至目前，公司在湖北、山东、安徽等地布局多个生产基地，并稳步推进海外产能布局，客户矩阵覆盖 宁德时代 、 比亚迪 等行业头部企业。 公开信息显示，在产业链布局上， 万润新能 持续推进“前驱体—正极”一体化战略，磷酸铁前驱体自",
-     "source": "东方财富股票",
-     "zh": "万润新能入选2026中国锂电池正极材料年度竞争力品牌榜单"
-    },
-    {
-     "title": "鲁班工坊系列国家标准公布",
-     "link": "http://finance.eastmoney.com/news/11790,202610173899020765.html",
-     "pubDate": "Sat, 17 Oct 2026 10:56:18 +0800",
-     "summary": "由 教育 部提出的鲁班工坊建设通用要求、工程实践创新项目教学模式实施要求、教学装备通用要求和运行质量评估指南等4项国家标准，10月17日，在2026年世界职业技术 教育 发展大会闭幕式上公布，自2027年4月1日起实施。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "鲁班工坊系列国家标准公布"
-    },
-    {
-     "title": "海康威视前三季度营收740.44亿元 经营调整成效持续释放",
-     "link": "http://stock.eastmoney.com/news/11216,202610173899020612.html",
-     "pubDate": "Sat, 17 Oct 2026 10:54:00 +0800",
-     "summary": "上证报中国证券网讯（记者杨烨） 海康威视 （002415）最新公布的三季报显示，2026年前三季度，公司实现营业收入740.44亿元，同比增长12.60%；归属于上市公司股东的净利润129.11亿元，同比增长38.55%；扣非后归母净利润126.96亿元，同比增长41.52%。 在10月17日上午召开的线上业绩说明会上，公司相关负责人介绍了近期经营情况。近年来， 海康威视 开启经营调整，经营重心从追求收入规模增长逐步转向提升经营质量。最新披露的三季报显示，这一调整的成效正在持续释放，在人效、费效等财务指标上得到充分体现。 营收、扣非净利润增速均创新高 今年第三季度， 海康威视 实现营业收入27",
-     "source": "东方财富股票",
-     "zh": "海康威视前三季度营收740.44亿元 经营调整成效持续释放"
-    },
-    {
-     "title": "吉利、奇瑞、上汽、东风等集体发声 头部车企力挺中欧汽车贸易磋商共识",
-     "link": "http://stock.eastmoney.com/news/11219,202610173899019695.html",
-     "pubDate": "Sat, 17 Oct 2026 10:51:27 +0800",
-     "summary": "头部车企进行了一场罕见的“集体表态”。据《中国经营报》记者获悉，近日，中国 汽车 工业协会、吉利控股集团、 奇瑞汽车 、 上汽集团 、东风 汽车 等多家头部车企均发布官方声明，支持中欧 汽车 贸易磋商共识。 车企密集表态的背后，是中欧双方在混动汽车、电动汽车贸易问题上历经数月磋商后，在世界贸易组织多边规则框架下达成了阶段性安排。根据商务部10月12日发布的答记者问，中欧双方本着相互尊重、平等协商的原则，就混动汽车、电动汽车贸易进行了密集磋商，平衡处理经贸分歧和彼此关切。 盘古智库高级研究员江瀚在接受《中国经营报》记者采访时表示：“这次多家头部车企集体发声，不是简单的公关表态，而是中国汽车产业在",
-     "source": "东方财富股票",
-     "zh": "吉利、奇瑞、上汽、东风等集体发声 头部车企力挺中欧汽车贸易磋商共识"
     },
     {
      "title": "Trump exempts Russia from further sanctions mandated by new law",
@@ -2362,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "学生走了老人来了：闲置校舍变养老院，要破确权难题"
     },
     {
-     "title": "记者观察：闲置校舍“活”起来，读懂这场空间变革",
-     "link": "http://www.eeo.com.cn/2026/1017/1067631.shtml",
-     "pubDate": "Sat, 17 Oct 2026 10:13:10 +0800",
-     "summary": "校门口“好好学习，天天向上”的标语换成了养老中心的牌子，教室里的课桌换成了适老化的床铺……近年来，多地农村闲置校舍变身养老院，引发热议。 但若只看到“学生走了、老人来了”，其实只读懂了这场空间变革的一半。翻开各地的实践清单便会发现，闲置校舍还变成了少年科学院、劳动实践基地、陪读公寓、菌菇大棚、直播孵化基地、乡村民宿…… 小小校舍，成为撬动乡村振兴的有力支点。 盘活闲置校舍，是教育...",
-     "source": "经济观察网",
-     "zh": "记者观察：闲置校舍“活”起来，读懂这场空间变革"
-    },
-    {
      "title": "特斯拉高管详解新Roadster：放弃四驱、专用4680电池，目标车重不到1.7吨",
      "link": "https://wallstreetcn.com/articles/3783829",
      "pubDate": "Sat, 17 Oct 2026 10:08:17 +0800",
@@ -2386,12 +2402,52 @@ window.INDUSTRY_DATA = {
      "zh": "上线了！2027见闻历超值预售99元，活动火热进行中！"
     },
     {
+     "title": "个别分析师发表片面观点！中证协点名研报乱象 杜绝博眼球行为",
+     "link": "http://stock.eastmoney.com/news/11219,202610173899012373.html",
+     "pubDate": "Sat, 17 Oct 2026 10:07:52 +0800",
+     "summary": "近日，记者获悉，中证协向券商下发了《2025年证券公司发布证券研究报告业务经营情况统计报告》（下称《报告》）。《报告》显示，去年底行业登记的分析师人数共5886人，小幅增长。98家券商去年发布了超20万份研报，其中4家券商发布研报超万份。 去年券商研究部门机构客户交易佣金158.94亿元，同比减少17.55%。其中，公募基金公司交易佣金（不包含券结模式交易佣金）占比为54.32%，同比减少23.93%。 《报告》指出了研究业务的问题，包括发布研报业务传统盈利模式难以为继。2025年全行业公募佣金分仓总收入仅为2021年的一半。部分机构过于依赖专家咨询服务，抬升了研究业务成本，压缩研究部门利润空",
+     "source": "东方财富资讯",
+     "zh": "个别分析师发表片面观点！中证协点名研报乱象 杜绝博眼球行为"
+    },
+    {
+     "title": "内幕+操纵！3名牛散 罚没近5.1亿元！",
+     "link": "http://stock.eastmoney.com/news/11215,202610173899014188.html",
+     "pubDate": "Sat, 17 Oct 2026 10:03:00 +0800",
+     "summary": "监管对内幕交易保持高压态势。 10月16日，证监会及宁夏证监局集中披露三份行政处罚决定书，涉及内幕交易、泄露内幕信息及操纵证券市场等违法行为，三名当事人合计被罚没约5.1亿元，其中两人被采取证券市场禁入措施。 陈某航内幕交易案：罚没逾1.81亿元，5年市场禁入 10月16日，证监会行政处罚决定书显示，陈某航因内幕交易、泄露内幕信息行为被立案调查。经查，2024年10月10日，相关公司发布筹划资产置换、发行股份及支付现金购买资产并募集配套资金的停牌公告，该事项属于《证券法》规定的重大事件，公开前属于内幕信息。内幕信息不晚于2024年3月22日形成，公开于2024年10月11日。陈某航为内幕信息知",
+     "source": "东方财富资讯",
+     "zh": "内幕+操纵！3名牛散 罚没近5.1亿元！"
+    },
+    {
+     "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
+     "link": "http://finance.eastmoney.com/news/1344,202610173899011625.html",
+     "pubDate": "Sat, 17 Oct 2026 10:01:07 +0800",
+     "summary": "警告AI失控风险、呼吁暂停前沿AI研发之后，Anthropic又有了新动作。 据最新报道显示， 日前Anthropic的代表私下向美国国会议员介绍了一份法案草案，该草案意在监管前沿AI安全。 这也意味着，在AI发展陷入争议的当下，这家AI巨头正在采取一系列措施，试图影响事关自家技术监管的规则制定。 Anthropic一位发言人表示，“这项法案体现了我们在《高级 人工智能 框架》中提出的建议。自今年6月以来，我们一直在推动联邦和州层面的立法者采纳这些建议。我们认为这些政策合理可行，国会应当采取行动。” 根据法案草案， 只有当某个模型存在“可预见且迫在眉睫的风险”，可能造成超过10亿美元损失，或导",
+     "source": "东方财富资讯",
+     "zh": "Anthropic秘密游说国会 推动制定前沿AI监管法案"
+    },
+    {
+     "title": "股票回购增持贷款将满两周年 上市公司回购热情不减 贷款金额与笔数缘何大幅下滑？",
+     "link": "http://stock.eastmoney.com/news/11134,202610173899007990.html",
+     "pubDate": "Sat, 17 Oct 2026 09:36:00 +0800",
+     "summary": "距离央行等三部门正式设立股票回购增持再贷款近两年，Wind数据显示（按笔数统计，未按上市公司去重），政策第二年（2025年10月18日起至2026年10月16日），A股上市公司共申请回购增持贷款366笔、金额上限约816亿元，笔数、金额较首年均大幅回落，分别下滑约51%、46%。 但“冷”的只是贷款，上市公司的回购热情并未减退。Wind数据显示，政策第二年A股上市公司的回购金额约1573.88亿元，同比增长13.8%；主要股东增持则出现收缩，金额从首年的约932.07亿元回落至约666.37亿元，同比下降28.5%。 同时，近期公告大额回购的科技龙头，回购资金多来自自有或自筹，并未动用专项贷款",
+     "source": "东方财富资讯",
+     "zh": "股票回购增持贷款将满两周年 上市公司回购热情不减 贷款金额与笔数缘何大幅下滑？"
+    },
+    {
      "title": "Trump’s press secretary Katie Zacharia fired after five days",
      "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
      "pubDate": "Sat, 17 Oct 2026 01:29:51 GMT",
      "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
      "source": "Financial Times",
      "zh": "Trump’s press secretary Katie Zacharia fired after five days"
+    },
+    {
+     "title": "两部门联合发文 推动“电影+体育”跨界合作",
+     "link": "http://finance.eastmoney.com/news/1373,202610173899009231.html",
+     "pubDate": "Sat, 17 Oct 2026 09:23:14 +0800",
+     "summary": "近日，国家电影局、体育总局联合印发 《关于开展“跟着电影去运动”行动推动电影与体育双向赋能的通知》 。 《通知》立足电影、体育各自产业特点、行业优势， 从文化宣传、消费联动、公益协同等方面推动“电影+体育”跨界合作 ，激发广大人民群众参与电影欣赏、体育运动的热情。 主要内容包括： 一是深化电影文化与体育文化宣传合作。鼓励开展体育题材电影创作，鼓励专业电影媒体、体育媒体加强交流合作，引导人民群众提高电影欣赏水平、广泛参与体育运动。鼓励开展体育题材电影展映、影片宣传等活动。鼓励电影院加强体育文化宣传。 二是促进电影消费与体育消费有机联动。支持电影院、体育场馆、体育赛事举办方、互联网平台企业、商业 ",
+     "source": "东方财富资讯",
+     "zh": "两部门联合发文 推动“电影+体育”跨界合作"
     },
     {
      "title": "华尔街开出中期选举价码：民主党因子暴涨20%，大盘却深陷“盲区”",
@@ -2408,14 +2464,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI基础设施融资风险与能源价格骤升同步爆发，令华尔街本周承受双重冲击。 纳斯达克100指数本周累跌5.5%，创下2025年4月关税动荡以来最大单周跌幅；半导体板块八连跌，为2008年以来最长连跌纪录，区间跌幅约16%。云计算服务商CoreWeave成为市场焦点——其部分债券收益率周四一度突破15%，信用风险攀升至通常预示财务困境的水平，股价周五单日再跌12%，较年内高点累计腰斩逾50%。 与此同时，布伦特原油收于每桶约110美元附近，WTI原油单日涨幅达3.8%，油价骤升加剧通胀顾虑，推动10年期美债收益率升至5.097%，令债市的避险逻辑受到侵蚀。 本周市场的核心转变在于： AI交易的主要矛",
      "source": "华尔街见闻",
      "zh": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火"
-    },
-    {
-     "title": "卢比单周涨2%创七个月最大，贸易逆差却扩大至302亿美元，印度央行护盘资金已动用约一半",
-     "link": "https://wallstreetcn.com/articles/3783824",
-     "pubDate": "Sat, 17 Oct 2026 08:29:45 +0800",
-     "summary": "印度卢比录得七个月最大单周涨幅，政策干预提振但持续性存疑。 本周，卢比累计上涨约2%，周五收盘报84.96兑1美元。此前卢比一度逼近历史低点，RBI随后出手，通过将石油美元需求引导至场外、大幅收紧购汇限额等措施推动汇率企稳。 然而，上述政策的副作用也随之显现。 华尔街见闻提及 ，对冲成本飙升至十年高位，债券收益率攀升至三年多来最高水平，外汇市场流动性加速萎缩。 市场人士对频繁调整外汇规则的做法表达担忧，认为此举可能削弱政策可预期性。分析人士指出，卢比能否持续反弹，关键在于深层经济压力能否得到有效缓解。 管制措施扰动对冲市场 华尔街见闻提及 ，印度央行于上周六宣布的一项关键措施规定，银行须为超过",
-     "source": "华尔街见闻",
-     "zh": "卢比单周涨2%创七个月最大，贸易逆差却扩大至302亿美元，印度央行护盘资金已动用约一半"
     },
     {
      "title": "Brent crude hits $110 for first time since May; U.S. WTI tops $100",
@@ -2448,54 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
      "source": "CNBC",
      "zh": "Apple’s $1,999 iPhone Duo puts the company&apos;s status-symbol power to the test"
-    },
-    {
-     "title": "Exxon sees higher refining margins adding $4.5B to Q3 earnings",
-     "link": "https://seekingalpha.com/news/4654023-exxon-sees-higher-refining-margins-adding-45b-to-q3-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 18:14:07 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Exxon sees higher refining margins adding $4.5B to Q3 earnings"
-    },
-    {
-     "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
-     "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 21:59:00 GMT",
-     "summary": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
-     "source": "MarketWatch",
-     "zh": "Nowhere to hide: Tech selloff hits software and chip stocks alike"
-    },
-    {
-     "title": "BlackRock's Hambro slams mining firms' 'reckless' share buybacks, urges mine investment",
-     "link": "https://seekingalpha.com/news/4654015-blackrocks-hambro-slams-mining-firms-reckless-share-buybacks-urges-mine-investment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 17:45:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BlackRock's Hambro slams mining firms' 'reckless' share buybacks, urges mine investment"
-    },
-    {
-     "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
-     "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 21:43:00 GMT",
-     "summary": "Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”",
-     "source": "MarketWatch",
-     "zh": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash"
-    },
-    {
-     "title": "Okta slumps 10% as recent profit-taking continues",
-     "link": "https://seekingalpha.com/news/4654020-okta-slumps-10-as-recent-profit-taking-continues?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 17:39:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Okta slumps 10% as recent profit-taking continues"
-    },
-    {
-     "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-     "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 21:35:00 GMT",
-     "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock.",
-     "source": "MarketWatch",
-     "zh": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension."
     }
    ]
   },

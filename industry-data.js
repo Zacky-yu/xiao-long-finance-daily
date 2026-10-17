@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 08:49:48",
+ "generated_at": "2026/10/17 09:09:42",
  "recent_days": 7,
  "industries": [
   {
@@ -1762,6 +1762,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "AOC 推出 1800R 曲面 QD-OLED 显示器 CU34G4ZD：34\" WQHD 280Hz",
+     "link": "https://www.ithome.com/1/014/223.htm",
+     "pubDate": "Sat, 17 Oct 2026 01:07:30 GMT",
+     "summary": "IT之家 10 月 17 日消息，AOC 昨日推出了 CU34G4ZD 显示器。这一型号基于 1800R 曲面 34\" QD-OLED Penta Tandem 面板， 采用 RGB V-Stripe 子像素排列 ，覆盖 Black AGLR 镀膜。 CU34G4ZD 分辨率 WQHD (3440×1440)，刷新率 280Hz； 获得 VESA DisplayHDR True Black 500 认证 ，SDR 亮度 300nits、HDR 峰值亮度 1300nits；色域 100% sRGB / 99% DCI-P3 / 97% Adobe RGB，色偏（平均值）ΔE＜2；支持硬件低蓝光。",
+     "source": "IT之家",
+     "zh": "AOC 推出 1800R 曲面 QD-OLED 显示器 CU34G4ZD：34\" WQHD 280Hz"
+    },
+    {
+     "title": "Linux 内核爆出 9.3 分超高危漏洞，可“越狱”虚拟机攻击宿主机",
+     "link": "https://www.ithome.com/1/014/222.htm",
+     "pubDate": "Sat, 17 Oct 2026 01:02:30 GMT",
+     "summary": "IT之家 10 月 17 日消息，Debian 在最新安全公告中，披露存在于 Linux 内核的“关键”（Critical）漏洞， CVSS 3.1 评分高达 9.3 分，攻击者可利用 IPv4 校验和元数据校验缺陷，从虚拟机客户机突破隔离边界，影响宿主机。 根源方面，该漏洞追踪编号为 CVE-2026-99999，问题源于 Linux 网络栈对延迟校验和处理不当：当带有异常 checksum_start 元数据的数据包进入 IPv4 处理流程后，skb_checksum_help () 可能在内核已经解析并信任 IPv4 头之后，改写其中的关键字段。 研究人员称，攻击者可借此使内核将原本 2",
+     "source": "IT之家",
+     "zh": "Linux 内核爆出 9.3 分超高危漏洞，可“越狱”虚拟机攻击宿主机"
+    },
+    {
+     "title": "Survey of Anthropic staffers and US adults: 39% of US adults vs. 91% of staffers expect AI will be able to make a Nobel-level discovery by 2030, and more (Anthropic)",
+     "link": "https://www.techmeme.com/261016/p28#a261016p28",
+     "pubDate": "Fri, 16 Oct 2026 21:00:12 -0400",
+     "summary": "Anthropic : Survey of Anthropic staffers and US adults: 39% of US adults vs. 91% of staffers expect AI will be able to make a Nobel-level discovery by 2030, and more &nbsp; &mdash;&nbsp; Key findings&nbsp; &mdash; US adults expect AI capabilities to advance rapidly in the coming years; Anthropic sta",
+     "source": "Techmeme",
+     "zh": "对 Anthropic 工作人员和美国成年人的调查：39% 的美国成年人和 91% 的工作人员预计人工智能到 2030 年将能够做出诺贝尔级别的发现，甚至更多 (Anthropic)"
+    },
+    {
+     "title": "Edge AI Daily 早报（10月17日）",
+     "link": "https://www.tmtpost.com/8171801.html",
+     "pubDate": "Sat, 17 Oct 2026 08:58:35 +0800",
+     "summary": "OpenAI升级ChatGPT浏览器扩展，读取已打开标签页并接管操作，弃自建Atlas转而缝入既有浏览习惯，与Gemini、Copilot争夺侧边栏入口；其内部报告披露GPT-5.6 Sol研究模型未经授权动用他人钱包测试币支付Gas并隐瞒来源。",
+     "source": "钛媒体",
+     "zh": "Edge AI Daily 早报（10月17日）"
+    },
+    {
+     "title": "微软发布 10 张壁纸，纪念 Win10/Win11 预览体验计划成立 12 周年",
+     "link": "https://www.ithome.com/1/014/221.htm",
+     "pubDate": "Sat, 17 Oct 2026 00:52:54 GMT",
+     "summary": "IT之家 10 月 17 日消息，科技媒体 NeoWin 昨日（10 月 16 日）发布博文，报道称 微软为庆祝 Windows 预览体验计划（Windows Insider Program）成立 12 周年，发布了一套共 10 张的全新纪念壁纸。 该计划始于 2014 年，最初与 Windows 10 首个公开预览版一同推出，旨在让爱好者和 IT 专业用户提前体验尚未正式发布的 Windows 版本，并向微软反馈问题与建议。经过 12 年发展，它已成为全球 Windows 用户参与系统测试、追踪新功能的重要社区。 此次发布的壁纸以 Windows Insider 计划的发展历程及最新 Sur",
+     "source": "IT之家",
+     "zh": "微软发布 10 张壁纸，纪念 Win10/Win11 预览体验计划成立 12 周年"
+    },
+    {
+     "title": "一汽-大众预热全新纯电轿车 ID.AURA L5：定位智能大掀背 + 超级家轿",
+     "link": "https://www.ithome.com/1/014/220.htm",
+     "pubDate": "Sat, 17 Oct 2026 00:52:35 GMT",
+     "summary": "IT之家 10 月 17 日消息，一汽-大众的全新纯电轿车 ID.AURA L5 昨天（16 日）登陆工信部最新产品公示名单，随后，官方公布了新车的更多信息。 根据介绍，作为 ID. AURA 序列第二款纯电车型、首款纯电家轿，新车定位“智能大掀背、超级家轿”，将与 ID. AURA T6 共同组成一汽-大众“新能源双子星”。该车由中德设计团队联合打造， 立足中国家庭核心出行诉求 ，深度融合大众经典基因与年轻审美，呈现出集实用、科技与运动感于一体的设计风格。 车身尺寸为 4883×1881×1506mm，轴距 2820mm，“得房率”达 84.4%，在保持低趴动感的同时，充分保障了车内空间的舒",
+     "source": "IT之家",
+     "zh": "一汽-大众预热全新纯电轿车 ID.AURA L5：定位智能大掀背 + 超级家轿"
+    },
+    {
      "title": "小米米家除螨仪 3 预售：升级 16kPa 吸力、双尘杯设计，券后 224 元",
      "link": "https://www.ithome.com/1/014/219.htm",
      "pubDate": "Sat, 17 Oct 2026 00:46:58 GMT",
@@ -1778,44 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "223 道题、2651 条标准：阿里 Qwen 开源 BlenderWorld，给 AI 出了一套 3D 建模大考"
     },
     {
-     "title": "三星电子美国泰勒第二晶圆厂计划 2026 年 11 月动工",
-     "link": "https://www.ithome.com/1/014/216.htm",
-     "pubDate": "Sat, 17 Oct 2026 00:38:19 GMT",
-     "summary": "IT之家 10 月 17 日消息，据得克萨斯州媒体《奥斯汀美国政治家报》当地时间本月 15 日报道，三星奥斯汀与泰勒工厂负责人 Jon Taylor 在一次媒体活动中确认， 泰勒市集群的第二座晶圆厂 (Fab 2) 计划于 2026 年 11 月动工 。 Jon Taylor 同时提到， 泰勒 Fab 1 仍将按计划于 2026 年内上线 。该晶圆厂自今年春季以来持续开展设备导入工作， 现在已进入验证阶段 ，当前气体和化学品几乎全数投用，已安装的设备开始运行。 这位三星电子高管感谢 Tesla（特斯拉）的订单，并表示 Elon Musk（埃隆 · 马斯克）的 Terafab 计划不会改变这笔交",
-     "source": "IT之家",
-     "zh": "三星电子美国泰勒第二晶圆厂计划 2026 年 11 月动工"
-    },
-    {
-     "title": "古尔曼称苹果调整法律团队：从 Meta 挖来诉讼主管，出任全球诉讼与金融服务副总裁",
-     "link": "https://www.ithome.com/1/014/215.htm",
-     "pubDate": "Sat, 17 Oct 2026 00:35:40 GMT",
-     "summary": "IT之家 10 月 17 日消息，彭博社的马克 · 古尔曼（Mark Gurman）今日发文，据知情人士透露，苹果公司聘请了斯科特 · 塔克（Scott Tucker），他是 Meta 的副总法律顾问兼诉讼主管。 这一人事变动让塔克与苹果新任总法律顾问詹妮弗 · 纽斯特德（Jennifer Newstead）再度联手 —— 纽斯特德从老东家 Meta 直接引进了自己此前信赖的副手。 知情人士表示， 塔克将出任苹果全球诉讼与金融服务副总裁 ，这是一个新设立的职位，监管公司在全球范围内的商业及专利诉讼，还将负责处理与苹果金融产品相关的法律事务。 IT之家从报道获悉，随着这一任命落地，苹果现任商业与",
-     "source": "IT之家",
-     "zh": "古尔曼称苹果调整法律团队：从 Meta 挖来诉讼主管，出任全球诉讼与金融服务副总裁"
-    },
-    {
      "title": "商业航天，如何走出人才的零和竞争",
      "link": "https://www.huxiu.com/article/4898210.html?f=rss",
      "pubDate": "Sat, 17 Oct 2026 08:35:16 +0800",
      "summary": "本文来自微信公众号： 反熵 ，作者：司马大大 航天人才的流动，很容易被理解成一场此消彼长的竞争。 一家科研院所培养多年的技术骨干转身加入商业火箭企业，原单位需要补位，新公司得到一位熟悉型号研制的工程师。站在各自单位的角度，有人离开，就是人才流失；有人加入，就是人才引进。 这种算法并非毫无道理，却忽略了一个更重要的问题。一名工程师的价值，不止于他当前供职的单位，还取决于多年积累的能力能在多大范围内发挥作用。 中国商业航天正在发展可重复使用火箭、规模化制造和高频发射。这些任务需要成熟技术人员，而完整型号研制、复杂试验验证和系统管理的经验，很难靠短期培训获得。传统航天数十年的积累，为中国航天培养了宝",
      "source": "虎嗅",
      "zh": "商业航天，如何走出人才的零和竞争"
-    },
-    {
-     "title": "ChatGPT 能替你操作谷歌 Chrome 浏览器了：读网页、网购比价、发消息等",
-     "link": "https://www.ithome.com/1/014/214.htm",
-     "pubDate": "Sat, 17 Oct 2026 00:31:53 GMT",
-     "summary": "IT之家 10 月 17 日消息，OpenAI 于 10 月 15 日更新 ChatGPT for Chrome 扩展程序（版本号 1.26.1005.11759），ChatGPT 现在可以读取 Chrome 浏览器中已打开的多个标签页， 并基于这些网页内容回答问题、整理信息或完成跨页面任务。该功能面向所有用户开放，无论是否订阅付费服务均可使用。 用户在聊天中调用浏览器后，ChatGPT 可将当前打开的网页作为上下文，例如比较多个商品页面、汇总多份资料或分析工作文档。 IT之家援引博文介绍，此次更新还引入了更强的“操作”能力。在 Work 模式下，ChatGPT 不再仅限于阅读网页，而是可以在",
-     "source": "IT之家",
-     "zh": "ChatGPT 能替你操作谷歌 Chrome 浏览器了：读网页、网购比价、发消息等"
-    },
-    {
-     "title": "OpenAI 升级适用于谷歌 Chrome 浏览器的 ChatGPT 扩展：能直接读取你的标签页",
-     "link": "https://www.ithome.com/1/014/213.htm",
-     "pubDate": "Sat, 17 Oct 2026 00:25:40 GMT",
-     "summary": "IT之家 10 月 17 日消息，当地时间 16 日，OpenAI 宣布升级 Chrome 浏览器的 ChatGPT 扩展程序， 支持读取用户打开的标签页，提供更有针对性的回答 。 OpenAI 曾推出自有浏览器，随后又于 8 月 9 日停用。此后，公司持续改进 Chrome 扩展程序，增强 ChatGPT 在浏览器中的竞争力。最新一轮升级，进一步扩展了 ChatGPT 在 Chrome 中的功能。 在 ChatGPT 聊天模式下，用户可以让 AI 助手查看 Chrome 中打开的网页， 并根据其中的内容回答问题 。例如，在三个标签页中分别打开不同的沙发商品页面后，用户可以直接让 ChatGP",
-     "source": "IT之家",
-     "zh": "OpenAI 升级适用于谷歌 Chrome 浏览器的 ChatGPT 扩展：能直接读取你的标签页"
     },
     {
      "title": "Intel CEO Lip-Bu Tan says the Trump administration does not have \"any policy\" to use a minority stake in Intel to interfere in its business strategy (Kohei Yamada/Nikkei Asia)",
@@ -1869,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Nine-Inch Snails",
      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
      "pubDate": "Fri, 16 Oct 2026 22:21:05 +0000",
-     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 11 # Comments: 1",
+     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 19 # Comments: 4",
      "source": "Hacker News",
      "zh": "九寸蜗牛"
     },
@@ -1880,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mark Gurman / Bloomberg : Sources: Apple has hired Scott Tucker, Meta VP and deputy general counsel, as its new litigation chief, as part of a shakeup in its legal team &nbsp; &mdash;&nbsp; Apple Inc. has tapped a longtime Meta Platforms Inc. executive as its new litigation chief, bolstering its leg",
      "source": "Techmeme",
      "zh": "资料来源：苹果公司已聘请 Meta 副总裁兼副总法律顾问斯科特·塔克 (Scott Tucker) 担任新的诉讼主管，作为其法律团队改组的一部分（Mark Gurman/彭博社）"
-    },
-    {
-     "title": "Apple says demand for iPhone Duo has been \"nothing short of extraordinary\"; deliveries slipped to late January within hours of preorders opening (Michael Acton/Financial Times)",
-     "link": "https://www.techmeme.com/261016/p22#a261016p22",
-     "pubDate": "Fri, 16 Oct 2026 18:00:36 -0400",
-     "summary": "Michael Acton / Financial Times : Apple says demand for iPhone Duo has been &ldquo;nothing short of extraordinary&rdquo;; deliveries slipped to late January within hours of preorders opening &nbsp; &mdash;&nbsp; Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale&nbsp; &mdash;&nb",
-     "source": "Techmeme",
-     "zh": "苹果表示，对 iPhone Duo 的需求“非常大”；预购开放后数小时内，交付量就下滑至一月下旬（Michael Acton/金融时报）"
     },
     {
      "title": "The Leap Second Is No More",
@@ -1901,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Why harnesses matter for energy (and token) efficiency",
      "link": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
      "pubDate": "Fri, 16 Oct 2026 21:01:23 +0000",
-     "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 35 # Comments: 11",
+     "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 36 # Comments: 11",
      "source": "Hacker News",
      "zh": "为什么要利用物质来提高能源（和代币）效率"
     },
@@ -1917,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "I never authorized an integration that scans my secrets",
      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
      "pubDate": "Fri, 16 Oct 2026 20:33:41 +0000",
-     "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 171 # Comments: 123",
+     "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 177 # Comments: 131",
      "source": "Hacker News",
      "zh": "我从未授权扫描我的秘密的集成"
     },
@@ -1941,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "FLUX 3 Image Klein",
      "link": "https://bfl.ai/blog/flux-3-image-klein",
      "pubDate": "Fri, 16 Oct 2026 19:47:13 +0000",
-     "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 101 # Comments: 24",
+     "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 104 # Comments: 25",
      "source": "Hacker News",
      "zh": "FLUX 3 图像克莱因"
     },
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "How the Claude Code team does code review",
      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
      "pubDate": "Fri, 16 Oct 2026 19:04:47 +0000",
-     "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 217 # Comments: 202",
+     "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 224 # Comments: 207",
      "source": "Hacker News",
      "zh": "Claude Code 团队如何进行代码审查"
     },
@@ -1973,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "You could have invented transformers from memory",
      "link": "https://alexwang.ai/posts/associative-memory/",
      "pubDate": "Fri, 16 Oct 2026 19:01:17 +0000",
-     "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 115 # Comments: 34",
+     "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 122 # Comments: 36",
      "source": "Hacker News",
      "zh": "你本可以凭记忆发明变形金刚"
     },
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
      "source": "Stratechery",
      "zh": "2026.42：终于回家了"
-    },
-    {
-     "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-     "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
-     "pubDate": "Fri, 16 Oct 2026 17:05:59 +0000",
-     "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
-     "source": "Ars Technica",
-     "zh": "报告称，RFK Jr. 建议 FDA 对未经证实的肽采取另一种态度"
     }
    ]
   },
@@ -2258,12 +2258,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Anthropic据悉向美议员推介AI安全方案 拟为模型发布设置门槛",
+     "link": "http://finance.eastmoney.com/news/1360,202610173899004420.html",
+     "pubDate": "Sat, 17 Oct 2026 09:01:45 +0800",
+     "summary": "据报道，Anthropic向美国议员提交AI安全法案草案，其中提出AI安全监管方案该提案建议，如果某款AI模型被认定存在迫在眉睫的风险，可能导致超50人伤亡或造成超10亿美元损失，政府可阻止其发布。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "Anthropic据悉向美议员推介AI安全方案 拟为模型发布设置门槛"
+    },
+    {
+     "title": "用切身之痛告诉大家：一定要有一个跟孩子保持“真实连接”的日常活动",
+     "link": "http://www.eeo.com.cn/2026/1017/1067523.shtml",
+     "pubDate": "Sat, 17 Oct 2026 09:00:00 +0800",
+     "summary": "情感账户要从小建立，当父母主动走进孩子的内心，尊重孩子的感受、理解孩子的情绪，当孩子感到爱和安全，那么情感账户里的“钱”也就是与父母的亲密感越多，亲子关系越好。",
+     "source": "经济观察网",
+     "zh": "用切身之痛告诉大家：一定要有一个跟孩子保持“真实连接”的日常活动"
+    },
+    {
+     "title": "江波龙前三季度扣非净利预增近30倍 公司提醒存储价格涨幅收窄",
+     "link": "http://stock.eastmoney.com/news/11215,202610173899003256.html",
+     "pubDate": "Sat, 17 Oct 2026 08:59:39 +0800",
+     "summary": "存储行业高景气背景之下，存储模组龙头 江波龙 （301308.SZ）交出了一份爆发式业绩预告，但公司同时给市场打了一剂“预防针”。 10月15日晚， 江波龙 发布2026年前三季度业绩预告，预计公司2026年前三季度归母净利润达140亿至149亿元，同比增长约18.65倍至19.91倍；扣非净利润138亿至148亿元，同比增长约27.82倍至29.91倍。其中第三季度扣非净利润37.53亿至47.53亿元，同比增长约7.40倍至9.64倍。 但《中国经营报》记者注意到， 江波龙 在公告中特别提醒，存储行业周期逻辑正在变化，正在从消费类价格周期转向AI驱动技术周期。 探索科技首席分析师王树一在接",
+     "source": "东方财富股票",
+     "zh": "江波龙前三季度扣非净利预增近30倍 公司提醒存储价格涨幅收窄"
+    },
+    {
+     "title": "商务部、科技部拟新增五项生物医药技术出口管制：防范“拔根式”转让",
+     "link": "http://finance.eastmoney.com/news/1344,202610173899003396.html",
+     "pubDate": "Sat, 17 Oct 2026 08:57:35 +0800",
+     "summary": "10月16日，商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》（以下简称《目录》）公开征求意见，并对相关技术实施出口前登记的临时管理措施。 商务部新闻发言人称，现行《目录》中已有部分生物医药技术，此次拟增列病原微生物、细胞和基因治疗、小核酸药相关5项技术，主要有以下考虑： 一是维护人类生命健康安全。病原微生物技术等直接关系人类健康和国家生物安全，将其纳入《目录》实施禁止出口，是维护国家安全、构筑生物安全屏障的制度安排，也是保护全人类健康的客观需要。 二是支持我国生物医药技术依法依规有序开展国际合作。此次列管生物医药技术，对国际合作的重要情形作出排除或适用便利措施",
+     "source": "东方财富股票",
+     "zh": "商务部、科技部拟新增五项生物医药技术出口管制：防范“拔根式”转让"
+    },
+    {
+     "title": "ESG典型案例｜荣耀的ESG样本：AI向善，如何跨越数字鸿沟",
+     "link": "http://stock.eastmoney.com/news/1416,202610173899004298.html",
+     "pubDate": "Sat, 17 Oct 2026 08:54:52 +0800",
+     "summary": "在北京做 快递 员的张俊磊，是一位家族遗传性听障人士。手机来电曾是他工作中一道无解的难题——因为听不到声音，常导致业务出错，甚至面临投诉与罚款。转机出现在2023年，他在荣耀体验店第一次体验AI通话字幕功能：当测试电话接通的瞬间，那些他曾无法接收到的声音，随后便实时化作屏幕上流畅滚动的文字。“以前特别害怕打电话。现在有了荣耀手机，不论接打电话，还是日常聊天，都是轻松应对。”对于张俊磊来说，如今，AI通话字幕功能已成为他的“数字耳朵”。 这是荣耀“科技向善”实践的一个切面。2025年，这家从智能手机制造商向全球领先AI终端生态公司转型的企业，交出了一份颇具分量的“科技向善”成果：截至2025年年",
+     "source": "东方财富股票",
+     "zh": "ESG典型案例｜荣耀的ESG样本：AI向善，如何跨越数字鸿沟"
+    },
+    {
+     "title": "四季度重大工程冲刺忙 各地抢抓施工黄金期",
+     "link": "http://finance.eastmoney.com/news/1352,202610173899003742.html",
+     "pubDate": "Sat, 17 Oct 2026 08:54:42 +0800",
+     "summary": "进入四季度，全国多地重大工程进入年度冲刺阶段。各地通过密集组织集中开工、推进关键节点工程等方式，掀起一波“年末冲刺”热潮，全力形成更多实物工作量，夯实“十五五”开局投资底盘。 业内专家分析，随着政策资金加快落地、“六张网”项目进入建设高峰，四季度基建投资存在修复空间，新基建、能源工程等将成为投资增量主力。 地方压实责任攻坚重大项目 进入10月，从东部沿海到中西部山区，各地重大项目施工现场一片忙碌。10月1日，广东肇庆浪江 抽水蓄能 工程变速机组转子成功吊装，这标志着首台国产变速抽蓄机组主体安装完成。10月9日，G3033奎屯至独山子至库车 高速公路 （奎独库高速）的玉希莫勒盖隧道和克扎依隧道同",
+     "source": "东方财富股票",
+     "zh": "四季度重大工程冲刺忙 各地抢抓施工黄金期"
+    },
+    {
+     "title": "川发龙蟒孙公司磷矿发生冒顶事故 被罚60万元",
+     "link": "http://stock.eastmoney.com/news/11215,202610173899002953.html",
+     "pubDate": "Sat, 17 Oct 2026 08:54:33 +0800",
+     "summary": "10月15日晚间， 川发龙蟒 （002312.SZ）公告披露，其全资孙公司湖北龙蟒 磷化工 有限公司收到襄阳市应急管理局行政处罚决定书。该公司因下属白竹磷矿发生冒顶事故，被罚款60万元。 （文章来源：中国经营报）",
+     "source": "东方财富股票",
+     "zh": "川发龙蟒孙公司磷矿发生冒顶事故 被罚60万元"
+    },
+    {
+     "title": "商务部详解修订《中国禁止出口限制出口技术目录》",
+     "link": "http://www.eeo.com.cn/2026/1017/1067515.shtml",
+     "pubDate": "Sat, 17 Oct 2026 08:52:06 +0800",
+     "summary": "新华财经北京10月17日电（记者谢希瑶、黄韬铭）商务部、科技部16日发布公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，并对相关技术实施出口前登记的临时管理措施。此次公开征求意见涉及拟增列的人工智能、生物医药、光伏三个领域40项关键技术。 其中，拟禁止出口技术14项，包括人工智能驱动的恶意代码生成与变异技术、具有自主知识产权的细胞和基因治疗技术工艺平台、钙钛矿及叠层电池组件生产技术等；拟限...",
+     "source": "经济观察网",
+     "zh": "商务部详解修订《中国禁止出口限制出口技术目录》"
+    },
+    {
+     "title": "美股存储半导体重挫，​闪迪、SK海力士、英特尔集体大跌",
+     "link": "http://www.eeo.com.cn/2026/1017/1067514.shtml",
+     "pubDate": "Sat, 17 Oct 2026 08:52:05 +0800",
+     "summary": "美东时间周五，美股三大指数集体收跌，道指跌0.34%，纳指跌2.14%，重挫超500点，标普500指数跌1.09%，芝加哥期权交易所波动率指数（VIX）四个月来首次升破22。标普500指数本周下跌近2%，纳斯达克下跌逾4%，为6月以来最差单周表现。 大型科技股几乎全线走低，苹果收涨0.43%，Meta跌超3%，谷歌、特斯拉跌超2%，亚马逊、英伟达、微软跌超1%。 存储概念指数大跌超6%，费城半导体指数跌3.83%，连续第8个交易日下跌，存储...",
+     "source": "经济观察网",
+     "zh": "美股存储半导体重挫，​闪迪、SK海力士、英特尔集体大跌"
+    },
+    {
+     "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
+     "link": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
+     "pubDate": "Sat, 17 Oct 2026 00:47:25 GMT",
+     "summary": "High borrowing costs complicate AI lab’s goal of achieving investment-grade status",
+     "source": "Financial Times",
+     "zh": "Anthropic 在最新的芯片融资中为 Blackstone 提供了两位数的收益率"
+    },
+    {
      "title": "卢比单周涨2%创七个月最大，贸易逆差却扩大至302亿美元，印度央行护盘资金已动用约一半",
      "link": "https://wallstreetcn.com/articles/3783824",
      "pubDate": "Sat, 17 Oct 2026 08:29:45 +0800",
      "summary": "印度卢比录得七个月最大单周涨幅，政策干预提振但持续性存疑。 本周，卢比累计上涨约2%，周五收盘报84.96兑1美元。此前卢比一度逼近历史低点，RBI随后出手，通过将石油美元需求引导至场外、大幅收紧购汇限额等措施推动汇率企稳。 然而，上述政策的副作用也随之显现。 华尔街见闻提及 ，对冲成本飙升至十年高位，债券收益率攀升至三年多来最高水平，外汇市场流动性加速萎缩。 市场人士对频繁调整外汇规则的做法表达担忧，认为此举可能削弱政策可预期性。分析人士指出，卢比能否持续反弹，关键在于深层经济压力能否得到有效缓解。 管制措施扰动对冲市场 华尔街见闻提及 ，印度央行于上周六宣布的一项关键措施规定，银行须为超过",
      "source": "华尔街见闻",
      "zh": "卢比单周涨2%创七个月最大，贸易逆差却扩大至302亿美元，印度央行护盘资金已动用约一半"
+    },
+    {
+     "title": "2.6万亿赛道迎三重催化！6只滞涨股出炉 机构扎堆调研且融资客重点加仓",
+     "link": "http://finance.eastmoney.com/news/1344,202610173898999156.html",
+     "pubDate": "Sat, 17 Oct 2026 08:18:47 +0800",
+     "summary": "创新药 板块迎来密集催化。 10月16日， 创新药 板块概念股早盘普涨，尽管下午整体跳水，但不少概念股仍走势坚挺。截至当日收盘， 尖峰集团 强势涨停， 莱美药业 逼近涨停， 誉衡药业 、 透景生命 等当日涨幅均超过7%。 创新药 板块迎来多重利好消息 近期，创新药板块从行业盛会、对外授权交易以及业绩方面迎来密集催化。 从消息面来看，近期，创新药板块迎来多场盛会。国际方面，据ESMO（欧洲肿瘤内科学会）官网消息，2026年ESMO大会将于2026年10月23日至27日在西班牙马德里举行。据悉，ESMO大会每年举办一次，汇聚了来自世界各地顶级专家和研究人员，共同分享最新的研究成果和医疗进展。作为全",
+     "source": "东方财富资讯",
+     "zh": "2.6万亿赛道迎三重催化！6只滞涨股出炉 机构扎堆调研且融资客重点加仓"
     },
     {
      "title": "渝论场｜一条穿山隧道 打开重庆向东的增长新空间",
@@ -2290,20 +2378,28 @@ window.INDUSTRY_DATA = {
      "zh": "由班固家族史透视两汉社会演进——写在《岁以百年》出版之际"
     },
     {
-     "title": "1.3万亿元超长期特别国债发行收官 为扩投资促消费提供资金保障",
-     "link": "http://www.eeo.com.cn/2026/1017/1067495.shtml",
-     "pubDate": "Sat, 17 Oct 2026 08:13:10 +0800",
-     "summary": "◎记者 张欣然10月16日，随着最后一笔200亿元20年期超长期特别国债完成续发行，2026年1.3万亿元超长期特别国债发行收官。从支持重大项目建设到推动大规模设备更新和消费品以旧换新，超长期特别国债为扩投资、促消费提供了有力的资金保障。受访人士认为，今年超长期特别国债发行平稳有序，期限结构与重大项目建设周期相适应。随着全年发行任务完成，后续政策发力的重点将进一步转向资金使用，打通项目审批、配套融资等环节的堵点，...",
-     "source": "经济观察网",
-     "zh": "1.3万亿元超长期特别国债发行收官 为扩投资促消费提供资金保障"
-    },
-    {
      "title": "Brent crude hits $110 for first time since May; U.S. WTI tops $100",
      "link": "https://seekingalpha.com/news/4654025-brent-crude-hits-110-for-first-time-since-may-us-wti-tops-100?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 16 Oct 2026 20:06:25 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "布伦特原油自 5 月份以来首次触及 110 美元；美国WTI原油突破100美元"
+    },
+    {
+     "title": "机构：第三季度上海办公楼市场需求回暖",
+     "link": "http://finance.eastmoney.com/news/1354,202610173898997557.html",
+     "pubDate": "Sat, 17 Oct 2026 08:01:00 +0800",
+     "summary": "近日，多家 商业地产 机构相继发布2026年第三季度上海 房地产 市场报告。数据均显示，上海 商业地产 市场延续需求修复与产业升级共振的态势：办公楼市场需求回暖、零售物业活跃度提升、投资市场前三季度累计交易总额同比双位数增长。 办公楼市场需求持续修复 第三季度，上海办公楼市场需求持续修复。 CBRE 世邦魏理仕 和 仲量联行 的报告均显示，2026年第三季度上海办公楼市场迎来3个新项目入市，而受益于 租赁 需求的回暖，整体市场空置率环比下降。 CBRE的报告显示，第三季度上海办公楼市场需求端持续保持活跃，新设立及扩租需求占比达38%，连续两个季度维持在三成以上。市场需求进一步向优质项目集中，甲",
+     "source": "东方财富资讯",
+     "zh": "机构：第三季度上海办公楼市场需求回暖"
+    },
+    {
+     "title": "黄仁勋谈AI大跌：“这一切都会过去”",
+     "link": "http://stock.eastmoney.com/news/11228,202610173898998097.html",
+     "pubDate": "Sat, 17 Oct 2026 07:58:56 +0800",
+     "summary": "【导读】昨夜今晨美股市场全线大跌，黄仁勋谈AI市场震荡“这一切都会过去” 10月17日，美股市场全线下挫，科技股遭受新一轮抛售，纳指单日重挫2%，芯片股连续第八个交易日收跌，创2008年以来最长连跌纪录，科技七巨头遭遇重挫。与此同时，油价拉涨支撑能源板块，必需消费板块逆市收红。 黄仁勋表现出乐观态度，称AI市场震荡“这一切都会过去”。国际油价受地缘风险推动大涨。 美股三大股指全线收跌 纳指单日跌幅达2.14% 美股三大股指全线收跌，道琼斯工业平均指数高开后转跌，收跌0.34%；标普500指数跌1.09%； 纳斯达克 综合 指数低开低走，收盘跌幅扩大至2.14%。 从周度表现来看，标普500指数",
+     "source": "东方财富资讯",
+     "zh": "黄仁勋谈AI大跌：“这一切都会过去”"
     },
     {
      "title": "苹果称iPhone Duo需求\"非同寻常\"，预购开放数分钟即告罄，发货延至明年1月",
@@ -2314,12 +2410,28 @@ window.INDUSTRY_DATA = {
      "zh": "苹果称iPhone Duo需求\"非同寻常\"，预购开放数分钟即告罄，发货延至明年1月"
     },
     {
+     "title": "利空突袭！美股科技股大跳水！",
+     "link": "http://finance.eastmoney.com/news/1354,202610173898828091.html",
+     "pubDate": "Sat, 17 Oct 2026 07:32:00 +0800",
+     "summary": "AI交易又“崩”了！ 北京时间17日清晨，美股三大指数集体收跌，科技股拖累纳指尾盘大幅跳水。截至收盘，道指跌0.34%，纳指跌2.15%，标普500指数跌1.09%。 AI硬件股再度遭遇重挫， 存储芯片 、光 通信 概念股领跌。 SK海力士 、 闪迪 、 西部数据 跌超6%， 希捷科技 跌超7%， 美光科技 跌5.63%；Lumentum、 迈威尔科技 跌超5%， 康宁 跌超4%，Coherent跌超7%。 费城 半导体 指数大跌3.83%，连续第八个交易日下跌，创2008年金融危机以来最长连跌纪录。个股方面，ARM跌近7%， 超威半导体 （AMD）跌近6%， 英特尔 跌超5%， 博通 、 拉",
+     "source": "东方财富资讯",
+     "zh": "利空突袭！美股科技股大跳水！"
+    },
+    {
      "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
      "link": "https://wallstreetcn.com/articles/3783778",
      "pubDate": "Sat, 17 Oct 2026 07:26:52 +0800",
      "summary": "科技股遭新一轮抛售，AI投资盈利能力的疑虑与油价骤升形成双重压力，美股周五全线下挫。纳指单日重挫2%，芯片股连续第八个交易日收跌，创下2008年以来最长连跌纪录。 周五，纳斯达克100指数收跌2.5%，标普500指数跌1.1%。云计算服务商CoreWeave单日暴跌12%，其债券收益率本周一度突破15%，信用风险攀升至通常预示财务困境的水平。 本周，AI交易的核心矛盾正从算力需求增长转向融资成本、资本开支回报和企业盈利能力。云服务商CoreWeave债务承压，进一步引发市场对AI数据中心建设融资模式的审视；存储芯片、光通信和数据中心设备等此前受益于AI投资热潮的股票，也成为资金减仓的重点。媒体",
      "source": "华尔街见闻",
      "zh": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110"
+    },
+    {
+     "title": "又一B股摘牌！三重“瓶颈”叠加 “被遗忘的角落”如何破局？",
+     "link": "http://finance.eastmoney.com/news/1354,202610173898828517.html",
+     "pubDate": "Sat, 17 Oct 2026 07:22:00 +0800",
+     "summary": "10月16日，瓦轴B将正式摘牌，成为第一家通过全面要约收购完成私有化退市的 B股 公司。 瓦轴B的离场，也将 B股 这块中国资本市场早期的“试验田”重新拉回公众视野。20年来， B股 无新股上市、无再融资，上市公司面临着交易清淡、估值低迷、流动性枯竭等困境。有受访人士指出，投资者准入限制、计价结算壁垒、融资功能实质停滞三大瓶颈相互叠加，形成了B股“流动性不足—估值折价—企业撤离—流动性进一步枯竭”的负向循环。 不过，困局之下，解题路径已在探索之中。近年来，B转A、B转H、要约收购私有化、股东大会决议退市等多条路径均已有成功案例。但受访人士也指出，目前仍存在转板规则缺乏系统性设计、退市配套机制不",
+     "source": "东方财富资讯",
+     "zh": "又一B股摘牌！三重“瓶颈”叠加 “被遗忘的角落”如何破局？"
     },
     {
      "title": "信贷恐慌击穿AI交易：CoreWeave债券收益率维持高位，纳指创6月底来最大单周跌幅",
@@ -2384,118 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
      "source": "MarketWatch",
      "zh": "无处可藏：科技股遭遇抛售，软件股和芯片股同样受到冲击"
-    },
-    {
-     "title": "BlackRock's Hambro slams mining firms' 'reckless' share buybacks, urges mine investment",
-     "link": "https://seekingalpha.com/news/4654015-blackrocks-hambro-slams-mining-firms-reckless-share-buybacks-urges-mine-investment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 17:45:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "贝莱德的汉布罗抨击矿业公司“鲁莽”的股票回购，敦促矿业投资"
-    },
-    {
-     "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
-     "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 21:43:00 GMT",
-     "summary": "Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”",
-     "source": "MarketWatch",
-     "zh": "这场以数据中心为关键问题的参议院竞选的支出比任何其他中期冲突都多"
-    },
-    {
-     "title": "Okta slumps 10% as recent profit-taking continues",
-     "link": "https://seekingalpha.com/news/4654020-okta-slumps-10-as-recent-profit-taking-continues?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 17:39:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "由于近期获利回吐仍在继续，Okta 下跌 10%"
-    },
-    {
-     "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-     "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 21:35:00 GMT",
-     "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock.",
-     "source": "MarketWatch",
-     "zh": "Anthropic IPO 会让您的 401(k) 面临风险吗？人工智能安全争论进入了一个新的层面。"
-    },
-    {
-     "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
-     "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 21:30:00 GMT",
-     "summary": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
-     "source": "MarketWatch",
-     "zh": "债券市场摆脱了两次通胀冲击。为什么股票投资者应该关注。"
-    },
-    {
-     "title": "Katie Zacharia out as Trump&apos;s White House press secretary",
-     "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-     "pubDate": "Fri, 16 Oct 2026 21:26:15 GMT",
-     "summary": "Zacharia was on shaky ground from her first White House press conference and over questions about her claims of being a lawyer despite not passing a bar exam.",
-     "source": "CNBC",
-     "zh": "凯蒂·扎卡里亚 (Katie Zacharia) 不再担任特朗普的白宫新闻秘书"
-    },
-    {
-     "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
-     "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 21:21:00 GMT",
-     "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
-     "source": "MarketWatch",
-     "zh": "美国证券交易委员会的新规则将欺骗普通投资者，让华尔街发财"
-    },
-    {
-     "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-     "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 21:15:00 GMT",
-     "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
-     "source": "MarketWatch",
-     "zh": "我今年 63 岁，被诊断患有淋巴瘤。我明年应该领取社会保障吗？"
-    },
-    {
-     "title": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
-     "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
-     "pubDate": "Fri, 16 Oct 2026 20:42:16 GMT",
-     "summary": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
-     "source": "Financial Times",
-     "zh": "大型科技股遭遇“解放日”以来最大单周跌幅"
-    },
-    {
-     "title": "Trump’s press secretary Katie Zacharia fired after five days",
-     "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-     "pubDate": "Fri, 16 Oct 2026 20:14:17 GMT",
-     "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
-     "source": "Financial Times",
-     "zh": "特朗普的新闻秘书凯蒂·扎卡里亚在五天后被解雇"
-    },
-    {
-     "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-     "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-     "pubDate": "Fri, 16 Oct 2026 20:02:21 GMT",
-     "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
-     "source": "CNBC",
-     "zh": "伊朗升级霍尔木兹袭击，布伦特原油触及110美元，乌克兰誓言打击俄罗斯炼油厂"
-    },
-    {
-     "title": "Wall Street&apos;s fear gauge is ripping. Traders see it going even higher",
-     "link": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
-     "pubDate": "Fri, 16 Oct 2026 19:28:10 GMT",
-     "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher.",
-     "source": "CNBC",
-     "zh": "华尔街的恐惧指数正在急剧上升。交易员认为价格会更高"
-    },
-    {
-     "title": "Why Trump and the GOP&apos;s billion-dollar midterm blitz isn’t working",
-     "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
-     "pubDate": "Fri, 16 Oct 2026 17:55:05 GMT",
-     "summary": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map.",
-     "source": "CNBC",
-     "zh": "为什么特朗普和共和党的数十亿美元中期闪电战没有奏效"
-    },
-    {
-     "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-     "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-     "pubDate": "Fri, 16 Oct 2026 16:46:18 GMT",
-     "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-     "source": "CNBC",
-     "zh": "官员称，美国在曼谷双边会谈中就万事达卡和花旗集团的市场准入问题向中国施压"
     }
    ]
   },

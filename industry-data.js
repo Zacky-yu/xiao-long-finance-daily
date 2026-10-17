@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 13:09:46",
+ "generated_at": "2026/10/17 13:29:42",
  "recent_days": 7,
  "industries": [
   {
@@ -338,36 +338,12 @@ window.INDUSTRY_DATA = {
      "zh": "数据中心电力成为 OCP 2026 的一大亮点"
     },
     {
-     "title": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/microchip-pol-05-20s-is-radiation-tolerant-gan-point-of-load-converter-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 14:24:13 +0000",
-     "summary": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
-     "source": "Electronics Weekly",
-     "zh": "Microchip POL-05-20S 是耐辐射 GaN 负载点转换器"
-    },
-    {
      "title": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition",
      "link": "https://semiconductor-today.com/news_items/2026/oct/omdia-161026.shtml",
      "pubDate": "Fri, 16 Oct 2026 14:52:30 +0100",
      "summary": "According to market research firm Omdia’s preliminary estimates, global smartphone shipments fell 20% year-on-year in third-quarter 2026, a sharp acceleration from the 6% decline recorded the previous quarter. Shipments also declined sequentially despite new flagship launches and channel preparation",
      "source": "Semiconductor Today",
      "zh": "内存危机重塑竞争格局，2026 年第三季度智能手机出货量萎缩 20%"
-    },
-    {
-     "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-arm-vs-qualcomm-ai-boom-adr-mission-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 13:38:02 +0000",
-     "summary": "The latest installment of the Arm vs Qualcomm case, the weirdness of the current semiconductor market, and an active debris removal mission to launch from Scotland mission... The post What caught your eye? Arm vs Qualcomm, AI boom, ADR mission appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "什么引起了您的注意？ Arm 与高通、人工智能热潮、ADR 使命"
-    },
-    {
-     "title": "When Mandy  Became A Revolutionary",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-mandy-became-a-revolutionary-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 13:32:30 +0000",
-     "summary": "Mandy is known for other things now but 28 years ago he was a revolutionary, as this EW yarn in September 1998 chronicled: ‘The first major speech as cabinet minister […] The post When Mandy Became A Revolutionary appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "当曼迪成为革命者时"
     },
     {
      "title": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume",
@@ -378,36 +354,12 @@ window.INDUSTRY_DATA = {
      "zh": "Terafab 的单一屋顶：为什么封装而非光刻决定了高产量"
     },
     {
-     "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/a-v-cuk-group-adds-auracast-assistive-listening-technology-to-portfolio-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 11:12:17 +0000",
-     "summary": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
-     "source": "Electronics Weekly",
-     "zh": "音视频：CUK 集团将 Auracast 辅助听力技术添加到产品组合中"
-    },
-    {
      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
      "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
      "pubDate": "Fri, 16 Oct 2026 10:55:42 +0000",
      "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times .",
      "source": "EE Times",
      "zh": "台湾的人工智能野心遭遇人才缺口"
-    },
-    {
-     "title": "R&S extends amplifier range for satellite use",
-     "link": "https://www.electronicsweekly.com/news/rs-extends-amplifier-range-for-satellite-use-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 10:54:42 +0000",
-     "summary": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "R&S 扩展了卫星用途的放大器范围"
-    },
-    {
-     "title": "Raltron monolithic crystal filter series for gateway ground stations",
-     "link": "https://www.electronicsweekly.com/news/products/raltron-monolithic-crystal-filter-series-for-gateway-ground-stations-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 10:20:32 +0000",
-     "summary": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
-     "source": "Electronics Weekly",
-     "zh": "用于网关地面站的 Raltron 单片晶体滤波器系列"
     },
     {
      "title": "GlobalFoundries’ CHIPS Program award amended to support $5bn investment in Malta, NY, and Burlington, VT",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Artificial intelligence is becoming part of the infrastructure that powers healthcare, transportation, finance, manufacturing, and everyday digital services. As these systems grow more capable, they also process more sensitive information and depend on increasingly complex hardware. The Synopsys whi",
      "source": "SemiWiki",
      "zh": "为什么人工智能安全从芯片级开始"
+    },
+    {
+     "title": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/onsemi-151026.shtml",
+     "pubDate": "Thu, 15 Oct 2026 10:36:20 +0100",
+     "summary": "Intelligent power and sensing technology firm onsemi of Scottsdale, AZ, USA says that its latest EliteSiC silicon carbide (SiC) hybrid power module technology has been adopted by renewable energy technology firm Sungrow for its PowerTitan 3.0 energy storage platform. The integration enables improved",
+     "source": "Semiconductor Today",
+     "zh": "安森美EliteSiC混合功率模块技术应用于阳光电源PowerTitan 3.0储能平台"
+    },
+    {
+     "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+     "link": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
+     "pubDate": "Thu, 15 Oct 2026 07:07:45 +0000",
+     "summary": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself. The post Beyond The Specification: What Really Determines PCIe Retimer Reach? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "超越规范：什么真正决定 PCIe 重定时器的范围？"
+    },
+    {
+     "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
+     "link": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/",
+     "pubDate": "Thu, 15 Oct 2026 07:06:02 +0000",
+     "summary": "Short-resilient via insertion improves reliability and performance. The post Strengthening Advanced-Node Interconnects Through Automated Via Insertion appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "通过自动过孔插入加强高级节点互连"
+    },
+    {
+     "title": "Building AI Infrastructure For Greater Choice And Flexibility",
+     "link": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/",
+     "pubDate": "Thu, 15 Oct 2026 07:03:05 +0000",
+     "summary": "Open interfaces and interoperability allow designers to choose technologies based on the needs of the system. The post Building AI Infrastructure For Greater Choice And Flexibility appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "构建人工智能基础设施以获得更多选择和灵活性"
+    },
+    {
+     "title": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
+     "link": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/",
+     "pubDate": "Thu, 15 Oct 2026 07:02:37 +0000",
+     "summary": "Extending chiplet connectivity across AXI and CHI with scalable protocol subsets, interoperability, and flexible transport support. The post AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AMBA C2C：通过 C2C 连接的融合 AMBA 基础向前迈进"
+    },
+    {
+     "title": "Why Open-Weight AI Matters",
+     "link": "https://semiengineering.com/why-open-weight-ai-matters/",
+     "pubDate": "Thu, 15 Oct 2026 07:02:13 +0000",
+     "summary": "Proprietary models still hold the edge, but open-weight models add more flexibility for deploying AI. The post Why Open-Weight AI Matters appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "为什么开放式重量人工智能很重要"
     }
    ]
   },
@@ -1762,6 +1762,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "东风押注氨动力：不是逆袭，是过冬",
+     "link": "https://www.huxiu.com/article/4897940.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 13:28:24 +0800",
+     "summary": "出品｜虎嗅汽车组 作者｜邢书博 题图｜作者设计，AI制图 10月14日傍晚，北京。中欧贸易投资磋商机制第二次例会刚结束，双方就混动汽车、电动汽车贸易问题达成共识的消息传出。这是中欧汽车领域最高级别磋商。 当晚东风发布声明：\"稳定清晰的贸易规则，能保障车企正常开展跨境贸易，为新能源车型在中欧市场的流通创造良好条件。\" 声明里还提到，欧洲是东风实施全球化战略的重点市场。东风将持续完善海外业务合规体系建设，主动把握本次磋商带来的市场机遇。 中欧贸易投资磋商机制第二次例会达成共识 四天前的10月10日，武汉，东风商用车刚发布D600绿智平台&mdash;&mdash;覆盖燃油、燃气、纯电、换电、混动、",
+     "source": "虎嗅",
+     "zh": "东风押注氨动力：不是逆袭，是过冬"
+    },
+    {
+     "title": "市场监管总局：立案查处加油机作弊案件 399 件、案值 2.7 亿元、罚没款 1.43 亿元",
+     "link": "https://www.ithome.com/1/014/273.htm",
+     "pubDate": "Sat, 17 Oct 2026 05:26:53 GMT",
+     "summary": "IT之家 10 月 17 日消息，据新华社报道，国家市场监督管理总局 16 日通报，2025 年以来，市场监管总局会同公安部等部门聚焦城乡接合部、国省道沿线等加油机作弊违法行为高发频发区域， 共立案查处加油机作弊案件 399 件、案值 2.7 亿元、罚没款 1.43 亿元 。 市场监管总局市场稽查专员嵇小灵介绍，当前加油机作弊呈现 科技化、隐蔽化、链条化、双重危害性 四大突出特点。 一是作弊手段科技化，可以远程控制调整作弊参数。不法分子不再局限于传统机械改动，主要通过更换加油机主板、加装作弊模块、植入作弊软件等方式，破解加油机原有防作弊自锁机制。经营者可以通过 电脑、手机 App、遥控发射器 ",
+     "source": "IT之家",
+     "zh": "市场监管总局：立案查处加油机作弊案件 399 件、案值 2.7 亿元、罚没款 1.43 亿元"
+    },
+    {
+     "title": "消息称苹果 iPhone 18 Pro Max 手机刷新记录：W41 单周单品国内激活近 90 万台",
+     "link": "https://www.ithome.com/1/014/272.htm",
+     "pubDate": "Sat, 17 Oct 2026 05:25:14 GMT",
+     "summary": "IT之家 10 月 17 日消息，博主 @数码闲聊站 今日透露，iPhone 18 Pro Max 又刷新记录了，W41（IT之家注：此处指 2026 年的第 41 个自然周，即 10 月 5 日至 10 月 11 日） 单周单品激活近 90 万 （此处及下文预计指国内激活量 / 销量）。 此外，iPhone 18 Pro 系列双杯累计销量 目前已经超 400 万台 。 据IT之家此前报道，在 9 月 10 日的苹果 2026 年秋季发布会上， iPhone 18 Pro 系列正式发布 ，并于 9 月 18 日正式开售，18 Pro 和 18 Pro Max 起售价分别为 9999 元和 10",
+     "source": "IT之家",
+     "zh": "消息称苹果 iPhone 18 Pro Max 手机刷新记录：W41 单周单品国内激活近 90 万台"
+    },
+    {
+     "title": "运行 iOS 27.0.1 的苹果 iPhone 18 Pro 被“完美越狱”：重启后仍可维持最高权限",
+     "link": "https://www.ithome.com/1/014/271.htm",
+     "pubDate": "Sat, 17 Oct 2026 05:20:09 GMT",
+     "summary": "IT之家 10 月 17 日消息，科技媒体 decrypt 今天（10 月 17 日）发布博文，报道称昨日（16 日）在巴黎 Hexacon 攻击性安全大会上， 安全公司 Calif.io 在一台运行 iOS 27.0.1 系统的 iPhone 18 Pro 机型上，公开演示“完美越狱”，重启后仍可维持最高权限。 IT之家注：越狱是指突破苹果对 iOS 的签名校验、应用沙盒和受保护启动链等限制，让使用者获得系统最高权限，从而安装非 App Store 应用、访问完整文件系统、深度定制系统界面，甚至删除预装软件。 不同于需要重新连接电脑或再次触发漏洞的常规越狱，“完美越狱”（untethered",
+     "source": "IT之家",
+     "zh": "运行 iOS 27.0.1 的苹果 iPhone 18 Pro 被“完美越狱”：重启后仍可维持最高权限"
+    },
+    {
+     "title": "NAND flash maker Kioxia has lost two-thirds of its peak market value since June, when it became Japan&apos;s most valuable listed company, as Chinese rivals emerge (Kyohei Suga/Nikkei Asia)",
+     "link": "https://www.techmeme.com/261017/p3#a261017p3",
+     "pubDate": "Sat, 17 Oct 2026 01:20:01 -0400",
+     "summary": "Kyohei Suga / Nikkei Asia : NAND flash maker Kioxia has lost two-thirds of its peak market value since June, when it became Japan's most valuable listed company, as Chinese rivals emerge &nbsp; &mdash;&nbsp; TOKYO &mdash; Japanese memory chip maker Kioxia Holdings' market value has shrunk to one-thi",
+     "source": "Techmeme",
+     "zh": "随着中国竞争对手的出现，NAND 闪存制造商 Kioxia 自 6 月份成为日本最有价值的上市公司以来，其市值已经缩水了三分之二（Kyohei Suga/日经亚洲）"
+    },
+    {
+     "title": "AI开始接管毛孩子的“终身大事”",
+     "link": "https://www.tmtpost.com/8171403.html",
+     "pubDate": "Sat, 17 Oct 2026 13:18:11 +0800",
+     "summary": "智能养宠，从单品走向长期服务",
+     "source": "钛媒体",
+     "zh": "AI开始接管毛孩子的“终身大事”"
+    },
+    {
+     "title": "颂拓推出 Suunto Race 3S 智能运动手表：3000nit 亮度、钛金属 + 蓝宝石，3999 元",
+     "link": "https://www.ithome.com/1/014/270.htm",
+     "pubDate": "Sat, 17 Oct 2026 05:12:04 GMT",
+     "summary": "IT之家 10 月 17 日消息，颂拓于 10 月 15 日发布 Suunto Race 3S 智能运动手表，新品现已开售， 售价 3999 元 。 Suunto Race 3S 表头重量 38g，整机含表带重量 56g；采用 5 级钛金属外壳搭配蓝宝石镜面，支持 50 米防水，搭配多孔亲肤硅胶表带；有暮光紫、岩雾灰、玄夜黑三种颜色可选。 这款新品配备 1.32 英寸 AMOLED 高清高亮触控屏，分辨率 466*466，峰值亮度可达 3000nit；高性能模式（双频多星定位）续航可达 38 小时，持久模式（单频多星定位）续航可达 45 小时，日常使用模式（每天运动 1 小时 + 全天心率监测",
+     "source": "IT之家",
+     "zh": "颂拓推出 Suunto Race 3S 智能运动手表：3000nit 亮度、钛金属 + 蓝宝石，3999 元"
+    },
+    {
      "title": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A (Duncan Riley/SiliconANGLE)",
      "link": "https://www.techmeme.com/261017/p2#a261017p2",
      "pubDate": "Sat, 17 Oct 2026 01:05:01 -0400",
@@ -1826,28 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "特斯拉与 SpaceX 合并的可能性，又增加了"
     },
     {
-     "title": "奇瑞汽车与国家电网战略合作，首个车网互联 V2G 规模化运营场站启动",
-     "link": "https://www.ithome.com/1/014/266.htm",
-     "pubDate": "Sat, 17 Oct 2026 04:31:35 GMT",
-     "summary": "IT之家 10 月 17 日消息，奇瑞汽车宣布与国家电网战略合作，首个车网互联 V2G 规模化运营场站启动。 10 月 16 日，奇瑞绿能与国网安徽电力明生集团合作签约仪式在安徽芜湖举行。 行业首个车网互联 V2G 规模化运营场站正式启用 ，标志着 V2G 由技术验证迈入规模化落地阶段。 据介绍，V2G（Vehicle-to-Grid）实现电网向车辆充电和车辆向电网反向放电双向互动，让每辆新能源车成为可移动、可调度的“分布式储能单元”，实现用户价值从“降低用电成本”向“创造用车收益”转变。 车辆通过交流 V2G 桩，可低谷充电、高峰放电，停放期间即可参与电网调峰互动。结合当前电价差与相关补贴测",
-     "source": "IT之家",
-     "zh": "奇瑞汽车与国家电网战略合作，首个车网互联 V2G 规模化运营场站启动"
-    },
-    {
      "title": "特斯拉会“飞”，分析师点评：商业价值或有限",
      "link": "https://www.huxiu.com/article/4898252.html?f=rss",
      "pubDate": "Sat, 17 Oct 2026 12:24:44 +0800",
      "summary": "本文来自微信公众号： 财联社 ，作者：牛占林 特斯拉当地时间周四晚间在得克萨斯州发布了新一代Roadster跑车，上演了令人惊叹的“腾空翻转”等高难度动作，并展示了飞行能力。不过，多位分析师认为，这款车型短期内不太可能为特斯拉带来可观的收入。 周五盘前，受发布活动引发的市场热度推动，特斯拉股价一度上涨逾5%，不过，收盘最终下跌2%。 汇丰银行高级全球汽车行业分析师Michael Tyndall评论称，这次亮相更多是一次工程实力的展示，而非盈利能力的证明，消费者距离拿到新车仍需等待一段时间。 给予特斯拉“中性”评级的摩根大通分析师Rajat Gupta表示，新款Roadster展现了特斯拉与Sp",
      "source": "虎嗅",
      "zh": "特斯拉会“飞”，分析师点评：商业价值或有限"
-    },
-    {
-     "title": "精简车型≠大挥砍刀，大众将以“自然过渡”逐步实现产品阵容减半",
-     "link": "https://www.ithome.com/1/014/265.htm",
-     "pubDate": "Sat, 17 Oct 2026 04:24:12 GMT",
-     "summary": "IT之家 10 月 17 日消息，当地时间 14 日，据英媒 Autocar 报道，大众品牌 CEO 施文韬（Thomas Schäfer）表示，公司不会通过集中淘汰车型来精简产品阵容，而是让车型数量 随着产品更新换代自然减少 。 大众汽车集团目前正推进大规模重组，计划将旗下各品牌的车型及其版本数量削减约一半。 施文韬在巴黎车展上被问及重组计划对品牌的影响时回应称：“我们最初讨论精简车型，主要是考虑到欧洲计划从 2035 年起停止销售燃油车。到了 2035 年以后， Polo 和 ID. Polo、T-Cross 和 ID. Cross 自然不会再同时销售 ，车型数量也就随之减少。” “我们梳",
-     "source": "IT之家",
-     "zh": "精简车型≠大挥砍刀，大众将以“自然过渡”逐步实现产品阵容减半"
     },
     {
      "title": "《哈利波特》的东家被卖了，价值7361亿",
@@ -1858,44 +1898,12 @@ window.INDUSTRY_DATA = {
      "zh": "《哈利波特》的东家被卖了，价值7361亿"
     },
     {
-     "title": "谷歌 DeepMind 哈萨比斯预警：若不对 AI 采取安全措施，未来恐发生严重事故",
-     "link": "https://www.ithome.com/1/014/264.htm",
-     "pubDate": "Sat, 17 Oct 2026 04:19:55 GMT",
-     "summary": "IT之家 10 月 17 日消息，据路透社报道，谷歌 DeepMind 联合创始人兼董事长德米斯 · 哈萨比斯（Demis Hassabis）于本周三表示，近期由 AI 智能体发起的网络攻击事件是“前哨预警”；如果各方不进一步提升系统安全性，全球可能很快会面临严重的网络安全事件。 兼任谷歌母公司 Alphabet 首席科学家的哈萨比斯在都柏林举行的一场人工智能峰会上表示：“ 我认为这些攻击事件对我们而言敲响了前期警钟 。目前的系统尚不够强大，因此造成的破坏还算有限。” 但展望未来一至两年，如果全行业、各家企业以及各国政府不在保护这些系统方面投入更多工作， 未来很可能会演变成灾难性的重大事件 。",
-     "source": "IT之家",
-     "zh": "谷歌 DeepMind 哈萨比斯预警：若不对 AI 采取安全措施，未来恐发生严重事故"
-    },
-    {
-     "title": "Uber从非洲人口最多的市场撤了 | 闲聊",
-     "link": "https://www.huxiu.com/article/4898244.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 12:15:29 +0800",
-     "summary": "本文来自微信公众号： 南瞻 ，作者：南瞻，原文标题：《Uber从非洲人口最多的市场撤了 | 闲聊》 全篇阅读时间约1-2分钟 前些天和一位来自卢旺达做农产品的企业家早餐闲聊，其中有一段就在抱怨说内罗毕生活成本这么高，又堵车之类的...当然最终结论是肯尼亚营商环境较好且市场更大更开放，而且更国际化等等所以她还是选择过来拓展。然后她又说，即便卢旺达离肯尼亚不远，但对于她来说这也是一个全新的市场，市场现状，竞争状况、消费者消费习惯等都需要深刻的了解和洞察，两个市场完全不一样 “否则你看Uber，在尼日利亚做了10多年，最终还是退出了了。它的定价就是奔着中产去的，但那里的中产在减少啊，他们没考虑到这些",
-     "source": "虎嗅",
-     "zh": "Uber从非洲人口最多的市场撤了 | 闲聊"
-    },
-    {
      "title": "\"In every study that considered the question\"",
      "link": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
      "pubDate": "Sat, 17 Oct 2026 04:08:27 +0000",
-     "summary": "Article URL: https://unsung.aresluna.org/in-every-study-that-considered-the-question/ Comments URL: https://news.ycombinator.com/item?id=50127839 Points: 10 # Comments: 6",
+     "summary": "Article URL: https://unsung.aresluna.org/in-every-study-that-considered-the-question/ Comments URL: https://news.ycombinator.com/item?id=50127839 Points: 11 # Comments: 7",
      "source": "Hacker News",
      "zh": "“在每一项考虑这个问题的研究中”"
-    },
-    {
-     "title": "工信部公布新准入车辆生产企业名单，岚图汽车在列",
-     "link": "https://www.ithome.com/1/014/262.htm",
-     "pubDate": "Sat, 17 Oct 2026 04:01:59 GMT",
-     "summary": "IT之家 10 月 17 日消息，工信部昨日公布《道路机动车辆生产企业及产品公告》（第 412 批）拟发布的新准入车辆生产企业及已准入企业变更信息清单，岚图汽车科技股份有限公司在列，备注显示为东风集团成员企业。 岚图汽车（VOYAH）是东风汽车集团有限公司旗下的高端智慧新能源品牌。2020 年 7 月 17 日，东风公司在武汉正式发布全新高端电动品牌中文名“岚图”及品牌 LOGO，全新的岚图汽车科技公司正式成立。 今年 3 月 19 日，岚图汽车正式在香港联交所主板挂牌上市，号称“央国企高端新能源汽车第一股”。 据IT之家此前报道， 岚图汽车 2026 年 9 月交付 13,025 辆 ；今年",
-     "source": "IT之家",
-     "zh": "工信部公布新准入车辆生产企业名单，岚图汽车在列"
-    },
-    {
-     "title": "DeepSeek v4.1 flash on OpenCode pretty good",
-     "link": "https://github.com/aditauqir/shev",
-     "pubDate": "Sat, 17 Oct 2026 03:47:50 +0000",
-     "summary": "Article URL: https://github.com/aditauqir/shev Comments URL: https://news.ycombinator.com/item?id=50127732 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "DeepSeek v4.1 flash 在 OpenCode 上相当不错"
     },
     {
      "title": "为了查“公园哪个门人最多”，一批腾讯AI智能体，在高德上折腾了11天",
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Butlerian Jihad",
      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
      "pubDate": "Sat, 17 Oct 2026 02:21:08 +0000",
-     "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 133 # Comments: 73",
+     "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 135 # Comments: 74",
      "source": "Hacker News",
      "zh": "巴特勒圣战"
     },
@@ -1952,14 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "Anthropic : Anthropic report on how AI is changing employment at the startup: decline of entry-level technical hiring, productivity boom across departments, and more &nbsp; &mdash;&nbsp; How has AI restructured work and employment at Anthropic?&nbsp; As a company at the frontier of AI adoption, Anth",
      "source": "Techmeme",
      "zh": "关于人工智能如何改变初创公司就业的人择报告：入门级技术招聘的减少、跨部门生产力的繁荣等等（人择）"
-    },
-    {
-     "title": "5000亿“隐形矿王”，豪掷12亿做LP",
-     "link": "https://www.tmtpost.com/8171514.html",
-     "pubDate": "Sat, 17 Oct 2026 09:38:11 +0800",
-     "summary": "5000亿“隐形矿王”，豪掷12亿做LP",
-     "source": "钛媒体",
-     "zh": "5000亿“隐形矿王”，豪掷12亿做LP"
     },
     {
      "title": "Sources: Anthropic is offering Blackstone a 10%+ yield to help finance Anthropic&apos;s $60B debt package to buy Google TPUs; Blackstone would invest $9B in the debt (Financial Times)",
@@ -1986,20 +1986,20 @@ window.INDUSTRY_DATA = {
      "zh": "对 Anthropic 工作人员和美国成年人的调查：39% 的美国成年人和 91% 的工作人员预计人工智能到 2030 年将能够做出诺贝尔级别的发现，甚至更多 (Anthropic)"
     },
     {
-     "title": "Intel CEO Lip-Bu Tan says the Trump administration does not have \"any policy\" to use a minority stake in Intel to interfere in its business strategy (Kohei Yamada/Nikkei Asia)",
-     "link": "https://www.techmeme.com/261016/p27#a261016p27",
-     "pubDate": "Fri, 16 Oct 2026 20:20:01 -0400",
-     "summary": "Kohei Yamada / Nikkei Asia : Intel CEO Lip-Bu Tan says the Trump administration does not have &ldquo;any policy&rdquo; to use a minority stake in Intel to interfere in its business strategy &nbsp; &mdash;&nbsp; TOKYO &mdash; U.S. President Donald Trump's administration does not have &ldquo;any polic",
-     "source": "Techmeme",
-     "zh": "英特尔首席执行官 Lip-Bu Tan 表示，特朗普政府没有“任何政策”利用英特尔的少数股权来干预其业务战略（Kohei Yamada/日经亚洲）"
-    },
-    {
      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
      "link": "https://fakeipedia.org",
      "pubDate": "Fri, 16 Oct 2026 23:52:04 +0000",
      "summary": "Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links. I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a po",
      "source": "Hacker News",
      "zh": "Show HN：Fakeipedia – 不存在的世界的维基百科"
+    },
+    {
+     "title": "Nine-Inch Snails",
+     "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+     "pubDate": "Fri, 16 Oct 2026 22:21:05 +0000",
+     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 43 # Comments: 20",
+     "source": "Hacker News",
+     "zh": "九寸蜗牛"
     }
    ]
   },
@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "湾芯展深观察丨国产半导体设备密集迭代，批量落地仍需时间",
+     "link": "http://www.eeo.com.cn/2026/1017/1067925.shtml",
+     "pubDate": "Sat, 17 Oct 2026 13:13:14 +0800",
+     "summary": "对眼下的本土半导体上游企业而言，AI算力带来的增量需求已经逐步落到订单上。",
+     "source": "经济观察网",
+     "zh": "湾芯展深观察丨国产半导体设备密集迭代，批量落地仍需时间"
+    },
+    {
      "title": "重庆部署推进安责险工作 八大高危行业领域将全覆盖投保",
      "link": "http://www.eeo.com.cn/2026/1017/1067881.shtml",
      "pubDate": "Sat, 17 Oct 2026 12:52:11 +0800",
@@ -2304,14 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "21世纪经济报道记者王峰 天津报道 10月16日，2026世界职业技术教育发展大会全体会议在天津举行。教育部部...",
      "source": "经济观察网",
      "zh": "教育部部长怀进鹏：为更多学生提供多样、贯通的职业教育机会"
-    },
-    {
-     "title": "聚力智慧停车 第二届成渝地区双城经济圈停车产业融合发展论坛在渝举办",
-     "link": "http://www.eeo.com.cn/2026/1017/1067821.shtml",
-     "pubDate": "Sat, 17 Oct 2026 12:13:12 +0800",
-     "summary": "第1眼TV-华龙网讯（首席记者 曹妤）10月15日至16日，2026第二届成渝地区双城经济圈停车产业融合发展论坛在渝举行，重庆市城市管理局、成都市交通运输局等川渝及全国停车行业主管部门、专家学者、企业代表等200余人参会交流。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/F1D3EB98D6A89C87AB0D6E143A479758.png\" data-target=\"2111288546800926721\" data-origin=\"https://res.cqhlw.cn/con.",
-     "source": "经济观察网",
-     "zh": "聚力智慧停车 第二届成渝地区双城经济圈停车产业融合发展论坛在渝举办"
     },
     {
      "title": "The Man City theory of politics",

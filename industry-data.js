@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 23:52:07",
+ "generated_at": "2026/10/18 00:33:54",
  "recent_days": 7,
  "industries": [
   {
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Meta removes ToS language that suggested it could scrape websites \"associated with\" business accounts, saying it applied only to \"ads and business products\" (Terrence O&apos;Brien/The Verge)",
+     "link": "https://www.techmeme.com/261017/p14#a261017p14",
+     "pubDate": "Sat, 17 Oct 2026 11:50:02 -0400",
+     "summary": "Terrence O'Brien / The Verge : Meta removes ToS language that suggested it could scrape websites &ldquo;associated with&rdquo; business accounts, saying it applied only to &ldquo;ads and business products&rdquo; &nbsp; &mdash;&nbsp; Language that experts say allowed the scraping of news sites to tra",
+     "source": "Techmeme",
+     "zh": "Meta removes ToS language that suggested it could scrape websites \"associated with\" business accounts, saying it applied only to \"ads and business products\" (Terrence O&apos;Brien/The Verge)"
+    },
+    {
      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
      "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
      "pubDate": "Sat, 17 Oct 2026 15:30:00 +0000",
@@ -1789,17 +1797,9 @@ window.INDUSTRY_DATA = {
      "title": "Ad-tech company was a delivery system for \"mercenary spyware\"",
      "link": "https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech",
      "pubDate": "Sat, 17 Oct 2026 15:17:32 +0000",
-     "summary": "Article URL: https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech Comments URL: https://news.ycombinator.com/item?id=50131881 Points: 19 # Comments: 1",
+     "summary": "Article URL: https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech Comments URL: https://news.ycombinator.com/item?id=50131881 Points: 49 # Comments: 10",
      "source": "Hacker News",
      "zh": "Ad-tech company was a delivery system for \"mercenary spyware\""
-    },
-    {
-     "title": "华尔街口中“不诚实”的人，正在大笔抄底彪马和安德玛",
-     "link": "https://www.huxiu.com/article/4898340.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 23:13:23 +0800",
-     "summary": "本文来自微信公众号： 懒熊体育 ，作者：王闪，原文标题：《华尔街口中“不诚实”的人，正在大笔抄底彪马和安德玛 | 翻牌》 安踏宣布收购彪马之后，Frasers Group在37天内成了彪马第二大股东。七个月后，这家公司又出现在了安德玛的股东名单上。 10月1日，Frasers Group向美国证券交易委员会提交Schedule 13G文件，披露已持有安德玛16,576,500股A类普通股，占该类别流通股约8.8%，按当时股价计算市值约8010万美元。彭博社在报道这笔交易时用了这么一句话：扩展其在“困境运动品牌”中的押注。 Frasers Group到底是什么来头？ 这家公司的创始人Mike A",
-     "source": "虎嗅",
-     "zh": "华尔街口中“不诚实”的人，正在大笔抄底彪马和安德玛"
     },
     {
      "title": "12.88 万元起，广汽埃安 Ray7 预售 2 小时订单达 6817 单",
@@ -1818,36 +1818,12 @@ window.INDUSTRY_DATA = {
      "zh": "DeepSeek releases V4.1-Flash-1017, an update it says offers \"stronger benchmark performance, faster task completion, and shorter outputs\" than its predecessor (Saritha Rai/Bloomberg)"
     },
     {
-     "title": "巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润",
-     "link": "https://www.huxiu.com/article/4898339.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 22:54:26 +0800",
-     "summary": "本文来自微信公众号： 偏科声 ，作者：李小年，原文标题：《巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润》 随着微软全新自研AI芯片Maia 300的发布，微软和谷歌、亚马逊走上了同一条算力突围之路。科技巨头们不再盲目内卷商用高端训练赛道，转而集中资源倾斜推理场景、主攻商业化落地。这一战略取舍的背后，是技术门槛、商业化效率与产业链利润分配的深度重构。 2023年11月，微软推出初代Maia 100，正式入局自研算力赛道。这款芯片采用训推一体的通用架构，核心价值是完成自研硬件与AI生态的适配验证。今年1月，第二代产品Maia 200迭代落地，芯片保留轻度训练能力，但整体架构、精度设计、调度逻",
-     "source": "虎嗅",
-     "zh": "巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润"
-    },
-    {
-     "title": "观点|直播间早就没有神了，只有投流",
-     "link": "https://www.huxiu.com/article/4898337.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 22:46:19 +0800",
-     "summary": "本文来自微信公众号： 倪叔的思考暗时间 ，作者：倪叔，原文标题：《观点|直播间早就没有神了，只有投流》 双十一的档口，沉寂两年的小杨哥，以新账号“庆杨”换号复活。 消息一出，行业里一片哗然。所有人都在讨论，带货江湖是不是又要风云再起。大家下意识地预判：这是平台的意志，抖音要重新捧出一位亿级头部，再造一个直播神话。 可事实恰恰相反。这一次复出，抖音并不积极。真正推动他回归的，不是平台，而是合肥属地。 我们先看流量的真相。新闻客户端、财经媒体全网推送这条复出新闻，铺天盖地；但在抖音站内，这件事的水花却小得可怜。 官宣当晚，大小杨哥短暂出现在直播间，简单说了几句，短短几分钟就下播。整场直播的在线人数",
-     "source": "虎嗅",
-     "zh": "观点|直播间早就没有神了，只有投流"
-    },
-    {
      "title": "网易《逆水寒：新世界》首个大型资料片【苗疆蛊事】官宣，首次采用双线更新框架",
      "link": "https://www.ithome.com/1/014/409.htm",
      "pubDate": "Sat, 17 Oct 2026 14:43:51 GMT",
      "summary": "IT之家 10 月 17 日消息，网易逆水寒官宣，10 月 30 日，《逆水寒：新世界》首个大型资料片【 苗疆蛊事 】正式开启，将首次采用双线更新的框架。 根据官方介绍，苗寨会在月色渐显时展示出另一幅面孔。而当血月升起，刚刚流连的山水，也有了让人忍不住追问的秘密。 循着蛊影深入，在 【祈梦月见岭】与阿初一同直面姬玄霜 ； 月相轮转，下一次又会遇见怎样的挑战？ 无更暗市里，异闻百相真假难辨 ，就连熟悉的菠萝农场，也被一群夜晚的不速之客找上了门…… 《逆水寒：新世界》首个大型资料片【苗疆蛊事】将带来全新地图【月见岭】、大理正传终章剧情、月见岭正传楔章、全新团本【祈梦月见岭】、全新月相机制。 新资料",
      "source": "IT之家",
      "zh": "网易《逆水寒：新世界》首个大型资料片【苗疆蛊事】官宣，首次采用双线更新框架"
-    },
-    {
-     "title": "动辄千集的AI短剧，越长越赚钱？",
-     "link": "https://www.huxiu.com/article/4898336.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 22:36:54 +0800",
-     "summary": "本文来自微信公众号： 叁拾代 ，作者：叁拾代 AI提高了制作效率，长篇网文则为持续开发提供了充足的故事。有漫剧从业者估算，单季爆款收入约在100万至200万元之间，十季收入在千万以上。 从多季连载到一次性上线千集，超长篇正在成为头部漫剧的主流形态。 DataEye发布的9月红果AI剧／漫剧百强榜中，系列IP由8月的23个增至41个，100部作品中，61部为系列续作。据红果官方战报，《万妖图录传》第十三季10月1日上线，10月3日观看量突破10亿；《聚宝仙盆之杂灵根才是真BOSS》第十二季也在10月6日公布观看量突破10亿。《三千庇护》从2月上线第一季，到10月已连载35季。 不只是季数增加，单",
-     "source": "虎嗅",
-     "zh": "动辄千集的AI短剧，越长越赚钱？"
     },
     {
      "title": "英伟达否认 RTX 5090 停产传闻，承认供应链产能受限",
@@ -1877,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "US federal budget deficit jumps 12% in one year to nearly $2 Trillion",
      "link": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html",
      "pubDate": "Sat, 17 Oct 2026 14:22:05 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html Comments URL: https://news.ycombinator.com/item?id=50131440 Points: 12 # Comments: 5",
+     "summary": "Article URL: https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html Comments URL: https://news.ycombinator.com/item?id=50131440 Points: 82 # Comments: 71",
      "source": "Hacker News",
      "zh": "US federal budget deficit jumps 12% in one year to nearly $2 Trillion"
     },
@@ -1890,26 +1866,10 @@ window.INDUSTRY_DATA = {
      "zh": "倍思推出 2026 新国标 45W 自带双线移动电源：2C+1A+1Lightning，20000mAh 电芯售 171 元"
     },
     {
-     "title": "谁更需要这场双11 ？",
-     "link": "https://www.huxiu.com/article/4898335.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 22:12:43 +0800",
-     "summary": "本文来自微信公众号： 版面之外 ，作者：画画，原文标题：《谁更需要这场双 11 ？》 双11的电商大战正式打响了。 10月15日，京东和天猫把发布会安排在同一天。往年，两家通常错开节奏，轮流占据舆论焦点。今年，谁也不让。 撞期还不是最有意思的。更有意思的是，两家讲的内容都变了。 一年中最重要的卖货时刻，京东把大量时间留给了服务，天猫把AI推到了台前。 低价还在，却不再是发布会最想强调的东西。 双11走到第18年，平台开始重新回答一个问题：这场大促，究竟还能为自己带来什么？ 一、低价之外，还得有别的 京东今年11.11的主题叫“又好又便宜”，但相关内容只讲了十几分钟。 占据更多发布时间的，是京东",
-     "source": "虎嗅",
-     "zh": "谁更需要这场双11 ？"
-    },
-    {
-     "title": "AI黑客大行其道，AV女优都转码了",
-     "link": "https://www.huxiu.com/article/4898334.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 22:10:26 +0800",
-     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 01：一人成军 最近，韩国金融圈出了件大事。 9月底到10月初，韩国多家金融机构接连遭到网络攻击，大量客户个人信息被泄露，具体严重到什么程度？ 根据韩媒报道，新韩银行约2.5万名客户的信息遭到泄露，KB国民银行也报告了多起数据泄露事件，至于泄露的总量，韩国媒体报道的数字是七家机构约6.8万条记录！ 属实搞了波大的 以至于让韩国总统李在明都亲自下场要求政府需加强应对网络安全威胁。 当韩国警方和监管部门还在展开调查时，10月7日，美国网络安全公司CrowdStrike率先发布了一份调查报告，揭开了这起攻击事件背后更多离谱的细节...... 调查",
-     "source": "虎嗅",
-     "zh": "AI黑客大行其道，AV女优都转码了"
-    },
-    {
      "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
      "pubDate": "Sat, 17 Oct 2026 14:01:01 +0000",
-     "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 131 # Comments: 55",
+     "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 179 # Comments: 93",
      "source": "Hacker News",
      "zh": "Solar surpasses nuclear power globally for first time – pv magazine Global"
     },
@@ -1925,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Making Chicken Transparent Using Dorito Dust",
      "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
      "pubDate": "Sat, 17 Oct 2026 13:55:28 +0000",
-     "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 55 # Comments: 21",
+     "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 79 # Comments: 32",
      "source": "Hacker News",
      "zh": "Making Chicken Transparent Using Dorito Dust"
     },
@@ -1933,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
      "link": "https://github.com/mikroverk/esp32sim",
      "pubDate": "Sat, 17 Oct 2026 13:51:08 +0000",
-     "summary": "Article URL: https://github.com/mikroverk/esp32sim Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 14 # Comments: 0",
+     "summary": "Article URL: https://github.com/mikroverk/esp32sim Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 25 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: Esp32sim – Run ESP32 firmware in the browser"
     },
@@ -1973,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
      "link": "https://dl.acm.org/doi/10.1145/358453.358459",
      "pubDate": "Sat, 17 Oct 2026 11:20:52 +0000",
-     "summary": "Article URL: https://dl.acm.org/doi/10.1145/358453.358459 Comments URL: https://news.ycombinator.com/item?id=50130079 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://dl.acm.org/doi/10.1145/358453.358459 Comments URL: https://news.ycombinator.com/item?id=50130079 Points: 15 # Comments: 1",
      "source": "Hacker News",
      "zh": "The future of programming – A.I. Wasserman and S. Gutz (1982)"
     },
@@ -2000,6 +1960,46 @@ window.INDUSTRY_DATA = {
      "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
      "source": "Ars Technica",
      "zh": "Why BioWare's Neverwinter Nights still has thousands of active players"
+    },
+    {
+     "title": "HTC Made Smart Glasses That Are Way More Private",
+     "link": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+     "pubDate": "Sat, 17 Oct 2026 10:30:00 +0000",
+     "summary": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
+     "source": "WIRED",
+     "zh": "HTC Made Smart Glasses That Are Way More Private"
+    },
+    {
+     "title": "Don’t Let a Crypto Inheritance Get Stuck on the Blockchain",
+     "link": "https://www.wired.com/story/crypto-inheritance-how-to/",
+     "pubDate": "Sat, 17 Oct 2026 10:30:00 +0000",
+     "summary": "Claiming an inheritance of Bitcoin or other cryptocurrency can be like hunting for buried treasure. It doesn’t have to be.",
+     "source": "WIRED",
+     "zh": "Don’t Let a Crypto Inheritance Get Stuck on the Blockchain"
+    },
+    {
+     "title": "An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more (Nilay Patel/The Verge)",
+     "link": "https://www.techmeme.com/261017/p9#a261017p9",
+     "pubDate": "Sat, 17 Oct 2026 05:35:00 -0400",
+     "summary": "Nilay Patel / The Verge : An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more &nbsp; &mdash;&nbsp; Today, I'm talking with Benn Jordan, musician, YouTuber, researcher, and investigative journ",
+     "source": "Techmeme",
+     "zh": "An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more (Nilay Patel/The Verge)"
+    },
+    {
+     "title": "上下文争夺，为何成了办公AI新战场？",
+     "link": "https://www.tmtpost.com/8171629.html",
+     "pubDate": "Sat, 17 Oct 2026 17:29:19 +0800",
+     "summary": "从内部协作到客户经营，办公AI加速进化",
+     "source": "钛媒体",
+     "zh": "上下文争夺，为何成了办公AI新战场？"
+    },
+    {
+     "title": "中策挖导演，上策挖高管！索尼抢人大战背后，好莱坞的天又要变了",
+     "link": "https://www.tmtpost.com/8171618.html",
+     "pubDate": "Sat, 17 Oct 2026 17:29:16 +0800",
+     "summary": "与其挑选千里马，不如直接挖走伯乐",
+     "source": "钛媒体",
+     "zh": "中策挖导演，上策挖高管！索尼抢人大战背后，好莱坞的天又要变了"
     }
    ]
   },
@@ -2009,6 +2009,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Anbernic's RG DDS is almost double the price of the original Nintendo 3DS",
+     "link": "https://www.engadget.com/2289602/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/",
+     "pubDate": "Sat, 17 Oct 2026 16:15:11 +0000",
+     "summary": "The premium handheld is expected to start shipping in December.",
+     "source": "Engadget",
+     "zh": "Anbernic's RG DDS is almost double the price of the original Nintendo 3DS"
+    },
+    {
+     "title": "This Samsung Galaxy feature can protect you from untrustworthy apps",
+     "link": "https://www.engadget.com/2284034/samsung-galaxy-feature-protects-from-untrustworth-apps-auto-blocker/",
+     "pubDate": "Sat, 17 Oct 2026 16:00:00 +0000",
+     "summary": "Samsung's Auto Blocker protects your Galaxy phone from security threats, but it does have drawbacks. Here's what it does and when you might want to turn it off.",
+     "source": "Engadget",
+     "zh": "This Samsung Galaxy feature can protect you from untrustworthy apps"
+    },
+    {
+     "title": "EE announces iPhone Handoff pricing details for UK customers",
+     "link": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/",
+     "pubDate": "Sat, 17 Oct 2026 15:54:02 +0000",
+     "summary": "As part of its iPhone Duo preorder announcement, UK carrier EE has announced pricing details for iPhone Handoff – making it the first carrier in the UK to do so. Here are the details. more…",
+     "source": "9to5Mac",
+     "zh": "EE announces iPhone Handoff pricing details for UK customers"
+    },
     {
      "title": "Why are some locations blurred out on Google Maps?",
      "link": "https://www.engadget.com/2284032/why-some-places-blurry-google-maps/",
@@ -2026,12 +2050,12 @@ window.INDUSTRY_DATA = {
      "zh": "Honor Win2 teased once again with world's first 2K 185Hz display"
     },
     {
-     "title": "The Apple HomeView already lost to one of the most unloved Google product in my house",
+     "title": "The Apple HomeView already lost to one of the most unloved Google products in my house",
      "link": "https://www.androidauthority.com/apple-homeview-vs-pixel-tablet-missing-features-3723785/",
      "pubDate": "Sat, 17 Oct 2026 15:00:07 +0000",
      "summary": "The Google Pixel Tablet's simple versatility gives it the edge over Apple's first try at a smart home hub.",
      "source": "Android Authority",
-     "zh": "The Apple HomeView already lost to one of the most unloved Google product in my house"
+     "zh": "The Apple HomeView already lost to one of the most unloved Google products in my house"
     },
     {
      "title": "Common problems with Amazon Alexa and how to fix them",
@@ -2072,22 +2096,6 @@ window.INDUSTRY_DATA = {
      "summary": "Abby was kind enough to take me through the darkroom process",
      "source": "DPReview",
      "zh": "What I learned from printing a photo for the first time"
-    },
-    {
-     "title": "Verizon will charge you $10 a month for iPhone Handoff",
-     "link": "https://www.engadget.com/2289578/verizon-10-a-month-iphone-handoff/",
-     "pubDate": "Sat, 17 Oct 2026 13:45:16 +0000",
-     "summary": "iPhone Handoff, which lets you share the same number on two devices, will cost you $10 a month on Verizon.",
-     "source": "Engadget",
-     "zh": "Verizon will charge you $10 a month for iPhone Handoff"
-    },
-    {
-     "title": "Why Xiaomi phones have so many ads (and how to block them)",
-     "link": "https://www.engadget.com/2284023/xiaomi-phone-why-so-many-ads/",
-     "pubDate": "Sat, 17 Oct 2026 13:45:00 +0000",
-     "summary": "Xiaomi phone users know these phones have too many ads, and the reason is very simple. Learn how to remove them so they're not a hassle anymore.",
-     "source": "Engadget",
-     "zh": "Why Xiaomi phones have so many ads (and how to block them)"
     },
     {
      "title": "PSA: Apple’s official silicone iPhone Duo case will require adhesive to stick",
@@ -2234,14 +2242,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple poaches longtime Meta executive to lead global litigation"
     },
     {
-     "title": "Apple’s new App Store rules crack down on AI nudification and ‘bait-and-switch’ apps",
-     "link": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/",
-     "pubDate": "Fri, 16 Oct 2026 22:17:07 +0000",
-     "summary": "Apple updated its App Review Guidelines today with a series of changes meant to strengthen protections against harmful content and deceptive app review practices. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple’s new App Store rules crack down on AI nudification and ‘bait-and-switch’ apps"
-    },
-    {
      "title": "Pixelated 121: Is Googlebook the first real post-smartphone PC?",
      "link": "https://9to5google.com/2026/10/16/pixelated-121-is-googlebook-the-first-real-post-smartphone-pc/",
      "pubDate": "Fri, 16 Oct 2026 21:00:00 +0000",
@@ -2258,6 +2258,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Real estate stocks surge as rate hike odds decrease",
+     "link": "https://seekingalpha.com/news/4653963-real-estate-stocks-surge-as-rate-hike-odds-decrease?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 17 Oct 2026 12:00:16 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Real estate stocks surge as rate hike odds decrease"
+    },
+    {
+     "title": "SpaceX satellite system not fully operational in Ukraine yet, Zelensky says",
+     "link": "https://seekingalpha.com/news/4654041-spacex-satellite-system-not-fully-restored-ukraine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 17 Oct 2026 11:54:48 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SpaceX satellite system not fully operational in Ukraine yet, Zelensky says"
+    },
+    {
      "title": "Earnings Scoreboard: 83% of S&P 500 early reporters beat EPS estimates as Y/Y profit growth hits 23 firms",
      "link": "https://seekingalpha.com/news/4653292-earnings-scoreboard-83-of-sp-500-early-reporters-beat-eps-estimates-as-yy-profit-growth-hits-23-firms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 17 Oct 2026 11:30:41 -0400",
@@ -2266,60 +2282,12 @@ window.INDUSTRY_DATA = {
      "zh": "Earnings Scoreboard: 83% of S&P 500 early reporters beat EPS estimates as Y/Y profit growth hits 23 firms"
     },
     {
-     "title": "烯草酮价跌叠加汇兑损失 先达股份第三季度由盈转亏 年内股价跌29%",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899086741.html",
-     "pubDate": "Sat, 17 Oct 2026 23:30:28 +0800",
-     "summary": "10月17日， 农药 龙头企业 先达股份 （603086）发布前三季度业绩预告，预计2026年前三季度归母净利润4500万元~5000万元，同比减少74.48%~77.03%。扣非净利润为4,220万元到4,720万元，与上年同期相比，将减少13,988.82万~14,488.82万元，同比减少74.77%~ 77.44%。 经测算，第三季度单季度归母净利润预计亏损2237万元-2737万元，从上年同期盈利近6000万元，直接转为单季度亏损超2000万元，同比降137%至146%。 对比今年第二季度的5040万元净利润，环比亦由盈转亏。 对于净利润较上年同期大幅下降的原因， 先达股份 称，主要",
-     "source": "东方财富股票",
-     "zh": "烯草酮价跌叠加汇兑损失 先达股份第三季度由盈转亏 年内股价跌29%"
-    },
-    {
-     "title": "以色列犹太人定居者在约旦河西岸袭击欧洲外交官车辆",
-     "link": "http://finance.eastmoney.com/news/1351,202610173899086210.html",
-     "pubDate": "Sat, 17 Oct 2026 23:25:36 +0800",
-     "summary": "当地时间17日自以色列方面获悉，来自法国、比利时和波兰的外交官当天在约旦河西岸参加橄榄采摘活动时，遭到以色列犹太人定居者袭击。 有目击者称，当时有七名蒙着面的以色列犹太人定居者抵达该地区，随后包围了外交官的车辆。他们不仅要求查看外交官的身份证件，还砸碎了属于比利时领事馆的一辆 汽车 的车窗。 此外，法国方面有消息称，一名法国市长遭到殴打。一名外交官表示，该市长目前没有生命危险。 以色列警方表示，将就此事件展开调查。 近期在约旦河西岸，犹太人定居者针对当地巴勒斯坦人的袭击事件不断增多。自橄榄收获季开始以来，定居者频繁偷抢收成、阻挠采摘、焚烧橄榄树，造成多人受伤。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "以色列犹太人定居者在约旦河西岸袭击欧洲外交官车辆"
-    },
-    {
-     "title": "信披违法违规罚单落地 *ST广糖及相关责任人合计被罚930万元",
-     "link": "http://stock.eastmoney.com/news/11215,202610173899086451.html",
-     "pubDate": "Sat, 17 Oct 2026 23:25:22 +0800",
-     "summary": "10月16日晚间，广西农投糖业集团股份有限公司（简称“ *ST广糖 ”，000911.SZ）公告称，公司及相关当事人收到广西证监局下发的《行政处罚决定书》。因2023年、2024年年度报告存在虚假记载，公司被责令改正、给予警告，并处罚款400万元；5名相关责任人被给予警告并合计被罚530万元，罚款总额为930万元。 根据《行政处罚决定书》， *ST广糖 存在两项违法事实。其一，子公司南宁云鸥 物流 股份有限公司（简称“云鸥 物流 ”）跨期确认部分运输仓储业务收入，导致公司2023年虚增营业收入476.96万元、虚增利润总额1618.88万元；2024年虚减营业收入529.74万元、虚增利润总额",
-     "source": "东方财富股票",
-     "zh": "信披违法违规罚单落地 *ST广糖及相关责任人合计被罚930万元"
-    },
-    {
-     "title": "因招股书及年报虚假记载 ST佳缘及4名责任人合计被罚1450万元",
-     "link": "http://stock.eastmoney.com/news/11215,202610173899086536.html",
-     "pubDate": "Sat, 17 Oct 2026 23:25:21 +0800",
-     "summary": "10月16日晚间，佳缘科技股份有限公司（简称“ ST佳缘 、佳缘科技”，301117.SZ）公告称，公司于当日收到证监会下发的《行政处罚决定书》。因《首次公开发行股票并在创业板上市招股说明书》（简称《招股说明书》）及上市后年报存在虚假记载，公司被责令改正、给予警告，并处罚款600万元；4名相关责任人合计被罚850万元，罚款总额1450万元。 根据《行政处罚决定书》， ST佳缘 存在两项违法事实。其一，提前确认收入。公司自2019年起与某客户开展网络信息安全业务，该客户为公司2019年第二大客户、2020年第一大客户。2019年、2021年、2022年，公司在不符合收入确认条件的情况下提前确认收",
-     "source": "东方财富股票",
-     "zh": "因招股书及年报虚假记载 ST佳缘及4名责任人合计被罚1450万元"
-    },
-    {
-     "title": "因隐瞒关联交易 *ST动力及5名责任人被罚2580万元",
-     "link": "http://stock.eastmoney.com/news/11215,202610173899086682.html",
-     "pubDate": "Sat, 17 Oct 2026 23:25:21 +0800",
-     "summary": "10月16日晚间，雄安新动力科技股份有限公司（简称“ *ST动力 、新动力”，300152.SZ）公告称，公司于当日收到证监会河北监管局下发的《行政处罚决定书》。因在对外投资公告及多份定期报告中隐瞒与关联方河北诺安股权投资基金管理有限公司（简称“诺安基金”）的关联关系，公司被责令改正、给予警告，并处罚款500万元；5名相关责任人合计被罚2080万元，罚款总额2580万元。 根据《行政处罚决定书》， *ST动力 存在以下违法事实：2016年6月至2024年10月，毛凤丽为公司实际控制人。毛凤丽不晚于2020年9月28日实际控制诺安基金。因公司与诺安基金共同被毛凤丽控制，诺安基金构成公司的关联人。",
-     "source": "东方财富股票",
-     "zh": "因隐瞒关联交易 *ST动力及5名责任人被罚2580万元"
-    },
-    {
      "title": "What investors need to know about America's fastest-growing coffee chain",
      "link": "https://seekingalpha.com/news/4654040-what-investors-need-to-know-about-americas-fastest-growing-coffee-chain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 17 Oct 2026 11:24:37 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "What investors need to know about America's fastest-growing coffee chain"
-    },
-    {
-     "title": "厚植互信根基 聚力合作共赢——2026珠江国际贸易论坛成功举办",
-     "link": "http://finance.eastmoney.com/news/1348,202610173899087164.html",
-     "pubDate": "Sat, 17 Oct 2026 23:21:03 +0800",
-     "summary": "在广交会创办70周年之际，2026珠江国际贸易论坛于10月16日在广交会堂举办。本次论坛以“厚植互信根基聚力合作共赢”为主题，围绕推动建设开放型世界经济格局、拓展国际经贸互利合作空间等核心主旨，汇聚来自国际组织、顶尖智库、中外领军企业、商协会及海内外展客商代表，聚焦全球经贸变局下中国企业出海新赛道、贸投一体化创新实践、境外产业园区国际协同等前沿议题，充分释放广交会作为中国扩大高水平对外开放、推动建设开放型世界经济的有效平台价值。 本届论坛形式创新、阵容多元，特别设置权威对谈、机遇洞察专题分享、资源对接等环节，构建“理论解读—实践案例—务实对接”完整闭环，推动论坛共识直接转化为合作意向。 世界贸",
-     "source": "东方财富股票",
-     "zh": "厚植互信根基 聚力合作共赢——2026珠江国际贸易论坛成功举办"
     },
     {
      "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
@@ -2354,28 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "&apos;Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds"
     },
     {
-     "title": "Kennedy, White House officials to revive food policy talks next week: Politico",
-     "link": "https://seekingalpha.com/news/4654039-kennedy-usofficials-revive-food-policy-talks-next-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 17 Oct 2026 10:48:05 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Kennedy, White House officials to revive food policy talks next week: Politico"
-    },
-    {
      "title": "探索中国自主译学理论的世界性发展 第四届知识翻译学学术研讨会在渝开幕",
      "link": "http://www.eeo.com.cn/2026/1017/1068429.shtml",
      "pubDate": "Sat, 17 Oct 2026 22:26:14 +0800",
      "summary": "第1眼TV-华龙网讯（记者 秦思思）10月17日，中外语言文化比较学会知识翻译学专业委员会（2026）年会暨第四届知识翻译学学术研讨会在四川外国语大学举行。本次会议以“从地方性到世界性：知识翻译学的理论深化与应用拓展”为主题，吸引全国百余所高校的专家学者与会，共同探讨中国原创翻译学理论的发展路径与应用空间。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/AA920B4B5404C7023338FA...",
      "source": "经济观察网",
      "zh": "探索中国自主译学理论的世界性发展 第四届知识翻译学学术研讨会在渝开幕"
-    },
-    {
-     "title": "Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus",
-     "link": "https://seekingalpha.com/news/4653959-notable-tech-headlines-for-the-week-coreweave-tsmc-anthropic-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 17 Oct 2026 10:10:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus"
     },
     {
      "title": "IMF总裁警告AI失控风险",
@@ -2496,6 +2448,54 @@ window.INDUSTRY_DATA = {
      "summary": "As earnings season kicks off, select tech companies have the opportunity to deliver big positive surprises for investors.",
      "source": "MarketWatch",
      "zh": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays"
+    },
+    {
+     "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+     "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+     "pubDate": "Sat, 17 Oct 2026 12:00:00 GMT",
+     "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+     "source": "MarketWatch",
+     "zh": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?"
+    },
+    {
+     "title": "罕见！资金大规模出逃！美股做空者7天暴赚2140亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202610173899057249.html",
+     "pubDate": "Sat, 17 Oct 2026 18:59:12 +0800",
+     "summary": "过去几天，随着资金大规模出逃，美股 半导体 股遭遇历史性暴跌。 根据彭博社汇编的S3 Partners数据，在10月7日至10月15日的7个交易日中，押注 半导体 股票下跌的做空者累计获得约320亿美元的账面总收益，约合人民币2140亿元；同期，费城 半导体 指数（SOX）下跌逾12%。 本周五（10月16日），费城半导体指数再度大跌近4%。数据显示，10月7日至10月16日，该指数累计跌幅超过15%，整个美股半导体板块市值合计蒸发近2.3万亿美元。 市场对借贷成本上升、估值高企以及AI基础设施巨额支出的担忧，正拖累芯片制造商和更广泛的市场。SLC Management投资策略与资产配置董事总",
+     "source": "东方财富资讯",
+     "zh": "罕见！资金大规模出逃！美股做空者7天暴赚2140亿元"
+    },
+    {
+     "title": "下周2只新股开启申购！超千亿解禁潮将至 6股解禁比例均超50%（附股）",
+     "link": "http://finance.eastmoney.com/news/1354,202610173899054283.html",
+     "pubDate": "Sat, 17 Oct 2026 18:21:57 +0800",
+     "summary": "下周A股解禁总市值达1004.25亿元。 2只新股下周即将申购 据证券时报·数据宝统计，根据发行安排，下周暂有2只新股申购。 下周一（10月19日）可申购 皇冠新材 ，申购代码为001381，拟公开发行A股5630.48万股，其中网上发行1351.30万股，发行价格为16.98元，单一账户申购上限为13500股，申购数量为500股的整数倍，顶格申购需持有深市市值13.50万元。公司2023年—2025年净利润分别为2.78亿元、3.02亿元、3.09亿元，同比变动幅度为35.06%、8.92%、2.28%。 下周二（10月20日）可申购 天元重工 ，申购代码为920306，本次初始发行股份总量",
+     "source": "东方财富资讯",
+     "zh": "下周2只新股开启申购！超千亿解禁潮将至 6股解禁比例均超50%（附股）"
+    },
+    {
+     "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+     "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+     "pubDate": "Sat, 17 Oct 2026 10:20:44 GMT",
+     "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+     "source": "CNBC",
+     "zh": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest"
+    },
+    {
+     "title": "Trump exempts Russia from further sanctions mandated by new law",
+     "link": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
+     "pubDate": "Sat, 17 Oct 2026 09:53:31 GMT",
+     "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
+     "source": "Financial Times",
+     "zh": "Trump exempts Russia from further sanctions mandated by new law"
+    },
+    {
+     "title": "三季度净利环比增幅哪家强？算力企业摘得桂冠 PCB行业表现抢眼",
+     "link": "http://finance.eastmoney.com/news/11158,202610173899051127.html",
+     "pubDate": "Sat, 17 Oct 2026 17:46:57 +0800",
+     "summary": "①共有155家发布业绩预告，从三季度净利环比下限情况来看，61家实现环比增长；②排名靠前的分别为 元件 （ PCB ）10家、 半导体 9家、化工6家、制药4家、 通信设备 3家。 截至10月17日，A股共有155家发布业绩预告，从三季度净利环比下限情况来看，61家实现环比增长。行业上看，排名靠前的分别为 元件 （ PCB ）10家、 半导体 9家、化工6家、制药4家、 通信设备 3家。 环比增幅排名前十的公司为 行云科技 （569.35%）、 美年健康 （276.31%）、 崇达技术 （269.64%）、 杰创智能 （264.60%）、 华通线缆 （220.08%）、 兴森科技 （215.4",
+     "source": "东方财富资讯",
+     "zh": "三季度净利环比增幅哪家强？算力企业摘得桂冠 PCB行业表现抢眼"
     }
    ]
   },

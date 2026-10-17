@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/18 02:53:15",
+ "generated_at": "2026/10/18 03:03:09",
  "recent_days": 7,
  "industries": [
   {
@@ -102,7 +102,7 @@
      "pubDate": "Sat, 17 Oct 2026 00:09:12 +0000",
      "summary": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For teams",
      "source": "MarkTechPost",
-     "zh": "Perplexity 开源 SPACE，一个用于 AI 代理的 Firecracker MicroVM 沙箱"
+     "zh": "Perplexity 开源 SPACE，一个用于 AI 代理的 Firecracker MicroVM 沙盒"
     },
     {
      "title": "How Itaú is building generative AI for its entire customer base",
@@ -414,7 +414,7 @@
      "pubDate": "Fri, 16 Oct 2026 10:03:49 +0100",
      "summary": "The Department of Commerce’s CHIPS Program Office has agreed with GlobalFoundries of Malta, NY (the only US-based pure-play foundry with a global manufacturing footprint) to amend its existing award and reallocate up to $955m in incentives under the US CHIPS and Science Act...",
      "source": "Semiconductor Today",
-     "zh": "GlobalFoundries 的 CHIPS 计划奖项修改为支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
+     "zh": "GlobalFoundries 的 CHIPS 计划奖项经过修改，以支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
     },
     {
      "title": "Infineon and Wolfspeed expand and extend long-term SiC wafer supply agreement to 200mm",
@@ -734,7 +734,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:42:51 +0000",
      "summary": "Montréal Metropolitan Airport now has 120 EV chargers online, with another 48 on the way as the airport expands. more…",
      "source": "Electrek",
-     "zh": "蒙特利尔机场现已拥有 120 个电动汽车充电器，还有 48 个正在建设中"
+     "zh": "蒙特利尔机场现有 120 个电动汽车充电器，还有 48 个正在建设中"
     },
     {
      "title": "Podcast: The Tesla Roadster episode",
@@ -958,7 +958,7 @@
      "pubDate": "Sat, 17 Oct 2026 01:32:58 +0000",
      "summary": "We estimate that U.S. generation from small-scale or rooftop solar photovoltaic systems (smaller than 1 megawatt of capacity) has increased from 18,812 gigawatthours (GWh) to 92,979 GWh over the last decade. The four states with the highest generation of small-scale solar in the country—California, ",
      "source": "CleanTechnica",
-     "zh": "过去十年美国小型太阳能发电量增加了四倍"
+     "zh": "过去十年美国小型太阳能发电量增长了四倍"
     },
     {
      "title": "EU Long-Term Budget Crunch: What To Watch For At The EU Leaders’ Summit On 15-16 October",
@@ -1078,7 +1078,7 @@
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
-     "zh": "GES 为四个西班牙太阳能光伏项目获得 2.52 亿美元的 EPC 合同"
+     "zh": "GES 获得四个西班牙太阳能光伏项目价值 2.52 亿美元的 EPC 合同"
     },
     {
      "title": "US clean energy jobs fell in 2025 for the first time in years",
@@ -1246,7 +1246,7 @@
      "pubDate": "Fri, 16 Oct 2026 12:34:03 +0000",
      "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022…",
      "source": "STAT News",
-     "zh": "在观看有关伊丽莎白·霍姆斯的新纪录片之前要读什么"
+     "zh": "观看有关伊丽莎白·霍姆斯的新纪录片之前要读什么"
     },
     {
      "title": "Next-gen RNAi drugmaker City prices $200M IPO",
@@ -1326,7 +1326,7 @@
      "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
      "summary": "John Stewart goes rogue in Sector 2814 and embraces fear hopefully leading into season 2",
      "source": "Space.com",
-     "zh": "《灯笼》令人震惊的结局给我们留下了很多关于第二季悬而未决的问题"
+     "zh": "《灯笼》令人震惊的结局给我们留下了许多关于第二季悬而未决的问题"
     },
     {
      "title": "The Orionid meteor shower peaks next week! Here's what to expect",
@@ -1422,7 +1422,7 @@
      "pubDate": "Fri, 16 Oct 2026 03:49:06 +0000",
      "summary": "Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems… The post Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027 appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "碳纤维问题迫使火箭实验室将中子首次亮相推迟到不早于 2027 年"
+     "zh": "碳纤维问题迫使火箭实验室将中子首次亮相推迟至不早于 2027 年"
     },
     {
      "title": "UKSA Taps ClearSpace for Country’s First Debris Removal Mission",
@@ -1761,26 +1761,34 @@
    "total": 18,
    "items": [
     {
+     "title": "MapQuest adds a Surveillance Layer to its mobile app showing license plate readers and cameras from 10+ companies including Flock, using OpenStreetMap data (Chase DiBenedetto/Mashable)",
+     "link": "https://www.techmeme.com/261017/p15#a261017p15",
+     "pubDate": "Sat, 17 Oct 2026 15:00:01 -0400",
+     "summary": "Chase DiBenedetto / Mashable : MapQuest adds a Surveillance Layer to its mobile app showing license plate readers and cameras from 10+ companies including Flock, using OpenStreetMap data &nbsp; &mdash;&nbsp; MapQuest will not go gentle into that good night.&nbsp; &mdash;&nbsp; The navigation softwar",
+     "source": "Techmeme",
+     "zh": "MapQuest 在其移动应用程序中添加了一个监视层，使用 OpenStreetMap 数据（Chase DiBenedetto/Mashable）显示来自包括 Flock 在内的 10 多家公司的车牌读取器和摄像头"
+    },
+    {
+     "title": "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
+     "link": "https://twitter.com/anemll/status/2111517143087067309",
+     "pubDate": "Sat, 17 Oct 2026 18:10:21 +0000",
+     "summary": "Article URL: https://twitter.com/anemll/status/2111517143087067309 Comments URL: https://news.ycombinator.com/item?id=50133500 Points: 12 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "iPhone 18 神经引擎上的 Qwen3.8-27B，速度为 15–70 tok/s (1.5 bpw)"
+    },
+    {
      "title": "OpenCode Hacked: User credentials leaked",
      "link": "https://twitter.com/opencode/status/2111516673953935833",
      "pubDate": "Sat, 17 Oct 2026 18:01:41 +0000",
-     "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 31 # Comments: 11",
+     "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 75 # Comments: 21",
      "source": "Hacker News",
      "zh": "OpenCode 遭黑客攻击：用户凭据泄露"
-    },
-    {
-     "title": "Masked settlers attack European diplomats in occupied West Bank",
-     "link": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
-     "pubDate": "Sat, 17 Oct 2026 17:49:59 +0000",
-     "summary": "Article URL: https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank Comments URL: https://news.ycombinator.com/item?id=50133286 Points: 14 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "蒙面定居者在被占领的约旦河西岸袭击欧洲外交官"
     },
     {
      "title": "Development statistics for the 7.2 kernel",
      "link": "https://lwn.net/Articles/1088776/",
      "pubDate": "Sat, 17 Oct 2026 17:14:12 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1088776/ Comments URL: https://news.ycombinator.com/item?id=50132950 Points: 64 # Comments: 23",
+     "summary": "Article URL: https://lwn.net/Articles/1088776/ Comments URL: https://news.ycombinator.com/item?id=50132950 Points: 75 # Comments: 30",
      "source": "Hacker News",
      "zh": "7.2 内核的开发统计"
     },
@@ -1788,7 +1796,7 @@
      "title": "tsc-ts: TypeScript written in TypeScript",
      "link": "https://github.com/vercel-labs/tsc-ts",
      "pubDate": "Sat, 17 Oct 2026 17:10:27 +0000",
-     "summary": "Article URL: https://github.com/vercel-labs/tsc-ts Comments URL: https://news.ycombinator.com/item?id=50132911 Points: 9 # Comments: 7",
+     "summary": "Article URL: https://github.com/vercel-labs/tsc-ts Comments URL: https://news.ycombinator.com/item?id=50132911 Points: 13 # Comments: 14",
      "source": "Hacker News",
      "zh": "tsc-ts：用 TypeScript 编写的 TypeScript"
     },
@@ -1812,7 +1820,7 @@
      "title": "OpenAI discloses four more rogue incidents",
      "link": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
      "pubDate": "Sat, 17 Oct 2026 16:31:12 +0000",
-     "summary": "Article URL: https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/ Comments URL: https://news.ycombinator.com/item?id=50132502 Points: 80 # Comments: 51",
+     "summary": "Article URL: https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/ Comments URL: https://news.ycombinator.com/item?id=50132502 Points: 91 # Comments: 66",
      "source": "Hacker News",
      "zh": "OpenAI又披露了四起流氓事件"
     },
@@ -1991,14 +1999,6 @@
      "summary": "Claiming an inheritance of Bitcoin or other cryptocurrency can be like hunting for buried treasure. It doesn’t have to be.",
      "source": "WIRED",
      "zh": "不要让加密继承陷入区块链"
-    },
-    {
-     "title": "An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more (Nilay Patel/The Verge)",
-     "link": "https://www.techmeme.com/261017/p9#a261017p9",
-     "pubDate": "Sat, 17 Oct 2026 05:35:00 -0400",
-     "summary": "Nilay Patel / The Verge : An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more &nbsp; &mdash;&nbsp; Today, I'm talking with Benn Jordan, musician, YouTuber, researcher, and investigative journ",
-     "source": "Techmeme",
-     "zh": "对 YouTuber Benn Jordan 的采访，他最近在国会作证反对车牌阅读器，涉及 Flock、隐私、监控的强烈反对等（Nilay Patel/The Verge）"
     }
    ]
   },
@@ -2265,6 +2265,14 @@
      "zh": "SA 问：新款 Roadster 对特斯拉的未来有多重要？"
     },
     {
+     "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+     "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+     "pubDate": "Sat, 17 Oct 2026 18:52:00 GMT",
+     "summary": "Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment.",
+     "source": "MarketWatch",
+     "zh": "虚假购物狂潮和“幸福保险”：最新的金融科技应用揭示了我们的财务焦虑"
+    },
+    {
      "title": "Stellantis to recruit hundreds of engineers from U.S. and Europe",
      "link": "https://seekingalpha.com/news/4654045-stellantis-hire-engineers-from-us-europe?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 17 Oct 2026 14:51:01 -0400",
@@ -2294,7 +2302,7 @@
      "pubDate": "Sat, 17 Oct 2026 18:40:00 GMT",
      "summary": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
      "source": "MarketWatch",
-     "zh": "苹果的可折叠 iPhone Duo 值 2000 美元吗？了解它与其他可折叠手机相比如何。"
+     "zh": "苹果的可折叠 iPhone Duo 值 2000 美元吗？看看它与其他可折叠手机相比如何。"
     },
     {
      "title": "也门胡塞武装称击落沙特方面一架“阿帕奇”直升机",
@@ -2382,7 +2390,7 @@
      "pubDate": "Sat, 17 Oct 2026 11:54:48 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "泽连斯基称 SpaceX 卫星系统尚未在乌克兰全面投入使用"
+     "zh": "泽伦斯基称 SpaceX 卫星系统尚未在乌克兰全面投入使用"
     },
     {
      "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
@@ -2390,7 +2398,7 @@
      "pubDate": "Sat, 17 Oct 2026 15:11:30 GMT",
      "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
      "source": "CNBC",
-     "zh": "Software 的新整合者获得伯克希尔的大力信任"
+     "zh": "Software公司的新整合者获得了伯克希尔的大力信任"
     },
     {
      "title": "&apos;Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
@@ -2487,14 +2495,6 @@
      "summary": "今日摘要 1、习近平总书记在内蒙古乌兰察布考察时的重要讲话引发广大干部群众热烈反响。大家表示，要认真学习贯彻总书记重要讲话精神，不断塑造绿色发展新动能、新优势，因地制宜推动高质量发展。 2、李强出席2026世界传统医药大会开幕式并致辞。 3、王沪宁在四川调研。 4、今年前八个月，我国服务贸易保持较快增长，国际竞争力持续提升。 5、各地优化服务，多举措保障群众温暖过冬。 6、日本人士表示，日本应当正视历史，深刻反省战争罪行。 7、也门政府谴责胡塞武装对亚丁民用 机场 发动袭击。胡塞武装称，打击了该 机场 附近沙特的军事目标。 内容速览 厚植绿色根基，因地制宜推动高质量发展——习近平总书记在内蒙古",
      "source": "东方财富资讯",
      "zh": "10月17日晚间央视新闻联播要闻集锦"
-    },
-    {
-     "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
-     "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
-     "pubDate": "Sat, 17 Oct 2026 12:30:00 GMT",
-     "summary": "There’s a relatively off-the-radar commodity that can provide hints on where the economy is headed — and it’s seen its value drop more than 50% from a record high earlier this year.",
-     "source": "MarketWatch",
-     "zh": "白银最近从历史高位下跌 50% 暗示经济放缓迫在眉睫"
     }
    ]
   },

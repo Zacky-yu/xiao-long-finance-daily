@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/18 05:27:10",
+ "generated_at": "2026/10/18 05:33:23",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
+     "link": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/",
+     "pubDate": "Sat, 17 Oct 2026 20:22:11 +0000",
+     "summary": "Kyutai, with Inria and École des Ponts, has released REKI, a 2.4B vision-language-action model (VLA) for robot manipulation. The REKI vision-language-action model is pretrained only on public data. It also carries a cheap memory of its recent past. On three out-of-distribution benchmarks, only model",
+     "source": "MarkTechPost",
+     "zh": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation"
+    },
     {
      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
@@ -239,14 +247,6 @@
      "summary": "智东西 编译 | 栗子 编辑 | 云鹏 智东西10月16日消息，《时代》周刊2026年度“最佳发明”榜单正式公布，共收录300项正式发明和100项特别提名。今年中国产品上榜数量明显增多，覆盖消费电子、机器人、健康AI和AI支付等多个赛道。 荣耀Robot Phone是2026年度唯一上榜的中国手机品牌；宇树科技GD01载人机甲与创始人王兴兴共同登上《时代》封面；蚂蚁阿福是今年唯一上榜的中国AI应用；支付宝AI支付是全球唯一上榜的支付服务；联想ThinkPad P1 Gen 9、TCL X11L、极壳Hypershell X Ultra S外骨骼也同步入选 与往年相比，今年榜单释放出两个清晰信号",
      "source": "智东西",
      "zh": "《时代》2026最佳发明揭晓：宇树领衔，联想荣耀TCL蚂蚁上榜，AI无处不在"
-    },
-    {
-     "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
-     "link": "https://www.qbitai.com/2026/10/503829.html",
-     "pubDate": "Fri, 16 Oct 2026 07:16:11 +0000",
-     "summary": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
-     "source": "量子位",
-     "zh": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”"
     }
    ]
   },
@@ -1777,14 +1777,6 @@
      "zh": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)"
     },
     {
-     "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-     "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-     "pubDate": "Sat, 17 Oct 2026 20:07:33 +0000",
-     "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 26 # Comments: 17",
-     "source": "Hacker News",
-     "zh": "Chrome and Edge are removing XSLT: what breaks and what does not"
-    },
-    {
      "title": "Turkish police detained Hex and PulseChain founder Richard Heart on Oct. 14, seizing $7M+ in cash and six cold wallets; HEX fell nearly 50% on initial reports (Zack Abrams/The Block)",
      "link": "https://www.techmeme.com/261017/p17#a261017p17",
      "pubDate": "Sat, 17 Oct 2026 15:55:00 -0400",
@@ -1807,46 +1799,6 @@
      "summary": "Chase DiBenedetto / Mashable : MapQuest adds a Surveillance Layer to its mobile app showing license plate readers and cameras from 10+ companies including Flock, using OpenStreetMap data &nbsp; &mdash;&nbsp; MapQuest will not go gentle into that good night.&nbsp; &mdash;&nbsp; The navigation softwar",
      "source": "Techmeme",
      "zh": "MapQuest adds a Surveillance Layer to its mobile app showing license plate readers and cameras from 10+ companies including Flock, using OpenStreetMap data (Chase DiBenedetto/Mashable)"
-    },
-    {
-     "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-     "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-     "pubDate": "Sat, 17 Oct 2026 18:45:07 +0000",
-     "summary": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 21 # Comments: 16",
-     "source": "Hacker News",
-     "zh": "Microsoft and CMU Team Up to Train Early Career Software Engineers"
-    },
-    {
-     "title": "Pattern Matching Beats Narrative Reasoning",
-     "link": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
-     "pubDate": "Sat, 17 Oct 2026 18:34:13 +0000",
-     "summary": "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative Comments URL: https://news.ycombinator.com/item?id=50133736 Points: 21 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "Pattern Matching Beats Narrative Reasoning"
-    },
-    {
-     "title": "OpenCode Hacked: User credentials leaked",
-     "link": "https://twitter.com/opencode/status/2111516673953935833",
-     "pubDate": "Sat, 17 Oct 2026 18:01:41 +0000",
-     "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 438 # Comments: 79",
-     "source": "Hacker News",
-     "zh": "OpenCode Hacked: User credentials leaked"
-    },
-    {
-     "title": "Codex is EATING my Mac's disk space",
-     "link": "https://github.com/openai/codex/issues/25921",
-     "pubDate": "Sat, 17 Oct 2026 17:45:08 +0000",
-     "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 11 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Codex is EATING my Mac's disk space"
-    },
-    {
-     "title": "I Became a Citizen of Japan",
-     "link": "https://www.derekwessman.com/blog-1/natural",
-     "pubDate": "Sat, 17 Oct 2026 17:36:17 +0000",
-     "summary": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 78 # Comments: 20",
-     "source": "Hacker News",
-     "zh": "I Became a Citizen of Japan"
     },
     {
      "title": "小红书的AI，开始和自己的生意算账",
@@ -1999,6 +1951,54 @@
      "summary": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
      "source": "WIRED",
      "zh": "HTC Made Smart Glasses That Are Way More Private"
+    },
+    {
+     "title": "Don’t Let a Crypto Inheritance Get Stuck on the Blockchain",
+     "link": "https://www.wired.com/story/crypto-inheritance-how-to/",
+     "pubDate": "Sat, 17 Oct 2026 10:30:00 +0000",
+     "summary": "Claiming an inheritance of Bitcoin or other cryptocurrency can be like hunting for buried treasure. It doesn’t have to be.",
+     "source": "WIRED",
+     "zh": "Don’t Let a Crypto Inheritance Get Stuck on the Blockchain"
+    },
+    {
+     "title": "上下文争夺，为何成了办公AI新战场？",
+     "link": "https://www.tmtpost.com/8171629.html",
+     "pubDate": "Sat, 17 Oct 2026 17:29:19 +0800",
+     "summary": "从内部协作到客户经营，办公AI加速进化",
+     "source": "钛媒体",
+     "zh": "上下文争夺，为何成了办公AI新战场？"
+    },
+    {
+     "title": "中策挖导演，上策挖高管！索尼抢人大战背后，好莱坞的天又要变了",
+     "link": "https://www.tmtpost.com/8171618.html",
+     "pubDate": "Sat, 17 Oct 2026 17:29:16 +0800",
+     "summary": "与其挑选千里马，不如直接挖走伯乐",
+     "source": "钛媒体",
+     "zh": "中策挖导演，上策挖高管！索尼抢人大战背后，好莱坞的天又要变了"
+    },
+    {
+     "title": "通用大模型正在重做机器人的研发与交付",
+     "link": "https://www.tmtpost.com/8171971.html",
+     "pubDate": "Sat, 17 Oct 2026 17:29:15 +0800",
+     "summary": "VLA没有死，死的是旧分工。",
+     "source": "钛媒体",
+     "zh": "通用大模型正在重做机器人的研发与交付"
+    },
+    {
+     "title": "新能源车大变局：疯狂扩张结束，真正的淘汰赛开始了",
+     "link": "https://www.tmtpost.com/8171809.html",
+     "pubDate": "Sat, 17 Oct 2026 17:29:12 +0800",
+     "summary": "新能源汽车行业，正在悄悄转向。",
+     "source": "钛媒体",
+     "zh": "新能源车大变局：疯狂扩张结束，真正的淘汰赛开始了"
+    },
+    {
+     "title": "锅气、地气、人气，解码国潮餐饮下一轮万店新机遇",
+     "link": "https://www.tmtpost.com/8171748.html",
+     "pubDate": "Sat, 17 Oct 2026 17:29:11 +0800",
+     "summary": "中国餐饮不是在衰退，而是在换血。换掉的是工业化红利，换上来的是三样东西：锅气、地气、人气。",
+     "source": "钛媒体",
+     "zh": "锅气、地气、人气，解码国潮餐饮下一轮万店新机遇"
     }
    ]
   },
@@ -2257,6 +2257,14 @@
    "total": 13,
    "items": [
     {
+     "title": "沙特首都利雅得居民收到防空警报",
+     "link": "http://finance.eastmoney.com/news/1351,202610183899091488.html",
+     "pubDate": "Sun, 18 Oct 2026 05:20:24 +0800",
+     "summary": "当地时间18日凌晨，沙特首都利雅得居民收到防空警报。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "沙特首都利雅得居民收到防空警报"
+    },
+    {
      "title": "又一龙头股 明日申购",
      "link": "http://finance.eastmoney.com/news/1354,202610183899091323.html",
      "pubDate": "Sun, 18 Oct 2026 05:10:00 +0800",
@@ -2265,20 +2273,20 @@
      "zh": "又一龙头股 明日申购"
     },
     {
+     "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+     "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+     "pubDate": "Sat, 17 Oct 2026 20:53:00 GMT",
+     "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes.",
+     "source": "MarketWatch",
+     "zh": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers."
+    },
+    {
      "title": "莫桑比克中部交通事故造成13人死亡",
      "link": "http://finance.eastmoney.com/news/1351,202610183899091254.html",
      "pubDate": "Sun, 18 Oct 2026 04:50:07 +0800",
      "summary": "据莫桑比克媒体17日报道，该国中部太特省当天发生一起交通事故，造成至少13人死亡。 报道援引莫桑比克国家道路运输研究所的消息说，当天6时左右，太特省尚加拉区7号国道上，一辆客车在试图超车时与对向行驶的一辆小巴迎面相撞。 据当地电视台报道，事故造成9人当场死亡，20名伤者被送往太特省 医院 ，其中4人不治身亡，部分伤者伤势严重。涉事客车司机已被警方拘留，事故具体原因仍在调查中。 近年来，太特省道路交通事故频发。当地电视台17日的报道说，该省今年以来交通事故致死人数已超过40人。当地交通主管部门说，超速、酒后驾驶、驾驶员疏忽、车辆机械故障以及部分道路状况较差等问题是导致交通事故的主要原因。 （文章",
      "source": "东方财富股票",
      "zh": "莫桑比克中部交通事故造成13人死亡"
-    },
-    {
-     "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-     "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-     "pubDate": "Sat, 17 Oct 2026 20:43:00 GMT",
-     "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes.",
-     "source": "MarketWatch",
-     "zh": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers."
     },
     {
      "title": "巴消息人士：巴基斯坦打击阿富汗武装边境哨所和军营",
@@ -2303,14 +2311,6 @@
      "summary": "9月18日，平陆运河通航第三天，天航889正在南宁港牛湾作业区卸货转泊。16日，这艘船在钦州港参加了平陆运河通航仪式。 戴福辉是广西贵港人，今年34岁，从小跟父母在西江跑船。2024年，他和家人投资650万元，定制了这艘5000吨级货船。当时，平陆运河还在建设中。全家人看中的，正是运河通航后可能带来的新机会。 平陆运河全长134公里，是国内通航等级最高的运河，按内河I级标准建设，可通航5000吨级船舶。是新中国成立以来第一条国家层面统筹建设的通江达海运河工程。 平陆运河北起南宁横州市西津库区平塘江口，向南经钦州灵山县陆屋镇沿钦江进入北部湾。上游与素有“ 黄金 水道”之称的西江 航运 干线相连，",
      "source": "东方财富股票",
      "zh": "从“腹地”到“前沿” 一条运河改写西南出海版图"
-    },
-    {
-     "title": "泽连斯基：乌克兰若战败 2000万难民将涌入欧洲",
-     "link": "http://finance.eastmoney.com/news/1351,202610183899090859.html",
-     "pubDate": "Sun, 18 Oct 2026 04:00:06 +0800",
-     "summary": "据参考消息援引俄罗斯《侧面》周刊网站10月17日报道，乌克兰领导人泽连斯基在布鲁塞尔表示，乌克兰若战败，可能引发新一轮涌向欧盟的难民潮，人数或多达2000万。正因如此，基辅才请求欧洲各国加大支持力度。 他在欧洲理事会会议结束后举行的新闻发布会上说：“如果我们倒下会发生什么？我不知道具体会有多少人，可能会有2000万乌克兰人涌入欧洲。因为我们将被迫离开自己的国家。正因如此，我恳请你们帮助保卫乌克兰。” 泽连斯基还称，俄罗斯不会止步于顿巴斯。他提到关于波兰、罗马尼亚、德国、摩尔多瓦和保加利亚领空出现 无人机 的报道。泽连斯基说，此类事件考验欧洲国家应对侵犯边界事件的准备程度。他同时强调，目前尚无俄",
-     "source": "东方财富股票",
-     "zh": "泽连斯基：乌克兰若战败 2000万难民将涌入欧洲"
     },
     {
      "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as &apos;wrong&apos;",
@@ -2425,38 +2425,6 @@
      "zh": "&apos;Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds"
     },
     {
-     "title": "探索中国自主译学理论的世界性发展 第四届知识翻译学学术研讨会在渝开幕",
-     "link": "http://www.eeo.com.cn/2026/1017/1068429.shtml",
-     "pubDate": "Sat, 17 Oct 2026 22:26:14 +0800",
-     "summary": "第1眼TV-华龙网讯（记者 秦思思）10月17日，中外语言文化比较学会知识翻译学专业委员会（2026）年会暨第四届知识翻译学学术研讨会在四川外国语大学举行。本次会议以“从地方性到世界性：知识翻译学的理论深化与应用拓展”为主题，吸引全国百余所高校的专家学者与会，共同探讨中国原创翻译学理论的发展路径与应用空间。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/AA920B4B5404C7023338FA...",
-     "source": "经济观察网",
-     "zh": "探索中国自主译学理论的世界性发展 第四届知识翻译学学术研讨会在渝开幕"
-    },
-    {
-     "title": "IMF总裁警告AI失控风险",
-     "link": "http://www.eeo.com.cn/2026/1017/1068422.shtml",
-     "pubDate": "Sat, 17 Oct 2026 21:39:15 +0800",
-     "summary": "国际货币基金组织（IMF）总裁格奥尔基耶娃10月16日在泰国举行的IMF与世界银行秋季年会上呼吁针对人工智能的发展速度设计安全防护措施。 格奥尔基耶娃将人工智能发展比作F1赛车比赛，称在F1赛事中有各种防护措施，来防止赛车冲出赛道造成人员伤亡，但在人工智能的竞赛中，这些防护措施目前还没有实现。她警告称，人工智能对于全人类来说可能是一份礼物，但如果这辆“赛车”会对人造成伤害，那么它恐怕就不那么有价值。 ...",
-     "source": "经济观察网",
-     "zh": "IMF总裁警告AI失控风险"
-    },
-    {
-     "title": "成本仅30元卖到6000元，央视曝光：“防癌神药”竟是麦芽糊精，出厂价不到1块钱，大批老年人被骗",
-     "link": "http://www.eeo.com.cn/2026/1017/1068418.shtml",
-     "pubDate": "Sat, 17 Oct 2026 21:26:12 +0800",
-     "summary": "10月17日晚，“防癌神药出厂价不到1块钱”冲上百度热搜榜一。 据央视新闻报道，《食安中国》栏目曝光一起针对老年人的“神药”骗局。 “癌症吃了都有改善！”——养生课堂上，讲师大肆宣扬“神药”。台下，很多老人被“清毒通管化瘀修细胞素”“清毒通脉活血细胞脑心康”“金龟纯元粉”等产...",
-     "source": "经济观察网",
-     "zh": "成本仅30元卖到6000元，央视曝光：“防癌神药”竟是麦芽糊精，出厂价不到1块钱，大批老年人被骗"
-    },
-    {
-     "title": "黄金市场，大变化！年轻人成买金大户",
-     "link": "http://www.eeo.com.cn/2026/1017/1068417.shtml",
-     "pubDate": "Sat, 17 Oct 2026 21:26:05 +0800",
-     "summary": "据央视财经报道，世界黄金协会10月16日发布《2026年中国金饰零售市场洞察》报告，2026年上半年中国金饰消费金额同比上升，逼近历史最高水平。 报告显示，“自戴” 驱动型消费持续拉动金饰购买，金饰消费从传统仪式场景驱动转为情绪驱动。此外，硬足金格外受年轻消费者青睐。18-34岁人群是整体金饰消费的核心支柱之一。 （来源：央视财经）",
-     "source": "经济观察网",
-     "zh": "黄金市场，大变化！年轻人成买金大户"
-    },
-    {
      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
      "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
      "pubDate": "Sat, 17 Oct 2026 13:00:00 GMT",
@@ -2473,14 +2441,6 @@
      "zh": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’"
     },
     {
-     "title": "智界将获独立造车资质，内部人士确认公司计划上市",
-     "link": "http://www.eeo.com.cn/2026/1017/1068411.shtml",
-     "pubDate": "Sat, 17 Oct 2026 20:52:06 +0800",
-     "summary": "21世纪经济报道记者 何煦阳 工信部10月16日公示《道路机动车辆生产企业及产品公告》（第412批），公告显示，安徽智界新能源汽车有限公司（下称“智界”或“智界汽车”）列入“拟发布新准入车辆生产企业”清单，公示期至10月23日。随后，“智界拿到独立造车资质”的消息随即扩散。 10月17日，据第一财经报道，智界汽车内部人士向记者确认，智界汽车在公示结束获批后将取得独立造车资质，“是奇瑞的工厂给到了智界”...",
-     "source": "经济观察网",
-     "zh": "智界将获独立造车资质，内部人士确认公司计划上市"
-    },
-    {
      "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
      "link": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
      "pubDate": "Sat, 17 Oct 2026 12:46:21 GMT",
@@ -2489,12 +2449,52 @@
      "zh": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO"
     },
     {
-     "title": "四部门组织30余家车企座谈 要求强化创新设计准入和研发测试验证",
-     "link": "http://www.eeo.com.cn/2026/1017/1068410.shtml",
-     "pubDate": "Sat, 17 Oct 2026 20:31:06 +0800",
-     "summary": "四部门近期的一系列动作，核心目的是督促指导车企加强汽车产品安全管理，提升汽车产品安全系数，推动中国汽车品牌回归良性、可持续、健康发展轨道。",
-     "source": "经济观察网",
-     "zh": "四部门组织30余家车企座谈 要求强化创新设计准入和研发测试验证"
+     "title": "10月17日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202610173899073425.html",
+     "pubDate": "Sat, 17 Oct 2026 20:30:23 +0800",
+     "summary": "今日摘要 1、习近平总书记在内蒙古乌兰察布考察时的重要讲话引发广大干部群众热烈反响。大家表示，要认真学习贯彻总书记重要讲话精神，不断塑造绿色发展新动能、新优势，因地制宜推动高质量发展。 2、李强出席2026世界传统医药大会开幕式并致辞。 3、王沪宁在四川调研。 4、今年前八个月，我国服务贸易保持较快增长，国际竞争力持续提升。 5、各地优化服务，多举措保障群众温暖过冬。 6、日本人士表示，日本应当正视历史，深刻反省战争罪行。 7、也门政府谴责胡塞武装对亚丁民用 机场 发动袭击。胡塞武装称，打击了该 机场 附近沙特的军事目标。 内容速览 厚植绿色根基，因地制宜推动高质量发展——习近平总书记在内蒙古",
+     "source": "东方财富资讯",
+     "zh": "10月17日晚间央视新闻联播要闻集锦"
+    },
+    {
+     "title": "算力需求增长催热高速接口IP！多家厂商加码背后 产业链协同成关键",
+     "link": "http://finance.eastmoney.com/news/1354,202610173899073233.html",
+     "pubDate": "Sat, 17 Oct 2026 20:17:15 +0800",
+     "summary": "近期，工业和信息化部、国家发展改革委对外发布《 电子 信息制造业发展“十五五”规划》，明确提出，持续提升关键装备、材料和零部件供给能力，加快发展 电子 设计自动化工具（EDA）和 知识产权 核（IP核）。这是国家五年规划首次将IP核与EDA并列单列为集成电路产业的两个不同细分领域。与此同时，AI算力需求正向芯片设计上游传导，除了计算能力，芯片之间的数据传输能力也成为厂商关注的重点。 这一变化在展会现场已有所体现。近日在上海举行的第26届中国国际工业博览会（简称“工博会”）上，集成电路展“国芯展”首次亮相，汇聚芯片设计、晶圆制造、封装测试及设备材料等上下游企业。既有部分厂商将高速接口IP及解决方",
+     "source": "东方财富资讯",
+     "zh": "算力需求增长催热高速接口IP！多家厂商加码背后 产业链协同成关键"
+    },
+    {
+     "title": "罕见！资金大规模出逃！美股做空者7天暴赚2140亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202610173899057249.html",
+     "pubDate": "Sat, 17 Oct 2026 18:59:12 +0800",
+     "summary": "过去几天，随着资金大规模出逃，美股 半导体 股遭遇历史性暴跌。 根据彭博社汇编的S3 Partners数据，在10月7日至10月15日的7个交易日中，押注 半导体 股票下跌的做空者累计获得约320亿美元的账面总收益，约合人民币2140亿元；同期，费城 半导体 指数（SOX）下跌逾12%。 本周五（10月16日），费城半导体指数再度大跌近4%。数据显示，10月7日至10月16日，该指数累计跌幅超过15%，整个美股半导体板块市值合计蒸发近2.3万亿美元。 市场对借贷成本上升、估值高企以及AI基础设施巨额支出的担忧，正拖累芯片制造商和更广泛的市场。SLC Management投资策略与资产配置董事总",
+     "source": "东方财富资讯",
+     "zh": "罕见！资金大规模出逃！美股做空者7天暴赚2140亿元"
+    },
+    {
+     "title": "下周2只新股开启申购！超千亿解禁潮将至 6股解禁比例均超50%（附股）",
+     "link": "http://finance.eastmoney.com/news/1354,202610173899054283.html",
+     "pubDate": "Sat, 17 Oct 2026 18:21:57 +0800",
+     "summary": "下周A股解禁总市值达1004.25亿元。 2只新股下周即将申购 据证券时报·数据宝统计，根据发行安排，下周暂有2只新股申购。 下周一（10月19日）可申购 皇冠新材 ，申购代码为001381，拟公开发行A股5630.48万股，其中网上发行1351.30万股，发行价格为16.98元，单一账户申购上限为13500股，申购数量为500股的整数倍，顶格申购需持有深市市值13.50万元。公司2023年—2025年净利润分别为2.78亿元、3.02亿元、3.09亿元，同比变动幅度为35.06%、8.92%、2.28%。 下周二（10月20日）可申购 天元重工 ，申购代码为920306，本次初始发行股份总量",
+     "source": "东方财富资讯",
+     "zh": "下周2只新股开启申购！超千亿解禁潮将至 6股解禁比例均超50%（附股）"
+    },
+    {
+     "title": "Trump exempts Russia from further sanctions mandated by new law",
+     "link": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
+     "pubDate": "Sat, 17 Oct 2026 09:53:31 GMT",
+     "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
+     "source": "Financial Times",
+     "zh": "Trump exempts Russia from further sanctions mandated by new law"
+    },
+    {
+     "title": "三季度净利环比增幅哪家强？算力企业摘得桂冠 PCB行业表现抢眼",
+     "link": "http://finance.eastmoney.com/news/11158,202610173899051127.html",
+     "pubDate": "Sat, 17 Oct 2026 17:46:57 +0800",
+     "summary": "①共有155家发布业绩预告，从三季度净利环比下限情况来看，61家实现环比增长；②排名靠前的分别为 元件 （ PCB ）10家、 半导体 9家、化工6家、制药4家、 通信设备 3家。 截至10月17日，A股共有155家发布业绩预告，从三季度净利环比下限情况来看，61家实现环比增长。行业上看，排名靠前的分别为 元件 （ PCB ）10家、 半导体 9家、化工6家、制药4家、 通信设备 3家。 环比增幅排名前十的公司为 行云科技 （569.35%）、 美年健康 （276.31%）、 崇达技术 （269.64%）、 杰创智能 （264.60%）、 华通线缆 （220.08%）、 兴森科技 （215.4",
+     "source": "东方财富资讯",
+     "zh": "三季度净利环比增幅哪家强？算力企业摘得桂冠 PCB行业表现抢眼"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/17 10:12:07",
+ "generated_at": "2026/10/17 10:31:57",
  "recent_days": 7,
  "industries": [
   {
@@ -337,12 +337,36 @@
      "zh": "Data Center Power a Prominent Highlight of OCP 2026"
     },
     {
+     "title": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/microchip-pol-05-20s-is-radiation-tolerant-gan-point-of-load-converter-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 14:24:13 +0000",
+     "summary": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
+     "source": "Electronics Weekly",
+     "zh": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter"
+    },
+    {
      "title": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition",
      "link": "https://semiconductor-today.com/news_items/2026/oct/omdia-161026.shtml",
      "pubDate": "Fri, 16 Oct 2026 14:52:30 +0100",
      "summary": "According to market research firm Omdia’s preliminary estimates, global smartphone shipments fell 20% year-on-year in third-quarter 2026, a sharp acceleration from the 6% decline recorded the previous quarter. Shipments also declined sequentially despite new flagship launches and channel preparation",
      "source": "Semiconductor Today",
      "zh": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition"
+    },
+    {
+     "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-arm-vs-qualcomm-ai-boom-adr-mission-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 13:38:02 +0000",
+     "summary": "The latest installment of the Arm vs Qualcomm case, the weirdness of the current semiconductor market, and an active debris removal mission to launch from Scotland mission... The post What caught your eye? Arm vs Qualcomm, AI boom, ADR mission appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission"
+    },
+    {
+     "title": "When Mandy  Became A Revolutionary",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-mandy-became-a-revolutionary-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 13:32:30 +0000",
+     "summary": "Mandy is known for other things now but 28 years ago he was a revolutionary, as this EW yarn in September 1998 chronicled: ‘The first major speech as cabinet minister […] The post When Mandy Became A Revolutionary appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "When Mandy  Became A Revolutionary"
     },
     {
      "title": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume",
@@ -353,12 +377,36 @@
      "zh": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume"
     },
     {
+     "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
+     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/a-v-cuk-group-adds-auracast-assistive-listening-technology-to-portfolio-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 11:12:17 +0000",
+     "summary": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
+     "source": "Electronics Weekly",
+     "zh": "A/V: CUK Group adds Auracast assistive listening technology to portfolio"
+    },
+    {
      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
      "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
      "pubDate": "Fri, 16 Oct 2026 10:55:42 +0000",
      "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Taiwan’s AI Ambitions Run into Talent Gap"
+    },
+    {
+     "title": "R&S extends amplifier range for satellite use",
+     "link": "https://www.electronicsweekly.com/news/rs-extends-amplifier-range-for-satellite-use-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 10:54:42 +0000",
+     "summary": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "R&S extends amplifier range for satellite use"
+    },
+    {
+     "title": "Raltron monolithic crystal filter series for gateway ground stations",
+     "link": "https://www.electronicsweekly.com/news/products/raltron-monolithic-crystal-filter-series-for-gateway-ground-stations-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 10:20:32 +0000",
+     "summary": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
+     "source": "Electronics Weekly",
+     "zh": "Raltron monolithic crystal filter series for gateway ground stations"
     },
     {
      "title": "GlobalFoundries’ CHIPS Program award amended to support $5bn investment in Malta, NY, and Burlington, VT",
@@ -447,54 +495,6 @@
      "summary": "Artificial intelligence is becoming part of the infrastructure that powers healthcare, transportation, finance, manufacturing, and everyday digital services. As these systems grow more capable, they also process more sensitive information and depend on increasingly complex hardware. The Synopsys whi",
      "source": "SemiWiki",
      "zh": "Why AI Security Starts at the Chip Level"
-    },
-    {
-     "title": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/onsemi-151026.shtml",
-     "pubDate": "Thu, 15 Oct 2026 10:36:20 +0100",
-     "summary": "Intelligent power and sensing technology firm onsemi of Scottsdale, AZ, USA says that its latest EliteSiC silicon carbide (SiC) hybrid power module technology has been adopted by renewable energy technology firm Sungrow for its PowerTitan 3.0 energy storage platform. The integration enables improved",
-     "source": "Semiconductor Today",
-     "zh": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform"
-    },
-    {
-     "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
-     "link": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
-     "pubDate": "Thu, 15 Oct 2026 07:07:45 +0000",
-     "summary": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself. The post Beyond The Specification: What Really Determines PCIe Retimer Reach? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Beyond The Specification: What Really Determines PCIe Retimer Reach?"
-    },
-    {
-     "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
-     "link": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/",
-     "pubDate": "Thu, 15 Oct 2026 07:06:02 +0000",
-     "summary": "Short-resilient via insertion improves reliability and performance. The post Strengthening Advanced-Node Interconnects Through Automated Via Insertion appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion"
-    },
-    {
-     "title": "Building AI Infrastructure For Greater Choice And Flexibility",
-     "link": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/",
-     "pubDate": "Thu, 15 Oct 2026 07:03:05 +0000",
-     "summary": "Open interfaces and interoperability allow designers to choose technologies based on the needs of the system. The post Building AI Infrastructure For Greater Choice And Flexibility appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Building AI Infrastructure For Greater Choice And Flexibility"
-    },
-    {
-     "title": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
-     "link": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/",
-     "pubDate": "Thu, 15 Oct 2026 07:02:37 +0000",
-     "summary": "Extending chiplet connectivity across AXI and CHI with scalable protocol subsets, interoperability, and flexible transport support. The post AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity"
-    },
-    {
-     "title": "Why Open-Weight AI Matters",
-     "link": "https://semiengineering.com/why-open-weight-ai-matters/",
-     "pubDate": "Thu, 15 Oct 2026 07:02:13 +0000",
-     "summary": "Proprietary models still hold the edge, but open-weight models add more flexibility for deploying AI. The post Why Open-Weight AI Matters appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why Open-Weight AI Matters"
     }
    ]
   },
@@ -1761,50 +1761,106 @@
    "total": 18,
    "items": [
     {
-     "title": "唯卓仕 AF 26mm F2.8 EVO 索尼 FE 卡口镜头新增雾月银、岩月灰配色，券后 1419 元",
-     "link": "https://www.ithome.com/1/014/237.htm",
-     "pubDate": "Sat, 17 Oct 2026 02:02:25 GMT",
-     "summary": "IT之家 10 月 17 日消息，唯卓仕 AF 26mm F2.8 EVO 全画幅相机镜头发布于 7 月 15 日，唯卓仕现为索尼 FE 卡口版本新增了雾月银、岩月灰配色，增加全新方形遮光罩（圆形遮光罩保留），售价 1499 元，券后到手价 1419 元。 这款镜头厚约 23.8mm，重约 130g；采用 6 组 8 片光学结构，搭载 STM + 齿轮形对焦马达，最近对焦距离 0.2m；卡口采用防尘防泼溅设计；搭载磁吸镜头前盖，圆形遮光罩预留滤镜（43mm 口径）安装槽。 IT之家附这款镜头详细参数： 京东 唯卓仕 AF 26mm F2.8 EVO FE 雾月银 券后 1419 元 领 80 ",
+     "title": "香港 TVB 加入短剧赛道，与红果合作竖屏剧《金枝欲孽之宫墙折柳》在横店开机",
+     "link": "https://www.ithome.com/1/014/243.htm",
+     "pubDate": "Sat, 17 Oct 2026 02:26:36 GMT",
+     "summary": "IT之家 10 月 17 日消息，据香港无线集团“TVB”公众号，10 月 16 日，无线集团 TVB 宣布 与红果短剧达成合作 ，正式踩入竖屏剧（直度短剧）赛道。 根据介绍，双方首部联合打造的重头剧、经典神剧《金枝欲孽》番外篇 《金枝欲孽之宫墙折柳》 ，当日于横店明清宫苑举行开机仪式。此次合作标志着 TVB 将“神级 IP”搬上竖屏剧舞台，将标志性的精良制作与新媒体的快节奏无缝结合，积极开拓年轻市场。 TVB 戏剧部助理总监文伟鸿表示，竖屏剧的节奏要求极高，与他一贯追求紧凑戏剧张力的风格不谋而合。“此次同红果合作，对 TVB 戏剧组来讲绝对是一个突破。虽然变为竖屏、篇幅缩短，但制作团队完全动",
      "source": "IT之家",
-     "zh": "唯卓仕 AF 26mm F2.8 EVO 索尼 FE 卡口镜头新增雾月银、岩月灰配色，券后 1419 元"
+     "zh": "香港 TVB 加入短剧赛道，与红果合作竖屏剧《金枝欲孽之宫墙折柳》在横店开机"
     },
     {
-     "title": "谷歌升级安卓防诈骗：AI 读懂诈骗话术，每月拦截超 500 万条可疑电话 / 短信",
-     "link": "https://www.ithome.com/1/014/235.htm",
-     "pubDate": "Sat, 17 Oct 2026 02:01:26 GMT",
-     "summary": "IT之家 10 月 17 日消息，谷歌于 10 月 14 日发布博文，宣布升级安卓系统的防诈骗功能， 覆盖电话、短信和第三方聊天应用，帮助用户更从容应对伪造来电、虚假银行通知以及 AI 语音克隆等诈骗手段。 在信息（Google Messages）方面，谷歌以可选方案引入“增强保护模式”，将在未来数周陆续推送；启用后，系统可在用户与陌生号码对话时，借助云端 Gemini 模型分析更复杂的聊天语境，更快识别诈骗意图。 针对钓鱼链接，安卓还将引入基于设备端 Gemini Nano 的实时链接安全检查。当用户收到陌生号码发来的链接后，系统会在点击前评估其可信度，并通过更清晰的警告提醒用户暂停操作。这",
+     "title": "JetBrains 的本地 AI 编程工具 Junie Local 已 Day 0 适配英伟达 RTX Spark：吞吐最高每秒 55 个词元",
+     "link": "https://www.ithome.com/1/014/242.htm",
+     "pubDate": "Sat, 17 Oct 2026 02:25:07 GMT",
+     "summary": "IT之家 10 月 17 日消息，JetBrains 昨日（10 月 16 日）发布公告，宣布旗下本地 AI 编程工具 Junie Local 已 Day 0 适配英伟达 RTX Spark 平台，同时对于 Windows 系统的支持已由实验阶段升级为稳定版。 IT之家援引博文介绍，用户可在符合要求的电脑上，让 AI 读取代码、修改文件并运行测试。官方表示，工具无需注册或订阅，不收取词元（Token）费用，也不设使用配额，相关代码不必上传云端。 在性能方面，JetBrains 称，Junie Local 在英伟达 RTX Spark 平台上的初步测试中， 生成速度最高可达每秒 55 个词元。 ",
      "source": "IT之家",
-     "zh": "谷歌升级安卓防诈骗：AI 读懂诈骗话术，每月拦截超 500 万条可疑电话 / 短信"
+     "zh": "JetBrains 的本地 AI 编程工具 Junie Local 已 Day 0 适配英伟达 RTX Spark：吞吐最高每秒 55 个词元"
     },
     {
-     "title": "美半导体股遭遇 2006 年以来最长抛售潮，做空者却获利 320 亿美元",
-     "link": "https://www.ithome.com/1/014/234.htm",
-     "pubDate": "Sat, 17 Oct 2026 01:53:02 GMT",
-     "summary": "IT之家 10 月 17 日消息，据彭博社今天（17 日）凌晨报道，美国半导体股遭遇历史性暴跌，此前逆势做空芯片股的投资者因此获得巨额账面浮盈。过去一年的大部分时间里，半导体一直是美股表现最强劲的板块之一。 彭博社汇总的 S3 Partners 数据显示，过去 7 天，费城半导体指数累计下跌超过 12%，做空该板块的投资者账面 浮盈总额估计达到 320 亿美元 （IT之家注：现汇率约合 2,143.51 亿元人民币） 。当地时间 16 日，费城半导体指数连续第 8 个交易日下跌，有望追平 2006 年以来最长的连跌纪录。 市场担忧利率进一步上升、股票估值偏高，以及 AI 基础设施投资规模过于庞",
+     "title": "动画《赛博朋克：边缘行者 2》正式 PV 公布，10 月 20 日上线",
+     "link": "https://www.ithome.com/1/014/241.htm",
+     "pubDate": "Sat, 17 Oct 2026 02:24:00 GMT",
+     "summary": "IT之家 10 月 17 日消息，由 CD PROJEKT RED 与日本动画工作室 TRIGGER（扳机社）联合制作的动画《赛博朋克：边缘行者 2》正式 PV 现已公布，将于 10 月 20 日在 Netflix 独家上线 。 ▲ 英配 ▲ 日配 《赛博朋克：边缘行者 2》将讲述一个全新的独立故事，延续《赛博朋克 2077》的世界观。故事围绕四名全新角色展开：微克 · 金斯利（WEAK KINGSLEY）、网络黑客 D、影迷罗曼 · 卡拉克斯（ROMAN CARAX）以及塔莉雅 · 杨（TALIA YANG）。 IT之家注意到，官方将第二季定义为一则关于救赎与复仇的残酷传奇，风格被描述为比前",
      "source": "IT之家",
-     "zh": "美半导体股遭遇 2006 年以来最长抛售潮，做空者却获利 320 亿美元"
+     "zh": "动画《赛博朋克：边缘行者 2》正式 PV 公布，10 月 20 日上线"
     },
     {
-     "title": "《英雄联盟》经典模式将于 2027 年 1 月结束本轮上线，未来计划以活动模式形式回归",
-     "link": "https://www.ithome.com/1/014/233.htm",
-     "pubDate": "Sat, 17 Oct 2026 01:50:43 GMT",
-     "summary": "IT之家 10 月 17 日消息，英雄联盟官方宣布，将在第 3 主题季第 2 幕对经典模式进行一些调整。 官方表示，经典模式将在整个第 3 主题季期间继续开放， 并于 2027 年 1 月结束本轮上线 。之后，经典模式将暂时下线。 目标是在未来让它以活动模式的形式回归 ，并加入相应调整和新增内容。 据悉，英雄联盟官方将为经典模式收官后无法使用的经典模式专属内容进行下线处理。此外，第 2 幕经典模式战斗通行证将于 26.21 版本推出，且仅包含免费奖励路线。从 26.21 版本开始，经典模式商城将仅保留英雄、符文和符文页。 IT之家获悉，英雄联盟仍将为玩家带来全新的“老”英雄，包括已在 26.2",
-     "source": "IT之家",
-     "zh": "《英雄联盟》经典模式将于 2027 年 1 月结束本轮上线，未来计划以活动模式形式回归"
+     "title": "杀估值的可逆下跌不用怕",
+     "link": "https://www.huxiu.com/article/4898224.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 10:19:38 +0800",
+     "summary": "本文来自微信公众号： 疯狂的里海 ，作者：疯狂的里海 本周行情是有点恼火，双创指数都跌了7%以上，个股基本上全军覆没，从7月份开始算的话，双创指数跌幅接近40%，指数这么短时间里这种跌幅可以说是十分的吓人了，而前期热门股基本是腰斩起。 所以这种行情，如果是新入市不久的新人的话，可能内心已经崩溃掉了。而钱，就在这种心态崩溃中，亏损掉了。 这种单边下跌的行情中，很难赚钱，因为只有少部分股票有可把握的赚钱行情，更多的是脉冲式的行情，无法把握。其他很多标的，即使有逻辑，估值也不高，在这种情况下也很难赚钱。所以在这种情况下，除非运气好，正好抓住了那少部分上涨的标的，否则的话，赚钱是非常的困难的。我肯定也",
+     "source": "虎嗅",
+     "zh": "杀估值的可逆下跌不用怕"
     },
     {
-     "title": "微软收录“米开朗基罗”字体：超 500 个字符、4 种样式，能装进你的 Word 文档",
-     "link": "https://www.ithome.com/1/014/232.htm",
-     "pubDate": "Sat, 17 Oct 2026 01:50:15 GMT",
-     "summary": "IT之家 10 月 17 日消息，微软于 10 月 8 日发布博文，Microsoft 365 字体库已收录 Michelangelus， 该字体以文艺复兴大师米开朗基罗手迹为灵感设计，将其书写中的结构、节奏和美学转化为清晰、可日常使用的字体。 IT之家援引博文介绍，为纪念罗马圣彼得大教堂祝圣 400 周年，负责维护该教堂的圣彼得工厂与意大利设计机构 studiogusto 合作，将米开朗基罗的手写字迹转化为现代数字字体“Michelangelus”。 米开朗基罗 · 博那罗蒂（Michelangelo Buonarroti，1475—1564）是意大利文艺复兴盛期最具代表性的艺术家之一，集雕",
+     "title": "要钱、要导弹，泽连斯基再赴欧盟",
+     "link": "https://www.huxiu.com/article/4898223.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 10:19:37 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：史正丞 当地时间周五，乌克兰总统泽连斯基亮相欧盟总部，对着一众欧洲领导人提出一系列援助请求。 综合央视新闻等媒体报道和泽连斯基讲话稿，其主要诉求包括：为2027年争取至少额外700亿欧元资金支持，紧急获得300枚“爱国者”防空系统拦截弹以应对冬季袭击，同时推动欧盟确保被冻结的俄罗斯资产能够实际用于支持乌克兰。 泽连斯基说道：“明年，这场战争将耗费1550亿欧元。我们还需要至少700亿欧元的额外资金，用于国防、武器以及增强我们的韧性。这是一个现实的数字。” 乌克兰总统举例称，无人机在这场战争中发挥着重要作用，乌克兰目前有能力将无人机产量提高至现有水平的两至三",
+     "source": "虎嗅",
+     "zh": "要钱、要导弹，泽连斯基再赴欧盟"
+    },
+    {
+     "title": "Anthropic秘密推动前沿AI监管立法",
+     "link": "https://www.huxiu.com/article/4898222.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 10:17:13 +0800",
+     "summary": "本文来自微信公众号： 科创板日报 ，作者：郑远方 根据法案草案，只有当某个模型可能造成超过10亿美元损失、或导致50人以上死亡或严重受伤时，政府才可以叫停该模型发布或使用。 警告AI失控风险、呼吁暂停前沿AI研发之后，Anthropic又有了新动作。 据最新报道显示，日前Anthropic的代表私下向美国国会议员介绍了一份法案草案，该草案意在监管前沿AI安全。这也意味着，在AI发展陷入争议的当下，这家AI巨头正在采取一系列措施，试图影响事关自家技术监管的规则制定。 Anthropic一位发言人表示，“这项法案体现了我们在《高级人工智能框架》中提出的建议。自今年6月以来，我们一直在推动联邦和州层",
+     "source": "虎嗅",
+     "zh": "Anthropic秘密推动前沿AI监管立法"
+    },
+    {
+     "title": "消息称三星 SDI 最快 2027 年 6 月量产 AI 服务器备用 LFP 柱状电池",
+     "link": "https://www.ithome.com/1/014/240.htm",
+     "pubDate": "Sat, 17 Oct 2026 02:15:31 GMT",
+     "summary": "IT之家 10 月 17 日消息，《韩国先驱报》当地时间本月 13 日报道称，三星 SDI 计划最快 2027 年 6 月量产面向 AI 服务器电池备用单元 (BBU) 应用场景的圆柱形磷酸铁锂 (LFP) 电池。 IT之家注意到，此产品的样品 曾在上月的 DCWA 2026 上展出 。其基于独有的结构技术， 在提升输出功率和容量的同时进一步强化了安全性 。 三星 SDI 计划在其马来西亚第二工厂生产这一电池产品的阳极 。该厂已设有三元锂电池产线。为将两种电池的原料分开，工厂将导入混合器、原料混合储罐等所需设备。 AI 服务器 BBU LFP 柱状电池的导入有望进一步提升三星 SDI 柱状电池",
      "source": "IT之家",
-     "zh": "微软收录“米开朗基罗”字体：超 500 个字符、4 种样式，能装进你的 Word 文档"
+     "zh": "消息称三星 SDI 最快 2027 年 6 月量产 AI 服务器备用 LFP 柱状电池"
+    },
+    {
+     "title": "OpenAI 再挖马斯克墙角，聘请 xAI 前销售负责人承担网安业务销售工作",
+     "link": "https://www.ithome.com/1/014/239.htm",
+     "pubDate": "Sat, 17 Oct 2026 02:15:01 GMT",
+     "summary": "IT之家 10 月 17 日消息，据彭博社今天（17 日）早间报道，OpenAI 聘请了 SpaceX 旗下 xAI 的前销售负责人格雷厄姆 · 西曼斯，负责 网络安全业务的销售工作 。这是 OpenAI 近期从埃隆 · 马斯克旗下 AI 业务挖角的最新动作。 西曼斯自 2025 年 8 月起领导 xAI 销售团队，参与了该公司新一轮面向华尔街客户推广 Grok 聊天机器人的工作。他透露，自己将加入 OpenAI 的网络安全团队，成为 OpenAI 从 SpaceX 旗下 AI 业务招揽的又一名销售高管。 领英资料显示，西曼斯去年加入 xAI 前，曾在 MongoDB 任职约 8 年。 自 9",
+     "source": "IT之家",
+     "zh": "OpenAI 再挖马斯克墙角，聘请 xAI 前销售负责人承担网安业务销售工作"
+    },
+    {
+     "title": "AI个人助理的涌现可能引发钱包大战",
+     "link": "https://www.huxiu.com/article/4898211.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 10:15:00 +0800",
+     "summary": "本文来自微信公众号： AI时代仍不辍思考 ，作者：创业思考碎片 像Instinct、OAI的Dots和Meta的Muse这样的智能助手正在将个人助理的功能融入短信和常用应用程序中。它们不再仅仅承诺提供更优质的答案，而是真正实现任务完成。如果我的智能助手可以安排我孩子的足球赛程，它也可以帮他们订购球鞋。如果它可以规划旅行，它也可以帮我预订酒店。一个了解我生活方式的助手，成为了我大部分消费的起点。 但完成这些任务需要一些仅凭智力无法提供的东西：支付授权。如果你的智能体没有你的信用卡号，那么智能体的任何建议对我来说就变成了一份“待办事项清单”。有了支付凭证，智能体才能为我完成任务。 因此，当然，各方",
+     "source": "虎嗅",
+     "zh": "AI个人助理的涌现可能引发钱包大战"
+    },
+    {
+     "title": "《心灵捕手》里的数学天才应该让本·阿弗莱克来演，他做了家AI 公司，还卖给了Netflix",
+     "link": "https://www.huxiu.com/article/4898221.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 10:13:05 +0800",
+     "summary": "本文来自微信公众号： 果壳 ，制图：AI，作者：本一，编辑：马文，原文标题：《《心灵捕手》里的数学天才应该让本·阿弗莱克来演，他做了家 AI 公司，还卖给了 Netflix》 本·阿弗莱克（Ben Affleck）最出名的形象，是《心灵捕手》里那个陪天才朋友晃荡的波士顿小子，以及后来披上斗篷的蝙蝠侠。 上周，他在GQ的访谈节目“One More Question”里，一改往日形象。大聊特聊张量、卷积神经网络、边缘检测，还说自己会写Python脚本。 本·阿弗莱克（左）在GQ访谈里聊起了AI丨GQ 采访片段在X上被大量转发，有网友开玩笑，说《心灵捕手》里会解数学题的，应该是他。 大本并不是因为接",
+     "source": "虎嗅",
+     "zh": "《心灵捕手》里的数学天才应该让本·阿弗莱克来演，他做了家AI 公司，还卖给了Netflix"
+    },
+    {
+     "title": "Win11 首个原生支持“锁定隐私浏览”的浏览器：Firefox 可自动上锁隐私窗口",
+     "link": "https://www.ithome.com/1/014/238.htm",
+     "pubDate": "Sat, 17 Oct 2026 02:11:37 GMT",
+     "summary": "IT之家 10 月 17 日消息，科技媒体 NeoWin 昨日（10 月 16 日）发布博文，报道称 Mozilla 正在为火狐 Firefox 桌面版浏览器开发一项“锁定隐私浏览窗口”功能， 支持用户锁定“隐私浏览”窗口，防止他人在电脑无人看管时查看浏览内容。 功能描述方面，当 Windows、macOS 等桌面系统进入睡眠状态、启动屏幕保护程序或用户注销后，Firefox 将自动锁定隐私浏览窗口；重新打开后，用户需要通过 Touch ID、Face ID 或 PIN / 密码等操作系统级身份验证方式解锁。 IT之家援引博文介绍，该功能主要补足隐私浏览模式的一个常见漏洞，传统隐私模式虽然不会",
+     "source": "IT之家",
+     "zh": "Win11 首个原生支持“锁定隐私浏览”的浏览器：Firefox 可自动上锁隐私窗口"
+    },
+    {
+     "title": "14.8% 的 AI 商品，撑起全球贸易近半增量：买家集中在几家云厂商",
+     "link": "https://www.tmtpost.com/8171227.html",
+     "pubDate": "Sat, 17 Oct 2026 09:58:32 +0800",
+     "summary": "全球经济降温，全球贸易却在 AI 基建的拉动下加速。",
+     "source": "钛媒体",
+     "zh": "14.8% 的 AI 商品，撑起全球贸易近半增量：买家集中在几家云厂商"
     },
     {
      "title": "小儿推拿馆，熬走了街边所有的店",
      "link": "https://www.huxiu.com/article/4898189.html?f=rss",
      "pubDate": "Sat, 17 Oct 2026 09:50:00 +0800",
-     "summary": "本文来自微信公众号： 表外表里 ，编辑：曹宾玲，作者：洞见数据研究院 周燃发现，小区门口藏着一位“钉子户”。 最近两三年，附近的水果、烟酒店生意滑坡，餐饮更是“开一家倒一家”，寿命以半年计。唯独那家平平无奇的小儿推拿馆，熬走一任任邻居，仍屹立不倒。 进店一瞧，无论等待区还是诊室内，都乌泱泱坐满人。他粗略数了数，半天的客人就有30位，按150元/人的常规价格，日营业额能跑赢许多头部奶茶店。 这一幕，让周燃百思不得其解。 小儿推拿并非新鲜事，早在2016年，随着二孩政策全面落地与精细喂养的流行，其就从中医圈内小众技法，一跃成为大健康赛道的“超级风口”。如今，每年新生儿数量相比十年前少了约千万，儿推",
+     "summary": "本文来自微信公众号： 表外表里 ，作者：陈梓洁，编辑：曹宾玲，头图来自：AI生成 周燃发现，小区门口藏着一位&ldquo;钉子户&rdquo;。 最近两三年，附近的水果、烟酒店生意滑坡，餐饮更是&ldquo;开一家倒一家&rdquo;，寿命以半年计。唯独那家平平无奇的小儿推拿馆，熬走一任任邻居，仍屹立不倒。 进店一瞧，无论等待区还是诊室内，都乌泱泱坐满人。他粗略数了数，半天的客人就有30位，按150元/人的常规价格，日营业额能跑赢许多头部奶茶店。 这一幕，让周燃百思不得其解。 小儿推拿并非新鲜事，早在2016年，随着二孩政策全面落地与精细喂养的流行，其就从中医圈内小众技法，一跃成为大健康赛道的",
      "source": "虎嗅",
      "zh": "小儿推拿馆，熬走了街边所有的店"
     },
@@ -1815,14 +1871,6 @@
      "summary": "Anthropic : Anthropic report on how AI is changing employment at the startup: decline of entry-level technical hiring, productivity boom across departments, and more &nbsp; &mdash;&nbsp; How has AI restructured work and employment at Anthropic?&nbsp; As a company at the frontier of AI adoption, Anth",
      "source": "Techmeme",
      "zh": "Anthropic report on how AI is changing employment at the startup: decline of entry-level technical hiring, productivity boom across departments, and more (Anthropic)"
-    },
-    {
-     "title": "苹果50年：辉煌和“破产”交替，创新和运营契合",
-     "link": "https://www.huxiu.com/article/4898217.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 09:39:46 +0800",
-     "summary": "本文来自微信公众号： XYY的读书笔记 ，作者：肖俨衍，原文标题：《【读书】【品牌篇】苹果50年：辉煌和“破产”交替，创新和运营契合》 前言&书籍：之前我们从乔布斯和库克角度看过苹果历史，今年是苹果公司成立50年，结合《苹果50年》这本书，我们再系统回顾一下这家塑造了无数传奇产品，成就了独一无二商业奇迹的公司。 起源：两个Steve Steve Woz出生于1950年，七岁时家庭迁居硅谷，其父亲是洛克希德公司的工程师，而Woz从小也想当个工程师，他从小就是个技术天才。1971年Woz就组装了一台简易计算机。另一位Steve，乔布斯住处和Woz相差步行15分钟，他们上同一所高中，但是Woz比乔布",
-     "source": "虎嗅",
-     "zh": "苹果50年：辉煌和“破产”交替，创新和运营契合"
     },
     {
      "title": "5000亿“隐形矿王”，豪掷12亿做LP",
@@ -1849,38 +1897,6 @@
      "zh": "Sources: Anthropic is offering Blackstone a 10%+ yield to help finance Anthropic&apos;s $60B debt package to buy Google TPUs; Blackstone would invest $9B in the debt (Financial Times)"
     },
     {
-     "title": "小米推出米家高速吹风机 Mini：11 万转 / 分钟高速电机，到手价 199 元起",
-     "link": "https://www.ithome.com/1/014/231.htm",
-     "pubDate": "Sat, 17 Oct 2026 01:34:45 GMT",
-     "summary": "IT之家 10 月 17 日消息，小米现已推出米家高速吹风机 Mini，售价 299 元，商品页面显示新品到手价 199 元起，将于 10 月 20 日 10 点在小米有品开始预售（ 点此购买 ）。 据介绍，这款新品整机重 270g（不含电源线），适配居家日常、差旅出行、健身通勤等多种场景；搭载 11 万转 / 分钟全新微型高速无刷电机，风速可达 62 米 / 秒；升级正负等离子双离子系统，实现护发 + 头皮洁净双重效果。 这款新品支持 2 挡风速可调，支持 4 挡风温可调，此外还有儿童模式；拥有粉色、紫色、米白色三种颜色可选，搭载磁吸进风过滤罩，电源线自带束线带方便收纳。 IT之家附这款新品",
-     "source": "IT之家",
-     "zh": "小米推出米家高速吹风机 Mini：11 万转 / 分钟高速电机，到手价 199 元起"
-    },
-    {
-     "title": "美银、花旗出手，限制AI Agent",
-     "link": "https://www.huxiu.com/article/4898215.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 09:20:52 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：赵昊 花旗集团（Citigroup）和美国银行（Bank of America）已成为最新一批限制AI代理（AI agents）访问客户账户的美国银行。 近期，多家银行向监管机构表达担忧，认为这些智能代理可能会为了追求更高收益而转移闲置现金，从而导致银行存款流失。 花旗表示，不允许“第三方AI智能代理或助手登录客户账户，或直接在我们的数字银行平台内进行交易”。该行补充称，这一措施旨在保护客户账户及其信息安全。 美银首席执行官Brian Moynihan也暗示，该行正在限制AI代理访问消费者存款，同时制定相关协议，以确定由AI授权的支付最终应由哪一方承担责任",
-     "source": "虎嗅",
-     "zh": "美银、花旗出手，限制AI Agent"
-    },
-    {
-     "title": "我被AI诈骗盯上了",
-     "link": "https://www.huxiu.com/article/4898214.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 09:20:17 +0800",
-     "summary": "本文来自微信公众号： AIX财经 ，编辑：李梦冉，作者：AIX财经团队 当诈骗用上AI，照片、声音、视频都不是真的。 AIX财经（AIXcaijing）原创 AI技术给我们带来便利的同时，也让诈骗变得越来越难以辨认。 过去，接到陌生电话、收到可疑信息，人们还可以通过视频、打电话等方式核实身份。但如今，这些曾经被视为可靠的判断依据，也可能成为骗子获取信任的工具。 公安部数据显示，2025年，全国公安机关共侦破电信网络诈骗案件25.8万起。AI换脸等新型诈骗手段也引发关注。据经济观察网援引公安部2026年9月通报报道，全国已侦破AI换脸类诈骗案件逾300起，涉案金额突破5亿元，单案最高达2000万",
-     "source": "虎嗅",
-     "zh": "我被AI诈骗盯上了"
-    },
-    {
-     "title": "十年江歌案之三：像肉滚过刀片，一个母亲起诉网暴者要花多少年",
-     "link": "https://www.huxiu.com/article/4898212.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 09:10:27 +0800",
-     "summary": "本文来自微信公众号： 从正义路到经纬路 ，作者：法律科技人 2016年11月3日，中国留学生江歌在日本东京遇害。 她的母亲江秋莲为女儿维权，却反过来遭到网络造谣抹黑。有人在微博上编造她借女儿之死敛财，有人画漫画侮辱母女俩。 你在网上被造谣了。你想告他。你得自己搜集证据，自己找到那个人的真实身份，自己跑到他所在的城市去立案，自己请律师，自己出庭。每开庭一次，就得把伤疤撕开一次。 这不是假设。这是江秋莲过去十年的真实经历。她起诉了十多名网暴者，4人被刑事处罚，七八人被判民事赔偿。她形容这个过程，像肉滚过刀片。 为什么追责一个网暴者这么难？难在哪里？制度层面缺了什么？这不仅是江秋莲一个人的困境。 第",
-     "source": "虎嗅",
-     "zh": "十年江歌案之三：像肉滚过刀片，一个母亲起诉网暴者要花多少年"
-    },
-    {
      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
      "link": "https://www.flexport.com/company/careers/",
      "pubDate": "Sat, 17 Oct 2026 01:01:51 +0000",
@@ -1903,14 +1919,6 @@
      "summary": "OpenAI升级ChatGPT浏览器扩展，读取已打开标签页并接管操作，弃自建Atlas转而缝入既有浏览习惯，与Gemini、Copilot争夺侧边栏入口；其内部报告披露GPT-5.6 Sol研究模型未经授权动用他人钱包测试币支付Gas并隐瞒来源。",
      "source": "钛媒体",
      "zh": "Edge AI Daily 早报（10月17日）"
-    },
-    {
-     "title": "商业航天，如何走出人才的零和竞争",
-     "link": "https://www.huxiu.com/article/4898210.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 08:35:16 +0800",
-     "summary": "本文来自微信公众号： 反熵 ，作者：司马大大 航天人才的流动，很容易被理解成一场此消彼长的竞争。 一家科研院所培养多年的技术骨干转身加入商业火箭企业，原单位需要补位，新公司得到一位熟悉型号研制的工程师。站在各自单位的角度，有人离开，就是人才流失；有人加入，就是人才引进。 这种算法并非毫无道理，却忽略了一个更重要的问题。一名工程师的价值，不止于他当前供职的单位，还取决于多年积累的能力能在多大范围内发挥作用。 中国商业航天正在发展可重复使用火箭、规模化制造和高频发射。这些任务需要成熟技术人员，而完整型号研制、复杂试验验证和系统管理的经验，很难靠短期培训获得。传统航天数十年的积累，为中国航天培养了宝",
-     "source": "虎嗅",
-     "zh": "商业航天，如何走出人才的零和竞争"
     },
     {
      "title": "Intel CEO Lip-Bu Tan says the Trump administration does not have \"any policy\" to use a minority stake in Intel to interfere in its business strategy (Kohei Yamada/Nikkei Asia)",
@@ -1940,7 +1948,7 @@
      "title": "Nine-Inch Snails",
      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
      "pubDate": "Fri, 16 Oct 2026 22:21:05 +0000",
-     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 27 # Comments: 10",
+     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 28 # Comments: 12",
      "source": "Hacker News",
      "zh": "Nine-Inch Snails"
     },
@@ -1956,7 +1964,7 @@
      "title": "Why harnesses matter for energy (and token) efficiency",
      "link": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
      "pubDate": "Fri, 16 Oct 2026 21:01:23 +0000",
-     "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 39 # Comments: 19",
+     "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 41 # Comments: 20",
      "source": "Hacker News",
      "zh": "Why harnesses matter for energy (and token) efficiency"
     },
@@ -1972,7 +1980,7 @@
      "title": "I never authorized an integration that scans my secrets",
      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
      "pubDate": "Fri, 16 Oct 2026 20:33:41 +0000",
-     "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 193 # Comments: 146",
+     "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 195 # Comments: 147",
      "source": "Hacker News",
      "zh": "I never authorized an integration that scans my secrets"
     },
@@ -1991,14 +1999,6 @@
      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
      "source": "WIRED",
      "zh": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds"
-    },
-    {
-     "title": "FLUX 3 Image Klein",
-     "link": "https://bfl.ai/blog/flux-3-image-klein",
-     "pubDate": "Fri, 16 Oct 2026 19:47:13 +0000",
-     "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 117 # Comments: 27",
-     "source": "Hacker News",
-     "zh": "FLUX 3 Image Klein"
     }
    ]
   },
@@ -2257,6 +2257,54 @@
    "total": 13,
    "items": [
     {
+     "title": "《世界职业技术教育标准框架》发布",
+     "link": "http://www.eeo.com.cn/2026/1017/1067632.shtml",
+     "pubDate": "Sat, 17 Oct 2026 10:13:20 +0800",
+     "summary": "10月17日，《世界职业技术教育标准框架》（《北京协议》）在2026年世界职业技术教育发展大会闭幕式上由45个国家共同发布。 协议将推动经济繁荣与社会进步、服务人的全...",
+     "source": "经济观察网",
+     "zh": "《世界职业技术教育标准框架》发布"
+    },
+    {
+     "title": "内容收权，渠道转场：“930新规”下的银行营销",
+     "link": "http://www.eeo.com.cn/2026/1017/1067629.shtml",
+     "pubDate": "Sat, 17 Oct 2026 10:13:11 +0800",
+     "summary": "“930新规（本文指《金融产品网络营销管理办法》）”落地后，银行零售营销的底层逻辑正在被重写。 一方面，营销话术、素材与投放权限全面上收总行，一线营销只能在审核过的范围内开口；另一方面，营销主阵地从员工个人账号搬到企业微信，有些银行还开始在社交平台上试水经营经官方认证的员工个人号。与此同时，第三方合作被压缩为“技术通道”，资源加速回流银行自营平台。 从规则到执行，从渠道到生态，一场覆盖全...",
+     "source": "经济观察网",
+     "zh": "内容收权，渠道转场：“930新规”下的银行营销"
+    },
+    {
+     "title": "学生走了老人来了：闲置校舍变养老院，要破确权难题",
+     "link": "http://www.eeo.com.cn/2026/1017/1067628.shtml",
+     "pubDate": "Sat, 17 Oct 2026 10:13:11 +0800",
+     "summary": "闲置校舍“变形记” 随着学龄人口数量的调整，一批乡村校舍完成使命后悄然闲置。与此同时，农村养老、托幼、实践教育等公共服务需求却日益迫切。把“空教室”变成“养老床”“实践基地”“乡村车间”，既是盘活存量资源的顺势之举，也是补齐民生短板的务实之策。 然而，从个案走向普遍，仍需迈过确权这道坎。盘活闲置校舍，表面是空间改造，深层是机制创新。 今年9月，山东省高密市注沟中学门口，“好好学习...",
+     "source": "经济观察网",
+     "zh": "学生走了老人来了：闲置校舍变养老院，要破确权难题"
+    },
+    {
+     "title": "记者观察：闲置校舍“活”起来，读懂这场空间变革",
+     "link": "http://www.eeo.com.cn/2026/1017/1067631.shtml",
+     "pubDate": "Sat, 17 Oct 2026 10:13:10 +0800",
+     "summary": "校门口“好好学习，天天向上”的标语换成了养老中心的牌子，教室里的课桌换成了适老化的床铺……近年来，多地农村闲置校舍变身养老院，引发热议。 但若只看到“学生走了、老人来了”，其实只读懂了这场空间变革的一半。翻开各地的实践清单便会发现，闲置校舍还变成了少年科学院、劳动实践基地、陪读公寓、菌菇大棚、直播孵化基地、乡村民宿…… 小小校舍，成为撬动乡村振兴的有力支点。 盘活闲置校舍，是教育...",
+     "source": "经济观察网",
+     "zh": "记者观察：闲置校舍“活”起来，读懂这场空间变革"
+    },
+    {
+     "title": "英伟达押注智能体PC，能否撬动换机需求？",
+     "link": "http://www.eeo.com.cn/2026/1017/1067630.shtml",
+     "pubDate": "Sat, 17 Oct 2026 10:13:10 +0800",
+     "summary": "在英伟达首席执行官黄仁勋宣布与微软合作推出RTX Spark平台四个月后，首批RTX Spark电脑正式与市场见面。 该平台获得微软及联想、华硕、戴尔、惠普等OEM厂商的大力支持，多家公司已发布基于RTX Spark芯片的新款电脑。作为AI领域的霸主，英伟达在RTX Spark芯片上整合了最新半导体技术与生态成果，尽管仍在试水市场，公司却自信地将其定位为“Windows PC的新序章”。 规格上，RTX Spark采用台积电3纳米工艺，集成Blac...",
+     "source": "经济观察网",
+     "zh": "英伟达押注智能体PC，能否撬动换机需求？"
+    },
+    {
+     "title": "21社论丨以开放创新生态打造中国吸引外资新优势",
+     "link": "http://www.eeo.com.cn/2026/1017/1067627.shtml",
+     "pubDate": "Sat, 17 Oct 2026 10:13:06 +0800",
+     "summary": "近日，商务部发布的数据显示，2025年我国外商直接投资权益存量26.8万亿元，连续6年实现增长，位居全球第二。外资企业呈现规模稳、效益好、贡献大的经营特点。 统计显示，在效益方面，参报外资企业平均利润率达8.7%。其中，制造业外资企业利润率高于全国规上工业企业利润率2.2个百分点。贡献方面，外资企业进出口额占全国货物进出口总额的三分之一，纳税占全国税收的七分之一，近5年年均吸收就业超过3000万人。这些数据充...",
+     "source": "经济观察网",
+     "zh": "21社论丨以开放创新生态打造中国吸引外资新优势"
+    },
+    {
      "title": "特斯拉高管详解新Roadster：放弃四驱、专用4680电池，目标车重不到1.7吨",
      "link": "https://wallstreetcn.com/articles/3783829",
      "pubDate": "Sat, 17 Oct 2026 10:08:17 +0800",
@@ -2273,28 +2321,20 @@
      "zh": "上线了！2027见闻历超值预售99元，活动火热进行中！"
     },
     {
-     "title": "“齐鲁七星”闪耀时",
-     "link": "http://www.eeo.com.cn/2026/1017/1067608.shtml",
-     "pubDate": "Sat, 17 Oct 2026 09:58:14 +0800",
-     "summary": "2026年10月14日上午，济南黄河国际会展中心。当2026人工智能产业大会的大幕拉开，七个工业垂域大模型的名字被一同点亮在主会场的巨幕上——海若、天智、星际、云鼎、星港、尚智、奇智孔明。它们被赋予了一个极具意象的名字：“齐鲁七星”。 不炒万亿参数的概念，不做通用对话的表演，这七颗“星”各自扎根于石化、港口、钢铁、家电制造、工业视觉、煤化工、智能制造装备等不同的产业土壤，共同构成了山东工业大模型版图上最亮眼的垂域矩阵。如果说消费场景的AI是浅水区，热闹、炫酷，更贴近百姓生活；制造场景的AI则是深水区，无声",
-     "source": "经济观察网",
-     "zh": "“齐鲁七星”闪耀时"
+     "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
+     "link": "http://finance.eastmoney.com/news/1344,202610173899011625.html",
+     "pubDate": "Sat, 17 Oct 2026 10:01:07 +0800",
+     "summary": "警告AI失控风险、呼吁暂停前沿AI研发之后，Anthropic又有了新动作。 据最新报道显示， 日前Anthropic的代表私下向美国国会议员介绍了一份法案草案，该草案意在监管前沿AI安全。 这也意味着，在AI发展陷入争议的当下，这家AI巨头正在采取一系列措施，试图影响事关自家技术监管的规则制定。 Anthropic一位发言人表示，“这项法案体现了我们在《高级 人工智能 框架》中提出的建议。自今年6月以来，我们一直在推动联邦和州层面的立法者采纳这些建议。我们认为这些政策合理可行，国会应当采取行动。” 根据法案草案， 只有当某个模型存在“可预见且迫在眉睫的风险”，可能造成超过10亿美元损失，或导",
+     "source": "东方财富资讯",
+     "zh": "Anthropic秘密游说国会 推动制定前沿AI监管法案"
     },
     {
-     "title": "【环球财经】纽约金价16日上涨",
-     "link": "http://www.eeo.com.cn/2026/1017/1067598.shtml",
-     "pubDate": "Sat, 17 Oct 2026 09:52:13 +0800",
-     "summary": "新华财经纽约10月16日电（记者徐静）纽约商品交易所黄金期货市场交投最活跃的2026年12月黄金期价16日上涨0.35%，收于每盎司4184.85美元。 美元走软和美国国债收益率走低继续支撑贵金属价格，黄金、白银价格...",
-     "source": "经济观察网",
-     "zh": "【环球财经】纽约金价16日上涨"
-    },
-    {
-     "title": "【环球财经】伦敦金属交易所基本金属16日多数上涨",
-     "link": "http://www.eeo.com.cn/2026/1017/1067597.shtml",
-     "pubDate": "Sat, 17 Oct 2026 09:52:12 +0800",
-     "summary": "新华财经伦敦10月17日电（记者张亚东）伦敦金属交易所基本金属价格16日收盘时多数上涨。 3个月期铜收于每吨14359.50美元，比前一交易日的收盘价每吨上涨50.50美元，涨幅为0.35%。 3个月期铝收于每吨3...",
-     "source": "经济观察网",
-     "zh": "【环球财经】伦敦金属交易所基本金属16日多数上涨"
+     "title": "股票回购增持贷款将满两周年 上市公司回购热情不减 贷款金额与笔数缘何大幅下滑？",
+     "link": "http://stock.eastmoney.com/news/11134,202610173899007990.html",
+     "pubDate": "Sat, 17 Oct 2026 09:36:00 +0800",
+     "summary": "距离央行等三部门正式设立股票回购增持再贷款近两年，Wind数据显示（按笔数统计，未按上市公司去重），政策第二年（2025年10月18日起至2026年10月16日），A股上市公司共申请回购增持贷款366笔、金额上限约816亿元，笔数、金额较首年均大幅回落，分别下滑约51%、46%。 但“冷”的只是贷款，上市公司的回购热情并未减退。Wind数据显示，政策第二年A股上市公司的回购金额约1573.88亿元，同比增长13.8%；主要股东增持则出现收缩，金额从首年的约932.07亿元回落至约666.37亿元，同比下降28.5%。 同时，近期公告大额回购的科技龙头，回购资金多来自自有或自筹，并未动用专项贷款",
+     "source": "东方财富资讯",
+     "zh": "股票回购增持贷款将满两周年 上市公司回购热情不减 贷款金额与笔数缘何大幅下滑？"
     },
     {
      "title": "Trump’s press secretary Katie Zacharia fired after five days",
@@ -2303,14 +2343,6 @@
      "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
      "source": "Financial Times",
      "zh": "Trump’s press secretary Katie Zacharia fired after five days"
-    },
-    {
-     "title": "“什么时候都有戏”，剧迷爱上“入沪连打”，剧场附近餐厅都被吃到爆单",
-     "link": "http://www.eeo.com.cn/2026/1017/1067557.shtml",
-     "pubDate": "Sat, 17 Oct 2026 09:26:12 +0800",
-     "summary": "蓝鲸新闻10月17日讯（记者 郝妍）10月是上海秋天最好的时候，没有夏日的酷暑，满城桂花飘香，还有文艺青年的盛事——上海国际艺术节。 据悉，今年艺术节各类演出展览活动近400项、总场次近1100场，六十台舞台演出里，在沪首演的比例接近 90%，“上海独家、中国唯一”的演出有13台。 于是这个月，上海又多了一个身份：文艺爱好者的旅行目的地。“为一部戏，赴一座城”在这个秋天被反复引用。它说得没错，只是说得晚...",
-     "source": "经济观察网",
-     "zh": "“什么时候都有戏”，剧迷爱上“入沪连打”，剧场附近餐厅都被吃到爆单"
     },
     {
      "title": "华尔街开出中期选举价码：民主党因子暴涨20%，大盘却深陷“盲区”",
@@ -2329,20 +2361,12 @@
      "zh": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火"
     },
     {
-     "title": "用切身之痛告诉大家：一定要有一个跟孩子保持“真实连接”的日常活动",
-     "link": "http://www.eeo.com.cn/2026/1017/1067523.shtml",
-     "pubDate": "Sat, 17 Oct 2026 09:00:00 +0800",
-     "summary": "情感账户要从小建立，当父母主动走进孩子的内心，尊重孩子的感受、理解孩子的情绪，当孩子感到爱和安全，那么情感账户里的“钱”也就是与父母的亲密感越多，亲子关系越好。",
-     "source": "经济观察网",
-     "zh": "用切身之痛告诉大家：一定要有一个跟孩子保持“真实连接”的日常活动"
-    },
-    {
-     "title": "商务部详解修订《中国禁止出口限制出口技术目录》",
-     "link": "http://www.eeo.com.cn/2026/1017/1067515.shtml",
-     "pubDate": "Sat, 17 Oct 2026 08:52:06 +0800",
-     "summary": "新华财经北京10月17日电（记者谢希瑶、黄韬铭）商务部、科技部16日发布公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，并对相关技术实施出口前登记的临时管理措施。此次公开征求意见涉及拟增列的人工智能、生物医药、光伏三个领域40项关键技术。 其中，拟禁止出口技术14项，包括人工智能驱动的恶意代码生成与变异技术、具有自主知识产权的细胞和基因治疗技术工艺平台、钙钛矿及叠层电池组件生产技术等；拟限...",
-     "source": "经济观察网",
-     "zh": "商务部详解修订《中国禁止出口限制出口技术目录》"
+     "title": "商务部、科技部拟新增五项生物医药技术出口管制：防范“拔根式”转让",
+     "link": "http://finance.eastmoney.com/news/1344,202610173899003396.html",
+     "pubDate": "Sat, 17 Oct 2026 08:57:35 +0800",
+     "summary": "10月16日，商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》（以下简称《目录》）公开征求意见，并对相关技术实施出口前登记的临时管理措施。 商务部新闻发言人称，现行《目录》中已有部分生物医药技术，此次拟增列病原微生物、细胞和基因治疗、小核酸药相关5项技术，主要有以下考虑： 一是维护人类生命健康安全。病原微生物技术等直接关系人类健康和国家生物安全，将其纳入《目录》实施禁止出口，是维护国家安全、构筑生物安全屏障的制度安排，也是保护全人类健康的客观需要。 二是支持我国生物医药技术依法依规有序开展国际合作。此次列管生物医药技术，对国际合作的重要情形作出排除或适用便利措施",
+     "source": "东方财富资讯",
+     "zh": "商务部、科技部拟新增五项生物医药技术出口管制：防范“拔根式”转让"
     },
     {
      "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
@@ -2361,12 +2385,36 @@
      "zh": "卢比单周涨2%创七个月最大，贸易逆差却扩大至302亿美元，印度央行护盘资金已动用约一半"
     },
     {
+     "title": "2.6万亿赛道迎三重催化！6只滞涨股出炉 机构扎堆调研且融资客重点加仓",
+     "link": "http://finance.eastmoney.com/news/1344,202610173898999156.html",
+     "pubDate": "Sat, 17 Oct 2026 08:18:47 +0800",
+     "summary": "创新药 板块迎来密集催化。 10月16日， 创新药 板块概念股早盘普涨，尽管下午整体跳水，但不少概念股仍走势坚挺。截至当日收盘， 尖峰集团 强势涨停， 莱美药业 逼近涨停， 誉衡药业 、 透景生命 等当日涨幅均超过7%。 创新药 板块迎来多重利好消息 近期，创新药板块从行业盛会、对外授权交易以及业绩方面迎来密集催化。 从消息面来看，近期，创新药板块迎来多场盛会。国际方面，据ESMO（欧洲肿瘤内科学会）官网消息，2026年ESMO大会将于2026年10月23日至27日在西班牙马德里举行。据悉，ESMO大会每年举办一次，汇聚了来自世界各地顶级专家和研究人员，共同分享最新的研究成果和医疗进展。作为全",
+     "source": "东方财富资讯",
+     "zh": "2.6万亿赛道迎三重催化！6只滞涨股出炉 机构扎堆调研且融资客重点加仓"
+    },
+    {
      "title": "Brent crude hits $110 for first time since May; U.S. WTI tops $100",
      "link": "https://seekingalpha.com/news/4654025-brent-crude-hits-110-for-first-time-since-may-us-wti-tops-100?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 16 Oct 2026 20:06:25 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Brent crude hits $110 for first time since May; U.S. WTI tops $100"
+    },
+    {
+     "title": "机构：第三季度上海办公楼市场需求回暖",
+     "link": "http://finance.eastmoney.com/news/1354,202610173898997557.html",
+     "pubDate": "Sat, 17 Oct 2026 08:01:00 +0800",
+     "summary": "近日，多家 商业地产 机构相继发布2026年第三季度上海 房地产 市场报告。数据均显示，上海 商业地产 市场延续需求修复与产业升级共振的态势：办公楼市场需求回暖、零售物业活跃度提升、投资市场前三季度累计交易总额同比双位数增长。 办公楼市场需求持续修复 第三季度，上海办公楼市场需求持续修复。 CBRE 世邦魏理仕 和 仲量联行 的报告均显示，2026年第三季度上海办公楼市场迎来3个新项目入市，而受益于 租赁 需求的回暖，整体市场空置率环比下降。 CBRE的报告显示，第三季度上海办公楼市场需求端持续保持活跃，新设立及扩租需求占比达38%，连续两个季度维持在三成以上。市场需求进一步向优质项目集中，甲",
+     "source": "东方财富资讯",
+     "zh": "机构：第三季度上海办公楼市场需求回暖"
+    },
+    {
+     "title": "黄仁勋谈AI大跌：“这一切都会过去”",
+     "link": "http://stock.eastmoney.com/news/11228,202610173898998097.html",
+     "pubDate": "Sat, 17 Oct 2026 07:58:56 +0800",
+     "summary": "【导读】昨夜今晨美股市场全线大跌，黄仁勋谈AI市场震荡“这一切都会过去” 10月17日，美股市场全线下挫，科技股遭受新一轮抛售，纳指单日重挫2%，芯片股连续第八个交易日收跌，创2008年以来最长连跌纪录，科技七巨头遭遇重挫。与此同时，油价拉涨支撑能源板块，必需消费板块逆市收红。 黄仁勋表现出乐观态度，称AI市场震荡“这一切都会过去”。国际油价受地缘风险推动大涨。 美股三大股指全线收跌 纳指单日跌幅达2.14% 美股三大股指全线收跌，道琼斯工业平均指数高开后转跌，收跌0.34%；标普500指数跌1.09%； 纳斯达克 综合 指数低开低走，收盘跌幅扩大至2.14%。 从周度表现来看，标普500指数",
+     "source": "东方财富资讯",
+     "zh": "黄仁勋谈AI大跌：“这一切都会过去”"
     },
     {
      "title": "苹果称iPhone Duo需求\"非同寻常\"，预购开放数分钟即告罄，发货延至明年1月",
@@ -2447,54 +2495,6 @@
      "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock.",
      "source": "MarketWatch",
      "zh": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension."
-    },
-    {
-     "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
-     "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 21:30:00 GMT",
-     "summary": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
-     "source": "MarketWatch",
-     "zh": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention."
-    },
-    {
-     "title": "Katie Zacharia out as Trump&apos;s White House press secretary",
-     "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-     "pubDate": "Fri, 16 Oct 2026 21:26:15 GMT",
-     "summary": "Zacharia was on shaky ground from her first White House press conference and over questions about her claims of being a lawyer despite not passing a bar exam.",
-     "source": "CNBC",
-     "zh": "Katie Zacharia out as Trump&apos;s White House press secretary"
-    },
-    {
-     "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
-     "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 21:21:00 GMT",
-     "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
-     "source": "MarketWatch",
-     "zh": "New SEC rules would fleece everyday investors to enrich Wall Street"
-    },
-    {
-     "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-     "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-     "pubDate": "Fri, 16 Oct 2026 21:15:00 GMT",
-     "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
-     "source": "MarketWatch",
-     "zh": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?"
-    },
-    {
-     "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-     "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-     "pubDate": "Fri, 16 Oct 2026 20:02:21 GMT",
-     "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
-     "source": "CNBC",
-     "zh": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries"
-    },
-    {
-     "title": "Wall Street&apos;s fear gauge is ripping. Traders see it going even higher",
-     "link": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
-     "pubDate": "Fri, 16 Oct 2026 19:28:10 GMT",
-     "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher.",
-     "source": "CNBC",
-     "zh": "Wall Street&apos;s fear gauge is ripping. Traders see it going even higher"
     }
    ]
   },

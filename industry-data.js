@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 13:03:33",
+ "generated_at": "2026/10/17 13:09:46",
  "recent_days": 7,
  "industries": [
   {
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A (Duncan Riley/SiliconANGLE)",
+     "link": "https://www.techmeme.com/261017/p2#a261017p2",
+     "pubDate": "Sat, 17 Oct 2026 01:05:01 -0400",
+     "summary": "Duncan Riley / SiliconANGLE : Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A &nbsp; &mdash;&nbsp; Ambient intelligence startup Mistlabs Ltd. today brought its Ambi artificial intelligence system",
+     "source": "Techmeme",
+     "zh": "Mistlabs 开发了 Ambi，这是一款适用于 iPhone、Apple Watch 和 Mac 的环境人工智能应用程序，可通过对话了解用户，并在 A 轮融资前筹集了 2600 万美元（Duncan Riley/SiliconANGLE）"
+    },
+    {
      "title": "努比亚 V90 Pro 手机渲染图曝光：1.08 亿像素主摄、存储翻倍至 512GB",
      "link": "https://www.ithome.com/1/014/268.htm",
      "pubDate": "Sat, 17 Oct 2026 04:59:20 GMT",
@@ -1869,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "\"In every study that considered the question\"",
      "link": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
      "pubDate": "Sat, 17 Oct 2026 04:08:27 +0000",
-     "summary": "Article URL: https://unsung.aresluna.org/in-every-study-that-considered-the-question/ Comments URL: https://news.ycombinator.com/item?id=50127839 Points: 7 # Comments: 3",
+     "summary": "Article URL: https://unsung.aresluna.org/in-every-study-that-considered-the-question/ Comments URL: https://news.ycombinator.com/item?id=50127839 Points: 10 # Comments: 6",
      "source": "Hacker News",
      "zh": "“在每一项考虑这个问题的研究中”"
     },
@@ -1880,6 +1888,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 17 日消息，工信部昨日公布《道路机动车辆生产企业及产品公告》（第 412 批）拟发布的新准入车辆生产企业及已准入企业变更信息清单，岚图汽车科技股份有限公司在列，备注显示为东风集团成员企业。 岚图汽车（VOYAH）是东风汽车集团有限公司旗下的高端智慧新能源品牌。2020 年 7 月 17 日，东风公司在武汉正式发布全新高端电动品牌中文名“岚图”及品牌 LOGO，全新的岚图汽车科技公司正式成立。 今年 3 月 19 日，岚图汽车正式在香港联交所主板挂牌上市，号称“央国企高端新能源汽车第一股”。 据IT之家此前报道， 岚图汽车 2026 年 9 月交付 13,025 辆 ；今年",
      "source": "IT之家",
      "zh": "工信部公布新准入车辆生产企业名单，岚图汽车在列"
+    },
+    {
+     "title": "DeepSeek v4.1 flash on OpenCode pretty good",
+     "link": "https://github.com/aditauqir/shev",
+     "pubDate": "Sat, 17 Oct 2026 03:47:50 +0000",
+     "summary": "Article URL: https://github.com/aditauqir/shev Comments URL: https://news.ycombinator.com/item?id=50127732 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "DeepSeek v4.1 flash 在 OpenCode 上相当不错"
     },
     {
      "title": "为了查“公园哪个门人最多”，一批腾讯AI智能体，在高德上折腾了11天",
@@ -1917,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Butlerian Jihad",
      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
      "pubDate": "Sat, 17 Oct 2026 02:21:08 +0000",
-     "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 127 # Comments: 68",
+     "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 133 # Comments: 73",
      "source": "Hacker News",
      "zh": "巴特勒圣战"
     },
@@ -1984,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links. I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a po",
      "source": "Hacker News",
      "zh": "Show HN：Fakeipedia – 不存在的世界的维基百科"
-    },
-    {
-     "title": "Apple updates App Review Guidelines to crack down on AI nudify apps and apps that reveal undocumented capabilities, like nudification, after app review (Marcus Mendes/9to5Mac)",
-     "link": "https://www.techmeme.com/261016/p26#a261016p26",
-     "pubDate": "Fri, 16 Oct 2026 19:45:01 -0400",
-     "summary": "Marcus Mendes / 9to5Mac : Apple updates App Review Guidelines to crack down on AI nudify apps and apps that reveal undocumented capabilities, like nudification, after app review &nbsp; &mdash;&nbsp; Apple updated its App Review Guidelines today with a series of changes meant to strengthen protection",
-     "source": "Techmeme",
-     "zh": "苹果更新了应用程序审查指南，以打击人工智能裸体应用程序和在应用程序审查后揭示未记录功能（例如裸体）的应用程序（Marcus Mendes/9to5Mac）"
-    },
-    {
-     "title": "Nine-Inch Snails",
-     "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-     "pubDate": "Fri, 16 Oct 2026 22:21:05 +0000",
-     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 41 # Comments: 20",
-     "source": "Hacker News",
-     "zh": "九寸蜗牛"
     }
    ]
   },
@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "重庆部署推进安责险工作 八大高危行业领域将全覆盖投保",
+     "link": "http://www.eeo.com.cn/2026/1017/1067881.shtml",
+     "pubDate": "Sat, 17 Oct 2026 12:52:11 +0800",
+     "summary": "第1眼TV-华龙网讯（记者 梁浩楠）10月16日，重庆市召开全市安责险推进工作视频会议。重庆金融监管局、市应急管理局、市住房城乡建委、市交通运输委、市经济信息委、市商务委分别部署本行业领域安责险（安全生产责任保险）工作。 会议现场。受访单位供图 重庆在全国较早探索安责险制度，有着良好的安责险制度实施的社会环境。今年，《重庆市安全生产责任保险实施细则》及联合工作机制、事故预防服务等配套文件相继出台，为...",
+     "source": "经济观察网",
+     "zh": "重庆部署推进安责险工作 八大高危行业领域将全覆盖投保"
+    },
+    {
      "title": "活力中国调研行｜边境线上的糖都崇左：出海运费有望砍半，进口代工企业谈成首笔出口订单",
      "link": "http://www.eeo.com.cn/2026/1017/1067865.shtml",
      "pubDate": "Sat, 17 Oct 2026 12:39:12 +0800",
@@ -2328,14 +2336,6 @@ window.INDUSTRY_DATA = {
      "summary": "As regional conflicts rage and revisionist powers challenge the established order, warnings of a new global conflagration are growing louder",
      "source": "Financial Times",
      "zh": "我们正在梦游第三次世界大战吗？"
-    },
-    {
-     "title": "10月16日当周中国管道天然气现货价格为每立方米4.89元",
-     "link": "http://www.eeo.com.cn/2026/1017/1067788.shtml",
-     "pubDate": "Sat, 17 Oct 2026 11:52:11 +0800",
-     "summary": "新华财经上海10月17日电（葛佳明）上海石油天然气交易中心16日消息，16日当周，上海石油天然气交易中心成交的2026年10月交付中国管道天然气现货价格为4.89元／立方米。 据介绍，“中国管道天然气现货价格”是基于上海石油天然气交易中心管道天然气现货交易形成的价格，为全国当月或下月交付的管道天然气现货价格的周度均价。 上海石油天然气交易中心每周五对外发布“中国管道天然气现货价格”及各省份同期交...",
-     "source": "经济观察网",
-     "zh": "10月16日当周中国管道天然气现货价格为每立方米4.89元"
     },
     {
      "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",

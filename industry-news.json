@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/17 19:29:42",
+ "generated_at": "2026/10/17 19:49:43",
  "recent_days": 7,
  "industries": [
   {
@@ -454,7 +454,7 @@
      "pubDate": "Thu, 15 Oct 2026 19:00:00 +0000",
      "summary": "Japan’s $21B offer to GlobalFoundries would add two New York fabs and lift U.S. chip capacity 10%; see why analysts warn on state support. The post Japan Offers GlobalFoundries $21B for U.S. Fab Expansion appeared first on EE Times .",
      "source": "EE Times",
-     "zh": "日本向 GlobalFoundries 提供 21B 美元用于美国晶圆厂扩建"
+     "zh": "日本向 GlobalFoundries 提供 210 亿美元用于美国晶圆厂扩建"
     },
     {
      "title": "Design the Right Chip: Why Prototyping Has to Be Easy",
@@ -649,6 +649,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Chery's Huawei-backed Luxeed to get independent carmaking license, plans IPO",
+     "link": "https://cnevpost.com/2026/10/17/chery-luxeed-carmaking-license-plans-ipo/",
+     "pubDate": "Sat, 17 Oct 2026 11:41:46 +0000",
+     "summary": "Luxeed is set to obtain its own production license, and an insider said the Chery unit plans to go public independently in the future. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "奇瑞华为支持的Luxeed获得独立汽车制造牌照，计划IPO"
+    },
+    {
      "title": "BYD's all-new Han and third-gen Qin Plus appear in filings as core sedan refresh continues",
      "link": "https://cnevpost.com/2026/10/17/byd-all-new-han-third-gen-qin-plus-filings/",
      "pubDate": "Sat, 17 Oct 2026 09:48:27 +0000",
@@ -791,14 +799,6 @@
      "summary": "Tesla execs Lars Moravy and Franz von Holzhausen spilled the beans on Tesla’s most outrageous car ever.",
      "source": "InsideEVs",
      "zh": "Tesla Roadster 拥有 1,341 马力，续航里程达到埃隆·马斯克曾经承诺的一半。这是完整的规格"
-    },
-    {
-     "title": "Tesla's Roadster can fly, and Nio's William Li admits: 'This we really don't have'",
-     "link": "https://cnevpost.com/2026/10/16/tesla-roadster-can-fly-nio-william-li-comment/",
-     "pubDate": "Fri, 16 Oct 2026 12:42:58 +0000",
-     "summary": "Nio founder reposted a Roadster stunt video and praises Tesla, echoing his 2018 remark that \"whatever Tesla has, we have.\" For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "特斯拉Roadster能飞，蔚来李斌承认：“这个我们真的没有”"
     },
     {
      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
@@ -1550,7 +1550,7 @@
      "pubDate": "Sat, 17 Oct 2026 16:41:56 +0530",
      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloade",
      "source": "The Hacker News",
-     "zh": "MALFEX npm 包“imgdecode”隐藏 Windows Native Addon 中的 Shellcode 加载器"
+     "zh": "MALFEX npm 包“imgdecode”在 Windows Native Addon 中隐藏 Shellcode 加载器"
     },
     {
      "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
@@ -1761,12 +1761,68 @@
    "total": 18,
    "items": [
     {
-     "title": "宇树科技展示中心在天津建成投用，集中陈列多款机器人产品",
-     "link": "https://www.ithome.com/1/014/380.htm",
-     "pubDate": "Sat, 17 Oct 2026 11:21:44 GMT",
-     "summary": "IT之家 10 月 17 日消息，据“天津发布”消息， 近日，宇树科技展示中心在天津经开区科技发展中心三号楼正式建成投用。该展厅将作为 宇树机器人 专属产品展示阵地，集中陈列多款系列机器人产品，直观呈现前沿机器人领域技术成果。 IT之家注意到，宇树科技展示中心共设两层，一层为主展示展厅，二层为办公会议区域。其中，一层展厅总面积 1189.04 平方米，划分为静态展示区与六大功能体验区两大板块。 静态展示区设置企业发展历程与品牌文化墙， 集中陈列人形机器人、四足仿生机器人整机展品 ，同步展出伺服关节、灵巧手等自研核心零部件，系统展现企业技术迭代路径与硬核研发实力。 六大功能体验区打造实景化应用场",
+     "title": "边建设边运营：“鹏城云脑 Ⅲ”10000P 国产算力上线试运行",
+     "link": "https://www.ithome.com/1/014/387.htm",
+     "pubDate": "Sat, 17 Oct 2026 11:48:30 GMT",
+     "summary": "IT之家 10 月 17 日消息，10 月 15 日至 16 日，2026 世界算力网大会（WCNC 2026）在深圳举行。开幕式上，大科学装置“鹏城云脑 Ⅲ”的 10000P 国产算力正式上线试运行。 公开报道显示，鹏城云脑 Ⅲ 采用的是华为昇腾最前沿的 384 超节点架构，首期设备已于今年 3 月通电点亮，完全建成后算力规模将达到 16000P（IT之家注：合 16 EFLOPS）。 此次 10000P 算力先行投入运营，意味着这座规划中的国内单体规模最大智算设施进入“边建设、边运营”新阶段，在全部建成之前已开始向国产大模型训练与科学智能研究输出算力。",
      "source": "IT之家",
-     "zh": "宇树科技展示中心在天津建成投用，集中陈列多款机器人产品"
+     "zh": "边建设边运营：“鹏城云脑 Ⅲ”10000P 国产算力上线试运行"
+    },
+    {
+     "title": "一加 Ace 7 系列手机外观首曝，搭载主动散热风扇",
+     "link": "https://www.ithome.com/1/014/386.htm",
+     "pubDate": "Sat, 17 Oct 2026 11:48:10 GMT",
+     "summary": "IT之家 10 月 17 日消息，一加 Ace 7 系列手机已在电商平台开启预约，预计有一加 Ace 7 与一加 Ace 7 Pro 两款新机。今日，社交平台上首次曝光了该机的外观设计。 从图上可以看到，新机采用矩形相机模组设计， 模组内嵌入了主动散热风扇 ，机身背面有渐变色效果，同时印有一加品牌 logo 以及 ACE 系列标识。 据博主 @数码闲聊站 此前透露， 一加月底发布的性能新机 ，全系标配 200Mp 大底主摄，Pro 还有一颗 50Mp 3.5X 潜望长焦，有 OPPO 影像旗舰同款算法，属于接下来这批性能机里影像配置最强的，没有对手。",
+     "source": "IT之家",
+     "zh": "一加 Ace 7 系列手机外观首曝，搭载主动散热风扇"
+    },
+    {
+     "title": "越南团队两月拿下500万安装、登顶美国模拟榜：“Obby玩法”正在被手游厂商批量接收？",
+     "link": "https://www.huxiu.com/article/4898310.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 19:38:15 +0800",
+     "summary": "本文来自微信公众号： 扬帆出海 ，作者：弹痕，编辑：火狐狸 2025年年中以来，Roblox玩法复刻的手游产品出现得很集中。比如2025年5月上线的《Steal a Brainrot》，其玩法半年内就在手游端成批出现了仿品；其余热门玩法如“Find the___”“RNG”“Grow a Garden”等也不乏“搬运”。 最近我们又观察到，2026年6月起，手游端集中出现了一批键盘跑酷（Keyboard Escape）游戏，排名第一和第二的产品都来自越南厂商。 核心玩法相同的一众产品，但在叙事包装上有些许变化图源：点点数据 休闲赛道的头部效应很明显，Roblox在上半年全球下载榜中排名第三，约",
+     "source": "虎嗅",
+     "zh": "越南团队两月拿下500万安装、登顶美国模拟榜：“Obby玩法”正在被手游厂商批量接收？"
+    },
+    {
+     "title": "系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元",
+     "link": "https://www.ithome.com/1/014/385.htm",
+     "pubDate": "Sat, 17 Oct 2026 11:37:50 GMT",
+     "summary": "IT之家 10 月 17 日消息，波西米亚互动开发发行的知名生存游戏《DayZ》全新官方地图扩展《DayZ Badlands》现已登陆 Steam 平台，目前国区开启首发 10% 折扣，折后售价为 107.10 元，优惠截止至 10 月 29 日。该 DLC 需要拥有基础游戏《DayZ》才能畅玩，支持简体中文界面与字幕。 IT之家附游戏商品页（ https://store.steampowered.com/app/3816030/DayZ_Badlands/ ）。 你的沙漠生存冒险之旅始于《DayZ Badlands》中动荡不安的地区。在酷热难耐的纳斯达拉省，烈日炙烤着一望无际的龟裂土地和流动",
+     "source": "IT之家",
+     "zh": "系列最大官方地图：《DayZ》游戏地图“Badlands”扩展包发售，Steam 国区 107.10 元"
+    },
+    {
+     "title": "京东 10 月 20 日 20 点 11.11 再加码：厨房小电皆好价，海尔微波炉仅 178 元",
+     "link": "https://www.ithome.com/1/014/384.htm",
+     "pubDate": "Sat, 17 Oct 2026 11:37:13 GMT",
+     "summary": "京东 10 月 20 日 20:00 将再次开启 11.11 高潮狂促，厨房小电目前已放出优惠前瞻信息： 点此查看 。 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 目前小家电会场已放出“5 折限时抢”与“无惧比价”两个好价专区： 部分好价单品 下单时选择“ 以旧换新 ” → 个护健康 / 厨房小电 → 电动牙刷 / 普通餐具， 不回收 。 京东 海尔 HW-M20J1W 微波炉 站外种草返 20 元 折 178 元 以旧换新 198 元 领 8 折券 美的电饭煲可点宝贝右上方 直播浮窗 领 500-50 元券，以旧换新后 PLUS 会员实付 409 元。",
+     "source": "IT之家",
+     "zh": "京东 10 月 20 日 20 点 11.11 再加码：厨房小电皆好价，海尔微波炉仅 178 元"
+    },
+    {
+     "title": "普联 TP-LINK 推出新款大道 BE6400 路由器 TL-7DR6460：四 2.5G 网口 + 双千兆网口，389 元",
+     "link": "https://www.ithome.com/1/014/383.htm",
+     "pubDate": "Sat, 17 Oct 2026 11:30:25 GMT",
+     "summary": "IT之家 10 月 17 日消息，普联（TP-LINK）上周推出的新款大道 BE6400 路由器（型号 TL-7DR6460）已经开售，京东和天猫显示为 389 元。 京东 普联（TP-LINK）大道路由器 TL-7DR6460 5G wifi7 千兆家用高速 2.4G wifi6 tplink 无线 2.5G 口大户型穿墙全屋 wifi BE6400 389 元 直达链接 这款 Wi-Fi 7 路由器采用了 AI 工程师参与研发的全新像素天线，信号覆盖能力得以提升；无线速率达 5764Mbps；配备 5 颗外置独立 FEM；5G 性能与 BE7200 一致（IT之家注：包括 4T5R 高效收",
+     "source": "IT之家",
+     "zh": "普联 TP-LINK 推出新款大道 BE6400 路由器 TL-7DR6460：四 2.5G 网口 + 双千兆网口，389 元"
+    },
+    {
+     "title": "The Best LED Grow Lights for Houseplants This Winter (2026)",
+     "link": "https://www.wired.com/story/best-led-grow-lights/",
+     "pubDate": "Sat, 17 Oct 2026 11:30:00 +0000",
+     "summary": "Shorter days don’t have to spell trouble for your houseplants. These are the lights we’ve used and loved in our own homes.",
+     "source": "WIRED",
+     "zh": "今年冬天最适合室内植物的 LED 生长灯 (2026)"
+    },
+    {
+     "title": "科大讯飞 AI 词典笔 X9 上架：内置 85 本词典、支持小初高 9 科知识查询，744 元",
+     "link": "https://www.ithome.com/1/014/382.htm",
+     "pubDate": "Sat, 17 Oct 2026 11:29:34 GMT",
+     "summary": "IT之家 10 月 17 日消息，科大讯飞现已在京东上架讯飞 AI 词典笔 X9，定价为 744 元，部分地区国补后低至 674.1 元。 该词典笔配备 3.48 英寸莱茵低蓝光护眼屏，配备 1100mAh 电池，内置 85 本正版词典及“五千万词库”。扫描响应时间低至 0.3 秒，并支持无网离线查词。其机器翻译能力通过了全国翻译专业资格考试评估，能够进行长难句的语法与结构剖析。 官方强调，该设备提供 11000 篇分级听力内容，覆盖幼儿至高中阶段。口语训练采用中高考同源技术进行音素级纠音，支持 AI 图文对话与蓝牙耳机连接。系统内置艾宾浩斯遗忘曲线以自动生成专属背词计划。 此外，该设备支持小",
+     "source": "IT之家",
+     "zh": "科大讯飞 AI 词典笔 X9 上架：内置 85 本词典、支持小初高 9 科知识查询，744 元"
     },
     {
      "title": "我还能比AI干得更好吗？",
@@ -1775,38 +1831,6 @@
      "summary": "本文来自微信公众号： 中国法律评论 ，作者：桑本谦 （ 中国海洋大学法学院教授），原文标题：《桑本谦 | &ldquo;不看功劳看苦劳&rdquo;：挖一下AI检测的隐含前提》，头图来自：AI生成 一 两个月前，我开始着手写作《疑案的裁判》，一部书稿，也为了结一桩心事。 疑案裁判的关键，不是如何探知事实真相，而是在证明穷尽但真相依然不明的条件下，如何管理两类方向相反的错误：一类错误叫作&ldquo;误挺&rdquo; （错误支持，假阳性） ，另一类错误叫作&ldquo;错拒&rdquo; （错误拒绝，假阴性） 。一旦将疑案裁判和错误管理联系起来，证据法的大门就被打开了，不仅通向实体法，而且通向",
      "source": "虎嗅",
      "zh": "我还能比AI干得更好吗？"
-    },
-    {
-     "title": "V社确认正为 Steam Frame 头显开发全新头带：支持热插拔电池，升级音频表现",
-     "link": "https://www.ithome.com/1/014/379.htm",
-     "pubDate": "Sat, 17 Oct 2026 11:11:59 GMT",
-     "summary": "IT之家 10 月 17 日消息，Valve 向外媒 PCGamer 确认正为旗下 Steam Frame VR 头显开发一款全新头带，新款头带将配备支持热插拔的电池，以及平衡模式辐射器（BMR）驱动单元，旨在提供接近 Valve Index 头显离耳式扬声器的音质体验。 目前，Steam Frame 主要存在续航和音频两方面的改进空间。根据外媒 Road to VR 的评测， 设备在混合使用场景下的续航时间约为 1 至 1.5 小时，可能难以满足长时间游玩需求 。新头带如果支持热插拔电池，用户便有望通过更换电池延长使用时间，而无需等待设备充电。 音频方面，Steam Frame 内置扬声器的",
-     "source": "IT之家",
-     "zh": "V社确认正为 Steam Frame 头显开发全新头带：支持热插拔电池，升级音频表现"
-    },
-    {
-     "title": "IT之家 11.11 严选好货：石头洗烘一体机 5999 → 1598 元，米家 216L 三门冰箱低至 628 元",
-     "link": "https://www.ithome.com/1/014/378.htm",
-     "pubDate": "Sat, 17 Oct 2026 11:10:45 GMT",
-     "summary": "全网 11.11 狂促将现已开抢，数码家电、日用百货、服装鞋帽皆为年内好价。 京东 无门槛红包至高 26888 元 ，每天抽 3 次： 点此抽红包 。 淘宝 无门槛红包至高 26888 元 ，每天抽 1 次： 点此抽红包 。 IT之家 · 严选好货 数码类 京东 华为 FreeClip 2 耳夹耳机 国补限地区 1299 → 978 元 直达链接 京东 Apple AirPods 5 支持主动降噪 国补后 789.9 元期 直达链接 京东 小米 17 Pro Max 16+512G 7299 → 5749 元 直达链接 天猫 REDMI K100 Pro Max 需叠加 88VIP 消费券 国",
-     "source": "IT之家",
-     "zh": "IT之家 11.11 严选好货：石头洗烘一体机 5999 → 1598 元，米家 216L 三门冰箱低至 628 元"
-    },
-    {
-     "title": "机械革命 imini P700 迷你电脑主机新增 AMD R7 H255 + 16G + 512G 配置，4399 元",
-     "link": "https://www.ithome.com/1/014/377.htm",
-     "pubDate": "Sat, 17 Oct 2026 11:10:25 GMT",
-     "summary": "IT之家 10 月 17 日消息，机械革命 imini P700 迷你主机新增了一款搭载 AMD 锐龙 7 H 255 处理器、16GB DDR5 5600 内存、512GB 固态硬盘的版本，首发价 4399 元。 京东 机械革命 imini P700 台式迷你主机 R7 H255 16G DDR5 512G SSD 券后 4399 元 领 200 元券 该机搭载 AMD 锐龙 7 H 255 处理器，配备 AMD Radeon 780M 核心显卡；配备双 SODIMM 插槽，可升级至最高 128GB 内存；配备 2 个 M.2 2280 SSD 插槽。 接口方面，该机支持 HDMI+DP+T",
-     "source": "IT之家",
-     "zh": "机械革命 imini P700 迷你电脑主机新增 AMD R7 H255 + 16G + 512G 配置，4399 元"
-    },
-    {
-     "title": "5999 → 1598 元：石头 H1 分子筛洗烘一体机直降，12kg 一键洗完烘干直接穿",
-     "link": "https://www.ithome.com/1/014/376.htm",
-     "pubDate": "Sat, 17 Oct 2026 11:09:05 GMT",
-     "summary": "【京东活动可能随时变更，需以实付款为准】 石头分子筛洗烘一体机 H1 12kg，定价 5999 元，今日标价 4299 元： 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1598 元： 领 8 折优惠券： 点此领取 下单时选择“以旧换新 → 个护健康 → 电动牙刷（无需回收）”补贴 80 元。 大多数用户可弹出限时 30 分钟的 9.4 折券。 京东 石头 分子筛洗烘一体机 H1 12kg 券后 1598 元 领 8 折券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 灰色、白色两色可选，活动随时结束。 基于低",
-     "source": "IT之家",
-     "zh": "5999 → 1598 元：石头 H1 分子筛洗烘一体机直降，12kg 一键洗完烘干直接穿"
     },
     {
      "title": "Roadster腾飞之后：特斯拉的光环与代价",
@@ -1841,28 +1865,12 @@
      "zh": "AI信息过载时代，什么才是有价值的行业信号？"
     },
     {
-     "title": "猎户座流星雨将于 10 月 21 日至 22 日迎来极大：无需专业器材肉眼可见，理想条件下每小时 20 颗",
-     "link": "https://www.ithome.com/1/014/373.htm",
-     "pubDate": "Sat, 17 Oct 2026 10:53:24 GMT",
-     "summary": "IT之家 10 月 17 日消息，一年一度的猎户座流星雨将于 2026 年 10 月 21 日至 22 日夜间迎来极大期，大家可以在 10 月 22 日凌晨、月亮落下后至日出前尝试观赏。 在理想观测条件下，每小时天顶流星数（ZHR）预计可达 20 颗，南北半球均有机会观赏。不过，今年的月光会影响观测效果，建议观测者选择月亮落下后的黎明前时段，并尽量远离城市灯光。 ▲ NASA 图示 猎户座流星雨的活动期为 10 月 2 日至 11 月 7 日，其主要成因是地球穿过哈雷彗星（1P/Halley）在轨道上留下的尘埃碎屑。当地球大气层与这些粒子相遇时，粒子高速进入大气层并发光，形成肉眼可见的流星。猎",
-     "source": "IT之家",
-     "zh": "猎户座流星雨将于 10 月 21 日至 22 日迎来极大：无需专业器材肉眼可见，理想条件下每小时 20 颗"
-    },
-    {
      "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
      "link": "https://www.huxiu.com/article/4898301.html?f=rss",
      "pubDate": "Sat, 17 Oct 2026 18:52:42 +0800",
      "summary": "本文来自微信公众号： 华尔街见闻 ，作者：张雅琦 美股正在上演一场罕见的内部撕裂——指数岿然不动，但指数之下已是一片狼藉。 摩根士丹利首席股票策略师Mike Wilson在最新报告中警告，收紧的金融条件正在悄然完成美联储的部分工作，只是这一冲击被集中吸收在普通股票身上，而非以AI为核心的少数巨头。 十年期美债收益率突破5.3%，美元升至本轮周期新高，油价居高不下，三重压力叠加之下，摩根士丹利综合金融条件指数已跳升至约1.4个标准差，这一水平在过去35年中仅被突破数次，上一次还是2022年美联储每次会议加息75个基点之时。与此同时，高盛已将预期修正为10月FOMC再加息一次。 市场的关键裂缝已清",
      "source": "虎嗅",
      "zh": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？"
-    },
-    {
-     "title": "霸王茶姬：努力的小镇奶茶家",
-     "link": "https://www.huxiu.com/article/4898299.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 18:43:47 +0800",
-     "summary": "本文来自微信公众号： 指北Focus ，作者：指北 老牌帝国主义资本主义国家的品牌，还是不够顾全大局。 郑钦文夺冠，劳力士做张海报，就把品牌营销做了。 难道劳力士的制表师傅不喜欢做手表吗？怎么不买一赠一？ 你看我们的霸王茶姬，多努力。 公关部、市场部想必准备了不少方案，预算、汇报、协调门店，最后决定全国买一赠一。 门店员工觉悟也高，有店一天做了2000杯奶茶，平时生意好的时候，也就做1000杯。 就这样幸福美满地参与到了郑钦文夺冠的宏大叙事之中。 结果，小程序崩了，消费者等急了，员工忙哭了，品牌又被骂了。 一家已经上市、拥有7600多家门店的企业，却还像个努力的小镇做题家，生怕错过任何一次考试",
-     "source": "虎嗅",
-     "zh": "霸王茶姬：努力的小镇奶茶家"
     },
     {
      "title": "HTC Made Smart Glasses That Are Way More Private",
@@ -1956,7 +1964,7 @@
      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
      "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
      "pubDate": "Sat, 17 Oct 2026 08:37:46 +0000",
-     "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 198 # Comments: 49",
+     "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 216 # Comments: 59",
      "source": "Hacker News",
      "zh": "DeepSeek：DeepSeek v4.1 Flash 1017"
     },
@@ -1964,7 +1972,7 @@
      "title": "DeepSeek-v4.1-Flash-1017",
      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
      "pubDate": "Sat, 17 Oct 2026 08:21:25 +0000",
-     "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 201 # Comments: 81",
+     "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 212 # Comments: 83",
      "source": "Hacker News",
      "zh": "DeepSeek-v4.1-Flash-1017"
     },
@@ -1991,14 +1999,6 @@
      "summary": "FinTech Global : Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners &nbsp; &mdash;&nbsp; Reach Security has secured more than $50m in a Series B round led by Top Tier Capital Partners, while un",
      "source": "Techmeme",
      "zh": "Reach Security 开发用于保护企业系统的人工智能曝光管理工具，筹集了由顶级资本合作伙伴 (FinTech Global) 领投的超过 5000 万美元的 B 轮融资"
-    },
-    {
-     "title": "Duvo, which develops tech to automate business processes across enterprise systems, including ERPs and legacy apps, raised a $32M Series A led by Balderton (Mike Butcher/Pathfounders)",
-     "link": "https://www.techmeme.com/261017/p6#a261017p6",
-     "pubDate": "Sat, 17 Oct 2026 02:05:01 -0400",
-     "summary": "Mike Butcher / Pathfounders : Duvo, which develops tech to automate business processes across enterprise systems, including ERPs and legacy apps, raised a $32M Series A led by Balderton &nbsp; &mdash;&nbsp; He didn't get very far.&nbsp; He discovered that much of the company's operational knowledge ",
-     "source": "Techmeme",
-     "zh": "Duvo 开发了跨企业系统（包括 ERP 和遗留应用程序）自动化业务流程的技术，筹集了由 Balderton（Mike Butcher/PathFounders）领投的 3200 万美元 A 轮融资"
     }
    ]
   },
@@ -2008,6 +2008,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Double Fine's first post-Xbox title, first-person Soulslikes and other new indie games worth checking out",
+     "link": "https://www.engadget.com/2289293/double-fine-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games/",
+     "pubDate": "Sat, 17 Oct 2026 11:30:00 +0000",
+     "summary": "There were a host of indie game showcases this week, so we're dig into some of the best announcements from them.",
+     "source": "Engadget",
+     "zh": "Double Fine 的首款 Xbox 后游戏、第一人称 Soulslikes 以及其他值得一试的新独立游戏"
+    },
+    {
+     "title": "Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are ‘inaccurate’",
+     "link": "https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/",
+     "pubDate": "Sat, 17 Oct 2026 11:05:00 +0000",
+     "summary": "Following a report that Samsung might skip the latest Snapdragon flagship, Qualcomm says that rumors about the Snapdragon 8 Elite Extreme Gen 6 running into overheating issues are “inaccurate.” more…",
+     "source": "9to5Google",
+     "zh": "高通表示有关 Snapdragon 8 Elite Extreme Gen 6 过热的传言“不准确”"
+    },
     {
      "title": "The one missing feature that stopped me from buying a Fitbit Edge",
      "link": "https://www.androidauthority.com/fitbit-edge-missing-feature-3722753/",
@@ -2225,28 +2241,12 @@
      "zh": "周五的 Android 应用优惠和赠品：Majesty、Boxville 2、Dungeon Defense、Mythic Trials 2 等"
     },
     {
-     "title": "ChatGPT gets deeper Google Chrome integration including control over tabs",
-     "link": "https://9to5google.com/2026/10/16/chatgpt-gets-deeper-google-chrome-integration-including-control-over-tabs/",
-     "pubDate": "Fri, 16 Oct 2026 17:50:00 +0000",
-     "summary": "OpenAI this week announced deeper integration between ChatGPT and Google Chrome, including the ability to hand control over your tabs to the AI assistant. more…",
-     "source": "9to5Google",
-     "zh": "ChatGPT 获得更深入的 Google Chrome 集成，包括对选项卡的控制"
-    },
-    {
      "title": "Analogue returns to the 16-bit era with the Mega Sg+ and Super Nt+",
      "link": "https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/",
      "pubDate": "Fri, 16 Oct 2026 17:03:29 +0000",
      "summary": "Dust off your old Sega Genesis and Super Nintendo cartridges.",
      "source": "Engadget",
      "zh": "模拟通过 Mega Sg+ 和 Super Nt+ 重返 16 位时代"
-    },
-    {
-     "title": "If memory shortages last, tech companies should offer cheap battery replacements",
-     "link": "https://www.engadget.com/2288908/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/",
-     "pubDate": "Fri, 16 Oct 2026 16:32:00 +0000",
-     "summary": "If a company like Apple could offer $29 batteries before, it can do so again.",
-     "source": "Engadget",
-     "zh": "如果内存短缺持续下去，科技公司应该提供廉价的电池替代品"
     }
    ]
   },
@@ -2256,6 +2256,46 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "It was another great week for the average stock as market leadership shifts away from tech",
+     "link": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
+     "pubDate": "Sat, 17 Oct 2026 11:30:00 GMT",
+     "summary": "The S&P 500’s tech sector just had its worst week in a year and a half, while an equal-weighted version of the index cemented a second-straight weekly advance.",
+     "source": "MarketWatch",
+     "zh": "随着市场主导地位从科技股转移，这对普通股来说又是伟大的一周"
+    },
+    {
+     "title": "黄金暗盘突然直线跳水",
+     "link": "http://www.eeo.com.cn/2026/1017/1068397.shtml",
+     "pubDate": "Sat, 17 Oct 2026 19:26:13 +0800",
+     "summary": "刚刚，黄金暗盘突然直线跳水。 消息面上， 中东、俄乌紧张局势再度升级，国际油价高位运行 （布伦特原油暗盘今日涨超4％），通胀预期急剧升温，从而增加了市场对美联储加息的担忧。 泽连斯基称乌能源设施遭俄军大规模袭击 据央视新闻报道，当地时间17日，乌克兰总统泽连斯基表示...",
+     "source": "经济观察网",
+     "zh": "黄金暗盘突然直线跳水"
+    },
+    {
+     "title": "潘功胜：各国应抵制一切形式的保护主义措施",
+     "link": "http://www.eeo.com.cn/2026/1017/1068396.shtml",
+     "pubDate": "Sat, 17 Oct 2026 19:26:05 +0800",
+     "summary": "中新经纬10月17日电 据中国人民银行网站10月17日消息，2026年10月16日至17日，国际货币基金组织(以下简称基金组织)在泰国曼谷召开第54届国际货币与金融委员会(IMFC)会议，会议讨论了全球经济金融形势、基金组织工作等议题。中国人民银行行长潘功胜出席会议并发言。中国人民银行副行长宣昌能参加会议。 会议认为，全球经济在地缘政治等冲击下表现好于预期，但贸易紧张局势加剧不确定性，人工智能技术快速发展加剧分化风险...",
+     "source": "经济观察网",
+     "zh": "潘功胜：各国应抵制一切形式的保护主义措施"
+    },
+    {
+     "title": "警惕“央国企内推”骗局！五部门发布风险提示",
+     "link": "http://www.eeo.com.cn/2026/1017/1068395.shtml",
+     "pubDate": "Sat, 17 Oct 2026 19:13:12 +0800",
+     "summary": "人力资源社会保障部、中央网信办、教育部、公安部、国务院国资委10月16日联合发布警惕“央国企内推”等骗局风险提示，提醒广大求职者特别是高校毕业生提高风险防范意识，谨防上当受骗。 当前，正处求职招聘旺季，一些不法分子冒用央国企名义发布虚假招聘信息引流，打着“内部推荐”“直签保录”等幌子，甚至伪造招聘录用材料，诱导求职者支付高额费用，严重侵害求职者合法权益，扰乱人力资源市场秩序。 相关骗局多...",
+     "source": "经济观察网",
+     "zh": "警惕“央国企内推”骗局！五部门发布风险提示"
+    },
+    {
+     "title": "买养老床位一天没住 解约竟扣42%违约金？",
+     "link": "http://www.eeo.com.cn/2026/1017/1068394.shtml",
+     "pubDate": "Sat, 17 Oct 2026 19:13:06 +0800",
+     "summary": "近日，广州市消委会收到消费者陈女士的投诉。她为母亲购买养老院床位，但母亲尚未入住便因病离世。养老院却表示，因入住人原因单方违约需按合同扣除42%的违约金。",
+     "source": "经济观察网",
+     "zh": "买养老床位一天没住 解约竟扣42%违约金？"
+    },
     {
      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
@@ -2273,28 +2313,28 @@
      "zh": "美联储本月的利率决定比市场想象的更接近"
     },
     {
-     "title": "罕见！资金大规模出逃！美股做空者7天暴赚2140亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899057249.html",
-     "pubDate": "Sat, 17 Oct 2026 18:59:12 +0800",
-     "summary": "过去几天，随着资金大规模出逃，美股 半导体 股遭遇历史性暴跌。 根据彭博社汇编的S3 Partners数据，在10月7日至10月15日的7个交易日中，押注 半导体 股票下跌的做空者累计获得约320亿美元的账面总收益，约合人民币2140亿元；同期，费城 半导体 指数（SOX）下跌逾12%。 本周五（10月16日），费城半导体指数再度大跌近4%。数据显示，10月7日至10月16日，该指数累计跌幅超过15%，整个美股半导体板块市值合计蒸发近2.3万亿美元。 市场对借贷成本上升、估值高企以及AI基础设施巨额支出的担忧，正拖累芯片制造商和更广泛的市场。SLC Management投资策略与资产配置董事总",
-     "source": "东方财富资讯",
-     "zh": "罕见！资金大规模出逃！美股做空者7天暴赚2140亿元"
-    },
-    {
-     "title": "下周2只新股开启申购！超千亿解禁潮将至 6股解禁比例均超50%（附股）",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899054283.html",
-     "pubDate": "Sat, 17 Oct 2026 18:21:57 +0800",
-     "summary": "下周A股解禁总市值达1004.25亿元。 2只新股下周即将申购 据证券时报·数据宝统计，根据发行安排，下周暂有2只新股申购。 下周一（10月19日）可申购 皇冠新材 ，申购代码为001381，拟公开发行A股5630.48万股，其中网上发行1351.30万股，发行价格为16.98元，单一账户申购上限为13500股，申购数量为500股的整数倍，顶格申购需持有深市市值13.50万元。公司2023年—2025年净利润分别为2.78亿元、3.02亿元、3.09亿元，同比变动幅度为35.06%、8.92%、2.28%。 下周二（10月20日）可申购 天元重工 ，申购代码为920306，本次初始发行股份总量",
-     "source": "东方财富资讯",
-     "zh": "下周2只新股开启申购！超千亿解禁潮将至 6股解禁比例均超50%（附股）"
-    },
-    {
      "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
      "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
      "pubDate": "Sat, 17 Oct 2026 10:20:44 GMT",
      "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
      "source": "CNBC",
      "zh": "特朗普以国家利益为由，放弃根据《格雷厄姆法案》对俄罗斯实施广泛的新制裁和关税"
+    },
+    {
+     "title": "新华财经晚报：全国秋粮收获过七成",
+     "link": "http://www.eeo.com.cn/2026/1017/1068319.shtml",
+     "pubDate": "Sat, 17 Oct 2026 18:13:15 +0800",
+     "summary": "<img id=\"image14smp2cy0bcb6vurc1eqi6nz1in9yno\" title=\"微信图片_20260512100905_815_48.png\" src=\"https://jg-app.obs.cn-north-4.myhuaweic...",
+     "source": "经济观察网",
+     "zh": "新华财经晚报：全国秋粮收获过七成"
+    },
+    {
+     "title": "150余名青年代表齐聚大足 共促川渝协同发展",
+     "link": "http://www.eeo.com.cn/2026/1017/1068318.shtml",
+     "pubDate": "Sat, 17 Oct 2026 18:13:11 +0800",
+     "summary": "第1眼TV-华龙网讯（记者 王钰 ）10月15日至17日，以“青智汇大足·携手创未来”为主题的2026青年企业家助力成渝地区双城经济圈建设大足宝顶大会学习交流活动（以下简称“宝顶大会”）在大足区举办。来自全国各地的青年企业家、青年科技工作者，中组部、团中央第26批赴渝博士服务团成员，以及川渝两地优秀青年代表等150余名嘉宾齐聚石刻之乡，共话发展。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upl...",
+     "source": "经济观察网",
+     "zh": "150余名青年代表齐聚大足 共促川渝协同发展"
     },
     {
      "title": "Trump exempts Russia from further sanctions mandated by new law",
@@ -2305,44 +2345,12 @@
      "zh": "特朗普免除俄罗斯新法律规定的进一步制裁"
     },
     {
-     "title": "三季度净利环比增幅哪家强？算力企业摘得桂冠 PCB行业表现抢眼",
-     "link": "http://finance.eastmoney.com/news/11158,202610173899051127.html",
-     "pubDate": "Sat, 17 Oct 2026 17:46:57 +0800",
-     "summary": "①共有155家发布业绩预告，从三季度净利环比下限情况来看，61家实现环比增长；②排名靠前的分别为 元件 （ PCB ）10家、 半导体 9家、化工6家、制药4家、 通信设备 3家。 截至10月17日，A股共有155家发布业绩预告，从三季度净利环比下限情况来看，61家实现环比增长。行业上看，排名靠前的分别为 元件 （ PCB ）10家、 半导体 9家、化工6家、制药4家、 通信设备 3家。 环比增幅排名前十的公司为 行云科技 （569.35%）、 美年健康 （276.31%）、 崇达技术 （269.64%）、 杰创智能 （264.60%）、 华通线缆 （220.08%）、 兴森科技 （215.4",
-     "source": "东方财富资讯",
-     "zh": "三季度净利环比增幅哪家强？算力企业摘得桂冠 PCB行业表现抢眼"
-    },
-    {
      "title": "IMF警告日本可能需要更快加息，全球债市再添压力？",
      "link": "https://wallstreetcn.com/articles/3783840",
      "pubDate": "Sat, 17 Oct 2026 17:44:22 +0800",
      "summary": "国际货币基金组织罕见地为日本货币政策正常化背书，并警告若通胀超预期，日本央行可能需要加快加息步伐。这一表态，在全球债市已然动荡之际，令市场对日本资金撤离海外资产的担忧进一步升温。 IMF亚太部门主任Krishna Srinivasan在本周于曼谷召开的IMF年会期间接受路透社采访时表示， 日本央行\"正在做正确的事\"，并强调若通胀上升快于预期，\"必须更快收紧，因为你不希望通胀预期脱锚。这取决于数据。\" 日本央行行长植田和男亦在出席本次IMF年会时重申，央行将专注于将核心通胀锚定在2%目标附近，不会容忍任何超调，进一步强化了市场对年内再度加息的预期。 IMF的表态恰逢全球债市承压之际。法国10年期",
      "source": "华尔街见闻",
      "zh": "IMF警告日本可能需要更快加息，全球债市再添压力？"
-    },
-    {
-     "title": "DeepSeek官宣：“许愿式编程”成为现实",
-     "link": "http://finance.eastmoney.com/news/11158,202610173899049443.html",
-     "pubDate": "Sat, 17 Oct 2026 17:09:46 +0800",
-     "summary": "10月17日，据DeepSeek官方消息，DeepSeek V4.1 Flash 现已更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。 相比上一版本的 DeepSeek V4.1 Flash，新模型在各方面的基准测试中取得了长足的提升。 DeepSeek V4.1 Flash 1017 使用 mini-swe-v2 框架测试 DeepSWE 的性能/成本图 DeepSeek V4.1 Flash 1017 通过基于自反馈的强化学习（RL）训练技术，提升了在游戏开发、3D 建模等方面从零开始构建完整项目的能力，能够支持实现更多“许愿式”编程任",
-     "source": "东方财富资讯",
-     "zh": "DeepSeek官宣：“许愿式编程”成为现实"
-    },
-    {
-     "title": "长鑫科技、佰维存储、拓荆科技领衔！多家科创板龙头公司开启新一轮回购",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899049350.html",
-     "pubDate": "Sat, 17 Oct 2026 17:02:53 +0800",
-     "summary": "进入10月份，科创板上市公司回购延续9月份活跃态势。 星矿数据统计显示，节后首个交易日10月8日至今（10月17日），仅一周时间，包括 长鑫科技 、 九州一轨 、 合合信息 、 壹石通 、 瑞可达 、 佰维存储 、 拓荆科技 、 奥比中光-W 、 艾力斯 、 安杰思 等在内的多家科创板公司新发布股份回购方案。 上述科创板公司合计预计回购金额至高达31.7亿元，在A股市场整体震荡的背景下，科创企业以真金 白银 传递对公司价值的坚定信心。 值得一提的是， 半导体 与硬科技行业上市公司大手笔实施回购，成为10月份市场一大亮点。 昨日（10月16日）晚间，国内 存储芯片 龙头企业 长鑫科技 发布公告，",
-     "source": "东方财富资讯",
-     "zh": "长鑫科技、佰维存储、拓荆科技领衔！多家科创板龙头公司开启新一轮回购"
-    },
-    {
-     "title": "存储龙头密集利好！001309预盈超86亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899048942.html",
-     "pubDate": "Sat, 17 Oct 2026 17:00:00 +0800",
-     "summary": "A股存储公司业绩密集预喜。 10月16日晚间， 德明利 （001309）披露业绩预告显示，2026年前三季度，公司实现营业收入275亿元至295亿元，同比增长312.97%至343.00%；实现净利润86.5亿元至89.5亿元，扭亏为盈（公司上年同期亏损2707.65万元）。 其中， 德明利 预计第三季度实现营业收入105.89亿元至125.89亿元，净利润26.33亿元至29.33亿元，环比可能实现双增长（今年第二季度， 德明利 的营收、净利润规模分别为93.72亿元、26.71亿元）。 分业务来看，今年前三季度，德明利企业级存储业务实现销售收入82.37亿元，收入规模及收入占比进一步提升。",
-     "source": "东方财富资讯",
-     "zh": "存储龙头密集利好！001309预盈超86亿元"
     },
     {
      "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
@@ -2487,14 +2495,6 @@
      "summary": "Democrats outraise Republicans in key Congress races as Elon Musk funds Ken Paxton in Texas and GOP groups aligned with Trump.",
      "source": "CNBC",
      "zh": "5 个中期资金要点：民主党拥有候选人现金。共和党人有埃隆·马斯克"
-    },
-    {
-     "title": "BlackRock's Hambro slams mining firms' 'reckless' share buybacks, urges mine investment",
-     "link": "https://seekingalpha.com/news/4654015-blackrocks-hambro-slams-mining-firms-reckless-share-buybacks-urges-mine-investment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 16 Oct 2026 17:45:42 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "贝莱德的汉布罗抨击矿业公司“鲁莽”的股票回购，敦促矿业投资"
     }
    ]
   },
@@ -2504,6 +2504,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "California redwoods are struggling in the heat — and it's not clear how much damage is being done",
+     "link": "https://www.livescience.com/planet-earth/plants/california-redwoods-are-struggling-in-the-heat-and-its-not-clear-how-much-damage-is-being-done",
+     "pubDate": "Sat, 17 Oct 2026 11:45:00 +0000",
+     "summary": "When temperatures rise, California redwoods slow down their rate of photosynthesis, a discovery that could have implications for the long-term survival of the iconic species.",
+     "source": "Live Science",
+     "zh": "加州红杉在酷热中挣扎，目前尚不清楚造成的损失有多大"
+    },
     {
      "title": "Is the brain actually 2 nervous systems smooshed together? A new study claims it is.",
      "link": "https://www.livescience.com/health/neuroscience/is-the-brain-actually-2-nervous-systems-smooshed-together-a-new-study-claims-it-is",
@@ -2551,14 +2559,6 @@
      "summary": "New simulations reveal which battle moves the skulls of horned dinosaurs could take — and which might have been a very bad idea.",
      "source": "Science News",
      "zh": "有角恐龙的武器是为了应对战斗力量而进化的"
-    },
-    {
-     "title": "Fossil of 'unconquered female warrior' dinosaur with long claws found in UK museum drawer after 100 years",
-     "link": "https://www.livescience.com/animals/dinosaurs/fossil-of-unconquered-female-warrior-dinosaur-with-long-claws-found-in-uk-museum-drawer-after-100-years",
-     "pubDate": "Fri, 16 Oct 2026 14:56:18 +0000",
-     "summary": "The newly identified Invictibellatrix amberina lived about 120 million years ago and represents the first megaraptoran dinosaur found in Europe, according to a new study.",
-     "source": "Live Science",
-     "zh": "100年后在英国博物馆抽屉里发现“不可征服的女战士”长爪恐龙化石"
     },
     {
      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",

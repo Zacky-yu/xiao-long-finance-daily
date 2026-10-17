@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/18 00:37:31",
+ "generated_at": "2026/10/18 00:40:50",
  "recent_days": 7,
  "industries": [
   {
@@ -1794,14 +1794,6 @@ window.INDUSTRY_DATA = {
      "zh": "GNOME 面向普通用户发布 GNOME OS Preview"
     },
     {
-     "title": "Ad-tech company was a delivery system for \"mercenary spyware\"",
-     "link": "https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech",
-     "pubDate": "Sat, 17 Oct 2026 15:17:32 +0000",
-     "summary": "Article URL: https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech Comments URL: https://news.ycombinator.com/item?id=50131881 Points: 49 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "Ad-tech company was a delivery system for \"mercenary spyware\""
-    },
-    {
      "title": "12.88 万元起，广汽埃安 Ray7 预售 2 小时订单达 6817 单",
      "link": "https://www.ithome.com/1/014/410.htm",
      "pubDate": "Sat, 17 Oct 2026 15:01:05 GMT",
@@ -1853,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "US federal budget deficit jumps 12% in one year to nearly $2 Trillion",
      "link": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html",
      "pubDate": "Sat, 17 Oct 2026 14:22:05 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html Comments URL: https://news.ycombinator.com/item?id=50131440 Points: 82 # Comments: 71",
+     "summary": "Article URL: https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html Comments URL: https://news.ycombinator.com/item?id=50131440 Points: 94 # Comments: 87",
      "source": "Hacker News",
      "zh": "US federal budget deficit jumps 12% in one year to nearly $2 Trillion"
     },
@@ -1869,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
      "pubDate": "Sat, 17 Oct 2026 14:01:01 +0000",
-     "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 179 # Comments: 93",
+     "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 194 # Comments: 105",
      "source": "Hacker News",
      "zh": "Solar surpasses nuclear power globally for first time – pv magazine Global"
     },
@@ -1885,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Making Chicken Transparent Using Dorito Dust",
      "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
      "pubDate": "Sat, 17 Oct 2026 13:55:28 +0000",
-     "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 79 # Comments: 32",
+     "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 94 # Comments: 35",
      "source": "Hacker News",
      "zh": "Making Chicken Transparent Using Dorito Dust"
     },
@@ -1893,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
      "link": "https://github.com/mikroverk/esp32sim",
      "pubDate": "Sat, 17 Oct 2026 13:51:08 +0000",
-     "summary": "Article URL: https://github.com/mikroverk/esp32sim Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 25 # Comments: 3",
+     "summary": "Article URL: https://github.com/mikroverk/esp32sim Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 30 # Comments: 5",
      "source": "Hacker News",
      "zh": "Show HN: Esp32sim – Run ESP32 firmware in the browser"
     },
@@ -1904,6 +1896,14 @@ window.INDUSTRY_DATA = {
      "summary": "Jean Eaglesham / Wall Street Journal : As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage &nbsp; &mdash;&nbsp; The artificial-intelligence industry's phenomenal rate of growth means claims have the",
      "source": "Techmeme",
      "zh": "As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage (Jean Eaglesham/Wall Street Journal)"
+    },
+    {
+     "title": "Super Intelligence",
+     "link": "https://www.si.gov/",
+     "pubDate": "Sat, 17 Oct 2026 12:36:19 +0000",
+     "summary": "Article URL: https://www.si.gov/ Comments URL: https://news.ycombinator.com/item?id=50130570 Points: 65 # Comments: 111",
+     "source": "Hacker News",
+     "zh": "Super Intelligence"
     },
     {
      "title": "A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google (Preeti Singh/Bloomberg)",
@@ -1930,14 +1930,6 @@ window.INDUSTRY_DATA = {
      "zh": "The Best LED Grow Lights for Houseplants This Winter (2026)"
     },
     {
-     "title": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-     "link": "https://dl.acm.org/doi/10.1145/358453.358459",
-     "pubDate": "Sat, 17 Oct 2026 11:20:52 +0000",
-     "summary": "Article URL: https://dl.acm.org/doi/10.1145/358453.358459 Comments URL: https://news.ycombinator.com/item?id=50130079 Points: 15 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "The future of programming – A.I. Wasserman and S. Gutz (1982)"
-    },
-    {
      "title": "Science says your boss should talk less in meetings",
      "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
      "pubDate": "Sat, 17 Oct 2026 11:15:11 +0000",
@@ -1960,6 +1952,14 @@ window.INDUSTRY_DATA = {
      "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
      "source": "Ars Technica",
      "zh": "Why BioWare's Neverwinter Nights still has thousands of active players"
+    },
+    {
+     "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+     "link": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+     "pubDate": "Sat, 17 Oct 2026 10:59:31 +0000",
+     "summary": "Article URL: https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/ Comments URL: https://news.ycombinator.com/item?id=50129947 Points: 108 # Comments: 8",
+     "source": "Hacker News",
+     "zh": "MapQuest will now show you where Flock cameras are in your neighborhood"
     },
     {
      "title": "HTC Made Smart Glasses That Are Way More Private",

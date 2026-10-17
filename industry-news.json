@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/18 03:03:09",
+ "generated_at": "2026/10/18 03:31:58",
  "recent_days": 7,
  "industries": [
   {
@@ -102,7 +102,7 @@
      "pubDate": "Sat, 17 Oct 2026 00:09:12 +0000",
      "summary": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 on GitHub. For teams",
      "source": "MarkTechPost",
-     "zh": "Perplexity 开源 SPACE，一个用于 AI 代理的 Firecracker MicroVM 沙盒"
+     "zh": "Perplexity 开源 SPACE，一个用于 AI 代理的 Firecracker MicroVM 沙箱"
     },
     {
      "title": "How Itaú is building generative AI for its entire customer base",
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains",
+     "link": "https://www.digitimes.com/news/a20261012PD215/manufacturing-equipment-packaging-testing-silicon.html",
+     "pubDate": "Sat, 17 Oct 2026 18:39:00 GMT",
+     "summary": "Singapore is targeting high-value semiconductor manufacturing, advanced packaging, and silicon photonics, building on its strengths in engineering, precision manufacturing, and reliability, according to Zeng Yi Wong, assistant managing director for manufacturing at Enterprise Singapore (EnterpriseSG",
+     "source": "DIGITIMES",
+     "zh": "独家：EnterpriseSG 帮助新加坡半导体中小企业在全球芯片供应链中发挥更大作用"
+    },
+    {
      "title": "TSMC&rsquo;s 3nm Kumamoto plan wins Japan&rsquo;s approval, qualifying for up to $4.1 billion in aid",
      "link": "https://www.digitimes.com/news/a20261017VL200/fab-tsmc-chips-kumamoto-production.html",
      "pubDate": "Sat, 17 Oct 2026 09:59:55 GMT",
@@ -295,14 +303,6 @@
      "summary": "Chinese EV giant and AI mobility manufacturer XPeng has made a major appearance at the Paris Automotive Summit by bringing not just its automotive expertise into the European collaborative space, but a broader technology stack built on the automaker's existing strengths in EV manufacturing and human",
      "source": "DIGITIMES",
      "zh": "小鹏汽车在巴黎的推动将中国的全栈电动汽车技术转化为可出口的人工智能工程业务"
-    },
-    {
-     "title": "Samsung Electro-Mechanics' US$5.1 billion expansion faces equipment supply constraints",
-     "link": "https://www.digitimes.com/news/a20261016VL216/equipment-semco-expansion-production-substrate.html",
-     "pubDate": "Sat, 17 Oct 2026 00:07:22 GMT",
-     "summary": "Samsung Electro-Mechanics (Semco) faces potential equipment procurement bottlenecks in its KRW6.78 trillion (approx. US$5.1 billion) expansion of semiconductor substrate production for AI servers, as machinery manufacturers struggle with component shortages and longer delivery times. The South Korea",
-     "source": "DIGITIMES",
-     "zh": "三星电机51亿美元扩张面临设备供应限制"
     },
     {
      "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
@@ -414,7 +414,7 @@
      "pubDate": "Fri, 16 Oct 2026 10:03:49 +0100",
      "summary": "The Department of Commerce’s CHIPS Program Office has agreed with GlobalFoundries of Malta, NY (the only US-based pure-play foundry with a global manufacturing footprint) to amend its existing award and reallocate up to $955m in incentives under the US CHIPS and Science Act...",
      "source": "Semiconductor Today",
-     "zh": "GlobalFoundries 的 CHIPS 计划奖项经过修改，以支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
+     "zh": "GlobalFoundries 的 CHIPS 计划奖项修改为支持对纽约州马耳他和佛蒙特州伯灵顿的 50 亿美元投资"
     },
     {
      "title": "Infineon and Wolfspeed expand and extend long-term SiC wafer supply agreement to 200mm",
@@ -734,7 +734,7 @@
      "pubDate": "Fri, 16 Oct 2026 20:42:51 +0000",
      "summary": "Montréal Metropolitan Airport now has 120 EV chargers online, with another 48 on the way as the airport expands. more…",
      "source": "Electrek",
-     "zh": "蒙特利尔机场现有 120 个电动汽车充电器，还有 48 个正在建设中"
+     "zh": "蒙特利尔机场现已拥有 120 个电动汽车充电器，还有 48 个正在建设中"
     },
     {
      "title": "Podcast: The Tesla Roadster episode",
@@ -958,7 +958,7 @@
      "pubDate": "Sat, 17 Oct 2026 01:32:58 +0000",
      "summary": "We estimate that U.S. generation from small-scale or rooftop solar photovoltaic systems (smaller than 1 megawatt of capacity) has increased from 18,812 gigawatthours (GWh) to 92,979 GWh over the last decade. The four states with the highest generation of small-scale solar in the country—California, ",
      "source": "CleanTechnica",
-     "zh": "过去十年美国小型太阳能发电量增长了四倍"
+     "zh": "过去十年美国小型太阳能发电量增加了四倍"
     },
     {
      "title": "EU Long-Term Budget Crunch: What To Watch For At The EU Leaders’ Summit On 15-16 October",
@@ -1078,7 +1078,7 @@
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
-     "zh": "GES 获得四个西班牙太阳能光伏项目价值 2.52 亿美元的 EPC 合同"
+     "zh": "GES 为四个西班牙太阳能光伏项目获得 2.52 亿美元的 EPC 合同"
     },
     {
      "title": "US clean energy jobs fell in 2025 for the first time in years",
@@ -1246,7 +1246,7 @@
      "pubDate": "Fri, 16 Oct 2026 12:34:03 +0000",
      "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022…",
      "source": "STAT News",
-     "zh": "观看有关伊丽莎白·霍姆斯的新纪录片之前要读什么"
+     "zh": "在观看有关伊丽莎白·霍姆斯的新纪录片之前要读什么"
     },
     {
      "title": "Next-gen RNAi drugmaker City prices $200M IPO",
@@ -1326,7 +1326,7 @@
      "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
      "summary": "John Stewart goes rogue in Sector 2814 and embraces fear hopefully leading into season 2",
      "source": "Space.com",
-     "zh": "《灯笼》令人震惊的结局给我们留下了许多关于第二季悬而未决的问题"
+     "zh": "《灯笼》令人震惊的结局给我们留下了很多关于第二季悬而未决的问题"
     },
     {
      "title": "The Orionid meteor shower peaks next week! Here's what to expect",
@@ -1422,7 +1422,7 @@
      "pubDate": "Fri, 16 Oct 2026 03:49:06 +0000",
      "summary": "Rocket Lab has delayed its Neutron launch vehicle once again after carbon fibre manufacturing problems… The post Carbon Fibre Troubles Force Rocket Lab to Delay Neutron Debut to No Earlier Than 2027 appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "碳纤维问题迫使火箭实验室将中子首次亮相推迟至不早于 2027 年"
+     "zh": "碳纤维问题迫使火箭实验室将中子首次亮相推迟到不早于 2027 年"
     },
     {
      "title": "UKSA Taps ClearSpace for Country’s First Debris Removal Mission",
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Bleecker Street says TikTok suspended the Musk documentary account for \"political policy\" violations and called the suspension \"permanent\"; Bleecker&apos;s appealing (Steven Zeitchik/The Hollywood Reporter)",
+     "link": "https://www.techmeme.com/261017/p16#a261017p16",
+     "pubDate": "Sat, 17 Oct 2026 15:10:04 -0400",
+     "summary": "Steven Zeitchik / The Hollywood Reporter : Bleecker Street says TikTok suspended the Musk documentary account for &ldquo;political policy&rdquo; violations and called the suspension &ldquo;permanent&rdquo;; Bleecker's appealing &nbsp; &mdash;&nbsp; Move comes just as Alex Gibney doc film expands to ",
+     "source": "Techmeme",
+     "zh": "Bleecker Street表示，TikTok因违反“政治政策”而暂停了马斯克的纪录片账户，并称该暂停是“永久性的”；布利克的吸引力（史蒂文·泽奇克/好莱坞报道）"
+    },
+    {
      "title": "MapQuest adds a Surveillance Layer to its mobile app showing license plate readers and cameras from 10+ companies including Flock, using OpenStreetMap data (Chase DiBenedetto/Mashable)",
      "link": "https://www.techmeme.com/261017/p15#a261017p15",
      "pubDate": "Sat, 17 Oct 2026 15:00:01 -0400",
@@ -1769,18 +1777,26 @@
      "zh": "MapQuest 在其移动应用程序中添加了一个监视层，使用 OpenStreetMap 数据（Chase DiBenedetto/Mashable）显示来自包括 Flock 在内的 10 多家公司的车牌读取器和摄像头"
     },
     {
-     "title": "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
-     "link": "https://twitter.com/anemll/status/2111517143087067309",
-     "pubDate": "Sat, 17 Oct 2026 18:10:21 +0000",
-     "summary": "Article URL: https://twitter.com/anemll/status/2111517143087067309 Comments URL: https://news.ycombinator.com/item?id=50133500 Points: 12 # Comments: 2",
+     "title": "Pattern Matching Beats Narrative Reasoning",
+     "link": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+     "pubDate": "Sat, 17 Oct 2026 18:34:13 +0000",
+     "summary": "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative Comments URL: https://news.ycombinator.com/item?id=50133736 Points: 3 # Comments: 0",
      "source": "Hacker News",
-     "zh": "iPhone 18 神经引擎上的 Qwen3.8-27B，速度为 15–70 tok/s (1.5 bpw)"
+     "zh": "模式匹配胜过叙事推理"
+    },
+    {
+     "title": "AI Can Write the Code. Who Verifies It?",
+     "link": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+     "pubDate": "Sat, 17 Oct 2026 18:31:30 +0000",
+     "summary": "Article URL: https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it Comments URL: https://news.ycombinator.com/item?id=50133713 Points: 6 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "人工智能可以编写代码。谁来验证？"
     },
     {
      "title": "OpenCode Hacked: User credentials leaked",
      "link": "https://twitter.com/opencode/status/2111516673953935833",
      "pubDate": "Sat, 17 Oct 2026 18:01:41 +0000",
-     "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 75 # Comments: 21",
+     "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 171 # Comments: 41",
      "source": "Hacker News",
      "zh": "OpenCode 遭黑客攻击：用户凭据泄露"
     },
@@ -1788,7 +1804,7 @@
      "title": "Development statistics for the 7.2 kernel",
      "link": "https://lwn.net/Articles/1088776/",
      "pubDate": "Sat, 17 Oct 2026 17:14:12 +0000",
-     "summary": "Article URL: https://lwn.net/Articles/1088776/ Comments URL: https://news.ycombinator.com/item?id=50132950 Points: 75 # Comments: 30",
+     "summary": "Article URL: https://lwn.net/Articles/1088776/ Comments URL: https://news.ycombinator.com/item?id=50132950 Points: 90 # Comments: 51",
      "source": "Hacker News",
      "zh": "7.2 内核的开发统计"
     },
@@ -1796,17 +1812,17 @@
      "title": "tsc-ts: TypeScript written in TypeScript",
      "link": "https://github.com/vercel-labs/tsc-ts",
      "pubDate": "Sat, 17 Oct 2026 17:10:27 +0000",
-     "summary": "Article URL: https://github.com/vercel-labs/tsc-ts Comments URL: https://news.ycombinator.com/item?id=50132911 Points: 13 # Comments: 14",
+     "summary": "Article URL: https://github.com/vercel-labs/tsc-ts Comments URL: https://news.ycombinator.com/item?id=50132911 Points: 21 # Comments: 26",
      "source": "Hacker News",
      "zh": "tsc-ts：用 TypeScript 编写的 TypeScript"
     },
     {
-     "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-     "link": "https://www.artie.com/careers",
-     "pubDate": "Sat, 17 Oct 2026 17:02:50 +0000",
-     "summary": "Article URL: https://www.artie.com/careers Comments URL: https://news.ycombinator.com/item?id=50132839 Points: 0 # Comments: 0",
+     "title": "Gold is now the top U.S. export",
+     "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+     "pubDate": "Sat, 17 Oct 2026 17:06:07 +0000",
+     "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 35 # Comments: 6",
      "source": "Hacker News",
-     "zh": "Artie (YC S23) 正在招聘企业 AES 和高级工程师"
+     "zh": "黄金现在是美国最大的出口产品"
     },
     {
      "title": "小红书的AI，开始和自己的生意算账",
@@ -1815,14 +1831,6 @@
      "summary": "本文来自微信公众号： 奇帆商业 ，编辑：陆垚，作者：小钱 不到半年，小红书重新安排了两次AI部门的职责。 4月30日，小红书将Dots提升为AI一级部门，把模型研发、基础设施、工程和产品集中到同一个组织中。到了9月，产品团队和部分工程团队被划转至社区，Dots转而聚焦底层模型。 10月16日，公司又宣布将Dots与核心基础设施团队Infra打通。 一个刚刚获得独立地位的AI部门，很快就被重新划分了工作范围。 最新的全员信对此给出了一种解释。小红书强调，自己是一家科技应用公司，与云厂商投入模型研发的逻辑存在根本不同。模型能力需要与具体产品形成更紧密的联系，技术投入也需要考虑实际应用价值。 这轮调",
      "source": "虎嗅",
      "zh": "小红书的AI，开始和自己的生意算账"
-    },
-    {
-     "title": "OpenAI discloses four more rogue incidents",
-     "link": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-     "pubDate": "Sat, 17 Oct 2026 16:31:12 +0000",
-     "summary": "Article URL: https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/ Comments URL: https://news.ycombinator.com/item?id=50132502 Points: 91 # Comments: 66",
-     "source": "Hacker News",
-     "zh": "OpenAI又披露了四起流氓事件"
     },
     {
      "title": "游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易",
@@ -1937,14 +1945,6 @@
      "zh": "随着人工智能巨头在安全事故中承担数百亿美元的潜在法律责任，保险公司担心索赔可能超出现有承保范围（Jean Eaglesham/华尔街日报）"
     },
     {
-     "title": "A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google (Preeti Singh/Bloomberg)",
-     "link": "https://www.techmeme.com/261017/p10#a261017p10",
-     "pubDate": "Sat, 17 Oct 2026 08:35:02 -0400",
-     "summary": "Preeti Singh / Bloomberg : A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google &nbsp; &mdash;&nbsp; From data centers and chip financing to AI advice on potential deals, the technology is ever",
-     "source": "Techmeme",
-     "zh": "Blackstone 总裁 Jon Gray 的简介，他将人工智能作为自己最大的赌注，建立了价值 200B 美元的数据中心帝国，并正在与 Google 合作建立云企业（Preeti Singh/彭博社）"
-    },
-    {
      "title": "Encryption Is Getting Squeezed From All Sides",
      "link": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
      "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
@@ -2009,6 +2009,22 @@
    "total": 7,
    "items": [
     {
+     "title": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
+     "link": "https://9to5mac.com/2026/10/17/indie-app-spotlight-hoardware-makes-it-easy-to-track-your-apple-device-collection/",
+     "pubDate": "Sat, 17 Oct 2026 19:30:00 +0000",
+     "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you’re someone who collects tons of varying Apple products, Hoardware is your one-stop shop for keepi",
+     "source": "9to5Mac",
+     "zh": "独立应用聚焦：“Hoardware”让您轻松追踪您的 Apple 设备收藏"
+    },
+    {
+     "title": "Leaked gameplay purports to show a canceled Assassin's Creed game set in ancient China",
+     "link": "https://www.engadget.com/2289636/leaked-gameplay-purports-to-show-a-canceled-assassins-creed-game-set-in-ancient-china/",
+     "pubDate": "Sat, 17 Oct 2026 19:22:17 +0000",
+     "summary": "At least there's still Assassin's Creed Jade to look forward to.",
+     "source": "Engadget",
+     "zh": "泄露的游戏玩法据称展示了一款以古代中国为背景的已取消的《刺客信条》游戏"
+    },
+    {
      "title": "Android Auto can be used outside of your car: Here's how",
      "link": "https://www.engadget.com/2284102/how-android-auto-used-outside-of-car/",
      "pubDate": "Sat, 17 Oct 2026 18:45:00 +0000",
@@ -2063,14 +2079,6 @@
      "summary": "Don't panic if your Amazon Echo is flashing a yellow light. Here's what that color means, how to clear it and how to tweak your Alexa notification settings.",
      "source": "Engadget",
      "zh": "Alexa 设备上的黄灯是什么意思以及如何清除它？"
-    },
-    {
-     "title": "Anbernic's RG DDS is almost double the price of the original Nintendo 3DS",
-     "link": "https://www.engadget.com/2289602/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/",
-     "pubDate": "Sat, 17 Oct 2026 16:15:11 +0000",
-     "summary": "The premium handheld is expected to start shipping in December.",
-     "source": "Engadget",
-     "zh": "Anbernic 的 RG DDS 几乎是原版任天堂 3DS 价格的两倍"
     },
     {
      "title": "EE announces iPhone Handoff pricing details for UK customers",
@@ -2225,14 +2233,6 @@
      "zh": "vivo V80走向全球"
     },
     {
-     "title": "Verizon confirms $10 monthly fee for new iPhone Handoff feature",
-     "link": "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/",
-     "pubDate": "Sat, 17 Oct 2026 00:01:38 +0000",
-     "summary": "Following T-Mobile and Deutsche Telekom, Verizon has now confirmed how much it will charge customers to use Apple’s new iPhone Handoff feature. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Verizon 确认新 iPhone Handoff 功能每月收费 10 美元"
-    },
-    {
      "title": "HP Googlebook 14 Review: Great laptop, shame about the OS",
      "link": "https://9to5google.com/2026/10/16/hp-googlebook-14-review/",
      "pubDate": "Fri, 16 Oct 2026 23:30:00 +0000",
@@ -2256,6 +2256,30 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as &apos;wrong&apos;",
+     "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+     "pubDate": "Sat, 17 Oct 2026 19:28:01 GMT",
+     "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+     "source": "CNBC",
+     "zh": "特朗普放弃对俄罗斯的广泛新制裁，泽伦斯基谴责这是“错误的”"
+    },
+    {
+     "title": "Key deals this week: International Paper, IonQ, Bumble, and more",
+     "link": "https://seekingalpha.com/news/4654028-key-deals-this-week-international-paper-ionq-bumble-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 17 Oct 2026 15:15:55 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "本周主要交易：International Paper、IonQ、Bumble 等"
+    },
+    {
+     "title": "德国执政党地方账户遭黑客入侵 默茨等数千人收到钓鱼邮件",
+     "link": "http://finance.eastmoney.com/news/1351,202610183899090240.html",
+     "pubDate": "Sun, 18 Oct 2026 03:15:06 +0800",
+     "summary": "德国海尔布隆警方当地时间10月17日表示，黑客侵入德国执政党基民盟海尔布隆地方组织的 电子 邮件账户，并向约6500名联系人发送诈骗邮件，其中包括德国总理默茨、政府部门及其他政治领域联系人。 按照警方发言人的说法，部分收件人涉及安全敏感领域。目前，警方正对此事展开调查，尚不清楚是否造成实际损失。 据介绍，涉事邮件伪装成活动邀请或信息变更通知，附有声称可打开文件的链接。地方组织已通过信息技术安全公司通知相关联系人，提醒其不要回复邮件，也不要点击其中的链接或打开附件。警方目前认为，此次事件可能涉及网络钓鱼诈骗，即通过伪装成可信信息诱骗收件人泄露密码、账户信息等敏感数据。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "德国执政党地方账户遭黑客入侵 默茨等数千人收到钓鱼邮件"
+    },
     {
      "title": "SA Asks: How important is the new Roadster to Tesla's future?",
      "link": "https://seekingalpha.com/news/4654044-sa-asks-how-important-is-the-new-roadster-to-teslas-future?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2302,7 +2326,7 @@
      "pubDate": "Sat, 17 Oct 2026 18:40:00 GMT",
      "summary": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
      "source": "MarketWatch",
-     "zh": "苹果的可折叠 iPhone Duo 值 2000 美元吗？看看它与其他可折叠手机相比如何。"
+     "zh": "苹果的可折叠 iPhone Duo 值 2000 美元吗？了解它与其他可折叠手机相比如何。"
     },
     {
      "title": "也门胡塞武装称击落沙特方面一架“阿帕奇”直升机",
@@ -2345,14 +2369,6 @@
      "zh": "印度东部踩踏事故致17人死亡"
     },
     {
-     "title": "俄称控制8个居民点 乌称袭击俄指挥所",
-     "link": "http://finance.eastmoney.com/news/1351,202610183899089313.html",
-     "pubDate": "Sun, 18 Oct 2026 01:25:55 +0800",
-     "summary": "俄罗斯国防部17日通报称，过去一天，俄军在哈尔科夫等地区控制8个居民点。俄军对乌军交通基础设施、 无人机 储存设施以及临时部署点实施打击。俄军防空系统击落654架乌克兰固定翼 无人机 和1枚“海马斯”火箭弹，黑海舰队还在黑海海域摧毁1艘乌克兰海军无人艇。 乌克兰武装部队总参谋部17日通报称，过去一天，乌空军、导弹部队和炮兵袭击了俄方人员集结区、 无人机 指挥所等目标，摧毁俄军1辆坦克、2辆装甲车以及1396架无人机等武器装备。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "俄称控制8个居民点 乌称袭击俄指挥所"
-    },
-    {
      "title": "Elon Musk says he should have “focused on AI a little sooner:” Axios",
      "link": "https://seekingalpha.com/news/4654042-musk-says-should-have-focused-ai-little-sooner?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 17 Oct 2026 13:03:16 -0400",
@@ -2385,20 +2401,12 @@
      "zh": "随着加息可能性降低，房地产股飙升"
     },
     {
-     "title": "SpaceX satellite system not fully operational in Ukraine yet, Zelensky says",
-     "link": "https://seekingalpha.com/news/4654041-spacex-satellite-system-not-fully-restored-ukraine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 17 Oct 2026 11:54:48 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "泽伦斯基称 SpaceX 卫星系统尚未在乌克兰全面投入使用"
-    },
-    {
      "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
      "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
      "pubDate": "Sat, 17 Oct 2026 15:11:30 GMT",
      "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
      "source": "CNBC",
-     "zh": "Software公司的新整合者获得了伯克希尔的大力信任"
+     "zh": "Software 的新整合者获得伯克希尔的大力信任"
     },
     {
      "title": "&apos;Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
@@ -2487,14 +2495,6 @@
      "summary": "Fasting can help some people reduce how many calories they eat — but it’s not “effortless” as some would have you believe.",
      "source": "MarketWatch",
      "zh": "有影响力的人和生物黑客都坚信禁食。科学是这样说的。"
-    },
-    {
-     "title": "10月17日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202610173899073425.html",
-     "pubDate": "Sat, 17 Oct 2026 20:30:23 +0800",
-     "summary": "今日摘要 1、习近平总书记在内蒙古乌兰察布考察时的重要讲话引发广大干部群众热烈反响。大家表示，要认真学习贯彻总书记重要讲话精神，不断塑造绿色发展新动能、新优势，因地制宜推动高质量发展。 2、李强出席2026世界传统医药大会开幕式并致辞。 3、王沪宁在四川调研。 4、今年前八个月，我国服务贸易保持较快增长，国际竞争力持续提升。 5、各地优化服务，多举措保障群众温暖过冬。 6、日本人士表示，日本应当正视历史，深刻反省战争罪行。 7、也门政府谴责胡塞武装对亚丁民用 机场 发动袭击。胡塞武装称，打击了该 机场 附近沙特的军事目标。 内容速览 厚植绿色根基，因地制宜推动高质量发展——习近平总书记在内蒙古",
-     "source": "东方财富资讯",
-     "zh": "10月17日晚间央视新闻联播要闻集锦"
     }
    ]
   },

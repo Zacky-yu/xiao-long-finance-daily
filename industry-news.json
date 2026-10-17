@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/17 17:04:27",
+ "generated_at": "2026/10/17 17:12:02",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
+     "link": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/",
+     "pubDate": "Sat, 17 Oct 2026 08:53:58 +0000",
+     "summary": "DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement",
+     "source": "MarkTechPost",
+     "zh": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API"
+    },
     {
      "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
      "link": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
@@ -239,14 +247,6 @@
      "summary": "智东西 编译 | 黄菲 编辑 | 江宇 智东西10月16日报道，昨日，OpenAI、Anthropic联合美国西蒙斯基金会（Simons Foundation），共同投入1500万美元（约合人民币1.01亿元），支持数学家评估AI辅助产生的研究成果，并帮助研究人员学习和使用AI工具。 其中，OpenAI出资500万美元（约合人民币3360万元），Anthropic的具体出资金额尚未披露。 根据基金会公告，两家公司还将为获得资助的研究人员提供AI工具和计算资源，相关资金将由西蒙斯基金会管理和分配。 ▲OpenAI与Anthropic相继在X平台转发西蒙斯基金会的合作公告，图源：Simons Fo",
      "source": "智东西",
      "zh": "OpenAI、Anthropic罕见联手：砸下1个亿，给数学家送钱、送算力"
-    },
-    {
-     "title": "卡加了，吞吐为何没跟上？大模型推理中的等待，有了新解法",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063125&idx=1&sn=f5030e5f29a40a6c8d742d2485efcb5b",
-     "pubDate": "Fri, 16 Oct 2026 11:23:00 +0800",
-     "summary": "突破大模型推理的数据并行负载均衡瓶颈",
-     "source": "机器之心",
-     "zh": "卡加了，吞吐为何没跟上？大模型推理中的等待，有了新解法"
     }
    ]
   },
@@ -1073,20 +1073,20 @@
      "zh": "Germany Roundup: Enertrag, Enlight, Vattenfall, Fluence, Giga Storage progress 4-hour batteries totalling 3.2GWh to construction"
     },
     {
-     "title": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
-     "link": "https://www.utilitydive.com/news/nexteras-4m-trump-ballroom-donation-muddies-debate-over-dominion-merger/833201/",
-     "pubDate": "Fri, 16 Oct 2026 06:28:17 -0400",
-     "summary": "The donation, which advocates called &ldquo;problematic&rdquo; and &ldquo;convenient&rdquo; for the company, comes to light as federal regulators chosen by President Donald Trump consider whether to allow NextEra to merge with Dominion Energy.",
-     "source": "Utility Dive",
-     "zh": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say"
-    },
-    {
      "title": "GES secures US$252 million EPC contracts for four Spanish solar PV projects",
      "link": "https://www.pv-tech.org/ges-secures-us252-million-epc-contracts-four-spanish-solar-pv-projects/",
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
      "zh": "GES secures US$252 million EPC contracts for four Spanish solar PV projects"
+    },
+    {
+     "title": "US clean energy jobs fell in 2025 for the first time in years",
+     "link": "https://www.canarymedia.com/articles/clean-energy-jobs/trump-us-employment-falls-data-2025",
+     "pubDate": "Fri, 16 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Clean energy installations have persisted at record levels despite President Donald Trump’s best efforts to stop them. But the first year of Trump’s second term did leave a mark on U.S. jobs in the sector. Clean energy jobs fell in 2025 afte",
+     "source": "Canary Media",
+     "zh": "US clean energy jobs fell in 2025 for the first time in years"
     }
    ]
   },
@@ -1761,6 +1761,38 @@
    "total": 18,
    "items": [
     {
+     "title": "129 元华硕 ROG 风扇集线器 GR120-1C 发售：支持 4 路风扇接口，黑白双色可选",
+     "link": "https://www.ithome.com/1/014/340.htm",
+     "pubDate": "Sat, 17 Oct 2026 09:09:27 GMT",
+     "summary": "IT之家 10 月 17 日消息，华硕 ROG 新推出了一款风扇专用控制盒 / 风扇集线器，型号为 GR120-1C，定价为 129 元。 这款集线器支持奥创软件调节风扇灯光和转速，可实现散热性能与灯光效果的同步联动。该集线器采用 4 风扇接口设计，最高支持 14 把风扇控制，满足多风扇装机的扩展需求。 该集线器采用磁吸设计，可轻松吸附于机箱金属表面；同时采用双 SATA 供电设计，能够在满载运行下提供稳定充足的电力输入；还内置过载保险丝，提供可靠的过流保护，避免设备损坏。 该产品配备一个 USB 2.0 接口，可拓展使用场景，一体化 8-pin 接口整合供电与灯效线缆，让理线更加清爽整洁。 ",
+     "source": "IT之家",
+     "zh": "129 元华硕 ROG 风扇集线器 GR120-1C 发售：支持 4 路风扇接口，黑白双色可选"
+    },
+    {
+     "title": "水月雨推出 Gaming Maestro 01 Pro 头戴式耳机：低于 270g 重量，50mm 动圈，299 元",
+     "link": "https://www.ithome.com/1/014/339.htm",
+     "pubDate": "Sat, 17 Oct 2026 09:06:58 GMT",
+     "summary": "IT之家 10 月 17 日消息，水月雨现已在京东上架 Gaming Maestro 01 Pro 头戴式电竞游戏耳机， 定价为 299 元 。 该耳机提供白金和黑金两种配色，采用皮质赛车缝线头梁与铝合金成型骨架，整机重量小于 270g，配合记忆海绵织物耳垫，耳机搭载 50mm 动圈，匹配可拔插防喷风帽麦克风，内置 1000mAh 电池，在蓝牙模式下续航约 150 小时。 该耳机 2.4GHz 发射器集成 USB-C 与 USB-A 双接口，实测全链路延迟低至 30ms。蓝牙 6.0 模式连接距离可达 27m，USB-Audio 模式支持边充边用，同时保留 3.5mm 接口以兼容传统设备。耳机",
+     "source": "IT之家",
+     "zh": "水月雨推出 Gaming Maestro 01 Pro 头戴式耳机：低于 270g 重量，50mm 动圈，299 元"
+    },
+    {
+     "title": "Microplastics React With Water, a New Study Says. That’s a Problem for Biology",
+     "link": "https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/",
+     "pubDate": "Sat, 17 Oct 2026 09:00:00 +0000",
+     "summary": "Though plastic is usually inert, tiny pieces of it have the potential to react with one of the most pervasive molecules in the environment and in our bodies.",
+     "source": "WIRED",
+     "zh": "Microplastics React With Water, a New Study Says. That’s a Problem for Biology"
+    },
+    {
+     "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+     "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+     "pubDate": "Sat, 17 Oct 2026 09:00:00 +0000",
+     "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+     "source": "WIRED",
+     "zh": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes"
+    },
+    {
      "title": "上汽大众 ID. ERA 5S 累计交付破万，限时权益价 8.99 万元起",
      "link": "https://www.ithome.com/1/014/337.htm",
      "pubDate": "Sat, 17 Oct 2026 08:54:29 GMT",
@@ -1809,28 +1841,12 @@
      "zh": "科乐美《恶魔城：贝尔蒙特的诅咒》发售，Steam 国区 128 元起"
     },
     {
-     "title": "平台内容拥挤加剧：2026 年登陆 Steam 平台新游戏数量已达 21388 款，超去年全年总数",
-     "link": "https://www.ithome.com/1/014/332.htm",
-     "pubDate": "Sat, 17 Oct 2026 08:37:49 GMT",
-     "summary": "IT之家 10 月 17 日消息，开发者 Brendan Keogh 在 Bluesky 发文，截至 10 月中旬，2026 年登陆 Steam 的新游戏数量已达到 21388 款，超过 2025 年全年的总量。考虑到今年还剩约两个半月，而年末传统上又是游戏发布较为密集的时期， 预计 Steam 平台 2026 年全年发布的新游戏至少可能达到 24000 款 。 如此庞大的游戏数量，也让 Steam 面临越来越严重的内容拥挤问题。按照目前的数据计算，Steam 平均每天约有 66 款新游戏发布，而 2025 年这一数字约为 55 款。大量作品涌入平台，不仅增加了玩家筛选游戏的难度，也可能让一些",
-     "source": "IT之家",
-     "zh": "平台内容拥挤加剧：2026 年登陆 Steam 平台新游戏数量已达 21388 款，超去年全年总数"
-    },
-    {
      "title": "通胀降了、工厂倒了、贫困涨了，阿根廷的“成功”是谁的成功？",
      "link": "https://www.huxiu.com/article/4898280.html?f=rss",
      "pubDate": "Sat, 17 Oct 2026 16:36:39 +0800",
      "summary": "本文来自微信公众号： 底线思维 ，作者：罗沛思 阿根廷的经济正面临一场新的考验。 米莱政府上台以来，通过紧缩财政、压缩公共支出等措施，将年通胀率从2023年末的200%以上降至2026年初的约32.5%，并连续实现财政盈余。 然而，宏观稳定并未同步转化为普通民众生活的改善。阿根廷国家统计与人口普查研究所9月公布的数据显示，2026年上半年贫困人口比例回升至32.3%，较2025年下半年上升4.1个百分点。与此同时，阿根廷第二季度GDP环比下降0.6%，制造业也持续承压。通胀降下来了，财政账面改善了，但经济增长的动力从何而来，改革的成本又由谁承担？ 阿根廷为何反复陷入通胀、债务与外汇短缺的循环？",
      "source": "虎嗅",
      "zh": "通胀降了、工厂倒了、贫困涨了，阿根廷的“成功”是谁的成功？"
-    },
-    {
-     "title": "微信鸿蒙版 App 测试接入 A2A 能力，支持语音唤醒小艺发送消息",
-     "link": "https://www.ithome.com/1/014/331.htm",
-     "pubDate": "Sat, 17 Oct 2026 08:33:54 GMT",
-     "summary": "IT之家 10 月 17 日消息，据IT之家网友反馈，微信鸿蒙版 App 现已支持使用小艺发送微信，但只能发送给联系人，暂不支持群聊。 另据博主 @伤心萨摩耶Ciuciu 透露，鸿蒙微信移动版 8.0.22 更新接入 A2A 能力，支持语音唤醒小艺发送指令操作微信， 当前支持向好友发送文字消息（不支持发送表情）、发起语音或视频通话 ，暂不支持操作微信向群聊发送消息或发起通话，暂不支持操作微信分身，小艺版本需更新至 11.7.8.303（感谢陆提供的情报）。",
-     "source": "IT之家",
-     "zh": "微信鸿蒙版 App 测试接入 A2A 能力，支持语音唤醒小艺发送消息"
     },
     {
      "title": "DeepSeek-v4.1-Flash-1017",
@@ -1983,22 +1999,6 @@
      "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 217 # Comments: 117",
      "source": "Hacker News",
      "zh": "Butlerian Jihad"
-    },
-    {
-     "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-     "link": "https://www.flexport.com/company/careers/",
-     "pubDate": "Sat, 17 Oct 2026 01:01:51 +0000",
-     "summary": "Article URL: https://www.flexport.com/company/careers/ Comments URL: https://news.ycombinator.com/item?id=50126774 Points: 0 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Flexport Is Hiring a Biz Ops Leader in Office of CEO"
-    },
-    {
-     "title": "Nine-Inch Snails",
-     "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-     "pubDate": "Fri, 16 Oct 2026 22:21:05 +0000",
-     "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 61 # Comments: 31",
-     "source": "Hacker News",
-     "zh": "Nine-Inch Snails"
     }
    ]
   },
@@ -2008,6 +2008,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Deals: iPhone Duo pre-orders begin as Galaxy Z Fold8 gets a price cut",
+     "link": "https://www.gsmarena.com/deals_iphone_duo_preorders_begin_as_galaxy_z_fold8_gets_a_price_cut-news-75096.php",
+     "pubDate": "Sat, 17 Oct 2026 11:01:02 +0200",
+     "summary": "Apple’s first foldable iPhone is now available for pre-order, but the iPhone Duo sold out quickly in most regions. Delivery estimates for the foldable have already slipped to late January. Instead, you could get yourself the Samsung Galaxy Z Fold8, which also has the wide-screen aspect ratio as the ",
+     "source": "GSMArena",
+     "zh": "Deals: iPhone Duo pre-orders begin as Galaxy Z Fold8 gets a price cut"
+    },
+    {
+     "title": "I’ve been using an AI agent for a month, and I’m both impressed and terrified",
+     "link": "https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/",
+     "pubDate": "Sat, 17 Oct 2026 09:00:53 +0000",
+     "summary": "Instinct AI is extremely good, with some big caveats.",
+     "source": "Android Authority",
+     "zh": "I’ve been using an AI agent for a month, and I’m both impressed and terrified"
+    },
     {
      "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
      "link": "https://sspai.com/post/104231",
@@ -2169,14 +2185,6 @@
      "zh": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago"
     },
     {
-     "title": "This watchmaker has reportedly exited the smartwatch market",
-     "link": "https://www.androidauthority.com/tag-heuer-discontinues-connected-smartwatches-3724654/",
-     "pubDate": "Fri, 16 Oct 2026 20:46:42 +0000",
-     "summary": "The Connected Calibre E5 looks to be the brand’s last.",
-     "source": "Android Authority",
-     "zh": "This watchmaker has reportedly exited the smartwatch market"
-    },
-    {
      "title": "Android 17 QPR2 Beta 7.1 rolling out for Pixel",
      "link": "https://9to5google.com/2026/10/16/android-17-qpr2-beta-7-1-pixel/",
      "pubDate": "Fri, 16 Oct 2026 20:25:06 +0000",
@@ -2217,14 +2225,6 @@
      "zh": "Friday’s Android app deals and freebies: Majesty, Boxville 2, Dungeon Defense, Mythic Trials 2, more"
     },
     {
-     "title": "Samsung Galaxy S27+ might miss out on UWB",
-     "link": "https://www.gsmarena.com/samsung_galaxy_s27_might_miss_out_on_uwb-news-75084.php",
-     "pubDate": "Fri, 16 Oct 2026 20:31:02 +0200",
-     "summary": "According to new MIIT (Ministry of Industry and Information Technology) listings in China, the Samsung Galaxy S27+ will miss out on a connectivity feature that has been around since the days of the Galaxy S21+, and that's UWB. The Galaxy S27 series is expected to include 4 phones: Galaxy S27, S27+, ",
-     "source": "GSMArena",
-     "zh": "Samsung Galaxy S27+ might miss out on UWB"
-    },
-    {
      "title": "ChatGPT gets deeper Google Chrome integration including control over tabs",
      "link": "https://9to5google.com/2026/10/16/chatgpt-gets-deeper-google-chrome-integration-including-control-over-tabs/",
      "pubDate": "Fri, 16 Oct 2026 17:50:00 +0000",
@@ -2257,6 +2257,30 @@
    "total": 13,
    "items": [
     {
+     "title": "“风清”人工智能全球短中期集合天气预报系统V1.0投入运行",
+     "link": "http://finance.eastmoney.com/news/1360,202610173899048895.html",
+     "pubDate": "Sat, 17 Oct 2026 17:01:57 +0800",
+     "summary": "在今日举行的2026全国高性能计算学术大会（CCF HPC China 2026）上，国家超算互联网宣布，由国家气象中心牵头，联合雄安气象 人工智能 创新研究院、国家气象信息中心和国家超算互联网等共同研制的新一代 人工智能 集合预报系统——“风清” 人工智能 全球短中期集合天气预报系统V1.0，顺利通过业务化评审并投入运行。“风清”系统全球有效预报时效达11天， 综合 预报效果超越欧洲中期天气预报中心（ECMWF）的人工智能集合预报系统，标志着中国AI气象预报达到世界先进水平。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "“风清”人工智能全球短中期集合天气预报系统V1.0投入运行"
+    },
+    {
+     "title": "存储龙头，密集利好！001309，预盈超86亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202610173899048942.html",
+     "pubDate": "Sat, 17 Oct 2026 17:00:00 +0800",
+     "summary": "A股存储公司业绩密集预喜。 10月16日晚间， 德明利 （001309）披露业绩预告显示，2026年前三季度，公司实现营业收入275亿元至295亿元，同比增长312.97%至343.00%；实现净利润86.5亿元至89.5亿元，扭亏为盈（公司上年同期亏损2707.65万元）。 其中， 德明利 预计第三季度实现营业收入105.89亿元至125.89亿元，净利润26.33亿元至29.33亿元，环比可能实现双增长（今年第二季度， 德明利 的营收、净利润规模分别为93.72亿元、26.71亿元）。 分业务来看，今年前三季度，德明利企业级存储业务实现销售收入82.37亿元，收入规模及收入占比进一步提升。",
+     "source": "东方财富股票",
+     "zh": "存储龙头，密集利好！001309，预盈超86亿元"
+    },
+    {
+     "title": "霍尔木兹海峡安全形势恶化 一天内曾有6艘船遇袭",
+     "link": "http://finance.eastmoney.com/news/1351,202610173899048784.html",
+     "pubDate": "Sat, 17 Oct 2026 16:58:19 +0800",
+     "summary": "国际海事组织秘书长阿塞尼奥·多明格斯16日接受新华社记者专访时表示，霍尔木兹海峡及周边海域安全形势持续恶化，船舶通行风险并未降低。他强调， 航运 不应被用作冲突中的施压工具，冲突各方只有着手解决危机根源，才能为该地区 航运 安全恢复创造条件。 据国际海事组织官网公布的数据，10月5日至11日，海峡及周边海域报告了12起船只遇袭事件，为2月底美以伊冲突爆发以来单周最高。仅10月11日一天，就有6艘船舶遭袭。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "霍尔木兹海峡安全形势恶化 一天内曾有6艘船遇袭"
+    },
+    {
      "title": "“易中天”本周净流出逾百亿元 资金加仓这些方向",
      "link": "http://finance.eastmoney.com/news/1354,202610173899048635.html",
      "pubDate": "Sat, 17 Oct 2026 16:51:46 +0800",
@@ -2281,84 +2305,12 @@
      "zh": "海康威视三季报：营收净利双增 AI应用与场景数字化释放红利"
     },
     {
-     "title": "刷屏！知名港星投资巨亏！总想一夜暴富 不敢告诉家人亏损金额",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899048488.html",
-     "pubDate": "Sat, 17 Oct 2026 16:44:00 +0800",
-     "summary": "明星投资亏损越来越常见。 近日，中国香港明星方力申投资巨亏的消息刷屏。他自曝因买入NFT亏去大量资金，“亏得比我之前炒股还多，亏损金额至今不敢告诉家人。”此外，韩国“炒股综艺”也热门起来，不少明星自曝巨额亏损。 目前，全球股市正经历新一轮震荡。油价与美债收益率双升压制风险资产，AI资本开支周期是否见顶的争论升温。美国时间周五，科技股遭新一轮抛售， 纳斯达克 收跌2.15%，全周跌5.64%；标普500跌约1.09%，全周跌约1.95%， 两个指数都走向6月以来最差的一周。 华尔街机构对后市的分歧明显加深。即将密集披露的美股三季报，成为检验这轮行情成色的第一道关口。 多位明星投资巨亏 近日，中国",
-     "source": "东方财富股票",
-     "zh": "刷屏！知名港星投资巨亏！总想一夜暴富 不敢告诉家人亏损金额"
-    },
-    {
-     "title": "DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899047269.html",
-     "pubDate": "Sat, 17 Oct 2026 16:34:00 +0800",
-     "summary": "DeepSeek消息，DeepSeek V4.1 Flash现已更新至V4.1-Flash-1017版本，官方网页端、APP与API模型已同步变更为新模型。 DeepSeek V4.1 Flash 1017通过基于自反馈的强化学习（RL）训练技术，提升了在游戏开发、3D建模等方面从零开始构建完整项目的能力，能够支持实现更多“许愿式”编程任务及项目开发请求。 （文章来源：人民财讯）",
-     "source": "东方财富股票",
-     "zh": "DeepSeek V4.1 Flash新版本发布 许愿式编程一键成真"
-    },
-    {
-     "title": "大手笔！301086拟投资10亿元 布局机器人业务！",
-     "link": "http://finance.eastmoney.com/news/11158,202610173899046751.html",
-     "pubDate": "Sat, 17 Oct 2026 16:32:10 +0800",
-     "summary": "鸿富瀚 前三季度业绩大幅预增。 10月16日晚间， 鸿富瀚 （301086）发布公告，拟投入超10亿元建设 机器人 精密金属组件生产基地项目。 公告披露， 鸿富瀚 此次项目将通过对现有厂房进行专业化升级、引进高精度生产及测试设备，充分利用现有高精密零件加工的专业技术和管理团队等，进行 机器人 精密金属组件产品的生产，如CNC机加组件、注塑组件等。 据悉，此次项目实施主体为鸿富瀚全资子公司苏州鸿锦瀚科技有限公司，项目计划投资总额为10.07亿元，建设期为2年。其中，鸿富瀚计划投入IPO剩余超募资金2.2亿元，使用自有资金及自筹资金进行投入7.87亿元，如后续拟通过再融资等方式筹集资金，公司将另行",
-     "source": "东方财富股票",
-     "zh": "大手笔！301086拟投资10亿元 布局机器人业务！"
-    },
-    {
-     "title": "国际油价暗盘直线大涨，布油冲破110美元，俄乌互袭能源设施，普京下令继续打击",
-     "link": "http://www.eeo.com.cn/2026/1017/1068189.shtml",
-     "pubDate": "Sat, 17 Oct 2026 16:26:17 +0800",
-     "summary": "北京时间10月17日下午，国际油价暗盘直线飙升，截至15时14分，布伦特原油暗盘大涨超4.49%，最高涨破110美元/桶，最新报107.12美元/桶；纽约期油暗盘大涨超3.45%，最新报99.099美元/桶。 加密货币市场震荡加剧，比特币在10月17日凌晨跌破8.2万美元，现报8.17万美元/枚，跌0.43%，ETH、SOL、HY...",
-     "source": "经济观察网",
-     "zh": "国际油价暗盘直线大涨，布油冲破110美元，俄乌互袭能源设施，普京下令继续打击"
-    },
-    {
      "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
      "link": "https://wallstreetcn.com/articles/3783838",
      "pubDate": "Sat, 17 Oct 2026 16:14:47 +0800",
      "summary": "Anthropic正以远高于市场基准的融资成本推进其史上最大规模芯片融资，折射出AI基础设施军备竞赛背后日益高企的资本代价。 据英国《金融时报》17日报道， Anthropic正向黑石集团（Blackstone）提供逾10%的收益率，以换取后者参与这笔代号\"Project North Star\"、总规模高达600亿美元的债务融资。 知情人士透露，黑石旗下基金将认购其中90亿美元，约占180亿美元次级贷款的一半，并获得10%的票息，加计新发折价及其他费用后实际总回报更高。 这笔融资规模预计将创下芯片融资历史纪录，并将成为衡量投资者对AI债务胃口的重要风向标。值得关注的是，仅仅四个月前，Anthr",
      "source": "华尔街见闻",
      "zh": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率"
-    },
-    {
-     "title": "千人乐享骑行 2026环三峡自行车赛云阳站收官",
-     "link": "http://www.eeo.com.cn/2026/1017/1068174.shtml",
-     "pubDate": "Sat, 17 Oct 2026 16:13:13 +0800",
-     "summary": "第1眼TV-华龙网讯（首席记者 陈美西）10月17日，2026环三峡自行车赛第二站在云阳环湖绿道正式启幕。来自15个国家和地区的320余名全程组参赛车手，告别巫山“云端天路”高山赛道的极限挑战，搭乘“黄金三号”游轮溯江抵达云阳，从险峻山地奔赴温润滨江赛场，开启又一轮速度与意志的较量。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/FEA87A331F5EA74E24B602A601AE50FB.jpg\" data-target=\"...",
-     "source": "经济观察网",
-     "zh": "千人乐享骑行 2026环三峡自行车赛云阳站收官"
-    },
-    {
-     "title": "苹果：iPhone Duo需求令人惊叹",
-     "link": "http://www.eeo.com.cn/2026/1017/1068172.shtml",
-     "pubDate": "Sat, 17 Oct 2026 16:13:06 +0800",
-     "summary": "据财联社报道，苹果公司周五开启首款折叠屏手机iPhone Duo的预订。虽然目前尚不清楚苹果为首发备了多少货，但多国苹果商店均显示，现在下单要等到明年1月底才能拿到新手机。 昨日晚间8点，财联社记者点击苹果官网iPhone Duo预购页面，该页面在约10分钟后才成功跳转，显示每人限购2台，且已无法预约23号的首发，目前订购全系列产品发货时长至少为7-8周；同时，记者于京东平台的Apple产品京东自营旗舰店发现，iPhone Duo的...",
-     "source": "经济观察网",
-     "zh": "苹果：iPhone Duo需求令人惊叹"
-    },
-    {
-     "title": "【环球财经】特朗普签署行政令豁免对俄多项制裁",
-     "link": "http://www.eeo.com.cn/2026/1017/1068149.shtml",
-     "pubDate": "Sat, 17 Oct 2026 15:52:16 +0800",
-     "summary": "新华财经纽约10月17日电（记者刘亚南 徐静）美国白宫16日发布的消息显示，美国总统特朗普当日签署一份行政令，豁免对俄罗斯实施多项制裁措施。 根据该行政令，豁免内容涉...",
-     "source": "经济观察网",
-     "zh": "【环球财经】特朗普签署行政令豁免对俄多项制裁"
-    },
-    {
-     "title": "中国人民银行行长潘功胜会见相关国家央行行长",
-     "link": "http://www.eeo.com.cn/2026/1017/1068148.shtml",
-     "pubDate": "Sat, 17 Oct 2026 15:52:09 +0800",
-     "summary": "据中国人民银行10月17日消息，2026年10月14日至16日，中国人民银行行长潘功胜在出席国际货币基金组织/世界银行年会期间，分别会见了泰国央行行长威泰、印尼央行行长德斯特里、马来西亚央行行长拉希德、印度央行行长马尔霍特拉、澳大利亚央行行长布洛克、土耳其央行行长卡拉汉、埃及央行行长阿卜杜拉、尼日利亚央行行长卡多索、格鲁吉亚央行行长特尔纳瓦等相关国家央行行长，就全球经济形势、深化双边务实金融合作等议题交换了意见...",
-     "source": "经济观察网",
-     "zh": "中国人民银行行长潘功胜会见相关国家央行行长"
-    },
-    {
-     "title": "上海财经大学校长刘元春：AI重塑全球金融结构 经济“新三角”已然形成",
-     "link": "http://www.eeo.com.cn/2026/1017/1068147.shtml",
-     "pubDate": "Sat, 17 Oct 2026 15:52:08 +0800",
-     "summary": "在10月17日举办的“全球财富管理论坛·2026上海苏河湾大会”上，上海财经大学校长刘元春表示，传统全球经济三角格局已经崩溃，“新三角”已然形成。“‘新三角’指的是美国创新与金融成为孪生体、欧洲储蓄率飙升、中国板块呈现革命性变化。在‘新三角’里看到的投资机会以及金融需求变化，是我们需要高度关注的。”",
-     "source": "经济观察网",
-     "zh": "上海财经大学校长刘元春：AI重塑全球金融结构 经济“新三角”已然形成"
     },
     {
      "title": "上线了！2027见闻历超值预售99元，活动火热进行中！",
@@ -2495,6 +2447,54 @@
      "summary": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
      "source": "CNBC",
      "zh": "Apple’s $1,999 iPhone Duo puts the company&apos;s status-symbol power to the test"
+    },
+    {
+     "title": "Exxon sees higher refining margins adding $4.5B to Q3 earnings",
+     "link": "https://seekingalpha.com/news/4654023-exxon-sees-higher-refining-margins-adding-45b-to-q3-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 18:14:07 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Exxon sees higher refining margins adding $4.5B to Q3 earnings"
+    },
+    {
+     "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+     "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+     "pubDate": "Fri, 16 Oct 2026 21:59:00 GMT",
+     "summary": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+     "source": "MarketWatch",
+     "zh": "Nowhere to hide: Tech selloff hits software and chip stocks alike"
+    },
+    {
+     "title": "BlackRock's Hambro slams mining firms' 'reckless' share buybacks, urges mine investment",
+     "link": "https://seekingalpha.com/news/4654015-blackrocks-hambro-slams-mining-firms-reckless-share-buybacks-urges-mine-investment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 17:45:42 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BlackRock's Hambro slams mining firms' 'reckless' share buybacks, urges mine investment"
+    },
+    {
+     "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+     "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+     "pubDate": "Fri, 16 Oct 2026 21:43:00 GMT",
+     "summary": "Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”",
+     "source": "MarketWatch",
+     "zh": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash"
+    },
+    {
+     "title": "Okta slumps 10% as recent profit-taking continues",
+     "link": "https://seekingalpha.com/news/4654020-okta-slumps-10-as-recent-profit-taking-continues?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 17:39:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Okta slumps 10% as recent profit-taking continues"
+    },
+    {
+     "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+     "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+     "pubDate": "Fri, 16 Oct 2026 21:35:00 GMT",
+     "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock.",
+     "source": "MarketWatch",
+     "zh": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension."
     }
    ]
   },

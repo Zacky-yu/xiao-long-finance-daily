@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/17 17:16:36",
+ "generated_at": "2026/10/17 17:34:08",
  "recent_days": 7,
  "industries": [
   {
@@ -338,36 +338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Data Center Power a Prominent Highlight of OCP 2026"
     },
     {
-     "title": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter",
-     "link": "https://www.electronicsweekly.com/news/products/power-supplies/microchip-pol-05-20s-is-radiation-tolerant-gan-point-of-load-converter-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 14:24:13 +0000",
-     "summary": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
-     "source": "Electronics Weekly",
-     "zh": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter"
-    },
-    {
      "title": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition",
      "link": "https://semiconductor-today.com/news_items/2026/oct/omdia-161026.shtml",
      "pubDate": "Fri, 16 Oct 2026 14:52:30 +0100",
      "summary": "According to market research firm Omdia’s preliminary estimates, global smartphone shipments fell 20% year-on-year in third-quarter 2026, a sharp acceleration from the 6% decline recorded the previous quarter. Shipments also declined sequentially despite new flagship launches and channel preparation",
      "source": "Semiconductor Today",
      "zh": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition"
-    },
-    {
-     "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-arm-vs-qualcomm-ai-boom-adr-mission-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 13:38:02 +0000",
-     "summary": "The latest installment of the Arm vs Qualcomm case, the weirdness of the current semiconductor market, and an active debris removal mission to launch from Scotland mission... The post What caught your eye? Arm vs Qualcomm, AI boom, ADR mission appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission"
-    },
-    {
-     "title": "When Mandy  Became A Revolutionary",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-mandy-became-a-revolutionary-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 13:32:30 +0000",
-     "summary": "Mandy is known for other things now but 28 years ago he was a revolutionary, as this EW yarn in September 1998 chronicled: ‘The first major speech as cabinet minister […] The post When Mandy Became A Revolutionary appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "When Mandy  Became A Revolutionary"
     },
     {
      "title": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume",
@@ -378,36 +354,12 @@ window.INDUSTRY_DATA = {
      "zh": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume"
     },
     {
-     "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/a-v-cuk-group-adds-auracast-assistive-listening-technology-to-portfolio-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 11:12:17 +0000",
-     "summary": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
-     "source": "Electronics Weekly",
-     "zh": "A/V: CUK Group adds Auracast assistive listening technology to portfolio"
-    },
-    {
      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
      "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
      "pubDate": "Fri, 16 Oct 2026 10:55:42 +0000",
      "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Taiwan’s AI Ambitions Run into Talent Gap"
-    },
-    {
-     "title": "R&S extends amplifier range for satellite use",
-     "link": "https://www.electronicsweekly.com/news/rs-extends-amplifier-range-for-satellite-use-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 10:54:42 +0000",
-     "summary": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "R&S extends amplifier range for satellite use"
-    },
-    {
-     "title": "Raltron monolithic crystal filter series for gateway ground stations",
-     "link": "https://www.electronicsweekly.com/news/products/raltron-monolithic-crystal-filter-series-for-gateway-ground-stations-2026-10/",
-     "pubDate": "Fri, 16 Oct 2026 10:20:32 +0000",
-     "summary": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
-     "source": "Electronics Weekly",
-     "zh": "Raltron monolithic crystal filter series for gateway ground stations"
     },
     {
      "title": "GlobalFoundries’ CHIPS Program award amended to support $5bn investment in Malta, NY, and Burlington, VT",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Artificial intelligence is becoming part of the infrastructure that powers healthcare, transportation, finance, manufacturing, and everyday digital services. As these systems grow more capable, they also process more sensitive information and depend on increasingly complex hardware. The Synopsys whi",
      "source": "SemiWiki",
      "zh": "Why AI Security Starts at the Chip Level"
+    },
+    {
+     "title": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/onsemi-151026.shtml",
+     "pubDate": "Thu, 15 Oct 2026 10:36:20 +0100",
+     "summary": "Intelligent power and sensing technology firm onsemi of Scottsdale, AZ, USA says that its latest EliteSiC silicon carbide (SiC) hybrid power module technology has been adopted by renewable energy technology firm Sungrow for its PowerTitan 3.0 energy storage platform. The integration enables improved",
+     "source": "Semiconductor Today",
+     "zh": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform"
+    },
+    {
+     "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+     "link": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
+     "pubDate": "Thu, 15 Oct 2026 07:07:45 +0000",
+     "summary": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself. The post Beyond The Specification: What Really Determines PCIe Retimer Reach? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Beyond The Specification: What Really Determines PCIe Retimer Reach?"
+    },
+    {
+     "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
+     "link": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/",
+     "pubDate": "Thu, 15 Oct 2026 07:06:02 +0000",
+     "summary": "Short-resilient via insertion improves reliability and performance. The post Strengthening Advanced-Node Interconnects Through Automated Via Insertion appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion"
+    },
+    {
+     "title": "Building AI Infrastructure For Greater Choice And Flexibility",
+     "link": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/",
+     "pubDate": "Thu, 15 Oct 2026 07:03:05 +0000",
+     "summary": "Open interfaces and interoperability allow designers to choose technologies based on the needs of the system. The post Building AI Infrastructure For Greater Choice And Flexibility appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Building AI Infrastructure For Greater Choice And Flexibility"
+    },
+    {
+     "title": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
+     "link": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/",
+     "pubDate": "Thu, 15 Oct 2026 07:02:37 +0000",
+     "summary": "Extending chiplet connectivity across AXI and CHI with scalable protocol subsets, interoperability, and flexible transport support. The post AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity"
+    },
+    {
+     "title": "Why Open-Weight AI Matters",
+     "link": "https://semiengineering.com/why-open-weight-ai-matters/",
+     "pubDate": "Thu, 15 Oct 2026 07:02:13 +0000",
+     "summary": "Proprietary models still hold the edge, but open-weight models add more flexibility for deploying AI. The post Why Open-Weight AI Matters appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Why Open-Weight AI Matters"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Brazil’s new curtailment rules unlikely to revive utility-scale solar investment",
+     "link": "https://www.pv-magazine.com/2026/10/17/brazils-new-curtailment-rules-unlikely-to-revive-utility-scale-solar-investment/",
+     "pubDate": "Sat, 17 Oct 2026 09:30:00 +0000",
+     "summary": "Brazil’s new curtailment rules offer greater regulatory certainty for solar developers, but uncertainty over future generation cuts and financial risks continues to weigh on investment. Industry experts expect new utility-scale solar projects to remain limited despite progress on compensation and cu",
+     "source": "pv magazine",
+     "zh": "Brazil’s new curtailment rules unlikely to revive utility-scale solar investment"
+    },
+    {
      "title": "Beyond recruitment: What really keeps women in solar",
      "link": "https://www.pv-magazine.com/2026/10/17/beyond-recruitment-what-really-keeps-women-in-solar/",
      "pubDate": "Sat, 17 Oct 2026 09:00:00 +0000",
@@ -888,14 +896,6 @@ window.INDUSTRY_DATA = {
      "summary": "A Dutch regulator says EU cybersecurity rules should target companies by how much power they can control remotely, not by their size, and wants home energy devices certified independently under the Cyber Resilience Act (CRA). The post Dutch regulator flags EU cyber gap for cloud-controlled home batt",
      "source": "pv magazine",
      "zh": "Dutch regulator flags EU cyber gap for cloud-controlled home batteries"
-    },
-    {
-     "title": "Large-scale solar projects in Australia reach record 3.5 GW of annual investment decisions",
-     "link": "https://www.pv-magazine.com/2026/10/17/large-scale-solar-sets-annual-financial-investment-decision-record-at-3-5-gw/",
-     "pubDate": "Sat, 17 Oct 2026 06:00:00 +0000",
-     "summary": "The latest Clean Energy Regulator data shows investment in solar is setting a new annual record with solar final investment decisions for the September 2026 quarter at 1 GW, adding to 3.5 GW already achieved in 2026. The post Large-scale solar projects in Australia reach record 3.5 GW of annual inve",
-     "source": "pv magazine",
-     "zh": "Large-scale solar projects in Australia reach record 3.5 GW of annual investment decisions"
     },
     {
      "title": "Hello Toronto! Waymo is En Route",
@@ -1074,20 +1074,20 @@ window.INDUSTRY_DATA = {
      "zh": "Germany Roundup: Enertrag, Enlight, Vattenfall, Fluence, Giga Storage progress 4-hour batteries totalling 3.2GWh to construction"
     },
     {
-     "title": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
-     "link": "https://www.utilitydive.com/news/nexteras-4m-trump-ballroom-donation-muddies-debate-over-dominion-merger/833201/",
-     "pubDate": "Fri, 16 Oct 2026 06:28:17 -0400",
-     "summary": "The donation, which advocates called &ldquo;problematic&rdquo; and &ldquo;convenient&rdquo; for the company, comes to light as federal regulators chosen by President Donald Trump consider whether to allow NextEra to merge with Dominion Energy.",
-     "source": "Utility Dive",
-     "zh": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say"
-    },
-    {
      "title": "GES secures US$252 million EPC contracts for four Spanish solar PV projects",
      "link": "https://www.pv-tech.org/ges-secures-us252-million-epc-contracts-four-spanish-solar-pv-projects/",
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
      "zh": "GES secures US$252 million EPC contracts for four Spanish solar PV projects"
+    },
+    {
+     "title": "US clean energy jobs fell in 2025 for the first time in years",
+     "link": "https://www.canarymedia.com/articles/clean-energy-jobs/trump-us-employment-falls-data-2025",
+     "pubDate": "Fri, 16 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Clean energy installations have persisted at record levels despite President Donald Trump’s best efforts to stop them. But the first year of Trump’s second term did leave a mark on U.S. jobs in the sector. Clean energy jobs fell in 2025 afte",
+     "source": "Canary Media",
+     "zh": "US clean energy jobs fell in 2025 for the first time in years"
     }
    ]
   },
@@ -1762,6 +1762,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "买一得二：京东 PLUS + 网易云音乐联合会员年卡 118 元限时发车",
+     "link": "https://www.ithome.com/1/014/347.htm",
+     "pubDate": "Sat, 17 Oct 2026 09:28:23 GMT",
+     "summary": "京东 PLUS + 网易云音乐联合会员年卡原价 414 元，现开启大促仅需 128 元，叠加 10 元平台补贴券，到手价 118 元： 活动时间：10 月 17 日 ~11 月 13 日 京东 京东 PLUS + 网易云音乐联合会员年卡 券后 118 元 领 10 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 芒果 TV 会员年卡官方售价 216 元 / 年。 京东 PLUS 会员年卡官方售价 198 元 / 年。 充值请填写手机号，不支持第三方账号（如 QQ / 微信 / 微博）直接充值。 下单前需要查询京东 PLUS 开通权限及查询充值次数是否达",
+     "source": "IT之家",
+     "zh": "买一得二：京东 PLUS + 网易云音乐联合会员年卡 118 元限时发车"
+    },
+    {
+     "title": "特斯拉美国 Model Y 穿越高速隔离带致人死亡，驾驶辅助系统处于启用状态",
+     "link": "https://www.ithome.com/1/014/346.htm",
+     "pubDate": "Sat, 17 Oct 2026 09:24:14 GMT",
+     "summary": "IT之家 10 月 17 日消息，据 Electrek 周四报道，特斯拉向美国国家公路交通安全管理局（NHTSA）提交的事故报告显示，今年 8 月的一起碰撞事故发生前，车辆的驾驶辅助系统处于已启用状态。 据新泽西州警方通报，当地时间 2026 年 8 月 22 日上午 8 时 31 分左右，一辆特斯拉 Model Y 沿新泽西州坎伯兰县文兰市的 55 号公路向南行驶时失控，在约 34.6 英里 （IT之家注：约 55.7 公里） 路段驶离道路左侧，穿过中央草坪隔离带并撞上树木，随后进入对向车道，与一辆迎面驶来的雪佛兰 SUV 相撞，导致 SUV 驾驶员、68 岁的菲利普 · 伊斯特曼（Phil",
+     "source": "IT之家",
+     "zh": "特斯拉美国 Model Y 穿越高速隔离带致人死亡，驾驶辅助系统处于启用状态"
+    },
+    {
+     "title": "949 → 738 元：米家 216L 三门冰箱 11.11 官方直降，还有风冷可选",
+     "link": "https://www.ithome.com/1/014/345.htm",
+     "pubDate": "Sat, 17 Oct 2026 09:19:31 GMT",
+     "summary": "小米 · 米家 216L 三门冰箱 MC-216TDM 今年 4 月上市，官方定价 1298 元，首发国补价 949 元。 今日京东旗舰店折后 738 元，单循环两侧散热，直冷二级能效： 先领 9 折券： 点此领券 再领 9 折券： 点此领券 京东 米家三门冰箱 216L MC-216TDM 国补后 738 元 领 9 折券 如果需要 风冷无霜冰箱 ，下方这款也很不错。 256L 新一级能效款 9 月上市， 官方定价 1299 元 。 今日券后 968 元，晒单返 30 元，折合仅需 938 元，也是好价： 京东 米家 风冷三门冰箱 256L MC-256WTMPN 券后 968 元 领 9 ",
+     "source": "IT之家",
+     "zh": "949 → 738 元：米家 216L 三门冰箱 11.11 官方直降，还有风冷可选"
+    },
+    {
+     "title": "联合征服巴黎“最难魔鬼环岛”：奇瑞 JAECOO 联合 Momenta 完成首个无接管凯旋门智驾挑战",
+     "link": "https://www.ithome.com/1/014/343.htm",
+     "pubDate": "Sat, 17 Oct 2026 09:19:04 GMT",
+     "summary": "IT之家 10 月 17 日消息，奇瑞 JAECOO 宣布联合 Momenta，共同在法国巴黎完成了“首个无接管的凯旋门智驾挑战”。 据介绍，相应 JAECOO 7 测试车搭载 Momenta R7 世界模型，从拉德芳斯出发，跨越塞纳河，途经塞纳河畔讷伊，进入凯旋门环岛及周边街区，全程约 11.38 公里。沿途覆盖无标线道路、12 个环岛出口、反常规的“右方优先”、多方向车流汇入、施工绕行，以及行人、骑行者交互等复杂场景。 其中，凯旋门环岛汇集 12 条大道，路面没有清晰的车道标线。与常见环岛不同，环岛内车辆还须让行右侧驶入的车辆。周围车流交错，通行空间不断变化，车辆需要准确判断让行与通行时机",
+     "source": "IT之家",
+     "zh": "联合征服巴黎“最难魔鬼环岛”：奇瑞 JAECOO 联合 Momenta 完成首个无接管凯旋门智驾挑战"
+    },
+    {
+     "title": "撤档三个月后，国产动画电影《三国第一部：争洛阳》今日再次上映",
+     "link": "https://www.ithome.com/1/014/342.htm",
+     "pubDate": "Sat, 17 Oct 2026 09:17:29 GMT",
+     "summary": "IT之家 10 月 17 日消息，由《长安三万里》原班人马打造，追光动画“三国”系列首作《三国第一部：争洛阳》今日再次上映。 IT之家注意到，该电影原本在 7 月 10 日上映，目前豆瓣评分 8.0 分，然而票房成绩不尽如人意，上映 15 天总票房仅八千多万元， 于 7 月 25 日宣布撤档 ，另择档期上映。 据悉，本片由谢君伟（代表作《长安三万里》）执导，编剧为《长安三万里》《白蛇：缘起》《新神榜：杨戬》的编剧王微。 东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？ IT之家小伙伴记得用",
+     "source": "IT之家",
+     "zh": "撤档三个月后，国产动画电影《三国第一部：争洛阳》今日再次上映"
+    },
+    {
      "title": "2026 年度天猫双十一活动将于 10 月 20 日开启，88VIP 用户可自选消费券面额",
      "link": "https://www.ithome.com/1/014/341.htm",
      "pubDate": "Sat, 17 Oct 2026 09:10:45 GMT",
@@ -1770,20 +1810,20 @@ window.INDUSTRY_DATA = {
      "zh": "2026 年度天猫双十一活动将于 10 月 20 日开启，88VIP 用户可自选消费券面额"
     },
     {
-     "title": "129 元华硕 ROG 风扇集线器 GR120-1C 发售：支持 4 路风扇接口，黑白双色可选",
-     "link": "https://www.ithome.com/1/014/340.htm",
-     "pubDate": "Sat, 17 Oct 2026 09:09:27 GMT",
-     "summary": "IT之家 10 月 17 日消息，华硕 ROG 新推出了一款风扇专用控制盒 / 风扇集线器，型号为 GR120-1C，定价为 129 元。 这款集线器支持奥创软件调节风扇灯光和转速，可实现散热性能与灯光效果的同步联动。该集线器采用 4 风扇接口设计，最高支持 14 把风扇控制，满足多风扇装机的扩展需求。 该集线器采用磁吸设计，可轻松吸附于机箱金属表面；同时采用双 SATA 供电设计，能够在满载运行下提供稳定充足的电力输入；还内置过载保险丝，提供可靠的过流保护，避免设备损坏。 该产品配备一个 USB 2.0 接口，可拓展使用场景，一体化 8-pin 接口整合供电与灯效线缆，让理线更加清爽整洁。 ",
-     "source": "IT之家",
-     "zh": "129 元华硕 ROG 风扇集线器 GR120-1C 发售：支持 4 路风扇接口，黑白双色可选"
+     "title": "腾讯网易停运的游戏陆续复活，仿佛雨后春笋：都怪AI？",
+     "link": "https://www.huxiu.com/article/4898284.html?f=rss",
+     "pubDate": "Sat, 17 Oct 2026 17:09:20 +0800",
+     "summary": "本文来自微信公众号： 游戏葡萄 ，作者：游戏葡萄君 游戏行业进入大复活时代？ 相信不少人最近都刷到了如标题的内容。比如你去B站上稍微一搜，就会出现一大把AI复活《双生视界》《幻书启世录》《跃迁旅人》等停运游戏的视频，其中有不少还能直接下载体验——不是，国庆假期刚回来，游戏行业就进入大复活时代了？ 而且网友们大复活术的目标，不乏腾讯、网易、B站、西山居等一众大厂停运的游戏。反正刷了一轮相关内容后，我的第一反应是：这可行（刑）吗？ 巧的是，不止国内，最近海外也出现了一批AI辅助的经典游戏移植或复刻项目，包括《Halo》《GTA：罪恶都市》《使命召唤：黑色行动》僵尸模式等，其中不少已经具备一定的可玩",
+     "source": "虎嗅",
+     "zh": "腾讯网易停运的游戏陆续复活，仿佛雨后春笋：都怪AI？"
     },
     {
-     "title": "水月雨推出 Gaming Maestro 01 Pro 头戴式耳机：低于 270g 重量，50mm 动圈，299 元",
-     "link": "https://www.ithome.com/1/014/339.htm",
-     "pubDate": "Sat, 17 Oct 2026 09:06:58 GMT",
-     "summary": "IT之家 10 月 17 日消息，水月雨现已在京东上架 Gaming Maestro 01 Pro 头戴式电竞游戏耳机， 定价为 299 元 。 该耳机提供白金和黑金两种配色，采用皮质赛车缝线头梁与铝合金成型骨架，整机重量小于 270g，配合记忆海绵织物耳垫，耳机搭载 50mm 动圈，匹配可拔插防喷风帽麦克风，内置 1000mAh 电池，在蓝牙模式下续航约 150 小时。 该耳机 2.4GHz 发射器集成 USB-C 与 USB-A 双接口，实测全链路延迟低至 30ms。蓝牙 6.0 模式连接距离可达 27m，USB-Audio 模式支持边充边用，同时保留 3.5mm 接口以兼容传统设备。耳机",
-     "source": "IT之家",
-     "zh": "水月雨推出 Gaming Maestro 01 Pro 头戴式耳机：低于 270g 重量，50mm 动圈，299 元"
+     "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
+     "link": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
+     "pubDate": "Sat, 17 Oct 2026 09:08:16 +0000",
+     "summary": "Article URL: https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf Comments URL: https://news.ycombinator.com/item?id=50129274 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands"
     },
     {
      "title": "Microplastics React With Water, a New Study Says. That’s a Problem for Biology",
@@ -1802,22 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes"
     },
     {
-     "title": "上汽大众 ID. ERA 5S 累计交付破万，限时权益价 8.99 万元起",
-     "link": "https://www.ithome.com/1/014/337.htm",
-     "pubDate": "Sat, 17 Oct 2026 08:54:29 GMT",
-     "summary": "IT之家 10 月 17 日消息，上汽大众宣布 ID. ERA 5S 累计交付破万，另有 17053 台订单有序交付中。该车于今年 8 月上市，限时权益价 8.99 万元起。 IT之家此前报道，该车长 4836mm、宽 1880mm、高 1505mm， 轴距为 2766mm 。该车是大众全球首款搭载城市 NOA 高阶智驾能力的轿车，配备“行云智行”高阶辅助驾驶、“云栖智舱”智能座舱。 新车搭载 1.5L 插电混动系统，其中发动机最大净功率为 80kW，驱动电机峰值功率为 130kW；CLTC 纯电续航超 160km，标称 2000km 综合续航、2.82L 亏电油耗。 上汽大众 ID.ERA ",
-     "source": "IT之家",
-     "zh": "上汽大众 ID. ERA 5S 累计交付破万，限时权益价 8.99 万元起"
-    },
-    {
-     "title": "先马先锋 M-ATX 小机箱发售：提供单 120mm 风扇位，首发价 74.5 元",
-     "link": "https://www.ithome.com/1/014/335.htm",
-     "pubDate": "Sat, 17 Oct 2026 08:53:29 GMT",
-     "summary": "IT之家 10 月 17 日消息，先马旗下先锋 M-ATX 电脑机箱现已在京东发售，首发价 74.5 元。 京东 先马 先锋 小机箱 74.5 元 直达链接 该机箱整体采用黑化涂装，造型方正，整体尺寸为 296 x &nbsp;188 x &nbsp;358mm，前面板应用一体式钢板冲孔设计，兼顾结构刚性与视觉整洁程度，机箱正面提供一个 USB-A 3.0 和一个 USB-A 2.0 接口。 该机箱支持 M-ATX 与 ITX 主板。CPU 散热器限高为 160mm、显卡限长 275mm、电源限长 140mm，配备四个 PCI 扩展卡槽，后置 1 个 120mm 风扇位，机箱采用双盘位存储仓设",
-     "source": "IT之家",
-     "zh": "先马先锋 M-ATX 小机箱发售：提供单 120mm 风扇位，首发价 74.5 元"
-    },
-    {
      "title": "美光崛起背后：美国内存“独苗”的生存战、资本博弈与AI重生",
      "link": "https://www.huxiu.com/article/4898282.html?f=rss",
      "pubDate": "Sat, 17 Oct 2026 16:49:07 +0800",
@@ -1834,18 +1858,10 @@ window.INDUSTRY_DATA = {
      "zh": "分享一本有意思的小书"
     },
     {
-     "title": "经典 IP 新作《牧场物语：特拉迪亚的回响》发售，Steam 国区 170 元",
-     "link": "https://www.ithome.com/1/014/334.htm",
-     "pubDate": "Sat, 17 Oct 2026 08:45:24 GMT",
-     "summary": "IT之家 10 月 17 日消息，经典模拟经营 IP《牧场物语》最新作《牧场物语：特拉迪亚的回响》（Harvest Moon®: Echoes of Teradea）现已正式发售，Steam 国区标准版定价为 ¥ 170，支持简体中文界面与字幕。IT之家附游戏商品页（ https://store.steampowered.com/app/3591180/Harvest_Moon_Echoes_of_Teradea/ ?l=schinese&amp;cc=cn ）。 踏上前往奇幻世界特拉底亚的难忘旅程，在这里，宁静的农场生活与惊心动魄的冒险交织在一起！你在宁静祥和的花绽村中成长，而如今，你的生活",
-     "source": "IT之家",
-     "zh": "经典 IP 新作《牧场物语：特拉迪亚的回响》发售，Steam 国区 170 元"
-    },
-    {
      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
      "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
      "pubDate": "Sat, 17 Oct 2026 08:37:46 +0000",
-     "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 20 # Comments: 0",
+     "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 57 # Comments: 3",
      "source": "Hacker News",
      "zh": "DeepSeek: DeepSeek v4.1 Flash 1017"
     },
@@ -1861,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "DeepSeek-v4.1-Flash-1017",
      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
      "pubDate": "Sat, 17 Oct 2026 08:21:25 +0000",
-     "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 57 # Comments: 18",
+     "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 84 # Comments: 32",
      "source": "Hacker News",
      "zh": "DeepSeek-v4.1-Flash-1017"
     },
@@ -1888,14 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 投资界 ，作者：周佳丽，头图来自：AI生成 单身男女的生意，不好做了。 本周，约会软件巨头Bumble宣布，将被Ithaca Holdings以全现金交易收购，估值13亿美元 （约超80亿元人民币） 。 这是一款流行于留学生、大厂和外企白领圈的社交APP。2014年，曾参与搭建Tinder的Whitney Wolfe Herd出走创办了Bumble，迅速出圈&mdash;&mdash;它是当时唯一一款&ldquo;女性优先&rdquo;的约会平台，还引来了黑石的投资。 2021年上市后，Bumble市值一度冲上140亿美元 （近1000亿元人民币） ，这位女掌门也成为当时",
      "source": "虎嗅",
      "zh": "跌去95%，她卖掉上市公司"
-    },
-    {
-     "title": "西方紧盯中企在非洲挖矿, 却没注意中企“借力”的三个大动作",
-     "link": "https://www.huxiu.com/article/4898275.html?f=rss",
-     "pubDate": "Sat, 17 Oct 2026 16:00:48 +0800",
-     "summary": "本文来自微信公众号： 文化纵横 ，作者：周瑾艳 【导读】随着中国企业出海的步伐加快，中国企业不仅要与东道国政府打交道，还需处理好与当地社区的关系。如何嵌入东道国社会，将国际经验、中国特色与本土情境融合，是大出海时代值得思考的重要议题。 作为“走出去”的先行者，矿业企业的实践为处理类似情境提供了现实遵循。本文基于对中国矿企的调研发现，在日益加剧的制度压力下，在非中国矿企正在补上缺乏处理与东道国社区关系经验的短板。它们通过延续国际先行者经验、借助合资方资源和能力，以及倚仗“走出去”的中国社会组织的社区经验和网络等各种方式，在为当地社会发展贡献自身力量的同时，逐渐积累起内生能力，进而形成发展导向的社",
-     "source": "虎嗅",
-     "zh": "西方紧盯中企在非洲挖矿, 却没注意中企“借力”的三个大动作"
     },
     {
      "title": "夹在字节缝隙中的AI融资明星们",
@@ -1989,17 +1997,9 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
      "link": "https://llmspeed.dev/",
      "pubDate": "Sat, 17 Oct 2026 04:36:53 +0000",
-     "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 63 # Comments: 23",
+     "summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 68 # Comments: 24",
      "source": "Hacker News",
      "zh": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware"
-    },
-    {
-     "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-     "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-     "pubDate": "Sat, 17 Oct 2026 02:36:18 +0000",
-     "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
-     "source": "TechCrunch",
-     "zh": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept"
     }
    ]
   },
@@ -2258,52 +2258,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "欧洲采购商争当代理：要务实面对中国新能源汽车领跑",
+     "link": "http://finance.eastmoney.com/news/1351,202610173899049727.html",
+     "pubDate": "Sat, 17 Oct 2026 17:18:01 +0800",
+     "summary": "“我们现在要做的是与中国企业加强合作，赶在别人面前成为代理商，把中 国新能源 汽车 卖回欧洲。”在正举行的第140届广交会 新能源 汽车 及智慧出行展区，来自西班牙的采购商卡尔扎达·阿莫罗图·马丁(Calzada Amorrortu Martin)接受中新社记者采访时如是说。 作为传统车商，马丁表示，中 国新能源 汽车 发展走在世界前列，这已经是不争的事实，欧洲要务实面对。他已规划与中国车企合作的路径：先从代理销售起步，之后再进一步引进中国技术、产业链合作设厂，实现 新能源 汽车本地化生产制造。 同样来自西班牙的采购商布兰科·阿帕里西奥·赫苏斯·马里亚(Blanco Aparicio Jesu",
+     "source": "东方财富股票",
+     "zh": "欧洲采购商争当代理：要务实面对中国新能源汽车领跑"
+    },
+    {
+     "title": "科技股接连重挫，黄仁勋下场喊话：这一切都会过去，“AI基本面没有变化”",
+     "link": "http://finance.eastmoney.com/news/1354,202610173899049858.html",
+     "pubDate": "Sat, 17 Oct 2026 17:16:00 +0800",
+     "summary": "AI芯片 龙头 英伟达 CEO黄仁勋对近期科技股的暴跌持乐观态度，称这项技术带来的好处很快就会超过投资者的担忧。 当地时间10月16日，关于近期AI相关板块的表现，黄仁勋在接受外媒采访时表示：“这一切都会过去，原因很简单。AI将带来变革性影响，将以非常积极的方式影响每一个行业、每一个国家。毫无疑问，这一趋势会继续下去，而我们才刚刚起步。” 芯片制造商和AI基础设施公司刚刚度过了动荡的一周。费城 半导体 指数已连续八个交易日下跌，创下自2008年以来最长的连跌纪录。与此同时， 英伟达 股价在过去8个交易日中经历了7个交易日的下跌。投资者担心，在借贷成本上升的背景下，AI支出将难以持续。 尽管如此",
+     "source": "东方财富股票",
+     "zh": "科技股接连重挫，黄仁勋下场喊话：这一切都会过去，“AI基本面没有变化”"
+    },
+    {
+     "title": "名创优品王子烨：把乐园装进零售店，满足当下消费中情绪价值的需求｜2026主题公园和度假区发展大会",
+     "link": "http://finance.eastmoney.com/news/1354,202610173899050150.html",
+     "pubDate": "Sat, 17 Oct 2026 17:14:21 +0800",
+     "summary": "10月16日，2026（第九届）主题公园和度假区发展大会（以下简称“大会”）在京举办。大会由中国旅游研究院指导，北京首寰文化旅游投资有限公司与北京商报社联合主办，西街 传媒 承办。 在大会圆桌论坛环节， 名创优品 集团北区负责人王子烨表示，依托品牌全球化布局与IP积累， 名创优品 将乐园直接装进零售门店，孵化MINISO LAND乐园系店态，同时，积极探索与乐园结合的多种形式，满足当下消费中的情绪价值需求。 王子烨介绍，2013年至2023年， 名创优品 主要处于全球走规模阶段，目前进入了全球112个国家、拥有近9000家门店，这也让更多顶级IP授权方选择合作。但过去“白门头小店”未能充分放大",
+     "source": "东方财富股票",
+     "zh": "名创优品王子烨：把乐园装进零售店，满足当下消费中情绪价值的需求｜2026主题公园和度假区发展大会"
+    },
+    {
+     "title": "科大讯飞文旅产品线副总经理汪冬雪：AI大模型落地主题乐园，最大挑战是与IP结合｜2026主题公园和度假区发展大会",
+     "link": "http://finance.eastmoney.com/news/1354,202610173899049552.html",
+     "pubDate": "Sat, 17 Oct 2026 17:13:48 +0800",
+     "summary": "10月16日，2026（第九届）主题公园和度假区发展大会在京举办。在圆桌分享环节， 科大讯飞 代表汪冬雪围绕AI大模型在主题乐园场景的落地挑战分享观点。他表示，大模型相当于给行业装上一个大脑，主题乐园中AI技术可在IP塑造、主动服务、数据沉淀三方面发力，而最大的难点在于AI与IP的结合。 汪冬雪介绍， 科大讯飞 从语音技术起步，如今专注AI大模型相关技术。行业里有句话，有大模型之后很多东西可以再做一遍。主题乐园传统设备较为固定化，而AI技术有足够知识量，能基于需求做整合，根据设定做事。结合讯飞在文旅领域的实践，她认为大模型在主题乐园重点要做几件事。 第一，IP层面。主题乐园IP非常重要，但真正",
+     "source": "东方财富股票",
+     "zh": "科大讯飞文旅产品线副总经理汪冬雪：AI大模型落地主题乐园，最大挑战是与IP结合｜2026主题公园和度假区发展大会"
+    },
+    {
+     "title": "太空光伏万亿赛道划定“精准边界”，详解技术出口管控新规",
+     "link": "http://www.eeo.com.cn/2026/1017/1068228.shtml",
+     "pubDate": "Sat, 17 Oct 2026 17:13:07 +0800",
+     "summary": "21世纪经济报道记者张旭 北京报道 2026年10月16日，商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》（以下简称《目录》）公开征求意见，拟增列人工智能、生物医药、光伏三个领域40项关键技术。 具体来看，光伏领域涉及多晶硅制造、硅片制造、电池制造相关12项技术，其中钙钛矿及叠层电池组件生产技术及其设备制造技术被列入禁止出口类别，单线产能≥3万吨/年的多晶硅工程技术则归入...",
+     "source": "经济观察网",
+     "zh": "太空光伏万亿赛道划定“精准边界”，详解技术出口管控新规"
+    },
+    {
+     "title": "DeepSeek官宣：“许愿式编程”成为现实",
+     "link": "http://finance.eastmoney.com/news/11158,202610173899049443.html",
+     "pubDate": "Sat, 17 Oct 2026 17:09:46 +0800",
+     "summary": "10月17日，据DeepSeek官方消息，DeepSeek V4.1 Flash 现已更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。 相比上一版本的 DeepSeek V4.1 Flash，新模型在各方面的基准测试中取得了长足的提升。 DeepSeek V4.1 Flash 1017 使用 mini-swe-v2 框架测试 DeepSWE 的性能/成本图 DeepSeek V4.1 Flash 1017 通过基于自反馈的强化学习（RL）训练技术，提升了在游戏开发、3D 建模等方面从零开始构建完整项目的能力，能够支持实现更多“许愿式”编程任",
+     "source": "东方财富股票",
+     "zh": "DeepSeek官宣：“许愿式编程”成为现实"
+    },
+    {
      "title": "任友群分别会见孟加拉、马里、坦桑尼亚外宾",
      "link": "http://www.eeo.com.cn/2026/1017/1068222.shtml",
      "pubDate": "Sat, 17 Oct 2026 17:06:05 +0800",
      "summary": "经济观察网 10月17日，据教育部网站消息，10月15日，教育部副部长任友群分别会见出席2026年世界职业技术教育发展大会的孟加拉国教育部部长米隆、马里创业与就业职业培训部部长塞克、坦桑尼亚教育部副部长阿梅。 任友群在会见米隆时表示，愿同孟方加强职教师资培训和人才培养合作，推进“中文＋职业技能”教育。米隆赞赏中国职业教育发展成就，期待双方加强经验和资源共享。 任友群在会见塞克时表示，愿以双方签署...",
      "source": "经济观察网",
      "zh": "任友群分别会见孟加拉、马里、坦桑尼亚外宾"
-    },
-    {
-     "title": "“风清”人工智能全球短中期集合天气预报系统V1.0投入运行",
-     "link": "http://finance.eastmoney.com/news/1360,202610173899048895.html",
-     "pubDate": "Sat, 17 Oct 2026 17:01:57 +0800",
-     "summary": "在今日举行的2026全国高性能计算学术大会（CCF HPC China 2026）上，国家超算互联网宣布，由国家气象中心牵头，联合雄安气象 人工智能 创新研究院、国家气象信息中心和国家超算互联网等共同研制的新一代 人工智能 集合预报系统——“风清” 人工智能 全球短中期集合天气预报系统V1.0，顺利通过业务化评审并投入运行。“风清”系统全球有效预报时效达11天， 综合 预报效果超越欧洲中期天气预报中心（ECMWF）的人工智能集合预报系统，标志着中国AI气象预报达到世界先进水平。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "“风清”人工智能全球短中期集合天气预报系统V1.0投入运行"
-    },
-    {
-     "title": "林洋能源中期分红落地 储能业务“多点开花”",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899049053.html",
-     "pubDate": "Sat, 17 Oct 2026 17:00:35 +0800",
-     "summary": "上证报中国证券网讯（记者王文嫣）近日， 林洋能源 发布2026年半年度权益分派实施公告，拟向全体股东每股派发现金红利0.106元（含税），合计派现2.13亿元。本次中期分红有扎实的业绩支撑——半年报显示，公司上半年实现营业收入45.26亿元，同比增长82.40%；归母净利润4.27亿元，同比增长31.70%。 更值得关注的是结构变化：2026年上半年，公司储能业务实现营收6.47亿元，同比增长212.40%，毛利率同比提升4.4个百分点，成为新的业绩增长极。从项目开发、产能建设到技术迭代， 林洋能源 储能板块正加速从“培育期”迈入“放量期”。 大型独立储能项目梯次落地 新型储能正处在从“规模扩",
-     "source": "东方财富股票",
-     "zh": "林洋能源中期分红落地 储能业务“多点开花”"
-    },
-    {
-     "title": "存储龙头，密集利好！001309，预盈超86亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899048942.html",
-     "pubDate": "Sat, 17 Oct 2026 17:00:00 +0800",
-     "summary": "A股存储公司业绩密集预喜。 10月16日晚间， 德明利 （001309）披露业绩预告显示，2026年前三季度，公司实现营业收入275亿元至295亿元，同比增长312.97%至343.00%；实现净利润86.5亿元至89.5亿元，扭亏为盈（公司上年同期亏损2707.65万元）。 其中， 德明利 预计第三季度实现营业收入105.89亿元至125.89亿元，净利润26.33亿元至29.33亿元，环比可能实现双增长（今年第二季度， 德明利 的营收、净利润规模分别为93.72亿元、26.71亿元）。 分业务来看，今年前三季度，德明利企业级存储业务实现销售收入82.37亿元，收入规模及收入占比进一步提升。",
-     "source": "东方财富股票",
-     "zh": "存储龙头，密集利好！001309，预盈超86亿元"
-    },
-    {
-     "title": "存储龙头密集利好！001309预盈超86亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899048942.html",
-     "pubDate": "Sat, 17 Oct 2026 17:00:00 +0800",
-     "summary": "A股存储公司业绩密集预喜。 10月16日晚间， 德明利 （001309）披露业绩预告显示，2026年前三季度，公司实现营业收入275亿元至295亿元，同比增长312.97%至343.00%；实现净利润86.5亿元至89.5亿元，扭亏为盈（公司上年同期亏损2707.65万元）。 其中， 德明利 预计第三季度实现营业收入105.89亿元至125.89亿元，净利润26.33亿元至29.33亿元，环比可能实现双增长（今年第二季度， 德明利 的营收、净利润规模分别为93.72亿元、26.71亿元）。 分业务来看，今年前三季度，德明利企业级存储业务实现销售收入82.37亿元，收入规模及收入占比进一步提升。",
-     "source": "东方财富资讯",
-     "zh": "存储龙头密集利好！001309预盈超86亿元"
-    },
-    {
-     "title": "霍尔木兹海峡安全形势恶化 一天内曾有6艘船遇袭",
-     "link": "http://finance.eastmoney.com/news/1351,202610173899048784.html",
-     "pubDate": "Sat, 17 Oct 2026 16:58:19 +0800",
-     "summary": "国际海事组织秘书长阿塞尼奥·多明格斯16日接受新华社记者专访时表示，霍尔木兹海峡及周边海域安全形势持续恶化，船舶通行风险并未降低。他强调， 航运 不应被用作冲突中的施压工具，冲突各方只有着手解决危机根源，才能为该地区 航运 安全恢复创造条件。 据国际海事组织官网公布的数据，10月5日至11日，海峡及周边海域报告了12起船只遇袭事件，为2月底美以伊冲突爆发以来单周最高。仅10月11日一天，就有6艘船舶遭袭。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "霍尔木兹海峡安全形势恶化 一天内曾有6艘船遇袭"
     },
     {
      "title": "国际油价暗盘直线大涨，布油冲破110美元",
@@ -2314,52 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "国际油价暗盘直线大涨，布油冲破110美元"
     },
     {
-     "title": "“易中天”本周净流出逾百亿元 资金加仓这些方向",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899048635.html",
-     "pubDate": "Sat, 17 Oct 2026 16:51:46 +0800",
-     "summary": "本周（10月12日至16日），科技股资金流向明显分化。光 通信 龙头主力资金净流出较多， 半导体 设备、 PCB 等方向的部分个股则获得资金加仓。 Wind数据显示，本周申万31个一级行业中，4个行业获主力资金净流入， 美容护理 行业以7.40亿元居首， 轻工制造 、 汽车 、 传媒 行业也获净流入。 通信 、 电力 设备、 电子 行业净流出额则均超过百亿元。 个股方面，剔除本周上市的新股后， 北方华创 、 百亚股份 、 沪电股份 位居主力资金净流入榜前三； 新易盛 、 中际旭创 、 天孚通信 “易中天”合计净流出100.74亿元。 美容护理 板块“吸金”居首 Wind数据显示，本周 美容护理",
-     "source": "东方财富股票",
-     "zh": "“易中天”本周净流出逾百亿元 资金加仓这些方向"
-    },
-    {
-     "title": "官宣退市！阿里云虚拟数字人下架 最新回应来了",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899048334.html",
-     "pubDate": "Sat, 17 Oct 2026 16:47:44 +0800",
-     "summary": "10月16日，阿里云官网发布关于虚拟 数字人 启动退市通知的产品变更公告。公告显示，由于产品策略调整，虚拟 数字人 产品即将退市。 退市时间线与官方安排 根据退市安排，2026年11月30日，该产品将停止新购服务，已购买的客户仍可继续使用至服务到期；2027年5月31日，停止现有客户的续订及版本更新；2027年11月30日，全面停止服务，届时控制台、相关的支持服务和工单服务也将一同下线。此外，阿里云提供的退款服务也将于该日期停止。 阿里云表示，为保障业务连续性，建议客户尽快迁移至替换方案：阿里云云市场 数字人 产品蚂蚁灵境数字人、相芯数字人、一知智能AI直播数字人。 对此，阿里云方面人士向券商",
-     "source": "东方财富股票",
-     "zh": "官宣退市！阿里云虚拟数字人下架 最新回应来了"
-    },
-    {
-     "title": "刷屏！知名港星投资巨亏！总想一夜暴富 不敢告诉家人亏损金额",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899048488.html",
-     "pubDate": "Sat, 17 Oct 2026 16:44:00 +0800",
-     "summary": "明星投资亏损越来越常见。 近日，中国香港明星方力申投资巨亏的消息刷屏。他自曝因买入NFT亏去大量资金，“亏得比我之前炒股还多，亏损金额至今不敢告诉家人。”此外，韩国“炒股综艺”也热门起来，不少明星自曝巨额亏损。 目前，全球股市正经历新一轮震荡。油价与美债收益率双升压制风险资产，AI资本开支周期是否见顶的争论升温。美国时间周五，科技股遭新一轮抛售， 纳斯达克 收跌2.15%，全周跌5.64%；标普500跌约1.09%，全周跌约1.95%， 两个指数都走向6月以来最差的一周。 华尔街机构对后市的分歧明显加深。即将密集披露的美股三季报，成为检验这轮行情成色的第一道关口。 多位明星投资巨亏 近日，中国",
-     "source": "东方财富资讯",
-     "zh": "刷屏！知名港星投资巨亏！总想一夜暴富 不敢告诉家人亏损金额"
-    },
-    {
-     "title": "美股4年牛市涨幅翻倍 英伟达只排第4 第一名涨了41倍！两大危险信号叠加 传奇交易员表态将做空",
-     "link": "http://finance.eastmoney.com/news/1354,202610173899046841.html",
-     "pubDate": "Sat, 17 Oct 2026 16:26:18 +0800",
-     "summary": "当地时间10月13日，美股牛市迎来四周年。 这四年，标普500指数累计上涨119%， AI产业链成为最明确的主线： 存储龙头 闪迪 股价累计上涨逾41倍，位居榜首； 英伟达 股价四年涨幅达1990%，位列第四。 然而，牛市迈入第五年的首周，科技股便遭遇重挫。费城 半导体 指数本周累跌11.4%，过去八个交易日累计下跌逾13%、 成分股市值蒸发约2万亿美元。 抛售风暴指向了AI基础设施和头部实验室。 10月14日， 英伟达 支持的AI 云计算 公司CoreWeave股价重挫逾15%；其2032年到期的无担保债券已跌破面值的80%，隐性收益率飙升至15%以上，马斯克在社交平台坦言该数据“吓人”。 ",
-     "source": "东方财富资讯",
-     "zh": "美股4年牛市涨幅翻倍 英伟达只排第4 第一名涨了41倍！两大危险信号叠加 传奇交易员表态将做空"
-    },
-    {
      "title": "国际油价暗盘直线大涨，布油冲破110美元，俄乌互袭能源设施，普京下令继续打击",
      "link": "http://www.eeo.com.cn/2026/1017/1068189.shtml",
      "pubDate": "Sat, 17 Oct 2026 16:26:17 +0800",
      "summary": "北京时间10月17日下午，国际油价暗盘直线飙升，截至15时14分，布伦特原油暗盘大涨超4.49%，最高涨破110美元/桶，最新报107.12美元/桶；纽约期油暗盘大涨超3.45%，最新报99.099美元/桶。 加密货币市场震荡加剧，比特币在10月17日凌晨跌破8.2万美元，现报8.17万美元/枚，跌0.43%，ETH、SOL、HY...",
      "source": "经济观察网",
      "zh": "国际油价暗盘直线大涨，布油冲破110美元，俄乌互袭能源设施，普京下令继续打击"
-    },
-    {
-     "title": "券商首席最新发声：科技行情还远没结束",
-     "link": "http://finance.eastmoney.com/news/11158,202610173899046340.html",
-     "pubDate": "Sat, 17 Oct 2026 16:19:38 +0800",
-     "summary": "“我偏乐观，科技股这波行情还没有结束。”华创证券 电子 行业首席分析师岳阳对中新经纬表示。 当前，全球科技股正经历一轮调整。9月以来， 半导体 、算力板块回调明显。站在四季度起点，市场对科技板块所处阶段的分歧显著加大。近日，中新经纬专访岳阳，解读科技股四季度配置节奏及 电子 行业机会。 岳阳认为，当下市场并非熊市，而是牛市进程中的回调阶段，科技依然有明天。他指出，眼下最大的困局在于交易量，四季度散户投资者宜以中性仓位参与，并聚焦基本面。 单边杀估值，科技牛市仍未结束 岳阳表示，科技股牛熊转换的典型信号是基本面变化。这波回调虽然幅度较大，但科技公司的基本面并未出现问题。历史上科技股走熊，往往是基",
-     "source": "东方财富资讯",
-     "zh": "券商首席最新发声：科技行情还远没结束"
     },
     {
      "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
@@ -2384,14 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "据财联社报道，苹果公司周五开启首款折叠屏手机iPhone Duo的预订。虽然目前尚不清楚苹果为首发备了多少货，但多国苹果商店均显示，现在下单要等到明年1月底才能拿到新手机。 昨日晚间8点，财联社记者点击苹果官网iPhone Duo预购页面，该页面在约10分钟后才成功跳转，显示每人限购2台，且已无法预约23号的首发，目前订购全系列产品发货时长至少为7-8周；同时，记者于京东平台的Apple产品京东自营旗舰店发现，iPhone Duo的...",
      "source": "经济观察网",
      "zh": "苹果：iPhone Duo需求令人惊叹"
-    },
-    {
-     "title": "【环球财经】特朗普签署行政令豁免对俄多项制裁",
-     "link": "http://www.eeo.com.cn/2026/1017/1068149.shtml",
-     "pubDate": "Sat, 17 Oct 2026 15:52:16 +0800",
-     "summary": "新华财经纽约10月17日电（记者刘亚南 徐静）美国白宫16日发布的消息显示，美国总统特朗普当日签署一份行政令，豁免对俄罗斯实施多项制裁措施。 根据该行政令，豁免内容涉...",
-     "source": "经济观察网",
-     "zh": "【环球财经】特朗普签署行政令豁免对俄多项制裁"
     },
     {
      "title": "上线了！2027见闻历超值预售99元，活动火热进行中！",
@@ -2496,6 +2456,46 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Brent crude hits $110 for first time since May; U.S. WTI tops $100"
+    },
+    {
+     "title": "Boeing commercial sales chief McMullen set to retire - Reuters",
+     "link": "https://seekingalpha.com/news/4654027-boeing-commercial-sales-chief-mcmullen-set-to-retire-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 19:17:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Boeing commercial sales chief McMullen set to retire - Reuters"
+    },
+    {
+     "title": "Alcon wins approval of OTC Brytly eye drops",
+     "link": "https://seekingalpha.com/news/4654026-alcon-wins-approval-otc-brytly-eye-drops?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 18:59:12 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Alcon wins approval of OTC Brytly eye drops"
+    },
+    {
+     "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+     "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+     "pubDate": "Fri, 16 Oct 2026 22:34:29 GMT",
+     "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+     "source": "CNBC",
+     "zh": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year"
+    },
+    {
+     "title": "Apple’s $1,999 iPhone Duo puts the company&apos;s status-symbol power to the test",
+     "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+     "pubDate": "Fri, 16 Oct 2026 22:31:26 GMT",
+     "summary": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
+     "source": "CNBC",
+     "zh": "Apple’s $1,999 iPhone Duo puts the company&apos;s status-symbol power to the test"
+    },
+    {
+     "title": "Exxon sees higher refining margins adding $4.5B to Q3 earnings",
+     "link": "https://seekingalpha.com/news/4654023-exxon-sees-higher-refining-margins-adding-45b-to-q3-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 16 Oct 2026 18:14:07 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Exxon sees higher refining margins adding $4.5B to Q3 earnings"
     }
    ]
   },

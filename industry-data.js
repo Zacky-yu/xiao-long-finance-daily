@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/19 00:25:48",
+ "generated_at": "2026/10/19 01:39:45",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+     "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+     "pubDate": "Sun, 18 Oct 2026 16:30:00 +0000",
+     "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to ",
+     "source": "TechCrunch AI",
+     "zh": "Disney agrees to hire the majority of Character.AI’s workforce"
+    },
     {
      "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
      "link": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
      "source": "TechCrunch AI",
      "zh": "India becomes the latest country to report rogue AI agent activity"
-    },
-    {
-     "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-     "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-     "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
-     "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who beli",
-     "source": "TechCrunch AI",
-     "zh": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet"
     }
    ]
   },
@@ -257,6 +257,14 @@ window.INDUSTRY_DATA = {
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "CEO Interview with Francisco Almada Lobo of Critical Manufacturing",
+     "link": "https://semiwiki.com/ceo-interviews/374517-ceo-interview-with-francisco-almada-lobo-of-critical-manufacturing/",
+     "pubDate": "Sun, 18 Oct 2026 17:00:15 +0000",
+     "summary": "Francisco Almada Lobo is CEO and co-founder of Critical Manufacturing. He began his career at a CIM research institute and joined Siemens Semiconductors in 1997. In 2004 he led the migration of an MES in a running high-volume facility, and from 2005 to 2009 he managed the Porto Development Center fo",
+     "source": "SemiWiki",
+     "zh": "CEO Interview with Francisco Almada Lobo of Critical Manufacturing"
+    },
     {
      "title": "Maskless EUV Lithography: An Alternative to E-Beam",
      "link": "https://semiwiki.com/lithography/373583-maskless-euv-lithography-an-alternative-to-e-beam/",
@@ -472,14 +480,6 @@ window.INDUSTRY_DATA = {
      "summary": "Japan’s $21B offer to GlobalFoundries would add two New York fabs and lift U.S. chip capacity 10%; see why analysts warn on state support. The post Japan Offers GlobalFoundries $21B for U.S. Fab Expansion appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion"
-    },
-    {
-     "title": "Design the Right Chip: Why Prototyping Has to Be Easy",
-     "link": "https://semiwiki.com/prototyping/s2c-eda/374637-design-the-right-chip-why-prototyping-has-to-be-easy/",
-     "pubDate": "Thu, 15 Oct 2026 17:00:53 +0000",
-     "summary": "Design the right chip. Design the chip right. Every verification methodology in mainstream use answers the second half of that sentence and assumes the first. Simulation, emulation, formal, constrained-random testbenches, coverage closure — all of them take a specification as given and ask whether t",
-     "source": "SemiWiki",
-     "zh": "Design the Right Chip: Why Prototyping Has to Be Easy"
     },
     {
      "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
@@ -850,6 +850,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
+     "link": "https://oilprice.com/Geopolitics/Middle-East/Iran-Faces-Rising-Threat-From-Within-as-Baluch-Insurgency-Escalates.html",
+     "pubDate": "Sun, 18 Oct 2026 12:00:00 -0500",
+     "summary": "Iran's vast and restive southeastern province of Sistan-Baluchistan, located along the border with Afghanistan and Pakistan, has witnessed a deadly flare-up of violence in recent weeks. Armed groups and Iranian security forces have clashed almost daily across the impoverished province, the site of a",
+     "source": "OilPrice",
+     "zh": "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates"
+    },
+    {
+     "title": "Paris Auto Show — European OEMs Strike Back",
+     "link": "https://cleantechnica.com/2026/10/18/paris-auto-show-european-oems-strike-back/",
+     "pubDate": "Sun, 18 Oct 2026 16:42:27 +0000",
+     "summary": "(But will it be enough?) The 2026 Paris Auto Show felt different this year. Despite some notable absences (BMW, MG, most Japanese OEMs…), it was bigger than in past editions. The bright, confident stands of Chinese automakers—from BYD to Geely to XPENG—signal a new era in Europe’s car market, one ..",
+     "source": "CleanTechnica",
+     "zh": "Paris Auto Show — European OEMs Strike Back"
+    },
+    {
      "title": "Electrification Changes What Energy Security Means",
      "link": "https://cleantechnica.com/2026/10/18/globalization-electrification-energy-security/",
      "pubDate": "Sun, 18 Oct 2026 15:59:39 +0000",
@@ -928,22 +944,6 @@ window.INDUSTRY_DATA = {
      "summary": "After months of elevated energy prices, Europe can expect fuel costs to continue rising through the winter months as demand grows. Ongoing energy trade constraints and threats to energy infrastructure across the Middle East are expected to limit global energy supplies and continue to drive up prices",
      "source": "OilPrice",
      "zh": "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low"
-    },
-    {
-     "title": "China’s EV Transition Is Four Different Transitions",
-     "link": "https://cleantechnica.com/2026/10/17/china-ev-transition-use-cases/",
-     "pubDate": "Sat, 17 Oct 2026 16:53:22 +0000",
-     "summary": "China has reached a stage of vehicle electrification that is easy to miss if the only number being watched is national EV market share. New urban buses are now essentially all electric, and in many cities the procurement question is no longer whether to replace a diesel bus with a ... [continued] Th",
-     "source": "CleanTechnica",
-     "zh": "China’s EV Transition Is Four Different Transitions"
-    },
-    {
-     "title": "Bolivia’s Energy Crisis Deepens as Natural Gas Reserves Run Dry",
-     "link": "https://oilprice.com/Energy/Energy-General/Bolivias-Energy-Crisis-Deepens-as-Natural-Gas-Reserves-Run-Dry.html",
-     "pubDate": "Sat, 17 Oct 2026 10:00:00 -0500",
-     "summary": "Years of underinvestment in Bolivia’s gas industry have left the South American country facing a severe fuel shortage, as energy prices rise ever higher owing to the ongoing war in Iran. The energy shortages and economic crisis follow years of poor decision-making by the government. In 2006, then-pr",
-     "source": "OilPrice",
-     "zh": "Bolivia’s Energy Crisis Deepens as Natural Gas Reserves Run Dry"
     },
     {
      "title": "Qcells to introduce U.S. domestic frames for residential solar panel lineup",
@@ -1298,6 +1298,22 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
+     "link": "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
+     "pubDate": "Sun, 18 Oct 2026 16:32:02 +0000",
+     "summary": "This will be the second launch of SpaceX’s uncrewed reentry capsule, Starfall. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled during a one-hour window that opens at 6:30 a.m. EDT (1030 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission"
+    },
+    {
+     "title": "SpaceX working through Starship Flight 15 and 16 milestones",
+     "link": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+     "pubDate": "Sun, 18 Oct 2026 16:31:04 +0000",
+     "summary": "SpaceX is advancing toward its next two Starship missions as the company looks to close… The post SpaceX working through Starship Flight 15 and 16 milestones appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "SpaceX working through Starship Flight 15 and 16 milestones"
+    },
+    {
      "title": "Computer scientist Margaret Hamilton was a problem-solver for the ages (op-ed)",
      "link": "https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed",
      "pubDate": "Sun, 18 Oct 2026 16:00:00 +0000",
@@ -1520,22 +1536,6 @@ window.INDUSTRY_DATA = {
      "summary": "The sunrise launch on Oct. 13 was the 35th SpaceX flight under the Commercial Resupply Services 2 contract with NASA.",
      "source": "Spaceflight Now",
      "zh": "SpaceX launches NASA science and cargo to the International Space Station"
-    },
-    {
-     "title": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station",
-     "link": "https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station/",
-     "pubDate": "Tue, 13 Oct 2026 01:19:30 +0000",
-     "summary": "Liftoff of the Falcon 9 rocket from pad 40 at Cape Canaveral Space Force Station is scheduled for 6:33 a.m. EDT (1033 UTC) on Tuesday, Oct. 13. The Cargo Dragon spacecraft will arrive at the space station following a two-day flight.",
-     "source": "Spaceflight Now",
-     "zh": "Launch preview: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station"
-    },
-    {
-     "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites from California",
-     "link": "https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california/",
-     "pubDate": "Mon, 12 Oct 2026 22:21:40 +0000",
-     "summary": "Liftoff off of the Starlink 15-25 mission from Space Launch Complex 4 East came at 5:28 p.m. PDT (8:28 p.m. EDT / 0028 UTC).",
-     "source": "Spaceflight Now",
-     "zh": "SpaceX Falcon 9 rocket launches 27 Starlink satellites from California"
     }
    ]
   },
@@ -1762,6 +1762,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Someone Behind the Software",
+     "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+     "pubDate": "Sun, 18 Oct 2026 16:32:00 +0000",
+     "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 23 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Someone Behind the Software"
+    },
+    {
+     "title": "Anthropic gives outside AI watchdog “employee-like” access",
+     "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+     "pubDate": "Sun, 18 Oct 2026 16:25:19 +0000",
+     "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+     "source": "Ars Technica",
+     "zh": "Anthropic gives outside AI watchdog “employee-like” access"
+    },
+    {
+     "title": "保留所有可能性，是行动力最贵的死法",
+     "link": "https://www.huxiu.com/article/4898445.html?f=rss",
+     "pubDate": "Mon, 19 Oct 2026 00:24:05 +0800",
+     "summary": "本文来自微信公众号： 乐鉴笔记 ，作者：乐鉴 你窝在沙发里，打开手机找部片子看。首页推了几十个分类，每个分类下面十几部推荐。你划了二十分钟，越划越焦虑——不是没有想看的，是每部看起来都还行，但没有一部让你觉得\"就是它了\"。 最后你关掉APP，刷了半小时短视频。 同样的逻辑，换一个场景。周五晚上，你打开电脑准备规划周末。想学的那门课收藏夹里躺了三周，朋友推荐的书第一章还没翻完，跑步计划从上周就该启动了，那个项目方案拖了快一个月。你看着这些待办，觉得每一个都重要，每一个都不想放弃。于是你开始排优先级——排了半小时，发现它们好像都差不多重要。 你试着先做一个。刚打开课程视频，脑子里就冒出一个声音：这",
+     "source": "虎嗅",
+     "zh": "保留所有可能性，是行动力最贵的死法"
+    },
+    {
+     "title": "The Intel 8087 chip: floating-point addition and subtraction",
+     "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+     "pubDate": "Sun, 18 Oct 2026 16:20:27 +0000",
+     "summary": "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 18 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "The Intel 8087 chip: floating-point addition and subtraction"
+    },
+    {
      "title": "向西跋涉：中国汽车的欧洲十六年",
      "link": "https://www.huxiu.com/article/4898444.html?f=rss",
      "pubDate": "Mon, 19 Oct 2026 00:10:23 +0800",
@@ -1802,14 +1834,6 @@ window.INDUSTRY_DATA = {
      "zh": "首发即国补：荣耀 Earbuds 耳夹式耳机 499 → 378 元，全天候舒适佩戴"
     },
     {
-     "title": "Campus deplatformings hit record high",
-     "link": "https://expression.fire.org/p/campus-deplatformings-hit-record",
-     "pubDate": "Sun, 18 Oct 2026 15:41:12 +0000",
-     "summary": "Article URL: https://expression.fire.org/p/campus-deplatformings-hit-record Comments URL: https://news.ycombinator.com/item?id=50142034 Points: 5 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Campus deplatformings hit record high"
-    },
-    {
      "title": "Sources: HomeView units sat in warehouses for months; Apple plans a Nov. 6 store reset, likely for new Macs; iPhone Duo preorder mess could boost 18 Pro sales (Mark Gurman/Bloomberg)",
      "link": "https://www.techmeme.com/261018/p8#a261018p8",
      "pubDate": "Sun, 18 Oct 2026 11:30:01 -0400",
@@ -1821,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "macOS 15.8.2 Breaks OpenGL",
      "link": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
      "pubDate": "Sun, 18 Oct 2026 15:26:06 +0000",
-     "summary": "Article URL: https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550 Comments URL: https://news.ycombinator.com/item?id=50141909 Points: 50 # Comments: 18",
+     "summary": "Article URL: https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550 Comments URL: https://news.ycombinator.com/item?id=50141909 Points: 164 # Comments: 116",
      "source": "Hacker News",
      "zh": "macOS 15.8.2 Breaks OpenGL"
     },
@@ -1869,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
      "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
      "pubDate": "Sun, 18 Oct 2026 15:00:40 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ Comments URL: https://news.ycombinator.com/item?id=50141681 Points: 52 # Comments: 45",
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ Comments URL: https://news.ycombinator.com/item?id=50141681 Points: 71 # Comments: 88",
      "source": "Hacker News",
      "zh": "Will it be a golden age or a dark age for mathematics (and science)?"
     },
@@ -1877,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Websites are closing their doors to AI agents",
      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
      "pubDate": "Sun, 18 Oct 2026 14:58:10 +0000",
-     "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 67 # Comments: 45",
+     "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 105 # Comments: 85",
      "source": "Hacker News",
      "zh": "Websites are closing their doors to AI agents"
     },
@@ -1893,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Java sealed classes and exhaustive pattern matching",
      "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
      "pubDate": "Sun, 18 Oct 2026 14:47:37 +0000",
-     "summary": "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 15 # Comments: 3",
+     "summary": "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 44 # Comments: 12",
      "source": "Hacker News",
      "zh": "Java sealed classes and exhaustive pattern matching"
     },
@@ -1946,14 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "数学的“第四次危机”：从不可说，到无可说"
     },
     {
-     "title": "High performance policy routed IPsec mesh SD-WAN",
-     "link": "https://ranet3.com/",
-     "pubDate": "Sun, 18 Oct 2026 14:31:52 +0000",
-     "summary": "Article URL: https://ranet3.com/ Comments URL: https://news.ycombinator.com/item?id=50141436 Points: 5 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "High performance policy routed IPsec mesh SD-WAN"
-    },
-    {
      "title": "内核开发者递交代码无需声明是否 AI 辅助编写",
      "link": "https://www.solidot.org/story?sid=85641",
      "pubDate": "Sun, 18 Oct 2026 22:28:17 +0800",
@@ -1984,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Giovanni Colantonio / Polygon : An interview with Apple's new VP of the App Store, Carson Oliver, on Apple's gaming vision, Apple Arcade, providing tools for indie game developers, and more &nbsp; &mdash;&nbsp; Back when Apple Arcade launched in 2019, there was a resounding belief among gamers that ",
      "source": "Techmeme",
      "zh": "An interview with Apple&apos;s new VP of the App Store, Carson Oliver, on Apple&apos;s gaming vision, Apple Arcade, providing tools for indie game developers, and more (Giovanni Colantonio/Polygon)"
-    },
-    {
-     "title": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
-     "link": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
-     "pubDate": "Sun, 18 Oct 2026 11:01:00 +0000",
-     "summary": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
-     "source": "WIRED",
-     "zh": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)"
-    },
-    {
-     "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-     "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-     "pubDate": "Sun, 18 Oct 2026 10:30:00 +0000",
-     "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-     "source": "WIRED",
-     "zh": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty"
     }
    ]
   },
@@ -2009,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Should you limit your FPS in games? Here's when it makes sense",
+     "link": "https://www.engadget.com/2286478/limit-frames-per-second-gaming-when-makes-sense/",
+     "pubDate": "Sun, 18 Oct 2026 16:45:00 +0000",
+     "summary": "While it's natural to want to get as many fps from your rig as possible, there are reasons to limit frame output from your GPU.",
+     "source": "Engadget",
+     "zh": "Should you limit your FPS in games? Here's when it makes sense"
+    },
+    {
+     "title": "TikTok reportedly bans ads for Musk documentary before its wider US release",
+     "link": "https://www.engadget.com/2289782/tiktok-reportedly-bans-ads-for-musk-documentary-before-its-wider-us-release/",
+     "pubDate": "Sun, 18 Oct 2026 16:42:15 +0000",
+     "summary": "The platform attributed the decision to \"political content that goes against its policy.\"",
+     "source": "Engadget",
+     "zh": "TikTok reportedly bans ads for Musk documentary before its wider US release"
+    },
     {
      "title": "How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8",
      "link": "https://www.engadget.com/2286431/how-to-fix-scaling-app-size-issues-samsung-galaxy-z-fold-8/",
@@ -2064,22 +2080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple just announced its long awaited smart home display: HomeView, and it’s available for $299. That said, the product has been in development for quite some time, being held back by all of the delays with developing a smarter Siri. Now that it’s on the market, some customers have had concern about",
      "source": "9to5Mac",
      "zh": "Apple’s next HomeView could debut as soon as next year with a robotic arm: report"
-    },
-    {
-     "title": "The reason your Amazon Alexa devices are always listening",
-     "link": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
-     "pubDate": "Sun, 18 Oct 2026 14:15:00 +0000",
-     "summary": "Alexa devices have microphones that are always listening, but what does Amazon do with that data? It's up to you.",
-     "source": "Engadget",
-     "zh": "The reason your Amazon Alexa devices are always listening"
-    },
-    {
-     "title": "These 6 retro sites let you relive the glory days of 2000s Flash games",
-     "link": "https://www.engadget.com/2285729/where-to-play-2000s-retro-flash-games/",
-     "pubDate": "Sun, 18 Oct 2026 13:45:00 +0000",
-     "summary": "Flash hasn't been around for over half a decade, but thanks to archivists, you can still enjoy this era of the internet.",
-     "source": "Engadget",
-     "zh": "These 6 retro sites let you relive the glory days of 2000s Flash games"
     },
     {
      "title": "Whatever you do, don’t buy a Fitbit Edge on day one",
@@ -2258,12 +2258,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "海外硬件龙头“交卷” QDII基金投资迎来业绩检验",
+     "link": "http://finance.eastmoney.com/news/1354,202610193899216638.html",
+     "pubDate": "Mon, 19 Oct 2026 01:29:23 +0800",
+     "summary": "近期， 阿斯麦 、 台积电 相继披露三季度业绩，多只QDII基金对海外科技硬件的配置效果受到关注。随着更多厂商即将“交卷”，AI需求能否持续转化为订单与利润，成为基金审视相关投资的重要依据。 业内人士认为，除当期业绩外，资本开支指引、 AI应用 商业化进展及盈利持续性，也是判断后续投资机会的关键。 QDII 基金重仓 股陆续“交卷” 海外科技企业财报季拉开帷幕，部分QDII基金的重仓标的率先交出成绩单。北京时间10月14日至15日， 阿斯麦 、 台积电 相继披露三季度业绩、收入增长及后续需求展望，为基金经理审视AI硬件投资提供了新的依据。 阿斯麦 2026年三季度收入达116.62亿欧元，净利",
+     "source": "东方财富股票",
+     "zh": "海外硬件龙头“交卷” QDII基金投资迎来业绩检验"
+    },
+    {
+     "title": "多家A股公司发布 回购增持计划",
+     "link": "http://finance.eastmoney.com/news/1354,202610193899216530.html",
+     "pubDate": "Mon, 19 Oct 2026 01:29:22 +0800",
+     "summary": "上周末，A股多家上市公司集中披露回购、增持相关公告。据记者不完全统计，自10月16日晚间至18日晚间，共有超过30家沪市主板公司发布相关公告。其中：至少有6家公司推出股份回购预案，1家公司发布股东增持计划，这些公司主要集中在 半导体 、 电子 材料等科技赛道；另有一批上市公司披露股份回购或股东增持的实施进展情况。 宣布回购新计划的公司中，包括 海光信息 、 生益科技 、 中科曙光 、 澜起科技 等多家市值超千亿的科技公司。 海光信息 公告称，公司董事长历军提议以公司自有资金通过集中竞价交易方式进行股份回购，用于员工持股计划或 股权激励 ，回购股份的资金总额不低于5亿元、不超过8亿元。 中科曙光",
+     "source": "东方财富股票",
+     "zh": "多家A股公司发布 回购增持计划"
+    },
+    {
+     "title": "三菱重工计划重启位于日本西部的造船生产线",
+     "link": "http://finance.eastmoney.com/news/1354,202610193899216435.html",
+     "pubDate": "Mon, 19 Oct 2026 01:22:52 +0800",
+     "summary": "三菱重工计划重启位于日本西部的造船生产线。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "三菱重工计划重启位于日本西部的造船生产线"
+    },
+    {
+     "title": "SocGen flags relative bargains in Treasuries as yields fall",
+     "link": "https://seekingalpha.com/news/4654071-socgen-flags-relative-bargains-in-treasuries-as-yields-fall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 18 Oct 2026 13:03:27 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SocGen flags relative bargains in Treasuries as yields fall"
+    },
+    {
+     "title": "伊拉克外长：正推动伊朗与海湾国家举行会谈",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899216336.html",
+     "pubDate": "Mon, 19 Oct 2026 01:00:08 +0800",
+     "summary": "伊斯兰合作组织外长理事会第52次会议18日在伊拉克首都巴格达闭幕。伊拉克副总理兼外交部长侯赛因当天宣布，会议已通过《巴格达宣言》。他同时表示，伊拉克正与伊朗及海湾国家保持沟通，努力促成有关各方在巴格达举行会晤。 侯赛因在会议闭幕后举行的新闻发布会上表示，巴勒斯坦问题是会议议程中的首要议题。会议还讨论了地区安全、人道主义局势、经济合作以及粮食和水安全等问题。 谈及地区局势，侯赛因表示，伊拉克目前正同伊朗及海湾国家开展沟通，寻求协调各方立场，并致力于在巴格达促成伊朗与海湾国家之间的会晤。 伊斯兰合作组织秘书长伊斯梅尔·乌尔德·谢赫·艾哈迈德表示，该组织将与伊拉克合作，跟进本届会议各项决定的落实情况",
+     "source": "东方财富股票",
+     "zh": "伊拉克外长：正推动伊朗与海湾国家举行会谈"
+    },
+    {
+     "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+     "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+     "pubDate": "Sun, 18 Oct 2026 17:00:00 GMT",
+     "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+     "source": "MarketWatch",
+     "zh": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?"
+    },
+    {
+     "title": "加拿大总理：军事基地火灾致4名军人死亡 数十人重伤",
+     "link": "http://finance.eastmoney.com/news/11790,202610193899215940.html",
+     "pubDate": "Mon, 19 Oct 2026 00:50:18 +0800",
+     "summary": "加拿大总理卡尼当地时间10月18日中午发表讲话确认，加拿大艾伯塔省一处军事基地发生火灾，4名军人死亡，另有数十人受重伤。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "加拿大总理：军事基地火灾致4名军人死亡 数十人重伤"
+    },
+    {
      "title": "Bessent warns Zelenskyy to &apos;be very careful&apos; about claims U.S. is throttling Starlink",
      "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
-     "pubDate": "Sun, 18 Oct 2026 16:20:10 GMT",
+     "pubDate": "Sun, 18 Oct 2026 16:44:10 GMT",
      "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
      "source": "CNBC",
      "zh": "Bessent warns Zelenskyy to &apos;be very careful&apos; about claims U.S. is throttling Starlink"
+    },
+    {
+     "title": "Bessent calls Zelenskyy’s Starlink accusation ‘reckless’ amid strains over U.S. support",
+     "link": "https://seekingalpha.com/news/4654070-bessent-calls-zelenskyys-starlink-accusation-reckless-amid-strains-over-us-support?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 18 Oct 2026 12:36:48 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bessent calls Zelenskyy’s Starlink accusation ‘reckless’ amid strains over U.S. support"
     },
     {
      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
@@ -2280,54 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "China’s proposed solar curbs raise stakes for overseas manufacturers"
-    },
-    {
-     "title": "“咖聚湾区 链通世界”2026咖啡产业高质量发展对话沙龙在穗举行 广州以“五个优势”抢抓咖啡产业机遇",
-     "link": "http://finance.eastmoney.com/news/1348,202610193899215062.html",
-     "pubDate": "Mon, 19 Oct 2026 00:06:24 +0800",
-     "summary": "昨日，由广州日报报业集团、中国咖啡联赛组委会、广州市咖啡行业协会主办，中国 建设银行 广州分行支持的“咖聚湾区链通世界”2026咖啡产业高质量发展对话沙龙，在广州市广交会堂举行。瑞幸、 星巴克 等头部咖啡品牌，来自我国云南、海南等和越南等国内外咖啡产区代表，以及上百家产业链企业代表参会，围绕中国咖啡产业和广州咖啡产业发展前景展开交流。 从十三行“第一杯”到“咖十条” 会上，云南省咖啡专家组组长、云南农业大学副校长李宏在主题发言中表示，1836年，丹麦商人在广州十三行靖远街开出中国第一家咖啡馆“北风与海”，开启咖啡在中国的发展史，至今已有190年。主办方介绍，咖啡产业已成为广州工商并举、两业融合",
-     "source": "东方财富股票",
-     "zh": "“咖聚湾区 链通世界”2026咖啡产业高质量发展对话沙龙在穗举行 广州以“五个优势”抢抓咖啡产业机遇"
-    },
-    {
-     "title": "10月18日起 国铁广州局新增敬老优惠车次 老年旅客购“敬”字车票享9折优惠",
-     "link": "http://finance.eastmoney.com/news/1348,202610193899214988.html",
-     "pubDate": "Mon, 19 Oct 2026 00:06:22 +0800",
-     "summary": "为持续优化老年旅客出行体验，助力银发族便捷舒适出行，国铁集团进一步优化老年人淡季购票优惠举措。10月18日（含）至12月30日（含），年满60周岁及以上老年旅客购买铁路12306标注“敬”字车次的火车票，可在执行票价基础上享受9折优惠，部分老年旅客在此基础上可再享9折的“折上折”优惠，相关优惠车票自10月4日起陆续发售。 优惠期扩至淡季全时段 不再限定周中 据国铁广州局客运中心相关负责人介绍，与今年5至6月实施的淡季周中优惠相比，本次优化进一步扩大了优惠时间范围，不再限定周中时段，优惠服务实行期间内均可享受“折上折”票价优惠，让老年旅客出行安排更加从容灵活。国铁广州局围绕老年旅客偏好的旅游城市",
-     "source": "东方财富股票",
-     "zh": "10月18日起 国铁广州局新增敬老优惠车次 老年旅客购“敬”字车票享9折优惠"
-    },
-    {
-     "title": "“中长距光传输龙头企业”德科立续聘董秘 | 董秘沙龙",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899214560.html",
-     "pubDate": "Mon, 19 Oct 2026 00:06:08 +0800",
-     "summary": "近日， 德科立 （688205.SH）发布公告称，公司于2026年10月16日召开第三届董事会第一次会议，审议通过《关于聘任公司高级管理人员的议案》，同意聘任张劭担任公司董秘。 资料显示，张劭，出生于1975年，硕士研究生学历，高级会计师，拥有三十年财务与会计工作经验，财务专业功底扎实。 2020年11月，张劭出任 德科立 董秘，至本次换届续聘，担任董秘已近6年。 （文章来源：时代周报）",
-     "source": "东方财富股票",
-     "zh": "“中长距光传输龙头企业”德科立续聘董秘 | 董秘沙龙"
-    },
-    {
-     "title": "瑞华泰遭警示函 原董秘被追责 | 董秘沙龙",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899214727.html",
-     "pubDate": "Mon, 19 Oct 2026 00:06:06 +0800",
-     "summary": "近日， 瑞华泰 （688323.SH）发布公告称，公司近日收到深圳证监局下发的《深圳证监局关于对深圳 瑞华泰 薄膜科技股份有限公司采取责令改正并对汤昌丹等人采取出具警示函措施的决定》。 经查， 瑞华泰 存在关联交易未履行审议程序并及时披露，固定资产、在建工程减值计提不审慎等问题。其中，关联交易未履行审议程序并及时披露，不符合《上市公司信息披露管理办法》 的规定；固定资产、在建工程减值计提不审慎，导致相关信息披露不准确，不符合《上市公司信息披露管理办法》的规定。公司董事长宋树清、总经理汤昌丹、财务总监兼时任董秘黄泽华、时任财务总监冯玉良对上述相关问题负有主要责任。 根据《上市公司信息披露管理办法",
-     "source": "东方财富股票",
-     "zh": "瑞华泰遭警示函 原董秘被追责 | 董秘沙龙"
-    },
-    {
-     "title": "“汽车零部件龙头”拓普集团续聘老董秘 | 董秘沙龙",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899214627.html",
-     "pubDate": "Mon, 19 Oct 2026 00:06:04 +0800",
-     "summary": "近日， 拓普集团 （601689.SH）发布公告称，公司第六届董事会第一次会议审议通过，同意聘任王明臻担任公司董秘。 资料显示，王明臻，出生于1979 年，本科学历，历任宁波拓普机电进出口有限公司总经理、 拓普集团 监事。 2015年7月3日，王明臻被聘任为 拓普集团 董秘，截至本次换届续聘，任董秘超过11年。 （文章来源：时代周报）",
-     "source": "东方财富股票",
-     "zh": "“汽车零部件龙头”拓普集团续聘老董秘 | 董秘沙龙"
-    },
-    {
-     "title": "保荐人转行做董秘刚一年，就被监管警示 | 董秘沙龙",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899214496.html",
-     "pubDate": "Mon, 19 Oct 2026 00:05:45 +0800",
-     "summary": "作者|特约研究员李歆曈、韩迅 近日， 金煤科技 （600844.SH）发布公告称，公司近日收到内蒙古证监局《关于对内蒙古金 煤化工 科技股份有限公司及相关责任人员采取出具警示函措施的决定》。 经查，江苏丹化集团有限责任公司向 金煤科技 提供财务资助本金及孳息于2026年3月31日到期，金额合计174,433,269.42元。 金煤科技 未能按期偿付该债务，构成重大债务违约，公司未及时履行信息披露义务。直至2026年4月30日《2025年年度报告》中披露该笔借款的偿还安排，2026年5月15日披露《关于拟与关联方签署借款宽限协议暨关联交易公告》。金煤科技上述行为违反了《上市公司信息披露管理办法》",
-     "source": "东方财富股票",
-     "zh": "保荐人转行做董秘刚一年，就被监管警示 | 董秘沙龙"
     },
     {
      "title": "Elon Musk says Tesla's Roadster will be 'sentient'",
@@ -2386,14 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "St Petersburg endures biggest Ukrainian drone attack"
     },
     {
-     "title": "Goldman's defensive stocks with quality-growth characteristics",
-     "link": "https://seekingalpha.com/news/4654067-goldmans-defensive-stocks-with-quality-growth-characteristics?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 18 Oct 2026 11:04:43 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Goldman's defensive stocks with quality-growth characteristics"
-    },
-    {
      "title": "Trump’s bid to make America cheap again has failed",
      "link": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1",
      "pubDate": "Sun, 18 Oct 2026 15:00:00 GMT",
@@ -2408,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
      "source": "MarketWatch",
      "zh": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?"
-    },
-    {
-     "title": "MoonLake’s sonelokimab faces regulatory, commercial tests, RBC says",
-     "link": "https://seekingalpha.com/news/4654064-moonlake-s-sonelokimab-faces-regulatory-commercial-tests-rbc-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 18 Oct 2026 10:49:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "MoonLake’s sonelokimab faces regulatory, commercial tests, RBC says"
     },
     {
      "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
@@ -2450,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "Boomers are buying into the promise of monthly income from options ETFs, but there&apos;s a tax catch"
     },
     {
-     "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-     "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
-     "pubDate": "Sun, 18 Oct 2026 13:00:00 GMT",
-     "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
-     "source": "MarketWatch",
-     "zh": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs"
-    },
-    {
      "title": "21评论｜“不放假”讨论的背后，平常心也是一种东道主姿态",
      "link": "http://www.eeo.com.cn/2026/1018/1069364.shtml",
      "pubDate": "Sun, 18 Oct 2026 20:52:14 +0800",
@@ -2474,28 +2466,36 @@ window.INDUSTRY_DATA = {
      "zh": "多地推进服务业扩能提质"
     },
     {
+     "title": "10月18日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202610183899168894.html",
+     "pubDate": "Sun, 18 Oct 2026 20:30:39 +0800",
+     "summary": "今日摘要 今天是重阳节。习近平总书记指出，让老年人老有所养、生活幸福、健康长寿是我们的共同愿望。落实总书记要求，我国加快推进养老事业多元化、多样化发展，用心用情做好养老服务，持续增进民生福祉。 李强同乌兹别克斯坦总理会谈，会见乌兹别克斯坦总统。 系列报道【赓续长征精神奋进复兴征程】今天来看：甘肃用好红色资源，凝聚奋进力量，走好新时代长征路。 国家社保公共服务平台已开通104项全国性、跨地区服务。 城镇供热“温暖工程”三年行动启动。 沿用多年的全国铁路车次编排迎来系统性变革。 也门胡塞武装称，击落沙特武装直升机。沙特主导的多国联军称，拦截多架 无人机 。 内容速览 【新思想引领新征程】绘就幸福“",
+     "source": "东方财富资讯",
+     "zh": "10月18日晚间央视新闻联播要闻集锦"
+    },
+    {
+     "title": "透视10月ETF资金局：谁在逆市扫货？谁在恐慌出逃？",
+     "link": "http://bond.eastmoney.com/news/1332,202610183899170979.html",
+     "pubDate": "Sun, 18 Oct 2026 20:28:00 +0800",
+     "summary": "10月以来，A股市场持续震荡，到本周（10月12日—16日）调整延续，核心指数悉数下跌，结构分化进一步加强，红利相对抗跌，科技成长方向跌幅居前。 从归因上来看，这一轮调整主要有两个因素扰动： 一是海外。美国通胀数据超预期，加息预期升温，长端美债利率维持在高位，油价受地缘因素扰动走强，海外科技股波动向亚太市场传导。 二是国内资金端出现变量。当前市场缺乏增量资金，以存量博弈为主，前期科技板块持仓与交易拥挤度偏高。在外部扰动叠加三季报验证窗口临近的背景下，杠杆资金与机构资金同步降杠杆、兑现收益，ETF等被动资金虽有承接但体量有限，交易层面形成负反馈，放大了调整幅度。 截至10月16日，各大核心宽基指",
+     "source": "东方财富资讯",
+     "zh": "透视10月ETF资金局：谁在逆市扫货？谁在恐慌出逃？"
+    },
+    {
+     "title": "下周分红1665亿元 股息率最高9.23% 红包雨来了",
+     "link": "http://finance.eastmoney.com/news/1354,202610183899169281.html",
+     "pubDate": "Sun, 18 Oct 2026 20:20:16 +0800",
+     "summary": "A股 行业龙头 2026年半年度现金分红下周集中落地。 记者统计显示，股权登记日处于10月19日至10月23日，共有99家上市公司实施现金分红，累计分红规模约1665亿元。其中， 工商银行 、 农业银行 将于10月21日向A股股东派发中期现金红利，合计约821亿元。 行业龙头 集中分红 工商银行 2026年半年度每股派发现金股息0.1511元（含税），本次派发现金股息共计约538.53亿元，其中派发A股现金股息共计约407.38亿元； 农业银行 每股派发中期现金红利0.1297元（含税），共计派发现金红利约453.93亿元，其中派发A股现金红利共约414.06亿元。两股股权登记日均为10月20",
+     "source": "东方财富资讯",
+     "zh": "下周分红1665亿元 股息率最高9.23% 红包雨来了"
+    },
+    {
      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
      "link": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
      "pubDate": "Sun, 18 Oct 2026 12:00:01 GMT",
      "summary": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
      "source": "CNBC",
      "zh": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy"
-    },
-    {
-     "title": "下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报",
-     "link": "https://wallstreetcn.com/articles/3783759",
-     "pubDate": "Sun, 18 Oct 2026 19:56:22 +0800",
-     "summary": "10月19日 - 10月25日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观政策方面，中国三季度GDP、金融街论坛与APEC财长会多线并进。 10月19日中国公布三季度GDP及9月工业、社零、地产等经济数据。同日，金融街论坛年会开幕，吴清、朱鹤新出席，国家金融管理部门将集中发布系列改革政策。APEC财长会首度落地香港，聚焦多边贸易与可持续金融，亦是香港国际金融中心地位的主场背书。 AI方面，黄仁勋柏林演讲是本周全球最大变量。 英伟达GTC柏林开幕，黄仁勋21日主题演讲，德国总理默茨19日晚提前与其会面，议题直指德国AI工业算力合作落地，新架构与合作规模值得重点关",
-     "source": "华尔街见闻",
-     "zh": "下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报"
-    },
-    {
-     "title": "餐饮史最长合作“告吹”：肯德基拥抱可口可乐、抛弃百事可乐",
-     "link": "https://wallstreetcn.com/articles/3783867",
-     "pubDate": "Sun, 18 Oct 2026 19:55:07 +0800",
-     "summary": "快餐行业历时近40年的标志性合作宣告终结。肯德基确认将于2027年起以可口可乐全面替换百事可乐，彻底改写美国快餐饮料供应格局，并在可口可乐与百事可乐的长期竞争中，为前者送上一场重量级胜利。 肯德基美国业务总裁Catherine Tan-Gillespie周四确认，旗下约3700家美国门店将于2027年1月启动饮料品牌切换，预计于当年春季完成全面过渡。这一决定被Tan-Gillespie定性为公司提振业绩、吸引顾客的重要举措，背景是激进投资者Elliott Investment Management持续向其母公司Yum! Brands施压，要求加快门店革新。 此次品牌切换对百事可乐而言打击明显。",
-     "source": "华尔街见闻",
-     "zh": "餐饮史最长合作“告吹”：肯德基拥抱可口可乐、抛弃百事可乐"
     }
    ]
   },

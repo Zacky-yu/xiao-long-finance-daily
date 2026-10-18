@@ -1858,6 +1858,14 @@ window.INDUSTRY_DATA = {
      "zh": "十年江歌案之四：十年维权留下什么？四个写给中国法治的制度追问"
     },
     {
+     "title": "NY announces game ownership bill requiring ownership rather than licensing",
+     "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+     "pubDate": "Sun, 18 Oct 2026 00:14:22 +0000",
+     "summary": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL: https://news.ycombinator.com/item?id=50136536",
+     "source": "Hacker News",
+     "zh": "NY announces game ownership bill requiring ownership rather than licensing"
+    },
+    {
      "title": "Anthropic，也要付10%高息",
      "link": "https://www.huxiu.com/article/4898347.html?f=rss",
      "pubDate": "Sun, 18 Oct 2026 07:38:25 +0800",

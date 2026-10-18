@@ -2000,6 +2000,54 @@ window.INDUSTRY_DATA = {
      "summary": "GNOME 项目已推出发行版项目 GNOME OS 一段时间，但它只提供基于最新代码的 Nightly 版本，主要面向开发者。现在它推出了面向普通用户的 GNOME OS Preview。GNOME OS Preview 基于 Nightly 版本，但去掉了 Nightly 特性，基于最新的 GNOME 51.1 构建。开发者表示该版本尚未经过充分的实际使用测试，可能会遇到问题，但稳定性肯定高于 Nightly 版本，对想要尝鲜的普通用户而言足够稳定，可用于日常使用。但它还需要进一步完善。",
      "source": "Solidot",
      "zh": "GNOME 面向普通用户发布 GNOME OS Preview"
+    },
+    {
+     "title": "Encryption Is Getting Squeezed From All Sides",
+     "link": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+     "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
+     "summary": "Canada’s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.",
+     "source": "WIRED",
+     "zh": "Encryption Is Getting Squeezed From All Sides"
+    },
+    {
+     "title": "The Best LED Grow Lights for Houseplants This Winter (2026)",
+     "link": "https://www.wired.com/story/best-led-grow-lights/",
+     "pubDate": "Sat, 17 Oct 2026 11:30:00 +0000",
+     "summary": "Shorter days don’t have to spell trouble for your houseplants. These are the lights we’ve used and loved in our own homes.",
+     "source": "WIRED",
+     "zh": "The Best LED Grow Lights for Houseplants This Winter (2026)"
+    },
+    {
+     "title": "Science says your boss should talk less in meetings",
+     "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+     "pubDate": "Sat, 17 Oct 2026 11:15:11 +0000",
+     "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+     "source": "Ars Technica",
+     "zh": "Science says your boss should talk less in meetings"
+    },
+    {
+     "title": "These 12 Automatic Cat Feeders Were the Best We Tested in 2026",
+     "link": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
+     "pubDate": "Sat, 17 Oct 2026 11:02:00 +0000",
+     "summary": "We tested some of the most popular automatic dry- and wet-food pet feeders to see which ones are worth the money.",
+     "source": "WIRED",
+     "zh": "These 12 Automatic Cat Feeders Were the Best We Tested in 2026"
+    },
+    {
+     "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+     "link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+     "pubDate": "Sat, 17 Oct 2026 11:00:21 +0000",
+     "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
+     "source": "Ars Technica",
+     "zh": "Why BioWare's Neverwinter Nights still has thousands of active players"
+    },
+    {
+     "title": "HTC Made Smart Glasses That Are Way More Private",
+     "link": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+     "pubDate": "Sat, 17 Oct 2026 10:30:00 +0000",
+     "summary": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
+     "source": "WIRED",
+     "zh": "HTC Made Smart Glasses That Are Way More Private"
     }
    ]
   },

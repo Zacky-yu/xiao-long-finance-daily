@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/18 19:41:31",
+ "generated_at": "2026/10/18 19:49:07",
  "recent_days": 7,
  "industries": [
   {
@@ -1761,6 +1761,22 @@
    "total": 18,
    "items": [
     {
+     "title": "微软 XBOX 招聘“实体游戏供应策略师”，引玩家猜测",
+     "link": "https://www.ithome.com/1/014/583.htm",
+     "pubDate": "Sun, 18 Oct 2026 11:45:35 GMT",
+     "summary": "IT之家 10 月 18 日消息，据科技媒体 Windows Central 今天报道，游戏行业今年可谓是糟心事频出。微软 XBOX 裁掉了数百名员工，并关闭部分工作室；索尼宣布 PlayStation 平台未来将不再发行新游戏的实体光盘，败光玩家好感。 到目前为止，XBOX 显然是希望采取相反做法。微软近期已为 XBOX 主机推出“光盘转数字版”功能，只要将实体盘插入 XBOX One 或 Xbox Series X 主机，就能获得对应游戏的数字授权。 但仅凭微软一家之力，显然无法阻止行业趋势。如今蓝光光驱已经式微，在大众市场中唯一仍然广泛应用的领域就是游戏主机。 IT之家从原报道获悉，微软",
+     "source": "IT之家",
+     "zh": "微软 XBOX 招聘“实体游戏供应策略师”，引玩家猜测"
+    },
+    {
+     "title": "出来办赛，迟早要卷的",
+     "link": "https://www.huxiu.com/article/4898422.html?f=rss",
+     "pubDate": "Sun, 18 Oct 2026 19:39:15 +0800",
+     "summary": "本文来自微信公众号： 有马体育 ，作者：于思远 2026中国网球赛季无比热闹。 中网，郑钦文一路闯入决赛并夺冠，赛事经营数据也创下新高。据赛事公布的数据，本届中网入园人数超过45万人次，票房收入达到1.32亿元，同比增长48%；园区综合消费流水超过5500万元，同比增长55%；特许商品销售流水超过2800万元，较上年翻番。 上海久事动娱文旅集团股份有限公司董事长杨亦斌称，今年上海大师赛总收入约5亿元，赞助、票房和电视版权分红均创下新高，赛事现场观众约24.8万人，略低于去年的25万人。 这些数字反映出，网球赛事的商业价值早已不局限于比赛门票。餐饮、衍生品、现场娱乐以及赛事带动的周边消费，都在成",
+     "source": "虎嗅",
+     "zh": "出来办赛，迟早要卷的"
+    },
+    {
      "title": "《使命召唤：现代战争 4》单人战役模式媒体评分解禁，IGN 打出 8 分评价",
      "link": "https://www.ithome.com/1/014/582.htm",
      "pubDate": "Sun, 18 Oct 2026 11:38:19 GMT",
@@ -1833,14 +1849,6 @@
      "zh": "一碗“拉面”改名背后..."
     },
     {
-     "title": "开源项目 Husk 2.0 公布：利用自研翻译层让苹果 iPhone 运行 Android 游戏，兼容超 150 款应用",
-     "link": "https://www.ithome.com/1/014/576.htm",
-     "pubDate": "Sun, 18 Oct 2026 11:06:57 GMT",
-     "summary": "IT之家 10 月 18 日消息，独立开发者 Leviidev 近期公布了 Husk 2.0 开源项目，利用自研翻译层，让部分 Android 应用自带的 64 位原生代码能够直接在 iPhone 处理器上运行，相应项目无需越狱 iPhone，支持 iOS 16 及以上系统，目前已兼容超过 150 款应用。 IT之家获悉，Husk 2.0 与传统 Android 模拟器有所不同。以 QEMU 等方案为例，传统模拟器通常需要模拟完整的 Android 系统，包括启动系统、加载内核和运行系统服务。而 Husk 则通过翻译层绕过完整系统环境，将游戏的 DEX 文件及 .so 动态库加载到普通 iOS",
-     "source": "IT之家",
-     "zh": "开源项目 Husk 2.0 公布：利用自研翻译层让苹果 iPhone 运行 Android 游戏，兼容超 150 款应用"
-    },
-    {
      "title": "Kids are outsmarting social media bans. That's not a problem we need to solve",
      "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
      "pubDate": "Sun, 18 Oct 2026 11:02:28 +0000",
@@ -1911,14 +1919,6 @@
      "summary": "Article URL: https://alinush.github.io//tee Comments URL: https://news.ycombinator.com/item?id=50139658 Points: 11 # Comments: 1",
      "source": "Hacker News",
      "zh": "It's time to talk about TEEs"
-    },
-    {
-     "title": "饮品行业魔咒：卖水的做不好饮料，卖饮料的做不好水",
-     "link": "https://www.huxiu.com/article/4898410.html?f=rss",
-     "pubDate": "Sun, 18 Oct 2026 18:09:18 +0800",
-     "summary": "本文来自微信公众号： 新经销 ，作者：高级研究员 海游 在前两天的一个行业论坛，我提了一个观点：国内卖好瓶装水的企业卖饮料都不行，卖好饮料的卖瓶装水都不行。 这几年，经常能看到水企推出茶饮料、功能饮料，也看到饮料企业试水矿泉水、纯净水。很多企业觉得，无非是多生产一款产品，利用现有经销商网络，再铺进原来的终端。 但最后的结果，往往不如人意。 瓶装水和饮料是两个概念，瓶装水是消费者竞争力，是消费习惯的培养，饮料是渠道竞争力，是渠道力下的场景布建。 都属于饮品，但瓶装水和饮料的操作逻辑有较大的差异性。国内很多企业，比如东鹏特饮，饮料卖特别好，水卖的很差，比如景田百岁山，瓶装水卖特别好，饮料卖的很差，",
-     "source": "虎嗅",
-     "zh": "饮品行业魔咒：卖水的做不好饮料，卖饮料的做不好水"
     },
     {
      "title": "Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK",
@@ -2257,20 +2257,20 @@
    "total": 13,
    "items": [
     {
+     "title": "10月18日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202610183899163691.html",
+     "pubDate": "Sun, 18 Oct 2026 19:30:03 +0800",
+     "summary": "沪深两市多家上市公司10月18日晚间发布公司公告，以下为重要公告汇总。 【品大事】 新华传媒 ：11个交易日累涨185.5% 提示交易风险 新华传媒 公告，公司股票2026年9月21日至10月16日连续11个交易日涨停，累计上涨185.50%，多次出现交易异常波动，两次触及严重异常波动指标。截至2026年10月15日，公司滚动市盈率337.40，远高于所属新闻和 出版 业20.03的行业滚动市盈率，股价严重偏离基本面，存在非理性炒作风险。公司正在推进发行股份购买上海界面财联社科技股份有限公司100%股权的重大资产重组，目前审计、评估工作尚未完成，尚需履行必要的内部决策程序，并经有权监管机构批准",
+     "source": "东方财富股票",
+     "zh": "10月18日晚间沪深上市公司重大事项公告最新快递"
+    },
+    {
      "title": "美国赤字逼近2万亿美元 海外美债却增持830亿：资金到底在押注什么？",
      "link": "http://stock.eastmoney.com/news/1611,202610183899163754.html",
      "pubDate": "Sun, 18 Oct 2026 19:28:20 +0800",
      "summary": "美国财政部本周公布，2026财年联邦预算赤字达到1.992万亿美元，较上一财年扩大约12%。同一天发布的国际资本流动数据却显示，海外投资者8月持有的美国国债总额环比增加逾830亿美元。 两份报告给出了不同层面的信息：赤字反映截至9月底一整年的财政收支，海外国债持仓统计则停留在8月底。 前者说明联邦融资需求居高不下，后者尚不足以判断10月美债发行能否获得持续买盘。 收支增幅错位，利息成本继续攀升 路透社根据财政部数据报道，2026财年收入为5.40万亿美元，增加1690亿美元，增幅3%；同期支出增至7.40万亿美元，增加3860亿美元，增幅6%。收入与支出的增量差额对应约2170亿美元的赤字扩大",
      "source": "东方财富股票",
      "zh": "美国赤字逼近2万亿美元 海外美债却增持830亿：资金到底在押注什么？"
-    },
-    {
-     "title": "10月18日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202610183899163691.html",
-     "pubDate": "Sun, 18 Oct 2026 19:28:03 +0800",
-     "summary": "沪深两市多家上市公司10月18日晚间发布公司公告，以下为重要公告汇总。 【品大事】 新华传媒 ：11个交易日累涨185.5% 提示交易风险 新华传媒 公告，公司股票2026年9月21日至10月16日连续11个交易日涨停，累计上涨185.50%，多次出现交易异常波动，两次触及严重异常波动指标。截至2026年10月15日，公司滚动市盈率337.40，远高于所属新闻和 出版 业20.03的行业滚动市盈率，股价严重偏离基本面，存在非理性炒作风险。公司正在推进发行股份购买上海界面财联社科技股份有限公司100%股权的重大资产重组，目前审计、评估工作尚未完成，尚需履行必要的内部决策程序，并经有权监管机构批准",
-     "source": "东方财富股票",
-     "zh": "10月18日晚间沪深上市公司重大事项公告最新快递"
     },
     {
      "title": "A股市场调整接近尾声？投资主线有哪些？十大券商策略来了",
@@ -2321,12 +2321,52 @@
      "zh": "Not every billionaire is a policy failure"
     },
     {
+     "title": "看汇演、逛集市！重庆这场重阳活动把节日祝福送到老人身边",
+     "link": "http://www.eeo.com.cn/2026/1018/1069334.shtml",
+     "pubDate": "Sun, 18 Oct 2026 18:52:12 +0800",
+     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/DA322C0C9F260D1BEB80842259F9B057.jpg\" alt=\"文艺汇演现场。第1眼TV-华龙网记者 李舒 摄\" data-title=\"文艺汇演现场。第1眼TV-华龙网记者 李舒 摄\" data-target=\"2111736253553647617\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/ORIGINAL/MEDIA/PICTURE/2026/10/18/fa",
+     "source": "经济观察网",
+     "zh": "看汇演、逛集市！重庆这场重阳活动把节日祝福送到老人身边"
+    },
+    {
+     "title": "2026环三峡自行车赛在万州收官 绘就库区体旅发展新图景",
+     "link": "http://www.eeo.com.cn/2026/1018/1069333.shtml",
+     "pubDate": "Sun, 18 Oct 2026 18:52:11 +0800",
+     "summary": "选手在骑行中。...",
+     "source": "经济观察网",
+     "zh": "2026环三峡自行车赛在万州收官 绘就库区体旅发展新图景"
+    },
+    {
+     "title": "传统医学从“经验驱动”走向“数据驱动”，人工智能赋能全球传统医学发展报告发布",
+     "link": "http://www.eeo.com.cn/2026/1018/1069332.shtml",
+     "pubDate": "Sun, 18 Oct 2026 18:52:11 +0800",
+     "summary": "人工智能为传统医学的传承、创新与普惠共享提供了历史性契机。10月18日，2026年世界传统医药大会举办期间，大会的重要成果之一《人工智能赋能全球传统医学发展报告》（以下简称《报告》）正式对外发布。 《报告》立足全球视野，系统梳理了人工智能赋能传统医学的全球战略布局、技术演进与应用成效，识别共性瓶颈与关键风险，提出融合发展行动建议与全球协同框架，推动传统医学从“经验驱动”走向“数据驱动”。与会专家表...",
+     "source": "经济观察网",
+     "zh": "传统医学从“经验驱动”走向“数据驱动”，人工智能赋能全球传统医学发展报告发布"
+    },
+    {
      "title": "开启FSD模式后驾驶员睡着 特斯拉发生事故",
      "link": "http://finance.eastmoney.com/news/1354,202610183899161485.html",
      "pubDate": "Sun, 18 Oct 2026 18:49:42 +0800",
      "summary": "当地时间10月13日深夜，美国加州80号州际公路发生一起涉及 特斯拉 FSD驾驶辅助系统的严重交通事故，一名22岁男子在开启车辆FSD模式后睡着，驾驶车辆高速冲入因先前致命车祸封闭的路段，追尾停靠在现场处置事故的警车，导致两名执勤巡警身受重伤。 特斯拉 FSD并非真正意义上的 全自动驾驶功能 加州80号州际公路的 特斯拉 追尾事故发生前一小时，同一路段已经发生过一起致命交通事故，一名19岁男子驾驶本田车辆失控身亡，加州公路巡逻队的警员随即赶到现场开展处置工作，对相关车道进行了封闭管控。涉事警车的行车记录仪以及现场布设的监控设备完整拍下了后续撞击的全过程，留存下了全部关键证据。 现场记录的证据显",
      "source": "东方财富资讯",
      "zh": "开启FSD模式后驾驶员睡着 特斯拉发生事故"
+    },
+    {
+     "title": "微信公告：集体下架",
+     "link": "http://www.eeo.com.cn/2026/1018/1069298.shtml",
+     "pubDate": "Sun, 18 Oct 2026 18:26:05 +0800",
+     "summary": "10月16日，微信珊瑚安全发布“关于违规微短剧的处置公告（2026年9月）”。 其中提到，根据国家广播电视总局和广东省广播电视局的部署要求，平台不断加大对低俗有害微短剧的巡查审核和违规侵权微短剧小程序的运营管理。平台也持续规范真人类微短剧、其他动画类微短剧和AI真人类微短剧的管理标准、创作要求与传播秩序，切实保障用户权益和未成年人身心健康。 近期，平台通过巡查审核发现，部分微短剧存在内容低质、...",
+     "source": "经济观察网",
+     "zh": "微信公告：集体下架"
+    },
+    {
+     "title": "疯狂小杨哥新号“庆杨”粉丝被清零",
+     "link": "http://www.eeo.com.cn/2026/1018/1069278.shtml",
+     "pubDate": "Sun, 18 Oct 2026 18:13:15 +0800",
+     "summary": "近日，疯狂小杨哥（张庆杨）注销原亿级粉丝量账号“疯狂小杨哥”后注册了名为“庆杨”的新账号（抖音号：dxyg6182390）。 据新黄河报道，10月18日，记者留意到，张庆杨新注册的抖音账号“庆杨”（抖音号：dxyg6182390）粉丝数被清零。记者进入该账号主页观察发现，每次刷新主页，账号粉丝量都会持续下降，自10月17日4万多粉丝起，直至目前粉丝数归零。尽管记者使用抖音账号关注“庆杨”，但关注数并未计入该账号粉丝量。<...",
+     "source": "经济观察网",
+     "zh": "疯狂小杨哥新号“庆杨”粉丝被清零"
     },
     {
      "title": "“豆浆机龙头”10日涨近90% 融资大手笔加仓（附名单）",
@@ -2343,6 +2383,14 @@
      "summary": "新能源云计算公司遭遇信用冲击，同期AI头部大模型公司上市估值引发争议，双重压力令AI投资逻辑面临一轮罕见的市场压力测试。 10月17日，科技播客《All-In Podcast》中，a16z的联合创始人 Ben Horowitz ，《ALL-IN》播客主理人兼天使投资人 Jason Calacanis， 风险投资巨头 Chamath Palihapitiya 以及前白宫人工智能与加密货币主管 David Sacks 齐聚一堂。 （ 左上角 ：Ben Horowitz； 右上角 ：Jason Calacanis； 左下角 ：Chamath Palihapitiya； 右下角 ：David Sack",
      "source": "华尔街见闻",
      "zh": "AI泡沫破了吗？"
+    },
+    {
+     "title": "80小时从比赛走向市场 “成都八零”决赛落幕",
+     "link": "http://www.eeo.com.cn/2026/1018/1069248.shtml",
+     "pubDate": "Sun, 18 Oct 2026 17:52:05 +0800",
+     "summary": "10月17日，第八届 “成都八零” 全球金融科技产品设计与研发大赛决赛在西南财经大学落幕。本届赛事升级赛题方向，从单一产品开发转向AI原生金融应用平台搭建，海内外高校学子同台完成 80 小时极限开发，接受技术与市场双重检验。",
+     "source": "经济观察网",
+     "zh": "80小时从比赛走向市场 “成都八零”决赛落幕"
     },
     {
      "title": "节后3连板！这只领头羊率先启动 细分赛道会成跨年主线？",
@@ -2447,54 +2495,6 @@
      "summary": "10月19日 - 10月25日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观政策方面，中国三季度GDP、金融街论坛与APEC财长会多线并进。 10月19日中国公布三季度GDP及9月工业、社零、地产等经济数据。同日，金融街论坛年会开幕，吴清、朱鹤新出席，国家金融管理部门将集中发布系列改革政策。APEC财长会首度落地香港，聚焦多边贸易与可持续金融，亦是香港国际金融中心地位的主场背书。 AI方面，黄仁勋柏林演讲是本周全球最大变量。 英伟达GTC柏林开幕，黄仁勋21日主题演讲，德国总理默茨19日晚提前与其会面，议题直指德国AI工业算力合作落地，新架构与合作规模值得重点关",
      "source": "华尔街见闻",
      "zh": "下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报"
-    },
-    {
-     "title": "精准预测大跌的美银Hartnett：“卖出信号”已经结束，投资者将“11月中旬重返科技股”，关键看“芯片价格”",
-     "link": "https://wallstreetcn.com/articles/3783850",
-     "pubDate": "Sun, 18 Oct 2026 11:14:17 +0800",
-     "summary": "美银证券策略师Michael Hartnett此前精准捕捉到科技股大跌，其\"卖出信号\"指标现已终止。但他明确提示，信号终止不等于买入信号，投资者能否在11月中旬重返科技股，将取决于半导体价格走势这一关键变量。 Hartnett在最新一期Flow Show报告中指出，美银牛熊指标（Bull & Bear Indicator）从8.1急降至7.4，跌破8.0阈值，正式结束了5月26日触发的卖出信号。但他在战术上仍维持\"偏防御\"立场，并列出重返风险资产的两个前提条件： 美联储10月28日加息以恢复信誉、AI融资担忧缓解——而目前两者均未兑现。 市场对美联储10月加息的概率预期已从逾50%骤降至14%",
-     "source": "华尔街见闻",
-     "zh": "精准预测大跌的美银Hartnett：“卖出信号”已经结束，投资者将“11月中旬重返科技股”，关键看“芯片价格”"
-    },
-    {
-     "title": "New England faces record-high heating oil costs this winter",
-     "link": "https://seekingalpha.com/news/4654046-new-england-faces-record-high-heating-oil-costs-this-winter?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 17 Oct 2026 20:45:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "New England faces record-high heating oil costs this winter"
-    },
-    {
-     "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-     "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-     "pubDate": "Sat, 17 Oct 2026 20:53:00 GMT",
-     "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes.",
-     "source": "MarketWatch",
-     "zh": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers."
-    },
-    {
-     "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as &apos;wrong&apos;",
-     "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-     "pubDate": "Sat, 17 Oct 2026 19:35:18 GMT",
-     "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
-     "source": "CNBC",
-     "zh": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as &apos;wrong&apos;"
-    },
-    {
-     "title": "Key deals this week: International Paper, IonQ, Bumble, and more",
-     "link": "https://seekingalpha.com/news/4654028-key-deals-this-week-international-paper-ionq-bumble-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 17 Oct 2026 15:15:55 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Key deals this week: International Paper, IonQ, Bumble, and more"
-    },
-    {
-     "title": "SA Asks: How important is the new Roadster to Tesla's future?",
-     "link": "https://seekingalpha.com/news/4654044-sa-asks-how-important-is-the-new-roadster-to-teslas-future?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 17 Oct 2026 14:52:10 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: How important is the new Roadster to Tesla's future?"
     }
    ]
   },

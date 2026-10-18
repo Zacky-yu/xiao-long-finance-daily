@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/19 04:55:21",
+ "generated_at": "2026/10/19 05:03:41",
  "recent_days": 7,
  "industries": [
   {
@@ -31,6 +31,14 @@
      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
      "source": "TechCrunch AI",
      "zh": "Disney agrees to hire the majority of Character.AI’s workforce"
+    },
+    {
+     "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+     "link": "https://www.qbitai.com/2026/10/504136.html",
+     "pubDate": "Sun, 18 Oct 2026 11:49:49 +0000",
+     "summary": "让人人都能自由创造并体验可交互世界",
+     "source": "量子位",
+     "zh": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS"
     },
     {
      "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
@@ -239,14 +247,6 @@
      "summary": "General Science",
      "source": "Google Research",
      "zh": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs"
-    },
-    {
-     "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-     "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-     "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
-     "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
-     "source": "MIT Tech Review AI",
-     "zh": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
     }
    ]
   },
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis",
+     "link": "https://oilprice.com/Geopolitics/Middle-East/Hormuz-Is-Turning-Shippings-Fuel-Bill-Into-a-Supply-Crisis.html",
+     "pubDate": "Sun, 18 Oct 2026 16:00:00 -0500",
+     "summary": "The Hormuz crisis is not only hitting crude oil and gas, but also container shipping. It is also tightening its grip on global shipping through the fuel tanks of vessels carrying world trade. Disrupted exports, constrained refinery supplies, and increasingly unreliable deliveries are clearly at pres",
+     "source": "OilPrice",
+     "zh": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis"
+    },
+    {
      "title": "The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid",
      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Nuclear-Power-Shortcut-That-Could-Add-Gigawatts-to-the-US-Grid.html",
      "pubDate": "Sun, 18 Oct 2026 14:00:00 -0500",
@@ -935,14 +943,6 @@
      "summary": "Despite the Iran war and the Hormuz crisis, the Middle East’s low-cost chemicals production is set to retain its long-term advantage over other regions. Near-term shifts in the sourcing of polymers are taking place due to the current constraints in the Persian Gulf’s industrial base, benefiting U.S.",
      "source": "OilPrice",
      "zh": "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis"
-    },
-    {
-     "title": "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers",
-     "link": "https://oilprice.com/Energy/Crude-Oil/Texas-Researchers-Say-Permian-Wastewater-Could-Cool-AI-Data-Centers.html",
-     "pubDate": "Sat, 17 Oct 2026 12:00:00 -0500",
-     "summary": "The artificial intelligence boom is placing a dangerous strain on the world’s water and energy resources. As hyperscalers build up resource-hungry data centers at a breakneck pace, demand projections for these finite resources are skyrocketing faster than policymakers can keep pace. But a new study ",
-     "source": "OilPrice",
-     "zh": "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers"
     },
     {
      "title": "Qcells to introduce U.S. domestic frames for residential solar panel lineup",
@@ -1073,20 +1073,20 @@
      "zh": "Germany Roundup: Enertrag, Enlight, Vattenfall, Fluence, Giga Storage progress 4-hour batteries totalling 3.2GWh to construction"
     },
     {
+     "title": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
+     "link": "https://www.utilitydive.com/news/nexteras-4m-trump-ballroom-donation-muddies-debate-over-dominion-merger/833201/",
+     "pubDate": "Fri, 16 Oct 2026 06:28:17 -0400",
+     "summary": "The donation, which advocates called &ldquo;problematic&rdquo; and &ldquo;convenient&rdquo; for the company, comes to light as federal regulators chosen by President Donald Trump consider whether to allow NextEra to merge with Dominion Energy.",
+     "source": "Utility Dive",
+     "zh": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say"
+    },
+    {
      "title": "GES secures US$252 million EPC contracts for four Spanish solar PV projects",
      "link": "https://www.pv-tech.org/ges-secures-us252-million-epc-contracts-four-spanish-solar-pv-projects/",
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
      "zh": "GES secures US$252 million EPC contracts for four Spanish solar PV projects"
-    },
-    {
-     "title": "US clean energy jobs fell in 2025 for the first time in years",
-     "link": "https://www.canarymedia.com/articles/clean-energy-jobs/trump-us-employment-falls-data-2025",
-     "pubDate": "Fri, 16 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Clean energy installations have persisted at record levels despite President Donald Trump’s best efforts to stop them. But the first year of Trump’s second term did leave a mark on U.S. jobs in the sector. Clean energy jobs fell in 2025 afte",
-     "source": "Canary Media",
-     "zh": "US clean energy jobs fell in 2025 for the first time in years"
     }
    ]
   },
@@ -1761,6 +1761,22 @@
    "total": 18,
    "items": [
     {
+     "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+     "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+     "pubDate": "Sun, 18 Oct 2026 21:00:00 +0000",
+     "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+     "source": "TechCrunch",
+     "zh": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market"
+    },
+    {
+     "title": "Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference",
+     "link": "https://arxiv.org/abs/2610.18861",
+     "pubDate": "Sun, 18 Oct 2026 20:48:14 +0000",
+     "summary": "Article URL: https://arxiv.org/abs/2610.18861 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference"
+    },
+    {
      "title": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)",
      "link": "https://www.techmeme.com/261018/p11#a261018p11",
      "pubDate": "Sun, 18 Oct 2026 15:55:01 -0400",
@@ -1788,7 +1804,7 @@
      "title": "Tiny Brutalism – Thanks to HN it's on Steam",
      "link": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
      "pubDate": "Sun, 18 Oct 2026 18:59:09 +0000",
-     "summary": "Article URL: https://store.steampowered.com/app/5426130/Tiny_Brutalism/ Comments URL: https://news.ycombinator.com/item?id=50144144 Points: 29 # Comments: 3",
+     "summary": "Article URL: https://store.steampowered.com/app/5426130/Tiny_Brutalism/ Comments URL: https://news.ycombinator.com/item?id=50144144 Points: 35 # Comments: 3",
      "source": "Hacker News",
      "zh": "Tiny Brutalism – Thanks to HN it's on Steam"
     },
@@ -1796,17 +1812,9 @@
      "title": "Free Pascal compiler now supports dynamic packages",
      "link": "https://www.getlazarus.org/dynamic/",
      "pubDate": "Sun, 18 Oct 2026 18:48:04 +0000",
-     "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 45 # Comments: 11",
+     "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 55 # Comments: 12",
      "source": "Hacker News",
      "zh": "Free Pascal compiler now supports dynamic packages"
-    },
-    {
-     "title": "Florida's HOAs and condo associations are making the housing crisis worse",
-     "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-     "pubDate": "Sun, 18 Oct 2026 18:40:16 +0000",
-     "summary": "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html Comments URL: https://news.ycombinator.com/item?id=50144005 Points: 111 # Comments: 175",
-     "source": "Hacker News",
-     "zh": "Florida's HOAs and condo associations are making the housing crisis worse"
     },
     {
      "title": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&apos;s 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
@@ -1820,7 +1828,7 @@
      "title": "PalmOS Lemmings",
      "link": "https://github.com/ardiri/palmos-lemmings",
      "pubDate": "Sun, 18 Oct 2026 17:56:59 +0000",
-     "summary": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 46 # Comments: 9",
+     "summary": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 53 # Comments: 9",
      "source": "Hacker News",
      "zh": "PalmOS Lemmings"
     },
@@ -1828,7 +1836,7 @@
      "title": "Namecheap just seized and disabled all my domains",
      "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
      "pubDate": "Sun, 18 Oct 2026 16:56:56 +0000",
-     "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 212 # Comments: 112",
+     "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 229 # Comments: 121",
      "source": "Hacker News",
      "zh": "Namecheap just seized and disabled all my domains"
     },
@@ -1836,7 +1844,7 @@
      "title": "Someone behind the software",
      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
      "pubDate": "Sun, 18 Oct 2026 16:32:00 +0000",
-     "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 191 # Comments: 70",
+     "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 197 # Comments: 74",
      "source": "Hacker News",
      "zh": "Someone behind the software"
     },
@@ -1991,14 +1999,6 @@
      "summary": "本期入选标的呈两头分布：一头是三只首次涨停且估值深度低于济安定价的品种，分别来自供应链电子、汽车零部件与军工电子方向，属前期股价长期低位徘徊、由题材催化与板块轮动推动的低位修复品种；另一头是一只估值显著高于济安定价的连续涨停品种，来自密码安全与量子科技方向，短线资金由主题情绪推动。",
      "source": "钛媒体",
      "zh": "价值判断：涨停板的投资机会和风险提示（10月16日）｜上市公司观察"
-    },
-    {
-     "title": "数学的“第四次危机”：从不可说，到无可说",
-     "link": "https://www.tmtpost.com/8172522.html",
-     "pubDate": "Sun, 18 Oct 2026 22:36:51 +0800",
-     "summary": "数学素有“科学之巅”之誉；数学史若写成英雄传，这四次危机便不是四次失败，而是四次涅槃重生。",
-     "source": "钛媒体",
-     "zh": "数学的“第四次危机”：从不可说，到无可说"
     }
    ]
   },
@@ -2257,6 +2257,14 @@
    "total": 13,
    "items": [
     {
+     "title": "Weekly markets wrap: AI volatility and inflation weigh on US stocks, global markets rise",
+     "link": "https://seekingalpha.com/news/4654080-weekly-markets-wrap-ai-volatility-and-inflation-weigh-on-us-stocks-global-markets-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 18 Oct 2026 16:54:01 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Weekly markets wrap: AI volatility and inflation weigh on US stocks, global markets rise"
+    },
+    {
      "title": "United CEO Kirby defends higher airfares, seat fees as costs rise",
      "link": "https://seekingalpha.com/news/4654079-united-ceo-kirby-defends-higher-airfares-seat-fees-as-costs-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 18 Oct 2026 16:46:25 -0400",
@@ -2361,14 +2369,6 @@
      "zh": "Anthropic plans to set aside 5% of shares for public benefit fund before IPO"
     },
     {
-     "title": "‘Street Fighter’ hits $31M in box office debut as moviegoing jumps 48%",
-     "link": "https://seekingalpha.com/news/4654074-street-fighter-hits-31m-in-box-office-debut-as-moviegoing-jumps-48?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 18 Oct 2026 14:35:15 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "‘Street Fighter’ hits $31M in box office debut as moviegoing jumps 48%"
-    },
-    {
      "title": "St Petersburg endures biggest Ukrainian drone attack",
      "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
      "pubDate": "Sun, 18 Oct 2026 18:30:14 GMT",
@@ -2433,6 +2433,14 @@
      "zh": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?"
     },
     {
+     "title": "十大券商策略：市场调整接近尾声！积极信号已经开始出现",
+     "link": "http://finance.eastmoney.com/news/1349,202610183899206378.html",
+     "pubDate": "Mon, 19 Oct 2026 00:15:03 +0800",
+     "summary": "中信证券 ：市场调整接近尾声 本轮剧烈调整主要由 机构重仓 股诱发，逐步传导至高融资占比板块。从国债ETF的净流入速度来看，当下资金避险意愿仍然偏高；从历史经验来看，由机构减仓所致的市场调整，结束的信号通常是机构票相对非机构票的超额收益率回升，部分宽基ETF的放量是一个积极信号。这一轮AI核心票的调整幅度和时间已经接近 新能源 核心票在2021年底到2022年4月底的幅度和时间，超级产业周期增长二阶导下修过程中的第一轮硬件估值调整接近尾声。 但对于看重AI增长“一阶导”而非“二阶导”的长线资金，当下的调整不足以改变趋势，内存价格、算卡 租赁 价格以及CSP的利润率才是反映“一阶导”方向的核心变",
+     "source": "东方财富资讯",
+     "zh": "十大券商策略：市场调整接近尾声！积极信号已经开始出现"
+    },
+    {
      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
      "pubDate": "Sun, 18 Oct 2026 16:15:00 GMT",
@@ -2487,14 +2495,6 @@
      "summary": "Boeing, Meta and EchoStar recorded steep charges and expenses a year ago, which are expected to make this latest quarter’s results look especially strong by comparison.",
      "source": "MarketWatch",
      "zh": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth"
-    },
-    {
-     "title": "Iran says it has a &apos;new operational plan&apos; if the U.S. resumes attacks, as shipping vessels report strikes",
-     "link": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
-     "pubDate": "Sun, 18 Oct 2026 13:52:24 GMT",
-     "summary": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the country's military has prepared a response to any new attacks.",
-     "source": "CNBC",
-     "zh": "Iran says it has a &apos;new operational plan&apos; if the U.S. resumes attacks, as shipping vessels report strikes"
     }
    ]
   },

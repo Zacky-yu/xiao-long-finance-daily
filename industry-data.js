@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/18 09:12:08",
+ "generated_at": "2026/10/18 09:35:40",
  "recent_days": 7,
  "industries": [
   {
@@ -338,12 +338,36 @@ window.INDUSTRY_DATA = {
      "zh": "Data Center Power a Prominent Highlight of OCP 2026"
     },
     {
+     "title": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter",
+     "link": "https://www.electronicsweekly.com/news/products/power-supplies/microchip-pol-05-20s-is-radiation-tolerant-gan-point-of-load-converter-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 14:24:13 +0000",
+     "summary": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
+     "source": "Electronics Weekly",
+     "zh": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter"
+    },
+    {
      "title": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition",
      "link": "https://semiconductor-today.com/news_items/2026/oct/omdia-161026.shtml",
      "pubDate": "Fri, 16 Oct 2026 14:52:30 +0100",
      "summary": "According to market research firm Omdia’s preliminary estimates, global smartphone shipments fell 20% year-on-year in third-quarter 2026, a sharp acceleration from the 6% decline recorded the previous quarter. Shipments also declined sequentially despite new flagship launches and channel preparation",
      "source": "Semiconductor Today",
      "zh": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition"
+    },
+    {
+     "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-arm-vs-qualcomm-ai-boom-adr-mission-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 13:38:02 +0000",
+     "summary": "The latest installment of the Arm vs Qualcomm case, the weirdness of the current semiconductor market, and an active debris removal mission to launch from Scotland mission... The post What caught your eye? Arm vs Qualcomm, AI boom, ADR mission appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission"
+    },
+    {
+     "title": "When Mandy  Became A Revolutionary",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/when-mandy-became-a-revolutionary-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 13:32:30 +0000",
+     "summary": "Mandy is known for other things now but 28 years ago he was a revolutionary, as this EW yarn in September 1998 chronicled: ‘The first major speech as cabinet minister […] The post When Mandy Became A Revolutionary appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "When Mandy  Became A Revolutionary"
     },
     {
      "title": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume",
@@ -354,12 +378,36 @@ window.INDUSTRY_DATA = {
      "zh": "Terafab’s Single Roof: Why Packaging, Not Lithography, Decides High Volume"
     },
     {
+     "title": "A/V: CUK Group adds Auracast assistive listening technology to portfolio",
+     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/a-v-cuk-group-adds-auracast-assistive-listening-technology-to-portfolio-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 11:12:17 +0000",
+     "summary": "From our sister title, AV Magazine: A new partnership with AUDIOropa will allow the UK-based CUK Group to provide integrators with solutions that deliver more-inclusive audio experiences across public and […] The post A/V: CUK Group adds Auracast assistive listening technology to portfolio appeared ",
+     "source": "Electronics Weekly",
+     "zh": "A/V: CUK Group adds Auracast assistive listening technology to portfolio"
+    },
+    {
      "title": "Taiwan’s AI Ambitions Run into Talent Gap",
      "link": "https://www.eetimes.com/taiwans-ai-ambitions-run-into-talent-gap/",
      "pubDate": "Fri, 16 Oct 2026 10:55:42 +0000",
      "summary": "AMD’s David Wang told EE Times that while Taiwan has huge opportunities in rack-scale AI, physical AI, and AI PC markets, the sticking point may well be talent. The post Taiwan’s AI Ambitions Run into Talent Gap appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Taiwan’s AI Ambitions Run into Talent Gap"
+    },
+    {
+     "title": "R&S extends amplifier range for satellite use",
+     "link": "https://www.electronicsweekly.com/news/rs-extends-amplifier-range-for-satellite-use-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 10:54:42 +0000",
+     "summary": "Rhode & Scharwz has added the SAM200 system amplifier to its SAM portfolio. This model extends the bandwidth of the earlier SAM100 model with a capability of 20GHz-53GHz with up […] The post R&S extends amplifier range for satellite use appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "R&S extends amplifier range for satellite use"
+    },
+    {
+     "title": "Raltron monolithic crystal filter series for gateway ground stations",
+     "link": "https://www.electronicsweekly.com/news/products/raltron-monolithic-crystal-filter-series-for-gateway-ground-stations-2026-10/",
+     "pubDate": "Fri, 16 Oct 2026 10:20:32 +0000",
+     "summary": "Raltron is announcing an RXF monolithic crystal filter series designed for the demands of ground-based equipment used in low Earth orbit (LEO) satellite broadband networks. The RXF‑100.000‑20‑6035‑6‑4 and RXF‑150.000‑15‑7050‑6‑2 provide […] The post Raltron monolithic crystal filter series for gatew",
+     "source": "Electronics Weekly",
+     "zh": "Raltron monolithic crystal filter series for gateway ground stations"
     },
     {
      "title": "GlobalFoundries’ CHIPS Program award amended to support $5bn investment in Malta, NY, and Burlington, VT",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Artificial intelligence is becoming part of the infrastructure that powers healthcare, transportation, finance, manufacturing, and everyday digital services. As these systems grow more capable, they also process more sensitive information and depend on increasingly complex hardware. The Synopsys whi",
      "source": "SemiWiki",
      "zh": "Why AI Security Starts at the Chip Level"
-    },
-    {
-     "title": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/onsemi-151026.shtml",
-     "pubDate": "Thu, 15 Oct 2026 10:36:20 +0100",
-     "summary": "Intelligent power and sensing technology firm onsemi of Scottsdale, AZ, USA says that its latest EliteSiC silicon carbide (SiC) hybrid power module technology has been adopted by renewable energy technology firm Sungrow for its PowerTitan 3.0 energy storage platform. The integration enables improved",
-     "source": "Semiconductor Today",
-     "zh": "onsemi’s EliteSiC hybrid power module technology used in Sungrow’s PowerTitan 3.0 energy storage platform"
-    },
-    {
-     "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
-     "link": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
-     "pubDate": "Thu, 15 Oct 2026 07:07:45 +0000",
-     "summary": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself. The post Beyond The Specification: What Really Determines PCIe Retimer Reach? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Beyond The Specification: What Really Determines PCIe Retimer Reach?"
-    },
-    {
-     "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
-     "link": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/",
-     "pubDate": "Thu, 15 Oct 2026 07:06:02 +0000",
-     "summary": "Short-resilient via insertion improves reliability and performance. The post Strengthening Advanced-Node Interconnects Through Automated Via Insertion appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion"
-    },
-    {
-     "title": "Building AI Infrastructure For Greater Choice And Flexibility",
-     "link": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/",
-     "pubDate": "Thu, 15 Oct 2026 07:03:05 +0000",
-     "summary": "Open interfaces and interoperability allow designers to choose technologies based on the needs of the system. The post Building AI Infrastructure For Greater Choice And Flexibility appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Building AI Infrastructure For Greater Choice And Flexibility"
-    },
-    {
-     "title": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
-     "link": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/",
-     "pubDate": "Thu, 15 Oct 2026 07:02:37 +0000",
-     "summary": "Extending chiplet connectivity across AXI and CHI with scalable protocol subsets, interoperability, and flexible transport support. The post AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity"
-    },
-    {
-     "title": "Why Open-Weight AI Matters",
-     "link": "https://semiengineering.com/why-open-weight-ai-matters/",
-     "pubDate": "Thu, 15 Oct 2026 07:02:13 +0000",
-     "summary": "Proprietary models still hold the edge, but open-weight models add more flexibility for deploying AI. The post Why Open-Weight AI Matters appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why Open-Weight AI Matters"
     }
    ]
   },
@@ -1762,6 +1762,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "外卖 3000 元榴莲实付 20 多元：商家空单交易骗取平台补贴，14 人落网",
+     "link": "https://www.ithome.com/1/014/452.htm",
+     "pubDate": "Sun, 18 Oct 2026 01:30:29 GMT",
+     "summary": "IT之家 10 月 18 日消息，据央视新闻报道，外卖平台满减、补贴等福利，本是惠及消费者、助力商户发展的举措，却被有些人动起了歪心思，在江西吉安警方侦破的一起案件中，犯罪团伙雇佣刷手、空单交易，骗取平台补贴，涉案金额上百万元。 今年 2 月，某外卖平台发现了一组极为反常的消费数据，有用户在一家水果店下单了总价 3000 多元的榴莲，而经过层层优惠叠加后，实际支付金额仅 20 多元。这样的情况在这家水果店并非个例，还有用户下单总价 1000 多元的冬枣、葡萄等水果，经过优惠后支付金额仅 170 余元。 平台发现，这些水果的标价都是正常的市场价格，之所以会有如此大的差价，一方面是平台推出的优惠券",
+     "source": "IT之家",
+     "zh": "外卖 3000 元榴莲实付 20 多元：商家空单交易骗取平台补贴，14 人落网"
+    },
+    {
+     "title": "真相来了：网传“重庆一车辆从 60 米高架桥坠落”引关注，武隆区公安局核实系谣言",
+     "link": "https://www.ithome.com/1/014/451.htm",
+     "pubDate": "Sun, 18 Oct 2026 01:25:26 GMT",
+     "summary": "IT之家 10 月 18 日消息，近日，有网民在互联网平台发布一则视频并配文称“2026 年 10 月 15 日，重庆武隆高架桥 60 米坠落，驾驶员仅受轻伤奇迹生还”，引发关注。 据“重庆辟谣”微信公众号、网信武隆消息， 网传信息系谣言 。经向武隆区公安局核实，该区近期未发生相关事件，网传信息不实。 IT之家注意到，经多方溯源，网传视频中车祸画面系往年外省多个交通事故的现场画面，视频为剪辑拼接，并非同一场事故。 目前，警方正对造谣者展开调查 。",
+     "source": "IT之家",
+     "zh": "真相来了：网传“重庆一车辆从 60 米高架桥坠落”引关注，武隆区公安局核实系谣言"
+    },
+    {
+     "title": "Anthropic 报告：AI 重塑公司用工结构，初级技术岗招聘明显收缩",
+     "link": "https://www.ithome.com/1/014/450.htm",
+     "pubDate": "Sun, 18 Oct 2026 01:22:06 GMT",
+     "summary": "IT之家 10 月 18 日消息，Anthropic 于当地时间周五发布的一份报告显示，过去一年里，公司员工构成与业务工作形态都发生了显著变化。 Anthropic 认为，该公司内部的职场变化趋势，能够预示“人工智能将如何改变整个经济体的工作组织方式、招聘模式与劳动力需求”，尤其是因为这家企业已经“围绕人工智能深度重塑了自身工作流程”。即便其他机构不会像 Anthropic 这样全面、或是采用完全相同的方式落地 AI，这份报告也为外界提供了一个有趣的窗口，一窥该公司当下的运营模式。 值得关注的是， Anthropic 正在减少初级岗位招聘 。自 2025 年初以来，技术部门初级员工占比从 21",
+     "source": "IT之家",
+     "zh": "Anthropic 报告：AI 重塑公司用工结构，初级技术岗招聘明显收缩"
+    },
+    {
+     "title": "An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more (Joanna Stern/The New Things)",
+     "link": "https://www.techmeme.com/261017/p20#a261017p20",
+     "pubDate": "Sat, 17 Oct 2026 21:20:02 -0400",
+     "summary": "Joanna Stern / The New Things : An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more &nbsp; &mdash;&nbsp; My exclusive interview with Satya Nadella on the new Surface Laptop Ultra and Microsoft",
+     "source": "Techmeme",
+     "zh": "An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more (Joanna Stern/The New Things)"
+    },
+    {
+     "title": "荣耀 WIN2 手机搭载电竞 WIN 键：3 档可调震动、响应灵敏度，支持游戏内自由映射键位",
+     "link": "https://www.ithome.com/1/014/449.htm",
+     "pubDate": "Sun, 18 Oct 2026 01:18:53 GMT",
+     "summary": "IT之家 10 月 18 日消息，荣耀 WIN2 系列手机将于 10 月 21 日在荣耀 WIN 电竞宇宙嘉年华发布，官方对新机进行预热，宣布新机搭载全新电竞 WIN 键。 据介绍，全新电竞 WIN 键支持 3 档可调震动、3 档响应灵敏度，搭配 5 种响应光效与无极按键透明度；支持游戏内自由映射键位。海报显示，电竞 WIN 键仅荣耀 WIN2 手机支持。 此外，荣耀宣布荣耀 WIN2 系列手机搭载 1216 超大尺寸对称扬声器，独家双开放 18cc 大音腔，支持 AI 脚步声增强、AI 沉浸音效、AI 电竞振动引擎。 博主 @数码闲聊站 昨日爆料了荣耀 WIN2 系列手机的配置： 中杯：第五",
+     "source": "IT之家",
+     "zh": "荣耀 WIN2 手机搭载电竞 WIN 键：3 档可调震动、响应灵敏度，支持游戏内自由映射键位"
+    },
+    {
+     "title": "4.99美元的AI医生",
+     "link": "https://www.huxiu.com/article/4898357.html?f=rss",
+     "pubDate": "Sun, 18 Oct 2026 09:14:23 +0800",
+     "summary": "本文来自微信公众号： 王智远 ，作者：王智远 犹他州今年批了一件以前没人干过的事： 让AI给痤疮患者下诊断、开处方；是AI自己开。 公司叫Nolla Health，2024年在挪威创立，拿了General Catalyst 450万美元种子轮，总部搬到了纽约。月费4.99美元，手机扫一下脸，几分钟处方就出来了。 4.99美元什么概念？ 美国看一次皮肤科，面对面，150到300美元。还得等。全美平均等36天才能见到一个皮肤科医生，犹他州更长，61天。 Nolla卖的就是，便宜，快，不用排队。 怎么用呢？打开app，从五个角度拍一张面部照片，填一份病史问卷。 AI给你的痤疮打一个严重程度评分，0到",
+     "source": "虎嗅",
+     "zh": "4.99美元的AI医生"
+    },
+    {
      "title": "华为 WATCH FIT 5 系列智能手表 HarmonyOS 7 版本 7.0.0.107SP10 发布，支持同步手机地震预警等",
      "link": "https://www.ithome.com/1/014/447.htm",
      "pubDate": "Sun, 18 Oct 2026 01:08:02 GMT",
@@ -1784,38 +1832,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI宣称AI完成纳维-斯托克斯证明引发数学界审查，并从xAI挖角销售负责人、以Chrome扩展将ChatGPT嵌入标签页；Anthropic以Haiku 5.5清场、推介50人死亡/10亿美元损失阈值的联邦安全法案，Claude破解NIST椭圆曲线种子，内部预测2030年AI承担八成工作。",
      "source": "钛媒体",
      "zh": "Edge AI Daily 早报（10月18日）"
-    },
-    {
-     "title": "极夜带来 7.3L 迷你工作站 DeskOne W2，支持第 12~14 代英特尔桌面处理器",
-     "link": "https://www.ithome.com/1/014/445.htm",
-     "pubDate": "Sun, 18 Oct 2026 00:59:43 GMT",
-     "summary": "IT之家 10 月 18 日消息，极夜 (TOPFEEL) 在发布 DeskOne A1 的同时也带来了一款体积更小的产品 —— DeskOne W2。这一型号同样拥有全铝机身，但三维仅 245×249×120 (mm)， 体积仅约 7.3L 。 DeskOne W2 配备 FCLGA1700 插槽， 支持第 12~14 代英特尔桌面处理器 ，提供 2 个 DDR4-3200 SO-DIMM 内存插槽，拥有 1 条 PCIe Gen4 ×16 插槽（扩展卡限长 245mm、限宽 45mm）。 其 拥有 3 个 PCIe Gen4 ×4 的 M.2 SSD 盘位 ， 另一个 M.2 则是 Gen",
-     "source": "IT之家",
-     "zh": "极夜带来 7.3L 迷你工作站 DeskOne W2，支持第 12~14 代英特尔桌面处理器"
-    },
-    {
-     "title": "特斯拉延长奥斯汀 Robotaxi 运营时间至午夜，FSD v15 将支持全天候运营",
-     "link": "https://www.ithome.com/1/014/444.htm",
-     "pubDate": "Sun, 18 Oct 2026 00:56:40 GMT",
-     "summary": "IT之家 10 月 18 日消息，特斯拉再次延长奥斯汀地区自动驾驶出租车（Robotaxi）的运营时间。X 平台用户伊桑 · 麦肯纳（ethanmckanna）发文称，目前运营时段延长至午夜，服务时间调整为早 6 点至午夜 12 点。 自动驾驶出租车应用也向乘客推送了变更通知，告知用户乘车服务可预约至午夜，该消息由亚伦 · 卡什（aaronjcash）在 X 平台分享。 这是一系列小幅延长运营时间举措中的最新一步。今年 8 月，特斯拉将奥斯汀 Robotaxi 运营时间扩展为早 6 点至晚 10 点。大约两周前，夜间结束时间推迟至晚 11 点，同时车队新增 100 多台 Cybercab，目前",
-     "source": "IT之家",
-     "zh": "特斯拉延长奥斯汀 Robotaxi 运营时间至午夜，FSD v15 将支持全天候运营"
-    },
-    {
-     "title": "蓝色起源目标公布：2030 年前实现每周多次发射新格伦火箭",
-     "link": "https://www.ithome.com/1/014/443.htm",
-     "pubDate": "Sun, 18 Oct 2026 00:55:17 GMT",
-     "summary": "IT之家 10 月 18 日消息，蓝色起源于当地时间 10 月 16 日宣布，计划对其位于佛罗里达州的地面发射基础设施进行全面升级， 旨在 2030 年前实现每周多次发射新格伦 （New Glenn） 火箭 。 蓝色起源将为其“新格伦”重型运载火箭追加增设两个发射和着陆台。此外，其位于卡纳维拉尔角“火箭园区”的一项耗资 3.3 亿美元 （IT之家注：现汇率约合 22.12 亿元人民币） 的扩建工程预计将于 2027 年夏季竣工。 蓝色起源运营高级副总裁伊恩 · 理查森（Ian Richardson）在博文中表示：“这些投资集中于一个目标：建立起以更高可靠性和更高效率支持更多任务的能力。展望未来",
-     "source": "IT之家",
-     "zh": "蓝色起源目标公布：2030 年前实现每周多次发射新格伦火箭"
-    },
-    {
-     "title": "今起实施：60 岁及以上老人购买 10 月 18 日至 12 月 30 日标注“敬”字火车票享“折上折”",
-     "link": "https://www.ithome.com/1/014/442.htm",
-     "pubDate": "Sun, 18 Oct 2026 00:52:49 GMT",
-     "summary": "IT之家 10 月 18 日消息，据中国铁路官方消息，继今年 5 至 6 月实行老年人淡季周中购票优惠措施后，国铁集团进一步优化这一惠民举措， 年满 60 周岁及以上老年人购买 2026 年 10 月 18 日（含）至 12 月 30 日（含）标注“敬”字车次的火车票将享受“折上折”票价优惠 ，进一步扩大优惠时间范围，不再限定周中时段，相关优惠车票将于 10 月 4 日起陆续发售。 据介绍，年满 60 周岁及以上且使用中华人民共和国居民身份证、港澳居民居住证、台湾居民居住证、港澳居民来往内地通行证、台湾居民来往大陆通行证、外国人永久居留身份证、临时身份证明及居民户口簿购票的老年人，线上或线下购",
-     "source": "IT之家",
-     "zh": "今起实施：60 岁及以上老人购买 10 月 18 日至 12 月 30 日标注“敬”字火车票享“折上折”"
     },
     {
      "title": "观察｜AI时代，不敢裁员也不愿招聘：中国企业的“不裁只冻”困局",
@@ -1866,22 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "百事为什么没能留住肯德基"
     },
     {
-     "title": "当代校园恐怖：父母社交账号成了霸凌武器库",
-     "link": "https://www.huxiu.com/article/4897749.html?f=rss",
-     "pubDate": "Sun, 18 Oct 2026 07:00:06 +0800",
-     "summary": "出品 | 虎嗅青年文化组 本文首发于虎嗅年轻内容公众号&ldquo;那個NG&rdquo;（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 今天的AI短剧就像是美杜莎。 当你在看它的时候，它也在看着你，你俩眼一对，一切停滞，你就搁那呆着吧。 这种魔力，来自于对现实人心的精准洞察。比如，最近流行的剧情：工地门口拿死猪肉做盖饭的黑心商家赚得盆满钵满，认真做精品小炒的老实人却处处受欺负；嫁给富商的你本想低调，结果在同学会上被一群势利眼轮番羞辱&hellip;&hellip; 这些故事的套路大差不差，都是老实人挨欺负，坏人占尽便宜，一群人站在看热闹，最后整一个迟来的反转",
-     "source": "虎嗅",
-     "zh": "当代校园恐怖：父母社交账号成了霸凌武器库"
-    },
-    {
-     "title": "JDK 28",
-     "link": "https://openjdk.org/projects/jdk/28/",
-     "pubDate": "Sat, 17 Oct 2026 21:37:07 +0000",
-     "summary": "Article URL: https://openjdk.org/projects/jdk/28/ Comments URL: https://news.ycombinator.com/item?id=50135379 Points: 51 # Comments: 19",
-     "source": "Hacker News",
-     "zh": "JDK 28"
-    },
-    {
      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
      "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
      "pubDate": "Sat, 17 Oct 2026 20:55:52 +0000",
@@ -1896,14 +1896,6 @@ window.INDUSTRY_DATA = {
      "summary": "Walter Schulze / Startup Fortune : Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a &ldquo;large scale distillation attack&rdquo; &nbsp; &mdash;&nbsp; A large-scale distillation attack against the company behind the open-so",
      "source": "Techmeme",
      "zh": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)"
-    },
-    {
-     "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-     "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-     "pubDate": "Sat, 17 Oct 2026 20:07:33 +0000",
-     "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 81 # Comments: 76",
-     "source": "Hacker News",
-     "zh": "Chrome and Edge are removing XSLT: what breaks and what does not"
     },
     {
      "title": "Turkish police detained Hex and PulseChain founder Richard Heart on Oct. 14, seizing $7M+ in cash and six cold wallets; HEX fell nearly 50% on initial reports (Zack Abrams/The Block)",
@@ -1930,52 +1922,12 @@ window.INDUSTRY_DATA = {
      "zh": "MapQuest adds a Surveillance Layer to its mobile app showing license plate readers and cameras from 10+ companies including Flock, using OpenStreetMap data (Chase DiBenedetto/Mashable)"
     },
     {
-     "title": "Microsoft and CMU team up to train early career software engineers",
-     "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-     "pubDate": "Sat, 17 Oct 2026 18:45:07 +0000",
-     "summary": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 58 # Comments: 69",
-     "source": "Hacker News",
-     "zh": "Microsoft and CMU team up to train early career software engineers"
-    },
-    {
-     "title": "OpenCode Hacked: User credentials leaked",
-     "link": "https://twitter.com/opencode/status/2111516673953935833",
-     "pubDate": "Sat, 17 Oct 2026 18:01:41 +0000",
-     "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 743 # Comments: 126",
-     "source": "Hacker News",
-     "zh": "OpenCode Hacked: User credentials leaked"
-    },
-    {
-     "title": "Codex Desktop continuously generates Crashpad pending dumps",
-     "link": "https://github.com/openai/codex/issues/25921",
-     "pubDate": "Sat, 17 Oct 2026 17:45:08 +0000",
-     "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 64 # Comments: 27",
-     "source": "Hacker News",
-     "zh": "Codex Desktop continuously generates Crashpad pending dumps"
-    },
-    {
-     "title": "I Became a Citizen of Japan",
-     "link": "https://www.derekwessman.com/blog-1/natural",
-     "pubDate": "Sat, 17 Oct 2026 17:36:17 +0000",
-     "summary": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 142 # Comments: 62",
-     "source": "Hacker News",
-     "zh": "I Became a Citizen of Japan"
-    },
-    {
      "title": "游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易",
      "link": "https://www.solidot.org/story?sid=85638",
      "pubDate": "Sat, 17 Oct 2026 23:55:34 +0800",
      "summary": "协作游戏逆向工程网站 decomp.dev 宣布将关闭，管理员称 AI 让游戏反编译变得快且易于操作，基于人工的社区协作模式实际上已经瓦解，无法再区分哪些项目是以人工为主导的，哪些是由 AI 完成的。decomp.dev 管理员 Encounter 在官网声明中表示，从历史上看，匹配反编译一直是极其困难且耗时的任务，即便是对那些有适量活跃贡献者的中等规模游戏来说，反编译要以“年”为单位计时，但 GPT-6-Astra 之类的前沿 AI 模型最近已让反编译游戏变得极其轻松：它们在遵循复杂指令、为符号或调试信息交叉检索资源，以及在获得充分指引的情况下编写自然代码方面，要强得多。显而易见，只要有合适",
      "source": "Solidot",
      "zh": "游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易"
-    },
-    {
-     "title": "Meta removes ToS language that suggested it could scrape websites \"associated with\" business accounts, saying it applied only to \"ads and business products\" (Terrence O&apos;Brien/The Verge)",
-     "link": "https://www.techmeme.com/261017/p14#a261017p14",
-     "pubDate": "Sat, 17 Oct 2026 11:50:02 -0400",
-     "summary": "Terrence O'Brien / The Verge : Meta removes ToS language that suggested it could scrape websites &ldquo;associated with&rdquo; business accounts, saying it applied only to &ldquo;ads and business products&rdquo; &nbsp; &mdash;&nbsp; Language that experts say allowed the scraping of news sites to tra",
-     "source": "Techmeme",
-     "zh": "Meta removes ToS language that suggested it could scrape websites \"associated with\" business accounts, saying it applied only to \"ads and business products\" (Terrence O&apos;Brien/The Verge)"
     },
     {
      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
@@ -2000,6 +1952,54 @@ window.INDUSTRY_DATA = {
      "summary": "GNOME 项目已推出发行版项目 GNOME OS 一段时间，但它只提供基于最新代码的 Nightly 版本，主要面向开发者。现在它推出了面向普通用户的 GNOME OS Preview。GNOME OS Preview 基于 Nightly 版本，但去掉了 Nightly 特性，基于最新的 GNOME 51.1 构建。开发者表示该版本尚未经过充分的实际使用测试，可能会遇到问题，但稳定性肯定高于 Nightly 版本，对想要尝鲜的普通用户而言足够稳定，可用于日常使用。但它还需要进一步完善。",
      "source": "Solidot",
      "zh": "GNOME 面向普通用户发布 GNOME OS Preview"
+    },
+    {
+     "title": "Encryption Is Getting Squeezed From All Sides",
+     "link": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+     "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
+     "summary": "Canada’s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.",
+     "source": "WIRED",
+     "zh": "Encryption Is Getting Squeezed From All Sides"
+    },
+    {
+     "title": "The Best LED Grow Lights for Houseplants This Winter (2026)",
+     "link": "https://www.wired.com/story/best-led-grow-lights/",
+     "pubDate": "Sat, 17 Oct 2026 11:30:00 +0000",
+     "summary": "Shorter days don’t have to spell trouble for your houseplants. These are the lights we’ve used and loved in our own homes.",
+     "source": "WIRED",
+     "zh": "The Best LED Grow Lights for Houseplants This Winter (2026)"
+    },
+    {
+     "title": "Science says your boss should talk less in meetings",
+     "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+     "pubDate": "Sat, 17 Oct 2026 11:15:11 +0000",
+     "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+     "source": "Ars Technica",
+     "zh": "Science says your boss should talk less in meetings"
+    },
+    {
+     "title": "These 12 Automatic Cat Feeders Were the Best We Tested in 2026",
+     "link": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
+     "pubDate": "Sat, 17 Oct 2026 11:02:00 +0000",
+     "summary": "We tested some of the most popular automatic dry- and wet-food pet feeders to see which ones are worth the money.",
+     "source": "WIRED",
+     "zh": "These 12 Automatic Cat Feeders Were the Best We Tested in 2026"
+    },
+    {
+     "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+     "link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+     "pubDate": "Sat, 17 Oct 2026 11:00:21 +0000",
+     "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
+     "source": "Ars Technica",
+     "zh": "Why BioWare's Neverwinter Nights still has thousands of active players"
+    },
+    {
+     "title": "HTC Made Smart Glasses That Are Way More Private",
+     "link": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+     "pubDate": "Sat, 17 Oct 2026 10:30:00 +0000",
+     "summary": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
+     "source": "WIRED",
+     "zh": "HTC Made Smart Glasses That Are Way More Private"
     }
    ]
   },
@@ -2258,20 +2258,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "微博：金橙V创作者数量达13.9万，同比增长11.3%",
+     "link": "http://finance.eastmoney.com/news/1354,202610183899104141.html",
+     "pubDate": "Sun, 18 Oct 2026 09:24:47 +0800",
+     "summary": "微博 在2026 微博 V影响力大会公布的数据显示，截至2026年二季度， 微博 日活跃用户（DAU）达2.5亿、月活跃用户（MAU）达5.6亿；截至三季度，金橙V创作者数量达13.9万，同比增长11.3%。微博周活视频作者规模增长35%，后推荐场景下沉浸式视频观看时长增长20%，互动、回看及主动搜索视频的相关指标增长66%。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "微博：金橙V创作者数量达13.9万，同比增长11.3%"
+    },
+    {
+     "title": "曙光8000发布十大前沿成果",
+     "link": "http://finance.eastmoney.com/news/1354,202610183899104061.html",
+     "pubDate": "Sun, 18 Oct 2026 09:24:47 +0800",
+     "summary": "10月18日， 中科曙光 在2026 CCF全国高性能计算学术大会（CCF HPC 2026）发布曙光8000十大前沿应用成果，覆盖从微观粒子到宏观宇宙的科学探索，横跨天文学、地球科学、生命科学及材料模拟、工程研发等多个领域。相关成果在模拟规模、计算精度和应用时效等方面取得关键进展，多项成果更实现“全球首次”的突破。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "曙光8000发布十大前沿成果"
+    },
+    {
+     "title": "全球传统医学联盟成立",
+     "link": "http://finance.eastmoney.com/news/1355,202610183899103560.html",
+     "pubDate": "Sun, 18 Oct 2026 09:16:33 +0800",
+     "summary": "新华财经北京10月18日电 10月17日，在2026世界传统医药大会上，全球传统医学联盟正式成立。这一联盟是全球首个传统医药领域非营利、非政府国际科技组织，秘书处设在中国北京。 记者从2026世界传统医药大会了解到，全球传统医学联盟致力于促进传统医学、补充医学和整合医学领域的国际交流、科技合作、能力建设与共同发展，让传统医学更好地造福人类健康。目前，联盟已吸纳来自19个国家和地区的117家单位和个人。 据悉，全球传统医学联盟面向全球会员开放。联盟的会员对象包括传统医学社会组织、高等院校、科研院所、医疗保健机构、企业以及专家和青年网络等。联盟将围绕学术交流、科学研究、政策研究、标准与术语、 教育",
+     "source": "东方财富股票",
+     "zh": "全球传统医学联盟成立"
+    },
+    {
+     "title": "浦东，何以闯出“芯”路？",
+     "link": "http://finance.eastmoney.com/news/1350,202610183899103872.html",
+     "pubDate": "Sun, 18 Oct 2026 09:11:00 +0800",
+     "summary": "AI浪潮之下，算力芯片尤为重要。在上海浦东张江科学城，这一组数字极具分量——全国22家主力云端算力芯片企业，13家把总部或研发部门设在这里，占比接近60%。 在这里，有云端 AI芯片 国内领军企业之一的燧原科技，有独辟蹊径做3D算力芯片的东方算芯，有每年一代不断升级算力芯片的沐曦股份，还有在光计算赛道加速奔跑的曦智科技…… 在浦东，一颗算力芯片，从图纸走向现实会经历什么？ 从图纸到芯片，到底有多难？ 设计出领先市场的芯片只是第一步，把图纸变成硅片上的产品，考验才真正开始。东方算芯的故事，就是一本硬核的“闯关记”。 3D算力芯片形似肉夹馍，上下两层的内存紧紧贴合中间的计算芯片，信息传输距离只有几",
+     "source": "东方财富股票",
+     "zh": "浦东，何以闯出“芯”路？"
+    },
+    {
+     "title": "董宇辉开卖定制款卫生巾 黄子韬创立的朵薇年销售额超8亿 头部主播跨界卫生巾都在爆单",
+     "link": "http://finance.eastmoney.com/news/1354,202610183899103210.html",
+     "pubDate": "Sun, 18 Oct 2026 09:08:24 +0800",
+     "summary": "背靠一众女性消费群体，与辉同行开卖定制卫生巾。 近日，与辉同行联合全棉时代旗下女性护理品牌奈丝公主，上线定制卫生巾和安睡裤，据媒体报道，首发30万单已售空。 10月15日，与辉同行客服告诉时代财经，目前与奈丝公主定制的卫生巾尚无库存。其称，与辉同行在推进另一卫生用品品牌的设计与生产，预计将在下周推出。 时代财经注意到，该卫生巾并非与辉同行自营，而是联合品牌厂家共建，与完全自主生产的自营产品仍有本质区别。产品包装上，“奈丝公主”四字空间占比较大，“与辉同行定制”Logo则在商品左上角。 作为女性刚需日用品，卫生巾正持续吸引流量 IP、明星与消费品牌跨界入局。 此前， 东方甄选 就推出“ 东方甄选",
+     "source": "东方财富股票",
+     "zh": "董宇辉开卖定制款卫生巾 黄子韬创立的朵薇年销售额超8亿 头部主播跨界卫生巾都在爆单"
+    },
+    {
      "title": "2029年将现内存“红海”？韩财长发声：半导体繁荣至少持续至明年",
      "link": "http://finance.eastmoney.com/news/1354,202610183899101832.html",
      "pubDate": "Sun, 18 Oct 2026 08:57:41 +0800",
      "summary": "韩国财政部长李炯日（Lee Hyoung-Il）周六表示， 半导体 行业的繁荣势头至少将持续到2027年。 “目前，我们认为增长至少可以持续到明年。这是因为 半导体 的供需缺口仍然非常大，而且供应端仍在持续扩张。”李炯日在曼谷举行的国际货币基金组织（IMF）和世界 银行 年会期间接受媒体采访时表示。 供应端扩张指的是资本开支、在建产能扩张，表明当下芯片行业景气度仍非常高、需求旺盛，尽管从长期来看，这意味着供需缺口将缩窄。 在李炯日发出上述言论之际，受投资者对美联储加息以及行业竞争加剧的担忧影响， 在刚刚过去的交易周， 半导体 板块大幅下跌 。包括三星、 SK海力士 和首尔半导体在内的韩国芯片股",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "2029年将现内存“红海”？韩财长发声：半导体繁荣至少持续至明年"
-    },
-    {
-     "title": "冷空气接连影响我国 多地气温将创新低",
-     "link": "http://finance.eastmoney.com/news/11790,202610183899101785.html",
-     "pubDate": "Sun, 18 Oct 2026 08:56:59 +0800",
-     "summary": "10月18日至20日，东北地区和长江中下游一带降水频繁，其中内蒙古东北部、黑龙江西北部局地今天有暴雪或大暴雪，需防范雨雪天气对交通出行等方面的不利影响。 气温方面，冷空气连续影响我国，长江以北地区气温持续偏低，多地将创今年下半年来气温新低。（央视新闻） （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "冷空气接连影响我国 多地气温将创新低"
     },
     {
      "title": "New England faces record-high heating oil costs this winter",
@@ -2314,44 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "美国堪萨斯州一车辆冲入足球场致多人死伤"
     },
     {
-     "title": "伊朗外长：伊朗支持通过政治进程解决也门冲突",
-     "link": "http://finance.eastmoney.com/news/11790,202610183899101344.html",
-     "pubDate": "Sun, 18 Oct 2026 08:37:29 +0800",
-     "summary": "伊朗外长阿拉格齐17日在巴格达参加伊斯兰合作组织外长理事会会议期间表示，伊朗政府支持通过“政治进程”解决沙特阿拉伯与也门胡塞武装之间的冲突。阿拉格齐说，伊朗支持“包容和全面的政治进程”，并表示这是解决也门问题的“唯一可行且可持续的途径”。 近期伊朗方面已经多次表示，有意在沙特与胡塞武装之间展开斡旋，愿提供一切帮助结束双方的敌对行动。（央视新闻） （文章来源：每日经济新闻）",
-     "source": "东方财富股票",
-     "zh": "伊朗外长：伊朗支持通过政治进程解决也门冲突"
-    },
-    {
      "title": "房贷贴息政策落地观察：有人省下数万元利息",
      "link": "http://bank.eastmoney.com/news/1174,202610183899101587.html",
      "pubDate": "Sun, 18 Oct 2026 08:37:07 +0800",
      "summary": "居民购房贷款贴息政策自10月1日起正式实施以来，各家 银行 积极部署推进工作落地，不少机构抢抓国庆置业窗口期，开通业务绿色通道，下沉一线驻点服务。河北、江苏、广东等多地相继涌现出刚需购房者享受贴息红利的鲜活案例。 业内人士表示，房贷贴息政策有望激活住房刚需、缓解 银行 按揭业务压力等，但也对 银行 系统能力和风控水平提出较高要求，银行在加速推进业务落地的同时，需要持续筑牢风控防线，以及警惕同业非理性竞争等风险。 多家银行积极推进房贷贴息政策落地 国庆假期期间，常年在南方务工的陈先生回到家乡河北邯郸准备置业， 农业银行 河北邯郸分行考虑到其假期停留时间有限，开辟了返乡置业绿色通道，为他顺利办理贷",
      "source": "东方财富资讯",
      "zh": "房贷贴息政策落地观察：有人省下数万元利息"
-    },
-    {
-     "title": "沙特联军称在东部省拦截并摧毁一架无人机",
-     "link": "http://finance.eastmoney.com/news/11790,202610183899101461.html",
-     "pubDate": "Sun, 18 Oct 2026 08:36:40 +0800",
-     "summary": "沙特阿拉伯主导的多国联军发言人图尔基·马利基18日在社交媒体上表示，联军在东部省拦截并摧毁了一架 无人机 。近日，胡塞武装与沙特持续互袭。也门胡塞武装17日称，沙特阿拉伯当天空袭也门西南部塔伊兹省，造成包括妇女和儿童在内至少9人死亡，另有16人受伤。沙特阿拉伯主导的多国联军17日称，当天在沙特利雅得省、东部省和南部地区拦截并摧毁4架 无人机 。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "沙特联军称在东部省拦截并摧毁一架无人机"
-    },
-    {
-     "title": "603838，翻倍牛股“摘星摘帽”，明天停牌！",
-     "link": "http://finance.eastmoney.com/news/1354,202610183899100826.html",
-     "pubDate": "Sun, 18 Oct 2026 08:32:00 +0800",
-     "summary": "*ST四通 （603838）近日披露，上交所已同意公司撤销退市风险警示。公司股票将于10月19日停牌一天，10月20日起复牌，证券简称由“ *ST四通 ”变更为“四通股份”，日涨跌幅限制仍为10%。 此前，因2024年度利润总额、净利润、扣除非经常性损益后的净利润均为负值，且扣除后营业收入低于3亿元，公司股票于2025年4月30日起实施退市风险警示。 四通股份以日用陶瓷、卫生陶瓷、艺术陶瓷等家居生活陶瓷为主业，并将业务延伸至锆钛矿精炼、陶瓷色釉料。2025年，公司营业收入3.56亿元，同比增长24.96%，扣除后营业收入3.54亿元，较2024年的2.85亿元明显回升，重回3亿元红线之上。公司",
-     "source": "东方财富股票",
-     "zh": "603838，翻倍牛股“摘星摘帽”，明天停牌！"
-    },
-    {
-     "title": "航行警告：南海海域实弹射击",
-     "link": "http://finance.eastmoney.com/news/11790,202610183899099455.html",
-     "pubDate": "Sun, 18 Oct 2026 08:26:01 +0800",
-     "summary": "据中国海事局网站消息，珠海海事局发布航行警告，10月20日9时至16时，南海部分海域进行实弹射击，禁止驶入。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "航行警告：南海海域实弹射击"
     },
     {
      "title": "罕见！三环集团3个月回购3次！今年多次回购股曝光 五大共性凸显（附名单）",

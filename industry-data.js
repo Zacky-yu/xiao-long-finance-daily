@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/19 05:03:41",
+ "generated_at": "2026/10/19 05:20:11",
  "recent_days": 7,
  "industries": [
   {
@@ -32,14 +32,6 @@ window.INDUSTRY_DATA = {
      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
      "source": "TechCrunch AI",
      "zh": "Disney agrees to hire the majority of Character.AI’s workforce"
-    },
-    {
-     "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
-     "link": "https://www.qbitai.com/2026/10/504136.html",
-     "pubDate": "Sun, 18 Oct 2026 11:49:49 +0000",
-     "summary": "让人人都能自由创造并体验可交互世界",
-     "source": "量子位",
-     "zh": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS"
     },
     {
      "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "General Science",
      "source": "Google Research",
      "zh": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs"
+    },
+    {
+     "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+     "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+     "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000",
+     "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
+     "source": "MIT Tech Review AI",
+     "zh": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
     }
    ]
   },
@@ -1298,12 +1298,12 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
-     "title": "Returning samples from a Mars moon: Inside the science of Japan's bold MMX mission",
+     "title": "Returning samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars",
      "link": "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission",
      "pubDate": "Sun, 18 Oct 2026 19:20:03 +0000",
      "summary": "Japan's mission to Mars' moons could answer a decades old question dividing the origins of Phobos and Deimos between two conflicting theories, and make history as the first spacecraft to return to Earth from orbit of the Red Planet.",
      "source": "Space.com",
-     "zh": "Returning samples from a Mars moon: Inside the science of Japan's bold MMX mission"
+     "zh": "Returning samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars"
     },
     {
      "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
@@ -1770,14 +1770,6 @@ window.INDUSTRY_DATA = {
      "zh": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market"
     },
     {
-     "title": "Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference",
-     "link": "https://arxiv.org/abs/2610.18861",
-     "pubDate": "Sun, 18 Oct 2026 20:48:14 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2610.18861 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 4 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference"
-    },
-    {
      "title": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)",
      "link": "https://www.techmeme.com/261018/p11#a261018p11",
      "pubDate": "Sun, 18 Oct 2026 15:55:01 -0400",
@@ -1802,52 +1794,12 @@ window.INDUSTRY_DATA = {
      "zh": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’"
     },
     {
-     "title": "Tiny Brutalism – Thanks to HN it's on Steam",
-     "link": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
-     "pubDate": "Sun, 18 Oct 2026 18:59:09 +0000",
-     "summary": "Article URL: https://store.steampowered.com/app/5426130/Tiny_Brutalism/ Comments URL: https://news.ycombinator.com/item?id=50144144 Points: 35 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Tiny Brutalism – Thanks to HN it's on Steam"
-    },
-    {
-     "title": "Free Pascal compiler now supports dynamic packages",
-     "link": "https://www.getlazarus.org/dynamic/",
-     "pubDate": "Sun, 18 Oct 2026 18:48:04 +0000",
-     "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 55 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "Free Pascal compiler now supports dynamic packages"
-    },
-    {
      "title": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&apos;s 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
      "link": "https://www.techmeme.com/261018/p9#a261018p9",
      "pubDate": "Sun, 18 Oct 2026 14:10:01 -0400",
      "summary": "Kyu-Seok Shim / Reuters : Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC &nbsp; &mdash;&nbsp; Samsung Electronics (005930.KS) will use TSMC's (2330.TW) 3-nanometre process to produce base ",
      "source": "Techmeme",
      "zh": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&apos;s 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)"
-    },
-    {
-     "title": "PalmOS Lemmings",
-     "link": "https://github.com/ardiri/palmos-lemmings",
-     "pubDate": "Sun, 18 Oct 2026 17:56:59 +0000",
-     "summary": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 53 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "PalmOS Lemmings"
-    },
-    {
-     "title": "Namecheap just seized and disabled all my domains",
-     "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-     "pubDate": "Sun, 18 Oct 2026 16:56:56 +0000",
-     "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 229 # Comments: 121",
-     "source": "Hacker News",
-     "zh": "Namecheap just seized and disabled all my domains"
-    },
-    {
-     "title": "Someone behind the software",
-     "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-     "pubDate": "Sun, 18 Oct 2026 16:32:00 +0000",
-     "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 197 # Comments: 74",
-     "source": "Hacker News",
-     "zh": "Someone behind the software"
     },
     {
      "title": "Anthropic gives outside AI watchdog “employee-like” access",
@@ -2000,6 +1952,54 @@ window.INDUSTRY_DATA = {
      "summary": "本期入选标的呈两头分布：一头是三只首次涨停且估值深度低于济安定价的品种，分别来自供应链电子、汽车零部件与军工电子方向，属前期股价长期低位徘徊、由题材催化与板块轮动推动的低位修复品种；另一头是一只估值显著高于济安定价的连续涨停品种，来自密码安全与量子科技方向，短线资金由主题情绪推动。",
      "source": "钛媒体",
      "zh": "价值判断：涨停板的投资机会和风险提示（10月16日）｜上市公司观察"
+    },
+    {
+     "title": "数学的“第四次危机”：从不可说，到无可说",
+     "link": "https://www.tmtpost.com/8172522.html",
+     "pubDate": "Sun, 18 Oct 2026 22:36:51 +0800",
+     "summary": "数学素有“科学之巅”之誉；数学史若写成英雄传，这四次危机便不是四次失败，而是四次涅槃重生。",
+     "source": "钛媒体",
+     "zh": "数学的“第四次危机”：从不可说，到无可说"
+    },
+    {
+     "title": "内核开发者递交代码无需声明是否 AI 辅助编写",
+     "link": "https://www.solidot.org/story?sid=85641",
+     "pubDate": "Sun, 18 Oct 2026 22:28:17 +0800",
+     "summary": "Linux 邮件列表中的一则消息披露，2026 年 10 月 8 日捷克布拉格举行的维护者峰会（Maintainers Summit）达成了一项重大决策：向内核提交代码时，无需再使用“Assisted-by”标签。这意味着内核开发者递交代码无需声明是否 AI 辅助编写。Linux 作者 Linus Torvalds 认为，禁止使用 AI 就像禁止使用文本编辑器是极其愚蠢的规定，表示他认为从事内核开发的人知道他们在做什么。他本周递交了一组用 Claude Code 开发的补丁，但补丁被发现存在竞态条件，其内存回收也被认为有问题，这组补丁的后续开发被交给了人类开发者 Kiryl Shutsemau",
+     "source": "Solidot",
+     "zh": "内核开发者递交代码无需声明是否 AI 辅助编写"
+    },
+    {
+     "title": "Meta 新增条款允许其抓取客户内容并用于训练 AI",
+     "link": "https://www.solidot.org/story?sid=85640",
+     "pubDate": "Sun, 18 Oct 2026 22:10:15 +0800",
+     "summary": "Meta 修改了其商业服务条款，新条款将于 2026 年 10 月 30 日生效。新增条款赋予了 Meta 一项权利，允许它使用自动化软件抓取客户内容，将其用于改进包括 AI 模型在内的公司产品。所谓的自动化软件包括了网页抓取工具、机器人、爬虫及用户智能体。News/Media Alliance 总裁 Danielle Coffey 发表声明谴责 Meta 的做法，认为此举涉嫌违法。法学教授 Eric Goldman 认为，新增服务条款存在程序和实质层面的问题，他表示尽管他倾向于认为合同起草者抱有善意，但 Meta 在业界早已毫无信誉可言，根本谈不上什么善意。",
+     "source": "Solidot",
+     "zh": "Meta 新增条款允许其抓取客户内容并用于训练 AI"
+    },
+    {
+     "title": "DeepSeek成立产品部！1.3亿人免费用的AI，变现模式会参考ChatGPT订阅吗？",
+     "link": "https://www.tmtpost.com/8172203.html",
+     "pubDate": "Sun, 18 Oct 2026 21:59:34 +0800",
+     "summary": "DeepSeek成立产品部，是想要把1.30亿免费用户变成一份招股书里讲得清楚的变现路线图。",
+     "source": "钛媒体",
+     "zh": "DeepSeek成立产品部！1.3亿人免费用的AI，变现模式会参考ChatGPT订阅吗？"
+    },
+    {
+     "title": "An interview with Apple&apos;s new VP of the App Store, Carson Oliver, on Apple&apos;s gaming vision, Apple Arcade, providing tools for indie game developers, and more (Giovanni Colantonio/Polygon)",
+     "link": "https://www.techmeme.com/261018/p7#a261018p7",
+     "pubDate": "Sun, 18 Oct 2026 07:15:00 -0400",
+     "summary": "Giovanni Colantonio / Polygon : An interview with Apple's new VP of the App Store, Carson Oliver, on Apple's gaming vision, Apple Arcade, providing tools for indie game developers, and more &nbsp; &mdash;&nbsp; Back when Apple Arcade launched in 2019, there was a resounding belief among gamers that ",
+     "source": "Techmeme",
+     "zh": "An interview with Apple&apos;s new VP of the App Store, Carson Oliver, on Apple&apos;s gaming vision, Apple Arcade, providing tools for indie game developers, and more (Giovanni Colantonio/Polygon)"
+    },
+    {
+     "title": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
+     "link": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
+     "pubDate": "Sun, 18 Oct 2026 11:01:00 +0000",
+     "summary": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
+     "source": "WIRED",
+     "zh": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)"
     }
    ]
   },
@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "马克龙谴责法国抗议活动中的暴力行为",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899226898.html",
+     "pubDate": "Mon, 19 Oct 2026 05:04:21 +0800",
+     "summary": "法国总统马克龙18日就法国多地爆发的抗议活动发表电视讲话。他谴责抗议期间出现的暴力行为，呼吁不要将诉求表达与暴力混为一谈，并表示将对其中的违法行为追究法律责任。 马克龙向受暴力事件影响的执法人员、官员和商户表达声援。他称，总理勒科尔尼将于19日主持召开危机应对小组会议，尽快动员相关援助。同时，马克龙要求政府总结17日暴力事件教训，特别是加强信息收集和预判，确保此类事件不再发生。 马克龙还对青年群体的焦虑表示理解，宣布政府将在未来一周与学生、教师、工会等共同研究应对措施，回应青年群体关切。 他说，此次抗议活动反映出民众对生活成本和燃油价格的担忧。他宣布将于19日访问海湾国家，以确保法国能源供应。",
+     "source": "东方财富股票",
+     "zh": "马克龙谴责法国抗议活动中的暴力行为"
+    },
+    {
      "title": "Weekly markets wrap: AI volatility and inflation weigh on US stocks, global markets rise",
      "link": "https://seekingalpha.com/news/4654080-weekly-markets-wrap-ai-volatility-and-inflation-weigh-on-us-stocks-global-markets-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 18 Oct 2026 16:54:01 -0400",
@@ -2290,20 +2298,36 @@ window.INDUSTRY_DATA = {
      "zh": "在Anthropic宣布将5%股份注入新型公共利益基金后 埃隆·马斯克发文称 “我建议直接把股份分给公众”"
     },
     {
+     "title": "以色列军方在10月27日大选前处于高度戒备状态 担心伊朗可能发动先发制人打击",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899227589.html",
+     "pubDate": "Mon, 19 Oct 2026 04:27:57 +0800",
+     "summary": "以色列军方在10月27日大选前处于高度戒备状态，担心伊朗可能发动先发制人打击，因为伊朗认为以色列和美国正准备袭击德黑兰。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "以色列军方在10月27日大选前处于高度戒备状态 担心伊朗可能发动先发制人打击"
+    },
+    {
+     "title": "泽连斯基谈美国：选举期间政治氛围非常激烈",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899227481.html",
+     "pubDate": "Mon, 19 Oct 2026 04:27:57 +0800",
+     "summary": "泽连斯基谈美国：选举期间政治氛围非常激烈。我认为现在是痛苦时期，但选举过后生活将继续，我相信局势会平静下来。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "泽连斯基谈美国：选举期间政治氛围非常激烈"
+    },
+    {
+     "title": "泽连斯基：眼下 大选前这段时日充满变数",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899227331.html",
+     "pubDate": "Mon, 19 Oct 2026 04:27:56 +0800",
+     "summary": "泽连斯基：眼下，大选前这段时日充满变数。我最新提出的方案是我们不再打击俄罗斯柴油相关设施，而你们（美国）向我们提供爱国者导弹，用来保护我方设施。但他们只想让我们停止打击柴油设施。一旦我们发起这类打击，他们就会切断我们某方面的供给。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "泽连斯基：眼下 大选前这段时日充满变数"
+    },
+    {
      "title": "France rocked by violent protests, millions in business losses to looting",
      "link": "https://seekingalpha.com/news/4654078-france-rocked-by-violent-protests-millions-in-business-losses-to-looting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 18 Oct 2026 16:21:50 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "France rocked by violent protests, millions in business losses to looting"
-    },
-    {
-     "title": "抱团退潮冲击公募净值 回撤修复可聚焦三大维度",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899218695.html",
-     "pubDate": "Mon, 19 Oct 2026 04:06:08 +0800",
-     "summary": "受海外多重因素扰动，9月下旬以来A股持续调整，不少主动权益基金年内回撤幅度明显加大。 证券时报基金研究院以2016年前成立的1500余只主动权益基金为统计样本，结果显示，年内约三成基金最大回撤创下近十年纪录；最大回撤幅度超过50%的“腰斩基”达17只，单只基金年内最深回撤达57.93%，回撤深度与深度回撤产品数量双双刷新近十年纪录。 值得关注的是，2026年主动权益基金回撤中位数为24.88%，仍略低于2018年和2022年水平。回撤中枢未创纪录、深度回撤产品却显著增多，表明本轮调整并非全面性下跌，而是科技板块极致抱团退潮所引发的结构性冲击。在此背景下，相关基金净值后续能否修复、投资者又当如何",
-     "source": "东方财富股票",
-     "zh": "抱团退潮冲击公募净值 回撤修复可聚焦三大维度"
     },
     {
      "title": "Macron faces political firestorm after riots",
@@ -2314,28 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "Macron faces political firestorm after riots"
     },
     {
-     "title": "奥地利航空公司据称从特拉维夫飞往维也纳的航班在飞机上发现可疑物体后改变航线 并降落在保加利亚索非亚",
-     "link": "http://finance.eastmoney.com/news/11790,202610193899226426.html",
-     "pubDate": "Mon, 19 Oct 2026 03:46:09 +0800",
-     "summary": "奥地利航空公司据称从特拉维夫飞往维也纳的航班在飞机上发现可疑物体后改变航线，并降落在保加利亚索非亚。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "奥地利航空公司据称从特拉维夫飞往维也纳的航班在飞机上发现可疑物体后改变航线 并降落在保加利亚索非亚"
-    },
-    {
      "title": "Bessent warns Zelenskyy to &apos;be very careful&apos; about claims U.S. is throttling Starlink",
      "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
      "pubDate": "Sun, 18 Oct 2026 19:37:28 GMT",
      "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
      "source": "CNBC",
      "zh": "Bessent warns Zelenskyy to &apos;be very careful&apos; about claims U.S. is throttling Starlink"
-    },
-    {
-     "title": "黑山总理斯帕伊奇会见王毅",
-     "link": "http://finance.eastmoney.com/news/1351,202610193899224240.html",
-     "pubDate": "Mon, 19 Oct 2026 03:36:02 +0800",
-     "summary": "18日， 黑山 总理斯帕伊奇在波德戈里察会见中共中央政治局委员、外交部长王毅。 斯帕伊奇请王毅转达对中国领导人的诚挚问候，表示今年6月赴华参会得到中方热情接待，今天中国外长来访，都体现了中方对黑中关系的重视。黑中两国有着共同的历史记忆和传统友谊，第二次世界大战期间都曾抵抗法西斯和外来侵略。黑方高度重视中国的大国地位和影响，赞赏中国在中东战事中以负责任态度抑制全球油价上涨，帮助 黑山 等中小国家渡过能源危机，体现了大国责任与担当。 斯帕伊奇说，近年来， 黑山 经济社会实现良好发展，中国企业帮助黑山成功完成南北 高速公路 的建设。双方正在合作修复塔拉河大桥，这是一项具有重要历史意义的工程，拉近了两",
-     "source": "东方财富股票",
-     "zh": "黑山总理斯帕伊奇会见王毅"
     },
     {
      "title": "Google cuts quantum errors 40-fold in step toward practical use",
@@ -2352,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA Asks: Should Tesla merge with SpaceX?"
-    },
-    {
-     "title": "肯尼亚新增一例埃博拉确诊病例",
-     "link": "http://finance.eastmoney.com/news/1351,202610193899224115.html",
-     "pubDate": "Mon, 19 Oct 2026 03:16:27 +0800",
-     "summary": "当地时间10月18日晚，肯尼亚卫生部卫生服务总局局长帕特里克·阿莫斯表示，肯尼亚当天对38人进行了埃博拉病毒检测，其中1人检测结果呈阳性。 阿莫斯说，这名确诊患者为一名49岁男性，非医务人员，出现发热、头痛和肌肉疼痛等症状。目前，肯尼亚埃博拉确诊病例累计升至8例，其中1人死亡。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "肯尼亚新增一例埃博拉确诊病例"
     },
     {
      "title": "Anthropic plans to set aside 5% of shares for public benefit fund before IPO",
@@ -2434,6 +2434,22 @@ window.INDUSTRY_DATA = {
      "zh": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?"
     },
     {
+     "title": "理性看待长鑫科技回购：看懂资本效率、基本面底气与增长强音",
+     "link": "http://finance.eastmoney.com/news/1354,202610183899171296.html",
+     "pubDate": "Mon, 19 Oct 2026 00:29:00 +0800",
+     "summary": "长鑫科技 近期发布股份回购计划，拟动用资金10亿元至20亿元。市场讨论中，有声音仅凭绝对数值认为力度中规中矩。但在资本市场中，脱离市值谈回购规模本身就是误区。 衡量一项资本动作的真实诚意，核心看资本配置效率（回购占比）；而其后劲，则取决于基本面的造血能力与业绩爆发力。公司最新披露的三季度业绩预告显示：2026年前三季度预计实现营业收入2650亿元至2700亿元，同比增长725.96%至741.54%；预计归母净利润达1310亿元至1325亿元，实现强劲同比扭亏。单看第三季度，营收达1146.90亿元至1196.90亿元，环比增长15.25%至20.28%；第三季度归母净利润达533.95亿元至",
+     "source": "东方财富资讯",
+     "zh": "理性看待长鑫科技回购：看懂资本效率、基本面底气与增长强音"
+    },
+    {
+     "title": "上午10时、下午3时 两场重要新闻发布会今日举行",
+     "link": "http://finance.eastmoney.com/news/1352,202610183899185122.html",
+     "pubDate": "Mon, 19 Oct 2026 00:23:59 +0800",
+     "summary": "10月19日（星期一）上午10时，国务院新闻办公室将举行新闻发布会，请国家统计局新闻发言人、副局长毛盛勇介绍2026年前三季度国民经济运行情况，并答记者问。 下午3时，国新办将举行新闻发布会，请商务部部长助理袁晓明和工业和信息化部、文化和旅游部有关负责人介绍加快推进科技兴商有关情况，并答记者问。 （文章来源：大河财立方）",
+     "source": "东方财富资讯",
+     "zh": "上午10时、下午3时 两场重要新闻发布会今日举行"
+    },
+    {
      "title": "十大券商策略：市场调整接近尾声！积极信号已经开始出现",
      "link": "http://finance.eastmoney.com/news/1349,202610183899206378.html",
      "pubDate": "Mon, 19 Oct 2026 00:15:03 +0800",
@@ -2450,52 +2466,36 @@ window.INDUSTRY_DATA = {
      "zh": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
     },
     {
+     "title": "“11连板”新华传媒：重组标的财联社估值尚未确定 股价存在快速下跌风险",
+     "link": "http://finance.eastmoney.com/news/1354,202610183899191653.html",
+     "pubDate": "Mon, 19 Oct 2026 00:10:53 +0800",
+     "summary": "10月18日晚间， 新华传媒 发布《股票交易风险提示公告》，直言公司股价近期11个交易日涨停，期间已累积巨大交易风险，现已严重偏离上市公司基本面，存在随时快速下跌的风险。 今年以来，公司股价（前复权）累计上涨约145.78%；自2026年9月21日复牌以来，公司股票连续11个交易日涨停，累计上涨185.50%。其中，公司股票于10月13日开市起停牌核查，10月16日复牌当日再度“一”字封上涨停，涨幅10.01%。 连续11个涨停，公司提示估值严重偏离基本面 公告显示，公司股票自2026年9月21日至10月16日连续11个交易日涨停，累计上涨185.50%，期间连续发生多次股票交易异常波动情况，",
+     "source": "东方财富资讯",
+     "zh": "“11连板”新华传媒：重组标的财联社估值尚未确定 股价存在快速下跌风险"
+    },
+    {
+     "title": "重磅论坛今日开幕！潘功胜、丁向群、吴清、朱鹤新将发声",
+     "link": "http://stock.eastmoney.com/news/11215,202610183899185338.html",
+     "pubDate": "Mon, 19 Oct 2026 00:10:33 +0800",
+     "summary": "2026 金融街 论坛年会将于10月19日至22日在北京 金融街 举办 。中国人民 银行 行长潘功胜、国家金融监督管理总局局长丁向群、中国证券监督管理委员会主席吴清、国家外汇管理局局长朱鹤新将出席2026 金融街 论坛年会并作主题演讲。 2026金融街论坛年会采取“主论坛+平行论坛+专题大会+配套活动”的框架结构，主论坛活动由中国人民 银行 、金融监管总局、证监会等部门承办 。国家金融管理部门将集中发布系列金融改革发展政策 ，并围绕 人工智能 技术演进下的经济治理、金融创新与央行决策、建设一流投资机构服务资本市场高质量发展、构建高质量金融服务实体经济新生态、全球新格局下跨境金融发展与合作等议题",
+     "source": "东方财富资讯",
+     "zh": "重磅论坛今日开幕！潘功胜、丁向群、吴清、朱鹤新将发声"
+    },
+    {
+     "title": "侃股：错杀股有望率先估值修复",
+     "link": "http://stock.eastmoney.com/news/11215,202610183899184285.html",
+     "pubDate": "Mon, 19 Oct 2026 00:10:23 +0800",
+     "summary": "A股持续震荡，多数个股也随之调整，其中不乏一些基本面合理、业绩优秀的个股遭遇错杀行情。在市场止跌企稳之后，错杀股大概率会率先启动估值修复行情，其中的投资机会值得投资者关注。 近期市场维持震荡调整态势，整体风险偏好下降，场内资金避险情绪升温。在此阶段，个股行情呈现明显的普跌特征，绝大多数个股都会跟随大盘出现不同程度的回调。这种整体性调整，并非全部源于上市公司自身经营问题，更多是市场情绪、整体资金环境变化引发的被动下跌，而部分优质公司则可能被错杀。 所谓错杀股，核心特征是股价走势与上市公司基本面出现明显背离。这类个股主营业务运行稳定，经营数据没有出现恶化，业绩水平保持在合理区间，行业发展逻辑也未发",
+     "source": "东方财富资讯",
+     "zh": "侃股：错杀股有望率先估值修复"
+    },
+    {
      "title": "US threatens Europe over Starlink restrictions",
      "link": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
      "pubDate": "Sun, 18 Oct 2026 16:00:00 GMT",
      "summary": "Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies",
      "source": "Financial Times",
      "zh": "US threatens Europe over Starlink restrictions"
-    },
-    {
-     "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-     "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-     "pubDate": "Sun, 18 Oct 2026 16:00:00 GMT",
-     "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-     "source": "MarketWatch",
-     "zh": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?"
-    },
-    {
-     "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
-     "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-     "pubDate": "Sun, 18 Oct 2026 15:15:00 GMT",
-     "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
-     "source": "MarketWatch",
-     "zh": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?"
-    },
-    {
-     "title": "Trump’s bid to make America cheap again has failed",
-     "link": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1",
-     "pubDate": "Sun, 18 Oct 2026 15:00:00 GMT",
-     "summary": "Voters are increasingly linking rising energy prices to the administration’s policies",
-     "source": "Financial Times",
-     "zh": "Trump’s bid to make America cheap again has failed"
-    },
-    {
-     "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-     "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-     "pubDate": "Sun, 18 Oct 2026 15:00:00 GMT",
-     "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
-     "source": "MarketWatch",
-     "zh": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?"
-    },
-    {
-     "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
-     "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
-     "pubDate": "Sun, 18 Oct 2026 14:00:00 GMT",
-     "summary": "Boeing, Meta and EchoStar recorded steep charges and expenses a year ago, which are expected to make this latest quarter’s results look especially strong by comparison.",
-     "source": "MarketWatch",
-     "zh": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth"
     }
    ]
   },

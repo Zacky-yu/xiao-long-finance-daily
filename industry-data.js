@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/19 02:37:46",
+ "generated_at": "2026/10/19 02:50:01",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+     "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+     "pubDate": "Sun, 18 Oct 2026 18:20:28 +0000",
+     "summary": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyF",
+     "source": "MarkTechPost",
+     "zh": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web"
+    },
     {
      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
@@ -160,14 +168,6 @@ window.INDUSTRY_DATA = {
      "summary": "DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement",
      "source": "MarkTechPost",
      "zh": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API"
-    },
-    {
-     "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
-     "link": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
-     "pubDate": "Sat, 17 Oct 2026 07:26:39 +0000",
-     "summary": "TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS’s Strand",
-     "source": "MarkTechPost",
-     "zh": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026"
     },
     {
      "title": "李飞飞看了要点赞：15分钟，一台相机，把真实世界搬进了AI",
@@ -1098,6 +1098,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "StockWatch: Liquidia Rebounds After Settling Legal Wrangle with United Therapeutics",
+     "link": "https://www.genengnews.com/topics/drug-discovery/stockwatch-liquidia-rebounds-after-settling-legal-wrangle-with-united-therapeutics/",
+     "pubDate": "Sun, 18 Oct 2026 18:33:31 +0000",
+     "summary": "Two weeks after its stock lost more than half its value following a setback in a seven-year legal wrangle, Liquidia shares finally began bouncing back thanks to a settlement with United Therapeutics that drew mixed conclusions from four analysts about which company won out long-term. The post StockW",
+     "source": "GEN",
+     "zh": "StockWatch: Liquidia Rebounds After Settling Legal Wrangle with United Therapeutics"
+    },
+    {
      "title": "Diasome’s HDV-Insulin for T1D Finalizing Phase III Plans After Promising Data",
      "link": "https://www.genengnews.com/topics/translational-medicine/diasomes-hdv-insulin-for-t1d-finalizing-phase-iii-plans-after-promising-data/",
      "pubDate": "Sun, 18 Oct 2026 17:47:57 +0000",
@@ -1152,14 +1160,6 @@ window.INDUSTRY_DATA = {
      "summary": "A study in human breast organoids has found that exposure to some common endocrine-disrupting chemicals may lead to molecular changes in breast tissue that could influence susceptibility to breast cancer later in life. The post Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breas",
      "source": "GEN",
      "zh": "Exposure to Common Endocrine-Disrupting Chemicals May Alter Normal Breast Development"
-    },
-    {
-     "title": "ASHG 2026 Awards Honor Achievements in Research, Education, and More",
-     "link": "https://www.genengnews.com/topics/omics/ashg-2026-awards-honor-achievements-in-research-education-and-more/",
-     "pubDate": "Fri, 16 Oct 2026 16:27:48 +0000",
-     "summary": "ASHG will honor seven recipients with its 2026 Professional Awards, recognizing outstanding contributions to human genetics and genomics research, education, mentorship, and public service at ceremonies this week. The post ASHG 2026 Awards Honor Achievements in Research, Education, and More appeared",
-     "source": "GEN",
-     "zh": "ASHG 2026 Awards Honor Achievements in Research, Education, and More"
     },
     {
      "title": "Iambic CEO on taking an AI drug company public",
@@ -1770,10 +1770,18 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&apos;s 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)"
     },
     {
+     "title": "PalmOS Lemmings by Aaron Ardiri",
+     "link": "https://github.com/ardiri/palmos-lemmings",
+     "pubDate": "Sun, 18 Oct 2026 17:56:59 +0000",
+     "summary": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 8 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "PalmOS Lemmings by Aaron Ardiri"
+    },
+    {
      "title": "Mitos editor is a fork of Helix",
      "link": "https://mitos.computer/",
      "pubDate": "Sun, 18 Oct 2026 17:19:34 +0000",
-     "summary": "Article URL: https://mitos.computer/ Comments URL: https://news.ycombinator.com/item?id=50143132 Points: 13 # Comments: 14",
+     "summary": "Article URL: https://mitos.computer/ Comments URL: https://news.ycombinator.com/item?id=50143132 Points: 15 # Comments: 20",
      "source": "Hacker News",
      "zh": "Mitos editor is a fork of Helix"
     },
@@ -1781,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Namecheap just seized and disabled all my domains",
      "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
      "pubDate": "Sun, 18 Oct 2026 16:56:56 +0000",
-     "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 48 # Comments: 15",
+     "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 63 # Comments: 24",
      "source": "Hacker News",
      "zh": "Namecheap just seized and disabled all my domains"
     },
@@ -1789,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Someone behind the software",
      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
      "pubDate": "Sun, 18 Oct 2026 16:32:00 +0000",
-     "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 74 # Comments: 25",
+     "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 86 # Comments: 31",
      "source": "Hacker News",
      "zh": "Someone behind the software"
     },
@@ -1813,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "The Intel 8087 chip: floating-point addition and subtraction",
      "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
      "pubDate": "Sun, 18 Oct 2026 16:20:27 +0000",
-     "summary": "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 43 # Comments: 6",
+     "summary": "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 45 # Comments: 7",
      "source": "Hacker News",
      "zh": "The Intel 8087 chip: floating-point addition and subtraction"
     },
@@ -1869,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "macOS 15.8.2 Breaks OpenGL",
      "link": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
      "pubDate": "Sun, 18 Oct 2026 15:26:06 +0000",
-     "summary": "Article URL: https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550 Comments URL: https://news.ycombinator.com/item?id=50141909 Points: 191 # Comments: 173",
+     "summary": "Article URL: https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550 Comments URL: https://news.ycombinator.com/item?id=50141909 Points: 195 # Comments: 179",
      "source": "Hacker News",
      "zh": "macOS 15.8.2 Breaks OpenGL"
     },
@@ -1912,14 +1920,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 18 日消息，彭博社记者马克 · 古尔曼在最新一期《Power On》通讯中透露，苹果明知 iPhone Duo 折叠屏手机面临严重的供应短缺， 却仍然决定本周五开启预购 ，而不是等到备货更加充足时再启动预购。 古尔曼表示： 我就直说了： 苹果这次犯了一个重大错误 。他们明明知道供应严重受限，却坚持按计划推出 iPhone Duo。比起满足市场需求，苹果更希望在第一财季初期让这款设备上市。 这将让许多希望首批购买的用户感到失望 。 IT之家注意到，古尔曼还透露，苹果最初仅计划在美国和中国推出 iPhone Duo，然后再扩展至其他国家或地区。但最终，苹果选择在全球 70 多",
      "source": "IT之家",
      "zh": "古尔曼：苹果明知 iPhone Duo 折叠屏手机供应不足，却坚持周五启动预售"
-    },
-    {
-     "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-     "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-     "pubDate": "Sun, 18 Oct 2026 15:00:40 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ Comments URL: https://news.ycombinator.com/item?id=50141681 Points: 84 # Comments: 103",
-     "source": "Hacker News",
-     "zh": "Will it be a golden age or a dark age for mathematics (and science)?"
     },
     {
      "title": "三星将采用台积电 3nm 工艺为英伟达生产下一代 HBM 基底裸片",
@@ -2010,6 +2010,22 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "What is the star button for on your Roku remote?",
+     "link": "https://www.engadget.com/2286582/roku-remote-star-button-what-for/",
+     "pubDate": "Sun, 18 Oct 2026 18:45:00 +0000",
+     "summary": "While the Roku remote doesn't have confusing colors or weird symbols, the star button can confuse some folks at first.",
+     "source": "Engadget",
+     "zh": "What is the star button for on your Roku remote?"
+    },
+    {
+     "title": "Here's how the Slate truck gets software updates without built-in infotainment",
+     "link": "https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates/",
+     "pubDate": "Sun, 18 Oct 2026 18:30:00 +0000",
+     "summary": "Basically, it's on you.",
+     "source": "Engadget",
+     "zh": "Here's how the Slate truck gets software updates without built-in infotainment"
+    },
+    {
      "title": "OnePlus 16 is official with 9,000mAh battery, Week 42 in review",
      "link": "https://www.gsmarena.com/oneplus_16_is_official_with_9000mah_battery_week_42_in_review-news-75092.php",
      "pubDate": "Sun, 18 Oct 2026 20:09:02 +0200",
@@ -2056,22 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "If you have trouble getting apps to scale properly on your foldable, read on.",
      "source": "Engadget",
      "zh": "How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8"
-    },
-    {
-     "title": "Flat Ethernet cables probably aren't the answer to your home networking problem",
-     "link": "https://www.engadget.com/2286349/flat-ethernet-cable-not-answer-home-networking-issues/",
-     "pubDate": "Sun, 18 Oct 2026 15:45:00 +0000",
-     "summary": "For the most reliable performance, round Ethernet cables are generally superior.",
-     "source": "Engadget",
-     "zh": "Flat Ethernet cables probably aren't the answer to your home networking problem"
-    },
-    {
-     "title": "The reason why your drive shows less storage than you paid for",
-     "link": "https://www.engadget.com/2286322/why-new-drive-shows-less-storage/",
-     "pubDate": "Sun, 18 Oct 2026 15:15:00 +0000",
-     "summary": "Despite showing the storage amount on the box or the spec sheet, your new device might not actually hold as much as it states. Here are the reasons why.",
-     "source": "Engadget",
-     "zh": "The reason why your drive shows less storage than you paid for"
     },
     {
      "title": "Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect",
@@ -2258,6 +2258,78 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "‘Street Fighter’ hits $31M in box office debut as moviegoing jumps 48%",
+     "link": "https://seekingalpha.com/news/4654074-street-fighter-hits-31m-in-box-office-debut-as-moviegoing-jumps-48?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 18 Oct 2026 14:35:15 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "‘Street Fighter’ hits $31M in box office debut as moviegoing jumps 48%"
+    },
+    {
+     "title": "胡塞武装称沙特24小时内发动110次袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899223735.html",
+     "pubDate": "Mon, 19 Oct 2026 02:30:51 +0800",
+     "summary": "也门胡塞武装发布声明，称过去24小时内沙特向也门首都萨那以及荷台达、塔伊兹、阿姆兰、哈杰、萨达、焦夫、达利阿和马里卜等省份，发动了110次空袭及导弹袭击，造成30多人死伤，其中大多数是妇女和儿童。自本轮局势升级以来，沙特针对也门的空袭及导弹袭击总数已达2652次。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "胡塞武装称沙特24小时内发动110次袭击"
+    },
+    {
+     "title": "St Petersburg endures biggest Ukrainian drone attack",
+     "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
+     "pubDate": "Sun, 18 Oct 2026 18:30:14 GMT",
+     "summary": "Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine",
+     "source": "Financial Times",
+     "zh": "St Petersburg endures biggest Ukrainian drone attack"
+    },
+    {
+     "title": "公 示",
+     "link": "http://www.eeo.com.cn/2026/1019/1069408.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:19 +0800",
+     "summary": "根据《新闻记者证管理办法》等相关规定，经我单位审核，现将拟申领新闻记者证人员名单予以公示，公示期2026年10月19日——2026年10月30日。 拟申领新闻记者证人员名单： 公示平台：证券日报网（网址：www.zqrb.cn） 监督举报电话： 《证券日...",
+     "source": "经济观察网",
+     "zh": "公 示"
+    },
+    {
+     "title": "前三季度全国铁路累计发送旅客37.1亿人次",
+     "link": "http://www.eeo.com.cn/2026/1019/1069407.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:13 +0800",
+     "summary": "《证券日报》记者10月18日从中国国家铁路集团有限公司（以下简称“国铁集团”）获悉，今年前三季度，国铁集团持续深化运输供给侧结构性改革，加强旅客运输组织，丰富客运产品供给，提升站车服务品质，全国铁路累计发送旅客37.1亿人次、同比增长4.8%，创历史同期新高，有力保障了旅客平安便捷温馨出行，为“流动的中国”注入了新活力。 具体来看，一方面，旅客运输能力持续提升。国铁集团统筹高速铁路和普速铁路资源，用好...",
+     "source": "经济观察网",
+     "zh": "前三季度全国铁路累计发送旅客37.1亿人次"
+    },
+    {
+     "title": "推动人工智能从能用到好用",
+     "link": "http://www.eeo.com.cn/2026/1019/1069406.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:13 +0800",
+     "summary": "■谢若琳 10月16日召开的国务院常务会议（以下简称“国常会”）提出，人工智能是影响未来发展的关键变量，要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发，注重以落地应用牵引技术创新，不断深化拓展“人工智能+”行动。 此前，6月29日召开的国常会曾提出，要深入实施“人工智能+”行动，发挥我国产业体系完备、应用场景丰富等优势，促进智能产品和服务加快规模化商业应用。 4个月内，两次国常...",
+     "source": "经济观察网",
+     "zh": "推动人工智能从能用到好用"
+    },
+    {
+     "title": "银行卡清算市场开放稳步推进",
+     "link": "http://www.eeo.com.cn/2026/1019/1069405.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:09 +0800",
+     "summary": "■刘琪 日前，中国人民银行公示，批准威士信息技术（北京）有限公司（以下简称“威士公司”）筹备银行卡清算机构。威士公司是维萨公司（Visa）在我国境内成立的企业法人，为外商独资企业。这意味着，Visa将成为继美国运通、万事达卡之后，第三家获准进入我国境内银行卡清算市场的国际卡组织。 所谓银行卡清算机构，是指在我国境内依法取得银行卡清算业务许可证，专门从事银行卡清算业务的企业法人。银行卡清算业务...",
+     "source": "经济观察网",
+     "zh": "银行卡清算市场开放稳步推进"
+    },
+    {
+     "title": "影院变身赛事“第二现场” “跟着电影去运动”解锁消费新场景",
+     "link": "http://www.eeo.com.cn/2026/1019/1069404.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:09 +0800",
+     "summary": "近日，国家电影局、国家体育总局联合印发《关于开展“跟着电影去运动”行动 推动电影与体育双向赋能的通知》（以下简称《通知》）。 在主要任务方面，《通知》提出，立足电影和体育各自产业特点、行业优势，推动电影与体育跨界合作，促进资源共享、优势互补，繁荣发展电影文化、体育文化，强化消费联动，创新服务供给，激发广大人民群众参与电影欣赏、体育运动的热情，丰富精神世界、促进身体健康、享受品质生活，不断满...",
+     "source": "经济观察网",
+     "zh": "影院变身赛事“第二现场” “跟着电影去运动”解锁消费新场景"
+    },
+    {
+     "title": "不能跳过“卖者尽责”谈“买者自负”",
+     "link": "http://www.eeo.com.cn/2026/1019/1069403.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:09 +0800",
+     "summary": "■孟珂 近日，最高人民法院、中国人民银行、国家金融监督管理总局、中国证券监督管理委员会联合发布六起金融消费者、投资者合法权益保护典型案例。其中一起私募基金纠纷案，再次为市场敲响警钟：金融机构必须恪守“卖者尽责”，严格落实适当性义务，一旦履职不到位，就要承担相应赔偿责任。 具体来看，该私募基金纠纷案要从2015年说起，彼时，某证券营业部负责人向杨某某等投资者推介兜售一款私募基金，对外宣称该...",
+     "source": "经济观察网",
+     "zh": "不能跳过“卖者尽责”谈“买者自负”"
+    },
+    {
      "title": "Anthropic计划将部分股份转入新型“公共利益”基金",
      "link": "http://finance.eastmoney.com/news/1354,202610193899223681.html",
      "pubDate": "Mon, 19 Oct 2026 02:10:16 +0800",
@@ -2304,14 +2376,6 @@ window.INDUSTRY_DATA = {
      "summary": "秋日午后，北京钟楼北广场上，一队外国旅行团沉浸于观赏民间艺人带来的二胡、花鼓表演，还观摩了八段锦、健身龙展示。一个多小时的活动里，二胡余音绕梁、健身龙行云流水，引得观众不时鼓掌。 多米尼克青年诺亚的目光紧紧追随着广场上舞动健身龙的老师傅，时不时拿出手机，记录民俗表演的精彩片段。“这就是旅行的意义，感受不同的风土人情、不同的文化。”诺亚对证券时报记者说。 近两年来，随着海外社交平台“China Travel（中国游）”热度持续升温，“二刷”“三刷”中国的外国游客越来越多，“重体验”的入境游消费新叙事正在展开。 需求迭代： 从逛地标到走进生活 马淑林是北京市非物质文化遗产花毽传承人之一，在北 京东",
      "source": "东方财富股票",
      "zh": "从“打卡中国”到“体验中国”：入境游持续升温 体验需求催生供给之变"
-    },
-    {
-     "title": "抱团退潮冲击公募净值 回撤修复可聚焦三大维度",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899218695.html",
-     "pubDate": "Mon, 19 Oct 2026 01:34:08 +0800",
-     "summary": "受海外多重因素扰动，9月下旬以来A股持续调整，不少主动权益基金年内回撤幅度明显加大。 证券时报基金研究院以2016年前成立的1500余只主动权益基金为统计样本，结果显示，年内约三成基金最大回撤创下近十年纪录；最大回撤幅度超过50%的“腰斩基”达17只，单只基金年内最深回撤达57.93%，回撤深度与深度回撤产品数量双双刷新近十年纪录。 值得关注的是，2026年主动权益基金回撤中位数为24.88%，仍略低于2018年和2022年水平。回撤中枢未创纪录、深度回撤产品却显著增多，表明本轮调整并非全面性下跌，而是科技板块极致抱团退潮所引发的结构性冲击。在此背景下，相关基金净值后续能否修复、投资者又当如何",
-     "source": "东方财富股票",
-     "zh": "抱团退潮冲击公募净值 回撤修复可聚焦三大维度"
     },
     {
      "title": "SocGen flags relative bargains in Treasuries as yields fall",
@@ -2386,28 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?"
     },
     {
-     "title": "Align Technology says European court finds Angelalign infringed patent",
-     "link": "https://seekingalpha.com/news/4654066-align-technology-says-european-court-finds-angelalign-infringed-patent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 18 Oct 2026 11:52:56 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Align Technology says European court finds Angelalign infringed patent"
-    },
-    {
      "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
      "pubDate": "Sun, 18 Oct 2026 15:15:00 GMT",
      "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
      "source": "MarketWatch",
      "zh": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?"
-    },
-    {
-     "title": "St Petersburg endures biggest Ukrainian drone attack",
-     "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
-     "pubDate": "Sun, 18 Oct 2026 15:14:55 GMT",
-     "summary": "Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine",
-     "source": "Financial Times",
-     "zh": "St Petersburg endures biggest Ukrainian drone attack"
     },
     {
      "title": "Trump’s bid to make America cheap again has failed",
@@ -2448,54 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "If you're considering a year-end Roth conversion for 2026, there are some key things to know, experts say.",
      "source": "CNBC",
      "zh": "Roth conversions: When the ‘juice isn&apos;t really worth the squeeze,’ according to a top-ranked advisor"
-    },
-    {
-     "title": "Boomers are buying into the promise of monthly income from options ETFs, but there&apos;s a tax catch",
-     "link": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
-     "pubDate": "Sun, 18 Oct 2026 13:10:33 GMT",
-     "summary": "Covered call ETFs have been widely adopted by baby boomers to meet monthly income needs, but unlike most ETFs, the tax implications can be significant.",
-     "source": "CNBC",
-     "zh": "Boomers are buying into the promise of monthly income from options ETFs, but there&apos;s a tax catch"
-    },
-    {
-     "title": "21评论｜“不放假”讨论的背后，平常心也是一种东道主姿态",
-     "link": "http://www.eeo.com.cn/2026/1018/1069364.shtml",
-     "pubDate": "Sun, 18 Oct 2026 20:52:14 +0800",
-     "summary": "文/孙昀、陈思琦 APEC会议临近，深圳“绿色出行、畅通有我”发布会举行后，市民和舆论反响总体积极正面。 与此同时，“深圳为什么不放假”成为社交媒体上的一个讨论话题。有人翻出北京APEC期间调休6天、上海APEC期间调休5天的旧例，对比之下，深圳只是倡导居家办公、带薪休假、错峰出行，地铁公交票价打五折，有人因此感到有些失望。 这种情绪值得被看见，但相关事实也需要被澄清：北京和上海当年做的，并不...",
-     "source": "经济观察网",
-     "zh": "21评论｜“不放假”讨论的背后，平常心也是一种东道主姿态"
-    },
-    {
-     "title": "多地推进服务业扩能提质",
-     "link": "http://www.eeo.com.cn/2026/1018/1069363.shtml",
-     "pubDate": "Sun, 18 Oct 2026 20:52:07 +0800",
-     "summary": "9月以来，福建省、浙江省、吉林省、湖北省、上海市等多地以召开专题会议、出台专项政策文件的方式，积极部署推进服务业发展相关工作。 例如，10月15日，福建省发展和改革委员会公开发布《福建省促进节能降碳服务业发展若干措施》，强调“积极培育引进节能降碳专业服务机构”，并进一步提出“推动优质节能降碳综合服务商落地发展，引导本土节能降碳服务企业延伸拓展服务范围和服务领域，强化碳核算、碳足迹认证、能效诊断...",
-     "source": "经济观察网",
-     "zh": "多地推进服务业扩能提质"
-    },
-    {
-     "title": "10月18日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202610183899168894.html",
-     "pubDate": "Sun, 18 Oct 2026 20:30:39 +0800",
-     "summary": "今日摘要 今天是重阳节。习近平总书记指出，让老年人老有所养、生活幸福、健康长寿是我们的共同愿望。落实总书记要求，我国加快推进养老事业多元化、多样化发展，用心用情做好养老服务，持续增进民生福祉。 李强同乌兹别克斯坦总理会谈，会见乌兹别克斯坦总统。 系列报道【赓续长征精神奋进复兴征程】今天来看：甘肃用好红色资源，凝聚奋进力量，走好新时代长征路。 国家社保公共服务平台已开通104项全国性、跨地区服务。 城镇供热“温暖工程”三年行动启动。 沿用多年的全国铁路车次编排迎来系统性变革。 也门胡塞武装称，击落沙特武装直升机。沙特主导的多国联军称，拦截多架 无人机 。 内容速览 【新思想引领新征程】绘就幸福“",
-     "source": "东方财富资讯",
-     "zh": "10月18日晚间央视新闻联播要闻集锦"
-    },
-    {
-     "title": "透视10月ETF资金局：谁在逆市扫货？谁在恐慌出逃？",
-     "link": "http://bond.eastmoney.com/news/1332,202610183899170979.html",
-     "pubDate": "Sun, 18 Oct 2026 20:28:00 +0800",
-     "summary": "10月以来，A股市场持续震荡，到本周（10月12日—16日）调整延续，核心指数悉数下跌，结构分化进一步加强，红利相对抗跌，科技成长方向跌幅居前。 从归因上来看，这一轮调整主要有两个因素扰动： 一是海外。美国通胀数据超预期，加息预期升温，长端美债利率维持在高位，油价受地缘因素扰动走强，海外科技股波动向亚太市场传导。 二是国内资金端出现变量。当前市场缺乏增量资金，以存量博弈为主，前期科技板块持仓与交易拥挤度偏高。在外部扰动叠加三季报验证窗口临近的背景下，杠杆资金与机构资金同步降杠杆、兑现收益，ETF等被动资金虽有承接但体量有限，交易层面形成负反馈，放大了调整幅度。 截至10月16日，各大核心宽基指",
-     "source": "东方财富资讯",
-     "zh": "透视10月ETF资金局：谁在逆市扫货？谁在恐慌出逃？"
-    },
-    {
-     "title": "下周分红1665亿元 股息率最高9.23% 红包雨来了",
-     "link": "http://finance.eastmoney.com/news/1354,202610183899169281.html",
-     "pubDate": "Sun, 18 Oct 2026 20:20:16 +0800",
-     "summary": "A股 行业龙头 2026年半年度现金分红下周集中落地。 记者统计显示，股权登记日处于10月19日至10月23日，共有99家上市公司实施现金分红，累计分红规模约1665亿元。其中， 工商银行 、 农业银行 将于10月21日向A股股东派发中期现金红利，合计约821亿元。 行业龙头 集中分红 工商银行 2026年半年度每股派发现金股息0.1511元（含税），本次派发现金股息共计约538.53亿元，其中派发A股现金股息共计约407.38亿元； 农业银行 每股派发中期现金红利0.1297元（含税），共计派发现金红利约453.93亿元，其中派发A股现金红利共约414.06亿元。两股股权登记日均为10月20",
-     "source": "东方财富资讯",
-     "zh": "下周分红1665亿元 股息率最高9.23% 红包雨来了"
     }
    ]
   },

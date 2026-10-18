@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/19 01:39:45",
+ "generated_at": "2026/10/19 02:14:11",
  "recent_days": 7,
  "industries": [
   {
@@ -1097,6 +1097,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Diasome’s HDV-Insulin for T1D Finalizing Phase III Plans After Promising Data",
+     "link": "https://www.genengnews.com/topics/translational-medicine/diasomes-hdv-insulin-for-t1d-finalizing-phase-iii-plans-after-promising-data/",
+     "pubDate": "Sun, 18 Oct 2026 17:47:57 +0000",
+     "summary": "HDV is intended to address the difficulty of insulin, GLP-1, or other molecules traveling to the liver when injected subcutaneously, due to the large number of receptors in peripheral tissue such as fat cells and muscle cells. The post Diasome’s HDV-Insulin for T1D Finalizing Phase III Plans After P",
+     "source": "GEN",
+     "zh": "Diasome’s HDV-Insulin for T1D Finalizing Phase III Plans After Promising Data"
+    },
+    {
      "title": "A search for ‘the statin of Alzheimer’s’; Arrowhead injectable lowers tau; and more",
      "link": "https://endpoints.news/a-search-for-the-statin-of-alzheimers-arrowhead-injectable-lowers-tau-and-more/",
      "pubDate": "Sat, 17 Oct 2026 10:00:16 +0000",
@@ -1263,14 +1271,6 @@
      "summary": "The Series A round, which was led by RA Capital, will help fund the development of two genetic medicines designed to treat an inherited kidney disorder known as \"ADPKD.\"",
      "source": "BioPharma Dive",
      "zh": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy"
-    },
-    {
-     "title": "Proteomics Reveals Ovarian Remodeling Decades After Menopause",
-     "link": "https://www.genengnews.com/topics/omics/proteomics-reveals-ovarian-remodeling-decades-after-menopause/",
-     "pubDate": "Thu, 15 Oct 2026 22:16:35 +0000",
-     "summary": "5,812 protein groups were quantified in postmenopausal ovaries, uncovering molecular shifts associated with inflammation, immunity, and extracellular matrix remodeling. The post Proteomics Reveals Ovarian Remodeling Decades After Menopause appeared first on GEN - Genetic Engineering and Biotechnolog",
-     "source": "GEN",
-     "zh": "Proteomics Reveals Ovarian Remodeling Decades After Menopause"
     },
     {
      "title": "Belgian startup revives Galapagos CAR-T research",
@@ -1761,10 +1761,42 @@
    "total": 18,
    "items": [
     {
+     "title": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&apos;s 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
+     "link": "https://www.techmeme.com/261018/p9#a261018p9",
+     "pubDate": "Sun, 18 Oct 2026 14:10:01 -0400",
+     "summary": "Kyu-Seok Shim / Reuters : Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC &nbsp; &mdash;&nbsp; Samsung Electronics (005930.KS) will use TSMC's (2330.TW) 3-nanometre process to produce base ",
+     "source": "Techmeme",
+     "zh": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&apos;s 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)"
+    },
+    {
+     "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+     "link": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+     "pubDate": "Sun, 18 Oct 2026 17:27:30 +0000",
+     "summary": "Article URL: https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/ Comments URL: https://news.ycombinator.com/item?id=50143218 Points: 62 # Comments: 69",
+     "source": "Hacker News",
+     "zh": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled"
+    },
+    {
+     "title": "Mitos editor is a fork of Helix",
+     "link": "https://mitos.computer/",
+     "pubDate": "Sun, 18 Oct 2026 17:19:34 +0000",
+     "summary": "Article URL: https://mitos.computer/ Comments URL: https://news.ycombinator.com/item?id=50143132 Points: 7 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Mitos editor is a fork of Helix"
+    },
+    {
+     "title": "Namecheap just seized and disabled all my domains",
+     "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+     "pubDate": "Sun, 18 Oct 2026 16:56:56 +0000",
+     "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 22 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Namecheap just seized and disabled all my domains"
+    },
+    {
      "title": "Someone Behind the Software",
      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
      "pubDate": "Sun, 18 Oct 2026 16:32:00 +0000",
-     "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 23 # Comments: 5",
+     "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 55 # Comments: 19",
      "source": "Hacker News",
      "zh": "Someone Behind the Software"
     },
@@ -1788,7 +1820,7 @@
      "title": "The Intel 8087 chip: floating-point addition and subtraction",
      "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
      "pubDate": "Sun, 18 Oct 2026 16:20:27 +0000",
-     "summary": "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 18 # Comments: 3",
+     "summary": "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 35 # Comments: 5",
      "source": "Hacker News",
      "zh": "The Intel 8087 chip: floating-point addition and subtraction"
     },
@@ -1844,7 +1876,7 @@
      "title": "macOS 15.8.2 Breaks OpenGL",
      "link": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
      "pubDate": "Sun, 18 Oct 2026 15:26:06 +0000",
-     "summary": "Article URL: https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550 Comments URL: https://news.ycombinator.com/item?id=50141909 Points: 164 # Comments: 116",
+     "summary": "Article URL: https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550 Comments URL: https://news.ycombinator.com/item?id=50141909 Points: 185 # Comments: 168",
      "source": "Hacker News",
      "zh": "macOS 15.8.2 Breaks OpenGL"
     },
@@ -1889,36 +1921,12 @@
      "zh": "古尔曼：苹果明知 iPhone Duo 折叠屏手机供应不足，却坚持周五启动预售"
     },
     {
-     "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-     "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-     "pubDate": "Sun, 18 Oct 2026 15:00:40 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ Comments URL: https://news.ycombinator.com/item?id=50141681 Points: 71 # Comments: 88",
-     "source": "Hacker News",
-     "zh": "Will it be a golden age or a dark age for mathematics (and science)?"
-    },
-    {
-     "title": "Websites are closing their doors to AI agents",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-     "pubDate": "Sun, 18 Oct 2026 14:58:10 +0000",
-     "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 105 # Comments: 85",
-     "source": "Hacker News",
-     "zh": "Websites are closing their doors to AI agents"
-    },
-    {
      "title": "三星将采用台积电 3nm 工艺为英伟达生产下一代 HBM 基底裸片",
      "link": "https://www.ithome.com/1/014/612.htm",
      "pubDate": "Sun, 18 Oct 2026 14:51:53 GMT",
      "summary": "IT之家 10 月 18 日消息，据首尔经济日报今日报道，三星电子将采用全球最大晶圆代工厂台积电的制造工艺，生产英伟达下一代定制高带宽内存（HBM）的核心组件 —— 基底裸片（base die）。在此之前，三星供应的所有 HBM 产品中，作为存储芯片的核心裸片（core die）与充当系统半导体的基底裸片，均由三星自主生产。如今三星决定接受英伟达的技术要求， 调整 HBM 的一站式全包制造模式 。 业内消息人士 18 日称，英伟达已向三家 NVHBM 供应商 —— 三星电子、SK 海力士（ 000660.KS ）和美光提出要求：使用台积电 3 纳米工艺制造基底裸片。英伟达同时要求，核心裸片统一",
      "source": "IT之家",
      "zh": "三星将采用台积电 3nm 工艺为英伟达生产下一代 HBM 基底裸片"
-    },
-    {
-     "title": "Java sealed classes and exhaustive pattern matching",
-     "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-     "pubDate": "Sun, 18 Oct 2026 14:47:37 +0000",
-     "summary": "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 44 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "Java sealed classes and exhaustive pattern matching"
     },
     {
      "title": "退休教授因阻止 Uber Eats 机器人送货被捕",
@@ -1991,14 +1999,6 @@
      "summary": "DeepSeek成立产品部，是想要把1.30亿免费用户变成一份招股书里讲得清楚的变现路线图。",
      "source": "钛媒体",
      "zh": "DeepSeek成立产品部！1.3亿人免费用的AI，变现模式会参考ChatGPT订阅吗？"
-    },
-    {
-     "title": "An interview with Apple&apos;s new VP of the App Store, Carson Oliver, on Apple&apos;s gaming vision, Apple Arcade, providing tools for indie game developers, and more (Giovanni Colantonio/Polygon)",
-     "link": "https://www.techmeme.com/261018/p7#a261018p7",
-     "pubDate": "Sun, 18 Oct 2026 07:15:00 -0400",
-     "summary": "Giovanni Colantonio / Polygon : An interview with Apple's new VP of the App Store, Carson Oliver, on Apple's gaming vision, Apple Arcade, providing tools for indie game developers, and more &nbsp; &mdash;&nbsp; Back when Apple Arcade launched in 2019, there was a resounding belief among gamers that ",
-     "source": "Techmeme",
-     "zh": "An interview with Apple&apos;s new VP of the App Store, Carson Oliver, on Apple&apos;s gaming vision, Apple Arcade, providing tools for indie game developers, and more (Giovanni Colantonio/Polygon)"
     }
    ]
   },
@@ -2008,6 +2008,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
+     "link": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/",
+     "pubDate": "Sun, 18 Oct 2026 18:00:00 +0000",
+     "summary": "Apple's iPhone Duo likely forecasts a shift in the market toward foldables becoming more common. But it took a while to get here.",
+     "source": "Engadget",
+     "zh": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved"
+    },
+    {
+     "title": "Apple Watch Series 12 is excellent, but I find myself missing this one software feature",
+     "link": "https://9to5mac.com/2026/10/18/apple-redesigned-health-app-one-suggestion-series-12/",
+     "pubDate": "Sun, 18 Oct 2026 17:56:43 +0000",
+     "summary": "Apple Watch Series 12 has been a marvel of an upgrade, at least for me. I’ve written about it WHOOP. That said, in my past month testing it, there’s one WHOOP feature I’ve found myself missing. more…",
+     "source": "9to5Mac",
+     "zh": "Apple Watch Series 12 is excellent, but I find myself missing this one software feature"
+    },
     {
      "title": "Should you limit your FPS in games? Here's when it makes sense",
      "link": "https://www.engadget.com/2286478/limit-frames-per-second-gaming-when-makes-sense/",
@@ -2055,14 +2071,6 @@
      "summary": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be releasing its first touchscreen MacBook as early as November 6th, after announcing it as early as October 27th . more…",
      "source": "9to5Mac",
      "zh": "Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect"
-    },
-    {
-     "title": "iOS 27's new CarPlay features are great, but only these iPhones can actually use them",
-     "link": "https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones/",
-     "pubDate": "Sun, 18 Oct 2026 14:45:00 +0000",
-     "summary": "With the release of iOS 27, car owners with CarPlay support can enjoy lots of cool new features. However, not all iPhone models are able to support them all.",
-     "source": "Engadget",
-     "zh": "iOS 27's new CarPlay features are great, but only these iPhones can actually use them"
     },
     {
      "title": "Apple iPhone 18 Pro vs. iPhone 17 Pro",
@@ -2209,14 +2217,6 @@
      "zh": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling"
     },
     {
-     "title": "EE announces iPhone Handoff pricing details for UK customers",
-     "link": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/",
-     "pubDate": "Sat, 17 Oct 2026 15:54:02 +0000",
-     "summary": "As part of its iPhone Duo preorder announcement, UK carrier EE has announced pricing details for iPhone Handoff – making it the first carrier in the UK to do so. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "EE announces iPhone Handoff pricing details for UK customers"
-    },
-    {
      "title": "Walmart’s $60 Google TV streamer might be the only good deal left in streaming",
      "link": "https://9to5google.com/2026/10/17/walmart-onn-4k-pro-google-tv-review/",
      "pubDate": "Sat, 17 Oct 2026 14:05:00 +0000",
@@ -2257,28 +2257,60 @@
    "total": 13,
    "items": [
     {
-     "title": "海外硬件龙头“交卷” QDII基金投资迎来业绩检验",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899216638.html",
-     "pubDate": "Mon, 19 Oct 2026 01:29:23 +0800",
-     "summary": "近期， 阿斯麦 、 台积电 相继披露三季度业绩，多只QDII基金对海外科技硬件的配置效果受到关注。随着更多厂商即将“交卷”，AI需求能否持续转化为订单与利润，成为基金审视相关投资的重要依据。 业内人士认为，除当期业绩外，资本开支指引、 AI应用 商业化进展及盈利持续性，也是判断后续投资机会的关键。 QDII 基金重仓 股陆续“交卷” 海外科技企业财报季拉开帷幕，部分QDII基金的重仓标的率先交出成绩单。北京时间10月14日至15日， 阿斯麦 、 台积电 相继披露三季度业绩、收入增长及后续需求展望，为基金经理审视AI硬件投资提供了新的依据。 阿斯麦 2026年三季度收入达116.62亿欧元，净利",
+     "title": "时报数说 | 前三季度全国铁路发送旅客超37亿人次",
+     "link": "http://finance.eastmoney.com/news/1350,202610193899221126.html",
+     "pubDate": "Mon, 19 Oct 2026 01:57:29 +0800",
+     "summary": "（据新华社电） （文章来源：证券时报）",
      "source": "东方财富股票",
-     "zh": "海外硬件龙头“交卷” QDII基金投资迎来业绩检验"
+     "zh": "时报数说 | 前三季度全国铁路发送旅客超37亿人次"
     },
     {
-     "title": "多家A股公司发布 回购增持计划",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899216530.html",
-     "pubDate": "Mon, 19 Oct 2026 01:29:22 +0800",
-     "summary": "上周末，A股多家上市公司集中披露回购、增持相关公告。据记者不完全统计，自10月16日晚间至18日晚间，共有超过30家沪市主板公司发布相关公告。其中：至少有6家公司推出股份回购预案，1家公司发布股东增持计划，这些公司主要集中在 半导体 、 电子 材料等科技赛道；另有一批上市公司披露股份回购或股东增持的实施进展情况。 宣布回购新计划的公司中，包括 海光信息 、 生益科技 、 中科曙光 、 澜起科技 等多家市值超千亿的科技公司。 海光信息 公告称，公司董事长历军提议以公司自有资金通过集中竞价交易方式进行股份回购，用于员工持股计划或 股权激励 ，回购股份的资金总额不低于5亿元、不超过8亿元。 中科曙光",
+     "title": "俄称打击乌军用设施 乌称袭击俄石油码头",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899219731.html",
+     "pubDate": "Mon, 19 Oct 2026 01:42:42 +0800",
+     "summary": "俄罗斯国防部18日发布战报称，过去24小时，俄军打击了乌军的交通基础设施、军事技术物资仓库、 无人机 组装车间、储存和发射点等。俄国防部表示，俄军当天还精准打击了一艘大型干货船，并在黑海水域摧毁一艘敌方无人艇。同一天，圣彼得堡市市长别格洛夫说，该市遭大规模 无人机 袭击，已造成1人死亡，5人受伤。 乌空军18日表示，从17日18时至18日8时，已击落或压制152架俄军 无人机 。乌防务企业“燃点”公司18日表示，乌军使用无人机袭击了俄圣彼得堡市的石油码头、一处油库和一个 数据中心 ，油库和码头区域发生火灾， 数据中心 遭到严重破坏。此外，乌总统泽连斯基18日称，俄军17日晚对文尼察州、日托米尔",
      "source": "东方财富股票",
-     "zh": "多家A股公司发布 回购增持计划"
+     "zh": "俄称打击乌军用设施 乌称袭击俄石油码头"
     },
     {
-     "title": "三菱重工计划重启位于日本西部的造船生产线",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899216435.html",
-     "pubDate": "Mon, 19 Oct 2026 01:22:52 +0800",
-     "summary": "三菱重工计划重启位于日本西部的造船生产线。 （文章来源：财联社）",
+     "title": "Wall Street sees warning signs of an AI bubble, but valuations tell different story",
+     "link": "https://seekingalpha.com/news/4654072-wall-street-sees-warning-signs-of-an-ai-bubble-but-valuations-tell-different-story?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 18 Oct 2026 13:40:46 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Wall Street sees warning signs of an AI bubble, but valuations tell different story"
+    },
+    {
+     "title": "从“打卡中国”到“体验中国”：入境游持续升温 体验需求催生供给之变",
+     "link": "http://finance.eastmoney.com/news/1355,202610193899218064.html",
+     "pubDate": "Mon, 19 Oct 2026 01:34:26 +0800",
+     "summary": "秋日午后，北京钟楼北广场上，一队外国旅行团沉浸于观赏民间艺人带来的二胡、花鼓表演，还观摩了八段锦、健身龙展示。一个多小时的活动里，二胡余音绕梁、健身龙行云流水，引得观众不时鼓掌。 多米尼克青年诺亚的目光紧紧追随着广场上舞动健身龙的老师傅，时不时拿出手机，记录民俗表演的精彩片段。“这就是旅行的意义，感受不同的风土人情、不同的文化。”诺亚对证券时报记者说。 近两年来，随着海外社交平台“China Travel（中国游）”热度持续升温，“二刷”“三刷”中国的外国游客越来越多，“重体验”的入境游消费新叙事正在展开。 需求迭代： 从逛地标到走进生活 马淑林是北京市非物质文化遗产花毽传承人之一，在北 京东",
      "source": "东方财富股票",
-     "zh": "三菱重工计划重启位于日本西部的造船生产线"
+     "zh": "从“打卡中国”到“体验中国”：入境游持续升温 体验需求催生供给之变"
+    },
+    {
+     "title": "两大约束“红线”松绑 基金“长不大”难题迎转机",
+     "link": "http://stock.eastmoney.com/news/1426,202610193899218159.html",
+     "pubDate": "Mon, 19 Oct 2026 01:34:12 +0800",
+     "summary": "10月16日，永赢基金、广发基金、招商基金、华宝基金旗下新发ETF同日公告延长募集期。受市场行情波动影响，新产品要达到2亿元的基金成立门槛，募集周期被拉长。公募新发产品扎堆延长募集的情形在此前并不常见，其背后或许折射出基金公司对待新发基金的心态正在转变。 证监会近日发布了《公开募集证券投资基金运作管理办法（征求意见稿）》（下称《征求意见稿》），下调股票基金成立门槛并取消发起式基金“三年”清盘规定，这给很多基金产品解决“长不大”的难题带来转机。 证券时报记者统计的数据显示，2023年以来“踩线”成立的基金占比和发起式基金的清盘数量占比均在显著提升。特别是2026年以来，股票ETF“踩线”成立比例",
+     "source": "东方财富股票",
+     "zh": "两大约束“红线”松绑 基金“长不大”难题迎转机"
+    },
+    {
+     "title": "抱团退潮冲击公募净值 回撤修复可聚焦三大维度",
+     "link": "http://finance.eastmoney.com/news/1354,202610193899218695.html",
+     "pubDate": "Mon, 19 Oct 2026 01:34:08 +0800",
+     "summary": "受海外多重因素扰动，9月下旬以来A股持续调整，不少主动权益基金年内回撤幅度明显加大。 证券时报基金研究院以2016年前成立的1500余只主动权益基金为统计样本，结果显示，年内约三成基金最大回撤创下近十年纪录；最大回撤幅度超过50%的“腰斩基”达17只，单只基金年内最深回撤达57.93%，回撤深度与深度回撤产品数量双双刷新近十年纪录。 值得关注的是，2026年主动权益基金回撤中位数为24.88%，仍略低于2018年和2022年水平。回撤中枢未创纪录、深度回撤产品却显著增多，表明本轮调整并非全面性下跌，而是科技板块极致抱团退潮所引发的结构性冲击。在此背景下，相关基金净值后续能否修复、投资者又当如何",
+     "source": "东方财富股票",
+     "zh": "抱团退潮冲击公募净值 回撤修复可聚焦三大维度"
+    },
+    {
+     "title": "AI赋能传统医学进入快速发展期",
+     "link": "http://finance.eastmoney.com/news/1360,202610193899218892.html",
+     "pubDate": "Mon, 19 Oct 2026 01:34:00 +0800",
+     "summary": "10月18日，在2026世界传统医药大会上，《 人工智能 赋能全球传统医学发展报告（2026）》发布。报告认为， 人工智能 赋能传统医学已进入快速发展期。 报告显示，在 人工智能 赋能传统医学领域，2000年以来全球公开相关专利达3030项，中国以80.4%的公开量和84.2%的授权量稳居首位；相关论文产出方面，1990年至今全球发表的SCI文献中，中国贡献了约47%。 智能四诊仪推动诊断信息客观化与标准化，AI通过 数字孪生 机器人 等助力优质医疗资源下沉，AI辅助活体成像为经络提供现代科学观测证据……报告显示，人工智能正逐步应用于传统医学的多个环节，为破解传统医学传承难、阐释难、标准化难等",
+     "source": "东方财富股票",
+     "zh": "AI赋能传统医学进入快速发展期"
     },
     {
      "title": "SocGen flags relative bargains in Treasuries as yields fall",
@@ -2289,28 +2321,12 @@
      "zh": "SocGen flags relative bargains in Treasuries as yields fall"
     },
     {
-     "title": "伊拉克外长：正推动伊朗与海湾国家举行会谈",
-     "link": "http://finance.eastmoney.com/news/1351,202610193899216336.html",
-     "pubDate": "Mon, 19 Oct 2026 01:00:08 +0800",
-     "summary": "伊斯兰合作组织外长理事会第52次会议18日在伊拉克首都巴格达闭幕。伊拉克副总理兼外交部长侯赛因当天宣布，会议已通过《巴格达宣言》。他同时表示，伊拉克正与伊朗及海湾国家保持沟通，努力促成有关各方在巴格达举行会晤。 侯赛因在会议闭幕后举行的新闻发布会上表示，巴勒斯坦问题是会议议程中的首要议题。会议还讨论了地区安全、人道主义局势、经济合作以及粮食和水安全等问题。 谈及地区局势，侯赛因表示，伊拉克目前正同伊朗及海湾国家开展沟通，寻求协调各方立场，并致力于在巴格达促成伊朗与海湾国家之间的会晤。 伊斯兰合作组织秘书长伊斯梅尔·乌尔德·谢赫·艾哈迈德表示，该组织将与伊拉克合作，跟进本届会议各项决定的落实情况",
-     "source": "东方财富股票",
-     "zh": "伊拉克外长：正推动伊朗与海湾国家举行会谈"
-    },
-    {
      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
      "pubDate": "Sun, 18 Oct 2026 17:00:00 GMT",
      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
      "source": "MarketWatch",
      "zh": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?"
-    },
-    {
-     "title": "加拿大总理：军事基地火灾致4名军人死亡 数十人重伤",
-     "link": "http://finance.eastmoney.com/news/11790,202610193899215940.html",
-     "pubDate": "Mon, 19 Oct 2026 00:50:18 +0800",
-     "summary": "加拿大总理卡尼当地时间10月18日中午发表讲话确认，加拿大艾伯塔省一处军事基地发生火灾，4名军人死亡，另有数十人受重伤。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "加拿大总理：军事基地火灾致4名军人死亡 数十人重伤"
     },
     {
      "title": "Bessent warns Zelenskyy to &apos;be very careful&apos; about claims U.S. is throttling Starlink",
@@ -2375,14 +2391,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Align Technology says European court finds Angelalign infringed patent"
-    },
-    {
-     "title": "Goldman Sachs sees room for stocks to rise, warns not to chase market leaders",
-     "link": "https://seekingalpha.com/news/4654065-goldman-sachs-sees-room-for-stocks-to-rise-warns-not-to-chase-market-leaders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 18 Oct 2026 11:29:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Goldman Sachs sees room for stocks to rise, warns not to chase market leaders"
     },
     {
      "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
@@ -2487,14 +2495,6 @@
      "summary": "A股 行业龙头 2026年半年度现金分红下周集中落地。 记者统计显示，股权登记日处于10月19日至10月23日，共有99家上市公司实施现金分红，累计分红规模约1665亿元。其中， 工商银行 、 农业银行 将于10月21日向A股股东派发中期现金红利，合计约821亿元。 行业龙头 集中分红 工商银行 2026年半年度每股派发现金股息0.1511元（含税），本次派发现金股息共计约538.53亿元，其中派发A股现金股息共计约407.38亿元； 农业银行 每股派发中期现金红利0.1297元（含税），共计派发现金红利约453.93亿元，其中派发A股现金红利共约414.06亿元。两股股权登记日均为10月20",
      "source": "东方财富资讯",
      "zh": "下周分红1665亿元 股息率最高9.23% 红包雨来了"
-    },
-    {
-     "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-     "link": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
-     "pubDate": "Sun, 18 Oct 2026 12:00:01 GMT",
-     "summary": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
-     "source": "CNBC",
-     "zh": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy"
     }
    ]
   },

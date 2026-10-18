@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/19 07:23:19",
+ "generated_at": "2026/10/19 07:33:36",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Nanoelectromechanical Switches Target More Efficient Embedded DRAM (UC Berkeley, Samsung, Intel)",
+     "link": "https://semiengineering.com/nanoelectromechanical-switches-target-more-efficient-embedded-dram-uc-berkeley-samsung-intel/",
+     "pubDate": "Sun, 18 Oct 2026 23:28:31 +0000",
+     "summary": "Researchers at the UC Berkeley, Samsung Electronics, and Intel published “Nanoelectromechanically Gated Gain Cell eDRAM.” Abstract Excerpt: “The memory wall and the slowdown of static random access memory (SRAM) scaling have renewed interest in gain-cell embedded dynamic random access memory (DRAM).",
+     "source": "Semiconductor Engineering",
+     "zh": "Nanoelectromechanical Switches Target More Efficient Embedded DRAM (UC Berkeley, Samsung, Intel)"
+    },
+    {
      "title": "A Composable Thermal Solver For Heterogeneous 2.5D/3D-IC Packages (Cadence, Notre Dame)",
      "link": "https://semiengineering.com/a-composable-thermal-solver-for-heterogeneous-2-5d-3d-ic-packages-cadence-notre-dame/",
      "pubDate": "Sun, 18 Oct 2026 22:51:32 +0000",
@@ -353,14 +361,6 @@
      "zh": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development"
     },
     {
-     "title": "Power Integrations and Ideal Power collaborate on efficient, always-on solid-state circuit breakers",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/powerintegrations-161026.shtml",
-     "pubDate": "Fri, 16 Oct 2026 16:33:21 +0100",
-     "summary": "Power Integrations Inc of San Jose, CA, USA (which provides high-voltage integrated circuits for energy-efficient power conversion) and Ideal Power Inc (developer and provider of the B-TRAN bidirectional semiconductor power switch) are collaborating to deliver a solid-state circuit breaker (SSCB) so",
-     "source": "Semiconductor Today",
-     "zh": "Power Integrations and Ideal Power collaborate on efficient, always-on solid-state circuit breakers"
-    },
-    {
      "title": "TSMC’s AI Expansion Signals a Broader Shift in Computing",
      "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/374950-tsmcs-ai-expansion-signals-a-broader-shift-in-computing/",
      "pubDate": "Fri, 16 Oct 2026 15:00:31 +0000",
@@ -383,14 +383,6 @@
      "summary": "Microchip is expanding its space power Portfolio with the POL-05-20S, a radiation-tolerant GaN point-of-load converter that delivers up to 20A of output current. Measuring 1.51” x 1.51” x 0.45” in […] The post Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter appeared first on E",
      "source": "Electronics Weekly",
      "zh": "Microchip POL-05-20S is radiation-tolerant GaN point-of-load converter"
-    },
-    {
-     "title": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/omdia-161026.shtml",
-     "pubDate": "Fri, 16 Oct 2026 14:52:30 +0100",
-     "summary": "According to market research firm Omdia’s preliminary estimates, global smartphone shipments fell 20% year-on-year in third-quarter 2026, a sharp acceleration from the 6% decline recorded the previous quarter. Shipments also declined sequentially despite new flagship launches and channel preparation",
-     "source": "Semiconductor Today",
-     "zh": "Smartphone shipments shrink 20% in Q3/2026 as memory crisis reshapes competition"
     },
     {
      "title": "What caught your eye? Arm vs Qualcomm, AI boom, ADR mission",
@@ -449,22 +441,6 @@
      "zh": "Raltron monolithic crystal filter series for gateway ground stations"
     },
     {
-     "title": "GlobalFoundries’ CHIPS Program award amended to support $5bn investment in Malta, NY, and Burlington, VT",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/globalfoundries-161026.shtml",
-     "pubDate": "Fri, 16 Oct 2026 10:03:49 +0100",
-     "summary": "The Department of Commerce’s CHIPS Program Office has agreed with GlobalFoundries of Malta, NY (the only US-based pure-play foundry with a global manufacturing footprint) to amend its existing award and reallocate up to $955m in incentives under the US CHIPS and Science Act...",
-     "source": "Semiconductor Today",
-     "zh": "GlobalFoundries’ CHIPS Program award amended to support $5bn investment in Malta, NY, and Burlington, VT"
-    },
-    {
-     "title": "Infineon and Wolfspeed expand and extend long-term SiC wafer supply agreement to 200mm",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/wolfspeed-infineon-161026.shtml",
-     "pubDate": "Fri, 16 Oct 2026 09:57:57 +0100",
-     "summary": "A new multi-year agreement has been signed that transitions the existing long-term supply by Wolfspeed Inc of Durham, NC, USA of silicon carbide (SiC) substrates to Infineon Technologies AG of Munich, Germany from 150mm-diameter to 200mm-diameter wafers...",
-     "source": "Semiconductor Today",
-     "zh": "Infineon and Wolfspeed expand and extend long-term SiC wafer supply agreement to 200mm"
-    },
-    {
      "title": "Your Chip Works. Prove It Is Secure.",
      "link": "https://www.eetimes.com/your-chip-works-prove-it-is-secure/",
      "pubDate": "Fri, 16 Oct 2026 08:37:49 +0000",
@@ -495,6 +471,30 @@
      "summary": "Japan’s $21B offer to GlobalFoundries would add two New York fabs and lift U.S. chip capacity 10%; see why analysts warn on state support. The post Japan Offers GlobalFoundries $21B for U.S. Fab Expansion appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion"
+    },
+    {
+     "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+     "link": "https://spectrum.ieee.org/monazite-rare-earth",
+     "pubDate": "Thu, 15 Oct 2026 14:53:02 +0000",
+     "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe ",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Can a Radioactive Ore Break China’s Grip on Rare Earths?"
+    },
+    {
+     "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+     "link": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
+     "pubDate": "Thu, 15 Oct 2026 07:07:45 +0000",
+     "summary": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself. The post Beyond The Specification: What Really Determines PCIe Retimer Reach? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Beyond The Specification: What Really Determines PCIe Retimer Reach?"
+    },
+    {
+     "title": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
+     "link": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/",
+     "pubDate": "Thu, 15 Oct 2026 07:06:02 +0000",
+     "summary": "Short-resilient via insertion improves reliability and performance. The post Strengthening Advanced-Node Interconnects Through Automated Via Insertion appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion"
     }
    ]
   },
@@ -1073,20 +1073,20 @@
      "zh": "Germany Roundup: Enertrag, Enlight, Vattenfall, Fluence, Giga Storage progress 4-hour batteries totalling 3.2GWh to construction"
     },
     {
+     "title": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
+     "link": "https://www.utilitydive.com/news/nexteras-4m-trump-ballroom-donation-muddies-debate-over-dominion-merger/833201/",
+     "pubDate": "Fri, 16 Oct 2026 06:28:17 -0400",
+     "summary": "The donation, which advocates called &ldquo;problematic&rdquo; and &ldquo;convenient&rdquo; for the company, comes to light as federal regulators chosen by President Donald Trump consider whether to allow NextEra to merge with Dominion Energy.",
+     "source": "Utility Dive",
+     "zh": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say"
+    },
+    {
      "title": "GES secures US$252 million EPC contracts for four Spanish solar PV projects",
      "link": "https://www.pv-tech.org/ges-secures-us252-million-epc-contracts-four-spanish-solar-pv-projects/",
      "pubDate": "Fri, 16 Oct 2026 09:31:23 +0000",
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
      "zh": "GES secures US$252 million EPC contracts for four Spanish solar PV projects"
-    },
-    {
-     "title": "US clean energy jobs fell in 2025 for the first time in years",
-     "link": "https://www.canarymedia.com/articles/clean-energy-jobs/trump-us-employment-falls-data-2025",
-     "pubDate": "Fri, 16 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Clean energy installations have persisted at record levels despite President Donald Trump’s best efforts to stop them. But the first year of Trump’s second term did leave a mark on U.S. jobs in the sector. Clean energy jobs fell in 2025 afte",
-     "source": "Canary Media",
-     "zh": "US clean energy jobs fell in 2025 for the first time in years"
     }
    ]
   },
@@ -1761,6 +1761,22 @@
    "total": 18,
    "items": [
     {
+     "title": "小米 SU9 LUX 商标进入初审公告阶段，新车或瞄准行政豪华旗舰市场",
+     "link": "https://www.ithome.com/1/014/626.htm",
+     "pubDate": "Sun, 18 Oct 2026 23:29:07 GMT",
+     "summary": "IT之家 10 月 19 日消息，第 1986 期商标公告显示， 小米 SU9 LUX 商标已进入初步审定阶段 ，异议期限自 2026 年 06 月 07 日至 2026 年 09 月 06 日止。 据多位博主分享，小米 SU9 LUX 就是此前曝光的小米 SU7L 车型， 有望瞄准行政豪华旗舰市场 。 参考IT之家此前报道，小米 SU7L 长轴轿车此前已多次曝光。消息源 @Hanschen2007 于 8 &nbsp;月 24 日展示了一款正在进行路测的神秘小米伪装车。相对于标准版 SU7，该车明显看起来相对更长， 有望为长轴距版小米 SU7 车型 （“小米 SU7L”），旨在提升第二排空间",
+     "source": "IT之家",
+     "zh": "小米 SU9 LUX 商标进入初审公告阶段，新车或瞄准行政豪华旗舰市场"
+    },
+    {
+     "title": "AI 系统 RFdiffusion3 能从原子层面设计蛋白质，可在实验中实现预期功能",
+     "link": "https://www.ithome.com/1/014/625.htm",
+     "pubDate": "Sun, 18 Oct 2026 23:22:56 GMT",
+     "summary": "IT之家 10 月 19 日消息，可按单个原子组合来设计蛋白质与核酸的生成式人工智能系统 RFdiffusion3，其详细设计方案现已正式对外公布。借助 RFdiffusion3 全新设计出的蛋白质，能够在真实化学反应中实现预期功能。 由美国华盛顿大学、英国牛津大学、英伟达等机构组成的国际联合研究团队，搭建出了这套可对单个原子进行建模，用于设计蛋白质与核酸的系统，并于当地时间 16 日在国际期刊《科学》上发表了相关研究成果。 IT之家注意到，该研究团队已于 2025 年 12 月 3 日开源 RFdiffusion3。刊登在《科学》上的论文详细阐释了 RFdiffusion3 的设计原理。 基",
+     "source": "IT之家",
+     "zh": "AI 系统 RFdiffusion3 能从原子层面设计蛋白质，可在实验中实现预期功能"
+    },
+    {
      "title": "【钛晨报】央行就《银行间债券市场债券发行管理规则》公开征求意见；智界将获独立造车资质，内部人士确认公司计划上市；英伟达辟谣RTX5090停产：只是产能不足，不会断供",
      "link": "https://www.tmtpost.com/8172465.html",
      "pubDate": "Mon, 19 Oct 2026 07:20:00 +0800",
@@ -1817,14 +1833,6 @@
      "zh": "古尔曼：苹果本月底发布 OLED MacBook Pro、M6 设备及 iPad mini 8，11 月 6 日上市"
     },
     {
-     "title": "苹果发布 iPhone Duo 欧盟能效标签：电池总容量 4883mAh",
-     "link": "https://www.ithome.com/1/014/620.htm",
-     "pubDate": "Sun, 18 Oct 2026 22:43:51 GMT",
-     "summary": "IT之家 10 月 19 日消息，苹果于当地时间周五发布了 iPhone Duo 的欧盟能效标签，文件显示这款设备的电池总容量为 4883 毫安时。 这份文件似乎证实了此前的一则爆料：iPhone Duo 配备两块电池电芯，容量分别为 2962 毫安时与 1921 毫安时，合计 4883 毫安时。IT之家注意到，iPhone Duo 仅支持 eSIM，没有实体 SIM 卡槽，因此这一电池容量数值适用于全球所有版本，不会出现部分机型因预留实体卡槽而压缩电池体积、容量略小的情况。 作为对比，iFixit 拆解发现，仅支持 eSIM 的 iPhone 18 Pro 电池容量为 4288 毫安时，同样",
-     "source": "IT之家",
-     "zh": "苹果发布 iPhone Duo 欧盟能效标签：电池总容量 4883mAh"
-    },
-    {
      "title": "当AI进入城市：城市发展的范式转向与治理重构",
      "link": "https://www.huxiu.com/article/4898451.html?f=rss",
      "pubDate": "Mon, 19 Oct 2026 06:16:54 +0800",
@@ -1841,44 +1849,12 @@
      "zh": "Sources: Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal (Bailey Lipschultz/Bloomberg)"
     },
     {
-     "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-     "link": "https://github.com/finereli/whatsapp-mcp",
-     "pubDate": "Sun, 18 Oct 2026 21:36:10 +0000",
-     "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Important feature - it conn",
-     "source": "Hacker News",
-     "zh": "Show HN: WhatsApp MCP running free on Cloudflare"
-    },
-    {
-     "title": "Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux",
-     "link": "https://github.com/omnipty-terminal/omnipty",
-     "pubDate": "Sun, 18 Oct 2026 21:24:13 +0000",
-     "summary": "Article URL: https://github.com/omnipty-terminal/omnipty Comments URL: https://news.ycombinator.com/item?id=50145628 Points: 6 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux"
-    },
-    {
      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
      "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
      "pubDate": "Sun, 18 Oct 2026 21:00:00 +0000",
      "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
      "source": "TechCrunch",
      "zh": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market"
-    },
-    {
-     "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-     "link": "https://arxiv.org/abs/2610.18861",
-     "pubDate": "Sun, 18 Oct 2026 20:48:14 +0000",
-     "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 127 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text"
-    },
-    {
-     "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
-     "link": "https://github.com/Netflix/vmaf",
-     "pubDate": "Sun, 18 Oct 2026 20:43:40 +0000",
-     "summary": "Article URL: https://github.com/Netflix/vmaf Comments URL: https://news.ycombinator.com/item?id=50145295 Points: 12 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion"
     },
     {
      "title": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)",
@@ -1903,22 +1879,6 @@
      "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
      "source": "TechCrunch",
      "zh": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’"
-    },
-    {
-     "title": "Free Pascal compiler now supports dynamic packages",
-     "link": "https://www.getlazarus.org/dynamic/",
-     "pubDate": "Sun, 18 Oct 2026 18:48:04 +0000",
-     "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 93 # Comments: 12",
-     "source": "Hacker News",
-     "zh": "Free Pascal compiler now supports dynamic packages"
-    },
-    {
-     "title": "Florida's HOAs and condo associations are making the housing crisis worse",
-     "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-     "pubDate": "Sun, 18 Oct 2026 18:40:16 +0000",
-     "summary": "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html Comments URL: https://news.ycombinator.com/item?id=50144005 Points: 147 # Comments: 240",
-     "source": "Hacker News",
-     "zh": "Florida's HOAs and condo associations are making the housing crisis worse"
     },
     {
      "title": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&apos;s 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
@@ -1961,14 +1921,6 @@
      "zh": "为责任和尊严而战：中国软件业还要亏多久？|| 大视野"
     },
     {
-     "title": "首发即国补：荣耀 Earbuds 耳夹式耳机 499 → 378 元，全天候舒适佩戴",
-     "link": "https://www.ithome.com/1/014/619.htm",
-     "pubDate": "Sun, 18 Oct 2026 15:47:03 GMT",
-     "summary": "荣耀新一代 Earbuds 耳夹式耳机将于今日开售，定价 499 元，首发 到手价 449 元 。 评价返 10 元 E 卡（折合仅需 439 元），学生可再享 30 元教育优惠。 部分地区支持政府补贴（例如 广东 ）， 实付低至 382 元 ，评价后折合 372 元： 京东 荣耀 Earbuds 耳夹式耳机 抢先购 首发 449 元 直达链接 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 这款耳机主打全天候舒适佩戴，耳挂采用食品级亲肤硅胶，搭配天鹅颈曲线设计；单只耳机重 5.6 克，C 桥最窄处 3.2mm；获得 Hi-Res Wireless 金标认证",
-     "source": "IT之家",
-     "zh": "首发即国补：荣耀 Earbuds 耳夹式耳机 499 → 378 元，全天候舒适佩戴"
-    },
-    {
      "title": "Sources: HomeView units sat in warehouses for months; Apple plans a Nov. 6 store reset, likely for new Macs; iPhone Duo preorder mess could boost 18 Pro sales (Mark Gurman/Bloomberg)",
      "link": "https://www.techmeme.com/261018/p8#a261018p8",
      "pubDate": "Sun, 18 Oct 2026 11:30:01 -0400",
@@ -1999,6 +1951,54 @@
      "summary": "一套贴合本土实体经济的行业分类底座，将为我国多支柱养老金体系长期稳健增值筑牢底层数据根基。",
      "source": "钛媒体",
      "zh": "济安金信行业分类对养老金投资的价值观察"
+    },
+    {
+     "title": "中美AI竞争的新变量：开源、算力与产业生态",
+     "link": "https://www.tmtpost.com/8172534.html",
+     "pubDate": "Sun, 18 Oct 2026 22:37:59 +0800",
+     "summary": "开源与闭源因此不再只是工程师之间的技术路线之争。对企业而言，它关系到商业模式和客户控制权；对产业而言，它决定模型能以多低的成本进入制造、物流、机器人和各类企业系统；对国家层面而言，芯片出口管制、知识产权和模型安全又把这种技术选择推向了更复杂的制度博弈。原来可以用“谁的模型更强”概括的竞争，正在变成一场跨越算力、模型、生态和实体产业的综合竞争。",
+     "source": "钛媒体",
+     "zh": "中美AI竞争的新变量：开源、算力与产业生态"
+    },
+    {
+     "title": "价值判断：跌停板的投资机会和风险提示（10月16日）｜上市公司观察",
+     "link": "https://www.tmtpost.com/8172532.html",
+     "pubDate": "Sun, 18 Oct 2026 22:37:35 +0800",
+     "summary": "值得注意的是，两只标的估值均显著高于济安定价，其中中药方向的偏离幅度接近五成、铅酸电池方向的偏离幅度超过三成，即便经历单日跌停，股价仍大幅高于理论均衡价值，估值层面的安全边际尚未出现，与连续跌停后估值跌破济安定价的低估品种存在本质区别。",
+     "source": "钛媒体",
+     "zh": "价值判断：跌停板的投资机会和风险提示（10月16日）｜上市公司观察"
+    },
+    {
+     "title": "价值判断：涨停板的投资机会和风险提示（10月16日）｜上市公司观察",
+     "link": "https://www.tmtpost.com/8172528.html",
+     "pubDate": "Sun, 18 Oct 2026 22:37:09 +0800",
+     "summary": "本期入选标的呈两头分布：一头是三只首次涨停且估值深度低于济安定价的品种，分别来自供应链电子、汽车零部件与军工电子方向，属前期股价长期低位徘徊、由题材催化与板块轮动推动的低位修复品种；另一头是一只估值显著高于济安定价的连续涨停品种，来自密码安全与量子科技方向，短线资金由主题情绪推动。",
+     "source": "钛媒体",
+     "zh": "价值判断：涨停板的投资机会和风险提示（10月16日）｜上市公司观察"
+    },
+    {
+     "title": "数学的“第四次危机”：从不可说，到无可说",
+     "link": "https://www.tmtpost.com/8172522.html",
+     "pubDate": "Sun, 18 Oct 2026 22:36:51 +0800",
+     "summary": "数学素有“科学之巅”之誉；数学史若写成英雄传，这四次危机便不是四次失败，而是四次涅槃重生。",
+     "source": "钛媒体",
+     "zh": "数学的“第四次危机”：从不可说，到无可说"
+    },
+    {
+     "title": "内核开发者递交代码无需声明是否 AI 辅助编写",
+     "link": "https://www.solidot.org/story?sid=85641",
+     "pubDate": "Sun, 18 Oct 2026 22:28:17 +0800",
+     "summary": "Linux 邮件列表中的一则消息披露，2026 年 10 月 8 日捷克布拉格举行的维护者峰会（Maintainers Summit）达成了一项重大决策：向内核提交代码时，无需再使用“Assisted-by”标签。这意味着内核开发者递交代码无需声明是否 AI 辅助编写。Linux 作者 Linus Torvalds 认为，禁止使用 AI 就像禁止使用文本编辑器是极其愚蠢的规定，表示他认为从事内核开发的人知道他们在做什么。他本周递交了一组用 Claude Code 开发的补丁，但补丁被发现存在竞态条件，其内存回收也被认为有问题，这组补丁的后续开发被交给了人类开发者 Kiryl Shutsemau",
+     "source": "Solidot",
+     "zh": "内核开发者递交代码无需声明是否 AI 辅助编写"
+    },
+    {
+     "title": "Meta 新增条款允许其抓取客户内容并用于训练 AI",
+     "link": "https://www.solidot.org/story?sid=85640",
+     "pubDate": "Sun, 18 Oct 2026 22:10:15 +0800",
+     "summary": "Meta 修改了其商业服务条款，新条款将于 2026 年 10 月 30 日生效。新增条款赋予了 Meta 一项权利，允许它使用自动化软件抓取客户内容，将其用于改进包括 AI 模型在内的公司产品。所谓的自动化软件包括了网页抓取工具、机器人、爬虫及用户智能体。News/Media Alliance 总裁 Danielle Coffey 发表声明谴责 Meta 的做法，认为此举涉嫌违法。法学教授 Eric Goldman 认为，新增服务条款存在程序和实质层面的问题，他表示尽管他倾向于认为合同起草者抱有善意，但 Meta 在业界早已毫无信誉可言，根本谈不上什么善意。",
+     "source": "Solidot",
+     "zh": "Meta 新增条款允许其抓取客户内容并用于训练 AI"
     }
    ]
   },
@@ -2273,20 +2273,52 @@
      "zh": "World takes on AI-driven impersonations with new suite for banking and finance"
     },
     {
-     "title": "先行指标释放暖意 经济运行有望延续向好态势",
-     "link": "http://finance.eastmoney.com/news/1378,202610193899220654.html",
-     "pubDate": "Mon, 19 Oct 2026 07:15:28 +0800",
-     "summary": "国家统计局将于10月19日发布前三季度经济运行数据。机构普遍预测，在工业生产和服务业保持韧性、出口强劲及低基数影响下，三季度经济运行有望延续向好态势。 步入9月以来，经济运行积极因素持续增多。从先行指标PMI来看，9月制造业PMI、非制造业PMI均较上月回升，且都重回扩张区间，显示经济景气水平有所回升。同期，PPI同比涨幅升至近四年来新高，环比涨幅继续扩大，价格上行动能在高位加速释放。 中国 民生银行 首席经济学家温彬表示，9月工业生产较8月有所修复，预计规模以上工业增加值同比增速由8月的5.2%回升至6%左右。 三季度以来，出口仍保持较快增长。据海关总署数据，前三季度，出口同比增长16.4%",
+     "title": "*ST威领第一大股东变更 亚洲白银巨头将入主",
+     "link": "http://finance.eastmoney.com/news/1354,202610193899217431.html",
+     "pubDate": "Mon, 19 Oct 2026 07:26:42 +0800",
+     "summary": "一场股权拍卖， *ST威领 （002667）第一大股东发生了变更。 10月18日晚间， *ST威领 公告称，在10月13日的司法拍卖中，公司控股股东上海领亿 新材料 有限公司（下称“上海领亿”）所持公司的285万股股份，被西藏山南锑金资源有限公司（下称“山南锑金”）拍得，成交总价7349.08万元。另外，10月16日，上海领亿所持上市公司的1000万股股份，在司法拍卖中同样已被山南锑金拍得，成交总价为2.61亿元。 上述拍卖的1285万股份完成过户登记后，上海领亿持有的 *ST威领 公司股票，将由3152.13万股下降至1867.13万股，占上市公司总股本比例将由12.10%下降至7.16%。",
      "source": "东方财富股票",
-     "zh": "先行指标释放暖意 经济运行有望延续向好态势"
+     "zh": "*ST威领第一大股东变更 亚洲白银巨头将入主"
     },
     {
-     "title": "“AI+金融”迎成长风口 首批创业板金融科技ETF密集上市",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899216746.html",
-     "pubDate": "Mon, 19 Oct 2026 07:13:39 +0800",
-     "summary": "近期，首批创业板金融科技ETF密集上市，包括华泰柏瑞基金、 景顺 长城基金、建信基金等机构旗下产品。受访人士认为，“AI+金融”正成为市场关注的新兴成长风口，伴随行业景气度逐渐得到确认，创业板金融科技ETF或将成为投资者抓住数字金融发展机遇的重要工具之一。 数据显示，截至10月13日，创业板金融科技指数前五大 权重股 为 东方财富 、 同花顺 、 指南针 、 润和软件 、 银之杰 ，合计权重占比超过50%。行业分布方面， 软件开发 、IT服务、证券合计权重占比超过85%，科技与金融双重属性突出。 有机构认为，伴随AI技术的高速发展，金融行业依托自身深厚的数据储备与明确的业务升级需求，成为AI落",
+     "title": "润建股份签2亿美元AI词元大单",
+     "link": "http://finance.eastmoney.com/news/1354,202610193899217637.html",
+     "pubDate": "Mon, 19 Oct 2026 07:25:45 +0800",
+     "summary": "10月18日晚， 润建股份 （002929）公告，公司全资子公司五象云谷有限公司（下称“五象云谷”）与X公司签订《AI词元跨境销售服务合同》，合同金额2亿美元（约合13.38亿元人民币）。合同的履行将对公司未来经营业绩产生积极影响。 根据合同约定，五象云谷向X公司出售AI词元（Token）调用服务：五象云谷开放约定API（应用程序编程接口），X公司通过API接口发起大模型推理调用，按实际消耗词元数量进行结算。词元标准单价，以双方书面确认的订单中载明的单价为准。 交付方式方面，五象云谷通过互联网向X公司开放约定API访问地址、鉴权密钥；X公司自行部署自身业务系统调用该API接口；算力资源全部部署",
      "source": "东方财富股票",
-     "zh": "“AI+金融”迎成长风口 首批创业板金融科技ETF密集上市"
+     "zh": "润建股份签2亿美元AI词元大单"
+    },
+    {
+     "title": "外资公募加码量化布局 丰富境内投资产品供给",
+     "link": "http://stock.eastmoney.com/news/1426,202610193899219065.html",
+     "pubDate": "Mon, 19 Oct 2026 07:24:51 +0800",
+     "summary": "数据来源：Wind，王明弘/制表 近年来，外资公募产品线持续丰富，量化赛道正成为外资公募深耕国内市场的重要方向。 10月，外资公募路博迈基金旗下红利量化选股基金正式成立。Wind数据显示，5家新设外资公募中，已有 贝莱德 基金、路博迈基金、联博基金3家发行量化相关产品。从以跟踪指数为主的“稳中求进”，到红利、行业轮动等策略的主动出击，外资公募的量化版图正加速扩容，多资产配置等更多元策略的探索也已启动。 3家外资公募 已发8只量化产品 Wind数据显示，5家新设外资公募中， 贝莱德 基金、路博迈基金、联博基金3家机构已发行量化投资相关产品，合计8只。其中，指数增强基金6只，主动量化选股基金2只。",
+     "source": "东方财富股票",
+     "zh": "外资公募加码量化布局 丰富境内投资产品供给"
+    },
+    {
+     "title": "清晨科技股暗盘直线拉升！美国、俄罗斯传出大消息！",
+     "link": "http://finance.eastmoney.com/news/1344,202610193899248858.html",
+     "pubDate": "Mon, 19 Oct 2026 07:24:08 +0800",
+     "summary": "北京时间19日清晨，美股三大股指 期货 集体上涨，截至发稿，纳指 期货 涨0.76%，道指 期货 涨0.29%，标普500指数期货涨0.37%。 科技股暗盘直线拉升。其中， 闪迪 暗盘涨超2.70%， 希捷科技 暗盘涨近2.60%， 英特尔 暗盘涨1.79%， 美光科技 暗盘涨超1.60%， 英伟达 、 康宁 暗盘涨幅均超过1%， 苹果 暗盘涨超0.70%。 黄金 、 白银 也集体拉升，现货 黄金 、现货 白银 分别上涨0.29%、0.69%，价格分别报4177美元/盎司、57.37美元/盎司。 国际油价跳水。截至发稿，WTI原油下跌0.90%报98.13美元/桶，布伦特原油下跌0.91%报1",
+     "source": "东方财富股票",
+     "zh": "清晨科技股暗盘直线拉升！美国、俄罗斯传出大消息！"
+    },
+    {
+     "title": "证券时报：公募基金应当好资本市场稳定器",
+     "link": "http://finance.eastmoney.com/news/1378,202610193899219157.html",
+     "pubDate": "Mon, 19 Oct 2026 07:23:51 +0800",
+     "summary": "在一轮轮市场震荡中，作为A股重要的机构投资者，公募基金是否真正发挥了市场稳定器作用？在A股非理性下跌时，公募资金是否守住了价值锚？在非理性上涨时，又是否能避免与亢奋的非理性资金为伍，并将资金从高估值板块转向低估值板块？ 衡量一家机构是否具备真正的专业投资能力，分水岭不在于资金规模有多大、研究团队有多强，而在于面对市场情绪的狂热与恐慌时，能否保持独立判断与投资定力。 公募基金之所以被寄予资本市场“稳定器”的厚望，不仅因为其管理着规模庞大的资金，更因为其具备专业研究、价值发现和长期投资的能力。广大基民将资金交由专业机构管理，期盼的是基金经理能够依托专业的深入研究和风险管理能力，摆脱短期市场噪声，依",
+     "source": "东方财富股票",
+     "zh": "证券时报：公募基金应当好资本市场稳定器"
+    },
+    {
+     "title": "多个赛道订单迸发 广交会机器人展馆火热出圈",
+     "link": "http://finance.eastmoney.com/news/1354,202610193899217774.html",
+     "pubDate": "Mon, 19 Oct 2026 07:22:57 +0800",
+     "summary": "第140届广交会第一期展会正如火如荼地举行，以 机器人 为代表的科技产品成为全球采购商关注度最高的赛道之一。展馆内的服务 机器人 专区入口始终排着长队，个别 机器人 展位甚至需要排队1小时才能体验产品。 热闹的会场折射出国产 机器人 出海的火热态势，在多个细分赛道，中国 机器人 厂商订单不断涌现，部分品类已形成全球竞争优势。不过，出海也并非一路坦途，企业既要把握全球市场机遇，也要算好收益、合规以及长期运维的 综合 出海账。 细分赛道成果亮眼 “新兴 机器人 领域，几乎都是中国企业。” 科沃斯 公关总监马宪彬在广交会上表示，特别在割草机器人、泳池机器人领域，中国几乎没有竞争对手。展位上， 科沃斯",
+     "source": "东方财富股票",
+     "zh": "多个赛道订单迸发 广交会机器人展馆火热出圈"
     },
     {
      "title": "湖北枝江——老有善养凸显民生温度",
@@ -2311,38 +2343,6 @@
      "summary": "更多内容 扫码观看 随着采暖季临近，北京进入采暖费缴纳高峰期。近日，不少社交平台以及部分业主微信群内，有人声称掌握内部优惠渠道，可以...",
      "source": "经济观察网",
      "zh": "“代缴采暖费享折扣”是真的吗"
-    },
-    {
-     "title": "入境游持续升温 体验需求催生供给之变",
-     "link": "http://finance.eastmoney.com/news/1355,202610193899246724.html",
-     "pubDate": "Mon, 19 Oct 2026 07:13:05 +0800",
-     "summary": "秋日午后，北京钟楼北广场上，一队外国旅行团沉浸于观赏民间艺人带来的二胡、花鼓表演，还观摩了八段锦、健身龙展示。一个多小时的活动里，二胡余音绕梁、健身龙行云流水，引得观众不时鼓掌。 多米尼克青年诺亚的目光紧紧追随着广场上舞动健身龙的老师傅，时不时拿出手机，记录民俗表演的精彩片段。“这就是旅行的意义，感受不同的风土人情、不同的文化。”诺亚对记者说。 近两年来，随着海外社交平台“China Travel（中国游）”热度持续升温，“二刷”“三刷”中国的外国游客越来越多，“重体验”的入境游消费新叙事正在展开。 需求迭代：从逛地标到走进生活 马淑林是北京市非物质文化遗产花毽传承人之一，在北 京东 城区钟鼓",
-     "source": "东方财富股票",
-     "zh": "入境游持续升温 体验需求催生供给之变"
-    },
-    {
-     "title": "养老投资迎产品供给侧利好 提振中长期资金入市意愿",
-     "link": "http://stock.eastmoney.com/news/1426,202610193899220014.html",
-     "pubDate": "Mon, 19 Oct 2026 07:12:39 +0800",
-     "summary": "个人 养老金 投资迎来产品供给侧利好。近日，中国证监会就新修订的《公开募集证券投资基金运作管理办法（征求意见稿）》及配套规则公开征求意见。业内人士认为，此次修订后：一方面养老基金有望迎来相对从容的发展窗口期，更匹配 养老金 的长周期属性；另一方面，利于提振中长期资金的入市意愿，推动 养老金 融与资本市场的双向赋能。 制度利好养老FOF长周期发展 近年来，在养老基金持续扩容之际，不少养老FOF却被清盘。业内人士认为，此次修订后这种情况有望得到改善。 Choice数据显示，截至10月12日，今年以来约有30只养老FOF清盘（不同份额分开计算），部分清盘产品还设有Y份额。从近年来清盘的产品来看，主要",
-     "source": "东方财富股票",
-     "zh": "养老投资迎产品供给侧利好 提振中长期资金入市意愿"
-    },
-    {
-     "title": "当我们在谈论AI重构资产管理时 到底在谈论什么？",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899246615.html",
-     "pubDate": "Mon, 19 Oct 2026 07:11:24 +0800",
-     "summary": "【编者按】AI到底能不能替代基金经理？资管机构会不会长出“AI原生”组织？当“读得快、算得全”不再稀缺，真正的护城河又在哪里？ 10月17日，在全球财富管理论坛2026上海苏河湾大会上，汇添富基金总经理张晖没有急着给答案，而是把AI重构资管的路径与边界，拆成了几个更值得追问的问题。 作为行业里少数投研出身、又对前沿技术保持高度敏锐的公募基金总经理，他的这个视角，或许正是理解这场变革的一把钥匙。 以下为发言精编。 各位领导、各位嘉宾，大家下午好！ 这个环节原本设定的主题是“AI重构资管：范式变革与能力跃迁”，其实很难讲。因为我自己感觉，今天在行业里所应用的AI，实际上还没有真正改变 资产管理 的",
-     "source": "东方财富股票",
-     "zh": "当我们在谈论AI重构资产管理时 到底在谈论什么？"
-    },
-    {
-     "title": "“稳收益”还是“博反弹” 四季度机构资产配置打法分化",
-     "link": "http://fund.eastmoney.com/news/1623,202610193899219552.html",
-     "pubDate": "Mon, 19 Oct 2026 07:11:18 +0800",
-     "summary": "进入四季度，在“稳收益”与“博反弹”之间，机构资产配置策略正呈现明显分化。 面对旗下配置型产品今年以来收益缩水的情况，机构并不甘心。一部分机构选择通过“再平衡”降低波动；另一部分则试图把握权益市场反弹窗口以修复净值。 这并非简单的多空之争，而是对三季度以来市场风格切换的不同回应。战略方向上，受访公私募机构的判断趋于一致：权益市场大概率维持“上有顶，下有底”的震荡格局，结构性机会大于指数机会。但在战术方面，如何平衡防守与进攻，如何“收复失地”，不仅是当前公私募策略分歧的核心，更将成为全年整体收益的“胜负手”。 宏观：关注海外利率和国内政策 今年以来，市场风格不断切换，投资难度有所提升，资产配置类",
-     "source": "东方财富股票",
-     "zh": "“稳收益”还是“博反弹” 四季度机构资产配置打法分化"
     },
     {
      "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
@@ -2385,22 +2385,6 @@
      "zh": "Stock futures rebound as oil nears $110, AI earnings loom"
     },
     {
-     "title": "10月19日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/11158,202610193899226757.html",
-     "pubDate": "Mon, 19 Oct 2026 06:02:46 +0800",
-     "summary": "10月19日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 利好！多家A股公司发布回购公告 10月18日晚，包括 格科微 、 澜起科技 、 中科曙光 、 海光信息 和 生益科技 等多家上市公司发布回购相关公告。 中科曙光 公告称，公司董事会收到董事长、总经理历军提议，拟使用自有资金以集中竞价交易方式回购公司A股股份，回购资金总额不低于3亿元、不超过5亿元，回购股份拟用于员工 股权激励 或员工持股计划。 2家A股公司10月19日停牌一天 *ST四通 、 ST绝味 发布公告称，分别因撤销退市风险警示、撤销其他风险警示将于10月19日停牌一天，并于10月20日复牌。10月18日晚间， ST绝",
-     "source": "东方财富资讯",
-     "zh": "10月19日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "东方财富财经早餐 10月19日周一",
-     "link": "http://stock.eastmoney.com/news/11206,202610183899198087.html",
-     "pubDate": "Mon, 19 Oct 2026 06:00:57 +0800",
-     "summary": "每日精选 绿色发展 ： 中共中央总书记、国家主席、中央军委主席习近平16日在内蒙古自治区乌兰察布市考察时强调，绿色发展是高质量发展的应有之义，要统筹高质量发展和高水平保护，坚持山水林田湖草沙一体化保护和系统治理， 协同推进降碳、减污、扩绿、增长，坚定不移走生态优先、绿色发展之路 。 人工智能 + ： 国务院总理李强主持召开国务院常务会议。会议指出， 人工智能 是影响未来发展的关键变量，要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发， 注重以落地应用牵引技术创新，不断深化拓展“ 人工智能 + ”行动 。要夯实发展底座，加强技术攻关和算法创新促进算电协同，增加高质量数据供给，着力补短板",
-     "source": "东方财富资讯",
-     "zh": "东方财富财经早餐 10月19日周一"
-    },
-    {
      "title": "Here are the major earnings before the open Monday",
      "link": "https://seekingalpha.com/news/4654047-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 18 Oct 2026 18:00:12 -0400",
@@ -2439,14 +2423,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "F.N.B. Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "事关国民经济运行与科技兴商 今天举办两场重要发布会",
-     "link": "http://finance.eastmoney.com/news/1345,202610193899229050.html",
-     "pubDate": "Mon, 19 Oct 2026 05:25:01 +0800",
-     "summary": "今天将举办两场重要发布会，聚焦国民经济运行与推进科技兴商有关情况。 国务院新闻办公室将于 10月19日（星期一）上午10时 举行新闻发布会，请国家统计局新闻发言人、副局长毛盛勇介绍2026年前三季度国民经济运行情况，并答记者问。 国务院新闻办公室将于 10月19日（星期一）下午3时 举行新闻发布会，请商务部部长助理袁晓明和工业和信息化部、文化和旅游部有关负责人介绍加快推进科技兴商有关情况，并答记者问。 （文章来源：央视新闻）",
-     "source": "东方财富资讯",
-     "zh": "事关国民经济运行与科技兴商 今天举办两场重要发布会"
     },
     {
      "title": "Macron faces political firestorm after riots",
@@ -2495,6 +2471,30 @@
      "summary": "■谢若琳 10月16日召开的国务院常务会议（以下简称“国常会”）提出，人工智能是影响未来发展的关键变量，要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发，注重以落地应用牵引技术创新，不断深化拓展“人工智能+”行动。 此前，6月29日召开的国常会曾提出，要深入实施“人工智能+”行动，发挥我国产业体系完备、应用场景丰富等优势，促进智能产品和服务加快规模化商业应用。 4个月内，两次国常...",
      "source": "经济观察网",
      "zh": "推动人工智能从能用到好用"
+    },
+    {
+     "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+     "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+     "pubDate": "Sun, 18 Oct 2026 17:00:00 GMT",
+     "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+     "source": "MarketWatch",
+     "zh": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?"
+    },
+    {
+     "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+     "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+     "pubDate": "Sun, 18 Oct 2026 16:15:00 GMT",
+     "summary": "”I earn $110,000 a year.”",
+     "source": "MarketWatch",
+     "zh": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
+    },
+    {
+     "title": "US threatens Europe over Starlink restrictions",
+     "link": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
+     "pubDate": "Sun, 18 Oct 2026 16:00:00 GMT",
+     "summary": "Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies",
+     "source": "Financial Times",
+     "zh": "US threatens Europe over Starlink restrictions"
     }
    ]
   },

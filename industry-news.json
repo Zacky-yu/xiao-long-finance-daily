@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/18 09:31:55",
+ "generated_at": "2026/10/18 09:38:45",
  "recent_days": 7,
  "industries": [
   {
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "外卖 3000 元榴莲实付 20 多元：商家空单交易骗取平台补贴，14 人落网",
+     "link": "https://www.ithome.com/1/014/452.htm",
+     "pubDate": "Sun, 18 Oct 2026 01:30:29 GMT",
+     "summary": "IT之家 10 月 18 日消息，据央视新闻报道，外卖平台满减、补贴等福利，本是惠及消费者、助力商户发展的举措，却被有些人动起了歪心思，在江西吉安警方侦破的一起案件中，犯罪团伙雇佣刷手、空单交易，骗取平台补贴，涉案金额上百万元。 今年 2 月，某外卖平台发现了一组极为反常的消费数据，有用户在一家水果店下单了总价 3000 多元的榴莲，而经过层层优惠叠加后，实际支付金额仅 20 多元。这样的情况在这家水果店并非个例，还有用户下单总价 1000 多元的冬枣、葡萄等水果，经过优惠后支付金额仅 170 余元。 平台发现，这些水果的标价都是正常的市场价格，之所以会有如此大的差价，一方面是平台推出的优惠券",
+     "source": "IT之家",
+     "zh": "外卖 3000 元榴莲实付 20 多元：商家空单交易骗取平台补贴，14 人落网"
+    },
+    {
      "title": "真相来了：网传“重庆一车辆从 60 米高架桥坠落”引关注，武隆区公安局核实系谣言",
      "link": "https://www.ithome.com/1/014/451.htm",
      "pubDate": "Sun, 18 Oct 2026 01:25:26 GMT",
@@ -1825,14 +1833,6 @@
      "zh": "Edge AI Daily 早报（10月18日）"
     },
     {
-     "title": "极夜带来 7.3L 迷你工作站 DeskOne W2，支持第 12~14 代英特尔桌面处理器",
-     "link": "https://www.ithome.com/1/014/445.htm",
-     "pubDate": "Sun, 18 Oct 2026 00:59:43 GMT",
-     "summary": "IT之家 10 月 18 日消息，极夜 (TOPFEEL) 在发布 DeskOne A1 的同时也带来了一款体积更小的产品 —— DeskOne W2。这一型号同样拥有全铝机身，但三维仅 245×249×120 (mm)， 体积仅约 7.3L 。 DeskOne W2 配备 FCLGA1700 插槽， 支持第 12~14 代英特尔桌面处理器 ，提供 2 个 DDR4-3200 SO-DIMM 内存插槽，拥有 1 条 PCIe Gen4 ×16 插槽（扩展卡限长 245mm、限宽 45mm）。 其 拥有 3 个 PCIe Gen4 ×4 的 M.2 SSD 盘位 ， 另一个 M.2 则是 Gen",
-     "source": "IT之家",
-     "zh": "极夜带来 7.3L 迷你工作站 DeskOne W2，支持第 12~14 代英特尔桌面处理器"
-    },
-    {
      "title": "观察｜AI时代，不敢裁员也不愿招聘：中国企业的“不裁只冻”困局",
      "link": "https://www.huxiu.com/article/4898351.html?f=rss",
      "pubDate": "Sun, 18 Oct 2026 08:37:56 +0800",
@@ -1892,7 +1892,7 @@
      "title": "JDK 28",
      "link": "https://openjdk.org/projects/jdk/28/",
      "pubDate": "Sat, 17 Oct 2026 21:37:07 +0000",
-     "summary": "Article URL: https://openjdk.org/projects/jdk/28/ Comments URL: https://news.ycombinator.com/item?id=50135379 Points: 53 # Comments: 20",
+     "summary": "Article URL: https://openjdk.org/projects/jdk/28/ Comments URL: https://news.ycombinator.com/item?id=50135379 Points: 56 # Comments: 25",
      "source": "Hacker News",
      "zh": "JDK 28"
     },
@@ -1916,7 +1916,7 @@
      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
      "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
      "pubDate": "Sat, 17 Oct 2026 20:07:33 +0000",
-     "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 82 # Comments: 78",
+     "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 85 # Comments: 80",
      "source": "Hacker News",
      "zh": "Chrome and Edge are removing XSLT: what breaks and what does not"
     },
@@ -1948,7 +1948,7 @@
      "title": "OpenCode Hacked: User credentials leaked",
      "link": "https://twitter.com/opencode/status/2111516673953935833",
      "pubDate": "Sat, 17 Oct 2026 18:01:41 +0000",
-     "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 759 # Comments: 128",
+     "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 769 # Comments: 132",
      "source": "Hacker News",
      "zh": "OpenCode Hacked: User credentials leaked"
     },
@@ -1956,7 +1956,7 @@
      "title": "Codex Desktop continuously generates Crashpad pending dumps",
      "link": "https://github.com/openai/codex/issues/25921",
      "pubDate": "Sat, 17 Oct 2026 17:45:08 +0000",
-     "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 66 # Comments: 28",
+     "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 67 # Comments: 29",
      "source": "Hacker News",
      "zh": "Codex Desktop continuously generates Crashpad pending dumps"
     },
@@ -1964,7 +1964,7 @@
      "title": "I Became a Citizen of Japan",
      "link": "https://www.derekwessman.com/blog-1/natural",
      "pubDate": "Sat, 17 Oct 2026 17:36:17 +0000",
-     "summary": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 145 # Comments: 65",
+     "summary": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 146 # Comments: 68",
      "source": "Hacker News",
      "zh": "I Became a Citizen of Japan"
     },
@@ -2257,6 +2257,22 @@
    "total": 13,
    "items": [
     {
+     "title": "微博：金橙V创作者数量达13.9万，同比增长11.3%",
+     "link": "http://finance.eastmoney.com/news/1354,202610183899104141.html",
+     "pubDate": "Sun, 18 Oct 2026 09:24:47 +0800",
+     "summary": "微博 在2026 微博 V影响力大会公布的数据显示，截至2026年二季度， 微博 日活跃用户（DAU）达2.5亿、月活跃用户（MAU）达5.6亿；截至三季度，金橙V创作者数量达13.9万，同比增长11.3%。微博周活视频作者规模增长35%，后推荐场景下沉浸式视频观看时长增长20%，互动、回看及主动搜索视频的相关指标增长66%。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "微博：金橙V创作者数量达13.9万，同比增长11.3%"
+    },
+    {
+     "title": "曙光8000发布十大前沿成果",
+     "link": "http://finance.eastmoney.com/news/1354,202610183899104061.html",
+     "pubDate": "Sun, 18 Oct 2026 09:24:47 +0800",
+     "summary": "10月18日， 中科曙光 在2026 CCF全国高性能计算学术大会（CCF HPC 2026）发布曙光8000十大前沿应用成果，覆盖从微观粒子到宏观宇宙的科学探索，横跨天文学、地球科学、生命科学及材料模拟、工程研发等多个领域。相关成果在模拟规模、计算精度和应用时效等方面取得关键进展，多项成果更实现“全球首次”的突破。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "曙光8000发布十大前沿成果"
+    },
+    {
      "title": "全球传统医学联盟成立",
      "link": "http://finance.eastmoney.com/news/1355,202610183899103560.html",
      "pubDate": "Sun, 18 Oct 2026 09:16:33 +0800",
@@ -2265,44 +2281,20 @@
      "zh": "全球传统医学联盟成立"
     },
     {
-     "title": "董宇辉开卖定制款卫生巾 黄子韬创立的朵薇年销售额超8亿 头部主播跨界卫生巾都在爆单",
-     "link": "http://finance.eastmoney.com/news/1354,202610183899103210.html",
-     "pubDate": "Sun, 18 Oct 2026 09:08:24 +0800",
-     "summary": "背靠一众女性消费群体，与辉同行开卖定制卫生巾。 近日，与辉同行联合全棉时代旗下女性护理品牌奈丝公主，上线定制卫生巾和安睡裤，据媒体报道，首发30万单已售空。 10月15日，与辉同行客服告诉时代财经，目前与奈丝公主定制的卫生巾尚无库存。其称，与辉同行在推进另一卫生用品品牌的设计与生产，预计将在下周推出。 时代财经注意到，该卫生巾并非与辉同行自营，而是联合品牌厂家共建，与完全自主生产的自营产品仍有本质区别。产品包装上，“奈丝公主”四字空间占比较大，“与辉同行定制”Logo则在商品左上角。 作为女性刚需日用品，卫生巾正持续吸引流量 IP、明星与消费品牌跨界入局。 此前， 东方甄选 就推出“ 东方甄选",
+     "title": "浦东，何以闯出“芯”路？",
+     "link": "http://finance.eastmoney.com/news/1350,202610183899103872.html",
+     "pubDate": "Sun, 18 Oct 2026 09:11:00 +0800",
+     "summary": "AI浪潮之下，算力芯片尤为重要。在上海浦东张江科学城，这一组数字极具分量——全国22家主力云端算力芯片企业，13家把总部或研发部门设在这里，占比接近60%。 在这里，有云端 AI芯片 国内领军企业之一的燧原科技，有独辟蹊径做3D算力芯片的东方算芯，有每年一代不断升级算力芯片的沐曦股份，还有在光计算赛道加速奔跑的曦智科技…… 在浦东，一颗算力芯片，从图纸走向现实会经历什么？ 从图纸到芯片，到底有多难？ 设计出领先市场的芯片只是第一步，把图纸变成硅片上的产品，考验才真正开始。东方算芯的故事，就是一本硬核的“闯关记”。 3D算力芯片形似肉夹馍，上下两层的内存紧紧贴合中间的计算芯片，信息传输距离只有几",
      "source": "东方财富股票",
-     "zh": "董宇辉开卖定制款卫生巾 黄子韬创立的朵薇年销售额超8亿 头部主播跨界卫生巾都在爆单"
+     "zh": "浦东，何以闯出“芯”路？"
     },
     {
-     "title": "第四届“良渚论坛”开幕",
-     "link": "http://finance.eastmoney.com/news/11790,202610183899102369.html",
-     "pubDate": "Sun, 18 Oct 2026 09:04:47 +0800",
-     "summary": "以“文明承启：守护文化遗产点亮时代之光”为主题的第四届“良渚论坛”10月18日在浙江省杭州市开幕。 本届论坛设1个开幕式及主论坛、5个分论坛和5个配套活动。与会嘉宾将围绕“探源：早期文明实证与精神解码”“互鉴：世界文化遗产申报与价值传承实践”“赋能：文化遗产保护与技术应用”“守望：促进流失文物返还原属国”“致远：文化遗产保护传承与可持续旅游”等话题开展人文对话。 本届论坛邀请国内外知名专家，聚焦早期文明、城址考古、大遗址保护等议题开展研讨，并将发布一批学术研究新进展、新成果。论坛直面文化遗产流失、文物保护利用技术迭代、可持续旅游等现实挑战，着力在世界文化遗产申报、流失文物索还等领域贡献中国主张",
+     "title": "工信部：推动“人工智能+制造”赋能新型工业化",
+     "link": "http://finance.eastmoney.com/news/1350,202610183899104296.html",
+     "pubDate": "Sun, 18 Oct 2026 09:09:46 +0800",
+     "summary": "记者从工业和信息化部了解到，我国将以制造业为主战场、以应用牵引为主线，推动 人工智能 产业高水平赋能 新型工业化 。 据了解，工业和信息化部已经组织近30场 人工智能 赋能 新型工业化 “深度行”活动，促成5000余家企业供需对接。支持创建北京、济南—青岛等18个国家 人工智能 创新应用先导区，推动产业界研制近200项人工智能关键技术标准，设立600亿元国家人工智能产业投资基金。 工业和信息化部副部长余晓晖：制造业是人工智能落地的主战场，完整工业体系是我国发展人工智能的重要优势。要聚焦原材料、装备制造、消费品、 电子 信息等重点行业，加快凝练推广一批高价值场景和典型应用，产出一批特色化智能体。",
      "source": "东方财富股票",
-     "zh": "第四届“良渚论坛”开幕"
-    },
-    {
-     "title": "苏奥传感前三季度净利润同比下滑56%，销售下降以及汇兑损失增加等因素所致",
-     "link": "http://finance.eastmoney.com/news/1354,202610183899102290.html",
-     "pubDate": "Sun, 18 Oct 2026 09:03:17 +0800",
-     "summary": "10月16日晚间， 苏奥传感 (300507)披露2026年三季报，公司前三季度实现营业收入14.59亿元，同比下降13.25%；归母净利润3753.00万元，同比下降56.26%；扣非净利润1430.68万元，同比下降74.98%；基本每股收益0.05元，同比下降54.55%。 从单季表现看，公司第三季度实现营业收入5.12亿元，同比下降11.41%；归属于上市公司股东的净利润480.30万元，同比下降83.18%；扣除非经常性损益的净利润75.83万元，同比下降95.39%；基本每股收益0.01元/股，同比下降75.00%。 公告指出，前三季度净利润下滑主要系销售下降以及汇兑损失增加等因素",
-     "source": "东方财富股票",
-     "zh": "苏奥传感前三季度净利润同比下滑56%，销售下降以及汇兑损失增加等因素所致"
-    },
-    {
-     "title": "捧稳“生态碗” 吃上“致富饭”",
-     "link": "http://finance.eastmoney.com/news/1355,202610183899102565.html",
-     "pubDate": "Sun, 18 Oct 2026 09:01:00 +0800",
-     "summary": "内蒙古呼伦贝尔额尔古纳市坐落于大兴安岭西北麓、呼伦贝尔草原北端，在这里，中俄界河额尔古纳河静静蜿蜒，大森林、大湿地、大草原景观蔚为壮观。近年来，额尔古纳市牢牢把握兴边富民行动总要求，坚守生态优先、绿色发展定位，把得天独厚的生态资源、边境区位、多元民俗转化为群众增收、边境繁荣的坚实动能，走出一条生态保护、旅游提质、富民兴边协同共进的高质量发展道路。 夯实绿色根基 生态是额尔古纳的立市之本、发展之基，更是促进边境地区繁荣的优势所在、“硬核家底”。额尔古纳市拥有209万公顷林地、545万亩草场，森林覆盖率稳居内蒙古前列，是北方重要生态安全屏障。满眼绿色的额尔古纳，承载着游客对草原、对森林的向往。 过",
-     "source": "东方财富股票",
-     "zh": "捧稳“生态碗” 吃上“致富饭”"
-    },
-    {
-     "title": "2029年将现内存“红海”？韩财长发声：半导体繁荣至少持续至明年",
-     "link": "http://finance.eastmoney.com/news/1354,202610183899101832.html",
-     "pubDate": "Sun, 18 Oct 2026 08:57:41 +0800",
-     "summary": "韩国财政部长李炯日（Lee Hyoung-Il）周六表示， 半导体 行业的繁荣势头至少将持续到2027年。 “目前，我们认为增长至少可以持续到明年。这是因为 半导体 的供需缺口仍然非常大，而且供应端仍在持续扩张。”李炯日在曼谷举行的国际货币基金组织（IMF）和世界 银行 年会期间接受媒体采访时表示。 供应端扩张指的是资本开支、在建产能扩张，表明当下芯片行业景气度仍非常高、需求旺盛，尽管从长期来看，这意味着供需缺口将缩窄。 在李炯日发出上述言论之际，受投资者对美联储加息以及行业竞争加剧的担忧影响， 在刚刚过去的交易周， 半导体 板块大幅下跌 。包括三星、 SK海力士 和首尔半导体在内的韩国芯片股",
-     "source": "东方财富资讯",
-     "zh": "2029年将现内存“红海”？韩财长发声：半导体繁荣至少持续至明年"
+     "zh": "工信部：推动“人工智能+制造”赋能新型工业化"
     },
     {
      "title": "New England faces record-high heating oil costs this winter",
@@ -2345,22 +2337,6 @@
      "zh": "美国堪萨斯州一车辆冲入足球场致多人死伤"
     },
     {
-     "title": "房贷贴息政策落地观察：有人省下数万元利息",
-     "link": "http://bank.eastmoney.com/news/1174,202610183899101587.html",
-     "pubDate": "Sun, 18 Oct 2026 08:37:07 +0800",
-     "summary": "居民购房贷款贴息政策自10月1日起正式实施以来，各家 银行 积极部署推进工作落地，不少机构抢抓国庆置业窗口期，开通业务绿色通道，下沉一线驻点服务。河北、江苏、广东等多地相继涌现出刚需购房者享受贴息红利的鲜活案例。 业内人士表示，房贷贴息政策有望激活住房刚需、缓解 银行 按揭业务压力等，但也对 银行 系统能力和风控水平提出较高要求，银行在加速推进业务落地的同时，需要持续筑牢风控防线，以及警惕同业非理性竞争等风险。 多家银行积极推进房贷贴息政策落地 国庆假期期间，常年在南方务工的陈先生回到家乡河北邯郸准备置业， 农业银行 河北邯郸分行考虑到其假期停留时间有限，开辟了返乡置业绿色通道，为他顺利办理贷",
-     "source": "东方财富资讯",
-     "zh": "房贷贴息政策落地观察：有人省下数万元利息"
-    },
-    {
-     "title": "罕见！三环集团3个月回购3次！今年多次回购股曝光 五大共性凸显（附名单）",
-     "link": "http://finance.eastmoney.com/news/1354,202610183899098825.html",
-     "pubDate": "Sun, 18 Oct 2026 08:14:17 +0800",
-     "summary": "多次回购给后市传递什么信号？ 罕见！ 三环集团 3个月回购3次 10月15日晚间， 三环集团 （300408） 发布关于首次回购公司股份的公告，2026年10月15日，公司通过股份回购专用证券账户以集中竞价交易方式首次回购公司A股股份130600股，占公司当前总股本的0.0065%，最高成交价为96.24元/股，最低成交价为94.95元/股，成交总金额为12497767元（不含交易费用）。 三环集团 此次实施回购可谓“迅猛”。10月14日晚， 三环集团 发布2026年第三期回购股份方案，拟以不超过120元/股（含），回购资金总额不低于2.5亿元且不超过5亿元。 事实上，这已经是公司近3个月来第",
-     "source": "东方财富资讯",
-     "zh": "罕见！三环集团3个月回购3次！今年多次回购股曝光 五大共性凸显（附名单）"
-    },
-    {
      "title": "共话亚太，共探合作机遇——APEC Talk高端访谈重磅上线",
      "link": "http://www.eeo.com.cn/2026/1018/1068488.shtml",
      "pubDate": "Sun, 18 Oct 2026 08:13:17 +0800",
@@ -2375,30 +2351,6 @@
      "summary": "1935年，陕西华阳常家坝，12岁的放牛娃主动为红军站岗放哨、传递情报。面对敌人的酷刑逼问，他拒不交代游击队下落，最终壮烈牺牲。由重庆市委网信办指导，#第1眼TV-华龙网 推出#纪念红军长征胜利90周年 系列AI短剧#为了星火燎原，第3集《华阳小英雄》上线。#红星照耀中国 #灼灼韶华续薪火 策划：李春燕 监制：刘颜 审核：董进 统筹：楼欣宇 彭钰杰 编导：蒲梦菲 后期：孙思谋 美编：...",
      "source": "经济观察网",
      "zh": "为了星火燎原｜华阳小英雄"
-    },
-    {
-     "title": "人民日报评演唱会票被炒至25万：整治天价黄牛票 光实名制还不够",
-     "link": "http://finance.eastmoney.com/news/1345,202610183899098411.html",
-     "pubDate": "Sun, 18 Oct 2026 08:09:49 +0800",
-     "summary": "据人民日报客户端消息，近日，某明星演唱会门票被炒至25万元，引发热议。虽然售票平台随后澄清，该天价票是黄牛在无票源情况下恶意炒作，但随着演艺市场火热，黄牛加价代抢热门演唱会门票、高价售卖所谓的“内场票”等现象屡见不鲜。有些黄牛票票价高出原票价数倍，动辄上万元。 为整治演艺市场黄牛倒票等不法行为，国家已出台相关措施。2023年9月，文化和旅游部、公安部联合印发的《关于进一步加强大型营业性演出活动规范管理促进演出市场健康有序发展的通知》明确规定，大型演出活动实行实名购票、实名入场，购票人与入场人身份信息保持一致；公开销售的门票数量不得低于核准观众数量的85%，主办方需明示授权票务代理机构。可是，为",
-     "source": "东方财富资讯",
-     "zh": "人民日报评演唱会票被炒至25万：整治天价黄牛票 光实名制还不够"
-    },
-    {
-     "title": "iPhone Duo预售次日价格回落 部分版本较首日缩水一半",
-     "link": "http://finance.eastmoney.com/news/1345,202610183899098260.html",
-     "pubDate": "Sun, 18 Oct 2026 08:07:45 +0800",
-     "summary": "10月17日，iPhone Duo预售开启后的第二天，首批货源的市场价格已经开始明显回落。 截至10月17日19时，新京报 贝壳 财经记者从得物App看到，iPhone Duo多个版本市场成交均价较此前 10月16日20时的高点明显下降，其中部分版本的加价空间已经缩水一半左右。 ▲10月17日，iPhone Duo在得物平台的价格明显回落。图/得物App截图 以白色256GB版本为例，市场成交均价由21170元回落至18666元，下降2504元。该版本官方售价为15999元，这意味着其市场成交价相比官方售价的上涨空间，已经由此前的5171元缩小至2667元，缩水约48%。 其他容量版本的价格回",
-     "source": "东方财富资讯",
-     "zh": "iPhone Duo预售次日价格回落 部分版本较首日缩水一半"
-    },
-    {
-     "title": "超280家机构线上调研！源杰科技：“未来两年客户需求能见度很高”",
-     "link": "http://finance.eastmoney.com/news/1354,202610183899098362.html",
-     "pubDate": "Sun, 18 Oct 2026 07:59:00 +0800",
-     "summary": "上周（10月12日—16日）共有227家A股上市公司接受机构投资者调研。 从赚钱效应看，受大盘表现影响，上周实现正收益的机构调研股仅有一成，其中 尖峰集团 实现2连板，周内涨17.99%； 威派格 涨8.32%； 中船科技 、 中马传动 、 京沪高铁 等3家公司涨超6%。 热门调研标的方面， 源杰科技 、 广合科技 等业绩预喜企业上周接受百家以上机构调研， 豪鹏科技 接受50家以上机构调研， 雷赛智能 、 粤海饲料 、 新宙邦 、 聚灿光电 、 鸿富诚 接受30家以上机构调研。 源杰科技 ：未来两年客户需求能见度很高 源杰科技 是上周机构扎堆调研的“香饽饽”，周内共284家机构参与其线上调研。",
-     "source": "东方财富资讯",
-     "zh": "超280家机构线上调研！源杰科技：“未来两年客户需求能见度很高”"
     },
     {
      "title": "Protests across France spiral into riots and looting",
@@ -2495,6 +2447,54 @@
      "summary": "”I earn $110,000 a year.”",
      "source": "MarketWatch",
      "zh": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
+    },
+    {
+     "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+     "link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+     "pubDate": "Sat, 17 Oct 2026 16:45:15 GMT",
+     "summary": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.",
+     "source": "CNBC",
+     "zh": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says"
+    },
+    {
+     "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
+     "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+     "pubDate": "Sat, 17 Oct 2026 15:11:30 GMT",
+     "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+     "source": "CNBC",
+     "zh": "Software’s new consolidator gets big vote of confidence from Berkshire"
+    },
+    {
+     "title": "&apos;Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+     "link": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+     "pubDate": "Sat, 17 Oct 2026 15:00:01 GMT",
+     "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
+     "source": "CNBC",
+     "zh": "&apos;Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds"
+    },
+    {
+     "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+     "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+     "pubDate": "Sat, 17 Oct 2026 13:00:00 GMT",
+     "summary": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year.",
+     "source": "MarketWatch",
+     "zh": "Meet the home buyers totally unfazed by 7% mortgage rates"
+    },
+    {
+     "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
+     "link": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
+     "pubDate": "Sat, 17 Oct 2026 12:53:53 GMT",
+     "summary": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
+     "source": "Financial Times",
+     "zh": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’"
+    },
+    {
+     "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+     "link": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
+     "pubDate": "Sat, 17 Oct 2026 12:46:21 GMT",
+     "summary": "Berkshire Hathaway shares are at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.",
+     "source": "CNBC",
+     "zh": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO"
     }
    ]
   },

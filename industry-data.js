@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/19 03:45:11",
+ "generated_at": "2026/10/19 04:55:21",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+     "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+     "pubDate": "Sun, 18 Oct 2026 20:37:40 +0000",
+     "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+     "source": "TechCrunch AI",
+     "zh": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’"
+    },
     {
      "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
      "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
      "source": "MIT Tech Review AI",
      "zh": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
-    },
-    {
-     "title": "India becomes the latest country to report rogue AI agent activity",
-     "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-     "pubDate": "Fri, 16 Oct 2026 17:52:24 +0000",
-     "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-     "source": "TechCrunch AI",
-     "zh": "India becomes the latest country to report rogue AI agent activity"
     }
    ]
   },
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)",
+     "link": "https://www.techmeme.com/261018/p11#a261018p11",
+     "pubDate": "Sun, 18 Oct 2026 15:55:01 -0400",
+     "summary": "Phoebe Liu / The Information : Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases &nbsp; &mdash;&nbsp; How many young AI cloud providers can the market, and Nvidia, support?&nbsp; &mdash;&nb",
+     "source": "Techmeme",
+     "zh": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)"
+    },
+    {
      "title": "Anthropic says it&apos;s committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)",
      "link": "https://www.techmeme.com/261018/p10#a261018p10",
      "pubDate": "Sun, 18 Oct 2026 15:10:00 -0400",
@@ -1778,44 +1786,28 @@ window.INDUSTRY_DATA = {
      "zh": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’"
     },
     {
-     "title": "Personal software factories are a waste of time",
-     "link": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
-     "pubDate": "Sun, 18 Oct 2026 19:02:11 +0000",
-     "summary": "Article URL: https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/ Comments URL: https://news.ycombinator.com/item?id=50144175 Points: 5 # Comments: 0",
+     "title": "Tiny Brutalism – Thanks to HN it's on Steam",
+     "link": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
+     "pubDate": "Sun, 18 Oct 2026 18:59:09 +0000",
+     "summary": "Article URL: https://store.steampowered.com/app/5426130/Tiny_Brutalism/ Comments URL: https://news.ycombinator.com/item?id=50144144 Points: 29 # Comments: 3",
      "source": "Hacker News",
-     "zh": "Personal software factories are a waste of time"
+     "zh": "Tiny Brutalism – Thanks to HN it's on Steam"
     },
     {
-     "title": "Free Pascal Compiler Now Supports Dynamic Packages",
+     "title": "Free Pascal compiler now supports dynamic packages",
      "link": "https://www.getlazarus.org/dynamic/",
      "pubDate": "Sun, 18 Oct 2026 18:48:04 +0000",
-     "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 15 # Comments: 3",
+     "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 45 # Comments: 11",
      "source": "Hacker News",
-     "zh": "Free Pascal Compiler Now Supports Dynamic Packages"
+     "zh": "Free Pascal compiler now supports dynamic packages"
     },
     {
-     "title": "HOA's are making the home crisis worse",
+     "title": "Florida's HOAs and condo associations are making the housing crisis worse",
      "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
      "pubDate": "Sun, 18 Oct 2026 18:40:16 +0000",
-     "summary": "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html Comments URL: https://news.ycombinator.com/item?id=50144005 Points: 74 # Comments: 66",
+     "summary": "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html Comments URL: https://news.ycombinator.com/item?id=50144005 Points: 111 # Comments: 175",
      "source": "Hacker News",
-     "zh": "HOA's are making the home crisis worse"
-    },
-    {
-     "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
-     "link": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
-     "pubDate": "Sun, 18 Oct 2026 18:26:40 +0000",
-     "summary": "Article URL: https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/ Comments URL: https://news.ycombinator.com/item?id=50143876 Points: 14 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "CFPB Opens Debanking Investigation into Nine Large National Banks"
-    },
-    {
-     "title": "Investing in the Public Benefit",
-     "link": "https://www.anthropic.com/news/public-benefit-fund",
-     "pubDate": "Sun, 18 Oct 2026 18:15:10 +0000",
-     "summary": "Article URL: https://www.anthropic.com/news/public-benefit-fund Comments URL: https://news.ycombinator.com/item?id=50143755 Points: 16 # Comments: 13",
-     "source": "Hacker News",
-     "zh": "Investing in the Public Benefit"
+     "zh": "Florida's HOAs and condo associations are making the housing crisis worse"
     },
     {
      "title": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&apos;s 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
@@ -1826,12 +1818,28 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&apos;s 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)"
     },
     {
-     "title": "PalmOS Lemmings by Aaron Ardiri",
+     "title": "PalmOS Lemmings",
      "link": "https://github.com/ardiri/palmos-lemmings",
      "pubDate": "Sun, 18 Oct 2026 17:56:59 +0000",
-     "summary": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 23 # Comments: 5",
+     "summary": "Article URL: https://github.com/ardiri/palmos-lemmings Comments URL: https://news.ycombinator.com/item?id=50143536 Points: 46 # Comments: 9",
      "source": "Hacker News",
-     "zh": "PalmOS Lemmings by Aaron Ardiri"
+     "zh": "PalmOS Lemmings"
+    },
+    {
+     "title": "Namecheap just seized and disabled all my domains",
+     "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+     "pubDate": "Sun, 18 Oct 2026 16:56:56 +0000",
+     "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 212 # Comments: 112",
+     "source": "Hacker News",
+     "zh": "Namecheap just seized and disabled all my domains"
+    },
+    {
+     "title": "Someone behind the software",
+     "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+     "pubDate": "Sun, 18 Oct 2026 16:32:00 +0000",
+     "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 191 # Comments: 70",
+     "source": "Hacker News",
+     "zh": "Someone behind the software"
     },
     {
      "title": "Anthropic gives outside AI watchdog “employee-like” access",
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "数学素有“科学之巅”之誉；数学史若写成英雄传，这四次危机便不是四次失败，而是四次涅槃重生。",
      "source": "钛媒体",
      "zh": "数学的“第四次危机”：从不可说，到无可说"
-    },
-    {
-     "title": "内核开发者递交代码无需声明是否 AI 辅助编写",
-     "link": "https://www.solidot.org/story?sid=85641",
-     "pubDate": "Sun, 18 Oct 2026 22:28:17 +0800",
-     "summary": "Linux 邮件列表中的一则消息披露，2026 年 10 月 8 日捷克布拉格举行的维护者峰会（Maintainers Summit）达成了一项重大决策：向内核提交代码时，无需再使用“Assisted-by”标签。这意味着内核开发者递交代码无需声明是否 AI 辅助编写。Linux 作者 Linus Torvalds 认为，禁止使用 AI 就像禁止使用文本编辑器是极其愚蠢的规定，表示他认为从事内核开发的人知道他们在做什么。他本周递交了一组用 Claude Code 开发的补丁，但补丁被发现存在竞态条件，其内存回收也被认为有问题，这组补丁的后续开发被交给了人类开发者 Kiryl Shutsemau",
-     "source": "Solidot",
-     "zh": "内核开发者递交代码无需声明是否 AI 辅助编写"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "After five years, Inscryption is finally coming to mobile",
+     "link": "https://www.engadget.com/2289805/after-five-years-inscryption-is-finally-coming-to-mobile/",
+     "pubDate": "Sun, 18 Oct 2026 20:27:30 +0000",
+     "summary": "The studio celebrated Inscryption's five-year anniversary with a Twitch stream.",
+     "source": "Engadget",
+     "zh": "After five years, Inscryption is finally coming to mobile"
+    },
     {
      "title": "What is the star button for on your Roku remote?",
      "link": "https://www.engadget.com/2286582/roku-remote-star-button-what-for/",
@@ -2058,20 +2066,12 @@ window.INDUSTRY_DATA = {
      "zh": "Should you limit your FPS in games? Here's when it makes sense"
     },
     {
-     "title": "TikTok reportedly bans ads for Musk documentary before its wider US release",
+     "title": "TikTok reportedly banned ads for Musk documentary before its wider US release",
      "link": "https://www.engadget.com/2289782/tiktok-reportedly-bans-ads-for-musk-documentary-before-its-wider-us-release/",
      "pubDate": "Sun, 18 Oct 2026 16:42:15 +0000",
      "summary": "The platform attributed the decision to \"political content that goes against its policy.\"",
      "source": "Engadget",
-     "zh": "TikTok reportedly bans ads for Musk documentary before its wider US release"
-    },
-    {
-     "title": "How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8",
-     "link": "https://www.engadget.com/2286431/how-to-fix-scaling-app-size-issues-samsung-galaxy-z-fold-8/",
-     "pubDate": "Sun, 18 Oct 2026 16:15:00 +0000",
-     "summary": "If you have trouble getting apps to scale properly on your foldable, read on.",
-     "source": "Engadget",
-     "zh": "How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8"
+     "zh": "TikTok reportedly banned ads for Musk documentary before its wider US release"
     },
     {
      "title": "Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect",
@@ -2258,12 +2258,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "United CEO Kirby defends higher airfares, seat fees as costs rise",
+     "link": "https://seekingalpha.com/news/4654079-united-ceo-kirby-defends-higher-airfares-seat-fees-as-costs-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 18 Oct 2026 16:46:25 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "United CEO Kirby defends higher airfares, seat fees as costs rise"
+    },
+    {
+     "title": "乌克兰首都基辅响起强烈爆炸声",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899226668.html",
+     "pubDate": "Mon, 19 Oct 2026 04:44:32 +0800",
+     "summary": "当地时间18日23时许，乌克兰首都基辅市不同方向传出多次强烈爆炸声，有消息称一枚导弹落在该市东郊方向并爆炸。 乌克兰空军当天22时57分至23时03分在社交媒体发布多条导弹袭击预警，称俄罗斯军队多枚弹道导弹向基辅方向袭来。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "乌克兰首都基辅响起强烈爆炸声"
+    },
+    {
+     "title": "在Anthropic宣布将5%股份注入新型公共利益基金后 埃隆·马斯克发文称 “我建议直接把股份分给公众”",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899226596.html",
+     "pubDate": "Mon, 19 Oct 2026 04:30:46 +0800",
+     "summary": "在Anthropic宣布将5%股份注入新型公共利益基金后，埃隆·马斯克发文称，“我建议直接把股份分给公众”。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "在Anthropic宣布将5%股份注入新型公共利益基金后 埃隆·马斯克发文称 “我建议直接把股份分给公众”"
+    },
+    {
+     "title": "France rocked by violent protests, millions in business losses to looting",
+     "link": "https://seekingalpha.com/news/4654078-france-rocked-by-violent-protests-millions-in-business-losses-to-looting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 18 Oct 2026 16:21:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "France rocked by violent protests, millions in business losses to looting"
+    },
+    {
+     "title": "抱团退潮冲击公募净值 回撤修复可聚焦三大维度",
+     "link": "http://finance.eastmoney.com/news/1354,202610193899218695.html",
+     "pubDate": "Mon, 19 Oct 2026 04:06:08 +0800",
+     "summary": "受海外多重因素扰动，9月下旬以来A股持续调整，不少主动权益基金年内回撤幅度明显加大。 证券时报基金研究院以2016年前成立的1500余只主动权益基金为统计样本，结果显示，年内约三成基金最大回撤创下近十年纪录；最大回撤幅度超过50%的“腰斩基”达17只，单只基金年内最深回撤达57.93%，回撤深度与深度回撤产品数量双双刷新近十年纪录。 值得关注的是，2026年主动权益基金回撤中位数为24.88%，仍略低于2018年和2022年水平。回撤中枢未创纪录、深度回撤产品却显著增多，表明本轮调整并非全面性下跌，而是科技板块极致抱团退潮所引发的结构性冲击。在此背景下，相关基金净值后续能否修复、投资者又当如何",
+     "source": "东方财富股票",
+     "zh": "抱团退潮冲击公募净值 回撤修复可聚焦三大维度"
+    },
+    {
+     "title": "Macron faces political firestorm after riots",
+     "link": "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1",
+     "pubDate": "Sun, 18 Oct 2026 19:55:48 GMT",
+     "summary": "Worst street violence in years comes six months ahead of one of Europe’s most closely watched elections",
+     "source": "Financial Times",
+     "zh": "Macron faces political firestorm after riots"
+    },
+    {
+     "title": "奥地利航空公司据称从特拉维夫飞往维也纳的航班在飞机上发现可疑物体后改变航线 并降落在保加利亚索非亚",
+     "link": "http://finance.eastmoney.com/news/11790,202610193899226426.html",
+     "pubDate": "Mon, 19 Oct 2026 03:46:09 +0800",
+     "summary": "奥地利航空公司据称从特拉维夫飞往维也纳的航班在飞机上发现可疑物体后改变航线，并降落在保加利亚索非亚。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "奥地利航空公司据称从特拉维夫飞往维也纳的航班在飞机上发现可疑物体后改变航线 并降落在保加利亚索非亚"
+    },
+    {
      "title": "Bessent warns Zelenskyy to &apos;be very careful&apos; about claims U.S. is throttling Starlink",
      "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
      "pubDate": "Sun, 18 Oct 2026 19:37:28 GMT",
      "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
      "source": "CNBC",
      "zh": "Bessent warns Zelenskyy to &apos;be very careful&apos; about claims U.S. is throttling Starlink"
+    },
+    {
+     "title": "黑山总理斯帕伊奇会见王毅",
+     "link": "http://finance.eastmoney.com/news/1351,202610193899224240.html",
+     "pubDate": "Mon, 19 Oct 2026 03:36:02 +0800",
+     "summary": "18日， 黑山 总理斯帕伊奇在波德戈里察会见中共中央政治局委员、外交部长王毅。 斯帕伊奇请王毅转达对中国领导人的诚挚问候，表示今年6月赴华参会得到中方热情接待，今天中国外长来访，都体现了中方对黑中关系的重视。黑中两国有着共同的历史记忆和传统友谊，第二次世界大战期间都曾抵抗法西斯和外来侵略。黑方高度重视中国的大国地位和影响，赞赏中国在中东战事中以负责任态度抑制全球油价上涨，帮助 黑山 等中小国家渡过能源危机，体现了大国责任与担当。 斯帕伊奇说，近年来， 黑山 经济社会实现良好发展，中国企业帮助黑山成功完成南北 高速公路 的建设。双方正在合作修复塔拉河大桥，这是一项具有重要历史意义的工程，拉近了两",
+     "source": "东方财富股票",
+     "zh": "黑山总理斯帕伊奇会见王毅"
     },
     {
      "title": "Google cuts quantum errors 40-fold in step toward practical use",
@@ -2290,28 +2354,12 @@ window.INDUSTRY_DATA = {
      "zh": "肯尼亚新增一例埃博拉确诊病例"
     },
     {
-     "title": "泽连斯基与美特使通话 讨论外交解决乌克兰危机",
-     "link": "http://finance.eastmoney.com/news/1351,202610193899224026.html",
-     "pubDate": "Mon, 19 Oct 2026 02:56:17 +0800",
-     "summary": "乌克兰总统泽连斯基18日在社交媒体发文称，当天，他与美国总统特朗普的特使威特科夫和女婿库什纳通话，讨论通过外交解决乌克兰危机。 泽连斯基称，双方就此前在美国佛罗里达州会晤情况和接下来准备采取的外交举措进行讨论。美方立场对乌防空影响重大。乌方愿与美方进行建设性、坦诚合作，并推动通过外交努力取得切实成果。 9日，美国、乌克兰和欧洲的代表在佛罗里达州迈阿密举行会晤。威特科夫当天在社交媒体发文说，会晤议题涵盖能源和粮食、安全保障等问题。与会各方重申继续共同致力于通过外交努力实现持久和平。 同时，特朗普政府9日宣布放松对俄柴油贸易制裁，并称已与俄方达成由俄向美及全球市场提供柴油的协议。特朗普还指责乌克兰",
-     "source": "东方财富股票",
-     "zh": "泽连斯基与美特使通话 讨论外交解决乌克兰危机"
-    },
-    {
      "title": "Anthropic plans to set aside 5% of shares for public benefit fund before IPO",
      "link": "https://seekingalpha.com/news/4654075-anthropic-plans-to-set-aside-5-of-shares-for-public-benefit-fund-before-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 18 Oct 2026 14:49:41 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Anthropic plans to set aside 5% of shares for public benefit fund before IPO"
-    },
-    {
-     "title": "法国总统谴责该国多地发生的暴力事件",
-     "link": "http://finance.eastmoney.com/news/1351,202610193899223933.html",
-     "pubDate": "Mon, 19 Oct 2026 02:36:14 +0800",
-     "summary": "当地时间10月18日，法国总统马克龙发表电视讲话时，谴责17日法国多地发生的暴力事件。他强调，任何理由都不能为这些行为开脱。 此外，马克龙在讲话中称，法国总理勒科尔尼将于19日主持危机应对会议，协调尽快提供援助，帮助受影响的商户及民众。 当地时间17日，法国首都巴黎及多个城市爆发示威游行，抗议生活成本高涨，部分地区发生暴力冲突。法国内政部长努内兹17日晚表示，当天法国全国抗议人数达55万，其中巴黎有11万。另据法国总工会称，当天法国抗议总人数达80万。据悉，法国总理勒科尔尼表示，17日全国有约1200人在抗议活动中被捕，150名警察受伤。 据了解，这次抗议正值法国政府推进2027年财政预算案之",
-     "source": "东方财富股票",
-     "zh": "法国总统谴责该国多地发生的暴力事件"
     },
     {
      "title": "‘Street Fighter’ hits $31M in box office debut as moviegoing jumps 48%",
@@ -2322,14 +2370,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘Street Fighter’ hits $31M in box office debut as moviegoing jumps 48%"
     },
     {
-     "title": "胡塞武装称沙特24小时内发动110次袭击",
-     "link": "http://finance.eastmoney.com/news/1351,202610193899223735.html",
-     "pubDate": "Mon, 19 Oct 2026 02:30:51 +0800",
-     "summary": "也门胡塞武装发布声明，称过去24小时内沙特向也门首都萨那以及荷台达、塔伊兹、阿姆兰、哈杰、萨达、焦夫、达利阿和马里卜等省份，发动了110次空袭及导弹袭击，造成30多人死伤，其中大多数是妇女和儿童。自本轮局势升级以来，沙特针对也门的空袭及导弹袭击总数已达2652次。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "胡塞武装称沙特24小时内发动110次袭击"
-    },
-    {
      "title": "St Petersburg endures biggest Ukrainian drone attack",
      "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
      "pubDate": "Sun, 18 Oct 2026 18:30:14 GMT",
@@ -2338,36 +2378,52 @@ window.INDUSTRY_DATA = {
      "zh": "St Petersburg endures biggest Ukrainian drone attack"
     },
     {
-     "title": "Anthropic计划将部分股份转入新型“公共利益”基金",
-     "link": "http://finance.eastmoney.com/news/1354,202610193899223681.html",
-     "pubDate": "Mon, 19 Oct 2026 02:10:16 +0800",
-     "summary": "人工智能 企业Anthropic宣布，计划将自身5%的股份注入一只新设立的基金，该公司表示，这一安排将支持其开展面向“公共利益”的捐赠，相关用途包括缓解 人工智能 对就业市场造成的冲击。该公司在周日发布的声明中表示：“经股东批准后，Anthropic将即刻划转5%的股份进入该基金；当公司估值较设定的基准线每上涨50%，董事会可自主决定再追加注入2%的股份。”声明提到，这只基金将支持公司以全新方式践行自身使命，比如动用部分资金专门应对“AI对劳动力市场造成的影响”。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "Anthropic计划将部分股份转入新型“公共利益”基金"
+     "title": "公 示",
+     "link": "http://www.eeo.com.cn/2026/1019/1069408.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:19 +0800",
+     "summary": "根据《新闻记者证管理办法》等相关规定，经我单位审核，现将拟申领新闻记者证人员名单予以公示，公示期2026年10月19日——2026年10月30日。 拟申领新闻记者证人员名单： 公示平台：证券日报网（网址：www.zqrb.cn） 监督举报电话： 《证券日...",
+     "source": "经济观察网",
+     "zh": "公 示"
     },
     {
-     "title": "两大约束“红线”松绑 基金“长不大”难题迎转机",
-     "link": "http://stock.eastmoney.com/news/1426,202610193899218159.html",
-     "pubDate": "Mon, 19 Oct 2026 01:59:12 +0800",
-     "summary": "10月16日，永赢基金、广发基金、招商基金、华宝基金旗下新发ETF同日公告延长募集期。受市场行情波动影响，新产品要达到2亿元的基金成立门槛，募集周期被拉长。公募新发产品扎堆延长募集的情形在此前并不常见，其背后或许折射出基金公司对待新发基金的心态正在转变。 证监会近日发布了《公开募集证券投资基金运作管理办法（征求意见稿）》（下称《征求意见稿》），下调股票基金成立门槛并取消发起式基金“三年”清盘规定，这给很多基金产品解决“长不大”的难题带来转机。 证券时报记者统计的数据显示，2023年以来“踩线”成立的基金占比和发起式基金的清盘数量占比均在显著提升。特别是2026年以来，股票ETF“踩线”成立比例",
-     "source": "东方财富股票",
-     "zh": "两大约束“红线”松绑 基金“长不大”难题迎转机"
+     "title": "前三季度全国铁路累计发送旅客37.1亿人次",
+     "link": "http://www.eeo.com.cn/2026/1019/1069407.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:13 +0800",
+     "summary": "《证券日报》记者10月18日从中国国家铁路集团有限公司（以下简称“国铁集团”）获悉，今年前三季度，国铁集团持续深化运输供给侧结构性改革，加强旅客运输组织，丰富客运产品供给，提升站车服务品质，全国铁路累计发送旅客37.1亿人次、同比增长4.8%，创历史同期新高，有力保障了旅客平安便捷温馨出行，为“流动的中国”注入了新活力。 具体来看，一方面，旅客运输能力持续提升。国铁集团统筹高速铁路和普速铁路资源，用好...",
+     "source": "经济观察网",
+     "zh": "前三季度全国铁路累计发送旅客37.1亿人次"
     },
     {
-     "title": "Wall Street sees warning signs of an AI bubble, but valuations tell different story",
-     "link": "https://seekingalpha.com/news/4654072-wall-street-sees-warning-signs-of-an-ai-bubble-but-valuations-tell-different-story?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 18 Oct 2026 13:40:46 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Wall Street sees warning signs of an AI bubble, but valuations tell different story"
+     "title": "推动人工智能从能用到好用",
+     "link": "http://www.eeo.com.cn/2026/1019/1069406.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:13 +0800",
+     "summary": "■谢若琳 10月16日召开的国务院常务会议（以下简称“国常会”）提出，人工智能是影响未来发展的关键变量，要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发，注重以落地应用牵引技术创新，不断深化拓展“人工智能+”行动。 此前，6月29日召开的国常会曾提出，要深入实施“人工智能+”行动，发挥我国产业体系完备、应用场景丰富等优势，促进智能产品和服务加快规模化商业应用。 4个月内，两次国常...",
+     "source": "经济观察网",
+     "zh": "推动人工智能从能用到好用"
     },
     {
-     "title": "SocGen flags relative bargains in Treasuries as yields fall",
-     "link": "https://seekingalpha.com/news/4654071-socgen-flags-relative-bargains-in-treasuries-as-yields-fall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 18 Oct 2026 13:03:27 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SocGen flags relative bargains in Treasuries as yields fall"
+     "title": "银行卡清算市场开放稳步推进",
+     "link": "http://www.eeo.com.cn/2026/1019/1069405.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:09 +0800",
+     "summary": "■刘琪 日前，中国人民银行公示，批准威士信息技术（北京）有限公司（以下简称“威士公司”）筹备银行卡清算机构。威士公司是维萨公司（Visa）在我国境内成立的企业法人，为外商独资企业。这意味着，Visa将成为继美国运通、万事达卡之后，第三家获准进入我国境内银行卡清算市场的国际卡组织。 所谓银行卡清算机构，是指在我国境内依法取得银行卡清算业务许可证，专门从事银行卡清算业务的企业法人。银行卡清算业务...",
+     "source": "经济观察网",
+     "zh": "银行卡清算市场开放稳步推进"
+    },
+    {
+     "title": "影院变身赛事“第二现场” “跟着电影去运动”解锁消费新场景",
+     "link": "http://www.eeo.com.cn/2026/1019/1069404.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:09 +0800",
+     "summary": "近日，国家电影局、国家体育总局联合印发《关于开展“跟着电影去运动”行动 推动电影与体育双向赋能的通知》（以下简称《通知》）。 在主要任务方面，《通知》提出，立足电影和体育各自产业特点、行业优势，推动电影与体育跨界合作，促进资源共享、优势互补，繁荣发展电影文化、体育文化，强化消费联动，创新服务供给，激发广大人民群众参与电影欣赏、体育运动的热情，丰富精神世界、促进身体健康、享受品质生活，不断满...",
+     "source": "经济观察网",
+     "zh": "影院变身赛事“第二现场” “跟着电影去运动”解锁消费新场景"
+    },
+    {
+     "title": "不能跳过“卖者尽责”谈“买者自负”",
+     "link": "http://www.eeo.com.cn/2026/1019/1069403.shtml",
+     "pubDate": "Mon, 19 Oct 2026 02:26:09 +0800",
+     "summary": "■孟珂 近日，最高人民法院、中国人民银行、国家金融监督管理总局、中国证券监督管理委员会联合发布六起金融消费者、投资者合法权益保护典型案例。其中一起私募基金纠纷案，再次为市场敲响警钟：金融机构必须恪守“卖者尽责”，严格落实适当性义务，一旦履职不到位，就要承担相应赔偿责任。 具体来看，该私募基金纠纷案要从2015年说起，彼时，某证券营业部负责人向杨某某等投资者推介兜售一款私募基金，对外宣称该...",
+     "source": "经济观察网",
+     "zh": "不能跳过“卖者尽责”谈“买者自负”"
     },
     {
      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
@@ -2440,62 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the country's military has prepared a response to any new attacks.",
      "source": "CNBC",
      "zh": "Iran says it has a &apos;new operational plan&apos; if the U.S. resumes attacks, as shipping vessels report strikes"
-    },
-    {
-     "title": "Roth conversions: When the ‘juice isn&apos;t really worth the squeeze,’ according to a top-ranked advisor",
-     "link": "https://www.cnbc.com/2026/10/18/roth-conversion-2026.html",
-     "pubDate": "Sun, 18 Oct 2026 13:30:01 GMT",
-     "summary": "If you're considering a year-end Roth conversion for 2026, there are some key things to know, experts say.",
-     "source": "CNBC",
-     "zh": "Roth conversions: When the ‘juice isn&apos;t really worth the squeeze,’ according to a top-ranked advisor"
-    },
-    {
-     "title": "Boomers are buying into the promise of monthly income from options ETFs, but there&apos;s a tax catch",
-     "link": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
-     "pubDate": "Sun, 18 Oct 2026 13:10:33 GMT",
-     "summary": "Covered call ETFs have been widely adopted by baby boomers to meet monthly income needs, but unlike most ETFs, the tax implications can be significant.",
-     "source": "CNBC",
-     "zh": "Boomers are buying into the promise of monthly income from options ETFs, but there&apos;s a tax catch"
-    },
-    {
-     "title": "10月18日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202610183899168894.html",
-     "pubDate": "Sun, 18 Oct 2026 20:30:39 +0800",
-     "summary": "今日摘要 今天是重阳节。习近平总书记指出，让老年人老有所养、生活幸福、健康长寿是我们的共同愿望。落实总书记要求，我国加快推进养老事业多元化、多样化发展，用心用情做好养老服务，持续增进民生福祉。 李强同乌兹别克斯坦总理会谈，会见乌兹别克斯坦总统。 系列报道【赓续长征精神奋进复兴征程】今天来看：甘肃用好红色资源，凝聚奋进力量，走好新时代长征路。 国家社保公共服务平台已开通104项全国性、跨地区服务。 城镇供热“温暖工程”三年行动启动。 沿用多年的全国铁路车次编排迎来系统性变革。 也门胡塞武装称，击落沙特武装直升机。沙特主导的多国联军称，拦截多架 无人机 。 内容速览 【新思想引领新征程】绘就幸福“",
-     "source": "东方财富资讯",
-     "zh": "10月18日晚间央视新闻联播要闻集锦"
-    },
-    {
-     "title": "透视10月ETF资金局：谁在逆市扫货？谁在恐慌出逃？",
-     "link": "http://bond.eastmoney.com/news/1332,202610183899170979.html",
-     "pubDate": "Sun, 18 Oct 2026 20:28:00 +0800",
-     "summary": "10月以来，A股市场持续震荡，到本周（10月12日—16日）调整延续，核心指数悉数下跌，结构分化进一步加强，红利相对抗跌，科技成长方向跌幅居前。 从归因上来看，这一轮调整主要有两个因素扰动： 一是海外。美国通胀数据超预期，加息预期升温，长端美债利率维持在高位，油价受地缘因素扰动走强，海外科技股波动向亚太市场传导。 二是国内资金端出现变量。当前市场缺乏增量资金，以存量博弈为主，前期科技板块持仓与交易拥挤度偏高。在外部扰动叠加三季报验证窗口临近的背景下，杠杆资金与机构资金同步降杠杆、兑现收益，ETF等被动资金虽有承接但体量有限，交易层面形成负反馈，放大了调整幅度。 截至10月16日，各大核心宽基指",
-     "source": "东方财富资讯",
-     "zh": "透视10月ETF资金局：谁在逆市扫货？谁在恐慌出逃？"
-    },
-    {
-     "title": "下周分红1665亿元 股息率最高9.23% 红包雨来了",
-     "link": "http://finance.eastmoney.com/news/1354,202610183899169281.html",
-     "pubDate": "Sun, 18 Oct 2026 20:20:16 +0800",
-     "summary": "A股 行业龙头 2026年半年度现金分红下周集中落地。 记者统计显示，股权登记日处于10月19日至10月23日，共有99家上市公司实施现金分红，累计分红规模约1665亿元。其中， 工商银行 、 农业银行 将于10月21日向A股股东派发中期现金红利，合计约821亿元。 行业龙头 集中分红 工商银行 2026年半年度每股派发现金股息0.1511元（含税），本次派发现金股息共计约538.53亿元，其中派发A股现金股息共计约407.38亿元； 农业银行 每股派发中期现金红利0.1297元（含税），共计派发现金红利约453.93亿元，其中派发A股现金红利共约414.06亿元。两股股权登记日均为10月20",
-     "source": "东方财富资讯",
-     "zh": "下周分红1665亿元 股息率最高9.23% 红包雨来了"
-    },
-    {
-     "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-     "link": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
-     "pubDate": "Sun, 18 Oct 2026 12:00:01 GMT",
-     "summary": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
-     "source": "CNBC",
-     "zh": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy"
-    },
-    {
-     "title": "下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报",
-     "link": "https://wallstreetcn.com/articles/3783759",
-     "pubDate": "Sun, 18 Oct 2026 19:56:22 +0800",
-     "summary": "10月19日 - 10月25日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观政策方面，中国三季度GDP、金融街论坛与APEC财长会多线并进。 10月19日中国公布三季度GDP及9月工业、社零、地产等经济数据。同日，金融街论坛年会开幕，吴清、朱鹤新出席，国家金融管理部门将集中发布系列改革政策。APEC财长会首度落地香港，聚焦多边贸易与可持续金融，亦是香港国际金融中心地位的主场背书。 AI方面，黄仁勋柏林演讲是本周全球最大变量。 英伟达GTC柏林开幕，黄仁勋21日主题演讲，德国总理默茨19日晚提前与其会面，议题直指德国AI工业算力合作落地，新架构与合作规模值得重点关",
-     "source": "华尔街见闻",
-     "zh": "下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报"
     }
    ]
   },

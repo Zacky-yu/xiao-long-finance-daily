@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/19 19:51:50",
+ "generated_at": "2026/10/19 20:11:57",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "7 Checks to Run Before Trusting AI-Generated Code",
+     "link": "https://www.kdnuggets.com/7-checks-to-run-before-trusting-ai-generated-code",
+     "pubDate": "Mon, 19 Oct 2026 12:00:43 +0000",
+     "summary": "AI makes writing code cheap. Verifying it is still your job.",
+     "source": "KDnuggets",
+     "zh": "7 Checks to Run Before Trusting AI-Generated Code"
+    },
     {
      "title": "Lovart 2.0上线！设计界的个人助理来了，我用它给DeepSeek设计了一个新形象",
      "link": "https://zhidx.com/p/602150.html",
@@ -239,14 +247,6 @@
      "summary": "In this tutorial, we implement Structured Data Models, NVIDIA’s new library that puts several pretrained foundation models for tables behind one PyTorch interface, and use it to make predictions without training. The library wraps TabICLv2 and KumoTabular for single tables and KumoRelational for who",
      "source": "MarkTechPost",
      "zh": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models"
-    },
-    {
-     "title": "刚刚，Anthropic宣布奇点已至！SI或把美国GDP推上44万亿美元",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652735627&idx=1&sn=88308f4a17de808320f3bb82fe0f32a0",
-     "pubDate": "Sun, 18 Oct 2026 13:00:00 +0800",
-     "summary": "AI 救得了美国？",
-     "source": "新智元",
-     "zh": "刚刚，Anthropic宣布奇点已至！SI或把美国GDP推上44万亿美元"
     }
    ]
   },
@@ -505,6 +505,22 @@
    "total": 5,
    "items": [
     {
+     "title": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap",
+     "link": "https://roboticsandautomationnews.com/2026/10/19/new-3-67-million-yorkshire-robotics-hub-will-help-manufacturers-bridge-automation-gap/106034/",
+     "pubDate": "Mon, 19 Oct 2026 12:01:33 +0000",
+     "summary": "The University of Bradford is leading a £3.67 million Yorkshire Robotics Adoption Hub after securing £2.75 million in funding from Innovate UK to help manufacturers adopt robotics and automation technologies. The Hub is designed to address one of the biggest barriers to productivity in UK industry. ",
+     "source": "Robotics & Automation",
+     "zh": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap"
+    },
+    {
+     "title": "The Robot Group opens UK enquiries for X-Humanoid robots",
+     "link": "https://roboticsandautomationnews.com/2026/10/19/the-robot-group-opens-uk-enquiries-for-x-humanoid-robots/106030/",
+     "pubDate": "Mon, 19 Oct 2026 11:51:09 +0000",
+     "summary": "The Robot Group, an authorised UK distributor for X-Humanoid (developed by the Beijing Humanoid Robot Innovation Center), is inviting expressions of interest from UK businesses and research organisations exploring the company’s TianGong and Tianyi humanoid robots. The announcement gives prospective ",
+     "source": "Robotics & Automation",
+     "zh": "The Robot Group opens UK enquiries for X-Humanoid robots"
+    },
+    {
      "title": "Origin raises $20 million to scale general-purpose construction robots",
      "link": "https://roboticsandautomationnews.com/2026/10/19/origin-raises-20-million-to-scale-general-purpose-construction-robots/106024/",
      "pubDate": "Mon, 19 Oct 2026 09:21:42 +0000",
@@ -575,22 +591,6 @@
      "summary": "Great digital products rarely arrive fully formed. For startups, product teams, and established companies testing a new concept, custom MVP app development services can turn a promising idea into a working product before time, budget, and internal energy are spent in the wrong direction. An MVP is n",
      "source": "Robotics & Automation",
      "zh": "Why MVP App Development is the Smartest First Move"
-    },
-    {
-     "title": "How Personal Injury Lawyers Can Automate Medical Chronologies: 6 Best AI Tools in 2026",
-     "link": "https://roboticsandautomationnews.com/2026/10/16/how-personal-injury-lawyers-can-automate-medical-chronologies-6-best-ai-tools-in-2026/106007/",
-     "pubDate": "Fri, 16 Oct 2026 18:52:38 +0000",
-     "summary": "Personal injury lawyers can automate medical chronologies by using AI to extract treatment dates, providers, diagnoses, and procedures from medical records, then organize those details into a timeline linked to the original documents. The legal team reviews the chronology and uses it for case evalua",
-     "source": "Robotics & Automation",
-     "zh": "How Personal Injury Lawyers Can Automate Medical Chronologies: 6 Best AI Tools in 2026"
-    },
-    {
-     "title": "9 Best Shopify Plus Agencies for B2B and Enterprise Ecommerce in 2026",
-     "link": "https://roboticsandautomationnews.com/2026/10/16/9-best-shopify-plus-agencies-for-b2b-and-enterprise-ecommerce-in-2026/106002/",
-     "pubDate": "Fri, 16 Oct 2026 18:41:56 +0000",
-     "summary": "The best Shopify Plus agencies for B2B and enterprise ecommerce in 2026 include Fyresite, Zaelab, Teifi Digital, Praella, Shero Commerce, BlueSwitch, Uncap, AAXIS, and TMG. Fyresite is a strong choice for complex Shopify Plus migrations, automotive ecommerce, custom product catalogs, and B2B develop",
-     "source": "Robotics & Automation",
-     "zh": "9 Best Shopify Plus Agencies for B2B and Enterprise Ecommerce in 2026"
     },
     {
      "title": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program",
@@ -849,6 +849,22 @@
    "total": 9,
    "items": [
     {
+     "title": "Year-end scramble exposes US BESS sector’s commissioning and policy strains",
+     "link": "https://www.energy-storage.news/year-end-scramble-exposes-us-bess-sectors-commissioning-and-policy-strains/",
+     "pubDate": "Mon, 19 Oct 2026 11:50:16 +0000",
+     "summary": "In the wide-ranging conversation, Shaw starts off by describing the year-end rush as a perennial challenge for the battery energy storage system (BESS) sector in the US.",
+     "source": "Energy Storage News",
+     "zh": "Year-end scramble exposes US BESS sector’s commissioning and policy strains"
+    },
+    {
+     "title": "BESS beats gas peaker plants on LCOE globally, Wood Mackenzie finds",
+     "link": "https://www.energy-storage.news/bess-beats-gas-peaker-plants-on-lcoe-globally-wood-mackenzie-finds/",
+     "pubDate": "Mon, 19 Oct 2026 11:49:17 +0000",
+     "summary": "Four-hour battery storage is less expensive than open-cycle gas turbines in the 43 markets in which both technologies were modelled, according to a new report from market research firm Wood Mackenzie.",
+     "source": "Energy Storage News",
+     "zh": "BESS beats gas peaker plants on LCOE globally, Wood Mackenzie finds"
+    },
+    {
      "title": "Woodside Resumes Work at Australian LNG Project after Greenpeace Stunt",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Woodside-Resumes-Work-at-Australian-LNG-Project-after-Greenpeace-Stunt.html",
      "pubDate": "Mon, 19 Oct 2026 06:30:00 -0500",
@@ -1071,22 +1087,6 @@
      "summary": "Disclaimer: Many of our readers have criticized me for supporting an Elon Musk company. It does present a conundrum for me. Musk has supported Donald Trump with millions of dollars of campaign contributions and has served as a member of his administration. Trump has single-handedly set back green en",
      "source": "CleanTechnica",
      "zh": "Tesla Implements New Accident-Avoidance Automation, But Millions of Tesla Customers Don’t Have Access To It"
-    },
-    {
-     "title": "Recurrent Energy begins commercial operations at 200MW Villameca solar project in Spain",
-     "link": "https://www.pv-tech.org/recurrent-energy-begins-commercial-operations-200mw-villameca-solar-project-spain/",
-     "pubDate": "Fri, 16 Oct 2026 15:14:10 +0000",
-     "summary": "Recurrent Energy has announced the start of commercial operations at the 200MWp Villameca Project in Castilla y León, Spain.",
-     "source": "PV Tech",
-     "zh": "Recurrent Energy begins commercial operations at 200MW Villameca solar project in Spain"
-    },
-    {
-     "title": "FERC proposes easing regulatory pathway for gas pipeline, LNG projects",
-     "link": "https://www.utilitydive.com/news/ferc-gas-pipeline-lng-blanket-authorization-permitting-reform/833234/",
-     "pubDate": "Fri, 16 Oct 2026 10:42:23 -0400",
-     "summary": "&ldquo;The only current restriction on getting American gas is our ability to get the gas to market and the infrastructure bottlenecks,&rdquo; FERC Chairman Laura Swett said.",
-     "source": "Utility Dive",
-     "zh": "FERC proposes easing regulatory pathway for gas pipeline, LNG projects"
     }
    ]
   },
@@ -1297,6 +1297,14 @@
    "total": 6,
    "items": [
     {
+     "title": "Did a giant object collide with Earth to form the moon?",
+     "link": "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon",
+     "pubDate": "Mon, 19 Oct 2026 12:00:00 +0000",
+     "summary": "Known as the giant-impact hypothesis, this proposed event involves a collision between Earth and a hypothetical Mars-sized protoplanet astronomers call Theia.",
+     "source": "Space.com",
+     "zh": "Did a giant object collide with Earth to form the moon?"
+    },
+    {
      "title": "Japan launching bold sample-return mission to Mars moon Phobos today: Watch it live",
      "link": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live",
      "pubDate": "Mon, 19 Oct 2026 10:00:00 +0000",
@@ -1375,14 +1383,6 @@
      "summary": "A citizen science project is seeking volunteers to comb through NASA telescope data for telltale signs of the galaxy's hidden black holes.",
      "source": "Space.com",
      "zh": "Astronomers want your help finding 'missing' black holes in the Milky Way"
-    },
-    {
-     "title": "10 best places to see the 2027 total solar eclipse in Spain",
-     "link": "https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain",
-     "pubDate": "Sun, 18 Oct 2026 10:00:00 +0000",
-     "summary": "From the Costa del Sol to whitewashed mountain villages, here are 10 of the best places in southern Spain to experience the Aug. 2, 2027 total solar eclipse.",
-     "source": "Space.com",
-     "zh": "10 best places to see the 2027 total solar eclipse in Spain"
     },
     {
      "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
@@ -1544,6 +1544,14 @@
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "One Compromised Login Exposed Millions of California Students’ Records",
+     "link": "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
+     "pubDate": "Mon, 19 Oct 2026 11:55:50 +0000",
+     "summary": "Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006. The post One Compromised Login Exposed Millions of California Students’ Records appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "One Compromised Login Exposed Millions of California Students’ Records"
+    },
     {
      "title": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack",
      "link": "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/",
@@ -1721,14 +1729,6 @@
      "zh": "Targeted ads installed Candiru spyware in zero-click attacks"
     },
     {
-     "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
-     "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
-     "pubDate": "Fri, 16 Oct 2026 14:09:51 +0000",
-     "summary": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit appeared first on SecurityWeek",
-     "source": "SecurityWeek",
-     "zh": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit"
-    },
-    {
      "title": "When Your Ransomware Negotiator Works for the Other Side",
      "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
      "pubDate": "Fri, 16 Oct 2026 14:00:00 GMT",
@@ -1760,6 +1760,14 @@
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Deutsche Telekom, Orange, Telefónica, and Vodafone agree to explore a joint bid to offer \"direct-to-device\" satellite service in Europe, challenging Starlink (Financial Times)",
+     "link": "https://www.techmeme.com/261019/p19#a261019p19",
+     "pubDate": "Mon, 19 Oct 2026 07:55:02 -0400",
+     "summary": "Financial Times : Deutsche Telekom, Orange, Telef&oacute;nica, and Vodafone agree to explore a joint bid to offer &ldquo;direct-to-device&rdquo; satellite service in Europe, challenging Starlink &nbsp; &mdash;&nbsp; Deutsche Telekom, Orange, Telef&oacute;nica and Vodafone to explore joint bid for sp",
+     "source": "Techmeme",
+     "zh": "Deutsche Telekom, Orange, Telefónica, and Vodafone agree to explore a joint bid to offer \"direct-to-device\" satellite service in Europe, challenging Starlink (Financial Times)"
+    },
     {
      "title": "1999 元起 → 2499 元起，荣耀 X80 Pro Max 手机官网涨价",
      "link": "https://www.ithome.com/1/015/009.htm",
@@ -1881,6 +1889,14 @@
      "zh": "《沙丘：觉醒》游戏开发商 Funcom 开启新一轮重组，准备裁员"
     },
     {
+     "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+     "link": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+     "pubDate": "Mon, 19 Oct 2026 11:12:02 +0000",
+     "summary": "Article URL: https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous Comments URL: https://news.ycombinator.com/item?id=50150935 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "ESA's Hera Will View Asteroid Scars from DART's Strike"
+    },
+    {
      "title": "Character.AI&apos;s Chapter 11 court filings indicate a two-part deal with Disney to transfer talent and tech while insulating Disney from mounting legal liabilities (Maddy Varner/Wired)",
      "link": "https://www.techmeme.com/261019/p16#a261019p16",
      "pubDate": "Mon, 19 Oct 2026 07:10:02 -0400",
@@ -1940,7 +1956,7 @@
      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
      "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
      "pubDate": "Mon, 19 Oct 2026 10:53:39 +0000",
-     "summary": "Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166 Comments URL: https://news.ycombinator.com/item?id=50150809 Points: 14 # Comments: 0",
+     "summary": "Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166 Comments URL: https://news.ycombinator.com/item?id=50150809 Points: 25 # Comments: 2",
      "source": "Hacker News",
      "zh": "Let's Encrypt is adding two additional remote perspectives for domain validation"
     },
@@ -1956,7 +1972,7 @@
      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
      "link": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
      "pubDate": "Mon, 19 Oct 2026 10:45:14 +0000",
-     "summary": "Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816 Comments URL: https://news.ycombinator.com/item?id=50150750 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816 Comments URL: https://news.ycombinator.com/item?id=50150750 Points: 51 # Comments: 13",
      "source": "Hacker News",
      "zh": "Documents: Police officer gave her Flock login to her ICE agent husband"
     },
@@ -1983,22 +1999,6 @@
      "summary": "Microsoft is letting players digitize their game discs for free, but don't sell your physical collection just yet.",
      "source": "WIRED",
      "zh": "How the Xbox’s Disc-to-Digital Program Works"
-    },
-    {
-     "title": "Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories",
-     "link": "https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories/",
-     "pubDate": "Mon, 19 Oct 2026 10:30:00 +0000",
-     "summary": "In 2020, Maricopa County became the epicenter for Trump’s claims the election was stolen. Six years, later the president and his allies are dusting off their “rigged” playbook ahead of the midterms.",
-     "source": "WIRED",
-     "zh": "Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories"
-    },
-    {
-     "title": "Survey: the chatbot gender adoption gap among US adults has closed since 2024, though men are more likely to use them daily; ChatGPT has identical use rates (Pew Research Center)",
-     "link": "https://www.techmeme.com/261019/p13#a261019p13",
-     "pubDate": "Mon, 19 Oct 2026 06:15:00 -0400",
-     "summary": "Pew Research Center : Survey: the chatbot gender adoption gap among US adults has closed since 2024, though men are more likely to use them daily; ChatGPT has identical use rates &nbsp; &mdash;&nbsp; Note: This analysis is an excerpt from a broader June 2026 study about Americans and artificial inte",
-     "source": "Techmeme",
-     "zh": "Survey: the chatbot gender adoption gap among US adults has closed since 2024, though men are more likely to use them daily; ChatGPT has identical use rates (Pew Research Center)"
     }
    ]
   },
@@ -2257,76 +2257,84 @@
    "total": 13,
    "items": [
     {
-     "title": "Centrus Energy to buy Westerman in $116M deal, adding key centrifuge supplier",
-     "link": "https://seekingalpha.com/news/4654167-centrus-energy-to-buy-westerman-in-116m-deal-adding-key-centrifuge-supplier?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 19 Oct 2026 07:42:00 -0400",
+     "title": "Elon Musk says he&apos;ll give a SpaceX share to every child in America next year",
+     "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+     "pubDate": "Mon, 19 Oct 2026 12:07:51 GMT",
+     "summary": "The SpaceX boss said Monday that he'll give one of his company shares to every child in the U.S. next year. He didn't say how the share giveaway would happen.",
+     "source": "CNBC",
+     "zh": "Elon Musk says he&apos;ll give a SpaceX share to every child in America next year"
+    },
+    {
+     "title": "Chord Energy names Lou as new President and CEO; Brown moves to lead Expand Energy",
+     "link": "https://seekingalpha.com/news/4654173-chord-energy-names-lou-as-new-president-and-ceo-brown-moves-to-lead-expand-energy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 19 Oct 2026 08:07:33 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Centrus Energy to buy Westerman in $116M deal, adding key centrifuge supplier"
+     "zh": "Chord Energy names Lou as new President and CEO; Brown moves to lead Expand Energy"
     },
     {
-     "title": "国家统计局：“人工智能 +” 行动持续释放经济新动能",
-     "link": "http://finance.eastmoney.com/news/1350,202610193900044348.html",
-     "pubDate": "Mon, 19 Oct 2026 19:39:50 +0800",
-     "summary": "在19日举行的国务院新闻办新闻发布会上，国家统计局相关负责人表示，今年以来，我国深化拓展“ 人工智能 +”行动，助力经济提质增效。 有力推动了制造业智能化转型。今年前三季度，规模以上数字产品制造业增加值对规模以上工业增长的贡献率超过了1/3；规模以上制造业企业 人工智能 技术应用普及率稳步提升，一批具有较高水平的黑灯工厂、数字化车间、智能生产线加快投产。 有力带动了现代服务业发展。前三季度，信息传输、软件和信息技术服务业增加值同比增长10.4%， 人工智能 是重要的助推力量。 有力促进了消费提质升级。前三季度，限额以上单位可穿戴智能设备零售额同比增长超过70%。人工智能还在改造实体零售业态，前",
-     "source": "东方财富股票",
-     "zh": "国家统计局：“人工智能 +” 行动持续释放经济新动能"
-    },
-    {
-     "title": "匈牙利总理毛焦尔：明年将家庭津贴翻倍",
-     "link": "http://finance.eastmoney.com/news/1351,202610193900044695.html",
-     "pubDate": "Mon, 19 Oct 2026 19:39:33 +0800",
-     "summary": "匈牙利总理毛焦尔：明年将家庭津贴翻倍。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "匈牙利总理毛焦尔：明年将家庭津贴翻倍"
-    },
-    {
-     "title": "据伊拉克国家通讯社报道，伊拉克10月迄今的石油日均出口量超过340万桶，高于9月的300万桶",
-     "link": "http://finance.eastmoney.com/news/1351,202610193900044558.html",
-     "pubDate": "Mon, 19 Oct 2026 19:39:33 +0800",
-     "summary": "据伊拉克国家通讯社报道，伊拉克10月迄今的石油日均出口量超过340万桶，高于9月的300万桶。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "据伊拉克国家通讯社报道，伊拉克10月迄今的石油日均出口量超过340万桶，高于9月的300万桶"
-    },
-    {
-     "title": "匈牙利总理毛焦尔：明年将最低工资所得税降至9%",
-     "link": "http://hk.eastmoney.com/news/1533,202610193900044023.html",
-     "pubDate": "Mon, 19 Oct 2026 19:37:57 +0800",
-     "summary": "匈牙利总理毛焦尔：明年将最低工资所得税降至9%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "匈牙利总理毛焦尔：明年将最低工资所得税降至9%"
-    },
-    {
-     "title": "Global-E Online rallies after Morgan Stanley turns bullish",
-     "link": "https://seekingalpha.com/news/4654152-global-e-online-rallies-after-morgan-stanley-turns-bullish?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 19 Oct 2026 07:37:37 -0400",
+     "title": "Dynex Capital GAAP EPS of -$1.34, net interest income of $101.56M",
+     "link": "https://seekingalpha.com/news/4654182-dynex-capital-gaap-eps-of--134-net-interest-income-of-10156m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 19 Oct 2026 08:04:37 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Global-E Online rallies after Morgan Stanley turns bullish"
+     "zh": "Dynex Capital GAAP EPS of -$1.34, net interest income of $101.56M"
     },
     {
-     "title": "匈牙利总理毛焦尔：明年将有超过200万纳税人享受所得税减免，成本为2500亿福林",
-     "link": "http://finance.eastmoney.com/news/1351,202610193900043039.html",
-     "pubDate": "Mon, 19 Oct 2026 19:35:33 +0800",
-     "summary": "匈牙利总理毛焦尔：明年将有超过200万纳税人享受所得税减免，成本为2500亿福林。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "匈牙利总理毛焦尔：明年将有超过200万纳税人享受所得税减免，成本为2500亿福林"
+     "title": "Veradermics scores another late-stage trial win for hair loss therapy",
+     "link": "https://seekingalpha.com/news/4654180-veradermics-hair-loss-drug-posts-late-stage-trial-win?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 19 Oct 2026 08:03:12 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Veradermics scores another late-stage trial win for hair loss therapy"
     },
     {
-     "title": "伊拉克10月迄今石油出口已大幅攀升至接近战前水平",
-     "link": "http://finance.eastmoney.com/news/1356,202610193900043151.html",
-     "pubDate": "Mon, 19 Oct 2026 19:35:12 +0800",
-     "summary": "伊拉克石油部长表示，10月迄今该国石油出口已大幅攀升至接近战前水平，本月迄今日均出口约340万桶，较战前约370万桶/日仅小幅下降，并高于9月的约300万桶/日和8月的约240万桶/日。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "伊拉克10月迄今石油出口已大幅攀升至接近战前水平"
+     "title": "HDFC Bank Non-GAAP EPS of $0.40 beats by $0.01",
+     "link": "https://seekingalpha.com/news/4654181-hdfc-bank-non-gaap-eps-of-0_40-beats-by-0_01?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 19 Oct 2026 08:02:20 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "HDFC Bank Non-GAAP EPS of $0.40 beats by $0.01"
     },
     {
-     "title": "10月19日晚间沪深上市公司重大事项公告最新快递",
-     "link": "http://finance.eastmoney.com/news/1345,202610193900051020.html",
-     "pubDate": "Mon, 19 Oct 2026 19:32:57 +0800",
-     "summary": "沪深两市多家上市公司10月19日晚间发布公司公告，以下为重要公告汇总。 【品大事】 德马科技 ：拟发行可转债募资不超7.02亿元 用于智能 物流 装备等项目 德马科技 (688360)10月19日公告，公司拟向不特定对象发行可转债募资不超过7.02亿元，扣除发行费用后用于扩建智能 物流 装备核心部件生产及研发项目、智能 物流 装备及具身智能系统研发中心建设项目、工业智能数据采集终端生产建设项目、扩建节能型一体化永磁电机项目(一期)、补充营运资金项目。 2连板 大业股份 ：不存在应披露未披露重大信息 2连板 大业股份 (603278)10月19日发布股票交易异常波动公告称，经核查，公司目前生产经",
-     "source": "东方财富资讯",
-     "zh": "10月19日晚间沪深上市公司重大事项公告最新快递"
+     "title": "Dow upgraded by Bank of America as higher oil prices boost chemical outlook",
+     "link": "https://seekingalpha.com/news/4654178-dow-upgraded-by-bank-of-america-as-higher-oil-prices-boost-chemical-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 19 Oct 2026 08:01:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dow upgraded by Bank of America as higher oil prices boost chemical outlook"
+    },
+    {
+     "title": "Boyd Gaming trades higher after Morgan Stanley points to positive catalysts",
+     "link": "https://seekingalpha.com/news/4654170-boyd-gaming-trades-higher-after-morgan-stanley-points-to-positive-catalysts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 19 Oct 2026 07:58:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Boyd Gaming trades higher after Morgan Stanley points to positive catalysts"
+    },
+    {
+     "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+     "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+     "pubDate": "Mon, 19 Oct 2026 11:53:00 GMT",
+     "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
+     "source": "MarketWatch",
+     "zh": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs"
+    },
+    {
+     "title": "大摩Wilson：股市调整接近尾声，是时候准备布局了",
+     "link": "https://wallstreetcn.com/articles/3783938",
+     "pubDate": "Mon, 19 Oct 2026 19:48:41 +0800",
+     "summary": "摩根士丹利首席股票策略师Michael Wilson发出明确信号： 持续数月的股市内部调整正接近尾声，投资者应做好增加风险敞口的准备。 这一判断建立在质量因子突破新高、盈利修正分化加剧以及估值已完成大幅消化三重信号之上，为市场提供了难得的布局窗口。 据追风交易台， Wilson在最新客户报告中指出，尽管标普500指数距历史高点仅差约2%，但指数内部的市场广度已显著恶化，等权重版本自8月14日高点以来累计下跌近4%，金融、工业、非必需消费品等周期性板块承受了估值压缩的主要冲击。这一分化格局正是市场从早周期向中周期过渡的典型特征。 Wilson表示，\"我们建议投资者做好准备， 无论是迎接一次快速的",
+     "source": "华尔街见闻",
+     "zh": "大摩Wilson：股市调整接近尾声，是时候准备布局了"
+    },
+    {
+     "title": "海光信息Q3营收同比增长45.46%，AI驱动高端芯片需求持续攀升 | 财报见闻",
+     "link": "https://wallstreetcn.com/articles/3783939",
+     "pubDate": "Mon, 19 Oct 2026 19:44:58 +0800",
+     "summary": "海光信息三季报显示，人工智能产业的快速扩张正在深刻重塑国内高端芯片市场格局，公司业绩增长势头持续强劲。 海光信息于2026年10月20日发布三季报。前三季度营业收入达149.55亿元，同比增长57.58%；归属于上市公司股东的净利润28.47亿元，同比增长45.12%。 单季度来看， 2026年第三季度营收58.56亿元，同比增长45.46%；净利润10.48亿元，同比增长37.90%。 公司将业绩增长归因于人工智能产业快速发展，以及国产化进程由政策驱动全面转向市场驱动，国内高端芯片需求持续攀升。 值得关注的是，剔除股份支付影响后，前三季度归属于上市公司股东的净利润达35.86亿元，同比增幅达",
+     "source": "华尔街见闻",
+     "zh": "海光信息Q3营收同比增长45.46%，AI驱动高端芯片需求持续攀升 | 财报见闻"
     },
     {
      "title": "Tech stocks stumbled. Now comes a crucial week for Wall Street.",
@@ -2345,44 +2353,12 @@
      "zh": "FCA calls for disclaimers on AI financial advice"
     },
     {
-     "title": "Palantir in spotlight as it signs deal with Knox to boost software delivery via the cloud",
-     "link": "https://seekingalpha.com/news/4654158-palantir-in-spotlight-as-it-signs-deal-with-knox-to-boost-software-delivery-via-the-cloud?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 19 Oct 2026 07:29:46 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Palantir in spotlight as it signs deal with Knox to boost software delivery via the cloud"
-    },
-    {
      "title": "Macron rejects interior minister’s resignation after French riots",
      "link": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1",
      "pubDate": "Mon, 19 Oct 2026 11:29:41 GMT",
      "summary": "Political recriminations fly and bonds fall as authorities admit that police botched oversight of protests",
      "source": "Financial Times",
      "zh": "Macron rejects interior minister’s resignation after French riots"
-    },
-    {
-     "title": "Calian names new finance chief",
-     "link": "https://seekingalpha.com/news/4654161-calian-names-new-finance-chief?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 19 Oct 2026 07:28:58 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Calian names new finance chief"
-    },
-    {
-     "title": "Intel upgraded at JPM as AI workloads support earnings",
-     "link": "https://seekingalpha.com/news/4654160-intel-upgraded-at-jpm-as-ai-workloads-support-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 19 Oct 2026 07:28:46 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Intel upgraded at JPM as AI workloads support earnings"
-    },
-    {
-     "title": "KKR to sell Infinity Transportation to Ares for $2.9B",
-     "link": "https://seekingalpha.com/news/4654156-kkr-to-sell-infinity-transportation-to-ares-for-2_9b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 19 Oct 2026 07:26:34 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "KKR to sell Infinity Transportation to Ares for $2.9B"
     },
     {
      "title": "税务部门公布3起纠治“开票经济”涉税问题相关案件",
@@ -2417,14 +2393,6 @@
      "zh": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why."
     },
     {
-     "title": "GDP增4.6%！大类宏观数据一图速览",
-     "link": "http://finance.eastmoney.com/news/11137,202610193900033712.html",
-     "pubDate": "Mon, 19 Oct 2026 19:16:38 +0800",
-     "summary": "10月19日，国新办就2026年前三季度国民经济运行情况举行新闻发布会。国家统计局新闻发言人、副局长毛盛勇在回答记者提问时表示，前三季度国民经济顶压前行、向新向优，主要指标积极变化增多，高质量发展取得新成效。 初步核算，前三季度国内生产总值突破107万亿元，同比增长4.6%，符合全年预期增长目标。分季度看，一季度增长5.0%，二季度4.3%，三季度回升至4.5%，环比增长1.2%，增速较二季度反弹0.2个百分点。 多数经济指标持续向好。从9月数据看，规模以上工业增加值、社会消费品零售总额、进出口、服务业生产指数等主要指标，均好于8月。整体来看，三季度经济表现优于二季度，9月主要指标相比7、8月",
-     "source": "东方财富资讯",
-     "zh": "GDP增4.6%！大类宏观数据一图速览"
-    },
-    {
      "title": "对话美联储原副主席：美联储新主席剑指“范式转变”",
      "link": "http://www.eeo.com.cn/2026/1019/1069824.shtml",
      "pubDate": "Mon, 19 Oct 2026 19:13:10 +0800",
@@ -2457,14 +2425,6 @@
      "zh": "汇源创始人放弃“汇源”"
     },
     {
-     "title": "证监会发文：规范“违规转让证券”的认定、处罚",
-     "link": "http://finance.eastmoney.com/news/1345,202610193900029757.html",
-     "pubDate": "Mon, 19 Oct 2026 19:09:02 +0800",
-     "summary": "据证监会网站，2026年10月19日，中国证监会发布了《违规转让证券案件行政处罚实施规则》（以下简称《规则》），自2026年12月1日起施行。 中国证监会于2026年4月17日至5月17日就《规则》向社会公开征求意见，并通过召开座谈会、书面征求意见等形式听取了有关方面的意见。社会各界对《规则》内容总体支持，提出的修改完善意见建议，中国证监会逐条认真研究，合理建议均予以吸收采纳。《规则》共十八条，主要内容包括： 一是规范“违规转让证券”的认定。明确《证券法》第一百八十六条规定的“转让证券”“在限制转让期内转让证券”“转让股票不符合法律、行政法规和国务院证券监督管理机构规定”的内涵、具体情形，以及",
-     "source": "东方财富资讯",
-     "zh": "证监会发文：规范“违规转让证券”的认定、处罚"
-    },
-    {
      "title": "【养老之难｜服务篇】养老服务的责任迷局与边界之困",
      "link": "http://www.eeo.com.cn/2026/1019/1069071.shtml",
      "pubDate": "Mon, 19 Oct 2026 19:02:01 +0800",
@@ -2473,28 +2433,68 @@
      "zh": "【养老之难｜服务篇】养老服务的责任迷局与边界之困"
     },
     {
-     "title": "因重仓三星与SK海力士 韩国最大养老基金巨亏超1300亿美元",
-     "link": "http://hk.eastmoney.com/news/11223,202610193900029210.html",
-     "pubDate": "Mon, 19 Oct 2026 19:01:19 +0800",
-     "summary": "据金融数据提供商FnGuide近日公布的数据，截至10月15日，韩国国民年金公团 (NPS) 在287家上市公司中持股比例达5%及以上的股权总估值，已从6月底的515.93万亿韩元大幅缩水至333.53万亿韩元，账面缩水规模达到182万亿韩元，约合1370亿美元。 究其原因，与该 基金重仓 三星 电子 与 SK海力士 两只 存储芯片 龙头相关。其中NPS持有的 SK海力士 持仓市值蒸发约74.2万亿韩元，三星 电子 持仓市值缩水56.9万亿韩元。这两只股票占NPS持仓市值总降幅的约72%。 公开资料显示，韩国国民年金公团是韩国体量最大的养老基金，也是全球规模排名前列的 养老金 机构，管理着数千",
-     "source": "东方财富资讯",
-     "zh": "因重仓三星与SK海力士 韩国最大养老基金巨亏超1300亿美元"
-    },
-    {
-     "title": "日本央行12月加息稳了？行长“鹰声”嘹亮：中东冲突和AI需求加剧通胀压力",
-     "link": "http://finance.eastmoney.com/news/1345,202610193900022482.html",
-     "pubDate": "Mon, 19 Oct 2026 19:00:07 +0800",
-     "summary": "本周一，日本央行行长植田和男在国会发言时，释放了明确的鹰派信号：日本核心通胀已经“十分接近”央行设定的2%通胀目标，而当前中东冲突推升能源价格、日本劳动力市场紧绷叠加全球AI热潮拉动出口与资本开支，共同推升日本国内物价，日本央行存在进一步加息的空间。 本次讲话恰逢日本央行本月关键货币政策会议前夕。这样强烈的鹰派信号更加让市场相信，日本央行将会在年内再度加息。市场将紧盯10月底日本央行会议更新的季度增长与通胀预测，以此判断下一轮加息窗口。 日本面临多重通胀压力 植田和男周一在国会表示，把日本的核心通胀锚定在2%目标附近，已经成为当下最重要的政策任务。 他分析，中东冲突抬升原材料成本带来输入性通胀",
-     "source": "东方财富资讯",
-     "zh": "日本央行12月加息稳了？行长“鹰声”嘹亮：中东冲突和AI需求加剧通胀压力"
-    },
-    {
      "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
      "pubDate": "Mon, 19 Oct 2026 11:00:00 GMT",
      "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
      "source": "MarketWatch",
      "zh": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful"
+    },
+    {
+     "title": "AI交易暂获喘息，纳指期货反弹，英特尔盘前涨近4%，油价高位回落，美债走高",
+     "link": "https://wallstreetcn.com/articles/3783911",
+     "pubDate": "Mon, 19 Oct 2026 18:55:24 +0800",
+     "summary": "科技股抛售潮后，市场寻求喘息空间，本周科技巨头财报将成关键考验。油价从五个月高点回落，避险需求支撑美债走高。 美股盘前，半导体股普涨，超微公司涨近3%，阿斯麦涨2%，英特尔涨近4%，美光科技涨超2%。纳指100期货上涨1.3%，标普500期货上升0.8%，此前两大指数上周均遭大幅抛售。上周跌势中，受到密切关注的半导体指数录得自2008年以来最长连跌走势，波动率指数则创下6月以来最大单周涨幅。 亚太股市方面，MSCI亚太指数抹去早盘跌幅，收盘基本持平。韩国首尔综指收涨1.8%，日本日经225指数收跌0.6%，东证指数微涨0.04%。欧洲股指期货小幅走低，法国周末爆发大规模抗议活动，拖累欧元兑多数",
+     "source": "华尔街见闻",
+     "zh": "AI交易暂获喘息，纳指期货反弹，英特尔盘前涨近4%，油价高位回落，美债走高"
+    },
+    {
+     "title": "Macron faces political firestorm after riots",
+     "link": "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1",
+     "pubDate": "Mon, 19 Oct 2026 10:42:31 GMT",
+     "summary": "Worst street violence in years comes six months before one of Europe’s most closely watched elections",
+     "source": "Financial Times",
+     "zh": "Macron faces political firestorm after riots"
+    },
+    {
+     "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+     "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+     "pubDate": "Mon, 19 Oct 2026 10:36:47 GMT",
+     "summary": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer.",
+     "source": "CNBC",
+     "zh": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy"
+    },
+    {
+     "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+     "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+     "pubDate": "Mon, 19 Oct 2026 10:36:00 GMT",
+     "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+     "source": "MarketWatch",
+     "zh": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?"
+    },
+    {
+     "title": "The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an index retreat would signal a buying opportunity.",
+     "link": "https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories",
+     "pubDate": "Mon, 19 Oct 2026 10:23:00 GMT",
+     "summary": "Since midsummer portfolio managers have been emphasizing free cash flow, profitability, high margins, strong balance sheets and stable earnings when stockpicking.",
+     "source": "MarketWatch",
+     "zh": "The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an index retreat would signal a buying opportunity."
+    },
+    {
+     "title": "Zilch to move to new London HQ",
+     "link": "https://www.finextra.com/newsarticle/48603/zilch-to-move-to-new-london-hq?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 19 Oct 2026 10:04:00 GMT",
+     "summary": "UK payments fintech unicorn Zilch has announced details of its new base in London which will more than double the capacity of current HQ as the company looks to expand in Europe.",
+     "source": "Finextra",
+     "zh": "Zilch to move to new London HQ"
+    },
+    {
+     "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
+     "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+     "pubDate": "Mon, 19 Oct 2026 10:00:01 GMT",
+     "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+     "source": "CNBC",
+     "zh": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments"
     }
    ]
   },
@@ -2504,6 +2504,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Romans may have set fire to Celtic town during conquest to 'humiliate' the enemy, archaeologists find",
+     "link": "https://www.livescience.com/archaeology/romans/romans-may-have-set-fire-to-celtic-town-during-conquest-to-humiliate-the-enemy-archaeologists-find",
+     "pubDate": "Mon, 19 Oct 2026 12:00:00 +0000",
+     "summary": "Archaeologists discovered a first century B.C. military camp that was erected during Emperor Augustus's Cantabrian Wars.",
+     "source": "Live Science",
+     "zh": "Romans may have set fire to Celtic town during conquest to 'humiliate' the enemy, archaeologists find"
+    },
     {
      "title": "'Birdman' copper plate: A 700-year-old depiction of a Native American warrior that may be a woman holding a weapon and a severed head",
      "link": "https://www.livescience.com/archaeology/americas/birdman-copper-plate-a-700-year-old-depiction-of-a-native-american-warrior-that-may-be-a-woman-holding-a-weapon-and-a-severed-head",
@@ -2591,14 +2599,6 @@
      "summary": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research.",
      "source": "ScienceDaily",
      "zh": "Scientists who discovered a third form of magnetism win major physics prize"
-    },
-    {
-     "title": "Can cuttlefish hypnotize their prey?",
-     "link": "https://www.livescience.com/animals/mollusks/can-cuttlefish-hypnotize-their-prey",
-     "pubDate": "Sun, 18 Oct 2026 09:00:00 +0000",
-     "summary": "Cuttlefish use rapid color-change while hunting. The question is, does it actually hypnotize their prey?",
-     "source": "Live Science",
-     "zh": "Can cuttlefish hypnotize their prey?"
     },
     {
      "title": "Giving AI a “crystal clear” view of the materials world",

@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/19 21:51:55",
+ "generated_at": "2026/10/19 21:55:51",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
+     "link": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
+     "pubDate": "Mon, 19 Oct 2026 12:37:58 +0000",
+     "summary": "MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 The post MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input appeared first on MarkTechPost",
+     "source": "MarkTechPost",
+     "zh": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input"
+    },
     {
      "title": "Jev刚火，国产29B开源模型来踢馆了！不光会判断，还能直接填参数",
      "link": "https://zhidx.com/p/602211.html",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with no weight updates. The post Google Open-Sources Harness2, a Recursive Agent Harnessing Framework appeared first on MarkTec",
      "source": "MarkTechPost",
      "zh": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework"
-    },
-    {
-     "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
-     "link": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
-     "pubDate": "Sun, 18 Oct 2026 05:56:05 +0000",
-     "summary": "In this tutorial, we implement Structured Data Models, NVIDIA’s new library that puts several pretrained foundation models for tables behind one PyTorch interface, and use it to make predictions without training. The library wraps TabICLv2 and KumoTabular for single tables and KumoRelational for who",
-     "source": "MarkTechPost",
-     "zh": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Gee Whiz Ma, Elon Musk Gave Me One Share In SpaceX, Isn’t He Great!",
+     "link": "https://cleantechnica.com/2026/10/19/spacex-ukraine-musk-diesel-us-elections-kids-publicity-stunt/",
+     "pubDate": "Mon, 19 Oct 2026 13:49:12 +0000",
+     "summary": "SpaceX is in hot water over a decision to throttle back its Starlink and Starshield service in Ukraine last week, a decision for which nobody seems to have made. The post Gee Whiz Ma, Elon Musk Gave Me One Share In SpaceX, Isn’t He Great! appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "Gee Whiz Ma, Elon Musk Gave Me One Share In SpaceX, Isn’t He Great!"
+    },
+    {
      "title": "JinkoSolar launches all-black Tiger Neo 5.0 residential solar module with 510W output, 25.52% efficiency",
      "link": "https://www.pv-tech.org/jinkosolar-launches-all-black-tiger-neo-5-0-residential-solar-module/",
      "pubDate": "Mon, 19 Oct 2026 13:39:44 +0000",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "New Zealand energy storage company ArcActive has switched on a pilot lead-acid BESS in Victoria, Australia, with support from Origin Energy.",
      "source": "Energy Storage News",
      "zh": "ArcActive switches on lead-acid battery storage system pilot at Deakin University in Australia"
-    },
-    {
-     "title": "Paris Auto Show — European OEMs Strike Back",
-     "link": "https://cleantechnica.com/2026/10/18/paris-auto-show-european-oems-strike-back/",
-     "pubDate": "Sun, 18 Oct 2026 16:42:27 +0000",
-     "summary": "(But will it be enough?) The 2026 Paris Auto Show felt different this year. Despite some notable absences (BMW, MG, most Japanese OEMs…), it was bigger than in past editions. The bright, confident stands of Chinese automakers—from BYD to Geely to XPENG—signal a new era in Europe’s car market, one ..",
-     "source": "CleanTechnica",
-     "zh": "Paris Auto Show — European OEMs Strike Back"
     }
    ]
   },
@@ -1546,6 +1546,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+     "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+     "pubDate": "Mon, 19 Oct 2026 13:48:56 +0000",
+     "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources c",
+     "source": "Krebs on Security",
+     "zh": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site"
+    },
+    {
      "title": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
      "link": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
      "pubDate": "Mon, 19 Oct 2026 13:16:20 +0000",
@@ -1802,6 +1810,14 @@ window.INDUSTRY_DATA = {
      "zh": "腾龙上架 16-50mm F2.8 A 相机镜头：首发提供索尼 E 卡口 / 佳能 RF 卡口版本，2749 元起"
     },
     {
+     "title": "Stripe will acquire OpenRouter for $7.5B",
+     "link": "https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/",
+     "pubDate": "Mon, 19 Oct 2026 13:27:49 +0000",
+     "summary": "Article URL: https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/ Comments URL: https://news.ycombinator.com/item?id=50152207 Points: 16 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Stripe will acquire OpenRouter for $7.5B"
+    },
+    {
      "title": "七彩虹 iGame X870E ULTRA-S V14 DDR5 主板上架，1899 元",
      "link": "https://www.ithome.com/1/015/020.htm",
      "pubDate": "Mon, 19 Oct 2026 13:27:20 GMT",
@@ -1901,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
      "link": "https://100toolkit.com/blog/deslop-model/",
      "pubDate": "Mon, 19 Oct 2026 13:00:47 +0000",
-     "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 25 # Comments: 8",
+     "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 32 # Comments: 14",
      "source": "Hacker News",
      "zh": "Show HN: Qwen3-4B with the AI writing tics trained out"
     },
@@ -1941,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
      "link": "https://github.com/IsuruMaduranga/harness-engineering-101",
      "pubDate": "Mon, 19 Oct 2026 12:07:41 +0000",
-     "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 60 # Comments: 29",
+     "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 70 # Comments: 33",
      "source": "Hacker News",
      "zh": "Harness Engineering 101: The LLM is the brain, the harness is the body"
     },
@@ -1973,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "Harness2 by Google Research – Recursive Agent Harnessing",
      "link": "https://github.com/google-research/harness2",
      "pubDate": "Mon, 19 Oct 2026 11:28:45 +0000",
-     "summary": "Article URL: https://github.com/google-research/harness2 Comments URL: https://news.ycombinator.com/item?id=50151059 Points: 13 # Comments: 0",
+     "summary": "Article URL: https://github.com/google-research/harness2 Comments URL: https://news.ycombinator.com/item?id=50151059 Points: 18 # Comments: 0",
      "source": "Hacker News",
      "zh": "Harness2 by Google Research – Recursive Agent Harnessing"
     },
@@ -1981,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
      "link": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
      "pubDate": "Mon, 19 Oct 2026 11:12:02 +0000",
-     "summary": "Article URL: https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous Comments URL: https://news.ycombinator.com/item?id=50150935 Points: 30 # Comments: 0",
+     "summary": "Article URL: https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous Comments URL: https://news.ycombinator.com/item?id=50150935 Points: 31 # Comments: 0",
      "source": "Hacker News",
      "zh": "ESA's Hera Will View Asteroid Scars from DART's Strike"
     },
@@ -1989,17 +2005,9 @@ window.INDUSTRY_DATA = {
      "title": "Alternatives to Animal Testing Are Finally Taking Off",
      "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
      "pubDate": "Mon, 19 Oct 2026 11:10:54 +0000",
-     "summary": "Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing Comments URL: https://news.ycombinator.com/item?id=50150927 Points: 55 # Comments: 8",
+     "summary": "Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing Comments URL: https://news.ycombinator.com/item?id=50150927 Points: 66 # Comments: 8",
      "source": "Hacker News",
      "zh": "Alternatives to Animal Testing Are Finally Taking Off"
-    },
-    {
-     "title": "评测的牌坊：如何起高楼，如何楼塌了？",
-     "link": "https://www.tmtpost.com/8172866.html",
-     "pubDate": "Mon, 19 Oct 2026 19:07:32 +0800",
-     "summary": "评测的边界在哪里？其实这里有行规。",
-     "source": "钛媒体",
-     "zh": "评测的牌坊：如何起高楼，如何楼塌了？"
     }
    ]
   },
@@ -2258,20 +2266,20 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Northrop Grumman Q3 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4654230-northrop-grumman-q3-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 19 Oct 2026 09:47:45 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Northrop Grumman Q3 Earnings Preview"
-    },
-    {
      "title": "NYSE becomes latest exchange to extend options hours as appetite for around-the-clock trading grows",
      "link": "https://www.cnbc.com/2026/10/19/nyse-extends-options-trading-hours.html",
      "pubDate": "Mon, 19 Oct 2026 13:46:50 GMT",
      "summary": "The New York Stock Exchange becomes second major exchange to announce extended-hours options trading for heavily traded ETFs and single stocks, following CBOE.",
      "source": "CNBC",
      "zh": "NYSE becomes latest exchange to extend options hours as appetite for around-the-clock trading grows"
+    },
+    {
+     "title": "国家税务总局：提醒相关纳税人，抓紧梳理本人离岸信托情况，在过渡期内依法申报纳税，避免产生滞纳金及其他相关风险",
+     "link": "http://finance.eastmoney.com/news/1350,202610193900167711.html",
+     "pubDate": "Mon, 19 Oct 2026 21:45:55 +0800",
+     "summary": "来源：国家税务总局、每日经济新闻 10月19日，国家税务总局发布消息，按照财政部、税务总局7月24日印发的《关于离岸 信托 个人所得税有关事项的公告》（财政部税务总局公告2026年第21号）规定，离岸 信托 纳税人需就离岸 信托 收益申报缴纳个人所得税。《公告》给予纳税人90日的过渡期，在过渡期内（10月22日前）完成申报缴税，不加收滞纳金。在此提醒相关纳税人，抓紧梳理本人离岸信托情况，在过渡期内依法申报纳税，避免产生滞纳金及其他相关风险。税务部门将为纳税人提供细致税收辅导和办税服务，帮助纳税人依法履行纳税义务、维护自身权益。 （文章来源：中国基金报）",
+     "source": "东方财富股票",
+     "zh": "国家税务总局：提醒相关纳税人，抓紧梳理本人离岸信托情况，在过渡期内依法申报纳税，避免产生滞纳金及其他相关风险"
     },
     {
      "title": "General Motors Q3 2026 earnings preview: Analysts anticipate quarterly profit",
@@ -2282,6 +2290,38 @@ window.INDUSTRY_DATA = {
      "zh": "General Motors Q3 2026 earnings preview: Analysts anticipate quarterly profit"
     },
     {
+     "title": "俄罗斯外长拉夫罗夫：我们对能源价格波动不感兴趣，我们希望全球能源价格稳定",
+     "link": "http://hk.eastmoney.com/news/1533,202610193900165698.html",
+     "pubDate": "Mon, 19 Oct 2026 21:44:45 +0800",
+     "summary": "俄罗斯外长拉夫罗夫：我们对能源价格波动不感兴趣，我们希望全球能源价格稳定。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "俄罗斯外长拉夫罗夫：我们对能源价格波动不感兴趣，我们希望全球能源价格稳定"
+    },
+    {
+     "title": "美股三大指数走势分化 存储板块反弹 国际油价回落",
+     "link": "http://finance.eastmoney.com/news/1345,202610193900130158.html",
+     "pubDate": "Mon, 19 Oct 2026 21:44:34 +0800",
+     "summary": "10月19日，美股三大指数走势分化，截至发稿，道指跌0.16%，纳指涨1%，标普500指数涨0.53%。 存储板块集体反弹 ， 截至发稿， SK海力士 涨超4%， 美光科技 涨近4%， 闪迪 涨近7%。 商品市场方面，国际油价回落 ，截至发稿 ，布伦特原油 期货 跌近2%，报107.9美元/桶。 全球要闻 普京提议下月与中美元首会面 外交部：目前没有可提供的信息 10月19日，外交部发言人毛宁主持例行记者会。彭博社记者提问，据报道，俄罗斯总统普京提议下个月与中美元首会面，讨论结束乌克兰危机的问题。请问中方是否赞同举行这样的会晤？发言人能否提供更多信息？“这个问题我目前没有可以提供的信息。”毛宁",
+     "source": "东方财富股票",
+     "zh": "美股三大指数走势分化 存储板块反弹 国际油价回落"
+    },
+    {
+     "title": "燃油车，退守三分之一市场",
+     "link": "https://wallstreetcn.com/articles/3783950",
+     "pubDate": "Mon, 19 Oct 2026 21:44:32 +0800",
+     "summary": "燃油车在中国乘用车市场的份额，首次跌破三分之一。 10月17日，两则消息指向了同一个变化：新华社当天报道，9月燃油车在中国市场的销售占比首次跌破三分之一；同一天，吉利汽车在成都上市新车星瑞L PLUS，同时提供混动和燃油两种动力形式。 中国汽车流通协会乘用车市场信息联席分会近日发布的数据显示，2026年9月，国内新能源乘用车零售渗透率升至67%。当月燃油车零售同比下降43%，其中纯燃油车下降49%，普通混动车型却增长25%。油电替代继续推进，燃油车内部也出现了明显分化。 这一变化引起了特斯拉首席执行官埃隆·马斯克的关注。他转发相关数据并评论称，“中国对石油的依赖正在快速下降”。这将汽车动力结构",
+     "source": "华尔街见闻",
+     "zh": "燃油车，退守三分之一市场"
+    },
+    {
+     "title": "胡塞武装：我们警告那些受到误导的人，不要响应沙特敌军的招募号召",
+     "link": "http://hk.eastmoney.com/news/1533,202610193900165351.html",
+     "pubDate": "Mon, 19 Oct 2026 21:44:09 +0800",
+     "summary": "胡塞武装：我们警告那些受到误导的人，不要响应沙特敌军的招募号召，被其金钱诱骗至死亡之地。沙特方面不顾这些人的生命，将他们视为可以牺牲的消耗品，以此代替自己的士兵。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "胡塞武装：我们警告那些受到误导的人，不要响应沙特敌军的招募号召"
+    },
+    {
      "title": "French-German bond spread widens to new post-2012 highs",
      "link": "https://seekingalpha.com/news/4654222-french-german-bond-spread-widens-to-new-post-2012-highs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 19 Oct 2026 09:43:54 -0400",
@@ -2290,12 +2330,20 @@ window.INDUSTRY_DATA = {
      "zh": "French-German bond spread widens to new post-2012 highs"
     },
     {
-     "title": "华为引望与宁德时代合作换电",
-     "link": "http://finance.eastmoney.com/news/1354,202610193900162550.html",
-     "pubDate": "Mon, 19 Oct 2026 21:42:30 +0800",
-     "summary": "10月19日，引望与 宁德时代 、时代电服正式签署战略合作框架协议。三方将聚焦智能换电生态建设，打造面向自动驾驶时代的无感补能新体验。 围绕这一目标，三方将展开两大方向的深度合作，具体来看，行业首创“智能无感补能”体验：三方实现车端、站端与云端的系统级打通，通过 宁德时代 巧克力换电网络与华为乾崑智驾的深度打通，可基于 电池 实时状态与用户出行特征进行智能预判与主动调度，将传统的“用户找补能”升级为“服务找用户”。车辆可实现自主确定补能需求、自主寻站、自主入库、自动对位、99秒全自动换电、自主驶离的全流程智能闭环。 此外，引望正式加入 宁德时代 巧克力换电生态：引望将联合战略伙伴，围绕合作车型",
+     "title": "俄罗斯外长拉夫罗夫：我们尚未开始攻击乌克兰的民用基础设施",
+     "link": "http://hk.eastmoney.com/news/1533,202610193900164821.html",
+     "pubDate": "Mon, 19 Oct 2026 21:43:54 +0800",
+     "summary": "俄罗斯外长拉夫罗夫：我们尚未开始攻击乌克兰的民用基础设施。 （文章来源：金十数据快讯）",
      "source": "东方财富股票",
-     "zh": "华为引望与宁德时代合作换电"
+     "zh": "俄罗斯外长拉夫罗夫：我们尚未开始攻击乌克兰的民用基础设施"
+    },
+    {
+     "title": "面壁智能发布大监督智能体",
+     "link": "http://stock.eastmoney.com/news/1416,202610193900166433.html",
+     "pubDate": "Mon, 19 Oct 2026 21:43:19 +0800",
+     "summary": "10月19日，面壁智能发文称，公司近日在北京 中关村 温泉科技园举行发布会，正式发布大监督智能体。产品将以风险、内控、合规、审计、纪检五项监督能力，推动监督体系和监督能力现代化。 此次发布的大监督智能体，由面壁智能与行业伙伴星火明智联合共创，双方将以产品共创、场景落地和市场拓展为核心，推动大监督智能体进入更多企业真实业务场景。 （文章来源：北京商报）",
+     "source": "东方财富股票",
+     "zh": "面壁智能发布大监督智能体"
     },
     {
      "title": "AIOS Tech to acquire SmartCore Holdings in all-stock deal",
@@ -2304,46 +2352,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "AIOS Tech to acquire SmartCore Holdings in all-stock deal"
-    },
-    {
-     "title": "伊朗外长：伊朗和俄罗斯讨论了与美国的会谈以及霍尔木兹海峡",
-     "link": "http://finance.eastmoney.com/news/1351,202610193900158638.html",
-     "pubDate": "Mon, 19 Oct 2026 21:39:17 +0800",
-     "summary": "伊朗外长阿拉格齐称，伊朗和俄罗斯讨论了与美国的会谈以及霍尔木兹海峡。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "伊朗外长：伊朗和俄罗斯讨论了与美国的会谈以及霍尔木兹海峡"
-    },
-    {
-     "title": "俄罗斯外长拉夫罗夫：也门问题同样需要重返谈判桌",
-     "link": "http://hk.eastmoney.com/news/1533,202610193900158049.html",
-     "pubDate": "Mon, 19 Oct 2026 21:38:23 +0800",
-     "summary": "俄罗斯外长拉夫罗夫：也门问题同样需要重返谈判桌。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "俄罗斯外长拉夫罗夫：也门问题同样需要重返谈判桌"
-    },
-    {
-     "title": "俄罗斯外长拉夫罗夫：俄方愿意为伊朗与美国之间的外交斡旋提供帮助",
-     "link": "http://hk.eastmoney.com/news/1533,202610193900157548.html",
-     "pubDate": "Mon, 19 Oct 2026 21:38:01 +0800",
-     "summary": "俄罗斯外长拉夫罗夫：俄方愿意为伊朗与美国之间的外交斡旋提供帮助。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "俄罗斯外长拉夫罗夫：俄方愿意为伊朗与美国之间的外交斡旋提供帮助"
-    },
-    {
-     "title": "俄罗斯外长拉夫罗夫：我们一致认为有必要建立一个多极化的全球体系",
-     "link": "http://hk.eastmoney.com/news/1533,202610193900156527.html",
-     "pubDate": "Mon, 19 Oct 2026 21:37:44 +0800",
-     "summary": "俄罗斯外长拉夫罗夫：我们一致认为有必要建立一个多极化的全球体系。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "俄罗斯外长拉夫罗夫：我们一致认为有必要建立一个多极化的全球体系"
-    },
-    {
-     "title": "伊朗外长阿拉格齐：俄罗斯外长拉夫罗夫将与伊朗总统举行高级别会谈",
-     "link": "http://hk.eastmoney.com/news/1533,202610193900154779.html",
-     "pubDate": "Mon, 19 Oct 2026 21:37:27 +0800",
-     "summary": "伊朗外长阿拉格齐：俄罗斯外长拉夫罗夫将与伊朗总统举行高级别会谈。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "伊朗外长阿拉格齐：俄罗斯外长拉夫罗夫将与伊朗总统举行高级别会谈"
     },
     {
      "title": "Saturn Oil & Gas to buy Corex Resources in C$302M cash and stock deal",
@@ -2378,6 +2386,14 @@ window.INDUSTRY_DATA = {
      "zh": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高"
     },
     {
+     "title": "Annaly Capital Management Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4654224-annaly-capital-management-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 19 Oct 2026 09:35:03 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Annaly Capital Management Q3 2026 Earnings Preview"
+    },
+    {
      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
      "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
      "pubDate": "Mon, 19 Oct 2026 13:33:00 GMT",
@@ -2394,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI信贷悖论：华尔街恐慌过早了吗？"
     },
     {
-     "title": "新模式浮动费率基金步入加速成长期",
-     "link": "http://www.eeo.com.cn/2026/1019/1069889.shtml",
-     "pubDate": "Mon, 19 Oct 2026 21:26:07 +0800",
-     "summary": "加快发展新模式浮动费率基金，是公募基金行业践行《推动公募基金高质量发展行动方案》的重要抓手。自2025年首批新模式浮动费率基金落地，相关产品规模从259亿元增至千亿元级别，参与的公募基金公司持续增多，在机构配置中的分量也稳步抬升。 近期，监管部门优化注册安排，扩大机构与产品适用范围，推动改革向纵深推进。新模式浮动费率基金，正在重构基金公司与持有人的利益关系，也促使行业投资理念与考核体系迭代。伴随...",
-     "source": "经济观察网",
-     "zh": "新模式浮动费率基金步入加速成长期"
-    },
-    {
      "title": "Micron and other chip stocks spring back to life after bruising selloff",
      "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
      "pubDate": "Mon, 19 Oct 2026 13:22:00 GMT",
@@ -2416,14 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "France and the U.S. have similar debt dynamics.",
      "source": "MarketWatch",
      "zh": "France and the U.S. share the same debt trap. Why the U.S. has an escape valve."
-    },
-    {
-     "title": "南财法治通 | 保健品诈骗案终审 办案经验纳入省消保条例",
-     "link": "http://www.eeo.com.cn/2026/1019/1069886.shtml",
-     "pubDate": "Mon, 19 Oct 2026 21:13:12 +0800",
-     "summary": "广东首宗老年人消费权益公益诉讼终审宣判。商家借免费礼品、假专家忽悠老人购买保健品，涉案近500万元，被判赔1470万元。案件实现多项维权突破，赔偿可直达受害者，办案经验纳入省消保条例，提醒警惕养老保健品骗局。",
-     "source": "经济观察网",
-     "zh": "南财法治通 | 保健品诈骗案终审 办案经验纳入省消保条例"
     },
     {
      "title": "大众汽车深陷困境：十万裁员阴云笼罩，薪资冻结计划延续至2030年",
@@ -2466,22 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "Huntington Bank partners Google Cloud for AI-powered small business operating system"
     },
     {
-     "title": "高盛上调CoreWeave至“买入”：市场高估了融资成本，低估了计算收费能力",
-     "link": "https://wallstreetcn.com/articles/3783944",
-     "pubDate": "Mon, 19 Oct 2026 20:53:26 +0800",
-     "summary": "高盛认为，投资者对CoreWeave资金支付方式的担忧过度，而对其计算收费潜力的重视又严重不足。 据追风交易台，高盛分析师Gabriela Borges和Maura Hager周一将CoreWeave评级从\"中性\"上调至\"买入\"，目标价106美元。鉴于该股自8月11日二季度财报发布后已累计下跌43%、过去五个交易日单独下挫24%，收于61.39美元，106美元的目标价仍意味着约73%的上行空间。 高盛在报告中直接援引\"Finance 101\"框架， 指出CoreWeave的企业价值与其无杠杆内部收益率（uIRR）和加权平均资本成本（WACC）之间的利差高度相关，并认为市场正在低估uIRR的上修",
-     "source": "华尔街见闻",
-     "zh": "高盛上调CoreWeave至“买入”：市场高估了融资成本，低估了计算收费能力"
-    },
-    {
-     "title": "国家邮政局：1-9月快递业务收入同比增7.2%",
-     "link": "http://www.eeo.com.cn/2026/1019/1069872.shtml",
-     "pubDate": "Mon, 19 Oct 2026 20:52:06 +0800",
-     "summary": "中新经纬10月19日电 国家邮政局19日公布《2026年1-9月邮政行业运行情况》称，1-9月，邮政行业业务收入(不包括邮政储蓄银行直接营业收入)累计完成13893.1亿元，同比增长5.8%。其中，快递业务收入累计完成11634.4亿元，同比增长7.2%。 1-9月，邮政行业寄递业务量累计完成1641.3亿件，同比增长3.7%。其中，快递业务量累计完成1513.0亿件，同比增长4.3%。 9月份，邮政行业业务收入完成1588.6亿元，同比增长4.1%。其中，...",
-     "source": "经济观察网",
-     "zh": "国家邮政局：1-9月快递业务收入同比增7.2%"
-    },
-    {
      "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
      "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
      "pubDate": "Mon, 19 Oct 2026 12:30:00 GMT",
@@ -2496,6 +2480,30 @@ window.INDUSTRY_DATA = {
      "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
      "source": "MarketWatch",
      "zh": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?"
+    },
+    {
+     "title": "Microsoft pulls out of Nscale UK datacentre plan",
+     "link": "https://www.finextra.com/newsarticle/48605/microsoft-pulls-out-of-nscale-uk-datacentre-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 19 Oct 2026 12:21:00 GMT",
+     "summary": "Tech giant Microsoft has abandoned plans to lease computing capacity from a datacentre planned to be the largest in the UK",
+     "source": "Finextra",
+     "zh": "Microsoft pulls out of Nscale UK datacentre plan"
+    },
+    {
+     "title": "Elon Musk says he&apos;ll give a SpaceX share to every child in America next year",
+     "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+     "pubDate": "Mon, 19 Oct 2026 12:07:51 GMT",
+     "summary": "The SpaceX boss said Monday that he'll give one of his company shares to every child in the U.S. next year. He didn't say how the share giveaway would happen.",
+     "source": "CNBC",
+     "zh": "Elon Musk says he&apos;ll give a SpaceX share to every child in America next year"
+    },
+    {
+     "title": "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to hold the line",
+     "link": "https://www.cnbc.com/2026/10/19/oracle-debt-faces-an-ai-stress-test-why-some-investors-arent-worried-.html",
+     "pubDate": "Mon, 19 Oct 2026 11:57:07 GMT",
+     "summary": "Investors are pushing up the cost of insurance against an Oracle default.",
+     "source": "CNBC",
+     "zh": "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to hold the line"
     }
    ]
   },

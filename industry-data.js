@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/20 05:24:09",
+ "generated_at": "2026/10/20 05:39:16",
  "recent_days": 7,
  "industries": [
   {
@@ -298,14 +298,6 @@ window.INDUSTRY_DATA = {
      "zh": "ChipAgents Expands AI Across Chip Design. The Test Is Faster, Verified Results"
     },
     {
-     "title": "Spectrum Instrumentation digitisers get onboard averaging function",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/spectrum-instrumentation-digitisers-get-onboard-averaging-function-2026-10/",
-     "pubDate": "Mon, 19 Oct 2026 16:55:49 +0000",
-     "summary": "Spectrum Instrumentation has introduced a new firmware option for its high-resolution 59xx series digitizers to perform onboard summation averaging. The tool is for reducing unwanted signal noise while and improving […] The post Spectrum Instrumentation digitisers get onboard averaging function appe",
-     "source": "Electronics Weekly",
-     "zh": "Spectrum Instrumentation digitisers get onboard averaging function"
-    },
-    {
      "title": "South Korea's FIX 2026 to feature robots from HD Hyundai, Doosan",
      "link": "https://www.digitimes.com/news/a20261016VL211/hyundai-2026-hd-doosan-robot.html",
      "pubDate": "Mon, 19 Oct 2026 16:15:00 GMT",
@@ -362,14 +354,6 @@ window.INDUSTRY_DATA = {
      "zh": "Aixtron’s Q3 orders and operating profitability exceed market expectations"
     },
     {
-     "title": "Who Wants A Sports Car?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/genius/who-wants-a-sports-car-2026-10/",
-     "pubDate": "Mon, 19 Oct 2026 13:11:11 +0000",
-     "summary": "Tesla unveiled its flying Roadster last week, marking a return to the company’s roots. The very first vehicle Tesla ever sold was an electric sports car. The new Roadster is […] The post Who Wants A Sports Car? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Who Wants A Sports Car?"
-    },
-    {
      "title": "Siemens and NVIDIA Accelerate Lithography for Next-Generation AI Chips",
      "link": "https://semiwiki.com/eda/siemens-eda/374917-siemens-and-nvidia-accelerate-lithography-for-next-generation-ai-chips/",
      "pubDate": "Mon, 19 Oct 2026 13:00:38 +0000",
@@ -378,44 +362,12 @@ window.INDUSTRY_DATA = {
      "zh": "Siemens and NVIDIA Accelerate Lithography for Next-Generation AI Chips"
     },
     {
-     "title": "Power amplifier in 3x3mm QFN targets ISM-band radio",
-     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/power-amplifier-in-3x3mm-qfn-targets-ism-band-radio-2026-10/",
-     "pubDate": "Mon, 19 Oct 2026 11:12:12 +0000",
-     "summary": "CML Micro has released a power amplifier for ISM-band radio designs. The CMX90A002 is delivered in a 3mm x 3mm QFN module and supports the 868MHz – 915MHz licence-free ISM […] The post Power amplifier in 3x3mm QFN targets ISM-band radio appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Power amplifier in 3x3mm QFN targets ISM-band radio"
-    },
-    {
-     "title": "ORCA launches PT-3 photonic quantum computer",
-     "link": "https://www.electronicsweekly.com/news/orca-launches-pt-3-photonic-quantum-computer-2026-10/",
-     "pubDate": "Mon, 19 Oct 2026 10:08:32 +0000",
-     "summary": "ORCA Computing, a spin out from the University of Oxford, is launching the PT-3, the latest generation of its photonic quantum computers. The first system is live in the Digital […] The post ORCA launches PT-3 photonic quantum computer appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "ORCA launches PT-3 photonic quantum computer"
-    },
-    {
-     "title": "Multi-band RF module suports “all major” low bands",
-     "link": "https://www.electronicsweekly.com/news/multi-band-rf-module-suports-all-major-low-bands-2026-10/",
-     "pubDate": "Mon, 19 Oct 2026 09:57:38 +0000",
-     "summary": "A multi-band mobile radio front-end module, the FFM51010 is available from Forefront RF. It is claimed to be the only front-end module that suports all major low bands in the […] The post Multi-band RF module suports “all major” low bands appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Multi-band RF module suports “all major” low bands"
-    },
-    {
      "title": "DeepSeek updates V4.1 Flash to improve AI agent performance",
      "link": "https://www.digitimes.com/news/a20261019PD246/deepseek-performance-api-software-opus.html",
      "pubDate": "Mon, 19 Oct 2026 09:29:00 GMT",
      "summary": "DeepSeek released an updated version of its V4.1 Flash artificial intelligence (AI) model on October 17, improving coding and reasoning performance while reducing task execution time and output length. The DeepSeek-V4.1-Flash-1017 update arrived five weeks after the previous version and was designed",
      "source": "DIGITIMES",
      "zh": "DeepSeek updates V4.1 Flash to improve AI agent performance"
-    },
-    {
-     "title": "UKDI powers-up Tactical Power Challenge for military innovation",
-     "link": "https://www.electronicsweekly.com/news/business/ukdi-powers-up-tactical-power-challenge-for-military-innovation-2026-10/",
-     "pubDate": "Mon, 19 Oct 2026 09:12:59 +0000",
-     "summary": "The UKDI (UK Defence Innovation) department is launching a “Tactical Power Challenge” on behalf of the British Army, with support from the Defence Science and Technology Laboratory (Dstl). The £2.45 […] The post UKDI powers-up Tactical Power Challenge for military innovation appeared first on Electr",
-     "source": "Electronics Weekly",
-     "zh": "UKDI powers-up Tactical Power Challenge for military innovation"
     },
     {
      "title": "DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Calibre-aware, short-resilient via insertion for signoff-ready physical design. The post Shift-Left DE-Via appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Shift-Left DE-Via"
+    },
+    {
+     "title": "Nanoelectromechanical Switches Target More Efficient Embedded DRAM (UC Berkeley, Samsung, Intel)",
+     "link": "https://semiengineering.com/nanoelectromechanical-switches-target-more-efficient-embedded-dram-uc-berkeley-samsung-intel/",
+     "pubDate": "Sun, 18 Oct 2026 23:28:31 +0000",
+     "summary": "Researchers at the UC Berkeley, Samsung Electronics, and Intel published “Nanoelectromechanically Gated Gain Cell eDRAM.” Abstract Excerpt: “The memory wall and the slowdown of static random access memory (SRAM) scaling have renewed interest in gain-cell embedded dynamic random access memory (DRAM).",
+     "source": "Semiconductor Engineering",
+     "zh": "Nanoelectromechanical Switches Target More Efficient Embedded DRAM (UC Berkeley, Samsung, Intel)"
+    },
+    {
+     "title": "A Composable Thermal Solver For Heterogeneous 2.5D/3D-IC Packages (Cadence, Notre Dame)",
+     "link": "https://semiengineering.com/a-composable-thermal-solver-for-heterogeneous-2-5d-3d-ic-packages-cadence-notre-dame/",
+     "pubDate": "Sun, 18 Oct 2026 22:51:32 +0000",
+     "summary": "Researchers at Cadence Design Systems and the University of Notre Dame published “A Composable AI-Accelerated Iterative Solver for 3D-IC Thermal Modeling.” Abstract: “Accurate thermal analysis of heterogeneous 2.5D/3D-IC packages is essential yet computationally prohibitive. A single full-package FE",
+     "source": "Semiconductor Engineering",
+     "zh": "A Composable Thermal Solver For Heterogeneous 2.5D/3D-IC Packages (Cadence, Notre Dame)"
+    },
+    {
+     "title": "CEO Interview with Francisco Almada Lobo of Critical Manufacturing",
+     "link": "https://semiwiki.com/ceo-interviews/374517-ceo-interview-with-francisco-almada-lobo-of-critical-manufacturing/",
+     "pubDate": "Sun, 18 Oct 2026 17:00:15 +0000",
+     "summary": "Francisco Almada Lobo is CEO and co-founder of Critical Manufacturing. He began his career at a CIM research institute and joined Siemens Semiconductors in 1997. In 2004 he led the migration of an MES in a running high-volume facility, and from 2005 to 2009 he managed the Porto Development Center fo",
+     "source": "SemiWiki",
+     "zh": "CEO Interview with Francisco Almada Lobo of Critical Manufacturing"
+    },
+    {
+     "title": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development",
+     "link": "https://www.eetimes.com/semicon-west-2026-displays-ai-era-chipmaking-workforce-development/",
+     "pubDate": "Fri, 16 Oct 2026 20:59:50 +0000",
+     "summary": "The trillion-dollar semiconductor industry is ready to adapt and expand its fab infrastructure for the AI wave. The post SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "SEMICON West 2026 Displays AI-Era Chipmaking, Workforce Development"
+    },
+    {
+     "title": "Data Center Power a Prominent Highlight of OCP 2026",
+     "link": "https://www.eetimes.com/data-center-power-a-prominent-highlight-of-ocp-2026/",
+     "pubDate": "Fri, 16 Oct 2026 15:00:00 +0000",
+     "summary": "The OCP Summit showcased power delivery boards, PSU designs, hot-swap controllers, and event-based telemetry. The post Data Center Power a Prominent Highlight of OCP 2026 appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Data Center Power a Prominent Highlight of OCP 2026"
+    },
+    {
+     "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+     "link": "https://spectrum.ieee.org/monazite-rare-earth",
+     "pubDate": "Thu, 15 Oct 2026 14:53:02 +0000",
+     "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe ",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Can a Radioactive Ore Break China’s Grip on Rare Earths?"
     }
    ]
   },
@@ -1554,6 +1554,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+     "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+     "pubDate": "Mon, 19 Oct 2026 17:24:51 -0400",
+     "summary": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
+     "source": "BleepingComputer",
+     "zh": "WordPress SEO plugin Rank Math compromised to backdoor websites"
+    },
+    {
      "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
      "link": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
      "pubDate": "Mon, 19 Oct 2026 19:55:01 GMT",
@@ -1674,14 +1682,6 @@ window.INDUSTRY_DATA = {
      "zh": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience"
     },
     {
-     "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-     "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-     "pubDate": "Mon, 19 Oct 2026 09:49:24 -0400",
-     "summary": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
-     "source": "BleepingComputer",
-     "zh": "F5 releases out-of-band patches for critical NGINX vulnerabilities"
-    },
-    {
      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
      "pubDate": "Mon, 19 Oct 2026 13:48:56 +0000",
@@ -1778,10 +1778,26 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures (John Koetsier/Forbes)",
+     "link": "https://www.techmeme.com/261019/p43#a261019p43",
+     "pubDate": "Mon, 19 Oct 2026 17:25:02 -0400",
+     "summary": "John Koetsier / Forbes : Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures &nbsp; &mdash;&nbsp; This voice experience is generated by AI.&nbsp; Learn more. &hellip; Want to make your dumb robot sma",
+     "source": "Techmeme",
+     "zh": "Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures (John Koetsier/Forbes)"
+    },
+    {
+     "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+     "link": "https://bsd.network/@brynet/117407035545900963",
+     "pubDate": "Mon, 19 Oct 2026 21:11:45 +0000",
+     "summary": "Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https://news.ycombinator.com/item?id=50158138 Points: 7 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18"
+    },
+    {
      "title": "Putting Linux on my RTX spark laptop because I don't have a Microsoft account",
      "link": "https://josie.lol/blog/linux-rtx-spark",
      "pubDate": "Mon, 19 Oct 2026 21:08:18 +0000",
-     "summary": "Article URL: https://josie.lol/blog/linux-rtx-spark Comments URL: https://news.ycombinator.com/item?id=50158100 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://josie.lol/blog/linux-rtx-spark Comments URL: https://news.ycombinator.com/item?id=50158100 Points: 33 # Comments: 3",
      "source": "Hacker News",
      "zh": "Putting Linux on my RTX spark laptop because I don't have a Microsoft account"
     },
@@ -1800,6 +1816,14 @@ window.INDUSTRY_DATA = {
      "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
      "source": "Ars Technica",
      "zh": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine"
+    },
+    {
+     "title": "Germany's far-right AfD: half a million internal documents leaked",
+     "link": "https://hexane.cc/",
+     "pubDate": "Mon, 19 Oct 2026 20:31:05 +0000",
+     "summary": "Article URL: https://hexane.cc/ Comments URL: https://news.ycombinator.com/item?id=50157664 Points: 36 # Comments: 13",
+     "source": "Hacker News",
+     "zh": "Germany's far-right AfD: half a million internal documents leaked"
     },
     {
      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
@@ -1893,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "The reverts will continue until morale improves",
      "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
      "pubDate": "Mon, 19 Oct 2026 18:42:32 +0000",
-     "summary": "Article URL: http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves Comments URL: https://news.ycombinator.com/item?id=50156206 Points: 100 # Comments: 15",
+     "summary": "Article URL: http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves Comments URL: https://news.ycombinator.com/item?id=50156206 Points: 114 # Comments: 16",
      "source": "Hacker News",
      "zh": "The reverts will continue until morale improves"
     },
@@ -1954,14 +1978,6 @@ window.INDUSTRY_DATA = {
      "zh": "Town, which develops enterprise AI assistants, raised a $108M Series B at a $1B valuation, after announcing a $55M Series A in June (Dominic-Madori Davis/TechCrunch)"
     },
     {
-     "title": "Introducing Clairic, a new System One class of extraction models",
-     "link": "https://blog.cloudflare.com/clairic-extraction-model/",
-     "pubDate": "Mon, 19 Oct 2026 18:18:33 +0000",
-     "summary": "Article URL: https://blog.cloudflare.com/clairic-extraction-model/ Comments URL: https://news.ycombinator.com/item?id=50155907 Points: 24 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Introducing Clairic, a new System One class of extraction models"
-    },
-    {
      "title": "Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more (Sarah Perez/TechCrunch)",
      "link": "https://www.techmeme.com/261019/p38#a261019p38",
      "pubDate": "Mon, 19 Oct 2026 14:05:02 -0400",
@@ -1978,26 +1994,10 @@ window.INDUSTRY_DATA = {
      "zh": "AI assistant startup Town nabs unicorn valuation 4 months after launch"
     },
     {
-     "title": "Show HN: Open-source early-reading reader with phonics help",
-     "link": "https://github.com/finereli/yarareads",
-     "pubDate": "Mon, 19 Oct 2026 17:58:54 +0000",
-     "summary": "My kid is 6 y/o and she is learning to read. She's moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was. I wanted to give her some stories to read, but she still needed help sounding words out - and I wanted her to have the experience of sitti",
-     "source": "Hacker News",
-     "zh": "Show HN: Open-source early-reading reader with phonics help"
-    },
-    {
-     "title": "Prism Data, which provides credit-scoring data and analytics that help lenders assess borrowers, raised a $20M Series A led by Story Ventures (Ryan Lawler/Axios)",
-     "link": "https://www.techmeme.com/261019/p37#a261019p37",
-     "pubDate": "Mon, 19 Oct 2026 13:50:03 -0400",
-     "summary": "Ryan Lawler / Axios : Prism Data, which provides credit-scoring data and analytics that help lenders assess borrowers, raised a $20M Series A led by Story Ventures &nbsp; &mdash;&nbsp; Prism Data, which helps lenders assess credit risk using bank transaction data, raised $20 million in Series A fund",
-     "source": "Techmeme",
-     "zh": "Prism Data, which provides credit-scoring data and analytics that help lenders assess borrowers, raised a $20M Series A led by Story Ventures (Ryan Lawler/Axios)"
-    },
-    {
      "title": "Mercury 3: Diffusion at scale",
      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
      "pubDate": "Mon, 19 Oct 2026 17:27:11 +0000",
-     "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3 Comments URL: https://news.ycombinator.com/item?id=50155245 Points: 183 # Comments: 75",
+     "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3 Comments URL: https://news.ycombinator.com/item?id=50155245 Points: 189 # Comments: 75",
      "source": "Hacker News",
      "zh": "Mercury 3: Diffusion at scale"
     },
@@ -2274,6 +2274,118 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Standex International names Samantha Stoddard as new CFO",
+     "link": "https://seekingalpha.com/news/4654440-standex-international-names-samantha-stoddard-as-new-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 19 Oct 2026 17:33:03 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Standex International names Samantha Stoddard as new CFO"
+    },
+    {
+     "title": "同比翻倍！盛达资源预计前三季度净利6.6亿至7亿元 目前公司及实控人仍被证监会调查中",
+     "link": "http://stock.eastmoney.com/news/11215,202610193900118967.html",
+     "pubDate": "Tue, 20 Oct 2026 05:31:01 +0800",
+     "summary": "盛达资源 （SZ000603，股价27.40元，市值189.05亿元）10月19日晚间披露2026年前三季度业绩预告，预计前三季度归属于上市公司股东的净利润为6.6亿元至7亿元，较上年同期的3.23亿元增长104.57%至116.96%，实现同比翻倍。此前披露的半年报显示，公司上半年实现归母净利润3.90亿元，同比大增456.46%。 此外，《每日经济新闻》记者注意到，公司及实际控制人赵满堂因涉嫌信息披露违法违规，目前仍在被中国证监会立案调查中。 前三季度净利预104.57%~116.96% 盛达资源 在《2026年前三季度业绩预告》中披露，前三季度，预计归属于上市公司股东的净利润为盈利6.6",
+     "source": "东方财富资讯",
+     "zh": "同比翻倍！盛达资源预计前三季度净利6.6亿至7亿元 目前公司及实控人仍被证监会调查中"
+    },
+    {
+     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful",
+     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "pubDate": "Mon, 19 Oct 2026 21:30:00 GMT",
+     "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
+     "source": "MarketWatch",
+     "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful"
+    },
+    {
+     "title": "高盛加入为CoreWeave“辩经”阵营：市场忽略了什么？",
+     "link": "http://finance.eastmoney.com/news/1354,202610193900231830.html",
+     "pubDate": "Tue, 20 Oct 2026 05:29:59 +0800",
+     "summary": "近来成为AI交易情绪“风向标”的“新云”服务商CoreWeave，周一获得 高盛 唱多。 包括加布里埃拉·博尔赫斯（Gabriela Borges）在内的分析师， 将CoreWeave评级由“中性”上调至“买入” 。不过， 高盛 同时将 目标价由139美元下调至106美元 。相较上周五61.39美元的收盘价，新目标价仍意味着约73%的上涨空间。 （CoreWeave上周五个交易日跳水超20%，来源：TradingView） 值得一提的是，上周CoreWeave“股债双杀”发生后， 杰富瑞、 美国银行 、 德意志银行 、 摩根大通 等机构陆续重申看多立场。其中， 摩根大通 认为相关担忧过度， 德",
+     "source": "东方财富股票",
+     "zh": "高盛加入为CoreWeave“辩经”阵营：市场忽略了什么？"
+    },
+    {
+     "title": "必和必拓：仍然预测全年西澳铁矿石总产量2.9亿至3亿吨",
+     "link": "http://finance.eastmoney.com/news/1351,202610203900332233.html",
+     "pubDate": "Tue, 20 Oct 2026 05:27:44 +0800",
+     "summary": "必和必拓 ：仍然预测全年西澳 铁矿石 总产量2.9亿至3亿吨。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "必和必拓：仍然预测全年西澳铁矿石总产量2.9亿至3亿吨"
+    },
+    {
+     "title": "必和必拓：第一财季西澳铁矿石总产量7191万吨",
+     "link": "http://finance.eastmoney.com/news/1351,202610203900332587.html",
+     "pubDate": "Tue, 20 Oct 2026 05:27:41 +0800",
+     "summary": "必和必拓 ：第一财季西澳 铁矿石 总产量7191万吨。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "必和必拓：第一财季西澳铁矿石总产量7191万吨"
+    },
+    {
+     "title": "必和必拓：第一财季可归属矿石产出6645万吨",
+     "link": "http://finance.eastmoney.com/news/1351,202610203900332367.html",
+     "pubDate": "Tue, 20 Oct 2026 05:27:10 +0800",
+     "summary": "必和必拓 ：第一财季可归属矿石产出6645万吨。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "必和必拓：第一财季可归属矿石产出6645万吨"
+    },
+    {
+     "title": "必和必拓：第一财季铜产量40.07万吨",
+     "link": "http://finance.eastmoney.com/news/1351,202610203900332175.html",
+     "pubDate": "Tue, 20 Oct 2026 05:27:07 +0800",
+     "summary": "必和必拓 ：第一财季 铜 产量40.07万吨。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "必和必拓：第一财季铜产量40.07万吨"
+    },
+    {
+     "title": "Maximus to acquire Agile Defense for $660M",
+     "link": "https://seekingalpha.com/news/4654441-maximus-to-acquire-agile-defense-for-660m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 19 Oct 2026 17:27:02 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Maximus to acquire Agile Defense for $660M"
+    },
+    {
+     "title": "Tradeweb to acquire Trumid for $1.97B, expanding its bond lifecycle capabilities",
+     "link": "https://seekingalpha.com/news/4654437-tradeweb-to-acquire-trumid-for-197b-expanding-its-bond-lifecycle-capabilities?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 19 Oct 2026 17:24:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tradeweb to acquire Trumid for $1.97B, expanding its bond lifecycle capabilities"
+    },
+    {
+     "title": "Blossom Gold begins trading on OTCQX Best Market in the U.S.",
+     "link": "https://seekingalpha.com/news/4654439-blossom-gold-begins-trading-on-otcqx-best-market-in-the-u-s?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 19 Oct 2026 17:23:57 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Blossom Gold begins trading on OTCQX Best Market in the U.S."
+    },
+    {
+     "title": "前谷歌CEO所持Anthropic 1%股份有望带来巨额收益",
+     "link": "http://finance.eastmoney.com/news/1351,202610203900331926.html",
+     "pubDate": "Tue, 20 Oct 2026 05:23:37 +0800",
+     "summary": "前谷歌首席执行官埃里克·施密特凭借对初创企业Anthropic的早期投资，持有该公司约1%股份。随着Anthropic即将IPO，这笔投资有望为他带来单笔规模最大的个人巨额收益之一。施密特在Anthropic A轮融资中投入数千万美元。目前尚不清楚他在初始投资后是否出售过部分股份。根据公司上一轮融资估值，这家初创企业的7名联合创始人每人身价已达80亿美元。Pitchbook数据显示，71岁的施密特在2021年首次押注Anthropic时，该公司估值为4.61亿美元。上周，有投资者表示，该公司合理估值区间约在1.8万亿至2万亿美元。取该区间上限计算，Anthropic当前估值是其A轮融资时估值的",
+     "source": "东方财富股票",
+     "zh": "前谷歌CEO所持Anthropic 1%股份有望带来巨额收益"
+    },
+    {
+     "title": "今年我国人形机器人整机产品产量预计将突破10万台！工信部：将深挖民生等领域重点场景需求 形成一批标杆应用",
+     "link": "http://finance.eastmoney.com/news/1355,202610193900239920.html",
+     "pubDate": "Tue, 20 Oct 2026 05:21:40 +0800",
+     "summary": "&nbsp; 10月19日，国新办举行新闻发布会，请商务部部长助理袁晓明、工业和信息化部科技司司长魏巍、商务部市场体系建设司司长孟岳、文化和旅游部产业发展司负责人周汉萍介绍加快推进科技兴商有关情况，并答记者问。 当天，《关于加快推进科技兴商的意见》（以下简称《意见》）已经公开发布，《意见》以科技兴商为主线，提出18条具体举措，概括来讲主要包括以下四个方面：一是科技赋能商品消费提质，二是科技推动服务消费扩容，三是科技畅通商贸流通链条，四是科技塑造未来商业场景。 魏巍介绍，今年上半年，我国人形 机器人 整机产品突破400款，产量超4万台，预计全年将突破10万台。 同时，在介绍下一步工作时，魏巍称，",
+     "source": "东方财富资讯",
+     "zh": "今年我国人形机器人整机产品产量预计将突破10万台！工信部：将深挖民生等领域重点场景需求 形成一批标杆应用"
+    },
+    {
+     "title": "东方财富财经早餐 10月20日周二",
+     "link": "http://finance.eastmoney.com/news/1344,202610193900262027.html",
+     "pubDate": "Tue, 20 Oct 2026 05:17:39 +0800",
+     "summary": "每日精选 潘功胜发声： 2026 金融街 论坛年会19日下午开幕，开幕式上，中国人民 银行 行长潘功胜宣布中国人民 银行 即将推动出台的一系列政策措施， 包括设立应对非银机构大额赎回的流动性支持工具、扩大常备借贷便利的适用机构范围 、推动债券市场互联互通落地、便利境外金融机构在境内外汇市场开展人民币购售业务、出台金融支持建设北京（ 京津冀 ）等国际科技创新中心的指导意见。 此外潘功胜表示，退出存贷款基准利率。随着利率市场化改革推进，存贷款基准利率逐步被市场化的定价基准替代。 银行 贷款利率已经有贷款市场报价利率、银行间隔夜回购利率等多个定价基准；自今年一季度开始，人民银行对外公布了各个期限的存",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 10月20日周二"
+    },
+    {
      "title": "Belgravia announces 1-for-10 share consolidation",
      "link": "https://seekingalpha.com/news/4654436-belgravia-announces-1-for-10-share-consolidation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 19 Oct 2026 17:16:56 -0400",
@@ -2294,40 +2406,8 @@ window.INDUSTRY_DATA = {
      "link": "http://fund.eastmoney.com/news/11383,202610193900228834.html",
      "pubDate": "Tue, 20 Oct 2026 05:13:28 +0800",
      "summary": "19日，中国人民 银行 行长潘功胜在2026 金融街 论坛年会上宣布多项即将出台的政策举措，包括将会同金融监管总局、中国证监会设立应对非银机构大额赎回的流动性支持工具，扩大常备借贷便利（SLF）的适用机构范围，推动 银行 间和交易所债券市场互联互通落地等在内，受到市场广泛关注。 设立应对非银机构大额赎回的流动性支持工具 目的是建立债券市场稳定机制 具体来看，潘功胜介绍，央行将会同金融监管总局、中国证监会设立应对非银机构大额赎回的流动性支持工具。这项工具的目的是建立债券市场稳定机制，构成人民 银行 宏观审慎管理的一项新工具。工具 综合 权衡防范金融市场体系的系统性风险和道德风险，在资管机构面临群",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "央行宣布将推出多项政策举措 有何影响？"
-    },
-    {
-     "title": "美国国务院：批准向荷兰出售通用红外对抗系统 预计价值 2.94 亿美元",
-     "link": "http://finance.eastmoney.com/news/1351,202610203900330354.html",
-     "pubDate": "Tue, 20 Oct 2026 05:13:07 +0800",
-     "summary": "美国国务院：批准向荷兰出售通用红外对抗系统，预计价值 2.94 亿美元。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国国务院：批准向荷兰出售通用红外对抗系统 预计价值 2.94 亿美元"
-    },
-    {
-     "title": "剑指英伟达CUDA护城河：亚马逊推出开源工具TorchNeuron",
-     "link": "http://stock.eastmoney.com/news/1768,202610203900330012.html",
-     "pubDate": "Tue, 20 Oct 2026 05:09:51 +0800",
-     "summary": "软件生态正成为 AI芯片 竞争的关键战场。 亚马逊 当地时间19日推出开源工具TorchNeuron，旨在降低开发者从 英伟达 芯片转向其自研芯片的门槛，挑战 英伟达 依托CUDA构筑的软件壁垒。 据媒体当地时间10月19日报道， 亚马逊 正推出一款名为TorchNeuron的新工具，让开发者用PyTorch编写的AI代码无需重写，即可在 亚马逊 自研 AI芯片 上运行。 PyTorch是由社交媒体巨头Meta主导维护的开源AI编程框架，被大多数AI开发者使用，相当于AI开发领域的“通用语言”。 目前， 英伟达 在 AI芯片 市场占据主导地位，大量PyTorch代码运行在其芯片上。 据亚马逊旗",
-     "source": "东方财富股票",
-     "zh": "剑指英伟达CUDA护城河：亚马逊推出开源工具TorchNeuron"
-    },
-    {
-     "title": "沙特推迟年度投资盛会至2027年 因中东地区安全形势恶化",
-     "link": "http://stock.eastmoney.com/news/1768,202610203900329925.html",
-     "pubDate": "Tue, 20 Oct 2026 05:09:15 +0800",
-     "summary": "随着也门胡塞武装近几周加大对沙特的导弹和 无人机 袭击力度，沙特方面周一正式宣布，将原定于今年举行的年度大型投资者会议推迟至2027年。 据悉，这场名为“未来投资倡议”(FII)的会议原定于10月26日至29日在沙特首都利雅得举行。会议主办方在一份声明中表示：“我们很快将公布2027年会议的具体日期。” “作出这一决定，是为了确保第十届大会这一重要里程碑活动能够达到合作伙伴、会员、演讲嘉宾和参会代表所期待的规模、质量和影响力。” 此次会议延期，正值沙特安全局势趋于紧张之际。10月10日，胡塞武装袭击了利雅得的哈立德国王国际 机场 ，造成至少12人死亡、300多人受伤。 这一决定对沙特而言是一个",
-     "source": "东方财富股票",
-     "zh": "沙特推迟年度投资盛会至2027年 因中东地区安全形势恶化"
-    },
-    {
-     "title": "美国脱发新药临床结果积极 市场正在迎来一场新战事",
-     "link": "http://stock.eastmoney.com/news/1768,202610203900329827.html",
-     "pubDate": "Tue, 20 Oct 2026 05:08:32 +0800",
-     "summary": "美国生物制药公司Veradermics在脱发治疗领域取得积极进展。 公司押注脱发市场的新药取得后期临床试验的积极结果，使得其近30年来首款针对男性型脱发的新型口服药物距离上市更近了一步。 Veradermics周一（10月19日）在官网宣布，其实验性药物“VDPHL01”在随机、双盲、安慰剂对照注册导向型3期临床试验中达到了所有研究目标。 新闻稿写道，“再结合先前的试验结果，该药有望成为近30年来首个获得FDA批准用于治疗男性型脱发的口服药物，并且可能是5000万男性型脱发患者的最佳治疗选择。” 据新闻稿介绍，VDPHL01是一种缓释型口服米诺地尔（minoxidil）制剂。当下，米诺地尔正是",
-     "source": "东方财富股票",
-     "zh": "美国脱发新药临床结果积极 市场正在迎来一场新战事"
     },
     {
      "title": "Western Alliance's Q3 revenue misses as deposits lag; EPS exceeds consensus",
@@ -2338,36 +2418,20 @@ window.INDUSTRY_DATA = {
      "zh": "Western Alliance's Q3 revenue misses as deposits lag; EPS exceeds consensus"
     },
     {
-     "title": "消息人士称 美国交通部长达菲预计将于周二在华盛顿州宣布波音737 MAX 10获得认证",
-     "link": "http://finance.eastmoney.com/news/1351,202610203900329788.html",
-     "pubDate": "Tue, 20 Oct 2026 05:07:36 +0800",
-     "summary": "消息人士称，美国交通部长达菲预计将于周二在华盛顿州宣布 波音 737 MAX 10获得认证。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "消息人士称 美国交通部长达菲预计将于周二在华盛顿州宣布波音737 MAX 10获得认证"
-    },
-    {
-     "title": "CytoDyn appoints Robert Hoffman as CEO",
-     "link": "https://seekingalpha.com/news/4654435-cytodyn-appoints-robert-hoffman-as-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 19 Oct 2026 17:07:20 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CytoDyn appoints Robert Hoffman as CEO"
-    },
-    {
-     "title": "Western Alliance Q3 earnings beat, helped by investment securities gain, lower deposit costs",
-     "link": "https://seekingalpha.com/news/4654426-western-alliance-q3-earnings-beat-helped-by-investment-securities-gain-lower-deposit-costs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 19 Oct 2026 17:06:28 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Western Alliance Q3 earnings beat, helped by investment securities gain, lower deposit costs"
-    },
-    {
      "title": "Micron and other chip stocks spring back to life after bruising selloff",
      "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
      "pubDate": "Mon, 19 Oct 2026 21:06:00 GMT",
      "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
      "source": "MarketWatch",
      "zh": "Micron and other chip stocks spring back to life after bruising selloff"
+    },
+    {
+     "title": "10月20日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/1344,202610193900287753.html",
+     "pubDate": "Tue, 20 Oct 2026 05:04:57 +0800",
+     "summary": "10月20日(星期二)，今日报刊头条主要内容精华如下： 上海证券报 前三季度我国GDP同比增长4.6% 经济运行平稳、动能向新、结构向优、质效向好 中国经济“三季报”10月19日出炉：三季度，GDP同比增长4.5%。前三季度，GDP同比增长4.6%，符合全年经济预期增长目标，增速在全球主要经济体中保持领先。国家统计局新闻发言人、副局长毛盛勇在当日举行的国新办新闻发布会上表示，前三季度，国民经济运行呈现运行平稳、动能向新、结构向优、质效向好四大特点。高质量发展的积极因素在不断累积增多，实现全年经济增长预期目标有坚实支撑。 19项金融措施出台 支持建设三大国际科创中心 中国人民 银行 、科技部、金",
+     "source": "东方财富资讯",
+     "zh": "10月20日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
     },
     {
      "title": "SpaceX earnings will be all about AI — for better or for worse",
@@ -2402,28 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "Why the midterm elections are likely to become a strong tailwind for the stock market"
     },
     {
-     "title": "Galleon Gold increases bought deal private placement of shares to $27M",
-     "link": "https://seekingalpha.com/news/4654430-galleon-gold-increases-bought-deal-private-placement-of-shares-to-27m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 19 Oct 2026 16:59:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Galleon Gold increases bought deal private placement of shares to $27M"
-    },
-    {
      "title": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it&apos;s for real",
      "link": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
      "pubDate": "Mon, 19 Oct 2026 20:57:14 GMT",
      "summary": "Investors are hopeful that last week's pullback was a clearing event for equities, but lingering concerns remain.",
      "source": "CNBC",
      "zh": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it&apos;s for real"
-    },
-    {
-     "title": "Ivanhoe Electric in advanced talks to sell copper from Arizona project, CEO says",
-     "link": "https://seekingalpha.com/news/4654431-ivanhoe-electric-in-advanced-talks-to-sell-copper-from-arizona-project-ceo-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 19 Oct 2026 16:56:21 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ivanhoe Electric in advanced talks to sell copper from Arizona project, CEO says"
     },
     {
      "title": "Fable 5.5要来了？报道称Anthropic正开发新模型，主打\"意图推断\"能力",
@@ -2458,60 +2506,12 @@ window.INDUSTRY_DATA = {
      "zh": "惠誉点名美国主权评级下调风险，发达市场债务利息突破3.3万亿美元"
     },
     {
-     "title": "Retiring abroad? Don’t cut these financial ties to the U.S.",
-     "link": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
-     "pubDate": "Mon, 19 Oct 2026 20:33:00 GMT",
-     "summary": "Think carefully about your Social Security, Medicare, credit cards and bank accounts before picking your new home overseas.",
-     "source": "MarketWatch",
-     "zh": "Retiring abroad? Don’t cut these financial ties to the U.S."
-    },
-    {
      "title": "英伟达支持的Nscale IPO前景获提振，报道：与Anthropic洽谈450亿美元大单",
      "link": "https://wallstreetcn.com/articles/3783961",
      "pubDate": "Tue, 20 Oct 2026 04:16:11 +0800",
      "summary": "Nscale正寻求与Anthropic签下又一笔巨额算力供应协议，进一步巩固其赴美上市前的商业版图。 据彭博援引知情人士透露， 英伟达支持的数据中心开发商Nscale正与AI公司Anthropic就一项规模约450亿美元的云计算协议展开谈判，涉及位于西弗吉尼亚州Monarch数据中心园区的第二栋建筑。 知情人士表示，协议最快可能在未来数日内敲定，但谈判仍在进行中，细节可能发生变化，目前尚未作出最终决定。 此次潜在交易将为Nscale的IPO计划注入重要支撑。该公司目前正谋求约300亿美元的上市估值，但据 华尔街见闻此前文章 ，已有部分投资者敦促其下调目标估值至160亿至190亿美元，较原计划缩",
      "source": "华尔街见闻",
      "zh": "英伟达支持的Nscale IPO前景获提振，报道：与Anthropic洽谈450亿美元大单"
-    },
-    {
-     "title": "纳指收涨超1% 存储、半导体齐涨 费城半导体指数结束八连跌",
-     "link": "http://finance.eastmoney.com/news/1345,202610193900130158.html",
-     "pubDate": "Tue, 20 Oct 2026 04:00:00 +0800",
-     "summary": "美东时间周一，美股三大指数收盘涨跌不一，截止收盘，道指跌0.07%，纳指涨1.11%，标普500指数涨0.41%。 热门科技股普遍上涨，存储、 半导体 板块涨幅居前，费城 半导体 指数结束连续八天下跌， 闪迪 涨超5%， 亚马逊 涨近5%， SK海力士 、 迈威尔科技 涨超4%， 特斯拉 、纳微 半导体 涨超3%， 美光科技 涨近3%， 英特尔 涨超2%， 英伟达 、谷歌、 博通 涨超1%。 房地产 、 食品饮料 、加密货币概念走低，Beyond Meat跌超4%，Coinbase、Robinhood跌超2%， 好时 跌超2%。 纳斯达克 中国金龙指数收跌0.27%， 比特数字 跌超5%， 爱",
-     "source": "东方财富资讯",
-     "zh": "纳指收涨超1% 存储、半导体齐涨 费城半导体指数结束八连跌"
-    },
-    {
-     "title": "苹果官宣10月28日发布新品 预计将推出首款触摸屏MacBook",
-     "link": "http://finance.eastmoney.com/news/1354,202610203900324168.html",
-     "pubDate": "Tue, 20 Oct 2026 03:49:38 +0800",
-     "summary": "北京时间周二（10月20日）凌晨， 苹果 全球营销高级副总裁Greg Joswiak宣布公司将于10月28日举行新品发布会。 根据 苹果 发给媒体和分析师的邀请函，该活动为“Apple Experience in Los Angeles”（洛杉矶 苹果 体验活动），并写到主题为“Pro and tell”。 Joswiak在帖子中写道，他已经迫不及待地想看到下周的“Pro and tell”。分析认为，这暗示此次发布会将重点推出搭载苹果自研强大芯片的高端“Pro”系列设备。 知名苹果爆料人马克·古尔曼发文称，“Pro and tell”暗示苹果即将推出新的MacBook Pro，该公司还将发布",
-     "source": "东方财富资讯",
-     "zh": "苹果官宣10月28日发布新品 预计将推出首款触摸屏MacBook"
-    },
-    {
-     "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
-     "link": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
-     "pubDate": "Mon, 19 Oct 2026 19:46:07 GMT",
-     "summary": "Apple sent invitations for an event next week, calling it \"Pro and tell.\"",
-     "source": "CNBC",
-     "zh": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop"
-    },
-    {
-     "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-     "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-     "pubDate": "Mon, 19 Oct 2026 19:37:51 GMT",
-     "summary": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
-     "source": "CNBC",
-     "zh": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom"
-    },
-    {
-     "title": "苹果确认10月28日举行发布会，推出首款触控屏MacBook",
-     "link": "https://wallstreetcn.com/articles/3783957",
-     "pubDate": "Tue, 20 Oct 2026 03:33:03 +0800",
-     "summary": "苹果公司于周一确认，将于10月28日举办一场产品发布会，计划在会上正式推出其首款触控屏MacBook。 据彭博社报道，此次发布会将在洛杉矶举行，主题定为“Pro and tell”，以此呼应此次MacBook Pro的更新。 新款触控MacBooks预计将引入类似iPhone的“灵动岛”交互界面，并采用OLED技术的更清晰显示屏。这两项配置在Mac历史上尚属首次。 新款机器将搭载M5 Pro和M5 Max芯片，与今年3月推出的现款MacBook Pro保持一致。 苹果还将在会上推出搭载M6芯片的新款入门级MacBook Pro、焕新升级的iMac以及配备更清晰屏幕的全新改版iPad mini。",
-     "source": "华尔街见闻",
-     "zh": "苹果确认10月28日举行发布会，推出首款触控屏MacBook"
     }
    ]
   },
@@ -2521,6 +2521,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Symposium highlights MIT’s wide range of innovations for aging brain health",
+     "link": "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019",
+     "pubDate": "Mon, 19 Oct 2026 17:15:00 -0400",
+     "summary": "In six talks, researchers from across MIT described projects aimed at advancing the understanding of and interventions against neurodegenerative diseases such as Alzheimer’s, Parkinson’s, and ALS.",
+     "source": "MIT News",
+     "zh": "Symposium highlights MIT’s wide range of innovations for aging brain health"
+    },
     {
      "title": "11th-century 'pizza peel' discovered in Russia doubled as a medieval game board",
      "link": "https://www.livescience.com/archaeology/11th-century-pizza-peel-discovered-in-russia-doubled-as-a-medieval-game-board",
@@ -2744,14 +2752,6 @@ window.INDUSTRY_DATA = {
      "summary": "With the proliferation of fancy salts and changing dietary habits, there are signs people aren’t getting enough of the crucial mineral iodine.",
      "source": "Science News",
      "zh": "Many American diets may not include enough of this essential nutrient"
-    },
-    {
-     "title": "Building trust in governments through digital platforms",
-     "link": "https://news.mit.edu/2026/building-trust-governments-through-digital-platforms-1015",
-     "pubDate": "Thu, 15 Oct 2026 09:45:00 -0400",
-     "summary": "Governments and private companies often work together to provide public services online. A new study asks: How do these partnerships affect people’s trust in government?",
-     "source": "MIT News",
-     "zh": "Building trust in governments through digital platforms"
     },
     {
      "title": "How Do Fungi Keep the Planet Healthy?",

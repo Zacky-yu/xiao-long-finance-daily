@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/19 09:10:17",
+ "generated_at": "2026/10/19 09:52:11",
  "recent_days": 7,
  "industries": [
   {
@@ -17,6 +17,14 @@
      "zh": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’"
     },
     {
+     "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+     "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+     "pubDate": "Sun, 18 Oct 2026 18:20:28 +0000",
+     "summary": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyF",
+     "source": "MarkTechPost",
+     "zh": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web"
+    },
+    {
      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
      "pubDate": "Sun, 18 Oct 2026 16:30:00 +0000",
@@ -25,12 +33,28 @@
      "zh": "Disney agrees to hire the majority of Character.AI’s workforce"
     },
     {
+     "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
+     "link": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+     "pubDate": "Sun, 18 Oct 2026 08:15:04 +0000",
+     "summary": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with no weight updates. The post Google Open-Sources Harness2, a Recursive Agent Harnessing Framework appeared first on MarkTec",
+     "source": "MarkTechPost",
+     "zh": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework"
+    },
+    {
      "title": "广交会上的机器人，正在从“秀一场”走向“用一程”",
      "link": "https://zhidx.com/p/601942.html",
      "pubDate": "Sun, 18 Oct 2026 16:10:50 +0800",
      "summary": "智东西 作者 | 独林 编辑 | 漠影 能自主与人连续打羽毛球的双足人形机器人，到了新的任务中，原有的能力还有多少能复用？ 智东西10月18日报道，在今年的第140届广交会上， 动易科技在多处安排了人机羽毛球、乒乓球对打，并在广交会发展史陈列馆提供中英双语导览。 同时，在企业展位，动易科技则展示了重载运输、特种巡检与灵巧操作等场景应用方案。 在此之前，今年4月的第139届广交会上，这家广州企业以羽毛球互动为重点，参加了第一期5天的活动。第140届广交会，动易科技则计划将导览服务与体育互动持续三期，一直到11月4日。 任务增加、服务时间延长，对人形机器人的要求也便更多、更高： 它要解决的不只是一",
      "source": "智东西",
      "zh": "广交会上的机器人，正在从“秀一场”走向“用一程”"
+    },
+    {
+     "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
+     "link": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
+     "pubDate": "Sun, 18 Oct 2026 05:56:05 +0000",
+     "summary": "In this tutorial, we implement Structured Data Models, NVIDIA’s new library that puts several pretrained foundation models for tables behind one PyTorch interface, and use it to make predictions without training. The library wraps TabICLv2 and KumoTabular for single tables and KumoRelational for who",
+     "source": "MarkTechPost",
+     "zh": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models"
     },
     {
      "title": "刚刚，Anthropic宣布奇点已至！SI或把美国GDP推上44万亿美元",
@@ -57,12 +81,28 @@
      "zh": "具身智能体长程记忆：看见不等于记住，浙大提出具身记忆基准"
     },
     {
+     "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+     "link": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
+     "pubDate": "Sun, 18 Oct 2026 04:06:33 +0000",
+     "summary": "Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset versioning, and a free self-service tier. The post Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI ",
+     "source": "MarkTechPost",
+     "zh": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI"
+    },
+    {
      "title": "Meta removes language that raised scraping and AI training concerns",
      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
      "pubDate": "Sat, 17 Oct 2026 21:31:32 +0000",
      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
      "source": "TechCrunch AI",
      "zh": "Meta removes language that raised scraping and AI training concerns"
+    },
+    {
+     "title": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
+     "link": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/",
+     "pubDate": "Sat, 17 Oct 2026 20:22:11 +0000",
+     "summary": "Kyutai, with Inria and École des Ponts, has released REKI, a 2.4B vision-language-action model (VLA) for robot manipulation. The REKI vision-language-action model is pretrained only on public data. It also carries a cheap memory of its recent past. On three out-of-distribution benchmarks, only model",
+     "source": "MarkTechPost",
+     "zh": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation"
     },
     {
      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
@@ -127,6 +167,14 @@
      "summary": "通往全球市场的超级跳板",
      "source": "量子位",
      "zh": "科技企业出海，为啥我推荐你去迪拜？"
+    },
+    {
+     "title": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
+     "link": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/",
+     "pubDate": "Sat, 17 Oct 2026 08:53:58 +0000",
+     "summary": "DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it a Pareto improvement",
+     "source": "MarkTechPost",
+     "zh": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API"
     },
     {
      "title": "李飞飞看了要点赞：15分钟，一台相机，把真实世界搬进了AI",
@@ -199,54 +247,6 @@
      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
      "source": "MIT Tech Review AI",
      "zh": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
-    },
-    {
-     "title": "India becomes the latest country to report rogue AI agent activity",
-     "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-     "pubDate": "Fri, 16 Oct 2026 17:52:24 +0000",
-     "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-     "source": "TechCrunch AI",
-     "zh": "India becomes the latest country to report rogue AI agent activity"
-    },
-    {
-     "title": "Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself",
-     "link": "https://www.kdnuggets.com/agentic-rag-vs-naive-rag-when-your-retrieval-system-should-think-for-itself",
-     "pubDate": "Fri, 16 Oct 2026 14:00:00 +0000",
-     "summary": "From static retrieval pipelines to autonomous reasoning engines: a complete breakdown of how these two architectures work, where each falls short, and how to choose the right one for your use case.",
-     "source": "KDnuggets",
-     "zh": "Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself"
-    },
-    {
-     "title": "2.99万元起！端侧跑超千亿大模型，联想YOGA Pro 15 RTX Spark发售",
-     "link": "https://zhidx.com/p/601884.html",
-     "pubDate": "Fri, 16 Oct 2026 21:18:13 +0800",
-     "summary": "智东西10月16日消息，今日，联想YOGA Pro 15 RTX Spark超级AIPC全渠道正式开售，官方售价29999元起，这也是全球首批搭载NVIDIA RTX Spark N1X超级芯片的本地智能体AIPC。 联想YOGA Pro 15 RTX Spark超级AIPC由NVIDIA RTX Spark驱动，将NVIDIA AI与RTX图形技术集成到其中，专为创作、开发和游戏而设计。 一、NVIDIA RTX Spark驱动，集成6144核 这台AIPC搭载的芯片内部集成高达6144-core的NVIDIA Blackwell RTX GPU与高达20-core的NVIDIA Grace",
-     "source": "智东西",
-     "zh": "2.99万元起！端侧跑超千亿大模型，联想YOGA Pro 15 RTX Spark发售"
-    },
-    {
-     "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-     "link": "https://www.qbitai.com/2026/10/503880.html",
-     "pubDate": "Fri, 16 Oct 2026 12:54:54 +0000",
-     "summary": "从搭载物理建模能力的世界模型切入",
-     "source": "量子位",
-     "zh": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型"
-    },
-    {
-     "title": "5 Best Resources to Learn About World Models in 2026",
-     "link": "https://www.kdnuggets.com/5-best-resources-to-learn-about-world-models-in-2026",
-     "pubDate": "Fri, 16 Oct 2026 12:00:00 +0000",
-     "summary": "World models could be the next big shift in AI. Learn more right now.",
-     "source": "KDnuggets",
-     "zh": "5 Best Resources to Learn About World Models in 2026"
-    },
-    {
-     "title": "美国芯片创企拟融资6亿，另辟赛道对标英伟达、AMD",
-     "link": "https://zhidx.com/p/601706.html",
-     "pubDate": "Fri, 16 Oct 2026 18:27:04 +0800",
-     "summary": "智东西 编译 | 黄菲 编辑 | 江宇 智东西10月16日消息，据路透社报道，10月15日，美国芯片设计初创公司Bolt Graphics正寻求融资约1亿美元（约合人民币6.72亿元），该公司目前估值约为7亿美元（约合人民币47.04亿元）。 该公司计划开发能够与英伟达和AMD竞争的GPU，重点面向高性能计算、专业渲染和游戏图形等领域。 目前，本轮融资仍在进行中，Bolt Graphics首席执行官达尔维什·辛格（Darwesh Singh）拒绝透露具体融资金额和条款，但称融资进展顺利。 与英伟达、AMD持续加码AI芯片不同，Bolt Graphics试图通过差异化的产品路线寻找市场机会。该公",
-     "source": "智东西",
-     "zh": "美国芯片创企拟融资6亿，另辟赛道对标英伟达、AMD"
     }
    ]
   },
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "ArcActive switches on lead-acid battery storage system pilot at Deakin University in Australia",
+     "link": "https://www.energy-storage.news/arcactive-switches-on-lead-acid-battery-storage-system-pilot-at-deakin-university-in-australia/",
+     "pubDate": "Mon, 19 Oct 2026 01:11:24 +0000",
+     "summary": "New Zealand energy storage company ArcActive has switched on a pilot lead-acid BESS in Victoria, Australia, with support from Origin Energy.",
+     "source": "Energy Storage News",
+     "zh": "ArcActive switches on lead-acid battery storage system pilot at Deakin University in Australia"
+    },
+    {
      "title": "America Needs 48,000 Tons of Rare Earth Magnets. It Only Makes 300",
      "link": "https://oilprice.com/Energy/Energy-General/America-Needs-48000-Tons-of-Rare-Earth-Magnets-It-Only-Makes-300.html",
      "pubDate": "Sun, 18 Oct 2026 20:00:00 -0500",
@@ -1079,14 +1087,6 @@
      "summary": "GES has secured four new EPC contracts for three new solar clusters and a standalone solar PV plant in Spain.",
      "source": "PV Tech",
      "zh": "GES secures US$252 million EPC contracts for four Spanish solar PV projects"
-    },
-    {
-     "title": "US clean energy jobs fell in 2025 for the first time in years",
-     "link": "https://www.canarymedia.com/articles/clean-energy-jobs/trump-us-employment-falls-data-2025",
-     "pubDate": "Fri, 16 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Clean energy installations have persisted at record levels despite President Donald Trump’s best efforts to stop them. But the first year of Trump’s second term did leave a mark on U.S. jobs in the sector. Clean energy jobs fell in 2025 afte",
-     "source": "Canary Media",
-     "zh": "US clean energy jobs fell in 2025 for the first time in years"
     }
    ]
   },
@@ -1761,76 +1761,148 @@
    "total": 18,
    "items": [
     {
-     "title": "中信证券：看好国产大模型持续崛起",
-     "link": "https://www.ithome.com/1/014/646.htm",
-     "pubDate": "Mon, 19 Oct 2026 01:06:09 GMT",
-     "summary": "IT之家 10 月 19 日消息，中信证券研究公众号发布报告， 认为 Harness 有望成为 DeepSeek 从模型供给走向平台生态的关键一环 ，将开源与工程优势转化为用户基础、生态影响力和商业化能力。 报告提到，随着 Agent 竞争从模型能力扩展至稳定、易用且低成本的任务交付，DeepSeek 通过插件化、场景预设与跨 Agent 协作拓展用户和任务覆盖，并将 Infra 优势从软硬件协同延伸至完整任务执行。 报告认为，其长期价值在于，生态扩张积累需求，配置与流程沉淀增强产品黏性，可回溯能力支撑安全治理，共同为持续使用与企业部署创造条件；在官方模型调用基础上，公司还可探索平台服务与生态",
+     "title": "“货轮在霍尔木兹海峡起火沉没，海面漂满 iPhone”视频系 AI 编造",
+     "link": "https://www.ithome.com/1/014/665.htm",
+     "pubDate": "Mon, 19 Oct 2026 01:46:15 GMT",
+     "summary": "IT之家 10 月 19 日消息，据红星新闻 10 月 18 日报道，近日，一段有关 “货轮在霍尔木兹海峡起火沉没，海面漂满 iPhone”的视频在社交平台累计获得超 8000 万次观看。然而，事实核查显示， 视频是由人工智能生成的虚构内容 。 新加坡海事及港务管理局 10 月 14 日发布公告称，一艘新加坡货轮于当地时间 10 月 13 日通过霍尔木兹海峡期间，遭到不明飞行物袭击，船体受损并发生火灾，最终沉没。船上 21 名船员全部安全撤离，未报告人员受伤。另一艘新加坡注册集装箱船“GFS Giselle”也在相关事件中受损，但最终自行驶抵安全锚地。 随后，网上开始流传一批视频。有的视频显示",
      "source": "IT之家",
-     "zh": "中信证券：看好国产大模型持续崛起"
+     "zh": "“货轮在霍尔木兹海峡起火沉没，海面漂满 iPhone”视频系 AI 编造"
     },
     {
-     "title": "小米 REDMI K100 手机定档 10 月 27 日晚 7 点，标准版首次搭载游戏独显",
-     "link": "https://www.ithome.com/1/014/645.htm",
-     "pubDate": "Mon, 19 Oct 2026 01:04:41 GMT",
-     "summary": "IT之家 10 月 19 日消息，小米 REDMI 官方宣布， K100 定档 10 月 27 日晚 7 点 。 双芯魔王， 标准版首次搭载游戏独显 万级续航，挑战同档最强续航体验 据IT之家此前报道， 博主 @数码闲聊站 上周爆料 ，小米 REDMI K100 标准版手机 堆了米系最大电池、独显芯片、相对大马达、Bose 双扬 ，属于配置不搞花活的类型。 据悉，小米 REDMI K100 标准版手机搭载骁龙 8 至尊版处理器， 属于“3.5K 档量大管饱的产品”。",
-     "source": "IT之家",
-     "zh": "小米 REDMI K100 手机定档 10 月 27 日晚 7 点，标准版首次搭载游戏独显"
-    },
-    {
-     "title": "iQOO Neo12 手机官宣 10 月 28 日 19:00 发布即开售，外观正式亮相",
-     "link": "https://www.ithome.com/1/014/644.htm",
-     "pubDate": "Mon, 19 Oct 2026 01:03:50 GMT",
-     "summary": "IT之家 10 月 19 日消息，iQOO Neo12 手机官宣将于 10 月 28 日 19:00 发布即开售。 综合IT之家此前报道，新机拥有一款与中国美术学院联手打造的全新配色。新机目前已公布 / 曝光的配置如下： 性能：第五代骁龙 8 至尊版处理器 | 自研电竞芯片 Q3 | 全新一代 Monster 超核引擎 散热：冰穹风冷散热系统（主动散热风扇） 外观：方形 Deco 造型设计 | 拥有一款与中国美术学院联手共同打造全新配色 屏幕：pTSF 技术的 2K 185Hz 超冠屏 |「天空之镜」发光材料 | 2K 185Hz 高性能驱动芯片 | 搭载 iQOO 16 同款超感触控芯片 显",
-     "source": "IT之家",
-     "zh": "iQOO Neo12 手机官宣 10 月 28 日 19:00 发布即开售，外观正式亮相"
-    },
-    {
-     "title": "卖Token，不好赚钱的新生意",
-     "link": "https://www.huxiu.com/article/4898471.html?f=rss",
-     "pubDate": "Mon, 19 Oct 2026 09:02:16 +0800",
-     "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 三类玩家，盯上日均140万亿的Token生意。 定焦One（dingjiaoone）原创 一批靠“Token”做生意的公司，正在走向资本市场。 9月29日，AI基础设施服务商九章云极向港交所递交招股书，冲刺“智算新云第一股”。此前，AI推理服务商硅基流动也已于6月底递表港交所。10月初，据媒体报道，无问芯穹已秘密向港交所提交上市申请，同月12日，无问芯穹宣布完成23亿元C轮融资，累计融资达43亿元，公司称单轮及累计融资规模均创下中国AI原生基础设施赛道新高。 三家业务各有侧重，却都在押注与Token有关的生意。 Token（",
+     "title": "Scaling Law开始挤进手机了",
+     "link": "https://www.huxiu.com/article/4898486.html?f=rss",
+     "pubDate": "Mon, 19 Oct 2026 09:44:35 +0800",
+     "summary": "本文来自微信公众号： 全天候科技 ，作者：全天候科技 手机端侧模型的参数规模，正在迎来一轮快速膨胀。 9月22日，高通联合阶跃星辰、无量火和江波龙，将30B MoE模型完整部署在第六代骁龙8超级至尊版移动平台上，并在参考设计设备上完成验证，模型推理无需调用云端。 这并非孤例。 9月16日，vivo宣布预研蓝心30B MoE端侧模型。10月13日，面壁智能又发布35B-A3B开源模型MiniCPM-V 4.7，并公布了在iPhone 17 Pro Max上的实机运行结果。 短短一个月，30B级端侧模型接连亮相。曾经被手机运行内存和计算能力挡在门外的数百亿参数模型，开始展现出落地可能。 这场变化恰",
      "source": "虎嗅",
-     "zh": "卖Token，不好赚钱的新生意"
+     "zh": "Scaling Law开始挤进手机了"
     },
     {
-     "title": "许多人仍心存幻想",
-     "link": "https://www.huxiu.com/article/4898468.html?f=rss",
-     "pubDate": "Mon, 19 Oct 2026 09:00:00 +0800",
-     "summary": "本文来自微信公众号： 那些原本是废话的常识 ，作者：叶克飞 AI时代到底意味着什么？这是一个超出许多人认知能力的问题。在相对封闭又习惯一窝蜂的中国社会，对AI的认知更是可能存在巨大偏差，功利性考量、急于求成和过度低估等情况都会存在。 相对封闭是指中国人早已习惯局域网生存，上不了外网，认知滞后是常态，而在AI时代同样先天不足，很难接触到那些业界最新的AI理念和产品。至于一窝蜂，前段时间的养龙虾就是典型例子，不了解真实情况、不看个体需求，盲目跟风凑热闹的大有人在。 而在当下大多数人眼中，AI其实就是个搜索引擎，是一个加强版百度，再用来帮忙做做作业、写写公文……所以别看AI这么红火，很多人内心其实是",
-     "source": "虎嗅",
-     "zh": "许多人仍心存幻想"
-    },
-    {
-     "title": "黑鲨“鲨鲨酱”官方发文鼓励红魔：今年手机行业异常艰难，大家加油，我们正在努力复活中",
-     "link": "https://www.ithome.com/1/014/643.htm",
-     "pubDate": "Mon, 19 Oct 2026 00:56:13 GMT",
-     "summary": "IT之家 10 月 19 日消息，黑鲨旗下二次元虚拟语音助手“鲨鲨酱”10 月 17 日发文，晒出红魔游戏手机的发布会现场图片，表示： 今年手机行业异常艰难，大家加油 。 “鲨鲨酱”官方表示：“因为内存上涨，今年手机行业异常艰难。红魔手机已成最后一个垂类游戏手机品牌了。大家都很难，但坚持就一定能走出迷雾，看见曙光。请指挥官们耐心等待， 我们正在努力复活中 。” IT之家注意到，黑鲨 2026 年度秋季新品发布会将在 2026 年 10 月 30 日 19:00 举办，本次发布会的主题是“全域竞备战力觉醒”，登场的产品有全场景游戏装备等。 从黑鲨的预热来看，这次发布会预计会有一批手机周边设备发布",
+     "title": "小米卢伟冰发布 REDMI K100 全新配色「流萤绿」官图，新机定档 10 月 27 日发布",
+     "link": "https://www.ithome.com/1/014/664.htm",
+     "pubDate": "Mon, 19 Oct 2026 01:40:51 GMT",
+     "summary": "IT之家 10 月 19 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发布了 REDMI K100 全新配色「流萤绿」官图。 IT之家附新机官图如下： 卢伟冰表示，REDMI K100 标准版将全面继承 Pro 系列的全能定义，游戏体验看齐 Pro，电池容量将达到 K 系列的新高度。同时，该机将把旗舰的起点再往上提高一大步。 另据IT之家此前报道， 博主 @数码闲聊站 此前爆料 ，小米 REDMI K100 标准版手机堆了米系最大电池、独显芯片、相对大马达、Bose 双扬，属于配置不搞花活的类型。据悉，该机搭载骁龙 8 至尊版处理器，属于“3.5K 档量大管饱的产品”",
      "source": "IT之家",
-     "zh": "黑鲨“鲨鲨酱”官方发文鼓励红魔：今年手机行业异常艰难，大家加油，我们正在努力复活中"
+     "zh": "小米卢伟冰发布 REDMI K100 全新配色「流萤绿」官图，新机定档 10 月 27 日发布"
     },
     {
-     "title": "AI智能体失控偷爬高德数据，腾讯有义务上报监管吗？",
-     "link": "https://www.huxiu.com/article/4898467.html?f=rss",
+     "title": "Europe&apos;s three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment (Aaron Kirchfeld/Financial Times)",
+     "link": "https://www.techmeme.com/261018/p14#a261018p14",
+     "pubDate": "Sun, 18 Oct 2026 21:40:00 -0400",
+     "summary": "Aaron Kirchfeld / Financial Times : Europe's three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment &nbsp; &mdash;&nbsp; Schneider Electric and Siemens move further into software as rival ABB bets on phy",
+     "source": "Techmeme",
+     "zh": "Europe&apos;s three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment (Aaron Kirchfeld/Financial Times)"
+    },
+    {
+     "title": "马斯克：Optimus 人形机器人和 Cybercab 将构成特斯拉绝大部分价值",
+     "link": "https://www.ithome.com/1/014/663.htm",
+     "pubDate": "Mon, 19 Oct 2026 01:39:20 GMT",
+     "summary": "IT之家 10 月 19 日消息，特斯拉公司首席执行官埃隆 · 马斯克（Elon Musk）于周日在 X 平台发文称，公司的 Optimus 人形机器人与 Cybercab 自动驾驶汽车，将构成特斯拉价值的“绝大部分”，重申他将重心放在机器人与人工智能领域。 马斯克提出，超级智能、机器人、太阳能以及大规模太空运输，是仅有的几项具备极高经济扩张潜力的业务方向。 在回复一条有关特斯拉与 SpaceX 就 Roadster 跑车展开潜在合作的帖子时，他补充道：“不过 Roadster 本身非常酷，所以我们无论如何都会推进这个项目。” 特斯拉定于当地时间 10 月 21 日收盘后发布第三季度业绩，分析",
+     "source": "IT之家",
+     "zh": "马斯克：Optimus 人形机器人和 Cybercab 将构成特斯拉绝大部分价值"
+    },
+    {
+     "title": "iQOO Pad Pro 8.8 英寸小平板官宣 10 月 28 日发布即开售，搭载第五代骁龙 8 至尊版",
+     "link": "https://www.ithome.com/1/014/662.htm",
+     "pubDate": "Mon, 19 Oct 2026 01:37:34 GMT",
+     "summary": "IT之家 10 月 19 日消息，iQOO 手机官方宣布，iQOO Pad Pro 8.8 英寸小平板已陆续登陆各大 vivo / iQOO 门店， 10 月 28 日发布即开售 。 IT之家注意到，官方还公布了新品的“五大旗舰电竞硬核实力”： 冰穹四重风冷散热系统，行业超大主动散热风扇 第五代骁龙 8 至尊版 + 自研电竞芯片 Q3 旗舰 8.8 英寸 165Hz OLED 极竞屏 9020mAh 蓝海大电池大电量 FPS 敏锐操控：自研 Q-flex 操控技术、超感触控、超感陀螺仪 相关阅读： 《 iQOO Neo12 手机官宣 10 月 28 日 19:00 发布即开售，外观正式亮相 》",
+     "source": "IT之家",
+     "zh": "iQOO Pad Pro 8.8 英寸小平板官宣 10 月 28 日发布即开售，搭载第五代骁龙 8 至尊版"
+    },
+    {
+     "title": "TRYX 展域 SE 360 V2 液冷发售：曲面 OLED 屏，400W TDP，1799 元",
+     "link": "https://www.ithome.com/1/014/661.htm",
+     "pubDate": "Mon, 19 Oct 2026 01:37:31 GMT",
+     "summary": "IT之家 10 月 19 日消息，TRYX（创氪星系）现已开始销售 PANORAMA（展域）SE 360 V2 处理器 AIO 液冷散热器。其可选黑 / 白配色， 价格为 1,799 元 。 PANORAMA SE 360 V2 基于 Asetek Gen9 泵排体系，搭配 FOBR 三联一体风扇，具备 400W TDP； 配备 6.67″ 2K 60Hz 400nits 的 1:1 曲面 AMOLED 屏幕 ，支持裸眼 3D 视效。 其显示模组覆盖全贴合玻璃盖板和防眩光涂层，内置独立嵌入式系统，采用磁吸 + 卡扣双重固定；冷头外壳拥有珠光喷漆工艺和铝合金铭牌装饰。 京东 TRYX PANOR",
+     "source": "IT之家",
+     "zh": "TRYX 展域 SE 360 V2 液冷发售：曲面 OLED 屏，400W TDP，1799 元"
+    },
+    {
+     "title": "第三方 DLSS-NR 模组更新，给 AMD Radeon 显卡解锁英伟达 DLSS 全部核心功能",
+     "link": "https://www.ithome.com/1/014/660.htm",
+     "pubDate": "Mon, 19 Oct 2026 01:32:59 GMT",
+     "summary": "IT之家 10 月 19 日消息，由丹尼尔 · 布兰科（Daniel Blanco）开发、用于 AMD 显卡的 DLSS-NR 项目于 2026 年 9 月 3 日首次发布，该项目将 DLSS 5 神经渲染技术带到了 Radeon 显卡上。而在最新的 0.8.0 版本更新中，这款模组解锁了 DLSS 全部核心功能，包含 DLSS 超分辨率、帧生成、光线重建以及最新的 DLSS 神经渲染模型，同时还带来多项性能优化。 据IT之家了解，AMD 拥有大部分 DLSS 功能对应的同类技术，例如 FSR 超分、帧生成、光线重建以及防延迟技术，但和英伟达的方案相比，多数游戏对 AMD 技术的支持度偏低。就",
+     "source": "IT之家",
+     "zh": "第三方 DLSS-NR 模组更新，给 AMD Radeon 显卡解锁英伟达 DLSS 全部核心功能"
+    },
+    {
+     "title": "拍卖之一：不要等付款了，才发现拍卖也分两类",
+     "link": "https://www.huxiu.com/article/4898480.html?f=rss",
+     "pubDate": "Mon, 19 Oct 2026 09:32:30 +0800",
+     "summary": "本文来自微信公众号： 从正义路到经纬路 ，作者：法律科技人 去年在杭州工作的陈先生在拍卖平台上拍下一套92平方米的房子，成交价66.5万元。同小区差不多面积的房子，中介平台上挂牌价在150万元上下。他把攒了多年的积蓄连同母亲的8万元养老钱凑在一起，含税费中介费总共付了70来万元。直到今年9月，卖方告诉他这房子又抵押给了别人，他去找平台讨说法，才发现自己参加的这场拍卖，和新闻里常说的法拍，根本是两回事。拍卖公司工作人员的原话是：我们只能协助他，我们不能保证。 今日案例 陈先生在杭州工作，业余时间做外卖骑手，一个月总收入七八千元。想在杭州安家的他，去年3月在阿里拍卖平台上竞得西溪水岸小区的一套房子",
+     "source": "虎嗅",
+     "zh": "拍卖之一：不要等付款了，才发现拍卖也分两类"
+    },
+    {
+     "title": "“换电系”掌权，宁德时代试图戳破比亚迪主流市场防线",
+     "link": "https://www.huxiu.com/article/4898482.html?f=rss",
+     "pubDate": "Mon, 19 Oct 2026 09:32:14 +0800",
+     "summary": "本文来自微信公众号： BusinessCars ，作者：袁英杰 人事调整的背后，宁王充满了焦虑。 最近一个月内，汽车圈再度迎来人事大变动，在9月销量出炉之后，四季度成为决定年度销量表现的最后冲刺阶段，除了车企在人事调动外，本应稳健发展的宁德时代也传出了人事变动的风声。 10月15日，有媒体报道称宁德时代换电业务负责人、时代电服CEO杨峻将接替韩伟，兼任市场体系联席总裁，原市场体系联席总裁韩伟将回归商用车业务。 同时，国内乘用车业务副总裁王慧也同样回归商用车业务，乘用车业务将由宁德时代乘用车CTO高焕接棒。 这次人事变动也是宁德时代乘用车业务，在2024年底大调整之后的一次重大调整，主导变革的韩",
+     "source": "虎嗅",
+     "zh": "“换电系”掌权，宁德时代试图戳破比亚迪主流市场防线"
+    },
+    {
+     "title": "火箭发动机：地面两万秒的意义",
+     "link": "https://www.huxiu.com/article/4898476.html?f=rss",
+     "pubDate": "Mon, 19 Oct 2026 09:25:51 +0800",
+     "summary": "本文来自微信公众号： 反熵 ，作者：司马大大 火箭发动机的工作履历，天上按分钟计算，地面却常以万秒累计。 以一台飞行工作200秒的一级发动机为例，完成一次任务不过几分钟，研制过程中却可能累计试车两万秒，足够完成100次同样时长的工作。即便它在地面顺利通过多次试验，真正装上火箭，仍可能暴露此前没有发现的问题。 在中国商业航天，随着越来越多企业公布累计试车超过两万秒的成绩，这个数字渐渐有了不成文门槛的意味，甚至有人将其理解为发动机上天前必须完成的考核。实际上，航天工业没有一条普遍适用的两万秒规定。 长时间试车有其技术依据。可靠性要求越高，往往需要更多试验来提供证明，但累计时长与飞行成功率之间，并不",
+     "source": "虎嗅",
+     "zh": "火箭发动机：地面两万秒的意义"
+    },
+    {
+     "title": "用一杯水，如何算微积分、经济学，甚至搭建逻辑门？",
+     "link": "https://www.huxiu.com/article/4895135.html?f=rss",
+     "pubDate": "Mon, 19 Oct 2026 09:19:04 +0800",
+     "summary": "一杯水能开平方，一堆水管能算GDP，水和气泡甚至能组成逻辑门。从百年前的水力积分器，到会走迷宫、画表情的化学计算机，人类是怎么用水造出计算器的？",
+     "source": "虎嗅",
+     "zh": "用一杯水，如何算微积分、经济学，甚至搭建逻辑门？"
+    },
+    {
+     "title": "如果字节跳动今天上市，究竟能值多少钱？",
+     "link": "https://www.huxiu.com/article/4898475.html?f=rss",
+     "pubDate": "Mon, 19 Oct 2026 09:18:16 +0800",
+     "summary": "本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士&amp;李靖 序言：市场为什么总在猜“抖音上市”？ 只要字节跳动的上市传闻出现，市场很快就会把问题简化为一句话：如果“抖音”今天上市，究竟值多少钱？ 这里的“抖音上市”，通常并不是严格意义上仅指境内抖音业务，而是市场对字节跳动整体资本化的通俗表达。事实上，字节跳动目前仍是一家非上市公司，是否上市、整体上市还是部分业务上市，至今都没有确定方案。且不同资产范围，对应的价值可能相差数倍。 最近市场流传的一张估值表，把抖音平台、TikTok、抖音电商、豆包、火山引擎、Seed大模型、飞书、剪映、红果短剧、番茄小说等十九项业务逐一拆分，宣",
+     "source": "虎嗅",
+     "zh": "如果字节跳动今天上市，究竟能值多少钱？"
+    },
+    {
+     "title": "AI 人想成精，先别乱脸红",
+     "link": "https://www.tmtpost.com/8172547.html",
+     "pubDate": "Mon, 19 Oct 2026 09:10:00 +0800",
+     "summary": "你有过人的体温吗？你有过心跳吗？",
+     "source": "钛媒体",
+     "zh": "AI 人想成精，先别乱脸红"
+    },
+    {
+     "title": "国家电投“内化”20亿储能交易，旗下上市平台中国电力承接，央企资本运作转向功能优先",
+     "link": "https://www.tmtpost.com/8172558.html",
+     "pubDate": "Mon, 19 Oct 2026 09:04:00 +0800",
+     "summary": "央企上市平台取舍：从“保壳”转向保功能价值。",
+     "source": "钛媒体",
+     "zh": "国家电投“内化”20亿储能交易，旗下上市平台中国电力承接，央企资本运作转向功能优先"
+    },
+    {
+     "title": "ST恒信\"三国杀\"：大股东与\"白衣骑士\"翻脸、第三方法拍资本悄然入局",
+     "link": "https://www.tmtpost.com/8169915.html",
+     "pubDate": "Mon, 19 Oct 2026 09:03:58 +0800",
+     "summary": "大戏还在继续。",
+     "source": "钛媒体",
+     "zh": "ST恒信\"三国杀\"：大股东与\"白衣骑士\"翻脸、第三方法拍资本悄然入局"
+    },
+    {
+     "title": "换电模式会催生一个比机器人本体更大规模的生意——能源银行",
+     "link": "https://www.tmtpost.com/8172579.html",
+     "pubDate": "Mon, 19 Oct 2026 08:58:00 +0800",
+     "summary": "由专业的\"能源银行\"持有电池，企业按月租赁使用，大幅降低初期投入。",
+     "source": "钛媒体",
+     "zh": "换电模式会催生一个比机器人本体更大规模的生意——能源银行"
+    },
+    {
+     "title": "巴基斯坦欠中国4230亿卢比未还，央企投资集体踩刹车，上海电气与塔尔签署备忘录后续如何？",
+     "link": "https://www.tmtpost.com/8172557.html",
      "pubDate": "Mon, 19 Oct 2026 08:53:00 +0800",
-     "summary": "本文来自微信公众号： 游云庭律师 ，作者：游云庭律师 据《纽约时报》报道及Swarmchasers研究小组的报告，腾讯公司的一批测试版智能体为爬取数据，自发搜寻网上密钥试图绕过高德地图的反爬虫系统，并且这批智能体还自称是Anthropic公司的Claude智能体。结合之前OpenAI智能体失控攻击Hugging Face网站，显示了人工智能失控并不是孤例。今天就和大家聊聊，腾讯的智能体失控和OpenAI的有何不同，此次事件腾讯有没有义务上报监管，以及应如何补救？ 案情简介：海外研究小组Swarmchasers发现腾讯的一批测试版智能体为获取高德地图信息自行尝试绕过网站反爬虫系统，腾讯派给智能体",
-     "source": "虎嗅",
-     "zh": "AI智能体失控偷爬高德数据，腾讯有义务上报监管吗？"
-    },
-    {
-     "title": "荣耀车联升级新增智慧车控功能，支持查看车辆状态、一键控车等",
-     "link": "https://www.ithome.com/1/014/642.htm",
-     "pubDate": "Mon, 19 Oct 2026 00:52:15 GMT",
-     "summary": "IT之家 10 月 19 日消息，据博主 @睿哥玩数码 分享，荣耀车联功能迎来更新。在原有智慧车联功能的基础上， 新增智慧车控功能 ，可以通过手机查看车辆状态、一键控车，还可以通过 YOYO 语音一句话控车。 关于该功能目前支持的车型，据博主在评论区透露， 目前智慧车控仅支持比亚迪旗下车型 。 据IT之家此前报道，比亚迪在 10 月 12 日宣布与荣耀战略合作，共创 AI 语音融合，A2A 打通车机与手机语音智能体，将手机 AI 能力和服务带入座舱空间。 据介绍，比亚迪将支持 YOYO 远程控车，包括语音寻车、语音备车，一句话直达；手机镜像桌面，全量 App 上车，行车操控更从容；AI 语音融",
-     "source": "IT之家",
-     "zh": "荣耀车联升级新增智慧车控功能，支持查看车辆状态、一键控车等"
-    },
-    {
-     "title": "惠普推出基于高通骁龙 C 的 16\" OmniBook 3 消费级笔电，起价 599.99 美元",
-     "link": "https://www.ithome.com/1/014/641.htm",
-     "pubDate": "Mon, 19 Oct 2026 00:52:01 GMT",
-     "summary": "IT之家 10 月 19 日消息，HP（惠普）近日已在美国官网上线基于高通骁龙 C 平台 C1-10-100 处理器的 16 英寸 OmniBook 3 消费级笔记本电脑。 其搭载 4GB / 8GB 的 LPDDR5-6400 内存，存储方面则是 128GB UFS / 256GB PCIe SSD / 512GB PCIe SSD，采用 1920×1200 300nits 低色域 (62.5% sRGB) IPS 屏幕， 起价 599.99 美元 （IT之家注：现汇率约合 4,016 元人民币） 。 其提供 2 个 USB-C 10Gbps、2 个 USB-A 5Gbps、1 个 HDMI",
-     "source": "IT之家",
-     "zh": "惠普推出基于高通骁龙 C 的 16\" OmniBook 3 消费级笔电，起价 599.99 美元"
+     "summary": "巴基斯坦电力欠款严重，上海电气收缩新增电站，转向非发电配套业务破解回款难题。",
+     "source": "钛媒体",
+     "zh": "巴基斯坦欠中国4230亿卢比未还，央企投资集体踩刹车，上海电气与塔尔签署备忘录后续如何？"
     },
     {
      "title": "Edge AI Daily 早报（10月19日）",
@@ -1841,30 +1913,6 @@
      "zh": "Edge AI Daily 早报（10月19日）"
     },
     {
-     "title": "造车越来越快，监管开始追问时间省在哪里",
-     "link": "https://www.tmtpost.com/8172555.html",
-     "pubDate": "Mon, 19 Oct 2026 08:48:00 +0800",
-     "summary": "车企省下的时间，究竟来自技术进步，还是测试验证？",
-     "source": "钛媒体",
-     "zh": "造车越来越快，监管开始追问时间省在哪里"
-    },
-    {
-     "title": "英伟达公关团队进行重组后，其公众形象爆红",
-     "link": "https://www.tmtpost.com/8171905.html",
-     "pubDate": "Mon, 19 Oct 2026 08:43:00 +0800",
-     "summary": "英伟达传播团队重组扩张，仍面临需求增长压力。",
-     "source": "钛媒体",
-     "zh": "英伟达公关团队进行重组后，其公众形象爆红"
-    },
-    {
-     "title": "人类史上最大IPO来了",
-     "link": "https://www.huxiu.com/article/4898466.html?f=rss",
-     "pubDate": "Mon, 19 Oct 2026 08:41:26 +0800",
-     "summary": "本文来自微信公众号： 技术领导力 ，作者：Mr.K 2026年，是AI技术狂飙的一年，也是IPO最疯狂的一年。前脚，SpaceX以1.77万亿美元估值上市，创下人类历史上最大IPO。可惜这个纪录没能保持多久，就要被Anthropic赶超了。 据媒体报道，Anthropic估值可能达到2万亿美元，或将超越SpaceX成为新的IPO之王。 但是，也有不同的声音。独立金融研究机构New Constructs称，这将是“2026年最荒谬的IPO”，认为Anthropic是一家“没有可行商业模式”的公司，而且他们给出的估值只有大约1500亿美元，比2万亿的目标低了93%左右。 01 2万亿估值，泡沫巨大",
-     "source": "虎嗅",
-     "zh": "人类史上最大IPO来了"
-    },
-    {
      "title": "SF-based home insurer Stand, which uses digital twins of homes to price wildfire risk and insures $10B+ of property, raised a $70M Series C at a $1B valuation (Nick Lichtenberg/Fortune)",
      "link": "https://www.techmeme.com/261018/p13#a261018p13",
      "pubDate": "Sun, 18 Oct 2026 20:40:01 -0400",
@@ -1873,60 +1921,12 @@
      "zh": "SF-based home insurer Stand, which uses digital twins of homes to price wildfire risk and insures $10B+ of property, raised a $70M Series C at a $1B valuation (Nick Lichtenberg/Fortune)"
     },
     {
-     "title": "中国人将近一半的时间，都献给了字节跳动",
-     "link": "https://www.tmtpost.com/8172462.html",
-     "pubDate": "Mon, 19 Oct 2026 08:39:29 +0800",
-     "summary": "新巨头字节跳动的商业布局。",
-     "source": "钛媒体",
-     "zh": "中国人将近一半的时间，都献给了字节跳动"
-    },
-    {
-     "title": "大IP营销的时代也过去了",
-     "link": "https://www.huxiu.com/article/4898465.html?f=rss",
-     "pubDate": "Mon, 19 Oct 2026 08:36:33 +0800",
-     "summary": "本文来自微信公众号： 传播体操 ，作者：周在安 抖音一哥“疯狂小杨哥”负荆请罪，如今总算是复出了。只不过，三只羊把大号注销了，决定“洗心革面”、从头做新账号。 作为抖音粉丝量破亿的超级大号，“疯狂小杨哥”的注销，也算是抖音最后一次“削藩”成功。显然，未来恐怕再也不会有这种量级的账号出现了。 有意思的是，小杨兄弟的新号“庆杨”、“开杨”，涨粉速度并不快，到现在也不超过10万粉，甚至比不过此前的吴柳芳。 这当然一方面有平台管控的因素在，根据新黄河等媒体报道，“庆杨”账号开通后平台进行了一次清粉。虽然不知道为什么抖音要清粉，但显然是不希望这个账号涨得太快。（当然，也有一种说法是，这并非清粉，而是数据",
-     "source": "虎嗅",
-     "zh": "大IP营销的时代也过去了"
-    },
-    {
-     "title": "分红，不创造价值",
-     "link": "https://www.huxiu.com/article/4898457.html?f=rss",
-     "pubDate": "Mon, 19 Oct 2026 08:35:07 +0800",
-     "summary": "本文来自微信公众号： 思想钢印 ，作者：思想钢印，题图来自：视觉中国 分红之惑 分红，不创造价值。 如果你不认同这个观点，我可以立刻举两个反例： 反例一、巴菲特喜欢持续分红的公司，但为什么伯克希尔从来不分红？ 反例二、恒大五年分红900亿，股息支付率2020年前都在50%以上，是标准的高股息股，为什么最后还是破产了？ 如果你开始怀疑分红的价值，我再告诉你两个事实： 事实一、叠加红利后全收益指数，中证红利近5年、10年和15年年化收益率达到6.86%，8.23%和9.46%，超过沪深300的7.69%，3.42%和4.07%，超额的部分一半来自分红。 事实二、2016年以来，华证六因子中，红利年",
-     "source": "虎嗅",
-     "zh": "分红，不创造价值"
-    },
-    {
-     "title": "烧钱已成过去式，AI竞赛方向有变化？",
-     "link": "https://www.tmtpost.com/8172463.html",
-     "pubDate": "Mon, 19 Oct 2026 08:30:46 +0800",
-     "summary": "烧钱本身不再是通行证，烧出什么东西来才是。",
-     "source": "钛媒体",
-     "zh": "烧钱已成过去式，AI竞赛方向有变化？"
-    },
-    {
-     "title": "采访过剩时代，为什么视频播客还有人看？",
-     "link": "https://www.tmtpost.com/8172544.html",
-     "pubDate": "Mon, 19 Oct 2026 08:30:41 +0800",
-     "summary": "魔法对轰魔法。",
-     "source": "钛媒体",
-     "zh": "采访过剩时代，为什么视频播客还有人看？"
-    },
-    {
      "title": "William Gibson and the trademarking of cyberspace",
      "link": "https://colo.to/cyberspace.html",
      "pubDate": "Sun, 18 Oct 2026 23:37:57 +0000",
-     "summary": "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 29 # Comments: 0",
+     "summary": "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 63 # Comments: 5",
      "source": "Hacker News",
      "zh": "William Gibson and the trademarking of cyberspace"
-    },
-    {
-     "title": "How RC2's π table was made",
-     "link": "https://khalidhamadeh.com/writing/rc2-pi-table",
-     "pubDate": "Sun, 18 Oct 2026 22:48:07 +0000",
-     "summary": "Article URL: https://khalidhamadeh.com/writing/rc2-pi-table Comments URL: https://news.ycombinator.com/item?id=50146286 Points: 5 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "How RC2's π table was made"
     },
     {
      "title": "Sources: Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal (Bailey Lipschultz/Bloomberg)",
@@ -1948,7 +1948,7 @@
      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
      "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
      "pubDate": "Sun, 18 Oct 2026 21:09:12 +0000",
-     "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 11 # Comments: 4",
+     "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 30 # Comments: 15",
      "source": "Hacker News",
      "zh": "If you don't run your own LLM proxy, how do you know whats going on?"
     },
@@ -1964,7 +1964,7 @@
      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
      "link": "https://arxiv.org/abs/2610.18861",
      "pubDate": "Sun, 18 Oct 2026 20:48:14 +0000",
-     "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 188 # Comments: 1",
+     "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridag... Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: 208 # Comments: 1",
      "source": "Hacker News",
      "zh": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text"
     },
@@ -1996,7 +1996,7 @@
      "title": "Free Pascal compiler now supports dynamic packages",
      "link": "https://www.getlazarus.org/dynamic/",
      "pubDate": "Sun, 18 Oct 2026 18:48:04 +0000",
-     "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 109 # Comments: 18",
+     "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 113 # Comments: 22",
      "source": "Hacker News",
      "zh": "Free Pascal compiler now supports dynamic packages"
     }
@@ -2008,6 +2008,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Here’s how iPhone Duo’s battery capacity compares to other iPhones",
+     "link": "https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison/",
+     "pubDate": "Mon, 19 Oct 2026 01:32:09 +0000",
+     "summary": "After pre-orders for iPhone Duo opened, Apple uploaded an EU regulatory document that finally revealed the true battery capacity for iPhone Duo: 4883mAh. Here’s how that compares to other iPhones. more…",
+     "source": "9to5Mac",
+     "zh": "Here’s how iPhone Duo’s battery capacity compares to other iPhones"
+    },
     {
      "title": "Apple AirPods 5 review",
      "link": "https://www.gsmarena.com/apple_airpods_5_review-news-75101.php",
@@ -2225,14 +2233,6 @@
      "zh": "iPhone Duo walk-in purchases might be challenging at launch, per report"
     },
     {
-     "title": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
-     "link": "https://9to5mac.com/2026/10/17/indie-app-spotlight-hoardware-makes-it-easy-to-track-your-apple-device-collection/",
-     "pubDate": "Sat, 17 Oct 2026 19:30:00 +0000",
-     "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you’re someone who collects tons of varying Apple products, Hoardware is your one-stop shop for keepi",
-     "source": "9to5Mac",
-     "zh": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection"
-    },
-    {
      "title": "Walmart’s $60 Google TV streamer might be the only good deal left in streaming",
      "link": "https://9to5google.com/2026/10/17/walmart-onn-4k-pro-google-tv-review/",
      "pubDate": "Sat, 17 Oct 2026 14:05:00 +0000",
@@ -2257,12 +2257,124 @@
    "total": 13,
    "items": [
     {
-     "title": "融资余额减少144.90亿，杠杆资金最新动态曝光",
-     "link": "http://stock.eastmoney.com/news/11754,202610193899276685.html",
-     "pubDate": "Mon, 19 Oct 2026 09:00:40 +0800",
-     "summary": "10月16日A股三大指数 涨跌不一， 杠杆资金 呈净卖出之势，当天融资余额2.46万亿，较上一交易日减少144.90亿。 剑桥科技 为当日融资净买入最多个股，为2.32亿， 方正科技 融资净买入2.01亿， 泓博医药 1.81亿。 长鑫科技 为当日融资净卖出最多个股，为3.69亿， 宁德时代 融资净卖出2.97亿， 中际旭创 2.93亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
+     "title": "10月19日胶黏剂及胶带板块跌幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610193899391856.html",
+     "pubDate": "Mon, 19 Oct 2026 09:46:08 +0800",
+     "summary": "&emsp;&emsp;10月19日9点38分， 胶黏剂及胶带 板块指数报2536.788点，跌幅达2%，成交8676.25万元，换手率0.58%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 康达新材 报11.83元，跌4.90%； 鹿山新材 报20.92元，跌2.70%； 晶华新材 报12.96元，跌2.41%； 永冠新材 报16.63元，跌1.07%； 皇冠新材 报0.00元，跌0.00%。 注：以上信息仅供参考，不对您构成任何投资建议。",
      "source": "东方财富股票",
-     "zh": "融资余额减少144.90亿，杠杆资金最新动态曝光"
+     "zh": "10月19日胶黏剂及胶带板块跌幅达2%"
+    },
+    {
+     "title": "10月19日元件板块跌幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610193899390181.html",
+     "pubDate": "Mon, 19 Oct 2026 09:45:51 +0800",
+     "summary": "&emsp;&emsp;10月19日9点38分， 元件 板块指数报55069.53点，跌幅达2%，成交132.21亿元，换手率0.81%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 科翔股份 报79.30元，跌11.81%； 天津普林 报20.39元，跌6.94%； 方正科技 报10.93元，跌5.12%； 景旺电子 报86.51元，跌4.41%； 金禄电子 报43.54元，跌4.33%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月19日元件板块跌幅达2%"
+    },
+    {
+     "title": "涛涛车业10月19日快速回调",
+     "link": "http://stock.eastmoney.com/news/1944,202610193899389080.html",
+     "pubDate": "Mon, 19 Oct 2026 09:45:37 +0800",
+     "summary": "以下是 涛涛车业 在北京时间10月19日09:38分盘口异动快照： 10月19日， 涛涛车业 盘中快速回调，5分钟内跌幅超过2%，截至9点38分，报144.4元，成交1.07亿元，换手率2.07%。 分笔 09:38:27 144.40 51↓ 09:38:24 144.81 122↓ 09:38:21 145.03 29↓ 09:38:18 145.23 56↓ 09:38:15 145.38 12↑ 09:38:12 145.38 3↑ 09:38:09 145.20 8↑ 09:38:06 145.13 12↑ 09:38:00 144.86 7↓ 09:37:57 145.06 7↑ ",
+     "source": "东方财富股票",
+     "zh": "涛涛车业10月19日快速回调"
+    },
+    {
+     "title": "一边卖性感，一边卖力量：两块广告牌打响女性体育营销战",
+     "link": "http://www.eeo.com.cn/2026/1019/1069498.shtml",
+     "pubDate": "Mon, 19 Oct 2026 09:36:19 +0800",
+     "summary": "作者 戴莉娟 在纽约时代广场，两幅风格截然不同的广告，意外成为女性体育营销的一场公开交锋。 一边是好莱坞女演员Sydney Sweeney（西德妮·斯威尼），身穿性感服装、怀抱橄榄球，广告上方写着“Just Sports”（只是体育）；另一边则是一名高举双臂、肌肉线条分明的女性游泳运动员，画面中央写着“Never Just Sports”（从来不只是体育）。 <img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/p...",
+     "source": "经济观察网",
+     "zh": "一边卖性感，一边卖力量：两块广告牌打响女性体育营销战"
+    },
+    {
+     "title": "国家统计局城市司高级统计师杨彩芳解读2026年9月份商品住宅销售价格变动情况统计数据",
+     "link": "http://www.eeo.com.cn/2026/1019/1069497.shtml",
+     "pubDate": "Mon, 19 Oct 2026 09:35:07 +0800",
+     "summary": "经济观察网 10月19日，国家统计局城市司高级统计师杨彩芳解读2026年9月份商品住宅销售价格变动情况统计数据。 2026年9月份，70个大中城市中，一线城市商品住宅销售价格环比继续上涨，二三线城市环比降幅总体收窄，一二三线城市同比降幅均收窄，环比上涨城市个数比上月增加。 一、一线城市商品住宅销售价格环比继续上涨，二三线城市环比降幅总体收窄 9月份，一线城市新建商品住宅销售价格环比上涨0.1%，涨幅与...",
+     "source": "经济观察网",
+     "zh": "国家统计局城市司高级统计师杨彩芳解读2026年9月份商品住宅销售价格变动情况统计数据"
+    },
+    {
+     "title": "国家统计局：9月份一线城市商品住宅销售价格环比继续上涨 二三线城市环比降幅总体收窄",
+     "link": "http://finance.eastmoney.com/news/1345,202610193899299177.html",
+     "pubDate": "Mon, 19 Oct 2026 09:30:21 +0800",
+     "summary": "9月份一线城市商品住宅销售价格环比继续上涨，二三线城市环比降幅总体收窄 ——国家统计局城市司高级统计师杨彩芳解读2026年9月份商品住宅销售价格变动情况统计数据 2026年9月份，70个大中城市中，一线城市商品住宅销售价格环比继续上涨，二三线城市环比降幅总体收窄，一二三线城市同比降幅均收窄，环比上涨城市个数比上月增加。 一、一线城市商品住宅销售价格环比继续上涨，二三线城市环比降幅总体收窄 9月份，一线城市新建商品住宅销售价格环比上涨0.1%，涨幅与上月相同。其中，上海、广州和深圳分别上涨0.2%、0.2%和0.3%，北京下降0.2%。二线城市新建商品住宅销售价格环比由上月下降0.1%转为持平。",
+     "source": "东方财富资讯",
+     "zh": "国家统计局：9月份一线城市商品住宅销售价格环比继续上涨 二三线城市环比降幅总体收窄"
+    },
+    {
+     "title": "两市融资余额减少144.05亿元",
+     "link": "http://www.eeo.com.cn/2026/1019/1069492.shtml",
+     "pubDate": "Mon, 19 Oct 2026 09:26:07 +0800",
+     "summary": "【两市融资余额减少144.05亿元】截至10月16日，上交所融资余额报12582.5亿元，较前一交易日减少72.37亿元；深交所融资余额报11935.06亿元，较前一交易日减少71.68亿元；两市合计24517.56亿元，较前一交易日减少144.05亿元。（中新经纬APP）",
+     "source": "经济观察网",
+     "zh": "两市融资余额减少144.05亿元"
+    },
+    {
+     "title": "科技股抛售只是虚惊一场？华尔街仍看好AI交易：AI需求依旧强劲！",
+     "link": "http://stock.eastmoney.com/news/11231,202610193899287129.html",
+     "pubDate": "Mon, 19 Oct 2026 09:24:23 +0800",
+     "summary": "上周，随着投资者对AI融资风险的担忧加剧，全球科技股遭受冲击，AI概念股惨遭抛售。尽管如此， 华尔街分析师仍看好AI交易，认为这是又一次恐慌性抛售，AI需求仍然强劲 。 上周五，纳指跌超2%。周线来看，纳指累计下跌4.48%，创下AI交易“黑暗6月”以来的最大单周跌幅。 随着美光、 闪迪 、AMD、 英特尔 、Lumentum等明星 题材股 集体下跌 ，费城 半导体 指数上周五连续第八个交易日收跌，创2008年以来最长连跌纪录 。该指数周线累跌11.4%，过去八个交易日累计下跌逾13%，市值蒸发约2万亿美元。 新云服务商CoreWeave及其同行Nebius上周累计跌幅均超25%。作为本轮AI",
+     "source": "东方财富资讯",
+     "zh": "科技股抛售只是虚惊一场？华尔街仍看好AI交易：AI需求依旧强劲！"
+    },
+    {
+     "title": "上线了！2027见闻历超值预售99元，活动火热进行中！",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Mon, 19 Oct 2026 09:18:46 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "上线了！2027见闻历超值预售99元，活动火热进行中！"
+    },
+    {
+     "title": "巴克莱：物理与资本双重限制，数据中心增速将在2027年显著放缓！",
+     "link": "https://wallstreetcn.com/articles/3783882",
+     "pubDate": "Mon, 19 Oct 2026 09:18:05 +0800",
+     "summary": "全球数据中心建设热潮正面临物理瓶颈与融资压力的双重制约，增长拐点或已临近。 据追风交易台，巴克莱最新研究报告指出， 全球（不含中国）数据中心新增容量的同比增速将从2026年逾100%大幅回落至2027年的约35%，2028年则可能趋于平稳 。超大规模云服务商（Hyperscaler）将主导这一建设周期，预计2027年全球新增投运容量约25GW，其中超大规模云服务商占比超过60%。 巴克莱同时警告，债务成本上升与融资环境收紧正对数据中心开发商构成额外压力，CoreWeave的融资讨论即为佐证。在行业配置上，巴克莱建议投资者在数据中心相关资本品板块中，优先布局半导体、低压电气及冷却设备，对电力设备",
+     "source": "华尔街见闻",
+     "zh": "巴克莱：物理与资本双重限制，数据中心增速将在2027年显著放缓！"
+    },
+    {
+     "title": "如何看待降息预期走强？",
+     "link": "https://wallstreetcn.com/articles/3783881",
+     "pubDate": "Mon, 19 Oct 2026 09:13:52 +0800",
+     "summary": "中金研究 10月国庆假期后，利率衍生品市场隐含的降息预期迅速走强，已经来到了央行前几轮降息前的水平。降息预期走强的一个原因是，9月下旬以来国债收益率较快下行并未触发央行流动性收紧。我们认为，相对于普降7天逆回购利率和LPR，央行通过政策利率“换锚”、保持资金利率中枢在较低位置实现降息的可能性大一些。如果是后一种降息方式，国债收益率进一步下行的空间可能受限，而且这种降息大概率不影响存量贷款利率、新发贷款利率或会有所下行。明年财政政策力度预期仍是国债收益率方向的重要影响因素。 10月国庆假期后，利率衍生品市场隐含的降息预期快速走强，已经来到了央行前几轮降息前的水平（图表1）。我们计算的利率互换隐含",
+     "source": "华尔街见闻",
+     "zh": "如何看待降息预期走强？"
+    },
+    {
+     "title": "互助帮扶，乡村养老更加暖心",
+     "link": "http://www.eeo.com.cn/2026/1019/1069487.shtml",
+     "pubDate": "Mon, 19 Oct 2026 09:13:12 +0800",
+     "summary": "【我们的节日·重阳】 光明日报记者 任欢 光明日报通讯员 张琰笛 金秋十月，敬老情浓。 来到陕西西安市解家村新社区，“巧姐”志愿服务队的退休老人们，又开始了一天的邻里帮扶。只见她们搬椅子、备茶水，有的陪年纪更大的老人聊天，有的还上门去照顾高龄、独居老人。“能发挥余热，去帮助邻里街坊，我乐在其中。”一位阿姨说。 农村养老，难点在村级，活力也在村级。第五次中国城乡老年人生活状况抽样...",
+     "source": "经济观察网",
+     "zh": "互助帮扶，乡村养老更加暖心"
+    },
+    {
+     "title": "【晒晒咱的镇馆之宝68】宋钧窑玫瑰紫窑变瓷碗：“天成之趣”",
+     "link": "http://www.eeo.com.cn/2026/1019/1069486.shtml",
+     "pubDate": "Mon, 19 Oct 2026 09:13:12 +0800",
+     "summary": "【晒晒咱的镇馆之宝68】 光明日报记者 王胜昔 光明日报通讯员 左起超 河南开封市博物馆二号展厅里，一个外形端庄古朴、色彩如同云霞般绚烂的瓷碗，吸引了记者的目光。它就是宋钧窑玫瑰紫窑变瓷碗。 <img id=\"73462634\" src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/D025821C40659A46DD901C9C251F99C4.jpg\" title=\"【晒晒咱的镇馆之宝68】宋钧窑玫瑰紫窑变瓷碗：“天成之趣”\" al...",
+     "source": "经济观察网",
+     "zh": "【晒晒咱的镇馆之宝68】宋钧窑玫瑰紫窑变瓷碗：“天成之趣”"
+    },
+    {
+     "title": "“稳收益”还是“博反弹” 四季度机构资产配置打法分化",
+     "link": "http://www.eeo.com.cn/2026/1019/1069485.shtml",
+     "pubDate": "Mon, 19 Oct 2026 09:13:11 +0800",
+     "summary": "进入四季度，在“稳收益”与“博反弹”之间，机构资产配置策略正呈现明显分化。面对旗下配置型产品今年以来收益缩水的情况，机构并不甘心。一部分机构选择通过“再平衡”降低波动；另一部分则试图把握权益市场反弹窗口以修复净值。这并非简单的多空之争，而是对三季度以来市场风格切换的不同回应。战略方向上，受访公私募机构的判断趋于一致：权益市场大概率维持“上有顶，下有底”的震荡格局，结构性机会大于指数机会。但在战术方...",
+     "source": "经济观察网",
+     "zh": "“稳收益”还是“博反弹” 四季度机构资产配置打法分化"
+    },
+    {
+     "title": "Anthropic IPO前夕设立千亿公益基金：划出5%股份应对AI社会风险",
+     "link": "http://stock.eastmoney.com/news/11228,202610193899278685.html",
+     "pubDate": "Mon, 19 Oct 2026 09:10:06 +0800",
+     "summary": "美东时间周日，美国AI初创 独角兽 Anthropic在IPO前夕抛出重磅安排：公司宣布将拿出5%股份成立全新公益基金，后续随着估值增长，基金还可获得更多股权。 若按外界预期的公司上市后估值1.5万亿-2万亿美元，这部分股份的价值为750-1000亿美元。 在冲刺上市的前夕，Anthropic试图以此举回应AI带来的社会风险争议。 IPO前夕设立公益基金 美东时间周日，Anthropic对外公布了一项公益基金计划。 Anthropic将拿出公司5%股份设立全新公益基金， 用于服务“公共利益”的捐赠项目。 拟设立的该基金将采用全资有限责任公司形式。若公司估值较基准值每上涨50%，经董事会酌情决定",
+     "source": "东方财富资讯",
+     "zh": "Anthropic IPO前夕设立千亿公益基金：划出5%股份应对AI社会风险"
     },
     {
      "title": "AI资金流向图：英伟达拿走6900亿，其余499家瓜分3400亿",
@@ -2273,38 +2385,6 @@
      "zh": "AI资金流向图：英伟达拿走6900亿，其余499家瓜分3400亿"
     },
     {
-     "title": "现代职业教育体系的“四梁八柱”立起来了",
-     "link": "http://finance.eastmoney.com/news/1350,202610193899276056.html",
-     "pubDate": "Mon, 19 Oct 2026 08:58:04 +0800",
-     "summary": "10月17日， 教育 部在2026年世界职业技术 教育 发展大会上发布《中国职业 教育 白皮书》。在此前的新闻发布会上，教育部 职业教育 与成人教育司司长彭斌柏说：“我们建成了世界上规模最大且有质量的现代 职业教育 体系。”打开这份白皮书，这个定义有了具体的模样：纵向，中等 职业教育 、高等职业教育、职业本科教育一路贯通；横向，职普融通、产教融合双向发力。办学、产教融合、标准、经费、法治、研究六大体系相互支撑，现代职业教育体系的“四梁八柱”，立起来了。 中职到职业本科一路贯通 “大体系”的第一根梁，是纵向贯通的办学体系。 白皮书显示，全国共有中等职业学校（含技工学校）9151所、高职专科学校1",
-     "source": "东方财富股票",
-     "zh": "现代职业教育体系的“四梁八柱”立起来了"
-    },
-    {
-     "title": "【调研快报】京东方A接待盘京投资等2家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610193899275064.html",
-     "pubDate": "Mon, 19 Oct 2026 08:55:45 +0800",
-     "summary": "京东方A 10月19日公告称， 10月16日 接待盘京投资 等2家机构 调研。 接待人员包括副总裁、董事会秘书 郭红,董事会秘书室工作人员 张妍。 公司就以下问题进行了回复： 讨论的主要内容为回答投资者提问,问答情况如下: 1、近期显示行业情况? 答:根据咨询机构数据及分析,受存储涨价影响,终端产品成本不断抬升,部分终端产品价格上涨,致使 消费电子 市场需求受到一定抑制,2026年主流应用终端销量预计均同比下滑。这一压力将传导至 面板 端,导致2026年各应用类别 面板 ... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内",
-     "source": "东方财富股票",
-     "zh": "【调研快报】京东方A接待盘京投资等2家机构调研"
-    },
-    {
-     "title": "美国铜关税迟迟未落地 贸易商对铜价牛市愈发警惕",
-     "link": "http://hk.eastmoney.com/news/11617,202610193899274629.html",
-     "pubDate": "Mon, 19 Oct 2026 08:54:44 +0800",
-     "summary": "自唐纳德·特朗普再度入主白宫以来， 铜 价已大幅飙升，缘于全球库存因他可能对这种金属征收关税的风险而发生了剧烈的重新布局。但随着特朗普第二任期临近过半，市场上众多多头开始警惕：如果他不兑现承诺，价格可能会崩盘。 直到几周前，纽约 铜 期货 还持续高于伦敦金属交易所(LME)设定的全球基准价，这使得交易员能够在关税落地之前，通过向美国运送 铜 获得前所未有的利润。反过来，美国以外的库存已大幅下降，源源不断的对美进口形成了一个反馈循环，帮助上个月将 LME 价格推升至接近每吨 15,000 美元的历史高位。 但随着中期选举临近，各个市场的投资者都在质疑：民主党若在中期选举中表现强劲，是否会打乱特朗",
-     "source": "东方财富股票",
-     "zh": "美国铜关税迟迟未落地 贸易商对铜价牛市愈发警惕"
-    },
-    {
-     "title": "DeepSeek API已支持网页搜索与抓取 按请求次数计费",
-     "link": "http://finance.eastmoney.com/news/1360,202610193899276539.html",
-     "pubDate": "Mon, 19 Oct 2026 08:54:18 +0800",
-     "summary": "DeepSeek公告，DeepSeek API现已支持网页搜索与抓取，按请求次数计费，单价为每1000次成功请求5元。公告称，当前用户在DeepSeek Harness/Claude Code/Codex中使用DeepSeek API时，已经会通过Server端工具调用访问到Search/Fetch接口，这部分Search/Fetch接口调用目前未计费，并将于11月1日00:00起按次收取调用费用。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "DeepSeek API已支持网页搜索与抓取 按请求次数计费"
-    },
-    {
      "title": "霍华德·马克斯：如果所有人都在谈论泡沫，那么泡沫可能还没破",
      "link": "https://wallstreetcn.com/articles/3783879",
      "pubDate": "Mon, 19 Oct 2026 08:53:55 +0800",
@@ -2313,68 +2393,28 @@
      "zh": "霍华德·马克斯：如果所有人都在谈论泡沫，那么泡沫可能还没破"
     },
     {
-     "title": "存储双雄，开盘大跌",
-     "link": "http://stock.eastmoney.com/news/1439,202610193899275678.html",
-     "pubDate": "Mon, 19 Oct 2026 08:53:17 +0800",
-     "summary": "【导读】日韩股市集体低开，存储双雄 SK海力士 、三星 电子 大跌 中国基金报记者李智 10月19日，日韩股市集体低开，韩国KOSPI指数开盘下跌3.17%，随后快速拉升，最新报5604.45点。个股方面， SK海力士 一度跌逾4%，三星 电子 一度跌超3%；截至发稿，分别跌超2.5%和1%。 据报道，韩国承诺将加强监控股市波动。 据CNBC当地时间10月17日报道，韩国副总理兼财政经济部长李炯日表示， 半导体 行业的繁荣势头将持续到2027年。“目前，我们认为这种增长至少可以持续到明年。这是因为 半导体 的供需缺口仍然非常大，并且供应端仍在持续扩张。” 李炯日指出，芯片股加剧了今年韩国股市的",
-     "source": "东方财富股票",
-     "zh": "存储双雄，开盘大跌"
+     "title": "从AI狂热到避险回归：股债联动逻辑的“裂变”时刻到来！",
+     "link": "http://bond.eastmoney.com/news/1326,202610193899270430.html",
+     "pubDate": "Mon, 19 Oct 2026 08:46:18 +0800",
+     "summary": "过去一周，美国国债正显现出重拾其传统避险资产地位的初步迹象——这可能令那些押注今年债券市场跌势将进一步加深的投资者措手不及…… 随着市场对头部AI企业的盈利前景及其对整体经济潜在冲击的担忧与日俱增，上周美债收益率与美股齐跌：10年期美债收益率下行约17个基点， 纳斯达克 100指数则重挫5.5%。 而回顾历史行情，上一次基准收益率与纳指在同一周出现如此大幅下跌，还要追溯到2025年4月的特朗普对等关税风波期间。 过去数月间，美债在美股动荡期几乎完全失去了原有的避风港功能，因此此轮债券价格的反弹格外引人瞩目。 高企的通胀、韧性十足的经济，以及政府和企业借贷潮——包括为 人工智能 热潮提供资金，共",
+     "source": "东方财富资讯",
+     "zh": "从AI狂热到避险回归：股债联动逻辑的“裂变”时刻到来！"
     },
     {
-     "title": "地产或正迈向“中期逻辑”",
-     "link": "https://wallstreetcn.com/articles/3783877",
-     "pubDate": "Mon, 19 Oct 2026 08:46:39 +0800",
-     "summary": "摘要 8月底以来，中央连续2次出台全国性地产政策：828新政宣告行业销售制度正式转轨，9月29日启动近年来首次中央贴息居民按揭。我们认为两轮政策殊途同归，指向房地产行业更广义的企稳，全国房价更大范围的企稳条件正逐步具备。 供给端：未来两年供给预计持续收缩 828政策后房企拿地能力减弱，未来两年供给端或将持续收紧。828新政重构房地产商业模式，截至10月11日，北京、上海、广州、武汉、天津、杭州等地相继发布住房销售制度改革细则，现售制下项目现金流回正周期显著拉长；据我们测算，新预售/新现售模式下房企可动用拿地金额可能将下滑33%/41%。据中指院数据，9月全国涉宅用地成交面积单月同比下降32.3",
-     "source": "华尔街见闻",
-     "zh": "地产或正迈向“中期逻辑”"
+     "title": "贵州茅台重回王座 但江湖已不是那个江湖",
+     "link": "http://finance.eastmoney.com/news/1344,202610193899265425.html",
+     "pubDate": "Mon, 19 Oct 2026 08:32:43 +0800",
+     "summary": "疾风知劲草，弱市找茅台。 10月16日收盘， 贵州茅台 报收1329元，上涨1.22%，成交额50.76亿元，总市值16614亿元，动态市盈率18.66倍。 在A股千元股阵营中， 贵州茅台 是当日最靓的仔。 联讯仪器 报收1200元，下跌5.23%，市盈率266.48倍； 源杰科技 报收1028.58元，下跌3.56%，市盈率170.35倍。 市场明星 寒武纪 早已破千元关口，报收915元，市盈率172.69倍。 最近股市跌幅较大，但 贵州茅台 逆势而上，连续三个交易日上涨，股价也重回王座。那么，它能重回巅峰吗？还是挑战重重？笔者以为，虽然1329元让茅台坐回了A股股价第一的位置，显示了其韧性",
+     "source": "东方财富资讯",
+     "zh": "贵州茅台重回王座 但江湖已不是那个江湖"
     },
     {
-     "title": "今日看点｜国新办将举行2026年前三季度国民经济运行情况新闻发布会",
-     "link": "http://www.eeo.com.cn/2026/1019/1069456.shtml",
-     "pubDate": "Mon, 19 Oct 2026 08:28:35 +0800",
-     "summary": "10月19日上午10时，国新办将举行新闻发布会，国家统计局新闻发言人、副局长毛盛勇介绍2026年前三季度国民经济运行情况，并答记者问。",
-     "source": "经济观察网",
-     "zh": "今日看点｜国新办将举行2026年前三季度国民经济运行情况新闻发布会"
-    },
-    {
-     "title": "钢银电商：截至10月19日当周全国钢市库存环比减少4.00%",
-     "link": "http://www.eeo.com.cn/2026/1019/1069455.shtml",
-     "pubDate": "Mon, 19 Oct 2026 08:13:11 +0800",
-     "summary": "新华财经北京10月19日电 钢银电商最新数据显示，截至10月19日，全国37个城市，共计126个仓库的城市钢材总库存量为920.72万吨，较上周环比减少38.38万吨，降幅4.00%。 其中，建筑钢材库存总量为434.35万吨，较上周环比减少31.12万吨（-6.69%)，包含29个城市，共计72个仓库。 热卷库存总量为258.67万吨，较上周环比减少6.86万吨（-2.58%)，包含15个城市，共计44个仓库。 中厚板库存总量为86.00万吨，较上周环比...",
-     "source": "经济观察网",
-     "zh": "钢银电商：截至10月19日当周全国钢市库存环比减少4.00%"
-    },
-    {
-     "title": "AI越“懂你”，青年越需要“我再想想”",
-     "link": "http://www.eeo.com.cn/2026/1019/1069454.shtml",
-     "pubDate": "Mon, 19 Oct 2026 08:13:11 +0800",
-     "summary": "制图：王钟的（图片由AI辅助生成） 从改论文、做PPT，到投简历、模拟面试，再到深夜里聊一聊情绪和关系，生成式人工智能正在成为不少青年的“学习搭子”“求职搭子”，甚至是随时在线的“参谋”...",
-     "source": "经济观察网",
-     "zh": "AI越“懂你”，青年越需要“我再想想”"
-    },
-    {
-     "title": "四类信息织就“信用画像” 保险销售人员将实现“查档上岗”",
-     "link": "http://www.eeo.com.cn/2026/1019/1069453.shtml",
-     "pubDate": "Mon, 19 Oct 2026 08:13:06 +0800",
-     "summary": "新华财经上海10月19日电 针对保险销售人员的管理再出新规。记者近日从业内获悉，中国保险行业协会发布《保险销售人员信用档案建设办法》（下称《办法》），新规涉及信息采集、信息整理、档案管理等方面，意在加强保险销售人员自律管理、规范保险销售人员职业行为。《办法》自2027年1月1日起施行。 中国社会科学院金融研究所研究员、保险与经济发展研究中心主任郭金龙在接受上海证券报记者采访时表示，从行业实际来看，保...",
-     "source": "经济观察网",
-     "zh": "四类信息织就“信用画像” 保险销售人员将实现“查档上岗”"
-    },
-    {
-     "title": "央行：进一步提升金融服务实体经济的适配性",
-     "link": "http://www.eeo.com.cn/2026/1019/1069452.shtml",
-     "pubDate": "Mon, 19 Oct 2026 08:13:05 +0800",
-     "summary": "新华财经北京10月19日电 2026年10月16日至17日，国际货币基金组织在泰国曼谷召开第54届国际货币与金融委员会（IMFC）会议，会议讨论了全球经济金融形势、基金组织工作等议题。中国人民银行行长潘功胜出席会议，并在部长级会议上书面发言。 他表示，中国人民银行将继续实施好适度宽松的货币政策，根据宏观经济运行情况、物价走势和宏观调控需要，综合运用多种货币政策工具，保持流动性充裕，引导调控好利率水平。服务实体...",
-     "source": "经济观察网",
-     "zh": "央行：进一步提升金融服务实体经济的适配性"
-    },
-    {
-     "title": "瑞银交易台：上周美股走势与“AI股神爆仓”那次非常像",
-     "link": "https://wallstreetcn.com/articles/3783874",
-     "pubDate": "Mon, 19 Oct 2026 08:06:38 +0800",
-     "summary": "美股上周经历的并非全面抛售，而是一场定向的仓位重置。 瑞银交易台交易员Torsten Sippel在最新周报中指出，上周市场走势与数月前由“Situational Awareness”（一家知名AI量化基金）引发的去杠杆行情高度相似——AI与动量板块持续承压，资金向防御性和低拥挤板块轮动，但整体风险敞口并未被系统性抛弃。 AI与动量板块成为本轮调整的震中。 半导体、存储及AI基础设施遭遇持续抛压，几乎没有资金入场抄底，存储板块单周跌幅达16%，投机成长股下跌12%，动量多空组合下跌8%。与此同时，必需消费品上涨5%，价值多空组合上涨6%，市场风格从成长与拥挤动量向质量与价值的切换已相当明显。 ",
-     "source": "华尔街见闻",
-     "zh": "瑞银交易台：上周美股走势与“AI股神爆仓”那次非常像"
+     "title": "A股热点前瞻丨DeepSeek新模型发布；国常会部署深化拓展“人工智能+”行动",
+     "link": "http://finance.eastmoney.com/news/11822,202610193899265141.html",
+     "pubDate": "Mon, 19 Oct 2026 08:32:15 +0800",
+     "summary": "①DeepSeek发布V4.1 Flash新版本，国产大模型加速迭代； ②国常会部署深化拓展“ 人工智能 +”行动，机构看好 AI应用 落地； ③iPhone Duo预购首发现货秒空，果链景气度获验证； ④五大城市群获批氢能 综合 应用试点，产业链迎政策东风； ⑤两部门部署“跟着电影去运动”，赛事经济处于共振窗口； 盘面回顾 10月16日，A股三大指数涨跌不一，沪指涨0.24%报3716.28点，创业板指跌0.39%。 军工 、 低空经济 、飞行 汽车 板块领涨， 元件 、 CRO 概念、短剧游戏板块表现不佳。 DeepSeek V4.1 Flash更新至1017版本 开放自研搜索API 10",
+     "source": "东方财富资讯",
+     "zh": "A股热点前瞻丨DeepSeek新模型发布；国常会部署深化拓展“人工智能+”行动"
     },
     {
      "title": "Acorns buys Gen Z social finance app Frich",
@@ -2391,22 +2431,6 @@
      "summary": "World, the digital identity project co-founded by OpenAI boss Sam Altman has unveiled suite of tools designed to help banks prevent deepfake fraud and AI-driven impersonation across customer accounts, employee workflows, and agents.",
      "source": "Finextra",
      "zh": "World takes on AI-driven impersonations with new suite for banking and finance"
-    },
-    {
-     "title": "上线了！2027见闻历超值预售99元，活动火热进行中！",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Mon, 19 Oct 2026 07:32:23 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "上线了！2027见闻历超值预售99元，活动火热进行中！"
-    },
-    {
-     "title": "华尔街见闻早餐FM-Radio | 2026年10月19日",
-     "link": "https://wallstreetcn.com/articles/3783833",
-     "pubDate": "Mon, 19 Oct 2026 07:00:19 +0800",
-     "summary": "华见早安之声 要闻精选 A股 周五 尾盘20分钟 突然爆量 ，百亿资金扫货浮现 宽基ETF托底信号 。 国常会 部署深化拓展\"人工智能+\"行动 ，要求以落地应用牵引技术创新，会议同时原则通过价格法修正草案、明确治理低价无序竞争。 中国商务部、科技部 拟对人工智能、生物医药、光伏三个领域40项技术实施出口管制 ，其中禁止出口14项、限制出口26项，并同步实施出口前登记管理。 中国央行 就银行间债券市场债券发行管理规则公开征求意见，禁止发行人认购或变相认购自己发行的债券，同时禁止低价承销与虚假投标。 美联储主席沃什 称 不预判议息会议结果，市场押注10月加息概率 从约27% 回落至不足15% 。 ",
-     "source": "华尔街见闻",
-     "zh": "华尔街见闻早餐FM-Radio | 2026年10月19日"
     },
     {
      "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market&apos;s underperformance",
@@ -2471,30 +2495,6 @@
      "summary": "Worst street violence in years comes six months before one of Europe’s most closely watched elections",
      "source": "Financial Times",
      "zh": "Macron faces political firestorm after riots"
-    },
-    {
-     "title": "St Petersburg endures biggest Ukrainian drone attack",
-     "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
-     "pubDate": "Sun, 18 Oct 2026 18:30:14 GMT",
-     "summary": "Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine",
-     "source": "Financial Times",
-     "zh": "St Petersburg endures biggest Ukrainian drone attack"
-    },
-    {
-     "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-     "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-     "pubDate": "Sun, 18 Oct 2026 17:00:00 GMT",
-     "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-     "source": "MarketWatch",
-     "zh": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?"
-    },
-    {
-     "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-     "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-     "pubDate": "Sun, 18 Oct 2026 16:15:00 GMT",
-     "summary": "”I earn $110,000 a year.”",
-     "source": "MarketWatch",
-     "zh": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
     }
    ]
   },

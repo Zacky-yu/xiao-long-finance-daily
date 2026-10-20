@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/20 13:12:05",
+ "generated_at": "2026/10/20 13:29:31",
  "recent_days": 7,
  "industries": [
   {
@@ -1778,6 +1778,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "iQOO Neo12 手机官宣搭载全新冰穹主动散热风扇、Neo 史上最大面积 VC",
+     "link": "https://www.ithome.com/1/015/259.htm",
+     "pubDate": "Tue, 20 Oct 2026 05:20:49 GMT",
+     "summary": "IT之家 10 月 20 日消息，iQOO Neo12 手机官宣将于 10 月 28 日 19:00 发布即开售。 官方今日对这款新机进行预热，官宣搭载 第五代骁龙 8 至尊版处理器 、iQOO16 同款 Monster 超核引擎以及 新一代冰穹主动散热风扇 。 官方随后公布了新机的散热性能，搭载全新冰穹主动散热风扇，59 片大尺寸扇叶，风扇转速支持三档智能调节；电路板双层防水设计，使用高强度转子和轴心焊接；8.2K 3D 冰穹 VC 被动散热， Neo 史上最大面积 VC ，相比 Neo11 VC 均热性能提升 15%。 IT之家附 iQOO Neo12 新机目前已公布 / 曝光的配置如下：",
+     "source": "IT之家",
+     "zh": "iQOO Neo12 手机官宣搭载全新冰穹主动散热风扇、Neo 史上最大面积 VC"
+    },
+    {
+     "title": "小米米家口袋照片打印机 Pro 礼盒装开售：专属浅紫配色，799 元",
+     "link": "https://www.ithome.com/1/015/258.htm",
+     "pubDate": "Tue, 20 Oct 2026 05:10:47 GMT",
+     "summary": "IT之家 10 月 20 日消息，小米米家口袋照片打印机 Pro 礼盒装今日正式开售， 售价 799 元 。 这款礼盒装的米家口袋照片打印机 Pro 采用淡雅浅紫色机身， 该配色为礼盒专属 ，仅随礼盒发售。 据介绍，这款产品采用专业热升华打印技术，分辨率达到 313dpi，拥有 1670 万色宽广色域和 256 级灰阶呈现，能够清晰细腻还原照片原本色彩；打印过程中自动完成一体化覆膜，可有效阻隔日常水汽侵扰，让照片不易老化褪色。 礼盒附赠磁吸收纳相框，一物多用，可作为桌面摆台，也可作为磁吸冰箱贴，将美好回忆贴在冰箱上；同时相框还可收纳照片，最多可容纳 20 张照片，收纳展示一步到位。 礼盒自带收",
+     "source": "IT之家",
+     "zh": "小米米家口袋照片打印机 Pro 礼盒装开售：专属浅紫配色，799 元"
+    },
+    {
      "title": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
      "link": "https://www.wired.com/story/adorama-promo-code/",
      "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
@@ -1810,20 +1826,20 @@ window.INDUSTRY_DATA = {
      "zh": "Wayfair Coupons: Up to 80% Off October 2026"
     },
     {
-     "title": "Chewy Promo Codes: $20 Off October 2026",
-     "link": "https://www.wired.com/story/chewy-promo-code/",
-     "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
-     "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
-     "source": "WIRED",
-     "zh": "Chewy Promo Codes: $20 Off October 2026"
-    },
-    {
      "title": "30% Off Canon Promo Codes | October 2026",
      "link": "https://www.wired.com/story/canon-promo-code/",
      "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
      "source": "WIRED",
      "zh": "30% Off Canon Promo Codes | October 2026"
+    },
+    {
+     "title": "50% Off DoorDash Promo Code | October 2026",
+     "link": "https://www.wired.com/story/doordash-promo-code/",
+     "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
+     "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+     "source": "WIRED",
+     "zh": "50% Off DoorDash Promo Code | October 2026"
     },
     {
      "title": "诺奖得主安德烈 · 海姆：单层石墨烯性能卓越，相关研究 15 年内一定能走入百姓生活",
@@ -1898,28 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "1508万主播背后，站着一批不敢下播的中年人"
     },
     {
-     "title": "长城 27 款坦克 500 将于 10 月 23 日上市，搭载 Coffee Pilot 4 辅助驾驶系统",
-     "link": "https://www.ithome.com/1/015/251.htm",
-     "pubDate": "Tue, 20 Oct 2026 04:41:24 GMT",
-     "summary": "IT之家 10 月 20 日消息，据易车消息，27 款坦克 500 将于 10 月 23 日正式上市。 据IT之家此前报道，10 月 16 日， 27 款坦克 500 正式开启预订 ， 3000 元订金抵 9000 元购车尾款 。 新车延续现款主体外观设计，新增丹霞红车身配色；长宽高分别为 5078/1934/1905mm，轴距 2850mm；接近角 29°，离去角 24°，最小离地间隙 210mm。 智能驾驶辅助系统方面，新车搭载了 Coffee Pilot 4.0 智能辅助驾驶系统，配备了一颗 700TOPS 算力的 Thor-U 芯片和包括禾赛 192 线激光雷达在内的 27 个传感器。",
-     "source": "IT之家",
-     "zh": "长城 27 款坦克 500 将于 10 月 23 日上市，搭载 Coffee Pilot 4 辅助驾驶系统"
-    },
-    {
      "title": "中国等不来Muse",
      "link": "https://www.huxiu.com/article/4898881.html?f=rss",
      "pubDate": "Tue, 20 Oct 2026 12:40:38 +0800",
      "summary": "本文来自微信公众号： 穷奇商业 ，作者：穷奇观察 ——三个小循环，整合不出一个大循环（文章为10月4日定稿） 中国等不来Muse，不是技术不够，不是动作不快，是这道题根本不存在。Muse解的是\"打通\"，美国没有小循环，反垄断拆完墙，浏览器是万能钥匙，一个Agent能替用户敲开所有门。 中国要解的是\"整合\"。字节、腾讯、阿里，三家庄园自给自足，门都是自家的，不需要外部钥匙。题不一样，抄得了作业本，抄不了题目。 Muse的地基 先看Muse自己有多猛。 9月2日，Meta发布Muse模型Spark 1.3；9月8日，Muse助手App上线。上线两周，全球下载量突破250万。9月22日，Meta股价",
      "source": "虎嗅",
      "zh": "中国等不来Muse"
-    },
-    {
-     "title": "粉丝用 AI 基于虚幻引擎 5.8 重制《恶霸鲁尼》，Mac 上 1080P 能跑 45 帧",
-     "link": "https://www.ithome.com/1/015/250.htm",
-     "pubDate": "Tue, 20 Oct 2026 04:40:37 GMT",
-     "summary": "IT之家 10 月 20 日消息，尽管官方一直没有推出续作，但《恶霸鲁尼》（Bully）多年来热度居高不下。之所以迟迟没有新作问世，只是因为 Rockstar 一直忙于其他系列项目。不过开发团队清楚这款作品人气很高，此前曾将其列为工作室史上最受欢迎的四款游戏之一。 多年来，不断有传闻称 Take-Two 计划以重制或高清复刻的形式重启该 IP，但粉丝们已经等得失去耐心，开始自己动手制作《恶霸鲁尼》重制版，以现代游戏标准重新构想这个 IP。现在有一位专注的爱好者，正借助 AI 工具从零开始，制作虚幻引擎 5 版《恶霸鲁尼》。 IT之家注意到，推特用户 @ashen_one 透露，他正在基于虚幻引",
-     "source": "IT之家",
-     "zh": "粉丝用 AI 基于虚幻引擎 5.8 重制《恶霸鲁尼》，Mac 上 1080P 能跑 45 帧"
     },
     {
      "title": "一孩一股SpaceX，马斯克105亿美元的全民实验",
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
      "link": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
      "pubDate": "Tue, 20 Oct 2026 04:02:26 +0000",
-     "summary": "Article URL: https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/ Comments URL: https://news.ycombinator.com/item?id=50161207 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/ Comments URL: https://news.ycombinator.com/item?id=50161207 Points: 15 # Comments: 9",
      "source": "Hacker News",
      "zh": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor"
     },
@@ -1997,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
      "link": "https://github.com/golang/go/issues/82345",
      "pubDate": "Tue, 20 Oct 2026 03:05:07 +0000",
-     "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 31 # Comments: 13",
+     "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 32 # Comments: 15",
      "source": "Hacker News",
      "zh": "Go will reject certificate chains containing eight distrusted SPKIs"
     },
@@ -2013,7 +2013,7 @@ window.INDUSTRY_DATA = {
      "title": "OpenBSD 8.0",
      "link": "https://www.openbsd.org/80.html",
      "pubDate": "Tue, 20 Oct 2026 02:06:40 +0000",
-     "summary": "Article URL: https://www.openbsd.org/80.html Comments URL: https://news.ycombinator.com/item?id=50160494 Points: 93 # Comments: 28",
+     "summary": "Article URL: https://www.openbsd.org/80.html Comments URL: https://news.ycombinator.com/item?id=50160494 Points: 111 # Comments: 31",
      "source": "Hacker News",
      "zh": "OpenBSD 8.0"
     }
@@ -2274,60 +2274,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "加拿大媒体：艾伯塔省公投赞成继续留在联邦",
+     "link": "http://finance.eastmoney.com/news/1351,202610203901183621.html",
+     "pubDate": "Tue, 20 Oct 2026 13:21:35 +0800",
+     "summary": "据加拿大媒体20日测算，在该国艾伯塔省19日举行的公投中，“艾伯塔省应继续作为加拿大的一个省”的选项获得多数选民支持。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "加拿大媒体：艾伯塔省公投赞成继续留在联邦"
+    },
+    {
+     "title": "300081，原董事长被采取刑事强制措施",
+     "link": "http://finance.eastmoney.com/news/1354,202610203901182815.html",
+     "pubDate": "Tue, 20 Oct 2026 13:20:43 +0800",
+     "summary": "10月19日晚间，恒信 东方文化 股份有限公司（简称“ ST恒信 ”，300081.SZ）公告称，公司10月16日晚间从公安司法机关获悉，公司原董事长孟楠被采取刑事强制措施。尽管公司已在2026年6月30日罢免了孟楠非独立董事职务，但其仍兼任多个主要子公司执行董事、经理及法定代表人等多项职务，其被采取刑事强制措施事项对主要子公司产生重大影响。 （来源：公司公告） ST恒信 表示，获悉相关信息后，公司尝试和其家属即公司实控人孟宪民（系孟楠之父）联系，了解详细情况。但截至公告披露，暂未获得相关反馈信息。 据了解，2026年6月30日，公司2025年度股东会罢免了孟楠非独立董事职务，本次股东会决议后",
+     "source": "东方财富股票",
+     "zh": "300081，原董事长被采取刑事强制措施"
+    },
+    {
+     "title": "ABB拟以4.95亿美元收购三菱电机低压配电业务51%股权",
+     "link": "http://finance.eastmoney.com/news/1354,202610203901184652.html",
+     "pubDate": "Tue, 20 Oct 2026 13:20:36 +0800",
+     "summary": "10月20日，瑞士工业技术企业ABB宣布与三菱电机成立合资公司，拟以790亿日元（约4.95亿美元）取得新公司51%股权，并全资收购三菱电机相关低压配电产品在日本以外的销售业务。交易预计于2027年下半年完成，尚需获得监管批准。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "ABB拟以4.95亿美元收购三菱电机低压配电业务51%股权"
+    },
+    {
+     "title": "华如科技10月20日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901179936.html",
+     "pubDate": "Tue, 20 Oct 2026 13:19:04 +0800",
+     "summary": "以下是 华如科技 在北京时间10月20日13:18分盘口异动快照： 10月20日， 华如科技 盘中涨幅达5%，截至13点18分，报24.18元，成交3.37亿元，换手率10.41%。 分笔 13:18:54 24.18 745↑ 13:18:51 24.14 89↑ 13:18:48 24.12 187↑ 13:18:45 24.11 178↑ 13:18:42 24.10 71↓ 13:18:39 24.10 1316↑ 13:18:36 24.03 326↓ 13:18:33 24.06 489↓ 13:18:30 24.10 87↑ 13:18:27 24.06 171↑ 报价 卖五 2",
+     "source": "东方财富股票",
+     "zh": "华如科技10月20日盘中涨幅达5%"
+    },
+    {
+     "title": "意大利拟派兵五百“保卫米兰”",
+     "link": "http://finance.eastmoney.com/news/1351,202610203901179879.html",
+     "pubDate": "Tue, 20 Oct 2026 13:18:40 +0800",
+     "summary": "意大利米兰市等多地示威活动上周末演变为骚乱。意副总理萨尔维尼19日说，政府将向米兰派兵500人维护治安。 萨尔维尼当天在社交媒体发帖说：“付诸行动：派兵500人保卫米兰。”据路透社报道，意大利政府拟于20日召开内阁会议，计划讨论并通过向米兰派兵等一系列安全措施。 由于担心骚乱再现，位于米兰市中心的店铺19日提前关门。在奢侈品店密集的蒙特拿破仑区，警察来回巡逻，只有少数游客逗留。为避免遭打砸抢，大部分商店撤下橱窗陈列商品。 意大利总理梅洛尼17日曾在社交媒体上谴责暴力行为，称示威不能以肆意破坏城市为代价。 法国、意大利、葡萄牙、比利时等欧洲多国17日爆发示威活动，抗议生活成本高企、公共服务不足、",
+     "source": "东方财富股票",
+     "zh": "意大利拟派兵五百“保卫米兰”"
+    },
+    {
+     "title": "科创板硬科技公司迎来业绩兑现期 业绩预喜叠加回购增持释放积极信号",
+     "link": "http://finance.eastmoney.com/news/1354,202610203901180473.html",
+     "pubDate": "Tue, 20 Oct 2026 13:18:16 +0800",
+     "summary": "近日，科创板上市公司 长鑫科技 披露2026年前三季度业绩预告，并公告董事长提议回购公司股份，引发市场广泛关注。记者梳理发现，10月15日以来，沪市科创板公司经营端与回报端信号同步增多：除了存储龙头 长鑫科技 单季盈利再上新台阶外，AI算力、光 通信 、 半导体 设备等赛道企业三季报密集预喜；一批龙头企业同步推进回购增持，传递“重研发亦重回报”的取向。业绩兑现与产业资本行动相互印证，科创板硬科技公司的经营韧性与中长期产业逻辑进一步显现。 科创龙头业绩集中预喜产业长跑迎来盈利拐点 长鑫科技 这份亮眼的三季报业绩预告，是国内 存储芯片 产业突破成长的缩影。公告显示，公司预计2026年前三季度营业收",
+     "source": "东方财富股票",
+     "zh": "科创板硬科技公司迎来业绩兑现期 业绩预喜叠加回购增持释放积极信号"
+    },
+    {
+     "title": "要素综合改革试点首批创新举措发布！事关土地、算力等要素",
+     "link": "http://www.eeo.com.cn/2026/1020/1070508.shtml",
+     "pubDate": "Tue, 20 Oct 2026 13:13:14 +0800",
+     "summary": "21世纪经济报道记者 周潇枭 北京报道 近日，国家发展改革委会同有关部门印发《要素市场化配置综合改革试点创新举措和经验做法（第一批）》。 2025年9月，国务院印发《关于全国部分地区要素市场化配置综合改革试点实施方案的批复》，明确在10个地区开展要素市场化配置综合改革试点。要素综合改革试点实施一年多来，10个地区推动一批重点改革举措落地实施，取得积极成效。 10月20日，国家发展改革委政策研究室副主任...",
+     "source": "经济观察网",
+     "zh": "要素综合改革试点首批创新举措发布！事关土地、算力等要素"
+    },
+    {
+     "title": "国家发改委：正制定未来5年扩内需战略实施方案",
+     "link": "http://www.eeo.com.cn/2026/1020/1070507.shtml",
+     "pubDate": "Tue, 20 Oct 2026 13:13:14 +0800",
+     "summary": "21世纪经济报道记者 周潇枭 北京报道 10月20日，国家发展改革委10月份新闻发布会在京举行。 （国家发展改革委发布会现场图，拍摄：周潇枭）</...",
+     "source": "经济观察网",
+     "zh": "国家发改委：正制定未来5年扩内需战略实施方案"
+    },
+    {
+     "title": "首批重大应用场景项目清单来了，涉及矿山、脑机接口、新型储能等",
+     "link": "http://www.eeo.com.cn/2026/1020/1070506.shtml",
+     "pubDate": "Tue, 20 Oct 2026 13:13:13 +0800",
+     "summary": "21世纪经济报道记者 周潇枭 北京报道 近日，国家发展改革委会同科技部、工业和信息化部、人力资源社会保障部、应急管理部、国务院国资委等部门推出首批136项标志性重大应用场景项目清单。 10月20日，国家发展改革委政策研究室副主任、委新闻发言人李超在国家发展改革委10月月度发布会上表示，2025年11月，国务院办公厅印发《关于加快场景培育和开放 推动新场景大规模应用的实施意见》，各方面开展积极探索，形成了一批价...",
+     "source": "经济观察网",
+     "zh": "首批重大应用场景项目清单来了，涉及矿山、脑机接口、新型储能等"
+    },
+    {
      "title": "BlackRock’s Fink sees AI shortages, not a bubble, as the bigger threat",
      "link": "https://seekingalpha.com/news/4654454-blackrocks-fink-sees-ai-shortages-not-a-bubble-as-the-bigger-threat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 20 Oct 2026 01:01:57 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "BlackRock’s Fink sees AI shortages, not a bubble, as the bigger threat"
-    },
-    {
-     "title": "惠泉啤酒10月20日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901162958.html",
-     "pubDate": "Tue, 20 Oct 2026 13:01:43 +0800",
-     "summary": "以下是 惠泉啤酒 在北京时间10月20日13:01分盘口异动快照： 10月20日， 惠泉啤酒 盘中跌幅达5%，截至13点01分，报12.44元，成交1.45亿元，换手率4.58%。 分笔 13:01:39 12.44 242↓ 13:01:36 12.47 25↓ 13:01:33 12.46 103↑ 13:01:30 12.46 72↓ 13:01:27 12.46 59↓ 13:01:24 12.48 48↑ 13:01:21 12.46 120↓ 13:01:18 12.48 376↓ 13:01:15 12.49 199↓ 13:01:12 12.50 309↓ 报价 卖五 12.5",
-     "source": "东方财富股票",
-     "zh": "惠泉啤酒10月20日盘中跌幅达5%"
-    },
-    {
-     "title": "安邦护卫10月20日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901162820.html",
-     "pubDate": "Tue, 20 Oct 2026 13:01:29 +0800",
-     "summary": "以下是 安邦护卫 在北京时间10月20日13:01分盘口异动快照： 10月20日， 安邦护卫 盘中快速回调，5分钟内跌幅超过2%，截至13点01分，报43.86元，成交7690.45万元，换手率2.79%。 分笔 13:01:20 43.86 3↓ 13:01:17 43.88 7↓ 13:01:14 43.94 1↑ 13:01:05 43.93 17↓ 13:01:02 43.96 7↓ 13:00:56 44.00 12↑ 13:00:53 44.00 23↓ 13:00:50 44.02 4↓ 13:00:47 44.04 2↓ 13:00:44 44.06 47↑ 报价 卖五 43.",
-     "source": "东方财富股票",
-     "zh": "安邦护卫10月20日快速回调"
-    },
-    {
-     "title": "零点有数10月20日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901162658.html",
-     "pubDate": "Tue, 20 Oct 2026 13:01:20 +0800",
-     "summary": "以下是 零点有数 在北京时间10月20日13:01分盘口异动快照： 10月20日， 零点有数 盘中快速回调，5分钟内跌幅超过2%，截至13点01分，报46.79元，成交6249.18万元，换手率1.86%。 分笔 13:01:09 46.79 1↓ 13:01:06 46.80 25↓ 13:01:03 46.80 5↑ 13:01:00 46.78 4↑ 13:00:57 46.78 3↑ 13:00:54 46.79 6↑ 13:00:51 46.78 1↑ 13:00:48 46.76 6↓ 13:00:42 46.78 17↑ 13:00:39 46.77 1↓ 报价 卖五 47.36",
-     "source": "东方财富股票",
-     "zh": "零点有数10月20日快速回调"
-    },
-    {
-     "title": "税友股份10月20日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901162525.html",
-     "pubDate": "Tue, 20 Oct 2026 13:01:20 +0800",
-     "summary": "以下是 税友股份 在北京时间10月20日13:01分盘口异动快照： 10月20日， 税友股份 盘中快速回调，5分钟内跌幅超过2%，截至13点01分，报42.58元，成交3.71亿元，换手率2.21%。 分笔 13:01:16 42.58 11↑ 13:01:13 42.63 3↑ 13:01:10 42.60 13↓ 13:01:07 42.64 9↓ 13:01:04 42.64 2↓ 13:01:01 42.65 1↑ 13:00:58 42.64 1↓ 13:00:55 42.65 6↓ 13:00:52 42.69 21↓ 13:00:49 42.69 14↓ 报价 卖五 42.65 ",
-     "source": "东方财富股票",
-     "zh": "税友股份10月20日快速回调"
-    },
-    {
-     "title": "展鹏科技10月20日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901162471.html",
-     "pubDate": "Tue, 20 Oct 2026 13:01:12 +0800",
-     "summary": "以下是 展鹏科技 在北京时间10月20日13:01分盘口异动快照： 10月20日， 展鹏科技 盘中涨幅达5%，截至13点01分，报7.43元，成交3572.11万元，换手率1.70%。 分笔 13:01:02 7.43 376↑ 13:00:59 7.39 322↓ 13:00:56 7.42 680↑ 13:00:53 7.41 219↑ 13:00:50 7.37 1406↑ 13:00:47 7.37 712↑ 13:00:44 7.31 568↑ 13:00:41 7.25 144↑ 13:00:38 7.25 26↑ 13:00:35 7.25 218↓ 报价 卖五 7.49 151",
-     "source": "东方财富股票",
-     "zh": "展鹏科技10月20日盘中涨幅达5%"
-    },
-    {
-     "title": "江苏雷利10月20日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901162357.html",
-     "pubDate": "Tue, 20 Oct 2026 13:01:04 +0800",
-     "summary": "以下是 江苏雷利 在北京时间10月20日13:01分盘口异动快照： 10月20日， 江苏雷利 盘中快速上涨，5分钟内涨幅超过2%，截至13点01分，报23.74元，成交1.94亿元，换手率1.44%。 分笔 13:01:00 23.74 108↑ 13:00:57 23.70 34↓ 13:00:54 23.71 301↑ 13:00:51 23.66 419↑ 13:00:48 23.64 330↑ 13:00:45 23.60 150↓ 13:00:42 23.60 70↑ 13:00:39 23.59 30↓ 13:00:36 23.60 63↑ 13:00:33 23.60 36↑ 报",
-     "source": "东方财富股票",
-     "zh": "江苏雷利10月20日快速上涨"
     },
     {
      "title": "佩服！广州一56岁女子退休后考研上岸中大",
@@ -2354,28 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "星巴克将实施“消费才能入座”？星巴克：消息不属实"
     },
     {
-     "title": "广东上线制造业赋能官方对接平台“粤智赋”",
-     "link": "http://www.eeo.com.cn/2026/1020/1070469.shtml",
-     "pubDate": "Tue, 20 Oct 2026 12:52:05 +0800",
-     "summary": "上证报中国证券网讯（记者 周亮）10月20日，“粤智赋万企行”专项行动新闻发布会举行。广东省人民政府副秘书长孙哲表示，自去年12月开始，广东以AI应用为核心引擎，围绕微笑曲线“研发创新、制造生产、品牌建设、市场销售”各环节，探索形成“一张需求单、一个资源库、一个线上平台、一系列对接活动、一套支持政策”的“五个一”工作路径，系统打造广东省制造业赋能体系。孙哲介绍，目前，制造业赋能工作取得积极进展，已建立常态...",
-     "source": "经济观察网",
-     "zh": "广东上线制造业赋能官方对接平台“粤智赋”"
-    },
-    {
      "title": "&apos;Cannot play hide and seek&apos;: Minister&apos;s warning over haze sends Singapore agricultural stocks lower",
      "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
      "pubDate": "Tue, 20 Oct 2026 04:48:52 GMT",
      "summary": "Singapore Senior Minister Shanmugam said the Singapore Exchange had questioned seven firms about their operations and possible links to the haze.",
      "source": "CNBC",
      "zh": "&apos;Cannot play hide and seek&apos;: Minister&apos;s warning over haze sends Singapore agricultural stocks lower"
-    },
-    {
-     "title": "CoreWeave引爆AI融资恐慌！华尔街集体“救火”：不足以动摇整体AI交易",
-     "link": "http://finance.eastmoney.com/news/1354,202610203901144862.html",
-     "pubDate": "Tue, 20 Oct 2026 12:48:21 +0800",
-     "summary": "上周，随着投资者对AI融资风险的担忧加剧，全球科技股惨遭抛售。新云服务商CoreWeave债券收益率升至15%，触及通常被认定为“陷入财务困境”的水平，被视为本轮科技股抛售的导火索之一。 然而， 包括 摩根大通 和 巴克莱 在内的多家国际大行认为，投资者对CoreWeave以及科技行业融资风险的担忧被夸大了，个案不等于全行业危机，不足以动摇更广泛的AI交易行情。 摩根大通 分析师认为，尽管存在债务担忧，CoreWeave的业务依然稳健。该行分析师表示， 投资者对CoreWeave债务不断攀升以及现金快速消耗的担忧可能有些过度了，因为推动其融资需求的是快速扩张，而非项目经济效益不佳 。 上周，随",
-     "source": "东方财富资讯",
-     "zh": "CoreWeave引爆AI融资恐慌！华尔街集体“救火”：不足以动摇整体AI交易"
     },
     {
      "title": "Activist investor Starboard builds stake in Solstice, urges focus on core business, FT reports",
@@ -2394,46 +2402,6 @@ window.INDUSTRY_DATA = {
      "zh": "韩国最大IPO首日暴跌32%：盈利的\"新云\"公司也难逃AI数据中心寒冬"
     },
     {
-     "title": "正在研究制定扩大内需战略实施方案！国家发改委这场发布会信息量很大",
-     "link": "http://www.eeo.com.cn/2026/1020/1070428.shtml",
-     "pubDate": "Tue, 20 Oct 2026 12:26:13 +0800",
-     "summary": "10月20日，国家发展改革委召开10月份新闻发布会。 要点如下： 更大力度、更实举措有效扩大内需 国家发展改革委国民经济综合司副司长左刚表示，下一步，国家发展改革委将会同有关部门，以更大力度、更实举措有效扩大内需。 一是坚持惠民生和促消费相结合，大力提振消费。统筹促就业、增收入、稳预期，合理提高公共服务支出占财政支出比重，加大直达消费者的普惠政策力度。推动商品消费扩容升级，促...",
-     "source": "经济观察网",
-     "zh": "正在研究制定扩大内需战略实施方案！国家发改委这场发布会信息量很大"
-    },
-    {
-     "title": "国家发改委：多措并举加大力度扩大内需",
-     "link": "http://www.eeo.com.cn/2026/1020/1070427.shtml",
-     "pubDate": "Tue, 20 Oct 2026 12:26:13 +0800",
-     "summary": "10月20日，国家发展改革委召开10月份新闻发布会。国家发展改革委国民经济综合司副司长左刚表示，下一步，国家发展改革委将会同有关部门，以更大力度、更实举措有效扩大内需。 坚持惠民生和促消费相结合，大力提振消费。统筹促就业、增收入、稳预期，合理提高公共服务支出占财政支出比重，加大直达消费者的普惠政策力度。推动商品消费扩容升级，促进新能源汽车、智能产品等商品消费。适应不同群体需求扩大优质服务供给，完...",
-     "source": "经济观察网",
-     "zh": "国家发改委：多措并举加大力度扩大内需"
-    },
-    {
-     "title": "内外利好共振！机器人再度拉升 主力已吸筹这些票(附股)",
-     "link": "http://finance.eastmoney.com/news/11139,202610203901147980.html",
-     "pubDate": "Tue, 20 Oct 2026 12:24:58 +0800",
-     "summary": "周二(10月20日) 机器人 概念再度爆发，宇树科技、 绿的谐波 涨超7%， 鼎智科技 、 景业智能 、 巨能股份 等涨超5%。 消息面上，内外利好共振。海外端， 特斯拉 Optimus的量产就绪消息催化。 据华源证券，10月19日（美东周一）， 特斯拉 提交的年度股东大会材料中首次书面宣称\"已为V3 Optimus大规模量产做好准备\"，但未披露产量、价格或交付日期。文件中包括一张Optimus图片，相较于此前V2.5，肩部、手腕、灵巧手明显不同。 此外OpenAI 持续加码人形 机器人 赛道，其首席执行官近期对外披露项目进展，明确将 机器人 智能系统作为核心攻关方向；同日 英伟达 GTC 大",
-     "source": "东方财富资讯",
-     "zh": "内外利好共振！机器人再度拉升 主力已吸筹这些票(附股)"
-    },
-    {
-     "title": "吴清主席释放多重稳市信号 公私募一线解读：中国资产将迎来价值重估",
-     "link": "http://finance.eastmoney.com/news/1344,202610203901147814.html",
-     "pubDate": "Tue, 20 Oct 2026 12:24:17 +0800",
-     "summary": "10月19日，2026 金融街 论坛年会在北京开幕，证监会主席吴清出席并发表主旨演讲，引发市场广泛关注。 基金业人士也高度聚焦本次演讲，公私募机构普遍认为，吴清主席演讲释放稳预期、强改革、扩开放多项信号，有助于稳定市场预期，提振市场信心。 面对近期市场调整，吴清主席提出将全力维护资本市场安全稳定，加强风险研判和政策工具储备。多家公私募机构强调，近期市场调整属于短期扰动，不改资本市场中长期趋势。随着产业持续升级、上市公司盈利改善、分红回购力度提升、长期资金机制完善，资本市场向好具备强支撑。 稳预期、强改革、扩开放多重信号引发市场关注 10月19日，2026 金融街 论坛年会在北京开幕，中国证监会",
-     "source": "东方财富资讯",
-     "zh": "吴清主席释放多重稳市信号 公私募一线解读：中国资产将迎来价值重估"
-    },
-    {
-     "title": "潘功胜金融街论坛发声释放重磅信号 短端利率调控改革有何深意？权威解读来了！",
-     "link": "http://finance.eastmoney.com/news/1344,202610203901146861.html",
-     "pubDate": "Tue, 20 Oct 2026 12:21:34 +0800",
-     "summary": "2026 金融街 论坛年会正在召开，昨日开幕式金融监管重磅发声引发市场关注。开幕式上，中国人民 银行 行长潘功胜宣布，将研究择机把央行公开市场主要操作品种的期限切换为隔夜，公开市场隔夜回购利率将相应成为主要政策利率。 对此，权威专家对财联社记者表示，“央行研究切换公开市场操作主力品种，属于货币政策框架改革的一项举措，不同于通常讲的货币政策降息加息。”权威专家认为，央行的重点还是在不断完善利率调控的操作机制。 切换公开市场操作主力品种，不等同货币政策降息加息 “近年来，央行持续健全货币政策调控框架，完善公开市场操作安排，优化短端市场利率调控机制，推动货币政策向价格型调控转型。”上述专家认为，随着",
-     "source": "东方财富资讯",
-     "zh": "潘功胜金融街论坛发声释放重磅信号 短端利率调控改革有何深意？权威解读来了！"
-    },
-    {
      "title": "OpenAI races to lock in $30B at $1.4Tvaluation ahead of Anthropic IPO",
      "link": "https://seekingalpha.com/news/4654452-openai-races-to-lock-in-30b-at-14tvaluation-ahead-of-anthropic-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 20 Oct 2026 00:15:20 -0400",
@@ -2442,28 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI races to lock in $30B at $1.4Tvaluation ahead of Anthropic IPO"
     },
     {
-     "title": "利好来了！两大板块异动！人形机器人概念股再度暴涨",
-     "link": "http://finance.eastmoney.com/news/1344,202610203901145179.html",
-     "pubDate": "Tue, 20 Oct 2026 12:10:39 +0800",
-     "summary": "两大板块异动！ 10月20日，临近午盘时分， 食品饮料 板块异动拉升， 安记食品 直线涨停， 仲景食品 、 欢乐家 、 骑士乳业 、 一鸣食品 等纷纷跟涨。 消息面上，国家发改委国民经济 综合 司副司长左刚今日在新闻发布会上表示，下一步，国家发改委将会同有关部门以更大力度更实举措有效扩大内需。其中提到，坚持惠民生和促消费相结合，大力提振消费，统筹促就业、稳增长、稳预期，合理提高公共服务支出占财政支出比重，推动商品消费扩容升级，扩大养老消费，促进文化演艺、旅游服务、体育赛事等产业发展，清理取消消费不合理限制性措施。 当天盘中，人形 机器人 概念股也集体异动， 长盈精密 、 宁波东力 、 浙江荣泰",
-     "source": "东方财富资讯",
-     "zh": "利好来了！两大板块异动！人形机器人概念股再度暴涨"
-    },
-    {
      "title": "北证50半日大涨超4%，人形机器人爆发，芯片半导体反弹，宁德时代AH股同步下滑，恒科指跌超1%",
      "link": "https://wallstreetcn.com/articles/3783987",
      "pubDate": "Tue, 20 Oct 2026 12:07:18 +0800",
      "summary": "10月20日，A股三大股指集体低开，早盘三大股指低开高走，临近午盘前再度回落，沪指率先转跌。北证50涨超4%，此前，证监会主席吴清宣布，推出北证50ETF、北交所新股市值配售、创新性评价标准等举措。人形机器人爆发，宇树科技盘中大涨12%，AI硬件股局部反弹，电路板、覆铜板等拉升，芯片半导体活跃，白酒、煤炭、海运等板块调整。 港股低开低走，恒指、恒科指早盘双双跌超1%，权重科网股多数下跌，阿里、腾讯、美团等跌幅居前，新能源汽车下跌，蔚来跌3%，宁德时代H股跌至阶段新低，日内大跌超6%。芯片半导体低开之后回升。债市方面，国债期货集体上涨，商品方面，国内商品期货多数下跌。核心市场走势： A股 ：截至",
      "source": "华尔街见闻",
      "zh": "北证50半日大涨超4%，人形机器人爆发，芯片半导体反弹，宁德时代AH股同步下滑，恒科指跌超1%"
-    },
-    {
-     "title": "批量大涨！PCB概念走高 多家公司公告回购",
-     "link": "http://finance.eastmoney.com/news/11139,202610203901143631.html",
-     "pubDate": "Tue, 20 Oct 2026 12:03:34 +0800",
-     "summary": "10月20日，经历了持续调整后的 PCB 板块开启了反弹。截至早间收盘， 板块上涨2.38% ，涨幅居概念板块前列，成分股批量大涨： 则成电子 涨超10%， 博敏电子 、 东方材料 、 协和电子 、 信通电子 、 骏亚科技 涨停， 东华测试 、 矩子科技 、 天准科技 涨超8%， 英诺激光 、 聚杰微纤 涨超7%，另有十余股涨超5%。 PCB 业绩确定性高 消息面上，近期多家 PCB 公司披露三季报或三季度业绩预告，多数公司 业绩增长超1倍 ，显示出PCB产业的高景气度。市场普遍认为，在AI需求推动、上游产能短缺、国内产业优势等因素影响下，PCB有望成为A股业绩“最具确定性”板块之一。 据上证",
-     "source": "东方财富资讯",
-     "zh": "批量大涨！PCB概念走高 多家公司公告回购"
     },
     {
      "title": "AI debt worries spark surge in default insurance trading",
@@ -2512,6 +2464,54 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Tuesday’s Economic Calendar"
+    },
+    {
+     "title": "不到72小时，DeepSeek和MiniMax双双交卷，Flash集体挑战旗舰",
+     "link": "https://wallstreetcn.com/articles/3783990",
+     "pubDate": "Tue, 20 Oct 2026 11:00:12 +0800",
+     "summary": "Flash模型，正在从旗舰模型的平替，变成一场新的能力竞赛。 曾几何时，大模型最重要的竞争是争夺能力上限，但进入下半年，一些风向变了，行业更关注谁能以更低的成本，把模型能力变成开发者和企业真正用得起的生产力。 10月17日，DeepSeek突然更新V4.1 Flash-1017。几乎前后脚，MiniMax也将M3.1 Flash推向台前。后者此前曾以匿名模型Space Bunny的身份出现在开发者社区，如今终于揭开面纱。 两款模型的接连出现，让国产大模型的Flash赛道有了新的看点。 在最新评测数据中，M3.1 Flash在DeepSWE测试中获得74分，仅次于DeepSeek V4.1 Fl",
+     "source": "华尔街见闻",
+     "zh": "不到72小时，DeepSeek和MiniMax双双交卷，Flash集体挑战旗舰"
+    },
+    {
+     "title": "BlackRock, GIC among investors chasing Indian telecom major Jio&apos;s IPO as anchor bids top $26 billion",
+     "link": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+     "pubDate": "Tue, 20 Oct 2026 02:44:35 GMT",
+     "summary": "Jio Platforms plans to raise up to $3.2 billion through an IPO, which is India's largest ever in rupee terms, but the second largest in dollar terms.",
+     "source": "CNBC",
+     "zh": "BlackRock, GIC among investors chasing Indian telecom major Jio&apos;s IPO as anchor bids top $26 billion"
+    },
+    {
+     "title": "SpaceX Q3 earnings: Revenue seen surging to $13B as AI business takes centre stage",
+     "link": "https://seekingalpha.com/news/4654451-spacex-q3-earnings-revenue-seen-surging-to-13b-as-ai-business-takes-centre-stage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 19 Oct 2026 22:39:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SpaceX Q3 earnings: Revenue seen surging to $13B as AI business takes centre stage"
+    },
+    {
+     "title": "报道：OpenAI 计划在Anthropic上市前加快融资步伐",
+     "link": "https://wallstreetcn.com/articles/3783974",
+     "pubDate": "Tue, 20 Oct 2026 10:36:01 +0800",
+     "summary": "OpenAI正加速推进新一轮私募融资，力争在竞争对手Anthropic预计于11月中旬上市之前锁定投资者承诺。此轮融资规模约300亿美元，完成后OpenAI估值或将突破1.4万亿美元。 周二，据路透社援引知情人士消息，此次融资时间表异常紧凑，部分原因在于两家前沿AI实验室正日益争夺同一批投资者资源，OpenAI希望抢在Anthropic公开募股之前率先完成融资。知情人士表示，软银集团、阿布扎比主权投资机构MGX及其他现有股东正就参与本轮融资进行磋商。 此轮融资竞速折射出两大AI巨头在资本市场的激烈角力。在利率上升忧虑加剧、科技股大幅震荡以及市场对AI估值审视趋严的背景下，两家公司均在追逐万亿美",
+     "source": "华尔街见闻",
+     "zh": "报道：OpenAI 计划在Anthropic上市前加快融资步伐"
+    },
+    {
+     "title": "Altman提出AI发展的三条“终局之路”：从国际监管到“一家独霸”",
+     "link": "https://wallstreetcn.com/articles/3783986",
+     "pubDate": "Tue, 20 Oct 2026 10:30:44 +0800",
+     "summary": "当AI竞赛加速推进，OpenAI掌门人罕见地向员工摊牌了三种可能改变整个行业格局的未来。 10月19日，据The Information报道，OpenAI CEO Sam Altman上周在内部向员工描述了业界讨论中的三条AI安全发展路径：建立类似国际原子能机构的国际监管组织、将各大AI实验室合并为单一实体，以及由一家公司垄断算力、\"熔毁所有竞争对手的GPU\"。此番表态恰逢特朗普政府着手建立首套针对\"超级智能\"开发商的监管机制之际。 Altman表示，OpenAI在未来一年内需要决定究竟推动哪条路径。他同时强调，希望人类始终掌控这项技术，避免行业权力过度集中。 三条路径，各有所指 据两位知情人",
+     "source": "华尔街见闻",
+     "zh": "Altman提出AI发展的三条“终局之路”：从国际监管到“一家独霸”"
+    },
+    {
+     "title": "油价不跌，美债收益率就不会见顶",
+     "link": "https://wallstreetcn.com/articles/3783985",
+     "pubDate": "Tue, 20 Oct 2026 10:30:04 +0800",
+     "summary": "美债收益率何时触顶，是当前市场最难回答的问题之一。花旗最新量化跨资产研究显示，油价回落几乎是美债收益率见顶的必要前提条件，而当前持续的地缘政治紧张局势令油价居高难下，这意味着收益率的终极峰值或许尚未到来。 据追风交易台，花旗报告研究显示， 前端盈亏平衡通胀率与油价的回落，是历史上预判美债10年期收益率见顶最可靠的领先信号。然而，当前盈亏平衡通胀率仍在走强而非回落，美元指数（DXY）近期也重启升势，两者均指向收益率峰值尚未形成。 与此同时，高收益债利差走阔、周期股相对防御股走弱等市场信号，则已呈现出与收益率见顶一致的特征，令当前信号相互矛盾，方向研判难度极大。 在资产配置层面，花旗的周期模型当前",
+     "source": "华尔街见闻",
+     "zh": "油价不跌，美债收益率就不会见顶"
     }
    ]
   },

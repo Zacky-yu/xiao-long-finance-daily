@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/20 13:32:40",
+ "generated_at": "2026/10/20 13:44:51",
  "recent_days": 7,
  "industries": [
   {
@@ -23,14 +23,6 @@
      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
      "source": "TechCrunch AI",
      "zh": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back"
-    },
-    {
-     "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-     "link": "https://www.qbitai.com/2026/10/504314.html",
-     "pubDate": "Tue, 20 Oct 2026 01:09:43 +0000",
-     "summary": "OpenAI只掏出一个6.1 Terra…",
-     "source": "量子位",
-     "zh": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本"
     },
     {
      "title": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
@@ -113,22 +105,6 @@
      "zh": "正面硬刚DeepSeek！MiniMax M3.1 Flash发布，输出卷到200+TPS，价格砍到1/2"
     },
     {
-     "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-     "link": "https://www.qbitai.com/2026/10/504277.html",
-     "pubDate": "Mon, 19 Oct 2026 14:33:26 +0000",
-     "summary": "同步搭建千比特规模量子算力云平台",
-     "source": "量子位",
-     "zh": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务"
-    },
-    {
-     "title": "通研院孵化的团队，也盯上了RSI",
-     "link": "https://www.qbitai.com/2026/10/504294.html",
-     "pubDate": "Mon, 19 Oct 2026 14:31:12 +0000",
-     "summary": "当AI越来越懂你，如何让智能真正属于你？",
-     "source": "量子位",
-     "zh": "通研院孵化的团队，也盯上了RSI"
-    },
-    {
      "title": "GPT-Image-3要来了？三个神秘代号曝光，网友实测生成猫咪惟妙惟肖",
      "link": "https://zhidx.com/p/602295.html",
      "pubDate": "Mon, 19 Oct 2026 22:23:05 +0800",
@@ -201,30 +177,6 @@
      "zh": "夯爆！DeepSeek又拿下全球第一"
     },
     {
-     "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-     "link": "https://www.qbitai.com/2026/10/504266.html",
-     "pubDate": "Mon, 19 Oct 2026 10:27:39 +0000",
-     "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
-     "source": "量子位",
-     "zh": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行"
-    },
-    {
-     "title": "全栈自研！国产高端互连芯片，稳了!",
-     "link": "https://www.qbitai.com/2026/10/504225.html",
-     "pubDate": "Mon, 19 Oct 2026 10:15:19 +0000",
-     "summary": "六年蛰伏出货80万颗",
-     "source": "量子位",
-     "zh": "全栈自研！国产高端互连芯片，稳了!"
-    },
-    {
-     "title": "AI 开始挑战最复杂的系统：生命",
-     "link": "https://www.qbitai.com/2026/10/504242.html",
-     "pubDate": "Mon, 19 Oct 2026 10:04:18 +0000",
-     "summary": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
-     "source": "量子位",
-     "zh": "AI 开始挑战最复杂的系统：生命"
-    },
-    {
      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
      "pubDate": "Mon, 19 Oct 2026 09:08:05 +0000",
@@ -247,6 +199,54 @@
      "summary": "AI卧底诈骗圈。",
      "source": "机器之心",
      "zh": "AI朝阳群众出动！陪骗子唠嗑，还套出25万条情报"
+    },
+    {
+     "title": "北大、VGI Labs和加州大学联合提出DynStream：首个大规模无位姿流式动态场景的高斯前馈重建框架",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651068408&idx=3&sn=7a8e71ff883912554fd6ae83b786e218",
+     "pubDate": "Mon, 19 Oct 2026 12:02:00 +0800",
+     "summary": "从「无位姿长视频」到「可持续更新的动态三维场景」！",
+     "source": "机器之心",
+     "zh": "北大、VGI Labs和加州大学联合提出DynStream：首个大规模无位姿流式动态场景的高斯前馈重建框架"
+    },
+    {
+     "title": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration",
+     "link": "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/",
+     "pubDate": "Mon, 19 Oct 2026 03:19:18 +0000",
+     "summary": "NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment. The post NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration app",
+     "source": "MarkTechPost",
+     "zh": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration"
+    },
+    {
+     "title": "清华期末考用了真机器人！豪掷2亿元，开进20多所高校",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652735857&idx=1&sn=196d008bb0b5ade72d612b8dd85b7292",
+     "pubDate": "Mon, 19 Oct 2026 10:36:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "清华期末考用了真机器人！豪掷2亿元，开进20多所高校"
+    },
+    {
+     "title": "Claude Code「自产自审」：九成代码不再经过人类",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652735857&idx=2&sn=080a2d5531a5d51a3afe813509c04e82",
+     "pubDate": "Mon, 19 Oct 2026 10:36:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "Claude Code「自产自审」：九成代码不再经过人类"
+    },
+    {
+     "title": "当Coding Agent开始动态并行，软件开发变得更好了吗？",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652735857&idx=3&sn=a925b721541c36e911ad286af24c2919",
+     "pubDate": "Mon, 19 Oct 2026 10:36:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "当Coding Agent开始动态并行，软件开发变得更好了吗？"
+    },
+    {
+     "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
+     "link": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/",
+     "pubDate": "Mon, 19 Oct 2026 01:18:17 +0000",
+     "summary": "Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU. The post Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3 appeare",
+     "source": "MarkTechPost",
+     "zh": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3"
     }
    ]
   },
@@ -1777,6 +1777,38 @@
    "total": 18,
    "items": [
     {
+     "title": "小米充电宝 Pro 25000 250W 发售：2C+1A，25000mAh 电芯售 999 元",
+     "link": "https://www.ithome.com/1/015/263.htm",
+     "pubDate": "Tue, 20 Oct 2026 05:39:41 GMT",
+     "summary": "IT之家 10 月 20 日消息，小米现已在有品上架“小米充电宝 Pro 25000 250W”（ 点此访问 ），该产品采用 2C + 1A 设计，内置 25000mAh 电芯，定价为 999 元。 该产品尺寸为 163.8x58.3x46.2mm，配备一块隐藏式彩屏，可直观展示剩余电量、充放电功率、温度及电池健康度。其配备一根 70cm USB-C 140W 接口、1 个 USB-C 140W 接口、1 个 USB-A 120W 接口，多口输出峰值功率达 250W。 IT之家附产品参数：",
+     "source": "IT之家",
+     "zh": "小米充电宝 Pro 25000 250W 发售：2C+1A，25000mAh 电芯售 999 元"
+    },
+    {
+     "title": "离开字节、华为和英伟达，这批最年轻的人正在造世界",
+     "link": "https://www.huxiu.com/article/4898660.html?f=rss",
+     "pubDate": "Tue, 20 Oct 2026 13:37:16 +0800",
+     "summary": "文 | 陈伊凡 图 | AI生成 在中国，一家30岁以下的创业者所创办的AI公司，最典型的样子大概是这样：2000年前后出生，读到博士，或者博士还没读完；2025年以后注册公司，拿到一两千万元的第一笔机构融资。 这是虎嗅根据&ldquo; 2026年最有潜力的30岁以下AI领军者 &rdquo;的申报材料，筛选出了32名候选人，拼凑出的平均画像。 名单里年纪最大的30岁，最小的22岁；有人还在读博，有人已在高校任教，也有人本科没读完就出来创业。他们的公司大多刚成立一两年，产品从推理芯片、世界模型一直排到 AI 制药和陪伴社交，几乎覆盖了这一轮 AI 浪潮的每一层。 过去，中国科技创业的主角通常",
+     "source": "虎嗅",
+     "zh": "离开字节、华为和英伟达，这批最年轻的人正在造世界"
+    },
+    {
+     "title": "消息称某厂阔直板手机目前工程机搭载天玑 9600M、影像双 2 亿 HPE + HP5，预计为 OPPO",
+     "link": "https://www.ithome.com/1/015/261.htm",
+     "pubDate": "Tue, 20 Oct 2026 05:35:41 GMT",
+     "summary": "IT之家 10 月 20 日消息，博主 @数码闲聊站 今日爆料，某厂阔直板手机目前工程机芯片为 D9600M （天玑 9600M），影像为双 2 亿 HPE &nbsp;+ HP5，电池最高测试了 8000mAh±。 综合博主爆料习惯及评论区讨论，预计为 OPPO 新机。 IT之家注意到，博主此前还曾爆料，这款新机工程机采用 6.35 英寸左右 8T LTPO 直屏，分辨率 2560 × 1440，比例是 16:9，PPI 和传统比例 1.5K 差不多，配备 3D 超声波指纹。 作为参考，目前已经发布的华为 Pura X View 阔直板手机搭载了一块 6.39 英寸 2232 × 1320 ",
+     "source": "IT之家",
+     "zh": "消息称某厂阔直板手机目前工程机搭载天玑 9600M、影像双 2 亿 HPE + HP5，预计为 OPPO"
+    },
+    {
+     "title": "2027 款领克 03 车型官宣，口号“宽不可挡”",
+     "link": "https://www.ithome.com/1/015/260.htm",
+     "pubDate": "Tue, 20 Oct 2026 05:35:08 GMT",
+     "summary": "IT之家 10 月 20 日消息，领克汽车今日预告了 2027 款领克 03 车型，宣传语为“ 宽不可挡 ”，还带上了“中国性能车进入宽体时代”话题。 IT之家注意到，工信部今年 8 月发布第 410 批《道路机动车辆生产企业及产品公告》新产品公示， 领克 03 新车完成申报 。 本次申报的领克 03 为燃油轿车，由浙江吉利汽车有限公司生产，基于承载式车身打造，车身外形尺寸长 4700 mm、 宽 1843 / 1901 mm 、高 1460 / 1456 mm，轴距为 2730 mm，整备质量 1470 kg / 1512 kg，总质量 1930 kg，额定载客 5 人，最高车速可达 205",
+     "source": "IT之家",
+     "zh": "2027 款领克 03 车型官宣，口号“宽不可挡”"
+    },
+    {
      "title": "iQOO Neo12 手机官宣搭载全新冰穹主动散热风扇、Neo 史上最大面积 VC",
      "link": "https://www.ithome.com/1/015/259.htm",
      "pubDate": "Tue, 20 Oct 2026 05:20:49 GMT",
@@ -1849,20 +1881,12 @@
      "zh": "诺奖得主安德烈 · 海姆：单层石墨烯性能卓越，相关研究 15 年内一定能走入百姓生活"
     },
     {
-     "title": "月球正在缩小：过去 4 亿至 8 亿年间半径缩短约 45 米",
-     "link": "https://www.ithome.com/1/015/255.htm",
-     "pubDate": "Tue, 20 Oct 2026 04:56:05 GMT",
-     "summary": "IT之家 10 月 20 日消息，月球正在收缩，科学家正逐步精确测算这颗天然卫星多年来究竟缩小了多少。 学界认为，月球约 45 亿年前由一个巨大天体与原始地球猛烈碰撞形成。自那次远古撞击之后，月球内部至今仍在持续缓慢冷却。随着冷却，月球会发生收缩，开启了漫长而缓慢的体积缩减过程。一项新研究中，科学家估算出了月球实际收缩的幅度。 在这项新研究里，科学家分析了月球勘测轨道飞行器相机（LROC）拍摄的影像，在月表识别出超过 1 万处年轻断层（也就是裂隙）。借助这些发现，他们推算出了月球长期以来的收缩量： 在过去 4 亿至 8 亿年间，月球的半径缩短了约 148 英尺（45 米）。 月球表面的叶状陡坡",
-     "source": "IT之家",
-     "zh": "月球正在缩小：过去 4 亿至 8 亿年间半径缩短约 45 米"
-    },
-    {
-     "title": "王坚院士警示：科技已到分水岭，以后都应以降低自然资源消耗为目的",
-     "link": "https://www.ithome.com/1/015/254.htm",
-     "pubDate": "Tue, 20 Oct 2026 04:53:48 GMT",
-     "summary": "“2026 可持续全球领导者大会”于 10 月 20 日-22 日在上海召开。中国工程院院士，世界绿色设计组织副主席王坚出席并演讲。 王坚指出，自 1950 年起，随着全球进入大规模电气化时代，碳排放量曲线便以惊人的曲率爬升，而这背后的原因则是“科技创新”。因为科技创新使得人类能够以更大规模的力量使用自然资源。 王坚强调，当代的科技创新需要转为追求“可持续发展”，“ 我想科技也到了一个分水岭，以后所有的科技都应以降低自然资源的消耗为目的了 ”。 回到王坚所说的碳排放曲线，如果要在 2030 年实现碳达峰，他直言“非常具有挑战”—— 我们要以一条更加陡的曲线把碳排放降下来 。 王坚坦言，“至少以",
-     "source": "IT之家",
-     "zh": "王坚院士警示：科技已到分水岭，以后都应以降低自然资源消耗为目的"
+     "title": "Americans Are Spending More Money to Drive Worse Cars",
+     "link": "https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/",
+     "pubDate": "Tue, 20 Oct 2026 04:55:36 +0000",
+     "summary": "Article URL: https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/ Comments URL: https://news.ycombinator.com/item?id=50161505 Points: 13 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Americans Are Spending More Money to Drive Worse Cars"
     },
     {
      "title": "人有钱了容易悲观？研究发现乐观悲观与年龄、居住地都有关",
@@ -1879,14 +1903,6 @@
      "summary": "本文来自微信公众号： 自然系列 ，作者：Nature Portfolio，原文标题：《2030年让艾滋病终结 | “自然聚焦-传染病”增刊》 联合国设定的消除艾滋病毒/艾滋病（HIV/AIDS）这一公共卫生威胁的最后期限不太可能实现了。但医学、政策和社会的进步让人们重燃希望，相信成功终会到来。 2016年是载入史册的一年。唐纳德·特朗普（Donald Trump）赢得了美国总统大选；英国公投退出欧盟；寨卡病毒——一种通过蚊子和性传播的病毒，会导致严重的出生缺陷——被宣布为全球公共卫生紧急事件。 这也是联合国承诺消除艾滋病的一年。 1983年，艾滋病被首次定义为由艾滋病毒引起的疾病。据推测，该病",
      "source": "虎嗅",
      "zh": "“自然聚焦-传染病”增刊"
-    },
-    {
-     "title": "多省份发生用户访问请求异常跳转至博彩网站事件，国家互联网应急中心公布调查情况",
-     "link": "https://www.ithome.com/1/015/252.htm",
-     "pubDate": "Tue, 20 Oct 2026 04:52:06 GMT",
-     "summary": "IT之家 10 月 20 日消息，国家互联网应急中心今日发布关于中国境外自治域 AS 402425 恶意篡改部分 DNS 解析数据的调查报告。 近期， 中国多个省份多次发生用户访问请求异常跳转至博彩网站的事件 ，对广大人民的财产安全和正常上网权利造成了严重危害。 官方表示，经分析， 攻击者利用中国境外自治域 AS 402425，主要采取宣告虚假路由、篡改域名解析数据等手段进行攻击 ，危害范围广泛，特此公布有关调查情况，为全球相关国家、单位和广大网民有效发现和防范此类攻击提供借鉴。 IT之家附报告内容如下： 一、网络攻击过程 （一）通过宣告虚假路由劫持流量。攻击者在互联网路由注册库注册虚假源地址",
-     "source": "IT之家",
-     "zh": "多省份发生用户访问请求异常跳转至博彩网站事件，国家互联网应急中心公布调查情况"
     },
     {
      "title": "真正的大资本家，藏在公众视线外",
@@ -1921,12 +1937,12 @@
      "zh": "中国等不来Muse"
     },
     {
-     "title": "一孩一股SpaceX，马斯克105亿美元的全民实验",
-     "link": "https://www.huxiu.com/article/4898890.html?f=rss",
-     "pubDate": "Tue, 20 Oct 2026 12:39:05 +0800",
-     "summary": "本文来自微信公众号： 深潮 TechFlow ，作者：值得关注的，原文标题：《一孩一股 SpaceX，马斯克 105 亿美元的全民实验》 2026年的科技亿万富翁们正在经历一种新型的焦虑：他们创造了人类历史上最强大的技术，这些技术正在让他们以前所未有的速度变富，同时也在以前所未有的速度替代普通人的工作。 公众的不满在积累，民调显示39%的美国人认为AI弊大于利，这个数字比2025年高了8个百分点。在这种氛围下，「把钱给出去」已经从慈善变成了生存策略。 10月19日，马斯克在X上高调宣布：「明年，我会把我持有的SpaceX股份，给美国每一个孩子一股，这只是第一步。」 SpaceX上周五收盘价14",
-     "source": "虎嗅",
-     "zh": "一孩一股SpaceX，马斯克105亿美元的全民实验"
+     "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+     "link": "https://deathplanswitch.com/",
+     "pubDate": "Tue, 20 Oct 2026 04:37:43 +0000",
+     "summary": "Hi HN, I'm Peter Bishop and I've been working in graphics and web tech for over 25yrs. I've recently launched Death Plan Switch to solve a major problem in my succession plan. What if I go missing or die? The right people are told and my business can continue to operate for my clients. There's a bac",
+     "source": "Hacker News",
+     "zh": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs"
     },
     {
      "title": "机器人进厂第一课：不当人",
@@ -1940,7 +1956,7 @@
      "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
      "link": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
      "pubDate": "Tue, 20 Oct 2026 04:02:26 +0000",
-     "summary": "Article URL: https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/ Comments URL: https://news.ycombinator.com/item?id=50161207 Points: 15 # Comments: 9",
+     "summary": "Article URL: https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/ Comments URL: https://news.ycombinator.com/item?id=50161207 Points: 28 # Comments: 25",
      "source": "Hacker News",
      "zh": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor"
     },
@@ -1996,25 +2012,9 @@
      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
      "link": "https://github.com/golang/go/issues/82345",
      "pubDate": "Tue, 20 Oct 2026 03:05:07 +0000",
-     "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 32 # Comments: 15",
+     "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 35 # Comments: 15",
      "source": "Hacker News",
      "zh": "Go will reject certificate chains containing eight distrusted SPKIs"
-    },
-    {
-     "title": "Mercury CEO Immad Akhund says the fintech hit $1B in annualized revenue, up ~50% YoY, has more than 450K customers, and is launching a payroll service (Eric Newcomer/Newcomer)",
-     "link": "https://www.techmeme.com/261019/p52#a261019p52",
-     "pubDate": "Mon, 19 Oct 2026 23:05:01 -0400",
-     "summary": "Eric Newcomer / Newcomer : Mercury CEO Immad Akhund says the fintech hit $1B in annualized revenue, up ~50% YoY, has more than 450K customers, and is launching a payroll service &nbsp; &mdash;&nbsp; I sat down with Mercury CEO Immad Akhund&nbsp; &mdash;&nbsp; We just published my conversation with M",
-     "source": "Techmeme",
-     "zh": "Mercury CEO Immad Akhund says the fintech hit $1B in annualized revenue, up ~50% YoY, has more than 450K customers, and is launching a payroll service (Eric Newcomer/Newcomer)"
-    },
-    {
-     "title": "OpenBSD 8.0",
-     "link": "https://www.openbsd.org/80.html",
-     "pubDate": "Tue, 20 Oct 2026 02:06:40 +0000",
-     "summary": "Article URL: https://www.openbsd.org/80.html Comments URL: https://news.ycombinator.com/item?id=50160494 Points: 111 # Comments: 31",
-     "source": "Hacker News",
-     "zh": "OpenBSD 8.0"
     }
    ]
   },
@@ -2024,6 +2024,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "ChatGPT Slides is finally here to turn your chats and files into presentations",
+     "link": "https://www.androidauthority.com/chatgpt-slides-files-presentations-3725324/",
+     "pubDate": "Tue, 20 Oct 2026 05:40:52 +0000",
+     "summary": "Unfortunately, Plus subscribers don't get access to it.",
+     "source": "Android Authority",
+     "zh": "ChatGPT Slides is finally here to turn your chats and files into presentations"
+    },
     {
      "title": "Apple to unveil new MacBook Pro models on October 28",
      "link": "https://www.gsmarena.com/apple_to_unveil_new_macbook_pro_models_on_october_28-news-75122.php",
@@ -2255,14 +2263,6 @@
      "summary": "Sony's team edition WH-1000XM6s will block out the crowd noise, but you'll have to win them first.",
      "source": "Android Authority",
      "zh": "Sony is offering NFL fans a chance to win custom team edition XM6 headphones"
-    },
-    {
-     "title": "Save $70 on the REDTIGER VP40 dash cam with 4-channel recording",
-     "link": "https://www.androidauthority.com/redtiger-vp40-dash-cam-deal-3725182/",
-     "pubDate": "Mon, 19 Oct 2026 19:20:14 +0000",
-     "summary": "REDTIGER VP40 drops to $229.99 on Amazon with 4-channel 360-degree-style coverage, GPS, Wi-Fi, and a 128GB card.",
-     "source": "Android Authority",
-     "zh": "Save $70 on the REDTIGER VP40 dash cam with 4-channel recording"
     }
    ]
   },
@@ -2273,92 +2273,60 @@
    "total": 13,
    "items": [
     {
+     "title": "山煤国际10月20日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901201065.html",
+     "pubDate": "Tue, 20 Oct 2026 13:37:04 +0800",
+     "summary": "以下是 山煤国际 在北京时间10月20日13:37分盘口异动快照： 10月20日， 山煤国际 盘中跌幅达5%，截至13点37分，报12.82元，成交2.16亿元，换手率0.83%。 分笔 13:37:00 12.82 237↓ 13:36:57 12.83 1831↓ 13:36:54 12.85 21↑ 13:36:51 12.84 1↓ 13:36:48 12.84 19↓ 13:36:45 12.85 5↑ 13:36:42 12.84 4↓ 13:36:36 12.85 3↑ 13:36:33 12.84 16↓ 13:36:27 12.85 7↑ 报价 卖五 12.87 281 卖四",
+     "source": "东方财富股票",
+     "zh": "山煤国际10月20日盘中跌幅达5%"
+    },
+    {
+     "title": "10月20日快递板块跌幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901200881.html",
+     "pubDate": "Tue, 20 Oct 2026 13:36:57 +0800",
+     "summary": "&emsp;&emsp;10月20日13点36分， 快递 板块指数报5171.557点，跌幅达2%，成交8.62亿元，换手率0.43%。 &emsp;&emsp;板块个股中，跌幅最大的前4个股为： 圆通速递 报17.11元，跌3.50%； 申通快递 报14.19元，跌1.80%； 韵达股份 报6.61元，跌1.34%； 顺丰控股 报31.42元，跌1.26%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月20日快递板块跌幅达2%"
+    },
+    {
+     "title": "10月20日电动乘用车板块跌幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901200320.html",
+     "pubDate": "Tue, 20 Oct 2026 13:36:39 +0800",
+     "summary": "&emsp;&emsp;10月20日13点36分，电动 乘用车 板块指数报3873.246点，跌幅达2%，成交21.37亿元，换手率0.70%。 &emsp;&emsp;板块个股中，跌幅最大的前3个股为： 赛力斯 报43.61元，跌2.81%； 比亚迪 报82.11元，跌1.66%； 北汽蓝谷 报4.32元，跌1.59%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月20日电动乘用车板块跌幅达2%"
+    },
+    {
+     "title": "10月20日船舶制造板块跌幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901199646.html",
+     "pubDate": "Tue, 20 Oct 2026 13:35:38 +0800",
+     "summary": "&emsp;&emsp;10月20日13点35分， 船舶制造 板块指数报1152.28点，跌幅达2%，成交62.87亿元，换手率0.76%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 中船防务 报27.70元，跌5.04%； 海兰信 报14.02元，跌4.50%； 中国动力 报30.48元，跌4.18%； 中国船舶 报34.86元，跌3.33%； 松发股份 报192.38元，跌2.96%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月20日船舶制造板块跌幅达2%"
+    },
+    {
+     "title": "中船防务10月20日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901199224.html",
+     "pubDate": "Tue, 20 Oct 2026 13:35:04 +0800",
+     "summary": "以下是 中船防务 在北京时间10月20日13:34分盘口异动快照： 10月20日， 中船防务 盘中跌幅达5%，截至13点34分，报27.71元，成交4.18亿元，换手率1.81%。 分笔 13:34:58 27.71 209↓ 13:34:55 27.72 927↓ 13:34:52 27.74 61↓ 13:34:49 27.74 45↓ 13:34:46 27.75 13↑ 13:34:43 27.75 9↑ 13:34:37 27.75 13↑ 13:34:34 27.75 8↑ 13:34:31 27.74 10↓ 13:34:28 27.75 50↑ 报价 卖五 27.76 1 卖四",
+     "source": "东方财富股票",
+     "zh": "中船防务10月20日盘中跌幅达5%"
+    },
+    {
+     "title": "云端服务需求旺 日本AI服务商GMO Internet将追加投资采购英伟达服务器",
+     "link": "http://finance.eastmoney.com/news/1354,202610203901199864.html",
+     "pubDate": "Tue, 20 Oct 2026 13:34:30 +0800",
+     "summary": "日本AI服务商GMO Internet19日宣布，考虑GPU云端服务「GMO GPU Cloud」的提供情况、市场需求，将追加投资约261亿日元，最多将采购116台搭载 英伟达 B300的服务器。GMO Internet表示，上述计划采购的 英伟达 B300服务器将自2027年8月起陆续取得。 （日经） （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "云端服务需求旺 日本AI服务商GMO Internet将追加投资采购英伟达服务器"
+    },
+    {
      "title": "The world’s finance chiefs see new risks — and less China angst",
      "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
      "pubDate": "Tue, 20 Oct 2026 05:27:53 GMT",
      "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
      "source": "CNBC",
      "zh": "The world’s finance chiefs see new risks — and less China angst"
-    },
-    {
-     "title": "官方推出首批136项标志性重大应用场景项目",
-     "link": "http://www.eeo.com.cn/2026/1020/1070525.shtml",
-     "pubDate": "Tue, 20 Oct 2026 13:26:06 +0800",
-     "summary": "中新经纬10月20日电 国家发改委20日召开10月份新闻发布会。国家发改委政策研究室副主任、委新闻发言人李超在会上通报，国家发展改革委会同有关部门推出首批136项标志性重大应用场景项目，为场景培育和开放提供重要牵引。 李超称，国家发改委将会同有关方面，建立高效联动的工作机制，加强技术、数据、人才、资本等要素支撑保障，支持场景建设牵头单位健全场景需求发布、技术对接、成果展示、要素匹配等具体办法，为各类经...",
-     "source": "经济观察网",
-     "zh": "官方推出首批136项标志性重大应用场景项目"
-    },
-    {
-     "title": "润建股份10月20日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901187941.html",
-     "pubDate": "Tue, 20 Oct 2026 13:25:57 +0800",
-     "summary": "以下是 润建股份 在北京时间10月20日13:25分盘口异动快照： 10月20日， 润建股份 盘中涨幅达5%，截至13点25分，报48.77元，成交9.02亿元，换手率8.90%。 分笔 13:25:48 48.77 318↑ 13:25:45 48.51 1061↑ 13:25:42 48.38 367↑ 13:25:39 48.33 235↑ 13:25:36 48.33 98↑ 13:25:33 48.32 149↑ 13:25:30 48.26 365↑ 13:25:27 48.26 17↑ 13:25:24 48.24 150↑ 13:25:21 48.18 1937↑ 报价 卖五 ",
-     "source": "东方财富股票",
-     "zh": "润建股份10月20日盘中涨幅达5%"
-    },
-    {
-     "title": "10月20日卫浴电器板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901187495.html",
-     "pubDate": "Tue, 20 Oct 2026 13:25:36 +0800",
-     "summary": "&emsp;&emsp;10月20日13点25分， 卫浴电器 板块指数报1424.003点，涨幅达2%，成交4.51亿元，换手率3.21%。 &emsp;&emsp;板块个股中，涨幅最大的前3个股为： 日出东方 报7.59元，涨6.45%； 万和电气 报8.15元，涨1.49%； 奥普科技 报9.08元，跌1.20%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月20日卫浴电器板块涨幅达2%"
-    },
-    {
-     "title": "万和电气10月20日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901187384.html",
-     "pubDate": "Tue, 20 Oct 2026 13:25:22 +0800",
-     "summary": "以下是 万和电气 在北京时间10月20日13:25分盘口异动快照： 10月20日， 万和电气 盘中快速反弹，5分钟内涨幅超过2%，截至13点25分，报8.04元，成交1.71亿元，换手率3.28%。 分笔 13:25:15 8.04 6299↑ 13:25:12 7.86 93↑ 13:25:09 7.85 11↓ 13:25:06 7.85 1↓ 13:25:00 7.85 1↓ 13:24:48 7.85 72↓ 13:24:45 7.86 14↑ 13:24:36 7.86 5↑ 13:24:30 7.86 30↑ 13:24:27 7.85 5↓ 报价 卖五 8.09 115 卖四 8",
-     "source": "东方财富股票",
-     "zh": "万和电气10月20日快速反弹"
-    },
-    {
-     "title": "10月20日洗护用品板块跌幅达3%",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901186875.html",
-     "pubDate": "Tue, 20 Oct 2026 13:24:35 +0800",
-     "summary": "&emsp;&emsp;10月20日13点24分， 洗护用品 板块指数报537.313点，跌幅达3%，成交2.23亿元，换手率1.24%。 &emsp;&emsp;板块个股中，跌幅最大的前4个股为： 润本股份 报18.21元，跌8.03%； 登康口腔 报30.16元，跌2.30%； 两面针 报5.09元，跌1.36%； 倍加洁 报23.66元，跌0.38%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月20日洗护用品板块跌幅达3%"
-    },
-    {
-     "title": "10月20日商用载客车板块跌幅达3%",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901186786.html",
-     "pubDate": "Tue, 20 Oct 2026 13:24:27 +0800",
-     "summary": "&emsp;&emsp;10月20日13点24分， 商用载客车 板块指数报3121.108点，跌幅达3%，成交7.55亿元，换手率1.55%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 金龙汽车 报9.79元，跌5.41%； 曙光股份 报2.85元，跌3.06%； 安凯客车 报3.57元，跌2.99%； 中通客车 报9.18元，跌2.13%； 宇通客车 报28.59元，跌1.69%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "10月20日商用载客车板块跌幅达3%"
-    },
-    {
-     "title": "浩物股份10月20日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901186613.html",
-     "pubDate": "Tue, 20 Oct 2026 13:24:18 +0800",
-     "summary": "以下是 浩物股份 在北京时间10月20日13:24分盘口异动快照： 10月20日， 浩物股份 盘中涨幅达5%，截至13点24分，报4.45元，成交9835.22万元，换手率4.24%。 分笔 13:24:12 4.45 94↑ 13:24:09 4.44 1708↑ 13:24:06 4.44 3↑ 13:24:03 4.43 3↓ 13:24:00 4.43 5↓ 13:23:57 4.43 50↓ 13:23:54 4.43 1715↑ 13:23:51 4.40 19↓ 13:23:48 4.42 161↑ 13:23:45 4.41 11↑ 报价 卖五 4.49 442 卖四 4.48",
-     "source": "东方财富股票",
-     "zh": "浩物股份10月20日盘中涨幅达5%"
-    },
-    {
-     "title": "要素综合改革试点首批创新举措发布！事关土地、算力等要素",
-     "link": "http://www.eeo.com.cn/2026/1020/1070508.shtml",
-     "pubDate": "Tue, 20 Oct 2026 13:13:14 +0800",
-     "summary": "21世纪经济报道记者 周潇枭 北京报道 近日，国家发展改革委会同有关部门印发《要素市场化配置综合改革试点创新举措和经验做法（第一批）》。 2025年9月，国务院印发《关于全国部分地区要素市场化配置综合改革试点实施方案的批复》，明确在10个地区开展要素市场化配置综合改革试点。要素综合改革试点实施一年多来，10个地区推动一批重点改革举措落地实施，取得积极成效。 10月20日，国家发展改革委政策研究室副主任...",
-     "source": "经济观察网",
-     "zh": "要素综合改革试点首批创新举措发布！事关土地、算力等要素"
-    },
-    {
-     "title": "国家发改委：正制定未来5年扩内需战略实施方案",
-     "link": "http://www.eeo.com.cn/2026/1020/1070507.shtml",
-     "pubDate": "Tue, 20 Oct 2026 13:13:14 +0800",
-     "summary": "21世纪经济报道记者 周潇枭 北京报道 10月20日，国家发展改革委10月份新闻发布会在京举行。 （国家发展改革委发布会现场图，拍摄：周潇枭）</...",
-     "source": "经济观察网",
-     "zh": "国家发改委：正制定未来5年扩内需战略实施方案"
-    },
-    {
-     "title": "首批重大应用场景项目清单来了，涉及矿山、脑机接口、新型储能等",
-     "link": "http://www.eeo.com.cn/2026/1020/1070506.shtml",
-     "pubDate": "Tue, 20 Oct 2026 13:13:13 +0800",
-     "summary": "21世纪经济报道记者 周潇枭 北京报道 近日，国家发展改革委会同科技部、工业和信息化部、人力资源社会保障部、应急管理部、国务院国资委等部门推出首批136项标志性重大应用场景项目清单。 10月20日，国家发展改革委政策研究室副主任、委新闻发言人李超在国家发展改革委10月月度发布会上表示，2025年11月，国务院办公厅印发《关于加快场景培育和开放 推动新场景大规模应用的实施意见》，各方面开展积极探索，形成了一批价...",
-     "source": "经济观察网",
-     "zh": "首批重大应用场景项目清单来了，涉及矿山、脑机接口、新型储能等"
     },
     {
      "title": "BlackRock’s Fink sees AI shortages, not a bubble, as the bigger threat",
@@ -2369,28 +2337,28 @@
      "zh": "BlackRock’s Fink sees AI shortages, not a bubble, as the bigger threat"
     },
     {
-     "title": "佩服！广州一56岁女子退休后考研上岸中大",
-     "link": "http://www.eeo.com.cn/2026/1020/1070471.shtml",
-     "pubDate": "Tue, 20 Oct 2026 12:52:15 +0800",
-     "summary": "“56岁还只是人生的中点，做自己想做的事情最快乐。”说这句话的，是广州的李伟欣。 56岁的李伟欣有着36年财务管理工作经历，曾担任企业CFO，38年前她曾就读中大，如今重返母校读研，为的是跟上人工智能时代浪潮。备考期间，她悄悄复习，利用通勤、排队等碎片时间刷题背书，克服记忆力下降、精力不足等难题，最后成功考上了中山大学岭南学院硕士研究生，直到录取结果公布，才告诉丈夫这个消息。 重回校园后，她和大...",
-     "source": "经济观察网",
-     "zh": "佩服！广州一56岁女子退休后考研上岸中大"
-    },
-    {
-     "title": "国家文物局：期待“十五五” 跟随优质展览，奔赴更多宝藏小城",
-     "link": "http://www.eeo.com.cn/2026/1020/1070472.shtml",
-     "pubDate": "Tue, 20 Oct 2026 12:52:14 +0800",
-     "summary": "21世纪经济报道记者周慧 北京报道 10月20日，国新办就“十五五”时期加强文化遗产保护情况举行新闻发布会。 国家文物局副局长邓超介绍，“十四五”期间，全国博物馆数量由5788家增长至7188家，累计接待观众超过62亿人次，共举办展览22.4万个，开展教育活动225.1万场次，“何以中国”等展览引发社会热议，全国各地乃至海外观众纷至沓来，“为展赴城”成为文化现象，博物馆作为文化殿堂和桥梁的作用越发彰显。 ...",
-     "source": "经济观察网",
-     "zh": "国家文物局：期待“十五五” 跟随优质展览，奔赴更多宝藏小城"
-    },
-    {
      "title": "&apos;Cannot play hide and seek&apos;: Minister&apos;s warning over haze sends Singapore agricultural stocks lower",
      "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
      "pubDate": "Tue, 20 Oct 2026 04:48:52 GMT",
      "summary": "Singapore Senior Minister Shanmugam said the Singapore Exchange had questioned seven firms about their operations and possible links to the haze.",
      "source": "CNBC",
      "zh": "&apos;Cannot play hide and seek&apos;: Minister&apos;s warning over haze sends Singapore agricultural stocks lower"
+    },
+    {
+     "title": "CoreWeave引爆AI融资恐慌！华尔街集体“救火”：不足以动摇整体AI交易",
+     "link": "http://finance.eastmoney.com/news/1354,202610203901144862.html",
+     "pubDate": "Tue, 20 Oct 2026 12:48:21 +0800",
+     "summary": "上周，随着投资者对AI融资风险的担忧加剧，全球科技股惨遭抛售。新云服务商CoreWeave债券收益率升至15%，触及通常被认定为“陷入财务困境”的水平，被视为本轮科技股抛售的导火索之一。 然而， 包括 摩根大通 和 巴克莱 在内的多家国际大行认为，投资者对CoreWeave以及科技行业融资风险的担忧被夸大了，个案不等于全行业危机，不足以动摇更广泛的AI交易行情。 摩根大通 分析师认为，尽管存在债务担忧，CoreWeave的业务依然稳健。该行分析师表示， 投资者对CoreWeave债务不断攀升以及现金快速消耗的担忧可能有些过度了，因为推动其融资需求的是快速扩张，而非项目经济效益不佳 。 上周，随",
+     "source": "东方财富资讯",
+     "zh": "CoreWeave引爆AI融资恐慌！华尔街集体“救火”：不足以动摇整体AI交易"
+    },
+    {
+     "title": "倒计时3天！2027见闻历早鸟99元即将结束，快来锁定最后优惠！",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Tue, 20 Oct 2026 12:46:03 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "倒计时3天！2027见闻历早鸟99元即将结束，快来锁定最后优惠！"
     },
     {
      "title": "Activist investor Starboard builds stake in Solstice, urges focus on core business, FT reports",
@@ -2441,12 +2409,28 @@
      "zh": "OpenAI races to lock in $30B at $1.4Tvaluation ahead of Anthropic IPO"
     },
     {
+     "title": "利好来了！两大板块异动！人形机器人概念股再度暴涨",
+     "link": "http://finance.eastmoney.com/news/1344,202610203901145179.html",
+     "pubDate": "Tue, 20 Oct 2026 12:10:39 +0800",
+     "summary": "两大板块异动！ 10月20日，临近午盘时分， 食品饮料 板块异动拉升， 安记食品 直线涨停， 仲景食品 、 欢乐家 、 骑士乳业 、 一鸣食品 等纷纷跟涨。 消息面上，国家发改委国民经济 综合 司副司长左刚今日在新闻发布会上表示，下一步，国家发改委将会同有关部门以更大力度更实举措有效扩大内需。其中提到，坚持惠民生和促消费相结合，大力提振消费，统筹促就业、稳增长、稳预期，合理提高公共服务支出占财政支出比重，推动商品消费扩容升级，扩大养老消费，促进文化演艺、旅游服务、体育赛事等产业发展，清理取消消费不合理限制性措施。 当天盘中，人形 机器人 概念股也集体异动， 长盈精密 、 宁波东力 、 浙江荣泰",
+     "source": "东方财富资讯",
+     "zh": "利好来了！两大板块异动！人形机器人概念股再度暴涨"
+    },
+    {
      "title": "北证50半日大涨超4%，人形机器人爆发，芯片半导体反弹，宁德时代AH股同步下滑，恒科指跌超1%",
      "link": "https://wallstreetcn.com/articles/3783987",
      "pubDate": "Tue, 20 Oct 2026 12:07:18 +0800",
      "summary": "10月20日，A股三大股指集体低开，早盘三大股指低开高走，临近午盘前再度回落，沪指率先转跌。北证50涨超4%，此前，证监会主席吴清宣布，推出北证50ETF、北交所新股市值配售、创新性评价标准等举措。人形机器人爆发，宇树科技盘中大涨12%，AI硬件股局部反弹，电路板、覆铜板等拉升，芯片半导体活跃，白酒、煤炭、海运等板块调整。 港股低开低走，恒指、恒科指早盘双双跌超1%，权重科网股多数下跌，阿里、腾讯、美团等跌幅居前，新能源汽车下跌，蔚来跌3%，宁德时代H股跌至阶段新低，日内大跌超6%。芯片半导体低开之后回升。债市方面，国债期货集体上涨，商品方面，国内商品期货多数下跌。核心市场走势： A股 ：截至",
      "source": "华尔街见闻",
      "zh": "北证50半日大涨超4%，人形机器人爆发，芯片半导体反弹，宁德时代AH股同步下滑，恒科指跌超1%"
+    },
+    {
+     "title": "批量大涨！PCB概念走高 多家公司公告回购",
+     "link": "http://finance.eastmoney.com/news/11139,202610203901143631.html",
+     "pubDate": "Tue, 20 Oct 2026 12:03:34 +0800",
+     "summary": "10月20日，经历了持续调整后的 PCB 板块开启了反弹。截至早间收盘， 板块上涨2.38% ，涨幅居概念板块前列，成分股批量大涨： 则成电子 涨超10%， 博敏电子 、 东方材料 、 协和电子 、 信通电子 、 骏亚科技 涨停， 东华测试 、 矩子科技 、 天准科技 涨超8%， 英诺激光 、 聚杰微纤 涨超7%，另有十余股涨超5%。 PCB 业绩确定性高 消息面上，近期多家 PCB 公司披露三季报或三季度业绩预告，多数公司 业绩增长超1倍 ，显示出PCB产业的高景气度。市场普遍认为，在AI需求推动、上游产能短缺、国内产业优势等因素影响下，PCB有望成为A股业绩“最具确定性”板块之一。 据上证",
+     "source": "东方财富资讯",
+     "zh": "批量大涨！PCB概念走高 多家公司公告回购"
     },
     {
      "title": "AI debt worries spark surge in default insurance trading",
@@ -2487,6 +2471,46 @@
      "summary": "Many of the country’s most skilled workers are withholding their labour from the economy because of crushing marginal rates",
      "source": "Financial Times",
      "zh": "Britain’s £100,000 tax trap"
+    },
+    {
+     "title": "Tuesday’s Economic Calendar",
+     "link": "https://seekingalpha.com/news/4654169-tuesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 20 Oct 2026 00:00:00 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Tuesday’s Economic Calendar"
+    },
+    {
+     "title": "不到72小时，DeepSeek和MiniMax双双交卷，Flash集体挑战旗舰",
+     "link": "https://wallstreetcn.com/articles/3783990",
+     "pubDate": "Tue, 20 Oct 2026 11:00:12 +0800",
+     "summary": "Flash模型，正在从旗舰模型的平替，变成一场新的能力竞赛。 曾几何时，大模型最重要的竞争是争夺能力上限，但进入下半年，一些风向变了，行业更关注谁能以更低的成本，把模型能力变成开发者和企业真正用得起的生产力。 10月17日，DeepSeek突然更新V4.1 Flash-1017。几乎前后脚，MiniMax也将M3.1 Flash推向台前。后者此前曾以匿名模型Space Bunny的身份出现在开发者社区，如今终于揭开面纱。 两款模型的接连出现，让国产大模型的Flash赛道有了新的看点。 在最新评测数据中，M3.1 Flash在DeepSWE测试中获得74分，仅次于DeepSeek V4.1 Fl",
+     "source": "华尔街见闻",
+     "zh": "不到72小时，DeepSeek和MiniMax双双交卷，Flash集体挑战旗舰"
+    },
+    {
+     "title": "BlackRock, GIC among investors chasing Indian telecom major Jio&apos;s IPO as anchor bids top $26 billion",
+     "link": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+     "pubDate": "Tue, 20 Oct 2026 02:44:35 GMT",
+     "summary": "Jio Platforms plans to raise up to $3.2 billion through an IPO, which is India's largest ever in rupee terms, but the second largest in dollar terms.",
+     "source": "CNBC",
+     "zh": "BlackRock, GIC among investors chasing Indian telecom major Jio&apos;s IPO as anchor bids top $26 billion"
+    },
+    {
+     "title": "SpaceX Q3 earnings: Revenue seen surging to $13B as AI business takes centre stage",
+     "link": "https://seekingalpha.com/news/4654451-spacex-q3-earnings-revenue-seen-surging-to-13b-as-ai-business-takes-centre-stage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 19 Oct 2026 22:39:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SpaceX Q3 earnings: Revenue seen surging to $13B as AI business takes centre stage"
+    },
+    {
+     "title": "报道：OpenAI 计划在Anthropic上市前加快融资步伐",
+     "link": "https://wallstreetcn.com/articles/3783974",
+     "pubDate": "Tue, 20 Oct 2026 10:36:01 +0800",
+     "summary": "OpenAI正加速推进新一轮私募融资，力争在竞争对手Anthropic预计于11月中旬上市之前锁定投资者承诺。此轮融资规模约300亿美元，完成后OpenAI估值或将突破1.4万亿美元。 周二，据路透社援引知情人士消息，此次融资时间表异常紧凑，部分原因在于两家前沿AI实验室正日益争夺同一批投资者资源，OpenAI希望抢在Anthropic公开募股之前率先完成融资。知情人士表示，软银集团、阿布扎比主权投资机构MGX及其他现有股东正就参与本轮融资进行磋商。 此轮融资竞速折射出两大AI巨头在资本市场的激烈角力。在利率上升忧虑加剧、科技股大幅震荡以及市场对AI估值审视趋严的背景下，两家公司均在追逐万亿美",
+     "source": "华尔街见闻",
+     "zh": "报道：OpenAI 计划在Anthropic上市前加快融资步伐"
     }
    ]
   },

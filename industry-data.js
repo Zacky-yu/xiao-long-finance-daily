@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/20 12:31:54",
+ "generated_at": "2026/10/20 12:51:57",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
+     "link": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
+     "pubDate": "Tue, 20 Oct 2026 03:32:43 +0000",
+     "summary": "Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6 Luna and Claude Haiku 5.5 on 8 of 12 benchmarks. The post Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second appeared first on Mar",
+     "source": "MarkTechPost",
+     "zh": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second"
+    },
     {
      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI卧底诈骗圈。",
      "source": "机器之心",
      "zh": "AI朝阳群众出动！陪骗子唠嗑，还套出25万条情报"
-    },
-    {
-     "title": "北大、VGI Labs和加州大学联合提出DynStream：首个大规模无位姿流式动态场景的高斯前馈重建框架",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651068408&idx=3&sn=7a8e71ff883912554fd6ae83b786e218",
-     "pubDate": "Mon, 19 Oct 2026 12:02:00 +0800",
-     "summary": "从「无位姿长视频」到「可持续更新的动态三维场景」！",
-     "source": "机器之心",
-     "zh": "北大、VGI Labs和加州大学联合提出DynStream：首个大规模无位姿流式动态场景的高斯前馈重建框架"
     }
    ]
   },
@@ -858,6 +858,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Top Investor Predicts SpaceX Will Buy Tesla At $420/Share In Coming Weeks",
+     "link": "https://cleantechnica.com/2026/10/19/top-investor-predicts-spacex-will-buy-tesla-at-420-share-in-coming-weeks/",
+     "pubDate": "Tue, 20 Oct 2026 03:55:51 +0000",
+     "summary": "There’s been a lot of chatter in recent days, weeks, and months about the possibility that SpaceX and Tesla will merge. Elon Musk has been a fan of merging, swallowing, and mushing together his companies. This has happened especially as Musk companies have needed saving. Tesla saved SolarCity, a com",
+     "source": "CleanTechnica",
+     "zh": "Top Investor Predicts SpaceX Will Buy Tesla At $420/Share In Coming Weeks"
+    },
+    {
      "title": "India must move beyond VGF subsidy support to build commercially viable BESS market, says Oyster Renewables",
      "link": "https://www.energy-storage.news/india-must-move-beyond-vgf-subsidy-support-to-build-commercially-viable-bess-market-says-oyster-renewables/",
      "pubDate": "Tue, 20 Oct 2026 03:47:47 +0000",
@@ -1018,20 +1026,20 @@ window.INDUSTRY_DATA = {
      "zh": "Qcells unveils two US-produced residential PV panels"
     },
     {
+     "title": "Schneider Electric sees record-high Q3 revenue on global data center boom",
+     "link": "https://www.utilitydive.com/news/schneider-electric-data-center-earnings/833358/",
+     "pubDate": "Mon, 19 Oct 2026 11:10:29 -0400",
+     "summary": "North America continues to be the largest source of revenue for the company&rsquo;s Energy Management segment, but China and East Asia saw a higher organic growth rate this quarter and year-to-date.",
+     "source": "Utility Dive",
+     "zh": "Schneider Electric sees record-high Q3 revenue on global data center boom"
+    },
+    {
      "title": "ACME Solar signs 300MW/1,200MWh PPA in latest SECI FDRE tender",
      "link": "https://www.pv-tech.org/acme-solar-signs-300mw-1200mwh-ppa-latest-seci-fdre-tender/",
      "pubDate": "Mon, 19 Oct 2026 14:58:48 +0000",
      "summary": "ACME Solar has signed a 300MW/1,200MWh PPA with the Solar Energy Corporation of India (SECI) for a solar-plus-storage portfolio.",
      "source": "PV Tech",
      "zh": "ACME Solar signs 300MW/1,200MWh PPA in latest SECI FDRE tender"
-    },
-    {
-     "title": "Verdox Captured CO₂ From An Aluminum Smelter. Commercial Scale Is A Much Bigger System.",
-     "link": "https://cleantechnica.com/2026/10/19/verdox-carbon-capture-aluminum-economics/",
-     "pubDate": "Mon, 19 Oct 2026 14:36:08 +0000",
-     "summary": "Verdox has completed a useful industrial demonstration at Hydro’s Sunndal aluminum smelter in Norway. During a two-month test, its electrochemical process captured carbon dioxide from exhaust containing only about 1% CO₂ and operated in the presence of contaminants found in real smelter gas. Hydro’s",
-     "source": "CleanTechnica",
-     "zh": "Verdox Captured CO₂ From An Aluminum Smelter. Commercial Scale Is A Much Bigger System."
     },
     {
      "title": "AEP signs 960-MW Indiana nuclear pact with Amazon, X-energy",
@@ -1088,14 +1096,6 @@ window.INDUSTRY_DATA = {
      "summary": "Four-hour battery storage is less expensive than open-cycle gas turbines in the 43 markets in which both technologies were modelled, according to a new report from market research firm Wood Mackenzie.",
      "source": "Energy Storage News",
      "zh": "BESS beats gas peaker plants on LCOE globally, Wood Mackenzie finds"
-    },
-    {
-     "title": "Taiwanese firm to make floating PV components in Philippines",
-     "link": "https://www.pv-magazine.com/2026/10/19/taiwanese-firm-to-make-floating-pv-components-in-philippines/",
-     "pubDate": "Mon, 19 Oct 2026 11:15:00 +0000",
-     "summary": "Taiwanese floating solar supplier Suntoward will begin producing floats, walkways and mooring components in the Philippines in early 2027. The post Taiwanese firm to make floating PV components in Philippines appeared first on pv magazine Global .",
-     "source": "pv magazine",
-     "zh": "Taiwanese firm to make floating PV components in Philippines"
     }
    ]
   },
@@ -1778,12 +1778,92 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Chinese robovan maker Neolix raised a $400M Series E led by Boyu, taking total funding to $1.4B+; it operates 30K+ vehicles in 300+ cities across 20 countries (Saritha Rai/Bloomberg)",
+     "link": "https://www.techmeme.com/261020/p1#a261020p1",
+     "pubDate": "Tue, 20 Oct 2026 00:45:01 -0400",
+     "summary": "Saritha Rai / Bloomberg : Chinese robovan maker Neolix raised a $400M Series E led by Boyu, taking total funding to $1.4B+; it operates 30K+ vehicles in 300+ cities across 20 countries &nbsp; &mdash;&nbsp; Neolix Technologies Co., a Chinese maker of driverless delivery vehicles, raised $400 million ",
+     "source": "Techmeme",
+     "zh": "Chinese robovan maker Neolix raised a $400M Series E led by Boyu, taking total funding to $1.4B+; it operates 30K+ vehicles in 300+ cities across 20 countries (Saritha Rai/Bloomberg)"
+    },
+    {
+     "title": "长城 27 款坦克 500 将于 10 月 23 日上市，搭载 Coffee Pilot 4 辅助驾驶系统",
+     "link": "https://www.ithome.com/1/015/251.htm",
+     "pubDate": "Tue, 20 Oct 2026 04:41:24 GMT",
+     "summary": "IT之家 10 月 20 日消息，据易车消息，27 款坦克 500 将于 10 月 23 日正式上市。 据IT之家此前报道，10 月 16 日， 27 款坦克 500 正式开启预订 ， 3000 元订金抵 9000 元购车尾款 。 新车延续现款主体外观设计，新增丹霞红车身配色；长宽高分别为 5078/1934/1905mm，轴距 2850mm；接近角 29°，离去角 24°，最小离地间隙 210mm。 智能驾驶辅助系统方面，新车搭载了 Coffee Pilot 4.0 智能辅助驾驶系统，配备了一颗 700TOPS 算力的 Thor-U 芯片和包括禾赛 192 线激光雷达在内的 27 个传感器。",
+     "source": "IT之家",
+     "zh": "长城 27 款坦克 500 将于 10 月 23 日上市，搭载 Coffee Pilot 4 辅助驾驶系统"
+    },
+    {
+     "title": "粉丝用 AI 基于虚幻引擎 5.8 重制《恶霸鲁尼》，Mac 上 1080P 能跑 45 帧",
+     "link": "https://www.ithome.com/1/015/250.htm",
+     "pubDate": "Tue, 20 Oct 2026 04:40:37 GMT",
+     "summary": "IT之家 10 月 20 日消息，尽管官方一直没有推出续作，但《恶霸鲁尼》（Bully）多年来热度居高不下。之所以迟迟没有新作问世，只是因为 Rockstar 一直忙于其他系列项目。不过开发团队清楚这款作品人气很高，此前曾将其列为工作室史上最受欢迎的四款游戏之一。 多年来，不断有传闻称 Take-Two 计划以重制或高清复刻的形式重启该 IP，但粉丝们已经等得失去耐心，开始自己动手制作《恶霸鲁尼》重制版，以现代游戏标准重新构想这个 IP。现在有一位专注的爱好者，正借助 AI 工具从零开始，制作虚幻引擎 5 版《恶霸鲁尼》。 IT之家注意到，推特用户 @ashen_one 透露，他正在基于虚幻引",
+     "source": "IT之家",
+     "zh": "粉丝用 AI 基于虚幻引擎 5.8 重制《恶霸鲁尼》，Mac 上 1080P 能跑 45 帧"
+    },
+    {
+     "title": "一孩一股SpaceX，马斯克105亿美元的全民实验",
+     "link": "https://www.huxiu.com/article/4898890.html?f=rss",
+     "pubDate": "Tue, 20 Oct 2026 12:39:05 +0800",
+     "summary": "本文来自微信公众号： 深潮 TechFlow ，作者：值得关注的，原文标题：《一孩一股 SpaceX，马斯克 105 亿美元的全民实验》 2026年的科技亿万富翁们正在经历一种新型的焦虑：他们创造了人类历史上最强大的技术，这些技术正在让他们以前所未有的速度变富，同时也在以前所未有的速度替代普通人的工作。 公众的不满在积累，民调显示39%的美国人认为AI弊大于利，这个数字比2025年高了8个百分点。在这种氛围下，「把钱给出去」已经从慈善变成了生存策略。 10月19日，马斯克在X上高调宣布：「明年，我会把我持有的SpaceX股份，给美国每一个孩子一股，这只是第一步。」 SpaceX上周五收盘价14",
+     "source": "虎嗅",
+     "zh": "一孩一股SpaceX，马斯克105亿美元的全民实验"
+    },
+    {
+     "title": "玩家将索尼 PlayStation 游戏机独占《神秘海域：内森德雷克合集》三部曲游戏搬上 PC 平台",
+     "link": "https://www.ithome.com/1/015/249.htm",
+     "pubDate": "Tue, 20 Oct 2026 04:35:12 GMT",
+     "summary": "IT之家 10 月 20 日消息，开发者 SuperMedo 现已公布“Uncharted for Windows”的项目，将索尼 PlayStation 平台独占的《神秘海域：内森德雷克合集（Uncharted: The Nathan Drake Collection）》移植到 PC 平台，相应版本基于 PS4 版游戏，主要收录了神秘海域初代 / 二代 / 三代，IT之家附项目 GitHub 地址（ https://github.com/Supermedo/uncharted_pc ）。 公开信息显示，索尼于 2022 年将《神秘海域 4：盗贼末路》和《神秘海域：失落的遗产》（四代外传）带到",
+     "source": "IT之家",
+     "zh": "玩家将索尼 PlayStation 游戏机独占《神秘海域：内森德雷克合集》三部曲游戏搬上 PC 平台"
+    },
+    {
+     "title": "深度｜DeepSeek融资近千亿：谁在给中国AI下注，赌的是什么？",
+     "link": "https://www.huxiu.com/article/4898888.html?f=rss",
+     "pubDate": "Tue, 20 Oct 2026 12:34:10 +0800",
+     "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《深度｜DeepSeek融资近千亿：谁在给中国AI下注，赌的是什么？》 2026年10月，DeepSeek新一轮融资即将收官。 本轮敲定募资保底800亿元，最终规模有望逼近1000亿元，相比最初500亿的募资目标直接翻倍。公司投前估值锁定在5000亿元。 在整个AI行业普遍持续烧钱、商业化前景模糊的大环境下，一家大模型企业拿下近千亿巨额融资，背后的资本逻辑值得拆解：资金从何而来、估值如何定价、资本押注的核心是什么，这笔千亿融资又将如何改变行业格局？ 融资规模翻倍：增资不加价，产业资本抢份额 本轮募资额从500亿拉满至近千亿，核心来自供需",
+     "source": "虎嗅",
+     "zh": "深度｜DeepSeek融资近千亿：谁在给中国AI下注，赌的是什么？"
+    },
+    {
+     "title": "一汽奔腾小马五门版 10 月 28 日上市，搭载宁德时代电池",
+     "link": "https://www.ithome.com/1/015/248.htm",
+     "pubDate": "Tue, 20 Oct 2026 04:31:46 GMT",
+     "summary": "IT之家 10 月 20 日消息，据易车消息，一汽奔腾小马五门版将于 10 月 28 日正式上市，搭载宁德时代电池。 该车延续家族式风格，主打橙色配色，车辆前脸采用圆形大灯，灯组外圈带有黑色装饰框，车身采用半隐藏式门把手。 IT之家获悉，奔腾小马五门版的长宽高为 3350mm*1540mm*1600mm，轴距为 2215mm，比两门版长 350mm、宽 30mm，轴距长了 262mm。 据悉，奔腾小马五门版将在外观美学、安全防护、宽适空间、智能交互、安心无忧五方面进行升级。 作为参考，现款两门版车型搭载后置永磁同步电机，最大输出功率 41 马力，峰值扭矩 90 牛 · 米，其中部分版本搭载武汉",
+     "source": "IT之家",
+     "zh": "一汽奔腾小马五门版 10 月 28 日上市，搭载宁德时代电池"
+    },
+    {
+     "title": "机器人进厂第一课：不当人",
+     "link": "https://www.tmtpost.com/8168146.html",
+     "pubDate": "Tue, 20 Oct 2026 12:30:05 +0800",
+     "summary": "为何具身企业挤爆快递分拣？",
+     "source": "钛媒体",
+     "zh": "机器人进厂第一课：不当人"
+    },
+    {
      "title": "可体验逼真刹车 / 碰撞：经典车辆物理模拟器《BeamNG.drive》登陆索尼 PS5，198 港币",
      "link": "https://www.ithome.com/1/015/247.htm",
      "pubDate": "Tue, 20 Oct 2026 04:25:48 GMT",
      "summary": "IT之家 10 月 20 日消息，开发商 BeamNG 旗下驾驶模拟游戏《 BeamNG.drive 》游戏现已登陆索尼 PlayStation 5 平台，以港服为例，游戏定价为 198 港币，IT之家附游戏商品页（ https://www.playstation.com/en-hk/games/beamng-drive/ ）。 《 BeamNG.drive 》的核心特色在于精密的软件物理模拟引擎，游戏会实时计算车辆数百个零部件之间的相互作用，力求让玩家在每一次碰撞中都能看到接近现实的车身溃缩以及机械故障表现，同时玩家可以针对悬架系统、轮胎配置以及发动机组件进行细致调整，例如为车辆改装运动刹车",
      "source": "IT之家",
      "zh": "可体验逼真刹车 / 碰撞：经典车辆物理模拟器《BeamNG.drive》登陆索尼 PS5，198 港币"
+    },
+    {
+     "title": "快递员导致孕妇先兆流产，是谁在批量制造冲突？",
+     "link": "https://www.huxiu.com/article/4898886.html?f=rss",
+     "pubDate": "Tue, 20 Oct 2026 12:24:47 +0800",
+     "summary": "本文来自微信公众号： 开水与白面包 ，作者：开水与白面包 某快递客服主管：“我们总部任何一家快递，去咨询，就会变工单下来，对快递员有处罚。” 从挂掉电话到敲门声响起，中间只隔了五分钟 杭州一位刘女士通过菜鸟裹裹下单圆通寄件，准备寄纸质发票。圆通快递员告知发票无法寄递，且订单已标记取件，线上无法取消，让她致电客服操作。 刘女士联系客服，问了一句“为什么发票不能邮寄了？” 客服在电话里建议她改用顺丰或京东，她说了“好的”，订单取消这件事在她这里就算结束了。 她没有投诉，也没有表达任何对快递员的不满。但菜鸟裹裹的记录显示，这通咨询被登记成了“投诉业务员服务态度”。 通话结束后没多久，快递员罗师傅到来",
+     "source": "虎嗅",
+     "zh": "快递员导致孕妇先兆流产，是谁在批量制造冲突？"
+    },
+    {
+     "title": "为何有些事终生难忘，有些却转瞬即逝？",
+     "link": "https://www.huxiu.com/article/4898884.html?f=rss",
+     "pubDate": "Tue, 20 Oct 2026 12:21:27 +0800",
+     "summary": "本文来自微信公众号： PsyCulture&Science ，作者：ScienceDaily 你还记得上周三午饭吃了什么吗？多半想不起来了。可是高考走出考场那一刻的天色，第一次上台发言时手心冒的汗，接到某个坏消息时自己站在哪里，这些画面也许过了很多年依然清清楚楚。我们每天经历的事情数也数不清，真正留下来的却很少。大脑好像有一套自己的筛选标准：大部分日常琐事很快被清理掉，少数片段却被反复加固，成了伴随一生的记忆。 决定一件事能不能留下来的，往往不是它持续了多久，也不是它重复了多少次，而是它当时给我们带来了怎样的感受。紧张、恐惧、激动、心碎，这些强烈的情绪常常伴随着同一种身体状态，那就是压力。 压",
+     "source": "虎嗅",
+     "zh": "为何有些事终生难忘，有些却转瞬即逝？"
     },
     {
      "title": "倍思海外推出 U2 Pro Outdoor 监控摄像头，带有可追踪移动目标的聚光灯",
@@ -1802,76 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "中国人赴泰国工作的防诈指南"
     },
     {
-     "title": "一加 Ace 7 系列手机风扇设计公布：双路出风，一路吹芯片、一路吹后盖",
-     "link": "https://www.ithome.com/1/015/245.htm",
-     "pubDate": "Tue, 20 Oct 2026 04:17:50 GMT",
-     "summary": "IT之家 10 月 20 日消息，一加 Ace 7 系列手机已经官宣本月发布，新机搭载主动散热风扇。 一加中国区总裁李杰今日表示，很多手机都有主动散热风扇， 但有风扇，不代表体验就做好了 。横屏打游戏时，热风吹手、进风口被挡住，都会影响游戏体验。 李杰同时发布了一张一加 Ace 7 系列手机的线稿，共分享了有关散热风扇的四个细节： 双路出风，一路吹芯片，一路吹后盖，这套方案是一加首创的； 进风口布局合理，游戏时不容易被手指挡住； 热风向上排出，避开手指，不让热风影响操作； 冷风吹过后盖，帮助降低手部闷热感，减少出汗带来的影响。 据博主 @体验more 消息，一加 Ace 7 系列手机将搭载骁龙",
-     "source": "IT之家",
-     "zh": "一加 Ace 7 系列手机风扇设计公布：双路出风，一路吹芯片、一路吹后盖"
-    },
-    {
      "title": "昨天还在互撕的产品经理，今天全被REA逼成了战友",
      "link": "https://www.huxiu.com/article/4898880.html?f=rss",
      "pubDate": "Tue, 20 Oct 2026 12:17:20 +0800",
      "summary": "本文来自微信公众号： 字母AI ，作者：苗正 各个App的产品经理们总是水火不容，“你的UI是垃圾”、“这交互是给人用的？”、“你是伪用户视角，拿少数用户个案代表全量”。 可当REA爆火之后，这群产品经理们一瞬间就完成了战线统一，一致对抗REA。 产品是这群产品经理们的命脉，有了REA，这些产品的护城河几乎荡然无存。 法国技术博主Korben用Opus 5.5对REA进行实测。 他让Agent读取自己写的一个crackme程序的伪代码，大约2分钟，Agent就写出了能通过验证的Python keygen，API成本仅为大约0.5美元。他随后用479个随机用户名做了验证，全部通过。 一个功能从提",
      "source": "虎嗅",
      "zh": "昨天还在互撕的产品经理，今天全被REA逼成了战友"
-    },
-    {
-     "title": "Epic 喜加一：第一人称 3D 跑酷游戏《GetHigh.EXE》免费领",
-     "link": "https://www.ithome.com/1/015/243.htm",
-     "pubDate": "Tue, 20 Oct 2026 04:11:02 GMT",
-     "summary": "IT之家 10 月 20 日消息，开发者 Zypong 宣布旗下第一人称 3D 跑酷游戏《 GetHigh.EXE 》在 Epic 游戏商城开启限时免费领取“喜加一”活动，玩家可以在北京时间 11 月 3 日前免费领取。 需要注意的是，本次限免并非 Epic 官方活动，而是由开发团队自行发起的特别促销，IT之家附游戏商品页（ https://store.epicgames.com/p/gethighexe-c83d1f ）。 《 GetHigh.EXE 》采用复古未来主义合成器浪潮（Synthwave）美术风格，通过霓虹色彩、发光平台和超现实结构，构建出一条垂直跑酷赛道。 玩家需要通过精准的移",
-     "source": "IT之家",
-     "zh": "Epic 喜加一：第一人称 3D 跑酷游戏《GetHigh.EXE》免费领"
-    },
-    {
-     "title": "奇瑞宣布 2027 上半年在风云 A9 纯电车型首发 V2G 功能，2029 年实现迅龙秒充全球布局",
-     "link": "https://www.ithome.com/1/015/242.htm",
-     "pubDate": "Tue, 20 Oct 2026 04:10:45 GMT",
-     "summary": "IT之家 10 月 20 日现场消息，在今日上午的 2026 奇瑞全球创新大会上，奇瑞公布了旗下快速补能技术“迅龙秒充”的未来规划。 奇瑞迅龙秒充于今年 3 月首次亮相 ， 支持充电 5 分钟续航 500 公里 、6 分 50 秒电量从 10% 充到 97%。 奇瑞还引入了柔性高温超导电缆技术，依托超导材料的特性，设计了紧凑型超导螺旋结构，并融合了全链路的漏热管控以及液氮恒温技术，让电缆具备超大电流、零损耗、轻量化和柔性的特点。 今年年底，在上海、广州、合肥和芜湖，奇瑞将扩大布局迅龙秒充站， 并在 2029 年实现全球布局 ，通过 2 万座迅龙秒充站为用户提供安全、极速、智能的补能体验。 IT",
-     "source": "IT之家",
-     "zh": "奇瑞宣布 2027 上半年在风云 A9 纯电车型首发 V2G 功能，2029 年实现迅龙秒充全球布局"
-    },
-    {
-     "title": "家政公司，啃不动养老？",
-     "link": "https://www.huxiu.com/article/4898876.html?f=rss",
-     "pubDate": "Tue, 20 Oct 2026 12:09:36 +0800",
-     "summary": "本文来自微信公众号： 长青研究社 ，编辑：苏锦华，作者：叶凌慧 9月14日，西安市发布《关于扩大养老服务消费补贴家政企业服务主体范围的通知》，将符合条件的家政企业正式纳入养老服务消费补贴服务主体范围，在全国率先打破了此前补贴服务主体限于养老机构和社区养老服务机构的格局。三天前，一场政策培训会已经提前召开，40余家家政企业代表坐在台下，听两部门解读这份文件。 政策的推力是双向的。对失能老人家庭来说，一次200元的居家照护，用券可直接抵扣100元。对全国310万家家政企业来说，这是一扇新打开的门。但进门要先过“四道关”：主体资质关、从业人员关、服务制度关、红线禁入关，条条直指家政行业“小散乱”的命",
-     "source": "虎嗅",
-     "zh": "家政公司，啃不动养老？"
-    },
-    {
-     "title": "豪掷近半利润分红，“西北酒王”金徽酒正在打一场硬仗",
-     "link": "https://www.huxiu.com/article/4898878.html?f=rss",
-     "pubDate": "Tue, 20 Oct 2026 12:09:27 +0800",
-     "summary": "本文来自微信公众号： 酒周志 ，作者：木子 大手笔分红，是金徽酒对股东的诚意；但能否赢得市场，终究要靠产品、渠道与治理的实效来检验。 分红“优等生”金徽酒又向股东掏钱了。 日前，金徽酒2026年中期分红正式落地：每10股派现2.00元，合计派发1.014亿元，占上半年净利润的47.37%。算上今年2月派发的2025年前三季度分红约9937万元，以及6月派发的2025年度分红约1.52亿元，短短8个月，金徽酒已经三次向股东掏钱。 与这份慷慨账单形成鲜明对照的，是公司基本面的另一番景象。2026年上半年，金徽酒营收18.16亿元，同比增长3.19%，归母净利润却同比下滑28.24%。拉长周期看，这",
-     "source": "虎嗅",
-     "zh": "豪掷近半利润分红，“西北酒王”金徽酒正在打一场硬仗"
-    },
-    {
-     "title": "超强厄尔尼诺已经形成：今年的台风、暴雨和高温，只是开始吗？",
-     "link": "https://www.huxiu.com/article/4898879.html?f=rss",
-     "pubDate": "Tue, 20 Oct 2026 12:09:14 +0800",
-     "summary": "本文来自微信公众号： 果壳 ，作者：Judy，编辑：翻翻 国家气候中心10月9日宣布，2026年9月，超强厄尔尼诺事件已正式形成[1]。 与此同时，世界气象组织10月8日的最新预测认为，本轮事件仍会继续增强，可能在今年12月前后达到峰值，气候影响还可能延续至2027年[2]。 海洋目前释放出的信号已经相当强烈。 按照我国的厄尔尼诺判别标准，如果赤道太平洋中东部监测区海温指数的3个月滑动平均峰值达到或超过2.5℃，就可以判定为“超强厄尔尼诺事件”。国家气候中心最新监测显示，今年9月该区海温距平指数升至2.94℃，7—9月平均值达到2.54℃，已经跨过超强门槛[1]。 更值得注意的是，异常增暖并不",
-     "source": "虎嗅",
-     "zh": "超强厄尔尼诺已经形成：今年的台风、暴雨和高温，只是开始吗？"
-    },
-    {
-     "title": "字节最没存在感APP，年轻人抢着充钱",
-     "link": "https://www.huxiu.com/article/4898877.html?f=rss",
-     "pubDate": "Tue, 20 Oct 2026 12:06:03 +0800",
-     "summary": "本文来自微信公众号： DT商业观察 ，作者：DT商业观察 豆包的亲兄弟赚翻了。 Sensor Tower数据显示，今年Q1的中国ios市场，豆包位列下载、活跃用户榜双料第一，但收入榜第一却是同在字节旗下的猫箱，收入甚至超过即梦AI、Kimi这些耳熟能详的国民应用。 （豆包没入榜的原因之一是商业化晚） 作为一款2024年3月才上线的AI APP，猫箱几乎没什么知名度，赚钱能力却一直能打：Sensor Tower统计，它仅ios内购收入就累计吸金超2200万美元，这还没算上安卓端收入和广告收入。 这么小众的App，究竟在赚谁的钱？免费的AI应用这么多，它为什么能让人抢着充钱？ 赚钱效率是即梦的5倍",
-     "source": "虎嗅",
-     "zh": "字节最没存在感APP，年轻人抢着充钱"
-    },
-    {
-     "title": "八位堂 XBOX 无线手柄专属充电底座新增经典黑 / 白款，套装 169 元",
-     "link": "https://www.ithome.com/1/015/240.htm",
-     "pubDate": "Tue, 20 Oct 2026 04:05:50 GMT",
-     "summary": "IT之家 10 月 20 日消息，八位堂 (8BitDo) 今日宣布推出 XBOX 无线手柄专属充电底座 (Ultimate Charging Dock for XBOX Controllers) 的经典黑 / 白款， 两个版本的套装到手价均为 169 元 。 八位堂 XBOX 无线手柄专属充电底座 获得 XBOX 官方授权 ，兼容 XBOX Series X|S 及 XBOX One 无线手柄，针对 XBOX 手柄的尺寸、结构、充电方式进行专属设计。 其 采用无线充电方案 ，从源头避免触点氧化；搭载半固态锂电池，集成全套安全防护结构与被动式风道散热系统；配备带灯光调节的 LED 充电指示灯。",
-     "source": "IT之家",
-     "zh": "八位堂 XBOX 无线手柄专属充电底座新增经典黑 / 白款，套装 169 元"
     },
     {
      "title": "字节Seed大重组：吴永辉的“大兵团”作战，与出走的联合创始人",
@@ -1922,18 +1938,10 @@ window.INDUSTRY_DATA = {
      "zh": "智界的独立，走到生产资质这一步"
     },
     {
-     "title": "比狗多1900万只的猫，把孤独做成了按小时卖的生意",
-     "link": "https://www.tmtpost.com/8173987.html",
-     "pubDate": "Tue, 20 Oct 2026 11:29:53 +0800",
-     "summary": "撸猫还是一门很年轻的生意。",
-     "source": "钛媒体",
-     "zh": "比狗多1900万只的猫，把孤独做成了按小时卖的生意"
-    },
-    {
      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
      "link": "https://github.com/golang/go/issues/82345",
      "pubDate": "Tue, 20 Oct 2026 03:05:07 +0000",
-     "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 14 # Comments: 3",
+     "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 28 # Comments: 6",
      "source": "Hacker News",
      "zh": "Go will reject certificate chains containing eight distrusted SPKIs"
     },
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "OpenBSD 8.0",
      "link": "https://www.openbsd.org/80.html",
      "pubDate": "Tue, 20 Oct 2026 02:06:40 +0000",
-     "summary": "Article URL: https://www.openbsd.org/80.html Comments URL: https://news.ycombinator.com/item?id=50160494 Points: 46 # Comments: 9",
+     "summary": "Article URL: https://www.openbsd.org/80.html Comments URL: https://news.ycombinator.com/item?id=50160494 Points: 79 # Comments: 21",
      "source": "Hacker News",
      "zh": "OpenBSD 8.0"
     },
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "OpenBSD 8.0: released Oct 20, 2026",
      "link": "https://marc.info/?l=openbsd-misc&m=179245849770356&w=2",
      "pubDate": "Tue, 20 Oct 2026 01:53:51 +0000",
-     "summary": "Article URL: https://marc.info/?l=openbsd-misc&m=179245849770356&w=2 Comments URL: https://news.ycombinator.com/item?id=50160419 Points: 18 # Comments: 1",
+     "summary": "Article URL: https://marc.info/?l=openbsd-misc&m=179245849770356&w=2 Comments URL: https://news.ycombinator.com/item?id=50160419 Points: 21 # Comments: 2",
      "source": "Hacker News",
      "zh": "OpenBSD 8.0: released Oct 20, 2026"
     },
@@ -1981,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "Developing Taste",
      "link": "https://emilkowal.ski/ui/developing-taste",
      "pubDate": "Tue, 20 Oct 2026 01:12:03 +0000",
-     "summary": "Article URL: https://emilkowal.ski/ui/developing-taste Comments URL: https://news.ycombinator.com/item?id=50160135 Points: 15 # Comments: 11",
+     "summary": "Article URL: https://emilkowal.ski/ui/developing-taste Comments URL: https://news.ycombinator.com/item?id=50160135 Points: 21 # Comments: 14",
      "source": "Hacker News",
      "zh": "Developing Taste"
     },
@@ -1997,7 +2005,7 @@ window.INDUSTRY_DATA = {
      "title": "France's supermarket fridges were vulnerable online for months",
      "link": "https://ipinfo.io/blog/france-fridges-hack",
      "pubDate": "Tue, 20 Oct 2026 00:00:49 +0000",
-     "summary": "Article URL: https://ipinfo.io/blog/france-fridges-hack Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 75 # Comments: 66",
+     "summary": "Article URL: https://ipinfo.io/blog/france-fridges-hack Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 81 # Comments: 66",
      "source": "Hacker News",
      "zh": "France's supermarket fridges were vulnerable online for months"
     },
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "Reuters : Sources: OpenAI is racing to secure investor commitments before Anthropic's expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ &nbsp; &mdash;&nbsp; OpenAI is racing to secure investor commitments before rival Anthropic's expected public market debut in mid",
      "source": "Techmeme",
      "zh": "Sources: OpenAI is racing to secure investor commitments before Anthropic&apos;s expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ (Reuters)"
-    },
-    {
-     "title": "Sources: Ted Sarandos complained for months of a lack of new hit shows at Netflix and US watch time being down; it just fired its film chief and content chief (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261019/p48#a261019p48",
-     "pubDate": "Mon, 19 Oct 2026 19:30:01 -0400",
-     "summary": "Wall Street Journal : Sources: Ted Sarandos complained for months of a lack of new hit shows at Netflix and US watch time being down; it just fired its film chief and content chief &nbsp; &mdash;&nbsp; Company is overhauling creative leadership as it struggles to get domestic audiences to watch more",
-     "source": "Techmeme",
-     "zh": "Sources: Ted Sarandos complained for months of a lack of new hit shows at Netflix and US watch time being down; it just fired its film chief and content chief (Wall Street Journal)"
     }
    ]
   },
@@ -2274,12 +2274,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "&apos;Cannot play hide and seek&apos;: Minister&apos;s warning over haze sends Singapore agricultural stocks lower",
+     "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
+     "pubDate": "Tue, 20 Oct 2026 04:48:52 GMT",
+     "summary": "Singapore Senior Minister Shanmugam said the Singapore Exchange had questioned seven firms about their operations and possible links to the haze.",
+     "source": "CNBC",
+     "zh": "&apos;Cannot play hide and seek&apos;: Minister&apos;s warning over haze sends Singapore agricultural stocks lower"
+    },
+    {
+     "title": "大摩：将亚马逊列为首选股 目标价升至350美元",
+     "link": "http://finance.eastmoney.com/news/1354,202610203901157484.html",
+     "pubDate": "Tue, 20 Oct 2026 12:40:26 +0800",
+     "summary": "摩根士丹利 将 亚马逊 列为首选股，并将其目标价从335美元上调至350美元，维持“增持”评级。分析师指出，AWS的营收增长轨迹、作为90法则公司的运营能力、Bedrock平台市场地位的能见度提升，以及 亚马逊 零售业务在智能代理商务领域的布局，均是支撑其看法的关键因素。大摩上调对AWS的增长预期，现预测2027年AWS收入将同比增长47%、2028年增长42%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "大摩：将亚马逊列为首选股 目标价升至350美元"
+    },
+    {
+     "title": "俄外长：俄专家正陆续返回伊朗布什尔核电站项目",
+     "link": "http://finance.eastmoney.com/news/11790,202610203901157131.html",
+     "pubDate": "Tue, 20 Oct 2026 12:40:23 +0800",
+     "summary": "据伊朗伊斯兰共和国通讯社10月19日报道，俄罗斯外长拉夫罗夫当天在伊朗首都德黑兰表示，俄方无意放弃履行与伊朗在经济和投资领域达成的协议。俄技术专家正陆续返回伊朗南部的布什尔核电站项目。（新华社） （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "俄外长：俄专家正陆续返回伊朗布什尔核电站项目"
+    },
+    {
+     "title": "浙江人形签约联想火种&光明计划 推进人形机器人制造验证落地",
+     "link": "http://finance.eastmoney.com/news/1354,202610203901151587.html",
+     "pubDate": "Tue, 20 Oct 2026 12:40:17 +0800",
+     "summary": "记者从浙江人形 机器人 创新中心有限公司（以下简称“浙江人形”）了解到，公司日前正式签约加入联想“火种&光明计划”战略合作体系。基于此前在智能制造领域的合作积累，双方将进一步发挥具身智能技术与产业制造资源优势，推动人形 机器人 技术创新与制造应用深度融合。 2024年，浙江人形领航者2号NAVIAI进入联想南方智能智造基地开展实训，探索人形 机器人 在3C制造环境中的应用。通过真实生产环境中的实践验证，双方进一步加深了对制造场景需求与 机器人 作业能力的理解，也为后续合作奠定了基础。 真实制造场景不仅是检验 机器人 能力的重要环境，也是推动技术持续迭代的关键牵引。浙江人形持续围绕“大脑、小脑、",
+     "source": "东方财富股票",
+     "zh": "浙江人形签约联想火种&光明计划 推进人形机器人制造验证落地"
+    },
+    {
+     "title": "自然人张亚飞1.63亿元举牌明新旭腾 疑似为宁波地产人士及富满微第四大股东",
+     "link": "http://stock.eastmoney.com/news/11215,202610203901150627.html",
+     "pubDate": "Tue, 20 Oct 2026 12:38:48 +0800",
+     "summary": "明新旭腾 （SH605068）10月19日晚间公告称，公司持股5%以上股东浙江明新 资产管理 有限公司（以下简称明新资产）与张亚飞于10月18日（周日）签署了《股票转让协议书》，拟通过协议转让的方式，向张亚飞转让其所持有的 明新旭腾 无限售条件流通股930万股股份，占公司总股本的5.73%，转让价格为17.50元/股，转让对价约1.63亿元。受让方张亚飞承诺在转让完成后的12个月内不减持所持标的股份。 《每日经济新闻》记者（以下简称每经记者）注意到，此次耗资约1.63亿元“自有资金”接盘的自然人张亚飞，其属地及身份特征与宁波慈溪一位地产人士以及A股公司 富满微 （SZ300671）的重要股东高",
+     "source": "东方财富股票",
+     "zh": "自然人张亚飞1.63亿元举牌明新旭腾 疑似为宁波地产人士及富满微第四大股东"
+    },
+    {
+     "title": "双创指数携手反弹，科创50半日上涨0.79%",
+     "link": "http://finance.eastmoney.com/news/1354,202610203901157990.html",
+     "pubDate": "Tue, 20 Oct 2026 12:36:35 +0800",
+     "summary": "10月20日，截至上午收盘，沪指下跌0.08%，报3727.75点；深成指上涨0.18%，报11838.88点；创业板指上涨0.27%，报2753.81点；科创50指数上涨0.79%，报1339.66点；北证50指数上涨4.11%，报985.02点。 资金面，央行公告称，根据公开市场业务一级交易商的需求，10月20日7天期逆回购操作量为零。Wind数据显示，当日650亿元逆回购到期，据此计算，单日净回笼650亿元。 消息面，国家发改委召开10月份新闻发布会指出，将会同有关部门及时出台实施增量政策，推动存量政策与增量政策协同发力。一方面，进一步增强存量政策实施效率。另一方面及时推出务实管用的增量",
+     "source": "东方财富股票",
+     "zh": "双创指数携手反弹，科创50半日上涨0.79%"
+    },
+    {
+     "title": "Activist investor Starboard builds stake in Solstice, urges focus on core business, FT reports",
+     "link": "https://seekingalpha.com/news/4654453-activist-investor-starboard-builds-stake-in-solstice-urges-focus-on-core-business-ft-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 20 Oct 2026 00:36:24 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Activist investor Starboard builds stake in Solstice, urges focus on core business, FT reports"
+    },
+    {
+     "title": "韩国今年最大IPO！Elice上市首日暴跌",
+     "link": "http://finance.eastmoney.com/news/1351,202610203901157674.html",
+     "pubDate": "Tue, 20 Oct 2026 12:35:21 +0800",
+     "summary": "【导读】韩国今年最大IPO 人工智能 云基础设施与 数据中心 新股Elice，上市首日一度暴跌近32% 中国基金报记者伊万 韩国年内规模最大的IPO上市首日即遇冷，遭遇“开门黑”。 10月20日，韩国 人工智能 云基础设施与 数据中心 公司Elice Group正式在科斯达克（KOSDAQ）市场挂牌上市。然而，这场备受瞩目的“首秀”并未迎来开门红，反而在早盘交易中遭遇猛烈抛售，股价一度暴跌近32%，创下韩国近年来大规模IPO首日表现最差纪录之一。 公开资料显示，Elice此次IPO共募集资金2010亿韩元（约合1.51亿美元），是今年以来韩国规模最大的IPO，也被市场视为检验投资者对AI基础设",
+     "source": "东方财富股票",
+     "zh": "韩国今年最大IPO！Elice上市首日暴跌"
+    },
+    {
      "title": "韩国最大IPO首日暴跌32%：盈利的\"新云\"公司也难逃AI数据中心寒冬",
      "link": "https://wallstreetcn.com/articles/3783991",
      "pubDate": "Tue, 20 Oct 2026 12:26:44 +0800",
      "summary": "韩国数据中心公司Elice在Kosdaq上市首日暴跌32%，成为全球AI算力基础设施IPO折戟名单上的最新一例。这家自称「neocloud」（新型算力云）、且罕见已经盈利的公司，以估值仅为同行零头的价格上市，仍未能逃过抛售，标志着市场对AI数据中心资产的定价逻辑已从“增长预期”转向“资本开支”。 Elice以发行价区间上限90,500韩元定价，募资2010亿韩元（约1.51亿美元），上市后市值略超1万亿韩元，是Kosdaq年内规模最大的IPO 。韩国散户为此投入约10.3万亿韩元（约77亿美元）认购资金，散户超额认购超过400倍 ——相当于把整个发行规模约51倍的资金冻结在账户里等待配售。 但",
      "source": "华尔街见闻",
      "zh": "韩国最大IPO首日暴跌32%：盈利的\"新云\"公司也难逃AI数据中心寒冬"
+    },
+    {
+     "title": "正在研究制定扩大内需战略实施方案！国家发改委这场发布会信息量很大",
+     "link": "http://www.eeo.com.cn/2026/1020/1070428.shtml",
+     "pubDate": "Tue, 20 Oct 2026 12:26:13 +0800",
+     "summary": "10月20日，国家发展改革委召开10月份新闻发布会。 要点如下： 更大力度、更实举措有效扩大内需 国家发展改革委国民经济综合司副司长左刚表示，下一步，国家发展改革委将会同有关部门，以更大力度、更实举措有效扩大内需。 一是坚持惠民生和促消费相结合，大力提振消费。统筹促就业、增收入、稳预期，合理提高公共服务支出占财政支出比重，加大直达消费者的普惠政策力度。推动商品消费扩容升级，促...",
+     "source": "经济观察网",
+     "zh": "正在研究制定扩大内需战略实施方案！国家发改委这场发布会信息量很大"
+    },
+    {
+     "title": "国家发改委：多措并举加大力度扩大内需",
+     "link": "http://www.eeo.com.cn/2026/1020/1070427.shtml",
+     "pubDate": "Tue, 20 Oct 2026 12:26:13 +0800",
+     "summary": "10月20日，国家发展改革委召开10月份新闻发布会。国家发展改革委国民经济综合司副司长左刚表示，下一步，国家发展改革委将会同有关部门，以更大力度、更实举措有效扩大内需。 坚持惠民生和促消费相结合，大力提振消费。统筹促就业、增收入、稳预期，合理提高公共服务支出占财政支出比重，加大直达消费者的普惠政策力度。推动商品消费扩容升级，促进新能源汽车、智能产品等商品消费。适应不同群体需求扩大优质服务供给，完...",
+     "source": "经济观察网",
+     "zh": "国家发改委：多措并举加大力度扩大内需"
+    },
+    {
+     "title": "重大利好！我国首批标志性重大应用场景发布",
+     "link": "http://www.eeo.com.cn/2026/1020/1070426.shtml",
+     "pubDate": "Tue, 20 Oct 2026 12:26:11 +0800",
+     "summary": "近日，国家发展改革委等部门推出首批136项标志性重大应用场景项目清单。清单覆盖新领域新赛道、产业转型升级、行业应用、社会治理、民生服务五大类型，其中近半数属于“战略性新兴产业”和“未来产业”范围。 脑机接口全生态验证场景打通脑机诊断、脑机治疗、脑机辅助、脑机消费四个环节，推动开放严肃医疗、社区家庭、商业消费等三类场景应用，构建脑机接口场景验证生态。 智能康复辅具应用场景聚焦养老助残领域“...",
+     "source": "经济观察网",
+     "zh": "重大利好！我国首批标志性重大应用场景发布"
     },
     {
      "title": "OpenAI races to lock in $30B at $1.4Tvaluation ahead of Anthropic IPO",
@@ -2306,60 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "A股午评：超3900只个股飘红，沪指收跌，深指、创业板指收涨；北证50大涨超4%；生物科技、半导体、通信设备上涨；贵金属、大金融下跌"
     },
     {
-     "title": "杰富瑞将吉利德科学目标价从180美元上调至184美元",
-     "link": "http://finance.eastmoney.com/news/1354,202610203901145264.html",
-     "pubDate": "Tue, 20 Oct 2026 12:11:57 +0800",
-     "summary": "杰富瑞将 吉利德科学 目标价从180美元上调至184美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "杰富瑞将吉利德科学目标价从180美元上调至184美元"
-    },
-    {
-     "title": "利好来了！两大板块异动！人形机器人概念股再度暴涨",
-     "link": "http://finance.eastmoney.com/news/1344,202610203901145179.html",
-     "pubDate": "Tue, 20 Oct 2026 12:10:39 +0800",
-     "summary": "两大板块异动！ 10月20日，临近午盘时分， 食品饮料 板块异动拉升， 安记食品 直线涨停， 仲景食品 、 欢乐家 、 骑士乳业 、 一鸣食品 等纷纷跟涨。 消息面上，国家发改委国民经济 综合 司副司长左刚今日在新闻发布会上表示，下一步，国家发改委将会同有关部门以更大力度更实举措有效扩大内需。其中提到，坚持惠民生和促消费相结合，大力提振消费，统筹促就业、稳增长、稳预期，合理提高公共服务支出占财政支出比重，推动商品消费扩容升级，扩大养老消费，促进文化演艺、旅游服务、体育赛事等产业发展，清理取消消费不合理限制性措施。 当天盘中，人形 机器人 概念股也集体异动， 长盈精密 、 宁波东力 、 浙江荣泰",
-     "source": "东方财富股票",
-     "zh": "利好来了！两大板块异动！人形机器人概念股再度暴涨"
-    },
-    {
-     "title": "港股午评：香港恒生指数跌近1% 恒生科技指数跌超1%",
-     "link": "http://stock.eastmoney.com/news/11771,202610203901145052.html",
-     "pubDate": "Tue, 20 Oct 2026 12:10:18 +0800",
-     "summary": "港股10月20日午盘走低，恒生指数收报23956.93点，跌229.9点，跌幅0.95%；恒生科技指数收报4058.39点，跌49.85点，跌幅1.21%。恒生指数成分股中 翰森制药 、 药明生物 、 舜宇光学科技 涨幅居前， 联想集团 、 洛阳钼业 、 宁德时代 跌幅靠前。恒生科技指数成分股中 舜宇光学科技 、 天数智芯 、 理想汽车 -W涨幅居前， 联想集团 、 MINIMAX-W 、 蔚来 -SW跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏",
-     "source": "东方财富股票",
-     "zh": "港股午评：香港恒生指数跌近1% 恒生科技指数跌超1%"
-    },
-    {
-     "title": "10月20日港股午盘：恒指跌0.95% 联想集团领跌成分股",
-     "link": "http://stock.eastmoney.com/news/11770,202610203901144941.html",
-     "pubDate": "Tue, 20 Oct 2026 12:10:14 +0800",
-     "summary": "港股10月20日午盘走低，恒生指数收报23956.93点，跌229.9点，跌幅0.95%；恒生科技指数收报4058.39点，跌49.85点，跌幅1.21%。恒生指数成分股中 翰森制药 、 药明生物 、 舜宇光学科技 涨幅居前， 联想集团 、 洛阳钼业 、 宁德时代 跌幅靠前。恒生科技指数成分股中 舜宇光学科技 、 天数智芯 、 理想汽车-W 涨幅居前， 联想集团 、 MINIMAX-W 、 蔚来-SW 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏",
-     "source": "东方财富股票",
-     "zh": "10月20日港股午盘：恒指跌0.95% 联想集团领跌成分股"
-    },
-    {
      "title": "北证50半日大涨超4%，人形机器人爆发，芯片半导体反弹，宁德时代AH股同步下滑，恒科指跌超1%",
      "link": "https://wallstreetcn.com/articles/3783987",
      "pubDate": "Tue, 20 Oct 2026 12:07:18 +0800",
      "summary": "10月20日，A股三大股指集体低开，早盘三大股指低开高走，临近午盘前再度回落，沪指率先转跌。北证50涨超4%，此前，证监会主席吴清宣布，推出北证50ETF、北交所新股市值配售、创新性评价标准等举措。人形机器人爆发，宇树科技盘中大涨12%，AI硬件股局部反弹，电路板、覆铜板等拉升，芯片半导体活跃，白酒、煤炭、海运等板块调整。 港股低开低走，恒指、恒科指早盘双双跌超1%，权重科网股多数下跌，阿里、腾讯、美团等跌幅居前，新能源汽车下跌，蔚来跌3%，宁德时代H股跌至阶段新低，日内大跌超6%。芯片半导体低开之后回升。债市方面，国债期货集体上涨，商品方面，国内商品期货多数下跌。核心市场走势： A股 ：截至",
      "source": "华尔街见闻",
      "zh": "北证50半日大涨超4%，人形机器人爆发，芯片半导体反弹，宁德时代AH股同步下滑，恒科指跌超1%"
-    },
-    {
-     "title": "10月20日午间新闻精选",
-     "link": "http://hk.eastmoney.com/news/1556,202610203901144629.html",
-     "pubDate": "Tue, 20 Oct 2026 12:05:58 +0800",
-     "summary": "1、截至午间收盘，上证指数跌0.08%，深证成指涨0.18%，创业板指涨0.27%。 2、港股午间收盘，香港恒生指数跌0.95%，报23956.93点；恒生科技指数跌1.21%，报4058.39点。 3、国家发改委国民经济 综合 司副司长左刚20日在新闻发布会上表示，正在研究制定扩大内需战略实施方案，并将加快推动印发实施；下一步国家发展改革委将会同有关部门以更大力度更实举措有效扩大内需。将根据需要及时出台新的增量政策，确保经济运行保持在合理区间。 4、央行公告，为更好匹配 银行 体系短期流动性需求，中国人民 银行 将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作",
-     "source": "东方财富股票",
-     "zh": "10月20日午间新闻精选"
-    },
-    {
-     "title": "国家发改委：各地规划布局重点发展产业领域 要避免一哄而上",
-     "link": "http://finance.eastmoney.com/news/1355,202610203901144760.html",
-     "pubDate": "Tue, 20 Oct 2026 12:05:20 +0800",
-     "summary": "国家发展改革委10月20日召开10月份新闻发布会。国家发展改革委创新和高技术发展司副司长任中保表示，因地制宜发展新质生产力，本质是实事求是，即是立足各地资源，防止同质化竞争，这也是在尊重区域发展差异，把各地比较优势转化为发展实效的科学方法论。 在规划布局上，各地规划布局重点发展产业领域，谋划提出重大工程项目，要对本地区是否具有相应的基础条件做充分论证，坚决避免一哄而上、遍地开花，发改委也将按照国家的有关规定，做好国家级和省级未来产业、新兴支柱产业等领域专项规划的衔接。此外，省级发展改革部门要对市县级专项规划编制进行管控和衔接，引导各地在坚持全国一盘棋前提下，找准符合本地区实际的发展赛道。在项目",
-     "source": "东方财富股票",
-     "zh": "国家发改委：各地规划布局重点发展产业领域 要避免一哄而上"
     },
     {
      "title": "AI debt worries spark surge in default insurance trading",
@@ -2410,44 +2450,12 @@ window.INDUSTRY_DATA = {
      "zh": "Tuesday’s Economic Calendar"
     },
     {
-     "title": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout",
-     "link": "https://www.cnbc.com/2026/10/20/indonesia-msci-inflation-interest-rate-.html",
-     "pubDate": "Tue, 20 Oct 2026 03:59:35 GMT",
-     "summary": "Bank Indonesia faces growing pressure to raise rates after MSCI’s threat to cut its market to standalone status triggered a rout in stocks, weakened the rupiah.",
-     "source": "CNBC",
-     "zh": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout"
-    },
-    {
      "title": "渝万高铁进入联调联试阶段",
      "link": "http://www.eeo.com.cn/2026/1020/1070362.shtml",
      "pubDate": "Tue, 20 Oct 2026 11:52:11 +0800",
      "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/png/F5F7512ABA579191DD20CA2B41B30654.png\" alt=\"10月20日 渝万高铁57022次检测车经过渠溪河双线特大桥。受访单位供图\" data-title=\"10月20日 渝万高铁57022次检测车经过渠溪河双线特大桥。受访单位供图\" data-target=\"2112377486377226242\" data-origin=\"https://res.cqhlw.cn/contentcloud/1/REPRINT/",
      "source": "经济观察网",
      "zh": "渝万高铁进入联调联试阶段"
-    },
-    {
-     "title": "苹果下周三推出首款触摸屏MacBook",
-     "link": "http://www.eeo.com.cn/2026/1020/1070361.shtml",
-     "pubDate": "Tue, 20 Oct 2026 11:52:07 +0800",
-     "summary": "10 月 20 日，综合财联社和第一财经等媒体报道，苹果全球营销高级副总裁宣布，公司将于 10 月 28 日举行新品发布会，计划在会上正式推出其首款触控屏 MacBook。新款触控 MacBook 预计将引入类似 iPhone 的“灵动岛”交互界面，在 Mac 历史上尚属首次；搭载 M5 Pro 和 M5 Max 芯片，与今年 3 月推出的现款 MacBook Pro 保持一致。此外，搭载 M6 芯片的新款入门级 MacBook Pro、OLED iPad mini 等新品也有望亮相。值得一提的是，...",
-     "source": "经济观察网",
-     "zh": "苹果下周三推出首款触摸屏MacBook"
-    },
-    {
-     "title": "国家发改委：正在研究制定扩大内需战略实施方案",
-     "link": "http://www.eeo.com.cn/2026/1020/1070360.shtml",
-     "pubDate": "Tue, 20 Oct 2026 11:52:06 +0800",
-     "summary": "中新经纬10月20日电 20日，国家发展改革委召开10月份新闻发布会。国家发展改革委国民经济综合司副司长左刚在发布会上表示，正在研究制定扩大内需战略实施方案(2026-2030年)。 具体来看，左刚介绍，今年以来，内需拉动经济增长的主动力和稳定锚作用持续发挥，前三季度内需对经济增长的贡献率达到74.8%。 消费方面，社会消费商品和服务零售总额同比增长2.6%，其中服务零售额增长5%。商品和服务更加丰富多样，新场景新...",
-     "source": "经济观察网",
-     "zh": "国家发改委：正在研究制定扩大内需战略实施方案"
-    },
-    {
-     "title": "2026年9月CPI、PPI数据点评——能源价格上涨，通胀率小幅上行",
-     "link": "http://www.eeo.com.cn/2026/1020/1070327.shtml",
-     "pubDate": "Tue, 20 Oct 2026 11:33:28 +0800",
-     "summary": "能源价格波动，CPI增速上行；能源价格波动，PPI增速上行；资源争夺叠加供需不匹配问题缓解，2026年价格增速或有上行。",
-     "source": "经济观察网",
-     "zh": "2026年9月CPI、PPI数据点评——能源价格上涨，通胀率小幅上行"
     },
     {
      "title": "不到72小时，DeepSeek和MiniMax双双交卷，Flash集体挑战旗舰",
@@ -2504,14 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia announced planned investments in four German startups as Chancellor Friedrich Merz urged businesses to embrace AI at an industry summit in Berlin.",
      "source": "CNBC",
      "zh": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments"
-    },
-    {
-     "title": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
-     "link": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
-     "pubDate": "Tue, 20 Oct 2026 01:53:34 GMT",
-     "summary": "Vice President JD Vance declined to follow Trump in endorsing Netanyahu, saying he’s “not getting involved in Israeli elections” a week before Israelis vote.",
-     "source": "CNBC",
-     "zh": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise"
     }
    ]
   },

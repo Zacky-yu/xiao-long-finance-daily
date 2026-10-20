@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/21 06:46:33",
+ "generated_at": "2026/10/21 07:00:06",
  "recent_days": 7,
  "industries": [
   {
@@ -113,6 +113,22 @@
      "zh": "The Roadmap to Becoming an AI Product Manager in 2026"
     },
     {
+     "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+     "link": "https://www.qbitai.com/2026/10/504517.html",
+     "pubDate": "Tue, 20 Oct 2026 13:29:54 +0000",
+     "summary": "兔皮底下，竟然是MiniMax！",
+     "source": "量子位",
+     "zh": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价"
+    },
+    {
+     "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+     "link": "https://www.qbitai.com/2026/10/504456.html",
+     "pubDate": "Tue, 20 Oct 2026 12:50:34 +0000",
+     "summary": "把记忆原生焊进Transformer",
+     "source": "量子位",
+     "zh": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」"
+    },
+    {
      "title": "杭州创企连推三款AI母婴硬件，已融资超2亿，拟冲刺港股IPO",
      "link": "https://zhidx.com/p/602691.html",
      "pubDate": "Tue, 20 Oct 2026 20:10:19 +0800",
@@ -153,12 +169,28 @@
      "zh": "Franchisee reconciles cash in 94% less time with ChatGPT Work"
     },
     {
+     "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+     "link": "https://www.qbitai.com/2026/10/504452.html",
+     "pubDate": "Tue, 20 Oct 2026 09:57:35 +0000",
+     "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
+     "source": "量子位",
+     "zh": "比亚迪成为2026年APEC会议官方合作伙伴"
+    },
+    {
      "title": "解气！35万个AI专骗骗子，陪聊装傻套情报，让电诈白干17年",
      "link": "https://zhidx.com/p/602373.html",
      "pubDate": "Tue, 20 Oct 2026 17:15:47 +0800",
      "summary": "智东西（公众号： zhidxcom ） 编译 | 杨京丽 编辑 | 李水青 智东西10月20日消息，据外媒TechCrunch 10月14日报道，澳大利亚AI创企Apate正部署 AI Agent ，让它们 假扮潜在受害者 与诈骗分子交谈，套取诈骗分子的 银行账户、加密货币钱包地址 等信息，帮助银行、电信运营商等机构打击诈骗活动。 Apate披露，其AI Agent已与诈骗分子完成 250万次对话 ，累计消耗对方相当于 17年 的时间，一家合作银行已利用其Agent干扰 22场 诈骗活动。另据外媒WIRED援引Apate创始人兼首席执行官达利·卡法尔（Dali Kaafar）的说法，其平台拥有",
      "source": "智东西",
      "zh": "解气！35万个AI专骗骗子，陪聊装傻套情报，让电诈白干17年"
+    },
+    {
+     "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+     "link": "https://www.qbitai.com/2026/10/504435.html",
+     "pubDate": "Tue, 20 Oct 2026 09:13:14 +0000",
+     "summary": "当地时间10月12日，2026巴黎国际车展正式启幕。",
+     "source": "量子位",
+     "zh": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展"
     },
     {
      "title": "A visit to Samsung’s massive new semiconductor hub",
@@ -185,6 +217,14 @@
      "zh": "“恭喜你把现金流搞成负的！”亚马逊AI基建烧钱内幕曝光"
     },
     {
+     "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+     "link": "https://www.qbitai.com/2026/10/504421.html",
+     "pubDate": "Tue, 20 Oct 2026 08:01:25 +0000",
+     "summary": "最新发布TokenFleet调度框架",
+     "source": "量子位",
+     "zh": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效"
+    },
+    {
      "title": "Cloudflare Releases Clairic, a System One Extraction Model on Workers AI",
      "link": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/",
      "pubDate": "Tue, 20 Oct 2026 07:45:41 +0000",
@@ -193,60 +233,20 @@
      "zh": "Cloudflare Releases Clairic, a System One Extraction Model on Workers AI"
     },
     {
+     "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+     "link": "https://www.qbitai.com/2026/10/504415.html",
+     "pubDate": "Tue, 20 Oct 2026 04:59:04 +0000",
+     "summary": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
+     "source": "量子位",
+     "zh": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑"
+    },
+    {
      "title": "图灵奖得主同台！清华系黑马亮出物理AI王牌，比LeCun早一年",
      "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652736302&idx=1&sn=d35b45735a6a8d2de19fc1fe5fc1e0b8",
      "pubDate": "Tue, 20 Oct 2026 12:38:00 +0800",
      "summary": "",
      "source": "新智元",
      "zh": "图灵奖得主同台！清华系黑马亮出物理AI王牌，比LeCun早一年"
-    },
-    {
-     "title": "马斯克宣布「全民高收入」！ 要捐105亿美元分给「孩子」",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652736302&idx=2&sn=8c90ceb5aa3bf17d8520529ab4ed1695",
-     "pubDate": "Tue, 20 Oct 2026 12:38:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "马斯克宣布「全民高收入」！ 要捐105亿美元分给「孩子」"
-    },
-    {
-     "title": "港科大团队开源「第四大学」：让Agent社群与普通人共同创新",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652736302&idx=3&sn=16b2287f577c6d8405b9a2f48f871341",
-     "pubDate": "Tue, 20 Oct 2026 12:38:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "港科大团队开源「第四大学」：让Agent社群与普通人共同创新"
-    },
-    {
-     "title": "10月28日，苹果或掏出一件“违背祖训”的产品",
-     "link": "https://zhidx.com/p/602393.html",
-     "pubDate": "Tue, 20 Oct 2026 12:00:35 +0800",
-     "summary": "智东西 编译 | 栗子 编辑 | 云鹏 智东西10月20日消息，苹果已向媒体和分析师发出邀请，将于美国洛杉矶当地时间10月28日举办一场名为“Pro and tell”的体验活动。邀请函没有披露具体产品，但多家外媒和分析师均把目光投向同一个方向：苹果首款触屏MacBook Pro。 ▲苹果邀请函（图源：Tech.udn） 如果预期成真，这将意味着苹果对过去公开立场的一次明显调整。苹果曾多次表示不会把iPad和Mac的体验融合在一起，例如据MacRumors等外媒2018年报道，费德里吉在接受《Wired》采访时公开质疑触屏笔记本的人体工学，称“抬起手臂去戳屏幕是相当累人的事”。正因如此，这场发",
-     "source": "智东西",
-     "zh": "10月28日，苹果或掏出一件“违背祖训”的产品"
-    },
-    {
-     "title": "10万亿美国AI基础设施受阻！47个大型数据中心停摆，债务危机要爆发了？",
-     "link": "https://zhidx.com/p/602376.html",
-     "pubDate": "Tue, 20 Oct 2026 11:43:46 +0800",
-     "summary": "智东西（公众号： zhidxcom ） 编译 | 黄菲 编辑 | 江宇 智东西10月20日消息，据英国《金融时报》10月18日报道，美国总规模达 10万亿美元（约合人民币66.9万亿元） 的AI基础设施建设热潮正遭遇现实阻力，2026年以来已有 至少47个 大型数据中心项目被延期、撤回或阻止。 美国AI基建投资规模超过多轮历史基础设施建设高峰，但融资市场正在收紧，全球AI相关债务发行额较6月高点 下降约80%。 ▲美国AI基建投资占GDP比例与AI债务发行额对比，图源：英国《金融时报》 据路透社10月19日报道，标普全球（S&P Global）预计，亚马逊、微软、Alphabet、甲骨文、Me",
-     "source": "智东西",
-     "zh": "10万亿美国AI基础设施受阻！47个大型数据中心停摆，债务危机要爆发了？"
-    },
-    {
-     "title": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
-     "link": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
-     "pubDate": "Tue, 20 Oct 2026 03:32:43 +0000",
-     "summary": "Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6 Luna and Claude Haiku 5.5 on 8 of 12 benchmarks. The post Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second appeared first on Mar",
-     "source": "MarkTechPost",
-     "zh": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second"
-    },
-    {
-     "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-     "link": "https://www.qbitai.com/2026/10/504314.html",
-     "pubDate": "Tue, 20 Oct 2026 01:09:43 +0000",
-     "summary": "OpenAI只掏出一个6.1 Terra…",
-     "source": "量子位",
-     "zh": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本"
     }
    ]
   },
@@ -1308,7 +1308,7 @@
      "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
      "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
      "pubDate": "Tue, 20 Oct 2026 21:18:11 +0000",
-     "summary": "The California launch comes hours after the company reported its second quarter of earnings as a publicly traded company. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:22 p.m. PDT (7:22 p.m. EDT / 2322 UTC).",
+     "summary": "The California launch comes hours after the company reported its second quarter of earnings as a publicly traded company. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 5:06 p.m. PDT (8:06 p.m. EDT / 0006 UTC).",
      "source": "Spaceflight Now",
      "zh": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB"
     },
@@ -1769,6 +1769,22 @@
    "total": 18,
    "items": [
     {
+     "title": "新任 CEO 特纳斯：设计仍是苹果的首要任务，产品也要有奇思妙想",
+     "link": "https://www.ithome.com/1/015/622.htm",
+     "pubDate": "Tue, 20 Oct 2026 22:54:33 GMT",
+     "summary": "IT之家 10 月 21 日消息，昨日（10 月 20 日）接受《时代》（Time）杂志采访时，苹果现任首席执行官约翰 · 特努斯（John Ternus）表示， 设计依然是苹果公司的核心，尊重用户、打造真正有益的产品是“首要任务”。他强调，苹果不会因技术趋势或新角色而改变自己的工作方式。 IT之家附上相关采访视频如下： 特纳斯 25 年前以产品设计团队成员身份加入苹果，在工业设计领域摸爬滚打多年，拥有丰富的设计经验。在采访中，特努斯认为苹果的独特之处在于硬件与软件设计师都理解工程，而工程师也深刻理解设计，这种跨领域协作是苹果产品体验的重要基础。 图源：苹果 在特纳斯看来，“设计就是它如何运作",
+     "source": "IT之家",
+     "zh": "新任 CEO 特纳斯：设计仍是苹果的首要任务，产品也要有奇思妙想"
+    },
+    {
+     "title": "OpenAI 宣布收购 AI 生物科技初创企业 Orchestra Bio",
+     "link": "https://www.ithome.com/1/015/621.htm",
+     "pubDate": "Tue, 20 Oct 2026 22:51:11 GMT",
+     "summary": "IT之家 10 月 21 日消息，OpenAI 于当地时间周二宣布，收购成立四年的人工智能生物科技软件初创企业 Orchestra Bio，相关消息由该公司在官网发布。本次交易的具体条款并未对外披露，但有报道称，截至 2025 年，这家初创公司已从安德里森 · 霍罗威茨（Andreessen Horowitz）、阿特里亚（Atria）和 8VC 等投资方筹集约 2,000 万美元 （IT之家注：现汇率约合 1.34 亿元人民币） 资金。 Orchestra Bio 开发 AI 智能体，助力生物科技企业管理药物研发业务中的各类细碎工作，涵盖资金追踪，以及解决临床试验的排期问题。 OpenAI 表",
+     "source": "IT之家",
+     "zh": "OpenAI 宣布收购 AI 生物科技初创企业 Orchestra Bio"
+    },
+    {
      "title": "SpaceX 2026 财年第三财季归母净利润 44.04 亿美元，同比扭亏为盈",
      "link": "https://www.ithome.com/1/015/617.htm",
      "pubDate": "Tue, 20 Oct 2026 22:37:22 GMT",
@@ -1783,6 +1799,14 @@
      "summary": "Abner Li / 9to5Google : Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature &nbsp; &mdash;&nbsp; Google is beginning to roll out Personal Intelligence for Gemini on Android Auto and Android Auto",
      "source": "Techmeme",
      "zh": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature (Abner Li/9to5Google)"
+    },
+    {
+     "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+     "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+     "pubDate": "Tue, 20 Oct 2026 22:04:54 +0000",
+     "summary": "\"I do think there's a lot of merit to combining the companies.\"",
+     "source": "Ars Technica",
+     "zh": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says"
     },
     {
      "title": "Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation (Dina Bass/Bloomberg)",
@@ -1809,12 +1833,28 @@
      "zh": "Elon Musk says Tesla and SpaceX have formed special committees to discuss a possible merger and calls the possibility of a Tesla-SpaceX merger a \"good idea\" (Andrew J. Hawkins/The Verge)"
     },
     {
+     "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+     "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+     "pubDate": "Tue, 20 Oct 2026 21:44:34 +0000",
+     "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+     "source": "Ars Technica",
+     "zh": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies"
+    },
+    {
      "title": "Eight intermediate TLS certificates from eMudhra with private key sizes of just 3 to 8 bits were compromised; browser makers and major apps have blocked them (Dan Goodin/Ars Technica)",
      "link": "https://www.techmeme.com/261020/p49#a261020p49",
      "pubDate": "Tue, 20 Oct 2026 17:30:01 -0400",
      "summary": "Dan Goodin / Ars Technica : Eight intermediate TLS certificates from eMudhra with private key sizes of just 3 to 8 bits were compromised; browser makers and major apps have blocked them &nbsp; &mdash;&nbsp; Security personnel around the world are on high alert Tuesday following the discovery of eigh",
      "source": "Techmeme",
      "zh": "Eight intermediate TLS certificates from eMudhra with private key sizes of just 3 to 8 bits were compromised; browser makers and major apps have blocked them (Dan Goodin/Ars Technica)"
+    },
+    {
+     "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+     "link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+     "pubDate": "Tue, 20 Oct 2026 21:14:33 +0000",
+     "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+     "source": "Ars Technica",
+     "zh": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix"
     },
     {
      "title": "Super Micro reports preliminary Q1 revenues of $18.5B to $19.5B, vs. $15B est., and gross margins of 12% to 12.5%; SMCI jumps 11%+ after hours (Dina Bass/Bloomberg)",
@@ -1860,7 +1900,7 @@
      "title": "Netflix 2026 财年第三财季归母净利润 36.64 亿美元，同比增长 43.86%",
      "link": "https://www.ithome.com/1/015/618.htm",
      "pubDate": "Tue, 20 Oct 2026 20:06:20 GMT",
-     "summary": "IT之家 10 月 21 日消息，Netflix今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：128.74 亿美元 （IT之家注：现汇率约合 861.75 亿元人民币） ，同比增长 11.8%，环比增长 2.5% 毛利润 ：67.95 亿美元 （现汇率约合 454.84 亿元人民币） ，同比增长 27.11% 毛利率 ：52.78%，同比增长 6.33 个百分点 归母净利润 ：36.64 亿美元 （现汇率约合 245.25 亿元人民币） ，同比增长 43.86%，环比增长 7.72% 经营现金",
+     "summary": "IT之家 10 月 21 日消息，Netflix 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：128.74 亿美元 （IT之家注：现汇率约合 861.75 亿元人民币） ，同比增长 11.8%，环比增长 2.5% 毛利润 ：67.95 亿美元 （现汇率约合 454.84 亿元人民币） ，同比增长 27.11% 毛利率 ：52.78%，同比增长 6.33 个百分点 归母净利润 ：36.64 亿美元 （现汇率约合 245.25 亿元人民币） ，同比增长 43.86%，环比增长 7.72% 经营现",
      "source": "IT之家",
      "zh": "Netflix 2026 财年第三财季归母净利润 36.64 亿美元，同比增长 43.86%"
     },
@@ -1873,42 +1913,18 @@
      "zh": "Gemini's Personal Intelligence is coming to cars"
     },
     {
-     "title": "OpenBSD 8.0 arrives with security record still intact",
-     "link": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
-     "pubDate": "Tue, 20 Oct 2026 19:57:18 +0000",
-     "summary": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests",
-     "source": "Ars Technica",
-     "zh": "OpenBSD 8.0 arrives with security record still intact"
-    },
-    {
      "title": "On AI writing",
      "link": "https://www.bolkunov.com/p/on-ai-writing",
      "pubDate": "Tue, 20 Oct 2026 19:55:11 +0000",
-     "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 69 # Comments: 29",
+     "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 72 # Comments: 35",
      "source": "Hacker News",
      "zh": "On AI writing"
-    },
-    {
-     "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-     "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-     "pubDate": "Tue, 20 Oct 2026 19:47:35 +0000",
-     "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
-     "source": "Ars Technica",
-     "zh": "The Internet goes on high alert after discovery of 8 compromised TLS certs"
-    },
-    {
-     "title": "TP-Link tries to appease Trump admin with pledge to assemble routers in US",
-     "link": "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
-     "pubDate": "Tue, 20 Oct 2026 19:25:14 +0000",
-     "summary": "TP-Link can't sell latest routers in US despite rivals getting FCC approvals.",
-     "source": "Ars Technica",
-     "zh": "TP-Link tries to appease Trump admin with pledge to assemble routers in US"
     },
     {
      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
      "pubDate": "Tue, 20 Oct 2026 18:51:40 +0000",
-     "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 38 # Comments: 13",
+     "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 44 # Comments: 19",
      "source": "Hacker News",
      "zh": "Academics have a duty to defend open knowledge systems like Wikipedia"
     },
@@ -1916,7 +1932,7 @@
      "title": "SimCity, but with Permits",
      "link": "https://permit.petercai.com/",
      "pubDate": "Tue, 20 Oct 2026 18:29:09 +0000",
-     "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 381 # Comments: 211",
+     "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 400 # Comments: 219",
      "source": "Hacker News",
      "zh": "SimCity, but with Permits"
     },
@@ -1924,7 +1940,7 @@
      "title": "Claude designed protein binders against scorpion neurotoxins",
      "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
      "pubDate": "Tue, 20 Oct 2026 17:48:29 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 68 # Comments: 37",
+     "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 70 # Comments: 38",
      "source": "Hacker News",
      "zh": "Claude designed protein binders against scorpion neurotoxins"
     },
@@ -1940,7 +1956,7 @@
      "title": "What shall I teach my son?",
      "link": "https://stevekrouse.com/ends",
      "pubDate": "Tue, 20 Oct 2026 17:25:07 +0000",
-     "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 177 # Comments: 255",
+     "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 187 # Comments: 259",
      "source": "Hacker News",
      "zh": "What shall I teach my son?"
     },
@@ -1948,7 +1964,7 @@
      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
      "link": "https://github.com/google-pytorch/torch_tpu",
      "pubDate": "Tue, 20 Oct 2026 16:40:24 +0000",
-     "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 213 # Comments: 50",
+     "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 217 # Comments: 51",
      "source": "Hacker News",
      "zh": "Google open-sources TorchTPU, a native PyTorch back end for TPUs"
     },
@@ -1991,22 +2007,6 @@
      "summary": "IT之家 10 月 20 日消息，奇妙工具箱今日数据显示， 华为 鸿蒙 HarmonyOS 操作系统装机量突破 9,500 万台 ，目前约 95,288,247 台。 据IT之家此前报道，在今年 3 月的直播中，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东透露，鸿蒙系统用户规模正经历急剧增长， 预计将在今年冬季前突破 1 亿大关 。 另外，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，鸿蒙 HarmonyOS 6 | HarmonyOS 7 终端设备数突破 9000 万。 华为官网披露",
      "source": "IT之家",
      "zh": "1 亿目标近在咫尺：曝华为鸿蒙 HarmonyOS 系统装机量突破 9500 万台"
-    },
-    {
-     "title": "字节阿里腾讯订购了逾 350 亿美元的 RTX PRO 5500 显卡",
-     "link": "https://www.solidot.org/story?sid=85668",
-     "pubDate": "Tue, 20 Oct 2026 23:55:15 +0800",
-     "summary": "字节跳动、阿里巴巴和腾讯已订购超过 300 万个、总值超过 350 亿美元的英伟达 RTX PRO 5500 工作站显卡。英伟达已通知客户和合作伙伴，由于中国科技企业的需求远超所计划的产量，英伟达无法保证能够满足所有订单。英伟达告诉合作伙伴，他们实际能拿到的产品数量，可能仅为所提出数量的 5% 到 10%。英伟达 2027 年全球 RTX PRO 5500 显卡的产量上限为 300 万张。中国客户的订单总量就已超过 600 万张。",
-     "source": "Solidot",
-     "zh": "字节阿里腾讯订购了逾 350 亿美元的 RTX PRO 5500 显卡"
-    },
-    {
-     "title": "华为详解 Wi-Fi 7+ 端到端芯片解决方案，支持动态窄频宽、真双频并发、无缝漫游等技术",
-     "link": "https://www.ithome.com/1/015/613.htm",
-     "pubDate": "Tue, 20 Oct 2026 15:52:46 GMT",
-     "summary": "IT之家 10 月 20 日消息，华为官网迎来更新，详细介绍了 Wi-Fi 7+ 端到端芯片解决方案。 华为官网显示，基于标准 Wi-Fi 7 协议，华为 Wi-Fi 7+ 依⁠托凌霄 760 系列路由与终端芯片，构筑端到端同源架构。通过芯片级底层协⁠议的深度协同与联合调试， 消除异构芯⁠片间的兼容损耗 ，实现“1+1＞2”的性⁠能提升。 其中， 凌霄 760 芯片应用于华为路由 （属于 Wi-Fi 芯片）、 凌霄 760M 芯片应用于华为手机、平板终端设备 （属于短距通信芯片）。 IT之家附华为 Wi-Fi 7+ 技术点如下： 动态窄频宽 路由器和手机的功率存在差异，在穿墙或⁠者远距离时，路",
-     "source": "IT之家",
-     "zh": "华为详解 Wi-Fi 7+ 端到端芯片解决方案，支持动态窄频宽、真双频并发、无缝漫游等技术"
     }
    ]
   },
@@ -2016,6 +2016,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The Android Authority Best of 2026 Awards: All the winners so far!",
+     "link": "https://www.androidauthority.com/android-authority-best-of-2026-awards-3725439/",
+     "pubDate": "Tue, 20 Oct 2026 22:42:01 +0000",
+     "summary": "We spent 2026 testing and reviewing devices here at Android Authority — these are our favorites.",
+     "source": "Android Authority",
+     "zh": "The Android Authority Best of 2026 Awards: All the winners so far!"
+    },
     {
      "title": "Fitbit Edge vs. Fitbit Inspire 3: How these Google fitness trackers compare",
      "link": "https://www.engadget.com/2289183/fitbit-edge-vs-inspire-3-google-fitness-tracker-comparison/",
@@ -2145,14 +2153,6 @@
      "zh": "Sensor Tower: Meta’s Muse app tops 10 million US downloads in 40 days"
     },
     {
-     "title": "Google’s latest health upgrade is sleeping on Fitbit support",
-     "link": "https://www.androidauthority.com/fitbit-edge-air-sleep-breathing-quality-not-supported-3725744/",
-     "pubDate": "Tue, 20 Oct 2026 20:35:35 +0000",
-     "summary": "Even a Google Health Premium subscription won't unlock this missing health insight.",
-     "source": "Android Authority",
-     "zh": "Google’s latest health upgrade is sleeping on Fitbit support"
-    },
-    {
      "title": "Android 17 QPR3 Beta 2 for Pixel rolling out with 21 fixes",
      "link": "https://9to5google.com/2026/10/20/android-17-qpr3-beta-2-pixel/",
      "pubDate": "Tue, 20 Oct 2026 20:31:34 +0000",
@@ -2265,20 +2265,76 @@
    "total": 13,
    "items": [
     {
+     "title": "【读财报】微导纳米：拟定增募资49.44亿元 半导体设备在手订单近27亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202610213901780634.html",
+     "pubDate": "Wed, 21 Oct 2026 06:45:29 +0800",
+     "summary": "新华财经北京10月21日电近日， 微导纳米 披露2026年度向特定对象发行A股股票预案，拟募资不超过49.44亿元，其中32.25亿元投向尖端薄膜沉积技术研发中心项目，7.29亿元、2.89亿元分别用于无锡及华中两个产业化项目，另有7亿元补充流动资金。 微导纳米 半导体 设备业务正处于快速放量阶段，2025年 半导体 设备收入8.81亿元，同比增长169.12%。2026年6月末在手订单达26.98亿元，但2026年上半年归母净利润1.02亿元，同比下降46.74%。 拟定增募资49.44亿元研发中心项目独占32亿元 根据预案，本次发行对象为不超过35名特定投资者，发行价格不低于定价基准日前2",
+     "source": "东方财富股票",
+     "zh": "【读财报】微导纳米：拟定增募资49.44亿元 半导体设备在手订单近27亿元"
+    },
+    {
+     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
+     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "pubDate": "Tue, 20 Oct 2026 22:45:00 GMT",
+     "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
+     "source": "MarketWatch",
+     "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful"
+    },
+    {
+     "title": "中信重工三项主导项目获2026年度机械工业科学技术奖",
+     "link": "http://finance.eastmoney.com/news/1354,202610213901780773.html",
+     "pubDate": "Wed, 21 Oct 2026 06:43:48 +0800",
+     "summary": "上证报中国证券网讯（记者王乔琪） 中信重工 10月20日晚间公告，近日，中国机械工业联合会、中国机械工程学会发布《关于表彰2026年度“机械工业科学技术奖”奖励项目的通报》， 中信重工 参与完成的项目被列入2026年度“机械工业科学技术奖”授奖项目目录。其中，公司主导的“面向深部开采的安全高效提升系统关键技术及应用”“大型高效盘式过滤装备关键技术及产业化”“大型海上风电基础及施工装备研制与应用”项目分别获得一等奖、二等奖、三等奖。 “机械工业科学技术奖”是经国家科技奖励主管部门批准，由中国机械工业联合会和中国机械工程学会共同设立的面向全国机械行业的 综合 性科技奖项，授予在技术发明和促进科学技",
+     "source": "东方财富股票",
+     "zh": "中信重工三项主导项目获2026年度机械工业科学技术奖"
+    },
+    {
+     "title": "奇瑞发布垂类基础大模型CheryMind和紫微芯片",
+     "link": "http://finance.eastmoney.com/news/1354,202610213901780844.html",
+     "pubDate": "Wed, 21 Oct 2026 06:43:47 +0800",
+     "summary": "上证报中国证券网讯（记者俞立严）10月20日，以“Change·改变”为主题的2026奇瑞全球创新大会在芜湖奇瑞全球技术创新中心开幕。 奇瑞汽车 董事长尹同跃表示，进入瑶光2035战略阶段，奇瑞的高科技产业生态集群要具备全生命周期的电动化、高度协同的智能化、全球视野的品牌向上、深度融入的国际化、开放共生的生态化五个特征。 尹同跃介绍，作为最早布局AI的 汽车 企业之一，奇瑞已经进行了长达20余年的AI技术研发，并以 汽车 产业为基石，将AI 汽车 的通用技术复用到墨甲人形 机器人 、Robotaxi、eVTOL、能源、农机等千行百业，带动AI向物理世界全面延伸。 奇瑞汽车 执行副总裁、CTO高",
+     "source": "东方财富股票",
+     "zh": "奇瑞发布垂类基础大模型CheryMind和紫微芯片"
+    },
+    {
+     "title": "平等协商才是化解中欧分歧正途",
+     "link": "http://fund.eastmoney.com/news/11383,202610213901771758.html",
+     "pubDate": "Wed, 21 Oct 2026 06:43:12 +0800",
+     "summary": "据媒体报道，欧盟一些人称，欧方在混动 汽车 磋商中对华施压取得成效，拟在更多行业采取限制。近日召开的欧盟峰会更是提出对华“双轨”思路，妄称将在继续开展密集磋商的同时，加大对华限制力度，甚至包括动用“反胁迫”工具。 所谓“欧方施压奏效”的说法，错误解读了中欧达成谅解的基础。对华“双轨”思路不利于双方积累互信、推进合作，绝不是推动中欧经贸合作的应有之道。 中欧就混动 汽车 达成的谅解，是双方通过对等磋商形成的互利安排。磋商按照双方确定的遵守世贸组织规则、基于事实和非歧视三项原则进行，体现的是相互尊重、求同存异的精神。有关谅解避免了中欧贸易摩擦升级，维护了企业正常经营预期，体现了中国解决问题的诚意，",
+     "source": "东方财富股票",
+     "zh": "平等协商才是化解中欧分歧正途"
+    },
+    {
+     "title": "日本与俄罗斯官员于周二会晤 就多项当前议题展开沟通",
+     "link": "http://finance.eastmoney.com/news/1351,202610213901780522.html",
+     "pubDate": "Wed, 21 Oct 2026 06:42:48 +0800",
+     "summary": "日本与俄罗斯官员于周二会晤，就多项当前议题展开沟通。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "日本与俄罗斯官员于周二会晤 就多项当前议题展开沟通"
+    },
+    {
+     "title": "跨境碳交易试点破题 券商碳交易版图扩张",
+     "link": "http://finance.eastmoney.com/news/1354,202610213901741676.html",
+     "pubDate": "Wed, 21 Oct 2026 06:42:29 +0800",
+     "summary": "港交所近期宣布，旗下Core Climate促成的深圳碳排放配额交易结算跨境试点计划已顺利完成。上海证券报记者注意到， 国泰海通 证券、 华泰证券 、 中金公司 境外子公司CICC Commodity Trading Limited作为首批机构参与结算。受访专家认为，此次试点的最大价值在于跑通跨境 碳交易 的结算流程，同时也为券商业务进一步拓展了边界。但跨境 碳交易 发展中的 数据安全 、税务适用等问题仍值得关注。 券商碳金融业务持续推进 此次试点中， 国泰海通 证券、 华泰证券 、 中金公司 境外子公司CICC Commodity Trading Limited作为首批机构参与结算。 国泰海",
+     "source": "东方财富股票",
+     "zh": "跨境碳交易试点破题 券商碳交易版图扩张"
+    },
+    {
+     "title": "AI“造药”实验刷屏！生命科学下游需求爆发 概念股迎多重催化(名单)",
+     "link": "http://stock.eastmoney.com/news/11791,202610213901779398.html",
+     "pubDate": "Wed, 21 Oct 2026 06:40:57 +0800",
+     "summary": "网红研究机构借AI设计出可结合蝎毒的蛋白质，药物设计周期被大幅压缩。生命科学下游的湿实验验证与试剂需求随之升温。 网红机构Citrini用AI设计出抗蝎毒蛋白 财联社10月20日报道，网红研究机构Citrini Research披露了一项跨界实验：其分析师团队借助Anthropic的内部研究模型，成功设计出可结合蝎毒的蛋白质。该实验设定20万美元预算，5名参与者中有3人完全没有科学背景。8月，团队向Claude提交约35页提示词，模型在一夜之间启动超过300个子智能体、调用超过300块并行GPU，完成蛋白质设计、评分与筛选；随后送交Twist Bioscience进行合成的211个设计中，有1",
+     "source": "东方财富资讯",
+     "zh": "AI“造药”实验刷屏！生命科学下游需求爆发 概念股迎多重催化(名单)"
+    },
+    {
      "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
      "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
      "pubDate": "Tue, 20 Oct 2026 22:37:00 GMT",
      "summary": "Super Micro unexpectedly disclosed that its revenue and profitability could be much stronger than originally anticipated.",
      "source": "MarketWatch",
      "zh": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally"
-    },
-    {
-     "title": "美股收盘：三大指数涨跌不一 道指大涨 纳指微跌；存储芯片股下跌 SK海力士跌超2%；科技股多数下跌 生物医药股齐涨 Moderna涨超6%",
-     "link": "http://stock.eastmoney.com/news/1438,202610213901778113.html",
-     "pubDate": "Wed, 21 Oct 2026 06:36:09 +0800",
-     "summary": "美东时间10月20日，美股三大指数表现分化，截至收盘，道指涨1.02%，纳指跌0.02%，标普500指数涨0.28%。 大型科技股多数收跌， 微软 跌0.31%， 英伟达 跌0.29%， 苹果 跌1.00%，谷歌跌1.11%，脸书跌1.59%， 特斯拉 涨1.54%， 亚马逊 涨0.07%。 费城 半导体 指数跌0.29%， 博通 跌0.07%， 英特尔 跌0.37%， 超威半导体 跌0.62%， 阿斯麦 跌0.99%，ARM跌3.07%。 安森美半导体 、 恩智浦半导体 涨超3%， 高通 涨1.26%， 台积电 涨1.21%。 存储概念股下跌， SK海力士 跌超2%， 闪迪 跌0.42%， ",
-     "source": "东方财富股票",
-     "zh": "美股收盘：三大指数涨跌不一 道指大涨 纳指微跌；存储芯片股下跌 SK海力士跌超2%；科技股多数下跌 生物医药股齐涨 Moderna涨超6%"
     },
     {
      "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
@@ -2289,14 +2345,6 @@
      "zh": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger"
     },
     {
-     "title": "特朗普政府因对加拿大商品征收50%关税遭起诉",
-     "link": "http://finance.eastmoney.com/news/1351,202610213901777475.html",
-     "pubDate": "Wed, 21 Oct 2026 06:31:53 +0800",
-     "summary": "特朗普政府因对一系列加拿大商品征收50%关税而遭到起诉。这是最新一起诉讼，广泛指控总统试图通过行使本属国会的征税权来推进其贸易议程。 这起周二提起的诉讼发生在美加贸易争端持续之际。起诉的食品进口企业认为，特朗普总统无权援引一部此前从未被使用过的美国法律条款对加拿大征收关税，并称这反映出本届政府一系列涉嫌违法的关税行动。 （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "特朗普政府因对加拿大商品征收50%关税遭起诉"
-    },
-    {
      "title": "美伊“妥协方案”搅动市场，原油走V，道指冲高回落涨1%，盘后SpaceX涨近7%",
      "link": "https://wallstreetcn.com/articles/3783983",
      "pubDate": "Wed, 21 Oct 2026 06:31:30 +0800",
@@ -2305,36 +2353,12 @@
      "zh": "美伊“妥协方案”搅动市场，原油走V，道指冲高回落涨1%，盘后SpaceX涨近7%"
     },
     {
-     "title": "【环球财经】伦敦股市20日下跌",
-     "link": "http://stock.eastmoney.com/news/1438,202610213901777991.html",
-     "pubDate": "Wed, 21 Oct 2026 06:31:05 +0800",
-     "summary": "新华财经伦敦10月20日电（记者赵小娜）英国伦敦股市《金融时报》100种股票平均价格指数20日报收于10733.00点，较前一交易日下跌31.69点，跌幅为0.29%。欧洲三大股指当天全线下跌。 当天伦敦股市成分股中位于涨幅前五位的个股分别为：邦瑞地产股价上涨3.91%，市场征信服务商益博睿股价上涨2.72%，豪登细木工集团股价上涨2.52%，能源供应商SSE股价上涨1.96%， 英国国家电网 公司股价上涨1.77%。 当天伦敦股市成分股中位于跌幅前五位的个股分别为：工业用品供应商Diploma股价下跌4.04%，金融衍生品交易服务商IG集团股价下跌2.90%，供应链服务商邦兹尔股价下跌2.8",
-     "source": "东方财富股票",
-     "zh": "【环球财经】伦敦股市20日下跌"
-    },
-    {
-     "title": "早读｜发改委：以更实举措扩内需 加大直达消费者政策力度",
-     "link": "http://finance.eastmoney.com/news/1346,202610213901777765.html",
-     "pubDate": "Wed, 21 Oct 2026 06:31:02 +0800",
-     "summary": "早上好！上观新闻『早读』来啦！今天是2026年10月21日星期三，农历九月十二。 § 昨日今晨 央企满百 ｜10月20日，国家数据集团有限公司在河北 雄安新区 揭牌亮相。中央企业数量由此达到100家。这家新央企的成立填补了数据领域国资主体的空白，也标志着我国 数据要素 市场化配置迈出关键一步。据悉，国家数据集团将牵头搭建平台统筹数据资源开发利用。 更实举措 ｜国家发展改革委20日表示，将会同有关部门，以更大力度、更实举措有效扩大内需。统筹促就业、增收入、稳预期，合理提高公共服务支出占财政支出比重，加大直达消费者的普惠政策力度。完善扩大内需体制机制，促进供需高效畅通循环。出台全国 统一大市场 建",
-     "source": "东方财富股票",
-     "zh": "早读｜发改委：以更实举措扩内需 加大直达消费者政策力度"
-    },
-    {
      "title": "光伏硅料龙头25亿购入锂电资产",
      "link": "http://finance.eastmoney.com/news/1354,202610203901574055.html",
      "pubDate": "Wed, 21 Oct 2026 06:30:17 +0800",
      "summary": "硅料龙头 协鑫科技 (03800.HK)加快布局“第二曲线”。 10月19日晚， 协鑫科技 公告称，拟收购协鑫集团持有的四川协鑫 锂 电科技有限公司(下称协鑫 锂 电）约81.91%股权。 协鑫集团也为 协鑫科技 的控股股东，持股约16%。本次交易构成同一控制下的资产注入。 根据公告，交易对价初步估计为25亿元，其中现金部分约6.5亿元，以配发新股支付的股份部分约18.5亿元。交易完成后，协鑫 锂 电将成为协鑫科技非全资附属公司并表。 这是协鑫科技今年5月宣布从“颗粒硅单项冠军”转向“全球化多产品 新能源 材料平台”以来，首次从控股股东体系内大规模注入成熟锂电资产。 协鑫科技是全球最大颗粒硅生",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "光伏硅料龙头25亿购入锂电资产"
-    },
-    {
-     "title": "“真干活”才能有“真数据”！图灵奖得主一句话 点中了这家企业的“真功夫”",
-     "link": "http://finance.eastmoney.com/news/1360,202610213901777878.html",
-     "pubDate": "Wed, 21 Oct 2026 06:30:03 +0800",
-     "summary": "10月20日，2026物理AI与世界模型大会召开。 大会期间，睿尔曼智能科技（江苏）有限公司联合江苏经睿智能科技有限公司、常州大学、 中国移动 通信 集团江苏有限公司常州分公司共同申报的“工业场景具身智能真实作业真机高质量数据集建设项目”，入选“2026年江苏省高质量数据集建设重点项目名单（物理AI与世界模型方向）”。 在大会主旨演讲中，图灵奖得主、中国科学院院士姚期智指出： “真问题推动模型进步。” 这一判断与睿尔曼智能的实践路径相契合——只有让 机器人 真正进入真实场景“真干活”，才能遇到真实世界中的“真问题”；只有持续面对并解决“真问题”，才能推动模型不断迭代、持续进步。 成为物理AI真",
-     "source": "东方财富股票",
-     "zh": "“真干活”才能有“真数据”！图灵奖得主一句话 点中了这家企业的“真功夫”"
     },
     {
      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
@@ -2393,6 +2417,14 @@
      "zh": "AI眼镜行业迈向成长期 18只概念股获机构密集调研"
     },
     {
+     "title": "全球市场：美股三大指数涨跌不一 道指涨超1% 生物制药与减肥药板块领涨",
+     "link": "http://stock.eastmoney.com/news/11784,202610213901763292.html",
+     "pubDate": "Wed, 21 Oct 2026 06:15:40 +0800",
+     "summary": "美股市场： 美股三大指数10月20日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日上涨529.85点，收于52495.88点，涨幅为1.02%； 标准普尔 500种股票指数上涨21.84点，收于7712.57点，涨幅为0.28%； 纳斯达克 综合 指数下跌6.07点，收于26424.82点，跌幅为0.02%。 “科技七巨头”涨跌不一。 特斯拉 涨1.54%，受物理AI与 机器人 量产预期升温带动； 亚马逊 涨0.07%，公司宣布2027年在德国投资超160亿欧元覆盖云与AI基础设施； 苹果 跌1.00%、谷歌跌1.13%、Meta跌1.59%、 微软 跌0.31%、 英伟达 跌0.29",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数涨跌不一 道指涨超1% 生物制药与减肥药板块领涨"
+    },
+    {
      "title": "U.S. crude stockpiles fell 4.9M barrels last week, API says",
      "link": "https://seekingalpha.com/news/4654966-u-s-crude-stockpiles-fell-4_9m-barrels-last-week-api-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 20 Oct 2026 18:05:23 -0400",
@@ -2433,14 +2465,6 @@
      "zh": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster"
     },
     {
-     "title": "澜起科技三季度净利大增 看好四季度互连类芯片需求进一步提升",
-     "link": "http://finance.eastmoney.com/news/1354,202610203901719120.html",
-     "pubDate": "Wed, 21 Oct 2026 05:58:25 +0800",
-     "summary": "10月20日， 澜起科技 公告称，预计2026年第三季度实现营业收入约20.79亿元，同比增长约46.0%、环比增长约10.9%；实现归属于上市公司股东的净利润12亿元至13亿元，同比增长153.6%至174.7%、环比增长4.3%至13.0%。 谈及业绩变动的原因， 澜起科技 表示，今年以来，随着AI推理及Agent应用快速发展，服务器CPU需求持续增长，并进一步带动内存模组及内存互连芯片整体需求量上行。2026年第三季度，公司DDR5内存接口及模组配套芯片出货量大幅增加，DDR5第三、第四、第五子代RCD芯片出货占比进一步提升，推动公司经营业绩同比大幅增长。 值得注意的是，2026年第三季",
-     "source": "东方财富资讯",
-     "zh": "澜起科技三季度净利大增 看好四季度互连类芯片需求进一步提升"
-    },
-    {
      "title": "Novo's CagriSema leads to 25% weight loss in women",
      "link": "https://seekingalpha.com/news/4654968-novos-cagrisema-leads-25-percent-weight-loss-women?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 20 Oct 2026 17:57:20 -0400",
@@ -2465,22 +2489,6 @@
      "zh": "Western Alliance projects 11%-12% net interest income growth as deposit optimization target rises to at least $5b"
     },
     {
-     "title": "章建平大举增持！云南锗业：扣非净利大增7209%",
-     "link": "http://finance.eastmoney.com/news/1354,202610203901532426.html",
-     "pubDate": "Wed, 21 Oct 2026 05:53:34 +0800",
-     "summary": "身处有色行业的 云南锗业 进入了景气周期。 10月20日晚间， 云南锗业 （002428）公告，2026年第三季度营业收入6.32亿元，同比增长134.61%；归母净利润1.02亿元，同比增长2642.24%。 前三季度，公司营业收入13.64亿元，同比增长70.71%；归母净利润1.76亿元，同比增长869.79%；扣非净利润1.63亿元，同比增长7209.21%。 对于业绩增长的原因， 云南锗业 表示有三个方面：一是本期下游AI 数据中心 、光 通信 等市场需求大幅增加，使得磷化铟等化合物 半导体 材料销量同比增加；二是本期按合同约定交付前期签订的待履约合同使得材料级锗产品销量同比增加；三",
-     "source": "东方财富资讯",
-     "zh": "章建平大举增持！云南锗业：扣非净利大增7209%"
-    },
-    {
-     "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
-     "link": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
-     "pubDate": "Tue, 20 Oct 2026 21:47:00 GMT",
-     "summary": "Some analysts question whether people will actually take advantage of Walmart’s new bundle, and how easy it is to make sense of the benefits.",
-     "source": "MarketWatch",
-     "zh": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?"
-    },
-    {
      "title": "GAP expects ~7% Mexico tariff increase in January, targets ~95% maximum tariff compliance",
      "link": "https://seekingalpha.com/news/4654967-gap-expects-7-percent-mexico-tariff-increase-in-january-targets-95-percent-maximum-tariff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 20 Oct 2026 17:45:03 -0400",
@@ -2495,14 +2503,6 @@
      "summary": "奈飞第三季度盈利超出市场预期，但营收增长持续减速，广告业务未达预期，第四季度业绩指引也低于分析师预测。随着内容吸引力和用户参与度受到质疑，奈飞正通过管理层调整、拓展直播和游戏等业务寻找新的增长动力。 周二奈飞公布2026年第三季度财报，营收同比增长11.8%至128.74亿美元，符合公司此前预期；净利润同比增长约43.8%至36.64亿美元，摊薄后每股收益为0.87美元，高于分析师平均预期的0.82美元。 不过， 公司预计第四季度营收将达到134亿美元，营收同比增速将进一步降至11.5%，连续第四个季度放缓。预计第四季度净利润为27.87亿美元，摊薄后每股收益为0.67美元，均低于分析师平均预",
      "source": "华尔街见闻",
      "zh": "奈飞大跌！业绩指引不及预期，预计营收增速四连降，广告收入下修3亿美元｜财报见闻"
-    },
-    {
-     "title": "Finnish president hails progress in talks about ending Russia’s war in Ukraine",
-     "link": "https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1",
-     "pubDate": "Tue, 20 Oct 2026 21:30:25 GMT",
-     "summary": "Volodymyr Zelenskyy participates in discussions in Oslo that also involve Donald Trump’s envoy",
-     "source": "Financial Times",
-     "zh": "Finnish president hails progress in talks about ending Russia’s war in Ukraine"
     }
    ]
   },

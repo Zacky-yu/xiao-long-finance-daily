@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/21 06:29:03",
+ "generated_at": "2026/10/21 06:46:33",
  "recent_days": 7,
  "industries": [
   {
@@ -306,12 +306,28 @@ window.INDUSTRY_DATA = {
      "zh": "Ascent partners with Darley to expand thin-film solar product access across defense and government markets"
     },
     {
+     "title": "Innodisk’s DDR5 8000 RDIMM addresses edge AI",
+     "link": "https://www.electronicsweekly.com/news/products/memory/innodisks-ddr5-8000-rdimm-addresses-edge-ai-2026-10/",
+     "pubDate": "Tue, 20 Oct 2026 15:03:32 +0000",
+     "summary": "Innodisk is expanding its DDR5 portfolio with 8000 RDIMM for compute-intensive applications, such as edge AI and enterprise servers. As the name indicates, the modules deliver data transfer speeds of […] The post Innodisk’s DDR5 8000 RDIMM addresses edge AI appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Innodisk’s DDR5 8000 RDIMM addresses edge AI"
+    },
+    {
      "title": "Who Gets to Move the Recipe? How Autonomous Agents Earn Decision Authority in the Fab",
      "link": "https://semiwiki.com/eda/375060-who-gets-to-move-the-recipe-how-autonomous-agents-earn-decision-authority-in-the-fab/",
      "pubDate": "Tue, 20 Oct 2026 15:00:53 +0000",
      "summary": "by Ajay Kumar Govindaram There’s a question I’ve started asking at every agentic AI demo I sit through, and it has a clean answer in every fab on earth: who is allowed to change the recipe? In a semiconductor factory, that was settled decades ago. A person doesn’t touch a production recipe because t",
      "source": "SemiWiki",
      "zh": "Who Gets to Move the Recipe? How Autonomous Agents Earn Decision Authority in the Fab"
+    },
+    {
+     "title": "Foreigners buying US shares for AI bet",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/markets/foreigners-buying-us-shares-for-ai-bet-2026-10/",
+     "pubDate": "Tue, 20 Oct 2026 13:26:35 +0000",
+     "summary": "Foreign buying of US shares has increased sharply in the last four years, according to the IMF. The figures published in the IMF Global Financial Stability Report this October are […] The post Foreigners buying US shares for AI bet appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Foreigners buying US shares for AI bet"
     },
     {
      "title": "Smoothing the Quantum Path: ASML and Xanadu Target Photon Loss",
@@ -336,6 +352,22 @@ window.INDUSTRY_DATA = {
      "summary": "NUBURU Inc of Centennial, CO, USA (a dual-use defense & security integrated platform company) has received a public warning letter from NYSE Regulation on behalf of NYSE American LLC...",
      "source": "Semiconductor Today",
      "zh": "NUBURU receives NYSE American warning letter regarding disclosure requirements"
+    },
+    {
+     "title": "UK Space Agency makes grant call for Emissions Monitoring",
+     "link": "https://www.electronicsweekly.com/news/business/uk-space-agency-makes-grant-call-for-emissions-monitoring-2026-10/",
+     "pubDate": "Tue, 20 Oct 2026 11:29:01 +0000",
+     "summary": "The UK Space Agency (UKSA) is making another grant call under its Unlocking Space for Business (USB) programme, with funding of up to £2 million available to UK-based companies. It […] The post UK Space Agency makes grant call for Emissions Monitoring appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "UK Space Agency makes grant call for Emissions Monitoring"
+    },
+    {
+     "title": "The rise of MEMS switches in electronics",
+     "link": "https://www.electronicsweekly.com/news/business/the-rise-of-mems-switches-in-electronics-2026-10/",
+     "pubDate": "Tue, 20 Oct 2026 11:00:09 +0000",
+     "summary": "When voltage is applied, the beam touches the substrate. The MEMS switch turns on MEMS switches are gaining popularity in AI-driven optical networks, datacentres and other areas, and are considered […] The post The rise of MEMS switches in electronics appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "The rise of MEMS switches in electronics"
     },
     {
      "title": "Chris Lattner: AI Code Generation Doesn’t Solve Software Engineering",
@@ -376,6 +408,22 @@ window.INDUSTRY_DATA = {
      "summary": "TPCA Show 2026 officially opened, with Unimicron Chairman Shan-Chieh Chien saying in his opening address that solving the three major challenges facing AI accelerators in high-performance computing (HPC) will require more than semiconductor process scaling. Advanced packaging and heterogeneous integ",
      "source": "DIGITIMES",
      "zh": "Unimicron chairman sees substrate sizes reaching 14x current scale by 2030"
+    },
+    {
+     "title": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/site-update/get-mannerisms-gadget-master-daily-weekly-newsletter-form-2026-10/",
+     "pubDate": "Tue, 20 Oct 2026 09:48:02 +0000",
+     "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
+    },
+    {
+     "title": "DigiKey scales distribution centre for 50% company growth",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/digikey-scales-distribution-centre-for-50-company-growth-2026-10/",
+     "pubDate": "Tue, 20 Oct 2026 09:46:07 +0000",
+     "summary": "DigiKey is investing $100 million over the next 18 months to scale its global product distribution centre (PDC) and order management system (OMS). The investment is to keep pace with […] The post DigiKey scales distribution centre for 50% company growth appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "DigiKey scales distribution centre for 50% company growth"
     },
     {
      "title": "Jensen Huang urges Germany to embrace physical AI at Berlin summit",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Marktech Optoelectronics Inc of Latham, NY, USA and its device manufacturing partner Optrans have expanded their portfolio of four-channel indium gallium arsenide (InGaAs) PIN photodiodes for optical systems requiring both infrared detection and positional information. Combining conventional 1.7µm-c",
      "source": "Semiconductor Today",
      "zh": "Marktech and Optrans expand quad InGaAs PIN photodiode portfolio from 1.7µm to 2.6µm"
-    },
-    {
-     "title": "Moving Beyond AI-Assisted Design – Agentrys Shows the Way with Agentic Loop Engineering",
-     "link": "https://semiwiki.com/eda/agentrys/375112-agentrys-shows-the-way-with-agentic-loop-engineering/",
-     "pubDate": "Mon, 19 Oct 2026 17:00:27 +0000",
-     "summary": "At Hot Chips 2026, OpenAI presented Jalapeño, an inference ASIC built with AI in the design loop. As reported from the session by ServeTheHome and Tom’s Hardware , OpenAI showed measured block-level wins over a human baseline — 56% on a BF16 multiply, alongside a 10% smaller matrix-unit area — withi",
-     "source": "SemiWiki",
-     "zh": "Moving Beyond AI-Assisted Design – Agentrys Shows the Way with Agentic Loop Engineering"
-    },
-    {
-     "title": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC)",
-     "link": "https://semiengineering.com/agentic-ai-explores-heterogeneous-chip-and-interconnect-architectures-argonne-uiuc/",
-     "pubDate": "Mon, 19 Oct 2026 16:02:46 +0000",
-     "summary": "Researchers at Argonne National Laboratory and the University of Illinois Urbana-Champaign published a technical paper titled “Agentic AI for Heterogeneous System Design Across Chip, Scale-Up, and Scale-Out Domains.” Abstract Excerpt: “The design space of modern AI/HPC systems has expanded rapidly a",
-     "source": "Semiconductor Engineering",
-     "zh": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC)"
-    },
-    {
-     "title": "Breaking The Memory Bottleneck In AI And HPC SoCs",
-     "link": "https://semiengineering.com/breaking-the-memory-bottleneck-in-ai-and-hpc-socs/",
-     "pubDate": "Mon, 19 Oct 2026 07:03:19 +0000",
-     "summary": "Opimizing embedded memory IP for RibbonFET and PowerVia. The post Breaking The Memory Bottleneck In AI And HPC SoCs appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Breaking The Memory Bottleneck In AI And HPC SoCs"
-    },
-    {
-     "title": "Why Physical AI Is So Hard To Engineer",
-     "link": "https://semiengineering.com/why-physical-ai-is-so-hard-to-engineer/",
-     "pubDate": "Mon, 19 Oct 2026 07:01:53 +0000",
-     "summary": "Integrating sensors, compute, and actuators into autonomous systems adds new challenges for chip design. The post Why Physical AI Is So Hard To Engineer appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why Physical AI Is So Hard To Engineer"
-    },
-    {
-     "title": "Shift-Left DE-Via",
-     "link": "https://semiengineering.com/shift-left-de-via/",
-     "pubDate": "Mon, 19 Oct 2026 07:01:16 +0000",
-     "summary": "Calibre-aware, short-resilient via insertion for signoff-ready physical design. The post Shift-Left DE-Via appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Shift-Left DE-Via"
-    },
-    {
-     "title": "Nanoelectromechanical Switches Target More Efficient Embedded DRAM (UC Berkeley, Samsung, Intel)",
-     "link": "https://semiengineering.com/nanoelectromechanical-switches-target-more-efficient-embedded-dram-uc-berkeley-samsung-intel/",
-     "pubDate": "Sun, 18 Oct 2026 23:28:31 +0000",
-     "summary": "Researchers at the UC Berkeley, Samsung Electronics, and Intel published “Nanoelectromechanically Gated Gain Cell eDRAM.” Abstract Excerpt: “The memory wall and the slowdown of static random access memory (SRAM) scaling have renewed interest in gain-cell embedded dynamic random access memory (DRAM).",
-     "source": "Semiconductor Engineering",
-     "zh": "Nanoelectromechanical Switches Target More Efficient Embedded DRAM (UC Berkeley, Samsung, Intel)"
     }
    ]
   },
@@ -505,6 +505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "Why Your Robot’s Power Supply is the Real Bottleneck",
+     "link": "https://roboticsandautomationnews.com/2026/10/20/why-your-robots-power-supply-is-the-real-bottleneck/106146/",
+     "pubDate": "Tue, 20 Oct 2026 22:29:55 +0000",
+     "summary": "Last year a warehouse robotics team I worked with spent eleven weeks chasing a bug that turned out to be a voltage sag. Their AMR kept stalling on a specific stretch of concrete near a charging dock. Software logs looked clean. Their lead engineer finally put a scope on the motor rail and watched a ",
+     "source": "Robotics & Automation",
+     "zh": "Why Your Robot’s Power Supply is the Real Bottleneck"
+    },
     {
      "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
      "link": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
@@ -584,14 +592,6 @@ window.INDUSTRY_DATA = {
      "summary": "It often feels like the more deadlines compress and documentation piles stack up, the longer code reviews take. These days, demand is stronger than ever, and the expectation that you can do it faster than ever means that the promise of AI assistance sitting right there in a browser tab is hard to re",
      "source": "Robotics & Automation",
      "zh": "How AI Confidentiality Gaps Are Becoming a Liability for Robotics Firms"
-    },
-    {
-     "title": "What Are the Most Common Mistakes Sales Teams Make When Using B2B Lead Generation Tools on LinkedIn?",
-     "link": "https://roboticsandautomationnews.com/2026/10/20/what-are-the-most-common-mistakes-sales-teams-make-when-using-b2b-lead-generation-tools-on-linkedin/106115/",
-     "pubDate": "Tue, 20 Oct 2026 11:17:05 +0000",
-     "summary": "The problem of unsuccessful LinkedIn lead generation is often not with the technology being used but rather with a decent technology used poorly. LinkedIn has managed to automate things to the point where even an average sales team is able to work with it on a large scale, but large-scale use of poo",
-     "source": "Robotics & Automation",
-     "zh": "What Are the Most Common Mistakes Sales Teams Make When Using B2B Lead Generation Tools on LinkedIn?"
     },
     {
      "title": "Gecko Robotics secures $300M contract with the U.S. Navy",
@@ -901,7 +901,7 @@ window.INDUSTRY_DATA = {
      "title": "Georgia electric cooperative plans 50-MW home battery deployment",
      "link": "https://www.utilitydive.com/news/georgia-electric-cooperative-plans-50-mw-home-battery-deployment/833492/",
      "pubDate": "Tue, 20 Oct 2026 12:58:27 -0400",
-     "summary": "Central Georgia Electric Membership Corp. plans to use the batteries to reduce system peaks and energy costs as hyperscale data centers seek to connect to its grid.",
+     "summary": "Central Georgia Electric Membership Corporation plans to use the batteries to reduce system peaks and energy costs as hyperscale data centers seek to connect to its grid.",
      "source": "Utility Dive",
      "zh": "Georgia electric cooperative plans 50-MW home battery deployment"
     },
@@ -1298,10 +1298,18 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says",
+     "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
+     "pubDate": "Tue, 20 Oct 2026 22:29:46 +0000",
+     "summary": "SpaceX will try to recover both Starship stages during the megarocket's next test flight, which is expected to take place in November, according to Elon Musk.",
+     "source": "Space.com",
+     "zh": "SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says"
+    },
+    {
      "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
      "link": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
      "pubDate": "Tue, 20 Oct 2026 21:18:11 +0000",
-     "summary": "The California launch comes hours after the company reported its second quarter of earnings as a publicly traded company. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:10 p.m. PDT (7:10 p.m. EDT / 2310 UTC).",
+     "summary": "The California launch comes hours after the company reported its second quarter of earnings as a publicly traded company. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 4:22 p.m. PDT (7:22 p.m. EDT / 2322 UTC).",
      "source": "Spaceflight Now",
      "zh": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB"
     },
@@ -1400,14 +1408,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA De",
      "source": "NASA",
      "zh": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory"
-    },
-    {
-     "title": "The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026",
-     "link": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026",
-     "pubDate": "Tue, 20 Oct 2026 14:00:00 +0000",
-     "summary": "If you were approaching the edge of a spiral galaxy, arriving from afar through the cosmos, it might look something like this.",
-     "source": "Space.com",
-     "zh": "The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026"
     },
     {
      "title": "Red light, white light: How to preserve your night vision while using stargazing apps",
@@ -1770,6 +1770,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "SpaceX 2026 财年第三财季归母净利润 44.04 亿美元，同比扭亏为盈",
+     "link": "https://www.ithome.com/1/015/617.htm",
+     "pubDate": "Tue, 20 Oct 2026 22:37:22 GMT",
+     "summary": "IT之家 10 月 21 日消息，SpaceX 今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：145.75 亿美元 （IT之家注：现汇率约合 975.6 亿元人民币） ，同比增长 161%，环比增长 86.52% 毛利润 ：90.97 亿美元 （现汇率约合 608.92 亿元人民币） ，同比增长 216.86% 毛利率 ：62.42%，同比增长 10.93 个百分点 归母净利润 ：44.04 亿美元 （现汇率约合 294.79 亿元人民币） ，上年同期净亏损 10.54 亿美元 （现汇率约合 ",
+     "source": "IT之家",
+     "zh": "SpaceX 2026 财年第三财季归母净利润 44.04 亿美元，同比扭亏为盈"
+    },
+    {
+     "title": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature (Abner Li/9to5Google)",
+     "link": "https://www.techmeme.com/261020/p53#a261020p53",
+     "pubDate": "Tue, 20 Oct 2026 18:30:04 -0400",
+     "summary": "Abner Li / 9to5Google : Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature &nbsp; &mdash;&nbsp; Google is beginning to roll out Personal Intelligence for Gemini on Android Auto and Android Auto",
+     "source": "Techmeme",
+     "zh": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature (Abner Li/9to5Google)"
+    },
+    {
      "title": "Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation (Dina Bass/Bloomberg)",
      "link": "https://www.techmeme.com/261020/p52#a261020p52",
      "pubDate": "Tue, 20 Oct 2026 18:00:01 -0400",
@@ -1808,14 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "Dina Bass / Bloomberg : Super Micro reports preliminary Q1 revenues of $18.5B to $19.5B, vs. $15B est., and gross margins of 12% to 12.5%; SMCI jumps 11%+ after hours &nbsp; &mdash;&nbsp; Super Micro Computer Inc. jumped in late trading after reporting preliminary quarterly results that topped analy",
      "source": "Techmeme",
      "zh": "Super Micro reports preliminary Q1 revenues of $18.5B to $19.5B, vs. $15B est., and gross margins of 12% to 12.5%; SMCI jumps 11%+ after hours (Dina Bass/Bloomberg)"
-    },
-    {
-     "title": "SpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B (Becky Peterson/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261020/p47#a261020p47",
-     "pubDate": "Tue, 20 Oct 2026 16:55:01 -0400",
-     "summary": "Becky Peterson / Wall Street Journal : SpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B &nbsp; &mdash;&nbsp; Artificial intelligence revenue surges around 830% while capital spending on data center build-out an",
-     "source": "Techmeme",
-     "zh": "SpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B (Becky Peterson/Wall Street Journal)"
     },
     {
      "title": "A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)",
@@ -1877,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "On AI writing",
      "link": "https://www.bolkunov.com/p/on-ai-writing",
      "pubDate": "Tue, 20 Oct 2026 19:55:11 +0000",
-     "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 63 # Comments: 25",
+     "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 69 # Comments: 29",
      "source": "Hacker News",
      "zh": "On AI writing"
     },
@@ -1901,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
      "pubDate": "Tue, 20 Oct 2026 18:51:40 +0000",
-     "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 34 # Comments: 8",
+     "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 38 # Comments: 13",
      "source": "Hacker News",
      "zh": "Academics have a duty to defend open knowledge systems like Wikipedia"
     },
@@ -1909,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "SimCity, but with Permits",
      "link": "https://permit.petercai.com/",
      "pubDate": "Tue, 20 Oct 2026 18:29:09 +0000",
-     "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 365 # Comments: 196",
+     "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 381 # Comments: 211",
      "source": "Hacker News",
      "zh": "SimCity, but with Permits"
     },
@@ -1917,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "Claude designed protein binders against scorpion neurotoxins",
      "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
      "pubDate": "Tue, 20 Oct 2026 17:48:29 +0000",
-     "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 65 # Comments: 34",
+     "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 68 # Comments: 37",
      "source": "Hacker News",
      "zh": "Claude designed protein binders against scorpion neurotoxins"
     },
@@ -1933,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "What shall I teach my son?",
      "link": "https://stevekrouse.com/ends",
      "pubDate": "Tue, 20 Oct 2026 17:25:07 +0000",
-     "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 167 # Comments: 245",
+     "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 177 # Comments: 255",
      "source": "Hacker News",
      "zh": "What shall I teach my son?"
     },
@@ -1941,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
      "link": "https://github.com/google-pytorch/torch_tpu",
      "pubDate": "Tue, 20 Oct 2026 16:40:24 +0000",
-     "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 209 # Comments: 50",
+     "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 213 # Comments: 50",
      "source": "Hacker News",
      "zh": "Google open-sources TorchTPU, a native PyTorch back end for TPUs"
     },
@@ -2000,14 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 20 日消息，华为官网迎来更新，详细介绍了 Wi-Fi 7+ 端到端芯片解决方案。 华为官网显示，基于标准 Wi-Fi 7 协议，华为 Wi-Fi 7+ 依⁠托凌霄 760 系列路由与终端芯片，构筑端到端同源架构。通过芯片级底层协⁠议的深度协同与联合调试， 消除异构芯⁠片间的兼容损耗 ，实现“1+1＞2”的性⁠能提升。 其中， 凌霄 760 芯片应用于华为路由 （属于 Wi-Fi 芯片）、 凌霄 760M 芯片应用于华为手机、平板终端设备 （属于短距通信芯片）。 IT之家附华为 Wi-Fi 7+ 技术点如下： 动态窄频宽 路由器和手机的功率存在差异，在穿墙或⁠者远距离时，路",
      "source": "IT之家",
      "zh": "华为详解 Wi-Fi 7+ 端到端芯片解决方案，支持动态窄频宽、真双频并发、无缝漫游等技术"
-    },
-    {
-     "title": "消息称引望、宁德时代首批换电车型暂定五款，计划 2027 年上市",
-     "link": "https://www.ithome.com/1/015/610.htm",
-     "pubDate": "Tue, 20 Oct 2026 15:34:31 GMT",
-     "summary": "IT之家 10 月 20 日消息，华为乾崑智能汽车解决方案昨日宣布， 引望与宁德时代、时代电服开展智能换电合作，打造乾崑智驾完整智能充换电生态 ，引望智能技术有限公司与宁德时代新能源科技股份有限公司、时代电服科技有限公司将就新能源汽车智能换电生态开展全面合作。 据晚点 Auto 报道，引望与宁德时代、时代电服合作正推进首批车型的开发， 涉及五款新车，计划 2027 年上市 。报道还提到，在向引望方面求证时，对方转述了三方战略合作协议的核心内容，即合作的动机和目标，但并未对上述信息置评。 另据《财联社》今日报道，华为引望与宁德时代“巧克力”换电合作的首款车型计划于 2027 年推出， 奕境品牌首",
-     "source": "IT之家",
-     "zh": "消息称引望、宁德时代首批换电车型暂定五款，计划 2027 年上市"
     }
    ]
   },
@@ -2017,6 +2017,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Fitbit Edge vs. Fitbit Inspire 3: How these Google fitness trackers compare",
+     "link": "https://www.engadget.com/2289183/fitbit-edge-vs-inspire-3-google-fitness-tracker-comparison/",
+     "pubDate": "Tue, 20 Oct 2026 22:30:00 +0000",
+     "summary": "Google's latest tracker is a middle ground between a simple tracker and full smartwatch.",
+     "source": "Engadget",
+     "zh": "Fitbit Edge vs. Fitbit Inspire 3: How these Google fitness trackers compare"
+    },
     {
      "title": "Apple expands partnerships with American suppliers for the iPhone Duo and iPhone 18 Pro",
      "link": "https://www.gsmarena.com/apple_expands_partnerships_with_american_suppliers_for_the_iphone_duo_and_iphone_18_pro-news-75136.php",
@@ -2170,14 +2178,6 @@ window.INDUSTRY_DATA = {
      "zh": "Apple’s ‘Designers of Tomorrow’ highlights creative projects from emerging designers"
     },
     {
-     "title": "Meta suspends Muse chats sharing feature after it left private details exposed",
-     "link": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/",
-     "pubDate": "Tue, 20 Oct 2026 20:00:43 +0000",
-     "summary": "Researchers accessed 6,800 shared conversations with the AI agent, including internal company documents.",
-     "source": "Engadget",
-     "zh": "Meta suspends Muse chats sharing feature after it left private details exposed"
-    },
-    {
      "title": "Google upgrading Gemini for Android Auto with Personal Intelligence",
      "link": "https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/",
      "pubDate": "Tue, 20 Oct 2026 20:00:00 +0000",
@@ -2266,12 +2266,132 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "美伊“妥协方案”搅动市场，道指涨1%，纳指基本收平，美元走软",
+     "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+     "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+     "pubDate": "Tue, 20 Oct 2026 22:37:00 GMT",
+     "summary": "Super Micro unexpectedly disclosed that its revenue and profitability could be much stronger than originally anticipated.",
+     "source": "MarketWatch",
+     "zh": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally"
+    },
+    {
+     "title": "美股收盘：三大指数涨跌不一 道指大涨 纳指微跌；存储芯片股下跌 SK海力士跌超2%；科技股多数下跌 生物医药股齐涨 Moderna涨超6%",
+     "link": "http://stock.eastmoney.com/news/1438,202610213901778113.html",
+     "pubDate": "Wed, 21 Oct 2026 06:36:09 +0800",
+     "summary": "美东时间10月20日，美股三大指数表现分化，截至收盘，道指涨1.02%，纳指跌0.02%，标普500指数涨0.28%。 大型科技股多数收跌， 微软 跌0.31%， 英伟达 跌0.29%， 苹果 跌1.00%，谷歌跌1.11%，脸书跌1.59%， 特斯拉 涨1.54%， 亚马逊 涨0.07%。 费城 半导体 指数跌0.29%， 博通 跌0.07%， 英特尔 跌0.37%， 超威半导体 跌0.62%， 阿斯麦 跌0.99%，ARM跌3.07%。 安森美半导体 、 恩智浦半导体 涨超3%， 高通 涨1.26%， 台积电 涨1.21%。 存储概念股下跌， SK海力士 跌超2%， 闪迪 跌0.42%， ",
+     "source": "东方财富股票",
+     "zh": "美股收盘：三大指数涨跌不一 道指大涨 纳指微跌；存储芯片股下跌 SK海力士跌超2%；科技股多数下跌 生物医药股齐涨 Moderna涨超6%"
+    },
+    {
+     "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+     "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+     "pubDate": "Tue, 20 Oct 2026 22:33:00 GMT",
+     "summary": "Special committees at both companies are assessing merger prospects but a combination is no sure thing, Musk says.",
+     "source": "MarketWatch",
+     "zh": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger"
+    },
+    {
+     "title": "特朗普政府因对加拿大商品征收50%关税遭起诉",
+     "link": "http://finance.eastmoney.com/news/1351,202610213901777475.html",
+     "pubDate": "Wed, 21 Oct 2026 06:31:53 +0800",
+     "summary": "特朗普政府因对一系列加拿大商品征收50%关税而遭到起诉。这是最新一起诉讼，广泛指控总统试图通过行使本属国会的征税权来推进其贸易议程。 这起周二提起的诉讼发生在美加贸易争端持续之际。起诉的食品进口企业认为，特朗普总统无权援引一部此前从未被使用过的美国法律条款对加拿大征收关税，并称这反映出本届政府一系列涉嫌违法的关税行动。 （文章来源：华尔街见闻）",
+     "source": "东方财富股票",
+     "zh": "特朗普政府因对加拿大商品征收50%关税遭起诉"
+    },
+    {
+     "title": "美伊“妥协方案”搅动市场，原油走V，道指冲高回落涨1%，盘后SpaceX涨近7%",
      "link": "https://wallstreetcn.com/articles/3783983",
-     "pubDate": "Wed, 21 Oct 2026 06:23:16 +0800",
+     "pubDate": "Wed, 21 Oct 2026 06:31:30 +0800",
      "summary": "伊朗与美国谈判的妥协方案传闻一度令油价大幅跳水，股债金与比特币同步走高；伊朗方面随后否认协议临近，油价收回多数失地。AI融资担忧全天压制科技与AI基建股。 周二，美股收盘涨跌互现，标普500指数上涨0.28%，纳指横盘微跌0.02%。罗素2000指数上涨1.66%领跑，费城半导体指数下跌0.29%。 标普500十一大板块九涨两跌，医疗板块上涨2.34%、房地产板块上涨1.69%领涨，通信服务板块下跌0.89%、科技板块下跌0.34%垫底；礼来上涨3.49%且盘中创历史新高，安进上涨3.29%。 美股盘后，纳指期货涨1%。英特尔涨4%，美光科技、AMD、英伟达至少涨2.2%，台积电、甲骨文、特斯",
      "source": "华尔街见闻",
-     "zh": "美伊“妥协方案”搅动市场，道指涨1%，纳指基本收平，美元走软"
+     "zh": "美伊“妥协方案”搅动市场，原油走V，道指冲高回落涨1%，盘后SpaceX涨近7%"
+    },
+    {
+     "title": "【环球财经】伦敦股市20日下跌",
+     "link": "http://stock.eastmoney.com/news/1438,202610213901777991.html",
+     "pubDate": "Wed, 21 Oct 2026 06:31:05 +0800",
+     "summary": "新华财经伦敦10月20日电（记者赵小娜）英国伦敦股市《金融时报》100种股票平均价格指数20日报收于10733.00点，较前一交易日下跌31.69点，跌幅为0.29%。欧洲三大股指当天全线下跌。 当天伦敦股市成分股中位于涨幅前五位的个股分别为：邦瑞地产股价上涨3.91%，市场征信服务商益博睿股价上涨2.72%，豪登细木工集团股价上涨2.52%，能源供应商SSE股价上涨1.96%， 英国国家电网 公司股价上涨1.77%。 当天伦敦股市成分股中位于跌幅前五位的个股分别为：工业用品供应商Diploma股价下跌4.04%，金融衍生品交易服务商IG集团股价下跌2.90%，供应链服务商邦兹尔股价下跌2.8",
+     "source": "东方财富股票",
+     "zh": "【环球财经】伦敦股市20日下跌"
+    },
+    {
+     "title": "早读｜发改委：以更实举措扩内需 加大直达消费者政策力度",
+     "link": "http://finance.eastmoney.com/news/1346,202610213901777765.html",
+     "pubDate": "Wed, 21 Oct 2026 06:31:02 +0800",
+     "summary": "早上好！上观新闻『早读』来啦！今天是2026年10月21日星期三，农历九月十二。 § 昨日今晨 央企满百 ｜10月20日，国家数据集团有限公司在河北 雄安新区 揭牌亮相。中央企业数量由此达到100家。这家新央企的成立填补了数据领域国资主体的空白，也标志着我国 数据要素 市场化配置迈出关键一步。据悉，国家数据集团将牵头搭建平台统筹数据资源开发利用。 更实举措 ｜国家发展改革委20日表示，将会同有关部门，以更大力度、更实举措有效扩大内需。统筹促就业、增收入、稳预期，合理提高公共服务支出占财政支出比重，加大直达消费者的普惠政策力度。完善扩大内需体制机制，促进供需高效畅通循环。出台全国 统一大市场 建",
+     "source": "东方财富股票",
+     "zh": "早读｜发改委：以更实举措扩内需 加大直达消费者政策力度"
+    },
+    {
+     "title": "光伏硅料龙头25亿购入锂电资产",
+     "link": "http://finance.eastmoney.com/news/1354,202610203901574055.html",
+     "pubDate": "Wed, 21 Oct 2026 06:30:17 +0800",
+     "summary": "硅料龙头 协鑫科技 (03800.HK)加快布局“第二曲线”。 10月19日晚， 协鑫科技 公告称，拟收购协鑫集团持有的四川协鑫 锂 电科技有限公司(下称协鑫 锂 电）约81.91%股权。 协鑫集团也为 协鑫科技 的控股股东，持股约16%。本次交易构成同一控制下的资产注入。 根据公告，交易对价初步估计为25亿元，其中现金部分约6.5亿元，以配发新股支付的股份部分约18.5亿元。交易完成后，协鑫 锂 电将成为协鑫科技非全资附属公司并表。 这是协鑫科技今年5月宣布从“颗粒硅单项冠军”转向“全球化多产品 新能源 材料平台”以来，首次从控股股东体系内大规模注入成熟锂电资产。 协鑫科技是全球最大颗粒硅生",
+     "source": "东方财富股票",
+     "zh": "光伏硅料龙头25亿购入锂电资产"
+    },
+    {
+     "title": "“真干活”才能有“真数据”！图灵奖得主一句话 点中了这家企业的“真功夫”",
+     "link": "http://finance.eastmoney.com/news/1360,202610213901777878.html",
+     "pubDate": "Wed, 21 Oct 2026 06:30:03 +0800",
+     "summary": "10月20日，2026物理AI与世界模型大会召开。 大会期间，睿尔曼智能科技（江苏）有限公司联合江苏经睿智能科技有限公司、常州大学、 中国移动 通信 集团江苏有限公司常州分公司共同申报的“工业场景具身智能真实作业真机高质量数据集建设项目”，入选“2026年江苏省高质量数据集建设重点项目名单（物理AI与世界模型方向）”。 在大会主旨演讲中，图灵奖得主、中国科学院院士姚期智指出： “真问题推动模型进步。” 这一判断与睿尔曼智能的实践路径相契合——只有让 机器人 真正进入真实场景“真干活”，才能遇到真实世界中的“真问题”；只有持续面对并解决“真问题”，才能推动模型不断迭代、持续进步。 成为物理AI真",
+     "source": "东方财富股票",
+     "zh": "“真干活”才能有“真数据”！图灵奖得主一句话 点中了这家企业的“真功夫”"
+    },
+    {
+     "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+     "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+     "pubDate": "Tue, 20 Oct 2026 22:30:00 GMT",
+     "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+     "source": "MarketWatch",
+     "zh": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?"
+    },
+    {
+     "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+     "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+     "pubDate": "Tue, 20 Oct 2026 22:30:00 GMT",
+     "summary": "Streaming service cites “intense competition’ and acknowledges ‘some investor concern about our view hours growth.”",
+     "source": "MarketWatch",
+     "zh": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock"
+    },
+    {
+     "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+     "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+     "pubDate": "Tue, 20 Oct 2026 22:29:45 GMT",
+     "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes",
+     "source": "CNBC",
+     "zh": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance"
+    },
+    {
+     "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+     "pubDate": "Tue, 20 Oct 2026 22:27:00 GMT",
+     "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+     "source": "MarketWatch",
+     "zh": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?"
+    },
+    {
+     "title": "Neste says European Union should ease restrictions on biofuel feedstocks",
+     "link": "https://seekingalpha.com/news/4654971-neste-says-european-union-should-ease-restrictions-on-biofuel-feedstocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 20 Oct 2026 18:26:05 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Neste says European Union should ease restrictions on biofuel feedstocks"
+    },
+    {
+     "title": "科创浪潮奔涌山城",
+     "link": "http://www.eeo.com.cn/2026/1021/1071351.shtml",
+     "pubDate": "Wed, 21 Oct 2026 06:26:04 +0800",
+     "summary": "未来产业万千新形态，正在加载……10月21日，2026世界科技与发展论坛盛启山城，汇集全球科创智慧，共赴一场科创协同演化之约，畅想未来产业新生态。",
+     "source": "经济观察网",
+     "zh": "科创浪潮奔涌山城"
+    },
+    {
+     "title": "AI眼镜行业迈向成长期 18只概念股获机构密集调研",
+     "link": "http://finance.eastmoney.com/news/1354,202610213901748443.html",
+     "pubDate": "Wed, 21 Oct 2026 06:20:58 +0800",
+     "summary": "AI眼镜 正处于由产品验证向快速放量过渡的关键阶段，科技巨头争相布局 AI眼镜 业务，机构预计该行业2025—2030年复合增速约60%。 10月20日，万得 AI眼镜 主题指数上涨2.50%，但该指数今年以来累计下跌9.61%。 长盈精密 当日收获20%涨停，公司身兼AI眼镜、人形 机器人 、 AI手机 、 液冷服务器 、储能等多个市场热门题材。 前9个月AI眼镜销售额增长1.1倍 商务部商务 大数据 显示，今年1—9月，重点平台智能眼镜销售额增长1.1倍。 人工智能 、 物联网 、 区块链 等新技术，在消费领域广泛应用，科技创新日益成为推动消费扩容升级的重要动力。尽管AI可穿戴设备仍处于发",
+     "source": "东方财富资讯",
+     "zh": "AI眼镜行业迈向成长期 18只概念股获机构密集调研"
     },
     {
      "title": "U.S. crude stockpiles fell 4.9M barrels last week, API says",
@@ -2378,132 +2498,12 @@ window.INDUSTRY_DATA = {
      "zh": "奈飞大跌！业绩指引不及预期，预计营收增速四连降，广告收入下修3亿美元｜财报见闻"
     },
     {
-     "title": "Alcon acquires Neurotech Pharmaceuticals",
-     "link": "https://seekingalpha.com/news/4654962-alcon-acquires-neurotech-pharmaceuticals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 20 Oct 2026 17:41:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alcon acquires Neurotech Pharmaceuticals"
-    },
-    {
      "title": "Finnish president hails progress in talks about ending Russia’s war in Ukraine",
      "link": "https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1",
      "pubDate": "Tue, 20 Oct 2026 21:30:25 GMT",
      "summary": "Volodymyr Zelenskyy participates in discussions in Oslo that also involve Donald Trump’s envoy",
      "source": "Financial Times",
      "zh": "Finnish president hails progress in talks about ending Russia’s war in Ukraine"
-    },
-    {
-     "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-     "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-     "pubDate": "Tue, 20 Oct 2026 21:30:06 GMT",
-     "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes",
-     "source": "CNBC",
-     "zh": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance"
-    },
-    {
-     "title": "马斯克：SpaceX与特斯拉已成立委员会以讨论合并事宜",
-     "link": "http://finance.eastmoney.com/news/1354,202610213901765554.html",
-     "pubDate": "Wed, 21 Oct 2026 05:24:43 +0800",
-     "summary": "马斯克称 特斯拉 与 SpaceX 合并并非板上钉钉，股东得支持， 特斯拉 和Spacex合并有很多优点。马斯克表示， SpaceX 与 特斯拉 已成立委员会以讨论合并事宜。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "马斯克：SpaceX与特斯拉已成立委员会以讨论合并事宜"
-    },
-    {
-     "title": "全球市场：美股三大指数涨跌不一 道指涨超1% 生物制药与减肥药板块领涨",
-     "link": "http://stock.eastmoney.com/news/11784,202610213901763292.html",
-     "pubDate": "Wed, 21 Oct 2026 05:15:40 +0800",
-     "summary": "美股市场： 美股三大指数10月20日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日上涨529.85点，收于52495.88点，涨幅为1.02%； 标准普尔 500种股票指数上涨21.84点，收于7712.57点，涨幅为0.28%； 纳斯达克 综合 指数下跌6.07点，收于26424.82点，跌幅为0.02%。 “科技七巨头”涨跌不一。 特斯拉 涨1.54%，受物理AI与 机器人 量产预期升温带动； 亚马逊 涨0.07%，公司宣布2027年在德国投资超160亿欧元覆盖云与AI基础设施； 苹果 跌1.00%、谷歌跌1.13%、Meta跌1.59%、 微软 跌0.31%、 英伟达 跌0.29",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数涨跌不一 道指涨超1% 生物制药与减肥药板块领涨"
-    },
-    {
-     "title": "超微电脑Q1初步业绩营收爆表！超预期增长27%，盘后股价飙涨11%",
-     "link": "https://wallstreetcn.com/articles/3784070",
-     "pubDate": "Wed, 21 Oct 2026 05:04:25 +0800",
-     "summary": "超微电脑发布初步业务数据，一季度营收指引远超分析师预期，显示AI基础设施投资热潮仍在持续升温。 超微电脑周二发布2027财年第一季度初步业绩更新， 预计营收区间为185亿至195亿美元，大幅高于此前140亿至155亿美元的指引，增长主要由AI平台需求上升驱动。 相比之下，据路孚特（LSEG）数据，分析师此前平均预期为152.3亿美元，实际预期区间中值较市场一致预期高出约27%。 公司定于11月3日美东时间下午5时举行财季业绩电话会议。消息公布后，盘后超微电脑大涨11%。 营收远超指引，AI需求成核心驱动力 超微电脑将本季度营收超预期的主要原因归结为AI平台需求显著增加。 本财季截至2026年9",
-     "source": "华尔街见闻",
-     "zh": "超微电脑Q1初步业绩营收爆表！超预期增长27%，盘后股价飙涨11%"
-    },
-    {
-     "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
-     "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
-     "pubDate": "Tue, 20 Oct 2026 20:57:00 GMT",
-     "summary": "Research can prove a lot of facts, but that doesn’t mean it changes how people act.",
-     "source": "MarketWatch",
-     "zh": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway"
-    },
-    {
-     "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
-     "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-     "pubDate": "Tue, 20 Oct 2026 20:54:00 GMT",
-     "summary": "Streaming service cites “intense competition’ and acknowledges ‘some investor concern about our view hours growth.”",
-     "source": "MarketWatch",
-     "zh": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock"
-    },
-    {
-     "title": "美国人工智能事务主管：负责任开发AI的建议将很快发布",
-     "link": "https://wallstreetcn.com/articles/3784065",
-     "pubDate": "Wed, 21 Oct 2026 04:53:53 +0800",
-     "summary": "美国国家情报总监兼人工智能事务主管Jay Clayton表示，AI工作组有关负责任开发AI的建议将“很快”公布。 周二，Clayton在接受CNBC采访时，被问及何时会提出有关AI的建议，他表示：“我们会陆续提出”，不过他补充称，无法承诺一个确切的日期。 10月16日，特朗普政府新设的AI特别工作组召开首次会议，确立运作框架，并启动多项具体工作机制。该工作组正式运作期限为120天。 工作组由Jay Clayton牵头，核心成员还包括人事管理局局长Scott Kupor、联邦贸易委员会主席Andrew Ferguson，以及国防部技术负责人Emil Michael。 在首次会议上，工作组确立了三",
-     "source": "华尔街见闻",
-     "zh": "美国人工智能事务主管：负责任开发AI的建议将很快发布"
-    },
-    {
-     "title": "美企起诉特朗普对加拿大征收50%关税，援引大萧条时代法律遭质疑",
-     "link": "https://wallstreetcn.com/articles/3784063",
-     "pubDate": "Wed, 21 Oct 2026 04:51:18 +0800",
-     "summary": "新泽西食品进口商Gellert Global Group周二对特朗普政府提起诉讼，挑战其依据一部近百年前立法对加拿大商品征收50%关税的合法性。 这是继最高法院今年2月推翻特朗普\"对等关税\"之后，同一法律团队发起的又一轮司法攻势。 诉讼由自由正义中心（Liberty Justice Center）代理提交至美国国际贸易法院，要求法院宣告相关关税违法、叫停执行，并责令特朗普政府退还已缴纳税款及利息。 被诉关税自8月22日起正式生效，适用于加拿大曲棍球棒、葡萄酒、蜂蜜、假发及奶酪等多类商品。 此案的背后是更广泛的贸易政策不确定性。自由正义中心此前成功在最高法院推翻特朗普\"对等关税\"，迫使联邦政府退",
-     "source": "华尔街见闻",
-     "zh": "美企起诉特朗普对加拿大征收50%关税，援引大萧条时代法律遭质疑"
-    },
-    {
-     "title": "Anthropic备战IPO：上半年净亏损超过807亿美元，总算力承诺支出将超6000亿美元",
-     "link": "https://wallstreetcn.com/articles/3784062",
-     "pubDate": "Wed, 21 Oct 2026 04:50:52 +0800",
-     "summary": "Anthropic正以前所未有的速度烧钱扩张算力，同时加速推进其潜在的史上最大规模IPO。 10月20日，据《华尔街日报》援引Anthropic IPO招股说明书草稿报道， 这家AI初创公司2026年上半年净亏损超过807亿美元 ，其中720亿美元来自与可转换票据及其他融资工具估值变动相关的会计计提，较去年同期130亿美元的净亏损大幅扩大。 与此同时，该公司今年上半年营收达163亿美元，第三季度营收环比增长45%至168亿美元。 Anthropic在算力上的豪赌规模同样令市场瞩目。据华尔街日报报道， 该公司总算力承诺支出将超过6000亿美元，未来十年在算力相关协议上的承诺支出合计逾5180亿美",
-     "source": "华尔街见闻",
-     "zh": "Anthropic备战IPO：上半年净亏损超过807亿美元，总算力承诺支出将超6000亿美元"
-    },
-    {
-     "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-     "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-     "pubDate": "Tue, 20 Oct 2026 20:45:00 GMT",
-     "summary": "Unlike bear-market bottoms, which typically end with a spasm of despair as traders throw in the towel, bull-market tops are far more gradual and less dramatic.",
-     "source": "MarketWatch",
-     "zh": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next"
-    },
-    {
-     "title": "The Social Security Administration corrected millions of records, and says there’s more to fix",
-     "link": "https://www.marketwatch.com/story/the-social-security-administration-corrected-millions-of-records-and-says-theres-more-to-fix-e57185bd?mod=mw_rss_topstories",
-     "pubDate": "Tue, 20 Oct 2026 20:26:00 GMT",
-     "summary": "In an effort to thwart fraud, the Social Security Administration said it has fixed millions of records and is working on correcting millions more.",
-     "source": "MarketWatch",
-     "zh": "The Social Security Administration corrected millions of records, and says there’s more to fix"
-    },
-    {
-     "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-     "link": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-     "pubDate": "Tue, 20 Oct 2026 20:23:58 GMT",
-     "summary": "United Airlines cut its profit outlook for the year as fuel prices continued to climb.",
-     "source": "CNBC",
-     "zh": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares"
-    },
-    {
-     "title": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
-     "link": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories",
-     "pubDate": "Tue, 20 Oct 2026 19:35:00 GMT",
-     "summary": "For years, artificial-intelligence evangelists have boasted about the technology’s capacity to revolutionize drug development and medical research.",
-     "source": "MarketWatch",
-     "zh": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis."
-    },
-    {
-     "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-     "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-     "pubDate": "Tue, 20 Oct 2026 19:28:43 GMT",
-     "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
-     "source": "CNBC",
-     "zh": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes"
     }
    ]
   },
@@ -2513,6 +2513,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Will Tesla's 'flying car' ever hit the market, or is it a load of compressed air?",
+     "link": "https://www.livescience.com/technology/will-teslas-flying-car-ever-hit-the-market-or-is-it-a-load-of-compressed-air",
+     "pubDate": "Tue, 20 Oct 2026 22:32:17 +0000",
+     "summary": "Tesla just demonstrated a type of hover car. Live Science asks its readers whether they believe this type of technology will be widely available in five years.",
+     "source": "Live Science",
+     "zh": "Will Tesla's 'flying car' ever hit the market, or is it a load of compressed air?"
+    },
     {
      "title": "The ocean’s most abundant “loner” microbe has a sticky second life",
      "link": "https://news.mit.edu/2026/oceans-most-abundant-loner-microbe-has-sticky-second-life-1020",
@@ -2616,14 +2624,6 @@ window.INDUSTRY_DATA = {
      "summary": "The head of ESA's Earth observation program tells Live Science why a striking image of a recent heat wave scorching Southern Europe gives her hope that we can properly monitor ‪— and eventually prevent ‪— similar extreme weather events in the future.",
      "source": "Live Science",
      "zh": "'It makes me feel that we can do a lot about it': ESA official shares striking satellite snap of Europe's record-breaking summer heat waves"
-    },
-    {
-     "title": "'We used to go to the climate conferences together. We are not anymore': ESA official Simonetta Cheli tells us how the political landscape for Earth observation is changing",
-     "link": "https://www.livescience.com/planet-earth/we-used-to-go-to-the-climate-conferences-together-we-are-not-anymore-esa-official-simonetta-cheli-tells-us-how-the-political-landscape-for-earth-observation-is-changing",
-     "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
-     "summary": "Live Science sat down with the European Space Agency's Simonetta Cheli to discuss the importance of Earth observation, how NASA budget cuts have changed the picture, and how the proliferation of private satellites could hinder our ability to view the planet.",
-     "source": "Live Science",
-     "zh": "'We used to go to the climate conferences together. We are not anymore': ESA official Simonetta Cheli tells us how the political landscape for Earth observation is changing"
     },
     {
      "title": "AI can give you your voice back",

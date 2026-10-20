@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/20 14:11:58",
+ "generated_at": "2026/10/20 14:32:07",
  "recent_days": 7,
  "industries": [
   {
@@ -857,6 +857,14 @@
    "total": 9,
    "items": [
     {
+     "title": "JinkoSolar unveils 510 W rooftop solar module with 25.5% efficiency, 40-year warranty",
+     "link": "https://www.pv-magazine.com/2026/10/20/jinkosolar-unveils-510-w-rooftop-solar-module-with-25-5-efficiency-40-year-warranty/",
+     "pubDate": "Tue, 20 Oct 2026 06:21:38 +0000",
+     "summary": "JinkoSolar has introduced a 510 W all-black residential solar module based on its new TAC cell technology. The dual-glass panel features a reported efficiency of 25.52%, a power density of approximately 255 W/m² and a 40-year product and performance warranty. The post JinkoSolar unveils 510 W roofto",
+     "source": "pv magazine",
+     "zh": "JinkoSolar unveils 510 W rooftop solar module with 25.5% efficiency, 40-year warranty"
+    },
+    {
      "title": "China proposes stricter efficiency standards for solar manufacturers",
      "link": "https://www.pv-magazine.com/2026/10/20/china-proposes-stricter-efficiency-standards-for-solar-manufacturers/",
      "pubDate": "Tue, 20 Oct 2026 05:59:38 +0000",
@@ -1087,14 +1095,6 @@
      "summary": "The skilled worker shortage was one of the key discussions from solar manufacturers at last week's PV CellTech USA Conference.",
      "source": "PV Tech",
      "zh": "Maintaining and expanding workforce central for US PV manufacturers at PV CellTech USA"
-    },
-    {
-     "title": "India’s ACME Solar signs 300 MW/1,200 MWh PPA at $0.063/kWh",
-     "link": "https://www.pv-magazine.com/2026/10/19/acme-solar-signs-ppa-with-seci-for-300-mw-1200-mwh-fdre-project-at-inr-6-kwh/",
-     "pubDate": "Mon, 19 Oct 2026 12:37:19 +0000",
-     "summary": "Under the terms of the agreement, ACME Solar will deliver 300 MW/1,200 MWh of assured peak power supply through a firm and dispatchable renewable energy (FDRE) project combining solar and storage technologies. The post India’s ACME Solar signs 300 MW/1,200 MWh PPA at $0.063/kWh appeared first on pv ",
-     "source": "pv magazine",
-     "zh": "India’s ACME Solar signs 300 MW/1,200 MWh PPA at $0.063/kWh"
     }
    ]
   },
@@ -1777,20 +1777,60 @@
    "total": 18,
    "items": [
     {
-     "title": "微星 5 热管无光风冷 PRO COREFROZR AR13 在售，99 元",
-     "link": "https://www.ithome.com/1/015/275.htm",
-     "pubDate": "Tue, 20 Oct 2026 06:08:37 GMT",
-     "summary": "IT之家 10 月 20 日消息，微星 (MSI) 现已在电商平台销售处理器风冷散热器 PRO COREFROZR AR13。这一型号属于单塔单风扇 5 热管直触类型，售价 99 元。 PRO COREFROZR AR13 设计风格简约，热管与鳍片均保持金属原色，不支持光效。其高度 155mm，热管直径 6mm，拥有 48 片鳍片， 兼容英特尔 Socket V 与 AMD Socket AM5 / AM4 平台 ，享受 5 年质保。 该风冷搭载一颗 12025 规格的环刃 7 来福轴承风扇，转速区间 510~2100 RPM，最大风量 59.97 CFM，最大静压 2.03 mmAq，噪声典",
+     "title": "OpenAI 上线 ChatGPT Slides 幻灯片工具，支持团队协作编辑",
+     "link": "https://www.ithome.com/1/015/298.htm",
+     "pubDate": "Tue, 20 Oct 2026 06:23:55 GMT",
+     "summary": "IT之家 10 月 20 日消息，OpenAI 于上月发布了 ChatGPT Space，配套包含 Pages、Slides、Sheets 等工具。该公司当时表示，Slides 和 Sheets 会在后续推出。几周之后，OpenAI 终于在 ChatGPT 中上线了 Slides（幻灯片工具）。 ChatGPT 官方账号在 X 平台发文，公布现已可用的多项 ChatGPT Slides 功能。用户现在可以让 ChatGPT 基于对话内容、上传文件或者大纲生成演示文稿，也可以直接选用多款内置模板来创建。 演示文稿生成完成后，用户可以像在谷歌幻灯片（Google Slides）中一样与团队分享。被",
      "source": "IT之家",
-     "zh": "微星 5 热管无光风冷 PRO COREFROZR AR13 在售，99 元"
+     "zh": "OpenAI 上线 ChatGPT Slides 幻灯片工具，支持团队协作编辑"
     },
     {
-     "title": "日本经济产业省计划 2027~2029 财年向 Rapidus 追加投资 4000 亿日元",
-     "link": "https://www.ithome.com/1/015/269.htm",
-     "pubDate": "Tue, 20 Oct 2026 06:00:28 GMT",
-     "summary": "IT之家 10 月 20 日消息，据日本共同社当地时间 19 日报道，该国经济产业省在同日举行的一场审议会上表示， 计划向先进半导体制造企业 Rapidus 追加投资 4,000 亿日元 （IT之家注：现汇率约合 169 亿元人民币） 。 这 4,000 亿日元中的 1,500 亿日元将被编入 2027 财年预算，剩下 2,500 亿日元则将在 2028、2029 财年拨付。日本政府此前已向 Rapidus 投资了 2,500 亿日元。 日本经济产业省表示，为了使 Rapidus 能获得民间融资， 日本政府必须在该企业上维持一定的自有资本比率 ；对 Rapidus 投资的回报预期相对较高。 相",
+     "title": "2026 年度天猫双十一活动今晚 8 点开启：88VIP 用户可自选消费券面额、苹果 iPhone 18 Pro 系列手机参与活动",
+     "link": "https://www.ithome.com/1/015/296.htm",
+     "pubDate": "Tue, 20 Oct 2026 06:19:04 GMT",
+     "summary": "IT之家 10 月 20 日消息，天猫宣布 2026 年度双十一活动将于今晚 8 点开启，店铺立减叠加平台消费券，低至 7.2 折。如果再加上行业加补券、国家补贴、淘金币这些权益，部分商品到手价可“低至 5 折”。 今年，88VIP 用户可以自选消费券的面额，例如，“满 480 减 60”点击“膨胀”后，可在“满 600 减 75”“满 800 减 100”“满 1,000 减 125”中任选。网友总结：先看自己的购物车金额多少，再选多大的券。 天猫同时表示，今年苹果 iPhone 18 Pro 系列手机将参与天猫双 11，用户现可提前领 300 元苹果惊喜券，晚 8 点叠加以旧换新抢地方补贴",
      "source": "IT之家",
-     "zh": "日本经济产业省计划 2027~2029 财年向 Rapidus 追加投资 4000 亿日元"
+     "zh": "2026 年度天猫双十一活动今晚 8 点开启：88VIP 用户可自选消费券面额、苹果 iPhone 18 Pro 系列手机参与活动"
+    },
+    {
+     "title": "医疗系统服务公司 Medley 旗下业务平台 @link 遭黑客入侵，官方宣布重建整个系统",
+     "link": "https://www.ithome.com/1/015/289.htm",
+     "pubDate": "Tue, 20 Oct 2026 06:15:19 GMT",
+     "summary": "IT之家 10 月 20 日消息，据外媒 ITMedia 报道，医疗系统服务公司 Medley 通报旗下业务平台“@link”于 10 月 11 日遭黑客入侵，影响 787 家医疗机构，相应机构旗下患者信息可能遭到泄露。 Medley 表示，官方在 10 月 14 日暂停平台服务后，目前已对整个平台进行“重建”， 公司不会重新启用原有系统，而是将数据“迁移至在独立环境中重新搭建的服务” ，并优先恢复对医疗机构日常运营影响较大的功能。 据介绍，新服务名为“@link Cloud β 版”，其界面设计和操作方式将沿用原有系统，目前新版平台率先提供预约、患者信息管理和诊疗日历三项业务。而面向患者的“",
+     "source": "IT之家",
+     "zh": "医疗系统服务公司 Medley 旗下业务平台 @link 遭黑客入侵，官方宣布重建整个系统"
+    },
+    {
+     "title": "27 英寸 OLED 电竞显示器 AOC“惊雪”Q27G4ZDP / WS 国补后 1998 元，具备 2K 280Hz、HDR500",
+     "link": "https://www.ithome.com/1/015/288.htm",
+     "pubDate": "Tue, 20 Oct 2026 06:15:15 GMT",
+     "summary": "27 英寸的 AOC“惊雪”Q27G4ZDP / WS 显示器 2026 年 2 月开售，具备 2560×1440 分辨率、280Hz 刷新率，定价 2999 元。 京东 11.11 大促期间， 26 日 20 点 起按下方步骤下单，叠加 10% 国补后仅需 1998.9 元： 点击下方卡片，可领 150 元券。 京东 AOC“惊雪”Q27G4ZDP / WS 2K@280Hz、HDR500 国补后 1998.9 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 这款显示器采用了第四代 LG Display Prime RGB Tan",
+     "source": "IT之家",
+     "zh": "27 英寸 OLED 电竞显示器 AOC“惊雪”Q27G4ZDP / WS 国补后 1998 元，具备 2K 280Hz、HDR500"
+    },
+    {
+     "title": "Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets (Sam Biddle/The Intercept)",
+     "link": "https://www.techmeme.com/261020/p2#a261020p2",
+     "pubDate": "Tue, 20 Oct 2026 02:15:01 -0400",
+     "summary": "Sam Biddle / The Intercept : Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets &nbsp; &mdash;&nbsp; Documents obtained by The Intercept show the military is trying to deploy autonomous AI a",
+     "source": "Techmeme",
+     "zh": "Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets (Sam Biddle/The Intercept)"
+    },
+    {
+     "title": "国家广电总局：中国微短剧正成为继美国电影、日本动画、韩国电视剧之后的第四大全球性视听产品新业态",
+     "link": "https://www.ithome.com/1/015/287.htm",
+     "pubDate": "Tue, 20 Oct 2026 06:14:27 GMT",
+     "summary": "IT之家 10 月 20 日消息，据央视新闻报道，10 月 20 日，在广西北海举行的中国 — 东盟视听周期间，国家广播电视总局发布《中国 — 东盟微短剧国际传播发展报告》。 报告显示，微短剧作为诞生于中国的网络视听新业态，正以惊人速度改变全球视听生态， 正在成为继美国电影、日本动画、韩国电视剧之后的第四大全球性视听产品形态 ，中国 — 东盟微短剧合作不断深化，成为中国 — 东盟数字经济合作和人文交流的重要载体。 报告指出，中国微短剧市场规模保持高速增长。2025 年全国共 3.3 万部微短剧上线播出，2026 年 1 至 9 月上线微短剧达 49 万部，是 2025 年全年的 13 倍。 微",
+     "source": "IT之家",
+     "zh": "国家广电总局：中国微短剧正成为继美国电影、日本动画、韩国电视剧之后的第四大全球性视听产品新业态"
+    },
+    {
+     "title": "消息称华为引望与宁德时代“巧克力”换电首款车型计划 2027 年推出，奕境品牌首发",
+     "link": "https://www.ithome.com/1/015/280.htm",
+     "pubDate": "Tue, 20 Oct 2026 06:11:11 GMT",
+     "summary": "IT之家 10 月 20 日消息，据财联社今日报道， 华为引望与宁德时代“巧克力”换电合作的首款车型计划于 2027 年推出 ，为东风与华为合作推出的奕境品牌产品。 10 月 19 日， 华为乾崑智能汽车解决方案宣布 ，引望与宁德时代、时代电服开展智能换电合作，打造乾崑智驾完整智能充换电生态，引望智能技术有限公司与宁德时代新能源科技股份有限公司、时代电服科技有限公司将就 新能源汽车智能换电生态开展全面合作 。 奕境汽车于 10 月 18 日在华为松山湖园区开启奕境 X9 全国批量交付，郭富城成为奕境 001 号车主。 奕境 X9 于 9 月 24 日上市 ，限时优惠价 27.98 万-35.9",
+     "source": "IT之家",
+     "zh": "消息称华为引望与宁德时代“巧克力”换电首款车型计划 2027 年推出，奕境品牌首发"
     },
     {
      "title": "赛博狼人杀，AI诈骗有多防不胜防？",
@@ -1815,38 +1855,6 @@
      "summary": "本文来自微信公众号： 游戏研究社 ，作者：駄目糕 每一个出生在冬暖大棚普及前的北方人都知道：红薯吃多了烧心，要配大白菜食用。 烧心，即胃酸分泌过量，引发胃食管反流，胸口或腹部出现灼烧感。这是个颇有年代感的词了，至少在千禧年后，北方冬天也能吃上新鲜蔬菜以来，我便很少再听过了。 但不知该感叹2026年的互联网过于乏味还是过于发达，这个已经退出我的童年记忆、带着陈旧生活气息的偏僻词汇，最近火了起来。 简单来说，其源头是一批高度公式化、剧情几乎如出一辙的AI短剧。故事开头，主角通常是个做小生意的老板，靠干净的食材和实惠的价格积累了一批顾客，却在某天突然涨价，引来众人不满。 与此同时，一个使用廉价食材的",
      "source": "虎嗅",
      "zh": "“不烧心”火遍全网后， AI短剧从业者却开始“烧心”了"
-    },
-    {
-     "title": "1499 → 843 元：小米米家净水器 2 官方新低，1200G 大通量 + 7 年 RO 滤芯",
-     "link": "https://www.ithome.com/1/015/267.htm",
-     "pubDate": "Tue, 20 Oct 2026 05:56:46 GMT",
-     "summary": "小米 · 米家净水器 2（1200G）开售于 2026 年 3 月，该产品主打 7 年长效 RO、母婴级健康水，厂商建议零售价为 1999 元，首发价 1499 元。 京东 11.11 大促期间，现在支付定金，活动价 1240.52 元； PLUS 会员立减 10.05 元； 满 1 件打 9.5 折； 领取 9 折优惠券； 国家补贴 148.83 元； 以旧换新立减 5%； 到手价为 843.34 元： 京东 小米 米家 净水器 2 1200G 券后 843.34 元 领 9 折券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 该净水器采用 12 页高精",
-     "source": "IT之家",
-     "zh": "1499 → 843 元：小米米家净水器 2 官方新低，1200G 大通量 + 7 年 RO 滤芯"
-    },
-    {
-     "title": "萨维、赵家驹和闪电机器人首次同框赛跑",
-     "link": "https://www.ithome.com/1/015/266.htm",
-     "pubDate": "Tue, 20 Oct 2026 05:54:19 GMT",
-     "summary": "IT之家 10 月 20 日消息，10 月 20 日，荣耀全球首席跑步官、肯尼亚马拉松运动员萨巴斯蒂安 · 萨维，荣耀极限探索官、中国越野跑运动员赵家驹，与荣耀自研人形机器人“闪电”迎来了首次线下同框。三位来自不同赛道的长跑冠军在活动现场通过“同台竞速互动”等方式，展开了一场人类与智能科技的跨赛道对话。 此次同框的三位“跑者”，均在各自的长跑领域创造了历史性突破。萨巴斯蒂安 · 萨维是人类历史上首位在 2 小时内完成马拉松正赛的传奇名将，不断在赛场上刷新着人类的奔跑极限；赵家驹则是拿下 2026 意大利巨人之旅 330 公里组别的首位中国籍亚洲冠军，多次在极限自然环境下挑战体能边界。 与两位人",
-     "source": "IT之家",
-     "zh": "萨维、赵家驹和闪电机器人首次同框赛跑"
-    },
-    {
-     "title": "漫步者 Comfo Clip Ultra 耳夹式蓝牙耳机发售：支持心率检测、内置 AI 教练，国补后 899 元",
-     "link": "https://www.ithome.com/1/015/265.htm",
-     "pubDate": "Tue, 20 Oct 2026 05:52:33 GMT",
-     "summary": "IT之家 10 月 20 日消息，漫步者旗下 Comfo Clip Ultra 耳夹式蓝牙耳机将于今天在京东发售，定价为 998.4 元，国补后 899 元。 该耳机提供 IP56 认证，腔体轻盈小巧，内部采用钛片骨架结构，能够自适应不同用户的耳型轮廓，表面材质采用亲肤液态硅胶一体成型设计。 该耳机搭载 12mm 长冲程动圈单元，结合深海鲸腔声学结构实现定向聚声，设备支持 LHDC 5.0 高清音频编码，获得 Hi-Res Wireless 与 HWA 双重认证，同时具备低频智能补偿算法、空间音效技术等特性。耳机配备四麦克风及双 VPU 骨导拾音传感器，配合 AI 算法剥离环境杂音，抗风噪能力",
-     "source": "IT之家",
-     "zh": "漫步者 Comfo Clip Ultra 耳夹式蓝牙耳机发售：支持心率检测、内置 AI 教练，国补后 899 元"
-    },
-    {
-     "title": "网络覆盖、上下行速率显著提升，陕西电信联合华为完成高铁场景 FDD Massive MIMO 全国首商用",
-     "link": "https://www.ithome.com/1/015/264.htm",
-     "pubDate": "Tue, 20 Oct 2026 05:51:44 GMT",
-     "summary": "IT之家 10 月 20 日消息，华为今日宣布，近日，中国电信陕西分公司联合华为，在徐兰高铁、银西高铁陕西段完成 1.8GHz+2.1GHz 双频 32T32R 设备商用部署， 率先将 FDD Massive MIMO 技术应用于高铁场景 。 高铁场景长期面临站间距大、移动速度快、车厢穿透损耗大等挑战，此次部署针对性地验证了 FDD Massive MIMO 的实际效果。 IT之家获悉，相比传统宽波束天线，Massive MIMO 通过窄波束精准赋形，显著提升覆盖距离与穿透力。其窄波束特性高度契合高铁场景对网络体验的严苛要求： 高速纠偏能力：针对列车高速移动带来的频率偏移，可通过波束自适应调整",
-     "source": "IT之家",
-     "zh": "网络覆盖、上下行速率显著提升，陕西电信联合华为完成高铁场景 FDD Massive MIMO 全国首商用"
     },
     {
      "title": "广晟大宝山：单一矿区承压，控股股东身兼大客户与核心供应商，不差钱仍募资补流｜IPO观察",
@@ -1913,14 +1921,6 @@
      "zh": "50% Off DoorDash Promo Code | October 2026"
     },
     {
-     "title": "Americans Are Spending More Money to Drive Worse Cars",
-     "link": "https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/",
-     "pubDate": "Tue, 20 Oct 2026 04:55:36 +0000",
-     "summary": "Article URL: https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/ Comments URL: https://news.ycombinator.com/item?id=50161505 Points: 19 # Comments: 32",
-     "source": "Hacker News",
-     "zh": "Americans Are Spending More Money to Drive Worse Cars"
-    },
-    {
      "title": "人有钱了容易悲观？研究发现乐观悲观与年龄、居住地都有关",
      "link": "https://www.huxiu.com/article/4898895.html?f=rss",
      "pubDate": "Tue, 20 Oct 2026 12:53:42 +0800",
@@ -1959,14 +1959,6 @@
      "summary": "为何具身企业挤爆快递分拣？",
      "source": "钛媒体",
      "zh": "机器人进厂第一课：不当人"
-    },
-    {
-     "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
-     "link": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
-     "pubDate": "Tue, 20 Oct 2026 04:02:26 +0000",
-     "summary": "Article URL: https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/ Comments URL: https://news.ycombinator.com/item?id=50161207 Points: 44 # Comments: 48",
-     "source": "Hacker News",
-     "zh": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor"
     },
     {
      "title": "字节Seed大重组：吴永辉的“大兵团”作战，与出走的联合创始人",
@@ -2012,9 +2004,17 @@
      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
      "link": "https://github.com/golang/go/issues/82345",
      "pubDate": "Tue, 20 Oct 2026 03:05:07 +0000",
-     "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 43 # Comments: 17",
+     "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 49 # Comments: 17",
      "source": "Hacker News",
      "zh": "Go will reject certificate chains containing eight distrusted SPKIs"
+    },
+    {
+     "title": "Mercury CEO Immad Akhund says the fintech hit $1B in annualized revenue, up ~50% YoY, has more than 450K customers, and is launching a payroll service (Eric Newcomer/Newcomer)",
+     "link": "https://www.techmeme.com/261019/p52#a261019p52",
+     "pubDate": "Mon, 19 Oct 2026 23:05:01 -0400",
+     "summary": "Eric Newcomer / Newcomer : Mercury CEO Immad Akhund says the fintech hit $1B in annualized revenue, up ~50% YoY, has more than 450K customers, and is launching a payroll service &nbsp; &mdash;&nbsp; I sat down with Mercury CEO Immad Akhund&nbsp; &mdash;&nbsp; We just published my conversation with M",
+     "source": "Techmeme",
+     "zh": "Mercury CEO Immad Akhund says the fintech hit $1B in annualized revenue, up ~50% YoY, has more than 450K customers, and is launching a payroll service (Eric Newcomer/Newcomer)"
     }
    ]
   },
@@ -2273,6 +2273,70 @@
    "total": 13,
    "items": [
     {
+     "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+     "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+     "pubDate": "Tue, 20 Oct 2026 06:25:26 GMT",
+     "summary": "U.S. Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems.",
+     "source": "CNBC",
+     "zh": "U.S. bans DeepSeek from government agency systems amid AI rift with China"
+    },
+    {
+     "title": "零点有数10月20日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901250020.html",
+     "pubDate": "Tue, 20 Oct 2026 14:22:11 +0800",
+     "summary": "以下是 零点有数 在北京时间10月20日14:22分盘口异动快照： 10月20日， 零点有数 盘中涨幅达5%，截至14点22分，报48.7元，成交9428.57万元，换手率2.80%。 分笔 14:22:03 48.70 218↑ 14:22:00 48.43 45↑ 14:21:57 48.35 23↓ 14:21:54 48.40 16↑ 14:21:51 48.28 257↑ 14:21:48 47.98 2↓ 14:21:45 47.91 1↓ 14:21:42 48.09 2↓ 14:21:39 48.10 165↑ 14:21:36 47.90 2↓ 报价 卖五 48.93 10 ",
+     "source": "东方财富股票",
+     "zh": "零点有数10月20日盘中涨幅达5%"
+    },
+    {
+     "title": "凯撒文化10月20日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901249839.html",
+     "pubDate": "Tue, 20 Oct 2026 14:22:02 +0800",
+     "summary": "以下是 凯撒文化 在北京时间10月20日14:21分盘口异动快照： 10月20日， 凯撒文化 盘中快速上涨，5分钟内涨幅超过2%，截至14点21分，报3.37元，成交1.97亿元，换手率6.56%。 分笔 14:21:57 3.37 916↑ 14:21:54 3.33 5910↑ 14:21:51 3.33 580↑ 14:21:48 3.33 1349↑ 14:21:45 3.33 620↑ 14:21:42 3.33 575↑ 14:21:39 3.33 512↑ 14:21:36 3.33 153↑ 14:21:33 3.32 492↓ 14:21:30 3.34 695↓ 报价 卖五",
+     "source": "东方财富股票",
+     "zh": "凯撒文化10月20日快速上涨"
+    },
+    {
+     "title": "润建股份10月20日打开涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901249584.html",
+     "pubDate": "Tue, 20 Oct 2026 14:21:24 +0800",
+     "summary": "以下是 润建股份 在北京时间10月20日14:21分盘口异动快照： 10月20日14点21分， 润建股份 盘中打开涨停，现报50.98元，成交14.36亿元，换手率13.87%。该股之前于14点20分涨停。 分笔 14:21:18 50.98 993↓ 14:21:15 51.04 432↓ 14:21:12 51.04 620↓ 14:21:09 51.04 2285↓ 14:21:06 51.04 333↓ 14:21:03 51.04 41↓ 14:21:00 51.04 9↓ 14:20:57 51.04 61↓ 14:20:54 51.04 128↓ 14:20:51 51.04 3",
+     "source": "东方财富股票",
+     "zh": "润建股份10月20日打开涨停"
+    },
+    {
+     "title": "万林物流10月20日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901249429.html",
+     "pubDate": "Tue, 20 Oct 2026 14:21:10 +0800",
+     "summary": "以下是 万林物流 在北京时间10月20日14:21分盘口异动快照： 10月20日， 万林物流 盘中快速上涨，5分钟内涨幅超过2%，截至14点21分，报3.93元，成交3365.48万元，换手率1.46%。 分笔 14:21:05 3.93 1239↑ 14:20:59 3.90 1↓ 14:20:56 3.90 10↓ 14:20:53 3.90 6↓ 14:20:50 3.90 28↓ 14:20:47 3.91 21↑ 14:20:44 3.91 135↑ 14:20:38 3.91 39↑ 14:20:35 3.91 1↑ 14:20:32 3.91 37↑ 报价 卖五 3.98 132",
+     "source": "东方财富股票",
+     "zh": "万林物流10月20日快速上涨"
+    },
+    {
+     "title": "零点有数10月20日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901249362.html",
+     "pubDate": "Tue, 20 Oct 2026 14:21:10 +0800",
+     "summary": "以下是 零点有数 在北京时间10月20日14:21分盘口异动快照： 10月20日， 零点有数 盘中快速上涨，5分钟内涨幅超过2%，截至14点21分，报47.5元，成交8428.26万元，换手率2.51%。 分笔 14:21:00 47.88 761↑ 14:20:54 47.50 5↑ 14:20:42 47.49 2↓ 14:20:39 47.50 9↑ 14:20:36 47.50 1↑ 14:20:33 47.38 40↑ 14:20:27 47.40 25↓ 14:20:24 47.40 12↑ 14:20:15 47.40 44↓ 14:20:12 47.47 1↓ 报价 卖五 47",
+     "source": "东方财富股票",
+     "zh": "零点有数10月20日快速上涨"
+    },
+    {
+     "title": "长华化学10月20日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901249240.html",
+     "pubDate": "Tue, 20 Oct 2026 14:21:01 +0800",
+     "summary": "以下是 长华化学 在北京时间10月20日14:20分盘口异动快照： 10月20日， 长华化学 盘中涨幅达5%，截至14点20分，报22.23元，成交3720.86万元，换手率2.92%。 分笔 14:20:54 22.23 55↑ 14:20:48 22.21 10↑ 14:20:45 22.20 27↓ 14:20:42 22.21 18↑ 14:20:39 22.18 27↓ 14:20:36 22.20 34↓ 14:20:33 22.20 41↑ 14:20:30 22.21 6↑ 14:20:27 22.17 488↑ 14:20:24 22.16 53↓ 报价 卖五 22.32 8",
+     "source": "东方财富股票",
+     "zh": "长华化学10月20日盘中涨幅达5%"
+    },
+    {
+     "title": "Nvidia to back four German AI startups as part of near-$10B European push",
+     "link": "https://seekingalpha.com/news/4654457-nvidia-to-back-four-german-ai-startups-as-part-of-near-10b-european-push?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 20 Oct 2026 02:13:22 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia to back four German AI startups as part of near-$10B European push"
+    },
+    {
      "title": "Asian markets slide as South Korea sinks 4.4%; U.S. futures mixed",
      "link": "https://seekingalpha.com/news/4654455-asian-markets-slide-as-south-korea-sinks-44-us-futures-mixed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 20 Oct 2026 02:02:46 -0400",
@@ -2297,6 +2361,14 @@
      "zh": "选举压力下密集撒钱！特朗普再推80亿美元柴油补贴，瞄准农业州选票"
     },
     {
+     "title": "未来两天，SpaceX与特斯拉财报接连登场：AI烧钱能否兑现回报？合并猜想再起",
+     "link": "https://wallstreetcn.com/articles/3784000",
+     "pubDate": "Tue, 20 Oct 2026 13:53:20 +0800",
+     "summary": "马斯克旗下两大核心资产将在本周同台亮相。 SpaceX将于周二美股收盘后发布上市以来第二份季报，特斯拉紧随其后于周三公布业绩。AI支出能否转化为可持续收入，将是决定市场情绪的关键变量。与此同时，两家公司合并的市场猜测持续升温，令本周财报季的关注度进一步提升。 目前期权市场预计SpaceX股价本周波动幅度高达7.5%。特斯拉方面，分析师预计其第三季度调整后每股收益约为43美分，低于去年同期的50美分，自由现金流预计为负49.2亿美元，盈利压力不容小觑。两家公司的财报将直接检验星链（Starlink）的成长势头与特斯拉汽车业务的盈利能力，能否为日益膨胀的AI资本开支提供足够支撑。 合并猜想：时机与",
+     "source": "华尔街见闻",
+     "zh": "未来两天，SpaceX与特斯拉财报接连登场：AI烧钱能否兑现回报？合并猜想再起"
+    },
+    {
      "title": "事关氢能部分环节投资，国家发展改革委有“大动作”！",
      "link": "http://www.eeo.com.cn/2026/1020/1070558.shtml",
      "pubDate": "Tue, 20 Oct 2026 13:52:20 +0800",
@@ -2311,6 +2383,14 @@
      "summary": "10月20日，A股三大股指午后集体走低，沪指、深成指跌幅扩大，创业板则跌超1%，宁德时代、中际旭创、新易盛持续下滑。存储芯片下挫，长鑫科技跌超3%。北证50涨3%，此前，证监会主席吴清宣布，推出北证50ETF、北交所新股市值配售、创新性评价标准等举措。人形机器人爆发，宇树科技盘中大涨12%，白酒、煤炭、海运等板块调整。 港股午后延续跌势，恒指、恒科指双双跌超1%，权重科网股多数下跌，阿里、腾讯、美团等跌幅居前，AI大模型下挫，MINIMAX跌超7%。宁德时代H股跌至阶段新低，日内大跌超9%。芯片半导体低开之后回升。债市方面，国债期货集体上涨，商品方面，国内商品期货多数下跌。核心市场走势： A股",
      "source": "华尔街见闻",
      "zh": "创业板午后跌超1%，人形机器人爆发，存储芯片下跌、长鑫科技跌超3%，宁德时代AH股继续下挫，恒指、恒科指齐跌超1%"
+    },
+    {
+     "title": "总金额已超133亿元 A股药企密集回购背后释放了这些信号",
+     "link": "http://finance.eastmoney.com/news/1354,202610203901202524.html",
+     "pubDate": "Tue, 20 Oct 2026 13:32:04 +0800",
+     "summary": "在三季度业绩报即将密集披露之时， 医药生物 板块正在掀起一轮股份回购热潮。 Wind统计数据显示， 2026年上半年，A股 医药生物 板块共有145家公司实施股份回购，回购总金额超133亿元（仅统计已实施和已完成的回购）。 板块回购节奏在二季度明显提速，4月1日至6月21日，68家药企合计完成回购38亿元，较一季度24.66亿元增长54.1%。 进入10月， 医药生物 板块回购热度延续，据不完全统计，全市场共有200余家上市公司发布回购类公告。分行业看， 医药生物行业则有超30家上市公司相继披露回购公告，发布数量位列各行业首位，其中包括了多家科创板药企。 艾力斯 是10月科创板生物医药板块较早",
+     "source": "东方财富资讯",
+     "zh": "总金额已超133亿元 A股药企密集回购背后释放了这些信号"
     },
     {
      "title": "官方推出首批136项标志性重大应用场景项目",
@@ -2361,12 +2441,12 @@
      "zh": "佩服！广州一56岁女子退休后考研上岸中大"
     },
     {
-     "title": "&apos;Cannot play hide and seek&apos;: Minister&apos;s warning over haze sends Singapore agricultural stocks lower",
-     "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
-     "pubDate": "Tue, 20 Oct 2026 04:48:52 GMT",
-     "summary": "Singapore Senior Minister Shanmugam said the Singapore Exchange had questioned seven firms about their operations and possible links to the haze.",
-     "source": "CNBC",
-     "zh": "&apos;Cannot play hide and seek&apos;: Minister&apos;s warning over haze sends Singapore agricultural stocks lower"
+     "title": "CoreWeave引爆AI融资恐慌！华尔街集体“救火”：不足以动摇整体AI交易",
+     "link": "http://finance.eastmoney.com/news/1354,202610203901144862.html",
+     "pubDate": "Tue, 20 Oct 2026 12:48:21 +0800",
+     "summary": "上周，随着投资者对AI融资风险的担忧加剧，全球科技股惨遭抛售。新云服务商CoreWeave债券收益率升至15%，触及通常被认定为“陷入财务困境”的水平，被视为本轮科技股抛售的导火索之一。 然而， 包括 摩根大通 和 巴克莱 在内的多家国际大行认为，投资者对CoreWeave以及科技行业融资风险的担忧被夸大了，个案不等于全行业危机，不足以动摇更广泛的AI交易行情。 摩根大通 分析师认为，尽管存在债务担忧，CoreWeave的业务依然稳健。该行分析师表示， 投资者对CoreWeave债务不断攀升以及现金快速消耗的担忧可能有些过度了，因为推动其融资需求的是快速扩张，而非项目经济效益不佳 。 上周，随",
+     "source": "东方财富资讯",
+     "zh": "CoreWeave引爆AI融资恐慌！华尔街集体“救火”：不足以动摇整体AI交易"
     },
     {
      "title": "倒计时3天！2027见闻历早鸟99元即将结束，快来锁定最后优惠！",
@@ -2393,6 +2473,30 @@
      "zh": "韩国最大IPO首日暴跌32%：盈利的\"新云\"公司也难逃AI数据中心寒冬"
     },
     {
+     "title": "内外利好共振！机器人再度拉升 主力已吸筹这些票(附股)",
+     "link": "http://finance.eastmoney.com/news/11139,202610203901147980.html",
+     "pubDate": "Tue, 20 Oct 2026 12:24:58 +0800",
+     "summary": "周二(10月20日) 机器人 概念再度爆发，宇树科技、 绿的谐波 涨超7%， 鼎智科技 、 景业智能 、 巨能股份 等涨超5%。 消息面上，内外利好共振。海外端， 特斯拉 Optimus的量产就绪消息催化。 据华源证券，10月19日（美东周一）， 特斯拉 提交的年度股东大会材料中首次书面宣称\"已为V3 Optimus大规模量产做好准备\"，但未披露产量、价格或交付日期。文件中包括一张Optimus图片，相较于此前V2.5，肩部、手腕、灵巧手明显不同。 此外OpenAI 持续加码人形 机器人 赛道，其首席执行官近期对外披露项目进展，明确将 机器人 智能系统作为核心攻关方向；同日 英伟达 GTC 大",
+     "source": "东方财富资讯",
+     "zh": "内外利好共振！机器人再度拉升 主力已吸筹这些票(附股)"
+    },
+    {
+     "title": "吴清主席释放多重稳市信号 公私募一线解读：中国资产将迎来价值重估",
+     "link": "http://finance.eastmoney.com/news/1344,202610203901147814.html",
+     "pubDate": "Tue, 20 Oct 2026 12:24:17 +0800",
+     "summary": "10月19日，2026 金融街 论坛年会在北京开幕，证监会主席吴清出席并发表主旨演讲，引发市场广泛关注。 基金业人士也高度聚焦本次演讲，公私募机构普遍认为，吴清主席演讲释放稳预期、强改革、扩开放多项信号，有助于稳定市场预期，提振市场信心。 面对近期市场调整，吴清主席提出将全力维护资本市场安全稳定，加强风险研判和政策工具储备。多家公私募机构强调，近期市场调整属于短期扰动，不改资本市场中长期趋势。随着产业持续升级、上市公司盈利改善、分红回购力度提升、长期资金机制完善，资本市场向好具备强支撑。 稳预期、强改革、扩开放多重信号引发市场关注 10月19日，2026 金融街 论坛年会在北京开幕，中国证监会",
+     "source": "东方财富资讯",
+     "zh": "吴清主席释放多重稳市信号 公私募一线解读：中国资产将迎来价值重估"
+    },
+    {
+     "title": "潘功胜金融街论坛发声释放重磅信号 短端利率调控改革有何深意？权威解读来了！",
+     "link": "http://finance.eastmoney.com/news/1344,202610203901146861.html",
+     "pubDate": "Tue, 20 Oct 2026 12:21:34 +0800",
+     "summary": "2026 金融街 论坛年会正在召开，昨日开幕式金融监管重磅发声引发市场关注。开幕式上，中国人民 银行 行长潘功胜宣布，将研究择机把央行公开市场主要操作品种的期限切换为隔夜，公开市场隔夜回购利率将相应成为主要政策利率。 对此，权威专家对财联社记者表示，“央行研究切换公开市场操作主力品种，属于货币政策框架改革的一项举措，不同于通常讲的货币政策降息加息。”权威专家认为，央行的重点还是在不断完善利率调控的操作机制。 切换公开市场操作主力品种，不等同货币政策降息加息 “近年来，央行持续健全货币政策调控框架，完善公开市场操作安排，优化短端市场利率调控机制，推动货币政策向价格型调控转型。”上述专家认为，随着",
+     "source": "东方财富资讯",
+     "zh": "潘功胜金融街论坛发声释放重磅信号 短端利率调控改革有何深意？权威解读来了！"
+    },
+    {
      "title": "OpenAI races to lock in $30B at $1.4Tvaluation ahead of Anthropic IPO",
      "link": "https://seekingalpha.com/news/4654452-openai-races-to-lock-in-30b-at-14tvaluation-ahead-of-anthropic-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 20 Oct 2026 00:15:20 -0400",
@@ -2401,116 +2505,12 @@
      "zh": "OpenAI races to lock in $30B at $1.4Tvaluation ahead of Anthropic IPO"
     },
     {
-     "title": "AI debt worries spark surge in default insurance trading",
-     "link": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
-     "pubDate": "Tue, 20 Oct 2026 04:00:19 GMT",
-     "summary": "Volumes of credit default swaps linked to big tech groups soar as investors seek protection against boom unravelling",
-     "source": "Financial Times",
-     "zh": "AI debt worries spark surge in default insurance trading"
-    },
-    {
-     "title": "Can Africa outgrow China?",
-     "link": "https://www.ft.com/content/4702e72d-ba3c-43c4-92e7-1dffccddcd16?syn-25a6b1a6=1",
-     "pubDate": "Tue, 20 Oct 2026 04:00:19 GMT",
-     "summary": "IMF says continent’s GDP to expand faster than China for first time in decades as it beats worst expectations following Iran war",
-     "source": "Financial Times",
-     "zh": "Can Africa outgrow China?"
-    },
-    {
-     "title": "Why the UK government is living on borrowed time",
-     "link": "https://www.ft.com/content/dec723c9-54d5-407c-a275-f302344feeac?syn-25a6b1a6=1",
-     "pubDate": "Tue, 20 Oct 2026 04:00:19 GMT",
-     "summary": "The Labour Party’s plan for an expanded state sits uncomfortably with a precarious fiscal backdrop",
-     "source": "Financial Times",
-     "zh": "Why the UK government is living on borrowed time"
-    },
-    {
-     "title": "Iran war tilts balance of global oil power towards Americas",
-     "link": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1",
-     "pubDate": "Tue, 20 Oct 2026 04:00:19 GMT",
-     "summary": "Countries from Canada to Argentina have seen surge in investment and production as buyers rush to replace supply lost to Hormuz disruption",
-     "source": "Financial Times",
-     "zh": "Iran war tilts balance of global oil power towards Americas"
-    },
-    {
-     "title": "Britain’s £100,000 tax trap",
-     "link": "https://www.ft.com/content/248b7408-b4cd-46aa-a829-a54c618e31fe?syn-25a6b1a6=1",
-     "pubDate": "Tue, 20 Oct 2026 04:00:12 GMT",
-     "summary": "Many of the country’s most skilled workers are withholding their labour from the economy because of crushing marginal rates",
-     "source": "Financial Times",
-     "zh": "Britain’s £100,000 tax trap"
-    },
-    {
-     "title": "Tuesday’s Economic Calendar",
-     "link": "https://seekingalpha.com/news/4654169-tuesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 20 Oct 2026 00:00:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tuesday’s Economic Calendar"
-    },
-    {
-     "title": "不到72小时，DeepSeek和MiniMax双双交卷，Flash集体挑战旗舰",
-     "link": "https://wallstreetcn.com/articles/3783990",
-     "pubDate": "Tue, 20 Oct 2026 11:00:12 +0800",
-     "summary": "Flash模型，正在从旗舰模型的平替，变成一场新的能力竞赛。 曾几何时，大模型最重要的竞争是争夺能力上限，但进入下半年，一些风向变了，行业更关注谁能以更低的成本，把模型能力变成开发者和企业真正用得起的生产力。 10月17日，DeepSeek突然更新V4.1 Flash-1017。几乎前后脚，MiniMax也将M3.1 Flash推向台前。后者此前曾以匿名模型Space Bunny的身份出现在开发者社区，如今终于揭开面纱。 两款模型的接连出现，让国产大模型的Flash赛道有了新的看点。 在最新评测数据中，M3.1 Flash在DeepSWE测试中获得74分，仅次于DeepSeek V4.1 Fl",
-     "source": "华尔街见闻",
-     "zh": "不到72小时，DeepSeek和MiniMax双双交卷，Flash集体挑战旗舰"
-    },
-    {
-     "title": "BlackRock, GIC among investors chasing Indian telecom major Jio&apos;s IPO as anchor bids top $26 billion",
-     "link": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
-     "pubDate": "Tue, 20 Oct 2026 02:44:35 GMT",
-     "summary": "Jio Platforms plans to raise up to $3.2 billion through an IPO, which is India's largest ever in rupee terms, but the second largest in dollar terms.",
-     "source": "CNBC",
-     "zh": "BlackRock, GIC among investors chasing Indian telecom major Jio&apos;s IPO as anchor bids top $26 billion"
-    },
-    {
-     "title": "SpaceX Q3 earnings: Revenue seen surging to $13B as AI business takes centre stage",
-     "link": "https://seekingalpha.com/news/4654451-spacex-q3-earnings-revenue-seen-surging-to-13b-as-ai-business-takes-centre-stage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 19 Oct 2026 22:39:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SpaceX Q3 earnings: Revenue seen surging to $13B as AI business takes centre stage"
-    },
-    {
-     "title": "报道：OpenAI 计划在Anthropic上市前加快融资步伐",
-     "link": "https://wallstreetcn.com/articles/3783974",
-     "pubDate": "Tue, 20 Oct 2026 10:36:01 +0800",
-     "summary": "OpenAI正加速推进新一轮私募融资，力争在竞争对手Anthropic预计于11月中旬上市之前锁定投资者承诺。此轮融资规模约300亿美元，完成后OpenAI估值或将突破1.4万亿美元。 周二，据路透社援引知情人士消息，此次融资时间表异常紧凑，部分原因在于两家前沿AI实验室正日益争夺同一批投资者资源，OpenAI希望抢在Anthropic公开募股之前率先完成融资。知情人士表示，软银集团、阿布扎比主权投资机构MGX及其他现有股东正就参与本轮融资进行磋商。 此轮融资竞速折射出两大AI巨头在资本市场的激烈角力。在利率上升忧虑加剧、科技股大幅震荡以及市场对AI估值审视趋严的背景下，两家公司均在追逐万亿美",
-     "source": "华尔街见闻",
-     "zh": "报道：OpenAI 计划在Anthropic上市前加快融资步伐"
-    },
-    {
-     "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
-     "link": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
-     "pubDate": "Tue, 20 Oct 2026 02:16:25 GMT",
-     "summary": "Nvidia announced planned investments in four German startups as Chancellor Friedrich Merz urged businesses to embrace AI at an industry summit in Berlin.",
-     "source": "CNBC",
-     "zh": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments"
-    },
-    {
-     "title": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
-     "link": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
-     "pubDate": "Tue, 20 Oct 2026 01:53:34 GMT",
-     "summary": "Vice President JD Vance declined to follow Trump in endorsing Netanyahu, saying he’s “not getting involved in Israeli elections” a week before Israelis vote.",
-     "source": "CNBC",
-     "zh": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise"
-    },
-    {
-     "title": "Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms",
-     "link": "https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1",
-     "pubDate": "Tue, 20 Oct 2026 00:14:19 GMT",
-     "summary": "Steve Witkoff and Jared Kushner expected to travel to Norway to meet Volodymyr Zelenskyy",
-     "source": "Financial Times",
-     "zh": "Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms"
-    },
-    {
-     "title": "Salmon raises funds to double down in the Philippines",
-     "link": "https://www.finextra.com/newsarticle/48608/salmon-raises-funds-to-double-down-in-the-philippines?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Tue, 20 Oct 2026 00:01:00 GMT",
-     "summary": "Philippines-based banking and lending platform Salmon Group has raised $90 million in financing and another $50 million of bond proceeds.",
-     "source": "Finextra",
-     "zh": "Salmon raises funds to double down in the Philippines"
+     "title": "利好来了！两大板块异动！人形机器人概念股再度暴涨",
+     "link": "http://finance.eastmoney.com/news/1344,202610203901145179.html",
+     "pubDate": "Tue, 20 Oct 2026 12:10:39 +0800",
+     "summary": "两大板块异动！ 10月20日，临近午盘时分， 食品饮料 板块异动拉升， 安记食品 直线涨停， 仲景食品 、 欢乐家 、 骑士乳业 、 一鸣食品 等纷纷跟涨。 消息面上，国家发改委国民经济 综合 司副司长左刚今日在新闻发布会上表示，下一步，国家发改委将会同有关部门以更大力度更实举措有效扩大内需。其中提到，坚持惠民生和促消费相结合，大力提振消费，统筹促就业、稳增长、稳预期，合理提高公共服务支出占财政支出比重，推动商品消费扩容升级，扩大养老消费，促进文化演艺、旅游服务、体育赛事等产业发展，清理取消消费不合理限制性措施。 当天盘中，人形 机器人 概念股也集体异动， 长盈精密 、 宁波东力 、 浙江荣泰",
+     "source": "东方财富资讯",
+     "zh": "利好来了！两大板块异动！人形机器人概念股再度暴涨"
     }
    ]
   },

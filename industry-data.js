@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/20 18:12:00",
+ "generated_at": "2026/10/20 18:18:13",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "DigiKey scales distribution centre for 50% company growth",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/digikey-scales-distribution-centre-for-50-company-growth-2026-10/",
+     "pubDate": "Tue, 20 Oct 2026 09:46:07 +0000",
+     "summary": "DigiKey is investing $100 million over the next 18 months to scale its global product distribution centre (PDC) and order management system (OMS). The investment is to keep pace with […] The post DigiKey scales distribution centre for 50% company growth appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "DigiKey scales distribution centre for 50% company growth"
+    },
+    {
      "title": "Jensen Huang urges Germany to embrace physical AI at Berlin summit",
      "link": "https://www.digitimes.com/news/a20261020PD246/nvidia-germany-jensen-huang-berlin-manufacturing.html",
      "pubDate": "Tue, 20 Oct 2026 09:22:16 GMT",
@@ -360,14 +368,6 @@ window.INDUSTRY_DATA = {
      "summary": "Agentic AI is reviving data center CPU demand, with CPU revenues up 35%, ahead of AI ASICs (+23%) and GPUs (+13%), according to the Data Centers Processor Market Monitor, Q3 […] The post Datacentre CPU growth outpaces GPUs and ASICs appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Datacentre CPU growth outpaces GPUs and ASICs"
-    },
-    {
-     "title": "Hyperscaler CSPs pile on the capex",
-     "link": "https://www.electronicsweekly.com/news/business/hyperscaler-csps-pile-on-the-capex-2026-10/",
-     "pubDate": "Tue, 20 Oct 2026 05:08:24 +0000",
-     "summary": "Combined Capex among the world’s nine leading CSPs (cloud service providers) is projected to surge 106% YoY to $957 billion in 2026 and to $1.5 trillion in 2027, says TrendForce. […] The post Hyperscaler CSPs pile on the capex appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Hyperscaler CSPs pile on the capex"
     },
     {
      "title": "Sir Arthur C. Clarke Deserves a Nobel Prize",
@@ -1205,7 +1205,7 @@ window.INDUSTRY_DATA = {
      "title": "Gilead’s pill posts stronger colitis remission rates than Entyvio",
      "link": "https://endpoints.news/gileads-pill-posts-stronger-colitis-remission-rates-than-entyvio/",
      "pubDate": "Mon, 19 Oct 2026 15:05:39 +0000",
-     "summary": "Gilead Sciences is to start late-stage trials of its oral α4β7 inhibitor in ulcerative colitis next year, after data from a Phase 2 dose-finding trial suggested that the drug looked better than rival products. After ...",
+     "summary": "Gilead Sciences will start late-stage trials of its oral α4β7 inhibitor in ulcerative colitis next year after data from a Phase 2 dose-finding trial suggested that the drug looked better than rival products. After taking ...",
      "source": "Endpoints News",
      "zh": "Gilead’s pill posts stronger colitis remission rates than Entyvio"
     },
@@ -1778,12 +1778,44 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "铁威马 4 盘位 NAS F4-213 发售：基于瑞芯微 RK3576，提供 2.5GbE RJ-45",
+     "link": "https://www.ithome.com/1/015/489.htm",
+     "pubDate": "Tue, 20 Oct 2026 10:14:14 GMT",
+     "summary": "IT之家 10 月 20 日消息，铁威马 (TerraMaster) 即将于今晚 20:00 发售 4 盘位 NAS 新品 F4-213。 这一型号基于瑞芯微 RK3576 通用处理器，提供 2.5GbE RJ-45、microSD 读卡器等 I/O， 本体定价 2399 元 。 F4-213 支持本地 AI 智能相册管理，具备 AI 智能分类能力；可自动备份手机照片；支持一系列多媒体服务，可作为家庭影音中心使用。 其支持 SMB、AFP、SFTP / FTP、iSCSI、NFS、WebDAV，可轻松创建文件服务器、邮件服务器、Web 服务器、MySQL 服务器、CRM，满足不同应用需求。 天",
+     "source": "IT之家",
+     "zh": "铁威马 4 盘位 NAS F4-213 发售：基于瑞芯微 RK3576，提供 2.5GbE RJ-45"
+    },
+    {
+     "title": "223 港币起卡普空《怪物猎人：荒野》任天堂 Switch 2 版本开启预购，同步上线游戏试玩版",
+     "link": "https://www.ithome.com/1/015/487.htm",
+     "pubDate": "Tue, 20 Oct 2026 10:13:40 GMT",
+     "summary": "IT之家 10 月 20 日消息，卡普空宣布旗下《怪物猎人：荒野（Monster Hunter Wilds）》任天堂 Switch 2 版本现已开启预购，本作将于 2026 年 12 月 4 日发售，以 eShop 港服为例，其中标准版定价 298 港币 （现汇率约合 254.2 元人民币） ，首发价 223 港币 （IT之家注：现汇率约合 190.2 元人民币） ，豪华版定价 598 港币 （现汇率约合 510.1 元人民币） 。 官方同步上线了游戏试玩“序章体验版”，玩家可游玩从角色创建开始，体验揭开故事序幕的序章，以及 Chapter1-3「前往森林」的内容。IT之家附游戏 eShop ",
+     "source": "IT之家",
+     "zh": "223 港币起卡普空《怪物猎人：荒野》任天堂 Switch 2 版本开启预购，同步上线游戏试玩版"
+    },
+    {
+     "title": "Amazon pledges to spend €16B+ in Germany in 2027 on AWS and AI data centers, its Leo satellite program, Prime Video media production, and a Berlin robotics lab (Mark Bergen/Bloomberg)",
+     "link": "https://www.techmeme.com/261020/p7#a261020p7",
+     "pubDate": "Tue, 20 Oct 2026 06:10:02 -0400",
+     "summary": "Mark Bergen / Bloomberg : Amazon pledges to spend &euro;16B+ in Germany in 2027 on AWS and AI data centers, its Leo satellite program, Prime Video media production, and a Berlin robotics lab &nbsp; &mdash;&nbsp; Amazon.com Inc. said it will invest more than &euro;16 billion ($17.9 billion) next year",
+     "source": "Techmeme",
+     "zh": "Amazon pledges to spend €16B+ in Germany in 2027 on AWS and AI data centers, its Leo satellite program, Prime Video media production, and a Berlin robotics lab (Mark Bergen/Bloomberg)"
+    },
+    {
      "title": "马斯克：SpaceX 潜在市场规模远高于 28.5 万亿美元，市值目标 10 年内冲击 100 万亿美元",
      "link": "https://www.ithome.com/1/015/480.htm",
      "pubDate": "Tue, 20 Oct 2026 10:08:47 GMT",
      "summary": "IT之家 10 月 20 日消息，全球首富埃隆 · 马斯克（Elon Musk）昨日（10 月 19 日）在 X 平台发布推文， 表示在此前 SpaceX 公司 IPO 文件中给出的 28.5 万亿美元 （现汇率约合 190.77 万亿元人民币） 潜在市场规模（TAM）估算“错了”，真实规模“远高于此”。 IT之家注：TAM 常译为“总可服务市场”或“潜在市场总规模”，是指如果一家公司能服务所有潜在客户、并且产品完全满足需求，理论上能获得的市场收入上限。 根据 SpaceX 公司披露的 S-1 文件，其中约 90% 来自 AI 业务，包括企业级 AI 应用约 22.7 万亿美元 （现汇率约合 ",
      "source": "IT之家",
      "zh": "马斯克：SpaceX 潜在市场规模远高于 28.5 万亿美元，市值目标 10 年内冲击 100 万亿美元"
+    },
+    {
+     "title": "美国暴发疫情：超4400例确诊，多人死亡",
+     "link": "https://www.huxiu.com/article/4899000.html?f=rss",
+     "pubDate": "Tue, 20 Oct 2026 18:08:31 +0800",
+     "summary": "本文来自微信公众号： 医学界 ，责编：汪航，作者：科学·专业·善良 一种早前被宣布“消除”的传染病，正在美国大范围暴发。今年以来该国累计报告麻疹病例4000余例，创1991年以来新高。 这场麻疹疫情是如何不断升级的？ 一种早已被美国宣布“消除”的传染病，再次造成大范围疫情。 美国疾病控制和预防中心（CDC）10月16日更新的数据显示，截至10月15日，美国今年累计报告麻疹确诊病例4410例，接近2025年全年2289例的两倍，为1991年以来最高。 累计报告病例最多的宾夕法尼亚州，病例仍在增加。该州卫生部门10月19日通报，累计确诊1286例、247人住院，确认5例麻疹相关死亡，另有1例死亡仍",
+     "source": "虎嗅",
+     "zh": "美国暴发疫情：超4400例确诊，多人死亡"
     },
     {
      "title": "单机身 8091 元国补直降：索尼 Alpha 7C II 全画幅微单京东 11.11 破冰新低",
@@ -1808,14 +1840,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 20 日消息，圆通速递今日发布 2026 年第三季度（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：195 亿元，同比增长 6.72% 归母净利润 ：14.54 亿元，同比增长 39.06% 扣非净利润 ：14.1 亿元，同比增长 39.8% 加权平均净资产收益率 ：3.92% 基本每股收益 ：0.4248 元，同比增长 39.14% 稀释每股收益 ：0.4244 元，同比增长 39.15% AI 解读 本次财报业绩符合行业增长预期，核心盈利指标增速亮眼。 公司主营业务说明 圆通速递是国内领先的综合性快递物流运营商，以自营枢纽转运中心和扁平终端加盟网络为",
      "source": "IT之家",
      "zh": "圆通速递 2026 年第三季度归母净利润 14.54 亿元，同比增长 39.06%"
-    },
-    {
-     "title": "经典策略游戏《冰汽时代》登陆任天堂 Switch 平台，29.99 美元",
-     "link": "https://www.ithome.com/1/015/472.htm",
-     "pubDate": "Tue, 20 Oct 2026 10:01:37 GMT",
-     "summary": "IT之家 10 月 20 日消息，波兰工作室 11 bit studios 旗下经典策略游戏《冰汽时代（Frostpunk）》现已登陆任天堂 Switch 平台，相应版本收录《The Rifts》《The Last Autumn》《On The Edge》三部 DLC。Switch 2 玩家可通过向下兼容直接游玩。 本次 Switch 版以美服为例，游戏在该区服定价 29.99 美元 （IT之家注：现汇率约合 201.4 元人民币） ，同时提供了免费试玩版，IT之家附游戏商品页（ https://www.nintendo.com/us/store/products/frostpunk-swit",
-     "source": "IT之家",
-     "zh": "经典策略游戏《冰汽时代》登陆任天堂 Switch 平台，29.99 美元"
     },
     {
      "title": "缝合了一款营收超2亿元的超级爆款后，这款个人开发的AI+游戏也火了",
@@ -1858,20 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "再访Dyna Robotics：被部署教训了300天后，找到机器人Scaling Law"
     },
     {
-     "title": "理想汽车确认 2027 年秋季进军英国市场",
-     "link": "https://www.ithome.com/1/015/471.htm",
-     "pubDate": "Tue, 20 Oct 2026 09:59:27 GMT",
-     "summary": "IT之家 10 月 20 日消息，据汽车媒体 AutoCar 今天报道，理想汽车在巴黎车展确认，公司将在 2027 年秋季携一款新车进入英国市场。 IT之家从原报道获悉， 理想汽车将在欧洲市场推出 i6 纯电车型 ，2027 年春季率先在挪威和荷兰上市。该公司还透露， 未来将有另一款车型进入英国市场 ，该产品面向家庭用户， 提供纯电和增程两种动力选择 。 理想汽车国际业务负责人 Nestor Wu 表示：“不同市场的家庭用户有着不同需求，这是我们在中国重点关注且取得成功的领域，我们认为这套策略同样适用于英国。” 理想汽车针对欧洲消费者偏好调整了 i6 的细节，换装本地采购的空气弹簧，以提升车辆",
-     "source": "IT之家",
-     "zh": "理想汽车确认 2027 年秋季进军英国市场"
-    },
-    {
-     "title": "Akko 5108 V5 三模机械键盘新增《盗墓笔记》联名款，339 元",
-     "link": "https://www.ithome.com/1/015/470.htm",
-     "pubDate": "Tue, 20 Oct 2026 09:59:13 GMT",
-     "summary": "IT之家 10 月 20 日消息，Akko（艾酷）即将于今晚 20:00 发售《盗墓笔记》联名款 5108 V5 三模机械键盘。 这一型号搭载钢琴轴、MOA 高度 PBT 材质热升华工艺键帽，在 USB 和 2.4GHz 下支持 1kHz 回报率， 售价 339 元 。 此次联名型号采用全配列设计， 正面各处点缀以《盗墓笔记》主题元素和人物形象 ， 背部则是全幅主视觉图 。 其采用 5 层填充 Gasket 结构，内置 PC 定位板、单键开槽双面 PCB，支持轴体热插拔；集成 2 块 4000mAh 电池，蓝牙模式无背光续航 6670hr。 京东 Akko 《盗墓笔记》联名 5108 V5 键",
-     "source": "IT之家",
-     "zh": "Akko 5108 V5 三模机械键盘新增《盗墓笔记》联名款，339 元"
+     "title": "Revolut down as users report app not working",
+     "link": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+     "pubDate": "Tue, 20 Oct 2026 09:54:48 +0000",
+     "summary": "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 10 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Revolut down as users report app not working"
     },
     {
      "title": "乐事玩转“开袋有奖”，品牌为什么越来越在意消费者的体验感？",
@@ -1938,18 +1954,10 @@ window.INDUSTRY_DATA = {
      "zh": "为捉奸在自家卧室安装摄像头，侵犯隐私吗？"
     },
     {
-     "title": "智元机器人，出手芯片企业",
-     "link": "https://www.huxiu.com/article/4898984.html?f=rss",
-     "pubDate": "Tue, 20 Oct 2026 17:39:00 +0800",
-     "summary": "本文来自微信公众号： 科创板日报 ，作者：李佳怡 芯际无限完成Pre-A轮融资，本轮由智元机器人联合安徽省汽车创新中心、国元股权、合肥包河创投等机构共同投资，资金将重点用于具身智能全栈RISC-V芯片的研发及产业化落地。 近日，RISC-V芯片企业上海芯际无限智能科技有限公司（以下简称“芯际无限”）完成Pre-A轮融资，智元联合安徽省汽车创新中心、国元股权等共同投资，资金将投向具身智能全栈RISC-V芯片的研发与产业化。 在人形机器人“大脑”芯片仍集中于少数厂商的背景下，这笔投资首先指向的是智元对国产算力底座的诉求，而芯际无限只是其资本版图一角。 财联社创投通—执中数据显示，智元作为投资方出现",
-     "source": "虎嗅",
-     "zh": "智元机器人，出手芯片企业"
-    },
-    {
      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
      "link": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
      "pubDate": "Tue, 20 Oct 2026 09:35:40 +0000",
-     "summary": "Article URL: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/ Comments URL: https://news.ycombinator.com/item?id=50163502 Points: 35 # Comments: 0",
+     "summary": "Article URL: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/ Comments URL: https://news.ycombinator.com/item?id=50163502 Points: 100 # Comments: 47",
      "source": "Hacker News",
      "zh": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right"
     },
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
      "link": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules",
      "pubDate": "Tue, 20 Oct 2026 09:30:31 +0000",
-     "summary": "Article URL: https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules Comments URL: https://news.ycombinator.com/item?id=50163462 Points: 12 # Comments: 0",
+     "summary": "Article URL: https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules Comments URL: https://news.ycombinator.com/item?id=50163462 Points: 28 # Comments: 4",
      "source": "Hacker News",
      "zh": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules"
     },
@@ -1989,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "DeepSeek just open-sourced its inference engine",
      "link": "https://github.com/deepseek-ai/DeepInfer",
      "pubDate": "Tue, 20 Oct 2026 09:08:54 +0000",
-     "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 17 # Comments: 3",
+     "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 62 # Comments: 9",
      "source": "Hacker News",
      "zh": "DeepSeek just open-sourced its inference engine"
     },
@@ -2008,14 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "根据发表在《Environmental Science & Technology》期刊上的一项研究，全世界四分之一数据中心位于每年至少一个月用水需求超过供应的地区。全球各地分布着数以千计的数据中心，这些设施在冷却服务器和防止过热过程中消耗了大量水资源。它们所使用的水资源与周边社区以及农业和制造业等共享。电力之类的能源可从远距离传输，水资源则主要来自附近的河流、湖泊和含水层，而水源的水位会随季节或年份发生波动。研究人员将全球 9,347 个运转中的数据中心的位置，与当地的水资源可用量，以及来自城镇、农业、制造业和发电行业的需求进行了比对分析。结果发现：约 25% 的数据中心位于每年至少一个月面临",
      "source": "Solidot",
      "zh": "四分之一数据中心位于水资源受限的区域"
-    },
-    {
-     "title": "Fizzpoker – No-login Online Poker with friends",
-     "link": "https://www.fizzpoker.com",
-     "pubDate": "Tue, 20 Oct 2026 08:55:50 +0000",
-     "summary": "Article URL: https://www.fizzpoker.com Comments URL: https://news.ycombinator.com/item?id=50163173 Points: 6 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Fizzpoker – No-login Online Poker with friends"
     }
    ]
   },
@@ -2274,6 +2274,78 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "工业和信息化部：加大对先进制造业集群的支持力度",
+     "link": "http://www.eeo.com.cn/2026/1020/1071088.shtml",
+     "pubDate": "Tue, 20 Oct 2026 18:13:29 +0800",
+     "summary": "上证报中国证券网讯（记者 李雁争）工业和信息化部总工程师王卫明20日在国新办新闻发布会上表示，下一步，工业和信息化部将系统性推进国家级集群提质升级、能级跃升。在强化政策精准支持方面，将从创新平台布局、高端人才引育、要素资源保障等方面，加大对先进制造业集群的支持力度，推动集群从物理集聚向核心能力系统集成跃升，为构建以先进制造业为骨干的现代化产业体系提供硬核支撑。",
+     "source": "经济观察网",
+     "zh": "工业和信息化部：加大对先进制造业集群的支持力度"
+    },
+    {
+     "title": "关于AI投资，周小川最新发声！",
+     "link": "http://www.eeo.com.cn/2026/1020/1071087.shtml",
+     "pubDate": "Tue, 20 Oct 2026 18:13:15 +0800",
+     "summary": "央行原行长周小川最新发声。 10月20日，人民银行原行长周小川在2026外滩年会上表示，要对AI投资失败以及可能引致的金融动荡开展研究并做好预案，要在政策工具箱中储备相应政策工具，以应对这类动荡和影响。 （2026外滩年会主办方供图） 周小川指出，技术演进过程中，有些投资会...",
+     "source": "经济观察网",
+     "zh": "关于AI投资，周小川最新发声！"
+    },
+    {
+     "title": "人民银行上海总部：截至9月末境外机构持有银行间市场债券3.19万亿元",
+     "link": "http://www.eeo.com.cn/2026/1020/1071086.shtml",
+     "pubDate": "Tue, 20 Oct 2026 18:13:10 +0800",
+     "summary": "据中国人民银行10月20日消息，中国人民银行上海总部发布2026年9月份境外机构投资银行间债券市场简报。截至2026年9月末，境外机构持有银行间市场债券3.19万亿元，约占银行间债券市场总托管量的1.7%。从券种看，境外机构持有国债2.04万亿元、占比63.9%，政策性金融债0.71万亿元、占比22.3%，同业存单0.29万亿元、占比9.1%，其他品种债券0.15万亿元、占比4.7%。",
+     "source": "经济观察网",
+     "zh": "人民银行上海总部：截至9月末境外机构持有银行间市场债券3.19万亿元"
+    },
+    {
+     "title": "中国人民银行副行长宣昌能会见巴西国库秘书丹尼尔·莱亚尔",
+     "link": "http://www.eeo.com.cn/2026/1020/1071085.shtml",
+     "pubDate": "Tue, 20 Oct 2026 18:13:10 +0800",
+     "summary": "据中国人民银行10月20日消息，2026年10月19日，中国人民银行副行长宣昌能会见来访的巴西国库秘书丹尼尔·莱亚尔一行。双方围绕巴西发行主权熊猫债、中巴金融市场互联互通等双边金融合作进行了交流。",
+     "source": "经济观察网",
+     "zh": "中国人民银行副行长宣昌能会见巴西国库秘书丹尼尔·莱亚尔"
+    },
+    {
+     "title": "中东战争推高油价，瑞安航空CEO警告：明年欧洲机票价将出现史上最大涨幅",
+     "link": "http://www.eeo.com.cn/2026/1020/1071084.shtml",
+     "pubDate": "Tue, 20 Oct 2026 18:13:07 +0800",
+     "summary": "中新经纬10月20日电 据彭博社20日报道，瑞安航空控股公司首席执行官迈克尔·奥利里预测，由于中东战争持续推高油价，迫使航空公司将燃油成本转嫁给消费者，明年欧洲机票价格将出现历史上最高的涨幅。 奥利里周二在布鲁塞尔举行的新闻发布会上表示，机票价格明年预计将上涨高达20%。奥利里称，“我认为，未来12个月欧洲的机票价格将出现历史上最大的涨幅。问题是，机票价格的上涨是否足以弥补大幅上涨的石油费用？我认为不...",
+     "source": "经济观察网",
+     "zh": "中东战争推高油价，瑞安航空CEO警告：明年欧洲机票价将出现史上最大涨幅"
+    },
+    {
+     "title": "Stock index futures slip as Korea tumble weighs on tech",
+     "link": "https://seekingalpha.com/news/4654468-sp500-dow-nasdaq-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 20 Oct 2026 06:11:39 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stock index futures slip as Korea tumble weighs on tech"
+    },
+    {
+     "title": "Northrop Grumman GAAP EPS of $7.89 beats by $0.69, revenue of $11.1B misses by $30M",
+     "link": "https://seekingalpha.com/news/4654473-northrop-grumman-gaap-eps-of-7_89-beats-by-0_69-revenue-of-11_1b-misses-by-30m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 20 Oct 2026 06:09:19 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Northrop Grumman GAAP EPS of $7.89 beats by $0.69, revenue of $11.1B misses by $30M"
+    },
+    {
+     "title": "Commerce Bancshares GAAP EPS of $1.08 beats by $0.01, revenue of $494.3M misses by $1.93M",
+     "link": "https://seekingalpha.com/news/4654472-commerce-bancshares-gaap-eps-of-1_08-beats-by-0_01-revenue-of-494_3m-misses-by-1_93m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 20 Oct 2026 06:07:08 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Commerce Bancshares GAAP EPS of $1.08 beats by $0.01, revenue of $494.3M misses by $1.93M"
+    },
+    {
+     "title": "Peoples Bancorp Non-GAAP EPS of $1.04 beats by $0.11, revenue of $119.49M misses by $3.91M",
+     "link": "https://seekingalpha.com/news/4654471-peoples-bancorp-non-gaap-eps-of-104-beats-by-011-revenue-of-11949m-misses-by-391m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 20 Oct 2026 06:06:04 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Peoples Bancorp Non-GAAP EPS of $1.04 beats by $0.11, revenue of $119.49M misses by $3.91M"
+    },
+    {
      "title": "FreightCar America plunges 18% as cancelled retrofit order triggers a massive guidance cut",
      "link": "https://seekingalpha.com/news/4654470-freightcar-america-plunges-18-as-cancelled-retrofit-order-triggers-a-massive-guidance-cut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 20 Oct 2026 06:04:30 -0400",
@@ -2362,22 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "财政部：9月全国共销售彩票673.89亿元 同比增长27.3%"
     },
     {
-     "title": "SoftBank 5-Year CDS climbs to 432 bps on AI debt, acquisition concerns",
-     "link": "https://seekingalpha.com/news/4654467-softbank-5-year-cds-climbs-to-432-bps-on-ai-debt-acquisition-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 20 Oct 2026 05:53:13 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SoftBank 5-Year CDS climbs to 432 bps on AI debt, acquisition concerns"
-    },
-    {
-     "title": "Mercantile Bank Non-GAAP EPS of $1.42 beats by $0.07, revenue of $73.2M beats by $2.36M",
-     "link": "https://seekingalpha.com/news/4654466-mercantile-bank-non-gaap-eps-of-1_42-beats-by-0_07-revenue-of-73_2m-beats-by-2_36m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 20 Oct 2026 05:32:40 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Mercantile Bank Non-GAAP EPS of $1.42 beats by $0.07, revenue of $73.2M beats by $2.36M"
-    },
-    {
      "title": "Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms",
      "link": "https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1",
      "pubDate": "Tue, 20 Oct 2026 09:31:28 GMT",
@@ -2410,38 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "South Korean IPO flop is the latest in a string of disappointments for the global AI trade"
     },
     {
-     "title": "Maersk, Hateco sign deal for $3.5B rail terminal network in northern Vietnam",
-     "link": "https://seekingalpha.com/news/4654465-maersk-hateco-sign-deal-for-35b-rail-terminal-network-in-northern-vietnam?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 20 Oct 2026 05:29:47 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Maersk, Hateco sign deal for $3.5B rail terminal network in northern Vietnam"
-    },
-    {
-     "title": "聚焦“客货面摩电”等高风险车型 重庆公安交管部门启动专项行动",
-     "link": "http://www.eeo.com.cn/2026/1020/1070967.shtml",
-     "pubDate": "Tue, 20 Oct 2026 17:26:17 +0800",
-     "summary": "<img src=\"https://jg-app.obs.cn-north-4.myhuaweicloud.com/prod/upload/0/jpg/0EFB48FDAE2F588028A7ECF7F1174373.jpg\" alt=\"专项行动中，重庆公安交管部门将严查客运车辆超员、超速、不系安全带、疲劳驾驶等违法行为。 警方供图\" data-title=\"专项行动中，重庆公安交管部门将严查客运车辆超员、超速、不系安全带、疲劳驾驶等违法行为。 警方供图\" data-target=\"2112451989547520002\" data-origin=\"https://res.cqhlw.cn/c",
-     "source": "经济观察网",
-     "zh": "聚焦“客货面摩电”等高风险车型 重庆公安交管部门启动专项行动"
-    },
-    {
-     "title": "我在长沙马栏山，做AI漫剧出海",
-     "link": "http://www.eeo.com.cn/2026/1020/1070951.shtml",
-     "pubDate": "Tue, 20 Oct 2026 17:16:47 +0800",
-     "summary": "高峰期，马栏山一度聚集了40多家漫剧制作企业。湖南省政府网站2026年9月披露，马栏山AIGC-OPC孵化空间已孵化约300家主体，推出349部原创作品。",
-     "source": "经济观察网",
-     "zh": "我在长沙马栏山，做AI漫剧出海"
-    },
-    {
-     "title": "Biggest stock movers Tuesday: MMM, RAIL, and more",
-     "link": "https://seekingalpha.com/news/4654464-biggest-stock-movers-tuesday-mmm-rail-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 20 Oct 2026 05:14:27 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Biggest stock movers Tuesday: MMM, RAIL, and more"
-    },
-    {
      "title": "The multi-million dollar real estate portfolio of Buffalo Bills QB Josh Allen and actress Hailee Steinfeld",
      "link": "https://www.marketwatch.com/story/the-multi-million-dollar-real-estate-portfolio-of-buffalo-bills-qb-josh-allen-and-actress-hailee-steinfeld-58a9bd62?mod=mw_rss_topstories",
      "pubDate": "Tue, 20 Oct 2026 09:02:00 GMT",
@@ -2458,60 +2482,36 @@ window.INDUSTRY_DATA = {
      "zh": "DeepSeek全面开源推理框架：兼容英伟达、华为昇腾芯片，单集群日吞吐155万亿Token，每卡每小时收入38美元"
     },
     {
-     "title": "美联储原副主席科恩：美联储下一步行动可能是加息，但节奏不会很快",
-     "link": "http://www.eeo.com.cn/2026/1020/1070938.shtml",
-     "pubDate": "Tue, 20 Oct 2026 16:57:00 +0800",
-     "summary": "在科恩看来，美联储若要暂停加息，需要先确信三件事——供给压力正在缓解、基础通胀正在下降、需求压力不会压倒价格。未来美联储的加息节奏大概率不会很快，理由是通胀预期锚定良好，工资表现与2%的通胀目标一致。...",
-     "source": "经济观察网",
-     "zh": "美联储原副主席科恩：美联储下一步行动可能是加息，但节奏不会很快"
+     "title": "单车一年可赚三五千元！多家主机厂布局V2G 新能源汽车秒变“增收利器”",
+     "link": "http://finance.eastmoney.com/news/1354,202610203901357116.html",
+     "pubDate": "Tue, 20 Oct 2026 16:49:36 +0800",
+     "summary": "从试点走向商用，车企已经嗅到了V2G（车网互动）的商机。 10月20日， 奇瑞汽车 副总裁古春山在2026奇瑞全球创新大会上表示，为推动V2G场景大规模商业化运营，奇瑞计划于2027年上半年在奇瑞风云A9纯电车型上全球首发V2G功能，今年年底在上海、广州、合肥和芜湖等布局秒充+V2G充电站，并在2029年实现全球布局2万座。 此前10月16日，奇瑞绿能与国网安徽 电力 明生集团完成签约，行业首个车网互联V2G规模化运营场站正式启用，标志着V2G由技术验证迈入规模化落地阶段。同时，奇瑞研创中心·迅龙秒充示范站亮相，拥有1440kW迅龙秒充设备，5分钟补能500km，并配备超充、快充、V2G、充电",
+     "source": "东方财富资讯",
+     "zh": "单车一年可赚三五千元！多家主机厂布局V2G 新能源汽车秒变“增收利器”"
     },
     {
-     "title": "英伟达百亿美元投资落子德国，黄仁勋：昔日科技强国掉队，让我十分痛心",
-     "link": "https://wallstreetcn.com/articles/3784018",
-     "pubDate": "Tue, 20 Oct 2026 16:43:49 +0800",
-     "summary": "英伟达正将其近百亿美元的欧洲投资计划推进至德国。在柏林举行的\"投资德国\"峰会上，英伟达与德国政府签署合作意向声明，宣布投资四家德国初创企业，并与西门子达成AI工厂合作协议，进一步巩固其在欧洲工业AI领域的战略布局。 德国总理默茨在峰会开幕致辞中向企业界发出呼吁，要求德国中小企业向AI开放数据，并强调德国有意成为全球AI工业应用的领导者。英伟达CEO黄仁勋则在台上表示，AI只能增强人的能力，而非取代专业知识，将其定性为企业可用的\"新工具\"。 黄仁勋还惋惜德国在科技竞争中落后： “ 坦白说，最让我痛心的莫过于，看到一个技术上水平顶尖的国家，在科技领域却远远落后。 我认为背后的原因或许在于欧洲人的行",
-     "source": "华尔街见闻",
-     "zh": "英伟达百亿美元投资落子德国，黄仁勋：昔日科技强国掉队，让我十分痛心"
+     "title": "金融街论坛讲话最新解读！央行政策利率为何“换锚”？",
+     "link": "http://finance.eastmoney.com/news/1345,202610203901348813.html",
+     "pubDate": "Tue, 20 Oct 2026 16:46:53 +0800",
+     "summary": "日前，中国人民 银行 行长潘功胜参加2026 金融街 论坛年会开幕式并发表主题演讲，介绍人民 银行 （下称“央行”）货币政策框架的转型方向与安排。其中，央行将“研究择机把央行公开市场主要操作品种的期限切换为隔夜，公开市场隔夜回购利率将相应成为主要政策利率”有关部署备受市场关注。 隔夜利率是货币市场交易最活跃、具有基准性的利率，代表市场最短端的流动性松紧状况，没有长端的期限风险干扰，信号最及时、最纯粹，适合用来传递央行当前的政策立场。 近年来，隔夜利率作为我国市场定价基准的条件愈发成熟。在受访专家看来，央行在当下宣布研究择机推动公开市场操作品种切换为隔夜、政策利率切换为隔夜回购利率，是利率传导机",
+     "source": "东方财富资讯",
+     "zh": "金融街论坛讲话最新解读！央行政策利率为何“换锚”？"
     },
     {
-     "title": "沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%",
-     "link": "https://wallstreetcn.com/articles/3783987",
-     "pubDate": "Tue, 20 Oct 2026 16:27:59 +0800",
-     "summary": "10月20日，A股A股全天宽幅震荡，三大指数涨跌互现，午后一度集体走低，创业板跌超1%，宁德时代、中际旭创、新易盛持续下滑，尾盘跌幅收窄，沪指翻红，创业板小幅下跌。上证50ETF尾盘放量，多只权重股拉升，助力沪指收红。资金盘中转向科技方阵，科创综指一度涨超3%。AI硬件方向持续活跃，端侧AI及芯片产业链成为市场重要主线。 北证50涨3.8%，此前，证监会主席吴清宣布，推出北证50ETF、北交所新股市值配售、创新性评价标准等举措。人形机器人爆发，宇树科技盘中大涨12%，白酒、煤炭、海运等板块调整。芯片半导体活跃，摩尔线程涨超10%。存储芯片承压，长鑫科技跌近3%。 港股午后延续跌势，恒指、恒科指",
-     "source": "华尔街见闻",
-     "zh": "沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%"
+     "title": "中期选举前又撒钱！特朗普宣布向农民提供80亿美元补贴",
+     "link": "http://finance.eastmoney.com/news/1346,202610203901368238.html",
+     "pubDate": "Tue, 20 Oct 2026 16:45:58 +0800",
+     "summary": "美国总统特朗普周一在堪萨斯州举行的一场竞选集会上宣布， 美国农业部将推出一项所谓的“收获季燃料救济计划”（harvest fuel relief program），向农民提供80亿美元的支持，以帮助他们抵消收获季的柴油成本 。 这是特朗普在11月中期选举前夕，向选民作出的一系列资金支持承诺中的最新一项 。本次中期选举将决定国会控制权，而特朗普所在的共和党选情堪忧。 目前，共和党在参议院和众议院均占据微弱多数席位。然而，由于美伊战争推高了燃油价格，美国人面临高昂的生活成本，特朗普的支持率一直低迷。 根据美国 汽车 协会（AAA）的数据,目前柴油均价约为每加仑6.32美元，远高于一年前的每加仑3.",
+     "source": "东方财富资讯",
+     "zh": "中期选举前又撒钱！特朗普宣布向农民提供80亿美元补贴"
     },
     {
-     "title": "It’s a rough housing market, and Goldman Sachs expects it to get worse",
-     "link": "https://www.marketwatch.com/story/its-a-rough-housing-market-and-goldman-sachs-expects-it-to-get-worse-be2c5aac?mod=mw_rss_topstories",
-     "pubDate": "Tue, 20 Oct 2026 08:13:00 GMT",
-     "summary": "As bad as it is for the housing market — starts and transactions basically flat for the last three years with mortgage rates over 7%— it can get still get worse.",
-     "source": "MarketWatch",
-     "zh": "It’s a rough housing market, and Goldman Sachs expects it to get worse"
-    },
-    {
-     "title": "AI交易情绪趋紧，美股盘前存储芯片股普跌，SK海力士跌约4%，美元走软",
-     "link": "https://wallstreetcn.com/articles/3783983",
-     "pubDate": "Tue, 20 Oct 2026 16:09:36 +0800",
-     "summary": "科技股再度下挫，科技巨头财报季临近令人工智能相关交易持续承压。与此同时，美元走软，市场进入观望模式。 周二，美股盘前，存储芯片股普跌，SK海力士跌约4%，西部数据跌约2%，闪迪跌约2%，美光科技跌约2%，希捷科技跌约2%。韩国综合股价指数下跌3.7%，成为亚太区跌幅最深的主要指数之一，芯片巨头SK海力士跌4.23%，股价逼近4月以来最低收盘价。摩根士丹利资本国际亚太指数下跌1.4%，与周一美国科技股主导的反弹行情明显背离。纳斯达克100指数期货下跌0.4%，欧洲股市预计低开0.7%。 本周Meta、特斯拉等科技巨头密集发布财报，市场对于AI投资能否延续涨势仍存疑虑，令投资者普遍保持谨慎。同日，",
-     "source": "华尔街见闻",
-     "zh": "AI交易情绪趋紧，美股盘前存储芯片股普跌，SK海力士跌约4%，美元走软"
-    },
-    {
-     "title": "美股见顶最直接的信号：韩国芯片出口？",
-     "link": "https://wallstreetcn.com/articles/3784011",
-     "pubDate": "Tue, 20 Oct 2026 15:54:48 +0800",
-     "summary": "美股能否继续上涨，答案或许不在债券市场，而藏于亚洲半导体供应链的月度数据之中。 近日，彭博宏观策略师Simon White指出，投资者目前过于执着于\"多高的国债收益率会压垮股市\"这一问题，这本质上是个伪命题。 真正需要追踪的信号，是韩国与中国台湾的芯片出口数据——一旦出现明显下滑，将提前3至6个月预警资本支出周期见顶，进而触发盈利预期转向，令高收益率环境下的美股骤然承压。 目前，上述出口数据尚未显示投资周期即将逆转的迹象。 收益率走高迄今未能压垮股市，核心原因在于盈利预期以前所未有的速度攀升。 标普500指数未来三年预期盈利总和正以每年40%的速度增长，远超高贴现率对现金流现值的压缩效应。与此",
-     "source": "华尔街见闻",
-     "zh": "美股见顶最直接的信号：韩国芯片出口？"
-    },
-    {
-     "title": "South Korean data centre builder tumbles 32% on trading debut",
-     "link": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
-     "pubDate": "Tue, 20 Oct 2026 07:03:21 GMT",
-     "summary": "Shares in Elice sink in Seoul, adding to rising concern about AI valuations",
-     "source": "Financial Times",
-     "zh": "South Korean data centre builder tumbles 32% on trading debut"
+     "title": "“黑天鹅”突袭！市场猛烈抛售！韩国发生了什么？",
+     "link": "http://finance.eastmoney.com/news/1345,202610203901347846.html",
+     "pubDate": "Tue, 20 Oct 2026 16:44:54 +0800",
+     "summary": "韩国股市又崩了！ 10月20日，韩股突遭“黑天鹅”。作为今年韩国科斯达克（KOSDAQ）年内规模最大的IPO——AI 数据中心 新创公司Elice Group，上市首日股价暴跌32%。 Elice Group的发行价为每股90500韩元，募资2010亿韩元（约1.51亿美元）。根据相关申报文件，Elice Group在IPO期间获得的机构认购订单量达到可供认购股份数量的388.84倍。 今天（10月20日），韩国股市再度遭遇大抛售，KOSPI指数一度大跌超4.5%。外资在韩证券市场净卖出6367亿韩元，法人机构也净卖出超4670亿韩元，其中金融投资机构净卖出2418亿韩元，退休金净卖出1590",
+     "source": "东方财富资讯",
+     "zh": "“黑天鹅”突袭！市场猛烈抛售！韩国发生了什么？"
     }
    ]
   },

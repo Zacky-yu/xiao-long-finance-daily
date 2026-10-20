@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/20 13:12:05",
+ "generated_at": "2026/10/20 13:32:40",
  "recent_days": 7,
  "industries": [
   {
@@ -1778,6 +1778,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "iQOO Neo12 手机官宣搭载全新冰穹主动散热风扇、Neo 史上最大面积 VC",
+     "link": "https://www.ithome.com/1/015/259.htm",
+     "pubDate": "Tue, 20 Oct 2026 05:20:49 GMT",
+     "summary": "IT之家 10 月 20 日消息，iQOO Neo12 手机官宣将于 10 月 28 日 19:00 发布即开售。 官方今日对这款新机进行预热，官宣搭载 第五代骁龙 8 至尊版处理器 、iQOO16 同款 Monster 超核引擎以及 新一代冰穹主动散热风扇 。 官方随后公布了新机的散热性能，搭载全新冰穹主动散热风扇，59 片大尺寸扇叶，风扇转速支持三档智能调节；电路板双层防水设计，使用高强度转子和轴心焊接；8.2K 3D 冰穹 VC 被动散热， Neo 史上最大面积 VC ，相比 Neo11 VC 均热性能提升 15%。 IT之家附 iQOO Neo12 新机目前已公布 / 曝光的配置如下：",
+     "source": "IT之家",
+     "zh": "iQOO Neo12 手机官宣搭载全新冰穹主动散热风扇、Neo 史上最大面积 VC"
+    },
+    {
+     "title": "小米米家口袋照片打印机 Pro 礼盒装开售：专属浅紫配色，799 元",
+     "link": "https://www.ithome.com/1/015/258.htm",
+     "pubDate": "Tue, 20 Oct 2026 05:10:47 GMT",
+     "summary": "IT之家 10 月 20 日消息，小米米家口袋照片打印机 Pro 礼盒装今日正式开售， 售价 799 元 。 这款礼盒装的米家口袋照片打印机 Pro 采用淡雅浅紫色机身， 该配色为礼盒专属 ，仅随礼盒发售。 据介绍，这款产品采用专业热升华打印技术，分辨率达到 313dpi，拥有 1670 万色宽广色域和 256 级灰阶呈现，能够清晰细腻还原照片原本色彩；打印过程中自动完成一体化覆膜，可有效阻隔日常水汽侵扰，让照片不易老化褪色。 礼盒附赠磁吸收纳相框，一物多用，可作为桌面摆台，也可作为磁吸冰箱贴，将美好回忆贴在冰箱上；同时相框还可收纳照片，最多可容纳 20 张照片，收纳展示一步到位。 礼盒自带收",
+     "source": "IT之家",
+     "zh": "小米米家口袋照片打印机 Pro 礼盒装开售：专属浅紫配色，799 元"
+    },
+    {
      "title": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
      "link": "https://www.wired.com/story/adorama-promo-code/",
      "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
@@ -1810,20 +1826,20 @@ window.INDUSTRY_DATA = {
      "zh": "Wayfair Coupons: Up to 80% Off October 2026"
     },
     {
-     "title": "Chewy Promo Codes: $20 Off October 2026",
-     "link": "https://www.wired.com/story/chewy-promo-code/",
-     "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
-     "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
-     "source": "WIRED",
-     "zh": "Chewy Promo Codes: $20 Off October 2026"
-    },
-    {
      "title": "30% Off Canon Promo Codes | October 2026",
      "link": "https://www.wired.com/story/canon-promo-code/",
      "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
      "source": "WIRED",
      "zh": "30% Off Canon Promo Codes | October 2026"
+    },
+    {
+     "title": "50% Off DoorDash Promo Code | October 2026",
+     "link": "https://www.wired.com/story/doordash-promo-code/",
+     "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
+     "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+     "source": "WIRED",
+     "zh": "50% Off DoorDash Promo Code | October 2026"
     },
     {
      "title": "诺奖得主安德烈 · 海姆：单层石墨烯性能卓越，相关研究 15 年内一定能走入百姓生活",
@@ -1898,28 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "1508万主播背后，站着一批不敢下播的中年人"
     },
     {
-     "title": "长城 27 款坦克 500 将于 10 月 23 日上市，搭载 Coffee Pilot 4 辅助驾驶系统",
-     "link": "https://www.ithome.com/1/015/251.htm",
-     "pubDate": "Tue, 20 Oct 2026 04:41:24 GMT",
-     "summary": "IT之家 10 月 20 日消息，据易车消息，27 款坦克 500 将于 10 月 23 日正式上市。 据IT之家此前报道，10 月 16 日， 27 款坦克 500 正式开启预订 ， 3000 元订金抵 9000 元购车尾款 。 新车延续现款主体外观设计，新增丹霞红车身配色；长宽高分别为 5078/1934/1905mm，轴距 2850mm；接近角 29°，离去角 24°，最小离地间隙 210mm。 智能驾驶辅助系统方面，新车搭载了 Coffee Pilot 4.0 智能辅助驾驶系统，配备了一颗 700TOPS 算力的 Thor-U 芯片和包括禾赛 192 线激光雷达在内的 27 个传感器。",
-     "source": "IT之家",
-     "zh": "长城 27 款坦克 500 将于 10 月 23 日上市，搭载 Coffee Pilot 4 辅助驾驶系统"
-    },
-    {
      "title": "中国等不来Muse",
      "link": "https://www.huxiu.com/article/4898881.html?f=rss",
      "pubDate": "Tue, 20 Oct 2026 12:40:38 +0800",
      "summary": "本文来自微信公众号： 穷奇商业 ，作者：穷奇观察 ——三个小循环，整合不出一个大循环（文章为10月4日定稿） 中国等不来Muse，不是技术不够，不是动作不快，是这道题根本不存在。Muse解的是\"打通\"，美国没有小循环，反垄断拆完墙，浏览器是万能钥匙，一个Agent能替用户敲开所有门。 中国要解的是\"整合\"。字节、腾讯、阿里，三家庄园自给自足，门都是自家的，不需要外部钥匙。题不一样，抄得了作业本，抄不了题目。 Muse的地基 先看Muse自己有多猛。 9月2日，Meta发布Muse模型Spark 1.3；9月8日，Muse助手App上线。上线两周，全球下载量突破250万。9月22日，Meta股价",
      "source": "虎嗅",
      "zh": "中国等不来Muse"
-    },
-    {
-     "title": "粉丝用 AI 基于虚幻引擎 5.8 重制《恶霸鲁尼》，Mac 上 1080P 能跑 45 帧",
-     "link": "https://www.ithome.com/1/015/250.htm",
-     "pubDate": "Tue, 20 Oct 2026 04:40:37 GMT",
-     "summary": "IT之家 10 月 20 日消息，尽管官方一直没有推出续作，但《恶霸鲁尼》（Bully）多年来热度居高不下。之所以迟迟没有新作问世，只是因为 Rockstar 一直忙于其他系列项目。不过开发团队清楚这款作品人气很高，此前曾将其列为工作室史上最受欢迎的四款游戏之一。 多年来，不断有传闻称 Take-Two 计划以重制或高清复刻的形式重启该 IP，但粉丝们已经等得失去耐心，开始自己动手制作《恶霸鲁尼》重制版，以现代游戏标准重新构想这个 IP。现在有一位专注的爱好者，正借助 AI 工具从零开始，制作虚幻引擎 5 版《恶霸鲁尼》。 IT之家注意到，推特用户 @ashen_one 透露，他正在基于虚幻引",
-     "source": "IT之家",
-     "zh": "粉丝用 AI 基于虚幻引擎 5.8 重制《恶霸鲁尼》，Mac 上 1080P 能跑 45 帧"
     },
     {
      "title": "一孩一股SpaceX，马斯克105亿美元的全民实验",
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
      "link": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
      "pubDate": "Tue, 20 Oct 2026 04:02:26 +0000",
-     "summary": "Article URL: https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/ Comments URL: https://news.ycombinator.com/item?id=50161207 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/ Comments URL: https://news.ycombinator.com/item?id=50161207 Points: 15 # Comments: 9",
      "source": "Hacker News",
      "zh": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor"
     },
@@ -1997,7 +1997,7 @@ window.INDUSTRY_DATA = {
      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
      "link": "https://github.com/golang/go/issues/82345",
      "pubDate": "Tue, 20 Oct 2026 03:05:07 +0000",
-     "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 31 # Comments: 13",
+     "summary": "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 32 # Comments: 15",
      "source": "Hacker News",
      "zh": "Go will reject certificate chains containing eight distrusted SPKIs"
     },
@@ -2013,7 +2013,7 @@ window.INDUSTRY_DATA = {
      "title": "OpenBSD 8.0",
      "link": "https://www.openbsd.org/80.html",
      "pubDate": "Tue, 20 Oct 2026 02:06:40 +0000",
-     "summary": "Article URL: https://www.openbsd.org/80.html Comments URL: https://news.ycombinator.com/item?id=50160494 Points: 93 # Comments: 28",
+     "summary": "Article URL: https://www.openbsd.org/80.html Comments URL: https://news.ycombinator.com/item?id=50160494 Points: 111 # Comments: 31",
      "source": "Hacker News",
      "zh": "OpenBSD 8.0"
     }
@@ -2274,60 +2274,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "The world’s finance chiefs see new risks — and less China angst",
+     "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+     "pubDate": "Tue, 20 Oct 2026 05:27:53 GMT",
+     "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+     "source": "CNBC",
+     "zh": "The world’s finance chiefs see new risks — and less China angst"
+    },
+    {
+     "title": "官方推出首批136项标志性重大应用场景项目",
+     "link": "http://www.eeo.com.cn/2026/1020/1070525.shtml",
+     "pubDate": "Tue, 20 Oct 2026 13:26:06 +0800",
+     "summary": "中新经纬10月20日电 国家发改委20日召开10月份新闻发布会。国家发改委政策研究室副主任、委新闻发言人李超在会上通报，国家发展改革委会同有关部门推出首批136项标志性重大应用场景项目，为场景培育和开放提供重要牵引。 李超称，国家发改委将会同有关方面，建立高效联动的工作机制，加强技术、数据、人才、资本等要素支撑保障，支持场景建设牵头单位健全场景需求发布、技术对接、成果展示、要素匹配等具体办法，为各类经...",
+     "source": "经济观察网",
+     "zh": "官方推出首批136项标志性重大应用场景项目"
+    },
+    {
+     "title": "润建股份10月20日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901187941.html",
+     "pubDate": "Tue, 20 Oct 2026 13:25:57 +0800",
+     "summary": "以下是 润建股份 在北京时间10月20日13:25分盘口异动快照： 10月20日， 润建股份 盘中涨幅达5%，截至13点25分，报48.77元，成交9.02亿元，换手率8.90%。 分笔 13:25:48 48.77 318↑ 13:25:45 48.51 1061↑ 13:25:42 48.38 367↑ 13:25:39 48.33 235↑ 13:25:36 48.33 98↑ 13:25:33 48.32 149↑ 13:25:30 48.26 365↑ 13:25:27 48.26 17↑ 13:25:24 48.24 150↑ 13:25:21 48.18 1937↑ 报价 卖五 ",
+     "source": "东方财富股票",
+     "zh": "润建股份10月20日盘中涨幅达5%"
+    },
+    {
+     "title": "10月20日卫浴电器板块涨幅达2%",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901187495.html",
+     "pubDate": "Tue, 20 Oct 2026 13:25:36 +0800",
+     "summary": "&emsp;&emsp;10月20日13点25分， 卫浴电器 板块指数报1424.003点，涨幅达2%，成交4.51亿元，换手率3.21%。 &emsp;&emsp;板块个股中，涨幅最大的前3个股为： 日出东方 报7.59元，涨6.45%； 万和电气 报8.15元，涨1.49%； 奥普科技 报9.08元，跌1.20%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月20日卫浴电器板块涨幅达2%"
+    },
+    {
+     "title": "万和电气10月20日快速反弹",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901187384.html",
+     "pubDate": "Tue, 20 Oct 2026 13:25:22 +0800",
+     "summary": "以下是 万和电气 在北京时间10月20日13:25分盘口异动快照： 10月20日， 万和电气 盘中快速反弹，5分钟内涨幅超过2%，截至13点25分，报8.04元，成交1.71亿元，换手率3.28%。 分笔 13:25:15 8.04 6299↑ 13:25:12 7.86 93↑ 13:25:09 7.85 11↓ 13:25:06 7.85 1↓ 13:25:00 7.85 1↓ 13:24:48 7.85 72↓ 13:24:45 7.86 14↑ 13:24:36 7.86 5↑ 13:24:30 7.86 30↑ 13:24:27 7.85 5↓ 报价 卖五 8.09 115 卖四 8",
+     "source": "东方财富股票",
+     "zh": "万和电气10月20日快速反弹"
+    },
+    {
+     "title": "10月20日洗护用品板块跌幅达3%",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901186875.html",
+     "pubDate": "Tue, 20 Oct 2026 13:24:35 +0800",
+     "summary": "&emsp;&emsp;10月20日13点24分， 洗护用品 板块指数报537.313点，跌幅达3%，成交2.23亿元，换手率1.24%。 &emsp;&emsp;板块个股中，跌幅最大的前4个股为： 润本股份 报18.21元，跌8.03%； 登康口腔 报30.16元，跌2.30%； 两面针 报5.09元，跌1.36%； 倍加洁 报23.66元，跌0.38%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月20日洗护用品板块跌幅达3%"
+    },
+    {
+     "title": "10月20日商用载客车板块跌幅达3%",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901186786.html",
+     "pubDate": "Tue, 20 Oct 2026 13:24:27 +0800",
+     "summary": "&emsp;&emsp;10月20日13点24分， 商用载客车 板块指数报3121.108点，跌幅达3%，成交7.55亿元，换手率1.55%。 &emsp;&emsp;板块个股中，跌幅最大的前5个股为： 金龙汽车 报9.79元，跌5.41%； 曙光股份 报2.85元，跌3.06%； 安凯客车 报3.57元，跌2.99%； 中通客车 报9.18元，跌2.13%； 宇通客车 报28.59元，跌1.69%。 注：以上信息仅供参考，不对您构成任何投资建议。",
+     "source": "东方财富股票",
+     "zh": "10月20日商用载客车板块跌幅达3%"
+    },
+    {
+     "title": "浩物股份10月20日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610203901186613.html",
+     "pubDate": "Tue, 20 Oct 2026 13:24:18 +0800",
+     "summary": "以下是 浩物股份 在北京时间10月20日13:24分盘口异动快照： 10月20日， 浩物股份 盘中涨幅达5%，截至13点24分，报4.45元，成交9835.22万元，换手率4.24%。 分笔 13:24:12 4.45 94↑ 13:24:09 4.44 1708↑ 13:24:06 4.44 3↑ 13:24:03 4.43 3↓ 13:24:00 4.43 5↓ 13:23:57 4.43 50↓ 13:23:54 4.43 1715↑ 13:23:51 4.40 19↓ 13:23:48 4.42 161↑ 13:23:45 4.41 11↑ 报价 卖五 4.49 442 卖四 4.48",
+     "source": "东方财富股票",
+     "zh": "浩物股份10月20日盘中涨幅达5%"
+    },
+    {
+     "title": "要素综合改革试点首批创新举措发布！事关土地、算力等要素",
+     "link": "http://www.eeo.com.cn/2026/1020/1070508.shtml",
+     "pubDate": "Tue, 20 Oct 2026 13:13:14 +0800",
+     "summary": "21世纪经济报道记者 周潇枭 北京报道 近日，国家发展改革委会同有关部门印发《要素市场化配置综合改革试点创新举措和经验做法（第一批）》。 2025年9月，国务院印发《关于全国部分地区要素市场化配置综合改革试点实施方案的批复》，明确在10个地区开展要素市场化配置综合改革试点。要素综合改革试点实施一年多来，10个地区推动一批重点改革举措落地实施，取得积极成效。 10月20日，国家发展改革委政策研究室副主任...",
+     "source": "经济观察网",
+     "zh": "要素综合改革试点首批创新举措发布！事关土地、算力等要素"
+    },
+    {
+     "title": "国家发改委：正制定未来5年扩内需战略实施方案",
+     "link": "http://www.eeo.com.cn/2026/1020/1070507.shtml",
+     "pubDate": "Tue, 20 Oct 2026 13:13:14 +0800",
+     "summary": "21世纪经济报道记者 周潇枭 北京报道 10月20日，国家发展改革委10月份新闻发布会在京举行。 （国家发展改革委发布会现场图，拍摄：周潇枭）</...",
+     "source": "经济观察网",
+     "zh": "国家发改委：正制定未来5年扩内需战略实施方案"
+    },
+    {
+     "title": "首批重大应用场景项目清单来了，涉及矿山、脑机接口、新型储能等",
+     "link": "http://www.eeo.com.cn/2026/1020/1070506.shtml",
+     "pubDate": "Tue, 20 Oct 2026 13:13:13 +0800",
+     "summary": "21世纪经济报道记者 周潇枭 北京报道 近日，国家发展改革委会同科技部、工业和信息化部、人力资源社会保障部、应急管理部、国务院国资委等部门推出首批136项标志性重大应用场景项目清单。 10月20日，国家发展改革委政策研究室副主任、委新闻发言人李超在国家发展改革委10月月度发布会上表示，2025年11月，国务院办公厅印发《关于加快场景培育和开放 推动新场景大规模应用的实施意见》，各方面开展积极探索，形成了一批价...",
+     "source": "经济观察网",
+     "zh": "首批重大应用场景项目清单来了，涉及矿山、脑机接口、新型储能等"
+    },
+    {
      "title": "BlackRock’s Fink sees AI shortages, not a bubble, as the bigger threat",
      "link": "https://seekingalpha.com/news/4654454-blackrocks-fink-sees-ai-shortages-not-a-bubble-as-the-bigger-threat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Tue, 20 Oct 2026 01:01:57 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "BlackRock’s Fink sees AI shortages, not a bubble, as the bigger threat"
-    },
-    {
-     "title": "惠泉啤酒10月20日盘中跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901162958.html",
-     "pubDate": "Tue, 20 Oct 2026 13:01:43 +0800",
-     "summary": "以下是 惠泉啤酒 在北京时间10月20日13:01分盘口异动快照： 10月20日， 惠泉啤酒 盘中跌幅达5%，截至13点01分，报12.44元，成交1.45亿元，换手率4.58%。 分笔 13:01:39 12.44 242↓ 13:01:36 12.47 25↓ 13:01:33 12.46 103↑ 13:01:30 12.46 72↓ 13:01:27 12.46 59↓ 13:01:24 12.48 48↑ 13:01:21 12.46 120↓ 13:01:18 12.48 376↓ 13:01:15 12.49 199↓ 13:01:12 12.50 309↓ 报价 卖五 12.5",
-     "source": "东方财富股票",
-     "zh": "惠泉啤酒10月20日盘中跌幅达5%"
-    },
-    {
-     "title": "安邦护卫10月20日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901162820.html",
-     "pubDate": "Tue, 20 Oct 2026 13:01:29 +0800",
-     "summary": "以下是 安邦护卫 在北京时间10月20日13:01分盘口异动快照： 10月20日， 安邦护卫 盘中快速回调，5分钟内跌幅超过2%，截至13点01分，报43.86元，成交7690.45万元，换手率2.79%。 分笔 13:01:20 43.86 3↓ 13:01:17 43.88 7↓ 13:01:14 43.94 1↑ 13:01:05 43.93 17↓ 13:01:02 43.96 7↓ 13:00:56 44.00 12↑ 13:00:53 44.00 23↓ 13:00:50 44.02 4↓ 13:00:47 44.04 2↓ 13:00:44 44.06 47↑ 报价 卖五 43.",
-     "source": "东方财富股票",
-     "zh": "安邦护卫10月20日快速回调"
-    },
-    {
-     "title": "零点有数10月20日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901162658.html",
-     "pubDate": "Tue, 20 Oct 2026 13:01:20 +0800",
-     "summary": "以下是 零点有数 在北京时间10月20日13:01分盘口异动快照： 10月20日， 零点有数 盘中快速回调，5分钟内跌幅超过2%，截至13点01分，报46.79元，成交6249.18万元，换手率1.86%。 分笔 13:01:09 46.79 1↓ 13:01:06 46.80 25↓ 13:01:03 46.80 5↑ 13:01:00 46.78 4↑ 13:00:57 46.78 3↑ 13:00:54 46.79 6↑ 13:00:51 46.78 1↑ 13:00:48 46.76 6↓ 13:00:42 46.78 17↑ 13:00:39 46.77 1↓ 报价 卖五 47.36",
-     "source": "东方财富股票",
-     "zh": "零点有数10月20日快速回调"
-    },
-    {
-     "title": "税友股份10月20日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901162525.html",
-     "pubDate": "Tue, 20 Oct 2026 13:01:20 +0800",
-     "summary": "以下是 税友股份 在北京时间10月20日13:01分盘口异动快照： 10月20日， 税友股份 盘中快速回调，5分钟内跌幅超过2%，截至13点01分，报42.58元，成交3.71亿元，换手率2.21%。 分笔 13:01:16 42.58 11↑ 13:01:13 42.63 3↑ 13:01:10 42.60 13↓ 13:01:07 42.64 9↓ 13:01:04 42.64 2↓ 13:01:01 42.65 1↑ 13:00:58 42.64 1↓ 13:00:55 42.65 6↓ 13:00:52 42.69 21↓ 13:00:49 42.69 14↓ 报价 卖五 42.65 ",
-     "source": "东方财富股票",
-     "zh": "税友股份10月20日快速回调"
-    },
-    {
-     "title": "展鹏科技10月20日盘中涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901162471.html",
-     "pubDate": "Tue, 20 Oct 2026 13:01:12 +0800",
-     "summary": "以下是 展鹏科技 在北京时间10月20日13:01分盘口异动快照： 10月20日， 展鹏科技 盘中涨幅达5%，截至13点01分，报7.43元，成交3572.11万元，换手率1.70%。 分笔 13:01:02 7.43 376↑ 13:00:59 7.39 322↓ 13:00:56 7.42 680↑ 13:00:53 7.41 219↑ 13:00:50 7.37 1406↑ 13:00:47 7.37 712↑ 13:00:44 7.31 568↑ 13:00:41 7.25 144↑ 13:00:38 7.25 26↑ 13:00:35 7.25 218↓ 报价 卖五 7.49 151",
-     "source": "东方财富股票",
-     "zh": "展鹏科技10月20日盘中涨幅达5%"
-    },
-    {
-     "title": "江苏雷利10月20日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202610203901162357.html",
-     "pubDate": "Tue, 20 Oct 2026 13:01:04 +0800",
-     "summary": "以下是 江苏雷利 在北京时间10月20日13:01分盘口异动快照： 10月20日， 江苏雷利 盘中快速上涨，5分钟内涨幅超过2%，截至13点01分，报23.74元，成交1.94亿元，换手率1.44%。 分笔 13:01:00 23.74 108↑ 13:00:57 23.70 34↓ 13:00:54 23.71 301↑ 13:00:51 23.66 419↑ 13:00:48 23.64 330↑ 13:00:45 23.60 150↓ 13:00:42 23.60 70↑ 13:00:39 23.59 30↓ 13:00:36 23.60 63↑ 13:00:33 23.60 36↑ 报",
-     "source": "东方财富股票",
-     "zh": "江苏雷利10月20日快速上涨"
     },
     {
      "title": "佩服！广州一56岁女子退休后考研上岸中大",
@@ -2344,22 +2384,6 @@ window.INDUSTRY_DATA = {
      "summary": "21世纪经济报道记者周慧 北京报道 10月20日，国新办就“十五五”时期加强文化遗产保护情况举行新闻发布会。 国家文物局副局长邓超介绍，“十四五”期间，全国博物馆数量由5788家增长至7188家，累计接待观众超过62亿人次，共举办展览22.4万个，开展教育活动225.1万场次，“何以中国”等展览引发社会热议，全国各地乃至海外观众纷至沓来，“为展赴城”成为文化现象，博物馆作为文化殿堂和桥梁的作用越发彰显。 ...",
      "source": "经济观察网",
      "zh": "国家文物局：期待“十五五” 跟随优质展览，奔赴更多宝藏小城"
-    },
-    {
-     "title": "星巴克将实施“消费才能入座”？星巴克：消息不属实",
-     "link": "http://www.eeo.com.cn/2026/1020/1070470.shtml",
-     "pubDate": "Tue, 20 Oct 2026 12:52:06 +0800",
-     "summary": "近日，有网友称在门店拍到有“星巴克营业空间，请消费入座”的提示牌物料，并且有店员表示将从10月20日开始执行。对此，星巴克方面回应称“消息不属实”。 不过，各门店似乎对该项政策理解有差别，记者随机致电了广州和佛山地区的门店询问，前者的店员表示“不确定”，需要到10月21日才能获知细节；后者则明确告知门店只是“倡议”，不是强制规定，但如果高峰时期客人较多，将会优先让已消费客人入座。",
-     "source": "经济观察网",
-     "zh": "星巴克将实施“消费才能入座”？星巴克：消息不属实"
-    },
-    {
-     "title": "广东上线制造业赋能官方对接平台“粤智赋”",
-     "link": "http://www.eeo.com.cn/2026/1020/1070469.shtml",
-     "pubDate": "Tue, 20 Oct 2026 12:52:05 +0800",
-     "summary": "上证报中国证券网讯（记者 周亮）10月20日，“粤智赋万企行”专项行动新闻发布会举行。广东省人民政府副秘书长孙哲表示，自去年12月开始，广东以AI应用为核心引擎，围绕微笑曲线“研发创新、制造生产、品牌建设、市场销售”各环节，探索形成“一张需求单、一个资源库、一个线上平台、一系列对接活动、一套支持政策”的“五个一”工作路径，系统打造广东省制造业赋能体系。孙哲介绍，目前，制造业赋能工作取得积极进展，已建立常态...",
-     "source": "经济观察网",
-     "zh": "广东上线制造业赋能官方对接平台“粤智赋”"
     },
     {
      "title": "&apos;Cannot play hide and seek&apos;: Minister&apos;s warning over haze sends Singapore agricultural stocks lower",
@@ -2392,22 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "韩国数据中心公司Elice在Kosdaq上市首日暴跌32%，成为全球AI算力基础设施IPO折戟名单上的最新一例。这家自称「neocloud」（新型算力云）、且罕见已经盈利的公司，以估值仅为同行零头的价格上市，仍未能逃过抛售，标志着市场对AI数据中心资产的定价逻辑已从“增长预期”转向“资本开支”。 Elice以发行价区间上限90,500韩元定价，募资2010亿韩元（约1.51亿美元），上市后市值略超1万亿韩元，是Kosdaq年内规模最大的IPO 。韩国散户为此投入约10.3万亿韩元（约77亿美元）认购资金，散户超额认购超过400倍 ——相当于把整个发行规模约51倍的资金冻结在账户里等待配售。 但",
      "source": "华尔街见闻",
      "zh": "韩国最大IPO首日暴跌32%：盈利的\"新云\"公司也难逃AI数据中心寒冬"
-    },
-    {
-     "title": "正在研究制定扩大内需战略实施方案！国家发改委这场发布会信息量很大",
-     "link": "http://www.eeo.com.cn/2026/1020/1070428.shtml",
-     "pubDate": "Tue, 20 Oct 2026 12:26:13 +0800",
-     "summary": "10月20日，国家发展改革委召开10月份新闻发布会。 要点如下： 更大力度、更实举措有效扩大内需 国家发展改革委国民经济综合司副司长左刚表示，下一步，国家发展改革委将会同有关部门，以更大力度、更实举措有效扩大内需。 一是坚持惠民生和促消费相结合，大力提振消费。统筹促就业、增收入、稳预期，合理提高公共服务支出占财政支出比重，加大直达消费者的普惠政策力度。推动商品消费扩容升级，促...",
-     "source": "经济观察网",
-     "zh": "正在研究制定扩大内需战略实施方案！国家发改委这场发布会信息量很大"
-    },
-    {
-     "title": "国家发改委：多措并举加大力度扩大内需",
-     "link": "http://www.eeo.com.cn/2026/1020/1070427.shtml",
-     "pubDate": "Tue, 20 Oct 2026 12:26:13 +0800",
-     "summary": "10月20日，国家发展改革委召开10月份新闻发布会。国家发展改革委国民经济综合司副司长左刚表示，下一步，国家发展改革委将会同有关部门，以更大力度、更实举措有效扩大内需。 坚持惠民生和促消费相结合，大力提振消费。统筹促就业、增收入、稳预期，合理提高公共服务支出占财政支出比重，加大直达消费者的普惠政策力度。推动商品消费扩容升级，促进新能源汽车、智能产品等商品消费。适应不同群体需求扩大优质服务供给，完...",
-     "source": "经济观察网",
-     "zh": "国家发改委：多措并举加大力度扩大内需"
     },
     {
      "title": "内外利好共振！机器人再度拉升 主力已吸筹这些票(附股)",
@@ -2504,14 +2512,6 @@ window.INDUSTRY_DATA = {
      "summary": "Many of the country’s most skilled workers are withholding their labour from the economy because of crushing marginal rates",
      "source": "Financial Times",
      "zh": "Britain’s £100,000 tax trap"
-    },
-    {
-     "title": "Tuesday’s Economic Calendar",
-     "link": "https://seekingalpha.com/news/4654169-tuesdays-economic-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 20 Oct 2026 00:00:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tuesday’s Economic Calendar"
     }
    ]
   },

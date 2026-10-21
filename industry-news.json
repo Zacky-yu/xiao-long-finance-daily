@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/22 01:23:26",
+ "generated_at": "2026/10/22 01:34:50",
  "recent_days": 7,
  "industries": [
   {
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Crude-Exports-Hit-Five-Month-High-as-Production-Falls-to-Record-Low.html",
+     "pubDate": "Wed, 21 Oct 2026 12:30:00 -0500",
+     "summary": "Saudi Arabia's crude exports rose about 7.9% in August from July to 4.451 million barrels per day, the highest since March, while its oil production fell to a record low of 6.24 million bpd, the Joint Organizations Data Initiative (JODI) showed Wednesday, Reuters reported. Production was 8.135 milli",
+     "source": "OilPrice",
+     "zh": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low"
+    },
+    {
      "title": "Why Are Rare Earth Stocks Falling When Prices Keep Rising?",
      "link": "https://oilprice.com/Metals/Commodities/Why-Are-Rare-Earth-Stocks-Falling-When-Prices-Keep-Rising.html",
      "pubDate": "Wed, 21 Oct 2026 12:00:00 -0500",
@@ -935,14 +943,6 @@
      "summary": "Crude oil inventories in the United States saw a decrease of 3.1 million barrels during the week ending October 16, according to new data from the U.S. Energy Information Administration (EIA) released on Wednesday. The decrease brings commercial stockpiles to 412.5 million barrels, according to gove",
      "source": "OilPrice",
      "zh": "EIA Says US Crude Inventories Sink Further"
-    },
-    {
-     "title": "Higher Oil Availability Pressures Middle East Crude Benchmarks",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Higher-Oil-Availability-Pressures-Middle-East-Crude-Benchmarks.html",
-     "pubDate": "Wed, 21 Oct 2026 09:30:00 -0500",
-     "summary": "Robust crude oil flows out of the Middle East in recent weeks have started to pressure the key metric of strength for physical supply out of the region. The premium of Oman crude over Dubai, the measure of Middle East’s market strength, has slumped this week to the lowest level since the end of July",
-     "source": "OilPrice",
-     "zh": "Higher Oil Availability Pressures Middle East Crude Benchmarks"
     },
     {
      "title": "The capacity market crisis is a design problem, not a verdict on competition",
@@ -1820,7 +1820,7 @@
      "title": "Rust off Rails: The opinionated web stack for the AI era",
      "link": "https://rustoffrails.org/",
      "pubDate": "Wed, 21 Oct 2026 16:34:16 +0000",
-     "summary": "Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 14 # Comments: 4",
+     "summary": "Article URL: https://rustoffrails.org/ Comments URL: https://news.ycombinator.com/item?id=50183727 Points: 21 # Comments: 15",
      "source": "Hacker News",
      "zh": "Rust off Rails: The opinionated web stack for the AI era"
     },
@@ -1828,7 +1828,7 @@
      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
      "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
      "pubDate": "Wed, 21 Oct 2026 16:20:37 +0000",
-     "summary": "Article URL: https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs Comments URL: https://news.ycombinator.com/item?id=50183512 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs Comments URL: https://news.ycombinator.com/item?id=50183512 Points: 5 # Comments: 0",
      "source": "Hacker News",
      "zh": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic"
     },
@@ -1884,7 +1884,7 @@
      "title": "What I learned from six months of being stupid on purpose",
      "link": "https://wvez.org/blog/learning-to-be-stupid/",
      "pubDate": "Wed, 21 Oct 2026 16:06:56 +0000",
-     "summary": "Article URL: https://wvez.org/blog/learning-to-be-stupid/ Comments URL: https://news.ycombinator.com/item?id=50183311 Points: 24 # Comments: 11",
+     "summary": "Article URL: https://wvez.org/blog/learning-to-be-stupid/ Comments URL: https://news.ycombinator.com/item?id=50183311 Points: 31 # Comments: 16",
      "source": "Hacker News",
      "zh": "What I learned from six months of being stupid on purpose"
     },
@@ -1892,9 +1892,9 @@
      "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
      "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
      "pubDate": "Wed, 21 Oct 2026 16:05:05 +0000",
-     "summary": "Article URL: https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/ Comments URL: https://news.ycombinator.com/item?id=50183280 Points: 12 # Comments: 3",
+     "summary": "Article URL: https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/ Comments URL: https://news.ycombinator.com/item?id=50183280 Points: 16 # Comments: 4",
      "source": "Hacker News",
-     "zh": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise"
+     "zh": "您的 MCU 可能逃脱了 eMudhra Intermediate CA 攻击"
     },
     {
      "title": "南亚姓氏剧增，英国第一大姓史密斯要易主了？",
@@ -1908,7 +1908,7 @@
      "title": "AI agent fixed the bug, but what else did it change?",
      "link": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
      "pubDate": "Wed, 21 Oct 2026 16:03:32 +0000",
-     "summary": "Article URL: https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/ Comments URL: https://news.ycombinator.com/item?id=50183253 Points: 14 # Comments: 1",
+     "summary": "Article URL: https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/ Comments URL: https://news.ycombinator.com/item?id=50183253 Points: 15 # Comments: 1",
      "source": "Hacker News",
      "zh": "AI agent fixed the bug, but what else did it change?"
     },
@@ -1926,7 +1926,7 @@
      "pubDate": "Wed, 21 Oct 2026 16:00:00 +0000",
      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
      "source": "WIRED",
-     "zh": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good"
+     "zh": "这家初创公司完全致力于递归自我完善。它的最新模型是可怕的好"
     },
     {
      "title": "The bridge to agent-scale Git infrastructure",
@@ -1948,7 +1948,7 @@
      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
      "pubDate": "Wed, 21 Oct 2026 15:48:56 +0000",
-     "summary": "Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/ Comments URL: https://news.ycombinator.com/item?id=50182987 Points: 154 # Comments: 73",
+     "summary": "Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/ Comments URL: https://news.ycombinator.com/item?id=50182987 Points: 175 # Comments: 94",
      "source": "Hacker News",
      "zh": "Today's PHP Security Release, and How We're Strengthening PHP Security"
     },
@@ -2009,6 +2009,38 @@
    "total": 7,
    "items": [
     {
+     "title": "OpenAI GPT models are coming to Google Antigravity ‘soon,’ Cloud ‘in the coming weeks’",
+     "link": "https://9to5google.com/2026/10/21/openai-gpt-models-google-antigravity-cloud/",
+     "pubDate": "Wed, 21 Oct 2026 17:30:00 +0000",
+     "summary": "A deal struck between OpenAI and Google will see OpenAI’s models coming to Google Cloud and even Antigravity. more…",
+     "source": "9to5Google",
+     "zh": "OpenAI GPT 模型“很快”将登陆 Google Antigravity，云“将在未来几周内”登陆"
+    },
+    {
+     "title": "The Hue Bridge Pro’s missing custom behaviors feature will launch very soon",
+     "link": "https://www.androidauthority.com/hue-bridge-pro-custom-ai-behaviors-launch-3726230/",
+     "pubDate": "Wed, 21 Oct 2026 17:27:24 +0000",
+     "summary": "Better late than never.",
+     "source": "Android Authority",
+     "zh": "Hue Bridge Pro 缺失的自定义行为功能很快就会推出"
+    },
+    {
+     "title": "Samsung and SK Hynix are upgrading their NAND factories in China",
+     "link": "https://www.gsmarena.com/samsung_and_sk_hynix_are_upgrading_their_nand_factories_in_china-news-75149.php",
+     "pubDate": "Wed, 21 Oct 2026 19:18:02 +0200",
+     "summary": "Chinese memory maker YMTC became China’s biggest producer of NAND flash chips this year with a market share of 38.5%, up from 28% last year. This allowed it to overtake Samsung, which is #2 with 33.5% share (down from 36%) and SK Hynix, which is #3 with 17% (down from 20%). So, now the two Korean co",
+     "source": "GSMArena",
+     "zh": "三星和SK海力士正在升级其在中国的NAND工厂"
+    },
+    {
+     "title": "Did your phone just get a Google Play system update from the future? You’re not alone",
+     "link": "https://www.androidauthority.com/samsung-oneplus-motorola-january-2027-play-system-update-3726153/",
+     "pubDate": "Wed, 21 Oct 2026 17:16:45 +0000",
+     "summary": "The issue appears to impacting Samsung phones, with OnePlus and Motorola phones potentially impacted, too.",
+     "source": "Android Authority",
+     "zh": "Did your phone just get a Google Play system update from the future? You’re not alone"
+    },
+    {
      "title": "Slow Horses showrunner explains finale shock ending, season 7 trailer debuts",
      "link": "https://9to5mac.com/2026/10/21/slow-horses-showrunner-explains-finale-shock-ending-season-7-trailer-debuts/",
      "pubDate": "Wed, 21 Oct 2026 17:14:00 +0000",
@@ -2038,7 +2070,7 @@
      "pubDate": "Wed, 21 Oct 2026 17:00:30 +0000",
      "summary": "The browser will now give you a heads-up before you visit an insecure website.",
      "source": "Android Authority",
-     "zh": "Google Chrome is done warning you about insecure websites after the fact"
+     "zh": "Chrome 浏览器已完成事后警告您有关不安全网站的操作"
     },
     {
      "title": "The Galaxy Tab S10 FE+ just hit one of its lowest price in months",
@@ -2078,15 +2110,7 @@
      "pubDate": "Wed, 21 Oct 2026 16:15:00 +0000",
      "summary": "Apple’s first foldable has arrived, the better part of a decade after Android laid the groundwork for the form factor. iPhone Duo reviews are here and, while it sounds like a lot of the same problems that plague Android foldables still exist on Apple’s first-gen release, there’s certainly a level of",
      "source": "9to5Google",
-     "zh": "iPhone Duo review roundup: The same problems Android foldables face, but with Apple’s polish"
-    },
-    {
-     "title": "Save $20 on Anker’s 10-in-1 USB-C Smart Display Hub",
-     "link": "https://www.androidauthority.com/anker-usb-c-smart-display-hub-deal-3726222/",
-     "pubDate": "Wed, 21 Oct 2026 16:10:07 +0000",
-     "summary": "Anker’s Smart Display Hub drops to $79.99 on Amazon, bringing dual 4K support and 10-in-1 USB-C expansion to your desk.",
-     "source": "Android Authority",
-     "zh": "Save $20 on Anker’s 10-in-1 USB-C Smart Display Hub"
+     "zh": "iPhone Duo 评测综述：与 Android 可折叠手机面临的问题相同，但经过苹果的改进"
     },
     {
      "title": "Sony's PlayStation Pulse headset arrives on November 19 for $100",
@@ -2129,14 +2153,6 @@
      "zh": "Here’s where Apple says iPhone Duo will (and won’t) be available for walk-ins"
     },
     {
-     "title": "Amazon cuts $50 off the Dangbei N2 mini projector",
-     "link": "https://www.androidauthority.com/dangbei-n2-mini-projector-deal-amazon-3726216/",
-     "pubDate": "Wed, 21 Oct 2026 15:46:49 +0000",
-     "summary": "Dangbei N2 mini drops to $178.99 on Amazon with 1080p, Netflix, and a 190-degree gimbal stand for easy viewing.",
-     "source": "Android Authority",
-     "zh": "Amazon cuts $50 off the Dangbei N2 mini projector"
-    },
-    {
      "title": "Deals: Galaxy Z Fold 8 up to $580 off, S26 Ultra $420 off, new Amazon Fire TV Stick 4K 50% off, more",
      "link": "https://9to5google.com/2026/10/21/deals-galaxy-z-fold-8-amazon-fire-tv-stick-lg-c6/",
      "pubDate": "Wed, 21 Oct 2026 15:38:14 +0000",
@@ -2159,14 +2175,6 @@
      "summary": "Some occasions leave you with a full memory card and one photo you keep coming back to. This week, we’re asking DPReview readers to share their most memorable shot of a costume, festival or celebration – and the story behind getting it.",
      "source": "DPReview",
      "zh": "What’s the most memorable costume or festival you’ve photographed?"
-    },
-    {
-     "title": "Google TV powers the RayNeo Pocket TV Pro glasses, and that’s exactly the problem",
-     "link": "https://9to5google.com/2026/10/21/google-tv-powers-the-rayneo-pocket-tv-pro-glasses-and-thats-exactly-the-problem/",
-     "pubDate": "Wed, 21 Oct 2026 15:30:00 +0000",
-     "summary": "The Google TV platform is amazing on the big screen, but its limitations make it more frustrating than it should be on the mobile RayNeo Pocket TV Pro. more…",
-     "source": "9to5Google",
-     "zh": "Google TV powers the RayNeo Pocket TV Pro glasses, and that’s exactly the problem"
     },
     {
      "title": "Deals: Apple TV 4K, iPhone Duo power bank, AirPods Pro 3, M6 Mac mini, Magic Keyboard, more",
@@ -2239,14 +2247,6 @@
      "summary": "We played several hours of Sega's next big crime-thriller, and so far the Like a Dragon series is getting its most bold entry to date.",
      "source": "Engadget",
      "zh": "Stranger Than Heaven builds its identity as Like A Dragon's more relentless spin-off"
-    },
-    {
-     "title": "Honor Win2 and Win Tablet launch with built-in fans and big batteries",
-     "link": "https://www.gsmarena.com/honor_win2_and_win_tablet_launch_with_builtin_fans_and_big_batteries-news-75152.php",
-     "pubDate": "Wed, 21 Oct 2026 15:03:02 +0200",
-     "summary": "Honor launched the Win in China back in December, and today its successor is official after weeks of teasers and leaks. The Honor Win2 arrives alongside the Win RT2 and Win Turbo2, as well as the company's first Win-branded tablet. The Win2 comes with a 6.89-inch 1440x3104 OLED screen with a 185Hz r",
-     "source": "GSMArena",
-     "zh": "Honor Win2 and Win Tablet launch with built-in fans and big batteries"
     }
    ]
   },
@@ -2257,12 +2257,100 @@
    "total": 13,
    "items": [
     {
+     "title": "JPM sees Corning posting strong revenue on AI demand",
+     "link": "https://seekingalpha.com/news/4655422-jpm-sees-corning-posting-strong-revenue-on-ai-demand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 21 Oct 2026 13:29:36 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "JPM sees Corning posting strong revenue on AI demand"
+    },
+    {
+     "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+     "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+     "pubDate": "Wed, 21 Oct 2026 17:27:54 GMT",
+     "summary": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.",
+     "source": "CNBC",
+     "zh": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case"
+    },
+    {
+     "title": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
+     "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+     "pubDate": "Wed, 21 Oct 2026 17:27:34 GMT",
+     "summary": "President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans' election chances with the midterms just two weeks away.",
+     "source": "CNBC",
+     "zh": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier"
+    },
+    {
      "title": "New Mexico AG lawsuit accuses Epstein&apos;s attorney and accountant of facilitating sex trafficking",
      "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
-     "pubDate": "Wed, 21 Oct 2026 17:19:48 GMT",
+     "pubDate": "Wed, 21 Oct 2026 17:23:25 GMT",
      "summary": "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says.",
      "source": "CNBC",
      "zh": "New Mexico AG lawsuit accuses Epstein&apos;s attorney and accountant of facilitating sex trafficking"
+    },
+    {
+     "title": "PHP高危漏洞遭泄露 黑客抢跑发起攻击 Cloudflare盘中涨超8%",
+     "link": "http://finance.eastmoney.com/news/1354,202610223903049080.html",
+     "pubDate": "Thu, 22 Oct 2026 01:23:00 +0800",
+     "summary": "财联社10月22日讯 PHP高危漏洞信息于当地时间20日提前外泄，该漏洞已潜伏十余年，全球大量网站面临攻击风险，多国政府紧急关停网站避险。官方补丁已于21日上线。 网络安全 股应声走强，Cloudflare盘中涨超8%。 据媒体当地时间周三报道，一项潜伏十余年的PHP漏洞今年8月先后被 网络安全 公司Calif和Wiz借助AI独立发现，各方随后在保密状态下合作修复近两个月。 但就在补丁发布前一天，也就是当地时间20日，漏洞信息在网上提前泄露，PHP安全团队被迫确认并公布发布时间，黑客趁机抢在补丁上线前数小时发起攻击。 PHP是一种服务端脚本语言，用于在服务器上动态生成网页内容，再发送给用户的浏",
+     "source": "东方财富股票",
+     "zh": "PHP高危漏洞遭泄露 黑客抢跑发起攻击 Cloudflare盘中涨超8%"
+    },
+    {
+     "title": "美联储周三隔夜逆回购协议（RRP）使用规模为2.37亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202610223903048233.html",
+     "pubDate": "Thu, 22 Oct 2026 01:22:54 +0800",
+     "summary": "美联储周三隔夜逆回购协议（RRP）使用规模为2.37亿美元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美联储周三隔夜逆回购协议（RRP）使用规模为2.37亿美元"
+    },
+    {
+     "title": "美财长贝森特警告 为伊朗政权提供支持者将遭制裁 协助者须选边站",
+     "link": "http://finance.eastmoney.com/news/1351,202610223903048714.html",
+     "pubDate": "Thu, 22 Oct 2026 01:22:25 +0800",
+     "summary": "美国财长贝森特：无论你是在海上从事非法石油转运，还是身居律所高管办公室，只要你为伊朗政权提供支持，我们就会找到你并实施制裁。伊朗的协助者必须做出选择：要么站在我们这边，要么与我们为敌。我们清楚你们是谁，清楚你们的所作所为，并且会持续采取行动。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美财长贝森特警告 为伊朗政权提供支持者将遭制裁 协助者须选边站"
+    },
+    {
+     "title": "英国国债收益率普遍下跌 长端跌幅突出",
+     "link": "http://finance.eastmoney.com/news/1351,202610223903048647.html",
+     "pubDate": "Thu, 22 Oct 2026 01:22:22 +0800",
+     "summary": "周三（10月21日）欧市尾盘，英国10年期国债收益率跌3.3个基点，报5.378%，北京时间18:17微涨至5.429%刷新日高，随后持续下挫、21:52刷新日低至5.354%。 两年期英债收益率跌3.5个基点，报4.923%。 30年期英债收益率跌5.7个基点，50年期英债收益率跌5.9个基点。 2/10年期英债收益率利差涨0.258个基点，报+45.398个基点。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "英国国债收益率普遍下跌 长端跌幅突出"
+    },
+    {
+     "title": "信实集团：安巴尼父子与鲁比奥在此次访问中讨论了全球能源和数据中心问题",
+     "link": "http://finance.eastmoney.com/news/1351,202610223903048187.html",
+     "pubDate": "Thu, 22 Oct 2026 01:22:17 +0800",
+     "summary": "亿万富翁、信实工业公司董事长穆克什·安巴尼（Mukesh Ambani）及其子阿南特·安巴尼（Anant Ambani）与美国国务卿马可·鲁比奥（Marco Rubio）就全球能源格局以及能源与数字基础设施（包括 数据中心 ）的交汇点进行了讨论。在鲁比奥访问印度西部贾姆纳加尔期间，安巴尼父子还就与美国企业开展合作的机会交换了看法。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "信实集团：安巴尼父子与鲁比奥在此次访问中讨论了全球能源和数据中心问题"
+    },
+    {
+     "title": "Interest rates should be raised as insurance against persistent inflation – economist",
+     "link": "https://seekingalpha.com/news/4655415-interest-rates-should-be-raised-as-insurance-against-persistent-inflation-economist?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 21 Oct 2026 13:19:52 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Interest rates should be raised as insurance against persistent inflation – economist"
+    },
+    {
+     "title": "也门消息人士：胡塞武装对哈德拉毛省舒克拉地区的杜巴石油港附近发动无人机袭击",
+     "link": "http://finance.eastmoney.com/news/1351,202610223903046048.html",
+     "pubDate": "Thu, 22 Oct 2026 01:18:18 +0800",
+     "summary": "也门消息人士：胡塞武装对哈德拉毛省舒克拉地区的杜巴石油港附近发动 无人机 袭击。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "也门消息人士：胡塞武装对哈德拉毛省舒克拉地区的杜巴石油港附近发动无人机袭击"
+    },
+    {
+     "title": "美股三大指数全线走高 纳指涨超1% SpaceX、特斯拉股价大涨",
+     "link": "http://finance.eastmoney.com/news/1345,202610213902919169.html",
+     "pubDate": "Thu, 22 Oct 2026 01:16:26 +0800",
+     "summary": "美东时间周三，美股三大指数全线上涨，截至发稿，道指涨0.45%，纳指涨1.30%，标普500指数涨0.68%。 SpaceX 股价大涨近10%， 特斯拉 涨超3% 。 SpaceX 公布2026年第三季度业绩，报告期内公司实现营业收入146亿美元，同比增长161%，上年同期为56亿美元；净利润44亿美元，上年同期为净亏损11亿美元；调整后EBITDA（息税折旧摊销前净利润）为88亿美元，同比增长306%，上年同期为22亿美元。此前第二季度，公司营业收入78.1亿美元、净亏损5.41亿美元。除了业绩超预期外，关于市场热议的 特斯拉 与 SpaceX 合并，马斯克在财报会议上回应称，两家合并是个好",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数全线走高 纳指涨超1% SpaceX、特斯拉股价大涨"
     },
     {
      "title": "Carpenter Technology Q1 2027 Earnings Preview",
@@ -2273,14 +2361,6 @@
      "zh": "Carpenter Technology Q1 2027 Earnings Preview"
     },
     {
-     "title": "美国芝商所CEO：由于客户不愿使用周末交易台 该公司已暂停24/7原油期货交易",
-     "link": "http://finance.eastmoney.com/news/1351,202610223903045650.html",
-     "pubDate": "Thu, 22 Oct 2026 01:12:50 +0800",
-     "summary": "美国 芝加哥商业交易所 （CME）集团首席执行官特里·达菲表示，该公司搁置了拟推出的全天候原油 期货 合约，主要原因是商业客户不愿在周末安排交易台人员值班；他同时警告称，此类市场的缺失正迫使交易参与者转向非法的离岸交易平台。“商业交易商希望确保大额合约能按其意愿成交，而我们对此表示支持。他们并不希望为此增设另一个交易台，”达菲表示。“我们理解，任何产品转向24/7交易模式都会产生成本。”这家全球领先的衍生品交易所本月早些时候取消了该合约的计划推出，此前美国商品 期货 交易委员会（CFTC）于7月阻止了其推出该 期货 合约的申请。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国芝商所CEO：由于客户不愿使用周末交易台 该公司已暂停24/7原油期货交易"
-    },
-    {
      "title": "Ryder Q3 2026 Earnings Preview",
      "link": "https://seekingalpha.com/news/4655409-ryder-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 21 Oct 2026 13:12:31 -0400",
@@ -2289,20 +2369,12 @@
      "zh": "Ryder Q3 2026 Earnings Preview"
     },
     {
-     "title": "随着需求上升 WTI原油价格走高",
-     "link": "http://finance.eastmoney.com/news/1351,202610223903045510.html",
-     "pubDate": "Thu, 22 Oct 2026 01:11:49 +0800",
-     "summary": "欧洲市场WTI米德兰原油价差因买盘兴趣回升而上涨，此前该价差自上周末以来持续走低。 一位市场消息人士称，仅达成一笔交易。该人士称，WTI米德兰原油： 嘉能可 从 西方石油 公司购入了一批11月21日至25日交货的货品，价格为罗特丹到岸价（CIF）的当日布伦特原油价格加10.65美元。此前曾有更高报价，为当日布伦特原油价格加10.95美元。据测算，该报价相当于离岸价（FOB）基础上，以当日布兰特原油价格加6.60美元。 （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "随着需求上升 WTI原油价格走高"
-    },
-    {
      "title": "Quest Diagnostics Q3 2026 Earnings Preview",
      "link": "https://seekingalpha.com/news/4655408-quest-diagnostics-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 21 Oct 2026 13:11:26 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Quest Diagnostics Q3 2026 Earnings Preview"
+     "zh": "Quest Diagnostics 2026 年第三季度收益预览"
     },
     {
      "title": "Old Republic Q3 2026 Earnings Preview",
@@ -2313,60 +2385,12 @@
      "zh": "Old Republic Q3 2026 Earnings Preview"
     },
     {
-     "title": "SpaceX债券遭抛售 债务担忧升温致信用风险指标恶化",
-     "link": "http://finance.eastmoney.com/news/1351,202610223903045417.html",
-     "pubDate": "Thu, 22 Oct 2026 01:09:17 +0800",
-     "summary": "马斯克旗下太空探索公司 SpaceX 债券走弱。该公司公布的业绩虽超出分析师预期，但同时表示正在“激进投资”，暗示未来可能进一步增加借款。这家航空航天与 人工智能 （AI）公司的风险溢价上升，其信用衍生品利差本周早些时候已出现走阔。截至纽约时间12:35， SpaceX 2046年到期的6.6%债券利差扩大0.09个百分点，至264个基点。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "SpaceX债券遭抛售 债务担忧升温致信用风险指标恶化"
-    },
-    {
-     "title": "Snap-On Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4655406-snap-on-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 21 Oct 2026 13:08:22 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Snap-On Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "美国财政部：制裁针对伊朗影子船队网络",
-     "link": "http://finance.eastmoney.com/news/1351,202610223903045344.html",
-     "pubDate": "Thu, 22 Oct 2026 01:08:09 +0800",
-     "summary": "美国财政部：制裁针对伊朗影子船队网络。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国财政部：制裁针对伊朗影子船队网络"
-    },
-    {
-     "title": "资本竞逐法律AI赛道！Legora获5.5亿美元融资 估值达88亿美元",
-     "link": "http://finance.eastmoney.com/news/1354,202610223903045252.html",
-     "pubDate": "Thu, 22 Oct 2026 01:08:00 +0800",
-     "summary": "财联社10月22日讯 法律AI初创公司Legora当地时间周三表示，公司在最新一轮融资中筹集了5.5亿美元，本轮融资由Atreides Management领投，投后估值达到88亿美元。 总部位于瑞典的Legora发布公告称，此次融资将助力公司拓展北美、欧洲及亚太地区市场，并将用于改进其智能体操作系统Legora aOS。 随着律师、律师事务所和企业法务部门纷纷采用AI技术，以提高法律工作的效率、优化运营流程，法律AI公司正吸引大量资本涌入。 尽管大型律师事务所正在采购Legora等外部供应商提供的工具，但其中许多机构也在自主开发相关能力。相关初创公司瞄准律师事务所中耗时较长、涉及大量文件处理",
-     "source": "东方财富股票",
-     "zh": "资本竞逐法律AI赛道！Legora获5.5亿美元融资 估值达88亿美元"
-    },
-    {
-     "title": "Dover Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4655405-dover-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 21 Oct 2026 13:07:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dover Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "20年期美债收益率在130亿美元拍卖后收窄跌幅 最新跌1.25个基点报5.467%",
-     "link": "http://finance.eastmoney.com/news/1351,202610223903045015.html",
-     "pubDate": "Thu, 22 Oct 2026 01:03:05 +0800",
-     "summary": "20年期美国国债收益率在130亿美元拍卖后收窄跌幅，最新下跌1.25个基点，报5.467%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "20年期美债收益率在130亿美元拍卖后收窄跌幅 最新跌1.25个基点报5.467%"
-    },
-    {
      "title": "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
      "link": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
      "pubDate": "Wed, 21 Oct 2026 16:55:51 GMT",
      "summary": "Intel has installed the first major structural truss at its delayed Ohio chip fab, but the company has yet to announce a major outside customer.",
      "source": "CNBC",
-     "zh": "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule"
+     "zh": "英特尔俄亥俄州芯片工厂建设达到里程碑，比原计划至少落后 5 年"
     },
     {
      "title": "最高法：司法责任追究范围包括在职、退休、辞职、开除等司法人员",
@@ -2385,14 +2409,6 @@
      "zh": "展示面向未来十年的全套技术，奇瑞要做一家AI科技公司"
     },
     {
-     "title": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
-     "link": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
-     "pubDate": "Wed, 21 Oct 2026 16:35:48 GMT",
-     "summary": "A big rally in SpaceX after earnings is giving hope to Meta and Tesla bulls ahead of their reports due Wednesday afternoon.",
-     "source": "CNBC",
-     "zh": "Meta and Tesla bulls get confidence boost after SpaceX earnings"
-    },
-    {
      "title": "Medicare is a bargain. What America can’t afford is private health insurance.",
      "link": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
      "pubDate": "Wed, 21 Oct 2026 16:34:00 GMT",
@@ -2401,28 +2417,12 @@
      "zh": "Medicare is a bargain. What America can’t afford is private health insurance."
     },
     {
-     "title": "How Ukraine’s drone strikes on Russia crippled the world’s second largest diesel supplier",
-     "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
-     "pubDate": "Wed, 21 Oct 2026 16:18:27 GMT",
-     "summary": "President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans' election chances with the midterms just two weeks away.",
-     "source": "CNBC",
-     "zh": "How Ukraine’s drone strikes on Russia crippled the world’s second largest diesel supplier"
-    },
-    {
-     "title": "美股三大指数全线上涨 纳指涨超1% SpaceX、特斯拉股价大涨",
-     "link": "http://finance.eastmoney.com/news/1345,202610213902919169.html",
-     "pubDate": "Thu, 22 Oct 2026 00:10:01 +0800",
-     "summary": "美东时间周三，美股三大指数全线上涨，截至发稿，道指涨0.26%，纳指涨1.09%，标普500指数涨0.50%。 SpaceX 股价大涨近10%， 特斯拉 涨超3% 。 SpaceX 公布2026年第三季度业绩，报告期内公司实现营业收入146亿美元，同比增长161%，上年同期为56亿美元；净利润44亿美元，上年同期为净亏损11亿美元；调整后EBITDA（息税折旧摊销前净利润）为88亿美元，同比增长306%，上年同期为22亿美元。此前第二季度，公司营业收入78.1亿美元、净亏损5.41亿美元。除了业绩超预期外，关于市场热议的 特斯拉 与 SpaceX 合并，马斯克在财报会议上回应称，两家合并是个好",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数全线上涨 纳指涨超1% SpaceX、特斯拉股价大涨"
-    },
-    {
      "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
      "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
      "pubDate": "Wed, 21 Oct 2026 16:08:50 GMT",
      "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
      "source": "CNBC",
-     "zh": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up"
+     "zh": "盈利超出预期且马斯克暗示与特斯拉合作后 SpaceX 股价上涨 10%"
     },
     {
      "title": "最后1天！2027见闻历99元早鸟活动今晚结束，欲购从速！",
@@ -2518,7 +2518,7 @@
      "pubDate": "Wed, 21 Oct 2026 16:32:23 +0000",
      "summary": "A new look at the uranium and heavy water used by the Nazis reveals whether they were close to making a reactor for an atomic bomb.",
      "source": "Live Science",
-     "zh": "Uranium from World War II reveals how close the Nazis were to an atomic bomb"
+     "zh": "二战中的铀揭示了纳粹离原子弹有多近"
     },
     {
      "title": "'The Russians were the problem in the end': Sailor Matt Rutherford on being intercepted by the FSB while attempting to circumnavigate the Arctic Ocean solo",
@@ -2550,7 +2550,7 @@
      "pubDate": "Wed, 21 Oct 2026 14:00:07 +0000",
      "summary": "Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life. The post See Inside Cells Like Never Before in These Vivid Microscopic Images first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "See Inside Cells Like Never Before in These Vivid Microscopic Images"
+     "zh": "在这些生动的显微图像中以前所未有的方式观察细胞内部"
     },
     {
      "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
@@ -2558,7 +2558,7 @@
      "pubDate": "Wed, 21 Oct 2026 09:22:17 EDT",
      "summary": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to higher cancer incidence, ultra-processed whole grains and dairy products were as",
      "source": "ScienceDaily",
-     "zh": "Massive study of 460,000 people challenges ultra-processed food cancer fears"
+     "zh": "460,000 人参与的大规模研究挑战了对超加工食品癌症的恐惧"
     },
     {
      "title": "Too much RNA can starve cells of energy, scientists discover",
@@ -2574,7 +2574,7 @@
      "pubDate": "Wed, 21 Oct 2026 08:35:57 EDT",
      "summary": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, an",
      "source": "ScienceDaily",
-     "zh": "A train was delayed by a solar storm. But something didn't add up."
+     "zh": "一列火车因太阳风暴而延误。但有些事情并没有加起来。"
     },
     {
      "title": "Astronauts’ hearts just passed a surprising test for Mars",
@@ -2582,7 +2582,7 @@
      "pubDate": "Wed, 21 Oct 2026 07:59:14 EDT",
      "summary": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without m",
      "source": "ScienceDaily",
-     "zh": "Astronauts’ hearts just passed a surprising test for Mars"
+     "zh": "宇航员的心脏刚刚通过了火星的惊人考验"
     },
     {
      "title": "Lightest known pair of neutron stars proves Einstein right yet again",
@@ -2614,7 +2614,7 @@
      "pubDate": "Wed, 21 Oct 2026 05:52:28 EDT",
      "summary": "A new Penn State study suggests that just four minutes of daily strength training can significantly improve mobility and physical function in older adults. After 12 weeks, participants showed meaningful gains in balance, leg strength, and their ability to stand up from a chair, all important factors",
      "source": "ScienceDaily",
-     "zh": "Just 4 minutes a day can dramatically improve strength after 65"
+     "zh": "65岁后每天只需4分钟即可显着提高力量"
     },
     {
      "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
@@ -2630,7 +2630,7 @@
      "pubDate": "Tue, 20 Oct 2026 23:01:00 +0000",
      "summary": "A sarcophagus in Westminster Abbey with Roman and Anglo-Saxon decorations baffled archaeologists, but now a 150-year-old mystery has finally been solved.",
      "source": "Live Science",
-     "zh": "Case of mysterious medieval skeleton buried in Roman-era sarcophagus at Westminster Abbey finally solved"
+     "zh": "威斯敏斯特教堂罗马时代石棺中埋藏的神秘中世纪骷髅案终于解决"
     },
     {
      "title": "Rule breaking by just a few people can be contagious",
@@ -2638,7 +2638,7 @@
      "pubDate": "Tue, 20 Oct 2026 23:01:00 +0000",
      "summary": "People are more likely to mimic — or even surpass — rule breakers than rule followers, a study finds. But real-world consequences may keep people in line.",
      "source": "Science News",
-     "zh": "Rule breaking by just a few people can be contagious"
+     "zh": "少数人的违规行为可能具有传染性"
     },
     {
      "title": "Could 'body clocks' play a role in depression? Study proposes a new 'circadian' subtype",
@@ -2686,7 +2686,7 @@
      "pubDate": "Mon, 19 Oct 2026 17:15:00 -0400",
      "summary": "In six talks, researchers from across MIT described projects aimed at advancing the understanding of and interventions against neurodegenerative diseases such as Alzheimer’s, Parkinson’s, and ALS.",
      "source": "MIT News",
-     "zh": "Symposium highlights MIT’s wide range of innovations for aging brain health"
+     "zh": "研讨会重点介绍麻省理工学院针对老龄化大脑健康的广泛创新"
     },
     {
      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
@@ -2702,7 +2702,7 @@
      "pubDate": "Mon, 19 Oct 2026 20:03:55 +0000",
      "summary": "One way to make batteries cleaner is to make fewer of them.",
      "source": "Ars Technica Science",
-     "zh": "Batteries help reduce emissions, but how do we reduce their emissions?"
+     "zh": "电池有助于减少排放，但我们如何减少排放呢？"
     },
     {
      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
@@ -2742,7 +2742,7 @@
      "pubDate": "Sun, 18 Oct 2026 00:00:00 -0400",
      "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
      "source": "MIT News",
-     "zh": "Giving AI a “crystal clear” view of the materials world"
+     "zh": "让人工智能对材料世界有一个“清晰”的认识"
     }
    ]
   }

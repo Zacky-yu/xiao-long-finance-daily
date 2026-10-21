@@ -153,22 +153,6 @@
      "zh": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing"
     },
     {
-     "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-     "link": "https://www.qbitai.com/2026/10/504608.html",
-     "pubDate": "Wed, 21 Oct 2026 02:37:39 +0000",
-     "summary": "先看真实问题解决力",
-     "source": "量子位",
-     "zh": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人"
-    },
-    {
-     "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-     "link": "https://www.qbitai.com/2026/10/504551.html",
-     "pubDate": "Wed, 21 Oct 2026 01:04:35 +0000",
-     "summary": "电池、电驱、超充一把梭，冬天多跑30公里",
-     "source": "量子位",
-     "zh": "理想宣布：电池自燃报废赔新车！自研6年后有底气了"
-    },
-    {
      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
      "pubDate": "Tue, 20 Oct 2026 23:01:23 +0000",
@@ -247,6 +231,22 @@
      "summary": "",
      "source": "Hugging Face",
      "zh": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model"
+    },
+    {
+     "title": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
+     "link": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
+     "pubDate": "Tue, 20 Oct 2026 14:31:59 +0000",
+     "summary": "DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only. The post DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Fla",
+     "source": "MarkTechPost",
+     "zh": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash"
+    },
+    {
+     "title": "The Roadmap to Becoming an AI Product Manager in 2026",
+     "link": "https://www.kdnuggets.com/the-roadmap-to-becoming-an-ai-product-manager-in-2026",
+     "pubDate": "Tue, 20 Oct 2026 14:00:00 +0000",
+     "summary": "A structured four-phase roadmap for building the technical fluency, evaluation skills, and governance literacy needed to succeed as an AI product manager in 2026.",
+     "source": "KDnuggets",
+     "zh": "The Roadmap to Becoming an AI Product Manager in 2026"
     }
    ]
   },
@@ -1068,7 +1068,7 @@
      "title": "Georgia electric cooperative plans 50-MW home battery deployment",
      "link": "https://www.utilitydive.com/news/georgia-electric-cooperative-plans-50-mw-home-battery-deployment/833492/",
      "pubDate": "Tue, 20 Oct 2026 12:58:27 -0400",
-     "summary": "Central Georgia Electric Membership Corp. plans to use the batteries to reduce system peaks and energy costs as hyperscale data centers seek to connect to its grid.",
+     "summary": "Central Georgia Electric Membership Corporation plans to use the batteries to reduce system peaks and energy costs as hyperscale data centers seek to connect to its grid.",
      "source": "Utility Dive",
      "zh": "Georgia electric cooperative plans 50-MW home battery deployment"
     },

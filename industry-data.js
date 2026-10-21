@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/21 19:32:02",
+ "generated_at": "2026/10/21 19:52:07",
  "recent_days": 7,
  "industries": [
   {
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Morgan Stanley: Global Fuel Market Will Stay Tight Through Mid-2027",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Morgan-Stanley-Global-Fuel-Market-Will-Stay-Tight-Through-Mid-2027.html",
+     "pubDate": "Wed, 21 Oct 2026 06:30:00 -0500",
+     "summary": "Global fuel markets are set to remain tight until at least the middle of next year as the second quarter of 2027 will see unusually high planned maintenance that refiners have deferred from this year, Morgan Stanley analysts say. Planned maintenance at refineries worldwide is set to peak at 3.4 mill",
+     "source": "OilPrice",
+     "zh": "Morgan Stanley: Global Fuel Market Will Stay Tight Through Mid-2027"
+    },
+    {
      "title": "Construction innovations could cut gigawatt-scale solar costs by 22%",
      "link": "https://www.pv-magazine.com/2026/10/21/construction-innovations-could-cut-gigawatt-scale-solar-costs-by-22/",
      "pubDate": "Wed, 21 Oct 2026 11:00:00 +0000",
@@ -1050,18 +1058,10 @@ window.INDUSTRY_DATA = {
      "zh": "Arctic Infrastructure Was Built on Frozen Ground That’s Starting to Thaw — Drones Can Help Spot the Permafrost Changes Coming"
     },
     {
-     "title": "How Bad Would It Get If China Blocks Rare Earths to America?",
-     "link": "https://oilprice.com/Energy/Energy-General/How-Bad-Would-It-Get-If-China-Blocks-Rare-Earths-to-America.html",
-     "pubDate": "Tue, 20 Oct 2026 19:00:00 -0500",
-     "summary": "Taiwan is the next pressure point that will test China's weaponization of rare earth metals. When Japan indicated it would not remain neutral in a Taiwan conflict, Beijing responded by sharply restricting exports of several heavy rare earth materials, including dysprosium and terbium. Japan was the ",
-     "source": "OilPrice",
-     "zh": "How Bad Would It Get If China Blocks Rare Earths to America?"
-    },
-    {
      "title": "Georgia electric cooperative plans 50-MW home battery deployment",
      "link": "https://www.utilitydive.com/news/georgia-electric-cooperative-plans-50-mw-home-battery-deployment/833492/",
      "pubDate": "Tue, 20 Oct 2026 12:58:27 -0400",
-     "summary": "Central Georgia Electric Membership Corp. plans to use the batteries to reduce system peaks and energy costs as hyperscale data centers seek to connect to its grid.",
+     "summary": "Central Georgia Electric Membership Corporation plans to use the batteries to reduce system peaks and energy costs as hyperscale data centers seek to connect to its grid.",
      "source": "Utility Dive",
      "zh": "Georgia electric cooperative plans 50-MW home battery deployment"
     },
@@ -1746,6 +1746,70 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "问界新能源起火声明：一句不提人员伤亡？",
+     "link": "https://www.huxiu.com/article/4899334.html?f=rss",
+     "pubDate": "Wed, 21 Oct 2026 19:43:39 +0800",
+     "summary": "本文来自微信公众号： 风声OPINION ，作者：张丰，原文标题：《风声丨问界新能源起火声明：一句不提人员伤亡？》 凤凰网原创问界新能源汽车起火燃烧后的声明，只一味强调车没有责任，却不提及司机的人身安全，只字不提司机伤亡的任何信息。它过于急切地撇清责任，反而让公众产生新的忧虑：新能源车已经完美到没有“人”的存在空间了吗？ 专栏作家 10月17日深夜，陕西榆林神木市一处路口发生交通事故，一辆新能源SUV闯红灯撞上信号杆后，迅速起火燃烧。视频中看起来，现场火势凶猛。 有网友称，涉事车辆为问界M9。10月21日下午，问界汽车官方发布《关于陕西省榆林神木市车辆事故的说明》（以下简称《说明》），表示“对",
+     "source": "虎嗅",
+     "zh": "问界新能源起火声明：一句不提人员伤亡？"
+    },
+    {
+     "title": "内部元老突击成立公司，接手罗欣药业4427万元资产，凭啥不算关联交易？",
+     "link": "https://www.huxiu.com/article/4899333.html?f=rss",
+     "pubDate": "Wed, 21 Oct 2026 19:41:09 +0800",
+     "summary": "本文来自微信公众号： 每经头条 ，编辑：董兴生，作者：第1226期 9月29日，罗欣药业一纸公告，拟将两家控股孙公司各51%股权以合计4427万元出售，目的是优化资产结构。 上市公司称，本次交易“不构成关联交易”。但《每日经济新闻》记者（以下简称每经记者）调查发现，接盘方中的两名关键人物均为在罗欣体系内深耕十余年的“内部人”：一人至今仍被罗欣集团官网列为“四川分公司总经理”；另一人自2017年起就曾以“股份集团副总经理、销售公司总经理”身份对外履职，且其也是另一标的公司现任董事长。 与此同时，三家接盘主体全部成立于签约前一个月左右，注册资本仅100万元，且注册地址与标的公司同楼同层。记者实地走",
+     "source": "虎嗅",
+     "zh": "内部元老突击成立公司，接手罗欣药业4427万元资产，凭啥不算关联交易？"
+    },
+    {
+     "title": "小岛秀夫谈《死亡搁浅》被玩家评为“步行模拟器”：最让我害怕的是偏见",
+     "link": "https://www.ithome.com/1/016/088.htm",
+     "pubDate": "Wed, 21 Oct 2026 11:40:56 GMT",
+     "summary": "IT之家 10 月 21 日消息，据游戏媒体 VGC 今天报道，小岛秀夫最近在访谈中指出，许多从未玩过《死亡搁浅》游戏的玩家，经常将其称为“步行模拟器”， 以至于这种偏见已经根植于大众心中 。 小岛秀夫对此表示：“我制作了一款名为《死亡搁浅》的游戏，玩家需要四处行走、运送货物。但那些从未玩过这款游戏的人，却会说‘这不就是个步行模拟器吗’，仿佛他们真的玩过一样。这种看法至今仍然存在， 而这恰恰是最让我感到害怕的事情 。” “随着 AI 开始融入社交媒体，你最终看到的就只有你喜欢的东西，对吧？你只会接触到自己本来就认同的观点和内容，因此根本没有机会接触截然不同的视角或完全相反的意见。这才是最可怕的",
+     "source": "IT之家",
+     "zh": "小岛秀夫谈《死亡搁浅》被玩家评为“步行模拟器”：最让我害怕的是偏见"
+    },
+    {
+     "title": "微软 Edge 浏览器内置 PDF 阅读器升级：支持合并文档，所有操作均在本地完成",
+     "link": "https://www.ithome.com/1/016/087.htm",
+     "pubDate": "Wed, 21 Oct 2026 11:36:59 GMT",
+     "summary": "IT之家 10 月 21 日消息，Neowin 今日发现，微软正在为 Edge 浏览器开发新的 PDF 文档管理功能，计划于 2027 年 1 月推出。 根据微软 365 路线图编号 RM577186 的信息，Edge 浏览器中内置 PDF 阅读器未来将支持提取、删除、旋转和重新排列 PDF 页面，并将处理结果保存为新文件，同时支持合并多个 PDF 文档。 IT之家注意到，目前 Edge 内置 PDF 阅读器已经支持绘图、批注、朗读、翻译以及 Copilot 集成等功能，但在页面管理和多文档整理方面仍有不足。 新功能上线后，用户无需借助第三方 PDF 编辑软件或浏览器扩展，即可直接在 Edge",
+     "source": "IT之家",
+     "zh": "微软 Edge 浏览器内置 PDF 阅读器升级：支持合并文档，所有操作均在本地完成"
+    },
+    {
+     "title": "SpaceX上市后首度盈利，马斯克还想把供电生意做大？",
+     "link": "https://www.huxiu.com/article/4899279.html?f=rss",
+     "pubDate": "Wed, 21 Oct 2026 19:36:08 +0800",
+     "summary": "作者：王晨，编辑：邱慧，题图来自：视觉中国 北京时间10月21日，SpaceX公布2026年第三季度财报：单季营收145.75亿美元，同比增长161.4%；净利润44.04亿美元，较去年同期和今年第二季度均实现扭亏。 推动收入增长的主要业务已经变成了AI。包含算力租赁、Grok、Cursor和X广告等业务的超级智能部门 （Super Intelligence，简称SI） ，第三季度收入75.60亿美元，占公司总营收的51.9%，超过星链所在的连接业务。 SpaceX还想把这门生意做得更大。马斯克在财报电话会上表示，有信心在2027年新增10GW算力。此外，他还首次确认，SpaceX&nbsp;",
+     "source": "虎嗅",
+     "zh": "SpaceX上市后首度盈利，马斯克还想把供电生意做大？"
+    },
+    {
+     "title": "电竞手机比拼逻辑变了，荣耀WIN2选择“用价换量”",
+     "link": "https://www.tmtpost.com/8176772.html",
+     "pubDate": "Wed, 21 Oct 2026 19:34:51 +0800",
+     "summary": "生态与价格的多重战，电竞手机不再只比拼性能。",
+     "source": "钛媒体",
+     "zh": "电竞手机比拼逻辑变了，荣耀WIN2选择“用价换量”"
+    },
+    {
+     "title": "“乌镇峰会观众预约平台”，正式上线！",
+     "link": "https://www.tmtpost.com/8176791.html",
+     "pubDate": "Wed, 21 Oct 2026 19:31:59 +0800",
+     "summary": "这个平台究竟有哪些功能？观众又该如何预约？让我们一起解锁它的完整打开方式。",
+     "source": "钛媒体",
+     "zh": "“乌镇峰会观众预约平台”，正式上线！"
+    },
+    {
+     "title": "AI code-testing startup Blacksmith raised a $66M Series C led by Sequoia Capital at a $1B valuation, up from $550M after raising a $45M Series B in August (Beatrice Nolan/Fortune)",
+     "link": "https://www.techmeme.com/261021/p17#a261021p17",
+     "pubDate": "Wed, 21 Oct 2026 07:30:01 -0400",
+     "summary": "Beatrice Nolan / Fortune : AI code-testing startup Blacksmith raised a $66M Series C led by Sequoia Capital at a $1B valuation, up from $550M after raising a $45M Series B in August &nbsp; &mdash;&nbsp; Blacksmith, a startup that runs the infrastructure companies use to test code before it ships, ha",
+     "source": "Techmeme",
+     "zh": "AI code-testing startup Blacksmith raised a $66M Series C led by Sequoia Capital at a $1B valuation, up from $550M after raising a $45M Series B in August (Beatrice Nolan/Fortune)"
+    },
+    {
      "title": "奇瑞捷途山海 L7 PLUS 新版本车型 10 月 24 日上市，搭载猎鹰智驾系统",
      "link": "https://www.ithome.com/1/016/086.htm",
      "pubDate": "Wed, 21 Oct 2026 11:29:00 GMT",
@@ -1810,20 +1874,12 @@ window.INDUSTRY_DATA = {
      "zh": "双十一活动助力：网联平台 10 月 20 日单日处理支付交易 46.4 亿笔，创历史新高"
     },
     {
-     "title": "米哈游推出《崩坏：星穹铁道》火花真无线蓝牙耳机：基于水月雨轻巧豆 Dots，499 元",
-     "link": "https://www.ithome.com/1/016/080.htm",
-     "pubDate": "Wed, 21 Oct 2026 11:14:04 GMT",
-     "summary": "IT之家 10 月 21 日消息，米哈游《崩坏：星穹铁道》火花真无线蓝牙耳机礼盒已于昨晚开售，售价 499 元。 这款耳机基于水月雨轻巧豆 Dots 进行打造，它采用了火花标志性的红黑主调 + 个性火花头像，其中一只耳机印有免兔菇与菇菇兔纹饰，另一只印有「SPARXIE」标识。 此外，米哈游还为其配备了红黑主题的皮质收纳包（充电仓），附赠特典 Q 版火花亚克力立牌、专属亚克力挂件 + 挂绳。 米哈游在这款耳机中加入了角色定制音效，包括开关机音效、游戏模式、音乐模式，以及等多定制语音。 参数方面，参考水月雨轻巧豆 Dots，它采用了 10mm 原木球顶异阻尼动圈单元（CCAW 轻量化线圈 + N",
-     "source": "IT之家",
-     "zh": "米哈游推出《崩坏：星穹铁道》火花真无线蓝牙耳机：基于水月雨轻巧豆 Dots，499 元"
-    },
-    {
-     "title": "车企“造人”，一场更残酷的淘汰赛",
-     "link": "https://www.huxiu.com/article/4899327.html?f=rss",
-     "pubDate": "Wed, 21 Oct 2026 19:08:48 +0800",
-     "summary": "本文来自微信公众号： 硅基观察Pro ，作者：硅基君 汽车圈，正在集体跨界“造人”。 据不完全统计，截至2026年，国内已有14家主流车企布局人形机器人。从小鹏、广汽到上汽、比亚迪，头部玩家几乎都已下场。 这背后的逻辑并不复杂。 过去几年，为了打赢智能驾驶这场仗，车企投入巨资，逐步积累了芯片、算力、视觉算法和智能制造等技术能力。如今具身智能兴起，这些技术有了新的用武之地，也让车企看到了汽车之外的第二增长曲线。 但问题在于，技术可以复用，商业化却很难复制。 最典型的就是特斯拉。早在2021年，马斯克就公布了Optimus计划。五年过去，Optimus才逐步走向面向量产的新一代产品，机器人本体、模",
-     "source": "虎嗅",
-     "zh": "车企“造人”，一场更残酷的淘汰赛"
+     "title": "openEuler 在欧洲推广国产发行版",
+     "link": "https://www.solidot.org/story?sid=85674",
+     "pubDate": "Wed, 21 Oct 2026 19:13:23 +0800",
+     "summary": "在开源欧盟峰会上，推广 Linux 发行版的展位非常少，最显著的是两个中国发行版项目，其中展位最大的是 openEuler。openEuler 是华为 EulerOS 的社区版本，它不再是华为的项目，而是由开放原子开源基金会 （OpenAtom Foundation）托管。开放原子开源基金会成立于 2020 年，其创始成员包括华为、阿里巴巴、百度、腾讯和浪潮等。EulerOS 以及浪潮的 K/UX 最早都是基于 CentOS 项目。而 CentOS 于 2020 年宣布切换到滚动发行版 CentOS Stream。它提供了工具可以将 CentOS 系统迁移到 openEuler。openEul",
+     "source": "Solidot",
+     "zh": "openEuler 在欧洲推广国产发行版"
     },
     {
      "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
@@ -1834,36 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More"
     },
     {
-     "title": "年轻人已经没力气跟“活人”谈恋爱了",
-     "link": "https://www.huxiu.com/article/4899326.html?f=rss",
-     "pubDate": "Wed, 21 Oct 2026 19:07:48 +0800",
-     "summary": "本文来自微信公众号： 简单心理 ，作者：简单心理，原文标题：《年轻人已经没力气跟「活人」谈恋爱了》 当代人的亲密关系里，似乎越来越流行起一种「功利性」。 例如，判断一段关系该不该继续，是通过对方有没有「工具价值」来衡量的——ta对我有没有用？能不能让我过得舒服？ 具体到行动上： ▨筛选伴侣朋友时，必须要能为自己提供「情绪价值」； ▨给相亲对象打分，也给自己打分，确保「向上寻找」而不要「向下兼容」。「社会本来就是这样的」「不相信真爱，少走30年弯路」； ▨觉得交朋友累，但希望找「搭子」。区别是，搭子在一起只干一件事，互相没什么期待，情感更同频； …… 现代工作和消费主义将人们从「完整的人」置换为",
-     "source": "虎嗅",
-     "zh": "年轻人已经没力气跟“活人”谈恋爱了"
-    },
-    {
      "title": "Coherence Neuro, which is developing AI models and brain implants to help combat brain tumors, raised a $45M seed from the OpenAI Startup Fund and Founders Fund (Emily Mullin/Wired)",
      "link": "https://www.techmeme.com/261021/p15#a261021p15",
      "pubDate": "Wed, 21 Oct 2026 07:05:22 -0400",
      "summary": "Emily Mullin / Wired : Coherence Neuro, which is developing AI models and brain implants to help combat brain tumors, raised a $45M seed from the OpenAI Startup Fund and Founders Fund &nbsp; &mdash;&nbsp; It's the latest in a growing wave of bets that AI companies are making on brain data.&nbsp; &md",
      "source": "Techmeme",
      "zh": "Coherence Neuro, which is developing AI models and brain implants to help combat brain tumors, raised a $45M seed from the OpenAI Startup Fund and Founders Fund (Emily Mullin/Wired)"
-    },
-    {
-     "title": "米哈游推出《崩坏：星穹铁道》恍恍惚惚花火火花系列周边配件，含灯光插座、数据线、氮化镓充电器等",
-     "link": "https://www.ithome.com/1/016/079.htm",
-     "pubDate": "Wed, 21 Oct 2026 11:04:06 GMT",
-     "summary": "IT之家 10 月 21 日消息，米哈游《崩坏：星穹铁道》恍恍惚惚花火火花系列周边配件已于昨晚开售，包括毛绒斜挎包、36W 灯光插座、100W 编织数据线、35W 氮化镓充电器以及配套的硅胶保护套。 价格方面，毛绒斜挎包售价 159 元，叠加 15 元券后 144 元；36W 灯光插座 259 元，100W 编织数据线售价 59 元，电源适配器 109 元，电源硅胶保护套 59 元，均可叠加双 11 平台补贴。 参数方面，灯光插座（36W 氮化镓照明排插，带电源适配器）采用 PC 外壳材质，支持 170cm 线长，净重约 520g，提供双 C 快充口，支持最高 2500W 功率。 100W 编",
-     "source": "IT之家",
-     "zh": "米哈游推出《崩坏：星穹铁道》恍恍惚惚花火火花系列周边配件，含灯光插座、数据线、氮化镓充电器等"
-    },
-    {
-     "title": "特斯拉Roadster只是在炫融资的技",
-     "link": "https://www.huxiu.com/article/4899323.html?f=rss",
-     "pubDate": "Wed, 21 Oct 2026 19:01:33 +0800",
-     "summary": "本文来自微信公众号： 晨枫新苑 ，作者：晨枫老苑 特斯拉在好多年没有有意义的新产品之后，终于二次推出Roadster。第一代Roadster实际上是第一个特斯拉，实际上是在马斯克上任CEO之前启动的。马斯克打入太空的也是它。 第一代Roadster实际上用的是Lotus的平台，这样的油改电早就证明不是好办法。多年来，特斯拉一直想推出第二代。但跑车其实其实不赚钱，马斯克聪明地把重点首先放在大型豪华的Model S，用较大的定价空间为全电争取生存空间，然后就是一连串Model 3、X、Y的重头戏。但这是多年前了。现在，特斯拉早就急需全线更新产品，但主流车型打不过中国军团，只有出奇兵。日前，特斯拉推",
-     "source": "虎嗅",
-     "zh": "特斯拉Roadster只是在炫融资的技"
     },
     {
      "title": "Gaming Can’t Afford More Games the Size of ‘Grand Theft Auto VI’",
@@ -1941,17 +1973,9 @@ window.INDUSTRY_DATA = {
      "title": "Whatever Happened to Fire Escapes",
      "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
      "pubDate": "Wed, 21 Oct 2026 10:14:43 +0000",
-     "summary": "Article URL: https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes Comments URL: https://news.ycombinator.com/item?id=50178455 Points: 22 # Comments: 4",
+     "summary": "Article URL: https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes Comments URL: https://news.ycombinator.com/item?id=50178455 Points: 28 # Comments: 7",
      "source": "Hacker News",
      "zh": "Whatever Happened to Fire Escapes"
-    },
-    {
-     "title": "China criticizes the US DHS&apos;s DeepSeek ban, vowing \"resolute countermeasures\" while rejecting allegations from the FBI and AI labs of illicit distillation (Ephrat Livni/New York Times)",
-     "link": "https://www.techmeme.com/261021/p11#a261021p11",
-     "pubDate": "Wed, 21 Oct 2026 06:10:01 -0400",
-     "summary": "Ephrat Livni / New York Times : China criticizes the US DHS's DeepSeek ban, vowing &ldquo;resolute countermeasures&rdquo; while rejecting allegations from the FBI and AI labs of illicit distillation &nbsp; &mdash;&nbsp; The response came after Homeland Security ordered the removal and exclusion of p",
-     "source": "Techmeme",
-     "zh": "China criticizes the US DHS&apos;s DeepSeek ban, vowing \"resolute countermeasures\" while rejecting allegations from the FBI and AI labs of illicit distillation (Ephrat Livni/New York Times)"
     },
     {
      "title": "Meta 被勒令公布授权通过 BT 下载盗版电子书的员工名单",
@@ -1960,30 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Meta 为训练其 AI 模型从影子图书馆 Anna’s Archive 和 LibGen 下载了大量盗版电子书。起诉 Meta 的图书出版商和作者想要了解真相，想知道是谁下令下载盗版电子书库的。Meta 在法庭上回应称，无法确定具体是谁正式做出的决策，因为相关决策通常是团队共识的结果。至于通过 BitTorrent 工具下载盗版电子书库的种子，Meta 认为是负责执行下载任务的员工的技术决策。法官 Thomas Hixson 勒令 Meta 提供下载服务器的指令历史，列出所有参与批准下载活动的人员名单，其中包括决定是否进行或如何进行做种，以及是否采取措施减轻做种影响的决策者。",
      "source": "Solidot",
      "zh": "Meta 被勒令公布授权通过 BT 下载盗版电子书的员工名单"
-    },
-    {
-     "title": "The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More",
-     "link": "https://www.wired.com/gallery/best-hearing-aids/",
-     "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
-     "summary": "These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.",
-     "source": "WIRED",
-     "zh": "The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More"
-    },
-    {
-     "title": "She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family",
-     "link": "https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/",
-     "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
-     "summary": "To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.",
-     "source": "WIRED",
-     "zh": "She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family"
-    },
-    {
-     "title": "Netflix Earnings, Business or Franchise, Disney’s Deal",
-     "link": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/",
-     "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
-     "summary": "Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth.",
-     "source": "Stratechery",
-     "zh": "Netflix Earnings, Business or Franchise, Disney’s Deal"
     }
    ]
   },
@@ -1993,6 +1993,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "The Odin 3 Portal launches this week with Elite power, and the price is better than expected",
+     "link": "https://www.androidauthority.com/ayn-odin-3-portal-launch-pricing-3726007/",
+     "pubDate": "Wed, 21 Oct 2026 11:34:58 +0000",
+     "summary": "The Odin 3 Portal could be the ultimate Android handheld, and it launches this week.",
+     "source": "Android Authority",
+     "zh": "The Odin 3 Portal launches this week with Elite power, and the price is better than expected"
+    },
+    {
+     "title": "This top-selling Samsung phone is finally getting stable One UI 9 with Android 17",
+     "link": "https://www.androidauthority.com/samsung-galaxy-a55-stable-one-ui-9-rollout-3725983/",
+     "pubDate": "Wed, 21 Oct 2026 11:31:04 +0000",
+     "summary": "Samsung's One UI 9 rollout is going strong.",
+     "source": "Android Authority",
+     "zh": "This top-selling Samsung phone is finally getting stable One UI 9 with Android 17"
+    },
     {
      "title": "Several Samsung Galaxy Watch owners report alarming burn-like wrist marks",
      "link": "https://www.androidauthority.com/samsung-galaxy-watch-overheating-wrist-burn-reports-3725942/",
@@ -2080,22 +2096,6 @@ window.INDUSTRY_DATA = {
      "summary": "This central hub is perfect for keeping my important contacts highlighted in one place.",
      "source": "Android Authority",
      "zh": "I didn’t expect Pixel VIPs to impress me much, but now I can’t stop using it"
-    },
-    {
-     "title": "I split Claude, Gemini, and ChatGPT into work, home, and casual, and it’s a mixed bag",
-     "link": "https://www.androidauthority.com/my-claude-gemini-and-chatgpt-setup-3721781/",
-     "pubDate": "Wed, 21 Oct 2026 09:30:24 +0000",
-     "summary": "Here's what happened when I assigned distinct roles to Claude, Gemini, and ChatGPT. This setup was a double-edged sword.",
-     "source": "Android Authority",
-     "zh": "I split Claude, Gemini, and ChatGPT into work, home, and casual, and it’s a mixed bag"
-    },
-    {
-     "title": "Samsung is killing a smart TV hub that just got a major Google Photos upgrade",
-     "link": "https://www.androidauthority.com/samsung-daily-plus-shutdown-3725890/",
-     "pubDate": "Wed, 21 Oct 2026 09:14:40 +0000",
-     "summary": "Samsung's shutdown notice raises questions about a recent Google integration.",
-     "source": "Android Authority",
-     "zh": "Samsung is killing a smart TV hub that just got a major Google Photos upgrade"
     },
     {
      "title": "Subaru is dropping gas cars for EVs in Europe by the end of 2027",
@@ -2242,12 +2242,148 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Bank regulator to effect GENIUS Act from January 18 next year",
+     "link": "https://seekingalpha.com/news/4655085-bank-regulator-to-effect-genius-act-from-january-18-next-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 21 Oct 2026 07:49:12 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bank regulator to effect GENIUS Act from January 18 next year"
+    },
+    {
+     "title": "Abbott to separate its nutrition unit as a public firm",
+     "link": "https://seekingalpha.com/news/4655104-abbott-stock-slips-plans-separate-nutrition-unit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 21 Oct 2026 07:48:54 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Abbott to separate its nutrition unit as a public firm"
+    },
+    {
+     "title": "Winnebago rises on better-than-feared earnings results",
+     "link": "https://seekingalpha.com/news/4655103-winnebago-rises-on-better-than-feared-earnings-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 21 Oct 2026 07:48:14 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Winnebago rises on better-than-feared earnings results"
+    },
+    {
      "title": "Bank bosses under pressure to implement AI ahead of time",
      "link": "https://www.finextra.com/newsarticle/48626/bank-bosses-under-pressure-to-implement-ai-ahead-of-time?utm_medium=rssfinextra&utm_source=finextrafeed",
      "pubDate": "Wed, 21 Oct 2026 11:48:00 GMT",
      "summary": "The vast majority of bank bosses in the UK and Ireland feel they are being pressured to implement AI technology more quickly than they feel is comfortable.",
      "source": "Finextra",
      "zh": "Bank bosses under pressure to implement AI ahead of time"
+    },
+    {
+     "title": "Amkor shares jump 10% on $1.3B Nvidia agreement",
+     "link": "https://seekingalpha.com/news/4655102-amkor-shares-jump-10-percent-on-1_3b-nvidia-agreement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 21 Oct 2026 07:46:53 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amkor shares jump 10% on $1.3B Nvidia agreement"
+    },
+    {
+     "title": "These six materials stocks look undervalued as Q3 earnings season begins",
+     "link": "https://seekingalpha.com/news/4655100-these-six-materials-stocks-look-undervalued-as-q3-earnings-season-begins?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 21 Oct 2026 07:46:49 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "These six materials stocks look undervalued as Q3 earnings season begins"
+    },
+    {
+     "title": "CrowdStrike and NVIDIA expand AI agent security from software to silicon",
+     "link": "https://seekingalpha.com/news/4655097-crowdstrike-and-nvidia-expand-ai-agent-security-from-software-to-silicon?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 21 Oct 2026 07:46:05 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CrowdStrike and NVIDIA expand AI agent security from software to silicon"
+    },
+    {
+     "title": "伊朗议会官员：美国必须为对伊朗实施海上封锁承担责任",
+     "link": "http://hk.eastmoney.com/news/1533,202610213902819029.html",
+     "pubDate": "Wed, 21 Oct 2026 19:43:55 +0800",
+     "summary": "伊朗议会国家安全与外交政策委员会秘书赛义迪表示，美国必须为对伊朗实施海上封锁承担责任。他指责美国自战争爆发以来发动袭击、暗杀伊朗已故最高领袖、使用非常规武器、轰炸住宅、体育场、托儿所和学校等民用设施，以及实施海上封锁和轰炸基础设施，称这些行为均违反国际法，构成战争罪。赛义迪表示，美国试图通过海上封锁向伊朗民众施压，伊朗必须依据国际法追究美方责任。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "伊朗议会官员：美国必须为对伊朗实施海上封锁承担责任"
+    },
+    {
+     "title": "美国务卿称乌“星链”限速系马斯克所为",
+     "link": "http://finance.eastmoney.com/news/1351,202610213902814476.html",
+     "pubDate": "Wed, 21 Oct 2026 19:41:51 +0800",
+     "summary": "美国国务卿鲁比奥21日称，乌克兰使用“星链”卫星 通信 系统遭限速的决定由美国太空探索技术公司首席执行官埃隆·马斯克作出，而非白宫。 鲁比奥当天在印度孟买接受采访时称，美国总统特朗普与乌克兰使用“星链”遭限速无关，相关决定由马斯克作出。白宫事先对此不知情，“特朗普或政府层面任何人，从未要求对该系统做出任何更改”。 鲁比奥17日曾表示，乌克兰从未获得“星链”卫星 通信 系统的军事化版本“星盾”系统使用权。他同时否认美方曾下令对乌克兰使用“星链”系统进行限速。 马斯克此前表示，乌克兰使用的“星盾”系统由美国政府拥有和控制，任何有关使用速度或用途的限制由美国军方决定，最终取决于美国总统。据美国方面2",
+     "source": "东方财富股票",
+     "zh": "美国务卿称乌“星链”限速系马斯克所为"
+    },
+    {
+     "title": "IREN计划在西班牙建设300兆瓦AI数据中心园区 目标2028年投运",
+     "link": "http://finance.eastmoney.com/news/1354,202610213902818171.html",
+     "pubDate": "Wed, 21 Oct 2026 19:41:43 +0800",
+     "summary": "IREN计划在西班牙建设一座300兆瓦的 人工智能 数据中心 园区，目标于2028年投入运营，以推进其在欧洲的主权 人工智能 布局。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "IREN计划在西班牙建设300兆瓦AI数据中心园区 目标2028年投运"
+    },
+    {
+     "title": "一天骤降10℃！多地降温猛烈 隔日如换季",
+     "link": "http://finance.eastmoney.com/news/1350,202610213902812259.html",
+     "pubDate": "Wed, 21 Oct 2026 19:41:02 +0800",
+     "summary": "今天（21日）起，中东部大部降水稀少，新疆北部雨雪增多。同时，受冷空气影响，东北、西南、江南、华南等地气温下降， 江南不少地方降温猛烈，隔日如换季。 明天起，中东部气温自北向南开始陆续反弹。 冷空气继续给中东部制造降温 明起气温陆续反弹 今天，随着冷空气东移南下，东北气温还会继续下跌，西南、江南、华南等地也将迎来降温。其中， 江南不少地方单日最高气温下降猛烈 ，像杭州昨天最高气温还达到31℃左右，今天就会速降至21℃，冷暖差异明显。 明天起，这股冷空气影响基本结束，中东部气温将自北向南有所回升，其中北方不少地方累计升温幅度较大， 23日前后，东北、西北地区东部多地最高气温将升至15℃以上，华北",
+     "source": "东方财富股票",
+     "zh": "一天骤降10℃！多地降温猛烈 隔日如换季"
+    },
+    {
+     "title": "光启技术：拟使用3.42亿元募集资金对全资子公司增资",
+     "link": "http://finance.eastmoney.com/news/1354,202610213902818030.html",
+     "pubDate": "Wed, 21 Oct 2026 19:40:54 +0800",
+     "summary": "光启技术 (002625.SZ)公告称，公司使用募集资金3.42亿元对全资子公司深圳光启尖端技术有限责任公司进行增资，全部计入资本公积，不增加其注册资本。本次增资完成后，光启尖端仍为公司全资子公司。本次增资事项已经公司第六届董事会第四次会议审议通过，无需提交股东会审议，不构成关联交易及重大资产重组。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "光启技术：拟使用3.42亿元募集资金对全资子公司增资"
+    },
+    {
+     "title": "杉杉股份：拟向间接控股股东海螺集团定增募资不超40亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202610213902816284.html",
+     "pubDate": "Wed, 21 Oct 2026 19:39:28 +0800",
+     "summary": "杉杉股份 (600884.SH)公告称，公司拟向特定对象发行A股股票，发行对象为间接控股股东海螺集团，海螺集团拟以现金全额认购。本次发行拟募集资金总额不超过40亿元，部分用于支持 锂 电池 负极材料一体化项目建设及补充流动资金。发行价格不低于定价基准日前20个交易日公司股票交易均价的80%，且不低于发行前最近一期末经审计的每股净资产。本次发行构成关联交易，尚需国家出资企业审批、股东会审议通过及上交所审核、证监会注册。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "杉杉股份：拟向间接控股股东海螺集团定增募资不超40亿元"
+    },
+    {
+     "title": "Musk says he’s exploring a SpaceX-Tesla megamerger. What would a combined company be worth?",
+     "link": "https://www.marketwatch.com/story/musk-says-hes-exploring-a-spacex-tesla-megamerger-what-would-a-combined-company-be-worth-f35566aa?mod=mw_rss_topstories",
+     "pubDate": "Wed, 21 Oct 2026 11:39:00 GMT",
+     "summary": "SpaceX and Super Micro Computer help revive Wall Street’s flagging enthusiasm, with more key earnings on tap.",
+     "source": "MarketWatch",
+     "zh": "Musk says he’s exploring a SpaceX-Tesla megamerger. What would a combined company be worth?"
+    },
+    {
+     "title": "法债规模是希腊十倍以上！富兰克林邓普顿：没人真正准备好迎接欧元区危机2.0",
+     "link": "https://wallstreetcn.com/articles/3784130",
+     "pubDate": "Wed, 21 Oct 2026 19:38:31 +0800",
+     "summary": "法国债务风险正引发市场高度警惕。富兰克林邓普顿警告，法国债务规模远超希腊危机时期，一旦失控，欧元区或将面临比上一轮更难收拾的主权债务危机。 富兰克林邓普顿固定收益首席投资官Sonal Desai在一场网络研讨会上表示， \"法国的债务规模超过希腊当年的十倍以上，简单的救助方案根本不在选项之列。\" 她直言，\"我认为没有人真正准备好迎接欧元区债务危机2.0版本，一旦成真，其破坏力可能远超以往。\"与此同时，法国10年期国债相对德债的利差扩大至154个基点，创10月初以来最高水平，市场对法国债务压力的担忧已具体反映在借贷成本上升之中。 Desai警告投资者不应低估欧盟政府债券市场出现\"剧烈波动\"的潜在风",
+     "source": "华尔街见闻",
+     "zh": "法债规模是希腊十倍以上！富兰克林邓普顿：没人真正准备好迎接欧元区危机2.0"
+    },
+    {
+     "title": "10月21日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202610213902807821.html",
+     "pubDate": "Wed, 21 Oct 2026 19:32:31 +0800",
+     "summary": "沪深两市多家上市公司10月21日晚间发布公司公告，以下为重要公告汇总。 【品大事】 2连板 日海智能 ：上半年高算力模组创新产品收入占总营收比重约1% 2连板 日海智能 (002313)10月21日发布股票交易异动公告称，近期市场对端侧AI、 机器人 等领域关注度较高，为避免对投资者产生误导，现就主营产品情况说明如下：目前公司无线 通信 模组等主营产品结构较前期保持稳定，以4G、5G、NB等制式的蜂窝数传模组和GNSS定位模组为主，上半年高算力模组创新产品的收入占公司总营收的比重约1%，未来存在高端产品市场开拓不及预期的风险。 中国人寿 ：拟向集团公司出售养老险公司33.73%股权 中国人寿 ",
+     "source": "东方财富资讯",
+     "zh": "10月21日晚间沪深上市公司重大事项公告最新快递"
+    },
+    {
+     "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+     "link": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+     "pubDate": "Wed, 21 Oct 2026 11:30:01 GMT",
+     "summary": "Nvidia says its DSX Pod AI Factory, which combines seven Vera Rubin racks in a shipping container, could cut the time to start serving AI tokens to 14 days.",
+     "source": "CNBC",
+     "zh": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck"
+    },
+    {
+     "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
+     "link": "http://stock.eastmoney.com/news/1768,202610213902805735.html",
+     "pubDate": "Wed, 21 Oct 2026 19:29:47 +0800",
+     "summary": "当地时间周二， 英伟达 首席执行官黄仁勋在GTC柏林大会上发表主题演讲，展示公司在AI基础设施、智能体、开放模型、工业 机器人 和自动驾驶等领域的最新布局。从模块化AI工厂到企业级智能体，再到面向人形 机器人 的开放技术平台， 英伟达 正将竞争优势从GPU芯片延伸至硬件、软件、模型和行业应用构成的全栈生态。 黄仁勋表示， 计算机 产业正处于一场新工业革命的起点。随着AI从内容生成工具向能够自主推理、调用工具和执行任务的智能体演进，企业不仅需要使用AI，还需要具备生产和部署AI的能力。 AI工厂加速落地，基础设施建设迈向标准化 黄仁勋将AI产业比作一个由五层构成的体系：能源、加速计算、AI工厂、",
+     "source": "东方财富资讯",
+     "zh": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地"
     },
     {
      "title": "21特写｜年轻人盯上养老院里的新职业",
@@ -2274,38 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "利好来了！中办、国办重磅发文"
     },
     {
-     "title": "Nova Minerals rises as U.S. commits $249M to Port Mackenzie rail infrastructure",
-     "link": "https://seekingalpha.com/news/4655080-nova-minerals-rises-as-us-commits-249m-to-port-mackenzie-rail-infrastructure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 21 Oct 2026 07:25:31 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Nova Minerals rises as U.S. commits $249M to Port Mackenzie rail infrastructure"
-    },
-    {
-     "title": "Danaher drops after Q3 revenue miss amid CEO transition",
-     "link": "https://seekingalpha.com/news/4655087-danaher-stock-drops-q3-revenue-miss?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 21 Oct 2026 07:24:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Danaher drops after Q3 revenue miss amid CEO transition"
-    },
-    {
-     "title": "At a glance: stocks gapping down premarket",
-     "link": "https://seekingalpha.com/news/4655086-at-a-glance-stocks-gapping-down-premarket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 21 Oct 2026 07:24:05 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "概览：股市盘前跳空低开"
-    },
-    {
-     "title": "Earnings Snapshot: Philip Morris surpasses Q3 expectations and revises FY2026 earnings outlook",
-     "link": "https://seekingalpha.com/news/4655088-earnings-snapshot-philip-morris-surpasses-q3-expectations-and-revises-fy2026-earnings-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 21 Oct 2026 07:23:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Earnings Snapshot: Philip Morris surpasses Q3 expectations and revises FY2026 earnings outlook"
-    },
-    {
      "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
      "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
      "pubDate": "Wed, 21 Oct 2026 11:22:00 GMT",
@@ -2314,20 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it"
     },
     {
-     "title": "At a glance: stocks gapping up premarket",
-     "link": "https://seekingalpha.com/news/4655082-at-a-glance-stocks-gapping-up-premarket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 21 Oct 2026 07:20:57 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "At a glance: stocks gapping up premarket"
-    },
-    {
-     "title": "Vivos Therapeutics reports Nasdaq compliance confirmation with continued listing shareholders’ equity standard",
-     "link": "https://seekingalpha.com/news/4655083-vivos-therapeutics-reports-nasdaq-compliance-confirmation-with-continued-listing-shareholders-equity-standard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 21 Oct 2026 07:18:40 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Vivos Therapeutics reports Nasdaq compliance confirmation with continued listing shareholders’ equity standard"
+     "title": "白马蓝筹集体回调 重仓基金受伤有多深？",
+     "link": "http://finance.eastmoney.com/news/11158,202610213902806621.html",
+     "pubDate": "Wed, 21 Oct 2026 19:20:21 +0800",
+     "summary": "10月21日，A股市场迎来一场“白马股风暴”，只不过这一次方向向下。 万亿巨头 宁德时代 全天低开低走，最终收跌12.03%，成交额324.39亿元，位居A股成交榜首。自今年5月创下467.34元的历史高点以来，其累计跌幅已超50%，市值蒸发逾万亿元。 与此同时， 福耀玻璃 收跌7.19%， 格力电器 连续第二日重挫，今日再跌3.81%， 山西汾酒 跌5.73%， 中国移动 跌5.09%， 中国神华 跌3.96%， 青岛啤酒 跌3.03%，家电、 白酒 、 通信 、 煤炭 等多个板块的高股息蓝筹无一幸免。一批 基金重仓 的白马蓝筹集体“失蹄”，让重仓持有的公募基金承受了巨大压力。 三季报“增收",
+     "source": "东方财富资讯",
+     "zh": "白马蓝筹集体回调 重仓基金受伤有多深？"
     },
     {
      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
@@ -2362,6 +2458,14 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达与供应链伙伴扩大产能，未来三年基板产能计划提升至2.5倍"
     },
     {
+     "title": "史上第5次！创指再现8连跌 反弹将至？",
+     "link": "http://finance.eastmoney.com/news/11137,202610213902791160.html",
+     "pubDate": "Wed, 21 Oct 2026 19:06:39 +0800",
+     "summary": "10月21日，创业板指收报2694.71点，失守2700点整数关口，创近14个月新低。自10月12日以来，A股连续调整，创业板指已连续8个交易日下跌，累计跌幅达11.46%，引发投资者对“市场何时反弹”的讨论。 回溯历史数据可以发现，自创指发布以来，共出现过五次“8连跌”（含本次）。复盘此前四次的走势：“8连跌”后的首个交易日（T+1日），沪指四次全部收红，创指则两次收涨、两次续跌，情绪修复在主板体现得更快。到T+5日，超跌反弹全面展开——两大指数四次全部收红，短线技术性修复信号明显。 但把时间拉长，结局开始分化：T+20日，除2022年那轮延续深跌外，其余三次创指均转为上涨，沪指同步走强；T",
+     "source": "东方财富资讯",
+     "zh": "史上第5次！创指再现8连跌 反弹将至？"
+    },
+    {
      "title": "House committee says Webull messages point to China access to U.S. customer data",
      "link": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
      "pubDate": "Wed, 21 Oct 2026 11:05:18 GMT",
@@ -2376,110 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "State Bank of India (SBI), the country's largest lending institution by assets, has launched an internal investigation after an alleged cyberattack exposed user's personal information.",
      "source": "Finextra",
      "zh": "India's largest bank hit by cyberattack"
-    },
-    {
-     "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
-     "link": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
-     "pubDate": "Wed, 21 Oct 2026 11:00:01 GMT",
-     "summary": "Mortgage rates finally came down a little, but borrowers are still having trouble getting into the housing market.",
-     "source": "CNBC",
-     "zh": "Mortgage rates drop for the first time in 2 months, but demand still falls further"
-    },
-    {
-     "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
-     "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-     "pubDate": "Wed, 21 Oct 2026 11:00:00 GMT",
-     "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
-     "source": "MarketWatch",
-     "zh": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?"
-    },
-    {
-     "title": "Opposition to data centers will drive up inflation, says BlackRock’s Larry Fink",
-     "link": "https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories",
-     "pubDate": "Wed, 21 Oct 2026 10:59:00 GMT",
-     "summary": "Fight the datacenters at your economic peril, says BlackRock’s CEO Larry Fink.",
-     "source": "MarketWatch",
-     "zh": "Opposition to data centers will drive up inflation, says BlackRock’s Larry Fink"
-    },
-    {
-     "title": "AT&T shrugs off SpaceX fears with its own large haul of new internet subscribers",
-     "link": "https://www.marketwatch.com/story/at-t-shrugs-off-spacex-fears-with-its-own-large-haul-of-new-internet-subscribers-644f66a8?mod=mw_rss_topstories",
-     "pubDate": "Wed, 21 Oct 2026 10:58:00 GMT",
-     "summary": "AT&T’s fiber business was the star of the show in Wednesday’s third-quarter earnings report.",
-     "source": "MarketWatch",
-     "zh": "AT&T shrugs off SpaceX fears with its own large haul of new internet subscribers"
-    },
-    {
-     "title": "对话金砖——山东省国际贸易投资洽谈会在济南举行",
-     "link": "http://www.eeo.com.cn/2026/1021/1072383.shtml",
-     "pubDate": "Wed, 21 Oct 2026 18:56:14 +0800",
-     "summary": "10月21日，由中国国际贸易促进委员会山东省委员会主办的对话金砖——山东省国际贸易投资洽谈会在济南举行，主题为“深化金砖务实合作 聚力共促协同增长”，来自金砖成员国、伙伴国等全球30个国家和地区100余名国际工商界代表，同山东200多家企业开展对接洽谈。",
-     "source": "经济观察网",
-     "zh": "对话金砖——山东省国际贸易投资洽谈会在济南举行"
-    },
-    {
-     "title": "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
-     "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-     "pubDate": "Wed, 21 Oct 2026 10:52:39 GMT",
-     "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
-     "source": "CNBC",
-     "zh": "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up"
-    },
-    {
-     "title": "Musk’s SpaceX ambitions may be ‘dangerous’ for Europe, warns EU lawmaker",
-     "link": "https://www.ft.com/content/f9e4ddf8-5fd4-43e6-bca2-62d1067c4c48?syn-25a6b1a6=1",
-     "pubDate": "Wed, 21 Oct 2026 10:45:04 GMT",
-     "summary": "EU must protect sector from foreign rivals, says parliament’s lead negotiator on telecoms reform",
-     "source": "Financial Times",
-     "zh": "Musk’s SpaceX ambitions may be ‘dangerous’ for Europe, warns EU lawmaker"
-    },
-    {
-     "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
-     "link": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
-     "pubDate": "Wed, 21 Oct 2026 10:40:01 GMT",
-     "summary": "France is grappling with intense pressure to slash spending, while trying to quell violent protests demanding the government spends more.",
-     "source": "CNBC",
-     "zh": "French 10-year bond yield hits 5% for first time since 2002 amid unrest"
-    },
-    {
-     "title": "Singapore's Sea plans IPO for fintech arm Monee",
-     "link": "https://www.finextra.com/newsarticle/48624/singapores-sea-plans-ipo-for-fintech-arm-monee?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Wed, 21 Oct 2026 10:40:00 GMT",
-     "summary": "Singapore-based conglomerate is planng to float its fintech arm, Monee, on the Singapore Stock Exchange (SGX)",
-     "source": "Finextra",
-     "zh": "Singapore's Sea plans IPO for fintech arm Monee"
-    },
-    {
-     "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists &apos;nothing about Ukraine without Ukraine&apos;",
-     "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
-     "pubDate": "Wed, 21 Oct 2026 10:32:40 GMT",
-     "summary": "Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees.",
-     "source": "CNBC",
-     "zh": "Witkoff heads to Russia for Putin talks as Zelenskyy insists &apos;nothing about Ukraine without Ukraine&apos;"
-    },
-    {
-     "title": "Iran FM: We are ready for diplomacy, but will defend ourselves",
-     "link": "https://www.ft.com/content/61bf9676-ea46-4956-b87f-6ab096accafa",
-     "pubDate": "Wed, 21 Oct 2026 10:22:06 GMT",
-     "summary": "A way forward can only materialise once the US administration genuinely accepts that it has no military options",
-     "source": "Financial Times",
-     "zh": "Iran FM: We are ready for diplomacy, but will defend ourselves"
-    },
-    {
-     "title": "最后2天！2027见闻历早鸟99元即将结束，快来锁定最后优惠！",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Wed, 21 Oct 2026 18:16:08 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "最后2天！2027见闻历早鸟99元即将结束，快来锁定最后优惠！"
-    },
-    {
-     "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-     "pubDate": "Wed, 21 Oct 2026 10:15:00 GMT",
-     "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-     "source": "MarketWatch",
-     "zh": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?"
     }
    ]
   },

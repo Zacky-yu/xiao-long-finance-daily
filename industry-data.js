@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/21 19:52:07",
+ "generated_at": "2026/10/21 20:03:49",
  "recent_days": 7,
  "industries": [
   {
@@ -850,6 +850,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "New financing models needed for agrivoltaics",
+     "link": "https://www.pv-magazine.com/2026/10/21/new-financing-models-needed-for-agrivoltaics/",
+     "pubDate": "Wed, 21 Oct 2026 12:00:00 +0000",
+     "summary": "Speakers at the AgriVoltaics Industry Forum Europe 2026 say rising interest rates, uncertainty over electricity revenues and the need to ensure the long-term viability of farming are making agrivoltaic projects harder to finance. The post New financing models needed for agrivoltaics appeared first o",
+     "source": "pv magazine",
+     "zh": "New financing models needed for agrivoltaics"
+    },
+    {
+     "title": "China proposes export controls on polysilicon, wafers and other PV technologies",
+     "link": "https://www.pv-tech.org/china-proposes-export-controls-on-polysilicon-wafers-and-other-pv-technologies/",
+     "pubDate": "Wed, 21 Oct 2026 11:51:33 +0000",
+     "summary": "China’s Ministry of Commerce is proposing to introduce export controls on key PV components, including polysilicon, wafers and cells.",
+     "source": "PV Tech",
+     "zh": "China proposes export controls on polysilicon, wafers and other PV technologies"
+    },
+    {
      "title": "Morgan Stanley: Global Fuel Market Will Stay Tight Through Mid-2027",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Morgan-Stanley-Global-Fuel-Market-Will-Stay-Tight-Through-Mid-2027.html",
      "pubDate": "Wed, 21 Oct 2026 06:30:00 -0500",
@@ -936,14 +952,6 @@ window.INDUSTRY_DATA = {
      "summary": "As India’s solar industry matures, manufacturing competitiveness will depend on consistent quality, sustained energy generation and competitive lifecycle costs, not just capacity additions and module prices. The post India’s solar industry faces a test of durability and cost appeared first on pv mag",
      "source": "pv magazine",
      "zh": "India’s solar industry faces a test of durability and cost"
-    },
-    {
-     "title": "Hoymiles releases a 2,000 kWh C&I energy storage solution",
-     "link": "https://www.pv-magazine.com/2026/10/21/hoymiles-releases-a-2000-kwh-ci-energy-storage-solution/",
-     "pubDate": "Wed, 21 Oct 2026 07:30:00 +0000",
-     "summary": "Chinese manufacturer Hoymiles has launched a C&I battery storage system with capacities ranging from 2 MWh to 2.61 MWh and power outputs of up to 1.25 MW. The containerized system features liquid cooling, integrated fire protection, and backup power switching in less than 20 ms. The post Hoymiles re",
-     "source": "pv magazine",
-     "zh": "Hoymiles releases a 2,000 kWh C&I energy storage solution"
     },
     {
      "title": "New Mexico’s transition to clean energy is actually ahead of schedule",
@@ -1061,7 +1069,7 @@ window.INDUSTRY_DATA = {
      "title": "Georgia electric cooperative plans 50-MW home battery deployment",
      "link": "https://www.utilitydive.com/news/georgia-electric-cooperative-plans-50-mw-home-battery-deployment/833492/",
      "pubDate": "Tue, 20 Oct 2026 12:58:27 -0400",
-     "summary": "Central Georgia Electric Membership Corporation plans to use the batteries to reduce system peaks and energy costs as hyperscale data centers seek to connect to its grid.",
+     "summary": "Central Georgia Electric Membership Corp. plans to use the batteries to reduce system peaks and energy costs as hyperscale data centers seek to connect to its grid.",
      "source": "Utility Dive",
      "zh": "Georgia electric cooperative plans 50-MW home battery deployment"
     },
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Gov. Abigail Spanberger, D,&nbsp;also wants regulators to increase the debt share of Dominion&rsquo;s capital structure from 48% to 60% to lower its rate of return. Separately, regulatory staff and the attorney general have proposed their own conditions for the deal.",
      "source": "Utility Dive",
      "zh": "Virginia governor seeks 6-year rate freeze if Dominion-NextEra merger is approved"
-    },
-    {
-     "title": "Solesca v2 software adds 3D terrain modelling to solar project design",
-     "link": "https://www.pv-tech.org/solesca-v2-software-3d-terrain-modelling-solar-project-design/",
-     "pubDate": "Tue, 20 Oct 2026 15:24:09 +0000",
-     "summary": "Solesca has released the second version of its software, which includes the ability to map the terrain for a proposed PV installation site.",
-     "source": "PV Tech",
-     "zh": "Solesca v2 software adds 3D terrain modelling to solar project design"
     }
    ]
   },
@@ -1097,6 +1097,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Nigeria identifies travel-related Ebola case",
+     "link": "https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/?utm_campaign=rss",
+     "pubDate": "Wed, 21 Oct 2026 11:54:47 +0000",
+     "summary": "Nigeria has confirmed an imported Ebola case tied to the ongoing outbreak centered in the Democratic Republic of the Congo, becoming the fifth country to identify a related infection, health…",
+     "source": "STAT News",
+     "zh": "Nigeria identifies travel-related Ebola case"
+    },
     {
      "title": "GSK gets FDA approval for hepatitis B drug that offers functional cure",
      "link": "https://endpoints.news/gsk-gets-fda-approval-for-hepatitis-b-drug-that-offers-functional-cure/",
@@ -1160,14 +1168,6 @@ window.INDUSTRY_DATA = {
      "summary": "Newly developed palladium-coated membranes capture PFAS and use reactive hydrogen to break their carbon–fluorine bonds. During 58 days of continuous operation, the system achieved up to 96% removal and 83% defluorination. The post New Catalytic Reactive-Hydrogen Membranes Capture and Break Down PFAS",
      "source": "GEN",
      "zh": "New Catalytic Reactive-Hydrogen Membranes Capture and Break Down PFAS"
-    },
-    {
-     "title": "STAT+: He’s slashing quality at nursing homes. This state is letting it happen",
-     "link": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss",
-     "pubDate": "Tue, 20 Oct 2026 21:22:26 +0000",
-     "summary": "The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes’ revenue into a constellation of real estate…",
-     "source": "STAT News",
-     "zh": "STAT+: He’s slashing quality at nursing homes. This state is letting it happen"
     },
     {
      "title": "Roche, Hansoh Launch Up-to-$15B+ Cancer ADC Collaboration",
@@ -1297,6 +1297,14 @@ window.INDUSTRY_DATA = {
    "accent": "#8b5cf6",
    "total": 6,
    "items": [
+    {
+     "title": "Summer of Quantum: Building momentum for space-based QKD",
+     "link": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/",
+     "pubDate": "Wed, 21 Oct 2026 11:54:30 +0000",
+     "summary": "Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […] The post Summer of Quantum: Building momentum for space-based QKD appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "Summer of Quantum: Building momentum for space-based QKD"
+    },
     {
      "title": "Russian satellite plays 'cat-and-mouse' with a commercial US spacecraft likely used by Ukraine. But why the risky close encounter?",
      "link": "https://www.space.com/space-exploration/satellites/russian-satellite-plays-cat-and-mouse-with-a-commercial-us-satellite-likely-used-by-ukraine-but-why-the-risky-close-encounter",
@@ -1512,14 +1520,6 @@ window.INDUSTRY_DATA = {
      "summary": "BELLEVUE, Wash., Oct. 15, 2026 — Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new […] The post Agile Space Industries Expands to Seattle Area with New Bellevue Office appeared first on Spac",
      "source": "SpaceNews",
      "zh": "Agile Space Industries Expands to Seattle Area with New Bellevue Office"
-    },
-    {
-     "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
-     "link": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/",
-     "pubDate": "Wed, 14 Oct 2026 13:09:21 +0000",
-     "summary": "When the European thermal-imagery company constellr began working with Space Inventor on its next generation of satellites, some of the most important details of the spacecraft had yet to be […] The post How mini-constellations could more quickly bring new tech to Europe, and to orbit appeared first",
-     "source": "SpaceNews",
-     "zh": "How mini-constellations could more quickly bring new tech to Europe, and to orbit"
     }
    ]
   },
@@ -1746,6 +1746,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "华为 × 哈尔滨工业大学（深圳）联合设立“华为计算硬件专项”：拟招生 10 人，提供优先留岗机会",
+     "link": "https://www.ithome.com/1/016/092.htm",
+     "pubDate": "Wed, 21 Oct 2026 11:58:16 GMT",
+     "summary": "IT之家 10 月 21 日消息，华为官方今日宣布，华为计算硬件业务与哈尔滨工业大学（深圳）深化产教融合， 联合设立“华为计算硬件专项” ，开展硕士研究生校企联合培养。 华为官方介绍称： 该项目立足产业前沿根技术创新与真实工程研发场景，依托学校基础学科积淀与鲲鹏昇腾完备的硬件研发体系，致力于培养知识结构完备、工程创新能力突出， 能够破解复杂硬件技术难题、适配国家重大战略与产业高端需求的卓越创新型硬件研发后备人才 ，助力中国计算产业实现高端化、自主化、规模化发展。 专项硕士研究生学制三年， 实行校内学术导师与华为产业导师双导师制 。培养期间，研究生将在深圳校区完成课程学习， 然后进入华为公司开展",
+     "source": "IT之家",
+     "zh": "华为 × 哈尔滨工业大学（深圳）联合设立“华为计算硬件专项”：拟招生 10 人，提供优先留岗机会"
+    },
+    {
+     "title": "饥荒正版多人生存手游：腾讯游戏《饥困荒野》定档 11 月 24 日",
+     "link": "https://www.ithome.com/1/016/091.htm",
+     "pubDate": "Wed, 21 Oct 2026 11:57:48 GMT",
+     "summary": "IT之家 10 月 21 日消息，《饥荒》手游国服《饥困荒野》正式宣布定档 11 月 24 日上线，iOS 预约通道同步在 App Store 开启。 《饥困荒野》由盛趣游戏旗下猪人工作室研发、腾讯发行，获得 Klei 正版授权，以《饥荒：联机版》为基础开发。 游戏在保留原作探索、收集、制作与生存循环的前提下，针对移动端做了多项结构性调整。玩家创建自定义角色，原作角色以 NPC 形式出现，部分关卡可扮演；沙盒世界重置时角色和背包物品得以保留，降低了反复重开的损耗。 商业化层面，官方在 4 月的“饥活了”特别节目中宣布彻底取消武器与宠物抽卡， 卡池变更为兑换商店，兑换道具通过日常活跃免费获取，武",
+     "source": "IT之家",
+     "zh": "饥荒正版多人生存手游：腾讯游戏《饥困荒野》定档 11 月 24 日"
+    },
+    {
+     "title": "2026年埃博拉爆发下的非洲的伤口与韧性。",
+     "link": "https://www.huxiu.com/article/4899339.html?f=rss",
+     "pubDate": "Wed, 21 Oct 2026 19:56:35 +0800",
+     "summary": "本文来自微信公众号： 物美非洲 ，作者：阿印 2026年10月20日，尼日利亚联邦政府确认，该国联邦首都区阿布贾发现一例输入性埃博拉确诊病例。这是自刚果（金）于2026年5月宣布本轮埃博拉疫情以来，尼日利亚首次报告感染病例，也是继乌干达、肯尼亚之后又一个出现该病毒的国家。 而2026这一年，埃博拉没有放过非洲。 从刚果（金）东部的矿区和冲突地带开始，一种没有疫苗、没有特效药的病毒——本迪布焦型埃博拉——沿着贸易路线和人口流动的轨迹，一路向外蔓延。到10月，肯尼亚报告了9例，尼日利亚如今也出现了输入病例，坦桑尼亚在边境严阵以待，乌干达的疫情刚刚平息又被重新审视。五个国家拉响了警报，十一个国家被列",
+     "source": "虎嗅",
+     "zh": "2026年埃博拉爆发下的非洲的伤口与韧性。"
+    },
+    {
+     "title": "思锐 BH-60 云台发布：拍照视频双模切换，1399 元",
+     "link": "https://www.ithome.com/1/016/090.htm",
+     "pubDate": "Wed, 21 Oct 2026 11:51:30 GMT",
+     "summary": "IT之家 10 月 21 日消息，思锐光学在昨日发布了旗下 BH-60 双模云台，主打拍照视频双模式切换、纯机械结构耐高低温、20 公斤静态承重、5 公斤动态平衡、阿卡标准快装板，售价 1399 元。 京东 思锐（SIRUI）云台 BH-60 摄影摄像二合一云台 球形液压三维二维全景双保险快拆单反相机微单拍视频打鸟 1399 元 直达链接 这款云台采用纯机械结构设计，不依赖阻尼油，通过机械摩擦实现运动控制，官方称其可在高低温极端环境下保持稳定工作状态，避免传统油压云台可能出现的低温凝固或高温漏油问题。 BH-60 支持拍照与视频双模式切换。在拍照模式下，云台支持 360° 水平旋转；切换至视频",
+     "source": "IT之家",
+     "zh": "思锐 BH-60 云台发布：拍照视频双模切换，1399 元"
+    },
+    {
+     "title": "The EU Commission launches a DSA probe into Booking Holdings&apos; Booking.com to determine whether it is doing enough to combat fraudulent listings and phishing (Foo Yun Chee/Reuters)",
+     "link": "https://www.techmeme.com/261021/p18#a261021p18",
+     "pubDate": "Wed, 21 Oct 2026 07:50:27 -0400",
+     "summary": "Foo Yun Chee / Reuters : The EU Commission launches a DSA probe into Booking Holdings' Booking.com to determine whether it is doing enough to combat fraudulent listings and phishing &nbsp; &mdash;&nbsp; EU tech regulators will investigate whether online hotel reservation website Booking.com is doing",
+     "source": "Techmeme",
+     "zh": "The EU Commission launches a DSA probe into Booking Holdings&apos; Booking.com to determine whether it is doing enough to combat fraudulent listings and phishing (Foo Yun Chee/Reuters)"
+    },
+    {
+     "title": "告别“线数内卷”：禾赛 6D 全彩激光雷达亮点公布，可将 RGB 与深度信息在芯片级原生像素级对齐",
+     "link": "https://www.ithome.com/1/016/089.htm",
+     "pubDate": "Wed, 21 Oct 2026 11:49:37 GMT",
+     "summary": "IT之家 10 月 21 日消息，禾赛科技官方今日公开了下一代超级传感器 —— 6D 全彩激光雷达的亮点信息，号称告别“线数内卷”。禾赛科技官方表示，自动驾驶与具身智能的下一站， 已转向对高质量、高置信度真值数据的极度渴望 。 据介绍，今年 4 月，禾赛发布全球首个 6D 全彩激光雷达芯片平台「毕加索」， 将高精度三维空间信息与高质量 RGB 色彩信息在芯片级实现原生像素级对齐 ，可输出天然一致、无需猜测的真值数据，宣称终结了智驾系统在传感器冲突面前的决策犹豫。 在自动驾驶方案中，摄像头和激光雷达都充当物理 AI “眼睛”的角色。摄像头负责颜色与类别识别，激光雷达负责距离与位置测量，两套独立数",
+     "source": "IT之家",
+     "zh": "告别“线数内卷”：禾赛 6D 全彩激光雷达亮点公布，可将 RGB 与深度信息在芯片级原生像素级对齐"
+    },
+    {
      "title": "问界新能源起火声明：一句不提人员伤亡？",
      "link": "https://www.huxiu.com/article/4899334.html?f=rss",
      "pubDate": "Wed, 21 Oct 2026 19:43:39 +0800",
@@ -1810,22 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI code-testing startup Blacksmith raised a $66M Series C led by Sequoia Capital at a $1B valuation, up from $550M after raising a $45M Series B in August (Beatrice Nolan/Fortune)"
     },
     {
-     "title": "奇瑞捷途山海 L7 PLUS 新版本车型 10 月 24 日上市，搭载猎鹰智驾系统",
-     "link": "https://www.ithome.com/1/016/086.htm",
-     "pubDate": "Wed, 21 Oct 2026 11:29:00 GMT",
-     "summary": "IT之家 10 月 21 日消息，据易车消息，捷途山海 L7 PLUS 新版本车型将于 10 月 24 日上市。全新一代捷途山海 L7 PLUS 将猎鹰配置下放， 即将新增 2 款智驾版车型 。 据IT之家此前报道， 全新一代捷途山海 L7 PLUS 于 8 月 19 日上市 ，提供 1.5L C-DM 经济型、1.5TD C-DM 性能型两种动力共 6 种配置，官方指导价 11.99 万-16.99 万元，超级置换价 10.99-15.99 万元。 1.5L C-DM 经济型 220km 五座启航版：官方指导价 11.99 万元，超级置换价 10.99 万元 220km 五座标准版：官方指导",
-     "source": "IT之家",
-     "zh": "奇瑞捷途山海 L7 PLUS 新版本车型 10 月 24 日上市，搭载猎鹰智驾系统"
-    },
-    {
-     "title": "《绝区零》HOLLOW RECALL 空洞回响系列 NFC 亚克力音乐播放器，本体 129 元",
-     "link": "https://www.ithome.com/1/016/085.htm",
-     "pubDate": "Wed, 21 Oct 2026 11:26:58 GMT",
-     "summary": "IT之家 10 月 21 日消息，米哈游《绝区零》HOLLOW RECALL 空洞回响系列 NFC 亚克力音乐播放器已开启预售，本体售价 129 元，音乐插片 38 元，预计 2027 年 3 月到仓。 这款音乐播放器需搭配其音乐插片使用，包括《三 Z-01》《三 Z-02》《朱鸢》《凯撒》《柏妮思》《莱特》《浅羽悠真》《浮波柚叶》《奥菲丝 &amp;「鬼火」》《卢西娅》《般岳》《照》等不同套组。 这款音乐播放器采用亚克力材质，尺寸约 170×102×20mm，采用了 Type-C 充电接口，在使用时只需将 NFC 插片插入对应卡槽即可。IT之家附参数如下： 京东 11.11 无门槛红包 面额",
-     "source": "IT之家",
-     "zh": "《绝区零》HOLLOW RECALL 空洞回响系列 NFC 亚克力音乐播放器，本体 129 元"
-    },
-    {
      "title": "发考卷前，Anthropic 先降了预期",
      "link": "https://www.huxiu.com/article/4899329.html?f=rss",
      "pubDate": "Wed, 21 Oct 2026 19:20:57 +0800",
@@ -1848,30 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： T 中文版 ，作者：T China，原文标题：《柏琳问燕妮 · 埃彭贝克，新一代人可以得到自由吗？》 2026年早春，我在希腊的莱斯博斯岛（Lesbos）遇到一位「老愤青」，1967年出生的希腊人雅尼斯，当代德国作家Jenny Erpenbeck的头号书迷。在他经营的二手商店里，有一面墙贴满了书籍海报，其中有许多是Erpenbeck作品的书封。他和Erpenbeck同岁。22岁那年，也就是1989年，柏林墙倒塌的那一年，雅尼斯混在柏林墙西边的人群中，彻夜未眠，等待历史的时刻——柏林墙倒塌，他在大街上喝了一夜的啤酒，以一个外国人的身份，和德国人一起庆祝。罗马不是一天建成的，",
      "source": "虎嗅",
      "zh": "柏琳问燕妮· 埃彭贝克，新一代人可以得到自由吗？"
-    },
-    {
-     "title": "《赛博朋克 2077》本周将推 2.5 更新，新增双持武器等",
-     "link": "https://www.ithome.com/1/016/084.htm",
-     "pubDate": "Wed, 21 Oct 2026 11:17:53 GMT",
-     "summary": "IT之家 10 月 21 日消息，《赛博朋克 2077》将在本周推出 2.5 版本更新，加入大量全新玩法和功能。 据官方介绍，本次更新的详情内容将于今日在 CDPR 官方平台公开， 包含义体自定义 、 双持武器等新玩法 。作为对比，此前本作接近双持武器的玩法，是螳螂刀义体升级。允许玩家使用机械螳螂臂刺杀敌人。 IT之家注意到，此次更新名为“《赛博朋克：边缘行者 2》更新（2.5）”，不过截至目前官方暂未公布更多消息。",
-     "source": "IT之家",
-     "zh": "《赛博朋克 2077》本周将推 2.5 更新，新增双持武器等"
-    },
-    {
-     "title": "AI移植游戏爆了，手游厂商该慌了",
-     "link": "https://www.huxiu.com/article/4899328.html?f=rss",
-     "pubDate": "Wed, 21 Oct 2026 19:16:02 +0800",
-     "summary": "本文来自微信公众号： 壹娱观察 ，作者：壹叔团队 最近，开源项目D2R Mobile在GitHub上走红，三天拿下两千多颗星、八百多次复刻。 它把Switch版《暗黑破坏神2：狱火重生》原生跑在了iPhone上，稳定60帧，触屏操作整套重做，还额外加了100层大秘境这类原版没有的玩法。 暴雪自己从没把这款游戏做上手机，在手游市场它只放了一款《暗黑破坏神：不朽》。 相比于结果，其背后的方法则更让人关注，整个项目附了一份写给Claude Code和Codex的“技能”说明。用户准备好自己的游戏文件，对AI说一句话，编译、打包、安装都可以交给它。 X上的中文科技圈很快把它当成了方法论，让AI参考这个",
-     "source": "虎嗅",
-     "zh": "AI移植游戏爆了，手游厂商该慌了"
-    },
-    {
-     "title": "双十一活动助力：网联平台 10 月 20 日单日处理支付交易 46.4 亿笔，创历史新高",
-     "link": "https://www.ithome.com/1/016/081.htm",
-     "pubDate": "Wed, 21 Oct 2026 11:14:57 GMT",
-     "summary": "IT之家 10 月 21 日消息，网联清算有限公司今日宣布，10 月 20 日晚，网联清算公司携手支付行业各方，圆满完成“双十一”第二轮峰值保障， 网联平台当日处理支付交易 46.4 亿笔，创历史新高 。 IT之家注：网联清算有限公司（英文简称 NUCC）为中国人民银行所属企业，是金融基础设施运营机构。公司主要负责网络支付、移动支付清算，业务范围覆盖各类银行业机构和非银行支付机构，是全球交易笔数最大的零售支付清算机构。 官方表示，10 月 20 日，各电商平台的尾款支付与现货抢购带来支付交易高峰，网联平台平稳处理， 系统成功率保持 100% ，行业全链路安全稳定运行。 今年“双十一”峰值保障中",
-     "source": "IT之家",
-     "zh": "双十一活动助力：网联平台 10 月 20 日单日处理支付交易 46.4 亿笔，创历史新高"
     },
     {
      "title": "openEuler 在欧洲推广国产发行版",
@@ -1946,14 +1954,6 @@ window.INDUSTRY_DATA = {
      "zh": "Open Inference Code Narrows the Gap Between Rival AI Chips"
     },
     {
-     "title": "Nvidia unveils the DSX POD, a modular containerized version of its Vera Rubin reference architecture to cut data center deployment from six months to 14 days (Charlotte Trueman/DatacenterDynamics)",
-     "link": "https://www.techmeme.com/261021/p12#a261021p12",
-     "pubDate": "Wed, 21 Oct 2026 06:20:18 -0400",
-     "summary": "Charlotte Trueman / DatacenterDynamics : Nvidia unveils the DSX POD, a modular containerized version of its Vera Rubin reference architecture to cut data center deployment from six months to 14 days &nbsp; &mdash;&nbsp; Details released at GTC Berlin event, taking place this week&nbsp; &mdash;&nbsp;",
-     "source": "Techmeme",
-     "zh": "Nvidia unveils the DSX POD, a modular containerized version of its Vera Rubin reference architecture to cut data center deployment from six months to 14 days (Charlotte Trueman/DatacenterDynamics)"
-    },
-    {
      "title": "短剧，在诞生一种很新的职业剧",
      "link": "https://www.tmtpost.com/8176607.html",
      "pubDate": "Wed, 21 Oct 2026 18:20:06 +0800",
@@ -1970,20 +1970,20 @@ window.INDUSTRY_DATA = {
      "zh": "联合国报告警告到 2050 年全球升温可能突破 2 °C"
     },
     {
-     "title": "Whatever Happened to Fire Escapes",
-     "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-     "pubDate": "Wed, 21 Oct 2026 10:14:43 +0000",
-     "summary": "Article URL: https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes Comments URL: https://news.ycombinator.com/item?id=50178455 Points: 28 # Comments: 7",
-     "source": "Hacker News",
-     "zh": "Whatever Happened to Fire Escapes"
-    },
-    {
      "title": "Meta 被勒令公布授权通过 BT 下载盗版电子书的员工名单",
      "link": "https://www.solidot.org/story?sid=85672",
      "pubDate": "Wed, 21 Oct 2026 18:03:59 +0800",
      "summary": "Meta 为训练其 AI 模型从影子图书馆 Anna’s Archive 和 LibGen 下载了大量盗版电子书。起诉 Meta 的图书出版商和作者想要了解真相，想知道是谁下令下载盗版电子书库的。Meta 在法庭上回应称，无法确定具体是谁正式做出的决策，因为相关决策通常是团队共识的结果。至于通过 BitTorrent 工具下载盗版电子书库的种子，Meta 认为是负责执行下载任务的员工的技术决策。法官 Thomas Hixson 勒令 Meta 提供下载服务器的指令历史，列出所有参与批准下载活动的人员名单，其中包括决定是否进行或如何进行做种，以及是否采取措施减轻做种影响的决策者。",
      "source": "Solidot",
      "zh": "Meta 被勒令公布授权通过 BT 下载盗版电子书的员工名单"
+    },
+    {
+     "title": "The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More",
+     "link": "https://www.wired.com/gallery/best-hearing-aids/",
+     "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
+     "summary": "These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.",
+     "source": "WIRED",
+     "zh": "The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More"
     }
    ]
   },
@@ -1993,6 +1993,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "iPhone Duo review: The future is foldable",
+     "link": "https://9to5mac.com/2026/10/21/iphone-duo-review/",
+     "pubDate": "Wed, 21 Oct 2026 12:00:06 +0000",
+     "summary": "The iPhone Duo is the biggest change to the iPhone’s form factor in its nearly 20-year history. It combines a compact, notebook-style design with an iPad-like inner display. It might look a little awkward, but that’s for good reason. I’ve spent the last week using the iPhone Duo. Here’s everything y",
+     "source": "9to5Mac",
+     "zh": "iPhone Duo review: The future is foldable"
+    },
     {
      "title": "The Odin 3 Portal launches this week with Elite power, and the price is better than expected",
      "link": "https://www.androidauthority.com/ayn-odin-3-portal-launch-pricing-3726007/",
@@ -2224,14 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "A 1 kW wind turbine can help with your electric bill, but the wind determines how much.",
      "source": "Engadget",
      "zh": "How much power can a 1kW wind turbine produce for your home?"
-    },
-    {
-     "title": "What can you use your Apple Watch Ultra 4 action button for?",
-     "link": "https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained/",
-     "pubDate": "Tue, 20 Oct 2026 23:30:00 +0000",
-     "summary": "Here's what your Apple Watch Ultra 4 action button can really do, from launching workouts and retracing routes to controlling smart home devices with one tap.",
-     "source": "Engadget",
-     "zh": "What can you use your Apple Watch Ultra 4 action button for?"
     }
    ]
   },
@@ -2242,6 +2242,54 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Helio seeks Nasdaq listing and plans to raise ~$8M",
+     "link": "https://seekingalpha.com/news/4655109-helio-seeks-nasdaq-listing-and-plans-to-raise-8m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 21 Oct 2026 07:58:41 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Helio seeks Nasdaq listing and plans to raise ~$8M"
+    },
+    {
+     "title": "CoreWeave in focus as it unveils robotics and EV workloads, zero trust AI framework",
+     "link": "https://seekingalpha.com/news/4655089-coreweave-in-focus-as-it-unveils-robotics-and-ev-workloads-zero-trust-ai-framework?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 21 Oct 2026 07:57:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CoreWeave in focus as it unveils robotics and EV workloads, zero trust AI framework"
+    },
+    {
+     "title": "American Airlines, Alaska Air lead list of undervalued industrial stocks",
+     "link": "https://seekingalpha.com/news/4655108-american-airlines-alaska-air-lead-list-of-undervalued-industrial-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 21 Oct 2026 07:55:04 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "American Airlines, Alaska Air lead list of undervalued industrial stocks"
+    },
+    {
+     "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+     "link": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+     "pubDate": "Wed, 21 Oct 2026 11:54:28 GMT",
+     "summary": "Nvidia says its DSX Pod AI Factory, which combines seven Vera Rubin racks in a shipping container, could cut the time to start serving AI tokens to 14 days.",
+     "source": "CNBC",
+     "zh": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck"
+    },
+    {
+     "title": "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
+     "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+     "pubDate": "Wed, 21 Oct 2026 11:51:56 GMT",
+     "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
+     "source": "CNBC",
+     "zh": "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up"
+    },
+    {
+     "title": "Dell expands AI Factory with Nvidia across deskside and data center",
+     "link": "https://seekingalpha.com/news/4655099-dell-expands-ai-factory-with-nvidia-across-deskside-and-data-center?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 21 Oct 2026 07:50:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Dell expands AI Factory with Nvidia across deskside and data center"
+    },
+    {
      "title": "Bank regulator to effect GENIUS Act from January 18 next year",
      "link": "https://seekingalpha.com/news/4655085-bank-regulator-to-effect-genius-act-from-january-18-next-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 21 Oct 2026 07:49:12 -0400",
@@ -2250,20 +2298,36 @@ window.INDUSTRY_DATA = {
      "zh": "Bank regulator to effect GENIUS Act from January 18 next year"
     },
     {
-     "title": "Abbott to separate its nutrition unit as a public firm",
+     "title": "Abbott to separate its nutrition unit as a public company",
      "link": "https://seekingalpha.com/news/4655104-abbott-stock-slips-plans-separate-nutrition-unit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 21 Oct 2026 07:48:54 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Abbott to separate its nutrition unit as a public firm"
+     "zh": "Abbott to separate its nutrition unit as a public company"
     },
     {
-     "title": "Winnebago rises on better-than-feared earnings results",
-     "link": "https://seekingalpha.com/news/4655103-winnebago-rises-on-better-than-feared-earnings-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 21 Oct 2026 07:48:14 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Winnebago rises on better-than-feared earnings results"
+     "title": "【图解财报】雅培三季报盈利29.25亿美元，同比减少38.40%",
+     "link": "http://stock.eastmoney.com/news/11837,202610213902821128.html",
+     "pubDate": "Wed, 21 Oct 2026 19:48:34 +0800",
+     "summary": "雅培 10月21日发布 三季报 业绩，截至2026年9月30日的 9 个月内，该公司营业收入367.70亿美元，同比 增长11.87%； 公司权益持有人应占溢利（归母净利润）29.25亿美元， 同比减少38.40% 。 雅培 三季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使",
+     "source": "东方财富股票",
+     "zh": "【图解财报】雅培三季报盈利29.25亿美元，同比减少38.40%"
+    },
+    {
+     "title": "【调研快报】美盈森接待金信基金等5家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610213902821036.html",
+     "pubDate": "Wed, 21 Oct 2026 19:48:26 +0800",
+     "summary": "美盈森 10月21日公告称， 10月21日 接待金信基金 等5家机构 调研。 接待人员包括董事会秘书 刘会丰,证券事务代表 闻敏,证券事务主管 刘敏。 公司就以下问题进行了回复： 1、公司模切业务的客户情况和业务模式? 答:公司 电子 功能材料/模切业务目前主要由子公司东莞美芯龙负责经营,东莞美芯龙成立于2010 年并开始持续经营。该业务主要为客户提供缓冲垫片、减震泡棉、粘贴胶带、保护膜、防尘网布、导电绝缘膜、导热凝胶、导热硅胶垫片等产品,主要服务 消费电子 及 数据中心 客户,以服务... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方",
+     "source": "东方财富股票",
+     "zh": "【调研快报】美盈森接待金信基金等5家机构调研"
+    },
+    {
+     "title": "图解财报：雅培三季报盈利29.25亿美元，同比减少38.40%",
+     "link": "http://stock.eastmoney.com/news/11836,202610213902820985.html",
+     "pubDate": "Wed, 21 Oct 2026 19:48:26 +0800",
+     "summary": "雅培 10月21日发布 三季报 业绩，截至2026年9月30日的 9 个月内，该公司营业收入367.70亿美元，同比 增长11.87%； 公司权益持有人应占溢利（归母净利润）29.25亿美元， 同比减少38.40% 。 雅培 三季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使",
+     "source": "东方财富股票",
+     "zh": "图解财报：雅培三季报盈利29.25亿美元，同比减少38.40%"
     },
     {
      "title": "Bank bosses under pressure to implement AI ahead of time",
@@ -2274,76 +2338,28 @@ window.INDUSTRY_DATA = {
      "zh": "Bank bosses under pressure to implement AI ahead of time"
     },
     {
-     "title": "Amkor shares jump 10% on $1.3B Nvidia agreement",
-     "link": "https://seekingalpha.com/news/4655102-amkor-shares-jump-10-percent-on-1_3b-nvidia-agreement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 21 Oct 2026 07:46:53 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Amkor shares jump 10% on $1.3B Nvidia agreement"
-    },
-    {
-     "title": "These six materials stocks look undervalued as Q3 earnings season begins",
-     "link": "https://seekingalpha.com/news/4655100-these-six-materials-stocks-look-undervalued-as-q3-earnings-season-begins?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 21 Oct 2026 07:46:49 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "These six materials stocks look undervalued as Q3 earnings season begins"
-    },
-    {
-     "title": "CrowdStrike and NVIDIA expand AI agent security from software to silicon",
-     "link": "https://seekingalpha.com/news/4655097-crowdstrike-and-nvidia-expand-ai-agent-security-from-software-to-silicon?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 21 Oct 2026 07:46:05 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CrowdStrike and NVIDIA expand AI agent security from software to silicon"
-    },
-    {
-     "title": "伊朗议会官员：美国必须为对伊朗实施海上封锁承担责任",
-     "link": "http://hk.eastmoney.com/news/1533,202610213902819029.html",
-     "pubDate": "Wed, 21 Oct 2026 19:43:55 +0800",
-     "summary": "伊朗议会国家安全与外交政策委员会秘书赛义迪表示，美国必须为对伊朗实施海上封锁承担责任。他指责美国自战争爆发以来发动袭击、暗杀伊朗已故最高领袖、使用非常规武器、轰炸住宅、体育场、托儿所和学校等民用设施，以及实施海上封锁和轰炸基础设施，称这些行为均违反国际法，构成战争罪。赛义迪表示，美国试图通过海上封锁向伊朗民众施压，伊朗必须依据国际法追究美方责任。 （文章来源：金十数据快讯）",
+     "title": "氟化工“牛股”多氟多，Q3净利润环比下降41%，股价较年内高点回撤56%",
+     "link": "http://stock.eastmoney.com/news/11215,202610213902821672.html",
+     "pubDate": "Wed, 21 Oct 2026 19:46:34 +0800",
+     "summary": "多氟多 （SZ002407，股价25.20元，市值299.99亿元）10月21日盘后披露2026年第三季度报告。公告显示，公司前三季度实现营业收入109.27亿元，同比增长62.39%；归属于上市公司股东的净利润5.92亿元，同比增长658.72%，业绩延续高增长态势。 股价方面，今年以来 多氟多 股价波动剧烈，年内共计收获10个涨停板。按前复权口径计算，上半年公司股价一度强势上行，6月单月涨幅达49.05%，并于7月2日盘中触及年内最高价57.5元；此后股价震荡回落，7月单月大跌37.41%。截至10月21日收盘，公司股价报25.20元，较年内高点57.5元回撤约56.2%。 前三季度净利增",
      "source": "东方财富股票",
-     "zh": "伊朗议会官员：美国必须为对伊朗实施海上封锁承担责任"
+     "zh": "氟化工“牛股”多氟多，Q3净利润环比下降41%，股价较年内高点回撤56%"
     },
     {
-     "title": "美国务卿称乌“星链”限速系马斯克所为",
-     "link": "http://finance.eastmoney.com/news/1351,202610213902814476.html",
-     "pubDate": "Wed, 21 Oct 2026 19:41:51 +0800",
-     "summary": "美国国务卿鲁比奥21日称，乌克兰使用“星链”卫星 通信 系统遭限速的决定由美国太空探索技术公司首席执行官埃隆·马斯克作出，而非白宫。 鲁比奥当天在印度孟买接受采访时称，美国总统特朗普与乌克兰使用“星链”遭限速无关，相关决定由马斯克作出。白宫事先对此不知情，“特朗普或政府层面任何人，从未要求对该系统做出任何更改”。 鲁比奥17日曾表示，乌克兰从未获得“星链”卫星 通信 系统的军事化版本“星盾”系统使用权。他同时否认美方曾下令对乌克兰使用“星链”系统进行限速。 马斯克此前表示，乌克兰使用的“星盾”系统由美国政府拥有和控制，任何有关使用速度或用途的限制由美国军方决定，最终取决于美国总统。据美国方面2",
+     "title": "李家超：香港将继续促进区域经济合作繁荣稳定",
+     "link": "http://finance.eastmoney.com/news/1350,202610213902822245.html",
+     "pubDate": "Wed, 21 Oct 2026 19:46:27 +0800",
+     "summary": "10月21日，香港特区行政长官李家超在礼宾府与财政部部长蓝佛安会面，就内地和香港的经济金融发展交流意见。香港财政司司长陈茂波、财政司副司长黄伟纶和财经事务及库务局局长许正宇亦有出席。李家超衷心感谢国家对香港的信任和支持，以及对香港国际金融中心地位的高度肯定。香港积极把握财长会作为国际交流平台，展示内联外通的独特优势，深化与亚太经合组织成员的经贸交流合作。亚太作为全球经济增长引擎，在世界经济增长面临多重挑战下，肩负着更大的责任。香港会继续发挥“超级联击人”和“超级增值人”的角色，共同促进区域经济合作和繁荣稳定。 李家超称，国家“十五五”规划支持香港巩固提升国际金融中心地位。特区政府上月公布了《香",
      "source": "东方财富股票",
-     "zh": "美国务卿称乌“星链”限速系马斯克所为"
+     "zh": "李家超：香港将继续促进区域经济合作繁荣稳定"
     },
     {
-     "title": "IREN计划在西班牙建设300兆瓦AI数据中心园区 目标2028年投运",
-     "link": "http://finance.eastmoney.com/news/1354,202610213902818171.html",
-     "pubDate": "Wed, 21 Oct 2026 19:41:43 +0800",
-     "summary": "IREN计划在西班牙建设一座300兆瓦的 人工智能 数据中心 园区，目标于2028年投入运营，以推进其在欧洲的主权 人工智能 布局。 （文章来源：财联社）",
+     "title": "泽连斯基：愿在保留75%领土控制权的基础上达成和平协议",
+     "link": "http://finance.eastmoney.com/news/1345,202610213902819633.html",
+     "pubDate": "Wed, 21 Oct 2026 19:46:15 +0800",
+     "summary": "当地时间10月21日，乌克兰总统泽连斯基在接受采访时表示，乌方可在保留至少75%领土控制权的基础上达成和平协议。 主持人向泽连斯基提问称，他是否愿意接受一项和平协议，把一切按现状冻结下来，乌方仍然保有75%或更多的国土。泽连斯基予以肯定回答，称“现在我们必须冻结（战线），这是结束这场战争的切实办法。” （文章来源：央视新闻客户端）",
      "source": "东方财富股票",
-     "zh": "IREN计划在西班牙建设300兆瓦AI数据中心园区 目标2028年投运"
-    },
-    {
-     "title": "一天骤降10℃！多地降温猛烈 隔日如换季",
-     "link": "http://finance.eastmoney.com/news/1350,202610213902812259.html",
-     "pubDate": "Wed, 21 Oct 2026 19:41:02 +0800",
-     "summary": "今天（21日）起，中东部大部降水稀少，新疆北部雨雪增多。同时，受冷空气影响，东北、西南、江南、华南等地气温下降， 江南不少地方降温猛烈，隔日如换季。 明天起，中东部气温自北向南开始陆续反弹。 冷空气继续给中东部制造降温 明起气温陆续反弹 今天，随着冷空气东移南下，东北气温还会继续下跌，西南、江南、华南等地也将迎来降温。其中， 江南不少地方单日最高气温下降猛烈 ，像杭州昨天最高气温还达到31℃左右，今天就会速降至21℃，冷暖差异明显。 明天起，这股冷空气影响基本结束，中东部气温将自北向南有所回升，其中北方不少地方累计升温幅度较大， 23日前后，东北、西北地区东部多地最高气温将升至15℃以上，华北",
-     "source": "东方财富股票",
-     "zh": "一天骤降10℃！多地降温猛烈 隔日如换季"
-    },
-    {
-     "title": "光启技术：拟使用3.42亿元募集资金对全资子公司增资",
-     "link": "http://finance.eastmoney.com/news/1354,202610213902818030.html",
-     "pubDate": "Wed, 21 Oct 2026 19:40:54 +0800",
-     "summary": "光启技术 (002625.SZ)公告称，公司使用募集资金3.42亿元对全资子公司深圳光启尖端技术有限责任公司进行增资，全部计入资本公积，不增加其注册资本。本次增资完成后，光启尖端仍为公司全资子公司。本次增资事项已经公司第六届董事会第四次会议审议通过，无需提交股东会审议，不构成关联交易及重大资产重组。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "光启技术：拟使用3.42亿元募集资金对全资子公司增资"
-    },
-    {
-     "title": "杉杉股份：拟向间接控股股东海螺集团定增募资不超40亿元",
-     "link": "http://finance.eastmoney.com/news/1354,202610213902816284.html",
-     "pubDate": "Wed, 21 Oct 2026 19:39:28 +0800",
-     "summary": "杉杉股份 (600884.SH)公告称，公司拟向特定对象发行A股股票，发行对象为间接控股股东海螺集团，海螺集团拟以现金全额认购。本次发行拟募集资金总额不超过40亿元，部分用于支持 锂 电池 负极材料一体化项目建设及补充流动资金。发行价格不低于定价基准日前20个交易日公司股票交易均价的80%，且不低于发行前最近一期末经审计的每股净资产。本次发行构成关联交易，尚需国家出资企业审批、股东会审议通过及上交所审核、证监会注册。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "杉杉股份：拟向间接控股股东海螺集团定增募资不超40亿元"
+     "zh": "泽连斯基：愿在保留75%领土控制权的基础上达成和平协议"
     },
     {
      "title": "Musk says he’s exploring a SpaceX-Tesla megamerger. What would a combined company be worth?",
@@ -2362,20 +2378,20 @@ window.INDUSTRY_DATA = {
      "zh": "法债规模是希腊十倍以上！富兰克林邓普顿：没人真正准备好迎接欧元区危机2.0"
     },
     {
+     "title": "The ‘adults in the room’ won’t save you",
+     "link": "https://www.ft.com/content/2773c5ab-1bb6-4110-b6a7-c467b7b89717?syn-25a6b1a6=1",
+     "pubDate": "Wed, 21 Oct 2026 11:32:56 GMT",
+     "summary": "The hope that wise subordinates would curb the likes of Donald Trump was always a misunderstanding of politics",
+     "source": "Financial Times",
+     "zh": "The ‘adults in the room’ won’t save you"
+    },
+    {
      "title": "10月21日晚间沪深上市公司重大事项公告最新快递",
      "link": "http://finance.eastmoney.com/news/1345,202610213902807821.html",
      "pubDate": "Wed, 21 Oct 2026 19:32:31 +0800",
      "summary": "沪深两市多家上市公司10月21日晚间发布公司公告，以下为重要公告汇总。 【品大事】 2连板 日海智能 ：上半年高算力模组创新产品收入占总营收比重约1% 2连板 日海智能 (002313)10月21日发布股票交易异动公告称，近期市场对端侧AI、 机器人 等领域关注度较高，为避免对投资者产生误导，现就主营产品情况说明如下：目前公司无线 通信 模组等主营产品结构较前期保持稳定，以4G、5G、NB等制式的蜂窝数传模组和GNSS定位模组为主，上半年高算力模组创新产品的收入占公司总营收的比重约1%，未来存在高端产品市场开拓不及预期的风险。 中国人寿 ：拟向集团公司出售养老险公司33.73%股权 中国人寿 ",
      "source": "东方财富资讯",
      "zh": "10月21日晚间沪深上市公司重大事项公告最新快递"
-    },
-    {
-     "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
-     "link": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
-     "pubDate": "Wed, 21 Oct 2026 11:30:01 GMT",
-     "summary": "Nvidia says its DSX Pod AI Factory, which combines seven Vera Rubin racks in a shipping container, could cut the time to start serving AI tokens to 14 days.",
-     "source": "CNBC",
-     "zh": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck"
     },
     {
      "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
@@ -2464,22 +2480,6 @@ window.INDUSTRY_DATA = {
      "summary": "10月21日，创业板指收报2694.71点，失守2700点整数关口，创近14个月新低。自10月12日以来，A股连续调整，创业板指已连续8个交易日下跌，累计跌幅达11.46%，引发投资者对“市场何时反弹”的讨论。 回溯历史数据可以发现，自创指发布以来，共出现过五次“8连跌”（含本次）。复盘此前四次的走势：“8连跌”后的首个交易日（T+1日），沪指四次全部收红，创指则两次收涨、两次续跌，情绪修复在主板体现得更快。到T+5日，超跌反弹全面展开——两大指数四次全部收红，短线技术性修复信号明显。 但把时间拉长，结局开始分化：T+20日，除2022年那轮延续深跌外，其余三次创指均转为上涨，沪指同步走强；T",
      "source": "东方财富资讯",
      "zh": "史上第5次！创指再现8连跌 反弹将至？"
-    },
-    {
-     "title": "House committee says Webull messages point to China access to U.S. customer data",
-     "link": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
-     "pubDate": "Wed, 21 Oct 2026 11:05:18 GMT",
-     "summary": "The House Select Committee on China earlier this month said online investing platform Webull is quietly \"tied in structural ways\" to China's government.",
-     "source": "CNBC",
-     "zh": "House committee says Webull messages point to China access to U.S. customer data"
-    },
-    {
-     "title": "India's largest bank hit by cyberattack",
-     "link": "https://www.finextra.com/newsarticle/48625/indias-largest-bank-hit-by-cyberattack?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Wed, 21 Oct 2026 11:04:00 GMT",
-     "summary": "State Bank of India (SBI), the country's largest lending institution by assets, has launched an internal investigation after an alleged cyberattack exposed user's personal information.",
-     "source": "Finextra",
-     "zh": "India's largest bank hit by cyberattack"
     }
    ]
   },

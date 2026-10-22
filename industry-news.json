@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/22 15:09:49",
+ "generated_at": "2026/10/22 15:30:01",
  "recent_days": 7,
  "industries": [
   {
@@ -9,12 +9,12 @@
    "total": 16,
    "items": [
     {
-     "title": "千万级医疗AI订单，智谱中标！",
-     "link": "https://zhidx.com/p/603483.html",
-     "pubDate": "Thu, 22 Oct 2026 14:20:56 +0800",
-     "summary": "&nbsp; 智东西 作者 | 孙小雯 编辑 | 程茜 智东西10月22日报道，昨日，厦门市健康医疗大数据中心（厦门市医药研究所） “人工智能医疗大模型底座与应用工程一期”项目公布中标结果 ，中标供应商为 北京智谱华章科技股份有限公司（简称：智谱） ，中标金额为 1058万元 。 此前9月29日，该项目招标公告发布，预算金额及最高限价均为1080万元。采购标的为 1套行业应用软件开发服务 。 ▲该项目采购预算为1080万元（图源：中国政府采购网） 据公开披露的采购需求，项目建设内容包括： 医疗大模型基础支撑平台、数据安全协同与联邦学习能力、智能心理健康服务应用，以及数据资产管理和安全运维体系。",
-     "source": "智东西",
-     "zh": "千万级医疗AI订单，智谱中标！"
+     "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
+     "link": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
+     "pubDate": "Thu, 22 Oct 2026 07:00:56 +0000",
+     "summary": "IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models. The post IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Tr",
+     "source": "MarkTechPost",
+     "zh": "IBM AI 发布用于多语言转录和翻译的 Granite Speech 5.0 2B"
     },
     {
      "title": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method",
@@ -150,7 +150,7 @@
      "pubDate": "Wed, 21 Oct 2026 21:14:19 +0000",
      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
      "source": "TechCrunch AI",
-     "zh": "Meta 表示 Muse 拥有超过 1000 万用户，其中购物是首要活动"
+     "zh": "Meta 称 Muse 拥有超过 1000 万用户，其中购物是首要活动"
     },
     {
      "title": "Broad access through consistent standards",
@@ -1262,7 +1262,7 @@
      "pubDate": "Wed, 21 Oct 2026 12:05:54 +0000",
      "summary": "An immune drug from Roivant could be headed to a new market, after the company reported positive trials in the eye disease non-infectious uveitis.",
      "source": "STAT News",
-     "zh": "STAT+：Roivant 称密切关注的免疫药物成功治疗新眼病"
+     "zh": "STAT+：Roivant 表示密切关注的免疫药物成功治疗新眼病"
     },
     {
      "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial",
@@ -1326,7 +1326,7 @@
      "pubDate": "Wed, 21 Oct 2026 21:41:37 +0000",
      "summary": "On Oct. 21, 2008, the Indian Space Research Organization launched its first mission to the moon. Here's why it mattered.",
      "source": "Space.com",
-     "zh": "在太空的这一天！ 2008 年 10 月 21 日：印度利用月船一号 (Chandrayaan-1) 发射其第一次月球任务"
+     "zh": "在太空的这一天！ 2008 年 10 月 21 日：印度利用月船一号 (Chandrayaan-1) 启动其第一次月球任务"
     },
     {
      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
@@ -1342,7 +1342,7 @@
      "pubDate": "Wed, 21 Oct 2026 20:25:50 +0000",
      "summary": "As its launch cadence continues to grow, China is stepping further towards reusable rockets as… The post China readies first commercial resupply craft, first booster reflight, and next landing attempt appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "中国已做好第一艘商业补给艇、首次助推器重新飞行和下一次着陆尝试的准备"
+     "zh": "中国已做好第一艘商业补给船、首次助推器重新飞行和下一次着陆尝试的准备"
     },
     {
      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
@@ -1545,6 +1545,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
+     "link": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
+     "pubDate": "Thu, 22 Oct 2026 07:26:54 +0000",
+     "summary": "The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019. The post Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "Meta 因在 Facebook 隐私问题上欺骗用户而被责令向新墨西哥州支付 250 亿美元"
+    },
+    {
      "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
      "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
      "pubDate": "Thu, 22 Oct 2026 05:00:00 GMT",
@@ -1566,7 +1574,7 @@
      "pubDate": "Wed, 21 Oct 2026 18:16:26 -0400",
      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
      "source": "BleepingComputer",
-     "zh": "Google Chrome 增加了 Gemini 支持的诈骗检测功能，警告用户 ClickFix 攻击"
+     "zh": "Google Chrome 添加了 Gemini 支持的诈骗检测功能，警告用户 ClickFix 攻击"
     },
     {
      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
@@ -1737,14 +1745,6 @@
      "zh": "Google Chrome 添加 ClickFix 警告以阻止用户运行恶意命令"
     },
     {
-     "title": "Memory Bugs Account for Most of Chrome’s 353 New Security Fixes",
-     "link": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
-     "pubDate": "Wed, 21 Oct 2026 12:57:47 +0000",
-     "summary": "The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities. The post Memory Bugs Account for Most of Chrome’s 353 New Security Fixes appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Chrome 353 项新安全修复中大部分都是内存错误"
-    },
-    {
      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
      "pubDate": "Mon, 19 Oct 2026 13:48:56 +0000",
@@ -1761,36 +1761,84 @@
    "total": 18,
    "items": [
     {
-     "title": "华为 AI 眼镜获 HarmonyOS 6.0.0.159 SP5 升级：新增头动支付等功能，连续录像时长提升至 5 分钟",
-     "link": "https://www.ithome.com/1/016/448.htm",
-     "pubDate": "Thu, 22 Oct 2026 07:03:39 GMT",
-     "summary": "IT之家 10 月 22 日消息，据博主 @Adak封狼居胥 今日分享，华为 AI 眼镜现开启了 HarmonyOS 6.0.0.159 SP5 升级，新版本支付能力升级，新增停车场扫码支付、头动支付，连续录像时长也提升到 5 分钟。 博主分享的新功能演示图如下： 据IT之家此前报道， 华为 AI 眼镜于今年 4 月发布 ，售价 2499 元起。其采用全新轻量化新型材料和精密堆叠技术，镜腿薄至 6.25mm，镜架轻至 35.5g，接近一副普通眼镜的重量。 眼镜内置华为自研 AI 眼镜芯片，支持即问即答，支持语音唤醒、AI 快捷键一键唤醒、小艺看世界、支付宝看一下支付等；配备 1/2.8'' 大",
+     "title": "鸿蒙智行智界 V9 旗舰 MPV 海外版曝光：右舵设计、前脸大变样，命名“LLounge”",
+     "link": "https://www.ithome.com/1/016/477.htm",
+     "pubDate": "Thu, 22 Oct 2026 07:26:20 GMT",
+     "summary": "IT之家 10 月 22 日消息，博主 @孙少军09 今日分享了鸿蒙智行旗舰 MPV —— 智界 V9 的海外版车型外观。 画面显示，该车命名为“LLounge”，采用全新外观方案， 前脸更换为大尺寸直瀑式格栅 ，大灯组造型也进行了调整， 变为格栅两侧纵置布局 。内饰也进行了重新设计， 采用右舵方案 ，同时取消了三联屏。 博主还透露，智界 RX 也将同步出海，名字为“stormax”。 据IT之家昨日报道，智界汽车宣布， 智界 V9（国行版）第 30000 台正式下线 。该车型上市以来，连续四个月获 40 万以上 MPV 市场销量冠军。 该车于今年 5 月 15 日上市，售价 38.98 万-",
      "source": "IT之家",
-     "zh": "华为 AI 眼镜获 HarmonyOS 6.0.0.159 SP5 升级：新增头动支付等功能，连续录像时长提升至 5 分钟"
+     "zh": "鸿蒙智行智界 V9 旗舰 MPV 海外版曝光：右舵设计、前脸大变样，命名“LLounge”"
     },
     {
-     "title": "科大讯飞首发星火语音基座大模型 SparkAudio 1.0：中英文任意切换、说话人实时识别，输入法里就能用",
-     "link": "https://www.ithome.com/1/016/445.htm",
-     "pubDate": "Thu, 22 Oct 2026 07:02:17 GMT",
-     "summary": "IT之家 10 月 22 日消息，在今日下午的科大讯飞全球 1024 开发者节活动中， 科大讯飞宣布首发星火语音基座大模型 SparkAudio 1.0 。 SparkAudio 1.0 集成了 机器翻译、语音识别、语义理解 等能力，显著提升了基础语音能力。 模型宣称在实时说话人分离、环境理解、音频理解、情绪识别等方面“表现卓越”，推动人工智能向物理世界应用迈进。 官方通过一段电影片段的分析，展示了模型对声音内容、背景、说话人性别等的精准识别能力，以及场景判断的准确性。 SparkAudio 1.0 已在 讯飞输入法 16.0 、讯飞听见、讯飞办公本、讯飞翻译机全面上线，支持中英文任意切换、说",
+     "title": "5 周连发 4 次更新：消息称索尼 14.20 固件封堵 PS5 的 A53 破解漏洞",
+     "link": "https://www.ithome.com/1/016/476.htm",
+     "pubDate": "Thu, 22 Oct 2026 07:26:10 GMT",
+     "summary": "IT之家 10 月 22 日消息，科技媒体 Notebookcheck 昨日（10 月 21 日）发布博文，报道称适用于 PlayStation 5 游戏主机的 14.20 固件更新，已封堵修复了破解漏洞。 该媒体指出，围绕着 PlayStation 5 的破解攻防战，索尼在过去 5 周已连续发布 4 次 PS5 系统更新。IT之家援引博文介绍，梳理相关事件如下： 时间 事件 2026 年 7 月下旬 PS5 固件 26.05-13.60.00 发布，后者成为 Relapse 越狱工具支持的最高固件版本之一。 2026 年 9 月 16 日 索尼推送 14.00.00 固件更新；此后发布的新游",
      "source": "IT之家",
-     "zh": "科大讯飞首发星火语音基座大模型 SparkAudio 1.0：中英文任意切换、说话人实时识别，输入法里就能用"
+     "zh": "5 周连发 4 次更新：消息称索尼 14.20 固件封堵 PS5 的 A53 破解漏洞"
     },
     {
-     "title": "索尼 Xperia 1 VII 手机推送安卓 17 更新：升级快速设置面板等",
-     "link": "https://www.ithome.com/1/016/435.htm",
-     "pubDate": "Thu, 22 Oct 2026 06:59:08 GMT",
-     "summary": "IT之家 10 月 22 日消息，科技媒体 GSMArena 今天（10 月 22 日）发布博文，报道称继 Xperia 1 VIII（MK8）手机之后， 索尼已向 Xperia 1 VII（MK7）手机推送安卓 17 更新，版本号为 71.2.A.2.35 ，更新包约 1.1GB，目前主要面向欧洲用户推送，后续预计扩展到更多地区。 在更新内容方面，本次更新重新设计快速设置面板，更新下拉控制中心 / 快捷设置的界面与交互。 本次更新最重要的新功能是桌面模式，用户接入显示器、键盘和鼠标后，手机即可显示类似 PC 的界面，用户可在大屏幕上浏览网页、查看邮件等。 本次更新新增了许多锁屏壁纸和时钟样式",
+     "title": "宇树科技王兴兴：我很害怕浪费每一天，这代人有希望把人形机器人生产力提升到下一个台阶",
+     "link": "https://www.ithome.com/1/016/475.htm",
+     "pubDate": "Thu, 22 Oct 2026 07:22:22 GMT",
+     "summary": "IT之家 10 月 22 日消息，据新浪科技今日消息，宇树科技创始人王兴兴在 2026 世界物理 AI 大会上发表演讲，回顾公司一年来的进展并分享物理 AI 发展趋势的最新判断。 王兴兴透露， 宇树 G1 是目前全球最畅销的一款人形机器人 ，累计下线约 1 万至 2 万台。谈到 GPT-6 发布对机器人领域的影响时，王兴兴表示，宇树测试显示，在完全零训练的情况下，模型已经能够直接控制机器人完成画画、清洗画笔、下围棋等任务，机器人能自己换颜色、自己清洗画笔，“落子的精准度非常高”。 他判断，未来几年大模型公司对机器智能和机器人产业的关注度将持续提高，“快的话一到两年、慢的话两到三年，行业就有望看",
      "source": "IT之家",
-     "zh": "索尼 Xperia 1 VII 手机推送安卓 17 更新：升级快速设置面板等"
+     "zh": "宇树科技王兴兴：我很害怕浪费每一天，这代人有希望把人形机器人生产力提升到下一个台阶"
     },
     {
-     "title": "高德官宣全面适配苹果 iPhone Duo，全球首个分屏导航将上线",
-     "link": "https://www.ithome.com/1/016/423.htm",
-     "pubDate": "Thu, 22 Oct 2026 06:55:33 GMT",
-     "summary": "IT之家 10 月 22 日消息，高德地图官方今日宣布， 将全面适配 iPhone Duo ：针对全新设备形态，实现从屏幕呈现到交互体验的全面适配优化， 并会推出全球首个针对可折叠设计 iPhone 的分屏导航功能 。 据介绍，高德地图全面适配 iPhone Duo， 支持内外屏无缝切换 ，横竖屏自动布局； 大屏分屏导航 （即将推出），车道级 + SD 导航同屏呈现； 多任务协同 ，地图随叫随到。 参考IT之家今日早些时候报道，基于供应链消息，苹果已将其首款折叠屏手机 iPhone Duo 未来 12 个月的出货目标上调 44%，由原定的 970 万部提高至 1400 万部。 部分市场的预计交",
+     "title": "奇瑞海外发布 Omoda X 概念车：机甲设计，支持红外夜视",
+     "link": "https://www.ithome.com/1/016/472.htm",
+     "pubDate": "Thu, 22 Oct 2026 07:18:15 GMT",
+     "summary": "IT之家 10 月 22 日消息，当地时间 21 日，奇瑞旗下 Omoda 面向海外发布了 Omoda X 概念车，新车运用全新的“赛博机甲”设计语言，也预示着未来有望有更多硬派风格的车型问世。 “赛博机甲”设计语言最早应用于 Omoda 4（下图），该车上周在巴黎车展亮相，计划 2027 年进入英国市场。Omoda X 概念车在此基础上采用了更具力量感的车身造型，并增加宽厚的车身护板，整体风格更加硬朗。 新车 以城市驾驶为主，同时具备一定的越野能力 ，采用较高的悬架设定和高胎壁全地形轮胎，离地间隙 达到 200mm ；车顶最大承重为 75kg，拖挂能力则计划达到 1800kg。官方认为，更加",
      "source": "IT之家",
-     "zh": "高德官宣全面适配苹果 iPhone Duo，全球首个分屏导航将上线"
+     "zh": "奇瑞海外发布 Omoda X 概念车：机甲设计，支持红外夜视"
+    },
+    {
+     "title": "PHP 高危漏洞引发日本数字服务大规模停摆，银行、航空、铁路纷纷下线避险",
+     "link": "https://www.ithome.com/1/016/467.htm",
+     "pubDate": "Thu, 22 Oct 2026 07:16:04 GMT",
+     "summary": "IT之家 10 月 22 日消息，据彭博社报道，从银行到航空公司，多家日本企业关停数字服务，以此规避互联网软件漏洞风险。这也是 PHP 编程语言曝出安全漏洞后引发大范围混乱的典型案例。 PHP 开发团队披露漏洞并发布修复补丁后，伦敦、堪培拉、华盛顿等多国政府在周四紧急评估潜在危害，日本东京也加入其中。日本首相高市早苗在 X 平台发文，敦促包括政府机构在内所有使用 PHP 的组织尽快安装安全补丁，多国领导人也发出类似提醒。 本次事件在日本造成的影响格外突出，暴露日本老旧数字基础设施长期存在的安全与升级难题。周四大量互联网服务下线，用户无法开通投资账户、调取电子登机牌，也不能访问客服网站。 日本东",
+     "source": "IT之家",
+     "zh": "PHP 高危漏洞引发日本数字服务大规模停摆，银行、航空、铁路纷纷下线避险"
+    },
+    {
+     "title": "前三季度我国智能网联汽车召回超 2000 万辆，被督促调查召回占比超七成",
+     "link": "https://www.ithome.com/1/016/466.htm",
+     "pubDate": "Thu, 22 Oct 2026 07:15:54 GMT",
+     "summary": "IT之家 10 月 22 日消息，据第一财经报道，国家市场监督管理总局质量发展局二级巡视员李常青今日在世界智能网联汽车大会上表示，我国汽车召回制度实施以来，累计实施汽车召回 3200 余次、涉及车辆超过 1.2 亿辆，其中受调查影响召回占比过半，充分彰显了监管部门主动发现风险、推动企业消除隐患的能力。 今年 1 至 9 月，我国实施智能网联汽车召回 617 次、涉及车辆 2039.38 万辆 ，通过加大缺陷调查、开展行政约谈、现场调查和技术交流，督促调查召回 1452.68 万辆，占召回总数量的 71.23%。 李常青表示，鼓励企业在前沿技术上攀登高峰，更要把安全优先原则嵌入研发、验证、迭代全",
+     "source": "IT之家",
+     "zh": "前三季度我国智能网联汽车召回超 2000 万辆，被督促调查召回占比超七成"
+    },
+    {
+     "title": "How AI is an inherently imperial technology, and how the US and China are building rival \"AI empires\" with different approaches to extend their power (Foreign Affairs)",
+     "link": "https://www.techmeme.com/261022/p9#a261022p9",
+     "pubDate": "Thu, 22 Oct 2026 03:15:01 -0400",
+     "summary": "Foreign Affairs : How AI is an inherently imperial technology, and how the US and China are building rival &ldquo;AI empires&rdquo; with different approaches to extend their power &nbsp; &mdash;&nbsp; The Rise and Fall of a New Global Order&nbsp; &mdash;&nbsp; In the span of a few years, China and t",
+     "source": "Techmeme",
+     "zh": "人工智能如何成为一种本质上的帝国技术，以及美国和中国如何以不同的方式建立相互竞争的“人工智能帝国”来扩大其实力（外交事务）"
+    },
+    {
+     "title": "米其林，到底藏了多少副业？",
+     "link": "https://www.huxiu.com/article/4898197.html?f=rss",
+     "pubDate": "Thu, 22 Oct 2026 15:15:00 +0800",
+     "summary": "米其林，这家靠轮胎出名的美食家，早已把材料黑科技偷偷塞进70多个鞋类品牌，20多年来让3000万双鞋踩上了传奇。其实它的魔爪不止鞋子，咖啡机传动带、衣柜板材、医疗部件、高铁消防带、货轮自动翼帆，都藏着米其林的影子。看上去跨界离谱，其实是把工业级科技改造，悄悄融进普通人的生活。",
+     "source": "虎嗅",
+     "zh": "米其林，到底藏了多少副业？"
+    },
+    {
+     "title": "“金九”失色，AI先向车企收一笔“过路费”",
+     "link": "https://www.tmtpost.com/8176913.html",
+     "pubDate": "Thu, 22 Oct 2026 15:13:50 +0800",
+     "summary": "技术往下落，必然要穿过一轮成本，这段路走的时候叫阵痛，走完以后叫标配。",
+     "source": "钛媒体",
+     "zh": "“金九”失色，AI先向车企收一笔“过路费”"
+    },
+    {
+     "title": "普京极力促成中美俄三方会晤, 却有一笔盘算始终没说出口",
+     "link": "https://www.huxiu.com/article/4899559.html?f=rss",
+     "pubDate": "Thu, 22 Oct 2026 15:01:52 +0800",
+     "summary": "本文来自微信公众号： 文化纵横 ，作者：康杰 【导读】近日，俄罗斯总统普京在与美国总统特朗普通话时提议，借11月深圳亚太经合组织（APEC）领导人非正式会议之机，举行中美俄三方元首会晤，讨论结束乌克兰危机。俄方希望在中国主场获得中美两国的同时支持，这种方式或有利于美俄双方。就在昨日，乌克兰总统泽连斯基则表态，愿在保留至少75%领土控制权的基础上“冻结现状”、开启和谈。形势急变之下，理解俄方思想，是理解其外交话语背后种种考量的前提。 10月1日，俄罗斯总统普京在瓦尔代国际辩论俱乐部年会上发表演讲，强调未来世界应当是一个真正多样化的多极世界，并批评西方试图孤立俄罗斯。这一思想并非普京时代的产物，而",
+     "source": "虎嗅",
+     "zh": "普京极力促成中美俄三方会晤, 却有一笔盘算始终没说出口"
     },
     {
      "title": "立遗嘱的年轻人，选择向死而生",
@@ -1799,14 +1847,6 @@
      "summary": "作者：娅沁，题图来自：AI生成 在传统印象里，立遗嘱是人到暮年、生命行至尽头才会考虑的事。但如今，却有越来越多年轻人早早写下遗嘱。 他们中的许多人，并不是因为身患重病、生命已经进入倒计时，也并非都走到了传统意义上&ldquo;必须交代后事&rdquo;的阶段，而是在经历了亲人、朋友甚至陌生人的离世之后，更早地感知到死亡的存在，也更早地接受了生命的无常。 &nbsp; 他们开始认真思考：如果生命随时可能停下，我想留下什么？于是，遗嘱也被赋予了新的意义。 &nbsp; 它不再只是财产分割和法律安排，也逐渐成为一种对自我的梳理、对情感的安放。有人借它表达对所爱之人、所珍视之物的爱意与牵挂，也有人用它",
      "source": "虎嗅",
      "zh": "立遗嘱的年轻人，选择向死而生"
-    },
-    {
-     "title": "诺基亚 2026 年第三季度调整后营业利润 6.05 亿欧元，同比增长 35%",
-     "link": "https://www.ithome.com/1/016/422.htm",
-     "pubDate": "Thu, 22 Oct 2026 06:54:19 GMT",
-     "summary": "IT之家 10 月 22 日消息，诺基亚今日公布 2026 年第三季度业绩报告： 第三季度销售净额为 51.5 亿欧元 （IT之家注：现汇率约合 386.51 亿元人民币） ， 同比增长 10% ，市场预估为 50.6 亿欧元 （现汇率约合 379.76 亿元人民币） ； 第三季度调整后营业利润为 6.05 亿欧元 （现汇率约合 45.41 亿元人民币） ， 同比增长 35% ，市场预估为 4.54 亿欧元 （现汇率约合 34.07 亿元人民币） ； 第三季度调整后运营利润率为 11.7％，市场预估为 9.14％； 第三季度调整后每股收益为 0.090 欧元 （现汇率约合 0.68 元人民币）",
-     "source": "IT之家",
-     "zh": "诺基亚 2026 年第三季度调整后营业利润 6.05 亿欧元，同比增长 35%"
     },
     {
      "title": "双11最贵的一件商品，是24.5元的Token包",
@@ -1823,14 +1863,6 @@
      "summary": "4款购物AI，谁能给出“完美攻略”？",
      "source": "钛媒体",
      "zh": "AI冲进双十一，算盘打得比人响？"
-    },
-    {
-     "title": "奥迪中国或将换帅，消息称迎来首位中国籍最高负责人",
-     "link": "https://www.ithome.com/1/016/421.htm",
-     "pubDate": "Thu, 22 Oct 2026 06:54:08 GMT",
-     "summary": "IT之家 10 月 22 日消息，知情人士今天（22 日）向界面新闻透露，奥迪中国可能迎来 首位中国籍最高负责人 。知情人士称，奥迪近期已在内部就这一人事安排进行沟通，但相关决定尚未正式对外公布。 作为此次调整的另一项依据，现任奥迪中国总裁罗英瀚（Johannes Roscheck）预计将在 本月底结束为期两年多的任期 并返回德国。 报道提到，中国籍高管执掌中国业务，将是奥迪在华管理体系的一次重要转变。在本土新能源汽车品牌持续争夺传统豪华汽车企业市场份额之际，这一安排可能意味着奥迪希望 进一步强化本土决策能力 ，加快产品、技术及市场策略的响应速度。 据IT之家此前报道，今年 9 月有消息称，奥",
-     "source": "IT之家",
-     "zh": "奥迪中国或将换帅，消息称迎来首位中国籍最高负责人"
     },
     {
      "title": "Pressure to back promising AI startups is upending the VC investment process, with investors willing to buy into the same round at rapidly escalating valuations (Bloomberg)",
@@ -1913,14 +1945,6 @@
      "zh": "美光工会周四举行台湾半导体行业首次罢工，要求为其员工提供定期利润分享计划（日经亚洲）"
     },
     {
-     "title": "金粒门掀起新鲜零食风暴",
-     "link": "https://www.huxiu.com/article/4899543.html?f=rss",
-     "pubDate": "Thu, 22 Oct 2026 14:19:03 +0800",
-     "summary": "本文来自微信公众号： 界面新闻 ，作者：卢奕贝赵晓娟李烨，原文标题：《金粒门掀起新鲜零食风暴｜商业头条No.148》 新的“排队王”诞生了。 10月15日，金粒门上海首店在闵行万象城开业，从B1层扶梯望下去，人多得排成蛇形进店，400平方米的店里人头攒动。不少人离开时都拎着几乎能遮住半身的巨大购物袋。看起来满载而归，里面装的却多是十几元一盒的鸭货、麻薯和果干。 李佳买走了三大袋零食，还在店里充了值，打算以后再来。“这么大一袋居然才80元。”她告诉界面新闻。 在消费者花钱越来越谨慎、购物中心想尽办法争夺客流的时代，这样的场面格外夺目。 金粒门从一家炒货店脱胎而来。2015年，湖南青年刘畅和陶峰在",
-     "source": "虎嗅",
-     "zh": "金粒门掀起新鲜零食风暴"
-    },
-    {
      "title": "SpaceX吞下特斯拉？马斯克说了还不算",
      "link": "https://www.tmtpost.com/8177379.html",
      "pubDate": "Thu, 22 Oct 2026 14:17:10 +0800",
@@ -1929,34 +1953,10 @@
      "zh": "SpaceX吞下特斯拉？马斯克说了还不算"
     },
     {
-     "title": "红果与绿泡泡之争，腾讯这次能赢吗？",
-     "link": "https://www.tmtpost.com/8177376.html",
-     "pubDate": "Thu, 22 Oct 2026 14:17:07 +0800",
-     "summary": "几度入局，腾讯为何没能跑出一个红果？",
-     "source": "钛媒体",
-     "zh": "红果与绿泡泡之争，腾讯这次能赢吗？"
-    },
-    {
-     "title": "SEC filings show how Meta restructured its stock to shield Mark Zuckerberg from California&apos;s proposed wealth tax, after he said he&apos;d sell his Palo Alto home (New York Times)",
-     "link": "https://www.techmeme.com/261022/p3#a261022p3",
-     "pubDate": "Thu, 22 Oct 2026 02:15:02 -0400",
-     "summary": "New York Times : SEC filings show how Meta restructured its stock to shield Mark Zuckerberg from California's proposed wealth tax, after he said he'd sell his Palo Alto home &nbsp; &mdash;&nbsp; The billionaire told Meta's board that he planned to list his Silicon Valley home for sale.&nbsp; The com",
-     "source": "Techmeme",
-     "zh": "美国证券交易委员会的文件显示，在马克·扎克伯格表示将出售帕洛阿尔托的房屋后，Meta 如何重组其股票，以保护他免受加州提议的财富税的影响（纽约时报）"
-    },
-    {
-     "title": "宝马集团把买断价开到487万，员工挤崩系统",
-     "link": "https://www.huxiu.com/article/4899539.html?f=rss",
-     "pubDate": "Thu, 22 Oct 2026 14:14:31 +0800",
-     "summary": "本文来自微信公众号： 青眼商评 ，作者：啸清，编辑：封飚 德国车企的人员调整，历来克制且谨慎，大多是谈判桌上的漫长拉锯。2026年秋冬，宝马却给出相反的画面，员工争先恐后排队离职，把内部补偿查询系统直接挤到瘫痪。 看懂德系买断价抬到了哪一档，可比简单夸一句“德企良心”要紧得多。 让近4万人挤向同一个入口的，是一份补偿方案。按德国《商报》取得的范本解约协议，部分资深员工的离职补偿可以突破65万欧元，按2026年10月中旬的汇率折算，三组口径复算在人民币487.6万到488.4万之间。 横向对比德系车企的安置方案，差距一目了然。 大众两年前同类买断的顶格补偿约40.5万欧元，不含任何提前离职奖励。",
-     "source": "虎嗅",
-     "zh": "宝马集团把买断价开到487万，员工挤崩系统"
-    },
-    {
      "title": "OpenAI CLI",
      "link": "https://github.com/openai/openai-cli",
      "pubDate": "Thu, 22 Oct 2026 05:23:11 +0000",
-     "summary": "Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507 Points: 26 # Comments: 8",
+     "summary": "Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507 Points: 48 # Comments: 27",
      "source": "Hacker News",
      "zh": "OpenAI CLI"
     },
@@ -1964,7 +1964,7 @@
      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
      "pubDate": "Thu, 22 Oct 2026 02:30:52 +0000",
-     "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 145 # Comments: 84",
+     "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 163 # Comments: 92",
      "source": "Hacker News",
      "zh": "最近提出的 o(n log n) 整数乘法算法 [pdf]"
     },
@@ -1980,7 +1980,7 @@
      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
      "pubDate": "Thu, 22 Oct 2026 02:18:41 +0000",
-     "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 71 # Comments: 32",
+     "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 90 # Comments: 38",
      "source": "Hacker News",
      "zh": "WorldTUI：我训练了一个360M模型来冒充终端"
     },
@@ -1988,7 +1988,7 @@
      "title": "mitmproxy adds --emudhra option",
      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
      "pubDate": "Wed, 21 Oct 2026 23:51:37 +0000",
-     "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 398 # Comments: 104",
+     "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 411 # Comments: 107",
      "source": "Hacker News",
      "zh": "mitmproxy 添加 --emudhra 选项"
     },
@@ -1996,7 +1996,7 @@
      "title": "There isn't an easy exploit for this PHP vulnerability",
      "link": "https://eliastaylor.com/noexploit/",
      "pubDate": "Wed, 21 Oct 2026 23:13:27 +0000",
-     "summary": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 443 # Comments: 220",
+     "summary": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 457 # Comments: 242",
      "source": "Hacker News",
      "zh": "该 PHP 漏洞并不容易被利用"
     }
@@ -2257,6 +2257,86 @@
    "total": 13,
    "items": [
     {
+     "title": "外交部：以冷战思维划分阵营不利于北极地区和平稳定发展",
+     "link": "http://finance.eastmoney.com/news/1351,202610223904063630.html",
+     "pubDate": "Thu, 22 Oct 2026 15:21:46 +0800",
+     "summary": "外交部发言人毛宁22日在例行记者会上表示，北极涉及国际社会的整体利益，各国依法在北极开展活动的权利和自由应当得到充分尊重。中国在北极的活动旨在促进北极和平稳定和可持续发展，符合国际法。以冷战思维划分阵营，挑动地缘对抗，不利于北极地区的和平稳定发展。 （文章来源： 新华网 ）",
+     "source": "东方财富股票",
+     "zh": "外交部：以冷战思维划分阵营不利于北极地区和平稳定发展"
+    },
+    {
+     "title": "【调研快报】史丹利接待申万宏源证券等104家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202610223904063382.html",
+     "pubDate": "Thu, 22 Oct 2026 15:21:16 +0800",
+     "summary": "史丹利 10月22日公告称， 10月21日 接待 申万宏源 证券 等104家机构 调研。 接待人员包括董事会秘书 胡照顺,财务总监 陈桂芳,证券事务代表 陈钊。 公司就以下问题进行了回复： 1.公司 2026 年前三季度整体经营情况如何,归母净利润同比下降的主要原因是什么? 2026 年前三季度,公司实现营业收入 89.90 亿元,同比下降 3.22%;实现归属于上市公司股东的净利润 6.50 亿元,同比下降 20.23%。其中,第三季度实现营业收入 20.58 亿元,同比下降 ... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 ",
+     "source": "东方财富股票",
+     "zh": "【调研快报】史丹利接待申万宏源证券等104家机构调研"
+    },
+    {
+     "title": "10月22日涨停复盘：33股涨停 兆威机电4天2板",
+     "link": "http://stock.eastmoney.com/news/11055,202610223904061256.html",
+     "pubDate": "Thu, 22 Oct 2026 15:19:18 +0800",
+     "summary": "今天沪指 跌 1.48%，深成指 跌 2.96%，创业板指 跌 4.37%，今日大盘成交额1.53万亿，较上个交易日放量993.65亿。 涨停个股数量方面，今日共计33股涨停，另有26只个股盘中一度触及涨停，封板率55.93%。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "10月22日涨停复盘：33股涨停 兆威机电4天2板"
+    },
+    {
+     "title": "马斯克：未来人形机器人的数量会超过人类",
+     "link": "http://finance.eastmoney.com/news/1354,202610223904061339.html",
+     "pubDate": "Thu, 22 Oct 2026 15:18:43 +0800",
+     "summary": "特斯拉 CEO马斯克在 特斯拉 财报电话会上表示，他坚信人形 机器人 整个赛道都将成为全球最大的产业，未来地球上人形 机器人 的数量甚至会超过人类。 他还预计，到明年年末， 机器人 AI、机电设计、可靠性以及使用寿命等一系列问题有望得到解决，“到那个时间点，我们才可以对外向 特斯拉 以外的企业交付Optimus。” （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "马斯克：未来人形机器人的数量会超过人类"
+    },
+    {
+     "title": "我国面向全球的自贸网络已经初步成型",
+     "link": "http://finance.eastmoney.com/news/1351,202610223904061022.html",
+     "pubDate": "Thu, 22 Oct 2026 15:18:27 +0800",
+     "summary": "记者22日从国务院新闻办公室举行的“开局起步‘十五五’”系列主题新闻发布会上了解到，自2002年与东盟达成首个自贸协定以来，经过20多年的努力， 中国已与33个国家和地区签署了26个自贸协定， 自贸伙伴（含港澳台）占中国外贸总额的45%、吸引外资的70%，面向全球的自贸网络已经初步成型。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "我国面向全球的自贸网络已经初步成型"
+    },
+    {
+     "title": "意大利富时MIB指数日内跌幅达1%",
+     "link": "http://stock.eastmoney.com/news/1438,202610223904062995.html",
+     "pubDate": "Thu, 22 Oct 2026 15:18:06 +0800",
+     "summary": "意大利富时MIB指数日内跌幅达1%。",
+     "source": "东方财富股票",
+     "zh": "意大利富时MIB指数日内跌幅达1%"
+    },
+    {
+     "title": "Ategrity outlines Q4 combined ratio below 87% while targeting premium growth 15-20 percentage points above the E&S market",
+     "link": "https://seekingalpha.com/news/4655712-ategrity-outlines-q4-combined-ratio-below-87-percent-while-targeting-premium-growth-15minus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 03:15:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Ategrity 概述第四季度综合成本率低于 87%，同时目标保费增长比 E&S 市场高 15-20 个百分点"
+    },
+    {
+     "title": "昨日重现！多只宽基ETF尾盘10分钟爆量 已有超2100亿资金借道“扫货”",
+     "link": "http://stock.eastmoney.com/news/1411,202610223904060740.html",
+     "pubDate": "Thu, 22 Oct 2026 15:13:29 +0800",
+     "summary": "今日A股全线震荡走低，沪指失守3700点，创业板指大跌4.37%，亦跌破2600点大关，全市场4999股飘绿。 与昨天尾盘情况类似，收盘前10分钟，多只宽基ETF再度集中放量，大资金借道ETF逆向布局的信号愈发清晰。 其中，沪深300ETF华泰柏瑞成交额146亿元，昨天全天为59.43亿元；沪深300ETF嘉实成交额达106亿元，昨日全天成交仅18.90亿元。 科创50ETF华夏、创业板ETF易方达成交额均近140亿元，二者昨日全天分别成交73.21亿元、104.10亿元；上证50ETF华夏、沪深300ETF华夏、 中证500 ETF南方、创业板50ETF华安等均有明显放量。 不难发现，相关标",
+     "source": "东方财富资讯",
+     "zh": "昨日重现！多只宽基ETF尾盘10分钟爆量 已有超2100亿资金借道“扫货”"
+    },
+    {
+     "title": "Thule Q3 net profit climbs 25%",
+     "link": "https://seekingalpha.com/news/4655711-thule-q3-net-profit-climbs-25?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 03:13:03 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "拓乐第三季度净利润增长 25%"
+    },
+    {
+     "title": "高价转债批量回调！多只高价转债三个月内“腰斩”",
+     "link": "http://stock.eastmoney.com/news/11134,202610223904056965.html",
+     "pubDate": "Thu, 22 Oct 2026 15:07:00 +0800",
+     "summary": "可转债市场近期也遭遇调整。 A股震荡调整，市场风险偏好回落，可转债市场同步回调，转股溢价持续压缩，前期偏高的估值进入消化回归通道，板块内部分化特征显著。 行情数据显示，自今年7月以来，中证转债指数累计下跌超10%，跌幅超过同期上证指数。市场结构性分化明显，高溢价、高价转债回调幅度显著。 业内机构分析认为，本轮转债调整由正股下行、风险偏好回落叠加前期高估值修复共同驱动，高价高弹性品种估值压力更大，债底扎实的中低价券防御属性凸显。 多只高价转债三个月内“腰斩” 权益市场调整带动转债估值进入消化阶段。开源证券研报显示，截至目前，“百元转股溢价率”滚动三年分位数处于60.3%，滚动五年分位数处于66.",
+     "source": "东方财富资讯",
+     "zh": "高价转债批量回调！多只高价转债三个月内“腰斩”"
+    },
+    {
      "title": "Lam projects more than $200B 2027 WFE as Aether revenue target rises to $2.5B by decade end",
      "link": "https://seekingalpha.com/news/4655710-lam-projects-more-than-200b-2027-wfe-as-aether-revenue-target-rises-to-2_5b-by-decade-end?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 22 Oct 2026 03:05:43 -0400",
@@ -2273,6 +2353,14 @@
      "zh": "AI交易裂缝扩大：1%客户撑起Anthropic和OpenAI 80%企业端收入，Token用量仍在涨，实际支出却停滞不前"
     },
     {
+     "title": "突现异动！华天科技直线涨停！封单超200万手",
+     "link": "http://stock.eastmoney.com/news/11134,202610223904057547.html",
+     "pubDate": "Thu, 22 Oct 2026 15:03:00 +0800",
+     "summary": "10月22日午后， 半导体 板块盘中快速反弹， 华天科技 (002185)直线涨停，封单量超200万手，成交金额超23亿元， 云汉芯城 (301563)20%直线涨停， 德明利 一度涨逾6%，大普微、 有研新材 、 炬芯科技 跟涨。 消息面上，市场调查机构集邦咨询（TrendForce）援引多方报道称，预估2026年第四季度DRAM合约价格环比上涨约20%。 华天科技 的主营业务为集成电路封装测试，公司产品主要应用于 计算机 、网络通讯、 消费电子 及智能移动终端、 物联网 、工业自动化控制、 汽车 电子 等 电子 整机和智能化领域。2026年上半年，公司实现营业收入105.11亿元，同比增长",
+     "source": "东方财富资讯",
+     "zh": "突现异动！华天科技直线涨停！封单超200万手"
+    },
+    {
      "title": "“公募一哥”宣布自购 18只主动ETF明日发行",
      "link": "http://finance.eastmoney.com/news/1345,202610223904050748.html",
      "pubDate": "Thu, 22 Oct 2026 15:00:55 +0800",
@@ -2284,7 +2372,7 @@
      "title": "A股三大指数收跌 医疗美容与机器人板块逆市上涨",
      "link": "http://finance.eastmoney.com/news/1345,202610223904049940.html",
      "pubDate": "Thu, 22 Oct 2026 15:00:35 +0800",
-     "summary": "A股三大指数今日延续萎靡表现，截止收盘，沪指跌1.48%，收报3658.03点；深证成指跌2.96%，收报11357.32点；创业板指跌4.37%，收报2576.90点。沪深京三市成交额1.54万亿，较昨日放量千亿。 行业板块呈现普跌态势，仅医疗美容、机器人、工程机械板块逆市上涨，影视院线、广告营销、传媒、 元件、 教育、互联网电商、游戏板块跌幅居前。 个股方面，上涨股票数量超过500只，逾30只股票涨停。人形机器人概念逆势活跃，大业股份5连板，兆威机电4天2板，大洋电机、襄阳轴承、鸣志电器涨停；银行板块局部回暖，工商银行、建设银行再创历史新高。 今日要闻 行业内首次！八部门印发《产业基础能力",
+     "summary": "A股三大指数今日延续萎靡表现，截止收盘，沪指跌1.48%，收报3658.03点；深证成指跌2.96%，收报11357.32点；创业板指跌4.37%，收报2576.90点。沪深京三市成交额1.54万亿，较昨日放量千亿。 行业板块呈现普跌态势，仅医疗美容、机器人、工程机械板块逆市上涨，影视院线、广告营销、传媒、 元件、 教育、互联网电商、游戏板块跌幅居前。 个股方面，上涨股票数量超过500只，逾30只股票涨停。人形机器人概念逆势活跃，大业股份5连板，兆威机电4天2板，大洋电机、襄阳轴承、鸣志电器涨停；银行板块局部回暖，工商银行、建设银行再创历史新高。 行业资金流向：10.94亿净流入电机 行业资金",
      "source": "东方财富资讯",
      "zh": "A股三大指数收跌 医疗美容与机器人板块逆市上涨"
     },
@@ -2313,12 +2401,12 @@
      "zh": "Kinder Morgan 概述了 $14.4B 的积压，因为Southeast Connector 的目标是 2.6 Bcf/d，二叠纪连线将于 2030 年投入使用"
     },
     {
-     "title": "LSEG buys credit data provider Octus in $3.5B cash deal",
-     "link": "https://seekingalpha.com/news/4655699-lseg-buys-credit-data-provider-octus-in-35b-cash-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 02:52:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "LSEG 以 3.5B 美元现金收购信用数据提供商 Octus"
+     "title": "AI交易松动，资金重回避险，美债收益率创近一个月新低",
+     "link": "https://wallstreetcn.com/articles/3784194",
+     "pubDate": "Thu, 22 Oct 2026 14:49:48 +0800",
+     "summary": "对人工智能交易前景的重新审视正在重塑市场风险偏好，美国国债作为避险资产的地位得以重振。 周四，美债收益率全线下行至少3个基点，30年期收益率触及5.38%，创9月23日以来最低水平。与此同时，日元和瑞郎同步走强，澳大利亚及新西兰债券市场亦随之上涨，全球资金向传统避险资产集中的态势明显。 \"近来市场情绪明显趋于脆弱，投资者正在重新审视AI相关资产，\"星展银行高级利率策略师Eugene Leow表示： \"对盈利能力和投资回报率的质疑正在悄然蔓延。在美债收益率仍处于近期高位的背景下，投资者倾向于通过买入国债来对冲风险。\" 值得关注的是，上述避险买盘出现在油价因沙特遭受致命袭击、供应前景生变而走高之际",
+     "source": "华尔街见闻",
+     "zh": "AI交易松动，资金重回避险，美债收益率创近一个月新低"
     },
     {
      "title": "Top HSBC strategist has a warning for retail investors chasing the AI rally",
@@ -2327,14 +2415,6 @@
      "summary": "Maxx Kettner, HSBC’s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.",
      "source": "MarketWatch",
      "zh": "汇丰银行首席策略师向追逐人工智能涨势的散户投资者发出警告"
-    },
-    {
-     "title": "CSX projects 2026 revenue growth in the high single digits while targeting over 350 bps operating margin expansion",
-     "link": "https://seekingalpha.com/news/4655703-csx-projects-2026-revenue-growth-in-the-high-single-digits-while-targeting-over-350-bps?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 02:44:54 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CSX 预计 2026 年收入将实现高个位数增长，同时目标是营业利润率扩张超过 350 个基点"
     },
     {
      "title": "油价又飙升，报道称美以已制定对伊朗新一轮打击具体计划",
@@ -2353,14 +2433,6 @@
      "zh": "数据中心建设延期潮，谁会受伤、谁将受益？"
     },
     {
-     "title": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-     "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-     "pubDate": "Thu, 22 Oct 2026 05:18:24 GMT",
-     "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
-     "source": "CNBC",
-     "zh": "据报道，美国和以色列正在权衡对伊朗的新打击，油价因中东担忧而上涨"
-    },
-    {
      "title": "散户押注AI基建反弹，韩国新云运营商Elice股价两日上涨站上发行价",
      "link": "https://wallstreetcn.com/articles/3784184",
      "pubDate": "Thu, 22 Oct 2026 13:16:17 +0800",
@@ -2375,14 +2447,6 @@
      "summary": "当地时间10月22日，韩国央行公布10月货币政策声明：将基准利率维持在3.00%不变，符合市场预期。此前，韩国央行已在7月和8月连续两次加息。 同时，韩国央行还上调本国经济增长预期，认为今年与明年GDP增速将较8月给出的预测值“大幅提升”。 作为芯片生产大国，韩国央行在经济报告中特别提到芯片行业对于本国经济的提振影响。韩国央行判断 半导体 上行周期仍将延续，央行行长申铉松预计，芯片价格未来有望进一步上涨。 半导体 景气周期动能强劲 韩国央行报告指出，尽管中东地缘风险带来外部不确定性，但 半导体 景气周期依旧动能强劲。随着半导体行业的增长红利向其他产业传导，韩国经济有望维持高增长态势。 受益于全",
      "source": "东方财富资讯",
      "zh": "韩国央行：芯片热潮持续提振经济 芯片价格有望进一步增长"
-    },
-    {
-     "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
-     "link": "http://finance.eastmoney.com/news/1354,202610223903859935.html",
-     "pubDate": "Thu, 22 Oct 2026 12:42:39 +0800",
-     "summary": "在2026世界物理AI大会暨宇树合作伙伴生态大会上， 宇树科技创始人王兴兴表示全世界几乎所有人，对AI的重视程度和信仰都还不够，包括他自己。随着GPT-6的发布，目前物理AI已经看到被击穿的苗头，很可能最近1-2年或2-3年 ，目前具身智能迈过ChatGPT时刻的最核心挑战是AI模型的输入输出和真实 机器人 的对齐。 他认为，在商业服务的落地会比家庭、工业领域更快些。 在他看来，基础模型能力的持续跃升将带动物理AI 机器人 模型自进化循环的效能同步提升。随着每月、每年基础模型不断迭代升级，自进化系统本身的能力也会随之增强，形成良性循环。 一旦该闭环体系顺畅运行，将大幅提升 机器人 的开发效率与",
-     "source": "东方财富资讯",
-     "zh": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景"
     },
     {
      "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
@@ -2401,36 +2465,12 @@
      "zh": "今年前三季度山东进出口总值同比增长4.8%"
     },
     {
-     "title": "券商多重利好共振！板块迎政策与资金催化(名单)",
-     "link": "http://finance.eastmoney.com/news/11822,202610223903857754.html",
-     "pubDate": "Thu, 22 Oct 2026 12:22:34 +0800",
-     "summary": "政策利好密集落地，叠加中长期资金入场与行业业绩高增，券商板块迎来共振催化。机构认为，券商估值处历史底部、持仓处于低位，配置价值正在显现。 监管密集发声 政策红利持续释放 10月19日，首批18只主动管理型交易型开放式基金（主动ETF）获证监会批复注册，定于10月23日集中发行。按单只产品20亿元募集上限测算，这批主动ETF合计有望为A股带来约360亿元增量资金。 政策面利好持续加码。近期监管层召开资本市场和金融形势专家座谈会，强调以投资者为本、呵护市场平稳运行，传递稳市场明确信号；中证协发布《证券业务示范实践第7号——证券公司风险数据管理》，推动券商构建统一风险数据标准。 业务层面，转融通利好",
-     "source": "东方财富资讯",
-     "zh": "券商多重利好共振！板块迎政策与资金催化(名单)"
-    },
-    {
      "title": "知名基金经理郑巍山“卸任”全部产品，投研高才流动“常态化”",
      "link": "https://wallstreetcn.com/articles/3784183",
      "pubDate": "Thu, 22 Oct 2026 12:20:28 +0800",
      "summary": "公募圈又一位百亿级知名基金经理迎来职业生涯的新阶段。 10月22日，银河基金发布公告，宣布郑巍山因“个人原因”卸任银河创新成长、银河和美生活、银河智联主题的基金经理职务。银河基金对其任职期间的贡献表示诚挚感谢。 郑巍山是市场在过去八年里涌现出的知名基金经理，专长于科技和成长领域投资，此次卸任意味着，他将告别原有平台，展开新的一页。 代表作任职回报超284% 提起郑巍山，市场对其最深刻的印记便是“硬科技”。拥有18年证券从业经历、7年公募管理经验的他，曾在国元证券、景顺长城、兴业基金历练，2018年10月加盟银河基金。 在银河基金期间，郑巍山凭借对半导体产业链的深度研究声名鹊起。截至离任前，他管",
      "source": "华尔街见闻",
      "zh": "知名基金经理郑巍山“卸任”全部产品，投研高才流动“常态化”"
-    },
-    {
-     "title": "全线崩跌！“易中天”集体重挫 “光”要熄灭了？",
-     "link": "http://finance.eastmoney.com/news/11822,202610223903856569.html",
-     "pubDate": "Thu, 22 Oct 2026 12:16:39 +0800",
-     "summary": "A股三大股指早盘单边下行，“易中天”集体大跌。其中， 新易盛 放量重挫10% ，较年内高点已回撤高达57.5%； 中际旭创 跌超7%，成交额亦超百亿元； 天孚通信 跌逾6%。 此外， 华盛昌 跌停， 联讯仪器 股价失守1100元大关， 剑桥科技 、 德科立 、 东山精密 、 景旺电子 、 源杰科技 、 长光华芯 等均大幅走低。 值得注意的是，就在昨日， 天孚通信 逆势涨5.10%， 中际旭创 、 新易盛 分别下跌0.17%、1.36%——资金对三家公司的定价已出现分化。 三大因素影响脆弱的市场情绪 综合 市场观点，今日算力硬件方向的全线走低，除了外围市场转弱，或与三方面原因有关。 首先， 英伟",
-     "source": "东方财富资讯",
-     "zh": "全线崩跌！“易中天”集体重挫 “光”要熄灭了？"
-    },
-    {
-     "title": "连续加息两次后，韩国央行本月按兵不动，行长：暂停不等于紧缩终结",
-     "link": "https://wallstreetcn.com/articles/3784178",
-     "pubDate": "Thu, 22 Oct 2026 12:14:55 +0800",
-     "summary": "韩国央行周四按兵不动，在连续两次加息后选择暂停，以评估此前紧缩举措的滞后效应。但强劲的经济增长前景与持续高于目标的通胀水平，令 市场普遍预期11月将迎来本轮周期的又一次加息。 10月22日，韩国央行货币政策委员会以全票通过决定， 将基准利率维持在3.00%不变。 此次暂停发生在7月和8月连续两次各加息25个基点之后，此前连续加息为三年多来首次。 决议公布后，韩国央行同步上调了经济增长预测，表示今明两年增速将\"大幅高于\"8月预测的3.3%和2.9%；与此同时，行长Shin Hyun Song在记者会上重申维持紧缩政策立场的必要性。 受此提振，对政策敏感的韩国三年期国债收益率转跌为涨，上行2个基点",
-     "source": "华尔街见闻",
-     "zh": "连续加息两次后，韩国央行本月按兵不动，行长：暂停不等于紧缩终结"
     },
     {
      "title": "China&apos;s stock market sinks into bear territory as CSI 300 extends 10-week rout",
@@ -2455,46 +2495,6 @@
      "summary": "Axel Springer boss Mathias Döpfner raised idea over lunch with US ambassador to France Charles Kushner",
      "source": "Financial Times",
      "zh": "Politico 和 Telegraph 所有者提出收购 TikTok 欧洲部门的交易"
-    },
-    {
-     "title": "Highland Spring billionaire’s property empire hit by loan defaults and creditor action",
-     "link": "https://www.ft.com/content/7f93f4b4-beca-4566-ad60-900910d31320?syn-25a6b1a6=1",
-     "pubDate": "Thu, 22 Oct 2026 04:00:11 GMT",
-     "summary": "Family of former UAE ambassador Mahdi Al Tajir looks to sell prized UK property assets as lenders seek to recoup unpaid debts",
-     "source": "Financial Times",
-     "zh": "高地泉亿万富翁的房地产帝国受到贷款违约和债权人诉讼的打击"
-    },
-    {
-     "title": "The battle for Israel’s future",
-     "link": "https://www.ft.com/content/50468a0e-5c1f-45bf-92ca-d6bb102e3c98?syn-25a6b1a6=1",
-     "pubDate": "Thu, 22 Oct 2026 04:00:11 GMT",
-     "summary": "The election result could shape the country’s destiny for a generation",
-     "source": "Financial Times",
-     "zh": "为以色列的未来而战"
-    },
-    {
-     "title": "2025年我国海洋生产总值突破11万亿元",
-     "link": "http://www.eeo.com.cn/2026/1022/1072642.shtml",
-     "pubDate": "Thu, 22 Oct 2026 11:33:05 +0800",
-     "summary": "国家发展改革委、自然资源部发布的《中国海洋经济发展报告2026》显示，2025年我国海洋生产总值突破11万亿元。",
-     "source": "经济观察网",
-     "zh": "2025年我国海洋生产总值突破11万亿元"
-    },
-    {
-     "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter’s $50,000 debt. What happens to him now?",
-     "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-     "pubDate": "Thu, 22 Oct 2026 03:15:00 GMT",
-     "summary": "“Nothing has been set aside for his needs.”",
-     "source": "MarketWatch",
-     "zh": "我 81 岁的岳父卖掉了价值 75,000 美元的房屋，还清了女儿 50,000 美元的债务。他现在怎么样了？"
-    },
-    {
-     "title": "智驾小蓝灯要“变色”了",
-     "link": "http://www.eeo.com.cn/2026/1022/1072635.shtml",
-     "pubDate": "Thu, 22 Oct 2026 10:59:57 +0800",
-     "summary": "10月20日，工业和信息化部装备工业就《汽车及挂车外部照明和光信号装置的安装要求（征求意见稿）》（以下简称《征求意见稿》）公开征求意见，其中最受关注的变化是首次将自动驾驶系统（ADS）标志灯，也就是大家俗称的“智驾小蓝灯”被纳入强制性国家标准体系，并明确规定其专用光色为蓝绿色。",
-     "source": "经济观察网",
-     "zh": "智驾小蓝灯要“变色”了"
     }
    ]
   },
@@ -2510,7 +2510,7 @@
      "pubDate": "Wed, 21 Oct 2026 21:33:50 +0000",
      "summary": "New observations from the James Webb Space Telescope reveal a concentration of heavy metals near the Milky Way's central black hole. The discovery deepens a mystery about why our black hole behaves the way it does.",
      "source": "Live Science",
-     "zh": "詹姆斯韦伯望远镜在银河系超大质量黑洞周围发现了令人惊讶的金属宝库"
+     "zh": "詹姆斯·韦伯望远镜在银河系超大质量黑洞周围发现了令人惊讶的金属宝库"
     },
     {
      "title": "Extremely rare Viking Age coin from the reign of 'Olaf the Holy' may have been 'held in the king's own hand'",
@@ -2518,7 +2518,7 @@
      "pubDate": "Wed, 21 Oct 2026 21:16:28 +0000",
      "summary": "A massive Viking Age hoard that was discovered in Norway contains a rare silver coin featuring \"Olaf the Holy,\" one of the country's first Christian kings.",
      "source": "Live Science",
-     "zh": "来自“圣奥拉夫”统治时期的极其罕见的维京时代硬币可能“握在国王自己的手中”"
+     "zh": "“神圣奥拉夫”统治时期极其罕见的维京时代硬币可能“握在国王自己的手中”"
     },
     {
      "title": "AI could turn scientific papers into research assistants",
@@ -2542,7 +2542,7 @@
      "pubDate": "Wed, 21 Oct 2026 15:34:12 +0000",
      "summary": "Live Science spoke with Matt Rutherford , a sailor and founder of the environmental nonprofit Ocean Research Project, about his attempt to circumnavigate the Arctic Ocean and why he'll have to try again next year.",
      "source": "Live Science",
-     "zh": "“俄罗斯人最终是问题所在”：水手马特·卢瑟福在试图独自环绕北冰洋时被联邦安全局拦截"
+     "zh": "“最终问题是俄罗斯人”：水手马特·卢瑟福在试图独自绕北冰洋航行时被联邦安全局拦截"
     },
     {
      "title": "A lifesaving medication is not behind the drop in U.S. overdose deaths",
@@ -2646,7 +2646,7 @@
      "pubDate": "Tue, 20 Oct 2026 23:01:00 +0000",
      "summary": "People are more likely to mimic — or even surpass — rule breakers than rule followers, a study finds. But real-world consequences may keep people in line.",
      "source": "Science News",
-     "zh": "少数人违反规则可能会传染"
+     "zh": "少数人的违规行为可能具有传染性"
     },
     {
      "title": "The ocean’s most abundant “loner” microbe has a sticky second life",

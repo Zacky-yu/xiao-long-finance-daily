@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/22 08:05:31",
+ "generated_at": "2026/10/22 08:09:21",
  "recent_days": 7,
  "industries": [
   {
@@ -857,6 +857,14 @@
      "zh": "Aluminium Gives Up Its War Premium, Copper Stays Elevated"
     },
     {
+     "title": "Trump admin finds yet another way to attack offshore wind",
+     "link": "https://www.canarymedia.com/articles/offshore-wind/trump-admin-another-attack-offshore-wind",
+     "pubDate": "Wed, 21 Oct 2026 19:11:00 -0400",
+     "summary": "The Trump administration is widening its attacks on U.S. offshore wind development, this time by siding with anti-wind groups that are seeking to strip projects of existing federal approvals. Its latest target is New England Wind, a 2-gigawatt development proposed off the coast of Massachusetts. On ",
+     "source": "Canary Media",
+     "zh": "Trump admin finds yet another way to attack offshore wind"
+    },
+    {
      "title": "Exxon Spoof From Adam McKay Skewers The Fossil Fuel Industry",
      "link": "https://cleantechnica.com/2026/10/21/exxon-spoof-from-adam-mckay-skewers-the-fossil-fuel-industry/",
      "pubDate": "Wed, 21 Oct 2026 23:06:38 +0000",
@@ -1079,14 +1087,6 @@
      "summary": "Researchers at Germany’s Fraunhofer ISE say their in-house silicon-rich anode pouch cells kept more than 83% of their capacity after more than 1,000 full cycles, but only under high mechanical pressure. The post Fraunhofer silicon-rich cells retain over 83% after 1,000 cycles appeared first on pv ma",
      "source": "pv magazine",
      "zh": "Fraunhofer silicon-rich cells retain over 83% after 1,000 cycles"
-    },
-    {
-     "title": "New Mexico’s transition to clean energy is actually ahead of schedule",
-     "link": "https://www.canarymedia.com/articles/clean-energy/new-mexico-transition-ahead-of-schedule",
-     "pubDate": "Wed, 21 Oct 2026 03:30:00 -0400",
-     "summary": "New Mexico boasts stark landscapes unlike anywhere else, a clearly defined regional cuisine built around fiery Hatch chiles, and cultural centers that predate the United States by several centuries. It’s unusual in another way, too: As many states struggle to advance on their path to a 100% clean el",
-     "source": "Canary Media",
-     "zh": "New Mexico’s transition to clean energy is actually ahead of schedule"
     }
    ]
   },
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Cloud provider Railway says an unauthorized party may have accessed customer encrypted environment variables and, for some, obtained the decrypted contents (Jacob Cooper/Railway Blog)",
+     "link": "https://www.techmeme.com/261021/p57#a261021p57",
+     "pubDate": "Wed, 21 Oct 2026 20:05:01 -0400",
+     "summary": "Jacob Cooper / Railway Blog : Cloud provider Railway says an unauthorized party may have accessed customer encrypted environment variables and, for some, obtained the decrypted contents &nbsp; &mdash;&nbsp; Earlier this morning, Railway detected anomalous activity involving systems that store custom",
+     "source": "Techmeme",
+     "zh": "Cloud provider Railway says an unauthorized party may have accessed customer encrypted environment variables and, for some, obtained the decrypted contents (Jacob Cooper/Railway Blog)"
+    },
+    {
      "title": "SpaceX 与特斯拉若合并，马斯克财富有望增加 1100 亿美元",
      "link": "https://www.ithome.com/1/016/183.htm",
      "pubDate": "Thu, 22 Oct 2026 00:02:39 GMT",
@@ -1983,14 +1991,6 @@
      "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
      "source": "Ars Technica",
      "zh": "Tesla profits drop 43% in Q3"
-    },
-    {
-     "title": "Mark Zuckerberg says Muse has drawn 10M+ users since its launch and 25%+ of users are making purchases through the app, with an average purchase size of $200+ (Business Insider)",
-     "link": "https://www.techmeme.com/261021/p51#a261021p51",
-     "pubDate": "Wed, 21 Oct 2026 17:20:03 -0400",
-     "summary": "Business Insider : Mark Zuckerberg says Muse has drawn 10M+ users since its launch and 25%+ of users are making purchases through the app, with an average purchase size of $200+ &nbsp; &mdash;&nbsp; - Meta reported third-quarter earnings on Wednesday.&nbsp; &mdash; Meta CEO Mark Zuckerberg said over",
-     "source": "Techmeme",
-     "zh": "Mark Zuckerberg says Muse has drawn 10M+ users since its launch and 25%+ of users are making purchases through the app, with an average purchase size of $200+ (Business Insider)"
     },
     {
      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
@@ -2265,52 +2265,68 @@
      "zh": "Fintechs top banks and stablecoins for cheap cross-border payment - BIS research"
     },
     {
-     "title": "晶合集成：融资净买入488.29万元，融资余额10.89亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610223903265939.html",
-     "pubDate": "Thu, 22 Oct 2026 07:58:45 +0800",
-     "summary": "交易所最新数据显示， 晶合集成 于2026年10月21日获融资买入2640.53万元，融资偿还2152.24万元， 当日融资净买入488.29万元。 目前，该股融资余额10.89亿，占流通市值比例为1.98%。 该股当日无融券交易。目前，该股融券余量4.92万股，融券余额134.62万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使",
+     "title": "新益昌：融资净买入175.78万元，融资余额3.27亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610223903268227.html",
+     "pubDate": "Thu, 22 Oct 2026 07:59:02 +0800",
+     "summary": "交易所最新数据显示，新益昌于2026年10月21日获融资买入1939.16万元，融资偿还1763.38万元， 当日融资净买入175.78万元。 目前，该股融资余额3.27亿，占流通市值比例为3.65%。 该股当日无融券交易。目前，该股融券余量4600股，融券余额40.55万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此",
      "source": "东方财富股票",
-     "zh": "晶合集成：融资净买入488.29万元，融资余额10.89亿元"
+     "zh": "新益昌：融资净买入175.78万元，融资余额3.27亿元"
     },
     {
-     "title": "华安证券：融资净偿还519.47万元，融资余额15.4亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610223903264720.html",
-     "pubDate": "Thu, 22 Oct 2026 07:58:30 +0800",
-     "summary": "交易所最新数据显示，华安证券于2026年10月21日获融资买入3369.20万元，融资偿还3888.68万元， 当日融资净偿还519.47万元。 目前，该股融资余额15.40亿，占流通市值比例为4.39%。 该股当日融券卖出4.60万股，融券偿还4.09万股， 融券净卖出5100股。 目前，该股融券余量125.1万股，融券余额873.2万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而",
+     "title": "有方科技：融资净偿还81万元，融资余额2.62亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610223903267843.html",
+     "pubDate": "Thu, 22 Oct 2026 07:58:59 +0800",
+     "summary": "交易所最新数据显示，有方科技于2026年10月21日获融资买入969.73万元，融资偿还1050.73万元， 当日融资净偿还81万元。 目前，该股融资余额2.62亿，占流通市值比例为8.51%。 该股当日融券卖出0股，融券偿还3000股， 融券净偿还3000股。 目前，该股融券余量2662股，融券余额8.84万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户",
      "source": "东方财富股票",
-     "zh": "华安证券：融资净偿还519.47万元，融资余额15.4亿元"
+     "zh": "有方科技：融资净偿还81万元，融资余额2.62亿元"
     },
     {
-     "title": "迪生力：融资净买入84.77万元，融资余额1.22亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610223903261918.html",
-     "pubDate": "Thu, 22 Oct 2026 07:58:06 +0800",
-     "summary": "交易所最新数据显示， 迪生力 于2026年10月21日获融资买入646.49万元，融资偿还561.73万元， 当日融资净买入84.77万元。 目前，该股融资余额1.22亿，占流通市值比例为5.14%。 该股当日无融券交易。目前，该股融券余量400股，融券余额2212元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富",
+     "title": "浙江新能：融资净买入58.05万元，融资余额1.88亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610223903267728.html",
+     "pubDate": "Thu, 22 Oct 2026 07:58:59 +0800",
+     "summary": "交易所最新数据显示，浙江新能于2026年10月21日获融资买入1795.83万元，融资偿还1737.78万元， 当日融资净买入58.05万元。 目前，该股融资余额1.88亿，占流通市值比例为1.04%。 该股当日融券卖出3100股，融券偿还3700股， 融券净偿还600股。 目前，该股融券余量46.33万股，融券余额346.55万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈",
      "source": "东方财富股票",
-     "zh": "迪生力：融资净买入84.77万元，融资余额1.22亿元"
+     "zh": "浙江新能：融资净买入58.05万元，融资余额1.88亿元"
     },
     {
-     "title": "松发股份：融资净买入2099.06万元，融资余额7.93亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610223903261732.html",
-     "pubDate": "Thu, 22 Oct 2026 07:58:05 +0800",
-     "summary": "交易所最新数据显示， 松发股份 于2026年10月21日获融资买入6845.30万元，融资偿还4746.23万元， 当日融资净买入2099.06万元。 目前，该股融资余额7.93亿，占流通市值比例为1.81%。 该股当日无融券交易，融券余额为0。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "title": "西部黄金：融资净买入496.61万元，融资余额3.54亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610223903267656.html",
+     "pubDate": "Thu, 22 Oct 2026 07:58:59 +0800",
+     "summary": "交易所最新数据显示，西部黄金于2026年10月21日获融资买入2348.56万元，融资偿还1851.96万元， 当日融资净买入496.61万元。 目前，该股融资余额3.54亿，占流通市值比例为1.64%。 该股当日融券卖出4100股，融券偿还5000股， 融券净偿还900股。 目前，该股融券余量20.31万股，融券余额494.95万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的",
      "source": "东方财富股票",
-     "zh": "松发股份：融资净买入2099.06万元，融资余额7.93亿元"
+     "zh": "西部黄金：融资净买入496.61万元，融资余额3.54亿元"
     },
     {
-     "title": "上海家化：融资净买入251.2万元，融资余额4亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610223903261072.html",
-     "pubDate": "Thu, 22 Oct 2026 07:57:55 +0800",
-     "summary": "交易所最新数据显示， 上海家化 于2026年10月21日获融资买入964.71万元，融资偿还713.51万元， 当日融资净买入251.2万元。 目前，该股融资余额4.00亿，占流通市值比例为3.29%。 该股当日融券卖出400股，融券偿还200股， 融券净卖出200股。 目前，该股融券余量20.12万股，融券余额363.77万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而",
+     "title": "春风动力：融资净偿还2022.49万元，融资余额1.6亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610223903267528.html",
+     "pubDate": "Thu, 22 Oct 2026 07:58:59 +0800",
+     "summary": "交易所最新数据显示，春风动力于2026年10月21日获融资买入2332.18万元，融资偿还4354.67万元， 当日融资净偿还2022.49万元。 目前，该股融资余额1.60亿，占流通市值比例为0.36%。 该股当日融券卖出1.05万股，融券偿还1.88万股， 融券净偿还8300股。 目前，该股融券余量4.61万股，融券余额1324.96万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容",
      "source": "东方财富股票",
-     "zh": "上海家化：融资净买入251.2万元，融资余额4亿元"
+     "zh": "春风动力：融资净偿还2022.49万元，融资余额1.6亿元"
     },
     {
-     "title": "宇通客车：融资净买入826.71万元，融资余额2.11亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610223903260972.html",
-     "pubDate": "Thu, 22 Oct 2026 07:57:55 +0800",
-     "summary": "交易所最新数据显示， 宇通客车 于2026年10月21日获融资买入1942.33万元，融资偿还1115.63万元， 当日融资净买入826.71万元。 目前，该股融资余额2.11亿，占流通市值比例为0.34%。 该股当日融券卖出2.86万股，融券偿还2.71万股， 融券净卖出1500股。 目前，该股融券余量36.58万股，融券余额1020.58万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资",
+     "title": "金辰股份：融资净偿还384.6万元，融资余额1.3亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202610223903267389.html",
+     "pubDate": "Thu, 22 Oct 2026 07:58:55 +0800",
+     "summary": "交易所最新数据显示，金辰股份于2026年10月21日获融资买入786.64万元，融资偿还1171.24万元， 当日融资净偿还384.6万元。 目前，该股融资余额1.30亿，占流通市值比例为3.54%。 该股当日融券卖出200股，融券偿还0股， 融券净卖出200股。 目前，该股融券余量1.02万股，融券余额27.08万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责任",
      "source": "东方财富股票",
-     "zh": "宇通客车：融资净买入826.71万元，融资余额2.11亿元"
+     "zh": "金辰股份：融资净偿还384.6万元，融资余额1.3亿元"
+    },
+    {
+     "title": "Pathward reiterates fiscal 2027 EPS guidance of $9.50 to $10.00 as it extends H&R Block partnership to mid-2030",
+     "link": "https://seekingalpha.com/news/4655650-pathward-reiterates-fiscal-2027-eps-guidance-of-9_50-to-10_00-as-it-extends-h-and-r-block?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 21 Oct 2026 19:54:59 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pathward reiterates fiscal 2027 EPS guidance of $9.50 to $10.00 as it extends H&R Block partnership to mid-2030"
+    },
+    {
+     "title": "美股存储半导体股大反弹，西部数据涨近4%，科技股大涨",
+     "link": "http://www.eeo.com.cn/2026/1022/1072556.shtml",
+     "pubDate": "Thu, 22 Oct 2026 07:52:05 +0800",
+     "summary": "北京时间10月22日，受SpaceX业绩提振，资金重新涌入科技领域，美股三大指数集体收涨，道指涨0.69%，纳指涨1.05%，标普500指数涨0.58%。 科技巨头多数上涨，SpaceX大涨7.79%，公司上市后首次季度盈利；特斯拉涨3.41%，SpaceX与特斯拉合并讨论升温提振情绪；英伟达涨2.54%，首席执行官黄仁勋在GTC柏林大会发表主题演讲并推出DSX POD AI工厂；苹果涨1.32%；Meta涨0.47%、微软涨0.20%；亚马逊跌0.10%、谷歌跌1.62%。 存...",
+     "source": "经济观察网",
+     "zh": "美股存储半导体股大反弹，西部数据涨近4%，科技股大涨"
     },
     {
      "title": "Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻",
@@ -2343,6 +2359,14 @@
      "summary": "市场概述 强劲季报提振AI交易，纳指本周第二日收涨超1% ，标普三连涨至一周新高，道指收创一个多月新高。绩优SpaceX收涨近8%；大幅上调财季营收指引的超微电脑收涨近9.6%；Q4指引逊色且下调全年广告收入指引的奈飞收跌超5%； 盘后Meta一度涨7%；盘后特斯拉先涨超2%、后转跌。 10年期法债收益率2002年来首次升破5.0%。 离岸人民币再破6.68、连续五日创四年新高。原油高位震荡，美油两连跌、盘中涨近3%后一度转跌超1%，布油收盘勉强止住两连跌。黄金扭转两连跌。 要闻 中国 中共中央、国务院 ： 开展颠覆性技术挖掘甄别，加强新技术应用监管，探索“沙盒监管”方式。 宁德时代 回应市场",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年10月22日"
+    },
+    {
+     "title": "13天8板、9天7板、4连板！“羊”字辈逆市狂欢 哪几家有真业绩撑腰",
+     "link": "http://finance.eastmoney.com/news/11822,202610223903124614.html",
+     "pubDate": "Thu, 22 Oct 2026 07:35:16 +0800",
+     "summary": "大盘震荡之际，多只“羊”字辈个股逆市涨停，玄学炒股似乎又卷土重来，在这场“名字的游戏”里，究竟哪些“羊”有基本面支撑？ “羊”字辈逆市走强 10月21日，A股三大指数再度走低，全市场超3300只个股飘绿，据 东方财富 Choice数据，当日共计50股涨停，另有25只个股盘中触及涨停，封板率66.67%；连板股总数16只，连板股晋级率28.57%。 值得注意的是，“羊”字辈玄学炒作延续强势： 海洋王 “一”字涨停 晋级4连板 ； 百洋股份 走出9天7板 ； 九阳股份 尾盘封涨停录得13天8板 ； 东方海洋 、 天洋新材 均 “厂”字涨停 ，其中 天洋新材 录得3天2板。 而在前一日，除了 九阳股",
+     "source": "东方财富资讯",
+     "zh": "13天8板、9天7板、4连板！“羊”字辈逆市狂欢 哪几家有真业绩撑腰"
     },
     {
      "title": "欧洲最大软件公司SAP三季度营收首破100亿欧元，云积压订单增长28%再新高｜财报见闻",
@@ -2441,14 +2465,6 @@
      "zh": "以司法力量守护平安中国"
     },
     {
-     "title": "中国工农红军长征胜利90周年金银纪念币将发行",
-     "link": "http://www.eeo.com.cn/2026/1022/1072543.shtml",
-     "pubDate": "Thu, 22 Oct 2026 07:13:04 +0800",
-     "summary": "经济日报北京10月21日讯（记者勾明扬）中国人民银行21日发布公告称，定于2026年10月22日发行中国工农红军长征胜利90周年金银纪念币一套。该套金银纪念币共2枚，其中金质纪念币1枚，银质纪念币1枚，均为中华人民共和国法定货币。 该套金银纪念币正面图案均为中华人民共和国国徽，并刊国名、年号。8克圆形金质纪念币背面图案为五角星、光芒线、红军过雪山草地场景等，并刊“中国工农红军长征胜利90周年”“1936—2026”字样...",
-     "source": "经济观察网",
-     "zh": "中国工农红军长征胜利90周年金银纪念币将发行"
-    },
-    {
      "title": "Meta财报带来惊喜：营收及指引双超预期 Muse北美用户破千万",
      "link": "http://stock.eastmoney.com/news/11228,202610223903096388.html",
      "pubDate": "Thu, 22 Oct 2026 07:07:23 +0800",
@@ -2479,22 +2495,6 @@
      "summary": "Group to create new class of non-voting shares to allow stock sales without diluting founder’s control",
      "source": "Financial Times",
      "zh": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal"
-    },
-    {
-     "title": "U.S. wheat futures sink to 14-week lows on Ukraine peace efforts",
-     "link": "https://seekingalpha.com/news/4655648-u-s-wheat-futures-sink-to-14-week-lows-on-ukraine-peace-efforts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 21 Oct 2026 18:57:40 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "U.S. wheat futures sink to 14-week lows on Ukraine peace efforts"
-    },
-    {
-     "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
-     "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-     "pubDate": "Wed, 21 Oct 2026 22:50:35 GMT",
-     "summary": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
-     "source": "CNBC",
-     "zh": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks"
     }
    ]
   },

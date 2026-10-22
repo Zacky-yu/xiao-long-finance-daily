@@ -1,9 +1,41 @@
 {
-  "generatedAt": "2026-10-22T15:29:46.592Z",
+  "generatedAt": "2026-10-22T17:20:41.248Z",
   "count": 40,
   "items": [
     {
-      "title": "Investors’ recent money moves show a preference for quality over momentum within the S&P 500",
+      "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+      "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+      "pubDate": "Thu, 22 Oct 2026 17:16:00 GMT",
+      "content": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets.",
+      "source": "US",
+      "category": "美股市场"
+    },
+    {
+      "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
+      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+      "pubDate": "Thu, 22 Oct 2026 16:48:00 GMT",
+      "content": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things",
+      "source": "US",
+      "category": "全球综合"
+    },
+    {
+      "title": "Zuckerberg’s California tax move is a win for Meta — and for him",
+      "link": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
+      "pubDate": "Thu, 22 Oct 2026 16:48:00 GMT",
+      "content": "He has bought some good PR and gets to live and work where he wants.",
+      "source": "US",
+      "category": "全球综合"
+    },
+    {
+      "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
+      "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+      "pubDate": "Thu, 22 Oct 2026 15:33:00 GMT",
+      "content": "Investors are spooked by Tesla’s cut to its near-term spending target and Lam Research’s weaker-than-expected forecast,",
+      "source": "US",
+      "category": "半导体"
+    },
+    {
+      "title": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
       "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
       "pubDate": "Thu, 22 Oct 2026 15:10:00 GMT",
       "content": "Investors have been steadily pouring money into the Invesco S&P 500 Quality ETF this year.",
@@ -49,38 +81,6 @@
       "content": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect",
       "source": "US",
       "category": "全球综合"
-    },
-    {
-      "title": "The 3 questions every AI investor needs to ask right now",
-      "link": "https://www.marketwatch.com/story/the-3-questions-every-ai-investor-needs-to-ask-right-now-2d9399b9?mod=mw_rss_topstories",
-      "pubDate": "Thu, 22 Oct 2026 13:21:00 GMT",
-      "content": "Your stock portfolio may have more AI overlap than you realize.",
-      "source": "US",
-      "category": "美股市场"
-    },
-    {
-      "title": "Markets are pricing in long-term AI winners. This veteran investor says history proves customers win more than innovators.",
-      "link": "https://www.marketwatch.com/story/markets-are-pricing-in-long-term-ai-winners-this-veteran-investor-says-history-proves-customers-win-more-than-innovators-f7043439?mod=mw_rss_topstories",
-      "pubDate": "Thu, 22 Oct 2026 12:40:00 GMT",
-      "content": "Rob Arnott, chairman of Syzygy Asset Management, says the perceived AI winners of today may be far from reality.",
-      "source": "US",
-      "category": "美股市场"
-    },
-    {
-      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-      "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-      "pubDate": "Thu, 22 Oct 2026 12:35:00 GMT",
-      "content": "Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery.",
-      "source": "US",
-      "category": "美股市场"
-    },
-    {
-      "title": "IBM’s stock falls as investors struggle to shake off July earnings miss",
-      "link": "https://www.marketwatch.com/story/ibms-stock-falls-as-investors-struggle-to-shake-off-july-earnings-miss-0969b9e3?mod=mw_rss_topstories",
-      "pubDate": "Thu, 22 Oct 2026 12:04:00 GMT",
-      "content": "Shares in International Business Machines declined 5% in Thursday’s premarket trading as investors digested the company’s third-quarter results.",
-      "source": "US",
-      "category": "美股市场"
     },
     {
       "title": "Jobless claims fall to lowest level since mid-May",

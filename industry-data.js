@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 03:27:00",
+ "generated_at": "2026/10/23 03:36:25",
  "recent_days": 7,
  "industries": [
   {
@@ -24,6 +24,14 @@ window.INDUSTRY_DATA = {
      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
      "source": "TechCrunch AI",
      "zh": "Canva releases its first image generation model"
+    },
+    {
+     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+     "source": "TechCrunch AI",
+     "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
     },
     {
      "title": "The Foundations of Scalable AI",
@@ -98,14 +106,6 @@ window.INDUSTRY_DATA = {
      "zh": "Uber puts all 30,000 employees on ChatGPT Work"
     },
     {
-     "title": "Spotify’s current AI bet is about being the music service that agents choose",
-     "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-     "pubDate": "Thu, 22 Oct 2026 15:03:58 +0000",
-     "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-     "source": "TechCrunch AI",
-     "zh": "Spotify’s current AI bet is about being the music service that agents choose"
-    },
-    {
      "title": "Beyond tree cover: mapping the world’s forest types",
      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
      "pubDate": "Thu, 22 Oct 2026 14:30:24 +0000",
@@ -114,28 +114,12 @@ window.INDUSTRY_DATA = {
      "zh": "Beyond tree cover: mapping the world’s forest types"
     },
     {
-     "title": "How to Process Large JSON Files in Python With ijson",
-     "link": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
-     "pubDate": "Thu, 22 Oct 2026 14:00:00 +0000",
-     "summary": "I loaded a large JSON file in Python and watched memory jump from 43 MB to 808 MB. Here’s what happened and how streaming changed everything.",
-     "source": "KDnuggets",
-     "zh": "How to Process Large JSON Files in Python With ijson"
-    },
-    {
      "title": "全国产芯片训练的大模型来了！百万上下文，价格比DeepSeek V4.1 Flash更低",
      "link": "https://zhidx.com/p/603664.html",
      "pubDate": "Thu, 22 Oct 2026 21:35:27 +0800",
      "summary": "智东西 作者 | 程茜 编辑 | 心缘 智东西10月22日报道，今日，科大讯飞发布数个大模型及AI应用新成果，包括端云一体大模型讯飞星火X2.6、语音基座模型SparkAudio 1.0、星火具身多模态交互技术、WinWork数字员工平台、超级AI教师助手讯飞星光等。 其 端云一体讯飞星火X2.6基座模型 基于 全国产算力 完成能力升级，包含 云端的293-A30B模型 及端侧的 X2.6-4B模型 ，后一模型已开源。 云端模型293-A30B支持百万token上下文，输入价格为0.9元/百万tokens，输入缓存命中价格为0.08元/百万tokens，输出价格为3.6元/百万tokens。 ",
      "source": "智东西",
      "zh": "全国产芯片训练的大模型来了！百万上下文，价格比DeepSeek V4.1 Flash更低"
-    },
-    {
-     "title": "Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining",
-     "link": "https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining",
-     "pubDate": "Thu, 22 Oct 2026 12:00:00 +0000",
-     "summary": "Google's Harness² lets AI agents improve their prompts, tools, memory, and scripts through two recursive loops without touching model weights. Learn more, including how to run the free demo yourself.",
-     "source": "KDnuggets",
-     "zh": "Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining"
     },
     {
      "title": "24小时，从真实问题到落地跑通，安克黑客松让创新成为“有源之水”",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "智东西（公众号： zhidxcom ） 编译 | 杨京丽 编辑 | 云鹏 智东西10月22日消息，刚刚，据彭博社报道，DeepSeek在最新一轮融资中已筹集约 1000亿元（约合150亿美元） ，创下 中国AI行业规模最大的融资纪录 ， 宁德时代和腾讯 位列本轮融资规模最大的投资者之列。 据知情人士透露，DeepSeek在与投资者接洽期间至少两次上调融资目标，最初目标为500亿元， 后提高至800亿元 ，最终达到 1000亿元 。由于相关细节尚未公开，知情人士要求匿名。 彭博社称，DeepSeek已开始加大投入，推进AI数据中心基础设施建设，并开发更多面向中国及海外市场的开源模型。 这轮融资将",
      "source": "智东西",
      "zh": "1000亿！曝DeepSeek拿下中国AI最大融资"
+    },
+    {
+     "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+     "link": "https://arxiv.org/abs/2610.26887",
+     "pubDate": "Thu, 22 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and per",
+     "source": "arXiv cs.AI",
+     "zh": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training"
+    },
+    {
+     "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+     "link": "https://arxiv.org/abs/2610.26899",
+     "pubDate": "Thu, 22 Oct 2026 00:00:00 -0400",
+     "summary": "arXiv:2610.26899v1 Announce Type: new Abstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand. The advancement of machine learning algorithms has encouraged researchers to explore their applications in the c",
+     "source": "arXiv cs.AI",
+     "zh": "Large language model and reinforcement learning based autonomous construction and progress updates"
     }
    ]
   },
@@ -1098,6 +1098,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
+     "link": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/",
+     "pubDate": "Thu, 22 Oct 2026 15:27:00 -0400",
+     "summary": "A combination of the shot and the immunotherapy Keytruda cut the risk of relapse or death by 42% in a landmark melanoma study that met Wall Street expectations but triggered a &ldquo;sell-the-news reaction,&rdquo; one analyst wrote.",
+     "source": "BioPharma Dive",
+     "zh": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results"
+    },
+    {
      "title": "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
      "link": "https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/?utm_campaign=rss",
      "pubDate": "Thu, 22 Oct 2026 19:03:31 +0000",
@@ -1280,14 +1288,6 @@ window.INDUSTRY_DATA = {
      "summary": "Shortly after winning a clearance in the skin disease dermatomyositis, brepocitinib posted results suggesting it might also be a &ldquo;best-in-disease&rdquo; medicine for an inflammatory eye condition, one analyst said.",
      "source": "BioPharma Dive",
      "zh": "Roivant, continuing ascent, claims another victory for rare disease drug"
-    },
-    {
-     "title": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
-     "link": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
-     "pubDate": "Wed, 21 Oct 2026 10:23:00 -0400",
-     "summary": "New follow-up results suggest Arcus&rsquo; drug might be superior to a marketed Merck medicine. Elsewhere, Eli Lilly and AstraZeneca forged new partnerships.",
-     "source": "BioPharma Dive",
-     "zh": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal"
     }
    ]
   },
@@ -1781,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
      "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
      "pubDate": "Thu, 22 Oct 2026 18:44:36 +0000",
-     "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 13 # Comments: 3",
+     "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 20 # Comments: 4",
      "source": "Hacker News",
      "zh": "Hedra is a 3D open world game I wrote from scratch while in highschool"
     },
@@ -1821,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: UI micro interactions prompts for AI",
      "link": "https://www.typeui.sh/micro-interactions",
      "pubDate": "Thu, 22 Oct 2026 18:32:57 +0000",
-     "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 12 # Comments: 2",
+     "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 19 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: UI micro interactions prompts for AI"
     },
@@ -1837,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Award-Winning AI Literature",
      "link": "https://jamesyu.org/award-winning-ai-literature/",
      "pubDate": "Thu, 22 Oct 2026 18:28:26 +0000",
-     "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 13 # Comments: 3",
+     "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 21 # Comments: 4",
      "source": "Hacker News",
      "zh": "Award-Winning AI Literature"
     },
@@ -1845,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "AI and the Enclosure of the Scientific Commons",
      "link": "https://arxiv.org/abs/2610.27251",
      "pubDate": "Thu, 22 Oct 2026 18:28:16 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 14 # Comments: 1",
+     "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 19 # Comments: 2",
      "source": "Hacker News",
      "zh": "AI and the Enclosure of the Scientific Commons"
     },
@@ -1877,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
      "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
      "pubDate": "Thu, 22 Oct 2026 18:02:54 +0000",
-     "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 26 # Comments: 14",
+     "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 28 # Comments: 18",
      "source": "Hacker News",
      "zh": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation"
     },
@@ -2010,6 +2010,30 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "1Password’s new solution mitigates the security risks of AI agent account access",
+     "link": "https://www.androidauthority.com/1password-for-agents-launch-3726912/",
+     "pubDate": "Thu, 22 Oct 2026 19:29:07 +0000",
+     "summary": "1Password just made giving your AI agent account access a little safer.",
+     "source": "Android Authority",
+     "zh": "1Password’s new solution mitigates the security risks of AI agent account access"
+    },
+    {
+     "title": "Gemini app expands Google Maps Personal Intelligence, replacing Deep Think",
+     "link": "https://9to5google.com/2026/10/22/gemini-personal-intelligence-maps/",
+     "pubDate": "Thu, 22 Oct 2026 19:28:41 +0000",
+     "summary": "Besides coming to Android Auto this week , Personal Intelligence in the Gemini app is also expanding its Google Maps integration. more…",
+     "source": "9to5Google",
+     "zh": "Gemini app expands Google Maps Personal Intelligence, replacing Deep Think"
+    },
+    {
+     "title": "Save $380 on the Arlo Ultra 4K HDR security bundle with solar panels",
+     "link": "https://www.androidauthority.com/arlo-ultra-4k-hdr-security-bundle-deal-3726956/",
+     "pubDate": "Thu, 22 Oct 2026 19:25:52 +0000",
+     "summary": "Arlo’s 3-camera 4K HDR outdoor security bundle drops to $369.99 on Amazon with solar panels and a 6-month plan.",
+     "source": "Android Authority",
+     "zh": "Save $380 on the Arlo Ultra 4K HDR security bundle with solar panels"
+    },
+    {
      "title": "Pour one out for Arc: One of the most hyped browsers is shutting down for good",
      "link": "https://www.androidauthority.com/arc-browser-shutting-down-december-2026-3726900/",
      "pubDate": "Thu, 22 Oct 2026 19:20:41 +0000",
@@ -2130,22 +2154,6 @@ window.INDUSTRY_DATA = {
      "zh": "Unauthorized AI agents are reportedly already accessing US bank accounts"
     },
     {
-     "title": "NBA 2K27 drops below $50 on Amazon, saving you $20",
-     "link": "https://www.androidauthority.com/nba-2k27-deal-3726920/",
-     "pubDate": "Thu, 22 Oct 2026 17:55:55 +0000",
-     "summary": "The new NBA 2K27 just got a 29% discount on Amazon, cutting the price on Switch 2, PS5, and Xbox Series X.",
-     "source": "Android Authority",
-     "zh": "NBA 2K27 drops below $50 on Amazon, saving you $20"
-    },
-    {
-     "title": "Some T-Mobile customers may finally get something back for those unexpected price hikes",
-     "link": "https://www.androidauthority.com/t-mobile-2024-price-hikes-refunds-settlement-3726790/",
-     "pubDate": "Thu, 22 Oct 2026 17:52:29 +0000",
-     "summary": "For now, only affected customers in New York qualify.",
-     "source": "Android Authority",
-     "zh": "Some T-Mobile customers may finally get something back for those unexpected price hikes"
-    },
-    {
      "title": "Orangetheory adds Apple Watch in-studio workout tracking for a one-time fee",
      "link": "https://9to5mac.com/2026/10/22/orangetheory-adds-apple-watch-in-studio-workout-tracking-for-a-one-time-fee/",
      "pubDate": "Thu, 22 Oct 2026 17:48:26 +0000",
@@ -2234,14 +2242,6 @@ window.INDUSTRY_DATA = {
      "zh": "Why this Sigma fp photographer prefers film-era lenses on his digital cameras"
     },
     {
-     "title": "Galaxy Watch user reports burn overnight; this isn’t the first time",
-     "link": "https://9to5google.com/2026/10/22/galaxy-watch-5-pro-user-reported-burn/",
-     "pubDate": "Thu, 22 Oct 2026 15:31:29 +0000",
-     "summary": "One Galaxy Watch 5 Pro user reported burns and blisters on their skin after sleeping with their watch under what can only be considered normal operation. more…",
-     "source": "9to5Google",
-     "zh": "Galaxy Watch user reports burn overnight; this isn’t the first time"
-    },
-    {
      "title": "GoPro’s new filters bring closer focus and softer backgrounds to Mission 1 cameras",
      "link": "https://www.dpreview.com/news/gopros-new-filters-bring-closer-focus-and-softer-backgrounds-to-mission-1-cameras/",
      "pubDate": "Thu, 22 Oct 2026 15:20:26 +0000",
@@ -2258,12 +2258,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Moderna’s cancer vaccine hits its targets, but an embargo breach rattles investors and the stock tumbles",
+     "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
+     "pubDate": "Thu, 22 Oct 2026 19:31:00 GMT",
+     "summary": "Questions of a ‘sell-the-news reaction.’ The experimental treatment helped prevent the return of cancer or death in melanoma patients by 42% after two years",
+     "source": "MarketWatch",
+     "zh": "Moderna’s cancer vaccine hits its targets, but an embargo breach rattles investors and the stock tumbles"
+    },
+    {
+     "title": "NextEra Energy declares $0.6232 dividend",
+     "link": "https://seekingalpha.com/news/4656157-nextera-energy-declares-0_6232-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 15:28:33 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "NextEra Energy declares $0.6232 dividend"
+    },
+    {
      "title": "Trump defends Ramaswamy ad with Acton&apos;s estranged mom after bipartisan criticism",
      "link": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
-     "pubDate": "Thu, 22 Oct 2026 19:22:27 GMT",
+     "pubDate": "Thu, 22 Oct 2026 19:28:28 GMT",
      "summary": "Ohio Gov. Mike DeWine said GOP gubernatorial nominee Vivek Ramaswamy should remove the ad featuring the mother of Democratic nominee Amy Acton.",
      "source": "CNBC",
      "zh": "Trump defends Ramaswamy ad with Acton&apos;s estranged mom after bipartisan criticism"
+    },
+    {
+     "title": "Insteel outlines $30M FY2027 capex plan with ~$20M engineered structural mesh expansion amid tariff-driven cost pressure",
+     "link": "https://seekingalpha.com/news/4656156-insteel-outlines-30m-fy2027-capex-plan-with-20m-engineered-structural-mesh-expansion-amid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 15:28:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Insteel outlines $30M FY2027 capex plan with ~$20M engineered structural mesh expansion amid tariff-driven cost pressure"
+    },
+    {
+     "title": "美国防长赫格塞思备忘录点名 PolyMarket、Kalshi 平台",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904654497.html",
+     "pubDate": "Fri, 23 Oct 2026 03:27:43 +0800",
+     "summary": "美国防长赫格塞思备忘录点名 PolyMarket、Kalshi 平台。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国防长赫格塞思备忘录点名 PolyMarket、Kalshi 平台"
+    },
+    {
+     "title": "国际油价22日上涨",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904654359.html",
+     "pubDate": "Fri, 23 Oct 2026 03:26:57 +0800",
+     "summary": "截至当天收盘，纽约商品交易所12月交货的轻质原油 期货 价格上涨2.32美元，收于每桶99.47美元，涨幅为2.39%；12月交货的伦敦布伦特原油 期货 价格上涨4.35美元，收于每桶113.17美元，涨幅为4.0%。",
+     "source": "东方财富股票",
+     "zh": "国际油价22日上涨"
+    },
+    {
+     "title": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
+     "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+     "pubDate": "Thu, 22 Oct 2026 19:26:33 GMT",
+     "summary": "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release.",
+     "source": "CNBC",
+     "zh": "Moderna shares plunge after leak of cancer vaccine data despite positive results"
+    },
+    {
+     "title": "红十字国际委员会：近几周苏丹空袭事件致数百人死亡",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904654244.html",
+     "pubDate": "Fri, 23 Oct 2026 03:26:26 +0800",
+     "summary": "当地时间10月22日，红十字国际委员会发表声明称，最近几周，苏丹多地发生多起空袭事件，共造成数百人死亡。 声明称，多处居民区、市场和流离失所者营地等民用场所在袭击中遭到严重破坏，造成大量人员伤亡，进一步加剧了当地本已严峻的人道主义危机。 声明还表示，2026年上半年，在红十字国际委员会提供支持的苏丹 医院 中，因各类武装袭击而受伤并接受治疗的伤员超过2700人。 2023年4月15日，苏丹武装部队与快速支援部队在首都喀土穆爆发武装冲突，战火随后蔓延至其他地区。持续三年多的武装冲突已造成至少5.9万人死亡。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "红十字国际委员会：近几周苏丹空袭事件致数百人死亡"
+    },
+    {
+     "title": "西藏那曲市巴青县7.0级地震已致18人遇难",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904654156.html",
+     "pubDate": "Fri, 23 Oct 2026 03:25:37 +0800",
+     "summary": "2026年10月22日22时33分，西藏那曲市巴青县发生7.0级地震。总台记者从西藏自治区应急指挥部了解到：目前地震已致18人遇难，11人重伤，21人轻伤。 地震发生后，西藏自治区应急指挥部启动自治区地震灾害二级应急响应。西藏自治区党委书记胡昌升带队连夜赶赴灾区现场指挥抗震救灾工作。目前，公安、消防、医疗救护等各方救援力量均已赶到现场，正在紧张开展救援，救援物资正在送达受灾区域。 灾情发生后，西藏公安机关派出300余名警力紧急赶赴一线抢险救援，全面排查人员受伤、灾区房屋受损等情况，并不间断开展治安巡逻防控，走村入户提醒群众前往空旷区域避险，帮助群众转移至安全区域。与此同时，巴青县公安局交管民警",
+     "source": "东方财富股票",
+     "zh": "西藏那曲市巴青县7.0级地震已致18人遇难"
+    },
+    {
+     "title": "Is getting a wedding band from Quince a bad idea? ‘It’s a third of the price.’",
+     "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
+     "pubDate": "Thu, 22 Oct 2026 19:25:00 GMT",
+     "summary": "“I am slightly anxious about purchasing something so big.”",
+     "source": "MarketWatch",
+     "zh": "Is getting a wedding band from Quince a bad idea? ‘It’s a third of the price.’"
+    },
+    {
+     "title": "市场消息：美国防长赫格塞思下令禁止相关人员借助非公开信息参与博彩投注",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904654015.html",
+     "pubDate": "Fri, 23 Oct 2026 03:25:00 +0800",
+     "summary": "市场消息：美国防长赫格塞思下令禁止相关人员借助非公开信息参与博彩投注。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场消息：美国防长赫格塞思下令禁止相关人员借助非公开信息参与博彩投注"
+    },
+    {
+     "title": "阿塞拜疆经济部长：国家石油公司Socar与意大利埃尼集团Eni正考虑通过联合项目在第三国扩大合作",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904653961.html",
+     "pubDate": "Fri, 23 Oct 2026 03:25:00 +0800",
+     "summary": "阿塞拜疆经济部长：国家石油公司Socar与意大利埃尼集团Eni正考虑通过联合项目在第三国扩大合作。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "阿塞拜疆经济部长：国家石油公司Socar与意大利埃尼集团Eni正考虑通过联合项目在第三国扩大合作"
     },
     {
      "title": "Union Pacific affirms 2026 reported EPS growth in the high single-digit range while lifting 2026 capex to $3.5B",
@@ -2298,52 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "Fulton forecasts 2026 net interest income of $1.125B-$1.135B as commercial deposits rise"
     },
     {
-     "title": "GFL Environmental special committee completes review, BC Partners last obstacle - CTFN",
-     "link": "https://seekingalpha.com/news/4656140-gfl-environmental-special-committee-completes-review-bc-partners-last-obstacle---ctfn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 15:16:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GFL Environmental special committee completes review, BC Partners last obstacle - CTFN"
-    },
-    {
-     "title": "美国国务院：美国对玻利维亚40名个人实施签证限制",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904653362.html",
-     "pubDate": "Fri, 23 Oct 2026 03:13:25 +0800",
-     "summary": "美国国务院：美国对玻利维亚40名个人实施签证限制。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国国务院：美国对玻利维亚40名个人实施签证限制"
-    },
-    {
-     "title": "美元指数22日下跌",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904653223.html",
-     "pubDate": "Fri, 23 Oct 2026 03:09:53 +0800",
-     "summary": "衡量美元对六种主要货币的美元指数当天下跌0.17%，在汇市尾市收于101.608。截至纽约汇市尾市，1欧元兑换1.1220美元，低于前一交易日的1.1223美元；1英镑兑换1.3400美元，高于前一交易日的1.3384美元。1美元兑换156.78日元，低于前一交易日的158.29日元；1美元兑换0.8205瑞士法郎，低于前一交易日的0.8254瑞士法郎；1美元兑换1.4008加元，低于前一交易日的1.4052加元；1美元兑换9.9079瑞典克朗，高于前一交易日的9.8985瑞典克朗。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "美元指数22日下跌"
-    },
-    {
      "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
      "link": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
      "pubDate": "Thu, 22 Oct 2026 19:09:11 GMT",
      "summary": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
      "source": "CNBC",
      "zh": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns"
-    },
-    {
-     "title": "Dover narrows 2026 outlook toward upper end with 5%-6% organic growth and $10.60-$10.75 adjusted EPS",
-     "link": "https://seekingalpha.com/news/4656150-dover-narrows-2026-outlook-toward-upper-end-with-5-percentminus-6-percent-organic-growth-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 15:08:34 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dover narrows 2026 outlook toward upper end with 5%-6% organic growth and $10.60-$10.75 adjusted EPS"
-    },
-    {
-     "title": "在最近一个双周报告期内，投资基金购入价值289.56亿美元8月15日到期的10年期美国国债",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904652941.html",
-     "pubDate": "Fri, 23 Oct 2026 03:06:09 +0800",
-     "summary": "美国财政部数据显示，在最近一个双周报告期内，投资基金购入价值289.56亿美元、将于2036年8月15日到期的10年期国债，而上月此类国债购入额为258.72亿美元。 外国投资者购入价值82.14亿美元、将于2036年8月15日到期的10年期国债，而上月这一数值为109.59亿美元。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "在最近一个双周报告期内，投资基金购入价值289.56亿美元8月15日到期的10年期美国国债"
     },
     {
      "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
@@ -2354,52 +2402,20 @@ window.INDUSTRY_DATA = {
      "zh": "Trump asked Musk to lift Starlink slowdown, WSJ reports"
     },
     {
-     "title": "现货黄金失守4030美元/盎司 日内跌2.70%",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904652710.html",
-     "pubDate": "Fri, 23 Oct 2026 03:02:41 +0800",
-     "summary": "现货 黄金 失守4030美元/盎司，日内跌2.70%。",
-     "source": "东方财富股票",
-     "zh": "现货黄金失守4030美元/盎司 日内跌2.70%"
-    },
-    {
-     "title": "恒指期货夜盘收涨0.78% 报23133点 高水198点",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904652640.html",
-     "pubDate": "Fri, 23 Oct 2026 03:01:36 +0800",
-     "summary": "恒指 期货 夜盘收涨0.78%，报23133点，高水198点。",
-     "source": "东方财富股票",
-     "zh": "恒指期货夜盘收涨0.78% 报23133点 高水198点"
-    },
-    {
-     "title": "现货黄金跌破4030美元/盎司，日内跌近3%",
-     "link": "http://finance.eastmoney.com/news/1361,202610233904653182.html",
-     "pubDate": "Fri, 23 Oct 2026 03:01:25 +0800",
-     "summary": "现货 黄金 跌破4030美元/盎司，日内跌近3%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "现货黄金跌破4030美元/盎司，日内跌近3%"
-    },
-    {
-     "title": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
-     "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-     "pubDate": "Thu, 22 Oct 2026 18:51:01 GMT",
-     "summary": "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release.",
-     "source": "CNBC",
-     "zh": "Moderna shares plunge after leak of cancer vaccine data despite positive results"
-    },
-    {
-     "title": "Moderna’s stock tumbles after reported leak of data for cancer vaccine",
-     "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
-     "pubDate": "Thu, 22 Oct 2026 18:35:00 GMT",
-     "summary": "Moderna and Merck are expected to share the Phase 3 data for their experimental cancer vaccine this weekend at a medical conference.",
-     "source": "MarketWatch",
-     "zh": "Moderna’s stock tumbles after reported leak of data for cancer vaccine"
-    },
-    {
      "title": "Meta sell-off drags US tech stocks lower as AI spending fears flare up",
      "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
      "pubDate": "Thu, 22 Oct 2026 18:15:32 GMT",
      "summary": "US Treasuries rally strongly as traders rush into haven assets",
      "source": "Financial Times",
      "zh": "Meta sell-off drags US tech stocks lower as AI spending fears flare up"
+    },
+    {
+     "title": "美股三大指数集体下跌 纳指跌近3% 美股科技巨头普遍下挫",
+     "link": "http://finance.eastmoney.com/news/1345,202610223904421328.html",
+     "pubDate": "Fri, 23 Oct 2026 02:03:45 +0800",
+     "summary": "美东时间周四，美股三大指数集体下跌，截至发稿，标普500指数跌1.48%， 纳斯达克 综合 指数跌2.85%，道琼斯指数跌0.23%。 美股科技巨头普遍下跌，Meta跌7.98%， SpaceX 跌9.05%， 台积电 跌4.75%， 亚马逊 跌5.25%， 英伟达 跌4.54%， 博通 跌4.01%， 谷歌-A 跌2.92%， 特斯拉 跌2.17%， 微软 跌1.79%， 苹果 涨0.59%。 必需消费与医药龙头领涨， 宝洁 涨5.97%， 高露洁 涨4.11%， 强生 涨4.02%， 礼来 涨3.04%， 百事 可乐涨2.64%， 安进 涨2.31%， 可口可乐 涨2.27% （盘中创新高",
+     "source": "东方财富资讯",
+     "zh": "美股三大指数集体下跌 纳指跌近3% 美股科技巨头普遍下挫"
     },
     {
      "title": "Elon Musk invests about $1 billion in Skydance",
@@ -2458,14 +2474,6 @@ window.INDUSTRY_DATA = {
      "zh": "特斯拉、英伟达联手锁定产能，三星电机扩产高端封装基板"
     },
     {
-     "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
-     "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-     "pubDate": "Thu, 22 Oct 2026 16:48:00 GMT",
-     "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things",
-     "source": "MarketWatch",
-     "zh": "Young Americans are giving up their cars. It’s a path to financial freedom, for some."
-    },
-    {
      "title": "AI交易连遭暴击！避险升温，盘中芯片指数跌超6%、Meta跌逾7%，AI产业链全线溃败",
      "link": "https://wallstreetcn.com/articles/3784246",
      "pubDate": "Fri, 23 Oct 2026 00:28:28 +0800",
@@ -2488,14 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Digital asset and stablecoin infrastructure provider Fireblocks says that reports that it is in talks to be acquired by Visa for $2.5 billion are \"news to us\".",
      "source": "Finextra",
      "zh": "Fireblocks pours cold water on reports of $2.5bn acquisition talks with Visa"
-    },
-    {
-     "title": "PHP漏洞危机进入第二天：黑客攻击激增至百万次，多国政府服务仍处于中断状态",
-     "link": "https://wallstreetcn.com/articles/3784237",
-     "pubDate": "Thu, 22 Oct 2026 23:33:40 +0800",
-     "summary": "全球针对PHP关键漏洞的应急修复行动进入第二天，形势持续紧张。研究人员警告，在漏洞公开披露前后，黑客的攻击尝试已从数千次骤升至数百万次，部分系统被入侵的可能性不可排除。 周四，英国确认，超过30项政府服务仍处于下线状态，以待安全更新完成部署。电信运营商Orange也于周四宣布暂停部分网站和应用的访问。 此前一天，奥地利、荷兰、芬兰、法国等数十个国家和地区已陆续采取类似措施，日本多家银行和航空公司亦中断了部分在线服务。 网络安全公司Cloudflare首席执行官Matthew Prince透露，在漏洞公开披露前10小时，其系统已识别出数千次针对该漏洞的利用尝试；公告发布后两小时内，攻击次数飙升至",
-     "source": "华尔街见闻",
-     "zh": "PHP漏洞危机进入第二天：黑客攻击激增至百万次，多国政府服务仍处于中断状态"
     }
    ]
   },
